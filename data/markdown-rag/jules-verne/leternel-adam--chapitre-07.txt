@@ -1,0 +1,20 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTERNEL ADAM"
+slug_oeuvre: "leternel-adam"
+section: "Chapitre 07"
+slug_section: "chapitre-07"
+type: "chapitre"
+---
+
+]
+
+CONTES ET NOUVELLES
+
+L'ÉTERNEL ADAM
+
+]
+
+## Chapitre 7
+... Que nous avions à bord de la Virginia. Ces deux couples de lapins se sont sauvés dans l'intérieur, et on ne les a plus revus. Il faut croire qu'ils ont trouvé de quoi se nourrir. La terre, à notre insu, produirait-elle donc...

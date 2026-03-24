@@ -1,0 +1,55 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "EDGAR POE ET SES OEUVRES",
+  "slug": "edgar-poe-et-ses-oeuvres",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 2464,
+      "spine_end_exclusive": 2465,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_394.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 2465,
+      "spine_end_exclusive": 2466,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_395.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 2466,
+      "spine_end_exclusive": 2467,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_396.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 2467,
+      "spine_end_exclusive": 2468,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_397.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

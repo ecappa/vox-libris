@@ -1,0 +1,172 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "CONTES A NINON",
+  "slug": "contes-a-ninon",
+  "nombre_chapitres": 9,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 993,
+      "spine_end_exclusive": 994,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "À Ninon",
+      "slug": "a-ninon",
+      "spine_start": 994,
+      "spine_end_exclusive": 995,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Simplice",
+      "slug": "simplice",
+      "spine_start": 995,
+      "spine_end_exclusive": 1007,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_005.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_006.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_007.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_008.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_009.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_010.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_011.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_012.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_013.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_014.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_015.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le carnet de danse",
+      "slug": "le-carnet-de-danse",
+      "spine_start": 1007,
+      "spine_end_exclusive": 1010,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_017.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_018.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Celle qui m’aime",
+      "slug": "celle-qui-maime",
+      "spine_start": 1010,
+      "spine_end_exclusive": 1021,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_020.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_021.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_022.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_023.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_024.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_025.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_026.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_027.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_028.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_029.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_030.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La fée amoureuse",
+      "slug": "la-fee-amoureuse",
+      "spine_start": 1021,
+      "spine_end_exclusive": 1022,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_031.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le sang",
+      "slug": "le-sang",
+      "spine_start": 1022,
+      "spine_end_exclusive": 1028,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_032.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_033.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_034.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_035.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_036.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_037.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les voleurs et l’âne",
+      "slug": "les-voleurs-et-lane",
+      "spine_start": 1028,
+      "spine_end_exclusive": 1035,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_038.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_039.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_040.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_041.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_042.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_043.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_044.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Soeur-des-Pauvres",
+      "slug": "soeur-des-pauvres",
+      "spine_start": 1035,
+      "spine_end_exclusive": 1043,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_045.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_046.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_047.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_048.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_049.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_050.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_051.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Aventures du grand Sidoine et du petit Médéric",
+      "slug": "aventures-du-grand-sidoine-et-du-petit-mederic",
+      "spine_start": 1043,
+      "spine_end_exclusive": 1057,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_053.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_054.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_055.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_056.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_057.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_058.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_059.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_060.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_061.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_062.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_063.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_064.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_065.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_066.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/contes-a-ninon/Zola4_image004.jpg",
+    "images/emile-zola/contes-a-ninon/Zola4_image005.jpg",
+    "images/emile-zola/contes-a-ninon/Zola4_image006.jpg",
+    "images/emile-zola/contes-a-ninon/Zola4_image007.jpg",
+    "images/emile-zola/contes-a-ninon/Zola4_image008.jpg",
+    "images/emile-zola/contes-a-ninon/Zola4_image009.jpg"
+  ]
+}

@@ -1,0 +1,55 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+LA DESTINÉE DE JEAN MORÉNAS
+
+
+]{.calibre20}
+
+## []{#_Toc343186101 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183640 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343181179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178718 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176257 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173796 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171335 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168874 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166413 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163952 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343159030 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149760 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147299 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144836 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142375 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139914 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137452 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134991 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132530 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343130068 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127607 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343125143 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122682 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343120221 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117767 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115304 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112843 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110382 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343108043 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106638 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343104176 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101713 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099288 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096819 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094357 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091879 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089416 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343082029 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079568 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343077105 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343072176 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343044216 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343041877 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343040619 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039311 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036946 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034581 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032216 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343029968 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028660 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026295 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023930 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021564 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343019198 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016833 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014468 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343012101 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009736 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007371 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343005006 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002641 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000276 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997911 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995546 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342993181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990816 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988451 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342986084 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983719 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981354 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978989 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 8]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943008 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_117 .calibre21}
+
+Un long moment, Jean Morénas demeura immobile, stupéfait du dénouement de son inexplicable aventure. Pourquoi, après l\'avoir aidé dans sa fuite, son protecteur l\'abandonnait-il ? Pourquoi, surtout, cet inconnu s\'était-il intéressé au sort d\'un condamné que rien ne désignait spécialement à son attention ? Comment s\'appelait-il seulement ? Jean s\'aperçut qu\'il n\'avait même pas pensé à demander le nom de son sauveur. [Si, à cet oubli, il n\'était plus de remède, cela, en somme, n\'importait guère.]{.calibre543} L\'essentiel était de ne plus traîner les fers qui lui avaient si longtemps meurtri les os. Le reste s\'expliquerait plus tard ou jamais. Une chose sûre, en tout cas, c\'est qu\'il était seul au bord d\'une route déserte, de l\'or en poche, nanti de papiers réguliers, et aspirant à pleins poumons l\'air enivrant de la liberté.
+
+Jean Morénas se mit en marche. On lui avait dit d\'aller du côté de Marseille. C\'est donc vers Marseille qu\'il se dirigea, sans même y penser. Mais ce fut pour s\'arrêter dès les premiers pas.
+
+Marseille, la Marie-Magdeleine, Valparaiso du Chili, se refaire une vie, chansons que tout cela ! Était-ce pour se « refaire une vie » dans des contrées lointaines qu\'il avait souhaité si fort la liberté ? Non, non ! Pendant son long emprisonnement, il n\'avait rêvé que d\'un seul pays : Sainte-Marie-des-Maures, que d\'un seul être au monde : Marguerite. C\'était le regret du village et le souvenir de Marguerite qui avaient fait le bagne si cruel, les chaînes si pesantes. Et maintenant, il partirait sans même essayer de les revoir ? Allons donc ! Mieux vaudrait retourner tendre l\'échine au bâton des gardes-chiourme !
+
+Non, revoir son village, s\'agenouiller sur la tombe de sa mère, et surtout, surtout, revoir Marguerite, voilà ce qu\'il fallait faire à tout prix.
+
+Quand il serait en présence de la jeune fille, il trouverait le courage qui lui avait manqué jadis. Il s\'expliquerait, il parlerait, il démontrerait son innocence. Marguerite n\'était plus une enfant. Peut-être l\'aimerait-elle à présent. Dans ce cas, il la déciderait à le suivre. Quel bel avenir s\'ouvrirait alors devant lui ! Si, au contraire, elle ne l\'aimait pas, il arriverait ce qui arriverait. Cela n\'aurait plus aucune espèce d\'importance.
+
+Jean, quittant la grande route, prit le premier sentier qu\'il croisa, se dirigeant vers le Nord. Mais bientôt il fit halte de nouveau, ramené à la prudence par le désir même de réussir dans son entreprise. Il connaissait trop le pays qu\'il traversait, et qu\'il avait si souvent parcouru dans son enfance, pour ignorer que le but qu\'il voulait atteindre n\'était pas fort éloigné de lui. En deux heures, il pouvait être à Sainte-Marie-des-Maures. Il importait de n\'y pas pénétrer avant qu\'il fit nuit noire, sous peine d\'être arrêté au premier pas.
+
+Jean s\'attarda donc dans la campagne, et ne se mit sérieusement en route [qu\'au crépuscule, après un long sommeil et un repas réconfortant dans une]{.calibre543} guinguette.
+
+Neuf heures sonnaient, et l\'obscurité était profonde quand il atteignit les maisons de Sainte-Marie-des-Maures. Par les ruelles désertes et silencieuses, Jean se glissa, sans être vu de personne, jusqu\'à l\'auberge de l\'oncle Sandre.
+
+Comment s\'y introduire ? Par la porte ? Assurément non. Savait-il qui se trouvait dans la grande salle, et si, derrière la porte, il n\'allait pas se heurter [à un ennemi ? D\'ailleurs, l\'auberge appartenait-elle toujours à Marguerite ?]{.calibre543} Pourquoi, depuis tant d\'années écoulées, n\'aurait-elle pas passé en d\'autres mains ?
+
+Fort heureusement, il avait un meilleur et plus sûr moyen que la porte d\'entrer dans la place.
+
+Il n\'est pas rare que les mas provençaux possèdent des issues secrètes permettant à leurs habitants d\'entrer et de sortir incognito.
+
+Ces « trucs », plus ou moins ingénieux selon le cas, ont sans doute été imaginés au cours des guerres de religion qui ont mis cette contrée à feu et à sang. Rien de plus naturel que les contemporains de ces époques [troublées aient cherché des procédés pour échapper, le cas échéant, à leurs]{.calibre543} ennemis.
+
+Le secret de l\'auberge de l\'oncle Sandre, secret resté bien certainement ignoré du propriétaire, Jean et Marguerite l\'avaient découvert au hasard de leurs jeux d\'enfants, et, fiers d\'être seuls à le connaître, ils s\'étaient gardés de le révéler à qui que ce fût. Devenus grands, ils l\'avaient oublié à leur tour, si bien que Jean pouvait légitimement espérer trouver le mécanisme intact au moment où il avait besoin de l\'utiliser.
+
+Le secret consistait dans la mobilité du fond de la cheminée de la grande salle. Comme dans beaucoup de bâtiments de campagne, cette cheminée était immense, assez large et profonde -- le foyer minuscule n\'en occupant que le centre -- pour contenir plusieurs personnes à son abri. Le fond en était fait de deux vastes plaques de fonte parallèles et séparées par un intervalle de quelques décimètres. Ces deux plaques étaient mobiles et pouvaient pivoter légèrement sous l\'impulsion d\'une poignée manoeuvrée d\'une manière convenable. Il était donc loisible à tout possesseur du secret, que rien d\'ailleurs ne permettait de soupçonner, de s\'introduire dans l\'espace ménagé entre les deux plaques, puis ayant refermé celle qui [d\'abord lui avait livré passage, d\'entrouvrir la seconde et de passer ainsi du]{.calibre543} dedans au dehors ou réciproquement.
+
+Jean contourna la maison, et, en promenant la main sur la surface du mur, trouva sans trop de peine la plaque extérieure.
+
+Quelques minutes de recherche lui firent reconnaître la poignée qu\'il sollicita dans le sens nécessaire. Décidément, rien n\'avait été changé. La, poignée obéit, et la plaque, avec un grondement sourd, s\'écarta sous la poussée.
+
+Jean s\'introduisit par cet hiatus, puis, l\'ayant refermé, reprit haleine.
+
+Il convenait d\'agir avec une prudence croissante. Un rayon de lumière filtrait dans la cachette par le pourtour de la plaque intérieure, et un bruit [de voix venait de la grande salle. On ne dormait pas encore dans l\'auberge.]{.calibre543} Avant de se montrer, il était nécessaire de savoir à qui on aurait affaire.
+
+Malheureusement, Jean eut beau appliquer son oeil tout autour de la plaque, il lui fut impossible de rien apercevoir. De guerre lasse, il se décida à l\'entrebâiller à tout risque\...
+
+À ce moment précis, un vacarme s\'éleva dans la grande salle. Ce fut d\'abord un cri déchirant, un cri d\'appel et d\'agonie, immédiatement suivi d\'une sorte de râle, puis il y eut des halètements, pareils à des souffles de forge, comme en pousseraient deux lutteurs aux prises, qu\'accompagna le fracas d\'un meuble renversé.
+
+Jean, après un court instant d\'hésitation, pesa sur la poignée. La plaque pivota, découvrant dans toute son étendue la salle commune de l\'auberge.
+
+Au moment de s\'y élancer, Jean recula sous la protection de l\'ombre emplissant la cheminée et de la fumée de quelques sarments restés dans l\'âtre, terrifié par le spectacle qu\'il avait sous les yeux.

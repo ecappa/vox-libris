@@ -1,0 +1,22 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "AVENTURE DE LA FAMILLE RATON"
+slug_oeuvre: "aventure-de-la-famille-raton"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+]
+
+CONTES ET NOUVELLES
+
+AVENTURE DE LA FAMILLE RATON
+
+]
+
+## Chapitre 1
+Il y avait une fois une famille de rats, composée du père Raton, de la mère Ratonne, de leur fille Ratine et de son cousin Raté. Leurs domestiques, c'étaient le cuisinier Rata et la bonne Ratane. Or, il est arrivé à ces estimables rongeurs des aventures si extraordinaires, mes chers enfants, que je ne résiste pas au désir de vous les raconter.
+
+Cela se passait au temps des fées et des enchanteurs, -- au temps aussi où les bêtes parlaient. C'est de cette époque que date, sans doute, l'expression : « Dire des bêtises. » Et, cependant, ces bêtes n'en disaient pas plus que les hommes de jadis et d'aujourd'hui n'en ont dit et n'en disent ! Écoutez donc, mes chers enfants, je commence.

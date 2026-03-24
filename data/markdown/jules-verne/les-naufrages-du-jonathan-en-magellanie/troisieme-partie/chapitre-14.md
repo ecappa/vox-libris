@@ -1,0 +1,338 @@
+### [[Chapitre 14 -- L\'abdication]{lang="X-NONE"}]{#_Toc342942877 .pcalibre2 .pcalibre1} {#chapitre-14-labdication .calibre171 .sigil_not_in_toc}
+
+Le Kaw-djer pleurait...
+
+Combien poignantes les larmes d\'un tel homme ! Avec quelle éloquence, elles criaient sa douleur !
+
+Il avait commandé : « Feu ! », lui ! Par son ordre, les balles avaient tracé leurs sillons rouges ! Oui, les hommes l\'avaient réduit à cela, et, par leur faute, il était désormais pareil aux plus odieux de ces tyrans qu\'il avait haïs d\'une haine si farouche, puisqu\'il sombrait comme eux dans le meurtre, dans le sang !
+
+Bien plus, il fallait en répandre encore. L\'oeuvre n\'était qu\'ébauchée. Il restait à la parfaire. En dépit de toutes les apparences contraires, là était le devoir certain.
+
+Ce devoir, le Kaw-djer le regarda courageusement en face. Son abattement fut de courte durée, et bientôt il reconquit toute son énergie. Laissant aux vieillards et aux femmes le soin d\'ensevelir les morts et de relever les blessés, il se lança sans retard à la poursuite des fuyards. Ceux-ci, frappés de terreur, ne songeaient plus à opposer la moindre résistance. De jour et de nuit, on les chassa comme du bétail.
+
+À plusieurs reprises, les forces hosteliennes se heurtèrent à des bandes venant trop tard à la rescousse. Celles-ci furent dispersées sans difficulté l\'une après l\'autre et successivement rejetées vers le Nord.
+
+L\'île fut sillonnée en tous sens. On en trouvait le sol parsemé des restes de ceux des prospecteurs que la faim avait poussés hors de leurs tanières et qui avaient péri dans la neige au cours de l\'hiver précédent. Longtemps, le froid avait conservé leurs dépouilles. Elles se liquéfiaient au dégel, et cette boue humaine se mêlait à celle de la terre. En trois semaines, les aventuriers, au nombre de près de dix-huit mille, furent refoulés dans la presqu\'île Dumas dont le Kaw-djer occupa l\'isthme.
+
+À la milice s\'étaient joints trois cents hommes fournis par la Franco-English Gold Mining Company, qui apportèrent un secours efficace aux défenseurs du bon ordre. Malgré ce renfort, la situation demeurait inquiétante. Si les prospecteurs avaient été déprimés tout d\'abord par la nouvelle du carnage de leurs compagnons, et si on les avait ensuite aisément vaincus en détail, il pouvait ne plus en être ainsi, maintenant qu\'ils se sentaient les coudes et qu\'il leur était loisible de se concerter. Or, leur supériorité numérique était si grande qu\'il y avait lieu de craindre un retour offensif de leur part.
+
+L\'intervention de la Société franco-anglaise para à ce danger. Désireux de s\'assurer la main-d\'oeuvre qui leur était nécessaire, ses deux directeurs, Maurice Reynaud et Alexander Smith, proposèrent au Kaw-djer de procéder à une sélection parmi les aventuriers et de choisir, après sévère enquête, un millier d\'hommes qui seraient autorisés à rester sur l\'île Hoste. Ces hommes, la Gold Mining Company les emploierait sous sa responsabilité, étant bien entendu qu\'ils seraient impitoyablement expulsés à la première incartade.
+
+Le Kaw-djer accueillit favorablement ces ouvertures qui lui fournissaient un moyen de diviser les forces de l\'adversaire. Sans hésiter, Maurice Reynaud et Alexander Smith, faisant ainsi preuve d\'un courage assurément plus grand que celui du dompteur qui entre dans la cage de ses fauves, s\'engagèrent alors sur la presqu\'île Dumas, où pullulait la foule des prospecteurs révoltés. Huit jours plus tard, on les vit revenir à la tête de mille hommes triés soigneusement entre tous.
+
+Cet exploit changea la face des choses. Les mille hommes que perdaient les insurgés, les Hosteliens les gagnaient, tout en conservant l\'avantage de leur discipline et de leur armement supérieur. Le Kaw-djer franchit à son tour l\'isthme dont il confia la garde à Hartlepool. Il rencontra dans la presqu\'île moins de résistance qu\'il ne le redoutait. Les mineurs n\'avaient pas eu le temps encore de reprendre possession d\'eux-mêmes. On réussit à les diviser, et chaque fraction fut successivement contrainte de s\'embarquer sur des navires expédiés du Bourg-Neuf, qui croisaient dans ce but en vue de la côte. En quelques jours l\'opération fut terminée. Exception faite de ceux dont répondaient Maurice Reynaud et Alexander Smith, et qui étaient d\'ailleurs en trop petit nombre pour constituer un sérieux danger, le sol de l\'île était purgé du dernier des aventuriers qui l\'avaient infestée.
+
+Dans quel état lamentable ne la laissaient-ils pas ! La terre n\'avait pas été cultivée, et la prochaine récolte était perdue comme l\'avait été la précédente. Abandonnés à eux-mêmes dans les pâturages, beaucoup d\'animaux avaient péri. On revenait en somme à plusieurs années en arrière, et, de même que dans les premiers temps de leur indépendance, la famine menaçait les colons de l\'île Hoste.
+
+Le Kaw-djer voyait nettement ce danger, mais il n\'excédait pas son courage. L\'important était de ne pas perdre de temps. Il le comprit, et agit, dans ce but, en dictateur, quelque pénible que ce rôle lui parût.
+
+Comme autrefois, il fallut d\'abord grouper toutes les ressources de l\'île, afin de les répartir suivant les besoins de chaque famille. Cela ne se fit pas sans provoquer des murmures.
+
+Mais cette mesure s\'imposait et on passa outre aux protestations des récalcitrants.
+
+Elle ne devait avoir, d\'ailleurs, qu\'une durée éphémère. Tandis qu\'on procédait au récolement des réserves, des achats étaient effectués dans l\'Amérique du Sud, tant pour le compte de l\'État que pour celui des particuliers. Un mois plus tard, on débarquait au Bourg-Neuf les premières cargaisons, et la situation commençait dès lors à s\'améliorer rapidement.
+
+Grâce à ce bienfaisant despotisme, Libéria et son faubourg ne tardèrent pas à recouvrer leur animation d\'autrefois. Le port reçut même, au cours de l\'été, des navires en plus grand nombre que jamais. Par une heureuse chance, la pêche de la baleine s\'annonça particulièrement fructueuse, cette année-là. Bâtiments américains et norvégiens affluèrent au Bourg-Neuf, et la préparation de l\'huile occupa une centaine d\'Hosteliens avec des salaires très rémunérateurs. En même temps, une impulsion nouvelle était donnée aux scieries et aux usines de conserves, et le nombre de louvetiers doubla pour la chasse des loups-marins. Plusieurs centaines de Pêcherais, ne pouvant accommoder leurs habitudes nomades aux sévérités de l\'administration argentine, quittèrent la Terre de Feu, traversèrent le canal du Beagle et transportèrent leurs campements sur le littoral de l\'île Hoste où ils se fixèrent définitivement.
+
+Vers le 15 décembre, les plaies de la colonie étaient, sinon guéries, du moins pansées. Certes, elle avait souffert un profond dommage qui ne serait pas réparé avant plusieurs années, mais déjà il n\'en subsistait aucune trace extérieure. Le peuple était retourné à ses occupations coutumières, et la vie normale avait repris son cours.
+
+L\'État hostelien fit à cette époque l\'acquisition d\'un steamer de six cents tonneaux qui reçut le nom de Yacana. Ce steamer permettrait l\'établissement d\'un service régulier avec les bourgades du littoral et les divers établissements et comptoirs de l\'archipel. Il servirait en outre à assurer les communications avec le cap Horn dont le phare venait enfin d\'être achevé.
+
+Dans les derniers jours de l\'année 1893, le Kaw-djer en avait reçu la nouvelle. Tout était terminé : le logement des gardiens, le magasin de réserve, le pylône de métal haut d\'une vingtaine de mètres, le bâtiment et le montage des dynamos, auxquelles un ingénieux dispositif imaginé par Dick transmettait l\'énergie des vagues et des marées. Le fonctionnement de ces machines serait ainsi assuré, sans combustible d\'aucune sorte. Pour rendre ce fonctionnement éternel, il suffirait de procéder aux réparations nécessaires et d\'être bien pourvu de pièces de rechange.
+
+L\'inauguration, que le Kaw-djer résolut d\'entourer d\'une certaine solennité, fut fixée au 15 janvier 1894. Ce jour-là, le Yacana emporterait à l\'île Horn deux ou trois cents Hosteliens, devant lesquels jaillirait le premier rayon du phare. Après les tristesses qu\'il venait de traverser, le Kaw-djer se faisait une fête de cette inauguration qui réaliserait un de ses rêves, si longtemps caressé.
+
+Tel était le programme, et personne n\'imaginait que rien pût en entraver l\'exécution, quand, soudainement, brutalement, les événements le modifièrent d\'étrange façon.
+
+Le 10 janvier, cinq jours avant la date choisie, un vaisseau de guerre entra dans le port du Bourg-Neuf. À son mât d\'artimon flottait le pavillon chilien. De l\'une des fenêtres du gouvernement, le Kaw-djer, qui avait aperçu ce navire entrer dans le port, le suivit, à l\'aide d\'une longue-vue, dans ses diverses manoeuvres d\'atterrissage, puis il crut distinguer à son bord comme un remue-ménage, dont la distance l\'empêchait de reconnaître la nature.
+
+Il était depuis une heure absorbé dans cette contemplation, quand on vint le prévenir qu\'un homme, hors d\'haleine, arrivait du Bourg-Neuf et demandait à lui parler sur-le-champ de la part de Karroly.
+
+« Qu\'y a-t-il ? interrogea le Kaw-djer, lorsque cet homme fut introduit.
+
+--- Un bâtiment chilien vient d\'entrer au Bourg-Neuf, dit l\'homme essoufflé par sa course rapide.
+
+--- Je l\'ai vu. Ensuite ?
+
+--- C\'est un navire de guerre.
+
+--- Je le sais.
+
+--- Il s\'est affourché sur deux ancres au milieu du port, et, avec ses canots, il débarque des soldats.
+
+--- Des soldats !... s\'écria le Kaw-djer.
+
+--- Oui, des soldats chiliens... en armes... Cent... deux cents... trois cents... Karroly ne s\'est pas amusé à les compter... Il a préféré m\'envoyer pour vous mettre au courant. »
+
+L\'incident en valait la peine et justifiait amplement l\'émotion de Karroly. Depuis quand des soldats armés pénètrent-ils en temps de paix sur un territoire étranger ? Le fait que ces soldats fussent chiliens ne laissait pas que de rassurer le Kaw-djer. Selon toute probabilité, on n\'avait rien à craindre du pays auquel l\'île Hoste devait son indépendance. Le débarquement de ces soldats n\'en était pas moins anormal, et la prudence voulait que l\'on prît, à tout hasard, les précautions nécessaires.
+
+« Ils viennent !... » s\'écria l\'homme tout à coup, en montrant du doigt, par la fenêtre ouverte, la direction du Bourg-Neuf.
+
+Sur la route, un groupe nombreux s\'avançait, en effet, que le Kaw-djer évalua d\'un coup d\'oeil. L\'Hostelien avait exagéré quelque peu. Il s\'agissait bien d\'une troupe de soldats, car les fusils étincelaient au soleil, mais leur nombre atteignait cent cinquante tout au plus.
+
+Le Kaw-djer, stupéfait, donna rapidement une série d\'ordres clairs et précis. Des émissaires partirent de tous côtés. Cela fait, il attendit tranquillement.
+
+En un quart d\'heure, la troupe chilienne, suivie des yeux par les Hosteliens étonnés, arrivait sur la place et prenait position devant le gouvernement. Un officier en grande tenue, qui devait être d\'un grade élevé, à en juger par les dorures dont il était chamarré, s\'en détacha, heurta du pommeau de son sabre la porte qui s\'ouvrit aussitôt, et demanda à parler au gouverneur.
+
+Il fut conduit dans la pièce où se tenait le Kaw-djer, et dont la porte se referma silencieusement derrière lui. Une minute plus tard, un sourd grondement indiqua que les portes extérieures étaient fermées à leur tour. Sans qu\'il s\'en doutât, l\'officier chilien était virtuellement prisonnier.
+
+Mais celui-ci ne semblait éprouver aucun souci de sa situation personnelle. Il s\'était arrêté à quelques pas du seuil, la main à son bicorne emplumé, les yeux fixés sur le Kaw-djer qui, debout entre les deux fenêtres, gardait une complète immobilité.
+
+Ce fut le Kaw-djer qui prit la parole le premier.
+
+« M\'expliquerez-vous, monsieur, dit-il d\'une voix brève, ce que signifie ce débarquement d\'une force armée sur l\'île Hoste ? Nous ne sommes pas en guerre avec le Chili, que je sache ? »
+
+L\'officier chilien tendit une large enveloppe au Kaw-djer.
+
+« Monsieur le gouverneur, répondit-il, permettez-moi de vous présenter tout d\'abord la lettre par laquelle mon gouvernement m\'accrédite auprès de vous. »
+
+Le Kaw-djer rompit les cachets et lut attentivement, sans que rien dans l\'expression de son visage trahît les sentiments que sa lecture pouvait lui faire éprouver.
+
+« Monsieur, dit-il avec calme lorsqu\'elle fut achevée, le gouvernement chilien, ainsi que vous le savez sans doute, vous met par cette lettre à ma disposition en vue du rétablissement de l\'ordre à l\'île Hoste. »
+
+L\'officier s\'inclina silencieusement en signe d\'assentiment.
+
+« Le gouvernement chilien, monsieur, a été mal renseigné, continua le Kaw-djer. Comme tous les pays du monde, l\'île Hoste a connu, il est vrai, des périodes troublées. Mais ses habitants ont su rétablir eux-mêmes l\'ordre qui est actuellement parfait. »
+
+L\'officier, qui paraissait embarrassé, ne répondit pas.
+
+« Dans ces conditions, reprit le Kaw-djer, tout en étant reconnaissant à la République du Chili de ses intentions bienveillantes, je crois devoir décliner ses offres et vous prie de bien vouloir considérer votre mission comme terminée. »
+
+L\'officier semblait de plus en plus embarrassé.
+
+« Vos paroles, monsieur le gouverneur, seront fidèlement transmises à mon gouvernement, dit-il, mais vous comprendrez que je ne puisse me soustraire, tant que je n\'aurai pas sa réponse, à l\'accomplissement des instructions qui m\'ont été données..
+
+--- Instructions qui consistent ?...
+
+--- À installer sur l\'île Hoste une garnison, qui, sous votre haute autorité et sous mon commandement direct, devra coopérer au rétablissement et au maintien de l\'ordre.
+
+--- Fort bien ! dit le Kaw-djer. Mais, si je m\'opposais par hasard à l\'établissement de cette garnison ?... Vos instructions ont-elles prévu le cas ?
+
+--- Oui, monsieur le gouverneur.
+
+--- Quelles sont-elles, dans cette hypothèse ?
+
+--- De passer outre.
+
+--- Par la force ?
+
+--- Au besoin par la force, mais je veux espérer que je n\'en serai pas réduit à cette extrémité.
+
+--- Voilà qui est net, approuva le Kaw-djer sans s\'émouvoir. À vrai dire, je m\'attendais un peu à quelque chose de ce genre... N\'importe ! La question est clairement posée. Vous admettrez, toutefois, que, dans une matière aussi grave, je ne veuille pas agir à la légère, et vous souffrirez par conséquent, je pense, que je prenne le temps de la réflexion.
+
+--- J\'attendrai donc, monsieur le gouverneur, répondit l\'officier, que vous me fassiez connaître votre décision. »
+
+Ayant de nouveau salué militairement, il pivota sur ses talons et se dirigea vers la porte. Mais cette porte était fermée et résista à ses efforts. Il se retourna vers le Kaw-djer.
+
+« Suis-je tombé dans un guet-apens ? demanda-t-il d\'un ton nerveux.
+
+--- Vous me permettrez de trouver la question plaisante, répondit ironiquement le Kaw-djer. Quel est celui de nous qui s\'est rendu coupable d\'un guet-apens ? Ne serait-ce pas celui qui, en pleine paix, a envahi, les armes à la main, un pays ami ? »
+
+L\'officier rougit légèrement.
+
+« Vous connaissez, monsieur le gouverneur, dit-il avec une gêne évidente, la raison de ce qu\'il vous plaît d\'appeler une invasion. Ni mon gouvernement, ni moi-même ne pouvons être responsables de votre interprétation d\'un événement des plus simples.
+
+--- En êtes-vous sûr ? répliqua le Kaw-djer de sa voix tranquille. Oseriez-vous donner votre parole d\'honneur que la République du Chili ne poursuit aucun but autre que le but officiel et avoué ? Une garnison opprime aussi aisément qu\'elle protège. Celle que vous avez mission de placer ici ne pourrait-elle pas aider puissamment le Chili, s\'il en arrivait jamais à regretter le traité du 26 octobre 1881, auquel nous devons notre indépendance ? »
+
+L\'officier rougit de nouveau et plus visiblement que la première fois.
+
+« Il ne m\'appartient pas, dit-il, de discuter les ordres de mes chefs. Mon seul devoir est de les exécuter aveuglément.
+
+--- En effet, reconnut le Kaw-djer, mais j\'ai, moi aussi, à remplir mon devoir, qui se confond avec l\'intérêt du peuple placé sous ma garde. Il est donc tout simple que j\'entende peser mûrement ce que cet intérêt me commande de faire.
+
+--- M\'y suis-je opposé ? répliqua l\'officier. Soyez sûr, monsieur le gouverneur, que j\'attendrai votre bon plaisir tout le temps qu\'il faudra.
+
+--- Cela ne suffit pas, dit le Kaw-djer. Il faut encore l\'attendre ici.
+
+--- Ici ?... Vous me considérez donc comme un prisonnier ?
+
+--- Parfaitement », déclara le Kaw-djer.
+
+L\'officier chilien haussa les épaules.
+
+« Vous oubliez, s\'écria-t-il en faisant un pas vers la fenêtre, qu\'il me suffirait d\'un cri d\'appel...
+
+--- Essayez !... interrompit le Kaw-djer qui lui barra le passage.
+
+--- Qui m\'en empêcherait ?
+
+--- Moi. »
+
+Les yeux dans les yeux, les deux hommes se regardèrent comme des lutteurs prêts à en venir aux mains. Après un long moment d\'attente, ce fut l\'officier chilien qui recula. Il comprit que, malgré sa jeunesse relative, il n\'aurait pas raison de ce grand vieillard aux épaules d\'athlète, dont l\'attitude majestueuse l\'impressionnait malgré lui.
+
+« C\'est cela, approuva le Kaw-djer. Reprenons chacun notre place, et attendez patiemment ma réponse. »
+
+Tous deux étaient debout. L\'officier, à faible distance de la porte d\'entrée, s\'efforçait d\'adopter, en dépit de ses inquiétudes, une contenance dégagée. En face de lui, le Kaw-djer, entre les deux fenêtres, réfléchissait si profondément qu\'il en oubliait la présence de son adversaire. Avec calme et méthode, il étudiait le problème qui lui était posé.
+
+Le mobile du Chili, d\'abord. Ce mobile, il n\'était pas difficile de le deviner. Le Chili invoquait en vain la nécessité de mettre fin aux troubles. Ce n\'était là qu\'un prétexte. Une protection qu\'on impose ressemble trop à une annexion pour qu\'il fût possible de s\'y tromper. Mais pourquoi le Chili manquait-il ainsi à la parole donnée ? Par intérêt évidemment, mais quelle sorte d\'intérêt ? La prospérité de l\'île Hoste ne suffisait pas à expliquer ce revirement. Jamais, malgré les progrès réalisés par les Hosteliens, rien n\'avait autorisé à croire que la République Chilienne regrettât l\'abandon de cette contrée jadis sans la moindre valeur. Au reste, le Chili n\'avait pas eu à se plaindre de son geste généreux. Il avait bénéficié du développement de ce peuple dont il était par la force des choses le fournisseur principal. Mais un facteur nouveau était intervenu. La découverte des mines d\'or changeait du tout au tout la situation. Maintenant qu\'il était démontré que l\'île Hoste recelait dans ses flancs un trésor, le Chili entendait en avoir sa part et déplorait son imprévoyance passée. C\'était limpide.
+
+La question importante n\'était pas, d\'ailleurs, de déterminer la cause du revirement, quelle qu\'elle fût. L\'ultimatum étant nettement posé, l\'important était d\'arrêter la manière dont il convenait d\'y répondre.
+
+Résister ?... Pourquoi pas ? Les cent cinquante soldats alignés sur la place n\'étaient pas de taille à effrayer le Kaw-djer, et pas davantage le bâtiment de guerre embossé devant le Bourg-Neuf. Alors même que ce navire eût contenu d\'autres soldats, ceux-ci n\'étaient évidemment pas en nombre tel que la victoire ne pût tourner finalement en faveur de la milice hostelienne. Quant au navire lui-même, il était assurément capable d\'envoyer jusqu\'à Libéria quelques obus qui feraient plus de bruit que de mal. Mais après ?... Les munitions finiraient par s\'épuiser, et il lui faudrait alors appareiller, en admettant que les trois canons hosteliens n\'aient réussi à lui causer aucune avarie sérieuse.
+
+Non, en vérité, résister n\'eût pas été présomptueux. Mais résister, c\'était des batailles, c\'était du sang. Allait-il donc en faire couler encore sur cette terre, hélas ! Saturée ? Pour défendre quoi ? L\'indépendance des Hosteliens ? Les Hosteliens étaient-ils donc libres, eux qui s\'étaient si docilement courbés sous la férule d\'un maître ? Serait-ce donc alors sa propre autorité qu\'il s\'agissait de sauvegarder ? Dans quel but ? Ses mérites exceptionnels justifiaient-ils que tant de vies fussent sacrifiées à sa cause ? Depuis qu\'il exerçait le pouvoir, s\'était-il montré différent de tous les autres potentats qui tiennent l\'univers en tutelle ?
+
+Le Kaw-djer en était là de ses réflexions, quand l\'officier chilien fit un mouvement. Il commençait à trouver le temps long. Le Kaw-djer se contenta de l\'exhorter du geste à la patience et poursuivit sa méditation silencieuse.
+
+Non, il n\'avait été ni meilleur ni pire que les maîtres de tous les temps, et cela, simplement parce que la fonction de maître impose des obligations auxquelles nul ne peut se flatter d\'échapper. Que ses intentions eussent toujours été droites, ses vues désintéressées, cela ne l\'avait nullement empêché de commettre à son tour ces mêmes crimes nécessaires qu\'il reprochait à tant de chefs. Le libertaire avait commandé, l\'égalitaire avait jugé ses semblables, le pacifique avait fait la guerre, le philosophe altruiste avait décimé la foule, et son horreur du sang versé n\'avait abouti qu\'à en verser plus encore.
+
+Aucun de ses actes qui n\'eût été en contradiction avec ses théories, et, sur tous les points, il avait touché du doigt son erreur de jadis. D\'abord les hommes s\'étaient révélés dans leur imperfection et leur incapacité natives, et il avait dû les mener par la main comme de petits enfants. Puis les appétits qui forment le fond de certaines natures avaient, pour se satisfaire, causé une succession de drames et démontré la légitimité de la force. Une triple preuve, enfin, lui avait été donnée que la solidarité des groupes sociaux n\'est pas moindre que celle des individus, et qu\'un peuple ne saurait s\'isoler au milieu des autres peuples. C\'est pourquoi, quand bien même l\'un d\'eux arriverait à se hausser à l\'idéal inaccessible que le Kaw-djer avait autrefois considéré comme une vérité objective, le peuple devrait encore compter avec le reste de la terre, dont le progrès moral excède les forces humaines et ne peut être que le résultat de siècles d\'efforts accumulés.
+
+La première de ces preuves, c\'était l\'invasion des Patagons. Semblable à tous les chefs, et ni plus ni moins qu\'eux, le Kaw-djer avait dû combattre et tuer. À cette occasion, Patterson lui avait démontré à quel degré d\'abaissement une créature peut s\'avilir, et il avait dû, indulgent encore, s\'arroger le droit de disposer d\'un coin de la planète comme de sa propriété personnelle. Il avait jugé, condamné, banni, au même titre que tous ceux qu\'il appelait des tyrans.
+
+La deuxième preuve, la découverte des mines d\'or la lui avait fournie. Ces milliers d\'aventuriers qui s\'étaient abattus sur l\'île Hoste établissaient, sous la forme la plus éloquente, l\'inévitable solidarité des nations. Contre le fléau, il n\'avait pas trouvé de remède qui ne fût connu. Ce remède, c\'est toujours la force, la violence et la mort. Par son ordre, le sang humain avait coulé à flots.
+
+La troisième preuve enfin, l\'ultimatum du gouvernement chilien la lui apportait, péremptoire.
+
+Allait-il donc donner une fois de plus le signal de la lutte, d\'une lutte plus sanglante peut-être que les précédentes, et cela pour conserver aux Hosteliens, un chef si pareil en somme à tous les chefs de tous les pays et de tous les temps ? À sa place, un autre que lui en aurait fait autant, et, quel que fût son successeur, qu\'il fût le Chili ou tout autre, il ne pouvait être amené à employer des moyens pires que ceux auxquels la fatalité des choses l\'avait contraint.
+
+Dès lors, à quoi bon lutter ?
+
+Et puis, comme il était las ! L\'hécatombe dont il avait donné l\'ordre, ce carnage monstrueux, cette effroyable tuerie, c\'était une obsession qui ne le lâchait pas. De jour en jour, sous le poids du lourd souvenir, sa haute taille se voûtait, ses yeux perdaient de leur flamme, et sa pensée de sa clarté. La force abandonnait ce corps d\'athlète et ce coeur de héros. Il n\'en pouvait plus. Il en avait assez.
+
+Voilà donc à quelle impasse il aboutissait ! D\'un regard effaré il suivait la longue route de sa vie. Les idées dont il avait fait la base de son être moral et auxquelles il avait tout sacrifié la jonchaient de leurs débris lamentables. Derrière lui, il n\'y avait plus que le néant. Son âme était dévastée ; c\'était un désert parsemé de ruines où rien ne restait debout.
+
+Que faire à cela ?... Mourir ?... Oui, cela eût été logique, et pourtant il ne pouvait s\'y résoudre. Non pas qu\'il eût peur de la mort. À cet esprit lucide et ferme, elle apparaissait comme une fonction naturelle, sans plus d\'importance et nullement plus à redouter que la naissance. Mais toutes ses fibres protestaient contre un acte qui eût volontairement abrégé son destin. De même qu\'un ouvrier consciencieux ne saurait se résoudre à laisser un travail inachevé, c\'était un besoin pour cette puissante personnalité d\'aller jusqu\'au bout de sa vie, c\'était une nécessité pour ce coeur abondant de donner à autrui la somme entière, sans en rien excepter, de dévouement et d\'abnégation qui s\'y trouvait contenue en puissance, et il considérait n\'avoir pas fait assez tant qu\'il n\'aurait pas fait tout.
+
+Ces contradictions, était-il donc impossible de les concilier ?...
+
+Le Kaw-djer parut enfin s\'apercevoir de la présence de l\'officier chilien qui rongeait impatiemment son frein.
+
+« Monsieur, dit-il, vous m\'avez tout à l\'heure menacé d\'employer la force. Vous êtes-vous bien rendu compte de la nôtre ?
+
+--- La vôtre ?... répéta l\'officier surpris.
+
+--- Jugez-en », dit le Kaw-djer en faisant signe à son interlocuteur de s\'approcher de la fenêtre.
+
+La place s\'étendait sous leurs yeux. En face du gouvernement, les cent cinquante soldats chiliens étaient correctement alignés, sous le commandement de leurs chefs. Leur position ne laissait pas toutefois d\'être critique, car plus de cinq cents Hosteliens les cernaient, fusils chargés, baïonnettes au canon.
+
+« L\'armée hostelienne compte aujourd\'hui cinq cents fusils, dit froidement le Kaw-djer. Demain elle en comptera mille. Après demain quinze cents. »
+
+L\'officier chilien était livide. Dans quel guêpier s\'était-il fourré ! Sa mission lui semblait bien compromise. Il voulut cependant faire contre mauvaise fortune bon visage.
+
+« Le croiseur... dit-il d\'une voix mal affermie.
+
+--- Nous ne le craignons pas, interrompit le Kaw-djer. Nous ne craignons pas davantage ses canons, n\'en étant pas nous-mêmes dépourvus.
+
+--- Le Chili... essaya encore de glisser l\'officier, qui ne voulait pas se reconnaître vaincu.
+
+--- Oui, interrompit de nouveau le Kaw-djer, le Chili a d\'autres navires et d\'autres soldats. C\'est entendu. Mais il ferait une mauvaise affaire en les employant contre nous. Il ne réduira pas aisément l\'île Hoste, que peuplent maintenant plus de six mille habitants. Sans compter que les cent cinquante hommes que vous avez débarqués vont être pour nous de merveilleux otages ! »
+
+L\'officier garda le silence. Le Kaw-djer ajouta d\'une voix grave :
+
+« Enfin, savez-vous qui je suis ? »
+
+Le Chilien considéra son adversaire qui se révélait si redoutable. Sans doute lut-il dans le regard de celui-ci une réponse éloquente à la question qui lui était posée, car il se troubla plus encore.
+
+« Qu\'entendez-vous par cette question ? Balbutia-t-il. Il y a douze ou treize ans, au retour du Ribarto, dont le commandant avait cru vous reconnaître, des bruits ont couru. Mais ils devaient être erronés, puisque vous les aviez, paraît-il, démentis par avance.
+
+--- Ces bruits étaient fondés, dit le Kaw-djer. S\'il m\'a plu alors, s\'il me convient toujours d\'oublier qui je suis, je pense que vous ferez sagement de vous en souvenir. Vous en conclurez, j\'imagine, qu\'il ne me serait pas impossible de trouver des concours assez puissants pour faire réfléchir le gouvernement chilien. »
+
+L\'officier ne répondit pas. Il semblait accablé.
+
+« Estimez-vous, reprit le Kaw-djer, que je sois en situation, non pas de céder purement et simplement, mais de traiter d\'égal à égal ? »
+
+L\'officier chilien avait relevé la tête. Traiter ?... Avait-il bien entendu ?... La fâcheuse aventure dans laquelle il s\'était si inconsidérément embarqué pouvait donc tourner d\'une manière favorable ?...
+
+« Reste à savoir si cela est possible, continuait cependant le Kaw-djer, et de quels pouvoirs vous êtes investi.
+
+--- Les plus étendus, affirma vivement l\'officier chilien.
+
+--- Écrits ?
+
+--- Écrits.
+
+--- Dans ce cas, veuillez me les communiquer », dit le Kaw-djer avec calme.
+
+L\'officier tira d\'une poche intérieure de sa tunique un second pli qu\'il remit au Kaw-djer.
+
+« Les voici », dit-il.
+
+Si le Kaw-djer avait cédé sans résistance à la première injonction, jamais il n\'aurait connu ce document qu\'il lut avec une extrême attention.
+
+« C\'est parfaitement en règle, déclara-t-il. Votre signature aura par conséquent toute la valeur compatible avec les engagements humains, dont votre présence ici prouve, d\'ailleurs, la fragilité. »
+
+L\'officier se mordit les lèvres sans répondre. Le Kaw-djer fit une pause, puis reprit :
+
+« Parlons net. Le gouvernement chilien désire redevenir suzerain de l\'île Hoste. Je pourrais m\'y opposer ; j\'y consens. Mais j\'entends faire mes conditions.
+
+--- J\'écoute, dit l\'officier.
+
+--- En premier lieu, le gouvernement chilien n\'établira aucun impôt à l\'île Hoste autre que ceux concernant les mines d\'or, et il devra en être ainsi alors même qu\'elles seront épuisées. Par contre, en ce qui regarde les mines d\'or, il sera entièrement libre et fixera à son profit telle redevance qui lui conviendra. »
+
+L\'officier n\'en croyait pas ses oreilles. Voilà que, sans difficulté, sans discussion d\'aucune sorte, on lui abandonnait l\'essentiel ! Dès lors, tout le reste irait de soi.
+
+Cependant, le Kaw-djer continuait :
+
+« À la perception d\'un impôt sur les mines devra se limiter la suzeraineté du Chili. Pour le surplus, l\'île Hoste conservera sa complète autonomie et gardera son drapeau. Le Chili pourra y entretenir un résident, étant bien entendu que ce résident n\'aura qu\'un simple droit de conseil, et que le gouvernement effectif sera exercé par un comité nommé à l\'élection et par un gouverneur désigné par moi.
+
+--- Ce gouverneur, ce serait vous, sans doute ? interrogea l\'officier.
+
+--- Non, protesta le Kaw-djer. À moi, il faut la liberté totale, intégrale, sans limite, et d\'ailleurs je suis aussi las de donner des ordres qu\'incapable d\'en recevoir. Je me retire donc, mais je me réserve de choisir mon successeur. »
+
+L\'officier écoutait sans les interrompre ces déclarations. Cet amer désenchantement était-il sincère, et le Kaw-djer n\'allait-il rien stipuler pour lui même ? » Mon successeur s\'appelle Dick, reprit mélancoliquement celui-ci après un court silence, et n\'a pas d\'autre nom. C\'est un jeune homme. À peine s\'il a vingt-deux ans -- mais c\'est moi qui l\'ai formé, et j\'en réponds. C\'est entre ses mains, entre ses mains seules, que je résignerai le pouvoir... Telles sont mes conditions.
+
+--- Je les accepte, dit vivement l\'officier chilien trop heureux d\'avoir triomphé sur la question principale.
+
+--- Fort bien, approuva le Kaw-djer. Je vais donc rédiger nos conventions par écrit. »
+
+Il se mit au travail, puis le traité fut signé en triple expédition par les parties contractantes.
+
+« Un de ces exemplaires est pour votre gouvernement, expliqua le Kaw-djer, un deuxième pour mon successeur. Quant au troisième, je le garde, et, si les engagements qu\'il constate n\'étaient pas tenus, je saurais, soyez-en certain, en assurer le respect... Mais tout n\'est pas fini entre nous, ajouta-t-il en présentant un autre document à son interlocuteur. Il reste à nous occuper de ma situation personnelle. Veuillez jeter les yeux sur ce deuxième traité qui la règle conformément à ma volonté. »
+
+L\'officier obéit. À mesure qu\'il lisait, son visage exprimait un étonnement grandissant.
+
+« Quoi ! s\'écria-t-il quand sa lecture fut achevée, c\'est sérieusement que vous proposez cela !
+
+--- Si sérieusement, répondit le Kaw-djer, que j\'en fais la condition sine qua non de mon consentement au surplus de notre accord. Êtes-vous disposé à l\'accepter ?
+
+--- À l\'instant », affirma l\'officier.
+
+Les signatures furent de nouveau échangées.
+
+« Nous n\'avons plus rien à nous dire, conclut alors le Kaw-djer. Faites rembarquer vos hommes, qui, sous aucun prétexte, ne doivent plus remettre le pied sur l\'île Hoste. Demain, le nouveau régime pourra être inauguré. Je ferai le nécessaire pour qu\'il ne s\'élève aucune difficulté. Jusque-là, par exemple, j\'exige le secret le plus absolu. »
+
+Dès qu\'il fut seul, le Kaw-djer envoya chercher Karroly. Pendant qu\'on exécutait cet ordre, il écrivit quelques mots qu\'il plaça sous enveloppe, en y joignant un exemplaire du traité conclu avec le gouvernement chilien. Ce travail, qui n\'exigea que peu de minutes, était depuis longtemps terminé quand l\'Indien fut introduit.
+
+« Tu vas charger la Wel-Kiej de ces objets, dit le Kaw-djer qui tendit à Karroly une liste sur laquelle figuraient, outre une certaine quantité de vivres, de la poudre, des balles et des sacs de semences de diverses sortes. »
+
+Malgré ses habitudes d\'aveugle dévouement, Karroly ne put s\'empêcher de poser quelques questions. Le Kaw-djer allait donc partir pour un voyage ? Pourquoi alors ne prenait-il pas le cotre du port, au lieu de la vieille chaloupe ? Mais, à ces questions, le Kaw-djer ne répondit que par un mot :
+
+« Obéis. »
+
+Karroly parti, il fit appeler Dick.
+
+« Mon enfant, dit-il en lui remettant le pli qu\'il venait de clore, voici un document que je te donne. Il t\'appartient. Tu l\'ouvriras demain au lever du soleil.
+
+--- Il sera fait ainsi », promit Dick simplement.
+
+La surprise qu\'il devait éprouver, il ne l\'exprima pas. Si grand était l\'empire qu\'il avait acquis sur lui-même qu\'il ne la trahit par aucun signe. C\'était un ordre qu\'il avait reçu. Un ordre s\'exécute et ne se discute pas.
+
+« Bien ! dit le Kaw-djer. Maintenant, va, mon enfant, et conforme-toi scrupuleusement à mes instructions. »
+
+Seul, le Kaw-djer s\'approcha de la fenêtre et souleva le rideau. Longuement, il regarda au dehors, afin de graver dans sa mémoire ce qu\'il ne devait plus revoir. Devant lui, c\'était Libéria, et, plus loin, le Bourg-Neuf, et, plus loin encore, les mâts des navires amarrés dans le port. Le soir tombait, arrêtant le travail du jour. D\'abord, la route du Bourg-Neuf s\'anima, puis les fenêtres des maisons brillèrent dans l\'ombre grandissante. Cette ville, cette activité laborieuse, ce calme, cet ordre, ce bonheur, c\'était son oeuvre. Tout le passé s\'évoqua à la fois, et il soupira de fatigue et d\'orgueil.
+
+Le temps était enfin venu de songer à lui-même. Sans marchander, il allait disparaître de cette foule dont il avait fait un peuple riche, heureux, puissant. Maître pour maître, ce peuple ne s\'apercevrait pas du changement. Lui, du moins, il irait mourir, comme il avait vécu, dans la liberté.
+
+Il n\'attristerait d\'aucun adieu ce départ qui était une délivrance. Avant de partir, il ne serrerait dans ses bras, ni le fidèle Karroly, ni Harry Rhodes son ami, ni Hartlepool ce loyal et dévoué serviteur, ni Halg, ni Dick, ses enfants. À quoi bon cela ? Pour la seconde fois, il s\'évadait de l\'humanité. Son amour s\'amplifiait de nouveau, devenait vaste comme le monde, impersonnel comme celui d\'un dieu, et n\'avait plus besoin, pour se satisfaire, de ces gestes puérils. Il disparaîtrait sans un mot, sans un signe.
+
+La nuit devint profonde. Comme des paupières que ferme le sommeil, les fenêtres des maisons s\'éteignirent une à une. La dernière s\'endormit enfin. Tout fut noir.
+
+Le Kaw-djer sortit du gouvernement et marcha vers le Bourg-Neuf. La route était déserte. Jusqu\'au faubourg, il ne rencontra personne.
+
+La Wel-Kiej se balançait près du quai. Il s\'y embarqua et largua l\'amarre. Au milieu du port, il distinguait la masse sombre du vaisseau chilien, à bord duquel un timonier piquait minuit au même instant. Détournant la tête, le Kaw-djer poussa au large et hissa la voile.
+
+La Wel-Kiej prit son erre, évolua, sortit des jetées. Là, son allure s\'accéléra sous l\'effort d\'une fraîche brise du Nord-Ouest. Le Kaw-djer pensif tenait la barre, en écoutant la chanson de l\'eau contre le bordage.
+
+Quand il voulut jeter un regard en arrière, il était trop tard. La pièce était jouée, le rideau tiré. Le Bourg-Neuf, Libéria, l\'île Hoste avaient disparu dans la nuit. Tout s\'évanouissait déjà dans le passé.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

@@ -1,0 +1,1266 @@
+# [[![Description : Description : vignette2](../../../images/victor-hugo/fragments-dun-voyage-aux-alpes/00842.jpg){.calibre10} B]{.calibre2}ELGIQUE]{.calibre_55} {#filepos45453526 .calibre_}
+
+[Lettres de voyage adressées à Adèle]{.calibre4}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1837)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[VOYAGES
+]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6466 .calibre_57}
+
+::: calibre_52
+
+
+::: calibre1
+
+[]{.calibre_10}
+
+> [[[[[[Amiens, 11 août, 9 heures du soir.]{.underline}]{.calibre_4}](index_split_5274.html#filepos45466065)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[La Somme -- Arras]{.underline}]{.calibre_4}](index_split_5276.html#filepos45468701)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Arras, 13 août, 6 heures du soir.]{.underline}]{.calibre_4}](index_split_5277.html#filepos45469700)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Douai -- Valenciennes -- Cambrai.]{.underline}]{.calibre_4}](index_split_5278.html#filepos45477140)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Valenciennes, 15 août.]{.underline}]{.calibre_4}](index_split_5279.html#filepos45478160)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Bruxelles, 17 août, 8 heures du soir.]{.underline}]{.calibre_4}](index_split_5280.html#filepos45485117)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Mons -- Louvain -- Malines]{.underline}]{.calibre_4}](index_split_5281.html#filepos45492051)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Bruxelles, 18 août.]{.underline}]{.calibre_4}](index_split_5282.html#filepos45493114)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Lier, 19 août, 9 heures du soir.]{.underline}]{.calibre_4}](index_split_5283.html#filepos45501551)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Anvers, 22 août, 4 heures du soir.]{.underline}]{.calibre_4}](index_split_5284.html#filepos45507899)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[A Louis Boulanger.]{.underline}]{.calibre_4}](index_split_5285.html#filepos45524468)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Anvers, 22 août 1837.]{.underline}]{.calibre_4}](index_split_5286.html#filepos45525450)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Albums.]{.underline}]{.calibre_4}](index_split_5287.html#filepos45532342)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Gand -- Audenarde -- Tournai]{.underline}]{.calibre_4}](index_split_5288.html#filepos45533637)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Audenarde, 24 août, 8 heures du soir.]{.underline}]{.calibre_4}](index_split_5289.html#filepos45534647)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Tournai, 26 août.]{.underline}]{.calibre_4}](index_split_5290.html#filepos45549350)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Courtrai, 27 août, 7 heures du soir...]{.underline}]{.calibre_4}](index_split_5291.html#filepos45552353)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[28. -- 6 heures du soir. -- Gand.]{.underline}]{.calibre_4}](index_split_5292.html#filepos45564991)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Ostende -- Furnes -- Bruges]{.underline}]{.calibre_4}](index_split_5293.html#filepos45575489)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Punies. -- 31 août -- 7 heures 1/2 du soir.]{.underline}]{.calibre_4}](index_split_5294.html#filepos45576495)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[1er septembre, 9 heures du matin.]{.underline}]{.calibre_4}](index_split_5295.html#filepos45594518)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Les dunes.]{.underline}]{.calibre_4}](index_split_5296.html#filepos45597533)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Cinq heures du soir, 1er septembre, Dunkerque.]{.underline}]{.calibre_4}](index_split_5297.html#filepos45598524)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[8 heures du soir[.]{.calibre4}]{.underline}]{.calibre_4}](index_split_5298.html#filepos45616064)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Calais -- Boulogne.]{.underline}]{.calibre_4}](index_split_5299.html#filepos45619385)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Bernay, 4 septembre, 5 heures du soir.]{.underline}]{.calibre_4}](index_split_5300.html#filepos45620390)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Étaples.]{.underline}]{.calibre_4}](index_split_5301.html#filepos45635328)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Bernay, 5 septembre, 9 heures du matin.]{.underline}]{.calibre_4}](index_split_5302.html#filepos45636315)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Du Tréport, 6 septembre, onze heures du soir]{.underline}]{.calibre_4}](index_split_5303.html#filepos45656580)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Dieppe -- Le Tréport -- Le Bourg d'Ault]{.underline}]{.calibre_4}](index_split_5304.html#filepos45661211)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Dieppe, 8 septembre, 9 heures du soir.]{.underline}]{.calibre_4}](index_split_5305.html#filepos45662296)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Le Bourg d'Ault -- Albums]{.underline}]{.calibre_4}](index_split_5306.html#filepos45695370)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Le Havre, 9 septembre, 7 heures 1/2 du soir.]{.underline}]{.calibre_4}](index_split_5307.html#filepos45696758)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Elbeuf, 10 septembre, 9 heures du soir.]{.underline}]{.calibre_4}](index_split_5308.html#filepos45698203)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[Louviers, 11 septembre, midi.]{.underline}]{.calibre_4}](index_split_5309.html#filepos45702301)]{.underline}]{.calibre_14}]{.calibre_10}
+
+> [[[[[[12 septembre 1837, aux Andelys.]{.underline}]{.calibre_4}](index_split_5310.html#filepos45704072)]{.underline}]{.calibre_14}]{.calibre_10}
+
+
+[[1837]{.calibre_18}]{.bold}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Amiens, 11 août, 9 heures du soir.]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6468 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Je t'écris bien vite quelques lignes d'Amiens, chère amie. J'arrive et je n'ai que de l'encre blanche sur le marbre d'une commode et ce papier que voici. Je t'aime, mon Adèle, sois-en bien sûre. Je t'écrirai plus au long, la prochaine fois. ]{.calibre4}
+
+[La route de Paris ici est un grand jardin. Il y a beaucoup d'églises vraiment charmantes. Creil est une jolie ville avec de vieux beaux édifices, un pont coupé par une île et des eaux où tout cela se reflète. Il y a à Breteuil un petit châtelet exquis du quinzième siècle qui sert d'hôtel des postes. C'est comme à Verneuil. ]{.calibre4}
+
+[Et puis un charmant clocher qui m'a paru tenir à une belle église !]{.calibre4}
+
+[Je t'écris tout cela dans un bruit affreux, et le coeur fort triste. Je songe à la joie que j'aurai de vous revoir tous, mon Adèle chérie. Il est bien bête de quitter la maison où l'on est si bien pour venir dîner dans des assiettes d'auberge où l'on lit les chansons de Béranger à travers sa soupe. Mais que veux-tu ? Il faut bien changer l'attitude de son esprit, et les voyages servent à cela. ]{.calibre4}
+
+[Adieu, mon pauvre ange, à bientôt. Embrasse pour moi ma Didine que j\'aime tant, et Charlot, et Toto, et Dédé, embrasse-les huit fois sur leurs huit joues. --- Je t'aime, ma Didine, je t'aime mon Adèle. Mille baisers.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[V.]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[La Somme -- A]{.calibre2}rras[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6470 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Arras. La Grand'place]{.calibre_3}
+
+
+[[[1837]{.calibre_7}]{.italic}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Arras, 13 août, 6 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#arras-13-août-6-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[J'ai calculé que tu recevrais ma première lettre au moment même où je t'écris la seconde. C'est un bonheur pour moi de songer que j'occupe ta pensée à l'instant précis où la mienne est fixée sur toi.]{.calibre4}
+
+[Me voici à Arras, prêt à pénétrer dans la Belgique. Hier matin, j'ai suivi en bateau à vapeur les bords de la Somme d'Amiens à Abbeville. Au moment où je m'embarquais, le soleil se levait dans une brume épaisse au milieu de laquelle se détachait la silhouette immense de la cathédrale, sans aucun détail dans la masse, par le profil seulement. C'était superbe.]{.calibre4}
+
+[Rien de plus joli que les bords de la Somme. Ce n'est qu'arbres, prés, herbages, et villages charmants. Mes yeux ont pris là un bain de verdure. Rien de grand, rien de sévère ; mais une multitude de petits tableaux flamands qui se suivent et se ressemblent ; l'eau coulant à rase-bord entre deux berges de roseaux et de fleurs, des îles exquises, la rivière gracieusement tordue au milieu d'elles, et partout de petites prairies heureuses, à herbe épaisse, avec de belles vaches pensives sur lesquelles un chaud rayon de soleil tombe entre les grands peupliers. De temps en temps on s'arrête aux écluses ; et, pendant que ce petit travail se fait, la machine à vapeur geint comme une bête fatiguée.]{.calibre4}
+
+[On côtoie ainsi Picquigny qui a un beau clocher, et le grand château presque royal à façade de brique et de pierre qui appartient à M. de Boubers. Il y a aussi à droite en descendant, dans une île, des ruines qui m'ont paru remarquables, quoique ruinées un peu trop bas pour le voyageur qui passe en bateau derrière les hautes herbes. Ces herbes et ces roseaux, du reste, font un effet charmant. Quand le sillage du bateau vient les secouer en touchant le bord, elles se mettent à saluer les passants de la façon la plus gracieuse du monde et la plus empressée.]{.calibre4}
+
+[J'ai revu Abbeville avec grand plaisir ; et à quatre heures je suis parti pour Doullens où j'arrivais à neuf heures du soir. ]{.calibre4}
+
+[Une belle surprise pour qui ne connaît pas bien cette route, c'est Saint-Riquier, merveilleuse abbaye du quinzième siècle, presque en ruine, qui vous apparaît tout à coup à trois lieues d'Abbeville. J'ai mis pied à terre, bien entendu, et j'ai passé une heure à tourner dans les nefs autour des statues qui sont très nombreuses et la plupart admirables. Quelques-unes sont encore peintes de leur enluminure du seizième siècle. Dans la chapelle de la Vierge, il y a une [Maris Stella]{.italic} sculptée en console que j'aurais voulu pouvoir dessiner. Malheureusement le temps me manquait. La vierge dans une étoile, les autres astres alentour, le vaisseau brisé, la mer furieuse, le port dans le fond, tout cela est ravissant. On répare en ce moment cette magnifique abbaye, mais mal.]{.calibre4}
+
+[Il y a sur la place du village un fort beau beffroi à quatre tourelles engagées. J'aurais bien désiré dessiner au moins cela, mais il fallait passer.]{.calibre4}
+
+[La route jusqu'à Doullens serpente sur les ondulations des grandes plaines, ce qui ennuie en général tout le monde et ce qui me plaît fort. De temps en temps on rencontre un vieux moulin vermoulu à ailes rouges. Les toiles sont coupées de manière à dessiner une étoile au centre de la croix que font les ailes. Il y a là-dessous quelque bonne et douce superstition. [Maris Stella]{.italic} --- (Fais-toi expliquer ce latin par Toto.)]{.calibre4}
+
+[Doullens n'a rien fait pour son paysage qui est charmant. C'est une assez plate et insignifiante ville coupée d'eau vive, enfoncée dans les arbres, environnée de belles collines. Pauvre tableau richement encadré. Il y a une citadelle à bastions, zigzags et contrescarpes, ce qui m'est fort égal. Vauban dans le paysage est fort bête. Je ne tolère les triangles et les carrés des forteresses modernes que dans Van der Meulen.]{.calibre4}
+
+[J'attendais mieux d'Arras. Je n'en suis qu'à demi content. Il y a bien deux places curieuses à pignons en volutes dans le style flamand-espagnol du temps de Louis XIII. Mais pas d'églises, --- Je me trompe, un ignoble clocher comme celui de Saint-Jacques du Haut-Pas. J'ai voulu entrer dans cette église. Aucun moyen de l'ouvrir. Elle était triplement verrouillée. J'ai comparé cette sotte église revêche à une femme laide, et prude par-dessus le marché. Mais aussi que diable allais-je essayer d'entrer là ?]{.calibre4}
+
+[Sur l'une des places, la petite, il y a un charmant hôtel de ville du quinzième siècle accosté par un délicieux logis de la Renaissance. La façade serait admirable si les architectes du cru n'avaient eu l'idée de l'enjoliver, ce qui la fait ressembler à un décor gothique de l'ancien Ambigu. Maintenant ils refont la tour du beffroi. Comme ils vont coiffer ce pauvre édifice !]{.calibre4}
+
+[Je me laisse aller, chère amie, au bonheur de causer avec toi, et je m'aperçois que ma page est pleine. Il y a longtemps que mon dîner est froid, mais qu'importe. Il faut pourtant finir cette longue lettre. Écris-moi, mon Adèle. Donne ceci à Didine, Et puis donne-lui aussi mille baisers ainsi qu'aux autres, et gardes-en les trois quarts pour toi. Oh ! qu'il me tarde déjà de vous revoir tous, et toi surtout. Je t'aime, va.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[V.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+[Mes amitiés à nos bons amis, à notre Louis, à Robelin, à Châtillon, etc.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Douai -- Valenciennes -- Cambrai.]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6473 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_3}
+
+[Douai, le beffroi]{.calibre_3}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Valenciennes, 15 août.]{.calibre2}]{.bold1}]{.calibre_39} {#valenciennes-15-août. .calibre_38}
+
+[ ]{.calibre4}
+
+[Demain, chère amie, je serai en Belgique. Je commence à en avoir besoin ; car, Douai excepté, la France depuis Arras est d'une rare platitude.]{.calibre4}
+
+[Je n'excepterais même pas Douai s'il n'y avait pas là le plus joli beffroi de ville que j'aie encore vu. Figure-toi une tour gothique, coiffée d'un toit d'ardoise, qui se compose d'une multitude de petites fenêtres coniques superposées ; sur chaque fenêtre une girouette, aux quatre coins une tourelle ; sur la pointe du beffroi un lion qui tourne avec un drapeau dans les pattes ; et de tout cet ensemble si amusant, si fou, si vivant, il sort un carillon. Dans chaque petite lucarne on voit se démener une petite cloche qui fait rage, comme une langue dans une gueule. ]{.calibre4}
+
+[J'ai dessiné cette tour, et quand je regarde mon dessin, tout informe qu'il est, il me semble encore entendre ce joyeux carillon qui s'en échappait, comme la vapeur naturelle de cet amas de clochetons.]{.calibre4}
+
+[En passant à Douai j'aurais voulu voir notre pauvre Antony Thouret. Je l'ai demandé dans la ville. Il était absent. Pas d'église à Douai, car je n'appelle pas église un tas hideux qui est dans un coin.]{.calibre4}
+
+[La merveille de l'ennui, c'est Cambrai qui s'appelle en latin [Camaracum]{.italic}. Il y a là une grande diable de place qui voudrait, avec ses boutiques allumées, ressembler au Palais-Royal et qui ne réussit qu'à ressembler à la place du Châtelet, plus grande et plus laide ; un hôtel de ville classique et ignoble coiffé d'un gros horloge que les naturels du pays vous montrent avec orgueil, parce que, disent-ils, il a été fait par un berger (qu'est-ce que cela me fait que Tircis ait fabriqué cette horloge ?). Enfin la cathédrale, c'est-à-dire la tour de Saint-Jacques du Haut-Pas juchée sur le portail de Saint-Thomas d'Aquin, Le tout est rempli d'habitants. L'ensemble est hideux.]{.calibre4}
+
+[Il y avait fête aujourd'hui. On devait traîner en procession par la ville de grands chars en carton doré pleins de filles rousses. Je me suis enfui. J'attends de la miséricorde de Dieu qu'il ne remettra jamais sur ma route la capitale du Cygne de Cambrai. J'aimerais mieux relire [Télémaque]{.italic}.]{.calibre4}
+
+[Valenciennes ne vaut guère mieux que Cambrai. Il y avait un fort noble et fort sévère beffroi du quatorzième siècle ; mais, il y a cent ans, on lui a masqué le pied avec un lourd pâté dorique et on lui a mis une tête rococo en pierre bleue la plus vilaine du monde, La pierre bleue écrase la pierre grise, de façon que le beffroi menace ruine. Toutes ces inepties sont visibles et tristes. Les gens d'ici avaient aussi un curieux hôtel de ville espagnol de 1612. Ils le grattent.]{.calibre4}
+
+[Cela vu, et quelques vieilles maisons bien rares, il n'y a plus rien dans la ville que la citadelle. Décidément Vauban m'assomme, je ne puis sentir ces forteresses que masque une touffe d'herbe. Où sont les donjons, les créneaux et les tours ! J'ai dit dans [Notre-Dame]{.italic} que l'imprimerie a tué les églises, j'aurais pu ajouter que l'artillerie a tué les forteresses. ]{.calibre4}
+
+[Ici aussi il y a une grande place, mais plate et bête, surtout si on la compare aux deux places d'Arras que j'ai revues, au clair de lune plus admirables encore que le jour. La nuit la couleur s'en va, il ne reste que les lignes. ]{.calibre4}
+
+[La couleur de ce pays-ci, commence à m'ennuyer. Les maisons sont rouges, les femmes sont blondes, les plaines sont jaunes ; il me tarde de revoir de la pierre, de la verdure et des cheveux noirs. --- Les tiens surtout, mon Adèle.]{.calibre4}
+
+[Ajoute à cela que la route de Cambrai ici, est infectée de cippes en marbre bleu, de colonnes doriques en granit gris, etc., que les passants ventrus et roux qui couvrent les chemins prennent pour des monuments. Il y en a un pour la bataille de Denain, avec deux médiocres vers de Voltaire en bandoulière ; un autre pour le général Dampierre, colonne avec une urne de bronze sur la tête, qui de loin a l'air d'aller chercher de l'eau à la fontaine. Je m'étais résigné au cippe de Melle Duchesnois. Je ne sais comment je l'ai esquivé.]{.calibre4}
+
+[Je me suis arrêté quelque temps sur le champ de bataille de Denain. Il a besoin de ce souvenir, car c'est une plaine comme une autre, et je n'ai trouvé dans ce méchant petit village --- qui fait dire à Voltaire : [dans Denain]{.italic}, comme il eût dit [dans Paris]{.italic} ou [dans Londres ]{.italic}--- je n'y ai trouvé qu'une seule maison assez vieille pour avoir vu [l'audacieux Villars discuter le tonnerre]{.italic}, etc.]{.calibre4}
+
+[Voici encore une lettre sans fin, mon Adèle. Je me laisse aller à la douceur, de te conter tout ce que je vois. Je voudrais te le faire revoir. J'espère que notre Dédé va de mieux en mieux et que vous vous portez tous bien.]{.calibre4}
+
+[Quant à moi, je suis affreusement rouge, ce qui me met en harmonie avec les façades de brique et les cheveux des habitantes.]{.calibre4}
+
+[Je pense que cette lettre t'arrivera presque en même temps que ton père. Embrasse-le bien, pour moi. Je serai plus heureux de le sentir près de vous. Et puis écris-moi de bonnes lettres.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Bruxelles, 17 août, 8 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#bruxelles-17-août-8-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Chère amie, je suis tout ébloui de Bruxelles, ou pour mieux dire de deux choses que j'ai vues à Bruxelles : l'hôtel de ville arec sa place, et Sainte-Gudule.]{.calibre4}
+
+[Les vitraux de Sainte-Gudule sont d'une façon presque inconnue en France, de vraies peintures, de vrais tableaux sur verre d'un style merveilleux, avec des figures comme Titien et des architectures comme Paul Véronèse.]{.calibre4}
+
+[La chaire en bois sculpté de Henry Verbruggen qui est dans l'église date de 1699. C'est la création tout entière, c'est toute la philosophie, c'est toute la poésie, figurées par un arbre énorme qui porte dans ses rameaux une chaire, dans ses feuillages tout un monde d'oiseaux et d'animaux, à sa base Adam et Eve chassés par l'ange triste et suivis par la mort joyeuse et séparés par la queue du serpent, à son sommet la croix, la Vérité, l'enfant Jésus et sous le pied de l'enfant la tête du serpent écrasée. Tout ce poème est sculpté et ciselé à plein chêne de la manière la plus forte, la plus tendre et la plus spirituelle. L'ensemble est prodigieusement rococo et prodigieusement beau. Que les fanatiques du sévère arrangent cela comme ils voudront, cela est. Cette chaire est dans l'art un de ces rares points d'intersection où le beau et le rococo se rencontrent. Watteau et Coypel ont trouvé aussi quelquefois de ces points-là.]{.calibre4}
+
+[J'avais déjà vu à Mons une église belge, fort belle vraiment et du quatorzième siècle, Sainte-Waudru. L'intérieur de ces églises-là fait honte à nos cathédrales. C'est partout un luxe, un soin, un zèle, une propreté, un ameublement exquis des chapelles, un ajustement splendide des madones, qui indigne contre nos églises si sales, si nues et si mal tenues. Si ces braves belges ne badigeonnaient pas aussi de temps en temps, on n'aurait qu'à admirer. Sainte Waudru pourtant n'est pas barbouillée, mais Sainte-Gudule l'est.]{.calibre4}
+
+[Quand je suis entré dans Sainte-Gudule, il était trois heures. On célébrait l'office de la Vierge. Une madone, couverte de pierreries et vêtue d'une longue robe de dentelle d'Angleterre, étincelait sous un dais d'or au milieu de la nef, à travers une lumineuse fumée d'encens qui se déchirait autour d'elle. Beaucoup de peuple priait immobile à genoux sur le pavé sombre, et au-dessus un large rayon de soleil faisait remuer l'ombre et la clarté sur plusieurs grandes statues d'une fière tournure adossées aux colonnes. Les fidèles semblaient de pierre, les statues semblaient vivre.]{.calibre4}
+
+[Et puis un chant admirable, coupé de voix graves et de voix claires, tombait mystérieusement, avec le bruit de l'orgue, des plus hautes travées perdues dans la vapeur. Moi, pendant ce temps-là, j'avais l'oeil vaguement fixé sur la chaire fourmillante de Verbruggen, chaire magique qui parle toujours. --- Encadre ceci de vitraux, d'ogives, et de tombes de la Renaissance en marbre noir et blanc, et tu comprendras qu'il résultait de cet ensemble une sensation sublime.]{.calibre4}
+
+[L'hôtel de ville de Bruxelles est un bijou comparable à la flèche de Chartres ; une éblouissante fantaisie de poète tombée de la tête d'un architecte. Et puis, la place qui l'entoure est une merveille. A part trois ou quatre maisons que de modernes cuistres ont fait dénaturer, il n'y a pas là une façade qui ne soit une date, un costume, une strophe, un chef-d'oeuvre. J'aurais voulu les dessiner toutes l'une après l'autre.]{.calibre4}
+
+[Je suis monté sur les clochers de Sainte-Gudule, c'était beau. Toute la ville sous mes pieds, les toits tailladés et volutés de Bruxelles à demi estompés par les fumées, le ciel (un ciel orageux) plein de nuages dorés et frisés par le haut, coupés ras comme marbre par le bas ; au fond une grosse nuée lointaine d'où tombait, la pluie comme du sable fin d'un sac qui se crève ; le soleil jouant dans tout cela ; la magnifique lanterne à jour du beffroi se détachant sombre sur les vapeurs blanches ; et puis le bruit confus de la ville qui montait, et puis la verdure des belles collines de l'horizon, c'était vraiment beau. J'ai tout admiré comme un provincial de Paris que je suis, tout, jusqu'au maçon qui cognait sur une pierre et qui sifflait à côté de moi.]{.calibre4}
+
+[Bruxelles m'a fait oublier Mons, et pourtant Mons vaudra peut-être que je t'en reparle, car c'est une ville charmante. Mais pour aujourd'hui, mon Adèle, tu dois en avoir assez de mes pierres et de mes églises, et je crois t'entendre me gronder gaiement de ma manie. Chère amie, ne t'en plains pas. Les églises me font penser à toi. Je sors de là vous aimant tous plus encore, s'il est possible. ]{.calibre4}
+
+[Je t'embrasse ainsi que ton bon père. Dis à Didine et à Dédé, dis à Charlot et à Toto de s'entr'embrasser en mon nom. Je bois de la bière comme un flamand. La bière de Louvain a un arrière-goût douceâtre qui sent la souris crevée. C'est fort bien. --- Je t'embrasse.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Mons -- Louvain -- M]{.calibre2}alines[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6477 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Mons. Le marché aux herbes, à l'époque de Victor Hugo.]{.calibre_3}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Bruxelles, 18 août.]{.calibre2}]{.bold1}]{.calibre_39} {#bruxelles-18-août. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je suis encore à Bruxelles, mon Adèle. En attendant la diligence, je te commence une lettre que je finirai à Louvain ou à Malines. Tu vois combien c'est un bonheur pour moi de me rapprocher de toi par la pensée en t'écrivant.]{.calibre4}
+
+[Je t'ai promis de te reparler de Mons. C'est en effet une ville fort curieuse. Pas un clocher gothique à Mons, car l'église chapitrale de Sainte-Waudru n'a qu'un petit clocheton d'ardoise insignifiant ; en revanche, la silhouette de la ville est chargée de trois beffrois dans ce goût tourmenté et bizarre qui résulte ici du choc du nord et du midi, de la Flandre et de l'Espagne. ]{.calibre4}
+
+[La plus haute de ces trois tours, bâtie sur l'emplacement de l'ancien château, et, je pense, vers la fin du dix-septième siècle, a un toit vraiment étrange. Figure-toi une énorme cafetière flanquée au-dessous du ventre de quatre théières moins grosses. Ce serait laid si ce n'était grand. La grandeur sauve. ]{.calibre4}
+
+[Autour de ce genre de clochers, imagine des places et des rues irrégulières, tortues, étroites souvent, bordées de hautes maisons de brique et de pierre à pignons taillés du quinzième siècle et à façades contournées du seizième, et tu auras une idée d'une ville de Flandre. ]{.calibre4}
+
+[La place de l'hôtel de ville à Mons est particulièrement jolie. L'hôtel de ville a une belle devanture à ogives du quinzième siècle, avec un assez curieux beffroi rococo, et de la place on aperçoit en outre les deux autres clochers.]{.calibre4}
+
+[Comme je devais partir à trois heures du matin, je ne me suis pas couché pour voir cet ensemble au clair de lune.  Rien de plus singulier et de plus charmant, sous un beau ciel clair et étoile, que cette place si bien déchiquetée dans tous les sens par le goût capricieux du quinzième siècle et par le génie extravagant du dix-huitième ; rien de plus original, que tous ces édifices chimériques vus à cette heure fantastique. ]{.calibre4}
+
+[De temps en temps un carillon ravissant s'éveillait dans la grande tour (la tour des théières) ; ce carillon me faisait l'effet de chanter à cette ville de magots flamands je ne sais quelle chanson chinoise ; puis il se taisait, et l'heure sonnait gravement. Alors, quand les dernières vibrations de l'heure avaient cessé, dans le silence qui revenait à peine, un bruit étrangement doux et mélancolique tombait du haut de la grande tour, c'était le son aérien et affaibli d'une trompe, deux soupirs seulement. Puis le repos de la ville recommençait pour une heure. Cette trompe, c'était la voix du guetteur de nuit. ]{.calibre4}
+
+[Moi, j'étais là, seul éveillé avec cet homme, ma fenêtre ouverte devant moi, avec tout ce spectacle, c'est-à-dire tout ce rêve, dans les oreilles et dans les yeux. J'ai bien fait de ne pas dormir cette nuit-là, n'est-ce pas ? Jamais le sommeil ne m'aurait donné un songe plus à ma fantaisie. ]{.calibre4}
+
+[Eh bien ! ce rêve est fortifié. Mons est une citadelle ; et une citadelle plus forte qu'aucune des nôtres. Il y a huit ou dix enceintes avec autant de fossés autour de Mons. En sortant de la ville on est rejeté, pendant plus d'un quart d'heure, de passerelles en ponts-levis, à travers les demi-lunes, les bastions et les contrescarpes. Ce sont les anglais qui ont mis cette chemise à la ville pour le jour où nous aurions le caprice de nous en vêtir. Cette Flandre est belle d'ailleurs. De grandes prairies bien vertes, de frais enclos de houblon, des rivières étroites coulant à pleins bords ; tantôt un herbage plein de vaches, tantôt un cabaret plein de buveurs. On voyage entre Paul Porter et Teniers.]{.calibre4}
+
+[ ]{.calibre4}
+
+[![Description : Description : Description : Bruxelles](../../../images/victor-hugo/belgique/00853.jpg){.calibre3}]{.calibre_7}
+
+[Dessin réalisé par Victor Hugo à l'occasion de ce voyage à Bruxelles]{.calibre_3}
+
+[ ]{.calibre4}
+
+[Quant à la propreté flamande, voici ce que c'est : toute la journée, toutes les habitantes, servantes et maîtresses, duègnes et jeunes filles, sont occupées à nettoyer les habitations. Or, à force de lessiver, de savonner, de fourbir, de brosser, de peigner, d'éponger, d'essuyer, de tripoliser, de curer et de récurer, il arrive que toute la crasse des choses lavées passe aux choses lavantes, d'où il suit que la Belgique est le pays du monde où les maisons sont les plus propres et les femmes les plus sales. ]{.calibre4}
+
+[Ceci soit dit en exceptant, bien entendu, les belles dames, avec lesquelles je ne veux me faire d'affaires en aucun pays.]{.calibre4}
+
+[Du reste, cette espèce de propreté malpropre donne, quand on oublie les femmes, des résultats charmants. Ainsi, grâce aux plaques de cuivre luisantes comme l'or qui les garnissent ici, je viens de m'apercevoir, pour la première fois depuis que j'existe, que les colliers des chevaux de charrette ont la forme d'une lyre. ]{.calibre4}
+
+[Mets des cordes à la place de la tête du cheval, et Viennet pourra se servir de cet instrument.]{.calibre4}
+
+[![Description : Description : Description : Sans titre](../../../images/victor-hugo/belgique/00854.jpg){.calibre3}]{.calibre_7}
+
+[Victor Hugo dessine ce croquis]{.calibre_3}
+
+[ ]{.calibre4}
+
+[A propos des chevaux, il paraît qu'ils sont fort méchants en Flandre, ou les flamands fort prudents, car on ne les ferre, dans tous les villages où j'ai passé, que dans un travail des plus solides, non en chêne, mais en granit. (Ils ont ici un granit bleu assez laid qu'ils mettent à toute sauce) J'ai été contrarié de cette mode, moi qui  aime tant à rencontrer en route le beau groupe compliqué du cheval et du maréchal ferrant. ]{.calibre4}
+
+[A quelques lieues de Mons, avant-hier, j'ai vu pour la première fois un chemin de fer. Cela passait sous la route. Deux chevaux, qui en remplaçaient ainsi trente, traînaient cinq gros wagons à quatre roues chargés de charbon de terre. C'est fort laid.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Lier, 19 août, 9 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#lier-19-août-9-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[J'ai passé, Louvain, j'ai passé Malines, je suis à Lier, et je continue ma lettre. Je pense avec bien de la joie que ton père est près de toi mon Adèle, depuis hier et que ma Didine a son grand-papa en attendant le petit.]{.calibre4}
+
+[Je suis amplement dédommagé de toutes les sottes vllles de Flandre française. Louvain, qui est comme situé au fond d'une cuvette, est une charmante cité très complète. L'hôtel de ville, qui est admirable, a la forme d'une châsse gigantesque. C'est un colossal bijou du quinzième siècle. On le peint en jaune gris. L'hôtel de ville de Mons est en gris bleu. Ils ont pour cette dernière couleur cet affreux granit bleu qui leur sert de prétexte. --- Nous raccordons, disent-ils. --- Ces pauvres welches ont la rage de badigeonner.]{.calibre4}
+
+[La grande église à demi écroulée de Louvain fourmille de belles choses. Les chapelles regorgent de peintures merveilleuses et de sculptures parfaites. Ce ne sont que festons, ce ne sont qu'astragales. Tout cela est disposé au hasard, sans ordre, pêle-mêle, tohu-bohu. Ce sont des chaos que ces églises belges, mais des chaos qui contiennent des mondes.]{.calibre4}
+
+[La cathédrale de Malines est badigeonnée de blanc à l'intérieur et encombrée des fantaisies étranges de l'art au dix-huitième siècle. En revanche, l'extérieur est prodigieux. La tour terrifie. J'y suis monté. Trois cent soixante-dix-sept pieds de haut, cinq-cent-cinquante-quatre marches ! Presque le double des tours de Notre-Dame. Cette oeuvre monstrueuse est inachevée. Elle devait être surmontée d'une flèche de deux cent soixante pieds de haut, ce qui lui eût fait passer de plus de cent pieds la grande pyramide de Gizeh. Les hollandais en ont été jaloux, une tradition du pays dit que ce sont eux qui ont emporté en Hollande les pierres destinées à parfaire la grande tour. A chaque face de cette tour, il y a un cadran de fer doré de quarante-deux pieds de diamètre. Tout cet énorme édifice est habité par une horloge ; les poids montent, les roues tournent, les pendules vont et viennent, le carillon chante. C'est de la vie, c'est une âme.]{.calibre4}
+
+[Le chant du carillon se compose de trente-huit cloches, toutes frappées de plusieurs marteaux, et des six gros bourdons de la tour qui font les basses. Ces six bourdons sont d'accord, excepté le maître bourdon, qui est maintenant fêlé, et qui pèse dix-huit mille huit cents livres. La plus petite de ces six cloches pèse trois mille quatre cents. Le cylindre de cuivre du carillon pèse cinq mille quatre cent quarante-deux livres. Il est percé de seize mille huit cents trous d'où sortent les becs de fer qui vont mordre d'instant en instant les fibres du carillon.]{.calibre4}
+
+[A de certains jours, un homme s'assied là à un clavier que j'ai vu, comme Didine se met au piano, et joue de cet instrument. Figure-toi un piano de quatre cents pieds de haut qui a la cathédrale tout entière pour queue.]{.calibre4}
+
+[J'admire, depuis que je suis en Flandre, la ténuité et la délicatesse des meneaux de pierre auxquels s'attachent les verrières des fenêtres. Cette cathédrale de Malines a une vraie chemise de dentelle.]{.calibre4}
+
+[A Malines le chemin de fer passe. Je suis allé le voir. Il y avait là dans la foule un pauvre cocher de coucou, picard ou normand, lequel regardait piteusement les wagons courir, traînés par la machine qui fume et qui geint. --- Cela va plus vite que nos chevaux, lui dis-je. --- Beau miracle ! M'a répondu cet homme. [C'est poussé par une foudre]{.italic}. --- Le mot m'a paru pittoresque et beau.]{.calibre4}
+
+[Outre les wagons, ils ont ici une espèce de voiture singulière. C'est une brouette avec un chien devant et une femme derrière. Le chien tire, la femme pousse.]{.calibre4}
+
+[Je suis toujours ici dans le plus profond incognito, ce qui me plaît beaucoup. Je viens de lire dans un journal belge que [M. Victor Hugo visite en ce moment Rochefort]{.italic}. ]{.calibre4}
+
+[Après-demain je serai à Anvers et j'aurai tes lettres. J'aurai de vos nouvelles à tous. Ce sera bien de la joie. Depuis deux jours je me retiens, car je touche à Anvers, et je brûle d'y être, mais je ne veux rien laisser derrière moi. Il y a deux Rubens admirables à Malines, et j'en vais voir d'autres à Lier et à Turnhout. Je t'embrasse, mon Adèle, ainsi que ton père et nos chers petits. Je vous aime tous. Je continue à cuire au soleil.]{.calibre4}
+
+[N'oublie pas que c'est désormais à Dunkerque, [poste restante]{.italic}, qu'il faut m'écrire.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Anvers, 22 août, 4 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#anvers-22-août-4-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je viens, mon Adèle, de relire ta lettre du 14, bien heureux de la trouver si bonne, et bien triste de la trouver seule. C'est une vive joie pour moi de savoir qu'il y a du bonheur autour de toi. La lettre de ma Didine est bien gentille aussi, et je compte en trouver encore une, et plusieurs de toi, à Dunkerque. La poste de France arrive ici à quatre heures et demie. Je ne quitterai pas Anvers sans aller y voir encore une fois. Peut-être une bonne lettre de toi m'arrivera-t-elle. Elle serait bien venue.]{.calibre4}
+
+[Je suis arrivé hier ici à dix heures du matin. Depuis ce moment je cours d'église en église, de chapelle en chapelle, de tableau en tableau, de Rubens en Van Dyck. Je suis épuisé d'admiration et de fatigue. Ajoute à cela que je suis monté sur le clocher, six cent seize marches, quatre cent soixante-deux pieds, la plus haute flèche du monde après Strasbourg. C'est tout à la fois un édifice gigantesque et un bijou miraculeux. Un titan pourrait y habiter, une femme voudrait l'avoir à son cou.]{.calibre4}
+
+[J'ai vu de là tout Anvers, une ville gothique comme je les aime, et l'Escaut, et la mer, et la citadelle, et la fameuse lunette Saint-Laurent. C'est une pointe de gazon avec deux petites maisons rouges au bout.]{.calibre4}
+
+[Cette ville est admirable. Des peintures dans les églises, des sculptures sur les maisons, Rubens dans les chapelles, Verbruggen sur les façades ; l'art y fourmille. On recule pour admirer le portail de l'église, on se heurte à quelque chose, on regarde, c'est un puits : un puits magnifique, en pierre sculptée et en fer ciselé, avec des statuettes et des figurines. De qui est ce puits ? De Quentin Metzis. On se retourne. Qu'est-ce que c'est que cet immense édifice avec cette belle devanture de la Renaissance ? C'est l'hôtel de ville. On fait deux pas. Qui a dessiné cette grande façade rococo si flamblante et si riche ? C'est Rubens. Toute la ville est ainsi.]{.calibre4}
+
+[J'excepte le quartier neuf, qui est bête ici comme partout ailleurs et qui prend des airs de rue de Rivoli. ]{.calibre4}
+
+[Je suis réconcilié avec les chemins de fer ; c'est décidément très beau. Le premier que j'avais vu n'était qu'un ignoble chemin de fabrique. J'ai fait hier la course d'Anvers à Bruxelles et le retour. Je partais à quatre heures dix minutes et j'étais revenu à huit heures un quart, ayant dans l'intervalle passé cinq quarts d'heure à Bruxelles et fait vingt-trois lieues de France.]{.calibre4}
+
+[C'est un mouvement magnifique et qu'il faut avoir senti pour s'en rendre compte. La rapidité est inouïe ; Les fleurs du bord du chemin ne sont plus des fleurs, ce sont des taches ou plutôt des raies rouges ou blanches ; plus de points, tout dévient raie ; les blés sont de grandes chevelures jaunes, les luzernes sont de longues tresses vertes ; les villes, les clochers et les arbres dansent et se mêlent follement à l'horizon ; de temps en temps, une ombre, une forme, un spectre debout paraît et disparaît comme l'éclair ; à côté de la portière c'est un garde du chemin qui, selon l'usage, porte militairement les armes au convoi. On se dit dans la voiture : c'est à trois lieues, nous y serons dans dix minutes.]{.calibre4}
+
+[Le soir, comme je revenais, la nuit tombait. J\'étais dans la première voiture. Le remorqueur flamboyait devant moi avec un bruit terrible, et de grands rayons rouges, qui teignaient les arbres et les collines, tournaient avec les roues. Le convoi qui allait à Bruxelles a rencontré le nôtre. Rien d'effrayant comme ces deux rapidités qui se côtoyaient, et qui, pour les voyageurs, se multipliaient l'une par l'autre. On ne se distinguait pas d'un convoi à l'autre ; on ne voyait passer ni des wagons, ni des hommes, ni des femmes, on voyait passer des formes blanchâtres ou sombres dans un tourbillon, De ce tourbillon sortaient des cris, des rites, des huées. Il y avait de chaque côté soixante wagons, plus de mille personnes ainsi emportées, les unes au nord, les autres au midi, comme par l'ouragan.]{.calibre4}
+
+[Il faut beaucoup d'efforts pour ne pas se figurer que le cheval de fer est une bête véritable. On l'entend souffler au repos, se lamenter au départ, japper en route ; il sue, il tremble, il siffle, il hennit, il se ralentit, il s'emporte ; il jette tout le long de la route une fiente de charbons ardents et une urine d'eau bouillante, d'énormes raquettes d'étincelles jaillissent à tout moment de ses roues ou de ses pieds, comme tu voudras, et son haleine s'en va sur vos têtes en beaux nuages de fumée blanche qui se déchirent aux arbres de la route.]{.calibre4}
+
+[On comprend qu'il ne faut pas moins que cette bête prodigieuse pour traîner ainsi mille ou quinze cents voyageurs, toute la population d'une ville, en faisant douze lieues à l'heure.]{.calibre4}
+
+[Après mon retour, il était nuit, notre remorqueur a passé près de moi, dans l'ombre se rendant à son écurie, l'illusion était complète. On l'entendait gémir dans son tourbillon de flamme et de fumée comme un cheval harassé.]{.calibre4}
+
+[Il est vrai qu'il ne faut pas voir le cheval de fer ; si on le voit, toute la poésie poésie s'en va. A l'entendre c'est un monstre, à le voir ce n'est qu'une machine. Voilà la triste infirmité de notre temps ; l'utile tout sec, jamais le beau. Il y a quatre-cents ans, si ceux qui ont inventé la poudre avaient inventé la vapeur, et ils en étaient bien capables, le cheval de fer eût été autrement façonné et autrement caparaçonné ; le cheval de fer eût été quelque chose de vivant comme un cheval et de terrible comme une statue. Quelle chimère magnifique nos pères eussent faite avec ce que nous appelons la chaudière ! Te figures-tu cela ? De cette chaudière ils eussent fait un ventre écaillé et monstrueux, une carapace énorme ; de la cheminée une corne fumante ou un long cou portant une gueule pleine de braise ; ils eussent caché les roues sous d'immenses nageoires ou sous de grandes ailes tombantes ; les wagons eussent eu aussi cent formes fantastiques, et, le soir, on eût vu passer près des villes tantôt une colossale gargouille aux ailes déployées, tantôt un dragon vomissant le feu, tantôt un éléphant la trompe haute, haletant et rugissant ; effarés, ardents, fumants, formidables, traînant après eux comme des proies cent autres monstres enchaînés, et traversant les plaines avec la vitesse, le bruit et la figure de la foudre. C'eût été grand.]{.calibre4}
+
+[Mais nous, nous sommes de bons marchands bien bêtes et bien fiers de notre bêtise. Nous ne comprenons ni l'art, ni la nature, ni l'intelligence, ni la fantaisie, ni la beauté, et ce que nous ne comprenons pas, nous le déclarons inutile du haut de notre petitesse. C'est fort bien. Où nos ancêtres eussent vu la vie, nous voyons la matière. Il y a dans une machine à vapeur un magnifique motif pour un statuaire ; les remorqueurs étaient une admirable occasion pour faire revivre ce bel art du métal traité au repoussoir. Qu'importe à nos tireurs de houille ! Leur machine telle quelle est dépasse déjà de beaucoup la portée de leur lourde admiration. Quant à moi, on me donne Watt tout nu, je l'aimerais mieux habillé par Benvenuto Cellini.]{.calibre4}
+
+[A propos, je te note ici, pendant que j'y songe, qu'il y a dans le clocher d'Anvers quarante cloches en bas et quarante-deux en haut, en tout quatre-vingt-deux. Entends-tu cela, ma Didine ? Quatre-vingt-deux cloches ! Figure-toi le carillon qui sort de cette ruche.]{.calibre4}
+
+[Lier, où j'ai terminé ma dernière lettre, est une assez jolie ville. J'ai dessiné le clocher de l'hôtel de ville, qui est charmant.]{.calibre4}
+
+[De Lier à Turnhout le pays change d'aspect ; ce n'est plus la grasse Flandre verte, c'est un banc de sable, une route cendreuse et pénible, une herbe maigre, des forêts de pins, des bouquets de petits chênes, des bruyères, des flaques d'eau çà et là, quelque chose de sauvage et d'âpre, une espèce de Sologne. J'ai fait quatre lieues dans ce désert sans voir autre chose qu'un trappiste qui défrichait, triste laboureur d'un triste sillon. C'était beau d'ailleurs pour la pensée de voir cette robe blanche et ce scapulaire noir pousser deux boeufs.]{.calibre4}
+
+[La solitude était telle que les grives et les alouettes traversaient familièrement la route. Une jolie bergeronnette a suivi la voiture pendant un quart d'heure, sautant d'arbre en arbre, vive et joyeuse, et s'arrêtant de temps en temps pour piquer une mouche au pied de quelque jeune chêne. ]{.calibre4}
+
+[Je suis resté longtemps les yeux fixés sur ce trappiste, La lande était immense et aride comme une plaine de la Vieille-Castille ; la terre rousse et brûlée par le soleil faisait çà et là à l'horizon de ces petites dentelures brusques qui figurent des marches d'escalier, pas un clocher au loin, à peine un arbre. La route était bordée à cet endroit-là de quelques chênes morts. Le religieux était assisté d'un paysan qu'il enseignait avec un geste grave et rare sans prendre garde à nous autres passants. De temps en temps il se retournait, et le soleil couchant dessinait vivement par les ombres et par les clairs sa figure austère et sereine. Je ne sais si cet homme pensait, mais je sais qu'il faisait penser.]{.calibre4}
+
+[A quelques lieues de là, passant près de je ne sais quelle bourgade et revenu cette fois dans la belle Flandre, j'ai remarqué un grand peuplier desséché au milieu d'une petite place à l'entrée du village. On m'a dit que c'était un arbre de la constitution. J'en suis fâché pour la constitution, mais cela faisait un piteux effet. Rien de plus chétif que cette idée politique plantée au milieu des paysages. Rien de misérable et d'effronté en même temps comme ce témoignage rendu à la petite puissance de l'homme en présence de la nature et de Dieu. D\'un côté des forêts, des plaines, des collines, des rivières, des nuages, la terre et le ciel ; de l'autre, une méchante perche desséchée qu'on est obligé d'étayer contre le vent.]{.calibre4}
+
+[Et puis quelles idées cela fait venir ! Il y avait un arbre qui avait une racine, des branches et des feuilles, qui était vert et vivant ; on a pris cet arbre, on lui a coupé sa racine, les feuilles sont tombées, les branches sont mortes, et l'on a été bêtement le replanter dans un sol qui n'est plus le sien. Fidèle symbole de tant de constitutions modernes qui ne sont ni du passé, ni de l'avenir, ni du climat.]{.calibre4}
+
+[A propos de climat, j'ai quelque peine à me faire à celui-ci. C'est une espèce d'été fort lourd et fort épais, et où l'on respire comme une vapeur de bière. Je suis écrasé par ces chaleurs flamandes. Je ne m'accoutume pas non plus à ce qu'on boit ici. Rien de nauséabond ! comme ce faro et ce lambic. Je fais décidément peu de cas du vin de Flandre et du vin de Normandie. J'aime mieux le cidre de Bourgogne et la bière de Bordeaux.]{.calibre4}
+
+[Leurs puits sont singuliers. Ils puisent l'eau avec une grue. Il est assez curieux de les voir tirer, un seau de la citerne comme Archimède enlevait les navires de la mer au siège de Messine.]{.calibre4}
+
+[Tu vois, chère amie, comme je bavarde avec toi. Je te dis tout, et je retire ainsi une seconde joie des choses que je vois. J'ai fait tout ce que ma bourse m'a permis de faire de ta commission. Je te rapporte une demi-douzaine de bas anglais qu'on m'a dit fort beaux. J'ai acheté aussi des chaussettes pour moi. Il paraît qu'un homme ne pourrait sous aucun prétexte faire passer une robe à la frontière. Il ne pourrait exciper de son usage personnel et la douane saisirait. C'est ce qui m'a empêché de t'acheter la robe que tu désirais.]{.calibre4}
+
+[J'ai oublié de te dire que j'ai acheté pour trente sous à Bruxelles une contrefaçon des [Voix intérieures]{.italic}. Je suis curieux de voir si elle passera. Je me suis vu affiché partout à Bruxelles et à Anvers, et imprimé dans tous les formats.]{.calibre4}
+
+[Au moment où j'achève cette page, j'entends le carillon du grand clocher qui m'avertit de fermer cette lettre. C'est vraiment, à part cela, une musique charmante. Il faut que cette flèche si frêle en apparence ait une solidité énorme. Cela sonne ainsi nuit et jour huit fois par heure depuis trois cents ans.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[6 heures du soir.]{.bold}]{.calibre4}
+
+[ ]{.calibre4}
+
+[Je reviens de la poste. Pas de lettres. Je ne t'en embrasse pas moins tendrement, mon Adèle, mais tu me dédommageras à Dunkerque, n'est-ce pas ? Embrasse ton père et nos chers petits. Mille amitiés à nos amis. Je pars pour Gand.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[A Louis Boulanger.]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6482 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Anvers]{.calibre_3}
+
+
+[
+]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[A Louis Boulanger. Anvers, 22 août 1837.]{.calibre2}]{.bold1}]{.calibre_39} {#a-louis-boulanger.-anvers-22-août-1837. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je vous écris d'Anvers, cher Louis, c'est tout vous dire ; je suis en pleine Flandre, à même les cathédrales, les Rubens et les Van Dyck. C'est un admirable pays.]{.calibre4}
+
+[Hier j'étais au haut de la flèche de cette merveilleuse cathédrale, et je pensais à vous. Je pense à vous toutes les fois qu'une chose contient un tableau ou une pensée.]{.calibre4}
+
+[Je voyais, du même regard, devant moi la mer et Flessingue à vingt-deux lieues, à gauche la Flandre et les tours de Gand, à droite la Hollande et la flèche de Bréda, derrière moi le Brabant et le clocher de Malines puis l'Escaut, large et brillant au soleil, et, entre la mer et l'Escaut, les polders inondés, une prairie de cinq lieues de tour changée en lac, à droite une autre prairie toute verte et scintillante de maisons blanches ; à mes pieds les quelques toits de la tête de Flandre bloqués par l'eau ; sous moi Anvers, qui est, au dix-neuvième siècle, comme était Paris au seizième, un amas magnifique d'églises et d'hôtels, de toits taillés, de pignons contournés, de clochers carrés et pointus, avec mille accidents de tourelles et de façades étranges de grosses vieilles maisons amusantes, qui sont la Boucherie, qui sont la Draperie, qui sont la Bourse ; un devant d'hôtel de ville qui ressemble, à une architecture de Paul Véronèse, un portail d'église qui ressemble à un fond de Rubens et qui est de Rubens ; mille voiles sur l'Escaut, dans un coin du paysage le chemin de fer où disparaissait un convoi de wagons, près du chemin de fer une grande étoile de gazon couchée à plat sur le sol qui est la citadelle, enfin au-dessus de tout cela un ciel de nuages déchiquetés comme dans Albert Dürer avec un beau rayon de pluie qui tombait au loin. Voilà ce que je voyais hier, en regrettant que vous ne le vissiez pas.]{.calibre4}
+
+[Et puis, en descendant de l'église, à chaque pas, des Rubens, des Martin de Vos, des Otto Venius, des Van Dyck des sculptures de Verbruggen et de Willemsens, de grands confessionnaux de chêne, d'immenses chapelles de marbre, des chaires qui sont des poèmes. J'ai vu là la [Descente de croix]{.italic} de Rubens, cette merveille.]{.calibre4}
+
+[Tout cela, il faut le dire, est honteusement exploité. Les bedeaux cachent le plus de tableaux qu'ils peuvent pour faire payer trente sous aux étrangers. En attendant, le maître reste dans l'ombre. Il y a en ce genre à l'église Saint-Jacques, où est le tombeau de Rubens, un drôle qui est suisse de l'église et qui mériterait d'être fustigé en place publique. Ce misérable dispose de Rubens à sa guise, le cache ou le montre, le prête ou le retire, le tout à son gré, sans contrôle, insolemment, souverainement, absolument. C'est odieux.]{.calibre4}
+
+[Le doyen de la cathédrale, un certain M. Lawez, a fait couvrir d'une serge, sous prétexte d'indécence, un [Jugement dernier]{.italic} qui est le meilleur tableau de Backers. Impossible de faire lever cette serge. Voilà un stupide doyen, n'est-ce pas ?]{.calibre4}
+
+[Je songe souvent à vous, Louis, dans ce pays qui vous plairait tant. Avant-hier, j'étais à Turnhout, une petite ville qui est par là vers le nord. Je me promenais, le soleil était couché. Tout à coup au détour d'une petite rue déserte je me suis trouvé dans la campagne. Il y avait à quelque distance une grosse vieille tour vers laquelle j'ai marché. C'était vraiment beau. Une vieille tour carrée en brique, haute, énorme, massive, cordonnée près du sommet d'une petite dentelure byzantine, adossée à un vieux château refait et gâté, mais le couvrant de son ombre et ayant du reste conservé, elle, sa forme exquise et sévère. Au pied de la tour miroitait un fossé d'eau vive dans lequel sa hauteur se doublait. Toutes les fenêtres étaient masquées de barreaux de fer. C'était une prison.]{.calibre4}
+
+[Je me suis arrêté longtemps près de cette sombre masse que le crépuscule noircissait à chaque instant.]{.calibre4}
+
+[Il sortait d'une des fenêtres d'en haut un chant plein de tristesse et de douceur. Je me souvenais d'en avoir entendu un aussi mélancolique et aussi grave au Mont-Saint-Michel, l'an dernier. Comme c'était la kermesse d'août, il y avait au loin dans la ville un bruit de danses et de rires. Le chant du prisonnier coupait cela sans dureté et sans colère.]{.calibre4}
+
+[Le jour s'éteignait à l'occident, les roseaux du fossé frissonnaient, de temps en temps un gros rat passait rapidement sur la saillie du pied de la tour. Et puis le fond du paysage était un vrai fond flamand, deux ou trois grosses touffes d'arbres, une vieille église rouge à pignon en volutes, à grand toit et à petit-clocher, un hameau très bas fumant à côté, une plaine immense et noire, un ciel clair, pas un nuage. Je n'ai jamais rien vu de plus austère et de plus doux.]{.calibre4}
+
+[Mais je me laisse aller à causer avec vous, mon bon Louis, et il n'y a pas de raison pour que cette lettre finisse, surtout si je me mets à vous parler maintenant de ma vieille amitié, vous la connaissez bien, n'est-ce pas, Louis ? ]{.calibre4}
+
+[Je vous embrasse de toute mon âme.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Albums.]{.calibre2}]{.bold1}]{.calibre_39} {#albums. .calibre_38}
+
+[ ]{.calibre4}
+
+[Où placer le monument de Rubens ? À Anvers, ou à Cologne ? Cologne a son berceau ; Anvers a ses tableaux. Cologne l'a vu naître, Anvers l'a vu peindre. Cologne l'a vu petit, Anvers l'a vu grand.]{.calibre4}
+
+[A Anvers il a eu le sourire de la gloire. A Cologne il avait eu le sourire de sa mère.]{.calibre4}
+
+[Un grand homme a deux naissances la première, comme homme, la seconde, comme génie. Donc Rubens a deux patries. Faites-lui deux monuments. Une crèche de marbre blanc à Cologne, un sépulcre de bronze à Anvers.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Gand -- Audenarde -- T]{.calibre2}ournai[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6486 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Gand. Quai aux herbes.]{.calibre_3}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Audenarde, 24 août, 8 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#audenarde-24-août-8-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Il semble, chère amie, que mes imprécations contre la chaleur de ce lourd pays aient fait effet. Comme je fermais ma dernière lettre, le ciel s'est couvert et m'a gratifié de la pire des pluies, la pluie fine et froide qui embrasse tout l'horizon et dure toute la journée.]{.calibre4}
+
+[Pour aller d'Anvers à Gand, il faut traverser l'Escaut. Comme les polders sont inondés, et cela depuis neuf mois, le trajet par eau est plus long, et le bateau à vapeur vous mène prendre un chemin de traverse soudé à la route de Gand une demi-lieue au-dessus de la Tête-de-Flandre. Tu penses bien que je n'ai pas été fâché de cette petite promenade presque en mer. Malgré la pluie, je suis resté sur le pont, écoutant vaguement s'éloigner le chant des matelots qui allaient en mer, et regardant la haute flèche d'Anvers disparaître dans la brume.]{.calibre4}
+
+[Je n'ai fait que passer à Gand (mais je compte y revenir quand j'aurai vu Tournai et Courtrai). ]{.calibre4}
+
+[C'est une belle ville que Gand. Gand est à Anvers ce que Caen est à Rouen : une chose belle à côté d'une chose admirable. J'ai cependant pris le temps de visiter Saint-Bavon et, bien entendu, je suis monté sur la tour. Pour moi, il y a deux façons de voir une ville qui se complètent l\'une par l'autre ; en détail d'abord, rue à rue et maison à maison ; en masse ensuite, du haut des clochers. De cette manière on a dans l'esprit la face et le profil de la ville.]{.calibre4}
+
+[Vue du haut de Saint-Bavon, c'est-à-dire de deux cent soixante-douze pieds de haut, et il faut monter quatre-cent-cinquante marches pour arriver là, Gand a sa configuration gothique presque aussi bien conservée qu'Anvers. La tour du beffroi, surmontée d'un énorme griffon doré, a pour toit un fort amusant entassement de clochetons, de lucarnes et de girouettes. A côté il y a une vieille et noire église, Saint-Nicolas dont la façade, presque romane, est admirable. C'est une grande ogive sévère, flanquée de deux tourelles crénelées du plus grand style. Un peu plus loin, c'est Saint-Michel qui, comme Saint-Nicolas, se présente par l'abside. Deux ou trois autres églises pyramident plus loin encore au milieu des toits taillés en escaliers. En se retournant, c'est Saint-Jacques, qui a trois aiguilles dont une en pierre et deux en ardoise. À côté, une belle place, à hauts pignons coupés de deux vieux logis de pierre du quatorzième siècle, avec tourelles et grands toits. Celui qui est au milieu du petit côté de la place était la maison des comtes de Flandre. Cette place est le marché aux toiles ; et puis il y a une foule d'autres marchés pittoresques, des couvents, de petits carrefours tortus enclos de maisons crénelées qui ont toutes sortes d'attitudes et brisent leurs lignes les unes sur les autres d'une façon charmante ; et puis un toit immense qui couvre une grande nef austère du quatorzième siècle sans tour ni clocher, c'est l'église des Dominicains. En ce moment-là, plusieurs moines y entraient avec leur admirable costume, la robe blanche et le scapulaire noir. A mes pieds l'hôtel de ville avec ses deux façades, l\'une du temps de Louis XIII, l'autre du temps de Charles VIII, l'une sévère, l'autre ravissante. ]{.calibre4}
+
+[Ajoute à cela hors de la ville un immense horizon de prairies et dans la ville une multitude de petits ponts et de cours d'eau où les maisons se baignent ; et tu auras quelque idée de Gand à vol d'oiseau.]{.calibre4}
+
+[C'est vraiment une belle ville ; quatre rivières s'y rencontrent, l'Escaut, la Liève, la Moer et la Lys. C'est un réseau d'eau vive qui se noue et se dénoue à tout moment à travers les maisons et qui partage la ville en vingt-six îles ; ce qui fait qu'avec ses barques, ses innombrables ponts, ses vieilles façades trempées dans l'eau, Gand est une espèce de Venise du Nord.]{.calibre4}
+
+[Précisément au pied de la cathédrale, dans un pâté de lourdes maisons flamandes, mon guide m'a fait remarquer une jolie cour-jardin, coquette, verte et sablée, entourée d'un portique du dernier siècle, tout rocaille et chicorée, avec colonnade et statues de marbre bleu. Cette maison et ce jardin sont de l'aspect le plus frais et le plus gai. C'était le logis de ce vieux millionnaire Maës qui a été si misérablement assassiné il y a deux ans et qui remplissait d'or ses vieux chapeaux. --- Maintenant on bâtit chez lui, on ajoute un étage à sa maison, la joie et la richesse sont là. Je n'ai jamais plaint ce vieux homme.]{.calibre4}
+
+[Il y a beaucoup de façades rocaille à Gand parmi les pignons gothiques, et des plus tourmentées, ce qui les fait passer. Le rococo n'est supportable qu'à la condition d'être extravagant.]{.calibre4}
+
+[Mais est-ce que tout ce bavardage ne t'ennuie pas, ma pauvre bien-aimée ? Je cause avec toi comme si j'étais au coin de notre feu de la place Royale. Je te conte tout. Je te mets le plus que je peux de mon voyage. Avertis-moi, mon Adèle, si mon récit ne t'amuse pas.]{.calibre4}
+
+[Voici qui te fera rire pourtant. Tout à l'heure, en sortant de Gand, entre Gand et Audenarde, j'ai vu dans un village une enseigne d'auberge où était peinte la figure d'un homme coiffé à la Titus, avec de gros favoris, des épaulettes d'or, un uniforme bleu à revers blancs, et la croix de Léopold au cou. Au bas il y avait cette inscription [Louis XIV, roi de France]{.italic}. Je dis la chose comme elle est, je n'invente rien.]{.calibre4}
+
+[On ne rencontre dans ce pays ni manoirs, ni donjons, ni châteaux. On voit que c'est le pays des communes et non des seigneurs, des bourgeoisies et non des châtellenies. En revanche, il y a partout des hôtels de ville, charmantes fleurs de pierre, que le quinzième siècle surtout a fait épanouir avec splendeur au milieu des villes.]{.calibre4}
+
+[Ici, par exemple, à Audenarde, où je t'écris, et qui n'est qu'une petite ville, je vois de ma fenêtre, de l'hôtel du Lion d'or le profil d'une ravissante maison de ville du gothique le plus fleuri, couronnée d'une vraie couronne de pierre que surmonte un géant armé et doré portant le blason de la ville. Toute la place que j'ai sous les yeux est charmante, quoiqu'elle ait conservé trop peu de ses vieux pignons. Au milieu de la façade de l'hôtel de ville il y a une fort jolie fontaine de 1676. Le duc de Saint-Simon n'avait qu'un an lorsqu'on l'a construite. A côté de la fontaine un beau peuplier et puis là-bas, au-dessus des maisons, un beau clocher de gothique austère. Le soleil couchant fait de beaux angles d'ombre dans tout cela.]{.calibre4}
+
+[Ils ont en Flandre la sotte habitude de fermer toutes les églises à midi. Passé midi on ne prie plus. Le bon Dieu peut s'occuper d'autre chose. Cela fait que des deux églises d'Audenarde je n'ai pu visiter que la moindre, qui est encore fort remarquable avec son abside romane. Il y a deux beaux tombeaux indignement mutilés. J'ai été obligé, pour les voir, de franchir un bataillon de vieilles femmes, lesquelles lavaient l'église et venaient en bougonnant éponger le pavé jusque sous mes pieds. J'ai eu la satisfaction de faire sortir de leurs bouches diverses imprécations flamandes que j'ai laissées paisiblement voltiger dans l'église.]{.calibre4}
+
+[Ces braves dames flamandes continuent de justifier ce que je t'en disais. Elles consacrent vingt-quatre heures de la journée à laver leur maison, et la vingt-cinquième à se laver elles-mêmes. Du reste, elles sont pour la plupart fort jolies, presque toutes blanches avec des cheveux noirs, comme toi, mon Adèle chérie. Le dimanche elles mettent un fort beau bonnet de dentelle d'une forme charmante. A Lier, elles le soutiennent d'une espèce de ruban d\'épingles fort singulier et fort joli. Il va sans dire que je ne te parle ici que des paysannes. Les femmes de Bruxelles portent la faille, presque la mantille, ce qui les drape admirablement.]{.calibre4}
+
+[J'ai vu le gros canon de Gand dont je te fais ici un petit croquis. ]{.calibre4}
+
+[C'est un énorme tube, fait en lames de fer forgé, un vrai engin du quinzième siècle. Ceux de Gand en ont fort peu de soin. Ils l'ont juché sur trois façons d'assises rococo sculptées en guirlandes, et toute la gueule de la bombarde n'est qu'un réceptacle d'ordures. Ce canon a dix-huit pieds de long et pèse trente-six mille livres. On distingue très bien, dans l'intérieur, les cannelures que font les lames de fer. La bouche a deux pieds et demi de diamètre. Cela jetait de gros boulets de granit ou des tonneaux de mitraille. C'est énorme.]{.calibre4}
+
+[Ce n'est rien cependant à côté de ces bombardes de Mahomet II que traînaient quatre mille hommes et deux mille jougs de boeufs, et qui vomissaient d'immenses blocs de rochers. C'étaient des espèces de volcans que ce turc penchait sur Constantinople.]{.calibre4}
+
+[Il y a de beaux tableaux à Saint-Bavon, deux surtout, l'un de Rubens, l'autre de Jean van Eyck, l'inventeur de la peinture à l'huile. Celui de Rubens, qui représente l'admission de saint-Amand au monastère de Saint-Bavon, est admirable. Le groupe d'en bas est de la plus superbe tournure. L'autre, d'un style tout différent, n'est pas moins merveilleux. Van Eyck est aussi calme que Rubens est violent. Il y a encore une belle peinture d'un élève de Van Eyck et une autre, belle de même, du maître de Rubens. Ces quatre peintres font une sorte d'escalier par lequel il est curieux de descendre, d'époque en époque, ou pour mieux dire de monter, de Van Eyck à Rubens. Nous connaissons à peine à Paris cet Otto Venius, qui a été le maître de Rubens. Chose remarquable ! c'est aussi un peintre calme.]{.calibre4}
+
+[Au reste, chacune de ces églises flamandes est un musée. J'y voudrais voir notre bon et cher Boulanger.]{.calibre4}
+
+[A part cela, j\'aime mieux nos églises de France. Décidément, celles-ci sont trop propres. La propreté excessive, en fait de monuments, est un grand défaut. D'abord elle entraîne le badigeonnage, cette suprême saleté, et puis le grattage, et puis le lavage perpétuel. Or la couleur des siècles est toujours belle et la poussière du jour l'est quelquefois. L'une est la trace des générations, l'autre est la trace de l'homme. Tout est blanc, luisant, poli, épongé, miroitant, dans les églises belges. A chaque pas, l'opposition dure et criarde et prodiguée partout du marbre blanc et du marbre noir. Fort peu de ces belles teintes grises et moisies de nos vieilles cathédrales. Pas de vitraux. Briser les vitraux et badigeonner les églises, souvent aussi jeter bas les jubés, voilà de quoi se compose la dévastation propre aux prêtres. Ils veulent à toute force être vus ; pour cela il faut blanchir les vitres, blanchir les murs et renverser les jubés. O coquetterie, où vas-tu te nicher ?]{.calibre4}
+
+[Depuis que je suis en Belgique, je n'ai vu que deux ou trois jubés, et encore cruellement peinturlurés, deux ou trois verrières, deux églises seulement non badigeonnées, Sainte-Waudru de Mons et la chapelle de Bruxelles.]{.calibre4}
+
+[En Belgique, point de ces beaux portails encombrés d'admirables statues, comme à Chartres, comme à Reims, comme à Amiens. Les portails des plus belles cathédrales n'ont pas une seule figure sculptée. C'est étrange. Il est vrai qu'une flèche comme celle d'Anvers rachète bien des choses. Quelle magnifique oeuvre ! C'est de l'orfèvrerie autant que de l'architecture. Et je fais cas d'une orfèvrerie qui a cinq cents pieds de haut.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Tournai, 26 août.]{.calibre2}]{.bold1}]{.calibre_39} {#tournai-26-août. .calibre_38}
+
+[ ]{.calibre4}
+
+[La diligence avait interrompu ma lettre. C'est à Tournai, mon Adèle, que je la finis. La route d'Audenarde ici est une prairie sans fin, coupée de verdures et de petites rivières. On voit à gauche la charmante colline qui masque le cours de l'Escaut.]{.calibre4}
+
+[Tournai doit tenir son nom des tours dont elle est couverte. La cathédrale seule a cinq clochers. C'est une des plus rares églises romanes que j'aie vues. Il y a dans l'église un admirable [Jugement dernier]{.italic} de Rubens, et un magnifique reliquaire d'argent doré, énorme, massif, et travaillé en bijou. Les deux portails latéraux de l'église sont du byzantin le plus beau et le plus curieux. Toute cette ville est d'un immense intérêt.]{.calibre4}
+
+[Hier au soir, comme c'était la Saint-Louis, le beffroi, superbe tour presque romane, était illuminé de lanternes de couleur, bariolage charmant et lumineux que commentait le carillon le plus bavard et le plus amusant du monde. Une symphonie de lanciers belges répondait de la place d'armes à ce vacarme aérien. Toutes les cloches étaient en mouvement, et toutes les femmes aussi. Toute cette vieille ville, ainsi livrée à ce joyeux babil de fête, était ravissante à entendre et à voir. Je me suis promené longtemps dans une rue sombre, regardant les cinq aiguilles géantes de la cathédrale qu'éclairait vaguement la réverbération du beffroi illuminé.]{.calibre4}
+
+[Je pensais à notre place Royale, à tous nos amis, à toi surtout, mon Adèle, et à nos enfants bien-aimés. Je vous aurais tous voulus là en ce moment. Oh ! va, le jour où nous éprouverons toutes ces émotions ensemble sera un beau jour pour moi, crois-moi bien, mon pauvre ange, et aime-moi. J'embrasse ma Didine, mon Charlot, et puis Toto et puis Dédé.]{.calibre4}
+
+[J'espère que tous sont toujours bons et heureux, Je serre la main à ton excellent père.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Courtrai, 27 août, 7 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#courtrai-27-août-7-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Hier j'étais à Tournai, je suis parti, j'ai traversé Courtrai, j'ai vu Menin, j'ai visité Ypres, et je reviens à Courtrai. Tu le vois, chère amie, je vais et je viens, je ne veux laisser échapper aucune de ces vieilles villes. Partout où il y a une cathédrale, un hôtel de ville ou un Rubens, j'accours, Cela me fait faire des zigzags sans fin. Mon voyage dessine à travers la Belgique une extravagante arabesque. C'est que, dans ce pays-ci, de six lieues en six lieues il y a une ville comme on en trouve en France toutes les soixante lieues.]{.calibre4}
+
+[Avant de quitter Tournai, j'ai été revoir la cathédrale, qui est vraiment d'une rare beauté. C'est une église romane presque comparable à celle de Noyon, et qui a, de plus que Noyon, un ravissant jubé de la Renaissance tout en marbre de diverses couleurs, avec deux étages de bas-reliefs, l'un de l'Ancien, l'autre du Nouveau Testament, lesquels s'expliquent fort curieusement, ceux d'en bas par ceux d'en haut, le symbole par le fait, la prophétie par l'accomplissement, lsaac portant le bois de son bûcher par Jésus portant sa croix, Jonas dévoré par la baleine et revomi au bout de trois jours par Jésus descendant au tombeau et en ressortant aussi le troisième jour, etc. Tout ce jubé est fouillé du ciseau le plus tendre et le plus spirituel.]{.calibre4}
+
+[C'est une antique ville que Tournai. Presque toutes les églises sont du onzième au treizième siècle. J'y ai vu des maisons romanes. Te rappelles-tu, mon Adèle, celle que nous vîmes ensemble à Tournus dans ce beau voyage de 1825 qui est le plus doux souvenir de ma vie ?]{.calibre4}
+
+[Mais je reprends mon journal. Au portail nord de la cathédrale de Tournai, qui est roman, il y a une singularité que je n'ai vue que là. Ce sont deux fenêtres à plein cintre fermées que le sculpteur a figurées dans la pierre. Les volets avec leurs ferrures et leurs verrous sont fort soigneusement travaillés. Du reste, ce portail est dans un état de délabrement déplorable. Le gros clocher qui monte à gauche se lézarde du haut en bas.]{.calibre4}
+
+[Je ne te parle que d'architecture, chère amie, car vraiment mes aventures sont nulles, et les conversations de table d'hôte sont partout les mêmes. --- Comprenez-vous M, Raymond ? Il s'obstine à jouer aux dominos ! Il perd chaque, fois, ce qui fait qu'il paie l'estaminet tous les soirs à trois personnes.]{.calibre4}
+
+[On vend à Liège des redingotes à vingt-cinq francs, en drap. --- En drap ! est-il possible ? --- En vérité oui, du drap de Luxembourg à trois francs soixante-quinze, cinq aunes, dix-huit francs quinze sous, doublure et fournitures, deux francs, vingt francs quinze, façon, deux francs, vingt-deux francs quinze, commission, cinq sous, vingt-trois francs, deux francs de bénéfice, et allez ! --- Etc. --- Voilà ma conversation d'hier au soir à Menin,]{.calibre4}
+
+[Menin a des souvenirs. Elle a eu l'honneur d'être assiégée par Louis XIV. Voilà tout. C'est une femme laide et commune qui a eu, par hasard un bel amoureux. Rien du reste de remarquable sur la façade des maisons ni sur la face des habitants. J'y ai retrouvé de ces brouettes de Bruxelles tirées par un chien et poussées par une femme. Le sire de Canaples, qui craignait tant les puces pour ses chiens, n'eût pas attelé les siens à ces haquets-là.]{.calibre4}
+
+[Je dessine, je rêve et j'étudie, laissant parler les belges autour de moi. J'admire comme ils parlent flamand en français. Ils ont un [n'est-ce pas ?]{.italic} qu'ils mettent à toute sauce. Les femmes disent [ce n'est-ce pas]{.italic} avec beaucoup, de grâce. Elles sont décidément fort jolies en général. Mais il paraît que les plus belles sont celles de Bruges. Un stupide livre que j'ai acheté et qui s'intitule le [Guide du voyageur en Belgique et en Hollande]{.italic} appelle les femmes de Bruges [les circassiennes de la Belgique]{.italic}.]{.calibre4}
+
+[On vit assez bien dans les auberges, à la bière près. Pourtant ils ont la rage de mettre du sucre et de la farine dans tout. Vous demandez une omelette, résignez-vous à du flan.]{.calibre4}
+
+[A Tournai, comme à Bruxelles, comme à Anvers, comme à Gand, les modes de Paris, les marchandises de Paris, et même, on dirait, les marchands de Paris, s'étalent dans les boutiques qui, là aussi, s'appellent magasins.]{.calibre4}
+
+[Je me promenais le soir dans les rues croyant avoir devant les yeux les étincelantes devantures des boulevards parisiens. Les étranges maisons ! Du seizième siècle par le toit et de la rue Vivienne par la boutique ; sombres et tragiques par une moitié, fades et bêtes par l'autre ; le rez-de-chaussée lit [le Constitutionnel]{.italic}, le grenier lit la Bible ; en bas c'est M. Ternaux, en, haut c'est Philippe II ; en bas le gaz rit et flamboie dans le magasin à grandes vitres, levez les yeux et vous croirez voir trembler encore confusément sur le vieux pignon le rouge reflet des bûchers du duc d'albe.]{.calibre4}
+
+[Je faisais, moi, sur ces métamorphoses, cent réflexions amères qui te paraîtront tragi-comiques. --- C'est bien la peine d'être une maison du seizième siècle pour faire une pareille fin ! Commencer par un fronton de la Renaissance et finir par une boutique du Palais-Royal ! Être, près du ciel, un pignon taillé en escalier ou sculpté en volutes et, près du ruisseau, un magasin de guingamps et de cotonnades ! Quelle dégradation ! Comment a pu aboutir à quelque chose de si misérable une façade [formosa superne ?]{.italic}]{.calibre4}
+
+[Ceci, chère amie, est du latin d'Horace, qui échoit naturellement à Charlot.]{.calibre4}
+
+[Si ces réflexions se peignaient sur mon visage, elles devaient bien égayer les braves bourgeois brabançons. Car, pour le bourgeois de tout pays, la boutique blanchie, la grande vitre et le comptoir d'acajou sont un progrès. Passe pour les boutiques, pourvu qu'on n'applique pas ce progrès aux églises. Or, elles ont déjà la vitre blanche, la muraille blanche, j'attends un de ces matins l'autel d'acajou.]{.calibre4}
+
+[Le badigeonnage belge a trois nuances : le gris, le jaune et le blanc. Il est tricolore, comme il convient à un état constitutionnel. Le blanc s'applique aux églises, le gris aux hôtels de ville, le jaune aux maisons de campagne et aux édifices de fantaisie où le belge vient folâtrer le dimanche. Je voyais tout à l'heure en arrivant à Ypres, à droite de la route, une façon de gros château qui avait l'air d'être taillé dans une motte de beurre. Le propriétaire, un bon flamand rond, l'admirait du milieu d'une couche de concombres parmi lesquels sa grosse figure s'épanouissait.]{.calibre4}
+
+[Le trajet de Menin à Ypres est fort agréable. Ce sont partout de ces gracieux petits enclos verts que les peintres flamands aiment tant. Et puis le chemin traverse un bois, et il est bordé çà et là de longues colonnades de ces beaux peupliers d'Italie dont l'écorce vous regarde passer avec de grands yeux. J'ai refait ce trajet au retour avec grand plaisir. Une route revue à l'envers, c'est presque une nouvelle route.]{.calibre4}
+
+[Ypres est une ville que j'aimerais habiter. On y trouve les maisons de bois mêlées aux maisons de brique. C'est une sorte de rencontre inattendue de la Flandre et de la Normandie.]{.calibre4}
+
+[L'hôtel de ville est une merveille. C'est un édifice gigantesque qui tiendrait tout un côté de la place Royale et qui n'est pas moins grand par le style que par la masse. Un charmant petit hôtel de la Renaissance s'accoude gracieusement à ce sévère palais du treizième siècle. --- L'église est fort belle, à étudier surtout. Elle est pleine de sculptures de la Renaissance et j'y ai vu un Saint-Martin de Rubens qui est une chose prodigieuse. Joins à cela cent maisons exquises dans la ville. Sur la façade de l'hôtel de [la Châtellenie]{.italic} où j'ai déjeuné, il y a sept figures en médaillons qui sont admirables et qui représentent avec les plus beaux traits humains du monde les sept astres observés au seizième siècle : [Luna, Mercurius, Venus, Sol, Mars, Jupiter, Saturnus]{.italic}. A Ypres, comme dans toute la Belgique, au reste, les maisons sont datées. Jaime cette mode. Sur une vieille façade, j'ai vu la date 1616, ainsi écrite]{.calibre4}
+
+[![Description : Description : Description : Sans titre](../../../images/victor-hugo/belgique/00857.jpg){.calibre3}]{.calibre_7}
+
+[ ]{.calibre4}
+
+[Cela m'a fait songer à l'année de la mort de Shakespeare. ]{.calibre4}
+
+[Shakespeare est mort cette année-là, 1616, le 23 avril. Ce jour-là est mort aussi Michel Cervantes. Coïncidence remarquable ! --- Dieu a soufflé à la même heure ces deux flambeaux avec eux s'est éteinte, à l'aurore du dix-septième siècle, la dernière lueur du seizième.]{.calibre4}
+
+[Il y a à Courtrai une magnifique érection de la croix de Van Dyck. Le clocher de l'église principale est beau, quoique coiffé en beffroi. Avec deux tours sur un pont, c'est tout ce que j'ai remarqué dans la ville.]{.calibre4}
+
+[Au moment où je t'écris ceci, on tambourine sur la place [le manège du sieur Alfred, premier écuyer de monsieur Franconi]{.italic}. Te figures-tu ce que peut être de sa personne [le sieur Alfred, premier écuyer de monsieur Franconi ?]{.italic} --- Je viens de faire un médiocre souper. --- Demain, chère amie, je repars pour Gand, car je veux revoir [Gand la superbe espagnole]{.italic}, qui a fait faire un beau vers à Boileau.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[28. -- 6 heures du soir. -- Gand.]{.calibre2}]{.bold1}]{.calibre_39} {#heures-du-soir.-gand. .calibre_38}
+
+[ ]{.calibre4}
+
+[Me revoici à Gand, mon Adèle. Comprends-tu cela ? il fait froid maintenant. Je gèle le 28 août, j'étouffais le 25. La transition est brusque et le climat bizarre.]{.calibre4}
+
+[Je viens de parcourir toute la ville, voyant et revoyant. La cathédrale (Saint-Bavon), dont je t'ai déjà parlé, a une crypte comparable à la crypte de Tournus que nous avons vue ensemble, tu t'en souviens peut-être. C'est un beau et noble souterrain, Van Eyck y est enterré. J'y ai trouvé çà et là des tombes brisées et profanées au temps du duc d'Albe. Les soupiraux jettent sur ces tombes un jour blafard, qui se charge de brume en passant sous les piliers trapus du onzième siècle. Comme les lucarnes se croisent, il y a autour de chaque pilier de longs rayonnements de lumière vague et de grandes roues d'ombre. L'effet est sinistre.]{.calibre4}
+
+[J'admirais dans la haute église de gigantesques flambeaux de cuivre de la Renaissance. On m'a conté leurs aventures. Ces flambeaux étaient dans la cathédrale de Saint-Paul de Londres avant l'incendie de 1666. Ils ont appartenu à Charles Ier, Cromwell les a vendus à un évêque de Gand. Que de réflexions là-dedans ! Leur église est brûlée, leur maître est mort, leur vendeur est mort, leur acheteur est mort ; eux ils sont restés parce qu'ils sont beaux, et on ne les remarque que pour leur beauté. L'histoire passe, l'art reste.]{.calibre4}
+
+[L'art est comme la nature, simple et profond, un et divers. Fouillez et refouillez une cathédrale, c'est touffu comme un bois. Sous la forêt d'arbres il y a la forêt d'arbustes, sous la forêt d'arbustes la forêt d'herbes, sous la forêt d'herbes la forêt de mousses ; à toutes les profondeurs vous trouvez des beautés, et vous admirez l'architecte, le poète, le Dieu.]{.calibre4}
+
+[Et puis pour l'art rien n'est laid, rien n'est impur, c'est ce qu'on n'a pas encore voulu comprendre de nos jours. Les objets de la nature les plus repoussants lui donnent des motifs admirables. Nous estimons une araignée chose hideuse, et nous sommes ravis de retrouver sa toile en rosace sur les façades des cathédrales, et son corps et ses pattes en clef de voûte dans les chapelles.]{.calibre4}
+
+[Gand est plein de maisons du plus beau goût. La plus remarquable est sur un quai. C'est une maison gothique de la dernière époque qui marque la transition du quinzième au seizième siècle. Un navire du temps est sculpte sur la porte.]{.calibre4}
+
+[Ainsi on peut retrouver sur l'église de Tournai la serrurerie du onzième siècle, sur la maison de Gand la marine du seizième. L'art conserve tout. En sortant de la ville par la porte d'Anvers, au milieu de quelques bastions de brique ruinés qui sont l'ancienne citadelle espagnole, on trouve les décombres de l'abbaye de Saint-Bavon. C'est un curieux débris, du quinzième et même du dix-huitième siècle par un bout, roman et presque romain par l'autre. Il y a dans le mur de véritable [opus reticulatum]{.italic} à l'état barbare. Pardon, mon Adèle, demande ce que veut dire ce latin à ton père, qui sait tant de choses et qui les sait si bien. Charlot ne t'expliquerait pas ceci.]{.calibre4}
+
+[En creusant dans la salle derrière le cloître, on a mis à nu un fort beau pavé en mosaïque de terre cuite. J'y ai distingué des aigles, des coqs, des cerfs, des lions, force rinceaux byzantins, des hommes à cheval et jusqu'à des fleurs de lys, quelques-unes du temps de Charles VII, d'autres plus anciennes. --- Du reste, pas de tombeaux. --- Il pousse dans l'enclos que font ces vieux murs écroulés des coquelicots doubles qui m'ont paru des fleurs bien civilisées pour un lieu si sauvage. J'en ai cueilli un que je t'envoie, mon Adèle bien-aimée.]{.calibre4}
+
+[Sais-tu qui a acheté ce cloître à la Révolution ? Sais-tu qui l\'a revendu pierre à pierre, morceau à morceau, plomb, fer, bois et brique ? Sais-tu qui a dévasté, ruiné, démantelé, volé et dépouillé sous le ciel cette magnifique abbaye ? C'est Maës, ce même vieux Maës dont je te parlais dans ma dernière lettre, cet homme assassiné il y a deux ans pour ses richesses, pour ses richesses mal acquises, ce vieil avare qui en amassant son trésor mal gagné amassait son châtiment. Mon guide, un homme quelconque qui demeure par là et qui exploite l'abbaye, m'avait dit en entrant que c'était ce Maës qui avait fait cette ruine. J'ai parcouru toute la dévastation en silence, sans répondre un mot au concierge, et puis tout à coup, après plus d'une heure d'examen, je me suis levé d'une pierre où je m'étais assis et je n'ai pu m'empêcher de dire à haute voix « La providence est juste ! ». Mon guide, qui ne m'a entendu prononcer que ces quatre mots, a dû me prendre pour un fou.]{.calibre4}
+
+[Il y avait en 93 deux espèces de monstres, les uns tuaient les hommes, les autres tuaient les monuments ; les uns voulaient du sang, les autres de l'or. Les premiers étaient féroces et souvent désintéressés, les seconds étaient cupides et toujours lâches. Ce Maës était de cette dernière espèce, la plus méprisable à mon gré.]{.calibre4}
+
+[Ainsi ce misérable nous a pris à tous ce beau couvent pour se donner à lui, imbécile et inutile, la maison dont je t'ai parlé et que le maître lui a rudement reprise. Dieu soit loué ! Il a écrasé cet homme sous son or.]{.calibre4}
+
+[Gand est encore tout plein de Charles-Quint. Ce don Carlos était fort libertin dans sa jeunesse, n'en déplaise aux contradicteurs de [Hernani.]{.italic} Il paraît qu'il aimait particulièrement les jolies bouchères, car à Gand on appelle encore les bouchers [les enfants du prince]{.italic}. C'est du reste toute une histoire. Quatre familles seules avaient de père en fils le droit de boucherie à Gand, les familles Van Melle, Vanloo, Minne et Deynoodt. Elles tenaient ce droit de Charles-Quint qui croyait avoir des rejetons dans ces familles. C'est une curieuse chose qu'un roi qui fait de ses bâtards des bouchers. Quelle bonne page bête et pâteuse Dulaure eût fait là-dessus !]{.calibre4}
+
+[Ce matin j'ai quitté Courtrai, qui en flamand s'appelle Kortrik. La route jusqu'à Gand est, comme toutes les routes de la Belgique occidentale, une promenade en plaine avec un horizon de velours vert à droite et à gauche.]{.calibre4}
+
+[Entre Menin et Ypres on rencontre par intervalles des tas de briques qui rompent l'uniformité de la prairie et ont un certain air de ruines babyloniennes. Je ne les ai plus retrouvés sur la route de Gand. En revanche, dans ces environs-ci, les propriétaires des maisons de campagne font un énorme abus de bustes de magistrats, du temps de Louis XIV. Ils les juchent sur les piliers de leurs portes en guise de lions. Remplacer des crinières par des perruques, c'est bien flamand. Cela se fait pourtant ailleurs qu'en Flandre.]{.calibre4}
+
+[J'ai trouvé ici des journaux. J'ai voulu les lire ce sont les journaux du cru, ils sont tout tapissés de vers néerlandais. Cela est fort agréable à l'oeil. On croirait voir des dessins de cailloux et de rocailles dans une grotte rococo. La grotte, c'est [le Messager de Gand]{.italic}.]{.calibre4}
+
+[Voici une lettre interminable, n'est-ce pas ? Écris-m'en de pareilles, et je serai heureux. Il faut pourtant finir, la poste part à neuf heures du soir. Adieu, mon Adèle bien-aimée, adieu, ma Didine, mon Charlot, et les autres, tous mes petits enfants bien-aimés. Je vous embrasse tous et je prie Dieu pour vous. Mes plus tendres amitiés à ton père.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[Ton Victor.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+[Parle de moi à nos amis, à Louis, à Robelin, à Gautier, à Granier, Masson, Brindeau, à tous.]{.calibre4}
+
+[Je serai demain à Bruges.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Ostende -- Furnes -- B]{.calibre2}ruges[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6492 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Ostende. Le Kursaal]{.calibre_3}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Punies. -- 31 août -- 7 heures 1/2 du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#punies.-31-août-7-heures-12-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[J'ai sous les yeux en commençant cette lettre, chère amie, une des plus jolies places que j'aie encore vues ; vis-à-vis de moi un noble hôtel de ville de la Renaissance dont le beffroi est gothique, quoique gâté à son sommet par une balustrade à mollets ; à gauche plusieurs logis de divers styles fort bien contrastés ; en face, à côté de l'hôtel de ville, quatre ou cinq gracieux pignons du seizième siècle au-dessus desquels se découpe dans le crépuscule le profil d'une nef gothique ; enfin, à droite, une belle embouchure de rue ourlée d'un côté d'un petit châtelet fort sévère et fort curieux, de l'autre d'un élégant fronton espagnol à rocailles accouplé à plusieurs autres ; le tout dominé par une superbe flèche toute en briques qui est d'une ligne magnifique. Ajoute à ces trois façades mon côté que je ne vois pas et qui les complète, mets au milieu un fort beau pavé à compartiments de couleur, immense mosaïque qui tient toute la place, et tu comprendras, mon Adèle, que si tu y étais, et les enfants avec toi, la place de Furnes n'aurait rien à envier à la place Royale.]{.calibre4}
+
+[J'arrive d'Ostende. Il n'y a rien à Ostende, pas même des huîtres. C'est-à-dire, il y a la mer, et je suis un ingrat de parler d'Ostende comme je fais. Je suis d'autant plus ingrat que j'ai été à Ostende l'objet de toutes sortes de faveurs spéciales de la part de la mer et de la part du ciel. D'abord, comme j'entrais à Ostende, il avait plu toute la matinée ; la pluie a brusquement cessé, les nuages se sont envolés, le soleil s'est mis à sécher la grève en diligence, et j'ai pu me promener deux bonnes heures au bord de la mer à la marée descendante. --- Hélas ! pas un pauvre coquillage, mon Toto ! Rien que le sable le plus doux et le plus fin du monde.]{.calibre4}
+
+[Je suis charmé d'avoir vu les dunes. C'est moins beau que les granits de Bretagne et que les falaises de Normandie, mais c'est fort beau encore. La mer ici n'est plus furieuse, elle est triste. C'est une autre espèce de grandeur. Le soir, les dunes font à l'horizon une silhouette tourmentée et pourtant sévère. C'est, à côté des vagues éternellement remuées, une barrière éternelle de vagues immobiles. C'est en se promenant sur les dunes qu'on sent bien l'harmonie profonde qui lie jusque dans la forme la terre à l'océan ; l'océan est une plaine, en effet, et la terre est une mer. Les collines et les vallons ondulent comme des vagues, et les chaînes, de montagnes sont des tempêtes pétrifiées.]{.calibre4}
+
+[Je ne cherchais pas de transition, mais puisqu'en voici une, je la prends. Hier au soir, chère amie, j'ai vu une tempête, ou, pour mieux dire, un gros orage, car, nous autres gens de la terre ferme, nous ne nous figurons pas une tempête sans navire en détresse et sans naufrage. Quoi qu'il en soit, tempête ou orage, c'était admirable. J'étais rentré pour dîner à l'hôtel du [Lion d'Or]{.italic}, où l'on dîne mal par parenthèse, quand j'ai entendu un bruit de tonnerre éloigné. Alors j'ai jeté là ma serviette, et j'ai couru à la mer.]{.calibre4}
+
+[Au moment où j'arrivais sur la levée, quoiqu'il ne fût pas sept heures du soir, il y faisait nuit. En quelques instants une nuée énorme, que de temps en temps un coup de tonnerre faisait voir comme doublée de cuivre rouge, avait rempli le ciel. Je m'avançai fort loin sur la levée. J'étais seul, le phare s'allumait silencieusement derrière moi, quelques gouttes de pluie commençaient à tomber, le vent soufflait si furieusement que parfois j'avais peine à marcher. Je songeais à deux voiles que j'avais longtemps suivies des yeux deux heures auparavant. Ces deux voiles m'avaient paru alors une chose charmante, elles me paraissaient maintenant une chose terrible.]{.calibre4}
+
+[Au bout de quelques moments, je m'arrêtai, je ne sais pourquoi, car il n'y avait aucun danger, mais je n'étais pas sans une secrète épouvante. La pluie tombait alors par tourbillons, le vent soufflait comme par sanglots, tantôt baissant, tantôt redoublant. Je ne voyais plus rien devant moi, sous mes pieds et sur ma tête, qu'un gouffre d'un noir d'encre d'où sortait un bruit effrayant. Dans ce gouffre resplendissait par moments, tout à coup, une mer de feu qui dessinait vivement de son écume de braise toutes les échancrures d'une côte sombre et déchirée. Cette vision apparaissait et disparaissait comme un éclair c'était un éclair en effet.]{.calibre4}
+
+[En ces instants-là, j'entendais au-dessus de moi le tonnerre crouler de nuée en nuée comme une poutre qui tomberait du toit du ciel à travers les mille étages d'une charpente gigantesque.]{.calibre4}
+
+[Comme mes yeux sont malades, je tournais le dos aux éclairs. Une fois pourtant, je me suis retourné, et j'ai vu distinctement la flèche livide de la foudre.]{.calibre4}
+
+[Il n'y avait plus rien pour moi dans cet immense tumulte qui rappelât le souvenir du ciel et de la terre que nous voyons et de la vie réelle, si ce n'est la ligne froide et géométrique de la jetée vaguement éclairée par ce reflet blafard et sinistre propre aux grandes pluies, et tout à côté de moi un grand poteau indicateur sur lequel chaque éclair me faisait lire cette inscription : [Bain des dames.]{.italic}]{.calibre4}
+
+[J'ai cherché mes deux voiles dans ce chaos, mais heureusement je ne les ai revues dans aucun éclair.]{.calibre4}
+
+[La nuée a passé sur la ville pendant une heure, puis elle s'est enfoncée à l'horizon et le ciel blanc du crépuscule a reparu. J'ai regardé quelque temps encore courir rapidement sur ce fond livide de grands nuages noirs, mais déchargés, qui allaient échouer sur la grosse nuée comme sur un écueil.]{.calibre4}
+
+[Ce matin, le ciel, qui me fait fête comme tu vois, m'a redonné le soleil et je me suis promené sur les dunes, que l'on croirait au premier coup d'oeil couvertes de blé ; on regarde, ce n'est que de l'ivraie en pleine prospérité imitant le blé comme le singe imite l'homme, comme le frelon imite l'abeille, comme la parodie imite l'oeuvre, comme le critique imite le poète, comme l'hypocrite imite le juste. C'est une loi éternelle : ce qui cherche à vous nuire cherche aussi à vous ressembler.]{.calibre4}
+
+[Je t'ai dit qu'on dînait mal au [Lion d'Or]{.italic}. Si vous voulez manger du veau, allez dans les ports de mer. Pas de poisson à Ostende, pas de crevettes, surtout pas d'huîtres, bien entendu. Au demeurant les huîtres d'Ostende ne sont que des huîtres anglaises qu'on apporte à Ostende pour les y engraisser, comme on porte à Marennes les huîtres de Cancale. A Ostende il n'y a pas de bancs d'huîtres, il n'y a que des parcs.]{.calibre4}
+
+[Vers midi, comme il faisait beau, on se baignait quand j'étais sur la levée. Les hommes et les femmes se baignaient pêle-mêle, les hommes en caleçon, les femmes en peignoir. Ce peignoir est une simple chemise d'étoffe de laine fort légère qui descend jusqu'à la cheville, mais qui, mouillée, est fort collante, et que la vague relève souvent, Il y avait une jeune femme qui était fort belle ainsi, trop belle peut-être. Par moments c'était comme une de ces statues antiques de bronze avec une tunique à petits plis. Ainsi entourée d'écume, cette belle créature était tout à fait mythologique.]{.calibre4}
+
+[Bruges, où j'ai passé un jour avant d'arriver à Ostende, est une superbe ville, moitié allemande, moitié espagnole. On l'appelle [Bruges]{.italic} à cause de ses ponts ([Brug]{.italic}, en flamand) comme on appelle la ville de ton père [Nantes]{.italic} à cause de ses cours d'eau (les cent bras de la Loire), [nant]{.italic} en celte. T'en souviens-tu, chère amie ? nous avons retrouvé ce mot bas-breton en Suisse. On ne dit pas un [torrent]{.italic}, on dit un [nant]{.italic}.]{.calibre4}
+
+[Les gens de Bruges sont en train de fort malmener leur clocher, qui est un obélisque de brique du quatorzième siècle, du plus grand style par conséquent. Ils ont déjà coupé la pointe qu'ils ont remplacée par un hideux petit toit, rond, plat et bête. Suppose un pape à qui l'on a ôté sa tiare pour lui mettre une casquette. Voilà le clocher de Bruges maintenant.]{.calibre4}
+
+[En revanche, la tour du beffroi est complète. Elle est du même temps, et admirable, mi-partie en brique et en pierre. La brique a parfois des tons rouilles qui sont magnifiques. Ils en tirent grand parti en Flandre. Ils font en brique jusqu'à des coquilles, jusqu'à, des meneaux, d'une délicatesse parfaite. Il faut convenir que les flamands tripotent mieux la brique que les bretons ne tripotent le granit. Je veux toujours parler des vieux architectes, car à présent on ne tire parti de rien en brique comme en granit, on ne fait que des sottises.]{.calibre4}
+
+[Il y a aussi à Bruges force belles maisons à pignons mais toujours hideusement badigeonnées. Il en est de même de l'intérieur des églises ; tout y est blanc dur et noir cru, le tout pour la jubilation des curés, sacristains et vicaires, Il y a longtemps que je l'ai dit, le premier ennemi des églises, c'est le prêtre.]{.calibre4}
+
+[Par exemple, ils ont une sublime statue de Michel-Ange, un des prodiges de l'art, ils la cachent derrière un énorme crucifix. Pour trente sous j'ai fait ôter le crucifix, car pour trente sous on fait bien des choses chez ces braves bedeaux belges, et le crucifix n'a peut-être pas d'autre but.]{.calibre4}
+
+[C'est un chef-d'oeuvre miraculeux que cette statue. La tête de la Vierge est ineffable. Elle regarde son enfant avec une douleur fière que je n'ai vue qu'à cette tête et à ce regard. Quant à l'enfant, avec son grand front, ses yeux profonds et la puissante moue que font ses petites lèvres, c'est bien le plus divin enfant qui soit. Napoléon, qui avait dû ressembler à cet enfant-là, l'avait fait transporter à Paris. On l\'a repris en 1815, et dans le trajet on a cassé, je devrais dire déchiré, un coin du voile de la Vierge.]{.calibre4}
+
+[Michel-Ange est dans cette église. Rubens, Van Dyck et Porbus y sont aussi. Ils ont laissé là, l'un une [Adoration des Mages]{.italic}, l'autre un [Mariage mystique de Sainte-Rosalie]{.italic}, le troisième une [Sainte-Cène]{.italic}., Je suis resté longtemps comme agenouillé devant ces chefs-d'oeuvre. Je crois que c'est là ce que les protestants appellent de l'idolâtrie. Idolâtrie, soit. ]{.calibre4}
+
+[Ce n'est pas tout, car cette église est riche, et je n'ai pas gardé le moindre pour la fin. Le tombeau de Charles le Téméraire et celui de sa fille Marie de Bourgogne sont là, dans une chapelle. Figure-toi deux monuments en airain doré et en pierre de touche. La pierre de touche ressemble au plus beau marbre noir, avec quelque chose de plus souple à l'oeil et de plus harmonieux. Chaque tombeau a sa statue couchée qui paraît toute d'or, et sur les quatre faces des blasons, des figures et des arabesques sans nombre. La tombe de la duchesse Marie est du quinzième siècle, celle de Charles est du seizième. Le corps du duc fut transporté de Nancy à Bruges par Charles-Quint, cet empereur prudent, fils de Jeanne la Folle et petit-neveu de Charles le Téméraire.]{.calibre4}
+
+[Rien de plus magnifique que ces deux tombes, celle de Marie surtout. Ce sont d'énormes bijoux. Les blasons, sont en émail. Aux pieds du duc il y a un lion, aux pieds de Marie, deux chiens dont l'un semble gronder de ce qu'on approche sa maîtresse. C'est une chose surprenante, aux quatre faces du monument, que cette forêt d'arabesques d'or sur fond noir avec des anges, pour oiseaux et des blasons pour fruits et pour fleurs.]{.calibre4}
+
+[Napoléon a visité ces tombes. Il a donné dix mille francs pour les restaurer et mille francs à l'honnête bourgeois qui les avait enterrées et sauvées pendant la Révolution. Il paraît qu'il est resté longtemps, [pensif,]{.italic} m'a dit le vieux sacristain, dans cette chapelle. C'était en 1811. Il a pu lire sur le devant du tombeau de Charles de Bourgogne sa devise : [Je l'ai empris, bien en avienne]{.italic} ; et au revers, dans l'épitaphe, il a pu lire aussi cette phrase « [Lequel prospera longtems en haultes entreprises, batailles et victoires\...jusqu'à ce que fortune lui tournant le doz l'oppressa la nuist des Roys 1476, devant Nancy. ]{.italic}[»]{.italic} Lempereur rêvait alors Moscou.]{.calibre4}
+
+[Il n'a pas fait porter ces tombes à Paris.]{.calibre4}
+
+[Ces tombeaux sont traités comme Michel-Ange. La fabrique les a fait couvrir d'une ignoble boiserie qui imite le catafalque du Père-Lachaise et dont M. Godde le parisien serait jaloux. Vous voulez voir les tombes, payez. C'est pour l'entretien, c'est-à-dire le badigeonnage de l'église. Pauvre église ! ainsi, ces tombes, son joyau, ces tombes qui devraient la parer magnifiquement, servent à l'enlaidir. --- O marguilliers !]{.calibre4}
+
+[C'est dans cette église que Philippe le Bon institua la Toison d'or. Ils montrent une ravissante tribune du quinzième siècle, affreusement engluée comme le reste, d'où furent déclarés, disent-ils, les premiers chevaliers. J'en doute, car le style fleuri de cette tribune la fait contemporaine de notre Charles VIII. Et en Flandre ils ont toujours été plutôt en retard qu'en avant. Ils faisaient encore des ogives au temps de Henri IV.]{.calibre4}
+
+[Maintenant, chère amie, quand je t'aurai dit que la dorure de chacune des deux tombes a coûté vingt-quatre mille ducats d'or, somme énorme pour le temps, et que le carillon du beffroi passe pour le plus beau carillon de la Belgique, j'aurai épuisé tout ce que j'ai à te dire de Bruges. Il y a encore une vieille abbaye en ruines, mais je n'ai pas eu le temps de la visiter. Ce sera pour le jour où nous verrons tout cela ensemble, mon Adèle, Du reste, à partir du dix-septième siècle, l'architecture et la sculpture prennent en Flandre quelque chose de plus massif que partout ailleurs. Les volutes sont lourdes, les statues ont du ventre, les anges ne sont pas joufflus, ils sont bouffis. Tout cela a bu de la bière.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[1er septembre, 9 heures du matin.]{.calibre2}]{.bold1}]{.calibre_39} {#er-septembre-9-heures-du-matin. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je me dépêche d'achever ma lettre. C'est aujourd'hui que je rentre en France, je serai à Dunkerque, j'aurai tes lettres. Ce sera une vive joie, car j'espère que vous êtes tous bien portants et heureux.]{.calibre4}
+
+[C'est aussi aujourd'hui que je verrai ce qui adviendra du petit volume contrefait que j'emporte traîtreusement dans mon portefeuille. Je t'informerai de l'aventure.]{.calibre4}
+
+[Je t'ai peu parlé de la contrefaçon, parce que c'est ennuyeux, mais ce n'en est pas moins déplorable. Seulement en regardant aux vitres des boutiques, j'ai compté cinq contrefaçons différentes des [Voix intérieures ]{.italic}--- un en grand in-8°, sur deux colonnes, deux in-18, l'une publiée par Méline, l'autre par la société dite [pour la propagation des bons livres]{.italic}, deux in-32, dont l'édition de Laurent que j'emporte. Au demeurant, Bruxelles est bien la ville ! de la contrefaçon. Il y a des [gamins]{.italic} comme à Paris ; le fronton grec de sa chambre des états ressemble au fronton grec de notre chambre des députés ; le ruban amarante de Léopold est une contrefaçon de la légion d'honneur ; les deux tours carrées de Sainte-Gudule, belles d'ailleurs, ont un faux air de Notre-Dame. Enfin, par un malencontreux, hasard, la petite rivière qui passe à Bruxelles s'appelle, pas tout à fait la Seine, mais la Senne.]{.calibre4}
+
+[Voilà encore cette fois un volume, chère amie ! Pardonne-le-moi et aime-moi. Dis à ma Didine que je compte lui écrire la prochaine fois. Serre la main de ma part à notre père et embrasse nos chers petits qui doivent s'amuser maintenant, j'espère. Fais aussi toutes mes amitiés à notre bon Châtillon que je crois avoir oublié dans ma dernière lettre.]{.calibre4}
+
+[Je t'embrasse mille fois.]{.calibre4}
+
+[A propos, je n'ai pas vu à Bruges une seule circassienne.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Les dunes.]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6496 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Les dunes aux abords de Dunkerque]{.calibre_10}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Cinq heures du soir, 1er septembre, Dunkerque.]{.calibre2}]{.bold1}]{.calibre_39} {#cinq-heures-du-soir-1er-septembre-dunkerque. .calibre_38}
+
+[ ]{.calibre4}
+
+[Chère amie, je suis à Dunkerque et je n'ai pas encore tes lettres. Je suis arrivé, le bureau des lettres restantes était fermé, il ne s'ouvrira que dans deux heures. Juge de mon impatience. Pour tromper cet ennui dont je suis plein, je t'écris. Ce sera une autre manière, de m'occuper de toi, moins charmante pour moi, mais aussi douce.]{.calibre4}
+
+[Mes aventures ont commencé ce matin. Depuis Gand (ma dernière apparition à Gand, cela va sans dire) je faisais route dans une manière de cabriolet-coucou dont le cocher, pauvre diable de picard laissé à Gand par des anglais, était charmé de s'en revenir en France avec un voyageur. Moi, la chose m'accommodait au mieux. Les diligences et la poste vont trop vite ; les petites journées, les lents voyages, les chemins de traverse, les itinéraires improvisés par la fantaisie, selon l'église ou la tour qu'on aperçoit à l'horizon, voilà ce qu'il me faut. Je fais, aussi moi, ma course au clocher, mais à ma façon.]{.calibre4}
+
+[Je cheminais donc paisiblement avec mon cocher picard, espèce de personnage grotesque assez amusant, dont je te parlerai peut-être plus au long si le papier ne me manque pas un beau jour comme la terre à Regnard dans son voyage de Laponie. Je comptais bien rentrer, en France [en cet équipage]{.italic}, mais à Furnes, je ne sais quel accident est arrivé au coucou qui exigeait un grand jour de réparation. J'avais trop hâte d'être à Dunkerque pour attendre. Je me suis décidé à quitter mon picard et à chercher place dans la redoutable patache que les naturels du pays appellent [diligence]{.italic}, car il n'y a pas encore de grande route entre Furnes et Dunkerque ; on la fait en ce moment. --- Autre événement. « La diligence » était pleine. Aucun moyen d'y pénétrer. Le cabriolet était envahi, et les six places de l'intérieur occupées par six derrières flamands des mieux conditionnés. Comment faire ? On m'offrait bien une vieille chaise pour courir la poste mais, pour [courir la poste]{.italic}, il faut deux choses, une chaise d'abord, un chemin ensuite ; la chaise était bien là, mais on ne pouvait m'achever le chemin que dans deux mois. Or, en regardant l'horrible enchevêtrement de fondrières, de ravins, de mares, de puits et de pièges à loup qu'ils appellent en ce moment la route, on ne peut comprendre comment cette phrase magnifique [courir la poste]{.italic}, a pu germer dans un pareil sillon.]{.calibre4}
+
+[Mon parti a été bientôt pris. Je ne demandais pas mieux que de marcher, il n'y a que sept lieues de Furnes à Dunkerque par les dunes. Je me suis résolu à les faire à pied. Il le fallait d'abord, et puis je devais avoir constamment la mer sous les yeux, et puis mon harnais de coutil, trempé par l'orage d'Ostende, avait grand besoin pour se sécher complètement d'un souffle de vent et d'un rayon de soleil. Enfin ce n'est rien que sept lieues. --- J'ai donc confié mon petit bagage au conducteur afin de m'alléger d'autant. Ici, autre incident.]{.calibre4}
+
+[La diligence pleine de voyageurs était en même temps gonflée de paquets. La bâche de cuir, bouclée sur l'impériale, contenait à grand peine un énorme ventre d'effets et faisait effort comme le gilet d'un bourgmestre. C'est donc [dans]{.italic} la diligence qu'il fallait insérer mon paquet. Le conducteur se risque à le glisser timidement dans le cabriolet. Sur ce, une grande dame réclame, une grande dame sèche, maigre, laide, coquette, vêtue de puce en marveillante, laquelle avait quelque chose d'indéfinissable dans le regard et d'indéfrisable dans le tour. Cette respectable voyageuse soutenait qu\'elle avait des jambes que ce paquet gênait et molestait. Cris dans la diligence. Un monsieur soutient la dame. Un monsieur rouge et galant, en pantalon couleur amadou, boutonné et décolleté, en redingote d'hiver et en cravate d'été, ayant quelque chose de Colin et je ne sais quoi de Pierre le Grand. Ce mélange de tartane et de bergerie lui donnait des droits sur le coeur de la dame et n'était pas sans grâce dans le cabriolet de la patache. Et puis il y avait une secrète affinité entre ce pantalon amadou et les jambes de la voyageuse. Il ne manquait qu'un briquet. Qui sait ? c'est peut-être mon paquet qui en a fait l'office. Ce qui est certain, c'est que l'étincelle a jailli.]{.calibre4}
+
+[Ils ont fait rage, les braves gens. Mais le conducteur a tenu bon. La pièce de trente sous, qui amollit les bedeaux, endurcit les conducteurs. Mon paquet s'est maintenu triomphalement sous les pieds de tout le monde, et la grande dame indéfrisable a dû se résigner, avec une rougeur pudique, à avoir des chemises d'homme entre les jambes.]{.calibre4}
+
+[J'ai assisté à cette scène orageuse avec impassibilité. J'étais sûr des vertus de ma pièce de trente sous et la bonne dame ne se doutait pas que j'avais employé ce moyen machiavélique pour mener à bien mon intrigue. Enfin ils se sont mis en route de leur côté, et moi du mien. J'ai été cinq heures à faire les sept lieues. Parti de Furnes à dix heures et demie du matin, je suis arrivé à Dunkerque à quatre heures et demie, et je me suis arrêté une heure en route. J'ai fait là, vraiment, une admirable promenade, sur le sable, entre deux marées, par un beau temps de nuée et de soleil.]{.calibre4}
+
+[Devant moi et derrière moi les dunes se fondaient dans les brumes de l'horizon avec les nuages dont elles ont la forme. La mer était parfaitement gaie et calme, et l'écume des vagues, blanche et pailletée au soleil, faisait tout le long du rivage comme une frange de vermicelles et de chicorées cent fois plus délicatement sculptées que tous les plafonds maniérés du dix-huitième siècle. Quand la mer veut faire du rococo elle y excelle. Les architectes Pompadour lui ont pillé ses coquillages.]{.calibre4}
+
+[De temps en temps une mouette blanche passait, ou bien un grand cormoran qui nageait puissamment dans l'air avec ses ailes grises à pointes noires. Et puis au loin il y avait des voiles, de toute forme, de toute grandeur, de toute complication, les unes éclatantes de blancheur sur les obscurs bancs de nuées de l'horizon, les autres sombres sur les clairs du ciel. Quelques-unes sont venues complaisamment passer tout près de moi, côtoyant la dune avec une douce brise qui les enflait mollement et m'apportait les voix des matelots. C'était, dans la solitude où j'étais, de ravissantes apparitions que ces belles voiles si bien coupées, si bien étagées, si bien modelées par le vent, si bien peintes par le soleil, et j'admirais qu'on pût faire quelque chose d'aussi charmant, d'aussi fin, d\'aussi gracieux, d'aussi délicat, avec de la toile à torchon.]{.calibre4}
+
+[Quelquefois je me tournais vers la terre, qui était belle aussi. Les grandes prairies, les clochers, les arbres, la mosaïque des champs labourés, la coupure droite, et argentée d'un canal où glissaient lentement d'autres voiles, le bêlement des vaches qu'on voyait au loin, sur le pré, comme des pucerons sur une feuille, le bruit des charrettes sur la route qu'on ne voyait pas, tout m'arrivait, à la fois, aux yeux, aux oreilles et à l'esprit. Et puis, je me retournais, et j'avais l'océan. C'est une belle chose qu'un pareil paysage doublé par la mer.]{.calibre4}
+
+[Par moments je rencontrais un pauvre toit de chaume dont la cheminée, ébréchée par les grands vents, fumait entre les dunes, et puis un groupe d'enfants qui jouaient. Car c'est un des côtés charmants du voyage dans cette saison. A la porte de chaque chaumière il y a un enfant. Un enfant debout, couché, accroupi, endimanché, tout nu, lavé ou barbouillé, pétrissant la terre, pataugeant dans la mare, quelquefois riant, quelquefois pleurant, toujours exquis. Je songe parfois avec tristesse que toutes ces délicieuses petites créatures feront un jour d'assez laids paysans. Cela tient à ce que c'est Dieu qui les commence et l'homme qui les achève.]{.calibre4}
+
+[L'autre jour, c'était charmant. Figure-toi cela, chère amie. Il y avait sur le seuil d'une masure, un petit qui tenait ses deux sabots, dans ses deux mains et me regardait passer avec de beaux grands yeux étonnés.]{.calibre4}
+
+[Tout à côté il y en avait un autre, une petite fille grande comme Dédé, qui portait dans ses bras un gros garçon de dix-huit mois, lequel serrait dans les siens une poupée. Trois étages. En tout, trente-deux pouces de haut.]{.calibre4}
+
+[Tout cela rit et joue au soleil, et réjouit l'âme du voyageur. Tu comprends, mon Adèle, que mon voyage sur les dunes ne m'a pas ennuyé. J'allais ainsi, regardant et songeant, montant et descendant sans-cesse, les talons enfouis dans le sable, arrachant de temps en temps un épi d\'ivraie quand il n'y avait ni maison dans la dune ni voile en mer. Tout en rêvant ainsi, à tout et à rien, je me suis figuré que la grande dame qui ne voulait pas de mon paquet était madame Trollope faisant son voyage de Belgique.]{.calibre4}
+
+[Deux navires ont passé assez près de moi pour que j'aie pu lire leur estampille.  C'est [la Persévérance]{.italic} de Dunkerque et le chasse-marée C.[76]{.italic}.]{.calibre4}
+
+[Je marchais depuis deux heures environ, lorsque tout à coup j'ai vu à ma gauche un pauvre amas de chaumières, et dans la dune même une sorte de masure ouverte dont la façade portait cette inscription « EPISSERIE ET LÉQUIDES  ».J'ai reconnu la France.]{.calibre4}
+
+[J'étais en France, j'étais en présence d'un [épissier]{.italic} français. [Di tanti pa-alpiti !]{.italic} En ce moment, d'émotion, un douanier m'a accosté en me priant poliment de passer au bureau. La visite a été bientôt faite. Je n'avais aucun bagage J'ai exhibé mon passeport et l'on m'a laissé passer. Or, j'avais ma contrefaçon dans mon portefeuille.]{.calibre4}
+
+[Je me suis arrêté dans le cabaret du hameau. J'avais soif, j'ai bu là quelques verres de bière. Comme c'est une espèce de petit port d'échouage, j'espérais aussi trouver là l'occasion que je cherche depuis Anvers de m'embarquer un peu, car il me faut une petite excursion en mer pour compléter mon voyage. J'ai échoué. Pas un pêcheur dans ce port de mer, des rouliers. Voici une conversation de rouliers que j'ai recueillie tout en buvant mon pot de bière. Je te l'envoie pour servir de pendant au dialogue de commis-voyageurs que je t'ai déjà sténographié. Figure-toi quatre sarraux bleus qui boivent. --- Chien de temps ! pouvoir pas charger ! C'est que je mange ici, mes chevaux mangent, je mange ! --- Qu'est-ce que tu veux ? il n'y a pas de vent ! Il y a là des navires en vue depuis six semaines. Pas de vent. Ils sont encloués. Comment faire pour charger ? Il faut que le vent change. --- Je donnerais six écus pour que le vent change. Je crois bien. Les navires ne peuvent pas entrer. --- J'ai envie d'aller à Saint-Quentin. --- Saint-Quentin ! tu mangeras plus de soixante-dix francs sur cette route-là, c'est moi qui te le dis. --- C'est chiennant, vraiment chiennant là, quoi !]{.calibre4}
+
+[Lis ceci, bien entendu, avec les [c'te]{.italic}, les [gnia]{.italic}, les [quoué]{.italic}, qui donnent la couleur. Moi, je faisais une réflexion. Ainsi voilà des auberges qui s'emplissent, des bourses qui se vident, des rouliers arrêtés, des affaires engorgées, des commerces obstrués, des marchands inquiets de la gêne, des faillites peut-être. A cause de quoi ? À cause de ce navire qui est là-bas, stagnant à l'horizon. Et de quoi dépend ce navire ? d'un souffle de vent, d'un nuage.]{.calibre4}
+
+[Qu'on rie maintenant des poètes qui ont l'esprit dans les nuages ; il me semble que les gens d'affaires feraient bien de l'y avoir quelquefois.]{.calibre4}
+
+[Nos pauvres gâcheurs de sociétés qui ne rêvent que l'utile et qui raillent comme poésie et comme [inutilités]{.italic} la lune, les nuages et Dieu, ne songent pas que la lune règle les marées, que les nuages gouvernent le commerce, et que Dieu suspend de toutes parts leurs spéculations aux fantaisies de l'eau et du vent.]{.calibre4}
+
+[A quatre heures et demie j'étais à Dunkerque. Je t'ai dit ma déconvenue. J'attends encore. J'ai visité la ville qui est insignifiante. Il y a une assez belle tour du quatorzième siècle dont on gâte le sommet en ce moment avec une stupide balustrade d'X. à jour pris dans la, maçonnerie pleine. Rien de plus laid.]{.calibre4}
+
+[Du reste, j'ai retrouvé mon bagage en bon état, nonobstant le piétinement furieux de madame Trollope.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Me voici donc de retour en France. Du 10 au 15 je serai à Paris. Je cherche une occasion d'embarquement ; après quoi je tournerai bride. Ce sera une grande joie de vous revoir tous, mon Adèle, et toi avant tout. J'ai passé dix-sept jours en Belgique. En dix-sept jours j'ai vu, et fouillé, je crois, assez profondément, le Hainaut, le Brabant, les deux Flandres. J'ai fait une petite excursion dans la Campine. A classer les villes selon l'art, j'en ai vu cinq du second ordre, Mons, Lier, Audenarde, Courtrai, Furnes ; huit du premier, Bruxelles, Malines, Gand, Bruges, Louvain, Ypres, Tournai, et par-dessus toutes Anvers, ce magnifique groupe d'édifices, qui vu géométralement, a la forme d'un arc tendu dont l'Escaut serait la corde, Anvers, ce pistolet que Napoléon voulait tenir toujours chargé sur le coeur, de l'Angleterre ; Anvers, cette noble capitale de l'art flamand qui peut dire : --- Ici sont les os de Pierre-Paul Rubens, sénateur de cette ville.]{.calibre4}
+
+[Je suis sorti de France, par le champ de bataille de Denain, j'y suis rentré par le champ de bataille des Dunes. Tout le règne de Louis XIV tient entre ces deux parenthèses.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Sept heures sonnent, je cours chercher tes lettres.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[8 heures du soir]{.calibre2}[[.]{.calibre34}]{.calibre2}]{.bold1}]{.calibre_39} {#heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Merci, mon Adèle bien-aimée, merci surtout de tout ce qu'il y a de bon et de charmant dans la manière dont tu effaces ce que tu appelles [tes petits reproches]{.italic}. Encore deux semaines au plus, pas même deux semaines, et nous nous reverrons.]{.calibre4}
+
+[Remercie bien ton bon père pour moi. Il sait, je pense, combien je l'aime. Il ne pouvait me faire plus de plaisir que de m'écrire ces quelques lignes si gracieuses et si bien venues du coeur. Dis-lui, puisqu'il veut bien s'y intéresser, que le voyage m'a fait du bien. Mes yeux vont mieux. Je deviens un homme. Je lis sans lunettes !]{.calibre4}
+
+[Je vais écrire à ma Didine qui recevra sa lettre séparément et dont les deux gentilles petites lettres m\'ont rendu heureux. Charge-toi de dire à mes deux petits lauréats bien-aimés, Charles et Toto, combien j'ai été heureux de leurs prix. Je leur écrirai aussi très prochainement. --- Je suis ravi de tous les détails que me donne Charlot, ravi que Toto [n\'ait plus mal a la tête]{.italic} et que les écoliers aient caché, pas avec leurs visages, je pense, ce qu'il y avait d'incomplet dans la magnifique décoration de M. Morin. Dis ceci à Charlot, et embrasse-les bien tous les deux, ainsi que ma pauvre Juju. Baise aussi mam'selle Dédé qui est bien aimable d'avoir écrit à son petit papa.]{.calibre4}
+
+[La lettre pour Didine suivra de près celle-ci. A bientôt, mon Adèle bien-aimée. Du 10 au 15 je serai à Paris. Je vous embrasse tous. J'ai lu d'abord mon petit paquet à la poste même, avidement, en demandant au commis si c'était là tout et puis je suis allé tout relire sur la mer même, au bout de l'estacade, avec un charmant petit vent du soir qui me tournait doucement les feuillets entre les mains. Quand la lanterne s'est allumée à côté de moi, je cherchais encore à lire.]{.calibre4}
+
+[Je t'embrasse, mon Adèle. C'est maintenant à Gisors qu'il faut m'écrire.]{.calibre4}
+
+[Je pars, je ne pense pas pouvoir mettre cette lettre à la poste avant Calais ou Boulogne.]{.calibre4}
+
+[Et ce pauvre Fossombroni ! Quel malheur !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Calais -- Boulogne.]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6500 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Calais. La place d'armes.]{.calibre_3}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Bernay, 4 septembre, 5 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#bernay-4-septembre-5-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je commence, chère amie, par te remercier encore, car tes lettres et tout le bon petit entourage qui les accompagnait me font société depuis trois jours. Je les ai relues toutes bien des fois, et il me semblait que je revoyais tous vos bons et gracieux visages. C'était comme une charmante apparition de la maison qui galopait avec moi sur la grande route. Je te remercie, mon Adèle. J'ai écrit hier à ma Didi, elle aura ma lettre demain, à peu près vers cette heure-ci.]{.calibre4}
+
+[Puisque mon itinéraire vous amuse, je continuerai de t'envoyer cette odyssée chant par chant. Elle touche à sa fin et je t'assure que j'en suis charmé. Mon Ithaque est au bout.]{.calibre4}
+
+[Ma dernière lettre fermée, j'ai quitté rapidement Dunkerque. Je n'ai vu Gravelines que la nuit, mais la ville m'a paru de médiocre intérêt. Adieu les belles vieilles rues flamandes. Plus de pignons, plus de tourelles, plus de clochers. Le toit des maisons de Gravelines et la tour de l'église faisaient une silhouette misérable sur le ciel. C'est un relais pour les messageries. Je m'étais endormi sur l'impériale de la diligence la secousse de la voiture qui s'arrêtait m'a réveillé. Il pleuvait. Les lanternes des postillons jetaient de belles lueurs sous les pieds des chevaux.]{.calibre4}
+
+[Au petit jour, j'étais à Calais. Je m'y suis arrêté pour déjeuner, et j'ai repris là ma vie de petites journées et de petites voitures.]{.calibre4}
+
+[Calais est une de ces villes qui s'usent vite ; aussi lui met-on tous les jours des pièces de maisons neuves et de façades blanches. En somme, la ville n'a plus rien de sa vieille physionomie. Le beffroi est pourtant un assez amusant galimatias de petits clochetons, de petits pilastres et de petits arcs-boutants. Il en sort un petit carillon nain qui fait son duo comme il peut avec la grande voix de l'océan. L'église, qui est gothique et d'une assez belle époque, aurait du caractère si le clocher ne faisait l'effet d'une lorgnette à moitié rentrée en elle-même. Elle ne contient rien, hors un tableau remarquable de la Flagellation et un maître-autel en marbre qui est du dix-septième siècle par la date et du seizième par le style.]{.calibre4}
+
+[Je n'ai pas visité la citadelle de Calais, ni celle de Dunkerque. Dans mon voyage, je n'ai visité aucune citadelle, quoique la route en fût infestée. Jusqu'au jour où je ferai la guerre, une citadelle ne sera pour moi qu'une colline déformée, coupée au cordeau, taillée à pans droits, murée et gazonnée géométriquement et passée à l'état classique. Or, j\'aime la courbe comme Dieu la fait, l'herbe où elle pousse, le buisson où le vent le sème, la pente capricieuse, la verdure libre, et Shakespeare. J\'aime le roc, je hais le mur ; j\'aime le ravin, je hais le fossé ; j\'aime l'escarpement, je hais le talus.]{.calibre4}
+
+[A Anvers tout le monde vous demande : Avez-vous visité la citadelle ? je répondais : Oui, la cathédrale.]{.calibre4}
+
+[Si l'on me demande : Avez-vous bu de bonne bière dans votre voyage de Belgique ? je répondrai : Oui, en France. J'ai bu d'excellente bière en effet à l'hôtel Dessin, à Calais. En Belgique, toute leur bière, bière blanche de Louvain, bière brune de Bruxelles, a un arrière-goût odieux. Les anglais la trouvent trop houblonnée. Va pour [houblonnée]{.italic}, mais c'est mauvais. Quant à leur vin (aux belges), il sent la violette. Il y entre plus d'iris que de raisin. C'étaient, en vérité, de détestables boissons. Je me réfugiais de lune dans l'autre, mais, à tout prendre, j'aimais encore mieux de la bière blanche que du vin bleu.]{.calibre4}
+
+[De Calais à Boulogne, on ne rencontre que diligences anglaises avec leurs quatre chevaux menés à grandes guides au galop et leur cocher juché obliquement sur la voiture comme une plume sur l'oreille d'un procureur. La première que j'ai vue s'intitulait [l'opposition]{.italic}. Un instant après, il en a passé une autre qui s'appelait [the Telegraph]{.italic}, et qui avait à son sommet un grand voyageur maigre, lequel gesticulait beaucoup. Je présume que ce monsieur portait à Londres quelque nouvelle importante.]{.calibre4}
+
+[Le trajet de Calais à Boulogne est une ravissante promenade. La route court à travers les plus beaux paysages du monde. Les collines et les vallées s'enflent et s'abaissent en ondulations magnifiques.]{.calibre4}
+
+[Sur les hauteurs on a des spectacles immenses. A perte de vue des étages de champs et de prés cousus les uns aux autres de grandes plaines rousses, de grandes plaines vertes, des clochers, des villages, des bois qui présentent de cent façons leurs grands trapèzes sombres, et toujours, tout au fond, à l'occident, un bel écartement de collines que la mer emplit comme un vase.]{.calibre4}
+
+[La route descend, tout change, on est dans le petit, dans le limité, dans le charmant ; trois arbres vous bornent l'horizon. Ou bien c'est une ferme avec son tas de fumier et sa charrette aux quatre roues boueuses et rouillées ; ou bien un cimetière plein de ciguë en fleur, dont le vieux mur fait ventre sur la route. On est sous une allée basse de gros pommiers dont les branches égratignent joyeusement la voiture ; on passe près d'une haie d'où sortent comme des doigts crochus ces racines qui empoignent si bien la terre et qu'Albert Dürer aimait tant. On remonte, et l'on retrouve le ciel, la terre, la mer, l'infini. Vraiment, je suis ébloui, chaque jour, de toutes les merveilles que Dieu fait avec du vert et du bleu.]{.calibre4}
+
+[A peu près à moitié chemin, du sommet d'une côte très élevée que la route gravit, j'ai vu au loin comme un long serpent de brume avec des écailles de soleil çà et là posé sur l'horizon tout au fond de la mer et se détachant sur un nimbe de brume moins sombre. C'était l'Angleterre. Un ramasseur de mythes eût vu là un symbole. Moi, je n'y ai vu tout bonnement qu'une belle falaise, qui est noire de loin et qui de près serait blanche, [Albion]{.italic}.]{.calibre4}
+
+[L'entrée, ou pour mieux dire, la descente à Boulogne est admirable. On laisse à gauche une vieille forteresse dont les tours, qui avaient une couronne de créneaux, n'ont plus qu'une couronne de grands arbres. C'est encore fort beau. Il est fâcheux seulement que les architectes de l'endroit bâtissent là, sur ces vieux arbres et sur ces vieilles tours, je ne sais quoi de bête et de hideux qui a des colonnes.]{.calibre4}
+
+[Il y a dans cette descente un mélange amusant de cris de femmes dans les voitures, de jurements de cochers, et de mâts et de vagues au loin, et de cheminées qui fument et de vitres qui brillent. C'est une sensation très compliquée et charmante.]{.calibre4}
+
+[Quand nous retournerons ensemble à Boulogne, chère amie, je ne te conduirai pas à [l'hôtel du Nord]{.italic}. [L'hôtel du Nord]{.italic} est une médiocre auberge à grand fracas, où l'on paie fort cher un maigre gîte et où les garçons sont d'une impudence rare. J'ai été indigné de leurs façons avec une famille de pauvres voyageurs fourvoyée là, laquelle, fort inquiète du haut prix probable des repas, s'ingéniait pour n'en faire qu'un par jour. Sur quoi, ricanements odieux des garçons. Je n'ai pu m'empêcher de les en très fort rudoyer, sans violer mon incognito, bien entendu. Décidément, je hais de plus en plus chaque jour les grands hôtels, les grandes villes, les grands seigneurs et les grands laquais. Tout cela est insolent, vide et creux. Or, lesdits garçons d'auberge, avec leurs airs britanniques, n'étaient même pas des laquais, comme j'ai eu l'honneur de le leur dire. Ce n'étaient que de pauvres rustres picards vernis de je ne sais quel cirage anglais.]{.calibre4}
+
+[Je me suis longtemps promené au bord de la mer à Boulogne. Toujours du sable, et pas de galets par conséquent, mais pas de coquillages non plus, ce qui me fâche très fort, mon Toto. Depuis Ostende le sable de la mer te fait banqueroute.]{.calibre4}
+
+[J'ai vu la place où s'est si affreusement abîmée, il y a deux ans, cette frégate [Amphitrite]{.italic} qui croyait, en quittant l'Angleterre, porter des femmes à Botany-Bay et qui rapportait que des cadavres au cimetière de Boulogne. Pauvres femmes ! ont-elles perdu au change ? je ne sais. Car il paraît que les hommes, qui ne sont que des voleurs en Angleterre, deviennent des anthropophages à Botany-Bay. As-tu lu l'horrible histoire de ce Broughton dans les journaux ? Triste chose ! nous nous perdons dans nos perfectionnements. Voilà maintenant la civilisation qui fait des sauvages.]{.calibre4}
+
+[A l'endroit où l'[Amphitrite]{.italic} s'est brisée, j'ai trouvé aussi moi un cadavre, une pauvre mouche naufragée. Je te l'envoie. L'océan s'est amusé à la jeter sur la dune. Il n'avait pas eu beaucoup plus de peine avec la frégate.]{.calibre4}
+
+[N'est-ce pas, ma Didi, quelle est encore bien jolie, la pauvre mouche ? La côte est magnifique à Boulogne. Je l'ai longtemps étudiée de la pointe de l'estacade. Ce n'est plus la dune basse et bossue d'Ostende. C'est une haute et noble colline de terre brune, verdie par l'herbe çà et là, où les vagues ont façonné d'énormes degrés et qui descend jusqu'à la mer comme un escalier de Titans. La ville n'en atteint qu'à grand-peine le sommet. Quelques pauvres toits de hameau se pelotonnent au loin dans les mamelons de cette grande dune. Il y a aussi quelques moulins qui se cachent, tournés vers la terre et adossés aux renflements de la côte. Mais ils ont beau s'abriter, le vent de mer les prend en passant par le bout de l'aile et les fait tourner furieusement.]{.calibre4}
+
+[Au moment où j'étais à l'extrémité de l'estacade, le paquebot à vapeur venait de sortir du port. On ne le distinguait plus au loin qu'à la petite nuée noire qui sortait de sa cheminée. Au point opposé du ciel, au faîte le plus reculé de la dune, je voyais fumer en même temps le toit d'une misérable masure. Dun côté c'était une admirable machine qui changera la face du monde ; de l'autre, c'était la marmite d'un paysan. Cela ne faisait que deux fumées sur l'horizon.]{.calibre4}
+
+[Je songeais en cet instant-là, à tous ces amis que je viens de perdre et qui s'en sont allés aussi comme des fumées ; les uns superbement comme le navire, les autres modestement comme la cabane. J'étais triste et accablé. Vois, chère amie, sans compter mon pauvre Eugène, qui était bien plus qu'un ami, cela fait quatre en moins de cinq mois. Fontaney, si intelligent, Maynard, si éclatant et si noble, d'Arnay, ce pauvre doux enfant si gracieux, et enfin, il y a quelques jours à peine Fossombroni, si jeune, si modeste et si spirituel ; tous bons, généreux, dévoués, tous morts ayant à peine commencé à vivre. J'excepte Fontaney, qui avait souffert et par conséquent vécu. Où sont-ils maintenant ? pensent-ils à nous qui songeons à eux ? nous regrettent-ils et nous désirent-ils ? Ils savent maintenant comme je les ai réellement aimés, Maynard surtout, qui avait l'injustice d'en douter quelquefois, seul tort que je puisse lui reprocher. Hélas ! pauvre amie, comme cet arbre des vivants est rudement secoué autour de nous ! comme les feuilles tombent ! comme les branches cassent !]{.calibre4}
+
+[J'étais là, en présence de l'océan et de la face de Dieu, et j'étais plein de ces pensées. J'en suis plein encore. Je continuerai dans un autre moment. Laisse-moi finir ici ma lettre. Je ne veux pas t'attrister.]{.calibre4}
+
+[Je t'embrasse tendrement, mon Adèle.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Étaples.]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6503 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Etaples, au bord de mer.]{.calibre_10}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Bernay, 5 septembre, 9 heures du matin.]{.calibre2}]{.bold1}]{.calibre_39} {#bernay-5-septembre-9-heures-du-matin. .calibre_38}
+
+[ ]{.calibre4}
+
+
+[ ]{.calibre4}
+
+[J'ai quitté Boulogne avant-hier, par un de ces admirables ciels nuageux et rayonnants qui jettent sur la terre comme une grande peau de tigre faite de lumière et tachée d'ombre. La ville était merveilleusement jolie ainsi éclairée. Il pleut toutes les nuits, mais avec le jour reviennent le soleil, le ciel bleu et les paysages. [Nocte pluit tota, redeunt spectacula mane]{.italic}. Ceci est du Virgile pour mon lauréat Charlot.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Une seule chose gâtait ce bel ensemble de mer et de terre, de toits, de mâts et de voiles. C'est le hideux pâté à colonnade dont ils ont couronné leur ville. Quant à la colonne de Boulogne, elle ne fait ni bien ni mal. C'est une balise de pierre, rien de plus. Car ils ont une colonne à Boulogne, une façon de colonne Trajane, moins les sculptures, moins la grandeur, moins Rome.]{.calibre4}
+
+[ ]{.calibre4}
+
+[J'ai été favorisé d'un plus beau soleil à Boulogne qu'à Calais où j'ai eu très froid. Calais est dans un courant d'air.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Mais, froid ou chaud, pluie ou soleil, brumes ou étoiles, j\'aime passionnément les ports de mer, quoiqu'on y mange trop de beefsteacks et que les barbiers vous y rasent avec des mains qui sentent le poisson.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Tu sais que j'aime encore mieux les petits ports que les grands. Aussi de Boulogne je suis allé à Etaples.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Cette route est encore plus pittoresque que celle de Calais à Boulogne. C'est un enchantement perpétuel.]{.calibre4}
+
+[ ]{.calibre4}
+
+[En sortant de Boulogne on côtoie un bras de mer qui se recourbe dans les terres comme pour aller saisir les villages. A la marée haute il est couvert de petits bateaux à voiles qui croisent leurs triangles jaunes dans tous les sens. A partir de là, le paysage varie superbement à chaque instant. Les collines, tout à la fois molles et sévères, assouplies par le vent robuste de la mer, ont parfois la ligne italienne. De temps en temps de hautes dunes magnifiquement tripotées, comme des vagues que le mouvement de la voiture fait remuer à l'oeil, viennent en tumulte, au bord de la route. La mer, qui se retire lentement de la côte de France, était là autrefois. Et puis elles s'éloignent et vont appuyer, au loin sur l'horizon leurs ondulations courtes et puissantes. Ce sont, au fond du paysage, de fermes et charmantes arabesques, sculptées tour à tour par tous les éléments. L'océan les a ébauchées, l'ouragan les continue.]{.calibre4}
+
+[Étaples n'est qu'un village, mais un village comme je les cherche, une colonie de pêcheurs installée dans un des plus gracieux petits golfes de la Manche. La marée était basse quand j'y suis arrivé ; toutes les barques étaient échouées au loin sur le sable, noires et luisantes comme des coquilles de moules. J'en ai dessiné quelques-unes, tout en me promenant sur la grève. De temps en temps je rencontrais, sur les seuils des cabanes, de ces dignes figures de marins qui vous saluent noblement. La mer brillait au milieu du golfe, éclatante et déchiquetée, comme un lambeau de drap d'argent. Les hauteurs qui bornent l'horizon au midi ont une forme magnifique et calme. Quelques grands nuages s'y posaient lentement. C'était un spectacle tranquille et grand.]{.calibre4}
+
+[Le soir, il semble que les nuages aussi vont se coucher. Ils s'aplatissent, ils s'allongent, ils s'étendent comme pour dormir.]{.calibre4}
+
+[Le jour ils s'enflent, se dilatent et se gonflent au soleil comme des édredons devant le feu. En général, je les aime mieux le soir. Ils dessinent alors dans l'air des baies et des promontoires qui font du ciel comme un immense miroir où la mer se réfléchirait avec ses côtes sombres et découpées.]{.calibre4}
+
+[Je suis parti d'Etaples de bon matin. Je voulais déjeuner à Montreuil-sur-mer.]{.calibre4}
+
+[Montreuil-sur-mer serait mieux nommé Montreuil-sur-plaine. C'était autrefois une charmante ville. Ce n'est plus maintenant qu'une citadelle. Mais, des remparts, on a une vue admirable de coteaux et de prairies, car la ville est haut située. Et puis il reste encore sur la place deux vieilles églises qui ont un certain aspect. Mais il n'y faut pas entrer. J'ai trouvé pourtant, dans la plus grande, une piscine romane d'un beau goût. N'en juge pas d'après ce gribouillage.]{.calibre4}
+
+[Je me suis promené sur les remparts. J'étais seul avec de vieux canons gisant à terre et un vieux prêtre assis à côté. Une figure vénérable que ce prêtre ! il avait l'oeil fixé sur son livre, et moi, je regardais la campagne. Il lisait dans son bréviaire, et moi dans le mien. ]{.calibre4}
+
+[C'est que, vois-tu, mon Adèle, c'est un beau et glorieux livre que la nature. C'est le plus sublime des psaumes et des cantiques. Heureux qui l'écoute. J'espère que mes enfants le comprendront un jour et qu'ils jouiront religieusement de ces merveilles extérieures qui répondent à la merveille intérieure que Dieu a mise en nous, l'âme. Moi, je ne me lasse pas d'épeler ce grand et ineffable alphabet. Chaque jour il me semble que j'y découvre une lettre nouvelle.]{.calibre4}
+
+[Une chose me frappait hier matin, tout en rêvant sur ces vieux boulevards de Montreuil-sur-mer. C'est la manière dont l'être se modifie et se transforme constamment, sans secousse, sans disparate, et comme il passe d'une région à l'autre avec calme et harmonie. Il change d'existence presque sans changer de forme. Le végétal devient animal sans qu'il y ait un seul anneau rompu dans la chaîne qui commence à la pierre, dont l'homme est le milieu mystérieux, et dont les derniers chaînons, invisibles et impalpables pour nous, remontent jusqu'à Dieu. Le brin d'herbe s'anime et s'enfuit, c'est un lézard ; le roseau vit et glisse à travers l'eau, c'est une anguille ; la branche brune et marbrée du lichen jaune se met à ramper dans les broussailles et devient couleuvre ; les graines de toutes couleurs, mets-leur des ailes, ce sont des mouches ; le pois et la noisette prennent des pattes, voilà des araignées ; le caillou informe et verdâtre, plombé sous le ventre, sort de la mare et se met à sauteler dans le sillon, c'est un crapaud ; la fleur s'envole et devient papillon. La nature entière est ainsi. Toute chose se reflète, en haut dans une plus parfaite, en bas dans une plus grossière, qui lui ressemblent.]{.calibre4}
+
+[Et quel admirable rayonnement de tout vers le centre ! Comme les divers ordres d'êtres créés se superposent et dérivent logiquement l'un de l'autre ! Quel syllogisme que la création ! Où commencent la branche et la racine, l'arbre commence ; où commence la tête, l'animal commence ; où commence le visage, l'homme commence. Ainsi s'engendrent l'un de l'autre, dans une unité ravissante, les quatre grands faits qui saisissent le globe, la cristallisation, la végétation, la vie, la pensée.]{.calibre4}
+
+[Dis-moi pourquoi je songeais à tout cela sous ces grands arbres de Montreuil. Je ne sais. Mais je cause avec toi, mon Adèle, comme si nous nous promenions bras dessus bras dessous le long du quai de l'Arsenal.]{.calibre4}
+
+[En descendant du rempart, j'ai rencontré un petit enfant qui mordait dans une grosse pomme. --- Qui t'a donné cette pomme ? lui ai-je dit. Il m'a répondu --- Je ne sais pas, c'est tombé de l'arbre, c'est le vent, c'est personne. --- Je lui ai donné dix sous et je lui ai dit --- Mon enfant, quand ce n'est personne, c'est Dieu.]{.calibre4}
+
+[J'aurais pu ajouter --- Et quand c'est quelqu'un, c'est Dieu encore.]{.calibre4}
+
+[De Montreuil je suis allé à Crécy. Il m'a fallu faire trois bonnes lieues à pied. Les chemins sont impraticables. La loi sur les chemins vicinaux, n'a encore rien caillouté par ici.]{.calibre4}
+
+[J'ai vu Crécy, j'ai visité ce sombre champ de bataille. J'ai fait le tour du vieux moulin de pierre qui marque la place où l'attaque a commencé. Je suis descendu au fond de ce vallon où les dolabres et les haches d'armes ont si rudement travaillé. Le village est assez pittoresque. J'en ai dessiné l'église, laquelle a vu la bataille. Il y a aussi, au milieu de la place du village, une vieille fontaine romane qui a dû étancher bien du sang ce jour-là. Fontaine curieuse et unique pour moi jusqu'à ce jour. Grosses nervures de briques à plein cintre. Piliers trapus en pierre avec chapiteaux sculptés. Trois étages, dont deux sont déformés.]{.calibre4}
+
+[A Bruxelles, je n'ai pas voulu voir Waterloo. J'ai jugé inutile de rendre cette visite à lord Wellington. Waterloo m'est plus odieux que Crécy, Ce n'est pas seulement la victoire de l'Europe sur la France, c'est le triomphe complet, absolu, éclatant, incontestable, définitif, souverain, de la médiocrité sur le génie. Je n'ai pas été voir le champ de Waterloo Je sais bien que la grande chute qui a eu lieu là était peut-être nécessaire pour que l'esprit du nouveau siècle pût éclore. Il fallait que Napoléon lui fît place. C'est possible. J'irai voir Waterloo, quand un souffle venu de France aura jeté bas ce lion flamand à qui saint Louis avait déjà arraché les ongles, les dents, la langue et la couronne, et aura posé sur son piédestal un oiseau français quelconque, aigle ou coq, peu m'importe. Je n'ignore pas que tout ce que j'écris ici pourrait se traduire en un couplet de facture, mais cela m'est égal. Albertus sait bien que j'ai tout un grand côté bête et patriote.]{.calibre4}
+
+[Je reviens à Crécy. J'ai donc tout vu mais j'ai bien des fois donné au diable un grand paysan enchifrené qui me servait de guide, et qui ne savait rien, bien entendu, et qui répondait à toutes mes questions : [Oui bosieu]{.italic}. À quoi je répliquais--- [Fort bien, bon abi]{.italic}.]{.calibre4}
+
+[Tout en courant dans les pierres, mes souliers de castor se sont crevés. J'ai mesuré sur-le-champ d'un oeil ferme l'étendue de mon malheur. J'ai vu qu'il faudrait mettre mes bottes le lendemain. Or mes bottes me gênent.]{.calibre4}
+
+[![Description : Description : Description : Sans titre 2](../../../images/victor-hugo/belgique/00862.jpg){.calibre3}]{.calibre_7}
+
+[Dessin figurant à cet emplacement
+]{.calibre_3}
+
+[Bernay où je suis en ce moment, n'est qu'un hameau. Il y a six maisons, La cathédrale a quatre murs blancs, dix pieds de haut, trois fenêtres, un toit d'ardoise et un clocher qu'on dirait composé de deux soufflets, l'un horizontal, l'autre vertical. Cet heureux genre d'architecture florit et prospère dans les braves campagnes picardes, qui n'en savent pas plus long. C'est hideux !]{.calibre4}
+
+[Ce n'est donc qu'un hameau, mais le hasard a voulu que ce hameau fût situé au point précis où la diligence qui arrive de Paris a faim pour déjeuner et où la diligence qui arrive de Calais a faim pour dîner. De ces deux diligences qui arrivent là, l'une du sud l'autre du septentrion, la bouché ouverte, il est résulté une auberge, et une fort bonne auberge, l'Hôtel de la Poste C'est un des meilleurs logis que j'aie rencontrés sur ma route.]{.calibre4}
+
+[La basse-cour, qui est là sous ma fenêtre, est magnifique. Ce n'est pas une basse-cour, c'est un océan. Il y a là tout un monde de poules, de canards, de coqs, de vaches, de porcs, de dindons, de pigeons et de pintades, qui vit bruyamment et joyeusement, sans prendre garde aux sinistres lueurs de la cuisine. De cette immense basse-cour il germe une table d'hôte colossale qui s'épanouit deux fois par jour. Hier soir lundi, le garçon me disait avoir desservi plus de cent vingt couverts depuis samedi. C'est vraiment merveille de trouver une aussi prodigieuse cuisine dans une bourgade de huit ou dix feux. Quoiqu'il en soit et sans songer à la table d'hôte, ce monstre aux dents de requin, toutes ces omelettes, toutes ces côtelettes, tous ces jambons, tous ces salmis, grouillent, piaillent, bêlent, chantent, roucoulent, grognent, volent, marchent, nagent et flânent parmi des Alpes de fumier où les mares font des lacs ; tumulte amusant pour le voyageur qui, comme moi, regarde la basse-cour pendant que le dîner cuit, et ne dédaigne pas Fielding en attendant Chevet.]{.calibre4}
+
+[Chevet ne gâte jamais le paysage. L'idée de la bécassine colore le groupe un peu sec du chasseur et du chien d'arrêt et il y a, pour le marcheur affamé, un certain charme à penser que dans ces belles eaux vives près desquelles il se repose on pêche d'excellentes truites. Les hommes du quinzième siècle ne peignaient et ne sculptaient jamais une rivière sans en montrer les poissons. Bonne et cordiale habitude !]{.calibre4}
+
+[Au milieu de toutes ces bêtes se traîne et se prélasse, comme l'éléphant au jardin des plantes, une énorme truie pleine et prête à mettre bas. C'est plaisir de la voir se vautrer dans l'ordure. Elle est monstrueuse, elle est gaie, grasse, velue, rose et blonde. Il faut être un fier cochon pour faire la cour à une pareille créature.]{.calibre4}
+
+[Il paraît que les gendarmes et les postillons se font décrotter ici. Il y a là sous la porte un enfant qui cire une botte grande comme un homme. Tu rirais de le voir. Il peint, il frotte, il brosse, il souffle, il sue, il y va de tout coeur, il couche la botte à terre comme un canon, il la met debout comme une colonne, il en fait le tour, il entre dedans, par moments il s'y engloutit et il disparaît tout entier. On n'a jamais accompli une grande oeuvre avec plus de bravoure.]{.calibre4}
+
+[Tout est bon, tout est propre, tout est riant dans cette auberge. Il y a bien çà et là quelques légères verrues. Ils m'ont donné pour écrire une table ronde, haute et étroite, ce qui n'est pas ingénieux ; ils font payer six sous trois feuilles de papier ; ils sont abonnés à la [Gazette de France]{.italic}, dont j'ai vu l'infortuné feuilleton traîner dans la cuisine, affirmant, parmi les oignons et les échalotes, que le théâtre est décidément perdu, que la belle langue française, etc., que le drame moderne, etc., grandes vérités que ce brave feuilleton disait là en français de cuisine, ce qui m'a paru de bon goût en pareil lieu. --- Somme toute, excellent gîte.]{.calibre4}
+
+[J'ai demandé à la bonne grosse dame du logis --- Vous êtes légitimiste, madame ? --- Elle m'a répondu --- Hélas oui, monsieur. Il faut bien. La route de Calais souffre, voyez-vous. Il passait plus de monde ici sous les anciens Bourbons. La route de Lille nous fait du tort. Les princes d'Orléans sont toujours fourrés à Bruxelles. --- D'où j'ai conclu que le rétablissement de la branche aînée était nécessaire au bonheur de la France et de la route de Calais. La dame, brave et excellente femme d'ailleurs, a réfléchi, un instant et a ajouté en soupirant --- Et puis, voyez-vous, depuis 1830, il y a eu le choléra à Paris, et il est encore en Italie, ce qui fait que les anglais passent moins par ici. --- Diable ! ai-je répondu, je comprends que vous soyez abonnée à la [Gazette de France.]{.italic}]{.calibre4}
+
+[Pardon de toutes ces histoires de cabaret, chère amie. Mais où il n'y a ni l'océan ni les cathédrales, il faut bien parler des auberges. La tête et l'esprit ont assez bavardé, c'est maintenant le ventre qui raconte ses aventures.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Du Tréport, 6 septembre, onze heures du soir]{.calibre2}]{.bold1}]{.calibre_39} {#du-tréport-6-septembre-onze-heures-du-soir .calibre_38}
+
+[ ]{.calibre4}
+
+[Je n'ai pu résister au Tréport. J'en étais trop près. Il m'attirait trop violemment, m'y voici. J'y suis arrivé cette fois à la marée basse. C'est toujours un lieu ravissant.]{.calibre4}
+
+[Hier, j'ai fait à pied une excursion au Crotoy, charmant petit port vis-à-vis Saint-Valéry, à l'embouchure de la Somme. Au moment où j'arrivais, c'était le départ des barques, chose toujours admirable et toujours nouvelle. Toutes les voiles, dessinées nettement par les angles, s'enlevaient en noir sur le ciel et sur la mer qui éblouissaient. Je t'aurais voulue là, chère amie.]{.calibre4}
+
+[J'ai revisité à Abbeville Saint-Wulfran et sa vieille façade toute rongée par la bise et par la lune. J'ai revu cette belle église avec autant de plaisir que la première fois, il y a deux ans. Elle a quelques rides de plus et je n'en ai pas de moins. --- Il y a à l'angle une sublime statue de vieillard à demi enfoncée dans un toit. Ils ont bâti là une ignoble maison qui lui monte jusqu'à la ceinture, le vieux saint de pierre les laisse faire sans interrompre sa calme rêverie. A côté de lui, un guerrier que cette honteuse crue de tuiles semble près d'atteindre s'en dégage fièrement. Toutes ces figures sont graves et belles. Il ne faut pas les voir pourtant après celles d'Amiens.]{.calibre4}
+
+[J'ai bien employé ma journée, mon Adèle. J'ai été voir le château de Rambures, beau groupe de tours du treizième siècle. Je l'ai dessiné. La route à travers bois était charmante. Quoique fort cahoté, j'ai pu la faire en voiture. Et puis je suis venu au Tréport. J'ai laissé à ma gauche Blangy, riante petite ville cachée dans les peupliers au fond d'une superbe vallée à grands contours. J'ai également laissé de côté la route d'Aumale, qui traçait sur le revers des collines opposées le geste fulminant et tortueux de Mlle Mars dans Tisbé ! J'ai traversé Gamaches. L'église a un charmant portail du quinzième siècle.]{.calibre4}
+
+[J'ai vu passer à Gamaches deux femmes qui n'étaient pas à la noce. C'étaient deux pauvres contrebandières de tabac prises sur le fait. On les menait en prison à Blangy avec leur tabac, leur déconvenue et leur charrette ornée de deux gendarmes. Je leur ai donné la monnaie que j'avais dans ma bourse.]{.calibre4}
+
+[La route de Gamaches à Eu est fort verte et fort bien entourée. Elle court gaiement le long d'une haute colline qui aboutit aux falaises. On rencontre de temps en temps un de ces carrés de chanvre qui ressemblent à des forêts de petits cocotiers. On se suppose géant, on est en Amérique. Mais tu dois être bien fatiguée de cette lettre sans fin, ma pauvre amie. Je la ferme en t'embrassant, ainsi que ton père et les chers petits. --- As-tu écrit à M. Naudet que j'étais absent ? --- Je ne sais encore si je passerai par Gisors. Mais écris-moi toujours là. Mon itinéraire dépendra des voitures. Je tâcherai pourtant de le diriger vers Gisors.]{.calibre4}
+
+[A bientôt, mon Adèle bien-aimée. --- A bientôt, ma Didine. --- Mille baisers.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Dieppe -- Le Tréport -- Le Bourg d'Ault]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6507 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[Dieppe. La place du Puits salé à l'époque de Victor Hugo]{.calibre_10}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Dieppe, 8 septembre, 9 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#dieppe-8-septembre-9-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Ceci est probablement, chère amie, l'avant-dernière lettre que tu recevras de moi. Le 12 ou le 13 au plus tard je serai à Paris près de toi, près de vous. Quelle joie de t'embrasser ! Va, crois-le bien, je serai heureux, pauvre amie. Le voyage n'est qu'un étourdissement rapide. C'est à la maison qu'est le bonheur.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Chaque jour me rapproche rapidement de vous. Je suis aujourd'hui à Dieppe. J'y étais venu revoir et étudier encore le curieux bas-relief de l'église qui figure en quelque sorte la découverte de l'Amérique. Plusieurs encombres ont retardé la voiture, de sorte que je suis arrivé trop tard. Il était sept heures du soir et l'église était pleine d'ombre quand j'y suis entré. Elle était d'ailleurs admirable à voir ainsi, mais le bas-relief n'offrait à l'oeil qu'une croûte de pierre inégale. Impossible d'y rien distinguer. Je venais dans cette église en antiquaire, elle m'a reçu en peintre. Je ne me plains pas.]{.calibre4}
+
+[ ]{.calibre4}
+
+[Il y a une bien belle promenade à faire à Dieppe. Je n'y ai rencontré aucun promeneur. Il faut, à la nuit, tombante, suivre le quai méridional, côtoyer un groupe de maisons qui fait la tête d'une rue, et monter derrière le château par un sentier qui grimpe vers la falaise, par le bord du fossé. Bien des souvenirs gisent dans ce fossé qu'ont mesuré tant de fois du regard tous ces beaux gentilshommes de la Fronde à la fois si roués et si naïfs. C'est un ravin qui entaille profondément le dos de la falaise et le long duquel descend avec un mouvement ferme et superbe le haut mur du château. Ce mur, encore festonné par endroits de vieux mâchicoulis, laisse à mi-côte une haute tour carrée et en va porter une autre jusqu'au sommet de l'escarpement. Ceci est déjà beau, mais il ne faut pas s'en contenter. Il faut gravir sur la cime même de la falaise, si l'on n'a pas trop peur des formes vagues qu'on voit sauteler lourdement sur l'herbe. Il faut avancer bravement et n'avoir pas horreur des choses de l'ombre. Quand on sera en haut, on verra.]{.calibre4}
+
+[ ]{.calibre4}
+
+[J'y étais tout à l'heure je m'étais avancé au bord de la falaise, quelques pas au-delà d'une vieille barrière de bois qu'on a mise là sans doute pour les vaches, car je n'y ai pas vu un être humain. A ma droite, un peu au-dessous de moi, le château avec ses toits et ses tourelles faisait un bloc de ténèbres. Quand même une grosse, douve ne me l'eût pas cachée, il m'eût été impossible, de distinguer la jolie fenêtre de la Renaissance par où s'était enfuie, il y a bientôt deux cents ans, cette belle madame de Longueville qui était de si bon conseil dans l'occasion et qui avait, dit M de Retz, [une charmante langueur naturelle avec des réveils lumineux et surprenants.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+[Au-dessous et au-delà du château, un abîme et dans cet abîme quelques lignes confuses d'ombres et de reflets se coupant à angles droits avec trois ou quatre étoiles rouges éparses et comme noyées dans ce labyrinthe de formes indécises.]{.calibre4}
+
+[ ]{.calibre4}
+
+[C'était Dieppe. A gauche, la mer, la mer infinie, calme, grise, verte, vitreuse, et sur la mer, dispersés à tous les bouts de l'horizon, une vingtaine de bateaux pêcheurs pareils à des points noirs qui commencent à avoir une forme en courant silencieusement sur ce miroir livide comme de gros moucherons. Au-dessus de tout cela, un ciel crépusculaire que couvraient de grands nuages sombres crevés çà et là d'une flaque de lumière pâle. La marée montait avec sa rumeur sinistre, par moments un éclat d voix venait de la ville, derrière moi une vache mugissait je ne sais où, de temps en temps le vent faisait sur la mer le bruit d'un immense rideau qu'on secoue. C'était extraordinaire. Rien ne laisse à l'âme une impression à la fois plus vague et plus poignante que les espèces de rêves qui se dégagent parfois de la réalité.]{.calibre4}
+
+[On marche dessus, ils flottent autour de vous.]{.calibre4}
+
+[En redescendant, je me suis promené dans le port. J'ai causé avec un douanier qui surveillait le déchargement d'un navire. Ce navire venait de la Baltique, de Stettin, apporter à Dieppe, quoi ? Du bois de chauffage et, ce qui n'est pas moins étrange, c'est qu'il ne remporte rien, absolument rien, que des galets dont il fait son lest et qu'il est obligé de jeter plus tard. Ce pauvre port de Dieppe est bien déchu. Il est peut-être le plus amoindri de nos ports de la Manche qui tendent tous à s'engraver.]{.calibre4}
+
+[Ma journée d'hier, chère amie, a été bien remplie. J'étais au Tréport, je voulais voir le point précis où finit la dune et où commence la falaise. Belle promenade, mais pour laquelle il n'y a que le chemin des chèvres et qu'il fallait faire à pied. J'ai pris un guide et je suis parti. Il était midi. A une heure j'étais au sommet de la falaise opposée au Tréport. J'avais franchi l'espèce de dos d'âne de galets qui barre la mer et défend la vallée au fond de laquelle se découpent les hauts pignons du château d'Eu ; j'avais sous mes pieds le hameau qui fait face au Tréport.]{.calibre4}
+
+[La belle église du Tréport se dressait vis-à-vis de moi sur sa colline avec toutes les maisons de son village répandues sous elle au hasard comme un tas de pierres écroulées. Au-delà de l'église se développait l'énorme muraille des falaises rouillées, toute ruinée vers le sommet et laissant crouler par ses brèches de, larges pans de verdure. La mer, indigo sous le ciel bleu, poussait dans le golfe ses immenses demi-cercles ourlés d'écume. Chaque lame se dépliait à son tour et s'étendait à plat sur la grève comme une étoffe sous la main d'un marchand. Deux ou trois chasse-marées sortaient gaîment du port. Pas un nuage au ciel. Un soleil éclatant.]{.calibre4}
+
+[Au-dessous de moi, au bas de la falaise, une volée de cormorans péchait. Ce sont d'admirables pêcheurs que les cormorans. Ils planent quelques instants, puis ils fondent rapidement sur la vague, en touchent la cime, y entrent quelquefois un peu, et remontent. A chaque fois ils rapportent un petit poisson d'argent qui reluit au soleil. Je les voyais distinctement et de très près. Ils sont charmants quand ils ressortent de l'eau, avec cette étincelle au bec. Ils avalent le poisson en remontant, et recommencent sans cesse. Il m'a paru qu'ils déjeunaient fort bien.]{.calibre4}
+
+[Moi j'avais mal déjeuné par parenthèse. Comme c'était un port de mer, j'avais mangé du beefsteack bien entendu, mais du beefsteack remarquablement dur. A la table d'hôte, où les plaisanteries sont rarement neuves, on le comparait à des semelles de bottes. J'en avais mangé deux tranches, et pour cela j'étais fort envié à la table d'hôte, l'un enviait mon appétit, l'autre mes dents. J'étais donc comme un homme qui a mangé à son déjeuner une paire de souliers. Moi, j'enviais les cormorans.]{.calibre4}
+
+[Une heure après, toujours par le sentier tortueux de la falaise, j'approchais du Bourg-d'Ault, but principal de ma course. A un détour du sentier, je me suis trouvé tout à coup dans un champ de blé situé sur le haut de la falaise et qu'on achevait de moissonner. Comme les fleurs d'avril sont venues en juin cette année, les épis de juillet se coupent en septembre. Mais mon champ était délicieux, tout petit, tout étroit, tout escarpé, bordé de haies et portant à son sommet l'océan. Te figures-tu cela ? vingt perches de terre pour base, et l'océan posé dessus. Au rez-de-chaussée des faucheurs, des glaneuses, de bons paysans tranquilles occupés à engerber leur blé, au premier étage la mer, et tout en haut, sur le toit, une douzaine de bateaux pêcheurs à l'ancre et jetant leurs filets. Je n'ai jamais vu de jeu de la perspective qui fût plus étrange. Les gerbes faites étaient posées debout sur le sol, si bien que pour le regard leur tête blonde entrait dans le bleu de la mer. A la ligne extrême du champ une pauvre vache insouciante se dessinait paisiblement sur ce fond magnifique. Tout cela était serein et doux, cette églogue faisait bon ménage avec cette épopée. Rien de plus frappant, à mon sens, rien de plus philosophique que ces sillons sous ces vagues, que ces gerbes sous ces navires, que cette moisson sous cette pêche. Hasard singulier qui superposait les uns aux autres, pour faire rêver le passant, les laboureurs de la terre et les laboureurs.de l'eau.]{.calibre4}
+
+[Au sortir de ce champ, la scène changeait encore. Le ravin où je marchais se fermait d'un côté, se déchirait brusquement de l'autre, et je ne voyais plus que la terre, la riche terre de Normandie, les plaines à perte de vue que termine un liseré violet, et au loin les têtes rondes des pommiers. Car c'est encore là une de ces harmonies qu'on rencontre partout à chaque pas, le pommier est une pomme. La forme du poirier s'allonge un peu.]{.calibre4}
+
+[Mon guide était un homme d'Etretat, et ne connaissait pas mieux le chemin que moi. Un moment nous avons marché au hasard. Heureusement nous avons vu venir vers nous, à une intersection de sentiers, un gros fagot de bois sec qui avait deux pieds. C'était un pauvre vieillard, plié en deux sous son fardeau bien plus composé encore d'années que de broussailles. Ce vieux brave homme nous a remis dans notre chemin, ce qui fait que j'ai payé deux guides. L'autre se bornait à me donner de sages conseils.]{.calibre4}
+
+[J'ai demandé au vieux fagotier quel âge il avait. Quatre-vingt-deux ans. C'est un âge qu'ils atteignent aisément, hommes et femmes, dans ces pauvres hameaux qui nous font tant de pitié. Et pourtant, le travail les courbe, le vent les hâle, le soleil les ride, et ils nous semblent vieux à quarante ans. Au fond, à soixante ans ils sont moins vieux que nous à trente. On s'use moins vite par le dehors que par le dedans.]{.calibre4}
+
+[A deux heures et demie, j'entrais au Bourg-d'Ault. On passe quelques maisons, et tout à coup on se trouve dans la principale rue, dans la rue mère d'où s'engendre tout le village, lequel est situé sur la croupe de la falaise. Cette rue est d'un aspect bizarre. Elle est assez large, fort courte, bordée de deux rangées de masures, et l'océan la ferme brusquement comme une immense muraille bleue. Pas de rivage, pas de port, pas de mâts. Aucune transition. On passe d'une fenêtre à un flot.]{.calibre4}
+
+[Au bout de la rue en effet on trouve la falaise, fort abaissée, il est vrai. Une rampe vous mène en trois pas à la mer, car il n'y a là ni golfe, ni anse, pas même une grève d'échouage comme à Étretat. La falaise ondule à peine pour le Bourg-d'Ault.]{.calibre4}
+
+[C\'est alors que je me suis expliqué le bruit furieux de serrurerie qui m'avait assourdi en entrant dans le village. [Ferri rigor]{.italic}, comme dirait Virgile ou Charlot. Les gens du Bourg-d\'Ault ne pouvaient être marins ni pêcheurs, ils n'avaient pas de port. Ils se sont faits serruriers. Ils y réussissent, ma foi, car ils ont un gros commerce avec le centre de la France, et ils se vengent de Neptune en lui faisant un tapage infernal aux oreilles.]{.calibre4}
+
+[Il s'envole perpétuellement du Bourg-d'Ault une noire nuée de serrures qui va s'abattre à Paris sur vos portes, mesdames.]{.calibre4}
+
+[En examinant la rue j'ai amnistié les masures. Il y a là deux maisons curieuses une, à droite, du quatorzième siècle, l'autre, à gauche, du seizième Sur la première, j'aurais voulu avoir le temps de dessiner les bouts de poutres qui sont énormes et sculptés en têtes presque égyptiennes, La seconde a des détails ravissants. Les charpentes de la façade ont à de certains endroits des arabesques du goût le plus ferme et le plus pur. La maison du quatorzième siècle est en face. On dirait l'Egypte et l'Italie qui se regardent. Sur celle du seizième siècle, en ne s'arrêtant pas (sans les dédaigner toutefois) aux masques grotesques qui mordent le bout des volutes pour amuser les matelots, on trouve des figures, deux surtout, pleines de style et, qui ont pour chevelure, et pour collerettes des rinceaux exquis. C'est vraiment une charmante apparition. On est au milieu d'un misérable tas de cabanes, dans une rue à peine pavée, à soixante lieues de Rubens, à quatre cents lieues de Raphaël, à six cents lieues de Phidias, à deux pas d'un huissier qui s'appelle M. Beauvisage, on n'a dans la tête qu'une musique de limes, de scies et d'enclumes, on se retourne, et voilà que l'art vient s'épanouir sur la poutre d'une masure, et vous sourit. --- Il est vrai que l'océan est là. Partout où est la nature, sa fleur peut pousser, et la fleur de la nature, c'est l'art.]{.calibre4}
+
+[Il n'y a pas que ces deux maisons au Bourg-d'Ault. Il y a aussi une vieille belle église, bien vieille et bien belle, germée au douzième siècle et éclose au quinzième. On la réparait quand j'y suis entré. Deux maçons rampaient à plat ventre sur une échelle appliquée au toit. Dieu veuille qu'on ne la gâte pas !]{.calibre4}
+
+[Comme les maçons y étaient, on m'a refusé l'entrée du clocher, qui est fort haut placé, et doit avoir une vue admirable. J'ai eu beau insister.]{.calibre4}
+
+[Ce qui m'amenait au Bourg-d'Ault, c'est que c'est là que la falaise commence. Pour mon guide, qui était d'Etretat et qui, bien entendu, faisait de sa bourgade le centre du monde, c'est au Bourg-d'Ault que la falaise finit. --- Voyez, monsieur, me disait-il, d'une manière assez pittoresque en me montrant la côte qui s'abaissait jusqu'aux plaines, [elle finit en sifflet.]{.italic}]{.calibre4}
+
+[J'ai fait quelques pas sur les galets du Bourg-d'Ault, puis je suis remonté dans le village pour redescendre avec la falaise dans les plaines de sable où les dunes viennent aboutir de leur côté.]{.calibre4}
+
+[La mer ronge perpétuellement le Bourg-d'Ault. Il y a cent cinquante ans, c'était un bien plus grand village qui avait sa partie basse abritée par une falaise au bord de la mer. Mais un jour la colonne de flots qui descend la Manche s'est appuyée si violemment sur cette falaise qu'elle l\'a fait ployer. La falaise s'est rompue et le village a été englouti. Il n'était resté debout dans l'inondation qu'une ancienne halle et une vieille église dont on voyait encore le clocher battu des marées quelques années avant la Révolution, quand les vieilles femmes qui ont aujourd'hui quatre-vingts ans étaient des marmots roses.]{.calibre4}
+
+[Maintenant on ne voit plus rien de ces ruines. L'océan a eu des vagues pour chaque pierre, le flux et le reflux ont tout usé, et le clocher qui avait arrêté des nuages n'accroche même plus aujourd'hui la quille d'une barque. Ne pouvant voir cette église évanouie, j'ai visité l'autre avec soin, l'intérieur du moins, car je viens de te dire ma déconvenue du clocher.]{.calibre4}
+
+[Quelques chapiteaux curieux, quelques frises délicates, et d'horribles peintures à accrocher sur les échoppes, voilà tout ce que renferme l'église. Elle est entourée de tombes. Ces petits monuments lugubres poussent volontiers à l'ombre des églises, comme les superstitions autour de la religion. Pourtant les unes ne contiennent que la cendre et la mort, l'autre contient la vie.]{.calibre4}
+
+[Depuis la catastrophe du bas village, tout le Bourg-d'Ault s'est réfugié sur la falaise. De loin tous ces pauvres toits pressés les uns sur les autres font l'effet d'un groupe d'oiseaux mal abrité qui se pelotonne contre le vent. Le Bourg-d'Ault se défend comme il peut, la mer est rude sur cette côte, l'hiver est orageux, la falaise s'en va souvent par morceaux. Une partie du village pend déjà aux fêlures du rocher.]{.calibre4}
+
+[Ne trouves-tu pas, chère amie, qu'il résulte une idée sinistre de ce village englouti et de ce village croulant ? Toutes sortes de traditions pleines d'un merveilleux effrayant ont germé là. Aussi les marins évitent cette côte. La lame y est mauvaise et souvent, dans les nuits violentes de l'équinoxe, les pauvres gens du Tréport qui vont à la pêche dans leur chasse-marée, en passant sous les sombres falaises du Bourg-d'Ault, croient entendre aboyer vaguement les guivres de pierre qui regardent éternellement la mer du haut des nuées, le cou tendu aux quatre angles du vieux clocher.]{.calibre4}
+
+[Cet endroit est beau. Je ne pouvais m'en arracher. C'est là qu'on voit poindre et monter cette haute falaise qui mure la Normandie, qui commence au Bourg-d'Ault, s'échancre à peine pour le Tréport, pour Dieppe, pour Saint-Valéry-en-Caux, pour Fécamp, où elle atteint son faîte culminant, pour Etretat où elle se sculpte en ogives colossales, et va expirer au Havre, au point où s'évase cet immense clairon que fait la Seine en se dégorgeant dans la mer.]{.calibre4}
+
+[Où naît la falaise, la dune meurt. La dune meurt dignement dans une grande plaine de sable de huit lieues de tour qu'on appelle le désert et qui sépare le Bourg-d'Ault, où la falaise commence, de Cayeux, village presque enfoui dans les sables, où finit la dune.]{.calibre4}
+
+[Il m'a fallu traverser [ce désert]{.italic} à pied. Le nom n'est, en vérité, pas trop grand pour la chose. Figure-toi, chère amie, une immense solitude bornée à l'horizon par de vagues collines. Pas un homme, pas une cabane, pas un arbre. On marche ainsi trois grandes heures. La mer se rue souvent sur ces plaines et jette sur le sommet de toutes les basses ondulations de sable dont elle est formée comme une lèpre de galets. Dans les petites vallées que ces ondulations laissent entre elles, il pousse un gazon maigre et court. Rien dans ces landes ne rappelle la vie dont nous vivons et le monde auquel nous tenons, si ce n'est une batterie qu'on rencontre de distance en distance au bord de la mer avec quelques canons qui font ce qu'ils peuvent pour avoir un air de force et de puissance mais à chaque marée l'océan crache dessus.]{.calibre4}
+
+[A six heures, j'entrais à Cayeux. J'étais vraiment las. Depuis midi je marchais au soleil dans les sables et dans les galets. A Cayeux, j'ai quitté mon guide, je l'ai payé et je lui ai indiqué son chemin pour s'en revenir. ]{.calibre4}
+
+[J'ai eu là un bonheur. Il me restait deux lieues à faire à pied pour gagner Saint-Valéry-sur-Somme, et j'en étais effrayé. Je rêvais assez mélancoliquement à cette route, tout en suivant la trace de petites croix que les pattes d'un pigeon avaient laissées sur le sable. En ce moment-là un bon gros fermier passait dans sa carriole, il m'a aperçu au milieu des monticules de poussière impalpable où s'enlisent les masures de Cayeux ; il paraît que je lui ai plu, et il m'a offert l'hospitalité dans sa carriole. Il allait comme moi à Saint-Valéry. J'ai accepté vivement, et puis il s'est trouvé que c'était de la vraie hospitalité, plante fort rare car lorsque j'ai voulu offrir un prix quelconque à ce brave homme, il s'est presque offensé. J'ai dû me résigner à voyager gratis. Cela ne m'était pas encore arrivé.]{.calibre4}
+
+[Le cheval trottait rapidement, la route était redevenue bonne ; avant sept heures nous descendions à Saint-Valéry. Là j'ai quitté mon excellent fermier. J'arrivais à temps pour prendre la patache qui va à Abbeville.]{.calibre4}
+
+[Le port de Saint-Valéry était charmant au crépuscule. On distinguait au loin les dunes du Crotoy et, comme une nébulosité blanchâtre, les vieilles tours arrachées et démolies au pied desquelles j'avais dessiné deux jours auparavant.]{.calibre4}
+
+[Au premier plan, à ma droite, j'avais le réseau noir et inextricable des mâts et des cordages. La lune, qui se couchait hier une heure après le soleil, descendait lentement vers la mer ; le ciel était blanc, la terre brune, et des morceaux de lune sautaient de vague en vague comme des boules d'or dans les mains d'un jongleur.]{.calibre4}
+
+[Un quart d'heure après j'étais en route pour Abbeville. J'ai toujours aimé ces voyages à l'heure crépusculaire. C'est le moment où la nature se déforme et devient fantastique. Les maisons ont des yeux lumineux, les ormes ont des profils sinistres ou se renversent en éclatant de rire, la plaine n'est plus qu'une grande ligne sombre où le croissant de la lune s'enfonce par la pointe et disparaît lentement, les javelles et les gerbes debout dans les champs au bord du chemin vous font l'effet de fantômes assemblés qui se parlent à voix basse ; par moments on rencontre un troupeau de moutons dont le berger, tout droit sur l'angle d'un fossé, vous regarde passer d'un air étrange ; la voiture se plaint doucement de la fatigue de la route, les vis et les écrous, la roue et le brancard poussent chacun leur petit soupir aigu ou grave ; de temps, en temps on entend au loin le bruit d'une grappe de sonnettes secouée en cadence, ce bruit s'accroît, puis diminue et s'éteint ; c'est une autre voiture qui passe sur quelque chemin éloigné. Où va-t-elle ? d'où vient-elle ? la nuit est sur tout. A la lueur des constellations qui font cent dessins magnifiques dans le ciel, vous voyez autour de vous des figures qui dorment et il vous semble que vous sentez la voiture pleine de rêves.]{.calibre4}
+
+[Pardon, chère amie, je t'écris toutes mes impressions. Comme elles viennent à moi, elles s'en vont vers toi. Toutes mes sensations comme tous mes sentiments sont à toi.]{.calibre4}
+
+[A onze heures du soir j'étais à Abbeville.]{.calibre4}
+
+[Mon projet était de retourner aujourd'hui par mer à Etaples. Il m'a fallu y renoncer. Les heures de la marée ne s'accommodaient pas avec ma fantaisie. Je ne t'ai pas assez parlé de ce joli hameau d'Etaples. Il y a là une auberge comme je les aime, une petite maison propre, honnête, bourgeoise, deux hôtesses qui sont deux soeurs, jeunes encore, fort gracieuses vraiment, de fort bons soupers de gibier et de poisson, et sur la porte un lion d'or qui a un air tout doux et tout pastoral, comme il convient à un lion mené en laisse par deux demoiselles. Les deux maîtresses du logis font bâtir en ce moment, elles agrandissent leur maison. C'est de la prospérité. J'en ai été charmé.]{.calibre4}
+
+[Je n'ai pas trouvé de meilleure auberge dans toute la Belgique. J'excepte pourtant Louvain et Furnes. A Louvain, c'est l'hôtel du [Sauvage]{.italic}, tenu par une brave grosse châtelaine flamande, la cordialité même. A Furnes, c'est l'hôtel de la [Noble Rose]{.italic}, vieux nom de senteur allemande qui m'avait attiré. L'hôtesse ici est une jeune fille, fille des maîtres du logis, jolie et modeste, et pourtant accueillant bien, sans mines et sans pruderie. On ne voit pas ses vieux parents. C'est elle qui fait tout dans la maison et qui gouverne le groupe grossier des servantes comme une petite fée. Elle a un air de dignité singulière que rehausse sa grande jeunesse. Je lui disais, entre autres fadaises, que la noble rose n'était pas seulement sur son enseigne. ]{.calibre4}
+
+[C'est pourtant dans cette charmante auberge que s'est nouée et dénouée une hideuse aventure. Te souviens-tu du procès de ce Mark et de cet Armand qui avaient assassiné une femme dans les dunes, dans ces mêmes dunes où j'ai fait une si riante promenade, et qui l'y avaient ensevelie ? C'est de l'auberge de Furnes, [la Noble Rose]{.italic}, qu'ils étaient partis, pour se promener, disaient-ils, avec cette pauvre jeune femme, qui était mariée à l'un deux. Le soir, ils revinrent sans elle et se hâtèrent de partir pour la France. Mais ils avaient oublié quelque chose, leur bourse, je crois, dans l'auberge ; ce qui les força de rétrograder, croyant d'ailleurs leur crime bien enfoui. Mais la mer avait son rôle dans ce drame fatal, elle était montée cette nuit-là jusqu'à la dune et avait déterré la femme morte, si bien qu'au même jour, au même instant, la providence amenait d'un côté, à l'auberge de [la Noble Rose]{.italic}, la civière où était le cadavre, et de l'autre main la diligence qui portait les assassins. Au moment où ils arrivèrent, le bourgmestre interrogeait le maître de l'auberge sur les deux étrangers inconnus, meurtriers présumés de cette femme ; il n'eut qu'à se retourner vers les voyageurs qui descendaient de la diligence pour dire : « Les voici ! »]{.calibre4}
+
+[C'étaient deux comédiens. Lun deux, Mark, homme d'une figure assez belle, quoique sinistre, avait joué le duc de Raguse à l'Odéon dans le [Napoléon]{.italic} de Dumas. C'était le fanfaron, l'homme fort, l'inventeur du crime ; Armand, caractère faible, obéissait. Aux assises, Mark, bâtard d'un ministre, disait-on, fut hautain et hardi, Armand pâle et abattu. Ils furent condamnés. Le brave mourut en lâche, et le lâche en brave. --- Toute cette histoire a tourné autour de [la Noble Rose]{.italic}.]{.calibre4}
+
+[Ne pouvant aller à Étaples, j'ai changé mon itinéraire, et je suis venu à Dieppe. Ce matin je déjeunais à Eu. L'église méritait bien d'être vue deux fois. C'est une belle nef et qui fait de loin un superbe profil à la ville. L'église du collège lui ressemble beaucoup à distance, et, quand on arrive par la route d'Aumale, on voit l'une derrière l'autre ces deux églises, la petite répétant la grande, comme un écho.]{.calibre4}
+
+[Pendant que j'attendais mon déjeuner, je voyais la cuisinière soigner avec inquiétude je ne sais quel ragoût composé d'orties blanches mêlées de jaunes d'oeufs écrasés et cuites à petit feu. Je lui ai demandé pour qui ces épinards.]{.calibre4}
+
+[Elle m'a répondu : [Pour mes dindons]{.italic}. Et puis elle m'a expliqué la chose. Ces dindons sont des dindonneaux. Rien n'est plus difficile à élever qu'un dindon, etc. Je l'ai suivie quand elle leur a porté leur déjeuner, et j'ai écouté avec grand plaisir la conversation de ces messieurs, qui valait, je t'assure, bien des conversations de table d'hôte. --- Souvent les hommes gloussent et les bêtes parlent.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Le Bourg d'Ault -- A]{.calibre2}lbums]{.bold1}]{.calibre_39} {#le-bourg-dault-albums .calibre_38}
+
+[ ]{.calibre4}
+
+[Je vous écris dans la rue même du village. J'y suis seul. Les habitants sont dans les maisons, comme s'ils y faisaient une espèce de sieste. A peine entends-je un gazouillement d'enfants dans les cours voisines. Le ciel est de ce bleu tendre qui fait rêver. Jamais du reste poète ne fut mieux placé pour avoir une vision. J'ai à ma gauche un vieux puits et l'océan à ma droite, si  bien que je pourrais voir surgir subitement la beauté à ma droite et à ma gauche la vérité.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[Le Bourg-d'Ault.]{.italic}]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Le Havre, 9 septembre, 7 heures 1/2 du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#le-havre-9-septembre-7-heures-12-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je mets 14 sur cette lettre, mon Adèle, car j'en avais commencé une autre, bien longue, que je finirai demain. Le temps me manque ce soir. Je t'écris seulement que j'arriverai probablement à Paris le 13. Entends-tu, mon Adèle, le 13 ! entends-tu, ma Didine ? Je vous reverrai, je vous embrasserai tous. Je suis suspendu en ce moment aux heures de départ des paquebots et des diligences. Je serre la main à ton bon père que j'aurai tant de joie à revoir. Je t'embrasse mille fois, ma pauvre bien-aimée et ma Didine, et mon Charlot, et mes deux petits anges, Toto et Dédé. A bientôt donc, ma Didine. Mille baisers, mon Adèle. Je t'aime. Je suis heureux de te revoir bientôt.]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Elbeuf, 10 septembre, 9 heures du soir.]{.calibre2}]{.bold1}]{.calibre_39} {#elbeuf-10-septembre-9-heures-du-soir. .calibre_38}
+
+[ ]{.calibre4}
+
+[Je me hâte, chère amie, de finir cette lettre. De Dieppe je suis allé au Havre, et du Havre je suis descendu jusqu'à Elbeuf par le bateau à vapeur. C'est un beau couronnement à mon voyage que ces admirables bords de la Seine.]{.calibre4}
+
+[Ce matin à quatre heures le bateau sortait du Havre. La mer était houleuse, il faisait encore nuit ; au point du jour nous atteignions Honfleur et au soleil levant Quilleboeuf. A midi nous étions à Rouen.]{.calibre4}
+
+[Je n'avais encore vu le cours de la Seine que par la route de terre. Le papier me manque pour te dire combien c'est beau, je te le dirai de vive voix à Paris. Par moments il y a des petites falaises qui imitent les grandes et des petites vagues qui copient les grosses. Ils ont aussi, vers Tancarville, des petites tempêtes et de grands naufrages. Pendant des lieues les collines, hautes et escarpées, ont des ondulations gigantesques. On croirait côtoyer des fosses de Titans.]{.calibre4}
+
+[Je t'ai déjà dit, dans mes autres voyages, combien Rouen est admirable, je ne t'en reparlerai donc pas. J'ai revu Villequier, Caudebec, la Meilleraye. Il y avait un singe dans le bateau, ce qui fait que personne n'a regardé Jumièges.]{.calibre4}
+
+[La sortie de Rouen est magnifique. On longe une série de quinze à vingt énormes collines qui s'enchaînent comme des vertèbres. Tout ce chemin par eau jusqu'à Elbeuf est merveilleux. Il y a ici deux églises, Saint-Jean et Saint-Etienne, fort dégradées, Saint-Jean plus encore que Saint-Etienne. Dans toutes deux de beaux vitraux. Dans Saint-Etienne j'en ai remarqué un qui est superbe et qui porte cette inscription « [En l'an mil cinq cent vingt et trois, Pierres Grisel et Marion sa femme ont donné cette verrière. Priés Dieu pour leurs âmes. »]{.italic} Au-dessus sont peints les donateurs, Pierre Grisel dans son digne costume d'échevin, accompagné de son fils, tout jeune enfant, et, dans l'autre panneau, sa femme avec ses trois filles. Marion, est charmante. --- La verrière représente la généalogie de la Vierge, sujet qui est pour les vitraux ce que la descente de croix est pour les tableaux, une chose souvent, traitée et presque toujours réussie. --- Je ne sais quel architecte stupide a mis aux vieux piliers de Saint-Etienne des couronnes de marquis en guise de chapiteaux.]{.calibre4}
+
+[Il y a encore quelques vieilles maisons dans Elbeuf, entre autres une boucherie à côté de ma fenêtre. Mais les manufactures prospèrent trop pour que les anciennes maisons ne fassent pas place à des maisons blanches dignes d'un siècle de lumière où le plâtre est en honneur.]{.calibre4}
+
+[Je pars demain pour Louviers. Je finis ma lettre en t'embrassant bien tendrement, mon Adèle. Dis bien à ma chère petite Didine que dans quatre jours je serai près de vous. Dis-le bien à tous !]{.calibre4}
+
+
+[[1837]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Louviers, 11 septembre, midi.]{.calibre2}]{.bold1}]{.calibre_39} {#louviers-11-septembre-midi. .calibre_38}
+
+[ ]{.calibre4}
+
+[Voici la grosse lettre dont je te parlais[[[[^\[3\]^]{.calibre_21}]{.underline}]{.calibre_4}](index_split_5427.html#filepos47726148){#filepos45702946}, mon Adèle, dans mon billet du Havre. Ne la lis pas, car je serai à Paris presque en même temps qu'elle. Je vais voir la châsse de Saint-Taurin, et je serai près de toi le 14, jeudi.]{.calibre4}
+
+[Je suis comme cloué dans ce maudit Louviers, les diligences passent bien, mais pleines. En voilà trois qui se moquent ainsi de moi.]{.calibre4}
+
+[A jeudi donc, mon Adèle bien-aimée. A jeudi, vous tous que j'aime tant, mes chers petits-enfants, ma Didine, ma Dédé, et mes deux bons petits lauréats, Toto et Charlot, que je baiserai bien pour leurs prix. --- Dis à ton père, combien j'aurai de joie à le revoir. Je l'embrasse ainsi que toi.]{.calibre4}
+
+[Mille baisers. A jeudi.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[12 septembre 1837, aux Andelys.]{.calibre2}]{.bold1}]{.calibre_39} {#septembre-1837-aux-andelys. .calibre_38}
+
+[ ]{.calibre4}
+
+[Hier, entre Louviers et Pont-de-l'Arche, vers midi, j'ai rencontré sur la route une famille de pauvres musiciens ambulants qui marchait, au grand soleil. Il y avait le père, la mère et six enfants, tous en haillons. Ils suivaient le plus possible la lisière d'ombre que font les arbres. Chacun avait son fardeau. Le père, homme d'une cinquantaine d'années, portait un cor en bandoulière et une grande contrebasse sous son bras ; la mère avait un gros paquet de bagages ; le fils aîné, d'environ quinze à seize ans, était tout caparaçonné de hautbois, de trompettes et d'ophicléides ; deux autres garçons, plus jeunes de douze à treize ans, s'étaient fait une charge d'instruments de musique et d'instruments de cuisine où les casseroles résonnaient à unisson des cymbales ; puis venait une fille de huit ans, avec un porte-manteau aussi long quelle sur le dos puis un petit garçon de six ans affublé d'un havresac de soldat ; puis enfin une toute petite fille de quatre à cinq ans, en guenilles comme les autres, marchant aussi sur cette longue route et suivant bravement avec son petit pas le grand pas du père. Celle-là ne portait rien. Je me trompe. Sur l\'affreux chapeau déformé qui couvrait son joli visage rose, elle portait --- c'est là ce qui m'a le plus ému --- un petit panache composé de liserons, de coquelicots et de marguerites, qui dansait joyeusement sur sa tête. J'ai longtemps suivi du regard ce chapeau hideux surmonté de ce panache éclatant, charmante fleur de gaîté qui avait trouvé moyen de s'épanouir sur cette misère. De toutes les choses nécessaires à cette pauvre famille, la plus nécessaire, c'est à la petite bégayant à peine que la Providence l'avait confiée. Les autres portaient le pain, l'enfant portait la joie. Dieu est grand.]{.calibre4}
+
+[ ]{.calibre4}
+
+[\... Donc, je n'aime pas les citadelles je sais bien que ces collines-là protègent les autres collines. Mais, précisément, ce sont des espèces d'amazones qui me déplaisent et qui m'ennuient. Vous êtes sur un coteau quelconque, c'est le matin, le soleil rit, les oiseaux chantent, vous êtes poète, vous allez, vous venez, vous errez, vous rêvez, tous les sentiers sont à vous, le ciel, la terre et les nuages font un paysage éclatant dans le miroir de votre, fantaisie ; vous êtes libre dans une nature libre ; ce pré est plein de rosée et de boutons d'or, regardez-le ; cette fleur est belle, cueillez-la ; toute chose s'offre avec douceur, et de tous les buissons et de tous les arbres voisins l'essaim bourdonnant des pensées vient joyeusement s'abattre sur vous. Mais je vous suppose, mon poète, à Valenciennes, ou à Lille, ou à Doullens, vous sortez de la ville, quelques belles, têtes vertes de marronniers sur des remparts rouges vous tentent, vous montez à la citadelle, vous arrivez à une pointe de brique et de gazon, c'est la flèche. --- Halte-là ! Qui vive ? On n'entre pas ? Avez-vous une permission ? Allez trouver le commandant. Et le soldat croise la baïonnette. Fort bien ! l'inspiration s'est envolée. Au diable la colline virago qui vous reçoit en grommelant et la hallebarde au poing ! Foin de ces choses sévères et revêches et si bien défendues, et vive la nature, cette beauté bonne, riante, gracieuse, nonchalante, bienveillante et facile !]{.calibre4}
+
+
+[]{.calibre_10}
+
+[[
+]{.bold}]{.calibre_12}
+
+
+[![separateur](../../../images/victor-hugo/fragments-dun-voyage-aux-alpes/00844.jpg){.calibre3}]{.calibre_10}

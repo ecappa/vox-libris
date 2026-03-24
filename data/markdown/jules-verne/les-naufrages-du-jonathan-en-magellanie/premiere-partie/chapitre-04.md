@@ -1,0 +1,186 @@
+### [[Chapitre 4 -- À la côte]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942849 .pcalibre2 .pcalibre1} {#chapitre-4-à-la-côte .calibre171 .sigil_not_in_toc}
+
+Il était alors huit heures du soir. Le vent, qui depuis un certain temps déjà soufflait du Sud-Est, battait en côte avec une prodigieuse violence. Un navire n\'aurait pu doubler l\'extrême pointe de l\'Amérique sans risquer de se perdre corps et biens.
+
+C\'était le danger qui menaçait le bâtiment dont cette détonation avait révélé la présence. Sans doute, dans l\'impossibilité de porter assez de toile, au milieu de ces rafales furieuses, pour tenir la cape courante, il était invinciblement drossé contre les récifs.
+
+Une demi-heure plus tard, le Kaw-djer n\'était plus seul au sommet de l\'îlot. Au bruit de la détonation, l\'Indien et son fils, s\'accrochant aux roches du cap, aux touffes poussées dans les fentes, pour abréger l\'escalade, étaient venus le rejoindre.
+
+Un second coup de canon retentit. Dans ces parages déserts, par ce temps déchaîné, quel secours espérait donc le malheureux navire ?
+
+« Il est dans l\'Ouest, dit Karroly en constatant que la détonation lui arrivait de ce côté.
+
+--- Et il marche tribord amures, approuva le Kaw-djer, car il s\'est rapproché du cap depuis le premier coup de canon.
+
+--- Il ne doublera pas, affirma Karroly.
+
+--- Non, répondit le Kaw-djer, la mer est trop dure... Pourquoi ne prend-il pas un bord au large ?
+
+--- Peut-être qu\'il ne le peut pas.
+
+--- C\'est possible, mais peut-être aussi n\'a-t-il pas aperçu la terre... Il faut la lui montrer... Un feu, allumons un feu ! » s\'écria le Kaw-djer.
+
+Fiévreusement ils se hâtèrent de réunir par brassées des branches sèches arrachées aux arbustes qui hérissaient les flancs du cap, les longues herbes et les varechs entassés par le vent dans les anfractuosités, et ils accumulèrent ce combustible à la cime de l\'énorme croupe.
+
+Le Kaw-djer battit le briquet. Le feu se communiqua à l\'amadou, puis aux brindilles, puis, activé par le vent, ne tarda pas à gagner tout le foyer. En moins d\'une minute, une colonne de flammes se dressa sur le plateau, se tordit en projetant une lueur intense, tandis que la fumée se rabattait vers le Nord en épais tourbillons. Au rugissement de la tempête se joignaient les crépitements du bois dont les noeuds éclataient comme des cartouches.
+
+Le cap Horn est tout indiqué pour porter un phare, qui éclairerait cette limite commune des deux océans. La sécurité de la navigation l\'exige, et bien certainement le nombre des sinistres, si fréquents en ces parages, en serait diminué.
+
+Nul doute que, à défaut de phare, le foyer allumé par la main du Kaw-djer n\'eût été vu. Le capitaine du navire ne pouvait ignorer à tout le moins qu\'il se trouvait à proximité du cap. Renseigné par ce feu sur sa position exacte, il lui serait possible de chercher le salut en se jetant dans les passes sous le vent de l\'île Horn.
+
+Mais quels épouvantables dangers comportait cette manoeuvre dans une obscurité si profonde ! Si aucun pratique de ces parages n\'était à bord, combien peu de chances avait-il de se diriger parmi les récifs !
+
+Cependant, le feu continuait à projeter sa lumière dans la nuit. Halg et Karroly ne cessaient de l\'alimenter. Le combustible ne manquait pas et durerait jusqu\'au matin, s\'il le fallait.
+
+Le Kaw-djer, debout en avant du foyer, essayait vainement de relever la position du navire. Soudain, par une brève déchirure des nuages, la lune illumina l\'espace. Un instant, il put apercevoir un grand quatre-mâts, dont la coque noire se découpait sur l\'écume de la mer. Le bâtiment courait à l\'Est, en effet, et luttait péniblement contre le vent et contre la mer.
+
+Au même instant, au milieu d\'un de ces silences qui séparent les rafales, de sinistres craquements se firent entendre. Les deux mâts d\'arrière venaient de se briser au ras de leurs emplantures. » Il est perdu ! s\'écria Karroly.
+
+--- À bord ! » commanda le Kaw-djer.
+
+Tous trois, dévalant, non sans risques, les talus du cap, atteignirent la grève en quelques minutes. Le chien sur leurs talons, ils embarquèrent dans la chaloupe, qui sortit de la crique, Halg au gouvernail, le Kaw-djer et Karroly aux avirons, car il n\'eût pas été possible de larguer un morceau de toile.
+
+Bien que les avirons fussent maniés par des bras vigoureux, la Wel-Kiej eut grand-peine à se dégager des récifs contre lesquels la houle brisait avec fureur. La mer était démontée. La chaloupe, secouée à se démembrer, bondissait, se renversait d\'un flanc sur l\'autre, se matait parfois, comme disent les marins, toute son étrave hors de l\'eau, puis retombait pesamment. De lourds paquets de mer embarquaient, s\'écrasaient en douches sur le tillac et roulaient jusqu\'à l\'arrière. Alourdie par cette charge d\'eau, elle risquait de sombrer. Il fallait alors que Halg abandonnât le gouvernail pour manier l\'écope.
+
+Malgré tout, la Wel-Kiej s\'approchait du navire dont on distinguait maintenant les feux de position. On en apercevait la masse qui tanguait comme une bouée gigantesque plus noire que la mer, plus noire que le ciel. Les deux mâts brisés, retenus par leurs haubans, flottaient à sa suite, tandis que le mât de misaine et le grand mât décrivaient des arcs d\'un demi-cercle, en déchirant les brumailles.
+
+« Que fait donc le capitaine, s\'écria le Kaw-djer, et comment ne s\'est-il pas débarrassé de cette mâture ? Il ne sera pas possible de traîner une pareille queue à travers les passes. »
+
+En effet, il était urgent de couper les agrès qui retenaient les mâts tombés à la mer. Mais, sans doute, le navire était en plein désordre. Peut-être même n\'avait-il plus de capitaine. On eût été tenté de le croire, en constatant l\'absence de toute manoeuvre dans une circonstance si critique.
+
+Cependant l\'équipage ne pouvait plus ignorer que le navire était affalé sous la terre et qu\'il ne tarderait pas à s\'y fracasser. Le foyer allumé au faîte du cap Horn jetait encore des flammes qui s\'échevelaient comme des lanières démesurées, lorsque le brasier s\'activait au souffle de la tourmente.
+
+« Il n\'y a donc plus personne à bord ! » dit l\'Indien, répondant à l\'observation du Kaw-djer.
+
+Il se pouvait après tout que le bâtiment eût été abandonné de son équipage, et que celui-ci s\'efforçât en ce moment de gagner la terre dans les embarcations. À moins qu\'il ne fût plus qu\'un énorme cercueil transportant des mourants et des morts dont les corps allaient se déchirer bientôt sur la pointe des récifs, puisque, durant les accalmies, pas un cri, pas un appel ne se faisait entendre.
+
+La Wel-Kiej arriva enfin par le travers du navire, au moment où il faisait une embardée sur bâbord, qui faillit la couler. Un heureux coup de barre lui permit de raser la coque le long de laquelle pendaient des agrès. L\'Indien put adroitement saisir un bout d\'aussière, qui fut, en un tour de main, amarrée à l\'avant de la chaloupe.
+
+Puis son fils et lui, le Kaw-djer ensuite enlevant dans ses bras le chien Zol, franchirent les bastingages et retombèrent sur le pont.
+
+Non, le navire n\'avait point été délaissé. Bien au contraire, une foule éperdue d\'hommes, de femmes et d\'enfants l\'encombrait. Étendus pour la plupart contre les roufs, dans les coursives, on eût compté plusieurs centaines de malheureux au paroxysme de l\'épouvante, et qui n\'auraient pu rester debout, tant les coups de roulis étaient insoutenables.
+
+Au milieu de l\'obscurité, personne n\'avait aperçu ces deux hommes et ce jeune garçon qui venaient de sauter à bord.
+
+Le Kaw-djer se précipita vers l\'arrière, espérant trouver l\'homme de barre à son poste... La barre était abandonnée. Le navire, à sec de toile, allait où le poussaient la houle et le vent.
+
+Le capitaine, les officiers, où étaient-ils donc ? Avaient-ils, lâchement, au mépris de tout devoir, déserté leur navire ?
+
+Le Kaw-djer saisit un matelot par le bras.
+
+« Ton commandant ? » interrogea-t-il en anglais.
+
+Cet homme n\'eut pas même l\'air de s\'apercevoir qu\'il était interpellé par un étranger et se borna à hausser les épaules.
+
+« Ton commandant ? reprit le Kaw-djer.
+
+--- Élingué par-dessus bord, et plus d\'un autre avec », dit le matelot d\'un ton d\'étrange indifférence.
+
+Ainsi le bâtiment n\'avait plus de capitaine, et une partie de son équipage lui manquait.
+
+« Le second ? » demanda le Kaw-djer.
+
+Nouveau haussement d\'épaules du matelot évidemment frappé de stupeur.
+
+« Le second ?... répondit-il. Les deux jambes cassées, la tête broyée, affalé dans l\'entrepont.
+
+--- Mais le lieutenant ?... le maître ?... où sont-ils ? »
+
+D\'un geste, le matelot fit entendre qu\'il n\'en savait rien.
+
+« Enfin, qui commande à bord ? s\'écria le Kaw-djer.
+
+--- Vous ! dit Karroly..
+
+--- À la barre donc, ordonna le Kaw-djer, et laisse arriver en grand ! »
+
+Karroly et lui revinrent en tout hâte à l\'arrière et pesèrent sur la roue, pour faire abattre le bâtiment. Celui-ci, obéissant péniblement au gouvernail, vint avec lenteur sur bâbord.
+
+« Brasse carré partout ! » commanda le Kaw-djer.
+
+Tombé dans le lit du vent, le navire avait pris un peu d\'erre. Peut-être réussirait-on à passer dans l\'Ouest de l\'île Horn.
+
+Où allait ce navire ?... On le saurait plus tard. Quant à son nom et à celui de son port d\'attache -- Jonathan, SAN-FRANCISCO -- il fut possible de les lire sur la roue, à la lueur d\'un falot.
+
+Les violentes embardées rendaient très difficile la manoeuvre du gouvernail, dont l\'action était, d\'ailleurs, peu efficace, le bâtiment n\'ayant qu\'une faible vitesse propre. Cependant, le Kaw-djer et Karroly essayaient de le maintenir dans la direction de la passe, en s\'orientant sur les derniers éclats que, pour quelques minutes encore, continuait à jeter le feu allumé au sommet du cap Horn.
+
+Mais, quelques minutes, il n\'en fallait pas plus pour atteindre l\'entrée du canal, qui se creusait, sur tribord, entre l\'île Hermitte et l\'île Horn. Que le bâtiment parvînt à parer les écueils émergeant dans la partie moyenne de ce canal, et il gagnerait peut-être un mouillage abrité du vent et de la mer. Là, on attendrait en sûreté jusqu\'au lever du jour.
+
+Tout d\'abord, Karroly, aidé de quelques matelots dont le trouble était si grand qu\'ils ne remarquèrent même pas que des ordres leur étaient donnés par un Indien, se hâta de couper les haubans et galhaubans de bâbord qui retenaient les deux mâts à la traîne. Leurs chocs violents contre la coque eussent fini par la défoncer. Les agrès tranchés à coups de hache, la mâture partit en dérive, et il n\'y eut plus à s\'en occuper. Quant à la Wel-Kiej, sa bosse la ramena vers l\'arrière de manière à prévenir toute collision.
+
+La fureur de la tempête s\'accroissait. Les énormes paquets de mer qui embarquaient par-dessus les bastingages augmentaient l\'affolement des passagers. Mieux aurait valu que tout ce monde se fût réfugié dans les roufs ou dans l\'entrepont. Mais le moyen de se faire entendre et comprendre de ces malheureux ? Il n\'y fallait pas songer.
+
+Enfin, non sans d\'effrayantes embardées qui exposaient tour à tour ses flancs aux assauts des lames, le bâtiment doubla le cap, frôla les récifs qui le hérissaient à l\'Ouest et, sous l\'impulsion d\'un morceau de toile hissé à l\'avant en guise de foc, passa sous le vent de l\'île Horn, dont les hauteurs le couvrirent en partie contre les violences de la bourrasque.
+
+Pendant cette accalmie relative, un homme monta sur la dunette et s\'approcha de la barre que manoeuvraient le Kaw-djer et Karroly.
+
+« Qui êtes-vous ? demanda-t-il.
+
+--- Pilote, répondit le Kaw-djer. Et vous ?
+
+--- Maître d\'équipage.
+
+--- Vos officiers ?
+
+--- Morts.
+
+--- Tous ?
+
+--- Tous.
+
+--- Pourquoi n\'étiez-vous pas à votre poste ?
+
+--- J\'ai été assommé par la chute des mâts. Je viens à peine de reprendre connaissance.
+
+--- C\'est bon. Reposez-vous. Mon compagnon et moi nous suffirons à la tâche. Mais, quand vous le pourrez, réunissez vos hommes. Il faut mettre de l\'ordre ici. »
+
+Tout danger n\'avait pas disparu, loin de là. Lorsque le navire arriverait à la pointe septentrionale de l\'île, il serait pris par le travers et de nouveau exposé à toutes les brutalités des lames et du vent, qui enfilaient le bras de mer entre l\'île Horn et l\'île Herschell. Aucun moyen, d\'ailleurs, d\'éviter ce passage. Outre que la côte du cap n\'offre aucun abri où le Jonathan pût mouiller, le vent, qui hâlait de plus en plus le Sud, ne tarderait pas à rendre intenable cette partie de l\'archipel.
+
+Le Kaw-djer n\'avait plus qu\'un espoir, gagner vers l\'Ouest et atteindre la côte méridionale de l\'île Hermitte. Cette côte, assez franche, longue d\'une douzaine de milles, n\'est pas dépourvue de refuges. Au revers de l\'une des pointes, il n\'était pas impossible que le Jonathan trouvât un abri. La mer redevenue calme, Karroly essaierait, en choisissant un vent favorable, de gagner le canal du Beagle, et de conduire le navire, bien qu\'il fût à peu près désemparé, à Punta-Arenas par le détroit de Magellan.
+
+Mais, que de périls présentait la navigation jusqu\'à l\'île Hermitte ! Comment éviter les nombreux récifs dont la mer est semée dans ces parages ? Avec la voilure réduite à un bout de foc, comment assurer la direction dans ces profondes ténèbres ?...
+
+Après une heure terrible, les dernières roches de l\'île Horn furent dépassées et la mer recommença à battre en grand le navire.
+
+Le maître d\'équipage, aidé d\'une douzaine de matelots, établit alors un tourmentin au mât de misaine. Il ne fallut pas moins d\'une demi-heure pour y réussir. Au prix de mille peines, la voile fut enfin hissée à bloc, amurée et bordée à l\'aide de palans, non sans que les hommes y eussent employé toute leur vigueur.
+
+Assurément, pour un navire de ce tonnage, l\'action de ce morceau de toile serait à peine sensible. Il la ressentit pourtant, et telle était la force du vent, que les sept ou huit milles séparant l\'île Horn de l\'île Hermitte furent enlevés en moins d\'une heure.
+
+Un peu avant onze heures, le Kaw-djer et Karroly commençaient à croire au succès de leur tentative, lorsqu\'un effroyable fracas domina un instant les hurlements de la bourrasque.
+
+Le mât de misaine venait de se rompre à une dizaine de pieds au-dessus du pont. Entraînant dans sa chute une partie du grand mât, il tomba en écrasant les bastingages de bâbord et disparut.
+
+Cet accident fit plusieurs victimes, car des cris déchirants s\'élevèrent. En même temps, le Jonathan embarqua une lame gigantesque et donna une telle bande qu\'il menaça de chavirer.
+
+Il se releva cependant, mais un torrent courut de bâbord à tribord, de l\'arrière à l\'avant, balayant tout sur son passage. Par bonheur, les agrès s\'étaient rompus, et les débris de la mature, emportés par la houle, ne menaçaient pas la coque.
+
+Devenu désormais une épave inerte en dérive, le Jonathan ne sentait plus sa barre.
+
+« Nous sommes perdus ! cria une voix.
+
+--- Et pas d\'embarcations ! Gémit une autre.
+
+--- Il y a la chaloupe du pilote ! » hurla un troisième.
+
+La foule se rua vers l\'arrière, où la Wel-Kiej suivait à la traîne.
+
+« Halte ! » commanda le Kaw-djer d\'une voix si impérieuse qu\'il fut obéi sur-le-champ.
+
+En quelques secondes, le maître d\'équipage eut établi un cordon de matelots, qui barra la route aux passagers affolés. Il n\'y avait plus qu\'à attendre le dénouement.
+
+Une heure après, Karroly entrevit une énorme masse dans la région du Nord. Par quel miracle le Jonathan avait-il suivi sans dommage le chenal séparant l\'île Herschell de l\'île Hermitte ? Le certain, c\'est qu\'il l\'avait franchi, puisqu\'il avait maintenant devant lui les hauteurs de l\'île Wollaston. Mais le flot se faisait alors sentir, et l\'île Wollaston fut presque aussitôt laissée sur tribord.
+
+Lequel serait le plus fort, du vent ou du courant ? Le Jonathan, poussé par le premier, allait-il passer à l\'Est de l\'île Hoste, ou bien, drossé par le second, la doubler par le Sud ? Ni l\'un, ni l\'autre. Un peu avant une heure du matin, un formidable choc l\'ébranla dans toute sa membrure, et il demeura immobile, en donnant une forte gîte sur bâbord.
+
+Le navire américain venait de se mettre au plein sur la côte orientale de cette extrémité de l\'île Hoste qui porte le nom de Faux cap Horn.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Première partie
+
+
+]{.calibre20}

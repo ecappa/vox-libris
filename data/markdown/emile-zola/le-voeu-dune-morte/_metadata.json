@@ -1,0 +1,184 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE VOEU D’UNE MORTE",
+  "slug": "le-voeu-dune-morte",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 514,
+      "spine_end_exclusive": 515,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 515,
+      "spine_end_exclusive": 516,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_040.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Prélude",
+      "slug": "prelude",
+      "spine_start": 516,
+      "spine_end_exclusive": 517,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_041.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 517,
+      "spine_end_exclusive": 518,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_042.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 518,
+      "spine_end_exclusive": 519,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_043.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 519,
+      "spine_end_exclusive": 520,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_044.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 520,
+      "spine_end_exclusive": 521,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 521,
+      "spine_end_exclusive": 522,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 522,
+      "spine_end_exclusive": 523,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 523,
+      "spine_end_exclusive": 524,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 524,
+      "spine_end_exclusive": 525,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 525,
+      "spine_end_exclusive": 526,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_050.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 526,
+      "spine_end_exclusive": 527,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 527,
+      "spine_end_exclusive": 528,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 528,
+      "spine_end_exclusive": 529,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_053.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 529,
+      "spine_end_exclusive": 530,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_054.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 530,
+      "spine_end_exclusive": 532,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_055.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_056.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-voeu-dune-morte/Zola2_image007.jpg"
+  ]
+}

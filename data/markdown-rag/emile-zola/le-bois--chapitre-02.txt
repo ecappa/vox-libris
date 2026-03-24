@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE BOIS"
+slug_oeuvre: "le-bois"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LE BOIS
+
+[Liste des contes et nouvelles
+
+!
+
+## II
+C'était une affaire. Paul emportait tout un attirail de peintre. Moi, j'avais simplement un livre dans la poche. Le train côtoyait la Bièvre, cette rivière puante, qui roule les eaux rousses des tanneries voisines. On traversait la plaine désolée de Montrouge, où se dressent les carcasses des grands treuils, nus sur l'horizon. Puis, Bicêtre apparaissait au flanc d'un coteau, en face, derrière des peupliers. La tête à la portière, nous respirions largement les premières odeurs d'herbe. C'était pour nous l'oubli de tout, l'oubli de Paris, l'entrée dans le paradis rêvé pendant les six jours de la semaine.
+
+Nous descendions à la station de Fontenay-aux-Roses. On trouve là une magnifique allée d'arbres. Puis, nous coupions à travers champs, ayant découvert un sentier, au bord d'un ruisseau. C'était exquis. À droite, à gauche, il y avait des champs de fleurs, des champs d'héliotropes et de roses surtout. Le pays est peuplé de jardiniers qui font pousser des fleurs, comme les paysans font ailleurs pousser le blé. On marche dans un parfum pénétrant, tandis que des femmes moissonnent les roses, les giroflées, les oeillets, que des voitures emportent à Paris.
+
+Vers huit heures, cependant, nous arrivions chez la mère Sens. Je crois que la bonne femme est morte aujourd'hui. La mère Sens tenait un cabaret, entre Fontenay-aux-Roses et Robinson. Toute une légende courait sur l'établissement. Une bande de peintres réalistes, vers 1845, l'avait mis à la mode. Courbet y régna un moment ; on prétendait même que la grande enseigne de la porte, un écroulement de viandes, de volailles et de légumes, était en partie due à son pinceau. En tout cas, c'était un aimable cabaret, qui alignait ses bosquets sous des arbres superbes, des bosquets d'une fraîcheur délicieuse, où l'on buvait du petit vin aigre dans des pots de terre, et où l'on mangeait des gibelottes de lapin renommées. Nous faisions là notre premier repas, au frisson un peu froid des ombrages, sur un bout de table noirci par la pluie, sans nappe. À cette heure matinale, nous étions seuls, parmi les servantes affairées, tuant les lapins et plumant les poulets pour le soir. Ah ! Que les oeufs frais étaient bons, dans ce réveil des beaux dimanches printaniers !
+
+Quand nous repartions, il commençait à faire chaud. Nous nous hâtions, laissant Robinson sur notre droite. Il nous fallait traverser d'immenses champs de fraises, avant d'arriver à Aulnay. Après les roses, les fraises. C'est la culture du pays, avec les violettes. On y vend les fraises à la livre, dans de vieilles balances vert-de-grisées. Le dimanche soir, on voit des familles qui viennent avec des saladiers, et qui s'installent au bord d'un champ, pour s'y donner une indigestion de fraises. Vers neuf heures, nous arrivions à Aulnay, un hameau, quelques maisons groupées le long d'un chemin. Là, s'ouvre la célèbre Vallée aux Loups, que le séjour de Chateaubriand a illustrée. Le chemin tourne, on entre dans un véritable désert. Ce chemin a dit éventrer une carrière de sable ; à droite, à gauche, des pentes s'élèvent, tandis qu'on enfonce dans un sol jaune, d'une finesse de poussière. Mais bientôt la gorge s'élargit, des rochers se dressent, au milieu de futaies, qui descendent en gradins. C'est à cet endroit, au fond de l'étroite vallée, que se trouve l'ancienne propriété de Chateaubriand ; l'habitation a d'étranges allures romantiques ; des fenêtres à ogives, des tourelles gothiques, semblent avoir été plaquées sur une maison bourgeoise. Pourtant, la route monte encore et devient de plus en plus sauvage ; des fondrières se creusent, des pins tordus poussent entre les rochers ; par les jours brûlants de juillet, on pourrait se croire dans un coin perdu de la Provence. Enfin, on débouche sur le plateau ; et, brusquement, un vaste horizon se déroule ; pendant que, au ras du ciel bleu, on a devant soi la ligne sombre du bois de Verrières.

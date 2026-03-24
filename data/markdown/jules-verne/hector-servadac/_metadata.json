@@ -1,0 +1,86 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "HECTOR SERVADAC",
+  "slug": "hector-servadac",
+  "nombre_chapitres": 45,
+  "structure": [
+    {
+      "title": "Note de J. Hetzel",
+      "slug": "note-de-j-hetzel",
+      "is_part": false,
+      "spine_start": 724,
+      "spine_end_exclusive": 725,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_341.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 725,
+      "spine_end_exclusive": 749,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_342.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_343.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_344.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_345.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_346.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_347.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_348.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_349.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_350.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_351.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_352.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_353.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_354.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_355.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_356.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_357.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_358.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_359.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_360.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_361.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_362.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_363.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_364.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_365.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 749,
+      "spine_end_exclusive": 769,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_366.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_367.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_368.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_369.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_370.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_371.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_372.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_373.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_374.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_375.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_376.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_377.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_378.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_379.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_380.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_381.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_382.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_383.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_384.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_385.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

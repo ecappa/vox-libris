@@ -1,0 +1,56 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MON SALON"
+slug_oeuvre: "mon-salon"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+MON SALON
+
+Liste des études biographiques et critiques
+
+] !
+
+## À mon ami Paul Cézanne
+J'éprouve une joie profonde, mon ami, à m'entretenir seul à seul avec toi. Tu ne saurais croire combien j'ai souffert pendant cette querelle que je viens d'avoir avec la foule, avec des inconnus ; je me sentais si peu compris, je devinais une telle haine autour de moi, que souvent le découragement me faisait tomber la plume de la main.
+
+Je puis aujourd'hui me donner la volupté intime d'une de ces bonnes causeries que nous avons depuis dix ans ensemble. C'est pour toi seul que j'écris ces quelques pages, je sais que tu les liras avec ton cœur, et que, demain, tu m'aimeras plus affectueusement.
+
+Imagine-toi que nous sommes seuls, dans quelque coin perdu, en dehors de toute lutte, et que nous causons en vieux amis qui se connaissent jusqu'au cœur et qui se comprennent sur un simple regard
+
+Il y a dix ans que nous parlons arts et littérature. Nous avons souvent habité ensemble, --- te souviens-tu ? --- et souvent le jour nous a surpris discutant encore, fouillant le passé, interrogeant le présent, tâchant de trouver la vérité et de nous créer une religion infaillible et complète. Nous avons remué des tas effroyables d'idées, nous avons examiné et rejeté tous les systèmes, et, après un si rude labeur, nous nous sommes dit qu'en dehors de la vie puissante et individuelle, il n'y avait que mensonge et sottise.
+
+Heureux ceux qui ont des souvenirs ! Je te vois dans ma vie comme ce pâle jeune homme dont parle Musset. Tu es toute ma jeunesse ; je te retrouve mêlé à chacune de mes joies, à chacune de mes souffrances. Nos esprits, dans leur fraternité, se sont développés côte à côte. Aujourd'hui, au jour du début, nous avons foi en nous, parce que nous avons pénétré nos cœurs et nos chairs.
+
+Nous vivions dans notre ombre, isolés, peu sociables, nous plaisant dans nos pensées. Nous nous sentions perdus au milieu de la foule complaisante et légère. Nous cherchions des hommes en toutes choses, nous voulions dans chaque œuvre, tableau ou poème, trouver un accent personnel. Nous affirmions que les maîtres, les génies, sont des créateurs qui, chacun, ont créé un monde de toutes pièces, et nous refusions les disciples, les impuissants, ceux dont le métier est de voler çà et là quelques bribes d'originalité.
+
+Sais-tu que nous étions des révolutionnaires sans le savoir ? Je viens de pouvoir dire tout haut ce que nous avons dit tout bas pendant dix ans. Le bruit de la querelle est allé jusqu'à toi, n'est-ce pas ? et tu as vu le bel accueil que l'on a fait à nos chères pensées. Ah ! les pauvres garçons, qui vivaient sainement en pleine Provence, sous le large soleil, et qui couvaient une telle folie et une telle mauvaise foi !
+
+Car, --- tu l'ignorais sans doute, --- je suis un homme de mauvaise foi. Le public a déjà commandé plusieurs douzaines de camisoles de force pour me conduire à Charenton. Je ne loue que mes parents et mes amis, je suis un idiot et un méchant, je cherche le scandale.
+
+Cela fait pitié, mon ami, et cela est fort triste. L'histoire sera donc toujours la même ? Il faudra donc toujours parler comme les autres, ou se taire ? Te rappelles-tu nos longues conversations ? Nous disions que la moindre vérité nouvelle ne pouvait se montrer sans exciter des colères et des huées. Et voilà qu'on me siffle et qu'on m'injurie à mon tour.
+
+Vous autres peintres, vous êtes bien plus irritables que nous autres écrivains. J'ai dit franchement mon avis sur les médiocres et les mauvais livres, et le monde littéraire a accepté mes arrêts sans trop se fâcher. Mais les artistes ont la peau plus tendre. Je n'ai pu poser le doigt sur eux sans qu'ils se mettent à crier de douleur. Il y a eu émeute. Certains bons gardons me plaignent et s'inquiètent des haines que je me suis attirées ; ils craignent, je crois, qu'on ne m'égorge dans quelque carrefour.
+
+Et pourtant je n'ai dit que mon opinion, tout naïvement. Je crois avoir été bien moins révolutionnaire qu'un critique d'art de ma connaissance qui affirmait dernièrement à ses trois cent mille lecteurs que M. Baudry était le premier peintre de l'époque. Jamais je n'ai formulé une pareille monstruosité. Un instant, j'ai craint pour ce critique d'art, j'ai tremblé qu'on n'allât l'assassiner dans son lit pour le punir d'un tel excès de zèle. On m'apprend qu'il se porte à ravir. Il paraît qu'il y a des services qu'on peut rendre et des vérités qu'on ne peut dire.
+
+Donc, la campagne est finie, et, pour le public, je suis vaincu. On applaudit et on fait des gorges chaudes.
+
+Je n'ai pas voulu enlever son jouet à la foule, et je publie « Mon Salon ». Dans quinze jours, le bruit sera apaisé, il ne restera aux plus ardents qu'une idée vague de mes articles. C'est alors que, dans les esprits, je grandirai encore en ridicule et en mauvaise foi. Les pièces ne seront plus sous les yeux des rieurs, le vent aura emporté les feuilles volantes de l'Événement, et on me fera dire ce que je n'ai pas dit, on racontera de grosses sottises que je n'ai jamais formulées. Je ne veux pas que cela soit, et c'est pourquoi je réunis les articles que j'ai donnés à *l'Événement* sous le pseudonyme de Claude. Je souhaite que « Mon Salon » demeure ce qu'il est, ce que le public lui-même a voulu qu'il fût.
+
+Ce sont là les pages maculées et déchirées d'une étude que je n'ai pu compléter. Je les donne pour ce qu'elles sont, des lambeaux d'analyse et de critique. Ce n'est pas une œuvre que je livre aux lecteurs, c'est en quelque sorte les pièces d'un procès.
+
+L'histoire est excellente, mon ami. Pour rien au monde, je ne voudrais anéantir ces feuillets ; ils ne valent pas grand-chose en eux-mêmes, mais ils ont été, pour ainsi dire, la pierre de touche contre laquelle j'ai essayé le public. Nous savons maintenant combien nos chères pensées sont impopulaires.
+
+Puis, il me plaît d'étaler une seconde fois mes idées. J'ai foi en elles, je sais que dans quelques années j'aurai raison pour tout le monde. Je ne crains pas qu'on me les jette à la face plus tard.
+
+Émile ZOLA.
+
+Paris, 20 mai 1866.

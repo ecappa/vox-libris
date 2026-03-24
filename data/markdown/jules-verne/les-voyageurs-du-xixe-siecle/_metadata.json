@@ -1,0 +1,53 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES VOYAGEURS DU XIXe SIÈCLE",
+  "slug": "les-voyageurs-du-xixe-siecle",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Noms des principaux voyageurs",
+      "slug": "noms-des-principaux-voyageurs",
+      "is_part": false,
+      "spine_start": 2528,
+      "spine_end_exclusive": 2529,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_453.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 2529,
+      "spine_end_exclusive": 2533,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_454.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_455.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0003.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_456.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 2533,
+      "spine_end_exclusive": 2538,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_457.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_458.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_459.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_460.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_461.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/les-voyageurs-du-xixe-siecle/imageVerneIV127.jpg"
+  ]
+}

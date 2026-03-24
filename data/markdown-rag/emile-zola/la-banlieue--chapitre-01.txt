@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA BANLIEUE"
+slug_oeuvre: "la-banlieue"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA BANLIEUE
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+Les Parisiens montrent aujourd'hui un goût immodéré pour la campagne. À mesure que Paris s'est agrandi, les arbres ont reculé, et les habitants, sevrés de verdure, ont vécu dans le continuel rêve de posséder, quelque part, un bout de champ à eux.
+
+Les plus pauvres trouvent le moyen d'installer un jardin sur leurs fenêtres ; ce sont quelques pots de fleurs qu'une planche retient ; des pois de senteur et des haricots d'Espagne montent, font un berceau. On loge ainsi le printemps chez soi, à peu de frais. Et quelle joie, lorsqu'on a des fenêtres ouvrant sur un des rares jardins que la pioche des démolisseurs a épargnés ! Mais le plus grand nombre désespère de cette heureuse chance. Le dimanche, la population, qui étouffe, en est réduite à faire plusieurs kilomètres à pied, pour aller voir la campagne, du haut des fortifications.

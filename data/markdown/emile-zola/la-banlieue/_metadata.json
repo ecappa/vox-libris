@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA BANLIEUE",
+  "slug": "la-banlieue",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1220,
+      "spine_end_exclusive": 1221,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_230.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1221,
+      "spine_end_exclusive": 1222,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_231.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1222,
+      "spine_end_exclusive": 1223,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_232.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1223,
+      "spine_end_exclusive": 1224,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_233.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1224,
+      "spine_end_exclusive": 1225,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_234.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1225,
+      "spine_end_exclusive": 1227,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_235.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_236.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-banlieue/Zola4_image019.jpg"
+  ]
+}

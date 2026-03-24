@@ -1,0 +1,260 @@
+### []{#_Toc343185864 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183403 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180942 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178481 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176020 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173559 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171098 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168637 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166176 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163715 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161254 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158793 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149523 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147062 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144599 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142138 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139677 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137215 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134754 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132293 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129831 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127370 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124906 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122445 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119984 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117530 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115067 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112606 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110145 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106401 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103939 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101476 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099051 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096582 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094120 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086717 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084254 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081792 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079331 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076868 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074405 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071939 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043979 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039083 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036718 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034353 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031988 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028432 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026067 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023702 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021336 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018970 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016605 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014240 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011873 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009508 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007143 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004778 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002413 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000048 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997683 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995318 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992953 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990588 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988223 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985856 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981126 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978761 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 10 -- Où il est prouvé que Johnson est un sage]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942780 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10-où-il-est-prouvé-que-johnson-est-un-sage .calibre171 .sigil_not_in_toc}
+
+L\'île de Saint-Michel affecte grossièrement la forme d\'une gourde très allongée. Au centre, dans les deux anses qui déterminent la partie resserrée de la gourde, deux villes : Ponta-Delgada, au sud ; Ribeira-Grande, au nord. Une route bonne et facile, qui ne dépasse pas deux cents mètres d\'altitude, réunit ces deux villes presque égales par le nombre de leurs habitants, et distantes l\'une de l\'autre de dix-huit kilomètres environ.
+
+Mais le reste de l\'île, à droite et à gauche de cette dépression, se profile en crêtes plus élevées. Au deuxième jour était réservée la partie de l\'ouest, après une nuit passée à Ribeira-Grande, où des montures de relais seraient amenées de Ponta-Delgada. Le premier jour devait suffire à visiter la partie orientale.
+
+En tenant compte des sinuosités de la route, c\'était pour chaque journée un trajet d\'une quarantaine de kilomètres. Tâche assez rude en somme Renseignements pris auprès de Robert et des guides, Thompson avait cru devoir avancer à six heures et demie le départ fixé à huit heures par le programme.
+
+Cette décision lui valut une scène terrible d\'Hamilton et de Saunders. Les deux acolytes se plaignirent avec violence de ces continuels changements à un programme, qui aurait dû cependant faire la loi des parties.
+
+« Et, monsieur, retenez bien ceci, avait conclu Saunders en détachant les syllabes : Je-ne-par-ti-rai-pas-à-six-heures-et-demie !
+
+--- Ni moi non plus, avait signifié le baronnet jaloux d\'égaler son modèle, et Lady Hamilton ne partira pas plus que moi, et Miss Hamilton pas plus que sa mère. Nous serons tous sur le quai à huit heures précises, ainsi que le spécifie votre programme, et nous comptons y trouver les moyens de transport qu\'il promet. Tenez-vous-le pour dit ! »
+
+Les observations d\'Hamilton et de Saunders étaient peut-être fondées, mais Thompson, malgré tout son désir de contenter ses passagers, se sentait à bout de patience avec ces deux-là. Il se borna à les saluer sèchement sans leur accorder la moindre réponse.
+
+Laissant à bord la jeune Thargela, la cavalcade, entièrement pareille à celle de Fayal, s\'ébranlait le lendemain à sept heures précises, au signal de Thompson. On pouvait y remarquer de nombreuses désertions.
+
+Absent, le jeune ménage. Absent, le craintif Johnson, qui continuait à fuir les tremblements de terre.
+
+« Il n\'en a pourtant pas besoin pour osciller sur sa base ! » se permit de faire observer Roger.
+
+Absents également, les Hamilton et Saunders. Absentes, enfin, deux ou trois passagères, auxquelles l\'âge interdisait une excursion de si longue haleine.
+
+La colonne ne comptait au total que cinquante-quatre touristes, en y comprenant don Hygin da Veiga, dont les deux frères avaient préféré rester à bord.
+
+C\'est grâce à don Hygino que Blockhead figurait parmi les excursionnistes. Thompson l\'en aurait impitoyablement écarté, si le Portugais n\'avait intercédé pour lui, en promettant pour le matin même la guérison de l\'intéressant malade. Sur cette assurance, l\'épicier honoraire avait été admis, mais à la condition qu\'il se tiendrait invariablement à cent mètres derrière le dernier rang. Il s\'avançait donc seul, sans autre compagnie que son âne et son ânier, et ne paraissait pas d\'ailleurs autrement fâché de sa situation anormale. Blockhead était de ceux-là qui savent s\'intéresser à tout, prendre toujours le bon côté des choses. Heureux caractère aux antipodes de celui du quinteux Hamilton !
+
+Sortis de la ville par l\'est, les touristes, à huit heures, arrivèrent dans la campagne. Ils purent alors se croire revenus aux environs de Horta. Mêmes champs de céréales et de légumes. Dans le fond, les mêmes essences d\'arbres s\'élevaient en masses verdoyantes. Toutefois, une différence essentielle s\'accusa bientôt entre Fayal et Saint-Michel, et tout en faveur de la seconde île. Ici, plus d\'espaces arides, mais au contraire pas un pouce de terre cultivable qui ne fût cultivé. Plus de taillis rabougris sur les sommets que laissait apercevoir la coupée des vallées, mais de superbes futaies de sapins, admirable résultat des incessants efforts de l\'administration locale, qui, depuis cinquante ans, reboise sans se lasser par milliers et par milliers de pieds.
+
+Un peu avant midi la caravane déboucha à l\'orée d\'une vaste vallée.
+
+« Le Val das Fumas », dit le guide de tête.
+
+Entourée d\'une ceinture de montagnes arides, la Vallée des Fournaises affecte presque parfaitement la forme d\'un grand cercle d\'environ trois kilomètres de rayon. Vers le sud-est, la ligne des montagnes s\'abaisse, pour laisser fuir une rivière qui, par une étroite coupure, pénètre dans la vallée au nord-est.
+
+Les touristes remontèrent cette rivière, la Ribeira-Quente, ou Rivière chaude, aux rives consacrées à la culture des primeurs, jusqu\'aux sources thermales situées au-delà d\'un village, dont, à deux kilomètres, ils apercevaient les toits dorés par le soleil.
+
+Ce coin de pays est singulier. De tous côtés des sources surgissent, les unes chaudes, les autres froides, mais toutes à un degré remarquable de minéralisation. Certaines, réduites à un imperceptible filet d\'eau, ont reçu des indigènes le nom de Olhas, les yeux. D\'autres sont plus importantes. L\'une de celles-ci sourd dans un bassin en forme de vasque. À grand bruit, elle lance à près d\'un mètre de hauteur une colonne d\'eau bouillante, dont la température s\'élève à 105°C. Tout autour d\'elle, l\'atmosphère est obscurcie d\'épaisses vapeurs sulfureuses, qui se déposent sur le sol et recouvrent brins d\'herbe, plantes et fleurs d\'une véritable croûte pierreuse.
+
+Blockhead, sur la pressante invitation de Thompson, dut affronter ces vapeurs. Telle était, en effet, la cure imaginée par don Hygino, qui se contentait en somme d\'appliquer un remède populaire à Saint-Michel, et que l\'instinct des animaux incommodés par les parasites a dès longtemps montré à la raison humaine.
+
+Remède énergique à coup sûr. Au vent de la source, à peine si l\'on pouvait en endurer la chaleur. Blockhead cependant n\'hésita pas et disparut bravement derrière le rideau de vapeurs brûlantes. Au fond, il n\'était pas fâché de tâter de ce remède insolite.
+
+Quand Blockhead sortit de son étuve, peut-être n\'était-il pas guéri, mais du moins il était cuit indubitablement. Congestionné, la sueur tombant de son visage en ruisseaux sur le sol, il reparut dans un état lamentable.
+
+Son supplice n\'était pas fini, cependant. Sur l\'indication de don Hygino, les touristes se réunirent près d\'une autre source, à une dizaine de mètres de la première. Plus farouche encore, cette deuxième source, qui a reçu le nom de Pedro Botelho, bouillonne au fond d\'une sorte de caverne, que les indigènes croient fermement être une des bouches de l\'enfer. Le fait est que, au fond de cette caverne, l\'eau invisible siffle d\'une manière effrayante, tandis que s\'écoule au-dehors une énorme quantité de boue savonneuse, sur laquelle comptait don Hygino pour achever la guérison de son malade.
+
+Par son ordre, Blockhead, ayant quitté ses vêtements, fut plongé à de nombreuses reprises dans cette boue, dont la température atteint au moins quarante-cinq degrés centigrades. Le malheureux Blockhead n\'en pouvait littéralement plus, et bientôt il se mit à pousser de véritables hurlements, couverts par les bruyants éclats de rire de ses peu charitables compagnons.
+
+Mais, à ces cris, à ces rires, un grondement effroyable répond. De la caverne, une épaisse fumée s\'échappe, sillonnée de menaçantes langues de feu, tandis qu\'une gerbe d\'eau s\'élève dans les airs, et retombe en pluie brûlante sur les audacieux visiteurs.
+
+Terrifiés, ceux-ci avaient fui. Pour leur rendre courage, il fallut l\'assurance des guides que ce phénomène se produisait souvent et avec d\'autant plus de violence que le bruit fait aux environs de la source était lui-même plus grand, sans que personne ait jamais pu en donner une explication acceptable.
+
+Quant à Blockhead, il avait profité de la panique pour fuir son bain de boue. Déjà, il se roulait dans la Ribeira-Quente, dont les eaux, plus que tièdes cependant, lui paraissaient délicieusement glacées.
+
+Maintenant, le remède indiqué par don Hygino a-t-il réellement les propriétés que lui attribuent les indigènes ? Ou bien Absyrthus Blockhead n\'avait-il eu qu\'une maladie imaginaire ? On ne tranchera pas la question. Le certain, c\'est que l\'épicier honoraire fut considéré comme guéri à partir de cet instant et put reprendre part à la vie commune.
+
+Après le déjeuner fourni à grand-peine par le village, déjeuner qui, tout en ressemblant beaucoup au repas champêtre de Fayal, fut néanmoins un peu moins fantaisiste, la colonne vers deux heures se reforma. Elle allait partir, on avait même déjà fait les premiers pas, quand une seconde caravane déboucha à son tour dans le village.
+
+Diminutif de la première, celle-ci ne comprenait en tout que huit personnes. Mais aussi quelles personnes ! Rien de moins que Saunders, Sir, Lady et Miss Hamilton, accompagnés de leurs quatre guides, partis tous à la minute réglementaire, c\'est-à-dire avec six quarts d\'heure de retard qu\'ils avaient soigneusement conservés.
+
+Gravement, Hamilton et Saunders, descendus de leurs montures, s\'avancèrent vers Thompson qui sifflotait d\'un air détaché entre ses dents.
+
+« Pouvons-nous espérer, monsieur, dit Saunders, trouver ici à déjeuner ?
+
+--- Ma foi, monsieur, je l\'ignore, répondit Thompson avec une charmante désinvolture. Si vous voulez bien vous adresser à ce brave aubergiste que vous voyez sur sa porte, il pourra peut-être vous satisfaire\... Si toutefois ces messieurs et ces dames ont laissé dans le pays quelque chose à se mettre sous la dent. »
+
+Thompson s\'émancipait. Il redressait la tête. Il secouait le joug Hamilton fut étrangement surpris de ces velléités d\'indépendance. Aussi, quel regard il lança ! Saunders espéra voluptueusement qu\'à défaut d\'un mets plus civilisé, le terrible baronnet apaiserait sa faim aux dépens de l\'audacieux administrateur.
+
+Mais celui-ci avait nonchalamment tourné le dos, et, sans autre formalité, il avait donné à ses fidèles le signal du départ.
+
+En quittant le Val das Fumas, la caravane côtoya pendant quelque temps le lac du même nom, remplissant une dépression ovale qui fut autrefois un cratère. Elle dut ensuite remonter un sentier en lacet qui l\'amena graduellement jusqu\'aux plateaux supérieurs. Cette ascension fut assez fatigante. Bientôt, le pied des animaux foula, avec un bruit de linge froissé, un sol friable et sec composé uniquement d\'une sorte de cendre grise qui s\'écrasait en crépitant sous leurs sabots.
+
+« La Lagoa secca, annonça le guide de tête.
+
+--- La Lagune sèche, traduisit Robert. Nous sommes ici sur l\'emplacement d\'un ancien cratère auquel un lac, d\'une étendue de deux cents hectares et d\'une profondeur de trente mètres, s\'était autrefois substitué. Ce lac disparut à son tour et le cratère fut nivelé par l\'éruption de 1563 qui bouleversa cette partie de l\'île. Ce fut au cours de cette éruption qu\'une montagne entière, le mont Volcao, s\'abîma dans les entrailles du sol. À sa place s\'étend aujourd\'hui le lac \"[\&nbsp;]{style="text-indent: 0px; font-size: 1em;"}do Fogo \", ou lac du Feu. Je pense que nous le verrons tout à l\'heure. »
+
+On le vit en effet. On en vit même beaucoup d\'autres. On en vit trop. Ce n\'étaient que cratères transformés en lacs, les uns atteignant cent et deux cents mètres de profondeur, les autres n\'en dépassant pas deux ou trois. À la longue, cela devenait monotone.
+
+Il était nuit close quand, par de raides sentiers, on descendit sur la ville de Ribeira-Grande. Les touristes, brisés de fatigue, prirent à peine le temps de dîner dans un misérable hôtel où les montures de rechange attendaient pour l\'excursion du lendemain Tout de suite, ils réclamèrent leurs lits. Mais ce n\'est pas à Ribeira-Grande qu\'un seul hôtel peut loger une troupe aussi nombreuse. Il fallut se séparer, et vraiment il était fort heureux que le cantonnement eût été, cette fois, préparé à l\'avance.
+
+« Rendez-vous à sept heures précises pour le départ », avait déclaré Thompson.
+
+Hélas ! Que de manquants à ce rendez-vous ! Il fallut battre le rappel. Thompson d\'un côté, Robert de l\'autre, galopèrent à travers la ville à la poursuite des réfractaires. Peine perdue, le plus souvent. Tous se déclaraient perclus et se plaignaient amèrement que des escadrons de belliqueuses punaises eussent, par des charges irrésistibles, rendu tout sommeil impossible. C\'est tout juste si Thompson et son lieutenant parvinrent à réunir le tiers de leurs voyageurs. Vingt-deux touristes, voilà ce qui restait de l\'imposante caravane ! Et encore la plupart de ces intrépides avaient-ils piteuse mine.
+
+Parmi ces vingt-deux braves figurait naturellement la famille Lindsay. Ce n\'est pas ces voyageurs aguerris qu\'une étape de quarante kilomètres pouvait abattre. Et de même Roger de Sorgues, fidèle cavalier servant de la rieuse Dolly.
+
+Et de même Blockhead et sa famille. L\'épicier honoraire pouvait-il manquer une occasion d\'exercer ses facultés d\'admiration ? Bon gré, mal gré, il avait entraîné sa femme et ses filles, qui s\'avançaient d\'un pas un peu raide peut-être en entraînant Tigg à leur tour.
+
+Quant à Saunders et au trio des Hamilton, correctement arrivés la veille à Ribeira-Grande avec une heure et demie de retard, ceux-ci n\'auraient eu garde de manquer à un seul des articles du programme. Morts ou vifs, ils achèveraient l\'excursion. Par exemple, fidèles à leurs immuables principes, ils ne partiraient qu\'à l\'heure dite.
+
+Le programme annonçant le départ pour huit heures, c\'est donc à huit heures seulement qu\'ils prirent possession de leurs nouvelles montures, et la plaisanterie de la veille eût certainement recommencé sans la paresse de leurs compagnons.
+
+De régiment devenue bataillon, de bataillon compagnie, de compagnie simple escouade, la colonne des touristes laissa rapidement derrière elle les extrêmes maisons de Ribeira-Grande. Venus tard, partis tôt, ces intrépides voyageurs ne devaient rien connaître de cette ville dont la population dépasse treize mille âmes. Devaient-ils le regretter ? Guère. En dehors de ses sources, bien inférieures à celles du Val das Fumas, ce grand village sale et mal bâti ne possède rien d\'intéressant.
+
+Pendant une demi-heure, le chemin se développa dans un pays assez plat parsemé de nombreux cônes volcaniques. Mais bientôt le sol se releva. On entrait de nouveau dans la région des montagnes La campagne conservait son caractère de richesse et de fécondité. Tout disait le patient travail humain. Pas une crête qui n\'eût été boisée, pas un coin de terre cultivable qui ne fût cultivé.
+
+Dans ce district de l\'Ouest, la population paraissait plus dense. À chaque instant on croisait des couples de paysans. Majestueusement, l\'homme marchait le premier, son épouse, à dix mètres derrière lui, trottinant avec humilité. Timides, effacées, dissimulées dans leur vaste manteau au capuchon moins grand, mais plus fermé que celui de Fayal, elles passaient, ces femmes, comme des fantômes, sans que l\'on pût distinguer leur visage. À mesure qu\'on s\'éloignait des centres populeux, les capuchons se fermaient davantage. Et même, comme vers dix heures ils traversaient un village, les touristes virent avec étonnement, les femmes, à leur approche, se retourner modestement contre les murailles.
+
+« Faut-il qu\'elles soient laides ! » observa Dolly, trouvant de ces exagérations de pudeur une raison bien féminine.
+
+À la sortie de ce village, la route se fit sentier, tandis que la pente s\'accentuait notablement. Quatre cents mètres au-dessus d\'eux, les touristes distinguèrent alors la crête de la montagne, dont le flanc leur cachait l\'horizon. Grimpant péniblement les lacets du raidillon, ils arrivèrent à mi-côte, mais alors tous implorèrent un moment de repos. Depuis le matin, vingt kilomètres avaient été franchis dans des conditions très fatigantes. Porteurs et portés étaient à bout de forces.
+
+Un quart d\'heure plus tard, la colonne allait se remettre en route, quand un bruit confus s\'éleva vers le sommet de la montagne En même temps, un nuage de poussière se formait et se déplaçait rapidement, en paraissant suivre les méandres du sentier.
+
+Le bruit inexplicable croissait de seconde en seconde. Des sons bizarres s\'en échappaient. Beuglements ?
+
+Hurlements ? Aboiements ? Les guides eux-mêmes parurent inquiets.
+
+Poussant leurs montures à l\'abri d\'une masure abandonnée, qui, par fortune, se trouvait à proximité, tous furent bientôt en sûreté. Au malheureux Blockhead seul, le temps manqua. La croupe de son âne faisait encore saillie sur l\'angle de la maison, quand l\'orage de poussière arriva comme la foudre. Cela suffit. En un instant, l\'infortuné épicier honoraire fut soulevé, emporté -- disparut !
+
+Ses compagnons poussèrent un cri de terreur.
+
+Mais la trombe déjà était passée, portant plus loin sa fureur dévastatrice, et Blockhead se relevait, en éternuant, mais sans blessure apparente.
+
+On s\'était précipité vers lui. Il ne semblait pas ému. Sur sa placide figure se lisait seulement un réel étonnement. Et, tandis que son regard émerveillé suivait le nuage de poussière qui dégringolait la pente, une exclamation imprévue sortait des lèvres du voyageur malmené.
+
+« Quels cochons ! » disait Blockhead, avec un accent de vive admiration.
+
+Certes, ce qui venait de lui arriver était désagréable. Ses compagnons trouvèrent cependant l\'expression un peu forte. On sait se contenir, que diable ! Les dames se détournèrent en étouffant des rires.
+
+Toutefois, après explication, il fallut bien innocenter Blockhead. C\'étaient bien des cochons, de véritables porcs, dont il avait subi le redoutable assaut. Quant à l\'origine de cette panique, quant à la cause qui avait transformé en catapulte irrésistible cette bande d\'animaux ordinairement inoffensifs, les guides eux-mêmes ne s\'en doutaient pas.
+
+Il était juste midi quand les touristes parvinrent à la crête. Comme au sommet de la chaudière de Fayal, la grandeur du spectacle les arrêta sur place.
+
+Dépassant tout ce que l\'imagination peut concevoir, le sol devant eux se creusait en une cuvette immense profonde de quatre cents mètres et dessinant un ovale étonnamment régulier de vingt-huit kilomètres de pourtour. Au-delà de la crête étroite, la descente suivait immédiatement la montée. Les pentes intérieures, parées de la plus magnifique végétation, conduisaient doucement jusqu\'au fond de la paradoxale dépression, au milieu de laquelle un village délicieux se grisait de soleil, baigné par deux lacs aux eaux plus bleues que le ciel.
+
+Franchissant les limites de cet abîme, l\'oeil parcourait librement l\'île tout entière. Vers le nord, c\'était un chaos d\'escarpements semés de bouquets d\'orangers, puis, plus loin, des champs et des maisons ; vers l\'est, un océan de sommets, et la campagne, tantôt verdoyante, tantôt sillonnée de noirs et sauvages ravins ; au-delà enfin des rivages de Saint-Michel, on distinguait, taches du miroir immense de la mer, les contours vagues de Tercère au nord-ouest et de Sainte-Marie au sud-est.
+
+L\'heure ne permettant pas une halte trop longue, on se dirigea rapidement vers le village. À mesure qu\'on s\'en approchait, le charme s\'évanouissait peu à peu. Il disparut quand on parvint aux maisons. Ni plus ni moins sale, boueux et misérable que les autres, ce village ennobli de loin dans la gloire décevante du soleil.
+
+« Les Sept-Cités », avait dit Robert.
+
+Et vraiment ce nom pompeux allait bien à cette agglomération de lamentables masures. « Pourvu qu\'on y trouve à déjeuner ! » grinça Roger entre ses dents.
+
+Les ressources limitées du village suffirent pourtant à la troupe réduite des touristes. Une heure et demie plus tard, restaurés tant bien que mal, ceux-ci purent s\'engager sur la route du retour. De visiter les volcans, les ravins, les précipices nombreux dans la vallée du cratère, il ne fut pas question, non plus que d\'aller admirer les cascades pittoresques qu\'il contient. Le temps manquait.
+
+« C\'est très anglais, cette façon de voyager, fit gaiement observer Roger à son compatriote. Voir quelque chose ? Pourquoi faire, du moment qu\'on avale sa ration de kilomètres ? »
+
+Onze milles environ séparent le village des Sept-Cités de Ponta-Delgada. Partis vers trois heures de l\'après-midi, les voyageurs devaient franchir aisément cette distance avant le coucher du soleil.
+
+Entrés dans la vallée par le nord, ils en remontaient maintenant les pentes méridionales, non sans jeter de temps à autre un regard de regret vers le village, dont la grâce renaissait à mesure qu\'augmentait l\'éloignement.
+
+Pendant cette première partie de la route, pas un mot ne fut échangé. Penchés sur le cou de leurs mulets, cramponnés à leurs selles, tous se taisaient, absorbés par la pénible ascension du sentier pierreux. Aussi, quel soupir de soulagement, quand, parvenus à la crête, ils reçurent en plein visage la brise de mer, dont les flots lointains miroitaient six cents mètres plus bas ! Les langues se délièrent. Et de quoi aurait-on parlé, si ce n\'est du spectacle qu\'on venait de contempler ?
+
+« Pourriez-vous nous dire, monsieur le professeur, demanda Thompson à Robert, quelle est l\'origine de l\'abîme que nous venons de traverser, et d\'où lui vient son nom de \" Sept-Cités \" ?
+
+--- Mon Dieu, monsieur, répondit Robert, l\'origine est toujours la même. Il s\'agit toujours de volcans éteints, dont la pluie a plus ou moins empli le cratère. Celui-là est plus vaste que les autres, voilà tout. Quant à ce nom de \" Sept-Cités \", c\'est probablement un souvenir des sept villes fondées dans l\'île fantastique d\'Antilia par les sept évêques légendaires qui s\'exilèrent du Portugal lors de l\'invasion des Maures. Suivant une croyance populaire, les villes fondées par ces évêques se seraient englouties dans la mer avec l\'île fabuleuse qui les portait. Le peuple a voulu sans doute perpétuer la légende, en nommant ainsi ce cratère, dont l\'origine fut pareillement un effondrement du sol, au cours de l\'éruption de 1445.
+
+--- Si près de nous ! s\'écria Thompson avec une sorte de crainte qui rappelait les terreurs de Johnson. Je suppose du moins que ces phénomènes ont depuis longtemps cessé ?
+
+--- Oui et non, dit Robert. D\'autres éruptions très violentes ont eu lieu en 1522 et en 1652. En outre, l\'île de Saint-Michel, et surtout la partie ouest où nous nous trouvons, est particulièrement exposée aux convulsions volcaniques. La dernière alerte sérieuse date de 1811. C\'est assez récent.
+
+--- Cela fait tout juste quatre-vingt-dix-neuf ans, j\'ose le dire ! s\'écria Thompson sérieusement alarmé cette fois, après un silence consacré à un rapide calcul.
+
+--- Pas davantage », répondit philosophiquement Robert.
+
+Mais Thompson voulait être rassuré.
+
+« Enfin, pensez-vous, monsieur le professeur, dit-il encore, que de pareilles catastrophes puissent de nouveau se produire ?
+
+--- Ma foi, monsieur, je n\'en sais absolument rien, répondit Robert en souriant. Il est certain qu\'aux Açores comme ailleurs l\'activité volcanique a une grande tendance à décroître. Cependant\... »
+
+Robert n\'eut pas le temps d\'achever. Comme si le sol eût subitement manqué sous leurs pieds, hommes et animaux furent renversés en un amas confus. Personne heureusement n\'avait le moindre mal. En un instant tous furent debout.
+
+« Voilà la réponse », dit Robert à Thompson.
+
+Mais, tout à coup, l\'un des guides poussa un cri terrible, en étendant le bras vers la crête, puis, ce cri lancé, s\'enfuit à toutes jambes vers la vallée, comme affolé par l\'épouvante.
+
+Un effroyable danger menaçait en effet les touristes. À moins de cent mètres, directement au-dessus d\'eux, le sol était travaillé par de terrifiantes convulsions. Au milieu de grondements, de rugissements pareils à ceux de cent ménageries de fauves, il se soulevait comme la mer, entrechoquant ses lourdes vagues de sable. Déjà le soleil se cachait derrière un opaque nuage de poussière.
+
+Les malheureux voyageurs étaient à ce moment engagés entre deux énormes rochers, dont les parois à pic formaient une sorte de couloir large de cinq cents mètres environ sur une longueur à peu près égale. À la suite de leurs guides, ils se précipitèrent vers le rocher de droite, à l\'abri d\'un pan énorme, dont la saillie pourrait peut-être les sauver.
+
+Il était temps.
+
+Avec un horrible déchirement, les terres désunies prirent leur élan sur la pente. Un morceau de montagne s\'écroulait, tombait. Faible d\'abord, la vitesse de l\'avalanche s\'accéléra de mètre en mètre, devint vertigineuse. Le vacarme se fit assourdissant.
+
+Les touristes, coeurs serrés, bouches closes, mains étreintes, de toute leur âme regardaient. Le météore passa.
+
+Du premier choc, le rocher protecteur fut emporté. Perdu dans le tourbillon, il devint l\'un des projectiles avec lesquels la montagne bombardait la vallée. Désormais, rien ne défendait plus les voyageurs, et le troupeau déchaîné des rocs roula en tempête à quelques pouces de leurs poitrines désarmées.
+
+En vingt secondes, tout fut terminé Mais depuis longtemps la nature avait retrouvé son calme immense, que pas un geste n\'avait encore rompu la raide immobilité des spectateurs épouvantés du cataclysme. Les uns couchés au bas de la formidable muraille de rochers, les autres debout, les bras en croix, le dos appliqué contre elle, en un surhumain effort pour diminuer l\'épaisseur de leur corps, la vie semblait les avoir abandonnés.
+
+La première qui reprit possession du réel fut Alice Lindsay. Tout à coup, elle se vit blottie dans une anfractuosité des rochers. Comment était-elle venue là ? Qui l\'y avait portée ? Son beau-frère ? N\'était-ce pas plutôt Robert, qui, sans même en avoir conscience, continuait à la protéger en la couvrant de son corps ?
+
+« Voilà déjà deux fois, si l\'on compte l\'émeute de Tercère, que je vous dois de la reconnaissance », lui dit-elle en se dégageant.
+
+Robert n\'eut pas l\'air de comprendre.
+
+« Vraiment, madame, vous ne m\'en devez pas plus qu\'à tout autre que le hasard dans ces deux circonstances aurait placé près de vous. »
+
+Le mouvement d\'Alice avait rompu le charme qui paralysait ses compagnons. Tous se secouèrent, s\'ébrouèrent, et peu à peu les coeurs recommencèrent leur battement régulier.
+
+Pour revenir à Ponta-Delgada, il ne pouvait plus être question de sentier. Nivelée par l\'assaut furieux des terres et des rochers, la montagne s\'abaissait désormais en une pente régulière que parsemaient une infinité de blocs arrêtés dans leur chute. Fait plus grave, la plupart des montures avaient péri. Ce qu\'il en restait fut réservé aux femmes, et l\'on s\'aventura avec précaution sur ce sol raviné.
+
+Avant le départ, cinq ou six guides, réunissant leurs voix, avaient appelé leur camarade disparu. Vains étaient restés leurs appels. Dans sa fuite insensée vers la vallée, le malheureux, ce n\'était que trop certain, avait été rejoint par l\'avalanche, et maintenant où dormait-il sous son lourd linceul de vingt mètres de terre ?
+
+On se remit en chemin sans perdre de temps. Il convenait de se hâter, ce qui venait d\'arriver pouvant se produire encore. Toutefois, la marche était forcément lente dans ce sol défoncé, et l\'on ne put regagner la route avant la nuit. Dix kilomètres séparaient encore ce point de Ponta-Delgada. En deux heures, cette distance fut franchie, et vingt minutes avant neuf heures les touristes montaient à bord du Seamew, brisés de fatigue, mais sains et saufs.
+
+Leurs compagnons, revenus de Ribeira-Grande par la route, s\'y trouvaient depuis longtemps. Ils s\'applaudirent fort de leur paresse, quand ils connurent les incidents de cette journée.
+
+Pourtant, plus qu\'eux encore, il en fut un qui triompha. Et celui-là, ce fut Johnson, dont la résolution n\'était pas si bête après tout.
+
+« Il paraît donc, monsieur, dit-il à Robert sans aucune modestie, que vous avez failli y rester tous aujourd\'hui ?
+
+--- En effet, monsieur.
+
+--- Eh ! Eh ! reprit Johnson, il m\'en serait arrivé autant, si j\'avais eu la sottise de vous suivre !
+
+--- C\'est probable, monsieur, répondit Robert. Veuillez toutefois remarquer que nous sommes tous revenus à bon port.
+
+--- Sauf un guide, pourtant, à ce que j\'ai entendu dire, riposta Johnson sans s\'émouvoir. Les autres, ce sera pour une autre fois ! Mais dites-moi donc, s\'il vous plaît, monsieur, en quittant Saint-Michel, nous allons à Madère, n\'est-ce pas ?
+
+--- À Madère, oui, monsieur, répondit Robert, sans savoir où l\'original voulait en venir.
+
+--- Et, à Madère, y a-t-il aussi des tremblements de terre ?
+
+--- Je ne le pense pas, dit Robert.
+
+--- Bon, fit Johnson. Nous disons donc qu\'il n\'y a absolument rien à craindre dans cette île délicieuse.
+
+--- Mon Dieu, répondit Robert, non\... Je ne vois pas\... Non\... Sauf peut-être les inondations\...
+
+--- Des inondations ! Interrompit Johnson. Vous avez dit : inondations ? Il y en a donc ?
+
+--- Quelquefois.
+
+--- Fort bien, conclut froidement Johnson. Alors, monsieur, notez cela dans vos papiers, ajouta-t-il en scandant ses mots : Je ne mettrai pas les pieds dans votre damnée île de Madère ! »
+
+Et l\'incorrigible poltron, tournant les talons, réintégra le coffee-room, où sa voix résonna bientôt, demandant quelque boisson apéritive et réconfortante.
+
+Pendant que Johnson triomphait ainsi, une bien désagréable surprise accablait Thompson au contraire.
+
+Il était à peine à bord, qu\'une grande embarcation accostait le Seamew. En un instant, le pont fut envahi par une vingtaine d\'agents de police conduits par un haut officier.
+
+« Monsieur, prononça sèchement l\'officier dans un anglais passable, l\'aviso à vapeur le Camoens vient d\'arriver dans notre port. Il nous apporte le récit des faits inqualifiables dont la rade d\'Angra a été le théâtre. Je n\'entends pas traiter cette affaire qui regarde notre diplomatie. Mais un point me concerne, et c\'est la découverte du voleur. Votre conduite nous autorisant à penser que vous lui donnez asile, vous voudrez bien vous considérer comme consigné dans le port de Ponta-Delgada. Défense absolue à vos passagers et à vous-même de quitter le bord et de communiquer avec la terre, avant la perquisition qui sera faite dans votre navire. »
+
+Ce discours avait été débité d\'un ton qui n\'admettait pas de réplique. Un Anglais peut être arrogant parfois. Il n\'y fallait pas songer ici. Thompson se fit petit garçon.
+
+« Quand cette perquisition aura-t-elle lieu ? demanda-t-il.
+
+--- Demain, lui fut-il répondu.
+
+--- Et combien de temps mon navire sera-t-il retenu ?
+
+--- Ceci, je l\'ignore, conclut l\'officier de police, mais autant qu\'il le faudra, je suppose, pour que le coupable soit découvert et incarcéré. Serviteur, messieurs. »
+
+Sur ces mots, l\'officier toucha légèrement le bord de sa casquette et regagna son embarcation, laissant Thompson absolument désespéré.
+
+
+]{.calibre20}
+
+
+L\'AGENCE THOMSON AND CO
+
+Première partie
+
+
+]{.calibre20}

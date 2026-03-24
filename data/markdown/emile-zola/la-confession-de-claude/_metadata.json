@@ -1,0 +1,334 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA CONFESSION DE CLAUDE",
+  "slug": "la-confession-de-claude",
+  "nombre_chapitres": 31,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 631,
+      "spine_end_exclusive": 632,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_156.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Dédicace",
+      "slug": "dedicace",
+      "spine_start": 632,
+      "spine_end_exclusive": 633,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_157.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 633,
+      "spine_end_exclusive": 634,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_158.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 634,
+      "spine_end_exclusive": 635,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_159.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 635,
+      "spine_end_exclusive": 636,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_160.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 636,
+      "spine_end_exclusive": 637,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_161.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 637,
+      "spine_end_exclusive": 638,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_162.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 638,
+      "spine_end_exclusive": 639,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_163.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 639,
+      "spine_end_exclusive": 640,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_164.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 640,
+      "spine_end_exclusive": 641,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_165.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 641,
+      "spine_end_exclusive": 642,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_166.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 642,
+      "spine_end_exclusive": 643,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_167.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 643,
+      "spine_end_exclusive": 644,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_168.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 644,
+      "spine_end_exclusive": 645,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_169.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 645,
+      "spine_end_exclusive": 646,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_170.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 646,
+      "spine_end_exclusive": 647,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_171.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XV",
+      "slug": "xv",
+      "spine_start": 647,
+      "spine_end_exclusive": 648,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_172.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVI",
+      "slug": "xvi",
+      "spine_start": 648,
+      "spine_end_exclusive": 649,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_173.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVII",
+      "slug": "xvii",
+      "spine_start": 649,
+      "spine_end_exclusive": 650,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_174.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVIII",
+      "slug": "xviii",
+      "spine_start": 650,
+      "spine_end_exclusive": 651,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_175.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIX",
+      "slug": "xix",
+      "spine_start": 651,
+      "spine_end_exclusive": 652,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_176.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XX",
+      "slug": "xx",
+      "spine_start": 652,
+      "spine_end_exclusive": 653,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_177.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXI",
+      "slug": "xxi",
+      "spine_start": 653,
+      "spine_end_exclusive": 654,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_178.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXII",
+      "slug": "xxii",
+      "spine_start": 654,
+      "spine_end_exclusive": 655,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_179.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXIII",
+      "slug": "xxiii",
+      "spine_start": 655,
+      "spine_end_exclusive": 656,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_180.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXIV",
+      "slug": "xxiv",
+      "spine_start": 656,
+      "spine_end_exclusive": 657,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_181.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXV",
+      "slug": "xxv",
+      "spine_start": 657,
+      "spine_end_exclusive": 658,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_182.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXVI",
+      "slug": "xxvi",
+      "spine_start": 658,
+      "spine_end_exclusive": 659,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_183.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXVII",
+      "slug": "xxvii",
+      "spine_start": 659,
+      "spine_end_exclusive": 660,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_184.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXVIII",
+      "slug": "xxviii",
+      "spine_start": 660,
+      "spine_end_exclusive": 661,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_185.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXIX",
+      "slug": "xxix",
+      "spine_start": 661,
+      "spine_end_exclusive": 662,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_186.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXX",
+      "slug": "xxx",
+      "spine_start": 662,
+      "spine_end_exclusive": 664,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_187.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_188.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-confession-de-claude/Zola2_image011.jpg"
+  ]
+}

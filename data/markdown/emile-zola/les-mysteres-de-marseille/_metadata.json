@@ -1,0 +1,126 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES MYSTÈRES DE MARSEILLE",
+  "slug": "les-mysteres-de-marseille",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 561,
+      "spine_end_exclusive": 562,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_086.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 562,
+      "spine_end_exclusive": 563,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_087.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "spine_start": 563,
+      "spine_end_exclusive": 583,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_088.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_089.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_090.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_091.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_092.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_093.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_094.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_095.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_096.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_097.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_098.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_099.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_100.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_101.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_102.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_103.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_104.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_105.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_106.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_107.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "spine_start": 583,
+      "spine_end_exclusive": 604,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_108.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_109.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_110.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_111.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_112.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_113.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_114.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_115.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_116.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_117.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_118.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_119.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_120.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_121.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_122.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_123.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_124.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_125.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_126.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_127.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "spine_start": 604,
+      "spine_end_exclusive": 629,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_129.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_130.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_131.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_132.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_133.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_134.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_135.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_136.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_137.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_138.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_139.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_140.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_141.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_142.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_143.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_144.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_145.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_146.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_147.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_148.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_149.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_150.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_151.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_152.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_153.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-mysteres-de-marseille/Zola2_image010.jpg"
+  ]
+}

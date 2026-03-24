@@ -1,0 +1,15 @@
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+DÉCOUVERTE DE LA TERRE
+
+
+]{.calibre20}
+
+## [[Avertissement]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943222 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_233 .calibre21}
+
+L\'Histoire des grands Voyages et des grands Voyageurs, telle que je l\'avais comprise quand j\'en ai publié la première partie, devait avoir pour but de résumer l\'histoire de la découverte de la terre. Grâce aux dernières découvertes, cette histoire va prendre une extension considérable. Elle comprendra, non seulement toutes les explorations passées, mais encore toutes les explorations nouvelles qui ont intéressé le monde savant à des époques récentes. Pour donner à cette œuvre, forcément agrandie par les derniers travaux des voyageurs modernes, toutes les garanties qu\'elle comporte, j\'ai appelé à mon aide un homme que je considère à bon droit comme un des géographes les plus compétents de notre époque : M. Gabriel Marcel, attaché à la Bibliothèque nationale.
+
+Grâce à sa connaissance de quelques langues étrangères qui me sont inconnues, nous avons pu remonter aux sources mêmes et ne rien emprunter qu\'à des documents absolument originaux. Nos lecteurs feront donc au concours de M. Marcel la part à laquelle il a droit dans cet ouvrage, qui mettra en lumière ce qu\'ont été tous les grands voyageurs, depuis Hannon et Hérodote jusqu\'à Livingstone et Stanley.

@@ -1,0 +1,62 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "P'TIT BONHOMME",
+  "slug": "ptit-bonhomme",
+  "nombre_chapitres": 31,
+  "structure": [
+    {
+      "title": "Première partie – Les premiers pas",
+      "slug": "premiere-partie-les-premiers-pas",
+      "is_part": true,
+      "spine_start": 1475,
+      "spine_end_exclusive": 1491,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_024.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_025.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_026.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_027.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_028.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_029.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_030.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_031.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_032.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_033.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_034.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_035.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_036.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_037.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_038.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie – Dernières étapes",
+      "slug": "deuxieme-partie-dernieres-etapes",
+      "is_part": true,
+      "spine_start": 1491,
+      "spine_end_exclusive": 1506,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_040.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_041.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_042.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_043.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_044.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_045.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_046.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_047.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_048.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_049.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_050.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_051.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_052.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_053.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_054.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

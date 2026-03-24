@@ -1,0 +1,26 @@
+### [[Chapitre 4 -- Qui permet au lecteur de multiplier à l\'infini les points d\'exclamation et d\'interrogation !]{.pcalibre lang="X-NONE"}]{#_Toc342941589 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4-qui-permet-au-lecteur-de-multiplier-à-linfini-les-points-dexclamation-et-dinterrogation .calibre171 .sigil_not_in_toc}
+
+Pourquoi, à ce moment même, l\'horizon s\'était-il si étrangement et si subitement modifié, que l\'oeil exercé d\'un marin n\'eût pu reconnaître la ligne circulaire sur laquelle devaient se confondre le ciel et l\'eau ? Pourquoi la mer élevait-elle alors ses lames à une hauteur que les savants avaient refusé d\'admettre jusqu\'alors ?
+
+Pourquoi, au milieu des craquements du sol qui se déchirait, s\'était-il produit un épouvantable fracas, composé de bruits divers, tels que grincements dus à une dislocation violente de la charpente du globe, mugissements des eaux entrechoquées à une profondeur anormale, sifflements des nappes d\'air aspirées comme elles le sont dans un cyclone ? Pourquoi, à travers l\'espace, cet éclat extraordinaire, plus intense que les fulgurations d\'une aurore boréale, éclat qui envahit le firmament et éclipsa momentanément les étoiles de toutes grandeurs ?
+
+Pourquoi le bassin de la Méditerranée, qui semblait s\'être vidé un instant, se remplit-il à nouveau de ses eaux étrangement furieuses ?
+
+Pourquoi le disque de la lune parut-il s\'agrandir démesurément, comme si, en quelques secondes, l\'astre des nuits se fût rapproché de quatre-vingt-seize mille lieues à dix mille ?
+
+Pourquoi, enfin, un nouveau sphéroïde énorme, flamboyant, inconnu des cosmographes, apparut-il au firmament, pour aller bientôt se perdre derrière d\'épaisses couches de nuages ?
+
+Enfin, quel étrange phénomène avait produit ce cataclysme, qui bouleversa si profondément la terre, la mer, le ciel, tout l\'espace ?
+
+Qui eût pu le dire ? Et restait-il même un seul des habitants sur le globe terrestre pour répondre à ces questions ?
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Première Partie
+
+
+]{.calibre20}

@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA FÊTE À COQUEVILLE",
+  "slug": "la-fete-a-coqueville",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1175,
+      "spine_end_exclusive": 1176,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_185.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1176,
+      "spine_end_exclusive": 1177,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_186.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1177,
+      "spine_end_exclusive": 1178,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_187.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1178,
+      "spine_end_exclusive": 1179,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_188.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1179,
+      "spine_end_exclusive": 1180,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_189.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1180,
+      "spine_end_exclusive": 1181,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_190.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1181,
+      "spine_end_exclusive": 1183,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_191.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_192.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-fete-a-coqueville/Zola4_image014.jpg"
+  ]
+}

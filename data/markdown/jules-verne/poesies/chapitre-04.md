@@ -1,0 +1,66 @@
+]{.calibre20}
+
+
+POÉSIES
+
+[[[Table des poésies]{lang="FR"}](../Text/VerneIV_split_370.htm){.pcalibre4 .pcalibre3}]{.MsoHyperlink lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+]{.calibre20}
+
+## [[4 -- Lorsque la douce nuit\...]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943192 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_204 .calibre21}
+
+Lorsque la douce nuit, comme une douce amante,
+S\'avance pas à pas, à la chute du jour,
+S\'avance dans le ciel, tendre, timide et lente,
+Toute heureuse d\'un fol amour ;
+
+Lorsque les feux muets sortent du ciel propice,
+Pointillent dans la nuit, discrets, étincelants,
+Eparpillent au loin leurs gerbes d\'artifices,
+Dans les espaces purs et blancs ;
+
+Quand le ciel amoureux au sein des rideaux sombres,
+Tout chaud de ce soleil qui vient de l\'embraser,
+À la terre, pour lui pleine d\'amour et d\'ombres,
+S\'unit dans un brûlant baiser ;
+
+Quand se réfléchissant comme en un lac limpide,
+L\'étoile de l\'azur, sur le sol transparent,
+Allume au sein de l\'herbe une étoile timide,
+Cette étoile du ver luisant ;
+
+Quand aux brises du soir, la feuille frémissante,
+À ce tendre contact a refermé son sein,
+Et garde en s\'endormant la fraîcheur odorante
+Qui doit parfumer le matin ;
+
+Quand sur le sombre azur, comme un triste fantôme,
+Le cyprès de ce champ où finit la douleur,
+Est là, plus triste et froid qu\'un mystérieux psaume
+Qui tombe sur un ton mineur ;
+
+Lorsque courbant sa tête à des plaintes secrètes,
+L\'if, comme de grands bras agite ses rameaux,
+Et tout mélancolique, en paroles muettes,
+Cause bas avec les tombeaux ;
+
+Quand au berceau de Dieu, sur la branche endormante,
+L\'oiseau paisible, heureux a trouvé le sommeil,
+Quand le fil de la Vierge a regagné sa tente
+En attendant quelque soleil ;
+
+Quand la croix déployant dans sa forme incertaine,
+Sur le chemin du ciel ses deux bras de douleurs,
+Dans la nuit qui l\'entoure en son humide haleine
+Est ruisselante de pleurs ;
+
+Quand toute la nature, et l\'étoile de la pierre,
+Et l\'arbre du chemin, la croix du carrefour,
+Se sont tous revêtus de l\'ombre, du mystère,
+Après les fatigues du jour ;
+
+Quand tout nous parle au coeur, quand la tremblante femme,
+A plus de volupté que le soleil le jour,
+Oh ! Viens, je te dirai tout ce que j\'ai dans l\'âme,
+Tout ce que j\'ai de tendre amour.

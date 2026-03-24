@@ -1,0 +1,120 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉPAVE DU CYNTHIA"
+slug_oeuvre: "lepave-du-cynthia"
+section: "Chapitre 21"
+slug_section: "chapitre-21"
+type: "chapitre"
+---
+
+]
+
+ROMAN
+
+L'ÉPAVE DU CYNTHIA
+
+]
+
+## Chapitre 21 -- Une lettre de Paris
+Ce qu'elle ne vit pas, c'est qu'il avait, en écrivant, les yeux pleins de larmes.
+
+Depuis son retour à Stockholm, Erik recevait presque chaque jour de tous les pays de l'Europe une correspondance volumineuse. C'étaient des corps savants ou des particuliers qui lui adressaient leurs félicitations, des gouvernements étrangers qui lui décernaient des honneurs ou des récompenses ; des armateurs, des négociants qui sollicitaient de lui quelque renseignement applicable à leurs intérêts. Aussi fut-il peu surpris en se voyant remettre, un matin, deux plis au timbre de Paris.
+
+Le premier qu'il ouvrit était une invitation de la Société de géographie de France, pour lui et pour ses compagnons de voyage, à venir en personne recevoir une grande médaille d'honneur, décernée en séance solennelle « à l'auteur du premier périple circumpolaire par les mers arctiques ».
+
+La seconde enveloppe fit tressaillir Erik quand il la rompit. Elle portait en guise de cachet, sur la gomme qui la fermait, un médaillon gravé aux initiales E. D. Entourées de la devise *Semper idem*...
+
+Ces initiales et cette devise se trouvaient reproduites au coin de la lettre enfermée dans l'enveloppe, et qui était de M. Durrien. La lettre disait ce qui suit :
+
+« Mon cher enfant, laissez-moi vous donner ce nom à tout événement. Je viens de lire dans un journal français une note biographique traduite du suédois et qui me bouleverse plus que je ne saurais dire. Cette note vous concerne. S'il faut en croire ce qu'elle raconte, vous auriez été recueilli en mer, il y a vingt-deux ans, par un pêcheur norvégien des environs de Bergen, sur une bouée portant le nom de *Cynthia* ; votre voyage arctique aurait eu pour but spécial de retrouver un survivant du navire de ce nom, naufragé en octobre 1858 par le travers des îles Féroë ; enfin vous seriez revenu de votre expédition sans avoir pu rien apprendre à ce sujet.
+
+« Si tout cela est vrai (oh ! Que ne donnerais-je pas pour que ce fût vrai !), je vous demande en grâce de ne pas perdre une minute, de courir au télégraphe et de me le dire.
+
+« C'est que dans ce cas, mon enfant -- comprenez mon impatience, mon anxiété et ma joie ---, dans ce cas vous seriez mon petit-fils, celui que je pleure depuis tant d'années, celui que j'ai cru perdu à jamais, celui que ma fille, ma pauvre fille, au coeur brisé, hélas ! Par le drame du *Cynthia*, appelle encore et réclame tous les jours -- son unique enfant, le sourire, la consolation, puis le désespoir de son veuvage !...
+
+« Vous retrouver, vous retrouver vivant et glorieux, serait un bonheur trop extraordinaire et trop grand ! Je n'ose pas y croire avant qu'un signe de vous m'y autorise !... Et pourtant, cela semble maintenant si vraisemblable !... Les détails et les dates concordent si rigoureusement !... Votre physionomie et vos manières me rappellent si clairement celles de mon malheureux gendre. Dans l'unique occasion où le hasard nous a rapprochés, je me suis senti entraîné vers vous par une sympathie si soudaine et si profonde !... Il semble impossible que tout cela n'ait pas de raison d'être !
+
+« Un mot, un mot tout de suite au télégraphe !... Je ne vais pas vivre jusqu'à l'arrivée de cette dépêche. Puisse-t-elle me donner la réponse que j'attends, que je désire si ardemment ! Puisse-t-elle apporter à ma pauvre fille et à moi un bonheur qui effacera toute une vie de regrets et de larmes !
+
+« E. DURRIEN,
+
+Consul général honoraire,
+
+104, rue de Varennes, Paris. »
+
+A cette lettre était jointe une note justificative qu'Erik dévora avidement. Elle était également de la main de M. Durrien et contenait ce qui suit :
+
+« J'étais consul de France à la Nouvelle-Orléans, quand ma fille unique, Catherine, épousa un jeune Français, M. Georges Durrien, notre parent éloigné et ainsi que nous d'origine bretonne. M. Georges Durrien était ingénieur des mines. Il venait aux États-Unis pour explorer des sources de pétrole récemment signalées, et comptait y rester quelques années. Accueilli à mon foyer comme devait l'être un homme de son mérite, portant le même nom que nous et fils d'un ami bien cher de ma jeunesse, il me demanda la main de ma fille. Je la lui donnai avec joie. Peu de temps après ce mariage, je fus inopinément désigné au poste consulaire de Riga, et, mon gendre se trouvant retenu aux États-Unis par des intérêts considérables, je dus y laisser ma fille. Elle y devint mère d'un enfant, qui reçut mes prénoms avec celui de son père, et fut appelé *Émile-Henri-Georges*.
+
+« Six mois plus tard, mon gendre trouvait la mort dans un accident de mine. Aussitôt après avoir fait régler ses affaires, ma pauvre fille, veuve à vingt ans, s'embarquait à New York sur le *Cynthia*, à destination de Hambourg, pour venir me rejoindre par la voie la plus directe.
+
+« Le 7 octobre 1858, le *Cynthia* faisait naufrage à l'est des îles Féroë. Les circonstances de ce naufrage ont depuis paru suspectes et sont restées inexpliquées. Toujours est-il qu'au milieu du désastre, au moment même où les passagers prenaient place les uns après les autres dans la chaloupe, mon petit-fils, âgé de sept mois, que sa mère venait d'attacher sur une bouée de sauvetage, glissa ou fut poussé à la mer, et disparut emporté par la tempête.
+
+« Ma fille, affolée par cet affreux spectacle, voulait se précipiter dans les flots. Elle fut sauvée de vive force, jetée évanouie dans une embarcation où se trouvaient trois autres personnes, et qui seule échappa au désastre. L'embarcation aborda, au bout de quarante-neuf heures, sur l'une des îles Féroë. C'est de là que ma fille me revint, après une mortelle attente de sept semaines, grâce aux soins dévoués d'un matelot qui l'avait sauvée et qui me la ramena. Ce brave garçon, nommé John Denman, est mort depuis à mon service, en Asie Mineure.
+
+« Nous n'avions aucun espoir sérieux que le pauvre bébé eût pu survivre au naufrage. Je fis pourtant tenter des recherches aux îles Féroë, aux îles Shetland et sur la côte norvégienne au nord de Bergen. L'idée que le berceau fût allé plus loin encore paraissait inadmissible. Je ne renonçai pourtant à mon enquête qu'au bout de trois années, et, pour que Noroë n'y ait pas été compris, il faut que ce soit un point singulièrement reculé et sans rapports directs avec la côte maritime.
+
+« Quand tout espoir fut définitivement perdu, je me consacrai exclusivement à ma fille, dont la santé physique et morale exigeait de grands ménagements. J'obtins d'être envoyé en Orient, je cherchai à la distraire par des voyages et des entreprises scientifiques. Elle a été la compagne inséparable de tous mes travaux ; mais jamais je n'ai pu arriver à la guérir de son incurable tristesse. Enfin, depuis deux ans j'ai pris ma retraite, et nous sommes rentrés en France. Nous habitons alternativement Paris et la vieille maison que je possède au Val-Féray, près de Brest.
+
+« Nous serait-il donné d'y voir entrer mon petit-fils, celui que nous pleurons depuis tant d'années ? Cet espoir est trop beau pour que j'ose en parler à ma fille, tant qu'il ne sera pas transformé en certitude. Ce serait une véritable résurrection. Et pourtant, s'il fallait maintenant renoncer à cette idée, la déception serait cruelle !...
+
+« Nous sommes aujourd'hui à lundi. Samedi prochain, me dit-on à la poste, je pourrais avoir une réponse !... »
+
+Erik avait peine à achever cette lecture ; les larmes obscurcissaient sa vue. Lui aussi, il craignait de s'abandonner trop vite à l'espérance, qui lui était subitement rendue. Il se disait bien que toutes les vraisemblances se trouvaient réunies -- la concordance des dates, celle des événements et des moindres détails. Mais c'était trop beau ! Il n'osait pas y croire ! Retrouver du même coup une famille, une vraie mère, une patrie !... Et quelle patrie !... Celle-là même qu'il aurait choisie entre toutes, parce qu'elle incarne en quelque sorte les grandeurs, les grâces et les dons suprêmes de l'humanité, parce qu'en elle sont venus se réunir et se fondre le génie des civilisations antiques, la flamme et l'esprit des temps nouveaux !
+
+Il avait peur que tout cela ne fût qu'un rêve. Si souvent déjà ses espoirs s'étaient trouvés déçus !... Peut-être le docteur allait-il d'un mot faire crouler l'échafaudage. Avant tout, il fallait le prendre pour juge.
+
+Le docteur lut attentivement les documents qui lui étaient soumis, non sans s'interrompre à plusieurs reprises, en laissant échapper une exclamation de surprise ou de joie.
+
+« Il n'y a pas l'ombre d'un doute à conserver ! dit-il enfin. Tous les détails concordent rigoureusement, jusqu'à ceux-là même que ton correspondant omet de mentionner -- les initiales du linge, la devise gravée sur le hochet, et qui sont celles de sa lettre !... Mon cher enfant, ta famille est retrouvée, cette fois ! Il faut immédiatement télégraphier à ton grand-père...
+
+--- Mais que lui dire ? demanda Erik, pâle de joie.
+
+--- Dis-lui que dès demain tu prendras le courrier pour aller te jeter dans les bras de ta mère et dans les siens ! »
+
+Le jeune capitaine ne prit que le temps de serrer sur son coeur la main de l'excellent homme, et se jeta dans un cabriolet pour courir au télégraphe.
+
+Le jour même, il quittait Stockholm, prenait le chemin de fer qui le débarquait à Malmö, sur la côte nord-ouest de la Suède, traversait le détroit en vingt minutes, se jetait à Copenhague dans l'express de Hollande et Belgique, puis à Bruxelles dans le train de Paris.
+
+Le samedi, à sept heures du soir, exactement six jours après que M. Durrien avait mis sa lettre à la poste, il avait la joie d'attendre son petit-fils à la gare du Nord. Des dépêches successives, expédiées par Erik au cours du voyage, avaient aidé à lui faire prendre patience.
+
+Enfin, le train entra en grondant sous la haute coupole de verre. M. Durrien et son petit-fils tombèrent dans les bras l'un de l'autre. Ils avaient tant vécu ensemble par la pensée dans ces derniers jours d'attente, qu'il leur semblait s'être toujours connus.
+
+« Ma mère ? demanda Erik.
+
+--- Je n'ai pas osé tout lui dire, tant que je ne te tenais pas ! répondit M. Durrien, en adoptant d'emblée ce tutoiement doux comme une caresse maternelle, que toutes les langues envient au français.
+
+--- Elle ne sait rien encore ?
+
+--- Elle soupçonne, elle craint, elle espère ! Depuis ta dépêche, je la prépare de mon mieux à la joie inouïe qui l'attend ! Je parle d'une piste sur laquelle j'aurais été mis par un officier suédois, par ce jeune marin que j'ai vu à Brest et dont je lui ai souvent parlé !... Elle ne sait pas, elle hésite encore, mais je crois qu'elle doit commencer à démêler la venue prochaine de quelque chose de nouveau ! Ce matin, à déjeûner, j'avais une peine extrême à cacher mon impatience ! J'ai fort bien vu qu'elle m'observait avec attention ! Deux ou trois fois même, j'ai cru qu'elle allait me demander une explication formelle !... J'en avais grand-peur, je l'avoue ! Si quelque malentendu, quelque contretemps soudain, ou, pis encore, quelque malheur était venu nous tomber sur la tête !... On craint tout dans une aventure comme la nôtre !... Aussi n'ai-je point dîné avec elle ce soir. J'ai prétexté d'une affaire, et je me suis soustrait par la fuite à une situation intolérable ! »
+
+Sans attendre les bagages, on partit dans le coupé qui avait amené M. Durrien.
+
+Cependant, Mme Durrien, toute seule dans le salon de la rue de Varennes, attendait le retour de son père avec impatience. Il avait deviné juste en redoutant, pour le dîner, une demande d'explications. Depuis plusieurs jours, elle était inquiète de ses allures, des dépêches incessantes qu'il recevait, des sous-entendus singuliers que semblaient recéler toutes ses paroles. Habituée à échanger avec lui les moindres pensées et les moindres impressions, elle ne comprenait même pas qu'il pût songer à lui cacher quelque chose. Plusieurs fois déjà, elle avait été sur le point de réclamer le mot de l'énigme. Puis, elle s'était tue devant l'évident parti pris de son père.
+
+« Il s'agit sans doute de me préparer quelque surprise, s'était-elle dit. Il ne faut pas marchander son plaisir ! »
+
+Mais, dans les deux ou trois derniers jours et spécialement le matin, elle avait été plus vivement frappée de l'espèce d'impatience qui éclatait dans tous les mouvements de M. Durrien, de l'air de bonheur qui animait son regard, de l'insistance avec laquelle revenaient sur ses lèvres ces allusions si longtemps évitées au désastre du *Cynthia*. Tout à coup, une sorte d'illumination sourde s'était faite en elle. Elle avait vaguement compris qu'il y avait du nouveau, que son père se croyait, à tort ou à raison, sur la trace d'un indice favorable, que peut-être il s'était repris à l'espoir si longtemps caressé de retrouver son enfant, et, sans supposer un instant que les choses fussent bien avancées, elle avait pris la résolution de demander à tout savoir.
+
+Jamais Mme Durrien n'avait définitivement renoncé à l'idée que son fils pût encore être vivant. Tant qu'une mère n'a pas vu de ses yeux son enfant à l'état de cadavre, elle se refuse à sanctionner, pour ainsi dire, par son adhésion, ce fait irréparable de la mort. Elle se dit que les témoins peuvent s'être trompés, que les apparences peuvent les avoir abusés. Elle croit toujours à la possibilité d'un retour soudain. On pourrait presque dire qu'elle s'y attend. Des milliers de mères de soldats et de marins ont eu cette illusion touchante. Mme Durrien avait plus qu'une autre le droit de la conserver. À la vérité, la scène tragique était toujours devant ses yeux, après vingt-deux ans comme au premier jour. Elle se représentait le *Cynthia* envahi par les eaux et près de couler à chaque lame qui venait le battre. Elle se voyait attachant elle-même, de ses mains, son petit enfant sur une large bouée, tandis que passagers et matelots se ruaient, s'entassaient sur les chaloupes, puis laissée en arrière, implorant, suppliant qu'on emmenât au moins le bébé. Un homme lui prenait des mains le cher fardeau. On la jetait dans un canot. Et presque aussitôt un coup de mer, une trombe d'eau sur elle et l'horreur de voir la bouée rasant la coque du steamer sur le dos d'une lame, la tempête s'engouffrant dans la mousseline du berceau et emportant sa proie comme une plume, au milieu des embruns ! Alors un cri déchirant parmi tant d'autres cris, une lutte corps à corps, un plongeon dans la nuit -- et l'inconscience ! Puis, le réveil, le désespoir sans fin, les nuits de fièvre et de délire ! Puis, la douleur incessante, les longues recherches sans effet, et la conviction de son impuissance grandissant peu à peu, s'étalant, submergeant tout !... Oh ! Oui, elle se rappelait tout cela, la pauvre femme ! Pour mieux dire, son être tout entier avait reçu de ce drame une si rude secousse, qu'il était resté irréparablement meurtri. Il y avait presque un quart de siècle que ces choses s'étaient passées, et, comme au premier jour, Mme Durrien pleurait son enfant ! Ce coeur tout maternel s'était replié sur son deuil et consumait lentement sa vie dans la morne contemplation de l'unique souvenir !
+
+Par une sorte de mirage moral, elle se figurait parfois son fils passant par les phases successives de l'enfance, de l'adolescence et de l'âge viril. D'année en année, elle se le représentait comme il aurait été, comme il était peut-être -- car elle conservait toujours une sorte de croyance obstinée à la possibilité de son retour ! Contre cet espoir obscur, rien n'avait jamais prévalu, ni démarches vaines, ni recherches inutiles, ni temps écoulé !
+
+Et c'est pourquoi, ce soir-là, elle attendait son père avec la ferme volonté d'avoir le coeur net de ses soupçons.
+
+M. Durrien entra. Il était suivi d'un jeune homme qu'il présenta en ces termes :
+
+« Ma fille, voici M. Erik Hersebom dont je t'ai souvent parlé, et qui vient d'arriver à Paris. La Société de géographie va lui décerner sa grande médaille d'honneur, et il me fait le plaisir d'accepter notre hospitalité. »
+
+Il avait été convenu dans la voiture que les choses se passeraient ainsi, qu'Erik parlerait plus tard incidemment de l'enfant recueilli à Noroë, et qu'on essayerait de faire arriver, sans secousse trop subite, l'aveu de son identité. Mais quand il se trouva en présence de sa mère, la force lui manqua pour soutenir ce rôle. Il devint d'une pâleur mortelle et s'inclina profondément sans pouvoir articuler une parole.
+
+Elle, cependant, s'était soulevée sur son fauteuil et le regardait avec bonté. Tout à coup, ses yeux se dilatèrent, sa lèvre frémit, sa main se tendit vers lui.
+
+« Mon fils !... Vous êtes mon fils ! » s'écria-t-elle.
+
+Et s'avançant d'un pas vers Erik :
+
+« Oui ! Tu es mon enfant ! dit-elle. Ton père tout entier revit dans chacun de tes traits ! »
+
+Et, tandis qu'Erik, fondant en larmes, tombait à genoux devant sa mère, la pauvre femme, lui prenant la tête à deux mains, s'évanouissait de joie et de bonheur en mettant un baiser sur son front.

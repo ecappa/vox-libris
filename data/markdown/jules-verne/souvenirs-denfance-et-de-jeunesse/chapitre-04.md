@@ -1,0 +1,28 @@
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## IV {#calibre_toc_9 .calibre21}
+
+
+Il y avait au bout du port un loueur de bateaux à un franc la journée. C\'était cher pour notre bourse, imprudent aussi, car ces bateaux peu étanches faisaient eau de toutes parts. Le premier qui nous servit n\'avait qu\'un mât, mais le second en avait deux, et le troisième en avait trois, tout comme les chasse-marée et les lougres de cabotage. Nous profitions du jusant, et nous descendions en louvoyant contre le vent d\'ouest.
+
+Ah ! quelles écoles ! Les faux coups de barre, les manœuvres manquées, les écoutes larguées mal à propos, la honte de virer vent arrière, quand la houle troublait le large bassin de la Loire devant notre Chantenay ! Généralement, nous partions à la mer descendante et nous revenions avec le flot quelques heures après. Et tandis que notre embarcation de louage marchait lourdement entre les rives, quel regard d\'envie nous jetions sur les jolis yachts de plaisance qui filaient légèrement à la surface du fleuve !
+
+Un jour, j\'étais seul dans une mauvaise yole sans quille. À dix lieues en aval de Chantenay, un bordage cède, une voie d\'eau se déclare. Impossible de l\'aveugler ! Me voici en détresse ! La yole coule à pic et je n\'ai que le temps de m\'élancer sur un îlot aux grands roseaux touffus dont le vent courbait les panaches.
+
+Or, de tous les livres de mon enfance, celui que j\'affectionnais particulièrement, c\'était le Robinson Suisse, de préférence au Robinson Crusoë. Je sais bien que l\'œuvre de Daniel de Foë a plus de portée philosophique. C\'est l\'homme livré à lui-même, l\'homme seul, l\'homme qui trouve un jour la marque d\'un pied nu sur le sable ! Mais l\'œuvre de Wyss, riche en faits et incidents, est plus intéressante pour les jeunes cervelles. C\'est la famille, le père, la mère, les enfants et leurs aptitudes diverses. Que d\'années j\'ai passées sur leur île ! Avec quelle ardeur je me suis associé à leurs découvertes ! Combien j\'ai envié leur sort ! Aussi ne s\'étonnera-t-on pas que j\'aie été irrésistiblement poussé à mettre en scène dans l\'Ile Mystérieuse les Robinsons de la Science, et dans Deux ans de vacances tout un pensionnat de Robinsons.
+
+En attendant, sur mon îlot ce n\'étaient pas les héros de Wyss. C\'était le héros de Daniel de Foë qui s\'incarnait en ma personne. Déjà je songeais à construire une cabane de branchages, à fabriquer une ligne avec un roseau et des hameçons avec des épines, à me procurer du feu, comme les sauvages, en frottant deux morceaux de bois secs l\'un contre l\'autre. Des signaux ?\... je n\'en ferais pas, car ils seraient trop vite aperçus, et je serais sauvé plus tôt que je ne le voudrais ! Et tout d\'abord, il convenait d\'apaiser ma faim. Comment ? Mes provisions s\'étaient noyées pendant le naufrage. Aller à la chasse aux oiseaux ?\... Je n\'avais ni chien ni fusil ! Eh bien, et les coquillages ?\... Il n\'y en avait pas ! Enfin, je connaissais donc les affres de l\'abandon, les horreurs du dénuement sur une île déserte, comme les avaient connus les Selkirks et personnages des Naufrages célèbres, qui ne furent point des Robinsons imaginaires ! Mon estomac criait !\...
+
+Cela ne dura que quelques heures, et, dès que la marée fut basse, je n\'eus qu\'à traverser avec de l\'eau jusqu\'à la cheville pour gagner ce que j\'appelais le continent, c\'est à dire la rive droite de la Loire. Et, je revins tranquillement à la maison, où je dus me contenter du dîner de famille au lieu du repas à la Crusoë que j\'avais rêvé, des coquillages crus, une tranche de pécari et du pain fait de farine de manioc !
+
+Telle fut cette navigation si mouvementée, avec vent contraire, voie d\'eau, navire désemparé, tout ce que pouvait désirer un naufragé de mon âge !
+
+On a quelquefois reproché à mes livres d\'exciter les jeunes garçons à quitter le foyer domestique pour courir le monde. Cela n\'est point arrivé, j\'en suis sûr. Mais si des enfants se lançaient jamais en de pareilles aventures, qu\'ils prennent exemple sur les héros des Voyages Extraordinaires, et ils sont assurés d\'arriver à bon port !

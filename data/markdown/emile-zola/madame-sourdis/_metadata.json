@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MADAME SOURDIS",
+  "slug": "madame-sourdis",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1185,
+      "spine_end_exclusive": 1186,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_195.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1186,
+      "spine_end_exclusive": 1187,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_196.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1187,
+      "spine_end_exclusive": 1188,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_197.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1188,
+      "spine_end_exclusive": 1189,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_198.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1189,
+      "spine_end_exclusive": 1190,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_199.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1190,
+      "spine_end_exclusive": 1192,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_200.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_201.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/madame-sourdis/Zola4_image015.jpg"
+  ]
+}

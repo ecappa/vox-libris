@@ -1,0 +1,162 @@
+### [[Chapitre 11 -- La fièvre de l\'or]{lang="X-NONE"}]{#_Toc342942874 .pcalibre2 .pcalibre1} {#chapitre-11-la-fièvre-de-lor .calibre171 .sigil_not_in_toc}
+
+C\'est dans la matinée du 6 mars, que la découverte avait été faite.
+
+Quelques personnes, parmi lesquelles Edward Rhodes, ayant projeté une partie de chasse, avaient quitté Libéria de bonne heure en voiture et s\'étaient rendues à une vingtaine de kilomètres dans le Sud-Ouest, sur le revers occidental de la presqu\'île Hardy, au pied des montagnes, les Sentry Boxes, qui la terminent. Là s\'étendait une forêt profonde non encore exploitée, où se réfugiaient d\'ordinaire les fauves de l\'île Hoste, des pumas et des jaguars qu\'il convenait de détruire jusqu\'au dernier, car nombre de moutons avaient été leurs victimes.
+
+Les chasseurs battirent la forêt ; ayant tué deux pumas chemin faisant, ils atteignaient un ruisseau torrentueux qui délimitait la lisière opposée, lorsqu\'apparut un jaguar de grande taille.
+
+Edward Rhodes, l\'estimant à bonne portée, lui envoya un premier coup de fusil, qui l\'atteignit au flanc gauche. Mais l\'animal n\'avait pas été blessé mortellement. Après un rugissement de colère plutôt que de douleur, il fit un bond dans la direction du torrent, rentra sous bois et disparut.
+
+Pas si vite, cependant, qu\'Edward Rhodes n\'eût le temps de tirer un second coup. La balle, manquant le but, alla frapper un angle de roche. La pierre vola en éclats.
+
+Peut-être les chasseurs eussent-ils alors quitté la place, si un des éclats projetés ne fût tombé aux pieds d\'Edward Rhodes, qui, intrigué par l\'aspect particulier de ce fragment de roche, le ramassa et l\'examina.
+
+C\'était un petit morceau de quartz, strié de veines caractéristiques, dans lesquelles il lui fut facile de discerner des parcelles d\'or.
+
+Edward Rhodes fut très ému de sa découverte.
+
+De l\'or !... Il y avait de l\'or dans le sol de l\'île Hoste ! Rien que cet éclat de roche en témoignait.
+
+Y a-t-il lieu, d\'ailleurs, de s\'en étonner ? N\'a-t-on pas trouvé des filons du précieux métal autour de Punta-Arenas comme à la Terre de Feu, en Patagonie comme en Magellanie ? N\'est-ce pas une chaîne d\'or, cette gigantesque épine dorsale des deux Amériques qui, sous le nom de Montagnes Rocheuses et de Cordillère des Andes, va de l\'Alaska au cap Horn, et dont, en quatre siècles, on a extrait pour quarante-cinq milliards de francs ?
+
+Edward Rhodes avait compris l\'importance de sa découverte. Il aurait voulu la tenir secrète, n\'en parler qu\'à son père, qui eût mis le Kaw-djer au courant. Mais il n\'était pas seul à la connaître. Ses compagnons de chasse avaient examiné le morceau de roche et avaient ramassé d\'autres éclats qui tous renfermaient de l\'or.
+
+Il ne fallait donc pas compter sur le secret, et, le jour même, en effet, l\'île entière savait qu\'elle n\'avait rien à envier aux Klondyke, aux Transvaal, ni aux El Dorado. Ce fut la traînée de poudre, dont la flamme courut en un instant de Libéria aux autres bourgades.
+
+Toutefois, dans cette saison, il ne pouvait être question de tirer un parti quelconque de la découverte. Dans quelques jours, on serait à l\'équinoxe d\'automne, et ce n\'est pas sous le parallèle de l\'île Hoste qu\'il est possible d\'entreprendre des exploitations de plein air aux approches de l\'hiver. La trouvaille d\'Edward Rhodes n\'eut donc et ne pouvait avoir aucune conséquence immédiate.
+
+L\'été s\'acheva dans des conditions climatériques assez favorables. Cette année, la dixième depuis la fondation de la colonie, avait eu le bénéfice d\'une récolte exceptionnelle. D\'autre part, de nouvelles scieries s\'étaient établies à l\'intérieur de l\'île, les unes mues par la vapeur, les autres employant l\'électricité engendrée par les chutes des cours d\'eau. Les pêcheries et les fabriques de conserves avaient donné lieu à un trafic considérable, et le chargement des navires, à l\'entrée et à la sortie du port, s\'était chiffré par trente-deux mille sept cent soixante-quinze tonnes.
+
+Avec l\'hiver, il fallut interrompre les travaux entrepris au cap Horn pour l\'érection du phare et la construction des salles où devaient être installées les machines motrices et les dynamos. Ces travaux avaient marché jusqu\'alors d\'une manière très satisfaisante, malgré l\'éloignement de l\'île Horn, située à environ soixante-quinze kilomètres de la presqu\'île Hardy, et l\'obligation de transporter le matériel à travers une mer semée de récifs, que les tempêtes de l\'hiver allaient rendre impraticable.
+
+Si la mauvaise saison amena, comme de coutume, nombre de coups de vent et des tourmentes de grande violence, elle ne provoqua pas de froids excessifs, et, même en juillet, la température ne dépassa pas dix degrés sous zéro.
+
+Les habitants de Libéria ne redoutaient plus alors le froid ni les intempéries, l\'aisance générale ayant permis à toutes les familles de s\'installer confortablement. Il n\'y avait pas de misère sur l\'île Hoste, et les crimes contre les personnes ou les propriétés n\'y avaient jamais troublé l\'ordre public. On n\'y connaissait que de rares contestations civiles, transigées en général avant même d\'arriver au Tribunal.
+
+Il semblait donc qu\'aucun trouble n\'eût menacé la colonie, sans cette découverte d\'un gisement aurifère, dont les conséquences, étant donné l\'avidité humaine, pouvaient être extrêmement graves.
+
+Le Kaw-djer ne s\'y était pas trompé. La nouvelle lui avait fait concevoir les plus sombres pronostics, et la réflexion les assombrit encore. À la première réunion du Conseil, il ne cacha pas ses craintes.
+
+« Ainsi, dit-il, c\'est au moment où notre oeuvre est achevée, lorsque nous n\'avons plus qu\'à recueillir le fruit de nos efforts, que le hasard, un hasard maudit, jette parmi nous ce ferment de troubles et de ruines...
+
+--- Notre ami va trop loin, intervint Harry Rhodes, qui considérait l\'événement d\'une manière moins pessimiste. Que la découverte de l\'or soit une cause de troubles, c\'est possible, mais de ruines !....
+
+--- Oui, de ruines, affirma le Kaw-djer avec force. La découverte de l\'or n\'a jamais laissé que la ruine après elle !
+
+--- Cependant, objecta Harry Rhodes, l\'or est une marchandise comme une autre...
+
+--- La plus inutile.
+
+--- Du tout. La plus utile, puisqu\'elle peut s\'échanger contre toutes les autres.
+
+--- Qu\'importe, répliqua le Kaw-djer avec chaleur, si, pour l\'obtenir, il faut tout lui sacrifier ! Des chercheurs d\'or, l\'immense majorité périt dans la misère. Quant à ceux qui réussissent, la facilité de leur succès détruit à jamais leur jugement. Ils prennent goût aux plaisirs aisément obtenus. Le superflu devient pour eux le nécessaire, et, quand ils sont amollis par les jouissances matérielles, ils deviennent incapables du moindre effort. Ils se sont enrichis peut-être, au sens social du mot. Ils se sont appauvris selon sa signification humaine, la vraie. Ce ne sont plus des hommes.
+
+--- Je suis de l\'avis du Kaw-djer, dit alors Germain Rivière. Sans compter que, si on délaisse les champs, l\'on ne remplacera pas les récoltes perdues. C\'est peu de choses que d\'être riche quand on crève de faim. Or, je crains bien que notre population ne résiste pas à cette influence funeste. Qui sait si les cultivateurs ne vont pas abandonner la campagne, et les ouvriers leur travail, pour courir aux placers ?
+
+--- L\'or !... l\'or !... la soif de l\'or ! répétait le Kaw-djer. Aucun plus terrible fléau ne pouvait s\'abattre sur notre pays. »
+
+Harry Rhodes était ébranlé.
+
+« En admettant que vous ayez raison, dit-il, il n\'est pas en notre pouvoir de conjurer ce fléau.
+
+--- Non ! Mon cher Rhodes, répondit le Kaw-djer. Il est possible de lutter contre une épidémie, de l\'enrayer. Mais à cette fièvre de l\'or, il n\'y a pas de remède. C\'est l\'agent le plus destructif de toute organisation. En peut-on douter après ce qui s\'est passé dans les districts aurifères de l\'Ancien ou du Nouveau Monde, en Australie, en Californie, dans le Sud de l\'Afrique ? Les travaux utiles ont été abandonnés du jour au lendemain, les colons ont déserté les champs et les villes, les familles se sont dispersées sur les gisements. Quant à l\'or extrait avec tant d\'avidité, on l\'a stupidement dissipé, comme tout gain trop facile, en abominables folies, et il n\'en est rien resté à ces malheureux insensés. »
+
+Le Kaw-djer parlait avec une animation qui montrait la force de sa conviction et la vivacité de ses inquiétudes.
+
+« Et non seulement il y a le danger du dedans, ajouta-t-il, mais il y a le danger du dehors : tous ces aventuriers, tous ces déclassés qui envahissent les pays aurifères, qui les troublent, les bouleversent pour arracher de ses entrailles le métal maudit. Il en accourt de tous les points du monde. C\'est une avalanche qui ne laisse que le néant après son passage. Ah ! Pourquoi faut-il que notre île soit menacée de pareils désastres !
+
+--- Ne pouvons-nous encore espérer ? demanda Harry Rhodes très ému. Si la nouvelle ne s\'ébruite pas, nous serons préservés de cette invasion.
+
+--- Non, répondit le Kaw-djer, il est déjà trop tard pour empêcher le mal. On ne se figure pas avec quelle rapidité le monde entier apprend que des gisements aurifères viennent d\'être découverts dans une contrée quelconque, si lointaine soit-elle. On croirait vraiment que cela se transmet par l\'air, que les vents apportent cette peste si contagieuse que les meilleurs et les plus sages en sont atteints et y succombent ! »
+
+Le Conseil fut levé sans qu\'aucune décision eût été arrêtée. Et, en vérité, il n\'y avait lieu d\'en prendre aucune. Comme le Kaw-djer l\'avait dit avec raison, on ne lutte pas contre la fièvre de l\'or.
+
+Rien, d\'ailleurs, n\'était perdu encore. Ne pouvait-il se faire, en effet, que le gisement n\'eût pas la richesse qu\'on lui attribuait de confiance, et que les parcelles d\'or fussent disséminées dans un état d\'éparpillement tel que toute exploitation fût impossible. Pour être fixé à ce sujet, il fallait attendre la disparition de la neige qui, pendant l\'hiver, recouvrait l\'île de son manteau glacé.
+
+Au premier souffle du printemps, les craintes du Kaw-djer commencèrent à se réaliser. Dès que le dégel fit son apparition, les colons les plus entreprenants et les plus aventureux se transformèrent en prospecteurs, quittèrent Libéria et partirent à la chasse de l\'or. Puisqu\'il avait été trouvé au Golden Creek -- ainsi fut dénommé le petit ruisseau dont la balle malencontreuse d\'Edward Rhodes avait effleuré la berge -- c\'est là que se portèrent les plus impatients. Leur exemple fut suivi, malgré tous les efforts du Kaw-djer et de ses amis, et les départs se multiplièrent rapidement. Dès le cinq novembre, plusieurs centaines d\'Hosteliens, en proie à l\'idée fixe de l\'or, s\'étaient rués vers les gisements et erraient dans les montagnes à la recherche d\'un filon ou d\'une poche riche en pépites.
+
+L\'exploitation des placers ne comporte pas de grandes difficultés en principe. S\'il s\'agit d\'un filon, il suffit de le suivre en attaquant la roche avec le pic, puis de concasser les morceaux obtenus pour en extraire les parcelles de métal qu\'ils renferment. C\'est ainsi qu\'on procède dans les mines du Transvaal.
+
+Toutefois, suivre un filon, c\'est bientôt dit. En pratique, cela n\'est pas fort aisé. Parfois les filons se brouillent et disparaissent, et ce n\'est pas trop, pour les retrouver, de la science de techniciens expérimentés. À tout le moins, ils s\'enfoncent très profondément dans les entrailles de la terre. Les suivre, cela revient par conséquent à ouvrir une mine, avec toutes les surprises et tous les dangers inhérents à ce genre d\'entreprise. D\'autre part, le quartz est une roche d\'une extrême dureté, et, pour le concasser, on ne saurait se passer de machines coûteuses. Il en résulte que l\'exploitation d\'une mine d\'or est interdite aux travailleurs isolés, et que des sociétés puissantes disposant d\'une abondante main-d\'oeuvre et de capitaux considérables peuvent seules y trouver profit.
+
+Aussi les chercheurs d\'or, les prospecteurs, pour leur donner le nom sous lequel on les désigne d\'ordinaire, lorsqu\'ils ont eu la chance de découvrir un gisement, se contentent-ils de s\'en assurer la concession, qu\'ils rétrocèdent le plus vite possible aux banquiers et aux lanceurs d\'affaires.
+
+Ceux qui préfèrent, au contraire, exploiter pour leur propre compte et avec leurs ressources personnelles, renoncent délibérément à toute exploitation minière. Ils recherchent dans le voisinage des roches aurifères, des terrains d\'alluvion formés aux dépens de ces roches par l\'action séculaire des eaux. En délitant la roche, l\'eau -- glace, pluie ou torrent -- a nécessairement emporté avec elle les parcelles d\'or qu\'il est très facile d\'isoler. Il suffit d\'un simple plat pour recueillir les sables, et d\'un peu d\'eau pour les laver.
+
+C\'est bien entendu, avec cet outillage si rudimentaire qu\'opéraient les Hosteliens. Les premiers résultats furent assez encourageants. En bordure du Golden Creek, sur une longueur de plusieurs kilomètres et une largeur de deux ou trois cents mètres, s\'étendait une couche de boue de huit pieds de profondeur. À raison de neuf à dix plats par pied cube, la réserve était donc abondante, car il était bien rare qu\'un plat n\'assurât pas au moins quelques grains d\'or. Les pépites, il est vrai, n\'étaient qu\'à l\'état de poussière, et ces placers n\'en étaient pas à produire les centaines de millions que ses pareils ont donnés dans d\'autres régions. Tels quels, cependant, ils étaient assez riches pour tourner la tête à de pauvres gens, qui jusqu\'alors n\'avaient réussi à assurer leur subsistance qu\'au prix d\'un travail opiniâtre.
+
+Il eût été de mauvaise administration de ne pas réglementer l\'exploitation des placers. Le gisement était, en somme, une propriété collective, et il appartenait à la collectivité de l\'aliéner au profit des individus. Quelles que fussent ses idées personnelles, le Kaw-djer en avait fait table rase, et, s\'obligeant à considérer le problème sous le même angle que la généralité des humains, il avait cherché la solution la plus utile, selon l\'opinion courante, au groupe social dont il était le chef. Au cours de l\'hiver, il avait eu à ce sujet de nombreuses conférences avec Dick, qu\'il associait de parti pris à toutes ses décisions. De leur échange de vues, la conclusion fut qu\'il importait d\'atteindre un triple but : limiter autant qu\'on le pourrait le nombre des Hosteliens qui partiraient à la recherche de l\'or, faire bénéficier l\'ensemble de la colonie des richesses arrachées à la terre, et enfin restreindre, repousser même si c\'était réalisable, l\'afflux des étrangers peu recommandables qui allaient accourir de tous les points du monde.
+
+
+La loi promulguée, il restait à l\'appliquer.
+
+Dès le début, elle se heurta à de grandes difficultés. Indifférents aux dispositions qu\'elle contenait en leur faveur, les colons ne furent sensibles qu\'aux obligations qu\'elle leur imposait. Quel besoin d\'obtenir et de payer une concession, alors qu\'on n\'avait qu\'à la prendre ? Creuser la terre, laver les boues des rivières, n\'est-ce pas le droit de tout homme ? Pourquoi serait-on contraint, pour exercer librement ce droit naturel, de verser une fraction quelconque du produit de son travail à ceux qui n\'y avaient aucunement participé ? Ces idées, le Kaw-djer les partageait au fond du coeur. Mais celui qui a assumé la mission redoutable de gouverner ses semblables doit savoir oublier ses préférences personnelles et sacrifier, quand il le faut, les principes dont il se croit le plus sûr aux nécessités de l\'heure.
+
+Or, cela sautait aux yeux, il était de première importance qu\'un encouragement fût donné aux colons les plus sages qui auraient l\'énergie de résister à la contagion et de rester appliqués à leur travail habituel, et le meilleur encouragement était qu\'ils fussent assurés d\'avoir leur part, réduite assurément, mais certaine, tout en demeurant chez eux.
+
+La loi n\'étant pas obéie de bonne grâce, on dut employer la contrainte.
+
+Le Kaw-djer ne disposait, à Libéria, que d\'une cinquantaine d\'hommes formant le corps de la police permanente, mais neuf cent cinquante autres Hosteliens figuraient sur une liste d\'appel, dont les plus anciens étaient éliminés à tour de rôle, à mesure que des jeunes gens arrivés à l\'âge d\'homme venaient s\'y ajouter. Ainsi mille hommes armés pouvaient toujours être rapidement réunis. Une convocation générale fut lancée.
+
+Sept cent cinquante Hosteliens seulement y répondirent. Les deux cents réfractaires étaient partis eux aussi pour les mines, et battaient la campagne aux environs du Golden Creek.
+
+Le Kaw-djer divisa en deux groupes les forces dont il disposait. Cinq cents hommes furent répartis le long des côtes, avec mission de s\'opposer au départ clandestin de l\'or. Il se mit à la tête des trois cents autres, qu\'il fractionna en vingt escouades sous les ordres de ceux dont il était le plus sûr, et se rendit avec eux dans la région des placers.
+
+La petite armée répressive fut disposée en travers de la presqu\'île, au pied des Sentry Boxes, et, de là, remonta vers le Nord, en balayant tout devant elle. Les laveurs d\'or rencontrés au passage étaient impitoyablement repoussés, à moins qu\'ils ne consentissent à se mettre en règle.
+
+Cette méthode obtint d\'abord quelques succès. Certains furent contraints de payer à deniers comptants le droit d\'exploitation, et les limites du claim choisi par eux furent soigneusement indiquées. D\'autres, par contre -- et c\'était la majorité -- ne possédant pas la somme exigée pour la délivrance d\'une concession, durent renoncer à leur entreprise. Le nombre des mineurs décrut sensiblement pour cette raison.
+
+Mais bientôt la situation s\'aggrava. Ceux qui n\'avaient pu obtenir une concession tournaient pendant la nuit les troupes commandées par le Kaw-djer et revenaient s\'établir en arrière sur le bord du Golden Creek, précisément à l\'endroit d\'où l\'on venait de les chasser. En même temps, le mal se répandait comme une marée montante.
+
+Excités par les trouvailles des premiers prospecteurs, une deuxième série d\'Hosteliens entraient en scène. D\'après les nouvelles qui parvenaient au Kaw-djer, l\'île entière était attaquée par la contagion. Le mal n\'était plus localisé au Golden Creek, et d\'innombrables chercheurs d\'or fouillaient les montagnes du centre et du Nord.
+
+On s\'était fait cette réflexion bien naturelle que les gisements aurifères ne devaient pas, selon toute vraisemblance, se rencontrer exclusivement dans cette plaine marécageuse située à la base des Sentry Boxes. La présence de l\'or sur l\'île Hoste étant démontrée, tout portait à croire qu\'on en trouverait également le long des autres cours d\'eau dépendant du même système orographique. On s\'était donc mis en chasse de tous côtés, de la pointe de la presqu\'île Hardy et de l\'extrémité de la presqu\'île Pasteur au Darwin Sound.
+
+Quelques prospections ayant abouti à de petits succès, la fièvre générale en fut augmentée, et la fascination de l\'or devint plus impérieuse encore. Ce fut une irrésistible folie qui, en quelques semaines, vida Libéria, les bourgades et les fermes de la plupart de leurs habitants. Hommes, femmes et enfants allaient travailler sur les placers. Quelques-uns s\'enrichissaient en découvrant une de ces poches où les pépites se sont accumulées sous l\'action des pluies torrentielles. Mais l\'espoir n\'abandonnait pas ceux qui, pendant de longs jours, au prix de mille fatigues, avaient travaillé en pure perte. Tous y courraient, de la capitale, des bourgades, des champs, des pêcheries, des usines et des comptoirs du littoral. Cet or, il semblait doué d\'un pouvoir magnétique, auquel la raison humaine n\'avait pas la force de résister. Bientôt, il ne resta plus à Libéria qu\'une centaine de colons, les derniers à demeurer fidèles à leurs familles et à continuer leurs affaires bien éprouvées cependant par un tel état de choses.
+
+Quelque pénible, quelque désolant que soit cet aveu, il faut bien reconnaître que, seuls de tous les habitants de l\'île Hoste, les Indiens qui s\'y étaient fixés résistèrent à l\'entraînement général. Seuls, ils ne s\'abandonnèrent pas à ces furieuses convoitises. Que ceci soit à l\'honneur de ces humbles Fuégiens, si plusieurs pêcheries, si plusieurs établissements agricoles ne furent pas entièrement délaissés, c\'est que leur honnête nature les préserva de la contagion. D\'ailleurs, ces pauvres gens n\'avaient pas désappris d\'écouter le Bienfaiteur, et la pensée ne leur venait pas de payer en ingratitude les innombrables bienfaits qu\'ils en avaient reçus.
+
+
+La contagion n\'épargna même pas ceux dont le devoir était de la combattre. Ce corps organisé par le Kaw-djer pour la surveillance des côtes disparut aussitôt que formé. Des cinq cents hommes qui le composaient, il n\'y en eut pas vingt à rejoindre le poste qui leur était assigné. En même temps, la troupe qu\'il commandait directement fondait comme un morceau de glace au soleil. Il n\'était pas de nuit que plusieurs fuyards ne missent à profit. En quinze jours, elle fut réduite, de trois cents hommes, à moins de cinquante.
+
+En dépit de son indomptable énergie, le Kaw-djer fut alors profondément découragé. À lui qui, poussé par une irrésistible passion du bien, s\'était rattaché à l\'humanité après une si longue rupture, voici qu\'elle se dévoilait cyniquement et montrait à nu tous ses défauts, toutes ses hontes, tous ses vices ! Ce qu\'il avait bâti avec tant de peine croulait en un instant, et, parce que le hasard avait fait jaillir quelques parcelles d\'or d\'un éclat de roche, les ruines allaient s\'accumuler sur cette malheureuse colonie.
+
+Lutter, il ne le pouvait même plus. Les plus fidèles le quittaient comme les autres. Ce n\'est pas avec la poignée d\'hommes dont il disposait encore, et qui l\'abandonneraient peut-être demain, qu\'il ramènerait à la raison une multitude égarée.
+
+Le Kaw-djer revint à Libéria. Il n\'y avait rien à faire. Comme un torrent dévastateur, le fléau s\'était répandu à travers l\'île et la ravageait tout entière. Il fallait attendre qu\'il eût épuisé sa violence.
+
+On put croire un instant que ce moment était arrivé. Vers la mi-décembre, quinze jours après le retour du Kaw-djer au gouvernement, quelques rares Libériens commencèrent à regagner la capitale. Les jours suivants, le mouvement s\'accentua. Pour un colon qui se mettait tardivement en campagne, deux rentraient et reprenaient, l\'oreille basse, leurs occupations antérieures.
+
+Deux causes motivaient ces revirements. En premier lieu, le métier de prospecteur était moins facile à exercer qu\'on ne l\'avait supposé. Briser la roche à coups de pic ou laver des sables du matin au soir sont des besognes pénibles que l\'espoir d\'un gain rapide permet seul de supporter. Or, il n\'avait pas suffi de se baisser pour ramasser des pépites, ainsi qu\'on se l\'était imaginé. Pour quelques-uns que leur heureuse étoile avait conduits sur une poche, on en comptait des centaines auxquels le métier de prospecteur, bien qu\'infiniment plus dur que leur travail habituel, avait rapporté beaucoup moins. Sur la foi des racontars, on avait attribué aux gisements une richesse incalculable. Il fallait en rabattre. Qu\'il y eût de l\'or sur l\'île Hoste, cela n\'était pas contestable, mais on ne l\'y ramassait pas à la pelle, comme on l\'avait cru naïvement de prime abord. De là, pour certains colons, un découragement d\'autant plus rapide que les illusions avaient été plus grandes.
+
+D\'autre part, le ralentissement des transactions commerciales et l\'arrêt presque total des exploitations agricoles commençaient à produire leurs effets. Certes, on ne manquait encore de rien. Mais le prix de tous les objets de première nécessité avait énormément augmenté. Seuls pouvaient s\'en rire ceux à qui la chasse à l\'or avait été profitable. Ce renchérissement concourait, au contraire, à augmenter la misère des autres, pour qui la trouvaille de quelques pépites de valeur n\'avait pas compensé la suppression des salaires habituels.
+
+De là ces reculades, dont le nombre fut d\'ailleurs restreint. Elles se limitèrent aux plus faibles et aux plus pauvres, et, en quelques jours, le mouvement s\'arrêta.
+
+Le Kaw-djer n\'en éprouva pas de déception, parce qu\'il ne s\'était jamais illusionné sur son ampleur. Loin de considérer la crise comme près de s\'apaiser, son regard clairvoyant découvrait de nouveaux dangers dans les ténèbres de l\'avenir. Non, la crise n\'était pas finie. Elle ne faisait que commencer, au contraire. Jusqu\'ici, on n\'avait eu à compter qu\'avec les Hosteliens, mais il n\'en serait pas toujours ainsi. De toutes les contrées du monde, la redoutable race des chercheurs d\'or s\'abattrait inévitablement sur la malheureuse île, dès que ceux-ci connaîtraient l\'existence du nouveau champ ouvert à leur insatiable rapacité.
+
+Ce fut le dix-sept janvier qu\'en arriva au Bourg-Neuf le premier convoi. Ils débarquèrent d\'un steamer au nombre de deux cents environ, deux cents hommes plus ou moins déguenillés, d\'aspect solide, l\'air résolu, brutal et farouche. Quelques-uns avaient de larges couteaux passés à la ceinture, mais de tous, sans exception, le pantalon, si minable qu\'il fût, comportait une poche spéciale que gonflait la crosse d\'un revolver. Ils portaient sur l\'épaule un pic et un sac où étaient incluses leurs misérables nippes, et sur leur hanche gauche, une gourde, un plat et une écuelle s\'entrechoquaient avec un bruit de ferraille.
+
+Le Kaw-djer les regarda tristement débarquer. Ces deux cents aventuriers, c\'était le premier tour de la chaîne dans laquelle l\'île Hoste allait être garrottée.À partir de ce jour, les arrivées se succédèrent à intervalles rapprochés. Aussitôt débarqués, les chercheurs d\'or, en gens ayant l\'habitude des formalités à remplir, se rendaient directement au gouvernement et s\'enquéraient des prescriptions légales en vigueur. Ils s\'accordaient unanimement à les trouver exorbitantes. Remettant alors à régulariser leur situation, ils se répandaient par la ville. Le petit nombre de ses habitants et les informations qu\'ils recueillaient habilement avaient tôt fait de les convaincre de la faiblesse de l\'Administration hostelienne. C\'est pourquoi ils se décidaient tous à passer outre à des lois que bravaient impunément les Hosteliens eux-mêmes, et, après avoir erré un ou deux jours dans les rues désertes de Libéria, ils quittaient la ville et s\'éloignaient sans autre formalité à la recherche d\'un claim.
+
+Mais l\'hiver vint, et, au même instant que les travaux miniers étaient arrêtés, le flot des arrivants fut tari. Le 24 mars, le dernier navire s\'éloigna du Bourg-Neuf, où il avait débarqué son contingent de prospecteurs. Plus de deux mille aventuriers foulaient à ce moment le sol de l\'île.
+
+Ce navire emportait, à de nombreux exemplaires, un décret notifié par le gouvernement de l\'île Hoste à tous les états du globe. Le Kaw-djer, qui avait assisté à l\'invasion avec une douleur grandissante, faisait savoir urbi et orbi que, l\'île Hoste ayant une population surabondante, il serait mis obstacle, fût-ce par la force, au débarquement de tout nouvel étranger.
+
+Cette mesure serait-elle efficace ? L\'avenir le dirait, mais, en son for intérieur, le Kaw-djer en doutait. Trop puissante est l\'attirance de l\'or sur certaines natures pour que rien ait le pouvoir de les arrêter.
+
+D\'ailleurs, le mal était fait déjà. La révolte des Hosteliens qui rejetaient toute discipline, l\'inévitable misère à laquelle ils étaient condamnés, l\'invasion de cette tourbe d\'aventuriers, de ces gens de sac et de corde apportant avec eux tous les vices de la terre, c\'était un désastre.
+
+À cela, que pouvait-on ? Rien. On ne pouvait que temporiser et attendre des jours meilleurs, s\'il en devait jamais naître. Halg, Karroly, Hartlepool, Harry et Edward Rhodes, Dick, Germain Rivière et une trentaine d\'autres étaient seuls contre tous. C\'étaient les derniers fidèles, le bataillon sacré groupé autour du Kaw-djer, qui assistait impuissant à la destruction de son oeuvre.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

@@ -1,0 +1,348 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[MADELEINE FÉRAT]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778583 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778245 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777907 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777569 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777231 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776555 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776217 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775879 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775541 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775203 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774865 .pcalibre .calibre3 .pcalibre1}[VII]{#_Toc368774527 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_71 .calibre25}
+
+[Vers le milieu de janvier, Guillaume dut se rendre à Mantes. Une affaire d'intérêt dont ils n'avaient pu confier le soin à personne, devait l'y retenir toute la soirée. Il partit en cabriolet, et dit à Madeleine qu'il rentrerait vers les onze heures. La jeune femme l'attendit en compagnie de Geneviève.]{.calibre11}
+
+
+[Elle murmurait dans le silence de la salle : « Et une femme de la ville, qui avait été de mauvaise vie, ayant su qu'il était à table dans la maison du Pharisien, y apporta un vase d'albâtre, plein d'une huile odoriférante. Et se tenant derrière, aux pieds de Jésus elle se mit à pleurer ; elle lui arrosait les pieds de ses larmes, et les essuyait avec ses cheveux ; elle lui baisait les pieds, et elle les oignait avec cette huile\... »]{.calibre11}
+
+[Elle continua ainsi, élevant le ton, laissant tomber un à un les versets, lentement, comme des pleurs étouffés.]{.calibre11}
+
+[Madeleine, jusque-là, avait fait son possible pour ne pas l'entendre. Une soirée en tête à tête avec elle l'effrayait. Elle lisait elle-même un livre, au coin de la cheminée, s'enfonçant dans sa lecture attendant Guillaume avec impatience. Les quelques mots qu'elle saisissait malgré elle de la psalmodie de Geneviève, lui causaient une sorte de malaise. Mais quand celle-ci commença l'histoire de la pécheresse repentante et pardonnée, elle leva la tête, elle écouta prise d'une émotion poignante.]{.calibre11}
+
+[Les versets tombaient un à un, et Madeleine croyait que la grande bible parlait d'elle, de sa honte, de ses pleurs, de ses parfums de tendresse. Ce poème de douleur et d'adoration n'était-il pas le sien ? Elle s'était agenouillée, et Guillaume lui avait pardonné.]{.calibre11}
+
+[Une douceur ineffable la pénétrait peu à peu, à mesure que le récit se déroulait, comme coupé par des soupirs profonds, des soupirs de remords et d'espérance. Elle suivit phrase à phrase, attendant avec ferveur la dernière parole de Jésus. Enfin le ciel lui disait qu'il suffisait d'avoir beaucoup aimé, d'avoir beaucoup pleuré pour goûter la joie de la rédemption. Elle songea à sa vie passée, à sa liaison avec Jacques ; le souvenir de cet homme qui la brûlait encore parfois, ne lui causa plus qu'un attendrissement de repentir. Toutes les cendres de cet amour étaient froides, et un souffle de miséricorde venait de les emporter. Comme la Madeleine, dont elle portait le nom, elle pouvait vivre au désert, se purifiant dans son amour. C'était une suprême absolution qu'elle recevait. Si parfois, lorsque Geneviève lisait, il lui avait semblé entendre des bouches invisibles, cachées dans l'ombre de la vaste salle, la menacer d'un châtiment terrible, elle croyait, en ce moment, saisir des voix caressantes qui lui donnaient des assurances d'oubli et de félicité.]{.calibre11}
+
+[Quand la protestante arriva à ce verset : « Puis, Jésus dit à la femme : "Tes péchés te sont pardonnés" », Madeleine eut un sourire de céleste joie. Elle sentait des larmes de remerciement lui monter aux yeux. Elle ne put s'empêcher de témoigner tout le bonheur qu'elle venait d'éprouver.]{.calibre11}
+
+[« C'est une belle histoire, dit-elle à Geneviève, je suis heureuse de l'avoir entendue\... Vous me la lirez quelquefois. » La fanatique avait levé la tête ; elle regardait la jeune femme de son regard dur, sans répondre. Elle paraissait surprise et mécontente de son goût pour les poèmes tendres du Nouveau Testament.]{.calibre11}
+
+[« Que je préfère ce récit, continua Madeleine, aux pages cruelles que vous lisez le plus souvent ! Allez, le pardon est doux à accorder, doux à recevoir. La pécheresse et Jésus vous le disent. »]{.calibre11}
+
+[Geneviève s'était levée. Elle se révolta aux accents émus de la jeune femme ; ses yeux prirent un éclat sombre ; puis, fermant la bible bruyamment, elle cria de sa voix fatale :]{.calibre11}
+
+[« Dieu le Père n'aurait pas pardonné. »]{.calibre11}
+
+[Cette parole terrible, pleine d'un fanatisme farouche, ce blasphème qui niait toute bonté, glaça Madeleine. Il lui sembla qu'un manteau de plomb lui retombait sur les épaules. Geneviève la repoussait brutalement dans l'abîme dont elle venait de sortir ; le Ciel n'avait pas de pardon, elle était une sotte d'avoir rêvé la douceur de Jésus. Elle fut prise, à ce moment, d'un véritable désespoir. « Qu'ai-je à redouter ? Pensait-elle, cette femme est folle. » Et, malgré elle, le pressentiment d'un coup qui l'aurait menacée, la faisait regarder autour d'elle d'un air inquiet. La vaste salle dormait dans la lueur jaune de la lampe, le feu luisait sur les briques de la cheminée. Tout ce qui entourait la jeune femme, ce grand silence d'une nuit d'hiver, cette lumière voilée qui traînait autour d'elle, lui paraissait cacher un malheur insondable.]{.calibre11}
+
+[Geneviève était allée à la fenêtre.]{.calibre11}
+
+[« Voici Guillaume », dit-elle en revenant au milieu de la pièce. Une clarté rouge avait couru sur les vitres, le bruit d'une voiture s'arrêtant devant le perron, s'était fait entendre. Madeleine, qui attendait son mari avec impatience quelques minutes auparavant, resta assise au lieu de courir à sa rencontre, regardant la porte avec une étrange anxiété. Son coeur battait douloureusement sans qu'elle pût dire pourquoi.]{.calibre11}
+
+[Guillaume entra vivement. Il avait l'air fou, mais d'une folie de joie. Il jeta son chapeau au loin, sur un meuble, et s'essuya le front, bien qu'il fît grand froid au-dehors. Il allait, il venait ; enfin, il s'arrêta devant Madeleine ; dès qu'il eut retrouvé la voix :]{.calibre11}
+
+[« Devine qui j'ai retrouvé à Mantes ? » lui demanda-t-il avec une terrible envie de lui dire tout de suite son secret.]{.calibre11}
+
+[La jeune femme, toujours assise, ne répondit pas. Le bonheur bruyant de son mari la surprenait, l'effrayait presque.]{.calibre11}
+
+[« Voyons, répéta-t-il, devine\... Cherche\... Je te le donne en mille.]{.calibre11}
+
+[--- Mais je ne sais, dit-elle enfin, nous n'avons pas d'ami dont la rencontre puisse te rendre si joyeux.]{.calibre11}
+
+[--- C'est ce qui te trompe, j'ai rencontré un ami, le seul, le meilleur\...]{.calibre11}
+
+[--- Un ami » reprit-elle, vaguement épouvantée.]{.calibre11}
+
+[Guillaume ne put garder sa bonne nouvelle plus longtemps. Il prit les mains de sa femme, et, brusquement : « J'ai retrouvé Jacques » s'écria-t-il avec une explosion de triomphe.]{.calibre11}
+
+[Madeleine ne poussa pas un cri, ne fit pas un geste. Elle devint affreusement pâle. « Ce n'est pas vrai, murmura-t-elle ; Jacques est mort.]{.calibre11}
+
+[--- Eh ! Non, il n'est pas mort. C'est toute une histoire ; je te la conterai\... Quand je l'ai aperçu à la station de Mantes, j'ai eu peur de lui. Je le prenais pour un revenant. »]{.calibre11}
+
+[Et il se mit à rire, d'un rire d'enfant heureux. Il avait laissé aller les mains de Madeleine qui étaient retombées inertes sur les genoux de la jeune femme. Elle restait écrasée sous le coup, sans voix, morte. Elle aurait voulu se lever pour fuir, qu'elle n'aurait pu remuer un membre. Dans l'hébétement de son être, elle n'entendait que les paroles atroces de Geneviève : « Dieu le Père n'aurait pas pardonné. » Dieu le Père, en effet, ne pardonnait pas. Elle avait bien senti que le malheur rôdait autour d'elle, près de l'étreindre à la gorge. Stupide, elle regardait les murs, comme si elle n'eût point connu la vaste salle ; la paix de cette pièce lui semblait terrible, maintenant que l'épouvante battait dans son cerveau avec un bruit assourdissant. Elle finit par fixer ses regards sur la protestante, elle se disait : « C'est cette femme qui est la fatalité, c'est elle qui est allée ressusciter Jacques pour le mettre entre mon mari et moi. »]{.calibre11}
+
+[Guillaume, que la joie aveuglait, s'était approché de Geneviève.]{.calibre11}
+
+[« Il faudra préparer la chambre bleue, lui dit-il.]{.calibre11}
+
+[--- Jacques vient demain ? demanda la vieille femme qui traitait toujours le chirurgien en petit garçon.]{.calibre11}
+
+[À cette question, qui retentit dans son accablement, Madeleine se leva enfin. Appuyée sur le dossier de son siège, chancelante : « Pourquoi viendrait-il demain ? dit-elle rapidement d'une voix fiévreuse. Il ne viendra pas\... Il a vu Guillaume à Mantes, c'est tout ce qu'il voulait\... Il est allé à Paris, n'est-ce pas ?\... Il doit avoir des affaires, des gens à visiter\... »]{.calibre11}
+
+[Elle balbutiait, elle ne savait plus ce qu'elle disait. Guillaume partit d'un joyeux éclat de rire. « Mais Jacques est là, dit-il, il sera ici dans une seconde\... Tu penses bien que je ne l'ai pas lâché\... Il aide à dételer le cheval qui s'est blessé\... Les chemins sont atroces, et la nuit est d'un noir ! »]{.calibre11}
+
+[Puis il alla ouvrir la fenêtre et cria : « Eh ! Jacques, dépêche-toi ? »]{.calibre11}
+
+[Une voix forte, qui venait des ténèbres de la cour, répondit : « Oui, oui. »]{.calibre11}
+
+[Cette voix frappa Madeleine en pleine poitrine, comme une masse de fer. Elle se laissa glisser de nouveau sur son siège en poussant un soupir étouffé, un râle d'agonie. Oh ! Qu'elle aurait voulu mourir ! Qu'allait-elle dire quand Jacques entrerait, quelle serait son attitude entre ces deux frères, son mari d'aujourd'hui et son amant d'autrefois ? Elle devenait folle à l'idée de la scène qui allait se passer. Elle pleurerait de rage et de douleur, elle se cacherait le visage entre les mains, tandis que Jacques et Guillaume s'écarteraient avec dégoût ; elle se traînerait à leurs pieds, follement, n'osant plus se réfugier dans les bras de son mari, désespérée d'avoir jeté sa honte comme un abîme entre ces amis d'enfance. Et elle se répétait ces paroles : « Jacques est là, il sera ici dans une seconde. » Chaque seconde qui s'écoulait était pour elle un siècle d'angoisse. Les yeux fixés sur la porte, elle baissait les paupières au moindre bruit, pour ne pas voir. Cette situation, cette attente qui dura au plus une minute, renferma toutes les souffrances d'une vie.]{.calibre11}
+
+[Guillaume continuait à marcher joyeusement de long en large. Il finit cependant par s'apercevoir de la pâleur de Madeleine.]{.calibre11}
+
+[« Qu'as-tu donc ? lui demanda-t-il en s'approchant.]{.calibre11}
+
+[--- Je ne sais, balbutia-t-elle, j'ai été souffrante toute la soirée. »]{.calibre11}
+
+[Puis faisant un effort, elle se souleva, elle appela tout ce qui lui restait d'énergie pour fuir, pour retarder la terrible explication. « Je vais me retirer, dit-elle d'une voix un peu plus ferme. Ton ami nous retiendrait longtemps à causer, et j'ai vraiment besoin de sommeil. Ma tête éclate\... Tu me le présenteras demain. »]{.calibre11}
+
+[Guillaume, qui se faisait une fête de mettre face à face les deux seules affections de sa vie, fut contrarié du malaise subit de sa femme. Depuis Mantes, il avait fouetté rudement son cheval ; la pauvre bête s'était même luxé une jambe en glissant dans une ornière. Il éprouvait une envie d'enfant d'être à la Noiraude ; il aurait voulu pousser déjà la porte de la salle à manger, s'imaginant avec des attendrissements de joie, la scène émue qui s'y passerait. Un instant, il eut la fantaisie puérile de jouer une petite comédie ; il présenterait Jacques comme un étranger et jouirait de l'étonnement de Madeleine, quand elle apprendrait le nom de l'inconnu. C'est qu'il était en réalité fou de contentement ; son coeur allait être plein désormais, plein d'un amour et d'une amitié qui feraient de son existence un long bonheur. Il se voyait unissant les mains de Madeleine et de Jacques, disant à l'une et disant à l'autre : « Voici ton frère, voici ta soeur ; aimez-vous, aimons-nous tous les trois jusqu'au dernier souffle. » Ses tendresses nerveuses se plaisaient dans ce rêve.]{.calibre11}
+
+[Il insista pour retenir sa femme. Il lui était dur de remettre au lendemain les jouissances de coeur qu'il se promettait depuis Mantes. Mais Madeleine paraissait si souffrante, qu'il la laissa se retirer. Elle allait sortir par la porte qui donnait sur le vestibule, lorsqu'elle crut entendre un bruit de pas. Elle se rejeta en arrière, d'un mouvement brusque et effaré, comme si elle eût voulu échapper à une agression subite ; puis elle se hâta de disparaître par une porte qui conduisait au salon. Elle avait à peine refermé cette porte, que Jacques entra.]{.calibre11}
+
+[« Ton cheval est fort mal arrangé, dit-il à Guillaume. Je suis un peu vétérinaire, je crois la bête perdue. »]{.calibre11}
+
+[Il disait cela simplement pour parler, regardant, cherchant dans la pièce, d'un air curieux. Lui qui comprenait un peu l'amour en garnement, il était très intrigué de savoir quelle femme avait pu épouser son ami, ce coeur délicat et faible dont les enthousiasmes amoureux le faisaient bien rire autrefois. Guillaume comprit l'interrogation muette de son regard. « Ma femme est souffrante, dit-il, tu la verras demain. »]{.calibre11}
+
+[Puis, se tournant vers Geneviève qui n'avait pas encore quitté la salle : « Vite, reprit-il, fais préparer la chambre bleue. Jacques doit être brisé de fatigue. »]{.calibre11}
+
+[La protestante s'était aperçue de l'émotion poignante de Madeleine. Une curiosité âpre l'avait seule retenue dans la pièce. Depuis longtemps, son esprit d'inquisiteur flairait le péché chez la jeune femme. Cette belle et forte créature, aux cheveux roux, aux lèvres rouges, exhalait pour elle une odeur charnelle, infernale. Malgré les répugnances de sa religion pour les images, la fanatique possédait dans sa chambre une gravure de la tentation de saint Antoine dont le tohu-bohu démoniaque plaisait à sa nature visionnaire. Ces diablotins qui tourmentaient le pauvre saint avec d'atroces grimaces, cette bouche de l'enfer qui s'ouvrait pour engloutir la vertu à la moindre défaillance, étaient un symbole fidèle de ses croyances religieuses. Dans un coin, des femmes étalaient lascivement leur gorge nue devant le vertueux ermite, et le hasard avait voulu qu'une de ces femmes eût une lointaine ressemblance avec Madeleine. Cette ressemblance frappait singulièrement l'imagination ardente de Geneviève ; elle s'épouvantait en retrouvant dans la jeune épouse de Guillaume, le sourire gras, la chevelure insolente de la courtisane, du monstre vomi par l'abîme. Souvent même elle l'appelait, dans sa pensée, avec une exaltation d'exorciste, de l'épithète latine : Lubrica, qui se trouvait écrite sur la marge de la gravure, au-dessous de la diablesse. Tout le bas de cette image, grossièrement imprimée, était ainsi couvert de noms figurés personnifiant un vice dans chaque démon. Lorsque, à la nouvelle de la résurrection de Jacques, le visage de Madeleine eut de brusques contractions, Geneviève fut convaincue que c'était le diable dont elle se trouvait possédée, qui la forçait à faire malgré elle ces grimaces de douleur. Elle crut apercevoir enfin la bête immonde cachée sous cette peau nacrée, dans cette chair de perdition, et n'aurait pas été trop étonnée de voir le corps superbe et voluptueux de la jeune femme se changer en un monstrueux crapaud. Si elle ne comprit pas le drame qui secouait la malheureuse, elle eut conscience que le péché l'étouffait. Aussi se promit-elle de la surveiller pour la mettre hors d'état de nuire, dans le cas où elle tenterait de faire rentrer, à la Noiraude, Satan qui en était sorti avec l'âme de M. De Viargue, par la cheminée du laboratoire.]{.calibre11}
+
+[Elle se décidait à monter pour préparer la chambre bleue, lorsque Jacques prit gaiement ses mains sèches. Il s'excusa de ne pas l'avoir aperçue en entrant, et renouvela connaissance avec elle. Il lui fit compliment sur sa bonne mine, lui dit qu'elle rajeunissait, finit même par amener un sourire à ses lèvres pâles. Il avait l'entrain un peu lourd d'un garçon bien portant qui a vécu libre et joyeux, sans secousse de coeur. Quand Geneviève se fut retirée, les deux amis s'assirent devant le foyer à demi éteint. Un brasier rose luisait sur les cendres. La grande salle reprenait sa paix endormie.]{.calibre11}
+
+[« Tu dors debout, dit Guillaume en souriant ; mais je ne te garderai pas longtemps. Ta chambre sera vite prête\... Ah ! Mon pauvre Jacques, qu'il est bon de se retrouver ! Causons, veux-tu ? Causons comme autrefois devant cette cheminée où nous réchauffions nos mains glacées, au retour de nos fameuses pêches. En avons-nous pris de ces écrevisses ! »]{.calibre11}
+
+[Jacques souriait, lui aussi. Ils causèrent des jours écoulés, du présent, de l'avenir ; leurs souvenirs et leurs espérances allaient au hasard de la conversation.]{.calibre11}
+
+[Déjà, pendant le trajet de Mantes à Véteuil, Guillaume avait accablé son ami de questions, sur la façon dont il s'était sauvé des flots, sur son long silence, sur ce qu'il comptait faire désormais. Il connaissait l'histoire de Jacques, et se la faisait répéter, avec de nouvelles expansions et de nouveaux étonnements.]{.calibre11}
+
+[Le journal que Guillaume avait lu, se trompait. Deux hommes sortirent vivants des débris du Prophète, le chirurgien et un matelot, qui eurent la bonne fortune de s'accrocher à une chaloupe qu'emportaient les vagues. Ils seraient morts de faim, si le vent ne les avait poussés à la côte. Là, ils furent jetés avec une telle violence sur des galets, que le matelot s'y écrasa net et que Jacques y resta évanoui, les côtes à demi rompues. Transporté dans une maison voisine, ce dernier demeura mourant près d'une année ; le médecin ignare qui le soignait, faillit le tuer plus de dix fois. Quand il fut guéri, au lieu de retourner en France, il continua son voyage et alla tranquillement en Cochinchine, où il reprit son service. Il écrivit une seule fois à son oncle ; l'enveloppe contenait une seconde lettre, adressée à Guillaume, que l'avocat de Véteuil devait porter à la Noiraude. Mais le digne homme était mort en laissant à son neveu une dizaine de mille francs de rente ; la correspondance de Jacques fut égarée, et jamais il n'eut le courage de reprendre la plume ; il avait pour l'encre et le papier l'horreur des gens d'action Il n'oublia pas précisément son ami, il remit de jour en jour les quelques mots qu'il voulait lui adresser, puis finit par se dire, avec sa belle insouciance de bon vivant, qu'il serait toujours temps de lui donner des nouvelles quand il rentrerait en France. L'annonce de son héritage le laissa assez froid ; il était alors l'amant d'une femme indigène dont l'étrange beauté le charmait. Plus tard, cette femme le lassa. Dégoûté du service, il résolut alors de revenir manger ses rentes à Paris. Il était débarqué la veille à Brest. D'ailleurs, il comptait rester un seul jour à Véteuil ; il se rendait en toute hâte à Toulon où se mourait un de ses camarades de campagne, qu'un autre vaisseau venait de ramener dans ce port ; ce garçon l'ayant sauvé d'un mauvais pas, il se faisait un devoir d'aller veiller à son chevet.]{.calibre11}
+
+[Ces détails surprirent beaucoup Guillaume, qui croyait écouter une histoire des Mille et Une Nuits. Il ne se serait jamais imaginé que tant de faits pussent se passer en si peu de temps, lui dont la vie s'était endormie dans une seule pensée de calme et d'affection. Sa nature douce et oisive s'effrayait même un peu de cette multiplicité d'événements.]{.calibre11}
+
+[La causerie des deux amis continuait, joyeuse et cordiale.]{.calibre11}
+
+[« Comment ! S'écria Guillaume, pour la vingtième fois peut-être, tu ne me restes qu'un jour, tu arrives et tu pars de nouveau ?\... Voyons, donne-moi une semaine.]{.calibre11}
+
+[--- C'est impossible, répondit Jacques ; je me ferais un crime de laisser mon pauvre camarade seul à Toulon.]{.calibre11}
+
+[--- Mais tu reviendras ?]{.calibre11}
+
+[--- Certes, dans un mois, dans quinze jours, peut-être.]{.calibre11}
+
+[--- Et pour ne plus repartir ?]{.calibre11}
+
+[--- Pour ne plus repartir, mon cher Guillaume. Je serai à toi, tout à toi. Si tu le désires, je passerai ici la prochaine belle saison\... En attendant, je reprendrai le chemin de fer demain soir. Tu as une journée, fais de moi ce qu'il te plaira. »]{.calibre11}
+
+[Guillaume n'entendait pas ; il regardait son ami avec attendrissement, et paraissait caresser une rêverie heureuse.]{.calibre11}
+
+[« Écoute, Jacques, dit-il enfin, je fais un songe que tu peux réaliser : viens vivre avec nous. Cette maison est si vaste, que parfois nous y frissonnons de froid ; la moitié des chambres sont inhabitées, et ces pièces vides, qui m'épouvantaient jadis, me causent encore un vague malaise. Quand tu seras là, je sens que la Noiraude se trouvera toute peuplée. Tu prendras un étage entier si tu veux ; tu y vivras à ta guise, en garçon. Ce que je te demande, c'est ta présence, ce sont tes bons rires et tes franches poignées de main ; ce que je t'offre, c'est notre tranquille félicité, notre paix de toutes les heures. Si tu savais comme il fait tiède et bon dans les coins où se cachent deux amants ! N'es-tu pas tenté de te reposer au fond de notre trou perdu ? Habite cette demeure, je t'en prie ; consens à y passer des années, loin du bruit, loin du monde ; apprends à goûter notre sommeil, et tu verras que tu ne voudras jamais plus te réveiller. Tu nous apporteras ta gaieté, nous te donnerons de notre rêverie. Je resterai ton frère, et ma femme deviendra ta soeur. »]{.calibre11}
+
+[Jacques écoutait en souriant les paroles émues de Guillaume. Toute son attitude raillait doucement.]{.calibre11}
+
+[« Mais, regarde-moi donc ! » s'écria-t-il pour toute réponse.]{.calibre11}
+
+[Il prit la lampe et s'éclaira la face. Son visage s'était comme épaissi et durci ; les vents de la mer, le grand soleil l'avaient couvert d'un hâle couleur de brique ; les traits s'en trouvaient empâtés par l'existence rude que le chirurgien avait menée. Il paraissait avoir grandi, être devenu plus gros ; ses épaules carrées, sa poitrine large, ses membres solides en faisaient une sorte de lutteur, aux poings énormes, à la tête bestiale. Il revenait légèrement brute ; les quelques délicatesses de son enfance s'étaient émoussées dans son métier de coupeur de membres ; il avait tant mangé, tant ri, si bien vécu de la vie animale, pendant ses années de service, qu'il n'éprouvait plus de besoins de coeur, et qu'il lui suffisait de contenter sa chair. Au fond, il restait bon enfant, mais il était incapable de comprendre l'amitié à la façon passionnée, absolue de Guillaume. Il rêvait une vie de plaisirs positifs, une vie exempte de tout lien passée ici et là, au fond des alcôves les plus tièdes, autour des meilleures tables. Son ami qui ne l'avait pas encore examiné attentivement, fut surpris de le retrouver si mûr, si enfoncé dans sa graisse ; il n'était plus qu'un enfant débile à côté de lui.]{.calibre11}
+
+[« Eh bien ! Je te regarde, répondit-il d'un air inquiet, prévoyant ou il voulait en venir.]{.calibre11}
+
+
+[--- Non, non, le bonheur fait vivre.]{.calibre11}
+
+[--- Mais ton bonheur ne sera jamais le mien, enfant que tu es ! Cette demeure serait une tombe pour moi, ton amitié ne me sauverait pas de l'ennui écrasant de ces grandes pièces vides dont tu me parles\... Je suis franc, je sais que nous ne pouvons nous fâcher. « Et comme il voyait Guillaume tout désolé de son refus :]{.calibre11}
+
+[« Je ne dis pas, continua-t-il, que je n'accepterai jamais ton hospitalité. Je viendrai vous voir, passer un mois avec vous de temps à autre. Je t'ai déjà demandé à m'installer chez toi l'été prochain. Mais, dès les premiers froids, j'irai me chauffer à Paris\... M'enterrer ici sous la neige, ah ! Mais non, mon brave ! »]{.calibre11}
+
+[Sa voix forte, sa gaieté sanguine blessaient le pauvre Guillaume qui ne pouvait se consoler de voir son cher rêve évanoui.]{.calibre11}
+
+[« Et que comptes-tu faire à Paris ? demanda-t-il.]{.calibre11}
+
+[--- Je ne sais pas, répondit Jacques. Rien sans doute. Il y a assez longtemps que je travaille. Puisque mon oncle a eu l'excellente idée de me laisser des rentes, je vais vivre joyeusement au soleil. Oh ! Je ne serai pas embarrassé de mon temps. Je mangerai bien, je boirai sec, j'aurai pour me désennuyer plus de belles filles que je n'en voudrais\... Et voilà, mon cher garçon ! » Il eut un nouvel éclat de rire. Guillaume hochait la tête.]{.calibre11}
+
+[« Tu ne seras pas heureux, dit-il. À ta place, je me marierais, je viendrais ici, dans cette retraite paisible où le bonheur est sûr. Entends ce grand silence qui nous environne, regarde la lueur paisible de cette lampe : c'est là ma vie. Dis-toi quelle existence douce tu mènerais dans ce calme parfait, si tu avais au coeur une tendresse, et que tu eusses devant toi, pour contenter cette tendresse des jours, des mois, des années semblables, également tranquilles\... Marie-toi et viens. »]{.calibre11}
+
+[Cette idée de mariage et de retraite dans une chartreuse d'amour finit par paraître singulièrement comique à l'ancien chirurgien.]{.calibre11}
+
+[« Ah ! Quel tempérament d'amoureux ! S'écria-t-il. Il ne veut pas croire qu'il n'y a que lui sur la terre bâti de cette façon\... Mais, mon pauvre ami, on n'en fait plus des maris comme toi. Si je me mariais, je battrais peut-être ma femme au bout de huit jours, bien que je ne sois pas méchant. Comprends donc que nous n'avons pas le même sang dans les veines. Tu as pour la femme un respect ridicule ; moi, je la considère comme un régal exquis, mais dont il ne faut pas se donner chez soi des indigestions. Si je me mariais et si je me retirais ici, je plaindrais sincèrement la triste créature que j'y enfermerais en ma compagnie. » Guillaume haussa les épaules.]{.calibre11}
+
+[« Tu te fais plus noir que tu n'es, dit-il. Tu adorerais ta femme tu la regarderais comme une idole le jour où elle te donnerait un enfant. Ne te moque pas de mon respect ridicule ; ce sera tant pis pour toi si tu ne l'as jamais. On ne doit aimer qu'une femme en sa vie, celle qui vous aime, et vivre tous deux de ce mutuel amour.]{.calibre11}
+
+[--- Voilà une phrase que je reconnais, répondit Jacques avec quelque ironie, tu me l'as dite déjà sous les saules du ruisseau. Allons, tu n'as pas changé, je retrouve mon enthousiaste d'autrefois\... Que veux-tu, je n'ai pas changé davantage, je comprends l'amour autrement. Une liaison éternelle me ferait peur, j'ai toujours évité de m'acoquiner à une jupe, et je m'arrange de façon à désirer toutes les femmes pour n'en aimer aucune. Le plaisir a sa douceur, mon cher trappiste\... »]{.calibre11}
+
+[Il s'arrêta un instant, puis il demanda tout à coup, de sa voix brutale et joyeuse : « Es-tu heureux, toi, avec ta femme ? »]{.calibre11}
+
+[Guillaume qui s'apprêtait à plaider en faveur de ses sentiments l'éternelle tendresse, fut calmé par cette question personnelle qui éveillait en lui la sensation délicieuse de ses quatre dernières années de bonheur.]{.calibre11}
+
+[« Oh ! Oui, heureux, bien heureux, répondit-il d'une voix attendrie. Tu ne peux t'imaginer une telle félicité, toi qui refuses de la goûter. C'est un bercement sans fin : il ne semble que je suis redevenu enfant et que j'ai trouvé une mère. Depuis quatre ans, nous vivons dans une pure joie. J'aurais voulu que tu fusses là pour apprendre à aimer. Ce silence, cette ombre qui t'effrayent, nous ont endormis dans un rêve divin. Et jamais nous ne nous réveillerons, mon ami ; j'ai la certitude et l'avant goût d'une éternité de paix. »]{.calibre11}
+
+[Jacques, tandis qu'il parlait, le regardait avec curiosité. Il avait un vif désir de l'interroger sur sa femme, sur la bonne âme qui consentait à se noyer dans un pareil fleuve de lait.]{.calibre11}
+
+[« Ta femme est jolie ? demanda-t-il crûment.]{.calibre11}
+
+[--- Je ne sais pas, répondit Guillaume, je l'aime beaucoup\... Tu la verras demain.]{.calibre11}
+
+[--- Est-ce à Véteuil que tu l'as connue ?]{.calibre11}
+
+[--- Non. Je l'ai rencontrée à Paris. Nous nous sommes aimés, et je l'ai épousée. »]{.calibre11}
+
+[Il sembla à Jacques qu'une légère rougeur montait aux joues de son ami. Il eut vaguement conscience de la vérité. Il n'était pas homme à s'arrêter dans son interrogatoire.]{.calibre11}
+
+[« Est-ce qu'elle a été ta maîtresse avant d'être ta femme ? demanda-t-il encore.]{.calibre11}
+
+[--- Oui, pendant un an », répondit simplement Guillaume.]{.calibre11}
+
+[Jacques se leva, fit quelques pas en silence. Puis il revint se planter devant son ami, et, d'une voix grave :]{.calibre11}
+
+[« Autrefois, dit-il, tu m'écoutais quand je te grondais. Laisse-moi reprendre pour un instant mon ancien rôle de protecteur\... Tu as fait une sottise, mon brave : on n'épouse jamais sa maîtresse. Tu ignores la vie ; un jour tu comprendras ta faute, tu te souviendras de mes paroles. Ces sortes de mariages sont exquis, mais ils tournent toujours mal : on s'adore pendant quelques années et l'on se déteste le restant de ses jours. « À son tour, Guillaume s'était levé vivement.]{.calibre11}
+
+[« Tais-toi ! S'écria-t-il avec une soudaine fermeté. Je t'aime bien comme tu es, mais je ne veux pas que tu nous juges à l'exemple des autres ménages. Quand tu auras vu ma femme, tu te repentiras de tes paroles.]{.calibre11}
+
+[--- Je m'en repens déjà, si tu le désires, dit l'ancien chirurgien en gardant son air grave. Mettons que l'expérience m'ait rendu sceptique et que je ne comprenne rien à tes raffinements de tendresse. J'ai parlé comme je pense. Il est un peu tard pour te donner des conseils ; mais, à l'occasion, tu pourras tirer quelque profit de mon avertissement. »]{.calibre11}
+
+[Il y eut un silence pénible. À ce moment, un domestique vint annoncer que la chambre bleue était prête. Guillaume retrouva son bon sourire ; il tendit la main à son ami, dans un geste cordial et caressant. « Monte te coucher, reprit-il. Demain il fera jour, tu verras ma femme et ma petite Lucie\... Va, je te convertirai ; je te ferai épouser quelque brave fille, et tu finiras par venir t'enterrer dans cette vieille maison. Le bonheur est patient, il t'y attendra. »]{.calibre11}
+
+[Les deux jeunes gens marchaient en causant. Quand ils furent dans le vestibule, au pied de l'escalier, Jacques prit à son tour la main de son vieux camarade.]{.calibre11}
+
+[« Ne m'en veux pas de mes paroles, dit-il en montrant une grande effusion ; je ne désire que ton bonheur\... Tu es heureux, n'est-ce pas ? »]{.calibre11}
+
+[Il montait déjà les marches du premier étage. « Eh ! Oui, répondit Guillaume avec un dernier sourire, tout le monde est heureux ici\... À demain. »]{.calibre11}
+
+[Comme il rentrait dans la salle à manger, il aperçut Madeleine droite au milieu de la pièce. La jeune femme avait entendu toute là conversation des deux amis. Elle était restée derrière la porte du salon, clouée là par la voix de Jacques. Cette voix, dont elle retrouvait les moindres inflexions, la secouait étrangement. Elle suivait les phrases, se rappelant les gestes et les mouvements de tête dont le causeur devait les accompagner. La porte qui la séparait de son ancien amant, n'existait pas pour elle ; elle s'imaginait l'avoir devant les yeux, vivant, agissant, comme au temps de la rue Soufflot. La présence, le voisinage de cet homme lui causait une volupté amère ; sa gorge se serrait d'angoisse à ses gros rires, sa chair brûlait des fièvres qu'il lui avait fait connaître le premier. Elle était avec une secrète horreur, attirée vers lui ; elle aurait voulu fuir, elle ne pouvait, elle goûtait une jouissance involontaire à le voir ressusciter. Plusieurs fois elle se baissa, d'un mouvement instinctif, cherchant à l'apercevoir par le trou de la serrure, pour le mieux reconnaître. Les quelques minutes qu'elle demeura ainsi, défaillante, appuyant les mains contre la porte, lui parurent une éternité de tourments. « Si je tombe, pensait-elle, ils viendront, et je mourrai de honte. » Certaines phrases de Jacques la frappèrent au coeur ; quand il déclara qu'on ne devait jamais épouser sa maîtresse, elle se mit à sangloter, étouffant ses larmes, craignant d'être entendue. Cette causerie, ces projets de bonheur qu'elle allait fouler aux pieds, ces confidences qui la blessaient au plus profond de son être, furent pour elle un supplice indicible. Elle saisissait à peine la voix douce de Guillaume ; elle n'avait dans les oreilles que cette voix grondante de Jacques qui éclatait terriblement au milieu de son ciel calme. Elle se sentait foudroyée.]{.calibre11}
+
+[Quand les deux amis allèrent jusqu'au pied de l'escalier, elle fit un suprême effort, en se disant qu'il fallait en finir. Après ce qu'elle venait d'entendre, il lui était impossible d'accepter jusqu'au lendemain une pareille situation. Sa nature droite se révoltait. Elle revint dans la salle à manger. Ses cheveux roux s'étaient dénoués ; son visage, horriblement pâle, avait de brusques contractions ; ses yeux dilatés semblaient des yeux ternes et fixes de femme folle. Guillaume, surpris de la retrouver là, fut effrayé de son désordre. Il courut à elle.]{.calibre11}
+
+[« Qu'as-tu, Madeleine ? lui demanda-t-il ; tu ne t'es pas couchée ? » Elle répondit d'une voix sourde, en montrant la porte du salon :]{.calibre11}
+
+[« Non, j'étais là. » Elle fit un pas vers son mari, lui posa les mains sur les épaules, et, le regardant de ses yeux froids :]{.calibre11}
+
+[« Jacques est ton ami ? demanda-t-elle d'un ton bref.]{.calibre11}
+
+[--- Oui, répondit Guillaume étonné, tu le sais bien, je t'ai dit quel lien puissant nous attachait l'un à l'autre\... Jacques est mon frère, et je désire que tu l'aimes comme une soeur. »]{.calibre11}
+
+[À ce mot de soeur, elle eut un étrange sourire. Elle ferma les yeux un instant ; puis levant les paupières, plus pâle et plus résolue : « Tu rêves de lui faire partager notre vie, reprit-elle, tu voudrais qu'il vînt habiter avec nous pour l'avoir toujours à ton côté ?]{.calibre11}
+
+[--- Certes, dit le jeune homme, c'est là mon plus cher désir\... Je serais si heureux avec toi et lui, je m'appuierais sur vous, je vivrais entre les seuls êtres qui m'aiment au monde\... Dans notre jeunesse, nous avions juré, Jacques et moi, d'avoir tout en commun.]{.calibre11}
+
+[--- Ah vous aviez fait ce serment », murmura Madeleine, frappée au coeur par la phrase innocente de son mari.]{.calibre11}
+
+[Jamais l'idée de partage entre Jacques et Guillaume ne l'avait tant écoeurée. Elle dut garder le silence ; sa gorge se séchait, elle n'aurait plus trouvé que des cris pour confesser la vérité. À ce moment, Geneviève entra dans la pièce, sans que les époux fissent attention à elle, elle vit leur trouble, elle se tint droite au fond de l'ombre ; ses yeux ardents luisaient, ses lèvres remuaient silencieusement, comme si elle ; eût prononcé à voix basse des paroles de conjuration.]{.calibre11}
+
+[Pendant toute la confession de Madeleine, elle resta là, immobile, implacable, pareille à la figure roide et muette du Destin.]{.calibre11}
+
+[« Pourquoi me fais-tu ces questions ? » demanda enfin Guillaume vaguement épouvanté par l'attitude de sa femme. Cette dernière ne répondit pas sur-le-champ. Elle continuait à peser de ses mains sur les épaules de son mari, à le regarder de près, dans les yeux, avec une fixité cruelle. Elle espérait qu'il lirait la vérité sur son visage et qu'elle n'aurait pas ainsi à avouer sa honte tout haut. Un aveu immédiat lui coûtait horriblement. Elle ne savait quels mots employer. Il fallait cependant qu'elle se décidât.]{.calibre11}
+
+[« J'ai connu Jacques à Paris, dit-elle lentement.]{.calibre11}
+
+[--- N'est-ce que cela ? S'écria Guillaume, qui ne comprit pas. Tu m'as fait une peur !\... Eh bien ! Si tu as connu Jacques à Paris, il sera pour nous deux une vieille connaissance, voilà tout\... Crois-tu que je songe à rougir de toi ? J'ai déjà conté notre histoire à mon ami, je suis fier de nos amours.]{.calibre11}
+
+[--- J'ai connu Jacques, répéta la jeune femme, d'une voix plus rauque.]{.calibre11}
+
+[--- Eh bien ?\... » L'aveuglement, la confiance absolue de son mari torturaient Madeleine. Il ne voulait pas comprendre, il la forçait à être brutale. Elle eut un élan de rage.]{.calibre11}
+
+[« Écoute, s'écria-t-elle violemment, tu m'as suppliée de ne jamais te parler de mon passé. Je t'ai obéi, j'ai presque oublié. Mais voilà que le passé ressuscite et m'écrase, moi qui vivais tranquille ici. Je ne puis pourtant pas me taire ; il faut que je te parle de cela, pour que tu empêches Jacques de me voir\... Je l'ai connu, comprends-tu ? »]{.calibre11}
+
+[Guillaume s'affaissa sur une chaise, au coin de la cheminée. Il crut qu'il recevait un coup sur le crâne, il tendit les mains en avant comme pour s'accrocher dans sa chute. Tout son corps se glaçait. Le tremblement nerveux qui lui avait fait fléchir les jambes, le secouait des pieds à la tête, et donnait à ses dents un petit claquement sec et régulier.]{.calibre11}
+
+[« Lui !\... Oh ! Malheureuse ! Malheureuse ! » répéta-t-il d'une voix brisée.]{.calibre11}
+
+[Il joignit les mains, dans une attitude de prière. Ses cheveux légèrement dressés sur ses tempes, ses prunelles agrandies, ses lèvres blanches et fiévreuses, toute sa face bouleversée par une angoisse poignante, semblait prier le ciel de ne point le frapper avec tant de cruauté. Il y avait en lui plus d'épouvante que de colère. Jadis il prenait cette attitude au collège quand ses camarades venaient de le rouer de coups, et qu'il se désespérait dans un coin, en se demandant quelle faute il avait pu commettre. Il ne trouvait, au fond de son coeur saignant, pas un reproche, pas une insulte qu'il pût jeter à Madeleine pour soulager sa douleur ; il se contentait de la regarder en silence de ses grands yeux d'enfant suppliants et terrifiés.]{.calibre11}
+
+[La jeune femme souhaitait qu'il la battît. Elle se serait révoltée sous sa main, elle aurait retrouvé son énergie. Ses regards désespérés, sa pose de victime la jetèrent toute pantelante à ses pieds.]{.calibre11}
+
+[« Pardon, balbutia-t-elle en se traînant à terre, pleurante, les cheveux sur la face, secouée par des crises de sanglots, pardon, Guillaume. Tu souffres, mon ami. Ah ! Dieu est sans pitié. Il châtie ses créatures en maître jaloux et implacable. Geneviève avait raison de frissonner devant lui et de m'épouvanter de sa colère. Je ne croyais pas cette femme, j'espérais que le Ciel pardonnait quelquefois. Il ne pardonne jamais. Je disais : "Le passé est mort, je puis vivre en paix." Le passé, c'était cet homme que la mer avait englouti. Il était enseveli avec ma honte au fond des vagues, roulé dans les profondeurs de l'océan, battu contre les rochers, disparu pour toujours. Eh bien ! Non, il ressuscite, il revient du gouffre avec ses gros rires ; la fatalité le jette à la côte et l'envoie nous voler notre bonheur\... Comprends-tu cela, toi, Guillaume ? Il était mort, et il n'est plus mort\... C'est bête et cruel à en mourir\... Va, le ciel ne fait que de ces miracles-là. Il se serait bien gardé de tuer Jacques tout à fait. Il avait besoin de ce revenant pour me châtier\... Quelle faute avons-nous donc commise ? Nous nous sommes aimés, nous avons été heureux. C'est de notre félicité que nous sommes punis. Dieu ne veut pas que sa créature vive paisible. Cela me soulagerait de blasphémer\... Geneviève a raison\... Le passé, la faute ne meurt pas.]{.calibre11}
+
+[--- Malheureuse ! Malheureuse ! Répétait Guillaume.]{.calibre11}
+
+[--- Rappelle-toi, je ne voulais pas accepter le mariage que tu m'offrais. Lorsque tu m'as suppliée de m'unir à toi, tu te souviens, ce triste soir d'automne, au bord de la source que les pluies avaient rendue fangeuse, une voix me criait de ne pas compter sur la clémence du Ciel. Je te disais : "Restons comme nous sommes ; nous nous aimons, cela suffit, nous nous aimerions peut-être moins si nous étions mariés." Et toi tu insistais, disant que tu désirais me posséder tout entière, ouvertement ; tu me parlais d'une vie de paix, tu prononçais les mots d'estime, de tendresse éternelle, de foyer commun. Ah ! Que ne me suis-je montrée impitoyable, que n'ai-je écouté la terreur secrète qui m'avertissait ! Tu m'aurais accusée alors de ne point t'aimer, mais aujourd'hui je fuirais devant Jacques, je disparaîtrais de ton existence, sans salir tes affections d'enfant, sans t'entraîner avec moi dans la boue. Je pensais qu'en restant ta maîtresse, si jamais je devenais infâme à tes yeux, si jamais nous nous rencontrions face à face avec ma honte, tu pourrais me chasser comme une fille et employer ton dégoût à m'oublier. Je serais encore une créature perdue qui passe d'un lit dans un autre, et que ses amants jettent à la porte, à la première rougeur que son ignominie leur fait monter au front. Et voilà que nous avons une petite fille\... Oh ! Pardonne, mon ami. J'ai été bien lâche de te céder.]{.calibre11}
+
+[--- Malheureuse ! Malheureuse ! Répétait toujours Guillaume.]{.calibre11}
+
+[--- Oh ! Oui, j'ai été lâche, mais il faut tout comprendre. Si tu savais combien j'étais lasse, combien j'avais besoin de repos\... Va, je ne me fais pas meilleure que les autres ; seulement, je sais que j'ai gardé mes fiertés, j'ai cédé par besoin d'estime, par envie de guérir les blessures de mon orgueil. Quand tu m'as donné ton nom, il m'a semblé que tu me lavais de toute souillure. Il paraît que la boue fait des taches ineffaçables\... D'ailleurs, j'ai lutté, n'est-ce pas ? J'ai passé toute une nuit à me demander si je ne commettrais pas une mauvaise action en acceptant ton offre. Le matin, je devais refuser. Tu es arrivé comme je dormais encore, et tu m'as prise dans tes bras ; je me souviens, tes vêtements sentaient l'air frais du matin ; tu avais marché au milieu des herbes humides pour accourir plus vite, et tout mon courage s'en est allé. Cependant j'avais vu Jacques dans mon insomnie. Le spectre me disait que je lui appartenais toujours, qu'il assisterait à notre mariage, qu'il habiterait notre alcôve\... Je me suis révoltée, j'ai voulu me prouver que j'étais libre, et j'ai été lâche, lâche, lâche\... Ah ! Que je dois t'écoeurer, et que tu fais bien de me haïr.]{.calibre11}
+
+[--- Malheureuse ! Malheureuse ! disait la voix basse et monotone de Guillaume.]{.calibre11}
+
+[--- Plus tard, j'ai été sotte, je me suis applaudie avec impudence d'avoir commis une lâcheté. Pendant quatre ans, le Ciel a eu la raillerie cruelle de me récompenser de mon action mauvaise. Il voulait me frapper en plein calme pour rendre le coup mortel\... Je vivais tranquille dans cette pièce, je me persuadais par moments que j'y avais toujours vécu. Je me croyais honnête quand j'embrassais notre petite Lucie\... Quelles tièdes journées, quelles caresses bienfaisantes, que de tendresse folle et de bonheur volé ! Oui, je volais tout cela : ton amour, ton estime, ton nom la sérénité de notre vie, les baisers de ma fille. Je ne méritais rien de bon, rien de digne. Comment ai-je pu ne pas comprendre que la destinée s'amusait de moi, et qu'elle devait un jour ou l'autre m'arracher ces joies qui n'étaient pas faites pour une créature de mon espèce ? Non, je m'étalais stupidement dans ma félicité, dans mon vol ; je finissais par m'imaginer que ces jours heureux m'étaient dus ; j'avais la naïveté de me dire que ces jours seraient éternels. Et puis tout a croulé !\... Eh bien ! Ce n'est que justice. Je suis une misérable. Mais toi, Guillaume, tu ne dois pas souffrir. Je ne veux pas que tu souffres, entends-tu\... Je vais m'en aller, tu m'oublieras, tu n'entendras jamais plus parler de moi\... »]{.calibre11}
+
+[Et elle sanglotait, affaissée au milieu de ses jupes, écartant ses cheveux que les larmes lui collaient aux joues. Le désespoir de cette puissante créature, dont un coup brusque brisait l'énergie habituelle, était plein d'un sourd grondement de colère. Elle se faisait humble, mais des rages soudaines la prenaient, et alors elle aurait voulu injurier le destin. Elle se serait calmée plus vite si son orgueil eût moins souffert. Une seule pensée douce l'attendrissait réellement : elle avait pitié de Guillaume. Ses genoux ayant glissé, elle se trouvait assise à terre ; tandis qu'elle parlait avec l'accent saccadé d'un moribond qui a le délire, elle levait les yeux vers son mari d'une façon suppliante, comme pour le prier de ne pas s'abandonner ainsi à l'angoisse.]{.calibre11}
+
+[Guillaume, hébété, stupide, la regardait d'un air morne se traîner sur le carreau. Il s'était pris la tête entre les mains, il répétait : « La malheureuse ! La malheureuse ! » avec le balancement de cou d'un idiot qui n'aurait trouvé que cette parole au fond de son crâne vide. Il n'y avait, en effet, rien que cette plainte dans son pauvre être endolori. Il ne savait plus même pourquoi il souffrait ; il se berçait de ces litanies lamentables, de ce mot dont le sens avait fini par lui échapper. Quand sa femme cessa de parler, la voix étranglée par la douleur, il parut tout surpris du grand silence qui régna. Il se souvint alors, il eut un geste de souffrance indicible.]{.calibre11}
+
+[« Tu savais pourtant que Jacques était mon ami, mon frère », dit-il d'une voix étrange, d'une voix qui n'était plus la sienne.]{.calibre11}
+
+[Madeleine secoua la tête d'un air de souverain mépris.]{.calibre11}
+
+[« Je savais tout, reprit-elle. J'ai été lâche, te dis-je, lâche et infâme. Tu te souviens du jour où tu es revenu en larmes, rue de Boulogne ? Tu apportais la nouvelle de la mort de Jacques. Eh bien ! Avant ton arrivée, j'avais découvert le portrait de cet homme. Dieu m'est témoin que, ce jour-là, j'ai voulu fuir pour t'épargner la douleur de m'avoir partagée avec ton frère\... C'est le destin qui m'a tentée. Notre aventure est une sinistre plaisanterie du Ciel\... Quand j'ai cru que le passé n'était plus, quand j'ai appris que Jacques ne pouvait se lever entre nous, j'ai faibli, je n'ai pas eu le courage de sacrifier mes tendresses, je me suis dit pour m'excuser que je ne devais point te désoler en me séparant de toi. Et, à partir de cette heure, j'ai menti, j'ai menti par mon silence\... La honte ne m'étouffait pas. J'aurais gardé ce secret a jamais ; tu serais mort peut-être dans mes bras sans savoir qu'avant toi j'avais serré ton frère sur ma poitrine\... Mes étreintes te glaceraient aujourd'hui, et tu songes avec dégoût à nos cinq années d'amour. Moi, j'ai accepté tranquillement toute cette infamie. C'est que je suis mauvaise. »]{.calibre11}
+
+[Elle s'arrêta brusquement, haletante prêtant l'oreille, son visage anxieux exprimait un effroi subit. La porte de la salle donnant sur le vestibule était demeurée à demi ouverte, et il lui avait semblé entendre un bruit de pas dans l'escalier.]{.calibre11}
+
+[« Écoute, murmura-t-elle, Jacques descend\... Sais-tu bien qu'il pourrait venir d'un moment à l'autre ? »]{.calibre11}
+
+[Guillaume fut comme éveillé en sursaut. Pris de la même anxiété, il tendit également l'oreille. Ils restèrent ainsi un instant tous deux demi-courbés, assourdis et étouffés par les battements de leur coeur. On eût dit qu'un assassin était là, dans les ténèbres du vestibule, et qu'à chaque seconde ils s'attendaient à le voir pousser violemment la porte et se précipiter sur eux, un couteau au poing. Guillaume frissonnait plus encore que Madeleine. Maintenant qu'il connaissait la vérité, il ne pouvait supporter l'idée de se retrouver face à face avec Jacques ; une explication immédiate révoltait son esprit délicat et faible. La supposition que sa femme faisait, la pensée que son ami allait peut-être redescendre achevait de l'affoler, après la crise qui venait de le briser. Quand il eut vainement écouté, il reporta ses regards sur Madeleine, il la contempla à ses pieds avec un abattement, un abandon poignants. Tout son être éprouvait un besoin suprême de consolation.]{.calibre11}
+
+[D'un mouvement instinctif, il se laissa glisser entre les bras de la jeune femme, qui le reçut et le serra contre sa poitrine.]{.calibre11}
+
+[Longtemps, ils pleurèrent. Ils semblaient vouloir se lier à jamais d'une étreinte, s'attacher si fortement l'un à l'autre que Jacques ne pût les séparer. Guillaume avait noué ses mains derrière le dos de Madeleine, et il sanglotait, le front appuyé sur son épaule comme un enfant. Il lui pardonnait par ses larmes, par cet abandon subit qui venait de le jeter là. Sa faiblesse disait : « Tu n'es pas coupable ; c'est le hasard qui a tout fait. Tu le vois, je t'aime encore, je ne te juge pas indigne de ma tendresse. Ne parle plus de séparation. » Et sa faiblesse disait aussi : « Console-moi, console-moi ; prends-moi sur ton sein et berce-moi pour soulager mes souffrances. Ah ! Que je pleure et que j'ai besoin de trouver un refuge dans tes bras ! Ne me quitte pas, je t'en prie. Je mourrais si j'étais seul, je ne pourrais supporter le poids de ma douleur. J'aime mieux encore saigner sous tes coups que de te perdre. Panse les blessures que tu m'as faites, sois bonne maintenant, sois caressante. » Madeleine entendait parfaitement ces paroles dans le silence, dans les soupirs étouffés de son mari. Elle dut avoir pitié de cette nature nerveuse et la consoler.]{.calibre11}
+
+[D'ailleurs, une grande douceur lui venait de ce pardon absolu, de cette miséricorde muette, toute de larmes et de baisers. Son mari lui aurait dit : « Je te pardonne », elle eût hoché tristement la tête ; mais il ne lui disait rien, il s'abandonnait, il se cachait sur sa poitrine, il frissonnait de peur en lui demandant l'aide de son affection, et elle se calmait peu à peu, elle se soulageait à le sentir si perdu en elle, si reconnaissant de ses étreintes.]{.calibre11}
+
+[Elle se dégagea la première. Il était déjà une heure du matin. Il fallait prendre un parti.]{.calibre11}
+
+[« Nous ne pouvons attendre son réveil, dit-elle en évitant de nommer Jacques. Que comptes-tu faire ? » Guillaume la regarda d'un air si bouleversé qu'elle désespéra de tirer de son trouble une décision énergique. Elle ajouta cependant :]{.calibre11}
+
+[« Si nous lui disions tout, il s'en irait, il nous laisserait tranquilles. Tu pourrais monter.]{.calibre11}
+
+[--- Non, non, balbutia le jeune homme, pas maintenant, plus tard.]{.calibre11}
+
+[--- Veux-tu que je monte auprès de lui, moi ?]{.calibre11}
+
+[--- Toi ! »]{.calibre11}
+
+[Guillaume prononça ce mot avec un étonnement épouvanté. Madeleine s'était offerte, poussée par sa nature nette et courageuse. Mais il ne comprenait point la logique de son offre, il la regardait comme une véritable monstruosité. La pensée de sa femme se retrouvant seul à seul avec son ancien amant, blessait ses délicatesses, le torturait d'une vague jalousie.]{.calibre11}
+
+[« Que faire alors ? » demanda Madeleine.]{.calibre11}
+
+[Il ne répondit pas sur-le-champ. Il lui avait semblé entendre de nouveau un bruit de pas dans l'escalier, et il écoutait pâle d'anxiété, comme lors de leur première panique. Le voisinage de Jacques, l'idée de cet homme venant à lui et lui tendant la main, lui causait une angoisse de plus en plus cuisante. Une seule pensée battait dans sa tête, celle de fuir, de se soustraire à une explication, de se réfugier au fond de quelque solitude où il pourrait se calmer. Toujours sa nature, dans les situations pénibles, cherchait à gagner du temps et à aller reprendre plus loin son rêve de paix. Quand il releva la tête :]{.calibre11}
+
+[« Allons-nous-en, dit-il d'une voix basse, mon cerveau éclate, je suis incapable en ce moment de prendre un parti\... Il ne doit passer ici qu'une journée. Quand il sera parti, nous aurons un mois devant nous pour retrouver et assurer notre bonheur. »]{.calibre11}
+
+[Cette fuite qu'il lui proposait répugnait au sens droit de Madeleine. Elle comprenait que cela n'arrangerait rien et les laisserait tout aussi frissonnants.]{.calibre11}
+
+[Il vaudrait mieux en finir, reprit-elle.]{.calibre11}
+
+[--- Non, viens, je t'en prie, murmura Guillaume avec insistance\... Nous irons coucher dans notre petite maison ; demain nous y passerons la journée, nous y attendrons son départ\... Tu sais combien nous avons été heureux dans ce coin perdu ; l'air tiède de cette retraite nous apaisera ; nous oublierons, nous nous aimerons comme au temps où j'allais te voir en cachette\... Si l'un de nous le voit, je sens que notre félicité est morte. »]{.calibre11}
+
+[Madeleine fit un geste de résignation. Elle était toute secouée elle-même, et elle sentait son mari si affolé qu'elle n'osait plus exiger de lui une décision héroïque. « Soit, dit-elle, partons\... Allons où tu voudras. »]{.calibre11}
+
+[Les époux regardèrent autour d'eux. Le feu était mort, la lampe ne répandait plus qu'une lueur vacillante et jaunâtre. Cette vaste salle, où ils avaient passé tant de chaudes soirées, s'étendait sombre, glaciale, lugubre. Au-dehors, un grand vent s'était élevé, heurtant les fenêtres qui gémissaient. Il semblait que l'ouragan d'hiver passait dans la pièce, emportant avec lui toute la joie, toute la paix de la vieille demeure. Comme Guillaume et Madeleine se dirigeaient vers la porte, ils aperçurent dans l'ombre Geneviève, droite, immobile, qui les suivait de ses yeux luisants.]{.calibre11}
+
+[Pendant la longue scène de désespoir à laquelle elle venait d'assister, la vieille femme avait gardé son attitude rigide et implacable. Elle goûtait une volupté farouche à écouter ces sanglots et ces cris de la chair. La confession de Madeleine lui ouvrait un monde de désirs et de regrets, de jouissances et de douleurs qui n'avaient jamais secoué son corps vierge, et dont le tableau lui faisait songer aux joies cruelles des damnés. Elle se disait qu'ils devaient rire et pleurer ainsi, ceux que les flammes lèchent et caressent de leurs langues ardentes. Dans son horreur, il y avait une curiosité poignante, la curiosité d'une femme qui a vieilli au milieu de besognes grossières, sans connaître d'homme, et qui entend brusquement le récit d'une vie de passion. Peut-être même envia-t-elle un instant les plaisirs amers du péché, les brûlures infernales dont la poitrine de Madeleine se trouvait déchirée. Elle ne s'était pas trompée : cette créature venait de Satan, le Ciel l'avait mise sur la terre pour la damnation des hommes. Elle la regardait se tordre et s'écheveler, comme elle eût regardé les tronçons d'un serpent remuer dans la poussière : les larmes qu'elle répandait lui paraissaient être les larmes de rage d'un démon qui se voit démasqué ; ses cheveux roux dénoués, son cou gras et blanc gonflé de soupirs, tous ses membres vautrés à terre lui semblaient fumer d'une odeur charnelle et nauséabonde. Elle retrouva Lubrica, le monstre aux seins larges, aux bras tentateurs, l'infâme courtisane cachant un tas de boue infecte sous le satin de sa peau nacrée et voluptueuse.]{.calibre11}
+
+[Quand Madeleine s'avança vers la porte, elle fit un pas en arrière pour éviter son contact.]{.calibre11}
+
+[« Lubrica, Lubrica, murmurait-elle entre ses dents\... L'enfer t'a vomie, et tu tentes le saint en découvrant ton impure nudité. Ta chevelure rouge, tes lèvres rouges brûlent encore du feu éternel. Tu as blanchi ton corps et tes dents dans les brasiers du gouffre. Tu t'es engraissée du sang de tes victimes. Tu es belle, tu es forte tu es impudique parce que tu te nourris de chair\... Mais un souffle de Dieu te fera tomber en poussière, Lubrica, fille maudite, et tu pourriras comme une chienne crevée sur le bord d'un chemin\... » Les époux ne purent saisir que quelques-unes de ces paroles qu'elle mâchonnait fiévreusement, comme une prière d'exorcisme qui devait la protéger contre les attaques du démon. Ils croyaient tous les gens du château couchés, ils furent surpris et effrayés de la trouver là.]{.calibre11}
+
+[Elle devait avoir tout entendu. Guillaume allait la prier de garder le silence, lorsqu'elle le devança en lui demandant de sa voix sèche de sermonneuse :]{.calibre11}
+
+[« Que dirai-je demain à ton ami ? Lui avouerai-je ta honte ?]{.calibre11}
+
+[--- Tais-toi, folle, cria le jeune homme avec une sourde irritation.]{.calibre11}
+
+[--- Cette femme a raison, dit Madeleine, il faut expliquer notre absence.]{.calibre11}
+
+[--- Eh ! Qu'elle dise ce qu'elle voudra !\... Je ne sais plus, moi\... Qu'elle prétexte la mort d'un de tes parents, une mauvaise nouvelle subite qui nous a obligés à partir sur-le-champ. « Geneviève le regardait avec une grande tristesse. Elle reprit :]{.calibre11}
+
+[« Je mentirai pour toi, mon enfant. Mais mon mensonge ne te sauvera pas des tourments que tu te prépares. Prends garde ! L'enfer s'ouvre, je viens de voir l'abîme se creuser devant toi, et tu y tomberas si tu te livres à l'impure\...]{.calibre11}
+
+[--- Tais-toi, folle », cria de nouveau Guillaume.]{.calibre11}
+
+[Madeleine reculait sous le regard ardent de la fanatique.]{.calibre11}
+
+[« Elle n'est point folle, balbutia-t-elle, et tu ferais bien d'écouter sa voix, Guillaume\... Laisse-moi partir seule, c'est moi qui dois courir les chemins par cette nuit d'hiver. Entends souffler le vent\... Reste, oublie-moi, ne fâche pas le Ciel en voulant partager mon infamie.]{.calibre11}
+
+[--- Non, je ne veux pas te quitter, répondit le jeune homme avec une énergie subite. Nous souffrirons ensemble, si nous devons souffrir. Mais j'espère, je t'aime. Viens, nous nous apaiserons, nous serons pardonnés. »]{.calibre11}
+
+[Alors la voix de Geneviève s'éleva, brève et fatale : « Dieu le Père ne pardonne pas ! », dit-elle.]{.calibre11}
+
+[Cette parole qu'elle avait entendue avant l'arrivée de Jacques, comme une prophétie de malheur, et qu'elle entendait de nouveau, au moment où elle allait chercher l'oubli, glaça Madeleine d'un frisson d'épouvante. Toute la force qui la tenait encore debout, s'en alla. Elle chancela, elle s'appuya sur l'épaule de son mari. « Entends-tu ? murmura-t-elle, Dieu ne pardonne jamais, jamais\... Nous n'échapperons pas au châtiment.]{.calibre11}
+
+[--- N'écoute pas cette femme, lui dit Guillaume qui l'entraînait ; elle ment, le Ciel est bon, il a des pardons pour ceux qui aiment et qui pleurent. »]{.calibre11}
+
+[Elle hochait la tête, elle répétait :]{.calibre11}
+
+[« Jamais, jamais\... » Puis elle poussa ce cri profond d'angoisse :]{.calibre11}
+
+[« Ah ! Les souvenirs sont lâchés, je les sens qui me poursuivent. » Ils traversèrent le vestibule, ils sortirent de la Noiraude. Vaguement ils comprenaient le ridicule cruel d'une pareille fuite. Mais dans l'effarement du coup brusque qui venait de les écraser, ils ne pouvaient résister à ce mouvement instinctif des animaux blessés, courant se cacher au fond de quelque trou. Ils ne raisonnaient pas. Ils se sauvaient devant Jacques et lui abandonnaient leur demeure.]{.calibre11}

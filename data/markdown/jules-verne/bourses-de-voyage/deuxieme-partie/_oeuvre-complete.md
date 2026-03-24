@@ -1,0 +1,3113 @@
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+
+]{.calibre20}
+
+## [[Deuxième partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942648 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_32 .calibre21}
+
+### [[Chapitre 1 -- Antigoa]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942297e7 .pcalibre2 .pcalibre1} {#chapitre-1-antigoa .calibre171 .sigil_not_in_toc}
+
+Cette dépossession de Saint-Barthélemy, au profit de la France, qui enlevait à la Suède sa seule colonie antiliane, il n\'était pas à craindre qu\'elle se produisit en ce qui concernait Antigoa au détriment du Royaume-Uni. Si Magnus Anders n\'avait plus retrouvé son île natale sous la dénomination scandinave, Hubert Perkins allait retrouver la sienne dans le domaine colonial de la Grande-Bretagne.
+
+L\'Angleterre ne se dessaisit pas volontiers de ses possessions : elle a la dent longue et est plutôt disposée, autant par instinct que par intérêt, à s\'attribuer les conquêtes des autres, insulaires ou continentales. C\'était elle, d\'ailleurs, qui détenait et détient encore le plus grand nombre des Indes Occidentales, et qui sait si l\'avenir n\'en montrera pas quelque autre abritée sous le pavillon des Îles-Britanniques ?
+
+Cependant Antigoa n\'a pas toujours appartenu à l\'ambitieuse Albion. Habitée d\'abord par les Indiens Caraïbes jusqu\'au début du XVIIe siècle, elle tomba entre les mains des Français.
+
+Mais la raison qui avait enfin décidé les indigènes à l\'abandonner fut aussi celle qui décida les Français, après quelques mois d\'occupation, à regagner l\'île Saint-Christophe d\'où ils venaient. Il y a manque absolu de rivières à Antigoa. À peine y rencontre-t-on des rios que les eaux fluviales alimentent un instant. Or, en vue des besoins de la colonie, il eût fallu, pour recueillir ces eaux, construire de vastes citernes.
+
+Voilà ce que comprirent et firent les Anglais en 1632, lorsqu\'ils s\'installèrent sur Antigoa. Ces réservoirs furent établis dans les conditions les plus avantageuses. La campagne put être largement irriguée, et, comme le sol se prêtait à la culture du tabac, c\'est à cette culture que s\'adonnèrent principalement les planteurs -- ce qui, dès cette époque, assura la prospérité de l\'île.
+
+En 1668, éclata la guerre entre l\'Angleterre et la France.
+
+Une expédition, organisée à la Martinique, fit voile pour Antigoa. Les envahisseurs détruisirent les plantations, emmenèrent les noirs, et, pendant toute une année, l\'île fut aussi déserte que si elle n\'eût jamais possédé un seul habitant.
+
+Un riche propriétaire de la Barbade, le colonel Codington, ne voulut pas que les travaux exécutés à Antigoa fussent perdus. Il s\'y transporta avec un nombreux personnel, il attira des colons, et, joignant la culture du sucre à celle du tabac, il lui rendit son ancienne prospérité.
+
+Le colonel Codington fut alors nommé capitaine général de toutes les îles Sous-le-Vent qui dépendaient de l\'Angleterre. Administrateur énergique, il imprima une grande activité à l\'industrie agricole et au commerce des colonies anglaises, activité qui ne devait pas se ralentir après lui.
+
+Ainsi, en y arrivant à bord de l\'Alert, Hubert Perkins reverrait une Antigoa aussi florissante qu\'au jour où il l\'avait quittée, cinq ans auparavant, pour venir faire son éducation en Europe.
+
+La distance entre Saint-Barthélemy et Antigoa n\'est au plus que de soixante-dix à quatre-vingts milles. Mais, lorsque l\'Alert eut pris le large, des calmes persistants, auxquels succéda une brise assez faible, retardèrent sa marche. Il passa en vue de Saint-Christophe, cette île qui fut livrée aux compétitions anglaises, françaises, espagnoles, et dont la paix d\'Utrecht, en 1713, assura aux Anglais la possession définitive. Et, si elle porte ce nom de Christophe, il lui vient de Colomb, qui la découvrit après la Désirade, la Dominique, la Guadeloupe et Antigoa.
+
+C\'est la signature du grand navigateur génois sur cette magnifique page des Indes Occidentales.
+
+Saint-Christophe, disposée en forme de guitare, que les indigènes appelèrent « la fertile », fut, pour les Français et les Anglais, « la mère des Antilles ». Les jeunes passagers ne purent qu\'admirer ses beautés naturelles en longeant le littoral à moins d\'un quart de mille. Saint-Kitts, sa capitale, est bâti au pied du mont des Singes, sur une baie de la rive occidentale, au milieu des jardins et des palmeraies. Un volcan, dont le nom de Misery s\'est changé pour celui de Liberty depuis l\'émancipation des noirs, élève à quinze cents mètres sa masse dont les flancs rejettent des fumerolles de gaz sulfureux. Au fond de deux cratères éteints sont emmagasinées les pluies qui assurent la fertilité de l\'île. Sa superficie comprend cent soixante-seize kilomètres carrés, sa population environ trente mille habitants, et l\'on y cultive principalement la canne, dont le sucre est de qualité supérieure.
+
+Certes, il eût été fort agréable de relâcher pendant vingt-quatre heures à Saint-Christophe, d\'en visiter les pâturages et les cultures. Mais, outre que Harry Markel n\'y tenait aucunement, il fallait se conformer à l\'itinéraire, et, de fait, aucun des pensionnaires d\'Antilian School n\'était originaire de cette île.
+
+Dans la matinée du 12 avril, l\'Alert fut signalé par les sémaphores d\'Antigoa, nom que lui donna Christophe Colomb en souvenir d\'une des églises de Valladolid. On n\'avait pu l\'apercevoir à grande distance, car elle émerge médiocrement, et son point culminant ne dépasse pas deux cents soixante-dix mètres. Quant aux dimensions d\'Antigoa, elles sont relativement considérables, comparées à celles des autres Antilles, soit deux cent soixante-dix-neuf milles superficiels.
+
+Lorsqu\'il aperçut le pavillon britannique à l\'entrée du port, Hubert Perkins le salua d\'un vigoureux hurrah, auquel se joignirent ceux de ses camarades. C\'est par le côté nord que l\'Alert se présenta pour accoster Antigoa, où s\'ouvrent le port et la ville.
+
+Harry Markel connaissait bien ces parages. Aussi ne réclama-t-il point les services d\'un pilote. Quoique difficiles que fussent les abords de la baie, il y entra hardiment, laissa le fort James à bâbord, la pointe Lobloly à tribord, et vint jeter l\'ancre là où les navires trouvent d\'excellents mouillages, à la condition de ne pas tirer plus de quatre à cinq mètres.
+
+Au fond de cette baie apparaît la capitale, Saint-John, dont la population compte seize mille habitants. Cette ville, en échiquier, avec ses rues qui se coupent à angle droit, est d\'aspect agréable et s\'étale en pleine verdure au milieu des magnificences de la zone tropicale.
+
+À peine l\'Alert eut-il paru à l\'entrée de la baie, qu\'une embarcation se détacha de l\'appontement du port, et, enlevée par quatre avirons, se dirigea vers le trois-mâts.
+
+Il va sans dire que Harry Markel et ses compagnons éprouvèrent en ce moment de nouvelles inquiétudes, assez justifiées en somme. Ne pouvaient-ils craindre que la police anglaise eût été mise au courant de ce sanglant drame dont l\'Alert avait été le théâtre dans l\'anse Farmar, que d\'autres cadavres eussent été découverts, peut-être même celui du capitaine Paxton ? Et alors, quel était l\'homme qui remplissait ses fonctions à bord de l\'Alert ?
+
+Tous furent vite rassurés. Cette embarcation amenait la famille du jeune passager. Son père, sa mère, ses deux petites soeurs n\'avaient pas eu la patience d\'attendre le débarquement.
+
+Depuis plusieurs heures, ils guettaient l\'arrivée du navire, ils montèrent à bord avant même que l\'Alert eût pris son mouillage, et Hubert Perkins tomba dans les bras de ses parents.
+
+L\'île d\'Antigoa, au point de vue administratif, est le chef-lieu d\'une Présidence qui comprend les îles Barbuda et Redonda, ses voisines. En même temps, elle a rang de capitale au milieu de ce groupe des Antilles anglaises relié sous le nom de Lieward-Islands, c\'est-à-dire des îles du Vent, depuis les îles Vierges jusqu\'à la Dominique.
+
+C\'est à Antigoa que résident le gouverneur, les présidents des Conseils exécutif et législatif, nommés moitié par la Couronne, moitié par les censitaires. À noter que l\'on y compte moins d\'électeurs libres que de fonctionnaires. On le remarquera, cette composition du corps électoral n\'est donc pas spéciale aux colonies françaises.
+
+M. Perkins, un des membres du Conseil exécutif, descendait des anciens colons qui suivirent le colonel Codington, et sa famille n\'avait jamais quitté l\'île. Après avoir conduit son fils en Europe, il était rentré à sa résidence d\'Antigoa.
+
+Comme de juste, les présentations furent faites dès que Hubert Perkins eut embrassé son père, sa mère et ses soeurs. M. Horatio Patterson, avant tous autres, reçut la poignée de main de M. Perkins, et ses jeunes compagnons furent honorés de la même faveur. Mais ce qui valut au mentor les compliments de Mrs Perkins, ce fut l\'état de florissante santé des passagers de l\'Alert, -- compliments dont le mentor crut devoir reporter une bonne part au capitaine Paxton.
+
+Harry Markel les accepta, d\'ailleurs, avec sa froideur habituelle.
+
+Puis, après avoir salué, il vint à l\'avant prendre ses dispositions pour affourcher le navire.
+
+M. Perkins demanda tout d\'abord à M. Patterson combien de temps devait durer la relâche à Antigoa.
+
+« Quatre jours, monsieur Perkins, déclara M. Patterson. Nos jours sont comptés, comme on dit généralement de la vie humaine, et nous sommes soumis à un programme dont il ne faut pas s\'écarter.
+
+--- C\'est bien court, fit observer Mrs Perkins.
+
+--- Sans doute, ma chère amie, reprit M. Perkins, mais le temps du voyage est limité, et il y a encore nombre d\'Antilles sur l\'itinéraire\...
+
+--- Ara longa, vita brevis, ajouta M. Patterson, qui crut l\'occasion opportune pour placer ce proverbe latin.
+
+--- Quoi qu\'il en soit, dit M. Perkins, M. Patterson et les camarades de mon fils seront nos hôtes durant leur séjour\...
+
+--- Monsieur Perkins, fit alors observer Roger Hinsdale, nous sommes dix à bord\...
+
+--- Et assurément, ajouta M. Perkins, mon habitation serait trop petite pour vous héberger tous, mes jeunes amis ! Aussi on retiendra des chambres à l\'hôtel, et vous viendrez vous asseoir à notre table.
+
+--- Dans ce cas, proposa Louis Clodion, peut-être vaudrait-il mieux rester sur l\'Alert, sauf Hubert, monsieur Perkins ? Pendant la journée, nous vous appartiendrons depuis le lever jusqu\'au coucher du soleil. »
+
+Cette combinaison, étant la meilleure, eut l\'approbation de M. Patterson. Mais, évidemment, Harry Markel aurait préféré que les passagers prissent logement à terre.
+
+Le bâtiment eût été moins exposé à recevoir des visiteurs, dont il redoutait toujours l\'arrivée.
+
+Au surplus, le capitaine fut également invité à la table de famille dans l\'habitation de M. Perkins. Il s\'excusa comme d\'habitude, et Hubert fit comprendre à son père qu\'il n\'y avait pas lieu d\'insister.
+
+L\'embarcation partie avec Hubert, les passagers s\'occupèrent de mettre leurs affaires en ordre, puis d\'écrire quelques lettres qu\'emporterait le soir même le courrier d\'Europe. Parmi elles, il convient de citer l\'enthousiaste missive de M. Horatio Patterson que Mrs Patterson recevrait dans une vingtaine de jours. Il y en eut une également à l\'adresse du directeur d\'Antilian School, 213, Oxford-Street, London, Great Britain, dans laquelle M. Julian Ardagh trouverait des informations aussi exactes qu\'instructives relativement aux boursiers de Mrs Kethlen Seymour.
+
+Entre temps, Harry Markel terminait ses manoeuvres, ayant eu soin, comme aux relâches précédentes, de mouiller l\'Alert vers le milieu du port. Les hommes qui conduiraient les passagers n\'auraient, point la permission de débarquer. Lui-même, il n\'irait à terre que le jour de l\'arrivée et le jour du départ, en raison des formalités à remplir au bureau maritime. Vers onze heures, le grand canot fut paré.
+
+Deux matelots aux avirons, Corty à la barre, déposèrent sur le quai les invités de M. et Mrs Perkins.
+
+Un quart d\'heure après, réunis dans une confortable habitation de la haute ville, tous s\'asseyaient devant une table abondamment servie, et la conversation porta sur les divers incidents du voyage.
+
+Âgé de quarante-cinq ans, M. Perkins, dont la barbe et les cheveux grisonnaient, avait une attitude digne, un abord sympathique, un regard affectueux, toutes qualités qui se retrouveraient un jour chez son fils. Personne n\'était plus honoré que lui dans la colonie, ne fût-ce que pour les services qu\'il rendait comme membre du Conseil exécutif. En même temps, homme de goût, très instruit en tout ce qui concernait l\'histoire des Indes occidentales, il pourrait fournir à M. Horatio Patterson des notes précises, des documents authentiques à ce sujet. Qu\'on en soit assuré, celui-ci ne se ferait pas faute de recourir à M. Perkins, et d\'enrichir ainsi son carnet de voyage qu\'il tenait avec autant de méthode que ses livres de comptabilité. Mrs Perkins, d\'origine créole, touchait à la quarantaine. Cette femme, aimable, attentionnée, charitable, se consacrait tout entière à l\'éducation de ses deux fillettes, Bertha et Mary, âgées de dix et douze ans. On s\'imagine quelle avait été la joie de cette excellente mère en revoyant son fils, en le pressant dans ses bras, après quatre années d\'absence. Mais, ainsi que cela fut dit au déjeuner, le moment approchait où Hubert reviendrait à Antigoa, que sa famille n\'avait jamais voulu quitter. Dans un an son temps d\'Antilian School serait achevé.
+
+« Nous le regretterons, déclara John Howard, qui avait encore deux années à passer dans l\'Institution d\'Oxford Street. Hubert est un bon camarade\...
+
+--- Dont nous garderons excellent souvenir, ajouta Clodion.
+
+--- Qui sait si vous n\'aurez pas l\'occasion de vous rencontrer plus tard ? Observa M. Perkins. Peut-être quelques-uns de vous, mes jeunes amis, rentreront-ils aux Antilles ?
+
+Lorsque Hubert sera dans une maison de commerce d\'Antigoa, nous le marierons\...
+
+--- Le plus tôt possible, observa Mrs Perkins.
+
+--- Hubert marié ! s\'écria Tony Renault. Ah ! Je voudrais voir cela !
+
+--- Eh ! Pourquoi ne serais-tu pas mon témoin ? répondit Hubert en riant.
+
+--- Ne plaisantons pas, jeunes gens, opina dogmatiquement M. Patterson. Base de toute société, le mariage est la plus respectable des institutions de ce monde. »
+
+Il n\'y avait pas à discuter sur ce sujet. Mais Mrs Perkins fut naturellement conduit à parler de Mrs Patterson. Elle demanda des nouvelles de cette dame. Le mentor répondit avec une parfaite convenance. Il lui tardait d\'avoir une lettre d\'elle, et peut-être en recevrait-il une à la Barbade, avant de s\'embarquer pour la traversée de retour. Et alors, tirant de sa poche une photographie qui ne le quittait jamais, il la montra non sans quelque orgueil.
+
+« C\'est le portrait d\'une bonne et charmante femme, dit Mrs Perkins. -- Et la digne épouse de M. Horatio Patterson, ajouta M. Perkins.
+
+--- Elle est la compagne de ma vie, répondit M. Patterson, légèrement ému, et tout ce que je demande au ciel, c\'est de la retrouver à mon retour\... Ce qu\'elle est hic et nunc ! »
+
+Ce qu\'entendait par ces derniers mots. M. Patterson, qui l\'eût pu dire ? Il les avait prononcés en baissant la voix, et l\'on n\'y prêta pas autrement attention.
+
+Le déjeuner terminé, il fut question de visiter Saint-John, puis de faire une promenade aux environs.
+
+On s\'accorda toutefois une heure de sieste dans le beau jardin sous les grands arbres de la villa. M. Perkins fournit à M. Patterson d\'intéressants renseignements sur l\'abolition de l\'esclavage à Antigoa. C\'est en 1834 que l\'Angleterre proclama l\'acte d\'émancipation, et, contrairement à ce qui se passa dans d\'autres colonies, sans mesures transitoires, sans que les noirs eussent fait l\'apprentissage de cette nouvelle existence.
+
+L\'acte avait bien imposé certaines obligations qui devaient en atténuer le contrecoup ; mais les nègres, presque aussitôt affranchis de ces obligations, eurent tous les avantages et tous les inconvénients d\'une entière liberté.
+
+Il est vrai, ce brusque changement fut facilité par la situation des maîtres et des esclaves qui formaient de véritables familles. Aussi, bien que l\'acte d\'abolition rendit immédiatement libres trente-quatre mille nègres, alors que la colonie ne comptait que deux mille blancs, il n\'y eut aucun excès à regretter, aucune scène de violence à déplorer. D\'un côté comme de l\'autre s\'établit une parfaite entente, et les affranchis ne demandèrent qu\'à rester sur les plantations comme domestiques ou gens à gages. Il convient d\'ajouter que les colons se montrèrent très soucieux du bien-être des anciens esclaves. Ils assurèrent leur existence par un travail régulier et rémunérateur ; ils construisirent pour eux des habitations plus confortables que les cases d\'antan. Ces noirs, mieux vêtus, au lieu d\'être nourris presque uniquement de racines et de poissons salés, firent usage de la viande fraîche, et leur régime alimentaire subit d\'heureuses améliorations.
+
+Si le résultat fut excellent pour les gens de couleur, il ne le fut pas moins pour la colonie dont la prospérité s\'accrut dans une sérieuse proportion. Les revenus du trésor public ne cessèrent d\'augmenter, alors que les dépenses administratives tendaient à s\'abaisser pour tous les services.
+
+Lors de leurs excursions à travers l\'île, M. Patterson et ses jeunes compagnons s\'émerveillèrent à voir les champs remarquablement cultivés. Quelle fertilité à la surface des plateaux de strate de calcaire ! Partout des fermes bien entretenues, au courant de tous les progrès de l\'agriculture !
+
+On n\'a pas oublié que le réseau hydrographique étant insuffisant à Antigoa, il avait fallu établir de vastes citernes pour recueillir les eaux pluviales. À ce sujet, M. Perkins eut occasion de dire que si les indigènes avaient donné à l\'île le nom de Yacama, « la Ruisselante », ce devait être dans un sens ironique. Actuellement, ses réservoirs suffisent aux divers besoins de la ville et de la campagne.
+
+Le drainage des eaux, intelligemment combiné, s\'accomplit à la satisfaction générale. En même temps que la salubrité d\'Antigoa est assurée, il garantit l\'île à l\'avenir contre cette disette qui, par deux fois, en 1770 et en 1784, produisit d\'incalculables désastres. Les colons furent dans la situation de ces naufragés qui ne peuvent plus calmer les tortures de la soif, et ce fut par milliers que les bestiaux, sinon les habitants, périrent sur l\'île.
+
+C\'est ce que raconta M. Perkins, tandis qu\'il montrait à ses hôtes, non sans une légitime satisfaction, ces citernes d\'une contenance de deux millions cinq cent mille mètres cubes, qui fournissent à Saint-John une moyenne supérieure à celle de plus d\'une grande cité européenne.
+
+Les excursions, entreprises sous la direction de M. Perkins, ne se bornèrent pas aux environs de la capitale.
+
+D\'ailleurs, elles furent toujours combinées de manière que, chaque soir, les passagers pussent regagner l\'Alert.
+
+C\'est ainsi que les touristes visitèrent l\'autre port d\'Antigoa, English-Harbour, situé sur la côte méridionale. Ce port, mieux abrité que celui de Saint-John, fut autrefois pourvu de bâtiments militaires, casernes, arsenaux, destinés à la défense d\'Antigoa. Il est en réalité formé d\'un groupe de cratères, dont le niveau s\'est peu à peu abaissé, et qui ont été envahis par les eaux de la mer.
+
+Tant en promenades qu\'en repas et siestes dans la villa Perkins, les quatre jours affectés à la relâche s\'écoulèrent rapidement. Dès le matin, on se mettait en route, et, bien que la chaleur fût grande à cette époque, les jeunes garçons n\'eurent point trop à en souffrir. Puis, alors que Hubert Perkins restait chez ses parents, ses camarades revenaient à bord se refaire de leurs fatigues dans les cadres des cabines. D\'ailleurs, Tony Renault prétendait que si Hubert ne rentrait pas comme eux, c\'est qu\'il y avait « quelque chose », -- par exemple, son mariage avec une jeune créole de la Barbade, et que les fiançailles seraient célébrées avant le départ pour l\'Europe\...
+
+On riait de ses fantaisies que le grave M. Patterson ne laissait pas de prendre au sérieux.
+
+La veille du départ, le 15 août, Harry Markel eut une alerte dans les circonstances que voici.
+
+L\'après-midi, un canot vint accoster le navire, après avoir débordé d\'un brick anglais, le Flag, qui arrivait de Liverpool. Un des matelots du brick monta sur le pont et demanda à parler au capitaine.
+
+Il eût été difficile de lui répondre que le capitaine n\'était pas en ce moment à bord, puisque, depuis son mouillage, Harry Markel n\'avait débarqué qu\'une fois.
+
+Harry Markel observa cet homme à travers la fenêtre de sa cabine. Il l\'entendit même et se garda bien de se montrer. D\'ailleurs, il ne le connaissait pas et n\'en était vraisemblablement pas connu. Mais il se pouvait que ce matelot, ayant navigué avec le capitaine Paxton, commandant l\'Alert, eût voulu lui rendre visite.
+
+Là était le danger, -- danger de toutes les relâches, -- et il ne prendrait fin que le jour où l\'Alert, ayant quitté la Barbade, n\'aurait plus à rallier aucune des Antilles.
+
+Ce fut Corty qui reçut ce matelot, dès qu\'il eut pris pied sur le pont. « Vous voulez parler au capitaine Paxton ? demanda-t-il.
+
+--- Oui, camarade, répondit le matelot, si c\'est bien lui qui commande l\'Alert, de Liverpool ?
+
+--- Vous le connaissez ?
+
+--- Non, mais j\'ai un ami qui doit faire partie de son équipage\...
+
+--- Ah ! Et il se nomme ?
+
+--- Forster\... John Forster. »
+
+Harry Markel, ayant entendu ces propos, sortit alors, aussi rassuré que Corty lui-même.
+
+« Je suis le capitaine Paxton, dit-il.
+
+--- Capitaine ? fit le matelot en portant la main à son béret.
+
+--- Que voulez-vous ?
+
+--- Serrer la main à un camarade\...
+
+--- Qui s\'appelle ?
+
+--- John Forster. »
+
+Harry Markel eut un instant la pensée de répondre que John Forster s\'était noyé dans la baie de Cork.
+
+Mais il se souvint d\'avoir attribué le nom de Bob au malheureux dont le cadavre était venu à la côte. Deux matelots perdus avant le départ, cela eût sans doute paru suspect aux passagers de l\'Alert.
+
+Harry Markel se contenta donc de dire :
+
+« John Forster n\'est pas à bord\...
+
+--- Il n\'y est pas ? répéta le matelot assez étonné. Je croyais bien l\'y trouver, pourtant\...
+
+--- Il n\'y est pas, vous dis-je, ou plutôt il n\'y est plus\...
+
+--- Lui est-il arrivé quelque malheur ?
+
+--- Il était malade au moment de partir, et a dû débarquer. »
+
+Corty ne put qu\'admirer la présence d\'esprit de son chef. Mais, si le matelot du Flag eût connu le capitaine Paxton, les choses auraient sans doute mal tourné pour Harry Markel et ses compagnons.
+
+Le matelot n\'ajouta donc rien, si ce n\'est : « Merci, capitaine ! » et il redescendit dans le canot, très chagriné de n\'avoir pas rencontré son camarade. Et, lorsqu\'il fut au large :
+
+« Décidément, s\'écria Corty, c\'est un jeu trop périlleux que nous jouons là !
+
+--- Possible, mais qui en vaut la peine !
+
+--- N\'importe ! De par tous les diables, Harry, il me tarde d\'être en plein Atlantique ! Là, pas d\'indiscret à craindre\...
+
+--- Cela viendra, Corty\... Demain l\'Alert reprendra la mer\...
+
+--- Pour ?
+
+--- Pour la Guadeloupe, et, en somme, une colonie française est moins dangereuse pour nous qu\'une colonie anglaise ! »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- La Guadeloupe]{lang="X-NONE"}]{#_Toc342942297e2 .pcalibre2 .pcalibre1} {#chapitre-2-la-guadeloupe .calibre171 .sigil_not_in_toc}
+
+La distance qui sépare Antigoa de la Guadeloupe, ou pour mieux dire du groupe d\'îles compris sous ce nom, n\'est que de cent à cent vingt milles. Dans des conditions ordinaires, l\'Alert, servi par les vents alizés en quittant le port de Saint-John le matin du 16 août, aurait pu être à destination en vingt-quatre heures.
+
+Louis Clodion devait donc espérer que, dès le lendemain, au lever du jour, les premières hauteurs de l\'Antille française se dessineraient à l\'horizon.
+
+Il n\'en fut pas ainsi. Des calmes, ou plutôt la faiblesse de la brise, retardèrent la marche du bâtiment, bien qu\'il eût toute sa toile dehors. D\'autre part, il rencontra une lame courte et résistante, malgré l\'insuffisance du vent. Cela tenait à ce que cette partie de la mer, très ouverte au large, n\'est plus protégée par les îles. La houle, troublée par certains contre-courants, déferle, avant d\'aller se briser sur les roches de Montserrat. Même si l\'Alert eût été appuyé par une fraîche brise, il n\'aurait pas évité les brutales secousses de cette traversée. Il en résulta que M. Horatio Patterson émit quelques doutes sur l\'efficacité des noyaux de cerise comme préservatifs du mal de mer.
+
+À la rigueur, Harry Markel aurait pu passer en dedans de Montserrat, où la houle était moins forte. Mais il se fût exposé à de trop fréquentes rencontres de navires, ce dont il se gardait le plus possible. Puis, la route se serait allongée d\'une trentaine de milles. Il aurait fallu redescendre jusqu\'à l\'extrémité méridionale de la Guadeloupe, et, après l\'avoir doublée, remonter peut-être vent debout en vue de la Pointe-à-Pitre.
+
+La Guadeloupe se compose de deux grandes îles.
+
+L\'ile de l\'ouest est la Guadeloupe proprement dite, que les Caraïbes appelaient Curucuera.
+
+Officiellement désignée sous le nom de Basse-Terre, bien que son relief soit le plus prononcé du groupe, ce nom lui vient de sa situation par rapport aux alizés.
+
+L\'île de l\'est, sur les cartes, prend la dénomination de Grande-Terre, quoique sa contenance superficielle soit inférieure à l\'autre. L\'étendue totale des deux îles se chiffre par seize cent trois kilomètres carrés et leur population par cent trente-six mille habitants.
+
+La Basse-Terre et la Grande-Terre sont séparées par une rivière aux eaux salées, dont la largeur varie de trente à cent vingt mètres, et que franchissent les navires d\'un tirant de sept pieds environ. L\'Alert n\'aurait pu suivre ce passage, qui est le plus direct, qu\'au plein de la marée, et encore ce n\'eût pas été le fait d\'un capitaine prudent. Aussi Harry Markel prit-il le large, à l\'est du groupe. Cette navigation dura quarante heures au lieu de vingt-quatre, et ce fut seulement dans la matinée du 18 août que le trois-mâts parut à l\'entrée de la baie où se jette la rivière salée, et dont le fond est occupé par la Pointe-à-Pitre.
+
+Il y eut tout d\'abord à dépasser la bordure d\'îlots disposée autour du bassin qui forme le port et auquel on accède par un chenal étroit et sinueux.
+
+Cinq ans s\'étaient écoulés depuis que la famille de Louis Clodion avait quitté les Antilles, sauf le frère de sa mère resté à la Pointe-à-Pitre. Avec leurs enfants, ses parents s\'étaient fixés en France, à Nantes, où M. Clodion dirigeait une importante maison d\'armements au long cours. Aussi le jeune Louis avait conservé le souvenir de son île natale, d\'où il n\'était parti qu\'à l\'âge de quinze ans, et il comptait en faire les honneurs à ses camarades.
+
+En venant par l\'est, l\'Alert reconnut premièrement la pointe de la Grande-Vigie sur la Grande-Terre, la plus septentrionale du groupe, puis la pointe des Gros-Caps, puis la pointe de l\'Anse aux Loups, puis l\'anse Sainte-Marguerite, et, tout à fait à l\'extrémité sud-ouest de la Grande-Terre, la pointe des Châteaux.
+
+Louis Clodion avait pu montrer sur la côte orientale cette ville du Moule, la troisième de la colonie par son importance, avec ses dix mille habitants. C\'est là que les navires, chargés de sucre, attendent une occasion favorable pour prendre la mer. Ils y sont très à l\'abri contre les mauvais temps, et contre ces formidables raz de marée qui causent tant de désastres sur ces parages.
+
+Avant de doubler la pointe au sud-est de la Grande-Terre, les passagers eurent connaissance de la Désirade, autre Antille française, la première qui est signalée à bord des navires venant d\'Europe et dont le morne, haut de deux cent soixante-dix-huit mètres, est visible à une grande distance.
+
+Laissant alors la Désirade sur bâbord, l\'Alert longea la pointe des Châteaux et, de là, on put entrevoir dans le sud une autre île, la Petite-Terre, qui fait partie du groupe de la Guadeloupe.
+
+Mais, pour avoir un complet aperçu de l\'ensemble, il eût fallu descendre plus au sud jusqu\'à Marie-Galante, d\'une étendue superficielle de cent soixante-trois kilomètres carrés, avec une population de quatorze mille âmes, puis en visiter les principales villes, Gros-Bourg, Saint-Louis, Vieux-Fort. Enfin, en poussant vers l\'ouest, presque à la même latitude, se rencontre le petit archipel des Saintes, peuplé d\'environ deux mille habitants, d\'une étendue de quatorze kilomètres carrés. Formé de sept îles ou îlots distincts, dominé par le Chameau, d\'une altitude de trois cent seize mètres, il est considéré comme le plus salubre sanatorium des Antilles.
+
+Administrativement, la Guadeloupe est divisée en trois arrondissements.
+
+Ils comprennent la partie de Saint-Martin qui est restée mitoyenne avec la partie hollandaise, l\'île Saint-Barthélemy que la Suède venait de céder à la France, les Saintes qui relèvent de l\'arrondissement de Basse-Terre, ville principale de l\'île de ce nom, la Désirade qui dépend de l\'arrondissement de la Pointe-à-Pitre, Marie-Galante, le chef-lieu du troisième arrondissement.
+
+Ce département colonial est représenté au conseil général par trente-six conseillers, et au parlement par un sénateur et deux députés. Son commerce présente un chiffre d\'exportation de cinquante millions et un chiffre d\'importation de trente-sept millions, -- commerce qui se fait presque en totalité avec la France.
+
+Quant au budget local, -- cinq millions de francs, -- il est alimenté par les droits à la sortie des denrées coloniales et un impôt qui frappe la consommation des spiritueux.
+
+L\'oncle de Louis Clodion, frère de sa mère, M. Henry Barrand, était un des riches et influents planteurs de la Guadeloupe. Il habitait la Pointe-à-Pitre et possédait de vastes propriétés aux environs de la ville. Sa fortune, son entregent, son caractère très communicatif, sa personnalité très sympathique, son originalité amusante, sa bonne humeur habituelle, lui faisaient des amis de tous ceux qui l\'approchaient. Âgé de quarante-six ans, grand chasseur, grand amateur de sport, il parcourait à cheval ses vastes plantations, aimant la bonne chère, vrai gentilhomme campagnard, si cette qualification peut être appliquée à un colon des Antilles, et, brochant sur le tout, célibataire, oncle à héritage, oncle d\'Amérique, sur lequel ses neveux et nièces devaient compter.
+
+On devine avec quelle joie, avec quelle émotion même, il serra Louis Clodion dans ses bras dès l\'arrivée de l\'Alert.
+
+« Sois le bienvenu, mon cher Louis, s\'écria-t-il, et quel bonheur de te revoir après cinq ans d\'absence ! Si je ne suis pas changé autant que toi, si je ne suis pas devenu un vieillard, tandis que tu devenais un jeune homme, ça va bien !
+
+--- Mon oncle, affirma Louis Clodion en l\'entraînant, vous êtes toujours le même !
+
+--- Alors c\'est parfait ! reprit M. Barrand qui se retourna vers les passagers réunis sur la dunette. Soyez les bienvenus, vous aussi, jeunes camarades de mon neveu, et tenez pour certain que la colonie éprouve grande satisfaction à recevoir les pensionnaires d\'Antilian School ! »
+
+Puis l\'excellent homme pressa toutes les mains qui lui furent tendues, et, revenant à Louis :
+
+« Le père, la mère, les enfants, tout ce monde va bien là-bas\... À Nantes ? -- Tout le monde, mon oncle, mais c\'est peut-être à vous qu\'il faut demander de leurs nouvelles\...
+
+--- En effet, j\'ai eu une lettre de ma soeur avant-hier\... La smala est en excellente santé ! Et l\'on me recommande de bien te recevoir ! La bonne recommandation de cette chère soeur ! J\'irai la voir l\'hiver prochain, elle et sa maisonnée\...
+
+--- Ah ! Que vous nous ferez plaisir, mon oncle, car, à cette époque, mes études seront finies et je serai sans doute à Nantes\...
+
+--- À moins que tu ne sois ici, mon neveu, pour partager mon existence ! J\'ai des idées là-dessus\... On verra plus tard ! »
+
+À ce moment s\'avança M. Patterson qui s\'inclina cérémonieusement devant M. Barrand, et dit :
+
+« Vous me permettez, monsieur, de vous présenter mes chers pensionnaires\...
+
+--- Eh ! s\'écria le planteur, c\'est\... Ce doit être M. Patterson\... Comment ça va-t-il, monsieur Patterson ?
+
+--- Aussi bien que possible, après une traversée qui n\'a pas laissé d\'être quelque peu tangante et roulante\...
+
+--- Je vous connais, allez, interrompit M. Barrand, comme je connais tous ces élèves d\'Antilian School dont vous êtes l\'aumônier.
+
+--- Pardon, monsieur Barrand, l\'économe\...
+
+--- Économe, aumônier, c\'est la même chose ! Repartit le planteur avec un joyeux éclat de rire. L\'un tient les comptes d\'ici-bas\... L\'autre tient les comptes de là-haut ! Et pourvu que la comptabilité soit en règle ! »
+
+En parlant ainsi, M. Barrand allait et venait de l\'un à l\'autre, et, finalement, il pressa la main de M. Horatio Patterson avec une telle vigueur que, s\'il eût été aumônier, le mentor n\'aurait pu de deux jours bénir les pensionnaires d\'Antilian School !
+
+Et l\'exubérant colon de continuer :
+
+« Préparez-vous à débarquer, mes amis ! Vous logerez chez moi, tous ! Ma maison est grande, et, quand vous seriez cent fois plus nombreux, vous ne dévoreriez pas mes plantations\... Et vous accompagnerez ces jeunes gens, monsieur Patterson\... Et vous aussi, si le coeur vous en dit, capitaine Paxton ! »
+
+L\'invitation fut naturellement refusée comme toujours. Mais M. Barrand, n\'aimant pas à se répéter, n\'insista pas.
+
+« Pourtant, monsieur Barrand, observa alors le mentor, tout en vous remerciant d\'une hospitalité offerte avec tant de\... Comment dirais-je ?
+
+--- Ne dites pas\...
+
+Ça vaudra mieux, monsieur Patterson.
+
+--- Si nous allions vous gêner\...
+
+--- Me gêner\... Moi ! Est-ce que j\'ai l\'air d\'un homme que l\'on gêne\... Et qui se gêne ? D\'ailleurs, je le veux ! »
+
+Devant cette impérieuse formule, il n\'y avait qu\'à obéir.
+
+Puis, lorsque M. Patterson voulut faire en règle les présentations des passagers :
+
+« Mais je les connais tous, ces jeunes garçons ! s\'écria le planteur. Les journaux ont donné leurs noms, et je parie ne pas me tromper ! Tenez, voici les Anglais, Roger Hinsdale, John Howard, Hubert Perkins\... Et j\'ai été en relation avec leurs familles à Sainte-Lucie, à la Dominique, à Antigoa\... »
+
+Les trois Anglais ne purent qu\'être flattés de cette déclaration.
+
+« Et puis, reprit M. Barrand, ce grand blond-là\... C\'est Albertus Leuwen, de Saint-Martin\...
+
+--- Précisément, monsieur, répondit le jeune Hollandais en saluant.
+
+--- Et ces deux braves à bonne figure, qui se tiennent à l\'écart, c\'est Niels Harboe de Saint-Thomas, et c\'est Axel Wickborn de Sainte-Croix\... Vous voyez, je n\'en manquerai pas un ! Et toi, là-bas, le petit, à l\'oeil vif, qui ne peux rester un moment en place, que le diable m\'emporte si tu n\'as pas les veines pleines de sang français\...
+
+--- Jusqu\'à la dernière goutte, déclara Tony Renault, mais je suis né à la Martinique.
+
+--- Eh bien\... Tu as eu tort !
+
+--- Comment\... Tort ?
+
+--- Oui !
+
+Quand on naît Français aux Antilles, il faut que cela soit à la Guadeloupe et non ailleurs, parce que la Guadeloupe\... C\'est la Guadeloupe !
+
+--- On naît où on peut\... S\'écria Tony Renault, en partant d\'un éclat de rire.
+
+--- Bien répondu, le gaillard, répliqua M. Barrand, et ne crois pas que je t\'en veuille pour cela\...
+
+--- Quelqu\'un en vouloir à Tony, dit Louis Clodion, cela ne serait pas possible !
+
+--- Et ne croyez pas non plus, ajouta le planteur, que je veuille déprécier la Martinique, la Désirade ou autres îles françaises ! Mais enfin, je suis de la Guadeloupe, et c\'est tout dire ! Quant à ce grand secco\... Là-bas\... Avec sa chevelure blonde\... Ce doit être Magnus Anders\...
+
+--- Lui-même, mon oncle, répondit Louis Clodion, et qui, en arrivant à Saint-Barthélemy, n\'a plus trouvé son île, ou, du moins, elle avait cessé d\'être suédoise\...
+
+--- En effet, répondit M. Barrand, nous avons appris cela par les feuilles ! La Suède nous a cédé sa colonie ! Eh bien, Anders, il ne faut pas se faire tant de chagrin ! Nous vous traiterons en frère et vous finirez par reconnaître que la Suède n\'a pas de meilleure amie que la France ! »
+
+Tel était M. Henry Barrand, tel l\'oncle de Louis Clodion. Dès cette première entrevue, les jeunes passagers le connaissaient comme s\'ils eussent vécu sur ses plantations depuis leur naissance.
+
+Avant de se retirer, M. Barrand ajouta :
+
+« À onze heures le déjeuner\... Et un bon déjeuner pour tous ! Vous entendez, monsieur Patterson ?
+
+Je n\'admettrais pas dix minutes de retard\...
+
+--- Comptez, monsieur, sur mon exactitude chronométrique », répondit M. Patterson.
+
+M. Barrand emmena son neveu dans le canot qui l\'avait conduit à bord dès l\'arrivée de l\'Alert.
+
+Peut-être Basse-Terre se présente-t-elle dans de meilleures conditions que la Pointe-à-Pitre. Située à l\'embouchure de la Rivière-aux-Herbes, près de la pointe extrême de l\'île, peut-être provoque-t-elle plus vivement l\'admiration des visiteurs avec ses maisons disposées en amphithéâtre, les jolies collines qui l\'entourent. Il est probable, pourtant, que M. Henry Barrand n\'aurait pas voulu en convenir, car, s\'il faisait de la Guadeloupe la première des Antilles françaises, il faisait de la Pointe-à-Pitre la première ville de la Guadeloupe. Seulement, il n\'aimait pas à se rappeler que la Guadeloupe capitula devant les Anglais en 1759, qu\'elle repassa sous la domination anglaise en 1794, puis en 1810, et ne fut réellement restituée à la France que par le traité de paix du 30 mai 1814.
+
+Après tout, la Pointe-à-Pitre méritait la visite des jeunes voyageurs. M. Barrand saurait bien en faire valoir les beautés avec une conviction qui les pénétrerait. Ce serait l\'objet d\'une promenade spéciale, et ses invités ne firent que traverser la ville dans les voitures mises à leur disposition. En un quart d\'heure, ils eurent atteint l\'habitation de Rose-Croix où les attendaient Louis Clodion et son oncle.
+
+Ce qui les attendait aussi dans la grande salle à manger de cette superbe villa, c\'était un déjeuner excellent, plutôt solide que recherché. Et quel accueil lui fit toute cette jeunesse affamée : quartiers de viande de boucherie, poissons, gibier, légumes récoltés sur la plantation, fruits cueillis aux arbres des vergers, café de premier choix, et qui, pour être de la Guadeloupe, n\'en fut pas moins déclaré supérieur au Martinique, par cela seul qu\'il provenait des caféiers de Rose-Croix ! Et toujours l\'éloge de la Guadeloupe, plus particulièrement celui de la Pointe-à-Pitre, avec nombreux toasts et santés portés par l\'intarissable amphitryon auquel il fallait les rendre.
+
+Cependant, quoi qu\'il en soit, la nature a fait plus pour la Basse-Terre que pour la Grande-Terre. C\'est une région accidentée, à laquelle les forces plutoniennes ont donné un relief pittoresque, la Grosse-Montagne, haute de sept cent vingt mètres, les trois Manilles qui la dépassent de cinquante, le Caraïbe qui atteint presque cette altitude ; puis, au centre, la fameuse Soufrière dont l\'extrême sommet est coté à près de quinze cents mètres.
+
+Et comment la Grande-Terre, si ce n\'est dans l\'imagination impétueuse de M. Barrand, pourrait-elle se mettre en comparaison avec cette contrée si riche en beautés naturelles, une petite Suisse antiliane ? C\'est une région plate, une suite de plateaux peu relevés, de plaines à perte de vue, d\'ailleurs, elle n\'est pas moins favorable que sa voisine à la production agricole.
+
+Aussi, M. Horatio Patterson de faire cette observation assez juste :
+
+« Ce que je ne comprends pas, monsieur Barrand, c\'est que ce soit précisément cette Basse-Terre que le formidable forgeron Vulcain a forgée sur son enclume mythologique -- si cette métaphore peut passer\...
+
+--- Avec un verre de vin, tout passe, monsieur Patterson ! répondit le planteur en levant son verre.
+
+--- Je m\'étonne, disais-je, reprit le mentor, que cette Basse-Terre ait été épargnée par les convulsions sismiques, alors que la Grande-Terre, plutôt sortie des mains caressantes du dieu Neptune, y est particulièrement exposée\...
+
+--- Bien observé, monsieur l\'économe ! répliqua M. Barrand. De vrai, c\'était la Basse-Terre que ces cataclysmes auraient dû éprouver et non la Grande-Terre, car la première est posée comme une marmite sur un foyer ardent ! Et pourtant, des deux îles, c\'est la nôtre qui a le plus souffert ? Que voulez-vous ? La nature commet de ces erreurs, et, puisque l\'homme n\'y peut rien, il faut les accepter. Aussi, je répéterai en vous priant de me faire écho par un dernier toast : À la santé de la Grande-Terre, à la prospérité de la Pointe-à-Pitre\...
+
+--- Et en l\'honneur de notre généreux hôte ! » ajouta M. Patterson.
+
+Au surplus, ces souhaits étaient déjà réalisés. La Pointe-à-Pitre a toujours prospéré depuis sa fondation, malgré les agressions et invasions qui ont désolé l\'île, malgré les incendies dont la ville a été victime, malgré le terrible tremblement de terre de 1843, qui, en soixante-dix secondes, fit cinq mille victimes. Il ne restait plus debout que quelques pans de murs et la façade d\'une église avec son horloge arrêtée à dix heures trente-cinq minutes du matin. Cette catastrophe s\'étendit à la ville du Moule, aux bourgs de Saint-François, de Sainte-Anne, du Port-Louis, de Sainte-Rose, de l\'anse Bertrand, de Joinville, même à Basse-Terre, moins abîmée cependant que la Pointe-à-Pitre. Peu de temps après, les maisons étaient reconstruites, basses, isolées. À présent, des chemins de fer, qui rayonnent autour de la capitale, se raccordent avec les usines à sucre et autres établissements industriels. Et puis, de tous côtés, ont surgi des forêts d\'eucalyptus qui, absorbant l\'humidité du sol, en assurent la parfaite salubrité.
+
+Quel plaisir tous ces invités firent à leur hôte en visitant son domaine, si remarquablement entretenu, et dont il se montrait si fier ! Grâce à un système d\'irrigations ingénieusement conduites, les vastes plaines de cannes à sucre promettaient une fructueuse récolte.
+
+Des plantations de caféiers qui réussissent si bien sur les coteaux de l\'île, entre deux cents et six cents mètres de hauteur, répétait M. Barrand, y produisaient un café qui l\'emportait sur celui de la Martinique. Puis, on parcourut les champs autour de l\'habitation, les pâturages que le réseau hydraulique maintenait en fraîche verdure, de riches plants d\'aloès karata et de cotonniers d\'une importance restreinte encore, mais dont le succès ne faisait pas doute, des cultures de ce tabac, le pétun, réservé à la consommation locale, et qui, au dire du digne planteur, valait n\'importe quel autre des Antilles ; enfin les champs de manioc, ignames, patates, les vergers où abondaient les arbres à fruits des meilleures espèces.
+
+Il va de soi que M. Barrand avait à son service un nombreux personnel libre, profondément dévoué, qui eût sacrifié tous les bénéfices de l\'affranchissement plutôt que de quitter le domaine de Rose-Croix. Cependant, si exclusif que fût l\'oncle de Louis Clodion, il n\'aurait pas voulu priver les passagers de l\'Alert du plaisir de visiter quelques points curieux de la Guadeloupe proprement dite, la voisine de l\'ouest. Aussi, le surlendemain de leur arrivée, le 20 août, un petit steamboat, frété exprès, qui les attendait dans le port de la Pointe-à-Pitre, les conduisit-il à Basse-Terre, sur la côte méridionale.
+
+Basse-Terre, tout en étant un chef-lieu politique du groupe, n\'occupe que le troisième rang parmi les villes de la colonie. Mais, quoique M. Barrand n\'en voulût point convenir, aucune autre ne peut lui être comparée. Bâtie à l\'embouchure de la Rivière-aux-Herbes, elle se dispose en amphithéâtre sur la colline, ses maisons groupées au milieu d\'arbres magnifiques, ses villas éparses aux alentours, incessamment rafraîchies par les saines brises du large.
+
+Si leur hôte n\'avait point accompagné les jeunes garçons dans cette excursion, du moins Louis Clodion, qui connaissait Basse-Terre, remplit-il à merveille son rôle de cicérone. Ni le Jardin Botanique, qui est célèbre aux Antilles, ni ce sanatorium du camp de Jacob, aussi salubre que celui des Saintes, ne furent oubliés.
+
+Ainsi s\'écoulèrent ces quatre jours, en promenades, en explorations, qui ne laissèrent pas une heure inoccupée. Et quels repas plantureux, et quelle perspective, au moins pour M. Horatio Patterson, de gastrites et de dilatations d\'estomac, si la relâche eût duré quelques jours de plus ! Il est vrai, le moment arrivait de reprendre la mer. Cette hospitalité si facile, si large, si cordiale, si française en un mot, les passagers de l\'Alert la retrouveraient sans doute à la Martinique. Mais ce n\'était pas une raison pour ne point conserver un excellent souvenir de la Guadeloupe, une reconnaissance sincère pour l\'accueil de M. Henry Barrand.
+
+Par exemple, il ne fallait pas exciter sa verve jalouse en lui parlant de la Martinique, et, la veille du départ, il disait encore à M. Patterson :
+
+« Ce qui m\'enrage, c\'est que le gouvernement français semble avoir des préférences pour cette rivale !
+
+--- Quelles sont donc les faveurs qu\'il lui réserve ? demanda M. Patterson. -- Eh ! Entre autres, répondit M. Barrand, sans chercher à dissimuler son mécontentement, n\'a-t-il point choisi Fort-de-France pour tête de ligne de ses paquebots transatlantiques ? Est-ce que la Pointe-à-Pitre n\'était pas naturellement tout indiquée pour devenir leur port d\'arrivée ?
+
+--- Assurément, répondit M. Patterson, et je pense que les Guadeloupiens auront le droit de réclamer\...
+
+--- Réclamer, s\'écria le planteur, et qui se chargerait de leurs réclamations ?
+
+--- N\'avez-vous donc pas des représentants au Parlement français ?
+
+--- Un sénateur\... Deux députés\... répondit M. Barrand, et ils font tout ce qu\'ils peuvent pour défendre les intérêts de la colonie !
+
+--- C\'est leur devoir », répondit le mentor.
+
+Dans la soirée du 21 août, M. Barrand reconduisit ses hôtes à bord de l\'Alert. Puis, après avoir embrassé une dernière fois son neveu et serré la main à tous ses camarades :
+
+« Voyons, dit-il, au lieu d\'aller à la Martinique, ne feriez-vous pas mieux de passer huit jours encore à la Guadeloupe ?
+
+--- Et mon île ? s\'écria Tony Renault.
+
+--- Ton île, mon garçon, elle ne s\'en ira pas à la dérive, et tu la retrouverais à un autre voyage !
+
+--- Monsieur Barrand, objecta M. Patterson, vos offres nous touchent infiniment\... Et nous vous remercions de grand coeur\... Mais il faut se conformer au programme de Mrs Kethlen Seymour\...
+
+--- Soit ! Allez donc à la Martinique, mes jeunes amis ! répondit M. Barrand. Et surtout prenez garde aux serpents ! Il y en a par milliers, et ce sont les Anglais, dit-on, qui les ont importés avant de rendre l\'île à la France\...
+
+--- Est-il possible ? répondit le mentor. Non ! Jamais je ne croirai à semblable méchanceté de la part de mes compatriotes\...
+
+--- C\'est de l\'histoire, monsieur Patterson, c\'est de l\'histoire ! répliqua le planteur.
+
+Et, si vous vous laissez mordre là-bas, ce sera du moins par un serpent britannique\...
+
+--- Britannique ou non, déclara Louis Clodion, on s\'en défiera, mon oncle !
+
+--- À propos, demanda M. Barrand, au moment où il allait quitter le bord, avez-vous un bon capitaine ?
+
+--- De premier ordre, répondit M. Patterson, et dont nous avons tout lieu d\'être satisfaits\... Mrs Kethlen Seymour n\'aurait pu faire un meilleur choix\...
+
+--- Tant pis, répondit très sérieusement M. Barrand en hochant la tête. -- Tant pis ? Et pourquoi, de grâce ?
+
+--- Parce que, si vous aviez eu un mauvais capitaine, peut-être l\'Alert se fût-il mis à la côte en sortant du port, et j\'aurais eu la bonne chance de vous garder à Rose-Croix pendant quelques semaines ! »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3 -- La Dominique]{lang="X-NONE"}]{#_Toc342942297e3 .pcalibre2 .pcalibre1} {#chapitre-3-la-dominique .calibre171 .sigil_not_in_toc}
+
+Lorsque le trois-mâts fut hors de la baie de la Pointe-à-Pitre, une petite brise d\'est se leva, favorable à la direction qu\'il devait suivre pour rallier la Dominique, une centaine de milles plus au sud. Couvert de toile, l\'Alert glissa comme une mouette à la surface de cette mer étincelante. Avec un vent bien établi, il aurait pu franchir cette distance en vingt-quatre heures. Mais le baromètre montait lentement, -- ce qui faisait présager des calmes et une traversée plus longue du double.
+
+C\'était un bon navire, l\'Alert, et, il convient de le répéter, commandé par un capitaine qui connaissait à fond son métier, disposant d\'un équipage qui n\'en était plus à faire ses preuves. Les souhaits de M. Henry Barrand ne risquaient donc point de se réaliser. Même par mauvais temps, Harry Markel eût pris la mer sans craindre de se jeter sur les rochers de la baie, et les passagers n\'auraient pas à profiter des hospitalières offres du planteur de Rose-Croix.
+
+Si la navigation devait être lente, étant données les circonstances atmosphériques, elle débutait du moins dans les conditions les plus heureuses.
+
+En quittant la Pointe-à-Pitre, cap au sud, le bâtiment passa en vue du groupe des Saintes, que domine un morne de trois cents mètres. On aperçut très visiblement le fort qui le couronne, sur lequel flottait le drapeau français. Les Saintes sont toujours en état de défense, comme une citadelle avancée qui protège de ce côté les approches de la Guadeloupe.
+
+Entre tous, Tony Renault et Magnus Anders ne cessaient de se distinguer, lorsqu\'il s\'agissait de manoeuvrer. Ils faisaient le quart en vrais matelots, même le quart de nuit, quoi qu\'eût pu dire le mentor, toujours inquiet de l\'imprudence de ces hardis garçons.
+
+« Je vous les recommande, capitaine Paxton\... Répétait-il à Harry Markel. Songez donc, s\'il leur arrivait un accident ! Lorsque je les vois grimper à la mâture, il me semble qu\'ils vont être\... Comment dirai-je ?
+
+--- Déralingués\...
+
+--- Oui\... C\'est le mot, déralingués par un coup de roulis ou de tangage, et s\'ils tombaient à la mer ! Pensez à ma responsabilité, capitaine ! »
+
+Et quand Harry Markel avait répondu qu\'il ne leur laisserait pas commettre d\'imprudence, que sa responsabilité était non moins engagée que celle de M. Patterson, celui-ci le remerciait en termes émus qui ne dégelaient guère la froideur du faux Paxton.
+
+Alors c\'étaient des recommandations sans fin au jeune Suédois et au jeune Français, qui répondaient :
+
+« N\'ayez peur, monsieur Patterson\... Nous nous tenons solidement\... -- Mais si vos mains venaient à lâcher prise, vous dégringoleriez\...
+
+--- De branchâ in brancham dégringolat alque facil pouf ! Comme dit Virgile ! Déclama Tony Renault.
+
+--- Jamais le cygne de Mantoue n\'a commis un pareil hexamètre ! répliqua M. Patterson en levant les bras au ciel.
+
+--- Eh bien, il aurait dû le faire, riposta cet irrespectueux Tony Renault, car la chute en est superbe : atque facit pouf ! »
+
+Et les deux camarades d\'éclater de rire.
+
+Toutefois, le digne mentor pouvait se rassurer, Tony Renault et Magnus Anders, s\'ils étaient hardis comme des pages, étaient adroits comme des singes. D\'ailleurs, John Carpenter les surveillait, ne fût-ce que par crainte de voir leurs primes disparaître avec eux.
+
+Et puis, il ne fallait pas qu\'un accident obligeât l\'Alert à quelque longue relâche dans l\'une des Antilles, et, si l\'un ou l\'autre de ces deux garçons se fût cassé quelque membre, le départ aurait été retardé.
+
+À noter, d\'autre part, que l\'équipage se mettait rarement en rapport avec les passagers. Ceux-ci eussent pu même remarquer que les hommes se tenaient le plus souvent à l\'écart, ne cherchaient point à se familiariser, ce que font d\'ordinaire et si volontiers les matelots. Seuls Wagah et Corty liaient conversation, les autres gardant la réserve que leur avait imposée Harry Markel. Si, parfois, Roger Hinsdale et Louis Clodion avaient été surpris de cette attitude, si, à diverses reprises, ils avaient observé que les hommes se taisaient à leur approche, c\'était tout, et ils ne pouvaient avoir aucun soupçon.
+
+Quant à M. Patterson, il eût été incapable de faire aucune remarque à ce sujet. Il trouvait que le voyage s\'accomplissait dans les plus agréables conditions -- chose vraie d\'ailleurs -- et se félicitait maintenant d\'arpenter le pont sans s\'accrocher à chaque pas, pede maritimo.
+
+Les calmes ayant persisté, ce fut seulement le matin du 24 août, vers cinq heures, que l\'Alert, servi par une petite brise du nord-ouest, parut en vue de la Dominique.
+
+La capitale de la colonie, nommée Ville-des-Roseaux, possède environ cinq mille habitants. Elle est située sur la côte orientale de l\'île, dont les hauteurs la défendent de la violence trop fréquente des alizés. Mais le port n\'est pas suffisamment abrité contre les houles du large, surtout à l\'époque des grandes marées, et la tenue n\'y est pas sûre. Un navire est exposé à chasser sur ses ancres, et les équipages sont toujours prêts à changer de mouillage au premier indice de mauvais temps.
+
+Aussi, puisque l\'Alert devait séjourner plusieurs jours à la Dominique, Harry Markel préféra-t-il, non sans raison, ne point relâcher à Ville-des-Roseaux. De même orientation, vers l\'extrémité de l\'île, s\'ouvre une rade excellente, la rade de Portsmouth, où les bâtiments n\'ont rien à craindre des ouragans ni des cyclones qui désolent si fréquemment ces parages.
+
+C\'était dans cette dernière ville, qu\'était né, dix-huit ans auparavant, John Howard, le quatrième lauréat du concours, et il allait retrouver une cité en voie d\'agrandissement, dont l\'avenir fera un important centre de commerce. Ce fut un dimanche que les passagers mirent pied sur la Dominique et, s\'ils l\'eussent fait le 3 novembre, c\'eût été l\'anniversaire de sa découverte par Christophe Colomb, en 1493. Le célèbre navigateur l\'avait nommée Dominique en l\'honneur de ce jour sanctifié à bord de ses caravelles.
+
+La Dominique forme une importante colonie anglaise, puisqu\'elle comprend sept cent cinquante-quatre kilomètres superficiels, soit douze lieues de long sur six lieues de large. Actuellement, elle est peuplée de trente mille habitants, qui ont remplacé les Caraïbes du temps de la conquête. Tout d\'abord, les Espagnols ne cherchèrent point à s\'y établir, bien que les vallées de l\'île fussent fertiles, les eaux excellentes, les forêts riches en bois de construction.
+
+De même que ses soeurs des Indes occidentales, la Dominique a successivement passé aux mains de diverses puissances européennes. Elle fut française, au début du XVIIe siècle. Les premiers colons y introduisirent la culture du café et du coton, et, en 1622, leur nombre était de trois cent quarante-neuf, auxquels s\'ajoutaient trois cent trente-huit esclaves d\'origine africaine.
+
+Au début, les Français vécurent en bonne intelligence avec les Caraïbes, dont le total ne dépassait pas un millier.
+
+Ces indigènes provenaient d\'une race forte, laborieuse, non point celle des Peaux-Rouges, mais plutôt celle des Indiens qui peuplèrent les Guyanes et ces régions septentrionales de l\'Amérique du Sud.
+
+Il est à remarquer que, dans tout l\'archipel antilian, la langue que parlent les femmes n\'est pas absolument identique à celle dont se servent les hommes. Ce sont deux idiomes dont l\'un est, pour la partie féminine, l\'aronaque, et l\'autre, pour la partie masculine, le galibe. Ces indigènes, cruels et inhospitaliers, bien que possédant certaines notions religieuses, ont laissé une réputation de cannibalisme trop justifiée, et, peut-être, ce nom de Caraïbe est-il synonyme d\'anthropophage. Cela ne saurait excuser, bien entendu, les férocités qu\'exercèrent contre eux les conquérants espagnols.
+
+Cependant, comme ces Caraïbes se livraient à des excursions hostiles sur les diverses îles de l\'archipel avec leurs pirogues creusées à la hache dans des troncs d\'arbres, comme les Indiens étaient principalement victimes de leur cruauté, il fallut les détruire. Aussi, depuis la découverte des Antilles, ont-ils presque entièrement disparu, et, de cette race supérieure à celle du nord, il ne reste plus qu\'un petit nombre de types à la Martinique, à Saint-Vincent. Quant à la Dominique, où ils ont été moins durement pourchassés, leur nombre se réduit à une trentaine de familles.
+
+Toutefois, si les Européens avaient juré la destruction des Caraïbes, ils ne se refusaient pas à les employer dans leurs luttes personnelles. À plusieurs reprises, les Anglais et les Français s\'en firent de redoutables auxiliaires, utilisant leurs instincts belliqueux, quitte à les anéantir plus tard.
+
+Bref, dès les premiers temps de la conquête, la Dominique acquit une suffisante importance coloniale pour exciter les convoitises et attirer les flibustiers.
+
+Après les Français, qui y avaient fondé les premiers établissements, l\'île tomba sous la domination des Anglais, puis des Hollandais. Il était donc possible que Roger Hinsdale, John Howard, Hubert Perkins, Louis Clodion, Tony Renault, Albertus Leuwen, pussent s\'y réclamer d\'ancêtres respectifs, qui s\'étaient entre-tués deux ou trois siècles auparavant.
+
+En 1745, lorsqu\'éclata la guerre entre l\'Angleterre et la France, la Dominique passa entre les mains des Anglais. En vain le gouvernement français protesta-t-il avec énergie, demandant la restitution de cette colonie pour laquelle on avait fait tant de sacrifices d\'hommes et d\'argent. Il ne parvint pas même à obtenir qu\'elle lui fût rendue par le traité de Paris de 1763, et elle resta sous le pavillon aux trop larges plis de la Grande-Bretagne.
+
+Néanmoins, la France ne devait pas accepter ces conditions sans tenter une revanche. En 1778, le marquis de Bouille, gouverneur de la Martinique, prit la mer avec une escadrille, s\'empara de la Ville-des-Roseaux, et conserva sa conquête jusqu\'en 1783. Mais les Anglais parurent en force, et la Dominique rentra sous l\'autorité britannique, cette fois d\'une façon définitive.
+
+Que l\'on se rassure, ce n\'étaient point les jeunes lauréats anglais, hollandais, français de l\'Alert, qui allaient renouveler les luttes de jadis, et réclamer pour leurs pays la possession de cette île. M. Horatio Patterson, homme éminemment respectueux des droits acquis, bien qu\'il fût anglo-saxon, n\'eut pas à intervenir dans une question de ce genre, qui aurait risqué d\'ébranler l\'équilibre européen.
+
+Il y avait au plus six années que la famille de John Howard, après avoir quitté la ville de Portsmouth, habitait Manchester dans le comté de Lancastre.
+
+Le jeune garçon n\'avait pas perdu tout souvenir de l\'île, puisqu\'il était déjà âgé de douze ans, à l\'époque où M. et Mme Howard abandonnèrent la colonie sans y laisser aucun parent. John Howard n\'y retrouverait ni un frère comme Niels Harboe à Saint-Thomas, ni un oncle comme Louis Clodion à la Guadeloupe. Mais peut-être y rencontrerait-il quelque ami de sa famille qui s\'empresserait de faire bon accueil aux élèves d\'Antilian School.
+
+Il est vrai, même à défaut d\'amis, ou tout au moins de personnes qui avaient été en relations d\'affaires avec M. Howard, son fils s\'était bien promis, à l\'arrivée à Portsmouth, de faire une visite qui lui tenait au coeur. Il ne s\'agirait plus là de la réception si cordiale de M. Christian Harboe à Saint-Thomas ni de l\'opulente hospitalité d\'Henry Barrand à la Guadeloupe. Mais John Howard et ses camarades n\'en seraient pas moins accueillis par un couple de braves gens.
+
+Là, à Portsmouth, vivait encore, avec son vieux mari, une vieille négresse qui avait été au service de la famille Howard et dont la modeste existence était assurée par elle.
+
+Et, qui serait enchantée, plus qu\'enchantée, profondément émue en revoyant ce grand garçon qu\'elle avait autrefois porté dans ses bras ? Ce serait bien Kate Grindah. Ni son mari ni elle ne s\'attendaient à cette visite\... Ils ne savaient guère que l\'Alert relâcherait à la Dominique, et que le petit John se trouvait à bord, et qu\'il se hâterait de venir leur rendre visite.
+
+Dès que l\'Alert eut effectué son mouillage, les passagers se firent mettre à terre. Pendant ces quarante-huit heures de séjour à la Dominique, ils devaient rentrer chaque soir, et se borneraient à des excursions autour de la ville. Une des embarcations les irait chercher pour les ramener à bord.
+
+En effet, Harry Markel préférait qu\'il en fût ainsi, afin d\'éviter toute relation avec les gens de Portsmouth, sauf pour ce qui concernait les formalités maritimes.
+
+Dans un port anglais, il y avait lieu de redouter, plus qu\'en tout autre, la rencontre de personnes qui auraient connu le capitaine Paxton ou quelque matelot de son équipage. Harry Markel affourcha l\'Alert à une certaine distance du quai et interdit de descendre à terre. D\'autre part, n\'ayant point à renouveler ses provisions, sauf en farine et en viande fraîche, il prendrait ses mesures pour que cela se fit le plus prudemment possible.
+
+John Howard, ayant conservé de Portsmouth un souvenir assez précis, pourrait servir de guide à ses camarades. Ceux-ci connaissaient son intention d\'aller tout d\'abord embrasser les vieux Grindah dans leur petite maisonnette Aussi, dès qu\'ils eurent débarqué, ils traversèrent la ville et se dirigèrent vers le faubourg dont les dernières habitations débordent sur la campagne.
+
+La promenade ne fut pas longue. Après un quart d\'heure, tous s\'arrêtaient devant une modeste case, d\'apparence propre, entourée d\'un jardin planté d\'arbres à fruits, et terminé par une basse-cour où picoraient les volailles. Le vieux travaillait dans ce jardin, la vieille était à l\'intérieur, et elle sortait au moment où John Howard poussait la porte de l\'enclos.
+
+Quel cri de joie ne put retenir Kate, en reconnaissant l\'enfant qu\'elle n\'avait pas vu depuis six ans ! Y en eût-il eu vingt, elle l\'aurait reconnu tout de même, cet aîné de la famille ! Ce n\'est pas avec les yeux que cela se fait, c\'est avec le coeur !
+
+« Toi\... Toi\... John ! répétait-elle en pressant le jeune garçon dans ses bras. -- Oui\... Moi\... Bonne Kate\... Moi ! »
+
+Et le vieux d\'intervenir :
+
+« Lui\... John ! Tu te trompes ! Ce n\'est pas lui, Kate\...
+
+--- Si\... C\'est lui\...
+
+--- Oui\... C\'est moi ! »
+
+Et impossible de dire autre chose ! Puis, voici que les camarades de John Howard entourent les deux époux, et les embrassent à leur tour.
+
+« Oui\... Répétait Tony Renault\... C\'est bien nous\... Est-ce que vous ne nous reconnaissez pas ? »
+
+Il fallut tout expliquer, et dire pourquoi l\'Alert était venu à la Dominique\... Uniquement pour la vieille négresse et son mari ! La preuve, c\'est que la première visite avait été pour eux ! Et jusqu\'à M. Horatio Patterson, qui, ne cachant point son émotion, serra cordialement les mains des deux vieillards !
+
+Alors les admirations de Kate pour « son enfant » de reprendre de plus belle ! Comme il avait grandi ! Comme il était changé ! Quel beau garçon ! Elle l\'avait bien reconnu tout de même ! Et le vieux qui hésitait, lui ! Elle l\'attirait, dans ses bras\... Elle pleurait de joie et d\'attendrissement.
+
+Il y eut alors à donner des nouvelles de toute la famille Howard, le père, la mère, les frères, les soeurs ! Tout le monde allait bien.
+
+On parlait souvent là-bas de Kate et de son mari ? On ne les oubliait ni l\'un ni l\'autre\... Aussi John Howard leur remit-il à chacun un joli cadeau apporté tout exprès. Enfin, pendant la relâche de l\'Alert, John Howard ne laisserait passer ni une soirée ni une matinée sans venir embrasser ces bonnes gens.
+
+Puis, après avoir accepté un petit verre de tafia, du rhum de la Jamaïque, on se sépara.
+
+Les quelques excursions que John Howard et ses camarades effectuèrent aux environs de Portsmouth les amenèrent au pied du mont Diablotin, dont ils firent l\'ascension. Du sommet, la vue s\'étendait sur l\'île entière. Assez éreinté, lorsqu\'il s\'assit sur sa pointe, le mentor crut devoir emprunter cette citation aux Géorgiques de Virgile :
+
+[\... Velut stabuli custos in montibus olim considit scopulo\...]{lang="FRE"}
+
+Ainsi que le fit remarquer ce loustic de Tony Renault, à part que M. Patterson ne se trouvait point sur une véritable montagne, qu\'il n\'était pas un berger, un custos stabuli, la citation pouvait être admise.
+
+Du haut du Diablotin les regards embrassaient une campagne bien cultivée, qui assure un important trafic de fruits, sans parler du soufre que l\'île fournit en abondance. La culture du caféier, actuellement en progrès sensible, deviendra la principale richesse de la Dominique.
+
+Le lendemain, les jeunes voyageurs visitèrent Ville-des-Roseaux, peuplée de cinq mille âmes, peu commerçante, d\'aspect fort agréable, mais que le gouvernement anglais « a frappée de paralysie », pour employer l\'expression en usage.
+
+Le départ de l\'Alert, on le sait, avait été fixé au lendemain, 26 août. Aussi, vers cinq heures, tandis que les jeunes touristes faisaient une dernière promenade sur le littoral au nord de la ville, John Howard alla-t-il revoir une dernière fois la vieille Kate.
+
+Au moment où il prenait une des rues qui aboutissent au quai, il fut accosté par un homme d\'une cinquantaine d\'années, un marin à la retraite, qui lui dit, en montrant l\'Alert au milieu du port :
+
+« Un joli navire, mon jeune monsieur, et, pour un matelot, c\'est plaisir de le regarder !
+
+--- En effet, répondit John Howard, navire aussi bon que joli, et qui vient de faire une heureuse traversée d\'Europe aux Antilles.
+
+--- Oui ! Je sais\... Je sais, répondit le marin, comme je sais que vous êtes le fils de M. Howard, chez qui servaient la vieille Kate et son mari\...
+
+--- Vous les connaissez ?
+
+--- Nous sommes voisins, monsieur John.
+
+--- Eh bien, je vais leur faire mes adieux, car nous partons demain\... -- Demain\... Déjà ?
+
+--- Oui\... Nous avons encore à visiter la Martinique, Sainte-Lucie, la Barbade\...
+
+--- Je sais\... Je sais\... Je sais\... Mais, dites-moi, monsieur John, qui commande l\'Alert ?
+
+--- Le capitaine Paxton.
+
+--- Le capitaine Paxton ? répéta le matelot. Eh ! Je le connais\... Je le connais.
+
+--- Vous le connaissez ?
+
+--- Si Ned Butlar le connaît ? Je le crois bien ! Nous avons navigué ensemble sur le Northumberland dans les mers du sud\... Il y a une quinzaine d\'années de cela\... Lorsqu\'il n\'était que second, un homme d\'une quarantaine d\'années, n\'est-ce pas ?
+
+--- Environ, répondit John Howard.
+
+--- Un peu ramassé de taille ?
+
+--- Non, plutôt grand et fort\...
+
+--- Les cheveux roux ?
+
+--- Non\... Noirs.
+
+--- C\'est singulier ! Déclara le matelot. Je me le rappelle pourtant comme si je le voyais\...
+
+--- Eh bien, reprit John Howard, puisque vous connaissez le capitaine Paxton, allez le voir\...
+
+Il sera heureux de serrer la main à un ancien compagnon de voyage\... -- C\'est ce que je ferai, monsieur John\...
+
+--- Aujourd\'hui alors, et même tout de suite\... L\'Alert doit partir demain dès la première heure\...
+
+--- Merci pour votre conseil, monsieur John, et, certainement, je ne laisserai pas appareiller l\'Alert sans avoir rendu visite au capitaine Paxton. »
+
+Tous deux se séparèrent, et John Howard se dirigea vers le haut quartier de la ville.
+
+Quant au marin, il sauta dans un canot et se fit conduire à bord du trois-mâts.
+
+C\'était là un sérieux danger pour Harry Markel et son équipage. Ce Ned Butlar connaissait le capitaine Paxton, puisqu\'ils avaient navigué deux ans ensemble, et que dirait-il, que penserait-il, lorsqu\'il se trouverait en présence d\'Harry Markel, lequel, évidemment, n\'avait aucune ressemblance avec l\'ancien second du Northumberland.
+
+Quand le matelot fut arrivé à l\'échelle de tribord, Corty, qui se promenait sur le pont, intervint :
+
+« Eh ! Camarade, cria-t-il, qu\'est-ce que vous voulez ?
+
+--- Parler au capitaine Paxton.
+
+--- Vous le connaissez ? demanda vivement Corty, toujours sur le qui-vive. -- Si je le connais ! Nous avons fait campagne ensemble dans les mers du sud\...
+
+--- Ah ! Vraiment\... Et que lui voulez-vous, au capitaine Paxton ?
+
+--- Échanger un bout de conversation avec lui, avant qu\'il parte\... Ça fait toujours plaisir de se revoir, n\'est-ce pas, camarade ?
+
+--- Comme vous dites !
+
+--- Alors je vais embarquer\...
+
+--- Le capitaine Paxton n\'est pas à bord en ce moment\...
+
+--- Je l\'attendrai\...
+
+--- C\'est inutile\... Il ne doit revenir que très tard dans la soirée\...
+
+--- Pas de chance ! dit le matelot.
+
+--- Non\... Pas de chance !
+
+--- Mais\... Demain\... Avant que l\'Alert ne lève l\'ancre\...
+
+--- Peut-être\... Si vous y tenez !
+
+--- Certes\... Je tiens à voir le capitaine Paxton, autant qu\'il tiendrait à me voir, s\'il savait que je suis ici\...
+
+--- Je n\'en doute pas\... répondit ironiquement Corty.
+
+--- Annoncez-lui, camarade, que Ned Butlar\... Ned Butlar du Northumberland, est venu pour lui souhaiter le bonjour\...
+
+--- Ce sera fait\...
+
+--- Alors\... À demain ?
+
+--- À demain ! »
+
+Et Ned Butlar, repoussant le canot, se fit ramener au quai.
+
+Dès qu\'il se fut éloigné, Corty se rendit à la cabine d\'Harry Markel et le mit au courant.
+
+« Il est de toute évidence que ce marin connaît le capitaine Paxton\... Dit-il. -- Et qu\'il reviendra demain dans la matinée\... Ajouta Corty.
+
+--- Qu\'il revienne ! Nous n\'y serons plus\...
+
+--- L\'Alert ne doit partir qu\'à neuf heures, Harry\...
+
+--- L\'Alert partira quand il devra partir ! répondit Harry Markel. Mais pas un mot de cette visite aux passagers\...
+
+--- Entendu, Harry ! N\'importe, je donnerais ma part des primes pour avoir quitté ces parages, où il ne fait guère bon pour nous\...
+
+--- Encore quinze jours de patience et de prudence, Corty, il n\'en faut pas davantage ! »
+
+Lorsque M. Horatio Patterson et ses compagnons rentrèrent à bord, il était déjà dix heures. John Howard avait fait ses adieux à la vieille Kate et à son mari. S\'il avait été bien et bien embrassé, s\'il avait été chargé de bons souhaits pour la famille, on le croira sans peine.
+
+Après une journée fatigante, les passagers éprouvaient un grand besoin de s\'étendre sur leurs cadres et ils allaient se retirer dans les cabines, lorsque John Howard demanda s\'il n\'était pas venu un matelot du nom de Ned Butlar, qui désirait renouveler connaissance avec le capitaine Paxton.
+
+« Oui\... répondit Corty, mais le capitaine était à terre au bureau maritime\... -- Alors ce Butlar reviendra demain, sans doute, avant le départ de l\'Alert ?
+
+--- C\'est convenu », répondit Corty.
+
+Un quart d\'heure après, le carré retentissait des plus sonores ronflements qu\'une bande de dormeurs éreintés eût jamais fait entendre, et parmi lesquels dominait le souffle barytonant de M. Patterson.
+
+Les passagers n\'entendirent donc rien du bruit qui se fit, lorsque, vers trois heures du matin, l\'Alert manoeuvra pour sortir de Portsmouth.
+
+Et, six heures après, lorsqu\'ils reparurent sur le pont, déjà à cinq ou six milles de la Dominique, Magnus Anders, Tony Renault, de s\'écrier :
+
+« Quoi\... Partis ?
+
+--- Et on a appareillé sans nous ? ajouta Tony Renault.
+
+--- Je craignais un changement de temps, répondit Harry Markel, et j\'ai voulu profiter de la brise de terre.
+
+--- Bon ! dit John Howard, et ce brave Butlar qui tenait tant à vous voir, capitaine Paxton\...
+
+--- Oui\... Butlar\... Je me rappelle\... Nous avons navigué ensemble, répondit Harry Markel\... Mais je ne pouvais attendre !
+
+--- Le pauvre homme, dit John Howard, cela lui fera de la peine ! Je ne sais, d\'ailleurs, s\'il vous aurait reconnu\... Il faisait de vous un homme gros et court, avec une barbe rousse\...
+
+--- Un vieux qui n\'a plus de mémoire ! se contenta d\'observer Harry Markel. -- Ce que nous avons bien fait de déraper ! murmura Corty à l\'oreille du maître d\'équipage.
+
+--- Oui, répliqua John Carpenter, et en double\... Quand même il aurait fallu filer la chaîne par le bout ! »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- La Martinique]{lang="X-NONE"}]{#_Toc342942297e4 .pcalibre2 .pcalibre1} {#chapitre-4-la-martinique .calibre171 .sigil_not_in_toc}
+
+Ce danger, Harry Markel venait d\'y échapper. Par trois fois encore, à la Martinique, à Sainte-Lucie et à la Barbade, il y serait exposé. Pourrait-il toujours s\'y soustraire ? Une chance extraordinaire l\'avait accompagné pendant la première partie de son existence de pirate jusqu\'au jour où ses compagnons et lui furent arrêtés à bord de l\'Halifax, puis s\'était manifestée de nouveau avec l\'évasion de la prison de Queenstown, avec la capture de l\'Alert. Depuis lors, elle avait continué, elle continuait même par ce fait que Harry Markel avait pu éviter la rencontre de Ned Butlar. Quant au portrait, si différent du sien, que ce matelot avait fait du capitaine Paxton, il n\'attachait à cela aucune importance. Les passagers n\'y songeaient déjà plus. Il avait foi dans son étoile, il irait jusqu\'au bout de son aventureuse et criminelle campagne.
+
+Ce matin-là, on l\'a dit, la Dominique, dont on n\'apercevait que les dernières hauteurs, restait à cinq ou six milles dans le sud, et n\'aurait plus même été visible, si la brise eût fraîchi.
+
+La distance entre cette île et la Martinique est à peu près égale à celle qui sépare la Guadeloupe de la Dominique. Or, ses montagnes sont assez élevées, et, par beau temps, se voient d\'une soixantaine de milles. Rien d\'impossible à ce qu\'elles fussent aperçues avant le coucher du soleil. Dans ce cas, dès le lendemain, l\'Alert serait à Fort-de-France, la capitale, vers laquelle il se dirigeait.
+
+Divisée en neuf cantons et vingt-neuf communes, l\'île comprend les deux arrondissements de Saint-Pierre et de Fort-de-France.
+
+Le ciel était magnifique, la mer resplendissante, tout imprégnée de rayons solaires.
+
+Pas un nuage ne voilait l\'espace. À peine si l\'on ressentait cette houle longue et régulière qui venait du large. Le baromètre se tenait au beau fixe. Dans ces conditions, il était donc à supposer que l\'Alert ne gagnerait pas plus de cinq à six milles à l\'heure. Aussi Harry Markel fit-il établir les bonnettes du grand mât, du mât de misaine, les voiles d\'étai, en un mot complète voilure d\'un trois-mâts.
+
+Tony Renault et Magnus Anders ne furent pas les derniers à grimper par les haubans, à gagner les hunes, en s\'aidant des hampes de revers, sans même passer par le trou du chat, à se hisser jusqu\'aux barres de perroquet, à pousser les bouts des bonnettes, tandis que leurs camarades s\'occupèrent à les amurer, puis à raidir leurs écoutes.
+
+En vérité, la manoeuvre achevée, ces hardis garçons consentiraient-ils à redescendre sur le pont, et ne préféreraient-ils pas rester dans la mâture ? Sur la dunette, assis dans un confortable fauteuil d\'osier doublé d\'un moelleux coussin, le mentor paraissait fier de ses jeunes compagnons. Non point qu\'il fût sans inquiétude à les voir se promener sur les vergues, à gravir les enfléchures et qu\'il négligeât de leur crier de bien se tenir. Enfin tout cela l\'enchantait. Ah ! Si son directeur, M. Julian Ardagh, eût été là près de lui, s\'ils avaient pu échanger quelques propos, quels pompeux éloges ils eussent faits des pensionnaires d\'Antilian School ! Et tout ce que M. Patterson aurait à raconter, à son retour, lorsqu\'il remettrait le registre où figureraient les comptes de ce merveilleux voyage !
+
+Et s\'étonnera-t-on si, à un moment où Tony Renault et Magnus Anders atteignaient en haut des mâts, cette citation lui échappa en présence de John Carpenter :
+
+« Sic itur ad astra\...
+
+--- Qu\'est-ce que ça veut dire, monsieur ? demanda le maître d\'équipage. -- Ça veut dire qu\'ils s\'élèvent vers le ciel.
+
+--- Et qui a enfilé ces mots-là les uns au bout des autres ?
+
+--- Le divin Virgile.
+
+--- J\'ai connu un individu de ce nom, un nègre, qui était soutier à bord des transatlantiques\...
+
+--- Ce n\'était pas lui, mon ami\...
+
+--- Eh bien, tant mieux pour votre Virgile, car le mien a été pendu ! »
+
+Au cours de cette journée, l\'Alert croisa plusieurs de ces navires qui font le cabotage entre les Antilles, mais il ne s\'en approcha pas.
+
+Ce que craignait alors Harry Markel, c\'était d\'être encalminé pendant quelques jours, ce qui eût retardé d\'autant son arrivée à la Martinique. Cependant, si la brise indiqua une tendance à calmir, elle ne tomba pas tout à fait avec le soir. Quoique faible, elle parut devoir se maintenir toute la nuit. Venant du nord-est, elle serait favorable à l\'Alert, qui n\'amena point ses hautes voiles, bien que cela se fasse d\'ordinaire entre le coucher et le lever du soleil.
+
+Ce fut vainement, avant que l\'obscurité eût rempli l\'espace, que les passagers cherchèrent à apercevoir la cime du mont Pelé, qui s\'élève à treize cent cinquante-six mètres au-dessus du niveau de la mer. Aussi, vers neuf heures, regagnèrent-ils leurs cabines, dont les portes restèrent ouvertes à cause de la chaleur.
+
+Jamais nuit ne leur avait paru plus tranquille, et, dès cinq heures du matin, tous étaient sur le pont.
+
+Et alors Tony Renault de s\'écrier, en montrant une hauteur vers le sud : « Le mont Pelé, le voilà !
+
+C\'est lui\... Je le reconnais !
+
+--- Tu le reconnais ? répliqua Roger Hinsdale, d\'un ton qui marquait une certaine incrédulité\...
+
+--- Sans doute ! Pourquoi aurait-il changé depuis cinq ans ? Tenez\... Les trois pitons du Carbet\...
+
+--- Il faut avouer, Tony, que tu as de bons yeux\...
+
+--- Excellents ! Je vous affirme que c\'est le mont Pelé\... Qui n\'est pas pelé du tout\... Il est vert et boisé comme toutes les montagnes de mon île ! Et vous en verrez bien d\'autres dans mon île\... Si nous gravissons la montagne du Vauclin ! Et, que vous le veuillez ou non, il faudra bien admirer mon île\... La plus belle des Antilles ! »
+
+On le laissa s\'emballer, car il avait la riposte vive, ce pétulant garçon. Toute exagération à part, Tony Renault ne s\'aventurait pas en vantant la Martinique. Par sa superficie, cette île occupe le second rang de la chaîne antiliane, soit neuf cent quatre-vingt-sept kilomètres carrés, et ne compte pas moins de cent soixante-dix-sept mille habitants, soit dix mille blancs, quinze mille asiatiques, cent cinquante mille noirs et gens de couleur pour la plupart d\'origine martiniquaise. Elle est entièrement montagneuse et couverte de magnifiques forêts jusqu\'à ses plus hautes cimes. Quant au réseau hydrographique, nécessaire à la fertilité de son sol, il permet de lutter contre les chaleurs de la zone tropicale. La plupart de ses rivières sont navigables, et ses ports sont accessibles aux bâtiments de fort tonnage. Pendant cette journée, la brise continua de souffler faiblement. Elle ne fraîchit un peu que dans l\'après-midi, et les vigies relevèrent alors la pointe Macouba à l\'extrémité septentrionale de la Martinique.
+
+La nuit, vers une heure, le vent prit plus de force, et l\'Alert, qui avait conservé toute sa voilure, put faire bonne route en contournant l\'île par l\'ouest.
+
+Aux premières heures de l\'aube apparut le morne Jacob, moins éloigné du centre que le mont Pelé, dont la cime se dégagea bientôt des basses vapeurs du matin.
+
+Vers sept heures, une ville se montra sur le littoral presque à l\'extrémité nord-ouest de l\'île.
+
+Tony Renault de s\'écrier à ce moment :
+
+« Saint-Pierre Martinique ! »
+
+Et il chanta à pleine voix le refrain de la vieille chanson française : « C\'est le pays qui m\'a donné le jour ! »
+
+C\'était à Saint-Pierre, en effet, qu\'était né Tony Renault. Mais, en quittant la Martinique pour venir se fixer en France, sa famille n\'y avait laissé aucun parent.
+
+Fort-de-France, situé plus au sud sur le même littoral, à l\'entrée de la baie de ce nom, après s\'être primitivement appelé Fort-Roque, est la capitale de la Martinique. Cependant le commerce n\'y a pas pris un développement aussi considérable qu\'à Saint-Pierre, dont la population est de vingt-six mille habitants, celle de Fort-de-France étant moindre de deux cinquièmes. Les autres principales villes de la Martinique sont, sur la côte ouest, le bourg de Laurentin ; plus au sud, le bourg du Saint-Esprit, le bourg du Diamant, le bourg du Menu et, à l\'extrémité de l\'île, le bourg de la Trinité. À Saint-Pierre, le chef-lieu administratif de la colonie, les échanges ne sont pas aussi contrariés par les règlements militaires qu\'à Fort-de-France, qui, avec les forts du Tribut et du Mouillage, puissamment armés, assure la défense de l\'île[[\[5\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn5045){#_ftnref5045 .pcalibre2 .pcalibre1}.
+
+Neuf heures du matin sonnaient, lorsque l\'Alert vint jeter l\'ancre dans la baie circulaire où s\'ouvre le port. Au fond, la ville, qu\'une petite rivière guéable divise en deux parties, est abritée contre les vents de l\'est par une haute montagne.
+
+Élysée Reclus rapporte volontiers ce que l\'historien Dutertre a dit de Saint-Pierre, « une de ces villes que l\'étranger n\'oublie point. La façon d\'être du pays est si agréable, la température si bonne, et l\'on y vit dans une liberté si honnête que je n\'ai pas vu un seul homme ni une seule femme, qui, après en être revenus, n\'aient eu une grande passion d\'y retourner ».
+
+Et il est vraisemblable que Tony Renault éprouvait un peu de cette passion-là, car il se montrait plus agité, plus démonstratif que jamais. Ses camarades pouvaient compter sur lui pour leur faire les honneurs de son île natale. Que la relâche, d\'après le programme, ne dût s\'y prolonger que quatre jours, peu importait ! Avec de l\'activité, le désir de tout voir et de bonnes jambes, sous la direction d\'un guide tel que Tony Renault, les excursions succéderaient aux excursions, et s\'étendraient jusqu\'à la capitale de la Martinique. Ne point le faire, ce serait avoir parcouru la France sans visiter Paris, ou, comme le dit Tony Renault, « aller à Dieppe sans voir la mer » !
+
+De tels projets exigeaient une complète liberté de mouvements.
+
+Il ne fallait pas s\'astreindre à revenir chaque soir coucher dans sa cabine. On passerait la nuit où l\'on se trouverait. Il en résulterait quelques dépenses, sans doute, mais l\'économe d\'Antilian School les surveillerait avec autant de soin qu\'il mettrait à les inscrire sur son carnet. Et puis, en prévision de la prime que chacun des boursiers devait toucher à la Barbade, y avait-il lieu d\'y regarder de si près ?
+
+Le premier jour fut consacré à Saint-Pierre. Après avoir admiré du large l\'aspect amphithéâtral de la ville, son heureuse disposition, au milieu des magnifiques bouquets de palmiers et autres arbres tropicaux, sur les pointes de la montagne qui lui sert d\'arrière-plan, on visita l\'intérieur, digne de l\'extérieur. Peut-être, les maisons basses, peintes en jaune, n\'ont-elles pas grand air ; mais on a dû se résoudre à les rendre solides et sûres, à les prémunir contre les tremblements de terre, si fréquents aux Antilles, contre les ouragans formidables, tel celui de 1776 qui causa tant de désastres et étendit ses ravages à toute la surface de l\'île.
+
+Tony Renault n\'oublia pas de faire à ses camarades les honneurs de la maison où il naissait, dix-sept ans auparavant, et qui était devenue un entrepôt de denrées coloniales.
+
+Jusqu\'en 1635, les Caraïbes furent les seuls habitants de la Martinique. À cette époque, le Français d\'Esnambue, gouverneur de Saint-Christophe, qui vint s\'y établir avec une centaine d\'hommes, obligea les indigènes à se retirer dans les montagnes et au fond des bois. Toutefois, les Caraïbes n\'entendaient pas être dépossédés sans résistance ; ils firent appel aux Indiens des îles voisines et, au début, parvinrent chasser les étrangers.
+
+Mais ceux-ci, appelant des renforts, reprirent la campagne et, dans un dernier engagement, les indigènes perdirent sept à huit cents des leurs.
+
+Une autre tentative fut encore faite par les Caraïbes pour reconquérir l\'île, guerre de guets-apens et de surprises, d\'assassinats isolés. On décida alors d\'en finir avec cette redoutable race, et, après un massacre général, les Français demeurèrent maîtres de la Martinique.
+
+À partir de cette époque, les travaux de culture furent conduits avec méthode et activité. Le coton, le roucou, le tabac, l\'indigo, la canne à sucre, puis, dès la fin du XVIIe siècle, les cacaoyers, devinrent les principales richesses de l\'île.
+
+À ce propos, voici la petite histoire que raconta Tony Renault, et dont M. Patterson prit bonne note :
+
+« En 1718, un ouragan, d\'une extrême violence, détruisit tous les cacaoyers. Or, à Paris, le jardin botanique possédait quelques-uns de ces arbres qui lui venaient de Hollande. Le naturaliste Desclieux fut chargé d\'apporter à la Martinique deux rejetons de cacaoyers. Pendant la traversée, l\'eau vint presque entièrement à manquer. Mais, sur les quelques gouttes de sa ration, Desclieux en attribua une part à ses rejetons, qui, arrivés à bon port, reconstituèrent les plantations de l\'île.
+
+--- N\'est-ce pas ce que Jussieu a fait pour le cèdre que l\'on admire au Jardin des Plantes de Paris ? demanda Louis Clodion.
+
+--- Oui\... Et c\'est beau\... C\'est très beau, déclara M. Patterson, et la France est une grande nation ! »
+
+Cependant, en 1794, la Martinique tomba au pouvoir des Anglais, et elle ne fut définitivement restituée qu\'au traité de 1816.
+
+C\'est alors que la colonie se trouva aux prises avec une situation que rendit très difficile la supériorité numérique des esclaves par rapport à leurs maîtres.
+
+Une révolte éclata, provoquée surtout par les nègres marrons. Il fallut recourir à l\'affranchissement et trois mille esclaves furent libérés. Ces gens de couleur jouirent du complet exercice de leurs droits civils et politiques. Dès 1828, on comptait dix-neuf mille nègres libres à la Martinique, et beaucoup d\'entre eux, travaillant pour leur propre compte, devinrent propriétaires d\'une partie du sol.
+
+Le lendemain, les touristes firent l\'ascension du mont Pelé, à travers les épaisses forêts qui tapissent ses flancs. Et si cette ascension ne laissa pas d\'occasionner quelque fatigue, Tony Renault et ses camarades en furent récompensés. La vue s\'étendait sur l\'île entière, découpée comme une feuille d\'arbre, qui semblait flotter à la surface de cette mer si bleue des Antilles. Vers le sud-est, un étroit isthme, mesurant à peine deux kilomètres entre les marécages riverains, réunit ces deux parties de la Martinique. La première projette sur l\'Atlantique la presqu\'île des Caravelles, entre le havre de la Trinité et la baie du Gabion. La seconde, très accidentée, se relève jusqu\'à l\'altitude de cinq cents mètres avec le Vauclin. Quant aux autres mornes du Robert, des François, de Constant, de la Plaine, ils accentuent pittoresquement le relief de l\'île. Enfin, du côté du littoral, vers le sud-ouest, s\'arrondit l\'anse du Diamant, et, au sud-est, se dessine la pointe des Salines, qui forme comme le pédoncule de cette feuille flottante.
+
+Et leurs regards furent si charmés que les jeunes voyageurs eurent d\'abord l\'admiration muette. M. Horatio Patterson lui-même ne retrouva pas dans sa mémoire un seul vers latin pour formuler son admiration.
+
+« Qu\'est-ce que je vous avais dit ?
+
+Qu\'est-ce que je vous avais dit ? » Répétait Tony Renault.
+
+Du haut de ce mont Pelé, on pouvait constater la fertilité de l\'île, qui est en même temps l\'une des terres les plus peuplées du globe, soit cent soixante-dix-huit habitants par kilomètre carré.
+
+Si l\'exploitation des cacaoyers et des bois de teinture a conservé son importance, la production du café s\'est beaucoup amoindrie et va presque jusqu\'à l\'abandon. Quant aux champs de cannes à sucre, ils n\'occupent pas moins de quarante mille hectares et, annuellement, produisent pour dix-huit à vingt millions de sucre, rhum et tafia.
+
+Bref, l\'importation se chiffre par vingt-deux millions de francs, l\'exportation par vingt et un millions, et près de dix-neuf cents navires impriment au commerce de la Martinique un mouvement considérable.
+
+Du reste, l\'île est desservie par plusieurs chemins de fer industriels et agricoles qui mettent les ports en communication avec les usines centrales. En outre, elle possède un réseau de voies carrossables dont la longueur dépasse neuf cents kilomètres.
+
+Le lendemain, 30 août, par un temps magnifique, sur une route bien entretenue, les touristes se rendirent à Fort-de-France. Un break contenait toute cette troupe de joyeux garçons, au teint fortement hâlé par les brises de l\'Atlantique, et dont la gaieté était débordante.
+
+Après un substantiel déjeuner dans un bon hôtel, ils parcoururent la capitale de l\'île, assise au fond de la grande baie du même nom, et que domine la masse imposante du Fort-Royal. Il y eut à visiter l\'arsenal et le port militaire, qui enlèvent à cette cité tout caractère industriel ou commercial.
+
+Là, comme en Amérique, comme en Europe, il est difficile que l\'esprit militaire et l\'esprit civil progressent parallèlement. Aussi, grande différence entre Saint-Pierre et Fort-de-France.
+
+Cette ville n\'a point échappé aux deux fléaux qui occasionnent tant de ravages dans les Indes Occidentales. Éprouvée par le tremblement de terre de 1839, qui fit de nombreuses victimes[[\[6\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn6045){#_ftnref6045 .pcalibre2 .pcalibre1}, elle s\'est relevée, et, actuellement, de superbes promenades s\'allongent jusque sur les collines environnantes. Il fallait voir la bande bruyante déambuler à travers cette magnifique allée de la Savane qui aboutit au fort Saint-Louis, puis faire le tour de la place horizontale, plantée de palmiers, au centre de laquelle se dresse la statue en marbre blanc de l\'impératrice Joséphine, la créole couronnée, dont le souvenir est resté si cher à la Martinique.
+
+Après la ville, les environs, et c\'est à peine si Tony Renault laissait à ses camarades le temps de respirer. Ils durent le suivre sur une hauteur voisine au camp de Balata, puis à ce sanatorium affecté aux troupes qui vont s\'y acclimater en arrivant d\'Europe. Enfin, l\'excursion s\'étendit jusqu\'aux sources thermales des environs. Et, en passant, il faut remarquer que, jusqu\'alors, si nombreux que soient les serpents à la Martinique, le mentor et ses compagnons n\'avaient pas rencontré un seul de ces venimeux reptiles.
+
+Le jeune cicérone ne fit même pas grâce à ses camarades d\'une excursion au bourg de Lamentin à travers les forêts qui recouvrent cette partie de l\'île. Et ce fut à cette occasion que se produisit un incident digne d\'être rapporté avec quelque détail, car rien de ce qui concerne M. Horatio Patterson ne saurait être tenu dans l\'ombre.
+
+Le 31 août, la veille du jour fixé pour le départ de l\'Alert, les excursionnistes, après une bonne nuit de repos, se dirigèrent vers l\'isthme qui réunit les deux moitiés de l\'île. La route se fit gaiement, comme toujours. Les voitures avaient emporté quelques provisions ; chacun ayant sa gourde pleine, on déjeunerait dans les bois voisins de l\'isthme.
+
+Après un trajet de quelques heures, Tony Renault et les autres descendirent de voiture, s\'engagèrent sous bois et atteignirent, à un demi-kilomètre de là, l\'orée d\'une clairière qui leur parut toute désignée pour une halte, avant de gagner plus profondément à travers la forêt.
+
+M. Patterson, moins ingambe, était resté d\'une centaine de pas en arrière. On ne s\'en préoccupa pas, et, assurément, il ne tarderait pas à rejoindre. Cependant, après dix minutes d\'attente, comme le mentor ne reparaissait pas, Louis Clodion, se relevant, appela d\'une voix forte :
+
+« Monsieur Patterson ! Par ici, monsieur Patterson ! »
+
+Aucune réponse de l\'absent, qu\'on n\'apercevait pas entre les arbres.
+
+« Est-ce qu\'il s\'est égaré ? demanda Roger Hinsdale, en se levant à son tour.
+
+--- Il ne peut être loin\... », Répondit Axel Wickborn.
+
+Et, alors, tous de crier ensemble :
+
+« Monsieur Patterson\... Monsieur Patterson ! »
+
+Pris d\'une certaine anxiété, les jeunes garçons décidèrent de se mettre à la recherche du mentor. La forêt était assez épaisse pour qu\'il fût possible, et, par là même, imprudent de s\'y égarer.
+
+Et puis, si les fauves ne sont pas à craindre, puisqu\'on n\'en rencontre pas aux Antilles, on risque de se trouver inopinément en présence de quelque redoutable ophidien, un de ces trigonocéphales dont la morsure est mortelle.
+
+Véritablement, il y eut lieu d\'être très inquiet, lorsque les recherches poursuivies pendant une demi-heure n\'eurent donné aucun résultat. En vain le nom de M. Patterson avait-il été cent fois lancé en toutes directions\... Aucune trace de M. Patterson.
+
+Tous étaient arrivés au plus profond de la forêt, lorsqu\'ils aperçurent une cabane, sorte de pavillon de chasse, enfouie sous les arbres, au milieu d\'un inextricable entrelacement de lierres.
+
+Était-ce là, et pour un motif ou un autre, que M. Patterson avait cherché refuge ? En tout cas, la cabane était fermée et sa porte avait été assujettie extérieurement par une barre de bois.
+
+« Il ne peut être là\... Dit Niels Harboe.
+
+--- Voyons toujours », dit Magnus Anders.
+
+La barre fut retirée, la porte ouverte.
+
+La cabane était vide. Elle ne contenait que quelques bottes d\'herbe sèche, un couteau de chasse dans sa gaine accroché à l\'une des parois, un carnier, plusieurs peaux de quadrupèdes et d\'oiseaux pendues dans un coin.
+
+Louis Clodion et Roger Hinsdale, qui étaient entrés dans cette cabane, en sortirent presque aussitôt aux cris de leurs camarades.
+
+« Le voilà\... Le voilà ! » répétaient-ils.
+
+En effet, à vingt pas en arrière, au pied d\'un arbre, M. Patterson, étendu tout de son long, le chapeau à terre, la figure convulsée, les bras contractés, présentait l\'apparence d\'un homme qui n\'a plus un souffle de vie.
+
+Louis Clodion, John Howard, Albertus Leuwen, se précipitèrent vers M. Patterson\... Son coeur battait\... Il n\'était pas mort\...
+
+« Que lui est-il arrivé ? s\'écriait Tony Renault. Est-ce qu\'il a été mordu par un serpent ? »
+
+Oui, peut-être M. Patterson avait-il été aux prises avec un de ces trigonocéphales, ces « fers de lance » si communs à la Martinique et à deux autres des petites Antilles. Ces dangereux reptiles, dont quelques-uns ont six pieds de long, ne diffèrent que par la couleur de leur peau et se confondent facilement avec les racines entre lesquelles ils se cachent. Il est donc difficile d\'éviter leurs attaques aussi rapides que soudaines.
+
+Mais, enfin, puisque M. Patterson respirait, il fallait tout faire pour qu\'il reprit connaissance. Louis Clodion, écartant ses vêtements, s\'assura qu\'il ne portait aucune trace de morsure sur le corps. Dès lors, comment donc expliquer qu\'il se trouvait en cet état, l\'épouvante encore peinte sur le visage ?
+
+On lui releva la tête, on l\'appuya avec précaution contre un arbre, on lui bassina les tempes avec l\'eau fraîche d\'un rio qui coulait vers le marécage, on lui introduisit quelques gouttes de rhum entre les lèvres.
+
+Ses yeux se rouvrirent enfin, et de sa bouche s\'échappèrent ces mots presque inarticulés :
+
+« Le serpent\... Le serpent ?
+
+--- Monsieur Patterson\... Monsieur Patterson\... répondit Louis Clodion, en lui prenant les mains.
+
+--- Le serpent\... Est-il en fuite ?
+
+--- Quel serpent ?
+
+--- Celui que j\'ai aperçu au milieu des branches de cet arbre\...
+
+--- Quelles branches ?
+
+Quel arbre ?
+
+--- Voyez\... Là\... Là\... Prenez garde ! »
+
+Bien que M. Patterson ne fît entendre que des phrases incohérentes, on finit par comprendre qu\'il s\'était trouvé en face d\'un énorme reptile, enroulé à la fourche d\'un arbre\... Qui le fascinait comme un oiseau\... Il résistait\... Il résistait\... Mais le serpent l\'attirait malgré lui, et, quand il en fut à le toucher, poussé par l\'instinct de la défensive, il le frappa de son bâton au moment où l\'horrible bête allait s\'élancer ! Maintenant, qu\'est-il devenu, ce serpent ? A-t-il été tué ? Ne se glisse-t-il pas sous les herbes\... Latet anugis in herba ? »
+
+Les jeunes garçons rassurèrent M. Patterson. Non\... Aucune trace de serpent\...
+
+« Si\... Si ! » S\'écria-t-il.
+
+Il venait de se redresser, et sa main tendue :
+
+« Là\... Là\... » Répétait-il d\'une voix épouvantée.
+
+Tous les regards se portèrent du côté qu\'indiquait M. Patterson, qui criait : « Je le vois\... Je le vois ! »
+
+En effet, de l\'une des basses branches d\'un arbre, pendait le corps d\'un trigonocéphale de la plus grande espèce, les yeux brillants encore, la langue fourchue hors de la gueule, mais flasque, immobile, retenu seulement par sa queue, et ne donnant plus signe de vie.
+
+Décidément, le coup de bâton de M. Patterson avait été heureux. Il fallait qu\'il l\'eût asséné avec une rare vigueur pour tuer un reptile de cette taille. Il est vrai, après ce coup si violent, M. Patterson ne savait plus ce qui s\'était passé\... Et il était tombé évanoui au pied de l\'arbre.
+
+Le triomphateur n\'en fut pas moins félicité, et on ne s\'étonnera pas qu\'il voulût emporter l\'objet de son triomphe à bord de l\'Alert, dans l\'intention de le faire empailler à l\'une des prochaines relâches.
+
+Aussitôt John Howard, Magnus Anders et Niels Harboe de décrocher le serpent, qui fut ramené à la clairière. Là les touristes se restaurèrent copieusement, en buvant à la santé de M. Patterson, puis ils allèrent visiter l\'isthme. Trois heures plus tard, ils remontèrent dans leurs voitures, où le serpent fut déposé, et rentrèrent à Saint-Pierre vers huit heures du soir.
+
+Lorsque les passagers eurent embarqué, John Carpenter et Corty firent hisser à bord et placer dans le carré le superbe ophidien sur lequel M. Patterson ne cessait de jeter des regards de terreur et de satisfaction. Quel récit de cette aventure il ferait à Mrs Patterson, et quelle place d\'honneur, dans la bibliothèque d\'Antilian School, on réserverait à ce remarquable et terrifiant échantillon des trigonocéphales de la Martinique ! C\'est en ces termes que devait s\'exprimer le mentor dans sa prochaine lettre à M. Julian Ardagh.
+
+Après une journée si bien remplie -- dies notunda lapillo, ainsi que le dit Horace et le redit Horatio, -- il n\'y avait plus qu\'à se refaire, d\'abord par un bon dîner, ensuite par un bon sommeil, en attendant le départ du lendemain.
+
+C\'est ainsi que les choses se passèrent. Toutefois, avant de rentrer dans sa cabine, ne voilà-t-il pas que Tony Renault, prenant ses camarades à part, leur dit, en ayant soin de ne point être entendu de M. Patterson :
+
+« Eh bien\... Elle est drôle, celle-là !
+
+--- Qu\'est-ce qui est drôle ? demanda Hubert Perkins.
+
+--- La découverte que je viens de faire\...
+
+--- Et qu\'as-tu découvert ?
+
+--- Qu\'il ne sera pas nécessaire de faire empailler le serpent de M. Patterson\...
+
+--- Et pourquoi ?
+
+--- Parce qu\'il l\'est déjà ! »
+
+Rien de plus vrai, et c\'est ce que venait de constater Tony Renault en manipulant l\'animal. Oui ! Ce serpent n\'était qu\'un trophée de chasse enroulé aux branches de l\'arbre, près de la cabane ! C\'était un serpent déjà mort qu\'avait tué l\'intrépide M. Patterson !
+
+Mais il fut convenu qu\'on le ferait soi-disant empailler chez un préparateur de Sainte-Lucie pour ne pas chagriner l\'excellent homme et lui laisser tout le bénéfice de sa victoire !
+
+Le lendemain, au point du jour, l\'Alert leva l\'ancre, et, dans la matinée, les passagers avaient perdu de vue les hauteurs de l\'île.
+
+On a pu dire de la Martinique que « c\'est le pays des revenants », puisqu\'on a toujours l\'envie d\'y revenir, et peut-être l\'un ou l\'autre des pensionnaires d\'Antilian School y songeait-il, sans se douter du sort qui les attendait tous !
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5 -- Sainte-Lucie]{lang="X-NONE"}]{#_Toc342942297e5 .pcalibre2 .pcalibre1} {#chapitre-5-sainte-lucie .calibre171 .sigil_not_in_toc}
+
+La traversée entre la Martinique et Sainte-Lucie s\'effectua avec autant de régularité que de rapidité. Le vent soufflait du nord-est en fraîche brise, et l\'Alert, tout dessus, enleva dans la journée les quatre-vingts milles qui séparent Saint-Pierre de Castries, le principal port de l\'île anglaise, sans avoir changé ses amures.
+
+Toutefois, Harry Markel, ne devant arriver en vue de Sainte-Lucie qu\'à la tombée du jour, comptait mettre en panne pour donner dans le chenal au lever du soleil.
+
+Pendant les premières heures de la matinée, les plus hauts sommets de la Martinique se montraient encore. Le mont Pelé, que Tony Renault avait salué à son arrivée, reçut de lui un dernier adieu.
+
+Le port de Castries se présente sous belle apparence entre d\'imposantes falaises. C\'est une sorte de vaste cirque dans lequel la mer a fait irruption. Les navires, même de fort tonnage, y trouvent des mouillages très sûrs. La ville, bâtie en amphithéâtre, étage gracieusement ses maisons jusqu\'aux crêtes environnantes. Elle est, ainsi que la plupart des villes de l\'Antilie, orientée au couchant, de manière à être abritée contre les vents du large et les plus violentes perturbations atmosphériques.
+
+On ne s\'étonnera pas que Roger Hinsdale regardât son île comme très supérieure à toutes les autres du groupe. Ni la Martinique ni la Guadeloupe ne lui paraissaient dignes d\'une comparaison. Ce jeune Anglais, tout rempli de la morgue britannique, d\'attitude un peu hautaine, excipait à toute occasion de sa nationalité, ce qui faisait sourire ses camarades. À bord, toutefois, il ne laissait pas d\'être soutenu par John Howard et Hubert Perkins, moins « britannisés » que lui, sans doute.
+
+Mais, lorsque le sang anglo-saxon coule dans les veines, il faut admettre que ses globules ont des vertus spéciales, et ne pas autrement s\'en étonner. Du reste, à l\'exemple de Louis Clodion et de Tony Renault, et peut-être par un sentiment chez lui très naturel, il se promettait de faire les honneurs de Sainte-Lucie, où ses parents avaient occupé une haute situation parmi les notables de l\'île.
+
+D\'ailleurs, la famille Hinsdale y possédait encore des propriétés importantes, plantations et sucreries, des établissements agricoles en état de grande prospérité. Ces propriétés étaient administrées pour son compte par un gérant, M. Edward Falkes, qui, prévenu de la prochaine arrivée du jeune héritier des Hinsdale, devait se mettre à sa disposition pour toute la durée de la relâche.
+
+Il a été dit que Harry Markel ne chercherait pas à entrer de nuit dans le port. Aussi, lorsque la mer fut étale, avant que le jusant commençât à se faire sentir, alla-t-il mouiller à l\'intérieur d\'une petite crique, afin de ne point être entraîné au large.
+
+Le matin venu, Harry Markel vit qu\'il serait nécessaire d\'attendre quelques heures pour appareiller. La brise étant tombée après minuit, elle reprendrait sans doute de l\'ouest, lorsque le soleil aurait atteint quelques degrés au-dessus de l\'horizon.
+
+Néanmoins, dès l\'aube, Roger Hinsdale, le premier, M. Patterson, le dernier, tous apparaissaient sur la dunette afin de respirer un air plus frais que celui des cabines. Ils avaient hâte de contempler en pleine lumière ce littoral entrevu la veille à travers les ombres du soir. Et, s\'ils n\'avaient connu l\'histoire de Sainte-Lucie, c\'est qu\'ils n\'auraient pas écouté Roger Hinsdale avec l\'attention qu\'y mit le mentor.
+
+De fait, il faut bien l\'avouer, l\'histoire de Sainte-Lucie ne différait guère de celle des autres îles des Indes Occidentales.
+
+Après avoir été habitée par les Caraïbes, Sainte-Lucie, déjà livrée aux travaux de culture, fut découverte par Christophe Colomb à une date qui n\'est pas plus précisée que celle à laquelle arrivèrent les premiers colons. Ce qui est certain, c\'est que les Espagnols n\'y fondèrent aucun établissement avant l\'année 1639. Quant aux Anglais, ils n\'en gardèrent la possession que durant dix-huit mois, au milieu du XVIIe siècle.
+
+Cependant, lorsque les Caraïbes furent emmenés par eux de la Dominique, ainsi que cela a été mentionné, les îles voisines se révoltèrent. En 1640, les indigènes fanatisés se jetèrent sur la colonie naissante. La plupart des colons furent assassinés, et seuls échappèrent au massacre ceux qui purent s\'embarquer et fuir.
+
+Dix ans après quarante Français, conduits par un certain Rousselan, homme de résolution, vinrent s\'établir à Sainte-Lucie. Rousselan épousa même une Indienne, s\'attacha les indigènes par son intelligence, son habileté, et, pendant quatre ans, jusqu\'à sa mort, assura la tranquillité du pays.
+
+Les colons qui lui succédèrent se montrèrent moins habiles. À force de vexations et d\'injustices, ils provoquèrent les représailles des Caraïbes, qui se vengèrent par des tueries et des pillages. Les Anglais jugèrent alors l\'heure favorable à une intervention. Flibustiers et aventuriers envahirent Sainte-Lucie, qui put espérer retrouver le calme au traité d\'Utrecht, par lequel l\'île fut déclarée neutre.
+
+« Enfin, demanda Niels Harboe, est-ce depuis cette époque que Sainte-Lucie appartient aux Anglais ?
+
+--- Oui et non, répondit Roger Hinsdale.
+
+--- Je dis non, précisa Louis Clodion, qui avait lu tout ce qui concernait cette île des Antilles où devait relâcher l\'Alert.
+
+Non, car, après le traité d\'Utrecht, la concession fut donnée au maréchal d\'Estrées, qui y envoya des troupes en 1718 pour protéger la colonie française.
+
+--- Sans doute, répliqua Roger Hinsdale. Toutefois, sur les réclamations de l\'Angleterre, cette concession fut annulée au profit du duc de Montagne\...
+
+--- D\'accord, riposta Louis Clodion ; mais, sur de nouvelles réclamations de la France, cette concession fut également annulée\...
+
+--- Et qu\'importait puisque les colons anglais y restèrent ?
+
+--- S\'ils y restèrent, il n\'en est pas moins vrai qu\'au traité de Paris de 1763, la souveraineté pleine et entière de cette colonie fut attribuée à la France ! » C\'était la vérité, et Roger Hinsdale, très résolu à défendre sa cause, dut le reconnaître. Puis, pendant la période qui suivit, Sainte-Lucie vit sa prospérité s\'accroître avec le nombre des établissements fondés par les colons voisins de Grenade, de Saint-Vincent, de la Martinique. En 1709, l\'île comptait près de treize mille habitants, esclaves compris, et, en 1772, plus de quinze mille.
+
+Toutefois, Sainte-Lucie n\'en avait pas fini avec les puissances qui se disputaient sa possession, et Roger Hinsdale put ajouter :
+
+« En 1779, l\'île fut reprise par le général Abercrombie et repassa sous la domination britannique\...
+
+--- Je le sais, répondit Louis Clodion, qui s\'entêtait de son côté, mais le traité de 1783 la rendit encore une fois à la France\...
+
+--- Pour redevenir anglaise en 1794, déclara Roger Hinsdale, qui ripostait date pour date.
+
+--- Allons ! s\'écria Tony Renault, tiens bon, Louis, et dis-nous que Sainte-Lucie a revu flotter le pavillon français\...
+
+--- Assurément, Tony, puisqu\'elle est reconnue colonie française en 1802\...
+
+--- Pas pour longtemps, affirma Roger Hinsdale. À la rupture de la paix d\'Amiens, en 1803, elle fut restituée à l\'Angleterre, et, cette fois, définitivement, il faut le croire\...
+
+--- Oh ! Définitivement ! s\'écria Tony Renault en faisant une pirouette assez dédaigneuse.
+
+--- Décidément, Tony, répondit Roger Hinsdale, qui s\'échauffait et voulut mettre dans sa réponse toute l\'ironie possible, est-ce que tu aurais la prétention de la reprendre à toi tout seul ?
+
+--- Pourquoi pas ? » répliqua Tony Renault en se donnant des attitudes de conquérant.
+
+Il est certain que Niels Harboe, Axel Wickborn, Albertus Anders, n\'avaient aucun intérêt dans cette discussion entre Anglais et Français. Ni le Danemark ni la Hollande n\'avaient jamais réclamé une part de cette colonie si disputée. Et, peut-être, Magnus Anders aurait-il pu les mettre d\'accord en la réclamant pour la Suède, qui ne possédait plus même un îlot dans l\'archipel.
+
+Mais, comme la discussion menaçait de s\'aggraver, M. Horatio Patterson intervint par un opportun quos ego renouvelé de Virgile, et que n\'aurait point désavoué Neptune.
+
+Puis, plus doucement :
+
+« Du calme, mes jeunes amis, dit-il. Est-ce que vous allez partir en guerre ? La guerre, ce fléau humain ! La guerre\... Bella matribus detestata ; ce qui signifie\...
+
+--- En bon français, s\'écria Tony Renault, « détestables belles-mères ! »
+
+Et, sur cette repartie, toute la bande d\'éclater de rire, tandis que le mentor se voilait la face.
+
+Bref, tout cela finit par un serrement de main, un peu contraint de la part de Roger Hinsdale, très franc de la part de Louis Clodion. Puis il fut stipulé entre les deux nations que Tony Renault ne ferait aucune tentative pour arracher Sainte-Lucie à la domination anglaise. Seulement, ce que Louis Clodion aurait eu le droit d\'ajouter, les passagers de l\'Alert allaient bientôt le constater de visu et de auditu, c\'est que, si Sainte-Lucie arbore actuellement le pavillon britannique, elle n\'en conserve pas moins et de façon indélébile la marque française par ses moeurs, ses traditions, ses instincts. Débarqués à Sainte-Lucie, Louis Clodion et Tony Renault seraient fondés à croire qu\'ils foulaient le sol de la Désirade, de la Guadeloupe ou de la Martinique.
+
+Un peu après neuf heures, la brise se leva et, ainsi que l\'espérait Harry Markel, elle venait du large. Bien qu\'il s\'agisse de l\'ouest, cette expression est juste en ce qui concerne Sainte-Lucie, qui n\'est couverte ni au levant ni au couchant. Absolument isolée entre la mer des Antilles et l\'océan Atlantique, elle est exposée des deux côtés aux violences des vents et de la houle.
+
+L\'Alert fit aussitôt ses préparatifs d\'appareillage. Dès que l\'ancre fut remontée au bossoir, le trois-mâts, sous son grand hunier, sa misaine, sa brigantine, prit de l\'erre pour quitter ce mouillage et contourner l\'une des pointes qui ferment le port de Castries.
+
+Ce port a nom le Carénage, il est l\'un des meilleurs de l\'archipel antilian. Ainsi s\'explique l\'entêtement de la France et de l\'Angleterre à s\'en disputer la possession. Dès cette époque, on s\'occupait d\'achever la construction des quais, d\'établir les cales et les appontements, de manière à satisfaire tous les besoins du service maritime.
+
+Il n\'est pas douteux que le Carénage ne soit destiné à un grand avenir. C\'est là, en effet, que les steamers viennent s\'approvisionner de charbons importés d\'Angleterre, dans les vastes entrepôts, incessamment ravitaillés par les navires du Royaume-Uni.
+
+Quant à Sainte-Lucie, si elle n\'égale pas en étendue superficielle les plus grandes des îles du Vent, elle ne comprend pas moins six cent quatorze kilomètres carrés, et sa population se chiffre par quarante-cinq mille habitants, dont cinq mille figurent au compte de Castries, sa capitale.
+
+Sans doute, Roger Hinsdale eût été heureux que la relâche se fût prolongée plus de temps que dans les autres Antilles déjà visitées. Il aurait voulu montrer l\'île en détail à ses camarades. Mais le programme du voyage ne lui accordait que trois jours, et il fallait s\'y conformer.
+
+D\'ailleurs, il ne s\'y trouvait plus aucun membre de la famille Hinsdale définitivement installée à Londres. Toutefois les propriétés qu\'elle y possédait étaient considérables, et il allait être là comme un jeune landlord qui vient parcourir son domaine.
+
+Après que l\'Alert eut mouillé au Carénage, vers dix heures, Roger Hinsdale et ses camarades, accompagnés de M. Patterson, se firent mettre à terre.
+
+La ville leur sembla proprement entretenue, avec des places spacieuses, des rues larges, des ombrages toujours si désirables sous ce climat brûlant des Antilles. Toutefois ils ressentirent cette impression dont il a été parlé plus haut : elle leur parut plus française qu\'anglaise.
+
+Aussi Tony Renault ne put retenir cette observation que Roger Hinsdale accueillit avec un certain dédain :
+
+« Décidément\... Nous sommes en France\... Ici ! »
+
+Les passagers avaient été reçus à l\'appontement par le gérant qui devait les guider pendant leurs excursions. M. Edward Falkes ne négligerait pas de leur faire admirer les superbes plantations de la famille, principalement ces champs de cannes si renommés à Sainte-Lucie, et dont les productions rivalisent avec celles de Saint-Christophe, où se récolte le meilleur sucre de l\'Antilie.
+
+Dans la colonie, le chiffre des blancs était alors assez limité, à peine un millier. Les gens de couleur et les noirs l\'occupaient en majorité, leur nombre s\'étant surtout accru depuis l\'abandon des travaux du canal de Panama, qui les laissa sans ouvrage.
+
+L\'ancienne habitation Hinsdale, où demeurait M. Edward Falkes, était vaste et confortable. Située à l\'extrémité de la ville, elle pouvait aisément loger les passagers de l\'Alert. Roger, qui tenait à en faire les honneurs, leur proposa de s\'y installer pendant la durée de la relâche. Chacun aurait sa chambre et M. Patterson occuperait la plus belle de toutes. Il va de soi que les repas seraient pris en commun dans la grande salle à manger, et que les voitures du domaine seraient à la disposition des touristes.
+
+La proposition de Roger Hinsdale fut acceptée avec empressement, car, en dépit de sa morgue originelle, le jeune Anglais était généreux et serviable, bien qu\'il agît toujours avec une certaine ostentation vis-à-vis de ses camarades.
+
+Du reste, s\'il ressentait quelque jalousie, c\'était plus particulièrement envers Louis Clodion. À Antilian School, toujours rivaux, ils se disputaient les premières places.
+
+On n\'a point oublié qu\'ils étaient arrivés tous deux en tête du concours pour les bourses de voyage, « dead heat », comme on dit sur les champs de course ; ex aequo, -- disait Tony Renault, -- ce qu\'il traduisait par « le même cheval » en jouant sur les mots equus et aequus, au grand scandale du susceptible mentor.
+
+Dès le premier jour, les excursions commencèrent à travers les plantations. Les forêts superbes de cette île, l\'une des plus salubres des Antilles, n\'en couvrent pas moins des quatre cinquièmes. On fit l\'ascension du morne Fortuné, haut de deux cent trente-quatre mètres, sur lequel sont établies les casernes, des mornes Asabot et du Chazeau, -- rien que des noms français, on le voit, -- et où est installé le sanatorium. Puis, vers le centre, les touristes visitèrent les Aiguilles de Sainte-Alousie, cratères endormis qui pourraient bien se réveiller un jour, car les eaux des étangs voisins s\'y maintiennent en ébullition constante.
+
+Ce soir-là, de retour à l\'habitation, Roger Hinsdale dit à M. Patterson :
+
+« À Sainte-Lucie, il faut aussi se défier des trigonocéphales comme à la Martinique\... Il y a des serpents dans notre île\... Et non moins dangereux\...
+
+--- Je n\'en suis plus à les craindre, déclara M. Patterson, qui prit une attitude superbe, et je vais même faire empailler le mien pendant notre relâche !
+
+--- Vous avez raison ! » répondit Tony Renault, qui eut peine à garder son sérieux.
+
+Aussi, le lendemain, M. Falkes fit-il porter le terrible reptile chez un naturaliste de Castries auquel, après l\'avoir pris à part, Tony Renault expliqua ce dont il s\'agissait.
+
+Le serpent était empaillé déjà et depuis de longues années\... On n\'en voulait rien dire à M. Patterson\... La veille du départ, l\'empailleur ferait rapporter le serpent à bord de l\'Alert.
+
+Précisément, le soir même, avant de se mettre au lit, M. Patterson écrivit une seconde lettre à Mrs Patterson. Que, de sa plume, nombre de citations d\'Horace, de Virgile ou d\'Ovide eussent coulé sur le papier, on ne saurait en être surpris, et d\'ailleurs l\'excellente dame y était habituée.
+
+Cette lettre, qui partirait le lendemain par le courrier d\'Europe, rapportait avec sa scrupuleuse exactitude les détails de ce merveilleux voyage. M. Patterson, plus précis que dans sa première lettre, relatait les moindres incidents, accompagnés de réflexions toutes personnelles. Il racontait comment s\'était faite l\'heureuse traversée du Royaume-Uni aux Indes occidentales, comment il était parvenu à dompter le mal de mer, quelle consommation il avait faite de ces noyaux de cerises dont Mrs Patterson l\'avait si intelligemment pourvu. Il parlait des réceptions à Saint-Thomas, à Sainte-Croix, à Saint-Martin, à Antigoa, à la Guadeloupe, à la Dominique, à la Martinique, à Sainte-Lucie, en attendant celle que leur réservait cette généreuse et magnanime Mrs Kethlen Seymour à la Barbade. Il prévoyait que la traversée de retour s\'effectuerait aussi dans les conditions les plus favorables. Non ! Pas de collisions, pas de naufrages à craindre ! L\'océan Atlantique serait clément aux passagers de l\'Alert, et les outres d\'Éole ne videraient pas sur eux le souffle des tempêtes ! Mrs Patterson n\'aurait donc point à ouvrir le testament que son époux avait cru devoir libeller avant le départ, ni à profiter des autres dispositions si prévoyantes qui avaient été prises en vue d\'une éternelle séparation\...
+
+Lesquelles ? C\'est ce que ce couple si original était seul à connaître.
+
+Puis M. Patterson narrait la grande excursion à l\'isthme de la Martinique, l\'apparition du trigonocéphale entre les branches d\'un arbre, la violence du coup qu\'il avait porté à ce monstre, monstrum horrendum, informe, ingens, cui la lumière n\'avait pas été enlevée, mais la vie ! Et maintenant, bourré de paille, les yeux ardents, la gueule ouverte, dardant sa triple langue ophidienne, il n\'en était pas moins des plus inoffensifs ! On voit l\'effet que produirait ce superbe reptile lorsqu\'il serait en bonne place dans la bibliothèque d\'Antilian School.
+
+Il convient d\'ajouter, entre parenthèses, que les dessous de cette affaire ne devaient jamais être révélés. Le secret en fut religieusement gardé, même par Tony Renault, bien que l\'envie de tout dire dût plus d\'une fois lui venir aux lèvres. Et la gloire que l\'intrépide mentor avait acquise, en cette mémorable rencontre, avec un serpent empaillé, resterait entière !
+
+M. Patterson terminait cette longue lettre par un éloge bien appuyé, bien senti, du capitaine de l\'Alert et de son équipage. Il n\'avait qu\'à se louer de l\'excellent steward auquel était confié le service du carré, et dont il entendait récompenser les soins par une haute gratification. Quant au capitaine Paxton, jamais chef de navire, ni dans la marine de l\'État ni dans la marine de commerce, n\'avait mieux mérité d\'être appelé Dominus secundum Deum, le maître après Dieu !
+
+Enfin, après avoir tendrement embrassé Mrs Patterson, M. Patterson mettait, sous les dernières lignes de la lettre, cette signature à paraphes compliqués, qui dénotait chez ce digne homme un véritable talent calligraphique.
+
+Ce serait le lendemain matin seulement que les touristes rentreraient à bord vers huit heures.
+
+Ils passèrent donc cette soirée dans l\'habitation dont Roger Hinsdale tenait à leur faire les honneurs jusqu\'au dernier moment.
+
+Quelques amis de M. Edward Falkes avaient été invités à prendre place à la table, et, comme d\'habitude, après les toasts à la santé de chacun, chaque convive but à Mrs Kethlen Seymour. Dans quelques jours, les jeunes boursiers auraient fait la connaissance de cette grande dame\... La Barbade n\'était plus loin\... La Barbade, la dernière relâche dans ces Antilles dont les lauréats garderaient un éternel souvenir !
+
+Cependant, cet après-midi-là, il s\'était produit un incident d\'une telle gravité que l\'équipage put croire que la situation allait être irrémédiablement compromise.
+
+On le sait, Harry Markel ne laissait descendre ses hommes à terre que pour les besoins du bord. La plus simple prudence lui commandait d\'en agir ainsi.
+
+Mais, vers trois heures, il fut nécessaire de prendre livraison de viande fraîche et de légumes, dont le cuisinier Ranyah Cogh avait fait acquisition sur le marché de Castries.
+
+Harry Markel fit donc armer une des embarcations pour conduire le cuisinier au quai avec un des matelots, nommé Morden.
+
+Le canot poussa, et, quelques minutes après, il était revenu à l\'arrière de l\'Alert.
+
+À quatre heures, lorsque le maître d\'équipage l\'eut renvoyé à terre, quarante minutes s\'écoulèrent avant son retour.
+
+De là, vives inquiétudes d\'Harry Markel, que John Carpenter et Corty partagèrent. Qu\'était-il arrivé ? Pourquoi ce retard ? Des nouvelles venues d\'Europe faisaient-elles planer des soupçons sur le capitaine et l\'équipage de l\'Alert ?
+
+Enfin, un peu avant cinq heures, l\'embarcation se dirigea vers le bord. Mais, avant qu\'elle eût accosté, Corty s\'écria :
+
+« Ranyah revient seul ! Morden n\'est pas avec lui\...
+
+--- Où peut-il être ? demanda John Carpenter.
+
+--- Dans quelque cabaret, où il sera tombé ivre-mort ! ajouta Corty.
+
+--- Ranyah aurait dû le ramener quand même, dit Harry Markel. Ce damné Morden est capable de parler plus qu\'il ne faut sous l\'excitation du brandy ou du gin ! »
+
+C\'était probablement ce qui était arrivé, et ce fut ce que l\'on apprit de la bouche même de Ranyah Cogh. Tandis qu\'il s\'occupait des acquisitions au marché de la ville, Morden l\'avait quitté sans rien dire. Poussé par ses goûts d\'ivrognerie qu\'il ne pouvait satisfaire à bord, en ce moment, sans doute, il était échoué dans quelque cabaret. Le cuisinier chercha à retrouver son compagnon. Ce fut en vain qu\'il visita les tavernes du quartier maritime ! Impossible de remettre la main sur ce maudit Morden, qu\'il eût amarré au fond du canot.
+
+« Il faut à tout prix le retrouver\... S\'écria John Carpenter.
+
+--- Et nous ne pouvons le laisser à Sainte-Lucie ! Il bavarderait\... Il ne sait plus ce qu\'il dit quand il a bu, et nous aurions bientôt un aviso à nos trousses ! »
+
+Ces craintes n\'étaient que trop sérieuses, et jamais Harry Markel n\'avait couru un danger plus grand !
+
+Donc nécessité de réclamer Morden. C\'était d\'ailleurs le droit et le devoir du capitaine\... Il ne pouvait laisser à la côte un homme de l\'équipage, et on le lui rendrait dès qu\'il aurait établi son identité. Pourvu qu\'il n\'eût pas parlé à tort et à travers !
+
+Harry Markel allait descendre à terre pour demander au bureau maritime de rechercher le matelot en bordée, lorsqu\'une embarcation se dirigea vers l\'Alert.
+
+Il y avait alors dans le Carénage un stationnaire chargé de la police du port. Or, c\'était précisément un de ses canots, monté par une demi-douzaine d\'hommes sous les ordres d\'un officier, qui s\'approchait. Il n\'était plus qu\'à une demi-encablure, lorsque Corty s\'écria :
+
+« Morden est dedans ! »
+
+En effet, Morden « était dedans » et doublement, aurait-on pu dire. Après s\'être séparé du cuisinier, il avait été s\'attabler dans un tap du dernier ordre. Bientôt ivre-mort, on l\'avait ramassé, et le canot du stationnaire le reconduisait à bord de l\'Alert, où il fut nécessaire de le hisser avec un palan.
+
+Lorsque l\'officier eut pris pied sur le pont :
+
+« Le capitaine Paxton ? demanda-t-il.
+
+--- Me voici, monsieur, répondit Harry Markel.
+
+--- Cet ivrogne est bien un de vos matelots ?
+
+--- En effet, et j\'allais le réclamer, car nous devons lever l\'ancre demain\... -- Eh bien, je vous l\'ai ramené\... Vous voyez dans quel état\...
+
+--- Il sera puni, répondit Harry Markel.
+
+--- Mais\... Une explication, capitaine Paxton, reprit l\'officier. Dans son ivresse\... Des phrases incohérentes lui échappaient, à ce matelot\... Il parlait de campagnes dans le Pacifique\... De ce navire Halifax dont il a été dernièrement question\... De cet Harry Markel qui le commandait, et dont nous avons appris l\'évasion de la prison de Queenstown ? »
+
+On se figure quels efforts Harry Markel dut faire pour se contenir, pour ne rien perdre de son sang-froid en entendant l\'officier.
+
+John Carpenter et Corty, moins maîtres d\'eux, détournant la tête, s\'étaient peu à peu éloignés.
+
+Très heureusement, l\'officier ne remarqua point leur trouble, et se borna à demander :
+
+« Capitaine Paxton\... Qu\'est-ce que cela signifie ?
+
+--- Je ne puis l\'expliquer, monsieur, répondit Harry Markel. Ce Morden est un ivrogne, et, quand il a bu, on ne sait ce qui lui passe par la tête\...
+
+--- Ainsi il n\'a jamais navigué à bord de l\'Halifax ?
+
+--- Jamais, et voilà plus de dix ans que nous courons les mers ensemble. -- Alors, pourquoi a-t-il parlé de cet Harry Markel ? Insista l\'officier.
+
+--- Cette affaire de l\'Halifax a fait grand bruit, monsieur\... Il était question de l\'évasion des malfaiteurs, lorsque nous avons quitté Queenstown\... On en a parlé souvent à bord\... Ce sera resté dans la mémoire de cet homme\... C\'est la seule explication que je puisse donner à ces propos d\'ivrogne\... »
+
+Au total, rien n\'aurait pu inspirer à l\'officier le soupçon qu\'il se trouvait en face de Harry Markel, ni que cet équipage ne fût pas celui du capitaine Paxton. Il termina donc l\'entretien en disant :
+
+« Qu\'allez-vous faire de ce matelot ?
+
+--- L\'envoyer pour huit jours à fond de cale, où il se dégrisera, répondit Harry Markel. Et même, si je n\'étais à court d\'hommes, -- j\'en ai perdu un dans la baie de Cork, -- j\'aurais débarqué Morden à Sainte-Lucie\... Mais il m\'eût été impossible de le remplacer\...
+
+--- Et quand attendez-vous vos passagers, capitaine Paxton ?
+
+--- Demain matin, car nous mettrons à la voile au plein de la mer. -- Bon voyage alors !
+
+--- Merci, monsieur. »
+
+L\'officier rembarqué, le canot s\'éloigna pour rejoindre le stationnaire.
+
+Il va de soi que Morden, qui n\'entendait, qui ne comprenait rien dans son ivresse de brute, fut affalé dans la cale à grands coups de pied. Le fait est qu\'il avait failli faire tout découvrir en parlant de l\'Halifax et d\'Harry Markel.
+
+« J\'en ai encore une sueur froide ! dit Corty, en s\'essuyant le front.
+
+--- Harry, observa John Carpenter, nous devrions partir cette nuit même\... Sans attendre nos passagers ! Il fait trop chaud pour nous dans ces satanées Antilles\...
+
+--- Et, quand nous serons partis, répondit Harry Markel, on comprendra ce qu\'a dit Morden ! Tout sera découvert\... Et ce stationnaire aura vite fait de se lancer à notre poursuite ! Si vous tenez à être pendus, je n\'y tiens pas, moi\... Et je reste. »
+
+Le lendemain, dès huit heures, les passagers étaient à bord. Il parut inutile de les mettre au courant de l\'incident de la veille. Que l\'un des matelots se fût enivré, cela n\'avait aucune importance.
+
+L\'ancre à pic, les voiles éventées, l\'Alert sortit du port de Castries, et, cap au sud, fit route vers la Barbade.
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6 -- La Barbade]{lang="X-NONE"}]{#_Toc342942297e6 .pcalibre2 .pcalibre1} {#chapitre-6-la-barbade .calibre171 .sigil_not_in_toc}
+
+Si elle n\'est pas exactement déterminée, la date à laquelle les Portugais découvrirent la Barbade ou les Barbades, il est certain qu\'un bâtiment, sous pavillon britannique, vint y relâcher dès l\'an 1605. La prise de possession fut alors faite au nom de Jacques Ier, roi d\'Angleterre.
+
+Cet acte, d\'ailleurs, n\'avait été que purement nominal. À cette époque, aucun établissement ne fut fondé sur la Barbade, aucun colon ne s\'y installa, même à titre provisoire.
+
+Cette île est, comme Sainte-Lucie, isolée de la chaîne micro-antiliane. Elle ne lui appartient pas, pourrait-on dire, et de profonds abîmes l\'en séparent. C\'est le plateau supérieur d\'une montagne qui s\'élève à une quarantaine de lieues de Sainte-Lucie, sa voisine au nord. Entre elles, la mer accuse des profondeurs de deux mille huit cents mètres.
+
+La Barbade est d\'origine coralligène. Ce sont les infusoires qui l\'ont lentement édifiée et haussée au-dessus du niveau de l\'océan. Son étendue comprend seize lieues en longueur et cinq lieues en largeur. Solide sur son inébranlable base, une ceinture d\'énormes récifs défendent les deux tiers de sa circonférence.
+
+Précisément, au début du XVIIe siècle, étant donné son isolement, la possession de la Barbade fut moins disputée que les autres îles des Indes Occidentales. C\'est grâce à une circonstance toute fortuite que l\'attention des puissances européennes fut appelée sur elle.
+
+Un navire anglais revenant du Brésil, pris par la tempête au large de la Barbade, dut aller chercher refuge à l\'embouchure d\'une rivière de sa côte ouest. Le commandant et l\'équipage de ce navire, retenu là plusieurs jours, eurent le temps de visiter cette île, presque inconnue alors, d\'en admirer la fertilité, d\'en parcourir les forêts qui la couvraient presque tout entière, et de constater que son sol, une fois défriché, serait très propice à la culture du coton et de la canne à sucre.
+
+Après le retour du bâtiment à Londres, la concession de la Barbade fut accordée au comte de Marlborough et, affaire conclue avec un riche négociant de la Cité, des planteurs vinrent s\'installer sur l\'île en 1624. Ce sont eux qui construisirent la première ville à laquelle ils donnèrent le nom de James-Town, en l\'honneur de leur souverain.
+
+Avant cette époque, il est vrai, le comte Carlisle avait obtenu la concession de toutes les Caraïbes, et il se crut fondé à réclamer la Barbade.
+
+De là naquit une lutte entre les deux lords, qui se prolongea, non sans une extrême vivacité, et amena en 1629 la reconnaissance des droits du comte Carliste par Charles Ier d\'Angleterre.
+
+Pendant la période des troubles religieux de la Grande-Bretagne, le nombre fut considérable de ceux qui voulurent les fuir, et la Barbade profita dans une large mesure de cette émigration dont s\'accrurent l\'importance et la prospérité de la colonie.
+
+Après le dictatoriat de Cromwell, lorsque la restauration eut rendu à Charles II le trône de son père, ce roi fut prié par les colons d\'accepter la souveraineté de l\'île en promettant de payer à la couronne un impôt de quatre et demi pour cent qui frapperait tous les produits de l\'île. L\'offre était trop avantageuse pour être repoussée. Aussi, le 12 décembre 1667, fut signé le traité d\'annexion de la Barbade au domaine colonial de la Grande-Bretagne.
+
+La prospérité de l\'île ne cessa de s\'accroître depuis cette époque. Dès l\'année 1674, sa population montait à cent vingt mille habitants, pour diminuer quelque peu ensuite ; les blancs ne comptant que pour un cinquième par rapport aux affranchis et aux esclaves, conséquence de l\'avidité des gouverneurs.
+
+Toutefois, par sa position même, la Barbade ne fut point troublée par les interminables luttes de l\'Angleterre et de la France, et d\'ailleurs elle se trouvait protégée par ses défenses naturelles.
+
+Ainsi, alors que la plupart des autres Antilles ont successivement passé sous des dominations diverses, la Barbade, devenue anglaise dès les premiers temps de sa découverte, l\'est toujours restée de langage et de moeurs.
+
+Au surplus, parce qu\'elle relève de la Couronne, il ne faudrait pas croire qu\'elle ne jouit point d\'une certaine indépendance. Sa maison d\'Assemblée compte vingt-quatre membres nommés par cinq mille électeurs censitaires. Si elle est soumise à l\'autorité d\'un gouverneur, d\'un conseil législatif, et de neuf membres désignés par le souverain, elle est administrée par un conseil exécutif où figurent, avec les principaux fonctionnaires, un membre de la Chambre haute et quatre membres de la Chambre basse. Divisée en onze paroisses, l\'île dispose d\'un budget dont le total n\'est pas inférieur à seize cent mille livres[[\[7\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn7045){#_ftnref7045 .pcalibre2 .pcalibre1}.
+
+C\'est le gouvernement de la Barbade qui commande toutes les forces navales dans les petites Antilles anglaises. Bien que l\'île n\'occupe que le cinquième rang avec une étendue de quatre cent trente kilomètres superficiels, elle est au deuxième rang par le chiffre de sa population, et au troisième par l\'importance de ses affaires commerciales. Sa population s\'élève au chiffre de cent quatre-vingt-trois mille habitants, dont le tiers occupe Bridgetown et ses faubourgs.
+
+La traversée entre le port de Castries, de Sainte-Lucie et Bridgetown de la Barbade exigea près de quarante-huit heures.
+
+Avec une brise bien établie, une mer maniable, l\'Alert eût franchi cette distance en moitié moins de temps ; mais il se produisit des intermittences et des changements de vent qui ne permirent pas de suivre la route directe. La brise tendit même à haler le nord-ouest, ce qui obligea Harry Markel à s\'éloigner des parages de l\'Antilie.
+
+On put même craindre de rencontrer, dès le premier jour, les contre-alizés de la partie ouest. Dans ces conditions, l\'Alert aurait été entraîné au large. Or, s\'il avait fallu louvoyer pendant de longs jours pour rallier les côtes de la Barbade, qui sait si Harry Markel n\'eût pas renoncé à cette dernière relâche, si profitable dût-elle être pour ses compagnons et pour lui ? Qui sait s\'il n\'aurait pas fui ces dangereux parages, s\'il n\'eût pas enfin assuré sa sécurité en dirigeant son navire sans passagers vers les mers du Pacifique ?
+
+Eh bien, non, avec le tempérament audacieux qu\'on lui connaissait, Harry Markel, résistant aux instances de son équipage, aurait fait valoir que la Barbade devait être l\'étape terminale ; que le voyage serait achevé dans quelques jours, que les périls ne seraient pas plus redoutables dans cette île qu\'à Sainte-Lucie ou à la Dominique, anglaises comme elle, et il eût ajouté :
+
+« Au retour, l\'Alert vaudra sept mille livres de plus, car je ne jetterai pas ces sept mille livres à la mer, en y jetant ceux qui doivent les toucher à la Barbade ! »
+
+Les modifications atmosphériques que l\'on pouvait craindre ne se réalisèrent pas. Dans l\'après-midi éclata un de ces gros orages, violents roulements de tonnerre, pluie torrentielle, qui ne sont pas rares dans la région des Antilles et y occasionnent trop souvent d\'incalculables désastres.
+
+L\'Alert dut pousser au large durant quelques heures. Puis le météore prit fin avec le coucher du soleil et la nuit promettait d\'être assez calme.
+
+Dans cette première journée, l\'Alert n\'avait franchi que le quart de la distance qui sépare les deux îles. L\'orage l\'ayant obligé de se mettre en cape courante, hors de sa route, Harry Markel espérait rattraper la nuit ce qu\'il venait de perdre.
+
+C\'est ainsi que les choses se passèrent. La direction du vent s\'étant modifiée, les alizés reprirent dans l\'est, faibles et intermittents. La mer restée dure, la houle déferlante, tout ce que put faire le navire jusqu\'à l\'aube, ce fut de regagner au vent, et, le matin du 6 septembre, il était à mi-chemin entre les deux îles.
+
+Ce jour-là, la navigation s\'effectua en d\'assez bonnes conditions avec une vitesse moyenne, et, le soir, l\'Alert se trouvait en latitude avec la Barbade. Cette île ne se laisse pas apercevoir de très loin, comme la Martinique. C\'est une terre basse, sans grand relief, qui, ainsi que cela a été observé, est lentement montée à la surface de la mer. Son morne le plus élevé, l\'Hillaby, ne dépasse pas trois cent cinquante mètres. Autour, de même qu\'à Sainte-Lucie, se continue la croissance des couches coralligènes, et sa ceinture extérieure s\'étend en quelques endroits à plusieurs kilomètres. Harry Markel mit donc le cap à l\'ouest, et, comme il n\'en était qu\'à une quinzaine de milles, l\'île serait atteinte en quelques heures. Toutefois, ne voulant pas s\'aventurer à proximité des brisants, il resta sous petite voilure, attendant le lever du jour pour entrer dans le port de Bridgetown.
+
+Le lendemain, 7 septembre, l\'Alert avait pris son mouillage.
+
+L\'impression des jeunes passagers, lorsqu\'ils se virent au milieu de ce port, fut bien celle que marque Élisée Reclus dans sa Géographie si documentée. Ils crurent avoir atteint un des ports de l\'Angleterre, Belfast ou Liverpool. Plus rien de ce qu\'ils avaient observé à Amalia-Charlotte de Saint-Thomas, ni à Pointe-à-Pitre de la Guadeloupe, ni à Saint-Pierre de la Martinique. Suivant la remarque du grand géographe français, il semblait que les palmiers fussent dépaysés en cette île.
+
+Si la Barbade n\'a qu\'une moyenne superficie, elle possède cependant un certain nombre de villes, assez importantes, fondées sur son littoral, Sperghstown, Hoistingtown, Hobetown, Hastings, village balnéaire assez fréquenté. Toutes sont aussi anglaises que leur nom.
+
+On dirait que le Royaume-Uni les a expédiées en pièces démontables et qu\'il n\'y a eu qu\'à les dresser sur place.
+
+Dès que l\'Alert eut envoyé son ancre par le fond, la première personne qui se présenta à bord fut une sorte de gentleman, sérieux et correct, habit noir et chapeau de haute forme.
+
+Ce personnage vint présenter au capitaine Paxton et à ses passagers les compliments de Mrs Kethlen Seymour.
+
+C\'était M. Well, l\'intendant, qui s\'inclina respectueusement, et auquel M. Horatio Patterson rendit un salut non moins respectueux. Puis, après quelques propos échangés, les jeunes lauréats ne cachèrent point le vif désir qu\'ils éprouvaient de faire connaissance avec la châtelaine de Nording-House.
+
+À cela, M. Well répondit que, au débarquement, les futurs hôtes de Mrs Kethlen Seymour trouveraient les équipages mis à leur disposition et qu\'ils seraient immédiatement conduits à Nording-House où les attendait Mrs Kethlen Seymour.
+
+Puis, M. Well se retira avec une dignité dont M. Patterson apprécia toute la valeur, non sans avoir dit que des chambres étaient préparées pour recevoir les hôtes de Nording-House, et que le déjeuner serait servi à onze heures.
+
+Il était vraisemblable, d\'ailleurs, que la relâche de l\'Alert à la Barbade se prolongerait plus que dans les autres îles.
+
+N\'était-il pas naturel que Mrs Kethlen Seymour désirât garder quelque temps près d\'elle les boursiers d\'Antilian School, et ceux-ci pourraient-ils se refuser à lui faire ce plaisir ? N\'était-il pas non moins naturel que l\'excellente dame voulût leur montrer cette île qu\'elle considérait sans doute comme la plus belle des Indes Occidentales ?
+
+À dix heures et demie, M. Patterson, irréprochablement habillé de noir, ses jeunes compagnons, vêtus de leurs costumes les plus propres, étaient prêts à partir.
+
+Le grand canot de l\'Alert les attendait. Après avoir descendu un certain nombre de valises, ils y prirent place, et l\'embarcation revint à bord dès qu\'elle les eut déposés sur le quai.
+
+Deux équipages étaient là, ainsi que l\'avait dit M. Well, cocher sur le siège, valet de pied aux portières.
+
+M. Patterson et ses compagnons montèrent aussitôt dans les voitures, qui partirent au trot des attelages, et, après avoir traversé les rues marchandes voisines du port, elles atteignirent le faubourg de Fontabelle.
+
+C\'est ce quartier élégant qu\'habitent les riches négociants de Bridgetown. Les superbes habitations, les opulentes villas, s\'y élèvent au milieu des arbres, et, de toutes ces résidences, la plus somptueuse était, sans contredit, celle de Mrs Kethlen Seymour.
+
+Il avait été convenu que, pendant le séjour à la Barbade, personne ne reviendrait à bord : on ne reverrait Harry Markel que le jour du départ. D\'une certaine façon, cela ne pouvait que convenir à celui-ci. Les passagers, une fois installés à Nording-House, l\'Alert ne recevrait aucun visiteur, et le faux capitaine Paxton courrait moins de risques d\'être reconnu.
+
+Mais, d\'autre façon, ce qui ne laissait pas de l\'inquiéter, c\'était la prolongation de la relâche. Si le programme, imposé par Mrs Kethlen Seymour, ne comportait que de deux à trois jours dans les autres Antilles, on ignorait les intentions de cette dame en ce qui concernait la Barbade. Il se pouvait fort bien que l\'Alert dût rester une semaine à Bridgetown, peut-être deux, c\'est-à-dire jusqu\'au 20 septembre. Même en partant à cette date, avec une traversée moyenne de vingt-cinq jours de l\'Amérique à l\'Europe, les pensionnaires d\'Antilian School seraient de retour pour la mi-octobre, presque au début de l\'année scolaire. Donc, il était possible que la relâche ne prit fin que vers le 20, ce qui permettrait aux hôtes de Mrs Kethlen Seymour d\'explorer complètement l\'île.
+
+C\'est bien à cela que réfléchissaient Harry Markel et ses compagnons. Après avoir réussi jusqu\'alors, après avoir évité la visite de ce matelot du Fire-Fly qui demandait à voir un de ses camarades, puis celle du vieux marin de la Dominique qui voulait serrer la main du capitaine Paxton, la malchance se déclarerait-elle contre eux à la Barbade ?
+
+En tout cas, Harry Markel se tiendrait plus sévèrement que jamais sur ses gardes. Il refuserait toute invitation qui lui serait adressée pour Nording-House. Pas un seul de ses hommes ne descendrait à terre. Cette fois, ni Morden ni aucun autre n\'aurait l\'occasion d\'aller se griser dans les tavernes de Bridgetown.
+
+Magnifique propriété, ce domaine de Nording-House, et d\'une importance considérable.
+
+Le château s\'élève au milieu d\'un parc ombragé des plus beaux arbres de la zone tropicale. Autour s\'étendent les plantations de cannes à sucre, les champs de cotonniers, avec un horizon de forêts dans le nord-est. Étangs, rios, y sont alimentés d\'eaux toujours fraîches, bien que le défrichement de l\'île ait amené la diminution des pluies. Quelques rivières l\'arrosent, et nombreux sont les puits ou la couche liquide se rencontre à petite profondeur.
+
+Ce fut dans le vaste hall du château que l\'intendant fit entrer M. Patterson et les jeunes garçons, tandis que des domestiques noirs prenaient leurs bagages et les montaient aux chambres destinées à chacun d\'eux. Puis, M. Well les introduisit dans le salon où attendait Mrs Kethlen Seymour.
+
+C\'était une femme de soixante-deux ans, cheveux blancs, yeux bleus, physionomie avenante, taille élevée, ayant un grand air de noblesse et de bonté, à laquelle M. Horatio Patterson ne manqua pas d\'appliquer le patuit incessu Dea de Virgile. Cette dame leur fit à tous l\'accueil le plus cordial, et ne cacha point l\'extrême joie qu\'elle éprouvait à recevoir les lauréats du concours d\'Antilian School.
+
+Roger Hinsdale, au nom de ses camarades, répondit par un petit discours bien préparé, bien su, bien récité, dont Mrs Kethlen Seymour se montra charmée. Elle s\'exprima à ce sujet en excellents termes, et déclara aux passagers de l\'Alert qu\'ils seraient ses hôtes pendant toute la durée du séjour à la Barbade.
+
+M. Patterson répondit que les désirs de Mrs Kethlen Seymour étaient pour eux des ordres, et, comme elle lui tendait la main, il y déposa le plus respectueux des baisers.
+
+Mrs Kethlen Seymour, née à la Barbade, appartenait à une riche famille qui avait pris possession de ce domaine dès les débuts de la colonie.
+
+Elle comptait parmi ses ancêtres ce comte de Carlisle, l\'un des concessionnaires de l\'île. À cette époque, tout propriétaire de terres rétrocédées par lui devait verser annuellement la valeur de quarante livres de coton. De là les revenus très considérables que produisaient ces propriétés, et, entre autres, la propriété de Nording-House.
+
+Il n\'est pas inutile de noter que le climat de la Barbade est l\'un des plus salubres de l\'Antilie. La chaleur est quotidiennement tempérée par les brises de mer. Jamais la fièvre jaune, si commune et si désastreuse dans l\'archipel, n\'y a étendu ses ravages. Cette île ne doit redouter que la violence des ouragans, d\'ordinaire terribles et fréquents en ces parages.
+
+Le gouverneur des Antilles anglaises, qui réside à la Barbade, tenait Mrs Kethlen Seymour en haute estime. Femme de grand coeur, généreuse et charitable, les malheureux n\'invoquaient pas en vain son inépuisable charité.
+
+Le déjeuner fut servi dans la vaste salle du rez-de-chaussée. Sur la table abondaient les productions de l\'île, poissons, gibier, fruits dont la variété égale la saveur, et les convives apprécièrent ce menu comme il le méritait. S\'ils ne purent qu\'être satisfaits de l\'accueil de leur hôtesse, celle-ci éprouva pleine satisfaction à voir, rangés autour d\'elle, ces jeunes voyageurs dont les visages, hâlés par les brises marines, respiraient le contentement et la santé.
+
+Et, pendant le déjeuner, lorsqu\'il fut question de la durée de cette relâche à la Barbade :
+
+« Je pense, mes chers enfants, répondit Mrs Kethlen Seymour, qu\'elle ne devra pas être moindre d\'une quinzaine.
+
+C\'est aujourd\'hui le 7 septembre, et, en partant le 22, il y a tout lieu de croire que vous arriverez en Angleterre vers le milieu du mois d\'octobre\... J\'ai l\'espoir que vous ne regretterez pas votre séjour à la Barbade\... Que pensez-vous de cette date, monsieur Patterson ?
+
+--- Madame, répondit M. Patterson en s\'inclinant sur son assiette, nos jours vous appartiennent, et vous pouvez en disposer à votre convenance\...
+
+--- Alors, mes jeunes amis, si je n\'écoutais que mon coeur, je ne vous laisserais plus retourner en Europe ! Et que diraient vos familles ? Que dirait, votre femme en ne vous voyant pas revenir, monsieur Patterson ?
+
+--- Le cas est prévu, répondit le mentor. Oui\... Le cas où l\'Alert ayant disparu\... Des années s\'écouleraient sans qu\'on eût de mes nouvelles\...
+
+--- Oh ! Cela n\'arrivera point ! affirma Mrs Kethlen Seymour\... Votre traversée a été heureuse à l\'aller, elle le sera au retour. Vous avez un bon navire\... Le capitaine Paxton est un excellent marin\...
+
+--- Certes, ajouta M. Patterson, nous n\'avons jamais eu qu\'à nous louer de sa conduite !
+
+--- Je ne l\'oublierai pas, répondit Mrs Kethlen Seymour.
+
+--- Pas plus, noble dame, que nous n\'oublierons le jour où il nous a été donné de vous présenter nos premiers hommages, ce dies albo notanda lapillo\... Et, comme l\'a dit Martial : hanc lucem lactea gemma notet ; ou, comme l\'a dit Horace : cressa ne careat pulchra dies nota ; ou, comme l\'a dit Stace : creta signare diem\... »
+
+Heureusement, M. Patterson s\'arrêta sur cette dernière citation, que les jeunes convives crurent devoir interrompre de leurs joyeux hurrahs.
+
+Que Mrs Kethlen Seymour eût compris ces formules latines, ce n\'était pas probable, mais elle ne pouvait se méprendre à l\'intention de l\'éloquent citateur.
+
+Et, d\'ailleurs, peut-être les lauréats n\'avaient-ils pas tous compris les phrases empruntées à Martial, à Stace, à Horace. En effet, lorsqu\'ils furent seuls, voici ce que Roger Hinsdale lui dit :
+
+« Monsieur Patterson, comment traduisez-vous exactement crela signare diem ?
+
+--- Mais noter un jour avec de la craie, ce qui équivaut à noter avec une pierre blanche, lactea gemma\... Comment, vous, Hinsdale, vous n\'aviez pas compris, alors que certainement Mrs Kethlen Seymour a dû\...
+
+--- Oh ! s\'écria Tony Renault\...
+
+--- Si\... Si ! affirma le mentor. Cet admirable latin se comprend tout seul\... -- Oh ! fit encore ce diable de Tony.
+
+--- Pourquoi ce oh ?
+
+--- Parce que le latin, même admirable, ne se comprend pas toujours tout seul, comme vous dites, monsieur Patterson, affirma Tony Renault. Et, tenez, permettez-moi de vous citer une phrase et de vous demander comment vous la traduiriez ? »
+
+Assurément, cet incorrigible garçon allait encore énoncer quelqu\'une de ces plaisanteries dont il était coutumier, et ses camarades ne s\'y trompèrent pas.
+
+« Voyons\... Citez\... répondit M. Patterson en ajustant ses lunettes d\'un geste doctoral.
+
+--- Voici la phrase : Rosam angelum letorum.
+
+--- Ah ! fit M. Patterson, qui parut surpris. Et de qui est-elle, cette phrase ? -- D\'un auteur inconnu\... Mais peu importe ! Que peut-elle signifier ?
+
+--- Elle ne signifie rien, Tony !
+
+Ce sont des mots sans suite\... Rosam, la rose, à l\'accusatif ; angelum, l\'ange, à l\'accusatif ; letorum, des heureux, au génitif pluriel\...
+
+--- Je vous demande pardon, répliqua Tony Renault, dont l\'oeil brillait de malice. Cette phrase a une signification très précise\...
+
+--- Que vous connaissez ?
+
+--- Que je connais.
+
+--- Ah ! Eh bien, je chercherai\... Conclut M. Patterson, je chercherai ! » Et, en effet, il devait chercher\... Longtemps encore, comme on le verra.
+
+À partir de ce jour, la relâche s\'écoula en excursions, -- « excursions auxquelles Mrs Kethlen Seymour prit souvent part. Il y eut à visiter non seulement le domaine de Nording-House, mais aussi les autres régions de la côte orientale. Bridgetown n\'eut pas seule le privilège de posséder les hôtes de l\'opulente dame. Ils poussèrent leur exploration jusqu\'aux villes du littoral, et vraiment Mrs Kethlen Seymour se réjouissait aux compliments qu\'ils lui faisaient de son île.
+
+Il résulte de là que, au cours de cette relâche, l\'Alert fut absolument oublié de ses passagers. Pas une seule fois ils n\'eurent l\'occasion de revenir à bord. D\'ailleurs, Harry Markel et les autres étaient toujours sur le qui-vive, et, bien qu\'aucun incident ne fût venu les compromettre, il leur tardait d\'avoir quitté la Barbade. Alors, en pleine mer, ils seraient à l\'abri de toute éventualité et arriveraient au dénouement de ce drame !
+
+On peut dire, sans trop d\'exagération, que l\'île est un immense jardin, riche en fruits, riche en fleurs. De ce jardin, qui est aussi un potager, l\'industrie agricole tire à profusion le riz, le coton de l\'espèce « barbadeuse », recherché sur les divers marchés d\'Europe.
+
+Quant au sucre, sa production est considérable. Il y a lieu d\'ajouter que les établissements industriels s\'y trouvent en prospérité croissante. En effet on ne compte pas moins de cinq cents usines à la Barbade.
+
+En diverses occasions, lorsque les touristes visitèrent les autres villes, leur excursion se prolongeant, ils ne purent rentrer le jour même à Nording-House. Ce fut l\'exception, et, presque tous les soirs, ils se réunissaient dans les salons du château. Plusieurs fois, les notables de Bridgetown, Son Excellence le Gouverneur, les membres du Conseil exécutif, quelques hauts fonctionnaires, vinrent s\'asseoir à la table de Mrs Kethlen Seymour.
+
+Le 17, il y eut une grande fête qui ne compta pas moins d\'une soixantaine d\'invités, -- fête que devait terminer un feu d\'artifice. Les jeunes lauréats en eurent tous les honneurs, sans distinction de nationalité.
+
+Et Mrs Kethlen Seymour de redire sans cesse :
+
+« Je ne veux voir ici ni Anglais, ni Français, ni Hollandais, ni Suédois, ni Danois\... Non ! Rien que des Antilians, mes compatriotes ! »
+
+Après un concert où l\'on exécuta d\'excellente musique, quelques tables de whist furent dressées ; et M. Horatio Patterson, partenaire de Mrs Kethlen Seymour, fit, non sans un très légitime orgueil, un extraordinaire chelem de dix fiches dont on parle encore dans les Indes Occidentales.
+
+Ainsi s\'écoula le temps avec une telle rapidité que les hôtes de Nording-House purent en regarder les jours comme des heures, les heures comme des minutes. Le 21 septembre était arrivé sans qu\'ils s\'en fussent aperçus.
+
+Harry Markel ne les avait point revus à bord. Ils ne tarderaient pas à revenir, d\'ailleurs, puisque le départ était fixé au 22.
+
+La veille, cependant, Mrs Kethlen Seymour manifesta le désir de visiter l\'Alert. Vive satisfaction pour Louis Clodion et ses camarades, heureux de lui faire les honneurs du navire comme elle leur avait fait les honneurs de son château. L\'excellente dame voulait connaître le capitaine Paxton, lui exprimer ses remerciements, -- d\'autant plus qu\'elle avait une demande à lui adresser.
+
+Donc, dans la matinée, les équipages quittèrent le domaine et vinrent s\'arrêter au quai de Bridgetown.
+
+Le grand canot de la direction maritime, qui attendait à l\'escalier de l\'appontement, transporta les visiteurs à bord.
+
+Harry Markel avait été prévenu par l\'intendant, et ils se fussent bien passés de cette visite, ses compagnons et lui, craignant toujours quelque complication imprévue ! Or, il eût été impossible de l\'éviter.
+
+« Au diable tous ces gens-là ! S\'était écrié John Carpenter.
+
+--- Soit\... Mais de la tenue », avait répondu Harry Markel.
+
+Mrs Kethlen Seymour fut reçue avec la convenance et le respect que commandait sa grande situation à la Barbade. Et, tout d\'abord, elle offrit au capitaine l\'expression de sa gratitude.
+
+Harry Markel mit une extrême politesse dans sa réponse. Puis, comme la châtelaine de Nording-House ajouta que, pour reconnaître les bons soins de l\'équipage, elle lui accordait une gratification de cinq cents livres, Corty donna le signal de hurrahs dont l\'ardeur ne put que la toucher très sincèrement.
+
+Mrs Kethlen Seymour visita alors le carré et les cabines.
+
+Conduite dans la dunette, cette installation parut la satisfaire de tous points. Et quels compliments accueillirent M. Horatio Patterson, lorsqu\'il montra le terrible serpent disposé dans une attitude effrayante autour du mât d\'artimon.
+
+« Quoi ! s\'écria Mrs Kethlen Seymour, c\'est vous, monsieur Patterson, qui avez tué cet horrible monstre ?
+
+--- Moi-même, répondit M. Patterson, et, s\'il est encore si terrible d\'aspect après sa mort, vous jugez de ce qu\'il devait être pendant sa vie, lorsqu\'il dardait sur moi sa langue de trigonocéphale ! »
+
+Et, si Tony Renault ne se tordit pas à cette répartie, c\'est que Louis Clodion le pinça jusqu\'au sang.
+
+« Il paraît, d\'ailleurs, aussi vivant que lorsque je l\'ai tué ! Déclara M. Patterson.
+
+--- Tout autant ! » répondit Tony Renault, que son camarade ne put retenir cette fois.
+
+Revenue sur la dunette, Mrs Kethlen Seymour, rejoignant Harry Markel, lui dit :
+
+« C\'est demain que vous prendrez la mer, capitaine Paxton ?
+
+--- Demain, madame, et dès le lever du soleil.
+
+--- Eh bien, j\'ai une demande à vous faire. Il s\'agit d\'un jeune marin de vingt-cinq ans, le fils de l\'une de mes femmes, un brave garçon, qui va retourner en Angleterre pour occuper les fonctions de second maître sur un bâtiment de commerce\... Je vous serais très obligée de lui donner passage à bord de l\'Alert. »
+
+Que cette demande convint ou non à Harry Markel, il était évident qu\'il ne pouvait refuser, puisque le navire naviguait au compte de Mrs Kethlen Seymour.
+
+Il se borna donc à répondre :
+
+« Que ce jeune homme vienne à bord, madame, il y sera bien reçu. »
+
+Mrs Kethlen Seymour renouvela ses remerciements au capitaine. Puis elle lui recommanda, pour la traversée de retour, M. Patterson et les jeunes passagers, dont elle avait la responsabilité vis-à-vis de leurs familles.
+
+Et alors, -- point essentiel pour Harry Markel, et en vue duquel ses compagnons et lui s\'étaient exposés à de si graves dangers, -- Mrs Kethlen Seymour annonça que, le jour même, M. Patterson et les boursiers recevraient la prime de sept cents livres promise à chacun.
+
+M. Patterson, très sincèrement, observa que ce serait abuser de la générosité de la châtelaine de Nording-House. Roger Hinsdale, Louis Clodion, d\'autres se joignirent à lui.
+
+Mrs Kethlen Seymour ayant déclaré qu\'un refus la désobligerait, il n\'y eut pas lieu d\'insister, à l\'extrême satisfaction de John Carpenter et de tout l\'équipage.
+
+Puis, après un amical adieu au capitaine de l\'Alert, après des souhaits de bon voyage, la visiteuse et ses hôtes reprirent place dans le canot qui les reconduisit au quai, d\'où les voitures les ramenèrent au château pour y passer cette dernière journée.
+
+Et lorsque tous eurent quitté le bord :
+
+« Ça y est ! s\'écria Corty.
+
+--- Mille et mille diables ! ajouta John Carpenter. J\'ai vu le moment où ces imbéciles allaient refuser de toucher leur prime ! C\'eût été bien la peine d\'avoir risqué sa tête pour s\'en retourner la poche vide ! »
+
+Enfin, les passagers ne reviendraient pas sans rapporter la somme qui devait doubler les bénéfices de l\'affaire.
+
+« Et ce marin ? dit alors Corty.
+
+--- Bon ! répondit le maître d\'équipage. Un de plus\... Ce n\'est pas cela qui nous embarrassera, j\'imagine\...
+
+--- Non, répliqua Corty, et je me charge de lui ! »
+
+Ce soir-là, un grand dîner réunit à Nording-House les notables de la colonie et les hôtes de Mrs Kethlen Seymour. Le repas achevé, de nouveaux adieux furent échangés, et les passagers de l\'Alert revinrent à bord. Chacun d\'eux avait reçu en guinées, renfermées dans un petit sac de soie, la prime attribuée aux lauréats du concours d\'Antilian School.
+
+Une heure auparavant était arrivé le jeune marin pour lequel Mrs Kethlen Seymour avait demandé passage, et il avait été conduit à la cabine qu\'il devait occuper.
+
+Tout était prêt pour l\'appareillage du lendemain, et, au lever du soleil, l\'Alert aurait quitté le port de Bridgetown, sa dernière relâche aux Indes Occidentales.
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- Début de traversée]{lang="X-NONE"}]{#_Toc342942297e7 .pcalibre2 .pcalibre1} {#chapitre-7-début-de-traversée .calibre171 .sigil_not_in_toc}
+
+Dès dix heures du matin, l\'Alert avait laissé derrière l\'horizon les extrêmes contours de la Barbade, la plus avancée vers l\'est des îles de la chaîne micro-antilienne.
+
+Ainsi cette petite visite des lauréats à leur pays natal s\'était effectuée dans des conditions très favorables. Ils n\'avaient pas eu trop à souffrir au cours de leurs traversées des violentes perturbations atmosphériques si fréquentes en ces parages. Le voyage de retour commençait. Au lieu de revenir en Europe, le navire, dont Harry Markel et ses complices seraient dès le lendemain les maîtres, allait faire route vers les mers du Pacifique. En effet, il semblait bien que les passagers de l\'Alert ne pouvaient échapper au sort que leur réservaient ces bandits. La nuit prochaine, ils seraient surpris dans leurs cabines, égorgés avant d\'avoir pu se défendre ! Et qui dévoilerait jamais ce drame sanglant de l\'Alert ? À la rubrique des informations maritimes, le trois-mâts figurerait parmi ces navires perdus corps et biens dont on n\'a plus aucune nouvelle. On se mettrait vainement à sa recherche, alors que sous un autre nom, sous un autre pavillon, après quelques modifications à son gréement, le capitaine Markel entreprendrait ses criminelles campagnes dans les mers de l\'Ouest-Pacifique.
+
+Et ce n\'était pas la présence du marin nouveau-venu qui apporterait quelque chance de salut. Sans doute, les passagers se trouvaient maintenant onze à bord, et Harry Markel et ses compagnons n\'étaient que dix. Mais ceux-ci auraient l\'avantage de la surprise. D\'ailleurs, comment opposer une résistance efficace à ces hommes robustes, habitués à verser le sang ? Et puis, c\'est la nuit que s\'accomplirait ce massacre\...
+
+Les victimes seraient frappées en plein sommeil. Quant à implorer la pitié de ces misérables, inutile ! Il n\'y en avait aucune à attendre.
+
+Ainsi tout aurait réussi à cet audacieux malfaiteur. Ses projets se seraient réalisés jusqu\'au bout. Il aurait eu raison contre les hésitations de John Carpenter et de quelques autres. La navigation à travers les Antilles ne les avait pas trahis, et cette relâche à la Barbade leur valait une somme de sept mille livres, sans parler de la prime accordée par Mrs Kethlen Seymour.
+
+Le marin embarqué sur l\'Alert s\'appelait Will Mitz. Il n\'était âgé que de vingt-cinq ans, -- à peine cinq années de plus que Roger Hinsdale, Louis Clodion et Albertus Leuwen.
+
+Will Mitz, de taille moyenne, vigoureux, bien découplé, agile et souple comme l\'exige le métier de gabier, offrait tous les caractères de l\'honnêteté et de la franchise. C\'était aussi un garçon serviable, de bonnes moeurs, d\'une conduite irréprochable, très pénétré de sentiments religieux. Jamais il n\'avait encouru une punition, et nul ne montrait plus de soumission ni déployait plus de zèle dans le service. Embarqué dès l\'âge de douze ans en qualité de mousse, il devint successivement novice, puis matelot, puis quartier-maître. C\'était le fils unique de Mrs Mitz, veuve depuis plusieurs années, qui occupait des fonctions de confiance au château de Nording-House.
+
+Après un dernier voyage dans les mers du Sud, Will Mitz resta près de sa mère pendant deux mois. Mrs Kethlen Seymour avait pu apprécier les qualités de cet honnête garçon. Grâce à ses relations, il venait d\'obtenir ce poste de second maître à bord d\'un bâtiment en chargement à Liverpool pour Sydney de l\'Australie.
+
+Nul doute que Will Mitz, ayant de bonnes connaissances pratiques en navigation, intelligent, zélé, ne dût faire son chemin et acquérir plus tard la position d\'officier dans la marine marchande. Enfin, brave, résolu, il possédait cet imperturbable sang-froid, ce juste coup d\'oeil, indispensable aux gens de mer, et qui doit être leur première qualité.
+
+Will Mitz attendait à Bridgetown l\'occasion de s\'embarquer pour Liverpool, lorsque l\'Alert mouilla dans le port de la Barbade. C\'est alors que Mrs Kethlen Seymour eut la pensée de s\'entendre avec le capitaine Paxton afin d\'assurer le retour du jeune marin en Europe. C\'était donc dans des conditions très agréables que Will Mitz allait traverser l\'Atlantique pour Liverpool, où le trois-mâts devait se rendre, le port même d\'embarquement de Will Mitz. De là, M. Horatio Patterson et ses jeunes compagnons regagneraient Londres par chemin de fer et rentreraient à Antilian School, où ils seraient accueillis comme ils le méritaient.
+
+Du reste, Will Mitz n\'entendait point rester oisif au cours de la traversée. Le capitaine Paxton ne demanderait pas mieux que de l\'employer pour remplacer cet homme qu\'il avait eu le malheur de perdre dans la baie de Cork.
+
+Le soir du 21, Will Mitz avait apporté son sac à bord de l\'Alert, après avoir pris congé de Mrs Kethlen Seymour et embrassé sa mère. Il était, en outre, gratifié d\'une petite somme que la bonne châtelaine le força d\'accepter, -- somme qui lui permettrait d\'attendre à Liverpool le départ de son bâtiment. Bien que tous les cadres du poste de l\'équipage ne fussent pas occupés par ses hommes, Harry Markel préféra ne point mettre Will Mitz avec eux.
+
+Cela aurait pu être un embarras à l\'accomplissement de ses projets. Il restait une cabine libre dans la dunette, et le nouveau passager en prit aussitôt possession.
+
+En arrivant, Will Mitz dit à Harry Markel :
+
+« Capitaine Paxton, je désire me rendre utile à bord\... Je suis à votre disposition, et, si vous le voulez bien, je ferai le quart à mon tour\...
+
+--- Soit », répondit Harry Markel.
+
+Il convient de dire que Will Mitz fut peu favorablement impressionné en observant le personnel du navire. Et ce n\'était pas seulement le capitaine de l\'Alert, c\'étaient aussi John Carpenter, Corty et les autres. Si la tenue du trois-mâts lui parut irréprochable, ces figures où se reflétaient tant de passions violentes, ces physionomies farouches, dont la fausseté se dissimulait mal, n\'étaient point pour lui inspirer confiance. Aussi résolut-il de garder une certaine réserve avec l\'équipage.
+
+D\'ailleurs, si Will Mitz ne connaissait pas le capitaine Paxton, il en avait entendu parler comme d\'un excellent marin, avant même qu\'il eût le commandement de l\'Alert, et Mrs Kethlen Seymour ne l\'avait pas choisi sans sérieuses références.
+
+En outre, durant leur séjour à Nording-House, les jeunes passagers avaient toujours fait le plus grand éloge du capitaine Paxton et vanté l\'habileté dont il avait donné des preuves pendant la tempête au large des Bermudes. La traversée d\'aller s\'était effectuée d\'une manière très satisfaisante, pourquoi n\'en serait-il pas ainsi de la traversée de retour ? Will Mitz pensa donc que cette première impression qu\'il avait ressentie en arrivant à bord ne tarderait pas à s\'effacer.
+
+Lorsque Corty apprit que Will Mitz avait offert ses services, il dit à Harry Markel et à John Carpenter :
+
+« Eh ! Voilà une bonne recrue sur laquelle nous ne comptions guère ! Un fameux marin pour commander le quart avec toi, John\...
+
+--- Et qu\'on peut mettre en toute confiance à la barre ! ajouta non moins ironiquement John Carpenter. Avec un pareil timonier, pas d\'écart de route à craindre, et l\'Alert filera droit sur Liverpool\...
+
+--- Où, sans doute, la police, prévenue d\'une façon ou d\'une autre, reprit Corty, nous recevrait à notre arrivée avec les honneurs qui nous sont dus\... -- Assez plaisanté, déclara Harry Markel, et que chacun veille sur sa langue pendant vingt-quatre heures encore\...
+
+--- D\'autant plus, fit observer John Carpenter, que ce marsouin-là m\'a paru nous regarder d\'une singulière façon\...
+
+--- Dans tous les cas, reprit Harry Markel, qu\'on ne lui réponde que peu ou point, s\'il veut causer ! Et surtout que Morden ne recommence pas ce qu\'il a fait à Sainte-Lucie\...
+
+--- Bon ! Conclut Corty, quand il n\'a pas bu, Morden est muet comme un poisson, et on l\'empêchera de boire avant que nous portions la santé du capitaine Markel ! »
+
+Au surplus, il ne sembla pas que Will Mitz voulût engager conversation avec les hommes de l\'équipage. Dès son arrivée, il se retira dans la cabine où il déposa son sac, en attendant le retour des passagers, et, le lendemain, il avait donné la main à l\'appareillage.
+
+Pendant cette première journée, Will Mitz rencontra à l\'arrière ce qu\'il n\'eût pas trouvé à l\'avant du navire, -- de braves garçons qui s\'intéressaient à lui. Plus particulièrement, Tony Renault et Magnus Anders se montrèrent très heureux « de pouvoir parler marine avec un marin ».
+
+Après le déjeuner, Will Mitz alla se promener sur le pont en fumant sa pipe.
+
+L\'Alert portait ses basses voiles, ses huniers et ses perroquets. Il aurait dû courir une longue bordée au nord-est, de manière à passer à l\'ouvert du canal de Bahama au-delà des Antilles, et profiter des courants du Gulf-Stream qui se dirigent vers l\'Europe. Aussi Will Mitz put-il s\'étonner que le capitaine eût pris les amures à tribord au lieu de les prendre à bâbord, ce qui l\'éloignait avec cap au sud-est. Mais, sans doute, Harry Markel avait ses raisons pour agir ainsi, et il n\'appartenait point à Will Mitz de l\'interroger à ce sujet. Il se disait, d\'ailleurs, que l\'Alert, après avoir parcouru cinquante ou soixante milles, reprendrait sa route vers le nord-est. En réalité, ce n\'était pas sans intention qu\'Harry Markel manoeuvrait de manière à gagner la pointe méridionale de l\'Afrique, et, de temps en temps, il observait si l\'homme de barre maintenait le navire en cette direction.
+
+Cependant Tony Renault, Magnus Anders, deux ou trois de leurs camarades causaient avec le jeune marin, en se promenant tantôt sur le pont, tantôt sur la dunette. Ils lui posaient des questions relatives à son métier, ce qu\'ils n\'avaient pu faire jusqu\'ici avec leur peu communicatif capitaine. Au moins, Will Mitz répondait volontiers, se plaisait à leur conversation, voyant le goût qu\'ils manifestaient pour les choses de la mer. Et, tout d\'abord, quels pays avait-il visités au cours de ses navigations, soit à l\'État, soit au commerce ?
+
+« Mes jeunes messieurs, répondit Will Mitz, je voyage depuis douze ans déjà, autant dire depuis mon enfance\...
+
+--- Vous avez traversé plusieurs fois l\'Atlantique et le Pacifique ? demanda Tony Renault.
+
+--- Plusieurs fois, en effet, soit à bord de voiliers, soit à bord de steamers.
+
+--- Est-ce que vous avez fait campagne sur des bâtiments de guerre ? dit Magnus Anders.
+
+--- Oui, répondit Will Mitz, lorsque l\'Angleterre envoya une de ses escadres dans le golfe de Petchili.
+
+--- Vous êtes allé en Chine ! s\'écria Tony Renault, et il ne cachait point son admiration pour un homme qui avait accosté les rivages du Céleste Empire.
+
+--- Oui\... Monsieur Renault, et je vous assure qu\'il n\'est pas plus difficile d\'aller en Chine que d\'aller aux Antilles.
+
+--- Et sur quel navire ? Questionna John Howard.
+
+--- Sur le croiseur-cuirassé Standard, contre-amiral sir Harry Walker.
+
+--- Alors, reprit Magnus Anders, vous étiez embarqué comme mousse ? -- En effet\... Comme mousse.
+
+--- Et il y avait de gros canons à bord du Standard ? demanda Tony Renault.
+
+--- Très gros\... De vingt tonnes\...
+
+--- De vingt tonnes ! » Répéta Tony Renault.
+
+Et on sentait combien cet intrépide garçon serait heureux s\'il pouvait jamais tirer une de ces formidables pièces d\'artillerie.
+
+« Mais, ajouta ensuite Louis Clodion, ce n\'est pas à bord des navires de guerre que vous avez le plus navigué ?
+
+--- Non, mes jeunes messieurs, répondit Will Mitz. Je ne suis resté que trois ans à l\'État, et c\'est au commerce que j\'ai fait mon apprentissage de gabier.
+
+--- Sur quels bâtiments ? demanda Magnus Anders.
+
+--- Le North\'s-Brothers, de Cardiff, avec lequel je suis allé à Boston, et le Great Britain, à Newcastle.
+
+--- Un grand navire ? dit Tony Renault.
+
+--- Certes, un charbonnier de trois mille cinq cents tonneaux, qui avait pris son complet chargement pour Melbourne.
+
+--- Et qu\'est-ce que vous rapportiez ?
+
+--- Des blés d\'Australie à destination de Leith, le port d\'Edimbourg.
+
+--- Est-ce que vous n\'aimez pas mieux la navigation à voile que la navigation à vapeur ? reprit Niels Harboe.
+
+--- Je la préfère et de beaucoup, répondit Will Mitz. C\'est plus marin, ces traversées-là, et, en général, elles sont aussi rapides que les autres\... Et puis, on ne navigue pas au milieu des fumées de charbon, et rien n\'est magnifique comme un bâtiment couvert de toile, qui peut faire ses quinze ou seize milles à l\'heure !
+
+--- Je vous crois\... Je vous crois ! répliqua Tony Renault que son imagination entraînait à travers toutes les mers du monde. Et quel est le navire sur lequel vous allez embarquer ?
+
+--- L\'Elisa Warden, de Liverpool, un superbe quatre-mâts en acier, de trois mille huit cents tonnes, qui est revenu de Thio en Nouvelle Calédonie avec un chargement de nickel.
+
+--- Et quelle cargaison va-t-il prendre en Angleterre ? demanda John Howard.
+
+--- Une cargaison de houille pour San-Francisco, répondit Will Mitz, et je sais qu\'il est affrété pour retour à Dublin avec blés de l\'Oregon.
+
+--- Que doit durer le voyage ? reprit Magnus Anders.
+
+--- De onze à douze mois environ.
+
+--- Ah ! S\'exclama Tony Renault, voilà des traversées que je voudrais faire !
+
+Un an entre le ciel et l\'eau ! L\'océan Atlantique, la mer du Sud, l\'océan Pacifique ! On va par le cap Horn\... On revient par le cap de Bonne-Espérance ! C\'est presque le tour du monde !
+
+--- Eh ! Mon jeune monsieur, répondit Will Mitz en souriant, vous auriez aimé la grande navigation\...
+
+--- Assurément\... Et plus encore comme marin que comme passager !
+
+--- Voilà qui est bien dit, déclara Will Mitz, et je vois que vous avez goût pour la mer !
+
+--- Magnus Anders et lui, affirma Niels Harboe en riant, si on les écoutait, il faudrait leur abandonner la direction du navire, l\'un après l\'autre à la barre ! -- Par malheur, fit observer Louis Clodion, Magnus et Tony sont trop âgés pour faire leurs débuts dans la marine\...
+
+--- Dirait-on pas que nous avons soixante ans ! riposta Tony Renault.
+
+--- Non\... Mais nous en avons vingt\... Avoua le jeune Suédois, et peut-être est-il trop tard\...
+
+--- Qui sait ? répondit Will Mitz ? Vous êtes hardis, lestes, bien portants, et, avec ces qualités-là, le métier s\'apprend vite ! Cependant, mieux vaut commencer jeune\... Il est vrai, pour la marine du commerce, il n\'y a pas d\'âge réglementaire.
+
+--- Enfin, dit Louis Clodion, Tony et Magnus verront cela, lorsqu\'ils auront fini leurs études à Antilian School\...
+
+--- Et, quand on sort d\'Antilian School, conclut Tony Renault, on est apte à tous les métiers\... N\'est-il pas vrai, monsieur Patterson ? »
+
+Le mentor, qui venait d\'arriver, paraissait un peu préoccupé.
+
+Peut-être songeait-il à la fameuse phrase latine dont il n\'avait pas encore trouvé le sens. Toutefois il n\'en dit mot, et Tony Renault, qui le regardait d\'un air narquois, n\'y fit aucune allusion. Mis au courant de la conversation, il donna raison au jeune pensionnaire qui tenait d\'une main si vaillante le pavillon de l\'école antilienne. Et le voici, l\'excellent homme, qui se donne pour exemple. Il était l\'économe d\'Antilian School, c\'est-à-dire absolument étranger à toutes les connaissances maritimes\... Il n\'avait jamais voyagé à travers les océans, même en rêve\... En fait de bâtiment, il n\'avait guère vu que ceux qui remontent ou descendent la Tamise à travers Londres\... Eh bien, rien que parce qu\'il appartenait au personnel administratif de la célèbre institution, il s\'était trouvé capable d\'affronter les colères de Neptune ! Sans doute, au début, pendant quelques jours, les secousses du roulage\...
+
+« Roulis, souffla Tony Renault.
+
+--- Oui\... Roulis\... reprit M. Patterson, du roulis et du tang\... Oui\... Du tangage m\'ont éprouvé, paraît-il ! Mais, à présent, ne suis-je pas cuirassé contre le mal de mer ? N\'ai-je pas le pied marin ? Croyez-moi\... Experto crede Roberto.
+
+--- Horatio, souffla encore Tony Renault.
+
+--- Horatio\... Puisque j\'ai été baptisé du même nom que le divin Flaccus ! Et, si je ne désire point lutter contre les tempêtes, les tornades, les cyclones, être le jouet des tourmentes et des ouragans, du moins je les contemplerais d\'un oeil ferme et sans pâlir\...
+
+--- Je vous en fais mon compliment, monsieur Patterson, répondit Will Mitz. Du reste, entre nous, mieux vaut ne point en faire l\'expérience\...
+
+J\'ai passé par là, et j\'ai vu les plus braves parfois en proie à l\'épouvante, lorsqu\'ils se sentaient impuissants devant la tempête\...
+
+--- Oh ! fit M. Patterson, ce que j\'en dis, ce n\'est point pour provoquer la fureur des éléments ! Loin de moi cette pensée, qui ne serait ni d\'un homme prudent, ni d\'un mentor, d\'un chargé d\'âmes, de jeunes âmes, et qui sent tout le poids de sa responsabilité ! D\'ailleurs, Will Mitz, j\'espère que nous n\'avons rien à redouter de semblable\...
+
+--- Je l\'espère, comme vous, monsieur Patterson. À cette époque de l\'année, les mauvais temps sont assez rares dans cette partie de l\'Atlantique. Il est vrai, un orage est toujours à craindre, et, un orage, on ne sait jamais ni ce qu\'il sera ni ce qu\'il durera\... Nous en éprouverons, sans doute, car ils sont fréquents en septembre, et je souhaite qu\'ils ne se changent point en tempête\...
+
+--- Nous le souhaitons tous, répondit Niels Harboe. Cependant, en cas de mauvais temps, nous pouvons avoir toute confiance en notre capitaine, c\'est un marin habile.
+
+--- Oui, répondit Will Mitz, je sais que le capitaine Paxton a fait ses preuves, et j\'en ai entendu dire le plus grand bien en Angleterre\...
+
+--- Avec raison, déclara Hubert Perkins.
+
+--- Et son équipage, demanda Will Mitz, vous l\'avez vu à l\'oeuvre ?
+
+--- John Carpenter paraît être un maître très entendu, déclara Niels Harboe, et ses hommes connaissent bien la manoeuvre d\'un navire.
+
+--- Ils ne sont pas causeurs\... Fit observer Will Mitz.
+
+--- En effet, mais leur conduite est bonne, répondit Magnus Anders.
+
+Puis, la discipline est sévère à bord, et le capitaine Paxton ne laisse jamais aucun matelot descendre à terre\... Non ! Il n\'y a rien à leur reprocher\...
+
+--- Tant mieux, dit Will Mitz.
+
+--- Et nous ne demandons qu\'une chose, ajouta Louis Clodion, c\'est que la campagne se continue dans les conditions où elle s\'est faite jusqu\'à ce jour. »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8 -- La nuit vient]{lang="X-NONE"}]{#_Toc342942297e8 .pcalibre2 .pcalibre1} {#chapitre-8-la-nuit-vient .calibre171 .sigil_not_in_toc}
+
+Ainsi s\'écoula cette première matinée du voyage de retour. La vie de bord allait reprendre sa régularité habituelle, dont la monotonie ne pouvait être rompue que par les incidents de mer, très rares, lorsque le temps est beau et le vent favorable.
+
+Comme à l\'ordinaire, le déjeuner fut servi dans le carré où se réunissaient les passagers sous la présidence de M. Patterson, et par les soins du steward.
+
+Comme à l\'ordinaire également, Harry Markel fit apporter son repas dans sa cabine.
+
+Cela même parut quelque peu singulier à Will Mitz, puisqu\'il est d\'usage que le capitaine s\'assoie à la table du carré des navires de commerce.
+
+C\'est en vain que Will Mitz chercha à lier conversation avec John Carpenter ou autres de l\'équipage. Il ne sentit rien de cette camaraderie qui s\'établit si facilement entre gens de mer.
+
+Étant données les fonctions qu\'il devait remplir à bord de l\'Elisa Warden, le second de l\'Alert aurait bien pu le traiter d\'égal à égal.
+
+Le repas achevé, Will Mitz remonta sur le pont avec les jeunes garçons qui lui faisaient si bon accueil.
+
+Pendant l\'après-midi, les distractions ne manquèrent pas. La brise étant modérée, la vitesse moyenne, des lignes furent mises à la traîne du haut de la dunette, et les passagers se livrèrent au plaisir d\'une pêche qui fut fructueuse.
+
+Aux plus ardents, Tony Renault, Magnus Anders, Niels Harboe, Axel Wickborn, se joignit Will Mitz, qui était un vrai pêcheur et très habile.
+
+Il n\'ignorait rien du métier de marin, doué d\'une adresse et d\'une intelligence qui n\'échappèrent ni à Harry Markel ni au maître d\'équipage. Cette pêche dura plusieurs heures.
+
+On prit des bonites, d\'excellente qualité, même un de ces esturgeons de grande taille, dont les femelles, pesant jusqu\'à deux cents livres, portent un million d\'oeufs, espèce très abondante dans l\'Atlantique et la Méditerranée.
+
+Les lignes ramenèrent plusieurs de ces merluches qui suivent les bâtiments en troupes nombreuses, des scyphias, des épées de mer du genre espadon, et aussi quelques gymnotes, au corps allongé en forme de serpent, qui fréquentent plus volontiers les parages de l\'Amérique.
+
+M. Horatio Patterson, avant que Will Mitz eût pu le retenir, ayant eu l\'imprudence de saisir à pleine main une de ces gymnotes, une décharge électrique l\'envoya rouler jusqu\'à l\'habitacle.
+
+On courut à lui, on le releva, et il lui fallut quelque temps pour se remettre. « Il est dangereux de toucher ces bêtes-là\... Lui fit observer Will Mitz.
+
+--- Je m\'en aperçois\... Trop tard, répondit M. Patterson en détirant ses bras engourdis par la secousse.
+
+--- Après tout, déclara Tony Renault, on dit que ces décharges font merveille pour les rhumatismes\...
+
+
+L\'incident auquel les passagers prirent le plus d\'intérêt fut la rencontre de trois ou quatre baleines.
+
+Ces cétacés ne sont pas communs dans les parages des Antilles, que les baleiniers n\'ont pas l\'habitude de considérer comme lieux de pêche.
+
+« C\'est en plein Pacifique plus particulièrement que les bâtiments leur donnent la chasse, raconta Will Mitz, soit au nord, dans les vastes baies de la Colombie anglaise, où elles déposent leurs petits, soit dans le sud, sur les côtes de la Nouvelle-Zélande.
+
+--- Est-ce que vous avez fait la pêche à la baleine ? demanda Louis Clodion.
+
+--- Oui, pendant une saison, à bord du Wrangel de Belfast, aux abords des îles Kouriles et dans la mer d\'Okhotsk. Mais il faut être équipé de pirogues, de lignes, de harpons, de harponneurs. Cela ne va pas sans grands risques, lorsqu\'on est entraîné hors de vue, et cette pêche fait bien des victimes.
+
+--- Est-elle avantageuse ? dit Niels Harboe.
+
+--- Oui et non, répondit Will Mitz. L\'habileté, c\'est bien, mais la chance, c\'est mieux, et, trop de fois, il arrive qu\'une campagne finisse sans qu\'il ait été possible d\'amarrer une baleine ! »
+
+Au surplus, celles qui venaient d\'être signalées soufflaient à trois milles au moins de l\'Alert, et il fut impossible de les approcher de plus près, au vif regret des passagers. Même en se couvrant de toile, le trois-mâts n\'aurait pu les gagner en vitesse. Elles filaient vers l\'est avec tant de rapidité, qu\'une pirogue aurait eu grand-peine à les rejoindre.
+
+À mesure que le soleil s\'abaissait sur l\'horizon, la brise tendait à calmir. Les nuages du couchant, épais et livides, restaient immobiles. Si le vent se levait de ce côté, ce serait un vent d\'orage qui ne durerait pas. À l\'opposé s\'accumulaient de grosses vapeurs montant jusqu\'au zénith, qui rendraient la nuit très obscure.
+
+Il était même à craindre que le ciel s\'illuminât d\'éclairs et retentît des éclats de la foudre. La chaleur était très forte, la température lourde, l\'espace saturé d\'électricité.
+
+Pendant que les lignes étaient dehors, Harry Markel avait dû faire mettre l\'une des embarcations à la mer, quelques-uns de ces poissons étant tellement lourds qu\'on n\'aurait pu les hisser directement à bord.
+
+La mer restant calme, cette embarcation ne fut pas remontée à son poste. Harry Markel avait, sans doute, ses raisons pour la laisser dehors.
+
+L\'Alert portait toute sa voilure, de manière à profiter des derniers souffles. Aussi Will Mitz pensait-il que le capitaine reprendrait une autre bordée vers le nord-est dès que la brise viendrait à fraîchir. Durant toute la journée, il avait vainement attendu que l\'ordre fût donné de virer de bord, et ne parvenait pas à comprendre les intentions de Harry Markel.
+
+Le soleil disparut derrière les gros nuages, dont l\'épaisse couche interceptait ses derniers rayons. La nuit allait tomber rapidement, car le crépuscule est de courte durée sous les latitudes voisines du Tropique. Harry Markel conserverait-il cette voilure jusqu\'au jour\... Will Mitz ne le pensait pas. Un orage pouvait éclater, et l\'on sait avec quelle violence, quelle rapidité ils se déchaînent au milieu de ces parages.
+
+Un bâtiment, surpris tout dessus, n\'a pas le temps de larguer ses écoutes, d\'amener ses voiles. En quelques instants, il peut engager, et, pour se relever, est forcé de couper sa mâture.
+
+Un marin prudent ne saurait donc s\'exposer à de tels risques, et, à moins que le temps ne soit absolument sûr, il est préférable de rester seulement sous les huniers, la misaine, la brigantine et les focs.
+
+Vers six heures, après être monté sur la dunette où M. Patterson et ses jeunes compagnons étaient alors réunis, Harry Markel ordonna de relever la tente, ainsi qu\'on avait soin de le faire chaque soir. Puis, ayant une dernière fois observé le temps :
+
+« À serrer les cacatois et les perroquets », commanda-t-il.
+
+Cet ordre, aussitôt transmis par John Carpenter, l\'équipage se mit en mesure de l\'exécuter.
+
+Il va sans dire que, suivant leur habitude, Tony Renault et Magnus Anders gravirent les haubans du grand mât avec une légèreté, une souplesse, qui provoquaient toujours chez le mentor autant d\'admiration que d\'inquiétude\... Et, aussi, de regret de ne pouvoir les imiter.
+
+Cette fois, Will Mitz les suivit, non moins leste qu\'eux. Ils atteignirent presque au même moment les barres, et tous trois s\'occupaient de serrer le grand perroquet.
+
+« Tenez-vous bien, mes jeunes messieurs, leur dit-il. C\'est une précaution qu\'il faut toujours prendre, même quand le navire ne roule pas\...
+
+--- On tient bon, répondit Tony Renault. Ça ferait trop de peine à M. Patterson si nous tombions à la mer ! »
+
+Tous trois suffirent à serrer la voile contre la vergue, qui avait été amenée sur le ton du grand mât, après que cette opération eut été achevée pour le cacatois.
+
+En même temps, les matelots en faisaient autant au mât de misaine ; puis le grand foc, le clin-foc et la voile de flèche d\'arrière furent rentrés. Légèrement appuyé par le courant qui portait à l\'est, il ne ferait que peu de route jusqu\'au lever du soleil.
+
+Mais Harry Markel ne serait pas surpris si quelque brusque orage tombait à bord.
+
+En quelques instants, ou aurait cargué la misaine et mis les deux huniers au bas ris.
+
+Lorsque Will Mitz fut redescendu avec Tony Renault et Magnus Anders sur la dunette, il observa la boussole, éclairée par la lampe d\'habitacle. Depuis le matin, l\'Alert devait avoir couru d\'une cinquantaine de milles vers le sud-est, et il pensait que le capitaine allait prendre un autre bord pour la nuit, cette fois, en direction du nord-est.
+
+Harry Markel s\'aperçut bien que son passager témoignait quelque surprise à le voir maintenir sa route.
+
+Mais, sévère observateur de la discipline, Will Mitz ne se fût pas permis de présenter aucune observation à cet égard.
+
+En effet, après avoir regardé une dernière fois le compas, alors que Corty tenait la barre, il examina l\'état du ciel et vînt s\'asseoir au pied du grand mât.
+
+À ce moment, Corty, ne risquant point d\'être entendu, s\'approchant d\'Harry Markel, lui dit :
+
+« Il semble bien que Mitz ne pense pas que nous soyons en bonne route ! Eh bien, on l\'y mettra cette nuit, lui et les autres, et rien ne les empêchera de gagner Liverpool à la nage, si les requins leur laissent bras et jambes ! » Probablement le misérable trouva la remarque très plaisante, car il partit d\'un violent éclat de rire, que Harry Markel réprima d\'un regard.
+
+En ce moment, John Carpenter le rejoignit.
+
+« Nous gardons le grand canot à la traîne, Harry ? demanda-t-il. -- Oui, John, il peut nous servir\...
+
+--- Si nous avions besoin d\'achever la besogne au dehors ! »
+
+Ce soir-là, le dîner ne fut servi qu\'à six heures et demie. Sur la table figurèrent plusieurs des poissons pêchés dans la journée, et que Ranyah Cogh avait convenablement accommodés.
+
+M. Patterson déclara n\'avoir jamais rien mangé de meilleur\... Surtout les bonites, et il exprima l\'espoir que les jeunes pêcheurs sauraient en prendre d\'autres de la même espèce au cours de la traversée.
+
+Après le dîner, tous remontèrent sur la dunette, où ils comptaient attendre que la nuit fût close pour regagner leurs cabines.
+
+Le soleil, caché derrière les nuages, n\'avait point encore disparu sous l\'horizon, et l\'obscurité ne serait pas complète avant une grande heure.
+
+Or, Tony Renault, à cet instant, crut apercevoir une voile dans la direction de l\'est, et, presque aussitôt, la voix de Will Mitz se fit entendre :
+
+« Navire par bâbord devant. »
+
+Tous les regards se dirigèrent de ce côté.
+
+Un grand navire, portant ses huniers et ses basses voiles, apparaissait à quatre milles au vent. Sans doute, il trouvait là un peu plus de brise, et, grand largue, faisait route à contre-bord de l\'Alert.
+
+Louis Clodion et Roger Hinsdale allèrent chercher leurs lorgnettes et observèrent ce bâtiment qui s\'approchait, cap au nord-ouest.
+
+« Damné navire ! murmura John Carpenter à Harry Markel. Dans une heure, il sera par notre travers ! »
+
+Cette réflexion que venait de faire le maître d\'équipage, Corty et les autres l\'avaient faite également. Si le vent tombait entièrement, les deux bâtiments resteraient encalminés pendant la nuit, peut-être à un demi-mille, un quart de mille l\'un de l\'autre ! Or, si, une première fois, sur la côte d\'Irlande, Harry Markel avait pu se féliciter de ne pas en avoir fini avec ses passagers, les circonstances n\'étaient plus maintenant les mêmes. L\'argent de Mrs Kethlen Seymour était à bord et, dans le voisinage de ce navire, les criminels projets pourraient-ils être mis à exécution ?
+
+« Malédiction ! répétait John Carpenter, nous n\'arriverons donc jamais à nous débarrasser de cette pension-là ? Est-ce qu\'il faudra encore attendre la nuit prochaine ? »
+
+Le bâtiment, profitant du restant de brise, s\'approchait de l\'Alert. Mais elle ne tarderait pas à lui manquer.
+
+C\'était un grand trois-mâts, à destination, soit d\'une des Antilles, soit de l\'un des ports du Mexique.
+
+Quant à sa nationalité, impossible de la reconnaître, puisque son pavillon ne flottait pas à la corne de brigantine. Cependant il semblait bien que ce bâtiment devait être américain, d\'après sa construction et son gréement.
+
+« Il ne paraît pas lourdement chargé\... Fit observer Magnus Anders.
+
+--- En effet, répondit Will Mitz, et je croirais volontiers qu\'il navigue sur lest. »
+
+Trois quarts d\'heure après, le navire n\'était plus qu\'à deux milles de l\'Alert. Comme le courant le portait dans cette direction, Harry Markel espérait qu\'il dépasserait l\'Alert. Pour peu qu\'il fût à cinq ou six milles entre une heure et quatre heures du matin, en admettant qu\'il y eût lutte à bord, les cris ne pourraient être entendus à cette distance.
+
+Une demi-heure plus tard, lorsque le crépuscule prit fin, aucun souffle de vent ne se faisait sentir. Les deux bâtiments étaient encalminés à moins d\'un demi-mille.
+
+Vers neuf heures, M. Patterson, d\'une voix que brouillait déjà le sommeil, dit :
+
+« Allons, mes amis, est-ce que nous ne pensons pas réintégrer nos cabines ?
+
+--- Il n\'est pas tard\... Monsieur Patterson, répondit Roger Hinsdale.
+
+--- Et dormir de neuf heures du soir à sept heures du matin, c\'est trop, monsieur Patterson, ajouta Axel Wickborn.
+
+--- Et vous reviendrez en Europe gras comme un moine, monsieur Patterson, déclara Tony Renault, en arrondissant les bras autour de son ventre.
+
+--- N\'ayez la moindre crainte à ce sujet, répliqua le mentor. Je saurai toujours me tenir dans les limites convenables entre la maigreur et l\'obésité.
+
+--- Monsieur Patterson, vous connaissez le dicton qui nous vient des sages de l\'antiquité ? » reprit Louis Clodion.
+
+Et il commença les premiers vers de ce distique de l\'école de Salerne : « Sex horas dormire, sat est\...
+
+--- Juveni senique\... Continua Hubert Perkins.
+
+--- Septem pigro\... Poursuivit John Howard.
+
+--- Nulli concedimus octo ! » Acheva Roger Hinsdale.
+
+Si M. Horatio Patterson fut flatté d\'entendre cette citation latine sortir successivement de la bouche des lauréats, inutile d\'insister à cet égard. Mais enfin, il avait bonne envie de dormir, et il répondit :
+
+« Restez, si cela vous plaît, à respirer l\'air du soir sur la dunette\... Mais moi\... Je serai ce piger\... Je serai même ce nullus, et je vais me coucher\...
+
+--- Bonne nuit, monsieur Patterson ! »
+
+Le mentor redescendit sur le pont et rentra dans sa cabine. Une fois allongé sur son cadre, le hublot ouvert afin d\'obtenir plus de fraîcheur, il s\'endormit du sommeil des justes, après que ces mots se furent échappés de sa bouche :
+
+« Rosam\... Letorum\... Angelum ! »
+
+Louis Clodion et ses camarades demeurèrent une heure encore en plein air. Ils causèrent du voyage aux Antilles, rappelant telle ou telle circonstance qui les avait frappés, songeant, au retour dans leurs familles, à cette joie de raconter tout ce qu\'ils avaient fait, tout ce qu\'ils avaient vu depuis leur départ.
+
+De même que Harry Markel avait hissé son feu blanc à l\'étai de misaine, de même le capitaine du navire inconnu avait hissé le sien à l\'avant.
+
+C\'est prudent par ces nuits obscures, alors que courants et contre-courants peuvent occasionner des collisions.
+
+De la dunette on voyait osciller le fanal de ce bâtiment qui, sans changer de place, se balançait sous l\'action d\'une longue houle.
+
+Tony Renault se promettait bien, cette fois, de ne point dépasser les sex hora recommandées par l\'école de Salerne. Avant cinq heures du matin, il aurait quitté sa cabine, il serait sur la dunette. Et, si ce navire se trouvait encore par le travers de l\'Alert, on hisserait le pavillon pour lui demander sa nationalité.
+
+Enfin, vers dix heures, tous les passagers étaient endormis, sauf Will Mitz, qui se promenait sur le pont.
+
+Mille pensées agitaient l\'esprit du jeune marin. Il songeait à la Barbade\... Où il ne reviendrait pas avant trois ou quatre ans\... À sa mère qu\'il serait si longtemps sans revoir\... À son embarquement sur l\'Elisa Warden\... À la position qu\'il allait y occuper\... À ce voyage qui le conduirait à travers des mers nouvelles pour lui\...
+
+Puis il songeait à l\'Alert, sur lequel il avait pris passage\... À ces jeunes garçons pour lesquels il éprouvait tant de sympathie\... Tony Renault et Magnus Anders l\'intéressait surtout par leur goût pour la navigation.
+
+Puis, c\'était l\'équipage de l\'Alert, ce capitaine Paxton, dont la personne lui inspirait une involontaire répulsion, ces marins, si peu enclins à l\'accueillir ! Jamais il ne se les fût imaginés tels, et reviendrait-il de cette défavorable impression ?
+
+Tout à ses préoccupations, Will Mitz allait du gaillard d\'avant à la dunette. Quelques-uns des matelots étaient étendus le long des bastingages, les uns dormant, les autres causant à voix basse.
+
+Harry Markel, voyant qu\'il n\'y avait rien à faire cette nuit, était rentré dans sa cabine, après avoir donné l\'ordre qu\'on le prévint, si le vent fraîchissait. John Carpenter et Wagah, postés sur la dunette, regardaient le feu du trois-mâts dont l\'éclat faiblissait. Une légère brume commençait à se lever. La lune étant nouvelle, les étoiles s\'éteignant peu à peu derrière les vapeurs, il régnait une profonde obscurité.
+
+Il arriva donc que le navire voisin de l\'Alert ne fut bientôt plus visible. Mais il était là\... Si des cris se faisaient entendre, il mettrait ses embarcations à la mer et peut-être recueillerait-il quelques-unes des victimes ?
+
+Ce bâtiment devait compter vingt-cinq ou trente hommes d\'équipage\... Comment soutenir la lutte s\'il l\'engageait ? Dans ces conditions, Harry Markel avait raison d\'attendre\... Et il l\'avait dit : ce qui ne se ferait pas cette nuit se ferait l\'autre\... À mesure que l\'Alert s\'éloignerait des Antilles dans la direction du sud-est, les rencontres de bâtiments seraient plus rares\... Il est vrai, au jour, si les alizés reprenaient, Harry Markel devrait virer et courir une bordée au nord-ouest, ou cela aurait paru par trop suspect à Will Mitz\...
+
+Tandis que John Carpenter et Wagah s\'entretenaient ainsi sur la dunette, deux des hommes causaient à bâbord, près du gaillard d\'avant.
+
+C\'étaient Corty et Ranyah Cogh. On les voyait souvent ensemble, car Corty rôdait toujours autour de la cuisine pour attraper quelque bon morceau que le cuisinier lui tenait en réserve.
+
+Et voici ce qu\'ils disaient, -- ce que d\'ailleurs devaient se dire leurs compagnons, auxquels il tardait tant d\'être enfin maîtres de l\'Alert :
+
+« Décidemment, Harry y met trop de prudence, Corty\...
+
+--- Peut-être, Cogh, et peut-être n\'a-t-il pas tort !
+
+Si l\'on était sûr de les surprendre dans leurs cabines pendant qu\'ils sont endormis, on les expédierait sans qu\'ils aient eu le temps de pousser un cri\...
+
+--- Un coup de coutelas à la gorge, cela vous gêne un peu pour appeler au secours\...
+
+--- Sans doute, Ranyah, mais il est possible qu\'ils essaient de se défendre ! Et ce maudit bâtiment ne s\'est-il pas rapproché au milieu de la brume ? Que l\'un de ces garçons se jette à la mer et parvienne à gagner le navire, le capitaine aura vite fait d\'envoyer une vingtaine d\'hommes à bord de l\'Alert ! Nous ne serons pas en nombre pour résister et c\'est à fond de cale qu\'on nous reconduira aux Antilles, puis de là en Angleterre ! Cette fois, les policemen sauront bien nous garder en prison\... Et tu sais ce qui nous attend, Ranyah !
+
+--- Le diable s\'en mêle, Corty ! Après tant de bonnes chances, cette mauvaise qui amène ce navire sur notre route ! Et ce calme qui survient ! Et quand je pense qu\'il ne faudrait qu\'une heure de bonne brise pour nous déhaler à cinq ou six milles\...
+
+--- Ça viendra peut-être avant le jour, répliqua Corty. Par exemple, prenons garde à ce Will Mitz, qui ne me paraît point homme à se laisser surprendre\...
+
+--- Je lui ferai son affaire, déclara Ranyah Cogh, dans sa cabine ou sur le pont, n\'importe où il sera ! Un bon coup entre les deux épaules ! Il n\'aura même pas le temps de se retourner, et, aussitôt, par-dessus le bord\... -- N\'était-il pas tout à l\'heure à se promener sur le pont ? demanda Corty.
+
+--- En effet, répondit Cogh, et je ne le vois plus\... À moins qu\'il ne soit sur la dunette\...
+
+--- Non, Ranyah\... Il n\'y a que John Carpenter et le steward, et voici même qu\'ils en descendent\...
+
+--- Alors, répondit Ranyah Cogh, Will Mitz sera rentré dans le carré\... Si ce satané navire n\'était pas là, ce serait le moment\... Et, en quelques minutes, plus un seul passager à bord\...
+
+--- Puisqu\'il n\'y a rien à faire, conclut Corty, allons dormir. »
+
+Ils regagnèrent le poste, tandis que deux hommes restaient de quart à l\'avant.
+
+Will Mitz, blotti sous le gaillard où il ne pouvait être aperçu, avait entendu cette conversation. À présent il savait tout\... Il savait entre quelles mains était tombé le navire\... Il savait que le capitaine était Harry Markel\... Il savait que ces misérables voulaient jeter les passagers à la mer\... Et cet abominable forfait eût été accompli déjà sans la présence du bâtiment que le calme retenait à proximité de l\'Alert !
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9 -- Will Mitz]{lang="X-NONE"}]{#_Toc342942297e9 .pcalibre2 .pcalibre1} {#chapitre-9-will-mitz .calibre171 .sigil_not_in_toc}
+
+Un peu après onze heures, pendant cette nuit du 22 au 23 septembre, une embarcation errait, au milieu des brumes, à la surface de la mer. À peine se balançait-elle au gré d\'une houle molle que ne troublait aucun souffle. Deux avirons la poussaient sans bruit dans la direction du nord-est, -- à l\'estime du moins, car l\'étoile polaire, cachée derrière les vapeurs à demi condensées du brouillard, ne se voyait pas.
+
+L\'homme qui tenait la barre devait regretter que le temps n\'eût pas tourné à l\'orage. Si quelque éclair eût sillonné l\'espace, il aurait pu aller directement à son but, au lieu de se diriger en aveugle. Avant que la mer se fût grossie sous les rafales, il eût franchi la faible distance qui le séparait de ce but et assuré le salut commun.
+
+Cette embarcation contenait onze personnes : deux hommes et neuf jeunes garçons, dont les plus âgés s\'étaient mis aux avirons. L\'un des hommes, se relevant parfois, essayant de glisser son regard à travers quelque déchirure des brumes, prêtait l\'oreille\...
+
+C\'était le grand canot de l\'Alert qui emportait les fugitifs. C\'étaient Louis Clodion et Axel Wickborn qui nageaient à l\'avant. C\'était Will Mitz qui gouvernait, cherchant vainement sa route au milieu de cette obscurité que les buées chaudes de la nuit rendaient plus épaisse encore.
+
+Ils avaient perdu de vue l\'Alert depuis un quart d\'heure et ils n\'apercevaient pas le feu blanc du trois-mâts dont la distance ne devait pas dépasser un demi-mille, le calme ayant dû le maintenir à la même place.
+
+Voici comment les choses s\'étaient passées.
+
+À la suite de la conversation surprise entre Corty et Ranyah Cogh, Will Mitz s\'était glissé hors du gaillard sans être aperçu et avait regagné le carré de la dunette.
+
+Là, il y resta quelques minutes à se rendre compte de ce que commandaient les circonstances avant d\'agir.
+
+Aucun doute : le capitaine Paxton et son équipage avaient été massacrés à bord de l\'Alert, et, lorsque les passagers arrivèrent, le navire se trouvait déjà aux mains d\'Harry Markel et de ses complices.
+
+Quant à ces malfaiteurs, Will Mitz n\'ignorait pas ce que les journaux des Antilles avaient raconté sur les pirates de l\'Halifax, leur arrestation, puis leur évasion de la prison de Queenstown, en Irlande, -- évasion dont la date coïncidait avec celle du départ de l\'Alert. Après s\'être emparés du navire au mouillage de l\'anse Farmar, le défaut de vent avait dû les empêcher d\'appareiller\... Le lendemain, embarquement de M. Patterson et des pensionnaires d\'Antilian School\... Quant à la raison pour laquelle Harry Markel ne s\'était pas débarrassé d\'eux comme il avait fait du capitaine Paxton et de son équipage, pourquoi il n\'avait pas exécuté ses projets pendant la traversée de l\'Angleterre aux Antilles, Will Mitz ne savait se l\'expliquer.
+
+Mais l\'heure n\'était point à ces explications. Si les passagers ne parvenaient pas à quitter l\'Alert, ils étaient perdus. Que le vent vint à se lever, les deux bâtiments s\'éloigneraient l\'un de l\'autre, et le massacre s\'accomplirait\... Si ce n\'était pas cette nuit, ce serait la nuit prochaine, ou même le jour venu, à la condition que la mer fût déserte\... Quoiqu\'averti, Will Mitz ne pourrait organiser une défense sérieuse.
+
+Or, puisqu\'une circonstance providentielle -- on a droit de le dire -- retardait la perpétration du crime, il fallait en profiter et chercher le salut là où il était.
+
+Donc, nécessité de partir, et de partir sans donner l\'éveil.
+
+Harry Markel s\'était retiré dans sa cabine. John Carpenter et Wagah venaient de regagner le poste où les autres dormaient déjà. Il n\'y avait plus à l\'avant que le matelot de quart qui ne devait pas faire bonne surveillance. Et, d\'abord, pour rejoindre le navire encalminé, il y avait une embarcation, le grand canot, qui, après la pêche, était resté à la traîne par ordre d\'Harry Markel.
+
+Homme de courage et de résolution, Will Mitz s\'était décidé à tout tenter pour sauver ses compagnons, en même temps qu\'il assurerait son propre salut.
+
+Les pirates de l\'Halifax à bord de l\'Alert ! Ainsi s\'expliquait cette antipathie que lui inspira dès le premier abord le prétendu capitaine Paxton, et cette répulsion qu\'il éprouvait en présence de l\'équipage, et la réserve farouche que ces hommes, chargés de crimes, gardaient vis-à-vis de lui !
+
+Il n\'y avait pas un instant à perdre pour profiter des circonstances favorables.
+
+Personne n\'ignore avec quelle rapidité le temps change dans ces parages des Tropiques\... Une légère brise suffirait à éloigner l\'Alert\... On n\'avait serré ni les huniers, ni la misaine, ni la brigantine, que gonfleraient les premiers souffles du vent\... Au même moment, l\'autre bâtiment s\'éloignerait en direction contraire, et il n\'y aurait plus chance de le rencontrer, -- chance déjà si incertaine au milieu de ces brumes qui ne permettaient pas de l\'apercevoir !
+
+Ce qu\'il y avait d\'abord à faire, c\'était de réveiller les passagers l\'un après l\'autre, de les prévenir en quelques mots, puis de les embarquer dans le canot par l\'arrière du carré, sans attirer l\'attention du matelot de quart. Avant tout, Will Mitz voulut s\'assurer si Harry Markel était toujours dans sa cabine, qui occupait un des angles de la dunette, à l\'entrée.
+
+Le bruit aurait pu l\'éveiller, et, à moins de le mettre hors d\'état d\'appeler, la fuite serait compromise.
+
+Will Mitz se glissa près de la porte de la cabine, il appuya son oreille contre le vantail, il écouta quelques instants.
+
+Harry Markel, sachant qu\'il n\'y aurait rien à faire cette nuit, dormait d\'un profond sommeil.
+
+Will Mitz revint au fond du carré et, sans allumer la lampe suspendue au plafond, il ouvrit une des deux fenêtres percées dans le tableau d\'arrière, à six pieds environ au-dessus de la ligne de flottaison.
+
+Cette fenêtre serait-elle assez large pour que les passagers pussent descendre dans le canot ?
+
+De jeunes garçons, oui ! Mais des hommes un peu forts, non\... Heureusement, M. Patterson n\'était point corpulent. Les épreuves de la traversée l\'avaient plutôt amaigri, en dépit des banquets dont il prenait si copieusement sa part aux diverses réceptions en l\'honneur des pensionnaires d\'Antilian School.
+
+Quant à lui, Will Mitz, élancé, agile, souple, il saurait bien se glisser par cette fenêtre.
+
+La fuite étant possible, sans avoir à remonter sur la dunette, -- ce qui l\'eut rendue inexécutable peut-être, -- Will Mitz s\'occupa de réveiller ses compagnons.
+
+La première cabine, dont il ouvrit doucement la porte, fut celle de Louis Clodion et de Tony Renault.
+
+Tous deux dormaient, et Louis Clodion ne se releva qu\'au moment où il sentit une main s\'appuyer sur son épaule.
+
+« Pas un mot ! dit Will Mitz. C\'est moi\...
+
+--- Que voulez-vous ?
+
+--- Pas un mot, vous dis-je ! Nous courons les plus grands dangers ! » Une phrase suffit à expliquer la situation. Louis Clodion, qui en comprit la gravité, eut la force de se contenir.
+
+« Éveillez votre camarade, ajouta Will Mitz. Moi\... Je vais prévenir les autres\...
+
+--- Et comment fuir ? demanda Louis Clodion.
+
+--- Dans le canot\... Il est à l\'arrière au bout de son amarre\... Il nous conduira au navire qui ne doit pas être éloigné ! »
+
+Louis Clodion n\'en demanda pas davantage, et, tandis que Will Mitz sortait de sa cabine, il réveilla Tony Renault qui sauta hors de son cadre, dès qu\'il eut été mis au courant.
+
+En quelques minutes, tous les jeunes lauréats furent sur pied. Quant à M. Patterson, il ne serait prévenu qu\'au dernier moment. On l\'entraînerait, on l\'affalerait dans l\'embarcation, sans même lui donner le temps de comprendre.
+
+Il convient de le dire à l\'éloge d\'Antilian School, pas un de ses pensionnaires ne se montra faible devant le danger. Il ne leur échappa ni une plainte, ni un cri d\'effroi, qui auraient compromis cette évasion tentée dans des conditions si difficiles.
+
+Toutefois, Niels Harboe fit cette proposition, qui témoignait d\'une âme énergique :
+
+« Je ne m\'en irai pas sans avoir arraché la vie à ce misérable ! » Et il se dirigeait vers la cabine d\'Harry Markel.
+
+Will Mitz l\'arrêta :
+
+« Vous n\'en ferez, rien, monsieur Harboe\... Dit-il. Harry Markel pourrait se réveiller au moment où vous entreriez dans sa cabine, puis appeler, puis se défendre, et nous serions bientôt accablés !
+
+Embarquons sans bruit\... Une fois à bord du navire, je ne doute pas que son commandant ne veuille s\'emparer de l\'Alert et des bandits qui en sont les maîtres ! »
+
+C\'était le seul parti à prendre.
+
+« Et M. Patterson ? Observa Roger Hinsdale.
+
+--- Embarquez d\'abord, répondit Will Mitz, et, lorsque vous serez installés, nous le ferons descendre. »
+
+Alors Louis Clodion et ses camarades de revêtir quelques vêtements plus chauds. Des vivres, il n\'en fut pas question, puisqu\'il ne s\'agissait que de rejoindre le navire à un demi-mille. Dût même le canot attendre le lever de la brume ou le lever du jour, on l\'apercevrait. Et, fussent-ils alors vus de l\'équipage de l\'Alert, les fugitifs seraient recueillis avant qu\'Harry Markel et ses hommes eussent pu se mettre à leur poursuite.
+
+Ce qu\'il y avait surtout à craindre, c\'était la reprise du vent. En ce cas, le bâtiment eût fait route vers l\'ouest, tandis que l\'Alert aurait marché vers l\'est. Dans ce cas, le jour venu, l\'embarcation serait exposée à tous les dangers, sans eau et sans vivres, sur cette mer déserte.
+
+Cependant Hubert Perkins recommanda à chacun d\'emporter son petit sac aux guinées. Si, à l\'aube, l\'Alert avait disparu, cette somme de sept mille livres qui aurait échappé à la bande servirait au rapatriement des fugitifs. Le moment était venu.
+
+Louis Clodion alla se poster contre la cabine et s\'assura que rien n\'avait troublé le sommeil d\'Harry Markel.
+
+En même temps, par la porte ouverte de la dunette, il observait le matelot de quart sur le gaillard d\'avant.
+
+Will Mitz, se penchant en dehors de l\'une des fenêtres du carré, saisit l\'amarre et attira le canot sous la voûte d\'arrière.
+
+La brume paraissait s\'être encore épaissie. À peine distinguait-on l\'embarcation. On n\'entendait que le petit clapotis léchant le doublage de l\'Alert.
+
+Un à un, et sans trop de peine, les jeunes garçons se laissèrent glisser le long de l\'amarre que tenait Will Mitz, John Howard et Axel Wickborn les premiers, Hubert Perkins et Niels Harboe les deuxièmes, Magnus Anders et Tony Renault les troisièmes, Albertus Leuwen et Roger Hinsdale les quatrièmes. Il ne restait plus dans le carré que Louis Clodion et Will Mitz.
+
+Will Mitz allait ouvrir la porte de la cabine de M. Patterson, lorsque Louis Clodion l\'arrêta.
+
+« Prenons garde\... Murmura-t-il. Voici l\'homme de quart qui vient\... -- Attendons, dit Will Mitz.
+
+--- Il a un fanal à la main\... reprit Louis Clodion.
+
+--- Poussez la porte, et il ne pourra rien voir à l\'intérieur du carré. »
+
+Le matelot se trouvait déjà entre le grand mât et le mât de misaine. S\'il montait sur la dunette, la brume serait sans doute assez forte pour lui dérober l\'embarcation déjà chargée et prête à larguer son amarre.
+
+Mais, aux mouvements désordonnés du fanal, Will Mitz reconnut que le porteur ne tenait guère sur ses jambes. Assurément, après s\'être procuré une bouteille de brandy ou de gin, cet homme avait bu outre mesure.
+
+Puis, ayant peut-être entendu quelque bruit à l\'arrière, il s\'était machinalement dirigé de ce côté. Vraisemblablement, tout étant tranquille, il reviendrait prendre sa place sur le gaillard d\'avant.
+
+C\'est ce qui arriva et, dès que l\'ivrogne eut rebroussé chemin, Louis Clodion et Will Mitz s\'occupèrent de M. Patterson.
+
+Le mentor dormait d\'un profond sommeil et de sonores ronflements emplissaient sa cabine. Peut-être même était-ce ce bruit qui avait attiré l\'attention du matelot de quart.
+
+Il fallait se hâter. Les passagers, déjà embarqués, étaient dévorés à la fois d\'inquiétude et d\'impatience. À chaque instant, ils s\'imaginaient surprendre quelque cri, voir les matelots apparaître sur la dunette ! Et comment démarrer tant que M. Patterson, Louis Clodion, Will Mitz ne seraient pas avec eux ? Et si Harry Markel, réveillé, appelait ; si John Carpenter, Corty, venaient à son appel, ils étaient perdus ! La présence du bâtiment n\'aurait pas empêché le massacre de s\'accomplir !
+
+Louis Clodion entra dans la cabine de M. Patterson et lui toucha légèrement l\'épaule. Les ronflements cessèrent aussitôt, et ces mots s\'échappèrent des lèvres du dormeur :
+
+« Madame Patterson\... Trigonocéphale\... Angelum\... À bientôt le mariage\... »
+
+Et de quoi rêvait le digne homme\... Du serpent\... De la citation latine et aussi de mariage ! Quel mariage ?
+
+Comme il ne se réveillait pas, Louis Clodion le secoua plus vivement, après lui avoir mis la main sur la bouche pour l\'empêcher de crier, en cas qu\'il se revît aux prises avec le terrible serpent dans les forêts de la Martinique.
+
+M. Patterson se releva cette fois, en reconnaissant la voix de celui qui lui parlait.
+
+« Louis\... Louis Clodion ? » répétait-il, ne comprenant guère ce qu\'on lui disait du capitaine Paxton qui n\'était pas le capitaine Paxton, de l\'Alert tombé au pouvoir de Harry Markel, de la nécessité de rejoindre les passagers qui l\'attendaient dans l\'embarcation\...
+
+Mais, ce qui ne lui échappa point, c\'est que la vie de ses jeunes compagnons, la sienne, étaient menacées, s\'ils restaient à bord de l\'Alert\... C\'est que tout était préparé en vue d\'une fuite immédiate, et qu\'on n\'attendait plus que lui pour chercher refuge sur le navire signalé\...
+
+M. Patterson, sans plus demander, s\'habilla avec autant de sang-froid que de rapidité. Il revêtit son pantalon dont il mit soin de retrousser les jambes, il passa son gilet dans le gousset duquel fut glissée sa montre, il endossa sa longue redingote, il se coiffa de son chapeau noir, et répondit à Will Mitz qui le pressait :
+
+« Quand vous voudrez, mon ami\... »
+
+Peut-être, en apercevant le reptile qu\'il fallait abandonner, M. Patterson eut-il gros coeur ; mais il ne désespérait pas de le revoir à cette place, lorsque l\'Alert, repris à Harry Markel, serait ramené au port le plus rapproché de l\'Antilie.
+
+Restait la question de s\'introduire à travers l\'étroite fenêtre de l\'arrière, de saisir l\'amarre, et de s\'affaler dans le canot, sans faire ni un faux mouvement ni le moindre bruit.
+
+Au moment où il sortait de sa cabine, la pensée vint à M. Patterson d\'emporter la sacoche qui contenait les sept cents livres de Mrs Kethlen Seymour ainsi que le carnet sur lequel il inscrivait les dépenses du voyage, et qui trouvèrent place dans les vastes poches de la redingote.
+
+« Qui aurait jamais cru cela de ce capitaine Paxton ! » se-répétait-il.
+
+Le capitaine Paxton et Harry Markel s\'identifiaient encore dans sa pensée, et il n\'était pas parvenu à dédoubler ces deux êtres qui se ressemblaient si peu !
+
+Il ne fallait pas compter sur la souplesse ou l\'adresse du mentor. On dut l\'aider tandis qu\'il glissait le long de l\'amarre. Toute la crainte de Will Mitz était qu\'il ne vint à tomber lourdement au fond du canot, ce qui aurait pu éveiller l\'attention du matelot de quart, si gris qu\'il fût\...
+
+Enfin M. Patterson atteignit du pied l\'un des bancs, et Axel Wickborn le soutint par le bras, pour l\'aider à gagner l\'arrière.
+
+Ce fut alors le tour de Louis Clodion, qui s\'assura une dernière fois que le sommeil d\'Harry Markel n\'avait point été interrompu, et que tout était tranquille à bord.
+
+Après lui, Will Mitz franchit la fenêtre, et s\'affala en un instant. Pour ne point perdre de temps à défaire le noeud de l\'amarre, il prit son couteau et la coupa, laissant un bout de quatre à cinq pieds pendre du haut du couronnement.
+
+L\'embarcation s\'éloigna de l\'Alert.
+
+Will Mitz et ses compagnons parviendraient-ils à se réfugier à bord du navire ? Le retrouveraient-ils au milieu de cette brumeuse obscurité, avant que le soleil eût reparu sur l\'horizon ? Serait-il là, d\'ailleurs, et la brise n\'allait-elle pas se lever, qui lui permettrait de faire route ?
+
+En tout cas, si les passagers échappaient au sort que leur réservaient Harry Markel et ses complices, ce serait à Will Mitz qu\'ils le devraient, et aussi à Mrs Kethlen Seymour, qui lui avait obtenu passage sur l\'Alert !
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- Au milieu des brumes]{lang="X-NONE"}]{#_Toc342942297e10 .pcalibre2 .pcalibre1} {#chapitre-10-au-milieu-des-brumes .calibre171 .sigil_not_in_toc}
+
+Il était onze heures et demie.
+
+Si l\'obscurité n\'eût pas été si complète, la brume si épaisse, on aurait pu voir, à la distance d\'un mille ou deux, le feu du bâtiment hissé à l\'étai du mât de misaine.
+
+Rien n\'apparaissait, ni la masse d\'un bâtiment, ni la clarté d\'un fanal. Ce que Will Mitz savait, c\'est que le navire, alors qu\'il cessa de faire route, se trouvait dans le nord. L\'embarcation se dirigea donc de ce côté, assurée, du moins, de s\'éloigner de l\'Alert.
+
+Le brouillard, joint à la nuit, rendait la fuite plus difficile. Toutefois, faute de vent, sur une mer unie comme une glace, le bâtiment aurait été atteint en une heure, si Will Mitz n\'eût marché pour ainsi dire à l\'aventure !
+
+Et, à présent, les fugitifs pouvaient reconstituer, dès son début, ce drame dont le dénouement ne se fût pas fait attendre !
+
+« Ainsi, dit Hubert Perkins, ce sont les pirates de l\'Halifax qui se sont emparés de l\'Alert !
+
+--- Et tandis qu\'on les cherchait dans le quartier du port, ajouta Niels Harboe, ils parvenaient à gagner l\'anse Farmar !
+
+--- Mais, fit observer Albertus Leuwen, ils savaient donc que l\'Alert était en partance, n\'ayant à bord que son capitaine et son équipage\...
+
+--- Sans doute, répondit Roger Hinsdale. Les journaux avaient annoncé ce départ pour le 30 juin, et c\'est précisément la veille qu\'ils se sont échappés de la prison de Queenstown\... Ils ont risqué le tout pour le tout, et cela leur a réussi !
+
+--- Et, dit Axel Wickborn, c\'est dans la nuit qui a précédé notre embarquement, que le malheureux capitaine Paxton et son équipage ont été surpris, massacrés, jetés à la mer\...
+
+--- Oui, ajouta John Howard, et c\'est bien le corps de l\'un d\'eux que le courant a porté sur la grève où il a été retrouvé, ainsi qu\'on en a été avisé à la Barbade\...
+
+--- Et rappelez-vous l\'audace de ce Markel ! s\'écria Tony Renault. N\'a-t-il pas déclaré à l\'officier de l\'Essex qu\'il avait perdu un de ses hommes dans la baie\... Et n\'a-t-il pas même ajouté que si ce pauvre Bob avait reçu un coup de poignard, c\'étaient probablement les bandits de l\'Halifax qui l\'avaient frappé ! Le misérable ! Puisse-t-il être repris\... Jugé\... Condamné\... Pendu\... Et les siens avec lui ! »
+
+Ces quelques propos échangés, tandis que le canot gagnait vers le nord, montrent que les passagers de l\'Alert n\'ignoraient plus rien des circonstances dans lesquelles le massacre du capitaine Paxton et de son équipage s\'était accompli. Lorsqu\'ils arrivèrent à bord, Harry Markel et ses bandits étaient déjà maîtres du navire.
+
+Alors, Hubert Perkins posa cette question :
+
+« Pourquoi, sans attendre notre arrivée, l\'Alert n\'a-t-il pas pris la mer ?
+
+--- Faute de vent, répondit Louis Clodion. Tu te rappelles bien, Hubert, depuis deux jours le temps était aussi calme qu\'il l\'est aujourd\'hui\... Pendant notre traversée de Bristol à Cork, nous n\'avons pas eu un souffle de brise\... Évidemment, son coup fait, Markel espérait mettre à la voile, mais il ne l\'a pas pu\...
+
+--- Aussi, affirma Roger Hinsdale, ce misérable s\'est-il décidé à jouer son rôle\... Il est devenu le capitaine Paxton, et les autres sont devenus les matelots de l\'Alert\...
+
+--- Et dire que, depuis bientôt deux mois, s\'écria Tony Renault, nous vivons dans la société de ces coquins\... Des pillards, des assassins, et qu\'ils ont été assez habiles pour faire figure d\'honnêtes gens\...
+
+--- Oh ! fit Albertus Leuwen, ils ne nous ont jamais inspiré aucune sympathie\...
+
+--- Pas même ce Corty, qui affectait tant de bonnes intentions à notre égard ! Déclara Axel Wickborn.
+
+--- Et encore moins Harry Markel, qui ne nous donnait pas une bonne idée du capitaine Paxton ! » ajouta Hubert Perkins.
+
+Will Mitz les écoutait. Ils n\'avaient plus rien à s\'apprendre ni les uns ni les autres. Et ils se souvenaient, non sans honte et sans colère, des éloges qu\'ils avaient faits du capitaine et de son équipage, des remerciements dont on avait comblé ces malfaiteurs, de la prime que Mrs Kethlen Seymour avait accordée à cette bande de meurtriers\...
+
+Et, ces éloges, n\'était-ce pas M. Patterson qui s\'en était montré le plus prodigue dans les termes excessifs que lui suggérait son emphase habituelle !
+
+Mais, à cette heure, le mentor ne songeait guère à revenir sur le passé, ni à ce qu\'il avait pu dire en l\'honneur du capitaine. Assis au fond du canot, entendant à peine les observations échangées autour de lui, s\'il avait songé à quelqu\'un, c\'eût été sans doute à Mrs Patterson\...
+
+En réalité, il ne songeait à rien.
+
+Alors une dernière question fut faite, à laquelle on répondit d\'une façon assez plausible, qui était juste, d\'ailleurs.
+
+Pourquoi, après avoir reçu à bord les pensionnaires d\'Antilian School, Henry Markel ne s\'était-il pas débarrassé d\'eux dès le début de la traversée afin de rallier les mers du sud ?
+
+À cette question, Louis Clodion fit la réponse suivante :
+
+« Je crois bien que ce Markel avait l\'intention de se défaire de nous dès que l\'Alert aurait été en pleine mer.
+
+Mais, faute de vent, forcé de rester sous la côte, il aura appris que chaque passager devait toucher une prime à la Barbade, et, avec une incroyable audace, il a conduit l\'Alert aux Antilles\...
+
+--- Oui, dit Will Mitz, oui\... Ce doit être la raison, et c\'est le désir de s\'approprier cet argent qui vous a sauvé la vie, mes jeunes messieurs\... En admettant qu\'elle soit sauvée », murmura-t-il, car la situation s\'aggravait sans qu\'il voulût rien laisser paraître de ses inquiétudes.
+
+En effet, depuis près d\'une heure, l\'embarcation errait au milieu des brumes. Elle n\'avait pas rencontré le navire, bien qu\'elle eût marché dans sa direction relevée la veille.
+
+Mais Will Mitz, n\'ayant pas de boussole, n\'avait pas même pu se guider sur les étoiles, et plus de temps s\'était écoulé qu\'il ne lui en aurait fallu pour accoster le bâtiment. Or, s\'il avait été dépassé, que faire ? Revenir vers l\'est ou vers l\'ouest ? Ne serait-ce pas courir le risque de se retrouver dans les eaux de l\'Alert ? Ne valait-il pas mieux attendre au large que le brouillard se fût dissipé, et, peut-être, serait-ce au lever du soleil, c\'est-à-dire dans quatre ou cinq heures ? Le canot rejoindrait alors le navire, et, en admettant que les fugitifs fussent aperçus de l\'Alert, Harry Markel n\'oserait pas les poursuivre. La situation deviendrait très mauvaise pour ses compagnons et lui\...
+
+Il est vrai, d\'ici là, qui sait si un peu de brise n\'aurait pas permis à l\'Alert de s\'éloigner vers le sud-est ? Aussi Will Mitz comprenait-il à présent pourquoi Harry Markel avait mis le cap en cette direction. Par malheur, l\'autre bâtiment aurait eu toute facilité pour continuer sa route en sens inverse, et, au lever du jour, il ne serait plus en vue.
+
+Que deviendrait alors l\'embarcation avec les onze passagers qu\'elle portait à la merci du vent et de la mer ?
+
+En tout cas, Will Mitz manoeuvra de manière à rester, autant que possible, à longue distance de l\'Alert.
+
+Une heure après minuit, rien de nouveau. Une vive inquiétude commençait à se manifester chez quelques-uns des fugitifs. Pleins d\'espoir en partant, ils se disaient qu\'une demi-heure après ils seraient en sûreté. Or, depuis deux heures déjà, ils couraient à la recherche du bâtiment au milieu de cette profonde nuit.
+
+Louis Clodion et Roger Hinsdale, montrant une grande énergie, réconfortaient leurs camarades, lorsque quelque plainte, quoique défaillance, se faisaient sentir ou entendre, à défaut de M. Patterson, qui ne semblait plus avoir conscience de rien.
+
+Will Mitz les secondait :
+
+« Ayez bon espoir, mes jeunes messieurs, répétait-il. La brise ne s\'est point levée, et le navire doit être là\... Lorsque ces brumes se dissiperont avec le jour, nous l\'apercevrons alors que notre embarcation sera loin de l\'Alert, et il suffira de quelques coups d\'avirons pour être à bord ! »
+
+Cependant Will Mitz était extrêmement anxieux, bien qu\'il n\'en voulût rien laisser paraître, en songeant à une éventualité qui risquait de se produire. N\'était-il pas à craindre qu\'un de ces bandits eût découvert la fuite des passagers, que Harry Markel sût maintenant à quoi s\'en tenir, qu\'il se fût embarqué dans le second canot avec quelques-uns de ses hommes ?
+
+Cela était possible, après tout. Ce misérable n\'avait-il pas un intérêt majeur à reprendre les fugitifs, puisque les calmes empêchaient l\'Alert de quitter ces parages ?
+
+Et même, la brise lui eut-elle permis d\'éventer ses voiles, ne courait-il pas le danger d\'être poursuivi par ce navire, plus rapide et assurément plus fort que le sien et dont le capitaine serait au courant de la situation ?
+
+Aussi Will Mitz tendait-il l\'oreille aux moindres bruits qui se propageaient à la surface de la mer. Parfois il croyait entendre un va-et-vient d\'avirons à faible distance, ce qui eût indiqué que l\'embarcation de l\'Alert était à leur poursuite.
+
+Alors, il recommandait de ne plus nager. Le canot, immobile, n\'obéissait qu\'aux lentes oscillations de la houle. Tous écoutaient en silence, avec la crainte que la voix de John Carpenter ou de tout autre sortit des brumes\... Une heure s\'écoula encore. Louis Clodion et ses camarades se relayaient aux avirons, uniquement pour se maintenir sur place. Will Mitz ne voulait pas s\'éloigner davantage, ne sachant quelle direction suivre. D\'ailleurs, au moment où le soleil reparaîtrait, il importait de ne pas être à une trop grande distance du navire, soit pour lui faire des signaux, soit pour essayer de le rejoindre, s\'il se remettait en route.
+
+À cette époque de l\'équinoxe, dans la seconde moitié du mois de septembre, le jour n\'apparaît guère avant six heures du matin. Il est vrai, dès cinq heures, si le brouillard se dissipait, un bâtiment serait assurément visible dans un rayon de trois à quatre milles.
+
+Aussi, ce que Will Mitz devait désirer, ce dont il parlait avec Roger Hinsdale et Louis Clodion, avec Tony Renault, qui ne se laissait pas abattre, c\'était que la brume vint à s\'enlever avant l\'aube.
+
+« Non point sous l\'action de la brise, ajoutait-il, car, si l\'Alert s\'éloignait, l\'autre navire s\'éloignerait également, et nous n\'aurions plus autour de nous qu\'une mer déserte ! »
+
+Or, avec ce canot non ponté, très chargé, sans la possibilité d\'y établir une voile, un canot que le moindre coup de mer mettrait en perdition, serait-il possible de rallier un port des Antilles ? Will Mitz estimait que, pendant cette première journée de navigation, l\'Alert devait s\'être déplacé d\'une soixantaine de milles dans le sud-est de la Barbade. Soixante milles, même avec une voilure, par bon vent et mer maniable, l\'embarcation eût à peine franchi cette distance en quarante-huit heures ! Et pas de provisions à bord, ni eau ni vivres ! Le jour venu, la faim et la soif ! Comment les apaiser ?
+
+Une heure plus tard, brisés de fatigue, saisis d\'un irrésistible besoin de dormir, la plupart des jeunes garçons, étendus sur les bancs, avaient succombé au sommeil. Si Louis Clodion et Roger Hinsdale résistaient encore, la nuit ne s\'achèverait pas sans qu\'ils eussent imité leurs camarades. Will Mitz resterait donc seul à veiller. Et qui sait s\'il ne se sentirait pas pris de désespoir devant tant de circonstances défavorables, tant de chances contraires ?
+
+De fait, il n\'était plus nécessaire de recourir aux avirons, si ce n\'est pour étaler le courant en attendant soit le lever du brouillard, soit le lever du jour.
+
+Toutefois, il semblait bien que quelques souffles intermittents passaient à travers les vapeurs, et, bien que le calme reprit aussitôt, certains symptômes indiquaient le retour du vent à l\'approche de l\'aube.
+
+Il était un peu plus de quatre heures, lors qu\'un choc se produisit. L\'avant du canot venait de se heurter, légèrement il est vrai, contre un obstacle, et cet obstacle ne pouvait être que la coque d\'un navire.
+
+Était-ce celui que les fugitifs cherchaient inutilement depuis de si longues heures ?
+
+Les uns s\'étaient éveillés d\'eux-mêmes, les autres avaient été réveillés par leurs camarades.
+
+Will Mitz saisit un des avirons, afin de ranger la coque du bâtiment. L\'embarcation l\'avait accosté par l\'arrière, et Will Mitz sentit les ferrures d\'un gouvernail.
+
+Le canot se trouvait donc sous la voûte du navire, et, bien que la brume fût un peu moins épaisse, il n\'avait pas dû être aperçu des hommes de quart. Soudain, la main de Will Mitz saisit un cordage qui pendait de quatre à cinq pieds en dehors du couronnement.
+
+Will Mitz reconnut ce cordage\...
+
+C\'était l\'amarre qu\'il avait coupée lui-même, en s\'éloignant, et ce navire, c\'était l\'Alert\...
+
+« L\'Alert ! » répéta-t-il avec un geste de désespoir.
+
+Ainsi, après avoir erré toute cette nuit, c\'était vers l\'Alert qu\'une mauvaise chance les avait ramenés, et ils allaient retomber entre les mains d\'Harry Markel !
+
+Tous étaient atterrés, et des larmes s\'échappaient de leurs yeux.
+
+Mais n\'était-il pas encore temps de fuir, de se lancer à la recherche du bâtiment ? Déjà, du côté de l\'est, portaient les premières lueurs\... Cinq heures approchaient\... Quelques fraîcheurs matinales se faisaient sentir\...
+
+Soudain, les vapeurs remontèrent et dégagèrent la surface de l\'océan. La vue put s\'étendre sur un rayon de trois à quatre milles\...
+
+Le navire en vue, profitant des premiers souffles, s\'éloignait dans la direction de l\'est\... Il fallait renoncer à tout espoir de se réfugier à son bord. Cependant aucun bruit ne se faisait entendre sur le pont de l\'Alert. Nul doute que Harry Markel et l\'équipage ne fussent encore plongés dans le sommeil.
+
+Le matelot de quart ne s\'était même pas aperçu du retour de la brise alors que la voilure désorientée battait contre les mâts.
+
+Eh bien, puisque les passagers n\'avaient plus à espérer d\'autre salut, il leur fallait devenir maîtres de l\'Alert !
+
+Ce coup d\'audace, Will Mitz, après l\'avoir conçu, s\'apprêtait à l\'exécuter. Ce qu\'il voulait faire, il le dit en quelques mots à voix basse. Louis Clodion, Tony Renault, Roger Hinsdale comprirent. C\'était l\'unique chance, puisque personne n\'avait vu ni partir ni revenir l\'embarcation.
+
+« Nous vous suivrons, Will Mitz\... Dit Magnus Anders.
+
+--- Quand vous voudrez », dit Louis Clodion.
+
+Le jour pointant à peine, il s\'agissait de surprendre l\'Alert avant que l\'éveil eût été donné, d\'enfermer Harry Markel dans sa cabine, et l\'équipage dans le poste. Puis, aidé des jeunes garçons, Will Mitz manoeuvrerait de manière, soit à regagner les Antilles, soit à rejoindre le premier bâtiment qui croiserait sa route.
+
+Le canot glissa sans bruit le long de la carène, et s\'arrêta à la hauteur des porte-haubans du grand-mât, à bâbord. En s\'aidant des ferrures et des capes de mouton, il serait facile d\'enjamber la lisse et de prendre pied sur le pont. Aux porte-haubans du mât d\'artimon, étant donnée la hauteur de la dunette, l\'escalade eût été plus difficile.
+
+Will Mitz monta le premier. À peine avait-il la tête au niveau du bastingage qu\'il s\'arrêta et fit signe de ne point bouger.
+
+Harry Markel venait de quitter sa cabine et observait le temps. Comme les voiles claquaient sur les mâts, il appela l\'équipage pour l\'appareillage.
+
+Les hommes dormaient, personne ne lui répondit, et il se dirigea vers le poste.
+
+Will Mitz, qui suivait ses mouvements, le vit disparaître par le capot. C\'était le moment d\'agir. Mieux valait ne point être obligé d\'enfermer Harry Markel et peut-être d\'engager une lutte dont le bruit aurait été entendu de l\'avant. Lorsque tous les hommes seraient emprisonnés dans le poste, on saurait les empêcher de sortir avant l\'arrivée aux Antilles, et, si les alizés tenaient, en trente-six heures on aurait connaissance de la Barbade.
+
+Will Mitz sauta sur le pont. Les jeunes garçons le suivirent, après avoir amarré le canot, où était resté M. Patterson, et ils rampèrent de manière à n\'être ni vus ni entendus.
+
+En quelques secondes, ils eurent atteint le capot du poste, dont la porte fut refermée extérieurement. Puis l\'épais prélart goudronné, qui le protégeait en cas de mauvais temps, fut fixé par de lourds espars sur ses bords.
+
+Et, maintenant, Harry Markel compris, tout le personnel du bord était prisonnier. Il n\'y aurait plus qu\'à surveiller ces misérables jusqu\'au moment de les livrer, soit à quelque bâtiment rencontré en route, soit au premier port des Antilles où relâcherait l\'Alert.
+
+Le jour se faisait peu à peu. Les volutes de brume remontaient dans l\'espace. L\'horizon s\'élargissait sous les premières lueurs du matin.
+
+En même temps, la brise fraîchissait légèrement, sans s\'établir à un point quelconque du compas. Les voiles, telles qu\'elles étaient orientées alors, ne pouvaient que maintenir le trois-mâts en panne.
+
+Ainsi la tentative de Will Mitz avait réussi. Ses jeunes compagnons et lui étaient maîtres de l\'Alert !
+
+Quant à ce navire à bord duquel ils comptaient chercher refuge, à cinq ou six milles déjà dans l\'est, il ne tarderait pas à disparaître.
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11 -- Maîtres à bord]{lang="X-NONE"}]{#_Toc342942297e12 .pcalibre2 .pcalibre1} {#chapitre-11-maîtres-à-bord .calibre171 .sigil_not_in_toc}
+
+Tel était le revirement dû au courage et à l\'audace de Will Mitz. Les bonnes chances semblaient être maintenant du côté des honnêtes gens, les mauvaises du côté de ces malfaiteurs. Ce dernier crime, qui devait les débarrasser des passagers et de Will Mitz la nuit prochaine, ils seraient dans l\'impuissance de le commettre.
+
+N\'étaient-ce pas eux, au contraire, dont les forfaits allaient être châtiés, qui seraient livrés à la police dès l\'arrivée de l\'Alert en un port quelconque de l\'Antilie ou de l\'Amérique, s\'ils ne parvenaient pas à s\'emparer une seconde fois du navire ? Mais y parviendraient-ils ?
+
+Sans doute, ils étaient dix enfermés dans ce poste, -- dix hommes robustes, contre lesquels Will Mitz et ses compagnons n\'eussent pas lutté avec avantage. Après avoir démoli les cloisons qui séparaient le poste de la cale, n\'arriveraient-ils pas à regagner le pont par les panneaux qui y donnaient accès ? Assurément, ils feraient tout le possible pour recouvrer la liberté\...
+
+Tout d\'abord Will Mitz remercia Dieu, le priant de leur continuer sa protection.
+
+Les jeunes gens joignirent leur prière à la sienne. Homme de foi et de piété, cet honnête marin n\'avait affaire ni à des ingrats ni à des incrédules, et une sincère effusion de reconnaissance s\'échappa de leur coeur.
+
+Quant à M. Horatio Patterson, on l\'avait aidé à remonter sur le pont, sans qu\'il fût sorti de son état d\'inconscience. Se croyant sous l\'influence d\'un mauvais rêve, il regagna sa cabine. Cinq minutes après, il dormait de plus belle.
+
+Le jour grandissait, et le soleil ne tarda pas à se lever derrière une bande d\'épais nuages qui s\'étendait du nord-est au sud-est ; Will Mitz eût préféré un horizon nettoyé de vapeurs.
+
+Il craignait que le vent ne s\'établit pas franchement de ce côté, d\'autant plus qu\'à l\'opposé, l\'état du ciel présentait des symptômes de forte brise auxquels son instinct de marin ne pouvait se tromper.
+
+Toute la question était là : si les alizés l\'emportaient, ils seraient favorables à une rapide marche de l\'Alert vers l\'ouest en direction des Antilles.
+
+Mais, avant d\'appareiller, il convenait d\'attendre que la brise se fût prononcée dans un sens ou dans l\'autre. Intermittente jusqu\'alors, elle n\'eût pas permis d\'installer la voilure.
+
+La mer ne verdissait ni au levant ni au couchant. La houle, qui n\'est qu\'un balancement des eaux, oscillait sur place, imprimant au navire un roulis assez sensible.
+
+Il importait, cependant, que la traversée se fit dans le plus court délai. La cale et la cambuse contenant des provisions pour plusieurs semaines, les passagers n\'avaient point à redouter le manque de vivres et d\'eau.
+
+Il est vrai, comment pourvoir à la nourriture des prisonniers, si des calmes ou des mauvais temps retardaient l\'Alert ? Le poste ne renfermait aucune provision\... Dès ce premier jour, Harry Markel et les autres seraient en proie à la faim et à la soif\... Faire passer à manger et boire par la porte du capot, n\'était-ce pas leur donner accès sur le pont ?
+
+Eh bien, Will Mitz aviserait si la navigation devait se prolonger. N\'était-il pas possible qu\'en vingt-quatre ou trente-six heures, l\'Alert eût d\'ailleurs franchi les quatre-vingts milles qui le séparaient des Indes Occidentales ? Un incident ne tarda pas à trancher cette question de la nourriture des prisonniers.
+
+Elle allait être assurée, dût la traversée durer plusieurs semaines.
+
+Il était environ sept heures, lorsque Will Mitz, qui faisait ses préparatifs d\'appareillage, en fut distrait par ces cris de Louis Clodion :
+
+« À moi ! À moi ! »
+
+Will Mitz accourut. De tout son poids, le jeune garçon pesait sur le grand panneau que l\'on cherchait à soulever de l\'intérieur. Harry Markel et les autres, après avoir défoncé la cloison du poste, avaient envahi la cale, et ils essayaient d\'en sortir par le grand panneau. Et, certainement, ils y fussent parvenus, si Louis Clodion n\'eût arrêté la tentative.
+
+Aussitôt Will Mitz, Roger Hinsdale, Axel Wickborn, de lui venir en aide. Le panneau fut rajusté sur les hiloires, et, les barres de fer transversales mises en place, il serait impossible de le forcer. Même précaution fut prise pour le panneau de l\'avant qui aurait pu livrer passage.
+
+Will Mitz, revenant alors près du capot, cria d\'une voix forte :
+
+« Écoutez-moi là-dedans, et faites attention à ce que je dis ! »
+
+Aucune réponse ne vint du poste.
+
+« Harry Markel, c\'est à toi que je m\'adresse. »
+
+En l\'entendant, Harry Markel comprit que son identité était établie. D\'une façon ou d\'une autre, les passagers avaient tout appris et devaient être au courant de ses projets.
+
+D\'effroyables jurons, voilà la seule réponse qu\'obtint Will Mitz. Il continua en ces termes :
+
+« Harry Markel, sache bien et que tes complices le sachent aussi\... Nous sommes armés\... Le premier de vous qui essaierait de sortir du poste, je lui casserais la tête. »
+
+Et, à partir de ce moment, après avoir pris les revolvers du râtelier de la dunette, les jeunes garçons allaient veiller jour et nuit, prêts à faire feu sur quiconque apparaîtrait hors du capot.
+
+Toutefois, si les prisonniers n\'avaient plus chance de s\'échapper, maintenant maîtres de la cale, ils auraient des provisions en abondance, viande conservée, biscuits, barils de bière, de brandy et de gin. Et, alors libres de se livrer à tous les excès de l\'ivresse, Harry Markel aurait-il le pouvoir de les retenir ?
+
+En somme, ces misérables ne devaient se faire aucune illusion sur les intentions de Will Mitz. Harry Markel n\'ignorait pas que l\'Alert ne se trouvait qu\'à soixante-dix ou quatre-vingts milles des Antilles. Avec les vents régnants, il était possible de rallier l\'une des îles en moins de deux jours. En outre, à travers ces parages si fréquentés, l\'Alert rencontrerait nombre de bâtiments avec lesquels Will Mitz se mettrait en communication. Donc, de toute manière, soit à bord d\'un autre navire, soit dans un des ports de l\'Antilie, les pirates de l\'Halifax, les échappés de la prison de Queenstown, n\'auraient plus qu\'à attendre le châtiment de leurs crimes.
+
+Aussi Harry Markel devait-il comprendre qu\'il ne lui restait aucune chance de salut\... Il ne pourrait délivrer ses compagnons et redevenir une seconde fois maître à bord\...
+
+Les panneaux et le poste solidement fermés, il n\'existait point d\'autre communication entre le pont et la cale. Quant à percer la coque au-dessus de la flottaison, attaquer l\'épais bordé et la solide membrure, ou trouer le pont, comment le faire sans outils ?
+
+Et puis, ce travail ne se fût pas exécuté sans attirer l\'attention\... En vain même les prisonniers essaieraient-ils de s\'introduire dans la partie arrière du navire, en défonçant la cloison étanche de la cambuse à laquelle on n\'accédait que par un panneau en avant de la dunette\... D\'autre part, si les passagers n\'avaient à leur disposition que les réserves de cette cambuse, elles leur suffiraient pendant huit à dix jours, ainsi que l\'eau douce contenue dans les barils du pont. Or, avant quarante-huit heures, même par brise moyenne, l\'Alert aurait atteint une des îles de l\'archipel.
+
+Cependant le temps ne se déclarait pas, et si l\'autre navire avait pu faire route vers l\'ouest, c\'est qu\'il se trouvait plus au nord, là où les alizés avaient repris dès le lever du jour.
+
+En attendant la brise, d\'où qu\'elle vint, et tandis que Hubert Perkins et Axel Wickborn veillaient à l\'avant près du capot, les autres entouraient Will Mitz, prêts à exécuter les ordres qu\'il donnerait.
+
+Will Mitz dit alors :
+
+« Ce que nous devons chercher, c\'est de rallier les Antilles dans le plus court délai\...
+
+--- Et là, répondit Tony Renault, livrer ces misérables à la police\...
+
+--- Pensons à nous, d\'abord, observa le très pratique Roger Hinsdale.
+
+--- Et quel jour l\'Alert pourrait-il arriver ? demanda Magnus Anders.
+
+--- Demain dans l\'après-midi, si nous sommes favorisés par le temps, déclara Will Mitz.
+
+--- Pensez-vous que le vent soufflera de ce côté ? interrogea Hubert Perkins, en indiquant l\'est.
+
+--- Je l\'espère, et encore faudra-t-il qu\'il tienne trente-six heures\... Par ces temps orageux, on ne sait trop sur quoi compter\...
+
+--- Et quelle direction suivrons-nous ? reprit Louis Clodion.
+
+--- Franchement l\'ouest.
+
+--- Et sommes-nous certains de rencontrer les Antilles ? reprit John Howard.
+
+--- Certains, affirma Will Mitz. L\'archipel depuis Antigoa jusqu\'à Tabago occupe une étendue de quatre cents milles, et, en quelque île que ce soit, nous serons en sûreté\...
+
+--- Assurément, déclara Roger Hinsdale, française, anglaise, danoise, hollandaise, et, même si nous sommes déviés de notre route par des vents contraires, si nous arrivons aux Guyanes ou dans l\'un des ports des États-Unis\...
+
+--- Eh ! Que diable, riposta Tony Renault, nous finirons bien par accoster l\'une ou l\'autre des deux Amériques entre le cap Horn et la Nouvelle-Angleterre\...
+
+--- En effet, monsieur Tony, conclut Will Mitz. Seulement il ne faut pas que l\'Alert reste encalminé à cette place ! Vienne la brise et fasse Dieu qu\'elle nous soit favorable ! »
+
+Et il ne suffisait pas que le vent fût favorable, il importait non moins qu\'il ne fût pas trop violent. Rude et difficile tâche pour Will Mitz d\'avoir à manoeuvrer avec un équipage de jeunes garçons, étrangers à la pratique, n\'en sachant que le peu qu\'ils avaient pu voir durant la traversée d\'Europe aux Antilles. Et que ferait Will Mitz, s\'il fallait opérer avec rapidité, virer vent devant ou vent arrière, en cas qu\'il y eût des bords à courir, des ris à prendre, si quelque ouragan risquait de compromettre la mâture ? Comment parer à toutes les éventualités qui peuvent se produire au milieu de parages si fréquemment visités par les cyclones et les tempêtes ?
+
+Et peut-être Harry Markel comptait-il sur l\'embarras où serait Will Mitz : ce n\'était qu\'un matelot, intelligent, énergique, mais incapable de relever sa position avec quelque exactitude ! Si les circonstances devenaient critiques, si des vents d\'ouest rejetaient l\'Alert au large, si une tempête menaçait de le désemparer, s\'il se trouvait en perdition, Will Mitz ne se verrait-il pas contraint de recourir à Markel, à ses compagnons, et alors\...
+
+Cela, jamais ! Will Mitz suffirait à tout avec l\'aide des jeunes passagers\... Il ne conserverait de la voilure que les voiles facilement manoeuvrables, dût-il retarder l\'arrivée de l\'Alert ! Non ! Plutôt périr que de recourir à l\'assistance de ces misérables, que de retomber entre leurs mains !
+
+Du reste, on n\'en était pas là, et, en somme, que demandait Will Mitz ? Trente-six heures, quarante-huit heures au plus d\'une brise moyenne de l\'est, une mer maniable\... Était-ce donc trop espérer de ces parages où les alizés règnent d\'ordinaire ?
+
+Il était près de huit heures. En surveillant le capot et les deux panneaux, on entendait l\'équipage aller et venir dans la cale, et aussi les cris de colère, les malédictions accompagnées des plus abominables injures. Mais il n\'y avait rien à craindre de ces hommes, réduits à l\'impuissance.
+
+Tony Renault proposa alors de déjeuner. Après les fatigues et les émotions de cette nuit, la faim commençait à se faire vivement sentir. Ce repas fut pris sur les réserves de la cambuse, biscuit et viande conservée, oeufs que le jeune garçon alla faire durcir sur le fourneau de la cuisine dont les divers ustensiles étaient à sa disposition. La cambuse fournit aussi le wisky ou le gin qui furent mélangés à l\'eau douce des barils, et ce premier déjeuner réconforta copieusement tout ce petit monde.
+
+M. Patterson en avait eu sa part. Il est vrai, lui, si loquace d\'habitude, c\'est à peine si quelques paroles s\'échappaient de ses lèvres. Se rendant compte de la situation, il en comprenait la gravité, et les dangers de la mer lui apparaissaient maintenant dans toute leur gravité.
+
+Vers huit heures et demie, la brise parut s\'établir, dans l\'est, par bonne chance. Quelques rides se dessinaient à la surface de la mer, et, à deux milles sur bâbord, étincelaient des blancheurs d\'écume. Du reste, l\'immense plaine liquide était déserte. Pas un navire en vue, même à la dernière limite de l\'horizon.
+
+Will Mitz se décida à appareiller. Son intention n\'était point d\'employer les hautes voiles de perroquet et de cacatois qu\'il faudrait serrer, s\'il venait à surventer. Le grand et le petit hunier, la misaine, la brigantine, les focs, suffiraient à se tenir en bonne route. Or, comme ces voiles étaient sur leurs cargues, il n\'y aurait qu\'à les orienter, à les amurer, à les border, et l\'Alert mettrait le cap à l\'ouest.
+
+Will Mitz réunit les jeunes garçons. Il leur expliqua ce qu\'il attendait d\'eux, et assigna à chacun son poste. Suivi de Tony Renault et de Magnus Anders, plus habitués que leurs camarades, il monta dans les hunes, après avoir indiqué à Louis Clodion comment il devrait tenir la barre.
+
+« Cela ira\... Cela ira ! répétait Tony Renault avec la confiance si naturelle à son âge, et il se sentait vraiment capable des plus grandes choses.
+
+--- Je l\'espère, Dieu aidant ! » dit Will Mitz.
+
+En un quart d\'heure le trois-mâts fut sous voiles, et, doucement incliné, il filait grand largue, laissant derrière lui un long sillage blanc.
+
+Jusqu\'à une heure, le vent demeura à l\'état de petite brise, non sans des intermittences qui causaient certaines inquiétudes à Will Mitz.
+
+Et puis, à l\'ouest, s\'arrondissaient de gros nuages aux bords très nets, d\'apparence livide, indices de l\'état orageux de l\'atmosphère\...
+
+« Que dites-vous du temps, Will ? demanda Roger Hinsdale.
+
+--- Il n\'est pas comme je le voudrais ! Je sens quelque orage devant nous, ou tout au moins du vent\...
+
+--- Et s\'il vient de ce côté ?
+
+--- Que voulez-vous, répondit Will Mitz, il faudra bien le prendre comme il sera ! Nous courrons des bordées en attendant le retour des alizés, et, pourvu que la mer ne soit pas trop dure, on s\'en tirera\... L\'important est d\'arriver en vue de la terre, et, si ce n\'est que dans trois jours au lieu de deux, on se résignera\... À cinq ou six milles des Antilles nous devons rencontrer des pilotes qui viendront à bord et, quelques heures après, l\'Alert sera à son mouillage. »
+
+Cependant, ainsi que le prévoyait Will Mitz, le vent ne put tenir à l\'est. Dans l\'après-midi, l\'Alert fut très secoué par les contre-lames de l\'ouest avec la brise qui s\'établit définitivement de ce côté.
+
+Il y eut donc nécessité de courir au plus près, afin de ne point être entraîné vers le large. La manoeuvre s\'effectua assez facilement sans changer les amures. Tony Renault se mit au gouvernail et tint la barre dessous. Will Mitz et les autres raidirent les bras des vergues, les écoutes de la misaine, des huniers, de la brigantine et des focs. L\'Alert, orienté pour sa première bordée, cap au nord-est, appuyé sur tribord, marcha rapidement dans cette direction.
+
+Nul doute que, dans la cale où ils étaient renfermés, Harry Markel et les siens n\'eussent reconnu que le navire, ayant vent contraire, s\'éloignait des Antilles.
+
+Or, ce retard ne pouvait que tourner à leur avantage.
+
+Vers six heures du soir, Will Mitz jugea que l\'Alert s\'était assez élevé au nord-est, et, pour mieux utiliser les courants, il résolut de tirer une bordée vers le sud-ouest.
+
+C\'était, de toutes les manoeuvres, celle dont il s\'inquiétait le plus. Virer vent devant est une opération qui exige une grande précision de mouvements dans le brassage des vergues. Il est vrai, l\'Alert aurait pu virer vent arrière ; mais ce serait plus long, sans parler du risque de recevoir quelques mauvais coups de mer. Heureusement, la houle n\'était pas trop dure. On borda la brigantine, la barre dessous, puis, les écoutes larguées à propos, la misaine et le petit hunier reçurent le vent par tribord. L\'abattée se fit après une courte hésitation, et, ses voiles amurées de nouveau, le navire cingla dans la direction du sud-ouest.
+
+« Bien\..., bien\..., mes jeunes messieurs ! s\'écria Will Mitz, lorsque l\'opération fut terminée. Vous avez manoeuvré comme de vrais matelots\...
+
+--- Sous les ordres d\'un bon capitaine ! » Répondit Louis Clodion au nom de tous ses camarades.
+
+Et si, de la cale ou du poste, Harry Markel, John Carpenter et les autres se rendirent compte que l\'Alert avait repris une autre bordée, on imagine aisément à quel accès de rage ils s\'abandonnèrent !
+
+Le dîner, rapidement expédié comme l\'avait été le déjeuner, quelques tasses de thé préparées par Tony Renault le complétèrent.
+
+Cela fait, M. Patterson ne tarda pas à rentrer dans sa cabine, car il ne pouvait être d\'aucune utilité.
+
+Alors Will Mitz s\'occupa de partager les quarts pour la nuit entre Louis Clodion et ses camarades.
+
+Il fut convenu que cinq d\'entre eux resteraient sur le pont, tandis que les quatre autres prendraient quelque repos.
+
+Ils se relèveraient de quatre en quatre heures, et, s\'il était nécessaire de virer de bord avant le jour, tous viendraient donner la main à la manoeuvre. D\'ailleurs, pendant le quart, ils surveilleraient le capot et les panneaux, de façon à prévenir toute surprise.
+
+Les choses ainsi réglées, Roger Hinsdale, Niels Harboe, Albertus Leuwen, Louis Clodion, rentrèrent dans le carré et se jetèrent tout habillés sur leurs cadres. Magnus Anders, au gouvernail, suivit les indications que lui donnait Will Mitz. Tony Renault, Hubert Perkins, se placèrent à l\'avant. Axel Wickborn et John Howard restèrent au pied du grand mât.
+
+Will Mitz, lui, allait et venait, ayant l\'oeil à tout, mollissant ou raidissant les écoutes suivant les demandes de la brise, prenant la barre lorsqu\'il la fallait tenir d\'une main ferme et expérimentée, -- bref, capitaine, maître, gabier, timonier, matelot, selon les circonstances.
+
+Les quarts se succédèrent comme il avait été décidé. Ceux qui avaient dormi quelques heures vinrent remplacer leurs camarades à l\'avant et à l\'arrière.
+
+Quant à Will Mitz, il voulut demeurer sur pied jusqu\'au matin.
+
+Après une nuit sans incidents, l\'orage qui menaçait s\'étant dissipé, le vent continua de souffler en petite brise. Il n\'y eut donc pas lieu de diminuer la voilure, -- opération difficile au milieu de l\'obscurité.
+
+Quant à ce qui se passait à l\'intérieur du poste et de la cale, ni Harry Markel ni ses compagnons ne firent aucune tentative pour reprendre possession du navire. Même la nuit, ils savaient que cette tentative aurait échoué.
+
+Des cris de fureur éclataient parfois sous les panneaux, et aussi des clameurs d\'ivrognes qui finirent par cesser.
+
+À l\'aube, l\'Alert avait couru trois bordées dans l\'ouest. Quant à la distance qui le séparait encore des Antilles, de combien de milles avait-elle diminué ? Dix ou douze, à peine !
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12 -- Pendant trois jours]{lang="X-NONE"}]{#_Toc342942297e4 .pcalibre2 .pcalibre1} {#chapitre-12-pendant-trois-jours .calibre171 .sigil_not_in_toc}
+
+Le soleil, débordant d\'un horizon semé de vapeurs « débraillées », -- c\'est le mot juste, -- n\'annonçait pas une importante modification dans l\'état atmosphérique. Il semblait, au contraire, que le vent, tout en soufflant de l\'ouest, accusait une certaine tendance à fraîchir.
+
+Au surplus, ces nuages ne tardèrent pas à gagner le zénith, et, sans doute, le temps resterait couvert toute la journée, qui serait pluvieuse. Cette pluie aurait peut-être pour résultat d\'amoindrir la brise, si elle n\'engendrait quelques rafales, -- ce que craignait Will Mitz.
+
+Dans tous les cas, à louvoyer jusqu\'au soir, il était présumable que l\'Alert gagnerait peu en direction des Antilles. De là un retard dont on ne pouvait prévoir la durée. Il y aurait lieu de regretter que le vent ne se fût pas maintenu vingt-quatre heures de plus dans l\'est.
+
+Ainsi donc, lorsque le navire quitta la Barbade sous le commandement d\'Harry Markel, les alizés avaient contrarié sa marche. Sans cette circonstance, il se fût trouvé à une centaine de milles plus au large en plein Atlantique. Et voici, maintenant, que c\'était contre les vents d\'ouest qu\'il lui fallait louvoyer pour revenir aux Antilles.
+
+Lorsque Louis Clodion rejoignit Will Mitz dès six heures du matin : « Rien de nouveau ? demanda-t-il.
+
+--- Rien, monsieur Louis\...
+
+--- Vous ne prévoyez pas que le vent puisse changer ?
+
+--- Je ne sais trop\... S\'il ne fraîchit pas, nous ne serons point gênés sous cette voilure\...
+
+--- Cela nous retardera ?
+
+--- Un peu\...
+
+Néanmoins il n\'y a pas à s\'inquiéter\... Nous arriverons tout de même\... Et puis je compte apercevoir quelque navire\...
+
+--- Vous avez bon espoir ?
+
+--- Bon espoir !
+
+--- Ne voulez-vous pas prendre du repos ?
+
+--- Non\... Je ne suis pas fatigué\... Plus tard, si j\'ai besoin de dormir, une ou deux heures de sommeil, il ne m\'en faudra pas davantage. »
+
+Si Will Mitz tenait ce langage, c\'est qu\'il ne voulait pas inquiéter les passagers. Au fond sa perspicacité de marin ne le laissait pas sans appréhension. À bien l\'observer, il lui semblait que la mer « sentait quelque chose », étant plus agitée que ne le comportait la brise.
+
+Il était possible qu\'il y eût des gros temps dans l\'ouest. En juin ou juillet, ils ne se fussent pas prolongés au-delà de vingt-quatre ou de quarante-huit heures. Mais, en cette période de l\'équinoxe, peut-être tiendraient-ils une ou deux semaines ? N\'est-ce pas l\'époque à laquelle les Antilles ont subi d\'effroyables désastres dus aux cyclones ?
+
+En admettant même que le vent n\'allât pas jusqu\'à la tempête, comment ces jeunes garçons résisteraient-ils à la fatigue en manoeuvrant jour et nuit ? Vers sept heures, M. Patterson parut sur le pont, vint à Will Mitz, et lui serra la main.
+
+« On ne voit pas encore la terre ? demanda-t-il.
+
+--- Pas encore, monsieur Patterson.
+
+--- Elle est toujours dans cette direction ? ajouta-t-il en désignant l\'ouest. -- Toujours. »
+
+De cette réponse, rassurante, il fallait bien que M. Patterson se contentât. Toutefois son imagination très surexcitée lui laissait entrevoir des retards considérables\... Et si le navire ne parvenait point à rallier la Barbade ou toute autre île de l\'Antilie, s\'il était rejeté au large, si quelque tempête se déchaînait, que deviendrait-il sans capitaine, sans équipage ? Le pauvre homme ne se voyait-il pas entraîné jusqu\'aux extrêmes limites de l\'océan\... Jeté sur quelque rivage désert de la côte africaine\... Abandonné pendant des mois, et, qui sait, des années ? Et alors, Mrs Patterson, ayant toute raison de se croire veuve, après l\'avoir pleuré comme il convenait\... Oui ! Ces navrantes hypothèses se présentaient à son esprit, et ce n\'est ni dans Horace ni dans Virgile qu\'il eût trouvé une consolation à sa douleur ! Il ne songeait même plus à essayer de traduire la fameuse citation latine de Tony Renault.
+
+La matinée n\'amena aucun changement dans la direction du vent. À midi, Will Mitz résolut de courir un nouveau bord. Mais, la mer étant plus dure, l\'Alert ne réussit pas à virer vent devant, et il fallut le faire lof pour lof.
+
+La voilure établie, Will Mitz, succombant à la fatigue, s\'étendit sur la dunette près de l\'habitacle, tandis que Louis Clodion tenait la barre.
+
+Après une heure de sommeil, il fut réveillé par des cris qui partaient de l\'avant, où Roger Hinsdale et Axel Wickborn étaient de garde près du poste.
+
+« Navire\... Navire ! » Répétait le jeune Danois, la main tendue vers l\'est. Will Mitz se précipita vers le bossoir de tribord.
+
+En effet, un bâtiment se montrait de ce côté, faisant la même route que l\'Alert.
+
+C\'était un steamer, dont on ne voyait encore que la fumée. Il marchait rapidement, et sa coque apparut bientôt à la ligne d\'horizon. De ses deux cheminées s\'échappait une fumée noire, et il devait pousser ses feux.
+
+On s\'imagine ce que fut l\'émotion des jeunes passagers, tandis que ce bâtiment se rapprochait. Peut-être touchaient-ils au dénouement d\'une situation si sérieusement aggravée avec cette persistance des vents contraires.
+
+Toutes les lorgnettes étaient braquées sur ce steamer dont on ne perdait pas un mouvement.
+
+Will Mitz se préoccupait surtout de la direction qu\'il suivait en gagnant vers l\'ouest. Mais, ce qu\'il observa aussi, c\'est qu\'à continuer sa route, le steamer ne couperait pas celle de l\'Alert, et on passerait au moins à quatre milles. Il décida donc de laisser porter, afin de croiser ce bâtiment, d\'assez près pour que ses signaux fussent aperçus. On brassa les vergues des deux huniers et de la misaine, on mollit les écoutes de la brigantine et des focs, et l\'Alert arriva de plusieurs quarts sous le vent.
+
+Une demi-heure après, le steamer n\'était plus qu\'à trois milles. Ce devait être un transatlantique d\'une ligne française ou anglaise à en juger par ses formes et ses dimensions. S\'il ne modifiait pas sa marche en lofant, les deux navires ne pourraient entrer en communication.
+
+Par ordre de Will Mitz, Tony Renault hissa au mât de misaine le pavillon de pilote, blanc et bleu, en même temps que le pavillon britannique se déployait à la corne du mât d\'artimon.
+
+Un quart d\'heure s\'écoula. L\'Alert, vent arrière alors, ne pouvait faire davantage pour se rapprocher du steamer, qui lui restait à trois milles dans le nord.
+
+N\'ayant pas reçu de réponse à leurs signaux, Roger Hinsdale et Louis Clodion allèrent prendre deux carabines au râtelier du carré. Plusieurs coups furent tirés. Le vent portant en cette direction, peut-être ces détonations seraient-elles entendues ?
+
+Nul doute que Harry Markel, John Carpenter, les autres, n\'eussent compris ce qui se passait. L\'allure du trois-mâts ayant changé, il roulait, n\'étant plus appuyé comme sous l\'allure du plus près. Puis des coups de feu éclataient à bord.
+
+Il y avait donc un navire en vue, avec lequel l\'Alert essayait de communiquer\...
+
+Ces misérables, se croyant perdus, redoublèrent leurs efforts pour s\'échapper de la cale. Des coups violents retentirent sur les parois du poste, contre les panneaux du pont. Des hurlements de colère les accompagnaient. D\'ailleurs, au premier qui eût paru, Will Mitz eût cassé la tête d\'une balle de revolver.
+
+Par malheur, la chance ne se déclara pas pour les passagers de l\'Alert. On ne vit rien de leurs signaux, on n\'entendit rien de leurs décharges. Une demi-heure plus tard, le steamer, éloigné de cinq à six milles, disparaissait à l\'horizon.
+
+Will Mitz, revenant au vent, reprit alors sa bordée vers le sud-ouest. Pendant l\'après-midi, l\'Alert ne fit que louvoyer en gagnant peu. L\'apparence du ciel n\'était point rassurante. Les nuages s\'épaississaient au couchant, le vent fraîchissait, la mer devenait très dure, et les lames commençaient à déferler au-dessus du gaillard d\'avant. S\'il ne survenait pas quelque accalmie, Will Mitz ne pourrait pas continuer à tenir le plus près, à moins de diminuer la voilure.
+
+Il était donc de plus en plus inquiet, tout en s\'efforçant de dissimuler son inquiétude. Mais Louis Clodion, Roger Hinsdale, les plus sérieux, sentaient bien ce qui se passait en lui. Quand ils le regardaient et l\'interrogeaient des yeux, Will Mitz détournait la tête.
+
+La nuit qui s\'approchait menaçait d\'être mauvaise. Il devint nécessaire de prendre deux ris dans les huniers, un ris dans la misaine et la brigantine. Cette opération, difficile de jour avec cet équipage improvisé, le serait davantage dans l\'ombre. Il fallait manoeuvrer de manière à ne point être surpris, tout en résistant à cette violente brise mêlée de rafales.
+
+En effet, que serait-il arrivé si l\'Alert était rejeté dans l\'est ? Jusqu\'où l\'entraînerait une tempête qui durerait plusieurs jours ? Aucune terre dans ces parages, si ce n\'est, plus au nord-est, ces dangereuses Bermudes où le trois-mâts avait déjà essuyé des gros temps qui l\'avaient obligé de fuir vent arrière ? Irait-il se perdre au-delà de l\'Atlantique, sur les récifs de la côte africaine ?
+
+Donc nécessité de résister, et tant que le navire pourrait se tenir, soit au plus près, soit même à la cape, dans le voisinage des Antilles. Puis, la tourmente passée, les alizés reprenant le dessus, l\'Alert regagnerait les quelques jours de retard.
+
+Will Mitz expliqua ce dont il s\'agissait. Alors que les voiles détonaient comme des pièces d\'artillerie, on s\'occuperait d\'abord du petit hunier, puis du grand hunier, Magnus Anders, Tony Renault, Louis Clodion, Axel Wickborn suivraient Will Mitz sur les vergues, ayant soin de ne pas lâcher la main, et, après avoir ramené la toile à eux, ils amarreraient les garcettes. Quand ils seraient redescendus, tous se mettraient sur les drisses et hisseraient les vergues à bloc.
+
+Albertus Leuwen, Hubert Perkins, se tiendraient à la roue du gouvernail, et Will Mitz leur indiqua comment ils devaient la manoeuvrer.
+
+L\'opération commença. Après de grands efforts, deux ris étaient pris dans le petit hunier, lequel, une fois solidement étarqué d\'en bas, fut orienté au plus près.
+
+Il en fut de même pour le grand hunier. Quant à la brigantine, il n\'y eut point à monter aux barres d\'artimon, mais seulement à enrouler la partie inférieure de la voile sur le gui.
+
+En ce qui concerne la misaine, on se contenta de la carguer, quitte à la rétablir si le vent mollissait aux approches du jour.
+
+Et, maintenant, l\'Alert, sous cette voilure, courait à la surface de l\'océan. Il donnait parfois une bande effrayante, recevant des paquets de mer qui inondaient le pont jusqu\'à la dunette. Will Mitz, debout à la barre, le redressait d\'un bras vigoureux avec l\'aide de l\'un ou de l\'autre des jeunes garçons.
+
+Cette allure put être conservée toute la nuit, et Will Mitz ne crut même pas devoir virer de bord avant le lever du soleil. La bordée vers le nord-est, qu\'il avait prise après avoir diminué de toile, se continua jusqu\'au jour.
+
+Lorsque l\'aube reparut, si Will Mitz n\'avait pas quitté le pont, les jeunes garçons, après s\'être relayés de quatre heures en quatre heures, s\'étaient reposés quelques heures.
+
+Dès que l\'horizon fut dégagé du côté du vent, Will Mitz le parcourut du regard. C\'était de là que pouvait venir le danger. L\'aspect du ciel n\'avait rien de satisfaisant. Si le vent n\'avait pas fraîchi pendant la nuit, s\'il se tenait à l\'état de grande brise, aucun symptôme n\'indiquait un prochain apaisement.
+
+Il fallait aussi craindre des pluies violentes et des rafales contre lesquelles il y aurait certaines précautions à prendre. Peut-être serait-il nécessaire de tenir la cape afin de mieux résister en présentant le navire debout à la lame. Au lieu de faire bonne route, l\'Alert perdrait alors plus qu\'il ne gagnerait en direction des Antilles.
+
+Bientôt les rafales se déchaînaient, faisant claquer les huniers et menaçant de les mettre en lambeaux. Si M. Patterson ne put sortir du carré, les autres, vêtus de capotes cirées, coiffés de surouets, restèrent sur le pont à la disposition de Will Mitz. Cette eau qui tombait à torrents, ils la recueillirent dans des bailles pour n\'en point manquer, dans le cas où l\'Alert serait entraîné plus au large en fuyant devant la tempête.
+
+Dans la matinée, au prix d\'efforts inouïs, Will Mitz parvint à courir une bordée au sud-ouest, ce qui le maintenait en latitude des Antilles, et, suivant son estime, à la hauteur de la Barbade, dans la partie médiane de l\'archipel.
+
+Il espérait donc pouvoir garder ses huniers à deux ris, sa brigantine et son grand foc, lorsque, l\'après-midi, le vent prit plus de force, en halant un peu le nord-ouest.
+
+La bande que donnait l\'Alert était parfois si considérable que l\'extrémité de la grande vergue affleurait la crête des lames, et des coups de mer le couvraient en grand.
+
+Ils devaient se dire, en bas, Harry Markel et ses compagnons, que les choses allaient mal en haut, que le bâtiment était aux prises avec la tourmente, que Will Mitz ne pourrait gouverner\... Lorsqu\'il serait en perdition, peut-être faudrait-il recourir à eux ?
+
+Ils se trompaient, et l\'Alert sombrerait sous voiles, se perdrait corps et biens, plutôt que de retomber entre les mains de ces bandits !
+
+Will Mitz ne défaillit pas en ces terribles circonstances, et, d\'autre part, il semblait que les jeunes passagers ne voulussent pas voir le péril. Aux ordres qui leur furent donnés, ils obéirent avec autant de courage que d\'adresse, lorsqu\'il devint indispensable de diminuer la voilure.
+
+Le grand hunier fut amené et serré ; la brigantine également. L\'Alert resta sous son petit hunier au bas ris, -- opération que facilitait le système des doubles vergues dont le navire était pourvu. À l\'avant, Will Mitz fit hisser un des focs, et, à l\'arrière, au mât d\'artimon, un tourmentin triangulaire, assez solide pour résister à la violence de l\'ouragan.
+
+Et toujours l\'immensité déserte ! Pas une voile au large ! Et, d\'ailleurs, eût-il été possible d\'accoster un navire, de mettre une embarcation à la mer ?
+
+Will Mitz vit bientôt qu\'il faudrait renoncer à lutter contre le vent. Impossible de se maintenir ni au plus près, ni à la cape. Mais l\'Alert avait « de la fuite », comme disent les marins, et ne risquait pas de s\'affaler sur une côte d\'où il n\'aurait pu se relever. Il est vrai, c\'était tout l\'Atlantique qui s\'ouvrait devant lui, et, en peu de temps, un millier de milles le sépareraient des Indes occidentales.
+
+La barre dessous, le navire pivota, horriblement secoué, et, après avoir été assailli de lames déferlantes, risquant d\'embarder sur un bord ou sur l\'autre, il courut vent arrière.
+
+Cette allure est des plus dangereuses, lorsque le bâtiment ne parvient pas à devancer les lames, lorsque sa poupe est menacée de coups de mer. La barre est extrêmement difficile et il faut se faire attacher pour ne point partir par-dessus bord.
+
+Will Mitz obligea, malgré eux, les jeunes garçons à se réfugier à l\'intérieur de la dunette.
+
+S\'il avait besoin de leur aide il les appellerait.
+
+Et là, dans ce carré, dont les cloisons craquaient, accrochés aux bancs, parfois inondés de l\'eau du pont qui pénétrait au dedans, réduits à se nourrir de biscuit et de conserves, cette journée du 25 septembre fut la plus épouvantable qu\'ils eussent passée jusqu\'alors !
+
+Et quelle nuit, terrible, obscure, tumultueuse ! L\'ouragan se déchaînait avec une incomparable violence. Lui résister vingt-quatre heures, l\'Alert le pourrait-il ? Ne finirait-il pas par engager, et si, pour le relever, il fallait couper sa mâture, y réussirait-on ? Le navire ne serait-il pas entraîné dans l\'abîme ?
+
+Will Mitz était seul à la barre. Son énergie domptant sa fatigue, il soutenait l\'Alert contre les embardées qui menaçaient de le mettre en travers des lames.
+
+Vers minuit, un coup de mer, montant de cinq à six pieds au-dessus du couronnement, retomba sur la dunette avec une telle violence qu\'il faillit la défoncer. Puis, précipité sur le pont, après avoir enlevé le petit canot suspendu à l\'arrière, il brisa tout sur son passage, les cages à poules, les deux barils d\'eau douce amarrés au pied du grand mât ; puis, arrachant la seconde embarcation de ses pistolets, il l\'entraîna par-dessus bord.
+
+Il ne restait plus qu\'un seul canot, celui dans lequel les passagers avaient tenté de fuir une première fois. D\'ailleurs, il n\'aurait pu leur servir, et cette mer démontée l\'eût englouti en un instant.
+
+Au fracas qui fit trembler le navire jusque dans l\'emplanture des mâts, Louis Clodion et quelques autres s\'élancèrent hors de la dunette.
+
+Alors la voix de Will Mitz se fit entendre au milieu du sifflement des rafales.
+
+« Rentrez\... Rentrez ! Criait-il.
+
+--- N\'y a-t-il plus d\'espoir de salut ? demanda Roger Hinsdale.
+
+--- Si\... Avec l\'aide de Dieu, répondit Will Mitz. Lui seul peut nous sauver\... »
+
+En ce moment un horrible déchirement se fit entendre. Une masse blanchâtre passa entre la mâture comme un énorme oiseau que l\'ouragan emporte. Le petit hunier venait d\'être arraché de sa vergue et il n\'en restait plus que les ralingues.
+
+L\'Alert était pour ainsi dire à sec de toile et, sa barre n\'ayant plus d\'action, devenu le jouet des vents et de la mer, il fut déhalé vers l\'est avec une épouvantable vitesse.
+
+L\'aube revenue, à quelle distance l\'Alert se trouvait-il des Antilles ? Depuis qu\'il avait été obligé de fuir, n\'était-ce pas à plusieurs centaines de milles qu\'il fallait évaluer cette distance ? Et, en admettant que le vent repassât dans l\'est, que l\'on pût installer des voiles de rechange, combien de jours faudrait-il pour la regagner ?
+
+Cependant la tempête parut diminuer. Le vent ne tarda pas à changer avec cette brusquerie si fréquente dans les parages des Tropiques.
+
+Will Mitz fut tout d\'abord frappé de l\'état du ciel. Durant les dernières heures, l\'horizon de l\'est s\'était dégagé des énormes nuages qui l\'obstruaient depuis la veille.
+
+Louis Clodion et ses camarades reparurent sur le pont. Il semblait que cette tempête allait prendre fin. La mer était extrêmement dure, il est vrai, et une journée suffirait à peine à calmer les lames qui déferlaient toutes blanches d\'écume.
+
+« Oui\... Oui\... C\'est la fin ! » répétait Will Mitz.
+
+Et il levait les bras vers le ciel dans un mouvement de confiance et d\'espoir auquel s\'associèrent les jeunes passagers.
+
+Il s\'agissait maintenant de revenir franchement vers l\'ouest. La terre, on la trouverait de ce côté, si éloignée fût-elle.
+
+D\'ailleurs, la distance ne s\'était accrue qu\'à partir du moment où l\'Alert, ne pouvant plus louvoyer, avait dû fuir devant la tempête.
+
+Vers midi, la force du vent avait diminué à ce point qu\'un navire eût pu larguer ses ris et naviguer sous ses huniers et ses voiles basses.
+
+Puis, à mesure qu\'elle mollissait, la brise halait le sud, et l\'Alert n\'aurait qu\'à tenir le largue pour faire bonne route.
+
+Il convenait donc de remplacer le petit hunier, puis d\'établir le grand hunier, la misaine, la brigantine et les focs.
+
+Cette besogne se prolongea jusqu\'à cinq heures du soir, et ce ne fut pas sans peine que l\'on parvint à enverguer une voile nouvelle, retirée de la soute d\'arrière.
+
+À ce moment, des cris retentirent au fond de la cale, puis des coups contre les panneaux et les parois du poste. Harry Markel et ses compagnons tentaient-ils une dernière fois de se frayer quelque issue au dehors ?
+
+Les jeunes garçons sautèrent sur leurs armes et se tinrent prêts à en faire usage contre le premier qui se montrerait.
+
+Mais, presque aussitôt, Louis Clodion de crier :
+
+« Le feu est au navire ! »
+
+En effet, une fumée qui venait de l\'intérieur commençait à envahir le pont. Nul doute, -- probablement par imprudence, -- quelques-uns des prisonniers, ivres de brandy et de gin, avaient laissé le feu se communiquer aux caisses de la cargaison.
+
+Déjà on entendait les fûts de la cale qui éclataient avec violence.
+
+Cet incendie, eût-il été possible de l\'éteindre ? Peut-être, à la condition d\'ouvrir les panneaux pour inonder la cale\... Il est vrai, c\'eût été rendre libres Harry Markel et sa bande\... C\'eût été permettre la reprise de l\'Alert\... Avant même de chercher à éteindre l\'incendie, les misérables auraient massacré et jeté à la mer les passagers.
+
+Cependant, au milieu des cris qui redoublaient, les volutes plus épaisses couraient à la surface du pont dont les coutures goudronnées commençaient à se disjoindre.
+
+En même temps, d\'autres détonations retentissaient, plus particulièrement à l\'avant, où étaient rangés les barils d\'alcool. Les prisonniers devaient être à moitié asphyxiés dans cette cale où l\'air pénétrait à peine.
+
+« Will\... Will ! » s\'écrièrent John Howard, Tony Renault, Albertus Leuwen, en tendant leurs bras vers lui\...
+
+Et ne semblaient-ils pas lui demander quelque pitié pour Harry Markel et ses compagnons ?
+
+Non ! Le salut commun interdirait toute faiblesse, toute humanité ! D\'ailleurs, il n\'y avait pas un instant à perdre en présence d\'un incendie qu\'on ne pouvait éteindre, et qui aurait bientôt dévoré tout entier le navire ! Il fallait abandonner l\'Alert, avec son équipage qui périrait avec lui !
+
+Le second canot et la yole de l\'arrière ayant disparu pendant la tempête, il ne restait plus que le grand canot de tribord.
+
+Will Mitz regarda la mer, moins furieuse alors\...
+
+Il regarda l\'Alert enveloppé déjà d\'un rideau de flammes\... Il regarda les jeunes garçons épouvantés, et il cria :
+
+« Embarque ! »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 13 -- À l\'aventure]{lang="X-NONE"}]{#_Toc342942297e13 .pcalibre2 .pcalibre1} {#chapitre-13-à-laventure .calibre171 .sigil_not_in_toc}
+
+Il ne s\'agissait plus, cette fois, d\'accoster un bâtiment à quelques encablures, ni même à quelques milles au large. C\'était un navire en proie à l\'incendie qu\'il fallait abandonner. C\'était à la surface d\'une mer déserte, avec l\'incertain espoir d\'être rencontré sur ces parages, qu\'une frêle embarcation allait s\'exposer à tant de périls !
+
+Tandis que Will Mitz, faisant en toute hâte ses préparatifs de départ, s\'occupait de déhaler le dernier canot du bord, que se passait-il dans la cale ?
+
+Des rugissements de damnés éclataient sous le pont. Des coups incessants ébranlaient les panneaux et le capot du poste. Et qui sait si les prisonniers ne finiraient pas par les forcer, si à travers quelque trou de la coque ils ne parviendraient pas à se précipiter à la mer pour remonter sur le pont ?
+
+Quant à la cause de cet incendie, l\'hypothèse la plus probable était qu\'un baril d\'alcool s\'étant brisé, son contenu avait été enflammé par l\'imprudence d\'un Morden ou de tout autre, n\'ayant plus conscience de ses actes. À présent, le foyer s\'étendait à toute la cale, depuis l\'avant jusqu\'à la cloison qui séparait l\'arrière. En admettant même que le feu s\'arrêtât à cette cloison, le navire n\'en périrait pas moins, et il n\'en resterait bientôt plus que quelques épaves à la surface de la mer.
+
+Dès que le canot, déhalé de ses palans, fut amarré le long du bord, Will Mitz fit embarquer tout ce qui serait nécessaire à une navigation longue peut-être. Louis Clodion et Albertus Leuwen y ayant pris place, on leur passa deux caisses de conserves et de biscuits de la cambuse, un dernier fût d\'alcool, deux barils d\'eau douce, un fourneau portatif, deux sacs de charbon, une petite provision de thé, quelques armes, quelques munitions, puis divers instruments de cuisine et d\'office.
+
+En même temps, Tony Renault et les autres envoyaient le gréement du canot, un mât avec sa drisse, une voile avec sa vergue, le foc de l\'avant, quatre avirons, le gouvernail, une boussole et la carte générale des Antilles. Il y joignit plusieurs lignes aussi, car il serait peut-être nécessaire de demander à la pêche un supplément de nourriture.
+
+M. Patterson fut le premier à descendre dans l\'embarcation. Ce pauvre homme, dont tant d\'épreuves avaient brisé le ressort, ne songeait plus ni à son trigonocéphale destiné à périr dans les flammes, ni à ces mots intraduisibles de la citation latine ! Il ne s\'inquiétait que d\'avoir à courir la mer sur ce canot, dans lequel Will Mitz jeta des vêtements de rechange, des capotes cirées, des couvertures, et un prélart qui permettrait d\'établir un taud.
+
+Ces préparatifs furent achevés en un quart d\'heure, tandis que les hurlements redoublaient à travers les flammes qui commençaient à dévorer le gréement et la mâture.
+
+Et, à chaque instant, on craignait de voir surgir quelque échappé de la cale en feu, spectre à demi brûlé au milieu des mugissements de cette fournaise\...
+
+Il n\'était que temps d\'abandonner l\'Alert. Rien n\'avait été oublié, et Will Mitz allait embarquer à son tour, lorsque Niels Harboe de dire :
+
+« Et l\'argent ?
+
+--- Oui, répondit Will Mitz, cet argent c\'est celui de notre bienfaitrice. Il faut le sauver, ou il sera perdu avec ce navire dont il ne restera plus rien ! » Et, rentrant dans le carré, il prit l\'argent déposé dans la cabine du mentor, revint sur le pont, enjamba les bastingages, et, aussitôt pied dans le canot, dit :
+
+« Pousse ! »
+
+L\'amarre larguée, l\'embarcation s\'éloigna dans la direction de l\'ouest.
+
+À ce moment, une explosion se produisit sous la pression de l\'air porté à une haute température dans la cale du navire.
+
+Elle fut si violente que le mât de misaine, soulevé de son emplanture, s\'abattit sur bâbord avec tout le phare de l\'avant. En même temps, l\'Alert se coucha sous la secousse pour se relever aussitôt, et l\'eau, qui aurait noyé l\'incendie, ne pénétra pas à l\'intérieur.
+
+Aucun des compagnons d\'Harry Markel ne parut sur le pont. Ou ils étaient asphyxiés, ou ils n\'avaient encore pu se frayer passage à travers la fumée et les flammes.
+
+Il était alors cinq heures et demie du soir. Le vent assez régulier permettait d\'installer la voile du canot, quitte à l\'amener s\'il venait à fraîchir. Tony Renault et Magnus Anders la hissèrent ainsi que le foc. Will Mitz, à la barre, les avirons furent dégagés de leurs tolets et rentrés en dedans. Afin d\'obtenir toute la vitesse possible sans compromettre la sécurité, on donna un peu de mou à l\'écoute, et ce fut grand largue que l\'embarcation glissa à la surface de la mer.
+
+Will Mitz n\'était pas à un demi-mille, lorsque les deux autres mâts de l\'Alert s\'abattirent, après que les haubans et galhaubans eurent pris feu. Le navire, rasé comme un ponton, gité cette fois sur bâbord, ne se redressa pas. Puis, peu à peu, l\'eau l\'envahit par-dessus les bastingages. Quelques hommes se montrèrent sur son flanc, -- entre autres Harry Markel. Le misérable jeta un dernier cri de colère, en voyant le canot si loin déjà qu\'il serait impossible de le rejoindre.
+
+Enfin, l\'Alert, coulant à pic, disparut dans l\'abîme. Dieu avait fait justice de ces pirates de l\'Halifax échappés à la justice humaine. Du navire, il ne restait que d\'informes débris de mâture flottant à la dérive.
+
+En voyant sombrer l\'Alert, les jeunes passagers ne purent se défendre d\'une profonde émotion, et des larmes mouillèrent leurs yeux.
+
+Cependant, si, depuis une douzaine d\'heures, la tempête avait cessé, cette situation n\'en était pas moins effrayante.
+
+L\'embarcation, qui mesurait trente pieds de l\'étrave à l\'étambot, sur cinq pieds de largeur, était suffisante pour onze passagers. Mais, n\'étant pas pontée, elle n\'offrait aucun abri contre la pluie ou le vent et risquait d\'emplir au premier coup de mer.
+
+Toutefois, entre le pied du mât et l\'étrave, Will Mitz installa le prélart qui, tendu d\'un bord à l\'autre, et soutenu au moyen d\'espars, forma une sorte de taud sous lequel trois personnes trouveraient place.
+
+En même temps, Louis Clodion et Roger Hinsdale prirent la précaution d\'abriter la boussole, les caisses de biscuit et de conserves au fond du canot.
+
+Quant aux provisions embarquées, elles devaient durer une dizaine de jours, sans compter ce que donnerait la pêche. Pour l\'eau douce, sans compter non plus ce que donnerait la pluie, en la ménageant, il y en avait pour une semaine.
+
+Dans ce délai, avoir rallié une terre quelconque, soit aux Antilles, soit aux Bermudes, était-il permis de l\'espérer ?
+
+Non, assurément. L\'Alert avait dû être rejeté très au large et plutôt dans le sud-est, ce qui l\'écartait des Bermudes. Aussi, Will Mitz chercherait-il à gagner soit une des îles de l\'Antilie, soit une des côtes américaines du Brésil, du Venezuela ou des Guyanes.
+
+Mais c\'était plutôt sur la rencontre d\'un navire qu\'il fondait quelque espoir de salut.
+
+Telle était la situation dans cette soirée du 26 septembre. La nuit approchait, et l\'obscurité serait bientôt complète. Au coucher du soleil, l\'aspect de l\'horizon n\'avait point paru mauvais, plutôt embrumé de vapeurs que chargé de nuages à l\'est comme à l\'ouest.
+
+La mer tombait graduellement, les lames se balançaient en longues houles. Le souffle des alizés continuait à se faire sentir, ce qui permettait de conserver la voile. Pour éclairer la route, il ne fallait pas compter sur la lune, qui était nouvelle ; mais, entre nombre d\'étoiles, la polaire brillerait dans le nord à quelques degrés de l\'horizon.
+
+Tout d\'abord, Louis Clodion et ses camarades avaient offert de se mettre aux avirons en se relayant d\'heure en heure. Will Mitz leur fit observer que ce surcroît de fatigue ne s\'imposait pas, et mieux valait ménager ses forces. « La brise est régulière, dit-il, et semble devoir tenir. Il sera temps de nager si le calme revient, ou s\'il faut forcer de vitesse pour atteindre un navire\...
+
+--- Will, demanda Roger Hinsdale, à quelle distance pensez-vous que soit la terre la plus rapprochée ?
+
+--- À quatre cents milles au moins\...
+
+--- Et que pourrait faire notre canot avec une brise moyenne ? ajouta Louis Clodion.
+
+--- À peu près une soixantaine de milles par vingt-quatre heures.
+
+--- Nous aurions donc à naviguer pendant sept à huit jours ? dit Albertus Leuwen.
+
+--- Oui, répondit Will Mitz, à moins que, d\'ici là, nous n\'ayons trouvé refuge à bord d\'un bâtiment\... »
+
+Ce serait l\'éventualité la plus heureuse, celle sur laquelle, sans doute, il y aurait le plus à compter.
+
+« En tout cas, Will, reprit Louis Clodion, ne nous ménagez pas\... Nous sommes à votre disposition si la brise vient à mollir\...
+
+--- Je le sais, mes jeunes messieurs, répondit Will Mitz, et je ne désespère pas de nous sauver tous !
+
+Mais il est inutile de se fatiguer sans nécessité\... Étendez-vous sous le prélart ou au fond de l\'embarcation, et dormez\... S\'il le faut, je vous réveillerai\... La nuit sera tranquille, je pense\...
+
+--- Vous ne voulez pas que l\'un de nous reste à l\'écoute de la voile\... Proposa Axel Wickborn.
+
+--- Cela n\'est pas indispensable, monsieur Axel et je suffirai à tout\... Je vous le répète, si le vent obligeait à diminuer la voilure et à prendre les avirons, je vous appellerais\... Croyez-moi, enveloppez-vous de vos couvertures, et dormez jusqu\'au jour ! »
+
+Les jeunes garçons firent ce que leur conseillait Will Mitz. Deux d\'entre eux se glissèrent sous le taud auprès de M. Patterson ; les autres s\'étendirent le long des bancs, et bientôt tous dormaient à bord.
+
+Will Mitz, seul à l\'arrière, tenait la barre d\'une main, l\'autre prête à mollir ou à raidir les écoutes de la voile et du foc. Un petit fanal, éclairant la boussole posée devant lui, lui indiquait si l\'embarcation déviait de la route à suivre.
+
+Ainsi s\'écoulèrent de longues heures, sans que Will Mitz eut succombé un instant au sommeil. Trop de pensées agitaient son esprit, trop d\'inquiétudes ! Soutenu par une inébranlable confiance en Dieu, il ne désespérait pas. Il était à l\'arrière de ce canot, comme il était, l\'autre nuit, sur la dunette de l\'Alert, dirigeant l\'un d\'une main ferme, comme il avait dirigé l\'autre. Mais, au lieu du solide navire qui portait ses jeunes compagnons et lui, ce n\'était plus qu\'une frêle embarcation, avec une réserve de vivres qu\'une semaine épuiserait, qui allait les livrer à toutes les incertitudes de cette navigation, à tous les caprices, tous les dangers de la mer.
+
+La brise persistant modérée et régulière, Will Mitz n\'eut pas l\'occasion de réveiller son petit monde, et si, à plusieurs reprises, se relevant, l\'un ou l\'autre, ils l\'interrogeaient :
+
+« Cela va bien\... Cela va bien », répondait-il.
+
+Et, après un signe amical, allongés de nouveau sous leurs couvertures, ils s\'abandonnaient au sommeil.
+
+Dès l\'aube, tous furent sur pied, même M. Patterson, qui se dégagea du taud et s\'assit à l\'avant.
+
+Une belle journée s\'annonçait. Le soleil se levait sur un horizon voilé de quelques brumes que ses premiers rayons ne tardèrent pas à dissiper. Des risées couraient à la surface de la mer, zébrée de petite lames qui clapotaient le long de l\'embarcation.
+
+En premier lieu, et suivant son habitude, Tony Renault, comme il le faisait, à bord de l\'Alert, s\'occupa du déjeuner, thé qu\'il fit chauffer sur le fourneau portatif, biscuit que l\'on tira de l\'une des caisses, puis quelques gouttes de brandy mêlées à l\'eau douce.
+
+Roger Hinsdale, s\'adressant à Will Mitz, lui dit :
+
+« Il faut dormir à votre tour\... Il le faut, si vous devez passer la nuit prochaine à la barre\...
+
+--- Il le faut », ajouta Louis Clodion.
+
+Will Mitz interrogea l\'horizon du regard et, voyant la mer si calme, la brise si régulière :
+
+« Je vais dormir deux heures », répondit-il.
+
+Remettant la barre à Magnus Anders, après lui avoir donné quelques instructions, il alla s\'étendre sous le taud.
+
+Deux heures plus tard, ainsi qu\'il l\'avait dit, il reparut et vint à l\'arrière.
+
+Dès qu\'il se fut assuré que l\'embarcation était en bonne route, il observa le ciel et la mer.
+
+Les conditions atmosphériques n\'avaient point changées.
+
+Le soleil montait vers la méridienne sur un ciel pur. La température aurait été insoutenable avec la réverbération des eaux, si les fraîcheurs de la brise ne l\'eussent adoucie.
+
+Toutefois, si loin que la vue pût s\'étendre, on n\'apercevait ni la silhouette blanche d\'une voile ni le panache noir d\'une fumée. Les lorgnettes se promenèrent vainement le long de l\'immense périmètre.
+
+D\'ordinaire, à cette époque de l\'année, les navires anglais, français, américains, allemands, fréquentent ces parages ; limités au nord par l\'archipel des Bermudes, à l\'ouest par l\'archipel des Indes Occidentales. Il est rare qu\'une journée s\'écoulât sans que des bâtiments ne s\'y croisent.
+
+Aussi, Will Mitz se demandait-il si la tempête n\'avait pas entraîné l\'Alert plus au large qu\'il ne le pensait, à une distance telle qu\'elle ne pourrait être franchie en moins de deux ou trois semaines ! Et, bien avant même, les provisions seraient épuisées ! Il n\'y aurait plus à compter que sur la pêche pour se procurer un peu de nourriture, et sur la pluie pour apaiser les tortures de la soif !
+
+Ces alarmantes réflexions, Will Mitz les gardait pour lui, affectant une confiance qu\'il commençait à perdre.
+
+La matinée s\'acheva dans ces conditions que rien ne vint modifier. Une sorte de bonnette, maintenue par un tangon, ayant été hissée, la vitesse du canot s\'accrut sous l\'allure du vent arrière.
+
+Le second déjeuner, moins sommaire que le premier, se composa de biscuit, de viande sèche, de légumes conservés qu\'il suffisait de faire réchauffer, et de thé pour boisson. M. Patterson, s\'habituant à cette situation, mangea avec quelque appétit.
+
+Ses jeunes compagnons, eux, dévorèrent à belles dents, et le coeur de Will Mitz se serrait en songeant aux terribles éventualités de l\'avenir, si la navigation se prolongeait\...
+
+L\'après-midi, les lignes, mises à la traîne, rapportèrent divers poissons, qui, bouillis dans l\'eau de mer, augmentèrent le menu du dîner.
+
+Puis, la nuit vint. Aucune voile n\'avait été aperçue avant le coucher du soleil. Obligeant Louis Clodion et ses camarades à dormir comme la veille, Will Mitz resta au gouvernail jusqu\'au jour.
+
+Le lendemain, 28 septembre, le vent, qui avait légèrement molli entre le coucher et le lever du soleil, fraîchit à mesure que l\'astre du jour montait vers le zénith. Dans la matinée, il fut nécessaire d\'amener la bonnette. Avec la vitesse qui l\'animait, le canot embarquait un peu d\'eau par l\'avant, et il devenait difficile d\'éviter les embardées. Will Mitz, prévoyant le cas où il serait nécessaire de diminuer la voile, ne fit pas ses deux heures de sommeil.
+
+Le vent paraissait d\'autant mieux établi que le ciel, d\'un bleu intense, était sans nuages. Bien que le soleil, depuis l\'équinoxe, décrivit un arc diurne moins allongé, ses rayons obliques étaient d\'une extrême ardeur. Aussi convenait-il de ménager l\'eau douce, puisque seule la pluie permettrait de renouveler la provision à demi épuisée déjà. Il fallut se rationner, et chacun s\'y soumit sans se plaindre.
+
+Ce jour-là, vers trois heures de l\'après-midi, une fumée s\'allongea vers le nord-est, et l\'on eut l\'espoir de rencontrer un navire.
+
+Cet espoir fut de courte durée. La silhouette d\'un grand steamer apparut, mais à dix milles du canot.
+
+Il était impossible d\'attirer son attention, et Will Mitz eut bientôt constaté qu\'il ne croisait pas sa route.
+
+En effet, une heure après, ce steamer avait dépassé l\'embarcation, et on ne vit bientôt plus que les dernières volutes de sa fumée rabattues par la brise. Avant le dîner, Tony Renault, Hubert Perkins et Albertus Leuwen prirent encore quelques poissons, qui furent accommodés comme la veille. D\'ailleurs, il fallut aussi songer à économiser le charbon du fourneau.
+
+Le lendemain, la navigation se poursuivit à peu près dans les mêmes conditions. Seulement, le vent ayant un peu halé le nord, on dut raidir les écoutes et marcher à l\'allure du largue.
+
+Ce n\'est pas que la vitesse fût diminuée, mais le canot donnait parfois la bande, au point que son plat-bord rasait la surface de l\'eau.
+
+Will Mitz le soutenait avec la barre, rendant la main lorsqu\'il menaçait de s\'emplir, tandis que Tony Renault filait l\'écoute de la voile.
+
+Ce qui inquiétait Will Mitz, c\'était que les appréhensions qu\'il cherchait vainement à cacher commençaient à troubler ses jeunes compagnons.
+
+Et, tout d\'abord, M. Patterson, doué d\'une moins grande endurance, parut ne pas devoir résister comme il l\'avait fait jusqu\'alors. Ce n\'était pas qu\'il fût abattu par le mal de mer, non ! Des accès de fièvre l\'accablaient, accompagnés d\'une soif brûlante. Et, pour l\'apaiser, chacun lui eût volontiers abandonné sa part d\'eau douce, bien réduite déjà. S\'il s\'affaiblissait encore, si le délire le prenait, -- et parfois s\'échappaient de sa bouche des paroles incohérentes, -- que faire pour lui ?
+
+En outre, Axel Wickborn et Hubert Perkins furent en proie à de telles faiblesses, qu\'ils ne pouvaient demeurer sur les bancs.
+
+Leur figure pâlie, leurs yeux caves, leur regard incertain, indiquaient qu\'ils étaient à bout de forces, et il fallut les étendre près de M. Patterson.
+
+La nuit du 29 au 30 septembre accrut encore les anxiétés de Will Mitz. Roger Hinsdale, Tony Renault, Magnus Anders, qui avaient montré jusqu\'ici le plus d\'énergie, les durent partager. Et, pour comble de malchance, le vent, jusqu\'alors favorable à la marche du canot, marqua une tendance à mollir.
+
+Voilà ce qu\'il y avait le plus à redouter, ces calmes dont on ne prévoit pas la fin. Avec de nouveaux retards, les provisions qui diminuaient chaque jour, et l\'eau douce qui serait bientôt réduite à quelques pintes, finiraient par manquer\...
+
+C\'était le 26 au soir que l\'embarcation avait abandonné l\'Alert. Depuis quatre jours, le canot errait à l\'aventure sur cette mer toujours déserte. Et lorsque Louis Clodion demanda combien de milles il avait pu faire en direction de l\'ouest :
+
+« Cent cinquante peut-être\... répondit Will Mitz.
+
+--- Cent cinquante\... S\'écria John Howard, et nous n\'apercevons pas encore la terre\...
+
+--- Est-ce qu\'il n\'y a plus de terre de ce côté ? » Murmura Niels Harboe. Will Mitz ne sut que répondre. La terre était là, mais à quelle distance, impossible même de l\'estimer !
+
+En réalité, s\'il y avait des vivres pour quelques jours encore, il ne resterait d\'eau douce que pour quarante-huit heures, à moins que la pluie ne vint à tomber.
+
+Et, précisément, la sérénité du ciel enlevait tout espoir à cet égard.
+
+Ce vent, qui avait halé le nord, n\'amenait pas un seul nuage. Le canot avait dû dériver vers le sud, et ce n\'était pas en cette direction que se rencontrerait la côte américaine, mais bien le vaste océan ouvert jusqu\'aux limites de la mer Antarctique !
+
+D\'ailleurs, dans la nuit du 3 au 4 octobre, la brise tomba peu à peu, et, au lever de l\'aube, la voile battait sur le mât.
+
+Quel regard désespéré les plus énergiques jetèrent sur cette immensité ! Will Mitz, lui-même, croisant les mains, ne put qu\'adresser ce dernier appel à la Providence :
+
+« Mon Dieu\... Mon Dieu ! Prenez-nous en pitié ! »
+
+Une journée encore se passa sans changement, et, sous cette chaleur torride, il fallait sans cesse se relayer aux avirons. Ils n\'étaient plus que quatre qui pussent encore le faire, Louis Clodion, Tony Renault, John Howard, Magnus Anders. Leurs camarades, brisés par la fatigue, minés par la fièvre, gisaient au fond de l\'embarcation, et l\'eau potable allait leur manquer\...
+
+Will Mitz, cependant, conservait assez d\'énergie pour encourager ses jeunes compagnons. Il ne quittait la barre que pour prendre l\'aviron à son tour. En vain espérait-il que le vent reviendrait ! Les rares nuages de l\'horizon se dissipaient presque aussitôt. La voile ne battait plus, et, si on la laissait sur le mât, c\'est qu\'elle formait abri contre les brûlants rayons du soleil.
+
+Cette situation ne pouvait se prolonger.
+
+Pendant la nuit du 1er au 2 octobre, plusieurs de ces pauvres enfants eurent le délire. Ils criaient\... Ils appelaient leur mère\...
+
+Sans l\'incessante surveillance de Will Mitz, ils se fussent jetés à la mer sous l\'empire d\'effroyables hallucinations\...
+
+Enfin le jour parut, et, pour quelques-uns, ne serait-ce pas celui qui terminerait leurs souffrances ?
+
+Soudain un cri se fit entendre, -- un cri qui échappait des lèvres de Louis Clodion :
+
+« Navire ! »
+
+
+]{.calibre20}
+
+
+BOURSES DE VOYAGE
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 14 -- Au terme du voyage]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc34294229714 .pcalibre2 .pcalibre1} {#chapitre-14-au-terme-du-voyage .calibre171 .sigil_not_in_toc}
+
+Le steamer Victoria, après avoir quitté la Dominique à destination de Liverpool, se trouvait à trois cent cinquante milles dans le sud-est des Antilles, lorsque les hommes de quart aperçurent le canot de l\'Alert.
+
+Le capitaine John Davis, aussitôt prévenu, donna l\'ordre de se diriger vers cette embarcation. Était-elle abandonnée, ou contenait-elle quelques malheureux échappés à un naufrage ?
+
+Au moment où Louis Clodion avait poussé ce cri : « Navire ! » Will Mitz et deux ou trois autres s\'étaient relevés et tendaient les bras vers le bâtiment en vue.
+
+Les plus valides retrouvèrent alors quelque force, et le capitaine du Victoria n\'eut pas à envoyer une embarcation pour les recueillir. Will Mitz et Louis Clodion aux avirons, Tony Renault à la barre, le canot ne tarda pas à ranger le flanc du steamer. On lança une amarre, l\'échelle fut déployée. Cinq minutes après, tous les passagers de l\'Alert étaient à bord du Victoria, où les attendaient l\'accueil le plus bienveillant et aussi les soins dont ils avaient si grand besoin.
+
+Les voilà donc sauvés, les pensionnaires d\'Antilian School, les boursiers de Mrs Kethlen Seymour, et avec eux M. Horatio Patterson, et aussi ce courageux Will Mitz, auquel tous devaient leur salut !
+
+Louis Clodion fit le récit de ce qui s\'était passé depuis le départ de la Barbade. Le capitaine du Victoria apprit dans quelles conditions s\'effectua la première traversée, alors que l\'Alert était entre les mains d\'Harry Markel et de sa bande, puis le voyage d\'exploration à travers les Antilles, puis comment Will Mitz découvrit les desseins de ces misérables, comment ses jeunes compagnons et lui avaient dû fuir le navire en flammes, et enfin ce que venait d\'être la navigation du canot pendant ces derniers jours.
+
+Ainsi, l\'Alert, que l\'on croyait, à cette date, aux deux tiers de son voyage de retour, s\'était englouti dans les profondeurs de l\'Atlantique avec les pirates de l\'Halifax, les fugitifs de la prison du Queenstown !
+
+Et alors, au nom de ses camarades, la voix profondément émue, Louis Clodion remercia Will Mitz de tout ce que ce vaillant marin avait fait pour eux. En le pressant dans leurs bras, tous pleuraient de joie et de reconnaissance.
+
+Le Victoria était un charbonnier de deux mille cinq cents tonneaux de jauge, qui, après avoir porté un chargement de houille à la Dominique, retournait sur lest précisément à Liverpool. Les passagers de l\'Alert seraient donc ramenés directement en Angleterre. Or, comme le Victoria enlevait aisément ses quinze milles à l\'heure, le retour de M. Horatio Patterson et des jeunes lauréats ne serait même pas retardé d\'une semaine. Il va sans dire que, dès cette première journée, grâce aux soins dont ils furent l\'objet, aucun d\'eux ne se ressentait des fatigues morales et physiques, des terribles épreuves par lesquelles ils avaient passé. Cela reculait déjà dans leurs souvenirs. Ils étaient tous à cette satisfaction, à cet immense bonheur d\'en avoir fini avec les périls de la seconde traversée et les souffrances qu\'ils avaient subies à bord du canot au milieu de l\'Atlantique.
+
+Quant à M. Patterson, en achevant une longue et intéressante conversation avec le capitaine du Victoria, dans laquelle s\'entremêlèrent la figure de deux monstres, Harry Markel et le serpent de la Martinique, il s\'exprima en ces termes :
+
+« Décidément, capitaine, on a toujours raison de prendre les précautions les plus minutieuses avant de se mettre en voyage !
+
+Suave mari magno, il est doux, comme l\'a dit Lucrèce, il est doux, lorsque la mer est agitée, de se rappeler qu\'on a fait son devoir ! Que serait-il arrivé si j\'eusse disparu dans les profondeurs de l\'océan\... Si je n\'étais pas revenu au port\... Si, pendant de longues années, on eût été sans nouvelles de l\'économe d\'Antilian School ? Il est vrai, Mrs Patterson aurait pu profiter des suprêmes dispositions que j\'avais cru devoir prendre ! Mais, grâce à Dieu, je vais être de retour à temps, et il n\'y aura pas lieu d\'y donner suite ! Finis coronat opus ! »
+
+Probablement, le capitaine du Victoria ne comprit pas ce que le mentor lui disait, ni en latin ni même en sa langue, à propos de Mrs Patterson ; mais il n\'insista pas et ne put que féliciter son nouveau passager d\'avoir triomphé de tant de périls.
+
+On le voit, M. Patterson avait repris toute possession de lui-même, toute liberté d\'esprit. Et, alors, lui revint à la mémoire la fameuse citation latine qu\'il n\'était pas encore parvenu à traduire. D\'ailleurs, Tony Renault n\'entendait pas lui en faire grâce et, le lendemain, devant ses camarades :
+
+« Eh bien, monsieur Patterson, et cette traduction ? demanda-t-il. -- De votre phrase latine ?
+
+--- Oui.
+
+--- Letorum rosam angelum ?
+
+--- Non\... Non\... [Rectifia Tony Renault, rosam angelum letorum\...]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+--- Ah ! Qu\'importe l\'ordre de ces mots ?
+
+--- Il importe, au contraire, monsieur Patterson !
+
+--- Voici qui est plaisant !
+
+--- C\'est comme cela !
+
+Et vous n\'avez pas trouvé ?
+
+--- J\'ai trouvé que cela ne signifiait rien du tout\...
+
+--- Erreur ! Il est vrai, j\'ai oublié de vous prévenir que cette phrase ne peut se traduire qu\'en français\...
+
+--- Me direz-vous enfin ?
+
+--- Oui\... Quand nous serons en vue de la côte anglaise ! »
+
+Et, les jours suivants, c\'est en vain que M. Patterson tourna et retourna ces mots vraiment cabalistiques ! Un latiniste comme lui pris au dépourvu ! Aussi, très ennuyé, très vexé, dès que le cri : « Terre ! » retentit à bord, mit-il Tony Renault en demeure de s\'expliquer.
+
+« Rien n\'est plus simple, répondit le jeune loustic d\'Antilian School. -- Eh bien ?
+
+--- Rosam angelum letorum signifie exactement en bon français : Rose a mangé l\'omelette au rhum ! »
+
+M. Patterson ne comprit pas tout d\'abord, mais, quand il eut compris, il sursauta comme s\'il venait de recevoir une décharge électrique, puis se voila la face en signe d\'horreur.
+
+Bref, après une heureuse traversée, à la date du 22 octobre, le Victoria donnait dans le canal de Saint-George, et, le soir même, il s\'amarrait à son appontement des docks de Liverpool.
+
+Des dépêches furent aussitôt lancées au directeur d\'Antilian School et aux familles des jeunes pensionnaires, annonçant leur retour.
+
+Dès le soir, les journaux relataient les faits dont l\'Alert avait été le théâtre, et racontaient dans quelles conditions M. Horatio Patterson et les jeunes lauréats venaient d\'être rapatriés en Angleterre.
+
+Cette histoire eut un retentissement considérable. L\'émotion fut grande, lorsqu\'on apprit les détails de ce drame qui avait débuté dans la baie de Cork par le massacre du capitaine Paxton et de son équipage, et dont le dénouement s\'était accompli en plein océan avec l\'engloutissement d\'Harry Markel et de toute sa bande.
+
+En même temps, par les soins de M. Ardagh, Mrs Kethlen Seymour était informée de ces événements. On imagine sans peine ce que dut être l\'émotion de cette excellente et généreuse dame ! Que serait-il arrivé si elle n\'avait eu la pensée d\'assurer le passage de Will Mitz à bord de l\'Alert ! Et quelle reconnaissance elle témoigna à ce brave marin devenu le héros du jour ! Maintenant, à Liverpool, Will Mitz n\'avait plus qu\'à attendre son embarquement comme second maître sur l\'Elisa Warden.
+
+Après avoir renouvelé au capitaine du Victoria les remerciements que méritait sa conduite, M. Patterson et les pensionnaires prirent un train de nuit. Le lendemain, ils rentraient à Antilian School.
+
+À cette date, les vacances étant achevées, on se figure quel accueil les voyageurs reçurent, après les péripéties d\'un tel voyage ! Il fallut en connaître tous les détails et, assurément, l\'on en parlerait longtemps encore, toujours peut-être, pendant les heures de récréations. Malgré tant de dangers auxquels avaient échappé les passagers de l\'Alert, combien de leurs camarades regrettèrent de ne point les avoir partagés ! Et, nul doute à cet égard, si quelque nouveau concours s\'ouvrait pour l\'obtention de bourses de voyage, les concurrents ne manqueraient pas !
+
+Il est vrai, tout portait à croire qu\'il ne se rencontrerait pas une autre bande de pirates pour s\'emparer du navire affecté au transport des jeunes lauréats. Cependant, tous devaient avoir hâte de revoir leurs familles qui les attendaient avec tant d\'impatience, -- et à quoi avait-il tenu qu\'ils ne fussent jamais revenus de ce voyage aux Antilles !
+
+Aussi, à l\'exception d\'Hubert Perkins, dont les parents habitaient Antigoa, de Roger Hinsdale, dont la famille habitait Londres, John Howard, Louis Clodion, Tony Renault, Niels Harboe, Axel Wickborn, Albertus Leuwen, Magnus Anders, partirent immédiatement pour Manchester, Paris, Nantes, Copenhague, Rotterdam, Gottenborg, désireux d\'y passer quelques jours avant de revenir à Antilian School.
+
+Cette histoire ne serait pas achevée de tous points, si elle ne rappelait une dernière fois l\'attention sur M. Horatio Patterson.
+
+Il va sans dire qu\'au moment où les deux époux tombèrent dans les bras l\'un de l\'autre, la scène fut des plus touchantes. Non ! Mrs Patterson ne pouvait s\'imaginer que son mari, cet homme si rangé, si méthodique, si en dehors de toutes les éventualités fâcheuses de la vie, eût été exposé à de tels dangers et s\'en fût tiré avec tant de bonheur ! Mais ce que se disait cet excellent homme, c\'est qu\'il ne se risquerait plus jamais à braver les périls d\'une traversée ! Il n\'en sortirait peut-être pas si heureusement, non bis in idem, et Mrs Patterson admit sans conteste cet axiome de jurisprudence.
+
+Lorsque M. Patterson déposa entre les mains de Mrs Patterson la prime de sept cents livres touchée à la Barbade, il ne put que lui exprimer son vif regret de n\'y pas joindre le fameux trigonocéphale, présentement englouti dans les sombres abîmes de l\'océan Atlantique. Quel bon effet ce serpent eût produit, sinon dans le salon de l\'économat, du moins dans le cabinet d\'histoire naturelle d\'Antilian School !
+
+Et alors M. Patterson d\'ajouter :
+
+« Il ne nous reste plus maintenant qu\'à prévenir le révérend Finbook, de la paroisse d\'Oxford-street\... »
+
+Mrs Patterson ne put réprimer un sourire, et dit simplement :
+
+« C\'est inutile, mon ami\...
+
+--- Comment\... Inutile ! » s\'écria M. Patterson au comble de la surprise, et aussi de la stupéfaction.
+
+Ceci demande une explication, la voici :
+
+Par excès de précaution et dans sa fantastique manie d\'ordre poussé à l\'extrême en toutes choses, le méticuleux économe d\'Antilian School, ne trouvant pas son testament suffisant pour régler ses affaires, avait imaginé de divorcer avant son départ. De cette façon, en cas que l\'on fût sans nouvelles de lui, et même s\'il ne devait jamais revenir, Mrs Patterson n\'aurait pas à attendre des années et des années pour se trouver libérée de toute tutelle comme il est arrivé à des femmes de grands voyageurs dans d\'aussi tristes circonstances. M. Patterson ne pouvait se faire à l\'idée que, pendant son absence, sa succession ne serait point immédiatement réglée comme il convient pour des choses qui doivent être conduites avec ordre et méthode et que la chère compagne de sa vie, pour récompense de sa fidélité et de son affection, ne fût pas en mesure de disposer d\'elle-même et de sa petite fortune comme il convient à une veuve.
+
+Si les idées de M. Patterson étaient trop profondément enracinées pour qu\'on songeât à lui opposer n\'importe quelle bonne raison, sa digne épouse avait, elle aussi, ses principes bien arrêtés, si bien arrêtés qu\'elle n\'accepterait jamais un divorce, fut-ce dans ces conditions.
+
+Mais, en même temps que l\'économe était très entêté, il était distrait prodigieusement -- on a pu s\'en rendre compte au cours de ce récit -- et c\'est sur cela que comptait Mrs Patterson pour que tout s\'arrangeât selon son désir. D\'accord avec un solicitor, vieil ami, conseiller d\'Antilian School et des deux époux, elle avait feint de se prêter à toute espèce de démarches. Or, dans l\'émotion si légitime que lui causait cet acte, ainsi que l\'avait bien prévu Mrs Patterson, son mari ne s\'était aperçu de rien.
+
+« Non\... Monsieur Patterson, je n\'avais point signé\... Nous n\'avons jamais été désunis par le divorce... et notre contrat est resté et restera ce qu\'il était...
+
+Ne varietur ! » répondit M. Horacio Patterson, en serrant tendrement dans ses bras Mrs Patterson.

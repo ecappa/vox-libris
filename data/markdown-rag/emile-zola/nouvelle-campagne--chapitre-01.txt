@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NOUVELLE CAMPAGNE"
+slug_oeuvre: "nouvelle-campagne"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+NOUVELLE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Avertissement
+Tous les articles réunis dans ce volume ont paru dans *Le Figaro*, excepté le dernier.
+
+E.Z.

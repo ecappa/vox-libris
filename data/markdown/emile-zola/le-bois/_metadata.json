@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE BOIS",
+  "slug": "le-bois",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1229,
+      "spine_end_exclusive": 1230,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_239.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1230,
+      "spine_end_exclusive": 1231,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_240.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1231,
+      "spine_end_exclusive": 1232,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_241.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1232,
+      "spine_end_exclusive": 1233,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_242.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1233,
+      "spine_end_exclusive": 1234,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_243.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1234,
+      "spine_end_exclusive": 1236,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_244.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_245.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-bois/Zola4_image020.jpg"
+  ]
+}

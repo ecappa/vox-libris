@@ -1,0 +1,71 @@
+# [!{.calibre16} VINGT-QUATRE MINUTES EN BALLON]{#_Toc342943256 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_26 .calibre6}
+
+::: MsoToc1
+
+------------------------------------------------------------------------
+
+(1873)
+Jules Verne
+Essais et ouvrages historiques
+
+::: MsoToc
+
+------------------------------------------------------------------------
+
+
+[
+]{.calibre5}
+
+Voyage en ballon de Jules Verne le 28 septembre 1873 en départ de Longueville d\'Amiens
+
+« CHRONIQUE LOCALE »
+
+Journal d\'Amiens -- Moniteur de la Somme N° 5102
+
+
+[
+]{.calibre5}
+
+Mon cher Monsieur Jeunet,
+
+Voici les quelques notes que vous m\'avez demandées sur le voyage du Météore.
+
+Vous savez dans quelles conditions l\'ascension allait se faire: le ballon relativement petit, d\'une contenance de 900 mètres cubes, pesant 270 kilos avec sa nacelle et ses agrès, gonflé d\'un gaz, excellent pour l\'éclairage, mais par cela même d\'une puissance ascensionnelle médiocre, devait prendre quatre personnes, l\'aéronaute Eugène Godard, plus trois voyageurs: M. Deberly, avocat, M. Merson, lieutenant au 14e de ligne, et moi.
+
+Au moment de partir, impossible d\'enlever tout ce monde. M. Merson ayant déjà fait des ascensions aérostatiques à Nantes avec Eugène Godard, consentit, quoiqu\'il lui en lui coûtât, à céder sa place à M. Deberly, qui faisait, comme moi, sa première excursion aérienne. Le « lâchez tout » traditionnel allait être prononcé, et nous étions au moment de quitter le sol...
+
+Mais on comptait sans le fils d\'Eugène Godard, un intrépide petit bonhomme de neuf ans, qui a escaladé la nacelle, et pour lequel il a fallu sacrifier deux sacs de lest sur quatre. Deux sacs seulement! Jamais Eugène Godard ne s\'était enlevé dans ces conditions. L\'ascension ne pouvait donc être de longue durée.
+
+Nous sommes partis à 5 heures 24, lentement et obliquement. Le vent nous portait vers le sud-est, et le ciel était d\'une incomparable pureté. Quelques nuages orageux à l\'horizon seulement. Le singe Jack, précipité avec son parachute, nous a permis de monter plus rapidement, et, à 5 heures 28, nous planions à une hauteur de 800 mètres, hauteur relevée au baromètre anéroïde.
+
+La vue de la ville était magnifique. La place Longueville ressemblait à une fourmilière de fourmis rouges et noires, celles-ci civiles, celles-la militaires; la flèche de la Cathédrale s\'abaissait peu à peu, et marquait comme une aiguille les progrès de l\'ascension.
+
+En ballon, aucun mouvement, ni horizontal, ni vertical, n\'est perceptible. L\'horizon paraît toujours se maintenir à la même hauteur. Il gagne en rayon, voilà tout, tandis que la terre, au-dessous de la nacelle, se creuse comme un entonnoir. En même temps, silence absolu, calme complet de l\'atmosphère, que troublent seuls les gémissements de l\'osier qui nous porte.
+
+A 5 heures 32, un rayon de soleil sort des nuages qui chargent l\'horizon de l\'ouest, et pique le ballon; le gaz se dilate, et sans qu\'aucun lest ait été jeté, nous sommes portés à une hauteur de 1200 mètres, maximum d\'altitude que nous ayons atteint pendant le voyage.
+
+Voici ce que perçoit le regard. Sous nos pieds, Saint-Acheul et ses jardins noirâtres, rétrécis comme si on les regardait par le gros bout d\'une lorgnette; la Cathédrale écrasée, dont la flèche se confond alors avec les dernières maisons de la ville; la Somme, un mince ruban clair; les chemins de fer, quelques traits tracés au tire-ligne; les rues, des lacets sinueux; les hortillonnages, un simple étalage de marchand maraîcher; les champs, une de ces cartes d\'échantillons multicolores que les tailleurs du vieux temps suspendaient à leur porte; Amiens, un amoncellement de petits cubes grisâtres; on dirait qu\'on a vidé sur la plaine une boîte de joujoux de Nuremberg. Puis, les villages environnants, Saint-Fuscien, Villers-Bretonneux, La Neuville, Boyes, Camon, Longueau, autant de gros tas de pierres, qu\'on aurait disposés çà et là pour un macadamisage gigantesque.
+
+En ce moment, l\'intérieur de l\'aérostat est illuminé. Je regarde à travers l\'appendice inférieur qu\'Eugène Godard tient toujours ouvert. Au-dedans, clarté limpide, sur laquelle se détachent les côtes alternativement jaunes et brunes du Météore. Rien ne trahit la présence du gaz, ni sa couleur, ni son odeur.
+
+Cependant, nous descendons, car nous sommes lourds. Il faut jeter du lest pour se maintenir. Les milliers de prospectus, lancés au-dehors, indiquent un courant plus vif dans une zone plus basse. Devant nous Longueau, mais avant Longueau, une suite d\'entailles marécageuses.
+
+-- Descendrons-nous dans ce marais? ai-je demandé à Eugène Godard.
+
+-- Non, me répondit-il, et, si nous n\'avons plus de lest, je jetterai mon sac de voyage. Il faut absolument franchir ce marais.
+
+Nous retombons toujours. À 5 heures 43, et à 500 mètres du sol, un vent vif nous saisit. Nous passons au-dessus d\'une cheminée d\'usine, au fond de laquelle plongent nos regards; le ballon se réfléchit, par une sorte de mirage, dans l\'eau des entailles; les fourmis humaines ont grossi et courent sur les chemins. Un petit pré est là, entre les deux lignes du chemin de fer, en avant de la bifurcation.
+
+-- Eh bien? dis-je.
+
+-- Eh bien? nous passerons le chemin de fer, nous passerons le village qui est au-delà! me répond Eugène Godard.
+
+Le vent est vif. Nous nous en apercevons à l\'agitation des arbres. La Neuville est traversé. Devant nous, c\'est la plaine. Eugène Godard lance son guiderope, corde longue de 150 mètres, puis son ancre. À 5 heures 47, l\'ancre frappe le sol; quelques coups de soupape sont donnés; des curieux très obligeants accourent, saisissent le guiderope, et nous venons doucement toucher le sol, sans la moindre secousse. Le ballon s\'est posé là comme un gros oiseau bien portant, et non comme un gibier qui a du plomb dans l\'aile.
+
+Vingt minutes après, le ballon était dégonflé, roulé, empaqueté, placé dans une charrette, et une voiture nous ramenait à Amiens.
+
+Voilà, mon cher monsieur Jeunet, quelques impressions courtes, mais exactes. Laissez-moi ajouter qu\'une simple promenade aérienne, et même un long voyage aérostatique, n\'offrent jamais de danger, sous la direction d\'Eugène Godard. Hardi, intelligent, expérimenté, homme de grand sang-froid, qui compte déjà plus de mille ascensions dans l\'ancien et le nouveau monde, Eugène Godard ne donne jamais rien au hasard. Tout est prévu par lui. Aucun incident ne peut le surprendre. Il sait où il va, il sait où il descendra. Il choisit avec une perspicacité merveilleuse son lieu de halte. Il procède mathématiquement, le baromètre d\'une main, le sac à lest de l\'autre. Ses appareils sont admirablement conditionnés. Jamais une hésitation de la soupape, jamais une duplicature de l\'enveloppe. Une « corde de fracture » lui permet au besoin de fendre son aérostat au cas où le ballon, rasant la terre, demanderait à être instantanément vidé pour les nécessités de l\'atterrissement. Eugène Godard, par son expérience, son sang-froid, son coup d\'œil, est véritablement maître de l\'air qui le soutient et qui le véhicule, et aucun autre aéronaute, on le sait, ne peut lui être comparé. Dans ces conditions, un voyage aérien offre toute sécurité. Ce n\'est même plus un voyage, c\'est quelque chose comme un rêve, mais un rêve toujours trop court!
+
+Agréez, mon cher monsieur Jeunet, etc.
+
+Jules VERNE

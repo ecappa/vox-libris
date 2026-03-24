@@ -1,0 +1,55 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "GIL BRALTAR",
+  "slug": "gil-braltar",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 1263,
+      "spine_end_exclusive": 1264,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_868.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 1264,
+      "spine_end_exclusive": 1265,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_869.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 1265,
+      "spine_end_exclusive": 1266,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_870.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 1266,
+      "spine_end_exclusive": 1267,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_871.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

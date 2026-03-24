@@ -1,0 +1,161 @@
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## I {#calibre_toc_6 .calibre21}
+
+
+Des souvenirs de leur enfance et de leur jeunesse ?\... Oui ! c\'est bien aux hommes de mon âge qu\'il convient de les demander. Ces souvenirs sont plus vivaces que les faits dont nous avons été les témoins ou les auteurs à partir de notre maturité. Quand il a franchi la moyenne ordinaire de la vie, notre esprit se plait à ce retour vers les premières années. Les images qu\'il évoque ne sont point de celles qui se défraîchissent ou s\'effacent: ce sont des photographies inaltérables et que le temps rend plus nettes encore. Ainsi se justifie ce mot si profond d\'un écrivain français: « La mémoire est presbyte ». Elle s\'allonge en vieillissant, comme une lunette dont on développe le tube, et peut distinguer les plus lointains linéaments du passé.
+
+De pareils souvenirs sont-ils de nature à intéresser ?\... Je ne sais. Mais peut-être les jeunes lecteurs du *Goalh\'s companion* de Boston apprendront-ils non sans quelque curiosité comment me vint cette vocation d\'écrire que je poursuis au-delà des limites de la soixantaine ? Aussi, sur la demande du directeur de cette revue, j\'allonge les tubes de ma mémoire, je me retourne et je regarde en arrière.
+
+
+---
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## II {#calibre_toc_7 .calibre21}
+
+
+Et d\'abord, ai-je toujours eu du goût pour les récits dans lesquels l\'imagination se donne libre carrière ? Oui, sans doute, et ma famille a tenu en grand honneur les lettres et les arts --- d\'où je conclus que l\'atavisme entre pour une forte part dans mes instincts. Puis, il y a cette circonstance que je suis né à Nantes, où mon enfance s\'est tout entière écoulée. Fils d\'un père à demi-parisien et d\'une mère tout à fait bretonne, j\'ai vécu dans le mouvement maritime d\'une grande ville de commerce, point de départ et d\'arrivée de nombreux voyages au long cours. Je revois cette Loire, dont une lieue de ponts relie les bras multiples, ses quais encombrés de cargaisons sous l\'ombrage de grands ormes, et que la double voie du chemin de fer, les lignes de tramways ne sillonnaient pas encore. Des navires sont à quai sur deux ou trois rangs. D\'autres remontent ou descendent le fleuve. Pas de bateaux à vapeur, à cette époque; ou du moins très peu; mais quantité de ces voiliers dont les Américains ont si heureusement conservé et perfectionné le type avec leurs clippers et leurs trois-mâts goélette. En ce temps là, nous n\'avions que les lourds bâtiments à voile de la marine marchande. Que de souvenirs ils me rappellent ! En imagination, je grimpais dans leurs haubans, je me hissais à leurs hunes, je me cramponnais à la pomme de leurs mâts ! Quel désir j\'avais de franchir la planche tremblotante qui les rattachait au quai et de mettre le pied sur leur pont ! Mais, avec ma timidité d\'enfant, je n\'osais ! Timide ?\... Oui, je l\'étais, et pourtant, j\'avais déjà vu faire une révolution, renverser un régime, fonder une royauté nouvelle, bien que je n\'eusse que deux ans alors, et j\'entends encore les coups de fusil de 1830 dans les rues de la ville où, comme à Paris, la population se battit contre les troupes royales.
+
+Un jour, cependant, je me hasardai et j\'escaladai les bastingages d\'un trois-mâts, dont le gardien faisait son quart dans une buvette du voisinage. Me voilà sur le pont\... Ma main saisit une drisse et la fait glisser dans sa poulie !\... Quelle joie ! Les panneaux de la cale sont ouverts !\... Je me penche sur cet abîme\... Les odeurs fortes qui s\'en dégagent me montent à la tête --- ces odeurs où l\'acre émanation du goudron se mélange au parfum des épices !\... Je me relève, je reviens vers la dunette, j\'y entre\... Elle est remplie des senteurs marines qui lui font comme une atmosphère d\'Océan ! Voila le carré avec sa table de roulis qui ne roule pas, hélas ! sur les tranquilles eaux du port ! Voila les cabines aux cloisons craquantes, où j\'aurais voulu vivre des mois entiers, et ces cadres étroits et durs, où j\'aurais voulu dormir des nuits entières ! Puis, c\'est la chambre du capitaine, ce « maître après Dieu » !\... un bien autre personnage à mon sens que n\'importe quel ministre du roi ou lieutenant-général du royaume ! Je sors, je monte sur la dunette, et là, j\'ai l\'audace d\'imprimer un quart de tour à la roue du gouvernail\... Il me semble que le navire va s\'éloigner du quai, que ses amarres vont larguer, ses mâts se couvrir de toile, et c\'est moi, timonier de huit ans, qui vais le conduire en mer !
+
+La mer !\... Eh bien, ni mon frère qui fut marin quelques années plus tard, ni moi, nous ne la connaissions encore ! L\'été, toute notre famille se cantonnait dans une vaste campagne non loin des bords de la Loire, au milieu des vignobles, des prairies, des marais. C\'était chez un vieil oncle, un ancien armateur. Il était allé à Caracas, lui, à Porto-Gabello ! Nous l\'appelions « Oncle Prudent » et c\'est en son souvenir que j\'ai ainsi nommé l\'un des personnages de Robur le Conquérant. Mais Caracas, c\'était en Amérique, cette Amérique qui me fascinait déjà. Donc, faute de pouvoir naviguer sur mer, mon frère et moi, nous voguions en pleine campagne, à travers les prairies et les bois. N\'ayant pas de mâture où grimper, nous passions des journées à la cime des arbres ! C\'était à qui ferait son nid le plus haut. On causait, on lisait, on combinait des projets de voyage, pendant que les branches, agitées par la brise, donnaient l\'illusion du tangage et du roulis !\... Ah ! les délicieux loisirs.
+
+
+---
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## III {#calibre_toc_8 .calibre21}
+
+
+A cette époque, on ne voyageait que peu ou pas. C\'était le temps des réverbères, des sous-pieds, de la garde nationale et du briquet fumade. Oui ! j\'ai vu naître les allumettes phosphoriques, les faux-cols, les manchettes, le papier à lettre, les timbres-poste, le pantalon à jambe libre, le paletot, le gibus, la bottine, le système métrique, les bateaux à vapeur de la Loire, dits « inexplosibles » parce qu\'ils sautaient un peu moins que les autres, les omnibus, les chemins de fer, les tramways, le gaz, l\'électricité, le télégraphe, le téléphone, le phonographe ! Je suis de la génération comprise entre ces deux génies, Stéphenson et Edison ! Et j\'assiste maintenant à ces étonnantes découvertes, à la tête desquelles marche l\'Amérique, avec ses hôtels mouvants, ses machines à tartines, ses trottoirs mobiles, ses journaux en pâte « feuilletée » imprimés à l\'encre de chocolat, qu\'on lit d\'abord et qu\'on mange ensuite !
+
+Je n\'avais pas dix ans, lorsque mon père acheta une propriété à l\'extrémité de la ville, à Chantenay, quel joli nom ! Elle était située sur un coteau qui domine la rive droite de la Loire. De ma chambrette, je voyais le fleuve se dérouler sur une étendue de deux à trois lieues, entre les prairies qu\'il inonde de ses grandes crues pendant l\'hiver. L\'été, il est vrai, l\'eau lui manque, et de son lit émergent des bandes d\'un beau sable jaune, tout un archipel d\'îlots changeants ! Les navires ne suivent pas sans peine ces étroites passes, bien qu\'elles soient balisées de pylônes noirâtres que je vois encore. Ah ! cette Loire, si l\'on ne peut la comparer à l\'Hudson, au Mississipi, au Saint Laurent, elle n\'en est pas moins un des grands fleuves de la France. Sans doute, ce ne serait qu\'une humble rivière en Amérique ! Mais l\'Amérique, ce n\'est point un état, c\'est un continent tout entier !
+
+Cependant, à voir passer tant de navires, le besoin de naviguer me dévorait. Je connaissais déjà les termes de marine, et je comprenais assez les manœuvres pour les suivre dans les romans maritimes de Fenimore Cooper, que je ne puis me lasser de relire avec admiration. L\'œil à l\'oculaire d\'un petit télescope j\'observais les navires, prêts à virer, larguant leurs focs et bordant leurs brigantines, changeant derrière puis devant. Mais, mon frère et moi, nous n\'avions pas encore tâté de la navigation, même fluviale !\... Cela vint enfin.
+
+
+---
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## IV {#calibre_toc_9 .calibre21}
+
+
+Il y avait au bout du port un loueur de bateaux à un franc la journée. C\'était cher pour notre bourse, imprudent aussi, car ces bateaux peu étanches faisaient eau de toutes parts. Le premier qui nous servit n\'avait qu\'un mât, mais le second en avait deux, et le troisième en avait trois, tout comme les chasse-marée et les lougres de cabotage. Nous profitions du jusant, et nous descendions en louvoyant contre le vent d\'ouest.
+
+Ah ! quelles écoles ! Les faux coups de barre, les manœuvres manquées, les écoutes larguées mal à propos, la honte de virer vent arrière, quand la houle troublait le large bassin de la Loire devant notre Chantenay ! Généralement, nous partions à la mer descendante et nous revenions avec le flot quelques heures après. Et tandis que notre embarcation de louage marchait lourdement entre les rives, quel regard d\'envie nous jetions sur les jolis yachts de plaisance qui filaient légèrement à la surface du fleuve !
+
+Un jour, j\'étais seul dans une mauvaise yole sans quille. À dix lieues en aval de Chantenay, un bordage cède, une voie d\'eau se déclare. Impossible de l\'aveugler ! Me voici en détresse ! La yole coule à pic et je n\'ai que le temps de m\'élancer sur un îlot aux grands roseaux touffus dont le vent courbait les panaches.
+
+Or, de tous les livres de mon enfance, celui que j\'affectionnais particulièrement, c\'était le Robinson Suisse, de préférence au Robinson Crusoë. Je sais bien que l\'œuvre de Daniel de Foë a plus de portée philosophique. C\'est l\'homme livré à lui-même, l\'homme seul, l\'homme qui trouve un jour la marque d\'un pied nu sur le sable ! Mais l\'œuvre de Wyss, riche en faits et incidents, est plus intéressante pour les jeunes cervelles. C\'est la famille, le père, la mère, les enfants et leurs aptitudes diverses. Que d\'années j\'ai passées sur leur île ! Avec quelle ardeur je me suis associé à leurs découvertes ! Combien j\'ai envié leur sort ! Aussi ne s\'étonnera-t-on pas que j\'aie été irrésistiblement poussé à mettre en scène dans l\'Ile Mystérieuse les Robinsons de la Science, et dans Deux ans de vacances tout un pensionnat de Robinsons.
+
+En attendant, sur mon îlot ce n\'étaient pas les héros de Wyss. C\'était le héros de Daniel de Foë qui s\'incarnait en ma personne. Déjà je songeais à construire une cabane de branchages, à fabriquer une ligne avec un roseau et des hameçons avec des épines, à me procurer du feu, comme les sauvages, en frottant deux morceaux de bois secs l\'un contre l\'autre. Des signaux ?\... je n\'en ferais pas, car ils seraient trop vite aperçus, et je serais sauvé plus tôt que je ne le voudrais ! Et tout d\'abord, il convenait d\'apaiser ma faim. Comment ? Mes provisions s\'étaient noyées pendant le naufrage. Aller à la chasse aux oiseaux ?\... Je n\'avais ni chien ni fusil ! Eh bien, et les coquillages ?\... Il n\'y en avait pas ! Enfin, je connaissais donc les affres de l\'abandon, les horreurs du dénuement sur une île déserte, comme les avaient connus les Selkirks et personnages des Naufrages célèbres, qui ne furent point des Robinsons imaginaires ! Mon estomac criait !\...
+
+Cela ne dura que quelques heures, et, dès que la marée fut basse, je n\'eus qu\'à traverser avec de l\'eau jusqu\'à la cheville pour gagner ce que j\'appelais le continent, c\'est à dire la rive droite de la Loire. Et, je revins tranquillement à la maison, où je dus me contenter du dîner de famille au lieu du repas à la Crusoë que j\'avais rêvé, des coquillages crus, une tranche de pécari et du pain fait de farine de manioc !
+
+Telle fut cette navigation si mouvementée, avec vent contraire, voie d\'eau, navire désemparé, tout ce que pouvait désirer un naufragé de mon âge !
+
+On a quelquefois reproché à mes livres d\'exciter les jeunes garçons à quitter le foyer domestique pour courir le monde. Cela n\'est point arrivé, j\'en suis sûr. Mais si des enfants se lançaient jamais en de pareilles aventures, qu\'ils prennent exemple sur les héros des Voyages Extraordinaires, et ils sont assurés d\'arriver à bon port !
+
+
+---
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## V {#calibre_toc_10 .calibre21}
+
+
+A douze ans, je n\'avais pas encore vu la mer, la vraie mer ! Non ! J\'en étais toujours à m\'embarquer par la pensée sur les sardinières, les chaloupes de pèche, les bricks, goélettes et trois-mâts, et même les bateaux à vapeur --- on les appelait alors des pyroscaphes ! --- qui descendaient vers l\'embouchure de la Loire.
+
+Un jour enfin, mon frère et moi, nous eûmes la permission de prendre passage à bord du pyroscaphe n° 2 !\... Quelle joie ! C\'était à en perdre la tête !
+
+Nous voilà donc en route. Nous dépassons Indret, le grand établissement de l\'Etat, tout empanaché de fumées noires. Nous laissons en arrière les escales de droite et de gauche, Couesron, le Pellerin, Paimbœuf ! Le pyroscaphe coupe obliquement le large estuaire du fleuve. Voici Saint Nazaire, son embryon de jetée, sa vieille église avec son clocher d\'ardoises, tout penché, et les quelques maisons ou masures, qui composaient alors ce village si rapidement devenu ville.
+
+Se précipiter hors du bateau, descendre les roches tapissées de varechs, afin de puiser de l\'eau de mer dans notre main, et la porter à nos lèvres, ce fut pour mon frère et moi l\'affaire de quelques bonds\...
+
+« Mais elle n\'est pas salée ! dis-je en palissant.
+
+--- Pas du tout salée ! me répond-il.
+
+--- On nous a trompés ! » m\'écriai-je d\'un ton où perçait le plus vif désappointement.
+
+Les nigauds que nous étions ! La marée était basse alors, et c\'était simplement de l\'eau de la Loire que nous avions prise dans le creux d\'une roche ! Et quand le flot revint, nous la trouvâmes salée au-delà de nos espérances !
+
+
+---
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## VI {#calibre_toc_11 .calibre21}
+
+
+Enfin, j\'avais vu la mer, ou tout au moins la vaste baie qui s\'ouvre sur l\'Océan entre les extrêmes pointes du fleuve.
+
+Depuis, j\'ai parcouru le golfe de Gascogne, la Baltique, la mer du Nord, la Méditerranée. Avec une simple chaloupe d\'abord, puis un sloop, puis un steam-yacht, j\'ai pu faire du grand cabotage de plaisance. J\'ai même traversé l\'Atlantique sur le Great Eastern, et j\'ai mis le pied en Amérique, où, --- c\'est honteux de l\'avouer devant des Américains --- je ne suis resté que huit jours ! Que voulez-vous ! J\'avais un billet d\'aller et retour valable seulement une semaine !
+
+Après tout, j\'ai vu New-York, j\'ai habité Fifth-Avenue-hôtel, j\'ai franchi East-river avant la construction du pont de Brooklin, j\'ai remonté l\'Hudson jusqu\'à Albany, j\'ai visité Buffalo et le lac Erié, j\'ai contemplé les chutes du Niagara du haut de la Terrapine-tower, tandis que l\'arc-en-ciel lunaire se dessinait à travers les vapeurs de la cataracte, enfin, au-delà de Suspension-bridge, je me suis assis sur la rive canadienne\... puis je suis reparti ! Et, l\'un de mes plus sincères regrets, c\'est de penser que je ne reverrai jamais cette Amérique que j\'aime, et que tout Français peut aimer comme une sœur de la France !
+
+Mais ce ne sont pas là les souvenirs de l\'enfance et de la jeunesse, ce sont ceux de l\'âge mûr. Mes jeunes lecteurs savent maintenant à quels instincts, à quelles circonstances, je dois d\'avoir écrit cette série de romans géographiques. J\'étais à Paris, alors, vivant au milieu des musiciens, parmi lesquels j\'ai conservé de bons amis, et très peu avec mes confrères des lettres dont je suis à peine connu. Puis, j\'ai fait quelques voyages dans l\'ouest, le nord et le sud de l\'Europe, voyages bien moins extraordinaires que ceux de mes récits, et c\'est en province que je me suis retiré pour achever ma tâche.
+
+Cette tâche, c\'est de peindre la terre entière, le monde entier, sous la forme du roman, en imaginant des aventures spéciales à chaque pays, en créant des personnages spéciaux aux milieux où ils agissent.
+
+Oui ! Mais le monde est bien grand, et la vie est bien courte !
+
+Pour laisser une œuvre complète, il faudrait vivre cent ans !
+
+Eh ! j\'essaierai de devenir centenaire, comme M. Chevreul !
+
+Mais, entre nous, c\'est bien difficile !
+
+
+*Jules Verne*

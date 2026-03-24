@@ -1,0 +1,49 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "CHANSONS"
+slug_oeuvre: "chansons"
+section: "Chapitre 04"
+slug_section: "chapitre-04"
+type: "chapitre"
+---
+
+]
+
+CHANSONS
+
+Table des chansons
+
+]
+
+## Chanson turque
+Brune enfant de l'Osmanli,
+Viens, ma bien-aimée !
+La nuit sur l'azur pâli
+Glisse parfumée !
+Le jour fuit le dôme blanc
+De Sainte-Sophie.
+Bravons l'Aga vigilant
+Que ma voix défie,
+Viens et que ton bras tremblant
+À mon bras se fie.
+Cache sous le feredgé
+Ta beauté timide.
+Mon caïque est prêt, et j'ai
+Ma rame rapide.
+Irons-nous vers Tophané
+Sous le sycomore ?
+Vers le vieux palais baigné
+Des flots du Bosphore ?
+Dans quelque golfe éloigné ?
+Parle, dis encore !
+Parle, dis où tu voudras
+Que l'onde nous porte !
+Si tu restes dans mes bras,
+Sur mon coeur, qu'importe !
+Ne songe pas au retour !
+Viens, l'heure nous presse !
+Viens te donner à l'amour
+Belle enchanteresse !
+Viens m'enivrer, jiusq'au jour,
+Viens, ô ma maîtresse !

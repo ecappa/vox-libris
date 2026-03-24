@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA VÉRITÉ EN MARCHE (L’AFFAIRE DREYFUS)"
+slug_oeuvre: "la-verite-en-marche-laffaire-dreyfus"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+LA VÉRITÉ EN MARCHE (L'AFFAIRE DREYFUS)
+
+Liste des études biographiques et critiques
+
+] !
+
+## Exergue
+La vérité est en marche et rien ne l'arrêtera.

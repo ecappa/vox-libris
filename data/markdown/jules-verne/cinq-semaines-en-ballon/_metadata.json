@@ -1,0 +1,577 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "CINQ SEMAINES EN BALLON",
+  "slug": "cinq-semaines-en-ballon",
+  "nombre_chapitres": 44,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 9,
+      "spine_end_exclusive": 10,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_465.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 10,
+      "spine_end_exclusive": 11,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_466.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 11,
+      "spine_end_exclusive": 12,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_467.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 12,
+      "spine_end_exclusive": 13,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_468.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 13,
+      "spine_end_exclusive": 14,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_469.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 14,
+      "spine_end_exclusive": 15,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_470.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 15,
+      "spine_end_exclusive": 16,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_471.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 16,
+      "spine_end_exclusive": 17,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_472.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 17,
+      "spine_end_exclusive": 18,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_473.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 18,
+      "spine_end_exclusive": 19,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_474.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 19,
+      "spine_end_exclusive": 20,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_475.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 20,
+      "spine_end_exclusive": 21,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_476.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 21,
+      "spine_end_exclusive": 22,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_477.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 22,
+      "spine_end_exclusive": 23,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_478.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 23,
+      "spine_end_exclusive": 24,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_479.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16",
+      "slug": "chapitre-16",
+      "is_part": false,
+      "spine_start": 24,
+      "spine_end_exclusive": 25,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_480.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17",
+      "slug": "chapitre-17",
+      "is_part": false,
+      "spine_start": 25,
+      "spine_end_exclusive": 26,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_481.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18",
+      "slug": "chapitre-18",
+      "is_part": false,
+      "spine_start": 26,
+      "spine_end_exclusive": 27,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_482.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19",
+      "slug": "chapitre-19",
+      "is_part": false,
+      "spine_start": 27,
+      "spine_end_exclusive": 28,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_483.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20",
+      "slug": "chapitre-20",
+      "is_part": false,
+      "spine_start": 28,
+      "spine_end_exclusive": 29,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_484.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21",
+      "slug": "chapitre-21",
+      "is_part": false,
+      "spine_start": 29,
+      "spine_end_exclusive": 30,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_485.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22",
+      "slug": "chapitre-22",
+      "is_part": false,
+      "spine_start": 30,
+      "spine_end_exclusive": 31,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_486.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23",
+      "slug": "chapitre-23",
+      "is_part": false,
+      "spine_start": 31,
+      "spine_end_exclusive": 32,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_487.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24",
+      "slug": "chapitre-24",
+      "is_part": false,
+      "spine_start": 32,
+      "spine_end_exclusive": 33,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_488.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25",
+      "slug": "chapitre-25",
+      "is_part": false,
+      "spine_start": 33,
+      "spine_end_exclusive": 34,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_489.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26",
+      "slug": "chapitre-26",
+      "is_part": false,
+      "spine_start": 34,
+      "spine_end_exclusive": 35,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_490.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27",
+      "slug": "chapitre-27",
+      "is_part": false,
+      "spine_start": 35,
+      "spine_end_exclusive": 36,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_491.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28",
+      "slug": "chapitre-28",
+      "is_part": false,
+      "spine_start": 36,
+      "spine_end_exclusive": 37,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_492.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 29",
+      "slug": "chapitre-29",
+      "is_part": false,
+      "spine_start": 37,
+      "spine_end_exclusive": 38,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_493.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 30",
+      "slug": "chapitre-30",
+      "is_part": false,
+      "spine_start": 38,
+      "spine_end_exclusive": 39,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_494.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 31",
+      "slug": "chapitre-31",
+      "is_part": false,
+      "spine_start": 39,
+      "spine_end_exclusive": 40,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_495.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 32",
+      "slug": "chapitre-32",
+      "is_part": false,
+      "spine_start": 40,
+      "spine_end_exclusive": 41,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_496.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 33",
+      "slug": "chapitre-33",
+      "is_part": false,
+      "spine_start": 41,
+      "spine_end_exclusive": 42,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_497.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 34",
+      "slug": "chapitre-34",
+      "is_part": false,
+      "spine_start": 42,
+      "spine_end_exclusive": 43,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_498.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 35",
+      "slug": "chapitre-35",
+      "is_part": false,
+      "spine_start": 43,
+      "spine_end_exclusive": 44,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_499.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 36",
+      "slug": "chapitre-36",
+      "is_part": false,
+      "spine_start": 44,
+      "spine_end_exclusive": 45,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_500.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 37",
+      "slug": "chapitre-37",
+      "is_part": false,
+      "spine_start": 45,
+      "spine_end_exclusive": 46,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_501.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 38",
+      "slug": "chapitre-38",
+      "is_part": false,
+      "spine_start": 46,
+      "spine_end_exclusive": 47,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_502.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 39",
+      "slug": "chapitre-39",
+      "is_part": false,
+      "spine_start": 47,
+      "spine_end_exclusive": 48,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_503.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 40",
+      "slug": "chapitre-40",
+      "is_part": false,
+      "spine_start": 48,
+      "spine_end_exclusive": 49,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_504.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 41",
+      "slug": "chapitre-41",
+      "is_part": false,
+      "spine_start": 49,
+      "spine_end_exclusive": 50,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_505.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 42",
+      "slug": "chapitre-42",
+      "is_part": false,
+      "spine_start": 50,
+      "spine_end_exclusive": 51,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_506.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 43",
+      "slug": "chapitre-43",
+      "is_part": false,
+      "spine_start": 51,
+      "spine_end_exclusive": 52,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_507.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 44",
+      "slug": "chapitre-44",
+      "is_part": false,
+      "spine_start": 52,
+      "spine_end_exclusive": 53,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_508.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/cinq-semaines-en-ballon/frisehorizontale.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image219.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image220.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image221.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image222.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image223.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image224.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image225.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image226.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image227.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image228.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image231.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image232.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image233.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image234.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image235.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image236.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image237.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image238.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image239.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image240.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image241.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image242.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image243.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image244.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image245.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image246.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image247.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image248.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image249.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image250.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image252.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image253.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image254.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image255.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image256.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image257.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image258.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image259.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image260.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image261.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image263.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image264.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image265.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image267.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image268.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image269.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image270.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image271.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image272.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image273.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image274.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image275.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image276.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image277.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image278.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image279.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image280.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image280.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image281.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image281.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image282.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image283.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image283.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image284.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image284.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image285.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image285.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image286.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image287.jpg",
+    "images/jules-verne/cinq-semaines-en-ballon/image288.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image289.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image290.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image291.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image292.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image293.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image294.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image295.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image296.png",
+    "images/jules-verne/cinq-semaines-en-ballon/image297.png",
+    "images/jules-verne/cinq-semaines-en-ballon/imageVerneI3.jpg"
+  ]
+}

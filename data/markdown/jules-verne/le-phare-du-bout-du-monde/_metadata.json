@@ -1,0 +1,176 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE PHARE DU BOUT DU MONDE",
+  "slug": "le-phare-du-bout-du-monde",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Inauguration",
+      "slug": "chapitre-1-inauguration",
+      "is_part": false,
+      "spine_start": 1900,
+      "spine_end_exclusive": 1901,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_139.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – L'Île des États",
+      "slug": "chapitre-2-lile-des-etats",
+      "is_part": false,
+      "spine_start": 1901,
+      "spine_end_exclusive": 1902,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_140.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Les trois gardiens",
+      "slug": "chapitre-3-les-trois-gardiens",
+      "is_part": false,
+      "spine_start": 1902,
+      "spine_end_exclusive": 1903,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_141.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – La bande Kongre",
+      "slug": "chapitre-4-la-bande-kongre",
+      "is_part": false,
+      "spine_start": 1903,
+      "spine_end_exclusive": 1904,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_142.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – La goélette Maule",
+      "slug": "chapitre-5-la-goelette-maule",
+      "is_part": false,
+      "spine_start": 1904,
+      "spine_end_exclusive": 1905,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_143.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – À la baie d'Elgor",
+      "slug": "chapitre-6-a-la-baie-delgor",
+      "is_part": false,
+      "spine_start": 1905,
+      "spine_end_exclusive": 1906,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_144.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – La caverne",
+      "slug": "chapitre-7-la-caverne",
+      "is_part": false,
+      "spine_start": 1906,
+      "spine_end_exclusive": 1907,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_145.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – La Maule en réparation",
+      "slug": "chapitre-8-la-maule-en-reparation",
+      "is_part": false,
+      "spine_start": 1907,
+      "spine_end_exclusive": 1908,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_146.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Vasquez",
+      "slug": "chapitre-9-vasquez",
+      "is_part": false,
+      "spine_start": 1908,
+      "spine_end_exclusive": 1909,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_147.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Après le naufrage",
+      "slug": "chapitre-10-apres-le-naufrage",
+      "is_part": false,
+      "spine_start": 1909,
+      "spine_end_exclusive": 1910,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_148.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Les pilleurs d'épaves",
+      "slug": "chapitre-11-les-pilleurs-depaves",
+      "is_part": false,
+      "spine_start": 1910,
+      "spine_end_exclusive": 1911,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_149.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Au sortir de la baie",
+      "slug": "chapitre-12-au-sortir-de-la-baie",
+      "is_part": false,
+      "spine_start": 1911,
+      "spine_end_exclusive": 1912,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_150.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Pendant trois jours",
+      "slug": "chapitre-13-pendant-trois-jours",
+      "is_part": false,
+      "spine_start": 1912,
+      "spine_end_exclusive": 1913,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_151.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – L'aviso Santa-Fé",
+      "slug": "chapitre-14-laviso-santa-fe",
+      "is_part": false,
+      "spine_start": 1913,
+      "spine_end_exclusive": 1914,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_152.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Dénouement",
+      "slug": "chapitre-15-denouement",
+      "is_part": false,
+      "spine_start": 1914,
+      "spine_end_exclusive": 1915,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_153.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

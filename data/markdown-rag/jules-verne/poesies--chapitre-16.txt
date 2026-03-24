@@ -1,0 +1,33 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 16"
+slug_section: "chapitre-16"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 16 -- La Lune
+Bien des gens en ce monde ont une humeur bizarre,
+Et dont on cherche en vain la cause et le secret ;
+Sans qu'on sache pourquoi, leur esprit douceret
+En un instant hargneux, coléreux se déclare ;
+L'un défend une chose, et puis il la permet ;
+L'autre Anglais le matin, le soir se fait Tartare.
+L'un à l'esprit posé devient brouillon, distrait,
+L'autre, grand orateur, est muet à la barre ;
+L'un change d'habitude aussitôt déjeuner ;
+Et l'autre pour le faire attend après dîner ;
+Avare, celui-ci prodigue sa fortune ;
+L'un progressiste à fond tourne aux conservateurs ;
+D'où viennent les reflux et flux de ces humeurs ?
+Comme ceux de la mer, n'est-ce pas de la lune ?

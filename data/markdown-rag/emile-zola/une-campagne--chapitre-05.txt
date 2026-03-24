@@ -1,0 +1,84 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## L'encre et le sang
+On veut que la bataille soit entre la littérature et la politique. De tous temps, elles ont fait très mauvais ménage, et il est bon, en effet, de vider la querelle. Je dirai donc pourquoi, nous, les écrivains, nous avons un grand dédain des hommes politiques, aussi bien des ambitieux triomphants que des ratés crevant de rage.
+
+Notre orgueil vient de ce que nous sommes dans le seul absolu qui soit au monde, la pensée pure ; tandis qu'ils se débattent misérablement au milieu du relatif des choses humaines, garrottés par des nécessités de toutes sortes, condamnés à la ruse, à la bêtise et au crime. Mais cette affirmation resterait vague, si je ne l'appuyais sur des exemples.
+
+Voyons les faits.
+
+Justement, dans le tas de prose dont on m'accable, se trouve un article de M. Paul de Cassagnac, où je vais puiser de précieux arguments.
+
+Cet article m'a beaucoup frappé ; il est le seul qui signifie réellement quelque chose, car il a été écrit par un homme qui est un tempérament. J'aime les gens carrés dont les opinions sont absolument contraires aux miennes. Au moins, on sait à quoi s'en tenir ; il n'y a pas d'hypocrisie possible, et l'on va vite en besogne.
+
+Donc, M. Paul de Cassagnac se fait de l'homme politique l'idée d'un gaillard très brave, très fort à l'épée, toujours sur l'œil, qui présente au premier mot la poitrine à ses adversaires ; et cet homme politique n'est pour lui digne du pouvoir que lorsqu'il s'en empare à main armée et qu'il le garde, comme les voleurs romantiques s'emparaient d'une valise et la gardaient, à l'âge d'or des diligences.
+
+C'est évidemment une façon énergique d'entendre la politique. Au fond, il n'y a peut-être même que cette façon de sérieuse. Mais je voudrais savoir ce que pensent de la théorie les républicains dont M. Paul de Cassagnac prend la défense, en adversaire bien élevé qui envoie une carte de visite après un duel. Voyez-vous les hommes politiques de l'opportunisme et de l'intransigeance déclarés très forts, parce que les uns étranglent la France et que les autres la guettent, pour venir lui sucer le sang, quand elle sera morte ! Jamais on ne leur a porté un tel coup de massue. C'est de la politesse terrible. Les voilà supérieurs, du moment où ils savent se battre et où ils n'hésitent pas, lorsque sonne l'heure, à planter un couteau dans la gorge de la France. Eh ! grands dieux ! où sont donc les immortels principes, et que feront-ils sur les monuments de la devise sublime ; Liberté, Égalité, Fraternité ?
+
+M. Paul de Cassagnac met tout l'homme politique dans le caractère. Qu'on ne lui parle pas du talent. À quoi bon, le talent ? Un homme de talent n'est qu'une poule mouillée, qui fait la plus piteuse mine sur le terrain. Les penseurs gâtent tout dans la politique ; il faut des soldats. Soyez bête, si vous y êtes forcé, mais ayez une bonne poigne. N'allez plus à l'école, fréquentez les gymnases et les salles d'escrime.
+
+Certes, comme observateur, comme romancier analytique, je tiens grand compte du caractère. Seulement, le caractère tout sec, cela me paraît vague ; encore faut-il s'entendre sur le caractère et l'accompagner au moins d'une épithète. Troppmann était un caractère. Abadie est un caractère, Voilà des gaillards qui savaient ce qu'ils voulaient et qui n'ont point hésité à aller jusqu'au bout. Ils ont joué carrément leur tète comme le premier homme politique venu ; et, si l'on me permet de pousser la comparaison plus loin, je dirai qu'entre eux et un conquérant quelconque je ne vois qu'une question de scène plus ou moins vaste et d'appétit plus ou moins large. Pourtant, on m'accordera que, tout en ayant beaucoup de caractère, Troppmann et Abadie auraient fait d'étranges hommes politiques.
+
+J'en veux arriver à ceci : que si, au bout du caractère, il n'y a pas le talent, je dis l'intelligence dans la force de sa raison et de sa logique, l'homme reste simplement une brute dangereuse, qui volera et qui tuera avec plus ou moins d'héroïsme. Être fort, dans le beau sens, ce n'est pas uniquement vouloir et pouvoir, car tous les bandits en sont là ; c'est vouloir et pouvoir avec génie, c'est laisser une création de justice et de vérité. À tous les sommets, flamboie l'intelligence, et il n'y a pas d'homme, pas de grand homme sans elle.
+
+M. Paul de Cassagnac me laisse entendre que, si son homme à caractère volait le pouvoir au coin d'un bois, il me fusillerait comme un petit lapin. Eh bien ! il me fusillerait, et après ? Ce ne serait qu'une goutte de sang de plus versée par l'imbécillité humaine. Mais son homme à caractère ne serait pas pour cela un homme fort. En mourant, je lui crierais : « Tu n'es pas fort, tu n'es qu'une brute ! »
+
+En somme, je vois bien où va la querelle. Elle s'établit entre l'encre et le sang.
+
+Les grands mépris de M. Paul de Cassagnac, qui se pose en homme politique, sont pour nos encriers. Fi ! les vilains ! qui trempent leurs doigts dans l'encre et qui jettent leurs encrier à la tête des gens d'épée ! A-t-on jamais vu de pareils croquants ! Aux siècles derniers, on les bâtonnait. Et il nous traite de Vadius. Mon Dieu : nous pourrions l'appeler Matamore, et nous serions quittes de comparaisons classiques.
+
+Mais la question est plus grave. Je ne réponds pas ici pour avoir le plaisir de croiser ma plume avec une épée ; je réponds pour faire de la vérité, si je puis.
+
+Dites-moi, je vous prie, quel empire le sang a fécondé ? Où sont les conquêtes faites par le glaive ? Où l'empire d'Alexandre ? Où l'empire de Charlemagne ? Où l'empire de Napoléon ? Tout ce déluge de sang a trempé la terre, sans hâter seulement l'éclosion d'une idée. À chaque guerre, le sol est pourri pour des siècles. Rien ne pousse où le sang a coulé, et les champs de bataille restent maudits et empoisonnés, soufflant un vent de peste sur les cités voisines.
+
+Et passez à l'encre maintenant, cette encre que vous méprisez si fort. Si l'encre tache, elle ne pourrit pas. C'est l'encre qui féconde, c'est elle qui est la grande force de la civilisation. Pas une idée n'a poussé sans être arrosée d'encre. Une continuelle floraison s'élance et déborde de l'encrier des savants et des écrivains, la floraison superbe du génie de l'homme. Tandis que Napoléon nous noyait dans le sang, sans profit aucun, l'encre de Lavoisier et de Gay-Lussac créait une science, l'encre de Chateaubriand et de Victor Hugo accouchait d'une littérature. Je défie qu'on puisse signaler un progrès humain qui n'ait pas grandi dans une goutte d'encre.
+
+Vous voyez donc bien que cela n'est pas si laid, d'avoir les doigts taché d'encre. Cela prouve tout au moins qu'on travaille, et cela signifie encore qu'on a l'ambition de donner une poussée au monde. Notre siècle de science, où l'intelligence fait l'aristocratie, n'est plus un siècle de féodalité, où la force physique seule déterminait la supériorité. Nous admirons plus que personne le courage ; mais, outre qu'il y a toutes sortes de courages, et que l'écrivain assis à sa table est souvent un héros, nous estimons que l'humanité a plus besoin d'intelligence que de bravoure, à l'heure actuelle. Arrosez d'encre la jeune génération dans les écoles, avant de l'arroser de sang sur les champs de bataille : notre France sera grande, car en 1870 elle a été uniquement battue par la science.
+
+Quant à M. Paul de Cassagnac qui parle avec dédain des coups d'encrier, il a vraiment tort. C'est une mauvaise blessure, et on doit se méfier. Beaucoup de gens sont morts d'un coup d'encrier reçu au visage. Demandez à Voltaire. On guérit souvent d'un coup d'épée, tandis qu'on ne guérit jamais d'un coup de plume, lorsqu'il a porté. C'est que l'épée n'est que l'arme des muscles et ne prouve absolument rien ; tandis que la plume est l'arme de l'intelligence et qu'elle fait œuvre de vérité.
+
+J'entends bien que les hommes politiques se fâcheront et qu'ils refuseront de se reconnaître dans ce portrait du parfait duelliste. Ils voudront ajouter quelque chose au caractère, un peu d'esprit et beaucoup d'adresse. Et si nous plaisantons, ils se poseront comme des hommes d'action, en nous traitant de plumitifs.
+
+Voilà le grand mol lâché : ces messieurs sont des hommes d'action et nous sommes des hommes de cabinet. Eh bien ! j'accepte cela. Voyons un peu.
+
+Un homme est dans son cabinet. Il ne bouge pas, il reste assis, pendant des heures. Devant lui, il n'a qu'un encrier, une plume et du papier. Un silence absolu, pas un acte. Mais cet homme est Rabelais, cet homme est Molière, cet homme est Balzac. Et, dès lors, dans cette mort apparente des membres, il y a une action formidable, une action, qui va bouleverser le monde, hâter les siècles, mûrir l'humanité, car c'est ici le cerveau qui agit et qui travaille pour l'immortalité.
+
+Un homme est au pouvoir, dans les Chambres ou dans la rue. Il se donne un mouvement terrible, mène à coups de fouet un troupeau, se dépense en paroles et en actes de toutes sortes. Il est dans les faits, et non dans les idées, il a la prétention de faire un peuple. Cet homme, c'est Casimir-Perier, c'est Guizot, c'est Thiers. Et, quand il a bien piétiné, quand il a empli son époque de son agitation, il disparaît tout entier avec son œuvre, il ne laisse que la mémoire d'un fantôme, comme les grands comédiens.
+
+Je veux dire que la seule action réelle et durable se trouve dans la pensée écrite, et que les hommes politiques, si hauts qu'ils soient, meurent à la tâche, tandis que leurs châteaux de cartes croulent sur le sable toujours mouvant de l'histoire. Les plus justes comme les plus criminels laissent à peine un nom. Nous ne pouvons même plus les juger, car leurs œuvres ont disparu, et elles ont d'ailleurs été bâties dans le relatif des choses humaines, qui leur enlève toute certitude.
+
+Oui, nous sommes dans nos cabinets, et du fond de notre silence et de notre immobilité, je vous assure que nous faisons des gorges-chaudes, en regardant vos fameuses besognes d'hommes d'action. Sautez et valsez, suez à la peine, essoufflez-vous à satisfaire vos appétits : vous ne serez jamais, pour nous autres observateurs, que des pantins dont la mécanique est plus ou moins bien réglée. Quand les empires d'Alexandre, de César et de Napoléon sont tombés en poudre, quand cent années d'histoire tiennent dans les quelques pages d'un volume, quand les plus grands des tribuns et des ministres sont jugés en une ligne, sur laquelle les historiens ne s'entendent même pas, je vous demande un peu ce que peuvent peser vos républiques personnelles, avec leurs étiquettes d'un jour ! Au panier, la république opportuniste ! Au panier, la république intransigeante ! Ce ne sont là que des secondes dans la vie d'un peuple, et ce qui vous passionne si fort, ne fera pas seulement tourner la tête à nos neveux. Nous sommes dans nos cabinets, et si un de nous a le génie d'écrire un chef-d'œuvre, lui seul immortalisera la France. De Rome disparue, il reste Virgile.
+
+Le plus drôle, c'est que M. Paul de Cassagnac nous dit gravement que nous ne valons pas les hommes politiques et que nous ne les comprenons pas. Ah ! de grâce, mes amis, tenez-moi ferme, de peur que je n'éclate de fou rire ! Nous voyez-vous ne pas comprendre ces messieurs, parce qu'ils sont trop profonds sans doute, et que notre enfantillage de poètes ne peut se hausser à leur caractère d'hommes d'action ! À quoi bon les nommer ? Il n'y en a pas un de la troupe, depuis le premier rôle jusqu'aux utilités, en passant par le valet et par le traître, dont nous ne connaissions les ficelles grosses comme des câbles. Eh ! c'est notre métier de fouiller les cerveaux et les cœurs, d'analyser le cadavre humain. Donnez-nous un homme, le plus adroit, le plus ambitieux, le plus brave, nous le mettrons sur la dalle de notre amphithéâtre et nous vous dirons ce qu'il a dans le crâne. De la fumée, du son, et pour les meilleurs une fêlure.
+
+Nous sommes donc la grande force, avec notre encre et nos plumes. Les hommes politiques le savent bien, et c'est pour cela qu'ils affectent tant de mépris. Nous tenons les oreilles et nous tenons les cœurs. Quand un artiste se lève, un frisson passe sur le peuple, la terre pleure ou s'égaye : il est le maître, il ne mourra plus, les siècles sont à lui.
+
+Sans doute, cet écrivain tenait peut-être une mauvaise figure au pouvoir. Il a parfois négligé l'escrime et l'équitation, ce qui le rendrait gauche, les jours de revue. D'ailleurs, il confesse qu'il n'a aucune puissance politique, à ce point que s'il se présentait comme député, on lui préférerait certainement quelque imbécile. Les gardes champêtres eux-mêmes refusent de lui obéir. Comme il n'a persuadé à personne que le salut de la France est dans son précieux individu, il peut se moucher à son gré, changer de linge et d'opinions, sans ébranler la patrie. En un mot, il ne compte pas dans la machine gouvernementale, il n'a pas d'action immédiate sur le présent. Mais quelle revanche, le lendemain !
+
+Allons, messieurs, gouvernez, faites de l'histoire ! Nous sommes là, comme greffiers, et nous écrivons. Seulement, grenez garde ! À Rome, nous nous appelons Juvénal, et nous écrivons des satires. Sous la Restauration, nous signons nos pamphlets du nom de Paul-Louis Courier ; et, au 2 décembre, nous sommes Victor Hugo, nous souffletons l'Empire naissant du cri sublime des *Châtiments*.
+
+Eh bien ! à la place de nos gouvernants, je serais plein d'inquiétude. Il y a, parmi les hommes politiques du jour, trop de grotesques et trop de petits hommes. Cela finira par tenter quelques bonnes plumes. Vraiment, on n'abuse pas à ce point de la médiocrité, on n'apporte pas des sujets d'une drôlerie si extraordinaire, lorsqu'on affecte la haine de la littérature. Tremblez de ne pas mourir tout entiers et de vivre pour nous !
+
+Disparaître à jamais, tomber dans ce gouffre de l'histoire où de plus grands que vous dorment de l'éternel oubli, c'est encore le rêve le plus doux que vous puissiez faire. Vous nous appartenez, et si nous vous prenons, vous resterez cloués dans nos œuvres. Nous ne sommes rien, vous nous dédaignez parce que nous ne disposons pas même des voix d'une commune. Enfants que vous êtes ! nous disposons des peuples, et c'est nous qui donnons la gloire. Achille, le bouillant, et Ulysse, le politique, ne seraient pas, si Homère ne les avait chantés.
+
+Ah ! de tout mon cœur, de toute ma volonté, je voudrais mettre l'intelligence sur le plus haut sommet et l'adorer. Je voudrais lui sacrifier le corps, je voudrais l'imposer dans la forme de la pensée écrite, qui est la forme la plus réelle et la plus durable. Je lui ai donné toute ma vie, j'en ai vécu et j'en mourrai. Si je suis injuste parfois, c'est que je l'aime trop, et si je vaux quelque chose c'est aussi qu'elle me consume de passion. Il n'y a que la pensée écrite. Le reste n'est qu'agitations vaines, que visions d'une heure emportées par le vent.
+
+Ce n'est plus un Messie, c'est la Vérité, qu'attendent les nations modernes. Et les nouveaux prophètes qui en annoncent la venue, ne donnent plus leur sang, dont nous n'avons que faire ; les nouveaux prophètes, savants et écrivains, donnent leur encre, qui féconde notre intelligence.

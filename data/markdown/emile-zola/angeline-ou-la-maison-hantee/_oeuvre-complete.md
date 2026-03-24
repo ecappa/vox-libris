@@ -1,0 +1,221 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5984 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[ANGELINE OU LA MAISON HANTÉE]{lang="EN-GB"}
+
+[[Liste des contes et nouvelles](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre32 .calibre4 .sgc-1}
+
+]{.calibre33} [!{#Image5985 .calibre35}]{.calibre34}
+
+## []{#_Toc368832986 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832712 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832438 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832164 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831890 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831616 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831342 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831068 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830794 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830520 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830246 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829972 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829698 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829424 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829150 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828876 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828602 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828328 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828054 .pcalibre .calibre3 .pcalibre1}[]{#_Table_des_matières_18 .pcalibre .calibre3 .pcalibre1}Table des matières {#calibre_toc_66 .calibre36}
+
+!{#Image5708 .calibre37}
+
+[[I]{.calibre10}](../Text/Zola4_split_310.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[II]{.calibre10}](../Text/Zola4_split_311.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[III]{.calibre10}](../Text/Zola4_split_312.htm){.pcalibre .calibre3 .pcalibre1}
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5986 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[ANGELINE OU LA MAISON HANTÉE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5987 .calibre35}
+
+## []{#_Toc368832987 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832713 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832439 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832165 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831891 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831617 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831343 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831069 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830795 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830521 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830247 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829973 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829699 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829425 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829151 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828877 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828603 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828329 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368828055 .pcalibre .calibre3 .pcalibre1} {#i .calibre43}
+
+
+Il y a près de deux ans, je filais à bicyclette par un chemin désert, du côté d'Orgeval, au-dessus de Poissy, lorsque la brusque apparition d'une propriété, au bord de la route, me surprit tellement, que je sautai de la machine pour la mieux voir. C'était, sous le ciel gris de novembre, dans le vent froid qui balayait les feuilles mortes, une maison de briques, sans grand caractère, au milieu d'un vaste jardin, planté de vieux arbres. Mais ce qui la rendait extraordinaire, d'une étrangeté farouche qui serrait le coeur, c'était l'affreux abandon dans lequel elle se trouvait. Et, comme un vantail de la grille était arraché, comme un immense écriteau, déteint par les pluies, annonçait que la propriété était à vendre, j'entrai dans le jardin, cédant à une curiosité mêlée d'angoisse et de malaise.
+
+Depuis trente ou quarante ans peut-être, la maison devait être inhabitée. Les briques des corniches et des encadrements, sous les hivers, s'étaient disjointes, envahies de mousses et de lichens. Des lézardes coupaient la façade, pareilles à des rides précoces, sillonnant cette bâtisse solide encore, mais dont on ne prenait plus aucun soin. En bas, les marches du perron, fendues par la gelée, barrées par des orties et par des ronces, étaient là comme un seuil de désolation et de mort. Et, surtout, l'affreuse tristesse venait des fenêtres sans rideaux, nues et glauques, dont les gamins avaient cassé les vitres à coups de pierre, toutes laissant voir le vide morne des pièces, ainsi que des yeux éteints, restés grands ouverts sur un corps sans âme. Puis, à l'entour, le vaste jardin était une dévastation, l'ancien parterre à peine reconnaissable sous la poussée des herbes folles, les allées disparues, mangées par les plantes voraces, les bosquets transformés en forêts vierges, une végétation sauvage de cimetière abandonné dans l'ombre humide des grands arbres séculaires, dont le vent d'automne, ce jour-là, hurlant tristement sa plainte, emportait les dernières feuilles.
+
+Longtemps, je m'oubliai là, au milieu de cette plainte désespérée qui sortait des choses, le coeur troublé d'une peur sourde, d'une détresse grandissante, retenu pourtant par une compassion ardente, un besoin de savoir et de sympathiser avec tout ce que je sentais, autour de moi, de misère et de douleur. Et, lorsque je me fus décidé à sortir, ayant aperçu de l'autre côté de la route, à la fourche de deux chemins, une façon d'auberge, une masure où l'on donnait à boire, j'entrai, résolu à faire causer les gens du pays.
+
+Il n'y avait là qu'une vieille femme, qui me servit en geignant un verre de bière. Elle se plaignait d'être établie sur ce chemin écarté, où il ne passait pas deux cyclistes par jour. Elle parlait indéfiniment, contait son histoire, disait qu'elle se nommait la mère Toussaint, qu'elle était venue de Vernon avec son homme pour prendre cette auberge, que d'abord les choses n'avaient pas mal marché, mais que tout allait de mal en pis, depuis qu'elle était veuve. Et, après son flot de paroles, lorsque je me mis à l'interroger sur la propriété voisine, elle devint tout d'un coup circonspecte, me regardant d'un air méfiant, comme si je voulais lui arracher des secrets redoutables.
+
+--- Ah ! oui, la Sauvagière, la maison hantée, comme on dit dans le pays\... Moi, je ne sais rien, monsieur. Ce n'est pas de mon temps, il n'y aura que trente ans à Pâques que je suis ici, et ces choses-là remontent à quarante ans bientôt. Quand nous sommes venus, la maison était à peu près dans l'état où vous la voyez\... Les étés passent, les hivers passent, et rien ne bouge, si ce n'est les pierres qui tombent.
+
+--- Mais enfin, demandai-je, pourquoi ne la vend-on pas, puisqu'elle est à vendre ?
+
+--- Ah ! pourquoi ? pourquoi ? Est-ce que je sais ?\... On dit tant de choses\...
+
+Sans doute, je finissais par lui inspirer confiance. Puis, elle brûlait de me les répéter ces choses qu'on disait. Elle me conta, pour commencer, que pas une des filles du village voisin n'aurait osé entrer à la Sauvagière, après le crépuscule, parce que le bruit courait qu'une pauvre âme y revenait la nuit. Et, comme je m'étonnais que, si près de Paris, une pareille histoire pût encore trouver quelque créance, elle haussa les épaules, voulut d'abord faire l'âme forte, laissa voir ensuite sa terreur inavouée.
+
+--- Il y a pourtant des faits, monsieur. Pourquoi ne vend-on pas ? J'en ai vu venir, des acquéreurs, et tous s'en sont allés plus vite qu'ils ne sont venus, jamais on n'en a vu reparaître un seul. Eh bien ! ce qui est certain, c'est que, dès qu'un visiteur ose se risquer dans la maison, il s'y passe des choses extraordinaires : les portes battent, se referment toutes seules avec fracas, comme si un vent terrible soufflait ; des cris, des gémissements, des sanglots montent des caves ; et, si l'on s'entête, une voix déchirante jette ce cri continu : « Angeline ! Angeline ! Angeline ! » dans un appel d'une telle douleur, qu'on en a les os glacés\... Je vous répète que c'est prouvé, personne ne vous dira le contraire.
+
+J'avoue que je commençais à me passionner, pris moi-même d'un petit frisson froid sous la peau.
+
+--- Et cette Angeline, qui est-ce donc ?
+
+--- Ah ! monsieur, il faudrait tout vous conter. Encore un coup, moi, je ne sais rien.
+
+Cependant, elle finit par me tout dire. Il y avait quarante ans, vers 1858, au moment où le second Empire triomphant était en continuelle fête, M. de G\..., qui occupait une fonction aux Tuileries, perdit sa femme, dont il avait une fillette d'une dizaine d'années, Angeline, un miracle de beauté, vivant portrait de sa mère. Deux ans plus tard, M. de G\... se remariait, épousait une autre beauté célèbre, veuve d'un général. Et l'on prétendait que, dès ces secondes noces, une atroce jalousie était née entre Angeline et sa belle-mère l'une frappée au coeur de voir sa mère déjà oubliée, remplacée si vite au foyer par cette étrangère ; l'autre, obsédée, affolée d'avoir toujours devant elle ce vivant portrait d'une femme qu'elle craignait de ne pouvoir faire oublier. La Sauvagière appartenait à la nouvelle Mme de G\..., et là, un soir, en voyant le père embrasser passionnément sa fille, elle aurait, dans sa démence jalouse, frappé l'enfant d'un tel coup, que la pauvre petite serait tombée morte, la nuque brisée. Puis, le reste devenait effroyable : le père éperdu consentant à enterrer lui-même sa fille dans une cave de la maison, pour sauver la meurtrière ; le petit corps restant là enfoui durant des années, tandis qu'on disait la fillette chez une tante ; les hurlements d'un chien, qui s'acharnait à gratter le sol, faisant enfin découvrir le crime, dont les Tuileries s'étaient empressées d'étouffer le scandale. Aujourd'hui, M. et Mme de G\... étaient morts, et Angeline revenait encore chaque nuit, aux appels de la voix lamentable qui l'appelait, de l'au-delà mystérieux des ténèbres.
+
+--- Personne ne me démentira, conclut la mère Toussaint. Tout cela est aussi vrai que deux et deux font quatre.
+
+Je l'avais écoutée, effaré, choqué par des invraisemblances, mais conquis cependant par l'étrangeté violente et sombre du drame. Ce M. de G\..., j'en avais entendu parler, je croyais savoir qu'en effet, il s'était remarié et qu'une douleur de famille avait assombri sa vie. Était-ce donc vrai ? Quelle histoire tragique et attendrissante, toutes les passions humaines remuées, exaspérées jusqu'à la démence, le crime passionnel le plus terrifiant qu'on pût voir, une fillette belle comme le jour, adorée, et tuée par la marâtre, et ensevelie par le père dans un coin de cave ! C'était trop beau d'émotion et d'horreur. J'allais questionner encore, discuter. Puis, je me demandai à quoi bon ? Pourquoi ne pas emporter, dans sa fleur d'imagination populaire, ce conte effroyable ?
+
+Comme je remontais à bicyclette, je jetai un dernier coup d'oeil sur la Sauvagière. La nuit tombait, la maison en détresse me regardait de ses fenêtres vides et troubles, pareilles à des yeux de morte, pendant que le vent d'automne se lamentait dans les vieux arbres.
+
+
+---
+
+::: WordSection
+[
+]{.calibre38}
+
+!{#Image5988 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[ANGELINE OU LA MAISON HANTÉE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5989 .calibre35}
+
+## []{#_Toc368832988 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832714 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832440 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832166 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831892 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831618 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831344 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831070 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830796 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830522 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830248 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829974 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829700 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829426 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829152 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828878 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828604 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828330 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368828056 .pcalibre .calibre3 .pcalibre1} {#sigil_toc_id_6 .calibre43}
+
+
+Pourquoi cette histoire se fixa-t-elle dans mon crâne, jusqu'à devenir une obsession, un véritable tourment ? C'est là un de ces problèmes intellectuels difficiles à résoudre. J'avais beau me dire que de pareilles légendes courent la campagne, que celle-ci ne présentait en somme aucun intérêt direct pour moi. Malgré tout, l'enfant morte me hantait, cette Angeline délicieuse et tragique, qu'une voix éplorée appelait chaque nuit, depuis quarante ans, à travers les pièces vides de la maison abandonnée.
+
+Et, pendant les deux premiers mois de l'hiver, je fis des recherches. Évidemment, si peu qu'une telle disparition, une aventure à ce point dramatique, eût transpiré au-dehors, les journaux du temps avaient dû en parler. Je fouillai les collections à la Bibliothèque nationale, sans rien découvrir, pas une ligne ayant trait à une semblable histoire. Puis, j'interrogeai les contemporains, des hommes des Tuileries : aucun ne put me répondre nettement, je n'obtins que des renseignements contradictoires, si bien que j'avais abandonné tout espoir d'arriver à la vérité, sans cesser d'être en proie au tourment du mystère, lorsqu'un hasard me mit, un matin, sur une piste nouvelle.
+
+J'allais, toutes les deux ou trois semaines, rendre une visite de bonne confraternité, de tendresse et d'admiration, au vieux poète V\..., qui est mort en avril dernier, à près de soixante-dix ans. Depuis de longues années déjà, une paralysie des jambes le tenait cloué sur un fauteuil dans son petit cabinet de travail de la rue d'Assas, dont la fenêtre donnait sur le jardin du Luxembourg. Il achevait là très doucement une vie de rêve, n'ayant vécu que d'imagination, s'étant fait à lui-même l'idéal palais où il avait, loin du réel, aimé et souffert. Qui de nous ne se rappelle son fin visage aimable, ses cheveux blancs aux boucles enfantines, ses pâles yeux bleus qui avaient gardé une innocence de jeunesse ? On ne pouvait dire qu'il mentait toujours. Mais la vérité était qu'il inventait sans cesse, de sorte qu'on ne savait jamais au juste où la réalité cessait pour lui, et où commençait le songe. C'était un bien charmant vieillard, depuis longtemps hors de la vie, dont la conversation m'émouvait souvent comme une révélation discrète et vague de l'inconnu.
+
+Ce jour-là, je causais donc avec lui, près de la fenêtre, dans l'étroite pièce, que chauffait toujours un feu ardent. Dehors, la gelée était terrible, le jardin du Luxembourg s'étendait blanc de neige, déroulant un vaste horizon de candeur immaculée. Et je ne sais comment j'en vins à lui parler de la Sauvagière, de cette histoire qui me préoccupait encore : le père remarié, la marâtre jalouse de la fillette, vivant portrait de sa mère, puis l'ensevelissement au fond de la cave. Il m'avait écouté avec le tranquille sourire qu'il gardait même dans la tristesse. Un silence s'était fait, son pâle regard bleu se perdit au loin, dans l'immensité blanche du Luxembourg, tandis qu'une ombre de rêve, émanée de lui, semblait l'entourer d'un frisson léger.
+
+--- J'ai beaucoup connu M. de G\..., dit-il lentement. J'ai connu sa première femme, d'une beauté surhumaine ; j'ai connu la seconde, non moins prodigieusement belle ; et je les ai même passionnément aimées toutes les deux, sans jamais le dire. J'ai connu Angeline, qui était plus belle encore, que tous les hommes auraient adorée à genoux\... Mais les choses ne se sont pas tout à fait passées comme vous le dites.
+
+Ce fut pour moi une grosse émotion. Était-ce donc la vérité inattendue dont je désespérais ? Allais-je tout savoir ? D'abord, je ne me méfiai pas, et je lui dis :
+
+--- Ah ! mon ami, quel service vous me rendrez ! Enfin, ma pauvre tête va pouvoir se calmer. Parlez vite, dites-moi tout.
+
+Mais il ne m'écoutait pas, ses regards restaient perdus au loin. Puis il parla d'une voix de songe, comme s'il eût créé les êtres et les choses, au fur et à mesure qu'il les évoquait.
+
+--- Angeline était, à douze ans, une âme où tout l'amour de la femme avait déjà fleuri, avec ses emportements de joie et de douleur. Ce fut elle qui tomba éperdument jalouse de l'épouse nouvelle, qu'elle voyait chaque jour au bras de son père. Elle en souffrait comme d'une trahison affreuse, ce n'était plus sa mère seule que le nouveau couple insultait, c'était elle-même qu'il torturait, dont il déchirait le coeur. Chaque nuit, elle entendait sa mère qui l'appelait de son tombeau ; et, une nuit, pour la rejoindre, souffrant trop, mourant de trop d'amour, cette fillette de douze ans s'enfonça un couteau dans le coeur.
+
+Je jetai un cri.
+
+--- Grand Dieu ! est-ce possible ?
+
+--- Quelle épouvante et quelle horreur, continua-t-il sans m'entendre, lorsque, le lendemain, M. et Mme de G\... trouvèrent Angeline dans son petit lit, avec ce couteau jusqu'au manche, en pleine poitrine ! Ils étaient à la veille de partir pour l'Italie, il n'y avait plus là qu'une vieille femme de chambre qui avait élevé l'enfant. Dans leur terreur qu'on pût les accuser d'un crime, ils se firent aider par elle, ils enterrèrent en effet le petit corps, mais en un coin de la serre qui est derrière la maison, au pied d'un oranger géant. Et on l'y trouva, le jour où, les parents morts, la vieille bonne conta cette histoire.
+
+Des doutes m'étaient venus, je l'examinais, pris d'inquiétude, me demandant s'il n'inventait pas.
+
+--- Mais, lui demandai-je, croyez-vous donc aussi qu'Angeline puisse revenir chaque nuit, au cri déchirant de la voix mystérieuse qui l'appelle ?
+
+Cette fois il me regarda, il se remit à sourire d'un air indulgent.
+
+--- Revenir, mon ami, eh ! tout le monde revient. Pourquoi ne voulez-vous pas que l'âme de la chère petite morte habite encore les lieux où elle a aimé et souffert ? Si l'on entend une voix qui l'appelle, c'est que la vie n'a pas encore recommencé pour elle, et elle recommencera, soyez-en sûr, car tout recommence, rien ne se perd, pas plus l'amour que la beauté\... Angeline ! Angeline ! Angeline ! et elle renaîtra dans le soleil et dans les fleurs.
+
+Décidément, ni la conviction ni le calme ne se faisaient en moi. Mon vieil ami V\..., le poète enfant, ne m'avait même apporté que plus de trouble. Il inventait sûrement. Cependant, comme tous les voyants, peut-être devinait-il.
+
+--- C'est bien vrai, tout ce que vous me racontez là ? osai-je lui demander en riant.
+
+Il s'égaya doucement à son tour.
+
+--- Mais, certainement, c'est vrai. Est-ce que tout l'infini n'est pas vrai ?
+
+Ce fut la dernière fois que je le vis, ayant dû m'absenter de Paris, quelque temps après. Je le revois encore, avec son regard songeur, perdu sur les nappes blanches du Luxembourg, si tranquille dans la certitude de son rêve sans fin, tandis que moi, le besoin de fixer à jamais la vérité, toujours fuyante, me dévore.
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5990 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[ANGELINE OU LA MAISON HANTÉE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5991 .calibre35}
+
+## []{#_Toc368832989 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832715 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832441 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832167 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831893 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831619 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831345 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831071 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830797 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830523 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830249 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829975 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829701 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829427 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829153 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828879 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828605 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828331 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368828057 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Dix-huit mois se passèrent. J'avais dû voyager, de grands soucis et de grandes joies avaient passionné ma vie, dans le coup de tempête qui nous emporte tous à l'inconnu. Mais, toujours, à certaines heures, j'entendais venir de loin et passer en moi le cri désolé : « Angeline ! Angeline ! Angeline ! » Et je restais tremblant, repris de doute, torturé par le besoin de savoir. Je ne pouvais oublier, il n'est d'autre enfer pour moi que l'incertitude.
+
+Je ne puis dire comment, par une admirable soirée de juin, je me retrouvai à bicyclette dans le chemin écarté de la Sauvagière. Avais-je formellement voulu la revoir ? Était-ce un simple instinct qui m'avait fait quitter la grand-route pour me diriger de ce côté ? Il était près de huit heures ; mais le ciel, à ces plus longs jours de l'année, rayonnait encore d'un coucher d'astre triomphal, sans un nuage, tout un infini d'or et d'azur. Et quel air léger et délicieux, quelle bonne odeur d'arbres et d'herbages, quelle tendre allégresse dans la paix immense des champs !
+
+Comme la première fois, devant la Sauvagière, la stupeur me fit sauter de machine. J'hésitai un instant, ce n'était plus la même propriété. Une belle grille neuve luisait au soleil couchant, on avait relevé les murs de clôture, et la maison, que je voyais à peine parmi les arbres, me semblait avoir repris, une gaieté riante de jeunesse. Était-ce donc la résurrection annoncée ? Angeline était-elle revenue à la vie, aux appels de la voix lointaine ?
+
+J'étais resté sur la route, saisi, regardant, lorsqu'un pas traînard, près de moi, me fit tressaillir. C'était la mère Toussaint, qui ramenait sa vache d'une luzerne voisine.
+
+--- Ils n'ont donc pas eu peur, ceux-là ? dis-je, en désignant la maison du geste.
+
+Elle me reconnut, elle arrêta sa bête.
+
+--- Ah ! monsieur, il y a des gens qui marcheraient sur le bon Dieu. Voici plus d'un an déjà que la propriété a été achetée. Mais c'est un peintre qui a fait ce coup-là, le peintre B\..., et vous, savez, ces artistes, c'est capable de tout.
+
+Puis, elle emmena sa vache, en ajoutant, avec un hochement de tête :
+
+--- Enfin, faudra voir comment ça tourne.
+
+Le peintre B\..., le délicat et ingénieux artiste qui avait peint tant d'aimables Parisiennes ! Je le connaissais un peu, nous échangions des poignées de main, dans les théâtres, dans les salles d'exposition, partout où l'on se rencontre. Et, brusquement, une irrésistible envie me prit d'entrer, de me confesser à lui, de le supplier de me dire ce qu'il savait de vérité, sur cette Sauvagière dont l'inconnu m'obsédait. Et, sans raisonner, sans m'arrêter à mon costume poussiéreux de cycliste, que l'usage commence à tolérer d'ailleurs, je roulai ma bicyclette jusqu'au tronc moussu d'un vieil arbre. Au tintement clair de la sonnette, dont le ressort battait à la grille, un domestique vint, à qui je remis ma carte, et qui me laissa un instant dans le jardin.
+
+Ma surprise grandit encore, lorsque je jetai un regard autour de moi. On avait réparé la façade, plus de lézardes, plus de briques disjointes ; le perron, garni de roses, était redevenu un seuil de bienvenue joyeuse ; et les fenêtres vivantes riaient maintenant, disaient la joie intérieure, derrière la blancheur de leurs rideaux. Puis, c'était le jardin débarrassé de ses orties et de ses ronces, le parterre reparu, comme un grand bouquet odorant, les vieux arbres rajeunis, dans leur paix séculaire, par la pluie d'or d'un soleil printanier.
+
+Quand le domestique reparut, il m'introduisit dans un salon, en me disant que Monsieur était allé au village voisin, mais qu'il ne tarderait pas à rentrer. J'aurais attendu des heures ; je pris patience en examinant d'abord la pièce où je me trouvais, installée luxueusement avec des tapis épais, des rideaux et des portières de cretonne, appareillés au vaste divan et aux fauteuils profonds. Ces tentures étaient même si amples, que je fus étonné de la brusque tombée du jour. Puis, la nuit se fit presque complète. Je ne sais combien de temps je dus rester là, on m'avait oublié, sans même apporter de lampe. Assis dans l'ombre, je m'étais mis à revivre toute l'histoire tragique, m'abandonnant au rêve. Angeline avait-elle été assassinée ? S'était-elle enfoncé elle-même un couteau en plein coeur ? Et, je l'avoue, dans cette maison hantée, redevenue noire, la peur me prit, une peur qui ne fut qu'un léger malaise, qu'un petit frisson à fleur de peau, puis qui s'exaspéra, qui me glaça tout entier, dans une folie d'épouvante.
+
+D'abord il me sembla que des bruits vagues erraient quelque part. C'était dans les profondeurs des caves sans doute des plaintes sourdes, des sanglots étouffés, des pas lourds de fantôme. Ensuite, cela monta, se rapprocha, toute la maison obscure me parut se remplir de cette détresse effroyable. Et, tout à coup, le terrible appel retentit : « Angeline ! Angeline ! Angeline ! » avec une telle force croissante, que je crus en sentir passer le souffle froid sur ma face. Une porte du salon s'ouvrit violemment, Angeline entra, traversa la pièce sans me voir. Je la reconnus, dans le coup de lumière qui était entré avec elle, du vestibule éclairé. C'était bien la petite morte de douze ans, d'une beauté miraculeuse, avec ses admirables cheveux blonds sur les épaules, vêtue de blanc, toute blanche de la terre d'où elle revenait chaque nuit. Elle passa muette, éperdue, disparut par une autre porte, tandis que de nouveau le cri reprenait, plus lointain : « Angeline ! Angeline ! Angeline ! » Et je restai debout, la sueur au front, dans une horreur qui hérissait tout le poil de mon corps, sous le vent de terreur venu du mystère.
+
+Presque aussitôt, je crois, au moment où le domestique apportait enfin une lampe, j'eus conscience que le peintre B\... était là et qu'il me serrait la main, en s'excusant de s'être si longtemps fait attendre. Je n'eus pas de faux amour-propre, je lui contai tout de suite mon histoire, encore frémissant. Et avec quel étonnement d'abord il m'écouta, et avec quels bons rires ensuite il s'empressa de me rassurer !
+
+--- Vous ignoriez sans doute, mon cher, que je suis un cousin de la seconde Mme de G\... La pauvre femme ! l'accuser du meurtre de cette enfant, qu'elle a aimée et qu'elle a pleurée autant que le père ! Car la seule chose vraie, c'est en effet que la pauvre petite est morte ici, non de sa propre main, grand Dieu ! mais d'une brusque fièvre, dans un tel coup de foudre, que les parents, ayant pris cette maison en horreur, n'ont jamais voulu y revenir. Cela explique qu'elle soit restée inhabitée de leur vivant. Après leur mort, il y a eu d'interminables procès, qui en ont empêché la vente. Je la désirais, je l'ai guettée pendant de longues années, et je vous assure que nous n'y avons encore vu aucun revenant.
+
+Le petit frisson me reprit, je balbutiai :
+
+--- Mais Angeline, je viens de la voir, là, à l'instant\... La voix terrible l'appelait, et elle a passé là, elle a traversé cette pièce.
+
+Il me regardait, effaré, croyant que je perdais la raison. Puis, tout à coup, il éclata de son rire sonore d'homme heureux.
+
+--- C'est ma fille que vous venez de voir. Elle a eu justement pour parrain M. de G\..., qui lui a donné, par une dévotion du souvenir, ce nom d'Angeline ; et, sa mère l'ayant sans doute appelée tout à l'heure, elle aura passé par cette pièce.
+
+Lui-même ouvrit une porte, jeta de nouveau l'appel :
+
+--- Angeline ! Angeline ! Angeline !
+
+L'enfant revint, mais vivante, mais vibrante de gaieté. C'était elle, avec sa robe blanche, avec ses admirables cheveux blonds sur les épaules, et si belle, si rayonnante d'espoir, qu'elle était comme tout un printemps qui portait en bouton la promesse d'amour, le long bonheur d'une existence.
+
+Ah ! la chère revenante, l'enfant nouvelle qui renaissait de l'enfant morte. La mort était vaincue. Mon vieil ami, le poète V\..., ne mentait pas, rien ne se perd, tout recommence, la beauté comme l'amour. La voix des mères les appelle, ces fillettes d'aujourd'hui, ces amoureuses de demain, et elles revivent sous le soleil et parmi les fleurs. C'était de ce réveil de l'enfant que la maison se trouvait hantée, la maison aujourd'hui redevenue jeune et heureuse, dans la joie enfin retrouvée de l'éternelle vie.
+
+
+::: WordSection
+[
+]{.calibre38}
+
+
+[[Liste des contes et nouvelles]{.calibre44}](../Text/Zola4_split_000.htm){.pcalibre .pcalibre1}[
+
+:::: calibre2
+
+------------------------------------------------------------------------
+
+[[\[1\]]{.MsoFootnoteReference1 .MsoFootnoteReference1 .calibre38 lang="EN-US"}](../Text/Zola4_split_161.htm#_ftnref1){#_ftn1 .pcalibre .pcalibre1} Le petit village était en Alsace. Il s'appelait Woerth.
+::::

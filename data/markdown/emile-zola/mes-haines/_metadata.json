@@ -1,0 +1,253 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MES HAINES",
+  "slug": "mes-haines",
+  "nombre_chapitres": 17,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1306,
+      "spine_end_exclusive": 1307,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_002.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1307,
+      "spine_end_exclusive": 1308,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface d’Émile Zola",
+      "slug": "preface-demile-zola",
+      "spine_start": 1308,
+      "spine_end_exclusive": 1309,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L’abbé",
+      "slug": "labbe",
+      "spine_start": 1309,
+      "spine_end_exclusive": 1312,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_005.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_006.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Proudhon et Courbet",
+      "slug": "proudhon-et-courbet",
+      "spine_start": 1312,
+      "spine_end_exclusive": 1316,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_008.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_010.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_011.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le catholique hystérique",
+      "slug": "le-catholique-hysterique",
+      "spine_start": 1316,
+      "spine_end_exclusive": 1319,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_013.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_014.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La littérature et la gymnastique",
+      "slug": "la-litterature-et-la-gymnastique",
+      "spine_start": 1319,
+      "spine_end_exclusive": 1322,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_016.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_017.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Germinie Lacerteux",
+      "slug": "germinie-lacerteux",
+      "spine_start": 1322,
+      "spine_end_exclusive": 1325,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_019.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_020.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_021.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Gustave Doré",
+      "slug": "gustave-dore",
+      "spine_start": 1325,
+      "spine_end_exclusive": 1328,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_022.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_023.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_024.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les chansons des rues et des bois",
+      "slug": "les-chansons-des-rues-et-des-bois",
+      "spine_start": 1328,
+      "spine_end_exclusive": 1331,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_025.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_026.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La mère",
+      "slug": "la-mere",
+      "spine_start": 1331,
+      "spine_end_exclusive": 1334,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_028.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_029.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_030.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L’Égypte il y a trois mille ans",
+      "slug": "legypte-il-y-a-trois-mille-ans",
+      "spine_start": 1334,
+      "spine_end_exclusive": 1337,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_031.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_032.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_033.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La géologie et l’histoire",
+      "slug": "la-geologie-et-lhistoire",
+      "spine_start": 1337,
+      "spine_end_exclusive": 1340,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_034.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_035.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_036.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les moralistes français",
+      "slug": "les-moralistes-francais",
+      "spine_start": 1340,
+      "spine_end_exclusive": 1343,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_037.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_038.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le Supplice d’une Femme et les Deux Soeurs",
+      "slug": "le-supplice-dune-femme-et-les-deux-soeurs",
+      "spine_start": 1343,
+      "spine_end_exclusive": 1350,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_040.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_042.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_043.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_044.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_045.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_046.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Erckmann-Chatrian",
+      "slug": "erckmann-chatrian",
+      "spine_start": 1350,
+      "spine_end_exclusive": 1356,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_048.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_049.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_051.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_052.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_053.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_054.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "M. H. Taine Artiste",
+      "slug": "m-h-taine-artiste",
+      "spine_start": 1356,
+      "spine_end_exclusive": 1359,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_055.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_056.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_057.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Histoire de Jules César",
+      "slug": "histoire-de-jules-cesar",
+      "spine_start": 1359,
+      "spine_end_exclusive": 1364,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_058.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_059.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_061.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_062.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_063.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/mes-haines/Zola5_image002.jpg",
+    "images/emile-zola/mes-haines/Zola5_image003.jpg",
+    "images/emile-zola/mes-haines/Zola5_image004.jpg",
+    "images/emile-zola/mes-haines/Zola5_image005.jpg",
+    "images/emile-zola/mes-haines/Zola5_image006.jpg",
+    "images/emile-zola/mes-haines/Zola5_image007.jpg",
+    "images/emile-zola/mes-haines/Zola5_image008.jpg",
+    "images/emile-zola/mes-haines/Zola5_image009.jpg",
+    "images/emile-zola/mes-haines/Zola5_image010.jpg",
+    "images/emile-zola/mes-haines/Zola5_image011.jpg",
+    "images/emile-zola/mes-haines/Zola5_image012.jpg",
+    "images/emile-zola/mes-haines/Zola5_image013.jpg",
+    "images/emile-zola/mes-haines/Zola5_image014.jpg",
+    "images/emile-zola/mes-haines/Zola5_image015.jpg",
+    "images/emile-zola/mes-haines/Zola5_image016.jpg",
+    "images/emile-zola/mes-haines/Zola5_image017.jpg",
+    "images/emile-zola/mes-haines/Zola5_image018.jpg",
+    "images/emile-zola/mes-haines/Zola5_image019.jpg",
+    "images/emile-zola/mes-haines/Zola5_image020.jpg",
+    "images/emile-zola/mes-haines/Zola5_image021.jpg",
+    "images/emile-zola/mes-haines/Zola5_image022.jpg"
+  ]
+}

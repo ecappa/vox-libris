@@ -1,0 +1,12310 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/bonheur-que-procure-letude/00433.jpg){.calibre10} LES QUATRE VENTS DE L'E]{.calibre2}SPRIT]{.calibre_55} {#filepos20915012 .calibre_}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1881)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[POÉSIES]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+[!{.calibre3}
+]{.calibre_10}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3266 .calibre_57}
+
+::: calibre_19
+
+
+[]{.calibre_10}
+
+> [[[[[Introduction (1)]{.calibre9}]{.underline}]{.calibre_4}](index_split_2592.html#filepos20958776)]{.calibre_10}
+
+> [[[[[Introduction (2)]{.calibre9}]{.underline}]{.calibre_4}](index_split_2593.html#filepos20962828)]{.calibre_10}
+
+> [[[[[I]{.calibre16} [-- Le Livre Satirique [--]{.italic} Le Siècle]{.calibre9}]{.underline}]{.calibre_4}](index_split_2594.html#filepos20968351)]{.calibre_10}
+
+> [[[[[I -- Inde Irae]{.calibre16}]{.underline}]{.calibre_4}](index_split_2595.html#filepos20969088)]{.calibre_10}
+
+> [[[[[II]{.calibre16}]{.underline}]{.calibre_4}](index_split_2596.html#filepos20971143)]{.calibre_10}
+
+> [[[[[III]{.calibre16}]{.underline}]{.calibre_4}](index_split_2597.html#filepos20972855)]{.calibre_10}
+
+> [[[[[IV -- Éclipse]{.calibre16}]{.underline}]{.calibre_4}](index_split_2598.html#filepos20976561)]{.calibre_10}
+
+> [[[[[V]{.calibre16}]{.underline}]{.calibre_4}](index_split_2599.html#filepos20980405)]{.calibre_10}
+
+> [[[[[VI -- Voix dans le grenier]{.calibre16}]{.underline}]{.calibre_4}](index_split_2600.html#filepos20989313)]{.calibre_10}
+
+> [[[[[VII -- Le Soutien des empires]{.calibre16}]{.underline}]{.calibre_4}](index_split_2601.html#filepos20992781)]{.calibre_10}
+
+> [[[[[VIII -- Écrit sur la première page d'un livre de Joseph de Maistre]{.calibre16}]{.underline}]{.calibre_4}](index_split_2602.html#filepos20995455)]{.calibre_10}
+
+> [[[[[IX -- Se laisser calomnier]{.calibre16}]{.underline}]{.calibre_4}](index_split_2603.html#filepos20997661)]{.calibre_10}
+
+> [[[[[X -- À un homme fini]{.calibre16}]{.underline}]{.calibre_4}](index_split_2604.html#filepos20999154)]{.calibre_10}
+
+> [[[[[XI -- À \*\*\*\*]{.calibre16}]{.underline}]{.calibre_4}](index_split_2605.html#filepos21001177)]{.calibre_10}
+
+> [[[[[XII -- Anima vilis]{.calibre16}]{.underline}]{.calibre_4}](index_split_2606.html#filepos21003495)]{.calibre_10}
+
+> [[[[[XIII -- Littérature]{.calibre16}]{.underline}]{.calibre_4}](index_split_2607.html#filepos21008763)]{.calibre_10}
+
+> [[[[[XIV -- À un écrivain]{.calibre16}]{.underline}]{.calibre_4}](index_split_2608.html#filepos21020389)]{.calibre_10}
+
+> [[[[[XV -- Le Mont-aux-pendus]{.calibre16}]{.underline}]{.calibre_4}](index_split_2609.html#filepos21022112)]{.calibre_10}
+
+> [[[[[XVI -- Le Bout de l'oreille]{.calibre16}]{.underline}]{.calibre_4}](index_split_2610.html#filepos21023668)]{.calibre_10}
+
+> [[[[[XVII -- L'Échafaud]{.calibre16}]{.underline}]{.calibre_4}](index_split_2611.html#filepos21034739)]{.calibre_10}
+
+> [[[[[XVIII -- Jolies Femmes]{.calibre16}]{.underline}]{.calibre_4}](index_split_2612.html#filepos21047401)]{.calibre_10}
+
+> [[[[[XIX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2613.html#filepos21049130)]{.calibre_10}
+
+> [[[[[XX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2614.html#filepos21050887)]{.calibre_10}
+
+> [[[[[XXI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2615.html#filepos21056685)]{.calibre_10}
+
+> [[[[[XXII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2616.html#filepos21058632)]{.calibre_10}
+
+> [[[[[XXIII -- Sur un portrait de sainte]{.calibre16}]{.underline}]{.calibre_4}](index_split_2617.html#filepos21060749)]{.calibre_10}
+
+> [[[[[XXIV -- Écrit après la visite d'un bagne]{.calibre16}]{.underline}]{.calibre_4}](index_split_2618.html#filepos21064696)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2618.html#filepos21064696)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2618.html#filepos21064696)]{.calibre_10}
+
+> [[[[[XXV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2619.html#filepos21071839)]{.calibre_10}
+
+> [[[[[XXVI -- Les Bonzes]{.calibre16}]{.underline}]{.calibre_4}](index_split_2620.html#filepos21081149)]{.calibre_10}
+
+> [[[[[XXVII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2621.html#filepos21087684)]{.calibre_10}
+
+> [[[[[XXVIII -- Aux prêtres]{.calibre16}]{.underline}]{.calibre_4}](index_split_2622.html#filepos21090693)]{.calibre_10}
+
+> [[[[[XXIX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2623.html#filepos21092640)]{.calibre_10}
+
+> [[[[[XXX -- Idolâtries et Philosophies]{.calibre16}]{.underline}]{.calibre_4}](index_split_2624.html#filepos21102725)]{.calibre_10}
+
+> [[[[[XXXI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2625.html#filepos21108861)]{.calibre_10}
+
+> [[[[[XXXII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2626.html#filepos21110756)]{.calibre_10}
+
+> [[[[[XXXIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2627.html#filepos21112453)]{.calibre_10}
+
+> [[[[[XXXIV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2628.html#filepos21114446)]{.calibre_10}
+
+> [[[[[XXXV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2629.html#filepos21116896)]{.calibre_10}
+
+> [[[[[XXXVI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2630.html#filepos21120472)]{.calibre_10}
+
+> [[[[[XXXVII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2631.html#filepos21123188)]{.calibre_10}
+
+> [[[[[XXXVIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2632.html#filepos21126678)]{.calibre_10}
+
+> [[[[[XXXIX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2633.html#filepos21129472)]{.calibre_10}
+
+> [[[[[XL]{.calibre16}]{.underline}]{.calibre_4}](index_split_2634.html#filepos21132493)]{.calibre_10}
+
+> [[[[[XLI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2635.html#filepos21135838)]{.calibre_10}
+
+> [[[[[XLII -- Dieu éclaboussé par Zoïle]{.calibre16}]{.underline}]{.calibre_4}](index_split_2636.html#filepos21143123)]{.calibre_10}
+
+> [[[[[XLIII -- Ils sont toujours là]{.calibre16}]{.underline}]{.calibre_4}](index_split_2637.html#filepos21157391)]{.calibre_10}
+
+> [[[[[XLIV -- Fulgur]{.calibre16}]{.underline}]{.calibre_4}](index_split_2638.html#filepos21163228)]{.calibre_10}
+
+> [[[[[Deux voix dans le ciel]{.underline}]{.calibre_4}](index_split_2639.html#filepos21165482)]{.calibre9}]{.calibre_10}
+
+> [
+> ]{.calibre_10}
+
+> [[[[[II]{.calibre16} [-- Le Livre Dramatique -- La Femme.]{.calibre9}]{.underline}]{.calibre_4}](index_split_2640.html#filepos21181657)]{.calibre_10}
+
+> [[[[[Les Deux Trouvailles de Gallus]{.calibre16}]{.underline}]{.calibre_4}](index_split_2640.html#filepos21181657)]{.calibre_10}
+
+> [[[[[Table des matières]{.calibre9}]{.underline}]{.calibre_4}](index_split_2641.html#filepos21183157)]{.calibre_10}
+
+> [[[[[I--Margarita]{.calibre9}]{.underline}]{.calibre_4}](index_split_2642.html#filepos21185720)]{.calibre_10}
+
+> [[[[[Scène première]{.calibre9}]{.underline}]{.calibre_4}](index_split_2643.html#filepos21188513)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2644.html#filepos21213839)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2645.html#filepos21222058)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2646.html#filepos21242785)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[II--Esca]{.calibre9}]{.underline}]{.calibre_4}](index_split_2647.html#filepos21247400)]{.calibre_10}
+
+> [[[[[Acte Premier. Lison]{.calibre9}]{.underline}]{.calibre_4}](index_split_2648.html#filepos21248711)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène première]{.calibre9}]{.underline}]{.calibre_4}](index_split_2649.html#filepos21251423)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Acte Deuxième. La marquise Zabeth]{.calibre9}]{.underline}]{.calibre_4}](index_split_2650.html#filepos21282549)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène première]{.calibre9}]{.underline}]{.calibre_4}](index_split_2651.html#filepos21284900)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène deuxième]{.calibre9}]{.underline}]{.calibre_4}](index_split_2652.html#filepos21290939)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène troisième]{.calibre9}]{.underline}]{.calibre_4}](index_split_2653.html#filepos21320121)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Scène quatrième]{.calibre9}]{.underline}]{.calibre_4}](index_split_2654.html#filepos21334494)]{.calibre_10}
+
+::: calibre_27
+
+
+> [[[[[Nous]{.underline}]{.calibre_4}](index_split_2655.html#filepos21355564)]{.calibre9}]{.calibre_10}
+
+> [
+> ]{.calibre_10}
+
+> [[[[[III]{.calibre16} [-- Le Livre Lyrique -- La Destinée]{.calibre9}]{.underline}]{.calibre_4}](index_split_2656.html#filepos21359329)]{.calibre_10}
+
+> [[[[[I]{.calibre16}]{.underline}]{.calibre_4}](index_split_2657.html#filepos21360061)]{.calibre_10}
+
+> [[[[[II -- Aux oiseaux et aux nuages]{.calibre16}]{.underline}]{.calibre_4}](index_split_2658.html#filepos21362229)]{.calibre_10}
+
+> [[[[[III]{.calibre16}]{.underline}]{.calibre_4}](index_split_2659.html#filepos21364261)]{.calibre_10}
+
+> [[[[[IV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2660.html#filepos21367725)]{.calibre_10}
+
+> [[[[[V -- Chanson d'autrefois et Chanson d'aujourd'hui]{.calibre16}]{.underline}]{.calibre_4}](index_split_2661.html#filepos21369120)]{.calibre_10}
+
+> [[[[[I -- Chanson d'autrefois.]{.calibre9}]{.underline}]{.calibre_4}](index_split_2662.html#filepos21369779)]{.calibre_10}
+
+> [[[[[II -- Chanson d'aujourd'hui.]{.calibre9}]{.underline}]{.calibre_4}](index_split_2663.html#filepos21371944)]{.calibre_10}
+
+> [[[[[VI -- Près d'Avranches]{.calibre16}]{.underline}]{.calibre_4}](index_split_2664.html#filepos21373952)]{.calibre_10}
+
+> [[[[[VII -- Chanson]{.calibre16}]{.underline}]{.calibre_4}](index_split_2665.html#filepos21375704)]{.calibre_10}
+
+> [[[[[VIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2666.html#filepos21377462)]{.calibre_10}
+
+> [[[[[IX -- En écoutant chanter la princesse \*\*\*]{.calibre16}]{.underline}]{.calibre_4}](index_split_2667.html#filepos21378757)]{.calibre_10}
+
+> [[[[[X]{.calibre16}]{.underline}]{.calibre_4}](index_split_2668.html#filepos21381060)]{.calibre_10}
+
+> [[[[[XI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2669.html#filepos21382799)]{.calibre_10}
+
+> [[[[[XII -- Nuits d'hiver]{.calibre16}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[V]{.calibre9}]{.underline}]{.calibre_4}](index_split_2670.html#filepos21387465)]{.calibre_10}
+
+> [[[[[XIII -- Chanson d'autrefois et Chanson d'aujourd'hui]{.calibre16}]{.underline}]{.calibre_4}](index_split_2671.html#filepos21398968)]{.calibre_10}
+
+> [[[[[I -- Chanson d'autrefois.]{.calibre9}]{.underline}]{.calibre_4}](index_split_2672.html#filepos21399630)]{.calibre_10}
+
+> [[[[[II -- Chanson d'aujourd'hui.]{.calibre9}]{.underline}]{.calibre_4}](index_split_2673.html#filepos21400917)]{.calibre_10}
+
+> [[[[[XIV -- Jersey]{.calibre16}]{.underline}]{.calibre_4}](index_split_2674.html#filepos21402207)]{.calibre_10}
+
+> [[[[[XV -- Androclès]{.calibre16}]{.underline}]{.calibre_4}](index_split_2675.html#filepos21406585)]{.calibre_10}
+
+> [[[[[XVI -- À ma fille Adèle]{.calibre16}]{.underline}]{.calibre_4}](index_split_2676.html#filepos21410665)]{.calibre_10}
+
+> [[[[[XVII -- En marchant le matin]{.calibre16}]{.underline}]{.calibre_4}](index_split_2677.html#filepos21412474)]{.calibre_10}
+
+> [[[[[XVIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2678.html#filepos21414146)]{.calibre_10}
+
+> [[[[[XIX -- Sur la falaise]{.calibre16}]{.underline}]{.calibre_4}](index_split_2679.html#filepos21416549)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2679.html#filepos21416549)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2679.html#filepos21416549)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2679.html#filepos21416549)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2679.html#filepos21416549)]{.calibre_10}
+
+> [[[[[XX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2680.html#filepos21422176)]{.calibre_10}
+
+> [[[[[XXI -- En marchant la nuit dans un bois]{.calibre16}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[V]{.calibre9}]{.underline}]{.calibre_4}](index_split_2681.html#filepos21423728)]{.calibre_10}
+
+> [[[[[XXII -- Lueur à l'horizon]{.calibre16}]{.underline}]{.calibre_4}](index_split_2682.html#filepos21429137)]{.calibre_10}
+
+> [[[[[XXIII -- Sous terre]{.calibre16}]{.underline}]{.calibre_4}](index_split_2683.html#filepos21432091)]{.calibre_10}
+
+> [[[[[XXIV -- Bestiarium]{.calibre16}]{.underline}]{.calibre_4}](index_split_2684.html#filepos21433895)]{.calibre_10}
+
+> [[[[[XXV -- Chanson]{.calibre16}]{.underline}]{.calibre_4}](index_split_2685.html#filepos21438927)]{.calibre_10}
+
+> [[[[[XXVI -- Remontrances]{.calibre16}]{.underline}]{.calibre_4}](index_split_2686.html#filepos21440509)]{.calibre_10}
+
+> [[[[[XXVII -- Pati]{.calibre16}]{.underline}]{.calibre_4}](index_split_2687.html#filepos21446406)]{.calibre_10}
+
+> [[[[[XXVIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2688.html#filepos21453637)]{.calibre_10}
+
+> [[[[[XXIX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2689.html#filepos21455025)]{.calibre_10}
+
+> [[[[[XXX -- Chanson]{.calibre16}]{.underline}]{.calibre_4}](index_split_2690.html#filepos21456737)]{.calibre_10}
+
+> [[[[[XXXI -- À Meurice -- À Vacquerie]{.calibre16}]{.underline}]{.calibre_4}](index_split_2691.html#filepos21458111)]{.calibre_10}
+
+> [[[[[XXXII -- Tourmente]{.calibre16}]{.underline}]{.calibre_4}](index_split_2692.html#filepos21460204)]{.calibre_10}
+
+> [[[[[XXXIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[V]{.calibre9}]{.underline}]{.calibre_4}](index_split_2693.html#filepos21461961)]{.calibre_10}
+
+> [[[[[XXXIV -- Entrée dans l'exil]{.calibre16}]{.underline}]{.calibre_4}](index_split_2694.html#filepos21471320)]{.calibre_10}
+
+> [[[[[XXXV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2695.html#filepos21472985)]{.calibre_10}
+
+> [[[[[XXXVI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2696.html#filepos21475389)]{.calibre_10}
+
+> [[[[[XXXVII -- Exil]{.calibre16}]{.underline}]{.calibre_4}](index_split_2697.html#filepos21477514)]{.calibre_10}
+
+> [[[[[XXXVIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2698.html#filepos21479339)]{.calibre_10}
+
+> [[[[[XXXIX]{.calibre16}]{.underline}]{.calibre_4}](index_split_2699.html#filepos21480700)]{.calibre_10}
+
+> [[[[[XL -- La nuit, pendant que les pêcheurs sont en mer]{.calibre16}]{.underline}]{.calibre_4}](index_split_2700.html#filepos21483790)]{.calibre_10}
+
+> [[[[[XLI -- Duo]{.calibre16}]{.underline}]{.calibre_4}](index_split_2701.html#filepos21486151)]{.calibre_10}
+
+> [[[[[XLII -- Pensées de nuit]{.calibre16}]{.underline}]{.calibre_4}](index_split_2702.html#filepos21488485)]{.calibre_10}
+
+> [[[[[XLIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2703.html#filepos21491703)]{.calibre_10}
+
+> [[[[[XLIV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2704.html#filepos21493529)]{.calibre_10}
+
+> [[[[[XLV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2705.html#filepos21495101)]{.calibre_10}
+
+> [[[[[XLVI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2706.html#filepos21497253)]{.calibre_10}
+
+> [[[[[XLVII -- Lettre]{.calibre16}]{.underline}]{.calibre_4}](index_split_2707.html#filepos21500552)]{.calibre_10}
+
+> [[[[[XLVIII -- Promenades dans les rochers]{.calibre16}]{.underline}]{.calibre_4}](index_split_2708.html#filepos21505981)]{.calibre_10}
+
+> [[[[[Première promenade]{.calibre9}]{.underline}]{.calibre_4}](index_split_2708.html#filepos21505981)]{.calibre_10}
+
+> [[[[[Deuxième promenade]{.calibre9}]{.underline}]{.calibre_4}](index_split_2708.html#filepos21505981)]{.calibre_10}
+
+> [[[[[Troisième promenade]{.calibre9}]{.underline}]{.calibre_4}](index_split_2708.html#filepos21505981)]{.calibre_10}
+
+> [[[[[Quatrième promenade]{.calibre9}]{.underline}]{.calibre_4}](index_split_2708.html#filepos21505981)]{.calibre_10}
+
+> [[[[[XLIX -- Rencontre d'une petite fagotière]{.calibre16}]{.underline}]{.calibre_4}](index_split_2709.html#filepos21514531)]{.calibre_10}
+
+> [[[[[L -- À J. de S..., laboureur à Yvetot]{.calibre16}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[V]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[VI]{.calibre9}]{.underline}]{.calibre_4}](index_split_2710.html#filepos21515808)]{.calibre_10}
+
+> [[[[[LI -- Le Parisien du faubourg]{.calibre16}]{.underline}]{.calibre_4}](index_split_2711.html#filepos21527612)]{.calibre_10}
+
+> [[[[[LII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2712.html#filepos21531122)]{.calibre_10}
+
+> [[[[[LIII]{.calibre16}]{.underline}]{.calibre_4}](index_split_2713.html#filepos21533290)]{.calibre_10}
+
+> [[[[[LIV -- Une rougeur au Zénith]{.calibre16}]{.underline}]{.calibre_4}](index_split_2714.html#filepos21536025)]{.calibre_10}
+
+> [[[[[LV -- Horreur sacrée]{.calibre16}]{.underline}]{.calibre_4}](index_split_2715.html#filepos21540599)]{.calibre_10}
+
+> [[[[[LVI]{.calibre16}]{.underline}]{.calibre_4}](index_split_2716.html#filepos21544353)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2716.html#filepos21544353)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2716.html#filepos21544353)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2716.html#filepos21544353)]{.calibre_10}
+
+> [[[[[Aux proscrits]{.calibre9}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[I]{.calibre16}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[II]{.calibre16}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[III]{.calibre16}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[IV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[V]{.calibre16}]{.underline}]{.calibre_4}](index_split_2717.html#filepos21552906)]{.calibre_10}
+
+> [[[[[IV]{.calibre16} [-- Le Livre Épique -- La Révolution]{.calibre9}]{.underline}]{.calibre_4}](index_split_2718.html#filepos21567066)]{.calibre_10}
+
+> [[[[[I. Les Statues]{.calibre16}]{.underline}]{.calibre_4}](index_split_2719.html#filepos21567805)]{.calibre_10}
+
+> [[[[[II. Les Cariatides]{.calibre16}]{.underline}]{.calibre_4}](index_split_2720.html#filepos21590879)]{.calibre_10}
+
+> [[[[[III. L'Arrivée]{.calibre16}]{.underline}]{.calibre_4}](index_split_2721.html#filepos21640580)]{.calibre_10}
+
+> [[[[[« Soit. Mais quoique ce soit... »]{.calibre16}]{.underline}]{.calibre_4}](index_split_2722.html#filepos21647823)]{.calibre_10}
+
+[ ]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Introduction (1)]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3268 .calibre_57}
+
+::: calibre_19
+
+
+[
+Je vis les quatre vents passer.
+--- Ô vents, leur dis-je,
+Vents des cieux ! Croyez-vous avoir seuls un quadrige ?
+Autans ! Masques hagards, tumultueux démons,
+Croyez-vous pouvoir seuls aller des mers aux monts ?
+Croyez-vous seuls pouvoir quitter pour la montagne
+Les vagues que l\'écume éternelle accompagne,
+Fuir, puis, d\'un coup de tête effrayant, revenir
+À l\'ombre où l\'on entend ces cavales hennir,
+Et vous en retourner soudain, brusques méduses,
+Aux cimes dans l\'aurore éclatante diffuses,
+Et de là crier Gloire ! Aux quatre coins du ciel ?
+Ces allures d\'éclair, ce vol torrentiel,
+L\'esprit humain les a comme vous, vents tragiques ;
+Comme vous le printemps, il a ses géorgiques ;
+Il est l\'âcre Archiloque et le Hamlet amer ;
+Il gonfle l\'Iliade ainsi que vous la mer.
+L\'homme peut de l\'abîme effarer la prunelle.
+L\'âme a comme le ciel quatre souffles en elle ;
+L\'âme a ses pôles ; l\'âme a ses points cardinaux.
+Vents ! Dragons qui sur nous tordez vos bleus anneaux,
+Et qui vous dispersez avec tant de furie
+Depuis le hurlement jusqu\'à la rêverie,
+L\'esprit humain n\'est pas moins aquilon que vous.
+Comme vous il est vie, amour, joie et courroux.
+Ses strophes ne sont pas plus vite exténuées
+Dans leur vol à travers l\'azur que vos nuées ;
+Un vers court par-dessus les tours et les remparts
+Mieux que l\'errante bise aux longs cheveux épars ;
+Et le poète, ouvrant ses intègres registres,
+Ne met pas plus de temps que vous, ô vents sinistres,
+Pour essuyer sa bouche et changer de clairon.
+Comme vous sur la peste, il souffle sur Néron ;
+Il parle bas aux saints pensifs au fond des grottes ;
+Il donne une attitude inquiète aux despotes ;
+La pensée est un aigle à quatre ailes, qui va
+Du gouffre où Noé flotte à l\'île où Jean rêva ;
+Et chacun de ses grands ailerons, Épopée,
+Drame, Ode, Ïambe ardent, coupe comme l\'épée.
+Le génie a sur lui, dans sa guerre aux fléaux,
+Toute l\'éclaboussure affreuse du chaos,
+Écume, fange, sang, bave, et pas une tache.
+Il est un et divers. L\'idéal se rattache
+Comme une croix immense aux quatre angles des cieux.
+Le grand char de l\'Esprit roule sur quatre essieux.
+Notre âme comme vous, ô vents, groupe sonore,
+A son nord, son midi, son couchant, son aurore ;
+Car c\'est par la clarté qu\'en ce monde âpre et beau
+L\'homme finit, son aube étant dans le tombeau.
+Le poète est pasteur, juge, prophète, apôtre ;
+En quatre pas, il peut aller d\'un bout à l\'autre
+De l\'art sublime, ainsi que vous de l\'horizon ;
+Et comme vous, s\'il est terrible, il a raison ;
+Sa sagesse et la vôtre ont un air de délire.
+L\'ombre a tout l\'ouragan, l\'âme a toute la lyre.
+]{.calibre4}
+
+[[H.H. -- 3 juin 1870.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Introduction (2)]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3270 .calibre_57}
+
+::: calibre_19
+
+
+[
+Je vis Aldebaran dans les cieux. Je lui dis :
+--- Ô toi qui luis ! Ô toi qui des clairs paradis
+Ou des hideux enfers portes la torche énorme,
+Toi seul connais ta loi, je ne vois que ta forme ;
+Car d\'une énigme à l\'autre on ne peut traverser.
+Tout est sphinx ; quand on voit la comète passer
+Farouche, et sans qu\'aucun firmament l\'ose exclure,
+Sait-on ce qu\'elle essuie avec sa chevelure ?
+Dans cette mer de l\'Être où tout sert, où tout nuit,
+Qu\'es-tu ? Fanal peut-être au cap noir de la nuit,
+Peut-être feu de proue à l\'avant d\'un navire.
+La vie autour de toi naît, meurt, flotte, chavire.
+Astre ! Quand l\'univers naquit, fauve et sacré,
+Tu ne fus pas le jet le moins démesuré
+De ces convulsions terribles et de l\'onde
+Du chaos frémissant de devenir le monde.
+Tu fais partie, ainsi que l\'hydre et l\'alcyon,
+Du rythme monstrueux de la création ;
+Tu complètes l\'horreur sidérale, et tu scelles,
+Comme une strophe ardente et faite d\'étincelles,
+L\'immense hymne étoilé qu\'on appelle le ciel.
+Pan, le grand Tout fatal ou providentiel,
+T\'accepte stupéfait comme on accepte un rêve.
+Aldebaran ! Clarté de l\'insondable grève,
+Tu n\'es pas seulement, dans les gouffres vermeils,
+Un de ces inconnus que nous nommons soleils,
+Tu n\'as pas seulement, comme le kéroubime,
+Une face splendide et sombre sur l\'abîme,
+Ô spectre, ô vision, tu n\'es pas seulement
+Au fond du ciel sinistre un éblouissement ;
+Ta merveille, c\'est d\'être une roue inouïe
+De lumière, à jamais dans l\'ombre épanouie,
+Une apparition d\'éternel tournoiement,
+Tour à tour perle, onyx, saphir et diamant.
+Un effrayant éclair sur toi sans cesse rôde
+Et te fait de rubis devenir émeraude,
+Et jadis tu troublais le mage libyen,
+Monde sur qui se tord un arc-en-ciel ! Eh bien,
+Tu n\'es pas seul à luire sans fin, sans voile !
+L\'âme est comme toi, sphère, une quadruple étoile.
+Ton prodige est en nous. Astre, nous te l\'offrons.
+L\'antique poésie avec ses quatre fronts,
+Orphée, Homère, Eschyle et Juvénal, t\'égale.
+Quand le soir tombe, à l\'heure où chante la cigale,
+Ou quand l\'aube sourit aux oiseaux éperdus,
+En tous lieux, sur l\'Arno, sur l\'Avon, sur l\'Indus,
+La muse, qui connaît nos maux, en fait la somme,
+Et qui tient cette lampe en main, l\'esprit de l\'homme,
+La muse est là, toujours, partout, et n\'est jamais,
+Même dans l\'hiver triste, absente des sommets.
+Tour à tour Calliope, Érato, Polymnie
+Et Némésis, elle est l\'éternelle harmonie
+Qui, sauvage et joyeuse, allant de l\'antre au nid,
+Commencée en idylle, en tonnerre finit.
+Astre ! Elle a son amour, son rire, sa colère,
+Et son deuil, comme toi ton tourbillon stellaire ;
+Rayon, verbe, elle est douce aux hommes asservis,
+Donne aux passants, tyrans ou peuples, des avis,
+Chante pour les bons coeurs, luit pour les coeurs funèbres,
+Parle, et sur la clarté renseigne les ténèbres ;
+Elle est l\'humanité debout, changée en voix.
+Elle ôte les Césars de dessus les pavois,
+Les découronne, et met à leur place l\'idée.
+Elle est France, Italie, Hellénie et Chaldée.
+Satire, elle flétrit ; drame, elle aime ; chanson
+Ou psaume, elle a du sort le lugubre frisson ;
+Épopée, elle peut montrer aux rois tragiques
+La tyrannie aveugle et toutes ses logiques,
+L\'effrayante moisson des noirs semeurs du mal,
+Et le carrosse d\'or du sacre triomphal
+Dans l\'ombre accompagné par l\'invisible roue
+D\'un tombereau hideux que le pavé secoue ;
+Elle fait, sur ce globe où pleure Adam banni,
+La même fonction que toi dans l\'infini ;
+Et quoique, fixe et calme au fond du ciel immense,
+Tu ramènes au but la comète en démence
+Et remettes l\'étoile errante en son chemin,
+Tu n\'es pas lumineux plus que l\'esprit humain
+Qui montre Dieu, l\'enfer, les bonheurs, les désastres,
+Ô phare à feux tournants de l\'océan des astres \![
+]{.bold}]{.calibre4}
+
+[[H. H. -- 5 juin 1870.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[[[I]{.calibre34}]{.calibre2} -- Le Livre Satirique [--]{.italic1} Le Siècle]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3272 .calibre_57}
+
+::: calibre_19
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I -- Inde Irae]{.calibre2}]{.bold1}]{.calibre_39} {#i-inde-irae .calibre_38}
+
+[
+Tout frissonnant d\'amour, d\'extases, de splendeurs,
+L\'hymne universel chante au fond des profondeurs
+Avec toutes les fleurs et toutes les étoiles ;
+Il chante Dieu rêvant sous les flamboyants voiles ;
+Il chante ; il est superbe, éclatant, triomphant,
+Doux comme un nid d\'oiseau dans la main d\'un enfant ;
+Il enivre l\'azur, il éblouit l\'espace ;
+Il adore et bénit. Tout à coup Satan passe,
+L\'être immonde qui cherche à tout prostituer,
+Et l\'hymne en le voyant se met à le huer.
+Il le lapide avec sa joie interrompue ;
+Ce qui bénissait mord ; ce qui louait conspue ;
+Le tonnerre indigné gronde dans l\'hosanna ;
+Le pilori se dresse au sommet du Sina ;
+Chaque strophe du chant de gloire et d\'harmonie
+Prend forme, se fait homme, est prophète, est génie,
+Et devient le bourreau splendide du méchant.
+De là naît Isaïe, âme à double tranchant,
+De là naissent les grands vengeurs, les rêveurs fauves,
+Les pâles Juvénals, terreur des Césars chauves,
+Et ce Dante effrayant devant qui tout s\'enfuit,
+Fait d\'une ombre qu\'on sent de marbre dans la nuit.[
+]{.bold}
+[12 mars 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II]{.calibre2}]{.bold1}]{.calibre_39} {#ii .calibre_38}
+
+[
+Lorsque j\'étais encore un tout jeune homme pâle,
+Et que j\'allais entrer dans la lice fatale,
+Sombre arène où plus d\'un avant moi se perdit,
+L\'âpre Muse aux regards mystérieux m\'a dit :
+--- Tu pars ; mais quand le Cid se mettait en campagne
+Pour son Dieu, pour son droit et pour sa chère Espagne,
+Il était bien armé ; ce vaillant Cid avait
+Deux casques, deux estocs, sa lance de chevet,
+Deux boucliers ; il faut des armes de rechange ;
+Puis il tirait l\'épée et devenait archange.
+As-tu ta dague au flanc ? Voyons, soldat martyr,
+Quelle armure vas-tu choisir et revêtir ?
+Quels glaives va-t-on voir luire à ton bras robuste ?
+--- J\'ai la haine du mal et j\'ai l\'amour du juste,
+Muse ; et je suis armé mieux que le paladin.
+--- Et tes deux boucliers ? --- J\'ai mépris et dédain.[
+]{.bold}
+[17 juin 1856.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III]{.calibre2}]{.bold1}]{.calibre_39} {#iii .calibre_38}
+
+[
+Ô sainte horreur du mal ! Devoir funèbre ! Ô haine !
+Quand Virgile suspend la chèvre au blanc troène ;
+Quand Lucrèce revêt de feuilles l\'homme nu ;
+Quand Ennius compare au satyre cornu
+Le bouc passant sa tête à travers la broussaille
+Qui fait qu\'Europe au bain se détourne et tressaille ;
+Quand Moschus chante Enna ; quand Horace gaîment
+Suit Canidie, et fait, sur le chaudron fumant
+Où l\'horreur de la lune et des tombeaux s\'infiltre,
+Éternuer Priape à l\'âcre odeur du philtre ;
+Quand Plaute bat Davus ou raille Amphitryon,
+Le ciel bleu dans un coin brille et jette un rayon
+Sur la baigneuse émue ou la chèvre qui grimpe,
+Et l\'on entend au fond rire l\'immense Olympe.
+Mais tout azur s\'éclipse où passent les vengeurs.
+Les soupiraux d\'en bas teignent de leurs rougeurs
+Le mur sinistre auquel s\'adosse Jérémie.
+Les punisseurs sont noirs. Leur pâle et grave amie,
+La Mort, leur met la main sur l\'épaule, et leur dit :
+--- Esprit, ne laisse pas échapper ton bandit.
+Car ce sont eux qui, seuls, justiciers des abîmes,
+Terrassent à jamais les monstres et les crimes ;
+Car ils sont les géants des châtiments de Dieu ;
+Car, sur des écriteaux d\'acier en mots de feu,
+Du tonnerre escortés, ces hommes formidables
+Transcrivent de là-haut les arrêts insondables ;
+Car ils mettent Achab et Tibère au poteau ;
+Car l\'un porte l\'éclair, l\'autre tient le marteau ;
+Ils marchent, affichant des sentences que l\'homme
+Lit effaré, sur Tyr, sur Ninive, sur Rome,
+Et, sombres, à travers les siècles effrayés,
+Vont, et ces foudroyants traînent leurs foudroyés.[
+]{.bold} Isaïe, accoudé sur Babylone athée,
+Songe ; Eschyle, vengeur et fils de Prométhée,
+Cloue au drame d\'airain le tyran Jupiter ;
+Shakespeare mène en laisse Henri huit ; et Luther
+Fouette les Borgia mêlés aux Louis onze ;
+Tacite dans la nuit pose son pied de bronze
+Sur les douze dragons qu\'on appelle Césars ;
+Daniel va, suivi des blêmes Balthazars ;
+Machiavel pensif garde la bête prince ;
+Milton veille au guichet du cachot, gouffre où grince
+Le pandaemonium de tous les Satans rois ;
+Juvénal tire et traîne à travers les effrois
+La stryge au double front que son vers a tuée,
+Qui gronde impératrice et rit prostituée ;
+Et Dante tient le bout de la chaîne de fer
+Que Judas rêveur mord dans l\'ombre de l\'enfer.
+[17 février 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV -- Éclipse]{.calibre2}]{.bold1}]{.calibre_39} {#iv-éclipse .calibre_38}
+
+[
+La terre par moments doute ; on ne comprend plus.
+L\'homme a devant les yeux de la brume, un reflux,
+On ne sait quoi de pâle et de crépusculaire ;
+On n\'a plus d\'allégresse, on n\'a plus de colère ;
+La disparition produit l\'effarement.
+L\'oeil fauve du hibou regarde affreusement.
+Toutes sortes d\'éclairs inexplicables brillent.
+L\'autel penche, et les vers du sépulcre y fourmillent.
+Tout se mêle ; Irmensul ressemble à Jéhovah ;
+Le sage stupéfait balbutie et s\'en va ;
+Le mal semble identique au bien dans la pénombre ;
+On ne voit que le pied de l\'échelle du Nombre
+Et l\'on n\'ose monter vers l\'obscur infini.
+Dodone vaguement parle à Gethsémani,
+L\'Oeta fume non loin du Sinaï qui tonne ;
+On fouille, on rêve, on nie, on querelle, on s\'étonne ;
+Des aveugles entr\'eux se montrent le chemin ;
+Le divin ciel a tort devant l\'esprit humain ;
+Le penseur est croyant, le savant est athée ;
+La conscience écoute, essaye, et, déroutée,
+Prend le faux pour le vrai dans ces tâtonnements.
+Où l\'un voit des védas, l\'autre voit des romans.
+Les choses qu\'on nommait vertus perdent leurs formes.
+Les monstruosités font des ombres énormes
+Jusque sur l\'âme humaine et sur le firmament.
+Plus d\'honneur, plus de foi, plus rien, plus de serment.
+On voit encore la cime, on ne voit plus le phare.
+Une lueur de torche empourpre la tiare.
+On cherche à voir, on rôde, on va, le cou tendu.
+L\'amour au fond des coeurs bat de l\'aile éperdu
+Comme s\'il n\'était plus en sûreté dans l\'homme.
+La route est noire ; on crie, on s\'appelle, on se nomme.
+Qui donc est là ? Parlez. On tâte son voisin.
+La foule éparse flotte avec un bruit d\'essaim ;
+On se touche, on se voit, mais on n\'est plus ensemble.
+Le mal est empereur, la nuit est reine. On tremble.
+Un trône d\'ombre est là. Les misérables font
+Des groupes effrayants dans l\'abîme profond ;
+On croit voir des glaçons que les gouffres charrient ;
+Tout est confus et blême ; et les ténèbres rient.
+Le fond du ciel est trouble, horrible et pluvieux ;
+Et le petit enfant qui passe paraît vieux.
+Il semble que la vie éternelle décroisse.
+L\'âme alors est sinistre, et voit avec angoisse
+Ces occultations redoutables de Dieu.
+Naît-on ? Meurt-on ? Quel est le temps ? Quel est le lieu ?
+Les peuples sont hagards ; ces brins d\'herbe frissonnent ;
+On entend des tocsins et des clairons qui sonnent ;
+Le vent est lourd, l\'espace est froid, le globe est nu ;
+Le démon souriant dit : Je suis méconnu.[
+]{.bold}
+[6 mai 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V]{.calibre2}]{.bold1}]{.calibre_39} {#v .calibre_38}
+
+[
+La satire à présent, chant où se mêle un cri,
+Bouche de fer d\'où sort un sanglot attendri,
+N\'est plus ce qu\'elle était jadis dans notre enfance,
+Quand on nous conduisait, écoliers sans défense,
+À la Sorbonne, endroit revêche et mauvais lieu,
+Et que, devant nous tous qui l\'écoutions fort peu,
+Dévidant sa leçon et filant sa quenouille,
+Le petit Andrieux, à face de grenouille,
+Mordait Shakespeare, Hamlet, Macbeth, Lear, Othello,
+Avec ses fausses dents prises au vieux Boileau.
+La vie est, en ce siècle inquiet, devenue
+Pas à pas grave et morne, et la vérité nue
+Appelle la pensée à son secours depuis
+Qu\'on l\'a murée avec le mensonge en son puits.
+Après Jean-Jacques, après Danton, le sort ramène
+Le lourd pas de la nuit sur la triste âme humaine ;
+Droit et Devoir sont là gisants, la plaie au flanc ;
+Le lâche soleil rit au noir dragon sifflant ;
+L\'homme jette à la mer l\'honneur, vieille boussole ;
+En léchant le vainqueur le vaincu se console ;
+Toute l\'histoire tient dans ce mot : réussir ;
+Le succès est sultan et le meurtre est vizir ;
+Hélas, la vieille ivresse affreuse de la honte
+Reparaît dans les yeux et sur les fronts remonte,
+Trinque avec les tyrans, et le peuple fourbu
+Reboit ce sombre vin dont il a déjà bu.
+C\'est pourquoi la satire est sévère. Elle ignore
+Cette grandeur des rois qui fit Boileau sonore,
+Et ne se souvient d\'eux que pour les souffleter.
+L\'échafaud qu\'il faut pièce à pièce démonter,
+L\'infâme loi de sang qui résiste aux ratures,
+Qui garde les billots en lâchant les tortures,[
+]{.bold} Et dont il faut couper tous les ongles ; l\'enfant
+Que l\'ignorance tient dans son poing étouffant
+Et qui doit, libre oiseau, dans l\'aube ouvrir ses ailes ;
+Relever tour à tour ces sombres sentinelles,
+Le mal, le préjugé, l\'erreur, monstre romain,
+Qui gardent le cachot où dort l\'esprit humain ;
+La guerre et ses vautours, la peste avec ses mouches,
+À chasser ; les bâillons qu\'il faut ôter des bouches ;
+La parole à donner à toutes les douleurs ;
+L\'éclosion d\'un jour nouveau sur l\'homme en fleurs ;
+Tel est le but, tel est le devoir, qui complique
+Sa colère, et la fait d\'utilité publique.
+Pour enseigner à tous la vertu, l\'équité,
+La raison, il suffit que la Réalité,
+Pure et sereine, monte à l\'horizon et fasse
+Évanouir l\'horreur des nuits devant sa face.
+Honte, gloire, grandeurs, vices, beautés, défauts,
+Plaine et monts, sont mêlés tant qu\'il fait nuit ; le faux
+Fait semblant d\'être honnête en l\'obscurité louche.
+Qu\'est-ce que le rayon ? Une pierre de touche.
+La lumière de tout ici-bas fait l\'essai.
+Le juste est sur la terre éclairé par le vrai ;
+Le juste c\'est la cime et le vrai c\'est l\'aurore.
+Donc Lumière, Raison, Vérité, plus encore,
+Bonté dans le courroux et suprême Pitié,
+Le méchant pardonné, mais le mal châtié,
+Voilà ce qu\'aujourd\'hui, comme aux vieux temps de Rome,
+La satire implacable et tendre doit à l\'homme.
+Marquis ou médecins, une caste, un métier,
+Ce n\'est plus là son champ ; il lui faut l\'homme entier.
+Elle poursuit l\'infâme et non le ridicule.
+Un petit Augias veut un petit Hercule,
+Et le bon Despréaux malin fit ce qu\'il put.
+Elle n\'a plus affaire à l\'ancien Lilliput.
+Elle vole, à travers l\'ombre et les catastrophes,
+Grande et pâle, au milieu d\'un ouragan de strophes ;
+Elle crie à sa meute effrayante : --- Courons !
+Quand un vil parvenu, marchant sur tous les fronts,
+Écrase un peuple avec des pieds jadis sans bottes.
+Elle donne à ses chiens ailés tous les despotes,
+Tous les monstres, géants et nains, à dévorer.
+Elle apparaît aux czars pour les désespérer.
+On entend dans son vers craquer les os du tigre.
+De même que l\'oiseau vers le printemps émigre,
+Elle s\'en va toujours du côté de l\'honneur.
+L\'ange de Josaphat, le spectre d\'Elseneur
+Sont ses amis, et, sage, elle semble en démence,
+Tant sa clameur profonde emplit le ciel immense.
+Il lui faut, pour gronder et planer largement,
+Tout le peuple sous elle, âpre, vaste, écumant ;
+Ce n\'est que sur la mer que le vent est à l\'aise.
+Quand Colomb part, elle est debout sur la falaise ;
+Elle t\'aime, ô Barbès ! Et suit d\'un long vivat
+Fulton, Garibaldi, Byron, John Brown et Watt,
+Et toi Socrate, et toi Jésus, et toi Voltaire !
+Elle fait, quand un mort glorieux est sous terre,
+Sortir un vert laurier de son tombeau dormant ;
+Elle ne permet pas qu\'il pourrisse autrement.
+Elle panse à genoux les vaincus vénérables,
+Bénit les maudits, baise au front les misérables,
+Lutte, et, sans daigner même un instant y songer,
+Se sent par des valets derrière elle juger ;
+Car, sous les règnes vils et traîtres, c\'est un crime
+De ne pas rire à l\'heure où râle la victime
+Et d\'aimer les captifs à travers leurs barreaux ;
+Et qui pleure les morts offense les bourreaux.
+Est-elle triste ? Non, car elle est formidable.
+Puisqu\'auprès des tombeaux les vainqueurs sont à table,
+Puisqu\'on est satisfait dans l\'opprobre, et qu\'on a
+L\'impudeur d\'être lâche avec un hosanna,
+Puisqu\'on chante et qu\'on danse en dévorant les proies,
+Elle vient à la fête elle aussi. Dans ces joies,
+Dans ces contentements énormes, dans ces jeux
+À force de triomphe et d\'ivresse orageux,
+Dans ces banquets mêlant Paphos, Clamart et Gnide,
+Elle apporte, sinistre, un rire d\'euménide.
+Mais son immense effort, c\'est la vie. Elle veut
+Chasser la mort, bannir la nuit, rompre le noeud,
+Dût-elle rudoyer le titan populaire.
+Comme elle a plus d\'amour, elle a plus de colère.
+Quoi ! L\'abdication serait un oreiller !
+La conscience humaine est lente à s\'éveiller ;
+L\'honneur laisse son feu pâlir, tomber, descendre
+Sous l\'épaississement lugubre de la cendre.
+Aussi la Némésis chantante qui bondit
+Et frappe, et devant qui Tibère est interdit,
+La déesse du grand Juvénal, l\'âpre muse,
+Hébé par la beauté, par la terreur Méduse,
+Qui sema dans la nuit ce que Dante y trouva,
+Et que Job croyait voir parler à Jéhovah,
+Se sent-elle encore plus de fureur magnanime
+Pour réveiller l\'oubli que pour punir le crime.
+Elle approche du peuple et, guettant la rumeur,
+Penche l\'ïambe amer sur l\'immense dormeur ;
+La strophe alors frissonne en son tragique zèle,
+Et s\'empourpre en tâchant de tirer l\'étincelle
+De toute cette morne et fatale langueur,
+Et le vers irrité devient une lueur.
+Ainsi rougit dans l\'ombre une face farouche
+Qui vient sur un tison souffler à pleine bouche.[
+]{.bold}
+[26 avril 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VI -- Voix dans le grenier]{.calibre2}]{.bold1}]{.calibre_39} {#vi-voix-dans-le-grenier .calibre_38}
+
+[[
+L\'habit râpé.
+]{.bold} Vivent les bas de soie et les souliers vernis !
+[La chaise dépaillée.
+]{.bold} Dieu dit aux bons fauteuils : fauteuils, je vous bénis !
+[Le poêle froid.
+]{.bold} Comme un grand feu qui flambe et pétille en décembre
+Vous illumine l\'âme en empourprant la chambre !
+[Le verre plein d\'eau.
+]{.bold} Ma foi, j\'aime le vin.
+[La soucoupe pleine de poussière.
+]{.bold} Moi, j\'aime le café.
+[L\'écuelle de bois.
+]{.bold} C\'est charmant de crier : garçon ! Perdreau truffé,
+Bordeaux retour de l\'Inde, et saumon sauce aux huîtres !
+[Le carreau cassé.
+]{.bold} Une fenêtre est belle alors qu\'elle a des vitres.
+[Le gousset vide.
+]{.bold} Que l\'usurier hideux, poussif, auquel tu dois,
+Agite un vieux billet de banque en ses vieux doigts,
+Fût-il gris comme un chantre et crasseux comme un diacre,
+Vénus vient toute nue en sa conque de nacre.
+[Le lit de sangle.
+]{.bold} Un édredon, c\'est doux.
+[L\'écritoire.
+]{.bold} Arétin, plein d\'esprit,
+Vit content ; sous ses pieds il a quand il écrit
+Un charmant tapis turc qui réchauffe sa prose.
+[Le trou de la serrure.
+]{.bold} J\'estime une portière épaisse, et, verte ou rose,
+Laissant voir, dans les plis du satin ouaté,
+Un mandarin qui prend une tasse de thé.
+[Un papier timbré.
+]{.bold} Verrès est riche et grand ; devant lui nul ne bouge.[
+Le miroir fêlé.
+]{.bold} Sur un frac brodé d\'or j\'aime un beau cordon rouge.
+[L\'escabeau boiteux.
+]{.bold} Quel bonheur de courir à la croix de Berny
+Sur quelque ardent cheval plein d\'un souffle infini,
+Démon aux crins épars né des vents de l\'Ukraine !
+[La semelle percée.
+]{.bold} Quelle joie ! En hiver, rouler au Cours-la-Reine,
+Quand le soleil dissout les brouillards pluvieux,
+Dans un landau qui fait blêmir les envieux !
+[Le plafond troué.
+]{.bold} Et, tandis qu\'au dehors siffle le vent féroce,
+Contempler, à travers les glaces du carrosse,
+Le ciel bleu, rayonnant d\'une douce clarté !
+[Le ciel bleu.
+]{.bold} Paix ! Comptez vous pour rien cette sérénité
+De marcher le front haut, et de se dire : en somme,
+Je mange du pain noir, mais je suis honnête homme \![
+]{.bold}
+[17 novembre 1853.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VII -- Le Soutien des empires]{.calibre2}]{.bold1}]{.calibre_39} {#vii-le-soutien-des-empires .calibre_38}
+
+[
+Puisque ce monde existe, il sied qu'on le tolère.
+Sachons considérer les êtres sans colère.
+Cet homme est le bourgeois du siècle où nous vivons.
+Autrefois il vendait des suifs et des savons,
+Maintenant il est riche ; il a prés, bois, vignobles.
+Il déteste le peuple, il n'aime pas les nobles ;
+Étant fils d'un portier, il trouve en ce temps-ci
+Inutile qu'on soit fils des Montmorency.
+Il est sévère. Il est vertueux. Il est membre,
+Ayant de bons tapis sous les pieds en décembre,
+Du grand parti de l'ordre et des honnêtes gens.
+Il hait les amoureux et les intelligents ;
+Il fait un peu l'aumône, il fait un peu l'usure ;
+Il dit du progrès saint, de la liberté pure,
+Du droit des nations : Je ne veux pas de ça !
+Il a ce gros bon sens du cher Sancho Panza
+Qui laisserait mourir à l'hôpital Cervantès ;
+Il admire Boileau, caresse les servantes,
+Et crie, après avoir chiffonné Jeanneton,
+À l'immoralité du roman feuilleton.
+À la messe où sans faute il va chaque dimanche,
+Il porte sous son bras Jésus doré sur tranche,
+La crèche, le calvaire et le Dies illa.
+--- Non qu'entre nous je croise à ces bêtises-là,
+Nous dit-il. --- S'il y va, cela tient à sa gloire,
+C'est que le peuple vil croira, le voyant croire,
+C'est qu'il faut abrutir ces gens, car ils ont faim,
+C'est qu'un bon Dieu quelconque est nécessaire enfin.
+Là-dessus, rangez-vous, le suisse frappe, il entre,
+Il étale au banc d'oeuvre un majestueux ventre,
+Fier de sentir qu'il prend, dans sa dévotion,
+Le peuple en laisse et Dieu sous sa protection.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VIII -- Écrit sur la première page d'un livre de Joseph de Maistre]{.calibre2}]{.bold1}]{.calibre_39} {#viii-écrit-sur-la-première-page-dun-livre-de-joseph-de-maistre .calibre_38}
+
+[
+Cathédrale monstre ! Bâtie
+Contre le droit et le devoir !
+Plan incliné. La sacristie,
+Glissante, devient l'abattoir.
+Ici les cierges, là les torches.
+Dans ce temple, à deux fins construit,
+On juxtapose les deux porches
+De la lumière et de la nuit.
+Fausse lumière et nuit réelle.
+L'ombre de Rome sur Paris.
+Une aigle ayant au bout de l'aile
+Des ongles de chauve-souris.
+Une logique épouvantable
+Invente, ô peuple sans vengeurs,
+Un Reims étrange à double table
+Où sont assis tes deux mangeurs.
+Les deux noirs êtres qui te rongent,
+Le magnifique et le hideux,
+Boivent ton sang ensemble, et songent,
+Avec leur prêtre à côté d'eux.
+Double chapelle, et double apôtre.
+Bonald en l'une, altier zéro,
+Couronne le prince, et, dans l'autre,
+De Maistre sacre le bourreau.[
+]{.bold}
+L'horreur à l'empire est mêlée.
+On a sur le trône étalé
+Une pourpre coagulée
+Qui de l'échafaud a coulé.
+Un homme règne, un homme fauche ;
+Soit. J'ai toujours cru qu'on verrait
+Se marier de la main gauche
+L'épée avec le couperet.[
+]{.bold}
+[1851]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IX -- Se laisser calomnier]{.calibre2}]{.bold1}]{.calibre_39} {#ix-se-laisser-calomnier .calibre_38}
+
+[
+Quoi, frère, tu frémis parce qu'on te déchire !
+Tu ne connais donc pas la force du sourire !
+Quand tu te vois honni, hué, sifflé, raillé,
+Par des faquins à l'âme obscure, au nom souillé,
+Qui firent cent métiers et jouèrent cent rôles,
+Tu prends trop de souci des choses que ces drôles
+Disent de toi. Ton front s'assombrit ; tu t'émeus
+Des sottises d'un tas de cuistres venimeux.
+Regarde-moi. --- Je suis seul, debout, sur la scène,
+On m'insulte, je ris de leur rage malsaine
+Et je vais ! Car mon coeur dans cet âpre chemin
+Sent aujourd'hui l'honneur et la gloire demain.[
+]{.bold}
+[Paris, juillet 1851.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[X -- À un homme fini]{.calibre2}]{.bold1}]{.calibre_39} {#x-à-un-homme-fini .calibre_38}
+
+[
+Tu savais bien qu'un jour il faudrait choir enfin,
+Mais tu n'imaginais ni Séjan, ni Rufin.
+Tu te croyais de ceux que la haine publique
+Frappe furtivement d'un coup de foudre oblique ;
+Tu t'étais figuré qu'on te renverserait
+Sans te faire de mal, doucement, en secret,
+Avec précaution, sans bruit, à la nuit close,
+Et priant un ami de te dire la chose,
+Ainsi qu'on pose à terre un vase précieux ;
+Tu t'étais fait d'avance, au loin, sous de beaux cieux,
+Dans ton palais, plus fier que la villa Farnèse,
+Un lit voluptueux pour tomber à ton aise.
+Point. C'est en plein midi que le peuple a tonné.
+L'horizon était bleu, l'éclair l'a sillonné.
+Le tonnerre, au grand jour, au milieu de la foule,
+Est tombé sur ton front comme un plafond qui croule,
+Et ceux qui t'ont vu mettre en poudre en un moment
+Se sont épouvantés de cet écrasement.
+Et les sages ont dit, te regardant par terre,
+Que les temps sont mauvais, que le pouvoir s'altère
+Quand un gueux, un gredin, un faquin, un maraud,
+Fait pour ramper si bas, peut tomber de si haut.[
+]{.bold}
+[6-7 août 1849.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XI -- À \*\*\*\*]{.calibre2}]{.bold1}]{.calibre_39} {#xi-à .calibre_38}
+
+[
+Je me disais : --- Cet homme est-il un saltimbanque ?
+Ne faut-il pas le plaindre ? Est-ce un sens qui lui manque ?
+Il ne comprend donc pas ? Est-ce un aveugle-né ?
+Un bègue ? Un sourd ? D'où vient que ce triste obstiné
+Méconnaît tout génie et toute gloire, et rampe,
+Tâchant d'éteindre l'astre et de souffler la lampe,
+Et déchire, dénigre, insulte, blesse, nuit,
+Et sur toute clarté va bavant de la nuit ? ---
+Maintenant je t'ai vu de près, ô misérable ;
+J'ai vu ton oeil, ton dos, ton échine, ton râble,
+Ton crâne plat, ton ventre odieux ; et du doigt
+Asmodée a levé le plafond de ton toit ;
+Je t'ai vu te traîner, ivre et triste ; et, farouche,
+Arracher en jouant les ailes d'une mouche.
+J'ai vu ton rire, hélas ! Je n'ai pas vu tes pleurs.
+Je t'ai vu haïr l'aube, et marcher sur les fleurs,
+Et sans cesse écraser la vie à ton passage ;
+Et battre les enfants, et cracher au visage
+De cette fille à qui tu donnes quinze sous ;
+J'ai vu tes vêtements dans l'ordure dissous ;
+J'ai vu ton coeur sans Dieu, ta chambre sans cuvette ;
+Je t'ai vu t'irriter au chant d'une fauvette,
+Toujours plisser le front, toujours crisper le poing ;
+Et j'ai compris pourquoi tu ne comprenais point.[
+]{.bold}
+[20 mai.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XII -- Anima vilis]{.calibre2}]{.bold1}]{.calibre_39} {#xii-anima-vilis .calibre_38}
+
+[
+À force d'insulter les vaillants et les justes,
+À force de flatter les trahisons augustes,
+À force d'être abject et d'ajuster des tas
+De sophismes hideux aux plus noirs attentats,
+Cet homme espère atteindre aux grandeurs ; il s'essouffle
+À passer scélérat, lui qui n'est que maroufle.
+Ce pédagogue aspire au grade de coquin.
+Ce rhéteur, ver de terre et de lettres, pasquin
+Qui s'acharne sur nous et dont toujours nous rîmes,
+Tâche d'être promu complice des grands crimes.
+Il raillait l'art, et c'est tout simple en vérité,
+La laideur est aveugle et sourde à la beauté.
+Mais être un idiot ne peut plus lui suffire,
+Il est jaloux du tigre à qui la peur dit : sire !
+Il veut être aussi lui sénateur des forêts ;
+Il veut avoir, ainsi que Montluc ou Verrès,
+Sa caverne ou sa cage avec grilles et trappes
+Dans la ménagerie énorme des satrapes.
+Ah çà, tu perds ton temps et ta peine, grimaud !
+Aliboron n'est pas aisément Béhémoth ;
+Le burlesque n'est pas facilement sinistre ;
+Fusses-tu meurtrier, tu demeurerais cuistre.
+Quand ces êtres sanglants qu'il te plaît d'envier,
+Mammons que hait Tacite et qu'admire Cuvier,
+Sont là, brigands et dieux, on n'entre pas d'emblée
+Dans leur épouvantable et royale assemblée.
+Devenir historique ! Impossible pour toi.
+Sortir du mépris simple et compter dans l'effroi,
+Toi, jamais ! Ton front bas exclut ce noir panache.
+Ton sort est d'être, jeune, inepte ; et, vieux, ganache.
+Vers l'avancement vrai tu n'as point fait un pas ;
+Tu te gonfles, crapaud, mais tu n'augmentes pas ;[
+]{.bold} Si Myrmidon croissait, ce serait du désordre ;
+Tu parviens à ramper sans parvenir à mordre.
+La nature n'a pas de force à dépenser
+Pour te faire grandir et te faire pousser.
+Quoi donc ! N'est-elle point l'impassible nature ?
+Parce que des têtards, nourris de pourriture,
+Souhaitent devenir dragons et caïmans,
+Elle consentirait à ces grossissements !
+Le ver serait boa ! L'huître deviendrait l'hydre !
+Locuste empoisonnait le vin, et non le cidre ;
+L'enfer fit Arétin terrible, et non Brusquet.
+Un avorton ne peut qu'avorter. Le roquet
+S'efforce d'être loup, mais il s'arrête en route.
+Le ciel mystérieux fait des guépards sans doute,
+De fiers lions bandits, pires que les démons,
+Des éléphants, des ours ; mais il livre les monts,
+Les antres et les bois à leur majesté morne !
+Mais il lui faut l'espace et les sables sans borne
+Et l'immense désert pour les démuseler !
+Le chat qui veut rugir ne peut que miauler ;
+En vain il copierait le grand jaguar lyrique
+Errant sur la falaise au bord des mers d'Afrique,
+Et la panthère horrible, et le lynx moucheté ;
+Dieu ne fait pas monter jusqu'à la dignité
+De crime, de furie et de scélératesse,
+Cette méchanceté faite de petitesse.
+Les montagnes, pignons et murs de granit noir
+D'où tombent les torrents affreux, riraient de voir
+Ce preneur de souris rôder sur leur gouttière.
+Un nain ne devient pas géant au vestiaire.
+Pour être un dangereux et puissant animal,
+Il faut qu'un grand rayon tombe sur vous ; le mal
+N'arrive pas toujours à sa hideuse gloire.
+Dieu tolère, c'est vrai, la création noire,
+Mais d'aussi plats que toi ne sont pas exaucés.
+Tu ne parviendras pas, drôle, à t'enfler assez
+Pour être un python vaste et sombre au fond des fanges ;[
+]{.bold} Tu n'égaleras point ces reptiles étranges
+Dont l'oeil aux soupiraux de l'enfer est pareil.
+Tu demeureras laid, faible et mou. Le soleil
+Dédaigne le lézard, candidat crocodile.
+Sois un coeur monstrueux, mais reste une âme vile.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIII -- Littérature]{.calibre2}]{.bold1}]{.calibre_39} {#xiii-littérature .calibre_38}
+
+[
+Donc, vieux passé plaintif, toujours tu reviendras
+Nous criant : --- Pourquoi donc est-on si loin ? Ingrats !
+Qu'êtes-vous devenus ? Dites, avec l'abîme
+Quel pacte avez-vous fait ? Quel attentat ? Quel crime ? ---
+Nous questionnant, sombre et de rage écumant,
+Furieux.
+Nous avons marché, tout bonnement.
+Qui marche t'assassine, ô bon vieux passé blême.
+Mais que veux-tu ? Je suis de mon siècle, et je l'aime !
+Je te l'ai déjà dit. Non, ce n'est plus du tout
+L'époque où la nature était de mauvais goût,
+Où Bouhours, vieux jésuite, et le Batteux, vieux cancre,
+Lunette au nez et plume au poing, barbouillaient d'encre
+Le cygne au bec doré, le bois vert, le ciel bleu ;
+Où l'homme corrigeait le manuscrit de Dieu.
+Non, ce n'est plus le temps où Lenôtre à Versailles
+Raturait le buisson, la ronce, la broussaille ;
+Siècle où l'on ne voyait dans les champs éperdus
+Que des hommes poudrés sous des arbres tondus.
+Tout est en liberté maintenant. Sur sa nuque
+L'arbre a plus de cheveux, l'homme a moins de perruque.
+La vieille idée est morte avec le vieux cerveau.
+La révolution est un monde nouveau.
+Notre oreille en changeant a changé la musique.
+Lorsque Fernand Cortez arriva du Mexique,
+Il revint la main pleine, et, du jeune univers,
+Il rapporta de l'or ; nous rapportons des vers.
+Nous rapportons des chants mystérieux. Nous sommes
+D'autres yeux, d'autres fronts, d'autres coeurs, d'autres hommes.[
+]{.bold} Braves pédants, calmez votre bon vieux courroux.
+Nous arrachons de l'âme humaine les verrous.
+Tous frères, et mêlés dans les monts, dans les plaines,
+Nous laissons librement s'en aller nos haleines
+À travers les grands bois et les bleus firmaments.
+Nous avons démoli les vieux compartiments.
+Non, nous ne sommes plus ni paysan, ni noble,
+Ni lourdaud dans son pré, ni rustre en son vignoble,
+Ni baron dans sa tour, ni reître à ses canons ;
+Nous brisons cette écorce, et nous redevenons
+L'homme ; l'homme enfin hors des temps crépusculaires ;
+L'homme égal à lui-même en tous ses exemplaires ;
+Ni tyran, ni forçat, ni maître, ni valet ;
+L'humanité se montre enfin telle qu'elle est,
+Chaque matin plus libre et chaque soir plus sage ;
+Et le vieux masque usé laisse voir le visage.
+Avec Ézéchiel nous mêlons Spinoza.
+La nature nous prend, la nature nous a ;
+Dans son antre profond, douce, elle nous attire ;
+Elle en chasse pour nous son antique satyre,
+Et nous y montre un sphinx nouveau qui dit : pensez.
+Pour nous les petits cris au fond des nids poussés,
+Sont augustes ; pour nous toutes les monarchies
+Que vous saluez, vous, de vos têtes blanchies,
+Tous les fauteuils royaux aux dossiers empourprés,
+Sont peu de chose auprès d'un liseron des prés.
+Régner ! Cela vaut-il rêver sous un vieux aulne ?
+Nous regardons passer Charles-Quint sur son trône,
+Jules deux sous son dais, César dans les clairons,
+Et nous avons pitié lorsque nous comparons
+À l'aurore des cieux cette fausse dorure.
+Lorsque nous contemplons, par une déchirure
+Des nuages, l'oiseau volant dans sa fierté,[
+]{.bold} Nous sentons frissonner notre aile, ô liberté !
+En fait d'or, à la cour nous préférons la gerbe.
+La nature est pour nous l'unique et sacré verbe,
+Et notre art poétique ignore Despréaux.
+Nos rois très excellents, très puissants et très hauts,
+C'est le roc dans les flots, c'est dans les bois le chêne.
+Mai, qui brise l'hiver, c'est-à-dire la chaîne,
+Nous plaît. Le vrai nous tient. Je suis parfois tenté
+De dire au mont Blanc : --- Sire ! Et : --- Votre majesté
+À la vierge qui passe et porte, agreste et belle,
+Sa cruche sur son front et Dieu dans sa prunelle.
+Pour nous, songeurs, bandits, romantiques, démons,
+Bonnets rouges, les flots grondants, l'aigle, les monts,
+La bise, quand le soir ouvre son noir portique,
+La tempête effarant l'onde apocalyptique,
+Dépassent en musique, en mystère, en effroi,
+Les quatre violons de la chambre du roi.
+Chaque siècle, il s'y faut résigner, suit sa route.
+Les hommes d'autrefois ont été grands sans doute ;
+Nous ne nous tournons plus vers les mêmes clartés.
+Jadis, frisure au front, ayant à ses côtés
+Un tas d'abbés sans bure et de femmes sans guimpes,
+Parmi des princes dieux, sous des plafonds olympes,
+Prêt dans son justaucorps à poser pour Audran,
+La dentelle au cou, grave, et l'oeil sur un cadran,
+Dans le salon de Mars ou dans la galerie
+D'apollon, submergé dans la grand'seigneurie,
+Dans le flot des Rohan, des Sourdis, des Elbeuf,
+Et des fiers habits d'or roulant vers l'Oeil-de-Boeuf,
+Le poète, fût-il Corneille, ou toi, Molière,
+--- Tandis qu'en la chapelle ou bien dans la volière,
+Les chanteurs accordaient le théorbe et le luth,
+Et que Lulli tremblant s'écriait : gare à l'ut ! ---
+Attendait qu'au milieu de la claire fanfare
+Et des fronts inclinés apparût, comme un phare,[
+]{.bold} Le page, aux tonnelets de brocart d'argent fin,
+Qui portait le bougeoir de monsieur le dauphin.
+Aujourd'hui, pour Versailles et pour salon d'Hercule,
+Ayant l'ombre et l'airain du rouge crépuscule,
+Fauve, et peu coudoyé de Guiche ou de Brissac,
+La face au vent, les poings dans un paletot sac,
+Seul, dans l'immensité que l'ouragan secoue,
+Il écoute le bruit que fait la sombre proue
+De la terre, et pensif, sur le blême horizon,
+À l'heure où, dans l'orchestre inquiet du buisson,
+De l'arbre et de la source, un frémissement passe,
+Où le chêne chuchote et prend sa contrebasse,
+L'eau sa flûte et le vent son stradivarius,
+Il regarde monter l'effrayant Sirius.
+Pour la muse en paniers, par Dorat réchauffée,
+C'est un orang-outang ; pour les bois, c'est Orphée.
+La nature lui dit : mon fils. Ce malotru,
+Ô grand siècle ! Écrit mieux qu'Ablancourt et Patru.
+Est-il féroce ? Non. Ce troglodyte affable
+À l'ormeau du chemin fait réciter sa fable ;
+Il dit au doux chevreau : bien bêlé, mon enfant !
+Quand la fleur, le matin, de perles se coiffant,
+Se mire aux flots, coquette et mijaurée exquise,
+Il passe et dit : Bonjour, madame la marquise.
+Et puis il souffre, il pleure, il est homme ; le sort
+En rayons douloureux de son front triste sort.
+Car, ici-bas, si fort qu'on soit, si peu qu'on vaille,
+Tous, qui que nous soyons, le destin nous travaille
+Pour orner dans l'azur la tiare de Dieu.
+Le même bras nous fait passer au même feu ;
+Et, sur l'humanité, qu'il use de sa lime,
+Essayant tous les coeurs à sa meule sublime,
+Scrutant tous les défauts de l'homme transparent,
+Sombre ouvrier du ciel, noir orfèvre, tirant
+Du sage une étincelle et du juste une flamme,
+Se penche le malheur, lapidaire de l'âme.
+Oui, tel est le poète aujourd'hui. Grands, petits,
+Tous dans Pan effaré nous sommes engloutis.
+Et ces secrets surpris, ces splendeurs contemplées,
+Ces pages de la nuit et du jour épelées,
+Ce qu'affirme Newton, ce qu'aperçoit Mesmer,
+La grande liberté des souffles sur la mer,
+La forêt qui craint Dieu dans l'ombre et qui le nomme,
+Les eaux, les fleurs, les champs, font naître en nous un homme
+Mystérieux, semblable aux profondeurs qu'il voit.
+La nature aux songeurs montre les cieux du doigt.
+Le cèdre au torse énorme, athlète des tempêtes,
+Sur le fauve Liban conseillait les prophètes,
+Et ce fut son exemple austère qui poussa
+Nahum contre Ninive, Amos contre Gaza.
+Les sphères en roulant nous jettent la justice.
+Oui, l'âme monte au bien comme l'astre au solstice ;
+Et le monde équilibre a fait l'homme devoir.
+Quand l'âme voit mal Dieu, l'aube le fait mieux voir.
+La nuit, quand Aquilon sonne de la trompette,
+Ce qu'il dit, notre coeur frémissant le répète.
+Nous vivons libres, fiers, tressaillants, prosternés,
+Éblouis du grand Dieu formidable ; et, tournés
+Vers tous les idéals et vers tous les possibles,
+Nous cueillons dans l'azur les roses invisibles.
+L'ombre est notre palais. Nous sommes commensaux
+De l'abeille, du jonc nourri par les ruisseaux,
+Du papillon qui boit dans la fleur arrosée.
+Nos âmes aux oiseaux disputent la rosée.
+Laissant le passé mort dans les siècles défunts,
+Nous vivons de rayons, de soupirs, de parfums,
+Et nous nous abreuvons de l'immense ambroisie
+Qu'Homère appelle amour et Platon poésie.
+Sous les branchages noirs du destin, nous errons,
+Purs et graves, avec les souffles sur nos fronts.
+Notre adoration, notre autel, notre Louvre,
+C'est la vertu qui saigne ou le matin qui s'ouvre ;
+Les grands levers auxquels nous ne manquons jamais,
+C'est Vénus des monts noirs blanchissant les sommets ;
+C'est le lys fleurissant, chaste, charmant, sévère ;
+C'est Jésus se dressant, pâle, sur le calvaire.[
+]{.bold}
+[22 novembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIV -- À un écrivain]{.calibre2}]{.bold1}]{.calibre_39} {#xiv-à-un-écrivain .calibre_38}
+
+[
+Prends garde à Marchangy. La prose poétique
+Est une ornière où geint le vieux Pégase étique.
+Tout autant que le vers, certes, la prose a droit
+À la juste cadence, au rythme divin ; soit ;
+Pourvu que, sans singer le mètre, la cadence
+S'y cache et que le rythme austère s'y condense.
+La prose en vain essaie un essor assommant.
+Le vers s'envole au ciel tout naturellement ;
+Il monte ; il est le vers ; je ne sais quoi de frêle
+Et d'éternel, qui chante et plane et bat de l'aile ;
+Il se mêle, farouche et l'éclair dans les yeux,
+À toutes ces lueurs du ciel mystérieux
+Que l'aube frissonnante emporte dans ses voiles.
+Quand même on la ferait danser jusqu'aux étoiles,
+La prose, c'est toujours le sermo pedestris.
+Tu crois être Ariel et tu n'es que Vestris.[
+]{.bold}
+[24 juillet 1859.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XV -- Le Mont-aux-pendus]{.calibre2}]{.bold1}]{.calibre_39} {#xv-le-mont-aux-pendus .calibre_38}
+
+[(Jersey)]{.calibre_10}
+
+[
+Ils me disent : hier deux bricks se sont perdus
+La nuit sur des bas-fonds près du Mont-aux-Pendus.
+Et moi, levant le doigt vers la funèbre cime,
+Je leur dis : vous venez tuer devant l'abîme.
+Pourquoi voulez-vous donc qu'il soit meilleur que vous ?
+Les flots sont insensés, mais les hommes sont fous.
+Vous donnez le mauvais exemple aux mers sauvages ;
+Vous leur montrez la mort debout sur vos rivages ;
+Vous mettez un gibet sur la falaise ; alors
+Ne vous étonnez point d'avoir, près de vos ports,
+Épiant vos départs comme vos arrivées,
+Des roches sans pitié que l'homme a dépravées.[
+]{.bold}
+[4 décembre.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVI -- Le Bout de l'oreille]{.calibre2}]{.bold1}]{.calibre_39} {#xvi-le-bout-de-loreille .calibre_38}
+
+[
+J'ai ri d'abord.
+J'étais dans mon champ plein de roses.
+J'errais. Âme attentive au clair-obscur des choses,
+Je vois au fond de tout luire un vague flambeau.
+C'était le matin, l'heure où le bois se fait beau,
+Où la nature semble une immense prunelle
+Éblouie, ayant Dieu presque visible en elle.
+Pour faire fête à l'aube, au bord des flots dormants,
+Les ronces se couvraient d'un tas de diamants ;
+Les brins d'herbe coquets mettaient toutes leurs perles ;
+La mer chantait ; les geais causaient avec les merles ;
+Les papillons volaient du cytise au myrtil.
+Entre un ami --- Bonjour. Savez-vous ? Me dit-il,
+On vient de vous brûler sur la place publique.
+--- Où ça ? ― Dans un pays honnête et catholique.
+--- Je le suppose. ― Peste ! Ils vous ont pris vivant
+Dans un livre où l'on voit le bagne et le couvent,
+Vous ont brûlé, vous diable et juif, avec esclandre,
+Ensuite ils ont au vent fait jeter votre cendre.
+--- Il serait peu décent qu'il en fût autrement.
+Mais quand ça ? ― L'autre jour. En Espagne. --- Vraiment.
+--- Ils ont fait cuire au bout de leur grande pincette
+Myriel, Jean ValJean, Marius et Cosette,
+Vos Misérables, vous, toute votre âme enfin.
+Vos êtes un de ceux dont Escobar a faim.
+Vous voilà quelque peu grillé comme Voltaire.
+--- Donc j'ai chaud en Espagne et froid en Angleterre.
+Tel est mon sort. ― La chose est dans tous les journaux.
+Ah ! Si vous n'étiez pas chez ces bons huguenots !
+L'ennui, c'est qu'on ne peut jusqu'ici vous poursuivre.
+Ne pouvant rôtir l'homme, on a flambé le livre.
+--- C'est le moins. ― Vous voyez d'ici tous les détails.
+De gros bonshommes noirs devant de grands portails,
+Un feu, de quoi brûler une bibliothèque.
+--- Un évêque m'a fait cet honneur ! ― Un évêque ?
+Morbleu ! Pour vous damner ils se sont assemblés,
+Et ce n'est pas un seul, c'est tous. ― Vous me comblez.
+Et nous rions.
+Et puis je rentre, et je médite.
+Ils en sont là.
+Du temps de Vénus Aphrodite,
+Parfois, seule, écoutant on ne sait quelles voix,
+La déesse errait nue et blanche au fond des bois ;
+Elle marchait tranquille, et sa beauté sans voiles,
+Ses cheveux faits d'écume et ses yeux faits d'étoiles,
+Étaient dans la forêt comme une vision ;
+Cependant, retenant leur respiration,
+Voyant au loin passer cette clarté, les faunes
+S'approchaient ; l'ægipan, le satyre aux yeux jaunes,
+Se glissaient en arrière ivres d'un vil désir,
+Et brusquement tendaient le bras pour la saisir,
+Et le bois frissonnait, et la surnaturelle,
+Pâle, se retournait sentant leur main sur elle.
+Ainsi, dans notre siècle aux mirages trompeurs,
+La conscience humaine a d'étranges stupeurs ;
+Lumineuse, elle marche en notre crépuscule,
+Et tout à coup, devant le faune, elle recule.
+Tartuffe est là, nouveau Satan d'un autre éden.
+Nous constatons dans l'ombre, à chaque instant, soudain,
+Le vague allongement de quelque griffe infâme
+Et l'essai ténébreux de nous prendre notre âme.
+L'esprit humain se sent tâté par un bourreau.
+Mais doucement. On jette au noir quemadero
+Ce qu'on peut, mais plus tard on fera mieux peut-être,
+Et votre meurtrier est timide ; il est prêtre.
+Il vous demanderait presque permission.[
+]{.bold} Il allume un brasier, fait sa procession,
+Met des bûches au feu, du bitume au cilice,
+Soit ; mais si gentiment qu'après votre supplice
+Vous riez.
+Grillandus n'est plus que Loyola.
+Vous lui dites : ma foi, c'est drôle. Touchez là.
+Eh bien, riez. C'est bon. Attendez, imbéciles !
+Lui qui porte en ses yeux l'âme des noirs Basiles,
+Il rit de vous voir rire. Il est Vichnou, Mithra,
+Teutatès, et ce feu pour rire grandira.
+Ah ! Vous criez : bravo ! Ta rage est ma servante.
+Brûle mes livres. Bien, très bien ! Pousse à la vente !
+Et lui songe. Il se dit : --- La chose a réussi.
+Quand le livre est brûlé, l'écrivain est roussi.
+La suite à demain. --- Vous, vous raillez. Il partage
+Votre joie, avec l'air d'un prêtre de Carthage.
+Il dit : leur cécité toujours me protégea.
+Sa mâchoire, qui rit encore, vous mord déjà.
+N'est-ce pas ? Ce brûleur avec bonté nous traite,
+Et son autodafé n'est qu'une chaufferette !
+Ah ! Les vrais tourbillons de flamme auront leur tour.
+En elle, comme un oeuf contient le grand vautour,
+La petite étincelle a l'incendie énorme.
+Attendez seulement que la France s'endorme,
+Et vous verrez.
+Peut-on calculer le chemin
+Que ferait pas à pas, hier, aujourd'hui, demain,
+L'effroyable tortue avec ses pieds fossiles ?
+Qui sait ? Bientôt peut-être on aura des conciles !
+On entendra, qui sait ? Un homme dire à Dieu :
+--- L'infaillible, c'est moi. Place ! Recule un peu. ―
+Quoi ! Recommence-t-on ? Ciel ! Serait-il possible
+Que l'homme redevînt pâture, proie et cible !
+Et qu'on revît les temps difformes ! Qu'on revît
+Le double joug qui tue autant qu'il asservit !
+Qu'on revît se dresser sur le globe, vil bouge,
+Près du sceptre d'airain la houlette en fer rouge !
+Nos pères l'ont subi, ce double pouvoir-là !
+Nuit ! Mort ! Melchisédech compliqué d'Attila !
+Ils ont vu sur leurs fronts, eux parias sans nombre,
+Le côte à côte affreux des deux sceptres dans l'ombre ;
+Ils entendaient leur foudre au fond du firmament,
+Moins effrayante encore que leur chuchotement.
+--- Prends les peuples, César. ― Toi, Pierre, prends les âmes.
+--- Prends la pourpre, César. ― Mais toi, qu'as-tu ? ― Les flammes.
+--- Et puis ? ― Cela suffit. ― Régnons.
+Âges hideux !
+L'homme blanc, l'homme sombre. Ils sont un. Ils sont deux.
+Là le guerrier, ici le pontife ; et leurs suites,
+Confesseurs, massacreurs, tueurs, bourreaux, jésuites !
+Ô deuil ! Sur les bûchers et les sanbenitos
+Rome a, quatre cents ans, braillé son vil pathos,
+Jetant sur l'univers terrifié qui souffre
+D'une main l'eau bénite et de l'autre le soufre.
+Tous ces prêtres portaient l'affreux masque aux trous noirs ;
+Leurs mitres ressemblaient dans l'ombre aux éteignoirs ;
+Ils ont été la Nuit dans l'obscur Moyen-Âge ;
+Ils sont tout prêts à faire encore ce personnage,
+Et jusqu'en notre siècle, à cette heure engourdi,
+On les verrait, avec leur torche en plein midi,
+Avec leur crosse, avec leurs bedeaux, populace,
+Reparaître et rentrer, s'ils trouvaient de la place
+Pour passer, ô Voltaire, entre Jean-Jacques et toi !
+Non, non, non ! Reculez, faux pouvoir, fausse foi !
+Oh ! La Rome des frocs ! Oh ! L'Espagne des moines !
+Disparaissez ! Prêcheurs captant les patrimoines !
+Bonnets carrés ! Camails ! Capuchons ! Clercs ! Abbés !
+Tas d'horribles fronts bas, tonsurés ou nimbés !
+Ô mornes visions du tison et du glaive \![
+]{.bold} Exécrable passé qui toujours se relève
+Et sur l'humanité se dresse menaçant !
+Saulx-Tavanne, écumant une écume de sang,
+Criant : égorgez tout ! Dieu fera le triage !
+La juive de seize ans brûlée au mariage
+De Charles deux avec Louise d'Orléans,
+Et dans l'autodafé plein de brasiers béants
+Offerte aux fiancés comme un cierge de noce ;
+Campanella brisé par l'église féroce ;
+Jordan Bruno lié sous un ruisseau de poix
+Qui ronge par sa flamme et creuse par son poids ;
+D'Albe qui dans l'horreur des bûchers se promène
+Séchant sa main sanglante à cette braise humaine ;
+Galilée abaissant ses genoux repentants ;
+La place d'Abbeville où Labarre à vingt ans,
+Pour avoir chansonné toute cette canaille,
+Eut la langue arrachée avec une tenaille,
+Et hurla dans le feu, tordant ses noirs moignons ;
+Le marché de Rouen dont les sombres pignons
+Ont le rouge reflet de ton supplice, ô Jeanne !
+Huss brûlé par Martin, l'aigle tué par l'âne ;
+Farnèse et Charles-Quint, Grégoire et Sigismond,
+Toujours ensemble assis comme au sommet d'un mont,
+À leurs pieds toute l'âme humaine épouvantée
+Sous cet effrayant Dieu qui fait le monde athée ;
+Ce passé m'apparaît ! Vous me faites horreur,
+Croulez, toi monstre pape, et toi monstre empereur \![
+]{.bold}
+[25 mai.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVII -- L'Échafaud]{.calibre2}]{.bold1}]{.calibre_39} {#xvii-léchafaud .calibre_38}
+
+[
+--- Oeil pour oeil ! Dent pour dent ! Tête pour tête ! A mort !
+Justice ! L'échafaud vaut mieux que le remord.
+Talion ! talion !
+--- Silence aux cris sauvages !
+Non ! assez de malheur, de meurtre et de ravages !
+Assez d'égorgements ! assez de deuil ! assez
+De fantômes sans tête et d'affreux trépassés !
+Assez de visions funèbres dans la brume !
+Assez de doigts hideux, montrant le sang qui fume,
+Noirs, et comptant les trous des linceuls dans la nuit !
+Pas de suppliciés dont le cri nous poursuit !
+Pas de spectres jetant leur ombre sur nos têtes !
+Nous sommes ruisselants de toutes les tempêtes ;
+Il n'est plus qu'un devoir et qu'une vérité,
+C'est, après tant d'angoisse et de calamité.
+Homme, d'ouvrir son coeur, oiseau, d'ouvrir son aile
+Vers ce ciel que remplit la grande âme éternelle !
+Le peuple, que les rois broyaient sous leurs talons.
+Est la pierre promise au temple, et nous voulons
+Que la pierre bâtisse et non qu'elle lapide !
+Pas de sang ! pas de mort ! C'est un reflux stupide
+Que la férocité sur la férocité.
+Un pilier d'échafaud soutient mal la cité.
+Tu veux faire mourir ! Moi je veux faire naître !
+Je mure le sépulcre et j'ouvre la fenêtre.
+Dieu n'a pas fait le sang, à l'amour réservé.
+Pour qu'on le donne à boire aux fentes du pavé.
+S'agit-il d'égorger ? Peuples, il s'agit d'être.
+Quoi ! tu veux te venger, passant ? de qui ? du maître ?
+Si tu ne vaux pas mieux, que viens-tu faire ici ?
+Tout mystère où l'on jette un meurtre est obscurci j
+L'énigme ensanglantée est plus âpre à résoudre ;
+L'ombre s'ouvre terrible après le coup de foudre ;
+Tuer n'est pas créer, et l'on se tromperait
+Si l'on croyait que tout finit au couperet ;
+C'est là qu'inattendue, impénétrable, immense.
+Pleine d'éclairs subits, la question commence ;
+C'est du bien et du mal ; mais le mal est plus grand.
+Satan rit à travers l'échafaud transparent.
+Le bourreau, quel qu'il soit, a le pied dans l'abîme ;
+Quoi qu'elle fasse, hélas ! la hache fait un crime ;
+Une lugubre nuit fume sur ce tranchant ;
+Quand il vient de tuer, comme, en s'en approchant.
+On frémit de le voir tout ruisselant, et comme
+On sent qu'il a frappé dans l'ombre plus qu'un homme
+Sitôt qu'a disparu le coupable immolé.
+Hors du panier tragique où la tête a roulé.
+Le principe innocent, divin, inviolable.
+Avec son regard d'astre à l'aurore semblable.
+Se dresse, spectre auguste, un cercle rouge au cou.
+L'homme est impitoyable, hélas, sans savoir où.
+Comment ne voit-il pas qu'il vit dans un problème.
+Que l'homme est solidaire avec ses monstres même.
+Et qu'il ne peut tuer autre chose qu'Abel !
+Lorsqu'une tête tombe, on sent trembler le ciel.
+Décapitez Néron, cette hyène insensée,
+La vie universelle est dans Néron blessée ;
+Faites monter Tibère à l'échafaud demain,
+Tibère saignera le sang du genre humain.
+Nous sommes tous mêlés à ce que fait la Grève ;
+Quand un homme, en public, nous voyant comme un rêve.
+Meurt, implorant en vain nos lâches abandons.
+Ce meurtre est notre meurtre et nous en répondons ;
+C'est avec un morceau de notre insouciance.
+C'est avec un haillon de notre conscience.
+Avec notre âme à tous, que l'exécuteur las
+Essuie en s'en allant son hideux coutelas.
+L'homme peut oublier ; les choses importunes
+S'effacent dans l'éclat ondoyant des fortunes ;
+Le passé, l'avenir, se voilent par moments ;
+Les festins, les flambeaux, les feux, les diamants.
+L'illumination triomphale des fêtes.
+Peuvent éclipser l'ombre énorme des prophètes ;
+Autour des grands bassins, au bord des claires eaux.
+Les enfants radieux peuvent aux cris d'oiseaux
+Mêler le bruit confus de leurs lèvres fleuries.
+Et, dans le Luxembourg ou dans les Tuileries,
+Devant les vieux héros de marbre aux poings crispés.
+Danser, rire et chanter : les lauriers sont coupés !
+La Courtille au front bas peut noyer dans les verres
+Le souvenir des jours illustres et sévères ;
+La valse peut ravir, éblouir, enivrer
+Des femmes de satin, heureuses de livrer
+Le plus de nudité possible aux yeux de flamme ;
+L'hymen peut murmurer son chaste épithalame ;
+Le bal masqué, lascif, paré, bruyant, charmant,
+Peut allumer sa torche et bondir follement.
+Goule au linceul joyeux, larve en fleurs, spectre rose ;
+Mais, quel que soit le temps, quelle que soit la cause.
+C'est toujours une nuit funeste au peuple entier
+Que celle où, conduisant un prêtre, un guichetier
+Fouille au trousseau de clefs qui pend à sa ceinture
+Pour aller, sur le lit de fièvre et de torture,
+Réveiller avant l'heure un pauvre homme endormi,
+Tandis que, sur la Grève, entrevus à demi.
+Sous les coups de marteau qui font fuir la chouette.
+D'effrayants madriers dressent leur silhouette.
+Rougis par la lanterne horrible du bourreau.
+Le vieux glaive du juge a la nuit pour fourreau.
+Le tribunal ne peut de ce fourreau livide
+Tirer que la douleur, l'anxiété, le vide,
+Le néant, le remords, l'ignorance et l'effroi.
+Qu'il frappe au nom du peuple ou venge au nom du roi.
+Justice ! dites-vous. --- Qu'appelez-vous justice ?
+Qu'on s'entraide, qu'on soit des frères, qu'on vêtisse
+Ceux qui sont nus, qu'on donne à tous le pain sacré.
+Qu'on brise l'affreux bagne où le pauvre est muré,
+Mais qu'on ne touche point à la balance sombre !
+Le sépulcre où, pensif, l'homme naufrage et sombre.
+Au delà d'aujourd'hui, de demain, des saisons.
+Des jours, du flamboiement de nos vains horizons,
+Et des chimères, proie et fruit de notre étude,
+A son ciel plein d'aurore et fait de certitude ;
+La justice en est l'astre immuable et lointain.
+Notre justice à nous, comme notre destin.
+Est tâtonnement, trouble, erreur, nuage, doute ;
+Martyr, je m'applaudis 5 juge, je me redoute ;
+L'infaillible, est-ce moi, dis ? est-ce toi ? réponds.
+Vous criez : --- Nos douleurs sont notre droit. Frappons.
+Nous sommes trop en butte au sort qui nous accable.
+Nous sommes trop frappés d'un mal inexplicable.
+Nous avons trop de deuils, trop de jougs, trop d'hivers.
+Nous sommes trop souffrants, dans nos destins divers.
+Tous, les grands, les petits, les obscurs, les célèbres.
+Pour ne pas condamner quelqu'un dans nos ténèbres. ---
+Puisque vous ne voyez rien de clair dans le sort.
+Ne vous hâtez pas trop d'en conclure la mort.
+Fût-ce la mort d'un roi, d'un maître et d'un despote ;
+Dans la brume insondable où tout saigne et sanglote,
+Ne vous hâtez pas trop de prendre vos malheurs.
+Vos jours sans feu, vos jours sans pain, vos cris, vos pleurs.
+Et ce deuil qui sur vous et votre race tombe.
+Pour les faire servir à construire une tombe.
+Quel pas aurez-vous fait pour avoir ajouté
+A votre obscur destin, ombre et fatalité.
+Cette autre obscurité que vous nommez justice ?
+Faire de l'échafaud, menaçante bâtisse.
+Un autel à bénir le progrès nouveau-né,
+O vivants, c'est démence ; et qu'aurez-vous gagné
+Quand, d'un culte de mort lamentables ministres.
+Vous aurez marié ces infirmes sinistres,
+La justice boiteuse et l'aveugle anankè ?
+Le glaive toujours cherche un but toujours manqué ;
+La palme, cette flamme aux fleurs étincelantes,
+Faite d'azur, frémit devant des mains sanglantes.
+Et recule et s'enfuit, sensitive des cieux !
+La colère assouvie a le front soucieux.
+Quant à moi, tu le sais, nuit calme où je respire,
+J'aurais là, sous mes pieds, mon ennemi, le pire,
+Caïn juge, Judas pontife, Satan roi.
+Que j'ouvrirais ma porte et dirais : Sauve-toi !
+Non, l'élargissement des mornes cimetières
+N'est pas le but. Marchons, reculons les frontières
+De la vie ! O mon siècle, allons toujours plus haut !
+Grandissons !
+Qu'est-ce donc qu'il nous veut, l'échafaud.
+Cette charpente spectre accoutumée aux foules.
+Cet îlot noir qu'assiège et que bat de ses houles
+La multitude aux flots inquiets et mouvants.
+Ce sépulcre qui vient attaquer les vivants,
+Et qui, sur les palais ainsi que sur les bouges.
+Surgit, levant un glaive au bout de ses bras rouges ?
+Mystère qui se livre aux carrefours, morceau
+De la tombe qui vient tremper dans le ruisseau,
+Bravant le jour, le bruit, les cris ; bière effrontée
+Qui, féroce, cynique et lâche, semble athée !
+O spectacle exécré dans les plus repoussants.
+Une mort qui se fait coudoyer aux passants,
+Qui permet qu'un crieur hors de l'ombre la tire !
+Une mort qui n'a pas l'épouvante du rire.
+Dévoilant l'escalier qui dans la nuit descend,
+Disant : voyez ! marchant dans la rue, et laissant
+La boue éclabousser son linceul semé d'astres ;
+Qui, sur un tréteau, montre entre deux vils pilastres
+Son horreur, son front noir, son oeil de basilic ;
+Qui consent à venir travailler en public,
+Et qui, prostituée, accepte, sur les places,
+La familiarité des fauves populaces !
+O vivant du tombeau, vivant de l'infini,
+Jéhovah ! Dieu, clarté, rayon jamais terni.
+Pour faire de la mort, de la nuit, des ténèbres,
+Ils ont mis ton triangle entre deux pieux funèbres ;
+Et leur foule, qui voit resplendir ta lueur.
+Ne sent pas à son front poindre une âpre sueur.
+Et l'horreur n'étreint pas ce noir peuple unanime.
+Quand ils font, pour punir ce qu'ils ont nommé crime.
+Au nom de ce qu'ils ont appelé vérité.
+Sur la vie, o terreur, tomber l'éternité !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVIII -- Jolies Femmes]{.calibre2}]{.bold1}]{.calibre_39} {#xviii-jolies-femmes .calibre_38}
+
+[
+SONNET POUR ALBUM.]{.calibre_10}
+
+[
+On leur fait des sonnets, passables quelquefois ;
+On baise cette main qu'elles daignent vous tendre ;
+On les suit à l'église, on les admire au bois ;
+On redevient Damis, on redevient Clitandre ;
+Le bal est leur triomphe, et l'on brigue leur choix ;
+On danse, on rit, on cause, et vous pouvez entendre,
+Tout en valsant, parmi les luths et les hautbois,
+Ces belles gazouiller de leur voix la plus tendre :
+--- La force est tout ; la guerre est sainte ; l'échafaud
+Est bon ; il ne faut pas trop de lumière ; il faut
+Bâtir plus de prisons et bâtir moins d'écoles ;
+Si Paris bouge, il faut des canons plein les forts. ---
+Et ces colombes-là vous disent des paroles
+À faire remuer d'horreur les os des morts.[
+]{.bold}
+[Juillet 1876.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIX]{.calibre2}]{.bold1}]{.calibre_39} {#xix .calibre_38}
+
+[
+Cent mille hommes, criblés d'obus et de mitraille,
+Cent mille hommes, couchés sur un champ de bataille,
+Tombés pour leur pays par leur mort agrandi,
+Comme on tombe à Fleurus, comme on tombe à Lodi,
+Cent mille ardents soldats, héros et non victimes,
+Morts dans un tourbillon d'événements sublimes,
+D'où prend son vol la fière et blanche liberté,
+Sont un malheur moins grand pour la société,
+Sont pour l'humanité, qui sur le vrai se fonde,
+Une calamité moins haute et moins profonde,
+Un coup moins lamentable et moins infortuné
+Qu'un innocent, --- Un seul innocent condamné, ---
+Dont le sang, ruisselant sous un infâme glaive,
+Fume entre les pavés de la place de Grève,
+Qu'un juste assassiné dans la forêt des lois,
+Et dont l'âme a le droit d'aller dire à Dieu : Vois \![
+]{.bold}
+[V.H.]{.italic} [---]{.italic} [24 mars 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XX]{.calibre2}]{.bold1}]{.calibre_39} {#xx .calibre_38}
+
+[
+La hache ? Non. Jamais. Je n'en veux pour personne.
+Pas même pour ce czar devant qui je frissonne,
+Pas même pour ce monstre à lui-même fatal.
+Qui supprime Tyburn abolit White-Hall ;
+Et quand la mort, ouvrant son désastreux registre,
+Me dit : --- Que jettes-tu dans ce panier sinistre ?
+Ou la tête du peuple, ou la tête du roi ? ---
+Je dis : --- Ni celle-ci, ni celle-là. --- Ma loi,
+C'est la vie ; et ma joie, ô Dieu, c'est l'aube pure.
+Je ne suis pas de ceux qui font la pourriture ;
+Je ne suis pas de ceux qui donnent à manger
+Au sépulcre, où l'on voit ramper et s'allonger
+L'affreux sarcopte éclos du miasme délétère ;
+Je ne suis pas de ceux vers qui les vers de terre,
+Béants, tournent leur tête aveugle dans la nuit.
+Tout supplice est un fait contre la loi, traduit,
+Pour l'éducation des foules indécises,
+Devant l'esprit humain, suprême cour d'assises,
+Saint prétoire, infaillible et grave tribunal
+Où Beccaria juge aidé de Juvénal.
+Le penseur n'absout point les grands forfaits lyriques
+Que l'histoire engloutit sous ses panégyriques ;
+Il excuse parfois, il n'approuve jamais.
+Il veut de l'aube, et non du sang, sur les sommets.
+Peuple ou roi, quel que soit le tueur, il le blâme.
+Pour lui l'assassinat, même illustre, est infâme ;
+Tout temple est sombre avec une morgue au milieu.
+Quand le sang coule, il dit : malheur ! Admirant peu
+Le resplendissement magnifique du glaive ;
+Il n'a pas, quand le cri des victimes s'élève,
+Pour éblouissement la grandeur du bourreau ;
+Pour lui, Saint-Just poussant Danton au tombereau,[
+]{.bold} Louis quatorze affreux, penché sur les Cévennes,
+Implacable, saignant la France aux quatre veines,
+Titus livrant Sion massacrée aux vautours,
+Quoi qu'on puisse alléguer et dire, c'est toujours
+Le même crime errant dans la même nuit noire ;
+Si grand que soit l'éclat, quelle que soit la gloire,
+C'est toujours à ses yeux le meurtre, et, plein d'ennui,
+Partout, il le condamne ; et tout ce qu'il sait, lui,
+C'est qu'on ne lui fait pas accepter des décombres,
+Des désastres, des morts, des écrasements sombres,
+Même en posant dessus la patte d'un lion.
+Non, jamais de vengeance et pas de talion.
+Quoi ! Le Cipaye irait jetant au feu des femmes
+Et tordant des enfants tout vivants dans les flammes ;
+Quoi ! L'Irlandais bigot, à travers le brouillard,
+Surgirait, la massue au poing ; quoi ! Le lollard
+Joindrait le fer qui frappe à la main qui mendie ;
+Quoi ! Le hubin boirait du sang ; quoi ! L'incendie
+Éclairerait le rire horrible du truand ;
+Le camisard aurait dans sa poche en tuant
+Sa Bible toute grasse à force d'être lue ; ---
+Et l'âme incorruptible, et la bouche absolue,
+La bouche du poète et l'âme du penseur
+Se tairaient ! Et le jour accepterait pour soeur,
+Sous prétexte qu'ensemble autrefois nous souffrîmes,
+L'aveugle obscurité, toute pleine de crimes !
+Non, parle, et parle haut, vérité ! Vérité !
+La misère n'a pas le droit de cruauté ;
+Les échafauds s'en vont et leur ombre s'efface ;
+L'impassible équité ne veut pas qu'on en fasse,
+Pas même avec le bois douloureux des grabats ;
+Non ! Nous n'admettons point, dans le deuil d'ici-bas,
+Qu'on puisse être bourreau parce qu'on fut victime.
+Le meurtre fils des pleurs n'est pas plus légitime ;
+Quand le faible devient à son tour le plus fort,
+La conscience donne à la rancune tort[
+]{.bold} Et force les instincts de vengeance à se taire,
+Et l'on n'est point absous par ce juge pour faire
+Du mal avec le mal que d'autres vous ont fait.
+Cette livre de chair dont Shylock triomphait,
+Malheur à qui la veut dans sa sauvage envie !
+L'homme est le travailleur du printemps, de la vie,
+De la graine semée et du sillon creusé,
+Et non le créancier livide du passé.
+Peuple, le philosophe est le témoin sévère.
+Si Jésus s'envolait féroce du calvaire,
+Et venait à son tour crucifier Satan,
+Je dirais à Jésus : tu n'es pas Dieu. Va-t'en \![
+]{.bold}
+[22 mai 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXI]{.calibre2}]{.bold1}]{.calibre_39} {#xxi .calibre_38}
+
+[
+C'est à coups de canon qu'on rend le peuple heureux.
+Nous sommes revenus de tous ces grands mots creux :
+--- Progrès, fraternité, mission de la France,
+Droits de l'homme, raison, liberté, tolérance. ―
+Socrate est fou ; lisez Lélut qui le confond ;
+Christ, fort socialiste et démagogue au fond,
+Est une renommée en somme très surfaite.
+Terre ! L'obus est Dieu, Paixhans est son prophète.
+Vrai but du genre humain : tuer correctement.
+Les hommes, dont le sabre est l'unique calmant,
+Ont le boulet rayé pour chef-d'oeuvre ; leur astre,
+C'est la clarté qui sort d'une bombe Lancastre,
+Et l'admiration de tout peuple poli
+Va du mortier Armstrong au canon Cavalli.
+Dieu s'est trompé ; César plus haut que lui s'élance ;
+Jéhovah fit le verbe et César le silence.
+Parler, c'est abuser ; penser, c'est usurper.
+La voix sert à se taire et l'esprit à ramper.
+Le monde est à plat ventre, et l'homme, altier naguère,
+Doux et souple aujourd'hui, tremble. ― Paix ! Dit la guerre.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXII]{.calibre2}]{.bold1}]{.calibre_39} {#xxii .calibre_38}
+
+[
+Elle passa, je crois qu'elle m'avait souri.
+C'était une grisette ou bien une houri.
+Je ne sais si l'effet fut moral ou physique,
+Mais son pas en marchant faisait une musique.
+Quoi ! Ton pavé bruyant et fangeux, ô Paris,
+A de ces visions ineffables ! Je pris
+Ses yeux fixés sur moi pour deux étoiles bleues.
+Fraîche et joyeuse enfant ! Moineaux et hochequeues
+Ont moins de gaîté folle et de vivacité.
+Elle avait une robe en taffetas d'été,
+De petits brodequins couleur de scarabée,
+L'air d'une ombre qui passe avant la nuit tombée,
+Je ne sais quoi de fier qui permettait l'espoir.
+Pendant que je songeais, croyant encore la voir
+Même après qu'elle était enfuie et disparue,
+Et que debout, pensif au milieu de la rue,
+Contemplant, ébloui, cet être gracieux,
+J'avais l'oeil dans l'espace et l'âme dans les cieux,
+Une vieille, moitié chatte et moitié harpie,
+Au menton hérissé d'une barbe en charpie,
+Vêtue affreusement d'un sinistre haillon,
+Effroyable, et parlant comme avec un bâillon,
+Me dit tout bas : ― Monsieur veut-il de cette fille ?
+Ô pauvre colibri que vend une chenille !
+[1846.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIII -- Sur un portrait de sainte]{.calibre2}]{.bold1}]{.calibre_39} {#xxiii-sur-un-portrait-de-sainte .calibre_38}
+
+[
+C'est toi, dénaturée ! Oui, te voilà, c'est toi
+Qui fis taire ton coeur pour écouter ta foi,
+Qui, pour gagner ton ciel de larve et de chouette,
+Foulas ton âme aux pieds, mère sourde-muette,
+Et qui, lorsque ton fils se couchait en travers
+De ta porte, pleurant et les deux bras ouverts,
+Marchas sur ton enfant pour entrer dans le cloître.
+Quand l'amour décroissait, tu crus sentir Dieu croître ;
+Ah ! Folle ! Et te voilà, face d'austérité !
+Va, la sainteté froide est fausse sainteté.
+Croire qu'on plaît au Dieu de lumière et de gloire
+Parce que d'âme blanche on se fait âme noire,
+Parce qu'on a d'abord soufflé sur son flambeau,
+Parce qu'on vient à lui, n'étant plus qu'un tombeau
+Où ceux qui vous aimaient d'avance ont dû descendre,
+Et qu'on en est le marbre et qu'ils en sont la cendre !
+Ô morne vision ! Mauvais songe que font
+Ceux qui désertent Dieu dans le couvent profond !
+Dieu, c'est la raison ; Dieu, c'est l'amour ; Dieu, c'est l'être ;
+C'est le devoir de vivre après le droit de naître ;
+C'est l'immense clarté sur l'immense combat.
+Il a voulu que l'homme aimât, conquît, tombât,
+Et ne fût pas fantôme et deuil. Le froc de bure
+Ne donne point à l'homme une bonne courbure ;
+Devenir ombre, c'est obscurcir le saint lieu ;
+En s'approchant du spectre, on s'éloigne de Dieu.
+Pas de cloître ; la vie. Un voile couvre un rêve.
+Le mérite n'est pas, quand vers Dieu l'on s'élève,
+De rejeter, ainsi qu'un vêtement quitté,
+Ses parents, sa patrie et son humanité ;[
+]{.bold} De s'enfuir de son coeur ainsi que d'une fange ;
+De dire : ― Arrachez-moi, Christ, pour que je sois ange,
+Mon père, ce lambeau, ma mère, ce haillon ! ―
+De mettre à la nature effarée un bâillon ;
+De crier : ― Mes enfants où tout mon sang se mêle,
+Mon fils dans son berceau, ma fille à la mamelle,
+Tout cela, c'est la nuit, car Dieu seul est le jour. ―
+De raturer en soi la famille et l'amour
+Comme des contre-sens qui vous cachent le texte ;
+Et de perdre la forme humaine, sous prétexte
+Qu'on monte et qu'on s'en va dans le firmament bleu.
+Faisons, tout en fixant notre regard sur Dieu,
+Tous nos devoirs de fils ou de frère ou de père.
+Soyons l'être penchant, même quand il espère.
+Par l'esprit vers le bien, par la chair vers le mal ;
+Sans quitter le réel, conquérons l'idéal ;
+Restons homme, en montant vers le sépulcre austère.
+Il faut aller au ciel en marchant sur la terre.[
+]{.bold}
+[9 mars 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIV -- Écrit après la visite d'un bagne]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xxiv-écrit-après-la-visite-dun-bagne .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+Chaque enfant qu'on enseigne est un homme qu'on gagne.
+Quatre vingt-dix voleurs sur cent qui sont au bagne
+Ne sont jamais allés à l'école une fois,
+Et ne savent pas lire, et signent d'une croix.
+C'est dans cette ombre-là qu'ils ont trouvé le crime.
+L'ignorance est la nuit qui commence l'abîme.
+Où rampe la raison, l'honnêteté périt.
+Dieu, le premier auteur de tout ce qu'on écrit,
+À mis, sur cette terre où les hommes sont ivres,
+Les ailes des esprits dans les pages des livres.
+Tout homme ouvrant un livre y trouve une aile, et peut
+Planer là-haut où l'âme en liberté se meut.
+L'école est sanctuaire autant que la chapelle.
+L'alphabet que l'enfant avec son doigt épelle
+Contient sous chaque lettre une vertu ; le coeur
+S'éclaire doucement à cette humble lueur.
+Donc au petit enfant donnez le petit livre.
+Marchez, la lampe en main, pour qu'il puisse vous suivre.
+La nuit produit l'erreur et l'erreur l'attentat.
+Faute d'enseignement, on jette dans l'état
+Des hommes animaux, têtes inachevées,
+Tristes instincts qui vont les prunelles crevées,
+Aveugles effrayants, au regard sépulcral,
+Qui marchent à tâtons dans le monde moral.
+Allumons les esprits, c'est notre loi première,
+Et du suif le plus vil faisons une lumière.
+L'intelligence veut être ouverte ici-bas ;[
+]{.bold} Le germe a droit d'éclore ; et qui ne pense pas
+Ne vit pas. Ces voleurs avaient le droit de vivre.
+Songeons-y bien, l'école en or change le cuivre,
+Tandis que l'ignorance en plomb transforme l'or.
+Je dis que ces voleurs possédaient un trésor,
+Leur pensée immortelle, auguste et nécessaire ;
+Je dis qu'ils ont le droit, du fond de leur misère,
+De se tourner vers vous, à qui le jour sourit,
+Et de vous demander compte de leur esprit ;
+Je dis qu'ils étaient l'homme et qu'on en fit la brute ;
+Je dis que je nous blâme et que je plains leur chute ;
+Je dis que ce sont eux qui sont les dépouillés ;
+Je dis que les forfaits dont ils se sont souillés
+Ont pour point de départ ce qui n'est pas leur faute ;
+Pouvaient-ils s'éclairer du flambeau qu'on leur ôte ?
+Ils sont les malheureux et non les ennemis.
+Le premier crime fut sur eux-mêmes commis ;
+On a de la pensée éteint en eux la flamme ;
+Et la société leur a volé leur âme.
+[27 février.]{.italic} [---]{.italic} [Jersey.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Ô vieux bagne éternel ! Énigme ! Abîme obscur !
+Que d'ombres ont passé sur ce funèbre mur !
+Ici le mal, la nuit, l'ignorance servile ;
+À l'autre extrémité de cette corde vile
+Le génie et la foi, l'amour, la vérité,
+L'inventeur, le penseur de Dieu même agité,
+Le prophète écartant l'erreur impie et fausse,
+Saint Jean dans son caveau, Daniel dans la fosse,
+Galilée au cachot, Colomb au cabanon ;
+Et, remontant au jour de chaînon en chaînon,
+Cette chaîne de deuil, sur la terre jetée,
+Qui commence à Poulmann, finit à Prométhée.[
+]{.bold} À travers six mille ans, et traînant en chemin
+Ses monstrueux anneaux sur tout le genre humain,
+Elle part de Toulon et s'attache au Caucase.
+L'homme met la lumière et l'ombre au même vase ;
+Le bagne, enfer stupide, admet dans son tombeau
+Depuis l'homme poignard jusqu'à l'homme flambeau.
+Malheur à qui dit : marche ! Au progrès qui recule,
+À qui jette un rayon dans notre crépuscule !
+Que deviendrait l'erreur si le jour triomphait ?
+C'est le même attentat et le même forfait,
+Le même crime avec la même peine immonde
+Que de tuer un homme ou de trouver un monde.
+Lucifer est Satan ; l'aigle est le basilic.
+Quiconque allume un phare est l'ennemi public.
+Quoi, l'archange enchaîné coudoyant les vampires !
+L'âme au carcan ! Les bons traités comme les pires !
+Ô morne aveuglement de l'homme et de ses lois !
+L'esprit tremble et frémit devant toutes ces croix
+Que portent les voyants, les inspirés, les sages ;
+Pour s'enfuir de la vie on cherche des passages,
+Ciel juste, quand on songe à ces révélateurs
+Qu'on a saisis, pensifs et venant des hauteurs,
+Qu'on a punis du bien ainsi que d'une faute,
+Liés avec le crime au poteau côte à côte,
+Qu'on a fouettés, martyrs saignants et radieux,
+Et qui furent forçats parce qu'ils étaient dieux \![
+]{.bold}
+[6 mars.]{.italic} [---]{.italic} [Jersey, 1853]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXV]{.calibre2}]{.bold1}]{.calibre_39} {#xxv .calibre_38}
+
+[
+Le spectre que parfois je rencontre riait.
+--- Pourquoi ris-tu ? Lui dis-je. ― Il dit : ― Homme inquiet,
+Regarde.
+Il me montrait dans l'ombre un cimetière.
+J'y vis une humble croix près d'une croix altière ;
+L'une en bois, l'autre en marbre ; et le spectre reprit,
+Tandis qu'au loin le vent passait comme un esprit
+Et des arbres profonds courbait les sombres têtes :
+--- Jusque dans le cercueil vous êtes vains et bêtes.
+Oui, gisants, vous laissez debout la vanité.
+Vous la sculptez au seuil du tombeau redouté,
+Et vous lui bâtissez des tours et des coupoles.
+Et, morts, vous êtes fiers.
+Oui, dans vos nécropoles,
+Dans ces villes du deuil que vos brumeux Paris
+Construisent à côté du tumulte et des cris,
+On trouve tout, des bois où jasent les fauvettes,
+Des jets d'eau jaillissant du jaspe des cuvettes,
+Un paysage vert, voluptueux, profond,
+Où le nuage avec la plaine se confond,
+La calèche où souvent l'oeil cherche la civière,
+Des prêtres sous le frais lisant leur bréviaire,
+Du soleil en hiver, de l'ombrage en été,
+Des roses, des chansons, tout, hors l'égalité.
+Vous avez des charniers et des Pères-Lachaises
+Où Samuel Bernard seul peut prendre ses aises,
+Dormir en paix, jouir d'un caveau bien muré,
+Et se donner les airs d'être à jamais pleuré,[
+]{.bold} Et s'adjuger, derrière une grille solide,
+Des fleurs que le Temps garde en habit d'invalide.
+Quant aux morts indigents, on leur donne congé ;
+On chasse d'auprès d'eux le sanglot prolongé ;
+Et le pauvre n'a pas le droit de pourriture.
+Un jour, on le déblaie. On prend sa sépulture
+Pour grandir d'une toise un monument pompeux.
+--- Misérable, va-t'en. Deviens ce que tu peux.
+Quoi ! Tu prétends moisir ici parmi ces marbres,
+Faire boucher le nez aux passants sous ces arbres,
+Te carrer sous cette herbe, être au fond de ton trou
+Charogne comme un autre, et tu n'as pas le sou !
+Qu'est-ce que ce mort-là qui n'a rien dans sa poche !
+Décampe. --- Et la brouette et la pelle et la pioche
+Arrachent le dormeur à son dur traversin.
+Sus ! Place à Monseigneur le sépulcre voisin !
+Ce n'est rien d'être mort, il faut avoir des rentes.
+Les carcasses des gueux sont fort mal odorantes ;
+Les morts bien nés font bande à part dans le trépas ;
+Le sépulcre titré ne fraternise pas
+Avec la populace anonyme des bières ;
+La cendre tient son rang vis-à-vis des poussières ;
+Et tel mort dit : pouah ! Devant tel autre mort.
+Le gentleman, à l'heure où l'acarus le mord,
+Se maintient délicat et dégoûté. C'est triste.
+Et j'en ris. Le linceul peut être de batiste !
+Chez vous, oui, sous la croix de l'humble Dieu Jésus,
+Les trépassés à court d'argent sont mal reçus ;
+L'abîme a son dépôt de mendicité ; l'ombre
+Met d'un côté l'élite et de l'autre le nombre ;
+On n'est jamais moins près qu'alors qu'on se rejoint ;
+Dans la mort vague et blême on ne se mêle point ;
+On reste différent même à ce clair de lune ;
+Le peuple dans la tombe a nom fosse commune.
+La tombe impartiale ! Allons donc ! Le ci-gît
+Tantôt se rétrécit et tantôt s'élargit ;[
+]{.bold} Le péage, réglé par arrêté du maire,
+Fait Beaujon immortel et Chodruc éphémère.
+Pourrir gratis ! Jamais ! Le terrain est trop cher.
+Tandis que, tripotant ce qui fut de la chair,
+La chimie, en son antre où vole la phalène,
+Fait de l'adipocire et du blanc de baleine
+Avec le résidu des pâles meurt-de-faim,
+Tel cadavre, vêtu d'un suaire en drap fin,
+Regarde en souriant la mort aux yeux de tigre,
+Jette au spectre sa bourse, et dit : Marquis d'Aligre.
+Vos catacombes ont des perpétuités
+Pour ceux-ci pour ceux-là des répits limités.
+Votre tombe est un gouffre où le riche surnage.
+Ce mort n'a pas payé son terme ; il déménage.
+Le fantôme, branlant sur ses blancs tibias,
+Portant tout avec lui, s'en va, comme Bias ;
+Vivant, il fut sans pain, et, mort, il est sans terre.
+L'ossuaire répugne aux os du prolétaire.
+Seul Rothschild, dans l'oubli du caveau sans échos,
+Est mangé par des rats et par des asticots
+Qu'il paye et dont il est maître et propriétaire.
+Oui, c'est l'étonnement de la pariétaire,
+Du brin d'herbe, de l'if aussi noir que le jais,
+Du froid cyprès, du saule en pleurs, de voir sujets
+À des expulsions sommaires et subites
+Des crânes qui n'ont plus leurs yeux dans leurs orbites.
+Vos cimetières sont des lieux changeants, flottants,
+Précaires, où les morts vont passer quelque temps,
+À peine admis au seuil des ténébreux mystères,
+Et l'éternité sombre y prend des locataires.
+Quoi ! C'est là votre mort ! C'est avec de l'orgueil
+Que vous doublez le bois lugubre du cercueil !
+Vous gardez préséance, honneurs, grade, avantages !
+Vous conservez au fond du néant des étages !
+La chimère est bouffonne. Ah ! La prétention
+Est rare, dans le lieu de disparition \![
+]{.bold} Quoi ! Privilégier ce qui n'est plus ! Quoi ! Faire
+Des grands et des petits dans l'insondable sphère !
+Traiter Jean comme peste et Paul comme parfum !
+Être mort, et vouloir encore être quelqu'un !
+Quoi ! Dans le pourrissoir emporter l'opulence !
+Faire sonner son or dans l'éternel silence !
+Avoir, de par cet or dont sur terre on brilla,
+Droit de tomber en poudre ici plutôt que là !
+Arriver dans la nuit ainsi que des lumières !
+Prendre dans le tombeau des places de premières !
+Ne pas entendre Dieu qui dit au riche : assez !
+Je cesserai d'en rire, ô vivants insensés,
+Le jour où j'apprendrai que c'est vrai, que, dans l'ombre
+De l'incommensurable et ténébreux décombre,
+L'archange à l'aile noire, assis à son bureau,
+Toise les morts, leur donne à tous un numéro,
+Discute leur obole, or ou plomb, vraie ou fausse,
+Et la pèse, et marchande au squelette sa fosse !
+Le jour où j'apprendrai que la chose est ainsi,
+Que Lucullus sous terre est du fumier choisi,
+Que le bouton d'or perd ou double sa richesse
+S'il sort d'une grisette ou bien d'une duchesse,
+Qu'un lys qui naît d'un pauvre est noir comme charbon,
+Que, mort, Lazare infecte et qu'Aguado sent bon !
+Le jour où j'apprendrai que dans l'azur terrible
+L'éternel a des trous inégaux à son crible ;
+Et que, dans le ciel sombre effroi de vos remords,
+S'il voit passer, porté par quatre croque-morts,
+Un cadavre fétide et hideux, le tonnerre
+Demande à l'ouragan : est-ce un millionnaire ?
+Le jour où j'apprendrai que la tombe, en effet,
+Que l'abîme, selon le tarif du préfet,
+Trafique de sa nuit et de son épouvante,
+Et que la mort a mis les vers de terre en vente \![
+]{.bold}
+[Mars 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVI -- Les Bonzes]{.calibre2}]{.bold1}]{.calibre_39} {#xxvi-les-bonzes .calibre_38}
+
+[
+Que je prenne un moment de repos ? Impossible.
+Coran, Zend-Avesta, livres sibyllins, Bible,
+Talmud, Toldos Jeschut, Védas, lois de Manou,
+Brahmes sanglants, santons fléchissant le genou,
+Les contes, les romans, les terreurs, les croyances,
+Les superstitions fouillant les consciences,
+Puis-je ne pas sentir ces creusements profonds ?
+J'en ai ma part. Veaux d'or, sphinx, chimères, griffons,
+Les princes des démons et les princes des prêtres,
+Synodes, sanhédrins, vils muphtis, scribes traîtres,
+Ceux qui des empereurs bénissaient les soldats,
+Ceux que payait Tibère et qui payaient Judas,
+Ceux qui tendraient encore à Socrate le verre,
+Ceux qui redonneraient à Jésus le calvaire,
+Tous ces sadducéens, tous ces pharisiens,
+Ces anges, que Satan reconnaît pour les siens,
+Tout cela, c'est partout. C'est la puissance obscure.
+Plaie énorme que fait une abjecte piqûre !
+Ce contre-sens : Dieu vrai, les dogmes faux ; cuisson
+Du mensonge qui s'est glissé dans la raison !
+Démangeaison saignante, incurable, éternelle,
+Que sent l'homme en son âme et l'oiseau sous son aile !
+Oh ! L'infâme travail ! Ici Mahomet ; là
+Cette tête, Wesley, sur ce corps, Loyola ;
+Cisneros et Calvin, dont on sent les brûlures.
+Ô faux révélateurs ! Ô jongleurs ! Vos allures
+Sont louches, et vos pas sont tortueux ; l'effroi,
+Et non l'amour, tel est le fond de votre loi ;
+Vous faites grimacer l'éternelle figure ;[
+]{.bold} Vous naissez du sépulcre, et l'on sent que l'augure
+Et le devin son pleins de l'ombre du tombeau,
+Et que tous ces rêveurs, compagnons du corbeau,
+Tous ces fakirs d'Ombos, de Stamboul et de Rome,
+N'ont pu faire tomber tant de fables sur l'homme
+Qu'en secouant les plis sinistres des linceuls.
+Dieu n'étant aperçu que par les astres seuls,
+Les penseurs, sachant bien qu'il est là sous ses voiles,
+Ont toujours conseillé d'en croire les étoiles ;
+Dieu, c'est un lieu fermé dont l'aurore a la clé,
+Et la religion, c'est le ciel contemplé.
+Mais vous ne voulez pas, prêtres, de cette église.
+Vous voulez que la terre en votre livre lise
+Tous vos songes, moloch, Vénus, Ève, Astarté,
+Au lieu de lire au front des cieux la vérité.
+De là la foi changée en crédulité ; l'âme
+Éclipsant la raison dans une sombre flamme ;
+De là tant d'êtres noirs serpentant dans la nuit.
+L'imposture, par qui le vrai temple est détruit,
+Est un colosse fait d'un amas de pygmées ;
+Les sauterelles sont d'effrayantes armées ;
+Ô mages grecs, romains, payens, indous, hébreux,
+Le genre humain, couvert de rongeurs ténébreux,
+Sent s'élargir sur lui vos hordes invisibles ;
+Vous lui faites rêver tous les enfers possibles ;
+Le peuple infortuné voit dans son cauchemar
+Surgir Torquemada quand disparaît Omar.
+Nul répit. Vous aimez les ténèbres utiles,
+Et vous y rôdez, vils et vainqueurs, ô reptiles !
+Sur toute cette terre, en tous lieux, dans les bois,
+Dans le lit nuptial, dans l'alcôve des rois,
+Dans les champs, sous l'autel sacré, dans la cellule,
+Ce qui se traîne, couve, éclot, va, vient, pullule,
+C'est vous. Vous voulez tout, vous savez tout ; damner,
+Bénir, prendre, jurer, tromper, servir, régner,
+Briller même ; ramper n'empêche pas de luire.
+Chuchotement hideux ! Je vous entends bruire.
+Vous mangez votre proie énorme avec bonheur,
+Et vous vous appelez entre vous Monseigneur.
+L'acarus au ciron doit donner de l'altesse.
+Quelles que soient votre ombre et votre petitesse,
+Je devine, malgré vos soins pour vous cacher,
+Que vous êtes sur nous, et je vous sens marcher
+Comme on sent remuer les mineurs dans la mine,
+Et je ne puis dormir, tant je hais la vermine !
+Vous êtes ce qui hait, ce qui mord, ce qui ment.
+Vous êtes l'implacable et noir fourmillement.
+Vous êtes ce prodige affreux, l'insaisissable.
+Qu'on suppose vivants tous les vils grains de sable,
+Ce sera vous. Rien, tout. Zéro, des millions.
+L'horreur. Moins que des vers et plus que des lions.
+L'insecte formidable. Ô monstrueux contraste !
+Pas de nains plus chétifs, pas de pouvoir plus vaste.
+L'univers est à vous, puisque vous l'emplissez.
+Vous possédez les jours futurs, les jours passés,
+Le temps, l'éternité, le sommeil, l'insomnie.
+Vous êtes l'innombrable, et, dans l'ombre infinie,
+Fétides, sur nos peaux mêlant vos petits pas,
+Vous vous multipliez ; et je ne comprends pas
+Dans quel but Dieu livra les empires, le monde,
+Les âmes, les enfants dressant leur tête blonde,
+Les temples, les foyers, les vierges, les époux,
+L'homme, à l'épouvantable immensité des poux.[
+]{.bold}
+[26 juillet 1874.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVII]{.calibre2}]{.bold1}]{.calibre_39} {#xxvii .calibre_38}
+
+[
+Et les voilà mentant, inventant, misérables !
+Les voilà, fronts sans honte et bouches incurables,
+Calomniant l'honneur du pays, flétrissant
+Tous les lutteurs, ceux-ci qui versèrent leur sang,
+Ceux-ci, plus grands encore, qui, voyant que la flamme
+Et l'espoir s'éteignaient, répandirent leur âme.
+Ces maroufles hideux outragent les héros !
+Ils lancent au captif, à travers ses barreaux,
+Au proscrit, à travers son deuil, leur pierre infâme.
+Ils offensent la mère, ils insultent la femme ;
+Ils raillent l'exilé que l'ombre accable et suit ;
+Ils tâchent d'ajouter leur noirceur à sa nuit ;
+Ils entassent sur lui d'affreux réquisitoires ;
+Et si, voyant passer et flotter ces histoires,
+Vous demandez au cuistre, au conteur, au grimaud :
+--- Croyez-vous tout cela ? --- Moi, dit-il, pas un mot.
+--- Bien. Mais alors pourquoi le dites-vous ? --- Pour rire.
+Ah ! Les bêtes des bois ne savent pas écrire,
+Le tigre ne pourrait griffonner un journal,
+Le renard ne sort pas du confessionnal
+Et ne saurait narrer la Salette en bon style ;
+Mais au moins l'aspic siffle en honnête reptile ;
+Si, dans son hurlement candide, affreux, complet,
+L'ours se montre affamé de meurtre, c'est qu'il l'est ;
+Le jaguar ne ment pas et pense ce qu'il gronde ;
+Il n'est pas un lion dans la forêt profonde
+Qui ne soit, dans l'horreur de son antre fumant,
+Sincère, et qui ne croie à son rugissement.
+Mais, honte et deuil ! Ciel noir ! Comment faut-il qu'on nomme
+Ces scribes qui demain diront d'un honnête homme :
+--- Je suis son assassin, mais non son ennemi ! ---
+Ah ! Ces gueux devant qui ma jeunesse eût frémi,
+Pires que Mérimée et Planche, nains horribles,
+Ces drôles, que je n'eusse enfin pas crus possibles
+Jadis, quand d'espérance, hélas ! Je m'enivrais,
+N'ont pas la probité d'être des monstres vrais.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVIII -- Aux prêtres]{.calibre2}]{.bold1}]{.calibre_39} {#xxviii-aux-prêtres .calibre_38}
+
+[
+Il sied de ressembler aux dieux. Ton Dieu, flamine,
+Dévore ses enfants ; ton Dieu, mage, extermine ;
+Augure, ton Dieu ment ; uléma, ton Dieu met
+La terre sous le sabre impur de Mahomet ;
+Ton Dieu, Rome, est l'agneau, mais il tette la louve ;
+Ô noir dominicain qui rêves, ton Dieu trouve
+Agréable l'odeur infâme des bûchers ;
+D'affreux temples, ayant pour prêtres des bouchers,
+Sont l'habitation de ton Dieu, corybante ;
+Brahmine, ton Dieu sombre aime la nuit tombante ;
+Rabbin, ton Dieu maudit la race de Japhet,
+Et cloue au fond du ciel le soleil stupéfait ;
+Sabaoth est cruel, Jupiter est immonde,
+Et pas un Dieu ne sait comment est fait le monde ;
+Les peuples ont le choix pour fléchir le genou
+Entre le monstre Asgar et le monstre Vishnou ;
+Ce Dieu brait, celui-là rugit, celui-ci beugle ;
+C'est pourquoi l'idéal de l'homme est d'être aveugle,
+Ténébreux, vil, féroce, ignorant, odieux,
+Afin d'être aussi près que possible des dieux.[
+]{.bold}
+[4 août 1874.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIX]{.calibre2}]{.bold1}]{.calibre_39} {#xxix .calibre_38}
+
+[
+Muse, un nommé Ségur, évêque, m'est hostile ;
+Cet homme violet me damne en mauvais style ;
+Sa prose réjouit les hiboux dans leurs trous.
+Ô Muse, n'ayons point contre lui de courroux.
+Laissons-lui ce joujou qu'il prend pour un tonnerre,
+Sa haine.
+Il est d'ailleurs à plaindre. Au séminaire,
+Un jour que ce petit bonhomme plein d'ennui
+Bêlait un oremus au hasard devant lui,
+Comme glousse l'oison, comme la vache meugle,
+Il s'écria : ― Mon Dieu ! Je voudrais être aveugle ! ―
+Ne trouvant pas qu'il fît assez nuit comme ça.
+Le bon Dieu, le faisant idiot, l'exauça.
+L'insulte est aujourd'hui très perfectionnée.
+On prend un peu de suie en une cheminée,
+Un peu d'ordure au coin d'une borne, à l'égoût
+De la fange, et cela tient lieu d'esprit, de goût,
+De bon sens, de syntaxe et d'honneur ; c'est la mode.
+Bons ulémas, tel est le procédé commode
+Que votre zèle met au service du ciel,
+Et c'est avec la bouche écumante de fiel,
+Avec la diatribe en guise de sourire,
+Que vous venez, damnant ceux qu'on n'ose proscrire,
+Nous faire vos gros yeux, nous montrer vos gros poings,
+Nous dire vos gros mots, ô nos chers talapoins !
+On vous pardonne. Eh bien, quoi, Ségur m'exorcise.
+Après ?
+Il me maudit d'une façon concise ;
+Il me peint de son mieux, et voici le pastel[
+]{.bold} À peu près :
+« ― Monstre horrible. On n'a rien vu de tel.
+Informe, épouvantable et ténébreux. Un homme
+Qui brûlerait Paris et démolirait Rome.
+Voluptueux. Un peu le chef des assassins.
+Bref, capable de tout. Foulant aux pieds les saints,
+Les lois, l'église et Dieu. Ruinant son libraire. »
+Faisons chorus. Hurler avec le loup, et braire
+Avec l'évêque, eh bien, c'est un droit. Usons-en.
+J'aime en ce noble abbé ce style paysan.
+C'est poissard, c'est exquis. Bravo. Cela vous plonge
+Dans une vague extase où l'on sent le mensonge.
+Doux prêtre ! On entend rire aux éclats Diderot,
+Molière, Rabelais, et l'on ne sait pas trop,
+Dans cette vision où le démon chuchote,
+Si l'on voit un évêque ayant au dos la hotte
+Ou bien un chiffonnier ayant la mitre au front.
+L'antienne, quand un peu de bave l'interrompt,
+À du charme ; on est prêtre et l'on a de la bile.
+D'ailleurs, Muse, chacun sur terre a son Zoïle,
+Et Voltaire a Fréron comme Dante a Cecchi.
+Et puis cela se vend. Combien ? Six sous. À qui ?
+Aux sots. C'est un public. Les mâchoires fossiles
+Veulent rire ; le clan moqueur des imbéciles
+Veut qu'on l'amuse ; il est fort nombreux aujourd'hui ;
+N'a-t-il donc pas le droit qu'on travaille pour lui ?
+Depuis quand n'est-il plus permis d'emplir les cruches ?
+Tout a son instinct. Comme un frelon vole aux ruches,
+Comme à Lucrèce au lit court Alexandre six,
+Comme Corydon suit le charmant Alexis,
+Comme un loup suit les boucs, et le bouc les cytises,
+Comme avril fait des fleurs, Ségur fait des sottises.
+Il le faut.
+Muse, il sied que le sage indulgent[
+]{.bold} Rêve, écoute, et devienne un bon homme en songeant,
+Qu'il regarde passer les vivants, qu'il les pèse,
+Et qu'au lieu de l'aigrir, ce spectacle l'apaise.
+Ainsi soit-il.
+Et puis, allons au fait. Voyons,
+Suis-je correct ? L'hostie avec tous ses rayons
+M'éblouit-elle autant que le soleil ? Ce prêtre
+Me voit-il le dimanche à sa messe apparaître ?
+Ai-je même jamais fait semblant de vouloir
+Lui conter mes péchés tous bas dans son parloir ?
+Quand suis-je allé chez lui, reniant ma doctrine,
+Me donner de grands coups de poing dans la poitrine ?
+Je suis un endurci. Ségur s'en aperçoit.
+Je suis athée au point de douter que Dieu soit
+Charmé de se chauffer les mains au feu du diable,
+Qu'il ait mis l'incurable et l'irrémédiable
+Dans l'homme, être ignorant, faible, chétif, charnel,
+Afin d'en faire hommage au supplice éternel,
+Qu'il ait exprès fourré Satan dans la nature,
+Et qu'il ait, lui, l'auteur de toute créature,
+Pouvant vider l'enfer et le fermer à clé,
+Fait un brûleur, afin de créer un brûlé ;
+Que les mille soleils dont là-haut le feu tremble
+Se mettent un beau jour à tomber tous ensemble,
+J'en doute ; et quand je vois, au fond du zénith bleu,
+Les sept astres de l'Ourse allumés, je crois peu
+Que jamais le plafond céleste se délabre
+Jusqu'à ne pouvoir plus porter ce candélabre.
+Je sais que dans la Bible on trouve ce cliché,
+La Fin du Monde ; mais la science a marché.
+Moïse est vieux ; est-il sur terre un quadrumane
+Qui lève au ciel les yeux pour voir pleuvoir la manne ?
+Je trouve par moments plus d'esprit, je le dis,
+Aux singes d'à présent qu'aux hommes de jadis.
+Pape, Dieu, ce n'est pas le même personnage.
+J'aime la cathédrale et non le Moyen-Âge.[
+]{.bold} Qu'est-ce qu'un dogme, un culte, un rite ? Un objet d'art.
+Je puis l'admirer ; mais s'il égare un soudard,
+S'il grise un fou, s'il tue un homme, je l'abhorre.
+Plus d'idole ! Et j'oppose à l'encens l'ellébore.
+Quand une abbesse, à qui quelque nonne déplaît,
+Lui fait brouter de l'herbe à côté d'un mulet,
+J'ose dire que c'est mal nourrir une femme ;
+J'admire un arbre en fleurs plus qu'un bûcher en flamme ;
+Je suis peu furieux ; j'aime Voltaire enfin
+Mieux que saint Cupertin et que saint Cucufin,
+Et je préfère à tout ce que dit saint Pancrace,
+Saint Loup, saint Labre ou saint Pacôme, un vers d'Horace.
+Tels sont mes goûts. Je suis incorrigible. Et quand
+Floréal, comme un chef qui réveille le camp,
+Met les nids en rumeur, et quand mon vers patauge,
+Éperdu, dans le thym, la verveine et la sauge,
+Quand la plaine est en joie, et quand l'aube est en feu,
+Je crois tout bonnement, tout bêtement en Dieu.
+En même temps j'ai l'âme âprement enivrée
+Du sombre ennui de voir tant d'hommes en livrée,
+Tant de deuils, tant de fronts courbés, tant de coeurs bas,
+Là, tant de lits de pourpre, et là, tant de grabats.
+Mon Dieu n'est ni payen, ni chrétien, ni biblique ;
+Ce Dieu-là, je l'implore en la douleur publique ;
+C'est vers lui que je suis tourné, vieux lutteur las,
+Quand je crie au milieu des ténèbres : --- Hélas !
+Sur la grève que bat toute la mer humaine,
+Grève où le flux apporte, où le reflux remmène
+Les flots hideux jetant l'écume aux alcyons,
+Qui donc apportera dans l'ombre aux nations
+Ou l'éclair de Paris ou le rayon de France ?
+Qui donc rallumera ce phare, l'espérance ? ―
+Donc j'ai ce grave tort de n'être point dévot ;
+Je ne le suis pas même au parti qui prévaut ;
+Je n'aime pas qu'après la victoire on sévisse ;[
+]{.bold} C'est affreux, je pardonne ; et je suis au service
+Des vaincus ; et, songeant que ma mère aux abois
+Fut jadis vendéenne, en fuite dans les bois,
+J'ose de la pitié faire la propagande ;
+Je suis le fils brigand d'une mère brigande.
+Être clément, c'est être atroce ; ou pour le moins,
+Stupide. Je le suis, toujours, devant témoins,
+Partout. Les autres sont les vautours ; je suis l'oie.
+Oui, quand la lâcheté publique se déploie,
+Il me plaît d'être seul et d'être le dernier.
+Quand le vae victis règne, et va jusqu'à nier
+La quantité de droit qui reste à ceux qui tombent,
+Quand, nul ne protestant, les principes succombent,
+Cette fuite de tous m'attire. Me voilà.
+Comment veut-on qu'un prêtre accepte tout cela \![
+]{.bold} [
+Novembre.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXX -- Idolâtries et Philosophies]{.calibre2}]{.bold1}]{.calibre_39} {#xxx-idolâtries-et-philosophies .calibre_38}
+
+[
+La philosophie ose escalader le ciel.
+Triste, elle est là. Qui donc t'a bâtie, ô Babel ?
+Oh ! Quel monceau d'efforts sans but ! Quelles spirales
+De songes, de leçons, de dogmes, de morales !
+Ruche qu'emplit de bruit et de trouble un amas
+De mages, de docteurs, de papes, de lamas !
+Masure où l'hypothèse aux fictions s'adosse,
+Ayant pour toit la nuit et pour cave la fosse ;
+Bleus portiques béants sur les immensités,
+De tous les tourbillons des rêves visités ;
+Vain fronton que le poids de l'infini déprime,
+Espèce de clocher sinistre de l'abîme
+Où bourdonnent l'effroi, la révolte, et l'essaim
+De toutes les erreurs sonnant leur noir tocsin !
+Et, comme, de lueurs confusément semées,
+Par les brèches d'un toit s'exhalent des fumées,
+Les doctrines, les lois et les religions,
+Ce qu'aujourd'hui l'on croit, ce qu'hier nous songions,
+Tout ce qu'inventa l'homme, autel, culte ou système,
+Par tous les soupiraux de l'édifice blême,
+À travers la noirceur du ciel morne et profond,
+Toutes les visions du genre humain s'en vont,
+Éparses, en lambeaux, par les vents dénouées,
+Dans un dégorgement livide de nuées.
+Temple, atelier, tombeau, l'édifice fait peur.
+On veut prendre une pierre, on touche une vapeur.
+Nul n'a pu l'achever. Pas de cycle ni d'âge
+Qui n'ait mis son échelle au sombre échafaudage.
+Qui donc habite là ? C'est tombé, c'est debout ;
+C'est de l'énormité qui tremble et se dissout ;
+Une maison de nuit que le vide dilate.[
+]{.bold} Pyrrhon y verse l'eau sur les mains de Pilate ;
+Le doute y rôde et fait le tour du cabanon
+Où Descartes dit oui pendant qu'Hobbes dit non ;
+Les générations sous le gouffre des portes
+Roulent, comme, l'hiver, des tas de feuilles mortes ;
+Les escaliers, sans fin montés et descendus,
+Sont pleins de cris, d'appels, de pas sourds et perdus
+Et d'un fourmillement de chimères rampantes ;
+Des oiseaux effrayants volent dans les charpentes ;
+C'est Bouddha, Mahomet, Luther disant : allez !
+Lucrèce, Spinoza, tous les noirs sphinx ailés !
+Tout l'homme est sculpté là. Socrate, Pythagore,
+Malebranche, Thalès, Platon aux yeux d'aurore,
+Combinent l'idéal pendant que Swift, Timon,
+Ésope et Rabelais pétrissent le limon.
+Est-il jour ? Est-il nuit ? Dans l'affreux crépuscule
+Le rhéteur grimaçant ricane et gesticule ;
+On ne sait quel reflet d'un funèbre orient
+Blanchit les torses nus des cyniques riant,
+Et des sages, jetant des ombres de satyres ;
+Le devin rêve et tord dans les cordes des lyres
+Le laurier vert mêlé de smilax éternel.
+Chaque porche entr'ouvert découvre un noir tunnel
+Dont l'extrémité montre une idéale étoile ;
+Comme si, ― Tu le sais, Isis au triple voile, ―
+Ces antres de science et ces puits de raison,
+Souterrains de l'esprit humain, sans horizon,
+Sans air, sans flamme, ayant le doute pour pilastre,
+Employaient de la nuit à faire éclore un astre,
+Et le mensonge impur, difforme, illimité,
+Vaste, aveugle, à bâtir la blanche vérité !
+Partout au vrai le faux, lierre hideux, s'enlace ;
+Pas de dogme qui n'ait son point faible, et ne lasse
+Une cariatide, un support, un étai ;
+Thèbes a pour appui l'Inde, et l'Inde le Cathay ;
+Memphis pèse sur Delphes, et Genève sur Rome ;[
+]{.bold} Et, végétation du sombre esprit de l'homme,
+On voit, courbés d'un souffle à de certains moments,
+Croître entre les créneaux des hauts entablements
+Des arbres monstrueux et vagues dont les tiges
+Frissonnent dans l'azur lugubre des vertiges.
+Et de ces arbres noirs par instants tombe un fruit
+À la foule des mains ouvertes dans la nuit ;
+Quel fruit ? Demande au vent qui hurle et se déchaîne !
+Quel fruit ? Le fruit d'erreur. Quel fruit ? Le fruit de haine ;
+La pomme d'Ève avec la pomme de Vénus.
+Ô tour ! Construction des maçons inconnus !
+Elle monte, elle monte, et monte, et monte encore,
+Encore, et l'on dirait que le ciel la dévore ;
+Et tandis que tout sage ou fou qui passe met
+Une pierre de plus à son brumeux sommet,
+Sans cesse par la base elle croule et s'effondre
+Dans l'ombre où Satan vient avec Dieu se confondre ;
+Gouffre où l'on n'entend rien que le vent qui poursuit
+Ces deux larves au fond d'un tremblement de nuit !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXI]{.calibre2}]{.bold1}]{.calibre_39} {#xxxi .calibre_38}
+
+[
+Le vieil esprit de nuit, d'ignorance et de haine
+Des clous de Jésus-Christ forge à l'homme une chaîne,
+Change l'enfant candide et pur en nain vieillot,
+Lie au bûcher Jean Huss et Morus au billot,
+Frappe de sa férule Horace, et, si Voltaire
+Et Rousseau font du bruit en classe, il les fait taire.
+Il donne sur les doigts au bon Dieu stupéfait.
+Il refroidit les fronts que l'aube réchauffait,
+Il insulte le ciel dans la femme, et le nie
+Dans l'astre, dans la fleur, dans l'art, dans le génie.
+L'éteignoir sur les yeux, la torche au poing, boudeur,
+Sournois, pédant, féroce, il aspire l'odeur
+De la pensée éteinte et de la chair brûlée.
+Il fait mettre à genoux le vieillard Galilée
+Sur la terre qui tourne et devant le soleil.
+Sur oeil qui veut s'ouvrir il verse le sommeil.
+Il tient dans ses dents l'âme humaine, et la grignote.
+Il inspire Nisard, Veuillot, Planche, Nonotte,
+Laisse derrière lui tout coeur mort et glacé,
+Et l'herbe ne croît plus où son âne a passé.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXII]{.calibre2}]{.bold1}]{.calibre_39} {#xxxii .calibre_38}
+
+[
+Parfois c'est un devoir de féconder l'horreur.
+Il convient qu'un feu sombre éclaire un empereur.
+J'ai fait [Les Châtiments]{.italic}. J'ai dû faire ce livre.
+Moi que toute blancheur et toute grâce enivre,
+Je me suis approché de la haine à regret.
+J'ai senti qu'il fallait, quand l'honneur émigrait,
+Mettre au-dessus du crime, en une ombre sereine,
+Le resplendissement farouche de la peine,
+Et j'ai fait flamboyer ce livre dans les cieux.
+Haïr m'est dur. Mais quoi ! Lorsqu'un séditieux
+Interrompt du progrès les glorieuses tâches,
+Tue un peuple, et devient l'infâme Dieu des lâches,
+Il faut qu'une lueur s'allume au firmament.
+J'ai donc mis des rayons dans un livre inclément ;
+J'ai soulevé du mal l'immense et triste voile ;
+J'ai violé la nuit pour lui faire une étoile.[
+]{.bold}
+[26 mars.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIII]{.calibre2}]{.bold1}]{.calibre_39} {#xxxiii .calibre_38}
+
+[
+C'est bien ; puisqu'au sénat, puisqu'à la pourriture,
+Tu poses, calme, altier, fier, ta candidature,
+Puisque tu tends la main à l'argent de César,
+Puisque ta conscience est cotée au bazar,
+Puisque tu prends ton rang dans la honte infinie,
+Ne te gêne pas, jette au peuple l'ironie.
+Être le serviteur de l'ennemi public,
+Avoir les torsions souples du basilic,
+Vendre aux dévots hautains des bassesses athées,
+Disperser dans les vents des choses effrontées,
+Offrir ta rhétorique abjecte à tout venant,
+Collaborer dans l'ombre au crime rayonnant,
+Baver, salir, avoir l'affront pour camarade,
+Être un sauteur de plus dans cette mascarade,
+C'est ce que maintenant tu peux faire de mieux.
+Ainsi, quand la passante aux bras blancs, aux doux yeux,
+Qui fut femme d'honneur, se fait fille de joie,
+Quand elle est devenue un fumier, une proie,
+Un sein qui la nuit s'offre à qui veut l'acheter,
+Elle n'a plus qu'à rire, à danser, à chanter,
+Et qu'à se divertir jusqu'à ce qu'elle tombe
+Charogne à l'hôpital et spectre dans la tombe.
+[30 mai 1875.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIV]{.calibre2}]{.bold1}]{.calibre_39} {#xxxiv .calibre_38}
+
+[
+Il faut agir, il faut marcher, il faut vouloir.
+Mais songer comme un turc et dormir comme un loir,
+Aller aux champs, au bois, au bal, puis chez les filles,
+Ce n'est point la façon de sauver nos familles,
+De relever nos droits, de redresser nos fronts,
+Et de porter remède au mal que nous souffrons.
+On a la chaîne au cou, mais des fleurs sur la tête ;
+On rêve l'âge d'or antique de la bête
+Où tout était charmant pourvu qu'on s'accouplât ;
+On est spirituel, on est jeune, on est plat.
+Oh ! Que de lâchetés ! Oh ! L'abjecte débauche
+Où la chute du peuple et de l'homme s'ébauche !
+Cela ne sert à rien de faire les vainqueurs.
+Ah ! La mort du pays suit le sommeil des coeurs.
+Le devoir est un Dieu qui ne veut point d'athée.
+Je dis que la patrie auguste est souffletée,
+Que ce n'est point l'instant des jeux, mais des combats,
+Et que, lorsqu'on aura mis le tyran à bas
+Et la loi sur le trône, il sera temps de rire.
+Réveillez-vous ! Je dis que la patrie expire,
+Que cette mère, hélas, dont j'écoute les cris,
+À besoin de Brutus et non de Sybaris,
+Qu'il lui faut plus de fronts sévères et moroses,
+Plus de bras étreignant des glaives, moins de roses,
+Et que voilà pourquoi, moi, ployé par les ans,
+Sur la place publique, au milieu des passants,
+En face du soleil sacré qui nous éclaire,
+J'apporte ma vieille âme et ma vieille colère !
+[Mai 1868]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXV]{.calibre2}]{.bold1}]{.calibre_39} {#xxxv .calibre_38}
+
+[
+Paris, le grand Paris agonise. Je pense
+Qu'à l'heure où tant de sang à grands flots se dépense,
+Avant de dire : un homme a fui, c'est un gueusard !
+Avant de mettre au banc des peuples au hasard
+Tous ces vaincus, traqués comme des loups dans l'ombre,
+On doit attendre ; on doit peser le lieu, le nombre,
+Le temps, l'événement, la fièvre, l'attentat.
+Je le dis à messieurs les bonshommes d'état,
+Car, fût-on grand au point de s'appeler Cornesse,
+Pour qu'on voie et qu'on juge, il faut que le jour naisse,
+Et, même eût-on l'honneur d'être Anethan, il sied
+D'épargner au lion mourant le coup de pied.
+Je dis cela. J'ai tort. C'est évident.
+Bruxelles
+Est une grande ville et dans son sein recèle
+Des talents variés sur tous les instruments,
+Des virtuoses fins, spirituels, charmants,
+D'où coule l'harmonie ainsi qu'un flot de l'urne,
+Et ces musiciens m'ont offert un nocturne.
+L'exploit fera la place illustre désormais.
+Ce fut exquis. On prit l'heure où je m'endormais ;
+Et chaque faune avait amené sa bacchante.
+J'étais sans armes, seul ; ils n'étaient que cinquante ;
+Et même on n'est pas sûr qu'ils fussent tous armés.
+Ils ont livré bataille à mes volets fermés,
+M'ont jeté des hoquets et m'ont lancé des pierres.
+De mes petits-enfants je baisais les paupières,
+Pour qu'ils eussent moins peur de ce fracas joyeux ;
+C'était un ouragan de cailloux furieux.
+Les coups au mur après les cris : à la lanterne !
+Grondaient, comme la flûte avec le fifre alterne.[
+]{.bold} Mort ! À mort ! Ainsi hurle un essaim de dragons.
+D'affreux chocs ébranlaient la porte sur ses gonds.
+--- Qu'il meure ! ― Dans les bois, solitude commode,
+Ce genre de gaîté fut jadis à la mode.
+Schinderhanne a donné de ces charivaris.
+Aimable fête ! Aussi, vous le voyez, j'en ris.
+Certes, il faudrait que j'eusse une humeur bien sinistre
+Pour vouloir qu'un nommé Kerwyn, fils d'un ministre,
+Soit dérangé, s'il plaît à ce jeune héros
+De me casser la tête en brisant mes carreaux,
+Et pour ne pas comprendre, en cet antre où j'habite,
+Que le gendarme est pris de surdité subite
+Et que le doux sommeil engourdit les sergents
+Quand un crime est commis par les honnêtes gens.[
+]{.bold}
+17 juin 1871, Vianden.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVI]{.calibre2}]{.bold1}]{.calibre_39} {#xxxvi .calibre_38}
+
+[
+Soit, c'est dit. Tout n'est plus qu'une cendre qui vole.
+La révolution française est une folle,
+Une drôlesse, à qui Bruxelles dit : va-t'en !
+Danton est empoigné par monsieur d'Anethan
+Et Robespierre est pris au collet par Cornesse ;
+On met Paris au poste ainsi qu'une ivrognesse ;
+Nous sommes un troupeau de moutons qui n'est bon
+Qu'à suivre son berger et son boucher Bourbon ;
+Depuis quatre cents ans l'esprit humain radote.
+Qu'est-ce que le progrès ? Une vieille anecdote.
+Nous nous sommes repus de chimères ; le vrai,
+C'est Sanchez en morale, en finances Terray ;
+La guillotine est bien, la potence est meilleure ;
+Ce que nous appelons conscience est un leurre ;
+Dieu parle dans le dogme et non dans la raison ;
+Le confessionnal nous offre sa cloison,
+Collons-y notre oreille et soyons imbéciles,
+C'est le salut. Faisons vers les hommes fossiles
+Le plus que nous pourrons de pas à reculons.
+Le vrai but resplendit derrière nos talons ;
+C'est le passé, le trône et l'autel, l'ignorance.
+Déshabituons-nous de ce grand mot : la France.
+Le pape a décrété qu'il est Dieu ; donc il l'est.
+L'esprit, qui de Paris sur le monde soufflait,
+Semait de la folie aux quatre vents éparse ;
+Les droits de l'homme sont une assez triste farce ;
+Le monarque est le char, le peuple est le pavé ;
+Nous n'avons rien créé, nous n'avons rien trouvé ;
+À nos inventions mettons le bonnet d'âne ;
+Molière n'est qu'un drôle, et Tartuffe le damne ;
+Jean-Jacques est un croquant, Voltaire est un grimaud,
+Et Trublet, Patouillet, Pluche, ont le dernier mot.[
+]{.bold}
+[Altwies, 20 septembre 1871.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVII]{.calibre2}]{.bold1}]{.calibre_39} {#xxxvii .calibre_38}
+
+[
+Je suis haï. Pourquoi ? Parce que je défends
+Les faibles, les vaincus, les petits, les enfants.
+Je suis calomnié. Pourquoi ? Parce que j'aime
+Les bouches sans venin, les coeurs sans stratagème.
+Le bonze aux yeux baissés m'abhorre avec ferveur,
+Mais qu'est-ce que cela me fait, à moi rêveur ?
+Je sens au fond des cieux quelqu'un qui voit mon âme ;
+Cela suffit. Le flot ne brise point la rame,
+Le vent ne brise pas l'aile, l'adversité
+Ne brise pas l'esprit qui va vers la clarté.
+Je vois en moi l'erreur tomber et le jour croître ;
+Je sens grandir le temple et s'écrouler le cloître.
+Rien de fermé. Le ciel ouvert. L'étoile à nu.
+L'idole disparaît, Dieu vient. C'est l'inconnu,
+Mais le certain. Je sens dans mon âme ravie
+La dilatation superbe de la vie,
+Et la sécurité du fond vrai sous mes pas.
+L'abri pour le sommeil, le pain pour le repas,
+Je les trouve. D'ailleurs les heures passent vite.
+Quelquefois on me suit, quelquefois on m'évite ;
+Je vais. Souvent mes pieds sont las, mon coeur jamais.
+Le juste, --- Hélas, je saigne, où sont ceux que j'aimais ? ---
+Sent qu'il va droit au but quand au hasard il marche.
+Je suis, comme jadis l'antique patriarche,
+Penché sur une énigme où j'aperçois du jour.
+Je crie à l'ombre immense : Amour ! Amour ! Amour !
+Je dis : espère et crois, qui que tu sois qui souffres !
+Je sens trembler sous moi l'arche du pont des gouffres ;
+Pourtant je passerai, j'en suis sûr. Avançons.
+Par moments la forêt penche tous ses frissons
+Sur ma tête, et la nuit m'attend dans les bois traîtres ;
+Je suis proscrit des rois, je suis maudit des prêtres ;
+Je ne sais pas un mois d'avance où je serai[
+]{.bold} Le mois suivant, l'orage étant démesuré ;
+Puis l'azur reparaît, l'azur que rien n'altère ;
+Ma route, blanche au ciel, est noire sur la terre ;
+Je subis tour à tour tous les vents de l'exil ;
+J'ai contre moi quiconque est fort, quiconque est vil ;
+Ceux d'en bas, ceux d'en haut pour m'abattre s'unissent ;
+Mais qu'importe ! Parfois des berceaux me bénissent,
+L'homme en pleurs me sourit, le firmament est bleu,
+Et faire son devoir est un droit. Gloire à Dieu \![
+]{.bold}
+[13 décembre 1874.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVIII]{.calibre2}]{.bold1}]{.calibre_39} {#xxxviii .calibre_38}
+
+[
+Oui, vous avez raison, je suis un imbécile.
+Le ciel qui cache au fond des antres de Sicile
+La flûte de Moschus, chère aux échos profonds,
+Livre Arioste au vol fantasque des griffons,
+Et fait dialoguer le prophète avec l'aigle,
+Ce grand ciel d'où sur nous descend l'ombre et la règle,
+M'avait créé pensif, de sorte que j'avais
+L'oeil fixé sur la route incertaine où je vais,
+Et que je n'étais guère autre chose qu'un homme
+Attendri, de colère et de haine économe,
+Vieux par les souvenirs, jeune par les penchants,
+Fait pour la vénérable allégresse des champs.
+Mais en même temps j'ai, comme Eschyle, deux âmes,
+L'une où croissent les fleurs, l'autre où couvent les flammes ;
+Théocrite en mon coeur rencontre d'Aubigné ;
+Ce qui fait que parfois j'ai, d'un oeil indigné,
+Regardé, dans ce siècle ainsi que dans l'histoire,
+Cette méchanceté qu'on nomme la victoire.
+Ma pente est de bénir dans l'enfer les maudits.
+Et vous me raillez. Soit. Eh bien, je vous le dis,
+Je ne me repens point. Je trouve bon, limpide,
+Consolant, honorable et doux, d'être stupide.
+Être inepte me plaît, me charme et me sourit,
+Puisque je vois comment sont faits les gens d'esprit.
+Je suis de mon plein gré rentré dans la tempête.
+Oui, rarement on eut l'audace d'être bête
+À ce point, et mon deuil comprend votre gaîté ;
+J'étais en terre ferme, au port, en sûreté ;
+J'ai vu des naufragés qui s'enfonçaient dans l'ombre,
+Sans aide, et j'ai sauté sur le vaisseau qui sombre,
+Aimant mieux leur malheur que votre joie à tous,
+Et périr avec eux que régner avec vous.[
+]{.bold}
+[Juin 1871.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIX]{.calibre2}]{.bold1}]{.calibre_39} {#xxxix .calibre_38}
+
+[
+Puisque je suis étrange au milieu de la ville,
+Puisque je veux la vie amère et jamais vile,
+Puisque je me dévoue avec stupidité ;
+Puisqu'improvisant tout, j'ai tout prémédité,
+N'ayant d'autres éclairs que ceux de mon cratère,
+Et ne parlant qu'après avoir voulu me taire ;
+Puisque je déraisonne à ce point de penser
+Que l'ouragan ne doit rugir que pour bercer,
+Que la victoire aimante est la seule victoire,
+Qu'un lever d'astre plaît à la nuit la plus noire,
+Et qu'un peu de clémence est nécessaire après
+La sanglante arquebuse et les noirs couperets ;
+Puisque j'ose affirmer je ne sais quelles règles
+D'apaisement des vents, que connaissent les aigles,
+Mais que jamais Néron ni Séjan ne comprit ;
+Puisqu'assez de folie entre dans mon esprit
+Pour que j'en vienne à dire aux hommes qu'ils sont frères,
+Qu'ils ont le même but, malgré les flots contraires,
+Que tout, sur terre, au ciel, là-haut comme ici-bas,
+Les tempêtes, les chocs furieux, les combats,
+Tout doit, les profondeurs étant des harmonies,
+S'évanouir dans l'ombre en douceurs infinies ;
+Puisque je crois que l'homme est meilleur, pardonné ;
+Puisque je m'attendris au cri d'un nouveau-né
+À qui l'exil, voleur féroce, a pris son père ;
+Puisque je dis qu'il faut, pour que l'état prospère,
+Civiliser le riche autant que l'indigent,
+Qu'il faut panser l'ulcère, et qu'il est moins urgent
+De punir les effets que de guérir les causes ;
+Puisque je perds mon temps à répéter ces choses,
+Et puisqu'on ne veut pas même en faire l'essai,
+Laissez-moi retourner à mon noir Guernesey.
+Là point de lâcheté, là point de bâtardise ;
+Là je pense, et ne vois rien qui me contredise,
+Et librement je marche et respire, et je vis,
+Le grand océan sombre étant de mon avis.[
+]{.bold}
+[27 juillet.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XL]{.calibre2}]{.bold1}]{.calibre_39} {#xl .calibre_38}
+
+[
+Ainsi nous n'avons plus Strasbourg, nous n'avons plus
+Metz, la chaste maison des vieux Francs chevelus !
+Ces villes, ces cités, déesses crénelées,
+Ce teuton nous les a tranquillement volées !
+Ainsi le Chasseur Noir a ces captives-là !
+Ainsi ce cavalier monstrueux, Attila,
+Horrible, les attache aux arçons de sa selle ;
+À l'un pend l'héroïne, à l'autre la pucelle !
+Et les voilà, râlant dans le carcan de fer,
+Metz où régna Clovis, Strasbourg d'où vint Kléber !
+Le vautour a ces monts et ces prés sous son aile !
+Et tout cela pourtant, c'est la France éternelle !
+C'est à nous, ce Haut-Rhin où la Gaule apparaît !
+J'en atteste l'été, le printemps, la forêt,
+Les astres toujours purs, les roses toujours neuves
+Et le ruissellement d'émeraudes des fleuves !
+J'en atteste l'épi doré, le nid d'oiseau,
+Et le petit enfant qui, nu dans son berceau,
+Joue avec son pied rose en attendant la France !
+J'en atteste l'oeil bleu de la sainte espérance,
+L'honneur, le droit, l'autel où l'on prie à genoux,
+Cette Lorraine et cette Alsace, c'est à nous !
+Là rêva Gutenberg, là se dressa Lothaire ;
+Ce ciel est notre azur, ce champ est notre terre ;
+Nous nous sommes laissé prendre ces grands pays !
+Nous, France !
+En même temps nous sommes envahis
+Par le prêtre, et flairés par la louve romaine !
+Ainsi nous subissons la schlague qui nous mène !
+Ainsi nous acceptons sur nous le traînement
+Du syllabus gothique et du sabre allemand \![
+]{.bold} Ainsi nous permettons au reître, au bonze, au cuistre,
+De reclouer sur nous le grand linceul sinistre,
+L'ignorance, l'erreur, le mensonge et la nuit !
+Ainsi l'immense aurore aux cieux s'évanouit !
+Ainsi, pourvu qu'il ait au poing de l'eau bénite,
+Pourvu qu'après avoir fui devant le samnite,
+Il dresse un sombre glaive à la gloire inconnu,
+Le premier misérable imbécile venu
+Peut nous crier : paix là, vous tous ! Gare à qui bouge !
+Mais nos pères auraient mordu dans du fer rouge \![
+]{.bold}
+[2 juin 1875.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLI]{.calibre2}]{.bold1}]{.calibre_39} {#xli .calibre_38}
+
+[
+Qui que tu sois qui tiens un peuple dans ta main,
+Sultan, czar pseudo-grec, César pseudo-romain,
+Roi pour rire, empereur pour pleurer, Claude ou Jacques,
+Bonjour. Prospère, mange et règne, et fais tes pâques.
+Je ne conteste pas ton prestige, et l'émoi
+Que cause aux bonnes gens Ta Majesté. Pour moi,
+Quand dans la rue un roi, que sa garde enveloppe,
+Doré, superbe, orné de sabres nus, galope,
+Ma foi, je tourne moins la tête que si c'est
+Lise qui passe avec une rose au corset ;
+Mais c'est un goût bizarre, et tous les autres hommes
+Admirent qui leur fait payer de grosses sommes.
+Donc sois heureux. Jouis du droit qu'on a d'abord
+D'avaler son voisin si l'on est le plus fort ;
+Va ! Dans la probité des princes rien n'accroche ;
+Leur conscience auguste et sainte est une poche
+Si grande qu'il y tient un royaume, et qu'on peut
+Y fourrer tout un peuple et dessus faire un noeud,
+Et saisir Oldenbourg, Nassau, Hambourg, Hanovre,
+D'un tour de main, avec le riche, avec le pauvre,
+Avec châteaux, budgets et millions, avec
+Prêtres et sénateurs, le Te Deum au bec.
+Par-dessus le marché, vous êtes un grand homme.
+C'est fait. Bandit, fi donc ! C'est héros qu'on vous nomme.
+Prenez Francfort, ou bien Venise avec Saint-Marc.
+Ce qui fut Metternich est aujourd'hui Bismarck ;
+Tibère est un lion dont Séjan est la griffe.
+Puisque le maître est grand, qu'importe l'escogriffe.
+Tout est bien. Hurrah ! Prince ! Aie un casque pointu.
+Flanque au bagne l'honneur, la gloire, la vertu ;
+Ôte à ceux-ci leur droit, à ceux-là leur patrie ;
+Complète ta grandeur par de la Sibérie ;[
+]{.bold} Soit.
+Mais aie à l'esprit ceci présent, mon cher.
+En même temps qu'on est de marbre, on est de chair.
+Parfois on est un monstre en croyant être un ange,
+Mais, quoi qu'on fasse, on est un homme. Chose étrange,
+Un roi, cela vieillit, même un roi fort puissant.
+Les rois ont des poumons, de la bile, du sang,
+Un coeur, qui le croirait ? Et même des entrailles ;
+La fièvre avant l'émeute a fréquenté Versailles ;
+Le ventre peut manquer de respect ; les boyaux
+Osent mal digérer les aliments royaux ;
+Bons rois ! Dieu joue avec leur majesté contrite ;
+Dans la toute-puissance il a mis la gastrite ;
+Il faut bien l'avouer, dût en frémir d'Hozier,
+Ainsi que les dindons, les rois ont un gésier ;
+Louis le Grand avait un anus ; on constate
+Quelquefois, chez César lui-même, une prostate ;
+Charles neuf, faible et mou comme un jonc sous le vent,
+Fut par les vers de terre habité tout vivant.
+Or les sages pensifs font remarquer aux princes
+Qu'il est toujours aisé d'empoigner des provinces,
+Mais qu'un roi ne peut prendre, en eût-il grand besoin,
+Un muscle de son râble au crocheteur du coin.
+Un César souvent porte, à son dos qui cahote,
+Son empire moins bien qu'un chiffonnier sa hotte,
+Mais il ferait tuer ses preux jusqu'au dernier
+Avant de conquérir les reins du chiffonnier.
+Majesté, vous aurez plutôt Rome, la Chine,
+L'Inde, qu'une vertèbre ou deux de son échine.
+La migraine se plaît sous les couronnes d'or ;
+Malgré l'huissier de garde au fond du corridor,
+Elle entre. Trop d'azote et pas assez d'ozone,
+C'est assez pour qu'allant du Gange à l'Amazone,
+Le choléra-morbus s'abatte à plomb sur vous ;
+L'effrayant typhus passe, il rend les hommes fous,[
+]{.bold} Vous êtes empereur, mais gare tout de même.
+Vous dites : je suis presque un Alexandre. On m'aime !
+Eh bien, même Campaspe et même Éphestion
+N'ont pas à votre place une indigestion.
+C'est doux d'avoir, avec des vins à pleine amphore,
+Des femmes plus que n'a de vagues le Bosphore ;
+Sérails et festins sont charmants, et malfaisants.
+Les gens de Géorgie apportent tous les ans
+Une vierge au sultan, c'est une politesse ;
+Mais ne peuvent, hélas, quand même sa hautesse
+Daignerait les rouer de coups de nerf de boeuf,
+Avec la viande fraîche offrir l'estomac neuf.
+On crache, on tousse, même en la plus haute sphère.
+La nature est parfois insolente. Qu'y faire ?
+On est le grand passant d'Arcole et d'Iéna ;
+On est le cavalier de la victoire ; on a
+Pour soleil Austerlitz et pour ombre brumaire,
+Si bien que Juvénal vous prend aux mains d'Homère ;
+Cela n'empêche pas le sternum d'exister.
+Qui frappe ? C'est la mort qui vient vous débotter,
+Sire.
+On a beau régner, se faire un entourage
+De trompettes, d'encens, de fumée et d'orage ;
+On a beau se coiffer de lauriers sur les sous,
+Avoir sous soi le peuple en paysans dissous,
+Être le criméen, l'africain, le dacique,
+S'asseoir sur l'aigle ainsi que le Jupin classique,
+Se loger au Kremlin, vivre à l'Escurial,
+Au moment où l'on est le plus impérial,
+À l'heure où l'on remplit de son nom les deux pôles,
+Voilà qu'on est poussé dehors par les épaules.
+À rien ne sert d'aller se cacher dans des trous.
+Dieu vient. On perd sa peine à fermer les verrous.
+Ce fâcheux-là n'est point un de ceux qu'on évite.[
+]{.bold} Hélas, mon prince, on meurt brutalement et vite.
+Il suffit d'un cheval emporté, d'un gravier
+Dans le flanc, d'une porte entr'ouverte en janvier,
+D'un rétrécissement du canal de l'urètre,
+Pour qu'au lieu d'une fille on voie entrer un prêtre.[
+]{.bold}
+[H. H. --- 6 juin 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLII -- Dieu éclaboussé par Zoïle]{.calibre2}]{.bold1}]{.calibre_39} {#xlii-dieu-éclaboussé-par-zoïle .calibre_38}
+
+[
+Ah çà, si nous disions un peu son fait à Dieu ?
+Son oeuvre n'a ni fin, ni tête, ni milieu.
+L'imagination de ce faiseur s'épuise.
+Sa meule tourne usant ce qu'on dit qu'elle aiguise.
+Il se répète ; il est au bout de son rouleau.
+Quoi de plus vain que l'air ! Quoi de plus plat que l'eau !
+L'hiver est blanc et vieux ; l'aurore est vieille et rose ;
+On croit qu'il renouvelle, il fait la même chose ;
+Toujours la même forme en ses oeuvres s'épand ;
+L'arbre est un hérisson, le fleuve est un serpent ;
+La lune jaune accuse, en copiant l'orange,
+Une stérilité d'invention étrange ;
+C'est morne. Essayez donc de le tirer un peu
+De son flot toujours vert, de son ciel toujours bleu !
+La face du liard au revers est pareille ;
+Le narcisse est un oeil, l'épilobe, une oreille.
+Ce monde est un immense opéra rococo,
+Doré par le reflet et rythmé par l'écho ;
+Un ange endiablerait dans sa philosophie
+D'écouter le plain-chant que la forêt solfie ;
+Le Léman n'en dit pas plus long que l'Érié ;
+Depuis des milliers d'ans, Dieu n'a point varié
+La gamme du bouvreuil, du geai, de la linotte ;
+Son vieux fou d'ouragan n'a qu'une seule note ;
+Sa musique est toujours comme au temps d'Agénor ;
+En vain le rossignol, infortuné ténor,
+Dans l'espoir de changer sa vieille cavatine,
+Interroge et poursuit d'un regard qui s'obstine
+Ce triste Dieu caché dans le trou du souffleur.
+Mai porte à son chapeau toujours la même fleur.[
+]{.bold} Le destin, chausse-trape usée à la charnière,
+S'ouvre et se clôt toujours de la même manière.
+Et la vie, où l'espoir avorte et se morfond,
+N'est qu'une boîte avec la mort pour double fond.
+L'histoire est un vieux thème usé dès Hérodote ;
+Dieu ne la refait pas, mon cher, il la radote ;
+Il recrépit Tibère, il replâtre Néron ;
+Il ressouffle la guerre avec son vieux clairon ;
+Il livre, avec un tas de détails parasites,
+Aux russes Bonaparte ou Darius aux scythes ;
+Pas un crime qui n'ait été cent fois commis ;
+Il pétrit Catherine avec Sémiramis ;
+Il fait resservir Claude et Pilate ; il retape
+Caïn dans Borgia quand il lui faut un pape ;
+Ce Louis quinze était à Londres Charles deux ;
+Sous le nom de Cambyse Attila fut hideux ;
+Hicétas reparaît dans Galilée. En somme,
+Dieu n'a qu'un seul patron sur lequel il fait l'homme ;
+Il laisse de ses mains le monde informe choir ;
+Il n'a pas le moyen de changer d'ébauchoir,
+Et c'est toujours avec la même terre glaise
+Qu'il fabrique une juive ou qu'il crée une anglaise.
+J'ai vu le premier homme et j'attends le second.
+Dieu se trompe s'il croit prouver qu'il est fécond
+Parce qu'il tire Adam à beaucoup d'exemplaires.
+Sur un profil, les pleurs, sur l'autre, les colères.
+C'est toujours la victime et toujours le tyran.
+Son Arcturus ressemble à son Aldebaran ;
+Un juif du moins vous rogne ou vous dore une piastre ;
+Lui n'a pas encore pu remettre à neuf un astre !
+Il faut pour admirer que l'homme soit têtu.
+Voilà ce que fait Dieu. Quand donc finiras-tu,
+Entre l'endroit terrible et l'envers ridicule,
+De regarder toujours le même crépuscule,
+Ô création pauvre, ayant à tes deux bouts
+Les soleils ronds des cieux, les yeux ronds des hiboux \![
+]{.bold} Je déclare ton Dieu fini.
+Vois ! Monotone
+Quand, zéphyr, il roucoule, et quand, bourrasque, il tonne,
+Rajustant l'ancien cadre aux anciens horizons,
+Il n'a que quatre vents et que quatre saisons.
+Vieux grand-père en enfance, il ne sait qu'une fable.
+Et dans tous les recoins de son oeuvre ineffable,
+Dans son éclair qui n'est que du rayon cassé,
+Dans la mare stagnante au fond de tout fossé,
+Dans le perroquet vide et bavard comme l'homme,
+Dans Ève et dans Vénus cueillant la même pomme,
+Dans la fumée aussi vague que le brouillard,
+Dans le dindon pleureur et dans l'âne braillard,
+Dans les orangs-outangs autrefois troglodytes,
+Dans le cygne pareil au lys, que de redites !
+L'Auvergne et ses volcans s'éteignent ; au verso
+Expirent Ténériffe et le Chimborazo ;
+À force de cracher toujours le même soufre,
+L'Hékla meurt ; le Gibel est au fond de son gouffre ;
+Vésuve époumoné n'est qu'un essoufflement.
+Dans la bête hurlant toujours son hurlement,
+Dans le flux et reflux rongeant toujours sa digue,
+Dans le temps, dans l'espace, on sent de la fatigue.
+La mer poussive jette un sanglot décrépit ;
+Son antique courroux n'est plus qu'un vieux dépit,
+Et sa tempête a pris la forme d'un catarrhe.
+Comme on voit pendre au mur un spectre de guitare,
+La vieille poésie, où l'amour a vingt ans,
+Frissonne dans le vide avec le vieux printemps.
+Dieu regarde tourner la nature, machine
+Qu'il domine, accroupi comme un magot de Chine ;
+Et cela va si mal et c'est si mal bâclé
+Qu'on dirait par moments qu'il a perdu la clé.
+Quelque jour l'araignée emplira de ses toiles
+L'horloge du matin, du soir et des étoiles,[
+]{.bold} Et le bien, et le mal, et le sort, noirs bahuts
+Mal emboîtés, mal peints, mal cloués, mal fichus.
+Vois ! L'azur est ridé, l'aube tousse et grelotte ;
+La jeunesse éternelle est à la fin vieillotte ;
+Le chant du point du jour chevrote quelque peu.
+Juillet caduc voudrait s'asseoir au coin du feu ;
+Le bonhomme janvier geint, et sans verve épanche
+La neige qui jaunit de l'ennui d'être blanche ;
+Floréal est fané, passé, mangé des vers.
+Ce sont des lieux communs que ces bocages verts
+Où vient nicher la grive, où vient glapir la caille ;
+La rose au frais bouton n'est plus qu'une antiquaille.
+Les grands nuages sont d'informes arrosoirs ;
+Et le haut firmament, sombre pourpre des soirs,
+Rideau des arcs-en-ciel, déployant sur l'abîme
+Ses constellations, épouvante du crime,
+Et ses nuits dont les yeux semblent tout épier,
+Est une loque à pendre au clou chez le fripier.
+Ce monde, chaque jour plus gothique et plus trouble,
+S'embourbe plus avant dans l'ombre qui redouble ;
+L'homme en entend crier les joints, craquer les ais ;
+Et les religions attellent sans succès
+L'éléphant de Brahma, le boeuf Apis, la bête
+Que saint Jean vit ayant sept cornes sur la tête,
+Et le cheval Pégase et la jument Borak
+À ce noir chariot chargé de bric-à-brac !
+Dieu ne fait de l'effet qu'en forçant les contrastes.
+Son univers, malgré des détails assez vastes,
+N'est qu'un long cliquetis au fond très puéril ;
+Le blanc, le noir ; le jour, la nuit ; décembre, avril ;
+Salomon et Piron déclamant la même ode ;
+Le cygne et le corbeau ; Marc-Aurèle et Commode ;
+Vice, vertu ; la course effarée et le mors ;
+La rumeur des vivants, le silence des morts ;
+Que tout crie et pérore ! Assez, que tout se taise \![
+]{.bold} Je voudrais bien le voir sortir de l'antithèse.
+On sourit dès qu'on met à nu le procédé.
+Heureusement pour Dieu que Planche est décédé ;
+Comme il vous donnerait, car c'était là sa tâche,
+Sur les doigts de ce bon Jéhovah qui rabâche !
+Quoi ! Toujours ce poème insipide des champs,
+Des halliers, des ruisseaux, et des vallons penchants,
+Plus usé qu'un trumeau du bonhomme Natoire !
+Quoi ! L'été, puis l'hiver ! Toujours ce répertoire !
+Toujours le même loup montrant les mêmes dents !
+Toujours ce vieux joujou des vents, des flots grondants !
+Ce casse-tête horrible et niais tout ensemble
+De la chose qui n'est jamais ce qu'elle semble,
+Où Dieu bande les yeux à l'homme, où ce vieillard
+Avec Adam perdu joue à colin-maillard !
+Toujours l'illusion d'optique qui vous frappe !
+Le ciel qui sans bouger remue, et cette attrape
+Du soleil qui se lève et ne se lève pas !
+Quoi ! Toujours le cloaque au sortir du repas,
+L'humanité tirée en bas par la nature,
+Et le vomissement après la nourriture !
+Mais le moindre grimaud qui porte la primeur
+De ce que sa caboche enfante, à l'imprimeur,
+Après s'être gratté sa stupide perruque,
+Après s'être empoigné de ses deux mains la nuque,
+Un rimeur de deux sous, un bélître, un poussah,
+Un goitreux, trouverait autre chose que ça !
+Il est temps que ce Dieu repeigne et revernisse
+Le pré que six mille ans a brouté la génisse ;
+Qu'il blanchisse le lys, et qu'il mette des freins
+Aux anciens vents hurlant leurs antiques refrains ;
+Qu'il change de l'oiseau la chanson coutumière,
+Et qu'il redore au fond du ciel noir la lumière.
+Sa machine est connue et c'est un grand défaut.
+Oui, s'il veut qu'on le prenne au sérieux, il faut[
+]{.bold} Qu'il renouvelle, arrange, et radoube, et refasse
+Son univers, moyens et but, fond et surface,
+Son froid printemps qui fait sans cesse un faux serment,
+Ses édens, ses enfers, mieux inventés vraiment
+Ceux-ci par les Miltons et ceux-là par les Dantes,
+Son jeu dépareillé de forces discordantes,
+Son mystère, cassette à secret où déjà
+Le bras des fureteurs jusqu'au coude plongea,
+Sa terre, son soleil, assez maigre étincelle,
+Et son attraction dont on voit la ficelle.
+Il a pour vous distraire inventé les fléaux.
+Voulant, selon la loi de maître Despréaux,
+Passer du grave au doux, du plaisant au sévère,
+Il brise un peuple ainsi qu'un ivrogne son verre,
+Livre une pauvre ville à d'affreux assiégeants,
+Grossit l'eau de la Loire et noie un tas de gens.
+Quelquefois, comme Horace aiguise un anapeste,
+Il termine une guerre au moyen d'une peste,
+Ou fait un roi d'un tigre, et se trouve charmant ;
+Et le monde agonise... ― Ah ! L'on est par moment
+Tenté de lui fourrer le nez dans son ordure,
+Ou de lui crier, car il a l'oreille dure :
+--- Tu deviens fatigant, tu deviens pluvieux,
+Mon pauvre éternel ! Prends ta retraite, mon vieux !
+Oui, rentre dans ton trou biblique ou druidique.
+Cède la place au diable, au singe, à l'homme. Abdique.
+Tout autre fera mieux que toi ta fonction.
+N'attends pas qu'un titan quelconque, un Ixion,
+Un Satan, un Typhée aux cent bras, un Voltaire,
+Fasse rafle un beau jour de tout ton vieux mystère ;
+Mette au rancart l'azur, les ténèbres, le mal,
+Le bien, l'exception avec le fait normal,
+Le destin, le hasard, l'impossible équilibre
+Du Très-Haut prescient posé sur l'homme libre,
+La crèche et le sépulcre, et la prairie en fleurs
+Que, sans savoir pourquoi, l'aube inonde de pleurs ;[
+]{.bold} Plume l'oison et l'ange, envoie au linge sale
+L'affreux linceul troué de la nuit colossale ;
+Et prenne brusquement, pour y jeter le ciel,
+La terre, le chaos total et partiel,
+Et le septentrion, nocturne sentinelle,
+Et l'océan roulant sa tempête éternelle,
+Et le cèdre et l'hysope, et l'herbe et le ruisseau,
+Leur hotte aux chiffonniers du faubourg Saint-Marceau !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLIII -- Ils sont toujours là]{.calibre2}]{.bold1}]{.calibre_39} {#xliii-ils-sont-toujours-là .calibre_38}
+
+[
+Baal n'est pas tombé ; son temple,
+Antre du vieux crime immortel,
+Rayonne ; et Baal se contemple
+Et s'adore assis sur l'autel ;
+Il triomphe ; il a dans sa crypte
+La vieille Inde et la vieille Égypte ;
+Baal resplendit au milieu
+Entre l'idole et la momie ;
+Et la sombre terre endormie
+Rêve que ce monstre est son Dieu.
+Les deux frères de la géhenne,
+Phalaris et Torquemada,
+Attisent avec de la haine
+L'âtre où le boeuf d'airain gronda ;
+Tous deux, l'un est roi, l'autre est prêtre,
+Chantent ; comme le chien son maître
+La fournaise vient les lécher ;
+Et pour ce front, et pour cette âme,
+Un panache sort de la flamme,
+Une mitre sort du bûcher.
+Nemrod vit, et près d'eux flamboie ;
+Il éclabousse leur brasier ;
+Il étale l'horrible joie
+De la trompette et de l'acier ;
+Il va, splendide, affreux, sonore ;
+Il frappe, il tue ; et l'on ignore,
+Quand sur eux le regard descend,
+Si la flamme, hydre aux sombres ailes,
+Crache sur Dieu plus d'étincelles
+Que le fer de gouttes de sang.
+Midas, docteur, est dans sa chaire ;
+Sur le champ, sur l'être hébété,
+Il souffle la nuit, la jachère,
+Le sommeil, l'imbécillité ;
+Près de lui, pendant qu'il enseigne,
+Un géant aveugle qui saigne
+Suit à tâtons un noir chemin ;
+Car l'ombre étouffe l'espérance,
+Car dans ses deux mains l'ignorance
+Tient les deux yeux du genre humain.
+Cham est vivant, le fils infâme ;
+Il brille, il est jeune, il est beau ;
+Il noie aux débauches son âme ;
+Il rit de son père au tombeau ;
+Il n'a même plus de mémoire ;
+Un flot sourd croît dans la nuit noire,
+Il n'en sait rien ; et sans ennui,
+Sans peur, sans chercher de refuge,
+Il entend le bruit du déluge
+Qui remonte derrière lui.
+Judas n'est pas mort ; il trafique ;
+Il travaille aux pièges tendus ;
+Il est le marchand magnifique
+Des Christs livrés, des dieux vendus ;
+Sa drachme est un astre ; il partage
+Son âme avec Londres et Carthage ;
+Judas domine les vivants ;
+Debout sur la terre, heureux, blême,
+Fier, les mains pleines d'or, il sème
+De la trahison dans les vents.
+Dracon, juge, emploie au supplice
+Du divin esprit Légion
+Quatre forces saintes, Justice,[
+]{.bold} Famille, Ordre, Religion ;
+Sous son fouet la Vérité râle ;
+Il torture cet ange pâle
+Sur l'horrible échafaud vermeil,
+Et, front d'airain et coeur de pierre,
+Fait écarteler la Lumière
+Aux quatre chevaux du soleil !
+Messaline n'est pas levée ;
+Elle est toujours là dans son lit ;
+C'est à peine, la réprouvée,
+Si, quand vient l'aube, elle pâlit ;
+Toujours belle, calme, effrontée,
+Elle éclate d'un rire athée
+Sans pudeur, sans peur, sans ennui ;
+La prostituée éternelle
+À changé de nom et s'appelle
+Conscience Humaine aujourd'hui.
+Le vieux Caïn, aïeul prospère,
+S'est fait un trône de l'affront ;
+Les crimes lui disent : mon père !
+Il baise les vices au front.
+Il rit de voir partout le glaive
+Et, sur toutes les croix qu'élève
+À tous ses étages Babel,
+Aux gibets qu'on hait ou révère,
+À Montfaucon comme au Calvaire,
+L'immense cadavre d'Abel.
+Ils sont libres, joyeux, superbes ;
+Les vils chantent les meurtriers ;
+Tous ont les mains pleines de gerbes,
+De fleurs, de rayons, de lauriers ;
+Qui ne voit qu'eux cesse de croire ;
+Toute la honte est de la gloire ;
+Et c'est Dieu qui semble puni ;[
+]{.bold} Sous le firmament qui s'effare,
+Ils passent, comme la fanfare
+Du néant devant l'infini.
+À l'autre extrémité du monde,
+Satan, le sinistre oublié,
+Satan, le responsable immonde,
+Seul, farouche et triste, est lié ;
+Au-dessus de ses fils sans nombre,
+Satan rêve, adossé dans l'ombre
+Au poteau de l'immensité ;
+Et, debout sous les cieux funèbres,
+Il a ce masque, les Ténèbres,
+Et ce carcan, l'Éternité.[
+]{.bold}
+[28 avril 1875.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLIV -- Fulgur]{.calibre2}]{.bold1}]{.calibre_39} {#xliv-fulgur .calibre_38}
+
+[
+L'océan me disait : Ô poète, homme juste,
+J'ai parfois comme toi cette surprise auguste
+Qu'il me descend des cieux une immense rougeur ;
+Et je suis traversé tout à coup, ô songeur,
+Par la foudre sublime, irritée et haïe,
+Comme toi par l'esprit sinistre d'Isaïe ;
+Les éclairs sont mes cris, les foudres sont ma voix ;
+Je gronde sur l'écueil comme toi sur les rois ;
+Je suis l'avertisseur brusque, horrible et céleste.
+L'énorme bras de feu m'associe à son geste
+Quand il menace l'ombre et le bagne infernal.
+On est beau par Virgile et grand par Juvénal,
+Et mon gouffre le sait aussi bien que ton âme ;
+J'ai, comme toi, l'azur, une douceur de femme,
+Une gaîté d'enfant, des vagues pleines d'yeux,
+Des aurores où rit le ciel prodigieux,
+Des écumes parfois blanches comme les cygnes ;
+Les astres par-dessus mes flots se font des signes,
+Et se disent : Viens donc te mirer dans la mer.
+Je suis le niveau pur, le précipice clair ;
+J'offre mes gouttes d'eau nuit et jour aux brins d'herbe.
+Mais je fais peu de cas de tout ce bleu superbe,
+De ce vaste sourire épanoui sur tout,
+De cette grâce où l'ombre en clarté se dissout,
+De ces flots de cristal, de ces ondes de moire ;
+Et le passage affreux du tonnerre est ma gloire.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Deux voix dans le ciel]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3318 .calibre_57}
+
+::: calibre_19
+
+
+[Zénith -- Nadir]{.calibre_10}
+
+[[
+Zénith]{.bold}.
+Je suis le haut.
+[Nadir]{.bold}.
+Je suis le bas.[
+Zénith]{.bold}.
+J'aime.[
+Nadir]{.bold}.
+Je ris.[
+Zénith]{.bold}.
+Par l'éblouissement les coeurs sont attendris.
+Adorer, c'est aimer en admirant. ô cimes !
+Que le soleil est beau sur les sommets sublimes \![
+Nadir]{.bold}.
+Le dessous est charmant
+[Zénith]{.bold}.
+ô Paris \![
+]{.bold}
+[Nadir]{.bold}.
+ô Paris \![
+]{.bold}
+[Zénith]{.bold}.
+J'aperçois les cerveaux, les têtes, les esprits,
+les vastes fronts, foyers où rayonnent les âmes.[
+]{.bold}
+[Nadir]{.bold}.
+Je m'amuse. Je vois le vrai côté des femmes.[
+]{.bold}
+[Zénith]{.bold}.
+Joie immense ! Savoir ! Sonder ! Voir jusqu'au fond
+ce que rêvent les forts, ce que les sages font !
+ô grands coeurs des héros \![
+]{.bold}
+[Nadir]{.bold}.
+Petits pieds de Suzette \![
+]{.bold}
+[Zénith]{.bold}.
+Je lis le livre écrit par Dieu.[
+]{.bold}
+[Nadir]{.bold}.
+Moi, la gazette
+que le diable griffonne au verso.[
+]{.bold}
+[Zénith]{.bold}.
+Croire est doux.
+Marchez les yeux au ciel \![
+]{.bold}
+[Nadir]{.bold}.
+Pour tomber dans les trous.[
+]{.bold}
+[Zénith]{.bold}.
+Cherchez les grands travaux et les grandes études,
+vivez pensifs ! Plongez votre âme aux solitudes !
+Allez ! Vous reviendrez meilleurs.[
+]{.bold}
+[Nadir]{.bold}.
+Et fort maigris.[
+]{.bold}
+[Zénith]{.bold}
+Vivants ! Enivrez-vous d'extases \![
+]{.bold}
+[Nadir]{.bold}.
+Soyez gris.[
+]{.bold}
+[Zénith]{.bold}.
+Pensez \![
+]{.bold}
+[Nadir]{.bold}.
+Buvez, mangez, faites-vous de gros ventres.[
+]{.bold}
+[Zénith]{.bold}.
+Chantez, oiseaux ; lions, rugissez dans vos antres ;
+vents, soufflez ; gonflez-vous, ô mers ; frémis, forêt ;
+prie, Adam ! --- le soleil se lève. Dieu paraît \![
+]{.bold}
+[Nadir]{.bold}.
+Crois-tu ?[
+]{.bold}
+[Zénith]{.bold}.
+Création, salut \![
+]{.bold}
+[Nadir]{.bold}.
+Triste machine \![
+]{.bold}
+[Zénith]{.bold}.
+Gloire à Dieu \![
+]{.bold}
+[Nadir]{.bold}.
+Peuh \![
+]{.bold}
+[Zénith]{.bold}.
+Salut, ô France \![
+]{.bold}
+[Nadir]{.bold}.
+Bonjour, Chine.[
+]{.bold}
+[Zénith]{.bold}.
+Venez, lutteurs saignants ! Venez, grands hommes las !
+Dante avec Béatrix, Voltaire avec Calas \![
+]{.bold}
+[Nadir]{.bold}.
+Tiens ! Il laisse tomber par terre la Pucelle \![
+]{.bold}
+[Zénith]{.bold}.
+Shakespeare, resplendis ; Rabelais, étincelle ;
+Byron, montre ton front \![
+]{.bold}
+[Nadir]{.bold}.
+Et cache ton pied-bot.[
+]{.bold}
+[Zénith]{.bold}.
+Christ naît. J'entends un bruit de harpe.[
+]{.bold}
+[Nadir]{.bold}.
+Et de rabot.[
+]{.bold}
+[Zénith]{.bold}.
+Son père est roi.[
+]{.bold}
+[Nadir]{.bold}.
+Son père est charpentier.[
+]{.bold}
+[Zénith]{.bold}.
+ô psaumes !
+ô David \![
+]{.bold}
+[Nadir]{.bold}.
+ô Joseph ! ô scie \![
+]{.bold}
+[Zénith]{.bold}.
+Où sont les chaumes
+est la paix. Le hameau m'attire.[
+]{.bold}
+[Nadir]{.bold}.
+Allons-nous-en.[
+]{.bold}
+[Zénith]{.bold}.
+Aime le villageois.[
+]{.bold}
+[Nadir]{.bold}.
+Mais crains le paysan.[
+]{.bold}
+[Zénith]{.bold}.
+J'ai l'oeil sur les hauts lieux où s'allume une gloire,
+où César a gagné sa plus grande victoire,
+où Juvénal farouche a fait son plus beau vers.
+Je le sais, moi. Je vois l'endroit.[
+]{.bold}
+[Nadir]{.bold}.
+Je vois l'envers.[
+]{.bold}
+[Zénith]{.bold}.
+Athènes ! ô murs sacrés ! Beauté ! Chefs-d'oeuvre ! Exemples !
+Strophes du statuaire écrites sur les temples !
+Michel-Ange, à genoux tu les étudias.
+Raphaël effaré contemple Phidias ;
+les profonds bas-reliefs, pleins d'une vie étrange,
+devant le demi-dieu font frissonner l'archange.
+ô sourire éternel des frontons dans l'azur !
+Sous ce mur immortel qu'a ciselé l'art pur,
+les générations comme des fleuves roulent ;
+turcs et vénitiens et bavarois s'écoulent ;
+les siècles, bûcherons qui s'acharnent en vain,
+comparent, convoqués par le sculpteur divin
+devant le Parthénon mutilé comme un arbre,
+l'humanité d'argile à l'olympe de marbre.
+Salut à Phidias \![
+]{.bold}
+[Nadir]{.bold}.
+Bonsoir à lord Elgin \![
+]{.bold}
+[Zénith]{.bold}.
+Justes, buvez l'absinthe.[
+]{.bold}
+[Nadir]{.bold}.
+Absinthe, vin et gin.
+Riches, l'orchestre chante et les gorges sont nues ;
+le parc bleuâtre et frais livre ses avenues ;
+les lustres d'or, mêlés d'amours et de griffons,
+pendent, buissons de flamme, à l'anneau des plafonds ;
+dansez dans le salon et soupez dans la serre ;
+vous, les pauvres, les gueux, brutes de la misère,
+soûlez-vous dans un bouge à la lueur des suifs \![
+]{.bold}
+[Zénith]{.bold}.
+Je regarde voler les aigles.[
+]{.bold}
+[Nadir]{.bold}.
+Moi, les juifs.
+[Zénith]{.bold}.
+Morus meurt pour la loi ; Caton, pour la patrie.[
+]{.bold}
+[Nadir]{.bold}.
+La lâche multitude obéit, tremble et crie.
+Le cri monte de ceux sur qui l'on marche à ceux
+sur qui l'on frappe : serfs, moujiks, fellahs crasseux,
+esclaves. Les pavés se plaignent aux enclumes.[
+]{.bold}
+[Zénith]{.bold}.
+Que de couronnes d'or, que de chapeaux à plumes
+sur des fronts criminels \![
+]{.bold}
+[Nadir]{.bold}.
+Quels gros clous aux souliers
+de l'honnête homme \![
+]{.bold}
+[Zénith]{.bold}.
+ô bons, vous êtes les piliers
+du ciel mystérieux où gravitent les mondes !
+La raison de tout sort de vos âmes profondes.
+Sans vous tout serait sombre et tout serait obscur.
+La justice sacrée, et qui remplit l'azur,
+commence à l'honnête homme et finit aux étoiles.
+Les justes méconnus rayonnent sous leurs voiles ;
+comme le ciel, ils ont en eux l'immensité,
+et, s'il est la lumière, ils sont la vérité.[
+]{.bold}
+[Nadir]{.bold}.
+Buvons \![
+]{.bold}
+[Zénith]{.bold}.
+Gloire au soleil \![
+]{.bold}
+[Nadir]{.bold}.
+Il rit de la nature.
+Tous les échantillons d'esprit et de stature
+sont égaux et pareils devant ce bec de gaz,
+depuis Petit Poucet jusqu'à Micromégas !
+[Zénith]{.bold}.
+Pudeur ! Le lys t'adore et le ramier candide
+t'aime, et l'aube te rit, virginité splendide,
+neige où se posera le pied blanc de l'amour.[
+]{.bold}
+[Nadir]{.bold}.
+à bas la vierge ! à bas le lys ! à bas le jour !
+Toute blancheur est fade et bête.[
+]{.bold}
+[Zénith]{.bold}.
+Tais-toi, nègre \![
+]{.bold}
+[Nadir]{.bold}.
+Est-ce ma faute, à moi ?
+L'ange ! Tu deviens aigre.
+Le nez en l'air, au fond de toute chose assis,
+où tu vois des géants, je vois des raccourcis.
+Ce que tu vois monter, moi, je le vois descendre.
+Tu vois la flamme aux fronts, je vois aux pieds la cendre.
+Tout tient à la façon dont nous sommes placés.[
+]{.bold}
+[Zénith]{.bold}.
+Le bleu matin dorait l'herbe dans les fossés ;
+les froids tombeaux, devant le porche de l'église,
+dormaient. Au coin du bois Pierre rencontra Lise,
+et lui dit : --- viens. --- où donc ? --- au bois. --- je ne veux pas.
+Les moissonneurs prenaient à l'ombre leur repas ;
+les gais pinsons jouaient sur les pierres des tombes.
+--- oh ! Là-bas, sur ce toit, vois toutes ces colombes !
+Dit-elle ; et Pierre dit : --- c'est chez moi qu'on les voit.
+Viens les voir. J'ai ma chambre au bord de ce vieux toit.
+J'ai chez moi la colombe et sa soeur l'hirondelle.
+Tu pourras dans tes mains les prendre. --- vrai ? Dit-elle,
+dans mes mains ? --- dans tes mains ! Viens-tu ? --- je n'ose pas.
+Le sentier, complaisant ou traître, pas à pas,
+les mena tous les deux, pensifs, vers la chaumière.
+Tout le long du chemin Lise avait peur de Pierre.
+Pierre dit : --- c'est ici. --- dans l'escalier étroit
+leurs souffles se mêlaient. Les colombes du toit,
+les entendant venir, fuirent à tire-d'aile.
+--- où donc est la colombe ? Où donc est l'hirondelle ?
+Dit Lise ; et Pierre dit tout bas : --- ô ma beauté,
+les oiseaux sont partis, mais l'amour est resté.
+Des roses emplissaient ce nid d'une odeur d'ambre ;
+elle entra rougissante... ---
+[Nadir]{.bold}.
+à l'angle de la chambre,
+le vieux Satan riait dans sa barbe de bouc.
+Lise en ôtant ses bas chantait l'air de Malborough.[
+]{.bold}
+[Zénith]{.bold}.
+Jacques, après son travail, las, brûlé par le hâle,
+rentrait chez lui, son pain sous son bras. Maigre et pâle,
+une femme passait, son enfant à la main.
+--- du pain ! Cria l'enfant. --- la mère dit : --- demain.
+L'enfant ploya son front comme l'oiseau son aile.
+--- je ne crois pas en Dieu ; mon fils a faim ! Dit-elle.
+Le pauvre doux enfant dit : --- mère, ce n'est rien. ---
+Jacques donna son pain. ô Jacques, tu fis bien.
+Pour que la mère croie, il faut que l'enfant mange.[
+]{.bold}
+[Nadir]{.bold}.
+Le mioche était horrible et monstrueux. Cet ange
+louchait ; il ressemblait vaguement à Dupin ;
+et, pendant qu'il mangeait, son nez noyait son pain.[
+]{.bold}
+[Zénith]{.bold}.
+L'oeil de chair ment. L'esprit, c'est l'unique prunelle.
+Les prophètes muraient leur grotte solennelle,
+et, dans l'ombre engloutis, vivaient dans la clarté.
+L'âme ignore la nuit comme la cécité.
+L'âme voit à travers les paupières fermées.
+ô pures visions des choses innommées !
+Majesté du voyant que l'esprit seul conduit,
+qui n'a plus que son âme ouverte dans la nuit !
+Milton était aveugle.[
+]{.bold}
+[Nadir]{.bold}.
+Et Camoëns fut borgne.[
+]{.bold}
+[Zénith]{.bold}.
+ô Dieu. Je suis heureux ! Je contemple.[
+]{.bold}
+[Nadir]{.bold}.
+Je lorgne.
+Platon contemple, et Juan lorgne ; il a l'oeil battu,
+et Vénus dit tout bas à don Juan : montes-tu ?[
+]{.bold}
+[Zénith]{.bold}.
+Silence \![
+]{.bold}
+[Nadir]{.bold}.
+Mon don Juan, mon beau faquin robuste,
+dit Vénus, ce Platon n'est bon qu'à faire un buste.[
+]{.bold}
+[Zénith]{.bold}.
+Tout est bien, tout est beau.[
+]{.bold}
+[Nadir]{.bold}.
+Hein ? Plaît-il ? S'il vous plaît ?
+J'ai tant cherché le beau que j'ai trouvé le laid.
+Tout est mal.[
+]{.bold}
+[Zénith]{.bold}.
+L'idéal rayonne, astre immobile.[
+]{.bold}
+[Nadir]{.bold}.
+Satan m'a fait cadeau de l'âme de Zoïle ;
+je me la mets dans l'oeil en guise de lorgnon.[
+]{.bold}
+[Zénith]{.bold}.
+Tout glorifie...[
+]{.bold}
+[Nadir]{.bold}.
+à bas !
+[Zénith]{.bold}.
+Et tout affirme.[
+]{.bold}
+[Nadir]{.bold}.
+Non \![
+]{.bold}
+[Zénith]{.bold}.
+Le sage, inaccessible à vos vices funèbres,
+hommes, est votre phare au milieu des ténèbres.[
+]{.bold}
+[Nadir]{.bold}.
+Socrate était ivrogne et Thalès libertin.[
+]{.bold}
+[Zénith]{.bold}.
+Croyez.[
+]{.bold}
+[Nadir]{.bold}.
+Le vrai pas plus que le beau n'est certain.
+Qui semble un singe aux grecs semble un homme aux sages.[
+]{.bold}
+[Zénith]{.bold}.
+Démocrite, Héraclite étaient les deux visages
+du genre humain.[
+]{.bold}
+[Nadir]{.bold}.
+C'est Jean qui pleure et Jean qui rit.
+C'est toi, [Zénith]{.bold}, et moi, [Nadir]{.bold}.
+[Zénith]{.bold}.
+Sinistre esprit,
+n'approche pas ton nom du mien.[
+]{.bold}
+[Nadir]{.bold}.
+Bah \![
+]{.bold}
+[Zénith]{.bold}.
+Tais-toi, fange \![
+]{.bold}
+[Nadir]{.bold}.
+Monsieur, je suis un diable et vous êtes un ange ;
+mais quand vous vous fâchez de la gaîté que j'ai,
+je rêve que quelqu'un vous a pris votre g.
+[Zénith]{.bold}.
+Qu'Ève, par toi perdue et dont tu fis la honte,
+t'écrase sous son pied \![
+]{.bold}
+[Nadir]{.bold}.
+Que Balaam vous monte \![
+]{.bold}
+[Zénith]{.bold}.
+ô Dieu vivant, pardonne au rire immonde et noir,
+pardonne au rire misérable,
+toi qu'adore, incliné comme l'arbre du soir,
+le juste sombre et vénérable !
+Le rire hurle, et mord le bas du firmament ;
+il déchire, il souille, il écume,
+trouble la tombe, et crache, avec un grincement,
+sur le monde, encensoir qui fume !
+Regarde sans courroux le rire furieux,
+le rire que rien ne désarme,
+Dieu, vie, abîme, espoir ! Grand oeil mystérieux
+d'où tombe l'homme, cette larme \![
+]{.bold}]{.calibre4}
+
+[[23 novembre 1853.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[[[II]{.calibre34}]{.calibre2} -- Le Livre Dramatique -- La Femme.]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3320 .calibre_57}
+
+::: calibre_19
+
+
+[ ]{.calibre4}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Les Deux Trouvailles de Gallus]{.calibre2}]{.bold1}]{.calibre_39} {#les-deux-trouvailles-de-gallus .calibre_38}
+
+[ ]{.calibre4}
+
+[Ces deux pièces de Victor Hugo, [Margarita]{.italic} et [Esca]{.italic} sont également reprises dans la rubrique THEÂTRE du présent ouvrage sous ce même titre LES DEUX TROUVAILLES DE GALLUS (Note de l'éditeur)]{.calibre4}
+
+
+[
+]{.calibre_10}
+
+[]{.calibre_10}
+
+### [[Table des matières]{.bold}]{.calibre_18} {#table-des-matières .calibre_48}
+
+> []{.calibre_10}
+
+> [[[[[I--Margarita]{.calibre9}]{.underline}]{.calibre_4}](index_split_2642.html#filepos21185720)]{.calibre_10}
+
+> [[[[[Scène première]{.calibre16}]{.underline}]{.calibre_4}](index_split_2643.html#filepos21188513)]{.calibre_10}
+
+> [[[[[Scène II]{.calibre16}]{.underline}]{.calibre_4}](index_split_2644.html#filepos21213839)]{.calibre_10}
+
+> [[[[[Scène III]{.calibre16}]{.underline}]{.calibre_4}](index_split_2645.html#filepos21222058)]{.calibre_10}
+
+> [[[[[Scène IV]{.calibre16}]{.underline}]{.calibre_4}](index_split_2646.html#filepos21242785)]{.calibre_10}
+
+> [[[[[II--Esca]{.calibre9}]{.underline}]{.calibre_4}](index_split_2586.html#filepos20889119)]{.calibre_10}
+
+> [[[[[Acte Premier]{.calibre16}]{.underline}]{.calibre_4}](index_split_2587.html#filepos20906003)]{.calibre_10}
+
+> [[[[[Acte Deuxième]{.calibre16}]{.underline}]{.calibre_4}](index_split_2589.html#filepos20915012)]{.calibre_10}
+
+[ ]{.calibre4}
+
+
+[[
+]{.underline}]{.calibre_14}
+
+[]{.calibre4}
+
+### [[I--Margarita]{.bold}]{.calibre_18} {#imargarita .calibre_48}
+
+[Comédie]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[[LE DUC GALLUS, NELLA, GEORGE, LE BARON GUNICH, Chambellan, LE BARON D'HOLBURG, soldat]{.italic}]{.calibre_28}
+
+[[]{.italic}]{.calibre_28}
+
+[[---En Souabe. 17...---]{.italic}]{.calibre_10}
+
+[
+[Un burg dans une forêt. Intérieur de la grande salle du rez-de-chaussée. Aspect de ruine. Le dénuement rustique mêlé au délabrement seigneurial. De vieilles statues dans des niches, de l'herbe dans le pavé. Dans les coins, des débris. Une table de chêne. Des chaises de bois. Vaisselle d'étain et grosse poterie sur une planche. Coffres le long des murs. Près de la table, sur un bahut de paysan, des in-folio reliés en parchemin. Un ou deux sont ouverts. Dans l'angle à gauche, sous une voussure en ogive, un enfoncement fermé d'une porte à deux volets. A droite, sur le devant, la tourelle de l'escalier en spirale qui mène aux étages d'en haut. Cette tourelle est contiguë à la muraille. La porte de la tourelle s'ouvre sur le devant du théâtre. On en voit les premières marches. Le mur de la tourelle est percé de petites fenêtres longues et étroites. Au fond une grande porte, tout ouverte, donnant sur la forêt. Fenêtres démantelées. Volets descellés. Cà et là des vitres cassées.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_7}
+
+### [[Scène première]{.bold}]{.calibre_51} {#scène-première .calibre_50}
+
+::: calibre_52
+
+
+[[
+LE DUC GALLUS, GUNICH]{.italic}]{.calibre_28}
+
+[[
+Ils entrent par la porte du fond. Le duc, élégant, beau, grisonnant, environ cinquante ans, avec la prétention de n'en paraître que quarante. Il a un pardessus de voyage. Gunich est vieux.]{.italic}]{.calibre4}
+
+[
+[LE DUC GALLUS]{.bold}.
+Que sais-tu d'elle ?[
+GUNICH]{.bold}.
+Rien. --- son nom, c'est tout. NELLA.[
+LE DUC GALLUS]{.bold}.
+Tes talents d'espion ont été jusque-là \![
+Il regarde autour de lui le délabrement.
+]{.italic} Donc, c'est dans ce taudis qu'habite cette fille \![
+GUNICH]{.bold}.
+Avec son père.[
+LE DUC GALLUS]{.bold}.
+Seule en ce burg \![
+GUNICH]{.bold}.
+Sans famille.[
+LE DUC GALLUS]{.bold}.
+Elle a tous les attraits, me dis-tu.
+[GUNICH]{.bold}, saluant.
+Réunis.[
+LE DUC GALLUS]{.bold}.
+Le plus beau des oiseaux dans le plus laid des nids \![
+Regardant dans la salle.
+]{.italic} Personne.[
+Il frappe du pied sur le pavé et heurte le marteau sur la porte.
+]{.italic} On ne vient pas. --- entrons.[
+Ils avancent de quelques pas. Il hausse la voix et appelle.
+]{.italic} À la boutique \![
+Silence et solitude dans le burg.
+Le duc Gallus regarde de toutes parts si personne ne paraît. Gunich le suit jusque sur le devant du théâtre.
+]{.italic} [GUNICH]{.bold}.
+Souffrez que je vous parle un moment politique.
+Altesse, en attendant, votre neveu grandit.[
+LE DUC GALLUS]{.bold}.
+Il ne me gêne point, puisqu'il reste inédit.[
+GUNICH]{.bold}.
+Ces complications sont fâcheuses en somme.
+Moi, j'eusse, Monseigneur, supprimé le jeune homme.
+Tout ou rien. Pourquoi faire une chose à demi ?[
+LE DUC GALLUS]{.bold}.
+Et l'adoucissent des moeurs, mon cher ami !
+On prend une couronne, et l'on n'est pas hostile.
+Mon frère laisse un fils. Tuer l'enfant ! Vieux style. Fi !
+C'est de mauvais goût. On usurpe aujourd'hui
+Avec indulgence.[
+GUNICH]{.bold}.
+Humpf \![
+LE DUC GALLUS]{.bold}.
+Mon frère mort, l'ennui
+me prit. être sujet d'un marmot, c'était rude ;
+Je fis je ne sais plus trop quelle platitude
+A Kaunitz, et je fus reconnu duc régnant.
+Je me débarrassai du mioche en l'éloignant.
+Dans ces bois, comme fils d'un vieux maître de forge,
+Je l'ai fait élever. C'est l'étudiant
+[GEORGES]{.bold}.
+Point de dégât. J'ai mis dans ces monts, purs sommets,
+Mon prince légitime en sevrage à jamais.
+Incognito, tout seul avec toi, sans escorte,
+Je viens de temps en temps voir comment il se porte.
+Il ne se doute pas qu'il est duc.[
+GUNICH]{.bold}.
+C'est profond, mais doux.[
+LE DUC GALLUS]{.bold}.
+Les rois se font, mon cher, et se défont.[
+GUNICH]{.bold}.
+Humpf \![
+LE DUC GALLUS]{.bold}.
+Ce que nous nommons nos droits,
+Nous autres princes,
+Sont-ce des droits ?
+Oui. Non.
+Puisque j'ai les provinces,
+Je les garde. Elles sont à mon neveu, mais quoi !
+Étant un peu larron, je suis d'autant plus roi !
+Le premier qui fut roi fut un voleur sans juges.
+Bah ! Tout est bien, les bois sont d'augustes refuges,
+Ce garçon est vivant, les nids chantent, les cieux
+Sont sur nous. Quant à moi, je règne de mon mieux ;
+J'ai brisé les vieux jougs et les vieilles bricoles,
+Supprimé la potence, ouvert beaucoup d'écoles,
+Diminué l'impôt, semé le vrai, dissous
+L'erreur, et je n'ai pas de remords pour deux sous.
+Je tolère dans l'ombre un neveu qui s'ignore.
+Claudius de Hamlet guette la pâle aurore,
+Mais il est Claudius et l'enfant est Hamlet.
+Moi, nul spectre ne vient me saisir au collet.
+Ce que j'ai, c'est l'ennui. Le trône, triste proie !
+Sais-tu ce que je suis ? Un pauvre homme de joie.
+Plutôt bon que mauvais ; très canaille ; occupé,
+Mais oisif ; fort penaud. Comme on est attrapé !
+L'ambitieux pensif, usurpateur en herbe,
+Dit en préméditant le trône : --- c'est superbe !
+On est le maître ; on a le budget plein les mains ;
+Le prince resplendit, regardé des humains,
+Au-dessus de la terre ; il est dans la comète !
+Vite, ôte-toi de là, petit, que je m'y mette ! ---
+C'est bon, j'ai pris la place, et je règne. à quel prix !
+Quel néant ! Un respect qui ressemble au mépris ;
+Voir le fiel dans les coeurs et le miel sur les langues ;
+Une dorure, pas solide ; des harangues ;
+Des valets ; point d'amis ; de faux éphestions ;
+Des malédictions, des indigestions ;
+Des Te Deum chantés par des prêtres athées ;
+Du fracas, des grandeurs vaguement insultées
+Par cette conscience énorme des vivants,
+Sombre sous les rois, comme une mer sous le vents ;
+En chasse, en guerre, un tas de flatteurs déshonnêtes
+Vous aidant à viser les peuples et les bêtes ;
+Les vastes bâillements du cérémonial ;
+Beaucoup d'enterrement mêlé d'un peu de bal ;
+Le rang suprême, un mot ; le pouvoir, un problème ;
+Ne jamais être sûr qu'une femme vous aime ;
+Voilà ce qu'on usurpe, ami. --- si j'avais su \![
+GUNICH]{.bold}.
+Vous êtes triomphant, grand, couronné...[
+LE DUC GALLUS]{.bold}.
+Déçu.
+Ah ! De la chose sceptre et de la chose trône,
+J'en suis revenu, va. J'y tiens peu. Pas de prône
+Plus sot que l'étiquette, et pas d'orgueil plus creux.
+C'est un art des puissants de n'être pas heureux.
+Ils appellent cela la majesté. C'est bête.
+Trop de couronne, hélas, fait qu'on n'a plus de tête.
+Sais-tu ce qui serait mon goût ? Vivre à Paris.
+Rome a son carnaval, Stamboul a ses houris,
+Mais Paris ! Oui, c'est là qu'il faudrait que je vinsse
+Pour être un chenapan sans cesser d'être un prince.
+Un chenapan, vois-tu, c'est un sage gouailleur
+Que Paris seul produit, qui rit, cueille la fleur
+Et la fille, est féroce au plaisir, vit, s'attable,
+Chante, danse, extermine, affreux gueux, et bon diable.
+Le scrupule en un coin de son coeur se tient coi.
+Être ça, c'est vraiment exister. C'est pourquoi,
+Quand je pense à Paris, je me dis : c'est la ville !
+Là le mal n'est pas laid, la fange n'est pas vile !
+Jamais comme à Paris les gens d'esprit n'ont pu
+Savourer le parfum d'un éden corrompu ;
+Paris gâte la femme et l'homme, et les attaque
+Par tout le paradis que peut faire un cloaque.
+J'aime Paris, de vice et de grandeur pavé.
+N'y songeons pas. Je suis à mon sceptre rivé.
+Je suis le patient du trône. Roi, je bâille.
+Ah ! N'être qu'un bourgeois, quel bonheur ! On ripaille,
+On s'amuse, on se vautre, amis, du vin, du rhum,
+Du gin ! Et pas d'altesse, et pas de décorum,
+On boit, la joie accourt et se livre en personne,
+Et vous la possédez ! Sais-tu que je grisonne ?[
+GUNICH]{.bold}.
+Mais...[
+LE DUC GALLUS]{.bold}.
+Je grisonne ! --- or, j'ai, par-dessus le marché,
+Le désir bienveillant de commettre un péché.
+Quel péché ? Le meilleur, le grand, le vrai, l'unique.
+L'amour. Attention. Mon coeur se communique.
+Tout ce que le destin offre, j'en ai voulu ;
+Ce sac, je l'ai vidé ; ce livre, je l'ai lu.
+Eh bien, Gunich, le fond du sort, le but de l'homme,
+C'est Elle \![
+GUNICH]{.bold}.
+Elle ? Qui donc ?[
+LE DUC GALLUS]{.bold}.
+Elle ! Celle qu'on nomme
+Plaisir, Tourment, Enfer et Ciel, Bien, Mal, Oui, Non.
+Elle ! En Grèce Aspasie. Elle ! En France Ninon.
+Écoute, ô confident du prince ! Combler d'aise
+Quelque fille sans coeur, sans préjugés, mauvaise,
+Charmante, aux grands yeux bleus, ou noirs, se portant bien ;
+Avoir ma Pompadour comme un roi très chrétien,
+Je prémédite ça ! Mille défauts, pas veuve,
+Et je la cherche aux bois pour l'avoir toute neuve.
+Tel est mon idéal. L'ennui, j'en fais l'aveu,
+Me ronge, je confie au bon Dieu mon neveu,
+Et moi, de mon côté, je vais à l'aventure ;
+Je suis un coeur errant quêtant sa nourriture.
+Vois, je bâille. J'ai faim. Je n'ai rien sous la dent.
+Je voudrais rencontrer quelque être indépendant
+Dont je sois le despote et qui me mène en laisse ;
+Je cherche cette chose exquise : une drôlesse.[
+GUNICH]{.bold}.
+Monseigneur, ce n'est point impossible à trouver.[
+LE DUC GALLUS]{.bold}.
+Mais je la veux sauvage.[
+GUNICH]{.bold}.
+Il la faudra rêver,
+En ce cas, --- c'est un peu de complaisance à mettre, ---
+Et ne pas prendre trop votre rêve à la lettre.
+Sauvage presque.[
+LE DUC GALLUS]{.bold}.
+Ô lacs, ô montagnes, qu'emplit
+Le grand songe orageux du torrent dans son lit,
+Du hallier, de la source, et de la bête fauve,
+Où l'antre vaguement s'arrondit en alcôve,
+Où Pan se remarie et change de maisons
+Avec les douze mois et les quatre saisons,
+Espaces que la nuit ensemence d'étoiles,
+Ronces où l'araignée ourdit ses sombres toiles,
+J'accours, je viens sonder vos abîmes profonds ;
+Dégoûté des bourreaux, et même des bouffons,
+Accablé de respect, obsédé de richesse,
+Las de cet à peu près qu'on nomme une duchesse,
+Blasé, mais confiant, ivre du grand concert,
+Je viens chercher Vénus toute nue au désert,
+Je tends les bras vers vous, bois, monts, épithalame !
+Ô nature, un sourire ! ô forêts, une femme \![
+GUNICH]{.bold}.
+Ô forêts, une vierge \![
+LE DUC GALLUS]{.bold}.
+Oui, vierge. J'y consens.
+Un démon vierge ! Un être aux penchants malfaisants
+Ayant l'aspect du lys que la nature encense !
+Laïs Agnès ! Le monstre à l'état d'innocence !
+C'est curiosité, rien de plus ; mais j'aurais
+Cet appétit. La touffe épaisse des forêts
+Contient tout ; fleurs, venins. Ami, gagner le quine
+D'un ange contenant en germe une coquine !
+Comprends-tu ? L'observer ! Voir aboutir au mal
+L'innocence à tâtons dans l'instinct animal,
+Peser dans la vertu ce que la chair en ôte,
+Assister dans une âme à l'aube de la faute,
+Je ne suis pas méchant, mais j'aimerais ce jeu.
+Moi, des crimes, fi donc ! Mais des vices, parbleu !
+Quel plaisir, se gratter du doigt la boîte osseuse,
+Et se dire tout bas : bon ! Elle est paresseuse,
+Elle hait le travail, elle aime les bijoux,
+Elle me trompera pour d'affreux sapajous,
+Elle est chaque jour pire, elle est chaque jour moindre,
+Elle sent avec joie en elle Phryné poindre,
+Elle ignore l'honneur, le devoir, la raison ;
+Elle a l'éclosion sinistre du poison !
+Se dire : de farouche elle devient servile,
+La faunesse des champs est catin à la ville,
+Néère tourne mal et se change en Lola,
+Assez déesse ici pour être diable là !
+Elle a des yeux profonds de plus en plus funèbres,
+C'est une gueuse, ô joie ! Et voir, dans les ténèbres,
+Lentement, dépouillant tout voile, tout remord,
+Toute pudeur, avec le regard de la mort,
+Sombre comme Astarté, blanche comme Suzanne,
+De la vierge au front pur sortir la courtisane !
+Et se dire : c'est bien ! Je vais la dévorer !
+Le tout pour rire.[
+GUNICH]{.bold}.
+Au fait, c'est gai.[
+LE DUC GALLUS]{.bold}.
+Flâner, errer,
+se refaire le coeur \![
+GUNICH]{.bold}.
+Bravo.[
+LE DUC GALLUS]{.bold}.
+J'ai des nausées
+Des femmes qui chez nous naissent apprivoisées.
+Cet immense plaisir, corrompre, on ne l'a pas.
+Leur fuite est l'art savant de faire tous les pas.
+Ces prudes ! La Macette est dans la Cidalise.
+Elles baissent les yeux en sortant de l'église ;
+Elles prennent pour rien des airs majestueux ;
+Leur croupe se recourbe en replis vertueux.
+Moi qui sais le tarif, voir ces saintes-nitouches
+S'offrir dans l'ombre en vente et faire les farouches,
+ça m'assomme. Et je viens chercher en d'autres lieux
+Quelque chose de pis, c'est-à-dire de mieux.
+Je viens ici, parmi les ignorances franches,
+Parmi l'échange obscur des baisers sous les branches,
+Parmi les impudeurs naïves, faire un choix.
+L'acclimatation d'une femme des bois
+A la cour, c'est mon rêve, ami \![
+GUNICH]{.bold}.
+Si, par prodige,
+vous la trouvez...[
+LE DUC GALLUS]{.bold}.
+Je veux la dévorer, te dis-je.[
+GUNICH]{.bold}.
+Je vois ce qu'il vous faut, une femme à croquer.[
+LE DUC GALLUS]{.bold}.
+Je m'ennuie \![
+GUNICH]{.bold}.
+Il serait étrange de manquer
+De femmes quand on est prince.[
+LE DUC GALLUS]{.bold}.
+Si, d'aventure,[
+]{.bold} Nous allions déterrer ici la créature !
+Je l'espère \![
+GUNICH]{.bold}.
+Et le crois. Grattons du bec le sol.
+Une allemande avec un regard espagnol
+Habite en ce burg.[
+Regardant au dehors par une des fenêtres ruinées.
+]{.italic} Tiens, à point nommé, c'est elle !
+[LE DUC GALLUS]{.bold}.
+[Regardant par la même fenêtre, avec un geste de stupeur.
+]{.italic} Et c'est lui \![
+GUNICH]{.bold}.
+Duo.[
+LE DUC GALLUS]{.bold}.
+C'est mon neveu \![
+GUNICH]{.bold}.
+C'est la belle \![
+LE DUC GALLUS]{.bold}.
+çà, que fait-il céans ?[
+GUNICH]{.bold}.
+Dame ! Il est prétendant.
+Je ne suis pas du tout surpris de l'incident.
+Vous l'avez dans ces bois mis avec soin vous-même.
+Il flâne. Il est vivant, il en profite. Il aime.
+Rapportez-vous-en donc aux jocrisses locaux !
+Je m'étais renseigné près de tous les échos,
+J'ignorais ce détail. Chimène a son Rodrigue.
+Je comprends. La nature est une immense intrigue ;
+Il aura rencontré la belle, par hasard.
+Le hasard, Monseigneur, quel dieu ! Mais quel gueusard !
+Dans les bois on a droit à l'églogue ; l'eau coule,
+L'air souffle, on est garçon et fille, et l'on roucoule.[
+Il regarde par la fenêtre.
+]{.italic} Ce vieux burg est ainsi construit qu'ils sont forcés
+De suivre les remparts tout le long des fossés.
+[
+Montrant la porte qui ouvre sur l'escalier.
+]{.italic} Vous allez les revoir sortir par la tourelle.[
+LE DUC GALLUS]{.bold}.
+Ah çà, mais me voilà jaloux \![
+GUNICH]{.bold}.
+Et de qui ?[
+LE DUC GALLUS]{.bold}.
+D'elle !
+De lui \![
+GUNICH]{.bold}.
+Vous allez vite en besogne. Comment,
+Vous avez vu, de loin, cette belle, un moment,
+Prince, et voilà le feu qui prend à votre altesse \![
+LE DUC GALLUS]{.bold}.
+Être vite amoureux, c'est de la politesse.
+Et puis, chacun son genre, ami. C'est ma façon,
+A moi, de me hâter de perdre la raison.[
+GUNICH]{.bold}.
+Faites.
+Il rit.[
+LE DUC GALLUS]{.bold}.
+Quoi ! L'on m'indique en ce donjon sinistre
+Une belle ! J'accours, et tu ne veux pas, cuistre,
+Dadais, triple crétin, qu'en ce pays de loups
+J'enrage, et que je sois furieux et jaloux !
+Je trouve mon neveu qui courtise la dame \![
+GUNICH]{.bold}.
+Vous usurpez le trône, il usurpe la femme.
+Carambolage.[
+LE DUC GALLUS]{.bold}.
+Il a la bride sur le cou.
+N'étant pas roi, qu'a-t-il besoin d'un garde-fou ?
+En fait de liberté jamais je ne lésine.
+Il est étudiant ici près ; il voisine.
+Il était sur la piste avant moi. C'est flagrant.
+Mais, bah ! Je lutterai. Sais-tu qu'il est fort grand,
+Ce petit ?[
+GUNICH]{.bold}.
+C'est un homme.[
+LE DUC GALLUS]{.bold}.
+En outre il a l'astuce
+D'être beau.[
+GUNICH]{.bold}.
+Prétendant à deux tranchants.
+Avec un sourire.
+Je l'eusse
+Supprimé.[
+LE DUC GALLUS]{.bold}.
+Ce garçon est deux fois mon rival.[
+GUNICH]{.bold}.
+Droit, mince, il doit avoir bonne mine à cheval.[
+LE DUC GALLUS]{.bold}.
+En politique il a son droit, et près des femmes
+Sa figure.[
+GUNICH]{.bold}.
+Il fallait, lorsque nous triomphâmes,
+En finir de l'enfant. Certes, ainsi nous eussions
+Dans leur source extirpé les révolutions.
+L'obscure pression des successeurs possibles
+Trouble un règne ; un amas d'incidents invisibles
+Se forme, et le pouvoir ne peut se maintenir.
+Qui veut régner doit faire eunuque l'avenir.
+Monseigneur, on verrait du fait qui vous tracasse
+Rire Machiavel.[
+LE DUC GALLUS]{.bold}.
+Et plus encore Boccace.
+Oh ! Ce Georges ! Abuser de ce qu'il n'est pas roi
+Pour aimer, profiter de son retrait d'emploi
+Pour me prendre ma place ici. Quelle canaille !
+Dois-je persévérer ? Faut-il que je m'en aille ?
+Conclusion : je suis dans un bois, et volé.
+Cupidon à Jupin escroque Sémélé.
+Georges est dans le réel, moi je suis dans le rêve.
+Satan, jadis, prit-il Adam ? Non. Il prit Ève.
+Adam, c'est la puissance, Ève est l'amour. Satan,
+Entre les deux façons qu'on a d'être sultan,
+Choisissait la meilleure en s'adjugeant la femme.
+Moi, j'ai fait le contraire ; à présent je réclame.
+Trop tard. Empanaché, bardé d'un grand cordon,
+Je suis Mamamouchi battu par Céladon.
+Mon neveu rit, je règne ; il vit, je me lamente,
+Et j'enrage. Et je vois dans ses mains mon amante
+Au pillage. J'ai l'ombre, il a la proie. Et moi,
+Morbleu, je me sens dupe à force d'être roi \![
+GUNICH]{.bold}.
+Prince, vous êtes l'aigle, et vous planez.[
+LE DUC GALLUS]{.bold}.
+Sans joie.
+Le prince est un niais puissant ; l'aigle est une oie.
+Les palais, la fanfare, et les arcs triomphaux,
+l'amour des sujets, l'or, le faste, c'est du faux ;
+Le trône nous enferme en son cercle héraldique ;
+Celui qu'on aime est roi ; celui qui règne abdique.
+Donc, voyant le garçon, beau, jeune, épris, pas vieux...[
+GUNICH]{.bold}.
+Vous en êtes jaloux...[
+LE DUC GALLUS]{.bold}.
+Non. J'en suis envieux !
+Vois-tu, l'heureux c'est lui, moi je suis l'imbécile.
+Je changerais fort bien avec lui.[
+GUNICH]{.bold}.
+C'est facile.[
+LE DUC GALLUS]{.bold}.
+Non, s'il est aimé.[
+GUNICH]{.bold}.
+Quoi ! Vous tremblez, vous !
+[LE DUC GALLUS]{.bold}.
+Moqueur \![
+GUNICH]{.bold}.
+Vous, prince \![
+LE DUC GALLUS]{.bold}.
+On prend un trône, on ne prend pas un coeur.
+Pourtant je lutterai.[
+GUNICH]{.bold}.
+Mais il est d'autres femmes.[
+LE DUC GALLUS]{.bold}.
+Non.
+Surprenant un ricanement de Gunich.
+Sous ta flatterie on sent tes épigrammes.
+Tu penses que je suis inepte. Je te dis
+Que mes aïeux livraient bataille un contre dix,
+Qu'étant grison, je dois affronter ce jeune homme,
+Que j'ignore comment cette fille se nomme,
+Que j'ai marché dans l'herbe et bu dans les ruisseaux,
+Que depuis ce matin j'entends un tas d'oiseaux
+Qui font l'amour dans l'ombre au-dessus de ma tête,
+Que Georges est bien plus fort que moi, puisqu'il est bête,
+Du moins je le suppose en voyant son succès,
+Que je devrais m'enfuir si je réfléchissais,
+Que puisque cette fille habite une masure
+Elle rêve un palais, qu'elle est vaine, peu sûre,
+Coquette, pauvre, avec des fleurs dans ses cheveux,
+Et que c'est pour cela, butor, que je la veux !
+Je te dis qu'il n'est pas d'autre femme sur terre.[
+GUNICH]{.bold}.
+Le couple se croit seul en ce burg solitaire,
+Observons-les. J'entends dans l'escalier des pas.
+Ce sont eux. Les voilà de retour ici-bas.[
+LE DUC GALLUS]{.bold}.
+Que de choses seront à la mort révélées !
+On saura le secret du vent, des giboulées,
+Des roses, de l'instinct féminin et viril,
+Des madrigaux dont est formé le mois d'avril !
+L'oeil tourné vers l'escalier.
+Ils descendent du ciel en effet. Quelle ivresse,
+Être deux amoureux ! Que Chloé soit traîtresse,
+Qu'importe ! Daphnis bête est un heureux berger.
+[Paraissent Georges et Nella. Ils descendent l'escalier de la tourelle, Georges le premier, donnant la main à Nella. Le duc Gallus et Gunich se retirent en arrière de la tourelle, de façon à n'être pas aperçus. De ce recoin, le duc ne voit que Georges. Nella reste sous la porte de la tourelle debout sur la dernière marche de l'escalier. Le duc contemple la bonne mine de Georges. Décidément, vingt ans, c'est charmant. C'est léger. Georges est beau.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_7}
+
+### [[Scène II]{.bold}]{.calibre_51} {#scène-ii .calibre_50}
+
+::: calibre_52
+
+
+[[
+GEORGES, NELLA, LE DUC GALLUS, GUNICH]{.italic}]{.calibre_28}
+
+[
+[GEORGES]{.bold}.
+Nella \![
+NELLA]{.bold}.
+Georges ! --- ami, je vous renvoie.
+[GEORGES]{.bold}.
+A bientôt.[
+NELLA]{.bold}.
+Oui. Prenez garde qu'on ne vous voie.
+Quel malheur que je sois fille noble \![
+GEORGES]{.bold}.
+Et que moi je sois roturier \![
+NELLA]{.bold}.
+Georges !
+[GEORGES]{.bold}.
+Oh ! Je ne sais pourquoi,
+Qais je fais en moi-même un roman. J'imagine
+Que je ne connais point au vrai mon origine.
+J'ai le pressentiment d'un destin inconnu.
+Mais non, je ne suis rien que le premier venu.
+J'ose vous adorer Nella.
+[LE DUC GALLUS]{.bold}, à part.
+Quelle bravoure \![
+NELLA]{.bold}.
+Profitez du moment où mon père laboure
+Au fond de son enclos, et fuyez par le bois.
+[LE DUC GALLUS]{.bold}, [à Gunich.]{.italic}
+Son père ? Est-ce un soldat, ou bien un villageois ?[
+Par la fenêtre il montre à Gunich quelqu'un au dehors.
+]{.italic} C'est ce bon vieux là-bas courbé sur sa charrue.[
+GEORGES]{.bold}.
+Vous êtes sur ma cendre une flamme apparue ;
+Sans vous je ne vis pas. Quand pourrai-je, à genoux,
+Vous épouser ?[
+NELLA]{.bold}.
+Hélas ! Je ne sais. Cachez-vous.
+Mon père est encore plein d'orgueil nobiliaire.[
+GEORGES.
+]{.bold} Le donjon vieillissant n'a pas honte du lierre.
+Pourquoi ce vétéran me repousserait-il ?
+Mon chaste amour ressemble à son farouche exil.
+Nous serions là, devant son front que l'âge ploie,
+Nous aimant, et quel mal lui ferait notre joie ?[
+NELLA]{.bold}.
+Il est bon. Attendons. Dieu nous aidera.[
+GEORGES.
+]{.bold} Non.
+J'accuse Dieu. Pourquoi suis-je un homme sans nom ?[
+NELLA]{.bold}.
+Ami \![
+GEORGES]{.bold}.
+Mon âme est franche et mon destin est louche.[
+NELLA]{.bold}.
+Georges !
+[Le duc Gallus fait des efforts pour voir Nella sans y parvenir.
+]{.italic} [LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Entendre la voix, c'est presque voir la bouche.
+C'est égal. Maudit mur \![
+GEORGES]{.bold}.
+Ah ! Sort infortuné !
+Pourquoi suis-je puni ? Parce que je suis né.
+Il fallait naître noble. Hélas, le grain de sable
+Est-il de son néant coupable et responsable ?
+Ah ! Quel accablement ! J'aime au-dessus de moi.[
+NELLA]{.bold}.
+Mon Georges \![
+GEORGES]{.bold}.
+J'ai le coeur trop haut \![
+NELLA]{.bold}.
+Tu serais roi,
+T'aimerais-je mieux ?[
+GEORGES]{.bold}.
+Non. Mais tu serais ma femme.[
+NELLA]{.bold}.
+Georges, dites-moi vous. Ne troublez pas mon âme.
+Vous serez le mari, ne soyez pas l'amant !
+Respectez-moi.[
+GEORGES]{.bold}.
+Nella, laissez-moi seulement
+Déposer un baiser sur votre main.[
+NELLA]{.bold}.
+J'exige
+Que vous soyez sage.[
+GEORGES]{.bold}.
+Oui.
+Elle est restée sur l'escalier. Georges est hors de la tourelle.
+[Nella tend son bras nu par la lucarne. Il lui prend la main.[
+]{.bold}]{.italic} [NELLA]{.bold}.
+Soyez sage, vous dis-je \![
+GEORGES]{.bold}.
+Un seul baiser.
+[
+Il lui baise la main avec emportement.
+]{.italic} [LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Trois, quatre ! --- ah ! Tu me le paieras.
+Je suis éperdument amoureux de ce bras.[
+GEORGES]{.bold}.
+Adieu, mon âme \![
+NELLA]{.bold}.
+Adieu, mon coeur \![
+GEORGES]{.bold}.
+Quand reviendrai-je ?[
+NELLA]{.bold}.
+Demain.[
+GEORGES]{.bold}.
+Non. Aujourd'hui.
+[Georges furtivement et sans regarder s'esquive par une des fenêtres qui font brèche. Le duc Gallus et Gunich s'effacent dans l'ombre de la tourelle. Il ne les voit pas. Nella reste seule. On la voit dans l'escalier de la tourelle, pensive, cherchant par la lucarne à voir encore de loin Georges, qui a disparu.
+]{.italic} [LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Le paradis, quel piège !
+Comme ils sont pris ! L'amour est le profond jardin
+Au fond duquel est Dieu caché. Bravo l'éden !
+Toute cette ombre aimable est d'aube pénétrée.
+Il s'agit maintenant d'y faire mon entrée.
+Quaerens quem devoret. C'est moi. --- Georges, mon cher,
+On vous aime, mais bah ! La beauté c'est la chair,
+La femme c'est la faute ; et vous avez le charme,
+Jeune homme, vous avez l'amour ; mais j'ai mon arme,
+L'expérience. Ami, vous allez en avant,
+Beau, tendre, frais, naïf. Moi, je suis le savant,
+L'artiste. Il est ardent, moi calme. Il a l'ivresse,
+J'ai l'appétit.
+[Cependant Nella est sortie de la tourelle ; elle fait quelques pas, et s'arrête, sans voir Gallus et Gunich. Le duc la montre à Gunich.
+]{.italic} [LE DUC GALLUS]{.bold}
+Comment trouves-tu ma maîtresse ?
+[Gunich salue profondément le dos de Nella, immobile sur le devant du théâtre. Le duc Gallus regarde par la fenêtre d'où il a aperçu le père travaillant dans les champs. Le pauvre père est dupe, et Georges tient Nella !
+]{.italic} [GUNICH]{.bold}.
+Nous venons au secours du père. Enlevons-la.
+Vous êtes roi ; je suis un baron pour tout faire.
+Donc...
+[Le duc Gallus fait un signe de tête négatif.
+]{.italic} [LE DUC GALLUS]{.bold}.
+J'ai l'attraction. Je suis la haute sphère.
+Passer près d'elle doit suffire.
+[NELLA]{.bold}, [allant à une armoire.]{.italic}
+Et mon couvert
+Qui n'est pas mis !
+[Elle tire de l'armoire une nappe de grosse toile très blanche qu'elle étale sur la table, puis des vaisselles et des gobelets d'étain, un pot de lait et un pain bis, qu'elle dispose avec symétrie, puis deux assiettes et deux cuillers de fer, et elle place deux chaises devant les deux assiettes. Le duc Gallus la contemple. Gunich et lui sont restés au fond de la salle. Elle ne se doute pas de leur présence.
+]{.italic} [LE DUC GALLUS]{.bold}, à [Gunich.]{.italic}
+Va-t'en rêver dans le bois vert.
+[NELLA]{.bold}, [se dépêchant.]{.italic}
+Mon père va rentrer.
+[LE DUC GALLUS]{.bold}, [à Gunich.]{.italic}
+Laisse-nous. Herborise.
+[Gunich fait une nouvelle révérence au dos de Nella, et sort.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_7}
+
+### [[Scène III]{.bold}]{.calibre_51} {#scène-iii .calibre_50}
+
+::: calibre_52
+
+
+[[
+LE DUC GALLUS, NELLA]{.italic}]{.calibre_28}
+
+[
+[LE DUC GALLUS]{.bold}, [s'avançant et saluant.]{.italic}
+Madame... --- [Nella se retourne et le regarde.
+A part.
+]{.italic} Elle a grand air. Elle n'est pas surprise.[
+Haut à Nella.
+]{.italic} Je suis un voyageur qui passe. S'il vous plaît,
+Pourrait-on ici boire une tasse de lait ?
+En payant ?[
+NELLA]{.bold}.
+Sans payer. Oui, monsieur.
+Elle verse du lait dans un gobelet.
+[Le duc s'assied sur une des deux chaises, et boit une gorgée de lait. Nella va et vient dans la salle, rangeant les meubles et serrant du linge dans les bahuts sans s'occuper de lui.
+]{.italic} [LE DUC GALLUS]{.bold}, [lorgnant la masure.]{.italic}
+Pierre et briques.
+Édifice à classer parmi les historiques.[
+Lorgnant la fille.
+]{.italic} --- vingt ans. De trop grands yeux, et de trop petits pieds.[
+Revenant à l'inspection du logis.]{.italic}
+--- des ancêtres cassés. Des preux estropiés.
+Force héros sans nez, perdus dans les décombres.
+Ce mélange imposant de Charlemagnes sombres,
+De Barberousses morts, de Christs, de Jéhovahs,
+De saints, que le vulgaire appelle des gravats.
+L'auguste bric-à-brac, épars sous la fougère,
+Que l'histoire plus tard met sur son étagère.
+Une commission de savants trouverait[
+Regardant le chiendent qui pousse entre les pavés.
+]{.italic} À camper dans cette herbe énormément d'attrait.
+L'humidité triomphe, et fait sous ce portique
+prospérer la grenouille, animal aquatique.
+Tous les siècles moisis ensemble. Que c'est beau !
+La ruine vraiment vaut presque le tombeau.
+C'est superbe. Les goths, les romains, les sicambres.
+Des pierres dans le blé, du gazon dans les chambres,
+Un burg, quoi ! C'est là, certes, un rare monument,
+Où l'on doit s'ennuyer épouvantablement.[
+Lorgnant Nella.
+]{.italic} --- divine ! Un brin de fleur, et la voilà coiffée \![
+Haut à Nella.
+]{.italic} --- Mademoiselle, on voit dans les contes de fée
+Des belles, comme vous, que garde en une tour
+Un dragon, et pour qui des rois meurent d'amour,
+Et que viennent sauver des paladins bravaches.
+--- Ah çà ! Que faites-vous ici ?[
+NELLA]{.bold}.
+Je trais les vaches.[
+LE DUC GALLUS]{.bold}.
+Traire les vaches. Soit. Il est d'autres bonheurs.
+Que faites-vous après ?[
+NELLA]{.bold}.
+Je porte aux moissonneurs
+Leur dîner dans les champs.[
+LE DUC GALLUS]{.bold}.
+Après, belle pensive ?[
+NELLA]{.bold}.
+Je lave à la fontaine et je fais la lessive.[
+LE DUC GALLUS]{.bold}.
+Ah ! Grâce pour ces mains charmantes ! --- puis après ?[
+NELLA]{.bold}.
+Je balaie, et je range au cellier nos oeufs frais.[
+LE DUC GALLUS]{.bold}.
+Après ?[
+NELLA]{.bold}.
+J'ai ma quenouille, ou bien je raccommode
+Ma robe.[
+LE DUC GALLUS]{.bold}.
+Qui n'est pas tout à fait à la mode.[
+NELLA]{.bold}.
+Je ne sais pas.[
+LE DUC GALLUS]{.bold}.
+Après ?[
+NELLA]{.bold}.
+Quand mon père, à pas lents...[
+Elle montre la fenêtre d'où le duc a déjà aperçu le père.
+]{.italic} --- Regardez, --- on le voit d'ici. --- ces cheveux blancs ! ---
+Quand il rentre le soir, je tiens la table prête,
+Je mets la nappe.[
+LE DUC GALLUS]{.bold}.
+Et puis ?[
+NELLA]{.bold}.
+Nous soupons tête à tête.[
+LE DUC GALLUS]{.bold}.
+De pain bis ?[
+NELLA]{.bold}.
+Et de lait.
+[LE DUC GALLUS]{.bold}.
+C'est là tout le gala ?[
+NELLA]{.bold}.
+Puis je lui lis un peu de ces gros livres-là.
+[
+Elle montre les livres sur le bahut qui touche à la table. Le duc tourne la tête et, sans se lever, regarde les titres des livres sur les dossiers des volumes.
+]{.italic} [LE DUC GALLUS]{.bold}, [déchiffrant.]{.italic}
+Homère. Grotius. Polybe, la Genèse.[
+NELLA]{.bold}.
+Ou bien, tout en causant, je couds près de sa chaise,
+Et, le travail faisant des trous à ses habits,
+Je les lui double avec de la peau de brebis.
+Puis mon père me tend ses bottes, je les ôte.[
+LE DUC GALLUS]{.bold}.
+Ensuite ?[
+NELLA]{.bold}.
+Ensuite on fait la prière à voix haute.
+Il m'embrasse, et l'on va dormir.
+[LE DUC GALLUS]{.bold}, [se levant.]{.italic}
+C'est tout ?[
+NELLA]{.bold}.
+C'est tout.
+[
+Le duc s'approche d'un air insinuant avec un sourire d'intelligence.[
+]{.bold}]{.italic} [LE DUC GALLUS]{.bold}.
+Qu'avez-vous dans l'esprit ?[
+NELLA]{.bold}.
+Croire en Dieu.[
+LE DUC GALLUS]{.bold}.
+C'est beaucoup.
+[NELLA]{.bold} [se remet à faire le ménage de la salle.
+Après un silence.
+]{.italic} Vous devez par instants vous sentir sérieuse ?
+Vous êtes...[
+NELLA]{.bold}.
+Je ne suis pas même curieuse.
+J'ignore votre nom.[
+Avec une révérence fière.]{.italic}
+Soyez le bienvenu.
+[LE DUC GALLUS]{.bold}, [souriant.]{.italic}
+Le bonheur est parfois caché dans l'inconnu.[
+Se rapprochant.]{.italic}
+Rêvez-vous ? Pensez-vous ?[
+NELLA]{.bold}.
+Penser, c'est trop. J'espère.
+[LE DUC GALLUS]{.bold}, [accentuant son sourire.]{.italic}
+Mais, belle, il faut aimer quelqu'un.[
+NELLA]{.bold}.
+J'aime mon père.[
+LE DUC GALLUS]{.bold}.
+Mais par des cheveux blancs tout le coeur n'est pas pris.
+[NELLA]{.bold}, [le regardant.]{.italic}
+J'aime les cheveux blancs, et non les cheveux gris.
+Maintenant, s'il vous plaît, je vais serrer mon linge.
+[LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Une gazelle ayant de l'esprit comme un singe !
+[Nella retourne à ses occupations d'intérieur. Elle remet la ruine en ordre le plus qu'elle peut. Elle va et vient, sans faire attention au duc.
+]{.italic} [LE DUC GALLUS]{.bold}, [se rasseyant.]{.italic}
+Ah çà, je n'aime point voir des enterrements.
+Ces yeux profonds et bleus comme des firmaments,
+Cette fraîcheur timide, et cette rougeur fière,
+Ce front rose qui semble un lever de lumière,
+Tout cela n'est pas fait pour garder la maison.
+Je crois en vous voyant voir l'aurore en prison.
+Oui, vous êtes l'aurore, et vous êtes esclave
+Dans la nuit ! Au cachot, seule au fond d'une cave,
+Chez ce bonhomme affreux qu'on appelle l'hiver.
+La beauté c'est le fruit, l'indigence est le ver.[
+Regardant la masure.
+]{.italic} Burg sinistre ! Où donc est ton échelle. ô Latude \![
+A Nella.
+]{.italic} --- Tel que vous me voyez, j'aime la solitude,
+A la condition de ne pas être seul. ---
+Croupir ! Devenir laide ! Autant vaut le linceul.
+Viviane se change en Toinon dans ces bouges.
+La taille s'épaissit, les bras deviennent rouges.
+Guerre à cet oppresseur infâme, le corset !
+Je viens vous annoncer une nouvelle, c'est
+Qu'il existe des lieux charmants ; c'est que Versailles,
+Potsdam, Schönbrunn, ont mis l'Olympe en leurs broussailles
+C'est qu'il est des palais ; c'est qu'il est des bosquets ;
+C'est qu'au seuil d'une idylle il faut de grands laquais ;
+C'est que le buisson, l'herbe, et la bruyère, et l'arbre,
+Ne sont beaux que mêlés à des nymphes de marbre ;
+C'est qu'un torrent est laid, et qu'au fond du vallon
+L'eau doit se comporter comme dans un salon ;
+C'est qu'Homère et Milton ne sont que des maroufles
+Faits pour passer le temps à chanter vos pantoufles ;
+C'est qu'il est un devoir, l'oisiveté, pour ceux
+Qu'enivre la langueur des appas paresseux ;
+C'est que les beaux habits sont beaux ; c'est que les femmes
+Doivent être de pourpre et d'or, comme les flammes,
+Car toutes ont pour loi de brûler à leur tour
+Dans l'immense incendie universel, l'amour !
+Je viens vous annoncer que vous êtes déesse ;
+Que la beauté, cet astre, a pour ciel la richesse,
+Et que sur cette terre, ancien fief de Vénus,
+Où, pour voir deux beaux yeux et baiser deux pieds nus,
+Le pape donnerait Rome, et moi, Babylone,
+Vous avez une jupe en serge à dix sous l'aune \![
+Montrant tour à tour Nella et le burg.
+]{.italic} Je ne suis pas Dieu. Non. Mais pour lui je rougis
+Que faisant de tels yeux, il fasse un tel logis !
+Morbleu ! Faut-il qu'on rie, ou bien faut-il qu'on pleure ?
+Vous êtes la beauté suprême, pour demeure
+Vous avez la tristesse horrible ! C'est complet.
+Ma parole d'honneur, si j'avais un valet
+Maladroit comme Dieu, laissant de sa fenêtre
+Tomber le pot de fleurs où le lys vient de naître
+Et cassant un destin charmant sur le pavé,
+Cachant dans un taudis l'être qu'on a rêvé,
+Brouillant tout, faussant tout, faisant traire les vaches
+A Psyché, j'userais sur son dos vingt cravaches !
+Dieu se moque de nous, tristes fils de Japhet !
+[
+Il s'est levé et, comme par mégarde, laisse s'écarter son habit de voyage sous lequel on entrevoit sa plaque et son grand cordon.
+]{.italic} [NELLA]{.bold}.
+Monsieur, si vous croyez me faire de l'effet
+Parce que vous ouvrez votre habit de manière
+A montrer un crachat sous votre boutonnière
+Et dans votre gilet le coin d'un cordon bleu,
+Vous vous trompez.[
+Elle va au coin où est la voussure, et écarte les deux volets fermés. En tournant sur leurs gonds, ils découvrent un tableau qui est le portrait en pied d'un homme de guerre en grand uniforme, couvert de décorations et de
+broderies, avec un grand cordon, le même que porte le duc.
+]{.italic} --- voici mon grand-père.[
+LE DUC GALLUS]{.bold}.
+Vrai Dieu !
+C'est un feld-maréchal.[
+NELLA]{.bold}.
+Parfaitement.[
+LE DUC GALLUS]{.bold}.
+Vous êtes ?...[
+NELLA]{.bold}.
+Sa petite-fille.[
+Elle salue le portrait avec gravité, puis se redresse.]{.italic}
+Oui. Les tambours, les trompettes
+L'annonçaient. Maintenant, il dort dans son linceul.
+Les autres généraux l'admiraient. Mon aïeul
+Étant le plus prudent était le plus terrible.
+Il était infaillible, il était invincible.
+Et l'empereur, présent, voulait qu'il commandât.[
+LE DUC GALLUS]{.bold}.
+Et son fils, votre père ?...[
+NELLA]{.bold}.
+Est un simple soldat.[
+Elle salue de nouveau le portrait, puis se retourne vers le duc.]{.italic}
+Mon père est le baron d'Holburg. La destinée
+L'avait brisé déjà que je n'étais pas née.
+On n'apprend point l'histoire aux femmes, c'est pourquoi
+Je ne vous dirai pas si ce fut pour le roi
+Ou l'empereur, si c'est pour la Prusse ou l'Autriche,
+Qu'étant noble, il donna son sang, et qu'étant riche,
+Il donna son argent jusqu'au dernier écu ;
+Je sais qu'il eut le tort d'être pour le vaincu.
+Le vainqueur le frappa. L'on mit sous le séquestre
+Ses fiefs seigneuriaux rayés de l'ordre équestre,
+Puis on le fit soldat. Ce burg fut son exil.
+Tout paysan pour lui devint un alguazil ;
+Les murs tombent, hélas, et les coeurs dégénèrent.
+Ceux qu'il avait jadis nourris, l'espionnèrent.
+Mon père n'eut plus droit de porter l'éperon.
+Défense de lui dire excellence ou baron.
+Il laboure son champ. Lui, cousin des margraves,
+Quoiqu'il fût le plus brave au milieu des vieux braves,
+Les jeunes officiers n'ont pas l'air de le voir.
+Il fait le blé, je fais le pain. Calme, le soir,
+Il s'en revient, traînant le soc parmi les plaines,
+Tandis que le soleil descend dans les grands chênes.
+Nous buvons l'eau du ciel qui remplit le fossé.
+Il ne parle jamais de ce qui s'est passé ;
+Si quelqu'un par hasard lui fait une demande,
+Il répond : j'ai servi la patrie allemande,
+Et se retire, un peu plus fier qu'auparavant.
+Il songe volontiers dans les bois pleins de vent.
+Il a le front pensif de l'homme qui persiste.
+Il est vieux, seul, vaincu, proscrit. Il n'est pas triste.
+On sent qu'il porte en lui la cause juste. Il croit.
+A mesure que l'ombre autour de lui s'accroît
+Je vois dans sa prunelle augmenter la lumière.
+Son donjon lentement devient une chaumière.
+Il regarde souvent ce portrait, son trésor ;
+L'épaulette de laine à l'épaulette d'or
+Raconte son histoire et parle de la guerre,
+Et je vois mon aïeul qui sourit à mon père.
+N'ayant pas de quoi mettre une tuile à son toit,
+Mon père dans sa chambre en ruine reçoit
+L'averse quand il pleut et le froid quand il vente,
+Et moi je suis sa fille et je suis sa servante,
+Et c'est ce qu'on appelle être un homme déchu.
+[LE DUC GALLUS]{.bold}, [à part.]{.italic}
+En entrant je voulais chiffonner ce fichu ;
+Maintenant, --- est-ce donc le sol qui se dérobe ? ---
+Je suis prêt à baiser le bas de cette robe.[
+Haut à Nella]{.italic}.
+Je ne suis pas très fort en histoire non plus.
+Votre père appartient aux âges révolus.
+Mais, voyons, qu'a-t-il fait ?[
+NELLA]{.bold}.
+De ce qu'a fait mon père,
+Je ne sais rien du tout, sinon que j'en suis fière.[
+LE DUC GALLUS]{.bold}.
+L'empereur pourrait, tout étant calme aujourd'hui,
+Lui faire grâce.[
+NELLA]{.bold}.
+Hein ? Lui faire grâce ! à lui \![
+]{.bold} Lui seul aurait le droit de faire grâce aux autres.
+De qui donc croyez-vous parler ?[
+LE DUC GALLUS]{.bold}.
+De l'un des nôtres.
+D'un seigneur.[
+NELLA]{.bold}.
+Les seigneurs sont aussi courtisans.
+Point. Nous sommes, mon père et moi, des paysans.
+Mon père est un soldat, je suis une vachère.
+Notre chute profonde et haute nous est chère.
+Ah ! Lui peut s'appuyer aussi sur mon honneur !
+Mon père est en dépôt dans mes mains. Son bonheur
+Est mon devoir. Je sais que je dois être forte.
+Je suis le seul débris de sa famille morte ;
+Il n'a que moi. Vivez, vous les hommes dorés !
+Oui, mes vaches, je vais les traire dans les prés.
+J'aime leurs grands yeux bleus qu'on dirait pleins d'un rêve ;
+Elles donnent leur lait à vous tous ; je me lève
+De grand matin, je cours, je saute les fossés,
+Je me mouille les pieds dans l'herbe ; je ne sais
+Si le roi Frédéric combat l'empereur Charles ;
+Mais elles, dans les champs, m'attendent ; je leur parle ;
+Chacune semble heureuse et gaie en m'écoutant ;
+Elles lèchent mes mains, et j'ai le coeur content
+Dans la grande nature, et loin de vos chimères,
+Moi bonne fille, avec toutes ces bonnes mères.
+[LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Je ne sais pas pourquoi je tremble comme un sot.
+Serais-je un honnête homme à mon insu ? L'assaut !
+Vite ! Donnons l'assaut.[
+Haut à Nella.
+]{.italic} Que diriez-vous, madame,
+D'un prince qui voudrait vous apporter son âme,
+Son rang, ses millions, son nom grand et vainqueur ?[
+NELLA]{.bold}.
+Le nom est quelquefois le contraire du coeur ;
+Nom auguste, esprit vil ; nom obscur, âme illustre.
+Parfois le pâtre est prince et le monarque est rustre.
+Ici c'est l'ombre. On n'a pas vu, dans ce manoir,
+De princes, et l'on trouve inutile d'en voir,
+Et j'ai toujours pensé, quant à moi, qu'une altesse,
+C'était de la grandeur, mais de la petitesse.
+[LE DUC GALLUS]{.bold}, [à part.]{.italic}
+Brusquons.[
+Haut.
+]{.italic} Vous devez, car il faut bien être heureux,
+Avoir un amant.
+[NELLA]{.bold}, [le regardant fixement.]{.italic}
+Moi \![
+LE DUC GALLUS]{.bold}.
+Pardon. Un amoureux.[
+NELLA]{.bold}.
+De quoi vous mêlez-vous ? Venez-vous des étoiles
+Pour oser regarder l'âme à travers ses voiles !
+Si j'aime, mon amour s'ajoute à mon orgueil.
+Il est pur, grave et fier, et ma mère au cercueil
+Le sait, en attendant que mon père le sache.
+L'innocence se voile et la faute se cache.
+Je ne me cache pas. Aimer est ma grandeur.
+Mon secret est sans honte et n'est pas sans pudeur.
+Mon coeur cherche la nuit, mais ne craint pas le blâme.
+L'oeil de Dieu reste ouvert dans l'ombre de mon âme.
+Le duc veut parler. Elle lui impose silence du geste.
+Je comprends. Une fille est chez un paysan.
+On se dit : allons-y.[
+Elle lui montre la porte.
+]{.italic} C'est bien. Allez-vous-en.[
+Le duc se lève.
+]{.italic} On n'entre pas ici par une ligne courbe.
+Ah ! Je sais distinguer le coeur vrai du coeur fourbe.
+L'ange et le tentateur n'ont pas la même voix ;
+Le loup n'est pas le chien fidèle ; et dans les bois
+Le chant du rossignol n'est pas le cri du merle.[
+LE DUC GALLUS]{.bold}.
+Je cherche un grain de mil, et je trouve une perle.
+Attrapé.[
+NELLA]{.bold}.
+Sortez.[
+LE DUC GALLUS]{.bold}.
+Mais...[
+A part]{.italic}.
+Je suis chassé.
+[Entre Georges par la brèche, essoufflé, sans voir le duc.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_7}
+
+### [[Scène IV]{.bold}]{.calibre_51} {#scène-iv .calibre_50}
+
+::: calibre_52
+
+
+[[
+GEORGES, LE BARON D'HOLBURG, NELLA]{.italic}]{.calibre_28}
+
+[[
+GEORGES]{.bold}.
+J'accours.
+C'est moi. Pour peu d'instants, et des instants bien courts !
+J'en profite. Je viens. Ah ! Loin de vous, que faire ?
+Puis-je entrer ?
+[NELLA]{.bold}, [à part.]{.italic}
+Grand Dieu ! Georges ! Et cet homme \![
+Le baron d'Holburg paraît à la porte du fond ; vieux, en habit de soldat, avec une souquenille de laboureur.
+]{.italic} Et mon père \![
+]{.bold} Je tremble.[
+]{.bold}
+[LE BARON D'HOLBURG]{.bold}, [apercevant le duc.
+]{.italic} Un étranger \![
+NELLA]{.bold}, [au baron d'Holburg.]{.italic}
+Montrant le duc.
+Je lui dis de sortir.[
+LE DUC GALLUS]{.bold}, [au baron d'Holburg.]{.italic}
+C'est vous le père ? Eh bien, je dois vous avertir
+Que ces deux jeunes gens s'aiment.[
+Il montre Georges.
+]{.italic} [GEORGES]{.bold}.
+Quel est cet homme ?[
+NELLA]{.bold}.
+Ciel !
+[GEORGES]{.bold}, [au duc.]{.italic}
+Qu'êtes-vous, monsieur ? Sachez que je me nomme Georges.
+[LE DUC GALLUS]{.bold}.
+C'est bon. On sait mieux que vous votre nom.[
+S'adressant au baron d'Holburg stupéfait.
+]{.italic} Quand vous tournez le dos, ce jeune compagnon
+--- le scrupule aux amants ne pèse pas une once, ---
+Vient voir mademoiselle, et je vous les dénonce.
+Je viens d'être témoin d'un de leurs rendez-vous.[
+GEORGES]{.bold}.
+Quel est cet espion ?[
+LE DUC GALLUS]{.bold}, [continuant. Au baron d'holburg.]{.italic}
+Monsieur fait les yeux doux.
+Mademoiselle, avec réserve, les accepte.[
+]{.bold}
+[LE BARON D'HOLBURG.
+]{.bold} Ma fille ! Est-il possible \![
+LE DUC GALLUS]{.bold}.
+Il faudrait être inepte
+Pour ignorer qu'avril est le mois des amours,
+Que la douceur des nuits suit la beauté des jours,
+Qu'un souffle est dans les bois, qu'il faut que tout renaisse,
+Que c'est la volonté de Dieu que la jeunesse
+Sente la pression amoureuse du ciel,
+Qu'avoir vingt ans oblige, et qu'il est naturel
+Qu'un baiser, envié par les nids du burg sombre,
+Tombe sur le bras blanc qu'on entrevoit dans l'ombre.
+[NELLA]{.bold}, [rougissante et suppliante.]{.italic}
+Monsieur...
+[LE DUC GALLUS]{.bold}, [poursuivant. Au baron.]{.italic}
+Moi je suis là, je passe, j'aperçois,
+Je viens vous informer du fait.
+[GEORGES]{.bold}, [au duc.]{.italic}
+Qui que tu sois,
+Ce que tu viens de dire, entends-tu, c'est l'épée,
+La dague et le poignard, l'herbe de sang trempée,
+Sans quartier, tout de suite, et j'en fais le serment,
+Et regarde-moi bien en face fixement,
+Tu te rétracteras syllabe par syllabe !
+Ton nom ?[
+LE DUC GALLUS]{.bold}.
+Je suis Gallus, landgrave de Souabe,
+le frère du feu duc régnant Georges premier.
+L'aigle à deux têtes prend son vol sur mon cimier.
+L'Allemagne n'a pas de famille plus grande.
+Il salue profondément le baron.
+Et, monsieur le baron d'Holburg, je vous demande
+En mariage ici votre fille Nella
+Pour mon neveu le duc Georges deux
+[montrant Georges.
+]{.italic} Que voilà.]{.calibre4}
+
+[[
+4 janvier 1869.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+[
+]{.calibre_66}
+
+### [[II--Esca]{.bold}]{.calibre_18} {#iiesca .calibre_48}
+
+[Drame]{.calibre_10}
+
+[[!{.calibre3}
+« L'abîme »]{.italic}]{.calibre_28}
+
+[[]{.italic}]{.calibre_28}
+
+[[GALLUS, LISON, LE BARON GUNICH, HAROU, paysan, UN PAGE, UN NÈGRE, VALETS]{.italic}]{.calibre_28}
+
+[[]{.italic}]{.calibre_28}
+
+[[Dans un bois.]{.italic}]{.calibre_10}
+
+
+[
+]{.calibre_7}
+
+### [[Acte Premier. Lison]{.bold}]{.calibre_51} {#acte-premier.-lison .calibre_50}
+
+::: calibre_52
+
+
+[
+[Une route sur le versant d'une colline boisée. La colline monte et occupe le fond du théâtre. La route passe au premier plan, tourne, puis reparaît au second plan à mi-côte parmi les arbres où elle se perd. En bas, à droite, une maisonnette couverte de chaume, très propre et très pauvre. Un court sentier de traverse, qui n'a que quelques enjambées, sur le talus de la colline, met en communication le tronçon de route du premier plan avec le tronçon du deuxième plan. Gros arbres çà et là autour de la maison. Devant la maison, sous un arbre et dans un massif de roses, une source encadrée d'une margelle de grosses pierres frustes. La cabane, très basse, n'a qu'un rez-de-chaussée. Au lever du rideau, deux voitures cheminent sur la route ; l'une, sur le tronçon supérieur, est une charrette chargée de fumier, attelée d'un âne et menée par un paysan en blouse juché sur le fumier ; l'autre, sur le tronçon inférieur, au premier plan, est un coche de voyage et de gala, tout doré, blasonné d'armoiries, surmonté d'une couronne princière, avec glaces, et intérieur de satin, traîné par quatre chevaux empanachés, harnachés de bossages d'or, avec postillons et laquais. Dans la voiture est Gallus. On aperçoit Gunich dans le compartiment du devant. La porte de la chaumière est fermée ; la fenêtre est ouverte. Une jeune fille, dans le demi-désordre d'une toilette commencée, se peigne devant la fenêtre. C'est Lison. On voit l'intérieur d'une chambre indigente. Beau soleil. Printemps.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[[Scène première]{.italic}]{.bold}]{.calibre_65} {#scène-première .calibre_64}
+
+::: calibre_52
+
+
+[[
+GALLUS, LISON, HAROU, NAIN]{.italic}]{.calibre_28}
+
+[
+[GALLUS]{.bold}, [se penchant à la portière du carrosse.]{.italic}
+Oh ! La charmante fille \![
+LISON]{.bold}, [se penchant à la fenêtre de la chaumière.]{.italic}
+Oh ! La belle voiture !
+[Le carrosse passe et disparaît à droite. La charrette s'arrête. Harou en descend, son fouet à la main. Il dégringole par le sentier qui abrège, court à la chaumière et frappe à la porte d'un coup de sabot. Il a son fouet à la main.
+]{.italic} [HAROU]{.bold}.
+Il est neuf heures.
+[LISON]{.bold}, [par la fenêtre.]{.italic}
+Ah ! C'est vous.[
+HAROU]{.bold}.
+Oui, ma future.[
+LISON]{.bold}.
+C'est bon.
+[Elle jette un fichu sur ses épaules nues, et elle ouvre la porte.
+Harou entre.
+]{.italic} [HAROU]{.bold}.
+Vous n'êtes pas encore prête ?[
+LISON]{.bold}.
+Pardi \![
+HAROU]{.bold}.
+Mais monsieur le curé nous attend à midi.[
+LISON]{.bold}.
+Bien.[
+HAROU]{.bold}.
+L'autel est paré. C'est comme aux grandes fêtes.[
+LISON]{.bold}.
+Bon.[
+HAROU]{.bold}.
+De cette cabane isolée où vous êtes,
+Jusqu'à l'église...[
+LISON]{.bold}.
+Eh bien ?[
+HAROU]{.bold}.
+C'est encore loin. Allons,
+Vite. Habillez-vous.[
+LISON]{.bold}.
+Oui.[
+HAROU]{.bold}.
+J'aurai deux violons.[
+LISON]{.bold}.
+Bien.[
+HAROU]{.bold}.
+Je vais décharger mon fumier, puis je rentre
+Vous prendre en ma charrette avec Thibaut, le chantre.[
+LISON]{.bold}.
+Soit.[
+HAROU]{.bold}.
+Mamz'elle Lison...[
+LISON]{.bold}.
+Dites Lisa.[
+HAROU]{.bold}.
+Lisa.
+Vous êtes vertueuse, et c'est pour ça.[
+LISON]{.bold}.
+Pour ça,
+Que quoi ?[
+HAROU]{.bold}.
+Que je vous aime et que je vous épouse.
+Vous avez du bonheur, hein ? Plus d'une est jalouse.
+Vous sentez bien que moi qui suis un gros fermier,
+Ayant acquêts et baux francs de droit coutumier,
+C'est à qui m'aura. Vous, vous êtes sans famille.
+Être madame Harou, quel sort pour une fille !
+Avoir six cents arpents de blé, trois cents de foin !
+Et dire, en regardant tout le pays très loin :
+C'est à moi ! Voyez-vous, vous êtes orpheline,
+Pas un brin d'herbe n'est à vous sur la colline,
+Et vous êtes sans dot comme la fleur des champs.
+Cela n'amuse pas les gens qui sont méchants
+De voir que je vous prends pour femme, ça les fâche.
+Vous n'étiez qu'une pauvre ouvrière à la tâche,
+Seule, et dont les parents sont morts sur des grabats,
+Gagnant six sous par jour à ravauder des bas.
+Vous allez devenir bourgeoise, et cette chambre
+Où vous gelez, pas vrai, dès le mois de novembre,
+Vous l'allez changer contre un bon logis, ma foi,
+Où vous serez chez vous bien qu'en étant chez moi,
+Et d'où vous pourrez voir la mare avec les vignes,
+Et des canards si gros qu'on les prend pour des cygnes !
+Ah ! Les commères font du train ! Moi, bon luron,
+Tout ce tas d'oiseaux noirs qui bat de l'aileron,
+Parce qu'elles voudraient être ce que vous êtes,
+Me fait rire. Piaillez, mesdames les chouettes !
+Quand demain, bras dessus dessous, nous passerons,
+Cela fera sortir du trou leurs gros yeux ronds.
+Ca sera farce. Et vous, vous prendrez un air crâne,
+Vous direz : ma maison, mon champ, mon pré, mon âne.
+Et puis du cidre ! Et puis du pain, plein le buffet !
+Moi, j'ai de l'amitié pour vous. C'est ce qui fait
+Que j'épouse. Sur vous, du reste, rien à dire.
+Vous n'avez qu'un défaut, c'est que vous savez lire.
+Moi pas. Ah ! Par exemple, il faudra travailler.
+Étant maîtresse, on est servante. S'éveiller
+Au chant du coq, couper le seigle ou la fougère,
+Être bonne faucheuse et bonne ménagère,
+Manier gentiment la fourche à tour de bras,
+Laver les murs, laver les lits, laver les draps,
+Donner à boire aux gars ayant au dos leurs pioches,
+Blanchir l'âtre, écumer le pot, moucher les mioches,
+Porter, si le chemin est long et raboteux,
+Ses souliers à la main, les pieds s'usant moins qu'eux,
+Et vivre ainsi pieds nus et riche, heureuse en somme
+D'être une brave femme et d'avoir un brave homme.
+Nos bans sont publiés. Je vous ai fait cadeau
+D'un parapluie, afin que, s'il tombe trop d'eau,
+On ne s'en serve point, parce qu'il est en soie.
+Et nous nous marions tantôt. Vive la joie !
+Donc, mamz'elle, à midi, l'église à minuit...[
+Il fait claquer ses doigts.]{.italic}
+--- bien !
+Vous êtes un peu maigre. Ah ! Cela ne fait rien.
+En mangeant du gigot, de la soupe bien chaude,
+Du lard, avec le temps vous deviendrez rougeaude.
+La viande, voyez-vous, c'est ça qui fait la chair.
+Vous étiez mal nourrie. Au fait, tout est si cher !
+Le moyen qu'une fille, en mangeant peu, soit belle !
+Sans chardon, l'âne geint. Sans pré, le mouton bêle.
+Nous serons très heureux. Moi, j'aurai soin des boeufs,
+Vous des cochons. Des fois, l'étable, c'est bourbeux,
+Dame, on pataugera dans la paille mouillée.
+Bah \![
+LISON]{.bold}, [à part.]{.italic}
+On nous a souvent, le soir, à la veillée,
+Dit des contes de fée où l'on voit qu'au printemps
+Il arrive parfois aux filles de vingt ans
+De trouver au milieu de leur chambre un jeune homme
+Portant un astre au front, qui leur dit : je me nomme
+Le prince Azur, je t'offre un palais où tout rit,
+Chante et danse, je t'aime, et je suis un esprit.[
+Considérant maître Harou.]{.italic}
+Ce n'est pas ça.[
+HAROU]{.bold}.
+Je veux vous donner douze, oui, douze !
+Chemises en bon fil.
+Montrant sa manche.
+Pareilles à ma blouse.
+[LISON]{.bold}, [à part.]{.italic}
+En toile à torchon \![
+HAROU]{.bold}.
+Moi...
+[Gallus et Gunich, enveloppés de manteaux, passent au fond du théâtre et s'arrêtent derrière les arbres, en observation.]{.italic}[
+LISON]{.bold}.[, regardant Harou et reculant.
+]{.italic} Quelle odeur \![
+HAROU]{.bold}.
+Moi, fermier,
+Je...[
+LISON]{.bold}.
+Que sentez-vous donc ? Pouah \![
+HAROU]{.bold}.
+Rien. C'est le fumier.
+ça ne sent pas mauvais.[
+Il s'approche d'elle galamment.]{.italic}
+Vous n'êtes pas commode.
+J'aime ça. L'autre jour, j'ai, puisque c'est la mode,
+Voulu vous embrasser, moi mauvais chenapan,
+Mais vous m'avez donné juste en plein museau, pan !
+Une pichenette ! Ah ! Comme vous m'attrapâtes !
+[
+Il rit et cherche à l'embrasser ; elle recule.
+]{.italic} [LISON]{.bold}, [le repoussant.]{.italic}
+Ah ! Pardon. Vous avez des mains !
+[HAROU]{.bold}, riant plus fort.
+De bonnes pattes,
+Hein ?[
+Il rit et étale ses mains.
+]{.italic} ça travaille.[
+Il les retourne toutes hâlées des deux côtés.
+]{.italic} C'est de la bonne noirceur.
+[Lison se remet à se peigner.
+]{.italic} [LISON]{.bold}.
+Dire que je n'ai pas une mère, une soeur,
+Pour m'habiller le jour de ma noce \![
+HAROU]{.bold}.
+L'usage
+Est qu'une du pays lace votre corsage.[
+LISON]{.bold}.
+Je ne veux de personne.[
+HAROU]{.bold}.
+Oui. Vous êtes ainsi.
+Quelle sauvage humeur de vous loger ici !
+Seule, en cette cabane au bout de la vallée \![
+LISON]{.bold}.
+J'ai ce choix : ici seule ; au village isolée.
+Étant pauvre, on n'a pas d'amis, et j'aime mieux
+Voir le désert au fond des bois qu'au fond des yeux.[
+HAROU]{.bold}.
+Vous avez un parler trop haut, ça vient, je gage,
+Des livres. Quand on lit, ça gâte le langage.
+Mais j'y mettrai bon ordre. Ah ! Dans le temps ancien...
+[LISON]{.bold}, [pensive et regardant un livre qui est sur sa table.]{.italic}
+En fait de livre ici, je n'ai qu'un paroissien.[
+A part.
+]{.italic} Savoir lire, à quoi bon ? Pour lire de la messe !
+Fi !
+[HAROU]{.bold}, [faisant claquer son fouet.]{.italic}
+Je serai le maître, et j'en fais la promesse.[
+Il rit.
+]{.italic} Çà, pour vous épouser il faut que je sois fou,
+Moi qui suis riche, et vous qui n'avez pas le sou ;
+Mais l'homme est un nigaud que la femme ensorcelle,
+Hein, mam'zelle Lison ?[
+LISON]{.bold}.
+Dites mademoiselle Lisa.[
+A part.
+]{.italic} Grossier pain bis, va \![
+HAROU]{.bold}.
+Convenablement,
+Je suis moins que mari, mais je suis plus qu'amant.
+Un baiser.
+[
+Il s'approche. Elle le repousse vivement.[
+]{.bold}]{.italic} [LISON]{.bold}.
+Jamais !
+[HAROU]{.bold}, [éclatant de rire.]{.italic}
+Oh ! Jamais \![
+Il regarde à une grosse montre d'argent qu'il a sous sa blouse.
+]{.italic} Çà, je babille.
+Il faut vous habiller. Il faut que je m'habille.[
+LISON]{.bold}, [le regardant de côté.]{.italic}
+Je crois que pour cravate il a sa corde à puits.[
+HAROU]{.bold}.
+Faire un brin de toilette est nécessaire, et puis,
+Vous, pendant ce temps-là, mademoiselle Lise,[
+Avec un clin d'oeil.]{.italic}
+--- Est-ce ça ? --- parez-vous. Puis, en route, à l'église,
+gens de la noce ! --- et puis, ce soir,[
+Avec un geste galant qui l'effarouche.]{.italic}
+Plus de fichu !
+[Il fait claquer son fouet. Il escalade le sentier, rejoint la route d'en haut, remonte dans la charrette et s'assoit sur le fumier. Il crie.
+]{.italic} Je vais venir vous prendre en ma voiture. --- hu !
+[LISON]{.bold}, [seule.]{.italic}
+[Elle ôte son fichu, et n'a plus que sa chemise et un jupon. Elle divise et natte ses cheveux.
+]{.italic} C'est là le malaisé. Je suis une rêveuse.[
+Elle ouvre un tiroir de commode.]{.italic}
+Habillons-nous.
+[Elle prend dans la commode quelques hardes, et s'arrête.
+]{.italic} Ma tête est obscure, et se creuse.
+Dire que je n'ai pas encore pris mon parti \![
+Elle tire de la commode une coiffure de mariée en fleurs d'oranger.
+]{.italic} Souvent d'un oui, d'un non, on s'est bien repenti.
+Dans une heure il sera trop tard.[
+Elle déplie une robe de grosse laine neuve, propre et laide.
+]{.italic} L'ennui me ronge !
+[Elle met sur un escabeau une paire de gros souliers de femme, neufs.
+]{.italic} Pas de destin auquel on ne préfère un songe \![
+Elle regarde la robe, les souliers et les fleurs d'oranger.
+]{.italic} Que faire ?[
+Elle se remet à natter ses cheveux.
+]{.italic} Ce bouvier est honnête. --- et hideux.[
+Elle les roule en tresse.
+]{.italic} Lui, soit.[
+Elle les rattache en couronne sur sa tête.
+]{.italic} J'avais pourtant rêvé le ciel à deux \![
+Elle interrompt sa toilette et médite.
+]{.italic} Aimer, comme c'est bon ! S'idolâtrer sans cesse !
+Et n'être pas trop pauvre ! Ah ! C'est beau, la richesse !
+La vraie ! En plein. Oui, tout ! Pas l'épaisse façon
+D'être riche à peu près qu'a ce pauvre garçon.
+Sa femme ira pieds nus. Les souliers s'usent, dame !
+Moi, je consens très bien aux pieds nus de la femme,
+A la condition du tapis de velours.
+Et ces poignets ! Ces gens de campagne sont lourds !
+Il faut, pour cet hymen de l'âme avec l'étoile
+Qu'on nomme Amour, un lit, pas en trop grosse toile,
+Un nuage où l'on flotte, on ne sait quel vivant
+Char d'aurore emporté par le rêve et le vent,
+Et pas plus de travail que l'oiseau sur la branche \![
+Pensive.]{.italic}
+L'oeil est d'autant plus doux que la main est plus blanche.
+L'amour, dit l'Amadis de monsieur de Tressan,
+C'est la vie. Et je hais le parler paysan.
+Ouvrière. Orpheline. Oh ! Je songe, et Dieu laisse
+Entrer dans mon oeil trouble un regard de duchesse,
+Et j'ai des visions folles, plaire, charmer,
+Être libre, être belle, être adorée ! Aimer \![
+Elle se remet à sa toilette. Elle prend la coiffure de mariée et regarde les quatre murs de sa chambre.
+]{.italic} Je n'ai pas de miroir, tant je suis misérable \![
+Elle sort de la chaumière, et va au puits de la source.
+]{.italic} Si Dieu n'avait pas mis cette eau sous cet érable,
+Je n'aurais pas moyen de me coiffer, vraiment.[
+Elle se mire dans l'eau, tout en ajustant sa coiffure.]{.italic}
+La fleur d'oranger. Peuh ! --- la rose, c'est charmant.[
+Elle ôte le bouquet d'oranger, cueille une rose dans le rosier, et la met dans ses cheveux. Elle se mire.
+]{.italic} Pauvre, ou ce mariage. Ah ! La ressource est dure.[
+Elle ôte la rose et la regarde pensive.
+]{.italic} Une fleur, ça se fane.
+[Gallus, derrière elle et sans qu'elle le voie, sort à moitié du massif qui entoure la source, avance le bras, et lui pose un épi de diamants dans les cheveux.
+]{.italic} [GALLUS]{.bold}, [à demi-voix.]{.italic}
+Un diamant, ça dure \![
+Il rentre vivement dans le massif.
+]{.italic} [LISON]{.bold}, [se retournant.]{.italic}
+Hein ? On a parlé.[
+Elle regarde.
+]{.italic} Non. Personne.[
+Elle se mire dans la source.
+]{.italic} Ah ! Dieu, mon Dieu !
+Qu'ai-je au front ?[
+Elle se redresse effarée.
+]{.italic} Qui m'a mis cela ?[
+Elle se mire de nouveau.
+]{.italic} Qu'est-ce ? Du feu ?
+Ça doit brûler ! --- je n'ose y toucher.[
+Relevant la tête.
+]{.italic} Je suis bête.
+C'est cette eau qui me trompe et qui met sur ma tête
+Un reflet de soleil. Ce que c'est que d'avoir
+Une source au milieu d'un bois pour tout miroir \![
+Elle se retourne. Un grand miroir de Venise ovale, encadré de vermeil ciselé, apparaît devant elle dans le massif.
+]{.italic} Ciel \![
+Stupéfaite, elle regarde le miroir. Elle porte la main au bouquet de diamants qu'elle a sur le front.
+]{.italic} Ah ! Les reines sont de la sorte coiffées \![
+Elle regarde le miroir.
+]{.italic} Est-ce que par hasard il passe un vol de fées
+Qui s'est venu poser sur les branches du bois ?[
+Elle regarde sa coiffure de diamants.
+]{.italic} Ai-je peur ? Non. J'ai fait ce rêve bien des fois.
+Autour de moi tout tremble et devient ineffable.[
+Elle approche du miroir. Elle aperçoit un petit être, espèce de nain ou d'enfant, vêtu de satin blanc glacé vert, qui porte le miroir et le lui présente, et qui disparaît presque derrière, tant il est petit et tant le miroir est grand.
+]{.italic} [LISON]{.bold}, [admirant l'enfant.]{.italic}
+Qu'il est joli \![
+Elle le considère sans crainte et comme apprivoisée à l'aventure.
+]{.italic} C'est ça ! Le nain ! C'est une fable
+qui m'arrive.[
+Elle l'admire.
+]{.italic} Il est fée. Es-tu fée ? Oui, pour sûr !
+Quelle est ta reine ?
+[LE NAIN.
+]{.bold} Vous, madame.
+[LISON]{.bold}, [reculant.]{.italic}
+C'est obscur,
+Mais charmant. Suis-je en vie ? Oh ! L'extase m'accable.
+Suis-je morte ?[
+Pendant qu'elle regarde le nain, le miroir et l'épi de diamants sur sa tête, un collier vient se poser sur sa gorge et sur ses épaules nues.
+Elle s'écrie.
+]{.italic} Un collier tout en perles \![
+Elle se retourne et voit un nègre. Ce nègre vient de sortir du massif, et c'est lui qui lui a agrafé le collier au cou, sans être aperçu d'elle. Il est vêtu de velours feu. Lison le regarde, pas effarouchée]{.italic}.
+Le diable ! Je comprends.
+[
+On entend une musique sous les arbres et une vague chanson murmurée qui semble chantée au loin par des passants invisibles.
+]{.italic} [CHANSON
+]{.bold} --- les lutins --- dans les thyms --- les hautbois ---
+dans les bois --- les roseaux --- dans les eaux --- ont des voix. ---
+donc faisons --- des chansons --- et dansons. --- l'aube achève ---
+notre rêve --- et l'amour --- c'est le jour. ---
+[LISON]{.bold}, [pâmée et fascinée.]{.italic}
+Je suis Ève \![
+Une fumée se disperse dans les branches.
+]{.italic} Qu'est-ce que cet encens dans l'ombre répandu ?
+Je sens comme une odeur de paradis.[
+GALLUS]{.bold}, [paraissant.]{.italic}
+Perdu.
+Enfin ! Je tiens mon rêve !
+[Gallus, sorti du massif, laisse tomber son manteau. Il apparaît vêtu de brocart d'or de la tête aux pieds, avec son cordon bleu et sa plaque d'ordres. Il a sur la tête un panache couleur feu. Il se dresse devant Lison.
+]{.italic} [LISON]{.bold}.
+Un homme fait de flamme !
+[
+On aperçoit dans les arbres Gunich au guet, caché par l'ombre du bois.
+]{.italic} [GALLUS]{.bold}, [immobile, l'oeil fixé sur Lison.
+À part.
+]{.italic} D'abord disons-lui tu. Le bonheur de la femme
+Est d'être tutoyée, et son autre bonheur
+Est, quand on lui dit tu, de dire Monseigneur.[
+Il hésite et hoche la tête.
+]{.italic} Mais diantre ! Tutoyer, c'est brusquer. C'est du style
+Bien familier. La nuit est l'intervalle utile.
+L'amour dit vous le soir et dit tu le matin.[
+Il se décide.
+]{.italic} Nuances qu'elle doit ignorer.
+[La regardant et l'admirant.]{.italic}
+Quel butin \![
+Haut à Lison]{.italic}.
+Que désires-tu ? Parle, et ne sois pas modeste.
+Je viens combler tes voeux.[
+LISON]{.bold}, [maintenant effrayée. Avec une révérence tremblante.]{.italic}
+Monseigneur Satan...[
+GALLUS]{.bold}, [à part.]{.italic}
+Peste !
+C'est plus que je n'osais espérer.[
+LISON]{.bold}, [éperdue.]{.italic}
+Oui. Non. Si !
+Mais je suis toute nue, et c'est plein d'yeux ici.
+[Un manteau de velours pourpre lui tombe sur les épaules. C'est le nègre qui lui met ce manteau.
+]{.italic} [LISON]{.bold}.
+Monseigneur le démon...
+[LE DUC GALLUS]{.bold}, [souriant, à part.]{.italic}
+Elle accepte l'abîme.[
+Haut.
+]{.italic} Et d'abord, descendons de ce sommet sublime.
+Je ne suis pas Satan. Je suis un simple roi.
+Du moins j'étais cela l'an passé ; mais l'emploi
+M'ennuyait ; j'ai lâché le sceptre qui m'assomme ;
+Mais je suis encore prince, et même gentilhomme.
+Sultan, j'ai planté là le sabre et le turban.[
+LISON]{.bold}.
+Oh !
+[GALLUS]{.bold}, [souriant]{.italic}.
+Tu vois un monarque en rupture de ban.
+Je me refais aux champs une âme printanière,
+Et j'y viens à l'école. --- école buissonnière.
+Sois ma maîtresse.
+[LISON]{.bold}, [effarouchée.]{.italic}
+Moi \![
+GALLUS,]{.bold} [souriant.]{.italic}
+D'école. Belle, il sied
+D'expliquer tout. Ce nègre est mon valet de pied.
+J'ai toujours avec moi ma musique de chambre,
+Et, même dans les bois, je fais brûler de l'ambre.[
+Il montre la fumée d'encens dans les arbres.
+]{.italic} De là vient cette odeur de sainteté. Ce nain,
+Diabolique à peu près, tant il est féminin,
+Est un de mes laquais. J'ai de plus dans ma suite
+Un rimeur qui me dit la messe, étant jésuite ;
+Ce maroufle est chargé de me faire mes vers.
+J'en fais moi-même aussi parfois. J'ai pour travers
+De rire, et de vouloir qu'autour de moi l'on rie.
+Je me fabrique un peu d'aurore et de féerie.
+Je voyage en nabab de l'Inde, et mes fourgons,
+Que Médée aurait fait traîner à ses dragons,
+Contiennent en décors de quoi jouer Armide ;
+Je ne suis pas méchant, mais ne suis pas timide.
+Qu'on nous donne un hallier, de l'ombre, et caetera,
+Et nous improvisons d'emblée un opéra.
+Je suis riche, et j'ai pu, grâce à mes viles piastres,
+Te mettre sur la tête une coiffure d'astres,
+Ô belle, et te rouler une rivière au cou.
+C'est là le réel. Point de rêve. Rien de fou,
+Tout est simple, et la fable en vérité s'achève.[
+LISON]{.bold}, [comme somnambule et l'oeil égaré.]{.italic}
+Ce réel est déjà très joli comme rêve.[
+GALLUS.
+]{.bold} Fantastique grenier d'un palais incertain,
+Le rêve est le cinquième étage du destin,
+Et la réalité, c'est le rez-de-chaussée.
+Restons en bas. Je suis un prince ; ma pensée,
+C'est de jouir ; je vais, tâchant de peu vieillir.
+Suis-je un songe-creux ? Non. Mais je voudrais cueillir
+Le divin rameau d'or où l'oiseau bleu se perche.
+L'homme ayant égaré le bonheur, je le cherche.
+Comment t'appelles-tu ?[
+LISON]{.bold}.
+Monseigneur...
+[GALLUS]{.bold}, [la contemplant. --- à part.]{.italic}
+C'est vraiment mon idéal. Le diable a fait évidemment
+Tant de perfections pour y loger des vices.
+Une telle rencontre est un des grands services
+Que peut rendre l'enfer à quelqu'un d'ennuyé.
+Elle a tout. Front pensif, air sauvage, oeil noyé,
+Bouche à dents de souris qui doit haïr le jeûne,
+Mains qui doivent haïr le vil travail.
+[LISON]{.bold}, [revenant peu à peu à la réalité. --- à part.]{.italic}
+Pas jeune.
+Ce n'est pas encore ça.[
+Le regardant en dessous.
+]{.italic} Tout doré. De beaux yeux.
+Plus de jeunesse avec moins de dorure est mieux.
+Mais il a l'air d'avoir bien de l'esprit.[
+GALLUS]{.bold}.
+Jolie comme la trahison et comme la folie !
+Ce petit pied, ce bras exquis, convenons-en,
+Cela n'était pas fait pour rester paysan.
+[Lison se rapproche du miroir et considère son manteau de velours et d'hermine.
+Il la regarde se mirer.
+]{.italic} Elle sera perverse en étant bien conduite.
+Rien qu'à la voir songer, j'ai compris tout de suite
+Qu'en cette fille pauvre et coquette j'avais
+Un bon assortiment de tous les goûts mauvais.
+Volupté, vanité, toilette, argent, paresse.
+De son ongle déjà le diable la caresse.
+Croquons-la. Cette fois, je me crois bien tombé.
+Une faunesse exquise et digne d'un abbé !
+[
+Il s'approche d'elle avec une admiration passionnée.[
+]{.bold}]{.italic} [LISON]{.bold}, [regardant le duc fixement.]{.italic}
+Souvent le coeur est froid quand les yeux semblent ivres.[
+GALLUS.
+]{.bold} Comment sais-tu cela ?[
+LISON]{.bold}.
+Je l'ai lu dans les livres[
+GALLUS]{.bold}, [à part.]{.italic}
+Elle sait lire ! C'est une difformité.
+Ma sauvagesse sort de l'université !
+Une savante ! ça trouble mes conjectures.[
+Il réfléchit.
+]{.italic} Tout se répare avec un bon choix de lectures.
+Faublas. Crébillon fils.[
+Avec un haussement d'épaules.
+]{.italic} Aussi je lui trouvais
+Un certain air lettré...[
+LISON]{.bold}.
+Lire ! Est-ce donc mauvais ?[
+GALLUS.
+]{.bold} Non. Ne pas lire est mieux. Une fille n'est faite
+Que pour être jolie et tout changer en fête.
+Le temps qu'on donne au livre on le prend à l'amour.
+Aucun livre ne vaut un baiser.[
+A part.
+]{.italic} Quel sot tour
+On m'a fait là, d'apprendre à lire à cette fille !
+L'ignorance est sur l'âme une charmante grille,
+Qu'il est fort amusant d'entrouvrir lentement.[
+Nouveau haussement d'épaules, comme quelqu'un qui prend son parti.
+Il se tourne vers elle.
+]{.italic} Crois-moi d'abord en tout. C'est le commencement.[
+LISON]{.bold}.
+Je crois tout ce qu'on dit, à moins qu'on ne le jure.
+[GUNICH]{.bold}, [en observation au fond du théâtre. À part.]{.italic}
+Bon détail. Je mettrai ce mot dans ma brochure
+Sur les femmes.[
+GALLUS]{.bold}, [à Lison.]{.italic}
+Tu n'as toujours pas dit ton nom.[
+LISON]{.bold}.
+Elisabeth, qui fait Lise, ou bien Lisa.[
+GALLUS]{.bold}.
+Non.
+Moi je te nommerai Zabeth Te voilà née.
+Je coupe en deux ton nom comme ta destinée,
+Et tu t'appelleras la marquise Zabeth.[
+LISON]{.bold}.
+Marquise \![
+GALLUS]{.bold}.
+Je suis prince. Une étoile tombait,
+L'amour la ramassa. Cette étoile est la joie.
+Je serai ton esclave.[
+A part.
+]{.italic} Et tu seras ma proie.
+Soyons joyeux. Vivons. La vie est un gala.[
+LISON]{.bold}, [se regardant dans le miroir. À part.]{.italic}
+Oh ! Comme je suis belle avec ces choses-là \![
+A Gallus]{.italic}.
+Monsieur ! Reprenez tout \![
+GALLUS.
+]{.bold} Pourquoi ?[
+LISON]{.bold}.
+C'était pour rire, n'est-ce pas ?[
+GALLUS.
+]{.bold} Je l'entends bien ainsi.[
+LISON]{.bold}.
+Je me mire avec des diamants, et j'oublie, ah mon Dieu !
+Que je dois aujourd'hui me marier.[
+GALLUS.
+]{.bold} Parbleu, tu peux...[
+LISON]{.bold}.
+Dites-moi vous.[
+GALLUS.
+]{.bold} Madame la marquise, vous pouvez...[
+LISON]{.bold}.
+Laissez-moi ! Je suis la pauvre Lise.
+]{.calibre4}
+
+[[On entend un bruit de violons et le claquement d'un fouet dans la route d'en haut.]{.italic}[
+GALLUS]{.bold}.
+Votre voiture vient.[
+LISON]{.bold}.
+Cette charrette \![
+GALLUS]{.bold}.
+A moins que vous ne préfériez celle-ci.
+]{.calibre4}
+
+[[Paraît la voiture dorée à quatre chevaux revenant dans la route
+Basse par le côté d'où elle est sortie.[
+]{.bold}]{.italic} [GUNICH]{.bold}, [au duc. Du fond du théâtre.]{.italic}
+Sans témoins fuir serait aisé.[
+LISON]{.bold}, [à Gallus.]{.italic}
+Mais... --- à qui donc ce carrosse ?[
+GALLUS]{.bold}.
+A vous \![
+LISON]{.bold}.
+A moi !
+]{.calibre4}
+
+[[Le carrosse s'arrête. Gunich ouvre la portière. Gallus abat le marchepied et y fait monter Lison éperdue.
+]{.italic} [GALLUS.
+]{.bold} Viens, c'est... ta voiture de noce !]{.calibre4}
+
+[[
+]{.bold} [Tous sont dans le carrosse. La portière est refermée. Le carrosse part. Au moment où il sort, entre dans la route haute, du côté opposé, la charrette traînée par l'âne. On aperçoit dedans un groupe en tête duquel on voit Harou en habits de marié avec un gros bouquet, et deux violoneux qui jouent du violon.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_7}
+
+### [[]{.bold}]{.calibre_51} {#section .calibre_50}
+
+::: calibre_52
+
+
+### [[Acte Deuxième. La marquise Zabeth]{.bold}]{.calibre_51} {#acte-deuxième.-la-marquise-zabeth .calibre_50}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[[GALLUS, ZABETH, LE BARON GUNICH, LE DUC DE MONTBAZON, LE MARQUIS DE COCHEFILET, LE VICOMTE DE THOUARS, LORD EFFINGHAM, l'ABBÉ, LE DOCTEUR ? SILLETTE, fille de chambre, NANTAIS, laquais. GENTILSHOMMES, SEIGNEURS, VALETS.]{.italic}]{.calibre_28}
+
+[[
+À Paris.]{.italic}]{.calibre_28}
+
+[[Un boudoir avec tous les raffinements du luxe. C'est l'hiver. Feu dans la cheminée. Au fond une haute et large fenêtre par où l'on voit les arbres d'un parc, noirs et couverts de givre. Le boudoir est octogone. Aux deux pans coupés du fond, des deux côtés de la fenêtre, deux grandes portes dorées à deux battants. La porte de droite donne sur les appartements intérieurs, la porte de gauche donne sur les vestibules et les antichambres. Sur une crédence, un bouquet de fleurs exotiques rares ; à côté un écrin ouvert, montrant un fouillis de pierreries, posé sur un plat de vermeil. Sur une assiette de vermeil, un pli cacheté. La cheminée est à droite. En face, à gauche, une porte bâtarde, basse, dorée.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[[Scène première]{.italic}]{.bold}]{.calibre_65} {#scène-première .calibre_64}
+
+::: calibre_52
+
+
+[[
+SILLETTE, NANTAIS, ZABETH]{.italic}]{.calibre_28}
+
+[[[
+]{.italic}]{.bold} [Sillette range. Elle met l'écrin près du bouquet et l'expose très en vue. Nantais entrouvre un battant de la porte de gauche et passe la tête par l'entrebâillement. On entend une chanson dans la coulisse et un bruit de guitare.]{.italic}]{.calibre4}
+
+[
+[CHANSON AU DEHORS]{.bold}.
+Zon, zon, Suzon.
+On croit n'être que douze à table.
+Gibier fin, turbot délectable,
+Vins à foison.
+On n'est que douze, on est bien aise.
+Mais on est treize,
+Pas vrai, Suzon ?
+[SILLETTE]{.bold}[, apercevant Nantais.
+]{.italic} Laquais de Monseigneur, bonjour.
+[
+]{.italic} [FREDON]{.bold} [dans la coulisse.]{.italic}
+Zon zon, Suzon.[
+NANTAIS.
+]{.bold} Qui chante là ?[
+SILLETTE.
+]{.bold} L'Abbé, meuble de la maison.
+Ton maître va venir ?[
+NANTAIS]{.bold}.
+Moi d'abord. En personne.
+Puis lui. --- madame est là ?[
+SILLETTE.
+]{.bold} J'attends qu'elle me sonne.
+Voici divers objets pour elle.[
+Elle montre la crédence.]{.italic}
+Des bouquets.
+Des cadeaux. Apportés par différents laquais.[
+NANTAIS]{.bold}.
+Qui fait tous ces présents ?[
+SILLETTE]{.bold}.
+On ne sait.[
+NANTAIS]{.bold}.
+Tu l'ignores ?[
+SILLETTE.
+]{.bold} Sont-ce des financiers ? Sont-ce des monsignores ?
+Mystère. Tous les jours quelque présent nouveau.
+Une main s'ouvre, donne, et se cache.[
+NANTAIS.
+]{.bold} Bravo !
+C'est élégant. Sont-ils plusieurs ?[
+SILLETTE.
+]{.bold} Je le suppose.
+L'essaim des papillons flâne autour de la rose.[
+NANTAIS]{.bold}.
+Donner sans se montrer, c'est de bon goût.[
+SILLETTE.
+]{.bold} Ainsi tous les jours on nous fait de la musique ici.
+C'est un assez beau luxe à Paris. À ces arbres,
+Déjà pas mal ornés de grottes et de marbres,
+Tous les matins, à l'heure où le parc est désert,
+On ajoute la grâce aimable d'un concert.
+Qui paie ? On ne sait pas. Mais l'aubade est exquise.[
+NANTAIS.
+]{.bold} Et pendant ce temps-là madame la marquise...[
+SILLETTE.
+]{.bold} Dort. Madame est rentrée assez tard, des Bouffons,
+D'un bal, qui coûte au duc mille écus de chiffons,
+Ou de la comédie, ou du brelan, que sais-je ?
+Elle s'est attablée avec tout son cortège,
+Ayant sur son sofa son chat et son abbé,
+Puis on a voulu boire, et le punch a flambé,
+Elle a soupé, dansé, que c'est une folie,
+Elle a tout ce temps-là, mon cher, été jolie.
+Fatigue. Toujours rire, et vivre au paradis,
+Cela vous courbature. Et le matin, tandis
+Qu'elle sommeille, après ces peines infinies,
+Les hommes à madame offrent des symphonies
+Qu'elle n'entend pas même ; ils sont faits pour cela.[
+NANTAIS.
+]{.bold} Ces filles-là !
+[La porte à gauche vient de s'ouvrir. Zabeth paraît ; elle est enveloppée d'un surtout de satin et de fourrure, et elle a sa faille et son manchon. Elle écoute.
+]{.italic} [SILLETTE]{.bold}, [à Nantais.]{.italic}
+Silence. On vient.
+[ZABETH]{.bold}, [à part.]{.italic}
+Ces filles-là \![
+Haut, à Sillette]{.italic}.
+Ma chaise est-elle en bas ?
+[SILLETTE]{.bold}, [avec un signe affirmatif.]{.italic}
+Sous la porte cochère,
+A toute heure elle attend madame.[
+ZABETH]{.bold}.
+Bien, ma chère.
+Surtout n'oubliez pas mes ordres pour ce soir.[
+SILLETTE]{.bold}.
+Tout sera prêt, madame.[
+ZABETH]{.bold}.
+Ici, dans ce boudoir.
+[
+Nouveau signe d'obéissance de Sillette. Elle présente à Zabeth la lettre sur l'assiette de vermeil.
+]{.italic} [ZABETH]{.bold}.
+Qu'est-ce ?[
+Elle ouvre la lettre.
+]{.italic} Ah ! Des vers \![
+Elle met la lettre dans son manchon.[
+]{.bold}]{.italic} [SILLETTE]{.bold}.
+Voici des cadeaux qu'on apporte.
+[Zabeth regarde les fleurs et l'écrin avec distraction.
+]{.italic} [ZABETH]{.bold}.
+J'ai la migraine. Il faut qu'une heure ou deux je sorte.
+Si le duc vient, je vais rentrer.[
+A part
+]{.italic} Ces filles-là \![
+Elle sort par la porte opposée.
+]{.italic} [NANTAIS,]{.bold} [écoutant à la porte bâtarde.
+]{.italic} Elle part. L'autre arrive.
+[
+La porte bâtarde s'ouvre. Entrent Gallus et Gunich. Gallus en habit de soie mordorée. Cordon bleu et plaque. Sur un signe de Gunich, Sillette et Nantais se retirent par la porte du fond à droite.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[[Scène deuxième]{.italic}]{.bold}]{.calibre_65} {#scène-deuxième .calibre_64}
+
+::: calibre_52
+
+
+[[
+GALLUS, GUNICH, ZABETH]{.italic}]{.calibre_28}
+
+[
+[GALLUS]{.bold}.
+Et tu dis donc qu'elle a...
+Moi qui ne quitte point Zabeth...
+[GUNICH]{.bold}, [à part.]{.italic}
+Ce qui m'agace.
+[GALLUS]{.bold}, [continuant.]{.italic}
+Je n'en sais pas si long que toi, baron sagace.
+Combien d'amants dis-tu ?[
+GUNICH]{.bold}.
+Sans vous compter, déjà
+j'en ai vu sept ou huit passer. Cela changea
+comme un décor.[
+GALLUS]{.bold}.
+Combien de dettes ?[
+GUNICH]{.bold}.
+Elle achève
+son second million, je pense.[
+GALLUS.
+]{.bold} Bonne élève.[
+GUNICH]{.bold}.
+Et vous allez garder cette femme ?[
+GALLUS]{.bold}.
+Morbleu !
+C'est mon chef-d'oeuvre.[
+GUNICH]{.bold}.
+Mais...[
+GALLUS]{.bold}.
+C'est quand je gagne au jeu
+Que tu me dis : jetez les cartes. Je contemple
+mon ouvrage, et j'élève aux sept péchés ce temple,
+Zabeth. C'est peu vraiment qu'un million ou deux
+Pour une telle église offerte à de tels dieux.
+Zabeth me satisfait en tout. Je l'ai voulue fausse.
+[GUNICH]{.bold}.
+Elle triche au jeu.[
+GALLUS]{.bold}.
+Gourmande.[
+GUNICH]{.bold}.
+Elle est goulue.[
+GALLUS]{.bold}.
+Vaine.[
+GUNICH]{.bold}.
+Elle est folle.[
+GALLUS.
+]{.bold} Aimant l'amour.[
+GUNICH]{.bold}.
+C'est Astarté.[
+GALLUS]{.bold}.
+Prodigue.[
+GUNICH]{.bold}.
+Elle est avare.
+[GALLUS]{.bold} le regarde. Il insiste.
+Et met l'or de côté.
+Ah ! Vous réussissez \![
+GALLUS.
+]{.bold} Toi, tu la calomnies.
+Elle vaut mieux que toi.[
+GUNICH]{.bold}.
+Pour vous les gémonies
+Sont le vrai panthéon, ô grand prince railleur !
+Pour vous le mal est bien, et le pire est meilleur ;
+Pourtant, valet, je vois l'intérieur du maître ;
+Vous n'êtes pas mauvais, vous voulez le paraître.
+Jeu dangereux. Feu noir, dont on sent la cuisson
+Tôt ou tard.[
+GALLUS]{.bold}.
+Je m'amuse, ô cuistre, à ma façon.
+[
+Il fredonne.]{.italic}
+Qu'est-ce en somme que la femme ?
+Beaucoup de chair, un peu d'âme,
+Un éden entrebâillé,
+Un masque, un rêve, une fable,
+Un vaudeville du diable
+Auquel l'homme a travaillé.
+[ZABETH]{.bold}.
+L'outil, c'est la débauche.
+Je fais le monstre, moi, dont Satan fit l'ébauche.
+Et plein d'extase, ainsi que jadis Salomon,
+Je regarde sortir d'une perle un démon.[
+GUNICH]{.bold}.
+Vous m'avez l'air d'un homme amoureux.[
+GALLUS]{.bold}.
+Par exemple \![
+GUNICH]{.bold}.
+Dame ! C'est une idole.[
+GALLUS]{.bold}.
+Et l'athée à ce temple
+Construit par moi, c'est moi.[
+GUNICH]{.bold}.
+Vous vous vantez.[
+GALLUS]{.bold}.
+Jamais.
+Amoureux, moi ! Jamais. Je rirais, si j'aimais \![
+GUNICH]{.bold}.
+Non, mais vous feriez rire et seriez une altesse
+Fort compromise aux yeux des badauds de Lutèce.
+Comme avec un éclat de rire ils vous défont !
+Paris la bonne ville est très méchante au fond.
+Une altesse, elle mord dedans, elle en déjeune.
+Quelle chute pour vous si l'on vous trouvait --- jeune !
+Vous voilez votre coeur, vous sentant en danger,
+Ah ! Peste ! Vous le loup, de passer pour berger.[
+GALLUS]{.bold}.
+Un Bartholo ! Moi \![
+GUNICH]{.bold}.
+Non. Céladon. Grand modèle.[
+GALLUS]{.bold}.
+Quoi ! Zabeth \![
+GUNICH]{.bold}.
+Monseigneur ne peut se passer d'elle.
+Vous la traînez partout, cette madame-là.
+Cette Lison changée en marquise brilla
+Tout de suite, en jetant aux moulins sa cornette,
+Près de vous, comme auprès du soleil la planète.
+Bel astre. Et Monseigneur a je ne sais quel air
+De peu s'en soucier et d'en être très fier.
+Ces nuances-là, dont se compose l'églogue,
+Sont l'énigme du coeur humain.
+[GALLUS]{.bold}, [haussant les épaules.]{.italic}
+Idéologue !
+[GUNICH]{.bold}.
+Il vous la faut toujours, partout, car elle m'a
+Supplanté, cette dame, oui \![
+GALLUS]{.bold}.
+L'enfer te forma
+De la laideur de l'homme et de la jalousie
+De la femme.[
+GUNICH]{.bold}.
+Avouez, c'est une fantaisie,
+C'est un caprice, on peut aimer par accident,
+Convenez avec moi votre vieux confident
+Qu'elle égratigne un peu votre âme.[
+A part, ricanant.
+]{.italic} Une âme mûre \![
+GALLUS]{.bold}.
+Je n'ai point d'âme, oison, donc point d'égratignure.[
+GUNICH]{.bold}.
+Au fond, vous la prenez au sérieux.[
+GALLUS]{.bold}.
+Qui ? Moi !
+J'en ris.[
+GUNICH]{.bold}.
+Vous affectez d'en rire. On voit pourquoi.
+Vous êtes un dévot honteux de son église.
+Vous vous cachez.
+[GALLUS.
+]{.bold} Nella m'échappant, j'ai pris Lise.
+Je chassais, je cherchais des appas indulgents,
+Une charmeuse ayant pitié des pauvres gens,
+Un peu libre, un peu folle, ayant de la clémence.
+Tombé sur des vertus par un hasard immense,
+M'étant cassé le nez juste à l'escarpement
+D'une vierge d'acier, d'ombre et de diamant,
+Ayant vu tout à coup, quand je rêvais la butte
+Montmartre où dix moulins font gaîment la culbute,
+Surgir avec sa neige auguste la Yungfrau,
+Ayant tiré du sac ce mauvais numéro,
+J'ai dit : je me crois aigle et lion, je suis âne.
+Je me suis rejeté sur une paysanne
+Quelconque, fort jolie et pas bête, ma foi,
+Et je l'ai faite reine en me défaisant roi.
+Roman simple ; et j'en suis au deuxième chapitre.
+[Gallus fouille dans le gousset de son gilet, en tire sa tabatière, ne s'aperçoit pas qu'il vient d'en tirer en même temps un papier, et prend une prise de tabac. Le papier est tombé à terre. Gunich, en arrière de Gallus, le ramasse, y jette un coup d'oeil, et le met dans sa poche pendant que Gallus éternue et secoue d'une chiquenaude les dentelles de son jabot.
+]{.italic} [GUNICH]{.bold}.
+Çà, vous êtes un roi duquel je suis le pitre.[
+GALLUS]{.bold}.
+Faquin \![
+GUNICH]{.bold}.
+Le conseiller d'état, si vous voulez.
+Je plains les papillons aux chandelles brûlés.
+Je vous vois approcher d'une flamme hagarde,
+Charmante et formidable, et je dis : prenez garde.
+Quelque chose se passe au fond de votre coeur.
+Vous êtes un captif qui se drape en vainqueur.
+C'est une maladie étrange propre aux hommes
+Très corrompus, blasés, exquis, comme nous sommes,
+D'idolâtrer avec dédain, et d'être pris
+Parfois profondément, tout en disant : je ris.
+L'eau qu'on jette à ce feu le rallume et l'attise.
+Est-on jaloux ? Fi donc ! Tendre ? Quelle bêtise !
+Si quelqu'un vous pénètre et dans votre âme lit,
+On se fâche ; on se sent comme en flagrant délit.
+Surtout il ne faut pas que la belle s'en doute.
+Qu'aime-t-on d'elle ? Rien. Et tout. Sotte, on l'écoute.
+Grasse, c'est un Rubens ; maigre, c'est un Watteau.
+Don Juan extérieur, Pyrame incognito,
+On se croit libertin. Point. On est platonique.
+On couve en souriant un vague amour chronique.
+On aime l'âme, et non la chair fragile, on croit
+N'être que gris, hélas ! On est ivre. L'oeil froid
+Masque le coeur brûlant.[
+GALLUS]{.bold}.
+Dadais métaphysique !
+Hors la bonne cuisine et la bonne musique,
+Qui sont la même chose au fond, je n'aime rien.[
+GUNICH]{.bold}.
+Hum ! Parfois le lion a dans sa cage un chien.
+Il croit d'abord qu'il va le manger ; puis il l'aime.[
+GALLUS]{.bold}.
+Rien ne m'enivre.[
+GUNICH]{.bold}.
+Hum \![
+GALLUS]{.bold}.
+Je suis froid par système.[
+GUNICH]{.bold}.
+Hum !
+[GALLUS]{.bold}.
+Tu dis ?...[
+GUNICH]{.bold}.
+Est-ce un cri factieux ? Je dis : hum \![
+GALLUS]{.bold}.
+Mon coeur est le sommeil.[
+GUNICH]{.bold}.
+L'amour est l'opium.
+Pardon, le coeur d'un prince, on ne sait trop qu'en dire.
+Livre doré sur tranche où l'on n'ose pas lire.
+Pourtant permettez-vous que...[
+GALLUS]{.bold}.
+Buse, je permets.[
+GUNICH]{.bold}.
+L'amour se pique au jeu quand on lui dit : jamais !
+Vous cachez l'aventure et moi je la devine.
+La rêver infernale et la trouver divine,[
+]{.bold} Voilà votre accident devant cette Zabeth.
+[GALLUS]{.bold}.
+Et d'abord, tu ne sais pas même l'alphabet
+Du respect. Nomme-la madame. Elle est au prince.
+A moi, qui suis ton maître. Et maintenant, si mince
+Que soit ton intellect, comprends que, sans déchoir,
+Je ne puis aimer, moi qui jette le mouchoir.
+Être un Tityre inepte au fond d'un site agreste,
+A d'autres ! N'aimant pas, je reste moi. Je reste
+Le maître. Devenir amoureux, moi rieur !
+Tu crois que je prendrais ce rôle inférieur !
+[GUNICH]{.bold}[, ricanant.]{.italic}
+Le rôle vous prend.[
+GALLUS]{.bold}.
+Non. Si bon te semble, certes,
+Vieux fou, sois amoureux, passe aux femmes, déserte.
+Moi, point. J'ai pu, le jour où le dégoût me prit,
+Abdiquer comme roi, mais comme homme d'esprit,
+Non pas. Moi, grimacer l'amour ! Qu'on me lapide.
+Je vois mes rides, va. Me crois-tu donc stupide
+Jusqu'à m'imaginer que de jeunes yeux bleus
+Planteront là messieurs les blancs-becs merveilleux
+Pour contempler rêveurs mon gilet de flanelle !
+Ah ! Rien ne change, ami, la nature éternelle !
+Avril sera toujours par Aurore ébloui.
+Matin et renouveau sont des lieux communs ; oui,
+C'est vieux, le lys, c'est vieux, la rose ; mais qu'importe,
+C'est toujours jeune, et l'aube est toujours la plus forte.
+Oui, pour comprendre l'ombre et les cieux infinis,
+L'astre et la fleur, Chloé se penche sur Daphnis,
+Oui, Nella cherche Georges, oui, les Agnès épellent
+Les Chérubins ; jeunesse et jeunesse s'appellent.
+Est-ce toi, printemps ? Dit la fauvette tout bas.
+Il faut les bleus sommets pour les tendres ébats.
+Résignons-nous. Rions.[
+GUNICH]{.bold}.
+Monseigneur se résigne.
+Il est grand, puissant, riche, illustre, auguste, insigne,
+Et son manteau royal d'aigles est parsemé.[
+GALLUS]{.bold}.
+A quoi cela sert-il si l'on n'est pas aimé \![
+GUNICH]{.bold}.
+Vous êtes toujours sûr, vous, prince, d'être au faîte.[
+GALLUS]{.bold}.
+Devant les femmes, non. L'orgueil du rang est bête.
+Pour la femme, un roi passe après son page. Un duc
+Ne vaut point ses laquais, mon cher, s'il est caduc.
+Aucun soleil couchant n'a droit à l'espérance.
+Le sage ne fait pas aux jeunes concurrence ;
+Il ne va pas livrer un sot amour risqué
+Aux quolibets des gens qui flânent sur le quai ;
+Il voit son oeil s'éteindre auprès d'un oeil qui brille ;
+Il s'observe. Devant n'importe quelle fille,
+Devant une catau de trente sous, on est
+Pllié des Habsbourg et des Plantagenet,
+Landgrave palatin, duc d'Autriche, infant d'Este,
+Prince !... --- on voit ses cheveux blanchir, on est modeste.[
+GUNICH]{.bold}.
+On se poudre \![
+GALLUS]{.bold}.
+Ah ! Tu crois, baron de peu de sens,
+Que cette neige-là cache celle des ans !
+Mais j'ai dix lustres \![
+GUNICH]{.bold}.
+Soit. Bel âge \![
+GALLUS]{.bold}.
+Tout s'envole.
+Mais je ne serai pas un Géronte frivole.
+C'est assez d'avoir cru trop longtemps au matin.
+Hélas ! C'est triste. Avoir arrangé son destin,
+Son coeur, ses goûts, sa vie éclatante et sonore,
+Pour être à tout jamais la jeunesse, l'aurore,
+L'aube, et voir sur son front monter la sombre nuit \![
+GUNICH]{.bold}.
+Ah ! Je conviens que l'âge à la jeunesse nuit.
+Être jeune est le ciel. Rester jeune...[
+GALLUS]{.bold}.
+Est l'abîme.
+Un ridicule à moi ! J'aimerais mieux un crime.
+Oh ! Qui que vous soyez, devant Lise ou Ninon,
+Tenez-vous bien, soyez moqueur et fort, sinon
+Vous verrez bientôt poindre une belle hargneuse.
+Le méprisant peut seul braver la dédaigneuse.
+Surtout, méfions-nous des scènes que nous font
+Ces belles, et des cris, et de leur art profond
+De s'irriter, de fondre en pleurs, d'être hardies,
+Et ne nous laissons pas prendre à leurs comédies.
+Plutôt livrer ma vie au tigre libyen
+Qu'à la femme ! --- à propos, mon anneau, tu sais bien ?
+Ma bague empoisonnée ?[
+GUNICH]{.bold}.
+Ah ! Cet anneau terrible
+Qui contient un poison.[
+GALLUS]{.bold}.
+Un remède infaillible.[
+GUNICH]{.bold}.
+Eh bien ?[
+GALLUS.
+]{.bold} Je ne l'ai plus.[
+GUNICH]{.bold}.
+Comment ?[
+GALLUS.
+]{.bold} On me l'a pris
+pendant que je dormais ou bien que j'étais gris.
+Je le regrette.[
+GUNICH]{.bold}.
+Au fait, c'était un joyau rare.[
+GALLUS.
+]{.bold} Un ami. Cet anneau me venait de Ferrare
+Dont une Borgia fut duchesse. On vieillit,
+Tu comprends ; le destin devient un mauvais lit ;
+Un vieux beau, c'est un être absurde et difficile,
+D'un côté sensitive et de l'autre fossile.
+On sort de l'opéra, du bal, de chez Mesmer,
+De chez le roi de France, avec le mal de mer.
+C'est pour cela, dût-on n'en jamais faire usage,
+Qu'on tient à ces bijoux sinistres, et qu'un sage,
+A tous les biens qu'il a, qu'il attend, qu'on lui doit,
+Qu'il espère ou qu'il veut, joint la mort, bague au doigt.[
+GUNICH]{.bold}.
+Un suicide en l'air, facultatif, possible,
+Départ à volonté pour le monde invisible,
+Avoir toujours la clef du tombeau sous sa main,
+Faire, comme un valet, venir ce noir Demain,
+Avoir derrière soi l'éternité qu'on sonne
+Et qui paraît : que veut Monseigneur ? --- j'en frissonne,
+Mais c'est bien agréable, au fait.
+[GALLUS]{.bold}, [pensif.]{.italic}
+L'empoisonneur
+des bijoux, c'est le sort.[
+GUNICH]{.bold}.
+C'est vous. --- donc, Monseigneur,
+C'est dit. Vous n'aimez point votre bonne fortune.[
+GALLUS.
+]{.bold} Zabeth ! [Il hausse les épaules.]{.italic}
+Bah \![
+GUNICH]{.bold}.
+Soit. Eh bien ! Moi, je vais vous faire une...
+Révélation.[
+GALLUS.
+]{.bold} Quoi ?
+[GUNICH]{.bold}, [s'approchant de la crédence et montrant le bouquet.]{.italic}
+Voyez-vous ce bouquet ?[
+GALLUS.
+]{.bold} Oui.[
+GUNICH]{.bold}.
+De qui ça vient-il ?[
+GALLUS]{.bold}.
+De quelque freluquet
+Qui, ne pouvant payer des diamants infâmes,
+S'imagine qu'avec des fleurs on a des femmes.[
+GUNICH]{.bold}.
+Tous les jours il en vient pour madame un pareil.
+Il montre l'écrin.
+Voyez-vous cet écrin ?[
+GALLUS]{.bold}.
+Sur ce plat de vermeil ?
+Oui. C'est quelque galant, moins innocent que l'autre,
+Qui veut plaire.
+[GUNICH]{.bold}, [s'approchant de la fenêtre et montrant le jardin.]{.italic}
+En ce parc, dessiné par Lenôtre,
+Tous les matins on joue une aubade.
+[GALLUS
+]{.bold} Oui.
+[Très haut.]{.italic}
+C'est encore un galant quelconque. Un peu bien sot.
+Car c'est à la Vénus qu'il offre la diane.
+[GUNICH]{.bold}, [continuant.]{.italic}
+Quelqu'un tous les jours donne un bouquet.[
+GALLUS.
+]{.bold} Qui se fane.
+[GUNICH]{.bold}, [continuant.]{.italic}
+Un écrin, un concert, et Monseigneur le sait.[
+GALLUS]{.bold}.
+Je sais encore ceci qu'on ne sait pas qui c'est.
+Ces trois bergers masqués et muets me font rire.
+Personne ne connaît leurs noms.[
+GUNICH]{.bold}.
+Personne, sire,
+Excepté moi.[
+GALLUS]{.bold}.
+Tu dis ?...[
+GUNICH]{.bold}.
+Excepté moi.[
+GALLUS.
+]{.bold} Tu crois
+Les connaître ?[
+GUNICH]{.bold}.
+Je peux les nommer.[
+GALLUS]{.bold}.
+Tous les trois ?[
+GUNICH]{.bold}.
+Tous les trois. Le premier, le jeune, offrant des roses,
+C'est vous. L'autre, plus vieux, donnant ces belles choses,
+Ces diamants, c'est vous. Le troisième, à genoux
+Aussi lui, le seigneur des aubades, c'est vous.[
+GALLUS.
+]{.bold} Eh bien, après ?[
+GUNICH]{.bold}.
+C'est vous.[
+GALLUS]{.bold}.
+Voilà ta découverte \![
+GUNICH]{.bold}.
+Niez-vous ?[
+GALLUS]{.bold}.
+Non. C'est vrai. Qu'en conclut monsieur ?[
+GUNICH]{.bold}.
+Certes,
+Que vous êtes, mon prince, énormément épris.
+[GALLUS]{.bold}[, se tenant les côtes.]{.italic}
+Ah ! Vraiment, mon baron est trop bête. Ah ! J'en ris !
+Ah ! Je suis amoureux parce que je m'ennuie,
+Et qu'il me plaît de mettre un rayon dans la pluie,
+Du soleil dans la brume, un sourire en des yeux
+Qui, tristes, seraient laids, et qui sont beaux, joyeux.
+C'est mon goût. La beauté, plus la gaîté ; fleur double.
+Ah ! Mon pauvre espion myope, tu vois trouble.
+Ah ! Je suis amoureux parce que je distrais
+Mes cinquante ans à mettre en relief des attraits
+Qui, charmants sous des fleurs, sont exquis sous des perles !
+Parce que le sommeil des moineaux et des merles
+Ne m'est pas à ce point sacré que dans ce bois
+Je ne me glisse avec des joueurs de hautbois,
+Et parce que j'ordonne à cinq ou six maroufles
+De faire avec leurs chants, leurs gammes et leurs souffles,
+Flotter un songe d'or sur de beaux yeux fermés !
+Parce que j'ai le goût des bouquets embaumés,
+Des bijoux envoyés aux belles, par Hercule,
+Je suis un vieux crétin d'amoureux ridicule !
+Je m'amuse, morbleu ! J'ai cette fille-là,
+Et j'en fais le motif d'un éternel gala !
+Mais à qui donc veux-tu que je donne des roses ?
+A toi ? Quand tes gros yeux collent leurs cils moroses,
+Quand tu dors, dois-je aller, pendant une heure ou deux,
+Faire de la musique à tes rêves hideux ?
+Faut-il qu'au point du jour sous tes volets je rôde ?
+Dois-je faire couler la perle et l'émeraude
+En rivières autour de ton vieux cou ridé ?
+Dois-je te déclarer sultane validé ?
+Aegipans, nymphes, dieux, ô faunes de Sicile,
+Accourez, venez voir cet immense imbécile !
+Mais pense un peu, voyons, peux-tu ? Lise a vingt ans,
+J'en ai cinquante. Eh bien, je me masque, et j'entends,
+A défaut du bonheur, fleur que nul ne transplante,
+Lui faire une nuée amoureuse et galante.
+Personnages du conte : Angélique et Médor.
+Elle est Danaé. Soit. Moi, pluie et grêle d'or.
+Elle est Héro, pensive, et moi je me ranime
+A lui faire rêver un Léandre anonyme.
+Trouves-tu qu'être aimable est au-dessous de moi ?
+Trop de distance ! Elle est goton et je suis roi.
+Non, bélître. Elle est femme, et je suis gentilhomme.
+Être amoureux ! Jamais. Non. Mais être économe,
+Non plus. Garder son coeur, dépenser son argent,
+C'est ma mode. être aux goûts d'une femme indulgent ;
+Lui faire tous les jours d'agréables surprises ;
+Lui racheter l'ennui de voir vos mèches grises
+Par des bals, des bijoux, des fleurs ; être courtois ;
+Et se taire ; et n'aller pas crier sur les toits :
+Mesdames et messieurs, je suis celui qui paie !
+Faire en somme à la belle une existence gaie,
+Libre, opulente, vive et jeune, de façon
+A se dire : après tout je suis un bon garçon !
+Voilà l'élégance. Hein ?[
+GUNICH]{.bold}.
+Vous êtes à l'escrime très fort.[
+GALLUS.
+]{.bold} Je te dis, moi, de m'accuser d'un crime,
+Et non d'une bêtise, étant déjà l'amant,
+Si j'étais l'amoureux, je serais fou vraiment.[
+GUNICH]{.bold}.
+Vous me jetez ce mot : buse \![
+GALLUS.
+]{.bold} Oui, je le décoche.[
+GUNICH]{.bold}.
+Mais il ne faudrait pas alors de votre poche
+Laisser tomber ces vers écrits de votre main.
+[
+Il présente à Gallus le papier que Gallus a laissé tomber, le déploie, et se met à lire. Sonnet. à Zabeth.
+Déclamant.
+]{.italic} ... Belle au regard inhumain...
+[GALLUS]{.bold}, [lui arrachant le papier.]{.italic}
+Ô stupide espion ! Voleur plus bête encore !
+Que ne suis-je encore roi pour que je te décore
+De l'ordre d'ânerie inventé tout exprès \![
+GUNICH]{.bold}.
+Mais lisez, Monseigneur.[
+Lui montrant le sonnet.]{.italic}
+--- ... Vos appas... Vos attraits... ---
+Donc vous voulez charmer !
+Donc vous désirez plaire !
+[Gallus jette le papier au feu.[
+]{.bold}]{.italic} [GALLUS]{.bold}.
+Tu me feras crever de joie et de colère.
+Tudieu ! Quel animal réjouissant ! Comment !
+Parce qu'étant poète, un peu, suffisamment
+Pour égaler, si bon me semble, qui ? Virgile,
+Je bâcle un vers ou deux, je meurs d'amour ! Mais, Gille !
+Un poète est un être indifférent, divers,
+Qui s'exerce à viser un coeur avec un vers,
+Qui prend pour but d'une ode une femme quelconque,
+Et qui, tout en criant : c'est Vénus dans sa conque !
+C'est Léda sur son cygne ! Hébé ! Turlututu,
+Ne veut pas plus charmer cette femme, vois-tu
+Qu'un archer dans un tir ne veut tuer la cible.
+La cible est en carton. La femme aussi. L'horrible,
+C'est d'avoir pour laquais un baron saugrenu
+Tel que toi, marié jadis, jadis cornu,
+Croyant aux vers ! Le vrai poète est impassible.
+Si les sonnets comptaient, tout serait impossible.
+Être forcé d'aimer, parce que ça rime \![
+GUNICH]{.bold}.
+Oui.
+Au fond, c'est vrai. La rime est piège.[
+GALLUS.
+]{.bold} Homme inouï,
+Apprends tout. Ce sonnet, pour comble d'aventure,
+Zabeth l'a dans les mains \![
+GUNICH]{.bold}.
+Mais d'une autre écriture.
+Gageons.[
+GALLUS]{.bold}.
+Certes. Je puis fabriquer, s'il me plaît,
+Des vers, mais je les fais écrire à mon valet.
+Par instants, une envie, honnête et sage en somme,
+Me prend d'écorcher vif ce hideux gentilhomme !
+Apollon, c'est ainsi que tu remercias,
+Pour avoir chanté faux, le nommé Marsyas.[
+GUNICH]{.bold}.
+Je chante juste.[
+GALLUS]{.bold}.
+Va, je suis impénétrable.
+Inaccessible, inex...[
+GUNICH]{.bold}.
+Pugnable.[
+Souriant et saluant.]{.italic}
+Et vulnérable.[
+GALLUS]{.bold}.
+Comme Achille alors. Soit. Au talon. Non au coeur.[
+GUNICH]{.bold}.
+Le coeur, souvent les grands l'ont au talon.[
+GALLUS]{.bold}.
+Moqueur,
+tu seras avec moi le moqué. Je t'enseigne,
+Et ma gaîté te crible, et ta bêtise saigne.[
+GUNICH]{.bold}.
+Vous perdez vos anneaux, vous perdez vos sonnets.
+Prenez garde.
+[GALLUS]{.bold}[, lui tournant le dos.
+]{.italic} Il me prend pour un de ces benêts
+Qui, vu qu'un grand cordon leur coupe en deux le ventre,
+Rêvent de plaire au sphinx accroupi dans son antre,
+A la femme.
+S'affermissant sur ses talons et regardant Gunich en face.
+L'amour pour les niais est bon.
+Je puis être un vieillard, mais jamais un barbon.
+De Louis quinze vieux bien souvent nous sourîmes,
+Personne ne rira de moi. Quant à mes rimes,
+C'est un jeu, mes bouquets, de même. Et, fût-on roi,
+Il faut avec la femme enfin qu'on a chez soi,
+Belle ou non, paysanne, ou marquise, ou comtesse,
+Savoir vivre. De là mes cadeaux. Politesse.[
+GUNICH]{.bold}.
+Vous êtes, Monseigneur, éperdument poli.[
+GALLUS]{.bold}.
+A présent, sois muet. Je t'ordonne l'oubli.
+Si de ceci tu dis un mot, ma politesse
+T'étranglera.
+[GUNICH]{.bold}, [écoutant à la grande porte de gauche.]{.italic}
+J'annonce un groupe à votre altesse.
+[Entre Zabeth, et avec elle une foule de petits jeunes gens, parmi lesquels le duc de Montbazon, avec le cordon bleu, le duc de Créqui avec la croix de Saint-Louis, Lord Effingham avec la jarretière, le vicomte de Thouars.
+Au milieu des jeunes gentilshommes, un docteur, noir, en perruque ronde. En avant du groupe, un abbé. L'abbé entre le premier, en dansant et en raclant une guitare.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[[Scène troisième]{.italic}]{.bold}]{.calibre_65} {#scène-troisième .calibre_64}
+
+::: calibre_52
+
+
+[[
+L'ABBÉ, LORD EFFINGHAM, LE DUC DE MONTBAZON, LE VICOMTE DE THOUARS, LE DUC DE CRÉQUI, GALLUS, LE MARQUIS DE COCHEFILET]{.italic}]{.calibre_28}
+
+[[
+Tous, en arrivant, saluent Gallus, qui donne la main à quelques-uns.]{.italic}]{.calibre_28}
+
+[
+[L'ABBÉ,]{.bold} [chantant et dansant.]{.italic}
+Les boeufs aux champs,
+Commère !
+Les Anglais sont méchants,
+La Prusse est en colère,[
+]{.bold} L'Autriche n'est pas claire,
+Qu'ils s'en aillent lanlaire.
+Commère,
+Les boeufs aux champs !
+Ô belle bocagère,
+Va couper la fougère,
+Ôte tes bas, bergère,
+Les sentiers sont bourbeux.
+Commère,
+Aux champs les boeufs !
+[Zabeth en entrant jette sur un fauteuil sa faille et son manchon. Elle tire du manchon son éventail et le pli que lui a remis Sillette à sa sortie. Gallus la salue d'un signe de tête, et Gunich d'une profonde révérence. Gallus se met à causer avec le docteur. Les jeunes gens entourent Zabeth.]{.italic}
+[LORD EFFINGHAM]{.bold}.
+Vous avez là, marquise, une mouche assassine.[
+LE DUC DE MONTBAZON]{.bold}.
+Mes enfants, mon talent à moi, c'est la cuisine.[
+ZABETH]{.bold}.
+De là ce cordon bleu.
+[LE VICOMTE DE THOUARS]{.bold}.
+J'arrive du sermon.
+[L'ABBE]{.bold}, posant la guitare sur un pliant.
+Je n'y vais plus. On dit trop de mal du démon.
+On exagère.
+[LE VICOMTE]{.bold}.
+Oh oui ! L'abbé Maury, du reste,
+Tonne agréablement. Voltaire, Oedipe, Oreste,
+Ta vierge d'Orléans, les juifs, les mécréants...[
+ZABETH]{.bold}.
+Qu'est-ce que c'est que ça, la vierge d'Orléans ?
+[LE VICOMTE]{.bold}, [continuant.]{.italic}
+Il prêche à lui tout seul comme les douze apôtres[
+]{.bold} A Zabeth. Vous autres n'êtes pas admises là.[
+ZABETH]{.bold}, [à part]{.italic}.
+Vous autres \![
+LE DUC DE CRÉQUI]{.bold}.
+La vierge, autrement dit la pucelle. Cela
+N'a jamais existé. Des vierges, oh la la \![
+Il rit.
+]{.italic} Grande, la femme est fille ; enfant, elle est poupée.
+Une vierge ! On n'en voit jamais \![
+ZABETH]{.bold}[.
+]{.italic} Bah ! Votre épée.[
+]{.bold} [Le Duc de Créqui pirouette dédaigneusement et lui tourne le dos.
+]{.italic} [LE DUC DE CRÉQUI]{.bold}, [au vicomte de Thouars.]{.italic}
+La Duthé dans un bal t'a, dit-on, maltraité.
+[LE VICOMTE.
+]{.bold} Et j'ai fait mettre au For-l'évêque la Duthé,
+Vu que je suis Rohan.[
+ZABETH]{.bold}, [à part, regardant le baronnet.]{.italic}
+Breton du premier ordre.[
+]{.bold}
+[L'ABBE,]{.bold} [à Zabeth, lui montrant les seigneurs.]{.italic}
+Dieu fit vos dents pour rire et fit les leurs pour mordre.[
+ZABETH]{.bold}, [à L'abbé, montrant Le Duc De Créqui.]{.italic}
+D'où vient que ce petit est duc ?[
+]{.bold}
+[L'ABBE.
+]{.bold} Le droit du sang.
+Il était digne d'être opulent et puissant,
+N'ayant rien dans le coeur ni dans l'âme. Il hérite
+D'un oncle. On a toujours les oncles qu'on mérite.[
+ZABETH]{.bold}, [à Lord Effingham.]{.italic}
+A propos, je reçois des sonnets.[
+LORD EFFINGHAM]{.bold}.
+Des sonnets \![
+ZABETH]{.bold}, [à Gallus]{.italic}
+Laclos prête sa femme au duc de Nivernais.
+Que dites-vous d'un homme acceptant cet opprobre ?[
+GALLUS]{.bold}[, continuant sa conversation comme s'il n'entendait pas Zabeth.]{.italic}
+Les pléiades, docteur, qu'on voyait en octobre
+A l'est, sont maintenant à l'ouest. Sans Képler
+Cela serait obscur ; grâce à lui, c'est très clair.[
+ZABETH]{.bold}[, insistant, à Gallus.
+]{.italic} Le duc lui prend sa femme.[
+GALLUS]{.bold}, [s'asseyant.]{.italic}
+Eh bien ! Il l'a conquise.
+On est très bien assis dans vos fauteuils, marquise.
+Dites-moi donc le nom de votre tapissier.[
+Il se tourne vers les petits seigneurs épars et causant autour de lui.
+]{.italic} Allons-nous voir ce soir Brizard officier
+En grand prêtre tragique ? On donne Montezume.[
+Il se remet à causer avec le docteur.
+]{.italic} [LE VICOMTE DE THOUARS]{.bold}, [au duc de Montbazon.]{.italic}
+[Montrant Zabeth.
+]{.italic} Nous sommes tous ici ses amants, je présume.
+Le duc ne s'aperçoit de rien. Vois comme il rit.[
+LE DUC DE MONTBAZON]{.bold}.
+Il s'aperçoit de tout, mais il a de l'esprit.
+[LE DUC DE CRÉQUI]{.bold}, [au vicomte.]{.italic}
+Le crois-tu bête au point d'aimer cette donzelle ?[
+]{.bold} [Zabeth prête l'oreille.
+]{.italic} [ZABETH]{.bold}, [à part.]{.italic}
+Donzelle \![
+LE DUC DE CRÉQUI]{.bold}, [au vicomte.]{.italic}
+Vois-tu bien, celle qu'on paie et celle
+Qu'on aime, c'est deux.[
+LE VICOMTE DE THOUARS.]{.bold}
+Mais d'autres sont fort épris.[
+LE DUC DE CRÉQUI]{.bold}.
+Pas lui.[
+LE VICOMTE DE THOUARS]{.bold}[, montrant la crédence.
+]{.italic} Vois ces cadeaux.[
+LE DUC DE CRÉQUI]{.bold}, [regardant les diamants.
+]{.italic} L'écrin est d'un grand prix,
+Certes \![
+]{.bold}
+[L'ABBÉ,]{.bold} [flairant le bouquet.]{.italic}
+En hiver, des fleurs de serre \![
+ZABETH]{.bold}, [à Gallus.]{.italic}
+Votre altesse est poète.[
+GALLUS]{.bold}.
+Jamais.[
+ZABETH]{.bold}, [lui tendant le pli qu'elle a à la main.]{.italic}
+Lisez donc ceci.[
+GALLUS.
+]{.bold} Qu'est-ce ?[
+Il prend le papier et y jette un coup d'oeil.
+]{.italic} Des vers. Fi donc \![
+ZABETH]{.bold}.
+Comment les trouvez-vous ?[
+GALLUS]{.bold}, [les parcourant négligemment.]{.italic}
+Mauvais.[
+ZABETH]{.bold}.
+Vous les trouveriez bons si vous les aviez faits.[
+GALLUS.
+]{.bold} Dieu m'en garde.[
+ZABETH]{.bold}.
+Ces vers sont jolis.[
+GALLUS.
+]{.bold} Plats.[
+ZABETH]{.bold}.
+Vous êtes contrariant.[
+GALLUS.
+]{.bold} Des vers d'amour sont toujours bêtes.[
+]{.bold}
+[L'abbé se remet à flairer les roses de Chine.[
+]{.bold}]{.italic}
+[L'abbé]{.bold}, [se retournant vers Zabeth.]{.italic}
+Beau bouquet ?[
+]{.bold}
+[Le docteur]{.bold}[, à Zabeth.]{.italic}
+Qui vous l'a donné ?[
+ZABETH]{.bold}[, montrant le bouquet à Gallus.]{.italic}
+Qu'en dites-vous ?[
+GALLUS.
+]{.bold} C'est un de ces bouquets qu'on a pour trente sous
+Chez la fleuriste au coin du pavillon d'Hanovre.[
+L'ABBE]{.bold}, [admirant les diamants.]{.italic}[
+]{.bold} Bel écrin \![
+ZABETH]{.bold}.
+Je ne sais qui me l'envoie.[
+GALLUS.
+]{.bold} Un pauvre évidemment. Écrin médiocre, et fané.[
+ZABETH]{.bold}.
+Vous le trouveriez beau si vous l'aviez donné.
+[LE MARQUIS DE COCHEFILET]{.bold}, [à Zabeth.]{.italic}
+A propos, des hautbois dans un parc, c'est classique,
+Les jardins d'aujourd'hui sont faits pour la musique,
+J'aime les violons dans les bois, et l'écho
+Des cors de chasse au fond des grottes rococo.
+Vous offre-t-on toujours une aubade ?[
+ZABETH]{.bold}.
+Oui.[
+GALLUS.
+]{.bold} C'est fade.
+Je ne sais de qui peut vous venir cette aubade.
+C'était joli jadis, mais la mode en passa.[
+ZABETH]{.bold}.
+Si c'était de vous, duc, vous ne diriez pas ça.
+[GUNICH]{.bold}, [à part, observant Gallus.]{.italic}
+Il a bien dépisté Zabeth.
+[ZABETH]{.bold}.
+Moi, je déclare
+Ces fleurs belles, ces vers charmants, cet écrin rare.
+L'aubade, comme un chant des anges affaibli,
+Me berce, et le matin m'apporte un peu d'oubli.
+C'est anonyme. Soit. Moi, pour ne rien vous taire,
+Si je savais qui m'offre, avec tant de mystère,
+Tant de galanterie, oui, je pourrais...[
+GALLUS.
+]{.bold} Eh bien ?[
+ZABETH]{.bold}.
+L'aimer.[
+LORD EFFINGHAM]{.bold}.
+Ils sont plusieurs.
+[LE DUC DE CRÉQUI]{.bold}.
+Oh ! Cela ne fait rien.[
+A Gallus.]{.italic}
+Hein ? Si nous savions qui, les bonnes gorges chaudes \![
+GALLUS]{.bold}. [À part.]{.italic}
+Comme ils riraient ! --- [
+Haut]{.italic}.
+Les vers, les fleurs, les émeraudes,
+Et les aubades, peuh !
+[
+Il hausse les épaules et pirouette sur ses talons.]{.italic}[
+ZABETH]{.bold}.
+Toujours vous me froissez,
+Monseigneur. On dirait que vous me haïssez.
+[GALLUS,]{.bold} [froid.
+]{.italic} Non.
+[ZABETH]{.bold}.
+Mais ça m'est égal.[
+LE DUC DE MONTBAZON]{.bold}, [à Zabeth.]{.italic}
+La haine, c'est province.[
+]{.bold}
+[L'abbé,]{.bold} [à [ZABETH]{.bold}.]{.italic}
+Ne point aimer, ne point haïr, c'est être prince.[
+LE MARQUIS,]{.bold} [au duc de Créqui.]{.italic}
+Duc, en raillant l'estoc dont tu nous éblouis,
+Elle éclabousse un peu ta croix de Saint-Louis.[
+LE DUC DE CRÉQUI]{.bold}.
+De sa boue.[
+Il rit et regarde Zabeth.
+]{.italic}
+[LE MARQUIS]{.bold}.
+Elle entend. Prends garde. Tu la blesses.[
+LE DUC DE CRÉQUI]{.bold}.
+Qu'est-ce que ça me fait, ces drôlesses ?[
+ZABETH]{.bold}, [aux écoutes, à part.]{.italic}
+Drôlesses \![
+]{.bold}
+[Ricanements autour de Zabeth.
+Gallus fait un signe. Tous s'approchent de lui. Zabeth reste seule à l'autre coin du boudoir.
+]{.italic} [GALLUS]{.bold}, [à demi-voix, au groupe des gentilshommes.]{.italic}
+Je n'ai pas le travers, qu'ont les gens fatigués,
+D'empêcher, étant vieux, les jeunes d'être gais.
+Riez. --- [
+Au duc de Créqui.
+]{.italic} Pourvu, monsieur le duc et pair de France,
+Que cela n'aille pas jusqu'à la transparence.
+Les femmes ! Y compris la reine, j'ai souci
+De toutes ces margots autant que de ceci ;[
+Il fait claquer ses doigts.
+]{.italic} Mais une étant chez moi, l'on ne doit pas en rire.
+Nous sommes bons amis. Je ne trouve à redire
+Qu'à de certains clins d'yeux railleurs. Messieurs, milords,
+C'est compris, n'est-ce pas ? Car, autrement, alors
+Il faudrait voir un peu la pointe des épées.
+[
+Il s'approche de Zabeth et lui montre le paysage nocturne au dehors.
+]{.italic} Ah ! Madame, admirez ces belles échappées
+De clair de lune au fond de ces arbres ! La nuit
+Est un profond concert que gâte notre bruit.
+Ce monde, l'homme ôté, serait beau.[
+Il revient vers le groupe des gentilshommes.
+]{.italic} Mais, j'y pense,
+Messieurs, la comédie à huit heures commence.
+[LE DOCTEUR]{.bold}, [tirant sa montre.]{.italic}
+Neuf heures.[
+GALLUS]{.bold}.
+Hâtons-nous, si nous voulons la voir.
+N'y venons-nous pas tous ?
+[ZABETH]{.bold}, [à Gallus]{.italic}.
+Pas vous. Pas moi.
+Ce soir
+Vous soupez tête à tête avec moi.[
+GALLUS]{.bold}.
+Tête à tête !
+La surprise est charmante, et c'est toute une fête.
+Messieurs, vous entendez. Je vous laisse partir.
+[
+A Zabeth.
+]{.italic} Je reste.[
+LE DUC DE MONTBAZON]{.bold}.
+Comme il va s'ennuyer \![
+LE DUC DE CRÉQUI]{.bold}.
+Ô martyr !
+[Tous saluent Gallus et sortent.]{.italic}[
+]{.bold} [Zabeth va à la cheminée et sonne. La porte de droite s'ouvre à deux battants. Entre Sillette, suivie de quatre laquais portant une table à deux couverts sur laquelle est servi un en-cas. Gibier. Vins. Cristaux. Au centre, un surtout de table en vermeil avec deux girandoles allumées. Les valets posent la table au centre du boudoir, et placent un fauteuil devant chacun des couverts qui se font vis-à-vis. Zabeth fait signe à Sillette et aux valets de sortir. Elle ôte et jette sur un sofa sa pelisse de soie et de martre, sous laquelle elle est décolletée avec un collier et des bracelets de pierreries. Elle montre à Gallus un des deux fauteuils et s'assied sur l'autre.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[[Scène quatrième]{.italic}]{.bold}]{.calibre_65} {#scène-quatrième .calibre_64}
+
+::: calibre_52
+
+
+[[
+GALLUS, ZABETH]{.italic}]{.calibre_28}
+
+[[
+GALLUS]{.bold}.
+Vous renvoyez vos gens. Solitude complète.
+C'est tout à fait aimable.[
+Il s'assied]{.italic}.
+[Montrant un grand trumeau à glace derrière Zabeth.
+]{.italic} Ah ! Ce trumeau reflète des appas, qui feraient tourner la tête...
+[ZABETH]{.bold}.
+A qui ?
+Pas à vous.[
+GALLUS]{.bold}.
+Je suis vieux. Mais ce petit Créqui...[
+ZABETH]{.bold}.
+A lui pas plus qu'à vous, prince. D'ailleurs, qu'importe !
+Je crois qu'il vient un peu de vent par cette porte.
+[Elle va à la porte du fond, comme pour s'assurer que personne n'écoute, l'entrouvre, puis la referme.
+Gallus prend une bouteille, emplit le verre de Zabeth, puis le sien. Zabeth revient s'asseoir.
+]{.italic} [GALLUS]{.bold}, [regardant le couvert.]{.italic}
+Joli dessus de table \![
+Il boit tout en examinant l'orfèvrerie.
+]{.italic} Oui, j'aime ce sommeil
+Des nymphes sous des rocs sauvages, en vermeil.[
+Il prend une pièce de gibier et la découpe.
+]{.italic} Le râle de genêt. Fin gibier. Ça patauge
+Tout l'été dans le thym, la lavande, la sauge,
+La mauve, et ça devient exquis, surtout avec
+La choucroute tudesque et le bon vieux vin grec.[
+Il offre une aile à Zabeth, met de la choucroute dans son assiette et se verse à boire.
+]{.italic} Dites-moi, trouvez-vous ici quelque lacune
+Dans l'hôtel, dans la table ou le service ?[
+ZABETH]{.bold}.
+Aucune.
+[GALLUS]{.bold}, [désignant du doigt le jardin.]{.italic}
+Vous pourriez pour ce parc, c'est un conseil, pardon,
+Commander deux ou trois déesses à Houdon.[
+ZABETH]{.bold}.
+Tout me vient de vous, duc, je dois le reconnaître.
+[GALLUS]{.bold}, [tout en mangeant et tout en servant Zabeth.]{.italic}
+Ce tout n'est rien, madame. Une femme est un être
+Charmant parce qu'il est tremblant, fort éperdu,
+Très frêle, et qui doit être en tout temps défendu
+Contre tout ce qui peut d'une ride être cause,
+Contre un frisson d'aurore et contre un pli de rose.
+Il faut sur son alcôve un chant de séraphin,
+Le nectar à sa soif, l'ambroisie à sa faim ;
+De nos jours, ce progrès est goûté de Tartuffe,
+Le nectar est sauterne et l'ambroisie est truffe,
+Et quant au séraphin, il s'appelle Grétry.
+Des millions ! Sans quoi, la femme, ange meurtri,
+Languit, souffre. Exister, madame, est nécessaire.
+Il faut tuer le temps qui nous tient dans sa serre ;
+Donc des plaisirs ; toujours, sans trêve, hier, aujourd'hui ;
+On ne saurait percer de trop de coups l'ennui.
+Avoir froid est ignoble ; avoir faim est étrange ;
+Pourtant, dans un plat d'or, sans ridicule on mange ;
+Et si la cheminée est un bijou charmant
+Du plus beau marbre, on peut s'y chauffer décemment.
+La vie enfin doit presque être un conte de fée.
+Je la veux de chansons et de joie étoffée ;
+Phébus, si cet orchestre à ma guise marchait,
+Ne serait pas de trop pour en tenir l'archet.
+Morbleu ! Je n'entends pas que l'ennui vous assomme.
+Je vous protège, moi. Marquise, un galant homme
+Prend une femme en gré, sans être un songe-creux,
+Sans être pour cela forcé d'être amoureux,
+Et, gaîment, au-dessus des misères, l'enlève.
+Les besoins de la vie et les besoins du rêve
+Se tiennent ; c'est la robe avec le falbala.
+J'ai tâché de comprendre à peu près tout cela,
+Et je prétends, c'est là ma façon d'être tendre,
+Vous préserver de tout et de tout vous défendre.
+[ZABETH]{.bold}, [regardant Gallus fixement.]{.italic}
+Désirez-vous savoir la vérité ?[
+GALLUS]{.bold}.
+Fort peu.[
+ZABETH]{.bold}.
+Je vous ruine.[
+GALLUS]{.bold}.
+Après ?[
+ZABETH]{.bold}.
+Je vous trompe.[
+GALLUS]{.bold}.
+Parbleu \![
+Il découpe une aile de perdrix et l'offre à Zabeth.
+]{.italic} Des amants, c'est de droit. Moi, par-dessus la tête
+J'en aurais, si j'étais femme, et, comme c'est bête !
+ça n'empêcherait pas que je n'aime quelqu'un.
+Trompez-moi. Je n'ai pas le goût d'être importun
+Et jaloux, ni le temps d'être amoureux et fade.
+Et ruinez-moi. J'aime avoir une naïade,
+Une femme, chez moi, qui, d'un air négligent,
+Penche l'urne d'où coule à grands flots mon argent.[
+ZABETH]{.bold}.
+Monseigneur, vous m'avez de vos bienfaits comblée.
+Une pauvre âme fauve aux bois obscurs mêlée,
+C'était moi. Je vivais dans des lieux inconnus,
+Misérable, et j'étais une fille pieds nus ;
+On m'avait par pitié fait lire une grammaire ;
+Comme je n'avais plus mon père ni ma mère,
+Et que je travaillais beaucoup pour gagner peu,
+J'étais parfois sans pain, j'étais souvent sans feu,
+Et je n'avais pas même un miroir. Un jour, sire,
+Vous vîntes. Vous m'avez, duc, avec un sourire,
+Prise en une cabane et mise en un palais.
+Tout à coup j'eus des gens, des femmes, des valets,
+Je vis vers moi monter, avec un bruit de joie,
+Moi, fille de la bure, un flot d'or et de soie,
+Un océan d'azur, de perles, de saphirs ;
+Et j'eus à mon service avril et les zéphirs
+Et l'aurore, et l'éden, avec tout ce qui tente
+Et charme, et je devins une femme éclatante.
+Aujourd'hui, vous m'avez dorée en me touchant.
+Loge à la comédie et carrosse à Longchamp,
+J'ai tout, et, comme au fond du ciel noir, dans les boucles
+De mes cheveux on voit luire des escarboucles ;
+Je suis superbe, grâce à vous ; je resplendis,
+Je brille, je suis riche. --- [
+Elle se lève.
+]{.italic} Eh bien, je vous maudis \![
+GALLUS.
+]{.bold} Tiens, ça vous va très bien d'avoir l'air en colère.[
+A part]{.italic}
+Que veut dire ceci ?[
+ZABETH]{.bold}.
+L'âme en tombant s'éclaire.
+Ah oui, contre la faim, le froid, vous l'avez dit,
+contre tout ce qui presse, étreint, froisse, engourdit
+Les indigents sur qui tourbillonne la neige,
+Une barrière d'or me couvre et me protège ;
+Vous m'entourez de soins, duc, n'importe à quel prix,
+Et vous me préservez de tout. --- hors du mépris \![
+GALLUS]{.bold}.
+Je vous défends.[
+ZABETH]{.bold}.
+C'est vrai, mais je vous en dispense.
+Oui, de ce que l'on dit. Non de ce que l'on pense.[
+GALLUS]{.bold}.
+Ce qu'on pense, ah ! Vraiment, ce qu'on pense, en effet,
+Je ne puis l'empêcher.[
+ZABETH]{.bold}.
+C'est vous qui l'avez fait.[
+GALLUS]{.bold}.
+C'est pour rire, pas vrai ? Vous avez des épaules
+Charmantes.[
+ZABETH]{.bold}.
+La drôlesse insultera les drôles.[
+Se tournant vers la porte par où tous sont sortis.
+]{.italic} Où sont-ils, ces faquins ? Ah ! Vil groupe rieur \![
+A Gallus.
+]{.italic} Savez-vous ce qu'il faut à la femme, monsieur ?
+C'est l'amour. Je n'ai pas ce pain sacré de l'âme,
+Et je me sens haïe et je me vois infâme.
+Soyez maudit.
+[Gallus s'accoude sur la table et la considère avec attention.
+Elle poursuit.
+]{.italic} Ces ducs, ces princes, ces marquis !
+Tous ! Ils sont monstrueux, à force d'être exquis !
+Ils me glacent. Ils sont joyeux de quoi ? De haine.
+Ils ont la liberté féroce ; j'ai la chaîne.
+Ils ont une patrie, eux, c'est l'immense azur,
+C'est le ciel. Dans la nue ils marchent d'un pied sûr.
+Ils sont comme des dieux. On me mêle à la fête.
+J'y vais. J'ai l'air d'en être. Et tout luit sur ce faîte,
+Tout chante. C'est à qui rira, boira, vivra.
+Marquis, que donne-t-on ce soir à l'Opéra ?
+Veux-tu souper ? Dansons. Mille louis. Je joue.
+Belle, la rose est pâle auprès de votre joue.
+Festins. Chasses. On a des lilas en janvier.
+On va droit au plaisir sans jamais dévier.
+De l'assouvissement on fait sa destinée,
+Et je suis la proscrite, et je suis la damnée !
+Vous savez bien, les loups et les tigres des bois,
+Je les préfère à vous les hommes.[
+GALLUS]{.bold}, [à part.]{.italic}
+C'est, je crois, sérieux.[
+ZABETH]{.bold}.
+Pas d'amour et pas d'espoir ! Je souffre.
+J'ai dans le coeur le vide et dans l'âme le gouffre.
+Monseigneur ! Monseigneur ! Que vous avais-je fait ?
+Ah ! L'auguste et profond soleil me réchauffait,
+Ah ! J'avais l'innocente aurore pour ivresse !
+Ah oui, c'est vrai, d'accord, j'étais une pauvresse,
+Et parmi les vivants, et sous le grand ciel bleu,
+Et dans tout l'univers, je n'avais rien, --- que Dieu !
+Je ne l'ai plus. Abîme ! Oui, j'avais pour ressource
+De cueillir une mûre et de boire à la source,
+J'étais libre, et j'avais pour ami le rocher.
+Quelle idée eûtes-vous de venir me chercher ?
+Ce Gunich vous aida, votre digne ministre.
+Vous fîtes ce jour-là, prince, un complot sinistre
+Contre l'inconnu. Mettre un piège dans les cieux !
+Saisir une âme au vol pour lui crever les yeux !
+Ah ! Ce qu'on tue au ciel, pour l'enfer on le crée.
+Ô Monseigneur, j'étais l'ignorance sacrée.
+Qu'avez-vous fait de moi ? L'aveugle, mal conduit,
+Maudit son guide traître. Hélas ! J'étais la nuit,
+Et vous avez été la mauvaise lumière.
+Vous fûtes l'incendie, et j'étais la chaumière.
+Sans doute je penchais vers la faute, mettons
+Que j'étais coquette, oui, mais j'étais à tâtons,
+J'hésitais, un conseil honnête m'eût sauvée.
+Ah ! Duc ! Vous m'avez fait une affreuse arrivée
+Dans la chute par l'âcre et fausse ascension,
+Et par l'enivrement dans la perdition !
+Oui, j'étais l'alouette. Est-ce un crime ? Hélas, être,
+Moi la pauvre aile folle, et vous le miroir traître,
+Ce fut notre destin. Moi, vaine et sans effroi ;
+Vous, sans frein, et frivole ! à quoi bon être roi
+Si l'on n'a dans le coeur quelque haute chimère ?
+Duc, laissant, au-dessus du vil peuple éphémère,
+Votre esprit souverain flotter dans l'absolu,
+Vous rêviez un grand rêve, altesse ; il vous a plu
+D'essayer de jeter une âme dans ce moule ;
+Devant les yeux d'un roi l'infini se déroule ;
+Créer, rien n'est plus beau ; vous avez, duc féal,
+Voulu réaliser enfin cet idéal,
+Ce but noble où le coeur d'un grand prince s'applique,
+Et c'est pourquoi je suis une fille publique.
+Un, c'est le paradis, et l'enfer c'est plusieurs.
+Qu'est-ce que j'avais fait, ciel juste, à ces messieurs !
+J'ignorais ; ils savaient. Un jour, tremblante, nue,
+Je me suis vue au fond de l'opprobre, ingénue !
+Ah ! C'est un crime, c'est un sombre outrage à Dieu,
+Ah ! C'est l'assassinat d'une âme, et c'est un jeu !
+Jusqu'à quel point c'est noir, vous l'ignorez vous-même !
+On ne sait pas toujours quel est le grain qu'on sème.
+On s'imagine avoir le droit de s'amuser,
+Et que, puisqu'on nous dore, on peut bien nous briser !
+Vous n'êtes pas méchant pourtant, mais vous vous faites
+De nos chutes à nous, tristes femmes, des fêtes !
+Ah ! La fille du peuple est prise, et le seigneur
+L'emporte, éblouissant et louche suborneur,
+Et les voilà tous deux dans la même nuée.
+Folle, et sa chevelure éparse et dénouée,
+La malheureuse rit, et lui l'entraîne au fond
+D'une ombre où le démon avec Dieu se confond,
+Et l'on s'enivre, ensemble on s'égare, et l'on erre,
+Et de ce noir baiser sort un coup de tonnerre !
+L'atome, on peut marcher dessus. Non. Je crierai.
+Duc, vous êtes le char du triomphe doré,
+Mais savez-vous de quoi vous êtes responsable ?
+C'est de l'écrasement du pauvre grain de sable.
+Il cassera ce char dont l'orgueil est l'essieu.
+La prostitution, c'est l'hymen malgré Dieu.
+Vous n'avez vu dans moi qu'une esclave qui ploie,
+Une chair misérable, un vil spectre de joie,
+Acceptant ce veuvage éternel, l'impudeur.
+Vous vous êtes trompé, monsieur. J'étais un coeur.
+Ah ! Vous le croyez donc, vous avez fait ce songe
+D'être ma providence, et moi je dis : mensonge !
+Vous m'avez tout donné ? Vous m'avez tout volé !
+Vous m'avez pris l'honneur, le nom immaculé,
+Le droit aux yeux baissés, la paix dans la prière,
+Et la gaie innocence, et cette extase fière
+De pouvoir confronter, quel que soit le destin,
+Sa conscience avec l'étoile du matin !
+Vous m'avez pris la joie et donné l'ironie.
+Duc, j'avais le sommeil, je vous dois l'insomnie.
+Mon père, ma mère ! Oh ! J'y songe avec remords,
+Et je sens la rougeur venir au front des morts.
+Vos bienfaits, vos bontés, prince, sont des sévices ;
+Vos dons sont des soufflets. Qu'est-ce que j'ai ? Des vices.
+Par ces hideux passants mon coeur sombre est troublé.[
+GALLUS]{.bold}.[
+]{.bold} Mais...[
+ZABETH]{.bold}.
+Oh ! Sarcler dans l'herbe ! Oh ! Glaner dans le blé !
+M'éveiller, m'en aller, sereine et reposée,
+L'âme dans la candeur, les pieds dans la rosée,
+J'avais cela ! J'avais la sainte pauvreté !
+Maintenant je vois croître autour de moi, l'été,
+L'hiver, sans fin, sans cesse, un luxe énorme, étrange,
+Fait de plaisir, de pourpre et d'orgueil, --- et de fange !
+Je n'ai plus rien, je râle, et tout me manque enfin !
+Le mépris, c'est le froid ; l'estime, c'est la faim.
+Je dois cette indigence à vos tristes manoeuvres,
+Monseigneur.[
+Elle arrache ses parures.
+]{.italic} Ô colliers et bracelets, couleuvres !
+Ô diamants hideux et vils ! Joyaux méchants !
+Bijoux traîtres \![
+Elle les foule aux pieds.
+]{.italic} Où donc êtes-vous, fleurs des champs ?[
+Se retournant vers Gallus]{.italic}.
+Mais, direz-vous, avoir ce lourd fermier pour maître
+m'eût froissée, et j'aurais eu quelque amant ? Peut-être !
+J'eusse pu rencontrer, oui, pourquoi le nier ?
+Quelque âpre aventurier des bois, un braconnier,
+Que sais-je ? Un voleur ! Oui, dans l'antre et dans l'ortie,
+Un homme commençant, prince, une dynastie,
+Un bandit, le fusil sur l'épaule, un rôdeur
+Demandant aux monts noirs, pleins d'ombre et de grandeur,
+Aux bois, où le soleil dans l'or sanglant se couche,
+Une épouse, et j'aurais pris cette âme farouche,
+Et j'aurais laissé prendre à cette âme mon coeur !
+Il eût été mon chêne et j'eusse été sa fleur.
+Et je vivrais ainsi, pauvre avec l'homme sombre,
+Habitant le hallier, la fuite, le décombre,
+Aussi hors de la loi que l'aigle et le vautour,
+Nue, en haillons, sans gîte... --- eh bien ! J'aurais l'amour !
+Et j'entendrais peut-être en cette vie amère
+Une petite voix qui me dirait : ma mère !
+Et mon voleur aurait de l'estime pour moi.
+Il serait tendre et bon, n'étant pas encore roi,
+Et nous serions tous deux honnêtes l'un pour l'autre.
+Tenez, duc, et voyez quelle soif est la nôtre !
+Vous êtes prince et vieux, deux choses que je hais,
+Eh bien, pourtant peut-être, hélas ! Nos vains souhaits
+Gardent au fond de l'ombre une porte fermée,
+Je vous aurais aimé si vous m'aviez aimée \![
+GALLUS]{.bold}.
+Mais...[
+ZABETH]{.bold}.
+C'est fini. Silence ! Avoir rêvé le ciel,
+Et s'éveiller avec l'arrière-goût du fiel,
+Et de tous les affronts sentir qu'on est la cible !
+Hélas ! Vous m'avez fait le coeur noir et terrible.
+Soyez maudit.
+[[GALLUS]{.italic}]{.bold} [veut parler. Elle l'arrête du geste.
+]{.italic} Silence ! Il me reste, et c'est beau,
+Contre vous, votre ennui, ma haine --- et le tombeau.[
+GALLUS]{.bold}.
+Mais que voulez-vous donc ? Dites-le \![
+ZABETH]{.bold}.[
+]{.bold} Ne plus vivre.
+[Elle tire de son sein quelque chose qu'elle approche de ses lèvres.[
+]{.bold}]{.italic} [GALLUS]{.bold}.
+Qu'a-t-elle dans la main ? Grand Dieu \![
+ZABETH]{.bold}.
+Ce qui délivre.
+Une nuit, vous étiez ivre, usage des grands.
+Je vous ai pris ceci.[
+Elle montre à Gallus une bague]{.italic}.[
+GALLUS.
+]{.bold} L'anneau !
+[Zabeth mord vivement le chaton, et, pâle, tend l'anneau à Gallus.
+]{.italic} [ZABETH]{.bold}.
+Je vous le rends.[
+GALLUS]{.bold}.
+Ciel ! Mais c'est un poison ! La mort terrible et prompte \![
+ZABETH]{.bold}.
+Boire la mort n'est rien quand on a bu la honte.[
+Elle s'affaisse sur un fauteuil]{.italic}.
+Adieu. Je prends mon vol, triste oiseau des forêts.
+Personne ne m'aima. Je meurs.[
+Elle expire]{.italic}.
+[GALLUS,]{.bold} [se jetant à ses pieds]{.italic}.
+Je t'adorais \![
+]{.bold}]{.calibre4}
+
+[[4 mars. -- 3 avril 1869.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Nous]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3336 .calibre_57}
+
+::: calibre_19
+
+
+[
+Nous sommes les proscrits ; nous habitons l'abîme ;
+Nous assistons dans l'ombre au vil bonheur d'un crime ;
+Nous regardons l'esprit vaincu par l'animal,
+Et l'infâme baiser de la fortune au mal ;
+Nous voyons des heureux qui sont des misérables ;
+Nous parlons entre nous des choses vénérables,
+De la liberté morte et du peuple trahi ;
+Nous sommes les éclairs du char d'Adonaï ;
+Nous jetons des lueurs sur les foules fécondes ;
+Notre clarté noyée apparaît sur les ondes,
+Disparaît, puis revient, et surnage toujours ;
+Un sombre amour remplace en nous tous les amours ;
+Nous adorons la France et vivons dans les bagnes.
+Ne nous demandez pas d'ébranler les montagnes
+Ou de saisir au vol ces noirs alérions,
+Le tonnerre, le bruit, le vent, nous l'essaierions !
+Nous raillons le forfait qui prétend nous absoudre ;
+Nous attendons, avec un grondement de foudre,
+Graves, roulant en nous l'anathème rêveur,
+Que le droit soit la loi, que Dieu rentre en faveur,
+Et que le genre humain ait des moments lucides ;
+Nous secouons sur ceux qui sont les parricides[
+]{.bold} Le noir trousseau de clefs de l'enfer entr'ouvert ;
+Pas plus que le sapin ne cesse d'être vert,
+Pas plus que le soleil ne renonce au solstice,
+Nous n'oublions l'honneur, le droit et la justice ;
+En présence du mal que les despotes font
+Nous prenons à témoin le firmament profond ;
+Nous écrivons avec une plume de bronze ;
+Philippe deux, Sylla, Tibère, Louis onze,
+Sont là sous notre oeil fixe, et tremblent ; les saisons
+Passent, que nous importe ! Indignés, nous laissons
+S'envoler dans les vents des pages redoutées ;
+Si l'empereur est Dieu nous sommes des athées ;
+À de certains moments, voyant Satan debout,
+Nous nous exaspérons au point de nier tout,
+Et l'indignation de nos coeurs se hérisse
+Jusqu'à mordre parfois notre âme, sa nourrice ;
+Mais Dieu permet la plainte au juste qui le sert ;
+L'été, quelle que soit l'âpreté du désert,
+Nous rêvons, écoutant le chant de la cigale ;
+Nous avons des petits ; notre table frugale
+Est offerte à quiconque arrive et dit : j'ai faim.
+Nous contemplons le ciel, nous attendons la fin ;
+Nous murmurons : Viens, toi, Némésis, qui délivres !
+Nous écrivons au bord des mers d'austères livres,
+Et ce que nous disons, faisons et publions
+Ressemble à la colère énorme des lions.[
+]{.bold}
+[30 novembre.]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[[[III]{.calibre34}]{.calibre2} -- Le Livre Lyrique -- La Destinée]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3338 .calibre_57}
+
+::: calibre_19
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I]{.calibre2}]{.bold1}]{.calibre_39} {#i .calibre_38}
+
+[
+Je suis fait d'ombre et de marbre.
+Comme les pieds noirs de l'arbre,
+Je m'enfonce dans la nuit.
+J'écoute ; je suis sous terre ;
+D'en bas je dis au tonnerre :
+Attends ! Ne fais pas de bruit.
+Moi qu'on nomme le poète,
+Je suis dans la nuit muette
+L'escalier mystérieux ;
+Je suis l'escalier Ténèbres ;
+Dans mes spirales funèbres
+L'ombre ouvre ses vagues yeux.
+Les flambeaux deviendront cierges.
+Respectez mes degrés vierges,
+Passez, les joyeux du jour !
+Mes marches ne sont pas faites
+Pour les pieds ailés des fêtes,
+Pour les pieds nus de l'amour.
+Devant ma profondeur blême
+Tout tremble, les spectres même
+Ont des gouttes de sueur.
+Je viens de la tombe morte ;
+J'aboutis à cette porte
+Par où passe une lueur.
+Le banquet rit et flamboie.
+Les maîtres sont dans la joie[
+]{.bold} Sur leur trône ensanglanté ;
+Tout les sert, tout les encense ;
+Et la femme à leur puissance
+Mesure sa nudité.
+Laissez la clef et le penne.
+Je suis l'escalier ; la peine
+Médite ; l'heure viendra ;
+Quelqu'un qu'entourent les ombres
+Montera mes marches sombres,
+Et quelqu'un les descendra.[
+]{.bold}
+[3 avril 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II -- Aux oiseaux et aux nuages]{.calibre2}]{.bold1}]{.calibre_39} {#ii-aux-oiseaux-et-aux-nuages .calibre_38}
+
+[[
+]{.bold} Ô vierges du Zénith, nuées,
+Ô doux enfants de l'air, oiseaux,
+Blancheurs par l'aube saluées,
+Que contemple l'oeil bleu des eaux ;
+Vous Ève nomma la première ;
+Vous pour qui le Dieu redouté
+Fit cet abîme, la Lumière,
+Et cette aile, la Liberté ;
+Vous qu'on voit, du gouffre où nous sommes,
+Dans le grand ciel mystérieux ;
+Vous qui n'admirez pas les Romes,
+Les fourmilières valant mieux ;
+Vous que la rosée en ses ombres
+Abreuve ou crée avec ses pleurs,
+Oiseaux qui sortez des nids sombres,
+Nuages qui sortez des fleurs,
+Parlez ; vous que le jour fait naître
+Pour un essor illimité,
+Vous que le libre éther pénètre
+De gloire et de sérénité,
+Vous qui voyez le mont austère,
+Le frais matin, le soir obscur,
+Toute la mer, toute la terre,
+Éternels passants de l'azur ;
+Que dit-on, dans la nuit sereine,
+Que pense-t-on, dans la clarté,
+De toute cette honte humaine
+Qui rampe sous l'immensité ?[
+]{.bold}
+[8 août 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III]{.calibre2}]{.bold1}]{.calibre_39} {#iii .calibre_38}
+
+[[
+]{.bold} Quand le bien et le mal, couple qui nous obsède,
+Fixant leurs yeux sur nous, nous demandant notre aide,
+Montrant deux chemins à nos pas,
+L'un, celui qui descend, l'autre, celui qui monte,
+Sont là, nous appelant, prêts à combattre : ― Honte
+À l'homme qui ne choisit pas !
+Honte au vivant timide, au passant inutile,
+Eunuque qui lui-même abdique et se mutile,
+Qui voit le devoir et le fuit,
+Et ne s'y jette pas la tête la première,
+Et n'ose pas ouvrir la porte de lumière
+Et fermer la porte de nuit !
+Qui recule peut faire une ruine immense.
+Grands, petits, Dieu sait seul où la force commence,
+Seul où la faiblesse finit ;
+Quand un mont chancelant croule, le grain de sable,
+S'il pouvait empêcher sa chute, est responsable
+Des crimes du bloc de granit.
+L'homme faible est l'appui du méchant qui se lève ;
+Les peureux font l'audace ; ils ont avec le glaive
+La complicité du fourreau.
+Ne dites pas : ― C'est mal, mais je n'y puis que faire. ―
+Ne dites pas : ― J'ai peur ; et je rentre en ma sphère ;
+Meurs, victime ; frappe, bourreau.
+Je laisse le remords et le crime à ma porte ;
+Je m'en vais du forfait des autres ; que m'importe
+Leur scélératesse ou leur deuil !
+Ce mort, s'il m'accusait, serait une âme fausse ;[
+]{.bold} Car, n'étant pas de ceux qui creusèrent la fosse,
+Je suis quitte avec le cercueil. ―
+Non, non ! Il faut briser le poteau du supplice ;
+Qui, pouvant empêcher, laisse faire, est complice.
+Abstention, complicité.
+Ce qui semble un atome est tout un crime immonde ;
+C'est souvent dans le moindre espace qu'en ce monde
+Tient la plus grande énormité.
+Tel qui renie un meurtre en est le vrai ministre.
+Le fond de la cuvette où, dans l'ombre sinistre,
+Un lâche se lave les mains,
+Peut offrir au regard, ― Vision surhumaine,
+Et que tout l'océan ne contiendrait qu'à peine ! ―
+Un mont noir aux âpres chemins,
+Trois gibets, deux voleurs se tordant sous les cordes,
+Les cieux mystérieux pleins de miséricordes
+S'ouvrant pour recevoir l'affront,
+Et sur la croix du centre, en une nuit sans lune,
+Un juste couronné d'épines dont chacune
+Perce une étoile sur son front \![
+]{.bold}
+[22 janvier 1855]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV]{.calibre2}]{.bold1}]{.calibre_39} {#iv .calibre_38}
+
+[[
+]{.bold} La calomnie immonde et qu'on jette en courant
+Et dont on nous lapide,
+Traverse, sans troubler son calme transparent,
+Le flot d'un coeur limpide.
+Vile, engloutie au fond de l'âme, loin du jour,
+Stagnante, elle s'efface,
+Et la candeur, la paix, l'espérance et l'amour
+Restent à la surface.
+Et les rêves sereins, la foi qui nous sourit,
+La bonté, douce et franche,
+N'en reviennent pas moins dans ce tranquille esprit
+Baigner leur aile blanche.
+L'injure du passant dans le lac le plus pur,
+Dans les coeurs les plus dignes,
+Tombe ; mais ce fond noir sur la vague d'azur
+Laisse nager les cygnes.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V -- Chanson d'autrefois et Chanson d'aujourd'hui]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#v-chanson-dautrefois-et-chanson-daujourdhui .calibre_38}
+
+
+[
+]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[I -- Chanson d'autrefois.]{.bold}]{.calibre_18} {#i-chanson-dautrefois. .calibre_48}
+
+[
+Quelqu'un connaît-il ma cachette ?
+C'est un lieu calme, où le ciel clair
+En un jour de printemps rachète
+Le mal qu'ont fait six mois d'hiver.
+Il y coule des eaux charmantes ;
+L'iris y naît dans les roseaux ;
+Et le murmure des amantes
+S'y mêle au babil des oiseaux.
+Là vivent, dans les fleurs, des groupes
+Épars, et parfois réunis,
+Avec des chants au fond des coupes
+Et le silence au fond des nids.
+La grâce de cette ombre heureuse
+Et de ce verdoyant coteau
+Semble faite des pleurs de Greuze
+Et du sourire de Watteau.
+Paris dans les brumes se plonge ;
+Et le cabaret de Régnier
+Ne vaut pas une heure de songe
+Sous les branches d'un châtaignier.
+Les plus belles choses du rêve
+Sont celles qu'admet l'antre frais,
+Et que confusément achève
+Le balancement des forêts.
+Je comprends peu qu'on soit superbe
+Et qu'il existe des méchants,
+Puisqu'on peut se coucher dans l'herbe
+Et qu'il fait clair de lune aux champs.
+Toutes les fleurs sont un langage
+Qui nous recommande l'amour,
+Qui nous berce, et qui nous engage
+À mettre dans nos coeurs le jour.
+Les vagues robes brillantées,
+Les seins blancs et les jeunes voix
+Des Phyllis et les Galatées
+Conseillent le rire et les bois.[
+]{.bold}
+[28 octobre 1857]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[II -- Chanson d'aujourd'hui.]{.bold}]{.calibre_18} {#ii-chanson-daujourdhui. .calibre_48}
+
+[
+La vision de la vie,
+Larve des vents poursuivie,
+Passe et ne m'occupe pas.
+La terre est une masure ;
+Qu'importe ce que mesure
+L'heure en tournant son compas !
+Que me fait la moisson blonde,
+L'étoile sortant de l'onde,
+L'aube dorant l'horizon,
+Et le bouquet sur la branche,
+Et la nue obscure ou blanche !
+Ce n'est point là ma maison.
+Je regarde d'autres choses,
+D'autres astres, d'autres roses,
+L'autre figure du sort,
+Et ce champ noir que recouvre
+L'ombre, où vaguement s'entrouvre
+La fleur blême de la mort.
+Oh ! Pour qui donc fleurit-elle,
+La pâle fleur immortelle ?
+Triste, elle s'épanouit ;
+Elle exhale, morne et sombre,
+On ne sait quel parfum d'ombre
+Dans l'inexprimable nuit.
+Au fond des brumes fatales,
+Sur ses sinistres pétales
+Tremble une étrange lueur ;
+La lugubre fleur regarde,
+Vertigineuse et hagarde,
+Comme une face en sueur.
+À sa lumière où s'éclipse
+La terrestre apocalypse,
+J'entrevois la vérité ;
+Car la vie est le mensonge,
+La chair trompe, et l'oeil qui songe
+Voit mieux l'âme, l'homme ôté.[
+]{.bold}
+[Guernesey, 31 mai 1857.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VI -- Près d'Avranches]{.calibre2}]{.bold1}]{.calibre_39} {#vi-près-davranches .calibre_38}
+
+[
+La nuit morne tombait sur la morne étendue.
+Le vent du soir soufflait, et, d'une aile éperdue,
+Faisait fuir, à travers les écueils de granit,
+Quelques voiles au port, quelques oiseaux au nid.
+Triste jusqu'à la mort, je contemplais le monde.
+Oh ! Que la mer est vaste et que l'âme est profonde !
+Saint-Michel surgissait, seul sur les flots amers,
+Chéops de l'occident, pyramide des mers.
+Je songeais à Égypte aux plis infranchissables,
+À la grande isolée éternelle des sables,
+Noire tente des rois, ce tas d'ombres qui dort
+Dans le camp immobile et sombre de la mort.
+Hélas ! Dans ces déserts, qu'emplit d'un souffle immense
+Dieu, seul dans sa colère et seul dans sa clémence,
+Ce que l'homme a dressé debout sur l'horizon,
+Là-bas, c'est le sépulcre, ici, c'est la prison.
+[Mai 1843.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VII -- Chanson]{.calibre2}]{.bold1}]{.calibre_39} {#vii-chanson .calibre_38}
+
+[
+J'aime à me figurer, de longs voiles couvertes,
+Des vierges qui s'en vont chantant dans les chemins
+Et qui sortent d'un temple avec des palmes vertes
+Aux mains ;
+Un rêve qui me plaît dans mes heures moroses,
+C'est un groupe d'enfants dansant dans l'ombre en rond,
+Joyeux, avec le rire à la bouche et des roses
+Au front !
+Un rêve qui m'enchante encore et qui me charme,
+C'est une douce fille à l'âge radieux
+Qui, sans savoir pourquoi, songe avec une larme
+Aux yeux ;
+Une autre vision, belle entre les plus belles,
+C'est Jeanne et Marguerite, astres, vous les voyez !
+Qui, le soir, dans les prés courent avec des ailes
+Aux pieds !
+Mais des rêves dont j'ai la pensée occupée,
+Celui qui pour mon âme a le plus de douceur,
+C'est un tyran qui râle avec un coup d'épée
+Au coeur \![
+]{.bold}
+[Bruxelles, 23 avril 1852.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VIII]{.calibre2}]{.bold1}]{.calibre_39} {#viii .calibre_38}
+
+[
+Coup d'épée ; oui, mais non de poignard. Il te faut,
+Poète, un tournoi franc et libre, où le front haut,
+On lutte, glaive au poing, sans fureur vipérine,
+Pied à pied, face à face et poitrine à poitrine,
+Toi, soldat du droit, lui, champion de l'enfer ;
+Tu veux combattre au jour, loyal comme le fer,
+Fauve et terrible avec la candeur des colombes,
+Afin que si c'est toi, poète, qui succombes,
+Tu puisses, en entrant au sépulcre demain,
+Trouver Cid et Bayard qui te tendent la main.[
+]{.bold}
+[29 mai.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IX -- En écoutant chanter la princesse \*\*\*]{.calibre2}]{.bold1}]{.calibre_39} {#ix-en-écoutant-chanter-la-princesse .calibre_38}
+
+[
+Dans ta haute demeure
+Dont l'air est étouffant,
+De l'accent dont on pleure
+Tu chantes, douce enfant.
+Tu chantes, jeune fille.
+Ton père, c'est le roi.
+Autour de toi tout brille,
+Mais tout soupire en toi.
+Pense, mais sans rien dire ;
+Aimer t'est défendu ;
+Doux être, ton sourire
+En naissant s'est perdu.
+Tu te sens épousée
+Par une main qui sort
+Inconnue et glacée
+De cette ombre, le sort.
+Ton coeur, triste et sans ailes,
+Est dans ce gouffre noir
+À des profondeurs telles
+Que tu ne peux l'avoir.
+Tu n'es qu'altesse encore,
+Tu seras majesté.
+Bien qu'un reflet d'aurore
+Sur ton front soit resté,
+Enfant chère aux armées,
+Déjà nous te voyons[
+]{.bold} Dans toutes les fumées
+Et dans tous les rayons.
+Ton parrain est le pape ;
+Vierge, il t'a dit : Ave !
+Quand tu passes, on frappe
+Des piques le pavé.
+Comme Dieu l'on t'encense ;
+Toi-même as le frisson
+De la toute-puissance
+Mêlée à ta chanson.
+De vieux légionnaires
+Te gardent, fiers, soumis ;
+Et l'on voit des tonnerres
+À ta porte endormis.
+Autour de toi se creuse
+L'éclatant sort des rois.
+Tu serais plus heureuse
+Fauvette dans les bois.
+[3 avril.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[X]{.calibre2}]{.bold1}]{.calibre_39} {#x .calibre_38}
+
+[
+Un hymne harmonieux sort des feuilles du tremble ;
+Les voyageurs craintifs, qui vont la nuit ensemble,
+Haussent la voix dans l'ombre où l'on doit se hâter.
+Laissez tout ce qui tremble
+Chanter.
+Les marins fatigués sommeillent sur le gouffre.
+La mer bleue où Vésuve épand ses flots de soufre
+Se tait dès qu'il s'éteint, et cesse de gémir.
+Laissez tout ce qui souffre
+Dormir.
+Quand la vie est mauvaise on la rêve meilleure.
+Les yeux en pleurs au ciel se lèvent à toute heure ;
+L'espoir vers Dieu se tourne et Dieu l'entend crier.
+Laissez tout ce qui pleure
+Prier.
+C'est pour renaître ailleurs qu'ici-bas on succombe.
+Tout ce qui tourbillonne appartient à la tombe.
+Il faut dans le grand tout tôt ou tard s'absorber.
+Laissez tout ce qui tombe
+Tomber \![
+]{.bold}]{.calibre4}
+
+[[18 janvier 1843.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XI]{.calibre2}]{.bold1}]{.calibre_39} {#xi .calibre_38}
+
+[
+Dieu ne frappe qu'en haut. Infimes que nous sommes !
+Oh ! Disais-je, qu'ils sont heureux, tous ces grands hommes !
+Eschyle a son exil et Job a son fumier.
+Caton est le lion, le sort est le limier.
+C'est le fier ornement de la guerre civile,
+Que tous ces grands bannis qui vont de ville en ville.
+Verser son âme au monde et son sang aux pavés,
+C'est grand ; et les élus, ce sont les éprouvés.
+Ils marchent, couronnés d'un mystérieux lustre.
+Oh ! Parmi tous heureux et parmi tous illustre
+Celui que la tempête a choisi pour amant !
+Dans l'immense beauté du supplice infamant
+Des auréoles d'or tremblent sur les génies.
+Quel que soit dans l'histoire, amas de gémonies,
+Le siècle qui les ait tenus sous ses barreaux,
+Les hommes glorieux, les sages, les héros,
+Sont tous contemporains de l'adversité sombre.
+Démosthène chassé parle à Milton dans l'ombre ;
+Phidias expulsé rencontre Dante errant.
+Phidias dit : le vrai ! Dante répond : le grand !
+Destins pareils ! Ô gloire ! Ô pléiade splendide !
+Hérodote en exil suivi par Thucydide !
+Thémistocle épervier, Aristide alcyon !
+Ô les quatre-vingts ans du grave Phocion !
+C'est marque de grandeur dans ce monde où l'on erre
+Que d'être, ô cieux profonds, balafré du tonnerre !
+Caucase est lumineux sous l'éternel mourant.
+Trombe, le vent est beau ; l'onde est belle, torrent.
+Je t'admire, ô ciguë, échafaud, je t'envie.
+Quelle sublime porte à sortir de la vie
+Que celle où se courba Danton, âpre titan !
+Le chasseur d'aigles dit au passereau : va-t'en !
+Et les événements, comme d'altiers molosses,
+Ne veulent, dédaigneux, mordre que les colosses ! ---
+Jaloux, je regardais sous les cieux constellés
+À tous les grands poteaux ces grands dos flagellés,
+Et tous ces fiers saignants, traînés dans nos discordes,
+Les yeux pleins de rayons, les bras liés de cordes,
+Montant ou descendant les marches de la nuit.
+Ô crachats au visage ! Affronts ! Brume où l'on fuit !
+Grand devoir accompli dont le vertige attire !
+Proscription ! Misère ! Ostracisme ! Martyre !
+Atome, j'enviais ces pourpres des géants.
+Mais nous, pensais-je, hélas ! Perdus dans nos néants,
+Nous passons, dévorant quelque inutile joie ;
+Nous sommes trop petits pour que l'éclair nous voie ;
+Nous, les vivants obscurs, nous ne méritons pas
+Que de notre côté Némésis fasse un pas ;
+Syène ne reçoit que Juvénal ; Minturnes
+N'ouvre qu'aux Marius ses ombres taciturnes ;
+Dieu nous créa, chétifs, pour le bonheur d'en bas ;
+Nous ne sommes pas faits pour les vastes combats,
+Et, comme ces proscrits aux têtes étoilées,
+Pour les rêves profonds près des mers désolées.
+L'atome n'a pas droit aux grands écrasements ;
+Il n'a pas droit aux cris de la haine, aux tourments
+De la claie âpre et sainte, aux faces hérissées
+De serpents poursuivant sans trêve ses pensées,
+Non. --- Je baissais la tête et j'étais triste ainsi. ---
+Maintenant, ô destin, ô Méduse, merci.
+[17 mars 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XII -- Nuits d'hiver]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xii-nuits-dhiver .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[ ]{.calibre4}
+
+[
+Comme la nuit tombe vite !
+Le jour, en cette saison,
+Comme un voleur prend la fuite,
+S'évade sous l'horizon.
+Il semble, ô soleil de Rome,
+De l'Inde et du Parthénon,
+Que, quand la nuit vient de l'homme
+Visiter le cabanon,
+Tu ne veux pas qu'on te voie,
+Et que tu crains d'être pris
+En flagrant délit de joie
+Par la geôlière au front gris.
+Pour les heureux en démence
+L'âpre hiver n'a point d'effroi,
+Mais il jette un crêpe immense
+Sur celui qui, comme moi,
+Rêveur, saignant, inflexible,
+Souffrant d'un stoïque ennui,
+Sentant la bouche invisible
+Et sombre souffler sur lui,
+Montant des effets aux causes,
+Seul, étranger en tout lieu,
+Réfugié dans les choses
+Où l'on sent palpiter Dieu,
+De tous les biens qu'un jour fane
+Et dont rit le sage amer,
+N'ayant plus qu'une cabane
+Au bord de la grande mer,
+Songe, assis dans l'embrasure,
+Se console en s'abîmant,
+Et, pensif, à sa masure
+Ajoute le firmament !
+Pour cet homme en sa chaumière,
+C'est une amère douleur
+Que l'adieu de la lumière
+Et le départ de la fleur.
+C'est un chagrin quand, moroses,
+Les rayons dans les vallons
+S'éclipsent, et quand les roses
+Disent : nous nous en allons !]{.calibre4}
+
+[]{.calibre_7}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Le soir qui verse, ô mystère !
+Le ciel noir sur le ciel bleu,
+Entre l'espace et la terre
+Pose une barre de feu.
+Le couchant, dorant mon bouge,
+Ferme, sur l'ombre où je suis,
+Comme un verrou de fer rouge,
+La porte énorme des nuits.
+Cherchant au ciel des étoiles,
+Vous écoutez, matelots,
+Ce que le frisson des voiles
+Dit au tremblement des flots.
+La bise, bouche vivante,
+Les vents, les bruits, les typhons,
+Toute la grande épouvante
+Erre sous les cieux profonds.
+Je baisse mes yeux funèbres ;
+Je me sens dans ma terreur
+Compagnon de ces ténèbres
+Et frère de cette horreur.
+L'homme, en proie aux maux sans nombre,
+Porte en son coeur, morne enfer,
+Toute la honte de l'ombre,
+De l'abîme et de la chair.
+Je sens que ce crépuscule
+Me pénètre soucieux,
+Et qu'en moi l'âme recule
+Comme le jour dans les cieux.
+Il semble que tout s'altère,
+Se traîne, expire ou s'abat,
+Et qu'il reste de la terre
+Ce qui reste d'un combat.
+L'arbre, près du flot qui râle,
+Tord ses bras comme un banni ;
+On ne sait quel reflet pâle
+Des lueurs de l'infini
+Perce les bois sans feuillée,
+Et teint d'un livide éclair
+Cette cuirasse écaillée
+Que nous appelons la mer.
+Tandis que l'occident sombre
+Lutte contre le néant,
+Le levant s'emplit de l'ombre
+De tout le gouffre béant.
+Une main est-ce la vôtre,
+Dieu ? --- Tire, en l'azur désert,
+Les astres l'un après l'autre
+Du puits de l'abîme ouvert.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+Nuit partout. Rien ne résiste,
+Au couchant comme au midi.
+On sent la nature triste,
+Dieu froid, le mal enhardi.
+Dans l'univers où s'efface
+Le nombre et le mouvement,
+Les visions de l'espace
+Vont et viennent vaguement ;
+Et, tremblante dans ta gloire,
+Tu regardes, ô Vénus,
+Cette grande maison noire
+Pleine de pas inconnus.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[IV]{.bold}]{.calibre_18} {#iv .calibre_48}
+
+[
+Les caps aux lugubres formes
+Se dressent de tous côtés
+Comme des talons énormes
+D'archanges précipités.
+L'eau bat le roc qu'elle insulte,
+Le vent bat l'eau qu'il poursuit ;[
+]{.bold} Toute l'onde est un tumulte
+De montagnes dans la nuit.
+L'écume ; ni bords, ni centres ;
+De blancs flocons ; l'ouragan.
+Chaque vague est un des antres
+Où bâille l'hydre océan.
+On ne voit rien que la trombe
+Où la brume s'élargit ;
+C'est du hurlement qui tombe,
+De la neige qui rugit.
+L'onde sans fond court sans terme ;
+L'eau roule en plis tortueux ;
+Chaque flot s'ouvre, se ferme,
+Se rouvre... --- Ô flots monstrueux !
+À jamais l'infini sombre
+Refait, défait, reconstruit
+Les écroulements sans nombre
+De ces cavernes de bruit.
+À jamais la vague essuie
+Le roc vert, l'écueil félon,
+Et, sous ses haillons de pluie,
+Sous ses cheveux d'aquilon,
+Chargé de siècles et d'âges,
+Soufflant dans de noirs clairons,
+Faisant un bruit de cordages,
+De tempête et d'avirons,
+Au fond de l'ombre insondable
+Où l'astre meurt prisonnier,
+Le pâle hiver formidable
+Passe, effrayant nautonier.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[V]{.bold}]{.calibre_18} {#v .calibre_48}
+
+[
+Oh ! reviens ! printemps ! fanfare
+Des parfums et des couleurs !
+Toute la plaine s'effare
+Dans une émeute de fleurs.
+La prairie est une fête ;
+L'âme aspire l'air, le jour,
+L'aube, et sent qu'elle en est faite ;
+L'azur se mêle à l'amour.
+On croit voir, tant avril dore
+Tout de son reflet riant,
+Éclore au rosier l'aurore
+Et la rose à l'orient.
+Comme ces aubes de flamme
+Chassent les soucis boudeurs !
+On sent s'ouvrir dans son âme
+De charmantes profondeurs.
+On se retrouve heureux, jeune,
+Et, plein d'ombre et de matin,
+On rit de l'hiver, ce jeûne,
+Avec l'été, ce festin.
+Oh ! mon coeur loin de ces grèves
+Fuit et se plonge, insensé,
+Dans tout ce gouffre de rêves
+Que nous nommons le passé !
+Je revois mil huit cent douze,
+Mes frères petits, le bois,
+Le puisard et la pelouse,
+Et tout le bleu d'autrefois.
+Enfance ! Madrid ! Campagne
+Où mon père nous quitta !
+Et dans le soleil, Espagne !
+Toi dans l'ombre, Pepita !
+Moi, huit ans, elle le double ;
+En m'appelant son mari,
+Elle m'emplissait de trouble... ---
+Ô rameaux de mai fleuri !
+Elle aimait un capitaine ;
+J'ai compris plus tard pourquoi,
+Tout en l'aimant, la hautaine
+N'était douce que pour moi.
+Elle attisait son martyre
+Avec moi, pour l'embraser,
+Lui refusait un sourire
+Et me donnait un baiser.
+L'innocente, en sa paresse,
+Se livrant sans se faner,
+Me donnait cette caresse
+Afin de ne rien donner.
+Et ce baiser économe,
+Qui me semblait généreux,
+Rendait jaloux le jeune homme,
+Et me rendait amoureux.
+Il partait, la main crispée ;
+Et, me sentant un rival,
+Je méditais une épée
+Et je rêvais un cheval.
+Ainsi, du bout de son aile
+Touchant mon coeur nouveau-né,[
+]{.bold} Gaie, ayant dans sa prunelle
+Un doux regard étonné,
+Sans savoir qu'elle était femme,
+Et riant de m'épouser,
+Cet ange allumait mon âme
+Dans l'ombre avec un baiser.
+Mal ou bien, épine ou rose,
+À tout âge, sages, fous,
+Nous apprenons quelque chose
+D'un enfant plus vieux que nous.
+Un jour la pauvre petite
+S'endormit sous le gazon... ---
+Comme la nuit tombe vite
+Sur notre sombre horizon \![
+]{.bold}
+[15 janvier 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIII -- Chanson d'autrefois et Chanson d'aujourd'hui]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xiii-chanson-dautrefois-et-chanson-daujourdhui .calibre_38}
+
+
+[
+]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[I -- Chanson d'autrefois.]{.bold}]{.calibre_18} {#i-chanson-dautrefois. .calibre_48}
+
+[
+Jamais elle ne raille,
+Étant un calme esprit ;
+Mais toujours elle rit. ---
+Voici des brins de mousse avec des brins de paille ;
+Fauvette des roseaux,
+Fais ton nid sur les eaux.
+Quand sous la clarté douce
+Qui sort de tes beaux yeux,
+On passe, on est joyeux. ---
+Voici des brins de paille avec des brins de mousse ;
+Martinet de l'azur,
+Fais ton nid dans mon mur.
+Dans l'aube avril se mire,
+Et les rameaux fleuris
+Sont pleins de petits cris. ---
+Voici de son regard, voici de son sourire,
+Amour, ô doux vainqueur,
+Fais ton nid dans mon coeur.[
+]{.bold}
+[9 janvier 1855.]{.italic}]{.calibre4}
+
+
+[
+]{.calibre_18}
+
+### [[II -- Chanson d'aujourd'hui.]{.bold}]{.calibre_18} {#ii-chanson-daujourdhui. .calibre_48}
+
+[
+Je disais : --- Dieu qu'aucun suppliant n'importune,
+Quand vous m'éprouverez dans votre volonté,
+Laissez mon libre esprit choisir dans la fortune
+L'un ou l'autre côté ;
+Entre un riche esclavage et la pauvreté franche,
+Laissez-moi choisir, Dieu du cèdre et du roseau ;
+Entre l'or de la cage et le vert de la branche
+Faites juge l'oiseau. ---
+Maintenant je suis libre, et la nuit me réclame ;
+J'ai choisi l'âpre exil ; j'habite au bois obscur ;
+Mais je vois s'allumer les étoiles de l'âme
+Dans mon sinistre azur.[
+]{.bold}
+[3 avril 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIV -- Jersey]{.calibre2}]{.bold1}]{.calibre_39} {#xiv-jersey .calibre_38}
+
+[
+Jersey dort dans les flots, ces éternels grondeurs ;
+Et dans sa petitesse elle a les deux grandeurs ;
+Île, elle a l'océan ; roche, elle est la montagne.
+Par le sud Normandie et par le nord Bretagne,
+Elle est pour nous la France, et, dans son lit de fleurs,
+Elle en a le sourire et quelquefois les pleurs.
+Pour la troisième fois j'y vois les pommes mûres.
+Terre d'exil, que mord la vague aux sourds murmures,
+Sois bénie, île verte, amour du flot profond !
+Ce coin de terre, où l'âme à l'infini se fond,
+S'il était mon pays, serait ce que j'envie.
+Là, le lutteur serein, naufragé de la vie,
+Pense, et, sous l'oeil de Dieu, sur cet écueil vermeil,
+Laisse blanchir son âme ainsi que le soleil
+Blanchit sur le gazon les linges des laveuses.
+Les rocs semblent frappés d'attitudes rêveuses ;
+Dans leurs antres, ainsi qu'aux fentes d'un pressoir,
+L'écume à flots bouillonne et luit ; quand vient le soir,
+La forêt jette au vent des notes sibyllines ;
+Le dolmen monstrueux songe sur les collines ;
+L'obscure nuit l'ébauche en spectre ; et dans le bloc
+La lune blême fait apparaître Moloch.
+À cause du vent d'ouest, tout le long de la plage,
+Dans tous les coins de roche où se groupe un village,
+Sur les vieux toits tremblants des pêcheurs riverains,
+Le chaume est retenu par des câbles marins
+Pendant le long des murs avec de grosses pierres ;
+La nourrice au sein nu qui baisse les paupières
+Chante à l'enfant qui tette un chant de matelot ;[
+]{.bold} Le bateau dès qu'il rentre est tiré hors du flot ;
+Et les prés sont charmants.
+Salut, terre sacrée !
+Le seuil des maisons rit comme une aube dorée.
+Phares, salut ! Amis que le péril connaît !
+Salut, clochers où vient nicher le martinet ;
+Pauvres autels sculptés par des sculpteurs de proues ;
+Chemins que dans les bois emplit le bruit des roues ;
+Jardins de laurier rose et d'hortensia bleu ;
+Étangs près de la mer, sagesses près de Dieu !
+Salut !
+À l'horizon s'envole la frégate ;
+Le flux mêle aux galets, polis comme l'agate,
+Les goémons, toison du troupeau des récifs ;
+Et Vénus éblouit les vieux rochers pensifs,
+Dans l'ombre, au point du jour, quand, au chant de la grive,
+Tenant l'enfant matin par la main, elle arrive.
+Ô bruyères ! Plémont qu'évite le steamer !
+Vieux palais de Cybèle écroulé dans la mer !
+Mont qu'étreint l'océan de ses liquides marbres !
+Mugissement des boeufs ! Doux sommeils sous les arbres !
+L'île semble prier comme un religieux ;
+Tout à l'entour, chantant leur chant prodigieux,
+L'abîme et l'océan font leur immense fête ;
+La nue en passant pleure ; et l'écueil, sur son faîte,
+Pendant que la mer brise à ses pieds le vaisseau,
+Garde un peu d'eau du ciel pour le petit oiseau.
+[Creux de la Touraille (l'Homme sans Tête).]{.italic}
+[8 octobre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XV -- Androclès]{.calibre2}]{.bold1}]{.calibre_39} {#xv-androclès .calibre_38}
+
+[
+Quand tout me souriait encore,
+Jadis, quand j'étais radieux,
+Aux jours de la jeunesse, aurore
+Dont on prolonge les adieux,
+Du milieu de l'immense fête
+Des heureux d'alors qui, joyeux,
+Sceptre en main et couronne en tête,
+Riaient, chantaient, mêlés aux cieux,
+J'ai vu, tandis que sur la terre
+Tout était faste, hymne et concert,
+L'exil qui saignait, solitaire
+Et terrible, dans son désert.
+Je suis allé vers l'âpre grève
+Où rampait le grand abattu ;
+J'ai dit : je suis celui qui rêve.
+Toi qui souffres, qui donc es-tu ?
+Et, levant sa prunelle pleine
+Du reflet lointain de Saint-Cloud,
+Il m'a dit : je suis Sainte-Hélène.
+Il m'a dit : je suis Holyrood.
+Alors, moi, fils de nos désastres,
+Attestant, devant ces douleurs,
+Et la nuit qui sème les astres,
+Et le jour qui sème les fleurs,
+J'ai salué dans sa ruine
+Le sombre maître estropié,[
+]{.bold} Et j'ai retiré son épine,
+Et baisé sa plaie à son pied.
+Puis dans le vent qui tourbillonne
+J'ai continué mon chemin ;
+Car j'étais à l'âge où rayonne
+Le mystérieux lendemain.
+J'ai vécu ; j'ai penché ma tête
+Sur les souffrants, sur les petits.
+L'azur fit place à la tempête ;
+J'avais rêvé, je combattis.
+Ainsi que le frère d'Électre,
+Comme Jacob, --- Dieu, tu le veux, ---
+J'ai saisi corps à corps le spectre,
+Et l'ange m'a pris aux cheveux.
+Je combattis pour la pensée,
+Pour le devoir, pour Dieu nié,
+Pour la grande France éclipsée,
+Pour le soleil calomnié.
+Je combattis l'ombre et l'envie,
+Sans peur, sans tache à mon écu ;
+Puis il se trouva, c'est la vie,
+Qu'ayant lutté, je fus vaincu.
+Je fus un de ceux que la foule
+Donne à dévorer à l'exil.
+Sur tout vaincu le dédain roule ;
+Brutus est fou, Caton est vil.
+La Victoire éclatant de rire
+Montre Aristide à ses amants ;
+Que de martyrs l'exil déchire !
+Sa cage est pleine d'ossements !
+Autour de moi des voix funèbres
+Criaient : Cayenne ! Lambessa !
+L'exil songeait dans les ténèbres ;
+Quand il me vit, il se dressa.
+Il vint à moi, ce noir ministre
+Du sombre destin inclément.
+Pendant qu'il s'avançait sinistre,
+Je le regardai fixement.
+Il venait ; sur la terre sombre
+Son pas sonnait comme un marteau.
+Maintenant il me tient dans l'ombre
+Et son ongle est sur mon manteau.
+Mais, au lieu d'angoisse et de peine,
+J'ai le calme et la joie au coeur.
+Le lion s'est mis, dans l'arène,
+À lécher le gladiateur.
+[Jersey, 18 février 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVI -- À ma fille Adèle]{.calibre2}]{.bold1}]{.calibre_39} {#xvi-à-ma-fille-adèle .calibre_38}
+
+[[
+]{.bold} Tout enfant, tu dormais près de moi, rose et fraîche,
+Comme un petit Jésus assoupi dans sa crèche ;
+Ton pur sommeil était si calme et si charmant
+Que tu n'entendais pas l'oiseau chanter dans l'ombre ;
+Moi, pensif, j'aspirais toute la douceur sombre
+Du mystérieux firmament.
+Et j'écoutais voler sur ta tête les anges ;
+Et je te regardais dormir ; et sur tes langes
+J'effeuillais des jasmins et des oeillets sans bruit ;
+Et je priais, veillant sur tes paupières closes ;
+Et mes yeux se mouillaient de pleurs, songeant aux choses
+Qui nous attendent dans la nuit.
+Un jour mon tour viendra de dormir ; et ma couche,
+Faite d'ombre, sera si morne et si farouche
+Que je n'entendrai pas non plus chanter l'oiseau ;
+Et la nuit sera noire ; alors, ô ma colombe,
+Larmes, prière et fleurs, tu rendras à ma tombe
+Ce que j'ai fait pour ton berceau.[
+]{.bold}
+[4 octobre 1857.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVII -- En marchant le matin]{.calibre2}]{.bold1}]{.calibre_39} {#xvii-en-marchant-le-matin .calibre_38}
+
+[[
+]{.bold} Puisque là-bas s'entrouvre une porte vermeille,
+Puisque l'aube blanchit le bord de l'horizon,
+Pareille au serviteur qui le premier s'éveille
+Et, sa lampe à la main, marche dans la maison,
+Puisqu'un blême rayon argente la fontaine,
+Puisqu'à travers les bois l'immense firmament
+Jette une lueur pâle et calme que la plaine
+Regarde vaguement,
+Puisque le point du jour sur les monts vient d'éclore,
+Je m'en vais dans les champs tristes, vivants et doux ;
+Je voudrais bien savoir où l'on trouve une aurore
+Pour cette sombre nuit que nous avons en nous !
+Que fait l'homme ? La vie est-elle une aventure ?
+Que verra-t-on après et de l'autre côté ?
+Tout frissonne. Est-ce à moi que tu parles, nature,
+Dans cette obscurité ?[
+]{.bold}
+[17 mars 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVIII]{.calibre2}]{.bold1}]{.calibre_39} {#xviii .calibre_38}
+
+[[
+]{.bold} Un groupe tout à l'heure était là sur la grève,
+Regardant quelque chose à terre. ― Un chien qui crève !
+M'ont crié des enfants ; voilà tout ce que c'est. ―
+Et j'ai vu sous leurs pieds un vieux chien qui gisait.
+L'océan lui jetait l'écume de ses lames.
+--- Voilà trois jours qu'il est ainsi, disaient des femmes,
+On a beau lui parler, il n'ouvre pas les yeux.
+--- Son maître est un marin absent, disait un vieux.
+Un pilote, passant la tête à sa fenêtre,
+À repris : ― Ce chien meurt de ne plus voir son maître.
+Justement le bateau vient d'entrer dans le port ;
+Le maître va venir, mais le chien sera mort. ―
+Je me suis arrêté près de la triste bête,
+Qui, sourde, ne bougeant ni le corps ni la tête,
+Les yeux fermés, semblait morte sur le pavé.
+Comme le soir tombait, le maître est arrivé,
+Vieux lui-même ; et, hâtant son pas que l'âge casse,
+À murmuré le nom de son chien à voix basse.
+Alors, rouvrant ses yeux pleins d'ombre, exténué,
+Le chien a regardé son maître, a remué
+Une dernière fois sa pauvre vieille queue,
+Puis est mort. C'était l'heure où, sous la voûte bleue,
+Comme un flambeau qui sort d'un gouffre, Vénus luit ;
+Et j'ai dit : D'où vient l'astre ? Où va le chien ? Ô nuit !
+[12 juillet 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIX -- Sur la falaise]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xix-sur-la-falaise .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+Tu souris dans l'invisible.
+Ô douce âme inaccessible,
+Seul, morne, amer,
+Je sens ta robe qui flotte
+Tandis qu'à mes pieds sanglote
+La sombre mer.
+La nuit à mes chants assiste.
+Je chante mon refrain triste
+À l'horizon.
+Ange frissonnant, tu mêles
+Le battement de tes ailes
+À ma chanson.
+Je songe à ces pauvres êtres,
+Nés sous tous ces toits champêtres,
+Dont le feu luit,
+Barbe grise, tête blonde,
+Qu'emporta cette eau profonde
+Dans l'âpre nuit.
+Je pleure les morts des autres.
+Hélas ! Leurs deuils et les nôtres
+Ne sont qu'un deuil.[
+]{.bold} Nous sommes, dans l'étendue,
+La même barque perdue
+Au même écueil.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Tous ces patrons, tous ces mousses,
+Qu'appelaient tant de voix douces
+Et tant de voeux,
+Ils sont mêlés à l'espace,
+Et le poisson d'argent passe
+Dans leurs cheveux.
+Au fond des vagues sans nombre,
+On voit, sous l'épaisseur sombre
+Du flot bruni,
+Leur bouche ouverte et terrible
+Qui boit la stupeur horrible
+De l'infini.
+Ils errent, blêmes fantômes.
+Ils ne verront plus les chaumes
+Au pignon noir,
+Les bois aux fraîches ramées,
+Les prés, les fleurs, les fumées
+Dans l'or du soir.
+Dans leurs yeux l'onde insensée,
+Qui fuit sans cesse, poussée
+Du vent hagard,
+Remplace, sombre passante,
+La terre, à jamais absente
+De leur regard.
+Ils sont l'ombre et le cadavre ;
+Ceux qui vont de havre en havre
+Dans les reflux,
+Qui ne verront plus l'aurore,
+Et que l'aube au chant sonore
+Ne verra plus.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+Et cependant sur les côtes
+On songe encore à ces hôtes
+De l'inconnu,
+Partis, dans l'eau qui frissonne,
+Pour cette ombre dont personne
+N'est revenu.
+C'était l'enfant ! C'était l'homme !
+On les appelle, on les nomme
+Dans les maisons,
+Le soir, quand brille le phare,
+Et quand la flamme s'effare
+Sur les tisons.
+L'un dit : ― En août, j'espère,
+Ils reviendront tous, Jean, Pierre,
+Jacques, Louis ;
+Quand la vigne sera mûre ;... ―
+Et le vent des nuits murmure :
+Évanouis !
+L'autre dit : ― Dans les tempêtes
+Regardez bien, et leurs têtes
+Apparaîtront.[
+]{.bold} On les voit quand le soir tombe.
+Toute vague est une tombe
+D'où sort un front. ―]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[IV]{.bold}]{.calibre_18} {#iv .calibre_48}
+
+[
+C'est dans cette onde effrénée
+Que leur âme au ciel est née,
+Divin oiseau.
+Toute vague est une tombe ;
+Toute vague, ô ma colombe,
+Est un berceau.
+[28 février 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XX]{.calibre2}]{.bold1}]{.calibre_39} {#xx .calibre_38}
+
+[[
+]{.bold} J'ai beau comme un imbécile
+Regarder dans ma maison,
+Si bien qu'on dit dans la ville
+Que j'ai perdu la raison,
+J'ai beau chercher ; elle est morte.
+Elle ne reviendra pas.
+Elle est partie, et la porte
+Est encore ouverte, hélas !
+Je tressaille quand on sonne.
+Je l'attends, j'en fais l'aveu.
+Où sont ces beaux jours d'automne
+Quand elle était là, mon Dieu !
+Cette âme s'en est allée.
+Elle a fui, moi demeurant.
+La nuit, à l'ombre étoilée
+Je tends les bras en pleurant.
+Je m'accoude à ma fenêtre,
+Je songe aux jours révolus.
+Hélas ! Ce pauvre doux être
+Qui chantait, je ne l'ai plus !
+[Bruxelles, 28 avril 1852.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXI -- En marchant la nuit dans un bois]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xxi-en-marchant-la-nuit-dans-un-bois .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+Il grêle, il pleut. Neige et brume ;
+Fondrière à chaque pas.
+Le torrent veut, crie, écume,
+Et le rocher ne veut pas.
+Le sabbat à notre oreille
+Jette ses vagues hourras.
+Un fagot sur une vieille
+Passe en agitant les bras.
+Passants hideux, clartés blanches ;
+Il semble, en ces noirs chemins,
+Que les hommes ont des branches,
+Que les arbres ont des mains.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+On entend passer un coche,
+Le lourd coche de la mort.
+Il vient, il roule, il approche.
+L'eau hurle et la bise mord.
+Le dur cocher, dans la plaine
+Aux aspects noirs et changeants,
+Conduit sa voiture pleine
+De toutes sortes de gens.
+Novembre souffle, la terre
+Frémit, la bourrasque fond ;
+Les flèches du sagittaire
+Sifflent dans le ciel profond.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+--- Cocher, d'où viens-tu ? Dit l'arbre.
+--- Où vas-tu ? Dit l'eau qui fuit.
+Le cocher est fait de marbre
+Et le coche est fait de nuit.
+Il emporte beauté, gloire,
+Joie, amour, plaisirs bruyants ;
+La voiture est toute noire,
+Les chevaux sont effrayants.
+L'arbre en frissonnant s'incline.
+L'eau sent les joncs se dresser.
+Le buisson sur la colline
+Grimpe pour le voir passer.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[IV]{.bold}]{.calibre_18} {#iv .calibre_48}
+
+[
+Le brin d'herbe sur la roche,
+Le nuage dans le ciel,
+Regarde marcher ce coche,
+Et croit voir rouler Babel.
+Sur sa morne silhouette,
+Battant de l'aile à grands cris,
+Volent l'orage, chouette,
+Et l'ombre, chauve-souris.
+Vent glacé, tu nous secoues !
+Le char roule, et l'oeil tremblant,
+À travers ses grandes roues,
+Voit un crépuscule blanc.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[V]{.bold}]{.calibre_18} {#v .calibre_48}
+
+[
+La nuit, sinistre merveille,
+Répand son effroi sacré ;
+Toute la forêt s'éveille
+Comme un dormeur effaré.
+Après les oiseaux, les âmes !
+Volez sous les cieux blafards.
+L'étang, miroir, rit aux femmes
+Qui sortent des nénuphars.
+L'air sanglote, et le vent râle,
+Et, sous l'obscur firmament,
+La nuit sombre et la mort pâle
+Se regardent fixement.[
+]{.bold}
+[19 novembre 1853.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXII -- Lueur à l'horizon]{.calibre2}]{.bold1}]{.calibre_39} {#xxii-lueur-à-lhorizon .calibre_38}
+
+[
+Je songe. Un clair rayon luit sur le flot sonore ;
+Le phare dit : c'est l'aube, et souffle son flambeau.
+Je voudrais bien savoir les choses que j'ignore
+Et quelle est la blancheur qu'on voit dans le tombeau.
+L'âme fuit-elle, auprès du Dieu qui la convie,
+Loin de ce corps glacé qui jadis remuait ?
+Quelle est cette lueur qu'au delà de la vie
+On aperçoit au fond de l'infini muet ?
+Aurons-nous la figure effrayante de l'ombre ?
+Pourra-t-on dans la tombe encore nous appeler ?
+Deviendrons-nous des voix qu'à travers ce mur sombre
+On entendra parler ?
+Comme les passereaux, comme les hirondelles,
+L'homme ira-t-il chercher l'azur limpide et clair ?
+Nous envolerons-nous et prendrons-nous des ailes ?
+Passerons-nous la mort comme ils passent la mer ?
+Tout parle et tout s'émeut. Le bois profond tressaille ;
+Le boeuf reprend son joug et l'âme sa douleur ;
+Le matin, froid et bleu derrière la broussaille,
+Ferme l'oeil de l'étoile, ouvre l'oeil de la fleur.
+La vie avec ses biens, ses amours et ses gloires,
+Vaut-elle la nuée errante dans les cieux ?...
+Que me voulez-vous donc, oiseaux des branches noires,
+Chanteurs mystérieux ?
+Je ne sais pas pourquoi je m'obstine à ces rêves.
+Seigneur, le laboureur creuse le sol béant,
+Le pêcheur va traînant son filet sur les grèves ;
+Moi, je creuse la nuit, je traîne le néant !
+Dieu, nous t'interrogeons, et mieux vaudrait nous taire.
+À quoi bon nos efforts, nos doutes, nos combats ?
+Pourquoi sonder l'abîme ? Attendons. Le mystère
+Vit en paix côte à côte avec l'homme ici-bas.
+Le marin, ce jouet du sort, du vent, de l'onde,
+Qui siffle en levant l'ancre et qui va s'envoler,
+Laisse gronder la mer, et l'océan qui gronde
+Laisse l'homme siffler.[
+]{.bold}
+[Jersey, 18 mars 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIII -- Sous terre]{.calibre2}]{.bold1}]{.calibre_39} {#xxiii-sous-terre .calibre_38}
+
+[
+--- Laisse-moi. ― Non. ― Ô griffe sombre,
+Bouche horrible ! Ô torture ! Ô deuil !
+Pourquoi te glisses-tu dans l'ombre
+Par les fentes de mon cercueil ?
+--- Il faut renouveler ma sève,
+Ô mort, voici le doux été.
+Toute la nature qui rêve,
+Spectre, a besoin de ma beauté !
+Il faut qu'aucun lys ne m'efface ;
+L'abeille attend de moi le miel ;
+Il me faut un parfum qui fasse
+Pâmer les cygnes dans le ciel.
+Je dois orner l'antre morose ;
+Je dois sourire au soir boudeur,
+Et donner à tout quelque chose
+De ma grâce et de ma splendeur.
+Il faut que je pare le voile
+Des vierges au lever du jour,
+Que je respire pour l'étoile,
+Que je rougisse pour l'amour.
+Et pendant que l'aube m'arrose,
+Ma racine vers toi descend.
+--- Qui donc es-tu ? ― Je suis la rose.
+--- Et que veux-tu ? ― Boire ton sang.
+[29 mai 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIV -- Bestiarium]{.calibre2}]{.bold1}]{.calibre_39} {#xxiv-bestiarium .calibre_38}
+
+[
+Les anges effarés viennent voir notre cage,
+Et se disent : « --- Vois donc celui-ci, celui-là,
+Voici Tibère, une hydre au fond d'un marécage ;
+Regarde le Malthus auprès de l'Attila. » ---
+Ils répètent entre eux les noms dont on nous nomme,
+Mêlés à d'autres noms que nous ne savons pas.
+Ils disent : « --- C'est donc là ce qu'on appelle l'homme !
+Une main dans le crime, un pied dans le trépas.
+Voici l'orgueil ; voici le dol ; voici l'envie ;
+Ce sont les plus mauvais qui sont les plus nombreux.
+Ils rôdent dans la fosse immense de la vie,
+Et la terre tressaille à leur pas ténébreux.
+Le faible est sous leurs pieds comme un grain sous les meules.
+Voyez ! Ils sont l'horreur, l'effroi, le mal sans frein ;
+Ces coeurs sont des dragons, ces esprits ont des gueules,
+Ces âmes à l'oeil fauve ont des griffes d'airain.
+Ceci, c'est le Judas ; cela, c'est le Zoïle ;
+Tous deux dans la nuit lâche on les voit se glisser ;
+L'un baise et l'autre mord ; et, sanglante, âpre et vile,
+La dent grince et rugit, jalouse du baiser.
+Ce maître foule aux pieds la femme sans défense,
+Ou, limace du coeur, bave sur son printemps.
+Ce vieux, pour s'enrichir, lie au travail l'enfance
+Et rive à ce boulet des forçats de huit ans ;
+Il leur fait du labeur tourner la sombre roue,
+Et, gorgé d'or, se vautre en tous ses appétits[
+]{.bold} Pendant qu'en ses poings noirs la fatigue secoue
+Les membres frissonnants de ces pauvres petits.
+Ceux-ci, sur les vaincus jetant un oeil farouche,
+Disent : --- Percez, frappez, tuez jusqu'au dernier ! ---
+Les chiens de Montfaucon viennent lécher leur bouche,
+Tant leurs discours sont pleins de l'odeur du charnier.
+Ceux-ci dressent sur l'ombre une épée enflammée ;
+Ceux-ci sur les blés d'or et les villes en feu
+Font vomir les canons hideux, dont la fumée
+Se mêle, haillon noir, aux nuages de Dieu.
+Ceux-ci veulent glacer et brûler tout ensemble,
+Et, tourmenteurs qu'on voit dans la nuit se pencher,
+Soufflent en même temps sur la raison qui tremble
+Et sur la vieille torche horrible du bûcher.
+Ceux-ci sont les heureux que tous les rayons dorent,
+Et que les lâchetés servent à deux genoux ;
+Regardez la beauté sans âme qu'ils adorent ;
+Elle est Vénus pour eux et squelette pour nous.
+Ceux-là sont les bourreaux que l'ombre a sous son aile ;
+L'espérance agonise et s'éteint devant eux ;
+Avec la corde sainte où pend l'ancre éternelle
+Ils font le noeud coulant du gibet monstrueux.
+Cette langue est serpent, cette idée est tigresse ;
+Ce juif contre un doublon pèse une âme en sa main ;
+Ceux-ci, fouettant le nègre et fouettant la négresse,
+Lâchent les chiens hurlants sur le bétail humain ;
+Ils mettent l'affreux bât de la bête de somme
+À des esprits, comme eux pensant, comme eux vivant.
+La chair humaine saigne entre les mains de l'homme ;
+Le sauvage la mange et le chrétien la vend.[
+]{.bold}
+Écoutez ces grands cris qui par moments s'élèvent ;
+Voyez rire les uns et les autres trembler ;
+Tous ne sont pas méchants, et quelques-uns qui rêvent
+Ont des ailes dans l'ombre et voudraient s'envoler. »
+Et les anges, cachés sous leurs radieux voiles,
+Frémissent, l'oeil en pleurs et le front attristé.
+Nous sommes là pensifs, regardant les étoiles
+À travers les barreaux de notre humanité.[
+]{.bold}
+[10 octobre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXV -- Chanson]{.calibre2}]{.bold1}]{.calibre_39} {#xxv-chanson .calibre_38}
+
+[
+Proscrit, regarde les roses ;
+Mai joyeux, de l'aube en pleurs
+Les reçoit toutes écloses ;
+Proscrit, regarde les fleurs.
+--- Je pense
+Aux roses que je semai.
+Le mois de mai sans la France,
+Ce n'est pas le mois de mai.
+Proscrit, regarde les tombes ;
+Mai, qui rit aux cieux si beaux,
+Sous les baisers des colombes
+Fait palpiter les tombeaux.
+--- Je pense
+Aux yeux chers que je fermai.
+Le mois de mai sans la France,
+Ce n'est pas le mois de mai.
+Proscrit, regarde les branches,
+Les branches où sont les nids ;
+Mai les remplit d'ailes blanches
+Et de soupirs infinis.
+--- Je pense
+Aux nids charmants où j'aimai.
+Le mois de mai sans la France,
+Ce n'est pas le mois de mai.[
+]{.bold}
+[18 mai 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVI -- Remontrances]{.calibre2}]{.bold1}]{.calibre_39} {#xxvi-remontrances .calibre_38}
+
+[
+Une nuit qu'au milieu des bourrasques farouches,
+Et de tous les effrois ouvrant toutes leurs bouches,
+Ma vitre en pleurs tremblait au choc du vent profond,
+Éveillé, je songeais :
+― Hélas ! Qu'est-ce que font
+Toutes ces sombres eaux qui hurlent dans l'espace ?
+Oh ! Ce pauvre bateau qui dans cette ombre passe !
+Ô mon Dieu ! Comme il lutte, et se débat, et fuit,
+Pris dans cette prison d'épouvante et de bruit !
+Quels geôliers que les flots quand ils tiennent les hommes !
+Pour un peu de pain noir, ou pour de grosses sommes,
+La barque affronte l'onde et l'air plein de sanglots
+Et la brume, et je plains les pâles matelots.
+Ô gouffre ! Apocalypse ! Effrayante épopée !
+La mer a par moments l'air de s'être échappée.
+Un cri farouche sort des vagues, ces tourments.
+Il faudrait frissonner devant les éléments
+Si l'écume, l'écueil, l'onde, l'aquilon sombre,
+Pouvaient parfois briser l'anneau noir qui dans l'ombre
+Les rive à l'équité, mystérieux pilier.
+Est-ce que tout ceci serait irrégulier ?
+Est-ce que, par hasard, un flot passerait l'autre ?
+Serait-ce un insensé que le vent qui se vautre
+Dans la nuée, et crie aux vagues d'accourir ?
+Quoi ! Ce bon vieux pêcheur part ce soir pour nourrir
+Sa famille qui souffre et dont la faim le navre,
+Et voilà, dès qu'il est sorti de l'humble havre,
+Que l'orage et la nuit le jugent sans appel !
+Sous ses pieds, les brisants, invisible archipel,
+L'accusent ; sur son front l'ouragan le discute ;
+Et ce bourreau masqué, l'abîme, l'exécute \![
+]{.bold} Tout est dit. L'eau s'enfuit. Est-il coupable ? Non.
+Est-ce que l'océan dans son sourd cabanon
+Peut saisir un pauvre homme et l'étouffer sous l'onde,
+Seigneur, sans déranger l'équilibre du monde ?
+Est-ce qu'il serait vrai que la nature osât
+Frapper sur l'homme, ainsi qu'on bâtonne un forçat ?
+L'eau cache-t-elle un piège en sa vague lyrique ?
+Et que deviendrons-nous si la mer prévarique ?
+Dieu la laisserait-il libre et folle en effet ?
+Est-ce que l'ouragan ne sait pas ce qu'il fait ?
+Ah ! Si la goutte d'eau noie à tort un atome,
+Est-ce qu'on ne va pas, au fond du divin dôme,
+Voir trembler l'astre, et voir, dans la mer des rayons,
+Pêle-mêle, sombrer les constellations ?
+Quoi ! Puni sans mal faire ! Est-ce que c'est possible ?
+Quoi ! D'un carquois sans yeux l'homme serait la cible ?
+Est-ce qu'il se pourrait que le naufrage, ô Dieu,
+La rafale, l'esquif coupé par le milieu,
+Le cadavre roulé sous les houles funèbres,
+Fût un tâtonnement sinistre des ténèbres,
+Ces aveugles d'en haut qui frappent à côté ?
+Est-ce qu'il se pourrait que cette obscurité
+Fît devant l'infini des actions infâmes ?
+Dieu, ces gens ont des fils, des mères et des femmes ;
+Ce matin, ces pêcheurs, dans l'île où nous tremblons,
+Faisaient sur leurs genoux sauter des enfants blonds ;
+Pourquoi permettre aux eaux, à l'air, aux rocs, aux lames,
+De prendre en leurs poings noirs toutes ces pauvres âmes ?
+Pourquoi tiens-tu captifs, seigneur, tous ces vivants
+Dans l'orageux réseau des vagues et des vents ?
+Pourquoi ces flots suspects font-ils ce bruit de chaînes ?
+Pourquoi tous ces marins, bons coeurs, sans fiel, sans haines,
+Emportés par la mort, pris par l'abîme amer,
+Liés dans l'ombre au fond des cachots de la mer ?
+Qu'ont-ils fait ? Et pourquoi les frapper sans relâche ?
+Pourquoi tous ces éclairs que sur eux ta main lâche ?
+Je ne m'explique pas ces souffles rugissants,[
+]{.bold} Rués sur des plaintifs et sur des innocents.
+Père, il ne se peut pas que ton gouffre se trompe,
+Que ta sagesse ait tort, bégaie ou s'interrompe,
+Cela ne se peut pas ; cela ferait douter.
+L'océan ne doit rien avoir à rétracter ;
+Car l'ouragan est juste et la foudre est intègre. ―
+Et la bise de mer, bourrue, irritée, aigre,
+Couvrant d'obscurs brouillards les astres que conduit
+La navigation immense de la nuit,
+M'apparut, face pâle, à travers ma fenêtre,
+Et me dit : ― Que sais-tu ? Nous délivrons peut-être.
+[13 novembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVII -- Pati]{.calibre2}]{.bold1}]{.calibre_39} {#xxvii-pati .calibre_38}
+
+[
+Pourquoi ne pas aller tout de suite à la mort ?
+Quoi ! Vieillir pour avoir un peu plus de remord
+À l'heure où Dieu videra l'âme !
+Qu'attends-tu pour venir dans nos lits froids et noirs,
+Ô blême épouse, ô Nuit, dont tous nos désespoirs
+Hélas ! Chantent l'épithalame ?
+Pourquoi ne pas finir ? Pleurer des pleurs de sang !
+Vivre ! Quoi ! Le poison n'est-il pas complaisant ?
+L'abîme n'est-il pas facile ?
+Mon couteau que j'ai là rit de me voir souffrir.
+Est-ce que l'océan, toujours prêt à s'ouvrir,
+Ne dit pas à l'homme : Imbécile !
+Brutus a-t-il mal fait ? Caton avait-il tort ?
+Est-ce qu'ils hésitaient, ces lutteurs au bras fort,
+À fermer leurs regards superbes ?
+Que leur faisait la vie ? Est-ce que ces romains
+Tenaient à voir passer les chars sur les chemins
+Et le vent courber les brins d'herbes ?
+Comprenant l'ironie, ils murmuraient : assez !
+Par les flèches du sort colosses traversés,
+Ils ôtaient eux-mêmes la cible.
+Ils mouraient de sentir à leurs fronts des rougeurs ;
+Vous préfériez la mort à la vie, ô songeurs,
+Et l'idéal à l'impossible.
+La mort se dressait pâle et leur apparaissait ;
+Graves, ils se couchaient près d'elle, puisque c'est
+Avec elle qu'il faut qu'on dorme ;
+Ils allaient au-devant de ce sinistre hymen ;[
+]{.bold} Ils mettaient leur anneau de chevalier romain
+Au doigt de ce squelette énorme.
+Est-ce qu'il est quelqu'un qui blâme ces héros ?
+Ils ont du froid destin tordu les vains barreaux ;
+Ils ont fait une brèche aux ombres ;
+Maintenant à jamais, triste et des vents battu,
+Au bout de la sagesse, au bout de la vertu,
+L'homme voit leurs deux spectres sombres.
+Oui, Caton a mal fait ; oui, Brutus avait tort ;
+Le sage est mal sorti, l'intrépide est mal mort.
+Le suicide est une fuite.
+Dieu, qui seul a le droit d'éteindre le flambeau,
+Quand ces grands essoufflés sont entrés au tombeau,
+Ne leur a dit qu'un mot : trop vite.
+Braver la destinée en s'en rassasiant,
+C'est l'honneur ; le grand homme est le grand patient ;
+Attendre est la vertu sévère ;
+Sage, attends qu'à l'abri des verts rameaux flottants
+La ciguë ait fleuri ; juste, laisse le temps
+À l'arbre de croître au calvaire !
+Socrate, et non Brutus ! Jésus, et non Caton !
+Vous mourrez, vous mourrez. Pourquoi se hâte-t-on ?
+Souffrez, enseignez, coeurs fidèles.
+Âme, pourquoi t'enfuir avant l'hiver venu,
+Et l'apparition de l'azur inconnu,
+Et le départ des hirondelles ?
+Quoi donc ? As-tu peur d'être oublié, passant noir ?
+Crains-tu d'être ignoré du sombre vent du soir,
+Et qu'il t'épargne dans ta ville,
+Quand, terrible, il viendra balayer vers le nord
+La vieille feuille morte et le vieux monde mort ?
+Il t'emportera, sois tranquille !
+Comme à chacun de nous ton heure sonnera.
+Ton cadavre qui boit et qui mange sera
+Écrasé, broyé dans sa boue,
+Pétri dans le néant, supprimé, rejeté ;
+L'infini passera sur toi ; l'éternité
+À pour nous tous un tour de roue.
+Si tu n'es qu'un vivant, frêle, obscur, incertain,
+Vis et pleure ; descends pas à pas ton destin :
+Vieillis ; reste l'homme ordinaire.
+De quel droit, cendre, atome, espèce d'ombre aux fers,
+Fais-tu tomber sur toi la mort aux yeux d'éclairs,
+Et déranges-tu le tonnerre ?
+Ou si de toi ton siècle a fait un grand témoin,
+Accepte échafaud, bagne, exil ; sois au besoin
+L'esclave auguste de l'exemple.
+La pierre du gibet, dont le ciel est l'aimant,
+Plus tard sort du charnier et monte lentement,
+Et devient le fronton du temple.
+Ne te dérobe point par la mort aux lenteurs
+Du supplice qu'il faut subir sur les hauteurs ;
+C'est l'épreuve ; acceptons-la toute !
+Agonise et vieillis sans dire : je suis las !
+L'homme est fait pour mourir heure par heure, hélas !
+Les pleurs, pour tomber goutte à goutte !
+La douleur est utile ; et vivre, c'est l'effort.
+Veux-tu devenir grand ? Laisse-toi faire au sort.
+Bois, et ne brise pas ton verre.
+Laisse blanchir ton âme ainsi que l'orient.
+Sois à la fois l'archange au regard souriant
+Et le titan au front sévère.
+Les jours nous font saigner, mystérieux bourreaux ;
+Saigne, et ris ; c'est ainsi qu'on devient un héros,[
+]{.bold} C'est ainsi qu'on devient sublime,
+Et que l'on est de ceux dont l'esprit monte et luit,
+Et que le genre humain voit tout à coup, la nuit,
+Surgir splendides sur sa cime.
+L'homme est sombre ; qu'il souffre, il brillera ; Dieu bon
+Refait le diamant avec le vil charbon ;
+L'aube est sous nos brumes funèbres ;
+Et la création n'est qu'un gouffre d'où sort
+Le rayon qui, joyeux, dorant l'ombre et la mort,
+S'épanouit hors des ténèbres.
+L'âme s'étoile au choc du sort et du devoir.
+Dieu, le grand forgeron, avec son marteau noir
+Qui sonne dans tous nos désastres,
+Sur l'enclume d'airain que nous nommons l'azur,
+Bat l'ombre, la nuit, l'homme en deuil, l'abîme obscur ;
+Les étincelles sont des astres.[
+]{.bold}
+[Christmas, 25 décembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXVIII]{.calibre2}]{.bold1}]{.calibre_39} {#xxviii .calibre_38}
+
+[
+En hiver la terre pleure ;
+Le soleil froid, pâle et doux,
+Vient tard, et part de bonne heure,
+Ennuyé du rendez-vous.
+Leurs idylles sont moroses.
+--- Soleil ! Aimons ! ― Essayons.
+Ô terre, où donc sont tes roses ?
+--- Astre, où donc sont tes rayons ?
+Il prend un prétexte, grêle,
+Vent, nuage noir ou blanc,
+Et dit : ― C'est la nuit, ma belle ! ―
+Et la fait en s'en allant ;
+Comme un amant qui retire
+Chaque jour son coeur du noeud,
+Et, ne sachant plus que dire,
+S'en va le plus tôt qu'il peut.
+[14 janvier 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXIX]{.calibre2}]{.bold1}]{.calibre_39} {#xxix .calibre_38}
+
+[
+L'absolu, l'éternel. Rien après, rien avant.
+Hors de cet horizon l'esprit n'est pas vivant.
+S'il n'a point l'abîme, il réclame.
+Tout vouloir, tout savoir, tout sonder tour à tour,
+C'est la seule façon de composer un jour
+Qui suffise au regard de l'âme.
+L'âme veut pour plafond la vaste liberté,
+Et ne peut demeurer que dans l'illimité.
+Ni cloisons, ni rideaux, ni toiles.
+Seuls la nuit, sous le ciel calme et silencieux,
+Les sphinx n'ont, pour emplir de lumière leurs yeux,
+Pas trop de toutes les étoiles.
+L'immensité, c'est là le seul asile sûr.
+Je crois être banni, si je n'ai tout l'azur.
+Tout l'espace, c'est là que j'entre.
+Je veux tout le ciel bleu, je veux tout le ciel noir ;
+L'infini par moments me semble à peine avoir
+La dimension de mon antre.
+[10 février 1855.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXX -- Chanson]{.calibre2}]{.bold1}]{.calibre_39} {#xxx-chanson .calibre_38}
+
+[
+Il est un peu tard pour faire la belle,
+Reine marguerite ; aux champs défleuris
+Bientôt vont souffler le givre et la grêle.
+--- Passant, l'hiver vient, et je lui souris.
+Il est un peu tard pour faire la belle,
+Étoile du soir ; les rayons taris
+Sont tous retournés à l'aube éternelle.
+--- Passant, la nuit vient, et je lui souris.
+Il est un peu tard pour faire la belle,
+Mon âme ; joyeuse en mes noirs débris,
+Tu m'éblouis, fière et rouvrant ton aile.
+--- Passant, la mort vient, et je lui souris.[
+]{.bold}
+[30 octobre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXI -- À Meurice -- À Vacquerie]{.calibre2}]{.bold1}]{.calibre_39} {#xxxi-à-meurice-à-vacquerie .calibre_38}
+
+[
+Hélas ! Comme c'est peu compris, les grandes âmes !
+L'orage était bien noir quand nous nous rencontrâmes ;
+Je livrais au vieux monde un assaut hasardeux ;
+Je luttais ; vous, tribuns de l'art, maîtres tous deux,
+Forts, dressant devant moi votre épée étoilée,
+Vous me prîtes la main dans l'ardente mêlée ;
+Et dans ce siècle, où l'âme est en proie aux moqueurs,
+Je fus le combattant, vous êtes les vainqueurs.
+Quand s'ouvrit l'âpre exil aux froides casemates,
+Proscrit, vous me suiviez, et haï, vous m'aimâtes.
+J'ai le flot à dompter, j'ai la nuit à franchir ;
+Je vous cherche en mon ciel que vous faites blanchir ;
+Ainsi le nautonier battu des mers obscures
+Épiait le lever des lointains Dioscures.
+Ah ! Vous vous oubliez, vous qu'on n'oubliera pas !
+C'est grand. Vous me tirez de l'ombre pas à pas,
+Vous me rouvrez le port, vous me rendez les fêtes,
+Je sens l'apaisement des profondes tempêtes,
+Et je vous aime, ô vous sur qui je m'attendris,
+D'unir des coeurs si doux à de si fiers esprits !
+[8 février 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXII -- Tourmente]{.calibre2}]{.bold1}]{.calibre_39} {#xxxii-tourmente .calibre_38}
+
+[
+Oh ! Comme tout devient terrible sur la mer !
+Ces noirs chanteurs chantant sans cesse le même air,
+Les flots, dressent leur blanche crête ;
+Et la nuée accourt, soufflant sur l'eau qui fuit
+Toute l'horreur du gouffre et tout ce que la nuit
+Contient de haine et de tempête ;
+Et voici l'ouragan qui monte en mugissant
+Avec un grincement de chaîne, et qui descend,
+Et qui remonte dans la brume,
+Et moi, plus frissonnant que l'air dans mon manteau,
+Je dis : ― Seigneur ! Seigneur ! Qu'est-ce que le marteau
+Fait à cette heure sur l'enclume ?
+Dieu ! Quels événements d'airain, quels rois de fer,
+Quels colosses armés des glaives de l'enfer,
+Quels géants à l'horrible forme,
+Vont sortir de votre ombre, et qu'allons-nous donc voir ? ―
+Ainsi je rêve au bruit que fait sous le ciel noir
+Le soufflet de la forge énorme.
+[1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIII]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xxxiii .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+Ma vie entre déjà dans l'ombre de la mort,
+Et je commence à voir le grand côté des choses.
+L'homme juste est plus beau, terrassé par le sort ;
+Et les soleils couchants sont des apothéoses.
+Brutus vaincu n'a rien dont s'étonne Caton ;
+Morus voit Thraséas et se laisse proscrire ;
+Socrate, qu'Anitus fait boire au Phlégéthon,
+Mourant, n'empêche pas Jésus-Christ de sourire.
+Le monde passe, ingrat, vain, stupide et moqueur.
+Le blâme intérieur, Dieu juste, est le seul blâme.
+Les caresses que fait la conscience au coeur
+Font saigner notre chair et rayonner notre âme.
+Apaisé, je médite au bord du gouffre amer ;
+J'aime ce bruit sauvage où l'infini commence ;
+La nuit, j'entends les flots, les vents, les cieux, la mer ;
+Je songe, évanoui dans cette plainte immense.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Il faut toujours quelqu'un qui dise : je suis prêt.
+Je m'immole. Sans quoi, ma France bien-aimée,
+La conscience au coeur de l'homme se romprait ;
+Peuple ! Il ne resterait pas une âme allumée.
+Il est bon en tout temps, aujourd'hui comme hier,
+Que des hommes sereins, en qui rien ne recule,[
+]{.bold} Se sentent un amour mystérieux et fier
+Pour l'exil, nuit sinistre, et la mort, crépuscule.
+Je suis de ceux sur qui le char roule effrayant ;
+L'épreuve me flagelle et le devoir me broie ;
+Je ne vois pas pourquoi je serais triste, ayant
+Ce lugubre bonheur et cette sombre joie.
+D'autres, meilleurs que moi, dans le deuil et l'affront
+Expirèrent ; ils sont dans la lumière pure.
+Gloire à ces combattants du Golgotha ! Leur front
+Est d'autant plus serein que l'épine est plus dure.
+Ils furent grands. Ils ont souffert, ils ont aimé.
+Leur linceul laisse voir leur clarté sous ses voiles ;
+Et le rude chemin du martyre est semé
+De leurs gouttes de sang qu'on prend pour des étoiles.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+Socrate est un voyant ; je ne suis qu'un témoin.
+Je vais. J'ai laissé tout aux mains du sort rapace,
+Et j'entends mes amis d'autrefois rire au loin
+Pendant qu'à l'horizon, seul et pensif, je passe.
+Ils disent, me voyant paraître tout à coup :
+--- Qu'est-ce donc que cette ombre au loin sur cette grève ?
+Regardez donc là-bas. Cela reste debout.
+Est-ce un homme qui marche ? Est-ce un spectre qui rêve ?
+C'est l'homme et c'est le spectre ! Ô mes anciens amis,
+C'est un songeur tourné vers les profondeurs calmes,
+Qui, devant le tombeau priant pour être admis,
+Rêve sous la nuée où frissonnent les palmes.
+Sachez, amis de l'âge où l'on se comprenait,
+Que, si je vous parlais, ce serait de vous-même.[
+]{.bold} Je suis l'être pensif que la douleur connaît ;
+Mon soir mystérieux touche à l'aube suprême.
+Vous qui tournez la tête et qui dites : c'est bien !
+Et qui vous remettez à rire à votre porte,
+Ce que j'endure est peu, ce que je suis n'est rien,
+Et ce n'est pas à moi que ma souffrance importe ;
+Mais, quoi que vous fassiez et qui que vous soyez,
+Quoi donc ! N'avez-vous rien au coeur qui vous déchire ?
+N'avez-vous rien perdu de ceux que vous aimiez ?
+Qui sait où sont les morts ? Comment pouvez-vous rire ?]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[IV]{.bold}]{.calibre_18} {#iv .calibre_48}
+
+[
+Heureux les éprouvés ! Voilà ce que je vois ;
+Et je m'en vais, fantôme, habiter les décombres.
+Les pêcheurs, dont j'entends sur les grèves la voix,
+Regardent les flots croître ; et moi, grandir les ombres.
+Je souris au désert ; je contemple et j'attends ;
+J'emplis de paix mon coeur qui n'eut jamais d'envie ;
+Je tâche, craignant Dieu, de m'éveiller à temps
+Du rêve monstrueux qu'on appelle la vie.
+La mort va m'emmener dans la sérénité ;
+J'entends ses noirs chevaux qui viennent dans l'espace.
+Je suis comme celui qui, s'étant trop hâté,
+Attend sur le chemin que la voiture passe.
+Ne plaignez pas l'élu qu'on nomme le proscrit.
+Mon esprit, que le deuil et que l'aurore attire,
+Voit le jour par les trous des mains de Jésus-Christ.
+Toute lumière sort ici-bas du martyre.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[V]{.bold}]{.calibre_18} {#v .calibre_48}
+
+[
+Je songe, ô vérité, de toi seule ébloui !
+Ai-je des ennemis ? J'en ignore le nombre.
+Tous les chers souvenirs, tout s'est évanoui.
+Je sens monter en moi le vaste oubli de l'ombre.
+Je ne sais même plus le nom de ceux qui m'ont
+Fait mordre, moi rêveur, par le mensonge infâme.
+J'aperçois les blancheurs de la cime du mont,
+Et le bout de ton aile est déjà bleu, mon âme !
+En dehors du combat pour la cause de tous,
+Si j'ai frappé quelqu'un pour me venger moi-même,
+Si j'ai laissé pleurant quelque être fier et doux,
+Si j'ai dit : Haïssez, à ceux qui disaient : J'aime ;
+Dieu ! Si j'ai fait saigner des coeurs dans le passé,
+Que votre grande voix me courbe et m'avertisse !
+Je demande pardon à ceux que j'offensai,
+Voulant traîner ma peine et non mon injustice.
+Je marche, à travers l'ombre et les torts expiés,
+Dans la vie, aujourd'hui sans fleurs et jadis verte,
+Morne plaine où déjà s'allongent à mes pieds
+Les immenses rayons de la tombe entrouverte.
+[13 septembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIV -- Entrée dans l'exil]{.calibre2}]{.bold1}]{.calibre_39} {#xxxiv-entrée-dans-lexil .calibre_38}
+
+[[
+]{.bold} J'ai fait en arrivant dans l'île connaissance
+Avec un frais vallon plein d'ombre et d'innocence,
+Qui, comme moi, se plaît au bord des flots profonds.
+Au même rayon d'or tous deux nous nous chauffons ;
+J'ai tout de suite avec cette humble solitude
+Pris une familière et charmante habitude.
+Là deux arbres, un frêne, un orme à l'air vivant,
+Se querellent et font des gestes dans le vent
+Comme deux avocats qui parlent pour et contre ;
+J'y vais causer un peu tous les jours, j'y rencontre
+Mon ami le lézard, mon ami le moineau ;
+Le roc m'offre sa chaise et la source son eau ;
+J'entends, quand je suis seul avec cette nature,
+Mon âme qui lui dit tout bas son aventure ;
+Ces champs sont bonnes gens, et j'aime, en vérité.
+Leur douceur, et je crois qu'ils aiment ma fierté.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXV]{.calibre2}]{.bold1}]{.calibre_39} {#xxxv .calibre_38}
+
+[
+L'immense Être inconnu sourit. L'aube réveille
+Le ciron, la fourmi, la fleur des prés, l'abeille,
+Les nids chuchotants, les hameaux,
+La forêt aux profonds branchages, les campagnes,
+L'océan, le soleil derrière les montagnes,
+Mon âme derrière les maux.
+L'Être rêve. Il construit le lys dans le mystère ;
+Son doigt aide la taupe à faire un trou sous terre ;
+Il peint les beaux rosiers vermeils ;
+Et la création, sur son travail courbée,
+Contemple ; il fait, avec l'aile d'un scarabée,
+L'admiration des soleils.
+Hommes, vos grands vaisseaux qui vont sous les étoiles,
+Embarrassant les vents dans leurs gouffres de voiles,
+Monstres qui s'imposent aux mers,
+Fatiguant de leur poids la brise exténuée,
+Et traînant dans leurs flancs chacun une nuée
+Pleine de foudres et d'éclairs,
+Vos canons, vos soldats, dont la marche olympique
+D'un coin de terre obscur fait une plaine épique,
+Vos drapeaux aux plis arrogants,
+Vos batailles broyant les moissons, vos tueries,
+Vos carnages, vos chocs, et vos cavaleries,
+Aigles de ces noirs ouragans,
+Vos régiments, pareils à l'hydre qui serpente,
+Vos Austerlitz tonnants, vos Lutzen, vos Lépante,
+Vos Iéna sonnant du clairon,
+Vos camps pleins de tambours que la mort pâle éveille,
+Passent pendant qu'il songe, et font à son oreille
+Le même bruit qu'un moucheron.[
+]{.bold}
+[22 juillet 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVI]{.calibre2}]{.bold1}]{.calibre_39} {#xxxvi .calibre_38}
+
+[
+Oh ! quoique je sois, sur la grève,
+Le flocon d'écume qui fuit,
+Quoique je n'aie en moi qu'un rêve,
+Quoique je sois poussière et nuit,
+Quoique je sois un peu de boue,
+Un ver parmi les vers humains,
+Écrasé par ces tours de roue
+Qu'on appelle les lendemains,
+Quoique le mal m'ait dans sa serre,
+Quoique je sois nu, faible, obscur,
+Quoique je sois fait de misère
+Et que tu sois faite d'azur,
+Sans fléchir dans ta confiance,
+Sans te rebuter dans ta foi,
+Sainte servante, conscience
+Tu vas dans l'ombre devant moi !
+Tu vas devant moi, toujours prête,
+Et tu me montres le chemin ;
+Le voile du sort sur ta tête,
+La lampe de Dieu dans ta main !
+Tu me dis : ― Ta croix te réclame.
+Debout ! C'est ailleurs qu'on s'assied. ―
+Tu me dis : ― Cache ici ton âme.
+Tu me dis : ― Pose ici ton pied.
+Tu dis : ― La tristesse est meilleure.
+L'ombre et le deuil sont nos amis. ―
+Et tu souris lorsque je pleure,
+Et tu chantes quand je gémis.
+Tu m'éclaires, calme et ravie,
+Marche à marche, avec ton flambeau,
+Toutes les douleurs de la vie,
+Sombre descente du tombeau.[
+]{.bold}
+[15 août 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVII -- Exil]{.calibre2}]{.bold1}]{.calibre_39} {#xxxvii-exil .calibre_38}
+
+[[
+]{.bold} Si je pouvais voir, ô patrie,
+Tes amandiers et tes lilas,
+Et fouler ton herbe fleurie,
+Hélas !
+Si je pouvais, ― Mais, ô mon père,
+Ô ma mère, je ne peux pas, ―
+Prendre pour chevet votre pierre,
+Hélas !
+Dans le froid cercueil qui vous gêne,
+Si je pouvais vous parler bas,
+Mon frère Abel, mon frère Eugène,
+Hélas !
+Si je pouvais, ô ma colombe,
+Et toi, mère, qui t'envolas,
+M'agenouiller sur votre tombe,
+Hélas !
+Oh ! vers l'étoile solitaire,
+Comme je lèverais les bras !
+Comme je baiserais la terre,
+Hélas !
+Loin de vous, ô morts que je pleure,
+Des flots noirs j'écoute le glas ;
+Je voudrais fuir, mais je demeure,
+Hélas !
+Pourtant le sort, caché dans l'ombre,
+Se trompe si, comptant mes pas,
+Il croit que le vieux marcheur sombre
+Est las.[
+]{.bold}
+[18 juillet 1870.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXVIII]{.calibre2}]{.bold1}]{.calibre_39} {#xxxviii .calibre_38}
+
+[[
+]{.bold} Ô mon âme, en cherchant l'azur, ton vol dévie.
+Restons dans le devoir : le devoir, c'est la vie.
+Rentrons au noir foyer des hommes ; essayons
+La chaîne des captifs ; fais-toi, dans ce lieu sombre,
+La servante de l'ombre,
+Ô fille des rayons !
+Reprenons le labeur des saintes délivrances ;
+Faisons la fonction divine des souffrances ;
+Remettons notre lèvre à l'éponge de fiel ;
+Continuons les pleurs, les deuils, la lutte austère ;
+Revenons à la terre
+Pour retourner au ciel.[
+]{.bold}
+[24 août 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXXIX]{.calibre2}]{.bold1}]{.calibre_39} {#xxxix .calibre_38}
+
+[
+Tant qu'on verra l'amour pleurer, la haine rire,
+Le mal régner,
+Le dogme errer, l'autel mentir, Néron proscrire,
+Jésus saigner,
+Tant qu'on aura des rois, des églises athées,
+D'affreuses tours,
+Des peuples que la chaîne étreint, des Prométhées
+Sous les vautours,
+Tant que je sentirai, coeur où rien ne mutile
+Le fier devoir,
+Que le vol d'une strophe irritée est utile
+Dans le ciel noir,
+Je combattrai ! Je sais que je serais un lâche
+D'être autrement ;
+Je ne me laisserai détourner de ma tâche,
+Ô firmament !
+Par rien, ni par avril, ni par l'ombre ingénue
+Des verts taillis,
+Ni par les prés en fleurs, ni par la gorge nue
+D'Amaryllis.
+En présence de tant de nations qui pleurent
+Sous le ciel bleu,
+Des tyrans qui, blanchis par le prêtre, demeurent
+Noirs devant Dieu,
+Et de vous tous, vivants, en proie aux vils mensonges,
+Aux rois voleurs ;
+Qui flottez dans un rêve, et n'avez hors des songes
+Que les douleurs ;
+En présence des maux, des crimes et des fautes,
+Des longs combats,
+Des hontes, des orgueils, de tant de têtes hautes
+Et de coeurs bas ;
+France, tant qu'il faudra qu'une lueur éclaire
+L'affreux récif,
+Je resterai fidèle à la sombre colère,
+Au deuil pensif ;
+Je dirai sans relâche et redirai sans trêve
+La vérité ;
+Je serai dans l'écume obscure de la grève
+Une clarté ;
+Je serai ce fantôme, un juge ; et ma voix triste
+Sera l'écho
+De ce clairon farouche à qui rien ne résiste
+Dans Jéricho ;
+Je ne quitterai point, grande France trahie,
+Mon tribunal !
+Avant que je me taise, ô tragique Isaïe,
+Ô Juvénal,
+Ô Dante, Ézéchiel à l'oeil visionnaire,
+Fier d'Aubigné,
+On verra dans les cieux s'arrêter le tonnerre,
+Époumoné.[
+]{.bold}
+[2 décembre.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XL -- La nuit, pendant que les pêcheurs sont en mer]{.calibre2}]{.bold1}]{.calibre_39} {#xl-la-nuit-pendant-que-les-pêcheurs-sont-en-mer .calibre_38}
+
+[[
+]{.bold} Les visions se répandent
+Dans le firmament terni ;
+De hideux nuages pendent
+Au noir plafond infini ;
+L'étoile y vient disparaître ;
+Il semble qu'une main traître,
+Guettant les astres vermeils,
+Au fond de l'ombre indignée,
+Tend ses toiles d'araignée
+Pour ces mouches, les soleils.
+L'arbre se tord sur la côte ;
+Le flot s'acharne au récif ;
+Une clameur triste et haute
+Avertit l'homme pensif ;
+L'écume roule, avalanche ;
+La lame féroce et blanche
+Luit comme l'yatagan ;
+La terre sanglote et souffre,
+Livrée aux baisers du gouffre,
+Au viol de l'ouragan.
+La mer n'est plus qu'épouvante ;
+Le ciel s'effare ; on dirait
+Que la nature vivante
+Devient songe et disparaît ;
+Tout prend l'aspect et la forme
+D'une horrible ébauche énorme
+Ou d'un grand rêve détruit ;
+Les ténèbres en décombres[
+]{.bold} Emplissent de leurs blocs sombres
+L'antre immense de la nuit.
+Ah ! n'est-ce pas, Dieu sublime,
+Dieu qui fis l'arche et le pont,
+Que tout naufrage est un crime
+Et que quelqu'un en répond ?
+S'il manque une seule tête,
+Tu puniras la tempête ;
+Tu sais, toi qui nous défends
+Et qui fouilles les repaires,
+Le compte de tous les pères,
+Le nom de tous les enfants !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLI -- Duo]{.calibre2}]{.bold1}]{.calibre_39} {#xli-duo .calibre_38}
+
+[
+Quoique je fusse assis au bord d'un cimetière,
+Seul dans ce champ que l'aube et l'ombre ont pour frontière,
+Et perdu dans un tas de noirs cyprès et d'ifs
+Et de ronces, tordant leurs sarments maladifs,
+Le rire était si franc que je levai la tête.
+C'étaient deux jeunes gens qui venaient de la fête
+Et qui s'en retournaient à la ville en jasant,
+Couple penchant déjà, mais encore innocent.
+Ces enfants rayonnaient sous ces branchages sombres,
+Lui charmant, elle pure ; on eût dit dans ces ombres
+Le mois d'avril donnant le bras au point du jour ;
+Et moi l'exil, pensif, je saluai l'amour.
+Allez, amants ! Chantez, vie, extase, espérance !
+Ainsi marchait un soir dans un bois, à Florence,
+Le jeune Dante auprès de Béatrice enfant ;
+Dante la contemplait, ivre, heureux, triomphant ;
+Tout à coup elle dit : si je mourais, mon Dante ?
+Et, tressaillant, il vit l'enfer, la voûte ardente,
+La nuit, les pleurs, le deuil, les sept cercles ouverts ;
+Et, dès le lendemain, il fit le premier vers
+Du poème qu'emplit la douleur insondée ;
+Car jamais le songeur ne refuse l'idée ;
+Le crâne du poète est un dôme effrayant
+Où de sombres oiseaux volent en tournoyant,
+Et qui dit au grand aigle : Ô farouche figure,
+Entre ! Mon diamètre admet ton envergure.[
+]{.bold}
+[4 novembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLII -- Pensées de nuit]{.calibre2}]{.bold1}]{.calibre_39} {#xlii-pensées-de-nuit .calibre_38}
+
+[
+L'ombre ici-bas la moins transparente, c'est l'âme.
+L'homme est l'énigme étrange et triste de la femme,
+Et la femme est le sphinx de l'homme. Sombre loi !
+Personne ne connaît mon gouffre, excepté moi.
+Et moi-même, ai-je été jusqu'au fond ? Mon abîme
+Est sinistre, surtout par le côté sublime ;
+Et l'hydre est là, tenant mon âme, et la mordant.
+Toutes nos passions sont des bêtes rôdant
+Dans la lividité des blêmes crépuscules.
+L'homme le plus semblable aux antiques Hercules,
+Égal par sa stature aux noirs événements,
+Qui dompte la fortune en ses poings incléments,
+Et fait au sort jaloux l'effet d'un belluaire,
+Cet homme, s'il rencontre une femme, veut plaire,
+Tombe à genoux, adore et tremble, et ce vainqueur
+Du destin est toujours le vaincu de son coeur.
+Tout nous ment ! L'âtre est noir, la patrie est ingrate.
+Prêtre, pense à Jésus ; juge, pense à Socrate.
+L'homme rend la justice ainsi qu'il joue aux dés.
+Quand, tour à tour, et l'un après l'autre, accoudés
+Au même livre, on a tourné les mêmes pages,
+On meurt. Qu'est-ce que c'est que vos aréopages,
+Conciles et sénats, conclaves et divans ?
+Le poète apparaît au milieu des vivants,
+Et, lapidé, s'en va de la terre fatale,
+Laissant derrière lui, comme une trace pâle,
+L'éternelle beauté du vers mystérieux.
+L'homme qui l'insulta le met au rang des dieux.
+Et puis ? Un autre esprit vient. L'homme recommence.[
+]{.bold} Tout est aveuglement quand tout n'est pas démence ;
+Le ciel splendide est plein de la noirceur du sort ;
+On entre dans la vie en criant ; on en sort
+Ruisselant, nu, glacé, comme d'une tourmente.
+Hélas ! l'enfant sanglote et l'homme se lamente ;
+Ignorer, c'est pleurer, et savoir, c'est gémir.
+Je pense à tout cela quand je ne puis dormir,
+La nuit, quand le vent semble une voix qui témoigne,
+Quand on entend le pas de quelqu'un qui s'éloigne.[
+]{.bold}
+[16 janvier 1874.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLIII]{.calibre2}]{.bold1}]{.calibre_39} {#xliii .calibre_38}
+
+[
+Quand Eschyle au vautour dispute Prométhée,
+Quand Juvénal défend Rome aux tigres jetée,
+Quand Dante ouvre l'enfer aux tyrans qu'il poursuit,
+Ces hommes sont pareils à l'antique euménide ;
+Leur face, qu'illumine une lueur livide,
+Semble un masque d'airain qui parle dans la nuit.
+On frémit, tant ils sont terribles ! Leurs pensées,
+Sur leurs crânes profonds sifflantes et dressées,
+Mordant le crime heureux et les monstres rampants,
+Font aux poètes saints d'effrayants diadèmes,
+Et semblent sur ces fronts sévères et suprêmes
+Des chevelures de serpents.
+Serpents mystérieux des Minerves antiques,
+Ô dragons presque dieux, gorgones prophétiques,
+Mêlant des cris humains à votre sifflement,
+Votre anathème était une leçon sublime ;
+Vous étiez à la fois, pour le peuple et le crime,
+La sagesse sereine et le noir châtiment.[
+]{.bold}
+[Jersey, 1er novembre.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLIV]{.calibre2}]{.bold1}]{.calibre_39} {#xliv .calibre_38}
+
+[
+Ô misérable amas de vanités humaines,
+Rêves ! au premier vent qui souffle dans les plaines,
+Comme tout se disperse et tout s'évanouit !
+Puissance, amour, douleur qui brûle dans la nuit,
+Orgueils et voluptés, colères enflammées,
+Comme cela se mêle à toutes les fumées !
+À quoi bon tant d'ardeur et tant d'emportement
+Pour arriver si vite à tant d'abattement !
+Hommes ! pourquoi ce bruit, et pourquoi faire attendre
+Des colosses au monde ? On croit, à vous entendre
+Rugir dans le brasier des sombres passions,
+Au milieu des fureurs et des ambitions,
+Autour de ce que l'âme embrasse, craint, désire,
+Que vous êtes de bronze, et vous êtes de cire \![
+]{.bold}
+[5 janvier 1849.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLV]{.calibre2}]{.bold1}]{.calibre_39} {#xlv .calibre_38}
+
+[
+Le sommet est désert, noir, lugubre, inclément,
+Bordé de toutes parts d'un sombre escarpement ;
+L'horizon à l'entour n'est qu'une solitude ;
+L'hiver est éternel sur ce faîte âpre et rude,
+Et j'y trouve, ô Seigneur, des traces de pieds nus
+Qui prouvent qu'avant moi d'autres y sont venus.
+On y voit des carcans et des fers, comme au bagne.
+J'étais en bas, les yeux fixés sur la montagne.
+Deux êtres ont passé pendant que j'étais là ;
+Et leurs regards brillaient, si bien qu'il me sembla
+Que ces deux inconnus, rayonnant sous leurs voiles,
+Pour en faire leurs yeux avaient pris des étoiles.
+L'un avait l'air candide et l'autre l'air altier.
+Ils marchaient tous les deux dans le même sentier ;
+Et l'un murmurait : Crois, et l'autre disait : Pense.
+Et sur le front de l'un on lisait : Conscience,
+Et sur le front de l'autre on lisait : Vérité.
+Moi, je les regardais, ému de leur beauté.
+Alors ces deux passants sévères m'ont fait signe
+De me lever ; c'était l'aigle à côté du cygne ;
+Et je les ai suivis, et ce sont eux qui m'ont
+Conduit et laissé seul sur le haut de ce mont.[
+]{.bold}
+[4 août 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLVI]{.calibre2}]{.bold1}]{.calibre_39} {#xlvi .calibre_38}
+
+[
+Oui, la terre fatale, oui, le ciel nécessaire,
+Tout laisse en moi sa trace, et rien pour ma misère
+N'est hautain ni moqueur ;
+Et quoique je ne sois qu'un vivant fait de cendre,
+Quand le rayon me voit, il consent à descendre,
+Et se mêle à mon coeur.
+J'ai la confiance âpre et triste des apôtres,
+Et c'est pourquoi je suis cet homme dont les autres
+Parlent confusément,
+Plein d'erreurs comme Adam, plein de fautes comme Ève,
+Que l'enfer tire en bas, mais qu'un éternel rêve
+Enchaîne au firmament.
+L'impure forme humaine, ébauchée, incomplète,
+La chair, n'empêche pas que le ciel se reflète
+Dans l'abîme où je suis ;
+Près de ce vil crapaud qui bave et qui se traîne,
+La constellation vient resplendir sereine
+Dans le fond de mon puits.
+Par instants l'affreux monstre, en l'ombre qui le voile,
+Passe et fait en passant tressaillir une étoile
+Dans mon cloaque noir ;
+Puis elle reparaît. Dieu que notre espoir nomme,
+Sois béni de changer l'eau bourbeuse de l'homme
+En céleste miroir !
+Oui, tes vents m'ont parlé, toutes tes solitudes
+M'ont jeté leurs rumeurs et leurs inquiétudes,
+Azur, nuit, vision !
+À tes souffles de brume ou de clarté je vibre,[
+]{.bold} Ciel, comme si j'étais traversé par la fibre
+De la création !
+Comme si tous les fils invisibles de l'être
+Se croisaient dans mon sein que l'univers pénètre !
+Comme si, par moment,
+En moi, du front aux pieds, me mêlant au problème,
+Le sombre axe infini qui passe par Dieu même
+Tremblait confusément !
+De sorte que je suis l'aimant de la nature,
+Que la création m'emplit, moi créature,
+Que Dieu coule en mon sang !
+De sorte, ô ciel profond, que le Zénith farouche
+Se verse dans mon crâne, et que le Nadir touche
+Mon talon frémissant !
+Mon âme dans sa nuit redit ta gamme immense ;
+Je frissonne à tes bruits d'orage ou de clémence,
+Vivant psaltérion ;
+Sur ma lyre, qu'émeut l'esprit des Zoroastres,
+Les sept notes jadis tombèrent des sept astres
+Du bleu septentrion.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLVII -- Lettre]{.calibre2}]{.bold1}]{.calibre_39} {#xlvii-lettre .calibre_38}
+
+[
+Est-ce que, ce mois-ci, des miens et des meilleurs,
+Quelqu'un est mort, pendant que je regarde ailleurs ?
+Est-ce que par hasard, sur la colline verte,
+Quelque tombe de mère ou d'enfant s'est ouverte ?
+Ami, pourquoi me plaindre aujourd'hui plus qu'hier ?
+Ai-je, sans le savoir, perdu quelqu'un de cher ?
+Jadis j'eus des douleurs et je les ai pleurées ;
+Les larmes du tombeau sont des larmes sacrées ;
+Sur de profonds cercueils pleins de ciel étoilé,
+Tous les pleurs que j'avais dans les yeux ont coulé.
+Ce fut sombre.
+Aujourd'hui, qu'est-ce donc qui m'arrive
+Que ta pitié s'accroît ? Je suis sur cette rive ;
+Après ? et d'où te vient ce langage abattu ?
+Tu m'écris : « Ô banni, comment les portes-tu,
+Ces heures de l'exil qui doivent être lourdes ? »
+Tout est bien. Je n'ai rien à dire aux âmes sourdes.
+D'ailleurs porté-je donc un si pesant fardeau ?
+Le vent souffle sur l'homme et sur la goutte d'eau.
+Laissons souffler le vent. Qu'importe ce que souffre
+Mon atome, au hasard emporté dans le gouffre ?
+D'autres ont plus souffert qui valaient mieux que moi.
+Tout est bien.
+Vivre errant, rejeté, hors la loi,
+L'ombre, l'isolement, l'ennui qu'on exagère,
+Cette glace qu'on sent à la terre étrangère,[
+]{.bold} Tout cela ne vaut pas qu'on fronce le sourcil.
+Crois-tu pas que je vais pleurnicher mon exil ?
+Tu me dis : « Vous voilà dans la froide Angleterre. »
+Et moi je dis : ― Salut au vieux rivage austère !
+À Londres où, quand Milton parle, Cromwell répond ! ―
+Tu reprends : ― « Comment sont ces étrangers ? »
+Ils sont
+Les étrangers. Ils ont leurs soucis, leurs colères,
+Leurs intérêts, leurs moeurs ; ce sont des exemplaires
+Du vieil homme Adam, l'un sur l'autre copiés.
+Dieu mit sur tous les fronts l'azur, mais sous ses pieds
+L'homme a fait de la terre une chose diverse.
+La fraternité meurt au fleuve qu'on traverse ;
+On passe un bras de mer, on enjambe un chemin,
+On saute un mur, on est sorti du genre humain ;
+On devient l'étranger. Nous le sommes. La foule
+Autour de nous va, vient, fait ses affaires, coule.
+L'idée est peu comprise à son avènement ;
+Elle monte un calvaire et marche lentement ;
+Je ne vois pas pourquoi ces hommes seraient autres
+Que ceux qu'a vus Socrate et qu'ont vus les apôtres.
+Ô mes amis, proscrits qui m'entourez, restons
+Comme les Thraséas et comme les Catons,
+Sereins, et sachons prendre en patience l'homme.
+Ceux-ci d'ailleurs n'ont rien que de tout simple, en somme.
+Nous sommes les passants, ils sont les habitants.
+Aristide jusqu'à nos jours, dans tous les temps,
+Le proscrit pour la foule est une énigme obscure.
+On ne nous crache pas encore à la figure ;
+Donc ne nous plaignons point.
+Tu me dis : ― « Dans ces lieux
+Où nous te cherchons, toi, le songeur oublieux,[
+]{.bold} Que fais-tu ? »
+Je vois Dieu.
+Je suis l'homme des grèves ;
+La nuit je fais des vers, le jour je fais des rêves.
+Je lis les vieux lutteurs, Dante, Agrippa, Montluc.
+Souvent, quand minuit sonne au clocher de Saint-Luc,
+Je médite, menant dans les zones bénies
+De soleils en soleils cent lignes infinies,
+Reliant dans l'azur les constellations,
+Architectures d'ombre et d'yeux et de rayons,
+Frontons prodigieux des célestes Solimes.
+Mon esprit, combinant ces triangles sublimes,
+Fait, comme Orphée à Delphes et Jacob dans Endor,
+Une géométrie avec les astres d'or.
+Ainsi s'en vont mes jours. Assis au bord des ondes,
+Je contemple la mer dont les houles profondes
+Ne s'arrêtent jamais, tumultueux troupeaux
+Bondissant jour et nuit sans halte et sans repos ;
+Et nous nous regardons, moi rêveur, elle énorme ;
+Elle attend que je pleure et j'attends qu'elle dorme.[
+]{.bold}
+[Jersey, 18 septembre 1854.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLVIII -- Promenades dans les rochers]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#xlviii-promenades-dans-les-rochers .calibre_38}
+
+[ ]{.calibre4}
+
+### [[Première promenade]{.bold}]{.calibre_18} {#première-promenade .calibre_48}
+
+[
+Un tourbillon d'écume, au centre de la baie
+Formé par de secrets et profonds entonnoirs,
+Se berce mollement sur l'onde qu'il égaie,
+Vasque immense d'albâtre au milieu des flots noirs.
+Seigneur ! Que faites-vous de cette urne de neige ?
+Qu'y versez-vous dès l'aube et qu'en sort-il la nuit ?
+La mer lui jette en vain sa vague qui l'assiège,
+Le nuage sa brume et l'ouragan son bruit.
+L'orage avec son bruit, le flot avec sa fange,
+Passent ; le tourbillon, vénéré du pêcheur,
+Reparaît, conservant, dans l'abîme où tout change,
+Toujours la même place et la même blancheur.
+Le pêcheur dit : --- C'est là, qu'en une onde bénie,
+Les petits enfants morts, chaque nuit de Noël,
+Viennent blanchir leur aile au souffle humain ternie,
+Avant de s'envoler pour être anges au ciel. ---
+Moi je dis : --- Dieu mit là cette coupe si pure,
+Blanche en dépit des flots et des rochers penchants,
+Pour être, dans le sein de la grande nature,
+La figure du juste au milieu des méchants.[
+]{.bold}
+[6 août. Passage.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[Deuxième promenade]{.bold}]{.calibre_18} {#deuxième-promenade .calibre_48}
+
+[
+La mer donne l'écume et la terre le sable.
+L'or se mêle à l'argent dans les plis du flot vert.
+J'entends le bruit que fait l'éther infranchissable,
+Bruit immense et lointain, de silence couvert.
+Un enfant chante auprès de la mer qui murmure.
+Rien n'est grand, ni petit. Vous avez mis, mon Dieu,
+Sur la création et sur la créature
+Les mêmes astres d'or et le même ciel bleu.
+Notre sort est chétif ; nos visions sont belles.
+L'esprit saisit le corps et l'enlève au grand jour.
+L'homme est un point qui vole avec deux grandes ailes,
+Dont l'une est la pensée et dont l'autre est l'amour.
+Sérénité de tout ! Majesté ! Force et grâce !
+La voile rentre au port et les oiseaux aux nids.
+Tout va se reposer, et j'entends dans l'espace
+Palpiter vaguement des baisers infinis.
+Le vent courbe les joncs sur le rocher superbe,
+Et de l'enfant qui chante il emporte la voix.
+Ô vent ! Que vous courbez à la fois de brins d'herbe !
+Et que vous emportez de chansons à la fois !
+Qu'importe ! Ici tout berce, et rassure, et caresse.
+Plus d'ombre dans le coeur ! Plus de soucis amers !
+Une ineffable paix monte et descend sans cesse
+Du bleu profond de l'âme au bleu profond des mers.[
+]{.bold}
+[7 août.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[Troisième promenade]{.bold}]{.calibre_18} {#troisième-promenade .calibre_48}
+
+[
+Le soleil déclinait ; le soir prompt à le suivre
+Brunissait l'horizon ; sur la pierre d'un champ
+Un vieillard, qui n'a plus que peu de temps à vivre,
+S'était assis pensif, tourné vers le couchant.
+C'était un vieux pasteur, berger dans la montagne,
+Qui jadis, jeune et pauvre, heureux, libre et sans lois,
+À l'heure où le mont fuit sous l'ombre qui le gagne,
+Faisait gaîment chanter sa flûte dans les bois.
+Maintenant riche et vieux, l'âme du passé pleine,
+D'une grande famille aïeul laborieux,
+Tandis que ses troupeaux revenaient de la plaine,
+Détaché de la terre, il contemplait les cieux.
+Le jour qui va finir vaut le jour qui commence.
+Le vieux pasteur rêvait sous cet azur si beau.
+L'océan devant lui se prolongeait, immense
+Comme l'espoir du juste aux portes du tombeau.
+Ô moment solennel ! Les monts, la mer farouche,
+Les vents, faisaient silence et cessaient leur clameur.
+Le vieillard regardait le soleil qui se couche ;
+Le soleil regardait le vieillard qui se meurt.[
+]{.bold}
+[Passage, 5 août. 7 heures du soir.]{.italic}]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[Quatrième promenade]{.bold}]{.calibre_18} {#quatrième-promenade .calibre_48}
+
+[
+Dieu ! Que les monts sont beaux avec ces taches d'ombre !
+Que la mer a de grâce et le ciel de clarté !
+De mes jours passagers que m'importe le nombre !
+Je touche l'infini, je vois l'éternité.
+Orages ! Passions ! Taisez-vous dans mon âme !
+Jamais si près de Dieu mon coeur n'a pénétré.
+Le couchant me regarde avec ses yeux de flamme,
+La vaste mer me parle, et je me sens sacré.
+Béni soit qui me hait et béni soit qui m'aime !
+À l'amour, à l'esprit donnons tous nos instants.
+Fou qui poursuit la gloire ou qui creuse un problème !
+Moi, je ne veux qu'aimer, car j'ai si peu de temps !
+L'étoile sort des flots où le soleil se noie ;
+Le nid chante ; la vague à mes pieds retentit ;
+Dans toute sa splendeur le soleil se déploie.
+Mon Dieu, que l'âme est grande et que l'homme est petit !
+Tous les objets créés, feu qui luit, mer qui tremble,
+Ne savent qu'à demi le grand nom du Très-Haut.
+Ils jettent vaguement des sons que seul j'assemble ;
+Chacun dit sa syllabe, et moi je dis le mot.
+Ma voix s'élève aux cieux, comme la tienne, abîme !
+Mer, je rêve avec toi ! Monts, je prie avec vous !
+La nature est l'encens, pur, éternel, sublime ;
+Moi je suis l'encensoir intelligent et doux.[
+]{.bold}
+[Passage, 7 août 1843.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XLIX -- Rencontre d'une petite fagotière]{.calibre2}]{.bold1}]{.calibre_39} {#xlix-rencontre-dune-petite-fagotière .calibre_38}
+
+[
+Enfant au teint brun, aux dents blanches,
+Ton petit bras derrière toi
+Tire un tremblant faisceau de branches.
+Ô doux être d'ombre et d'effroi,
+Dans la clairière aux vertes routes,
+Tu passes ; nous nous regardons,
+Moi, plein de songes et de doutes,
+Toi, les pieds nus dans les chardons.
+À nous deux, seuls dans la rosée,
+Nous ferions sourire un cagot ;
+Car, moi, je porte la pensée,
+Et toi, tu traînes le fagot.
+[27 octobre 1859.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[L -- À J. de S..., laboureur à Yvetot]{.calibre2}]{.bold1}]{.calibre_39} {#l-à-j.-de-s-laboureur-à-yvetot .calibre_38}
+
+[]{.calibre_7}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+Roi d'Yvetot, mon camarade,
+Je te dis : --- Salut ! Il fait beau ! ---
+Comme Racan à Benserade,
+Et comme Arioste à Bembo.
+En famille chez toi l'on soupe ;
+Ta médiocrité te plaît ;
+La gaîté sainte est la soucoupe
+De la tasse où tu bois ton lait.
+On nous prêche ici la tristesse.
+Sanchez dresse procès-verbal
+De ce que la folle Lutèce
+Va, fort décolletée, au bal.
+Il nous pleut des sermons sans nombre,
+Très funèbres, point variés ;
+Mais vous êtes là-bas dans l'ombre
+Quelques sages qui souriez.
+L'intolérance aux rois s'appuie,
+Nous frappant de leur droit divin,
+Pendant qu'avril déjà ressuie
+Les églantiers dans ton ravin.
+Un quadrille est presque une émeute.
+L'essaim des cloîtres nous poursuit ;
+Nos bals sont mordus par la meute
+De tous ces dogues de la nuit.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Est-ce que les brumes augmentent ?
+L'homme est de raison indigent
+S'il se livre à ces clercs qui chantent
+Au Dieu juste un hymne outrageant.
+Il faut être de bonne pâte
+Pour se figurer que les rois
+Sont sacrés, et que Dieu se hâte
+Au moindre appel de leurs beffrois ;
+Et qu'il dit, laissant ses affaires,
+Les cieux, l'abîme à diriger,
+L'ombre et la conduite des sphères :
+--- Diantre ! Tibère est en danger !
+Être l'homme, et suivre la buse !
+Croire, après un sermon peu neuf,
+Que Dieu n'est qu'un porte-arquebuse
+Debout derrière Charles neuf !
+Il faut être inepte, ô Voltaire,
+Pour dire : c'est vrai, l'élément
+Et l'astre aperçoivent sur terre
+Louis quinze distinctement.
+Il faut être naïf pour croire
+Que Dieu se plaît à châtier,
+Et qu'Iblis, la grande âme noire,
+Aidé par un arbre fruitier,
+Invente la place de Grève,
+Les pédants, le code civil,[
+]{.bold} Parce qu'Adam mord après Ève
+Dans une pomme de calvil.
+Quand on peut croire aux lys, aux roses,
+À l'aurore, il est enfantin
+De croire à cent romans moroses
+Mal traduits du grec en latin.
+Il faut être un âne à la lettre
+Pour rêver Diderot puni,
+Pour damner Kant, et pour admettre
+Que Dieu, l'aïeul de l'infini,
+Ne s'occupe, en sa gloire énorme,
+Sans cesse, hier comme demain,
+Qu'à faire le procès en forme
+À tout ce pauvre genre humain ;
+Et que sa clémence est à l'aise
+Dans le hurlement des maudits,
+Et dans le cri d'une fournaise
+Couvrant le chant du paradis.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+Depuis six mille ans on invente,
+On suppose, on effraie, on ment,
+Malgré la lumière vivante
+Du vénérable firmament.
+Le faux ciel que sur nous on penche
+Est de chimères pluvieux ;
+Le mensonge a la barbe blanche ;
+L'homme est enfant, le conte est vieux.
+La loi devient l'hiéroglyphe ;
+Toujours l'ombre au jour succéda ;[
+]{.bold}
+Moïse, hélas, produit Caïphe,
+Christ engendre Torquemada.
+Quel néant l'homme a sur sa table !
+Rien fait mettre un monde à genoux.
+Le temple est un lieu redoutable
+Où le sage enfante des fous.
+Les religions sont des gouffres ;
+À leur surface on voit un mont,
+L'erreur, puis de grands lacs de soufres,
+Puis de l'ombre, et Dieu triste au fond.
+Non, non, ce n'est pas pour le jeûne,
+Le cilice et les bras en croix,
+Que Jacques est beau, qu'Agnès est jeune,
+Que l'alouette chante aux bois !
+Le diable et son soufflet de forge
+S'évanouissent aussitôt
+Que j'écoute le rouge-gorge
+Dans ton petit champ d'Yvetot.
+Le baïram et le carême
+Ont le même idéal tous deux :
+La femme maigre, l'homme blême,
+Le ciel terrible, Dieu hideux.
+Je désire autrement conclure.
+Tous ces Corans, en vérité,
+Ne laissent rien, qu'une fêlure
+Au cerveau de l'humanité.
+Devant ces dogmes qu'on redoute,
+Ciel difficile, enfer promis,
+Je prends le grand parti du doute,
+Et de remplir mon verre, amis.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[IV]{.bold}]{.calibre_18} {#iv .calibre_48}
+
+[
+Le carnaval n'est point un crime.
+Jamais mon esprit ne croira
+Qu'on tombe à l'éternel abîme
+Par les trappes de l'Opéra.
+Que Dieu se fâche de la joie,
+C'est peu probable ; et je suis sûr,
+Quand sur nos fronts l'amour flamboie,
+Que quelqu'un sourit dans l'azur.
+Quand Lise, au plaisir décidée,
+Drape son burnous nubien,
+Et court au bal, j'ai dans l'idée,
+Que l'infini le prend très bien.
+Je crois peu, dans ma petite ombre,
+Qu'être gais, ce soit être ingrats,
+Et que le Dies irae sombre
+Ait pour masque le mardi gras.
+Je doute que, cachant son glaive,
+Michel, l'effrayant chérubin,
+Pour voir où Musard entraîne Ève,
+Loue un costume chez Babin.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[V]{.bold}]{.calibre_18} {#v .calibre_48}
+
+[
+Ces erreurs, nuage durable,
+Obscurcissent la terre, et font
+Que l'âme humaine est misérable
+En présence du ciel profond.
+Ces védas, ces métempsychoses,
+Abrutissent l'homme transi ;
+Donc les champs sont de belles choses,
+Et la danse aux flambeaux aussi !
+Quand mon archevêque me damne
+Pour une tranche de jambon,
+Et me maudit, j'aime mieux Jeanne,
+Meilleure preuve d'un Dieu bon.
+J'aime mieux rêver sous les saules
+Que de lire les mandements
+De monsieur le primat des Gaules
+Contre les poulardes du Mans.
+Je trouve charmantes les belles ;
+Et je préfère la gaîté
+Des Margots et des Isabelles,
+À Santeuil hurlant : Stupete !
+Je répugne aux vieux dogmes tristes ;
+Je veux, en deux efforts égaux,
+Tirer l'art des mains des puristes
+Et Dieu des griffes des cagots.
+Je hais les Césars et les Romes ;
+Ma sagesse, en ces temps railleurs,
+C'est beaucoup d'amour pour les hommes,
+Beaucoup de pitié pour les fleurs.
+Je donnerais dix rois de France
+Et vingt sultans de Dahomey
+Pour ôter au pauvre une transe,
+Une nuée au mois de mai.]{.calibre4}
+
+[]{.calibre_7}
+
+### [[VI]{.bold}]{.calibre_18} {#vi .calibre_48}
+
+[
+Tout homme est pris, dans son bas âge,
+Par le mensonge triomphant ;
+Les ténèbres, cet esclavage,
+M'ont mis au bagne, tout enfant.
+Ceux pour qui l'ignorance est l'ordre
+Ont, sur ma pensée où Dieu luit,
+Pris soin de nouer et de tordre
+L'énorme chaîne de la nuit.
+Chaque chaînon de cette chaîne
+Est fait d'autorité, de deuil,
+D'énigme, et de la vieille haine
+Forgée avec l'antique orgueil.
+La peur, tous les textes terribles,
+Tout l'anathème, tout l'enfer,
+Tous les Corans, toutes les bibles,
+Mêlés, en composent le fer.
+Cette chaîne, où rampe une flamme,
+Sur l'enfant comme sur l'agneau
+Pèse, et nous étreint ; mais mon âme
+Rit, et passe à travers l'anneau.
+[25 octobre 1859.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LI -- Le Parisien du faubourg]{.calibre2}]{.bold1}]{.calibre_39} {#li-le-parisien-du-faubourg .calibre_38}
+
+[[
+]{.bold} Il fait la noce éternelle.
+La table est dans la tonnelle ;
+Mort ivre, il tombe dessous ;
+Et, c'est là sa réussite,
+Il va, quand il ressuscite,
+Au paradis pour six sous.
+Rire et boire, et c'est la vie !
+On régale ; on se convie
+Sur le vieux comptoir de plomb ;
+Toujours fête ; et le dimanche
+Tient le lundi par la manche ;
+Le dimanche a le bras long.
+Le broc luit sous les charmilles.
+--- Nous tendrons un verre aux filles
+Et nous les embrasserons ;
+Être heureux, c'est très facile.
+La Grèce avait le Poecile,
+La France a les Porcherons.
+Las, on se couche aux carrières... ---
+Oh ! Ce peuple des barrières !
+Oh ! Ce peuple des faubourgs !
+Fou de gaîtés puériles,
+Donnant quelques fleurs stériles
+Pour tant de profonds labours !
+Il dort, il chante, il s'irrite.
+Rome dit : quel sybarite !
+Sybaris dit : quel romain !
+À toute minute il change ;[
+]{.bold} Et ce serait un archange
+Si ce n'était un gamin.
+L'athénien est son père.
+Par moments on désespère ;
+Il quitte et reprend son bât.
+Devinez cette charade :
+Il achève en mascarade
+Ce qu'il commence en combat.
+Il n'a plus rien dans les veines ;
+Il emploie aux danses vaines
+Ces grands mois, juillet, août ;
+Quel bâtard, ou quel maroufle !
+--- Mais un vent inconnu souffle ;
+Il se lève tout à coup,
+Tout ruisselant d'espérance,
+Disant : je m'appelle France !
+Splendide, ivre de péril,
+Beau, joyeux, l'âme éveillée,
+Comme une abeille mouillée
+De rosée au mois d'avril !
+Il se lève formidable,
+Abordant l'inabordable,
+Prenant dans ses poings le feu,
+Sonnant l'heure solennelle,
+Ayant l'homme sous son aile
+Et dans sa prunelle Dieu !
+Fier, il mord dans le fer rouge.
+Il change en éden le bouge,
+Enfante chefs et soldats,
+Et, se dressant dans sa gloire,
+Finit sa chanson à boire
+Par ce cri : Léonidas !
+Qu'un autre lui jette un blâme.
+Il est le peuple et la femme ;
+C'est l'enfant insoucieux
+Qui soudain s'allume et brille ;
+Il descend de la Courtille,
+Mais il monte dans les cieux.[
+]{.bold}
+[Guernesey, 16 juin 1859.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LII]{.calibre2}]{.bold1}]{.calibre_39} {#lii .calibre_38}
+
+[
+Ô rois, de qui je vois les royaumes, là-bas,
+Au fond d'un gouffre plein de foudre et de combats,
+Je ne sais pas combien de temps Dieu vous accorde ;
+Mais je sais qu'il me donne en sa miséricorde
+Un petit coin de terre où la rose fleurit.
+La vaste mer connaît mon île et lui sourit,
+Et murmure à mes pieds son doux épithalame,
+Et je ne connais rien de plus calmant pour l'âme
+Que cette solitude immense, où j'ai des fleurs.
+Les frais zéphyrs de mai, mystérieux souffleurs,
+Me chuchotent des vers de Virgile à l'oreille ;
+Le printemps n'admet pas ce qui le dépareille,
+Il chasse grêle et neige, et sur l'hiver descend
+Avec le gai courroux d'un enfant tout-puissant ;
+L'aurore et la jeunesse entrent en équilibre ;
+Partout éclate et rit la grande leçon libre
+D'amour, que chacun donne et que chacun reçoit ;
+Nul n'échappe à la loi divine, quel qu'il soit ;
+La jeune fille montre au jeune homme la mousse ;
+Le petit oiseau voit comment la feuille pousse
+Autour de l'humble nid, par le chêne adopté ;
+Le papillon enseigne au lys la volupté ;
+Je contemple ce tas d'écoles buissonnières ;
+Et je hais l'affreux vent qui gonfle vos bannières !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LIII]{.calibre2}]{.bold1}]{.calibre_39} {#liii .calibre_38}
+
+[
+J'ai coudoyé les rois, les grands, le fou, le sage,
+Judas, César, Davus,
+Job, Thersite, et je suis effaré du passage
+Des hommes que j'ai vus.
+J'ai subi l'insulteur qui lapide la tombe
+Et qui raille l'exil ;
+Car sur nous le tonnerre auguste souvent tombe
+Avec le crachat vil.
+J'ai cherché le malheur comme un chasseur le tigre.
+Mon fruit nourrit un ver.
+Je suis une hirondelle étrange, car j'émigre
+Du côté de l'hiver.
+Je ne serai jamais qu'un vaincu ; j'ai pour règle
+D'être avec les blessés ;
+Quand ils sont trop vainqueurs, je dis au peuple, à l'aigle,
+À Dieu lui-même : Assez !
+Je pense que j'ai fait des choses nécessaires ;
+Je n'ai pas de regrets ;
+L'homme juste est content d'employer ses misères
+À bâtir le progrès.
+Pourtant vous ne pouvez empêcher que je songe,
+Las du sort par moments,
+Et de l'ombre que laisse aux âmes le mensonge
+De tant événements.
+Le destin m'a jeté de tempête en tempête,
+De récif en récif ;[
+]{.bold} Jamais mon coeur saignant n'a fait courber ma tête ;
+Mon courroux est pensif.
+J'ai traversé les pleurs, les haines, les veuvages,
+Ce qui mord, ce qui nuit ;
+Noir rocher, j'ai connu tous les âpres visages
+Du deuil et de la nuit.
+J'ai lutté ; j'ai subi la sinistre merveille
+Des abîmes mouvants ;
+Et jamais on ne vit dispersion pareille
+D'une âme à tous les vents.
+Je suis presque prophète et je suis presque apôtre ;
+Je dis : c'est bien ! Allons !
+Mais je ne voudrais pas de mon sort pour un autre,
+Ô fauves aquilons !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LIV -- Une rougeur au Zénith]{.calibre2}]{.bold1}]{.calibre_39} {#liv-une-rougeur-au-zénith .calibre_38}
+
+[
+Quoi ! ce n'est pas réel parce que c'est lointain !
+Ne croyez pas cela, vous qu'un hasard hautain,
+Une chance, une erreur, l'invention des prêtres,
+Un mensonge quelconque, a faits rois, princes, maîtres ;
+Papes, sultans, Césars, czars, qui que vous soyez,
+Qui tenez les vivants sous le sceptre ployés,
+Et qui mettez Berlin, Stamboul, Pétersbourg, Rome,
+Les ténèbres, le dogme et le sabre, sur l'homme,
+Vous qui vous croyez grands et nous croyez petits,
+Regardez la lueur, et soyez avertis
+Que nous ne serons pas toujours le troupeau triste,
+Rois, et que l'avenir, ce flamboiement, existe.
+On vous rassure. On dit : utopie ! Eh bien non ;
+Ayez peur. Vous avez ici bas le canon,
+Le trône, l'échafaud, l'obus, le knout, le glaive ;
+Mais nous avons là-haut cette clarté, le rêve ;
+Nous avons ce rayon, l'idéal ; nous avons
+Ce qu'avaient autrefois les pâles esclavons,
+Les juifs, les huguenots et les noirs, l'espérance ;
+Nous avons l'infini, sublime transparence ;
+Nous avons la traînée effrayante de feu
+Qui vient vers l'homme avec un message de Dieu,
+Et qui fait frissonner l'ombre, blêmir la roche,
+Fuir l'orfraie et hurler les loups, à son approche.
+Oui, le grand éden libre avec ses songes fous,
+Qui, l'énorme avenir de lumière pour tous
+Qui vous rougit le ciel, rois, et qui nous le dore,
+Qui vous semble fournaise et qui nous semble aurore,
+Nous l'aurons. Nous l'avons ! Car c'est déjà l'avoir,
+C'est déjà le tenir presque, que de le voir.
+Et nous l'apercevons, le superbe prodige !
+Vous le voyez aussi. Levez les yeux, vous dis-je \![
+]{.bold} Ne vous figurez pas que pour être indistinct
+Cela ne soit pas vrai. Quoi ! Mais c'est presque éteint !
+Non. C'est mêlé de nuit ! Il le faut. Sans pilote !
+Qu'en savez-vous ? Quoi donc ! Cette rougeur qui flotte,
+C'est quelque chose ? Ô rois, c'est tout. Dans les palais,
+Les maîtres à voix basse en parlent aux valets,
+Et les valets ont peur, mais font semblant de rire.
+Ah ! vous pouvez frapper, supplicier, proscrire ;
+Cela n'en vient pas moins. Cela marche. C'est loin,
+Mais sûr. Rois, ce sera l'acteur, c'est le témoin ;
+C'est le juge déjà. C'est l'idéal, ô princes !
+C'est le réel. Régnez, soit. Prenez des provinces,
+Volez-vous entre vous des peuples, triomphez ;
+Respirez notre espace à nous les étouffés ;
+Mangez, buvez, chez nous les affamés ; souffrance,
+C'est patience ; ô sombre et douce délivrance,
+Tu viens ! Ô rois, régnez, cela nous est égal ;
+Ayez la Sibérie, ayez le Sénégal ;
+Jetez-nous au vil bagne, aux noirs exils, qu'importe !
+Pendant que des clairons chantent à votre porte
+Et que des sabres nus gardent votre festin,
+Au Zénith, une flamme informe, le destin,
+Le progrès, la confuse ébauche de la vie,
+La lampe des penseurs d'un jour pâle suivie,
+Sur laquelle jadis Torquemada soufflait,
+Brille et s'avance, et jette on ne sait quel reflet,
+Prêtres, sur votre autel, princes, sur votre table.
+La comète est ainsi vaguement formidable.[
+]{.bold}
+[6 juillet 1875.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LV -- Horreur sacrée]{.calibre2}]{.bold1}]{.calibre_39} {#lv-horreur-sacrée .calibre_38}
+
+[
+Souvent, dans le hallier où l'églogue hypocrite
+S'en va chantant,
+J'ai tout à coup cessé de lire Théocrite
+Inquiétant ;
+Homère fait trembler ; un gouffre est dans Eschyle ;
+Parfois je veux
+M'enfuir quand Circé passe ou quand je vois Achille
+Pris aux cheveux ;
+Les aigles sur les bords du Gange et du Caystre
+Sont effrayants ;
+Rien de grand qui ne soit confusément sinistre ;
+Les noirs pæans,
+Les psaumes, la chanson monstrueuse du mage
+Ézéchiel,
+Font devant notre oeil fixe errer la vague image
+D'un affreux ciel.
+L'empyrée est l'abîme, on y plonge, on y reste
+Avec terreur.
+Car planer, c'est trembler ; si l'azur est céleste,
+C'est par l'horreur.
+L'épouvante est au fond des choses les plus belles ;
+Les bleus vallons
+Font parfois reculer d'effroi les fauves ailes
+Des aquilons.
+Ils sont pleins de regards et d'aspects ; et les sages,
+Seuls dans les bois,[
+]{.bold} Méditent, attentifs dans l'ombre à des passages
+D'yeux et de voix ;
+Le poète serein contient l'obscur prophète ;
+Orphée est noir ;
+C'est dans une lueur mystérieuse, faite
+D'aube et de soir,
+C'est en regardant fuir sous l'insondable voûte
+D'affreux griffons,
+Qu'Amos effaré songe et qu'Isaïe écoute
+Les bruits profonds ;
+Alcée est sidéral, Lucrèce est redoutable,
+Job voit l'Esprit ;
+Le Sphinx vient par moments s'accouder sur la table
+Où Dante écrit ;
+Plaute par Thalia, formidable bouffonne,
+S'entend gronder ;
+Et Pindare en levant les yeux voit Tisiphone
+Le regarder ;
+De là tant de beautés difformes dans leurs oeuvres ;
+Le vers charmant
+Est par la torsion subite des couleuvres
+Pris brusquement ;
+À de certains moments toutes les jeunes flores
+Dans la forêt
+Ont peur, et sur le front des blanches métaphores
+L'ombre apparaît ;
+C'est qu'Horace ou Virgile ont vu soudain le spectre
+Noir se dresser ;
+C'est que là-bas, derrière Amaryllis, Électre
+Vient de passer.
+La nature est en vain pleine de fleurs, de fêtes,
+Et de pardons,
+Les poètes ont beau rayonner sur nos têtes,
+Nous entendons
+Parler de sombres voix à Delphes, aux Propylées,
+Et dans Endor ;
+Et la nuit a toujours des méduses mêlées
+Aux astres d'or.[
+]{.bold}]{.calibre4}
+
+[[7 décembre.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[LVI]{.calibre2}[]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_39} {#lvi .calibre_38}
+
+[]{.calibre_10}
+
+### [[I]{.bold}]{.calibre_18} {#i .calibre_48}
+
+[
+L'âme humaine est sans cesse en tous les sens poussée.
+Dans l'étrange forêt qu'on nomme la pensée,
+Tout existe. Sina n'exclut pas Cythéron.
+La douce flûte alterne avec le fier clairon ;
+Le fifre railleur donne aux lyres la réplique ;
+Ici Vesta cachée, et là Vénus publique ;
+Le taillis chaste admet les faunes impudents ;
+Et, quoiqu'un mage austère et grave soit dedans,
+L'antre n'empêche pas les nymphes d'être nues.
+La pensée est le lieu des routes inconnues,
+Du doute, où les chercheurs ont fait ce qu'ils ont pu,
+Le vague itinéraire à chaque instant rompu.
+Toujours plus loin ! Voilà le seul avis que donne
+Au songeur cette sombre et fatale Dodone.
+Tout est réalité, mais tout est vision.
+Marchez.]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[II]{.bold}]{.calibre_18} {#ii .calibre_48}
+
+[
+Et c'est ainsi dans la création.
+Rien qui ne soit passage, essai, brume, aventure,
+Songe, la vie ayant la mort pour nourriture.
+Décor dont les châssis des deux côtés sont peints,
+Ici la face et là le masque. Les sapins,
+Les chênes, les torrents, l'attitude effarée
+Des écueils à jamais battus par la marée,
+Tout parle. Rien ne ment. Pas un malentendu.[
+]{.bold} Pas une note fausse et pas un cri perdu.
+Pas une voix disant une chose pour l'autre.
+Le vent sait ce qu'il dit aussi bien que l'apôtre ;
+L'étoile dialogue avec l'aube, et quand l'air
+S'ouvre à la déchirure énorme de l'éclair,
+Les orages profonds confusément murmurent
+Le verbe dont jadis les poètes s'émurent,
+Et d'où sortit, écho du temple ténébreux,
+Avec le paean grec, l'hosanna des hébreux.
+Chaque saison apporte et remporte sa tente.
+La fauve immensité n'est pas toujours contente,
+Et l'on entend en bas un grondement confus.
+Mais qu'importe. Parfois l'ombre essaie un refus,
+La nuit fait ses noirceurs, l'hiver jette sa glace ;
+Le mal, ce grand blasphème obscur, au bien s'enlace ;
+Tout cela, c'est la vie. En toute chose on peut
+De la nuit et du jour étudier le noeud ;
+Le prodige divin roule dans ses tumultes
+Pêle-mêle, nos lois, nos croyances, nos cultes,
+Et pour faire avancer la justice, et prouver
+Le droit, et le progrès, cet éternel lever,
+Les désastres font presque autant que les victoires ;
+Le mystère profond des voix contradictoires
+Éclate, et l'enfer donne au paradis raison
+D'un bout à l'autre bout du sinistre horizon.
+Car le sarcasme affirme, et maudire, c'est croire.
+La huée est un bruit qui constate la gloire.]{.calibre4}
+
+[]{.calibre_10}
+
+### [[III]{.bold}]{.calibre_18} {#iii .calibre_48}
+
+[
+Oui. Tout, c'est l'harmonie. Adorons et pensons.
+Livrons notre âme ouverte aux cris comme aux chansons.
+Le vent fuit. Regardons entrer dans l'invisible
+Ce javelot lancé vers l'éternelle cible ;
+L'arbre pousse ; observons cette croissance ; ayons
+L'oeil attentif à l'onde, aux souffles, aux rayons ;[
+]{.bold} Sondons de toutes parts à la fois le mystère.
+Notre race, depuis qu'elle est sur cette terre,
+Travaille, et ne sait rien que ce que l'homme apprit
+Dans ces dispersions superbes de l'esprit.
+Oh ! C'est une raison de contempler sans cesse,
+Que ce ciel sans orgueil, ce gouffre sans bassesse,
+Cette guerre d'où naît la paix, ces grands reflux
+Des éléments s'offrant entre eux leurs superflus
+Et mêlant par les bords leurs océans farouches.
+Oh ! L'unanimité sort de toutes les bouches !
+Que c'est beau, cet accord des contraires, disant
+Le même mot sublime, effrayant, innocent !
+Sombre unité ! La loi des choses est la nôtre.
+Une saison ne sert qu'à faire venir l'autre ;
+Hier en reculant fait avancer Demain ;
+Profonde identité. Sort ! Nuit !
+L'esprit humain
+Contient le même songe obscur que la nature ;
+Il a sur l'infini comme elle une ouverture,
+Mais l'obstacle est dans l'ombre, et nous y distinguons
+Une porte que nul n'ébranle sur ses gonds,
+C'est l'inconnu. L'esprit de l'homme, en qui tout vibre,
+Va heurter cette porte avec une aile libre ;
+Nous la sentons, au fond de l'abîme serein,
+Faite d'on ne sait quel mystérieux airain ;
+Quelqu'un parle tout haut derrière cette porte ;
+De ce que cette voix dit, et des mots qu'emporte
+Le vent semblable au rêve, et que nous saisissons,
+Naissent tous nos espoirs comme tous nos frissons.
+Et ce sont ces mots-là qui viennent jusqu'à l'homme
+À travers les songeurs de Judée et de Rome,
+À travers Jérémie et Lucrèce, à travers
+Ce tumulte orageux de strophes et de vers
+Qui se mêle au ciel sombre et sort, fumée ardente,
+De tous ces volcans, Job, Moïse, Eschyle, Dante.
+Ces inspirés, en qui la nuit s'unit au jour,
+Avaient ce grand courroux qui naît d'un grand amour ;
+Une fournaise était en leur coeur amassée.
+Oui, les poètes saints vont chercher la pensée
+Aux mêmes profondeurs que les volcans le feu ;
+Juvénal, noir, rongé par la muse, est un lieu
+Autant qu'un homme, un mont de haine, et s'accoutume
+À la colère ainsi que Vésuve au bitume.
+Le génie est un puits d'éruptions ; un cri
+Sort d'un cratère, ou bien d'un poète attendri ;
+La lave chante et bout, l'hymne s'embrase et souffre ;
+L'ardent prophète jette une clameur de gouffre,
+Et Dieu, que nul ne vit et que tout devina,
+Gronde dans Isaïe autant que dans l'Etna.[
+]{.bold}
+[1er juin 1870]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Aux proscrits]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3400 .calibre_57}
+
+::: calibre_19
+
+
+[En plantant le chêne des Etats-Unis d'Europe]{.calibre_10}
+
+[dans le jardin de Hauteville-House]{.calibre_10}
+
+[]{.calibre_10}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I]{.calibre2}]{.bold1}]{.calibre_39} {#i .calibre_38}
+
+[
+Semons ce qui demeure, ô passants que nous sommes !
+Le sort est un abîme, et ses flots sont amers.
+Au bord du noir destin, frères, semons des hommes,
+Et des chênes au bord des mers !
+Nous sommes envoyés, bannis, sur ce calvaire,
+Pour être vus de loin, d'en bas, par nos vainqueurs,
+Et pour faire germer par l'exemple sévère
+Des coeurs semblables à nos coeurs.
+Et nous avons aussi le devoir, ô nature,
+D'allumer des clartés sous ton fauve sourcil,
+Et de mettre à ces rocs la grande signature
+De l'avenir et de l'exil.
+Sachez que nous pouvons faire sortir de terre
+Le chêne triomphal que l'univers attend,
+Et faire frissonner dans son feuillage austère
+L'idée au sourire éclatant.
+La matière aime et veut que notre appel l'émeuve ;
+Le globe est sous l'esprit, et le grand verbe humain[
+]{.bold} Enseigne l'être, et l'onde, et la sève, et le fleuve,
+Qui lui demandent leur chemin.
+L'homme, quand il commande aux flots de le connaître,
+Aux mers de l'écouter dans le bruit qu'elles font,
+À la terre d'ouvrir son flanc, aux temps de naître,
+Est un mage immense et profond.
+Ayons foi dans ce germe ! Amis, il nous ressemble.
+Il sera grand et fort, puisqu'il est faible et nu.
+Nous sommes ses pareils, bannis, nous en qui tremble
+Tout un vaste monde inconnu !
+Nous fûmes secoués d'un arbre formidable,
+Un soir d'hiver, à l'heure où le monde est puni,
+Nous fûmes secoués, frères, dans l'insondable,
+Dans l'ouragan, dans l'infini.
+Chacun de nous contient le chêne République ;
+Chacun de nous contient le chêne Vérité ;
+L'oreille qui, pieuse, à nos malheurs s'applique,
+T'entend sourdre en nous, Liberté !
+Tu nous jettes au vent, Dieu qui par nous commences !
+C'est bien. Nous disperser, ô Dieu, c'est nous bénir !
+Nous sommes la poignée obscure des semences
+Du sombre champ de l'avenir.
+Et nous y germerons, n'en doutez pas, mes frères,
+Comme en ce sable, au bord des flots prompts à s'enfler,
+Croîtra, parmi les flux et les reflux contraires,
+Ce gland, sur qui Dieu va souffler !]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II]{.calibre2}]{.bold1}]{.calibre_39} {#ii .calibre_38}
+
+[
+Ô nature, il s'agit de faire un arbre énorme,
+Mouvant comme aujourd'hui, puissant comme demain,[
+]{.bold} Figurant par sa feuille et sa taille et sa forme
+La croissance du genre humain !
+Il s'agit de construire un chêne aux bras sans nombre,
+Un grand chêne qui puise avec son tronc noueux
+De la nuit dans la terre et qui force cette ombre
+À s'épanouir dans les cieux !
+Il s'agit de bâtir cette oeuvre collective
+D'un chêne altier, auguste, et par tous conspiré,
+L'homme y mettant son souffle et l'océan sa rive,
+Et l'astre son rayon sacré !
+Nature, que je sens saigner par nos fêlures,
+Dont l'âme est le foyer où nous nous réchauffons,
+Et dont on voit la nuit les vagues chevelures
+Flotter dans les souffles profonds,
+Nous confions cet arbre à tes entrailles, mère !
+Fais-le si grand, qu'égal aux vieux cèdres d'Hébron,
+Il ne distingue pas l'aigle de l'éphémère
+Et la foudre du moucheron ;
+Et qu'un jour le passant, quand luira l'aube calme
+De l'affranchissement des peuples sous les cieux,
+Croie, en le voyant, voir la gigantesque palme
+De cet effort prodigieux !
+Nous te le confions, plage aux voix étouffées.
+Ô sinistre océan, nous te le confions ;
+Nous confions le chêne adoré des Orphées
+Aux flots qu'aimaient les Amphions !
+Nuages, firmaments, pléiades protectrices,
+Écumes, durs granits, sables craints des sondeurs,
+Nous vous le confions ; et soyez ses nourrices,
+Ténèbres, clartés, profondeurs !]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III]{.calibre2}]{.bold1}]{.calibre_39} {#iii .calibre_38}
+
+[
+Vents, vous travaillerez à ce travail sublime ;
+Ô vents sourds, qui jamais ne dites : c'est assez !
+Vous mêlerez la pluie amère de l'abîme
+À ses noirs cheveux hérissés.
+Vous le fortifierez de vos rudes haleines ;
+Vous l'accoutumerez aux luttes des géants ;
+Vous l'effaroucherez avec vos bouches pleines
+De la clameur des océans.
+Et vous lui porterez, vents, du fond des campagnes,
+Vents, vous lui porterez du fond des vastes eaux,
+Le frisson des sapins de toutes les montagnes
+Et des mâts de tous les vaisseaux.
+Afin qu'il soit robuste, invincible, suprême,
+Et qu'il n'ait peur de rien au bord de l'infini !
+Afin qu'étant bâti par les destructeurs même,
+Des maudits même il soit béni !
+Afin qu'il soit sacré pour la mer sa voisine,
+Que sa rumeur s'effeuille en ineffables mots,
+Et qu'il grandisse, ayant la nuit dans sa racine
+Et l'aurore dans ses rameaux !]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV]{.calibre2}]{.bold1}]{.calibre_39} {#iv .calibre_38}
+
+[
+Oh ! Qu'il croisse ! Qu'il monte aux cieux où sont les flammes !
+Qu'il ait toujours moins d'ombre et toujours plus d'azur,
+Cet arbre, en qui, pieux, penchés, vidant nos âmes,
+Nous mettons tout l'homme futur !
+Qu'il ait la majesté des étoiles profondes
+Au-dessus de sa tête, et sous ses pieds les flots !
+Et qu'il soit moins ému du murmure des mondes
+Que des chansons des matelots !
+Qu'il soit haut comme un phare et beau comme une gerbe !
+Qu'il soit mobile et fixe, et jeune, même vieux !
+Qu'il montre aux rocs jaloux son ondoiement superbe,
+Sa racine aux flots envieux !
+Qu'il soit l'arbre univers, l'arbre cité, l'arbre homme !
+Et que le penseur croie un jour, sous ses abris,
+Entendre en ses rameaux le grand soupir de Rome
+Et le grand hymne de Paris !
+Que, l'hiver, lutteur nu, tronc fier, vivant squelette,
+Montrant ses poings de bronze aux souffles furieux,
+Tordant ses coudes noirs, il soit le sombre athlète
+D'un pugilat mystérieux !
+Car l'orage est semblable au sort qui se déchaîne,
+La vie est un guerrier, les vents sont des bourreaux,
+Et traitent sous les cieux le héros comme un chêne,
+Et le chêne comme un héros.
+Qu'il abrite la fleur rampante sur le sable !
+Qu'il couvre le brin d'herbe et le myosotis !
+Qu'il apparaisse aux vents déchaînés, formidable
+De sa bonté pour les petits !
+Que rien ne le renverse et que rien ne le ploie !
+Qu'il soit, sur ce rivage âpre et des vents battu,
+La touffe frémissante et forte de la joie,
+De l'audace et de la vertu !
+Qu'il réjouisse, auguste, aux rayons pénétrable,
+De son fourmillement de feuilles le ciel bleu \![
+]{.bold} Qu'il vive ! Qu'il soit un et qu'il soit innombrable
+Comme le peuple et comme Dieu !]{.calibre4}
+
+[ ]{.calibre4}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V]{.calibre2}]{.bold1}]{.calibre_39} {#v .calibre_38}
+
+[
+En attendant, écume, autan, bruits, noires bouches,
+Ménagez l'arbre enfant, éléments irrités !
+Tant qu'il sera petit, murmurez, voix farouches,
+Et quand il sera grand, chantez !
+Les tyrans, entassant les fléaux, blocs funèbres,
+Brisant l'homme idéal, broyant l'homme animal,
+Sont en train de bâtir un fronton de ténèbres
+Au vieil édifice du mal.
+Avec l'ombre qui sort des guerres et des pestes,
+Avec les tourbillons des grands embrasements,
+Et les miasmes lourds et les souffles funestes
+Des fosses pleines d'ossements,
+Avec les toits brûlants, les villes enflammées,
+Le noir temple du deuil par les rois est construit ;
+On voit d'ici monter ces énormes fumées,
+Colonnes torses de la nuit !
+Nous, vaincus, construisons le bonheur ! Je convie
+Les siècles à ton ombre, ô gland d'adversité !
+Croîs, arbre ; règne, idée ; et que l'arbre ait la vie,
+L'idée ayant l'éternité !
+Pierre et César sont là, pleins du passé féroce !
+C'est l'instant de lutter, nous qu'on osa bannir,
+Contre le mal géant, contre l'erreur colosse,
+Avec ton atome, avenir !
+Semons ! --- Semons le gland, et qu'il soit chêne immense !
+Semons le droit ; qu'il soit bonheur, gloire et clarté \![
+]{.bold} Semons l'homme et qu'il soit peuple ! Semons la France,
+Et qu'elle soit Humanité !
+C'est le champ de l'exil ; semons-y l'espérance.
+Semons la nuit lugubre, et qu'elle soit le jour !
+Germe en Dieu, grain obscur ! Semons notre souffrance,
+Proscrits, et qu'elle soit l'amour !
+Oh ! Que le genre humain monte sur la montagne !
+Terre, souris enfin à l'homme audacieux,
+Et sois l'éden, après avoir été le bagne,
+Ô globe emporté dans les cieux !
+[21 juillet 1870.]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[[[IV]{.calibre34}]{.calibre2} -- Le Livre Épique -- La Révolution]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3402 .calibre_57}
+
+::: calibre_19
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I. Les Statues]{.calibre2}]{.bold1}]{.calibre_39} {#i.-les-statues .calibre_38}
+
+[
+Le cavalier de bronze était debout dans l'ombre.
+Autour de lui dormait la ville aux toits sans nombre ;
+Les hauts clochers semblaient, sur les bruns horizons,
+De grands pasteurs gardant des troupeaux de maisons ;
+Notre-Dame élevait ses deux tours, dont chacune,
+Lugubre, s'effrayait, dans cette nuit sans lune,
+D'entrevoir vaguement sa gigantesque soeur ;
+Le Zénith se voilait d'une telle épaisseur
+Que les lueurs du gouffre avaient disparu toutes ;
+Râlant seul par moments sous les nocturnes voûtes,
+Le vent semblait donner passage au désespoir ;
+Les nuages étaient les plis d'un rideau noir ;
+On eût dit que le jour ne devait plus renaître,
+Ni le matin rouvrir sa sereine fenêtre,
+Et que, charbon terrible, âtre à jamais détruit,
+Dans cette immensité sur laquelle la nuit,
+Monstrueuse, s'était pour toujours refermée,
+Tout le soleil éteint s'en allait en fumée,
+Tant sur la terre morne et dans le firmament
+L'obscurité versait d'évanouissement !
+Le ciel, pour on ne sait quels spectateurs funèbres,
+Ouvrait jusqu'au fond l'antre immense des ténèbres.
+Calme, l'épée au flanc, et portant sur le dos[
+]{.bold} Le harnais des anciens chevaliers féodaux,
+Il était là debout en habit de bataille.
+Héros par le sourire et géant par la taille,
+Tenant la bride noire en son noir gantelet,
+Colosse et roi, tranquille, immuable, il semblait
+Pétrifier la nuit par son éternel geste ;
+Et, se confondant presque avec l'ombre funeste,
+Mêlait son airain sombre à la noirceur des cieux.
+La statue, au regard fixe et mystérieux,
+Vision du sommet et spectre de la cime,
+À l'immobilité sinistre de l'abîme,
+Car, étant du sépulcre, elle est de l'infini.
+Ce livide cheval qui n'a jamais henni,
+Ce guerrier qui, muet, semble le personnage
+Du suprême silence et du grand témoignage,
+Ce socle dominant les hommes, élevant
+Sa paix sombre parmi leur orage vivant,
+Et sortant de la tombe avec un air de gloire,
+Ce colosse qui prend de force la mémoire,
+Qui semble encore le roi, le tyran, le bourreau,
+Et qui ne pourrait pas chasser un passereau,
+Toute cette figure est un monstre du rêve ;
+Même quand le soleil la précise et l'achève
+Et vient la regarder en face, même au jour,
+Même quand les passants fourmillent à l'entour,
+D'une crainte secrète elle reste vêtue,
+Elle est funèbre encore ; mais le soir, la statue,
+Roi pensif, dur soldat ou lugubre empereur,
+Reprend toute sa nuit et toute sa terreur.
+Donc il apparaissait dans l'ombre grandiose.
+Tout ce que le néant contient d'apothéose,
+Tout ce qu'un front royal peut garder de serein
+Dans la captivité tragique de l'airain,
+L'horreur du monument, tout ce qu'une prunelle[
+]{.bold} Peut conserver d'éclair quand elle est éternelle,
+Toute la vie étrange et pâle de la mort,
+Ce qui reste au héros jadis illustre et fort
+Quand le trépas l'étreint de ses deux ailes noires,
+Tout l'effort qu'au tombeau le gagneur de victoires
+En cessant d'être roi fait pour devenir Dieu,
+Et la grandeur de l'heure et la grandeur du lieu,
+S'ajoutaient au colosse et de son attitude
+Augmentaient la suprême et grave solitude ;
+Et la Seine fuyait avec un triste bruit
+Sous ce grand chevalier du gouffre et de la nuit.
+Le vent jetait son cri, l'eau jetait son écume ;
+Et les arches du pont, s'enfonçant dans la brume
+Avec un vague aspect de spectre et de chaos,
+S'ouvraient sous la statue auguste, et sur les flots
+Du fleuve humilié qui pleure et qui querelle,
+Porches d'ombre pour eux, arcs triomphaux pour elle.
+Soudain, dans ce silence, et sans qu'on pût savoir
+Qui parlait dans ce calme impénétrable et noir
+Où la profondeur sourde et terrible sommeille,
+Au-dessus du colosse immobile, à l'oreille
+De la statue ouvrant ses yeux fixes devant
+L'espace sépulcral plein de nuit et de vent,
+Une voix, qui passa comme un souffle de glace,
+Dit : ― Va voir si ton fils est toujours à sa place.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Si quelqu'un à cette heure eût rôdé là, marchant
+Sur le quai solitaire ou près du bord penchant,
+Aux clartés du falot qui vacille et qui fume,
+Cet être eût entendu tout à coup, dans la brume[
+]{.bold} Qui, l'hiver, fait Paris plus noir qu'une forêt,
+Un bruit rauque pareil au bruit qui sortirait
+De quelque panoplie énorme des ténèbres ;
+Il eût senti l'horreur frémir dans ses vertèbres,
+Et sa langue à la nuit bégayer des aveux,
+(Qui n'a pas son remords secret ?) et ses cheveux
+Se dresser, et ses dents se heurter dans sa bouche ;
+Car sur le piédestal où, dans le vent farouche,
+Les nuages semblaient d'en haut la saluer,
+La statue, ô terreur ! Venait de remuer.
+Rien, pas même l'airain, pour jamais ne s'arrête.
+Le roi tourna la bride et le cheval la tête.
+Le terre-plein frémit ; de longs mouvements sourds
+Ébranlèrent les toits, les églises, les tours,
+Et les portails sacrés que les siècles vénèrent.
+Les muscles monstrueux du bronze frissonnèrent,
+La croupe tressaillit, le pied toujours levé
+Qui laisse l'herbe croître aux fentes du pavé
+S'abaissa, l'autre pied scellé dans l'architrave
+Se leva ; le colosse inclina son front grave,
+Le destrier, ployant ses jarrets de métal,
+Horrible, s'approcha du bord du piédestal,
+--- Visions où jamais un oeil humain ne plonge ! ―
+Et, comme par la rampe invisible d'un songe,
+La statue à pas lents du socle descendit.
+Alors l'âpre ruelle au nom fauve et maudit,
+L'échoppe, la maison, l'hôtel, le bouge obscène,
+Les mille toits mirant leurs angles dans la Seine,
+Les obscurs carrefours où, le jour, en tous sens,
+Court l'hésitation confuse des passants,
+Les enseignes pendant aux crocs de fer des portes,
+Les palais crénelés comme des villes fortes,[
+]{.bold} Le chaland aux anneaux des berges retenu,
+S'étonnèrent devant ce cimier inconnu
+Dont aucun ouragan n'eût remué la plume,
+Entendirent le sol tinter comme une enclume
+Et, tandis qu'au fronton des tours l'heure étouffait
+Sa voix, n'osant sonner au cadran stupéfait,
+Virent, dans l'épaisseur des ténèbres accrues,
+Droit, paisible et glacé, s'avancer dans les rues,
+Accompagné d'un bruit funèbre et souterrain,
+L'homme de bronze assis sur le cheval d'airain.
+L'eau triste frissonnait sous la rondeur de l'arche.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Horreur prodigieuse ! Une statue en marche !
+La lourdeur de cette ombre étonne le pavé.
+Elle glisse, elle va, morne, le front levé,
+Avec une roideur de cadavre, et sa forme
+Inflexible résiste au vent du gouffre énorme.
+L'affreux ordre nocturne en est bouleversé.
+Après que cette chose effroyable a passé,
+Sous les plafonds glacés où les cercueils séjournent,
+Les squelettes hagards dans leur lit se retournent
+Et disent à la nuit funeste qui ne sait
+Que leur répondre : ô nuit, qu'est-ce donc qui passait ?
+Si l'oeil pouvait plonger dans ces hideux royaumes
+Et percer le mystère, on verrait les fantômes,
+Frissonnants, éviter le lugubre inconnu.
+Larve dont le regard sans pâlir soutenu
+Fait toute la grandeur de don Juan athée !
+Spectre où s'ébrécherait l'épée épouvantée,
+Et qu'en l'osant toucher la main sentirait froid \![
+]{.bold} Actions de la vie, amours, justice, droit,
+Crime, vengeance, orgueil, qu'un simulacre traîne !
+Responsabilité de la figure humaine
+Prise par le granit ou le bronze fatal !
+Oh ! Dans l'égarement d'un orage mental,
+Dans quelque âpre chaos de villes abattues,
+Qui donc a vu rôder lentement des statues ?
+Ces êtres inouïs, impossibles, affreux,
+Vont, ayant la stupeur des ténèbres sur eux ;
+Et l'alarme est dans l'ombre, et le rêve lui-même,
+Qui distingue à minuit dans l'immensité blême
+Tout un monde terrible à travers l'oeil fermé,
+Le rêve, aux habitants de l'ombre accoutumé,
+S'épouvante de voir cette lugubre espèce
+De fantômes entrer dans sa nuée épaisse,
+Et frémit, car le pas de ces noirs arrivants
+N'est ni le pas des morts ni le pas des vivants.
+Quand l'homme s'avança, les profondeurs s'émurent.
+Et le dessous des ponts où les courants murmurent,
+Les cimetières noirs, sentant venir un roi,
+Les parvis dominés d'un porche ou d'un beffroi
+Où passaient autrefois les carrosses des sacres,
+Les charniers, les égouts où le sang des massacres
+S'extravase et croupit et fait de tristes lacs,
+Les bornes où, pensifs, montent les Ravaillacs,
+Les puits mystérieux des vieilles tours muettes,
+Les lourds carcans, pendus au clou des oubliettes,
+Les lointains ponts-levis des forts et des fossés,
+Les pavés où, l'hiver, la pluie à flots pressés
+S'abat, tombant du ciel comme des trous d'un crible,
+Se mirent à trembler sous le marcheur terrible.
+Et comme il est certain ― l'oeil du tombeau le voit ―
+Que derrière tout roi qui passe, quel qu'il soit,
+Toute la royauté se dresse, noir fantôme,
+L'ancien Paris, vibrant de la masure au dôme,[
+]{.bold} Dans son plus vil repli, dans son plus dur pilier,
+Fit un bruit sombre autour du fatal cavalier.
+C'était comme le cri solennel et sauvage
+De la vieille misère et du vieil esclavage,
+Comme le hurlement de mille ans révoltés,
+Comme la voix des temps et des calamités ;
+Tout le passé pleurait dans cette clameur triste,
+Tout, ce qui disparaît comme ce qui subsiste ;
+C'était le sang, la chair, et le fer, et le feu,
+Râlant à travers l'ombre un grand appel à Dieu ;
+C'était la tombe ouvrant ses immenses entrailles.
+Dans ce fauve murmure éclataient les mitrailles,
+Les meurtres, les splendeurs du pouvoir triomphant ;
+On y distinguait l'homme et la vierge et l'enfant ;
+Les balles des assauts sifflaient aux meurtrières ;
+Les femmes rugissaient dans les salpêtrières ;
+Les chambres de torture attisaient leurs réchauds ;
+On entendait gémir les geôles, les cachots,
+Et l'affreux Saint-Lazare, et ce lugubre ancêtre
+De tous les parias du vieux monde, Bicêtre ;
+Le désespoir passait suivi de ses lépreux,
+La mort de ses bourreaux, le trône de ses preux ;
+Les mères s'arrachaient les cheveux à poignées ;
+Les Te Deum chantaient les batailles gagnées ;
+Tout y retentissait, les carrousels charmants,
+Le quadruple galop des écartèlements,
+La hache, le billot, le pal, le fouet, la chaîne,
+Tout l'infâme appareil de supplices que traîne
+Cette vieille Thémis humaine aux yeux bandés
+Qui jadis prit Jésus, joua sa robe aux dés,
+Le fit crucifier par le crime et le vice,
+Et compte Dieu parmi ses repris de justice ;
+Tout s'y mêlait, les deuils, les complots assassins,
+L'arquebuse du roi Charles neuf, les tocsins,
+Les cloches que l'orfraie effleure de son aile,
+Les cris qu'étouffe l'eau devant la tour de Nesle,
+Marguerite vidant son lit dans le tombeau,[
+]{.bold} Médicis, Brunehaut, Frédégonde, Isabeau ;
+Les piloris râlant à côté des trophées.
+Par moments, comme un vent qui s'éteint par bouffées,
+Ou comme un océan apaisant ses reflux,
+La rumeur se taisait, et l'on n'entendait plus
+Que le pas mesuré du passant formidable.
+L'horreur blême tombait du ciel inabordable
+Où les nuages noirs se font et se défont ;
+Des flots d'ombre roulaient dans l'infini profond.
+L'homme d'airain tourna par la place Dauphine,
+Puis il suivit la berge étroite qui confine,
+Au sud, au vieux logis des chevaliers du guet,
+Au nord, à la grand'chambre à qui Nesmond léguait
+Sa robe et son portrait peint par le Primatice ;
+Il côtoya les tours du palais de Justice
+D'où tombe sur le peuple un aveugle anankè,
+Passa le pont au Change, et, côtoyant le quai,
+Gagna l'hôtel de ville et la place de Grève ;
+Il traversa l'arcade où maintenant s'élève
+Tout un palais nouveau dressant ses lourds chevets,
+Laissa derrière lui le portail Saint-Gervais,
+Prit à gauche, et, perçant un dédale de rues,
+Cavernes du vieil âge aujourd'hui disparues,
+Où les maisons avaient des faces de bandits,
+Lent et grave, il entra, par le porche où jadis
+Une reine voilée attendait Bassompierre,
+Dans une grande place aux arcades de pierre.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Au centre de la place, un feuillage tremblant
+Laissait à demi voir un grand fantôme blanc ;[
+]{.bold} C'était un cavalier de marbre.
+Altier, austère,
+Sur un socle, au milieu d'un perron solitaire,
+Couronné de lauriers comme un César romain,
+Il surgissait tranquille, auguste, surhumain.
+Au socle était sculptée une main de justice.
+Grave, le coude ouvert et le poing sur la cuisse,
+Il tenait à la main un bâton d'empereur.
+Les arbres s'effaraient pleins d'une vague horreur,
+Et leur cime semblait d'un vent d'hiver battue.
+La statue alla droit dans l'ombre à la statue ;
+Et celui qui marchait regarda fixement
+Celui qui songeait triste, immobile et dormant,
+À travers la noirceur des sombres branches d'arbre.
+L'homme de bronze alors dit à l'homme de marbre :
+--- Viens donc voir si ton fils est à sa place encor.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Comme un chasseur s'éveille au son lointain du cor,
+Louis treize sortit de son éternel rêve ;
+Et le blanc porte-sceptre et le noir porte-glaive,
+Le pâle roi César, le fier roi chevalier,
+Descendant du perron le livide escalier,
+Traversèrent la place et passèrent la grille ;
+Et, par-dessus les toits, un spectre, la Bastille,
+Les vit qui s'en allaient vers le Paris vivant ;
+Le cavalier d'airain, calme, marchait devant,
+Tenant son doigt levé pour indiquer la route.
+Ils ne passèrent point sous l'arche de la voûte ;[
+]{.bold} Ils prirent par le Pas de la Mule, et, suivant
+Les boulevards qu'emplit, le jour, un flot mouvant,
+Montèrent vers la Ville endormie à cette heure ;
+Et les quatre lions du Château-d'eau qui pleure,
+Les toits des vieux faubourgs aux innombrables nids,
+La porte Saint-Martin, la porte Saint-Denis,
+Les Porcherons où vibre encore le bruit des verres,
+Tremblants, virent passer ces deux profils sévères.
+Ils marchaient sans parler, sans dire : par ici.
+Et les deux cavaliers arrivèrent ainsi
+Dans un des carrefours immenses de la ville.
+Au centre, se dressait un autre homme immobile.
+Cet homme n'était pas un homme, mais un Dieu.
+Son front, qui semblait fait pour le ciel toujours bleu,
+Se haussait arrogant, comme indigné de l'ombre ;
+On voyait sur sa tête un vague soleil sombre ;
+Il rayonnait, lugubre ; il avait l'air fatal
+Et superbe, que donne aux morts le piédestal,
+Et tout ce qu'un vainqueur répand d'horreur sacrée
+Quand le roi qui détruit contient un Dieu qui crée.
+C'était un roi de bronze ainsi que le premier ;
+Il n'avait ni brassards, ni haubert, ni cimier,
+Et, beau comme Apollon, était nu comme Hercule ;
+On voyait se courber, noirs dans le crépuscule,
+Quatre fleuves, l'Escaut, l'Ister, le Doubs, le Rhin,
+Sous les quatre sabots de son cheval d'airain ;
+Tranquille, il paraissait écouter dans les brises
+Des chocs de bataillons, de cris de villes prises ;
+Et sa crinière était d'un lion ; et, sans voix,
+Sans geste, il commandait ; il semblait tendre aux rois
+Sa fière épée, à Dieu, dans l'azur solitaire,
+Sa main, et son orteil aux baisers de la terre.
+Il semblait de lui-même à jamais ébloui.[
+]{.bold} Et les deux cavaliers marchèrent droit à lui.
+Le vent mystérieux suspendit son murmure ;
+L'aveugle nuit tâcha de voir.
+L'homme à l'armure
+Laissa derrière lui son blême compagnon,
+Et dit très haut :
+― Louis, quatorzième du nom,
+Réveille-toi, Louis ! Et viens avant l'aurore
+Voir si ton petit-fils est à sa place encore. ―
+Le dieu de bronze au front vaguement étoilé
+Ouvrit sa lèvre sombre et dit : ― M'a-t-on parlé ?
+Et son regard cherchant à ses pieds, sembla naître.
+--- Oui. ― Qui donc ? ― Moi. ― Qu'es-tu ? ― Ton père, dit l'ancêtre
+--- Quel est ce petit-fils que ta voix m'a nommé ?
+--- Celui que tes sujets appelaient Bien-Aimé.
+--- Où donc est-il, l'objet de ces idolâtries ?
+--- Dans une grande place au bout des Tuileries.
+Viens.
+Le noir demi-Dieu salua les deux rois,
+Puis descendit du socle auguste, et tous les trois
+Se mirent à marcher dans la nuit côte à côte,
+L'aïeul passant les fils de sa tête plus haute.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Ils gagnèrent le quai, laissèrent derrière eux
+Le balcon où, rêvant sur Paris malheureux,
+La Saint-Barthélemy s'accoude, noir fantôme,
+Et passèrent devant le palais du royaume,[
+]{.bold} Bloc difforme de murs et de toits inégaux
+Qui, comme les palais de Thèbes et d'Argos,
+À ses Agamemnons, ses Laïus, ses Électres,
+La Seine refléta, sinistre, ces trois spectres,
+Le roi soldat, le roi césar et le roi dieu,
+Reconnut Louis treize et chercha Richelieu.
+Le vieux Louvre entrouvrit ses royales croisées.
+Eux, muets, s'avançaient vers les Champs-Élysées.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II. Les Cariatides]{.calibre2}]{.bold1}]{.calibre_39} {#ii.-les-cariatides .calibre_38}
+
+[
+Puissant Germain Pilon, toi qui, rude ouvrier,
+Entendis la douleur dans les gouffres crier,
+Qui sentis l'art divin protester et combattre,
+Toi qui, sous les héros et sous les Henri quatre,
+Dédaignant Saint-Germain, Chambord et l'Oeil-de-boeuf,
+Groupas les mascarons tragiques du Pont-Neuf,
+Colossal pétrisseur des formes ténébreuses,
+Toi qui savais qu'ouvrant ses gueules douloureuses,
+La demi-brute aboie après les demi-dieux,
+Et que tout le dédain de l'abîme odieux,
+Tout le deuil de l'enfer et du bagne grimace
+Sur le visage informe et profond de la masse,
+Ô dur géant, tandis que les autres sculpteurs,
+Épris du bas-relief superbe des hauteurs,
+Ciselaient le fronton de la toute-puissance ;
+Tandis que sur le socle où le prêtre l'encense,
+Comme un olympien hautain et gracieux,
+Écoutant la fanfare idéale des cieux
+Qu'accompagnent les vents, mystérieux orchestre,
+Ils dressaient dans l'azur César, fantôme équestre ;
+Tandis qu'ils prosternaient sous Tibère vieillard
+La flatterie infâme et splendide de l'art,
+Et qu'ils faisaient lécher Néron ou Louis onze
+Par les langues de feu des fournaises du bronze,
+Et que, prostituant le ciseau souverain,[
+]{.bold} Ils faisaient deux laquais du marbre et de l'airain ;
+Pendant que, bâtissant pour la terre enchaînée
+Quelque Héliogabale ou quelque Salmonée,
+Ils montraient le tyran, glaive au flanc, sceptre en main,
+Serein, presque au delà de l'horizon humain,
+Debout dans l'empyrée où l'on voit l'aube poindre,
+Si loin qu'il semble grand, si haut qu'il paraît joindre
+La couronne d'orgueil qui sur la terre luit
+Avec celle que peut donner la sombre nuit,
+Et qu'on voit resplendir au fond des sacrés voiles
+Son front ceint de lauriers vaguement ceint d'étoiles ;
+Pendant qu'ils construisaient sur d'altiers piédestaux
+De vastes empereurs traînant de lourds manteaux,
+Des princes échappant dans le bronze à la fange,
+Et qu'ils transfiguraient le despote en archange,
+Et qu'ils faisaient le maître, et qu'ils faisaient le roi,
+Et qu'ils faisaient le Dieu, tu fis le peuple, toi !
+Tu fis le grand vaincu qui crache de la lave ;
+Tu fis le grand forçat, tu fis le grand esclave ;
+Au niveau de l'horreur et du deuil abîmé,
+Tu tordis dans sa nuit l'effrayant opprimé !
+Sous les Charles sanglants se lavant aux aiguières,
+Sous les Louis suivis des fauves Lesdiguières,
+Sous François à l'oeil fier, sous Diane au pied nu,
+Tu sentis remuer l'Encelade inconnu ;
+Tu levas des vivants l'affreux drap mortuaire,
+Et tu leur dis : ― Venez, je suis le statuaire !
+Venez, vous qui souffrez ! Vous qui pleurez, venez !
+Venez, tous les lépreux, venez, tous les damnés !
+Sous un socle royal je vais sur cette frise
+Vous faire fourmiller dans la pierre âpre et grise.
+Misère, maladie, ô deuils, haillons pendants,
+Colère du grabat, faim qui montres les dents,
+Venez, j'étalerai sous ce roi vos ulcères
+Saignants, affreux, cruels, formidables, sincères ;
+Je vous donnerai vie et corps sur ce vieux pont
+Où la clameur du fleuve à vos douleurs répond ;[
+]{.bold} L'hiver, à l'heure obscure où le vent crie et souffre,
+Vous entendrez passer toutes les voix du gouffre
+Sous ces arches d'écume et de trombe et de nuit ! ―
+Alors l'antique horreur sortit de son réduit ;
+Alors ton oeil plongea dans tous les purgatoires ;
+Alors vinrent à toi toutes les faces noires ;
+Et ton souffle alluma des flammes dans ces yeux,
+Et tout ce tourbillon de fronts mystérieux
+S'abattit à jamais sur ces dalles funèbres
+Comme un essaim hideux de mouches des ténèbres.
+Ô mascarons d'un doigt magistral ébauchés !
+Êtres vertigineux ! Tristes géants couchés !
+En butte à ce qui souille ainsi qu'à ce qui change,
+Éclaboussés par l'onde et tachés par la fange !
+Leurs têtes, où l'oiseau fait sa fiente et son nid,
+Percent lugubrement l'étrave de granit
+Et s'avancent sur l'eau comme de noires proues,
+Et leur corps se prolonge en pavé sous les roues,
+Sous les talons ferrés et sous les pas perdus ;
+Les attelages lourds, sous le fouet éperdus,
+Marchent sur eux traînant des chaînes et des câbles,
+Et, par moments, les pieds, les galops implacables,
+La ruade féroce et l'affreux choc des fers
+À ces durs patients arrachent des éclairs.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Oh ! qui que vous soyez, qui, penchés sur les choses,
+Sondez l'humanité dans ses métempsychoses,
+Approchez, regardez, méditez, et tremblez.
+Les voilà tous pressés, accouplés, rassemblés ;[
+]{.bold} Voilà tous les souffrants et tous les lamentables ;
+Voilà les ramasseurs de miettes sous les tables ;
+Voilà tous les abjects vaguement entrevus ;
+Voilà Scapin, voilà Sancho, voilà Davus ;
+La chimère se mêle au réel qui l'attire ;
+Le valet rit, surpris d'être aussi le satyre ;
+Voilà les portefaix de tout le poids humain.
+Ils regardent passer hier, aujourd'hui, demain,
+Ce qui naît, ce qui meurt, ce qui va, ce qui sombre,
+Ce qui flotte, attentifs on ne sait à quelle ombre.
+Ils font de l'onde vaine un lugubre examen.
+L'eau s'évade et poursuit son tortueux chemin
+Par sa pente au hasard en liberté conduite,
+Sous ces captifs penchés, tantales de la fuite.
+Le reflet des eaux fait, sous l'âpre entablement,
+De profil en profil errer un flamboiement,
+Et la chauve-souris de l'aile les effleure.
+Est-ce que cela raille ? Est-ce que cela pleure ?
+Ô bouches où l'esprit qui passe, d'horreur plein,
+Rêve Pantagruel et retrouve Ugolin !
+Masque de Rabelais sur la face de Dante !
+Progression d'angoisse et d'horreur ascendante !
+Fronts où flambe l'enfer, comme la tombe froids !
+Ô larves ! visions de l'invisible ! Effrois !
+Mascarade aperçue à travers le suaire !
+Morne évocation du mage statuaire
+Qui n'a que Michel-Ange ou Milton pour rival !
+Sinistre mardi gras des spectres ! Carnaval
+De l'infini, flottant dans le souffle insondable !
+Descente de Courtille énorme et formidable
+Pétrifiée au mur du songe et de la nuit !
+Est-ce que l'ouragan qui frissonne et qui fuit
+Ne va pas emporter cette fresque de pierre ?
+Dieu ! qu'est-ce que l'église et le trône ont pu faire
+À ce peuple sans nom, sans lumière, sans voix,
+Sans espoir, qui sanglote et ricane à la fois[
+]{.bold} En regardant, du fond du néant qui le couvre,
+D'un côté Notre-Dame et de l'autre le Louvre ?]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Oh ! ces enfantements et ces créations,
+Ces rencontres de l'âme avec les visions
+Pèsent sur le génie, et, le courbant à terre,
+Le penchent du côté le plus noir du mystère.
+Du jour où tout ce monde étrange t'apparut,
+Des passions d'en bas râlant l'horrible rut,
+T'apportant des douleurs la sublime démence,
+Ô sculpteur, à partir de cet instant immense,
+Ta pensée à jamais fut mêlée à la nuit !
+Homme grand parmi ceux qu'une flamme conduit,
+Oui, maître, ce fut là ta puissance et ta gloire :
+Aux princes effarés de force et de victoire,
+Au pouvoir ignorant les devoirs et les droits,
+Au palais sidéral des reines et des rois,
+À l'immense colosse impérial qui lève
+Sa tête dans l'éclair du vertige et du rêve,
+Au trône sombre ayant pour dais le firmament,
+Au monarque, tu fis le grand soubassement,
+L'homme ; sous le tyran tu mis la multitude !
+Les puissants rayonnaient dans leur haute attitude,
+Confiants, sûrs du vent, sûrs du flot, sûrs du port ;
+Toi, grave et dédaigneux, tu donnas pour support
+À leur calme, à leur joie, à leur crime, à leurs fêtes,
+L'hydre cariatide aux millions de têtes ;
+Au-dessous de leur gloire, au-dessous de ces noms
+Sonnés par la trompette et dits par les canons,
+Au-dessous des splendeurs, des vertus proclamées,
+Et de la nudité des fières renommées,
+Et de tout ce qui crie : Adorez ! je suis beau \![
+]{.bold} Je suis pourpre, je suis glaive, je suis flambeau !
+Tu fis, dans le brouillard livide qui s'écroule,
+Ramper le gigantesque anonyme, la foule.
+Sous les jeux et les ris, sous les molles amours,
+Sous Valois, sous Bourbon, sous Condé, sous Nemours,
+Sous la tendre Chevreuse et la blonde d'Humière,
+Sous toute la beauté dans toute la lumière,
+Sous l'olympe royal, hautain, splendide à voir,
+Tu sculptas le supplice inouï du bloc noir,
+L'angoisse de la masse informe, et le calvaire
+Du manant redoutable et du granit sévère.
+Les puissants rayonnaient, faisant en liberté
+Le partage insolent de la prospérité,
+Désaltérant leur soif toujours inassouvie,
+Prenant tout le bonheur, prenant toute la vie ;
+Vénus regardait Mars avec ses plus doux yeux ;
+Les fiers drapeaux faisaient de grands frissons joyeux ;
+Les rois étaient armés, les femmes étaient nues ;
+Les chasses s'enfuyaient au fond des avenues ;
+Tout était le palais, le banquet, le gala ;
+Toi, tu fis, en regard de tout ce Louvre-là,
+Brusquement, aux lueurs de la torche qui brille,
+Du grand cachot Misère apparaître la grille
+Et les faces qu'on voit à travers ses barreaux !
+Ô prostestation terrible ! les héros,
+Les gagneurs de bataille et les dieux de la terre,
+Des hauts arcs de triomphe habitant l'acrotère,
+Vainqueurs, cuirassés d'or, vêtus de diamant,
+Du genre humain pensif sombre éblouissement,
+Éclatants, radieux, vaillants, criant Montjoie,
+Résumaient le miracle effrayant de la joie,
+De l'azur sans nuage et sans fond, du soleil ;
+Toi, songeur, tu voulus que là, sous leur orteil,
+Tout un monde aux rictus sans fin, aux yeux sans nombre,
+Effroyable, exprimât le prodige de l'ombre !
+Ton art, que jusqu'aux fronts réprouvés tu courbas,
+Sous les monstres d'en haut mit les monstres d'en bas,[
+]{.bold} Le peuple, qui se fait chaque jour moins difforme,
+Et qui deviendra grand sans cesser d'être énorme.
+Oui, l'Averne terrestre avec ses Ixions,
+Le poème hagard des malédictions,
+Gueux, cagoux, malingreux, bohémiens, marranes,
+Le menton bestial du paria, les crânes
+Que sous son bas plafond l'ignorance a faits plats,
+Les fauves suppliants, tout ce qui dit : hélas !
+Sylvains et paysans entrevus sous les lierres,
+Lèvres avec l'injure et le cri familières,
+L'oreille où s'est empreint le pavé, dur chevet,
+La maigreur que la loque en grelottant revêt,
+Le maraud, le manant, le prolétaire blême
+À qui Malthus dit : Meurs ! Quand Jésus lui crie : Aime !
+Les pauvres frémissant de se sentir bandits,
+La lèpre des cloisons malsaines du taudis
+Gagnant l'habitant sombre, et passant, incurable,
+Du mur de la misère au front du misérable,
+Idiots, mendiants râlant sur les chemins,
+Tout le fourmillement des cloportes humains,
+Le berceau condamné, l'innocence punie,
+Les mourants éternels de la grande agonie,
+Un Pélion hideux sous un splendide Ossa,
+Voilà ce que ton bras titanique entassa !
+Et, tandis qu'on sculptait, pour le sceptre et l'épée,
+Le bronze dithyrambe et le marbre épopée,
+Ô poète, tu fis grimacer à jamais
+Sous les guerriers d'airain des lumineux sommets,
+Sous les déesses d'aube et de blancheur vêtues,
+Les masques, populace horrible des statues !
+Et pour égayer oeuvre étrange, dans ce tas
+De maux, de désespoirs, de sanglots, tu jetas
+Toute une parodie infernale et farouche,
+Brusquet, Guillot Gorju, Turlupin, Scaramouche,
+Tous les spectres qui font trembler de leurs discours[
+]{.bold} Le tréteau de la rue ou le tréteau des cours ;
+Tu les fis vivre là ! Mais, à ton insu même,
+Devin qu'illuminait une clarté suprême,
+Ayant de l'avenir déjà l'âpre sueur,
+Railleur démesuré, tu mettais la lueur
+Des révolutions dans le regard des faunes ;
+Tu mêlais aux Pasquins de vagues Tisiphones ;
+C'est presque en menaçant les rois qu'au-dessous d'eux
+Tu sculptais leurs fous noirs et leurs bouffons hideux,
+Et ta fatale main, ô grand tailleur de pierre,
+Dans Trivelin sinistre ébauchait Robespierre.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Ce dur Germain Pilon que l'abîme inspirait,
+Ce prophète, était-il dans son propre secret ?
+Avait-il, âme vaste aux grands hasards poussée,
+La révélation de toute sa pensée ?
+Savait-il, ce songeur, quel symbole il jetait
+Sur ce gémissement qui jamais ne se tait,
+Sur ce fleuve qui glisse ainsi qu'une couleuvre ?
+Son regard plongeait-il jusqu'au fond de son oeuvre ?
+Mystère ! Avoir sculpté les douleurs, les affronts,
+L'effroi, la peine ; avoir à ces tragiques fronts
+Donné pour miroir l'onde, autre image des foules ;
+Sur la vague, où du vent passent les tristes houles,
+Sur tous les plis que fait le grand linceul des flots,
+Sur l'âpre inquiétude et sur les longs sanglots
+Que le fleuve orageux dans sa fuite promène,
+Ô terreur ! Avoir mis toute la ride humaine
+Et tous les froncements du sourcil de la nuit ;
+Avoir, dans l'avenir par Dieu même introduit,
+Montré l'émeute aux rois comme la mer aux grèves ;
+Avoir démuselé les gorgones des rêves ;[
+]{.bold} Avoir multiplié Méduse sur ce mur
+Où l'art vertigineux ouvre son oeil obscur ;
+Évoquer le vieillard, l'homme, l'enfant, la femme ;
+Effarer le granit et le pénétrer d'âme ;
+Faire pleurer la pierre et la désespérer ;
+Ouvrir tout l'horizon du gouffre, et l'ignorer !
+Être, sans s'en douter, le précurseur terrible ;
+Être, sans le savoir, Titan ; est-ce possible ?
+Dieu ! collaborateur ténébreux et serein !
+Qui sait si le génie, effrayant souverain
+À qui les astres font dans l'ombre un diadème,
+À l'intuition totale de lui-même ?
+Oh ! De l'esprit humain ces grands amphictyons,
+Dante, Isaïe, Eschyle, ― étranges questions ! ―
+Cervante et Rabelais, savaient-ils leur empire ?
+Shakespeare, ô profondeurs ! voyait-il tout Shakespeare ?
+Molière par Molière était-il ébloui ?
+Qui pourrait dire non ? Qui pourrait dire oui ?
+Qu'importe ! Après avoir mis ce deuil sur ce râle,
+Le sculpteur est rentré dans sa nuit sidérale,
+Calme et sombre, et léguant aux siècles ce tableau :
+La passion du peuple et le tourment de l'eau !
+Et maintenant passez, et tâchez de comprendre !
+Homère savait-il qu'il faisait Alexandre ?
+Socrate savait-il qu'il engendrait Jésus ?
+Ô gouffres de l'esprit vaguement aperçus !
+Amer Germain Pilon qui dans la nuit nous plonges,
+Qui sait, dans le dédale insensé de tes songes,
+À quelle porte d'ombre et d'horreur tu frappas ?
+Qui sait si ton poème inouï ne vient pas
+De plus loin que la terre et de plus haut que l'homme,
+Des profondeurs que nul ne connaît et ne nomme,
+Du précipice ouvert au delà du cercueil ?
+Qui sait si tu n'as point contemplé l'affreux deuil
+De la nature immense, et si, funèbre artiste,[
+]{.bold} Tu n'avais pas en toi le souffle le plus triste
+Dont puisse frissonner un esprit sous les cieux,
+La désolation du Mal mystérieux,
+Quand, regardant ces flots, tu penchas, noir génie,
+L'éternel grincement sur la plainte infinie ?]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Or, tandis que les eaux fuyaient, mouvants miroirs,
+En voyant les trois rois marcher sur les quais noirs,
+Les masques monstrueux éclatèrent de rire,
+Éclat si ténébreux et plein d'un tel martyre
+Qu'aujourd'hui même, après que tant de flots d'oubli
+Ont coulé sous ce pont chancelant et vieilli
+Depuis la sombre nuit qu'en frissonnant j'éclaire,
+Plusieurs des mascarons du fronton séculaire
+En gardent le reflet dans leur oeil flamboyant,
+Et sont encore fendus de ce rire effrayant.
+Et celui qui riait le plus haut dans le gouffre,
+Larve ayant dans les dents une lueur de soufre,
+Face mystérieuse aux cyniques sourcils
+Soudain épanouie en fauve Némésis,
+Jeta ce cri :
+― Troupeau, tourbe, foule hagarde,
+Manants, réveillez-vous ! Populace, regarde ;
+Ouvrez vos yeux obscurs de larmes chassieux ;
+Voici trois de vos rois qui marchent sous les cieux.
+Leur front a la noirceur que laisse un diadème.
+Ils ont plus d'ombre en eux que n'en a la nuit même,
+Car c'est après la mort le sort de tous ces dieux
+Plus ténébreux, ayant été plus radieux.
+Ils vont. Où donc vont-ils ? Allez ! Allez ! Qu'importe !
+Vous n'avez pas besoin qu'on vous pousse la porte,
+Rois ! La route est pavée et large est le terrain ;
+Allez ! ― L'un est en marbre et deux sont en airain ;
+Ces rois sont faits des coeurs de tous les rois leurs pères. ―
+Vous tous, réveillez-vous au fond de vos repaires,
+Serfs qui depuis mille ans traînez l'immense croix,
+Et regardez passer ces spectres qui sont rois !
+Vous en avez pleuré, voici l'heure d'en rire.
+Qui sont-ils ? Écoutez ce que je vais vous dire.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Le premier, c'est la joie. Il fit tout en riant ;
+Il riait à la guerre, il riait en priant ;
+Le jour qu'il vint au monde, adopté par la gloire,
+Son aïeul fit chanter sa mère et le fit boire ;
+Ce roi de belle humeur a ri jusqu'au tombeau ;
+C'est en riant qu'il fit de Dieu son escabeau ;
+Il marcha sur l'autel pour monter sur le trône ;
+Des meurtriers des siens il recevait l'aumône ;
+Il riait tant, qu'il dut exiler d'Aubigné,
+Car le joyeux ne peut que chasser l'indigné ;
+Suivi de ses féaux, vaillantes valetailles,
+Il s'épanouissait ; il aimait les batailles
+Et les filles, cherchant gaîment tous les hasards.
+Oh ! d'Estrée et de Bueil, d'Entrague et des Essarts !
+Nuits ! Parcs mystérieux, murmures des cascades !
+Ô danses et chansons sous les pâles arcades !
+Nymphes reines ! ô rois satyres et sylvains !
+Ô bon Henri ! beautés, folles aux yeux divins !
+Ces chiennes de l'amour, comme il s'en faisait suivre !
+Comme il les enivrait de l'extase de vivre !
+Comme il leur prodiguait les bijoux florentins,
+Les fêtes, les ballets, les concerts, les festins
+Sur qui, pour laisser voir les cieux, le plafond s'ouvre,
+Les lits de brocart d'or dans les chambres du Louvre,
+Et les vastes palais et les riches habits,
+Et dans la pourpre en feu la braise des rubis,
+Et les perles des mers dans les flots de la soie \![
+]{.bold} Ô temps heureux !
+Autour de ce trône de joie
+Les juges, pour servir la royauté fougueux,
+Allaient expédiant dans l'ombre un tas de gueux ;
+On pendait des marauds et des rustres, rebelles
+À la taxe, à la taille, aux aides, aux gabelles,
+Va-nu-pieds refusant les impôts ; il faut bien
+Que quelqu'un paie en somme et le roi n'y peut rien ;
+Et le soir, à travers le doux bruit des fontaines,
+Quand les rires, mêlés aux musiques lointaines,
+Semblaient accentuer la flûte et le hautbois,
+Quand dans le jardin sombre épaissi comme un bois
+On voyait des amants errer, et sous les branches
+D'ardents profils chercher de vagues gorges blanches ;
+Quand dans les fleurs de lys planait l'amour ailé ;
+Quand Danaé vaincue offrait tout bas sa clé,
+À l'instant où le roi, ravi, charmant, affable,
+Jupiter fou, riait avec toute la fable,
+Gai, ne quittant Léda que pour reprendre Hébé,
+Et rendait le baiser qu'il avait dérobé
+À quelque Gabrielle, à quelque Jacqueline,
+Une brise jetait du haut de la colline
+Une haleine de tombe entre ces deux baisers ;
+Et, non loin de ces jeux et de ces ris, brisés,
+Nus, grelottant au vent sous les poutres muettes,
+S'entrechoquant l'un l'autre et heurtés des chouettes,
+Envoyant des bruits sourds jusqu'au royal balcon,
+Les squelettes tordaient leur chaîne à Montfaucon !
+Ce qui n'empêche pas que ce roi Henri quatre,
+Ce Vert-galant qui sut aimer, boire et combattre,
+Soit le meilleur de ceux qu'on appelle les rois.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Celui qui vient après fut moins joyeux ; ses lois
+Buvaient du sang ; il fut comme un couteau qui tombe ;
+Son trône ténébreux eût une odeur de tombe,
+Et le vautour y songe encore au haut du mont ;
+Faible et lugubre, il eut pour bras Laubardemont,
+Pour cerveau Laffemas, pour âme La Reynie ;
+Un homme rouge fut son sceptre et son génie ;
+Son amitié menait, pour peu qu'on s'y fiât,
+Concini dans l'égout, au billot d'Effiat ;
+Il semblait à ce roi, sombre tête perdue,
+Que toute branche était comme une main tendue
+Demandant un cadavre ; il ne refusait pas ;
+Les arbres devenaient potences sous ses pas ;
+Jamais il ne laissait son prévôt la main vide ;
+Il jetait au supplice, affreuse goule avide
+Qu'il croyait voir toujours dans l'ombre mendier,
+Tantôt Galigaï, tantôt Urbain Grandier ;
+Il cherchait le charnier comme Henri la mêlée ;
+Il ne haïssait point l'odeur de chair brûlée ;
+Des chambres de torture il écoutait les bruits ;
+Ce vendangeur avait pour pommes et pour fruits
+Les paniers du bourreau pleins de têtes coupées ;
+Dans sa tenaille ardente il tordait les épées ;
+Son prêtre lui faisait faire ce qu'il voulait ;
+D'une soutane horrible il était le valet ;
+Le sang l'éclaboussait des talons au panache ;
+Il séparait les duels avec un coup de hache ;
+Dépeuplant le sillon, décimant le manoir,
+Il a sous les chouquets étendu le drap noir
+À Paris, à Toulouse, à Nantes, à la Rochelle ;
+Et de tous les gibets il a tenu l'échelle ;
+Et sa main en avait gardé le tremblement.[
+]{.bold}
+Ce temps fut morne, obscur, douloureux, inclément,
+Implacable, et la Grève en fut la seule fête.
+Tant que dura ce roi, le peuple eut sur la tête,
+Au lieu d'azur, au lieu d'astres, au lieu de ciel,
+On ne sait quoi de bas, d'infâme et de cruel ;
+On entendait la mort marcher sur cette voûte ;
+Ce règne eut pour plafond l'échafaud qui s'égoutte ;
+Donc ce roi, c'est le Juste.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Et celui qui le suit,
+C'est le Grand. Ce héros, ce roi dont le front luit,
+Fut magnifique ; il fut le maître incomparable ;
+Fier, il avait sous lui la foule misérable,
+Les disettes, les deuils, les détresses, les pleurs,
+Un chaos de grabats, de fièvres, de douleurs ;
+Il fit, magicien, sortir de ces broussailles
+Cette fleur gigantesque et splendide, Versailles.
+Il fut le roi choisi, de puissance inondé ;
+Il eut Colbert, il eut Molière, il eut Condé ;
+Il fut lumière ainsi que Bel à Babylone ;
+Son trône fut si haut qu'il devint le seul trône,
+Et tous les rois étaient de l'ombre devant lui ;
+La terre avait pour but d'occuper son ennui ;
+Et la toute-puissance et l'empire et la gloire
+Et l'amour et l'orgueil faisaient dans la nuit noire
+Au-dessus de sa tête un abîme étoilé ;
+Gloire à lui ! Sous ses pieds, tandis que, Dieu voilé
+Par toutes les splendeurs sur son front réunies,
+Homme soleil ayant pour rayons des génies,
+Vêtu d'or, triomphant, heureux, vertigineux,
+Ne faisant point un pas qui ne fût lumineux,
+Flamme, astre, il empourprait son olympe superbe,
+Le peuple, n'ayant pas de pain, mangeait de l'herbe,[
+]{.bold} La nudité hurlait et se tordait les mains,
+Les affamés gisants râlaient sur les chemins,
+La France esclave avait un haillon pour livrée ;
+Un hiver, on en vint à ceci que, navrée,
+N'ayant plus une ronce à manger, ne sachant
+Que faire, ayant brouté tous les chardons du champ,
+La misère attaqua les mornes catacombes ;
+Le soir on enjambait le mur triste des tombes ;
+Des cimetières noirs l'homme chassait les loups ;
+De la bière pourrie on écartait les clous,
+Et le peuple fouillait de ses ongles les fosses ;
+Les femmes blasphémaient et pleuraient d'être grosses,
+Et les petits enfants rongeaient les os des morts ;
+Les mères des cercueils tâchaient d'ouvrir les bords,
+Cherchant ce qu'on pourrait manger dans ces décombres,
+Creusant, mordant ; si bien que les trépassés sombres,
+Se dressant à travers les tombeaux écroulés,
+Disaient à ces vivants : qu'est-ce que vous voulez ?
+Mais qu'importe ! il fut grand ; il mit le monde en flamme ;
+Il fut le nom vainqueur que la foudre proclame ;
+Et les drapeaux au vent, les tambours, les canons,
+Les batailles nouant leurs orageux chaînons,
+Les plaines par la mort des villes élargies,
+Le réseau flamboyant des vastes stratégies,
+Turenne, Luxembourg, Schomberg, Lorge, Brissac,
+Et Namur massacrée et Courtray mise à sac,
+L'incendie à Bruxelles et le pillage à Furnes,
+Les fleuves rougissant de sang leurs sombres urnes,
+Gand, Maëstricht, Besançon, Heidelberg, Montmédy,
+La boucherie au nord, la tuerie au midi,
+L'Europe ravagée, écrasée, étouffée,
+Lui firent dans son Louvre un colossal trophée
+De ruine, de nuit, de cendre et de tombeaux.
+Mais c'est peu, les cités ainsi que des flambeaux
+Brûlant et répandant leur lueur sur la terre ;
+C'est peu l'éclat guerrier, la gloire militaire,[
+]{.bold} Cette goutte de sang qui s'élargit toujours ;
+C'est peu le choc des camps, l'écroulement des tours ;
+La guerre, cheval fauve, au-dessus des frontières,
+Jetant aux fronts des rois ses ruades altières,
+C'est peu ; c'est peu l'épique et vaste assassinat
+De l'Artois, de la Flandre et du Palatinat ;
+Remplacer les moissons par des flots de fumées,
+Coucher sur les sillons des cadavres d'armées,
+Briser les escadrons contre les escadrons,
+Ce n'est rien ; ce n'est rien la clameur des clairons,
+L'obus crevant les murs, les places bombardées,
+Gengis Khan et Timour passés de cent coudées ;
+Il fit plus, il se fit le grand bourreau de Dieu ;
+Pieux, il ramena, par le fer et le feu,
+Son peuple à la candeur de la foi catholique,
+Et Rome admire encore, dans sa joie angélique,
+Ce qu'il a fait blanchir, en ces temps immortels,
+D'âmes, de coeurs, d'esprits, au pied des vrais autels,
+Et de crânes au pied de la potence horrible.
+Oh ! Comme l'évangile extermine la Bible !
+Comme c'est beau, le roi plein d'un Dieu furieux !
+Splendides flamboiements du saint glaive des cieux !
+De quoi les rois chrétiens ne sont-ils pas capables
+Lorsqu'il faut venger Dieu de ces maudits, coupables
+Du crime de vouloir prier à leur façon !
+Ô spectacle admirable ! exil, bagne, prison,
+Des pasteurs, des docteurs, des hommes consulaires
+Courbés sous le bâton dans le banc des galères,
+Cinq cent mille bannis, cent mille massacrés,
+Dix mille brûlés vifs, rompus vifs, torturés,
+Patients en chemise au seuil des basiliques,
+Tourbillon des bûchers sur les places publiques,
+Âcre fumée ayant des râles dans ses plis,
+Surprises, guets-apens, gens tués dans leurs lits,
+Juges fatals passant ainsi que des tonnerres,
+Pinces tordant des seins de femme, octogénaires
+Dont la barre de fer fait crier les vieux os,[
+]{.bold} Tous les dogues du meurtre ouvrant leurs noirs naseaux,
+Rivières rejetant les noyés sur leurs plages,
+Cavalerie affreuse écrasant les villages,
+Feu, ravage, viol, le carnage, le sang,
+La fange, et Bossuet, sinistre, applaudissant !
+Ô roi pieux béni de l'église qu'il sauve !
+Tout un peuple traqué comme une bête fauve !
+Oui, ce fut comme un vol de sanglants éperviers ;
+Montrevel sur Tournon, Lamoignon sur Viviers ;
+Oui, ce fut monstrueux, oui, ce fut lamentable ;
+On tuait dans la rue, on tuait dans l'étable ;
+On jetait dans le puits l'enfant criant Jésus,
+La mère, et l'on mettait une pierre dessus ;
+On sabrait du pasteur la vieille tête chauve ;
+Les crosses des mousquets écrasaient dans l'alcôve
+La nourrice au berceau, l'aïeule à son rouet ;
+Siècle affreux ! Les dragons chassaient à coups de fouet
+Devant eux des troupeaux de femmes toutes nues ;
+La débauche inventait des rages inconnues ;
+L'orgie imaginait des supplices ; le vin
+Inspirait Sabaoth dans son courroux divin ;
+Cent monstres bondissaient de contrée en contrée ;
+La cartouche éclatait dans la vierge éventrée ;
+L'orthodoxie était comme un tigre qui rit,
+Tartuffe encourageait de Sade au nom du Christ !
+Fanatisme hideux, implacables doctrines,
+Faisant de tout un peuple un monceau de ruines,
+Affreux, le sabre aux dents, le crucifix au poing !
+Tu ne crois pas en Dieu, Louvois ! tu n'y crois point,
+Letellier ! Ah ! vieillards, mères, enfants, victimes !
+Ce sont les ennemis de Dieu qui font ces crimes ;
+Le servir de la sorte, avec du sang aux mains,
+C'est vouloir l'étouffer dans le coeur des humains ;
+Ces religions-là, ce sont les pelletées
+De terre que sur Dieu jettent les noirs athées !
+Et c'est pourquoi ce roi rayonne ; il est flagrant[
+]{.bold} Que l'autre étant le juste, il faut qu'il soit le grand.
+Ô grandeur, de charnier et de meurtre mêlée,
+Qui de têtes de mort apparaît étoilée !
+Lion superbe ayant le chat pour compagnon !
+Conquérant coudoyé par les supplices ! Nom
+Où la veuve Scarron jette son ombre vile !
+Sceptre qui s'est laissé manier par Bâville !
+Glaive altier dont la fouine a léché le fourreau !
+Lauriers où sont marqués les dix doigts du bourreau !
+Roi qui tresse la claie et comble la voirie !
+Ô couronne des lys qui, la nuit, se marie
+Au bonnet de béguine où l'église souda
+La calotte de fer du vieux Torquemada !
+Ô peuple que son roi broie et détruit ! Désastre
+D'un monde sur qui tombe et s'écrase son astre !
+Tout le soir de ce règne appartient aux hiboux ;
+Dans ce noir crépuscule ils sortent de leurs trous ;
+Les billots, les poteaux mêlent leurs vagues formes,
+Et l'on voit se dresser, monstrueuses, énormes,
+Une roue au couchant, une roue au levant,
+Où pendent, disloqués, dans les souffles du vent,
+Deux cadavres, sur qui tout le genre humain prie,
+L'un est la conscience et l'autre est la patrie.
+Ô grand Louis, héros, vainqueur, sacré, flatté,
+Adoré, l'avenir, qui dit la vérité
+Plus haut que les Fléchiers et que les Bourdaloues,
+T'offre un char triomphal, mais avec ces deux roues. ―]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Il se fit un silence, et le masque un moment
+Se tut, puis se remit à rire affreusement.
+--- Allez ! Le fleuve gronde et le vent se courrouce.
+Allez ! Allez, les rois ! Où vont-ils ? qui les pousse,
+N'ayant plus d'intérêt dans ce monde vivant ?
+Et qu'est-ce donc qu'ils ont à marcher en avant ?
+Allez ! Allez ! Où donc les mènes-tu, nuit blême ?
+Nuit ! Ces trois rois en vont chercher un quatrième.
+Ce quatrième-là, comment le raconter ?]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Venu pour tout corrompre et pour tout éhonter,
+Il ne fut pas le roi du sang, mais de l'écume.
+L'autre était le soleil, il vint, et fut la brume ;
+Il fut l'impur miasme, il fut l'extinction
+De la dernière haleine et du dernier rayon ;
+Il répandit sur l'âme humaine exténuée
+Tout ce que le bourbier peut jeter de nuée.
+Il s'appela Rosbach, il s'appela Terray ;
+Adieu le pur, le grand, le saint, le beau, le vrai !
+Corruption, débauche, impudeur, arbitraire,
+Un sinistre appétit de faire le contraire
+De ce que veut l'honneur, un satyre à l'affût,
+Boue et néant, voilà ce que cet homme fut.
+D'autres rois ont été flairés par les orfraies ;
+Ils ont été les pleurs, les tortures, les plaies,
+Les terreurs, les fléaux ; celui-ci fut l'affront,
+On vit sous lui le front de la France, ce front
+Où la lueur de Dieu s'épanouit et monte,
+Apprendre la courbure horrible de la honte ;
+Ô deuil ! le drapeau franc et la peur mariés,
+Deux vils sauve-qui-peut en même temps criés
+Ici par la faillite, et là, par la déroute ;
+La vieille honnêteté publique croulant toute ;[
+]{.bold} L'honneur mort ; dans un siècle un seul jour : Fontenoy ;
+Ce règne est une cave, et sous ce lâche roi
+Tout s'éclipse, grandeur, victoire, exploits célèbres ;
+Et, de mille fils noirs traversant les ténèbres,
+Tout au fond, arrêtant dans leur vol vers l'azur
+La grâce, la beauté, la jeunesse au front pur,
+Son lit sombre rayonne en toile d'araignée.
+Et cependant la terre est d'aurore baignée,
+Un jour se lève, on sent un souffle frissonner ;
+La France est une forge où l'on entend sonner
+Le marteau du progrès et l'enclume du monde ;
+Tout monte à l'idéal, lui, plonge dans l'immonde ;
+La France marche au jour, lui dans l'ombre s'enfuit ;
+Auprès de la lumière il élève la nuit ;
+En regard de Paris, ce roi bâtit Sodome.
+Or on allait cherchant un surnom à cet homme.
+Voyez : instincts rampants, amours empoisonneurs,
+Toutes les lâchetés et tous les déshonneurs,
+Ignorance du bien et du mal, turpitude,
+Bon visage aux méchants, orgie, ingratitude,
+Soupir de délivrance à la mort de son fils ;
+Organisant la faim, faisant d'affreux profits
+Sur les peuples hagards que la misère mine,
+S'engraissant de leur diète et mangeant leur famine,
+Roi vampire ; riant des sanglots, sourd aux cris ;
+Rampant, faisant régner l'Angleterre à Paris ;
+Laissant rouer Calas, laissant brûler Labarre ;
+Dur par indifférence et mollesse, barbare
+Pour ne pas se donner la peine d'être bon ;
+Fumier fleurdelysé, Vitellius Bourbon ;
+Ayant sous ses plaisirs des prisons sépulcrales,
+Des pleurs dans la Bastille exécrée, et des râles
+Dans les cages de fer du vieux mont Saint-Michel ;
+Petit-fils de cent rois, mais pas le plus cruel,
+Pas le plus oppresseur du peuple et de l'empire,[
+]{.bold} Pas le plus furieux ni le plus fou ; ― Le pire ;
+Le plus vil ; exilant quiconque ose penser ;
+Débile, et par accès tâchant de redresser
+Quelque horrible pilier de l'antique édifice ;
+Au fond du parc-aux-cerfs rêvant le Saint-Office ;
+Ayant le mal pour but, la fange pour chemin ;
+Ténébreux, soupçonné de bains de sang humain ;
+Foulant aux pieds le droit et la vertu, chimères ;
+Infâme ; soulevant des émeutes de mères ;
+Froid regard, pied sali, front hautain, coeur fermé ;
+Comment nommer ce roi, sinon le Bien-Aimé ?
+On le méprise tant, ce malheureux, qu'on pleure.
+Monstre ! Il suffit qu'un fou d'une épingle l'effleure
+Pour que ce Prusias devienne un Busiris,
+Pour qu'on voie, au milieu de l'horreur et des cris,
+Cent tourments, plus d'enfer que n'en a rêvé Dante,
+Le feu, l'arrachement des membres, l'huile ardente,
+Le plomb fondu qui fait d'un coupable un martyr,
+Toute une éruption de supplices sortir
+De son égratignure élargie en cratère.
+Ô misérable ! il est le dégoût de la terre ;
+Il est l'éclat de rire insolent de vingt rois ;
+Et l'histoire lui tend l'opprobre et lui dit : bois !
+Est-ce donc une loi, nuit, cieux incorruptibles,
+Dieu bon, que les abjects succèdent aux terribles,
+Qu'on n'échappe au torrent que pour choir au ruisseau,
+Et que le sanglier soit suivi du pourceau !
+La mort enfin souffla sur cette tête infâme ;
+Il rendit à la nuit ce qu'on nommait son âme ;
+Et comme on le portait, au glas sourd des beffrois,
+À Saint-Denis où dort le noir monceau des rois,
+Le lâche près du fort, l'impur près du féroce,
+On vit, tandis qu'autour du funèbre carrosse
+Les prêtres répandaient leur encens, vain brouillard,[
+]{.bold} Ruisseler de dessous le royal corbillard
+On ne sait quelle pluie éclaboussant la roue
+Qui suintait du char sombre et qui tachait la boue ;
+C'était ce roi, ce maître et cet homme d'orgueil
+Qui tombait goutte à goutte à travers son cercueil.
+Despotes, vous vivez, vous dévorez le monde,
+Vous avez Pompadour, Diane ou Rosemonde,
+Vous riez, vous régnez ; les fronts se courbent tous ;
+La honte des pays frémit derrière vous ;
+Vous faites une tache immonde sur l'histoire ;
+Vous mourez : ô la chère et l'illustre mémoire !
+Et l'oraison funèbre appelée au palais,
+Pleurante, met sa mitre et ses bas violets,
+Et, vous mêlant à Dieu, célèbre vos obsèques,
+Vos gloires ne font pas reculer les évêques,
+Mais vos cadavres font reculer l'embaumeur. ―
+Les masques bruissaient comme une onde en rumeur ;
+On eût cru, dans un fond insondable et sublime,
+Entendre chuchoter les vagues d'un abîme ;
+Et l'un d'eux qui suivait les rois d'un oeil ardent
+S'écria :
+― Nord et sud ! orient ! occident !
+Où le soleil se lève, où le soleil se couche,
+Partout ! Ils sont partout !... Oh ! Le grand vent farouche,
+Le vent d'en haut, quand donc se déchaînera-t-il ?
+Le vent de deuil, le vent d'horreur, le vent d'exil
+Qui roulera les rois dans ses larges bouffées,
+Fera rugir d'effroi le lion des trophées,
+Trembler le piédestal sous son orageux flot,
+Et prendre à la statue équestre le galop ?
+Ô colosses de bronze et de pierre, monarques
+Dont le globe meurtri porte partout les marques,
+Tyrans, soyez maudits ! Puisse, à travers les cieux,
+La nuit vous emporter d'un souffle furieux,
+Et, le fouet de l'éclair aux mains, pâle et vivante,
+Vous poursuivre, mêlant dans l'immense épouvante
+Et le cheval de marbre et le cheval d'airain,
+Et, rois ! Faire à jamais, dans la terreur sans frein,
+Au fond du gouffre, plein d'éternelles huées,
+Sous votre fuite sombre écrouler les nuées ! ―
+Et ce masque pleurait et jetait des cris sourds.
+Derrière les trois rois qui s'avançaient toujours,
+Implacable, il semblait la pâle conscience.
+Le rieur effrayant lui cria : Patience !
+Et les trois rois marchaient sur le quai ténébreux,
+Sans entendre ces cris de l'ombre derrière eux.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III. L'Arrivée]{.calibre2}]{.bold1}]{.calibre_39} {#iii.-larrivée .calibre_38}
+
+[
+Oh ! les mornes chevaux, comme ils allaient, farouches !
+Nul souffle ne sortait de leurs fatales bouches,
+Nul regard n'étoilait la noirceur de leurs yeux.
+À mesure que, froids, sourds et silencieux,
+Ils entraient plus avant dans la grande nuit triste,
+L'infini, qui, muet, aux prodiges assiste,
+Épaississait la brume au fond de l'horizon ;
+Et les arbres, troublés d'un sépulcral frisson,
+Tordaient leurs bras souffrants et leurs branches meurtries,
+Tandis que cheminaient le long des tuileries,
+Toujours du même pas vertigineux et lent,
+Les deux cavaliers noirs et le cavalier blanc.
+Devant eux, comme un cap où les flots se déchirent,
+L'angle de la terrasse apparut ; ils franchirent
+Ce pas sombre, et le bruit cessa sur les pavés,
+Et l'ombre fit silence ; ils étaient arrivés.
+L'eau du fleuve fuyait, d'obscurité couverte.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Ô terreur ! au milieu de la place déserte,
+Au lieu de la statue, au point même où leurs yeux[
+]{.bold} Cherchaient le Bien-Aimé triomphal et joyeux,
+Apparaissaient, hideux et debout dans le vide,
+Deux poteaux noirs portant un triangle livide ;
+Le triangle pendait, nu, dans la profondeur ;
+Plus bas on distinguait une vague rondeur,
+Espèce de lucarne ouverte sur de l'ombre ;
+Deux nuages traçaient au fond des cieux ce nombre :
+--- Quatre-vingt-treize-chiffre on ne sait d'où venu.
+C'était on ne sait quel échafaud inconnu.
+Lugubre, il se dressait ; derrière sa charpente
+De quelque étrange abîme on devinait la pente ;
+Les arbres regardaient l'horrible vision ;
+L'ouragan retenait sa respiration
+Devant la silhouette informe et ténébreuse ;
+Et tout semblait hagard ; tant la machine affreuse,
+Rouge comme un carnage et noire comme un deuil,
+Debout entre l'énigme et l'homme, sur un seuil
+Qui peut-être est le ciel, peut-être la géhenne,
+Contenait de néant, d'épouvante et de haine !
+Sous le blême triangle une échelle tremblait.
+L'échafaud, immobile et monstrueux, semblait
+Communiquer avec la tombe universelle.
+Une pourpre, semblable à celle qui ruisselle
+Et qui fume le long du mur des abattoirs,
+Filtrait de telle sorte entre les pavés noirs
+Qu'elle écrivait ce mot mystérieux : Justice.
+On devinait que l'âpre et farouche bâtisse,
+Calme, définitive, inexprimable à voir,
+Avait été construite avec du désespoir,
+Et sortait des douleurs, des pleurs et des décombres ;
+Et que les deux poteaux, dans les carrefours sombres
+Où l'homme marche triste, aveuglément conduit,
+Avaient jadis marqué les routes de la nuit ;
+On pouvait, dans la brume où l'infini commence,[
+]{.bold} Lire sur l'un : Pouvoir, et sur l'autre : Démence ;
+Le cercle, qui s'ouvrait sous le lourd coutelas,
+Rappelait le carcan et le couronne, hélas !
+On sentait, à travers la vague horreur des rêves,
+Que ce triangle était forgé de tous les glaives,
+Du fer d'Achab ainsi que du fer d'Attila ;
+Toute l'immensité de la mort était là,
+Montant dans la nuée et jusqu'aux cieux terribles.
+À peine palpitaient les choses invisibles ;
+Pas un cri, pas un bruit, pas un souffle. Parfois,
+Et ceci redoublait la terreur des trois rois,
+Entre les deux sanglants et tragiques pilastres,
+La brume s'écartait et l'on voyait les astres.
+Car, ô nuit ! on sentait que Dieu, le grand voilé,
+À cette chose étrange et triste était mêlé ;
+L'éternité pesait dans ce lieu tout entière ;
+Cette place fatale en semblait la frontière.]{.calibre4}
+
+[]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Les rois lisaient le mot écrit sur le pavé.
+L'oeil qui dans ce moment suprême eût observé
+Ces figures, de glace et de calme vêtues,
+Eût vu distinctement pâlir les trois statues.
+Ils se taisaient ; et tout se taisait autour d'eux ;
+Si la mort eût tourné son sablier hideux,
+On en eût entendu glisser le grain de sable.
+Une tête passa dans l'ombre formidable.
+Cette tête était blême ; il en tombait du sang.[
+]{.bold}
+Et les trois cavaliers frémirent ; et, froissant
+Vaguement le pommeau de sa lugubre épée,
+L'aïeul de bronze dit à la tête coupée
+(Dialogue funèbre et du gouffre écouté) :
+--- Ah ! l'expiation, dans ce lieu redouté,
+Règne sans doute avec quelque ange pour ministre ?
+Quel est ton crime ? Ô toi qui vas, tête sinistre,
+Plus pâle que le Christ sur son noir crucifix ?
+--- Je suis le petit-fils de votre petit-fils.
+--- Et d'où viens-tu ?
+― Du trône. Ô rois, l'ombre est terrible !
+--- Spectre, quelle est là-bas cette machine horrible ?
+--- C'est la fin, dit la tête au regard sombre et doux.
+--- Et qui donc l'a construite ?
+― Ô mes pères, c'est vous.
+[25 décembre 1857. Christmas.]{.italic}]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[« Soit. Mais quoique ce soit... »]{.calibre2}]{.bold1}]{.calibre_39} {#soit.-mais-quoique-ce-soit .calibre_38}
+
+[[[[[^\[249\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_3513.html#filepos24658740){#filepos21648367}]{.calibre_7}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Soit. Mais quoi que ce soit qui ressemble à la haine
+N'est pas le dénouement, et l'aurore est certaine ;
+C'est au bonheur que doit, quoi qu'on fasse, aboutir
+L'effort humain, ce sombre et souriant martyr ;
+La vie aux yeux sereins sort toujours de la tombe ;
+Tout déluge a pour fin le vol d'une colombe ;
+Jamais l'espoir sacré n'a dit : je me trompais.
+Oh ! ne vous lassez point, penseurs ; versez la paix,
+Versez la foi, versez l'idée et la prière,
+Et sur ces flots de nuit des torrents de lumière !
+Gloire à Dieu ! nul progrès ne se fait à demi.
+Le malheur du méchant, le deuil de l'ennemi,
+Non, ce n'est pas le but, sous ce ciel qui déborde
+De bonté, de pardon, d'extase et de concorde.
+Vivants, toutes les fois que ce globe de fer
+Ébauche un peu d'éden, ruine un peu d'enfer,
+Et qu'un écueil s'écroule, et qu'un phare flamboie,
+Et que les nations font des pas vers la joie
+En luttant, en cherchant, en priant, en aimant,
+Le ciel rayonne et semble un grand consentement.
+Les mains se chercheront de loin ; tous les contraires,
+Désarmés, attendris, calmés, deviendront frères ;
+Nous verrons se confondre en douces unions
+Ce que nous acceptons et ce que nous nions ;
+Les parfums sortiront à travers les écorces ;
+L'idée éclairera l'aveuglement des forces ;
+L'antique antagonisme entre l'âme et le corps
+Sera comme une lyre aux célestes accords ;
+Le souffle baisera l'argile, et la matière
+Plongera dans l'esprit sa farouche frontière ;[
+]{.bold} La charrue aidera l'hymne, et les travailleurs
+Auront aux mains la gerbe et sur le front des fleurs ;
+Car pour le verbe saint nulle voix n'est muette !
+La pioche du mineur, la strophe du poète,
+Creusent la même énigme et cherchent le même or.
+Qu'importent les chemins où l'homme marche encore
+Tantôt mouillé de pluie et tantôt blanc de poudre !
+C'est en fraternité que tout doit se dissoudre ;
+Et Dieu fera servir le calcul, la raison,
+L'étude et la science, à cette guérison.
+Peuples, Demain n'est pas un monstre qui nous guette ;
+Ni la flèche qu'Hier en s'enfuyant nous jette.
+Ô peuples ! l'avenir est déjà parmi nous.
+Il veut le droit de tous comme le pain pour tous ;
+Calme, invincible, au champ de bataille suprême,
+Il lutte ; à voir comment il frappe, on sent qu'il aime ;
+Regardez-le passer, ce grand soldat masqué !
+Il se dévoilera, peuples, au jour marqué ;
+En attendant il fait son oeuvre ; la pensée
+Sort, lumière, à travers sa visière baissée ;
+Il lutte pour la femme, il lutte pour l'enfant,
+Pour le peuple qu'il sert, pour l'âme qu'il défend,
+Pour l'idéal splendide et libre ; et la mêlée,
+Sombre, de ses deux yeux de flamme est étoilée.
+Son bouclier, où luit ce grand mot : Essayons !
+Est fait d'une poignée énorme de rayons.
+Il ébauche l'Europe, il achève la France ;
+Il chasse devant lui, terrible, l'ignorance,
+Les superstitions où les coeurs sont plongés,
+Et tout le tourbillon des pâles préjugés.
+Oh ! Ne le craignez pas, peuples ! Son nom immense,
+C'est aujourd'hui Combat et c'est demain Clémence.
+À qui te cherche, ô Vrai, jamais tu n'échappas.[
+]{.bold}
+Une étape après l'autre. Après un pas, un pas.
+Dans sa course qui met en feu son auréole,
+Le Progrès n'a pas peur d'entrer, lui qui s'envole,
+Chez ce monstre divin, la Révolution.
+Il lui prend un éclair et lui donne un rayon ;
+Car il le peut, ses yeux étant faits de lumière ;
+Puis il sort de la haute et grondante tanière ;
+Et son attention est toute désormais
+Sur ce grand but, plus pur que les plus blancs sommets,
+Plus lointain que la nue à l'horizon perdue :
+La Paix, clarté visible à travers l'étendue,
+L'Harmonie, attirant vers elle l'élément,
+L'Amour, prodigieux et chaud rayonnement.
+L'aigle de la montagne est rentré dans son aire ;
+Il a fait en passant sa visite au tonnerre ;
+Maintenant, l'oeil fixé sur l'abîme vermeil,
+Calme, il rêve au moyen d'atteindre le soleil.
+[20 avril 1870.]{.italic}]{.calibre4}
+
+
+[[]{.italic}]{.calibre_3}
+
+[[
+]{.bold}]{.calibre_12}
+
+[[FIN DES QUATRE VENTS DE L'ESPRIT]{.bold}]{.calibre_12}
+
+[[![separateur](../../../images/victor-hugo/les-derniers-bardes/00436.jpg){.calibre3}]{.bold}]{.calibre_12}

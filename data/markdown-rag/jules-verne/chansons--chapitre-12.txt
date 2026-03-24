@@ -1,0 +1,49 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "CHANSONS"
+slug_oeuvre: "chansons"
+section: "Chapitre 12"
+slug_section: "chapitre-12"
+type: "chapitre"
+---
+
+]
+
+CHANSONS
+
+Table des chansons
+
+]
+
+## La tankadère
+Ma barque, de mille fleurs
+Est parée,
+Et l'eau se teint des plus vives couleurs.
+J'attends celui dont je suis adorée.
+Il reviendra demain.
+Dieu bleu, que son chemin,
+Pour le retour s'abrège !
+Et que ta puissante main
+Le protège !
+Le protège !
+Il est allé loin de nous
+J'imagine.
+Il a passé le pays des Mandchous,
+Il a franchi la Muraille de Chine
+Ah ! que mon cœur souvent
+A frémi quand le vent
+Par les cieux faisait rage.
+Et je pleurais le suivant
+Dans l'orage
+Dans l'orage.
+Qu'ai-je besoin de savoir
+Ta fortune,
+O cher amant, je ne veux que te voir,
+Te voir ici pour la nouvelle lune.
+Laissons aux Mandarins
+Leurs colliers à gros grains,
+Leur dragon pour emblème.
+L'amour vaut tous les écrins.
+Et je t'aime,
+Et je t'aime!

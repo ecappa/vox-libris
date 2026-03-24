@@ -1,0 +1,179 @@
+]{.calibre20}
+
+
+LA CHASSE AU MÉTÉORE
+
+
+]{.calibre20}
+
+## [[Chapitre 3 -- Où il est question du docteur Sydney Hudelson, de sa femme, Mrs Flora Hudelson, de miss Jenny et de miss Loo, leurs deux filles.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942805 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_112 .calibre21}
+
+Pourvu que cet intrigant de Forsyth ne l\'ait pas aperçu, lui aussi ! »
+
+Ainsi, dans cette matinée du 21 mars, s\'exprimait le docteur Sydney Hudelson, parlant à lui-même dans la solitude de son cabinet de travail. Car il était docteur, et, s\'il n\'exerçait pas la médecine à Whaston, c\'est qu\'il préférait consacrer son temps et son intelligence à de plus vastes et plus sublimes spéculations. Ami intime de Dean Forsyth, il en était en même temps le rival. Entraîné par une identique passion, il n\'avait, comme lui, de regards que pour l\'immensité des cieux et, comme son ami, il n\'appliquait son esprit qu\'à déchiffrer les énigmes astronomiques de l\'Univers.
+
+Le docteur Hudelson possédait une jolie fortune, tant de son chef que du chef de Mrs Hudelson, née Flora Clarish. Sagement administrée, cette fortune assurait son avenir et celui de ses deux filles, Jenny et Loo Hudelson, âgées respectivement de dix-huit et quatorze ans. Quant au docteur lui-même, il eût été littéraire de dire, pour faire connaître son âge, que le quarante-septième hiver venait de neiger sur sa tête. Cette délicieuse image serait malheureusement hors propos, le docteur Hudelson étant chauve à braver le rasoir du plus habile Figaro.
+
+La rivalité astronomique existant à l\'état latent entre Sydney Hudelson et Dean Forsyth n\'était pas sans troubler quelque peu les relations des deux familles, très unies au demeurant. Assurément, ils ne se disputeraient pas telle planète, ou telle étoile, les astres du ciel, dont les premiers inventeurs sont en général anonymes, appartenant à tout le monde, mais il n\'était pas rare que leurs observations météorologiques ou astronomiques servissent de thème à des discussions qui dégénéraient parfois assez vite en querelles. Ce qui eût pu aggraver ces querelles, et même provoquer, le cas échéant, de regrettables scènes, c\'eût été l\'existence d\'une dame Forsyth.
+
+Par bonheur, ladite dame n\'existait pas, celui qui l\'aurait épousée étant resté célibataire, et n\'ayant jamais eu, même en rêve, la pensée de se marier. Donc, pas d\'épouse Dean Forsyth pour envenimer les choses sous prétexte de conciliation, et, par conséquent, toute chance pour qu\'une brouille entre les deux astronomes amateurs pût s\'apaiser à bref délai.
+
+Sans doute, il y avait bien une Mrs Flora Hudelson. Mais Mrs Flora Hudelson était une excellente femme, excellente mère, excellente ménagère, de nature très pacifique, incapable d\'un propos malséant sur personne, ne déjeunant pas d\'une médisance, pour dîner d\'une calomnie, à l\'exemple de tant de dames des plus considérées dans les diverses sociétés de l\'Ancien et du Nouveau Monde.
+
+Phénomène incroyable, ce modèle des conjointes s\'appliquait à calmer son mari, lorsqu\'il rentrait, la tête en feu, à la suite de quelque discussion avec son intime ami Forsyth. Autre fait singulier, Mrs Hudelson trouvait tout naturel que Mr Hudelson s\'occupât d\'astronomie et qu\'il vécût dans les profondeurs du firmament, à la condition qu\'il en descendît lorsqu\'elle le priait d\'en descendre. Loin d\'imiter Mitz qui harcelait son maître, elle ne harcelait point son mari. Elle tolérait qu\'il se fît attendre à l\'heure des repas. Elle ne maugréait point quand il était en retard, et s\'ingéniait à maintenir les plats à un juste degré de cuisson. Elle respectait sa préoccupation, quand il était préoccupé. Elle s\'inquiétait même de ses travaux, et son bon coeur lui dictait d\'encourageantes paroles lorsque l\'astronome semblait s\'égarer dans les espaces infinis au point de ne pas retrouver sa route.
+
+Voilà une femme comme nous en souhaitons à tous les maris, surtout quand ils sont astronomes.
+
+Malheureusement il n\'en existe guère ailleurs que dans les romans !
+
+Jenny, sa fille aînée, promettait de suivre les traces de sa mère, de marcher du même pas sur le chemin de l\'existence. Évidemment Francis Gordon, futur mari de Jenny Hudelson, était destiné à devenir le plus heureux des hommes. Sans vouloir humilier les misses américaines, il est permis de dire qu\'on aurait peine à découvrir dans toute l\'Amérique une jeune fille plus charmante, plus attrayante, plus douée de l\'ensemble des perfections humaines. Jenny Hudelson était une aimable blonde, aux yeux bleus, à la carnation fraîche, avec de jolies mains, de jolis pieds et une jolie taille, autant de grâce que de modestie, autant de bonté que d\'intelligence. Aussi Francis Gordon l\'appréciait-il non moins qu\'elle appréciait Francis Gordon. Le neveu de Mr Dean Forsyth possédant d\'ailleurs l\'estime de la famille Hudelson, cette sympathie réciproque n\'avait pas tardé à se traduire sous la forme d\'une demande en mariage, très favorablement accueillie. Ces jeunes gens se convenaient si bien ! Ce serait le bonheur que Jenny apporterait au ménage avec ses qualités familiales. Quant à Francis Gordon, il serait doté par son oncle, dont la fortune lui reviendrait un jour. Mais laissons de côté ces perspectives d\'héritages. Il ne s\'agit pas de l\'avenir, mais du présent, qui réunit toutes les conditions de la plus parfaite félicité.
+
+Donc, Francis Gordon est fiancé à Jenny Hudelson, Jenny Hudelson est fiancée à Francis Gordon, et le mariage, dont on fixera la date prochainement, sera célébré par les soins du révérend O\'Garth, à Saint-Andrew, la principale église de cette heureuse ville de Whaston.
+
+Vous pouvez être sûrs qu\'il y aura grande affluence à cette cérémonie nuptiale, car les deux familles jouissent d\'une estime qui n\'a d\'égale que leur honorabilité, et non moins sûrs que la plus gaie, la plus vive, la plus envolée ce jour-là, sera cette mignonne Loo[[\[1\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn1050){#_ftnref1050 .pcalibre2 .pcalibre1}, qui servira de demoiselle d\'honneur à sa soeur chérie.
+
+Elle n\'a pas quinze ans, Loo, et elle a bien le droit d\'être jeune. Elle profite de ce droit-là, je vous en réponds. C\'est le mouvement perpétuel au physique, et, au moral, une espiègle qui ne se gêne pas pour plaisanter les « planètes à papa » ! Mais on lui pardonne tout, on lui passe tout. Le docteur Hudelson est le premier à rire, et, pour unique punition, met un baiser sur ses fraîches joues de fillette.
+
+Au fond, Mr Hudelson était un brave homme, mais très entêté et fort susceptible. Sauf Loo, dont il admettait les plaisanteries innocentes, chacun respectait ses manies et ses habitudes. Très acharné à ses études astronomico-météorologiques, très buté dans ses démonstrations, très jaloux des découvertes qu\'il faisait ou prétendait faire, c\'est tout juste si, malgré sa réelle affection pour Dean Forsyth, il demeurait l\'ami d\'un si redoutable rival. Deux chasseurs sur le même terrain de chasse, qui se disputent un rare gibier ! Maintes fois il en était résulté du refroidissement, qui aurait pu dégénérer en brouille, n\'eût été l\'intervention lénifiante de cette bonne Mrs Hudelson, puissamment aidée, d\'ailleurs, dans son oeuvre de concorde par ses deux filles et par Francis Gordon. Ce pacifique quatuor fondait de grands espoirs sur l\'union projetée pour raréfier les escarmouches. Lorsque le mariage de Francis et de Jenny aurait relié plus étroitement les deux familles, ces orages passagers seraient moins fréquents et moins redoutables. Qui sait même si les deux astronomes amateurs, unis dans une cordiale collaboration, ne poursuivraient pas de concert leurs recherches astronomiques ? Ils se partageraient alors équitablement le gibier découvert, sinon abattu, sur ces vastes champs de l\'espace.
+
+La maison du docteur Hudelson était des plus confortables.
+
+Une mieux tenue, on l\'aurait vainement cherchée dans tout Whaston. Ce joli hôtel entre cour et jardin, avec de beaux arbres et des pelouses verdoyantes, occupait le milieu de Moriss street. Il se composait d\'un rez-de-chaussée et d\'un premier étage avec sept fenêtres de façade. La toiture était dominée, à gauche, par une sorte de donjon carré, haut d\'une trentaine de mètres, terminé par une terrasse à balustres. À l\'un des angles, se dressait le mât auquel, le dimanche et les jours fériés, on hissait le pavillon aux cinquante et une étoiles des États-Unis d\'Amérique.
+
+La chambre supérieure de ce donjon avait été disposée pour les travaux spéciaux de son propriétaire. C\'est là que fonctionnaient les instruments du docteur, lunettes et télescopes, à moins que, pendant les belles nuits, il ne les transportât sur la terrasse, d\'où ses regards pouvaient librement parcourir le dôme céleste. C\'est là que le docteur, en dépit des recommandations de Mrs Hudelson, attrapait ses coryzas les plus carabinés, ses grippes les mieux réussies :
+
+« Au point, répétait volontiers miss Loo, que papa finira par enrhumer ses planètes ! »
+
+Mais le docteur n\'écoutait rien, et bravait parfois les sept ou huit degrés centigrades au-dessous de zéro des grandes gelées d\'hiver, alors que le firmament apparaît dans toute sa pureté.
+
+De l\'observatoire de la maison de Moriss street, on distinguait sans peine la tour de la maison d\'Elisabeth street. Un demi-mille tout au plus les séparait, et, entre elles, aucun monument ne s\'élevait, aucun arbre n\'interposait ses ramures.
+
+Sans même recourir au télescope à longue portée, on reconnaissait très aisément, avec une bonne jumelle, les personnes qui se tenaient sur la tour ou sur le donjon.
+
+Assurément, Dean Forsyth avait autre chose à faire que de regarder Sydney Hudelson, et Sydney Hudelson n\'eût pas voulu perdre son temps à regarder Dean Forsyth. Leurs observations visaient plus haut, beaucoup plus haut. Mais il était naturel que Francis Gordon voulût voir si Jenny Hudelson ne se trouvait pas sur la terrasse, et souvent leurs yeux se parlaient à travers les lorgnettes. Il n\'y avait pas de mal à cela, je pense.
+
+Il eût été facile d\'établir une communication télégraphique ou téléphonique entre les deux maisons. Un fil tendu du donjon à la tour eût transmis de bien agréables propos de Francis Gordon à Jenny et de Jenny à Francis Gordon. Mais Dean Forsyth et le docteur Hudelson, n\'ayant point de telles douceurs à échanger, n\'avaient jamais projeté l\'installation de ce fil. Peut-être, lorsque les deux fiancés seraient époux, cette lacune serait comblée. Après le lien matrimonial, le lien électrique, pour unir plus étroitement encore les deux familles.
+
+Dans l\'après-midi de ce même jour, où l\'excellente mais acariâtre Mitz a donné au lecteur un échantillon de son éloquence savoureuse, Francis Gordon vint faire sa visite habituelle à Mrs Hudelson et à ses filles -- et à sa fille, rectifiait Loo en affectant des airs d\'offensée. On le reçut, il est permis de le dire, comme s\'il eût été le dieu de la maison. Qu\'il ne fût pas encore le mari de Jenny, soit ! Mais Loo voulait qu\'il fût déjà son frère à elle, et ce qui se logeait dans la cervelle de cette fillette y était bien logé.
+
+Quant au docteur Hudelson, il était claquemuré dans le donjon depuis quatre heures du matin. Après avoir paru en retard au déjeuner, tout comme Dean Forsyth, on l\'avait vu regagner précipitamment la terrasse, toujours comme Dean Forsyth, au moment où le soleil se dégageait des nuages.
+
+Non moins préoccupé que son rival, il ne semblait pas qu\'il fût disposé à redescendre.
+
+Et cependant, impossible de décider sans lui la grande question qui allait être discutée en assemblée générale.
+
+« Tiens ! s\'écria Loo, dès que le jeune homme eut franchi la porte du salon, voilà Mr Francis, l\'éternel Mr Francis ! Ma parole, on ne voit que lui ici ! »
+
+Francis Gordon se contenta de menacer du doigt la fillette, et, lorsqu\'on fut assis, la conversation s\'établit, pleine de simple et naturelle bonhomie. Il semblait qu\'on ne se fût pas quitté depuis la veille, et, de fait, en pensée tout au moins, les deux fiancés ne se séparaient jamais l\'un de l\'autre. Miss Loo prétendait même que « l\'éternel Francis » était toujours dans la maison, que, s\'il feignait de sortir par la porte de la rue, c\'était pour rentrer par celle du jardin.
+
+On causa, ce jour-là, de ce dont on causait tous les jours. Jenny écoutait ce que disait Francis, avec un sérieux qui ne lui enlevait rien de son charme. Ils se regardaient, ils formaient des projets d\'avenir dont la réalisation ne pouvait être éloignée. Pourquoi, en effet, aurait-on prévu un retard ? Déjà, Francis Gordon avait trouvé dans Lambeth street une jolie maison qui conviendrait parfaitement au jeune ménage. C\'était dans le quartier de l\'Ouest, avec vue sur le cours du Potomac, et pas très loin de Moriss street. Mrs Hudelson promit d\'aller visiter cette maison, et, pour peu qu\'elle plût à sa future locataire, elle serait louée sous huitaine. Bien entendu, Loo accompagnerait sa mère et sa soeur. Elle n\'aurait pas admis que l\'on se fût passé de son avis.
+
+« À propos ! s\'écria-t-elle tout à coup, et Mr Forsyth ?
+
+Est-ce qu\'il ne doit pas venir aujourd\'hui ?
+
+--- Mon oncle arrivera vers quatre heures, répondit Francis Gordon.
+
+--- C\'est que sa présence est indispensable pour résoudre la question, fit observer Mrs Hudelson.
+
+--- Il le sait, et ne manquera pas au rendez-vous.
+
+--- S\'il y manquait, déclara Loo, qui tendit une petite main menaçante, il aurait affaire à moi, et n\'en serait pas quitte à bon marché.
+
+--- Et Mr Hudelson ? demanda Francis. Nous n\'avons pas moins besoin de lui que de mon oncle.
+
+--- Père est dans son donjon, dit Jenny. Il descendra aussitôt qu\'il sera prévenu.
+
+--- Je m\'en charge, répondit Loo. J\'aurai vite grimpé ses six étages. »
+
+Il importait, en effet, que Mr Forsyth et Mr Hudelson fussent là. Ne s\'agissait-il pas de fixer la date de la cérémonie ? En principe, le mariage devait être célébré dans le plus court délai, mais à la condition, cependant, que la demoiselle d\'honneur eût le temps de se faire confectionner sa jolie robe -- une robe longue de demoiselle, s\'il vous plaît, qu\'elle comptait étrenner dans ce jour mémorable.
+
+De là, cette observation que se permit Francis en plaisantant :
+
+« Mais si elle n\'était pas prête, la fameuse robe ?
+
+--- Dans ce cas, on remettrait la noce ! » décréta l\'impérieuse personne.
+
+Et cette réponse fut accompagnée d\'un tel éclat de rire, que Mr Hudelson dut certainement l\'entendre des hauteurs de son donjon.
+
+Cependant l\'aiguille de la pendule franchissait successivement toutes les minutes du cadran, et Mr Dean Forsyth ne paraissait pas.
+
+Loo avait beau se pencher hors de la fenêtre d\'où elle apercevait la porte d\'entrée, pas de Mr Forsyth ! Il fallut donc s\'armer de patience -- une arme dont Loo ne connaissait guère le maniement.
+
+« Mon oncle m\'a pourtant bien promis\... Répétait Francis Gordon ; mais, depuis quelques jours, je ne sais trop ce qu\'il a.
+
+--- Mr Forsyth n\'est point souffrant, j\'espère ? demanda Jenny.
+
+--- Non, soucieux\... Préoccupé\... On ne peut pas en tirer dix paroles. Je ne sais ce qu\'il peut avoir dans la tête.
+
+--- Quelque éclat d\'étoile ! s\'écria la fillette.
+
+--- Il en est de même de mon mari, dit Mrs Hudelson. Cette semaine, il m\'a paru plus absorbé que jamais. Impossible de l\'arracher de son observatoire. Il faut qu\'il se passe quelque chose d\'extraordinaire dans le ciel.
+
+--- Ma foi ! répondit Francis, je serais tenté de le croire, à la façon dont se comporte mon oncle. Il ne sort plus ; il ne dort plus ; il mange à peine ; il oublie l\'heure des repas\...
+
+--- Ce que Mitz doit être contente ! s\'écria Loo.
+
+--- Elle enrage, déclara Francis, mais cela n\'y fait rien. Mon oncle, qui jusqu\'ici redoutait les semonces de sa vieille servante, n\'y prête plus la moindre attention.
+
+--- C\'est tout à fait comme ici, dit Jenny en souriant. Ma soeur paraît avoir perdu son influence sur papa\... Et l\'on sait si elle était grande !
+
+--- Est-ce possible, mademoiselle Loo ? demanda Francis sur le même ton.
+
+--- Ce n\'est que trop vrai ! répliqua la fillette ; mais, patience\... Patience ! Il faudra bien que Mitz et moi nous finissions par avoir raison du père et de l\'oncle.
+
+--- Enfin, reprit Jenny, que peut-il leur être arrivé à tous les deux ?
+
+--- C\'est quelque planète de valeur qu\'ils auront égarée, s\'écria Loo. Pourvu, mon Dieu, qu\'ils l\'aient retrouvée avant la noce !
+
+--- Nous plaisantons, interrompit Mrs Hudelson, et, en attendant, Mr Forsyth ne vient pas.
+
+--- Et voilà que quatre heures et demie vont sonner ! ajouta Jenny.
+
+--- Si mon oncle n\'est pas ici dans cinq minutes, décida Francis Gordon, je cours le chercher. »
+
+En cet instant, la sonnette de la porte d\'entrée se fit entendre.
+
+[« C\'est Mr Forsyth, affirma Loo.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"} Là ! Il continue à sonner ! Quel carillon ! Je parie qu\'il écoute voler une comète et qu\'il ne s\'aperçoit même pas qu\'il sonne ! »
+
+C\'était bien Mr Dean Forsyth. Il entra presque aussitôt dans le salon, où Loo l\'accueillit avec de vifs reproches.
+
+« En retard ! En retard ! Vous voulez donc qu\'on vous gronde ?
+
+--- Bonjour, Mrs Hudelson ! Bonjour, ma chère Jenny ! dit Mr Forsyth en embrassant la jeune fille ; bonjour ! » répéta-t-il en tapotant les joues de la fillette.
+
+Toutes ces politesses étaient faites d\'un air distrait. Ainsi que l\'avait présumé Loo, Mr Dean Forsyth avait, comme on dit, « la tête ailleurs ».
+
+« Mon oncle, reprit Francis Gordon, en ne vous voyant point arriver à l\'heure convenue, j\'ai cru que vous aviez oublié notre rendez-vous.
+
+--- Un peu, je l\'avoue, et je m\'en excuse, Mrs Hudelson.
+
+Heureusement, Mitz me l\'a rappelé de la bonne manière.
+
+--- Elle a bien fait, déclara Loo.
+
+--- Ne m\'accablez pas, petite Miss ! Des préoccupations graves\... Je suis peut-être à la veille d\'une découverte des plus intéressantes.
+
+--- C\'est comme papa\... Commença Loo.
+
+--- Quoi ! s\'écria Mr Dean Forsyth en se relevant d\'un bond, à faire croire qu\'un ressort venait de se détendre dans le fond de son fauteuil, vous dites que le docteur\...
+
+--- Nous ne disons rien, mon bon Mr Forsyth », se hâta de répondre Mrs Hudelson, craignant toujours, et non sans raison, qu\'il ne surgît une nouvelle cause de rivalité entre son mari et l\'oncle de Francis Gordon.
+
+Puis elle ajouta, pour couper court à l\'incident :
+
+« Loo, va chercher ton père. »
+
+Légère comme un oiseau, la fillette s\'élança vers le donjon. À n\'en pas douter, si elle prit l\'escalier, au lieu de s\'envoler par la fenêtre, c\'est qu\'elle ne voulut pas se servir de ses ailes.
+
+Une minute plus tard, Mr Sydney Hudelson faisait son entrée dans le salon. Physionomie grave, oeil fatigué, tête congestionnée à faire craindre un coup de sang.
+
+Mr Dean Forsyth et lui échangèrent une poignée de main sans conviction, tout en se sondant réciproquement d\'un regard oblique. Ils s\'observaient à la dérobée, comme s\'ils éprouvaient une certaine défiance l\'un de l\'autre. Mais, après tout, les deux familles s\'étaient réunies dans le but de fixer la date du mariage, -- ou, pour employer le langage de Loo, de la conjonction des astres Francis et Jenny.
+
+--- Il n\'y avait donc qu\'à fixer cette date. Tout le monde étant d\'avis que la cérémonie devait avoir lieu dans le plus court délai possible, la conversation ne fut pas longue.
+
+Mr Dean Forsyth et Mr Hudelson y accordèrent-ils même grande attention ? Il est permis de croire, plutôt, qu\'ils étaient partis à la poursuite de quelque astéroïde perdu à travers l\'espace, chacun d\'eux se demandant si l\'autre n\'était pas sur le point de le retrouver.
+
+En tout cas, ils ne firent aucune objection à ce que le mariage fût fixé à quelques semaines de là. On était au 21 mars. On prit pour date le 15 mai. De cette manière, on aurait, en se pressant un peu, le temps d\'aménager le nouvel appartement.
+
+« Et de finir ma robe », ajouta Loo de l\'air le plus sérieux du monde.

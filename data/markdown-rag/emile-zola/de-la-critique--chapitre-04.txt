@@ -1,0 +1,62 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "DE LA CRITIQUE"
+slug_oeuvre: "de-la-critique"
+section: "Chapitre 04"
+slug_section: "chapitre-04"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+DE LA CRITIQUE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Hector Berlioz
+Je viens de lire un livre qui m'a profondément ému, la *Correspondance inédite d'Hector Berlioz*, je n'entends pas parler musique, je serais incompétent. Même, je veux me mettre à un point de vue tout particulier, n'étudier chez Berlioz que le génie si longtemps incompris, exaspéré par une lutte ardente de chaque jour, hué et sifflé en France, lorsqu'on l'acclamait à l'étranger, ne triomphant enfin que dans la mort, après avoir traîné pendant six années l'agonie de la chute suprême des *Troyens*.
+
+Mon travail sera simple d'ailleurs, je me bornerai à des citations. Voici la vérité des faits.
+
+Dans une excellente notice biographique, dont M. Daniel Bernard a fait précéder la *Correspondance*, je trouve d'abord de précieux renseignements. Il faut se souvenir des légendes qui s'étaient formées sur Berlioz de son vivant. On faisait de lui un fou et un méchant, un artiste dont l'orgueil démesuré ne pouvait tolérer aucun rival. Les journaux du temps le peignaient ainsi : : « Le musicien incompris méprise profondément ce qu'on nomme vulgairement le public ; mais, en compensation, il n'a qu'une médiocre estime pour les artistes contemporains. Si vous lui nommez Meyerbeer ; --- Hum ! hum ! il a quelque talent, je ne dis pas, mais il sacrifie à la mode. --- Et M. Auber ? --- Compositeur de quadrilles et de chansons. --- Bellini ? Donizetti ? --- Italiens, Italiens ! musiciens faciles, trop faciles. »
+
+Et ce n'est pas tout. Comme le dit M. Daniel Bernard, on prêtait en critique à Berlioz les opinions les plus saugrenues. Homme de lutte, ayant à combattre pour imposer ses idées, il s'était fortifié dans son feuilleton du *Journal des Débats*, d'où il mitraillait ses adversaires, très nombreux, et qui avaient pour eux la bêtise courante. Mais il avait beau dire blanc, on lui faisait dire noir. C'est là un phénomène stupéfiant qui se produit toujours. La chose écrite que chacun peut lire semble devoir être un fait. Eh bien ! pas du tout. Berlioz, à propos de l'*Idoménée*, de Mozart, écrivait : « Quel miracle de beauté qu'une telle musique ! Comme c'est pur ! Quel parfum d'antiquité ! » Et on lisait : « Mozart n'a aucun talent, personne n'a de talent, moi seul ai inventé la musique. » Explique qui pourra ce phénomène, il a lieu chaque fois qu'un artiste convaincu parle à la médiocrité des foules.
+
+« Une fois pour toutes, dit M. Daniel Bernard, établissons que Berlioz ne prétendait nullement au rôle que certains compositeurs ont tenu depuis. Il ne se vantait pas d'être *le seul* de son espèce et ne croyait point qu'avant lui la musique fût une science ignorée, ténébreuse, inculte ; loin de renier les anciens, il se prosternait avec vénération devant les dieux de la symphonie... Son unique prétention (et elle nous paraît justifiée) était de continuer la tradition musicale en l'agrandissant, en l'améliorant grâce aux ressources modernes. »
+
+D'ailleurs, il avait des tendresses ardentes, il défendait Liszt avec une passion extraordinaire. S'il faisait un continuel massacre des opéras-comiques, il était pris de véritables accès de dévotion devant les œuvres qu'il aimait. C'était un croyant, avec une pointe de fanatisme pour ses idées, forcément aigri par l'injustice de ses contemporains. J'emprunte encore à M. Daniel Bernard les lignes suivantes, qui résument très nettement la vie tourmentée de Berlioz.
+
+« Il existait d'excellentes raisons pour que Berlioz fût attaqué, discuté, calomnié par ses concurrents, qui, ayant du talent, ne lui pardonnaient pas d'avoir du génie, et par ceux, beaucoup plus nombreux, qui, ne possédant ni génie ni talent, se ruaient indifféremment à l'assaut de toute réputation sérieuse, sans espoir d'en tirer avantage pour eux-mêmes, et uniquement pour le plaisir de briser. Couvert de lauriers à l'étranger, Berlioz s'irritait de trouver dans les feuilles de ses couronnes triomphales des moustiques parisiens qui le piquaient. Il était plus préoccupé des haines qu'il rencontrait dans son propre pays que des magnifiques ovations qui l'attendaient au-delà des frontières, à Londres, à Saint-Pétersbourg, à Vienne, à Weimar, à Lowenberg. »
+
+Une dernière citation de M. Daniel Bernard, une phrase que j'ai trouvée bien jolie : « Certains critiques croyaient l'avoir détruit à tout jamais, ou s'imaginaient qu'ils le croyaient ; car, au fond, ils n'en étaient pas bien sûrs. »
+
+Mais il est temps d'entendre parler Berlioz lui-même. Je prends çà et là les passages où coule toute son amertume contre Paris et la France. C'est une blessure sans cesse ouverte, c'est une révolte continuelle contre la sottise, mêlée d'une douleur profonde à se voir ainsi chassé de son pays.
+
+Le 14 janvier 1848, il écrit de Londres à M. Auguste Morel : « Quant à la France, je n'y pense plus... L'évidence est là : comparaison faite des impressions que ma musique a produites sur tous les publics de l'Europe qui l'ont entendue, je suis forcé de conclure que c'est le public de Paris qui la comprend le moins. N'est-il pas grotesque qu'on joue dans les concerts du Conservatoire les œuvres de tout ce qui a un nom quelconque, excepté les miennes ? N'est-il pas blessant pour moi de voir l'Opéra avoir toujours recours à des ravaudeurs musicaux et ses directeurs toujours armés contre moi de préventions que je rougirais d'avoir à combattre, si la main leur était forcée ? La presse ne devient-elle pas ignoble de jour en jour ? Y voyons-nous autre chose maintenant (à de rares exceptions près) que de l'intrigue, de basses transactions et du crétinisme ?... Et croyez-vous que je sois la dupe d'une foule de gens au sourire empressé, et qui ne cachent leurs ongles et leurs dents que parce qu'ils savent que j'ai *des griffes et des défenses ?* Ne voir partout qu'imbécillité, indifférence, ingratitude ou terreur, voilà mon lot à Paris. »
+
+Le 15 mars 1818, il écrit de Londres à M, Joseph d'Ortigue : « Je n'ai plus à songer, pour ma carrière musicale, qu'à l'Angleterre ou à la Russie. J'avais, depuis longtemps, fait mon deuil de la France ; la dernière révolution rend ma résolution plus ferme et plus indispensable. J'avais à lutter, sous l'ancien gouvernement, contre des haines semées par un feuilleton, contre l'ineptie de ceux qui gouvernent nos théâtres et indifférence du public ; j'aurais, de plus, la foule des grands compositeurs que la République vient de faire éclore, la musique populaire, philanthropique, nationale et économique. La France au point de vue musical, n'est qu'un pays de crétins et de gredins ; il faut être diablement chauvin pour ne pas le reconnaître. »
+
+Le 21 janvier 1852, il écrivait de Paris à M. Alexis Lwoff : « Rien n'est plus possible à Paris et je crois que, le mois prochain, je vais retourner en Angleterre, où le *désir d'aimer* la musique est au moins réel et persistant. Ici, tonte place est prise ; les médiocrités se mangent entre elles et l'on assiste au combat et aux repas de ces chiens avec autant de colère que de dégoût. Les jugements de la presse et du public sont d'une sottise el. d'une frivolité dont rien ne peut offrir un exemple chez les autres nations. »
+
+Le 9 janvier 1856, il écrit de Paris à M. Auguste Morel : « On ne voit que tripotages, platitudes, niaiseries, gredineries, gredins, niais, plats et tripoteurs. Je me tiens toujours de plus en plus à l'écart de ce monde empoisonné d'empoisonneurs. »
+
+Le 21 février 1861, il écrivait de Paris à son fils Louis Berlioz : « Les professeurs de chiffres (musique en chiffres) m'ont provoqué dernièrement ; tu as vu dans mon article du 19 à quoi leur instance a abouti et quel coup de poing ils m'ont obligé de leur donner sur la tête. Fais lire cela à Morel, qui fut insulté par eux, il y a quelques années... Jamais je n'eus tant de moulins à vent à combattre que cette année. Je suis entouré de fous de toute espèce. Il y a des instants où la colère me suffoque. »
+
+Je pourrais multiplier ces citations où l'on voit le pauvre grand homme exaspéré se débattre dans les insultes qu'on fait à son génie La colère l'emporte, les épithètes se pressent, il est continuellement sous les armes pour repousser les attaques ; et l'on sent, dans son cœur, une incurable tristesse, le coup de couteau que la frivolité de son cher et détesté Paris lui a planté en pleine poitrine et dont il mourra. Dans sa douleur, les consolations ne lui viennent que de l'étranger. Quand il sourit, c'est qu'il a triomphé quelque part, au loin, à Berlin ou à Londres.
+
+« J'ai reçu hier une lettre d'un monsieur inconnu sur ma partition des *Troyens*. Il me dit que les Parisiens étaient accoutumés à une musique plus *indulgente* que la mienne. Cette expression m'a ravi. » (Lettre à Mme Ernst, Paris, 14 décembre 1864.)
+
+« Voici encore un bulletin de la grande armée.... La seconde représentation de *Béatrice* à Weimar a été ce qu'on m'avait annoncé qu'elle serait ; j'ai été rappelé après le premier acte et après le deuxième. Je vous fais grâce de toutes les charmantes flatteries des artistes et du grand-duc. » (Lettre à M. et Mme Massart, Lowenberg, 19 avril 1863.)
+
+« Je t'écris trois lignes pour que tu saches que j'ai obtenu hier soir un succès pyramidal. Redemandé je ne sais combien de fois, acclamé et tout comme compositeur et comme chef d'orchestre. Ce matin, je lis dans le *Times*, le *Morning Post*, le *Morning Herald,* l'*Advertiser* et autres, des dithyrambes comme on n'en écrivit jamais sur moi. Je viens d'écrire à M. Bertin pour que notre ami Raymond, du *Journal des Débats*, fasse un pot-pourri de tous ces articles et qu'on sache au moins la chose. » (Lettre à M. Joseph d'Ortigue, Londres, 24 mars 1852.)
+
+Ainsi donc, telle a été sa vie jusqu'au dernier jour : hué en France, applaudi à l'étranger. Je terminerai mes citations par une page d'ironie cruelle. On avait annoncé que Berlioz allait partir pour l'Allemagne, où il venait d'être nommé maître de chapelle. C'est alors que, le 22 janvier 1834, il écrit à M. Brandus la lettre suivante :
+
+« Le fait est que je dois quitter la France un jour, dans quelques années, mais que la chapelle musicale dont la direction m'a été confiée n'est point en Allemagne. Et puisque tout se sait dans ce diable de Paris, j'aime autant vous dire maintenant le lieu de ma future résidence : je suis directeur général des concerts particuliers de la reine des Ovas, à Madagascar. L'orchestre de Sa Majesté Ova est composé d'artistes malais fort distingués et de quelques Malgaches de première force. Ils n'aiment pas les blancs, il est vrai, et j'aurais en conséquence beaucoup à souffrir sur la terre étrangère, dans les premiers temps, si tant de gens en Europe n'avaient pris à tâche de me noircir. J'espère donc arriver au milieu d'eux bronzé contre leur malveillance. En attendant, veuillez faire savoir à vos lecteurs que je continuerai ù habiter Paris le plus possible, à aller dans les théâtres le moins possible, mais à y aller cependant, et à remplir mes fonctions de critique comme auparavant, plus qu'auparavant. Je veux, pour la fin, m'en donner à cœur joie, puisque aussi bien il n'y a pas de journaux à Madagascar. »
+
+Maintenant, quelle moralité devons-nous tirer de tout cela ? Berlioz mort, on sait quel a été son triomphe. Aujourd'hui, on s'incline très bas devant sa tombe, on le proclame la gloire de notre école moderne. Ce grand homme qu'on a vilipendé, qu'on a traîné au ruisseau pendant sa vie, est applaudi dans son cercueil. Tous les mensonges entassés autour de lui, toutes les légendes odieuses et ridicules, toutes les polémiques sottes, tous les efforts de la haine et de l'envie pour le salir, s'en sont allés comme une poussière balayée par lèvent ; et il reste seul, debout dans sa victoire. C'est Londres, c'est Saint-Pétersbourg, c'est Berlin, hélas ! qui ont eu raison contre Paris. Mais croyez-vous que cet exemple guérisse la foule de sa frivolité et les médiocres de leur rancune, en face des talents personnels ? Ah ! que non pas ! Demain, un musicien original peut naître, il trouvera exactement les mêmes sifflets, les mêmes calomnies, et il recommencera identiquement la même bataille, s'il veut la même victoire. La bêtise et la mauvaise foi sont éternelles.

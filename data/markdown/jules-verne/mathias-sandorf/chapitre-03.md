@@ -1,0 +1,1841 @@
+[
+]{.calibre3}
+
+## Partie 3 {#calibre_toc_5 .calibre21}
+
+!{.calibre22}
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 1 -- Méditerranée {#chapitre-1-méditerranée .calibre171 .sigil_not_in_toc}
+
+La Méditerranée est belle, surtout par deux caractères : son cadre si harmonique, et la vivacité, la transparence de l'air et de la lumière... Telle qu'elle est, elle trempe admirablement l'homme. Elle lui donne la force sèche, la plus résistante ; elle fait les plus solides races. »
+
+Michelet a dit cela et l'a bien dit. Mais il est heureux pour l'humanité que la nature, à défaut d'Hercule, ait séparé le rocher de Calpé du rocher d'Abyla pour former le détroit de Gibraltar. Il faut même admettre, en dépit des assertions de maints géologues, que ce détroit a existé de tout temps. Sans lui, pas de Méditerranée. En effet, l'évaporation enlève à cette mer trois fois plus d'eau que ne lui en fournissent ses fleuves, et, faute de ce courant de l'Atlantique qui la régénère en se propageant à travers le détroit, elle ne serait plus, depuis bien des siècles, qu'une sorte de Mer Morte, au lieu d'être par excellence la Mer Vivante.
+
+C'est dans un des plus profonds réduits, l'un des plus inconnus de ce vaste lac méditerranéen, que le comte Mathias Sandorf, -- il devait rester jusqu'à l'heure voulue, jusqu'à l'entier accomplissement de son œuvre, le docteur Antékirtt -- avait caché sa vie pour bénéficier de tous les avantages que lui donnait sa fausse mort.
+
+Il y a deux Méditerranées sur le globe terrestre, l'une dans l'ancien Monde, l'autre dans le nouveau. La Méditerranée américaine, c'est le golfe du Mexique ; elle ne couvre pas moins de quatre millions et demi de kilomètres. Si la Méditerranée latine n'a qu'une superficie de deux millions huit cent quatre-vingt-cinq mille cinq cent vingt-deux kilomètres carrés, soit la moitié de l'autre, elle est plus variée dans son dessin général, plus riche en bassins et en golfes distincts, en larges subdivisions hydrographiques qui ont mérité le nom de mers.
+
+Tels, l'Archipel grec, la mer de Crète, au-dessus de l'île de ce nom, la mer Lybique, au-dessous, la mer Adriatique entre l'Italie, l'Autriche, la Turquie et la Grèce, la mer Ionienne qui baigne Corfou, Zante, Céphalonie et autres îles, la mer Tyrrhénienne dans l'ouest de l'Italie, la mer Eolienne autour du groupe Lipariote, le golfe du Lion, échancrure de la Provence, le golfe de Gênes, échancrure des deux Liguries, le golfe de Gabès, échancrure des rivages tunisiens, les deux Syrtes, si profondément creusées entre la Cyrénaïque et la Tripolitaine dans le continent africain.
+
+De quel secret endroit de cette mer, dont certains atterrages sont peu connus encore, le docteur Antékirtt avait-il fait choix pour y vivre ? Il y a des îles par centaines, des îlots par milliers, sur le périple de cet immense bassin. On chercherait vainement à en compter les pointes et les criques. Que de peuples, différents de race, de mœurs, d'état politique, se pressent sur ce littoral, où l'histoire de l'humanité a mis son empreinte depuis plus de vingt siècles, des Français, des Italiens, des Espagnols, des Autrichiens, des Ottomans, des Grecs, des Arabes, Egyptiens, Tripolitains, Tunisiens, Algériens, Marocains, -- même des Anglais, à Gibraltar, à Malte et à Chypre. Trois vastes continents l'enserrent de leurs rivages : l'Europe, l'Asie, l'Afrique. Où donc le comte Mathias Sandorf, devenu le docteur Antékirtt, -- nom qui était cher aux pays orientaux, -- avait-il cherché la lointaine résidence, dans laquelle allait s'élaborer le programme de sa vie nouvelle ? C'est ce qu'allait bientôt apprendre Pierre Bathory.
+
+Pierre, après avoir rouvert un instant les yeux, était retombé dans une prostration complète, aussi insensible qu'au moment où le docteur l'avait laissé pour mort dans la maison de Raguse. À ce moment, le docteur venait de produire un de ces effets physiologiques dans lesquels la volonté joue un si grand rôle, et dont les phénomènes ne sont plus mis en doute. Doué d'une singulière puissance de suggestion, il avait pu, sans s'aider de la lumière du magnésium ni même d'un point métallique brillant, rien que par la pénétration de son regard, provoquer chez le jeune mourant un état hypnotique, et substituer sa volonté à la sienne. Pierre, très affaibli par la perte de son sang, n'ayant plus apparence de vie, n'était qu'endormi, cependant, et il venait de se réveiller par la volonté du docteur. Mais cette vie prête à s'échapper, il s'agissait de la conserver maintenant. Tâche difficile, car elle exigeait des soins minutieux et toutes les ressources de l'art médical. Le docteur n'y devait point faillir.
+
+« Il vivra !... Je veux qu'il vive ! se répétait-il. Ah ! pourquoi, à Cattaro, n'ai-je pas mis mon premier projet à exécution ?... Pourquoi l'arrivée de Sarcany, à Raguse, m'a-t-elle empêché de l'arracher à cette ville maudite !... Mais je le sauverai !... À l'avenir, Pierre Bathory doit être le bras droit de Mathias Sandorf ! »
+
+En effet, depuis quinze ans, punir et récompenser, telle avait été la pensée constante du docteur Antékirtt. Ce qu'il devait à ses compagnons, Etienne Bathory et Ladislas Zathmar, encore plus qu'à lui-même, il ne l'avait pas oublié. Maintenant l'heure était venue d'agir, et c'est pourquoi la *Savarèna* l'avait transporté à Raguse.
+
+Le docteur, pendant cette longue période, avait changé au physique, et, de telle façon qu'il eût été impossible de le reconnaître. Ses cheveux, qu'il portait en brosse, étaient devenus blancs, et son teint avait pris une pâleur mate. C'était un de ces hommes de cinquante ans, qui ont gardé la force de la jeunesse, tout en gagnant la froideur et le calme de l'âge mûr. La chevelure touffue, le teint coloré, la barbe d'un rouge vénitien du jeune comte Sandorf, rien de cela ne pouvait revenir à l'esprit de ceux qui se trouvaient en présence du sévère et froid docteur Antékirtt. Mais plus affiné, plus trempé, il était resté une de ces natures de fer, dont on pourrait dire qu'elles troubleraient l'aiguille aimantée rien qu'en l'approchant. Eh bien ! du fils d'Etienne Bathory, il voulait, il saurait faire ce qu'il avait fait de lui-même.
+
+D'ailleurs, et depuis longtemps déjà, le docteur Antékirtt était resté seul de toute cette grande famille des Sandorf. On ne l'a pas oublié, il avait un enfant, une petite fille, qui, après son arrestation, avait été confiée à la femme de Landeck, l'intendant du château d'Artenak. Cette petite fille, âgée de deux ans alors, était l'unique héritière du comte. C'est à elle que devait revenir, quand elle aurait dix-huit ans, la moitié des biens de son père, réservée par le jugement qui prononçait la confiscation en même temps que la mort. L'intendant Landeck, ayant été laissé en qualité de régisseur de cette portion du domaine de Transylvanie mise sous séquestre, sa femme et lui étaient restés au château avec cette enfant, à laquelle ils voulaient vouer toute leur vie. Mais il semblait qu'une fatalité pesât sur la famille Sandorf, maintenant réduite à ce petit être. Quelques mois après la condamnation des conspirateurs de Trieste et les événements qui en furent la conséquence, cette enfant disparut, sans qu'il fût possible de la retrouver. On ne recueillit que son chapeau sur le bord de l'un de ces nombreux cours d'eau que les contreforts voisins versaient dans le parc. Il fut donc malheureusement trop certain que la petite fille avait été entraînée au fond de l'un de ces gouffres dans lesquels se jettent les torrents des Carpathes, et on n'en put relever aucun autre vestige. Rosena Landeck, la femme de l'intendant, frappée mortellement par une telle catastrophe, mourut quelques semaines après. Cependant, le gouvernement ne voulut rien changer aux dispositions prises à l'époque du jugement. Le séquestre fut maintenu sur la partie réservée du domaine, et les biens du comte Sandorf ne devaient faire retour à l'Etat, que si son héritière, dont la mort n'avait pu être légalement constatée, ne reparaissait pas dans le temps fixé pour qu'elle pût recueillir l'héritage.
+
+Tel fut le dernier coup qui avait atteint la race des Sandorf, menacée de s'éteindre par la disparition du seul rejeton de cette noble et puissante famille. Puis, le temps accomplit peu à peu son œuvre, et l'oubli se fit sur cet événement comme sur tous les faits qui se rattachaient à la conspiration de Trieste.
+
+Ce fut à Otrante, où il vivait alors dans le plus strict incognito, que Mathias Sandorf apprit la mort de son enfant. Avec cette petite fille disparaissait tout ce qui lui était resté de la comtesse Réna, si peu de temps sa femme, et qu'il avait tant aimée ! Puis, un jour, il quitta Otrante, inconnu comme il y était arrivé, et personne n'eût su dire où il était allé recommencer sa vie.
+
+Quinze ans plus tard, au moment où le comte Mathias Sandorf reparaissait sur la scène, nul n'aurait pu soupçonner qu'il se cachait sous le nom et qu'il jouait ce rôle du docteur Antékirtt.
+
+C'est alors que Mathias Sandorf se donna tout entier à son œuvre. Maintenant il était seul au monde, avec une tâche à accomplir, -- tâche qu'il regardait comme sacrée. Plusieurs années après avoir quitté Otrante, devenu puissant de toute cette puissance que peut donner une immense fortune, acquise dans des circonstances qui seront bientôt connues, oublié, et couvert par son incognito, il se remit sur la trace de ceux qu'il s'était juré de récompenser ou de punir. Déjà, dans sa pensée, Pierre Bathory devait être associé à cette œuvre de justice. Des agents furent établis par ses soins dans diverses villes du littoral méditerranéen. Largement rétribués, tenus à garder le secret le plus absolu dans leurs fonctions, ils ne correspondaient qu'avec le docteur, soit par les rapides engins que l'on connaît, soit par le fil sous-marin qui reliait l'île Antékirtta aux câbles électriques de Malte, et par Malte, avec l'Europe.
+
+Ce fut, en faisant vérifier les dires de ses agents, que le docteur parvint à retrouver les traces de tous ceux qui avaient été mêlés directement ou indirectement à la conspiration du comte Sandorf. Il put donc les surveiller de loin, se tenir au courant de leurs actes, et, pour ainsi dire, les suivre pas à pas, surtout depuis quatre ou cinq ans. Silas Toronthal, il sut qu'il avait quitté Trieste pour venir se fixer à Raguse avec sa femme et sa fille dans cet hôtel du Stradone. Sarcany, il releva sa piste à travers les principales villes d'Europe, où il dévorait sa fortune, puis en Sicile, au milieu de ces provinces de l'est, dans lesquelles son compagnon Zirone et lui méditaient quelque coup qui pût les remettre à flot. Carpena, il apprit qu'il avait quitté Rovigno et l'Istrie pour vivre à rien faire en Italie ou en Autriche, tant que les quelques milliers de florins, solde de sa délation, lui permettraient de rester oisif. Puis, ce fût Andréa Ferrato qu'il eût fait évader du bagne de Stein, en Tyrol, où il expiait sa généreuse conduite envers les fugitifs de Pisino, si la mort ne fut venue, après quelques mois, délivrer l'honnête pêcheur des fers du galérien. Quant à ses enfants, Maria et Luigi, eux aussi avaient abandonné Rovigno, et, sans doute, ils luttaient contre les misères d'une vie deux fois brisée ! Mais ils s'étaient si bien cachés qu'il n'avait pas été possible de se remettre sur leurs traces. Pour Mme Bathory, établie à Raguse avec son fils, Pierre, et Borik, le vieux serviteur de Ladislas Zathmar, le docteur ne l'avait jamais perdue de vue, et l'on sait comment il lui avait fait parvenir une somme considérable, qui ne fut pas acceptée par la fière et courageuse femme.
+
+Mais l'heure était venue, enfin, où le docteur allait pouvoir commencer sa difficile campagne. C'est alors qu'assuré de ne jamais être reconnu, après quinze ans d'absence, lui que l'on croyait mort, il arriva à Raguse. Et ce fut juste à point pour trouver le fils d'Etienne Bathory et la fille de Silas Toronthal, unis dans un amour qu'il fallait briser à tout prix.
+
+On n'a pas oublié ce qui arriva alors, l'intervention de Sarcany en cette affaire, les conséquences qu'elle amena de part et d'autre, comment Pierre Bathory fut rapporté dans la maison de sa mère, ce que fit le docteur Antékirtt, au moment où le jeune homme allait mourir, comment et dans quelles conditions il le rappela à la vie, pour se révéler à lui sous son véritable nom de Mathias Sandorf.
+
+Maintenant, il fallait le guérir, il fallait lui apprendre tout ce qu'il ignorait encore, c'est-à-dire qu'une odieuse trahison avait livré avec son père les deux compagnons d'Etienne Bathory, il fallait lui dire quels étaient les traîtres, il fallait enfin l'associer à ce rôle d'implacable justicier que le docteur prétendait exercer en dehors de la justice humaine, puisque lui-même avait été victime de cette justice.
+
+Donc, avant tout, la guérison de Pierre Bathory, et ce fut à cette guérison qu'il importait de se donner tout entier.
+
+Pendant les huit premiers jours après son transport dans l'île, Pierre fut véritablement entre la vie et la mort. Non seulement sa blessure avait un caractère très grave, mais son moral était plus malade encore. Le souvenir de Sava, qu'il devait croire mariée maintenant avec ce Sarcany, la pensée de sa mère qui le pleurait, puis cette résurrection du comte Mathias Sandorf, vivant sous le nom du docteur Antékirtt -- Mathias Sandorf, l'ami le plus dévoué de son père, -- tout cela était bien pour troubler une âme si éprouvée déjà.
+
+Le docteur ne voulut quitter Pierre, ni jour ni nuit. Il l'entendit dans son délire répéter le nom de Sava Toronthal. Il comprit combien son amour était profond, et quelle torture le mariage de celle qu'il aimait devait lui infliger. Il en vint à se demander si cet amour ne résisterait pas à tout, même quand Pierre apprendrait que Sava était la fille de l'homme qui avait livré, vendu, tué son père. Le docteur le lui dirait, cependant. Il y était résolu. C'était son devoir.
+
+Vingt fois, on put croire que Pierre Bathory allait succomber. Doublement atteint au moral et au physique, il fut si près de la mort qu'il ne reconnaissait plus le comte Mathias Sandorf à son chevet ! Il n'avait même plus la force de prononcer le nom de Sava !
+
+Cependant les soins l'emportèrent et la réaction se fit. La jeunesse reprit le dessus. Le malade allait guérir du corps, bien avant de guérir de l'âme. Sa blessure commença à se cicatriser, ses poumons reprirent leur fonctionnement normal, et, vers le 17 juillet, le docteur eut l'assurance que Pierre serait sauvé.
+
+Ce jour-là, le jeune homme le reconnut. D'une voix bien faible encore, il put l'appeler de son vrai nom.
+
+« Pour toi, mon fils, je suis Mathias Sandorf, lui répondit-il, mais pour toi seul ! »
+
+Et, comme Pierre, d'un regard, semblait lui demander des explications qu'il devait être si impatient d'obtenir :
+
+« Plus tard, ajouta-t-il, plus tard ! »
+
+C'était dans une jolie chambre, largement exposée à la saine brise de mer, dont les fenêtres s'ouvraient au nord et à l'est, sous l'ombrage de beaux arbres auxquels des eaux vives et courantes conservaient une éternelle verdeur, que la convalescence de Pierre allait s'opérer rapidement et sûrement. Le docteur ne cessa pas de lui donner ses soins ; il accourait près de lui à tout instant ; mais, depuis que la guérison lui avait paru assurée, qu'on ne s'étonne pas s'il s'était adjoint un aide, dont l'intelligence et la bonté lui inspiraient une absolue confiance.
+
+C'était Pointe Pescade, dévoué à Pierre Bathory comme au docteur. Il va sans dire que Cap Matifou et lui avaient gardé le plus absolu secret sur tout ce qui s'était passé au cimetière de Raguse, et qu'ils ne devaient jamais révéler à personne que le jeune homme eût été retiré vivant de sa tombe.
+
+Pointe Pescade avait été mêlé assez intimement à tous les faits qui venaient de se produire, pendant cette période de quelques mois. Par suite, il s'était pris d'un vif intérêt pour son malade. Cet amour de Pierre Bathory, traversé par l'intervention de Sarcany -- un impudent qui lui inspirait une antipathie bien justifiée ! -- la rencontre du convoi et des voitures de mariage devant l'hôtel du Stradone, l'exhumation pratiquée dans le cimetière de Raguse, tout cela avait profondément remué ce bon être, et, d'autant mieux qu'il se sentait associé, sans en comprendre encore le but, aux desseins du docteur Antékirtt.
+
+Il s'ensuit donc que Pointe Pescade accepta avec empressement la tâche de garder le malade. Recommandation lui fut faite, en même temps, de le distraire, autant que possible, par sa joyeuse humeur. Il n'y faillit point. D'ailleurs, depuis la fête de Gravosa, il considérait Pierre Bathory comme un créancier, et, à l'occasion, il s'était toujours promis de s'acquitter d'une façon ou d'une autre.
+
+Voilà donc pourquoi Pointe Pescade, installé près du convalescent, s'essayait à détourner le cours de ses pensées en causant, en bavardant, en ne lui laissant pas le temps de réfléchir.
+
+C'est dans ces conditions, qu'un jour, sur une demande directe de Pierre, il fut amené à dire comment il avait fait la connaissance du docteur Antékirtt.
+
+« C'est l'affaire du trabacolo, monsieur Pierre ! répondit-il. Vous devez vous en souvenir !... L'affaire du trabacolo, qui a fait tout simplement un héros de Cap Matifou ! »
+
+Pierre n'avait point oublié le grave événement qui avait marqué la fête de Gravosa, à l'arrivée du yacht de plaisance ; mais il ignorait que, sur la proposition du docteur, les deux acrobates eussent abandonné leur métier pour passer à son service.
+
+« Oui, monsieur Bathory ! répondit Pointe Pescade. Oui ! cela est, et le dévouement de Cap Matifou a été pour nous un coup de fortune ! Mais ce que nous devons au docteur ne doit pas nous faire oublier ce que nous devons à vous-même !
+
+--- À moi ?
+
+--- À vous, monsieur Pierre, à vous qui, ce jour-là, avez failli devenir notre public, c'est-à-dire une somme de deux florins que nous n'avons pas gagnée, puisque notre public nous a fait défaut, bien qu'il eût payé sa place ! »
+
+Et Pointe Pescade rappela à Pierre Bathory comment, au moment d'entrer dans l'arène provençale, après avoir versé cette somme de deux florins, il avait tout à coup disparu.
+
+Le jeune homme avait perdu le souvenir de cet incident, mais il répondit en souriant à Pointe Pescade. Triste sourire, car il se souvint aussi qu'il ne s'était mêlé à la foule que pour y retrouver Sava Toronthal !
+
+Ses yeux se refermèrent alors. Il réfléchissait à tout ce qui était advenu depuis ce jour. En songeant à Sava qu'il croyait, qu'il devait croire mariée, une douloureuse angoisse l'étreignait, et il était tenté de maudire ceux qui l'avaient arraché à la mort !
+
+Pointe Pescade vit bien que cette fête de Gravosa rappelait à Pierre de tristes souvenirs. Il n'insista donc pas, il garda même le silence, se disant à part lui :
+
+« Une demi-cuillerée de bonne humeur à faire prendre toutes les cinq minutes à mon malade, oui ! voilà bien l'ordonnance du docteur, mais pas commode à suivre ! »
+
+Ce fut Pierre, qui rouvrit les yeux quelques instants plus tard, et reprit la parole :
+
+« Ainsi, Pointe Pescade, demanda-t-il, avant l'affaire du trabacolo, vous ne connaissiez pas le docteur Antékirtt ?
+
+--- Nous ne l'avions jamais vu, monsieur Pierre, répondit Pointe Pescade, et nous ignorions jusqu'à son nom.
+
+--- Depuis ce jour vous ne l'avez jamais quitté ?
+
+--- Jamais, si ce n'est que pour quelques missions, dont il avait bien voulu me charger.
+
+--- Et en quel pays sommes-nous ici ? Pourriez-vous me le dire, Pointe Pescade ?
+
+--- J'ai lieu de croire, monsieur Pierre, que nous sommes dans une île, puisque la mer nous environne.
+
+--- Sans doute, mais dans quelle partie de la Méditerranée ?
+
+--- Ah ! voilà ! Est-ce au sud, est-ce au nord, est-ce à l'ouest, est-ce à l'est, répondit Pointe Pescade, c'est ce que j'ignore absolument ! Après tout, peu importe ! Ce qui est certain, c'est que nous sommes chez le docteur Antékirtt, et qu'on y est bien nourri, bien habillé, bien couché, sans compter les égards.
+
+--- Mais, au moins, savez-vous comment se nomme cette île dont vous ne connaissez pas la situation ? demanda Pierre.
+
+--- Comment elle se nomme ?... Oh ! parfaitement ! répondit Pointe Pescade. Elle se nomme Antékirtta ! »
+
+Pierre Bathory chercha vainement dans sa mémoire si quelque île de la Méditerranée portait ce nom, et il regarda Pointe Pescade.
+
+« Oui, monsieur Pierre, oui ! répondit le brave garçon, Antékirtta. Par rien du tout de longitude et encore moins de latitude. Méditerranée, c'est à cette adresse que mon oncle devrait m'écrire, si j'avais un oncle, mais jusqu'ici le ciel m'a refusé jette joie ! Après tout, rien d'étonnant à ce que cette île s'appelle Antékirtta, puisqu'elle appartient au docteur Antékirtt ! Quant à vous dire si le docteur a pris son nom de l'île ou si l'île a pris son nom du docteur, voilà ce qui me serait impossible, même si j'étais secrétaire-général de la Société de Géographie ! »
+
+Cependant, la convalescence de Pierre suivait son cours régulier. Aucune des complications que l'on pouvait craindre ne se produisit. Avec une nourriture plus substantielle, mais prudemment ménagée, le malade reprenait visiblement ses forces de jour en jour. Le docteur le visitait souvent et causait avec lui de toutes choses, excepté de celles qui devaient plus directement l'intéresser. Et Pierre, ne voulant pas provoquer des confidences prématurées, attendait qu'il lui convînt de les faire.
+
+Pointe Pescade avait toujours fidèlement rapporté au docteur les bribes de conversation échangées entre son malade et lui. Evidemment, cet incognito qui couvrait non seulement le comte Mathias Sandorf, mais jusqu'à l'île dont il faisait sa résidence, préoccupait Pierre Bathory. Non moins évidemment, il pensait toujours à Sava Toronthal, si éloignée de lui maintenant, puisque toute communication semblait rompue entre Antékirtta et le reste du continent européen. Mais le moment approchait où il serait assez fort pour tout entendre !
+
+Oui ! Tout entendre, et, ce jour-là, comme le chirurgien qui opère, le docteur serait insensible aux cris du patient.
+
+Plusieurs jours s'écoulèrent. La blessure du jeune homme était complètement cicatrisée. Déjà même il pouvait se lever et prendre place près de la fenêtre de sa chambre. Un bon soleil méditerranéen venait l'y caresser, une vivifiante brise de mer, emplissant ses poumons, lui rendait santé et vigueur. Comme malgré lui, il se sentait renaître. Alors ses yeux s'attachaient obstinément sur cet horizon sans bornes, au-delà duquel il eût voulu plonger son regard, et, en lui, le moral était bien malade encore. Cette vaste étendue d'eau, autour de l'île inconnue, était presque toujours déserte. À peine quelques caboteurs, chébecs ou tartanes, polacres ou speronares, apparaissaient-ils au large, sans jamais faire route pour y accoster. Jamais un grand navire de commerce, jamais un de ces paquebots, dont les lignes sillonnent en tous sens le grand lac européen.
+
+On eût dit, en vérité, qu'Antékirtta se trouvait reléguée aux confins du monde.
+
+Le 24 juillet, le docteur annonça à Pierre Bathory qu'il pourrait sortir le lendemain dans l'après-midi, et il s'offrit à l'accompagner pendant cette première promenade.
+
+« Docteur, répondit Pierre, si j'ai la force de sortir, je dois avoir la force de vous entendre !
+
+--- M'entendre, Pierre !... Que veux-tu dire ?
+
+--- Je veux dire que vous savez toute mon histoire et que, moi, je ne sais pas la vôtre ! »
+
+Le docteur le regarda attentivement, non plus en ami, mais en médecin qui va décider s'il portera le fer ou le feu dans les chairs vives du malade. Puis, s'asseyant près de lui :
+
+« Tu veux connaître mon histoire, Pierre ? Ecoute-moi donc ! »
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 2 -- Le passé et le présent {#chapitre-2-le-passé-et-le-présent .calibre171 .sigil_not_in_toc}
+
+Et d'abord l'histoire du docteur Antékirtt, qui commence au moment où le comte Mathias Sandorf vient de se précipiter dans les eaux de l'Adriatique.
+
+« Au milieu de cette grêle de balles, dont me couvrit la dernière décharge des agents de la police, je passais sain et sauf. La nuit était très obscure. On ne pouvait me voir. Le courant portait au large, et je n'aurais pu revenir à terre, même si je l'eusse voulu. Je ne voulais pas, d'ailleurs. Mieux valait mourir que d'être repris pour être ramené et fusillé au donjon de Pisino. Si je succombais, tout était fini. Si je parvenais à me sauver, je pourrais, du moins, passer pour mort. Rien ne me gênerait plus dans l'œuvre de justice que j'avais juré au comte Zathmar, à ton père et à moi-même d'accomplir... et que j'accomplirai !
+
+--- Une œuvre de justice ? répondit Pierre, dont l'œil s'anima à ce mot, si inattendu pour lui.
+
+--- Oui, Pierre, et cette œuvre, tu la connaîtras, car c'est pour t'y associer que j'ai été t'arracher, mort comme moi, mais vivant comme moi, au cimetière de Raguse ! »
+
+A ces paroles, Pierre Bathory se sentit reporté de quinze ans en arrière, à cette époque où son père tombait sur la place d'armes de la forteresse de Pisino.
+
+« Devant moi, reprit le docteur, s'ouvrait toute une mer jusqu'au littoral italien. Si bon nageur que je fusse, je ne pouvais prétendre à la traverser. À moins d'être providentiellement secouru, soit que je rencontrasse une épave, soit qu'un navire étranger me recueillît à son bord, j'étais destiné à périr. Mais, quand on a fait le sacrifice de sa vie, on est bien fort pour la défendre, si la défense devient possible.
+
+« D'abord, j'avais plongé, à plusieurs reprises pour échapper aux derniers coups de feu. Puis, lorsque je fus certain de n'être plus aperçu, je me maintins à la surface de la mer et je me dirigeai vers le large. Mes vêtements me gênaient peu, étant fort légers et ajustés au corps.
+
+« Il devait être alors neuf heures et demie du soir. Suivant mon estime, je nageai pendant plus d'une heure dans une direction opposée à la côte, en m'éloignant de ce port de Rovigno, dont je vis les dernières lumières s'effacer peu à peu.
+
+« Où allai-je ainsi et quel était mon espoir ? Je n'en avais aucun, Pierre, mais je sentais en moi une force de résistance, une ténacité, une volonté surhumaines qui me soutenaient. Ce n'était plus ma vie que je cherchais à sauver, c'était mon œuvre dans l'avenir ! Et à ce moment, si quelque barque de pêche fût venue à passer, j'eusse aussitôt plongé pour l'éviter ! Sur ce littoral autrichien, combien de traîtres pouvais-je trouver encore, prêts à me livrer pour toucher leur prime, combien de Carpena pour un honnête Andréa Ferrato !
+
+
+« Je fus presque aussitôt fixé à cet égard. Un des matelots cria en langue dalmate de changer de bord. Soudain, je plongeai, et l'embarcation, avant que ceux qui la montaient eussent pu m'apercevoir, vira au-dessus de ma tête.
+
+« À bout de respiration, je vins reprendre haleine à l'air libre, et je continuai à gagner dans l'ouest.
+
+« La brise mollissait avec la nuit. Les lames tombaient avec le vent. Je n'étais plus soulevé que par de longues houles de fond qui m'entraînaient vers la haute mer.
+
+« C'est ainsi que, tantôt nageant, tantôt me reposant, je m'éloignai de la côte pendant une heure encore. Je ne voyais que le but à atteindre, non le chemin à parcourir. Cinquante milles pour traverser l'Adriatique, oui, je voulais les franchir, oui ! je les franchirais ! Ah ! Pierre ! il faut avoir passé par de telles épreuves pour savoir ce dont l'homme est capable, quelle résultante, de la force morale unie à la force physique il peut sortir de la machine humaine !
+
+« Pendant une seconde heure, je me soutins ainsi. Cette portion de l'Adriatique était absolument déserte. Les derniers oiseaux l'avaient abandonnée pour regagner leurs trous dans les roches. Il ne passait plus au-dessus de ma tête que des goélands ou des mouettes, qui poussaient des cris aigus en s'envolant par couples.
+
+« Cependant, bien que je ne voulusse rien sentir de la fatigue, mes bras devenaient lourds, mes jambes pesantes. Déjà mes doigts s'entrouvraient, et je ne parvenais que très difficilement à tenir mes mains fermées. Ma tête me pesait comme si j'eusse eu un boulet attaché aux épaules, et, je commençais à ne plus pouvoir la maintenir hors de l'eau.
+
+« Une sorte d'hallucination m'envahit alors. La direction de mes pensées m'échappa. D'étranges associations d'idées se firent dans mon cerveau troublé. Je sentis que je ne pourrais plus voir ni entendre qu'imparfaitement, soit un bruit qui se produirait à quelque distance de moi, soit une lumière, si je me trouvais tout à coup dans sa portée. Et ce fut précisément ce qui arriva.
+
+« Il devait être environ minuit, quand il se fit un grondement sourd et lointain dans l'est, -- grondement dont je n'aurais pu reconnaître la nature. Un éclat traversa mes paupières qui se fermaient malgré moi. J'essayai de redresser la tête, et je n'y parvins qu'en me laissant immerger à demi. Puis, je regardai.
+
+« Je te donne tous ces détails, Pierre, parce qu'il faut que tu les connaisses et que, par là, tu me connaisses aussi !
+
+--- Je n'ignore rien de vous, docteur, rien ! répondit le jeune homme. Pensez-vous donc que ma mère ne m'ait pas appris ce qu'était le comte Mathias Sandorf ?
+
+--- Qu'elle ait connu Mathias Sandorf, soit, Pierre, mais le docteur Antékirtt, non ! Et c'est celui-là qu'il faut que tu connaisses ! Ecoute-le donc !... Ecoute-moi !
+
+« Le bruit que j'avais entendu était produit par un bâtiment qui venait de l'est et portait sur la côte italienne. La lumière, c'était son feu blanc, suspendu à l'étai de misaine, -- ce qui indiquait un steamer. Quant à ses feux de position, je ne tardai pas à les apercevoir, le rouge à bâbord, le vert à tribord, et, comme je les voyais simultanément, c'est que le bâtiment se dirigeait sur moi.
+
+« L'instant allait être décisif. En effet, toutes les chances étaient pour que ce steamer fût autrichien, puisqu'il venait du côté de Trieste. Or, de lui demander asile, autant valait se remettre entre les mains des gendarmes de Rovigno ! J'étais bien décidé à ne point le faire, mais non moins décidé à profiter du moyen de salut qui se présentait.
+
+« Ce steamer était un navire de vitesse. Il grandissait démesurément en s'approchant de moi, et je voyais la mer blanchir à son étrave. En moins de deux minutes il devait avoir coupé la place où je restais immobile.
+
+« Que ce steamer fût autrichien, je n'en doutais pas. Mais il n'y avait rien d'impossible à ce qu'il fût à destination de Brindisi et d'Otrante, ou du moins qu'il y fît escale. Or, si cela était, il devrait y arriver en moins de vingt-quatre heures.
+
+« Mon parti fut pris : j'attendis. Sûr de n'être point aperçu au milieu de l'obscurité, je me maintins dans la direction suivie par cette énorme masse, dont la marche était très modérée alors, et que balançait à peine le roulement de la houle.
+
+« Enfin le steamer arriva sur moi, dominant la mer de toute son étrave, à plus de vingt pieds de hauteur. Je fus englobé dans l'écume de l'avant, mais non heurté. La longue coque de fer me frôla, et je m'écartai vigoureusement de la main. Cela dura quelques secondes à peine. Puis, quand je vis se dessiner les façons relevées de l'arrière, au risque d'être broyé par l'hélice, je m'accrochai au gouvernail.
+
+« Heureusement, le steamer était en pleine charge, et son hélice, profondément immergée, ne battait pas l'eau à sa surface, car je n'aurais pu me dégager de ce tourbillon ni retenir le point d'appui auquel je m'étais cramponné. Mais, comme cela existe dans tous les navires à vapeur, deux chaînes de fer pendaient à l'arrière et venaient se relier au gouvernail. Je saisis l'une de ces chaînes, je m'élevai jusqu'à leur crampon d'amarrage, un peu au-dessus de l'eau, je m'installai tant bien que mal près de l'étambot... J'étais relativement en sûreté.
+
+« Trois heures après, le jour vint. Je calculai qu'il me faudrait rester dans cette situation pendant vingt heures encore, si le steamer faisait escale à Brindisi ou à Otrante. Ce dont je devrais le plus souffrir, ce serait de la soif et de la faim. L'important, c'est que je ne pouvais être aperçu du pont, ni même de la baleinière, suspendue à l'arrière sur ses portemanteaux. De quelques bâtiments courant à contre-bord, il est vrai que je pouvais être vu et signalé. Mais peu de navires nous croisèrent pendant cette journée, et ils passèrent assez loin pour qu'on ne pût apercevoir un homme accroché dans les chaînes du gouvernail.
+
+« Un ardent soleil me permit bientôt de faire sécher mes vêtements, dont je me dépouillai. Les trois cents florins d'Andréa Ferrato étaient toujours dans ma ceinture. Ils devaient m'assurer la sécurité, lorsque je serais à terre. Là, je n'aurais rien à craindre. En pays étranger, le comte Mathias Sandorf, n'avait point à redouter les agents de l'Autriche. Il n'y a pas d'extradition pour les réfugiés politiques. Mais il ne me suffisait pas que ma vie fût sauve, je voulais que l'on crût à ma mort. Personne ne devait savoir que le dernier fugitif du donjon de Pisino eût pris pied sur la terre italienne.
+
+« Ce que je voulais se réalisa. La journée se passa sans incidents. La nuit vint. Vers dix heures du soir, un feu brilla à intervalles réguliers dans le sud-ouest. C'était le phare de Brindisi. Deux heures après, le steamer donnait à travers les passes.
+
+« Mais alors, avant que le pilote fût venu à bord, environ à deux milles de terre, après avoir fait un paquet de mes vêtements que je fixai sur mon cou, j'abandonnai les chaînes du gouvernail, et je me glissai doucement dans l'eau.
+
+« Une minute après, j'avais perdu de vue le steamer, qui jetait dans l'air les hennissements de son sifflet à vapeur.
+
+« Une demi-heure plus tard, par une mer calme, sur une grève sans ressac, je débarquai à l'abri de tout regard, je me réfugiai dans les roches, je me rhabillai, et, au fond d'une anfractuosité, garnie de goémons secs, la fatigue l'emportant sur la faim, je m'endormis.
+
+« Au lever du jour, j'entrai à Brindisi, je cherchai un des plus modestes hôtels de la ville, et là, j'attendis les événements, avant d'arrêter le plan de toute une vie nouvelle.
+
+« Deux jours après, Pierre, les journaux m'apprenaient que la conspiration de Trieste avait eu son dénouement. On disait aussi que des recherches avaient été faites pour retrouver le corps du comte Sandorf, mais sans résultat. J'étais tenu pour mort, -- aussi mort que si je fusse tombé avec mes deux compagnons, Ladislas Zathmar et ton père, Etienne Bathory, sur la place d'armes du donjon de Pisino !
+
+« Moi, mort !... Non, Pierre, et l'on verra si je suis vivant ! »
+
+Pierre Bathory avait avidement écouté le récit du docteur. Il était aussi vivement impressionné que si ce récit lui eût été fait du fond d'une tombe. Oui ! c'était le comte Mathias Sandorf qui parlait ainsi ! Vis-à-vis de lui, vivant portrait de son père, sa froideur habituelle l'avait peu à peu abandonné, il lui avait ouvert entièrement son âme, il venait de la lui montrer telle qu'elle était, après l'avoir cachée à tous depuis tant d'années ! Mais il n'avait encore rien dit de ce que Pierre brûlait d'apprendre, rien de ce qu'il attendait de son concours !
+
+Ce que le docteur venait de raconter de son audacieuse traversée de l'Adriatique, était vrai jusque dans ses moindres détails. C'est ainsi qu'il était arrivé sain et sauf à Brindisi, tandis que Mathias Sandorf allait rester mort pour tous.
+
+Mais il s'agissait de quitter Brindisi sans retard. Cette ville n'est qu'un port de passage. On vient s'y embarquer pour les Indes ou y débarquer pour l'Europe. Il est le plus souvent vide, excepté un ou deux jours par semaine, à l'arrivée des paquebots, et plus particulièrement de ceux de la « Peninsular and Oriental Company ». Or, cela suffisait pour que le fugitif de Pisino pût être reconnu, et, on le répète, s'il n'avait rien à craindre pour sa vie, il lui importait que l'on crût à sa mort.
+
+C'est à cela que le docteur réfléchissait, le lendemain de son arrivée à Brindisi, en se promenant au pied de la terrasse que domine la colonne de Cléopâtre, à l'endroit même où commençait l'antique voie Appienne. Déjà le plan de sa vie nouvelle était arrêté. Il voulait aller dans l'Orient conquérir la richesse, et avec elle la puissance. Mais de s'embarquer sur un de ces paquebots qui font le service sur la côte de l'Asie Mineure, au milieu de passagers de toutes nations, cela ne pouvait lui convenir. Il lui fallait un moyen de transport plus secret qu'il ne pouvait trouver à Brindisi. Aussi, le soir même, partait-il pour Otrante par le chemin de fer.
+
+En une heure et demie, le train eut atteint cette ville, située presque au bout du talon de la botte italienne, sur ce canal qui forme l'étroite entrée de l'Adriatique. Là, dans ce port presque abandonné, le docteur put faire le prix avec le patron d'un chébec, prêt à partir pour Smyrne, où il réexportait un chargement de petits chevaux albanais qui n'avaient pas trouvé acquéreur à Otrante.
+
+Le lendemain, le chébec prenait la mer, et le docteur voyait s'abaisser sous l'horizon le phare de Punta di Luca, à l'extrême pointe de l'Italie, tandis que, sur la côte opposée, les monts Acrocérauniens s'effaçaient dans les brumes. Quelques jours plus tard, après une traversée sans incidents, le cap Matapan était doublé à l'extrémité de la Grèce méridionale, et le chébec arrivait au port de Smyrne.
+
+Le docteur avait succinctement raconté à Pierre cette partie de son voyage, puis aussi, comment il apprit par les journaux cette mort imprévue de sa petite fille, qui le laissait seul au monde !
+
+« Enfin, dit-il, j'étais sur cette terre de l'Asie Mineure, où, pendant tant d'années, j'allais vivre inconnu. C'est aux études de médecine, de chimie, de sciences naturelles, dont je m'étais nourri pendant ma jeunesse dans les écoles et universités de la Hongrie -- où ton père professait avec tant de renom, -- c'est à ces études que j'allais demander maintenant de suffire à mon existence.
+
+« Je fus assez heureux pour réussir, et plus promptement que je ne devais l'espérer, d'abord à Smyrne, où, pendant sept ou huit ans, je me fis une grande réputation comme médecin. Quelques cures inespérées me mirent en rapport avec les plus riches personnages de ces contrées, dans lesquelles l'art médical est encore à l'état rudimentaire. Je résolus alors de quitter cette ville. Et, comme les professeurs d'autrefois, guérissant en même temps que j'enseignais l'art de guérir, m'initiant à la thérapeutique inconnue des talebs de l'Asie Mineure et des pandits de l'Inde, je parcourus toutes ces provinces, m'arrêtant, ici quelques semaines, là quelques mois, appelé, demandé, à Karahissar, à Binder, à Adana, à Haleb, à Tripoli, à Damas, toujours précédé d'une renommée qui croissait sans cesse, et récoltant une fortune qui croissait avec ma renommée.
+
+« Mais ce n'était pas assez. Il me fallait acquérir une puissance sans bornes, telle qu'aurait pu l'avoir un de ces opulents rajahs de l'Inde, dont la science eût égalé la richesse.
+
+« Cette occasion se présenta.
+
+« Il y avait à Homs, dans la Syrie septentrionale, un homme qui se mourait d'une maladie lente. Aucun médecin jusqu'alors n'avait pu en reconnaître la nature. De là, impossibilité d'appliquer un traitement convenable. Ce personnage, nommé Faz-Rhât, avait occupé de hautes positions dans l'empire ottoman. Il n'était alors âgé que de quarante-cinq ans, et regrettait d'autant plus la vie qu'une immense fortune lui permettait d'en épuiser toutes les jouissances.
+
+« Faz-Rhât avait entendu parler de moi, car, à cette époque, ma réputation était déjà grande. Il me fit prier de venir le voir à Homs, et je me rendis à son invitation.
+
+« -- Docteur, me dit-il, la moitié de ma fortune est à toi, si tu me rends la vie !
+
+« -- Garde cette moitié de ta fortune ! lui répondis-je. Je te soignerai et te guérirai, si Dieu le permet ! »
+
+« J'étudiai attentivement ce malade que les médecins avaient abandonné. Quelques mois, au plus, c'était tout ce qu'ils lui donnaient à vivre. Mais je fus assez heureux pour obtenir un diagnostic certain. Pendant trois semaines, je restai près de Faz-Rhât, afin de suivre les effets du traitement auquel je l'avais soumis. Sa guérison fut complète. Lorsqu'il voulut s'acquitter envers moi, je ne consentis à recevoir que le prix qui me paraissait dû. Puis, je quittai Homs.
+
+« Trois ans plus tard, à la suite d'un accident de chasse, Faz-Rhât perdait la vie. Sans parents, sans descendants directs, son testament me faisait l'unique héritier de tous ses biens, dont la valeur représentative ne pouvait être estimée à moins de cinquante millions de florins.
+
+« Il y avait treize ans alors que le fugitif de Pisino s'était réfugié dans ces provinces de l'Asie Mineure. Le nom du docteur Antékirtt, déjà devenu quelque peu légendaire, courait à travers toute l'Europe. J'avais donc obtenu le résultat que je voulais. Restait à atteindre maintenant ce qui était l'unique but de ma vie.
+
+« J'avais résolu de revenir en Europe, ou tout au moins sur quelque point de la Méditerranée, vers son extrême limite. Je visitai le littoral africain, et, en la payant d'un haut prix, je me rendis acquéreur d'une île importante, riche, fertile, pouvant subvenir matériellement aux besoins d'une petite colonie, l'île Antékirtta. C'est ici, Pierre, que je suis souverain, maître absolu, roi sans sujets, mais avec un personnel qui m'est dévoué corps et âme, avec des moyens de défense qui seront redoutables quand je les aurai achevés, avec des engins de communications qui me relient à divers points du périple méditerranéen, avec une flottille d'une rapidité telle que, de cette mer, j'ai pu pour ainsi dire faire mon domaine !
+
+--- Où est située l'île Antékirtta ? demanda Pierre Bathory.
+
+--- Sur les parages de la grande Syrie, dont la réputation est détestable depuis la plus haute antiquité, à l'extrémité de cette mer que les vents du nord rendent si dangereuse, même aux navires modernes, dans le fond de ce golfe de la Sidre, qui échancre la côte africaine entre la régence de Tripolitaine et la Cyrénaïque ! »
+
+Là, en effet, au nord du groupe des îles Syrtiques, gît l'île Antékirtta. Bien des années avant, le docteur parcourait les côtes de la Cyrénaïque, Souza, l'ancien port de Cyrène, le pays de Barcah, toutes ces villes qui ont remplacé les anciennes Ptolémaïs, Bérénice, Adrianopolis, en un mot, cette antique Pentapole, autrefois grecque, macédonienne, romaine, persane, sarrasine, etc., maintenant arabe et relevant du pachalik de Tripoli. Les hasards de son voyage -- car il allait un peu où on le demandait, -- le portèrent jusqu'à ces nombreux archipels qui sont semés sur le littoral lybien, Pharos et Anthirode, les jumelles de Plinthine, Enesipte, les roches Tyndariennes, Pyrgos, Platée, Ilos, les Hyphales, les Pontiennes, les îles Blanches, et enfin les Syrtiques.
+
+Là, dans le golfe de la Sidre, à trente milles au sud-ouest du vilâyet de Ben-Ghâzi, le point le plus rapproché de la côte, cette île Antékirtta attira plus particulièrement son attention. On l'appelait ainsi, parce qu'elle est située en avant des autres groupes Syrtiques ou Kyrtiques. Le docteur, dès ce moment, eut la pensée qu'un jour il en ferait son domaine, et, comme par une prise de possession anticipée, il se donna ce nom d'Antékirtt, dont la renommée ne tarda pas à s'étendre sur tout l'Ancien Monde.
+
+Deux raisons graves lui avaient dicté ce choix : d'abord Antékirtta était suffisamment vaste -- dix-huit milles de circonférence -- pour contenir le personnel qu'il comptait y réunir ; suffisamment élevée, puisque un cône, qui la domine de huit cents pieds, permettait de surveiller le golfe jusqu'au littoral de la Cyrénaïque ; suffisamment variée en ses productions et arrosée par ses rios, pour subvenir aux besoins de quelques milliers d'habitants. En outre, elle était placée au fond de cette mer, terrible en ses tempêtes, qui, dans les temps préhistoriques, fut fatale aux Argonautes, dont Apollonius de Rhodes, Horace, Virgile, Properce, Sénèque, Valérius Flaccus, Lucain, et tant d'autres plus géographes que poètes, Polybe, Salluste, Strabon, Mela, Pline, Procope, signalèrent les effroyables dangers, en chantant ou décrivant ces Syrtes, ces « entraînantes, » véritable sens de leur nom.
+
+C'était bien le domaine qui convenait au docteur Antékirtt. Ce fut celui qu'il acquit pour une somme considérable, en toute propriété, sans obligation féodale ni d'aucune autre sorte, -- acte de cession qui fut pleinement ratifié par le Sultan et fit du possesseur d'Antékirtta un propriétaire souverain.
+
+Depuis trois ans déjà, le docteur résidait en cette île. Environ trois cents familles d'Européens ou d'Arabes, attirés par ses offres et la garantie d'une vie heureuse, y formaient une petite colonie, comprenant à peu près deux mille âmes. Ce n'étaient point des esclaves ni même des sujets, mais des compagnons dévoués à leur chef, non moins qu'à ce coin du globe terrestre devenu leur nouvelle patrie.
+
+Peu à peu, une administration régulière y fut organisée avec une milice préposée à la défense de l'île, une magistrature choisie parmi les notables, qui n'avait guère l'occasion d'exercer son mandat. Puis, sur des plans envoyés par le docteur dans les meilleurs chantiers de l'Angleterre, de la France ou de l'Amérique, on avait construit cette flottille merveilleuse, steamers, steam-yachts, goélettes ou « Electrics », destinée aux rapides excursions dans le bassin de la Méditerranée. En même temps, des fortifications commencèrent à s'élever sur Antékirtta ; mais elles n'étaient pas encore achevées, bien que le docteur pressât ces travaux, non sans de sérieuses raisons.
+
+Antékirtta avait-elle donc quelque ennemi à craindre dans les parages de ce golfe de la Sidre ? Oui ! Une secte redoutable, à vrai dire une association de pirates, n'avait pas vu sans envie et sans haine un étranger fonder cette colonie dans le voisinage du littoral lybien.
+
+Cette secte, c'était la Confrérie musulmane de Sidi-Mohammed Ben'Ali-Es-Senoùsî. En cette année (1300 de l'hégire), elle se faisait plus menaçante que jamais, et déjà son domaine géographique comptait près de trois millions d'adhérents. Ses zaouiyas, ses vilâyets, centres d'action répandus en Egypte, dans l'Empire Ottoman d'Europe et d'Asie, dans le pays des Baêlé et des Toubou, dans la Nigritie orientale, en Tunisie, en Algérie, au Maroc, dans le Sahara indépendant, jusqu'aux confins de la Nigritie occidentale, existaient en plus grand nombre dans la Tripolitaine et la Cyrénaïque. De là, un danger permanent pour les établissements européens de l'Afrique septentrionale, pour cette admirable Algérie, destinée à devenir le plus riche pays du monde, et spécialement, pour cette île Antékirtta, ainsi qu'on en pourra juger. Donc, réunir tous les moyens modernes de protection et de défense n'était qu'un acte de prudence de la part du docteur.
+
+Voilà ce que Pierre Bathory apprit dans cette conversation, qui allait l'instruire de tant de choses encore. C'était à l'île Antékirtta qu'il avait été transporté, au fond de la mer des Syrtes, comme en un des coins les plus ignorés de l'Ancien monde, à quelques centaines de lieues de Raguse, où il avait laissé deux êtres, dont le souvenir ne devait jamais le quitter, sa mère et Sava Toronthal.
+
+Puis, en quelques mots, le docteur compléta les détails qui concernaient cette seconde moitié de son existence. Pendant qu'il prenait ainsi ses dispositions pour assurer la sécurité de l'île, tandis qu'il s'occupait de mettre en valeur les richesses de son sol, de l'aménager pour les besoins matériels et moraux d'une petite colonie, il était tenu au courant de ce que devenaient ses amis d'autrefois, dont il n'avait jamais perdu la trace, -- entre autres, Mme Bathory, son fils et Borik qui avaient quitté Trieste pour venir s'établir à Raguse.
+
+Pierre apprit ainsi pourquoi la goélette *Savarèna* était arrivée à Gravosa dans ces conditions qui avaient si fort intrigué la curiosité publique, pourquoi le docteur avait rendu visite à Mme Bathory, comment et, sans que son fils en eût jamais rien su, l'argent, mis à sa disposition, avait été refusé, comment le docteur était arrivé à temps pour arracher Pierre à cette tombe dans laquelle il n'était qu'endormi d'un sommeil magnétique.
+
+« Toi, mon fils, ajouta-t-il, oui ! toi, qui, la tête perdue, n'as pas reculé devant un suicide !... »
+
+A ce mot, dans un mouvement d'indignation, Pierre eut la force de se redresser.
+
+« Un suicide !... s'écria-t-il. Avez-vous donc pu croire que je me sois frappé moi-même ?
+
+--- Pierre... un moment de désespoir !...
+
+--- Désespéré, oui ! je l'étais !... Je me croyais même abandonné de vous, l'ami de mon père, abandonné après des promesses que vous m'aviez faites et que je ne vous demandais pas !... Désespéré, oui ! et je le suis encore !... Mais au désespéré Dieu ne dit pas de mourir !... Il lui dit de vivre... pour se venger !
+
+--- Non... pour punir ! répondit le docteur. Mais, Pierre, qui donc à pu te frapper ?
+
+--- Un homme que je hais, répondit Pierre, un homme avec lequel je me suis rencontré ce soir-là, par hasard, dans un chemin désert, le long des murailles de Raguse ! Peut-être cet homme a-t-il cru que j'allais m'élancer sur lui et le provoquer !... Mais il m'a prévenu !... Il m'a frappé !... Cet homme, c'est Sarcany, c'est... »
+
+Pierre ne put achever. À la pensée de ce misérable, dans lequel il voyait maintenant le mari de Sava, son cerveau se troubla, ses yeux se fermèrent, la vie sembla se retirer de lui comme si sa blessure se fût rouverte.
+
+En un instant, le docteur l'eut ranimé, il lui eut rendu sa connaissance, et, le regardant :
+
+« Sarcany !... Sarcany ! » murmura-t-il.
+
+Il eût été nécessaire que Pierre prît quelque repos, après la secousse qu'il venait de subir. Il ne le voulut pas.
+
+« Non ! dit-il. Vous m'avez dit en commençant : Et d'abord l'histoire du docteur Antékirtt, depuis le moment où le comte Mathias Sandorf s'est précipité dans les eaux de l'Adriatique...
+
+--- Oui, Pierre.
+
+--- Il vous reste donc à m'apprendre ce que je ne sais pas encore du comte Mathias Sandorf !
+
+--- As-tu la force de m'entendre ?
+
+--- Parlez !
+
+--- Soit ! répondit le docteur. Il vaut mieux en finir avec ces secrets que tu as le droit de connaître, avec tout ce que ce passé contient de terrible, pour ne plus y jamais revenir ! Pierre, tu as pu croire que je t'avais abandonné, parce que j'avais quitté Gravosa !... Ecoute-moi donc !... Tu me jugeras ensuite !
+
+« Tu sais, Pierre, que, la veille du jour fixé pour l'exécution du jugement, mes compagnons et moi, nous avons tenté de nous échapper de la forteresse de Pisino. Mais Ladislas Zathmar fut saisi par les gardiens, au moment où il allait nous rejoindre au pied du donjon. Ton père et moi, emportés par le torrent du Buco, nous étions déjà hors de leurs atteintes.
+
+« Après avoir échappé miraculeusement aux tourbillons de la Foïba, lorsque nous prîmes pied sur le canal de Lème, nous fûmes aperçus par un misérable, qui n'hésita pas à vendre nos têtes que le gouvernement venait de mettre à prix. Découverts chez un pêcheur de Rovigno, au moment, où il se disposait à nous transporter de l'autre côté de l'Adriatique, ton père fut arrêté et ramené à Pisino. Plus heureux, je parvins à m'échapper ! Voilà ce que tu sais, mais voici ce que tu ne sais pas.
+
+« Avant la délation de cet Espagnol, nommé Carpena -- délation qui coûta au pêcheur Andréa Ferrato la liberté et la vie, quelques mois après, -- deux hommes avaient vendu le secret des conspirateurs de Trieste.
+
+--- Leurs noms ?... s'écria Pierre Bathory.
+
+--- Demande-moi d'abord comment leur trahison fut découverte ? » répondit le docteur.
+
+Et il fit rapidement le récit de ce qui s'était passé dans la cellule du donjon, il raconta comment un phénomène d'acoustique lui avait livré les noms des deux traîtres.
+
+« Leurs noms, docteur ! s'écria encore une fois Pierre Bathory. Vous ne refuserez pas de me les dire !
+
+--- Je te les dirai !
+
+--- Quels sont-ils ?
+
+--- L'un d'eux est ce comptable, qui s'était introduit comme espion dans la maison de Ladislas Zathmar ! C'est l'homme qui a voulu t'assassiner ! C'est Sarcany.
+
+--- Sarcany ! s'écria Pierre, qui retrouva assez de forces pour marcher vers le docteur. Sarcany !... Ce misérable !... Et vous le saviez !... Et vous, le compagnon d'Etienne Bathory, vous qui offriez à son fils votre protection, vous à qui j'avais confié le secret de mon amour, vous qui l'aviez encouragé, vous avez laissé cet infâme s'introduire dans la maison de Silas Toronthal, quand vous pouviez la lui fermer d'un mot !... Et, par votre silence, vous avez autorisé ce crime... oui ! ce crime !... qui a livré cette malheureuse jeune fille à ce Sarcany !
+
+--- Oui, Pierre, j'ai fait cela !
+
+--- Et pourquoi ?...
+
+--- Parce qu'elle ne pouvait devenir ta femme !
+
+--- Elle !... elle !...
+
+--- Parce que, si Pierre Bathory eût épousé mademoiselle Toronthal, c'eût été un crime plus abominable encore !
+
+--- Mais pourquoi ?... pourquoi ?... répétait Pierre, arrivé au paroxysme de l'angoisse.
+
+--- Parce que Sarcany avait un complice !... Oui ! un complice dans cette odieuse machination qui a envoyé ton père à la mort !... Et ce complice... il faut bien que tu le connaisses enfin !... c'est le banquier de Trieste, Silas Toronthal ! »
+
+Pierre avait entendu, il avait compris !... Il ne put répondre. Un spasme contractait ses lèvres. Il se fût affaissé, sans l'horreur qui paralysait et raidissait tout son corps. À travers sa pupille dilatée, on eût dit que son regard plongeait dans des ténèbres insondables.
+
+Cela ne dura que quelques secondes, pendant lesquelles le docteur se demanda avec épouvante si le patient n'allait pas succomber, après l'horrible opération qu'il lui avait fait subir !
+
+Mais c'était aussi une énergique nature que Pierre Bathory. Il parvint à maîtriser toutes les révoltes de son âme. Quelques larmes coulèrent de ses yeux !... Puis, après être retombé sur son fauteuil, il abandonna sa main à celle du docteur.
+
+« Pierre, dit celui-ci d'une voix tendre et grave, pour le monde entier, nous sommes morts tous les deux ! Maintenant, je suis seul sur terre, je n'ai plus d'amis, je n'ai plus d'enfant !... Veux-tu être mon fils ?
+
+--- Oui !... père !... » répondit Pierre Bathory.
+
+Et, on réalité, ce fut bien le sentiment paternel, uni au sentiment filial, qui se jeta dans les bras l'un de l'autre.
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 3 -- Ce qui se passait à Raguse {#chapitre-3-ce-qui-se-passait-à-raguse .calibre171 .sigil_not_in_toc}
+
+Tandis que ces faits s'accomplissaient à Antékirtta, voici quels sont les derniers événements dont Raguse fut le théâtre.
+
+Mme Bathory n'était plus alors dans cette ville. Après la mort de son fils, Borik, aidé de quelques amis, avait pu l'entraîner loin de cette maison de la rue Marinella. Pendant les premiers jours, on avait craint que la raison de la malheureuse mère ne résistât pas à ce dernier coup. Et, de fait, cette femme, si énergique qu'elle fût, donna quelques signes d'un trouble mental, dont s'effrayèrent les médecins. C'est dans ces conditions et par leurs conseils que Mme Bathory fut emmenée au petit village de Vinticello, chez un ami de sa famille. Là les soins ne devaient pas lui manquer. Mais quelle consolation eût-on pu faire accepter à cette mère, à cette épouse, deux fois atteinte dans son amour pour son mari et pour son fils ?
+
+Son vieux serviteur n'avait point voulu la quitter. Aussi, la maison de la rue Marinella bien close, l'avait-il suivie pour rester l'humble et assidu confident de tant de douleurs.
+
+Quant à Sava Toronthal, maudite par la mère de Pierre Bathory, entre eux il ne fut jamais question d'elle. Ils ignoraient même que son mariage eût été remis à une époque plus éloignée.
+
+En effet, l'état dans lequel se trouvait la jeune fille l'obligea à prendre le lit. Elle avait reçu un coup aussi inattendu que terrible. Celui qu'elle aimait était mort... mort de désespoir, sans doute !... Et c'était son corps que l'on portait au cimetière, au moment où elle quittait l'hôtel pour aller accomplir cette odieuse union !
+
+Pendant dix jours, c'est-à-dire jusqu'au 16 juillet, Sava fut dans une situation très alarmante. Sa mère ne la quitta pas. C'étaient d'ailleurs les derniers soins que dût lui donner Mme Toronthal, car elle-même allait être frappée à son tour mortellement.
+
+Pendant ces longues heures, quelles pensées s'échangèrent entre la mère et la fille ? On le devine, sans qu'il soit nécessaire d'y insister. Deux noms revenaient sans cesse au milieu des sanglots et des larmes, -- le nom de Sarcany, pour le maudire, -- celui de Pierre, qui n'était plus qu'un nom gravé sur une tombe, pour le pleurer !
+
+De ces conversations, auxquelles Silas Toronthal s'interdit de jamais prendre part, -- il évitait même de voir sa fille, -- il résulta que Mme Toronthal fit une dernière démarche auprès de son mari. Elle voulait qu'il consentît à renoncer à ce mariage, dont l'idée seule était une épouvante, une horreur, pour Sava.
+
+Le banquier demeura inébranlable dans sa résolution. Peut-être, livré à lui-même, étranger à toute pression, se fût-il rendu aux observations qui lui étaient faites et qu'il devait se faire ? Mais, dominé par son complice, plus encore qu'on ne le pourrait croire, il refusa d'entendre Mme Toronthal. Le mariage de Sava et de Sarcany était décidé, il se ferait, dès que la santé de Sava le permettrait.
+
+Il est aisé d'imaginer quelle avait été l'irritation de Sarcany, lorsque cet incident imprévu s'était produit, avec quelle colère peu dissimulée il vit ce trouble apporté dans son jeu, et de quelles obsessions il assaillit Silas Toronthal ! Ce n'était qu'un retard, sans doute, mais ce retard, s'il se prolongeait, risquait de renverser tout le système sur lequel il échafaudait son avenir. D'autre part, il n'ignorait pas que Sava ne pouvait avoir pour lui qu'une répulsion insurmontable.
+
+Et cette répulsion, que fût-elle devenue, si la jeune fille eût soupçonné que Pierre Bathory était tombé sous le poignard de l'homme qu'on lui imposait pour époux !
+
+Quant à lui, il ne pouvait que s'applaudir d'avoir eu cette occasion de faire disparaître son rival. Pas un remords, d'ailleurs, ne pénétra dans cette âme fermée à tout sentiment humain.
+
+« Il est heureux, dit-il un jour à Silas Toronthal, que ce garçon ait eu la pensée de se tuer ! Moins il en restera, de cette race des Bathory, mieux cela vaudra pour nous ! En vérité, le ciel nous protège ! »
+
+Et, en effet, que restait-il maintenant des trois familles Sandorf, Zathmar et Bathory ? Une vieille femme, dont les jours étaient comptés. Oui ! Dieu semblait les protéger, ces misérables, et il aurait porté sa protection jusqu'aux dernières limites, le jour où Sarcany serait le mari de Sava Toronthal, le maître de sa fortune !
+
+Cependant il paraît que Dieu voulait l'éprouver par la patience, car le retard apporté à ce mariage paraissait devoir se prolonger.
+
+Lorsque la jeune fille se fut relevée -- physiquement au moins -- de cette effroyable secousse, lorsque Sarcany put croire qu'il allait être question de reprendre ses projets, Mme Toronthal tomba malade à son tour. Chez cette malheureuse femme, les ressorts de la vie étaient usés. On ne s'en étonnera pas, après ce qu'avait été toute son existence depuis les événements de Trieste, lorsqu'elle avait appris à quel homme indigne elle était liée. Puis, survinrent sinon ses luttes, du moins ses démarches en faveur de Pierre, pour réparer en partie le mal fait à la famille Bathory, l'inutilité de ses prières devant l'influence de Sarcany, si inopinément revenu à Raguse.
+
+Dès les premiers jours, il fut constant que cette vie allait se briser définitivement. Quelques jours encore, c'était tout ce que les médecins pouvaient donner à Mme Toronthal. Elle se mourait d'épuisement. Aucun traitement n'eût pu la sauver, quand même Pierre Bathory fût sorti de sa tombe pour devenir le mari de sa fille !
+
+Sava put lui rendre alors tous les soins qu'elle avait reçus d'elle, et ne quitta plus son chevet ni la nuit ni le jour.
+
+Ce que Sarcany dut éprouver devant ce nouveau retard, on le comprend. De là, d'incessantes objurgations au banquier, qui n'était pas moins que lui réduit à l'impuissance.
+
+Le dénouement de cette situation ne pouvait se faire attendre.
+
+Vers le 29 juillet, c'est-à-dire quelques jours après, Mme Toronthal parut avoir retrouvé un peu de ses forces.
+
+Ce fut une fièvre ardente qui les lui donna, mais dont la violence devait l'emporter dans les quarante-huit heures.
+
+Dans cette fièvre, le délire la prit : elle se mit à divaguer, laissant échapper des phrases incompréhensibles.
+
+Un mot -- un nom qui revenait sans cesse, -- était bien fait pour surprendre Sava. C'était celui de Bathory, non pas le nom du jeune homme, mais le nom de sa mère que la malade appelait, suppliait, répétant, comme si elle eût été assaillie de remords :
+
+« Pardonnez !... madame !... pardonnez !... »
+
+Et, lorsque Mme Toronthal, dans un répit que lui laissaient les accès de fièvre, fut interrogée par la jeune fille :
+
+« Tais-toi !... Sava !... Tais-toi !... Je n'ai rien dit !... » s'écriait-elle, épouvantée.
+
+Vint la nuit du 30 au 31 juillet. Un instant, les médecins purent croire que la maladie de Mme Toronthal, après avoir atteint sa période la plus aiguë, allait commencer à décroître.
+
+La journée avait été meilleure, sans troubles cérébraux, et il y avait lieu d'être surpris d'un changement si inattendu dans l'état de la malade. La nuit même promettait d'être aussi calme que l'avait été la journée.
+
+Mais, s'il en était ainsi, c'est que Mme Toronthal, au moment de mourir, venait de sentir renaître en elle une énergie dont on l'eût crue incapable. C'est qu'après s'être mise en règle avec Dieu, elle avait pris une résolution et n'attendait plus que l'occasion de l'exécuter.
+
+Cette nuit-là, elle exigea que la jeune fille allât se reposer quelques heures. Sava, malgré tout ce qu'elle put objecter, dut obéir à sa mère, tant elle la vit décidée sur ce point.
+
+Vers onze heures du soir, Sava rentra dans sa chambre. Mme Toronthal resta seule dans la sienne. Tout dormait dans l'hôtel, où régnait ce silence qu'on a si justement nommé un « silence de mort ! »
+
+Mme Toronthal se releva alors, et cette malade, à laquelle on croyait que sa faiblesse interdisait le plus léger mouvement, eut la force, après s'être vêtus, d'aller s'asseoir devant un petit bureau.
+
+Là elle prit une feuille de papier à lettre, et, d'une main tremblante, écrivit quelques lignes seulement qui furent suivies de sa signature. Puis, elle glissa cette lettre dans une enveloppe qui fut cachetée et sur laquelle elle mit cette adresse :
+
+« Madame Bathory, rue Marinella, Stradone. -- Raguse. »
+
+Mme Toronthal, se raidissant alors contre la fatigue que ce travail lui avait causé, poussa la porte de sa chambre, descendit le grand escalier, traversa la cour de l'hôtel, ouvrit, non sans peine, la petite porte qui donnait sur la rue, et se trouva dans le Stradone. Le Stradone était sombre et désert à cette heure, car il devait être plus de minuit. Mme Toronthal, se traînant d'un pas chancelant, remonta le trottoir de gauche, pendant une cinquantaine de pas, s'arrêta devant une boîte postale, y jeta sa lettre et revint vers l'hôtel. Mais tout ce qu'elle avait retrouvé de force pour accomplir ce dernier acte de sa volonté, était épuisé, et elle tomba, sans mouvement, sur le seuil de la porte cochère. Ce fut là qu'elle fut trouvée une heure après. Ce fut là que Silas Toronthal et Sava vinrent la reconnaître. C'est de là qu'on la transporta dans sa chambre, sans qu'elle eût repris connaissance.
+
+Le lendemain, Silas Toronthal apprit à Sarcany ce qui venait de se passer. Ni l'un ni l'autre n'auraient pu soupçonner que Mme Toronthal fût allée, pendant cette nuit, mettre une lettre dans la boîte du Stradone. Mais pourquoi avait-elle quitté l'hôtel ? Ils ne purent se l'expliquer, et ce fut pour eux un grave sujet d'inquiétude.
+
+La malade languit encore pendant vingt-quatre heures. Elle ne donnait signe de vie que par quelques soubresauts convulsifs, derniers efforts d'une âme qui allait s'échapper. Sava lui avait pris la main, comme pour la retenir dans ce monde où elle allait se trouver si abandonnée ! Mais la bouche de sa mère était muette, maintenant, et le nom de Bathory ne s'échappait plus de ses lèvres. Sans doute, sa conscience tranquillisée, sa dernière volonté accomplie, Mme Toronthal n'avait plus une prière à faire ni un pardon à demander.
+
+La nuit suivante, vers trois heures du matin, pendant que Sava se trouvait seule près d'elle, la mourante fit un mouvement, et sa main vint toucher la main de sa fille.
+
+A ce contact, ses yeux fermés s'ouvrirent à demi. Puis son regard se dirigea sur Sava. Ce regard fut si interrogateur que Sava n'aurait pu s'y méprendre.
+
+« Mère... mère ! dit-elle, que veux-tu ? »
+
+Mme Toronthal fit un signe affirmatif.
+
+« Me parler ?...
+
+--- Oui ! » fit distinctement entendre Mme Toronthal.
+
+Sava s'était courbée au chevet du lit, et un nouveau signe lui indiqua de s'approcher plus près encore. Sava posa sa tête près de la tête de sa mère, qui lui dit :
+
+« Mon enfant, je vais mourir !...
+
+--- Mère... mère !
+
+--- Plus bas !... murmura Mme Toronthal, plus bas !... Que personne ne puisse m'entendre ! »
+
+Puis, après un nouvel effort :
+
+« Sava, dit-elle, j'ai à te demander pardon du mal que je t'ai fait... du mal que je n'ai pas eu le courage d'empêcher !
+
+--- Toi... mère !... Toi, m'avoir fait du mal !... Toi, me demander pardon !
+
+--- Un dernier baiser, Sava !... Oui !... Le dernier !... Cela voudra dire que tu me pardonnes ! »
+
+La jeune fille vint doucement poser ses lèvres sur le front pâle de la mourante. Celle-ci eut la force de lui passer le bras autour du cou. Se relevant alors et la regardant avec une fixité effrayante :
+
+« Sava !... dit-elle, Sava... tu n'es pas la fille de Silas Toronthal !... Tu n'es pas ma fille !... Ton père... »
+
+Elle ne put achever. Une convulsion la rejeta hors des bras de Sava, et son âme s'échappa avec ces dernières paroles.
+
+La jeune fille s'était penchée sur la morte !... Elle voulait la ranimer !... Ce fut inutile.
+
+Alors elle appela. On accourut de tout l'hôtel. Silas Toronthal arriva un des premiers dans la chambre de sa femme.
+
+En l'apercevant, Sava, prise d'un irrésistible mouvement de répulsion, recula devant cet homme qu'elle avait maintenant le droit de mépriser, de haïr, car il n'était pas son père ! La mourante l'avait dit, et l'on ne meurt pas sur un mensonge !
+
+Puis, Sava s'enfuit, épouvantée de ce que lui avait dit la malheureuse femme qui l'avait aimée comme sa fille, -- encore plus épouvantée, peut-être, de ce qu'elle n'avait pas eu le temps de lui dire.
+
+Le surlendemain, les funérailles de Mme Toronthal se firent avec ostentation. Cette foule d'amis que compte tout homme riche entoura le banquier. Près de lui marchait Sarcany, affirmant ainsi par sa présence que rien n'était changé aux projets qui devaient le faire entrer dans la famille Toronthal. C'était, en effet, son espoir ; mais s'il devait jamais se réaliser, ce ne serait pas sans qu'il eût surmonté bien des obstacles encore. Sarcany pensait, d'ailleurs, que les circonstances ne pouvaient qu'être favorables à l'accomplissement de ses projets, puisqu'elles laissaient plus complètement Sava à sa merci.
+
+Cependant le retard, provoqué par la maladie de Mme Toronthal, allait être prolongé par sa mort. Pendant le deuil de la famille, il ne pouvait être question de mariage. Les convenances exigeaient que plusieurs mois, au moins, se fussent écoulés depuis le décès.
+
+Cela, sans doute, dut vivement contrarier Sarcany, pressé d'arriver à ses fins. Quoi qu'il en eût, force lui fut de respecter les usages, mais non sans que de vives explications eussent été échangées entre Silas Toronthal et lui. Et ces discussions se terminaient toujours par cette phrase que répétait le banquier :
+
+« Je n'y puis rien, et d'ailleurs, pourvu que le mariage soit fait avant cinq mois, vous n'avez aucune raison d'être inquiet ! »
+
+Evidemment ces deux personnages se comprenaient. Toutefois, en se rendant à cette raison, Sarcany ne cessait de manifester une irritation qui amenait parfois des scènes d'une extrême violence.
+
+Tous deux, au surplus, n'avaient pas cessé d'être inquiets depuis la démarche incompréhensible, faite par Mme Toronthal la veille de sa mort. Et même, la pensée vint à Sarcany que la mourante avait pu vouloir mettre à la poste une lettre dont elle tenait à cacher la destination.
+
+Le banquier, auquel Sarcany communiqua cette idée, ne fut pas éloigné de croire qu'il en était ainsi.
+
+« Si cela est, répétait Sarcany, cette lettre nous menace directement et gravement. Votre femme a toujours soutenu Sava contre moi, elle soutenait même mon rival, et qui sait si, au moment de mourir, elle n'a pas retrouvé une énergie dont on ne la croyait pas capable pour trahir nos secrets ! Dans ce cas, ne devrions-nous pas prendre les devants et quitter une ville où, vous et moi, nous avons plus à perdre qu'à gagner ?
+
+--- Si cette lettre nous menaçait, lui fit observer Silas Toronthal, quelques jours plus tard, la menace aurait déjà produit son effet, et, jusqu'ici, rien n'est changé à notre situation ! »
+
+A cet argument, Sarcany ne savait que répondre. En effet, si la lettre de Mme Toronthal se rapportait à leurs futurs projets, il n'en était rien résulté encore, et il ne semblait pas qu'il y eût péril en la demeure. Quand le danger apparaîtrait, il serait temps d'agir.
+
+C'est ce qui arriva, mais autrement que tous deux ne devaient le supposer, quinze jours après la mort de Mme Toronthal.
+
+Depuis le décès de sa mère, Sava s'était toujours tenue à l'écart, sans même quitter sa chambre. On ne la voyait même plus aux heures des repas. Le banquier, gêné vis-à-vis d'elle, ne cherchait point un tête-à-tête qui n'eût pu que l'embarrasser. Il la laissait donc agir à son gré, et vivait de son côté dans une autre partie de l'hôtel.
+
+Plus d'une fois, Sarcany avait durement blâmé Silas Toronthal d'accepter cette situation. Par suite des habitudes prises, il n'avait plus aucune occasion de rencontrer la jeune fille. Cela ne pouvait convenir à ses desseins ultérieurs. Aussi s'en expliquait-t-il très nettement avec le banquier. Bien qu'il ne pût être question d'une célébration de mariage pendant les premiers mois de deuil, il ne voulait pas que Sava s'accoutumât à l'idée que son père et lui eussent renoncé à cette union.
+
+Enfin Sarcany se montra si impérieux, si exigeant vis-à-vis de Silas Toronthal, que celui-ci, le 16 août, fit prévenir Sava qu'il voulait lui parler le soir même. Comme il la prévenait que Sarcany désirait être présent à cet entretien, il s'attendait à un refus. Il n'en fut rien. Sava fit répondre qu'elle se tenait à ses ordres.
+
+Le soir venu, Silas Toronthal et Sarcany attendaient impatiemment Sava dans le grand salon de l'hôtel. Le premier était décidé à ne point se laisser mener, ayant pour lui les droits que donne la puissance paternelle. Le second, résolu à se contenir, à écouter plutôt qu'à parler, voulait surtout tâcher de découvrir quelles étaient les secrètes pensées de la jeune fille. Il craignait toujours qu'elle ne fût plus instruite de certaines choses qu'on ne le supposait.
+
+Sava entra dans le salon à l'heure dite. Sarcany se leva quand elle parut ; mais au salut qu'il lui fit, la jeune fille ne répondit même pas par une simple inclinaison de tête. Elle ne semblait pas l'avoir vu, ou plutôt, elle ne voulait pas le voir.
+
+Sur un signe de Silas Toronthal, Sava s'assit. Puis, froidement, la figure plus pâle encore sous ses vêtements de deuil, elle attendit qu'une demande lui eût été adressée.
+
+« Sava, dit le banquier, j'ai respecté la douleur que t'a causée la mort de ta mère en ne troublant pas ta solitude. Mais, à la suite de ces tristes événements, on se trouve nécessairement amené à traiter certaines affaires d'intérêt !... Bien que tu n'aies pas encore atteint ta majorité, il est bon que tu saches quelle part te revient dans l'héritage de...
+
+--- S'il ne s'agit que d'une question de fortune, répondit Sava, il est inutile de discuter plus longtemps. Je ne prétends à rien dans l'héritage dont vous voulez parler ! »
+
+Sarcany fit un mouvement qui pouvait indiquer de sa part un assez vif désappointement, mais aussi, peut-être, une surprise mêlée de quelque inquiétude.
+
+« Je pense, Sava, repris Silas Toronthal, que tu n'as pas bien compris la portée de tes paroles. Que tu le veuilles ou non, tu es l'héritière de madame Toronthal, ta mère, et la loi m'obligera à te rendre des comptes, lorsque tu seras majeure...
+
+--- À moins que je ne renonce à cette succession ! répondit tranquillement la jeune fille.
+
+--- Et pourquoi ?
+
+--- Parce que je n'y ai, sans doute, aucun droit ! »
+
+Le banquier se redressa sur son fauteuil. Jamais il ne se fût attendu à cette réponse. Quant à Sarcany, il ne dit rien.
+
+Pour lui, Sava jouait un jeu, et il s'attachait simplement à voir clair dans ce jeu.
+
+« Je ne sais, Sava, reprit Silas Toronthal, impatienté par les froides réparties de la jeune fille, je ne sais ce que signifient tes paroles ni ce qui a pu te les dicter ! D'ailleurs, je ne viens pas ici discuter droit et jurisprudence ! Tu es sous ma tutelle, tu n'as pas qualité pour refuser ou accepter ! Donc, tu voudras bien te soumettre à l'autorité de ton père, que tu ne contestes pas, j'imagine ?...
+
+--- Peut-être ! répondit Sava.
+
+--- Vraiment, s'écria Silas Toronthal, qui commençait à perdre quelque peu de son sang-froid, vraiment ! Mais tu parles trois ans trop tôt, Sava ! Quand tu auras atteint ta majorité, tu feras ce qu'il te conviendra de ta fortune ! Jusque-là, c'est à moi que tes intérêts sont confiés, et je les défendrai comme je l'entends !
+
+--- Soit, répondit Sava, j'attendrai.
+
+--- Et qu'attendras-tu ? répliqua le banquier. Tu oublies sans doute que ta situation va changer, dès que les convenances le permettront ! Tu as donc d'autant moins le droit de faire bon marché de ta fortune que tu n'es plus seule intéressée dans l'affaire...
+
+--- Oui !... une affaire ! répondit Sava d'un ton de mépris.
+
+--- Croyez bien, mademoiselle... crut devoir dire Sarcany, que ce mot prononcé avec le plus blessant dédain visait directement, veuillez croire qu'un sentiment plus honorable... »
+
+Sava n'eut pas même l'air de l'entendre et ne cessa de regarder le banquier, qui lui disait d'une voix irritée :
+
+« Non, pas seule... puisque la mort de ta mère n'a rien pu changer à nos projets !
+
+--- Quels projets ? demanda la jeune fille.
+
+--- Ce projet d'union que tu feins d'oublier et qui doit faire mon gendre de monsieur Sarcany !
+
+--- Etes-vous bien sûr que ce mariage fera de monsieur Sarcany votre gendre ? »
+
+L'insinuation était si directe, cette fois, que Silas Toronthal se leva pour sortir, tant il avait besoin de cacher son trouble. Mais Sarcany le retint d'un geste. Lui voulait aller jusqu'au bout, il voulait absolument savoir à quoi s'en tenir.
+
+« Ecoutez-moi, mon père, car c'est pour la dernière fois que je vous donne ce nom, dit alors la jeune fille. Ce n'est pas pour moi que monsieur Sarcany prétend m'épouser, c'est pour cette fortune dont je ne veux plus aujourd'hui ! Quelle que soit son impudence, il n'oserait me démentir ! Cependant, puisqu'il me rappelle que j'avais consenti à ce mariage, ma réponse sera facile ! Oui ! j'ai dû me sacrifier, quand j'ai pu croire que l'honneur de mon père était en jeu dans cette question ; mais mon père, vous le savez bien, ne peut être mêlé à cet odieux compromis ! Si donc vous désirez enrichir monsieur Sarcany, donnez-lui votre fortune !... C'est tout ce qu'il demande ! »
+
+La jeune fille s'était levée, et, à son tour, elle se dirigeait vers la porte.
+
+« Sava, s'écria alors Silas Toronthal, qui alla se placer devant elle, il y a dans tes paroles... une telle incohérence que je ne les comprends pas... que, sans doute, tu ne les comprends pas toi-même !... Je me demande si la mort de ta mère...
+
+--- Ma mère... oui ! c'était ma mère... ma mère par le cœur ! murmura la jeune fille.
+
+--- ... si la douleur n'a pas ébranlé ta raison, continua Silas Toronthal qui n'entendait plus que lui-même. Oui ! si tu n'es pas folle...
+
+--- Folle !
+
+--- Mais ce que j'ai résolu s'accomplira, et, avant six mois, tu seras la femme de Sarcany.
+
+--- Jamais !
+
+--- Je saurai bien t'y contraindre !
+
+--- Et de quel droit ? répondit la jeune fille avec un mouvement d'indignation qui lui échappa enfin.
+
+--- Du droit que me donne l'autorité paternelle !...
+
+--- Vous... monsieur !... Vous n'êtes pas mon père, et je ne me nomme pas Sava Toronthal ! »
+
+Sur ces derniers mots, le banquier, ne trouvant rien à répondre, recula et, sans même retourner la tête, la jeune fille sortit du salon pour regagner sa chambre.
+
+Sarcany, qui avait attentivement observé Sava pendant cet entretien, ne fut point surpris de la manière dont il venait de finir. Il l'avait bien deviné. Ce qu'il devait redouter s'était produit. Sava savait qu'aucun lien ne la rattachait à la famille Toronthal.
+
+Quant au banquier, il fut d'autant plus anéanti par ce coup imprévu qu'il n'avait plus été assez maître de lui-même pour le voir venir.
+
+Sarcany prit alors la parole, et avec sa netteté habituelle, il résuma la situation. Silas Toronthal se contentait d'écouter. Il ne pouvait qu'approuver, d'ailleurs, tant les dires de son ancien complice étaient dictés par une indiscutable logique.
+
+« Il ne faut plus compter que Sava consente jamais, volontairement du moins, à ce mariage, dit-il. Mais pour les motifs que nous connaissons, plus que jamais aussi il faut que ce mariage se fasse ! Que sait-elle de notre passé ? Rien, car elle l'eût dit ! Ce qu'elle sait, c'est qu'elle n'est pas votre fille, voilà tout ! Connaît-elle son père ? Pas davantage ! C'eût été le premier nom qu'elle nous aurait jeté à la face ! Est-elle instruite depuis longtemps de sa situation véritable vis-à-vis de vous ? Non encore, et il est probable que c'est seulement au moment de mourir que madame Toronthal aura parlé ! Mais ce qui me paraît non moins certain, c'est qu'elle n'a dû dire à Sava que ce qu'il fallait pour que celle-ci eût le droit de refuser d'obéir à l'homme qui n'est pas son père ! »
+
+Silas Toronthal approuva d'un mouvement de tête l'argumentation de Sarcany. Or, on le sait, Sarcany ne se trompait ni sur la manière dont la jeune fille avait été instruite de ces choses, ni sur l'époque depuis laquelle elle les savait, ni enfin sur ce qui lui avait été seulement révélé du secret de sa naissance.
+
+« Concluons maintenant, reprit Sarcany. Si peu que Sava sache de ce qui la concerne, et bien qu'elle ignore ce qui nous regarde dans le passé, nous sommes menacés tous les deux, vous dans l'honorable situation qui vous est faite à Raguse, moi dans les intérêts considérables que doit m'assurer ce mariage et auxquels je prétends ne pas renoncer ! Donc, ce qu'il faut faire et le plus tôt possible, le voici : Quitter Raguse, vous et moi, emmener Sava, sans qu'elle ait pu parler ni voir personne, plutôt aujourd'hui que demain, puis, ne revenir en cette ville qu'une fois le mariage accompli, et lorsque, devenue ma femme, Sava aura intérêt à se taire ! Une fois à l'étranger, elle sera si bien soustraite à toute influence que nous n'aurons rien à redouter d'elle ! Quant à la faire consentir à ce mariage, volontairement, et dans les délais qui doivent m'assurer ses avantages, cela me regarde, et Dieu me damne, si je n'y réussis pas ! »
+
+Silas Toronthal en convint : la situation était bien telle que venait de la chiffrer Sarcany. Il ne songea pas à résister. Dominé de plus en plus par son complice, il ne l'eût pu d'ailleurs. Et pourquoi l'aurait-il fait ? Pour cette jeune fille à laquelle il avait toujours inspiré une invincible répulsion, pour laquelle son cœur ne s'était jamais ouvert ?
+
+Ce soir-là, il fut bien convenu que ce projet serait mis à exécution avant même que Sava eût pu quitter l'hôtel. Puis Silas Toronthal et Sarcany se séparèrent. Et s'ils mirent une hâte extrême à l'exécution de leur projet, ils n'eurent pas tort, on va le voir.
+
+En effet, le surlendemain, Mme Bathory, accompagnée de Borik, après avoir quitté le village de Vinticello, revint pour la première fois depuis la mort de son fils à la maison de la rue Marinella. Elle avait résolu de la quitter définitivement, ainsi que cette ville, trop pleine pour elle de déchirants souvenirs, et venait faire ses préparatifs de départ.
+
+Lorsque Borik eut ouvert la porte, il trouva une lettre qui avait été déposée dans la boîte de la maison.
+
+C'était la lettre que Mme Toronthal avait mise à la poste, la veille même de sa mort, et dans des circonstances que l'on n'a point oubliées.
+
+Mme Bathory prit cette lettre, l'ouvrit, en regarda d'abord la signature, puis lut d'un trait ces quelques lignes, écrites par une main mourante, et qui renfermaient le secret de la naissance de Sava.
+
+Quelle subite association du nom de Sava et du nom de Pierre se fit dans l'esprit de Mme Bathory !
+
+« Elle !... Lui !... s'écria-t-elle. »
+
+Et, sans ajouter un mot -- elle ne l'aurait pu ! -- sans répondre à son vieux serviteur qu'elle repoussa au moment où il voulait la retenir, elle se précipita au dehors, elle descendit la rue Marinella, elle traversa le Stradone, elle ne s'arrêta que devant la porte de l'hôtel Toronthal.
+
+Comprenait-elle la portée de ce qu'elle allait faire ? Comprenait-elle que mieux eût valu agir avec moins de précipitation et par conséquent plus de prudence, dans l'intérêt même de Sava ? Non ! Elle était irrésistiblement poussée vers la jeune fille, comme si son mari Etienne Bathory, comme si son fils Pierre, sortis de leur tombe, lui eussent crié :
+
+« Sauve-la !... Sauve-la ! »
+
+Mme Bathory frappa à la porte de l'hôtel. La porte s'ouvrit. Un domestique se présenta et lui demanda ce qu'elle voulait.
+
+Mme Bathory voulait voir Sava.
+
+Mlle Toronthal n'était plus à l'hôtel.
+
+Mme Bathory voulait parler au banquier Toronthal.
+
+Le banquier était parti la veille, sans dire où il allait, et il avait emmené la jeune fille avec lui.
+
+Mme Bathory, frappée de ce dernier coup, chancela et tomba dans les bras de Borik qui venait de la rejoindre.
+
+Puis, lorsque le vieux serviteur l'eut ramenée dans la maison de la rue Marinella :
+
+« Demain, Borik, lui dit-elle, demain, nous irons ensemble au mariage de Sava et de Pierre ! »
+
+Mme Bathory avait perdu la raison.
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 4 -- Sur les parages de Malte {#chapitre-4-sur-les-parages-de-malte .calibre171 .sigil_not_in_toc}
+
+Pendant que s'accomplissaient ces derniers événements qui le touchaient de si près, Pierre Bathory voyait son état s'améliorer de jour en jour. Bientôt il n'y eut plus à s'inquiéter de sa blessure, dont la guérison était presque complète.
+
+Mais combien Pierre devait souffrir en pensant à sa mère, en pensant à Sava qu'il croyait perdue pour lui !
+
+Sa mère ?... On ne pouvait cependant la laisser sous le coup de cette fausse mort de son fils. Aussi avait-il été convenu qu'on l'en instruirait avec prudence, afin qu'elle pût le rejoindre à Antékirtta. Un des agents du docteur, à Raguse, avait ordre de ne pas la perdre de vue, en attendant l'entier rétablissement de Pierre, -- ce qui ne pouvait plus tarder.
+
+Quant à Sava, Pierre s'était condamné à ne jamais parler d'elle au docteur Antékirtt. Mais bien qu'il dût penser qu'elle était maintenant la femme de Sarcany, comment aurait-il pu l'oublier ? Est-ce qu'il avait cessé de l'aimer, quoiqu'elle fût pour lui la fille de Silas Toronthal ? Non ! Après tout, Sava était-elle donc responsable du crime de son père ? Et cependant c'était ce crime qui avait conduit Etienne Bathory à la mort ! De là, un combat qui se livrait en lui, dont Pierre seul eût pu dire quelles étaient les phases terribles et incessantes.
+
+Le docteur sentait cela. Aussi, pour donner un autre cours aux pensées du jeune homme, ne cessait-il de lui rappeler l'acte de justice auquel ils devaient concourir ensemble. Il fallait que les traîtres fussent punis, et ils le seraient. Comment arriverait-on jusqu'à eux, rien n'était décidé encore, mais on y arriverait.
+
+« Mille chemins, un but ! » répétait le docteur.
+
+Et s'il le fallait, il suivrait ces mille chemins pour l'atteindre.
+
+Pendant les derniers jours de sa convalescence, Pierre put se promener dans l'île et la visiter, soit à pied, soit en voiture. En vérité, qui ne se fût émerveillé de ce qu'était devenue cette petite colonie sous l'administration du docteur Antékirtt ?
+
+Et d'abord, on travaillait sans relâche aux fortifications qui devaient mettre à l'abri de toute attaque la ville, bâtie au pied du cône, le port et l'île elle-même. Lorsque ces travaux seraient achevés, des batteries, armées de pièces à grande portée, pourraient, en croisant leurs feux, rendre impossible l'approche de tout navire ennemi.
+
+L'électricité devait jouer un important rôle dans ce système défensif, soit pour l'inflammation des torpilles, dont le chenal était armé, soit même pour le service des pièces de batterie. Le docteur avait su obtenir les plus merveilleux résultats de cet agent auquel appartient l'avenir. Une station centrale, pourvue de moteurs à vapeur et de leurs chaudières, possédait vingt machines dynamos d'un nouveau système très perfectionné. Là se produisaient des courants que des accumulateurs spéciaux, d'une intensité extraordinaire, mettaient à la disposition de tous les services d'Antékirtta, la distribution des eaux, l'éclairage de la ville, le télégraphe et le téléphone, les déplacements par voie ferrée autour et à l'intérieur de l'île. En un mot, le docteur, servi par les sérieuses études de sa jeunesse, avait réalisé un des desiderata de la science moderne, le travail électrique pour le transport de la force à distance. Puis, grâce à cet agent d'un emploi si pratique, il avait pu construire les canots dont il a été parlé, et ces *Electrics* à vitesse excessive, qui lui permettaient de se rendre, avec la rapidité des express, d'une extrémité de la Méditerranée à l'autre.
+
+Cependant, comme la houille était indispensable aux machines à vapeur qui servaient à la production de l'électricité, il y avait toujours un stock considérable de charbon dans les magasins d'Antékirtta, et ce stock était incessamment renouvelé au moyen d'un navire, qui allait s'approvisionner directement en Angleterre.
+
+Le port, au fond duquel la petite ville s'élevait en amphithéâtre, était de formation naturelle, mais de grands travaux l'avaient amélioré. Deux jetées, un môle, un brise-lames, le rendaient très sûr, quelle que fût la direction du vent. Partout de l'eau, même à l'aplomb des quais. Donc, par tous les temps, sécurité absolue pour la flottille d'Antékirtta. Cette flottille comprenait la goélette *Savarèna,* le charbonnier à vapeur, destiné aux approvisionnements des houilles prises à Swansea et à Cardiff, un steam-yacht de sept à huit cents tonneaux de jauge, nommé le *Ferrato,* et trois *Electrics*, dont deux, aménagés en torpilleurs, qui pouvaient contribuer très utilement à la défense de l'île.
+
+Ainsi, sous l'impulsion du docteur, Antékirtta voyait ses moyens de résistance s'accroître de jour en jour. Ils le savaient bien, ces pirates de la Tripolitaine et de la Cyrénaïque ! Cependant, leur plus grand désir eût été de s'en emparer, car la possession de cette île aurait servi les projets du grand maître actuel de la confrérie du Senoûsisme, Sidi Mohammed El-Mahedî. Mais, connaissant les difficultés d'une pareille entreprise, il attendait l'occasion d'agir avec cette patience qui est l'une des maîtresses facultés de l'Arabe. Le docteur ne l'ignorait pas, et il poussait activement ses travaux de défense. Pour les réduire, quand ils seraient achevés, il faudrait employer ces modernes engins de destruction, dont les Senoûsistes ne disposaient pas encore. D'ailleurs, de dix-huit à quarante ans, les habitants de l'île étaient déjà formés en compagnies de miliciens, pourvus d'armes de précision à tir rapide, exercés aux manœuvres de l'artillerie, commandés par des chefs choisis entre les meilleurs, et cette milice, c'était une force de cinq à six cents hommes sur laquelle on pouvait compter.
+
+Si quelques colons occupaient des fermes établies dans la campagne, le plus grand nombre habitait la petite ville, qui avait reçu le nom transylvanien d'Artenak, en souvenir de ce domaine que le comte Sandorf possédait sur le revers des Carpathes. Artenak se montrait sous un très pittoresque aspect. Il y avait là quelques centaines de maisons, tout au plus. Au lieu d'être bâties sur un échiquier, à l'américaine, avec rues et avenues relevées au cordeau ou tracées au tire-ligne, elles étaient disposées, sans ordre, dominant les tumescences du sol, avec leur base dans de frais jardins, leur faîte sous de beaux ombrages, les unes de forme européenne, les autres de forme arabe, un peu pêle-mêle, le long des courants d'eau vive envoyés par les machines élévatoires -- tout cela frais, aimable, attrayant, tentateur, -- une cité au sens modeste de ce mot, dans laquelle les habitants, membres d'une même famille, pouvaient se mêler à la vie commune, en conservant le calme et l'indépendance du chez soi.
+
+Heureux ! oui, ils l'étaient ces indigènes d'Antékirtta. *Ubi bene, ibi patria*, est sans doute une devise peu patriotique ; mais on voudra bien la passer à de braves gens accourus à l'appel du docteur, qui, misérables en leurs pays d'origine, trouvaient le bonheur et l'aisance dans cette île hospitalière.
+
+Quant à la maison du docteur Antékirtt, les colons l'appelaient le Stadthaus, c'est-à-dire la maison de ville. Là demeurait, non le maître, mais le premier d'entre eux. C'était une de ces adorables habitations mauresques, avec miradores et moucharabys, patio intérieur, galeries, portiques, fontaines, salons et chambres décorés par d'habiles ornemanistes venus des provinces arabes. Pour sa construction, on avait employé les plus précieux matériaux, des marbres et des onyx, qui sortaient de cette riche montagne du Filfila, exploitée sur le golfe de Numidie, à quelques kilomètres de Philippeville, par un ingénieur aussi savant qu'artiste. Ces carbonates s'étaient merveilleusement prêtés à toutes les fantaisies de l'architecte, et, sous le puissant climat d'Afrique, ils revêtaient déjà cette nuance dorée que le soleil, comme avec un pinceau, promène au bout de ses rayons sur les pays de l'Orient.
+
+Artenak, un peu en arrière, était dominée par l'élégant clocher d'une petite église, pour laquelle la même carrière avait fourni ses marbres blancs et noirs, qui s'approprient à tous les besoins de la statuaire et de l'architecture, ses bleus turquins, ses jaunes arborisés, curieux similaires des anciens produits de Carrare et de Paros.
+
+En dehors de la ville, -- *passim, --* sur les croupes voisines, s'étageaient d'autres habitations d'allure plus indépendante, quelques villas, un petit hôpital, en une zone plus élevée de l'air, où le docteur, l'unique médecin de la colonie, comptait envoyer ses malades quand il en aurait. Puis, le long des pentes qui descendaient à la mer, d'autres jolies maisons formaient une station balnéaire. Entre autres, une des plus confortables, mais trapue comme un petit blockhaus, près de la porte du môle, aurait pu s'appeler Villa Pescade et Matifou. C'était là, en effet, qu'avaient été installés les deux inséparables, avec un saïs affecté à leur service particulier. Non ! jamais ils n'eussent osé rêver une fortune pareille !
+
+« On est bien ici ! répétait sans cesse Cap Matifou.
+
+--- Trop bien, répondait Pointe Pescade, et c'est au-dessus de notre condition ! Vois-tu, Cap Matifou, il faudrait nous instruire, aller au collège, remporter des prix de grammaire, obtenir nos brevets de capacité !
+
+--- Mais tu es instruit, Pointe Pescade ! répliquait l'Hercule. Tu sais lire, écrire, compter... »
+
+En effet, auprès de son camarade, Pointe Pescade eût passé pour un homme de science ! En réalité, le pauvre garçon ne savait que trop tout ce qui lui manquait. Où et quand l'eût-il appris, lui qui n'avait jamais fait ses classes, comme il le disait, qu'au « Lycée des Carpes de Fontainebleau ». Aussi, assidu à la bibliothèque d'Artenak, il cherchait à s'instruire, il lisait, il piochait, tandis que Cap Matifou, avec l'autorisation du docteur, remuait les sables et les roches du littoral pour y former un petit port de poche.
+
+Du reste Pierre Bathory encourageait fort Pointe Pescade, dont il avait reconnu l'intelligence peu ordinaire, à laquelle il ne manquait que la culture. Il s'était fait son professeur, il le dirigeait de façon à lui donner une instruction primaire très complète, et l'élève faisait de rapides progrès. Il y avait aussi d'autres raisons pour que Pierre se fût attaché plus intimement Pointe Pescade. Celui-ci n'était-il pas au courant de son passé ? N'avait-il pas eu pour mission de surveiller l'hôtel Toronthal ? N'était-il pas là, dans le Stradone, sur le passage de son convoi, lorsque Sava avait été emportée sans connaissance ? Plus d'une fois, Pointe Pescade avait dû faire le récit de ces douloureux événements, auxquels il avait pris une part indirecte. C'était donc à lui seul que Pierre pouvait en parler et qu'il en parlait, lorsqu'il ne pouvait plus contenir le trop plein de son cœur. De là, un lien plus étroit, bien fait pour les unir l'un à l'autre.
+
+Cependant le moment approchait où le docteur allait mettre son double plan à exécution : récompenser d'abord, punir ensuite.
+
+Ce qu'il n'avait pu faire pour Andréa Ferrato, mort, quelques mois après sa condamnation, au bagne de Stein, il aurait voulu le faire pour ses enfants. Malheureusement, quelque soin que ses agents y eussent mis, il ignorait encore ce qu'étaient devenus Luigi et sa sœur. Après la mort de leur père, tous deux avaient quitté Rovigno et l'Istrie, s'exilant pour la seconde fois. Où étaient-ils allés ? Personne n'avait pu le savoir, personne ne put le dire. C'était là un sujet de profonde affliction pour le docteur. Mais il ne renonçait pas à retrouver les enfants de l'homme qui s'était sacrifié pour lui, et, par son ordre, les recherches se poursuivaient sans relâche.
+
+Quant à Mme Bathory, Pierre n'avait qu'un désir, c'était de la faire venir à Antékirtta ; mais le docteur, voulant bénéficier de la prétendue mort de Pierre comme il bénéficiait de la sienne, lui fit comprendre la nécessité d'agir avec une extrême prudence. D'ailleurs, il voulait attendre, d'une part, que son convalescent eût recouvré assez de force pour le suivre dans la campagne qu'il allait entreprendre, et, de l'autre, -- sachant que le mariage de Sava et de Sarcany avait été reculé par la mort de Mme Toronthal, -- il était résolu à ne rien faire avant qu'il n'eût été célébré.
+
+Un de ses agents de Raguse le tenait au courant de tout ce qui s'y passait, et surveillait la maison de Mme Bathory avec autant de soin que l'hôtel du Stradone.
+
+Telle était alors la situation. Le docteur attendait impatiemment que toute cause de retard eût cessé. S'il ignorait encore ce qu'était devenu Carpena, dont on avait perdu la piste après son départ de Rovigno, Silas Toronthal et Sarcany, résidant toujours à Raguse, ne pouvaient lui échapper.
+
+Les choses étant ainsi, que l'on juge de ce que le docteur dut éprouver, quand, le 20 août, une dépêche de son agent arriva au Stadthaus par le fil de Malte à Antékirtta. Cette dépêche mentionnait, d'abord, le départ de Silas Toronthal, de Sava et de Sarcany, puis, la disparition de Mme Bathory et de Borik qui venaient de quitter Raguse, sans qu'il eût été possible de retrouver leurs traces.
+
+Le docteur n'avait plus à s'attarder. Il fit venir Pierre. Il ne lui cacha rien de ce qu'il venait d'apprendre. Quel coup ce fut pour lui ! Sa mère disparue, Sava, entraînée on ne savait où, par Silas Toronthal, et, il n'en pouvait douter, toujours aux mains de Sarcany !
+
+« Nous partirons dès demain, dit le docteur.
+
+--- Dès aujourd'hui ! s'écria Pierre. Mais où chercher ma mère ?... Où chercher ?... »
+
+Il n'acheva pas sa pensée... Le docteur Antékirtt l'avait interrompu et lui disait :
+
+« J'ignore s'il ne faut voir qu'une simple coïncidence entre ces deux faits ! Silas Toronthal et Sarcany sont-ils pour quelque chose dans la disparition de madame Bathory, nous le saurons ! Mais, c'est à ces deux misérables qu'il faut aller d'abord !
+
+--- Où les retrouver ?...
+
+--- En Sicile... peut-être ! »
+
+On s'en souvient, dans cette conversation entre Sarcany et Zirone, surpris par le comte Sandorf au donjon de Pisino, Zirone avait parlé de la Sicile comme du théâtre habituel de ses hauts faits, -- théâtre sur lequel il proposait à son compagnon de revenir un jour, si les circonstances l'exigeaient. Le docteur avait retenu ce détail, en même temps que ce nom de Zirone. Ce n'était là qu'un faible indice, sans doute, mais à défaut d'autre, il pouvait permettre de relever la piste de Sarcany et de Silas Toronthal. Le départ fut donc immédiatement décidé. Pointe Pescade et Cap Matifou, prévenus qu'ils accompagneraient le docteur, devaient se tenir prêts à le suivre. Pointe Pescade apprit alors ce qu'étaient Silas Toronthal, Sarcany et Carpena.
+
+« Trois coquins ! dit-il. Je m'en doutais ! »
+
+Puis, à Cap Matifou :
+
+« Tu vas entrer en scène, dit-il.
+
+--- Bientôt ?
+
+--- Oui, mais attends ta réplique ! »
+
+Ce fut le soir même que s'effectua le départ. Le *Ferrato,* toujours prêt à prendre la mer, ses vivres faits, ses soutes pleines, ses compas réglés, appareilla à huit heures. On compte environ neuf cent cinquante milles depuis le fond de la Grande Syrte jusqu'à la pointe méridionale de la Sicile, à l'ouvert du cap Portio di Palo. Au rapide steam-yacht, dont la vitesse moyenne dépassait dix-huit milles à l'heure, il ne fallait qu'un jour et demi pour franchir cette distance. Le *Ferrato,* ce croiseur de la marine antékirttienne, était un merveilleux bâtiment. Construit en France dans les chantiers de la Loire, il pouvait développer près de quinze cents chevaux de force effective. Ses chaudières, établies d'après le système Belleville -- système dans lequel les tubes contiennent l'eau et non la flamme, -- avaient l'avantage de consommer peu de charbon, de produire une vaporisation rapide, d'élever facilement la tension de la vapeur jusqu'à quatorze et quinze kilogrammes, sans aucun danger d'explosion. Cette vapeur, reprise à nouveau par des réchauffeurs, devenait ainsi un agent mécanique d'une puissance prodigieuse, et permettait au steam-yacht, bien qu'il fût moins long que les grands avisos des escadres européennes, de les égaler en vitesse. Il va sans dire que le *Ferrato* était aménagé avec un confort qui assurait toutes leurs aises à ses passagers. Il portait, en outre, quatre canons d'acier, se chargeant par la culasse et disposés en barbette, deux canons-revolvers Hotchkiss, deux mitrailleuses Gatlings ; de plus, à l'avant, une longue pièce de chasse qui pouvait lancer à six kilomètres un projectile conique de treize centimètres.
+
+Pour l'état-major, un capitaine, Dalmate d'origine, nommé Köstrik, un second et deux lieutenants ; pour la machine, un premier mécanicien, un second mécanicien, quatre chauffeurs et deux soutiers ; pour équipage, trente marins, dont un maître et deux quartiers-maîtres ; pour le service des chambres et de la cuisine, deux chefs et trois saïs faisant office de domestiques, -- en tout quatre officiers et quarante-trois hommes, tel était le personnel du bord.
+
+Pendant ces premières heures, la sortie du golfe de la Sidre s'accomplit dans d'assez bonnes conditions. Bien que le vent fût contraire -- une brise de nord-ouest assez fraîche -- le capitaine pût imprimer au *Ferrato* une remarquable vitesse ; mais il lui fût impossible d'utiliser sa voilure, focs, trinquettes, voiles carrées du mât de misaine, voiles auriques du grand mât et de l'artimon.
+
+Durant la nuit, le docteur et Pierre, dans les deux chambres contiguës qu'ils occupaient à bord, Pointe Pescade et Cap Matifou, dans leurs cabines de l'avant, purent reposer, sans s'inquiéter des mouvements du steam-yacht, qui roulait passablement comme tous les bons marcheurs. Pour être véridique, il faut dire que, si le sommeil ne manqua point aux deux amis, le docteur et Pierre, en proie aux plus vives inquiétudes, prirent à peine quelque repos.
+
+Le lendemain, lorsque les passagers montèrent sur le pont, plus de cent vingt milles avaient été enlevés en ces douze heures depuis le départ d'Antékirtta. La brise venait de la même direction avec une tendance à fraîchir. Le soleil s'était levé sur un horizon orageux, et l'atmosphère, déjà lourde, laissait présager une lutte prochaine des éléments.
+
+Pointe Pescade et Cap Matifou souhaitèrent le bonjour au docteur et à Pierre Bathory.
+
+« Merci, mes amis, répondit le docteur. Avez-vous bien dormi dans vos couchettes ?
+
+--- Comme des loirs qui auraient la conscience tranquille ! répliqua gaiement Pointe Pescade.
+
+--- Et Cap Matifou a-t-il fait son premier déjeuner ?
+
+--- Oui, monsieur le docteur, une soupière de café noir avec deux kilos de biscuit de mer !
+
+--- Hum !... Un peu dur, ce biscuit !
+
+--- Bah ! pour un homme qui, jadis, mangeait des cailloux... entre ses repas ! »
+
+Cap Matifou remuait doucement sa grosse tête -- manière à lui d'approuver les réponses de son camarade.
+
+Cependant le *Ferrato,* par l'ordre exprès du docteur, marchait à toute vitesse, en faisant jaillir deux écumantes colonnes d'eau sous le tranchant de son étrave.
+
+Se hâter d'ailleurs n'était que prudent. Déjà même, le capitaine Köstrik, après en avoir causé avec le docteur, se demandait s'il n'y aurait pas lieu de venir en relâche à Malte, dont on pourrait voir les feux vers huit heures du soir.
+
+En effet, l'état de l'atmosphère était de plus en plus menaçant. Malgré la brise d'ouest qui fraîchissait avec l'abaissement du soleil, les nuages montaient toujours du levant et s'étendaient alors sur les trois quarts du ciel. Au ras de la mer, c'était une bande d'un gris livide, d'une matité profonde, qui devenait d'un noir d'encre lorsqu'un rayon solaire se glissait à travers ses déchirures. Déjà quelques éclairs silencieux déchiraient cette large nuée électrique, dont la lisière supérieure s'arrondissait en pesantes volutes aux contours durement arrêtés. En même temps, comme s'il y avait lutte entre les vents de l'ouest et ceux de l'est qu'on ne sentait pas encore, mais dont la mer déséquilibrée éprouvait le contre-coup, les lames grossissaient contre la houle de fond, s'échevelaient et commençaient à déferler sur le pont du yacht. Puis, vers six heures, tout devint obscur sous cette voûte d'épaisses nues, qui couvraient l'espace. Le tonnerre grondait, et de vifs éclairs illuminaient ces lourdes ténèbres.
+
+« Liberté de manœuvre ! dit le docteur au capitaine.
+
+--- Oui ! Il le faut, monsieur le docteur, répondit le capitaine Köstrik. Sur la Méditerranée, c'est tout l'un ou tout l'autre ! L'est et l'ouest luttent à qui l'emportera, et l'orage aidant, je crains que l'avantage ne reste au premier. La mer va devenir très très dure au-delà de Gozzo ou de Malte, et il est possible que nous soyons gênés. Je ne vous propose pas d'aller relâcher à La Vallette, mais de chercher un abri jusqu'au jour sous la côte occidentale de l'une ou de l'autre île.
+
+--- Faites ce qu'il faut », répondit le docteur. Le steam-yacht se trouvait alors dans l'ouest de Malte, à une distance de trente milles environ. Sur l'île de Gozzo, située un peu au nord-ouest de celle de Malte, dont elle n'est séparée que par deux canaux étroits, formés par un îlot central, il y a un feu de premier ordre avec une portée de vingt-sept milles. Avant une heure, malgré les violences de la mer, le *Ferrato* devait être dans le rayon de ce feu. Après l'avoir relevé avec soin, sans trop rallier la terre, on pourrait suffisamment s'en rapprocher pour trouver un abri pendant quelques heures.
+
+C'est ce que fit le capitaine Köstrik, non sans avoir pris la précaution de modérer sa vitesse, afin d'éviter tout accident, soit à la coque, soit à la machine du *Ferrato.*
+
+Cependant, une heure après, le feu de Gozzo n'avait pas encore été aperçu. Impossible d'avoir connaissance de cette terre, bien que ses falaises se découpent à une assez grande hauteur.
+
+L'orage était alors dans toute sa violence. Une pluie chaude tombait par grains. La masse des vapeurs de l'horizon, maintenant bâillonnée par le vent, passait à travers l'espace avec une extrême vitesse. Entre leurs déchirures brillaient subitement quelques étoiles qui s'éteignaient aussitôt, et la queue de ces haillons, traînant jusqu'à la mer, la balayait comme d'immenses houppes. De triples éclairs, frappant les lames en trois endroits, enveloppaient parfois le steam-yacht tout entier, et les éclats de la foudre ne cessaient plus d'ébranler l'air.
+
+Jusqu'alors la situation avait été difficile : elle allait rapidement devenir inquiétante.
+
+Le capitaine Köstrik, sachant qu'il devait se trouver de vingt milles au moins dans la portée du feu de Gozzo, n'osait plus s'approcher de l'île. Il pouvait même craindre que ce ne fût la hauteur des terres qui l'empêchât de l'apercevoir. Dans ce cas, il en aurait été extrêmement près. Or, à donner sur les roches isolées qui bordent le pied de ses falaises, on se fût immédiatement perdu.
+
+Vers neuf heures et demie, le capitaine prit donc la résolution de mettre en panne sous petite vapeur. S'il ne stoppa pas complètement, du moins réduisit-il la machine à quelques tours d'hélice seulement, -- ce qu'il fallait pour que le navire ne restât pas insensible au gouvernail et présentât toujours sa joue à la lame. Dans ces conditions, il devait être et fut horriblement secoué, mais au moins ne risquait-il plus de se jeter à la côte.
+
+Cela dura trois heures, -- jusqu'à minuit environ. À ce moment, la situation s'aggrava encore.
+
+Ainsi que cela arrive fréquemment par ces temps d'orage, la lutte entre les vents opposés de l'est et de l'ouest cessa soudain. La brise revint au point du compas qu'elle avait tenu pendant le jour, avec la violence d'un coup de vent. Son impétuosité, refoulée pendant plusieurs heures par les courants contraires, reprit le dessus au milieu des éclaircies du ciel.
+
+« Un feu par tribord devant ! cria un des hommes de quart, de garde au pied du beaupré.
+
+--- La barre dessous toute ! » répondit le capitaine Köstrik, qui voulait s'éloigner de la côte.
+
+Lui aussi avait vu le feu signalé. Ses éclats intermittents indiquaient bien que c'était celui de Gozzo. Il n'était que temps de revenir en direction opposée, car les vents contraires se déchaînaient avec une incomparable furie. Le *Ferrato* n'était pas à deux milles de la pointe, au-dessus de laquelle le phare venait subitement d'apparaître.
+
+L'ordre de pousser la pression fut envoyé au mécanicien ; mais, soudain, la machine se ralentit, puis cessa de fonctionner.
+
+Le docteur, Pierre Bathory, l'équipage, tous étaient sur le pont, pressentant quelque complication grave. En effet un accident venait d'arriver. Le clapet de la pompe à air n'agissait plus, le condenseur fonctionnait mal, et, après quelques tours bruyants, comme si des détonations se fussent produites à l'arrière, l'hélice s'arrêta tout à fait.
+
+Un pareil accident était irréparable, du moins dans ces conditions. Il aurait fallu démonter la pompe, ce qui eût demandé plusieurs heures. Or, en moins de vingt minutes, drossé par ces rafales, le steam-yacht pouvait être à la côte.
+
+« Hisse la trinquette !... Hisse le grand foc !... Hisse la brigantine ! »
+
+Tels furent les ordres donnés par le capitaine Köstrik, qui ne pouvait plus disposer que de sa voilure pour se relever, -- ordres auxquels l'équipage s'empressa d'obéir en manœuvrant dans un admirable ensemble. Si Pointe Pescade, avec son agilité, si son compagnon, avec sa force prodigieuse, lui vinrent en aide, cela va sans dire. Les drisses eussent plutôt cassé que de ne pas céder aux pesées de Cap Matifou.
+
+Mais la situation du *Ferrato* n'en était pas moins très compromise. Un bateau à vapeur, avec ses formes allongées, son manque de largeur, son peu de tirant d'eau, sa voilure généralement insuffisante, n'est pas fait pour naviguer contre le vent ou biaiser avec lui. S'il lui faut courir au plus près, pour peu que la mer soit dure, il risque de manquer ses virages et de se mettre au plein.
+
+C'est ce qui menaçait le *Ferrato.* Outre qu'il éprouvait de réelles difficultés à faire de la toile, il lui était impossible de revenir dans l'ouest contre le vent. Peu à peu, poussé vers le pied des falaises, il semblait n'avoir plus qu'à choisir l'endroit où il ferait côte dans les moins mauvaises conditions. Malheureusement, par cette nuit profonde, le capitaine Köstrik ne pouvait rien reconnaître de la disposition du littoral. Il savait bien que deux canaux séparent l'île Gozzo de l'île de Malte, de chaque côté d'un îlot central, l'un le North Comino, l'autre le South Comino. Mais de trouver leur ouverture au milieu de ces ténèbres, de s'y lancer à travers cette mer furieuse pour aller chercher l'abri de la côte orientale de l'île et peut-être atteindre le port de La Vallette, était-ce possible ? Un pilote, un pratique, eussent seuls pu tenter une si périlleuse manœuvre. Et dans cette sombre atmosphère, par cette nuit de pluie et de brumailles, quel pêcheur se fût hasardé à venir jusqu'au navire en perdition.
+
+Cependant, le sifflet d'alarme du steam-yacht jetait au milieu des brouhahas du vent d'assourdissants appels, et trois coups de canon furent successivement tirés.
+
+Soudain, du côté de la terre, un point noir apparut dans les brumes. Une embarcation s'avançait vers le *Ferrato,* sa voile au bas ris. C'était, sans doute, quelque pêcheur que la tempête avait obligé à se réfugier au fond de la petite anse de Melléah. Là, son canot à l'abri des rochers, réfugié dans cette admirable grotte de Calypso, qui pourrait être comparée à la grotte de Fingal des Hébrides, il avait entendu les sifflets et le canon de détresse.
+
+Aussitôt, au risque de sa vie, cet homme n'avait pas hésité à se porter au secours du steam-yacht à demi désemparé. Si le *Ferrato* pouvait être sauvé, il ne pouvait l'être que par lui.
+
+Peu à peu l'embarcation s'approchait. Une amarre fut préparée à bord pour lui être lancée, au moment où elle accosterait. Il y eut là quelques minutes qui parurent être interminables. On n'était plus qu'à une demi-encablure des récifs.
+
+A ce moment, l'amarre fut lancée ; mais une énorme lame, soulevant l'embarcation, la précipita contre les flancs du *Ferrato.* Elle fut mise en pièces, et le pêcheur qui la montait aurait certainement péri, si Cap Matifou ne l'eût retenu, enlevé à bout de bras, déposé sur le pont, comme il aurait fait d'un enfant.
+
+Alors, sans prononcer une parole -- en aurait-il eu le temps ? -- ce pêcheur sauta sur la passerelle, saisit la roue du gouvernail, et, au moment où, son avant tourné vers les roches, le *Ferrato* allait s'y briser, il prenait du tour, il donnait dans l'étroite passe du canal de North Comino, il la traversait vent arrière, et, en moins de vingt minutes, il se retrouvait sur la côte est de Malte dans une mer plus calme. Alors, ses écoutes bordées, il longea la terre à moins d'un demi-mille. Puis, vers quatre heures du matin, lorsque les premières lueurs du jour commençaient à blanchir à l'horizon du large, il suivait le chenal de La Valette, et mouillait au quai de la Senglea, à l'entrée du port militaire.
+
+Le docteur Antékirtt monta alors sur la passerelle, et, s'adressant au jeune marin :
+
+« Vous nous avez sauvés, mon ami, dit-il.
+
+--- Je n'ai fait que mon devoir.
+
+--- Etes-vous pilote ?
+
+--- Non, je ne suis qu'un pêcheur.
+
+--- Et vous vous nommez ?...
+
+--- Luigi Ferrato ! »
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 5 -- Malte {#chapitre-5-malte .calibre171 .sigil_not_in_toc}
+
+Ainsi, c'était le fils du pêcheur de Rovigno, qui venait de dire son nom au docteur Antékirtt ! Par un hasard providentiel, c'était Luigi Ferrato, dont le courage et l'habileté venaient de sauver le steam-yacht, ses passagers, tout son équipage, d'une perte certaine !
+
+Le docteur fut sur le point de s'élancer vers Luigi pour le serrer dans ses bras... Il se retint. C'eût été le comte Sandorf qui se fût abandonné à cet élan de reconnaissance, et le comte Sandorf devait être mort pour tous, même pour le fils d'Andréa Ferrato.
+
+Mais, si Pierre Bathory était obligé à la même réserve et pour les mêmes raisons, il allait l'oublier, lorsque le docteur l'arrêta d'un regard. Puis tous deux descendirent dans le salon, où Luigi fut prié de les suivre.
+
+« Mon ami, lui demanda le docteur, êtes-vous le fils d'un pêcheur de l'Istrie, qui se nommait Andréa Ferrato ?
+
+--- Oui, monsieur, répondit Luigi.
+
+--- N'aviez-vous pas une sœur ?...
+
+--- Oui, et nous demeurons ensemble à La Vallette. -- Mais, ajouta-t-il avec une certaine hésitation, est-ce que vous avez connu mon père ?
+
+--- Votre père ! répondit le docteur. Votre père, il y a quinze ans, avait donné asile à deux fugitifs dans sa maison de Rovigno ! Ces fugitifs étaient des amis à moi que son dévouement n'a pu sauver ! Mais ce dévouement a coûté à Andréa Ferrato la liberté et la vie, puisqu'il a été envoyé au bagne de Stein où il est mort !...
+
+--- Et il y est mort, sans avoir rien regretté de ce qu'il avait fait ! » répondit Luigi.
+
+Le docteur prit la main du jeune pêcheur.
+
+« Luigi, dit-il, c'est à moi que mes amis ont donné la tâche de payer la dette de reconnaissance qu'ils avaient contractée envers votre père. Depuis bien des années, j'ai cherché à savoir ce que vous étiez devenus, votre sœur et vous, mais on avait perdu vos traces depuis votre départ de Rovigno. Que Dieu soit donc remercié de vous avoir envoyé à mon secours ! Le navire que vous avez sauvé, je lui ai donné le nom de *Ferrato* en souvenir d'Andréa !... Laissez-moi vous embrasser, mon enfant ! »
+
+Pendant que le docteur le pressait sur sa poitrine, Luigi sentit les larmes lui venir aux yeux.
+
+Devant cette touchante scène, Pierre ne put se contenir. Ce fut comme une expansion de tout son être qui l'entraîna vers ce jeune homme, ayant à peu près son âge, ce brave fils du pêcheur de Rovigno !
+
+« Et moi !... moi ! s'écria-t-il, les bras tendus.
+
+--- Vous... monsieur ?
+
+--- Moi... le fils d'Etienne Bathory ! »
+
+Le docteur pouvait-il regretter que cet aveu fût échappé à Pierre ? Non ! Luigi Ferrato saurait garder son secret, comme Pointe Pescade et Cap Matifou le gardaient eux-mêmes !
+
+Luigi fut instruit alors de tout, et apprit plus particulièrement quel but poursuivait le docteur Antékirtt. Une seule chose ne lui fut pas dite : le jeune pêcheur ne devait pas savoir qu'il était en présence du comte Mathias Sandorf.
+
+Le docteur voulut immédiatement se faire conduire auprès de Maria Ferrato. Il était impatient de la revoir, impatient surtout de connaître sa vie, -- une vie de travail et de misère, sans doute, puisque la mort d'Andréa l'avait laissée seule avec son frère à sa charge.
+
+« Oui, monsieur le docteur, répondit Luigi, débarquons à l'instant, puisque vous le voulez bien ! Maria doit être très inquiète de moi ! Voilà bientôt quarante-huit heures que je l'ai quittée pour aller pêcher dans l'anse de Melléah, et, pendant la tempête de cette nuit, elle peut craindre qu'il ne me soit arrivé malheur !
+
+--- Vous aimez bien votre sœur ? demanda le docteur Antékirtt.
+
+--- C'est ma mère et ma sœur à la fois ! » répondit Luigi.
+
+L'île de Malte, située à cent kilomètres de la Sicile, appartient-elle plutôt à l'Afrique qu'à l'Europe, bien qu'elle en soit éloignée de deux cent cinquante ? C'est une question qui a passionné les géographes. Quoi qu'il en soit, après avoir été donnée par Charles-Quint aux frères hospitaliers, chassés de Rhodes par Soliman, qui s'associèrent alors sous le nom de chevaliers de Malte, elle appartient maintenant aux Anglais, et on aurait quelque peine à la leur reprendre. Malte est une île longue de vingt-huit kilomètres, large de seize. Elle a La Vallette et ses annexes pour capitale, puis d'autres villes et villages, tels que la Cité notable ou Citta Vecchia -- sorte de ville sainte qui fut le siège de l'évêché au temps des chevaliers -- le Bosquet, Dinghi, Zébug, Itard, Berkercara, Luca, Farrugi, etc. Assez fertile dans sa partie orientale, très aride dans sa partie occidentale, elle offre un contraste frappant, qui se traduit par la densité de sa population vers l'est, -- en tout, plus de cent mille habitants.
+
+Ce que la nature a fait pour cette île en découpant dans son littoral quatre ou cinq ports, les plus beaux du monde, surpasse tout ce qu'on peut imaginer. De l'eau partout, partout des pointes, des caps, des hauteurs, prêtes à recevoir fortifications et batteries. Aussi les chevaliers en avaient-ils déjà fait une place difficile à prendre, et les Anglais, qui l'ont conservée malgré la paix d'Amiens, l'ont ils rendue imprenable. Aucun cuirassé, semble-t-il, ne saurait forcer les passes de la Grande Marse ou grand port, non plus que celles du port de la Quarantaine ou Marse Muscetto. D'ailleurs, il faudrait qu'ils pussent s'en approcher, et il y a maintenant, du côté de la mer, deux canons de cent tonnes, avec leurs appareils hydrauliques de chargement et de pointage, qui envoient un projectile de neuf cents kilos à quinze kilomètres. Avis aux puissances qui regrettent de voir entre les mains de l'Angleterre cette admirable station, commandant la Méditerranée centrale, et dans laquelle pourraient tenir toutes les flottes ou escadres du Royaume-Uni.
+
+Certainement, il y a des Anglais à Malte. On y trouve un gouverneur général, logé dans l'ancien palais du Grand Maître de l'ordre, un amiral, chef de la marine et des ports, une garnison de quatre à cinq mille hommes ; mais on y trouve aussi des Italiens qui voudraient y être chez eux, puis une population flottante, cosmopolite comme à Gibraltar, et surtout des Maltais.
+
+Les Maltais, ce sont des Africains. Dans les ports, ils conduisent leurs embarcations aux vives couleurs ; dans les rues, ils lancent leurs voitures sur des pentes vertigineuses ; dans les marchés, ils débitent fruits, légumes, viandes, poissons, sous la lampe d'une petite sainte peinturlurée, au milieu d'un assourdissant tapage. On dirait que tous les hommes se ressemblent, teint basané, cheveux noirs, quelque peu crépus, yeux ardents, taille moyenne mais robuste. On jurerait que toutes les femmes sont de la même famille, grands yeux à longs cils, cheveux foncés, mains charmantes, jambes fines, corsage souple, avec une certaine morbidesse, et la peau d'une blancheur que ne peut brunir le soleil sous la « falzetta », sorte de manteau de soie noire, à la mode tunisienne, commun à toutes les classes, et qui sert à la fois de coiffure, de mantille et même d'éventail.
+
+Les Maltais ont l'instinct mercantile. On les rencontre partout où l'on peut trafiquer. Travailleurs, économes, industrieux, sobres, mais violents, vindicatifs, jaloux ; c'est surtout dans le bas peuple qu'ils se prêtent le plus à l'étude de l'observateur. Ils parlent une sorte de patois dont le fond est arabe, reste de la conquête qui suivit la chute du Bas-Empire, langage vif, animé, pittoresque, propre aux métaphores, aux images, à la poésie. Ce sont de bons marins, quand on peut les tenir, et de hardis pêcheurs que les fréquentes tempêtes de ces mers ont familiarisés avec le danger.
+
+C'était dans cette île que Luigi exerçait maintenant son métier avec autant d'audace que s'il eût été Maltais, et c'est là qu'il demeurait depuis près de quinze ans avec sa sœur Maria Ferrato.
+
+La Vallette et ses annexes, -- a-t-il été dit. C'est qu'en réalité il y a six villes, au moins, sur les deux ports de la Grande Marse et de la Quarantaine. Floriana, La Senglea. La Cospiqua, La Vittoriosa, La Sliema, La Misida ne sont pas des faubourgs, ni même un simple assemblage de maisons habitées par la classe pauvre, mais de véritables cités, avec demeures somptueuses, hôtels, églises, dignes de la capitale qui est riche de vingt-cinq mille habitants, et dans laquelle on peut admirer ces palais qui s'appellent les « auberges » de Provence, de Castille d'Auvergne, d'Italie et de France.
+
+C'est à La Vallette que demeuraient le frère et la sœur. Il serait peut-être plus juste de dire sous La Vallette, car ils habitaient une sorte de quartier souterrain, nommé le Manderaggio, dont l'entrée se trouve sur la Strada San Marco. C'est là qu'ils avaient pu trouver un logement en rapport avec leurs faibles ressources, et c'est dans cet hypogée que Luigi conduisit le docteur et Pierre, dès que le mouillage du steam-yacht eut été terminé.
+
+Tous trois, après avoir repoussé des centaines d'embarcations qui les assaillaient de leurs offres de service, débarquèrent sur le quai. Ils franchirent alors la Porte de la Marine, encore assourdis par les carillons et sonneries de cloches, qui font planer comme une atmosphère sonore au-dessus de la capitale de Malte. Après avoir passé sous le fort à double casemate, ils remontèrent une rapide rampe, puis une étroite rue en escalier. Entre de hautes maisons à miradores verdâtres et à niches avec lampes allumées, ils arrivèrent devant la cathédrale de Saint-Jean, au milieu de la population la plus bruyante du monde.
+
+Lorsqu'ils eurent atteint le dos de cette colline, à peu près à la hauteur de la cathédrale, ils redescendirent en se dirigeant vers le port de la Quarantaine ; puis, Strada San Marco, ils s'arrêtèrent à mi-côte devant un escalier qui s'enfonçait à droite vers les profondeurs de la ville.
+
+Le Manderaggio est un quartier qui se prolonge jusque sous les remparts, avec rues étroites, où le soleil ne peut jamais pénétrer, hauts murs jaunâtres, irrégulièrement percés de mille trous, qui servent de fenêtres, les uns libres, les autres grillés. Partout, des tournants d'escaliers, descendant à de véritables cloaques, des portes basses, humides, sordides, comme aux maisons d'une Kasbah, des boyaux ravinés, des tunnels sombres, qui ne méritent même pas le nom de ruelles. Et, à toutes les ouvertures, à tous les soupiraux, sur les paliers déjetés, sur les marches branlantes, une population effroyable, des vieilles femmes à faces de sorcières, des mères à figure exsangue, anémiées par le mauvais air, des filles de tout âge, déguenillées, des garçons à demi nus, maladifs, se vautrant dans la fange, des mendiants avec toute leur variété de plaies ou difformités fructueuses, des hommes, portefaix ou pêcheurs, à physionomie farouche, capables de tous les mauvais coups à porter ou à faire, -- puis, à travers ce grouillement humain, quelques flegmatiques policemen, habitués à ce monde invraisemblable, non seulement familiarisés mais familiers avec cette tourbe ! Une vraie Cour des Miracles, enfin, mais transportée au milieu d'une substruction étrange, dont les dernières ramifications aboutissent à des soupiraux grillagés, ouverts dans l'épaisseur des courtines, au ras de ce quai de la Quarantaine, inondé de soleil et de brise marine.
+
+C'était dans une des maisons de ce quartier, au plus haut étage, que demeuraient Maria et Luigi Ferrato. Deux chambres seulement. Le docteur fut frappé de l'indigence que révélait ce pauvre logement, mais aussi de sa propreté. On y retrouvait la main de la ménagère soigneuse, qui entretenait jadis la maison du pêcheur de Rovigno.
+
+A l'entrée du docteur et de Pierre Bathory, Maria se leva. Puis, s'adressant à son frère :
+
+« Mon enfant !... mon Luigi ! » s'écria-t-elle.
+
+On comprend ce qu'avaient dû être ses angoisses pendant cette tourmente de la nuit dernière.
+
+Luigi embrassa sa sœur et lui présenta les personnes qui l'accompagnaient.
+
+Le docteur raconta en quelques mots dans quelles circonstances Luigi venait de risquer sa vie pour sauver un navire en perdition, et, en même temps, il lui nomma Pierre, le fils d'Etienne Bathory.
+
+Pendant qu'il parlait, Maria le regardait avec tant d'attention, tant d'émotion même, que le docteur put craindre un instant qu'elle n'eût deviné en lui le comte Sandorf. Mais ce ne fut qu'un éclair qui s'éteignit aussitôt dans ses yeux. Après quinze ans, comment aurait-elle reconnu celui qui n'avait été que pendant quelques heures l'hôte de son père ?
+
+La fille d'Andréa Ferrato avait alors trente-trois ans. Elle était toujours belle par la pureté des lignes de son visage, l'ardeur de ses grands yeux. Quelques cheveux blancs, mêlés à sa chevelure noire, disaient qu'elle avait plus souffert des duretés de sa vie que de sa durée. L'âge n'était pour rien dans cette blancheur précoce, due aux fatigues, aux tourments, aux douleurs éprouvées depuis la mort du pêcheur de Rovigno.
+
+« Votre avenir et celui de Luigi nous appartiennent, maintenant ! dit en terminant son récit le docteur Antékirtt. Mes amis n'étaient-ils pas les débiteurs d'Andréa Ferrato ? Vous permettez, Maria, que Luigi ne se sépare plus de nous ?
+
+--- Messieurs, répondit Maria, mon frère n'a fait que ce qu'il devait, cette nuit, en se portant à votre secours, et je remercie le ciel de lui avoir inspiré cette pensée. Il est le fils d'un homme qui n'a jamais connu qu'une chose, son devoir.
+
+--- Et nous n'en connaissons qu'une, nous aussi, répondit le docteur, c'est notre droit de payer une dette de reconnaissance aux enfants de celui que... »
+
+Il s'arrêta. Maria le regardait de nouveau, et ce regard le pénétrait tout entier. Il craignait d'en avoir trop dit.
+
+« Maria, reprit alors Pierre Bathory, vous ne voudriez pas empêcher Luigi d'être mon frère ?...
+
+--- Et vous ne refuseriez pas d'être ma fille ? » ajouta le docteur en lui tendant la main.
+
+Il fallut alors que Maria racontât sa vie depuis le départ de Rovigno, comment l'espionnage des agents de l'Autriche lui rendait l'existence insupportable, là, pourquoi elle avait eu l'idée de venir à Malte, où Luigi devait trouver à se perfectionner dans le métier de marin en continuant son métier de pêcheur, puis ce qu'avaient été ces longues années, pendant lesquelles tous deux durent lutter contre la misère, car leurs faibles ressources s'étaient promptement épuisées.
+
+Mais Luigi rivalisa bientôt d'audace et d'habileté avec les Maltais, dont la réputation n'est plus à faire. Merveilleux nageur comme eux, il eût pu se mesurer avec ce fameux Nicolo Pescei, un enfant de La Vallette, qui porta, dit-on, des dépêches de Naples à Palerme, en traversant à la nage la mer Eolienne. Aussi eut-il toute facilité pour chasser ces courlis et ces pigeons sauvages, dont il faut aller chercher les nids jusqu'au fond d'inabordables grottes que le ressac de la mer rend si dangereuses. Pêcheur audacieux, jamais son canot n'avait reculé devant un coup de vent, lorsqu'il s'agissait de tendre ses filets ou ses lignes. Et c'est dans ces conditions que, la nuit précédente, il se trouvait en relâche à l'anse de Melléah, lorsqu'il entendit les signaux du steam-yacht en détresse.
+
+Mais, à Malte, les oiseaux de mer, les poissons, les mollusques, sont si abondants que la modicité de leur prix rend la pêche peu lucrative. Malgré tout son zèle, Luigi avait bien de la peine à subvenir aux besoins du petit ménage, quoique Maria, de son côté, travaillât à quelques ouvrages de couture. Aussi avait-il fallu, pour ne pas compromettre un budget si restreint, accepter ce logement dans le Manderaggio.
+
+Pendant que Maria racontait cette histoire, Luigi, qui était entré dans sa chambre, en revint, une lettre à la main. C'étaient les quelques lignes qu'Andréa Ferrato avait écrites avant de mourir :
+
+« Maria, disait-il, je te recommande ton frère ! Il n'aura bientôt plus que toi au monde ! De ce que j'ai fait, mes enfants, je n'ai nul regret, si ce n'est de n'avoir pu réussir à sauver ceux qui s'étaient confiés à moi, même en sacrifiant ma liberté et ma vie ! Ce que j'ai fait, je le referais encore ! N'oubliez jamais votre père, qui meurt en vous envoyant ses dernières tendresses !
+
+« ANDREA FERRATO. »
+
+A cette lecture, Pierre Bathory ne chercha point à cacher son attendrissement, tandis que le docteur Antékirtt détournait la tête pour échapper aux regards de Maria.
+
+« Luigi, dit-il alors avec une brusquerie voulue, votre embarcation s'est brisée cette nuit en accostant mon yacht...
+
+--- Elle était déjà vieille, monsieur le docteur, répondit Luigi, et, pour tout autre que moi, la perte ne serait pas grande !
+
+--- Soit, Luigi, mais vous me permettrez de la remplacer par une autre, par le navire même que vous avez sauvé.
+
+--- Quoi ?...
+
+--- Voulez-vous être second à bord du *Ferrato ?* J'ai besoin d'un homme jeune, actif, bon marin !
+
+--- Accepte, Luigi, s'écria Pierre, accepte !
+
+--- Mais... ma sœur ?...
+
+--- Votre sœur sera de cette grande famille qui habite mon île Antékirtta ! répondit le docteur. Votre existence m'appartient désormais, et je la ferai si heureuse que vous ne pourrez plus rien regretter du passé, si ce n'est d'avoir perdu votre père ! »
+
+Luigi s'était jeté sur les mains du docteur, il les serrait, il les baisait, pendant, que Maria ne pouvait témoigner sa reconnaissance autrement que par des larmes.
+
+« Demain, je vous attends à bord ! » dit le docteur.
+
+Et, comme s'il n'eût plus été maître de dominer son émotion, il sortit rapidement, après avoir fait signe à Pierre de le suivre.
+
+« Ah ! lui dit-il, que c'est bon, mon fils... que c'est bon d'avoir à récompenser !
+
+--- Oui... meilleur que de punir, répondit Pierre.
+
+--- Mais il faut punir ! »
+
+Le lendemain, le docteur attendait à son bord Maria et Luigi Ferrato. Déjà, le capitaine Köstrik avait pris ses dispositions pour que les réparations fussent faites sans retard à la machine du steam-yacht. Grâce au concours de MM. Samuel Grech et Cie, agents maritimes de la Strada Levante, auxquels le navire avait été consigné, les travaux allaient marcher rapidement. Cependant ils devaient exiger de cinq à six jours, car il fallait démonter la pompe à air et le condenseur, dont quelques tuyaux fonctionnaient insuffisamment. Ce retard ne pouvait que contrarier le docteur Antékirtt, très impatient d'arriver sur la côte sicilienne. Aussi eut-il un instant la pensée de faire venir à Malte sa goélette *Savarèna*, mais il y renonça. En effet, mieux valait attendre quelques jours de plus et ne rallier la Sicile que sur un navire rapide et bien armé. Cependant, par précaution, en vue d'éventualités qui pouvaient se produire, une dépêche fut lancée par le fil sous-marin qui reliait Malte à Antékirtta. Par cette dépêche, ordre était donné à l'*Electric 2* de venir croiser immédiatement sur la côte de Sicile, dans les parages du cap Portio di Palo. Vers neuf heures du matin, une embarcation amena à bord Maria Ferrato et son frère. Tous deux furent reçus par le docteur avec les marques de la plus vive affection. Luigi fut présenté au capitaine, aux maîtres et à l'équipage avec le titre de second, -- l'officier qui remplissait ces fonctions devant passer à bord de l'*Electric 2*, dès qu'il aurait rallié la côte méridionale de Sicile.
+
+A regarder Luigi, il n'y avait point à se tromper : c'était un marin. Quant à son courage, à son audace, on savait comment il s'était conduit, trente-six heures auparavant, dans la baie de Melléah. Il fut acclamé. Puis, son ami Pierre et le capitaine Köstrik lui firent les honneurs du navire qu'il désirait visiter dans tous ses détails.
+
+Pendant ce temps, le docteur s'entretenait avec Maria et lui parlait de son frère en des termes qui devaient la toucher profondément.
+
+« Oui !... c'est tout son père ! » disait-elle.
+
+
+Le docteur n'avait point caché à Maria quels étaient les projets, dont il allait poursuivre l'exécution jusqu'à leur entier accomplissement. Une partie de ce plan se trouvait déjà réalisé, puisque les enfants d'Andréa Ferrato n'avaient plus à s'inquiéter de l'avenir. Mais retrouver Silas Toronthal et Sarcany, d'une part, de l'autre, s'emparer de Carpena, cela était à faire, cela se ferait. Pour les deux premiers, on comptait ressaisir leurs traces en Sicile. Pour le second, on chercherait.
+
+C'est alors que Maria demanda au docteur à lui parler en particulier.
+
+« Ce que j'ai à vous apprendre, dit-elle, jusqu'ici, j'ai cru devoir le cacher à mon frère. Il n'eût pu se contenir, et, sans doute, de nouveaux malheurs nous auraient frappés.
+
+--- Luigi visite en ce moment le poste de l'équipage, répondit le docteur. Descendons au salon, Maria, et là vous pourrez parler sans crainte d'être entendue ! »
+
+Lorsque la porte du salon eut été fermée, tous deux prirent place sur un divan, et Maria dit :
+
+« Carpena est ici, monsieur le docteur !
+
+--- À Malte ?
+
+--- Oui, depuis quelques jours.
+
+--- À La Vallette ?
+
+--- Dans le Manderaggio même, là où nous demeurons ! »
+
+Le docteur fut à la fois très surpris et très satisfait de ce qu'il venait d'apprendre. Puis, reprenant :
+
+« Vous ne vous trompez pas, Maria ?
+
+--- Non, je ne me trompe pas ! La figure de cet homme est restée dans mon souvenir ! Cent ans se seraient écoulés que je n'aurais pas hésité à le reconnaître !... Il est ici !
+
+--- Luigi l'ignore ?
+
+--- Oui, monsieur le docteur, et vous comprenez pourquoi j'ai voulu le lui laisser ignorer ! Il aurait été trouver ce Carpena, il l'eût provoqué, peut-être...
+
+--- Vous avez bien fait, Maria ! C'est à moi seul que cet homme appartient ! Mais pensez-vous qu'il vous ait reconnue ?
+
+--- Je ne sais, répondit Maria. Deux ou trois fois, je l'ai rencontré dans les ruelles du Manderaggio, et il s'est retourné pour me regarder avec une certaine attention défiante. S'il m'a suivie, s'il a demandé mon nom, il doit savoir qui je suis.
+
+--- Il ne vous a jamais adressé la parole ?
+
+--- Jamais.
+
+--- Et savez-vous, Maria, pourquoi il est venu à La Vallette, ce qu'il y fait depuis son arrivée ?
+
+--- Tout ce que je puis dire, c'est qu'il vit au milieu de la plus détestable population du Manderaggio. Il ne quitte pas les cabarets les plus suspects, il y recherche les coquins les plus avérés. Comme l'argent ne paraît pas lui manquer, je crois qu'il s'occupe à racoler des bandits de son espèce pour tenter quelque mauvais coup.
+
+--- Ici ?...
+
+--- Je n'ai pu le savoir, monsieur le docteur.
+
+--- Je le saurai ! »
+
+En ce moment, Pierre entra dans le salon, suivi du jeune pêcheur, et l'entretien prit fin.
+
+« Eh bien, Luigi, demanda le docteur Antékirtt, êtes-vous content de ce que vous avez vu ?
+
+--- C'est un admirable navire que le *Ferrato !* répondit Luigi.
+
+--- Je suis heureux qu'il vous plaise, Luigi, répondit le docteur, puisque vous le commanderez en second, en attendant que les circonstances en fassent de vous le capitaine !
+
+--- Oh ! monsieur...
+
+--- Mon cher Luigi, reprit Pierre, avec le docteur Antékirtt, n'oublie pas que tout arrive !
+
+--- Oui ! tout arrive, Pierre, mais dis plutôt avec l'aide de Dieu ! »
+
+Maria et Luigi prirent alors congé du docteur et de Pierre, afin de retourner à leur petit logement. Il fut convenu que Luigi ne commencerait son service que lorsque sa sœur serait installée à bord. Il ne fallait pas que Maria restât seule dans le Manderaggio, puisqu'il était possible que Carpena eût reconnu en elle la fille d'Andréa Ferrato.
+
+Lorsque le frère et la sœur furent partis, le docteur fit venir Pointe Pescade, auquel il voulait parler en présence de Pierre Bathory.
+
+Pointe Pescade arriva aussitôt, et se tint dans l'attitude d'un homme toujours prêt à recevoir un ordre, toujours prêt à l'exécuter.
+
+« Pointe Pescade, lui dit le docteur, j'ai besoin de toi.
+
+--- De moi et de Cap Matifou ?...
+
+--- De toi seul, d'abord.
+
+--- Que dois-je faire ?
+
+--- Débarquer à l'instant, te rendre au Manderaggio, un des quartiers souterrains de La Vallette, y prendre un logement quelconque, une chambre, un taudis, fût-ce dans la plus infime auberge de l'endroit.
+
+--- C'est entendu.
+
+--- Là, tu auras à surveiller les agissements d'un homme qu'il est très important de ne plus perdre de vue. Mais il faut que personne ne puisse soupçonner que nous nous connaissons ! Au besoin, tu prendras un déguisement.
+
+--- Ca, c'est mon affaire !
+
+--- Cet homme, m'a-t-on dit, reprit le docteur, cherche à embaucher les plus détestables coquins du Manderaggio à prix d'argent. Pour le compte de qui, pour quelle besogne, c'est ce qu'on ignore, et c'est ce qu'il faut que tu apprennes le plus tôt possible.
+
+--- Je l'apprendrai.
+
+--- Lorsque tu sauras à quoi t'en tenir, ne reviens pas à bord, tu pourrais être suivi. Contente-toi de mettre un mot à la poste de La Vallette, et donne-moi rendez-vous, le soir, à l'autre extrémité du faubourg de la Senglea. Tu me trouveras à ce rendez-vous.
+
+--- C'est convenu, répondit Pointe Pescade. Mais comment reconnaîtrai-je cet homme ?
+
+--- Oh ! cela ne sera pas difficile ! Tu es intelligent, mon ami, et je compte sur ton intelligence.
+
+--- Puis-je savoir au moins le nom de ce gentleman ?
+
+--- Il s'appelle Carpena ! »
+
+En entendant ce nom, Pierre s'écria :
+
+« Quoi !... Cet Espagnol est ici ?
+
+--- Oui, répondit le docteur Antékirtt, et il loge dans le quartier même où nous avons retrouvé les enfants d'Andréa Ferrato qu'il a envoyé au bagne et à la mort ! »
+
+Le docteur raconta tout ce que Maria venait de lui apprendre. Pointe Pescade comprit alors combien il était urgent de voir clair dans le jeu de l'Espagnol, qui travaillait certainement à quelque œuvre ténébreuse dans ces repaires de La Vallette.
+
+Une heure après, Pointe Pescade, quittait le bord. Pour mieux déjouer tout espionnage, au cas où il aurait été suivi, il commença par flâner dans cette longue Strada Reale, qui va du Fort Saint-Elme jusqu'à la Floriana. Puis, le soir venu, il se dirigea vers le Manderaggio.
+
+En vérité, pour racoler une bande de coquins, aussi naturellement disposés au meurtre qu'au pillage, on n'eût pu trouver mieux que ce capharnaüm de la ville souterraine. Il y avait là des gens de tous pays, sans doute, de ces misérables du Ponant et du Levant, fuyards des navires de commerce ou déserteurs des navires de guerre, mais surtout des Maltais de la plus infime classe, redoutables coupe-jarrets, ayant encore dans les veines de ce sang de pirates, qui rendit leurs ancêtres si terribles à l'époque des razzias barbaresques.
+
+Carpena, chargé de trouver une douzaine de gens déterminés -- déterminés à tout -- ne pouvait donc avoir là que l'embarras du choix. Aussi, depuis son arrivée, ne quittait-il guère les cabarets des plus basses rues du Manderaggio, où la pratique venait le trouver. Si bien que Pointe Pescade n'eut aucune peine à le reconnaître ; mais le difficile était d'apprendre pour le compte de qui l'Espagnol opérait, l'argent à la main.
+
+Evidemment, cet argent ne pouvait être le sien. Il y avait longtemps que la prime de cinq mille florins, touchée après l'affaire de Rovigno, était mangée. Carpena, chassé de l'Istrie par la réprobation publique, repoussé de toutes les salines du littoral, s'était mis à courir le monde. Son argent rapidement dissipé, de misérable qu'il était avant, il était redevenu encore plus misérable après.
+
+Ce qui n'étonnera personne, c'est qu'il était alors au service d'une redoutable association de malfaiteurs pour laquelle il recrutait un certain nombre d'affidés, afin de remplacer quelques absents dont la corde avait récemment fait justice. C'est dans ce but qu'il se trouvait à Malte, et plus spécialement au quartier du Manderaggio. En quel lieu devait-il conduire sa bande, Carpena, très défiant vis-à-vis des compagnons qu'il embauchait, se gardait bien de le dire. Ceux-ci n'y tenaient pas, d'ailleurs. Pourvu qu'on les payât comptant, pourvu qu'on leur fît entrevoir un avenir de vols et de pillages, ils seraient allés au bout du monde -- de confiance.
+
+Il faut noter ici que Carpena n'avait pas été médiocrement surpris en rencontrant Maria dans les rues du Manderaggio. Après une absence de quinze ans, il l'avait parfaitement reconnue, comme il avait été reconnu lui-même. Très contrarié d'ailleurs qu'elle fût au courant de ce qu'il était venu faire à La Vallette.
+
+Pointe Pescade devait donc agir par ruse, s'il voulait apprendre ce que le docteur avait tant d'intérêt à connaître, et ce que l'Espagnol gardait si secrètement. Cependant Carpena fut bientôt circonvenu par lui. Et comment n'eût-il pas remarqué ce jeune bandit si précoce, qui s'attachait à sa personne, s'insinuait dans son intimité, qui le prenait de haut avec cette racaille du Manderaggio, qui se vantait d'avoir déjà à son actif un dossier dont la moindre page lui eût valu la corde à Malte, la guillotine en Italie, la garotte en Espagne, qui marquait le plus profond mépris pour tous ces poltrons du quartier que la vue d'un policeman mettait mal à leur aise, -- un joli type, enfin ! Carpena, très connaisseur en ce genre, ne pouvait que l'apprécier !
+
+De ce jeu si adroitement joué, il résulta, sans doute, que Pointe Pescade était arrivé à ses fins, car, le 26 août, dans la matinée, le docteur Antékirtt reçut un petit mot qui lui donnait rendez-vous pour le soir à l'extrémité de la Senglea.
+
+Pendant ces dernières journées, le travail avait été poussé très activement à bord du *Ferrato.* Dans trois jours, au plus, ses réparations terminées, son plein de charbon fait, il pourrait reprendre la mer.
+
+Le soir même, le docteur se rendit à l'endroit indiqué par Pointe Pescade. C'était une sorte de petite place à arcades, près du chemin de ronde, à l'extrémité du faubourg.
+
+Il était huit heures. Il y avait une cinquantaine de personnes sur cette place, où se tient un marché qui n'était pas encore fermé.
+
+Le docteur Antékirtt se promenait au milieu de ces gens, hommes et femmes, presque tous d'origine maltaise, lorsqu'il sentit une main s'appuyer sur son bras.
+
+Un affreux chenapan, sordidement vêtu, coiffé d'un vieux chapeau défoncé, lui présentait un mouchoir, disant :
+
+« Voici ce que je viens de voler à Votre Excellence ! Une autre fois, qu'elle fasse mieux attention à ses poches ! »
+
+C'était Pointe Pescade, absolument méconnaissable sous son accoutrement d'emprunt.
+
+« Mauvais drôle ! dit le docteur.
+
+--- Drôle, oui !... Mauvais, non, monsieur le docteur ! »
+
+Celui-ci venait de reconnaître Pointe Pescade et ne put s'empêcher de sourire. Puis, sans autre transition :
+
+« Et Carpena ? demanda-t-il.
+
+--- Il travaille, en effet, à racoler une douzaine des plus fieffés coquins du Manderaggio.
+
+--- Pour qui ?...
+
+--- Pour le compte d'un certain Zirone ! »
+
+Le Sicilien Zirone, le compagnon de Sarcany ? Quel rapport pouvait-il y avoir entre ces misérables et Carpena ?
+
+Voici, en y réfléchissant, à quelle explication s'arrêta le docteur, et il ne se trompait pas.
+
+La trahison de l'Espagnol, après avoir amené l'arrestation des fugitifs de Pisino, n'avait pu être ignorée de Sarcany. Celui-ci l'ayant fait chercher, sans doute, et retrouvé dans le plus complet dénuement, il n'avait pas du hésiter à en faire un de ces agents que Zirone employait au service de l'association. Carpena allait donc être le premier jalon d'une piste sur laquelle le docteur ne se lancerait plus en aveugle.
+
+« Sais-tu dans quel but se fait cet embauchage ? demanda-t-il à Pointe Pescade.
+
+--- Pour une bande qui opère en Sicile !
+
+--- En Sicile ? Oui !... c'est bien cela !... Et plus spécialement ?...
+
+--- Dans les provinces de l'est, entre Syracuse et Catane ! »
+
+Décidément, la piste était retrouvée.
+
+« Comment as-tu obtenu ces renseignements ?...
+
+--- De Carpena lui-même, qui m'a pris en amitié, et que je recommande à Votre Excellence ! »
+
+Un signe de tête fut toute la réponse du docteur.
+
+« Tu peux revenir maintenant à bord, dit-il, et reprendre un vêtement plus convenable.
+
+--- Non pas, car c'est celui qui me convient !
+
+--- Et pourquoi ?
+
+--- Parce que j'ai l'honneur d'être bandit dans la troupe du susdit Zirone !
+
+--- Mon ami, répondit le docteur, prends garde ! À ce jeu-là, tu risques ta vie...
+
+--- À votre service, monsieur le docteur, dit Pointe Pescade, et je vous dois bien cela !
+
+--- Brave garçon !
+
+--- D'ailleurs, je suis quelque peu malin, sans me vanter, et ces gueux-là, je veux les fourrer dans mon sac à malice ! »
+
+Le docteur comprit que, dans ces conditions, le concours de Pointe Pescade pouvait être très utile à ses projets. C'était en jouant ce rôle que l'intelligent garçon avait conquis la confiance de Carpena, à ce point même qu'il connaissait ses secrets : il fallait le laisser faire.
+
+Après cinq minutes de conversation, le docteur et Pointe Pescade, ne voulant point être surpris l'un avec l'autre, se séparèrent. Pointe Pescade suivit ses quais de la Senglea, prit une embarcation à son extrémité sur le grand port et revint au Manderaggio.
+
+Avant qu'il y fût arrivé, le docteur Antékirtt était déjà de retour à bord du steam-yacht. Là, il mit Pierre Bathory au courant de tout ce qu'il venait d'apprendre. En même temps, il ne crut pas devoir cacher à Cap Matifou que Pointe Pescade s'était lancé dans une assez périlleuse entreprise pour le bien commun.
+
+L'Hercule hocha la tête, ouvrit et referma par trois fois ses vastes mains. Puis, l'on eût pu l'entendre se répéter à lui-même :
+
+« Qu'il ne lui manque pas un cheveu au retour, non ! pas un cheveu, ou bien... »
+
+Ces derniers mots en disaient plus que tout ce qu'aurait pu dire Cap Matifou, s'il avait eu le talent de faire de longues phrases.
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 6 -- Aux environs de Catane {#chapitre-6-aux-environs-de-catane .calibre171 .sigil_not_in_toc}
+
+Si l'homme eût été chargé de fabriquer le globe terrestre, il l'aurait sans doute monté sur un tour, il l'aurait fait mécaniquement, comme une bille de billard, sans lui laisser ni une aspérité ni une ride. Mais l'œuvre a été celle du Créateur. Aussi, sur la côte de Sicile, entre Aci-Reale et Catane, les caps, les récifs, les grottes, les roches, les montagnes ne manquent-ils pas à cet incomparable littoral.
+
+C'est en cette partie de la mer Tyrrhénienne que commence le détroit de Messine, dont la rive opposée est encadrée par les chaînes de la Calabre. Tels ce détroit, cette côte, ces monts que domine l'Etna, étaient au temps d'Homère, tels ils sont encore aujourd'hui, -- superbes ! Si la forêt dans laquelle Enée recueillit Achéménide a disparu, la grotte de Galathée, la grotte de Polyphème, les îlots des Cyclopes, et un peu plus au nord, les rochers de Charybde et de Scylla, sont toujours à leur place historique, et l'on peut mettre le pied à l'endroit même où débarqua le héros troyen, lorsqu'il vint fonder son nouveau royaume.
+
+Que le géant Polyphème ait à son actif des prouesses que l'Hercule Cap Matifou ne peut avoir au sien, il y a lieu de le reconnaître. Mais Cap Matifou a l'avantage d'être vivant, tandis que Polyphème est mort depuis trois mille ans, -- si même il a jamais existé, quoiqu'en ait dit Ulysse. Elisée Reclus fait remarquer, en effet, que, très probablement, ce cyclope célèbre fut tout simplement l'Etna, « dont le cratère brille pendant les éruptions comme un œil immense ouvert au sommet de la montagne et qui fait tomber du haut de la falaise des pans de roches qui deviennent des îlots et des écueils comme les Faraglioni. »
+
+Ces Faraglioni, situés à quelques centaines de mètres du rivage et de la route de Catane, maintenant doublée du chemin de fer de Syracuse à Messine, ce sont les anciens îlots des Cyclopes. La grotte de Polyphème n'est pas loin, et le long de toute cette côte se propage l'assourdissant vacarme que produit la mer sous ces antres basaltiques.
+
+Précisément au milieu de ces roches, dans la soirée du 29 août, deux hommes, peu sensibles au charme des souvenirs historiques, causaient de certaines choses que les gendarmes siciliens n'eussent pas été fâchés d'entendre.
+
+L'un de ces hommes, qui guettait l'arrivée de l'autre depuis quelques instants, c'était Zirone. L'autre, qui venait d'apparaître sur la route de Catane, c'était Carpena.
+
+« Enfin, te voilà ! s'écria Zirone. Tu as bien tardé ! J'ai cru vraiment que Malte avait disparu comme l'île Julia, son ancienne voisine, et que tu étais allé servir de pâture aux thonines et aux bonicous des fins fonds de la Méditerranée ! »
+
+On le voit, si quinze ans avaient passé sur la tête du compagnon de Sarcany, sa loquacité s'était maintenue, en dépit des années, aussi bien que son effronterie naturelle. Avec un chapeau sur l'oreille, une cape brunâtre sur les épaules, des jambières lacées jusqu'au genou, il avait bien l'air de ce qu'il était, de ce qu'il n'avait cessé d'être, -- un bandit.
+
+« Je n'ai pu revenir plus tôt, répondit Carpena, et c'est ce matin même que le paquebot m'a débarqué à Catane.
+
+--- Toi et tes hommes ?
+
+--- Oui.
+
+--- Combien en as-tu ?
+
+--- Une douzaine.
+
+--- Seulement ?...
+
+--- Oui, mais des bons !
+
+--- Des gens du Manderaggio ?
+
+--- Un peu de tout, et principalement des Maltais.
+
+--- Bonnes recrues, peut-être insuffisantes, répondit Zirone, car, depuis quelques mois, la besogne devient dure et coûteuse ! C'est à croire que les gendarmes pullulent maintenant en Sicile, et l'on en trouvera bientôt autant que de semelles du Pape dans les halliers ! Enfin, si ta marchandise est de bonne qualité...
+
+--- Je le crois, Zirone, répondit Carpena, et tu en jugeras à l'essai. En outre, j'amène avec moi un joli garçon, un ancien acrobate de foires, agile et futé, dont on pourrait faire une fille, au besoin, et qui, je pense, nous rendra de grands services.
+
+--- Que faisait-il à Malte ?
+
+--- Des montres, quand l'occasion s'en présentait, des mouchoirs, quand il ne pouvait attraper des montres !
+
+--- Et il se nomme ?...
+
+--- Pescador.
+
+--- Bien ! répondit Zirone. On verra à utiliser ses talents et son intelligence. Où as-tu fourré tout ce monde-là ?
+
+--- À l'auberge de Santa Grotta, au-dessus de Nicolosi.
+
+--- Et tu vas y reprendre tes fonctions d'aubergiste ?
+
+--- Dès demain...
+
+--- Non, dès ce soir, répondit Zirone, lorsque j'aurai reçu de nouvelles instructions. J'attends, ici, au passage du train de Messine, un mot qui doit m'être jeté par la portière du wagon de queue.
+
+--- Un mot de... lui ?
+
+--- Oui... de lui !... Avec son mariage qui rate toujours, répondit Zirone en riant, il m'oblige à travailler pour vivre ! Bah ! que ne ferait-on pas pour un si brave compagnon ? »
+
+En ce moment, un roulement lointain, mais qu'on ne pouvait confondre avec le murmure du ressac, se fit entendre du côté de Catane. C'était le train que Zirone attendait. Carpena et lui remontèrent alors les roches ; puis, en quelques instants, ils furent debout le long de la voie, dont aucune palissade ne défendait les abords.
+
+Deux coups de sifflet, lancés à l'entrée d'un petit tunnel, annoncèrent l'approche du train, qui ne marchait qu'à une vitesse très modérée ; bientôt, les hennissements de la locomotive s'accentuèrent, les fanaux troublèrent l'ombre de leurs deux éclats blancs, et les rails s'éclairèrent en avant d'une longue projection de lumière.
+
+Zirone, très attentif, suivait du regard le train qui se déroulait à trois pas de lui.
+
+Un peu avant que la dernière voiture fût à sa hauteur, la vitre s'abaissa, une femme passa la tête à travers la portière. Dès qu'elle eut aperçu le Sicilien à son poste, elle lança prestement une orange, qui roula sur la voie à une dizaine de pas de Zirone.
+
+Cette femme, c'était Namir, l'espionne de Sarcany. Quelques secondes après, elle avait disparu avec le train dans la direction d'Aci-Reale.
+
+Zirone alla ramasser l'orange, ou plutôt les deux moitiés d'une écorce d'orange que reliait une ficelle. L'Espagnol et lui revinrent alors s'abriter derrière une haute roche. Là, Zirone alluma une petite lanterne, fendit l'écorce de l'orange et en tira un billet où se trouvait cet avis :
+
+« Il espère vous rejoindre à Nicolosi dans cinq ou six jours. Surtout, défiez-vous d'un certain docteur Antékirtt ! »
+
+Evidemment, Sarcany avait appris à Raguse que ce mystérieux personnage, dont s'était tant préoccupée la curiosité publique, avait été reçu deux fois dans la maison de Mme Bathory. De là, une certaine inquiétude chez cet homme, habitué à se défier de tous et de tout. De là, aussi, cet avis qu'il faisait passer, sans même employer la poste et par l'entremise de Namir, à son compagnon Zirone.
+
+Celui-ci remit le billet dans sa poche, éteignit sa lanterne ; puis, s'adressant à Carpena :
+
+« Est-ce que tu as jamais entendu parler d'un docteur Antékirtt ? lui demanda-t-il.
+
+--- Non, répondit l'Espagnol, mais peut-être le petit Pescador le connaît-il, lui ! Il sait tout, ce gentil garçon !
+
+--- Nous verrons cela, reprit Zirone. -- Dis donc, Carpena, nous n'avons pas peur de voyager la nuit, n'est-ce pas ?
+
+--- Moins peur que de voyager le jour, Zirone !
+
+--- Oui... le jour il y a des gendarmes qui sont trop indiscrets ! Alors, en route ! Avant trois heures, il faut que nous soyons à l'auberge de Santa Grotta ! »
+
+Et tous deux, après avoir traversé la voie ferrée, se jetèrent dans les sentiers, bien connus de Zirone, qui allaient se perdre, à travers les contreforts de l'Etna, sur ces terrains de formation secondaire.
+
+Il y a quelque dix-huit ans, il existait en Sicile, principalement à Palerme, sa capitale, une redoutable association de malfaiteurs. Liés entre eux par une sorte de rite franc-maçonnique, ils comptaient plusieurs milliers d'adhérents. Le vol et la fraude, par tous les moyens possibles, tel était l'objectif de cette Société de la Maffia, à laquelle nombre de commerçants et d'industriels payaient une sorte de dîme annuelle pour qu'il leur fût permis d'exercer, sans trop d'ennuis, leur industrie ou leur commerce.
+
+A cette époque, Sarcany et Zirone, -- c'était avant l'affaire de la conspiration de Trieste, -- figuraient parmi les principaux affiliés de la Maffia, et non des moins zélés.
+
+Cependant, avec le progrès de toutes choses, avec une meilleure administration des villes, sinon des campagnes, cette association commença à être gênée dans ses affaires. Les dîmes et redevances s'amoindrirent. Aussi la plupart des associés se séparèrent et allèrent demander au brigandage un plus lucratif moyen d'existence.
+
+A cette époque, le régime politique de l'Italie venait de changer par suite de son unification. La Sicile, comme les autres provinces, dut subir le sort commun, se soumettre aux lois nouvelles, et, tout spécialement, au joug de la conscription. De là, des rebelles, qui ne voulurent point se conformer aux lois, et des réfractaires, qui refusèrent de servir, -- autant de gens sans scrupules, « maffiosi » ou autres, dont les bandes commencèrent à exploiter les campagnes.
+
+Zirone était précisément à la tête d'une de ces bandes, et, lorsque la partie des biens du comte Mathias Sandorf, échue à Sarcany pour prix de sa délation, eut été dévorée, tous deux vinrent reprendre leur ancienne existence, en attendant qu'une plus sérieuse occasion de refaire fortune leur fût offerte.
+
+Cette occasion s'était présentée : le mariage de Sarcany avec la fille de Silas Toronthal. On sait comment il avait échoué jusqu'alors, et dans quelles circonstances.
+
+Un pays singulièrement favorable aux exploits du brigandage, même à l'époque actuelle, que cette Sicile ! L'antique Trinacria, dans sa périphérie de sept cent vingt kilomètres, entre les pointes de ce triangle qui projette, au nord-est, le cap Faro, à l'ouest le cap de Marsala, au sud-est le cap Pessaro, renferme des chaînes de montagnes, les Pélores et les Nébrodes, un groupe volcanique indépendant, l'Etna, des cours d'eau, Giarella, Cantara, Platani, des torrents, des vallées, des plaines, des villes qui communiquent difficilement entre elles, des bourgs dont les abords sont peu aisés, des villages perdus sur des rocs presque inaccessibles, des couvents isolés dans les gorges ou sur les contreforts, enfin une quantité de refuges, dans lesquels la retraite est possible, et une infinité de criques où la mer offre mille occasions de fuir. C'est, en petit, le résumé du globe, ce morceau de terre sicilienne où se rencontre tout ce qui constitue le domaine terrestre, monts, volcans, vallées, prairies, fleuves, rivières, lacs, torrents, villes, villages, hameaux, ports, criques, promontoires, caps, écueils, brisants, -- le tout à la disposition d'une population de près de deux millions d'habitants, répartie sur une surface de vingt-six mille kilomètres carrés.
+
+Quel théâtre pourrait être mieux disposé pour les opérations du banditisme ? Aussi, bien qu'il tende à diminuer, bien que le brigand sicilien comme le brigand calabrais semblent avoir fait leur temps, qu'ils soient proscrits, -- au moins de la littérature moderne, -- enfin, bien que l'on commence à trouver le travail plus rémunérateur que le vol, il est bon que les voyageurs ne s'aventurent pas sans précautions dans ce pays, cher à Cacus et béni de Mercure.
+
+Cependant, en ces dernières années, la gendarmerie sicilienne, toujours en éveil, toujours sur pied, avait fait quelques expéditions très heureuses à travers les provinces de l'est. Plusieurs bandes, tombées dans des embuscades, avaient été en partie détruites. Entre autres, celle de Zirone qui ne comptait plus qu'une trentaine d'hommes. De là cette résolution d'infuser un peu de sang étranger à sa troupe, et plus particulièrement du sang maltais. Il savait que dans les taudis du Manderaggio qu'il avait fréquentés autrefois, les bandits inoccupés se trouvaient par centaines. Voilà pourquoi Carpena était allé à La Vallette, et s'il n'y avait recruté qu'une douzaine d'hommes, du moins, étaient-ce des hommes de choix.
+
+Qu'on ne s'étonne pas de voir l'Espagnol se montrer si dévoué à Zirone ! Le métier lui convenait ; mais, comme il était lâche par nature, il ne se mettait que le moins possible en avant dans les expéditions où les coups de fusil sont à craindre. Aussi se contentait-il de préparer les affaires, de combiner les plans, et d'exercer les fonctions de cabaretier dans cette locande de Santa Grotta, affreux coupe-gorge, perdu sur les premières rampes du volcan.
+
+Il va sans dire que si Sarcany et Zirone connaissaient de la vie de Carpena tout ce qui se rapportait à l'affaire d'Andréa Ferrato, Carpena ne savait rien de l'affaire de Trieste. Il croyait tout simplement être entré en relations avec d'honnêtes brigands, exerçant depuis bien des années « leur commerce » dans les montagnes de la Sicile.
+
+Zirone et Carpena, pendant ce trajet de huit milles italiens, depuis les roches de Polyphème jusqu'à Nicolosi, ne firent aucune mauvaise rencontre, en ce sens que pas un seul gendarme ne se montra sur leur route, ils suivaient des sentiers assez ardus, entre des champs de vignes, d'oliviers, d'orangers, de cédratiers, au milieu des bouquets de frênes, de chênes-liège et de figuiers d'Inde. Parfois, ils remontaient quelques-uns de ces lits de torrents desséchés, qui, vus du large, semblent des chemins macadamisés, dont le rouleau compresseur n'aurait pas encore écrasé les cailloux. Le Sicilien et l'Espagnol passèrent par les villages de San Giovanni et de Tramestiéri, à une altitude déjà grande au-dessus du niveau méditerranéen. Vers dix heures et demie, ils eurent atteint Nicolosi. C'est un bourg situé dans la partie centrale d'un assez vaste cirque, que flanquent au nord et à l'ouest les cônes éruptifs de Monpilieri, des Monte-Rossi et de la Serra Pizzuta.
+
+Ce bourg possède six églises, un couvent sous l'invocation de San Nicolo d'Arena, et deux auberges, -- ce qui indique surtout son importance. Mais, de ces deux auberges, Zirone et Carpena n'avaient que faire. La locande de Santa Grotta les attendait à une heure de là, dans une des gorges les plus sombres du massif etnéen. Ils y arrivèrent avant que minuit eût sonné aux clochers de Nicolosi.
+
+On ne dormait point à Santa Grotta. On soupait avec accompagnement de cris et blasphèmes. Là étaient réunis les nouveaux engagés de Carpena, auxquels un vieux de la bande, nommé Benito -- par antinomie, sans doute -- faisait les honneurs de l'endroit. Quant au reste de la bande, une quarantaine de montagnards et de réfractaires, ils étaient alors à quelque vingt milles dans l'ouest, exploitant le revers opposé de l'Etna, et devaient bientôt les rejoindre. Il n'y avait donc à Santa Grotta que la douzaine de Maltais, recrutés par l'Espagnol. Entre tous, Pescador -- autrement dit Pointe Pescade -- faisait bravement sa partie dans ce concert d'imprécations et de vantardises. Mais il écoutait, il observait, il notait, de manière à ne rien oublier de tout ce qui pouvait lui être utile. Et c'est même ainsi qu'il retint un propos que Benito lança à ses hôtes pour modérer leur tapage, un peu avant l'arrivée de Carpena et de Zirone.
+
+« Taisez-vous donc, Maltais du diable, taisez-vous donc ! On vous entendrait de Cassone, où le commissaire central, l'aimable questeur de la province, a envoyé un détachement de carabiniers ! »
+
+Menace plaisante, Cassone étant assez éloignée de Santa Grotta. Mais les nouveaux supposèrent que leurs vociférations pouvaient arriver à l'oreille des carabiniers, qui sont les gendarmes du pays. Ils modifièrent donc leurs vociférations, tout en buvant davantage de larges flasques de ce petit vin de l'Etna que Benito versait lui-même pour leur souhaiter la bienvenue. En somme, ils étaient tous plus ou moins ivres, lorsque s'ouvrit la porte de la locande.
+
+« Les jolis garçons ! s'écria Zirone en entrant, Carpena a eu la main heureuse, et je vois que Benito a bien fait les choses !
+
+--- Ces braves gens mouraient de soif ! répondit Benito.
+
+--- Et comme c'est la plus vilaine des morts, reprit Zirone en riant, tu as voulu la leur épargner ! Bien ! Qu'ils dorment maintenant ! Demain, nous ferons connaissance !
+
+--- Pourquoi attendre à demain ? dit une des nouvelles recrues.
+
+--- Parce que vous êtes trop ivres pour comprendre et obéir ! répondit Zirone.
+
+--- Ivres !... Ivres !... Pour avoir vidé quelques bouteilles de votre petit vin du crû, quand on est habitué au gin et au whisky des cabarets du Manderaggio !
+
+--- Eh ! quel est celui-là ? demanda Zirone.
+
+--- C'est le petit Pescador ! répondit Carpena.
+
+--- Eh ! quel est celui-là ? demanda Pescador à son tour, en montrant le Sicilien.
+
+--- C'est Zirone ! » répondit l'Espagnol.
+
+Zirone regarda avec attention le jeune bandit, dont Carpena lui avait fait l'éloge, et qui se présentait avec une telle désinvolture. Sans doute, il lui trouva la figure intelligente et hardie, car il fit un signe approbatif. Puis, s'adressant à Pescador :
+
+« Alors tu as bu comme les autres ?
+
+--- Plus que les autres !
+
+--- Et tu as conservé ta raison ?
+
+--- Bah ! elle ne se noie pas pour si peu !
+
+--- Dis donc, petit, reprit Zirone, Carpena m'a dit que tu pourrais peut-être me donner un renseignement dont j'ai besoin !
+
+--- Gratis ?...
+
+--- Attrape ! »
+
+Et Zirone lança une demi-piastre, que Pescador fit instantanément disparaître dans la poche de sa veste, comme un jongleur de profession eût fait d'une muscade.
+
+« Il est gentil ! dit Zirone.
+
+--- Très gentil ! répondit Pescador. -- Et de quoi s'agit-il ?
+
+--- Tu connais bien Malte ?
+
+--- Malte, et l'Italie, et l'Istrie, et la Dalmatie, et l'Adriatique ! répondit Pescador.
+
+--- Tu as voyagé ?...
+
+--- Beaucoup, mais toujours à mes frais !
+
+--- Je t'engage à ne jamais voyager autrement, parce que, quand c'est le gouvernement qui paye...
+
+--- C'est trop cher ! répondit Pescador.
+
+--- Comme tu dis ! répliqua Zirone, enchanté de ce nouveau compagnon, avec lequel on pouvait au moins causer.
+
+--- Et puis ?... reprit l'intelligent garçon.
+
+--- Et puis, voilà ! Pescador, dans tes nombreux voyages, aurais-tu quelquefois entendu parler d'un certain docteur Antékirtt ? »
+
+Malgré toute sa finesse, Pointe Pescade ne pouvait s'attendre « à celle-là ! ». Toutefois, il fut assez maître de lui pour ne rien laisser voir de sa surprise.
+
+Comment Zirone, qui n'était point à Raguse pendant la relâche de la *Savarèna,* et pas davantage à Malte pendant la relâche du *Ferrato,* avait-il pu entendre parler du docteur et connaissait-il même son nom ?
+
+Mais, avec son esprit décisif, il comprit immédiatement que sa réponse pourrait le servir et il n'hésita pas.
+
+« Le docteur Antékirtt ? répliqua-t-il. Eh ! parfaitement !... Il n'est question que de lui dans toute la Méditerranée !
+
+--- L'as-tu vu ?
+
+--- Jamais.
+
+--- Mais sais-tu ce qu'il est, ce docteur ?
+
+--- Un pauvre diable, cent fois millionnaire, dit-on, qui ne se promène jamais sans un million dans chaque poche de son veston de voyage, et il en a au moins six ! Un malheureux, qui en est réduit à faire de la médecine en amateur, tantôt sur sa goélette, tantôt sur son steam-yacht, et qui vous a des spécifiques pour les vingt-deux mille maladies dont la nature a gratifié l'espèce humaine ! »
+
+Le saltimbanque d'autrefois venait de reparaître à propos dans Pointe Pescade, et son boniment émerveillait Zirone non moins que Carpena, lequel semblait dire :
+
+« Hein ! quelle recrue ! »
+
+Pescador s'était tu, après avoir allumé une cigarette, dont la capricieuse fumée semblait lui sortir à la fois par le nez, par les yeux, même par les oreilles.
+
+« Tu dis donc que ce docteur est riche ? demanda Zirone.
+
+--- Riche à pouvoir acheter la Sicile pour s'en faire un jardin anglais ! » répondit Pescador.
+
+Puis, pensant que le moment était venu d'inspirer à Zirone l'idée de ce projet, dont il poursuivait l'exécution :
+
+« Et tenez, dit-il, capitaine Zirone, si je n'ai pas vu ce docteur Antékirtt, j'ai du moins vu un de ses yachts, car on raconte qu'il a toute une flottille pour ses promenades en mer !
+
+--- Un de ses yachts ?
+
+--- Oui, son *Ferrato !* Un bâtiment superbe, qui ferait joliment mon affaire pour faire des excursions dans la baie de Naples avec une ou deux princesses de choix !
+
+--- Où as-tu vu ce yacht ?
+
+--- À Malte, répondit Pescador.
+
+--- Et quand cela ?
+
+--- Avant-hier, à La Vallette ! Au moment où nous embarquions avec notre sergent Carpena, il était encore mouillé dans le port militaire ! Mais on disait qu'il allait partir vingt-quatre heures après nous ! »
+
+--- Pour ?...
+
+--- Eh ! précisément pour la Sicile, à destination de Catane !
+
+--- De Catane ? » répondit Zirone.
+
+Cette coïncidence entre le départ du docteur Antékirtt et l'avis qu'il avait reçu de se défier de lui, ne pouvait qu'éveiller les soupçons du compagnon de Sarcany. Pointe Pescade comprit que certaine secrète pensée s'agitait dans le cerveau de Zirone, mais laquelle ? Ne pouvant le deviner, il résolut de le pousser plus directement.
+
+Aussi, lorsque Zirone eut dit :
+
+« Que peut-il bien venir faire en Sicile, ce docteur du diable, et précisément à Catane ?
+
+--- Eh ! par sainte Agathe, il vient visiter la ville ! Il vient faire l'ascension de l'Etna ! Il vient voyager en riche voyageur qu'il est !
+
+--- Pescador, dit Zirone, qu'une certaine méfiance reprenait de temps à autre, tu as l'air d'en savoir long sur le compte de ce personnage !
+
+--- Pas plus long que je n'en ferais, si l'occasion s'en présente ! répondit Pointe Pescade.
+
+--- Que veux-tu dire ?
+
+--- Que si le docteur Antékirtt, comme cela est supposable, vient se promener sur nos terres, eh bien, il faudra que son Excellence nous paye un joli droit de passage !
+
+--- Vraiment ? répondit Zirone.
+
+--- Et si cela ne lui coûte qu'un million ou deux, c'est qu'il s'en sera tiré à bon marché ?
+
+--- Tu trouves !
+
+--- Et dans ce cas Zirone et ses amis n'auront été que de parfaits imbéciles !
+
+--- Bien ! dit Zirone en riant. Sur ce compliment à notre adresse, tu peux aller dormir !
+
+--- Ca me va, capitaine, répondit Pescador, mais je sais bien de quoi je vais rêver !
+
+--- Et de quoi ?
+
+--- Des millions du docteur Antékirtt... des rêves d'or, quoi ! »
+
+Là-dessus, Pescador, après avoir lancé la dernière bouffée de sa cigarette, alla rejoindre ses compagnons dans la grange de l'auberge, tandis que Carpena regagnait sa chambre.
+
+Et alors, le brave garçon, au lieu de dormir, se mit à classer dans son esprit tout ce qu'il venait de faire et de dire.
+
+Du moment que Zirone lui avait parlé, à son grand étonnement, du docteur Antékirtt, avait-il agi au mieux des intérêts qui lui étaient confiés ? Qu'on en juge.
+
+En venant en Sicile, le docteur espérait y rejoindre Sarcany, et, au cas où ils y seraient ensemble, Silas Toronthal, -- ce qui était possible, puisque tous deux avaient quitté Raguse. À défaut de Sarcany, il comptait se rabattre sur son compagnon, s'emparer de Zirone, puis, par récompense ou menace, l'amener à dire où se trouvaient Sarcany et Silas Toronthal. Tel était son plan : voici comment il comptait l'exécuter.
+
+Pendant sa jeunesse, le docteur avait plusieurs fois visité la Sicile et plus particulièrement la province de l'Etna. Il connaissait les diverses routes que prennent les ascensionnistes, dont la plus suivie vient passer au pied d'une maison, bâtie à la naissance du cône central, et que l'on appelle la case des Anglais, « Casa Inglese ».
+
+Or, en ce moment, la bande de Zirone, pour laquelle Carpena venait de chercher du renfort à Malte, battait la campagne sur les pentes de l'Etna. Il était donc certain que l'arrivée d'un personnage aussi fameux que le docteur Antékirtt produirait à Catane son effet habituel. Or, comme le docteur laisserait annoncer ostensiblement son intention de faire l'ascension de l'Etna, il était non moins certain que Zirone l'apprendrait, -- surtout avec le concours de Pointe Pescade. On a vu que l'entrée en matière avait même été très facile, puisque c'était Zirone qui avait interrogé Pescador sur le compte dudit docteur.
+
+Maintenant, voici le piège qui allait être tendu à Zirone, et dans lequel il y avait bien des chances que celui-ci fût pris.
+
+La veille du jour où le docteur devrait faire l'ascension du volcan, douze hommes du *Ferrato*, bien armés, se rendraient secrètement à la Casa Inglese. Le lendemain, accompagné de Luigi, de Pierre et d'un guide, le docteur quitterait Catane et suivrait la route habituelle, de manière à pouvoir atteindre la Casa Inglese vers huit heures du soir, afin d'y passer la nuit. C'est ce que font les touristes qui veulent voir se lever le soleil du haut de l'Etna sur les montagnes de la Calabre.
+
+Nul doute que Zirone, poussé par Pointe Pescade, ne cherchât à s'emparer du docteur Antékirtt, croyant n'avoir affaire qu'à lui et à ses deux compagnons. Or, lorsqu'il arriverait à la Casa Inglese, il serait reçu par les marins du *Ferrato,* et aucune résistance ne serait possible.
+
+Pointe Pescade, connaissant ce plan, avait donc heureusement profité des circonstances pour jeter dans l'esprit de Zirone cette idée de s'emparer du docteur Antékirtt, riche proie qu'il pourrait rançonner sans scrupule, et tout en tenant compte de l'avis qu'il avait reçu. D'ailleurs, puisqu'il devait se défier de ce personnage, le mieux n'était-il pas de s'assurer de lui, dût-il même perdre le prix de sa rançon ? C'est à quoi Zirone se décida, en attendant de nouvelles instructions de Sarcany. Mais, pour être plus certain de réussir, à défaut de sa bande qu'il n'avait pas tout entière sous la main, il comptait bien faire cette expédition avec les Maltais de Carpena, -- ce qui, en somme, ne pouvait inquiéter Pointe Pescade, puisque cette douzaine de malfaiteurs n'aurait pas beau jeu contre les hommes du Ferrato.
+
+Mais Zirone ne donnait jamais rien au hasard. Puisque, d'après le dire de Pescador, le steam-yacht devait arriver le lendemain, il quitta de grand matin la locande de Santa Grotta et descendit à Catane. N'étant pas connu, il pouvait y venir sans danger.
+
+Il y avait déjà quelques heures que le steam-yacht était arrivé au mouillage. Il avait pris place, -- non près des quais, toujours encombrés de navires, mais au fond d'une sorte d'avant-port, entre la jetée du nord et un énorme massif de laves noirâtres, que l'éruption de 1669 a poussé jusqu'à la mer.
+
+Déjà, au lever du jour, Cap Matifou et onze hommes de l'équipage, sous le commandement de Luigi, avaient été débarqués à Catane : puis, séparément, ils s'étaient mis en route pour la Casa Inglese.
+
+Zirone ne sut donc rien de ce débarquement, et, comme le *Ferrato* était mouillé à une encablure de terre, il ne put même pas observer ce qui se passait à bord.
+
+Vers six heures du soir, une baleinière vint déposer sur le quai deux passagers du steam-yacht. C'étaient le docteur et Pierre Bathory. Ils se dirigèrent, par la Via Stesicoro et la Strada Etnea, vers la villa Bellini, admirable jardin public, l'un des plus beaux de l'Europe peut-être, avec ses massifs de fleurs, ses rampes capricieuses, ses terrasses ombragées de grands arbres, ses eaux courantes, et ce superbe volcan, empanaché de vapeurs, qui se dresse à son horizon.
+
+Zirone avait suivi les deux passagers, ne doutant pas que l'un d'eux ne fût précisément le docteur Antékirtt. Il manœuvra même de manière à les approcher d'assez près, au milieu de cette foule que la musique avait attirée à la villa Bellini. Mais il ne put le faire, sans que le docteur et Pierre ne s'aperçussent des manœuvres de ce drôle à figure suspecte. Si c'était le Zirone en question, l'occasion était belle pour l'engager plus avant dans le piège où l'on voulait l'attirer.
+
+Aussi, vers onze heures du soir, au moment où tous deux allaient quitter le jardin pour retourner à bord, le docteur, répondant à Pierre à voix haute :
+
+« Oui, c'est entendu ! Nous partirons demain et nous irons coucher à la Casa Inglese. »
+
+Sans doute, l'espion savait ce qu'il voulait savoir, car, un instant après, il avait disparu.
+
+
+]{.calibre20}
+
+
+MATHIAS SANDORF
+
+Troisième partie
+
+
+]{.calibre20}
+
+### Chapitre 7 -- La Casa Inglese {#chapitre-7-la-casa-inglese .calibre171 .sigil_not_in_toc}
+
+Le lendemain, vers une heure de l'après-midi, le docteur et Pierre Bathory se préparèrent à quitter le bord.
+
+La baleinière reçut ses passagers ; mais avant de s'embarquer, le docteur recommanda au capitaine Köstrik de surveiller l'arrivée de l'*Electric 2*, attendu d'un instant à l'autre, et de l'envoyer au large des Farriglioni, autrement dit les roches de Polyphème. Si le plan réussissait, si Sarcany, ou tout au moins Zirone et Carpena étaient faits prisonniers, il fallait que ce rapide engin fût prêt à les transporter à Antékirtta, où le docteur voulait tenir en son pouvoir les traîtres de Trieste et de Rovigno.
+
+La baleinière déborda. En quelques minutes, elle eut atteint un des escaliers des quais de Catane. Le docteur Antékirtt et Pierre étaient vêtus comme il convient à des ascensionnistes, obligés d'affronter une température qui peut tomber à sept ou huit degrés au-dessous de zéro, quand, au niveau de la mer, elle est de trente au-dessus. Un guide, pris à la section du Club Alpin, 17*,* via Lincoln, les attendait avec des chevaux qui devaient être remplacés à Nicolosi par des mulets, excellentes bêtes au pied sûr et infatigable.
+
+La ville de Catane, dont la largeur est assez médiocre, si on la compare à sa longueur, fut traversée rapidement. Rien n'indiqua au docteur qu'il fût espionné et suivi. Pierre et lui, après avoir pris la route de Belvédère, commencèrent à s'élever sur les premières rampes du massif etnéen, auquel les Siciliens donnent le nom de Mongibello, et dont le diamètre ne mesure pas moins de vingt-cinq milles.
+
+La route était naturellement accidentée et sinueuse. Elle se détournait souvent pour éviter des coulées de lave, des roches basaltiques, dont la solidification remonte à des millions d'années, des ravins à sec que le printemps transforme en torrents impétueux, -- le tout au milieu d'une région boisée, oliviers, orangers, caroubiers, frênes, vignes aux longs sarments qui s'accrochent à toutes les branches voisines. C'était la première des trois zones dont sont formés les divers étages du volcan, ce « mont de la Fournaise », traduction du mot Etna pour les Phéniciens, « ce clou de la terre et ce pilier du ciel » pour les géologues d'une époque à laquelle la science géologique n'existait pas encore.
+
+Après deux heures, pendant une halte de quelques minutes plus nécessaire aux montures qu'à leurs cavaliers, le docteur et Pierre purent apercevoir sous leurs pieds toute la ville de Catane, cette superbe rivale de Palerme, qui ne compte pas moins de quatre vingt-cinq mille âmes. D'abord, la ligne de ses principales rues, percées parallèlement aux quais, les clochers et les dômes de ces cent églises, ses nombreux et pittoresques couvents, ses maisons d'un style assez prétentieux du XVII^e^ siècle, -- le tout enserré dans la plus charmante ceinture d'arbres verts que jamais cité ait nouée autour de sa taille. Puis, plus en avant, c'était le port, auquel l'Etna s'est chargé de construire des digues naturelles, après l'avoir en partie comblé dans cette épouvantable éruption de 1669, qui détruisit quatorze villes et villages et fit dix-huit mille victimes, en déversant sur la campagne plus d'un milliard de mètres cubes de lave.
+
+Du reste, si l'Etna est moins agité en ce dix-neuvième siècle, il a bien acquis quelque droit au repos. On compte, en effet, plus de trente éruptions depuis l'ère chrétienne. Que la Sicile n'y ait point succombé, cela prouve que sa charpente est solide. Il faut observer, d'ailleurs, que le volcan ne s'est pas créé un cratère permanent. Il en change à sa fantaisie. La montagne crève à l'endroit où lui pousse un de ces abcès ignivomes par lesquels s'épanche toute la matière lavique accumulée dans ses flancs. De là, cette grande quantité de petits volcans, les Monte-Rossi, double montagne, formée en trois mois sur cent trente-sept mètres de haut par les sables et scories de 1669, Frumento, Simoni, Stornello, Crisinco, semblables à des clochetons autour d'un dôme de cathédrale, sans compter ces cratères de 1809, 1811, 1819, 1838, 1852, 1865, 1879, dont les entonnoirs trouent les flancs du cône central comme des alvéoles de ruche.
+
+Après avoir traversé le hameau de Belvédère, le guide prit un sentier plus court, afin de gagner le chemin de Tramestieri près de celui de Nicolosi. C'était toujours la première zone cultivée du massif, qui s'étend à peu près jusqu'à ce bourg, à deux mille, cent vingt pieds d'altitude. Il était environ quatre heures de l'après-midi, quand Nicolosi apparut, sans que les excursionnistes eussent fait aucune mauvaise rencontre sur les quinze kilomètres qui les séparaient de Catane, ni en loups, ni en sangliers. Il y avait encore vingt kilomètres à franchir avant d'atteindre la Casa Inglese.
+
+« Combien de temps Votre Excellence veut-elle rester ici ? demanda le guide.
+
+--- Le moins possible, répondit le docteur, et de manière à arriver ce soir vers neuf heures.
+
+--- Eh bien, quarante minutes ?...
+
+--- Soit, quarante minutes ! »
+
+Et ce fut assez pour expédier un repas sommaire dans une des deux auberges du bourg, qui relèvent un peu la réputation culinaire des locandes de la Sicile. Ceci soit dit à l'honneur des trois mille habitants de Nicolosi, y compris les mendiants qui y pullulent. Un morceau de chevreau, des fruits, raisins, oranges et grenades, du vin de San Placido, récolté aux environs de Catane, il y a bien des villes plus importantes de l'Italie, dans lesquelles un hôtelier serait fort gêné d'en offrir autant. Avant cinq heures, le docteur, Pierre et le guide, montés sur leurs mulets, gravissaient le second étage du massif, la zone forestière. Ce n'est pas que les arbres y soient nombreux, car les bûcherons travaillent ici comme partout, à détruire les antiques et splendides forêts, qui ne seront bientôt plus qu'à l'état de souvenir mythologique. Cependant, çà et là, par bouquets ou par groupes, le long des côtières de laves, sur le bord des abîmes, poussent encore des hêtres, des chênes, des figuiers au feuillage presque noir, puis, dans une région un peu plus élevée, des sapins, des pins et des bouleaux. Les cendres elles-mêmes, mélangées de quelque humus, donnent naissance à de larges corbeilles de fougères, de fraxinelles, de mauves, et se couvrent de tapis de mousses. Vers huit heures du soir, le docteur et Pierre se trouvaient déjà à cette hauteur de trois mille mètres, qui forme à peu près la limite des neiges éternelles. Sur les flancs de l'Etna, elles sont assez abondantes pour approvisionner l'Italie et la Sicile.
+
+C'était alors la région des laves noires, des cendres, des scories, qui s'étend au-delà d'une immense crevasse, le vaste cirque elliptique de Valle del Bove. Il fallut en tourner les falaises, hautes de mille à trois mille pieds, dont les couches laissent apparaître des strates de trachyte et de basalte, sur lesquels les éléments n'ont pas encore eu prise.
+
+En avant se dressait le cône proprement dit du volcan, où quelques phanérogames formaient çà et là des hémisphères de verdure. Cette gibbosité centrale, qui est toute une montagne à elle seule -- Pélion sur Ossa -- arrondit sa cime à une altitude de trois mille trois cent seize mètres au-dessus du niveau de la mer.
+
+Déjà le sol frémissait sous le pied. Des vibrations, provoquées par ce travail plutonique, qui fatigue incessamment le massif etnéen, couraient sous les plaques de neige. Quelques vapeurs sulfureuses du panache que le vent recourbait à l'orifice du cratère, se rabattaient parfois jusqu'à la base du cône, et une grêle de scories, semblables à du coke incandescent, tombaient sur le tapis blanchâtre où elles s'éteignaient en sifflant.
+
+La température était très froide alors -- plusieurs degrés au-dessous de zéro, -- et la difficulté de respirer très sensible par suite de la raréfaction de l'air. Les ascensionnistes avaient dû s'envelopper étroitement de leur manteau de voyage. Une brise acérée, prenant d'écharpe la montagne, s'imprégnait de flocons tenus, arrachés au sol, qui tourbillonnaient dans l'espace. De cette hauteur, on pouvait observer, au-dessous de la bouche ignivome, où se faisait une poussée haletante de flammes, d'autres cratères secondaires, étroites solfatares ou sombres puits, au fond desquels ronflaient les flammes souterraines. Puis, c'était un grondement continu, avec des crescendos d'ouragan, ainsi qu'eut fait une immense chaudière, dont la vapeur surchauffée eût soulevé les soupapes. Aucune éruption n'était à prévoir, cependant, et toute cette colère interne ne se traduisait que par les hennissements du cratère supérieur et l'éructation des gueules volcaniques qui trouaient le cône.
+
+Il était alors neuf heures du soir. Le ciel resplendissait de milliers d'étoiles que la faible densité de l'atmosphère, à cette altitude, rendait plus étincelantes encore. Le croissant de la lune se noyait à l'ouest dans les eaux de la mer Eolienne. Sur une montagne, qui n'aurait pas été un volcan en activité, le calme de cette nuit eût été sublime.
+
+« Nous devons être arrivés ? demanda le docteur.
+
+--- Voilà la Casa Inglese », répondit le guide. Et il montrait un pan de mur percé de deux fenêtres et d'une porte, que son orientation avait protégé de la neige, à une cinquantaine de pas sur la gauche, soit à quatre cent vingt-huit mètres au-dessous de la cime du cône central. C'était la maison construite, en 1811, par les officiers anglais sur un plateau à base de lave, nommé Piano del Lago. Cette maison, que l'on appelle aussi la Casa Etnea, après avoir été longtemps entretenue aux frais de M. Gemellaro, frère du savant géologue de ce nom, venait d'être récemment restaurée par les soins du Club Alpin. Non loin, grimaçaient dans les ténèbres quelques ruines d'origine romaine, auxquelles on a donné le nom de Tour des Philosophes. C'est de là, dit la légende, qu'Empédocle se serait précipité dans le cratère. En vérité, il faudrait une singulière dose de philosophie pour supporter huit jours de solitude en ce lieu, et l'on comprend l'acte du célèbre philosophe d'Agrigente.
+
+Cependant le docteur Antékirtt, Pierre Bathory et le guide s'étaient dirigés vers la Casa Inglese. Une fois arrivés, ils frappèrent à la porte qui s'ouvrit aussitôt.
+
+Un instant après, ils se trouvaient au milieu de leurs hommes. Cette Casa Inglese n'est composée que de trois chambres avec table, chaises, ustensiles de cuisine ; mais cela suffit pour que les ascensionnistes de l'Etna puissent s'y reposer, après avoir atteint une altitude de deux mille huit cent quatre-vingt-cinq mètres.
+
+Jusqu'à ce moment, Luigi, dans la crainte que la présence de son petit détachement ne fût soupçonnée, n'avait pas voulu faire de feu, bien que le froid piquât vivement. Mais maintenant, il n'était plus nécessaire de prendre cette précaution, puisque Zirone savait que le docteur devait passer la nuit dans la Casa Inglese. On poussa donc dans l'âtre un peu de ce bois dont il se trouvait une réserve dans le bûcher. Bientôt une flamme pétillante eut donné la chaleur et la lumière qui manquaient à la fois.
+
+Cependant le docteur, prenant Luigi à part, lui demandait si aucun incident ne s'était produit depuis son arrivée.
+
+« Aucun, répondit Luigi. Je crains seulement que notre présence ici ne soit pas aussi secrète que nous l'eussions désiré !
+
+--- Et pourquoi ?
+
+--- Parce que depuis Nicolosi, si je ne me trompe pas, nous avons été suivis par un homme, qui a disparu un peu avant que nous ayons atteint la base du cône.
+
+--- En effet, c'est regrettable, Luigi ! Cela pourrait ôter à Zirone l'envie de venir me surprendre ! Et depuis la chute du jour, personne n'a rôdé autour de la Casa Inglese ?
+
+--- Personne, monsieur le docteur, répondit Luigi. J'ai même pris la précaution de fouiller les ruines de la tour des Philosophes : elles sont absolument vides.
+
+--- Attendons, Luigi ; mais qu'un homme se tienne toujours de garde devant la porte ! On peut voir au loin, puisque la nuit est claire, et il importe que nous ne soyons pas surpris ! »
+
+Les ordres du docteur furent exécutés, et quand il eut pris place sur un escabeau devant l'âtre, ses hommes se couchèrent sur des bottes de paille autour de lui.
+
+Cependant, Cap Matifou s'était approché du docteur. Il le regardait, sans oser lui parler. Mais il était facile de comprendre ce qui l'inquiétait.
+
+« Tu veux savoir ce qu'est devenu Pointe Pescade ? répondit le docteur. Patience !... Il reviendra sous peu, bien qu'il joue en ce moment un jeu à se faire pendre...
+
+--- À notre cou ! » ajouta Pierre, qui voulut rassurer Cap Matifou sur le sort de son petit compagnon.
+
+Une heure s'écoula, sans que rien n'eût troublé cette profonde solitude autour du cône central. Aucune ombre n'avait apparu sur le talus blanc, en avant du Piano del Lago. De là, une impatience et même une inquiétude que le docteur et Pierre ne pouvaient maîtriser. Si, par malheur, Zirone avait été prévenu de la présence du petit détachement, jamais il ne se hasarderait à attaquer la Casa Inglese. C'eût été un coup manqué. Et pourtant, il fallait s'emparer de ce complice de Sarcany, à défaut de Sarcany lui-même, et lui arracher ses secrets !
+
+Un peu avant dix heures, la détonation d'une arme à feu se fit entendre à un demi-mille au-dessous de la Casa Inglese.
+
+Tous sortirent, regardèrent, ne virent rien de suspect.
+
+« C'est bien un coup de fusil ! dit Pierre.
+
+--- Peut-être quelque chasseur d'aigle ou de sanglier, à l'affût dans la montagne ! répondit Luigi.
+
+--- Rentrons, ajouta le docteur, et ne risquons pas d'être vus ! »
+
+Ils rentrèrent. Mais, dix minutes après, le marin, qui veillait au-dehors, les rejoignait précipitamment :
+
+« Alerte ! cria-t-il. J'ai cru apercevoir...
+
+--- Plusieurs hommes ?... demanda Pierre.
+
+--- Non, un seul ! »
+
+Le docteur, Pierre, Luigi, Cap Matifou, se jetèrent vers la porte, en ayant soin de rester dans l'ombre. En effet, un homme, courant comme un chamois, gravissait la coulée de vieilles laves qui aboutit au plateau. Il était seul, et en quelques bonds, il tomba dans des bras qui lui étaient ouverts, -- les bras de Cap Matifou.
+
+C'était Pointe Pescade.
+
+« Vite !... vite !... à l'abri, monsieur le docteur ! » s'écria-t-il.
+
+En un instant, tous furent rentrés dans la Casa Inglese, dont la porte se referma aussitôt.
+
+« Et Zirone ? demanda le docteur. Qu'est-il devenu ?... Tu as donc pu le quitter ?
+
+--- Oui !... pour vous avertir !...
+
+--- Ne vient-il pas ?...
+
+--- Dans vingt minutes, il sera ici !
+
+--- Tant mieux !
+
+--- Non ! tant pis !... Je ne sais comment il a été prévenu que vous vous étiez fait précéder d'une douzaine d'hommes !...
+
+--- Sans doute par ce montagnard qui nous a épiés ! dit Luigi.
+
+--- Enfin il le sait, répondit Pointe Pescade, et il a compris que vous lui tendiez un piège !
+
+--- Qu'il vienne donc ! s'écria Pierre.
+
+--- Il vient, monsieur Pierre ! Mais, à cette douzaine de recrues, qui lui ont été ramenées de Malte, s'est joint le reste de sa bande, revenue ce matin même à Santa Grotta !
+
+--- En tout, combien y a-t-il de ces bandits ! demanda le docteur.
+
+--- Une cinquantaine ! » répondit Pointe Pescade.
+
+La situation du docteur et de sa petite troupe, composée seulement de onze marins, de Luigi, de Pierre, de Cap Matifou et de Pointe Pescade. -- seize contre cinquante, -- cette situation était très menacée. En tout cas, s'il y avait un parti à prendre, il fallait le prendre vite, car une attaque était imminente. Mais auparavant, le docteur voulut savoir de Pointe Pescade tout ce qui était arrivé, et voici ce qu'il apprît :
+
+Le matin même, Zirone était revenu de Catane, où il avait passé la soirée, et c'était bien lui que le docteur avait vu rôder dans les jardins de la villa Bellini. Lorsqu'il fut de retour à la locande de Santa Grotta, il y trouva un montagnard qui lui donna ce renseignement : une douzaine d'hommes venant de directions diverses, occupaient la Casa Inglese.
+
+Il n'en fallut pas davantage pour que Zirone comprît la situation. Ce n'était plus lui qui attirait le docteur Antékirtt dans un piège, c'était ce docteur, dont on lui recommandait de se défier, qui l'y attirait. Pointe Pescade, cependant, insista pour que Zirone se portât sur la Casa Inglese, lui affirmant que ses Maltais auraient facilement raison de la petite troupe du docteur. Mais Zirone n'en resta pas moins indécis sur ce qu'il devait faire. Et même, l'insistance de Pointe Pescade commença à paraître assez singulière pour que Zirone donnât l'ordre de le surveiller, -- ce dont Pescade s'aperçut facilement. Bref, il est probable que Zirone aurait renoncé à s'emparer du docteur avec ces chances incertaines, si sa bande ne fût venue le rejoindre vers trois heures de l'après-midi. Alors, ayant une cinquantaine d'hommes à ses ordres, il n'avait plus hésité, et toute la troupe, quittant la locande de Santa Grotta, s'était dirigée vers la Casa Inglese.
+
+Pointe Pescade comprit que le docteur et les siens étaient perdus, s'il ne les prévenait à temps, afin de leur permettre de s'échapper, ou, tout au moins, de se tenir sur leurs gardes. Il attendit donc que la bande de Zirone fût arrivée en vue de la Casa Inglese, dont il ne connaissait pas la position. La lumière, qui éclairait ses fenêtres, lui permit de l'apercevoir vers les neuf heures, à moins de deux milles sur les pentes du cône. Aussitôt Pointe Pescade de bondir dans cette direction. Un coup de fusil qui lui fût tiré par Zirone -- celui qu'on avait entendu de la Casa Inglese, -- ne l'atteignit pas. Avec son agilité de clown, il fût bientôt hors de portée, et voilà comment il était arrivé, ne précédant que de vingt minutes au plus la troupe de Zirone.
+
+Ce récit achevé, un serrement de main du docteur remercia le hardi et intelligent garçon de tout ce qu'il venait de faire, puis, on discuta le parti qu'il convenait de prendre.
+
+Abandonner la Casa Inglese, opérer une retraite au milieu de la nuit sur les flancs de ce massif, dont Zirone et ses gens connaissaient tous les sentiers, tous les refuges, c'était s'exposer à une destruction complète. Attendre le jour dans cette maison, s'y retrancher, s'y défendre comme dans un blockhaus, cela valait mieux cent fois. Le jour venu, s'il y avait lieu de partir, au moins le ferait-on en pleine lumière, et on ne s'aventurerait pas en aveugles sur ces pentes, à travers les précipices et les solfatares. Donc, rester et résister, telle fut la décision prise. Les préparatifs de défense commencèrent aussitôt.
+
+Et d'abord, les deux fenêtres de la Casa Inglese durent être closes et leurs volets solidement assujettis au dedans. Pour servir d'embrasures, on devait utiliser les vides que les chevrons du toit laissaient entre eux à leur point d'appui sur le mur de la façade. Chaque homme, pourvu d'un fusil à tir rapide, avait une vingtaine de cartouches. Le docteur, Pierre et Luigi, avec leurs revolvers, pouvaient leur venir en aide. Cap Matifou n'avait que ses bras. Pointe Pescade n'avait que ses mains. Peut-être n'étaient-ils pas les moins bien armés !
+
+Près de quarante minutes s'écoulèrent, sans qu'aucune tentative d'attaque eût été faite. Zirone, sachant que le docteur Antékirtt, prévenu par Pointe Pescade, ne pouvait plus être surpris, avait-il donc renoncé à ses projets d'attaque ? Pourtant, cinquante hommes sous ses ordres, avec l'avantage que devait lui donner la connaissance des lieux, cela mettait bien des chances de son côté.
+
+Soudain, vers onze heures, le marin de garde rentra précipitamment. Une bande d'hommes s'approchait, en s'éparpillant, de manière à cerner la Casa Inglese sur trois côtés, -- le quatrième, adossé au talus, n'offrant aucune retraite possible.
+
+Cette manœuvre reconnue, la porte fut refermée, barricadée, et chacun prit son poste aux vides des chevrons, avec la recommandation de ne tirer qu'à coup sûr.
+
+Cependant Zirone et les siens s'avançaient lentement, non sans prudence, se défilant derrière les roches, afin d'atteindre la crête du Piano del Lago. À cette crête étaient accumulés d'énormes quartiers de trachytes et de basaltes, destinés sans doute à préserver la Casa Inglese de l'envahissement des neiges, pendant les tourmentes de l'hiver. Parvenus à ce plateau, les assaillants pourraient plus facilement s'élancer contre la maison, en enfoncer la porte ou les fenêtres, puis, le nombre aidant, s'emparer du docteur et de tous les siens.
+
+Tout à coup, une détonation retentit. Une légère fumée fusa entre les chevrons de la toiture. Un homme tomba, mortellement frappé. La troupe fit aussitôt quelques pas en arrière et se blottit derrière les roches. Mais, peu à peu, en profitant des plis de terrain, Zirone la ramena au pied même du Piano del Lago.
+
+Cela ne se fit pas sans qu'une douzaine de coups de feu n'eussent illuminé le faîtage de la Casa Inglese, -- ce qui coucha encore deux des assaillants sur la neige.
+
+Le cri d'assaut fut alors jeté par Zirone. Au prix de quelques nouveaux blessés, toute la bande se rua sur la Casa Inglese. La porte fut criblée de coups de feu, et deux matelots, atteints à l'intérieur, mais non grièvement, durent se tenir à l'écart.
+
+La lutte devint très vive alors. Avec leurs piques et leurs haches, les assaillants parvinrent à briser la porte et l'une des fenêtres. Il fallut faire une sortie pour les repousser, au milieu d'une fusillade incessante de part et d'autre. Luigi eut son chapeau traversé d'une balle, et Pierre, sans l'intervention de Cap Matifou, aurait été assommé d'un coup de pique par un de ces bandits. Mais l'Hercule était là, et, du pic même qu'il lui avait arraché des mains, il assomma l'homme d'un seul coup.
+
+Pendant cette sortie, Cap Matifou fut terrible. Vingt fois visé, aucune balle ne l'atteignit. Si Zirone l'emportait, Pointe Pescade était condamné d'avance, et cette pensée redoublait sa fureur.
+
+Devant une telle résistance, les assaillants durent reculer une seconde fois. Le docteur et les siens purent donc rentrer dans la Casa Inglese et se rendre compte de la situation.
+
+« Que reste-t-il de munitions ? demanda-t-il.
+
+--- Dix à douze cartouches par homme, répondit Luigi.
+
+--- Et quelle heure est-il ?
+
+--- Minuit à peine ! »
+
+Quatre heures encore avant que le jour ne parût. Il devenait nécessaire de ménager les munitions, afin de protéger la retraite aux premières lueurs du matin.
+
+Mais alors comment défendre les approches, puis empêcher l'envahissement de la Casa Inglese, si Zirone et sa bande lui redonnaient assaut ?
+
+Et c'est ce qu'ils firent précisément, après un quart d'heure de répit, pendant lequel ils avaient ramené leurs blessés en arrière, à l'abri d'une coulée de lave disposée comme une sorte de retranchement.
+
+Alors ces bandits, enragés devant une telle résistance, ivres de fureur à la vue de cinq ou six des leurs mis hors de combat, gravirent la coulée, puis l'intervalle qui la séparait du rempart de basalte, et ils reparurent à la crête du plateau.
+
+Pas un coup de fusil ne leur fut tiré, pendant qu'ils franchissaient cet intervalle. Zirone en concluait donc, non sans raison, que les munitions commençaient à manquer aux assiégés.
+
+Alors il enleva sa bande. L'idée de s'emparer d'un personnage cent fois millionnaire, était bien faite, on en conviendra, pour exciter ces malfaiteurs de la pire espèce.
+
+Tel fut même leur emportement, cette fois, qu'ils forcèrent la porte et la fenêtre, et ils eussent pris la maison d'assaut, si une nouvelle décharge à bout portant n'en eût tué cinq ou six. Ils durent encore reculer au pied du plateau, non sans que deux des marins n'eussent été blessés assez grièvement pour abandonner le combat.
+
+Quatre ou cinq coups à tirer, c'était tout ce qui restait alors aux défenseurs de la Casa Inglese. Dans ces conditions, la retraite, même en plein jour, devenait presque impossible. Ils sentaient donc qu'ils étaient perdus, si un secours ne leur arrivait pas.
+
+Mais d'où ce secours aurait-il pu venir ?
+
+Malheureusement, on ne pouvait compter que Zirone et ses compagnons renonceraient à leur entreprise. Ils étaient près de quarante encore, valides et bien armés. Ils savaient qu'on ne pourrait bientôt plus riposter à leurs coups de feu, et ils revinrent à la charge.
+
+Soudain, d'énormes blocs, roulant sur les talus du plateau, comme les rochers d'une avalanche, écrasèrent trois d'entre eux, avant qu'ils eussent pu se jeter de côté.
+
+C'était Cap Matifou qui venait de culbuter des roches de basalte pour les précipiter de la crête du Piano del Lago.
+
+Mais ce moyen de défense ne pouvait suffire. Il fallait donc succomber ou tout faire pour chercher du secours au dehors.
+
+Pointe Pescade eut alors une idée, dont il ne voulut point parler au docteur, qui ne lui eût peut-être pas donné son consentement. Mais cette idée, il la communiqua à Cap Matifou.
+
+Il savait, par le propos qu'il avait recueilli à la locande de Santa Grotta, qu'un détachement de gendarmes se trouvait à Cassone. Or, pour se rendre à Cassone, il ne fallait qu'une heure et autant pour en revenir. Ne serait-il donc pas possible d'aller prévenir ce détachement ? Oui, mais à la condition de passer à travers la bande des assiégeants, afin de se jeter ensuite dans l'ouest du massif.
+
+« Donc, il faut que je passe, et je passerai ! se dit Pointe Pescade. Eh ! que diable ! On est clown ou on ne l'est pas ! »
+
+Et il fit connaître à Cap Matifou le moyen qu'il voulait employer pour aller chercher du secours.
+
+« Mais... fit Cap Matifou, tu risques...
+
+--- Je le veux ! »
+
+Résister à Pointe Pescade, Cap Matifou n'eût jamais osé.
+
+Tous deux gagnèrent alors, sur la droite de la Casa Inglese, un endroit où la neige était accumulée en grande masse.
+
+Dix minutes après, pendant que la lutte continuait de part et d'autre, Cap Matifou reparut, poussant devant lui une grosse boule de neige. Puis, au milieu des blocs que les marins continuaient à précipiter sur les assaillants, il lança cette boule, qui roula sur le talus, passa à travers la bande de Zirone, et s'arrêta, cinquante pas en arrière, au fond d'une petite dépression de terrain.
+
+Alors, à demi-brisée par le choc, la boule s'ouvrit et donna passage à un être vif, alerte, « quelque peu malin » comme il le disait de lui-même.
+
+C'était Pointe Pescade. Enfermé dans cette carapace de neige durcie, il avait osé se faire lancer sur les pentes du talus, au risque d'être précipité au fond de quelque abîme. Et, libre maintenant, il dévalait les sentiers du massif en gagnant du côté de Cassone.
+
+Il était alors minuit et demi.
+
+A ce moment, le docteur, ne voyant plus Pointe Pescade, craignit qu'il ne fût blessé. Il l'appela.
+
+« Parti ! dit Cap Matifou.
+
+--- Parti ?
+
+--- Oui !... pour aller chercher du secours !
+
+--- Et comment ?
+
+--- En boule ! »
+
+Cap Matifou raconta ce que Pointe Pescade venait de faire.
+
+« Ah ! le brave garçon !... s'écria le docteur. Du courage, mes amis, du courage !... Ils ne nous auront pas, ces bandits ! »
+
+Et les quartiers de roches continuèrent à rouler sur les assaillants. Mais ce nouveau moyen de défense ne tarda pas à s'épuiser comme les autres.
+
+Vers trois heures du matin, le docteur, Pierre, Luigi, Cap Matifou, suivis de leurs hommes, et emportant leurs blessés, durent évacuer la maison qui tomba au pouvoir de Zirone. Vingt de ses compagnons avaient été tués, et, pourtant, le nombre était encore pour lui. Aussi la petite troupe ne put-elle battre en retraite qu'en remontant les pentes du cône central, cet entassement de laves, de scories, de cendres, dont le sommet était un cratère, c'est-à-dire un abîme de feu.
+
+Tous se réfugièrent sur ces pentes, cependant, emportant leurs blessés. Des trois cents mètres que mesure le cône, ils en franchirent deux cent cinquante, au milieu de ces vapeurs sulfureuses que le vent rabattait sur eux.
+
+Le jour commençait alors à poindre, et déjà la crête des montagnes de Calabre se piquait de teintes lumineuses au-dessus de la côte orientale du détroit de Messine.
+
+Mais, dans la situation où se trouvaient le docteur et les siens, le jour n'était plus même une chance de salut pour eux. Il leur fallait toujours battre en retraite, remonter les talus, usant leurs dernières balles et jusqu'aux derniers quartiers de roches que Cap Matifou précipitait avec une vigueur surhumaine. Ils devaient donc se croire perdus, quand des coups de fusils éclatèrent à la base du cône.
+
+Un moment d'indécision se manifesta dans la troupe des bandits. Bientôt après, les voilà tous qui se mettent à fuir.
+
+Ils avaient reconnu les gendarmes qui arrivaient de Cassonne. Pointe Pescade à leur tête.
+
+Le courageux garçon n'avait pas même eu besoin d'aller jusqu'à ce village. Les gendarmes, ayant entendu des coups de feu, étaient déjà en route. Pointe Pescade n'avait eu qu'à les conduire vers la Casa Inglese.
+
+Alors le docteur et ses compagnons reprirent l'avantage.
+
+Cap Matifou, comme s'il eut été une avalanche à lui tout seul, bondit sur les plus proches, en assomma ceux qui n'eurent pas le temps de s'enfuir, et se précipita sur Zirone.
+
+« Bravo, mon Cap, bravo ! cria Pointe Pescade en arrivant. Tombe-le !... Fais-lui toucher les épaules !... La lutte, messieurs, la lutte entre Zirone et Cap Matifou ! »
+
+Zirone l'entendit, et, d'une main qui lui restait libre encore, il fit feu de son revolver sur Pointe Pescade.
+
+Pointe Pescade roula sur le sol. Alors il se passa une chose effrayante. Cap Matifou avait saisi Zirone, et il le traînait par le cou, sans que le misérable, à moitié étranglé, pût résister à cette étreinte.
+
+En vain le docteur, qui voulait l'avoir vivant, lui criait-il de l'épargner ! En vain Pierre et Luigi s'étaient-ils lancés pour le rejoindre ! Cap Matifou ne pensait qu'à ceci : c'est que Zirone avait frappé, peut-être mortellement, Pointe Pescade ! Et il ne se possédait plus, il n'entendait rien, il ne voyait rien, il ne regardait pas même ce reste d'homme qu'il portait maintenant à bout de bras.
+
+Enfin, d'un dernier bond, il s'élança vers le cratère béant d'une solfatare, et il précipita Zirone dans ce puits de feu.
+
+Pointe Pescade, assez grièvement blessé, était appuyé sur le genou du docteur qui examinait et pansait sa blessure. Lorsque Cap Matifou fut revenu près de lui, de grosses larmes coulèrent de ses yeux.
+
+« À pas peur, mon Cap, a pas peur !... Ce ne sera rien ! » murmura Pointe Pescade.
+
+Cap Matifou le prit dans ses bras, comme un enfant, et tous le suivirent en redescendant les talus du cône, pendant que les gendarmes donnaient la chasse aux derniers fugitifs de la bande de Zirone.
+
+Six heures après, le docteur et les siens, de retour à Catane, étaient embarqués à bord du *Ferrato.*
+
+Pointe Pescade fut déposé dans sa cabine. Avec le docteur Antékirtt pour médecin, Cap Matifou pour garde-malade, comment n'eût-il pas été bien soigné ! D'ailleurs, sa blessure, -- une balle au défaut de l'épaule, -- ne présentait pas de caractère grave. Sa guérison ne devait être qu'une question de temps. Lorsqu'il avait besoin de dormir, Cap Matifou lui contait des histoires -- toujours la même --, et Pointe Pescade ne tardait pas à reposer dans un bon sommeil.
+
+Cependant le docteur avait échoué dès le début de sa campagne. Après avoir failli tomber entre les mains de Zirone, il n'avait pas même pu s'emparer de ce compagnon de Sarcany qu'il eût bien obligé à lui livrer ses secrets, -- et cela par la faute de Cap Matifou. Mais pouvait-on lui en vouloir ?
+
+En outre, bien que le docteur eût tenu à rester à Catane pendant huit jours encore, il n'y pût recueillir aucune nouvelle de Sarcany. Si celui-ci avait eu l'intention de rejoindre Zirone en Sicile, ses projets s'étaient modifiés, sans doute, lorsqu'il avait appris, avec l'issue du guet-apens préparé contre le docteur Antékirtt, la mort de son ancien compagnon.
+
+Le *Ferrato* reprit donc la mer, le 8 septembre, et se dirigea à toute vapeur vers Antékirtta, où il arriva, après une rapide traversée.
+
+Là, le docteur, Pierre, Luigi, allaient reprendre et discuter les projets dans lesquels se concentrait leur vie tout entière. Il s'agissait maintenant de retrouver Carpena, qui devait savoir ce qu'étaient devenus Sarcany et Silas Toronthal.
+
+Malheureusement pour l'Espagnol, s'il avait échappé à la destruction de la bande de Zirone, en restant à la locande de Santa Grotta, sa bonne chance ne fut que de courte durée.
+
+En effet, dix jours après, un des agents du docteur lui mandait que Carpena venait d'être arrêté à Syracuse, -- non comme complice de Zirone, mais pour un crime remontant à plus de quinze ans déjà -- un meurtre, commis à Almayate, dans la province de Malaga, après lequel il s'était expatrié pour s'établir à Rovigno.
+
+Trois semaines plus tard, Carpena, contre lequel on avait obtenu l'extradition, était condamné aux galères perpétuelles et envoyé sur la côte du Maroc, au préside de Ceuta, l'un des principaux établissements pénitentiaires de l'Espagne.
+
+« Enfin, dit Pierre, voilà donc un de ces misérables au bagne, et pour la vie !
+
+--- Pour la vie ?... Non !... répondit le docteur. Si Andréa Ferrato est mort au bagne, ce n'est pas au bagne que Carpena doit mourir ! »

@@ -1,0 +1,158 @@
+### [[Chapitre 10 -- Du sang]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942861 .pcalibre2 .pcalibre1} {#chapitre-10-du-sang .calibre171 .sigil_not_in_toc}
+
+Le défilé de ceux qui venaient se réfugier à Libéria dura interminablement. Pendant tout l\'hiver, il en arriva chaque jour. L\'île Hoste semblait être un réservoir inépuisable, et on eût dit vraiment qu\'elle rendait plus de misérables qu\'elle n\'en avait reçu. Ce fut au début de juillet que le flot atteignit son maximum, puis il se ralentit de jour en jour, pour cesser définitivement le 29 septembre.
+
+Ce jour-là, on vit encore un émigrant descendre des hauteurs et se traîner péniblement jusqu\'au campement. À demi-nu, d\'une maigreur de squelette, il était dans un état lamentable. Il s\'affaissa en arrivant aux premières maisons.
+
+Pareille aventure était trop ordinaire pour qu\'on s\'émût outre mesure. On releva le malheureux, on le réconforta, et l\'on ne s\'occupa plus de lui.
+
+La source, à partir de ce moment, fut tarie. Qu\'en fallait-il inférer ? Que ceux dont on était sans nouvelles avaient eu meilleure fortune, ou bien qu\'ils étaient morts ?
+
+Plus de sept cent cinquante colons étaient alors revenus à la côte, au dernier degré, pour la plupart, de la dégradation physique et de l\'affaissement moral. Ces organismes affaiblis offraient aux maladies le meilleur des terrains, et le Kaw-djer se surmenait à lutter contre elles. À mesure que l\'hiver avançait, les décès se multipliaient. C\'était une véritable hécatombe. Hommes, femmes et enfants, jeunes et vieux, la mort les frappait tous indistinctement.
+
+Mais elle avait beau supprimer tant de bouches voraces, il en restait trop encore pour que les provisions du Ribarto fussent suffisantes. Quand Beauval s\'était résolu, bien tardivement déjà, à rationner ses administrés, il ne pouvait prévoir que leur nombre augmenterait dans de telles proportions et, lorsqu\'il connut son erreur et voulut la réparer, il n\'était plus temps. Le mal était fait. Le 25 septembre, le magasin des provisions distribua ses derniers biscuits, et la foule épouvantée vit se lever le hideux spectre de la faim.
+
+Par la faim, la faim qui déchire les entrailles, la faim qui ronge, et tord, et vrille, telle était la mort dont allaient cruellement, lentement, -- si lentement ! -- périr les naufragés du Jonathan !
+
+Sa première victime fut Blaker. Il mourut le troisième jour dans des souffrances atroces, malgré les soins du Kaw-djer que l\'on prévint trop tard. Celui-ci n\'était plus, cette fois, en droit d\'incriminer Patterson, victime lui-même de la famine, et qui subissait le sort de tous.
+
+Les jours qui suivirent, de quoi vécurent les colons ? Qui pourrait le dire ? Ceux qui avaient eu la prudence de constituer des réserves de vivres les entamèrent. Mais les autres ?...
+
+Le Kaw-djer ne sut où donner de la tête pendant cette sinistre période. Non seulement il lui fallait accourir au chevet des malades, mais aussi venir en aide aux affamés. On le suppliait, on s\'accrochait à ses vêtements, les mères tendaient vers lui leurs enfants. Il vivait au milieu d\'un affreux concert d\'imprécations, de prières et de plaintes. Nul ne l\'implorait en vain. Généreusement, il distribuait les provisions accumulées sur la rive gauche, s\'oubliant lui-même, ne voulant pas se dire que le danger dont il reculait l\'échéance pour les autres le menacerait fatalement à son tour.
+
+Cela ne pouvait tarder cependant. Le poisson salé, le gibier fumé, les légumes secs, tout diminuait rapidement. Que cette situation se prolongeât un mois, et, comme ceux de Libéria, les habitants du Bourg-Neuf auraient faim.
+
+Le péril était si évident que, dans l\'entourage du Kaw-djer, on commençait à lui opposer quelque résistance. On refusait de se dessaisir des vivres. Il lui fallait longtemps discuter avant de les obtenir, et l\'on ne cédait que de guerre lasse et plus difficilement de jour en jour.
+
+Harry Rhodes essaya de représenter à son ami l\'inutilité de son sacrifice. Qu\'espérait-il ? Il était évidemment impossible que la faible quantité de vivres existant sur la rive gauche suffît à sauver toute la population de l\'île. Que ferait-on quand ils seraient épuisés ? Et quel intérêt y avait-il à reculer, au détriment de ceux qui avaient fait preuve de courage et de prévoyance, une catastrophe dans tous les cas inévitable et prochaine ?
+
+Harry Rhodes ne put rien obtenir. Le Kaw-djer n\'essaya même pas de lui répondre. Devant une telle détresse, on n\'avait que faire d\'arguments et il s\'interdisait de réfléchir. Laisser de sang-froid périr toute une multitude, voilà ce qui était impossible. Partager avec elle jusqu\'à la dernière miette, quoi qu\'il en dût résulter, voilà ce qui était impérieusement nécessaire. Après ?... Après, on verrait. Quand on n\'aurait plus rien, on partirait, on irait plus loin, on chercherait un autre lieu d\'établissement, où, comme au Bourg-Neuf, on vivrait de chasse et de pêche, et l\'on s\'éloignerait du campement que peu de jours suffiraient alors à transformer en effroyable charnier. Mais du moins on aurait fait tout ce qui était au pouvoir des hommes, et l\'on n\'aurait pas eu l\'affreux courage de condamner délibérément à mort un si grand nombre d\'autres hommes.
+
+Sur la proposition d\'Harry Rhodes, on examina l\'opportunité de distribuer aux émigrants les quarante-huit fusils cachés par Hartlepool. Avec ces armes à feu, peut-être réussiraient-ils à vivre de leur chasse. Cette proposition fut repoussée. Dans cette saison, le gibier était très rare, et des fusils entre les mains de paysans inexpérimentés, seraient d\'un bien faible secours pour assurer l\'alimentation d\'une si nombreuse population. En revanche, ils seraient susceptibles de créer de graves dangers. À certains signes précurseurs, gestes brutaux, regards farouches, altercations fréquentes, il était facile de reconnaître que la violence fermentait dans les couches profondes de la foule. Les colons ne cherchaient plus à dissimuler la haine qu\'ils éprouvaient les uns pour les autres. Ils s\'accusaient réciproquement de leur échec, et chacun attribuait à son voisin la responsabilité de l\'état de choses actuel.
+
+Toutefois, il en était un qu\'on s\'accordait à maudire unanimement, et celui-là, c\'était Ferdinand Beauval qui avait imprudemment assumé la mission redoutable de gouverner ses semblables.
+
+Bien que son incapacité éclatante justifiât amplement la rancune des émigrants, on le supportait encore. Livrée à elle-même, une foule, tourbillon confus de volontés qui se neutralisent, est incapable d\'agir. Son inertie rend sa patience infinie, et, quels que soient ses griefs, elle s\'arrête interdite au moment de toucher au chef, comme saisie d\'un religieux effroi devant son prestige qu\'elle seule pourtant a créé. Il en était ainsi une fois de plus, et peut-être les colons de l\'île Hoste n\'eussent-ils manifesté leur colère que par des conciliabules privés et de platoniques menaces en sourdine, s\'il ne s\'était trouvé un des leurs pour les entraîner à l\'exprimer par des actes.
+
+C\'est une chose merveilleuse que, dans cette situation terrible, le fantôme de pouvoir détenu par Beauval ait pu exciter des convoitises. Pauvre pouvoir qui consistait à être le maître nominal d\'une multitude d\'affamés !
+
+Il en fut ainsi cependant.
+
+En présence d\'une si poignante réalité, Lewis Dorick n\'estima pas négligeable cette apparence d\'autorité, et peut-être n\'avait-il pas tort après tout. Le bon sens populaire n\'emploie-t-il pas, pour désigner la puissance politique, l\'expression vulgaire, mais expressive et pittoresque, d\'assiette au beurre ? Dans la plus déshéritée des sociétés, la première place assure, en effet, à son possesseur des avantages relatifs. Beauval en savait quelque chose, lui qui en était encore à connaître les souffrances de ses compagnons d\'infortune. Ces avantages, Dorick entendait les assurer à lui-même et à ses amis.
+
+Jusqu\'alors, il avait impatiemment supporté la grandeur de son rival. Jugeant l\'occasion favorable, il entreprit une campagne, à laquelle le malheur public donnait une base solide. Les sujets de juste critique n\'étaient que trop nombreux. Il n\'avait que l\'embarras du choix. Peut-être aurait-il été fort embarrassé, si on lui avait demandé ce qu\'il eût fait à la place de son adversaire. Mais, personne ne lui posant cette indiscrète question, il n\'avait pas le souci d\'y répondre.
+
+Beauval n\'était pas sans discerner le travail de son concurrent. Souvent, de la fenêtre de la demeure décorée par lui du nom pompeux de Palais du gouvernement, il regardait tout songeur passer la foule, de jour en jour plus nombreuse à mesure que l\'approche du printemps adoucissait la température. Aux regards qu\'on lançait de son côté, aux poings qu\'on brandissait parfois dans sa direction, il comprenait que la campagne de Dorick portait ses fruits et, peu enclin à descendre du pavois, il élaborait des plans de défense.
+
+Certes, il ne pouvait nier l\'état de délabrement de la colonie, mais il en accusait les circonstances et, en particulier, le climat. Son imperturbable confiance en lui-même n\'en était aucunement diminuée. S\'il n\'avait rien fait, parbleu, c\'est qu\'il n\'y avait rien à faire, et un autre n\'en eût pas fait davantage.
+
+Ce n\'est pas uniquement par orgueil que Beauval se cramponnait à sa fonction. Malgré tout, dans les circonstances présentes, il avait perdu beaucoup de ses illusions sur le lustre qu\'il en recevait. Il songeait aussi, avec inquiétude et complaisance à la fois, à l\'abondante réserve de vivres qu\'il était parvenu à mettre à l\'abri. En aurait-il été ainsi, s\'il n\'avait pas été le chef ? En serait-il encore ainsi, s\'il ne l\'était plus ?
+
+C\'est donc pour défendre sa vie, en même temps que sa place, qu\'il se jeta ardemment dans la lutte. Très habilement, il ne contesta aucun des griefs énumérés par Dorick. Sur ce terrain il eût été vaincu d\'avance. Il les accentua au contraire. De tous les mécontents, ce fut lui le plus ardent.
+
+Par exemple, les deux adversaires différèrent d\'avis sur le remède qu\'il convenait d\'appliquer. Tandis que Dorick prônait un changement de gouvernement, Beauval conseillait l\'union et faisait remonter à d\'autres la responsabilité des malheurs qui accablaient la colonie.
+
+Les auteurs responsables de ces malheurs, qui étaient-ils ? Nuls autres, d\'après lui, que le petit nombre d\'émigrants qui n\'avaient pas été dans la nécessité de se réfugier à la côte au cours de l\'hiver. Le raisonnement de Beauval était simple. Puisqu\'on ne les avait pas revus, c\'est qu\'ils avaient réussi. Ils possédaient, par conséquent, des vivres, et ces vivres, on avait le droit de les confisquer au profit de tous.
+
+Ces excitations trouvèrent de l\'écho dans une population réduite au désespoir, et on leur obéit sans attendre. D\'abord, on battit la campagne dans les environs de Libéria, puis, en vue d\'expéditions plus lointaines, des bandes se formèrent, augmentèrent rapidement d\'importance, et enfin, le 15 octobre, ce fut une véritable armée de plus de deux cents hommes qui, sous la conduite des frères Moore, se rua à la conquête du pain.
+
+Pendant cinq jours, cette troupe parcourut l\'île en tous sens. Qu\'y faisait-elle ? On le devinait en voyant affluer ses victimes, affolées de la catastrophe imprévue qui avait annihilé leurs efforts. L\'un après l\'autre, ils couraient au gouverneur et lui demandaient justice. Mais celui-ci les renvoyait rudement en leur reprochant leur honteux égoïsme. Et quoi ! Ils auraient consenti à se gorger tandis que leurs frères mouraient de faim ?
+
+Ahuris, les malheureux battaient en retraite, et Beauval triomphait. Leurs plaintes lui prouvaient que la piste indiquée par lui était bonne. Il ne s\'était pas trompé. Ainsi qu\'il l\'avait affirmé au petit bonheur, ceux qui n\'étaient pas revenus pendant l\'hiver avaient vécu dans l\'abondance.
+
+Maintenant, en tous cas, leur sort était pareil à celui des autres. Leur patient travail était rendu inutile et ils se trouvaient aussi pauvres et démunis que ceux qui avaient consommé leur ruine. Non seulement on était passé chez eux en trombe et l\'on avait fait main basse sur tout ce qui pouvait se mettre sous la dent, mais encore on s\'était livré à ces excès dont les foules, dussent-elles être les premières à en pâtir, sont assez volontiers coutumières. Les champs ensemencés avaient été piétinés, les basses-cours saccagées et vidées de leur dernier habitant.
+
+Bien maigre cependant était le butin des pillards. La réussite de ceux qu\'ils rançonnaient était en somme très relative. Avoir réussi, cela voulait dire simplement que ces colons plus courageux, plus habiles ou moins malchanceux que leurs compagnons, avaient assuré vaille que vaille leur subsistance, mais non pas qu\'ils fussent devenus riches par miracle. On ne découvrait donc rien dans ces pauvres fermes.
+
+De là, parmi ceux qui sillonnaient la campagne, grande désillusion, qui se traduisait souvent par des actes de véritable sauvagerie.
+
+Plus d\'un colon fut soumis à la torture, afin qu\'il dévoilât la cachette dans laquelle on l\'accusait de dissimuler des vivres imaginaires. Les mêmes causes produisant les mêmes effets, l\'île Hoste, comme jadis la France, avait sa Jacquerie.
+
+Le cinquième jour après son départ, la bande des pillards se heurta aux palissades qui limitaient les enclos de la famille Rivière et des trois autres familles, leurs voisines. Depuis qu\'on s\'était mis en route, on n\'avait cessé de penser à ces exploitations, les plus anciennes et les plus prospères de la colonie, et l\'on se promettait merveille de leur pillage.
+
+Il fallut déchanter.
+
+Attenantes les unes aux autres, les quatre fermes, bâties sur les côtés d\'un vaste quadrilatère, constituaient, dans leur ensemble, une sorte de citadelle, et une citadelle inexpugnable, car, seuls de tous les colons, ses défenseurs étaient armés. Ils reçurent à coups de fusils les assaillants, qui eurent, à la première décharge, sept hommes tués ou blessés. Les autres n\'en demandèrent pas davantage et s\'enfuirent en tumulte.
+
+Cette escarmouche calma sur-le-champ l\'ardeur des pillards. Ceux-ci reprirent aussitôt la route de Libéria, qu\'ils atteignirent à la nuit tombante. Le bruit de leurs imprécations furieuses les y précéda et annonça leur arrivée. On s\'avança à leur rencontre, en prêtant l\'oreille à cette clameur venue de la campagne assombrie.
+
+Tout d\'abord, l\'éloignement ne permettant pas de comprendre ce qu\'ils criaient ainsi, on crut à des chants de joie et de victoire. Mais les mots, bientôt, se précisèrent, et l\'on se regarda effarés.
+
+« Trahison !... Trahison !... » criaient-ils. Trahison !... Ceux qui n\'avaient pas quitté Libéria furent saisis de crainte, et, plus que tous les autres, Beauval trembla. Il pressentit un malheur dont, quel qu\'il fût, on le rendrait responsable, et, sans savoir au juste quel danger le menaçait, il courut s\'enfermer dans le « Palais ».
+
+Il achevait à peine de s\'y verrouiller que le bruyant cortège faisait halte à sa porte.
+
+Que lui voulait-on ? Que signifiaient ces blessés et ces morts qu\'on déposait sur le sol du terre-plein ménagé devant sa demeure ? De quel drame étaient-ils les victimes ? Pourquoi cette multitude en rumeur ?
+
+Pendant que Beauval s\'efforçait vainement de percer ce mystère, un autre drame se jouait, qui allait désoler les habitants du Bourg-Neuf et frapper le Kaw-djer en plein coeur.
+
+Celui-ci n\'était pas sans connaître les troubles qui agitaient la population de Libéria. En circulant dans le campement, il apprenait nécessairement tout ce qui s\'y passait. Il ignorait néanmoins l\'existence de la bande de pillards, partie avant son arrivée et revenue après son départ pour la rive gauche. Si la diminution du nombre des émigrants, durant ces quelques jours, avait, en effet, attiré son attention, il n\'avait pu qu\'en être étonné, sans en discerner la cause.
+
+Troublé cependant par une sourde inquiétude, il était sorti, ce soir-là, après le coucher du soleil et, avec ses compagnons habituels, Harry Rhodes, Hartlepool, Halg et Karroly, il s\'était avancé jusqu\'au bord de la rivière. La rive gauche dominant de quelques mètres la rive droite, il eût, de ce point, aperçu Libéria, pendant le jour. Mais, à cette heure, le campement disparaissait dans l\'obscurité. Seules, une rumeur lointaine et une vague lueur en indiquaient l\'emplacement.
+
+Les cinq promeneurs, assis sur la berge, le chien Zol à leurs pieds, contemplaient la nuit en silence, quand une voix s\'éleva de l\'autre côté de la rivière.
+
+« Kaw-djer !... appelait un homme haletant, comme s\'il eût été essoufflé par une course rapide.
+
+--- Présent !... » répondit le Kaw-djer.
+
+Une ombre traversa le ponceau et s\'approcha du groupe. On reconnut Sirdey, l\'ancien cuisinier du Jonathan.
+
+« On a besoin de vous là-bas, dit-il en s\'adressant au Kaw-djer.
+
+--- Qu\'y a-t-il ? demanda celui-ci en se levant.
+
+--- Des morts et des blessés.
+
+--- Des blessés !... Des morts !... qu\'est-il donc arrivé ?
+
+--- On est allé en bande chez les Rivière... Paraît qu\'ils ont des fusils... Et voilà !
+
+--- Les malheureux !...
+
+--- Bilan : trois morts et quatre blessés. Les morts ne demandent rien, mais peut-être que les blessés...
+
+--- J\'y vais », interrompit le Kaw-djer, qui se mit en marche, tandis que Halg courait chercher la trousse des instruments de chirurgie.
+
+Chemin faisant, le Kaw-djer interrogeait, mais Sirdey ne pouvait le renseigner. Il ne savait rien. Lui, il n\'avait pas accompagné la bande et il n\'en connaissait les aventures que par ouï dire. Personne, d\'ailleurs, ne l\'avait envoyé. Voyant qu\'on rapportait sept corps inertes, il avait cru bien faire en accourant prévenir le Kaw-djer.
+
+« Vous avez très bien fait », approuva celui-ci.
+
+En compagnie de Karroly, d\'Hartlepool et d\'Harry Rhodes, il avait franchi le ponceau et s\'était avancé d\'une centaine de mètres sur la rive droite, quand, en se retournant, il aperçut Halg, qui revenait avec la trousse. Le jeune Indien, qui traversait à son tour la rivière, rattraperait sans peine ses amis. Le Kaw-djer se remit en marche à pas pressés.
+
+Trois minutes plus tard un cri d\'agonie l\'arrêtait sur place. On eût dit la voix de Halg !... Le coeur étreint d\'une affreuse angoisse, il se hâta de rebrousser chemin. Si grand était son trouble que Sirdey put, sans être vu, lui fausser compagnie et s\'éloigner du côté de Libéria de toute la vitesse de ses jambes, et qu\'il ne distingua pas davantage une ombre qui s\'enfuyait dans la même direction après avoir fait un grand crochet vers l\'amont.
+
+Mais si vite que le Kaw-djer courût, Zol courait plus vite encore. En deux bonds, le chien eut disparu dans l\'ombre. Quelques instants plus tard, il donnait de la voix. À ses aboiements plaintifs succédèrent des grondements furieux qui allèrent bientôt en s\'affaiblissant, comme si l\'animal eût pris chasse et se fût lancé sur une piste.
+
+Puis, tout à coup, un nouveau cri d\'agonie s\'éleva dans la nuit.
+
+Ce deuxième cri, le Kaw-djer ne l\'entendit pas. Il venait d\'arriver à l\'endroit d\'où le premier était parti, et là, à ses pieds, il venait d\'apercevoir Halg, le visage contre le sol, couché au milieu d\'une mare de sang, un large coutelas fiché jusqu\'au manche entre les deux épaules.
+
+Karroly s\'était jeté sur son fils. Le Kaw-djer l\'écarta rudement. Ce n\'était pas l\'heure de se lamenter, mais d\'agir. Ramassant sa trousse, tombée à côté du jeune garçon, il fendit d\'un seul coup, de haut en bas, le vêtement de celui-ci. Puis, avec d\'infinies précautions, l\'arme homicide fut retirée de son fourreau de chair, et la blessure apparut à nu. Elle était terrible. La lame, pénétrant entre les omoplates, avec traversé la poitrine presque de part en part. En admettant que, par miracle, la moelle épinière ne fût pas intéressée, le poumon était nécessairement perforé. Halg, livide, les yeux clos, respirait à peine, et une mousse sanglante coulait de ses lèvres.
+
+En quelques minutes, le Kaw-djer, ayant découpé en lanières sa blouse de peau de guanaque, eut fait un pansement provisoire, puis, sur un signe de lui, Karroly, Hartlepool et Harry Rhodes se mirent en devoir de transporter le blessé.
+
+À ce moment, l\'attention du Kaw-djer fut enfin attirée par les grondements de Zol. Évidemment le chien était aux prises avec quelque ennemi. Tandis que le triste cortège se mettait en marche, il s\'avança dans la direction du bruit, dont la source ne paraissait pas très éloignée.
+
+Cent pas plus loin, un horrible spectacle frappait sa vue. Sur le sol, un corps, celui de Sirk, ainsi qu\'il le reconnut à la lumière de la lune, était étendu, la gorge ouverte par une affreuse blessure. Des carotides tranchées net le sang giclait à flots. Cette blessure, ce n\'était pas une arme qui l\'avait faite.
+
+Elle était l\'oeuvre de Zol, qui s\'acharnait encore, ivre de rage, à l\'agrandir.
+
+Le Kaw-djer fit lâcher prise au chien, puis s\'agenouilla dans la boue sanglante près de l\'homme. Tous soins étaient inutiles. Sirk était mort. Le Kaw-djer, songeur, considérait le cadavre qui ouvrait dans la nuit des yeux déjà vitreux. Le drame se reconstituait aisément. Pendant qu\'il suivait Sirdey, complice peut-être du crime projeté, Sirk, à l\'affût, avait bondi sur Halg qui revenait en courant et l\'avait assassiné par derrière. Puis, tandis qu\'on s\'empressait autour du blessé, Zol s\'était lancé sur les traces du coupable, dont le châtiment avait suivi de près le crime. Quelques minutes avaient suffi pour que le drame déroulât ses foudroyantes péripéties. Les deux acteurs gisaient abattus, l\'un mort, l\'autre mourant.
+
+La pensée du Kaw-djer se reporta sur Halg. Le groupe des trois hommes qui soutenaient le corps inerte du jeune Indien commençait à s\'effacer dans la nuit. Il soupira profondément. Cet enfant représentait tout ce qu\'il aimait sur la terre. Avec lui disparaîtrait sa plus forte, presque son unique raison de vivre.
+
+Au moment de s\'éloigner, il laissa tomber un dernier regard sur le mort. La flaque ne s\'était pas élargie. À mesure que jaillissait le flot ralenti du sang, il disparaissait dans la terre qui l\'absorbait avidement. Depuis l\'origine des âges elle a coutume de s\'en abreuver, et ce n\'est pas un fait d\'importance que des gouttes de plus ou de moins dans l\'intarissable pluie rouge. Jusqu\'ici, cependant, l\'île Hoste avait échappé à la loi commune. Inhabitée, elle était ainsi restée pure. Mais des hommes étaient venus peupler ses déserts, et aussitôt le sang des hommes avait coulé.
+
+C\'était la première fois peut-être qu\'elle en était souillée... Ce ne devait pas être la dernière.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Deuxième partie
+
+
+]{.calibre20}

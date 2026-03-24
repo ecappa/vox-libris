@@ -1,0 +1,3475 @@
+[
+]{.calibre20}
+
+## []{#_Toc349730836 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730489 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730024 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729561 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729096 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728633 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728168 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727581 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727118 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726653 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726190 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725843 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725496 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725149 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349724802 .pcalibre .pcalibre4 .pcalibre3}[Deuxième partie]{#_Toc349724337 .pcalibre .pcalibre4 .pcalibre3} {#calibre_toc_174 .calibre21}
+
+!{.calibre22}
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730025 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729097 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728169 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727582 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726654 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 1 -- Et Pym ?\...]{#_Toc349724338 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-1-et-pym-... .calibre171 .sigil_not_in_toc}
+
+La décision du capitaine Len Guy de quitter, dès le lendemain, le mouillage de l\'île Tsalal et de reprendre la route du nord, cette campagne terminée sans résultat, ce renoncement à rechercher en une autre partie de la mer antarctique les naufragés de la goélette anglaise, -- tout cela s\'était tumultueusement présenté à mon esprit.
+
+Comment, les six hommes qui, à s\'en rapporter au carnet de Patterson, se trouvaient encore, il y a quelques mois, dans ces parages, l\'*Halbrane* allait les abandonner ?\... Son équipage ne remplirait-il pas jusqu\'au bout le devoir que l\'humanité lui commandait ?\... Ne tenterait-il pas l\'impossible pour découvrir le continent ou l\'île sur lesquels les survivants de la *Jane* avaient peut-être réussi à se réfugier, en quittant cette Tsalal, devenue inhabitable depuis le tremblement de terre ?\...
+
+
+Oui, tel était bien le « pour » de la question. Il est vrai --- je suis forcé de l\'avouer --, le « contre » s\'appuyait sur une série d\'arguments de réelle valeur.
+
+Et d\'abord, jusqu\'à ce jour, l\'*Halbrane* n\'avait point marché à l\'aventure. En suivant l\'itinéraire indiqué par Arthur Pym, elle se dirigeait vers un point nettement déterminé, --- l\'île Tsalal. L\'infortuné Patterson l\'affirmait, c\'était sur cette île, d\'un gisement connu, que notre capitaine devait recueillir William Guy et les cinq matelots échappés au guet-apens de Klock-Klock. Or, nous ne les avions plus trouvés à Tsalal, -- ni personne de cette population indigène, anéantie dans on ne sait quelle catastrophe dont nous ignorions la date. Étaient-ils parvenus à s\'enfuir avant ladite catastrophe, survenue depuis le départ de Patterson, c\'est-à-dire depuis moins de sept à huit mois ?\...
+
+Dans tous les cas, la question se réduisait à ce dilemme très simple :
+
+Ou les gens de la *Jane* avaient succombé, et l\'*Halbrane* devait repartir sans retard, ou ils avaient survécu, et il ne fallait pas abandonner les recherches.
+
+Eh bien, si l\'on s\'en tenait au second terme du dilemme, que convenait-il de faire, si ce n\'est de fouiller, île par île, le groupe de l\'ouest signalé dans le récit, et que le tremblement de terre avait peut-être épargné ?\... D\'ailleurs, à défaut de ce groupe, les fugitifs de l\'île Tsalal n\'avaient-ils pu prendre pied sur quelque autre partie de l\'Antarctide ?\... N\'existait-il point de nombreux archipels au milieu de cette mer libre que l\'embarcation d\'Arthur Pym et du métis avait parcourue\... jusqu\'où, on ne savait ?\...
+
+Il est vrai, si leur canot avait été entraîné au-delà du 84^e^ degré, où aurait-il pu atterrir, puisque nulle terre, ni insulaire ni continentale, n\'émergeait de cette immense plaine liquide ?\... Au surplus, je ne cesse de le répéter, la fin du récit ne comporte qu\'étrangetés, invraisemblances, confusions, nées des hallucinations d\'un cerveau quasi malade\... Ah ! c\'est maintenant que Dirk Peters nous eût été utile, si le capitaine Len Guy avait été assez heureux pour le découvrir dans sa retraite de l\'Illinois, et s\'il s\'était embarqué sur l\'*Halbrane* !\...
+
+Donc, pour en revenir à la question, en cas qu\'il fût décidé de continuer la campagne, vers quel point de ces mystérieuses régions notre goélette devrait-elle se diriger ?\... N\'en serait-elle pas réduite, dirai-je, à mettre le cap sur le hasard ?\...
+
+Et puis -- autre difficulté --, l\'équipage de l\'*Halbrane* consentirait-il à courir les chances d\'une navigation si remplie d\'inconnu, à s\'enfoncer plus profondément vers les régions du pôle, avec la crainte de se heurter contre une infranchissable banquise, lorsqu\'il s\'agirait de regagner les mers d\'Amérique ou d\'Afrique ?\...
+
+En effet, quelques semaines encore, et l\'hiver antarctique ramènerait son cortège d\'intempéries et de froidures. Cette mer, actuellement libre, se congèlerait tout entière et ne serait plus navigable. Or, d\'être séquestré au milieu des glaces pendant sept ou huit mois, sans même être assuré d\'accoster quelque part, cela ne ferait-il pas reculer les plus braves ? La vie de nos hommes, leurs chefs avaient-ils le droit de la risquer pour cet infime espoir de recueillir les survivants de la *Jane* introuvés sur l\'île Tsalal ?\...
+
+C\'est à cela qu\'avait réfléchi le capitaine Len Guy depuis la veille. Puis, le cœur brisé, n\'ayant plus aucun espoir de rencontrer son frère et ses compatriotes, il venait de commander, d\'une voix que l\'émotion faisait trembler :
+
+« À demain le départ, dès la première heure ! »
+
+Et, à mon sens, il lui fallait autant d\'énergie morale pour revenir en arrière qu\'il en avait montré pour aller en avant. Mais sa résolution était prise, et il saurait refouler en lui l\'inexprimable douleur que lui causait l\'insuccès de cette campagne.
+
+En ce qui me concerne, je l\'avoue, j\'éprouvais un vif désappointement, on ne peut plus chagriné que notre expédition finît dans ces conditions désolantes. Après m\'être si passionnément attaché aux aventures de la *Jane,* j\'aurais voulu ne point suspendre les recherches, tant qu\'il serait possible de les continuer à travers les parages de l\'Antarctide\...
+
+Et, à notre place, combien de navigateurs auraient eu à cœur de résoudre le problème géographique du pôle austral ! En effet, l\'*Halbrane* s\'était avancée au-delà des régions visitées par les navires de Weddell, puisque l\'île Tsalal gisait à moins de sept degrés du point où se croisent les méridiens. Aucun obstacle ne semblait s\'opposer à ce qu\'elle pût s\'élever aux dernières latitudes. Grâce à cette saison exceptionnelle, vents et courants la conduiraient peut-être à l\'extrémité de l\'axe terrestre, dont elle n\'était éloignée que de quatre cents milles ?\... Si la mer libre s\'étendait jusque-là, ce serait l\'affaire de quelques jours\... S\'il existait un continent, ce serait l\'affaire de quelques semaines\... Mais, en réalité, personne de nous ne songeait au pôle Sud, et ce n\'était pas pour le conquérir que l\'*Halbrane* avait affronté les dangers de l\'océan Antarctique !
+
+Et puis, en admettant que le capitaine Len Guy, désireux de pousser plus loin ses investigations, eût obtenu l\'acquiescement de Jem West, du bosseman et des anciens de l\'équipage, est-ce qu\'il aurait pu y décider les vingt recrues engagées aux Falklands, dont le sealing-master Hearne ne cessait d\'entretenir les mauvaises dispositions ?\... Non ! impossible au capitaine Len Guy de faire fond sur ces hommes en majorité dans l\'équipage, et qu\'il avait déjà conduits jusqu\'à la hauteur de l\'île Tsalal. Ils eussent assurément refusé de s\'aventurer plus haut dans les mers antarctiques, et ce devait être une des raisons pour lesquelles notre capitaine avait pris la résolution de revenir vers le nord, malgré la profonde douleur qu\'il en éprouvait\...
+
+Nous considérions donc la campagne comme terminée, et que l\'on juge de notre surprise, lorsque ces mots se firent entendre :
+
+« Et Pym\... le pauvre Pym ?\... »
+
+Je me retournai\...
+
+C\'était Hunt qui venait de parler.
+
+Immobile près du rouf, cet étrange personnage dévorait l\'horizon du regard\...
+
+À bord de la goélette, on était si peu habitué à entendre la voix de Hunt -- peut-être étaient-ce même les premiers mots qu\'il eût prononcés devant tous depuis son embarquement -- que la curiosité ramena nos hommes près de lui. Son intervention inopinée n\'annonçait-elle pas --- j\'en eus une sorte de pressentiment -- quelque prodigieuse révélation ?\...
+
+Un geste de Jem West renvoya l\'équipage à l\'avant. Il ne resta plus que le lieutenant, le bosseman, le maître-voilier Martin Holt, et le maître-calfat Hardie, qui se considérèrent comme autorisés à demeurer avec nous.
+
+« Qu\'as-tu dit ?\... demanda le capitaine Len Guy en s\'approchant de Hunt.
+
+--- J\'ai dit : Et Pym\... le pauvre Pym ?\...
+
+--- Eh bien, que prétends-tu en nous rappelant le nom de l\'homme dont les détestables conseils ont entraîné mon frère jusqu\'à cette île où la *Jane* a été détruite, où la plus grande partie de son équipage a été massacrée, où nous n\'avons plus trouvé un seul de ceux qui y étaient encore il y a sept mois ?\... »
+
+Et comme Hunt restait muet :
+
+« Réponds donc ! » s\'écria le capitaine Len Guy, qui, le cœur ulcéré, ne pouvait se contenir.
+
+L\'hésitation de Hunt ne venait point de ce qu\'il ne savait que répondre, mais, ainsi qu\'on va le voir, d\'une certaine difficulté à exprimer ses idées. Elles étaient très nettes cependant, bien que sa phrase fût entrecoupée, ses mots à peine reliés entre eux. Enfin, il avait une sorte de langage à lui, imagé parfois, et sa prononciation était fortement empreinte de l\'accent rauque des Indiens du Far West.
+
+« Voilà\... dit-il, je ne sais pas raconter les choses\... Ma langue s\'arrête\... Comprenez-moi\... J\'ai parlé de Pym\... du pauvre Pym\... n\'est-ce pas ?\...
+
+--- Oui, répliqua le lieutenant d\'un ton bref, et qu\'as-tu à nous dire d\'Arthur Pym ?\...
+
+--- J\'ai à dire\... qu\'il ne faut pas l\'abandonner\...
+
+--- Ne pas l\'abandonner ?\... m\'écriai-je.
+
+--- Non\... jamais !\... reprit Hunt. Songez-y\... ce serait cruel\... trop cruel !\... Nous irons le chercher\...
+
+--- Le chercher ?\... répéta le capitaine Len Guy.
+
+--- Comprenez-moi\... c\'est pour cela que j\'ai embarqué à bord de l\'*Halbrane\...* oui\... pour retrouver\... le pauvre Pym ?\...
+
+--- Et où est-il donc, demandai-je, si ce n\'est au fond d\'une tombe\... dans le cimetière de sa ville natale ?\...
+
+--- Non\... il est là où il est resté\... seul\... tout seul\... répondit Hunt en tendant sa main vers le sud, et, depuis, onze fois déjà le soleil s\'est levé sur cet horizon ! »
+
+Hunt voulait ainsi désigner les régions antarctiques, c\'était évident\... Mais que prétendait-il ?\...
+
+« Est-ce que tu ne sais pas qu\'Arthur Pym est mort ?\... dit le capitaine Len Guy.
+
+--- Mort !\... répartit Hunt, en soulignant ce mot d\'un geste expressif. Non !\... écoutez-moi\... je connais les choses\... comprenez-moi\... Il n\'est pas mort\...
+
+--- Voyons, Hunt, repris-je\... rappelez-vous\... au dernier chapitre des aventures d\'Arthur Pym, Edgar Poe ne raconte-t-il pas que sa fin a été soudaine et déplorable ?\... »
+
+Il est vrai, de quelle façon s\'était terminée cette vie si extraordinaire, le poète américain ne l\'indiquait pas, et, j\'y insiste, cela m\'avait toujours semblé assez suspect ! Le secret de cette mort allait-il donc m\'être enfin révélé, puisque, à en croire Hunt, Arthur Pym ne serait jamais revenu des régions polaires ?\...
+
+« Explique-toi, Hunt, ordonna le capitaine Len Guy, qui partageait ma surprise. Réfléchis\... prends ton temps\... et dis bien ce que tu as à dire ! »
+
+Et, tandis que Hunt passait sa main sur son front comme pour y recueillir de lointains souvenirs, je fis cette observation au capitaine Len Guy\...
+
+« Il y a quelque chose de singulier dans l\'intervention de cet homme, et s\'il n\'est pas fou\... »
+
+À ces mots, le bosseman secoua la tête, car, pour lui, Hunt ne jouissait pas de son bon sens.
+
+Celui-ci le comprit, et, d\'une voix dure :
+
+« Non\... pas fou\... s\'écria-t-il. Les fous là-bas\... dans la Prairie\... on les respecte, si on ne les croit pas !\... Et moi\... il faut me croire !\... Non !\... Pym n\'est pas mort !\...
+
+--- Edgar Poe l\'affirme, répondis-je.
+
+--- Oui\... je sais\... Edgar Poe\... de Baltimore\... Mais\... il n\'a jamais vu le pauvre Pym\... jamais\...
+
+--- Comment ! s\'écria le capitaine Len Guy, ces deux hommes ne se connaissaient pas ?\...
+
+--- Non !
+
+--- Et ce n\'est pas Arthur Pym qui a raconté lui-même ses aventures à Edgar Poe ?\...
+
+--- Non\... capitaine\... non ! répondit Hunt\... Celui-là\... à Baltimore\... il n\'a eu que les notes écrites par Pym depuis le jour où il s\'était caché à bord du *Grampus\...* écrites jusqu\'à la dernière heure\... la dernière\... comprenez-moi\... comprenez-moi !\... »
+
+Évidemment, la crainte de Hunt était de ne pas être intelligible, et il le répétait sans cesse. D\'ailleurs --- je ne puis en disconvenir ---, ce qu\'il déclarait semblait impossible à admettre. Ainsi, d\'après lui, Arthur Pym ne serait jamais entré en relation avec Edgar Poe ?\... Le poète américain aurait seulement eu connaissance de notes rédigées jour par jour pendant toute la durée de cet invraisemblable voyage ?\...
+
+« Qui donc a rapporté ce journal ?\... demanda le capitaine Len Guy en saisissant la main de Hunt.
+
+--- C\'est le compagnon de Pym\... celui qui l\'aimait comme un fils, son pauvre Pym\... le métis Dirk Peters\... qui est revenu seul de là-bas\...
+
+--- Le métis Dirk Peters ?\... m\'écriai-je.
+
+--- Oui.
+
+--- Seul ?\...
+
+--- Seul.
+
+--- Et Arthur Pym serait ?\...
+
+--- Là ! » répondit Hunt d\'une voix puissante, en se penchant vers ces régions du sud, où son regard restait obstinément attaché.
+
+Une telle affirmation pouvait-elle avoir raison de l\'incrédulité générale ?\... Non, certes ! Aussi Martin Holt poussa-t-il Hurliguerly du coude, et tous deux parurent prendre Hunt en pitié, tandis que Jem West l\'observait sans exprimer son sentiment. Quant au capitaine Len Guy, il me fit signe qu\'il n\'y avait rien de sérieux à tirer de ce pauvre diable, dont les facultés mentales devaient être depuis longtemps troublées.
+
+Et pourtant, lorsque j\'examinais Hunt, je croyais surprendre une sorte de rayonnement de vérité qui s\'échappait de ses yeux.
+
+Alors je m\'ingéniai à interroger Hunt, à lui poser des questions précises et pressantes, auxquelles il essaya de répondre par des affirmations successives, ainsi qu\'on va le voir, et sans jamais se contredire.
+
+« Voyons\... demandai-je, après avoir été recueilli sur la coque du *Grampus* avec Dirk Peters, Arthur Pym est bien venu à bord de la *Jane* jusqu\'à l\'île Tsalal ?\...
+
+--- Oui.
+
+--- Pendant une visite du capitaine William Guy au village de Klock-Klock, Arthur Pym s\'est séparé de ses compagnons en même temps que le métis et un des matelots ?\...
+
+--- Oui\... répondit Hunt, le matelot Allen\... qui presque aussitôt a été étouffé sous les pierres\...
+
+--- Puis, tous deux ont assisté, du haut de la colline, à l\'attaque et à la destruction de la goélette ?\...
+
+--- Oui\...
+
+--- Puis, à quelque temps de là, tous deux ont quitté l\'île, après s\'être emparés d\'une des embarcations que les indigènes n\'ont pu leur reprendre ?\...
+
+--- Oui\...
+
+--- Et, vingt jours plus tard, arrivés devant le rideau des vapeurs, tous deux ont été emportés dans le gouffre de la cataracte ?\... »
+
+Hunt ne répondit pas d\'une manière affirmative cette fois\... hésitant, balbutiant des paroles vagues\... Il semblait qu\'il cherchât à raviver le feu de sa mémoire à demi éteinte\... Enfin, me regardant et secouant la tête :
+
+« Non\... pas tous deux, répondit-il. Comprenez-moi\... Dirk Peters\... ne m\'a jamais dit\...
+
+--- Dirk Peters\..., interrogea vivement le capitaine Len Guy. Tu as connu Dirk Peters ?\...
+
+--- Oui\...
+
+--- Où ?\...
+
+--- À Vandalia\... État de l\'Illinois.
+
+--- Et c\'est de lui que tu tiens tous ces renseignements sur le voyage ?\...
+
+--- De lui.
+
+--- Et il était revenu seul\... seul\... de là-bas\... après avoir laissé Arthur Pym ?\...
+
+--- Seul.
+
+--- Mais parlez donc\... parlez donc ! » m\'écriai-je.
+
+En effet, je bouillais d\'impatience. Quoi ! Hunt avait connu Dirk Peters, et, grâce à lui, il savait des choses que je croyais condamnées à n\'être jamais sues !\... Il connaissait le dénouement de ces extraordinaires aventures !\...
+
+Et alors, par phrases entrecoupées, mais intelligibles, Hunt de répondre :
+
+« Oui\... là\... un rideau de vapeurs\... m\'a souvent dit le métis\... comprenez-moi\... Tous deux, Arthur Pym et lui, étaient dans le canot de Tsalal\... Puis\... un glaçon\... un énorme glaçon est venu sur eux\... Au choc, Dirk Peters est tombé à la mer\... Mais il a pu s\'accrocher au glaçon\... monter dessus\... et\... comprenez-moi\... il a vu le canot dériver avec le courant, loin\... bien loin\... trop loin !\... En vain Pym chercha-t-il à rejoindre son compagnon\... Il n\'a pas pu\... Le canot s\'en allait\... s\'en allait !\... Et Pym\... le pauvre et cher Pym a été emporté\... C\'est lui qui n\'est pas revenu\... et il est là\... toujours là !\... »
+
+En vérité, cet homme eût été Dirk Peters en personne qu\'il n\'aurait pas parlé avec plus d\'émotion, plus de force, plus de cœur, du « pauvre et cher Pym » !
+
+Cependant, le fait était acquis -- et pourquoi en aurions-nous douté ? --- c\'était donc devant ce rideau de vapeurs qu\'Arthur Pym et le métis avaient été séparés l\'un de l\'autre ?\...
+
+Il est vrai, si Arthur Pym avait continué à s\'élever vers de plus hautes latitudes, comment son compagnon Dirk Peters avait-il pu revenir vers le nord\... revenir au-delà de la banquise\... revenir au-delà du cercle polaire\... revenir en Amérique, où il aurait rapporté ces notes qui furent communiquées à Edgar Poe ?\...
+
+Ces diverses questions furent minutieusement posées à Hunt, et il répondit à toutes, conformément --- disait-il --- à ce que lui avait maintes fois raconté le métis.
+
+D\'après ce qu\'il nous apprit, Dirk Peters avait dans sa poche le carnet d\'Arthur Pym, lorsqu\'il s\'accrocha au glaçon, et c\'est ainsi que fut sauvé le journal que le métis mit à la disposition du romancier américain.
+
+« Comprenez-moi\... répétait Hunt, car je vous dis les choses telles que je les tiens de Dirk Peters\... Tandis que la dérive l\'entraînait, il cria de toutes ses forces\... Pym, le pauvre Pym avait déjà disparu au milieu du rideau de vapeurs\... Quant au métis, en se nourrissant de poissons crus qu\'il put prendre, il fut ramené par un contre-courant à l\'île Tsalal, où il débarqua à demi mort de faim\...
+
+--- À l\'île Tsalal ?\... s\'écria le capitaine Len Guy. Et depuis combien de temps l\'avait-il quittée ?\...
+
+--- Depuis trois semaines\... oui\... trois semaines au plus\... m\'a déclaré Dirk Peters\...
+
+--- Alors il a dû retrouver ce qui restait de l\'équipage de la *Jane\...* demanda le capitaine Len Guy, mon frère William et ceux qui avaient survécu avec lui ?\...
+
+--- Non\... répondit Hunt, et Dirk Peters a toujours cru qu\'ils avaient péri jusqu\'au dernier\... oui\... tous !\... Il n\'y avait plus personne sur l\'île\...
+
+--- Personne ?\... répétai-je, très surpris de cette affirmation.
+
+--- Personne ! déclara Hunt.
+
+--- Mais la population de Tsalal ?\...
+
+--- Personne\... vous dis-je\... personne !\... Île déserte\... oui !\... déserte !\... »
+
+Cela contredisait absolument certains faits dont nous étions sûrs. Après tout, il se pouvait que, lorsque Dirk Peters revint à l\'île Tsalal, la population, prise d\'on ne sait quelle épouvante, eût déjà cherché refuge sur le groupe du sud-ouest, et que William Guy et ses compagnons fussent encore cachés dans les gorges de Klock-Klock. Cela expliquait comment le métis ne les avait pas rencontrés et aussi comment les survivants de la *Jane* n\'avaient plus rien eu à craindre des insulaires pendant les onze années de leur séjour sur l\'île. D\'autre part, puisque Patterson les y avait laissés sept mois auparavant, si nous ne les retrouvions plus, c\'est qu\'ils avaient dû quitter Tsalal, où ils ne trouvaient plus à vivre depuis le tremblement de terre\...
+
+« Ainsi, reprit le capitaine Len Guy, au retour de Dirk Peters, plus un habitant sur l\'île ?\...
+
+--- Personne\... répéta Hunt, personne\... Le métis n\'y rencontra pas un seul indigène\...
+
+--- Et alors que fit Dirk Peters ?\... demanda le bosseman.
+
+--- Comprenez-moi !\... répondit Hunt. Une embarcation abandonnée était là\... au fond de cette baie\... contenant des viandes séchées et plusieurs barils d\'eau douce. Le métis s\'y jeta\... Un vent du sud\... oui\... du sud\... très vif --- celui qui, avec le contre-courant, avait ramené son glaçon vers l\'île Tsalal -- l\'entraîna pendant des semaines et des semaines\... du côté de la banquise\... dont il put traverser une passe\... Croyez-moi\... car je ne fais que répéter ce que m\'a dit cent fois Dirk Peters\... oui ! une passe\... et il franchit le cercle polaire\...
+
+--- Et au-delà ?\... questionnai-je.
+
+--- Au-delà\... il fut recueilli par un baleinier américain, le *Sandy-Hook,* et reconduit en Amérique. »
+
+Voilà donc, en tenant le récit de Hunt pour véridique -- et il était possible qu\'il le fût --, de quelle façon s\'était dénoué, au moins en ce qui concernait Dirk Peters, ce terrible drame des régions antarctiques. De retour aux États-Unis, le métis avait été mis en relation avec Edgar Poe, alors éditeur du *Southern Literary Messenger,* et des notes d\'Arthur Pym était sorti ce prodigieux récit, non imaginaire comme on l\'avait cru jusqu\'alors, et auquel manquait le suprême dénouement.
+
+Quant à la part de l\'imagination dans l\'œuvre de l\'auteur américain, c\'était sans doute les étrangetés signalées aux derniers chapitres, -- à moins que, en proie au délire des heures finales, Arthur Pym eût cru voir ces prodigieux et surnaturels phénomènes à travers le rideau de vapeurs\...
+
+Quoi qu\'il en soit -- ce fait était acquis --, jamais Edgar Poe n\'avait connu Arthur Pym. C\'est pourquoi, voulant laisser au lecteur une incertitude surexcitante, il l\'avait fait mourir de cette mort « aussi soudaine que déplorable » dont il n\'indiquait ni la nature ni la cause.
+
+Cependant, si Arthur Pym n\'était jamais revenu, pouvait-on raisonnablement admettre qu\'il n\'eût pas succombé à bref délai, après avoir été séparé de son compagnon\... qu\'il fût encore vivant, bien que onze années se fussent écoulées depuis sa disparition ?\...
+
+« Oui\... oui ! » répondit Hunt.
+
+Et il l\'affirmait avec cette conviction que Dirk Peters avait fait passer dans son âme, alors que tous deux habitaient la bourgade de Vandalia au fond de l\'Illinois.
+
+Maintenant, y avait-il lieu de se demander si Hunt possédait toute sa raison ?\... N\'était-ce pas lui qui, pendant une crise mentale -- je n\'en doutais plus --, après s\'être introduit dans ma cabine, avait murmuré ces mots à mon oreille :
+
+« Et Pym\... le pauvre Pym ?\... »
+
+Oui !\... et je n\'avais pas rêvé !\...
+
+En résumé, si tout ce que venait de dire Hunt était vrai, s\'il n\'était que le fidèle rapporteur des secrets que lui avait confiés Dirk Peters, devait-il être cru, lorsqu\'il répétait d\'une voix à la fois impérieuse et suppliante :
+
+« Pym n\'est pas mort !\... Pym est là !\... Il ne faut pas abandonner le pauvre Pym ! »
+
+Lorsque j\'eus fini de procéder à l\'interrogatoire de Hunt, le capitaine Len Guy, profondément troublé, sortit enfin de cet état méditatif, et, d\'une voix brusque, commanda :
+
+« Tout l\'équipage à l\'arrière ! »
+
+Lorsque les hommes de la goélette furent réunis autour de lui, il dit :
+
+« Écoute-moi, Hunt, et songe bien à la gravité des demandes que je vais te faire ! »
+
+Hunt, relevant la tête, promena son regard sur les matelots de l\'*Halbrane.*
+
+« Tu affirmes, Hunt, que tout ce que tu viens de dire sur Arthur Pym est vrai ?\...
+
+--- Oui, répondit Hunt, en accentuant d\'un geste rude son affirmation.
+
+--- Tu as connu Dirk Peters\...
+
+--- Oui.
+
+--- Tu as vécu quelques années avec lui dans l\'Illinois ?\...
+
+--- Pendant neuf ans.
+
+--- Et il t\'a souvent raconté ces choses ?\...
+
+--- Oui.
+
+--- Et, pour ta part, tu ne mets pas en doute qu\'il t\'ait dit l\'exacte vérité ?\...
+
+--- Non.
+
+--- Eh bien, n\'a-t-il jamais eu la pensée que quelques-uns des hommes de la *Jane* eussent pu être restés sur l\'île Tsalal ?\...
+
+--- Non.
+
+--- Il croyait que William Guy et ses compagnons avaient dû tous périr dans l\'éboulement des collines de Klock-Klock ?\...
+
+--- Oui\... et\... d\'après ce qu\'il m\'a souvent répété\... Pym le croyait aussi.
+
+--- Et où as-tu vu Dirk Peters pour la dernière fois ?\...
+
+--- À Vandalia.
+
+--- Il y a longtemps ?\...
+
+--- Deux ans passés.
+
+--- Et, de vous deux, est-ce toi\... ou lui\... qui a le premier quitté Vandalia ?\... »
+
+Il me sembla surprendre une légère hésitation chez Hunt au moment de répondre.
+
+« Nous l\'avons quitté ensemble\... dit-il.
+
+--- Toi, pour aller ?\...
+
+--- Aux Falklands.
+
+--- Et lui ?\...
+
+--- Lui !\... » répéta Hunt.
+
+Et son regard vint, finalement, s\'arrêter sur notre maître-voilier Martin Holt, -- celui dont il avait sauvé la vie au péril de la sienne pendant la tempête.
+
+« Eh bien, reprit le capitaine Len Guy, comprends-tu ce que je te demande ?\...
+
+--- Oui.
+
+--- Réponds\... alors !\... Lorsque Dirk Peters est parti de l\'Illinois, a-t-il abandonné l\'Amérique ?\...
+
+--- Oui.
+
+--- Pour aller ?\... Parle !\...
+
+--- Aux Falklands !
+
+--- Et où est-il maintenant ?\...
+
+--- Devant vous ! »
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730026 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729098 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728170 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727583 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726655 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 2 -- Décision prise]{#_Toc349724339 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-2-décision-prise .calibre171 .sigil_not_in_toc}
+
+Dirk Peters !\... Hunt était le métis Dirk Peters\... le dévoué compagnon d\'Arthur Pym, celui que le capitaine Len Guy avait si longtemps et si inutilement cherché aux États-Unis et dont la présence allait peut-être nous fournir une nouvelle raison de poursuivre cette campagne\...
+
+Qu\'il ait dû suffire de quelque flair au lecteur pour que, depuis bien des pages de mon récit, il eût reconnu Dirk Peters dans ce personnage de Hunt, qu\'il se soit attendu à ce coup de théâtre, je ne m\'en étonnerai pas, et j\'affirme même que le contraire aurait lieu de me surprendre.
+
+En effet, rien de plus naturel, de plus indiqué que d\'avoir fait ce raisonnement : Comment le capitaine Len Guy et moi, ayant si souvent lu le livre d\'Edgar Poe, où le portrait physique de Dirk Peters est tracé d\'un crayon précis, comment n\'avons-nous pas soupçonné que l\'homme qui s\'était embarqué aux Falklands et le métis ne faisaient qu\'un ?\... De notre part, cela ne témoignait-il pas d\'un manque de perspicacité ?\... Je l\'accorde, et, pourtant, cela s\'explique dans une certaine mesure.
+
+Oui, tout trahissait chez Hunt une origine indienne, qui était celle de Dirk Peters, puisqu\'il appartenait à la tribu des Upsarokas du Far West, et cela aurait peut-être dû nous lancer sur la voie de la vérité. Mais, que l\'on veuille bien considérer les circonstances dans lesquelles Hunt s\'était présenté au capitaine Len Guy, circonstances qui ne permettaient pas de mettre son identité en doute. Hunt habitait les Falklands, très loin de l\'Illinois, au milieu de ces matelots de toute nationalité qui attendent la saison de la pêche pour passer à bord des baleiniers\... Depuis son embarquement, il s\'était tenu, vis-à-vis de nous, sur une excessive réserve\... C\'était la première fois, que nous venions de l\'entendre parler, et rien jusqu\'alors -- du moins par son attitude -- n\'avait induit à croire qu\'il eût caché son véritable nom\... Et, on vient de le voir, ce nom de Dirk Peters, il ne l\'avait déclaré que sur les dernières instances de notre capitaine.
+
+Il est vrai, Hunt était d\'un type assez extraordinaire, un être assez à part, pour provoquer notre attention. Oui\... cela me revenait maintenant, -- ses façons bizarres depuis que la goélette avait franchi le cercle antarctique, depuis qu\'elle naviguait sur les eaux de cette mer libre\... ses regards incessamment dirigés vers l\'horizon du sud\... sa main qui, par un mouvement instinctif, se tendait dans cette direction\... Puis, c\'était l\'îlot Bennet qu\'il semblait avoir visité déjà, et sur lequel il avait ramassé un débris de bordage de la *Jane,* et, enfin, l\'île Tsalal\... Là, il avait pris les devants, et nous l\'avions suivi comme un guide à travers la plaine bouleversée, jusqu\'à l\'emplacement du village de Klock-Klock, à l\'entrée du ravin, près de cette colline où se creusaient les labyrinthes dont il ne restait aucun vestige\... Oui\... tout cela aurait dû nous tenir en éveil, faire naître --- en moi au moins --- la pensée que ce Hunt avait pu être mêlé aux aventures d\'Arthur Pym !\...
+
+Eh bien, non seulement le capitaine Len Guy, mais aussi son passager Jeorling avaient une taie sur l\'œil !\... Je l\'avoue, nous étions deux aveugles, alors que certaines pages du livre d\'Edgar Poe auraient dû nous rendre très clairvoyants !
+
+En somme, il n\'y avait pas à mettre en doute que Hunt fût réellement Dirk Peters. Quoique plus vieux de onze ans, il était encore tel que l\'avait dépeint Arthur Pym. Il est vrai, l\'aspect féroce dont parle le récit n\'existait plus, et, d\'ailleurs, d\'après Arthur Pym lui-même, ce n\'était qu\'« une férocité apparente ». Donc, au physique, rien de changé, --- la petite taille, la puissante musculature, les membres « coulés dans un moule herculéen », et ses mains « si épaisses et si larges qu\'elles avaient à peine conservé la forme humaine », et ses bras et ses jambes arquées, et sa tête d\'une grosseur prodigieuse, et sa bouche fendue sur toute la largeur de la face, et « ses dents longues que les lèvres ne recouvraient jamais même partiellement ». Je le répète, ce signalement s\'appliquait à notre recrue des Falklands. Mais on ne retrouvait plus sur son visage cette expression qui, si elle était le symptôme de la gaieté, ne pouvait être que « la gaieté d\'un démon » !
+
+En effet, le métis avait changé avec l\'âge, l\'expérience, les à-coups de la vie, les terribles scènes auxquelles il avait pris part, -- incidents, comme le dit Arthur Pym, « si complètement en dehors du registre de l\'expérience et dépassant les bornes de la crédulité des hommes ». Oui ! cette rude lime des épreuves avait profondément usé le moral de Dirks Peters ! N\'importe ! c\'était bien le fidèle compagnon auquel Arthur Pym avait souvent dû son salut, ce Dirk Peters qui l\'aimait comme son fils, et qui n\'avait jamais perdu, non ! jamais, l\'espoir de le retrouver quelque jour au milieu des affreuses solitudes de l\'Antarctide !
+
+Maintenant, pourquoi Dirk Peters se cachait-il aux Falklands sous le nom de Hunt, pourquoi, depuis son embarquement sur l\'*Halbrane,* avait-il tenu à conserver cet incognito, pourquoi n\'avoir pas dit qui il était, puisqu\'il connaissait les intentions du capitaine Len Guy, dont tous les efforts allaient tendre à sauver ses compatriotes en suivant l\'itinéraire de la *Jane* ?\...
+
+Pourquoi ?\... Sans doute parce qu\'il craignait que son nom fût un objet d\'horreur !\... En effet, n\'était-ce pas celui de l\'homme qui avait été mêlé aux épouvantables scènes du *Grampus\...* qui avait frappé le matelot Parker\... qui s\'était nourri de sa chair, désaltéré de son sang !\... Pour qu\'il eût révélé son nom, il fallait qu\'il espérât que, grâce à cette révélation, l\'*Halbrane* tenterait de retrouver Arthur Pym !\...
+
+Ainsi, après avoir vécu quelques années dans l\'Illinois, si le métis était venu s\'installer aux Falklands, c\'était avec l\'intention de saisir la première occasion qui s\'offrirait à lui de retourner dans les mers antarctiques. En embarquant sur l\' *Halbrane,* il comptait décider le capitaine Len Guy, lorsqu\'il aurait recueilli ses compatriotes sur l\'île Tsalal, à s\'élever vers de plus hautes latitudes, à prolonger l\'expédition au profit d\'Arthur Pym ?\... Et pourtant, que cet infortuné, après onze ans, fût de ce monde, quel homme de bon sens eût voulu l\'admettre ?\... Au moins, l\'existence du capitaine William Guy et de ses compagnons était-elle assurée par les ressources de l\'île Tsalal, et, d\'ailleurs, les notes de Patterson affirmaient qu\'ils s\'y trouvaient encore lorsqu\'il l\'avait quittée\... Quant à l\'existence d\'Arthur Pym\...
+
+Néanmoins, devant cette affirmation de Dirk Peters -- laquelle, je dois en convenir, ne reposait sur rien de positif --, mon esprit ne se révoltait pas comme il aurait dû le faire !\... Non !\... Et lorsque le métis cria : « Pym n\'est pas mort\... Pym est là\... Il ne faut pas abandonner le pauvre Pym ! » ce cri ne laissa pas de me causer un trouble profond\...
+
+Et alors, je songeai à Edgar Poe, et je me demandais quelle serait son attitude, peut-être son embarras, si l\'*Halbrane* ramenait celui dont il avait annoncé la mort « aussi soudaine que déplorable\... » !
+
+Décidément, depuis que j\'avais résolu de prendre part à la campagne de l\'*Halbrane,* je n\'étais plus le même homme, --- l\'homme pratique et raisonnable d\'autrefois. Comment, à propos d\'Arthur Pym, voici que je sentais mon cœur battre comme battait celui de Dirk Peters !\... Quitter l\'île Tsalal pour revenir au nord, vers l\'Atlantique, l\'idée me prenait que c\'eût été se décharger d\'un devoir d\'humanité, le devoir d\'aller au secours d\'un malheureux, abandonné dans les déserts glacés de l\'Antarctide !\...
+
+Il est vrai, demander au capitaine Len Guy d\'engager la goélette plus avant dans ces mers, obtenir ce nouvel effort de l\'équipage, après tant de dangers déjà bravés en pure perte, c\'eût été s\'exposer à un refus, et, au total, il ne m\'appartenait pas d\'intervenir en cette occasion ?\... Et, cependant, je le sentais, Dirk Peters comptait sur moi pour plaider la cause de son pauvre Pym !
+
+Un assez long silence avait suivi la déclaration du métis. Personne, à coup sûr, ne songeait à suspecter sa véracité. Il avait dit : « Je suis Dirk Peters ; il était Dirk Peters. »
+
+En ce qui concernait Arthur Pym, qu\'il ne fût jamais revenu en Amérique, qu\'il eût été séparé de son compagnon, puis entraîné avec le canot tsalalien vers les régions du pôle, ces faits étaient admissibles en eux-mêmes, et rien n\'autorisait à croire que Dirk Peters n\'eût pas dit la vérité. Mais, qu\'Arthur Pym fût encore vivant, comme le déclarait le métis, que le devoir s\'imposât de se lancer à sa recherche, comme il le demandait, de s\'exposer à tant de nouveaux périls, c\'était une autre question.
+
+Toutefois, résolu à soutenir Dirk Peters, mais craignant de m\'avancer sur un terrain où j\'eusse risqué d\'être battu dès le début, je revins à l\'argumentation très acceptable, en somme, qui remettait en cause le capitaine William Guy et ses cinq matelots dont nous n\'avions plus trouvé trace à l\'île Tsalal.
+
+« Mes amis, dis-je, avant de prendre un parti définitif, il est sage d\'envisager la situation de sang-froid. Ne serait-ce pas nous préparer d\'éternels regrets, de cuisants remords, que d\'abandonner notre expédition au moment peut-être où elle avait quelque chance d\'aboutir ?\... Réfléchissez-y, capitaine, et vous aussi, mes compagnons. Il y a moins de sept mois, vos compatriotes ont été laissés en pleine vie par l\'infortuné Patterson sur l\'île Tsalal !\... S\'ils y étaient à cette époque, c\'est que depuis onze ans, grâce aux ressources de l\'île, ils avaient pu assurer leur existence, n\'ayant plus à redouter ces insulaires, dont une partie avait succombé dans des circonstances que nous ne connaissons pas et dont l\'autre s\'était probablement transportée sur quelque île voisine\... Ceci est l\'évidence même, et je ne vois pas ce que l\'on pourrait objecter à ce raisonnement\... »
+
+À ce que je venais de dire, personne ne répondit : il n\'y avait rien à répondre.
+
+« Si nous n\'avons plus rencontré le capitaine de la *Jane* et les siens, repris-je en m\'animant, c\'est que, depuis le départ de Patterson, ils ont été contraints d\'abandonner l\'île Tsalal\... Pour quel motif ?\... À mon avis, c\'est parce que le tremblement de terre l\'avait si profondément bouleversée qu\'elle était devenue inhabitable. Or, il leur aura suffi d\'une embarcation indigène pour gagner avec le courant du nord, soit une autre île, soit quelque point du continent antarctique\... Que les choses se soient passées ainsi, je ne crois pas trop m\'avancer en l\'affirmant\... En tout cas, ce que je sais, ce que je répète, c\'est que nous n\'aurons rien fait, si nous ne continuons pas des recherches desquelles dépend le salut de vos compatriotes ! »
+
+J\'interrogeai du regard mon auditoire\... Je n\'en obtins aucune réponse\...
+
+Le capitaine Len Guy, en proie à la plus vive émotion, courbait la tête, car il sentait que j\'avais raison, que j\'indiquais, en invoquant les devoirs de l\'humanité, la seule conduite qu\'eussent à tenir des gens de cœur !
+
+« Et de quoi s\'agit-il ? déclarai-je, après un court silence ; de franchir quelques degrés en latitude, et cela, lorsque la mer est navigable, quand la saison nous assure deux mois de beau temps et que nous n\'avons rien à redouter de l\'hiver austral, dont je ne vous demande pas de braver les rigueurs !\... Et nous hésiterions, alors que l\'*Halbrane* est largement approvisionnée, que son équipage est valide, qu\'il est au complet, qu\'aucune maladie ne s\'est introduite à bord !\... Nous nous effraierions de dangers imaginaires !\... Nous n\'aurions pas le courage d\'aller plus avant\... là\... là\... »
+
+Et je montrais l\'horizon du sud, tandis que Dirk Peters le montrait aussi, sans prononcer une parole, d\'un geste impératif qui parlait pour lui !
+
+Toujours les yeux restaient fixés sur nous, et, cette fois encore, pas de réponse !
+
+Assurément, la goélette saurait, sans trop d\'imprudence, s\'aventurer à travers ces parages pendant huit à neuf semaines. Nous n\'étions qu\'au 26 décembre, et c\'est en janvier, en février, en mars même, que les expéditions antérieures avaient été entreprises, --- celles de Bellingshausen, de Biscoe, de Kendal, de Weddell, lesquels avaient pu remettre le cap au nord, avant que le froid leur eût fermé toute issue. En outre, si leurs navires ne s\'étaient pas engagés aussi haut dans les régions australes qu\'il s\'agissait pour l\'*Halbrane* de le faire, ils n\'avaient point été favorisés comme nous pouvions espérer de l\'être en ces circonstances\...
+
+Je fis valoir ces divers arguments, guettant une approbation dont personne ne voulait accepter la responsabilité\...
+
+Silence absolu, tous yeux baissés\...
+
+Et, cependant, je n\'avais pas prononcé une seule fois le nom d\'Arthur Pym, ni appuyé la proposition de Dirks Peters. C\'est alors que des haussements d\'épaules m\'auraient répondu\... et peut-être des menaces contre ma personne !
+
+Je me demandais donc si, oui ou non, j\'avais réussi à faire pénétrer chez mes compagnons cette foi dont mon âme était pleine, lorsque le capitaine Len Guy prit la parole :
+
+« Dirk Peters, dit-il, affirmes-tu qu\'Arthur Pym et toi, après votre départ de Tsalal, vous avez entrevu des terres dans la direction du sud ?\...
+
+--- Oui\... des terres\... répondit le métis\... îles ou continent\... comprenez-moi\... et c\'est là\... je crois\... je suis sûr\... que Pym\... le pauvre Pym\... attend que l\'on vienne à son secours\...
+
+--- Là où attendent peut-être aussi William Guy et ses compagnons\... » m\'écriai-je, afin de ramener la discussion sur un meilleur terrain.
+
+Et, de fait, ces terres entrevues, c\'était un but, un but qu\'il serait facile d\'atteindre !\... L\'*Halbrane* ne naviguerait pas à l\'aventure\... Elle irait là où il était possible que se fussent réfugiés les survivants de la *Jane* !\...
+
+Le capitaine Len Guy ne reprit pas la parole, sans avoir réfléchi quelques instants.
+
+« Et, au-delà du 84^e^ degré, Dirk Peters, dit-il, est-ce vrai que l\'horizon était fermé par ce rideau de vapeurs dont il est question dans le récit ?\... L\'as-tu vu\... de tes yeux vu\... et ces cataractes aériennes\... et ce gouffre à travers lequel s\'est perdue l\'embarcation d\'Arthur Pym ?\... »
+
+Après nous avoir regardés les uns les autres, le métis secoua sa grosse tête.
+
+« Je ne sais\... dit-il. Que me demandez-vous, capitaine ?\... Un rideau de vapeurs ?\... Oui\... peut-être\... et aussi des apparences de terre vers le sud\... »
+
+Évidemment, Dirk Peters n\'avait jamais lu le livre d\'Edgar Poe, et il est même probable qu\'il ne savait pas lire. Après avoir communiqué le journal d\'Arthur Pym, il ne s\'était plus inquiété de sa publication. Retiré dans l\'Illinois d\'abord, aux Falklands ensuite, il ne se doutait guère du bruit qu\'avait fait l\'ouvrage ni du fantastique et invraisemblable dénouement donné par notre grand poète à ces étranges aventures !\...
+
+Et, d\'ailleurs, ne se pouvait-il qu\'Arthur Pym, avec sa propension au surnaturel, eût cru voir ces choses prodigieuses, uniquement dues à sa trop imaginative cérébralité ?\...
+
+Alors, et pour la première fois depuis le début de cette discussion, la voix de Jem West se fit entendre. Le lieutenant s\'était-il rangé à mon opinion, mes arguments l\'avaient-ils ébranlé, conclurait-il pour la continuation de la campagne, je n\'aurais pu le dire. Dans tous les cas, il se borna à demander :
+
+« Capitaine\... vos ordres ?\... »
+
+Le capitaine Len Guy se retourna vers son équipage. Anciens et nouveaux l\'entouraient, tandis que le sealing-master Hearne restait un peu en arrière, prêt à intervenir, s\'il jugeait son intervention nécessaire.
+
+Le capitaine Len Guy interrogea du regard le bosseman et ses camarades, dont le dévouement lui était acquis sans réserve. Releva-t-il dans leur attitude une sorte d\'acquiescement à la continuation du voyage, je ne sais trop, car j\'entendis ces mots chuchotés entre ses lèvres :
+
+« Ah ! s\'il ne dépendait que de moi\... si tous m\'assuraient de leur concours ! »
+
+En effet, sans une entente commune, on ne pouvait se lancer dans de nouvelles recherches.
+
+Hearne prit alors la parole, -- rudement.
+
+« Capitaine, dit-il, voilà deux mois passés que nous avons quitté les Falklands\... Or, mes compagnons ont été engagés pour une navigation qui ne devait pas les conduire, au-delà de la banquise, plus loin que l\'île Tsalal\...
+
+--- Cela n\'est pas ! s\'écria le capitaine Len Guy, surexcité par cette déclaration de Hearne. Non\... cela n\'est pas !\... Je vous ai recrutés tous pour une campagne que j\'ai le droit de poursuivre jusqu\'où il me plaira !
+
+--- Pardon, capitaine, reprit Hearne d\'un ton sec, mais nous voici là où aucun navigateur n\'est encore arrivé\... où jamais un navire ne s\'est risqué, sauf la *Jane\...* Aussi, mes camarades et moi, nous pensons qu\'il convient de retourner aux Falklands avant la mauvaise saison\... De là, vous pourrez revenir à l\'île Tsalal et même remonter jusqu\'au pôle\... si cela vous plaît ! »
+
+Un murmure approbatif se fit entendre. Nul doute que le sealing-master ne traduisît les sentiments de la majorité, qui était précisément composée des nouveaux de l\'équipage. Aller contre leur opinion, exiger l\'obéissance de ces hommes mal disposés à obéir, et, dans ces conditions, s\'aventurer à travers les lointains parages de l\'Antarctide, c\'eût été acte de témérité --- plus même ---, acte de folie, qui aurait amené quelque catastrophe.
+
+Cependant Jem West intervint, en se portant sur Heame, auquel il dit d\'une voix menaçante :
+
+« Qui t\'a permis de parler ?\...
+
+--- Le capitaine nous interrogeait\... répliqua Hearne. J\'avais le droit de répondre. »
+
+Et ces paroles furent prononcées avec une telle insolence que le lieutenant --- si maître de lui d\'habitude --- allait donner libre cours à sa colère, lorsque le capitaine Len Guy, l\'arrêtant d\'un geste, s\'en tint à dire :
+
+« Calme-toi, Jem !\... Rien à faire, à moins que nous soyons tous d\'accord ! »
+
+Puis, s\'adressant au bosseman :
+
+« Ton avis, Hurliguerly ?\...
+
+--- Il est très net, capitaine, répondit le bosseman. J\'obéirai à vos ordres, quels qu\'ils soient !\... C\'est notre devoir de ne point abandonner William Guy et les autres tant qu\'il reste quelque chance de les sauver ! »
+
+Le bosseman s\'arrêta un instant, tandis que plusieurs des matelots, Drap, Rogers, Gratian, Stem, Burry, faisaient des signes non équivoques d\'approbation.
+
+« Quant à ce qui concerne Arthur Pym\... reprit-il.
+
+--- Il n\'est pas question d\'Arthur Pym, répliqua avec une extrême vivacité le capitaine Len Guy, mais de mon frère William\... de ses compagnons\... »
+
+Et, comme je vis que Dirk Peters allait protester, je lui saisis le bras, et, bien qu\'il frémît de colère, il se tut.
+
+Non ! ce n\'était pas l\'heure de revenir sur le cas d\'Arthur Pym. S\'en fier à l\'avenir, être prêt à profiter des aléas de cette navigation, laisser les hommes s\'entraîner eux-mêmes, inconsciemment --- ou même instinctivement ---, je ne pensais pas qu\'il y eût alors d\'autre parti à prendre. Toutefois je crus devoir venir en aide à Dirk Peters par des moyens plus directs.
+
+Le capitaine Len Guy avait continué d\'interroger l\'équipage. Ceux sur lesquels il pourrait compter, il voulait les connaître nominativement. Tous les anciens acquiescèrent à ses propositions, et s\'engagèrent à ne jamais discuter ses ordres, à le suivre aussi loin qu\'il lui conviendrait.
+
+Ces braves gens furent imités par quelques-unes des recrues, -- trois seulement, qui étaient de nationalité anglaise. Néanmoins, le plus grand nombre me parut se ranger à l\'opinion de Heame. Pour eux la campagne de l\'*Halbrane* était terminée à l\'île Tsalal. D\'où refus de leur part de la continuer au-delà, et demande formelle de remettre le cap au nord, afin de franchir la banquise à l\'époque la plus favorable de la saison\...
+
+Ils étaient près d\'une vingtaine à tenir ce langage, et nul doute que le sealing-master eût interprété leurs véritables sentiments. Or, les contraindre quand même à prêter la main aux manœuvres de la goélette, lorsqu\'elle se dirigeait vers le sud, c\'eût été les provoquer à la révolte.
+
+Il n\'y avait plus, afin d\'opérer un revirement chez ces matelots travaillés par Hearne, qu\'à surexciter leurs convoitises, à faire vibrer la corde de l\'intérêt.
+
+Je repris donc la parole et, d\'une voix ferme, qui n\'eût autorisé personne à douter du sérieux de ma proposition :
+
+« Marins de l\'*Halbrane,* dis-je, écoutez-moi !\... Ainsi que divers États l\'ont fait pour les voyages de découverte dans les régions polaires, j\'offre une prime à l\'équipage de la goélette !\... Deux mille dollars vous seront acquis par degré au-delà du 84^e^ parallèle ! »
+
+Près de soixante-dix dollars à chaque homme, cela ne laissait pas d\'être tentant.
+
+Je sentis que j\'avais touché juste.
+
+« Cet engagement, ajoutai-je, je vais le signer au capitaine Len Guy, qui sera votre mandataire, et les sommes gagnées vous seront versées à votre retour, quelles que soient les conditions dans lesquelles il se sera accompli. »
+
+J\'attendis l\'effet de cette promesse et, je dois le dire, ce ne fut pas long.
+
+« Hurrah !\... » cria le bosseman, afin de donner l\'élan à ses camarades, qui, presque unanimement, joignirent leurs hurrahs aux siens.
+
+Hearne ne fit plus aucune opposition. Il lui serait toujours loisible d\'aviser, lorsque de meilleures circonstances se présenteraient.
+
+Le pacte était donc conclu, et, pour arriver à mes fins, j\'eusse sacrifié une somme plus forte.
+
+Il est vrai, nous n\'étions qu\'à sept degrés du pôle austral, et, si l\'*Halbrane* devait s\'élever jusque-là, il ne m\'en coûterait jamais que quatorze mille dollars !
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730027 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729099 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728171 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727584 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726656 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 3 -- Le groupe disparu]{#_Toc349724340 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-3-le-groupe-disparu .calibre171 .sigil_not_in_toc}
+
+Dès la première heure, le vendredi 27 décembre, l\'*Halbrane* reprit la mer, cap au sud-ouest.
+
+Le service du bord marcha comme d\'habitude avec la même obéissance, la même régularité. Il ne comportait alors ni dangers ni fatigues. Le temps était toujours beau, la mer toujours calme. Si ces conditions ne changeaient pas, les germes d\'insubordination -- je l\'espérais du moins -- ne trouveraient pas à se développer, et les difficultés ne viendraient pas de ce chef. D\'ailleurs, le cerveau travaille peu chez les natures grossières. Des hommes ignorants et cupides ne s\'abandonnent guère aux hantises de l\'imagination. Confinés dans le présent, l\'avenir n\'est point pour les préoccuper. Seul le fait brutal, qui les met en face de la réalité, peut les tirer de leur insouciance.
+
+Ce fait se produirait-il ?\...
+
+En ce qui concerne Dirk Peters, son identité reconnue, il ne devait rien changer à sa manière d\'être, il resterait aussi peu communicatif ? Je dois noter que, depuis cette révélation, l\'équipage ne parut lui témoigner aucune répugnance à propos des scènes du *Grampus,* excusables après tout, étant donné les circonstances\... Et puis, pouvait-on oublier que le métis avait risqué sa vie pour sauver celle de Martin Holt ?\... Néanmoins, il allait continuer de se tenir à part, mangeant dans un coin, dormant dans un autre, « naviguant au large » de l\'équipage !\... Avait-il donc, pour se conduire de la sorte, quelque autre motif que nous ne connaissions pas, que l\'avenir nous apprendrait peut-être ?\...
+
+Ces vents persistants de la partie du nord, qui avaient poussé la *Jane* jusqu\'à l\'île Tsalal et le canot d\'Arthur Pym à quelques degrés au-delà, favorisaient la marche de notre goélette. Amures à bâbord, et grand largue, Jem West put la couvrir de toile, en utilisant cette brise fraîche et régulière. Notre étrave fendait rapidement ces eaux transparentes, et non laiteuses, qui se dentelaient d\'un long sillage blanc à l\'arrière.
+
+Après la scène de la veille, le capitaine Len Guy avait été prendre quelques heures de repos. Et ce repos, de quelles obsédantes pensées il avait dû être troublé, -- d\'une part, l\'espérance attachée à de nouvelles recherches, de l\'autre, la responsabilité d\'une telle expédition à travers l\'Antarctide !
+
+Lorsque je le rencontrai, le lendemain, sur le pont, alors que le lieutenant allait et venait à l\'arrière, il nous appela tous les deux près de lui.
+
+« Monsieur Jeorling, me dit-il, c\'était la mort dans l\'âme que je m\'étais résolu à ramener notre goélette vers le nord !\... Je sentais que je n\'avais pas fait tout ce que je devais faire pour nos malheureux compatriotes !\... Mais je comprenais bien que la majorité de l\'équipage serait contre moi, si je voulais l\'entraîner au-delà de l\'île Tsalal\...
+
+--- En effet, capitaine, répondis-je, un commencement d\'indiscipline s\'est produit à bord et peut-être une révolte eût-elle fini par éclater\...
+
+--- Révolte dont nous aurions eu raison, répliqua froidement Jem West, ne fût-ce qu\'en cassant la tête à ce Heame, qui ne cesse d\'exciter les mutins.
+
+--- Et tu aurais bien fait, Jem, déclara le capitaine Len Guy. Seulement, justice faite, que fût devenu l\'accord dont nous avons besoin ?\...
+
+--- Soit, capitaine, dit le lieutenant. Mieux vaut que les choses se soient passées sans violence !\... Mais, à l\'avenir, que Hearne prenne garde à lui !
+
+--- Ses compagnons, fit observer le capitaine Len Guy, sont maintenant appâtés par les primes qui leur ont été promises. Le désir du gain les rendra plus endurants et plus souples. La générosité de M. Jeorling a réussi là où nos prières eussent échoué, sans doute\... Je l\'en remercie\...
+
+--- Capitaine, dis-je, lorsque nous étions aux Falklands, je vous avais fait connaître mon désir de m\'associer pécuniairement à votre entreprise. L\'occasion s\'est présentée, je l\'ai saisie, et je ne mérite aucun remerciement. Arrivons au but\... sauvons votre frère William et les cinq matelots de la *Jane\...* C\'est tout ce que je demande. »
+
+Le capitaine Len Guy me tendit une main que je serrai cordialement.
+
+« Monsieur Jeorling, ajouta-t-il, vous avez remarqué que l\'*Halbrane* ne porte pas cap au sud, bien que les terres entrevues par Dirk Peters --- ou tout au moins des apparences de terre --- soient situées dans cette direction\...
+
+--- Je l\'ai remarqué, capitaine.
+
+--- Et, à ce propos, dit Jem West, n\'oublions pas que le récit d\'Arthur Pym ne contient rien de relatif à ces apparences de terre dans le sud, et que nous en sommes réduits aux seules déclarations du métis.
+
+--- C\'est vrai, lieutenant, ai-je répondu. Mais y a-t-il lieu de suspecter Dirk Peters ?\... Sa conduite, depuis l\'embarquement, n\'est-elle pas pour inspirer toute confiance ?\...
+
+--- Je n\'ai rien à lui reprocher au point de vue du service\... répliqua Jem West.
+
+--- Et nous ne mettons en doute ni son courage ni son honnêteté, déclara le capitaine Len Guy. Non seulement la manière dont il s\'est comporté à bord de l\'*Halbrane,* mais aussi tout ce qu\'il a fait, lorsqu\'il naviguait à bord du *Grampus* d\'abord, de la *Jane* ensuite, justifient la bonne opinion\...
+
+--- Qu\'il mérite assurément ! » ai-je ajouté.
+
+Et je ne sais pourquoi, j\'étais enclin à prendre la défense du métis. Était-ce donc parce que -- je le pressentais -- il lui restait un rôle à jouer au cours de cette expédition, parce qu\'il se croyait assuré de retrouver Arthur Pym\... auquel décidément je m\'intéressais à m\'en étonner ?
+
+J\'en conviens, toutefois, c\'était en ce qui concernait son ancien compagnon que les idées de Dirk Peters pouvaient paraître poussées jusqu\'à l\'absurde. Le capitaine Len Guy ne laissa pas de le souligner.
+
+« Nous ne devons pas l\'oublier, monsieur Jeorling, dit-il, le métis a conservé l\'espoir qu\'Arthur Pym, après avoir été entraîné à travers la mer antarctique, a pu aborder sur quelque terre plus méridionale\... où il serait encore vivant !\...
+
+--- Vivant\... depuis onze années\... dans ces parages polaires !\... répartit Jem West.
+
+--- C\'est assez difficile à admettre, je l\'avoue volontiers, capitaine, répliquai-je. Et pourtant, à bien réfléchir, serait-il impossible qu\'Arthur Pym eût rencontré, plus au sud, une île semblable à cette Tsalal, où William Guy et ses compagnons ont pu vivre pendant le même temps ?\...
+
+--- Impossible, non, monsieur Jeorling, probable, je ne le crois guère !
+
+--- Et même, répliquai-je, puisque nous en sommes aux hypothèses, pourquoi vos compatriotes, après avoir abandonné Tsalal, et entraînés par le même courant, n\'auraient-ils pas rejoint Arthur Pym là où peut-être\... »
+
+Je n\'achevai pas, car cette supposition n\'eût pas été acceptée, quoi que je pusse dire, et il n\'y avait pas lieu d\'insister, en ce moment, sur le projet d\'aller à la recherche d\'Arthur Pym, lorsque les hommes de la *Jane* seraient retrouvés, si tant est qu\'ils dussent l\'être.
+
+Le capitaine Len Guy revint alors au but de cet entretien, et, comme la conversation, avec ses digressions, avait « fait pas mal d\'embardées », dirait le bosseman, il convenait de la remettre en droit chemin.
+
+« Je disais donc, reprit le capitaine Len Guy, que si je n\'ai pas donné la route au sud, c\'est que mon intention est de reconnaître d\'abord le gisement des îles voisines de Tsalal, ce groupe qui est situé à l\'ouest\...
+
+--- Sage idée, approuvai-je, et peut-être acquerrons-nous, en visitant ces îles, la certitude que le tremblement de terre s\'est produit à une date récente\...
+
+--- Récente\... cela n\'est pas douteux, affirma le capitaine Len Guy, et postérieure au départ de Patterson, puisque le second de la *Jane* avait laissé ses compatriotes sur l\'île ! »
+
+On le sait, et pour quelles sérieuses raisons, notre opinion n\'avait jamais varié à cet égard.
+
+« Est-ce que, dans le récit d\'Arthur Pym, demanda Jem West, il n\'est pas question d\'un ensemble de huit îles ?\...
+
+--- Huit, répondis-je, ou du moins, c\'est ce que Dirk Peters a entendu dire au sauvage que l\'embarcation entraînait avec son compagnon et lui. Ce Nu-Nu a même prétendu que l\'archipel était gouverné par une sorte de souverain, un roi unique, du nom de Tsalemon, qui résidait dans la plus petite des îles, et, au besoin, le métis nous confirmera ce détail.
+
+--- Aussi, reprit le capitaine Len Guy, comme il se pourrait que le tremblement de terre n\'eût pas étendu ses ravages jusqu\'à ce groupe et qu\'il fût encore habité, nous nous tiendrons en garde aux approches du gisement\...
+
+--- Qui ne saurait être éloigné, ajoutai-je. Et puis, capitaine, qui sait si votre frère et ses matelots n\'auraient pas pris refuge sur l\'une de ces îles ?\... »
+
+Éventualité admissible, mais peu rassurante, en somme, car ces pauvres gens fussent retombés entre les mains de ces sauvages, dont ils avaient été débarrassés durant leur séjour à Tsalal. Et puis, pour les recueillir, en cas que leur vie eût été épargnée, l\'*Halbrane* ne serait-elle pas obligée d\'agir par la force, et réussirait-elle dans sa tentative ?\...
+
+« Jem, reprit le capitaine Len Guy, nous filons de huit à neuf milles, et, en quelques heures, la terre sera sans doute signalée\... donne l\'ordre de veiller avec soin.
+
+--- C\'est fait, capitaine.
+
+--- Il y a un homme au nid de pie ?\...
+
+--- Dirk Peters lui-même, qui s\'est offert.
+
+--- Bien, Jem, on peut s\'en fier à sa vigilance\...
+
+--- Et aussi à ses yeux, ajoutai-je, car il est doué d\'une vue prodigieuse ! »
+
+La goélette continua de courir vers l\'ouest jusqu\'à dix heures, sans que la voix du métis se fût fait entendre. Aussi je me demandais s\'il en allait être de ces îles comme des Auroras ou des Glass que nous avions vainement cherchées entre les Falklands et la Nouvelle-Géorgie. Aucune tumescence n\'émergeait à la surface de la mer, aucun linéament ne se dessinait à l\'horizon. Peut-être ces îles étaient-elles de relief peu élevé, et ne les apercevrait-on que d\'un ou deux milles ?\...
+
+D\'ailleurs, la brise mollit d\'une manière sensible pendant la matinée. Notre goélette fut même drossée plus que nous le voulions par le courant du sud. Par bonheur, le vent reprit vers deux heures de l\'après-midi, et Jem West s\'orienta de manière à regagner ce que la dérive lui avait fait perdre.
+
+Pendant deux heures l\'*Halbrane* tint le cap en cette direction avec une vitesse de sept à huit milles, et pas la moindre hauteur n\'apparut au large.
+
+« Il n\'est guère croyable que nous n\'ayons pas atteint le gisement, me dit le capitaine Len Guy, car, d\'après Arthur Pym, Tsalal appartenait à un groupe très vaste\...
+
+--- Il ne dit pas les avoir jamais aperçues pendant que la *Jane* était au mouillage\... fis-je observer.
+
+--- Vous avez raison, monsieur Jeorling. Mais, comme je n\'estime pas à moins de cinquante milles la route que l\'*Halbrane* a parcourue depuis ce matin, et qu\'il s\'agit d\'îles assez voisines les unes des autres\...
+
+--- Alors, capitaine, il faudrait en conclure -- ce qui n\'est pas invraisemblable -- que le groupe d\'où dépendait Tsalal a disparu en entier dans le tremblement de terre\...
+
+--- Terre par tribord devant ! » cria Dirk Peters.
+
+Tous les regards se portèrent de ce côté, sans rien distinguer à la surface de la mer. Il est vrai, posté en tête du mât de misaine, le métis avait pu apercevoir ce qui n\'était encore visible pour aucun de nous. Au surplus, étant donné la puissance de sa vue, son habitude d\'interroger les horizons du large, je n\'admettais pas qu\'il se fût trompé.
+
+En effet, un quart d\'heure après, nos lunettes marines nous permirent de reconnaître quelques îlots épars à la surface des eaux, toute rayée des obliques rayons du soleil, et à la distance de deux ou trois milles vers l\'ouest.
+
+Le lieutenant fit amener les voiles hautes, et l\'*Halbrane* resta sous la brigantine, la misaine-goélette et le grand foc.
+
+Convenait-il, dès maintenant, de se mettre en défense, de monter les armes sur le pont, de charger les pierriers, de hisser les filets d\'abordage ?\... Avant de prendre ces mesures de prudence, le capitaine Len Guy crut pouvoir, sans grand risque, rallier le gisement de plus près.
+
+Quel changement avait dû se produire ? Là où Arthur Pym indiquait qu\'il existait des îles spacieuses, on n\'apercevait qu\'un petit nombre d\'îlots -- une demi-douzaine au plus -- émergeant de huit à dix toises\...
+
+En ce moment, le métis, qui s\'était laissé glisser le long du galhauban de tribord, sauta sur le pont.
+
+« Eh bien, Dirk Peters, tu as reconnu ce groupe ?\... lui demanda le capitaine Len Guy.
+
+--- Le groupe ?\... répondit le métis en secouant la tête. Non\... je n\'ai vu que cinq ou six têtes d\'îlots\... Il n\'y a là que des cailloux\... pas une seule île ! »
+
+En effet, quelques pointes, ou plutôt quelques sommets arrondis, voilà tout ce qui restait de cet archipel -- du moins de sa partie occidentale. Il était possible, après tout, si le gisement embrassait plusieurs degrés, que le tremblement de terre n\'eût anéanti que les îles de l\'ouest.
+
+C\'est, du reste, ce que nous nous proposions de vérifier, lorsque nous aurions visité chaque îlot et déterminé à quelle date ancienne ou récente remontait la secousse sismique dont Tsalal portait des traces indiscutables.
+
+À mesure que s\'approchait la goélette, on pouvait aisément reconnaître ces miettes du groupe presque entièrement anéanti dans sa partie occidentale. La superficialité des plus grands îlots ne dépassait pas cinquante à soixante toises carrées, et celle des plus petits n\'en comprenait que trois ou quatre. Ces derniers formaient un semis d\'écueils que frangeait le léger ressac de la mer.
+
+Il est entendu que l\'*Halbrane* ne devait point s\'aventurer à travers ces récifs qui eussent menacé ses flancs ou sa quille. Elle se bornerait à faire le tour du gisement, afin de constater si l\'engloutissement de l\'archipel avait été complet. Toutefois, il serait nécessaire de débarquer sur quelques points, où il y aurait peut-être des indices à recueillir.
+
+Arrivé à une dizaine d\'encablures du principal îlot, le capitaine Len Guy fit donner un coup de sonde. On trouva le fond par vingt brasses, -- un fond qui devait être le sol d\'une île immergée, dont la partie centrale dépassait le niveau de la mer d\'une hauteur de cinq à six toises.
+
+La goélette s\'approcha encore, et, par cinq brasses, envoya son ancre.
+
+Jem West avait songé à mettre en panne pendant le temps que durerait l\'exploration de l\'îlot. Mais, avec le vif courant qui portait au sud, la goélette aurait été prise par la dérive. Donc mieux valait mouiller dans le voisinage du groupe. La mer y clapotait à peine, et l\'état du ciel ne faisait pressentir aucun changement atmosphérique.
+
+Dès que l\'ancre eut mordu, une des embarcations reçut le capitaine Len Guy, le bosseman, Dirk Peters, Martin Holt, deux hommes et moi.
+
+Un quart de mille nous séparait du premier îlot. Il fut franchi rapidement à travers d\'étroites passes. Les pointes rocheuses couvraient et découvraient avec les longues oscillations de la houle. Balayées, lavées et relavées, elles ne pouvaient avoir conservé aucun témoignage qui permît d\'assigner une date au tremblement de terre. À ce sujet, je le répète, on sait qu\'il n\'y avait aucun doute dans notre esprit.
+
+Le canot s\'engagea entre les roches. Dirk Peters, debout à l\'arrière, la barre entre ses jambes, cherchait à éviter les arêtes des récifs qui affleuraient çà et là.
+
+L\'eau, transparente et calme, laissait voir, non point un fond de sable semé de coquilles, mais des blocs noirâtres, tapissés de végétations terrestres, des touffes de ces plantes qui n\'appartiennent pas à la flore marine, et dont quelques-unes flottaient à la surface de la mer.
+
+C\'était déjà une preuve que le sol qui leur avait donné naissance s\'était récemment affaissé.
+
+Lorsque l\'embarcation eut atteint l\'îlot, un des hommes largua le grappin dont les pattes rencontrèrent une fente.
+
+Dès qu\'on eut halé sur l\'amarre, le débarquement put s\'opérer sans difficulté.
+
+Ainsi donc, en cet endroit gisait une des grandes îles du groupe, actuellement réduite à un ovale irrégulier, qui mesurait cent cinquante toises de circonférence et s\'arrondissait à vingt-cinq ou trente pieds au-dessus du niveau de la mer.
+
+« Est-ce que les marées s\'élèvent quelquefois à cette hauteur ? demandai-je au capitaine Len Guy.
+
+--- Jamais, me répondit-il, et peut-être découvrirons-nous, au centre de cet îlot, quelques restes du règne végétal, des débris d\'habitations ou de campement\...
+
+--- Ce qu\'il y a de mieux à faire, dit le bosseman, c\'est de suivre Dirk Peters qui nous a déjà distancés. Ce diable de métis est capable de voir de ses yeux de lynx ce que nous ne verrions pas ! »
+
+En peu d\'instants, nous fûmes tous rendus au point culminant de l\'îlot.
+
+Les débris n\'y manquaient pas -- probablement des débris de ces animaux domestiques dont il est question dans le journal d\'Arthur Pym --, volailles de diverses sortes, canards cauwass-back, cochons d\'espèce commune dont la peau racornie était hérissée de soies noires. Toutefois --- détail à retenir ---, il y avait entre ces ossements et ceux de l\'île Tsalal, cette différence de formation, qu\'ici l\'entassement ne datait que de quelques mois au plus. Cela s\'accordait donc avec l\'époque récente admise par nous du tremblement de terre.
+
+En outre, çà et là verdissaient des plants de céleris et de cochléarias, des bouquets de fleurettes encore fraîches.
+
+« Et qui sont de cette année ! m\'écriai-je. Aucun hiver austral n\'a passé sur elles\...
+
+--- Je suis de votre avis, monsieur Jeorling, répliqua Hurliguerly. Mais n\'est-il pas possible qu\'elles aient poussé là depuis le grand déchiquetage du groupe ?\...
+
+--- Cela me paraît inadmissible », répondis-je, en homme qui ne veut pas démordre de son idée.
+
+En maint endroit végétaient aussi quelques maigres arbustes, sortes de coudriers sauvages, et Dirk Peters en détacha une branche imprégnée de sève.
+
+À cette branche pendaient des noisettes, -- pareilles à celles que son compagnon et lui avaient mangées lors de leur emprisonnement entre les fissures de la colline de Klock-Klock et au fond de ces gouffres hiéroglyphiques dont nous n\'avions plus trouvé vestige à l\'île Tsalal.
+
+Dirk Peters tira quelques-unes de ces noisettes de leur gousse verte, et il les fit craquer sous ses puissantes dents qui eussent broyé des billes de fer.
+
+Ces constatations faites, nul doute ne pouvait subsister sur la date du cataclysme, postérieure au départ de Patterson. Ce n\'était donc pas à ce cataclysme qu\'était dû l\'anéantissement de cette partie de la population tsalalaise dont les ossements jonchaient les environs du village. Quant au capitaine William Guy et aux cinq matelots de la *Jane,* il nous paraissait démontré qu\'ils avaient pu fuir à temps, puisque le corps d\'aucun d\'eux n\'avait été retrouvé sur l\'île.
+
+Où avaient-ils eu la possibilité de se réfugier, après avoir abandonné Tsalal ?\...
+
+Tel était le point d\'interrogation sans cesse dressé devant notre esprit, et quelle réponse obtiendrait-il ?\... À mon avis, pourtant, il ne me semblait pas le plus extraordinaire de tous ceux qui surgissaient à chaque ligne de cette histoire !
+
+Je n\'ai pas à insister davantage sur l\'exploration du groupe. Elle exigea trente-six heures, car la goélette en fit le tour. À la surface de ces divers îlots furent relevés les mêmes indices --- plantes et débris ---, qui provoquèrent les mêmes conclusions. À propos des troubles dont ces parages avaient été le théâtre, le capitaine Len Guy, le lieutenant, le bosseman et moi, nous étions en parfait accord sur ce qui concernait la complète destruction des indigènes. L\'*Halbrane* n\'avait plus à redouter aucune attaque, et cela méritait qu\'on en tînt compte.
+
+Maintenant devions-nous conclure que William Guy et ses cinq matelots, après avoir gagné l\'une de ces îles, eussent péri, eux aussi, dans l\'engloutissement de cet archipel ?\...
+
+Voici, à ce sujet, le raisonnement que le capitaine Len Guy finit par accepter :
+
+
+--- Dieu nous conduise, monsieur Jeorling ! » répondit le capitaine Len Guy.
+
+Et, plus tard, lorsque je fus seul avec le bosseman, celui-ci crut devoir me dire :
+
+« Je vous ai écouté avec attention, monsieur Jeorling, et, je l\'avoue, vous m\'avez presque convaincu\...
+
+--- Vous finirez par l\'être tout à fait, Hurliguerly.
+
+--- Quand ?\...
+
+--- Plus tôt peut-être que vous ne le pensez ! »
+
+Le lendemain, 29 décembre, dès six heures du matin, la goélette appareilla par une légère brise du nord-est, et, cette fois, elle mit le cap directement au sud.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730028 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729100 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728172 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727585 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726657 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 4 -- Du 29 décembre au 9 janvier]{#_Toc349724341 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-4-du-29-décembre-au-9-janvier .calibre171 .sigil_not_in_toc}
+
+Dans la matinée, le volume d\'Edgar Poe sous les yeux, j\'en ai relu attentivement le vingt-cinquième chapitre. Il y est raconté que, lorsque les indigènes voulurent les poursuivre, les deux fugitifs, accompagnés du sauvage Nu-Nu, étaient déjà à cinq ou six milles au large de la baie. Des six ou sept îles groupées dans l\'ouest, nous venions de reconnaître qu\'il ne restait plus que quelques vestiges sous forme d\'îlots.
+
+Ce qui nous intéressait surtout dans ce chapitre, ce sont ces lignes que j\'ai à cœur de transcrire :
+
+« En arrivant par le nord, sur la *Jane,* -- pour atteindre l\'île Tsalal, nous avions graduellement laissé derrière nous les régions les plus rigoureuses de glace, -- et, bien que cela puisse paraître un absolu démenti aux notions généralement acceptées sur l\'océan Antarctique, c\'était là un fait que l\'expérience ne nous permettait pas de nier. Aussi, essayer -- maintenant -- de retourner vers le nord eût été folie, particulièrement à une période si avancée de la saison. Une seule route semblait encore ouverte à l\'espérance. Nous nous décidâmes à gouverner hardiment vers le sud, où il y avait pour nous quelques chances de découvrir d\'autres îles, et où il était probable que nous trouverions un climat de plus en plus doux\... »
+
+Ainsi avait raisonné Arthur Pym, ainsi le devions-nous faire *a fortiori.* Eh bien, c\'était le 29 février -- l\'année 1828 fut bissextile -- que les fugitifs se trouvèrent sur l\'Océan « immense et désolé » au-delà du 84^e^ parallèle. Or, nous n\'étions qu\'au 29 décembre. L\'*Halbrane* était en avance de deux mois sur l\'embarcation qui fuyait l\'île Tsalal, déjà menacée par l\'approche du long hiver des pôles. D\'autre part, notre goélette, bien approvisionnée, bien commandée, bien équipée, inspirait plus de confiance que cette embarcation d\'Arthur Pym, ce canot à membrure d\'osier, long d\'une cinquantaine de pieds sur quatre à six de large, et qui n\'emportait que trois tortues pour la nourriture de trois hommes.
+
+J\'avais donc bon espoir dans le succès de cette seconde partie de notre campagne.
+
+Durant la matinée, les derniers îlots de l\'archipel disparurent à l\'horizon. La mer s\'offrait telle que nous l\'avions observée depuis l\'îlot Bennet -- sans un seul morceau de glace -- et cela s\'explique, puisque la température de l\'eau marquait 43° (6° 11 C. sur zéro). Le courant, très accentué -- quatre à cinq milles par heure --, se propageait du nord au sud avec une constante régularité.
+
+Des bandes d\'oiseaux animaient l\'espace, --- invariablement les mêmes espèces, alcyons, pélicans, damiers, pétrels, albatros. Toutefois, je dois l\'avouer, ces derniers ne présentaient pas les dimensions gigantesques notées dans le journal d\'Arthur Pym, et aucun ne poussait ce sempiternel *tékéli-li,* qui paraissait être d\'ailleurs le mot le plus usité de la langue tsalalaise.
+
+Aucun incident à relater pendant les deux jours qui suivirent. On ne signala ni terre ni apparence de terre. Les hommes du bord firent de fructueuses pêches au milieu de ces eaux où pullulaient scares, merluches, raies, congres, dauphins de couleur azurée, et autres sortes de poissons. Les talents combinés d\'Hurliguerly et d\'Endicott varièrent agréablement le menu du carré et du poste de l\'équipage, et je pense qu\'il convenait de faire part égale aux deux amis dans cette collaboration culinaire.
+
+Le lendemain, 1^er^ janvier 1840, --- encore une année bissextile, --- un léger brouillard voila le soleil pendant les premières heures, et nous n\'en conclûmes pas que ce fût l\'annonce d\'un changement dans l\'état atmosphérique.
+
+Il y avait alors quatre mois et dix-sept jours que j\'avais quitté les Kerguelen, deux mois et cinq jours que l\'*Halbrane* avait quitté les Falklands.
+
+Que durerait cette navigation ?\... Ce n\'était pas ce qui me préoccupait, mais plutôt de savoir jusqu\'où elle allait nous conduire à travers les parages antarctiques.
+
+Je dois reconnaître ici qu\'une certaine modification s\'était manifestée dans la manière d\'être du métis envers moi -- sinon envers le capitaine Len Guy ou les hommes de l\'équipage. Ayant, sans doute, compris que je m\'intéressais au sort d\'Arthur Pym, il me recherchait, et, pour employer une expression vulgaire, « nous nous entendions », sans qu\'il fût nécessaire d\'échanger une seule parole. Parfois, cependant, il se départissait, vis-à-vis de moi, de son mutisme habituel. Lorsque le service ne le réclamait pas, il se glissait vers le banc où je m\'asseyais volontiers, derrière le rouf. À trois ou quatre reprises, quelques tentatives d\'entretien avaient été ébauchées entre nous. D\'ailleurs, sitôt que le capitaine Len Guy, le lieutenant ou le bosseman nous rejoignaient, il s\'éloignait.
+
+Ce jour-là, vers dix heures, Jem West étant de quart, et le capitaine Len Guy enfermé dans sa cabine, le métis longea la coursive à petits pas avec l\'évidente intention de converser, -- et sur quel sujet, on le devine sans peine.
+
+Dès qu\'il fut près du banc :
+
+« Dirk Peters, dis-je, afin d\'entrer directement en matière, voulez-vous que nous parlions de lui ?\... »
+
+Les prunelles du métis flamboyèrent comme une braise sur laquelle on vient de souffler.
+
+« Lui !\... murmura-t-il.
+
+--- Vous êtes resté fidèle à son souvenir, Dirk Peters !
+
+--- L\'oublier\... monsieur ?\... Jamais !
+
+--- Il est toujours là\... devant vous\...
+
+--- Toujours !\... Comprenez-moi\... tant de dangers courus ensemble !\... Ça fait de vous des frères, non !\... un père et son fils !\... Oui !\... je l\'aime comme mon enfant !\... Avoir été tous deux si loin\... trop loin\... lui\... puisqu\'il n\'est pas revenu !\... On m\'a revu au pays d\'Amérique, moi\... mais Pym\... le pauvre Pym\... il est encore là-bas !\... »
+
+Les yeux du métis se mouillèrent de grosses larmes !\... Et, comment ne se vaporisaient-elles pas à l\'ardente flamme qui jaillissait de ses yeux ?\...
+
+« Dirk Peters, lui demandai-je, vous n\'avez aucune idée de la route qu\'Arthur Pym et vous avez suivie à bord du canot depuis votre départ de l\'île Tsalal ?\...
+
+--- Aucune, monsieur !\... Le pauvre Pym ne possédait plus d\'instruments\... vous savez\... des machines de marine\... pour regarder le soleil\... On ne pouvait pas savoir\... Tout de même, pendant les huit jours, le courant nous a poussés vers le sud\... et le vent aussi\... Bonne brise et mer belle\... Deux pagaies plantées sur le plat-bord en guise de mât\... et nos chemises en guise de voile\...
+
+--- Oui, répondis-je, des chemises de toile blanche, dont la couleur effrayait tant votre prisonnier Nu-Nu\...
+
+--- Peut-être\... Je ne me rendais pas bien compte\... Mais si Pym l\'a dit, il faut croire Pym ! »
+
+Je n\'en étais plus à savoir que quelques-uns des phénomènes décrits dans le journal rapporté aux États-Unis par le métis ne semblaient pas avoir attiré son attention. Aussi m\'entêtais-je à cette idée que ces phénomènes n\'avaient dû exister que dans une imagination surexcitée outre mesure. Toutefois, je voulus presser plus vivement Dirk Peters à ce sujet.
+
+« Et, pendant ces huit jours, ai-je repris, vous avez pu pourvoir à votre nourriture ?\...
+
+--- Oui\... monsieur\... et les jours après\... nous et le sauvage\... Vous savez\... les trois tortues qui étaient à bord\... Ces bêtes, ça contient une provision d\'eau douce\... et leur chair est bonne\... même crue\... Oh ! la chair crue\... monsieur !\... »
+
+En prononçant ces derniers mots, Dirk Peters, baissant la voix comme s\'il eût craint d\'être entendu, jeta un rapide regard autour de lui\...
+
+Ainsi, cette âme frissonnait toujours à l\'impérissable souvenir des scènes du *Grampus* !\... On ne saurait se figurer l\'effroyable expression peinte sur la figure du métis au moment où il parla de chair crue !\... Et non pas l\'expression d\'un cannibale de l\'Australie ou des Nouvelles-Hébrides, mais celle d\'un homme qui éprouve une insurmontable horreur de lui-même !
+
+Après un assez long silence, je ramenai la conversation vers son but.
+
+« N\'est-ce pas le 1^er^ mars, Dirk Peters, demandai-je, que, si je m\'en rapporte au récit de votre compagnon, vous avez, pour la première fois, aperçu le large voile d\'une vapeur grise, coupée de raies lumineuses et vacillantes\...
+
+--- Je ne sais plus\... monsieur !\... Mais si Pym l\'a dit, il faut croire ce qu\'a dit Pym !
+
+--- Il ne vous a jamais parlé de rayons de feu qui tombaient du ciel\... » repris-je, ne voulant pas me servir des mots « aurore polaire » que le métis n\'eût peut-être pas compris.
+
+J\'en revenais ainsi à l\'hypothèse que ces phénomènes pouvaient être dus à l\'intensité des effluences électriques, si puissantes sous les hautes latitudes, -- en admettant qu\'ils se fussent réellement produits.
+
+« Jamais\... monsieur, dit Dirk Peters, non sans avoir réfléchi avant de répondre à ma question.
+
+--- Vous n\'avez pas remarqué, non plus, que la couleur de la mer s\'altérait\... qu\'elle perdait sa transparence\... qu\'elle devenait blanche\... qu\'elle ressemblait à du lait\... que sa surface se troublait autour de votre embarcation\...
+
+--- Si cela était\... monsieur\... je ne sais\... Comprenez-moi\... Je n\'avais plus la connaissance des choses\... Le canot s\'en allait\... s\'en allait\... et ma tête avec\...
+
+--- Et puis, Dirk Peters, cette poussière très fine qui tombait\... fine comme de la cendre\... de la cendre blanche\...
+
+--- Je ne me rappelle pas\...
+
+--- Est-ce que ce n\'était pas de la neige ?\...
+
+--- De la neige ?\... Oui\... non !\... Il faisait chaud\... Qu\'a dit Pym ?\... Il faut croire ce qu\'a dit Pym ! »
+
+Je compris bien qu\'au sujet de ces faits invraisemblables, je n\'obtiendrais aucune explication, en continuant d\'interroger le métis. À supposer qu\'il eût observé les choses surnaturelles, relatées dans les derniers chapitres du récit, il n\'en avait plus conservé le souvenir.
+
+Et alors, à mi-voix :
+
+« Mais Pym vous dira tout cela\... monsieur\... Lui sait\... Moi je ne sais pas\... Il a vu\... et vous le croirez\...
+
+--- Je le croirai, Dirk Peters, oui\... je le croirai, répondis-je, ne voulant pas chagriner le métis.
+
+--- Et puis, nous irons à sa recherche, n\'est-ce pas ?\...
+
+--- Je l\'espère\...
+
+--- Après que nous aurons retrouvé William Guy et les matelots de la *Jane* ?\...
+
+--- Oui\... après\...
+
+--- Et même si nous ne les retrouvons pas ?\...
+
+--- Même\... en ce cas\... Dirk Peters\... Je pense que je déciderai notre capitaine\...
+
+--- Qui ne refusera pas de porter secours à un homme\... un homme comme lui\...
+
+--- Non\... il ne refusera pas !\... Et pourtant, ajoutai-je, si William Guy et les siens sont vivants, peut-on admettre qu\'Arthur Pym\...
+
+--- Vivant ?\... oui !\... vivant ! s\'écria le métis. Par le Grand Esprit de mes pères\... il l\'est\... il m\'attend\... mon pauvre Pym !\... Et quelle sera sa joie, lorsqu\'il se jettera dans les bras de son vieux Dirk, -- et à moi la mienne\... quand je le sentirai là\... là\... »
+
+Et la vaste poitrine de Dirk Peters se soulevait comme une mer houleuse\...
+
+Puis il s\'en alla, me laissant en proie à une inexprimable émotion, tant je sentais ce qu\'il y avait, dans le cœur de ce demi-sauvage, de tendresse pour son infortuné compagnon\... pour celui qu\'il appelait son enfant !\...
+
+La goélette ne cessa de gagner vers le sud pendant les journées du 2, du 3 et du 4 janvier, sans relever aucune terre. Toujours, à l\'horizon, la ligne périmétrique qui se dessinait sur le fond de la mer et du ciel. L\'homme du nid de pie ne signala ni continent ni îles en cette partie de l\'Antarctide. Devait-on suspecter l\'assertion de Dirk Peters relativement aux terres entrevues ? Les illusions d\'optique sont si fréquentes en ces régions hyperaustraliennes !\...
+
+« Il est vrai, fis-je remarquer au capitaine Len Guy, que, depuis qu\'il avait quitté l\'île Tsalal, Arthur Pym ne possédait plus d\'instruments pour prendre hauteur\...
+
+--- Je le sais, monsieur Jeorling, et il est fort possible que les terres se trouvent dans l\'est ou dans l\'ouest de notre itinéraire. Ce qu\'il y a de regrettable, c\'est qu\'Arthur Pym et Dirk Peters n\'y aient point débarqué. Nous n\'aurions plus aucun doute sur leur existence assez problématique -- je le crains --, et nous finirions par les découvrir\...
+
+--- Nous les découvririons, capitaine, en remontant de quelques degrés au sud\...
+
+--- Soit, mais je me demande, monsieur Jeorling, s\'il ne serait pas préférable d\'explorer ces parages compris entre le 40° et le 45° méridien\...
+
+--- Le temps nous est mesuré, répondis-je assez vivement, et ce serait autant de jours perdus, puisque nous n\'avons pas encore atteint la latitude où les deux fugitifs ont été séparés l\'un de l\'autre\...
+
+--- Et, s\'il vous plaît, quelle est-elle cette latitude, monsieur Jeorling ?\... Je n\'en trouve pas indication dans le récit, et, pour cette raison qu\'il était impossible de la calculer\...
+
+--- Cela est certain, capitaine, comme il est certain que l\'embarcation de Tsalal a dû être entraînée très loin, si l\'on s\'en rapporte à ce passage du dernier chapitre. »
+
+Et, en effet, ce chapitre contenait ces lignes :
+
+« Nous continuâmes notre route, sans aucun incident important pendant sept à huit jours peut-être ; et, durant cette période, nous dûmes avancer d\'une distance énorme, car le vent fut presque toujours pour nous, et un fort courant nous poussa continuellement dans la direction que nous voulions suivre. »
+
+Le capitaine Len Guy connaissait ce passage, l\'ayant maintes fois lu. J\'ajoutai :
+
+« Il est dit \"une distance énorme\", et cela au 1^er^ mars seulement. Or, le voyage s\'est prolongé jusqu\'au 22 du même mois, et, ainsi qu\'Arthur Pym l\'indique ensuite, \"son canot se précipitait toujours vers le sud, sous l\'influence d\'un puissant courant d\'une horrible vélocité\", -- ce sont ses propres expressions. De tout ceci, capitaine, ne peut-on tirer la conclusion\...
+
+--- Qu\'il est allé jusqu\'au pôle, monsieur Jeorling ?\...
+
+--- Pourquoi non, puisque, à partir de l\'île Tsalal, il n\'en était plus qu\'à quatre cents milles ?\...
+
+--- Après tout, peu importe ! répondit le capitaine Len Guy. Ce n\'est pas à la recherche d\'Arthur Pym que nous conduisons l\'*Halbrane,* c\'est à celle de mon frère et de ses compagnons. Ont-ils pu atterrir sur les terres entrevues, voilà ce qu\'il s\'agit uniquement de reconnaître. »
+
+Sur ce point spécial, le capitaine Len Guy avait raison. Aussi, craignais-je sans cesse qu\'il donnât l\'ordre de porter vers l\'est ou vers l\'ouest. Toutefois, comme le métis affirmait que son embarcation avait couru au sud, que les terres dont il parlait gisaient dans cette direction, le cap de la goélette ne fut pas modifié. Ce qui m\'aurait vraiment désespéré, c\'eût été qu\'elle ne se maintînt pas sur l\'itinéraire d\'Arthur Pym.
+
+Du reste, j\'avais la conviction que, si lesdites terres existaient, elles devaient se rencontrer sous de plus hautes latitudes.
+
+Il n\'est pas indifférent de noter qu\'aucun phénomène extraordinaire ne se manifesta au cours de cette navigation des 5 et 6 janvier. Nous ne vîmes rien de la barrière de vapeurs vacillantes, rien de l\'altération des couches supérieures de la mer. Quant à la chaleur excessive de l\'eau, et telle « que la main ne pouvait la supporter », -- il fallait en beaucoup rabattre. La température ne dépassait pas 50° (10 °C. sur zéro), élévation déjà anormale en cette partie de la zone antarctique. Et, bien que Dirk Peters ne cessât de me répéter : « Il faut croire ce qu\'a dit Pym ! » ma raison s\'imposait une extrême réserve sur la réalité de ces faits surnaturels. Ainsi, il n\'y eut ni voile de brume, ni apparence laiteuse des eaux, ni chute de poussière blanche.
+
+C\'était également en ces parages que les deux fugitifs avaient aperçu un de ces énormes animaux blancs, qui causaient tant d\'effroi aux insulaires de Tsalal. Dans quelles conditions ces monstres passèrent-ils en vue de l\'embarcation ?\... C\'est ce que le récit négligeait d\'indiquer. Au surplus, mammifères marins, oiseaux gigantesques, redoutables carnassiers des régions polaires, il ne s\'en rencontra pas un seul sur la route de l\'*Halbrane.*
+
+J\'ajouterai que personne à bord ne subissait cette influence singulière dont parle Arthur Pym, cet engourdissement du corps et de l\'esprit, cette indolence soudaine, qui rendaient incapable du moindre effort physique.
+
+Et peut-être faut-il expliquer par cet état pathologique et physiologique, qu\'il ait cru voir ces phénomènes, uniquement dus à quelque trouble des facultés mentales ?\...
+
+Enfin, le 7 janvier -- d\'après Dirk Peters, et il n\'avait pu l\'estimer que par le temps écoulé --, nous étions arrivés à l\'endroit où le sauvage Nu-Nu, étendu au fond du canot, avait rendu le dernier soupir. Deux mois et demi plus tard, à la date du 22 mars, se termine le journal de cet extraordinaire voyage. Et c\'est alors que flottaient d\'épaisses ténèbres, tempérées par la clarté des eaux, qui réfléchissaient le voile de vapeurs blanches tendu sur le ciel\...
+
+Eh bien, l\'*Halbrane* ne fut témoin d\'aucun de ces stupéfiants prodiges, et le soleil, inclinant sa spirale allongée, illuminait toujours l\'horizon.
+
+Et il était heureux que l\'espace ne fût pas plongé dans l\'obscurité, puisqu\'il nous eût été impossible de prendre hauteur.
+
+Ce jour-là, 9 janvier, une bonne observation donna -- la longitude restant la même entre le 42^e^ et le 43^e^ méridien --, donna, dis-je, 86° 33\' pour la latitude.
+
+Ce fut en cet endroit, à s\'en rapporter aux souvenirs du métis, que s\'effectua la séparation des deux fugitifs, après le heurt du canot et du glaçon.
+
+Mais une question se posait. Puisque ce glaçon, entraînant Dirk Peters, avait dérivé vers le nord, est-ce donc qu\'il était soumis à l\'action d\'un contre-courant ?\...
+
+Oui, cela devait être, car, depuis deux jours, notre goélette ne sentait plus l\'influence de celui auquel elle avait obéi en quittant l\'île Tsalal. Et pourquoi s\'en étonner, lorsque tout est si variable en ces mers australes ! Très heureusement, la fraîche brise du nord-est persistait, et l\'*Halbrane,* couverte de toile, continuait à s\'élever vers de plus hauts parages, en avance de treize degrés sur les navires de Weddell et de deux degrés sur la *Jane.* Quant aux terres --- îles ou continent ---, que le capitaine Len Guy cherchait à la surface de cette immense mer, elles n\'apparaissaient pas. Je sentais bien qu\'il perdait peu à peu d\'une confiance bien ébranlée déjà après tant de vaines recherches\...
+
+Quant à moi, j\'étais obsédé du désir de recueillir Arthur Pym autant que les survivants de la *Jane.* Et pourtant, de croire qu\'il eût pu survivre ?\... Oui\... je le sais !\... C\'était l\'idée fixe du métis qu\'il le retrouverait encore vivant !\... Et si notre capitaine eût donné l\'ordre de revenir en arrière, je me demande à quelles extrémités Dirk Peters se fût porté !\... Peut-être se serait-il précipité à la mer plutôt que de retourner vers le nord !\... C\'est pourquoi, lorsqu\'il entendait la plupart des matelots protester contre cette navigation insensée, parler de virer cap pour cap, avais-je toujours la crainte qu\'il s\'abandonnât à quelque violence, -- contre Hearne surtout, qui excitait sourdement à l\'insubordination ses camarades des Falklands !
+
+Cependant il convenait de ne pas laisser l\'indiscipline et le découragement s\'introduire à bord. Aussi, ce jour-là, désireux de remonter les esprits, le capitaine Len Guy, sur ma demande, fit-il réunir l\'équipage au pied du grand mât, et il lui parla en ces termes :
+
+« Marins de l\'*Halbrane,* depuis notre départ de l\'île Tsalal, la goélette a gagné 2° vers le sud, et je vous annonce, conformément à l\'engagement signé par M. Jeorling, que quatre mille dollars --- soit deux mille dollars par degré -- vous sont acquis présentement et seront payés au terme du voyage. »
+
+Il y eut bien quelques murmures de satisfaction, mais point de hurrahs, si ce n\'est ceux que poussèrent, sans trouver d\'écho, le bosseman Hurliguerly et le cuisinier Endicott.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730029 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729101 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728173 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727586 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726658 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 5 -- Une embardée]{#_Toc349724342 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-5-une-embardée .calibre171 .sigil_not_in_toc}
+
+Lors même que les anciens de l\'équipage se fussent joints au bosseman et au maître coq, au capitaine Len Guy, à Jem West et à moi pour continuer la campagne, si les nouveaux décidaient de revenir, nous ne serions pas de force à l\'emporter. Quatorze hommes, compris Dirk Peters, contre dix-neuf, c\'était insuffisant. Et, d\'ailleurs, eût-il été sage de compter sur tous les anciens du bord ?\... L\'épouvante ne les prendrait-elle pas à naviguer au milieu de ces régions qui semblent en dehors du domaine terrestre ?\... Résisteraient-ils aux incessantes excitations de Hearne et de ses camarades ?\... Ne s\'uniraient-ils pas à eux pour exiger le retour vers la banquise ?\...
+
+Et, pour dire mon entière pensée, le capitaine Len Guy lui-même ne se lasserait-il pas de prolonger une campagne qui ne donnait aucun résultat ?\... Ne renoncerait-il pas bientôt à ce dernier espoir de sauver en ces lointains parages les matelots de la *Jane* ?\... Menacé par l\'approche de l\'hiver austral, des froids insoutenables, des tempêtes polaires auxquelles ne pourrait résister sa goélette, ne donnerait-il pas enfin ordre de virer de bord ?\... Et de quel poids pèseraient mes arguments, mes adjurations, mes prières, lorsque je serais seul à les formuler ?\...
+
+Seul ?\... non pas !\... Dirk Peters me soutiendrait\... Mais lui et moi, qui voudrait nous écouter ?\...
+
+Si, le cœur déchiré à la pensée d\'abandonner son frère et ses compatriotes, le capitaine Len Guy résistait encore, je sentais qu\'il devait être sur la limite du découragement. Néanmoins, la goélette ne déviait pas de la ligne droite imposée depuis l\'île Tsalal. Il semblait qu\'elle fût rattachée comme par un aimant sous-marin à cette longitude de la *Jane,* et plût au Ciel que ni les courants ni les vents ne vinssent à l\'en écarter ! Contre ces forces de la nature, il aurait fallu céder, tandis que les inquiétudes nées de l\'apeurement, on peut essayer de lutter contre elles\...
+
+Je dois mentionner, d\'ailleurs, une circonstance qui favorisait la marche vers le sud. Après avoir molli pendant quelques jours, le courant se faisait de nouveau sentir avec une vitesse de trois à quatre milles à l\'heure. Évidemment --- ainsi que me fit observer le capitaine Len Guy ---, il dominait dans cette mer, bien qu\'il fût détourné ou refoulé, de temps à autre, par des contre-courants très difficiles à indiquer avec quelque exactitude sur les cartes. Par malheur, ce que nous ne pouvions déterminer, ce qui était précisément désirable, c\'eût été de savoir si l\'embarcation qui emportait William Guy et les siens, au large de Tsalal, avait subi l\'influence de ceux-ci ou de celui-là. Il ne faut pas oublier que leur action avait dû être supérieure à celle du vent sur un canot dépourvu de voilure comme tous ceux de ces insulaires, manœuvrés à la pagaie.
+
+Quoi qu\'il en soit et en ce qui nous concerne, ces deux forces naturelles s\'accordaient pour entraîner l\'*Halbrane* vers les confins de la zone polaire.
+
+Ainsi en fut-il les 10, 11 et 12 janvier. Il n\'y eut aucune particularité à noter, si ce n\'est un certain abaissement qui se produisit dans l\'état thermométrique. La température de l\'air revint à 48° (8° 89 C. sur zéro) et celle de l\'eau à 33° (0° 56 C. sur zéro).
+
+Quel écart déjà entre les cotes relevées par Arthur Pym, alors que la chaleur des eaux était telle --- à l\'en croire --- que la main ne pouvait la supporter !
+
+Nous n\'étions, en somme, que dans la seconde semaine de janvier. Deux mois devaient encore s\'écouler avant que l\'hiver eût mis en mouvement les icebergs, formé les icefields et les drifts, consolidé les énormes masses de la banquise, solidifié les plaines liquides de l\'Antarctide. Dans tous les cas, ce qui doit être tenu pour certain, c\'est l\'existence d\'une mer libre pendant la saison estivale, sur un espace compris entre le 72^e^ et le 87^e^ parallèle.
+
+Cette mer a été parcourue, à différentes latitudes, par les navires de Weddell, par la *Jane,* par l\'*Halbrane,* et pourquoi, sous ce rapport, le domaine austral serait-il moins privilégié que le domaine boréal ?\...
+
+Le 13 janvier, le bosseman et moi, nous eûmes une conversation de nature à justifier mes inquiétudes relativement aux dispositions fâcheuses de notre équipage.
+
+Les hommes déjeunaient dans le poste, à l\'exception de Drap et de Stem, en ce moment de quart sur l\'avant. La goélette fendait les eaux sous une fraîche brise avec toute sa voilure haute et basse. Francis, à la barre, gouvernait au sud-sud-est de manière à porter bon plein.
+
+Je me promenais entre le mât de misaine et le grand mât, regardant les bandes d\'oiseaux, qui poussaient des cris assourdissants et dont quelques-uns, des pétrels, venaient parfois se percher sur le bout des vergues. On ne cherchait point à s\'en emparer ni à les tirer. C\'eût été cruauté bien inutile, puisque leur chair, huileuse et coriace, n\'est point comestible.
+
+À ce moment Hurliguerly s\'approcha de moi, après avoir regardé ces oiseaux, et me dit :
+
+« Je remarque une chose, monsieur Jeorling\...
+
+--- Et laquelle, bosseman ?\...
+
+--- C\'est que ces volatiles ne s\'envolent plus vers le sud aussi directement qu\'ils l\'avaient fait jusqu\'ici\... Quelques-uns se disposent à gagner le nord\...
+
+--- Je l\'ai remarqué comme vous, Hurliguerly.
+
+--- J\'ajoute, monsieur Jeorling, que ceux qui sont là-bas ne tarderont pas à revenir.
+
+--- Et vous en concluez ?\...
+
+--- J\'en conclus qu\'ils sentent l\'approche de l\'hiver\...
+
+--- De l\'hiver ?\...
+
+--- Sans doute.
+
+--- Erreur, bosseman, et l\'élévation de la température est telle que ces oiseaux ne peuvent songer à regagner si prématurément des régions moins froides.
+
+--- Oh ! prématurément, monsieur Jeorling\...
+
+--- Voyons, bosseman, ne savons-nous pas que les navigateurs ont toujours pu fréquenter les parages antarctiques jusqu\'au mois de mars ?\...
+
+--- Pas à cette latitude, répondit Hurliguerly, pas à cette latitude ! Et, d\'ailleurs, il y a des hivers précoces comme il y a des étés précoces. La belle saison, cette année, a été en avance de deux grands mois, et il est à craindre que la mauvaise ne se fasse sentir plus tôt qu\'à l\'ordinaire.
+
+--- C\'est fort admissible, répondis-je. Après tout, qu\'importe, puisque notre campagne aura certainement pris fin avant trois semaines\...
+
+--- Si quelque obstacle ne se présente pas auparavant, monsieur Jeorling\...
+
+--- Et lequel ?\...
+
+--- Par exemple, un continent qui s\'étendrait au sud et nous barrerait la route\...
+
+--- Un continent, Hurliguerly ?\...
+
+--- Savez-vous que je n\'en serais pas autrement étonné, monsieur Jeorling\...
+
+--- Et, en somme, cela n\'aurait rien d\'étonnant, répliquai-je.
+
+--- Quant à ces terres entrevues par Dirk Peters, reprit Hurliguerly, et sur lesquelles les hommes de la *Jane* auraient pu se réfugier, je n\'y crois guère\...
+
+--- Pourquoi ?\...
+
+--- Parce que William Guy, qui ne devait disposer que d\'une embarcation de faible dimension, n\'aurait pu s\'enfoncer si loin dans ces mers\...
+
+--- Je ne me prononce pas d\'une façon aussi affirmative, bosseman.
+
+--- Cependant, monsieur Jeorling\...
+
+--- Et qu\'y aurait-il donc de surprenant, m\'écriai-je, à ce que William Guy eût atterri quelque part sous l\'action des courants ?\... Il n\'est pas resté à bord de son canot depuis huit mois, je suppose !\... Ses compagnons et lui auront pu débarquer soit sur une île, soit sur un continent, et c\'est là un motif suffisant pour ne pas abandonner nos recherches\...
+
+--- Sans doute\... mais, dans l\'équipage, tous ne sont pas de cet avis, répondit Hurliguerly en hochant la tête.
+
+--- Je le sais, bosseman, et c\'est ce qui me préoccupe le plus. Est-ce que les mauvaises dispositions s\'accroissent ?\...
+
+--- Je le crains, monsieur Jeorling. La satisfaction d\'avoir gagné plusieurs centaines de dollars est déjà très amoindrie, et la perspective d\'en gagner quelques autres centaines n\'empêche pas les récriminations\... Cependant la prime est alléchante !\... De l\'île Tsalal au pôle, en admettant qu\'on pût s\'élever jusque-là, il y a 6°\... Or, six degrés à deux mille dollars chaque, cela fait une douzaine de mille dollars pour trente hommes, soit quatre cents dollars par tête !\... Un joli denier à glisser dans sa poche au retour de l\'*Halbrane* !\... Malgré cela, ce maudit Hearne travaille si méchamment ses camarades, que je les vois prêts à larguer la barre et l\'amarre, comme on dit !\...
+
+--- De la part des recrues, je l\'admets, bosseman\... Pour les anciens\...
+
+--- Hum !\... il y en a, de ceux-là, trois ou quatre qui commencent à réfléchir\... et ils ne voient pas sans inquiétude la navigation se prolonger\...
+
+--- Je pense que le capitaine Len Guy et son lieutenant sauraient se faire obéir\...
+
+--- C\'est à voir, monsieur Jeorling !\... Et, ne peut-il arriver que notre capitaine lui-même se décourage\... que le sentiment de sa responsabilité l\'emporte\... et qu\'il renonce à poursuivre cette campagne ?\... »
+
+Oui ! c\'était bien ce que je craignais, et à cela aucun remède.
+
+« Quant à mon ami Endicott, monsieur Jeorling, je réponds de lui comme de moi. Nous irions au bout du monde -- en admettant que le monde ait un bout --, si le capitaine voulait y aller. Il est vrai, nous deux, Dirk Peters et vous, c\'est peu pour faire la loi aux autres !\...
+
+--- Et que pense-t-on du métis ?\... demandai-je.
+
+--- Ma foi, c\'est lui surtout que nos hommes me paraissent accuser de la prolongation du voyage !\... Sans doute, monsieur Jeorling, si vous y êtes pour une bonne part, laissez-moi dire le mot\... vous payez et payez bien\... tandis que ce cabochard de Dirk Peters s\'entête à soutenir que son pauvre Pym vit encore\... alors qu\'il est noyé, ou gelé, ou écrasé\... enfin mort d\'une façon quelconque depuis onze ans !\... »
+
+C\'était tellement mon avis que je ne discutais plus jamais avec le métis à ce sujet.
+
+« Voyez-vous, monsieur Jeorling, reprit le bosseman, au commencement de la traversée, Dirk Peters inspirait quelque curiosité. Puis ce fut de l\'intérêt, après qu\'il eut sauvé Martin Holt\... Certes, il ne devint pas plus familier ni plus causeur qu\'auparavant, et l\'ours ne sortit guère de son trou !\... Mais, à présent, on sait ce qu\'il est\... et, ma foi, cela ne l\'a pas rendu plus sympathique !\... Dans tous les cas, c\'est en parlant d\'un gisement de terres au sud de l\'île Tsalal, qu\'il a décidé notre capitaine à pousser la goélette dans cette direction, et si actuellement elle a dépassé le 86^e^ degré de latitude, c\'est à lui qu\'on le doit\...
+
+--- J\'en conviens, bosseman.
+
+--- Aussi, monsieur Jeorling, je crains toujours qu\'on essaie de lui faire un mauvais parti !\...
+
+--- Dirk Peters se défendrait, et je plaindrais celui qui oserait le toucher du bout du doigt !
+
+--- D\'accord, monsieur Jeorling, d\'accord, et il ne ferait pas bon d\'être pris entre ses mains qui courberaient des plaques de tôle ! Pourtant, tous contre lui, on arriverait à le souquer ferme, je suppose, à le bloquer à fond de cale\...
+
+
+--- Comptez sur moi, monsieur Jeorling !\... Je vous servirai\... vent sous vergue\...
+
+--- Et vous ne vous en repentirez pas, Hurliguerly ! Rien de plus facile que d\'ajouter un zéro aux quatre cents dollars qui seront acquis à chaque homme par chaque degré, si cet homme est plus qu\'un simple matelot\... ne remplît-il même que les fonctions de bosseman à bord de la *Jane* ! »
+
+C\'était prendre cet original par son endroit sensible, et j\'étais sûr de son appui. Oui ! il ferait tout pour déjouer les machinations des uns, relever le courage des autres, veiller sur Dirk Peters. Réussirait-il à empêcher la révolte d\'éclater à bord ?\...
+
+Il ne se passa rien de notable pendant les journées du 13 et du 14. Toutefois, un nouvel abaissement de la température se produisit. C\'est ce que me fit observer le capitaine Len Guy, en montrant les nombreuses bandes d\'oiseaux, qui ne cessaient de remonter dans la direction du nord.
+
+Tandis qu\'il me parlait, je sentais que ses dernières espérances ne tarderaient pas à s\'éteindre. Et comment s\'en étonner ? Du gisement indiqué par le métis, on ne voyait rien, et nous étions déjà à plus de cent quatre-vingts milles de l\'île Tsalal. À toutes les aires du compas, c\'était la mer --- rien que la mer immense avec son horizon désert dont le disque solaire se rapprochait depuis le 21 décembre, et qu\'il effleurerait au 21 mars pour disparaître pendant les six mois de la nuit australe !\... De bonne foi, pouvait-on admettre que William Guy et ses cinq compagnons eussent pu franchir une telle distance sur une frêle embarcation, et y avait-il une chance sur cent de jamais les recueillir ?\...
+
+Le 15 janvier, une observation, très exactement faite, donna 43° 13\' pour la longitude et 88° 17\' pour la latitude. L\'*Halbrane* n\'était plus qu\'à moins de 2° du pôle, -- moins de cent vingt milles marins.
+
+Le capitaine Len Guy ne chercha point à cacher le résultat de cette observation, et les matelots étaient assez familiarisés avec les calculs de navigation pour la comprendre. D\'ailleurs, s\'il s\'agissait de leur en expliquer les conséquences, n\'avaient-ils pas les maîtres Martin Holt et Hardie ?\... Puis, Hearne n\'était-il pas là pour les exagérer jusqu\'à l\'absurde ?\...
+
+Aussi, pendant l\'après-midi, je ne pus mettre en doute que le sealing-master eût manœuvré de manière à surexciter les esprits. Les hommes, accroupis au pied du mât de misaine, causaient à voix basse en nous jetant de mauvais regards. Des conciliabules se formaient.
+
+Deux ou trois matelots, tournés vers l\'avant, ne ménageaient guère les gestes de menace. Bref, cela finit par des murmures si violents que Jem West ne put ne point entendre.
+
+« Silence ! » cria-t-il.
+
+Et, s\'avançant :
+
+« Le premier qui ouvre la bouche, dit-il d\'une voix brève, aura affaire à moi ! »
+
+Quant au capitaine Len Guy, il était enfermé dans sa cabine. Mais, à chaque instant, je m\'attendais à ce qu\'il en sortît, et, après un dernier coup d\'œil jeté au large, je ne doutais pas qu\'il donnât l\'ordre de virer de bord\...
+
+Cependant, le lendemain, la goélette suivait encore la même direction. Le timonier tenait toujours le cap au sud. Par malheur -- circonstance d\'une certaine gravité --, quelques brumes commençaient à se lever au large.
+
+Je ne pouvais plus, je l\'avoue, tenir en place. Mes appréhensions redoublaient.
+
+Il était visible que le lieutenant n\'attendait que l\'ordre de changer la barre. Quelque mortel chagrin qu\'il dût en éprouver, le capitaine Len Guy, je ne le comprenais que trop, ne tarderait pas à donner cet ordre\...
+
+Depuis plusieurs jours, je n\'avais point aperçu le métis, ou, du moins, je n\'avais pas échangé un mot avec lui. Évidemment mis en quarantaine, dès qu\'il paraissait sur le pont, on s\'écartait de lui. Allait-il s\'accouder à bâbord, l\'équipage se portait aussitôt à tribord. Seul le bosseman, affectant de ne pas s\'éloigner, lui adressait la parole. Il est vrai, ses questions restaient généralement sans réponse.
+
+Je dois dire, d\'ailleurs, que Dirk Peters ne s\'inquiétait aucunement de cet état de choses. Absorbé dans ses obsédantes pensées, peut-être ne le voyait-il pas. Je le répète, s\'il eût entendu Jem West crier : Cap au nord ! je ne sais à quels actes de violence il se fût porté !\...
+
+Et, puisqu\'il semblait m\'éviter, je me demandais si cela ne provenait pas d\'un certain sentiment de réserve, et « pour ne pas me compromettre davantage ».
+
+Cependant, le 17, dans l\'après-midi, le métis manifesta l\'intention de me parler, et jamais\... non ! jamais je n\'aurais pu imaginer ce que j\'allais apprendre dans cet entretien.
+
+Il était environ deux heures et demie.
+
+Un peu fatigué, mal à l\'aise, je venais de rentrer dans ma cabine, dont le châssis latéral était ouvert, tandis que celui d\'arrière était fermé.
+
+Un léger coup fut frappé à ma porte, qui donnait sur le carré du rouf.
+
+« Qui est là ?\... dis-je.
+
+--- Dirk Peters.
+
+--- Vous avez à me parler ?\...
+
+--- Oui.
+
+--- Je vais sortir\...
+
+--- S\'il vous plaît\... je préférerais\... Puis-je entrer dans votre cabine ?\...
+
+--- Entrez. »
+
+Le métis poussa la porte et la referma.
+
+Sans me lever de mon cadre, sur lequel j\'étais étendu, je lui fis signe de s\'asseoir sur le fauteuil.
+
+Dirk Peters resta debout.
+
+Comme il ne se pressait pas de prendre la parole, -- embarrassé suivant son habitude :
+
+« Que me voulez-vous, Dirk Peters ?\... demandai-je.
+
+--- Vous dire une chose\... Comprenez-moi\... monsieur\... parce qu\'il me paraît bon que vous sachiez\... et vous serez seul à savoir !\... Dans l\'équipage\... qu\'on ne puisse jamais se douter\...
+
+--- Si cela est grave, et si vous craignez quelque indiscrétion, Dirk Peters, pourquoi me parler ?\...
+
+--- Si\... il le faut\... oui !\... il le faut !\... Impossible de garder cela !\... Ça me pèse\... là\... là\... comme une roche !\... »
+
+Et Dirk Peters se battait violemment la poitrine.
+
+Puis, reprenant :
+
+« Oui\... j\'ai toujours peur que ça m\'échappe pendant mon sommeil\... et qu\'on l\'entende\... car je rêve de cela\... et en rêvant\...
+
+--- Vous rêvez, répondis-je, et de qui ?\...
+
+--- De lui\... de lui\... Aussi\... c\'est pour cela que je dors dans les coins\... tout seul\... de peur qu\'on apprenne son vrai nom\... »
+
+J\'eus alors le pressentiment que le métis allait peut-être répondre à une demande que je ne lui avais pas encore faite -- demande relative à ce point demeuré obscur dans mon esprit : pourquoi, après avoir quitté l\'Illinois, était-il venu vivre aux Falklands sous le nom de Hunt ?
+
+Dès que je lui eus posé cette question :
+
+« Ce n\'est pas cela\... répliqua-t-il, non\... ce n\'est pas cela que je veux\...
+
+--- J\'insiste, Dirk Peters, et je désire savoir d\'abord pour quelle raison vous n\'êtes pas resté en Amérique, pour quelle raison vous avez choisi les Falklands\...
+
+--- Pour quelle raison\... monsieur ?\... Parce que je voulais me rapprocher de Pym\... de mon pauvre Pym\... parce que j\'espérais trouver aux Falklands une occasion de m\'embarquer sur un baleinier à destination de la mer australe\...
+
+--- Mais ce nom de Hunt ?
+
+--- Je ne voulais plus du mien\... non !\... je n\'en voulais plus\... à cause de l\'affaire du *Grampus* ! »
+
+Le métis venait de faire allusion à cette scène de la courte paille, à bord du brick américain, lorsqu\'il fut décidé entre Auguste Barnard, Arthur Pym, Dirk Peters et le matelot Parker, que l\'un des quatre serait sacrifié\... qu\'il servirait de nourriture aux trois autres\... Je me rappelais la résistance opiniâtre d\'Arthur Pym, et comment il fut dans l\'obligation de ne point refuser son « franc jeu dans la tragédie qui allait se jouer vivement -- telle est sa propre phrase --, et l\'horrible acte dont le cruel souvenir devait empoisonner l\'existence de tous ceux qui y avaient survécu\... ».
+
+Oui ! la courte paille, -- de petits éclats de bois, des esquilles de longueur inégale, qu\'Arthur Pym tenait dans sa main\... La plus courte désignerait celui qui serait immolé\... Et il parle de cette sorte d\'involontaire férocité qu\'il éprouva de tromper ses compagnons, de « tricher » --- c\'est le mot dont il se sert\... Mais il ne le fit pas et demande pardon d\'en avoir eu l\'idée !\... Que l\'on veuille bien se mettre dans une position semblable à la sienne !\...
+
+Puis, il se décide, il présente sa main refermée sur les quatre esquilles\...
+
+Dirk Peters tire le premier\... Le sort l\'a favorisé\... Il n\'a plus rien à craindre.
+
+Arthur Pym calcule qu\'il existe une chance de plus contre lui.
+
+Auguste Barnard tire à son tour\... Sauvé aussi, celui-là !
+
+Et maintenant Arthur Pym chiffre les chances qui sont égales entre Parker et lui\...
+
+À ce moment, toute la férocité du tigre s\'empare de son âme\... Il éprouve contre son pauvre camarade, son semblable, la haine la plus intense et la plus diabolique\...
+
+Cinq minutes s\'écoulent avant que Parker ose tirer\... Enfin Arthur Pym, les yeux fermés, ne sachant si le sort avait été pour ou contre lui, sent une main saisir la sienne\...
+
+C\'était la main de Dirk Peters\... Arthur Pym venait d\'échapper à la mort\...
+
+Et alors, le métis se précipite sur Parker qui est abattu d\'un coup dans le dos. Puis, suit l\'effroyable repas --- immédiatement --- et « les mots n\'ont point une vertu suffisante pour frapper l\'esprit de la parfaite horreur de la réalité ! ».
+
+Oui !\... je la connaissais cette effroyable histoire, -- non point imaginaire, comme je l\'avais longtemps cru. Voilà ce qui s\'était passé à bord du *Grampus,* le 16 juillet 1827, et c\'est en vain que je cherchais à comprendre pour quelle raison Dirk Peters venait m\'en rappeler le souvenir.
+
+Je ne devais pas tarder à le savoir.
+
+« Eh bien, Dirk Peters, dis-je, je vous demanderai, puisque vous teniez à cacher votre nom, pourquoi vous l\'avez révélé, lorsque l\'*Halbrane* était au mouillage de l\'île Tsalal\... pourquoi vous n\'avez pas conservé celui de Hunt ?\...
+
+--- Monsieur\... comprenez-moi\... on hésitait à aller plus loin\... on voulait revenir en arrière\... C\'était décidé\... et alors j\'ai pensé\... oui !\... qu\'en disant que j\'étais\... Dirk Peters\... le maître-cordier du *Grampus*\... le compagnon du pauvre Pym\... on m\'écouterait\... on croirait avec moi qu\'il était encore vivant\... on irait à sa recherche\... Et pourtant\... c\'était grave\... car d\'avouer que j\'étais Dirk Peters\... celui qui avait tué Parker\... Mais la faim\... la faim dévorante\...
+
+--- Voyons, Dirk Peters, repris-je, vous vous exagérez\... Si la paille vous avait désigné, c\'eût été vous qui auriez subi le sort de Parker !\... On ne saurait vous faire un crime\...
+
+--- Monsieur\... comprenez-moi !\... Est-ce que la famille de Parker parlerait comme vous le faites ?\...
+
+--- Sa famille ?\... Avait-il donc des parents ?\...
+
+--- Oui\... et c\'est pourquoi\... dans le récit\... Pym avait changé ce nom\... Parker ne s\'appelait pas Parker\... Il se nommait\...
+
+--- Arthur Pym a eu raison, répondis-je, et quant à moi, je ne veux pas savoir le vrai nom de Parker !\... Gardez ce secret\...
+
+--- Non\... je vous le dirai\... Ça me pèse trop\... et ça me soulagera peut-être\... lorsque je vous l\'aurai dit\... monsieur Jeorling\...
+
+--- Non\... Dirk Peters\... non !
+
+--- Il se nommait Holt\... Ned Holt\...
+
+--- Holt\... m\'écriai-je, Holt\... du même nom que notre maître-voilier\...
+
+--- Qui est son propre frère, monsieur\...
+
+--- Martin Holt\... le frère de Ned ?\...
+
+--- Oui !\... comprenez-moi\... son frère\...
+
+--- Mais il croit que Ned Holt a péri comme les autres dans le naufrage du Grampus\...
+
+--- Cela n\'est pas\... et s\'il apprenait que j\'ai\... »
+
+Juste à cet instant, une violente secousse me jeta hors de mon cadre.
+
+La goélette venait de donner une telle bande sur tribord qu\'elle faillit chavirer.
+
+Et j\'entendis une voix irritée, criant :
+
+« Quel est donc le chien qui est à la barre ?\... »
+
+C\'était la voix de Jem West, et celui qu\'il interpellait ainsi, c\'était Hearne.
+
+Je me précipitai hors de la cabine.
+
+« Tu as donc lâché la roue ?\... répétait Jem West, qui avait saisi Hearne par le collet de sa vareuse.
+
+--- Lieutenant\... je ne sais\...
+
+--- Si\... te dis-je !\... Il faut que tu l\'aies lâchée, et un peu plus la goélette capotait sous voiles ! »
+
+Il était évident que Hearne --- pour un motif ou un autre --- avait abandonné un moment le gouvernail.
+
+« Gratian, cria Jem West en appelant un des matelots, prends la barre, et toi, Heame, à fond de cale\... »
+
+Soudain le cri de « terre ! » retentit, et tous les regards se dirigèrent vers le sud.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730030 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729102 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728174 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727587 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726659 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 6 -- Terre ?\...]{#_Toc349724343 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-6-terre-... .calibre171 .sigil_not_in_toc}
+
+Tel est l\'unique mot qui se trouve en tête du chapitre XVII dans le livre d\'Edgar Poe. J\'ai cru bon --- en le faisant suivre d\'un point d\'interrogation -- de le placer en tête de ce chapitre VI de mon récit.
+
+Ce mot, tombé du haut de notre mât de misaine, désignait-il une île ou un continent ?\... Et continent ou île n\'était-ce pas une déception qui nous y attendait ?\... Seraient-ils là, ceux que nous étions venus chercher sous de telles latitudes ?\... Et Arthur Pym, --- mort, incontestablement mort, malgré les affirmations de Dirk Peters, -- avait-il jamais mis le pied sur cette terre ?\...
+
+Lorsque ce cri retentit à bord de la *Jane,* le 17 janvier 1828 --- journée pleine d\'incidents, dit le journal d\'Arthur Pym --, ce fut en ces termes :
+
+« Terre par le bossoir de tribord ! »
+
+Tel il aurait pu l\'être à bord de l\'*Halbrane.*
+
+En effet, du même côté se dessinaient quelques contours, légèrement accusés au-dessus de la ligne du ciel et de la mer.
+
+Il est vrai, cette terre, qui avait été ainsi annoncée aux marins de la *Jane,* c\'était l\'îlot Bennet, aride, désert, auquel succéda à moins d\'un degré dans le sud l\'île Tsalal, fertile alors, habitable, habitée, et sur laquelle le capitaine Len Guy avait espéré rencontrer ses compatriotes. Mais que serait-elle, pour notre goélette, cette inconnue de 5° plus reculée dans les profondeurs de la mer australe ?\... Était-ce là le but si ardemment désiré, si obstinément cherché ?\... Là, les deux frères William et Len Guy tomberaient-ils dans les bras l\'un de l\'autre ?\... L\'*Halbrane* se trouvait-elle au terme d\'un voyage dont le succès aurait été définitivement assuré par le rapatriement des survivants de la *Jane* ?\...
+
+Je le répète, il en était de moi comme du métis. Notre but n\'était pas seulement ce but, -- ni ce succès, notre succès. Toutefois, puisqu\'une terre se présentait à nos yeux, il fallait la rallier d\'abord\... On verrait plus tard.
+
+Ce que je dois mentionner avant tout, c\'est que le cri amena une diversion immédiate. Je ne pensai plus à la confidence que Dirk Peters venait de me faire, -- et peut-être le métis l\'oublia-t-il, car il s\'élança vers l\'avant, et ses regards ne se détachèrent plus de l\'horizon.
+
+Quant à Jem West, que rien ne pouvait distraire de son service, il réitéra ses ordres. Gratian vint se mettre à la barre, et Hearne fut enfermé dans la cale.
+
+Juste punition, en somme, et contre laquelle personne n\'aurait dû protester, car l\'inattention ou la maladresse de Hearne avait compromis un instant la goélette.
+
+Toutefois, cinq ou six matelots des Falklands laissèrent échapper quelques murmures.
+
+Un geste du lieutenant les fit taire, et ils regagnèrent aussitôt leur poste.
+
+Il va de soi que, au cri de la vigie, le capitaine Len Guy s\'était précipité hors de sa cabine, et, d\'un œil ardent, il observait cette terre, distante alors de dix à douze milles.
+
+Je ne songeais plus, ai-je dit, au secret que venait de me confier Dirk Peters. D\'ailleurs, tant que ce secret resterait entre nous deux -- et ni lui ni moi ne le trahirions --, il n\'y aurait rien à redouter. Mais si jamais un malheureux hasard apprenait à Martin Holt que le nom de son frère avait été changé en celui de Parker\... que l\'infortuné n\'avait pas péri dans le naufrage du *Grampus\...* que, désigné par le sort, il avait été sacrifié pour empêcher ses compagnons de succomber à la faim\... que Dirk Peters, à qui, lui, Martin Holt devait la vie, l\'avait frappé de sa main !\... Et voilà donc la raison pour laquelle le métis se refusait obstinément aux remerciements de Martin Holt\... pourquoi il fuyait Martin Holt\... le frère de l\'homme dont il s\'était repu\...
+
+Le bosseman venait de piquer trois heures. La goélette marchait avec la prudence qu\'exigeait une navigation sur ces parages inconnus. Peut-être s\'y trouvait-il des hauts-fonds, des récifs à fleur d\'eau, où il y aurait eu risque de s\'échouer ou de se briser. Un échouage, dans les conditions où se trouvait l\'*Halbrane,* même en admettant qu\'elle pût être renflouée, aurait rendu impossible son retour avant la venue de l\'hiver. Toutes les chances, il fallait les avoir pour, pas une contre.
+
+Ordre avait été donné par Jem West de diminuer la voilure. Après que le bosseman eut fait serrer perroquet, hunier et flèche, l\'*Halbrane* resta sous sa brigantine, sa misaine-goélette et ses focs, -- toile suffisante pour franchir en quelques heures la distance qui la séparait de la terre.
+
+Aussitôt le capitaine Len Guy fit envoyer un plomb, qui accusa cent vingt brasses de profondeur. Plusieurs autres sondages indiquèrent que la côte, très accore, devait se prolonger sous les eaux par une muraille à pic. Néanmoins, comme il pouvait se faire que le fond vînt à remonter brusquement au lieu de se raccorder au littoral par une pente allongée, on n\'avançait que la sonde à la main.
+
+Beau temps toujours, quoique le ciel s\'embrumât légèrement du sud-est au sud-ouest. De là, certaine difficulté à reconnaître les vagues linéaments qui se profilaient comme une vapeur flottante sur le ciel, disparaissaient et reparaissaient entre les déchirures des brumes. Néanmoins, nous étions d\'accord pour attribuer à cette terre une hauteur de vingt-cinq à trente toises, -- au moins dans sa partie la plus élevée.
+
+Non ! il n\'était pas admissible que nous eussions été dupes d\'une illusion, et, cependant, nos esprits si tourmentés le craignaient. N\'est-il pas naturel, après tout, que le cœur soit assailli de mille appréhensions à l\'approche du suprême but ?\... Tant d\'espérances reposaient sur ce littoral seulement entrevu, et il en résulterait tant de découragement, s\'il n\'y avait là qu\'un fantôme, une ombre insaisissable !\... À cette pensée, mon cerveau se troublait, s\'hallucinait. Il me semblait que l\'*Halbrane* se rapetissait, qu\'elle se réduisait aux dimensions d\'un canot perdu sur cette immensité -- le contraire de cette mer indéfinissable dont parle Edgar Poe, où le navire grossit\... grossit comme un corps vivant\...
+
+Lorsque des cartes marines, même de simples portulans, vous renseignent sur l\'hydrographie des côtes, sur la nature des atterrages, sur des baies ou des criques, on peut naviguer avec une certaine audace. En toute autre région, sans être taxé de témérité, un capitaine n\'eût pas remis au lendemain l\'ordre de mouiller près du rivage. Mais, ici, quelle prudence s\'imposait ! Et pourtant, devant nous, aucun obstacle. En outre, l\'atmosphère ne devait rien perdre de sa clarté pendant ces heures ensoleillées de la nuit. À cette époque, l\'astre radieux ne se couchait pas encore sous l\'horizon de l\'ouest, et ses rayons baignaient d\'une lumière incessante le vaste domaine de l\'Antarctide.
+
+Le livre de bord consigna, à partir de cette date, que la température ne cessa de subir un abaissement continu. Le thermomètre, exposé à l\'air et à l\'ombre, ne marquait plus que 32° (0 °C.). Plongé dans l\'eau, il n\'en indiquait plus que 26 (3° 33 C. sous zéro). D\'où provenait cet abaissement, puisque nous étions en plein été antarctique ?\...
+
+Quoi qu\'il en soit, l\'équipage avait dû reprendre les vêtements de laine, dont il s\'était débarrassé, après avoir franchi la banquise, un mois avant. Il est vrai, la goélette marchait dans le sens de la brise, sous l\'allure du grand largue, et ces premières ébauches de froid furent moins sensibles. On comprenait, néanmoins, qu\'il fallait se hâter d\'atteindre le but. S\'attarder en cette région, s\'exposer aux dangers d\'un hivernage, c\'eût été braver Dieu.
+
+Le capitaine Len Guy fit, à plusieurs reprises, relever le sens du courant, en envoyant de lourdes sondes, et reconnut qu\'il commençait à dévier de sa direction.
+
+« Est-ce un continent qui s\'étend devant nous, est-ce une île, dit-il, rien ne nous permet encore de l\'affirmer. Si c\'est un continent, nous devrons en conclure que le courant doit trouver une issue vers le sud-est\...
+
+--- Et il est possible, en effet, ai-je répondu, que cette partie solide de l\'Antarctide soit réduite à une simple calotte polaire, dont nous pourrions contourner les bords. Dans tous les cas, il est bon de noter celles de ces observations qui présenteront une certaine exactitude\...
+
+--- C\'est ce que je fais, monsieur Jeorling, et nous rapporterons quantité de renseignements sur cette portion de la mer australe, lesquels serviront aux futurs navigateurs\...
+
+--- S\'il en est jamais qui se hasardent jusqu\'ici, capitaine ! Pour y avoir réussi, il a fallu que nous fussions servis par des circonstances particulières, la précocité de la belle saison, une température supérieure à la normale, une débâcle rapide des glaces. En vingt ans\... en cinquante ans\... ces circonstances s\'offrent-elles une seule fois ?\...
+
+--- Aussi, monsieur Jeorling, j\'en remercie la Providence, et l\'espoir m\'est quelque peu revenu. Puisque le temps a été constamment beau, pourquoi mon frère, pourquoi mes compatriotes n\'auraient-ils pas atterri sur cette côte, où les portaient les vents et les courants ?\... Ce que notre goélette a fait, leur embarcation a pu le faire\... Ils n\'ont pas dû partir sans s\'être munis de provisions pour un voyage qui pouvait indéfiniment se prolonger\... Pourquoi n\'auraient-ils pas trouvé là les ressources que l\'île Tsalal leur avait offertes pendant de longues années ?\... Ils possédaient des munitions et des armes\... Le poisson abonde en ces parages, le gibier aquatique aussi\... Oui, mon cœur est rempli d\'espérance, et je voudrais être plus vieux de quelques heures ! »
+
+Sans partager toute la confiance du capitaine Len Guy, j\'étais heureux qu\'il eût repris le dessus. Peut-être, si ses recherches aboutissaient, peut-être obtiendrais-je qu\'elles fussent continuées dans l\'intérêt d\'Arthur Pym, -- même à l\'intérieur de cette terre dont nous n\'étions plus éloignés.
+
+L\'*Halbrane* avançait lentement à la surface de ces eaux claires, fourmillant de poissons qui appartenaient aux espèces déjà rencontrées. Les oiseaux marins se montraient en plus grand nombre et ne semblaient pas trop effrayés, volant autour de la mâture ou se perchant sur les vergues. Plusieurs cordons blanchâtres, d\'une longueur de cinq à six pieds, furent ramenés à bord. C\'étaient de véritables chapelets à millions de grains, formés par une agglomération de petits mollusques aux couleurs étincelantes.
+
+Des baleines, empanachées des jets de leurs évents, apparurent au large, et je remarquai que toutes prenaient la route du sud. Il y avait donc lieu d\'admettre que la mer s\'étendait au loin dans cette direction.
+
+La goélette gagna deux à trois milles, sans essayer d\'accroître sa vitesse. Cette côte, vue pour la première fois, se développait-elle du nord-ouest au sud-est ?\... aucun doute à ce sujet. Néanmoins, les longues-vues n\'en pouvaient saisir aucun détail, -- même après trois heures de navigation.
+
+L\'équipage, rassemblé sur le gaillard d\'avant, regardait sans laisser voir ses impressions. Jem West, après s\'être hissé aux barres du mât de misaine, où il était resté dix minutes en observation, n\'avait rien rapporté de précis.
+
+Posté à bâbord, à l\'arrière du rouf, accoudé au bastingage, je suivais du regard la ligne du ciel et de la mer dont la circularité s\'interrompait seulement à l\'est. En ce moment, le bosseman me rejoignit, et, sans autre préparation, me dit :
+
+« Voulez-vous permettre que je vous donne mon idée, monsieur Jeorling ?\...
+
+--- Donnez, bosseman, sauf à ce que je ne l\'adopte point, si elle ne me paraît pas juste, répondis-je.
+
+--- Elle l\'est, et, à mesure que nous approchons, il faudrait être aveugle pour ne pas s\'y ranger.
+
+--- Et quelle idée avez-vous ?\...
+
+--- Que ce n\'est point une terre qui se présente devant nous, monsieur Jeorling\...
+
+--- Vous dites\... bosseman ?\...
+
+--- Regardez attentivement\... en mettant un doigt en avant de vos yeux\... tenez\... par le bossoir de tribord\... »
+
+Je fis ce que demandait Hurliguerly. « Voyez-vous ?\... reprit-il. Que je perde l\'envie de boire ma topette de whisky, si ces masses ne se déplacent pas, non par rapport à la goélette, mais par rapport à elles-mêmes\...
+
+--- Et vous en concluez ?\...
+
+--- Que ce sont des icebergs en mouvement.
+
+--- Des icebergs ?\...
+
+--- Assurément, monsieur Jeorling. »
+
+Le bosseman ne se trompait-il pas ?\... Était-ce donc une déception qui nous attendait ?\... Au lieu d\'une côte, n\'y avait-il au large que des montagnes de glace en dérive ?\...
+
+Il n\'y eut bientôt aucune hésitation à cet égard, et, depuis quelques instants déjà, l\'équipage ne croyait plus à l\'existence de la terre dans cette direction.
+
+Dix minutes après, l\'homme du nid de pie annonçait que plusieurs icebergs descendaient du nord-ouest, obliquement à la route de l\'*Halbrane.*
+
+Quel déplorable effet cette nouvelle produisit à bord !\... Notre dernier espoir venait soudain de s\'anéantir !\... Et quel coup pour le capitaine Len Guy !\... Cette terre de la zone australe, il faudrait la chercher sous de plus hautes latitudes, sans même être sûr de jamais la rencontrer !\...
+
+Et alors ce cri, presque unanime, retentit sur l\'*Halbrane :*
+
+« Pare à virer !\... Pare à virer ! »
+
+Oui, les recrues des Falklands déclaraient leur volonté, exigeaient le retour en arrière, bien que Hearne ne fût pas là pour souffler l\'indiscipline, -- et, je dois l\'avouer, la plupart des anciens de l\'équipage semblaient d\'accord avec eux.
+
+Jem West, n\'osant pas leur imposer silence, attendit les ordres de son chef.
+
+Gratian, à la barre, était prêt à donner un tour de roue, tandis que ses camarades, la main sur les taquets, se disposaient à larguer les écoutes\...
+
+Dirk Peters, appuyé contre le mât de misaine, la tête basse, le corps replié, la bouche contractée, restait immobile, et pas un mot ne s\'échappait de ses lèvres.
+
+Mais voici qu\'il se tourne vers moi, et quel regard il m\'adresse, --- un regard plein à la fois de prière et de colère !\...
+
+Je ne sais quelle irrésistible puissance me porta à intervenir personnellement, à protester une fois de plus !\... Un dernier argument venait de s\'offrir à mon esprit, -- argument dont la valeur ne pouvait être contestée.
+
+Je pris donc la parole, résolu à le soutenir envers et contre tous, et je le fis avec un tel accent de conviction que personne n\'essaya de m\'interrompre.
+
+En substance, je dis ceci :
+
+« Non ! tout espoir ne doit pas être abandonné\... La terre ne peut être loin\... Nous n\'avons pas en face de nous une de ces banquises qui ne se forment qu\'en plein océan par l\'accumulation des glaces\... Ce sont des icebergs, et ces icebergs ont nécessairement dû se détacher d\'une base solide, d\'un continent ou d\'une île\... Or, puisque c\'est à cette époque de l\'année que commence la débâcle, la dérive ne les a entraînés que depuis très peu de temps\... Derrière eux, nous devons rencontrer la côte sur laquelle ils se sont formés\... Encore vingt-quatre heures, quarante-huit heures au plus, et si la terre ne se montre pas, le capitaine Len Guy remettra le cap au nord !\... »
+
+Avais-je convaincu l\'équipage, ou devais-je le tenter par l\'appât d\'une surprime, profiter de ce que Hearne n\'était pas au milieu de ses camarades, qu\'il ne pouvait correspondre avec eux, les exciter, leur crier qu\'on les leurrait une dernière fois, leur répéter que ce serait entraîner la goélette à sa perte\...
+
+Ce fut le bosseman qui me vint en aide, et, d\'un ton de belle humeur :
+
+« Très bien raisonné, dit-il, et pour mon compte, je me rends à l\'opinion de monsieur Jeorling\... Assurément la terre est proche\... En la cherchant au-delà de ces icebergs, nous la découvrirons sans grandes fatigues ni grands dangers\... Un degré au sud, qu\'est-ce cela, quand il s\'agit de fourrer quelque centaine de dollars de plus dans sa poche ?\... Et n\'oublions pas que s\'ils sont agréables quand ils y entrent, ils ne le sont pas moins quand ils en sortent \... »
+
+Et, là-dessus, le cuisinier Endicott de prêter assistance à son ami le bosseman.
+
+« Oui\... très bons\... les dollars ! » cria-t-il, en montrant deux rangées de dents d\'une blancheur éclatante.
+
+L\'équipage allait-il se rendre à cette argumentation d\'Hurliguerly, ou essaierait-il de résister, si l\'*Halbrane* se lançait dans la direction des icebergs ?\...
+
+Le capitaine Len Guy reprit sa longue-vue, il la braqua sur ces masses mouvantes, il les observa avec une extrême attention, et, d\'une voix forte :
+
+« Cap au sud-sud-ouest ! » cria-t-il.
+
+Jem West donna ordre d\'exécuter la manœuvre.
+
+Les matelots hésitèrent un instant. Puis, ramenés à l\'obéissance, ils se mirent à brasser légèrement les vergues, à raidir les écoutes, et la goélette, ses voiles plus pleines, reprit de la vitesse.
+
+Lorsque l\'opération fut achevée, je m\'approchai d\'Hurliguerly, et le tirant à l\'écart :
+
+« Merci, bosseman, lui dis-je.
+
+--- Eh ! monsieur Jeorling, c\'est bon pour cette fois, répondit-il en hochant la tête. Mais il ne faudrait pas recommencer à haler tant que ça sur la drisse !\... Tout le monde serait contre moi\... peut-être même Endicott\...
+
+--- Je n\'ai rien avancé qui ne fût au moins probable\... répliquai-je vivement.
+
+--- Je n\'en disconviens pas, et la chose peut se soutenir avec quelque vraisemblance.
+
+--- Oui\... Hurliguerly, oui\... ce que j\'ai dit, je le pense, et je ne mets pas en doute que nous finirons par apercevoir la terre au-delà des icebergs\...
+
+--- Possible, monsieur Jeorling, possible !\... Alors qu\'elle apparaisse avant deux jours, car, foi de bosseman, rien ne pourrait nous empêcher de virer de bord ! »
+
+Pendant les vingt-quatre heures qui suivirent, l\'*Halbrane* fit route au sud-sud-ouest. Il est vrai, sa direction dut être fréquemment modifiée, et sa vitesse réduite au milieu des glaces. La navigation devint très difficile, dès que la goélette se fut engagée à travers la ligne des icebergs qu\'il fallait couper obliquement. D\'ailleurs, il n\'y avait aucun de ces packs, de ces drifts, qui encombraient les abords de la banquise sur le 70^e^ parallèle, rien du désordre que présentent ces parages du cercle polaire, battus par les tempêtes antarctiques. Les énormes masses dérivaient avec une majestueuse lenteur. Les blocs paraissaient « tout neufs », pour employer une expression d\'une parfaite justesse, et, peut-être, leur formation ne datait-elle que de quelques jours ?\... Toutefois, avec une hauteur de cent à cent cinquante pieds, leur volume devait se chiffrer par des milliers de tonnes. Éviter les collisions, c\'est à cela que veillait minutieusement Jem West, et il ne quitta pas le pont d\'un instant.
+
+En vain, au milieu des passes que les icebergs laissaient entre eux, cherchai-je à distinguer les indices d\'une terre dont l\'orientation eût obligé notre goélette à revenir plus directement au sud\... Je n\'apercevais rien de nature à me fixer.
+
+Du reste, et jusqu\'alors, le capitaine Len Guy avait toujours pu tenir pour exactes les indications du compas. Le pôle magnétique, encore éloigné de plusieurs centaines de milles, puisque sa longitude est orientale, n\'avait aucune influence sur la boussole. L\'aiguille, au lieu de ces variations de six à sept rumbs qui l\'affolent dans le voisinage de ce pôle, conservait sa stabilité, et l\'on pouvait s\'en rapporter à elle.
+
+Donc, en dépit de ma conviction -- qui se basait cependant sur de très sérieux arguments --, il n\'y avait aucune apparence de terre, et je me demandais s\'il ne conviendrait pas de mettre le cap plus à l\'ouest, quitte à éloigner l\'*Halbrane* du point extrême où se croisent les méridiens du globe.
+
+Aussi à mesure que s\'écoulaient ces heures, dont on m\'avait accordé quarante-huit, les esprits revenaient-ils peu à peu -- c\'était trop visible -- au découragement et penchaient-ils vers l\'indiscipline. Encore une journée et demie, et il ne me serait plus possible de combattre cette défaillance générale\... La goélette rétrograderait définitivement vers le nord.
+
+L\'équipage manœuvrait en silence, lorsque Jem West, d\'une voix brève, donnait l\'ordre d\'évoluer à travers les passes, tantôt lofant avec rapidité pour éviter quelque collision, tantôt arrivant presque plat vent arrière. Néanmoins, malgré une surveillance continue, malgré l\'habileté des matelots, malgré la prompte exécution des manœuvres, il se produisait, de temps à autre, de dangereux frottements contre la coque, qui laissait, après son passage, de longues traces de goudron sur l\'arête des icebergs. Et, en vérité, le plus brave ne pouvait se défendre d\'un sentiment de terreur à la pensée que les bordages auraient pu larguer, l\'eau nous envahir\...
+
+Ce qu\'il faut noter, c\'est que la base de ces montagnes flottantes était très accore. Un débarquement eût été impraticable. Aussi, n\'apercevions-nous aucun de ces phoques, d\'ordinaire si nombreux dans les parages où abondent les icefields, --- ni même aucune bande de ces pingouins criards que l\'*Halbrane* faisait autrefois plonger par myriades sur son passage. Les oiseaux eux-mêmes semblaient être plus rares et plus fuyards. De ces régions désolées et désertes se dégageait une impression d\'angoisse et d\'horreur à laquelle nul de nous n\'eût réussi à se soustraire. Comment aurait-on gardé l\'espoir que les survivants de la *Jane,* s\'ils avaient été entraînés au milieu de ces affreuses solitudes, eussent pu y trouver un abri et assurer leur existence ?\... Et si l\'*Halbrane* naufrageait à son tour, resterait-il seulement un témoin de son naufrage ?\...
+
+On put observer que, depuis la veille, à partir du moment où la direction du sud avait été abandonnée pour couper la ligne des icebergs, un changement s\'était opéré dans l\'attitude habituelle du métis. Le plus souvent accroupi au pied du mât de misaine, ses regards détournés du large, il ne se relevait que pour donner la main à quelque manœuvre, sans apporter à son travail ni le zèle ni la vigilance d\'autrefois. C\'était, à vrai dire, un découragé. Non point qu\'il eût renoncé à croire que son compagnon de la *Jane* fût encore vivant\... cette pensée n\'aurait pu naître dans son cerveau. Mais, d\'instinct, il sentait que ce n\'était pas à suivre cette direction qu\'il retrouverait les traces du pauvre Pym !
+
+« Monsieur\... m\'aurait-il dit, comprenez-moi\... ce n\'est pas par là\... non\... ce n\'est pas par là !\... »
+
+Et qu\'aurais-je eu à lui répondre ?\...
+
+Vers sept heures du soir, s\'éleva une brume assez épaisse, qui allait rendre malaisée et périlleuse la navigation de la goélette, tant qu\'elle durerait.
+
+Cette journée d\'émotions, d\'anxiétés, d\'alternatives sans cesse renaissantes, m\'avait brisé\... Aussi regagnai-je ma cabine, où je me jetai tout habillé sur mon cadre.
+
+Le sommeil ne me vint pas, sous l\'obsession des troublantes pensées de mon imagination, si calme autrefois, si surexcitée maintenant. J\'imagine volontiers que la lecture constante des œuvres d\'Edgar Poe, et dans ce milieu extraordinaire où se fussent complu ses héros, avait exercé sur moi une influence dont je ne me rendais pas bien compte\...
+
+C\'était demain qu\'allaient finir les quarante-huit heures, -- dernière aumône que l\'équipage avait faite à mes instances.
+
+« Ça ne va pas comme vous voulez ?\... » m\'avait dit le bosseman au moment où je pénétrais dans le rouf.
+
+Non ! certes, puisque la terre ne s\'était point montrée derrière la flottille des icebergs. Entre ces masses mouvantes, nul indice de côte n\'ayant été relevé, le capitaine Len Guy mettrait demain le cap au nord\...
+
+Ah ! que n\'étais-je le maître de cette goélette !\... Si j\'avais pu l\'acheter, fût-ce au prix de toute ma fortune, si ces hommes eussent été mes esclaves que j\'aurais conduits sous le fouet, jamais l\'*Halbrane* n\'aurait abandonné cette campagne\... dût-elle l\'entraîner jusqu\'à ce point axial de l\'Antarctide, au-dessus duquel la Croix du Sud jette ses feux étincelants !\...
+
+Mon cerveau bouleversé foisonnait de mille pensées, de mille regrets, de mille désirs !\... Je voulais me lever, et il semblait qu\'une pesante et irrésistible main me clouait sur mon cadre !\... Et l\'envie me venait de quitter à l\'instant cette cabine où je me débattais contre les cauchemars du demi-sommeil\... de lancer à la mer une des embarcations de l\'*Halbrane\...* de m\'y jeter avec Dirk Peters, qui n\'hésiterait pas à me suivre, lui !\... puis, de nous abandonner au courant qui se propageait vers le sud\...
+
+Et je le faisais\... oui ! je le faisais\... en rêve !\... Nous sommes au lendemain\... Le capitaine Len Guy, après un dernier regard à l\'horizon, a donné ordre de virer de bord\... Un des canots est à la traîne\... Je préviens le métis\... Nous nous glissons sans être aperçus\... Nous coupons la bosse\... Tandis que la goélette va de l\'avant, nous restons en arrière, et le courant nous emporte\...
+
+Nous allons ainsi sur la mer toujours libre\... Enfin notre canot s\'arrête\... Une terre est là\... Je crois apercevoir une sorte de sphinx, qui domine la calotte australe\... le sphinx des glaces\... Je vais à lui\... Je l\'interroge\... Il me livre les secrets de ces mystérieuses régions\... Et alors, autour du mythologique monstre apparaissent les phénomènes dont Arthur Pym affirmait la réalité\... Le rideau de vapeurs vacillantes, zébré de raies lumineuses, se déchire\... Et ce n\'est pas la figure de grandeur surhumaine qui se dresse devant mes regards éblouis\... c\'est Arthur Pym\... farouche gardien du pôle Sud, déployant au vent des hautes latitudes le pavillon des États-Unis d\'Amérique !\...
+
+Ce rêve fut-il brusquement interrompu, ou se modifiait-il au caprice d\'une imagination affolée, je ne sais, mais j\'eus le sentiment que je venais d\'être soudain réveillé\... Il me sembla qu\'un changement s\'opérait dans les balancements de la goélette, qui, doucement inclinée sur tribord, glissait à la surface de cette mer si tranquille\... Et pourtant, ce n\'était pas du roulis\... ce n\'était pas du tangage\...
+
+Oui\... positivement, je me sentis enlevé, comme si mon cadre eût été la nacelle d\'un aérostat\... comme si les effets de la pesanteur se fussent annihilés en moi\...
+
+Je ne me trompais pas, et j\'étais retombé du rêve dans la réalité\...
+
+Des chocs, dont la cause m\'échappait encore, retentirent au-dessus de ma tête. À l\'intérieur de la cabine les cloisons déviaient de la verticale à faire croire que l\'*Halbrane* se renversait sur le flanc. Presque aussitôt je fus projeté hors de mon cadre, et il s\'en fallut d\'un rien que l\'angle de la table me fendît le crâne\...
+
+Enfin je me relevai, je parvins à me cramponner au rebord du châssis latéral, je m\'arc-boutai contre la porte qui s\'ouvrait sur le carré et céda sous mes pieds\...
+
+À cet instant se produisirent des craquements dans les bastingages, des déchirements dans le flanc de bâbord\...
+
+Est-ce donc qu\'il y avait eu collision entre la goélette et l\'une de ces colossales masses flottantes que Jem West n\'avait pu éviter au milieu de la brume ?\...
+
+Soudain de violentes vociférations éclatèrent au-dessus du rouf, à l\'arrière, puis des cris d\'épouvante, dans lesquels se mélangeaient toutes les voix affolées de l\'équipage\...
+
+Enfin un dernier heurt se fit, et *l\'Halbrane* demeura immobile.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730031 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729103 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728175 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727588 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726660 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 7 -- L\'iceberg culbuté]{#_Toc349724344 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-7-liceberg-culbuté .calibre171 .sigil_not_in_toc}
+
+Je dus ramper sur le plancher du rouf pour atteindre la porte et gagner le pont.
+
+Le capitaine Len Guy, ayant déjà quitté sa cabine, se traînait sur les genoux, tant la bande était accusée, et il vint s\'accrocher de son mieux au râtelier de tournage des pavois.
+
+Vers l\'avant, entre le gaillard et le mât de misaine, quelques têtes sortaient des plis de la trinquette abattue comme une tente dont la drisse aurait largué.
+
+Étaient suspendus aux haubans de tribord, Dirk Peters, Hardie, Martin Holt, Endicott, sa face noire tout hébétée.
+
+Il est à croire qu\'à cette heure, le bosseman et lui eussent volontiers cédé à cinquante pour cent les primes qui leur étaient dues depuis le 24^e^ parallèle !\...
+
+Un homme parvint jusqu\'à moi en rampant, car l\'inclinaison du pont empêchait de se tenir debout, --- au moins 50°.
+
+C\'était Hurliguerly, qui se pomoyait à la façon d\'un gabier sur une vergue.
+
+Étendu tout de mon long, les pieds appuyés contre le chambranle de la porte, je ne craignais plus de glisser jusqu\'à l\'extrémité de la coursive.
+
+La main que je tendis au bosseman l\'aida à se hisser, non sans peine, près de moi.
+
+« Qu\'y a-t-il ?\... lui demandai-je.
+
+--- Un échouement, monsieur Jeorling !
+
+--- Nous sommes à la côte ?\... m\'écriai-je.
+
+--- Une côte suppose une terre, répondit ironiquement le bosseman, et, en fait de terre, il n\'y en a jamais eu que dans l\'imagination de ce diable de Dirk Peters !
+
+--- Enfin\... qu\'est-il arrivé ?\...
+
+--- Il est arrivé un iceberg au milieu de la brume, -- un iceberg dont on n\'a pu se garer\...
+
+--- Un iceberg, bosseman ?\...
+
+--- Oui !\... un iceberg, qui a choisi ce moment pour faire la culbute !\... En se retournant, il a rencontré l\'*Halbrane,* et il l\'a enlevée comme une raquette ramasse un volant, et nous voici maintenant échoués à une bonne centaine de pieds au-dessus du niveau de la mer antarctique. »
+
+Aurait-on pu imaginer plus terrible dénouement à l\'aventureuse campagne de l\'*Halbrane* !\... Au milieu de ces extrêmes parages, notre unique moyen de transport venait d\'être arraché de son élément naturel, emporté par le basculage d\'un iceberg à une hauteur qui dépassait cent pieds !\... Oui ! je le répète, quel dénouement ! De s\'engloutir au plus fort d\'une tempête, d\'être détruit dans une attaque de sauvages, d\'être écrasé entre des glaces, ce sont les dangers auxquels s\'expose tout navire engagé dans les mers polaires !\... Mais que l\'*Halbrane* eût été soulevée par une montagne flottante à l\'instant où cette montagne se retournait, et qu\'elle fût, à cette heure, échouée presque à sa cime, non ! cela dépassait les limites du vraisemblable !
+
+Avec les moyens dont nous disposions, parviendrions-nous à descendre la goélette de cette hauteur, je l\'ignorais. Ce que je savais, d\'autre part, c\'est que le capitaine Len Guy, le lieutenant, les anciens de l\'équipage, revenus d\'un premier effroi, ne seraient pas gens à désespérer, si effrayante que fût la situation. De cela je ne doutais pas. Oui !\... ils s\'emploieraient tous au salut commun. Quant aux mesures qu\'il y aurait à prendre, personne ne l\'eût pu dire encore.
+
+En effet, un voile de brume, une sorte de crêpe grisâtre enveloppait toujours l\'iceberg. On ne voyait rien de son énorme masse, si ce n\'est l\'étroite anfractuosité dans laquelle la goélette était coincée, ni quelle place il occupait au milieu de cette flottille en dérive vers le sud-est.
+
+La plus élémentaire prudence commandait d\'évacuer l\'*Halbrane,* dont le glissement pouvait être déterminé par quelque brusque secousse de l\'iceberg. Étions-nous même certains qu\'il eût définitivement repris son assiette à la surface de la mer ?\... Sa stabilité était-elle assurée ?\... Ne fallait-il pas s\'attendre à quelque nouvelle culbute ?\... Et si la goélette dévalait dans le vide, qui de nous aurait pu se tirer sain et sauf d\'une pareille chute, puis de l\'engloutissement final dans les profondeurs de l\'abîme ?\...
+
+En quelques minutes, l\'*Halbrane* fut abandonnée de l\'équipage. Chacun chercha refuge sur les talus, en attendant que l\'iceberg se dégageât de son capuchon de vapeurs. Les obliques rayons solaires ne parvenaient point à le percer, et c\'est à peine si le disque rougeâtre se sentait à travers cet amas d\'opaques vésicules qui en éteignaient le flamboiement.
+
+Cependant, à une douzaine de pas on pouvait s\'apercevoir les uns les autres. Quant à l\'*Halbrane,* elle ne présentait qu\'une masse confuse, dont la couleur noirâtre tranchait vivement sur la blancheur des glaces.
+
+Il y eut alors lieu de se demander si, de tous ceux qui se tenaient sur le pont de la goélette au moment de la catastrophe, aucun n\'avait été projeté par-dessus les bastingages, entraîné sur les pentes, précipité dans la mer ?\...
+
+À l\'ordre du capitaine Len Guy, les matelots présents vinrent grossir le groupe où j\'étais avec le lieutenant, le bosseman, les maîtres Hardie et Martin Holt.
+
+Jem West fit l\'appel\... Cinq de nos hommes ne répondirent pas : le matelot Drap, un des anciens de l\'équipage, et quatre des recrues, à savoir, deux Anglais, un Américain et un des Fuégiens embarqués aux Falklands.
+
+Ainsi, cette catastrophe coûtait la vie à cinq des nôtres --- les premières victimes de cette campagne depuis le départ des Kerguelen, et seraient-ce les dernières ?\...
+
+Et, en effet, il n\'était pas douteux que ces malheureux eussent péri, car on les appela vainement, vainement on les chercha sur les flancs de l\'iceberg, partout où ils auraient peut-être pu s\'accrocher à quelque saillie\...
+
+Les tentatives, qui furent faites après le lever du brouillard, demeurèrent infructueuses. Au moment où l\'*Halbrane* avait été saisie par-dessous, la secousse avait été si violente, si soudaine que ces hommes n\'eurent pas la force de se retenir aux bastingages, et, vraisemblablement, on ne retrouverait jamais leurs corps que le courant avait dû entraîner au large.
+
+Lorsque cette disparition de cinq des nôtres eut été constatée, le désespoir envahit tous les cœurs. Alors apparut plus vivement l\'affreuse perspective de ces dangers qui menacent une expédition à travers la zone antarctique !
+
+« Et Hearne ?\... » dit une voix.
+
+Martin Holt venait de jeter ce nom au milieu du silence général.
+
+Le sealing-master, que nous avions oublié, n\'avait-il pas été écrasé dans l\'étroit réduit de la cale où il était enfermé ?\...
+
+Jem West s\'élança vers la goélette, se hissa au moyen d\'une amarre qui pendait de l\'avant, et gagna le poste par lequel on pénétrait dans cette partie de la cale\...
+
+Nous attendions, immobiles et silencieux, d\'être fixés sur le sort de Heame, bien que ce mauvais génie de l\'équipage fût peu digne de pitié.
+
+Pourtant, combien de nous pensaient alors que si on eût écouté ses conseils, si la goélette avait repris la route du nord, tout un équipage n\'en serait pas à n\'avoir pour unique refuge qu\'une montagne de glace en dérive !\... Et dans ces conjonctures, ce que devait être ma part de responsabilité, moi qui avais tant poussé à la prolongation de cette campagne, c\'est à peine si j\'osais l\'envisager !
+
+Enfin le lieutenant reparut sur le pont, Hearne après lui. Par miracle, ni les cloisons, ni la membrure, ni le bordage n\'avaient cédé à l\'endroit où se trouvait le sealing-master.
+
+Hearne se déhala le long de la goélette, rejoignit ses camarades, sans prononcer une parole, et il n\'y eut plus à s\'occuper de lui.
+
+Vers six heures du matin, le brouillard se dissipa, grâce à un abaissement assez accentué de la température. Il ne s\'agissait pas de ces vapeurs dont la congélation est complète, mais bien du phénomène appelé frost-rime ou fumée gelée, qui se produit quelquefois sous ces hautes latitudes. Le capitaine Len Guy le reconnut à la quantité de fibres prismatiques, la pointe dirigée dans le sens du vent, qui hérissaient la légère croûte déposée sur les flancs de l\'iceberg. Ce frost-rime, les navigateurs ne sauraient le confondre avec la gelée blanche des zones tempérées, dont la congélation ne s\'opère qu\'après son dépôt à la surface du sol.
+
+On put alors évaluer la grosseur du massif, sur lequel nous étions posés comme des mouches sur un pain de sucre, et, assurément, vue d\'en bas, la goélette ne devait pas paraître plus grosse que la yole d\'un navire de commerce.
+
+Cet iceberg, dont la circonférence parut être de trois à quatre cents toises, mesurait de cent trente à cent quarante pieds de hauteur. Il devait donc, d\'après les calculs, plonger à une profondeur quatre à cinq fois plus grande, et, par conséquent, peser des millions de tonnes.
+
+Voici ce qui était arrivé :
+
+Après avoir été miné à sa base au contact des eaux plus chaudes, l\'iceberg s\'était peu à peu relevé. Son centre de gravité déplacé, l\'équilibre n\'avait pu se rétablir que par un chavirement brusque, qui reporta au-dessus du niveau de la mer ce qui était au-dessous. Prise dans ce basculage, l\'*Halbrane* fut enlevée comme avec un énorme bras de levier. Nombre d\'icebergs se retournent ainsi à la surface des mers polaires, et c\'est un des gros dangers auxquels sont exposés les navires qui les avoisinent.
+
+C\'était dans une échancrure de la face ouest de l\'iceberg, que notre goélette se trouvait encastrée. Elle inclinait sur tribord, son arrière relevé, son avant rabaissé. La pensée nous venait que, à la moindre secousse, elle glisserait le long des pentes de l\'iceberg jusqu\'à la mer. Du côté où elle donnait la gîte, le choc avait été assez violent pour défoncer quelques bordages de sa coque et de ses pavois sur une longueur de deux toises. Dès le premier choc, la cuisine, fixée devant le mât de misaine, avait cassé ses saisines et dégringolé jusqu\'à l\'entrée du rouf, dont la porte, entre les deux cabines du capitaine Len Guy et du lieutenant, était arrachée de ses gonds. Le mât de hune et le mât de flèche étaient venus en bas, après la rupture des galhaubans, et on apercevait leur brisure toute fraîche à la hauteur du chouquet. Des débris de toutes sortes, les vergues, des espars, une partie de la voilure, des barils, des caisses, des cages à poules, devaient flotter à la base du massif et dériver avec lui.
+
+Ce qu\'il y avait de particulièrement inquiétant dans notre situation, c\'est que, des deux embarcations de l\'*Halbrane,* celle de tribord ayant été écrasée au moment de l\'abordage, il ne restait que la seconde -- la plus grande, il est vrai --, encore suspendue par ses palans aux pistolets de tribord. Avant tout, il fallait la mettre en sûreté, car peut-être serait-elle notre unique moyen de salut.
+
+De ce premier examen, il résultait que les bas mâts de la goélette étaient restés en place, et pourraient servir, si l\'on parvenait à la dégager. Mais comment l\'extraire de cette souille de glace, la rendre à son élément naturel, en un mot la « lancer » comme on lance un bâtiment à la mer ?\...
+
+Lorsque le capitaine Len Guy, le lieutenant, le bosseman et moi nous fûmes seuls, je les interrogeai à ce sujet.
+
+« Que l\'opération entraîne de gros risques, j\'en conviens, répondit Jem West, mais puisqu\'il est indispensable qu\'elle se fasse, nous la ferons. Je pense qu\'il sera nécessaire de creuser une sorte de lit jusqu\'à la base de l\'iceberg\...
+
+--- Et sans tarder d\'un seul jour, ajouta le capitaine Len Guy.
+
+--- Vous entendez, bosseman ?\... reprit Jem West. Dès aujourd\'hui à la besogne.
+
+--- J\'entends, et tout le monde s\'y mettra, répondit Hurliguerly. Une observation, toutefois, si vous le permettez, capitaine\...
+
+--- Laquelle ?\...
+
+--- Avant de commencer le travail, visitons la coque, voyons quelles sont ses avaries et si elles sont réparables. À quoi servirait de lancer un navire décarcassé, qui s\'en irait immédiatement par le fond ? »
+
+On se rendit à la juste demande du bosseman.
+
+La brume s\'étant dissipée, un clair soleil illuminait alors la partie orientale de l\'iceberg, d\'où le regard embrassait un large secteur de mer. De ce côté, au lieu de surfaces lisses sur lesquelles le pied n\'aurait pu trouver un point d\'appui, les flancs présentaient des anfractuosités, des rebords, des épaulements, des plateaux même où il serait facile d\'établir un campement provisoire. Cependant il y aurait à se garer contre la chute d\'énormes blocs, mal en équilibre, qu\'une secousse pouvait détacher. Et, de fait, pendant la matinée, plusieurs de ces blocs roulèrent avec un effroyable bruit d\'avalanche jusqu\'à la mer.
+
+Au total, il semblait bien que l\'iceberg fût très solide sur sa nouvelle base. D\'ailleurs, si son centre de gravité se trouvait au-dessous du niveau de la ligne de flottaison, un nouveau renversement n\'était pas à craindre.
+
+Je n\'avais pas encore eu l\'occasion de parler à Dirk Peters depuis la catastrophe. Comme il avait répondu à l\'appel de son nom, je savais qu\'il ne comptait pas parmi les victimes. En ce moment, je l\'aperçus immobile, debout sur une étroite saillie, et de quel côté se portaient ses regards, on le devine\...
+
+Le capitaine Len Guy, le lieutenant, le bosseman, les maîtres Hardie et Martin Holt, que j\'accompagnai, remontèrent alors vers la goélette, afin de procéder à un minutieux examen de sa coque. Du côté de bâbord, l\'opération serait aisée, puisque l\'*Halbrane* s\'inclinait sur le flanc opposé. De l\'autre côté, il faudrait, tant bien que mal, se glisser jusqu\'à la quille en creusant la glace, si l\'on voulait qu\'aucune partie du bordé n\'échappât à cette visite.
+
+Voici ce qui fut reconnu, après un examen qui dura deux heures : les avaries étaient peu importantes, et, en somme, de réparation courante. Deux ou trois bordages rompus, sous la violence du choc, laissaient voir leurs gournables faussées, leurs coutures ouvertes. À l\'intérieur, la membrure était intacte, les varangues n\'ayant point cédé. Notre bâtiment, fait pour naviguer au milieu des mers polaires, avait résisté alors que tant d\'autres, moins solidement construits, eussent été disloqués de toutes pièces. Il est vrai, le gouvernail avait été démonté de ses ferrures, mais il serait facile de le rétablir.
+
+L\'inspection terminée au-dehors et au-dedans, le dommage fut reconnu moins considérable qu\'on eût pu le craindre, et nous fûmes rassurés à ce sujet\...
+
+Rassurés\... oui\... si nous parvenions à remettre à flot notre goélette !
+
+Après le déjeuner du matin, il fut décidé que les hommes commenceraient à creuser un lit oblique, qui permettrait à l\'*Halbrane* de glisser jusqu\'à la base de l\'iceberg. Plût au ciel que l\'opération réussît, car de braver dans ces conditions les rigueurs de l\'hiver austral, de passer six mois sur cette masse flottante, entraînée on ne savait où, qui eût pu y songer sans épouvante ? L\'hiver venu, aucun de nous n\'aurait échappé à la plus terrible des morts, -- la mort par le froid\...
+
+En ce moment, Dirk Peters, qui, à une centaine de pas, observait l\'horizon du sud à l\'est, cria d\'une voix rude :
+
+« En panne ! »
+
+En panne ?\... Qu\'entendait par là le métis, si ce n\'est que la dérive de l\'iceberg venait de cesser subitement. Quant à la cause de cet arrêt, ce n\'était pas l\'instant de la rechercher, ni de se demander quelles en seraient les conséquences.
+
+« C\'est pourtant vrai ! s\'écria le bosseman. L\'iceberg ne marche pas, et peut-être même n\'a-t-il jamais marché depuis sa culbute !\...
+
+--- Comment, m\'écriai-je, il ne se déplace plus\...
+
+--- Non, me répondit le lieutenant, et la preuve, c\'est que les autres qui défilent, le laissent en arrière. »
+
+En effet, tandis que cinq ou six montagnes de glace descendaient vers le sud, la nôtre s\'était immobilisée, comme si elle eût été échouée sur un haut-fond.
+
+L\'explication la plus simple était que sa nouvelle base avait rencontré le seuil sous-marin, auquel elle adhérait maintenant, et cette adhérence ne cesserait que si sa partie immergée se relevait, au risque de provoquer une seconde culbute.
+
+En somme, c\'était une grave complication, car les dangers d\'une immobilisation définitive en ces parages eussent été tels que mieux valaient les hasards de la dérive. Au moins, avait-on l\'espoir de rencontrer un continent, une île, ou, même, si les courants ne se modifiaient pas, si la mer restait libre, de franchir les limites de la région australe !\...
+
+Voilà donc où nous en étions après trois mois de cette terrible campagne ! De William Guy, de ses compagnons de la *Jane,* d\'Arthur Pym, pouvait-il être encore question ?\... N\'était-ce pas pour notre salut que devaient être employés les moyens dont nous pouvions disposer ?\... Et faudrait-il s\'étonner, si les matelots de l\'*Halbrane* se révoltaient enfin, s\'ils obéissaient aux suggestions de Heame, s\'ils rendaient leurs chefs -- moi surtout -- responsables des désastres d\'une pareille expédition ?\...
+
+Et alors qu\'arriverait-il, puisque, malgré la perte de quatre des leurs, les camarades du sealing-master avaient conservé leur supériorité numérique\...
+
+C\'était --- je le vis clairement -- à cela que pensaient le capitaine Len Guy et Jem West.
+
+En effet, si les recrues des Falklands ne formaient plus qu\'un total de quinze hommes contre nous treize, -- en comprenant le métis ---, n\'était-il pas à craindre que quelques-uns de ceux-ci fussent bien près de se ranger du côté de Hearne ? Poussés par le désespoir, qui sait si ces camarades ne songeaient pas à s\'emparer de l\'unique embarcation que nous possédions désormais, à reprendre la route du nord, à nous abandonner sur cet iceberg ?\... Il importait donc que notre canot fût mis en sûreté et surveillé à toute heure.
+
+Au surplus, un notable changement s\'était produit chez le capitaine Len Guy depuis ces derniers incidents. Il semblait s\'être transformé en présence des périls de l\'avenir. Jusqu\'ici, tout à la pensée de retrouver ses compatriotes, il avait laissé au lieutenant le commandement de la goélette, et il n\'aurait pu s\'en remettre à un second plus capable, plus dévoué. Mais, à partir de ce jour, il allait reprendre ses fonctions de chef, les exercer avec l\'énergie exigée par les circonstances, redevenir comme à bord le maître après Dieu.
+
+Par son ordre, les hommes vinrent se ranger autour de lui sur un plateau, un peu à la droite de l\'*Halbrane.* Là étaient rassemblés --- du côté des anciens, les maîtres Martin Holt et Hardie, les matelots Rogers, Francis, Gratian, Burry, Stem, le cuisinier Endicott, et j\'y ajoute Dirk Peters --- du côté des nouveaux, Hearne et les quatorze autres marins des Falklands. Ces derniers composaient un groupe à part, dont le porte-parole était le sealing-master, qui avait sur eux une influence détestable.
+
+Le capitaine Len Guy jeta un regard ferme à tout son équipage, et d\'une voix vibrante :
+
+« Matelots de l\'*Halbrane,* dit-il, j\'ai d\'abord à vous parler de ceux qui ont disparu. Cinq de nos compagnons viennent de périr dans cette catastrophe\...
+
+--- En attendant que nous périssions à notre tour dans ces mers où l\'on nous a entraînés malgré\...
+
+--- Tais-toi, Heame, s\'écria Jem West, pâle de colère, tais-toi, ou sinon\...
+
+--- Hearne a dit ce qu\'il avait à dire, reprit froidement le capitaine Len Guy, et puisque c\'est fait, je l\'engage à ne pas m\'interrompre une seconde fois ! »
+
+Peut-être le sealing-master eût-il répliqué, car il se sentait soutenu par la majorité de l\'équipage. Mais Martin Holt alla vivement à lui, le retint, et il se tut.
+
+Le capitaine Len Guy se découvrit alors, et, avec une émotion qui nous pénétra jusqu\'au fond de l\'âme, il prononça ces paroles :
+
+« Nous avons à prier pour ceux qui ont succombé dans cette périlleuse campagne, entreprise au nom de l\'humanité. Que Dieu daigne leur tenir compte de ce qu\'ils se sont dévoués pour leurs semblables, et ne reste pas insensible à notre voix !\... À genoux, matelots de l\'*Hal*brane ! »
+
+Tous s\'agenouillèrent sur la surface glacée, et un murmure de prière monta vers le ciel.
+
+Nous attendîmes que le capitaine Len Guy se fût relevé pour nous relever aussi.
+
+« Maintenant, reprit-il, après ceux qui sont morts, ceux qui ont survécu. À ceux-là, je dis que, même dans les circonstances où nous sommes, ils auront à m\'obéir, quelque ordre que je leur donne. Je ne souffrirai ni une résistance ni une hésitation. La responsabilité du salut commun m\'appartient, et je n\'en céderai rien à personne. Je commande ici comme à bord\...
+
+--- À bord\... quand il n\'y a plus de navire !\... osa répondre le sealing-master.
+
+--- Tu te trompes, Heame. Le bâtiment est là, et nous le rendrons à la mer. D\'ailleurs, n\'eussions-nous plus que notre canot, j\'en suis le capitaine\... Malheur à qui l\'oubliera ! »
+
+Ce jour-là, après avoir pris hauteur avec le sextant et établi l\'heure avec le chronomètre, qui n\'avaient pas été brisés dans la collision, le capitaine Len Guy obtint le point suivant par ses calculs :
+
+Latitude sud : 88° 55\'.
+
+Longitude ouest : 39° 12\'.
+
+L\'*Halbrane* n\'était plus qu\'à un degré cinq minutes -- soit soixante-cinq milles -- du pôle austral.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730032 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729104 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728176 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727589 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726661 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 8 -- Le coup de grâce]{#_Toc349724345 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-8-le-coup-de-grâce .calibre171 .sigil_not_in_toc}
+
+« À la besogne ! » avait dit le capitaine Len Guy, et, dès l\'après-midi de ce jour, chacun s\'y mit avec courage.
+
+Il n\'y avait pas une heure à perdre. Personne qui ne comprît que la question de temps dominait toutes les autres. En ce qui concernait les vivres, la goélette en possédait pour dix-huit mois encore à pleine ration. Aussi la faim ne menaçait-elle pas, --- la soif pas davantage, bien que les caisses à eau, crevées dans la secousse, eussent laissé échapper le liquide qu\'elles contenaient, à travers les fissures du bordage.
+
+Par bonheur, les fûts de gin, de whisky, de bière et de vin, placés dans la partie de la cale qui avait le moins souffert, étaient presque tous intacts. De ce chef, nous n\'avions aucun dommage, et l\'iceberg allait lui-même nous fournir l\'eau douce.
+
+On le sait, la glace, qu\'elle soit formée d\'eau douce ou d\'eau de mer, est dépourvue de salure. Par la transformation de l\'état liquide à l\'état solide, le chlorure de sodium est entièrement éliminé. Il est donc de peu d\'importance, semble-t-il, que l\'eau potable soit demandée aux glaces de l\'une ou l\'autre formation. Cependant on doit accorder la préférence à celle qui provient de certains blocs très reconnaissables à leur coloration presque verdâtre, à leur parfaite transparence. C\'est de la pluie solidifiée, infiniment plus convenable pour servir de boisson.
+
+Assurément, en habitué des mers polaires, notre capitaine eût sans peine reconnu les blocs de cette espèce ; mais il ne pouvait s\'en trouver sur notre iceberg, puisque c\'était sa partie immergée avant la culbute qui émergeait actuellement.
+
+Le capitaine Len Guy et Jem West décidèrent en premier lieu, dans le but d\'alléger la goélette, de débarquer tout ce qui était à bord. Mâture et gréement durent être démontés, puis transportés sur le plateau. Il importait de ne laisser que le moins de poids possible, de se débarrasser même du lest, en vue de la difficile et dangereuse opération du lancement. Mieux valait que le départ fût retardé de quelques jours, si cette opération devait se faire dans des conditions meilleures. Le rechargement s\'effectuerait ensuite sans grande difficulté.
+
+Après cette raison déterminante, il s\'en présentait une seconde non moins sérieuse. En effet, c\'eût été agir avec une inexcusable imprudence que de laisser les provisions dans les soutes de l\'*Halbrane*, étant donné sa situation peu sûre sur le flanc de l\'iceberg. Une secousse ne suffirait-elle pas à la détacher ? Le point d\'appui ne lui manquerait-il pas, si les blocs de sa souille venaient à se déplacer ? Et alors, avec elle eussent disparu ces provisions, qui devaient assurer notre existence !
+
+On s\'occupa, ce jour-là, de décharger les caisses de viande au demi-sel, de légumes secs, de farine, de biscuits, de thé, de café, les barils de gin, de whisky, de vin et de bière qui furent retirés de la cale et de la cambuse, puis placés en sûreté dans des anfractuosités à proximité de l\'*Halbrane.*
+
+Il y eut également à prémunir l\'embarcation contre tout accident, -- et j\'ajouterai contre le dessein que Hearne et quelques-uns de sa bande avaient peut-être de s\'en emparer afin de reprendre le chemin de la banquise.
+
+Le grand canot, avec son jeu d\'avirons, son gouvernail, sa bosse, son grappin, sa mâture et ses voiles, fut donc remisé à une trentaine de pieds sur la gauche de la goélette, au fond d\'une cavité qu\'il serait aisé de surveiller. Pendant le jour, rien à craindre. Pendant la nuit, ou plutôt pendant les heures de sommeil, le bosseman ou un autre des maîtres monterait la garde près de cette cavité, et --- on peut en être certain -- l\'embarcation serait à l\'abri d\'un mauvais coup.
+
+Les journées des 19, 20 et 21 janvier furent employées au double travail du transport de la cargaison et du démâtage de l\'*Halbrane.* On élingua les bas mâts au moyen de vergues formant bigues. Plus tard, Jem West verrait à remplacer les mâts de hune et de flèche, et, dans tous les cas, ils n\'étaient point indispensables pour regagner soit les Falklands, soit quelque autre lieu d\'hivernage.
+
+Il va sans dire qu\'un campement avait été établi sur le plateau dont j\'ai parlé, non loin de l\'*Halbrane.* Plusieurs tentes, au moyen de voiles disposées sur des espars et retenues avec des faux-bras, recouvrant la literie des cabines et du poste, offraient un abri suffisant contre les inclémences atmosphériques déjà fréquentes à cette époque de l\'année. Le temps, du reste, se tenait au beau fixe, favorisé par une brise permanente de nord-est, la température étant remontée à 46° (7° 78 C. sur zéro). Quant à la cuisine d\'Endicott, elle fut installée au fond du plateau, près d\'un contrefort, dont la pente très allongée permettait d\'atteindre l\'extrême cime de l\'iceberg.
+
+Je dois reconnaître que, durant ces trois jours d\'un travail des plus fatigants, il n\'y eut rien à reprocher à Heame. Le sealing-master se savait l\'objet d\'une surveillance spéciale, comme il savait que le capitaine Len Guy ne le ménagerait pas, s\'il s\'avisait de provoquer ses camarades à l\'insubordination. Il était fâcheux que ses mauvais instincts l\'eussent poussé à jouer ce rôle, car sa vigueur, son adresse, son intelligence, en faisaient un homme précieux, et jamais il ne se montra plus utile qu\'en ces circonstances. Était-il revenu à de meilleurs sentiments ?\... Avait-il compris que de l\'entente commune dépendait le salut commun ?\... Je ne pouvais le deviner, mais je n\'avais guère confiance, -- Hurliguerly non plus.
+
+Je n\'ai pas besoin d\'insister sur l\'ardeur que le métis déployait dans ces rudes travaux, toujours le premier et le dernier à la besogne, faisant l\'ouvrage de quatre, dormant à peine quelques heures, ne se reposant qu\'au moment des repas qu\'il prenait à l\'écart. À peine m\'avait-il adressé la parole depuis que la goélette avait été victime de ce terrible accident. Et qu\'aurait-il pu me dire ?\... Ne pensais-je pas, comme lui, qu\'il fallait renoncer à tout espoir de poursuivre cette malheureuse campagne ?\...
+
+Il m\'arrivait, parfois, d\'apercevoir Martin Holt et le métis l\'un près de l\'autre, s\'occupant de quelque difficile manœuvre. Notre maître-voilier ne négligeait aucune occasion de se rapprocher de Dirk Peters, qui le fuyait pour les raisons que l\'on connaît. Et lorsque je songeais à la confidence qui m\'avait été faite au sujet du soi-disant Parker, le propre frère de Martin Holt, à cette affreuse scène du *Grampus,* j\'étais saisi d\'une profonde horreur. Je n\'en doute pas, si ce secret eût été dévoilé, le métis fût devenu un objet de répulsion. On aurait oublié en lui le sauveteur du maître-voilier, et celui-ci, en apprenant que son frère\... Heureusement, ce secret, Dirk Peters et moi, nous étions seuls à le posséder.
+
+Tandis que s\'opérait le déchargement de l\'*Halbrane,* le capitaine Len Guy et le lieutenant étudiaient la question du lancement, -- question grosse de difficultés, à coup sûr. Il s\'agissait de racheter cette hauteur d\'une centaine de pieds comprise entre la souille où gîtait la goélette et le niveau de la mer, au moyen d\'un lit creusé suivant un tracé oblique sur le flanc ouest de l\'iceberg, lit qui devrait mesurer au moins deux à trois cents toises de longueur. Aussi, pendant qu\'une première équipe, dirigée par le bosseman, s\'occupait à décharger la goélette, une seconde, sous les ordres de Jem West, commença le tracé entre les blocs qui hérissaient ce côté de la montagne flottante.
+
+Flottante ?\... je ne sais pourquoi je me sers de ce mot, car elle ne flottait plus. Immobile comme un îlot, rien n\'autorisait à croire qu\'elle dût jamais se remettre en dérive. D\'autres icebergs assez nombreux passaient au large, se dirigeant vers le sud-est, alors que le nôtre restait « en panne », suivant l\'expression de Dirk Peters. Sa base se minerait-elle assez pour se détacher du fond sous-marin ?\... Quelque pesante masse de glace viendrait-elle se jeter sur lui, et déraperait-il au choc ?\... Nul ne le pouvait prévoir, et il ne fallait compter que sur l\'*Halbrane* pour abandonner définitivement ces parages.
+
+Ces divers travaux nous conduisirent jusqu\'au 24 janvier. L\'atmosphère était calme, la température ne s\'abaissait pas, la colonne thermométrique avait même gagné de deux à trois degrés au-dessus de glace. Aussi le nombre des icebergs, venus du nord-ouest, augmentait-il, -- une centaine dont la collision aurait pu avoir les plus graves conséquences.
+
+Le maître-calfat Hardie s\'était mis tout d\'abord à la réparation de la coque, gournables à changer, bouts de bordage à remplacer, coutures à calfater. Rien ne lui manquait de ce qu\'exigeait ce travail, et nous avions l\'assurance qu\'il serait exécuté dans de bonnes conditions. Au milieu du silence de ces solitudes retentissaient maintenant les coups de marteau frappant les clous dans le bordé et les coups de maillet chassant l\'étoupe entre les coutures. À ces bruits se joignaient d\'assourdissants cris de mouettes, de macreuses, d\'albatros, de pétrels, qui volaient en rond à la cime de l\'iceberg.
+
+Lorsque je me trouvais seul avec le capitaine Len Guy et Jem West, c\'était notre situation actuelle, les moyens d\'en sortir, les chances de nous tirer d\'affaire, qui faisaient, on le pense bien, le principal sujet de nos conversations. Le lieutenant avait bon espoir, et, à la condition qu\'aucun accident ne survînt d\'ici-là, il se croyait assuré de réussir l\'opération du lancement. Le capitaine Len Guy, lui, montrait plus de réserve. D\'ailleurs, à la pensée qu\'il allait définitivement renoncer à toute espérance de retrouver les survivants de la *Jane,* il sentait son cœur se déchirer\...
+
+Et, en effet, lorsque l\'*Halbrane* serait prête à reprendre la mer, lorsque Jem West lui demanderait la route, oserait-il répondre : Cap au sud ?\... Non, et cette fois, il n\'eût été suivi ni des nouveaux ni même de la plupart des anciens de l\'équipage. Continuer les recherches dans cette direction, s\'élever au-delà du pôle, sans être assuré d\'atteindre l\'océan Indien à défaut de l\'océan Atlantique, c\'eût été d\'une audace qu\'aucun navigateur n\'aurait pu se permettre. Si quelque continent fermait la mer de ce côté, la goélette se fût exposée à y être acculée par la masse des icebergs, et dans l\'impossibilité de s\'en dégager avant l\'hiver austral ?\...
+
+En ces conditions, tenter d\'obtenir du capitaine Len Guy de poursuivre la campagne, c\'eût été courir au-devant d\'un refus. Ce n\'était pas proposable, alors que la nécessité s\'imposait de revenir vers le nord, de ne point s\'attarder d\'un jour en cette portion de la mer antarctique. Toutefois, si j\'avais résolu de ne plus en parler au capitaine Len Guy, je ne laissais pas, à l\'occasion, de pressentir là-dessus le bosseman.
+
+Le plus souvent, sa besogne achevée, Hurliguerly venait me rejoindre, et nous causions, nous remontions dans nos souvenirs de voyage.
+
+Un jour, comme nous étions assis au sommet de l\'iceberg, le regard fixé sur ce décevant horizon, il s\'écria :
+
+« Qui eût jamais pensé, monsieur Jeorling, lorsque l\'*Halbrane* quittait les Kerguelen, que, six mois et demi après, à cette latitude, elle serait accrochée au flanc d\'une montagne de glace !
+
+--- Cela est d\'autant plus regrettable, répondis-je, que, sans cet accident, nous eussions atteint notre but, et nous aurions repris la route du retour.
+
+--- Je ne vais point à l\'encontre, répliqua le bosseman, mais vous dites que nous aurions atteint notre but\... Entendez-vous par là que nos compatriotes eussent été retrouvés ?\...
+
+--- Peut-être, bosseman.
+
+--- Et moi je ne le crois guère, monsieur Jeorling, bien que ce fût le principal et même le seul objet de notre navigation à travers l\'océan polaire\...
+
+--- Le seul\... oui\... au début, insinuai-je. Mais, depuis les révélations du métis au sujet d\'Arthur Pym\...
+
+--- Ah !\... cela vous tient toujours, monsieur Jeorling\... comme ce brave Dirk Peters ?\...
+
+--- Toujours, Hurliguerly, et il a fallu qu\'un déplorable, un improbable accident vînt nous faire échouer au port\...
+
+--- Je vous laisse vos illusions, monsieur Jeorling, et puisque vous croyez avoir échoué au port\...
+
+--- Pourquoi non ?\...
+
+--- Soit, et, dans tous les cas, c\'est un fameux échouage ! déclara le bosseman. Au lieu de donner sur un honnête bas-fond, aller faire côte en l\'air\...
+
+--- Aussi ai-je le droit de dire que c\'est une malheureuse circonstance, Hurliguerly\...
+
+--- Malheureuse, sans doute, et, à mon sens, y aurait-il à en tirer quelque avertissement\...
+
+--- Lequel ?\...
+
+--- C\'est qu\'il n\'est pas permis de s\'aventurer si loin dans ces régions, et m\'est avis que le Créateur interdit à ses créatures de grimper au bout des pôles de la terre !
+
+--- Cependant ce bout n\'est plus maintenant qu\'à une soixantaine de milles\...
+
+--- D\'accord, monsieur Jeorling. Il est vrai, ces soixante milles, c\'est comme s\'il y en avait un millier, quand on n\'a aucun moyen de les franchir\... Et, si le lancement de la goélette ne réussit pas, nous voici condamnés à un hivernage dont ne voudraient même pas les ours polaires ! »
+
+Je ne répondis que par un hochement de tête, auquel ne put se méprendre Hurliguerly.
+
+« Savez-vous à quoi je pense le plus souvent, monsieur Jeorling ?\... me demanda-t-il.
+
+--- À quoi pensez-vous, bosseman ?\...
+
+--- Aux Kerguelen, dont nous ne prenons guère le chemin ! Certes, pendant la mauvaise saison, on y jouit d\'un beau froid\... Pas grande différence entre cet archipel-là et les îles situées sur les limites de la mer antarctique\... Mais, enfin, on est à proximité du Cap, et s\'il vous plaît d\'aller vous y réchauffer les mollets, il n\'y a point de banquise pour vous barrer le passage !\... Tandis qu\'ici, au milieu des glaces, c\'est le diable pour en démarrer, et on ne sait jamais si l\'on trouvera la porte ouverte\...
+
+--- Je vous le répète, bosseman, sans ce dernier accident, tout serait terminé à présent d\'une façon ou d\'une autre. Nous aurions encore plus de six semaines pour sortir des mers australes. En somme, il est rare qu\'un navire soit aussi mal pris que l\'a été notre goélette, et c\'est une véritable malchance, après avoir profité de circonstances si heureuses\...
+
+--- Finies, ces circonstances, monsieur Jeorling, s\'écria Hurliguerly, et je crains bien\...
+
+--- Quoi\... vous aussi, bosseman\... vous que j\'ai connu si confiant\...
+
+--- La confiance, monsieur Jeorling, cela s\'use tout comme le fond d\'une culotte !\... Que voulez-vous !\... Lorsque je me compare à mon compère Atkins, installé dans sa bonne auberge, lorsque je songe au *Cormoran-Vert,* à la grande salle du bas, aux petites tables où l\'on déguste le whisky et le gin avec un ami, alors que le poêle ronfle plus fort que ne crie la girouette sur le toit\... eh bien, la comparaison n\'est point à notre avantage, et, à mon avis, maître Atkins a peut-être mieux compris l\'existence\...
+
+--- Eh ! vous le reverrez, ce digne Atkins, bosseman, et le *Cormoran-Vert,* et les Kerguelen !\... Pour Dieu ! ne vous laissez point aller au découragement !\... Et si vous, un homme de bon sens et de résolution, désespérez déjà\...
+
+--- Oh ! s\'il n\'y avait que moi, monsieur Jeorling, ce ne serait que demi-mal !
+
+--- Est-ce que l\'équipage ?\...
+
+--- Oui\... et non\... répliqua Hurliguerly, car j\'en connais qui ne sont points satisfaits.
+
+--- Hearne a-t-il recommencé à récriminer et excite-t-il ses camarades ?\...
+
+--- Pas ouvertement du moins, monsieur Jeorling, et, depuis que je le surveille, je n\'ai rien vu ni entendu. Il sait, d\'ailleurs, ce qui l\'attend, s\'il remue la patte. Aussi -- je crois ne point faire erreur --, le finaud a-t-il changé ses amures. Et ce qui ne m\'étonne guère de lui, m\'étonne de notre maître-voilier Martin Holt\...
+
+--- Que voulez-vous dire, bosseman ?\...
+
+--- Que tous deux paraissent être en bons termes !\... Observez-les, Hearne recherche Martin Holt, cause souvent avec lui, et Martin Holt ne lui fait pas trop mauvaise mine.
+
+--- Martin Holt, je suppose, n\'est pas homme à écouter les conseils de Heame, répondis-je, ni à le suivre, s\'il tentait de pousser l\'équipage à la révolte\...
+
+--- Non, sans doute, monsieur Jeorling\... Cependant cela ne me plaît guère de les voir ensemble\... Un particulier dangereux et sans conscience, ce Heame, et dont Martin Holt ne se méfie peut-être pas assez !\...
+
+--- Il a tort, bosseman.
+
+--- Et\... tenez\... savez-vous de quoi ils causaient, l\'autre jour, dans une conversation dont il m\'est arrivé quelques bribes à l\'oreille ?\...
+
+--- Je ne sais jamais les choses qu\'après que vous me les avez dites, Hurliguerly.
+
+--- Eh bien, tandis qu\'ils bavardaient sur le pont de *l\'Halbrane,* je les ai entendus parler de Dirk Peters, et Hearne disait : « Il ne faut pas en vouloir au métis, maître Holt, de ce qu\'il n\'a jamais voulu répondre à vos avances ni recevoir vos remerciements\... Si ce n\'est qu\'une sorte de brute, il possède un grand courage, et il l\'a prouvé en vous tirant d\'une mauvaise passe au péril de sa vie\... Au surplus, n\'oubliez pas qu\'il faisait partie de l\'équipage du *Grampus,* dont votre frère Ned, si je ne me trompe\... »
+
+--- Il a dit cela, bosseman ?\... me suis-je écrié. Il a nommé le *Grampus* ?\...
+
+--- Oui\... le *Grampus.*
+
+--- Et Ned Holt ?\...
+
+--- Précisément, monsieur Jeorling !
+
+--- Et qu\'a répondu Martin Holt ?\...
+
+--- Il a répondu : « Mon malheureux frère, je ne sais même pas dans quelles conditions il a péri !\... Est-ce pendant une révolte à bord ? En brave qu\'il était, il n\'a pas dû trahir son capitaine, et peut-être a-t-il été massacré ?\... »
+
+--- Est-ce que Hearne a insisté, bosseman ?\...
+
+--- Oui\... en ajoutant : « C\'est chose triste pour vous, maître Holt !\... Le capitaine du *Grampus,* à ce qu\'on m\'a raconté, fut abandonné dans un canot avec deux ou trois de ses hommes\... et qui sait si votre frère n\'était pas avec lui ?\... »
+
+--- Et après ?\...
+
+--- Après, monsieur Jeorling, il a ajouté : \"Est-ce que vous n\'avez pas eu l\'idée de demander à Dirk Peters de vous enseigner ?\...
+
+« --- Si, une fois, répliqua Martin Holt, j\'ai interrogé le métis là-dessus, et jamais je n\'ai vu un homme dans un tel état d\'accablement, répondant : Je ne sais pas\... je ne sais pas\... d\'une voix si sourde que je pouvais à peine le comprendre, et il s\'est sauvé en se cachant la tête dans les mains\... »
+
+--- C\'est tout ce que vous avez entendu de cette conversation, bosseman ?\...
+
+--- Tout, monsieur Jeorling, et elle m\'a paru assez singulière pour que j\'aie voulu vous mettre au courant.
+
+--- Et qu\'en avez-vous conclu ?\...
+
+--- Rien, si ce n\'est que je regarde le sealing-master comme un coquin de la pire espèce, parfaitement capable de travailler en secret à quelque mauvais dessein, auquel il voudrait associer Martin Holt ! »
+
+En effet, que signifiait cette nouvelle attitude de Hearne ?\... Pourquoi cherchait-il à se lier avec Martin Holt, l\'un des meilleurs de l\'équipage ?\... Pourquoi lui rappelait-il ainsi les scènes du *Grampus* ?\... Est-ce que Hearne en savait à ce sujet plus long que les autres sur Dirk Peters et Ned Holt, --- ce secret dont le métis et moi nous croyions être les seuls dépositaires ?\...
+
+Cela ne laissa pas de me causer une sérieuse inquiétude. Toutefois, je me gardai d\'en rien dire à Dirk Peters. S\'il eût pu soupçonner que Hearne causait de ce qui s\'était passé à bord du Grampus, s\'il eût appris que ce coquin -- comme l\'appelait non sans raison Hurliguerly -- ne cessait de parler de son frère Ned à Martin Holt, je ne sais trop ce qui serait arrivé !
+
+En somme, et quelles que fussent les intentions de Heame, il était regrettable que notre maître-voilier, sur lequel devait à bon droit compter le capitaine Len Guy, fût en liaison avec lui. Le sealing-master avait certainement ses raisons pour agir de la sorte\... Lesquelles, je ne pouvais les deviner. Aussi, bien que l\'équipage parût avoir abandonné toute idée de révolte, une sévère surveillance s\'imposait, surtout à l\'égard de Hearne.
+
+Du reste, la situation allait prendre fin, --- du moins en ce qui concernait la goélette.
+
+Deux jours après, les travaux furent terminés. On avait achevé de réparer la coque et de creuser le lit de lancement jusqu\'à la base de notre montagne flottante.
+
+À cette époque, la glace étant légèrement ramollie à sa couche supérieure, ce dernier travail n\'avait point exigé de grands efforts de pic et de pioche. Le lit contournait obliquement le flanc ouest de l\'iceberg, de manière à n\'offrir aucune pente trop raide. Avec des grelins de retenue convenablement disposés, le glissement, semblait-il, devait s\'effectuer sans occasionner aucun dommage. Je craignais plutôt que le relèvement de la température ne rendît ce glissement moins facile sur le fond du lit.
+
+Il va de soi que de la cargaison, la mâture, les ancres, les chaînes, rien n\'avait été remis à bord. La coque étant déjà fort lourde, peu maniable, il importait de l\'alléger autant que possible. Lorsque la goélette aurait retrouvé son élément, la réarmer serait l\'affaire de quelques jours.
+
+Dans l\'après-midi du 28, les dernières dispositions furent prises. Il avait fallu étayer latéralement le lit en quelques endroits où la fusion de la glace s\'accentuait. Puis, repos fut accordé à tout le monde à partir de quatre heures du soir. Le capitaine Len Guy fit alors distribuer double ration à ses hommes, et ils méritaient ce surcroît de whisky et de gin, car ils avaient rudement travaillé pendant cette semaine.
+
+Je répète que tout ferment d\'indiscipline paraissait avoir disparu, depuis que Hearne n\'excitait plus ses camarades. L\'équipage -- tout entier, on peut le dire -- ne se préoccupait que de cette grosse opération du lancement. *L\'Halbrane* à la mer, c\'était le départ\... c\'était le retour !\... Il est vrai, pour Dirk Peters comme pour moi, c\'était le définitif abandon d\'Arthur Pym !\...
+
+La température de cette nuit fut une des plus élevées que nous eussions éprouvées jusqu\'alors. Le thermomètre marqua 53° (11° 67 C. sur zéro). Aussi, bien que le soleil commençât à se rapprocher de l\'horizon, la glace fondait, et mille ruisseaux sinuaient de toutes parts.
+
+Les plus matineux se réveillèrent dès quatre heures, et je fus du nombre. C\'est à peine si j\'avais dormi, -- et j\'imagine que Dirk Peters, de son côté, n\'avait pu trouver sommeil à la pensée désolante de revenir en arrière !\...
+
+L\'opération du lancement devait commencer à dix heures. Tout en comptant avec les retards possibles, eu égard aux minutieuses précautions qu\'il convenait de prendre, le capitaine Len Guy espérait qu\'elle serait terminée avant la fin du jour. Personne ne doutait que, le soir venu, la goélette ne fût descendue au moins à la base de l\'iceberg.
+
+Il va de soi que nous devions tous prêter la main à cette difficile manœuvre. À chacun un poste était assigné auquel il devrait se tenir -- les uns pour faciliter le glissement avec des rouleaux de bois, s\'il le fallait aider ---, les autres, au contraire, pour le modérer, en cas que la descente menaçât d\'être trop rapide et qu\'il y eût lieu de retenir la coque au moyen de grelins et d\'aussières disposés à cet effet.
+
+Le déjeuner fut terminé à neuf heures sous les tentes. Nos matelots, toujours confiants, ne purent s\'empêcher de boire un dernier coup au succès de l\'opération, et nous joignîmes nos hurrahs un peu prématurés aux leurs. Du reste, les mesures avaient été conçues avec tant de sagacité par le capitaine Len Guy et le lieutenant, que le lancement présentait de très sérieuses chances de réussite.
+
+Enfin nous allions quitter le campement et gagner notre poste -- quelques-uns des matelots s\'y trouvaient déjà --, lorsque retentirent des cris de stupéfaction et d\'épouvante\...
+
+Quel effrayant spectacle, et, si court qu\'il ait été, quelle ineffaçable impression de terreur il a laissée dans nos âmes !
+
+Un des énormes blocs, qui formaient le talus de la souille où gisait *l\'Halbrane,* déséquilibré par la fusion de sa base, venait de dévaler et roulait en énormes bonds par-dessus les blocs\...
+
+Un instant après, la goélette, n\'étant plus retenue, oscillait sur cette pente\...
+
+Il y avait à bord, sur le pont, à l\'avant, deux hommes, Rogers et Gratian\... En vain ces malheureux voulurent-ils sauter par-dessus les bastingages, ils n\'en eurent pas le temps, et furent entraînés dans l\'effroyable chute\...
+
+Oui ! j\'ai vu cela !\... j\'ai vu la goélette se renverser, glisser d\'abord sur son flanc gauche, écraser une des recrues, qui tarda trop à se jeter de côté, puis rebondir de blocs en blocs, et enfin se précipiter dans le vide\...
+
+Une seconde après, défoncée, disloquée, le bordage ouvert, la membrure brisée, *l\'Halbrane* s\'engloutissait, en faisant rejaillir une énorme gerbe d\'eau au pied de l\'iceberg !\...
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730033 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729105 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728177 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727590 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726662 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 9 -- Que faire ?\...]{#_Toc349724346 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-9-que-faire-... .calibre171 .sigil_not_in_toc}
+
+Hébétés\... Oui ! c\'était de l\'hébétement, après que la goélette, emportée comme la roche d\'une avalanche, eut disparu dans l\'abîme !\... Il ne restait plus rien de notre *Halbrane,* --- pas même une épave !\... À cent pieds en l\'air, il n\'y avait qu\'un instant, à cinq cents maintenant dans les profondeurs de la mer !\... Oui ! de l\'hébétement, et qui ne nous permettait même pas de songer aux dangers de l\'avenir\... l\'hébétement de gens qui ne peuvent en croire leurs yeux, comme on dit !\...
+
+Ce qui lui succéda, ce fut la prostration qui en était la conséquence naturelle. Il n\'y eut pas un cri, pas un geste. Nous étions immobiles, les pieds cloués au sol de glace. Aucune expression ne pourrait rendre l\'horreur de cette situation !
+
+Quant au lieutenant Jem West, après que la goélette se fut abîmée sous les eaux, je vis une grosse larme tomber de ses yeux. Cette *Halbrane* qu\'il aimait tant, maintenant anéantie ! Oui ! cet homme d\'un caractère si énergique, pleura\...
+
+Trois des nôtres venaient de périr\... et de quelle affreuse façon !\... Rogers et Gratian, deux de nos plus fidèles matelots, je les avais vus tendant les bras éperdument, puis projetés par le rebondissement de la goélette, puis s\'abîmant avec elle !\... Et cet autre des Falklands, un Américain, écrasé au passage, et dont il ne restait plus qu\'une masse informe qui gisait dans une mare de sang\... C\'étaient trois nouvelles victimes, depuis dix jours, à inscrire au nécrologe de cette funeste campagne !\... Ah ! la fortune, qui nous avait favorisés jusqu\'à l\'heure où *l\'Halbrane* fut arrachée de son élément, nous frappait à présent de ses plus furieux coups !\... Et, de tous, ce dernier n\'était-il pas le plus rudement assené, et ne serait-il pas le coup de la mort ?\...
+
+Le silence fut alors rompu par de tumultueux éclats de voix, des cris de désespoir, que justifiait cet irrémédiable malheur !\... Et plus d\'un se disait, sans doute, que mieux eût valu être à bord de *l\'Halbrane,* tandis qu\'elle rebondissait sur les flancs de l\'iceberg !\... Tout serait fini, comme pour Rogers et Gratian !\... Cette expédition insensée aurait eu le seul dénouement que méritaient tant de témérités et tant d\'imprudences.
+
+Enfin l\'instinct de la conservation l\'emporta, et --- sinon Heame, qui, à l\'écart, affectait de se taire --, du moins ses camarades s\'écrièrent-ils :
+
+« Au canot\... au canot ! »
+
+Ces malheureux ne se possédaient plus. L\'épouvante les égarait. Ils venaient de s\'élancer vers l\'anfractuosité où notre unique embarcation, insuffisante pour tous, avait été mise à l\'abri depuis le déchargement de la goélette.
+
+Le capitaine Len Guy et Jem West se jetèrent hors du campement.
+
+Je les rejoignis aussitôt, suivi du bosseman. Nous étions armés, et décidés à faire usage de nos armes. Ce canot, il fallait empêcher ces furieux de s\'en emparer\... Il n\'était pas la propriété de quelques-uns\... mais celle de tous !\...
+
+« Ici\... matelots !\... cria le capitaine Len Guy.
+
+--- Ici, répéta Jem West, ou feu sur le premier qui fera un pas de plus ! »
+
+Tous deux, la main tendue, les menaçaient de leurs pistolets. Le bosseman braquait son fusil sur eux\... Je tenais ma carabine, prêt à l\'épauler\...
+
+Ce fut en vain !\... Ces affolés n\'entendaient rien, ne voulaient rien entendre, et l\'un d\'eux, au moment où il franchissait le dernier bloc, tomba frappé par la balle du lieutenant. Ses mains ne purent se raccrocher au talus, et, glissant sur les revers glacés, il disparut dans l\'abîme.
+
+Était-ce donc le début d\'un massacre ?\... D\'autres allaient-ils se faire tuer à cette place ?\... Les anciens de l\'équipage prendraient-ils parti pour les nouveaux ?\...
+
+Je pus remarquer, en ce moment, que Hardie, Martin Holt, Francis, Burry, Stem, hésitaient à se ranger de notre côté, -- alors que Heame, immobile à quelques pas de là, se gardait de donner une marque d\'encouragement aux révoltés.
+
+Cependant, nous ne pouvions les laisser maîtres du canot, maîtres de le descendre, maîtres de s\'y embarquer à dix ou douze, maîtres enfin de nous abandonner sur cet iceberg, et dans l\'impossibilité de reprendre la mer\...
+
+Et, comme au dernier degré de la terreur, inconscients du danger, sourds aux menaces, ils allaient atteindre l\'embarcation, un second coup de feu, tiré par le bosseman, frappa un des matelots qui tomba raide mort, -- le cœur traversé.
+
+Un Américain et un Fuégien de moins à compter parmi les plus déterminés partisans du sealing-master !
+
+Alors, devant le canot, surgit un homme.
+
+C\'était Dirk Peters, qui avait gravi la pente opposée.
+
+Le métis mit l\'une de ses énormes mains sur l\'étrave et de l\'autre fit signe à ces furieux de s\'éloigner.
+
+Dirk Peters là, nous n\'avions plus à faire usage de nos armes, et il suffisait, lui seul, à défendre l\'embarcation.
+
+Et, en effet, comme cinq ou six des matelots s\'avançaient, il marcha sur eux, il saisit le plus rapproché par la ceinture, il l\'enleva, il l\'envoya rouler à dix pas, et, ne pouvant se retenir à rien, ce malheureux eût rebondi jusqu\'à la mer, si Hearne ne fût parvenu à le saisir au passage.
+
+C\'était déjà trop des deux tombés sous les balles !
+
+Devant cette intervention du métis, la révolte s\'apaisa soudain. D\'ailleurs, nous arrivions près du canot, et avec nous, ceux de nos hommes dont l\'hésitation n\'avait pas duré.
+
+N\'importe ! les autres nous étaient encore supérieurs en nombre.
+
+Le capitaine Len Guy, la colère aux yeux, apparut suivi de Jem West, toujours impassible. La parole lui manqua pendant quelques instants ; mais ses regards disaient tout ce que sa bouche ne pouvait dire. Enfin, d\'une voix terrible :
+
+« Je devrais vous traiter comme des malfaiteurs, s\'écria-t-il, et pourtant je ne veux voir en vous que des égarés !\... Ce canot n\'est à personne, et il est à tous !\... C\'est maintenant notre unique moyen de salut, et vous avez voulu le voler\... le voler lâchement !\... Entendez bien ce que je vous répète une dernière fois !\... Ce canot de *l\'Halbrane,* c\'est *l\'Halbrane* elle-même !\... J\'en suis le capitaine, et malheur à celui de vous qui ne m\'obéira pas ! »
+
+En jetant ces derniers mots, le capitaine Len Guy regardait Heame, visé par cette phrase d\'un coup direct. Au surplus, le sealing-master n\'avait point figuré dans cette dernière scène, -- ouvertement du moins. Toutefois, qu\'il eût poussé ses camarades à s\'emparer du canot, et qu\'il eût la pensée de les y exciter encore, cela ne faisait doute pour personne.
+
+« Au campement, dit le capitaine Len Guy, et toi, Dirk Peters, reste là. »
+
+Pour toute réponse, le métis remua sa grosse tête de bas en haut et s\'installa à son poste.
+
+L\'équipage revint au campement, sans la moindre résistance. Les uns s\'étendirent sur leurs couchettes, les autres se dispersèrent aux alentours.
+
+Hearne ne chercha point à les rejoindre ni à se rapprocher de Martin Holt.
+
+À présent que les matelots étaient réduits au désœuvrement, il n\'y avait plus qu\'à examiner cette situation très empirée et à imaginer les moyens d\'en sortir.
+
+Le capitaine Len Guy, le lieutenant, le bosseman, se réunirent en conseil, et je me joignis à eux.
+
+Le capitaine Len Guy débuta en disant :
+
+« Nous avons défendu notre canot, et nous continuerons à le défendre\...
+
+--- Jusqu\'à la mort ! déclara Jem West.
+
+--- Qui sait, dis-je, si nous ne serons pas bientôt forcés d\'y embarquer ?\...
+
+--- Dans ce cas, reprit le capitaine Len Guy, comme tous ne pourraient y prendre place, il y aurait nécessité de faire un choix. Le sort désignerait donc ceux qui devraient partir, et je ne demanderais pas à être traité autrement que les autres !
+
+--- Nous n\'en sommes pas là, que diable ! répondit le bosseman. L\'iceberg est solide et il n\'y a pas danger qu\'il fonde avant l\'hiver\...
+
+--- Non\... affirma Jem West, et cela n\'est pas à craindre\... Ce qu\'il faut, c\'est, tout en veillant sur le canot, de veiller aussi sur les vivres\...
+
+--- Et il est heureux, ajouta Hurliguerly, que nous ayons mis notre cargaison en sûreté !\... Pauvre et chère *Halbrane* !\... Elle sera restée dans ces mers comme la *Jane\...* sa sœur aînée ! »
+
+Oui, sans doute, et pour des causes différentes, pensai-je, l\'une détruite par les sauvages de Tsalal, l\'autre par l\'une de ces catastrophes que nulle puissance humaine ne peut prévenir\...
+
+« Tu as raison, Jem, reprit le capitaine Len Guy, et nous saurons empêcher nos hommes de se livrer au pillage. Les vivres nous sont assurés pour plus d\'une année, sans compter ce que fournira la pêche\...
+
+--- Et il est d\'autant plus nécessaire de veiller, capitaine, répondit le bosseman, que j\'ai déjà vu rôder autour des fûts de whisky et de gin\...
+
+--- Et de quoi ces malheureux ne seraient-ils pas capables dans les folies et les fureurs de l\'ivresse ! m\'écriai-je.
+
+--- Je prendrai des mesures à ce sujet, répliqua le lieutenant.
+
+--- Mais, demandai-je alors, n\'est-il pas à prévoir que nous soyons forcés d\'hiverner sur cet iceberg ?\...
+
+--- Le Ciel nous garde d\'une si terrible éventualité !\... répliqua le capitaine Len Guy.
+
+--- Après tout, s\'il le fallait, dit le bosseman, on s\'en tirerait, monsieur Jeorling. Nous creuserions des abris dans la glace, de manière à supporter les rigueurs du froid polaire, et tant que nous aurions de quoi apaiser notre faim\... »
+
+En ce moment se représentèrent à mon esprit les abominables scènes dont le *Grampus* fut le théâtre et dans lesquelles Dirk Peters frappa Ned Holt, le frère de notre maître-voilier\... En viendrions-nous jamais à de telles extrémités ?\...
+
+Cependant, avant de procéder aux installations d\'un hivernage pour sept à huit mois, est-ce que le mieux ne serait pas de quitter l\'iceberg, si cela était possible ?\...
+
+Ce fut sur ce point que j\'appelai l\'attention du capitaine Len Guy et de Jem West.
+
+La réponse à cette question était difficile et elle fut précédée d\'un long silence.
+
+Enfin le capitaine Len Guy dit :
+
+« Oui !\... ce serait le meilleur parti, et si notre embarcation pouvait nous contenir tous avec les provisions nécessitées par un voyage qui durerait au moins de trois à quatre semaines, je n\'hésiterais pas à reprendre dès maintenant la mer pour revenir vers le nord\...
+
+--- Mais, fis-je observer, nous serions obligés de naviguer contre le vent et contre le courant, et c\'est à peine si notre goélette eût pu y réussir\... tandis qu\'à continuer vers le sud\...
+
+--- Vers le sud ?\... répéta le capitaine Len Guy, qui me regarda comme s\'il eût voulu lire jusqu\'au fond de ma pensée.
+
+--- Pourquoi pas ?\... répondis-je. Si l\'iceberg n\'eût point été arrêté dans sa marche, peut-être aurait-il dérivé jusqu\'à quelque terre dans cette situation, et, ce qu\'il aurait fait, le canot ne pourrait-il le faire ?\... »
+
+Le capitaine Len Guy, secouant la tête, tandis que Jem West gardait le silence, ne répondit pas.
+
+« Eh ! notre iceberg finira bien par lever l\'ancre ! répliqua Hurliguerly. Il ne tient pas au fond comme les Falklands ou les Kerguelen !\... Donc, le plus sûr est d\'attendre, puisque le canot ne peut nous emmener à vingt-trois que nous sommes.
+
+--- Il n\'est pas nécessaire de s\'embarquer à vingt-trois, insistai-je. Il suffirait que cinq ou six de nous allassent en reconnaissance au large\... pendant douze ou quinze milles\... en se dirigeant vers le sud\...
+
+--- Vers le sud ?\... répéta le capitaine Len Guy.
+
+--- Sans doute, capitaine, ajoutai-je. Vous ne l\'ignorez pas, les géographes admettent volontiers que les régions antarctiques sont constituées par une calotte continentale\...
+
+--- Les géographes n\'en savent rien et n\'en peuvent rien savoir, répondit froidement le lieutenant.
+
+--- Aussi, dis-je, est-il regrettable que nous ne tentions pas de résoudre cette question du continent polaire, puisque nous sommes si près\... »
+
+Je ne crus pas devoir insister davantage, en ce moment du moins.
+
+Au surplus, l\'envoi de notre unique embarcation à la découverte présentait des dangers, soit que le courant l\'entraînât trop loin, soit qu\'elle ne nous retrouvât plus à cette place. En effet, si l\'iceberg venait à se détacher du fond, à reprendre sa marche interrompue, que deviendraient les hommes embarqués dans le canot ?\...
+
+Le malheur était que l\'embarcation fût trop petite pour nous recevoir tous avec des provisions suffisantes. Or, des anciens du bord, il restait dix hommes, en comprenant Dirk Peters, des nouveaux, il en restait treize --- soit en totalité vingt-trois. Eh bien, de onze à douze personnes, c\'était le maximum de ce que notre canot pouvait porter. Donc, onze de nous auraient dû être abandonnés sur cet îlot de glace\... ceux que le sort eût désignés ?\... Et ceux qu\'il y laisserait, que deviendraient-ils ?\...
+
+À ce propos, pourtant, Hurliguerly fit une réflexion, qui valait la peine d\'être méditée :
+
+« Après tout, dit-il, je ne sais si ceux qui embarqueraient seraient plus favorisés que ceux qui n\'embarqueraient pas\... J\'en doute tellement que, pour mon compte, je laisserais volontiers ma place à qui la voudrait ! »
+
+Peut-être avait-il raison, le bosseman ?\... Mais, dans ma pensée, lorsque je demandais que le canot fût utilisé, ce n\'était que pour effectuer une reconnaissance au large de l\'iceberg. Enfin, comme conclusion, on décida de prendre les dispositions en vue d\'un hivernage, quand bien même notre montagne de glace devrait se remettre en dérive.
+
+« Voilà qui sera dur à faire accepter de nos hommes ! déclara Hurliguerly.
+
+--- Il faut ce qu\'il faut, répliqua le lieutenant, et, dès aujourd\'hui, à la besogne ! »
+
+Triste journée que celle-ci, pendant laquelle furent commencés les préparatifs.
+
+À vrai dire, je ne vis que le cuisinier Endicott à se résigner sans récrimination. En nègre peu soucieux de l\'avenir, très léger de caractère, frivole comme tous ceux de sa race, il se résignait facilement à son sort, et, cette résignation, c\'est peut-être la vraie philosophie. D\'ailleurs, lorsqu\'il s\'agissait de cuisiner, que ce fût ici ou là, peu lui importait, du moment que ses fourneaux étaient installés quelque part.
+
+Et il dit à son ami le bosseman, avec son large sourire de moricaud :
+
+« Heureusement, ma cuisine ne s\'est pas en allée par le fond avec notre goélette, et vous verrez, Hurliguerly, si je ne vous fais pas des plats aussi bons qu\'à bord de *l\'Halbrane* --- tant que les provisions ne manqueront pas, s\'entend !\...
+
+--- Eh ! elles ne manqueront pas de sitôt, maître Endicott ! répliqua le bosseman. Ce n\'est pas la faim que nous avons à redouter, c\'est le froid\... un froid qui vous réduit à l\'état de glaçon dès qu\'on cesse un instant de battre la semelle\... un froid qui vous fait craquer la peau et péter le crâne !\... Si encore nous avions quelques centaines de tonnes de charbon\... Mais, tout bien compté, il n\'y en a que ce qu\'il faut pour faire bouillir la chaudière\...
+
+--- Et celui-là est sacré ! s\'écria Endicott. Défense d\'y toucher !\... La cuisine avant tout !\...
+
+--- Et voilà bien, satané négrino, pourquoi tu ne songes guère à te plaindre !\... N\'es-tu pas toujours sûr de te chauffer les pattes au feu de ton fourneau ?\...
+
+--- Que voulez-vous, bosseman, on est maître coq ou on ne l\'est pas\... Quand on l\'est, on en profite, et je saurai bien vous garder une petite place devant ma grille\...
+
+--- C\'est bon\... c\'est bon\... Endicott !\... Chacun aura son tour\... Pas de privilège, même pour un bosseman\... Il n\'y en a que pour toi, sous prétexte que tu es préposé aux manipulations de la soupe\... Somme toute, mieux vaut n\'avoir point à craindre la famine\... Le froid, cela peut se combattre et se supporter\... On creusera des trous dans l\'iceberg\... on s\'y blottira\... Et pourquoi n\'habiterions-nous pas une demeure commune\... une grotte qu\'on se fabriquerait à coups de pioche ?\... Je me suis laissé dire que la glace conserve la chaleur\... Eh bien, qu\'elle conserve la nôtre, je ne lui en demande pas davantage ! »
+
+L\'heure était venue de regagner le campement et de s\'étendre sur les couchettes.
+
+Dirk Peters, à son refus d\'être relevé de faction, était resté à la garde du canot, et personne ne songea à lui disputer ce poste.
+
+Le capitaine Len Guy et Jem West ne rentrèrent pas sous les tentes avant de s\'être assurés que Hearne et ses camarades avaient repris leur place habituelle.
+
+Je revins à mon tour, et me couchai.
+
+Combien de temps avais-je dormi, je n\'aurais pu le dire, ni quelle heure il était, lorsque je roulai sur le sol à la suite d\'une violente secousse.
+
+Que se passait-il donc ? Était-ce une nouvelle culbute de l\'iceberg ?\...
+
+Nous fûmes tous debout en une seconde, puis hors des tentes en pleine clarté de cette nuit polaire\...
+
+Une autre masse flottante, d\'énorme dimension, venait de heurter notre iceberg, qui avait « levé l\'ancre » comme disent les marins, et dérivait vers le sud.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730034 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729106 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728178 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727591 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726663 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 10 -- Hallucinations]{#_Toc349724347 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-10-hallucinations .calibre171 .sigil_not_in_toc}
+
+Un changement inespéré s\'était produit dans la situation ! Quelles seraient les conséquences de ce que nous n\'étions plus échoués à cette place ?\... Après avoir été immobilisés à peu près au point d\'intersection du 39^e^ méridien et du 89^e^ parallèle, voici que le courant nous entraînait dans la direction du pôle\... Aussi, au premier sentiment de joie, venaient de succéder toutes les épouvantes de l\'inconnu, -- et quel inconnu !\...
+
+Seul, peut-être, Dirk Peters se réjouissait pleinement à la pensée d\'avoir repris la route, sur laquelle il s\'entêtait à retrouver les traces de son pauvre Pym !\... Et quelles autres idées passaient par la tête de ses compagnons !
+
+En effet, le capitaine Len Guy n\'avait plus aucun espoir de recueillir ses compatriotes. Que William Guy et ses cinq matelots eussent abandonné l\'île Tsalal depuis moins de huit mois, aucun doute à cet égard\... mais où s\'étaient-ils réfugiés ?\... En trente-cinq jours nous avions franchi une distance d\'environ quatre cents milles sans avoir rien découvert. Lors même qu\'ils auraient atteint ce continent polaire auquel mon compatriote Maury, dans ses ingénieuses hypothèses, attribue la largeur d\'un millier de lieues, quelle partie de ce continent aurions-nous choisie pour théâtre de nos recherches ?\... Et, d\'ailleurs, si c\'est une mer qui baigne cette extrémité de l\'axe terrestre, les survivants de la *Jane* n\'étaient-ils pas maintenant engloutis dans ces abîmes qu\'une carapace glacée allait bientôt recouvrir ?\...
+
+Donc, toute espérance étant perdue, le devoir se fût imposé au capitaine Len Guy de ramener son équipage vers le nord, afin de franchir le cercle antarctique pendant que la saison le permettait, et nous étions emportés vers le sud\...
+
+Après le premier mouvement dont j\'ai parlé, à la pensée que la dérive entraînait l\'iceberg dans cette direction, l\'épouvante ne tarda pas à reprendre tout son empire.
+
+Et, que l\'on veuille bien tenir compte de ceci : c\'est que si nous n\'étions plus échoués, il n\'en fallait pas moins se résigner à un long hivernage, renoncer à la chance de rencontrer un des baleiniers qui se livraient à la pêche entre les Orkneys, la Nouvelle-Géorgie et les Sandwich.
+
+À la suite de la collision qui avait remis notre iceberg à flot, nombre d\'objets avaient été précipités à la mer, les pierriers de *l\'Halbrane,* ses ancres, ses chaînes, une partie de la mâture et des espars. Mais, en ce qui concernait la cargaison, grâce à cette précaution prise, la journée précédente, de l\'emmagasiner, les pertes, après inventaire, purent être considérées comme insignifiantes. Et que serions-nous devenus, si toutes nos réserves eussent été anéanties dans cet abordage ?\...
+
+Des relèvements obtenus dans la matinée, le capitaine Len Guy conclut que notre montagne de glace descendait vers le sud-est. Donc, aucun changement ne s\'était établi relativement au sens du courant. En effet, les autres masses mouvantes n\'avaient cessé de suivre cette direction, et c\'était l\'une d\'elles qui nous avait heurtés sur le flanc de l\'est. À présent, les deux icebergs n\'en formaient plus qu\'un seul, qui se déplaçait avec une vitesse de deux milles à l\'heure.
+
+Ce qui méritait réflexion, c\'était la persistance de ce courant, lequel, depuis la banquise, entraînait les eaux de cette mer libre vers le pôle austral. Si, conformément à l\'opinion de Maury, il existait un vaste continent antarctique, ledit courant le contournait-il, ou ce continent, séparé en deux parties par un large détroit, offrait-il une issue à de telles masses liquides et aussi aux masses flottantes qu\'elles charriaient à leur surface ?\...
+
+À mon avis, nous ne tarderions guère à être fixés sur ce point. Marchant avec cette vitesse de deux milles, trente heures suffiraient à atteindre ce point axial où viennent se rejoindre les méridiens terrestres.
+
+Quant à ce courant, passait-il au pôle même, où se trouvait-il là une terre que nous pourrions accoster, c\'était une autre question.
+
+Et, comme je causais de cela avec le bosseman :
+
+« Que voulez-vous, monsieur Jeorling, me répondit-il, si le courant passe au pôle, nous y passerons, et, s\'il n\'y passe pas, nous n\'y passerons pas !\... Nous ne sommes plus les maîtres d\'aller où il nous plaît\... Un glaçon n\'est point un navire, et comme il n\'a ni voilure ni gouvernail, il va où la dérive le mène !
+
+--- J\'en conviens, Hurliguerly. Aussi avais-je l\'idée qu\'en s\'embarquant à deux ou trois\... dans le canot\...
+
+--- Toujours cette idée !\... Vous y tenez à votre canot !\...
+
+--- Sans doute, car, enfin s\'il y a une terre quelque part, n\'est-il pas possible que les hommes de la Jane\...
+
+--- L\'aient accostée, monsieur Jeorling\... à quatre cents milles de l\'île Tsalal ?\...
+
+--- Qui sait, bosseman ?\...
+
+--- Soit, mais permettez-moi de vous dire que ces raisonnements seront à leur place, lorsque la terre se montrera, si elle se montre. Notre capitaine verra ce qu\'il conviendra de faire, en se rappelant que le temps presse. Nous ne pouvons nous attarder dans ces parages, et, somme toute, que l\'iceberg ne nous ramène ni du côté des Falklands ni du côté des Kerguelen, qu\'importe si nous parvenons à sortir par un autre ? L\'essentiel est d\'avoir franchi le cercle polaire avant que l\'hiver l\'ait rendu infranchissable ! »
+
+C\'était le bon sens même qui dictait ces paroles à Hurliguerly, je dois en convenir.
+
+Tandis que s\'exécutaient les préparatifs conformément aux ordres du capitaine Len Guy, et surveillés par le lieutenant, il m\'arriva plusieurs fois de monter au sommet de l\'iceberg. Là, assis sur son extrême pointe, la longue-vue aux yeux, je ne cessais de parcourir l\'horizon. De temps en temps, sa ligne circulaire s\'interrompait au passage d\'une montagne flottante ou se dérobait derrière quelque lambeau de brumes.
+
+De la place que j\'occupais, à une hauteur de cent cinquante pieds au-dessus du niveau de la mer, j\'estimais à plus de douze milles la portée de mon regard. Jusqu\'alors, aucun contour lointain ne se dessinait sur le fond du ciel.
+
+À deux reprises, le capitaine Len Guy se hissa jusqu\'à cette cime, afin de prendre hauteur.
+
+Le résultat de l\'observation, ce jour-là, 30 janvier, fut chiffré comme suit :
+
+Longitude : 67° 19\' ouest.
+
+Latitude : 89° 21\' sud.
+
+Il y avait une double conclusion à tirer des données de cette observation.
+
+La première, c\'est que depuis le dernier relèvement de notre position en longitude, le courant nous avait rejetés d\'environ 24° dans le sud-est.
+
+La seconde, c\'est que l\'iceberg ne se trouvait plus qu\'à une quarantaine de milles du pôle austral.
+
+Pendant cette journée, la plus grande partie de la cargaison fut transportée à l\'intérieur d\'une large anfractuosité que le bosseman avait découverte dans le flanc est, où, même au cas d\'une nouvelle collision, caisses et barils seraient en sûreté. Pour le fourneau de la cuisine, nos hommes aidèrent Endicott à l\'installer entre deux blocs, de manière qu\'il fût solidement maintenu, et ils entassèrent plusieurs tonnes de charbon à proximité.
+
+Ces divers travaux s\'exécutèrent sans provoquer aucune récrimination, aucun murmure. Visiblement, le silence que gardait l\'équipage était voulu. S\'il obéissait au capitaine Len Guy et au lieutenant, c\'est qu\'on ne lui commandait rien qui ne fût à faire et sans retard. Or, avec le temps, le découragement ne finirait-il pas par ressaisir nos hommes ?\... Que l\'autorité de leurs chefs ne fût point encore contestée, ne le serait-elle pas dans quelques jours ?\... On pourrait compter sur le bosseman, cela va de soi, sur le maître Hardie, sinon sur Martin Holt, peut-être sur deux ou trois des anciens\... Quant aux autres, et surtout les recrues des Falklands, qui ne voyaient plus de terme à cette désastreuse campagne, résisteraient-ils au désir de s\'emparer du canot et de s\'enfuir ?\...
+
+À mon avis, cependant, cette éventualité ne serait pas à redouter tant que notre iceberg serait en dérive, car l\'embarcation n\'aurait pu le gagner de vitesse. Mais, s\'il s\'échouait une seconde fois, s\'il venait à buter contre le littoral d\'un continent ou d\'une île, que ne feraient pas ces malheureux pour se soustraire aux horreurs de l\'hivernage ?\...
+
+Tel fut le sujet de notre conversation au dîner de midi. Le capitaine Len Guy et Jem West partagèrent cette opinion qu\'aucune tentative ne serait faite par le sealing-master et ses compagnons alors que la masse flottante continuerait à se déplacer. Néanmoins, il convenait que la surveillance ne se relâchât pas un seul instant. Hearne inspirait de trop justes méfiances pour ne pas être tenu en observation à toute heure.
+
+L\'après-midi, pendant l\'heure de repos accordée à l\'équipage, j\'eus un nouvel entretien avec Dirk Peters.
+
+J\'avais été reprendre ma place habituelle au sommet, tandis que le capitaine Len Guy et le lieutenant étaient descendus à la base de l\'iceberg afin de relever des points de repère sur la ligne de flottaison. Deux fois par vingt-quatre heures, on devait examiner ces points dans le but de déterminer si le tirant d\'eau croissait ou décroissait, c\'est-à-dire si un exhaussement du centre de gravité ne menaçait pas de provoquer quelque nouveau renversement.
+
+J\'étais assis depuis une demi-heure, lorsque j\'aperçus le métis qui gravissait les pentes d\'un pas rapide.
+
+Venait-il, lui aussi, observer l\'horizon jusqu\'à son extrême recul, avec l\'espoir d\'y relever une terre ?\... Ou --- ce qui me paraissait plus probable --- désirait-il me communiquer un projet, qui concernait Arthur Pym ?
+
+À peine avions-nous échangé trois ou quatre mots depuis la remise en marche de l\'iceberg.
+
+Lorsque le métis fut arrivé près de moi, il s\'arrêta, promena son regard sur la mer environnante, y chercha ce que j\'y cherchais moi-même, et ce que je n\'y avais point encore trouvé, il ne le trouva pas\...
+
+Deux à trois minutes s\'écoulèrent avant qu\'il m\'adressât la parole, et telle était sa préoccupation que je me demandais s\'il m\'avait vu\...
+
+Enfin, il s\'appuya sur un bloc, et je pensai qu\'il allait me parler de ce dont il parlait toujours : il n\'en fut rien.
+
+« Monsieur Jeorling, me dit-il, vous vous souvenez\... dans votre cabine de *l\'Halbrane\...* je vous ai appris l\'affaire\... cette affaire du Grampus\... »
+
+Si je me souvenais !\... Rien de ce qu\'il m\'avait raconté de cette épouvantable scène, dont il avait été le principal acteur, n\'était sorti de ma mémoire.
+
+« Je vous l\'ai dit, continua-t-il, Parker ne se nommait pas Parker\... Il se nommait Ned Holt\... C\'était le frère de Martin Holt\...
+
+--- Je le sais, Dirk Peters, répondis-je. Mais pourquoi revenir sur ce triste sujet ?\...
+
+--- Pourquoi, monsieur Jeorling ?\... N\'est-ce pas\... vous n\'en avez jamais rien dit à personne ?\...
+
+--- À personne ! affirmai-je. Comment aurais-je été assez mal avisé, assez imprudent pour dévoiler votre secret\... un secret qui ne doit jamais sortir de notre bouche\... un secret qui est mort entre nous ?\...
+
+--- Mort\... oui\... mort ! murmura le métis. Et\... pourtant\... comprenez-moi\... il me semble\... dans l\'équipage\... on sait\... on doit savoir quelque chose\... »
+
+Et, à l\'instant, je rapprochai de ce dire ce que m\'avait appris le bosseman d\'une certaine conversation surprise par lui et dans laquelle Hearne excitait Martin Holt à demander au métis en quelles conditions avait succombé son frère à bord du *Grampus.* Est-ce qu\'une partie de ce secret avait transpiré, ou cette appréhension n\'existait-elle que dans l\'imagination de Dirk Peters ?\...
+
+« Expliquez-vous, dis-je.
+
+--- Comprenez-moi, monsieur Jeorling\... je ne sais guère m\'exprimer\... Oui\... hier\... je n\'ai cessé d\'y penser depuis\... Hier, Martin Holt m\'a tiré à part\... loin des autres\... et m\'a dit qu\'il voulait me parler\...
+
+--- Du *Grampus ?\...*
+
+--- Du *Grampus\...* oui\... et de son frère Ned Holt !\... Pour la première fois\... il a prononcé ce nom devant moi\... le nom de celui que\... et\... pourtant\... voici tantôt trois mois que nous naviguons ensemble\... »
+
+La voix du métis était si altérée, que je l\'entendais à peine.
+
+« Comprenez\... reprit-il, il m\'a semblé que, dans l\'esprit de Martin Holt\... non !\... je ne m\'y suis pas trompé\... il y avait comme un soupçon\...
+
+--- Mais parlez donc, Dirk Peters !\... m\'écriai-je. Que vous a demandé Martin Holt ? »
+
+Et je sentais bien que cette question de Martin Holt, c\'était Hearne qui l\'avait inspirée. Néanmoins, ayant lieu de penser que le métis ne devait rien savoir de cette intervention du sealing-master, aussi inquiétante qu\'inexplicable, je me décidai à ne point la lui révéler.
+
+« Ce qu\'il m\'a demandé, monsieur Jeorling ?\... répondit-il. Il m\'a demandé\... si je ne me souvenais pas de Ned Holt, du *Grampus\...* s\'il avait péri dans la lutte contre les révoltés ou dans le naufrage\... s\'il était un de ceux qui avaient été abandonnés en mer avec le capitaine Barnard\... enfin\... si je pouvais lui dire comment son frère était mort\... Ah ! comment\... comment\... »
+
+Avec quelle horreur le métis prononçait ces mots, qui témoignaient d\'un si profond dégoût de lui-même !
+
+« Et qu\'avez-vous répondu à Martin Holt, Dirk Peters ?\...
+
+--- Rien\... rien !
+
+--- Il fallait affirmer que Ned Holt avait péri dans le naufrage du brick\...
+
+--- Je n\'ai pas pu\... comprenez-moi\... je n\'ai pas pu\... Les deux frères se ressemblent tant !\... Dans Martin Holt\... j\'ai cru voir Ned Holt !\... J\'ai eu peur\... je me suis sauvé\... »
+
+Le métis s\'était redressé d\'un mouvement brusque, et moi, la tête entre les mains, je me mis à réfléchir\... Ces tardives interrogations de Martin Holt relatives à son frère, je ne doutais pas qu\'elles eussent été faites à l\'instigation de Heame\... Était-ce donc aux Falklands que le sealing-master avait surpris le secret de Dirk Peters, dont je n\'avais dit mot à personne ?\...
+
+Au total, en poussant Martin Holt à interroger le métis, à quoi tendait Hearne ?\... Quel but visait-il ?\... Voulait-il uniquement satisfaire sa haine contre Dirk Peters, qui, seul des matelots falklandais, s\'était toujours rangé au parti du capitaine Len Guy, qui avait empêché ses compagnons et lui de s\'emparer du canot ?\... En excitant Martin Holt, espérait-il détacher le maître-voilier, l\'amener à se joindre à ses complices ?\... Et, de fait, lorsqu\'il s\'agirait de diriger l\'embarcation à travers ces parages, n\'avait-il pas besoin de Martin Holt, l\'un des meilleurs marins de *l\'Halbrane,* et qui aurait été capable de réussir alors que Hearne et les siens eussent échoué, s\'ils avaient été réduits à eux-mêmes ?\...
+
+On voit à quel enchaînement d\'hypothèses s\'abandonnait mon esprit, et quelles complications s\'ajoutaient à une situation si compliquée déjà.
+
+Lorsque je relevai les yeux, Dirk Peters n\'était plus près de moi. Il avait disparu sans que je me fusse aperçu de son départ, ayant dit ce qu\'il voulait me dire, et, en même temps, s\'étant assuré que je n\'avais point trahi son secret. L\'heure s\'avançant, je jetai un dernier regard sur l\'horizon, et je redescendis, profondément troublé, et, comme toujours, dévoré de l\'impatience d\'être au lendemain.
+
+Le soir venu, on prit les précautions d\'usage et personne n\'eut la permission de rester en dehors du campement -- personne, si ce n\'est le métis, qui demeura à la garde du canot.
+
+J\'étais tellement fatigué au moral et au physique, que le sommeil m\'envahissant, je dormis près du capitaine Len Guy, tandis que le lieutenant veillait au-dehors, puis près du lieutenant, lorsque celui-ci eut été remplacé par le capitaine.
+
+Le lendemain, 31 janvier, de bonne heure, je repoussai les toiles de notre tente\...
+
+Quel désappointement !
+
+Partout, des brumes, -- non pas de celles que dissolvent les premiers rayons solaires, et qui disparaissent sous l\'influence des courants atmosphériques\... Non ! mais un brouillard jaunâtre, sentant le moisi, comme si ce janvier antarctique eût été le brumaire de l\'hémisphère septentrional. De plus, nous observâmes un abaissement notable de la température, symptôme avant-coureur peut-être de l\'hiver austral. Du ciel caligineux suintaient d\'épaisses vésicules de vapeurs entre lesquelles se perdait la cime de notre montagne de glace. C\'était un brouillard qui ne se résoudrait pas en pluie, une sorte d\'ouate appliquée sur l\'horizon\...
+
+« Fâcheux contretemps, me dit le bosseman, car si nous passions au large d\'une terre nous ne pourrions l\'apercevoir !
+
+--- Et notre dérive ?\... demandai-je.
+
+--- Elle est plus considérable qu\'hier, monsieur Jeorling. Le capitaine a fait donner un coup de sonde, et il n\'estime pas la vitesse à moins de trois ou quatre milles.
+
+--- Eh bien, qu\'en concluez-vous, Hurliguerly ?\...
+
+--- J\'en conclus que nous devons être dans une mer resserrée, puisque le courant y acquiert tant de force\... Je ne serais pas étonné que nous eussions la terre tribord et bâbord, à quelque dix ou quinze milles\...
+
+--- Ce serait donc un large détroit qui couperait le continent antarctique ?\...
+
+--- Oui\... du moins notre capitaine a cette opinion.
+
+--- Et, avec cette opinion, Hurliguerly, il ne va pas tenter d\'accoster l\'une ou l\'autre rive de ce détroit ?
+
+--- Et comment ?\...
+
+--- Avec le canot\...
+
+--- Risquer le canot au milieu de ces brumes ! s\'écria le bosseman en se croisant les bras. Y pensez-vous, monsieur Jeorling ?\... Est-ce que nous pouvons jeter l\'ancre pour l\'attendre ?\... Non, n\'est-ce pas, et toutes les chances seraient pour qu\'on ne le revît jamais !\... Ah !\... si nous avions *l\'Halbrane* !\... »
+
+Hélas ! nous n\'avions plus l*\'Halbrane* !\...
+
+En dépit des difficultés que présentait l\'ascension à travers ces vapeurs à demi condensées, je montai au sommet de l\'iceberg. Qui sait si une éclaircie ne me permettrait pas d\'apercevoir des terres à l\'est ou à l\'ouest ?\...
+
+Lorsque je fus debout à la pointe, c\'est en vain que j\'essayai de percer du regard l\'impénétrable manteau grisâtre qui recouvrait ces parages.
+
+J\'étais là, secoué par le vent du nord-est qui tendait à fraîchir et déchirerait peut-être ces brouillards\...
+
+Cependant, de nouvelles vapeurs s\'accumulaient, poussées par cette énorme ventilation de la mer libre. Sous la double action des courants atmosphériques et marins, nous dérivions avec une vitesse de plus en plus grande, et je sentais comme un frémissement de l\'iceberg\...
+
+Et c\'est alors que je me trouvai sous l\'empire d\'une sorte d\'hallucination, --- une de ces étranges hallucinations qui avaient dû troubler l\'esprit d\'Arthur Pym\... Il me sembla que je me fondais dans son extraordinaire personnalité !\... Je croyais voir enfin ce qu\'il avait vu !\... Cette indéchirable brume, c\'était ce rideau de vapeurs tendu sur l\'horizon devant ses yeux de fou !\... J\'y cherchais ces panaches de raies lumineuses qui bariolaient le ciel du levant au couchant !\... J\'y cherchais le surnaturel flamboiement de son sommet !\... J\'y cherchais ces palpitations photogéniques de l\'espace en même temps que celles des eaux éclairées par les lueurs du fond océanien !\... J\'y cherchais cette cataracte sans limites, roulant en silence du haut de quelque immense rempart perdu dans les profondeurs du zénith !\... J\'y cherchais ces vastes fentes, derrière lesquelles s\'agitait un chaos d\'images flottantes et indistinctes sous les puissants souffles de l\'air !\... J\'y cherchais le géant blanc, le géant du pôle !\...
+
+Enfin la raison reprit le dessus. Ce trouble de visionnaire, cet égarement poussé jusqu\'à l\'extravagance, se dissipa peu à peu, et je redescendis au campement.
+
+La journée s\'écoula tout entière dans ces conditions. Pas une fois le rideau ne s\'ouvrit devant nos regards, et si l\'iceberg, qui s\'était déplacé d\'une quarantaine de milles depuis la veille, avait passé à l\'extrémité de l\'axe terrestre, nous ne devions jamais le savoir[[\[3\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn3040){#_ftnref3040 .pcalibre4 .pcalibre3} !
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730035 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729107 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728179 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727592 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726664 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 11 -- Au milieu des brumes]{#_Toc349724348 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-11-au-milieu-des-brumes .calibre171 .sigil_not_in_toc}
+
+« Eh bien, monsieur Jeorling, me dit le bosseman, lorsque, le lendemain, nous nous retrouvâmes en face l\'un de l\'autre, il faut en faire notre deuil !
+
+--- Notre deuil, Hurliguerly, et de quoi ?\...
+
+--- Du pôle Sud, dont nous n\'avons pas même aperçu la pointe !
+
+--- Oui\... et qui doit être maintenant à quelque vingtaine de milles en arrière\...
+
+--- Que voulez-vous, le vent a soufflé sur cette lampe australe, et elle était éteinte au moment où nous sommes passés\...
+
+--- Voilà une occasion que nous ne rencontrerons plus guère, j\'imagine\...
+
+--- Comme vous dites, monsieur Jeorling, et nous pouvons renoncer à jamais sentir le bout de la broche terrestre tourner entre nos doigts !
+
+--- Vous avez d\'heureuses comparaisons, bosseman.
+
+--- Et à ce que je viens de dire, j\'ajoute que notre véhicule de glace nous charrie au diable, et pas précisément dans la direction du *Cormoran-Vert* !\... Allons\... allons\... campagne inutile, campagne manquée\... et qu\'on ne recommencera pas de sitôt\... En tout cas, campagne à finir, et sans flâner en route, car l\'hiver ne tardera pas à montrer son nez rouge, ses lèvres gercées et ses mains crevassées d\'engelures !\... Campagne pendant laquelle le capitaine Len Guy n\'a point retrouvé son frère -- ni nous nos compatriotes --, ni Dirk Peters son pauvre Pym !\... »
+
+Vrai, tout cela, et c\'était le résumé de nos déboires, de nos déconvenues, de nos déceptions ! Sans parler de *l\'Halbrane* anéantie, cette expédition comptait déjà neuf victimes. De trente-deux qui avaient embarqué sur la goélette, nous étions réduits à vingt-trois, et à quel chiffre tomberions-nous encore ?\...
+
+En effet, du pôle austral au cercle antarctique, on compte une vingtaine de degrés, soit douze cents milles marins, et il serait nécessaire de les franchir en un mois ou six semaines au plus, sinon la banquise se trouverait reformée et refermée !\... Quant à un hivernage dans cette partie de l\'Antarctide, personne de nous n\'eût pu y survivre.
+
+D\'ailleurs, nous avions perdu tout espoir de recueillir les survivants de la *Jane ;* et l\'équipage ne formait plus qu\'un vœu, traverser le plus rapidement possible ces effrayantes solitudes. De sud que notre dérive avait été jusqu\'au pôle, elle était devenue nord, et, à la condition qu\'elle persistât, peut-être serions-nous favorisés de quelques bonnes chances qui en compenseraient tant de mauvaises ! Dans tous les cas, pour employer une locution familière, « il n\'y avait qu\'à se laisser aller ».
+
+Qu\'importe, si ces mers vers lesquelles se dirigeait notre iceberg n\'étaient plus celles de l\'Atlantique méridional, mais celles de l\'océan Pacifique, si les terres les plus rapprochées, au lieu des South-Orkneys, des Sandwich, des Falklands, du cap Hom, des Kerguelen, seraient l\'Australie ou la Nouvelle-Zélande ! C\'est pourquoi Hurliguerly avait-il raison de le dire -- et à son vif regret --, ce n\'était pas chez le compère Atkins et dans la salle basse du *Cormoran-Vert* qu\'il irait boire le coup du retour !
+
+« Après tout, monsieur Jeorling, me répétait-il, il y a encore d\'excellentes auberges à Melbourne, à Hobart-Town, à Dunedin\... Le tout est d\'arriver à bon port ! »
+
+La brume ne s\'étant pas levée pendant les journées des 2, 3 et 4 février, il eût été difficile d\'évaluer le déplacement de notre iceberg depuis qu\'il avait dépassé le pôle. Toutefois, le capitaine Len Guy et Jem West croyaient pouvoir l\'estimer à deux cent cinquante milles.
+
+En effet, le courant ne semblait avoir ni diminué de vitesse ni changé de direction. Que nous fussions engagés dans un bras de mer entre les deux moitiés d\'un continent, l\'une à l\'est, l\'autre à l\'ouest, qui formaient le vaste domaine de l\'Antarctide, cela ne paraissait pas douteux. Aussi trouvai-je très regrettable de ne pouvoir atterrir d\'un côté ou de l\'autre de ce large détroit, dont l\'hiver ne tarderait pas à solidifier la surface !
+
+Lorsque j\'en causai avec le capitaine Len Guy, il me fit la seule réponse logique :
+
+« Que voulez-vous, monsieur Jeorling, nous sommes impuissants, il n\'y a rien à faire, et, où je reconnais bien cette malchance qui nous accable depuis quelque temps, c\'est précisément dans la persistance de ces brumes\... Je ne sais plus où nous sommes\... Impossible de prendre hauteur, et cela au moment où le soleil va disparaître pour de longs mois\...
+
+--- J\'en reviens toujours au canot, dis-je une dernière fois. Avec le canot ne pourrait-on pas ?\...
+
+--- Aller à la découverte !\... Y pensez-vous ?\... Ce serait une imprudence que je ne commettrai pas\... et que l\'équipage ne me laisserait pas commettre ! »
+
+Je fus sur le point de m\'écrier :
+
+« Et si votre frère William Guy, si vos compatriotes se sont réfugiés sur un point de cette terre\... »
+
+Mais je me contins. À quoi bon renouveler les douleurs de notre capitaine ? Cette éventualité, il avait dû y songer, et, pour avoir renoncé à poursuivre ses recherches, c\'est qu\'il s\'était rendu compte de l\'inutilité en même temps que de l\'inanité d\'une dernière tentative.
+
+Après tout -- et cela lui laissait encore une vague espérance --, peut-être s\'était-il fait ce raisonnement, qui méritait quelque attention :
+
+Lorsque William Guy et les siens avaient quitté l\'île Tsalal, la saison d\'été commençait. Devant eux s\'ouvrait la mer libre, traversée par ces mêmes courants du sud-est dont nous avions subi l\'action, d\'abord avec *l\'Halbrane,* ensuite avec l\'iceberg. En outre des courants, ils avaient dû être favorisés, comme nous l\'avions été, par les brises permanentes du nord-est. De là cette conclusion que leur canot, à moins qu\'il eût péri dans un accident de mer, devait avoir suivi une direction analogue à la nôtre, et, à travers ce large détroit, être arrivé jusqu\'à ces parages. Et, dès lors, était-il illogique de supposer, ayant sur nous une avance de plusieurs mois, après avoir remonté au nord, franchi la mer libre, passé la banquise, que leur embarcation fût parvenue à sortir du cercle antarctique, enfin que William Guy et ses compagnons eussent rencontré quelque navire qui les aurait déjà rapatriés ?\...
+
+En admettant que notre capitaine se fût rangé à cette hypothèse, laquelle, je l\'avoue, exigeait tant de bonnes chances -- trop même ! --- il ne m\'en avait jamais dit un mot. Peut-être -- car l\'homme aime à conserver ses illusions --, peut-être craignait-il qu\'on lui démontrât les côtés faibles de ce raisonnement ?\...
+
+Un jour, je parlai dans ce sens à Jem West.
+
+Le lieutenant, peu accessible aux entraînements de l\'imagination, refusa de se rendre à mon avis. De prétendre que, si nous n\'avions pas retrouvé les hommes de la *Jane,* cela tenait à ce qu\'ils avaient quitté ces parages avant notre arrivée, qu\'ils étaient déjà revenus dans les mers du Pacifique, cela ne pouvait entrer dans un esprit aussi positif que le sien.
+
+Quant au bosseman, lorsque j\'appelai son attention sur cette éventualité :
+
+« Vous savez, monsieur Jeorling, répliqua-t-il, tout arrive\... ou, du moins, ça se dit volontiers ! Et pourtant, que le capitaine William Guy et ses hommes soient, à l\'heure qu\'il est, en train de boire un bon coup de brandevin, de gin ou de whisky dans un des cabarets de l\'ancien ou du nouveau continent\... non !\... non !\... C\'est aussi impossible qu\'à nous d\'être attablés tous les deux demain au *Cormoran-Vert !* »
+
+Durant ces trois jours de brume, je n\'avais point aperçu Dirk Peters, ou plutôt il n\'avait point cherché à se rapprocher de moi, et était obstinément resté à son poste près de l\'embarcation. Les questions de Martin Holt relativement à son frère Ned semblaient indiquer que son secret était connu, -- du moins en partie. Aussi se tenait-il plus que jamais à l\'écart, dormant pendant les heures de veille, veillant pendant les heures de sommeil. Je me demandais même s\'il ne regrettait pas de s\'être confié à moi, s\'il ne s\'imaginait pas avoir excité ma répugnance\... Il n\'en était rien, et j\'éprouvais pour le pauvre métis une profonde pitié !\...
+
+Je ne saurais dire combien nous parurent tristes, monotones, interminables, les heures qui s\'écoulèrent au milieu de ce brouillard dont le vent ne pouvait déchirer l\'épais rideau. Même avec la plus minutieuse attention, on ne parvenait pas à reconnaître, n\'importe à quelle heure, quelle place le soleil occupait au-dessus de l\'horizon sur lequel l\'abaissait peu à peu sa marche spiraliforme. La position de l\'iceberg en longitude et en latitude ne pouvait donc être relevée. Dérivait-il toujours vers le sud-est ou plutôt vers le nord-ouest, depuis qu\'il avait dépassé le pôle, c\'était probable, ce n\'était pas sûr. Animé de la même vitesse que le courant, comment le capitaine Len Guy aurait-il pu déterminer son déplacement, alors que les vapeurs empêchaient de prendre aucun point de repère. Il eût été immobile qu\'il n\'y aurait eu pour nous aucune différence appréciable, car le vent avait calmi -- nous le supposions du moins --, et pas un souffle ne se faisait sentir. La flamme d\'un fanal, exposée à l\'air, ne vacillait pas. Des cris d\'oiseaux, sortes de croassements affaiblis à travers cette atmosphère ouatée de brumes, interrompaient seuls le silence de l\'espace. Des vols de pétrels et d\'albatros rasaient la cime sur laquelle je me tenais en observation. En quel sens fuyaient ces rapides volateurs que les approches de l\'hiver chassaient déjà peut-être vers les confins de l\'Antarctide ?\...
+
+Un jour, le bosseman qui, dans le but de s\'en rendre compte, était monté au sommet, non sans risque de se rompre le cou, fut heurté à la poitrine si violemment par un vigoureux quebranta-huesos, sorte de pétrel gigantesque d\'une envergure de douze pieds, qu\'il tomba à la renverse.
+
+« Maudite bête, me dit-il, lorsqu\'il fut redescendu au campement, je l\'ai échappé belle !\... D\'un coup\... pan !\... les quatre fers en l\'air, comme un cheval qui se pomoye sur l\'échine !\... Je me suis rattrapé où j\'ai pu\... mais j\'ai vu le moment où mes mains allaient larguer tout !\... Des arêtes de glace, vous savez, ça vous glisse comme de l\'eau entre les doigts !\... Aussi lui ai-je crié, à cet oiseau : Tu ne peux donc pas regarder devant toi ?\... Il ne s\'est même pas excusé, le fichu animal ! »
+
+Le fait est que le bosseman avait risqué d\'être précipité de bloc en bloc jusqu\'à la mer.
+
+Dans l\'après-midi, ce jour-là, nos oreilles furent atrocement écorchées par des braiements qui montaient d\'en bas. Ainsi que le fit observer Hurliguerly, du moment que ce n\'étaient pas des ânes qui poussaient ces braiements, c\'étaient des pingouins. Jusqu\'ici, ces innombrables hôtes des régions polaires n\'avaient point jugé à propos de nous accompagner sur notre îlot mouvant, et, alors que la vue pouvait s\'étendre au large, nous n\'en avions pas aperçu un seul, --- ni au pied de l\'iceberg ni sur les glaçons en dérive. À présent, nul doute qu\'ils fussent là par centaines ou par milliers, car le concert s\'accentuait avec une intensité qui témoignait du nombre des exécutants.
+
+Or, ces volatiles habitent plus volontiers soit les marges littorales des continents et des îles de ces hautes latitudes, soit les icefields qui les avoisinent. Leur présence n\'indiquait-elle pas la proximité d\'une terre ?\...
+
+Je le sais, nous étions dans une disposition d\'esprit à nous raccrocher à la moindre lueur d\'espoir, comme l\'homme, en danger de se noyer, se raccroche à une planche, --- la planche de salut !\... Et que de fois elle s\'enfonce ou se brise au moment où l\'infortuné vient de la saisir !\... N\'était-ce pas le sort qui nous attendait sous ce terrible climat ?\...
+
+Je demandai au capitaine Guy quelles conséquences il tirait de la présence de ces oiseaux.
+
+« Ce que vous en pensez, monsieur Jeorling, me répondit-il. Depuis que nous sommes en dérive, aucun d\'eux n\'avait encore cherché refuge sur l\'iceberg, et, actuellement, les y voici en foule, si nous en jugeons par leurs cris assourdissants. D\'où sont-ils venus ?\... À n\'en pas douter, d\'une terre dont nous sommes peut-être assez près\...
+
+--- Est-ce aussi l\'avis du lieutenant ? demandai-je.
+
+--- Oui, monsieur Jeorling, et vous savez s\'il est homme à se forger des chimères !
+
+--- Non, certes !
+
+--- Et puis, il y a autre chose qui l\'a frappé comme moi, et qui ne semble pas avoir provoqué votre attention\...
+
+--- De quoi s\'agit-il ?\...
+
+--- De ces meuglements qui se mêlent aux braiements des pingouins\... Prêtez l\'oreille et vous ne tarderez pas à les entendre. »
+
+J\'écoutai, et, évidemment, l\'orchestre était plus complet que je ne l\'avais supposé.
+
+« En effet\... dis-je, je les distingue, ces mugissements plaintifs. Il y a donc aussi des phoques ou des morses\...
+
+--- C\'est chose certaine, monsieur Jeorling, et j\'en conclus que ces animaux, oiseaux et mammifères, très rares depuis notre départ de l\'île Tsalal, fréquentent ces parages où nous ont portés les courants. Il me semble que cette affirmation n\'a rien de hasardé\...
+
+--- Rien, capitaine, pas plus que d\'admettre l\'existence d\'une terre avoisinante. Oui ! quelle fatalité d\'être enveloppés de cet impénétrable brouillard, qui ne permet pas de voir à un quart de mille au large\...
+
+--- Et qui nous empêche même de descendre à la base de l\'iceberg ! ajouta le capitaine Len Guy. Là, sans doute, nous aurions pu reconnaître si les eaux charrient des salpas, des laminaires, des fucus, -- ce qui nous fournirait un nouvel indice\... Vous avez raison\... C\'est une fatalité !\...
+
+--- Pourquoi ne pas essayer, capitaine ?\...
+
+--- Non, monsieur Jeorling, ce serait s\'exposer à des chutes, et je ne permettrai à personne de quitter le campement. Après tout, si la terre est là, j\'imagine que notre iceberg ne tardera pas à l\'accoster\...
+
+--- Et s\'il ne le fait pas ?\... répliquai-je.
+
+--- S\'il ne le fait pas, comment le pourrions-nous faire ?\... »
+
+Et le canot, pensai-je, il faudra pourtant bien se décider à l\'utiliser\... Mais le capitaine Len Guy préférait attendre, et qui sait si, dans les circonstances où nous étions, ce n\'était pas le parti le plus sage ?\...
+
+Quant à la base de l\'iceberg, la vérité est que rien n\'eût été plus dangereux que de s\'engager en aveugles sur ces pentes glissantes. Le plus adroit de l\'équipage, le plus vigoureux, Dirk Peters lui-même, n\'aurait pu y réussir sans quelque grave accident. Cette funeste campagne comptait déjà trop de victimes dont nous ne voulions pas accroître le nombre.
+
+Je ne saurais donner une idée de cette accumulation de vapeurs, qui s\'épaissirent encore pendant la soirée. À partir de cinq heures, il devint impossible de rien distinguer à quelques pas du plateau où se dressaient les tentes. Il fallait se toucher de la main pour s\'assurer que l\'on était l\'un près de l\'autre. Se parler n\'eût pas suffi, car la voix ne portait guère mieux que la vue dans ce milieu assourdi. Un fanal allumé ne laissait apercevoir qu\'une sorte de lumignon jaunâtre, sans pouvoir éclairant. Un cri n\'arrivait à l\'oreille que très affaibli, et seuls les pingouins étaient assez vociférants pour se faire entendre.
+
+Il n\'y avait pas lieu, je le note ici, de confondre ce brouillard avec le frost-rime, la fumée gelée, que nous avions observée antérieurement. D\'ailleurs, ce frost-rime, qui exige une assez haute température, se tient ordinairement au ras de la mer, et ne s\'élève à une centaine de pieds que sous l\'action d\'une forte brise. Or le brouillard dépassait de beaucoup cette altitude, et j\'estime qu\'on n\'aurait pu s\'en dégager qu\'à la condition de dominer l\'iceberg d\'une cinquantaine de toises.
+
+Vers huit heures du soir, les brumes à demi condensées étaient si compactes que l\'on sentait une résistance à la marche. Il semblait que la composition de l\'air fût modifiée, comme s\'il allait passer à l\'état solide. Et, involontairement, je songeais aux étrangetés de l\'île Tsalal, cette eau bizarre, dont les molécules obéissaient à une cohésion particulière\...
+
+Quant à reconnaître si ce brouillard avait une action quelconque sur la boussole, cela n\'était pas possible. Je savais, au surplus, que le fait avait été étudié par les météorologistes et qu\'ils se croient en droit d\'affirmer que cette action n\'a aucune influence sur l\'aiguille aimantée.
+
+J\'ajoute que depuis que nous avions laissé le pôle Sud en arrière, aucune confiance ne pouvait plus être accordée aux indications du compas, qui s\'affolait aux approches du pôle magnétique vers lequel nous marchions sans doute. Donc, rien ne permettait de déterminer la direction de l\'iceberg.
+
+À neuf heures du soir, ces parages furent plongés dans une assez profonde obscurité, bien que le soleil, à cette époque, ne descendît pas encore sous l\'horizon.
+
+Le capitaine Len Guy, voulant s\'assurer que les hommes étaient rentrés au campement et prévenir ainsi toute imprudence de leur part, fit l\'appel.
+
+Chacun, après avoir répondu à son nom, vint prendre sa place sous les tentes, où les fanaux embrumés ne donnaient que peu ou pas de lumière.
+
+Lorsque son nom fut prononcé, puis jeté à plusieurs reprises par la voix éclatante du bosseman, le métis fut le seul à ne pas répondre à cet appel.
+
+Hurliguerly attendit quelques minutes\...
+
+Dirk Peters ne parut pas.
+
+Était-il donc resté près du canot, c\'était probable, mais inutile, car notre embarcation ne risquait pas d\'être enlevée par ce temps de brouillard.
+
+« Est-ce que personne n\'a vu Dirk Peters de la journée ?\... demanda le capitaine Len Guy.
+
+--- Personne, répondit le bosseman.
+
+--- Pas même au dîner de midi ?\...
+
+--- Pas même, capitaine, et, cependant, il ne devait plus avoir de provisions.
+
+--- Lui serait-il donc arrivé malheur ?\...
+
+--- N\'ayez crainte ! s\'écria le bosseman. Ici, Dirk Peters est dans son élément, et ne doit pas être plus embarrassé au milieu des brumes qu\'un ours polaire ! Il s\'est déjà tiré d\'affaire une première fois\... il s\'en tirera une seconde ! »
+
+Je laissai dire Hurliguerly, sachant bien pourquoi le métis se tenait à l\'écart.
+
+Dans tous les cas, du moment que Dirk Peters s\'obstinait à ne pas répondre --- et les cris du bosseman avaient dû parvenir jusqu\'à lui --, il était impossible de se mettre à sa recherche.
+
+Cette nuit-là, j\'en ai la conviction, personne -- sauf Endicott peut-être -- ne put dormir. On étouffait sous le couvert des tentes où l\'oxygène manquait. Et puis, tous, plus ou moins, nous subissions une impression très particulière, en proie à une sorte de pressentiment bizarre, comme si notre situation allait se modifier en meilleur ou en pire, -- en admettant qu\'elle pût empirer.
+
+La nuit s\'écoula sans alerte, et, à six heures du matin, chacun vint humer au-dehors un air plus salubre.
+
+Même état météorologique que la veille, avec brumes d\'une densité extraordinaire. On constata que le baromètre avait remonté, -- trop vite, il est vrai, pour que cette hausse fût sérieuse. La colonne de mercure marquait trente pouces deux dixièmes (767 millimètres), le maximum qu\'elle eût atteint depuis le passage de *l\'Halbrane* au cercle antarctique.
+
+D\'autres indices se révélaient aussi, dont nous avions à tenir compte.
+
+Le vent qui fraîchissait -- vent de sud depuis que nous avions dépassé le pôle austral -- ne tarda pas à souffler en grande brise, -- une brise à deux ris, comme disent les marins. Les bruits du dehors s\'entendaient plus distinctement à travers l\'espace balayé par les courants atmosphériques.
+
+Vers neuf heures, l\'iceberg se décoiffa soudain de son bonnet de vapeurs.
+
+Indescriptible changement de décor qu\'une baguette magique n\'eût pas accompli en moins de temps et avec plus de succès !
+
+En peu d\'instants, le ciel fut dégagé jusqu\'aux dernières limites de l\'horizon, et la mer reparut, illuminée par les obliques rayons du soleil, qui ne la dominait plus que de quelques degrés. Un tumultueux ressac baignait d\'une écume blanche la base de notre iceberg, et il dérivait avec une multitude de montagnes flottantes sous la double action du vent et du courant en s\'infléchissant vers l\'est-nord-est.
+
+« Terre ! »
+
+Ce cri jeté du sommet de l\'îlot mouvant, et à nos regards se montra Dirk Peters, debout sur l\'extrême bloc, la main tendue vers le nord.
+
+Le métis ne se trompait pas. La terre, cette fois\... oui !\... c\'était la terre, développant à trois ou quatre milles ses hauteurs lointaines d\'une teinte noirâtre.
+
+Et, lorsque le point, obtenu par une double observation à dix heures et à midi, eut été établi, il donna :
+
+Latitude : 86° 12\' sud.
+
+Longitude : 114° 17\' est.
+
+L\'iceberg se trouvait à peu près de 4° au-delà du pôle antarctique, et, des longitudes occidentales que notre goélette avait suivies sur l\'itinéraire de la *Jane,* nous étions passés aux longitudes orientales.
+
+J.V.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730036 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729108 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728180 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727593 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726665 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 12 -- Campement]{#_Toc349724349 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-12-campement .calibre171 .sigil_not_in_toc}
+
+Un peu après midi, cette terre ne se trouvait plus qu\'à un mille. La question était de savoir si le courant n\'allait pas nous entraîner au-delà.
+
+Je dois l\'avouer, si nous avions eu le choix ou d\'accoster ce littoral ou de continuer notre marche, je ne sais trop ce qui eût été préférable.
+
+J\'en causais avec le capitaine Len Guy et le lieutenant, lorsque Jem West m\'interrompit, disant :
+
+« Je vous demanderai à quoi bon discuter cette éventualité, monsieur Jeorling ?\...
+
+--- Soit, à quoi bon, puisque nous n\'y pouvons rien, ajouta le capitaine Len Guy. Il est possible que l\'iceberg vienne buter contre cette côte, comme il est possible qu\'il la contourne, s\'il se maintient dans le courant.
+
+--- Juste, repris-je, mais ma question n\'en subsiste pas moins. Avons-nous avantage à débarquer ou à rester ?\...
+
+--- À rester », répondit Jem West.
+
+En effet, si le canot eût pu nous emmener tous avec des provisions pour une navigation de cinq à six semaines, nous n\'aurions pas hésité à y prendre passage, afin de piquer, grâce au vent du sud, à travers la mer libre. Mais, étant donné que le canot ne suffirait qu\'à onze ou douze hommes au plus, il aurait fallu les tirer au sort. Et ceux qu\'il n\'emporterait pas, ne seraient-ils pas condamnés à périr, par le froid sinon par la faim, sur cette terre que l\'hiver ne tarderait pas à couvrir de ses frimas et de ses glaces ?\...
+
+Or, si l\'iceberg continuait à dériver suivant cette direction, ce serait une grande partie de notre route faite dans des conditions acceptables, après tout. Notre véhicule de glace, il est vrai, pouvait nous manquer, s\'échouer de nouveau, culbuter même, ou tomber dans quelque contre-courant qui le rejetterait hors de l\'itinéraire, tandis que le canot, en obliquant sur le vent, lorsqu\'il deviendrait contraire, eût pu nous conduire au but, si les tempêtes ne l\'assaillaient pas et si la banquise lui offrait une passe\...
+
+Mais, ainsi que venait de le dire Jem West, y avait-il lieu de discuter cette éventualité ?\...
+
+Après le dîner, l\'équipage se porta vers le plus haut bloc sur lequel se tenait Dirk Peters. À notre approche, le métis descendit par le talus opposé, et, lorsque j\'arrivai au sommet, je ne pus l\'apercevoir.
+
+Nous étions donc tous en cet endroit, --- tous, moins Endicott, peu soucieux d\'abandonner son fourneau.
+
+La terre, aperçue dans le nord, dessinait sur un dixième de l\'horizon son littoral frangé de grèves, coupé d\'anses, dentelé de pointes, ses arrière-plans limités par le profil assez accidenté de hautes et peu lointaines collines. Il y avait là un continent ou tout au moins une île, dont l\'étendue devait être considérable.
+
+Dans le sens de l\'est, cette terre se prolongeait à perte de vue, et il ne semblait pas que sa dernière limite fût de ce côté.
+
+Vers l\'ouest, un cap assez aigu, surmonté d\'un morne, dont la silhouette figurait une énorme tête de phoque, en formait l\'extrémité. Puis, au-delà, la mer paraissait largement s\'étendre.
+
+Il n\'était pas un de nous qui ne se rendît compte de la situation. Accoster cette terre, cela dépendait du courant, de lui seul : ou il porterait l\'iceberg vers un remous qui le drosserait à la côte, ou il continuerait à l\'entraîner vers le nord.
+
+Quelle était l\'hypothèse la plus admissible ?\...
+
+
+« Après tout, nous dit le capitaine Len Guy, si elle est habitable pendant les mois de la saison d\'été, il ne semble point qu\'elle possède des habitants, puisque nous n\'apercevons aucun être humain sur le littoral.
+
+--- Observons, capitaine, répondis-je, que l\'iceberg n\'est pas de nature à provoquer l\'attention comme l\'eût fait notre goélette !
+
+--- Évidemment, monsieur Jeorling, et *l\'Halbrane* aurait déjà attiré des indigènes\... s\'il y en avait !
+
+--- De ce que nous n\'en voyons pas, capitaine, il ne faudrait pas conclure\...
+
+--- Assurément, monsieur Jeorling, répliqua le capitaine Len Guy. Vous conviendrez seulement que l\'aspect de cette terre n\'est point celui de l\'île Tsalal à l\'époque où la *Jane* l\'avait accostée. On y distinguait alors des collines verdoyantes, des forêts épaisses, des arbres en pleine floraison, de vastes pâturages\... et ici, à première vue, il n\'y a que désolation et stérilité !\...
+
+--- J\'en conviens, stérilité et désolation, c\'est toute cette terre !\... Je vous demanderai, cependant, si votre intention n\'est pas d\'y débarquer, capitaine ?\...
+
+--- Avec le canot ?\...
+
+--- Avec le canot, dans le cas où le courant en éloignerait notre iceberg.
+
+--- Nous n\'avons pas une heure à perdre, monsieur Jeorling, et quelques jours de relâche pourraient nous condamner à un hivernage cruel, si nous arrivions trop tard pour franchir les passes de la banquise\...
+
+--- Et, étant donné son éloignement, nous ne sommes pas en avance, fit observer Jem West.
+
+--- Je l\'accorde, répondis-je en insistant. Mais s\'éloigner de cette terre sans y avoir mis le pied, sans nous être assurés si elle n\'a pas conservé les traces d\'un campement, si votre frère, capitaine\... ses compagnons\... »
+
+En m\'écoutant, le capitaine Len Guy secouait la tête. Ce n\'était pas l\'apparition de cette côte aride qui pouvait lui rendre l\'espoir, ces longues plaines infertiles, ces collines décharnées, ce littoral bordé par un cordon de roches noirâtres\... Comment des naufragés eussent-ils trouvé à y vivre depuis quelques mois ?\...
+
+D\'ailleurs, nous avions arboré le pavillon britannique que la brise déployait à la cime de l\'iceberg. William Guy l\'eût reconnu, et il se fût déjà précipité vers le rivage.
+
+Personne\... personne !
+
+En ce moment, Jem West, qui venait de relever certains points de repère, dit :
+
+« Patientons avant de prendre une décision. En moins d\'une heure, nous serons fixés à ce sujet. Notre marche me paraît s\'être ralentie, et il est possible qu\'un remous nous ramène obliquement vers la côte\...
+
+--- C\'est mon avis, déclara le bosseman, et, si notre machine flottante n\'est pas stationnaire, il s\'en faut de peu !\... On dirait qu\'elle tourne sur elle-même\... »
+
+Jem West et Hurliguerly ne se trompaient pas. Pour une raison ou pour une autre, l\'iceberg tendait à sortir de ce courant qu\'il avait constamment suivi. Un mouvement de giration avait succédé au mouvement de dérive, grâce à l\'action d\'un remous qui portait vers le littoral.
+
+En outre, quelques montagnes de glace, en avant de nous, venaient de s\'échouer sur les bas-fonds du rivage.
+
+Donc, il était inutile de discuter, s\'il y avait lieu ou non de mettre le canot à la mer.
+
+À mesure que nous approchions, la désolation de cette terre s\'accentuait encore, et la perspective d\'y subir six mois d\'hivernage aurait rempli d\'épouvante les cœurs les plus résolus.
+
+Bref, vers cinq heures de l\'après-midi, l\'iceberg pénétra dans une profonde échancrure de la côte, terminée à droite par une longue pointe, contre laquelle il ne tarda pas à s\'immobiliser.
+
+« À terre !\... À terre !\... »
+
+Ce cri s\'échappa de toutes les bouches.
+
+L\'équipage descendait déjà les talus de l\'iceberg, lorsque Jem West commanda :
+
+« Attendez l\'ordre ! »
+
+Il se manifesta quelque hésitation, -- surtout de la part de Hearne et de plusieurs de ses camarades. Puis l\'instinct de la discipline domina, et finalement tous vinrent se ranger autour du capitaine Len Guy.
+
+Il ne fut pas nécessaire de mettre le canot à la mer, l\'iceberg se trouvant en contact avec la pointe.
+
+Le capitaine Len Guy, le bosseman et moi, précédant les autres, nous fûmes les premiers à quitter le campement, et notre pied foula cette nouvelle terre, -- vierge sans doute de toute empreinte humaine\...
+
+Le sol volcanique était semé de débris pierreux, de fragments de laves, d\'obsidiennes, de pierres ponces, de scories. Au-delà du cordon sablonneux de la grève, il allait en montant vers la base de hautes et âpres collines, qui formaient l\'arrière-plan à un demi-mille du littoral.
+
+Il nous parut indiqué de gagner l\'une de ces collines, d\'une altitude de douze cents pieds environ. De son sommet, le regard pourrait embrasser un large espace, soit de terre, soit de mer, dans toutes les directions.
+
+Il fallut marcher pendant vingt minutes sur un sol rude et tourmenté, dépourvu de végétation. Rien ne rappelait les fertiles prairies de l\'île Tsalal, avant que le tremblement de terre l\'eût bouleversée, ni ces forêts épaisses dont parle Arthur Pym, ni ces rios aux eaux étranges, ni ces escarpements de terre savonneuse, ni ces massifs de stéatite où se creusait l\'hiéroglyphique labyrinthe. Partout des roches d\'origine ignée, des laves durcies, des scories poussiéreuses, des cendres grisâtres, et pas même ce qu\'il aurait fallu d\'humus aux plantes rustiques les moins exigeantes.
+
+Ce n\'est pas sans difficultés et sans risques que le capitaine Len Guy, le bosseman et moi, nous parvînmes à faire l\'ascension de la colline, -- ce qui nous prit une grande heure. Bien que le soir fût arrivé, il n\'entraînait aucune obscurité à sa suite, puisque le soleil ne disparaissait pas encore derrière cet horizon de l\'Antarctide.
+
+Du sommet de la colline, la vue s\'étendait jusqu\'à trente ou trente-cinq milles, et voici ce qui apparut à nos yeux.
+
+En arrière, se développait la mer libre, charriant nombre d\'autres montagnes flottantes dont quelques-unes venaient de s\'entasser récemment contre le littoral, et qui le rendaient presque inabordable.
+
+À l\'ouest, courait une terre très accidentée, dont on ne voyait pas l\'extrémité, et que baignait à l\'est une mer sans limites.
+
+Étions-nous sur une grande île ou sur le continent antarctique, il eût été impossible de résoudre la question.
+
+Il est vrai, en fixant plus attentivement dans la direction de l\'est la lorgnette marine, le capitaine Len Guy crut apercevoir quelques vagues contours, qui s\'estompaient entre les légères brumes du large.
+
+« Voyez », dit-il.
+
+Le bosseman et moi, nous prîmes tour à tour l\'instrument et nous regardâmes avec soin.
+
+« Il me semble bien, dit Hurliguerly, qu\'il y a là comme une apparence de côte\...
+
+--- Je le pense aussi, répondis-je.
+
+--- C\'est donc bien un détroit, à travers lequel nous a conduits la dérive, conclut le capitaine Len Guy.
+
+--- Un détroit, ajouta le bosseman, que le courant parcourt du nord au sud, puis du sud au nord\...
+
+--- Alors ce détroit couperait donc en deux le continent polaire ?\... demandai-je.
+
+--- Nul doute à cet égard, répondit le capitaine Len Guy.
+
+--- Ah ! si nous avions notre *Halbrane !* » s\'écria Hurliguerly.
+
+Oui\... à bord de la goélette --- et même sur cet iceberg, maintenant à la côte comme un navire désemparé ---, nous aurions pu remonter encore de quelques centaines de milles\... peut-être jusqu\'à la banquise\... peut-être jusqu\'au cercle antarctique\... peut-être jusqu\'aux terres avoisinantes !\... Mais nous ne possédions qu\'un fragile canot, pouvant à peine contenir une douzaine d\'hommes, et nous étions vingt-trois !\...
+
+Il n\'y avait plus qu\'à redescendre vers le rivage, à regagner notre campement, à transporter les tentes sur le littoral, à prendre toutes mesures en vue d\'un hivernage que les circonstances allaient nous imposer.
+
+Il va de soi que le sol ne portait aucune empreinte de pas humains, ni aucun vestige d\'habitat. Que les survivants de la *Jane* n\'eussent point mis les pieds sur cette terre, sur ce « domaine inexploré », comme le qualifiaient les cartes les plus modernes, nous pouvions désormais l\'affirmer. J\'ajouterai ni eux, ni personne, et ce n\'était pas encore cette côte où Dirk Peters retrouverait les traces d\'Arthur Pym !
+
+Et cela résultait également de la quiétude que montraient les seuls êtres vivants de cette contrée qui ne s\'effrayaient point de notre présence. Ni les phoques ni les morses ne plongeaient sous les eaux, les pétrels et les cormorans ne s\'enfuyaient pas à tire-d\'aile, les pingouins restaient en rangées immobiles, voyant, sans doute, en nous des volatiles d\'une espèce particulière. Oui !\... c\'était bien la première fois que l\'homme apparaissait à leurs regards, -- preuve qu\'ils n\'abandonnaient jamais cette terre pour s\'aventurer sous de plus basses latitudes.
+
+De retour au rivage, le bosseman découvrit -- non sans une certaine satisfaction -- plusieurs spacieuses cavernes évidées dans les falaises granitiques, assez grandes, les unes pour nous loger tous, les autres pour abriter la cargaison de l\'*Halbrane.* Quelle que fût la décision que nous aurions à prendre ultérieurement, nous ne pouvions faire mieux que d\'y emmagasiner notre matériel et de procéder à une première installation.
+
+Après avoir remonté les pentes de l\'iceberg jusqu\'au campement, le capitaine Len Guy donna ordre à ses hommes de se réunir. Pas un ne manqua, --- si ce n\'est Dirk Peters, qui avait décidément rompu toute relation avec l\'équipage. En ce qui le concernait, au surplus, il n\'y avait, ni sur l\'état de son esprit, ni sur son attitude en cas de rébellion, aucune crainte à concevoir. Il serait avec les fidèles contre les révoltés, et nous devions en n\'importe quelles circonstances compter sur lui.
+
+Lorsque le cercle eut été formé, le capitaine Len Guy s\'exprima, sans laisser voir aucun symptôme de découragement. Parlant à ses compagnons, il leur chiffra la situation\... jusqu\'aux décimales, pourrait-on dire. Nécessité qui s\'imposait, d\'abord, de descendre la cargaison à terre, et d\'aménager une des cavernes du littoral. Sur la question de la nourriture, affirmation que les vivres, farine, viande de conserve, légumes secs, suffiraient à toute la durée de l\'hiver, si long qu\'il pût être, et quelle que fût sa rigueur. Relativement à la question du combustible, déclaration que le charbon ne manquerait pas, à la condition de ne point le gaspiller, et il serait possible de le ménager, puisque, sous le tapis de neige et le couvert des glaces, les hiverneurs peuvent braver les grands froids de la zone polaire.
+
+Sur ces deux questions, le capitaine Len Guy donna donc des réponses de nature à bannir toute inquiétude. Son assurance était-elle feinte\... je ne le crus pas, d\'autant que Jem West approuva ce langage.
+
+Restait une troisième question, --- grosse, celle-là, de pour et de contre, bien faite pour provoquer les jalousies et les colères de l\'équipage, et qui fut soulevée par le sealing-master.
+
+Il s\'agissait, en effet, de décider de quelle façon serait employée l\'unique embarcation dont nous pouvions disposer. Convenait-il de la garder pour les besoins de l\'hivernage, ou de s\'en servir pour revenir vers la banquise ?\...
+
+Le capitaine Len Guy ne voulut point se prononcer. Il demanda seulement que la décision fût remise à vingt-quatre ou à quarante-huit heures. On ne devait pas oublier que le canot, chargé des provisions nécessaires à une assez longue traversée, ne pouvait contenir que onze à douze hommes. Il y avait donc lieu de procéder à l\'installation de ceux qui resteraient sur cette côte, si le départ du canot s\'effectuait, et dans ce cas, on tirerait ses passagers au sort.
+
+Le capitaine Len Guy déclara alors que ni Jem West, ni le bosseman, ni moi, ni lui, nous ne réclamerions aucun privilège et subirions la loi commune. L\'un comme l\'autre, les deux maîtres de l\'*Halbrane,* Martin Holt ou Hardie, étaient parfaitement capables de conduire le canot jusqu\'aux lieux de pêche, que les baleiniers n\'auraient peut-être pas encore quittés.
+
+Au surplus, ceux qui partiraient n\'oublieraient pas ceux qu\'ils laisseraient en hivernage sur ce 86^e^ parallèle, et, au retour de la saison d\'été, ils enverraient un navire afin de recueillir leurs compagnons\...
+
+Tout ceci fut dit -- je le répète -- d\'un ton aussi calme que ferme. Je dois lui rendre cette justice, le capitaine Len Guy grandissait avec la gravité des circonstances.
+
+Lorsqu\'il eut achevé --- n\'ayant point été interrompu, pas même par Hearne ---, personne ne fit entendre la moindre observation. À propos de quoi s\'en fût-il produit, puisque, le cas échéant, on s\'en remettrait au sort dans des conditions parfaites d\'égalité ?
+
+L\'heure du repos venue, chacun rentra au campement, prit sa part du souper préparé par Endicott, et s\'endormit pour la dernière nuit sous les tentes.
+
+Dirk Peters n\'avait pas reparu, et ce fut vainement que je cherchai à le rejoindre.
+
+Le lendemain --- 7 février ---, on se mit courageusement à la besogne.
+
+Le temps était beau, la brise faible, le ciel légèrement brumeux, la température supportable, 46° (7° 78 C. sur zéro).
+
+En premier lieu, le canot fut descendu à la base de l\'iceberg avec toutes les précautions que cette opération exigeait. De là, les hommes le tirèrent au sec sur une petite grève sablonneuse à l\'abri du ressac. En parfait état, on pouvait compter qu\'il se prêterait à un bon service.
+
+Le bosseman s\'occupa ensuite de la cargaison ainsi que du matériel provenant de l\'*Halbrane,* mobilier, literie, voilure, vêtements, instruments, ustensiles. Au fond d\'une caverne, ces objets ne seraient plus exposés au chavirement ou à la démolition de l\'iceberg. Les caisses de conserves, les sacs de farine et de légumes, les fûts de vin, de whisky, de gin et de bière, déhalés au moyen de palans du côté de la pointe, qui se projetait à l\'est de la crique, furent transportés sur le littoral.
+
+J\'avais mis la main à l\'ouvrage tout comme le capitaine Len Guy et le lieutenant, car ce travail de la première heure ne souffrait aucun retard.
+
+Je dois mentionner que Dirk Peters vint, ce jour-là, donner un coup de main, mais il n\'adressa la parole à personne.
+
+Avait-il renoncé ou non à l\'espoir de retrouver Arthur Pym\... je ne savais que penser.
+
+Les 8, 9 et 10 février, on s\'occupa de l\'installation qui fut achevée dans l\'après-midi de ce dernier jour. La cargaison avait trouvé place à l\'intérieur d\'une large grotte, où l\'on accédait par une étroite ouverture. Elle confinait à celle que nous devions habiter, et dans laquelle, sur le conseil du bosseman, Endicott établit sa cuisine. De cette façon, nous profiterions de la chaleur du fourneau, qui servirait à la cuisson des aliments et au chauffage de la caverne pendant ces longues journées ou plutôt cette longue nuit de l\'hiver austral.
+
+Déjà, depuis le 8 au soir, nous avions pris possession de cette caverne, aux parois sèches, au tapis de sable fin, suffisamment éclairée par son orifice.
+
+Située près d\'une source à l\'amorce même de la pointe avec le littoral, son orientation devait l\'abriter contre les redoutables rafales, les tourmentes de neige de la mauvaise saison. D\'une contenance supérieure à celles qu\'offraient les roufs et les postes de la goélette, elle avait pu recevoir, ainsi que la literie, divers meubles, tables, armoires, sièges, mobilier suffisant pour quelques mois d\'hivernage.
+
+Alors que l\'on travaillait à cette installation, je ne surpris rien de suspect dans l\'attitude de Hearne et des Falklandais. Tous firent preuve de soumission à la discipline et déployèrent une louable activité. Néanmoins, le métis fut maintenu à la garde du canot, dont il aurait été facile de s\'emparer sur la grève.
+
+Hurliguerly, qui surveillait particulièrement le sealing-master et ses camarades, paraissait plus rassuré au sujet de leurs dispositions actuelles.
+
+Dans tous les cas, il ne fallait pas tarder à prendre une décision relativement au départ --- s\'il devait avoir lieu --- de ceux qui seraient désignés par le sort. En effet, nous étions au 10 février. Encore un mois ou six semaines, la campagne de pêche serait terminée dans le voisinage du cercle antarctique. Or, s\'il n\'y rencontrait plus les baleiniers, en admettant qu\'il eût heureusement franchi la banquise et le cercle polaire, notre canot n\'aurait pu affronter le Pacifique jusqu\'aux rivages de l\'Australie ou de la Nouvelle-Zélande.
+
+Ce soir-là, après avoir réuni tout son monde, le capitaine Len Guy déclara que la question serait discutée le lendemain, ajoutant que, si elle était résolue d\'une manière affirmative, le sort serait immédiatement consulté.
+
+Cette proposition n\'amena aucune réponse, et, à mon avis, on n\'aurait de sérieuse discussion que pour décider si, oui ou non, le départ s\'effectuerait.
+
+Il était tard. Une demi-obscurité régnait au-dehors, car, à cette date, le soleil se traînait déjà au ras de l\'horizon, sous lequel il allait bientôt disparaître.
+
+Je m\'étais jeté sur ma couchette tout habillé, et je dormais depuis plusieurs heures, lorsque je fus réveillé par des cris qui éclatèrent à petite distance.
+
+D\'un bond, je me relevai, et m\'élançai hors de la caverne en même temps que le lieutenant et le capitaine Len Guy, tirés comme moi de leur sommeil.
+
+« Le canot\... le canot !\... » s\'écria tout à coup Jem West.
+
+Le canot n\'était plus à sa place, à l\'endroit où le gardait Dirk Peters.
+
+Après l\'avoir lancé à la mer, trois hommes s\'y étaient embarqués avec des fûts et des caisses, tandis que dix autres essayaient de maîtriser le métis.
+
+Hearne était là, et aussi Martin Holt, qui, me sembla-t-il, ne cherchait pas à intervenir.
+
+Ainsi donc, ces misérables voulaient s\'emparer de l\'embarcation et partir avant que le sort eût prononcé !\... Ils voulaient nous abandonner !\...
+
+En effet, ils étaient parvenus à surprendre Dirk Peters, et ils l\'auraient tué, s\'il n\'eût défendu sa vie dans une lutte terrible.
+
+En présence de cette révolte, connaissant notre infériorité numérique, ne sachant s\'il pouvait compter sur tous les anciens du bord, le capitaine Len Guy et le lieutenant rentrèrent dans la caverne afin d\'y prendre des armes pour réduire à l\'impuissance Hearne et ses complices qui étaient armés.
+
+J\'allais faire comme eux, lorsque ces paroles me clouèrent soudain sur place.
+
+Accablé par le nombre, le métis venait d\'être enfin terrassé. Mais, à cet instant, comme Martin Holt, par reconnaissance envers l\'homme qui lui avait sauvé la vie, s\'élançait à son secours, Hearne lui cria :
+
+« Laisse-le donc\... et viens avec nous ! »
+
+Le maître-voilier parut hésiter\...
+
+« Oui\... laisse-le, reprit Hearne\... laisse Dirk Peters\... qui est l\'assassin de ton frère Ned !\...
+
+--- L\'assassin de mon frère !\... s\'écria Martin Holt.
+
+--- Ton frère tué à bord du *Grampus\...*
+
+--- Tué\... par Dirk Peters !\...
+
+--- Oui !\... tué\... et mangé\... mangé\... mangé ! \... » répéta Heame, qui hurlait plutôt qu\'il ne prononçait ces horribles mots.
+
+Et, sur un signe, deux de ses camarades se saisirent de Martin Holt, et ils le transportèrent dans l\'embarcation, prête à déborder.
+
+Hearne s\'y précipita à sa suite avec tous ceux qu\'il avait associés à cet acte abominable.
+
+En ce moment, Dirk Peters se releva d\'un bond, s\'abattit sur l\'un des Falklandais à l\'instant où cet homme enjambait le plat-bord du canot, l\'enleva à bout de bras, et le faisant tournoyer au-dessus de sa tête lui brisa le crâne contre une roche\...
+
+Un coup de pistolet retentit\... Le métis, frappé à l\'épaule par la balle de Heame, tomba sur la grève, tandis que l\'embarcation était vigoureusement repoussée au large.
+
+Le capitaine Len Guy et Jem West sortaient alors de la caverne --- toute cette scène avait à peine duré quarante secondes --, et ils accoururent sur la pointe en même temps que le bosseman, le maître Hardie, les matelots Francis et Stem.
+
+Le canot, que le courant entraînait, se trouvait déjà à une encablure, la marée descendant avec rapidité.
+
+Jem West épaula son fusil, fit feu, et l\'un des matelots fut renversé au fond de l\'embarcation.
+
+Un second coup, tiré par le capitaine Len Guy, effleura la poitrine du sealing-master et la balle alla se perdre contre les blocs, à l\'instant où le canot disparaissait derrière l\'iceberg.
+
+Il n\'y avait plus qu\'à se porter sur l\'autre côté de la pointe, dont le courant rapprocherait sans doute ces misérables avant de les entraîner dans la direction du nord\... S\'ils passaient à portée de fusil, si un second coup de feu atteignait le sealing-master\... lui mort ou blessé, peut-être ses compagnons se décideraient-ils à revenir ?\...
+
+Un quart d\'heure s\'écoula\...
+
+Lorsque l\'embarcation se montra au revers de la pointe, c\'était à une telle distance que nos armes n\'auraient pu l\'atteindre.
+
+Déjà Hearne avait fait hisser la voile, et, poussé à la fois par le courant et la brise, le canot ne fut bientôt plus qu\'un point blanc qui ne tarda pas à disparaître.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730037 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729109 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728181 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727594 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726666 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 13 -- Dirk Peters à la mer]{#_Toc349724350 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-13-dirk-peters-à-la-mer .calibre171 .sigil_not_in_toc}
+
+La question de l\'hivernage était tranchée. Des trente-trois hommes embarqués sur l\'*Halbrane* à son départ des Falklands, vingt-trois étaient arrivés sur cette terre, et, de ceux-là, treize venaient de s\'enfuir afin de regagner les parages de pêche au-delà de la banquise\... Et ce n\'était pas le sort qui les avait désignés !\... Non !\... Afin d\'échapper aux horreurs d\'un hivernage, ils avaient déserté lâchement !
+
+Par malheur, Hearne n\'avait pas seulement entraîné ses camarades. Deux des nôtres, le matelot Burry et le maître-voilier Martin Holt, s\'étaient joints à lui, -- Martin Holt, ne se rendant peut-être pas compte de ses actes sous le coup de l\'effroyable révélation que le sealing-master venait de lui faire !\...
+
+En somme, la situation n\'était pas changée pour ceux que le sort n\'eût pas destinés à partir. Nous n\'étions plus que neuf, --- le capitaine Len Guy, le lieutenant Jem West, le bosseman Hurliguerly, le maître-calfat Hardie, le cuisinier Endicott, les deux matelots Francis et Stem, Dirk Peters et moi. Quelles épreuves nous réservait cet hivernage, alors que s\'approchait l\'effroyable hiver des pôles !\... Quels terribles froids aurions-nous à subir, -- plus rigoureux qu\'en aucun autre point du globe terrestre, enveloppés d\'une nuit permanente de six mois !\... On ne pouvait, sans épouvante, songer à ce qu\'il faudrait d\'énergie morale et physique pour résister dans ces conditions si en dehors de l\'endurance humaine !\...
+
+Et, cependant, tout compte fait, les chances de ceux qui nous avaient quittés étaient-elles meilleures ?\... Trouveraient-ils la mer libre jusqu\'à la banquise ?\... Parviendraient-ils à gagner le cercle antarctique ?\... Et, au-delà, rencontreraient-ils les derniers navires de la saison ?\... Les provisions ne leur manqueraient-elles pas au cours d\'une traversée d\'un millier de milles ?\... Qu\'avait pu emporter ce canot déjà trop chargé de treize personnes ?\... Oui\... lesquels étaient les plus menacés, d\'eux ou de nous ?\... Question à laquelle seul l\'avenir pouvait répondre !
+
+Lorsque l\'embarcation eut disparu, le capitaine Len Guy et ses compagnons, remontant la pointe, revinrent vers la caverne. Enveloppés de l\'interminable nuit, c\'était là que nous allions passer tout ce temps pendant lequel il nous serait interdit de mettre le pied au-dehors !
+
+Je songeai tout d\'abord à Dirk Peters, resté en arrière, après le coup de feu tiré par Hearne, tandis que nous nous hâtions à regagner l\'autre côté de la pointe.
+
+Revenu à la caverne, je n\'aperçus pas le métis. Avait-il donc été blessé grièvement ?\... Aurions-nous à regretter la mort de cet homme qui nous était fidèle comme il l\'était à son pauvre Pym ?\...
+
+J\'espérais -- nous espérions tous -- que sa blessure n\'offrait pas de gravité. Encore était-il nécessaire de la soigner, et Dirk Peters avait disparu.
+
+« Mettons-nous à sa recherche, monsieur Jeorling, s\'écria le bosseman\...
+
+--- Allons\... répondis-je.
+
+--- Nous irons ensemble, dit le capitaine Len Guy. Dirk Peters était des nôtres\... Jamais il ne nous eût abandonnés, et nous ne l\'abandonnerons pas !
+
+--- Le malheureux voudra-t-il revenir, fis-je observer, maintenant que l\'on sait ce que je croyais n\'être su que de lui et de moi ?\... »
+
+J\'appris à mes compagnons pourquoi, dans le récit d\'Arthur Pym, le nom de Ned Holt avait été changé en celui de Parker et en quelles circonstances le métis m\'en avait informé. Et, d\'ailleurs, je fis valoir tout ce qui était à sa décharge.
+
+« Hearne, déclarai-je, a dit que Dirk Peters avait frappé Ned Holt !\... Oui !\... c\'est vrai !\... Ned Holt était embarqué sur le *Grampus,* et son frère, Martin Holt, a pu croire qu\'il avait péri soit dans la révolte, soit dans le naufrage. Eh bien, non !\... Ned Holt avait survécu avec Auguste Barnard, Arthur Pym, le métis, et, bientôt, tous quatre furent en proie aux tortures de la faim\... Il fallut sacrifier l\'un d\'eux\... celui que le sort désignerait\... On tira à la courte paille\... Ned Holt eut la mauvaise chance\... Il tomba sous le couteau de Dirk Peters\... Mais si le métis eût été désigné par le sort, c\'est lui qui aurait servi de proie aux autres ! »
+
+Le capitaine Len Guy fit alors cette observation :
+
+« Dirk Peters n\'avait confié ce secret qu\'à vous seul, monsieur Jeorling\...
+
+--- À moi seul, capitaine\...
+
+--- Et vous l\'avez gardé ?\...
+
+--- Absolument.
+
+--- Je ne m\'explique pas alors comment il a pu venir à la connaissance de Hearne\...
+
+--- J\'avais d\'abord pensé, répondis-je, que Dirk Peters avait pu parler pendant son sommeil, et que c\'était au hasard que le sealing-master devait de connaître ce secret. Après réflexions, je me suis rappelé la circonstance que voici : lorsque le métis me raconta cette scène du *Grampus,* lorsqu\'il m\'apprit que Parker n\'était autre que Ned Holt, il se trouvait dans ma cabine dont le châssis latéral était relevé\... Or, j\'ai lieu de croire que notre conversation a été surprise par l\'homme qui se trouvait alors à la barre\... Et, cet homme, c\'était précisément Heame, qui, pour mieux entendre, sans doute, avait abandonné la roue, si bien que l\'*Halbrane* fit une embardée\...
+
+--- Je m\'en souviens, dit Jem West, j\'interpellai vivement le misérable et l\'envoyai à fond de cale.
+
+--- Eh bien, capitaine, repris-je, c\'est à partir de ce jour que Hearne se lia davantage avec Martin Holt, -- Hurliguerly me l\'avait fait remarquer\...
+
+--- Parfaitement, répondit le bosseman, car Hearne, n\'étant pas capable de diriger le canot dont il songeait à s\'emparer, avait besoin d\'un maître comme Martin Holt\...
+
+--- Aussi, repris-je, ne cessa-t-il plus d\'exciter Martin Holt à questionner le métis sur le sort de son frère, et vous savez dans quelles conditions il lui apprit cet effroyable secret\... Martin Holt fut comme affolé par cette révélation\... Les autres l\'entraînèrent\... et maintenant, il est avec eux ! »
+
+
+Tous, immédiatement, nous avons quitté la caverne, et, après une heure, nous rejoignîmes le métis.
+
+Dès qu\'il nous aperçut, son premier mouvement fut de s\'enfuir. Enfin Hurliguerly et Francis parvinrent à l\'approcher et il ne fit aucune résistance. Je lui parlai\... les autres m\'imitèrent\... le capitaine Len Guy lui tendit la main\... Tout d\'abord il hésita à la prendre. Puis, sans prononcer un seul mot, il revint vers la grève.
+
+De ce jour, il ne fut plus jamais question entre lui et nous de ce qui s\'était passé à bord du *Grampus.*
+
+Quant à la blessure de Dirk Peters, il n\'y eut pas à s\'en inquiéter. La balle n\'avait fait que pénétrer dans la partie supérieure de son bras gauche, et, rien que par la pression de la main, il était parvenu à l\'en faire sortir. Un morceau de toile à voile ayant été appliqué sur la plaie, il endossa sa vareuse, et, dès le lendemain, sans qu\'il parût en être autrement gêné, il se remit à ses occupations habituelles.
+
+L\'installation fut organisée en vue d\'un long hivernage. L\'hiver menaçait, et, depuis quelques jours, c\'est à peine si le soleil se montrait à travers les brumes. La température tomba à 36° (2° 22 C. sur zéro) et ne devait plus se relever. Les rayons solaires, en allongeant démesurément les ombres sur le sol, ne donnaient pour ainsi dire aucune chaleur. Le capitaine Len Guy nous avait fait prendre de chauds vêtements de laine, sans attendre que le froid devînt plus rigoureux.
+
+Entre-temps, les icebergs, les packs, les streams, les drifts, venaient du sud en plus grand nombre. Si quelques-uns se jetaient encore sur le littoral déjà encombré de glaces, la plupart disparaissaient dans la direction du nord-est.
+
+« Tous ces morceaux-là, me dit le bosseman, c\'est autant de matériaux pour consolider la banquise. Pour peu que le canot de ce gueux de Hearne ne les devance pas, j\'imagine que ses gens et lui trouveront la porte fermée, et comme ils n\'auront pas de clef pour l\'ouvrir\...
+
+--- Ainsi, Hurliguerly, demandai-je, vous pensez que nous courons moins de dangers à hiverner sur cette côte que si nous avions pris place dans l\'embarcation ?\...
+
+--- Je le pense et l\'ai toujours pensé, monsieur Jeorling ! répondit le bosseman. Et puis, savez-vous une chose ?\... ajouta-t-il en employant sa formule habituelle.
+
+--- Dites, Hurliguerly.
+
+--- Eh bien, c\'est que ceux qui montent le canot seront plus embarrassés que ceux qui ne le montent pas, et, je vous le répète, si le sort m\'avait désigné, j\'aurais cédé mon tour à un autre !\... Voyez-vous, c\'est déjà quelque chose que de sentir une terre solide sous son pied !\... Après tout, bien que nous ayons été lâchement abandonnés, je ne veux la mort de personne\... Mais si Hearne et les autres ne parviennent pas à franchir la banquise, s\'ils sont condamnés à passer l\'hiver au milieu des glaces, réduits à ces vivres dont ils n\'ont que pour quelques semaines, vous savez le sort qui les attend !
+
+--- Oui\... pire que le nôtre ! répondis-je.
+
+--- Et j\'ajoute, dit le bosseman, qu\'il ne suffit pas d\'atteindre le cercle antarctique, et si les baleiniers ont déjà quitté les lieux de pêche, ce n\'est pas une embarcation chargée et surchargée qui pourra tenir la mer jusqu\'en vue des terres australiennes ! »
+
+C\'était bien mon avis, comme aussi l\'avis du capitaine Len Guy et de Jem West. Servi par une navigation favorable, ne portant que ce qu\'il pouvait porter, assuré de provisions durant plusieurs mois, enfin avec toutes les chances, peut-être le canot aurait-il été dans des conditions à effectuer ce voyage\... En était-il ainsi ?\... Non, assurément.
+
+Pendant les jours suivants, 14, 15, 16 et 17 février, on acheva l\'installation du personnel et du matériel.
+
+Quelques excursions furent faites à l\'intérieur du pays. Le sol présentait partout la même aridité, ne produisant que ces raquettes épineuses qui poussent dans le sable et dont les grèves étaient abondamment pourvues.
+
+Si le capitaine Len Guy eût conservé un dernier espoir à l\'égard de son frère et des matelots de la *Jane,* s\'il s\'était dit qu\'après avoir pu quitter l\'île Tsalal avec une embarcation, les courants les avaient conduits jusqu\'à cette côte, il dut reconnaître qu\'il n\'y existait aucune trace d\'un débarquement.
+
+Une de nos excursions nous amena environ à quatre milles au pied d\'une montagne d\'accès pas difficile, grâce à la longue obliquité de ses pentes, et dont l\'altitude mesurait de six à sept cents toises.
+
+De cette excursion que firent le capitaine Len Guy, le lieutenant, le matelot Francis et moi, il ne résulta aucune découverte. Vers le nord et vers l\'ouest se déroulait la même succession de collines dénudées, capricieusement découpées à leur cime, et, lorsqu\'elles disparaîtraient sous l\'immense tapis de neige, il serait difficile de les distinguer des icebergs immobilisés par le froid à la surface de la mer.
+
+Cependant, à propos de ce que nous avions pris pour des apparences de terre à l\'est, nous eûmes à constater qu\'en cette direction s\'étendait une côte dont les hauteurs, éclairées par le soleil de l\'après-midi, apparurent assez nettement dans l\'objectif de la longue-vue marine.
+
+Était-ce un continent qui bordait ce côté du détroit, n\'était-ce qu\'une île ?\... Dans tous les cas, l\'un ou l\'autre devaient être frappés de stérilité comme la terre de l\'ouest, et, comme elle, inhabités, inhabitables.
+
+Et lorsque mes pensées revenaient à l\'île Tsalal, dont le sol possédait une puissance de végétation si extraordinaire, lorsque je me reportais aux descriptions d\'Arthur Pym, je ne savais qu\'imaginer. Évidemment, cette désolation dont s\'affligeaient nos regards reproduisait mieux l\'idée que l\'on se fait des régions australes. Pourtant, l\'archipel tsalalais, situé presque à la même latitude, était fertile et populeux, avant que le tremblement de terre l\'eût détruit en presque totalité.
+
+Le capitaine Len Guy, ce jour-là, fit la proposition de dénommer géographiquement cette contrée sur laquelle nous avait jetés l\'iceberg. Elle fut appelée Halbrane-Land, en souvenir de notre goélette. En même temps, afin de les associer dans un même souvenir, le nom de Jane-Sund fut donné au détroit qui séparait les deux parties du continent polaire.
+
+On s\'occupa alors de chasser les pingouins, qui pullulaient sur les roches, et aussi de capturer un certain nombre de ces amphibies qui s\'ébattaient le long des grèves. Le besoin de viande fraîche se faisait sentir. Accommodée par Endicott, la chair de phoque et de morse nous parut très acceptable. En outre, la graisse de ces animaux pouvait, à la rigueur, servir au chauffage de la caverne et à la cuisson des aliments. Ne point oublier que notre plus redoutable ennemi serait le froid, et tous les moyens propres à le combattre devaient être utilisés. Restait à savoir si, aux approches de l\'hiver, ces amphibies n\'iraient pas chercher sous de plus basses latitudes un climat moins rigoureux\...
+
+Par bonne chance, il y avait encore des centaines d\'autres animaux, qui auraient garanti notre petit monde contre la faim, et, au besoin, contre la soif. Sur les grèves rampaient nombre de ces tortues galapagos, auxquelles on a donné le nom d\'un archipel de l\'océan équinoxial. Telles étaient celles dont parle Arthur Pym et qui servaient à la nourriture des insulaires, telles celles que Dirk Peters et lui trouvèrent au fond du canot indigène, lors de leur départ de l\'île Tsalal.
+
+Énormes, ces chéloniens, à marche mesurée, lourde, lente, au cou grêle long de deux pieds, à la tête triangulaire de serpent, et qui peuvent rester des années sans manger. Ici, d\'ailleurs, à défaut de céleri, de persil et de pourpier sauvage, ils s\'alimentaient des raquettes qui végétaient entre les pierres du littoral.
+
+Si Arthur Pym s\'est permis de comparer aux dromadaires les tortues antarctiques, c\'est que, comme ces ruminants, elles ont, à la naissance du cou, une poche remplie d\'eau fraîche et douce, d\'une contenance de deux à trois gallons. D\'après son récit, avant la scène de la courte paille, c\'était à l\'une de ces tortues que les naufragés du *Grampus* devaient de n\'avoir succombé ni à la soif ni à la faim. À l\'en croire, il est de ces tortues de terre ou de mer qui pèsent de douze à quinze cents livres. Si celles d\'Halbrane-Land ne dépassaient pas sept à huit cents, leur chair n\'en était pas moins aussi nourrissante que savoureuse.
+
+Donc, et bien que nous fussions à la veille d\'hiverner à moins de cinq degrés du pôle, la situation, quelque rigoureux que dût être le froid, n\'était pas de nature à désespérer des cœurs fermes. La seule question -- dont je ne nie pas la gravité -- était celle du retour, dès que la mauvaise saison serait passée. Pour que cette question fût résolue, il fallait : 1° que nos compagnons, partis dans le canot, eussent réussi à se rapatrier ; 2° que leur premier soin eût été d\'envoyer un bâtiment à notre recherche. Et, sur ce point, à défaut des autres, nous pouvions espérer que Martin Holt ne nous oublierait pas. Mais ses camarades et lui parviendraient-ils à atteindre les terres du Pacifique à bord d\'un baleinier ?\... Et puis, la prochaine saison d\'été serait-elle propice à une navigation si avancée à travers les mers de l\'Antarctide ?\...
+
+Nous causions le plus souvent de ces bonnes et mauvaises chances. Entre tous, le bosseman continuait à se montrer confiant, grâce à son heureuse nature et à sa belle endurance. Le cuisinier Endicott partageait sa confiance, ou du moins ne s\'inquiétait guère des éventualités à venir, et cuisinait comme s\'il eût été devant le fourneau du Cor*moran-Vert.* Les matelots Stern et Francis écoutaient sans rien dire, et qui sait s\'ils ne regrettaient pas de n\'avoir point accompagné Hearne et ses compagnons !\... Quant au maître-calfat Hardie, il attendait les événements, sans chercher à deviner quelle tournure ils prendraient dans cinq ou six mois.
+
+Le capitaine Len Guy et le lieutenant, comme d\'habitude, étaient unis dans les mêmes pensées, les mêmes résolutions. Tout ce qui devrait être tenté pour le salut commun, ils le tenteraient. Peu rassurés sur le sort réservé au canot, peut-être songeaient-ils à essayer d\'un voyage vers le nord en traversant à pied les icefields, et pas un de nous n\'eût hésité à les suivre. Au surplus, l\'heure d\'une pareille tentative n\'était pas encore arrivée, et il serait temps de se décider, lorsque la mer serait solidifiée jusqu\'au cercle antarctique.
+
+Telle était donc la situation, et rien ne semblait devoir la modifier, lorsque, à la date du 19 février, se produisit un incident --- incident providentiel, dirai-je, pour ceux qui admettent l\'intervention de la Providence au cours des choses humaines.
+
+Il était huit heures du matin. Le temps était calme, le ciel assez clair, le thermomètre à 32° Fahrenheit (zéro C.).
+
+Réunis dans la caverne --- moins le bosseman ---, en attendant le déjeuner que venait d\'apprêter Endicott, nous allions nous asseoir à table, lorsqu\'une voix appela du dehors.
+
+Ce ne pouvait être que la voix d\'Hurliguerly, et comme ses appels se renouvelaient, nous sortîmes en toute hâte.
+
+Dès qu\'il nous aperçut :
+
+« Venez\... venez donc !\... » cria-t-il.
+
+Debout sur une roche, au pied du morne qui terminait Halbrane-Land au-delà de la pointe, il nous montrait la mer.
+
+« Qu\'y a-t-il donc ?\... demanda le capitaine Len Guy.
+
+--- Un canot.
+
+--- Un canot ?\... m\'écriai-je.
+
+--- Serait-ce celui de l\'*Halbrane* qui reviendrait ?\... demanda le capitaine Len Guy.
+
+--- Non\... ce n\'est pas lui !\... » répondit Jem West.
+
+En effet, une embarcation, que sa forme et ses dimensions ne permettaient pas de confondre avec celles de notre goélette, dérivait sans avirons ni pagaies.
+
+Il semblait bien qu\'elle fût abandonnée au courant\...
+
+Nous n\'eûmes qu\'une même idée -- s\'emparer à tout prix de cette embarcation qui assurerait peut-être notre salut\... Mais comment l\'atteindre, comment la ramener à cette pointe d\'Halbrane-Land ?\...
+
+Le canot était encore à un mille, et, en moins de vingt minutes, il arriverait par le travers du morne, puis il le dépasserait, car aucun remous ne s\'étendait au large, et en vingt autres minutes, il serait hors de vue\...
+
+Nous étions là, regardant l\'embarcation qui continuait à dériver sans se rapprocher du littoral. Au contraire, le courant tendait à l\'en éloigner.
+
+Soudain, un jaillissement d\'eau se produisit au pied du morne, comme si un corps fût tombé à la mer.
+
+C\'était Dirk Peters qui, débarrassé de ses vêtements, venait de se précipiter du haut d\'une roche, et, lorsque nous l\'aperçûmes à dix brasses déjà, il nageait dans la direction du canot.
+
+Un hurrah s\'échappa de nos poitrines.
+
+Le métis tourna un instant la tête, et, d\'une coupe puissante, bondit -- c\'est le mot -- à travers le léger clapotis des lames, ainsi que l\'eût fait un marsouin dont il possédait la force et la vitesse. Je n\'avais jamais rien vu de pareil, et que ne devait-on pas attendre de la vigueur d\'un tel homme !
+
+Dirk Peters parviendrait-il à atteindre l\'embarcation avant que le courant l\'eût emportée vers le nord-est ?\...
+
+Et s\'il l\'atteignait, parviendrait-il, sans avirons, à la ramener vers la côte dont elle s\'écartait, ainsi que le faisaient en passant la plupart des icebergs ?\...
+
+Après nos hurrahs, un encouragement jeté au métis, -- nous étions restés immobiles, nos cœurs battant à se rompre. Seul, le bosseman criait de temps en temps :
+
+« Va\... Dirk\... va ! »
+
+En quelques minutes, le métis eut gagné de plusieurs encablures dans un sens oblique vers le canot. On ne voyait plus sa tête que comme un point noir à la surface des longues houles. Rien n\'annonçait que la fatigue commençât à le prendre. Ses deux bras et ses deux jambes repoussaient l\'eau méthodiquement, et il maintenait sa vitesse sous l\'action régulière de ces quatre puissants propulseurs.
+
+Oui !\... cela ne paraissait plus douteux. Dirk Peters accosterait l\'embarcation\... Mais, ensuite, ne serait-il pas entraîné avec elle, à moins que --- tant sa force était prodigieuse, -- il ne pût, en nageant, la remorquer jusqu\'à la côte ?\...
+
+« Après tout, pourquoi n\'y aurait-il pas d\'avirons dans ce canot ?\... » fit observer le bosseman.
+
+Nous verrions bien, lorsque Dirk Peters serait à bord, et il fallait qu\'il y fût en quelques minutes, car le canot ne tarderait pas à le dépasser.
+
+« Dans tous les cas, dit alors Jem West, portons-nous en aval\... Si l\'embarcation atterrit, ce ne sera que très au-dessous du morne.
+
+--- Il l\'a\... il l\'a !\... Hurrah\... Dirk\... hurrah !\... » cria le bosseman, incapable de se contenir et auquel Endicott joignit son formidable écho.
+
+En effet, le métis, ayant accosté, venait de s\'élever à mi-corps le long du canot. Son énorme main le saisit, et, au risque de le faire chavirer, il se hissa sur le plat-bord, l\'enjamba, puis s\'assit pour reprendre haleine.
+
+Presque aussitôt un cri retentissant arriva jusqu\'à nous, poussé par Dirk Peters\...
+
+Qu\'avait-il donc trouvé au fond de cette embarcation ?\... C\'étaient des pagaies, car on le vit s\'installer à l\'avant, et, se mettant en direction du rivage, pagayer avec une nouvelle vigueur afin de sortir du courant.
+
+« Venez ! » dit le capitaine Len Guy.
+
+Et, dès que nous eûmes contourné la base du morne, nous voilà courant à la lisière de la grève entre les pierres noirâtres dont elle était semée.
+
+À trois ou quatre cents toises, le lieutenant nous fit arrêter.
+
+En effet, le canot avait rencontré l\'abri d\'une petite pointe qui se projetait en cet endroit, et il fut évident qu\'il viendrait y atterrir de lui-même.
+
+Or il n\'était plus qu\'à cinq ou six encablures et le remous l\'en rapprochait, lorsque Dirk Peters, abandonnant les pagaies, se baissa vers l\'arrière, puis se redressa, tenant un corps inerte.
+
+Quel cri déchirant se fit entendre !\...
+
+« Mon frère\... mon frère !\... »
+
+Len Guy venait de reconnaître William Guy dans ce corps que soulevait le métis.
+
+« Vivant\... vivant !\... » cria Dirk Peters.
+
+Un instant plus tard, le canot avait accosté, et le capitaine Len Guy pressait son frère entre ses bras\...
+
+Trois de ses compagnons gisaient inanimés au fond de l\'embarcation\...
+
+Et ces quatre hommes, c\'était tout ce qui restait de l\'équipage de la *Jane* !
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730038 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729110 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728182 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727595 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726667 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 14 -- Onze ans en quelques pages]{#_Toc349724351 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-14-onze-ans-en-quelques-pages .calibre171 .sigil_not_in_toc}
+
+Le titre donné à ce chapitre indique que les aventures de William Guy et de ses compagnons après la destruction de la goélette anglaise, les détails de leur existence sur l\'île Tsalal depuis le départ d\'Arthur Pym et de Dirk Peters, vont être très succinctement racontés.
+
+Transportés à la caverne, William Guy et les trois autres matelots, Trinkle, Roberts, Covin, avaient pu être rappelés à la vie. En réalité, c\'était la faim --- rien que la faim ---, qui avait réduit ces malheureux à un état de faiblesse voisin de la mort.
+
+Un peu de nourriture prise avec modération, et quelques tasses de thé brûlant additionné de whisky, leur rendirent presque aussitôt des forces.
+
+Je n\'insiste pas sur la scène d\'attendrissement dont nous fûmes émus jusqu\'au fond de l\'âme, lorsque William reconnut son frère Len. Les larmes nous vinrent aux yeux en même temps que les remerciements envers la Providence nous venaient aux lèvres. Ce que nous réservait l\'avenir, nous n\'y songions même pas, tout à la joie du présent, et qui sait si notre situation n\'allait pas changer, grâce à l\'arrivée de cette embarcation au rivage d\'Halbrane-Land ?\...
+
+Je dois dire que William Guy, avant d\'entamer son histoire, fut mis au courant de nos propres aventures. En peu de mots, il apprit ce qu\'il avait hâte d\'apprendre, -- la rencontre du cadavre de Patterson, le voyage de notre goélette jusqu\'à l\'île Tsalal, son départ pour de plus hautes latitudes, son naufrage au pied de l\'iceberg ; enfin la trahison d\'une partie de l\'équipage qui nous avait abandonnés sur cette terre.
+
+Il connut également ce que Dirk Peters savait de relatif à Arthur Pym, et aussi sur quelles hypothèses peu fondées reposait l\'espoir du métis de retrouver son compagnon, dont la mort ne faisait pas plus doute pour William Guy que celle des autres marins de la *Jane,* écrasés sous les collines de Klock-Klock.
+
+À ce récit, William Guy répondit par le résumé des onze ans qu\'il avait passés sur l\'île Tsalal.
+
+On ne l\'a point oublié, le 8 février 1828, l\'équipage de la *Jane,* n\'ayant aucunement lieu de soupçonner la mauvaise foi de la population tsalalaise et de son chef Too-Wit, débarqua, afin de se rendre au village de Klock-Klock, non sans avoir mis en état de défense la goélette à bord de laquelle six hommes étaient restés.
+
+L\'équipage, en comptant le capitaine William, le second Patterson, Arthur Pym et Dirk Peters, formait un groupe de trente-deux hommes armés de fusils, de pistolets et de couteaux. Le chien Tigre l\'accompagnait.
+
+Arrivée à l\'étroite gorge qui conduisait au village, précédée et suivie des nombreux guerriers de Too-Wit, la petite troupe se divisa. Arthur Pym, Dirk Peters et le matelot Allen s\'engagèrent à travers une fissure de la colline. À partir de ce moment, leurs compagnons ne devaient plus les revoir.
+
+En effet, à peu de temps de là, une secousse se fit sentir. La colline opposée s\'abattit d\'un bloc, ensevelissant William Guy et ses vingt-huit compagnons.
+
+De ces malheureux, vingt-deux furent écrasés du coup, et leurs cadavres ne furent jamais retrouvés sous cette masse de terre.
+
+Sept, miraculeusement abrités au fond d\'une large déchirure de la colline, avaient survécu. C\'étaient William Guy, Patterson, Roberts, Covin, Trinkle, plus Forbes et Lexton, morts depuis. Quant à Tigre, avait-il péri sous l\'éboulement ou avait-il échappé, ils l\'ignoraient.
+
+Cependant William Guy et ses six compagnons ne pouvaient demeurer en cet endroit étroit et obscur, où l\'air respirable ne tarderait pas à manquer. Ainsi que l\'avait tout d\'abord pensé Arthur Pym, ils s\'étaient crus victimes d\'un tremblement de terre. Mais, ainsi que lui, ils allaient reconnaître que si la gorge était comblée par les débris chaotiques de plus d\'un million de tonnes de terre et de pierre, c\'est que cet éboulement avait été artificiellement préparé par Too-Wit et les insulaires de Tsalal. Comme Arthur Pym, il leur fallut, le plus vite possible, échapper à la noirceur des ténèbres, au défaut d\'air, aux exhalaisons suffocantes de la terre humide, --- alors que, pour employer les expressions du récit, « ils se trouvaient exilés au-delà des confins les plus lointains de l\'espérance et qu\'ils étaient dans la condition spéciale des morts ».
+
+De même que dans la colline de gauche, il existait des labyrinthes à travers la colline de droite, et ce fut en rampant le long de ces sombres couloirs que William Guy, Patterson et les autres atteignirent une cavité où le jour et l\'air pénétraient en abondance.
+
+C\'est de là qu\'ils virent, eux aussi, l\'attaque de la *Jane* par une soixantaine de pirogues, la défense des six hommes demeurés à bord, les pierriers vomissant boulets ramés et mitraille, l\'envahissement de la goélette par les sauvages, enfin l\'explosion finale qui causa la mort d\'un millier d\'indigènes en même temps que la destruction complète du navire.
+
+Too-Wit et les Tsalalais furent d\'abord épouvantés des effets de cette explosion, mais peut-être encore plus désappointés. Leurs instincts de pillage ne pourraient être satisfaits, puisque, de la coque, du gréement, de la cargaison, il ne restait plus que des épaves sans valeur.
+
+Comme ils devaient supposer que l\'équipage avait également péri dans l\'éboulement de la colline, ils n\'avaient pas eu la pensée que quelques-uns eussent survécu. De là vint que Arthur Pym et Dirk Peters, d\'une part, William Guy et les siens, de l\'autre, purent, sans être inquiétés, séjourner au fond des labyrinthes de Klock-Klock, où ils se nourrirent de la chair de ces butors dont il était facile de s\'emparer à la main, et du fruit des nombreux noisetiers qui poussaient sur les flancs de la colline. Quant au feu, ils s\'en procurèrent en frottant des morceaux de bois tendre contre des morceaux de bois dur, dont il y avait quantité autour d\'eux.
+
+Enfin, après sept jours de séquestration, si Arthur Pym et le métis parvinrent --- on le sait --- à quitter leur cachette, à descendre au rivage, à s\'emparer d\'une embarcation, à abandonner l\'île Tsalal, William Guy et ses compagnons n\'avaient pas trouvé jusqu\'alors l\'occasion de s\'enfuir.
+
+À vingt et un jours de là, le capitaine de la Jane et les siens, toujours enfermés dans le labyrinthe, voyaient arriver le moment où ces oiseaux dont ils vivaient leur feraient défaut. Afin d\'échapper à la faim -- sinon à la soif, puisqu\'une source intérieure leur procurait une eau limpide --, il n\'y avait qu\'un moyen : c\'était de gagner le littoral, puis de s\'aventurer au large dans une embarcation indigène\... Il est vrai, où les fugitifs iraient-ils et que deviendraient-ils sans provisions ?\... Néanmoins, ils n\'eussent pas hésité à tenter l\'aventure s\'ils avaient pu profiter de quelques heures de nuit. Or, à cette époque, le soleil ne se couchait pas encore derrière l\'horizon du 24^e^ parallèle.
+
+Il est donc probable que la mort fût venue mettre un terme à tant de misères, si la situation n\'eût changé dans les circonstances que voici.
+
+Un matin --- c\'était le 22 février ---, dans la matinée, William Guy et Patterson, dévorés d\'inquiétude, causaient à l\'orifice de la cavité qui donnait sur la campagne. Ils ne savaient plus comment subvenir aux besoins de sept personnes, réduites, alors, à se nourrir uniquement de noisettes, ce qui leur causait de violentes douleurs de tête et d\'intestins. Ils apercevaient bien de grosses tortues rampant sur le rivage. Mais comment se fussent-ils risqués à les rejoindre, puisque des centaines de Tsalalais occupaient les grèves, allant, venant, vaquant à leurs occupations, en poussant leur éternel cri de *tékéli-li.*
+
+Soudain, cette foule parut en proie à une extraordinaire agitation. Hommes, femmes, enfants, se dispersèrent de tous les côtés. Quelques sauvages se jetèrent dans leurs canots comme si un terrible danger les menaçait\...
+
+Que se passait-il ?\...
+
+William Guy et ses compagnons eurent bientôt l\'explication du tumulte qui se produisait sur cette partie du littoral de l\'île.
+
+Un animal, un quadrupède, venait d\'apparaître, et, se précipitant au milieu des insulaires, il s\'acharnait à les mordre, il leur sautait à la gorge, tandis que sa bouche écumante vomissait de rauques hurlements.
+
+Et cependant il était seul, ce quadrupède, et on pouvait l\'accabler de pierres ou de flèches\... Pourquoi donc des centaines de sauvages manifestaient-ils une pareille épouvante, pourquoi prenaient-ils la fuite, pourquoi paraissaient-ils ne pas oser se défendre contre l\'animal qui s\'élançait sur eux ?\...
+
+L\'animal était blanc de poil, et, à sa vue, se produisait ce phénomène observé déjà, cette inexplicable horreur du blanc commune à tous les indigènes de Tsalal\... Non ! on ne saurait se figurer avec quelle frayeur ils poussaient, avec leur *tékéli-li,* ces cris *d\'anamoo-moo* et de *lama-lama !*
+
+Et, quelle fut la surprise de William Guy et de ses compagnons, lorsqu\'ils reconnurent le chien Tigre !\...
+
+Oui ! Tigre, qui, échappé à l\'effondrement de la colline, s\'était sauvé à l\'intérieur de l\'île\... Et, après avoir rôdé aux alentours de Klock-Klock pendant quelques jours, le voici qui était revenu, jetant l\'effroi parmi ces sauvages\...
+
+On se souvient que le pauvre animal avait déjà éprouvé les atteintes de l\'hydrophobie dans la cale du *Gram*pus ?\... Eh bien, cette fois, il était enragé\... oui ! enragé et menaçait de ses morsures toute cette population affolée\...
+
+Voilà pourquoi la plupart des Tsalalais avaient pris la fuite, et aussi leur chef Too-Wit et aussi les Wampos, qui étaient les principaux personnages de Klock-Klock !\... Ce fut dans ces extraordinaires circonstances qu\'ils abandonnèrent non seulement le village, mais l\'île, où nulle puissance n\'aurait pu les retenir, où ils ne devaient point remettre le pied !\...
+
+Cependant, si les canots suffirent à en transporter le plus grand nombre sur les îles voisines, plusieurs centaines d\'indigènes avaient dû rester à Tsalal, faute de moyens de s\'enfuir. Quelques-uns ayant été mordus par Tigre, des cas de rage s\'étaient déclarés, après une assez courte période d\'incubation. Alors --- spectacle dont il est impossible de retracer l\'horreur ---, ils s\'étaient précipités les uns sur les autres, ils s\'étaient déchirés à coups de dents\... Et les ossements que nous avions rencontrés aux environs de Klock-Klock, c\'étaient ceux de ces sauvages, qui, depuis onze années, blanchissaient à cette place !\...
+
+Quant au malheureux chien, il était allé mourir en un coin de ce littoral, où Dirk Peters avait retrouvé son squelette, auquel tenait encore un collier gravé du nom d\'Arthur Pym\...
+
+Ainsi, c\'est à cette catastrophe --- et la puissance géniale d\'un Edgar Poe était certes capable de l\'imaginer -- que fut dû l\'abandon définitif de Tsalal. Réfugiés dans l\'archipel du sud-ouest, les indigènes avaient pour jamais quitté cette île, où « l\'animal blanc » venait d\'apporter l\'épouvante et la mort\...
+
+Puis, après que ceux qui n\'avaient pu s\'enfuir eussent péri jusqu\'au dernier dans cette épidémie de rage, William Guy, Patterson, Trinkle, Covin, Roberts, Forbes, Lexton, se hasardèrent à sortir du labyrinthe, où ils étaient à la veille de mourir de faim.
+
+Durant les années qui suivirent, quelle fut l\'existence des sept survivants de cette expédition ?\...
+
+En somme, elle avait été moins pénible qu\'on ne l\'aurait dû croire. Leur vie était assurée par les productions naturelles d\'un sol extrêmement fertile et la présence d\'un certain nombre d\'animaux domestiques. Il ne leur manquait que les moyens d\'abandonner Tsalal, de revenir vers la banquise, de franchir ce cercle antarctique dont la Jane avait forcé le passage au prix de mille dangers, menacée par la furie des tempêtes, le choc des glaces, les rafales de grêle et de neige !
+
+Quant à construire un canot capable d\'affronter un aussi périlleux voyage, comment William Guy et ses compagnons l\'auraient-ils fait, faute d\'outils nécessaires, et lorsqu\'ils en étaient réduits à leurs seules armes, fusils, pistolets et coutelas ?\...
+
+Donc, il n\'y avait à se préoccuper que de s\'installer du mieux possible, en attendant une occasion de quitter l\'île. Et d\'où pourrait-elle venir, si ce n\'est de l\'un de ces hasards dont dispose seule la Providence ?\...
+
+Et, en premier lieu, sur l\'avis du capitaine et du second, on résolut d\'établir un campement sur la côte du nord-ouest. Du village de Klock-Klock, on n\'apercevait pas le large. Or, il importait d\'être constamment en vue de la mer, pour le cas -- si improbable, hélas ! --- où quelque bâtiment apparaîtrait sur les parages de Tsalal !\...
+
+Le capitaine William Guy, Patterson et leurs cinq compagnons redescendirent donc à travers le ravin à demi rempli des décombres de la colline, au milieu des scories friables, des blocs de granit noir et de marne grenaillée, où scintillaient des points métalliques. Tel s\'était présenté aux yeux d\'Arthur Pym l\'aspect de ces lugubres régions, « qui, dit-il, marquaient l\'emplacement de la Babylone en ruine !\... ».
+
+Avant de quitter cette gorge, William Guy eut la pensée d\'explorer la faille de droite où Arthur Pym, Dirk Peters et Allen avaient disparu. Cette faille étant obstruée, il lui fut impossible de pénétrer à l\'intérieur du massif. Aussi ne connut-il jamais l\'existence de ce labyrinthe naturel ou artificiel, qui faisait le pendant de celui qu\'il venait d\'abandonner, lesquels communiquaient peut-être l\'un avec l\'autre sous le lit desséché du torrent.
+
+Après avoir franchi cette barrière chaotique qui interceptait la route du nord, la petite troupe se dirigea rapidement vers le nord-ouest.
+
+Là, sur le littoral, à trois milles environ de Klock-Klock, on procéda à une installation définitive au fond d\'une grotte à peu près semblable à celle que nous occupions actuellement sur la côte d\'Halbrane-Land.
+
+Et c\'est en cet endroit que, pendant de longues et désespérantes années, les sept survivants de la Jane vécurent, comme nous allions le faire nous-mêmes, --- il est vrai, dans des conditions meilleures, puisque la fertilité du sol de Tsalal offrait des ressources qui manquaient à celui d\'Halbrane-Land. En réalité, si nous étions condamnés à périr, lorsque nos provisions seraient épuisées, eux ne l\'étaient pas. Ils pouvaient indéfiniment attendre\... et ils attendirent\...
+
+Ce qui ne faisait aucun doute dans leur esprit, c\'est qu\'Arthur Pym, Dirk Peters et Allen avaient péri dans l\'éboulement -- et ce n\'était que trop certain pour ce dernier. En effet, auraient-ils jamais imaginé qu\'Arthur Pym et le métis, après s\'être emparés d\'un canot, avaient pu prendre la mer ?\...
+
+Ainsi que nous le dit William Guy, aucun incident ne vint rompre la monotonie de cette existence de onze années, aucun, -- pas même l\'apparition des insulaires, auxquels l\'épouvante interdisait l\'approche de l\'île Tsalal. Nul danger ne les avait menacés pendant cette période. D\'autre part, à mesure qu\'elle se prolongeait, ils perdaient de plus en plus l\'espoir d\'être jamais recueillis. Au début, avec le retour de la belle saison, quand la mer redevenait libre, ils s\'étaient dit qu\'un navire serait envoyé à la recherche de la *Jane.* Mais, lorsque quatre ou cinq ans se furent écoulés, ils perdirent toute espérance\...
+
+En même temps que les produits du sol -- et parmi eux ces précieuses plantes antiscorbutiques, le cochléaria, le céleri brun, qui abondaient aux environs de la caverne -- William Guy avait ramené du village une certaine quantité de volatiles, des poules, des canards d\'espèce excellente, et aussi nombre de ces porcs noirs, très multipliés sur l\'île. En outre, sans avoir besoin de recourir aux armes à feu, il fut aisé d\'abattre des butors au plumage d\'un noir de jais. À ces diverses ressources alimentaires, il convenait d\'ajouter les centaines d\'œufs d\'albatros et de tortues galapagos, enfouis sous le sable des grèves, et, rien que ces tortues de dimensions énormes, d\'une chair salubre et nourrissante, auraient suffi aux hiverneurs de l\'Antarctide.
+
+Restaient encore les inépuisables réserves de la mer, de ce Jane-Sund, où foisonnaient toutes sortes de poissons jusqu\'au fond des criques, -- des saumons, des morues, des raies, des antoys, des soles, des rougets, des mulets, des carrelets, des scares, et aussi, sans parler des mollusques, ces savoureuses biches de mer, dont la goélette anglaise comptait prendre une cargaison afin de la vendre sur les marchés du Céleste-Empire.
+
+Il n\'y a pas lieu de s\'étendre sur cette période, qui va de l\'année 1828 à l\'année 1839. Certes, les hivers furent très durs. En effet, si l\'été faisait généreusement sentir sa bienfaisante influence aux îles du groupe Tsalal, la mauvaise saison, avec son cortège de neiges, de pluies, de rafales, de tourmentes, ne lui épargnait pas ses rigueurs. Le terrible froid régnait en maître sur tout le domaine des terres antarctiques. La mer, encombrée de glaces flottantes, se solidifiait pour six à sept mois. Il fallait attendre la réapparition du soleil avant de retrouver ces eaux libres, telles que les avait vues Arthur Pym, telles que nous les avions rencontrées depuis la banquise.
+
+En somme, l\'existence avait été relativement facile à l\'île de Tsalal. En serait-il ainsi sur ce littoral aride d\'Halbrane-Land que nous occupions ? Si abondantes qu\'elles fussent, nos provisions finiraient par s\'épuiser, et, l\'hiver venu, les tortues ne regagnaient-elles pas de plus basses latitudes ?\...
+
+Ce qui est certain, c\'est que, sept mois auparavant, le capitaine William Guy n\'avait pas encore perdu un seul de ceux qui s\'étaient tirés sains et saufs du guet-apens de Klock-Klock, et cela, grâce à leur robuste constitution, à leur remarquable endurance, à leur grande force de caractère\... Hélas ! le malheur allait bientôt s\'abattre sur eux.
+
+Le mois de mai arrivé -- qui correspond en ces contrées au mois de novembre de l\'hémisphère septentrional ---, déjà commençaient à dériver, au large de Tsalal, les glaces que le courant entraînait vers le nord.
+
+Un jour, l\'un des sept hommes ne rentra pas à la caverne. On l\'appela, on l\'attendit, on se mit à sa recherche\... Ce fut en vain\... Victime de quelque accident, noyé sans doute, il ne reparut pas\... il ne devait pas reparaître.
+
+C\'était Patterson, le second de la *Jane,* le fidèle compagnon de William Guy.
+
+Quelle douleur causa à tous ces braves gens cette disparition de l\'un d\'eux, de l\'un des meilleurs ?\... Et n\'était-ce pas le présage de prochaines catastrophes ?\...
+
+Or, ce que William Guy ignorait, ce que nous lui apprîmes alors, c\'est que Patterson --- dans quelles circonstances, on ne le saurait jamais --- avait été emporté à la surface d\'un glaçon sur lequel il allait mourir de faim. Et c\'était sur ce glaçon, parvenu à la hauteur des îles du Prince-Édouard, rongé par les eaux plus chaudes, et près de se dissoudre, que le bosseman avait découvert le cadavre du second de la *Jane\...*
+
+Lorsque le capitaine Len Guy eut raconté comment, grâce aux notes trouvées dans la poche de son malheureux compagnon, l\'*Halbrane* s\'était dirigée vers les mers antarctiques, son frère ne put retenir de grosses larmes\...
+
+À la suite de ce premier malheur, d\'autres survinrent.
+
+Les sept survivants de la *Jane* n\'étaient plus que six, et bientôt ils n\'allaient plus être que quatre, après avoir été réduits à chercher leur salut dans la fuite.
+
+En effet, la disparition de Patterson ne datait que de cinq mois, lorsque, au milieu d\'octobre, un tremblement de terre vint bouleverser l\'île Tsalal de fond en comble, en même temps qu\'il anéantissait presque entièrement le groupe du sud-ouest.
+
+On ne saurait se figurer avec quelle violence s\'accomplit ce bouleversement. Nous avions pu en juger, lorsque le canot de notre goélette avait accosté la falaise rocheuse indiquée par Arthur Pym. Assurément, William Guy et ses cinq compagnons n\'eussent pas tardé à succomber, s\'ils n\'avaient eu le moyen de fuir cette île qui maintenant se refusait à les nourrir.
+
+Deux jours après, à quelques centaines de toises de leur caverne, le courant amena un canot qui avait été entraîné au large de l\'archipel du sud-ouest.
+
+Charger cette embarcation d\'autant de provisions qu\'elle en pouvait contenir, s\'y embarquer pour abandonner l\'île devenue inhabitable, c\'est ce que William Guy, Roberts, Covin, Trinkle, Forbes et Lexton voulurent faire sans attendre même vingt-quatre heures.
+
+Par malheur, il régnait alors une brise d\'une violence extrême, due aux phénomènes sismiques qui avaient troublé les profondeurs du sol comme les profondeurs du ciel. Résister à cette brise ne fut pas possible, et elle rejeta l\'embarcation vers le sud, livrée à ce courant auquel obéissait notre iceberg, lorsqu\'il dérivait jusqu\'au littoral d\'Halbrane-Land.
+
+Pendant deux mois et demi, les malheureux allèrent ainsi à travers la mer libre, sans parvenir à modifier leur direction. Ce fut seulement le 2 janvier de la présente année 1840, qu\'ils aperçurent une terre, -- celle précisément que baignait à l\'est le Jane-Sund.
+
+Or, ce que nous avions reconnu déjà, c\'est que cette terre n\'était pas éloignée de cinquante milles d\'Halbrane-Land. Oui ! telle était la distance, relativement faible, qui nous séparait de ceux que nous avions cherchés si loin à travers les régions antarctiques, et que nous n\'espérions plus revoir !
+
+C\'était beaucoup plus dans le sud-est, par rapport à nous, que l\'embarcation de William Guy avait atterri. Mais, là, quelle différence avec l\'île Tsalal, ou, plutôt, quelle ressemblance avec l\'Halbrane-Land ! Un sol impropre à la culture, rien que du sable et des roches, ni arbres, ni arbustes, ni plantes d\'aucune sorte ! Aussi, leurs provisions presque épuisées, William Guy et ses compagnons furent-ils bientôt réduits à l\'extrême misère, et deux succombèrent, Forbes et Lexton\...
+
+Les quatre autres, William Guy, Roberts, Covin et Trinkle ne voulurent pas demeurer un jour de plus sur cette côte où ils étaient condamnés à mourir de faim. Avec le peu de vivres qui leur restait, ils s\'embarquèrent dans le canot, et se livrèrent une seconde fois au courant, sans avoir été à même, faute d\'instruments, de relever leur position.
+
+Or, comme ils naviguèrent vingt-cinq jours dans ces conditions, leurs ressources s\'épuisèrent, et ils étaient à la veille de succomber, n\'ayant pas mangé depuis quarante-huit heures, lorsque l\'embarcation, au fond de laquelle ils gisaient inanimés, parut en vue d\'Halbrane-Land.
+
+C\'est à cet instant que le bosseman l\'aperçut, et Dirk Peters s\'était jeté à la mer, pour la rejoindre, et avait manœuvré de manière à la ramener vers le rivage.
+
+Au moment où il mettait le pied dans le canot, le métis avait reconnu le capitaine de la Jane et les matelots Roberts, Trinkle, Covin. Après s\'être assuré qu\'ils respiraient encore, il prit les pagaies, nagea vers la terre, et, lorsqu\'il ne fut plus qu\'à une encablure, soulevant la tête de William Guy :
+
+« Vivant\... vivant ! » avait-il crié d\'une voix si puissante qu\'elle arriva jusqu\'à nous.
+
+Et, maintenant, les deux frères étaient enfin réunis sur ce coin perdu d\'Halbrane-Land.
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730039 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729111 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728183 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727596 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726668 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 15 -- Le sphinx des glaces]{#_Toc349724352 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-15-le-sphinx-des-glaces .calibre171 .sigil_not_in_toc}
+
+À deux jours de là, sur ce point du littoral antarctique, il ne restait plus un seul des survivants des deux goélettes.
+
+Ce fut le 21 février, à six heures du matin, que l\'embarcation, dans laquelle nous étions au nombre de treize, quitta la petite crique et doubla la pointe d\'Halbrane-Land.
+
+Dès l\'avant-veille nous avions discuté la question du départ. Si elle devait être résolue affirmativement, il ne fallait pas différer d\'un jour à prendre le large. Pendant un mois encore --- un mois au plus ---, la navigation serait possible sur cette portion de mer comprise entre les 86^e^ et 70^e^ parallèles, c\'est-à-dire jusqu\'aux latitudes ordinairement barrées par la banquise. Puis, au-delà, si nous parvenions à nous dégager, peut-être aurions-nous la chance de rencontrer quelque baleinier finissant la saison de pêche, ou, -- qui sait ? --- un bâtiment anglais, français ou américain, achevant une campagne de découvertes sur les limites de l\'océan austral ?\... Passé la mi-mars, ces parages seraient délaissés des navigateurs comme des pêcheurs, et tout espoir d\'être recueilli devrait être abandonné.
+
+On s\'était d\'abord demandé s\'il n\'y aurait pas avantage à hiverner là où nous eussions été contraints de le faire avant l\'arrivée de William Guy, à s\'installer pour les sept ou huit mois d\'hiver de cette région que les longues ténèbres et les froids excessifs ne tarderaient pas d\'envahir. Au commencement de l\'été prochain, alors que la mer serait redevenue libre, l\'embarcation aurait fait route vers l\'océan Pacifique, et nous aurions eu plus de temps pour franchir le millier de milles qui nous en séparaient. N\'eût-ce pas été acte de prudence et de sagesse ?\...
+
+Cependant, si résignés que nous fussions, comment ne pas s\'effrayer à la pensée d\'un hivernage sur cette côte, bien que la caverne nous offrît un suffisant abri, bien que les conditions de la vie y fussent assurées, du moins en ce qui concernait la nourriture ?\... Oui ! résignés\... on l\'est tant que la résignation est commandée par les circonstances\... Mais, à présent que l\'occasion se présentait de partir, comment ne pas faire un dernier effort en vue d\'un prochain rapatriement, comment ne pas tenter ce qu\'avait tenté Hearne avec ses compagnons et dans des conditions infiniment plus favorables ?\...
+
+Le pour et le contre de la question furent examinés de très près. Après avis demandé à chacun, on fit valoir que, à la rigueur, si quelque obstacle arrêtait la navigation, l\'embarcation pourrait toujours regagner cette partie de la côte, dont nous connaissions l\'exact gisement. Le capitaine de la *Jane* se montra très partisan d\'un départ immédiat, dont Len Guy et Jem West ne redoutaient point les conséquences. Je me rangeai volontiers à leur avis que partagèrent nos compagnons.
+
+Seul, Hurliguerly opposa quelque résistance. Il lui semblait imprudent de laisser le certain pour l\'incertain\... Trois ou quatre semaines seulement pour cette distance comprise entre Halbrane-Land et le cercle antarctique, serait-ce assez ?\... Et comment, s\'il le fallait, revenir contre le courant qui portait au nord ?\... Enfin le bosseman fit valoir certains arguments qui méritaient d\'être pesés. Toutefois, je dois le dire, il n\'y eut qu\'Endicott à se ranger de son bord, par l\'habitude qu\'il avait d\'envisager les choses sous le même angle que lui. D\'ailleurs, tout cela discuté et bien discuté, Hurliguerly se déclara prêt à partir, puisque nous étions tous de cet avis.
+
+Les préparatifs furent achevés à bref délai, et c\'est pourquoi, le 21, dès sept heures du matin, grâce à la double action du courant et du vent, la pointe d\'Halbrane-Land nous restait à cinq milles en arrière. Dans l\'après-midi s\'effacèrent graduellement les hauteurs qui dominaient cette partie du littoral, dont la plus élevée nous avait permis d\'apercevoir la terre sur la rive ouest du Jane-Sund.
+
+Notre canot était une de ces embarcations qui sont en usage dans l\'archipel de Tsalal pour la communication entre les îles. Nous savions, d\'après le récit d\'Arthur Pym, que ces canots ressemblaient les uns à des radeaux ou à des bateaux plats, les autres à des pirogues à balancier, -- la plupart très solides. À la dernière catégorie appartenait celui que nous montions, long d\'une quarantaine de pieds, large de six, l\'arrière et l\'avant de même forme relevée -- ce qui permettait d\'éviter les virages --, et il se manœuvrait avec plusieurs paires de pagaies.
+
+Ce que je dois faire particulièrement observer, c\'est que dans la construction de ce canot, il n\'entrait pas un seul morceau de fer, -- ni clous, ni chevilles, ni semelles, pas plus à l\'étrave qu\'à l\'étambot, ce métal étant absolument inconnu des Tsalalais. Des ligatures faites d\'une sorte de liane, ayant la résistance d\'un fil de cuivre, assuraient l\'adhérence du bordé avec autant de solidité que le plus serré des rivetages. L\'étoupe était remplacée par une mousse sur laquelle s\'appliquait un brai de gomme, qui prenait une dureté métallique au contact de l\'eau.
+
+Telle était cette embarcation, à laquelle nous donnâmes le nom de *Paracuta,* --- celui d\'un poisson de ces parages, qui était assez grossièrement sculpté sur le plat-bord.
+
+Le *Paracuta* avait été chargé d\'autant d\'objets qu\'il en pouvait contenir, sans trop gêner les passagers destinés à y prendre place, -- vêtements, couvertures, chemises, vareuses, caleçons, pantalons de grosse laine et capotes cirées, quelques voiles, quelques espars, grappin, avirons, gaffes, puis des instruments pour faire le point, des armes et des munitions dont nous aurions peut-être l\'occasion de nous servir, fusils, pistolets, carabines, poudre, plomb et balles. La cargaison se composait de plusieurs barils d\'eau douce, de whisky et de gin, de caisses de farine, de viande au demi-sel, de légumes secs, d\'une bonne réserve de café et de thé. On y avait joint un petit fourneau et plusieurs sacs de charbon pour alimenter ce fourneau pendant quelques semaines. Il est vrai, si nous ne parvenions pas à dépasser la banquise, s\'il fallait hiverner au milieu des icefields, comme ces ressources ne tarderaient pas à s\'épuiser, tous nos efforts devraient alors tendre à revenir vers Halbrane-Land, où la cargaison de la goélette devait assurer notre existence pendant de longs mois encore.
+
+Eh bien --- même si nous n\'y réussissions pas ---, y aurait-il lieu de perdre tout espoir ?\... Non, et il est dans la nature humaine de se rattacher à la moindre de ses lueurs. Je me souvenais de ce qu\'Edgar Poe dit de l\'Ange du bizarre, « ce génie qui préside aux contretemps dans la vie, et dont la fonction est d\'amener ces accidents qui peuvent étonner, mais qui sont engendrés par la logique des faits\... ». Pourquoi ne verrions-nous pas apparaître cet ange à l\'heure suprême ?\...
+
+Il va de soi que la plus grande part de la cargaison de l\'*Halbrane* avait été laissée dans la caverne, à l\'abri des intempéries de l\'hiver, à la disposition de naufragés, si jamais il en venait sur cette côte. Un espar, que le bosseman avait dressé sur le morne, ne manquerait pas d\'attirer leur attention. D\'ailleurs, après nos deux goélettes, quel navire oserait s\'élever à de telles latitudes ?\...
+
+Voici quelles étaient les personnes embarquées sur le *Paracuta :* le capitaine Len Guy, le lieutenant Jem West, le bosseman Hurliguerly, le maître-calfat Hardie, les matelots Francis et Stem, le cuisinier Endicott, le métis Dirk Peters et moi, tous de l\'*Halbrane,* --- puis, le capitaine William Guy et les matelots Roberts, Covin, Trinkle de la *Jane.* Au total, treize, le chiffre fatidique.
+
+Avant de partir, Jem West et le bosseman avaient eu soin d\'implanter un mât à peu près au tiers de notre embarcation. Ce mât, maintenu par un étai et des haubans, pouvait porter une large misaine qui fut découpée dans le hunier de la goélette. Le *Paracuta* mesurant six pieds de largeur au maître-bau, on avait pu donner un peu de croisure à cette voile de fortune.
+
+Sans doute, ce gréement ne permettrait pas de naviguer au plus près. Mais, depuis le vent arrière jusqu\'au grand largue, cette voile nous imprimerait une vitesse suffisante pour enlever en cinq semaines, avec une moyenne de trente milles par vingt-quatre heures, le millier de milles qui nous séparaient de la banquise. Compter sur cette vitesse n\'avait rien d\'excessif, si le courant et la brise continuaient à pousser le *Paracuta* vers le nord-est. En outre, les pagaies nous serviraient, lorsque le vent viendrait à refuser, et quatre paires, maniées par huit hommes, assureraient encore une certaine vitesse à l\'embarcation.
+
+Je n\'ai rien de particulier à mentionner pendant la semaine qui suivit le départ. La brise ne cessa de souffler du sud. Aucun contre-courant défavorable ne se manifesta entre les rives du Jane-Sund.
+
+Autant que possible et tant que la côte d\'Halbrane-Land ne s\'écarterait pas trop à l\'ouest, les deux capitaines entendaient la longer à une ou deux encablures. Elle nous eût offert refuge en cas qu\'un accident eût mis notre canot hors d\'usage. Il est vrai, sur cette terre aride, au début de l\'hiver, que serions-nous devenus ?\... Mieux valait, je pense, n\'y point songer.
+
+Durant ces premiers huit jours, en pagayant dès que la brise venait à mollir, le *Paracuta* n\'avait rien perdu de la moyenne de vitesse indispensable pour atteindre l\'océan Pacifique en ce court laps de temps.
+
+L\'aspect de la terre ne changeait pas, -- toujours le même sol infertile, des blocs noirâtres, des grèves sablonneuses semées de rares raquettes, des hauteurs abruptes et dénudées en arrière-plan. Quant au détroit, il charriait déjà quelques glaces, des drifts flottants, des packs longs de cent cinquante à deux cents pieds, les uns de forme allongée, les autres circulaires, -- et aussi des icebergs que notre embarcation dépassait sans peine. Ce qu\'il y avait de peu rassurant, c\'est que ces masses se dirigeaient vers la banquise, et n\'en fermeraient-elles point les passes, qui devaient être encore libres à cette époque ?\...
+
+Inutile de noter que l\'entente était parfaite entre les treize passagers du *Paracuta.* Nous n\'avions plus à craindre la rébellion d\'un Hearne. Et, à ce propos, on se demandait si le sort avait favorisé ces malheureux entraînés par le sealing-master. À bord de leur canot surchargé, que le moindre coup de mer mettrait en péril, comment s\'était accomplie cette navigation si dangereuse ?\... Et qui sait, cependant, si Hearne ne réussirait pas, alors que nous échouerions, pour être partis dix jours après lui ?\...
+
+Je mentionnerai, en passant, que Dirk Peters, à mesure qu\'il s\'éloignait de ces lieux où il n\'avait retrouvé aucune trace de son pauvre Pym, était plus taciturne que jamais -- ce que je n\'aurais pas cru possible --, et il ne me répondait plus, lorsque je lui adressais la parole.
+
+Cette année 1840 étant bissextile, j\'ai dû porter sur mes notes la date du 29 février. Or, ce jour étant précisément l\'anniversaire de la naissance d\'Hurliguerly, le bosseman demanda que cet anniversaire fût célébré avec quelque éclat à bord du canot.
+
+« C\'est bien le moins, dit-il en riant, puisqu\'on ne peut me le fêter qu\'une année sur quatre ! »
+
+Et l\'on but à la santé de ce brave homme, un peu trop bavard, mais le plus confiant, le plus endurant de tous, et qui nous ragaillardissait par son inaltérable bonne humeur.
+
+Ce jour-là, l\'observation donna 79° 17\' pour la latitude et 118° 37\' pour la longitude.
+
+On le voit, les deux rives du Jane-Sund couraient entre le 118^e^ et le 119^e^ méridien, et le *Paracuta* n\'avait plus qu\'une douzaine de degrés à franchir jusqu\'au cercle polaire.
+
+Après avoir fait ce relèvement, très difficile à obtenir à cause du peu d\'élévation du soleil au-dessus de l\'horizon, les deux frères avaient déployé sur un banc la carte si incomplète alors des régions antarctiques. Je l\'étudiais avec eux, et nous cherchions à déterminer approximativement quelles terres déjà reconnues gisaient dans cette direction.
+
+Depuis que notre iceberg avait dépassé le pôle Sud, il ne faut pas oublier que nous étions entrés dans la zone des longitudes orientales, comptées du zéro de Greenwich au 190^e^ degré. Donc, tout espoir devait être abandonné soit d\'être rapatriés aux Falklands, soit de trouver des baleiniers sur les parages des Sandwich, des South-Orkneys ou de la Géorgie du Sud.
+
+En somme, voici ce qu\'il était permis de déduire, eu égard à notre position actuelle.
+
+Il va de soi que le capitaine William Guy ne pouvait rien savoir des voyages antarctiques entrepris depuis le départ de la *Jane.* Il ne connaissait que ceux de Cook, de Krusenstern, de Weddell, de Bellingshausen, de Morrell, et ne pouvait être au courant des campagnes ultérieures, la deuxième de Morrell et celle de Kemp, qui avaient quelque peu étendu le domaine géographique en ces lointaines contrées. Par suite de ce que lui apprit son frère, il sut que, depuis nos propres découvertes, on devait tenir pour certain qu\'un large bras de mer -- le Jane-Sund -- partageait en deux vastes continents la région australe.
+
+Une remarque que fit, ce jour-là, le capitaine Len Guy, c\'est que si le détroit se prolongeait entre les 118^e^ et 119^e^ méridiens, le *Paracuta* passerait près de la position attribuée au pôle magnétique. C\'est à ce point -- on ne l\'ignore pas --, que se réunissent tous les méridiens magnétiques, point situé à peu près aux antipodes de celui des parages arctiques, et sur lequel l\'aiguille de la boussole prend une direction verticale. Je dois dire qu\'à cette époque, le relèvement de ce pôle n\'avait pas été fait avec la précision qu\'on y a apportée plus tard[[\[4\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn4040){#_ftnref4040 .pcalibre4 .pcalibre3}.
+
+Cela n\'avait pas d\'importance, d\'ailleurs, et cette constatation géographique ne pouvait avoir aucun intérêt pour nous. Ce qui devait nous préoccuper davantage, c\'est que le Jane-Sund se rétrécissait sensiblement, et se réduisait alors à dix ou douze milles de largeur. Grâce à cette configuration du détroit, on apercevait distinctement la terre des deux côtés.
+
+« Eh ! fit observer le bosseman, espérons qu\'il y restera assez de large pour notre embarcation !\... Si ce détroit-là allait finir en cul-de-sac\...
+
+--- Ce n\'est pas à craindre, répondit le capitaine Len Guy. Puisque le courant se propage dans cette direction, c\'est qu\'il trouve une issue vers le nord, et, à mon avis, nous n\'avons rien autre chose à faire qu\'à le suivre. »
+
+C\'était l\'évidence même. Le *Paracuta* ne pouvait avoir un meilleur guide que ce courant. Si, par malheur, nous l\'eussions eu contre nous, il aurait été impossible de le remonter, sans être servi par une très forte brise.
+
+Peut-être, cependant, quelques degrés plus loin, ce courant s\'infléchirait-il vers l\'est ou vers l\'ouest, étant donné la conformation des côtes ? Néanmoins, au nord de la banquise, tout permettait d\'affirmer que cette partie du Pacifique baignait les terres de l\'Australie, de la Tasmanie ou de la Nouvelle-Zélande. Peu importait, on en conviendra, quand il s\'agissait d\'être rapatriés, que le rapatriement se fit ici ou là\...
+
+Notre navigation se prolongea dans ces conditions une dizaine de jours. L\'embarcation tenait bien l\'allure du grand largue. Les deux capitaines et Jem West n\'en étaient plus à apprécier sa solidité, quoique, je le répète, aucun morceau de fer n\'eût été employé à sa construction. Il n\'avait pas été une seule fois nécessaire de reprendre ses coutures, d\'une parfaite étanchéité. Il est vrai, nous avions la mer belle, à peine ridée d\'un léger clapotis à la surface de ses longues houles.
+
+Le 10 mars, avec même longitude, l\'observation donna 76° 13\' pour latitude.
+
+Puisque le *Paracuta* avait franchi environ six cents milles depuis son départ d\'Halbrane-Land, et que ce parcours s\'était opéré en vingt jours, il avait obtenu une vitesse de trente milles par vingt-quatre heures.
+
+Que cette moyenne ne faiblît pas durant trois semaines, et toutes les chances seraient pour que les passes ne fussent point fermées ou que la banquise pût être contournée, -- et aussi que les navires n\'eussent pas abandonné les lieux de pêche.
+
+Actuellement, le soleil se traînait presque au ras de l\'horizon, et l\'époque approchait où tout le domaine de l\'Antarctide serait enveloppé des ténèbres de la nuit polaire. Fort heureusement, à s\'élever vers le nord, nous gagnions des parages d\'où la lumière n\'était pas bannie encore.
+
+Nous fûmes alors témoins d\'un phénomène aussi extraordinaire que ceux dont est rempli le récit d\'Arthur Pym. Pendant trois à quatre heures, de nos doigts, de nos cheveux, de nos poils de barbe, s\'échappèrent de courtes étincelles, accompagnées d\'un bruit strident. C\'était une tempête de neige électrique, aux gros flocons peu serrés, dont le contact produisait des aigrettes lumineuses. Le *Paracuta* fut plusieurs fois à l\'instant d\'être englouti, tant la mer déferlait avec fureur, mais on s\'en tira sains et saufs.
+
+Cependant, l\'espace ne s\'éclairait déjà plus que d\'une manière imparfaite. De fréquentes brumes réduisaient à quelques encablures seulement l\'extrême portée de la vue. Aussi la surveillance dut-elle être établie de manière à éviter toute collision avec les glaces flottantes, dont la vitesse de déplacement était inférieure à celle du *Paracuta.* Il y a également lieu de noter que, du côté du sud, le ciel s\'illuminait souvent de larges lueurs, dues à l\'irradiation des aurores polaires.
+
+La température s\'abaissait d\'une manière assez sensible, et n\'était plus que de 23° (5 °C. sous zéro).
+
+Cet abaissement ne laissait pas de causer de vives inquiétudes. S\'il ne pouvait influencer les courants dont la direction restait favorable, il tendait à modifier l\'état atmosphérique. Par malheur, pour peu que le vent mollît avec l\'accentuation du froid, la marche du canot serait diminuée de moitié. Or, un retard de deux semaines suffirait à compromettre notre salut en nous obligeant à hiverner au pied de la banquise. Dans ce cas, ainsi que je l\'ai dit, mieux vaudrait essayer de revenir au campement d\'Halbrane-Land. Serait-il libre alors, ce Jane-Sund, que le *Paracuta* venait de remonter si heureusement ?\... Plus favorisés que nous, Hearne et ses compagnons, qui nous devançaient d\'une dizaine de jours, n\'avaient-ils pas déjà franchi la barrière de glaces ?\...
+
+Quarante-huit heures après, le capitaine Len Guy et son frère voulurent fixer notre position par une observation que le ciel, dégagé de brumes, allait rendre possible. Il est vrai, c\'est à peine si le soleil débordait l\'horizon méridional, et l\'opération présenterait de réelles difficultés. Cependant on parvint à prendre hauteur avec une certaine approximation, et les calculs donnèrent les résultats suivants :
+
+Latitude : 75° 17\' sud.
+
+Longitude : 118° 3\' est.
+
+Donc, à cette date du 12 mars, le *Paracuta* n\'était plus séparé que par la distance de quatre cents milles des parages du cercle antarctique.
+
+Une remarque qui fut faite alors, c\'est que le détroit, très restreint à la hauteur du 77^e^ parallèle, s\'élargissait à mesure qu\'il se développait vers le nord. Même avec les longues-vues, on n\'apercevait plus rien des terres de l\'est. C\'était là une circonstance fâcheuse, car le courant, moins resserré entre deux côtes, ne tarderait pas à diminuer de vitesse, et finirait par ne plus se faire sentir.
+
+Durant la nuit du 12 au 13 mars, une brume assez épaisse se leva après une accalmie de la brise. Il y avait lieu de le regretter, car cela accroissait les dangers de collision avec les glaces flottantes. Il est vrai, l\'apparition des brouillards ne pouvait nous étonner en de tels parages. Toutefois, ce qui eut lieu de surprendre, c\'est que, loin de décroître, la vitesse de notre canot s\'augmenta graduellement, bien que la brise eût calmi. À coup sûr, cette accélération n\'était pas due au courant, puisque le clapotis des eaux à l\'étrave prouvait que nous marchions plus vite que lui.
+
+Cet état de choses dura jusqu\'au matin, sans que nous pussions nous rendre compte de ce qui se passait, lorsque, vers dix heures, la brume commença à se dissoudre dans les basses zones. Le littoral de l\'ouest reparut --- un littoral de roches, sans arrière-plan de montagnes, que longeait le *Paracuta.*
+
+Et alors se dessina, à un quart de mille, une masse qui dominait la plaine d\'une cinquantaine de toises sur une circonférence de deux à trois cents. Dans sa forme étrange, ce massif ressemblait volontiers à un énorme sphinx, le torse redressé, les pattes étendues, accroupi dans l\'attitude du monstre ailé que la mythologie grecque a placé sur la route de Thèbes.
+
+Était-ce un animal vivant, un monstre gigantesque, un mastodonte de dimension mille fois supérieure à ces énormes éléphants des régions polaires dont les débris se retrouvent encore ?\... Dans la disposition d\'esprit où nous étions, on l\'aurait pu croire, -- croire aussi que le mastodonte allait se précipiter sur notre embarcation et la broyer sous ses griffes\...
+
+Après un premier moment d\'inquiétude peu raisonnée et peu raisonnable, nous reconnûmes qu\'il n\'y avait là qu\'un massif de conformation singulière, dont la tête venait de se dégager des brumes.
+
+Ah ! ce sphinx !\... Un souvenir me revint, c\'est que, la nuit pendant laquelle s\'effectua la culbute de l\'iceberg, et l\'enlèvement de l\'*Halbrane,* j\'avais rêvé d\'un animal fabuleux de cette espèce, assis au pôle du monde, et dont seul un Edgar Poe, avec sa génialité intuitive, eût pu arracher les secrets !\...
+
+Mais de plus étranges phénomènes allaient attirer notre attention, provoquer notre surprise, notre épouvante même ! \...
+
+J\'ai dit que, depuis quelques heures, la vitesse du *Paracuta* s\'accroissait graduellement. Maintenant elle était excessive, celle du courant lui restant inférieure. Or, voici que, tout à coup, le grappin de fer, qui provenait de l\'*Halbrane* et placé à l\'avant de notre canot, s\'échappe hors de l\'étrave, comme s\'il eût été attiré par une puissance irrésistible, et la corde qui le retient est tendue à se rompre\... Il semble que ce soit ce grappin qui nous remorque, en rasant la surface des eaux, vers le rivage\...
+
+« Qu\'y a-t-il donc ?\... s\'écria William Guy.
+
+--- Coupe, bosseman, coupe, ordonna Jem West, ou nous allons nous briser contre les roches ! »
+
+Hurliguerly s\'élance vers l\'avant du *Paracuta* pour couper la corde. Soudain le couteau qu\'il tenait à la main lui est arraché, la corde casse, et le grappin, comme un projectile, file dans la direction du massif.
+
+Et, en même temps, ne voilà-t-il pas que tous les objets de fer déposés dans l\'embarcation, les ustensiles de cuisine, les armes, le fourneau d\'Endicott, nos couteaux arrachés de nos poches, prennent le même chemin, pendant que le canot, courant sur son erre, va buter contre la grève !\...
+
+Qu\'y avait-il donc, et, pour expliquer ces inexplicables choses, fallait-il admettre que nous étions dans la région des étrangetés que j\'attribuais aux hallucinations d\'Arthur Pym ?\...
+
+Non ! c\'étaient des faits physiques dont nous venions d\'être témoins, non des phénomènes imaginaires !\...
+
+D\'ailleurs, le temps de la réflexion nous manqua, et, dès que nous eûmes pris terre, notre attention fut détournée par la vue d\'une embarcation échouée sur le sable.
+
+« Le canot de l\'*Halbrane !* » s\'écria Hurliguerly.
+
+C\'était bien le canot volé par Heame. Il gisait à cette place, les bordages disjoints, la membrure larguée de la quille, en complète dislocation\... Plus rien que des débris informes --- en un mot, ce qui reste d\'une embarcation, à la suite d\'un coup de mer qui l\'a écrasée contre les roches !\...
+
+Ce qui fut aussitôt remarqué, c\'est que les ferrures de ce canot avaient disparu\... oui ! toutes\... les clous du bordé, la semelle de la quille, les garnitures de l\'étrave et de l\'étambot, les gonds du gouvernail\...
+
+Que signifiait tout cela ?\...
+
+Un appel de Jem West nous ramena vers une petite grève, à droite de l\'embarcation.
+
+Trois cadavres étaient couchés sur le sol, -- celui de Heame, celui du maître-voilier Martin Holt, celui de l\'un des Falklandais\... Des treize qui accompagnaient le sealing-master, il ne restait que ces trois-là, dont la mort devait remonter à quelques jours\...
+
+Qu\'étaient devenus les dix manquants ?\... Avaient-ils été entraînés au large ?\...
+
+Des perquisitions furent faites le long du littoral, au fond des criques, entre les écueils\... On ne trouva rien, --- ni les traces d\'un campement, ni même les vestiges d\'un débarquement.
+
+« Il faut, dit William Guy, que leur canot ait été abordé en mer par un iceberg en dérive\... La plupart des compagnons de Hearne se seront noyés, et ces trois corps sont venus à la côte, déjà privés de vie\...
+
+--- Mais, demanda le bosseman, comment expliquer que l\'embarcation soit dans un tel état\...
+
+--- Et, surtout, ajouta Jem West, que toutes ses ferrures lui manquent ?\...
+
+--- En effet, repris-je, il semble qu\'elles ont été violemment arrachées\... »
+
+Laissant le *Paracuta* à la garde de deux hommes, nous remontâmes vers l\'intérieur, afin d\'étendre nos recherches sur un plus large rayon.
+
+Nous approchions du massif, maintenant sorti des brumes et dont la forme s\'accusait avec plus de netteté. C\'était, je l\'ai dit, à peu près celle d\'un sphinx, -- un sphinx de couleur fuligineuse, comme si la matière qui le composait eût été oxydée par les longues intempéries du climat polaire.
+
+Et alors, une hypothèse surgit dans mon esprit, -- une hypothèse qui expliquait ces étonnants phénomènes.
+
+« Ah ! m\'écriai-je, un aimant\... Il y a là\... là\... un aimant\... doué d\'une force d\'attraction prodigieuse !\... »
+
+Je fus compris, et, en un instant, la dernière catastrophe dont Hearne et ses complices avaient dû être victimes, s\'illumina d\'une terrible clarté.
+
+Ce massif n\'était qu\'un aimant colossal. C\'est sous son influence que les ligatures de fer du canot de l\'*Halbrane* avaient été arrachées et projetées, comme si elles eussent été lancées par le ressort d\'une catapulte !\... C\'est lui qui venait d\'attirer avec une force irrésistible tous les objets de fer du *Paracuta* !\... Et notre embarcation aurait eu le sort de l\'autre, si sa construction eût employé un seul morceau de ce métal !\...
+
+Était-ce donc la proximité du pôle magnétique qui produisait de tels effets ?\...
+
+L\'idée nous en vint tout d\'abord. Puis, réflexion faite, cette explication dut être rejetée\...
+
+Du reste, à l\'endroit où se croisent les méridiens magnétiques, il n\'en résulte d\'autre phénomène que la position verticale prise par l\'aiguille aimantée en deux points similaires du globe terrestre. Ce phénomène, déjà expérimenté aux régions arctiques par des observations faites sur place, devait être identique dans les régions de l\'Antarctide.
+
+Ainsi donc, il existait un aimant d\'une intensité prodigieuse dans la zone d\'attraction duquel nous étions entrés. Sous nos yeux s\'était produit un de ces surprenants effets, qui avaient été jusqu\'alors relégués au rang des fables. Qui donc a jamais voulu admettre que des navires pussent être irrésistiblement attirés par une force magnétique, leurs ligatures de fer larguant de toutes parts, leurs coques s\'entrouvrant, la mer les engloutissant dans ses profondeurs ?\... Et cela était pourtant !\...
+
+En somme, voici quelle explication de ce phénomène me paraît pouvoir être donnée :
+
+Les vents alizés amènent d\'une façon constante, vers les extrémités de l\'axe terrestre, des nuages ou des brumes dans lesquels sont emmagasinées d\'immenses quantités d\'électricité, que les orages n\'ont pas complètement épuisées. De là une formidable accumulation de ce fluide aux pôles, et qui s\'écoule vers la terre d\'une manière permanente.
+
+Telle est la cause des aurores boréales et australes, dont les lumineuses magnificences s\'irradient au-dessus de l\'horizon, surtout pendant la longue nuit polaire, et qui sont visibles jusqu\'aux zones tempérées, lorsqu\'elles atteignent leur maximum de culmination. Il est même admis -- fait non constaté, je le sais -- qu\'au moment où une violente décharge d\'électricité positive s\'opère dans les régions arctiques, les régions antarctiques sont soumises aux décharges d\'électricité de nom contraire.
+
+Eh bien, ces courants continus aux pôles, qui affolent les boussoles, doivent posséder une extraordinaire influence, et il suffirait qu\'une masse de fer fût soumise à leur action pour qu\'elle se changeât en un aimant d\'une puissance proportionnelle à l\'intensité du courant, au nombre de tours de l\'hélice électrique, et à la racine carrée du diamètre du massif de fer aimanté.
+
+Précisément, on pouvait chiffrer par des milliers de mètres cubes le volume de ce sphinx, qui se dressait sur ce point des terres australes.
+
+Or, pour que le courant circulât autour de lui et en fît un aimant par induction, que fallait-il ?\... Rien qu\'un filon métallique, dont les innombrables spires, sinuant à travers les entrailles de ce sol, fussent souterrainement reliées à la base dudit massif.
+
+Je pense aussi que ce massif devait être placé dans l\'axe magnétique, comme une sorte de calamite gigantesque, d\'où se dégageait le fluide impondérable et dont les courants faisaient un inépuisable accumulateur dressé aux confins du monde. Quant à déterminer s\'il se trouvait précisément au pôle magnétique des régions australes, notre boussole ne l\'aurait pu, car elle n\'était pas construite à cet effet. Tout ce que j\'ai à dire, c\'est que son aiguille, affolée et instable, ne marquait plus aucune orientation. Peu importait, d\'ailleurs, pour ce qui concernait la constitution de cet aimant artificiel et la manière dont les nuages et le filon entretenaient sa force attractive.
+
+C\'est de cette façon très plausible que je fus conduit à expliquer ce phénomène, --- par instinct. Il n\'était pas douteux que nous fussions à proximité d\'un aimant, dont la puissance produisait ces effets aussi terribles que naturels.
+
+Je communiquai mon idée à mes compagnons, et il leur parut que cette explication s\'imposait en présence des faits physiques dont nous venions d\'être témoins.
+
+« Il n\'y a aucun danger pour nous à gagner le pied du massif, je pense ? demanda le capitaine Len Guy.
+
+--- Aucun, répliquai-je.
+
+--- Là\... oui\... là ! »
+
+Je ne saurais peindre l\'impression que nous causèrent ces trois mots, qui furent jetés comme trois cris venus des profondeurs de l\'ultra-monde, eût dit Edgar Poe.
+
+C\'était Dirk Peters qui avait parlé, et le corps du métis était tendu dans la direction du sphinx, comme si, devenu de fer, il eût été lui aussi attiré par l\'aimant\...
+
+Puis, le voilà qui court dans cette direction, et ses compagnons le suivirent à la surface d\'un sol où s\'entassaient des pierres noirâtres, des éboulis de moraines, des débris volcaniques de toutes sortes.
+
+Le monstre grandissait à mesure que nous en approchions, sans rien perdre de ses formes mythologiques. Je ne saurais peindre l\'effet qu\'il produisait, isolé à la surface de cette immense plaine. Il y a de ces impressions que ni la plume ni la parole ne peuvent rendre\... Et -- ce ne devait être qu\'une illusion de nos sens --, il semblait que nous fussions attirés vers lui par la force de son attraction magnétique\...
+
+Lorsque nous eûmes atteint sa base, nous retrouvâmes les divers objets de fer sur lesquels s\'était exercée sa puissance. Armes, ustensiles, grappin du *Paracuta,* adhéraient à ses flancs. Là, également, se voyaient ceux qui provenaient du canot de l\'*Halbrane,* et aussi les clous, les chevilles, les tolets, les semelles de la quille, les ferrures du gouvernail.
+
+Il n\'y avait donc plus de doute possible sur la cause de destruction du canot qui portait Hearne et ses compagnons. Brutalement déclinqué, il était venu se briser contre les roches, et tel eût été le sort du *Paracuta,* si, par sa construction même, il n\'eût échappé à cette irrésistible attraction magnétique\...
+
+Quant à rentrer en possession des objets qui adhéraient au flanc du massif, fusils, pistolets, ustensiles, telle était leur adhérence qu\'il fallut y renoncer. Et Hurliguerly furieux de ne pouvoir rattraper son couteau, collé à la hauteur d\'une cinquantaine de pieds, de s\'écrier en montrant le poing à l\'impassible monstre :
+
+« Voleur de sphinx ! »
+
+On ne sera point étonné qu\'il n\'y eût pas à cette place d\'autres objets que ceux qui provenaient soit du *Paracuta,* soit du canot de l\'*Halbrane.* Assurément, jamais navire ne s\'était élevé à cette latitude de la mer antarctique. Hearne et ses complices, d\'abord, le capitaine Len Guy et ses compagnons ensuite, nous étions les premiers qui eussions foulé ce point du continent austral. Pour conclure, tout bâtiment qui se fût approché de ce colossal aimant eût couru à sa complète destruction, et notre goélette aurait eu le même sort que son canot, dont il ne restait plus que d\'informes débris.
+
+Cependant Jem West nous rappela qu\'il était imprudent de prolonger notre relâche sur cette Terre du Sphinx --- nom qu\'elle devait conserver. Le temps pressait, et un retard de quelques jours nous eût imposé d\'hiverner au pied de la banquise.
+
+L\'ordre de regagner le rivage venait donc d\'être donné, lorsque la voix du métis retentit encore, et ces trois mots ou plutôt ces trois cris furent de nouveau jetés par Dirk Peters :
+
+« Là !\... là !\... là !\... »
+
+Après avoir contourné le revers de la patte droite du monstre, nous aperçûmes Dirk Peters agenouillé, les mains tendues devant un corps ou plutôt un squelette revêtu de peau, que le froid de ces régions avait conservé intact, et qui gardait une rigidité cadavérique. Il avait la tête inclinée, une barbe blanche qui lui tombait jusqu\'à la ceinture, des mains et des pieds armés d\'ongles longs comme des griffes\...
+
+Comment ce corps était-il appliqué contre le flanc du massif à deux toises au-dessus du sol ?\...
+
+En travers du torse, maintenu par sa bretelle de cuir, nous vîmes le canon d\'un fusil tordu, à demi rongé par la rouille\...
+
+« Pym\... mon pauvre Pym ! » répétait Dirk Peters d\'une voix déchirante.
+
+Alors il essaya de se relever pour s\'approcher\... pour baiser les restes ossifiés de son pauvre Pym\...
+
+Ses genoux fléchirent\... un sanglot lui serra la gorge\... un spasme lui fit éclater le cœur\... et il tomba à la renverse\... mort\...
+
+Ainsi donc, depuis leur séparation, le canot avait entraîné Arthur Pym à travers ces régions de l\'Antarctide !\... Comme nous, après avoir dépassé le pôle austral, il était tombé dans la zone d\'attraction du monstre !\... Et là, tandis que son embarcation s\'en allait avec le courant du nord, saisi par le fluide magnétique avant d\'avoir pu se débarrasser de l\'arme qu\'il portait en bandoulière, il avait été projeté contre le massif\...
+
+À présent, le fidèle métis repose sur la Terre du Sphinx, à côté d\'Arthur Gordon Pym, ce héros dont les étranges aventures avaient trouvé dans le grand poète américain un non moins étrange narrateur !
+
+
+]{.calibre20}
+
+
+LE SPHINX DES GLACES
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### []{#_Toc349730040 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729112 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728184 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727597 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726669 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 16 -- Douze sur soixante-dix !]{#_Toc349724353 .pcalibre .pcalibre4 .pcalibre3} {#chapitre-16-douze-sur-soixante-dix .calibre171 .sigil_not_in_toc}
+
+Ce jour même, dans l\'après-midi, le *Paracuta* abandonnait le littoral de la Terre du Sphinx que nous avions toujours eue à l\'ouest depuis le 21 février.
+
+Il y avait quatre cents milles environ à parcourir jusqu\'à la limite du cercle antarctique. Arrivés sur ces parages de l\'océan Pacifique, aurions-nous, je le répète, l\'heureuse chance d\'être recueillis par un baleinier attardé aux derniers jours de sa saison de pêche, ou même par quelque navire d\'une expédition polaire ?\...
+
+Cette seconde hypothèse avait sa raison d\'être. En effet, lorsque la goélette se trouvait en relâche aux Falklands, n\'était-il pas question de l\'expédition du lieutenant Wilkes de la marine américaine ? Sa division, composée de quatre bâtiments, le *Vincennes,* le *Peacock,* le *Porpoise,* le *Flying-Fish,* n\'avait-elle pas quitté la Terre de Feu en février 1839, avec plusieurs conserves, en vue d\'une campagne à travers les mers australes ?\...
+
+Ce qui s\'était passé depuis lors, nous l\'ignorions. Mais, après avoir essayé de remonter les longitudes occidentales, pourquoi Wilkes n\'aurait-il pas eu la pensée de chercher le passage en remontant les longitudes orientales[[\[5\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn5040){#_ftnref5040 .pcalibre4 .pcalibre3} ? Dans ce cas, il eût été possible que le *Paracuta* fît la rencontre de l\'un de ses bâtiments.
+
+En somme, ce qui devait être le plus difficile, c\'était de devancer l\'hiver de ces régions, de profiter de la mer libre, où toute navigation ne tarderait pas à devenir impraticable.
+
+La mort de Dirk Peters avait réduit à douze le chiffre des passagers du *Paracuta.* Voilà ce qui restait du double équipage des deux goélettes, la première comprenant trente-huit hommes, la seconde en comprenant trente-deux, -- en tout soixante-dix ! Mais, qu\'on ne l\'oublie pas, l\'expédition de l\'*Halbrane* avait été entreprise pour remplir un devoir d\'humanité, et quatre des survivants de la *Jane* lui devaient leur salut.
+
+Et maintenant, allons au plus vite. Sur le voyage de retour, qui fut favorisé par la constance des courants et de la brise, il n\'y a pas lieu de s\'étendre. D\'ailleurs, les notes qui servirent à rédiger mon récit ne furent point renfermées dans une bouteille jetée à la mer, recueillie par hasard sur les mers de l\'Antarctide. Je les ai rapportées moi-même, et, bien que la dernière partie du voyage ne se soit pas accomplie sans grandes fatigues, grandes misères, grands dangers, terribles inquiétudes surtout, cette campagne a eu notre sauvetage pour dénouement.
+
+Et d\'abord, quelques jours après le départ de la Terre du Sphinx, le soleil s\'était enfin couché derrière l\'horizon de l\'ouest, et ne devait plus reparaître de tout l\'hiver.
+
+C\'est donc au milieu de la demi-obscurité de la nuit australe que le *Paracuta* poursuivit sa monotone navigation. Il est vrai, les aurores polaires apparaissaient fréquemment, -- ces admirables météores que Cook et Forster aperçurent pour la première fois en 1773. Quelle magnificence dans le développement de leur arc lumineux, leurs rayons qui s\'allongent ou se raccourcissent capricieusement, l\'éclat de ces opulentes draperies qui augmente ou diminue avec une soudaineté merveilleuse en convergeant vers le point du ciel indiqué par la verticalité de l\'aiguille des boussoles ! Et quelle prestigieuse variété de formes dans les plis et replis de leurs faisceaux, qui se colorent depuis le rouge clair jusqu\'au vert émeraude !
+
+Oui !\... mais ce n\'était plus le soleil, ce n\'était pas cet astre irremplaçable qui, durant les mois de l\'été antarctique, avait sans cesse illuminé nos horizons. De cette longue nuit des pôles se dégage une influence morale et physique dont personne ne peut s\'abstraire, une impression funeste et accablante à laquelle il est bien difficile d\'échapper.
+
+Des passagers du *Paracuta,* il n\'y avait guère que le bosseman et Endicott à conserver leur habituelle bonne humeur, insensibles aux ennuis comme aux périls de cette navigation. J\'excepte aussi l\'impassible Jem West, prêt à faire face à n\'importe quelles éventualités, en homme qui est toujours sur la défensive. Quant aux deux frères Guy, le bonheur de s\'être retrouvés leur faisait le plus souvent oublier les préoccupations de l\'avenir.
+
+En vérité, je ne saurais trop faire l\'éloge de ce brave homme d\'Hurliguerly, et l\'on se réconfortait rien qu\'à l\'entendre répéter de sa voix rassurante :
+
+« Nous arriverons à bon port, mes amis, nous arriverons !\... Et, si vous comptez bien, vous verrez que pendant notre voyage, le chiffre des bonnes chances l\'a emporté sur celui des mauvaises !\... Oui !\... je le sais\... Il y a la perte de notre goélette !\... Pauvre *Halbrane,* enlevée dans les airs comme un ballon, puis précipitée dans l\'abîme comme une avalanche !\... Mais, par compensation, il y a l\'iceberg qui nous a conduits à la côte, et le canot tsalalais qui nous a rejoints avec le capitaine William Guy et ses trois compagnons !\... Et soyez sûrs que ce courant et cette brise, qui nous ont poussés jusqu\'ici, nous pousseront plus loin encore !\... Il me semble bien que la balance est en notre faveur !\... Avec tant d\'atouts dans son jeu, il n\'est pas possible de perdre la partie !\... Un seul regret, c\'est que nous allons être rapatriés en Australie ou à la Nouvelle-Zélande, au lieu d\'aller jeter l\'ancre aux Kerguelen, près du quai de Christmas-Harbour, devant le *Cormoran-Vert* !\... »
+
+Gros désappointement, en effet, pour l\'ami de maître Atkins, bien fâcheuse éventualité, dont nous prendrions aisément notre parti, cependant !
+
+Durant huit jours, cette route a été maintenue sans aucun écart, ni à l\'ouest ni à l\'est, et ce fut seulement à la date du 21 mars, que le *Paracuta* perdit sur bâbord la vue d\'Halbrane-Land.
+
+Je donne toujours ce nom à cette terre, puisque son littoral se prolongeait sans discontinuité jusqu\'à cette latitude, et il n\'était pas douteux pour nous qu\'elle constituait un des vastes continents de l\'Antarctide.
+
+Il va sans dire que si le *Paracuta* cessa de la suivre, c\'est que le courant portait au nord, alors qu\'elle s\'écartait, en s\'arrondissant vers le nord-est.
+
+Bien que les eaux de cette portion de mer fussent libres encore, elles charriaient néanmoins une véritable flottille d\'icebergs ou d\'icefields, --- ceux-ci semblables aux morceaux d\'une immense vitre rompue, ceux-là d\'une étendue superficielle ou d\'une altitude déjà considérables. De là sérieuses difficultés et aussi dangers incessants de navigation au milieu des sombres brumes, lorsqu\'il s\'agissait de manœuvrer à temps entre ces masses mouvantes, ou pour trouver des passes ou pour éviter que notre canot fût écrasé comme le grain sous la meule.
+
+Actuellement, d\'ailleurs, le capitaine Len Guy ne pouvait plus relever sa position ni en latitude ni en longitude. Le soleil absent, les calculs par la position des étoiles étant trop compliqués, il était impossible de prendre hauteur. Aussi le *Paracuta* s\'abandonnait-il à l\'action de ce courant qui portait invariablement au nord, d\'après les indications de la boussole. Toutefois, en tenant compte de sa moyenne vitesse, il y avait lieu d\'estimer que, à la date du 27 mars, notre canot se trouvait entre le 68^e^ et le 69^e^ parallèle, c\'est-à-dire, sauf erreur, à quelque soixante-dix milles seulement du cercle antarctique.
+
+Ah ! si au cours de cette périlleuse navigation il n\'eût existé aucun obstacle, si le passage eût été assuré entre cette mer intérieure de la zone australe et les parages de l\'océan Pacifique, le *Paracuta* aurait pu atteindre en peu de jours l\'extrême limite des mers australes. Mais encore quelque centaine de milles, et la banquise déroulerait son immobile rempart de glaces, et, à moins qu\'une passe fût libre, il faudrait la contourner par l\'est ou par l\'ouest. Une fois franchie, il est vrai\...
+
+Eh bien, une fois franchie, nous serions, à bord d\'une frêle embarcation, sur ce terrible océan Pacifique, à l\'époque de l\'année où redoublent ses tempêtes, où les bâtiments ne supportent pas impunément ses coups de mer\...
+
+Nous n\'y voulions pas songer\... Le Ciel nous viendrait en aide\... Nous serions recueillis\... Oui !\... nous serions recueillis par quelque navire\... Le bosseman l\'affirmait, et il n\'y avait qu\'à écouter le bosseman !\...
+
+Cependant la surface de la mer commençait à se prendre, et il fallut plusieurs fois rompre des icefields afin de se frayer un passage. Le thermomètre n\'indiquait plus que 4° (15° 56 C. sous zéro). Nous souffrions beaucoup du froid et des rafales à bord de cette embarcation non pontée, quoique nous fussions pourvus d\'épaisses couvertures.
+
+Par bonheur, il y avait en quantité suffisante, et pour quelques semaines, des conserves de viande, trois sacs de biscuits et deux fûts de gin intacts. Quant à l\'eau douce, on s\'en procurait avec de la glace fondue.
+
+Bref, pendant six jours, jusqu\'au 2 avril, le *Paracuta* dut s\'engager entre les hauteurs de la banquise, dont la crête se profilait à une altitude comprise entre sept et huit cents pieds au-dessus du niveau de la mer. On n\'en pouvait voir les extrémités ni au couchant ni au levant, et si notre canot ne rencontrait pas une passe libre, nous ne parviendrions pas à la franchir.
+
+Grâce à la plus heureuse des chances, il la trouva à cette date, il la suivit, au milieu de mille dangers. Oui ! on eut besoin de tout le zèle, de tout le courage, de toute l\'habileté de nos hommes et de leurs chefs pour se tirer d\'affaire. Aux deux capitaines Len et William Guy, au lieutenant Jem West, au bosseman, nous devons une éternelle reconnaissance.
+
+Nous étions enfin sur les eaux du Sud-Pacifique. Mais, pendant cette longue et pénible traversée, notre embarcation avait gravement souffert. Son calfatage usé, ses bordages menaçant de se disjoindre, elle faisait eau par plus d\'une couture. On s\'occupait sans cesse à la vider, et c\'était assez, c\'était déjà trop de la houle qui embarquait par-dessus le plat-bord.
+
+Il est vrai, la brise était molle, la mer plus calme qu\'on eût pu l\'espérer, et le véritable danger ne tenait pas aux risques de la navigation.
+
+Non ! il venait de ce qu\'il n\'y avait aucun navire en vue sur ces parages, aucun baleinier parcourant les lieux de pêche. Aux premiers jours d\'avril, ces lieux sont déjà abandonnés, et nous arrivions trop tard de quelques semaines\...
+
+Or, ainsi que nous devions l\'apprendre, il aurait suffi d\'être là deux mois plus tôt pour rencontrer les bâtiments de l\'expédition américaine.
+
+En effet, le 21 février, par 95° 50\' de longitude et 64° 17\' de latitude, le lieutenant Wilkes explorait ces mers avec l\'un de ses navires, le *Vincennes,* après avoir reconnu une étendue de côtes, qui se développait sur 66° de l\'est à l\'ouest. Puis, comme la mauvaise saison s\'approchait, il avait viré de bord et regagné Hobart-Town en Tasmanie.
+
+La même année, l\'expédition du capitaine français Dumont d\'Urville, partie en 1838, dans une seconde tentative pour s\'élever vers le pôle, avait, le 21 janvier, reconnu la terre Adélie par 66° 30\' de latitude et 38° 21\' de longitude orientale, puis, le 29 janvier, la côte Clarie par 64° 30\' et 129° 54\'. Leur campagne terminée après ces importantes découvertes, l\'*Astrolabe* et la *Zélée* avaient quitté l\'océan Antarctique et mis le cap sur Hobart-Town.
+
+Aucun de ces bâtiments ne se trouvait donc dans ces parages. Aussi, lorsque le *Paracuta,* cette coquille de noix, fut seul au-delà de la banquise, sur une mer déserte, nous dûmes croire que le salut n\'était plus possible.
+
+Quinze cents milles nous séparaient alors des terres les plus voisines, et l\'hiver datait d\'un mois déjà\...
+
+Hurliguerly lui-même voulut bien reconnaître que la dernière heureuse chance, sur laquelle il comptait, venait de nous manquer\...
+
+Le 6 avril, nous étions à bout de ressources, le vent commençait à fraîchir, et le canot, violemment secoué, risquait d\'être englouti à chaque lame.
+
+« Navire ! »
+
+Ce mot fut jeté par le bosseman, et, à l\'instant, nous distinguâmes un bâtiment, à quatre milles dans le nord-est, au-dessous des brumes qui venaient de se lever.
+
+Immédiatement, signaux faits, signaux aperçus. Après s\'être tenu en panne, le navire mit son grand canot à la mer pour nous recueillir.
+
+C\'était le *Tasman,* un trois-mâts américain de Charleston, où nous fûmes reçus avec empressement et cordialité. Le capitaine traita mes compagnons comme s\'ils eussent été ses propres compatriotes\...
+
+Le *Tasman* venait des îles Falklands, où il avait appris que, sept mois auparavant, la goélette anglaise *Halbrane* avait fait route pour les mers australes à la recherche des naufragés de la *Jane.* Mais la saison s\'avançant, la goélette n\'ayant pas reparu, on avait dû penser qu\'elle s\'était perdue corps et biens dans les régions antarctiques.
+
+Cette dernière traversée fut heureuse et rapide. Quinze jours après, le *Tasman* débarquait à Melbourne, province de Victoria de la Nouvelle-Hollande, ce qui avait survécu de l\'équipage des deux goélettes, et c\'est là que furent payées à nos hommes les primes qu\'ils avaient bien gagnées !
+
+Les cartes nous indiquèrent alors que le *Paracuta* avait débouqué sur le Pacifique entre la terre Clarie de Dumont d\'Urville et la terre Fabricia, reconnue par Balleny en 1838.
+
+Ainsi s\'est terminée cette aventureuse et extraordinaire campagne qui coûta trop de victimes, hélas ! Et, pour tout dire, si les hasards, si les nécessités de cette navigation nous ont entraînés vers le pôle austral plus loin que nos devanciers, si nous avons même dépassé le point axial du globe terrestre, que de découvertes de grande valeur il reste à faire encore en ces parages !
+
+Arthur Pym, le héros si magnifiquement célébré par Edgar Poe, a montré la route\... À d\'autres de la reprendre, à d\'autres d\'aller arracher au Sphinx des glaces les derniers secrets de cette mystérieuse Antarctide !

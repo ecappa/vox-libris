@@ -1,0 +1,84 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "L’INONDATION"
+slug_oeuvre: "linondation"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+L'INONDATION
+
+[Liste des contes et nouvelles
+
+!
+
+## IV
+J'ignore combien de temps nous restâmes dans la stupeur de cette crise. Quand je revins à moi, l'eau avait grandi encore. Maintenant, elle atteignait les tuiles ; le toit n'était plus qu'une île étroite, émergeant de la nappe immense. À droite, à gauche, les maisons avaient dû s'écrouler. La mer s'étendait.
+
+--- Nous marchons, murmurait Rose qui se cramponnait aux tuiles.
+
+Et nous avions tous, en effet, une sensation de roulis, comme si la toiture emportée se fût changée en radeau. Le grand ruissellement semblait nous charrier. Puis, quand nous regardions le clocher de l'église, immobile en face de nous, ce vertige cessait ; nous nous retrouvions à la même place, dans la houle des vagues.
+
+L'eau, alors, commença l'assaut. Jusque-là, le courant avait suivi la rue ; mais les décombres qui la barraient à présent, le faisaient refluer. Ce fut une attaque en règle. Dès qu'une épave, une poutre, passait à la portée du courant, il la prenait, la balançait, puis la précipitait contre la maison comme un bélier. Et il ne la lâchait plus, il la retirait en arrière, pour la lancer de nouveau, en battait les murs à coups redoublés, régulièrement. Bientôt, dix, douze poutres nous attaquèrent ainsi à la fois, de tous les côtés. L'eau rugissait. Des crachements d'écume mouillaient nos pieds. Nous entendions le gémissement sourd de la maison pleine d'eau, sonore, avec ses cloisons qui craquaient déjà. Par moments, à certaines attaques plus rudes, lorsque les poutres tapaient d'aplomb, nous pensions que c'était fini, que les murailles s'ouvraient et nous livraient à la rivière, par leurs brèches béantes.
+
+Gaspard s'était risqué au bord même du toit. Il parvint à saisir une poutre, la tira de ses gros bras de lutteur.
+
+--- Il faut nous défendre, criait-il.
+
+Jacques, de son côté, s'efforçait d'arrêter au passage une longue perche. Pierre l'aida. Je maudissais l'âge, qui me laissait sans force, aussi faible qu'un enfant. Mais la défense s'organisait, un duel, trois hommes contre un fleuve. Gaspard, tenant sa poutre en arrêt, attendait les pièces de bois dont le courant faisait des béliers ; et, rudement, il les arrêtait, à une courte distance des murs. Parfois, le choc était si violent, qu'il tombait. À côté de lui, Jacques et Pierre manoeuvraient la longue perche, de façon à écarter également les épaves. Pendant près d'une heure, cette lutte inutile dura. Peu à peu, ils perdaient la tête, jurant, tapant, insultant l'eau. Gaspard la sabrait, comme s'il se fût pris corps à corps avec elle, la trouait de coups de pointe ainsi qu'une poitrine. Et l'eau gardait sa tranquille obstination, sans une blessure, invincible. Alors, Jacques et Pierre s'abandonnèrent sur le toit, exténués ; tandis que Gaspard, dans un dernier élan, se laissait arracher par le courant sa poutre, qui, à son tour, nous battit en brèche. Le combat était impossible.
+
+Marie et Véronique s'étaient jetées dans les bras l'une de l'autre. Elles répétaient, d'une voix déchirée, toujours la même phrase, une phrase d'épouvante que j'entends encore sans cesse à mes oreilles :
+
+--- Je ne veux pas mourir !... Je ne veux pas mourir !
+
+Rose les entourait de ses bras. Elle cherchait à les consoler, à les rassurer ; et elle-même, toute grelottante, levait sa face et criait malgré elle :
+
+--- Je ne veux pas mourir !
+
+Seule, tante Agathe ne disait rien. Elle ne priait plus, ne faisait plus le signe de la croix. Hébétée, elle promenait ses regards, et tâchait encore de sourire, quand elle rencontrait mes yeux.
+
+L'eau battait les tuiles, maintenant. Aucun secours n'était à espérer. Nous entendions toujours des voix, du côté de l'église ; deux lanternes, un moment, avaient passé au loin ; et le silence de nouveau s'élargissait, la nappe jaune étalait son immensité nue. Les gens de Saintin, qui possédaient des barques, devaient avoir été surpris avant nous.
+
+Gaspard, cependant, continuait à rôder sur le toit. Tout d'un coup, il nous appela. Et il disait :
+
+--- Attention !... Aidez-moi. Tenez-moi ferme.
+
+Il avait repris une perche, il guettait une épave, énorme, noire, dont la masse nageait doucement vers la maison. C'était une large toiture de hangar, faite de planches solides, que les eaux avaient arrachée tout entière, et qui flottait, pareille à un radeau. Quand cette toiture fut à sa portée, il l'arrêta avec sa perche ; et, comme il se sentait emporté, il nous criait de l'aider. Nous l'avions saisi par la taille, nous le tenions ferme. Puis, dès que l'épave entra dans le courant, elle vint d'elle-même aborder contre notre toit, si rudement même, que nous eûmes peur un instant de la voir voler en éclats.
+
+Gaspard avait hardiment sauté sur ce radeau que le hasard nous envoyait. Il le parcourait en tous sens, pour s'assurer de sa solidité, pendant que Pierre et Jacques le maintenaient au bord du toit ; et il riait, il disait joyeusement :
+
+--- Grand-père, nous voilà sauvés... Ne pleurez plus, les femmes !... Un vrai bateau. Tenez ! Mes pieds sont à sec. Et il nous portera bien tous. Nous allons être comme chez nous, là-dessus !
+
+Pourtant, il crut devoir le consolider. Il saisit les poutres qui flottaient, les lia avec des cordes, que Pierre avait emportées à tout hasard, en quittant les chambres du bas. Il tomba même dans l'eau ; mais, au cri qui nous échappa, il répondit par de nouveaux rires. L'eau le connaissait, il faisait une lieue de Garonne à la nage. Remonté sur le toit, il se secoua, en s'écriant :
+
+--- Voyons, embarquez, ne perdons pas de temps.
+
+Les femmes s'étaient mises à genoux. Gaspard dut porter Véronique et Marie au milieu du radeau, où il les fit asseoir. Rose et tante Agathe glissèrent d'elles-mêmes sur les tuiles et allèrent se placer auprès des jeunes filles. À ce moment, je regardai du côté de l'église. Aimée était toujours là. Elle s'adossait maintenant contre une cheminée, et elle tenait ses enfants en l'air, au bout des bras, ayant déjà de l'eau jusqu'à la ceinture.
+
+--- Ne vous affligez pas, grand-père, me dit Gaspard. Nous allons la prendre en passant, je vous le promets.
+
+Pierre et Jacques étaient montés sur le radeau. J'y sautai à mon tour. Il penchait un peu d'un côté, mais il était réellement assez solide pour nous porter tous. Enfin, Gaspard quitta le toit le dernier, en nous disant de prendre des perches, qu'il avait préparées et qui devaient nous servir de rames. Lui-même en tenait une très longue, dont il se servait avec une grande habileté. Nous nous laissions commander par lui. Sur un ordre qu'il nous donna, nous appuyâmes tous nos perches contre les tuiles pour nous éloigner. Mais il semblait que le radeau fût collé au toit. Malgré tous nos efforts, nous ne pouvions l'en détacher. À chaque nouvel essai, le courant nous ramenait vers la maison, violemment. Et c'était là une manoeuvre des plus dangereuses, car le choc menaçait chaque fois de briser les planches sur lesquelles nous nous trouvions.
+
+Alors, de nouveau, nous eûmes le sentiment de notre impuissance. Nous nous étions crus sauvés, et nous appartenions toujours à la rivière. Même, je regrettais que les femmes ne fussent plus sur le toit ; car, à chaque minute, je les voyais précipitées, entraînées dans l'eau furieuse. Mais, quand je parlai de regagner notre refuge, tous crièrent :
+
+--- Non, non, essayons encore. Plutôt mourir ici !
+
+Gaspard ne riait plus. Nous renouvelions nos efforts, pesant sur les perches avec un redoublement d'énergie. Pierre eut enfin l'idée de remonter la pente des tuiles et de nous tirer vers la gauche, à l'aide d'une corde ; il put ainsi nous mener en dehors du courant ; puis, quand il eut de nouveau sauté sur le radeau, quelques coups de perche nous permirent de gagner le large. Mais Gaspard se rappela la promesse qu'il m'avait faite d'aller recueillir notre pauvre Aimée, dont le hurlement plaintif ne cessait pas. Pour cela, il fallait traverser la rue, où régnait ce terrible courant, contre lequel nous venions de lutter. Il me consulta du regard. J'étais bouleversé, jamais un pareil combat ne s'était livré en moi. Nous allions exposer huit existences. Et pourtant, si j'hésitai un instant, je n'eus pas la force de résister à l'appel lugubre.
+
+--- Oui, oui, dis-je à Gaspard. C'est impossible, nous ne pouvons nous en aller sans elle.
+
+Il baissa la tête, sans une parole, et se mit, avec sa perche, à se servir de tous les murs restés debout. Nous longions la maison voisine, nous passions par-dessus nos étables. Mais, dès que nous débouchâmes dans la rue, un cri nous échappa. Le courant, qui nous avait ressaisis, nous emportait de nouveau, nous ramenait contre notre maison. Ce fut un vertige de quelques secondes. Nous étions roulés comme une feuille, si rapidement, que notre cri s'acheva dans le choc épouvantable du radeau sur les tuiles. Il y eut un déchirement, les planches déclouées tourbillonnèrent, nous fûmes tous précipités. J'ignore ce qui se passa alors. Je me souviens qu'en tombant je vis tante Agathe à plat sur l'eau, soutenue par ses jupes ; et elle s'enfonçait, la tête en arrière, sans se débattre.
+
+Une vive douleur me fit ouvrir les yeux. C'était Pierre qui me tirait par les cheveux, le long des tuiles. Je restai couché, stupide, regardant. Pierre venait de replonger. Et, dans l'étourdissement où je me trouvais, je fus surpris d'apercevoir tout d'un coup Gaspard, à la place où mon frère avait disparu : le jeune homme portait Véronique dans ses bras. Quand il l'eut déposée près de moi, il se jeta de nouveau, il retira Marie, la face d'une blancheur de cire, si raide et si immobile, que je la crus morte. Puis, il se jeta encore. Mais, cette fois, il chercha inutilement. Pierre l'avait rejoint. Tous deux se parlaient, se donnaient des indications que je n'entendais pas. Comme ils remontaient sur le toit, épuisés :
+
+--- Et tante Agathe ! Criai-je, et Jacques ! Et Rose !
+
+Ils secouèrent la tête. De grosses larmes roulaient dans leurs yeux. Aux quelques mots qu'ils me dirent, je compris que Jacques avait eu la tête fracassée par le heurt d'une poutre. Rose s'était cramponnée au cadavre de son mari, qui l'avait emportée. Tante Agathe n'avait pas reparu. Nous pensâmes que son corps, poussé par le courant, était entré dans la maison, au-dessous de nous, par une fenêtre ouverte.
+
+Et, me soulevant, je regardai vers la toiture où Aimée se cramponnait quelques minutes auparavant. Mais l'eau montait toujours. Aimée ne hurlait plus. J'aperçus seulement ses deux bras raidis, qu'elle levait pour tenir ses enfants hors de l'eau. Puis, tout s'abîma, la nappe se referma, sous la lueur dormante de la lune.

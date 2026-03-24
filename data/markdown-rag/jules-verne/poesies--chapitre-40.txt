@@ -1,0 +1,37 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 40"
+slug_section: "chapitre-40"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 40 -- Le cancan
+J'ai souvent du jeune homme admiré le cancan ;
+Je l'ai vu s'agiter à l'instar de la canne,
+Voler plus promptement que les soldats du Khan,
+Plus vite que le plomb fuyant la sarbacane ;
+
+J'ai souvent entendu des vieilles le cancan,
+Qui sournois dit son mot, ferme un œil et ricane,
+Puis gronde, et puis s'enflamme, et devient un volcan,
+Qui trop souvent hélas ! vomit des coups de canne ;
+ Eh bien ! un bon penseur, du haut du Vatican,
+Sans mettre son esprit trop longtemps au carcan,
+Peut dire, sans laisser matière à la chicane :
+
+Le cancan, c'est la vie ! ici, dans Astrakan,
+Qu'on soit femme, homme, Turc, Français, Russe, Anglican ;
+Vieux... on fait des cancans ; et jeune... l'on cancane !
+
+FIN des POÉSIES

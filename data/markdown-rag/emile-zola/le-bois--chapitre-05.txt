@@ -1,0 +1,26 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE BOIS"
+slug_oeuvre: "le-bois"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LE BOIS
+
+[Liste des contes et nouvelles
+
+!
+
+## V
+Ah ! Mes beaux dimanches de la banlieue, lorsque j'avais vingt ans ! Ils sont restés un de mes plus chers souvenirs. Depuis, j'ai connu d'autres bonheurs, mais rien ne vaut d'être jeune et de se sentir lâché pour un jour dans la liberté des grands bois.
+
+FIN du BOIS
+
+Liste des contes et nouvelles[

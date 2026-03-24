@@ -1,0 +1,370 @@
+### [[Chapitre 6 -- Marcel Camaret]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942919 .pcalibre2 .pcalibre1} {#chapitre-6-marcel-camaret .calibre171 .sigil_not_in_toc}
+
+Stupéfiés par cet accueil, dont la banale courtoisie devenait extraordinaire en de telles circonstances, les six Européens, suivis des deux nègres, s\'engagèrent dans l\'escalier, que de nombreuses ampoules électriques éclairaient largement. Après avoir gravi une vingtaine de marches, ils pénétrèrent dans un second vestibule, où ils firent halte. Monté le dernier, Marcel Camaret traversa ce vestibule, et, ouvrant une nouvelle porte, s\'effaça comme précédemment pour livrer passage à ses hôtes inattendus.
+
+Ceux-ci entrèrent dans une immense pièce où régnait un grand désordre. Une table à dessin en occupait l\'un des côtés, et une grande bibliothèque les trois autres. Une dizaine de sièges y erraient au hasard, tous encombrés par des piles de livres et de papiers. Marcel Camaret enleva une de ces piles, la déposa tranquillement par terre et prit possession du siège ainsi rendu libre. Encouragés par cet exemple, ses hôtes l\'imitèrent, et bientôt tout le monde fut assis, à l\'exception de Malik et de Tongané, restés respectueusement debout.
+
+--- Que puis-je pour votre service ? demanda alors Marcel Camaret qui paraissait vraiment trouver des plus naturelles cette visite insolite.
+
+Pendant les quelques minutes employées à leur installation, les fugitifs avaient eu le temps d\'examiner le personnage dont ils violaient si audacieusement le domicile, et cet examen ne laissait pas de les avoir rassurés. Qu\'il fût étrange, cet inconnu salué par Tongané du nom de Camaret, que sa distraction, si grande qu\'il les avait frôlés sur le quai sans les voir, que son air « absent » et détaché de toutes les contingences, que le calme et la simplicité avec lesquels il accueillait des gens qui avaient fait irruption chez lui d\'une manière aussi brutale, fussent extraordinaires, cela n\'était pas contestable.
+
+Mais ces particularités assurément anormales n\'étaient pas contradictoires avec l\'honnêteté, plus exactement avec « l\'innocence » évidente de cet homme, dont le corps à peine formé ressemblait à celui d\'un adolescent. Non, le propriétaire de ce front largement modelé et du limpide regard de ces yeux admirables ne pouvait appartenir à la même famille morale qu\'un Harry Killer, bien que tout démontrât qu\'il en partageait la vie.
+
+--- Monsieur Camaret, répondit Barsac, mis en confiance, nous venons solliciter votre protection.
+
+--- Ma protection ?\... répéta Camaret avec un accent de légère surprise. Contre qui, mon Dieu ?
+
+--- Comme le maître ou plutôt le despote de cette ville, contre Harry Killer.
+
+--- Harry Killer !\... Un despote !\... répéta encore Camaret qui semblait n\'y rien comprendre.
+
+--- Ne le saviez-vous pas ? demanda Barsac surpris à son tour.
+
+--- Ma foi non.
+
+--- Vous ne pouvez ignorer, cependant, qu\'il existe une ville dans votre voisinage ? Insista Barsac un peu impatienté.
+
+--- Certes ! reconnut Marcel Camaret.
+
+--- Ni que cette ville s\'appelle Blackland ?
+
+--- Ah ! C\'est Blackland qu\'on l\'a nommée ?\... fit Camaret. Le nom n\'est pas mauvais, en effet\... Non, je ne le connaissais pas, mais je le connais maintenant, puisque vous me l\'avez appris. Cela m\'est, d\'ailleurs, fort indifférent.
+
+--- Si vous ne saviez pas le nom de cette ville, reprit Barsac, non sans une certaine ironie, vous saviez, du moins, je suppose, qu\'elle est habitée, qu\'elle possède même une population assez nombreuse ?
+
+--- Évidemment, répondit Camaret avec sérénité.
+
+--- Or, à toute ville, il faut une administration, un gouvernement.
+
+--- En effet\...
+
+--- À Blackland, le gouvernement tient tout entier dans la personne d\'Harry Killer, lequel n\'est qu\'un bandit, un despote cruel et sanguinaire, une brute alcoolique, pour ne pas dire un fou.
+
+Marcel Camaret avait relevé vers Barsac ses yeux qu\'il avait tenus baissés jusqu\'alors. Il semblait éperdu, stupéfait surtout, et avait positivement l\'air de tomber de la lune.
+
+--- Oh ! oh !\... murmura-t-il avec un peu d\'égarement. Vous employez des expressions\...
+
+--- Très insuffisantes encore au regard des faits qui les motivent, continua Barsac qui s\'échauffait, mais, tout d\'abord, permettez-moi de vous dire qui nous sommes.
+
+Camaret ayant acquiescé d\'un geste d\'indifférence polie qui n\'était pas des plus encourageants, il procéda aux présentations. Laissant à Jane Buxton le pseudonyme qu\'elle avait choisi, il désigna successivement ses compagnons et soi-même, en indiquant après chaque nom, la qualité de la personne présentée.
+
+--- Et enfin, conclut-il, voici Tongané, sur lequel je n\'ai pas à insister, puisque vous le connaissez, paraît-il.
+
+--- Oui\... Oui\... dit doucement Camaret, dont les regards étaient de nouveau tournés vers le sol.
+
+--- Chargé par le Gouvernement français\... Mais, au fait, vous devez être Français, monsieur Camaret ?
+
+--- Oui\... Oui\... Murmura encore l\'ingénieur d\'un ton sans chaleur.
+
+--- Chargé, comme je vous le disais, par le Gouvernement français de diriger, dans la boucle du Niger, une mission dont mes compagnons ici présents faisaient partie, reprit Barsac, nous avons eu à lutter sans cesse contre les obstacles qu\'Harry Killer accumulait à plaisir devant nous.
+
+--- Dans quel but aurait-il agi ainsi ? Objecta Camaret, faisant preuve d\'un commencement d\'attention.
+
+--- Dans le but de nous barrer la route du Niger, car Harry Killer veut que son repaire reste ignoré de tous. C\'est pourquoi il s\'est efforcé de nous écarter de cette région, de peur que nous n\'entendions parler de Blackland, dont personne, en Europe, ne soupçonne même l\'existence.
+
+--- Que me dites-vous là ? s\'écria Camaret avec une vivacité qui ne lui était pas habituelle. Il est impossible qu\'on ignore cette ville en Europe, où de nombreux ouvriers sont retournés, après avoir séjourné ici un temps plus ou moins long.
+
+--- Il en est cependant ainsi, répliqua Barsac.
+
+--- Vous m\'affirmez, insista Camaret de plus en plus troublé, que personne, je dis : personne, ne nous connaît ?
+
+--- Absolument personne.
+
+--- Et qu\'on considère toujours cette partie du désert comme tout à fait inhabitée ?
+
+--- Oui, monsieur, je l\'affirme.
+
+Camaret s\'était levé. En proie à une émotion violente, il marchait de long en large à travers la pièce.
+
+--- Inconcevable !\... Inconcevable !\... murmurait-il.
+
+Son agitation ne dura que quelques instants. Bientôt, ayant retrouvé le calme par un effort de volonté, il reprit son siège.
+
+--- Continuez, monsieur, je vous en prie, dit-il, un peu plus pâle seulement que de coutume.
+
+--- Je ne vous ennuierai pas, reprit Barsac, déférant à cette invitation, avec le récit de toutes les vexations que nous avons eu à subir. Il me suffira de vous dire, qu\'après avoir réussi à nous séparer de notre escorte, Harry Killer, furieux de voir que nous persistions dans la direction qu\'il nous interdisait, nous a fait enlever en pleine nuit par ses hommes et nous a transportés ici, où, depuis quinze jours, il nous retient prisonniers, en nous menaçant de la corde à tout propos.
+
+Un peu de sang était monté au visage de Marcel Camaret, dont le regard commençait à prendre une expression menaçante.
+
+--- Ce que vous me dites là est inimaginable ! s\'écria-t-il, quand Barsac eut fini de parler. Comment ! Harry Killer se serait conduit de la sorte !
+
+--- Et ce n\'est pas tout, dit Barsac, qui raconta l\'odieuse violence dont Jane Buxton était victime et le massacre des deux nègres, l\'un frappé par une torpille aérienne, l\'autre saisi par un planeur et précipité sur la plate-forme de la tour, où il s\'était affreusement broyé.
+
+Marcel Camaret était bouleversé. Pour la première fois peut-être, il quittait le domaine de la pure abstraction et prenait contact avec la réalité. Son honnêteté latente avait fort à souffrir de cette rencontre. Eh quoi ! lui qui n\'eût pas écrasé un insecte, il avait, sans se douter de rien, vécu de longues années auprès d\'un être capable de pareilles atrocités !
+
+--- C\'est abominable\... Affreux ! disait-il.
+
+L\'horreur que lui inspirait le récit de Barsac était, à n\'en pas douter, aussi sincère que profonde. Comment concilier cette sensibilité, cette droiture morale certaine avec sa présence dans une ville que la qualité du chef rendait aussi suspecte ?
+
+--- Mais enfin, monsieur, fit observer Barsac, traduisant la pensée de tous, un homme qui commet froidement de tels actes n\'en est pas à son coup d\'essai. Harry Killer a sûrement d\'autres crimes sur la conscience. Vous les ignorez donc ?
+
+--- Et vous, vous osez me poser cette question ? protesta Camaret révolté.
+
+Certes, oui, je les ignore, comme j\'ignorais ceux que vous venez de me révéler et ceux, plus terribles encore, que je soupçonne maintenant.
+
+Ne sortant guère de cette usine qui repose tout entière sur moi, occupé à enfanter des choses, dont plusieurs sont étonnantes, je peux le dire, je n\'ai rien vu, rien su, jamais rien.
+
+--- Si nous vous comprenons bien, dit Barsac, vous répondriez indirectement, au moins en partie, à une question que nous nous posons depuis que nous sommes ici. C\'est pour nous un grand étonnement que cette ville et la campagne environnante puissent être l\'oeuvre d\'un Harry Killer. Quand on songe qu\'il y a dix ans c\'était ici un océan de sable ! Dans quel but qu\'elle ait été accomplie, la transformation est prodigieuse. Or, quand bien même Harry Killer aurait été doué, dans le principe, d\'une véritable intelligence, il y a longtemps que cette intelligence serait noyée dans l\'alcool, et nous ne nous expliquons pas comment ce dégénéré peut être l\'auteur de telles merveilles.
+
+--- Lui ! s\'écria Marcel Camaret, emporté par une soudaine indignation. Lui ! Ce néant, ce zéro ! Y pensez-vous ! L\'oeuvre est belle, en effet, mais, pour la réaliser, il fallait autre chose qu\'un Harry Killer.
+
+--- Quel en serait donc l\'auteur ? demanda Barsac.
+
+--- Moi ! Prononça superbement Marcel Camaret, le visage étincelant d\'orgueil. C\'est moi qui ai créé tout ce qui existe ici. C\'est moi qui ai répandu la pluie bienfaisante sur le sol aride et brûlé du désert. C\'est moi qui l\'ai transformé en campagne verdoyante et fertile. C\'est moi qui, de rien, ai fait cette ville, ainsi que Dieu, du néant, a fait l\'univers !
+
+Barsac et ses compagnons échangèrent un regard inquiet. Tandis que, tout frémissant d\'un maladif enthousiasme, il chantait cet hymne à sa propre gloire, Marcel Camaret levait vers le ciel des yeux égarés, comme s\'il y eût cherché celui auquel il osait se comparer.
+
+N\'avait-on donc fait que passer d\'un fou à un fou ?
+
+--- Puisque, dit le docteur Châtonnay après un instant de silence, vous êtes l\'auteur de ce que nous avons vu ici, comment avez-vous pu abandonner votre oeuvre à Harry Killer, sans vous inquiéter de l\'usage qu\'il en ferait ?
+
+--- Quand elle a lancé les astres dans l\'infini, répliqua superbement Camaret, la puissance éternelle s\'est-elle inquiétée du mal qui en résulterait ?
+
+--- Elle punit quelquefois, murmura le docteur.
+
+--- Et je punirai comme elle, s\'il y a lieu, affirma Camaret, dont les yeux eurent de nouveau une inquiétante lueur.
+
+Les fugitifs étaient démoralisés. Quel fond pouvaient-ils faire sur cet homme, génial peut-être, mais assurément déséquilibré, capable, à la fois, d\'un aussi complet aveuglement et de cet orgueil démesuré ?
+
+--- Serait-il indiscret, monsieur Camaret, dit Amédée Florence, désireux de ramener la conversation vers des sujets plus concrets, de vous demander comment vous avez connu Harry Killer et comment le projet de fonder Blackland a pu naître dans votre cerveau ?
+
+--- En aucune façon, répondit avec douceur Marcel Camaret, qui revenait graduellement à son calme habituel. Le projet est d\'Harry Killer. L\'exécution seule est de moi. J\'ai connu Harry Killer lorsque je faisais partie d\'une expédition organisée par une compagnie anglaise, et que commandait un capitaine en disponibilité, du nom de George Buxton\...
+
+À ce nom, tous les regards convergèrent vers Jane. Mais celle-ci demeura impassible.
+
+--- Tongané faisait partie de cette expédition en qualité de sergent, continuait cependant Camaret, et c\'est pourquoi je l\'ai reconnu tout à l\'heure, bien qu\'il se soit écoulé, depuis lors, pas mal d\'années.
+
+En ce qui me concerne, j\'avais été engagé à titre d\'ingénieur, avec mission d\'étudier l\'orographie, l\'hydrographie et surtout la minéralogie des régions traversées. Partis d\'Acera, dans la colonie des Achantis, nous nous dirigions vers le nord depuis déjà deux mois, quand, un beau jour, Harry Killer arriva parmi nous. Bien accueilli par notre chef, il fut incorporé à notre colonne et ne la quitta plus.
+
+--- N\'est-il pas exact, même, demande Jane, qu\'il se substitua peu à peu au capitaine Buxton qu\'on cessa bientôt d\'apercevoir ?
+
+Camaret se tourna du côté de la jeune fille.
+
+--- Je ne pourrais vous dire\... Lui répondit-il avec hésitation, sans manifester, d\'ailleurs, aucun étonnement de la question. Fort occupé par mes études, je n\'ai pu, vous le comprendrez, remarquer ces détails, et je ne voyais guère plus Harry Killer que George Buxton. Quoi qu\'il en soit, en revenant, un jour, d\'une excursion personnelle de quarante-huit heures, je n\'ai plus trouvé la colonne au campement où je l\'avais laissée. Il n\'y avait plus rien, ni hommes, ni matériel. Fort ennuyé, cela se conçoit, je me demandais dans quelle direction je devais aller, quand je fus abordé par Harry Killer.
+
+Il me dit que le capitaine Buxton était retourné à la côte, en emmenant la majeure partie du personnel, et qu\'il était chargé de terminer, avec une quinzaine d\'hommes et moi, l\'itinéraire de l\'expédition. Que m\'importait, à moi, Harry Killer ou le capitaine Buxton, que d\'ailleurs, je n\'aurais su où rejoindre ? Je suivis donc Harry Killer sans difficulté. Celui-ci avait eu vent de quelques inventions assez intéressantes que je portais en moi, à ce moment. Il me conduisit ici et me proposa de les réaliser.
+
+J\'acceptai. Telle est l\'origine de mes rapports avec Harry Killer.
+
+--- Vous me permettrez, monsieur Camaret, de compléter vos renseignements et de vous apprendre ce que vous paraissez ignorer, dit Jane Buxton d\'une voix grave. Du jour où Harry Killer fit partie de l\'expédition du capitaine Buxton, la colonne que celui-ci commandait devint une troupe de bandits. Des villages furent incendiés par elle, des hommes massacrés en grand nombre, des femmes éventrées, des enfants coupés en morceaux.
+
+--- Impossible ?\... protesta Camaret. J\'étais là, que diable ! Et je n\'ai rien vu de tout cela.
+
+--- Comme vous ne nous avez pas vus tout à l\'heure en passant devant nous, comme vous avez ignoré, pendant dix ans, les actes d\'Harry Killer. Hélas ! Les événements que je vous révèle ne sont pas contestables. Ce sont malheureusement des faits historiques connus du monde entier.
+
+--- Et je n\'en aurais rien su ! Balbutia Marcel Camaret atterré.
+
+--- Quoi qu\'il en soit, reprit Jane Buxton, le bruit de ces atrocités parvint en Europe. Des soldats furent envoyés contre la colonne révoltée de George Buxton, qui fut anéantie. Le jour où vous n\'avez plus trouvé personne en revenant au campement que vous aviez quitté, George Buxton n\'était pas parti. Il était mort.
+
+--- Mort ! répéta Camaret stupéfait.
+
+--- Oui, mais non pas frappé, comme on l\'avait cru jusqu\'ici, par les balles des soldats envoyés à sa poursuite. George Buxton était mort assassiné.
+
+--- Assassiné !\...
+
+--- On vous a trompé tout à l\'heure.
+
+Je ne m\'appelle pas Mornas. Je m\'appelle Jane Buxton, et suis la soeur de votre ancien chef. C\'est pourquoi j\'ai reconnu votre nom quand Tongané l\'a prononcé devant moi. Si je suis venue en Afrique, c\'est pour y chercher les preuves de l\'innocence de mon malheureux frère, accusé de crimes certainement commis par un autre.
+
+--- Assassiné !\... répétait Camaret, accablé sous le poids de ces révélations successives.
+
+--- Et assassiné par-derrière, précisa Jane, qui retira de sa ceinture l\'arme qui avait tué George Buxton. En compagnie de ces messieurs, je suis allée à la tombe de mon frère, et, en leur présence, j\'ai exhumé ses ossements. Nous en avons rapporté ce poignard, qui, traversant l\'omoplate dans laquelle il était encore fixé, l\'avait frappé en plein coeur. Le nom du meurtrier était jadis gravé sur le manche. Le temps malheureusement l\'a effacé. Deux lettres en subsistent cependant, un i et un l, et, après ce que vous nous avez appris, je ne crois pas me tromper en disant que ce nom doit être lu : Harry Killer.
+
+En entendant cette tragique histoire, Marcel Camaret manifestait une agitation croissante. Il croisait et désunissait fébrilement ses doigts, passait fiévreusement les mains sur son visage, où perlaient des gouttes de sueur.
+
+--- C\'est horrible !\... Horrible !\... Moi, j\'aurais fait ça !\... Moi !\... répétait-il à satiété, tandis qu\'une lueur trouble s\'allumait de nouveau dans ses yeux dilatés.
+
+--- Nous accordez-vous asile ? demanda Barsac sous forme de conclusion.
+
+--- Si je vous l\'accorde !\... répondit Camaret avec une chaleur qui ne lui était pas habituelle.
+
+Est-il utile de me le demander ? Pouvez-vous me croire complice de ces crimes abominables, que je punirai, au contraire, soyez-en sûr !
+
+--- Avant de parler de punir, il faut songer à nous défendre, fit observer Amédée Florence toujours pratique. N\'y a-t-il pas à craindre, en effet, qu\'Harry Killer ne cherche à nous reprendre ?
+
+Marcel Camaret sourit.
+
+--- Il ne sait pas que vous êtes ici, dit-il, et, quand bien même il le saurait\...
+
+Un geste, montrant qu\'il se souciait peu de cette éventualité, acheva sa pensée.
+
+--- Pour le moment, reprit-il, reposez-vous paisiblement. Vous êtes en sûreté, n\'en doutez pas.
+
+Il appuya sur un bouton de sonnerie. Un domestique noir parut.
+
+--- Joko, dit Camaret comme une chose toute simple, au nègre qui roulait des yeux effarés, tu vas conduire ces messieurs et cette dame dans leurs chambres.
+
+Il se leva et se dirigea vers une porte qu\'il ouvrit.
+
+--- Bonsoir, messieurs, dit-il poliment.
+
+Et il disparut, laissant ses hôtes aussi étonnés que le nègre, auquel était dévolue la difficile mission de leur indiquer un lit.
+
+Car, des lits, où en aurait-il trouvé, le malheureux Joko ? Aucun n\'était libre dans l\'Usine, où rien n\'avait été prévu pour d\'impossibles étrangers. Serait-il donc obligé d\'aller de porte en porte et de réveiller tous les ouvriers les uns après les autres ?
+
+Voyant son embarras, Barsac l\'assura que ses compagnons et lui se passeraient fort bien d\'un lit.
+
+Ils resteraient où ils étaient et priaient simplement Joko de réunir tout ce qu\'il pourrait, en fait de fauteuils et de couvertures.
+
+On s\'en accommoderait d\'autant mieux que la nuit était fort avancée.
+
+On atteignit ainsi l\'aube. À six heures précises, Marcel Camaret rouvrit la porte par laquelle il s\'était retiré la veille. Il ne parut nullement surpris de voir son cabinet transformé en dortoir.
+
+--- Bonjour, messieurs, dit-il à ses hôtes, aussi tranquillement que, la veille, il leur avait souhaité le bonsoir.
+
+--- Bonjour, monsieur Camaret, lui répondit-on d\'une seule voix.
+
+--- Messieurs, reprit Camaret, j\'ai réfléchi à ce que vous m\'avez raconté cette nuit. Cette situation ne peut se prolonger. Nous allons agir immédiatement. Il appuya sur un bouton. Une violente sonnerie retentit aussitôt de tous côtés.
+
+--- Veuillez me suivre, messieurs, dit-il.
+
+Après avoir parcouru plusieurs couloirs, on arriva dans un vaste atelier que garnissaient de nombreuses machines-outils, immobiles pour l\'instant. Autour d\'elles se pressait une foule d\'hommes et de femmes.
+
+--- Tout le monde est-il là ? demanda Marcel Camaret. Rigaud, fais l\'appel, je te prie.
+
+L\'appel ayant permis de constater que le personnel de l\'Usine était au complet, Camaret prit la parole. Il présenta d\'abord les étrangers qui étaient venus réclamer sa protection. Puis il exposa ce qu\'il avait appris au cours de la nuit précédente. Atrocités commises par la troupe de George Buxton tombée pour un motif ou un autre sous la direction d\'Harry Killer, assassinat, vraisemblablement imputable à celui-ci, du commandant de cette expédition, enlèvement puis internement de la mission Barsac, violence faite par Killer à Jane Buxton, et enfin meurtre aussi cruel qu\'injustifié de deux Noirs, il n\'oublia rien de ce qui pouvait frapper l\'esprit de ses auditeurs.
+
+De tous ces faits, il résulta qu\'ils étaient tous, à leur insu, au service d\'un véritable bandit, et il y avait lieu de craindre, par conséquent, que le travail de l\'Usine ne servît à l\'accomplissement de nouveaux crimes. Une telle situation ne pouvant se prolonger, et l\'honneur interdisant, au surplus, de rendre à Harry Killer les prisonniers qu\'il détenait sans droit, il y avait lieu, d\'après lui, de rompre toute relation avec le Palais et d\'exiger un rapatriement général.
+
+Écouté au milieu d\'un profond silence, le récit de Camaret provoqua d\'abord un étonnement bien naturel parmi ces honnêtes travailleurs. Quand leur agitation fut un peu calmée, sa conclusion obtint leur complète approbation. Auquel des ouvriers, d\'ailleurs, la pensée aurait-elle pu venir d\'exprimer un avis contraire à celui de leur directeur unanimement admiré et respecté ?
+
+Celui-ci acheva de frapper l\'imagination de ses auditeurs, en leur faisant part de la très juste réflexion suivante :
+
+--- Ce qui m\'a le plus surpris, leur dit-il, parmi les choses incroyables que j\'ai apprises cette nuit, c\'est qu\'on ignore en Europe l\'existence de cette ville, que Killer aurait nommée Blackland, paraît-il. Je ne suis pas sans savoir qu\'elle a été fondée, hors de toute route suivie par les caravanes, au coeur d\'un désert où personne ne vient jamais, et pour cause. Mais il n\'en est pas moins certain que plusieurs de vos camarades, après avoir passé ici un temps plus ou moins long, ont été pris du mal du pays et ont désiré y retourner. J\'en ai fait le compte cette nuit. Depuis l\'origine, il y a eu exactement cent trente-sept départs.
+
+Or, si quelques-uns seulement de ces cent trente-sept ouvriers étaient arrivés en Europe, l\'existence de cette ville ne pourrait plus être ignorée. Puisque personne ne l\'y connaît, il faut nécessairement qu\'aucun des cent trente-sept ouvriers partis ne soit jamais arrivé à destination.
+
+Pas un cri ne s\'éleva de la foule des ouvriers, que ce raisonnement rigoureux semblait avoir frappé de stupeur.
+
+--- Il résulte par conséquent du passé, conclut Camaret, qu\'aucun de vous ne peut espérer revoir son pays, tant que subsistera le pouvoir d\'Harry Killer, et que nous ne devons nous attendre à aucune pitié, si nous tombons entre ses mains. Dans notre intérêt, comme dans celui de la justice, il convient donc d\'engager la lutte.
+
+--- Oui ! Oui ! Comptez sur nous ! s\'écria-t-on de toutes parts.
+
+Telle était leur confiance en Marcel Camaret, que les ouvriers, d\'abord accablés d\'être ainsi séparés du reste du monde, avaient déjà repris courage, à la pensée qu\'il était avec eux. Tous les bras se tendirent vers lui en signe d\'inébranlable fidélité.
+
+--- Que le travail reprenne comme de coutume, et comptez sur moi, mes amis, dit Camaret, dont une formidable ovation accompagna la sortie.
+
+Dès qu\'il eut quitté l\'atelier de mécanique, il s\'entretint quelques instants avec le contremaître à qui il avait donné le nom de Rigaud. Puis, pendant que celui-ci allait exécuter les ordres qu\'il venait de recevoir, Camaret, suivi de ses protégés, revint dans son cabinet de travail.
+
+À peine y avait-on pris place que la sonnerie du téléphone retentit.
+
+Il saisit le récepteur et on l\'entendit répondre d\'une voix douce par des « oui », des « non », des « bon ! », des « comme vous voudrez », à la communication qui lui était faite. Enfin, il se mit à rire et raccrocha l\'appareil, qu\'il isola, en manoeuvrant un interrupteur intercalé dans le circuit.
+
+--- C\'est Harry Killer qui me téléphone, dit-il avec cette voix singulière dont aucune émotion n\'altérait d\'ordinaire la tranquille douceur. Il sait que vous êtes ici.
+
+--- Déjà ! s\'écria Barsac.
+
+--- Oui. Il paraît qu\'on a trouvé un certain Tchoumouki. On aurait aussi découvert une barque abandonnée dans la rivière et, au coin de l\'Usine, un factionnaire ligoté comme ce Tchoumouki. Sortir de la ville pendant la nuit étant impossible au dire de Killer, il en a conclu nécessairement que vous étiez ici. Je ne l\'ai pas détrompé. Il m\'a demandé alors de vous remettre entre ses mains. J\'ai refusé. Il a insisté, et j\'ai persisté dans mon refus. De là, grande colère. Harry Killer m\'a menacé de venir vous prendre de force. Cela m\'a fait rire, et j\'ai interrompu la communication.
+
+Les protégés de Camaret s\'étaient levés d\'un même mouvement.
+
+--- Inutile de vous dire que vous pouvez compter sur nous, affirma Barsac au nom de tous. Mais il nous faudrait des armes\...
+
+--- Des armes ? répéta Camaret en souriant. Pour quoi faire ? Je ne pense pas qu\'il y en ait une seule ici. Néanmoins, ne vous inquiétez pas, messieurs. Nous disposons d\'autres moyens.
+
+--- Des moyens capables de lutter contre les canons du Palais ?
+
+--- De cela et de bien autre chose encore.
+
+S\'il me prenait fantaisie de détruire toute la ville, ce serait fait en un instant. Mais je ne pense pas que nous en soyons réduits à cette extrémité. Les canons du Palais resteront muets, soyez-en certains. Outre que Killer connaît mon pouvoir, et que l\'Usine est en grande partie construite à l\'épreuve du canon, il n\'aura garde de la détruire, attendu que toute sa puissance repose sur elle. Il va essayer plutôt d\'entrer de vive force. Seulement, il n\'y réussira pas.
+
+Comme une réponse à l\'affirmation de Camaret, on entendit des coups sourds, qui provenaient de l\'étage inférieur.
+
+--- Qu\'est-ce que je vous disais ? fit l\'ingénieur en souriant doucement. Le voilà qui s\'attaque à la porte. Mais la mâtine est solide, je vous le garantis.
+
+--- S\'il braque un canon contre elle, cependant ? interrogea Saint-Bérain que la tranquillité de Camaret ne rassurait qu\'à demi.
+
+--- Même dans ce cas, il ne serait pas très facile de la forcer, répondit celui-ci. Mais amener sur le quai un canon du palais, cela demande du temps, et nous n\'en sommes encore qu\'au bélier manoeuvré à bras d\'hommes. Avec ça, ils frapperaient pendant un siècle sans être plus avancés. D\'ailleurs, si vous voulez m\'accompagner, vous pourrez assister aux péripéties du siège. Je crois que le spectacle vous intéressera.
+
+On revint à l\'atelier de mécanique, qu\'on traversa sans s\'y arrêter. Les machines tournaient maintenant, mais les ouvriers ne s\'occupaient pas de leur travail avec leur zèle habituel. Réunis par groupes, ils commentaient les nouvelles qu\'ils avaient apprises, et il régnait dans l\'atelier un certain désordre que les événements actuels expliquaient trop aisément et sur lequel Camaret ferma les yeux.
+
+L\'atelier traversé, on gravit un escalier tournant et on arriva sur la plate-forme d\'une tour, qui n\'offrait d\'autre différence avec celle du Palais que d\'être surmontée de cet inexplicable pylône métallique dont l\'extrémité s\'élevait à plus de cent mètres dans les airs.
+
+Comme la tour du Palais, celle-ci était armée d\'un cycloscope logé entre les arêtiers du pylône, et dans lequel Camaret invita ses compagnons à entrer.
+
+--- Ce cycloscope, leur expliqua-t-il, n\'est pas orienté à cinq kilomètres comme celui que j\'ai construit pour Harry Killer. Grâce à une série de miroirs obliques disposés au faîte de la muraille de l\'Usine, il nous permet de surveiller ce qui se passe à nos abords immédiats. Vous voyez d\'ici la face extérieure de notre mur d\'enceinte jusqu\'à sa base.
+
+L\'esplanade, le quai et le chemin de ronde apparaissaient, en effet, dans ce cycloscope, dont les images, plus petites que celles données par l\'instrument du Palais, étaient en revanche beaucoup plus nettes. Dans ses lentilles, on aperçut un grand nombre d\'hommes, dont plusieurs portaient des échelles, courant sur toute la périphérie de l\'Usine, tandis qu\'une trentaine d\'autres continuaient à s\'épuiser en vains efforts contre la porte.
+
+--- Comme je le prévoyais, dit Camaret, ils vont donner l\'assaut. C\'est maintenant que cela va devenir intéressant.
+
+L\'assaut commençait, en effet. Déjà étaient dressées contre le mur plusieurs échelles, auxquelles montaient un grand nombre de Merry Fellows. Parvenus au sommet, quelques-uns y posèrent leurs mains sans défiance. Aussitôt, chargement à vue. À peine ces hommes avaient-ils touché la crête du mur, qu\'ils se livrèrent à de surprenantes contorsions. Suspendus au faîte, comme si leurs mains eussent été collées à la muraille, ils dansaient une gigue endiablée, à la manière de ces pantins qui s\'agitent quand on en tire la ficelle.
+
+--- C\'est bête comme tout, expliqua Camaret.
+
+La crête du mur est tout bonnement recouverte d\'un métal de ma composition, dont la conductibilité électrique est à celle du cuivre comme cent est à un. Je fais passer dans ce revêtement un courant alternatif de voltage convenable, et vous en voyez les résultats.
+
+Pendant que Camaret donnait cette explication, des assaillants restés sur les échelons inférieurs, avaient saisi par les jambes ceux qui les avaient précédés et dont ils ne pouvaient comprendre les mouvements désordonnés. Aussitôt, ces imprudents exécutèrent les mêmes contorsions, au grand ébahissement de ceux de leurs compagnons qui ne les avaient pas imités.
+
+--- Mais pourquoi ces imbéciles ne se laissent-ils pas tomber tout simplement ? s\'écria Saint-Bérain.
+
+--- Ils ne le peuvent pas, les pauvres diables, dit Marcel Camaret. Ils resteront fixés à la muraille aussi longtemps que cela me plaira\... Mais je peux faire mieux encore.
+
+Il manoeuvra une manette. À l\'instant, les échelles furent renversées, comme repoussées par une main invisible, et ceux qu\'elles supportaient encore retombèrent pêle-mêle, ne laissant contre la muraille que les grappes humaines qui y étaient attachées et qui continuaient à s\'agiter désespérément.
+
+--- Je ne garantis pas la casse, fit observer doucement Camaret. Quant à ce qui vient de se produire sous vos yeux, seriez-vous désireux d\'en connaître la cause ?
+
+Tous ayant répondu affirmativement, il reprit :
+
+--- C\'est fort simple. Selon moi, toutes les roches, quelles qu\'elles soient, ne sont que des vibrations éthériques d\'une nature ou d\'une autre.
+
+On est généralement d\'accord pour attribuer la lumière à une série de vibrations comprises entre un certain minimum et un certain maximum de fréquence, et les phénomènes électriques à une autre série de vibrations séparée de la première par un intervalle qu\'on suppose appartenir à d\'autres vibrations dont la nature est inconnue. Sans me prononcer formellement, j\'incline à croire que ces dernières ont quelque rapport avec la chaleur. Quoi qu\'il en soit, je sais les provoquer, les manier et leur faire produire des effets assez curieux, ainsi que je viens de vous en donner la preuve.
+
+Pendant cette explication succincte, les grappes humaines continuaient leur danse échevelée.
+
+--- Le petit jeu a assez duré, dit Marcel Camaret en manoeuvrant une autre manette.
+
+Immédiatement, les pantins humains se détachèrent de la muraille, et, d\'une hauteur de dix mètres, tombèrent, à sa base, où ils restèrent inanimés. Après un instant d\'hésitation assez compréhensible, leurs compagnons se décidèrent à venir les prendre et à les emporter.
+
+--- Fin du premier acte, annonça Camaret de sa voix ordinaire. Je pense qu\'il ne se termine pas à l\'avantage d\'Harry Killer, qui a déjà une trentaine d\'hommes hors de combat. Si nous nous occupions maintenant de ces imbéciles qui s\'acharnent bêtement contre la porte ?
+
+Marcel Camaret s\'empara d\'un transmetteur de téléphone.
+
+--- Es-tu prêt, Rigaud ? demanda-t-il.
+
+--- Oui, monsieur, répondit une voix qui fut entendue dans toutes les parties du cycloscope.
+
+--- Envoie ! Commanda Camaret.
+
+Comme s\'il eût obéi de lui-même à cet ordre, un instrument bizarre sortit aussitôt et s\'éloigna de la base de la tour.
+
+C\'était une sorte de cylindre vertical dont l\'extrémité dirigée vers le sol s\'évasait en un large cône. À l\'autre extrémité, quatre hélices, dont une horizontale et trois verticales, tournaient avec une rapidité vertigineuse. Le singulier engin s\'élevait dans l\'air, tout en s\'éloignant dans la direction du mur de clôture. Quand il l\'eut atteint, voire dépassé de quelques mètres, sa course devint horizontale, et il se met à suivre rigoureusement la périphérie de l\'Usine.
+
+Mais déjà, à la suite de ce premier engin, un deuxième était parti, puis un troisième, puis d\'autres encore. Les hôtes de Camaret en comptèrent vingt, qui, à intervalles réguliers, s\'échappèrent de la tour, comme les oiseaux d\'un nid, et accomplirent successivement la même manoeuvre.
+
+--- Ce sont mes « guêpes », dit Marcel Camaret, en appuyant un peu sur le possessif. Je vous expliquerai plus tard comment on les dirige. Pour le moment, contentons-nous de les voir à l\'oeuvre.
+
+Il prit de nouveau le transmetteur téléphonique.
+
+--- Un avertissement, Rigaud, dit-il.
+
+Puis, s\'adressant à ses nouveaux amis :
+
+--- À quoi bon tuer ces pauvres diables qui ne m\'ont rien fait, après tout ? Un avertissement suffira, s\'ils veulent le comprendre.
+
+Depuis l\'échec de leur tentative, ceux des assaillants qui avaient essayé d\'escalader l\'enceinte demeuraient inactifs. Emportant leurs camarades hors de combat, dont plusieurs étaient sans doute tués ou, tout au moins, grièvement blessés, ils avaient évacué le chemin de ronde, et se tenaient massés sur l\'esplanade, à respectueuse distance de l\'Usine, dont ils contemplaient la muraille d\'un air hébété.
+
+Par contre, ceux qui s\'attaquaient à la porte n\'avaient pas interrompu leur travail.
+
+Ils s\'entêtaient à lancer sur cette porte, qui ne semblait pas, d\'ailleurs, en souffrir, une lourde poutre que balançaient une quarantaine de bras robustes. Dans leur promenade autour de l\'enceinte, les guêpes, puisque tel est le nom dont Marcel Camaret les avait baptisées, passaient l\'une après l\'autre, au-dessus de ce groupe, qui n\'y prêtait nulle attention.
+
+Tout à coup, une détonation partit de l\'une d\'elles, et une grêle de mitraille couvrit le sol, sur un espace circulaire d\'une cinquantaine de mètres de rayon.
+
+Au bruit, ceux qui manoeuvraient le bélier avaient relevé la tête. Ils ne s\'étaient pas encore rendu compte de la nature du phénomène, quand une seconde détonation partit d\'un second engin arrivé à son tour dans le voisinage, détonation suivie, comme la première, d\'une seconde grêle de mitraille.
+
+Cette fois, le champ meurtrier s\'était rapproché d\'eux. Quelques hommes furent même atteints par les projectiles. Les autres n\'attendirent pas plus longtemps. Abandonnant le bélier, ils ramassèrent leurs blessés et s\'enfuirent à toutes jambes.
+
+Les spectateurs de cette scène ne pouvaient en croire leurs yeux. Chaque guêpe, après s\'être déchargée, était docilement revenue dans son alvéole au pied de la tour, puis, une minute plus tard, ayant reçu une nouvelle charge, elle s\'était envolée pour reprendre son rang dans la ronde générale.
+
+--- Je ne crois pas qu\'il faille nous occuper de ces gens-là, dit Marcel Camaret. Si donc il vous plaisait, par hasard, de visiter l\'Usine\...
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}

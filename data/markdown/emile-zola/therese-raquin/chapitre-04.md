@@ -1,0 +1,36 @@
+::: WordSection
+[
+]{.calibre24}
+
+!{.calibre1}
+
+ROMANS
+
+THÉRÈSE RAQUIN
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778528 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778190 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777852 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777514 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777176 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776500 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776162 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775824 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775486 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775148 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774810 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368774472 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_18 .calibre25}
+
+[Un jour sur sept, le jeudi soir, la famille Raquin recevait. On allumait une grande lampe dans la salle à manger, et l\'on mettait une bouilloire d\'eau au feu, pour faire du thé. C\'était toute une grosse histoire. Cette soirée-là tranchait sur les autres ; elle avait passé dans les habitudes de la famille comme une orgie bourgeoise d\'une gaieté folle. On se couchait à onze heures.]{.calibre11}
+
+[Mme Raquin retrouva à Paris un de ses vieux amis, le commissaire de police Michaud, qui avait exercé à Vernon pendant vingt ans, logé dans la même maison que la mercière. Une étroite intimité s\'était ainsi établie entre eux ; puis, lorsque la veuve avait vendu son fonds pour aller habiter la maison du bord de l\'eau, ils s\'étaient peu à peu perdus de vue. Michaud quitta la province quelques mois plus tard et vint manger paisiblement à Paris, rue de Seine, les quinze cents francs de sa retraite. Un jour de pluie, il rencontra sa vieille amie dans le passage du Pont-Neuf ; le soir même, il dînait chez les Raquin.]{.calibre11}
+
+[Ainsi furent fondées les réceptions du jeudi. L\'ancien commissaire de police prit l\'habitude de venir ponctuellement une fois par semaine. Il finit par amener son fils Olivier, un grand garçon de trente ans, sec et maigre, qui avait épousé une toute petite femme, lente et maladive. Olivier occupait à la préfecture de police un emploi de trois mille francs dont Camille se montrait singulièrement jaloux ; il était commis principal dans le bureau de la police d\'ordre et de sûreté. Dès le premier jour, Thérèse détesta ce garçon roide et froid qui croyait honorer la boutique du passage en y promenant la sécheresse de son grand corps et les défaillances de sa pauvre petite femme.]{.calibre11}
+
+[Camille introduisit un autre invité, un vieil employé du chemin de fer d\'Orléans. Grivet avait vingt ans de service ; il était premier commis et gagnait deux mille cent francs. C\'était lui qui distribuait la besogne aux employés du bureau de Camille, et celui-ci lui témoignait un certain respect ; dans ses rêves, il se disait que Grivet mourrait un jour, qu\'il le remplacerait peut-être, au bout d\'une dizaine d\'années. Grivet fut enchanté de l\'accueil de Mme Raquin, il revint chaque semaine avec une régularité parfaite. Six mois plus tard, sa visite du jeudi était devenue pour lui un devoir : il allait au passage du Pont-Neuf, comme il se rendait chaque matin à son bureau, mécaniquement, par un instinct de brute.]{.calibre11}
+
+[Dès lors, les réunions devinrent charmantes. À sept heures, Mme Raquin allumait le feu, mettait la lampe au milieu de la table, posait un jeu de dominos à côté, essuyait le service à thé qui se trouvait sur le buffet. À huit heures précises, le vieux Michaud et Grivet se rencontraient devant la boutique, venant l\'un de la rue de Seine, l\'autre de la rue Mazarine. Ils entraient, et toute la famille montait au premier étage. On s\'asseyait autour de la table, on attendait Olivier Michaud et sa femme, qui arrivaient toujours en retard. Quand la réunion se trouvait au complet, Mme Raquin versait le thé, Camille vidait la boîte de dominos sur la toile cirée, chacun s\'enfonçait dans son jeu. On n\'entendait plus que le cliquetis des dominos. Après chaque partie, les joueurs se querellaient pendant deux ou trois minutes, puis le silence retombait, morne, coupé de bruits secs.]{.calibre11}
+
+[Thérèse jouait avec une indifférence qui irritait Camille. Elle prenait sur elle François, le gros chat tigré que Mme Raquin avait apporté de Vernon, elle le caressait d\'une main, tandis qu\'elle posait les dominos de l\'autre. Les soirées du jeudi étaient un supplice pour elle ; souvent elle se plaignait d\'un malaise, d\'une forte migraine, afin de ne pas jouer, de rester là oisive, à moitié endormie. Un coude sur la table, la joue appuyée sur la paume de la main, elle regardait les invités de sa tante et de son mari, elle les voyait à travers une sorte de brouillard jaune et fumeux qui sortait de la lampe. Toutes ces têtes-là l\'exaspéraient. Elle allait de l\'une à l\'autre avec des dégoûts profonds, des irritations sourdes. Le vieux Michaud étalait une face blafarde, tachée de plaques rouges, une de ces faces mortes de vieillard tombé en enfance ; Grivet avait le masque étroit, les yeux ronds, les lèvres minces d\'un crétin ; Olivier, dont les os perçaient les joues, portait gravement sur un corps ridicule une tête roide et insignifiante ; quant à Suzanne, la femme d\'Olivier, elle était toute pâle, les yeux vagues, les lèvres blanches, le visage mou. Et Thérèse ne trouvait pas un homme, pas un être vivant parmi ces créatures grotesques et sinistres avec lesquelles elle était enfermée ; parfois des hallucinations la prenaient, elle se croyait enfouie au fond d\'un caveau, en compagnie de cadavres mécaniques, remuant la tête, agitant les jambes et les bras, lorsqu\'on tirait des ficelles. L\'air épais de la salle à manger l\'étouffait ; le silence frissonnant, les lueurs jaunâtres de la lampe la pénétraient d\'un vague effroi, d\'une angoisse inexprimable.]{.calibre11}
+
+[On avait posé en bas, à la porte du magasin, une sonnette dont le tintement aigu annonçait l\'entrée des clientes. Thérèse tendait l\'oreille ; lorsque la sonnette se faisait entendre, elle descendait rapidement, soulagée, heureuse de quitter la salle à manger. Elle servait la pratique avec lenteur. Quand elle se trouvait seule, elle s\'asseyait derrière le comptoir, elle demeurait là le plus longtemps possible, redoutant de remonter, goûtant une véritable joie à ne plus avoir Grivet et Olivier devant les yeux. L\'air humide de la boutique calmait la fièvre qui brûlait ses mains. Et elle retombait dans cette rêverie grave qui lui était ordinaire.]{.calibre11}
+
+[Mais elle ne pouvait rester longtemps ainsi. Camille se fâchait de son absence ; il ne comprenait pas qu\'on pût préférer la boutique à la salle à manger, le jeudi soir. Alors il se penchait sur la rampe, cherchait sa femme du regard.]{.calibre11}
+
+[--- Eh bien ! criait-il, que fais-tu donc là ? pourquoi ne montes-tu pas ?... Grivet a une chance du diable. Il vient encore de gagner.]{.calibre11}
+
+[La jeune femme se levait péniblement et venait reprendre sa place en face du vieux Michaud, dont les lèvres pendantes avaient des sourires écœurants. Et, jusqu\'à onze heures, elle demeurait affaissée sur sa chaise, regardant François qu\'elle tenait dans ses bras, pour ne pas voir les poupées de carton qui grimaçaient autour d\'elle.]{.calibre11}

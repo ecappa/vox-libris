@@ -1,0 +1,222 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE PILOTE DU DANUBE",
+  "slug": "le-pilote-du-danube",
+  "nombre_chapitres": 19,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Au concours de Sigmaringen",
+      "slug": "chapitre-1-au-concours-de-sigmaringen",
+      "is_part": false,
+      "spine_start": 2007,
+      "spine_end_exclusive": 2008,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_002.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Aux sources du Danube",
+      "slug": "chapitre-2-aux-sources-du-danube",
+      "is_part": false,
+      "spine_start": 2008,
+      "spine_end_exclusive": 2009,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Le passager d'Ilia Brusch",
+      "slug": "chapitre-3-le-passager-dilia-brusch",
+      "is_part": false,
+      "spine_start": 2009,
+      "spine_end_exclusive": 2010,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Serge Ladko",
+      "slug": "chapitre-4-serge-ladko",
+      "is_part": false,
+      "spine_start": 2010,
+      "spine_end_exclusive": 2011,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Karl Dragoch",
+      "slug": "chapitre-5-karl-dragoch",
+      "is_part": false,
+      "spine_start": 2011,
+      "spine_end_exclusive": 2012,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_006.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Les yeux bleus",
+      "slug": "chapitre-6-les-yeux-bleus",
+      "is_part": false,
+      "spine_start": 2012,
+      "spine_end_exclusive": 2013,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Chasseurs et gibiers",
+      "slug": "chapitre-7-chasseurs-et-gibiers",
+      "is_part": false,
+      "spine_start": 2013,
+      "spine_end_exclusive": 2014,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Un portrait de femme",
+      "slug": "chapitre-8-un-portrait-de-femme",
+      "is_part": false,
+      "spine_start": 2014,
+      "spine_end_exclusive": 2015,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Les deux échecs de Dragoch",
+      "slug": "chapitre-9-les-deux-echecs-de-dragoch",
+      "is_part": false,
+      "spine_start": 2015,
+      "spine_end_exclusive": 2016,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Prisonnier",
+      "slug": "chapitre-10-prisonnier",
+      "is_part": false,
+      "spine_start": 2016,
+      "spine_end_exclusive": 2017,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Au pouvoir d'un ennemi",
+      "slug": "chapitre-11-au-pouvoir-dun-ennemi",
+      "is_part": false,
+      "spine_start": 2017,
+      "spine_end_exclusive": 2018,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Au nom de la loi",
+      "slug": "chapitre-12-au-nom-de-la-loi",
+      "is_part": false,
+      "spine_start": 2018,
+      "spine_end_exclusive": 2019,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Une commission rogatoire",
+      "slug": "chapitre-13-une-commission-rogatoire",
+      "is_part": false,
+      "spine_start": 2019,
+      "spine_end_exclusive": 2020,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Entre ciel et terre",
+      "slug": "chapitre-14-entre-ciel-et-terre",
+      "is_part": false,
+      "spine_start": 2020,
+      "spine_end_exclusive": 2021,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Près du but",
+      "slug": "chapitre-15-pres-du-but",
+      "is_part": false,
+      "spine_start": 2021,
+      "spine_end_exclusive": 2022,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – La maison vide",
+      "slug": "chapitre-16-la-maison-vide",
+      "is_part": false,
+      "spine_start": 2022,
+      "spine_end_exclusive": 2023,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – À la nage",
+      "slug": "chapitre-17-a-la-nage",
+      "is_part": false,
+      "spine_start": 2023,
+      "spine_end_exclusive": 2024,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Le pilote du Danube",
+      "slug": "chapitre-18-le-pilote-du-danube",
+      "is_part": false,
+      "spine_start": 2024,
+      "spine_end_exclusive": 2025,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Epilogue",
+      "slug": "chapitre-19-epilogue",
+      "is_part": false,
+      "spine_start": 2025,
+      "spine_end_exclusive": 2026,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_020.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/le-pilote-du-danube/imageVerneIV1.jpg"
+  ]
+}

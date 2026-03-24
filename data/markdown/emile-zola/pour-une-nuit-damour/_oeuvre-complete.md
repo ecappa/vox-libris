@@ -1,0 +1,477 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5862 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+[[Liste des contes et nouvelles](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre32 .calibre4 .sgc-1}
+
+]{.calibre33} [!{#Image5863 .calibre35}]{.calibre34}
+
+## []{#_Toc368832918 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832644 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832370 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832096 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831822 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831548 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831274 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831000 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830726 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830452 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830178 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829904 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829630 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829356 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829082 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828808 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828534 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828260 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368827986 .pcalibre .calibre3 .pcalibre1}[]{#_Table_des_matières_9 .pcalibre .calibre3 .pcalibre1}Table des matières {#calibre_toc_57 .calibre36}
+
+!{#Image5699 .calibre37}
+
+[[I]{.calibre10}](../Text/Zola4_split_222.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[II]{.calibre10}](../Text/Zola4_split_223.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[III]{.calibre10}](../Text/Zola4_split_224.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[IV]{.calibre10}](../Text/Zola4_split_225.htm){.pcalibre .calibre3 .pcalibre1}
+
+[[V]{.calibre10}](../Text/Zola4_split_226.htm){.pcalibre .calibre3 .pcalibre1}
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5864 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5865 .calibre35}
+
+## []{#_Toc368832919 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832645 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832371 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832097 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831823 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831549 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831275 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831001 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830727 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830453 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830179 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829905 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829631 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829357 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829083 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828809 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828535 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828261 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368827987 .pcalibre .calibre3 .pcalibre1} {#i .calibre43}
+
+
+La petite ville de P... est bâtie sur une colline. Au pied des anciens remparts, coule un ruisseau, encaissé et très profond, le Chanteclair, qu'on nomme sans doute ainsi pour le bruit cristallin de ses eaux limpides. Lorsqu'on arrive par la route de Versailles, on traverse le Chanteclair, à la porte sud de la ville, sur un pont de pierre d'une seule arche, dont les larges parapets, bas et arrondis, servent de bancs à tous les vieillards du faubourg. En face, monte la rue Beau-Soleil, au bout de laquelle se trouve une place silencieuse, la place des Quatre-Femmes, pavée de grosses pierres, envahie par une herbe drue, qui la verdit comme un pré. Les maisons dorment. Toutes les demi-heures, le pas traînard d'un passant fait aboyer un chien, derrière la porte d'une écurie ; et l'émotion de ce coin perdu est encore le passage régulier, deux fois par jour, des officiers qui se rendent à leur pension, une table d'hôte de la rue Beau-Soleil.
+
+C'était dans la maison d'un jardinier, à gauche, que demeurait Julien Michon. Le jardinier lui avait loué une grande chambre, au premier étage ; et, comme cet homme habitait l'autre façade de la maison, sur la rue Catherine, où était son jardin, Julien vivait là tranquille, ayant son escalier et sa porte, s'enfermant déjà, à vingt-cinq ans, dans les manies d'un petit bourgeois retiré.
+
+Le jeune homme avait perdu son père et sa mère très jeune. Autrefois, les Michon étaient bourreliers aux Alluets, près de Mantes. À leur mort, un oncle avait envoyé l'enfant en pension. Puis, l'oncle lui-même était parti, et Julien, depuis cinq ans, remplissait à la poste de P... un petit emploi d'expéditionnaire. Il touchait quinze cents francs, sans espoir d'en gagner jamais davantage. D'ailleurs, il faisait des économies, il n'imaginait point une condition plus large ni plus heureuse que la sienne.
+
+Grand, fort, osseux, Julien avait de grosses mains qui le gênaient. Il se sentait laid, la tête carrée et comme laissée à l'état d'ébauche, sous le coup de pouce d'un sculpteur trop rude ; et cela le rendait timide, surtout quand il y avait des demoiselles. Une blanchisseuse lui ayant dit en riant qu'il n'était pas si vilain, il en avait gardé un grand trouble. Dehors, les bras ballants, le dos voûté, la tête basse, il faisait de longues enjambées, pour rentrer plus vite dans son ombre. Sa gaucherie lui donnait un effarouchement continu, un besoin maladif de médiocrité et d'obscurité. Il semblait s'être résigné à vieillir de la sorte, sans une camaraderie, sans une amourette, avec ses goûts de moine cloîtré.
+
+Et cette vie ne pesait point à ses larges épaules. Julien, au fond, était très heureux. Il avait une âme calme et transparente. Son existence quotidienne, avec les règles fixes qui la menaient, était faite de sérénité. Le matin, il se rendait à son bureau, recommençait paisiblement la besogne de la veille ; puis, il déjeunait d'un petit pain, et reprenait ses écritures ; puis, il dînait, il se couchait, il dormait. Le lendemain, le soleil ramenait la même journée, cela pendant des semaines, des mois. Ce lent défilé finissait par prendre une musique pleine de douceur, le berçait du rêve de ces boeufs qui tirent la charrue et qui ruminent le soir, dans de la paille fraîche. Il buvait tout le charme de la monotonie. Son plaisir était parfois, après son dîner, de descendre la rue Beau-Soleil et de s'asseoir sur le pont, pour attendre neuf heures. Il laissait pendre ses jambes au-dessus de l'eau, il regardait passer continuellement sous lui le Chanteclair, avec le bruit pur de ses flots d'argent. Des saules, le long des deux rives, penchaient leurs têtes pâles, enfonçaient leurs images. Au ciel, tombait la cendre fine du crépuscule. Et il restait, dans ce grand calme, charmé, songeant confusément que le Chanteclair devait être heureux comme lui, à rouler toujours sur les mêmes herbes, au milieu d'un si beau silence. Quand les étoiles brillaient, il rentrait se coucher, avec de la fraîcheur plein la poitrine.
+
+D'ailleurs, Julien se donnait d'autres plaisirs. Les jours de congé, il partait à pied, tout seul, heureux d'aller très loin et de revenir rompu de fatigue. Il s'était aussi fait un camarade d'un muet, un ouvrier graveur, au bras duquel il se promenait sur le Mail, pendant des après-midi entières, sans même échanger un signe. D'autres fois, au fond du Café des Voyageurs, il entamait avec le muet d'interminables parties de dames, pleines d'immobilité et de réflexion. Il avait eu un chien écrasé par une voiture, et il lui gardait un si religieux souvenir, qu'il ne voulait plus de bête chez lui. À la poste, on le plaisantait sur une gamine de dix ans, une fille en haillons qui vendait, pieds nus, des boîtes d'allumettes, et qu'il régalait de gros sous, sans vouloir emporter sa marchandise ; mais il se fâchait, il se cachait pour glisser les sous à la petite. Jamais on ne le rencontrait en compagnie d'une jupe, le soir, aux remparts. Les ouvrières de P..., des gaillardes très dégourdies, avaient fini elles-mêmes par le laisser tranquille, en le voyant, suffoqué devant elles, prendre leurs rires d'encouragement pour des moqueries. Dans la ville, les uns le disaient stupide, d'autres prétendaient qu'il fallait se défier de ces garçons-là, qui sont si doux et qui vivent solitaires.
+
+Le paradis de Julien, l'endroit où il respirait à l'aise, c'était sa chambre. Là seulement il se croyait à l'abri du monde. Alors, il se redressait, il riait tout seul ; et, quand il s'apercevait dans la glace, il demeurait surpris de se voir très jeune. La chambre était vaste ; il y avait installé un grand canapé, une table ronde, avec deux chaises et un fauteuil. Mais il lui restait encore de la place pour marcher : le lit se perdait au fond d'une immense alcôve ; une petite commode de noyer, entre les deux fenêtres, semblait un jouet d'enfant. Il se promenait, s'allongeait, ne s'ennuyait point de lui-même. Jamais il n'écrivait en dehors de son bureau, et la lecture le fatiguait. Comme la vieille dame qui tenait la pension où il mangeait, s'obstinait à vouloir faire son éducation en lui prêtant des romans, il les rapportait, sans pouvoir répéter ce qu'il y avait dedans, tant ces histoires compliquées manquaient pour lui de sens commun. Il dessinait un peu, toujours la même tête, une femme de profil, l'air sévère, avec de larges bandeaux et une torsade de perles dans le chignon. Sa seule passion était la musique. Pendant des soirées entières, il jouait de la flûte, et c'était là, par-dessus tout, sa grande récréation.
+
+Julien avait appris la flûte tout seul. Longtemps, une vieille flûte de bois jaune, chez un marchand de bric-à-brac de la place du Marché, était restée une de ses plus âpres convoitises. Il avait l'argent, mais il n'osait entrer l'acheter, de peur d'être ridicule. Enfin, un soir, il s'était enhardi jusqu'à emporter la flûte en courant, cachée sous son paletot, serrée contre sa poitrine. Puis, portes et fenêtres closes, très doucement pour qu'on ne l'entendît pas, il avait épelé pendant deux années une vieille méthode, trouvée chez un petit libraire. Depuis six mois seulement, il se risquait à jouer, les croisées ouvertes. Il ne savait que des airs anciens, lents et simples, des romances du siècle dernier, qui prenaient une tendresse infinie, lorsqu'il les bégayait avec la maladresse d'un élève plein d'émotion. Dans les soirées tièdes, quand le quartier dormait, et que ce chant léger sortait de la grande pièce éclairée d'une bougie, on aurait dit une voix d'amour, tremblante et basse, qui confiait à la solitude et à la nuit ce qu'elle n'aurait jamais dit au plein jour.
+
+Souvent même, comme il savait les airs de mémoire, Julien soufflait sa lumière, par économie. Du reste, il aimait l'obscurité. Alors, assis devant une fenêtre, en face du ciel, il jouait dans le noir. Des passants levaient la tête, cherchaient d'où venait cette musique si frêle et si jolie, pareille aux roulades lointaines d'un rossignol. La vieille flûte de bois jaune était un peu fêlée, ce qui lui donnait un son voilé, le filet de voix adorable d'une marquise d'autrefois, chantant encore très purement les menuets de sa jeunesse. Une à une, les notes s'envolaient avec leur petit bruit d'ailes. Il semblait que le chant vînt de la nuit elle-même, tant il se mêlait aux souffles discrets de l'ombre.
+
+Julien avait grand'peur qu'on se plaignît dans le quartier. Mais on a le sommeil dur, en province. D'ailleurs, la place des Quatre-Femmes n'était habitée que par un notaire, maître Savournin, et un ancien gendarme retraité, le capitaine Pidoux, tous deux voisins commodes, couchés et endormis à neuf heures. Julien redoutait davantage les habitants d'un noble logis, l'hôtel de Marsanne, qui dressait de l'autre côté de la place, juste devant ses fenêtres, une façade grise et triste, d'une sévérité de cloître. Un perron de cinq marches, envahi par les herbes, montait à une porte ronde, que des têtes de clous énormes défendaient. L'unique étage alignait dix croisées, dont les persiennes s'ouvraient et se fermaient aux mêmes heures, sans rien laisser voir des pièces, derrière les épais rideaux toujours tirés. À gauche, les grands marronniers du jardin mettaient un massif de verdure, qui élargissait la houle de ses feuilles jusqu'aux remparts. Et cet hôtel imposant, avec son parc, ses murailles graves, son air de royal ennui, faisait songer à Julien que, si les Marsanne n'aimaient pas la flûte, ils n'auraient certainement qu'un mot à dire, pour l'empêcher d'en jouer.
+
+Le jeune homme éprouvait du reste un respect religieux, quand il s'accoudait à sa fenêtre, tant le développement du jardin et des constructions lui semblait vaste. Dans le pays, l'hôtel était célèbre, et l'on racontait que des étrangers venaient de loin le visiter. Des légendes couraient également sur la richesse des Marsanne. Longtemps, il avait guetté le vieux logis, pour pénétrer les mystères de cette fortune toute-puissante. Mais, pendant les heures qu'il s'oubliait là, il ne voyait toujours que la façade grise et le massif noir des marronniers. Jamais une âme ne montait les marches descellées du perron, jamais la porte verdie de mousse ne s'ouvrait. Les Marsanne avaient condamné cette porte, on entrait par une grille, rue Saint-Anne ; en outre, au bout d'une ruelle, près des remparts, il y avait une petite porte donnant sur le jardin, que Julien ne pouvait apercevoir. Pour lui, l'hôtel restait mort, pareil à un de ces palais des contes de fée, peuplé d'habitants invisibles. Chaque matin et chaque soir, il distinguait seulement les bras du domestique qui poussaient les persiennes. Puis, la maison reprenait son grand air mélancolique de tombe abandonnée dans le recueillement d'un cimetière. Les marronniers étaient si touffus, qu'ils cachaient sous leurs branches les allées du jardin. Et cette existence hermétiquement close, hautaine et muette, redoublait l'émotion du jeune homme. La richesse, c'était donc cette paix morne, où il retrouvait le frisson religieux qui tombe de la voûte des églises ?
+
+Que de fois, avant de se coucher, il avait soufflé sa bougie et était resté une heure à sa fenêtre, pour surprendre ainsi les secrets de l'hôtel de Marsanne ! La nuit, l'hôtel barrait le ciel d'une tache sombre, les marronniers étalaient une mare d'encre. On devait soigneusement tirer les rideaux à l'intérieur, pas une lueur ne glissait entre les lames des persiennes. Même la maison n'avait point cette respiration des maisons habitées, où l'on sent les haleines des gens endormis. Elle s'anéantissait dans le noir. C'était alors que Julien s'enhardissait et prenait sa flûte. Il pouvait jouer impunément ; l'hôtel vide lui renvoyait l'écho des petites notes perlées ; certaines phrases ralenties se perdaient dans les ténèbres du jardin, où l'on n'entendait seulement pas un battement d'ailes. La vieille flûte de bois jaune semblait jouer ses airs anciens devant le château de la Belle-au-Bois-dormant.
+
+Un dimanche, sur la place de l'église, un des employés de la poste montra brusquement à Julien un grand vieillard et une vieille dame, en les lui nommant. C'étaient le marquis et la marquise de Marsanne. Ils sortaient si rarement, qu'il ne les avait jamais vus. Une grosse émotion le saisit, tant il les trouva maigres et solennels, comptant leurs pas, salués jusqu'à terre et répondant seulement d'un léger signe de tête. Alors, son camarade lui apprit coup sur coup qu'ils avaient une fille encore au couvent, mademoiselle Thérèse de Marsanne, puis que le petit Colombel, le clerc de maître Savournin, était le frère de lait de cette dernière. En effet, comme les deux vieilles gens allaient prendre la rue Saint-Anne, le petit Colombel qui passait s'approcha, et le marquis lui tendit la main, honneur qu'il n'avait fait à personne. Julien souffrit de cette poignée de main ; car ce Colombel, un garçon de vingt ans, aux yeux vifs, à la bouche méchante, avait longtemps été son ennemi. Il le plaisantait de sa timidité, ameutait contre lui les blanchisseuses de la rue Beau-Soleil ; si bien qu'un jour, aux remparts, il y avait eu entre eux un duel à coups de poing, dont le clerc de notaire était sorti avec les deux yeux pochés. Et Julien, le soir, joua de la flûte plus bas encore, quand il connut tous ces détails.
+
+D'ailleurs, le trouble que lui causait l'hôtel de Marsanne, ne dérangeait pas ses habitudes, d'une régularité d'horloge. Il allait à son bureau, il déjeunait, dînait, faisait son tour de promenade au bord du Chanteclair. L'hôtel lui-même, avec sa grande paix, finissait par entrer dans la douceur de sa vie. Deux années se passèrent. Il était tellement habitué aux herbes du perron, à la façade grise, aux persiennes noires, que ces choses lui semblaient définitives, nécessaires au sommeil du quartier.
+
+Depuis cinq ans, Julien habitait la place des Quatre-Femmes, lorsque, un soir de juillet, un événement bouleversa son existence. La nuit était très chaude, tout allumée d'étoiles. Il jouait de la flûte sans lumière, mais d'une lèvre distraite, ralentissant le rythme et s'endormant sur certains sons, lorsque, tout d'un coup, en face de lui, une fenêtre de l'hôtel de Marsanne s'ouvrit et resta béante, vivement éclairée dans la façade sombre. Une jeune fille était venue s'accouder, et elle demeurait là, elle découpait sa mince silhouette, levait la tête comme pour prêter l'oreille. Julien, tremblant, avait cessé de jouer. Il ne pouvait distinguer le visage de la jeune fille, il ne voyait que le flot de ses cheveux, déjà dénoués sur son cou. Et une voix légère lui arriva au milieu du silence.
+
+--- Tu n'as pas entendu ? Françoise. On aurait dit une musique.
+
+--- Quelque rossignol, mademoiselle, répondit une voix grosse, à l'intérieur. Fermez, prenez garde aux bêtes de nuit.
+
+Quand la façade fut redevenue noire, Julien ne put quitter son fauteuil, les yeux pleins de la trouée lumineuse qui s'était faite dans cette muraille, morte jusque-là. Et il gardait un tremblement, il se demandait s'il devait être heureux de cette apparition. Puis, une heure plus tard, il se remit à jouer tout bas. Il souriait à la pensée que la jeune fille croyait sans doute qu'il y avait un rossignol dans les marronniers.
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5866 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5867 .calibre35}
+
+## []{#_Toc368832920 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832646 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832372 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832098 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831824 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831550 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831276 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831002 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830728 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830454 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830180 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829906 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829632 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829358 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829084 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828810 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828536 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828262 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368827988 .pcalibre .calibre3 .pcalibre1} {#ii .calibre43}
+
+
+Le lendemain, à la poste, la grosse nouvelle était que mademoiselle Thérèse de Marsanne venait de quitter le couvent. Julien ne raconta pas qu'il l'avait aperçue en cheveux, le cou nu. Il était très inquiet ; il éprouvait un sentiment indéfinissable contre cette jeune fille, qui allait déranger ses habitudes. Certainement, cette fenêtre, dont il redouterait de voir s'ouvrir les persiennes à toute heure, le gênerait horriblement. Il ne serait plus chez lui, il aurait encore mieux aimé un homme qu'une femme, car les femmes se moquent davantage. Comment, désormais, oserait-il jouer de la flûte ? Il en jouait trop mal pour une demoiselle qui devait savoir la musique. Le soir donc, après de longues réflexions, il croyait détester Thérèse.
+
+Julien rentra furtivement. Il n'alluma pas de bougie. De cette façon, elle ne le verrait point. Il voulait se coucher tout de suite, pour marquer sa mauvaise humeur. Mais il ne put résister au besoin de savoir ce qui se passait en face. La fenêtre ne s'ouvrit pas. Vers dix heures seulement, une lueur pâle se montra entre les lames des persiennes ; puis, cette lueur s'éteignit, et il resta à regarder la fenêtre sombre. Tous les soirs, dès lors, il recommença malgré lui cet espionnage. Il guettait l'hôtel ; comme aux premiers temps, il s'appliquait à noter les petits souffles qui en ranimaient les vieilles pierres muettes. Rien ne semblait changé, la maison dormait toujours son sommeil profond ; il fallait des oreilles et des yeux exercés, pour surprendre la vie nouvelle. C'était, parfois, une lumière courant derrière les vitres, un coin de rideau écarté, une pièce immense entrevue. D'autres fois, un pas léger traversait le jardin, un bruit lointain de piano arrivait, accompagnant une voix ; ou bien les bruits demeuraient plus vagues encore, un frisson simplement passait, qui indiquait dans la vieille demeure le battement d'un sang jeune. Julien s'expliquait à lui-même sa curiosité, en se prétendant très ennuyé de tout ce tapage. Combien il regrettait le temps où l'hôtel vide lui renvoyait l'écho adouci de sa flûte !
+
+Un de ses plus ardents désirs, bien qu'il ne se l'avouât pas, était de revoir Thérèse. Il se l'imaginait le visage rose, l'air moqueur, avec des yeux luisants. Mais, comme il ne se hasardait pas le jour à sa fenêtre, il ne l'entrevoyait que la nuit, toute grise d'ombre. Un matin, au moment où il refermait une de ses persiennes, pour se garantir du soleil, il aperçut Thérèse debout au milieu de sa chambre. Il resta cloué, n'osant risquer un mouvement. Elle semblait réfléchir, très grande, très pâle, la face belle et régulière. Et il eut presque peur d'elle, tant elle était différente de l'image gaie qu'il s'en était faite. Elle avait surtout une bouche un peu grande, d'un rouge vif, et des yeux profonds, noirs et sans éclat, qui lui donnaient un air de reine cruelle. Lentement, elle vint à la fenêtre ; mais elle ne parut pas le voir, comme s'il était trop loin, trop perdu. Elle s'en alla, et le mouvement rythmé de son cou avait une grâce si forte, qu'il se sentit à côté d'elle plus débile qu'un enfant, malgré ses larges épaules. Quand il la connut, il la redouta davantage.
+
+Alors, commença pour le jeune homme une existence misérable. Cette belle demoiselle, si grave et si noble, qui vivait près de lui, le désespérait. Elle ne le regardait jamais, elle ignorait son existence. Mais il n'en défaillait pas moins en pensant qu'elle pouvait le remarquer et le trouver ridicule. Sa timidité maladive lui faisait croire qu'elle épiait chacun de ses actes pour se moquer. Il rentrait l'échine basse, il évitait de remuer dans sa chambre. Puis, au bout d'un mois, il souffrit du dédain de la jeune fille. Pourquoi ne le regardait-elle jamais ? Elle venait à la fenêtre, promenait son regard noir sur le pavé désert, et se retirait sans le deviner, anxieux, de l'autre côté de la place. Et de même qu'il avait tremblé à l'idée d'être aperçu par elle, il frissonnait maintenant du besoin de la sentir fixer les yeux sur lui. Elle occupait toutes les heures qu'il vivait.
+
+Quand Thérèse se levait, le matin, il oubliait son bureau, lui si exact. Il avait toujours peur de ce visage blanc aux lèvres rouges, mais une peur délicieuse, dont il jouissait. Caché derrière un rideau, il s'emplissait de la terreur qu'elle lui inspirait jusqu'à s'en rendre malade, les jambes cassées comme après une longue marche. Il faisait le rêve qu'elle le remarquait tout d'un coup, qu'elle lui souriait et qu'il n'avait plus peur.
+
+Et il eut l'idée alors de la séduire, à l'aide de sa flûte. Par les soirées chaudes, il se remit à jouer. Il laissait les deux croisées ouvertes, il jouait dans l'obscurité ses airs les plus vieux, des airs de pastorale, naïfs comme des rondes de petite fille. C'étaient des notes longuement tenues et tremblées, qui s'en allaient sur des cadences simples les unes derrière les autres, pareilles à des dames amoureuses de l'ancien temps, étalant leurs jupes. Il choisissait les nuits sans lune ; la place était noire, on ne savait d'où venait ce chant si doux, rasant les maisons endormies, de l'aile molle d'un oiseau nocturne. Et, dès le premier soir, il eut l'émotion de voir Thérèse à son coucher s'approcher tout en blanc de la fenêtre, où elle s'accouda, surprise de retrouver cette musique, qu'elle avait entendue déjà, le jour de son arrivée.
+
+--- Écoute donc, Françoise, dit-elle de sa voix grave, en se tournant vers l'intérieur de la pièce. Ce n'est pas un oiseau.
+
+--- Oh ! Répondit une femme âgée, dont Julien n'apercevait que l'ombre, c'est bien sûr quelque comédien qui s'amuse, et très loin, dans le faubourg.
+
+--- Oui, très loin, répéta la jeune fille, après un silence, rafraîchissant dans la nuit ses bras nus.
+
+Dès lors, chaque soir, Julien joua plus fort. Ses lèvres enflaient le son, sa fièvre passait dans la vieille flûte de bois jaune. Et Thérèse, qui écoutait chaque soir, s'étonnait de cette musique vivante, dont les phrases, volant de toiture en toiture, attendaient la nuit pour faire un pas vers elle. Elle sentait bien que la sérénade marchait vers sa fenêtre, elle se haussait parfois, comme pour voir par-dessus les maisons. Puis, une nuit, le chant éclata si près, qu'elle en fut effleurée ; elle le devina sur la place, dans une des vieilles demeures qui sommeillaient. Julien soufflait de toute sa passion, la flûte vibrait avec des sonneries de cristal. L'ombre lui donnait une telle audace, qu'il espérait l'amener à lui par la force de son chant. Et Thérèse, en effet, se penchait, comme attirée et conquise.
+
+--- Rentrez, dit la voix de la dame âgée. La nuit est orageuse, vous aurez des cauchemars.
+
+Cette nuit-là, Julien ne put dormir. Il s'imaginait que Thérèse l'avait deviné, l'avait vu peut-être. Et il brûlait sur son lit, il se demandait s'il ne devait pas se montrer le lendemain. Certes, il serait ridicule, en se cachant davantage. Pourtant, il décida qu'il ne se montrerait pas, et il était devant sa fenêtre, à six heures, en train de remettre sa flûte dans l'étui, lorsque les persiennes de Thérèse s'ouvrirent brusquement.
+
+La jeune fille, qui ne se levait jamais avant huit heures, parut en peignoir, s'accouda, les cheveux tordus sur la nuque. Julien resta stupide, la tête levée, la regardant en face, sans pouvoir se détourner ; tandis que ses mains gauches essayaient vainement de démonter la flûte. Thérèse aussi l'examinait, d'un regard fixe et souverain. Elle sembla un instant l'étudier dans ses gros os, dans son corps énorme et mal ébauché, dans toute sa laideur de géant timide. Et elle n'était plus l'enfant fiévreuse, qu'il avait vue la veille ; elle était hautaine et très blanche, avec ses yeux noirs et ses lèvres rouges. Quand elle l'eut jugé, de l'air tranquille dont elle se serait demandé si un chien sur le pavé lui plaisait ou ne lui plaisait pas, elle le condamna d'une légère moue ; puis, tournant le dos, sans se hâter, elle ferma la fenêtre.
+
+Julien, les jambes molles, se laissa tomber dans son fauteuil. Et des paroles entrecoupées lui échappaient.
+
+--- Ah ! Mon Dieu ! Je lui déplais... Et moi qui l'aime, et moi qui vais en mourir !
+
+Il se prit la tête entre les mains, il sanglota. Aussi pourquoi s'être montré. Quand on était mal bâti, on se cachait, on n'épouvantait pas les filles. Il s'injuriait, furieux de sa laideur. Est-ce qu'il n'aurait pas dû continuer à jouer de la flûte dans l'ombre, comme un oiseau de nuit, qui séduit les coeurs par son chant, et qui ne doit jamais paraître au soleil, s'il veut plaire ? Il serait resté pour elle une musique douce, rien que l'air ancien d'un amour mystérieux. Elle l'aurait adoré sans le connaître, ainsi qu'un Prince-Charmant, venu de loin, et se mourant de tendresse sous sa fenêtre. Mais, lui, brutal et imbécile, avait rompu le charme. Voilà qu'elle le savait d'une épaisseur de boeuf au labour, et que jamais plus elle n'aimerait sa musique !
+
+En effet, il eut beau reprendre ses airs les plus tendres, choisir les nuits tièdes, embaumées de l'odeur des verdures : Thérèse n'écoutait pas, n'entendait pas. Elle allait et venait dans sa chambre, s'accoudait à la fenêtre, comme s'il n'avait pas été en face, à dire son amour avec des petites notes humbles. Un jour même, elle s'écria :
+
+--- Mon Dieu ! Que c'est énervant, cette flûte qui joue faux !
+
+Alors, désespéré, il jeta sa flûte au fond d'un tiroir et ne joua plus.
+
+Il faut dire que le petit Colombel, lui aussi, se moquait de Julien. Un jour, en allant à son étude, il l'avait vu devant la fenêtre, étudiant un morceau, et chaque fois qu'il passait sur la place, il riait de son air mauvais. Julien savait que le clerc de notaire était reçu chez les Marsanne, ce qui lui crevait le coeur, non qu'il fût jaloux de cet avorton, mais parce qu'il aurait donné tout son sang pour être une heure à sa place. La mère du jeune homme, Françoise, depuis des années dans la maison, veillait maintenant sur Thérèse, dont elle était la nourrice. Autrefois, la demoiselle noble et le petit paysan avaient grandi ensemble, et il semblait naturel qu'ils eussent conservé quelque chose de leur camaraderie ancienne. Julien n'en souffrait pas moins, quand il rencontrait Colombel dans les rues, les lèvres pincées de son mince sourire. Sa répulsion devint plus grande, le jour où il s'aperçut que l'avorton n'était pas laid de visage, une tête ronde de chat, mais très fine, jolie et diabolique, avec des yeux verts et une légère barbe frisée à son menton douillet. Ah ! S'il l'avait encore tenu dans un coin des remparts, comme il lui aurait fait payer cher le bonheur de voir Thérèse chez elle !
+
+Un an s'écoula. Julien fut très malheureux. Il ne vivait plus que pour Thérèse. Son coeur était dans cet hôtel glacial, en face duquel il se mourait de gaucherie et d'amour. Dès qu'il disposait d'une minute, il venait la passer là, les regards fixés sur le pan de muraille grise, dont il connaissait les moindres taches de mousse. Il avait eu beau, pendant de longs mois, ouvrir les yeux et prêter les oreilles, il ignorait encore l'existence intérieure de cette maison solennelle, où il emprisonnait son être. Des bruits vagues, des lueurs perdues l'égaraient. Étaient-ce des fêtes, étaient-ce des deuils ? Il ne savait, la vie était sur l'autre façade. Il rêvait ce qu'il voulait, selon ses tristesses ou ses joies : des jeux bruyants de Thérèse et de Colombel, des promenades lentes de la jeune fille sous les marronniers, des bals qui la balançaient aux bras des danseurs, des chagrins brusques qui l'asseyaient pleurante dans des pièces sombres. Ou bien il n'entendait peut-être que les petits pas du marquis et de la marquise trottant comme des souris sur les vieux parquets. Et, dans son ignorance, il voyait toujours la seule fenêtre de Thérèse trouer ce mur mystérieux. La jeune fille, journellement, se montrait, plus muette que les pierres, sans que jamais son apparition amenât un espoir. Elle le consternait, tant elle restait inconnue et loin de lui.
+
+Les grands bonheurs de Julien étaient les heures où la fenêtre demeurait ouverte. Alors, il pouvait apercevoir des coins de la chambre, pendant l'absence de la jeune fille. Il mit six mois à savoir que le lit était à gauche, un lit dans une alcôve, avec des rideaux de soie rose. Puis, au bout de six autres mois, il comprit qu'il y avait en face du lit, une commode Louis XV, surmontée d'une glace, dans un cadre de porcelaine. En face, il voyait la cheminée de marbre blanc. Cette chambre était le paradis rêvé.
+
+Son amour n'allait pas sans de grandes luttes. Il se tenait caché pendant des semaines, honteux de sa laideur. Puis, des rages le prenaient. Il avait le besoin d'étaler ses gros membres, de lui imposer la vue de son visage bossué, brûlé de fièvre. Alors, il restait des semaines à la fenêtre, il la fatiguait de son regard. Même, à deux reprises, il lui envoya des baisers ardents, avec cette brutalité des gens timides, quand l'audace les affole.
+
+Thérèse ne se fâchait même pas. Lorsqu'il était caché, il la voyait aller et venir de son air royal, et lorsqu'il s'imposait, elle gardait cet air, plus haut et plus froid encore. Jamais il ne la surprenait dans une heure d'abandon. Si elle le rencontrait sous son regard, elle n'avait aucune hâte à détourner la tête. Quand il entendait dire à la poste que mademoiselle de Marsanne était très pieuse et très bonne, parfois il protestait violemment en lui-même. Non, non ! Elle était sans religion, elle aimait le sang, car elle avait du sang aux lèvres, et la pâleur de sa face venait de son mépris du monde. Puis, il pleurait de l'avoir insultée, il lui demandait pardon, comme à une sainte enveloppée dans la pureté de ses ailes.
+
+Pendant cette première année, les jours suivirent les jours, sans amener un changement. Lorsque l'été revint, il éprouva une singulière sensation : Thérèse lui sembla marcher dans un autre air. C'étaient toujours les mêmes petits événements, les persiennes poussées le matin et refermées le soir, les apparitions régulières aux heures accoutumées ; mais un souffle nouveau sortait de la chambre. Thérèse était plus pâle, plus grande. Un jour de fièvre, il se hasarda une troisième fois à lui adresser un baiser du bout de ses doigts fiévreux. Elle le regarda fixement, avec sa gravité troublante, sans quitter la fenêtre. Ce fut lui qui se retira, la face empourprée.
+
+
+Un soir d'automne, par un temps gris et doux, l'espagnolette eut un grincement terrible. Julien tressaillit, et des larmes involontaires lui coulèrent des yeux, en face de l'hôtel lugubre que le crépuscule noyait d'ombre. Il avait plu le matin, les marronniers à moitié dépouillés exhalaient une odeur de mort.
+
+Cependant, Julien attendait que la fenêtre se rouvrît. Elle se rouvrit tout d'un coup, aussi rudement qu'elle s'était fermée. Thérèse parut. Elle était toute blanche, avec des yeux très grands, les cheveux tombés dans son cou. Elle se planta devant la fenêtre, elle mit les dix doigts sur sa bouche rouge et envoya un baiser à Julien.
+
+Éperdu, il appuya les poings contre sa poitrine, comme pour demander si ce baiser était pour lui.
+
+Alors, Thérèse crut qu'il reculait. Elle se pencha davantage, elle remit les dix doigts sur sa bouche rouge, et lui envoya un second baiser. Puis, elle en envoya un troisième. C'étaient comme les trois baisers du jeune homme qu'elle rendait. Il restait béant. Le crépuscule était clair, il la voyait nettement dans le cadre d'ombre de la fenêtre.
+
+Lorsqu'elle pensa l'avoir conquis, elle jeta un coup d'oeil sur la petite place. Et, d'une voix étouffée :
+
+--- Venez, dit-elle simplement.
+
+Il vint. Il descendit, s'approcha de l'hôtel. Comme il levait la tête, la porte du perron s'entrebâilla, cette porte verrouillée depuis un demi-siècle peut-être, dont la mousse avait collé les vantaux. Mais il marchait dans la stupeur, il ne s'étonnait plus. Dès qu'il fût entré, la porte se referma, et il suivit une petite main glacée qui l'emmenait. Il monta un étage, longea un corridor, traversa une première pièce, se trouva enfin dans une chambre qu'il reconnut. C'était le paradis rêvé, la chambre aux rideaux de soie rose. Le jour s'y mourait avec une douceur lente. Il fut tenté de se mettre à genoux. Cependant, Thérèse se tenait devant lui toute droite, les mains serrées fortement, si résolue, qu'elle restait victorieuse du frisson dont elle était secouée.
+
+--- Vous m'aimez ? demanda-t-elle d'une voix basse.
+
+--- Oh ! Oui, oh ! Oui, balbutia-t-il.
+
+Mais elle eut un geste, pour lui défendre les paroles inutiles. Elle reprit, d'un air hautain qui semblait rendre ses paroles naturelles et chastes, dans sa bouche de jeune fille :
+
+--- Si je me donnais, vous feriez tout, n'est-ce pas ?
+
+Il ne put répondre, il joignit les mains. Pour un baiser d'elle, il se vendrait.
+
+--- Eh bien ! J'ai un service à vous demander.
+
+Comme il restait imbécile, elle eut une brusque violence, en sentant que ses forces étaient à bout, et qu'elle n'allait plus oser. Elle s'écria :
+
+--- Voyons, il faut jurer d'abord... Moi je jure de tenir le marché... Jurez, jurez donc !
+
+--- Oh ! Je jure ! Oh ! Tout ce que vous voudrez ! dit-il, dans un élan d'abandon absolu.
+
+L'odeur pure de la chambre le grisait. Les rideaux de l'alcôve étaient tirés, et la seule pensée du lit vierge, dans l'ombre adoucie de la soie rose, l'emplissait d'une extase religieuse. Alors, de ses mains devenues brutales, elle écarta les rideaux, montra l'alcôve, où le crépuscule laissait tomber une lueur louche. Le lit était en désordre, les draps pendaient, un oreiller tombé par terre paraissait crevé d'un coup de dent. Et, au milieu des dentelles froissées, gisait le corps d'un homme, les pieds nus, vautré en travers.
+
+--- Voilà, expliqua-t-elle d'une voix qui s'étranglait, cet homme était mon amant... Je l'ai poussé, il est tombé, je ne sais plus. Enfin, il est mort... Et il faut que vous l'emportiez. Vous comprenez bien ?... C'est tout, oui, c'est tout. Voilà !
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5868 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5869 .calibre35}
+
+## []{#_Toc368832921 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832647 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832373 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832099 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831825 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831551 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831277 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831003 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830729 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830455 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830181 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829907 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829633 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829359 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829085 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828811 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828537 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828263 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368827989 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Toute petite, Thérèse de Marsanne prit Colombel pour souffre-douleur. Il était son aîné de six mois à peine, et Françoise, sa mère, avait achevé de l'élever au biberon, pour la nourrir. Plus tard, grandi dans la maison, il y occupa une position vague, entre domestique et camarade de jeux de la jeune fille.
+
+Thérèse était une enfant terrible. Non qu'elle se montrât garçonnière et bruyante. Elle gardait, au contraire, une singulière gravité, qui la faisait considérer comme une demoiselle bien élevée, par les visiteurs auxquels elle adressait de belles révérences. Mais elle avait des inventions étranges : elle éclatait brusquement en cris inarticulés, en trépignements fous, lorsqu'elle était seule ; ou bien elle se couchait sur le dos, au milieu d'une allée du jardin, puis restait là, allongée, refusant obstinément de se lever, malgré les corrections qu'on se décidait à lui administrer parfois.
+
+Jamais on ne savait ce qu'elle pensait. Déjà, dans ses grands yeux d'enfant, elle éteignait toute flamme ; et, au lieu de ces clairs miroirs où l'on aperçoit si nettement l'âme des fillettes, elle avait deux trous sombres, d'une épaisseur d'encre, dans lesquels il était impossible de lire.
+
+À six ans, elle commença à torturer Colombel. Il était petit et chétif. Alors, elle l'emmenait au fond du jardin, sous les marronniers, à un endroit assombri par les feuilles, et elle lui sautait sur le dos, elle se faisait porter. C'étaient des chevauchées d'une heure, autour d'un large rond-point. Elle le serrait au cou, lui enfonçait des coups de talons dans les flancs, sans le laisser reprendre haleine. Il était le cheval, elle était la dame. Lorsque, étourdi, il semblait près de tomber, elle lui mordait une oreille au sang, se cramponnait d'une étreinte si furieuse, qu'elle lui entrait ses petits ongles dans la chair. Et le galop reprenait, cette reine cruelle de six ans passait entre les arbres, les cheveux au vent, emportée par le gamin qui lui servait de bête.
+
+Plus tard, en présence de ses parents, elle le pinçait, et lui défendait de crier, sous la continuelle menace de le faire jeter à la rue, s'il parlait de leurs amusements. Ils avaient de la sorte une existence secrète, une façon d'être ensemble, qui changeait devant le monde. Quand ils étaient seuls, elle le traitait en joujou, avec des envies de le casser, curieuse de savoir ce qu'il y avait dedans. N'était-elle pas marquise, ne voyait-elle pas les gens à ses pieds ? Puisqu'on lui laissait un petit homme pour jouer, elle pouvait bien en disposer à sa fantaisie. Et, comme elle s'ennuyait de régner sur Colombel, loin de tous les yeux, elle s'offrait ensuite le plaisir plus vif de lui allonger un coup de pied ou de lui enfoncer une épingle dans le bras, au milieu d'une nombreuse compagnie, en le magnétisant de ses yeux sombres, pour qu'il n'eût même pas un tressaillement.
+
+Colombel supporta cette existence de martyr, avec des révoltes muettes qui le laissaient tremblant, les yeux à terre, afin d'échapper à la tentation d'étrangler sa jeune maîtresse. Mais il était lui-même de tempérament sournois. Cela ne lui déplaisait pas d'être battu. Il y goûtait une récréation âpre, s'arrangeait parfois pour se faire piquer, attendait la piqûre avec un frisson furieux et satisfait de sentir le coup d'épingle ; et il se perdait alors dans les délices de la rancune. D'ailleurs, il se vengeait déjà, se laissait tomber sur des pierres, en entraînant Thérèse, sans craindre de se casser un membre, enchanté quand elle attrapait une bosse. S'il ne criait pas, lorsqu'elle le piquait devant le monde, c'était pour que personne ne se mît entre eux. Il y avait simplement là une affaire qui les regardait, une querelle dont il entendait sortir vainqueur, plus tard.
+
+Cependant, le marquis s'inquiéta des allures violentes de sa fille. Elle ressemblait, disait-on, à un de ses oncles, qui avait mené une vie terrible d'aventures, et qui était mort assassiné dans un mauvais lieu, au fond d'un faubourg. Les Marsanne avaient ainsi, dans leur histoire, tout un filon tragique ; des membres naissaient avec un mal étrange, de loin en loin, au milieu de la descendance d'une dignité hautaine ; et ce mal était comme un coup de folie, une perversion des sentiments, une écume mauvaise qui semblait pour un temps épurer la famille. Le marquis, par prudence, crut donc devoir soumettre Thérèse à une éducation énergique, et il la plaça dans un couvent, où il espérait que la règle assouplirait sa nature. Elle y resta jusqu'à dix-huit ans.
+
+Quand Thérèse revint, elle était très sage et très grande. Ses parents furent heureux de constater chez elle une piété profonde. À l'église, elle demeurait abîmée, son front entre les mains. Dans la maison, elle mettait un parfum d'innocence et de paix. On lui reprochait un seul défaut : elle était gourmande, elle mangeait du matin au soir des bonbons, qu'elle suçait les yeux demi-clos, avec un petit frisson de ses lèvres rouges. Personne n'aurait reconnu l'enfant muette et entêtée, qui revenait du jardin en lambeaux, sans vouloir dire à quel jeu elle s'était déchirée ainsi. Le marquis et la marquise, cloîtrés depuis quinze ans au fond du grand hôtel vide, crurent devoir rouvrir leur salon. Ils donnèrent quelques dîners à la noblesse du pays. Ils firent même danser. Leur dessein était de marier Thérèse. Et, malgré sa froideur, elle se montrait complaisante, s'habillait et valsait, mais avec un visage si blanc, qu'elle inquiétait les jeunes hommes qui se risquaient à l'aimer.
+
+Jamais Thérèse n'avait reparlé du petit Colombel. Le marquis s'était occupé de lui et venait de le placer chez Me Savournin, après lui avoir fait donner quelque instruction. Un jour, Françoise, ayant amené son fils, le poussa devant elle, en rappelant à la jeune fille son camarade d'autrefois. Colombel était souriant, très propre, sans le moindre embarras. Thérèse le regarda tranquillement, dit qu'elle se souvenait en effet, puis tourna le dos. Mais, huit jours plus tard, Colombel revint, et bientôt il avait repris ses habitudes anciennes. Il entrait chaque soir à l'hôtel, au sortir de son étude, apportait des morceaux de musique, des livres, des albums. On le traitait sans conséquence, on le chargeait des commissions, comme un domestique ou un parent pauvre. Il était une dépendance de la famille. Aussi le laissait-on seul auprès de la jeune fille, sans songer à mal. Comme jadis, ils s'enfermaient ensemble dans les grandes pièces, ils restaient des heures sous les ombrages du jardin. À la vérité, ils n'y jouaient plus les mêmes jeux. Thérèse se promenait lentement, avec le petit bruit de sa robe dans les herbes. Colombel, habillé comme les jeunes gens riches de la ville, l'accompagnait en battant la terre d'une canne souple qu'il portait toujours.
+
+Pourtant, elle redevenait reine et il redevenait esclave. Certes, elle ne le mordait plus, mais elle avait une façon de marcher près de lui, qui, peu à peu, le rapetissait encore, le changeait en un valet de cour, soutenant le manteau d'une souveraine. Elle le torturait par ses humeurs fantasques, s'abandonnait en paroles affectueuses, puis se montrait dure, simplement pour se récréer. Lui, quand elle tournait la tête, coulait sur elle un regard luisant, aigu comme une épée, et toute sa personne de garçon vicieux s'allongeait et guettait, rêvant une traîtrise.
+
+Un soir d'été, sous les ombrages lourds des marronniers, ils se promenaient depuis longtemps, lorsque Thérèse, un instant silencieuse, lui demanda d'un air grave :
+
+--- Dites donc, Colombel, je suis lasse. Si vous me portiez, vous vous souvenez, comme autrefois ?
+
+Il eut un léger rire. Puis, très sérieux, il répondit :
+
+--- Je veux bien, Thérèse.
+
+Mais elle se remit à marcher, en disant simplement :
+
+--- C'est bon, c'était pour savoir.
+
+Ils continuèrent leur promenade. La nuit tombait, l'ombre était noire sous les arbres. Ils causaient d'une dame de la ville qui venait d'épouser un officier. Comme ils s'engageaient dans une allée plus étroite, le jeune homme voulut s'effacer, pour qu'elle passât devant lui ; mais elle le heurta violemment, le força de marcher le premier. Maintenant, tous deux se taisaient.
+
+Et, brusquement, Thérèse sauta sur l'échine de Colombel, avec son ancienne élasticité de gamine féroce.
+
+--- Allons, va ! dit-elle, la voix changée, étranglée par sa passion d'autrefois.
+
+Elle lui avait arraché sa canne, elle lui en battait les cuisses. Cramponnée aux épaules, le serrant à l'étouffer entre ses jambes nerveuses d'écuyère, elle le poussait follement dans l'ombre noire des verdures. Longtemps, elle le cravacha, activa sa course. Le galop précipité de Colombel s'étouffait sur l'herbe. Il n'avait pas prononcé une parole, il soufflait fortement, se roidissait sur ses jambes de petit homme, avec cette grande fille dont le poids tiède lui écrasait le cou.
+
+Mais, quand elle lui cria : Assez ! Il ne s'arrêta pas. Il galopa plus vite, comme emporté par son élan. Les mains nouées en arrière, il la tenait aux jarrets, si fortement, qu'elle ne pouvait sauter. C'était le cheval maintenant qui s'enrageait et qui enlevait la maîtresse. Tout d'un coup, malgré les cinglements de canne et les égratignures, il fila vers un hangar, dans lequel le jardinier serrait ses outils. Là, il la jeta par terre, et il la viola sur de la paille. Enfin, son tour était venu d'être le maître.
+
+Thérèse pâlit davantage, eut les lèvres plus rouges et les yeux plus noirs. Elle continua sa vie de dévotion. À quelques jours de distance, la scène recommença : elle sauta sur le dos de Colombel, voulut le dompter, et finit encore par être jetée dans la paille du hangar. Devant le monde, elle restait douce pour lui, gardait une condescendance de grande soeur. Lui, était aussi d'une tranquillité souriante. Ils demeuraient, comme à six ans, des bêtes mauvaises, lâchées et s'amusant en secret à se mordre. Aujourd'hui, seulement, le mâle avait la victoire, aux heures troubles du désir.
+
+Leurs amours furent terribles. Thérèse reçut Colombel dans sa chambre. Elle lui avait remis une clef de la petite porte du jardin, qui ouvrait sur la ruelle des remparts. La nuit, il était obligé de traverser une première pièce, dans laquelle couchait justement sa mère. Mais les amants montraient une audace si tranquille, que jamais on ne les surprit. Ils osèrent se donner des rendez-vous en plein jour. Colombel venait avant le dîner, attendu par Thérèse, qui fermait la fenêtre, afin d'échapper aux regards des voisins. À toute heure, ils avaient le besoin de se voir, non pour se dire les tendresses des amants de vingt ans, mais pour reprendre le combat de leur orgueil. Souvent, une querelle les secouait, s'injuriant l'un l'autre à voix basse, d'autant plus tremblants de colère, qu'ils ne pouvaient céder à l'envie de crier et de se battre.
+
+Justement, un soir, avant le dîner, Colombel était venu. Puis, comme il marchait par la chambre, nu-pieds encore et en manches de chemise, il avait eu l'idée de saisir Thérèse, de la soulever ainsi que font les hercules de foire, au début d'une lutte. Thérèse voulut se dégager, en disant :
+
+--- Laisse, tu sais que je suis plus forte que toi. Je te ferais du mal.
+
+Colombel eut un petit rire.
+
+--- Eh bien ! Fais-moi du mal, murmura-t-il.
+
+Il la secouait toujours, pour l'abattre. Alors, elle ferma les bras. Ils jouaient souvent à ce jeu, par un besoin de bataille. Le plus souvent, c'était Colombel qui tombait à la renverse sur le tapis, suffoqué, les membres mous et abandonnés. Il était trop petit, elle le ramassait, l'étouffait contre elle, d'un geste de géante.
+
+Mais, ce jour-là, Thérèse glissa sur les genoux, et Colombel, d'un élan brusque, la renversa. Lui, debout, triomphait.
+
+--- Tu vois bien que tu n'es pas la plus forte, dit-il avec un rire insultant.
+
+Elle était devenue livide. Elle se releva lentement, et, muette, le reprit, agitée d'un tel tremblement de colère, que lui-même eut un frisson. Oh ! L'étouffer, en finir avec lui, l'avoir là inerte, à jamais vaincu ! Pendant une minute, ils luttèrent sans une parole, l'haleine courte, les membres craquant sous leur étreinte. Et ce n'était plus un jeu. Un souffle froid d'homicide battait sur leurs têtes. Il se mit à râler. Elle, craignant qu'on ne les entendît, le poussa dans un dernier et terrible effort. La tempe heurta l'angle de la commode, il s'allongea lourdement par terre.
+
+Thérèse, un instant, respira. Elle ramenait ses cheveux devant la glace, elle défripait sa jupe, en affectant de ne pas s'occuper du vaincu. Il pouvait bien se ramasser tout seul. Puis, elle le remua du pied. Et, comme il ne bougeait toujours pas, elle finit par se pencher, avec un petit froid dans les poils follets de sa nuque. Alors, elle vit le visage de Colombel d'une pâleur de cire, les yeux vitreux, la bouche tordue. À la tempe droite, il y avait un trou ; la tempe s'était défoncée contre l'angle de la commode. Colombel était mort.
+
+Elle se releva, glacée. Elle parla tout haut, dans le silence.
+
+--- Mort ! Le voilà mort, à présent !
+
+Et, tout d'un coup, le sentiment de la réalité l'emplit d'une angoisse affreuse. Sans doute, une seconde, elle avait voulu le tuer. Mais c'était bête, cette pensée de colère. On veut toujours tuer les gens, quand on se bat ; seulement, on ne les tue jamais, parce que les gens morts sont trop gênants. Non, non, elle n'était pas coupable, elle n'avait pas voulu cela. Dans sa chambre, songez donc !
+
+Elle continuait de parler à voix haute, lâchant des mots entrecoupés.
+
+--- Eh bien ! C'est fini... Il est mort, il ne s'en ira pas tout seul.
+
+À la stupeur froide du premier moment, succédait en elle une fièvre qui lui montait des entrailles à la gorge, comme une onde de feu. Elle avait un homme mort dans sa chambre. Jamais elle ne pourrait expliquer comment il était là, les pieds nus, en manches de chemise, avec un trou à la tempe. Elle était perdue.
+
+Thérèse se baissa, regarda la plaie. Mais une terreur l'immobilisa au-dessus du cadavre. Elle entendait Françoise, la mère de Colombel, passer dans le corridor. D'autres bruits s'élevaient, des pas, des voix, les préparatifs d'une soirée qui devait avoir lieu le jour même. On pouvait l'appeler, la venir chercher d'une minute à l'autre. Et ce mort qui était là, cet amant qu'elle avait tué et qui lui retombait sur les épaules, avec le poids écrasant de leur faute !
+
+Alors, étourdie par la clameur qui grandissait sous son crâne, elle se leva et se mit à tourner dans la chambre. Elle cherchait un trou où jeter ce corps qui maintenant lui barrait l'avenir, regardait sous les meubles, dans les coins, toute secouée du tremblement enragé de son impuissance. Non, il n'y avait pas de trou, l'alcôve n'était pas assez profonde, les armoires étaient trop étroites, la chambre entière lui refusait une aide. Et c'était là, pourtant, qu'ils avaient caché leurs baisers ! Il entrait avec son petit bruit de chat vicieux et partait de même. Jamais elle n'aurait cru qu'il pût devenir si lourd.
+
+Thérèse piétinait encore, battait toujours la chambre avec la folie dansante d'une bête traquée, lorsqu'elle crut avoir une inspiration. Si elle jetait Colombel par la fenêtre ? Mais on le trouverait, on devinerait bien d'où il était tombé. Cependant, elle avait soulevé le rideau pour regarder la rue ; et, tout d'un coup, elle aperçut le jeune homme d'en face, l'imbécile qui jouait de la flûte, accoudé à sa fenêtre, avec son air de chien soumis. Elle connaissait bien sa figure blême, sans cesse tournée vers elle, et dont elle était fatiguée, tant elle y lisait de tendresse lâche. La vue de Julien, si humble et si aimant, l'arrêta net. Un sourire éclaira son visage pâle. Le salut était là. L'imbécile d'en face l'aimait d'une tendresse de dogue enchaîné, qui lui obéirait jusqu'au crime. D'ailleurs, elle le récompenserait de tout son coeur, de toute sa chair. Elle ne l'avait pas aimé, parce qu'il était trop doux ; mais elle l'aimerait, elle l'achèterait à jamais par le don loyal de son corps, s'il touchait au sang pour elle. Ses lèvres rouges eurent un petit battement, comme à la saveur d'un amour épouvanté dont l'inconnu l'attirait.
+
+Alors, vivement, ainsi qu'elle aurait pris un paquet de linge, elle souleva le corps de Colombel, qu'elle porta sur le lit. Puis, ouvrant la fenêtre, elle envoya des baisers à Julien.
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5870 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5871 .calibre35}
+
+## []{#_Toc368832922 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832648 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832374 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832100 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831826 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831552 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831278 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831004 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830730 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830456 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830182 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829908 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829634 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829360 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829086 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828812 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828538 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828264 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368827990 .pcalibre .calibre3 .pcalibre1} {#iv .calibre43}
+
+
+Julien marchait dans un cauchemar. Quand il reconnut Colombel sur le lit, il ne s'étonna pas, il trouva cela naturel et simple. Oui, Colombel seul pouvait être au fond de cette alcôve, la tempe défoncée, les membres écartés, en une pose de luxure affreuse.
+
+Cependant, Thérèse lui parlait longuement. Il n'entendait pas d'abord, les paroles coulaient dans sa stupeur, avec un bruit confus. Puis, il comprit qu'elle lui donnait des ordres, et il écouta. Maintenant, il fallait qu'il ne sortît plus de la chambre, il resterait jusqu'à minuit, à attendre que l'hôtel fût noir et vide. Cette soirée que donnait le marquis, les empêcherait d'agir plus tôt ; mais elle offrait en somme des circonstances favorables, elle occupait trop tout le monde pour qu'on songeât à monter chez la jeune fille. L'heure venue, Julien prendrait le cadavre sur son dos, le descendrait et l'irait jeter dans le Chanteclair, au bas de la rue Beau-Soleil. Rien n'était plus facile, à voir la tranquillité avec laquelle Thérèse expliquait tout ce plan.
+
+Elle s'arrêta, puis posant les mains sur les épaules du jeune homme, elle demanda :
+
+--- Vous avez compris, c'est convenu ?
+
+Il eut un tressaillement.
+
+--- Oui, oui, tout ce que vous voudrez. Je vous appartiens.
+
+Alors, très sérieuse, elle se pencha. Comme il ne comprenait pas ce qu'elle voulait, elle reprit :
+
+--- Embrassez-moi.
+
+Il posa en frissonnant un baiser sur son front glacé. Et tous deux gardèrent le silence.
+
+Thérèse avait de nouveau tiré les rideaux du lit. Elle se laissa tomber dans un fauteuil, où elle se reposa enfin, abîmée dans l'ombre. Julien, après être resté un instant debout, s'assit également sur une chaise. Françoise n'était plus dans la pièce voisine, la maison n'envoyait que des bruits sourds, la chambre semblait dormir, peu à peu emplie de ténèbres.
+
+Pendant près d'une heure, rien ne bougea. Julien entendait, contre son crâne, de grands coups qui l'empêchaient de suivre un raisonnement. Il était chez Thérèse, et cela l'emplissait de félicité. Puis, tout d'un coup, quand il venait à penser qu'il y avait là le cadavre d'un homme, au fond de cette alcôve dont les rideaux, en l'effleurant, lui causaient un frisson, il se sentait défaillir. Elle avait aimé cet avorton, Dieu juste ! était-ce possible ? Il lui pardonnait de l'avoir tué ; ce qui lui allumait le sang, c'étaient les pieds nus de Colombel, les pieds nus de cet homme au milieu des dentelles du lit. Avec quelle joie il le jetterait dans le Chanteclair, au bout du pont, à un endroit profond et noir qu'il connaissait bien ! Ils en seraient débarrassés tous les deux, ils pourraient se prendre ensuite. Alors, à la pensée de ce bonheur qu'il n'osait rêver le matin, il se voyait brusquement sur le lit, à la place même où gisait le cadavre, et la place était froide, et il éprouvait une répugnance terrifiée.
+
+Renversée au fond du fauteuil, Thérèse ne remuait pas. Sur la clarté vague de la fenêtre, il voyait simplement la tache haute de son chignon. Elle restait le visage entre les mains, sans qu'il fût possible de connaître le sentiment qui l'anéantissait ainsi. Était-ce une simple détente physique, après l'horrible crise qu'elle venait de traverser ? Était-ce un remords écrasé, un regret de cet amant endormi du dernier sommeil ? S'occupait-elle tranquillement de mûrir son plan de salut, ou bien cachait-elle le ravage de la peur sur sa face noyée d'ombre ? Il ne pouvait le deviner.
+
+La pendule sonna, au milieu du grand silence. Alors, Thérèse se leva lentement, alluma les bougies de sa toilette ; et elle apparut dans son beau calme accoutumé, reposée et forte. Elle semblait avoir oublié le corps vautré derrière les rideaux de soie rose, allant et venant du pas tranquille d'une personne qui s'occupe, dans l'intimité close de sa chambre. Puis, comme elle dénouait ses cheveux, elle dit sans même se retourner :
+
+--- Je vais m'habiller pour cette fête... Si l'on venait, n'est-ce pas ? Vous vous cacheriez au fond de l'alcôve.
+
+Il restait assis, il la regardait. Elle le traitait déjà en amant, comme si la complicité sanglante qu'elle mettait entre eux, les eût habitués l'un à l'autre, dans une longue liaison.
+
+Les bras levés, elle se coiffa. Il la regardait toujours avec un frisson, tant elle était désirable, le dos nu, remuant paresseusement dans l'air ses coudes délicats et ses mains effilées, qui enroulaient des boucles. Voulait-elle donc le séduire, lui montrer l'amante qu'il allait gagner, afin de le rendre brave ?
+
+Elle venait de se chausser, lorsqu'un bruit de pas se fit entendre.
+
+--- Cachez-vous dans l'alcôve, dit-elle à voix basse.
+
+Et, d'un mouvement prompt, elle jeta sur le cadavre raidi de Colombel tout le linge qu'elle avait quitté, un linge tiède encore, parfumé de son odeur.
+
+Ce fut Françoise qui entra, en disant :
+
+--- On vous attend, mademoiselle.
+
+--- J'y vais, ma bonne, répondit paisiblement Thérèse. Tiens ! Tu vas m'aider à passer ma robe.
+
+Julien, par un entrebâillement des rideaux, les apercevait toutes les deux, et il frémissait de l'audace de la jeune fille, ses dents claquaient si fort, qu'il s'était pris la mâchoire dans son poing, pour qu'on n'entendît pas. À côté de lui, sous la chemise de femme, il voyait pendre l'un des pieds glacés de Colombel. Si Françoise, si la mère avait tiré le rideau et s'était heurtée au pied de son enfant, ce pied nu qui passait !
+
+--- Prends bien garde, répétait Thérèse, va doucement : tu arraches les fleurs.
+
+Sa voix n'avait pas une émotion. Elle souriait maintenant, en fille heureuse d'aller au bal. La robe était une robe de soie blanche, toute garnie de fleurs d'églantier, des fleurs blanches au coeur teinté d'une pointe de rouge. Et, quand elle se tint debout au milieu de la pièce, elle fut comme un grand bouquet, d'une blancheur virginale. Ses bras nus, son cou nu continuaient la blancheur de la soie.
+
+--- Oh ! Que vous êtes belle ! Que vous êtes belle ! Répétait complaisamment la vieille Françoise. Et votre guirlande, attendez !
+
+Elle parut chercher, porta la main aux rideaux, comme pour regarder sur le lit. Julien faillit laisser échapper un cri d'angoisse. Mais Thérèse, sans se presser, toujours souriante devant la glace, reprit :
+
+--- Elle est là, sur la commode, ma guirlande. Donne-la-moi... Oh ! Ne touche pas à mon lit. J'ai mis des affaires dessus. Tu dérangerais tout.
+
+Françoise l'aida à poser la longue branche d'églantier, qui la couronnait, et dont un bout flexible lui tombait sur la nuque. Puis, Thérèse resta là, un instant encore, complaisamment. Elle était prête, elle se gantait.
+
+--- Ah bien ! S'écria Françoise, il n'y a pas de bonnes-vierges si blanches que vous, à l'église !
+
+Ce compliment fit de nouveau sourire la jeune fille. Elle se contempla une dernière fois et se dirigea vers la porte, en disant :
+
+--- Allons, descendons... Tu peux souffler les bougies.
+
+Dans l'obscurité brusque qui régna, Julien entendit la porte se refermer et la robe de Thérèse s'en aller, avec le frôlement de la soie le long du corridor. Il s'assit par terre, au fond de la ruelle, n'osant encore sortir de l'alcôve. La nuit profonde lui mettait un voile devant les yeux ; mais il gardait, près de lui, la sensation de ce pied nu, dont toute la pièce semblait glacée. Il était là depuis un laps de temps qui lui échappait, dans un embarras de pensées lourd comme une somnolence, lorsque la porte fut rouverte. Au petit bruit de la soie, il reconnut Thérèse. Elle ne s'avança pas, elle posa seulement quelque chose sur la commode, en murmurant :
+
+--- Tenez, vous ne devez pas avoir dîné... Il faut manger, entendez-vous !
+
+Le petit bruit recommença, la robe s'en alla une seconde fois, le long du corridor. Julien, secoué, se leva. Il étouffait dans l'alcôve, il ne pouvait plus rester contre ce lit, à côté de Colombel. La pendule sonna huit heures, il avait quatre heures à attendre. Alors, il marcha en étouffant le bruit de ses pas.
+
+Une clarté faible, la clarté de la nuit étoilée, lui permettait de distinguer les taches sombres des meubles. Certains coins se noyaient. Seule, la glace gardait un reflet éteint de vieil argent. Il n'était pas peureux d'habitude ; mais, dans cette chambre, des sueurs, par moments, lui inondaient la face. Autour de lui, les masses noires des meubles remuaient, prenaient des formes menaçantes. Trois fois, il crut entendre des soupirs sortir de l'alcôve. Et il s'arrêtait, terrifié. Puis, quand il prêtait mieux l'oreille, c'étaient des bruits de fête qui montaient, un air de danse, le murmure rieur d'une foule. Il fermait les yeux ; et, brusquement, au lieu du trou noir de la chambre, une grande lumière éclatait, un salon flambant, où il apercevait Thérèse, avec sa robe pure, passer sur un rythme amoureux, entre les bras d'un valseur. Tout l'hôtel vibrait d'une musique heureuse. Il était seul, dans ce coin abominable, à grelotter d'épouvante. Un moment, il recula, les cheveux hérissés : il lui semblait voir une lueur s'allumer sur un siège. Lorsqu'il osa s'approcher et toucher, il reconnut un corset de satin blanc. Il le prit, enfonça son visage dans l'étoffe assouplie par la gorge d'amazone de la jeune fille, respira longuement son odeur, pour s'étourdir.
+
+Oh ! Quelles délices ! Il voulait tout oublier. Non, ce n'était pas une veillée de mort, c'était une veillée d'amour. Il vint appuyer le front contre les vitres, en gardant aux lèvres le corset de satin ; et il recommença l'histoire de son coeur. En face, de l'autre côté de la rue, il apercevait sa chambre dont les fenêtres étaient restées ouvertes. C'était là qu'il avait séduit Thérèse dans ses longues soirées de musique dévote. Sa flûte chantait sa tendresse, disait ses aveux, avec un tremblement de voix si doux d'amant timide, que la jeune fille, vaincue, avait fini par sourire. Ce satin qu'il baisait, était un satin à elle, un coin du satin de sa peau, qu'elle lui avait laissé, pour qu'il ne s'impatientât pas. Son rêve devenait si net, qu'il quitta la fenêtre et courut à la porte, croyant l'entendre.
+
+Le froid de la pièce tomba sur ses épaules ; et, dégrisé, il se souvint. Alors, une décision furieuse le prit. Ah ! Il n'hésitait plus, il reviendrait la nuit même. Elle était trop belle, il l'aimait trop. Quand on s'aime dans le crime, on doit s'aimer d'une passion dont les os craquent. Certes, il reviendrait, et en courant, et sans perdre une minute, aussitôt le paquet jeté à la rivière. Et, fou, secoué par une crise nerveuse, il mordait le corset de satin, il roulait sa tête dans l'étoffe, pour étouffer ses sanglots de désir.
+
+Dix heures sonnèrent. Il écouta. Il croyait être là depuis des années. Alors, il attendit dans l'hébétement. Ayant rencontré sous sa main du pain et des fruits, il mangea debout, avidement, avec une douleur à l'estomac qu'il ne pouvait apaiser. Cela le rendrait fort, peut-être. Puis, quand il eut mangé, il fut pris d'une lassitude immense. La nuit lui semblait devoir s'étendre à jamais. Dans l'hôtel, la musique lointaine se faisait plus claire ; le branle d'une danse secouait par moments le parquet ; des voitures commençaient à rouler. Et il regardait fixement la porte, lorsqu'il aperçut comme une étoile, dans le trou de la serrure. Il ne se cacha même pas. Tant pis, si quelqu'un entrait !
+
+--- Non, merci, Françoise, dit Thérèse, en paraissant avec une bougie. Je me déshabillerai bien toute seule... Couche-toi, tu dois être fatiguée.
+
+Elle repoussa la porte, dont elle fit glisser le verrou. Puis, elle resta un instant immobile, un doigt sur les lèvres, gardant à la main le bougeoir. La danse n'avait pas fait monter une rougeur à ses joues. Elle ne parla pas, posa le bougeoir, s'assit en face de Julien. Pendant une demi-heure encore, ils attendirent, ils se regardèrent.
+
+Les portes avaient battu, l'hôtel s'endormait. Mais ce qui inquiétait Thérèse, c'était surtout le voisinage de Françoise, cette chambre où logeait la vieille femme. Françoise marcha quelques minutes, puis son lit craqua, elle venait de se coucher. Longtemps, elle tourna entre ses draps, comme prise d'insomnie. Enfin une respiration forte et régulière vint à travers la cloison.
+
+Thérèse regardait toujours Julien, gravement. Elle ne prononça qu'un mot.
+
+--- Allons, dit-elle.
+
+Ils tirèrent les rideaux, ils voulurent rhabiller le cadavre du petit Colombel, qui avait déjà des raideurs de pantin lugubre. Quand cette besogne fut faite, leurs tempes à tous deux étaient mouillées de sueur.
+
+--- Allons ! dit-elle une seconde fois.
+
+Julien, sans une hésitation, d'un seul effort, saisit le petit Colombel, et le chargea sur ses épaules, comme les bouchers chargent les veaux. Il courbait son grand corps, les pieds du cadavre étaient à un mètre du sol.
+
+--- Je marche devant vous, murmura rapidement Thérèse. Je vous tiens par votre paletot, vous n'aurez qu'à vous laisser guider. Et avancez doucement.
+
+Il fallait passer d'abord par la chambre de Françoise. C'était l'endroit terrible. Ils avaient traversé la pièce, lorsque l'une des jambes du cadavre alla heurter une chaise. Au bruit, Françoise se réveilla. Ils l'entendirent qui levait la tête, en mâchant de sourdes paroles. Et ils restaient immobiles, elle collée à la porte, lui écrasé sous le poids du corps, avec la peur que la mère ne les surprît charriant son fils à la rivière. Ce fut une minute d'une angoisse atroce. Puis, Françoise parut se rendormir, et ils s'engagèrent dans le corridor, prudemment.
+
+Mais, là, une autre épouvante les attendait. La marquise n'était pas couchée, un filet de lumière glissait par sa porte entr'ouverte. Alors, ils n'osèrent plus ni avancer ni reculer. Julien sentait que le petit Colombel lui échapperait des épaules, s'il était forcé de traverser une seconde fois la chambre de Françoise. Pendant près d'un quart d'heure, ils ne bougèrent plus ; et Thérèse avait l'effroyable courage de soutenir le cadavre, pour que Julien ne se fatiguât pas. Enfin le filet de lumière s'effaça, ils purent gagner le rez-de-chaussée. Ils étaient sauvés.
+
+Ce fut Thérèse qui entrebâilla de nouveau l'ancienne porte cochère condamnée. Et, quand Julien sa trouva au milieu de la place des Quatre-Femmes, avec son fardeau, il l'aperçut debout, en haut du perron, les bras nus, toute blanche dans sa robe de bal. Elle l'attendait.
+
+
+---
+
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5872 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5873 .calibre35}
+
+## []{#_Toc368832923 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832649 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832375 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832101 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831827 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831553 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831279 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831005 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830731 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830457 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830183 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829909 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829635 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829361 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829087 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828813 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828539 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828265 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368827991 .pcalibre .calibre3 .pcalibre1} {#v .calibre43}
+
+
+Julien était d'une force de taureau. Tout jeune, dans la forêt voisine de son village, il s'amusait à aider les bûcherons, il chargeait des troncs d'arbre sur son échine d'enfant. Aussi portait-il le petit Colombel aussi légèrement qu'une plume. C'était un oiseau sur son cou, ce cadavre d'avorton. Il le sentait à peine, il était pris d'une joie mauvaise, à le trouver si peu lourd, si mince, si rien du tout. Le petit Colombel ne ricanerait plus en passant sous sa fenêtre, les jours où il jouerait de la flûte ; il ne le criblerait plus de ses plaisanteries, dans la ville. Et, à la pensée qu'il tenait là un rival heureux, raide et froid, Julien éprouvait le long des reins un frémissement de satisfaction. Il le remontait sur sa nuque d'un coup d'épaule, il serrait les dents et hâtait le pas.
+
+La ville était noire. Cependant, il y avait de la lumière sur la place des Quatre-Femmes, à la fenêtre du capitaine Pidoux ; sans doute le capitaine se trouvait indisposé, on voyait le profil élargi de son ventre aller et venir derrière les rideaux. Julien, inquiet, filait le long des maisons d'en face, lorsqu'une légère toux le glaça. Il s'arrêta dans le creux d'une porte, il reconnut la femme du notaire Savournin, qui prenait l'air, en regardant les étoiles avec de gros soupirs. C'était une fatalité ; d'ordinaire, à cette heure, la place des Quatre-Femmes dormait d'un sommeil profond. Madame Savournin, heureusement, alla retrouver enfin sur l'oreiller maître Savournin, dont les ronflements sonores s'entendaient du pavé, par la fenêtre ouverte. Et, quand cette fenêtre fut refermée, Julien traversa vivement la place, en guettant toujours le profil tourmenté et dansant du capitaine Pidoux.
+
+Pourtant, il se rassura, dans l'étranglement de la rue Beau-Soleil. Là, les maisons étaient si rapprochées, la pente du pavé si tortueuse, que la clarté des étoiles ne descendait pas au fond de ce boyau, où semblait s'alourdir une coulée d'ombre. Dès qu'il se vit ainsi abrité, une irrésistible envie de courir l'emporta brusquement dans un galop furieux. C'était dangereux et stupide, il en avait la conscience très nette ; mais il ne pouvait s'empêcher de galoper, il sentait encore derrière lui le carré vide et clair de la place des Quatre-Femmes, avec les fenêtres de la notaresse et du capitaine, allumées comme deux grands yeux qui le regardaient. Ses souliers faisaient sur le pavé un tapage tel, qu'il se croyait poursuivi. Puis, tout d'un coup, il s'arrêta. À trente mètres, il venait d'entendre les voix des officiers de la table d'hôte qu'une veuve blonde tenait rue Beau-Soleil. Ces messieurs devaient s'être offert un punch, pour fêter la permutation de quelque camarade. Le jeune homme se disait que, s'ils remontaient la rue, il était perdu ; aucune rue latérale ne lui permettait de fuir, et il n'aurait certainement pas le temps de retourner en arrière. Il écoutait la cadence des bottes et le léger cliquetis des épées, pris d'une anxiété qui l'étranglait. Pendant un instant, il ne put se rendre compte si les bruits se rapprochaient ou s'éloignaient. Mais ces bruits, lentement, s'affaiblirent. Il attendit encore, puis il se décida à continuer sa marche, en étouffant ses pas. Il aurait marché pieds nus, s'il avait osé prendre le temps de se déchausser.
+
+Enfin, Julien déboucha devant la porte de la ville.
+
+On ne trouve là ni octroi, ni poste d'aucune sorte. Il pouvait donc passer librement. Mais le brusque élargissement de la campagne le terrifia, au sortir de l'étroite rue Beau-Soleil. La campagne était toute bleue, d'un bleu très doux ; une haleine fraîche soufflait ; et il lui sembla qu'une foule immense l'attendait et lui envoyait son souffle au visage. On le voyait, un cri formidable allait s'élever et le clouer sur place.
+
+Cependant, le pont était là. Il distinguait la route blanche, les deux parapets, bas et gris comme des bancs de granit ; il entendait la petite musique cristalline du Chanteclair, dans les hautes herbes. Alors, il se hasarda, il marcha courbé, évitant les espaces libres, craignant d'être aperçu des mille témoins muets qu'il sentait autour de lui. Le passage le plus effrayant était le pont lui-même, sur lequel il se trouverait à découvert, en face de toute la ville, bâtie en amphithéâtre. Et il voulait aller au bout du pont, à l'endroit où il s'asseyait d'habitude, les jambes pendantes, pour respirer la fraîcheur des belles soirées. Le Chanteclair avait, dans un grand trou, une nappe dormante et noire, creusée de petites fossettes rapides par la tempête intérieure d'un violent tourbillon. Que de fois il s'était amusé à lancer des pierres dans cette nappe, pour mesurer aux bouillons de l'eau la profondeur du trou ! Il eut une dernière tension de volonté, il traversa le pont.
+
+Oui, c'était bien là. Julien reconnaissait la dalle, polie par ses longues stations. Il se pencha, il vit la nappe avec les fossettes rapides qui dessinaient des sourires. C'était là, et il se déchargea sur le parapet. Avant de jeter le petit Colombel, il avait un irrésistible besoin de le regarder une dernière fois. Les yeux de tous les bourgeois de la ville, ouverts sur lui, ne l'auraient pas empêché de se satisfaire. Il resta quelques secondes face à face avec le cadavre. Le trou de la tempe avait noirci. Une charrette, au loin, dans la campagne endormie, faisait un bruit de gros sanglots. Alors, Julien se hâta ; et, pour éviter un plongeon trop bruyant, il reprit le corps, l'accompagna dans sa chute. Mais il ne sut comment, les bras du mort se nouèrent autour de son cou, si rudement, qu'il fut entraîné lui-même. Il se rattrapa par miracle à une saillie. Le petit Colombel avait voulu l'emmener.
+
+Lorsqu'il se retrouva assis sur la dalle, il fut pris d'une faiblesse. Il demeurait là, brisé, l'échine pliée, les jambes pendantes, dans l'attitude molle de promeneur fatigué qu'il y avait eue si souvent. Et il contemplait la nappe dormante, où reparaissaient les rieuses fossettes. Cela était certain, le petit Colombel avait voulu l'emmener ; il l'avait serré au cou, tout mort qu'il était. Mais rien de ces choses n'existait plus ; il respirait largement l'odeur fraîche de la campagne ; il suivait des yeux le reflet d'argent de la rivière, entre les ombres veloutées des arbres ; et ce coin de nature lui semblait comme une promesse de paix, de bercement sans fin, dans une jouissance discrète et cachée.
+
+Puis, il se rappela Thérèse. Elle l'attendait, il en était sûr. Il la voyait toujours en haut du perron ruiné, sur le seuil de la porte dont la mousse mangeait le bois. Elle restait toute droite, avec sa robe de soie blanche, garnie de fleurs d'églantier au coeur teinté d'une pointe de rouge. Peut-être pourtant le froid l'avait-il prise. Alors, elle devait être remontée l'attendre dans sa chambre. Elle avait laissé la porte ouverte, elle s'était mise au lit comme une mariée, le soir des noces.
+
+Ah ! Quelle douceur ! Jamais une femme ne l'avait attendu ainsi. Encore une minute, il serait au rendez-vous promis. Mais ses jambes s'engourdissaient, il craignait de s'endormir. Était-il donc un lâche ? Et, pour se secouer, il évoquait Thérèse à sa toilette, lorsqu'elle avait laissé tomber ses vêtements. Il la revoyait les bras levés, la gorge tendue, agitant en l'air ses coudes délicats et ses mains pâles. Il se fouettait de ses souvenirs, de l'odeur qu'elle exhalait, de sa peau souple, de cette chambre d'épouvantable volupté où il avait bu une ivresse folle. Est-ce qu'il allait renoncer à toute cette passion offerte, dont il avait un avant-goût qui lui brûlait les lèvres ? Non, il se traînerait plutôt sur les genoux, si ses jambes refusaient de le porter.
+
+Mais c'était là une bataille perdue déjà, dans laquelle son amour vaincu achevait d'agoniser. Il n'avait plus qu'un besoin irrésistible, celui de dormir, dormir toujours. L'image de Thérèse pâlissait, un grand mur noir montait, qui le séparait d'elle. Maintenant, il ne lui aurait pas effleuré du doigt une épaule, sans en mourir. Son désir expirant avait une odeur de cadavre. Cela devenait impossible, le plafond se serait écroulé sur leurs têtes, s'il était rentré dans la chambre et s'il avait pris cette fille contre sa chair.
+
+Dormir, dormir toujours, que cela devait être bon, quand on n'avait plus rien en soi qui valût le plaisir de veiller ! Il n'irait plus le lendemain à la poste, c'était inutile ; il ne jouerait plus de la flûte, il ne se mettrait plus à la fenêtre. Alors, pourquoi ne pas dormir tout le temps ? Son existence était finie, il pouvait se coucher. Et il regardait de nouveau la rivière, en tâchant de voir si le petit Colombel se trouvait encore là. Colombel était un garçon plein d'intelligence : il savait pour sûr ce qu'il faisait, quand il avait voulu l'emmener.
+
+La nappe s'étalait, trouée par les rires rapides de ses tourbillons. Le Chanteclair prenait une douceur musicale, tandis que la campagne avait un élargissement d'ombre d'une paix souveraine. Julien balbutia trois fois le nom de Thérèse. Puis, il se laissa tomber, roulé sur lui-même, comme un paquet, avec un grand rejaillissement d'écume. Et le Chanteclair reprit sa chanson dans les herbes.
+
+Lorsqu'on retrouva les deux corps, on crut à une bataille, on inventa une histoire. Julien devait avoir guetté le petit Colombel, pour se venger de ses moqueries ; et il s'était jeté dans la rivière, après l'avoir tué d'un coup de pierre à la tempe. Trois mois plus tard, mademoiselle Thérèse de Marsanne épousait le jeune comte de Véteuil. Elle était en robe blanche, elle avait un beau visage calme, d'une pureté hautaine.
+
+
+::: WordSection
+[
+]{.calibre38}
+
+
+[[Liste des contes et nouvelles]{.calibre44}](../Text/Zola4_split_000.htm){.pcalibre .pcalibre1}[

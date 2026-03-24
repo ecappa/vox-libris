@@ -1,0 +1,105 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES ROMANCIERS CONTEMPORAINS",
+  "slug": "les-romanciers-contemporains",
+  "nombre_chapitres": 8,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1714,
+      "spine_end_exclusive": 1715,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_415.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1715,
+      "spine_end_exclusive": 1716,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_416.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1716,
+      "spine_end_exclusive": 1717,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_417.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1717,
+      "spine_end_exclusive": 1718,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_418.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1718,
+      "spine_end_exclusive": 1719,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_419.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1719,
+      "spine_end_exclusive": 1720,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_420.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 1720,
+      "spine_end_exclusive": 1721,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_421.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 1721,
+      "spine_end_exclusive": 1722,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_422.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 1722,
+      "spine_end_exclusive": 1724,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_423.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_424.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-romanciers-contemporains/Zola5_image066.jpg",
+    "images/emile-zola/les-romanciers-contemporains/Zola5_image067.jpg"
+  ]
+}

@@ -1,0 +1,126 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "COMMENT ON MEURT"
+slug_oeuvre: "comment-on-meurt"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+COMMENT ON MEURT
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+Le comte de Verteuil a cinquante-cinq ans. Il appartient à une des plus illustres familles de France, et possède une grande fortune. Boudant le Gouvernement, il s'est occupé comme il a pu, a donné des articles aux revues sérieuses, qui l'ont fait entrer à l'Académie des sciences morales et politiques, s'est jeté dans les affaires, s'est passionné successivement pour l'agriculture, l'élevage, les beaux-arts. Même, un instant, il a été député, et s'est distingué par la violence de son opposition.
+
+La comtesse Mathilde de Verteuil a quarante-six ans. Elle est encore citée comme la blonde la plus adorable de Paris. L'âge semble blanchir sa peau. Elle était un peu maigre ; maintenant, ses épaules, en mûrissant, ont pris la rondeur d'un fruit soyeux. Jamais elle n'a été plus belle. Quand elle entre dans un salon, avec ses cheveux d'or et le satin de sa gorge, elle paraît être un astre à son lever ; et les femmes de vingt ans la jalousent.
+
+Le ménage du comte et de la comtesse est un de ceux dont on ne dit rien. Ils se sont épousés comme on s'épouse le plus souvent dans leur monde. Même on assure qu'ils ont vécu six ans très bien ensemble. À cette époque, ils ont eu un fils, Roger, qui est lieutenant, et une fille, Blanche, qu'ils ont mariée l'année dernière à M. De Bussac, maître des requêtes. Ils se rallient dans leurs enfants. Depuis des années qu'ils ont rompu, ils restent bons amis, avec un grand fond d'égoïsme. Ils se consultent, sont parfaits l'un pour l'autre devant le monde, mais s'enferment ensuite dans leurs appartements, où ils reçoivent des intimes à leur guise.
+
+Cependant, une nuit, Mathilde rentre d'un bal vers deux heures du matin. Sa femme de chambre la déshabille ; puis, au moment de se retirer, elle dit :
+
+--- Monsieur le comte s'est trouvé un peu indisposé ce soir.
+
+La comtesse, à demi endormie, tourne paresseusement la tête.
+
+--- Ah ! murmure-t-elle.
+
+Elle s'allonge, elle ajoute :
+
+--- Réveillez-moi demain à dix heures, j'attends la modiste.
+
+Le lendemain, au déjeuner, comme le comte ne paraît pas, la comtesse fait d'abord demander de ses nouvelles ; ensuite, elle se décide à monter auprès de lui. Elle le trouve très pâle dans son lit, très correct. Trois médecins sont déjà venus, ont causé à voix basse et laissé des ordonnances ; ils doivent revenir le soir. Le malade est soigné par deux domestiques, qui s'agitent graves et muets, étouffant le bruit de leurs talons sur les tapis. La grande chambre sommeille, dans une sévérité froide ; pas un linge ne traîne, pas un meuble n'est dérangé. C'est la maladie propre et digne, la maladie cérémonieuse, qui attend des visites.
+
+--- Vous souffrez donc, mon ami ? demande la comtesse en entrant.
+
+Le comte fait un effort pour sourire.
+
+--- Oh ! Un peu de fatigue, répond-il. Je n'ai besoin que de repos... Je vous remercie de vous être dérangée.
+
+Deux jours se passent. La chambre reste digne ; chaque objet est à sa place, les potions disparaissent sans tacher un meuble. Les faces rasées des domestiques ne se permettent même pas d'exprimer un sentiment d'ennui. Cependant, le comte sait qu'il est en danger de mort ; il a exigé la vérité des médecins, et il les laisse agir, sans une plainte. Le plus souvent, il demeure les yeux fermés, ou bien il regarde fixement devant lui, comme s'il réfléchissait à sa solitude.
+
+Dans le monde, la comtesse dit que son mari est souffrant. Elle n'a rien changé à son existence, mange et dort, se promène à ses heures. Chaque matin et chaque soir, elle vient elle-même demander au comte comment il se porte.
+
+--- Eh bien ? Allez-vous mieux, mon ami ?
+
+--- Mais oui, beaucoup mieux, je vous remercie, ma chère Mathilde.
+
+--- Si vous le désiriez, je resterais près de vous.
+
+--- Non, c'est inutile. Julien et François suffisent... À quoi bon vous fatiguer ?
+
+Entre eux, ils se comprennent, ils ont vécu séparés et tiennent à mourir séparés. Le comte a cette jouissance amère de l'égoïste, désireux de s'en aller seul, sans avoir autour de sa couche l'ennui des comédies de la douleur. Il abrège le plus possible, pour lui et pour la comtesse, le désagrément du suprême tête-à-tête. Sa volonté dernière est de disparaître proprement, en homme du monde qui entend ne déranger et ne répugner personne.
+
+Pourtant, un soir, il n'a plus que le souffle, il sait qu'il ne passera pas la nuit. Alors, quand la comtesse monte faire sa visite accoutumée, il lui dit en trouvant un dernier sourire :
+
+--- Ne sortez pas... Je ne me sens pas bien.
+
+Il veut lui éviter les propos du monde. Elle, de son côté, attendait cet avis. Et elle s'installe dans la chambre. Les médecins ne quittent plus l'agonisant. Les deux domestiques achèvent leur service, avec le même empressement silencieux. On a envoyé chercher les enfants, Roger et Blanche, qui se tiennent près du lit, à côté de leur mère. D'autres parents occupent une pièce voisine. La nuit se passe de la sorte, dans une attente grave. Au matin, les derniers sacrements sont apportés, le comte communie devant tous, pour donner un dernier appui à la religion. Le cérémonial est rempli, il peut mourir.
+
+Mais il ne se hâte point, semble retrouver des forces, afin d'éviter une mort convulsée et bruyante. Son souffle, dans la vaste pièce sévère, émet seulement le bruit cassé d'une horloge qui se détraque. C'est un homme bien élevé qui s'en va. Et, lorsqu'il a embrassé sa femme et ses enfants, il les repousse d'un geste, il retombe du côté de la muraille, et meurt seul.
+
+Alors, un des médecins se penche, ferme les yeux du mort. Puis, il dit à demi-voix :
+
+--- C'est fini.
+
+Des soupirs et des larmes montent dans le silence. La comtesse, Roger et Blanche se sont agenouillés. Ils pleurent entre leurs mains jointes ; on ne voit pas leurs visages. Puis, les deux enfants emmènent leur mère, qui, à la porte, voulant marquer son désespoir, balance sa taille dans un dernier sanglot. Et, dès ce moment, le mort appartient à la pompe de ses obsèques.
+
+Les médecins s'en sont allés, en arrondissant le dos et en prenant une figure vaguement désolée. On a fait demander un prêtre à la paroisse, pour veiller le corps. Les deux domestiques restent avec ce prêtre, assis sur des chaises, raides et dignes ; c'est la fin attendue de leur service. L'un d'eux aperçoit une cuiller oubliée sur un meuble ; il se lève et la glisse vivement dans sa poche, pour que le bel ordre de la chambre ne soit pas troublé.
+
+On entend au-dessous, dans le grand salon, un bruit de marteaux : ce sont les tapissiers, qui disposent cette pièce en chapelle ardente. Toute la journée est prise par l'embaumement ; les portes sont fermées, l'embaumeur est seul avec ses aides. Lorsqu'on descend le comte, le lendemain, et qu'on l'expose, il est en habit, il a une fraîcheur de jeunesse.
+
+Dès neuf heures, le matin des obsèques, l'hôtel s'emplit d'un murmure de voix. Le fils et le gendre du défunt, dans un salon du rez-de-chaussée, reçoivent la cohue ; ils s'inclinent, ils gardent une politesse muette de gens affligés. Toutes les illustrations sont là, la noblesse, l'armée, la magistrature ; il y a jusqu'à des sénateurs et des membres de l'Institut.
+
+À dix heures enfin, le convoi se met en marche pour se rendre à l'église. Le corbillard est une voiture de première classe, empanachée de plumes, drapée de tentures à franges d'argent. Les cordons du poêle sont tenus par un maréchal de France, un duc vieil ami du défunt, un ancien ministre et un académicien. Roger de Verteuil et M. De Bussac conduisent le deuil. Ensuite, vient le cortège, un flot de monde ganté et cravaté de noir, tous des personnages importants qui soufflent dans la poussière et marchent avec le piétinement sourd d'un troupeau débandé. Le quartier ameuté est aux fenêtres ; des gens font la haie sur les trottoirs, se découvrent et regardent passer avec des hochements de tête le corbillard triomphal. La circulation est interrompue par la file interminable des voitures de deuil, presque toutes vides ; les omnibus, les fiacres, s'amassent dans les carrefours ; on entend les jurons des cochers et les claquements des fouets. Et, pendant ce temps, la comtesse de Verteuil, restée chez elle, s'est enfermée dans son appartement, en faisant dire que les larmes l'ont brisée. Étendue sur une chaise longue, jouant avec le gland de sa ceinture, elle regarde le plafond, soulagée et rêveuse.
+
+À l'église, la cérémonie dure près de deux heures. Tout le clergé est en l'air ; depuis le matin, on ne voit que des prêtres affairés courir en surplis, donner des ordres, s'éponger le front et se moucher avec des bruits retentissants. Au milieu de la nef tendue de noir, un catafalque flamboie. Enfin, le cortège s'est casé, les femmes à gauche, les hommes à droite ; et les orgues roulent leurs lamentations, les chantres gémissent sourdement, les enfants de choeur ont des sanglots aigus ; tandis que, dans des torchères, brûlent de hautes flammes vertes, qui ajoutent leur pâleur funèbre à la pompe de la cérémonie.
+
+--- Est-ce que Faure ne doit pas chanter ? demande un député à son voisin.
+
+--- Oui, je crois, répond le voisin, un ancien préfet, homme superbe qui sourit de loin aux dames.
+
+Et, lorsque la voix du chanteur s'élève dans la nef frissonnante :
+
+--- Hein ! Quelle méthode, quelle ampleur ! reprend-il à demi voix, en balançant la tête de ravissement.
+
+Toute l'assistance est séduite. Les dames, un vague sourire aux lèvres, songent à leurs soirées de l'Opéra. Ce Faure a vraiment du talent ! Un ami du défunt va jusqu'à dire :
+
+--- Jamais il n'a mieux chanté !... C'est fâcheux que ce pauvre Verteuil ne puisse l'entendre, lui qui l'aimait tant !
+
+Les chantres, en chapes noires, se promènent autour du catafalque. Les prêtres, au nombre d'une vingtaine, compliquent le cérémonial, saluent, reprennent des phrases latines, agitent des goupillons. Enfin, les assistants eux-mêmes défilent devant le cercueil, les goupillons circulent. Et l'on sort, après les poignées de mains à la famille. Dehors, le plein jour aveugle la cohue.
+
+C'est une belle journée de juin. Dans l'air chaud, des fils légers volent. Alors, devant l'église, sur la petite place, il y a des bousculades. Le cortège est long à se réorganiser. Ceux qui ne veulent pas aller plus loin, disparaissent. À deux cents mètres, au bout d'une rue, on aperçoit déjà les plumets du corbillard qui se balancent et se perdent, lorsque la place est encore tout encombrée de voitures. On entend les claquements des portières et le trot brusque des chevaux sur le pavé. Pourtant, les cochers prennent la file, le convoi se dirige vers le cimetière.
+
+Dans les voitures, on est à l'aise, on peut croire qu'on se rend au Bois lentement, au milieu de Paris printanier. Comme on n'aperçoit plus le corbillard, on oublie vite l'enterrement ; et des conversations s'engagent, les dames parlent de la saison d'été, les hommes causent de leurs affaires.
+
+--- Dites donc, ma chère, allez-vous encore à Dieppe, cette année ?
+
+--- Oui, peut-être. Mais ce ne serait jamais qu'en août... Nous partons samedi pour notre propriété de la Loire.
+
+--- Alors, mon cher, il a surpris la lettre, et ils se sont battus, oh ! Très gentiment, une simple égratignure... Le soir, j'ai dîné avec lui au cercle. Il m'a même gagné vingt-cinq louis.
+
+--- N'est-ce pas ? La réunion des actionnaires est pour après-demain... On veut me nommer au comité. Je suis si occupé, je ne sais si je pourrai.
+
+Le cortège, depuis un instant, suit une avenue. Une ombre fraîche tombe des arbres, et les gaietés du soleil chantent dans les verdures. Tout d'un coup, une dame étourdie, qui se penche à une portière, laisse échapper :
+
+--- Tiens ! C'est charmant par ici !
+
+Justement, le convoi entre dans le cimetière Montparnasse. Les voix se taisent, on n'entend plus que le grincement des roues sur le sable des allées. Il faut aller tout au bout, la sépulture des Verteuil est au fond, à gauche : un grand tombeau de marbre blanc, une sorte de chapelle, très ornée de sculptures. On pose le cercueil devant la porte de cette chapelle, et les discours commencent.
+
+Il y en a quatre. L'ancien ministre retrace la vie politique du défunt, qu'il présente comme un génie modeste, qui aurait sauvé la France, s'il n'avait pas méprisé l'intrigue. Ensuite, un ami parle des vertus privées de celui que tout le monde pleure. Puis, un monsieur inconnu prend la parole comme délégué d'une Société industrielle, dont le comte de Verteuil était président honoraire. Enfin, un petit homme à mine grise dit les regrets de l'Académie des sciences morales et politiques.
+
+Pendant ce temps, les assistants s'intéressent aux tombes voisines, lisent des inscriptions sur les plaques de marbre. Ceux qui tendent l'oreille, attrapent seulement des mots. Un vieillard, aux lèvres pincées, après avoir saisi ce bout de phrase : « ... les qualités du coeur, la générosité et la bonté des grands caractères... » hoche le menton, en murmurant :
+
+--- Ah bien ! Oui, je l'ai connu, c'était un chien fini !
+
+Le dernier adieu s'envole dans l'air. Quand les prêtres ont béni le corps, le monde se retire, et il n'y a plus, dans ce coin écarté, que les fossoyeurs qui descendent le cercueil. Les cordes ont un frottement sourd, la bière de chêne craque. Monsieur le comte de Verteuil est chez lui.
+
+Et la comtesse, sur sa chaise longue, n'a pas bougé. Elle joue toujours avec le gland de sa ceinture, les yeux au plafond, perdue dans une rêverie, qui, peu à peu, fait monter une rougeur à ses joues de belle blonde.

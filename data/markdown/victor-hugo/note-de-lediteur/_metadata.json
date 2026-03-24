@@ -1,0 +1,16 @@
+{
+  "auteur": "Victor Hugo",
+  "titre": "NOTE DE L’ÉDITEUR",
+  "slug": "note-de-lediteur",
+  "nombre_chapitres": 0,
+  "structure": [],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/victor-hugo/note-de-lediteur/00002.jpg",
+    "images/victor-hugo/note-de-lediteur/00003.jpg",
+    "images/victor-hugo/note-de-lediteur/00004.jpg",
+    "images/victor-hugo/note-de-lediteur/00005.jpg",
+    "images/victor-hugo/note-de-lediteur/00006.jpg"
+  ]
+}

@@ -1,0 +1,327 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "NOTE DE L’ÉDITEUR"
+slug_oeuvre: "note-de-lediteur"
+type: "oeuvre-complete"
+---
+
+# NOTE DE L'ÉDITEUR
+Dans une lettre datée du 9 décembre 1859, Victor Hugo écrivait :
+
+« L'ensemble de mon oeuvre fera un jour un tout indivisible. ... Un livre multiple résumant un siècle, voilà ce que je laisserai derrière moi. »
+
+Cette présente édition numérique originale répond à ce voeu !
+
+En effet, pour la première fois dans l'histoire du livre, l'oeuvre monumentale de Victor Hugo est regroupée en un seul volume : ses romans, ses poésies, son théâtre, ses essais, ses discours, sa correspondance, ses voyages, ses dessins... Une édition assortie de plus de 300 illustrations, de présentations, de témoignages et de commentaires parfois inédits.
+
+Cependant, si malgré le soin que nous avons apporté à cette édition, vous notiez quelques erreurs, nous vous serions reconnaissants de nous les signaler en écrivant à notre Service Qualité :
+
+Pour toutes vos autres demandes ou suggestions, veuillez écrire à :
+
+Nos publications sont régulièrement enrichies et mises à jour. Si vous souhaitez en être informé et bénéficier d'une version toujours actualisée de cette édition, nous vous invitons à vous inscrire sur le site :
+
+Nous remercions aussi tous nos lecteurs qui manifestent leur enthousiasme en l'exprimant à travers leurs commentaires.
+
+Nous vous souhaitons une bonne lecture !
+
+illustration: separateur
+
+illustration: romans0025
+
+NOTE DE L'ÉDITEUR
+
+ROMANS
+
+HAN D'ISLANDE
+
+BUG-JARGAL
+
+LE DERNIER JOUR D'UN CONDAMNÉ
+
+NOTRE DAME DE PARIS
+
+CLAUDE GUEUX
+
+LES MISÉRABLES -- tome 1 -- Fantine
+
+LES MISÉRABLES -- tome 2 -- Cosette
+
+LES MISÉRABLES -- tome 3 -- Marius
+
+LES MISÉRABLES -- tome 4 -- L'Idylle rue Plumet
+
+LES MISÉRABLES -- tome 5 -- Jean Valjean
+
+LES TRAVAILLEURS DE LA MER
+
+L'HOMME QUI RIT
+
+QUATRE-VINGT-TREIZE
+
+POÉSIES
+
+LES PREMIÈRES PUBLICATIONS:
+
+BONHEUR QUE PROCURE L'ÉTUDE
+
+LA CANADIENNE
+
+LE TÉLÉGRAPHE
+
+L'ENRÔLEUR POLITIQUE
+
+L'AVARICE ET L'ENVIE
+
+ÉPÎTRE À BRUTUS
+
+ACHÉMÉNIDE
+
+L'ANTRE DES CYCLOPES
+
+CÉSAR PASSE LE RUBICON
+
+IMITATION D'OWEN
+
+À LYDIE
+
+CE QUE J'AIME
+
+LE VIEILLARD DU GALÈSE
+
+DISCOURS SUR LES AVANTAGES DE L'ENSEIGNEMENT MUTUEL
+
+LE 4 NOVEMBRE 1820 -- SAINT-CHARLES
+
+POÉSIES DIVERSES:
+
+RAYMOND D'ASCOLI
+
+IDYLLE
+
+LES DERNIERS BARDES
+
+ illustration: poesie0003
+
+A MADAME LA GÉNÉRALE LUCOTTE
+
+ODES ET BALLADES
+
+LES ORIENTALES
+
+LES FEUILLES D'AUTOMNE
+
+LES CHANTS DU CRÉPUSCULE
+
+LES VOIX INTÉRIEURES
+
+LE RETOUR DE L'EMPEREUR
+
+LES RAYONS ET LES OMBRES
+
+LES CHÂTIMENTS
+
+LES CONTEMPLATIONS
+
+LA LÉGENDE DES SIÈCLES
+
+LES CHANSONS DES RUES ET DES BOIS
+
+LA VOIX DE GUERNESEY
+
+L'ANNÉE TERRIBLE
+
+L'ART D'ÊTRE GRAND-PÈRE
+
+LES ENFANTS LE LIVRE DES MÈRES
+
+LE PAPE
+
+LA PITIÉ SUPRÊME
+
+L'ÂNE
+
+RELIGIONS ET RELIGION
+
+LES QUATRE VENTS DE L'ESPRIT
+
+DIEU
+
+TOUTE LA LYRE
+
+LES ANNÉES FUNESTES
+
+DERNIÈRE GERBE
+
+THÉÂTRE
+
+INEZ DE CASTRO
+
+CROMWELL
+
+AMY ROBSART
+
+MARION DELORME
+
+HERNANI
+
+LE ROI S'AMUSE
+
+LUCRÈCE BORGIA
+
+MARIE TUDOR
+
+LA ESMERALDA
+
+ANGELO TYRAN DE PADOUE
+
+RUY BLAS
+
+LES JUMEAUX
+
+LES BURGRAVES
+
+MILLE FRANCS DE RÉCOMPENSE
+
+LES DEUX TROUVAILLES DE GALLUS
+
+TORQUEMADA
+
+THÉÂTRE EN LIBERTÉ:
+
+- LA FORÊT MOUILLÉE
+- LA GRAND'MÈRE
+- MANGERONT-ILS ?
+- L'ÉPÉE
+- PROLOGUE
+- LES GUEUX
+- SUR LA LISIÈRE D'UN BOIS
+- ÊTRE AIMÉ
+
+PHILOSOPHIE
+
+LITTÉRATURE ET PHILOSOPHIE MÊLÉES
+
+WILLIAM SHAKESPEARE
+
+PRÉFACE DE LA NOUVELLE TRADUCTION DE SHAKESPEARE
+
+POST-SCRIPTUM DE MA VIE
+
+FRAGMENTS PHILOSOPHIQUES des années 1860-1865
+
+POLITIQUE
+
+PARIS
+
+MES FILS
+
+ACTES ET PAROLES I Avant l'exil 1841-1852
+
+ACTES ET PAROLES II Pendant l'exil 1852-1870
+
+ACTES ET PAROLES III Depuis l'exil 1870-1876
+
+ACTES ET PAROLES IV Depuis l'exil 1876-1885
+
+HISTOIRE
+
+FUNÉRAILLES DE L'EMPEREUR
+
+NAPOLÉON LE PETIT
+
+LA SERVILITÉ DE LA MAGISTRATURE IMPÉRIALE
+
+HISTOIRE D'UN CRIME
+
+CAHIER COMPLÉMENTAIRE À HISTOIRE D'UN CRIME
+
+CHOSES VUES
+
+DISCOURS
+
+DISCOURS D'OUVERTURE DU CONGRÈS LITTÉRAIRE INTERNATIONAL
+
+DISCOURS A L'ASSEMBLÉE NATIONALE
+
+- Présentation
+- Mandats politiques de Victor Hugo
+- L'abolition de la peine de mort
+- La liberté de la presse
+- La liberté du théâtre
+- La misère
+- La liberté de l'enseignement
+- La loi sur la déportation
+- Le suffrage universel
+- La liberté de la presse
+
+CORRESPONDANCE
+
+LETTRES A LA FIANCÉE
+
+CORRESPONDANCE 1814 -- 1848
+
+CORRESPONDANCE 1849 -- 1868
+
+VOYAGES
+
+FRAGMENTS D'UN VOYAGE AUX ALPES
+
+BRETAGNE ET NORMANDIE 1
+
+BRETAGNE ET NORMANDIE 2
+
+BELGIQUE
+
+LE RHIN 1 Lettres à un ami
+
+LE RHIN 2 Lettres à un ami
+
+LE RHIN 3 Lettres à un ami
+
+L'ARCHIPEL DE LA MANCHE
+
+LES DESSINS
+
+DESSINS
+
+TESTAMENT LITTÉRAIRE
+
+BIOGRAPHIES
+
+BIOGRAPHIE DÉTAILLÉE
+
+BIOGRAPHIE PANORAMIQUE
+
+!
+
+# ROMANS
+!
+
+Liste des romans
+
+HAN D'ISLANDE
+
+BUG-JARGAL
+
+LE DERNIER JOUR D'UN CONDAMNÉ
+
+NOTRE DAME DE PARIS
+
+CLAUDE GUEUX
+
+LES MISÉRABLES -- tome 1 -- Fantine
+
+LES MISÉRABLES -- tome 2 -- Cosette
+
+LES MISÉRABLES -- tome 3 -- Marius
+
+LES MISÉRABLES -- tome 4 -- L'Idylle rue Plumet
+
+LES MISÉRABLES -- tome 5 -- Jean Valjean
+
+LES TRAVAILLEURS DE LA MER
+
+L'HOMME QUI RIT
+
+QUATRE-VINGT-TREIZE

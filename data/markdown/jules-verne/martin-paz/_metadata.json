@@ -1,0 +1,121 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MARTIN PAZ",
+  "slug": "martin-paz",
+  "nombre_chapitres": 10,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 676,
+      "spine_end_exclusive": 677,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_297.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 677,
+      "spine_end_exclusive": 678,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_298.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 678,
+      "spine_end_exclusive": 679,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_299.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 679,
+      "spine_end_exclusive": 680,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_300.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 680,
+      "spine_end_exclusive": 681,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_301.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 681,
+      "spine_end_exclusive": 682,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_302.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 682,
+      "spine_end_exclusive": 683,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 683,
+      "spine_end_exclusive": 684,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 684,
+      "spine_end_exclusive": 685,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_303.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 685,
+      "spine_end_exclusive": 686,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_304.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

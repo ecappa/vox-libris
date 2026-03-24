@@ -1,0 +1,33 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 19"
+slug_section: "chapitre-19"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 19 -- À l'hôpital !
+À l'hôpital, hospice des douleurs,
+Où la mort est sans goût, et sans frayeurs
+Puisque le mal, pas à pas la procure,
+Plus d'un poète, à la pâle figure,
+S'est éteint, et n'a connu que les pleurs !
+Gilbert ! Moreau ! morts, victimes d'erreurs
+Dont le génie a seul la meurtrissure
+À l'hôpital !!
+Mais à ce prix, pour toutes ces horreurs,
+Cieux, qui savez mesurer les malheurs
+Et le génie à votre créature !
+Oh ! Donnez-m'en et gloire et flétrissure ;
+Je trouverais, poète, bien des fleurs
+À l'hôpital.

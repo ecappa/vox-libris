@@ -1,0 +1,2668 @@
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+
+]{.calibre20}
+
+## [[Première partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942364 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_40 .calibre21}
+
+### []{#_Toc343185433 .pcalibre2 .pcalibre1}[]{#_Toc343182972 .pcalibre2 .pcalibre1}[]{#_Toc343180511 .pcalibre2 .pcalibre1}[]{#_Toc343178050 .pcalibre2 .pcalibre1}[]{#_Toc343175589 .pcalibre2 .pcalibre1}[]{#_Toc343173128 .pcalibre2 .pcalibre1}[]{#_Toc343170667 .pcalibre2 .pcalibre1}[]{#_Toc343168206 .pcalibre2 .pcalibre1}[]{#_Toc343165745 .pcalibre2 .pcalibre1}[]{#_Toc343163284 .pcalibre2 .pcalibre1}[]{#_Toc343160823 .pcalibre2 .pcalibre1}[]{#_Toc343158362 .pcalibre2 .pcalibre1}[]{#_Toc343149092 .pcalibre2 .pcalibre1}[]{#_Toc343146631 .pcalibre2 .pcalibre1}[]{#_Toc343144168 .pcalibre2 .pcalibre1}[]{#_Toc343141707 .pcalibre2 .pcalibre1}[]{#_Toc343139246 .pcalibre2 .pcalibre1}[]{#_Toc343136784 .pcalibre2 .pcalibre1}[]{#_Toc343134323 .pcalibre2 .pcalibre1}[]{#_Toc343131862 .pcalibre2 .pcalibre1}[]{#_Toc343129400 .pcalibre2 .pcalibre1}[]{#_Toc343126939 .pcalibre2 .pcalibre1}[]{#_Toc343124475 .pcalibre2 .pcalibre1}[]{#_Toc343122014 .pcalibre2 .pcalibre1}[]{#_Toc343119553 .pcalibre2 .pcalibre1}[]{#_Toc343117099 .pcalibre2 .pcalibre1}[]{#_Toc343114636 .pcalibre2 .pcalibre1}[]{#_Toc343112175 .pcalibre2 .pcalibre1}[]{#_Toc343109714 .pcalibre2 .pcalibre1}[]{#_Toc343105970 .pcalibre2 .pcalibre1}[]{#_Toc343103508 .pcalibre2 .pcalibre1}[]{#_Toc343101045 .pcalibre2 .pcalibre1}[]{#_Toc343098620 .pcalibre2 .pcalibre1}[]{#_Toc343096151 .pcalibre2 .pcalibre1}[]{#_Toc343093689 .pcalibre2 .pcalibre1}[]{#_Toc343091211 .pcalibre2 .pcalibre1}[]{#_Toc343088748 .pcalibre2 .pcalibre1}[]{#_Toc343086286 .pcalibre2 .pcalibre1}[]{#_Toc343083823 .pcalibre2 .pcalibre1}[]{#_Toc343081361 .pcalibre2 .pcalibre1}[]{#_Toc343078900 .pcalibre2 .pcalibre1}[]{#_Toc343076437 .pcalibre2 .pcalibre1}[]{#_Toc343073974 .pcalibre2 .pcalibre1}[]{#_Toc343071508 .pcalibre2 .pcalibre1}[]{#_Toc343043548 .pcalibre2 .pcalibre1}[]{#_Toc343038668 .pcalibre2 .pcalibre1}[]{#_Toc343036303 .pcalibre2 .pcalibre1}[]{#_Toc343033938 .pcalibre2 .pcalibre1}[]{#_Toc343031573 .pcalibre2 .pcalibre1}[]{#_Toc343028017 .pcalibre2 .pcalibre1}[]{#_Toc343025652 .pcalibre2 .pcalibre1}[]{#_Toc343023287 .pcalibre2 .pcalibre1}[]{#_Toc343020921 .pcalibre2 .pcalibre1}[]{#_Toc343018555 .pcalibre2 .pcalibre1}[]{#_Toc343016190 .pcalibre2 .pcalibre1}[]{#_Toc343013825 .pcalibre2 .pcalibre1}[]{#_Toc343011458 .pcalibre2 .pcalibre1}[]{#_Toc343009093 .pcalibre2 .pcalibre1}[]{#_Toc343006728 .pcalibre2 .pcalibre1}[]{#_Toc343004363 .pcalibre2 .pcalibre1}[]{#_Toc343001998 .pcalibre2 .pcalibre1}[]{#_Toc342999633 .pcalibre2 .pcalibre1}[]{#_Toc342997268 .pcalibre2 .pcalibre1}[]{#_Toc342994903 .pcalibre2 .pcalibre1}[]{#_Toc342992538 .pcalibre2 .pcalibre1}[]{#_Toc342990173 .pcalibre2 .pcalibre1}[]{#_Toc342987808 .pcalibre2 .pcalibre1}[]{#_Toc342985441 .pcalibre2 .pcalibre1}[]{#_Toc342983076 .pcalibre2 .pcalibre1}[]{#_Toc342980711 .pcalibre2 .pcalibre1}[]{#_Toc342978346 .pcalibre2 .pcalibre1}[[Chapitre 1 -- Le Quatuor Concertant]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942365 .pcalibre2 .pcalibre1} {#chapitre-1-le-quatuor-concertant .calibre171 .sigil_not_in_toc}
+
+Lorsqu\'un voyage commence mal, il est rare qu\'il finisse bien.
+
+Tout au moins, est-ce une opinion qu\'auraient le droit de soutenir quatre instrumentistes, dont les instruments gisent sur le sol. En effet, le coach, dans lequel ils avaient dû prendre place à la dernière station du rail-road, vient de verser brusquement contre le talus de la route.
+
+« Personne de blessé ? demande le premier, qui s\'est lestement redressé sur ses jambes.
+
+--- J\'en suis quitte pour une égratignure ! répond le second, en essuyant sa joue zébrée par un éclat de verre.
+
+--- Moi pour une écorchure ! » réplique le troisième, dont le mollet perd quelques gouttes de sang. Tout cela peu grave, en somme. « Et mon violoncelle ? s\'écrie le quatrième. Pourvu qu\'il ne soit rien arrivé à mon violoncelle ! »
+
+Par bonheur, les étuis sont intacts. Ni le violoncelle, ni les deux violons, ni l\'alto, n\'ont souffert du choc, et c\'est à peine s\'il sera nécessaire de les remettre au diapason. Des instruments de bonne marque, n\'est-il pas vrai ? « Maudit chemin de fer qui nous a laissés en détresse à moitié route ! Reprend l\'un.
+
+--- Maudite voiture qui nous a chavirés en pleine campagne déserte ! Riposte l\'autre.
+
+--- Juste au moment où la nuit commence à se faire ! ajoute le troisième.
+
+--- Heureusement, notre concert n\'est annoncé que pour après-demain ! » observe le quatrième.
+
+Puis, diverses réparties cocasses de s\'échanger entre ces artistes, qui ont pris gaiement leur mésaventure. Et l\'un d\'eux, suivant une habitude invétérée, empruntant ses calembredaines aux locutions de la musique, de dire :
+
+« En attendant, voilà notre coach mi sur le do !
+
+--- Pinchinat ! Crie l\'un de ses compagnons.
+
+--- Et mon opinion, continue Pinchinat, c\'est qu\'il y a un peu trop d\'accidents à la clef !
+
+--- Te tairas-tu ?
+
+--- Et que nous ferons bien de transposer nos morceaux dans un autre coach ! » ose ajouter Pinchinat. Oui ! Un peu trop d\'accidents, en effet, ainsi que le lecteur ne va pas tarder à l\'apprendre.
+
+Tous ces propos ont été tenus en français. Mais ils auraient pu l\'être en anglais, car ce quatuor parle la langue de Walter Scott et de Cooper comme sa propre langue, grâce à de nombreuses pérégrinations au milieu des pays d\'origine anglo-saxonne. Aussi est-ce en cette langue qu\'ils viennent interpeller le conducteur du coach.
+
+Le brave homme a le plus souffert, ayant été précipité de son siège à l\'instant où s\'est brisé l\'essieu de l\'avant-train.
+
+Toutefois, cela se réduit à diverses contusions moins graves que douloureuses. Il ne peut marcher cependant par suite d\'une foulure.
+
+De là, nécessité de lui trouver quelque mode de transport jusqu\'au prochain village.
+
+C\'est miracle, en vérité, que l\'accident n\'ait provoqué mort d\'homme. La route sinue à travers une contrée montagneuse, rasant des précipices profonds, bordée en maints endroits de torrents tumultueux, coupée de gués malaisément praticables Si l\'avant-train se fût rompu quelques pas en aval, nul doute que le véhicule eût roulé sur les roches de ces abîmes, et peut-être personne n\'aurait-il survécu à la catastrophe.
+
+Quoi qu\'il en soit, le coach est hors d\'usage. Un des deux chevaux, dont la tête a heurté une pierre aiguë, râle sur le sol.
+
+L\'autre est assez grièvement blessé à la hanche. Donc, plus de voiture et plus d\'attelage.
+
+En somme, la mauvaise chance ne les aura guère épargnés, ces quatre artistes, sur les territoires de la Basse-Californie. Deux accidents en vingt-quatre heures\... Et, à moins qu\'on ne soit philosophe\...
+
+À cette époque, San-Francisco, la capitale de l\'État, est en communication directe par voie ferrée avec San-Diégo, située presque à la frontière de la vieille province californienne. C\'est vers cette importante ville, où ils doivent donner le surlendemain un concert très annoncé et très attendu, que se dirigeaient les quatre voyageurs. Parti la veille de San-Francisco, le train n\'était guère qu\'à une cinquantaine de milles de San-Diégo, lorsqu\'un premier contretemps s\'est produit. Oui, contretemps ! Comme le dit le plus jovial de la troupe, et l\'on voudra bien tolérer cette expression de la part d\'un ancien lauréat de solfège.
+
+Et s\'il y a eu une halte forcée à la station de Paschal, c\'est que la voie avait été emportée par une crue soudaine sur une longueur de trois à quatre milles. Impossible d\'aller reprendre le rail-road à deux milles au-delà, le transbordement n\'ayant pas encore été organisé, car l\'accident ne datait que de quelques heures.
+
+Il a fallu choisir : ou attendre que la voie fût redevenue praticable, ou prendre, à la prochaine bourgade, une voiture quelconque pour San-Diégo. C\'est à cette dernière solution que s\'est arrêté le quatuor. Dans un village voisin, on a découvert une sorte de vieux landau sonnant la ferraille, mangé des mites, pas du tout confortable. On a fait prix avec le louager, on a amorcé le conducteur par la promesse d\'un bon pourboire, on est parti avec les instruments sans les bagages. Il était environ deux heures de l\'après-midi, et, jusqu\'à sept heures du soir, le voyage s\'est accompli sans trop de difficultés ni trop de fatigues. Mais voici qu\'un deuxième contretemps vient de se produire : versement du coach, et si malencontreux qu\'il est impossible de se servir dudit coach pour continuer la route.
+
+Et le quatuor se trouve à une bonne vingtaine de milles de San-Diégo ! Aussi, pourquoi quatre musiciens, Français de nationalité, et, qui plus est, Parisiens de naissance, se sont-ils aventurés à travers ces régions invraisemblables de la Basse-Californie ?
+
+Pourquoi ? Nous allons le dire sommairement, et peindre de quelques traits les quatre virtuoses que le hasard, ce fantaisiste distributeur de rôles, allait introduire parmi les personnages de cette extraordinaire histoire. Dans le cours de cette année-là, -- nous ne saurions la préciser à trente ans près, -- les États-Unis d\'Amérique ont doublé le nombre des étoiles du pavillon fédératif. Ils sont dans l\'entier épanouissement de leur puissance industrielle et commerciale, après s\'être annexé le Dominion of Canada jusqu\'aux dernières limites de la mer polaire, les provinces mexicaines, guatémaliennes, hondurassiennes, nicaraguiennes et costariciennes jusqu\'au canal de Panama. En même temps, le sentiment de l\'art s\'est développé chez ces Yankees envahisseurs, et si leurs productions se limitent à un chiffre restreint dans le domaine du beau, si leur génie national se montre encore un peu rebelle en matière de peinture, de sculpture et de musique, du moins le goût des belles oeuvres s\'est-il universellement répandu chez eux. À force d\'acheter au poids de l\'or les tableaux des maîtres anciens et modernes pour composer des galeries privées ou publiques, à force d\'engager à des prix formidables les artistes lyriques ou dramatiques de renom, les instrumentistes du plus haut talent, ils se sont infusé le sens des belles et nobles choses qui leur avait manqué si longtemps. En ce qui concerne la musique, c\'est à l\'audition des Meyerbeer, des Halévy, des Gounod, des Berlioz, des Wagner, des Verdi, des Massé, des Saint-Saëns, des Reyer, des Massenet, des Delibes, les célèbres compositeurs de la seconde moitié du XIXe siècle, que se sont d\'abord passionnés les dilettanti du nouveau continent.
+
+Puis, peu à peu, ils sont venus à la compréhension de l\'oeuvre plus pénétrante des Mozart, des Haydn, des Beethoven, remontant vers les sources de cet art sublime, qui s\'épanchait à pleins bords au cours de XVIIIe siècle. Après les opéras, les drames lyriques, après les drames lyriques, les symphonies, les sonates, les suites d\'orchestre. Et, précisément, à l\'heure où nous parlons, la sonate fait fureur chez les divers états de l\'Union.
+
+On la paierait volontiers à tant la note, vingt dollars la blanche, dix dollars la noire, cinq dollars la croche.
+
+C\'est alors que, connaissant cet extrême engouement, quatre instrumentistes de grande valeur eurent l\'idée d\'aller demander le succès et la fortune aux États-Unis d\'Amérique. Quatre bons camarades, anciens élèves du Conservatoire, très connus à Paris, très appréciés aux auditions de ce qu\'on appelle « la musique de chambre », jusqu\'alors peu répandue dans le Nord-Amérique. Avec quelle rare perfection, quel merveilleux ensemble, quel sentiment profond, ils interprétaient les oeuvres de Mozart, de Beethoven, de Mendelsohn, d\'Haydn, de Chopin, écrites pour quatre instruments à cordes, un premier et un second violon, un alto, un violoncelle !
+
+Rien de bruyant, n\'est-il pas vrai, rien qui dénotât le métier, mais quelle exécution irréprochable, quelle incomparable virtuosité ! Le succès de ce quatuor est d\'autant plus explicable qu\'à cette époque on commençait à se fatiguer des formidables orchestres harmoniques et symphoniques. Que la musique ne soit qu\'un ébranlement artistement combiné des ondes sonores, soit.
+
+Encore ne faut-il pas déchaîner ces ondes en tempêtes assourdissantes. Bref, nos quatre instrumentistes résolurent d\'initier les Américains aux douces et ineffables jouissances de la musique de chambre. Ils partirent de conserve pour le nouveau monde, et, pendant ces deux dernières années, les dilettanti yankees ne leur ménagèrent ni les hurrahs ni les dollars. Leurs matinées ou soirées musicales furent extrêmement suivies. Le Quatuor Concertant -- ainsi les désignait-on, -- pouvait à peine suffire aux invitations des riches particuliers. Sans lui, pas de fête, pas de réunion, pas de raout, pas de five o\'clock, pas de garden-partys même qui eussent mérité d\'être signalés à l\'attention publique. À cet engouement, ledit quatuor avait empoché de fortes sommes, lesquelles, si elles se fussent accumulées dans les coffres de la Banque de New-York, auraient constitué déjà un joli capital. Mais pourquoi ne point l\'avouer ? Ils dépensent largement, nos Parisiens américanisés ! Ils ne songent guère à thésauriser, ces princes de l\'archet, ces rois des quatre cordes ! Ils ont pris goût à cette existence d\'aventures, assurés de rencontrer partout et toujours bon accueil et bon profit, courant de New-York à San-Francisco, de Québec à la Nouvelle-Orléans, de la Nouvelle-Écosse au Texas, enfin quelque peu bohèmes, -- de cette Bohême de la jeunesse, qui est bien la plus ancienne, la plus charmante, la plus enviable, la plus aimée province de notre vieille France !
+
+Nous nous trompons fort, ou le moment est venu de les présenter individuellement et nommément à ceux de nos lecteurs qui n\'ont jamais eu et n\'auront même jamais le plaisir de les entendre.
+
+Yvernès, -- premier violon, -- trente-deux ans, taille au-dessus de la moyenne, ayant eu l\'esprit de rester maigre, cheveux blonds aux pointes bouclées, figure glabre, grands yeux noirs, mains longues, faites pour se développer démesurément sur la touche de son Guarnérius, attitude élégante, aimant à se draper dans un manteau de couleur sombre, se coiffant volontiers du chapeau de soie à haute forme, un peu poseur peut-être, et, à coup sûr, le plus insoucieux de la bande, le moins préoccupé des questions d\'intérêt, prodigieusement artiste, enthousiaste admirateur des belles choses, un virtuose de grand talent et de grand avenir. Frascolin, -- deuxième violon, -- trente ans, petit avec une tendance à l\'obésité, ce dont il enrage, brun de cheveux, brun de barbe, tête forte, yeux noirs, nez long aux ailes mobiles et marqué de rouge à l\'endroit où portent les pinces de son lorgnon de myope à monture d\'or dont il ne saurait se passer, bon garçon, obligeant, serviable, acceptant les corvées pour en décharger ses compagnons, tenant la comptabilité du quatuor, prêchant l\'économie et n\'étant jamais écouté, pas du tout envieux des succès de son camarade Yvernès, n\'ayant point l\'ambition de s\'élever jusqu\'au pupitre du violon solo, excellent musicien d\'ailleurs, -- et alors revêtu d\'un ample cache-poussière par-dessus son costume de voyage.
+
+Pinchinat, -- alto, que l\'on traite généralement de « Son Altesse », vingt-sept ans, le plus jeune de la troupe, le plus folâtre aussi, un de ces types incorrigibles qui restent gamins leur vie entière, tête fine, yeux spirituels toujours en éveil, chevelure tirant sur le roux, moustaches en pointe, langue claquant entre ses dents blanches et acérées, indécrottable amateur de calembredaines et calembours, prêt à l\'attaque comme à la riposte, la cervelle en perpétuel emballement, ce qu\'il attribue à la lecture des diverses clés d\'ut qu\'exige son instrument, -- « un vrai trousseau de ménagère », disait-il, -- d\'une bonne humeur inaltérable, se plaisant aux farces sans s\'arrêter aux désagréments qu\'elles pouvaient attirer sur ses camarades, et, pour cela, maintes fois réprimandé, morigéné, « attrapé » par le chef du Quatuor Concertant. Car il y a un chef, le violoncelliste Sébastien Zorn, chef par son talent, chef aussi par son âge, -- cinquante-cinq ans, petit, boulot, resté blond, les cheveux abondants et ramenés en accroche-coeurs sur les tempes, la moustache hérissée se perdant dans le fouillis des favoris qui finissent en pointes, le teint de brique cuite, les yeux luisant à travers les lentilles de ses lunettes qu\'il double d\'un lorgnon lorsqu\'il déchiffre, les mains potelées, la droite, accoutumée aux mouvements ondulatoires de l\'archet, ornée de grosses bagues à l\'annulaire et au petit doigt.
+
+Nous pensons que ce léger crayon suffit à peindre l\'homme et l\'artiste. Mais ce n\'est pas impunément que, pendant une quarantaine d\'années, on a tenu une boîte sonore entre ses genoux.
+
+On s\'en ressent toute sa vie, et le caractère en est influencé. La plupart des violoncellistes sont loquaces et rageurs, ayant le verbe haut, la parole débordante, non sans esprit d\'ailleurs.
+
+Et tel est bien Sébastien Zorn, auquel Yvernès, Frascolin, Pinchinat ont très volontiers abandonné la direction de leurs tournées musicales. Ils le laissent dire et faire, car il s\'y entend.
+
+Habitués à ses façons impérieuses, ils en rient lorsqu\'elles « dépassent la mesure », -- ce qui est regrettable chez un exécutant, ainsi que le faisait observer cet irrespectueux Pinchinat. La composition des programmes, la direction des itinéraires, la correspondance avec les imprésarios, c\'est à lui que sont dévolues ces occupations multiples qui permettent à son tempérament agressif de se manifester en mille circonstances. Où il n\'intervenait pas, c\'était dans la question des recettes, dans le maniement de la caisse sociale, confiée aux soins du deuxième violon et premier comptable, le minutieux et méticuleux Frascolin.
+
+Le quatuor est maintenant présenté, comme il l\'eût été sur le devant d\'une estrade. On connaît les types, sinon très originaux, du moins très distincts qui le composent. Que le lecteur permette aux incidents de cette singulière histoire de se dérouler : il verra quelle figure sont appelés à y faire ces quatre Parisiens, lesquels, après avoir recueilli tant de bravos à travers les états de la Confédération américaine, allaient être transportés\... Mais n\'anticipons pas, « ne pressons pas le mouvement ! » s\'écrierait Son Altesse, et ayons patience.
+
+Les quatre Parisiens se trouvent donc, vers huit heures du soir, sur une route déserte de la Basse-Californie, près des débris de leur « voiture versée » -- musique de Boieldieu, a dit Pinchinat. Si Frascolin, Yvernès et lui ont pris philosophiquement leur parti de l\'aventure, si elle leur a même inspiré quelques plaisanteries de métier, on admettra que ce soit pour le chef du quatuor l\'occasion de se livrer à un accès de colère. Que voulez-vous ? Le violoncelliste a le foie chaud, et, comme on dît, du sang sous les ongles. Aussi Yvernès prétend-il qu\'il descend de la lignée des Ajax et des Achille, ces deux illustres rageurs de l\'antiquité.
+
+Pour ne point l\'oublier, mentionnons que si Sébastien Zorn est bilieux, Yvernès flegmatique, Frascolin paisible, Pinchinat d\'une surabondante jovialité, -- tous, excellents camarades, éprouvent les uns pour les autres une amitié de frères.
+
+Ils se sentent réunis par un lien que nulle discussion d\'intérêt ou d\'amour-propre n\'aurait pu rompre, par une communauté de goûts puisés à la même source.
+
+Leurs coeurs, comme ces instruments de bonne fabrication, tiennent toujours l\'accord.
+
+Tandis que Sébastien Zorn peste, en palpant l\'étui de son violoncelle pour s\'assurer qu\'il est sain et sauf, Frascolin s\'approche du conducteur :
+
+« Eh bien, mon ami, lui demande-t-il, qu\'allons-nous faire, s\'il vous plaît ?
+
+--- Ce que l\'on fait, répond l\'homme, quand on n\'a plus ni chevaux ni voiture\... Attendre\...
+
+--- Attendre qu\'il en vienne ! s\'écrie Pinchinat. Et s\'il n\'en doit pas venir\...
+
+--- On en cherche, observe Frascolin, que son esprit pratique n\'abandonne jamais.
+
+--- Où ? Rugit Sébastien Zorn, qui se démenait fiévreusement sur la route. -- Où il y en a ! Réplique le conducteur.
+
+--- Hé ! dites donc, l\'homme au coach, reprend le violoncelliste d\'une voix qui monte peu à peu vers les hauts registres, est-ce que c\'est répondre, cela ! Comment\... Voilà un maladroit qui nous verse, brise sa voiture, estropie son attelage, et il se contente de dire : « Tirez-vous delà comme vous pourrez ! »
+
+Entraîné par sa loquacité naturelle, Sébastien Zorn commence à se répandre en une interminable série d\'objurgations à tout le moins inutiles, lorsque Frascolin l\'interrompt par ces mots :
+
+« Laisse-moi faire, mon vieux Zorn. » Puis, s\'adressant de nouveau au conducteur : « Où sommes-nous, mon ami ?
+
+--- À cinq milles de Freschal.
+
+--- Une station de railway ?
+
+--- Non\... Un village près de la côte.
+
+--- Et y trouverons-nous une voiture ?
+
+--- Une voiture\... Point\... Peut-être une charrette\...
+
+--- Une charrette à boeufs, comme au temps des rois mérovingiens ! s\'écrie Pinchinat.
+
+--- Qu\'importe ! dit Frascolin.
+
+--- Eh ! Reprend Sébastien Zorn, demande-lui plutôt s\'il existe une auberge dans ce trou de Freschal\... J\'en ai assez de courir la nuit\...
+
+--- Mon ami, interroge Frascolin, y a-t-il une auberge quelconque à Freschal ?
+
+--- Oui\... L\'auberge où nous devions relayer.
+
+--- Et pour rencontrer ce village, il n\'y a qu\'à suivre la grande route ? -- Tout droit.
+
+--- Partons ! Clame le violoncelliste.
+
+--- Mais, ce brave homme, il serait cruel de l\'abandonner là\... En détresse, fait observer Pinchinat. Voyons, mon ami, ne pourriez-vous pas\... En vous aidant\...
+
+--- Impossible ! répond le conducteur. D\'ailleurs, je préfère rester ici\... Avec mon coach\... Quand le jour sera revenu, je verrai à me sortir de là\...
+
+--- Une fois à Freschal, reprend Frascolin, nous pourrions vous envoyer du secours\...
+
+--- Oui\... L\'aubergiste me connaît bien, et il ne me laissera pas dans l\'embarras\...
+
+--- Partons-nous ? s\'écrie le violoncelliste, qui vient de redresser l\'étui de son instrument.
+
+--- À l\'instant, réplique Pinchinat. Auparavant, un coup de main pour déposer notre conducteur le long du talus\... »
+
+En effet, il convient de le tirer hors de la route, et, comme il ne peut se servir de ses jambes fort endommagées, Pinchinat et Frascolin le soulèvent, le transportent, l\'adossent contre les racines d\'un gros arbre dont les basses branches forment en retombant un berceau de verdure.
+
+« Partons-nous ? Hurle Sébastien Zorn une troisième fois, après avoir assujetti l\'étui sur son dos, au moyen d\'une double courroie disposée ad hoc.
+
+--- Voilà qui est fait, » dit Frascolin. Puis, s\'adressant à l\'homme : « Ainsi, c\'est bien entendu\... L\'aubergiste de Freschal vous enverra du secours\... Jusque là, vous n\'avez besoin de rien, n\'est-ce pas, mon ami ?
+
+--- Si\... répond le conducteur, d\'un bon coup de gin, s\'il en reste dans vos gourdes. » La gourde de Pinchinat est encore pleine, et Son Altesse en fait volontiers le sacrifice. « Avec cela, mon bonhomme, dit-il, vous n\'aurez pas froid cette nuit\... À l\'intérieur ! » Une dernière objurgation du violoncelliste décide ses compagnons à se mettre en route. Il est heureux que leurs bagages soient dans le fourgon du train, au lieu d\'avoir été chargés sur le coach. S\'ils arrivent à San-Diégo avec quelque retard, du moins nos musiciens n\'auront pas la peine de les transporter jusqu\'au village de Freschal. C\'est assez des boîtes à violon, et, surtout, c\'est trop de l\'étui à violoncelle. Il est vrai, un instrumentiste, digne de ce nom, ne se sépare jamais de son instrument, -- pas plus qu\'un soldat de ses armes ou un limaçon de sa coquille.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- Puissance d\'une sonate cacophonique]{lang="X-NONE"}]{#_Toc342942366 .pcalibre2 .pcalibre1} {#chapitre-2-puissance-dune-sonate-cacophonique .calibre171 .sigil_not_in_toc}
+
+D\'aller la nuit, à pied, sur une route que l\'on ne connaît pas, au sein d\'une contrée presque déserte, où les malfaiteurs sont généralement moins rares que les voyageurs, cela ne laisse pas d\'être quelque peu inquiétant. Telle est la situation faite au quatuor. Les Français sont braves, c\'est entendu, et ceux-ci le sont autant que possible. Mais, entre la bravoure et la témérité, il existe une limite que la saine raison ne doit pas franchir.
+
+Après tout, si le rail-road n\'avait pas rencontré une plaine inondée par les crues, si le coach n\'avait pas versé à cinq milles de Freschal, nos instrumentistes n\'auraient pas été dans l\'obligation de s\'aventurer nuitamment sur ce chemin suspect.
+
+Espérons, d\'ailleurs, qu\'il ne leur arrivera rien de fâcheux.
+
+Il est environ huit heures, lorsque Sébastien Zorn et ses compagnons prennent direction vers le littoral, suivant les indications du conducteur. N\'ayant que des étuis à violon en cuir, légers et peu encombrants, les violonistes auraient eu mauvaise grâce à se plaindre. Aussi ne se plaignent-ils point, ni le sage Frascolin, ni le joyeux Pinchinat, ni l\'idéaliste Yvernès. Mais le violoncelliste avec sa boîte à violoncelle, -- une sorte d\'armoire attachée sur son dos ! On comprend, étant donné son caractère, qu\'il trouve là matière à se mettre en rage. De là, grognements et geignements, qui s\'exhalent sous la forme onomatopéique des ah ! Des oh ! Des ouf !
+
+L\'obscurité est déjà profonde. Des nuages épais chassent à travers l\'espace, se trouant parfois d\'étroites déchirures, parmi lesquelles apparaît une lune narquoise, presque dans son premier quartier. On ne sait trop pourquoi, sinon parce qu\'il est hargneux, irritable, la blonde Phoebé n\'a pas l\'heur de plaire à Sébastien Zorn. Il lui montre le poing, criant :
+
+« Eh bien, que viens-tu faire là avec ton profil bête ! Non ! Je ne sais rien de plus imbécile que cette espèce de tranche de melon pas mûr, qui se promène là-haut !
+
+--- Mieux vaudrait que la lune nous regardât de face, dit Frascolin. -- Et pour quelle raison ? demande Pinchinat.
+
+--- Parce que nous y verrions plus clair.
+
+--- O chaste Diane, déclame Yvernès, ô des nuits paisible courrière, ô pâle satellite de la terre, ô l\'adorée idole de l\'adorable Endymion\...
+
+--- As-tu fini ta ballade ? Crie le violoncelliste. Quand ces premiers violons se mettent à démancher sur la chanterelle\...
+
+--- Allongeons le pas, dit Frascolin, ou nous risquons de coucher à la belle étoile\...
+
+--- S\'il y en avait\... Et de manquer notre concert à San-Diégo ! Observe Pinchinat.
+
+--- Une jolie idée, ma foi ! s\'écrie Sébastien Zorn, en secouant sa boîte qui rend un son plaintif.
+
+--- Mais cette idée, mon vieux camaro, dit Pinchinat, elle vient de toi\...
+
+--- De moi ?
+
+--- Sans doute ! Que ne sommes-nous restés à San-Francisco, où nous avions à charmer toute une collection d\'oreilles californiennes !
+
+--- Encore une fois, demande le violoncelliste, pourquoi sommes-nous partis ?
+
+--- Parce que tu l\'as voulu.
+
+--- Eh bien, il faut avouer que j\'ai eu là une inspiration déplorable, et si\...
+
+--- Ah ! Mes amis ! dit alors Yvernès, en montrant de la main certain point du ciel, où un mince rayon de lune ourle d\'un liseré blanchâtre les bords d\'un nuage.
+
+--- Qu\'y a-t-il, Yvernès ?
+
+--- Voyez si ce nuage ne se dessine pas en forme de dragon, les ailes déployées, une queue de paon tout oeillée des cent yeux d\'Argus ! »
+
+Il est probable que Sébastien Zorn ne possède pas cette puissance de vision centuplée, qui distinguait le gardien de la fille d\'Inachus, car il n\'aperçoit pas une profonde ornière où son pied s\'engage malencontreusement. De là une chute sur le ventre, si bien qu\'avec sa boîte au dos, il ressemble à quelque gros coléoptère rampant à la surface du sol.
+
+Violente rage de l\'instrumentiste, -- et il y a de quoi rager, -- puis objurgations à l\'adresse du premier violon, en admiration devant son monstre aérien. « C\'est la faute d\'Yvernès ! affirme Sébastien Zorn. Si je n\'avais pas voulu regarder son maudit dragon\...
+
+--- Ce n\'est plus un dragon, c\'est maintenant une amphore ! Avec un sens imaginatif médiocrement développé, on peut la voir aux mains d\'Hébé qui verse le nectar\...
+
+--- Prenons garde qu\'il y ait beaucoup d\'eau dans ce nectar, s\'écrie Pinchinat, et que ta charmante déesse de la jeunesse nous arrose à pleines douches ! » Ce serait là une complication, et il est vrai que le temps tourne à la pluie. Donc, la prudence commande de hâter la marche afin de chercher abri à Freschal.
+
+On relève le violoncelliste, tout colère, on le remet sur ses pieds, tout grognon. Le complaisant Frascolin offre de se charger de sa boite. Sébastien Zorn refuse d\'abord d\'y consentir\... Se séparer de son instrument\... Un violoncelle de Gand et Bernardel, autant dire une moitié de lui-même\... Mais il doit se rendre, et cette précieuse moitié passe sur le dos du serviable Frascolin, lequel confie son léger étui au susdit Zorn.
+
+La route est reprise. On va d\'un bon pas pendant deux milles.
+
+Aucun incident à noter. Nuit qui se fait de plus en plus noire avec menaces de pluie. Quelques gouttes tombent, très grosses, preuve qu\'elles proviennent de nuages élevés et orageux. Mais l\'amphore de la jolie Hébé d\'Yvernès ne s\'épanche pas davantage, et nos quatre noctambules ont l\'espoir d\'arriver à Freschal dans un état de siccité parfaite. Restent toujours de minutieuses précautions à prendre afin d\'éviter des chutes sur cette route obscure, profondément ravinée, se brisant parfois à des coudes brusques, bordée de larges anfractuosités, longeant de sombres précipices, ou l\'on entend mugir la trompette des torrents. Avec sa disposition d\'esprit, si Yvernès trouve la situation poétique, Frascolin la trouve inquiétante.
+
+Il y a lieu de craindre également de certaines rencontres fâcheuses qui rendent assez problématique la sécurité des voyageurs sur ces chemins de la Basse-Californie. Le quatuor n\'a pour toute arme que les archets de trois violons et d\'un violoncelle, et cela peut paraître insuffisant en un pays où furent inventés les revolvers Colt, extraordinairement perfectionnés à cette époque. Si Sébastien Zorn et ses camarades eussent été Américains, ils se fussent munis d\'un de ces engins de poche engainé dans un gousset spécial du pantalon. Rien que pour aller en rail-road de San-Francisco à San-Diégo, un véritable Yankee ne se serait pas mis en voyage sans emporter ce viatique à six coups. Mais des Français ne l\'avaient point jugé nécessaire.
+
+Ajoutons même qu\'ils n\'y ont pas songé, et peut-être auront-ils à s\'en repentir.
+
+Pinchinat marche en tête, fouillant du regard les talus de la route. Lorsqu\'elle est très encaissée à droite et à gauche, il y a moins à redouter d\'être surpris par une agression soudaine. Avec ses instincts de loustic, Son Altesse se sent des velléités de monter quelque mauvaise fumisterie à ses camarades, des envies bêtes de « leur faire peur », par exemple de s\'arrêter court, de murmurer d\'une voix trémolante d\'effroi :
+
+« Hein ! Là-bas\... Qu\'est-ce que je vois ? Tenons-nous prêts à tirer\... » Mais, quand le chemin s\'enfonce à travers une épaisse forêt, au milieu de ces mammoth-trees, ces séquoias hauts de cent cinquante pieds, ces géants végétaux des régions californiennes, la démangeaison de plaisanter lui passe. Dix hommes peuvent s\'embusquer derrière chacun de ces énormes troncs\... Une vive lueur suivie d\'une détonation sèche\... Le rapide sifflement d\'une balle\... Ne va-t-on pas la voir\... Ne va-t-on pas l\'entendre ?
+
+En de tels endroits, évidemment disposés pour une attaque nocturne, un guet-apens est tout indiqué. Si, par bonheur, on ne doit pas prendre contact avec les bandits, c\'est que cet estimable type a totalement disparu de l\'Ouest-Amérique, ou qu\'il s\'occupe alors d\'opérations financières sur les marchés de l\'ancien et du nouveau continent ! Quelle fin pour les arrière-petits-fils des Karl Moor et des Jean Sbogar ! À qui ces réflexions doivent-elles venir si ce n\'est à Yvernès ? Décidément, -- pense-t-il, -- la pièce n\'est pas digne du décor !
+
+Tout à coup Pinchinat reste immobile.
+
+Frascolin qui le suit en fait autant.
+
+Sébastien Zorn et Yvernès les rejoignent aussitôt.
+
+« Qu\'y a-t-il ? demande le deuxième violon.
+
+--- J\'ai cru voir\... » répond l\'alto.
+
+Et ce n\'est point une plaisanterie de sa part. Très réellement une forme vient de se mouvoir entre les arbres.
+
+« Humaine ou animale ? interroge Frascolin.
+
+--- Je ne sais. »
+
+Lequel eût le mieux valu, personne ne se fût hasardé à le dire. On regarde, en groupe serré, sans bouger, sans prononcer une parole.
+
+Par une éclaircie des nuages, les rayons lunaires baignent alors le dôme de cette obscure forêt et, à travers la ramure des séquoias, filtrent jusqu\'au sol. Les dessous sont visibles sur un rayon d\'une centaine de pas. Pinchinat n\'a point été dupe d\'une illusion. Trop grosse pour un homme, cette masse ne peut être que celle d\'un quadrupède de forte taille. Quel quadrupède ? Un fauve ? Un fauve à coup sûr\... Mais quel fauve ? « Un plantigrade ! dit Yvernès.
+
+--- Au diable l\'animal, murmure Sébastien Zorn d\'une voix basse mais impatientée, et par animal, c\'est toi que j\'entends, Yvernès ! Ne peux-tu donc parler comme tout le monde ? Qu\'est-ce que c\'est que ça, un plantigrade ?
+
+--- Une bête qui marche sur ses plantes ! Explique Pinchinat.
+
+--- Un ours ! » répond Frascolin. C\'est un ours, en effet, un ours grand module. On ne rencontre ni lions, ni tigres, ni panthères dans ces forêts de la Basse-Californie. Les ours en sont les hôtes habituels, avec lesquels les rapports sont généralement désagréables. On ne s\'étonnera pas que nos Parisiens aient, d\'un commun accord, l\'idée de céder la place à ce plantigrade. N\'était-il pas chez lui, d\'ailleurs\... Aussi le groupe se resserre-t-il, marchant à reculons, de manière à faire face à la bête, lentement, posément, sans avoir l\'air de fuir. La bête suit à petits pas, agitant ses pattes antérieures comme des bras de télégraphe, se balançant sur les hanches comme une manola à la promenade.
+
+Graduellement elle gagne du terrain, et ses démonstrations deviennent hostiles, -- des cris rauques, un battement de mâchoires qui n\'a rien de rassurant. « Si nous décampions, chacun de son côté ? Propose Son Altesse.
+
+--- N\'en faisons rien ! répond Frascolin. Il y en aurait un de nous qui serait rattrapé, et qui paierait pour les autres ! » Cette imprudence ne fut pas commise, et il est évident qu\'elle aurait pu avoir des conséquences fâcheuses.
+
+Le quatuor arrive ainsi, en faisceau, à la limite d\'une clairière moins obscure. L\'ours s\'est rapproché -- une dizaine de pas seulement. L\'endroit lui paraît-il propice à une agression ?
+
+C\'est probable, car ses hurlements redoublent, et il hâte sa marche.
+
+Recul précipité du groupe, et recommandations plus instantes du deuxième violon :
+
+« Du sang-froid\... Du sang-froid, mes amis ! »
+
+La clairière est traversée, et l\'on retrouve l\'abri des arbres.
+
+Mais là, le danger n\'est pas moins grand. En se défilant d\'un tronc à un autre, l\'animal peut bondir sans qu\'il soit possible de prévenir son attaque, et c\'est bien ce qu\'il allait faire, lorsque ses terribles grognements cessent, son pas se ralentit\...
+
+L\'épaisse ombre vient de s\'emplir d\'une musique pénétrante, un largo expressif dans lequel l\'âme d\'un artiste se révèle tout entière.
+
+C\'est Yvernès, qui, son violon tiré de l\'étui, le fait vibrer sous la puissante caresse de l\'archet. Une idée de génie ! Et pourquoi des musiciens n\'auraient-ils pas demandé leur salut à la musique ?
+
+Est-ce que les pierres, mues par les accords d\'Amphion, ne venaient pas d\'elles-mêmes se ranger autour de Thèbes ? Est-ce que les bêtes féroces, apprivoisées par ses inspirations lyriques, n\'accouraient pas aux genoux d\'Orphée ? Eh bien, il faut croire que cet ours californien, sous l\'influence de prédispositions ataviques, est aussi artistement doué que ses congénères de la Fable, car sa férocité s\'éteint, ses instincts de mélomane le dominent, et à mesure que le quatuor recule en bon ordre, il le suit, laissant échapper de petits cris de dilettante. Pour un peu, il eût crié : bravo !
+
+Un quart d\'heure plus tard, Sébastien Zorn et ses compagnons sont à la lisière du bois. Ils la franchissent, Yvernès toujours violonnant\... L\'animal s\'est arrêté. Il ne semble pas qu\'il ait l\'intention d\'aller au-delà. Il frappe ses grosses pattes l\'une contre l\'autre. Et alors Pinchinat lui aussi, saisit son instrument et s\'écrie : « La danse des ours, et de l\'entrain ! » Puis, tandis que le premier violon racle à tous crins ce motif si connu en ton majeur, l\'alto le soutient d\'une basse aigre et fausse sur la médiante mineure\... L\'animal entre alors en danse, levant le pied droit, levant le pied gauche, se démenant, se contorsionnant, et il laisse le groupe s\'éloigner sur la route. « Peuh ! Observe Pinchinat, ce n\'était qu\'un ours de cirque.
+
+--- N\'importe ! répond Frascolin. Ce diable d\'Yvernès a eu là une fameuse idée !
+
+--- Filons\... Allegretto, réplique le violoncelliste, et sans regarder derrière soi ! » Il est environ neuf heures, lorsque les quatre disciples d\'Apollon arrivent sains et saufs à Freschal. Ils ont marché d\'un fameux pas pendant cette dernière étape, bien que le plantigrade ne soit plus à leurs trousses. Une quarantaine de maisons, ou mieux de maisonnettes en bois, autour d\'une place plantée de hêtres, voilà Freschal, village isolé que deux milles séparent de la côte. Nos artistes se glissent entre quelques habitations ombragées de grands arbres, débouchent sur une place, entrevoient au fond le modeste clocher d\'une modeste église, se forment en rond, comme s\'ils allaient exécuter un morceau de circonstance, et s\'immobilisent en cet endroit, avec l\'intention d\'y conférer.
+
+« Ça ! Un village ? dit Pinchinat.
+
+--- Tu ne t\'attendais pas à trouver une cité dans le genre de Philadelphie ou de New-York ? réplique Frascolin.
+
+--- Mais il est couché, votre village ! Riposte Sébastien Zorn, en haussant les épaules.
+
+--- Ne réveillons pas un village qui dort ! Soupire mélodieusement Yvernès. -- Réveillons-le, au contraire ! » s\'écrie Pinchinat. En effet, -- à moins de vouloir passer la nuit en plein air, il faut bien en venir à ce procédé. Du reste, place absolument déserte, silence complet. Pas un contrevent entr\'ouvert, pas une lumière aux fenêtres. Le palais de la Belle au bois dormant aurait pu s\'élever là dans des conditions de tout repos et de toute tranquillité.
+
+« Eh bien\... Et l\'auberge ? » demande Frascolin.
+
+Oui\... L\'auberge dont le conducteur avait parlé, où ses voyageurs en détresse doivent rencontrer bon accueil et bon gîte ? Et l\'aubergiste qui s\'empresserait d\'envoyer du secours à l\'infortuné coach-man ? Est-ce que ce pauvre homme a rêvé ces choses ? Ou, -- autre hypothèse, -- Sébastien Zorn et sa troupe se sont-ils égarés ? N\'est-ce point ici le village de Freschal ?
+
+Ces questions diverses exigent une réponse péremptoire. Donc, nécessité d\'interroger un des habitants du pays, et, pour ce faire, de frapper à la porte d\'une des maisonnettes, -- à celle de l\'auberge, autant que possible, si une heureuse chance permet de la découvrir.
+
+Voici donc les quatre musiciens opérant une reconnaissance autour de la ténébreuse place, frôlant les façades, essayant d\'apercevoir une enseigne pendue à quelque devanture\... D\'auberge, il n\'y a pas apparence.
+
+Eh bien, à défaut d\'auberge, il n\'est pas admissible qu\'il n\'y ait point là quelque case hospitalière, et comme on n\'est pas en Écosse, on agira à l\'américaine. Quel est le natif de Freschal qui refuserait un et même deux dollars par personne pour un souper et un lit ?
+
+« Frappons, dit Frascolin.
+
+--- En mesure, ajoute Pinchinat, et à six-huit ! » On eût frappé à trois ou à quatre temps, que le résultat aurait été identique.
+
+Aucune porte, aucune fenêtre ne s\'ouvre, et, cependant, le Quatuor Concertant a mis une douzaine de maisons en demeure de lui répondre. « Nous nous sommes trompés, déclare Yvernès\... Ce n\'est pas un village, c\'est un cimetière, où, si l\'on y dort, c\'est de l\'éternel sommeil\... Vox clamantis in deserto.
+
+--- Amen ! » répond Son Altesse avec la grosse voix d\'un chantre de cathédrale. Que faire, puisqu\'on s\'obstine à ce silence complet ? Continuer sa route vers San-Diégo ? On crève de faim et de fatigue, c\'est le mot\... Et puis, quel chemin suivre, sans guide, au milieu de cette obscure nuit ? Essayer d\'atteindre un autre village ! Lequel ? À s\'en rapporter au coachman, il n\'en existe aucun sur cette partie du littoral\... On ne ferait que s\'égarer davantage\... Le mieux est d\'attendre le jour !
+
+Pourtant, de passer une demi-douzaine d\'heures sans abri, sous un ciel qui se chargeait de gros nuages bas, menaçant de se résoudre en averses, cela n\'est pas à proposer -- même à des artistes.
+
+Pinchinat eut alors une idée. Ses idées ne sont pas toujours excellentes, mais elles abondent en son cerveau. Celle-ci, d\'ailleurs obtient l\'approbation du sage Frascolin.
+
+« Mes amis, dit-il, pourquoi ce qui nous a réussi vis-à-vis d\'un ours ne nous réussirait-il pas vis-à-vis d\'un village californien ? Nous avons apprivoisé ce plantigrade avec un peu de musique\... Réveillons ces ruraux par un vigoureux concert, où nous n\'épargnerons ni les forte ni les allegro\...
+
+--- C\'est à tenter, » répond Frascolin. Sébastien Zorn n\'a même pas laissé finir la phrase de Pinchinat. Son violoncelle retiré de l\'étui et dressé sur sa pointe d\'acier, debout, puisqu\'il n\'a pas de siège à sa disposition, l\'archet à la main, il est prêt à extraire toutes les voix emmagasinées dans cette carcasse sonore.
+
+Presque aussitôt, ses camarades sont prêts à le suivre jusqu\'aux dernières limites de l\'art. « Le quatuor en si bémol d\'Onslow, dit-il. Allons\... Une mesure pour rien ! »
+
+Ce quatuor d\'Onslow, ils le savaient par coeur, et de bons instrumentistes n\'ont certes pas besoin d\'y voir clair pour promener leurs doigts habiles sur la touche d\'un violoncelle, de deux violons et d\'un alto.
+
+Les voici donc qui s\'abandonnent à leur inspiration. Jamais peut-être ils n\'ont joué avec plus de talent et plus d\'âme dans les casinos et sur les théâtres de la Confédération américaine.
+
+L\'espace s\'emplit d\'une sublime harmonie, et, à moins d\'être sourds, comment des êtres humains pourraient-ils résister ? Eût-on été dans un cimetière, ainsi que l\'a prétendu Yvernès, que, sous le charme de cette musique, les tombes se fussent entr\'ouvertes, les morts se seraient redressés, les squelettes auraient battu des mains\...
+
+Et cependant les maisons restent closes, les dormeurs ne s\'éveillent pas. Le morceau s\'achève dans les éclats de son puissant final, sans que Freschal ait donné signe d\'existence.
+
+« Ah ! C\'est comme cela ! s\'écrie Sébastien Zorn, au comble de la fureur. Il faut un charivari, comme à leurs ours, pour leurs oreilles de sauvages ? Soit ! Recommençons, mais toi, Yvernès, joue en ré, toi, Frascolin, en mi, toi, Pinchinat, en sol.
+
+Moi, je reste en si bémol, et, maintenant, à tour de bras ! »
+
+Quelle cacophonie ! Quel déchirement des tympans ! Voilà qui rappelle bien cet orchestre improvisé, dirigé par le prince de Joinville, dans un village inconnu d\'une région brésilienne ! C\'est à croire que l\'on exécute sur des « vinaigrius » quelque horrible symphonie, -- du Wagner joué à rebours !
+
+En somme, l\'idée de Pinchinat est excellente. Ce qu\'une admirable exécution n\'a pu obtenir, c\'est ce charivari qui l\'obtient.
+
+Freschal commence à s\'éveiller. Des vitres s\'allument çà et là.
+
+Deux ou trois fenêtres s\'éclairent. Les habitants du village ne sont pas morts, puisqu\'ils donnent signe d\'existence. Ils ne sont pas sourds, puisqu\'ils entendent et écoutent\...
+
+« On va nous jeter des pommes ! dit Pinchinat, pendant une pause, car, à défaut de la tonalité du morceau, la mesure a été respectée scrupuleusement.
+
+--- Eh ! Tant mieux\... Nous les mangerons ! » répond le pratique Frascolin. Et, au commandement de Sébastien Zorn, le concert reprend de plus belle. Puis, lorsqu\'il s\'est terminé par un vigoureux accord parfait en quatre tons différents, les artistes s\'arrêtent. Non ! Ce ne sont pas des pommes qu\'on leur jette à travers vingt ou trente fenêtres béantes, ce sont des applaudissements, des hurrahs, des hips ! Hips ! Hips ! Jamais les oreilles freschaliennes ne se sont emplies de telles jouissances musicales ! Et, nul doute que toutes les maisons ne soient prêtes à recevoir hospitalièrement de si incomparables virtuoses.
+
+Mais, tandis qu\'ils se livraient à cette fougue instrumentale, un nouveau spectateur s\'est avancé de quelques pas, sans qu\'ils l\'aient vu venir. Ce personnage, descendu d\'une sorte de char à bancs électrique, se tient à un angle de la place. C\'est un homme de haute taille et d\'assez forte corpulence, autant qu\'on en pouvait juger par cette nuit sombre.
+
+Or, tandis que nos Parisiens se demandent si, après les fenêtres, les portes des maisons vont s\'ouvrir pour les recevoir, -- ce qui parait au moins fort incertain, -- le nouvel arrivé s\'approche, et, en parfaite langue française, dit d\'un ton aimable :
+
+« Je suis un dilettante, messieurs, et je viens d\'avoir la bonne fortune de vous applaudir\...
+
+--- Pendant notre dernier morceau ? réplique d\'un ton ironique Pinchinat.
+
+--- Non, Messieurs\... Pendant le premier, et j\'ai rarement entendu exécuter avec plus de talent ce quatuor d\'Onslow ! » Ledit personnage est un connaisseur, à n\'en pas douter.
+
+« Monsieur, répond Sébastien Zorn au nom de ses camarades, nous sommes très sensibles à vos compliments\... Si notre second morceau a déchiré vos oreilles, c\'est que\...
+
+--- Monsieur, répond l\'inconnu, en interrompant une phrase qui eût été longue, je n\'ai jamais entendu jouer si faux avec tant de perfection. Mais j\'ai compris pourquoi vous agissiez de la sorte.
+
+C\'était pour réveiller ces braves habitants de Freschal, qui se sont déjà rendormis\... Eh bien, messieurs, ce que vous tentiez d\'obtenir d\'eux par ce moyen désespéré, permettez-moi de vous l\'offrir\...
+
+--- L\'hospitalité ? demande Frascolin.
+
+--- Oui, l\'hospitalité, une hospitalité ultra-écossaise. Si je ne me trompe, j\'ai devant moi ce Quatuor Concertant, renommé dans toute notre superbe Amérique, qui ne lui a pas marchandé son enthousiasme\...
+
+--- Monsieur, croit devoir dire Frascolin, nous sommes vraiment flattés\... Et\... Cette hospitalité, où pourrions-nous la trouver, grâce à vous ?
+
+--- À deux milles d\'ici.
+
+--- Dans un autre village ?
+
+--- Non\... Dans une ville.
+
+--- Une ville importante ?
+
+--- Assurément.
+
+--- Permettez, observe Pinchinat, on nous a dit qu\'il n\'y avait aucune ville avant San-Diégo\...
+
+--- C\'est une erreur\... Que je ne saurais m\'expliquer.
+
+--- Une erreur ? Répète Frascolin.
+
+--- Oui, messieurs, et, si vous voulez m\'accompagner, je vous promets l\'accueil auquel ont droit des artistes de votre valeur.
+
+--- Je suis d\'avis d\'accepter\... Dit Yvernès.
+
+--- Et je partage ton avis, affirme Pinchinat.
+
+--- Un instant\... Un instant, s\'écrie Sébastien Zorn, et n\'allons pas plus vite que le chef d\'orchestre !
+
+--- Ce qui signifie ? demande l\'Américain.
+
+--- Que nous sommes attendus à San-Diégo, répond Frascolin.
+
+--- À San-Diégo, ajoute le violoncelliste, où la ville nous a engagés pour une série de matinées musicales, dont la première doit avoir lieu après-demain dimanche\...
+
+--- Ah ! » réplique le personnage, d\'un ton qui dénote une assez vive contrariété. Puis, reprenant : « Qu\'à cela ne tienne, messieurs, ajoute-t-il. En une journée, vous aurez le temps de visiter une cité qui en vaut la peine, et je m\'engage à vous faire reconduire à la prochaine station, de manière que vous puissiez être à San-Diégo à l\'heure voulue ! »
+
+Ma foi, l\'offre est séduisante, et aussi la bien venue. Voilà le quatuor assuré de trouver une bonne chambre dans un bon hôtel, -- sans parler des égards que leur garantit cet obligeant personnage.
+
+« Acceptez-vous, messieurs ?
+
+--- Nous acceptons, répond Sébastien Zorn, que la faim et la fatigue disposent à favorablement accueillir une invitation de ce genre.
+
+--- C\'est entendu, réplique l\'Américain. Nous allons partir à l\'instant\... En vingt minutes nous serons arrivés, et vous me remercierez, j\'en suis sûr ! » Il va sans dire qu\'à la suite des derniers hurrahs provoqués par le concert charivarique, les fenêtres des maisons se sont refermées. Ses lumières éteintes, le village de Freschal est replongé dans un profond sommeil. L\'Américain et les quatre artistes rejoignent le char à bancs, y déposent leurs instruments, se placent à l\'arrière, tandis que l\'Américain s\'installe sur le devant, près du conducteur-mécanicien. Un levier est manoeuvré, les accumulateurs électriques fonctionnent, le véhicule s\'ébranle, et il ne tarde pas à prendre une rapide allure, en se dirigeant vers l\'ouest.
+
+Un quart d\'heure après, une vaste lueur blanchâtre apparaît, une éblouissante diffusion de rayons lunaires. Là est une ville, dont nos Parisiens n\'auraient pu soupçonner l\'existence.
+
+Le char à bancs s\'arrête alors, et Frascolin de dire : « Enfin nous voici sur le littoral. »
+
+--- Le littoral\... Non, répondit l\'Américain. C\'est un cours d\'eau que nous avons à traverser\...
+
+--- Et comment ? demande Pinchinat.
+
+--- Au moyen de ce bac dans lequel le char à bancs va prendre place. » En effet, il y a là un de ces ferry-boats, si nombreux aux États-Unis, et sur lequel s\'embarque le char à bancs avec ses passagers. Sans doute, ce ferry-boat est mû électriquement, car il ne projette aucune vapeur, et en deux minutes, au-delà du cours d\'eau, il vient accoster le quai d\'une darse au fond d\'un port. Le char à bancs reprend sa route à travers les allées d\'une campagne, il pénètre dans un parc, au-dessus duquel des appareils aériens versent une lumière intense. À la grille de ce parc s\'ouvre une porte, qui donne accès sur une large et longue rue pavée de dalles sonores. Cinq minutes plus tard, les artistes descendent au bas du perron d\'un confortable hôtel, où ils sont reçus avec un empressement de bon augure, grâce à un mot dit par l\'Américain. On les conduit aussitôt devant une table servie avec luxe, et ils soupent de bon appétit, qu\'on veuille bien le croire. Le repas achevé, le majordome les mène à une chambre spacieuse, éclairée de lampes à incandescence, que des interrupteurs permettront de transformer en douces veilleuses. Là, enfin, remettant au lendemain l\'explication de ces merveilles, ils s\'endorment dans les quatre lits disposés aux quatre angles de la chambre, et ronflent avec cet ensemble extraordinaire qui a fait la renommée du Quatuor Concertant.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185435 .pcalibre2 .pcalibre1}[]{#_Toc343182974 .pcalibre2 .pcalibre1}[]{#_Toc343180513 .pcalibre2 .pcalibre1}[]{#_Toc343178052 .pcalibre2 .pcalibre1}[]{#_Toc343175591 .pcalibre2 .pcalibre1}[]{#_Toc343173130 .pcalibre2 .pcalibre1}[]{#_Toc343170669 .pcalibre2 .pcalibre1}[]{#_Toc343168208 .pcalibre2 .pcalibre1}[]{#_Toc343165747 .pcalibre2 .pcalibre1}[]{#_Toc343163286 .pcalibre2 .pcalibre1}[]{#_Toc343160825 .pcalibre2 .pcalibre1}[]{#_Toc343158364 .pcalibre2 .pcalibre1}[]{#_Toc343149094 .pcalibre2 .pcalibre1}[]{#_Toc343146633 .pcalibre2 .pcalibre1}[]{#_Toc343144170 .pcalibre2 .pcalibre1}[]{#_Toc343141709 .pcalibre2 .pcalibre1}[]{#_Toc343139248 .pcalibre2 .pcalibre1}[]{#_Toc343136786 .pcalibre2 .pcalibre1}[]{#_Toc343134325 .pcalibre2 .pcalibre1}[]{#_Toc343131864 .pcalibre2 .pcalibre1}[]{#_Toc343129402 .pcalibre2 .pcalibre1}[]{#_Toc343126941 .pcalibre2 .pcalibre1}[]{#_Toc343124477 .pcalibre2 .pcalibre1}[]{#_Toc343122016 .pcalibre2 .pcalibre1}[]{#_Toc343119555 .pcalibre2 .pcalibre1}[]{#_Toc343117101 .pcalibre2 .pcalibre1}[]{#_Toc343114638 .pcalibre2 .pcalibre1}[]{#_Toc343112177 .pcalibre2 .pcalibre1}[]{#_Toc343109716 .pcalibre2 .pcalibre1}[]{#_Toc343105972 .pcalibre2 .pcalibre1}[]{#_Toc343103510 .pcalibre2 .pcalibre1}[]{#_Toc343101047 .pcalibre2 .pcalibre1}[]{#_Toc343098622 .pcalibre2 .pcalibre1}[]{#_Toc343096153 .pcalibre2 .pcalibre1}[]{#_Toc343093691 .pcalibre2 .pcalibre1}[]{#_Toc343091213 .pcalibre2 .pcalibre1}[]{#_Toc343088750 .pcalibre2 .pcalibre1}[]{#_Toc343086288 .pcalibre2 .pcalibre1}[]{#_Toc343083825 .pcalibre2 .pcalibre1}[]{#_Toc343081363 .pcalibre2 .pcalibre1}[]{#_Toc343078902 .pcalibre2 .pcalibre1}[]{#_Toc343076439 .pcalibre2 .pcalibre1}[]{#_Toc343073976 .pcalibre2 .pcalibre1}[]{#_Toc343071510 .pcalibre2 .pcalibre1}[]{#_Toc343043550 .pcalibre2 .pcalibre1}[]{#_Toc343038670 .pcalibre2 .pcalibre1}[]{#_Toc343036305 .pcalibre2 .pcalibre1}[]{#_Toc343033940 .pcalibre2 .pcalibre1}[]{#_Toc343031575 .pcalibre2 .pcalibre1}[]{#_Toc343028019 .pcalibre2 .pcalibre1}[]{#_Toc343025654 .pcalibre2 .pcalibre1}[]{#_Toc343023289 .pcalibre2 .pcalibre1}[]{#_Toc343020923 .pcalibre2 .pcalibre1}[]{#_Toc343018557 .pcalibre2 .pcalibre1}[]{#_Toc343016192 .pcalibre2 .pcalibre1}[]{#_Toc343013827 .pcalibre2 .pcalibre1}[]{#_Toc343011460 .pcalibre2 .pcalibre1}[]{#_Toc343009095 .pcalibre2 .pcalibre1}[]{#_Toc343006730 .pcalibre2 .pcalibre1}[]{#_Toc343004365 .pcalibre2 .pcalibre1}[]{#_Toc343002000 .pcalibre2 .pcalibre1}[]{#_Toc342999635 .pcalibre2 .pcalibre1}[]{#_Toc342997270 .pcalibre2 .pcalibre1}[]{#_Toc342994905 .pcalibre2 .pcalibre1}[]{#_Toc342992540 .pcalibre2 .pcalibre1}[]{#_Toc342990175 .pcalibre2 .pcalibre1}[]{#_Toc342987810 .pcalibre2 .pcalibre1}[]{#_Toc342985443 .pcalibre2 .pcalibre1}[]{#_Toc342983078 .pcalibre2 .pcalibre1}[]{#_Toc342980713 .pcalibre2 .pcalibre1}[]{#_Toc342978348 .pcalibre2 .pcalibre1}[[Chapitre 3 -- Un loquace cicérone]{lang="X-NONE"}]{#_Toc342942367 .pcalibre2 .pcalibre1} {#chapitre-3-un-loquace-cicérone .calibre171 .sigil_not_in_toc}
+
+Le lendemain, dès sept heures, ces mots, ou plutôt ces cris retentissent dans la chambre commune, après une éclatante imitation du son de la trompette, -- quelque chose comme la diane au réveil d\'un régiment : « Allons ! Houp ! Sur pattes\... Et en deux temps ! » vient de vociférer Pinchinat.
+
+Yvernès, le plus nonchalant du quatuor, eût préféré mettre trois temps -- et même quatre -- à se dégager des chaudes couvertures de son lit. Mais il lui faut suivre l\'exemple de ses camarades et quitter la position horizontale pour la position verticale.
+
+« Nous n\'avons pas une minute à perdre\... Pas une seule ! Observe Son Altesse.
+
+--- Oui, répondit Sébastien Zorn, car c\'est demain que nous devons être rendus à San-Diégo.
+
+--- Bon ! Réplique Yvernès, une demi-journée suffira à visiter la ville de cet aimable Américain.
+
+--- Ce qui m\'étonne, ajoute Frascolin, c\'est qu\'il existe une cité importante dans le voisinage de Freschal ! Comment notre coachman a-t-il oublié de nous l\'indiquer ?
+
+--- L\'essentiel est que nous y soyons, ma vieille clef de sol, dit Pinchinat, et nous y sommes ! » À travers deux larges fenêtres, la lumière pénètre à flots dans la chambre, et la vue se prolonge pendant un mille sur une rue superbe, plantée d\'arbres.
+
+Les quatre amis procèdent à leur toilette dans un cabinet confortable, -- rapide et facile besogne, car il est « machiné » suivant les derniers perfectionnements modernes : robinets thermométriquement gradués pour l\'eau chaude et pour l\'eau froide, cuvettes se vidant par un basculage automatique, chauffe-bains, chauffe-fers, pulvérisateurs d\'essences parfumées fonctionnant à la demande, ventilateurs-moulinets actionnés par un courant voltaïque, brosses mues mécaniquement, les unes auxquelles il suffit de présenter sa tête, les autres ses vêtements ou ses bottes pour obtenir un nettoyage ou un cirement complets.
+
+Puis, en maint endroit, sans compter l\'horloge et les ampoules électriques, qui s\'épanouissent à portée de la main, des boutons de sonnettes ou de téléphones mettent en communication instantanée les divers services de l\'établissement.
+
+Et non seulement Sébastien Zorn et ses compagnons peuvent correspondre avec l\'hôtel, mais aussi avec les divers quartiers de la ville, et peut-être, -- c\'est l\'avis de Pinchinat, -- avec n\'importe quelle cité des États-Unis d\'Amérique.
+
+« Ou même des deux mondes, » ajoute Yvernès. En attendant qu\'ils eussent l\'occasion de faire cette expérience, voici, à sept heures quarante-sept, que cette phrase leur est téléphonée en langue anglaise : « Calistus Munbar présente ses civilités matinales à chacun des honorables membres du Quatuor Concertant, et les prie de descendre, dès qu\'ils seront prêts, au dining-room d\'Excelsior-Hotel, où leur est servi un premier déjeuner. « Excelsior-Hotel ! dit Yvernès. Le nom de ce caravansérail est superbe !
+
+--- Calistus Munbar, c\'est notre obligeant Américain, remarque Pinchinat, et le nom est splendide !
+
+--- Mes amis, s\'écrie le violoncelliste, dont l\'estomac est aussi impérieux que son propriétaire, puisque le déjeuner est sur la table, allons déjeuner, et puis\...
+
+--- Et puis\... Parcourons la ville, ajoute Frascolin. Mais quelle peut être cette ville ? »
+
+Nos Parisiens étant habillés ou à peu près, Pinchinat répond téléphoniquement qu\'avant cinq minutes, ils feront honneur à l\'invitation de M. Calistus Munbar.
+
+En effet, leur toilette achevée, ils se dirigent vers un ascenseur qui se met en mouvement et les dépose dans le hall monumental de l\'hôtel. Au fond se développe la porte du dining-room, une vaste salle étincelante de dorures. « Je suis le vôtre, messieurs, tout le vôtre ! »
+
+C\'est l\'homme de la veille, qui vient de prononcer cette phrase de huit mots. Il appartient à ce type de personnages dont on peut dire qu\'ils se présentent d\'eux-mêmes. Ne semble-t-il pas qu\'on les connaisse depuis longtemps, ou, pour employer une expression plus juste, « depuis toujours » ?
+
+Calistus Munbar doit avoir de cinquante à soixante ans, mais il n\'en paraît que quarante-cinq. Sa taille est au-dessus de la moyenne ; son gaster bedonne légèrement ; ses membres sont gros et forts ; il est vigoureux et sain avec des mouvements fermes ; il crève la santé, si l\'on veut bien permettre cette locution.
+
+Sébastien Zorn et ses amis ont maintes fois rencontré des gens de ce type, qui n\'est pas rare aux États-Unis. La tête de Calistus Munbar est énorme, en boule, avec une chevelure encore blonde et bouclée, qui s\'agite comme une frondaison tortillée par la brise ; le teint est très coloré : la barbe jaunâtre, assez longue, se divise en pointes ; la moustache est rasée ; la bouche, relevée aux commissures des lèvres, est souriante, railleuse surtout ; les dents sont d\'un ivoire éclatant ; le nez, un peu gros du bout, à narines palpitantes, solidement implanté à la base du front avec deux plis verticaux au-dessus, supporte un binocle, que retient un fil d\'argent fin et souple comme un fil de soie. Derrière les lentilles de ce binocle rayonne un oeil mobile, à l\'iris verdâtre, à la prunelle allumée d\'une braise. Cette tête est rattachée aux épaules par un cou de taureau. Le tronc est carrément établi sur des cuisses charnues, des jambes d\'aplomb, des pieds un peu en dehors.
+
+Calistus Munbar est vêtu d\'un veston très ample, en étoffe diagonale, couleur cachou. Hors de la poche latérale se glisse l\'angle d\'un mouchoir à vignettes. Le gilet est blanc, très évidé, à trois boutons d\'or. D\'une poche à l\'autre festonne une chaîne massive, ayant à un bout un chronomètre, à l\'autre un podomètre, sans parler des breloques qui tintinnabulent au centre. Cette orfèvrerie se complète par un chapelet de bagues dont sont ornées les mains grasses et rosées. La chemise est d\'une blancheur immaculée, raide et brillante d\'empois, constellée de trois diamants, surmontée d\'un col largement rabattu, sous le pli duquel s\'enroule une imperceptible cravate, simple galon mordoré. Le pantalon, d\'étoffe rayée, à vastes plis, retombe en se rétrécissant sur des bottines lacées avec agrafes d\'aluminium.
+
+Quant à la physionomie de ce Yankee, elle est au plus haut point expressive, toute en dehors, -- la physionomie des gens qui ne doutent de rien, et « qui en ont vu bien d\'autres », comme on dit.
+
+Cet homme est un débrouillard, à coup sur, et c\'est aussi un énergique, ce qui se reconnaît à la tonicité de ses muscles, à la contraction apparente de son sourciller et de son masséter. Enfin, il rit volontiers avec éclat, mais son rire est plutôt nasal qu\'oral, une sorte de ricanement, le hennitus indiqué par les physiologistes.
+
+Tel est ce Calistus Munbar. À l\'entrée du Quatuor, il a soulevé son large chapeau que ne déparerait pas une plume Louis XIII, il serre la main des quatre artistes. Il les conduit devant une table où bouillonne la théière, où fument les rôties traditionnelles. Il parle tout le temps, ne laissant pas place à une seule question, -- peut-être pour esquiver une réponse, -- vantant les splendeurs de sa ville, l\'extraordinaire création de cette cité, monologuant sans interruption, et, lorsque le déjeuner est achevé, terminant son monologue par ces mots :
+
+« Venez, messieurs, et veuillez me suivre. Mais une recommandation\... -- Laquelle ? demande Frascolin.
+
+--- Il est expressément défendu de cracher dans nos rues\...
+
+--- Nous n\'avons pas l\'habitude.. ? proteste Yvernès.
+
+--- Bon ! Cela vous épargnera des amendes !
+
+--- Ne pas cracher\... En Amérique ! » murmure Pinchinat d\'un ton où la surprise se mêle à l\'incrédulité.
+
+Il eût été difficile de se procurer un guide doublé d\'un cicérone plus complet que Calistus Munbar. Cette ville, il la connaît à fond. Pas un hôtel dont il ne puisse nommer le propriétaire, pas une maison dont il ne sache qui l\'habite, pas un passant dont il ne soit salué avec une familiarité sympathique.
+
+Cette cité est régulièrement construite. Les avenues et les rues, pourvues de vérandas au-dessus des trottoirs, se coupent à angles droits, une sorte d\'échiquier. L\'unité se retrouve en son plan géométral. Quant à la variété, elle ne manque point, et dans leur style comme dans leur appropriation intérieure, les habitations n\'ont suivi d\'autre règle que la fantaisie de leurs architectes.
+
+Excepté le long de quelques rues commerçantes, ces demeures affectent un air de palais, avec leurs cours d\'honneur flanquées de pavillons élégants, l\'ordonnance architecturale de leurs façades, le luxe que l\'on pressent à l\'intérieur des appartements, les jardins pour ne pas dire les parcs disposés en arrière. Il est à remarquer, toutefois, que les arbres, de plantation récente sans doute, n\'ont pas encore atteint leur complet développement. De même pour les squares, ménagés à l\'intersection des principales artères de la ville, tapissés de pelouses d\'une fraîcheur tout anglaise, dont les massifs, où se mélangent les essences des zones tempérées et torrides, n\'ont pas aspiré des entrailles du sol assez de puissance végétative. Aussi cette particularité naturelle présente-t-elle un contraste frappant avec la portion de l\'Ouest-Amérique, où abondent les forêts géantes dans le voisinage des grandes cités californiennes.
+
+Le quatuor allait devant lui, observant ce quartier de la ville, chacun à sa manière, Yvernès attiré par ce qui n\'attire pas Frascolin, Sébastien Zorn s\'intéressant à ce qui n\'intéresse point Pinchinat, -- tous, en somme, très curieux du mystère qui enveloppe la cité inconnue. De cette diversité de vues devra sortir un ensemble de remarques assez justes. D\'ailleurs, Calistus Munbar est là, et il a réponse à tout. Que disons-nous réponse ? Il n\'attend pas qu\'on l\'interroge, il parle, il parle, et il n\'y a qu\'à le laisser parler. Son moulin à paroles tourne et tourne au moindre vent. Un quart d\'heure après avoir quitté Excelsior-Hotel, Calistus Munbar dit : « Nous voici dans la Troisième Avenue, et on en compte une trentaine dans la ville. Celle-ci, la plus commerçante, c\'est notre Broadway, notre Regent-street, notre boulevard des Italiens.
+
+Dans ces magasins, ces bazars, on trouve le superflu et le nécessaire, tout ce que peuvent exiger les existences les plus soucieuses du bien-être et du confort moderne !
+
+--- Je vois les magasins, observe Pinchinat, mais je ne vois pas les acheteurs\...
+
+--- Peut-être l\'heure est-elle trop matinale ? ajoute Yvernès.
+
+--- Cela tient, répondit Calistus Munbar, à ce que la plupart des commandes se font téléphoniquement ou même télautographiquement\...
+
+--- Ce qui signifie ? demande Frascolin.
+
+--- Ce qui signifie que nous employons communément le télautographe, un appareil perfectionné qui transporte l\'écriture comme le téléphone transporte la parole, sans oublier le kinétographe qui enregistre les mouvements, étant pour l\'oeil ce que le phonographe est pour l\'oreille, et le téléphote qui reproduit les images. Ce télautographe donne une garantie plus sérieuse que la simple dépêche dont le premier venu est libre d\'abuser.
+
+Nous pouvons signer électriquement des mandats ou des traites\...
+
+--- Même des actes de mariage ? réplique Pinchinat d\'un ton ironique.
+
+--- Sans doute, monsieur l\'alto. Pourquoi ne se marierait-on pas par fil télégraphique\...
+
+--- Et divorcer ?
+
+--- Et divorcer ! C\'est même ce qui use le plus nos appareils ! »
+
+Là-dessus, bruyant éclat de rire du cicérone, qui fait trembloter toute la bibeloterie de son gilet.
+
+« Vous êtes gai, monsieur Munbar, dit Pinchinat, en partageant l\'hilarité de l\'Américain.
+
+--- Oui\... Comme une envolée de pinsons un jour de soleil ! » En cet endroit, une artère transversale se présente. C\'est la Dix-neuvième Avenue, d\'où tout commerce est banni. Des lignes de trams la sillonnent ainsi que l\'autre. De rapides cars passent sans soulever un grain de poussière, car la chaussée, recouverte d\'un parquet imputrescible de karry et de jarrah d\'Australie, -- pourquoi pas de l\'acajou du Brésil ? -- est aussi nette que si on l\'eût frottée à la limaille. D\'ailleurs, Frascolin, très observateur des phénomènes physiques, constate qu\'elle résonne sous le pied comme une plaque de métal. « Voilà bien ces grands travailleurs du fer ! se dit-il. Ils font maintenant des chaussées en tôle ! » Et il allait s\'informer près de Calistus Munbar, lorsque celui-ci de s\'écrier : « Messieurs, regardez cet hôtel ! » Et il montre une vaste construction, d\'aspect grandiose, dont les avant-corps, latéraux à une cour d\'honneur, sont réunis par une grille en aluminium. « Cet hôtel, -- on pourrait dire ce palais, -- est habité par la famille de l\'un des principaux notables de la ville.
+
+J\'ai nommé Jem Tankerdon, propriétaire d\'inépuisables mines de pétrole dans l\'Illinois, le plus riche peut-être, et, par conséquent, le plus honorable et le plus honoré de nos concitoyens\...
+
+--- Des millions ? demande Sébastien Zorn.
+
+--- Peuh ! fait Calistus Munbar. Le million, c\'est pour nous le dollar courant, et ici on les compte par centaines ! Il n\'y a en cette cité que des nababs richissimes. Ce qui explique comment, en quelques années, les marchands des quartiers du commerce font fortune, -- j\'entends les marchands au détail, car, de négociants ou de commerçants en gros, il ne s\'en trouve pas un seul sur ce microcosme unique au monde\...
+
+--- Et des industriels ? demande Pinchinat.
+
+--- Absents, les industriels !
+
+--- Et les armateurs ? demande Frascolin.
+
+--- Pas davantage.
+
+--- Des rentiers alors ? réplique Sébastien Zorn.
+
+--- Rien que des rentiers et des marchands en train de se faire des rentes. -- Eh bien\... Et les ouvriers ? Observe Yvernès.
+
+--- Lorsqu\'on a besoin d\'ouvriers, on les amène du dehors, messieurs, et lorsque le travail est terminé ils s\'en retournent\... Avec la forte somme !
+
+--- Voyons, monsieur Munbar, dit Frascolin, vous avez bien quelques pauvres dans votre ville, ne fût-ce que pour ne pas en laisser éteindre la race ?
+
+--- Des pauvres, monsieur le deuxième violon ? Vous n\'en rencontrerez pas un seul !
+
+--- Alors la mendicité est interdite ?
+
+--- Il n\'y a jamais eu lieu de l\'interdire, puisque la ville n\'est pas accessible aux mendiants. C\'est bon cela pour les cités de l\'Union, avec leurs dépôts, leurs asiles, leurs work-houses\... Et les maisons de correction qui les complètent\...
+
+--- Allez-vous affirmer que vous n\'avez pas de prisons ?
+
+--- Pas plus que nous n\'avons de prisonniers.
+
+--- Mais les criminels ?
+
+--- Ils sont priés de rester dans l\'ancien et le nouveau continent, où leur vocation trouve à s\'exercer dans des conditions plus avantageuses.
+
+--- Eh ! Vraiment, monsieur Munbar, dit Sébastien Zorn, on croirait, à vous entendre, que nous ne sommes plus en Amérique ?
+
+--- Vous y étiez hier, monsieur le violoncelliste, répond cet étonnant cicérone.
+
+--- Hier ? réplique Frascolin, qui se demande ce que peut exprimer cette phrase étrange.
+
+--- Sans doute ! Aujourd\'hui vous êtes dans une ville indépendante, une cité libre, sur laquelle l\'Union n\'a aucun droit, qui ne relève que d\'elle-même\...
+
+--- Et qui se nomme ? demande Sébastien Zorn, dont l\'irritabilité naturelle commence à percer.
+
+--- Son nom ? répond Calistus Munbar. Permettez-moi de vous le taire encore\...
+
+--- Et quand le saurons-nous ?
+
+--- Lorsque vous aurez achevé de la visiter, ce dont elle sera très honorée d\'ailleurs. »
+
+Cette réserve de l\'Américain est au moins singulière. Peu importe, en somme. Avant midi, le quatuor aura terminé sa curieuse promenade, et, dût-il n\'apprendre le nom de cette ville qu\'au moment de la quitter, cela lui suffira, n\'est-il pas vrai ? La seule réflexion à faire, est celle-ci : Comment une cité si considérable occupe-t-elle un des points de la côte californienne sans appartenir à la république fédérale des États-Unis, et, d\'autre part, comment expliquer que le conducteur du coach ne se fût pas avisé d\'en parler ? L\'essentiel, après tout, est que, dans vingt-quatre heures, les exécutants aient atteint San-Diégo, où on leur donnera le mot de cette énigme, si Calistus Munbar ne se décide pas à le révéler.
+
+Ce bizarre personnage s\'est de nouveau livré à sa faconde descriptive, non sans laisser voir qu\'il désire ne point s\'expliquer plus catégoriquement. « Messieurs, dit-il, nous voici à l\'entrée de la Trente-septième Avenue. Contemplez cette admirable perspective ! Dans ce quartier, non plus, pas de magasins, pas de bazars, ni ce mouvement des rues qui dénote l\'existence commerciale. Rien que des hôtels et des habitations particulières, mais les fortunes y sont inférieures à celles de la Dix-neuvième Avenue. Des rentiers à dix ou douze millions\...
+
+--- Des gueux, quoi ! répond Pinchinat, dont les lèvres dessinent une moue significative.
+
+--- Hé ! Monsieur l\'alto, réplique Calistus Munbar, il est toujours possible d\'être le gueux de quelqu\'un ! Un millionnaire est riche par rapport à celui qui ne possède que cent mille francs ! Il ne l\'est pas par rapport à celui qui possède cent millions ! »
+
+Maintes fois déjà, nos artistes ont pu noter que, de tous les mots employés par leur cicérone, celui de million revient le plus fréquemment, -- un mot prestigieux s\'il en fut ! Il le prononce en gonflant ses joues avec une sonorité métallique. On dirait qu\'il bat monnaie rien qu\'en parlant. Si ce ne sont pas des diamants qui s\'échappent de ses lèvres comme de la bouche de ce filleul des fées qui laissait tomber des perles et des émeraudes, ce sont des pièces d\'or.
+
+Et Sébastien Zorn, Pinchinat, Frascolin, Yvernès, vont toujours à travers l\'extraordinaire ville dont la dénomination géographique leur est encore inconnue. Ici des rues animées par le va-et-vient des passants, tous confortablement vêtus, sans que la vue soit jamais offusquée par les haillons d\'un indigent. Partout des trams, des haquets, des camions, mus par l\'électricité. Certaines grandes artères sont pourvues de ces trottoirs mouvants, actionnés par la traction d\'une chaîne sans fin, et sur lesquels les gens se promènent comme ils le feraient dans un train en marche, en participant à son mouvement propre.
+
+Circulent aussi des voitures électriques, roulant sur les chaussées, avec la douceur d\'une bille sur un tapis de billard.
+
+Quant à des équipages, au véritable sens de ce mot, c\'est-à-dire des véhicules traînés par des chevaux, on n\'en rencontre que dans les quartiers opulents.
+
+« Ah ! Voici une église, » dit Frascolin. Et il montre un édifice d\'assez lourde contexture, sans style architectural, une sorte de pâté de Savoie, planté au milieu d\'une place aux verdoyantes pelouses. « C\'est le temple protestant, répond Calistus Munbar en s\'arrêtant devant cette bâtisse.
+
+--- Y a-t-il des églises catholiques dans votre ville ? demande Yvernès.
+
+--- Oui, monsieur. D\'ailleurs, je dois vous faire observer que, bien que l\'on professe environ mille religions différentes sur notre globe, nous nous en tenons ici au catholicisme et au protestantisme. Ce n\'est pas comme en ces États-Unis, désunis par la religion s\'ils ne le sont pas en politique, où il y a autant de sectes que de familles, méthodistes, anglicans, presbytériens, anabaptistes, wesleyens, etc\... Ici, rien que des protestants fidèles à la doctrine calviniste, ou des catholiques romains.
+
+--- Et quelle langue parle-t-on ?
+
+--- L\'anglais et le français sont employés couramment\...
+
+--- Ce dont nous vous félicitons, dit Pinchinat.
+
+--- La ville, reprend Calistus Munbar, est donc divisée en deux sections, à peu près égales. Ici nous sommes dans la section\...
+
+--- Ouest, je pense ? Fait observer Frascolin en s\'orientant sur la position du soleil.
+
+--- Ouest\... Si vous voulez\...
+
+--- Comment\... Si je veux ? réplique le deuxième violon, assez surpris de cette réponse. Est-ce que les points cardinaux de cette cité varient au gré de chacun ?
+
+--- Oui\... Et non\... Dit Calistus Munbar. Je vous expliquerai cela plus tard\... J\'en reviens donc à cette section\... Ouest, si cela vous plaît, qui est uniquement habitée par les protestants, restés, même ici, des gens pratiques, tandis que les catholiques, plus intellectuels, plus raffinés, occupent la section\... Est.
+
+C\'est vous dire que ce temple est le temple protestant.
+
+--- Il en a bien l\'air, observe Yvernès. Avec sa pesante architecture, la prière n\'y doit point être une élévation vers le ciel, mais un écrasement vers la terre\...
+
+--- Belle phrase ! s\'écrie Pinchinat. Monsieur Munbar, dans une ville si modernement machinée, on peut sans doute entendre le prêche ou la messe par le téléphone ?
+
+--- Juste.
+
+--- Et aussi se confesser ?
+
+--- Tout comme on peut se marier par le télautographe, et vous conviendrez que cela est pratique\...
+
+--- À ne pas le croire, monsieur Munbar, répond Pinchinat, à ne pas le croire ! »
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- Le Quatuor Concertant déconcerté]{lang="X-NONE"}]{#_Toc342942368 .pcalibre2 .pcalibre1} {#chapitre-4-le-quatuor-concertant-déconcerté .calibre171 .sigil_not_in_toc}
+
+À onze heures, après une si longue promenade, il est permis d\'avoir faim. Aussi nos artistes abusent-ils de cette permission.
+
+Leurs estomacs crient avec ensemble, et ils s\'accordent sur ce point qu\'il faut à tout prix déjeuner.
+
+C\'est aussi l\'avis de Calistus Munbar, non moins soumis que ses hôtes aux nécessités de la réfection quotidienne. Reviendra-t-on à Excelsior-Hotel ? Oui, car il ne paraît pas que les restaurants soient nombreux en cette ville, où chacun préfère sans doute se confiner en son home et qui ne semble guère être visitée des touristes des deux mondes.
+
+En quelques minutes, un tram transporte ces affamés à leur hôtel et ils s\'assoient devant une table copieusement servie. C\'est là un contraste frappant avec ces repas à l\'américaine, où la multiplicité des mets ne rachète pas leur insuffisance.
+
+Excellente, la viande de boeuf ou de mouton ; tendre et parfumée, la volaille ; d\'une alléchante fraîcheur, le poisson. Puis, au lieu de cette eau glacée des restaurations de l\'Union, des bières variées et des vins que le soleil de France avait distillés dix ans avant sur les coteaux du Médoc et de la Bourgogne.
+
+Pinchinat et Frascolin font honneur à ce déjeuner, à tout le moins autant que Sébastien Zorn et Yvernès\... Il va de soi que Calistus Munbar a tenu à le leur offrir, et ils auraient mauvaise grâce à ne point l\'accepter. D\'ailleurs, ce Yankee, dont la faconde ne tarit pas, déploie une humeur charmante. Il parle de tout ce qui concerne la ville, à l\'exception de ce que ses convives auraient voulu savoir, -- c\'est-à-dire quelle est cette cité indépendante dont il hésite à révéler le nom. Un peu de patience, il le dira, lorsque l\'exploration sera terminée. Son intention serait-elle donc de griser le quatuor dans le but de lui faire manquer l\'heure du train de San-Diégo ? Non, mais on boit sec, après avoir mangé ferme, et le dessert allait s\'achever dans l\'absorption du thé, du café et des liqueurs, lorsqu\'une détonation ébranle les vitres de l\'hôtel.
+
+Qu\'est-ce ? demanda Yvernès en sursautant.
+
+--- Ne vous inquiétez pas, messieurs, répond Calistus Munbar. C\'est le canon de l\'observatoire.
+
+--- S\'il ne sonne que midi, réplique Frascolin en consultant sa montre, j\'affirme qu\'il retarde\...
+
+--- Non, monsieur l\'alto, non ! Le soleil ne retarde pas plus ici qu\'ailleurs ! » Et un singulier sourire relève les lèvres de l\'Américain, ses yeux pétillent sous le binocle, et il se frotte les mains. On serait tenté de croire qu\'il se félicite d\'avoir « fait une bonne farce ». Frascolin, moins émerillonné que ses camarades par la bonne chère, le regarde d\'un oeil soupçonneux, sans trop savoir qu\'imaginer. « Allons, mes amis -- vous me permettrez de vous donner cette sympathique qualification, ajoute-t-il de son air le plus aimable, -- il s\'agit de visiter la seconde section de la ville, et je mourrais de désespoir si un seul détail vous échappait ! Nous n\'avons pas de temps à perdre\...
+
+--- À quelle heure part le train pour San-Diégo ? interroge Sébastien Zorn, toujours préoccupé de ne point manquer à ses engagements par suite d\'arrivée tardive.
+
+--- Oui\... À quelle heure ? Répète Frascolin en insistant.
+
+--- Oh ! Dans la soirée, répond Calistus Munbar en clignant de l\'oeil gauche. Venez, mes hôtes, venez\... Vous ne vous repentirez pas de m\'avoir pris pour guide ! »
+
+Comment désobéir à un personnage si obligeant ? Les quatre artistes quittent la salle d\'Excelsior-Hotel, et déambulent le long de la chaussée. En vérité, il faut que le vin les ait trop généreusement abreuvés, car une sorte de frémissement leur court dans les jambes. Il semble que le sol ait une légère tendance à se dérober sous leurs pas. Et pourtant, ils n\'ont point pris place sur un de ces trottoirs mobiles qui se déplacent latéralement.
+
+« Hé ! Hé ! Soutenons-nous, Chatillon ! s\'écrie Son Altesse titubant.
+
+--- Je crois que nous avons un peu bu ! Réplique Yvernès, qui s\'essuie le front.
+
+--- Bon, messieurs les Parisiens, observe l\'Américain, une fois n\'est pas coutume ! Il fallait arroser votre bienvenue\...
+
+--- Et nous avons épuisé l\'arrosoir ! » réplique Pinchinat, qui en a pris sa bonne part et ne s\'est jamais senti de si belle humeur.
+
+Sous la direction de Calistus Munbar, une rue les conduit à l\'un des quartiers de la deuxième section. En cet endroit, l\'animation est tout autre, l\'allure moins puritaine. On se croirait soudainement transporté des états du Nord de l\'Union dans les états du Sud, de Chicago à la Nouvelle-Orléans, de l\'Illinois à la Louisiane. Les magasins sont mieux achalandés, des habitations d\'une fantaisie plus élégante, des homesteads ou maisons de familles, plus confortables, des hôtels aussi magnifiques que ceux de la section protestante, mais de plus réjouissant aspect. La population diffère également d\'air, de démarche, de tournure.
+
+C\'est à croire que cette cité est double, comme certaines étoiles, à cela près que ces sections ne tournent pas l\'une autour de l\'autre, -- deux villes juxtaposées.
+
+Arrivé à peu près au centre de la section, le groupe s\'arrête vers le milieu de la Quinzième Avenue, et Yvernès de s\'écrier : « Sur ma foi, voici un palais\...
+
+--- Le palais de la famille Coverley, répond Calistus Munbar. Nat Coverley, l\'égal de Jem Tankerdon\...
+
+--- Plus riche que lui ? demande Pinchinat.
+
+--- Tout autant, dit l\'Américain. Un ex-banquier de la Nouvelle-Orléans, qui a plus de centaines de millions que de doigts aux deux mains !
+
+--- Une jolie paire de gants, cher monsieur Munbar !
+
+--- Comme vous le pensez.
+
+--- Et ces deux notables, Jem Tankerdon et Nat Coverley, sont ennemis\... Naturellement ?
+
+--- Des rivaux tout au moins, qui tâchent d\'établir leur prépondérance dans les affaires de la cité, et se jalousent\...
+
+--- Finiront-ils par se manger ? demande Sébastien Zorn.
+
+--- Peut-être\... Et si l\'un dévore l\'autre\...
+
+--- Quelle indigestion ce jour-là ! » répond Son Altesse. Et Calistus Munbar de s\'esclaffer en bedonnant, tant la réponse lui a paru plaisante. L\'église catholique s\'élève sur une vaste place, qui permet d\'en admirer les heureuses proportions. Elle est de style gothique, de ce style qui n\'exige que peu de recul pour être apprécié, car les lignes verticales qui en constituent la beauté, perdent de leur caractère à être vues de loin.
+
+Saint-Mary Church mérite l\'admiration pour la sveltesse de ses pinacles, la légèreté de ses rosaces, l\'élégance de ses ogives flamboyantes, la grâce de ses fenêtres en mains jointes.
+
+« Un bel échantillon du gothique anglo-saxon ! dit Yvernès, qui est très amateur de l\'architectonique. Vous aviez raison, monsieur Munbar, les deux sections de votre ville n\'ont pas plus de ressemblance entre elles que le temple de l\'une et la cathédrale de l\'autre !
+
+--- Et cependant, monsieur Yvernès, ces deux sections sont nées de la même mère\...
+
+--- Mais\... Pas du même père ? Fait observer Pinchinat.
+
+--- Si\... Du même père, mes excellents amis ! Seulement, elles ont été élevées d\'une façon différente. On les a appropriées aux convenances de ceux qui devaient y venir chercher une existence tranquille, heureuse, exempte de tout souci\... Une existence que ne peut offrir aucune cité ni de l\'ancien ni du nouveau continent.
+
+--- Par Apollon, monsieur Munbar, répond Yvernès, prenez garde de trop surexciter notre curiosité ! C\'est comme si vous chantiez une de ces phrases musicales qui laissent longuement désirer la tonique\...
+
+--- Et cela finit par fatiguer l\'oreille ! ajoute Sébastien Zorn.
+
+Voyons, le moment est-il venu où vous consentirez à nous apprendre le nom de cette ville extraordinaire ?
+
+
+--- Avant de continuer, dit Frascolin, qui sent une sorte de vague inquiétude se mêler au sentiment de curiosité, j\'ai une proposition à faire.
+
+--- Et laquelle ?
+
+--- Pourquoi ne monterions-nous pas à la flèche de Saint-Mary Church. De là, nous pourrions voir\...
+
+--- Non pas ! s\'écrie Calistus Munbar, en secouant sa grosse tête ébouriffée\... Pas maintenant\... Plus tard\...
+
+--- Et quand ? demande le violoncelliste, qui commence à s\'agacer de tant de mystérieuses échappatoires.
+
+--- Au terme de notre excursion, monsieur Zorn.
+
+--- Nous reviendrons alors à cette église ?
+
+--- Non, mes amis, et notre promenade se terminera par une visite à l\'observatoire, dont la tour est d\'un tiers plus élevée que la flèche de Saint-Mary Church.
+
+--- Mais enfin, reprend Frascolin en insistant, pourquoi ne pas profiter en ce moment ?
+
+--- Parce que\... Vous me feriez manquer mon effet ! » Et il n\'y a pas moyen de tirer une autre réponse de cet énigmatique personnage. Le mieux étant de se soumettre, les diverses avenues de la deuxième section sort parcourues consciencieusement. Puis on visite les quartiers commerçants, ceux des tailleurs, des bottiers, des chapeliers, des bouchers, des épiciers, des boulangers, des fruitiers, etc. Calistus Munbar, salué de la plupart des personnes qu\'il rencontre, rend ces saluts avec une vaniteuse satisfaction.
+
+Il ne tarit pas en boniments, tel un montreur de phénomènes, et sa langue ne cesse de carillonner comme le battant d\'une cloche un jour de fête. Environ vers deux heures, le quatuor est arrivé de ce côté aux limites de la ville, ceinte d\'une superbe grille, agrémentée de fleurs et de plantes grimpantes. Au-delà s\'étend la campagne, dont la ligne circulaire se confond avec l\'horizon du ciel.
+
+En cet endroit, Frascolin se fait à lui-même une remarque qu\'il ne croit pas devoir communiquer à ses camarades. Tout cela s\'expliquera sans doute au sommet de la tour de l\'observatoire.
+
+Cette remarque porte sur ceci que le soleil, au lieu de se trouver dans le sud-ouest, comme il aurait dû l\'être à deux heures, se trouve dans le sud-est.
+
+Il y a là de quoi étonner un esprit aussi réfléchi que celui de Frascolin, et il commençait à « se matagraboliser la cervelle », comme dit Rabelais, lorsque Calistus Munbar change le cours de ses idées en s\'écriant :
+
+« Messieurs, le tram va partir dans quelques minutes. En route pour le port\...
+
+--- Le port ? réplique Sébastien Zorn\...
+
+--- Oh ! Un trajet d\'un mille tout au plus, -- ce qui vous permettra d\'admirer notre parc ! »
+
+S\'il y a un port, il faut qu\'il soit situé un peu au-dessus ou un peu au-dessous de la ville sur la côte de la Basse-Californie\...
+
+En vérité, où pourrait-il être, si ce n\'est en un point quelconque de ce littoral ?
+
+Les artistes, légèrement ahuris, prennent place sur les banquettes d\'un car élégant, où sont assis déjà plusieurs voyageurs. Ceux-ci serrent la main à Calistus Munbar, -- ce diable d\'homme est connu de tout le monde, -- et les dynamos du tram se livrent à leur fougue locomotrice.
+
+Parc, Calistus Munbar a raison de qualifier ainsi la campagne qui s\'étend autour de la cité. Des allées à perte de vue, des pelouses verdoyantes, des barrières peintes, droites ou en zigzag, nommées fences ; autour des réserves, des bouquets d\'arbres, chênes, érables, hêtres, marronniers, micocouliers, ormes, cèdres, jeunes encore, animés d\'un monde d\'oiseaux de mille espèces. C\'est un véritable jardin anglais, possédant des fontaines jaillissantes, des corbeilles de fleurs alors dans tout l\'épanouissement d\'une fraîcheur printanière, des massifs d\'arbustes où se mélangent les sortes les plus diversifiées, des géraniums géants comme ceux de Monte-Carlo, des orangers, des citronniers, des oliviers, des lauriers-roses, des lentisques, des aloès, des camélias, des dahlias, des rosiers d\'Alexandrie à fleurs blanches, des hortensias, des lotus blancs et rosés, des passiflores du Sud-Amérique, de riches collections de fuchsias, de salvias, de bégonias, de jacinthes, de tulipes, de crocus, de narcisses, d\'anémones, de renoncules de Perse, d\'iris barbatas, de cyclamens, d\'orchidées, des calcéolaires, des fougères arborescentes, et aussi de ces essences spéciales aux zones tropicales, balisiers, palmiers, dattiers, figuiers, eucalyptus, mimosas, bananiers, goyaviers, calebassiers, cocotiers, en un mot, tout ce qu\'un amateur peut demander au plus riche des jardins botaniques. Avec sa propension à évoquer les souvenirs de l\'ancienne poésie, Yvernès doit se croire transporté dans les bucoliques paysages du roman d\'Astrée. Il est vrai, si les moutons ne manquent pas à ces fraîches prairies, si des vaches roussâtres paissent entre les barrières, si des daims, des biches et autres gracieux quadrupèdes de la faune forestière bondissent entre les massifs, ce sont les bergers de D\'Urfé et ses bergères charmantes, dont il y aurait lieu de regretter l\'absence. Quant au Lignon, il est représenté par une Serpentine-river, qui promène ses eaux vivifiantes à travers les vallonnements de cette campagne.
+
+Seulement, tout y semble artificiel. Ce qui provoque l\'ironique Pinchinat à s\'écrier : « Ah çà ! Voilà tout ce que vous avez en fait de rivière ? » Et Calistus Munbar à répondre : « Des rivières ? À quoi bon ?
+
+--- Pour avoir de l\'eau, parbleu !
+
+--- De l\'eau\... C\'est-à-dire une substance généralement malsaine, microbienne et typhoïque ?
+
+--- Soit, mais on peut l\'épurer\...
+
+--- Et pourquoi se donner cette peine, lorsqu\'il est si facile de fabriquer une eau hygiénique, exempte de toute impureté, et même gazeuse ou ferrugineuse au choix\...
+
+--- Vous fabriquez votre eau ? demande Frascolin.
+
+--- Sans doute, et nous la distribuons chaude ou froide à domicile, comme nous distribuons la lumière, le son, l\'heure, la chaleur, le froid, la force motrice, les agents antiseptiques, l\'électrisation par auto-conduction\...
+
+--- Laissez-moi croire alors, réplique Yvernès, que vous fabriquez aussi la pluie pour arroser vos pelouses et vos fleurs ?
+
+--- Comme vous dites\... Monsieur, réplique l\'Américain en faisant scintiller les joyaux de ses doigts à travers les fluescentes touffes de sa barbe.
+
+--- De la pluie sur commande ! s\'écrie Sébastien Zorn.
+
+--- Oui, mes chers amis, de la pluie que des conduites, ménagées dans notre sous-sol, permettent de répandre d\'une façon régulière, réglementaire, opportune et pratique. Est-ce que cela ne vaut pas mieux que d\'attendre le bon plaisir de la nature et de se soumettre aux caprices des climats, que de pester contre les intempéries sans pouvoir y remédier, tantôt une humidité trop persistante, tantôt une sécheresse trop prolongée ?
+
+--- Je vous arrête là, monsieur Munbar, déclare Frascolin. Que vous puissiez produire de la pluie à volonté, soit ! Mais quant à l\'empêcher de tomber du ciel\...
+
+--- Le ciel ? Qu\'a-t-il à faire en tout ceci ?
+
+--- Le ciel, ou, si vous préférez, les nuages qui crèvent, les courants atmosphériques avec leur cortège de cyclones, de tornades, de bourrasques, de rafales, d\'ouragans\... Ainsi, pendant la mauvaise saison, par exemple\...
+
+--- La mauvaise saison ? Répète Calistus Munbar.
+
+--- Oui\... L\'hiver\...
+
+--- L\'hiver ? Qu\'est-ce que c\'est que cela ?
+
+--- On vous dit l\'hiver, les gelées, les neiges, les glaces ! S\'exclame Sébastien Zorn, que les ironiques réponses du Yankee mettent en rage.
+
+--- Connaissons pas ! » répond tranquillement Calistus Munbar. Les quatre Parisiens se regardent. Sont-ils en présence d\'un fou ou d\'un mystificateur ? Dans le premier cas, il faut l\'enfermer ; dans le second, il faut le rosser d\'importance. Cependant les cars du tram filent à petite vitesse au milieu de ces jardins enchantés. À Sébastien Zorn et à ses camarades il semble bien qu\'au-delà des limites de cet immense parc, des pièces de terre, méthodiquement cultivées, étalent leurs colorations diverses, pareilles à ces échantillons d\'étoffes exposés autrefois à la porte des tailleurs.
+
+Ce sont, sans doute, des champs de légumes, pommes de terre, choux, carottes, navets, poireaux, enfin tout ce qu\'exigé la composition d\'un parfait pot-au-feu. Toutefois, il leur tarde d\'être en pleine campagne, où ils pourront reconnaître ce que cette singulière région produit en blé, avoine, maïs, orge, seigle, sarrazin, pamelle et autres céréales. Mais voici qu\'une usine apparaît, ses cheminées de tôle dominant des toits bas, à verrières dépolies. Ces cheminées, maintenues par des étais de fer, ressemblent à celles d\'un steamer en marche, d\'un Great-Eastern dont cent mille chevaux feraient mouvoir les puissantes hélices, avec cette différence qu\'au lieu d\'une fumée noire, il ne s\'en échappe que de légers filets dont les scories n\'encrassent point l\'atmosphère.
+
+Cette usine couvre une surface de dix mille yards carrés, soit près d\'un hectare. C\'est le premier établissement industriel que le quatuor ait vu depuis qu\'il « excursionne », qu\'on nous pardonne ce mot, sous la direction de l\'Américain.
+
+« Eh ! Quel est cet établissement ? demande Pinchinat.
+
+--- C\'est une fabrique, avec appareils évaporatoires au pétrole, répond Calistus Munbar, dont le regard aiguisé menace de perforer les verres de son binocle.
+
+--- Et que fabrique-t-elle, votre fabrique ?
+
+--- De l\'énergie électrique, laquelle est distribuée à travers toute la ville, le parc, la campagne, en produisant force motrice et lumière. En même temps, cette usine alimente nos télégraphes, nos télautographes, nos téléphones, nos téléphotes, nos sonneries, nos fourneaux de cuisine, nos machines ouvrières, nos appareils à arc et à incandescence, nos lunes d\'aluminium, nos câbles sous-marins\...
+
+--- Vos câbles sous-marins ? Observe vivement Frascolin.
+
+--- Oui ! Ceux qui relient la ville à divers points du littoral américain\... -- Et il a été nécessaire de créer une usine de cette importance ?
+
+--- Je le crois bien\... Avec ce que nous dépensons d\'énergie électrique\... Et aussi d\'énergie morale ! Réplique Calistus Munbar.
+
+Croyez, messieurs, qu\'il en a fallu une close incalculable pour fonder cette incomparable cité, sans rivale au monde ! »
+
+On entend les ronflements sourds de la gigantesque usine, les puissantes éructations de sa vapeur, les à-coups de ses machines, les répercussions à la surface du sol, qui témoignent d\'un effort mécanique supérieur à tout ce qu\'a donné jusqu\'ici l\'industrie moderne. Qui aurait pu imaginer que tant de puissance fût nécessaire pour mouvoir des dynamos ou charger des accumulateurs ?
+
+Le tram passe, et, un quart de mille au-delà, vient s\'arrêter à la gare du port. Les voyageurs descendent, et leur guide, toujours débordant de phrases laudatives, les promène sur les quais qui longent les entrepôts et les docks. Ce port forme un ovale suffisant pour abriter une dizaine de navires, pas davantage.
+
+C\'est plutôt une darse qu\'un port, terminée par des jetées, deux piers, supportés sur des armatures de fer, et éclairés par deux feux qui en facilitent l\'entrée aux bâtiments venant du large. Ce jour-là, la darse ne contient qu\'une demi-douzaine de steamers, les uns destinés au transport du pétrole, les autres au transport des marchandises nécessaires à la consommation quotidienne, -- et quelques barques, munies d\'appareils électriques, qui sont employées à la pêche en pleine mer. Frascolin remarque que l\'entrée de ce port est orientée vers le nord, et il en conclut qu\'il doit occuper la partie septentrionale d\'une de ces pointes que le littoral de la Basse-Californie détache sur le Pacifique.
+
+Il constate aussi que le courant marin se propage vers l\'est avec une certaine intensité, puisqu\'il file contre le musoir des piers comme les nappes d\'eau le long des flancs d\'un navire en marche, -- effet dû, sans doute, à l\'action de la marée montante, bien que les marées soient très médiocres sur les côtes de l\'Ouest-Amérique. « Ou est donc le fleuve que nous avons traversé hier soir en ferry-boat ? demande Frascolin.
+
+--- Nous lui tournons le dos, » se contente de répondre le Yankee.
+
+Mais il convient de ne pas s\'attarder, si l\'on veut revenir à la ville, afin d\'y prendre le train du soir pour San-Diégo.
+
+Sébastien Zorn rappelle cette condition à Calistus Munbar, lequel répond : « Ne craignez rien, chers bons amis\... Nous avons le temps\... Un tram va nous ramener à la ville, après avoir suivi le littoral\...
+
+Vous avez désiré avoir une vue d\'ensemble de cette région, et avant une heure, vous l\'aurez du haut de la tour de l\'observatoire.
+
+--- Vous nous assurez ? dit le violoncelliste en insistant.
+
+--- Je vous assure que demain, au lever du soleil, vous ne serez plus où vous êtes en ce moment ! »
+
+Force est d\'accepter cette réponse assez peu explicite.
+
+D\'ailleurs, la curiosité de Frascolin, plus encore que celle de ses camarades, est excitée au dernier point. Il lui tarde de se trouver au sommet de cette tour, d\'où l\'Américain affirme que la vue s\'étend sur un horizon d\'au moins cent milles de circonférence. Après cela, si l\'on n\'est pas fixé au sujet de la position géographique de cette invraisemblable cité, il faudra renoncer à jamais l\'être.
+
+Au fond de la darse s\'amorce une seconde ligne de trams qui longe le bord de la mer. Le tram se compose de six cars, où nombre de voyageurs ont déjà pris place. Ces cars sont traînés par une locomotive électrique, avec accumulateurs d\'une capacité de deux cents ampères-ohms, et leur vitesse atteint de quinze à dix-huit kilomètres.
+
+Calistus Munbar fait monter le quatuor dans le tram, et nos Parisiens purent croire qu\'il n\'attendait qu\'eux pour partir.
+
+Ce qu\'ils voient de la campagne est peu différent du parc qui s\'étend entre la ville et le port. Même sol plat et soigneusement entretenu. De vertes prairies et des champs au lieu de pelouses, voilà tout, champs de légumes, non de céréales. En ce moment, une pluie artificielle, projetée hors des conduites souterraines, retombe en averse bienfaisante sur ces longs rectangles, tracés au cordeau et à l\'équerre.
+
+Le ciel ne l\'eût pas dosée et distribuée d\'une manière plus mathématique et plus opportune.
+
+La voie ferrée suit le littoral, ayant la mer d\'un côté, la campagne de l\'autre. Les cars courent ainsi pendant quatre milles -- cinq kilomètres environ. Puis, ils s\'arrêtent devant une batterie de douze pièces de gros calibre, et dont l\'entrée est indiquée par ces mots : Batterie de l\'Éperon.
+
+« Des canons qui se chargent, mais qui ne se déchargent jamais par la culasse\... Comme tant d\'engins de la vieille Europe ! » fait observer Calistus Munbar.
+
+En cet endroit, la côte est nettement découpée. Il s\'en détache une sorte de cap, très aigu, semblable à la proue d\'une carène de navire, ou même à l\'éperon d\'un cuirassé, sur lequel les eaux se divisent en l\'arrosant de leur écume blanche. Effet de courant, sans doute, car la houle du large se réduit à de longues ondulations qui tendent à diminuer avec le déclin du soleil.
+
+De ce point repart une autre ligne de tramway, qui descend vers le centre, la première ligne continuant à suivre les courbures du littoral.
+
+Calistus Munbar fait changer de ligne à ses hôtes, en leur nnonçant qu\'ils vont revenir directement vers la cité.
+
+La promenade a été suffisante. Calistus Munbar tire sa montre, chef-d\'oeuvre de Sivan, de Genève, -- une montre parlante, une montre phonographique, dont il presse le bouton et qui fait distinctement entendre ces mots : quatre heures treize.
+
+« Vous n\'oubliez pas l\'ascension que nous devons faire à l\'observatoire ? Rappelle Frascolin.
+
+--- L\'oublier, mes chers et déjà vieux amis ! J\'oublierais plutôt mon propre nom, qui jouit de quelque célébrité cependant ! Encore quatre milles, et nous serons devant le magnifique édifice, bâti à l\'extrémité de la Unième Avenue, celle qui sépare les deux sections de notre ville. »
+
+Le tram est parti. Au-delà des champs sur lesquels tombe toujours une pluie « aprèsmidienne », -- ainsi la nommait l\'Américain, -- on retrouve le parc clos de barrières, ses pelouses, ses corbeilles et ses massifs.
+
+Quatre heures et demie sonnent alors. Deux aiguilles indiquent l\'heure sur un cadran gigantesque, à peu près semblable à celui du Parliament-House de Londres, plaqué sur la face d\'une tour quadrangulaire.
+
+Au pied de cette tour sont érigés les bâtiments de l\'observatoire, affectés aux divers services, dont quelques-uns, coiffés de rotondes métalliques à fentes vitrées, permettent aux astronomes de suivre la marche des étoiles. Ils entourent une cour centrale, au milieu de laquelle se dresse la tour haute de cent cinquante pieds. De sa galerie supérieure, le regard peut s\'étendre sur un rayon de vingt-cinq kilomètres, puisque l\'horizon n\'est limité par aucune tumescence, colline ou montagne.
+
+Calistus Munbar, précédant ses hôtes, s\'engage sous une porte que lui ouvre un concierge, vêtu d\'une livrée superbe. Au fond du hall attend la cage de l\'ascenseur, qui se meut électriquement. Le quatuor y prend place avec son guide. La cage s\'élève d\'un mouvement doux et régulier. Quarante-cinq secondes après, elle reste stationnaire au niveau de la plate-forme supérieure de la tour.
+
+Sur cette plate-forme, se dresse la hampe d\'un gigantesque pavillon, dont l\'étamine flotte au souffle d\'une brise du nord.
+
+Quelle nationalité indique ce pavillon ? Aucun de nos Parisiens ne peut le reconnaître. C\'est bien le pavillon américain avec ses raies transversales rouges et blanches ; mais le yacht, au lieu des soixante-sept étoiles qui brillaient au firmament de la Confédération à cette époque, n\'en porte qu\'une seule : une étoile, ou plutôt un soleil d\'or, écartelé sur l\'azur du yacht, et qui semble rivaliser d\'irradiation avec l\'astre du jour.
+
+« Notre pavillon, messieurs, » dit Calistus Munbar en se découvrant par respect.
+
+Sébastien Zorn et ses camarades ne peuvent faire autrement que l\'imiter. Puis, ils s\'avancent sur la plate-forme jusqu\'au parapet, et se penchant\... Quel cri -- de surprise d\'abord, de colère ensuite, -- s\'échappe de leur poitrine ! La campagne entière se développe sous le regard. Cette campagne ne présente qu\'un ovale régulier, circonscrit par un horizon de mer, et, si loin que le regard puisse se porter au large, il n\'y a aucune terre en vue.
+
+Et pourtant, la veille, pendant la nuit, après avoir quitté le village de Freschal dans la voiture de l\'Américain, Sébastien Zorn, Frascolin, Yvernès, Pinchinat, n\'ont pas cessé de suivre la route de terre sur un parcours de deux milles\... Ils ont pris place ensuite avec le char à bancs dans le ferry-boat pour traverser le cours d\'eau\... Puis ils ont retrouvé la terre ferme\... En vérité, s\'ils eussent abandonné le littoral californien pour une navigation quelconque, ils s\'en seraient certainement aperçu\...
+
+Frascolin se retourne vers Calistus Munbar : « Nous sommes dans une île ? demande-t-il.
+
+--- Comme vous le voyez ! répond le Yankee, dont la bouche dessine le plus aimable des sourires.
+
+--- Et quelle est cette île ?
+
+--- Standard-Island.
+
+--- Et cette ville ?
+
+--- Milliard-City. »
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185437 .pcalibre2 .pcalibre1}[]{#_Toc343182976 .pcalibre2 .pcalibre1}[]{#_Toc343180515 .pcalibre2 .pcalibre1}[]{#_Toc343178054 .pcalibre2 .pcalibre1}[]{#_Toc343175593 .pcalibre2 .pcalibre1}[]{#_Toc343173132 .pcalibre2 .pcalibre1}[]{#_Toc343170671 .pcalibre2 .pcalibre1}[]{#_Toc343168210 .pcalibre2 .pcalibre1}[]{#_Toc343165749 .pcalibre2 .pcalibre1}[]{#_Toc343163288 .pcalibre2 .pcalibre1}[]{#_Toc343160827 .pcalibre2 .pcalibre1}[]{#_Toc343158366 .pcalibre2 .pcalibre1}[]{#_Toc343149096 .pcalibre2 .pcalibre1}[]{#_Toc343146635 .pcalibre2 .pcalibre1}[]{#_Toc343144172 .pcalibre2 .pcalibre1}[]{#_Toc343141711 .pcalibre2 .pcalibre1}[]{#_Toc343139250 .pcalibre2 .pcalibre1}[]{#_Toc343136788 .pcalibre2 .pcalibre1}[]{#_Toc343134327 .pcalibre2 .pcalibre1}[]{#_Toc343131866 .pcalibre2 .pcalibre1}[]{#_Toc343129404 .pcalibre2 .pcalibre1}[]{#_Toc343126943 .pcalibre2 .pcalibre1}[]{#_Toc343124479 .pcalibre2 .pcalibre1}[]{#_Toc343122018 .pcalibre2 .pcalibre1}[]{#_Toc343119557 .pcalibre2 .pcalibre1}[]{#_Toc343117103 .pcalibre2 .pcalibre1}[]{#_Toc343114640 .pcalibre2 .pcalibre1}[]{#_Toc343112179 .pcalibre2 .pcalibre1}[]{#_Toc343109718 .pcalibre2 .pcalibre1}[]{#_Toc343105974 .pcalibre2 .pcalibre1}[]{#_Toc343103512 .pcalibre2 .pcalibre1}[]{#_Toc343101049 .pcalibre2 .pcalibre1}[]{#_Toc343098624 .pcalibre2 .pcalibre1}[]{#_Toc343096155 .pcalibre2 .pcalibre1}[]{#_Toc343093693 .pcalibre2 .pcalibre1}[]{#_Toc343091215 .pcalibre2 .pcalibre1}[]{#_Toc343088752 .pcalibre2 .pcalibre1}[]{#_Toc343086290 .pcalibre2 .pcalibre1}[]{#_Toc343083827 .pcalibre2 .pcalibre1}[]{#_Toc343081365 .pcalibre2 .pcalibre1}[]{#_Toc343078904 .pcalibre2 .pcalibre1}[]{#_Toc343076441 .pcalibre2 .pcalibre1}[]{#_Toc343073978 .pcalibre2 .pcalibre1}[]{#_Toc343071512 .pcalibre2 .pcalibre1}[]{#_Toc343043552 .pcalibre2 .pcalibre1}[]{#_Toc343038672 .pcalibre2 .pcalibre1}[]{#_Toc343036307 .pcalibre2 .pcalibre1}[]{#_Toc343033942 .pcalibre2 .pcalibre1}[]{#_Toc343031577 .pcalibre2 .pcalibre1}[]{#_Toc343028021 .pcalibre2 .pcalibre1}[]{#_Toc343025656 .pcalibre2 .pcalibre1}[]{#_Toc343023291 .pcalibre2 .pcalibre1}[]{#_Toc343020925 .pcalibre2 .pcalibre1}[]{#_Toc343018559 .pcalibre2 .pcalibre1}[]{#_Toc343016194 .pcalibre2 .pcalibre1}[]{#_Toc343013829 .pcalibre2 .pcalibre1}[]{#_Toc343011462 .pcalibre2 .pcalibre1}[]{#_Toc343009097 .pcalibre2 .pcalibre1}[]{#_Toc343006732 .pcalibre2 .pcalibre1}[]{#_Toc343004367 .pcalibre2 .pcalibre1}[]{#_Toc343002002 .pcalibre2 .pcalibre1}[]{#_Toc342999637 .pcalibre2 .pcalibre1}[]{#_Toc342997272 .pcalibre2 .pcalibre1}[]{#_Toc342994907 .pcalibre2 .pcalibre1}[]{#_Toc342992542 .pcalibre2 .pcalibre1}[]{#_Toc342990177 .pcalibre2 .pcalibre1}[]{#_Toc342987812 .pcalibre2 .pcalibre1}[]{#_Toc342985445 .pcalibre2 .pcalibre1}[]{#_Toc342983080 .pcalibre2 .pcalibre1}[]{#_Toc342980715 .pcalibre2 .pcalibre1}[]{#_Toc342978350 .pcalibre2 .pcalibre1}[[Chapitre 5 -- Standard-Island et Milliard-City]{lang="X-NONE"}]{#_Toc342942369 .pcalibre2 .pcalibre1} {#chapitre-5-standard-island-et-milliard-city .calibre171 .sigil_not_in_toc}
+
+À cette époque, on attendait encore qu\'un audacieux statisticien, doublé d\'un géographe, eût donné le chiffre exact des îles répandues à la surface du globe. Ce chiffre, il n\'est pas téméraire d\'admettre qu\'il s\'élève à plusieurs milliers. Parmi ces îles, ne s\'en trouvait-il donc pas une seule qui répondit au desideratum des fondateurs de Standard-Island et aux exigences de ses futurs habitants ? Non ! Pas une seule. De là cette idée « américamécaniquement » pratique de créer de toutes pièces une île artificielle, qui serait le dernier mot de l\'industrie métallurgique moderne. Standard-Island, -- qu\'on peut traduire par « l\'île-type », est une île à hélice. Milliard-City est sa capitale. Pourquoi ce nom ?
+
+Évidemment parce que cette capitale est la ville des milliardaires, une cité gouldienne, vanderbiltienne et rotchschildienne. Mais, objectera-t-on, le mot milliard n\'existe pas dans la langue anglaise\... Les Anglo-Saxons de l\'ancien et du nouveau continent ont toujours dit : a thousand millions, mille millions\... Milliard est un mot français\... D\'accord, et, cependant, depuis quelques années, il est passé dans le langage courant de la Grande-Bretagne et des États-Unis -- et c\'est à juste titre qu\'il fut appliqué à la capitale de Standard-Island.
+
+Une île artificielle, c\'est une idée qui n\'a rien d\'extraordinaire en soi. Avec des masses suffisantes de matériaux immergés dans un fleuve, un lac, une mer, il n\'est pas hors du pouvoir des hommes de la fabriquer.
+
+Or, cela n\'eût pas suffi. Eu égard à sa destination, aux exigences qu\'elle devait satisfaire, il fallait que cette île pût se déplacer, et, conséquemment, qu\'elle fût flottante. Là était la difficulté, mais non supérieure à la production des usines où le fer est travaillé, et grâce à des machines d\'une puissance pour ainsi dire infinie.
+
+Déjà, à la fin du XIXe siècle, avec leur instinct du big, leur admiration pour ce qui est « énorme », les Américains avaient formé le projet d\'installer à quelques centaines de lieues au large un radeau gigantesque, mouillé sur ses ancres. C\'eût été, sinon une cité, du moins une station de l\'Atlantique, avec restaurants, hôtels, cercles, théâtres, etc., où les touristes auraient trouvé tous les agréments des villes d\'eaux les plus en vogue. Eh bien, c\'est ce projet qui fut réalisé et complété. Toutefois, au lieu du radeau fixe, on créa l\'île mouvante.
+
+Six ans avant l\'époque où se place le début de cette histoire, une compagnie américaine, sous la raison sociale Standard-Island Company limited, s\'était fondée au capital de cinq cents millions de dollars, divisé en cinq cents parts, pour la fabrication d\'une île artificielle qui offrirait aux nababs des États-Unis les divers avantages dont sont privées les régions sédentaires du globe terrestre. Les parts furent rapidement enlevées, tant les immenses fortunes étaient nombreuses alors en Amérique, qu\'elles provinssent soit de l\'exploitation des chemins de fer, soit des opérations de banque, soit du rendement des sources de pétrole, soit du commerce des porcs salés. Quatre années furent employées à la construction de cette île, dont il convient d\'indiquer les principales dimensions, les aménagements intérieurs, les procédés de locomotion qui lui permettent d\'utiliser la plus belle partie de l\'immense surface de l\'océan Pacifique. Nous donnerons ces dimensions en kilomètres, non en milles, -- le système décimal ayant alors triomphé de l\'inexplicable répulsion qu\'il inspirait jadis à la routine anglo-saxonne.
+
+De ces villages flottants, il en existe en Chine sur le fleuve Yang-tse-Kiang, au Brésil sur le fleuve des Amazones, en Europe sur le Danube. Mais ce ne sont que des constructions éphémères, quelques maisonnettes établies à la surface de longs trains de bois. Arrivé à destination, le train se disloque, les maisonnettes se démontent, le village a vécu.
+
+Or l\'île dont il s\'agit, c\'est tout autre chose : elle devait être lancée sur la mer, elle devait durer\... Ce que peuvent durer les oeuvres sorties de la main de l\'homme.
+
+Et, d\'ailleurs, qui sait si la terre ne sera pas trop petite un jour pour ses habitants dont le nombre doit atteindre près de six milliards en 2072 -- à ce que, d\'après Ravenstein, les savants affirment avec une étonnante précision ? Et ne faudra-t-il pas bâtir sur la mer, alors que les continents seront encombrés ?
+
+Standard-Island est une île en acier, et la résistance de sa coque a été calculée pour l\'énormité du poids qu\'elle est appelée à supporter. Elle est composée de deux cent soixante-dix mille caissons, ayant chacun seize mètres soixante-six de haut sur dix de long et dix de large. Leur surface horizontale représente donc un carré de dix mètres de côté, soit cent mètres de superficie.
+
+Tous ces caissons, boulonnés et rivés ensemble, assignent à l\'île environ vingt-sept millions de mètres carrés, ou vingt-sept kilomètres superficiels. Dans la forme ovale que les constructeurs lui ont donnée, elle mesure sept kilomètres de longueur sur cinq kilomètres de largeur, et son pourtour est de dix-huit kilomètres en chiffres ronds.
+
+La partie immergée de cette coque est de trente pieds, la partie émergeante de vingt pieds. Cela revient à dire que Standard-Island tire dix mètres d\'eau à pleine charge. Il en résulte que son volume se chiffre par quatre cent trente-deux millions de mètres cubes, et son déplacement, soit les trois cinquièmes du volume, par deux cent cinquante-neuf millions de mètres cubes.
+
+Toute la partie des caissons immergée a été recouverte d\'une préparation si longtemps introuvable -- elle a fait un milliardaire de son inventeur, -- qui empêche les gravans et autres coquillages de s\'attacher aux parois en contact avec l\'eau de mer.
+
+Le sous-sol de la nouvelle île ne craint ni les déformations, ni les ruptures, tant les tôles d\'acier de sa coque sont, puissamment maintenues par des entretoises, tant le rivetage et le boulonnage ont été faits sur place avec solidité. Il fallait créer des chantiers spéciaux pour la fabrication de ce gigantesque appareil maritime. C\'est ce que fit la Standard-Island Company, après avoir acquis la baie Madeleine et son littoral, à l\'extrémité de cette longue presqu\'île de la Vieille-Californie, presque à la limite du tropique du Cancer. C\'est dans cette baie que s\'exécuta ce travail, sous la direction des ingénieurs de la Standard-Island Company, ayant pour chef le célèbre William Tersen, mort quelques mois après l\'achèvement de l\'oeuvre, comme Brunnel lors de l\'infructueux lancement de son Great-Eastern. Et cette Standard-Island, est-ce donc autre chose qu\'un Great-Eastern modernisé, et sur un gabarit des milliers de fois plus considérable ?
+
+On le comprend, il ne pouvait être question de lancer l\'île à la surface de l\'Océan. Aussi l\'a-t-on fabriquée par morceaux, par compartiments juxtaposés sur les eaux de la baie Madeleine. Cette portion du rivage américain est devenue le port de relâche de l\'île mouvante, qui vient s\'y encastrer, lorsque des réparations sont nécessaires.
+
+La carcasse de l\'île, sa coque si l\'on veut, formée de ces deux cent soixante-dix mille compartiments, a été, sauf dans la partie réservée à la ville centrale, où ladite coque est extraordinairement renforcée, recouverte d\'une épaisseur de terre végétale. Cet humus suffît aux besoins d\'une végétation restreinte à des pelouses, à des corbeilles de fleurs et d\'arbustes, à des bouquets d\'arbres, à des prairies, à des champs de légumes. Il eût paru peu pratique de demander à ce sol factice de produire des céréales et de pourvoir à l\'entretien des bestiaux de boucherie, qui sont d\'ailleurs l\'objet d\'une importation régulière. Mais il y eut lieu de créer les installations nécessaires, afin que le lait et le produit des basses-cours ne dépendissent pas de ces importations.
+
+Les trois quarts du sol de Standard-Island sont affectés à la végétation, soit vingt et un kilomètres carrés environ, où les gazons du parc offrent une verdure permanente, où les champs, livrés à la culture intensive, abondent en légumes et en fruits, où les prairies artificielles servent de pâtures à quelques troupeaux. Là, d\'ailleurs, l\'électroculture est largement employée, c\'est-à-dire l\'influence de courants continus, qui se manifeste par une accélération extraordinaire et la production de légumes de dimensions invraisemblables, tels des radis de quarante-cinq centimètres, et des carottes de trois kilos.
+
+Jardins, potagers, vergers, peuvent rivaliser avec les plus beaux de la Virginie ou de la Louisiane. Il convient de ne point s\'en étonner : on ne regarde pas à la dépense dans cette île, si justement nommée « le Joyau du Pacifique ».
+
+Sa capitale, Milliard-City, occupe environ le cinquième qui lui a été réservé sur les vingt-sept kilomètres carrés, soit à peu près cinq kilomètres superficiels ou cinq cents hectares, avec une circonférence de neuf kilomètres. Ceux de nos lecteurs qui ont bien voulu accompagner Sébastien Zorn et ses camarades pendant leur excursion, la connaissent assez pour ne point s\'y perdre.
+
+D\'ailleurs, on ne s\'égare pas dans les villes américaines, lorsqu\'elles ont à la fois le bonheur et le malheur d\'être modernes, -- bonheur pour la simplicité des communications urbaines, malheur pour le côté artiste et fantaisiste, qui leur fait absolument défaut. On sait que Milliard-City, de forme ovale, est divisée en deux sections, séparées par une artère centrale, la Unième Avenue, longue d\'un peu plus de trois kilomètres.
+
+L\'observatoire, qui s\'élève à l\'une de ses extrémités, a comme pendant l\'hôtel de ville, dont l\'importante masse se détache à l\'opposé. Là sont centralisés tous les services publics de l\'état civil, des eaux et de la voirie, des plantations et promenades, de la police municipale, de la douane, des halles et marchés, des inhumations, des hospices, des diverses écoles, des cultes et des arts.
+
+Et, maintenant, quelle est la population contenue dans cette circonférence de dix-huit kilomètres ?
+
+La terre, parait-il, compte actuellement douze villes, -- dont quatre en Chine, -- qui possèdent plus d\'un million d\'habitants.
+
+Eh bien, l\'île à hélice n\'en a que dix mille environ, -- rien que des natifs des États-Unis. On n\'a pas voulu que des discussions internationales pussent jamais surgir entre ces citoyens, qui venaient chercher sur cet appareil de fabrication si moderne le repos et la tranquillité. C\'est assez, c\'est trop même qu\'ils ne soient pas, au point de vue de la religion, rangés sous la même bannière. Mais il eût été difficile de réserver aux Yankees du Nord, qui sont les Bâbordais de Standard-Island, ou inversement, aux Américains du Sud, qui en sont les Tribordais, le droit exclusif de fixer leur résidence en cette île. D\'ailleurs, les intérêts de la Standard-Island Company en eussent trop souffert.
+
+Lorsque ce sol métallique est établi, lorsque la partie réservée à la ville est disposée pour être bâtie, lorsque le plan des rues et des avenues est adopté, les constructions commencent à s\'élever, hôtels superbes, habitations plus simples, maisons destinées au commerce de détail, édifices publics, églises et temples, mais point de ces demeures à vingt-sept étages, ces sky-scrapers, c\'est-à-dire « grattoirs de nuages », que l\'on voit à Chicago. Les matériaux en sont à la fois légers et résistants. Le métal inoxydable qui domine dans ces constructions, c\'est l\'aluminium, sept fois moins lourd que le fer à volume égal -- le métal de l\'avenir, comme l\'avait nommé Sainte-Claire Deville, et qui se prête à toutes les nécessités d\'une édification solide. Puis, on y joint la pierre artificielle, ces cubes de ciment qui s\'agencent avec tant de facilités. On fait même usage de ces briques en verre, creusées, soufflées, moulées comme des bouteilles, et réunies par un fin coulis de mortier, briques transparentes, qui, si on le désire, peuvent réaliser l\'idéal de la maison de verre.
+
+Mais, en réalité, c\'est l\'armature métallique qui est surtout employée, comme elle l\'est actuellement dans les divers échantillons de l\'architecture navale. Et Standard-Island, qu\'est-ce autre chose qu\'un immense navire ? Ces diverses propriétés appartiennent à la Standard-Island Company. Ceux qui les habitent n\'en sont que les locataires, quelle que soit l\'importance de leur fortune. En outre, on a pris soin d\'y prévoir toutes les exigences en fait de confort et d\'appropriation, réclamées par ces Américains invraisemblablement riches, auprès desquels les souverains de l\'Europe ou les nababs de l\'Inde ne peuvent faire que médiocre figure.
+
+En effet, si la statistique établit que la valeur du stock de l\'or accumulé dans le monde entier est de dix-huit milliards, et celui de l\'argent de vingt milliards, qu\'on veuille bien se dire que les habitants de ce Joyau du Pacifique en possèdent leur bonne part.
+
+Au surplus, dès le début, l\'affaire s\'est bien présentée du côté financier. Hôtels et habitations se sont loués à des prix fabuleux. Certains de ces loyers dépassent plusieurs millions, et nombre de familles ont pu, sans se gêner, dépenser pareilles sommes à leur location annuelle. D\'où un revenu pour la Compagnie, rien que de ce chef. Avouez que la capitale de Standard-Island justifie le nom qu\'elle porte dans la nomenclature géographique.
+
+Ces opulentes familles mises à part, on en cite quelques centaines dont le loyer va de cent à deux cent mille francs, et qui se contentent de cette situation modeste. Le surplus de la population comprend les professeurs, les fournisseurs, les employés, les domestiques, les étrangers dont le flottement n\'est pas considérable, et qui ne seraient point autorisés à se fixer à Milliard-City ni dans l\'île. D\'avocats, il y en a très peu, ce qui rend les procès assez rares ; de médecins, encore moins, ce qui a fait tomber la mortalité à un chiffre dérisoire. D\'ailleurs, chaque habitant connaît exactement sa constitution, sa force musculaire mesurée au dynamomètre, sa capacité pulmonaire mesurée au spiromètre, sa puissance de contraction du coeur mesurée au sphygmomètre, enfin son degré de force vitale mesurée au magnétomètre. Et puis, dans cette ville, ni bars, ni cafés, ni cabarets, rien qui provoque à l\'alcoolisme. Jamais aucun cas de dipsomanie, disons d\'ivrognerie pour être compris des gens qui ne savent pas le grec. Qu\'on n\'oublie pas, en outre, que les services urbains lui distribuent l\'énergie électrique, lumière, force mécanique et chauffage, l\'air comprimé, l\'air raréfié, l\'air froid, l\'eau sous pression, tout comme les télégrammes pneumatiques et les auditions téléphoniques. Si l\'on meurt, en cette île à hélice, méthodiquement soustraite aux intempéries climatériques, à l\'abri de toutes les influences microbiennes, c\'est qu\'il faut bien mourir, mais après que les ressorts de la vie se sont usés jusque dans une vieillesse de centenaires.
+
+Y a-t-il des soldats à Standard-Island ? Oui ! Un corps de cinq cents hommes sous les ordres du colonel Stewart, car il a fallu prévoir que les parages du Pacifique ne sont pas toujours sûrs.
+
+Aux approches de certains groupes d\'îles, il est prudent de se prémunir contre l\'agression des pirates de toute espèce. Que cette milice ait une haute paie, que chaque homme y touche un traitement supérieur à celui des généraux en chef de la vieille Europe, cela n\'est point pour surprendre. Le recrutement de ces soldats, logés, nourris, habillés aux frais de l\'administration, s\'opère dans des conditions excellentes, sous le contrôle de chefs rentés comme des Crésus. On n\'a que l\'embarras du choix.
+
+Y a-t-il de la police à Standard-Island ? Oui, quelques escouades, et elles suffisent à garantir la sécurité d\'une ville qui n\'a aucun motif d\'être troublée. Une autorisation de l\'administration municipale est nécessaire pour y résider. Les côtes sont gardées par un corps d\'agents de la douane, veillant jour et nuit. On ne peut y débarquer que par les ports. Comment des malfaiteurs s\'y introduiraient-ils ? Quant à ceux qui, par exception, deviendraient des coquins sur place, ils seraient saisis en un tour de main, condamnés, et comme tels, déportés à l\'ouest ou à l\'est du Pacifique, sur quelque coin du nouveau ou de l\'ancien continent, sans possibilité de jamais revenir à Standard-Island.
+
+Nous avons dit : les ports de Standard-Island.
+
+Est-ce donc qu\'il en existe plusieurs ? Oui, deux, situés chacun à l\'extrémité du petit diamètre de l\'ovale que l\'île affecte dans sa forme générale. L\'un est nommé Tribord-Harbour, l\'autre Bâbord-Harbour, conformément aux dénominations en usage dans la marine française.
+
+En effet, en aucun cas, il ne faut avoir à craindre que les importations régulières risquent d\'être interrompues, et elles ne peuvent l\'être, grâce à la création de ces deux ports, d\'orientation opposée. Si, par suite du mauvais temps, l\'un est inabordable, l\'autre est ouvert aux bâtiments, dont le service est ainsi garanti par tous les vents. C\'est par Bâbord-Harbour et Tribord-Harbour que s\'opère le ravitaillement en diverses marchandises, pétrole apporté par des steamers spéciaux, farines et céréales, vins, bières et autres boissons de l\'alimentation moderne, thé, café, chocolat, épiceries, conserves, etc. Là, arrivent aussi les boeufs, les moutons, les porcs des meilleurs marchés de l\'Amérique, et qui assurent la consommation de la viande fraîche, enfin tout ce qu\'il faut au plus difficile des gourmets en fait d\'articles comestibles. Là aussi s\'importent les étoffes, la lingerie, les modes, telles que peut l\'exiger le dandy le plus raffiné ou la femme la plus élégante. Ces objets, on les achète chez les fournisseurs de Milliard-City, -- à quel prix, nous n\'osons le dire, de crainte d\'exciter l\'incrédulité du lecteur. Cela admis, on se demandera comment le service des steamers s\'établit régulièrement entre le littoral américain et une île à hélice qui de sa nature est mouvante, -- un jour dans tels parages, un autre à quelque vingt milles de là ?
+
+La réponse est très simple. Standard-Island ne va point à l\'aventure. Son déplacement se conforme au programme arrêté par l\'administration supérieure, sur avis des météorologistes de l\'observatoire. C\'est une promenade, susceptible cependant de quelques modifications, à travers cette partie du Pacifique, qui contient les plus beaux archipels, et en évitant, autant que possible, ces à-coups de froid et de chaud, cause de tant d\'affections pulmonaires. C\'est ce qui a permis à Calistus Munbar de répondre au sujet de l\'hiver : « Connaissons pas ! » Standard-Island n\'évolue qu\'entre le trente-cinquième parallèle au nord et le trente-cinquième parallèle au sud de l\'équateur. Soixante-dix degrés à parcourir, soit environ quatorze cents lieues marines, quel magnifique champ de navigation ! Les navires savent donc toujours où trouver le Joyau du Pacifique, puisque son déplacement est réglementé d\'avance entre les divers groupes de ces îles délicieuses, qui forment comme autant d\'oasis sur le désert de l\'immense Océan. Eh bien, même en pareil cas, les navires ne sont pas réduits à chercher au hasard le gisement de Standard-Island. Et pourtant, la Compagnie n\'a point voulu recourir aux vingt-cinq câbles, longs de seize mille milles, que possède l\'Eastern Extension Australasia and China Co. Non ! L\'île à hélice ne veut dépendre de personne.
+
+Aussi a-t-il suffi de disposer à la surface de ces mers quelques centaines de bouées qui supportent l\'extrémité de câbles électriques reliés avec Madeleine-bay. On accoste ces bouées, on rattache le fil aux appareils de l\'observatoire, on lance des dépêches, et les agents de la baie sont toujours informés de la position en longitude et en latitude de Standard-Island. Il en résulte que le service des navires d\'approvisionnement se fait avec une régularité railwayenne.
+
+Il est pourtant une importante question qui vaut la peine d\'être élucidée.
+
+Et l\'eau douce, comment se la procure-t-on pour les multiples besoins de l\'île ?
+
+L\'eau ? On la fabrique par distillation dans deux usines spéciales voisines des ports. Des conduites l\'amènent aux habitations ou la promènent sous les couches de la campagne.
+
+Elle sert ainsi à tous les services domestiques et de voirie, et retombe en pluie bienfaisante sur les champs et les pelouses, qui ne sont plus soumis aux caprices du ciel. Et non seulement cette eau est douce, mais elle est distillée, électrolysée, plus hygiénique que les plus pures sources des deux continents, dont une goutte de la grosseur d\'une tête d\'épingle peut renfermer quinze milliards de microbes.
+
+Il reste à dire dans quelles conditions s\'effectue le déplacement de ce merveilleux appareil. Une grande vitesse ne lui est pas nécessaire, puisque, en six mois, il ne doit pas quitter les parages compris entre les tropiques, d\'une part, et entre les cent trentième et cent quatre-vingtième méridiens, de l\'autre. Quinze à vingt milles par vingt-quatre heures, Standard-Island n\'en demande pas davantage. Or, ce déplacement, il eût été aisé de l\'obtenir au moyen d\'un touage, en établissant un câble fait de cette plante indienne qu\'on nomme bastin, à la fois résistant et léger, qui eût flotté entre deux eaux de manière à ne point se couper aux fonds sous-marins. Ce câble se serait enroulé, aux deux extrémités de l\'île, sur des cylindres mus par la vapeur, et Standard-Island se fût touée à l\'aller et au retour, comme ces bateaux qui remontent ou descendent certains fleuves. Mais ce câble aurait dû être d\'une grosseur énorme pour une pareille masse, et il eût été sujet à nombre d\'avaries. C\'était la liberté enchaînée, c\'était l\'obligation de suivre l\'imperturbable ligne du touage, et, quand il s\'agit de liberté, les citoyens de la libre Amérique sont d\'une superbe intransigeance.
+
+À cette époque, très heureusement, les électriciens ont poussé si loin leurs progrès, que l\'on a pu tout demander à l\'électricité, cette âme de l\'Univers. C\'est donc à elle qu\'est confiée la locomotion de l\'île. Deux usines suffisent à faire mouvoir des dynamos d\'une puissance pour ainsi dire infinie, fournissant l\'énergie électrique à courant continu sous un voltage modéré de deux mille volts. Ces dynamos actionnent un puissant système d\'hélices placées à proximité des deux ports. Elles développent chacune cinq millions de chevaux-vapeur, grâce à leurs centaines de chaudières chauffées avec ces briquettes de pétrole, moins encombrantes, moins encrassantes que la houille, et plus riches en calorique. Ces usines sont dirigées par les deux ingénieurs en chef, MM. Watson et Somwah, aidés d\'un nombreux personnel de mécaniciens et de chauffeurs, sous le commandement supérieur du commodore Ethel Simcoë. De sa résidence à l\'observatoire, le commodore est en communication téléphonique avec les usines, établies, l\'une près de Tribord-Harbour, l\'autre près de Bâbord-Harbour. C\'est par lui que sont envoyés les instructions de marche et de contremarche, suivant l\'itinéraire déterminé. C\'est de là qu\'est parti, dans la nuit du 25 au 26, l\'ordre d\'appareillage de Standard-Island, qui se trouvait dans le voisinage de la côte californienne au début de sa campagne annuelle.
+
+Ceux de nos lecteurs qui voudront bien, par la pensée, s\'y embarquer de confiance, assisteront aux diverses péripéties de ce voyage à la surface du Pacifique, et peut-être n\'auront-ils pas lieu de le regretter.
+
+Disons maintenant que la vitesse maximum de Standard-Island, lorsque ses machines développent leurs dix millions de chevaux, peut atteindre huit noeuds à l\'heure. Les plus puissantes lames, quand quelque coup de vent les soulève, n\'ont pas de prise sur elle. Par sa grandeur, elle échappe aux ondulations de la houle.
+
+Le mal de mer n\'y est point à craindre. Les premiers jours « à bord », c\'est à peine si l\'on ressent le léger frémissement que la rotation des hélices imprime à son sous-sol.
+
+Terminée en éperons d\'une soixantaine de mètres à l\'avant et à l\'arrière, divisant les eaux sans effort, elle parcourt sans secousses le vaste champ liquide offert à ses excursions.
+
+Il va de soi que l\'énergie électrique, fabriquée par les deux usines, reçoit d\'autres applications que la locomotion de Standard-Island. C\'est elle qui éclaire la campagne, le parc, la cité. C\'est elle qui engendre derrière la lentille des phares cette intense source lumineuse, dont les faisceaux, projetés au large, signalent de loin la présence de l\'île à hélice et préviennent toute chance de collision. C\'est elle qui fournit les divers courants utilisés par les services télégraphiques, téléphotiques, télautographiques, téléphoniques, pour les besoins des maisons particulières et des quartiers du commerce. C\'est elle enfin qui alimente ces lunes factices, d\'un pouvoir égal chacune à cinq mille bougies, qui peuvent éclairer une surface de cinq cents mètres superficiels.
+
+À cette époque, cet extraordinaire appareil marin en est à sa deuxième campagne à travers le Pacifique. Un mois avant, il avait abandonné Madeleine-bay en remontant vers le trente-cinquième parallèle, afin de reprendre son itinéraire à la hauteur des îles Sandwich. Or, il se trouvait le long de la côte de la Basse-Californie, lorsque Calistus Munbar, ayant appris par les communications téléphoniques que le Quatuor Concertant, après avoir quitté San-Francisco, se dirigeait vers San-Diégo, proposa de s\'assurer le concours de ces éminents artistes. On sait de quelle façon il procéda à leur égard, comment il les embarqua sur l\'île à hélice, laquelle stationnait alors à quelques encablures du littoral, et comment, grâce à ce tour pendable, la musique de chambre allait charmer les dilettanti de Milliard-City.
+
+Telle est cette neuvième merveille du monde, ce chef-d\'oeuvre du génie humain, digne du vingtième siècle, dont deux violons, un alto et un violoncelle sont actuellement les hôtes, et que Standard-Island emporte vers les parages occidentaux de l\'Océan Pacifique.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185438 .pcalibre2 .pcalibre1}[]{#_Toc343182977 .pcalibre2 .pcalibre1}[]{#_Toc343180516 .pcalibre2 .pcalibre1}[]{#_Toc343178055 .pcalibre2 .pcalibre1}[]{#_Toc343175594 .pcalibre2 .pcalibre1}[]{#_Toc343173133 .pcalibre2 .pcalibre1}[]{#_Toc343170672 .pcalibre2 .pcalibre1}[]{#_Toc343168211 .pcalibre2 .pcalibre1}[]{#_Toc343165750 .pcalibre2 .pcalibre1}[]{#_Toc343163289 .pcalibre2 .pcalibre1}[]{#_Toc343160828 .pcalibre2 .pcalibre1}[]{#_Toc343158367 .pcalibre2 .pcalibre1}[]{#_Toc343149097 .pcalibre2 .pcalibre1}[]{#_Toc343146636 .pcalibre2 .pcalibre1}[]{#_Toc343144173 .pcalibre2 .pcalibre1}[]{#_Toc343141712 .pcalibre2 .pcalibre1}[]{#_Toc343139251 .pcalibre2 .pcalibre1}[]{#_Toc343136789 .pcalibre2 .pcalibre1}[]{#_Toc343134328 .pcalibre2 .pcalibre1}[]{#_Toc343131867 .pcalibre2 .pcalibre1}[]{#_Toc343129405 .pcalibre2 .pcalibre1}[]{#_Toc343126944 .pcalibre2 .pcalibre1}[]{#_Toc343124480 .pcalibre2 .pcalibre1}[]{#_Toc343122019 .pcalibre2 .pcalibre1}[]{#_Toc343119558 .pcalibre2 .pcalibre1}[]{#_Toc343117104 .pcalibre2 .pcalibre1}[]{#_Toc343114641 .pcalibre2 .pcalibre1}[]{#_Toc343112180 .pcalibre2 .pcalibre1}[]{#_Toc343109719 .pcalibre2 .pcalibre1}[]{#_Toc343105975 .pcalibre2 .pcalibre1}[]{#_Toc343103513 .pcalibre2 .pcalibre1}[]{#_Toc343101050 .pcalibre2 .pcalibre1}[]{#_Toc343098625 .pcalibre2 .pcalibre1}[]{#_Toc343096156 .pcalibre2 .pcalibre1}[]{#_Toc343093694 .pcalibre2 .pcalibre1}[]{#_Toc343091216 .pcalibre2 .pcalibre1}[]{#_Toc343088753 .pcalibre2 .pcalibre1}[]{#_Toc343086291 .pcalibre2 .pcalibre1}[]{#_Toc343083828 .pcalibre2 .pcalibre1}[]{#_Toc343081366 .pcalibre2 .pcalibre1}[]{#_Toc343078905 .pcalibre2 .pcalibre1}[]{#_Toc343076442 .pcalibre2 .pcalibre1}[]{#_Toc343073979 .pcalibre2 .pcalibre1}[]{#_Toc343071513 .pcalibre2 .pcalibre1}[]{#_Toc343043553 .pcalibre2 .pcalibre1}[]{#_Toc343038673 .pcalibre2 .pcalibre1}[]{#_Toc343036308 .pcalibre2 .pcalibre1}[]{#_Toc343033943 .pcalibre2 .pcalibre1}[]{#_Toc343031578 .pcalibre2 .pcalibre1}[]{#_Toc343028022 .pcalibre2 .pcalibre1}[]{#_Toc343025657 .pcalibre2 .pcalibre1}[]{#_Toc343023292 .pcalibre2 .pcalibre1}[]{#_Toc343020926 .pcalibre2 .pcalibre1}[]{#_Toc343018560 .pcalibre2 .pcalibre1}[]{#_Toc343016195 .pcalibre2 .pcalibre1}[]{#_Toc343013830 .pcalibre2 .pcalibre1}[]{#_Toc343011463 .pcalibre2 .pcalibre1}[]{#_Toc343009098 .pcalibre2 .pcalibre1}[]{#_Toc343006733 .pcalibre2 .pcalibre1}[]{#_Toc343004368 .pcalibre2 .pcalibre1}[]{#_Toc343002003 .pcalibre2 .pcalibre1}[]{#_Toc342999638 .pcalibre2 .pcalibre1}[]{#_Toc342997273 .pcalibre2 .pcalibre1}[]{#_Toc342994908 .pcalibre2 .pcalibre1}[]{#_Toc342992543 .pcalibre2 .pcalibre1}[]{#_Toc342990178 .pcalibre2 .pcalibre1}[]{#_Toc342987813 .pcalibre2 .pcalibre1}[]{#_Toc342985446 .pcalibre2 .pcalibre1}[]{#_Toc342983081 .pcalibre2 .pcalibre1}[]{#_Toc342980716 .pcalibre2 .pcalibre1}[]{#_Toc342978351 .pcalibre2 .pcalibre1}[[Chapitre 6 -- Invités\... I nvi ti]{lang="X-NONE"}]{#_Toc342942370 .pcalibre2 .pcalibre1} {#chapitre-6-invités...-i-nvi-ti .calibre171 .sigil_not_in_toc}
+
+À supposer que Sébastien Zorn, Frascolin, Yvernès, Pinchinat eussent été gens à ne s\'étonner de rien, il leur eût été difficile de ne point s\'abandonner à un légitime accès de colère en sautant à la gorge de Calistus Munbar. Avoir toutes les raisons de penser que l\'on foule du pied le sol de l\'Amérique septentrionale et être transporté en plein Océan ! se croire à quelque vingt milles de San-Diégo, où l\'on est attendu le lendemain pour un concert, et apprendre brutalement qu\'on s\'en éloigne à bord d\'une île artificielle, flottante et mouvante ! Au vrai, cet accès eût été bien excusable.
+
+Par bonheur pour l\'Américain, il s\'est mis à l\'abri de ce premier coup de boutoir. Profitant de la surprise, disons de l\'hébétement dans lequel est tombé le quatuor, il quitte la plate-forme de la tour, prend l\'ascenseur, et il est, pour le moment, hors de portée des récriminations et des vivacités des quatre Parisiens.
+
+« Quel gueux ! s\'écrie le violoncelle.
+
+--- Quel animal ! s\'écrie l\'alto.
+
+--- Hé ! Hé ! Si, grâce à lui, nous sommes témoins de merveilles\... Dit simplement le violon solo.
+
+--- Vas-tu donc l\'excuser ? répond le second violon.
+
+--- Pas d\'excuse, réplique Pinchinat, et s\'il y a une justice à Standard-Island, nous le ferons condamner, ce mystificateur de Yankee !
+
+--- Et s\'il y a un bourreau, hurle Sébastien Zorn, nous le ferons pendre ! » Or, pour obtenir ces divers résultats, il faut d\'abord redescendre au niveau des habitants de Milliard-City, la police ne fonctionnant pas à cent cinquante pieds dans les airs. Et cela sera fait en peu d\'instants, si la descente est possible. Mais la cage de l\'ascenseur n\'a point remonté, et il n\'y a rien qui ressemble à un escalier. Au sommet de cette tour, le quatuor se trouve donc sans communication avec le reste de l\'humanité. Après leur premier épanchement de dépit et de colère, Sébastien Zorn, Pinchinat, Frascolin, abandonnant Yvernès à ses admirations, sont demeurés silencieux et finissent par rester immobiles. Au-dessus d\'eux, l\'étamine du pavillon se déploie le long de la hampe.
+
+Sébastien Zorn éprouve une envie féroce d\'en couper la drisse, de l\'abaisser comme le pavillon d\'un bâtiment qui amène ses couleurs.
+
+Mais mieux vaut ne point s\'attirer quelque mauvaise affaire, et ses camarades le retiennent au moment où sa main brandit un bowie-knife bien affilé. « Ne nous mettons pas dans notre tort, fait observer le sage Frascolin.
+
+--- Alors\... Tu acceptes la situation ? demande Pinchinat.
+
+--- Non\... Mais ne la compliquons pas.
+
+--- Et nos bagages qui filent sur San-Diégo ! Remarque Son Altesse en se croisant les bras.
+
+--- Et notre concert de demain ! s\'écrie Sébastien Zorn.
+
+--- Nous le donnerons par téléphone ! » répond le premier violon, dont la plaisanterie n\'est pas pour calmer l\'irascibilité du bouillant violoncelliste. L\'observatoire, on ne l\'a pas oublié, occupe le milieu d\'un vaste square, auquel aboutit la Unième Avenue. À l\'autre extrémité de cette principale artère, longue de trois kilomètres, qui sépare les deux sections de Milliard-City, les artistes peuvent apercevoir une sorte de palais monumental, surmonté d\'un beffroi de construction très légère et très élégante. Ils se dirent que là doit être le siège du gouvernement, la résidence de la municipalité, en admettant que Milliard-City ait un maire et des adjoints. Ils ne se trompent pas. Et, précisément, l\'horloge de ce beffroi commence à lancer un joyeux carillon, dont les notes arrivent jusqu\'à la tour avec les dernières ondulations de la brise.
+
+« Tiens ! C\'est en ré majeur, dit Yvernès.
+
+--- Et à deux quatre, » dit Pinchinat. Le beffroi sonne cinq heures.
+
+« Et dîner, s\'écrie Sébastien Zorn, et coucher ? Est-ce que, par la faute de ce misérable Munbar, nous allons passer la nuit sur cette plate-forme, à cent cinquante pieds en l\'air ? »
+
+C\'est à craindre, si l\'ascenseur ne vient pas offrir aux prisonniers le moyen de quitter leur prison.
+
+En effet, le crépuscule est court sous ces basses latitudes, et l\'astre radieux tombe comme un projectile à l\'horizon. Les regards que le quatuor jette jusqu\'aux extrêmes limites du ciel, n\'embrassent qu\'une mer déserte, sans une voile, sans une fumée. À travers la campagne circulent des trams courant à la périphérie de l\'île ou desservant les deux ports. À cette heure, le parc est encore dans toute son animation. Du haut de la tour, on dirait une immense corbeille de fleurs, où s\'épanouissent les azalées, les clématites, les jasmins, les glycines, les passiflores, les bégonias, les salvias, les jacinthes, les dahlias, les camélias, des roses de cent espèces. Les promeneurs affluent, -- des hommes faits, des jeunes gens, non point de ces « petits vernis » qui sont la honte des grandes cités européennes, mais des adultes vigoureux et bien constitués. Des femmes et des jeunes filles, la plupart en toilettes jaune-paille, ce ton préféré sous les zones torrides, promènent de jolies levrettes à paletots de soie et à jarretières galonnées d\'or. Ça et là, cette gentry suit les allées de sable fin, capricieusement dessinées entre les pelouses. Ceux-ci sont étendus sur les coussins des cars électriques, ceux-là sont assis sur les bancs abrités de verdure. Plus loin de jeunes gentlemen se livrent aux exercices du tennis, du crocket, du golf, du football, et aussi du polo, montés sur d\'ardents poneys. Des bandes d\'enfants, -- de ces enfants américains d\'une exubérance étonnante, chez lesquels l\'individualisme est si précoce, les petites filles surtout, -- jouent sur les gazons. Quelques cavaliers chevauchent des pistes soigneusement entretenues, et d\'autres luttent dans d\'émouvants garden-partys.
+
+Les quartiers commerçants de la ville sont encore fréquentés à cette heure. Les trottoirs mobiles se déroulent avec leur charge le long des principales artères. Au pied de la tour, dans le square de l\'observatoire, se produit une allée et venue de passants dont les prisonniers ne seraient pas gênés d\'attirer l\'attention. Aussi, à plusieurs reprises, Pinchinat et Frascolin poussent-ils de retentissantes clameurs. Pour être entendus, ils le sont, car des bras se tendent vers eux, des paroles même s\'élèvent jusqu\'à leur oreille. Mais aucun geste de surprise. On ne paraît point s\'étonner du groupe sympathique qui s\'agite sur la plate-forme. Quant aux paroles, elles consistent en good-bye, en how do you do, en bonjours et autres formules empreintes d\'amabilité et de politesse. On dirait que la population milliardaise est informée de l\'arrivée des quatre Parisiens à Standard-Island, dont Calistus Munbar leur a fait les honneurs.
+
+« Ah ça ! Ils se fichent de nous ! dit Pinchinat.
+
+--- Ça m\'en a tout l\'air ! » réplique Yvernès. Une heure s\'écoule, -- une heure pendant laquelle les appels ont été inutiles. Les invitations pressantes de Frascolin n\'ont pas plus de succès que les invectives multipliées de Sébastien Zorn. Et, le moment du dîner approchant, le parc commence à se vider de ses promeneurs, les rues des oisifs qui les parcourent. Cela devient enrageant, à la fin !
+
+« Sans doute, dit Yvernès, en évoquant de romanesques souvenirs, nous ressemblons à ces profanes qu\'un mauvais génie a attirés dans une enceinte sacrée, et qui sont condamnés à périr pour avoir vu ce que leurs yeux ne devaient pas voir\...
+
+--- Et on nous laisserait succomber aux tortures de la faim ! répond Pinchinat.
+
+--- Ce ne sera pas du moins avant d\'avoir épuisé tous les moyens de prolonger notre existence ! s\'écrie Sébastien Zorn.
+
+--- Et s\'il faut en venir à nous manger les uns les autres\... On donnera le numéro un à Yvernès ! dit Pinchinat.
+
+--- Quand il vous plaira ! » soupire le premier violon d\'une voix attendrie, en courbant la tête pour recevoir le coup mortel.
+
+En ce moment, un bruit se fait entendre dans les profondeurs de la tour. La cage de l\'ascenseur remonte, s\'arrête au niveau de la plate-forme. Les prisonniers, à l\'idée de voir apparaître Calistus Munbar, s\'apprêtent à l\'accueillir comme il le mérite\...
+
+La cage est vide. Soit ! Ce ne sera que partie remise. Les mystifiés sauront retrouver le mystificateur. Le plus pressé est de redescendre à son niveau, et le moyen tout indiqué, c\'est de prendre place dans l\'appareil. C\'est ce qui est fait. Dès que le violoncelliste et ses camarades sont dans la cage, elle se met en mouvement, et, en moins d\'une minute, elle atteint le rez-de-chaussée de la tour. « Et dire, s\'écrie Pinchinat en frappant du pied, que nous ne sommes pas sur un sol naturel ! »
+
+Que l\'instant est bien choisi pour émettre de pareilles calembredaines ! Aussi ne lui répond-on pas. La porte est ouverte.
+
+Ils sortent tous les quatre. La cour intérieure est déserte. Tous les quatre ils la traversent et suivent les allées du square.
+
+Là, va-et-vient de quelques personnes, qui ne paraissent prêter aucune attention à ces étrangers. Sur une observation de Frascolin, qui recommande la prudence, Sébastien Zorn doit renoncer à des récriminations intempestives. C\'est aux autorités qu\'il convient de demander justice. Il n\'y a pas péril en la demeure. Regagner Excelsior-Hotel, attendre au lendemain pour faire valoir les droits d\'hommes libres, c\'est ce qui fut décidé, et le quatuor s\'engage pédestrement le long de la Unième Avenue.
+
+Ces Parisiens ont-ils, au moins, le privilège d\'attirer l\'attention publique ? Oui et non. On les regarde, mais sans y mettre trop d\'insistance, -- peut-être comme s\'ils étaient de ces rares touristes qui visitent parfois Milliard-City. Eux, sous l\'empire de circonstances assez extraordinaires, ne se sentent pas très à l\'aise, et se figurent qu\'on les dévisage plus qu\'on ne le fait réellement. D\'autre part, qu\'on ne s\'étonne pas s\'ils leur paraissent être d\'une nature bizarre, ces mouvants insulaires, ces gens volontairement séparés de leurs semblables, errant à la surface du plus grand des océans de notre sphéroïde. Avec un peu d\'imagination, on pourrait croire qu\'ils appartiennent à une autre planète du système solaire. C\'est l\'avis d\'Yvernès, que son esprit surexcité entraîne vers les mondes imaginaires. Quant à Pinchinat, il se contente de dire :
+
+« Tous ces passants ont l\'air très millionnaire, ma foi, et me font l\'effet d\'avoir une petite hélice au bas des reins comme leur île. »
+
+Cependant la faim s\'accentue. Le déjeuner est loin déjà, et l\'estomac réclame son dû quotidien. Il s\'agit donc de regagner au plus vite Excelsior-Hotel. Dès le lendemain, on commencera les démarches convenues, tendant à se faire reconduire à San-Diégo par un des steamers de Standard-Island, après paiement d\'une indemnité dont Calistus Munbar devra supporter la charge, comme de juste.
+
+Mais voici qu\'en suivant la Unième Avenue, Frascolin s\'arrête devant un somptueux édifice, au fronton duquel s\'étale en lettres d\'or cette inscription : Casino. À droite de la superbe arcade qui surmonte la porte principale, une restauration laisse apercevoir, à travers ses glaces enjolivées d\'arabesques, une série de tables dont quelques-unes sont occupées par des dîneurs, et autour desquels circule un nombreux personnel.
+
+« Ici l\'on mange ! » dit le deuxième violon, en consultant du regard ses camarades affamés.
+
+Ce qui lui vaut cette laconique réponse de Pinchinat :
+
+« Entrons ! »
+
+Et ils entrent dans le restaurant à la file l\'un de l\'autre. On ne semble pas trop remarquer leur présence dans cet établissement épulatoire, d\'habitude fréquenté par les étrangers. Cinq minutes après, nos affamés attaquent à belles dents les premiers plats d\'un excellent dîner dont Pinchinat a réglé le menu, et il s\'y entend. Très heureusement le porte-monnaie du quatuor est bien garni, et, s\'il se vide à Standard-Island, quelques recettes à San-Diégo ne tarderont pas à le remplir.
+
+Excellente cuisine, très supérieure à celle des hôtels de New-York ou de San-Francisco, faite sur des fourneaux électriques également propres aux feux doux et aux feux ardents. Avec la soupe aux huîtres conservées, les fricassées de grains de maïs, le céleri cru, les gâteaux de rhubarbe, qui sont traditionnels, se succèdent des poissons d\'une extrême fraîcheur, des rumsteaks d\'un tendre incomparable, du gibier provenant sans doute des prairies et forêts californiennes, des légumes dus aux cultures intensives de l\'île. Pour boisson, non point de l\'eau glacée à la mode américaine, mais des bières variées et des vins que les vignobles de la Bourgogne, du Bordelais et du Rhin ont versés dans les caves de Milliard-City, à de hauts prix, on peut le croire.
+
+Ce menu ragaillardit nos Parisiens. Le cours de leurs idées s\'en ressent. Peut-être voient-ils sous un jour moins sombre l\'aventure où ils sont engagés. On ne l\'ignore pas, les musiciens d\'orchestre boivent sec. Ce qui est naturel chez ceux qui dépensent leur souffle à chasser les ondes sonores à travers les instruments à vent, est moins excusable chez ceux qui jouent des instruments à cordes. N\'importe ! Yvernès, Pinchinat, Frascolin lui-même commencent à voir la vie en rose et même couleur d\'or dans cette cité de milliardaires. Seul, Sébastien Zorn, tout en tenant tête à ses camarades, ne laisse pas sa colère se noyer dans les crus originaires de France.
+
+Bref, le quatuor est assez remarquablement « parti », comme on dit dans l\'ancienne Gaule, lorsque l\'heure est venue de demander l\'addition. C\'est au caissier Frascolin qu\'elle est remise par un maître d\'hôtel en habit noir.
+
+Le deuxième violon jette les yeux sur le total, se lève, se rassied, se relève, se frotte les paupières, regarde le plafond.
+
+« Qu\'est-ce qui te prend ? demande Yvernès.
+
+--- Un frisson des pieds à la tête ! répond Frascolin.
+
+--- C\'est cher ?
+
+--- Plus que cher\... Nous en avons pour deux cents francs\...
+
+--- À quatre ?
+
+--- Non\... Chacun. En effet, cent soixante dollars, ni plus ni moins, -- et, comme détail, la note compte les grooses à quinze dollars, le poisson à vingt dollars, les rumsteaks à vingt-cinq dollars, le médoc et le bourgogne à trente dollars la bouteille, -- le reste à l\'avenant. « Fichtre ! s\'écrie Son Altesse.
+
+--- Les voleurs ! » s\'écrie Sébastien Zorn. Ces propos, échangés en français, ne sont pas compris du superbe maître d\'hôtel.
+
+Néanmoins, ce personnage se doute quelque peu de ce qui se passe.
+
+Mais, si un léger sourire se dessine sur ses lèvres, c\'est le sourire de la surprise, non celui du dédain. Il lui semble tout naturel qu\'un dîner à quatre coûte cent soixante dollars. Ce sont les prix de Standard-Island. « Pas de scandale ! dit Pinchinat. La France nous regarde ! Payons\...
+
+--- Et n\'importe comment, réplique Frascolin, en route pour San-Diégo. Après demain, nous n\'aurions plus de quoi acheter une sandwiche ! »
+
+Cela dit, il prend son portefeuille, il en tire un nombre respectable de dollars-papiers, qui, par bonheur, ont cours à Milliard-City, et il allait les remettre au maître d\'hôtel, lorsqu\'une voix se fait entendre :
+
+« Ces messieurs ne doivent rien. » C\'est la voix de Calistus Munbar.
+
+Le Yankee vient d\'entrer dans la salle, épanoui, souriant, suant la bonne humeur, comme d\'habitude. « Lui ! s\'écrie Sébastien Zorn, qui se sent l\'envie de le prendre à la gorge et de le serrer comme il serre le manche de son violoncelle dans les forte.
+
+
+--- Je vous étranglerai ! Réplique Sébastien Zorn.
+
+--- Non\... Vous me baiserez les mains\...
+
+--- Je ne vous baiserai rien du tout ! » s\'écrie le violoncelliste, à la fois rouge et pâle de colère. Un instant après, Calistus Munbar et ses invités sont étendus sur des divans moelleux, tandis que le Yankee se balance sur une rocking-chair. Et voici comment il s\'exprime en présentant à ses hôtes sa propre personne :
+
+« Calistus Munbar, de New-York, cinquante ans, arrière-petit-neveu du célèbre Barnum, actuellement surintendant des Beaux-Arts à Standard-Island, chargé de ce qui concerne la peinture, la sculpture, la musique, et généralement de tous les plaisirs de Milliard-City. Et maintenant que vous me connaissez, messieurs\...
+
+--- Est-ce que, par hasard, demande Sébastien Zorn, vous ne seriez pas aussi un agent de la police, chargé d\'attirer les gens dans des traquenards et de les y retenir malgré eux ?
+
+--- Ne vous hâtez pas de me juger, irritable violoncelle, répond le surintendant, et attendez la fin.
+
+--- Nous attendrons, réplique Frascolin d\'un ton grave, et nous vous écoutons.
+
+--- Messieurs, reprend Calistus Munbar en se donnant une attitude gracieuse, je ne désire traiter avec vous, au cours de cet entretien, que la question musique, telle qu\'elle est actuellement comprise dans notre île à hélice. Des théâtres, Milliard-City n\'en possède point encore ; mais, lorsqu\'elle le voudra, ils sortiront de son sol comme par enchantement.
+
+Jusqu\'ici, nos concitoyens ont satisfait leur penchant musical en demandant à des appareils perfectionnés de les tenir au courant des chefs-d\'oeuvre lyriques.
+
+Les compositeurs anciens et modernes, les grands artistes du jour, les instrumentistes les plus en vogue, nous les entendons quand il nous plaît, au moyen du phonographe\...
+
+--- Une serinette, votre phonographe ! s\'écrie dédaigneusement Yvernès.
+
+--- Pas tant que vous pouvez le croire, monsieur le violon solo, répond le surintendant. Nous possédons des appareils qui ont eu plus d\'une fois l\'indiscrétion de vous écouter, lorsque vous vous faisiez entendre à Boston ou à Philadelphie. Et, si cela vous agrée, vous pourrez vous applaudir de vos propres mains\... »
+
+À cette époque, les inventions de l\'illustre Edison ont atteint le dernier degré de la perfection.
+
+Le phonographe n\'est plus cette boîte à musique à laquelle il ressemblait trop fidèlement à son origine.
+
+Grâce à son admirable inventeur, le talent éphémère des exécutants, instrumentistes ou chanteurs, se conserve à l\'admiration des races futures avec autant de précision que l\'oeuvre des statuaires et des peintres.
+
+Un écho, si l\'on veut, mais un écho fidèle comme une photographie, reproduisant les nuances, les délicatesses du chant ou du jeu dans toute leur inaltérable pureté.
+
+En disant cela, Calistus Munbar est si chaleureux que ses auditeurs en sont impressionnés. Il parle de Saint-Saëns, de Reyer, d\'Ambroise Thomas, de Gounod, de Massenet, de Verdi, et des chefs-d\'oeuvre impérissables des Berlioz, des Meyerbeer, des Halévy, des Rossini, des Beethoven, des Haydn, des Mozart, en homme qui les connaît à fond, qui les apprécie, qui a consacré à les répandre son existence d\'imprésario déjà longue, et il y a plaisir à l\'écouter. Toutefois il ne semble pas qu\'il ait été atteint par l\'épidémie wagnérienne, en décroissance d\'ailleurs à cette époque.
+
+Lorsqu\'il s\'arrête pour reprendre haleine, Pinchinat, profitant de l\'accalmie : « Tout cela est fort bien, dit-il, mais votre Milliard-City, je le vois, n\'a jamais entendu que de la musique en boîte, des conserves mélodiques, qu\'on lui expédie comme les conserves de sardines ou de salt-beef\...
+
+--- Pardonnez-moi, monsieur l\'alto.
+
+--- Mon Altesse vous pardonne, tout en insistant sur ce point : c\'est que vos phonographes ne renferment que le passé, et jamais un artiste ne peut être entendu à Milliard-City au moment même où il exécute son morceau\...
+
+--- Vous me pardonnerez une fois de plus.
+
+--- Notre ami Pinchinat vous pardonnera tant que vous le voudrez, monsieur Munbar, dit Frascolin. Il a des pardons plein ses poches.
+
+Mais son observation est juste. Encore, si vous pouviez vous mettre en communication avec les théâtres de l\'Amérique ou de l\'Europe\...
+
+--- Et croyez-vous que cela soit impossible, mon cher Frascolin ? s\'écrie le surintendant en arrêtant le balancement de son escarpolette.
+
+--- Vous dites ?
+
+--- Je dis que ce n\'était qu\'une question de prix, et notre cité est assez riche pour satisfaire toutes ses fantaisies, toutes ses aspirations en fait d\'art lyrique ! Aussi l\'a-t-elle fait\...
+
+--- Et comment ?
+
+--- Au moyen des théâtrophones qui sont installés dans la salle de concert de ce casino. Est-ce que la Compagnie ne possède pas nombre de câbles sous-marins, immergés sous les eaux du Pacifique, dont une extrémité est rattachée à la baie Madeleine et dont l\'autre est tenue en suspension par de puissantes bouées ? Eh bien, quand nos concitoyens veulent entendre un des chanteurs de l\'Ancien ou du Nouveau-Monde, on repêche un des câbles, on envoie un ordre téléphonique aux agents de Madeleine-bay. Ces agents établissent la communication soit avec l\'Amérique, soit avec l\'Europe. On raccorde les fils ou les câbles avec tel ou tel théâtre, telle ou telle salle de concert, et nos dilettanti, installés dans ce casino, assistent réellement à ces lointaines exécutions, et applaudissent\...
+
+--- Mais là-bas, on n\'entend pas leurs applaudissements\... S\'écrie Yvernès.
+
+--- Je vous demande pardon, cher monsieur Yvernès, on les entend par le fil de retour. »
+
+Et alors Calistus Munbar de se lancer à perte de vue dans des considérations transcendantes sur la musique, considérée, non seulement comme une des manifestations de l\'art, mais comme agent thérapeutique. D\'après le système de J. Harford, de Westminster-Abbey, les Milliardais ont pu constater les résultats extraordinaires de cette utilisation de l\'art lyrique. Ce système les entretient en un parfait état de santé. La musique exerçant une action réflexe sur les centres nerveux, les vibrations harmoniques ont pour effet de dilater les vaisseaux artériels, d\'influer sur la circulation, de l\'accroître ou de la diminuer, suivant les besoins. Elle détermine une accélération des battements du coeur et des mouvements respiratoires en vertu de la tonalité et de l\'intensité des sons, tout en étant un adjuvant de la nutrition des tissus. Aussi des postes d\'énergie musicale fonctionnent-ils à Milliard-City, transmettant les ondes sonores à domicile par voie téléphonique, etc.
+
+Le quatuor écoute bouche bée. Jamais il n\'a entendu discuter son art au point de vue médical, et probablement il en éprouve quelque déplaisir. Néanmoins, voilà le fantaisiste Yvernès prêt à s\'emballer sur ces théories, qui, d\'ailleurs, remontent au temps du roi Saül, conformément à l\'ordonnance et selon la formule du célèbre harpiste David.
+
+« Oui ! Oui ! s\'écrie-t-il, après la dernière tirade du surintendant, c\'est tout indiqué. Il suffit de choisir suivant le diagnostic ! Du Wagner ou du Berlioz pour les tempéraments anémiés\...
+
+--- Et du Mendelsohn ou du Mozart pour les tempéraments sanguins, ce qui remplace avantageusement le bromure de strontium ! » répond Calistus Munbar. Sébastien Zorn intervient alors et jette sa note brutale au milieu de cette causerie de haute volée. « Il ne s\'agit pas de tout cela, dit-il. Pourquoi nous avez-vous amenés ici ?
+
+--- Parce que les instruments à cordes sont ceux qui exercent l\'action la plus puissante\...
+
+--- Vraiment, monsieur ! Et c\'est pour calmer vos névroses et vos névrosés que vous avez interrompu notre voyage, que vous nous empêchez d\'arriver à San-Diégo, où nous devions donner un concert demain\...
+
+--- C\'est pour cela, mes excellents amis !
+
+--- Et vous n\'avez vu en nous que des espèces de carabins musicaux, d\'apothicaires lyriques ? s\'écrie Pinchinat.
+
+--- Non, messieurs, répondit Calistus Munbar, en se relevant. Je n\'ai vu en vous que des artistes de grand talent et de grande renommée. Les hurrahs qui ont accueilli le Quatuor Concertant dans ses tournées en Amérique, sont arrivés jusqu\'à notre île. Or, la Standard-Island Company a pensé que le moment était venu de substituer aux phonographes et aux théâtrophones des virtuoses palpables, tangibles, en chair et en os, et de donner aux Milliardais cette inexprimable jouissance d\'une exécution directe des chefs-d\'oeuvre de l\'art. Elle a voulu commencer par la musique de chambre, avant d\'organiser des orchestres d\'opéra. Elle a songé à vous, les représentants attitrés de cette musique. Elle m\'a donné mission de vous avoir à tout prix, de vous enlever, s\'il le fallait. Vous êtes donc les premiers artistes qui auront eu accès à Standard-Island, et je vous laisse à imaginer quel accueil vous y attend ! »
+
+Yvernès et Pinchinat se sentent très ébranlés par ces enthousiastes périodes du surintendant. Que ce puisse être une mystification, cela ne leur vient même pas à l\'esprit. Frascolin, lui, l\'homme réfléchi, se demande s\'il y a lieu de prendre au sérieux cette aventure. Après tout, dans une île si extraordinaire, comment les choses n\'auraient-elles pas apparu sous un extraordinaire aspect ? Quant à Sébastien Zorn, il est résolu à ne pas se rendre.
+
+« Non, monsieur, s\'écrie-t-il, on ne s\'empare pas ainsi des gens sans qu\'ils y consentent ! Nous déposerons une plainte contre vous !
+
+--- Une plainte\... Quand vous devriez me combler de remerciements, ingrats que vous êtes ! Réplique le surintendant.
+
+--- Et nous obtiendrons une indemnité, monsieur\...
+
+--- Une indemnité\... Lorsque j\'ai à vous offrir cent fois plus que vous ne pourriez espérer\...
+
+--- De quoi s\'agit-il ? » demande le pratique Frascolin. Calistus Munbar prend son portefeuille, et en tire une feuille de papier aux armes de Standard-Island. Puis, après l\'avoir présentée aux artistes : « Vos quatre signatures au bas de cet acte, et l\'affaire sera réglée, dit-il.
+
+--- Signer sans avoir lu ? répond le second violon. Cela ne se fait nulle part !
+
+--- Vous n\'auriez pourtant pas lieu de vous en repentir ! Reprend Calistus Munbar, en s\'abandonnant à un accès d\'hilarité, qui fait bedonner toute sa personne. Mais procédons d\'une façon régulière.
+
+C\'est un engagement que la Compagnie vous propose, un engagement d\'une année à partir de ce jour, qui a pour objet l\'exécution de la musique de chambre, telle que le comportaient vos programmes en Amérique. Dans douze mois, Standard-Island sera de retour à la baie Madeleine, où vous arriverez à temps\...
+
+--- Pour notre concert de San-Diégo, n\'est-ce pas ? s\'écrie Sébastien Zorn, San-Diégo, où l\'on nous accueillera par des sifflets\...
+
+--- Non, messieurs, par des hurrahs et des hips ! Des artistes tels que vous, les dilettanti sont toujours trop honorés et trop heureux qu\'ils veuillent bien se faire entendre\... Même avec une année de retard ! »
+
+Allez donc garder rancune à un pareil homme ! Frascolin prend le papier, et le lit attentivement. « Quelle garantie aurons-nous ? demande-t-il.
+
+--- La garantie de la Standard-Island Company revêtue de la signature de M. Cyrus Bikerstaff, notre gouverneur.
+
+--- Et les appointements seront ceux que je vois indiqués dans l\'acte ? -- Exactement, soit un million de francs\...
+
+--- Pour quatre ? s\'écrie Pinchinat.
+
+--- Pour chacun, répond en souriant Calistus Munbar, et encore ce chiffre n\'est-il pas en rapport avec votre mérite que rien ne saurait payer à sa juste valeur ! »
+
+Il serait malaisé d\'être plus aimable, on en conviendra. Et cependant, Sébastien Zorn proteste. Il n\'entend accepter à aucun prix. Il veut partir pour San-Diégo, et ce n\'est pas sans peine que Frascolin parvient à calmer son indignation.
+
+D\'ailleurs, en présence de la proposition du surintendant, une certaine défiance n\'est pas interdite. Un engagement d\'un an, au prix d\'un million de francs pour chacun des artistes, est-ce que cela est sérieux ? Très sérieux, ainsi que Frascolin peut le constater, lorsqu\'il demande :
+
+« Ces appointements sont payables ?
+
+--- Par quart, répond le surintendant, et voici le premier trimestre. » Des liasses de billets de banque qui bourrent son portefeuille, Calistus Munbar fait quatre paquets de cinquante mille dollars, soit deux cent cinquante mille francs, qu\'il remet à Frascolin et à ses camarades.
+
+Voilà une façon de traiter les affaires -- à l\'américaine.
+
+Sébastien Zorn ne laisse pas d\'être ébranlé dans une certaine mesure. Mais, chez lui, comme la mauvaise humeur ne perd jamais ses droits, il ne peut retenir cette réflexion :
+
+« Après tout, au prix où sont les choses dans votre île, si l\'on paye vingt-cinq francs un perdreau, on paie sans doute cent francs une paire de gants, et cinq cents francs une paire de bottes ?
+
+--- Oh ! Monsieur Zorn, la Compagnie ne s\'arrête pas à ces bagatelles, s\'écrie Calistus Munbar, et elle désire que les artistes du Quatuor Concertant soient défrayés de tout pendant leur séjour sur son domaine ! »
+
+À ces offres généreuses, que répondre, si ce n\'est en apposant les signatures sur l\'engagement ?
+
+C\'est ce que font Frascolin, Pinchinat et Yvernès. Sébastien Zorn murmure bien que tout cela est absurde\... S\'embarquer sur une île à hélice, cela n\'a pas de bon sens\... On verra comment cela finira\... Enfin il se décide à signer.
+
+Et, cette formalité remplie, si Frascolin, Pinchinat et Yvernès ne baisent pas la main de Calistus Munbar, du moins la lui serrent-ils affectueusement. Quatre poignées de main à un million chacune !
+
+Et voilà comme quoi le Quatuor Concertant est lancé dans une aventure invraisemblable, et en quelles circonstances ses membres sont devenus les invités inviti de Standard-Island.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185439 .pcalibre2 .pcalibre1}[]{#_Toc343182978 .pcalibre2 .pcalibre1}[]{#_Toc343180517 .pcalibre2 .pcalibre1}[]{#_Toc343178056 .pcalibre2 .pcalibre1}[]{#_Toc343175595 .pcalibre2 .pcalibre1}[]{#_Toc343173134 .pcalibre2 .pcalibre1}[]{#_Toc343170673 .pcalibre2 .pcalibre1}[]{#_Toc343168212 .pcalibre2 .pcalibre1}[]{#_Toc343165751 .pcalibre2 .pcalibre1}[]{#_Toc343163290 .pcalibre2 .pcalibre1}[]{#_Toc343160829 .pcalibre2 .pcalibre1}[]{#_Toc343158368 .pcalibre2 .pcalibre1}[]{#_Toc343149098 .pcalibre2 .pcalibre1}[]{#_Toc343146637 .pcalibre2 .pcalibre1}[]{#_Toc343144174 .pcalibre2 .pcalibre1}[]{#_Toc343141713 .pcalibre2 .pcalibre1}[]{#_Toc343139252 .pcalibre2 .pcalibre1}[]{#_Toc343136790 .pcalibre2 .pcalibre1}[]{#_Toc343134329 .pcalibre2 .pcalibre1}[]{#_Toc343131868 .pcalibre2 .pcalibre1}[]{#_Toc343129406 .pcalibre2 .pcalibre1}[]{#_Toc343126945 .pcalibre2 .pcalibre1}[]{#_Toc343124481 .pcalibre2 .pcalibre1}[]{#_Toc343122020 .pcalibre2 .pcalibre1}[]{#_Toc343119559 .pcalibre2 .pcalibre1}[]{#_Toc343117105 .pcalibre2 .pcalibre1}[]{#_Toc343114642 .pcalibre2 .pcalibre1}[]{#_Toc343112181 .pcalibre2 .pcalibre1}[]{#_Toc343109720 .pcalibre2 .pcalibre1}[]{#_Toc343105976 .pcalibre2 .pcalibre1}[]{#_Toc343103514 .pcalibre2 .pcalibre1}[]{#_Toc343101051 .pcalibre2 .pcalibre1}[]{#_Toc343098626 .pcalibre2 .pcalibre1}[]{#_Toc343096157 .pcalibre2 .pcalibre1}[]{#_Toc343093695 .pcalibre2 .pcalibre1}[]{#_Toc343091217 .pcalibre2 .pcalibre1}[]{#_Toc343088754 .pcalibre2 .pcalibre1}[]{#_Toc343086292 .pcalibre2 .pcalibre1}[]{#_Toc343083829 .pcalibre2 .pcalibre1}[]{#_Toc343081367 .pcalibre2 .pcalibre1}[]{#_Toc343078906 .pcalibre2 .pcalibre1}[]{#_Toc343076443 .pcalibre2 .pcalibre1}[]{#_Toc343073980 .pcalibre2 .pcalibre1}[]{#_Toc343071514 .pcalibre2 .pcalibre1}[]{#_Toc343043554 .pcalibre2 .pcalibre1}[]{#_Toc343038674 .pcalibre2 .pcalibre1}[]{#_Toc343036309 .pcalibre2 .pcalibre1}[]{#_Toc343033944 .pcalibre2 .pcalibre1}[]{#_Toc343031579 .pcalibre2 .pcalibre1}[]{#_Toc343028023 .pcalibre2 .pcalibre1}[]{#_Toc343025658 .pcalibre2 .pcalibre1}[]{#_Toc343023293 .pcalibre2 .pcalibre1}[]{#_Toc343020927 .pcalibre2 .pcalibre1}[]{#_Toc343018561 .pcalibre2 .pcalibre1}[]{#_Toc343016196 .pcalibre2 .pcalibre1}[]{#_Toc343013831 .pcalibre2 .pcalibre1}[]{#_Toc343011464 .pcalibre2 .pcalibre1}[]{#_Toc343009099 .pcalibre2 .pcalibre1}[]{#_Toc343006734 .pcalibre2 .pcalibre1}[]{#_Toc343004369 .pcalibre2 .pcalibre1}[]{#_Toc343002004 .pcalibre2 .pcalibre1}[]{#_Toc342999639 .pcalibre2 .pcalibre1}[]{#_Toc342997274 .pcalibre2 .pcalibre1}[]{#_Toc342994909 .pcalibre2 .pcalibre1}[]{#_Toc342992544 .pcalibre2 .pcalibre1}[]{#_Toc342990179 .pcalibre2 .pcalibre1}[]{#_Toc342987814 .pcalibre2 .pcalibre1}[]{#_Toc342985447 .pcalibre2 .pcalibre1}[]{#_Toc342983082 .pcalibre2 .pcalibre1}[]{#_Toc342980717 .pcalibre2 .pcalibre1}[]{#_Toc342978352 .pcalibre2 .pcalibre1}[[Chapitre 7 -- Cap a l\'ouest]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942371 .pcalibre2 .pcalibre1} {#chapitre-7-cap-a-louest .calibre171 .sigil_not_in_toc}
+
+Standard-Island file doucement sur les eaux de cet océan Pacifique, qui justifie son nom à pareille époque de l\'année.
+
+Habitués à cette translation tranquille depuis vingt-quatre heures, Sébastien Zorn et ses camarades ne s\'aperçoivent même plus qu\'ils sont en cours de navigation. Si puissantes que soient ses centaines d\'hélices, attelées de dix millions de chevaux, à peine un léger frémissement se propage-t-il à travers la coque métallique de l\'île. Milliard-City ne tremble pas sur sa base.
+
+Rien, d\'ailleurs, des oscillations de la houle à laquelle obéissent pourtant les plus forts cuirassés des marines de guerre.
+
+Il n\'y a dans les habitations ni tables ni lampes de roulis. À quoi bon ? Les maisons de Paris, de Londres, de New-York ne sont pas plus inébranlablement fixées sur leurs fondations.
+
+Après quelques semaines de relâche à Madeleine-bay, le conseil des notables de Standard-Island, réunis par le soin du président de la Compagnie, avait arrêté le programme du déplacement annuel. L\'île à hélice allait rallier les principaux archipels de l\'Est-Pacifique, au milieu de cette atmosphère hygiénique, si riche en ozone, en oxygène condensé, électrisé, doué de particularités actives que ne possède pas l\'oxygène à l\'état ordinaire. Puisque cet appareil a la liberté de ses mouvements, il en profite, et il lui est loisible d\'aller à sa fantaisie, vers l\'ouest comme vers l\'est, de se rapprocher du littoral américain, s\'il lui plaît, de rallier les côtes orientales de l\'Asie, si c\'est son bon plaisir. Standard-Island va où elle veut, de manière à goûter les distractions d\'une navigation variée. Et même, s\'il lui convenait d\'abandonner l\'océan Pacifique pour l\'océan Indien ou l\'océan Atlantique, de doubler le cap Horn ou le cap de Bonne-Espérance, il lui suffirait de prendre cette direction, et soyez convaincus que ni les courants ni les tempêtes ne l\'empêcheraient d\'atteindre son but.
+
+Mais il n\'est point question de se lancer à travers ces mers lointaines, où le Joyau du Pacifique ne trouverait pas ce que cet Océan lui offre au milieu de l\'interminable chapelet de ses groupes insulaires. C\'est un théâtre assez vaste pour suffire à des itinéraires multiples. L\'île à hélice peut le parcourir d\'un archipel à l\'autre. Si elle n\'est pas douée de cet instinct spécial aux animaux, ce sixième sens de l\'orientation qui les dirige là où leurs besoins les appellent, elle est conduite par une main sûre, suivant un programme longuement discuté et unanimement approuvé. Jusqu\'ici, il n\'y a jamais eu désaccord sur ce point entre les Tribordais et les Bâbordais. Et, en ce moment, c\'est en vertu d\'une décision prise que l\'on marche à l\'ouest, vers le groupe des Sandwich. Cette distance de douze cents lieues environ qui sépare ce groupe de l\'endroit où s\'est embarqué le quatuor, elle emploiera un mois à la franchir avec une vitesse modérée, et elle fera relâche dans cet archipel jusqu\'au jour où il lui conviendra d\'en rallier un autre de l\'hémisphère méridional.
+
+Le lendemain de ce jour mémorable, le quatuor quitte Excelsior-Hotel, et vient s\'installer dans un appartement du casino qui est mis à sa disposition, -- appartement confortable, richement aménagé, s\'il en fut. La Unième Avenue se développe devant ses fenêtres. Sébastien Zorn, Frascolin, Pinchinat, Yvernès, ont chacun sa chambre autour d\'un salon commun. La cour centrale de l\'établissement leur réserve l\'ombrage de ses arbres en pleine frondaison, la fraîcheur de ses fontaines jaillissantes. D\'un côté de cette cour se trouve le musée de Milliard-City, de l\'autre, la salle de concert, où les artistes parisiens vont si heureusement remplacer les échos des phonographes et les transmissions des théâtrophones. Deux fois, trois fois, autant de fois par jour qu\'ils le désireront, leur couvert sera mis dans la restauration, où le maître d\'hôtel ne leur présentera plus ses additions invraisemblables.
+
+Ce matin-là, lorsqu\'ils sont réunis dans le salon, quelques instants avant de descendre pour le déjeuner :
+
+« Eh bien, les violoneux, demande Pinchinat, que dites-vous de ce qui nous arrive ?
+
+--- Un rêve, répond Yvernès, un rêve dans lequel nous sommes engagés à un million par an\...
+
+--- C\'est bel et bien une réalité, répond Frascolin. Cherche dans ta poche, et tu pourras en tirer le premier quart du dit million\...
+
+--- Reste à savoir comment cela finira ? Très mal, j\'imagine ! » s\'écrie Sébastien Zorn, qui veut absolument trouver un pli de rose à la couche sur laquelle on l\'a étendu malgré lui.
+
+« D\'ailleurs, et nos bagages ? »
+
+En effet, les bagages devaient être rendus à San-Diégo, d\'où ils ne peuvent revenir, et où leurs propriétaires ne peuvent aller les chercher. Oh ! Bagages très rudimentaires : quelques valises, du linge, des ustensiles de toilette, des vêtements de rechange, et aussi la tenue officielle des exécutants, lorsqu\'ils comparaissent devant le public.
+
+Il n\'y eut pas lieu de s\'inquiéter à ce sujet. En quarante-huit heures, cette garde-robe un peu défraîchie serait remplacée par une autre mise à la disposition des quatre artistes, et sans qu\'ils eussent eu à payer quinze cents francs leur habit et cinq cents francs leurs bottines.
+
+Du reste, Calistus Munbar, enchanté d\'avoir si habilement conduit cette délicate affaire, entend que le quatuor n\'ait pas même un désir à former. Impossible d\'imaginer un surintendant d\'une plus inépuisable obligeance. Il occupe un des appartements de ce casino, dont les divers services sont sous sa haute direction, et la Compagnie lui sert des appointements dignes de sa magnificence et de sa munificence\... Nous préférons ne point en indiquer le chiffre.
+
+Le casino renferme des salles de lecture et des salles de jeux ; mais le baccara, le trente et quarante, la roulette, le poker et autres jeux de hasard sont rigoureusement interdits. On y voit aussi un fumoir où fonctionne le transport direct à domicile de la fumée de tabac préparée par une société fondée récemment. La fumée du tabac brûlé dans les brûleurs d\'un établissement central, purifiée et dégagée de nicotine, est distribuée par des tuyaux à bouts d\'ambre spéciaux à chaque amateur. On n\'a plus qu\'à y appliquer ses lèvres, et un compteur enregistre la dépense quotidienne.
+
+Dans ce casino, où les dilettanti peuvent venir s\'enivrer de cette musique lointaine, à laquelle vont maintenant se joindre les concerts du quatuor, se trouvent aussi les collections de Milliard-City. Aux amateurs de peinture, le musée, riche de tableaux anciens et modernes, offre de nombreux chefs-d\'oeuvre, acquis à prix d\'or, des toiles des Écoles italienne, hollandaise, allemande, française, que pourraient envier les collections de Paris, de Londres, de Munich, de Rome et de Florence, des Raphaël, des Vinci, des Giorgione, des Corrège, des Dominiquin, des Ribeira, des Murillo, des Ruysdael, des Rembrandt, des Rubens, des Cuyp, des Frans Hals, des Hobbema, des Van Dyck, des Holbein, etc., et aussi, parmi les modernes, des Fragonard, des Ingres, des Delacroix, des Scheffer, des Cabat, des Delaroche, des Régnant, des Couture, des Meissonier, des Millet, des Rousseaux, des Jules Dupré, des Brascassat, des Mackart, des Turner, des Troyon, des Corot, des Daubigny, des Baudry, des Bonnat, des Carolus Duran, des Jules Lefebvre, des Vollon, des Breton, des Binet, des Yon, des Cabanel, etc. Afin de leur assurer une éternelle durée, ces tableaux sont placés à l\'intérieur de vitrines, où le vide a été préalablement fait. Ce qu\'il convient d\'observer, c\'est que les impressionnistes, les angoissés, les futuristes, n\'ont pas encore encombré ce musée ; mais, sans doute, cela ne tarderait guère, et Standard-Island n\'échappera pas à cette invasion de la peste décadente. Le musée possède également des statues de réelle valeur, des marbres des grands sculpteurs anciens et modernes, placés dans les cours du casino. Grâce à ce climat sans pluies ni brouillards, groupes, statues, bustes peuvent impunément résister aux outrages du temps.
+
+Que ces merveilles soient souvent visitées, que les nababs de Milliard-City aient un goût très prononcé pour ces productions de l\'art, que le sens artiste soit éminemment développé chez eux, ce serait risqué que de le prétendre. Ce qu\'il faut remarquer, toutefois, c\'est que la section tribordaise compte plus d\'amateurs que la section bâbordaise. Tous, d\'ailleurs, sont d\'accord quand il s\'agit d\'acquérir quelque chef-d\'oeuvre, et alors leurs invraisemblables enchères savent l\'enlever à tous les duc d\'Aumale, à tous les Chauchard de l\'ancien et du nouveau continent.
+
+Les salles les plus fréquentées du casino sont les salles de lecture, consacrées aux revues, aux journaux européens ou américains, apportés par les steamers de Standard-Island, en service régulier avec Madeleine-bay. Après avoir été feuilletées, lues et relues, les revues prennent place sur les rayons de la bibliothèque, où s\'alignent plusieurs milliers d\'ouvrages dont le classement nécessite la présence d\'un bibliothécaire aux appointements de vingt-cinq mille dollars, et il est peut-être le moins occupé des fonctionnaires de l\'île. Cette bibliothèque contient aussi un certain nombre de livres phonographes : on n\'a pas la peine de lire, on presse un bouton, et on entend la voix d\'un excellent diseur qui fait la lecture -- ce que serait Phèdre de Racine lue par M. Legouvé.
+
+Quant aux journaux de « la localité », ils sont rédigés, composés, imprimés dans les ateliers du casino sous la direction de deux rédacteurs en chef. L\'un est le Starboard-Chronicle pour la section des Tribordais ; l\'autre, le New-Herald pour la section des Bâbordais. La chronique est alimentée par les faits divers, les arrivages des paquebots, les nouvelles de mer, les rencontres maritimes, les mercuriales qui intéressent le quartier commerçant, le relèvement quotidien en longitude et en latitude, les décisions du conseil des notables, les arrêtés du gouverneur, les actes de l\'état civil : naissances, mariages, décès, -- ceux-ci très rares.
+
+D\'ailleurs, jamais ni vols ni assassinats, les tribunaux ne fonctionnant que pour les affaires civiles, les contestations entre particuliers. Jamais d\'articles sur les centenaires, puisque la longévité de la vie humaine n\'est plus ici le privilège de quelques-uns.
+
+Pour ce qui est de la partie politique étrangère, elle se tient à jour par les communications téléphoniques avec Madeleine-bay, où se raccordent les câbles immergés dans les profondeurs du Pacifique. Les Milliardais sont ainsi informés de tout ce qui se passe dans le monde entier, lorsque les faits présentent un intérêt quelconque. Ajoutons que le Starboard-Chronicle et le New-Herald ne se traitent pas d\'une main trop rude. Jusqu\'ici, ils ont vécu en assez bonne intelligence, mais on ne saurait jurer que cet échange de discussions courtoises puisse durer toujours.
+
+Très tolérants, très conciliants sur le terrain de la religion, le protestantisme et le catholicisme font bon ménage à Standard-Island. Il est vrai, dans l\'avenir, si l\'odieuse politique s\'en mêle, si la nostalgie des affaires reprend les uns, si les questions d\'intérêt personnel et d\'amour-propre sont en jeu\...
+
+En outre de ces deux journaux il y a les journaux hebdomadaires ou mensuels, reproduisant les articles des feuilles étrangères, ceux des successeurs des Sarcey, des Lemaître, des Charmes, des Fournel, des Deschamps, des Fouquier, des France, et autres critiques de grande marque ; puis les magasins illustrés, sans compter une douzaine de feuilles cercleuses, soiristes et boulevardières, consacrées aux mondanités courantes. Elles n\'ont d\'autre but que de distraire un instant, en s\'adressant à l\'esprit\... Et même à l\'estomac. Oui ! Quelques-unes sont imprimées sur pâte comestible à l\'encre de chocolat. Lorsqu\'on les a lues, on les mange au premier déjeuner. Les unes sont astringentes, les autres légèrement purgatives, et le corps s\'en accommode fort bien. Le quatuor trouve cette invention aussi agréable que pratique.
+
+« Voilà des lectures d\'une digestion facile ! Observe judicieusement Yvernès.
+
+--- Et d\'une littérature nourrissante ! répond Pinchinat. Pâtisserie et littérature mêlées, cela s\'accorde parfaitement avec la musique hygiénique ! »
+
+Maintenant, il est naturel de se demander de quelles ressources dispose l\'île à hélice pour entretenir sa population dans de telles conditions de bien-être, dont n\'approche aucune autre cité des deux mondes. Il faut que ses revenus s\'élèvent à une somme invraisemblable, étant donnés les crédits affectés aux divers services et les traitements attribués aux plus modestes employés.
+
+Et, lorsqu\'ils interrogent le surintendant à ce sujet : « Ici, répond-il, on ne traite pas d\'affaires. Nous n\'avons ni Board of Trade, ni Bourse, ni industrie. En fait de commerce, il n\'y a que ce qu\'il faut pour les besoins de l\'île, et nous n\'offrirons jamais aux étrangers l\'équivalent du World\'s Fair de Chicago en 1893 et de l\'Exposition de Paris de 1900. Non ! La puissante religion des business n\'existe pas, et nous ne poussons point le cri de go ahead, si ce n\'est pour que le Joyau du Pacifique aille de l\'avant. Ce n\'est donc pas aux affaires que nous demandons les ressources nécessaires à l\'entretien de Standard-Island, c\'est à la douane. Oui ! Les droits de douane nous permettent de suffire à toutes les exigences du budget\...
+
+--- Et ce budget ? interroge Frascolin.
+
+--- Il se chiffre par vingt millions de dollars, mes excellents bons !
+
+--- Cent millions de francs, s\'écria le second violon, et pour une ville de dix mille âmes !
+
+--- Comme vous dites, mon cher Frascolin, somme qui provient uniquement des taxes de douane. Nous n\'avons pas d\'octroi, les productions locales étant à peu près insignifiantes. Non ! Rien que les droits perçus à Tribord-Harbour et à Bâbord-Harbour. Cela vous explique la cherté des objets de consommation, -- cherté relative, s\'entend, car ces prix, si élevés qu\'ils vous paraissent, sont en rapport avec les moyens dont chacun dispose. »
+
+Et voici Calistus Munbar qui s\'emballe à nouveau, vantant sa ville, vantant son île -- un morceau de planète supérieure tombé en plein Pacifique, un Eden flottant, où se sont réfugiés les sages, et si le vrai bonheur n\'est pas là, c\'est qu\'il n\'est nulle part ! C\'est comme un boniment ! Il semble qu\'il dise :
+
+« Entrez, messieurs, entrez, mesdames ! Passez au contrôle ! Il n\'y a que très peu de places ! On va commencer\... Qui prend son billet\... Etc. »
+
+Il est vrai, les places sont rares, et les billets sont chers !
+
+Bah ! Le surintendant jongle avec ces millions qui ne sont plus que des unités dans cette cité milliardaise !
+
+C\'est au cours de cette tirade, où les phrases se déversent en cascades, où les gestes se multiplient avec une frénésie sémaphorique, que le quatuor se met au courant des diverses branches de l\'administration. Et d\'abord, les écoles, où se donne l\'instruction gratuite et obligatoire, qui sont dirigées par des professeurs payés comme des ministres. On y apprend les langues mortes et les langues vivantes, l\'histoire et la géographie, les sciences physiques et mathématiques, les arts d\'agrément, mieux qu\'en n\'importe quelle Université ou Académie du vieux monde, -- à en croire Calistus Munbar. La vérité est que les élèves ne s\'écrasent point aux cours publics, et, si la génération actuelle possède encore quelque teinture des études faites dans les collèges des États-Unis, la génération qui lui succédera aura moins d\'instruction que de rentes. C\'est là le point défectueux, et peut-être des humains ne peuvent-ils que perdre à s\'isoler ainsi de l\'humanité.
+
+Ah ça ! Ils ne voyagent donc pas à l\'étranger, les habitants de cette île factice ? Ils ne vont donc jamais visiter les pays d\'outremer, les grandes capitales de l\'Europe ? Ils ne parcourent donc pas les contrées auxquelles le passé a légué tant de chefs-d\'oeuvre de toutes sortes ? Si ! Il en est quelques-uns qu\'un certain sentiment de curiosité pousse en des régions lointaines.
+
+Mais ils s\'y fatiguent ; ils s\'y ennuient pour la plupart ; ils n\'y retrouvent rien de l\'existence uniforme de Standard-Island ; ils y souffrent du chaud ; ils y souffrent du froid ; enfin, ils s\'y enrhument, et on ne s\'enrhume pas à Milliard-City. Aussi n\'ont-ils que hâte et impatience de réintégrer leur île, ces imprudents qui ont eu la malencontreuse idée de la quitter. Quel profit ont-ils retiré de ces voyages ? Aucun. « Valises ils sont partis, valises ils sont revenus », ainsi que le dit une ancienne formule des Grecs, et nous ajoutons : ils resteront valises.
+
+Quant aux étrangers que devra attirer la célébrité de Standard-Island, cette neuvième merveille du monde, depuis que la tour Eiffel, -- on le dit du moins, -- occupe le huitième rang, Calistus Munbar pense qu\'ils ne seront jamais très nombreux. On n\'y tient pas autrement, d\'ailleurs, bien que ses tourniquets des deux ports eussent été une nouvelle source de revenus. De ceux qui sont venus l\'année dernière, la plupart étaient d\'origine américaine. Des autres nations, peu ou point. Cependant, il y a eu quelques Anglais, reconnaissables à leur pantalon invariablement relevé, sous prétexte qu\'il pleut à Londres. Au surplus, la Grande-Bretagne a très mal envisagé la création de cette Standard-Island, qui, à son avis, gêne la circulation maritime, et elle se réjouirait de sa disparition. Quant aux Allemands, ils n\'obtiennent qu\'un médiocre accueil comme des gens qui auraient vite fait de Milliard-City une nouvelle Chicago, si on les y laissait prendre pied. Les Français sont de tous les étrangers ceux la Compagnie accepte avec le plus de sympathies et de prévenances, étant donné qu\'ils n\'appartiennent pas aux races envahissantes de l\'Europe. Mais, jusqu\'alors un Français avait-il jamais paru à Standard-Island ?
+
+« Ce n\'est pas probable, fait observer Pinchinat.
+
+--- Nous ne sommes pas assez riches\... Ajoute Frascolin.
+
+--- Pour être rentier, c\'est possible, répond le surintendant, non pour être fonctionnaire\...
+
+--- Y a-t-il donc un de nos compatriotes à Milliard-City ? demande Yvernès.
+
+--- Il y en a un.
+
+--- Et quel est ce privilégié ?
+
+--- M. Athanase Dorémus.
+
+--- Et qu\'est-ce qu\'il fait ici, cet Athanase Dorémus ? s\'écrie Pinchinat.
+
+--- Il est professeur de danse, de grâces et de maintien, magnifiquement appointé par l\'administration, sans parler des leçons particulières au cachet\...
+
+--- Et qu\'un Français est seul capable de donner ! » réplique Son Altesse.
+
+À présent, le quatuor sait à quoi s\'en tenir sur l\'organisation de la vie administrative de Standard-Island. Il n\'a plus qu\'à s\'abandonner au charme de cette navigation, qui l\'entraîne vers l\'ouest du Pacifique. Si ce n\'est que le soleil se lève tantôt sur un point de l\'île, tantôt sur un autre, selon l\'orientation donnée par le commodore Simcoë, Sébastien Zorn et ses camarades pourraient croire qu\'ils sont en terre ferme. À deux reprises, pendant la quinzaine qui suivit, des orages éclatèrent avec violentes bourrasques et terribles rafales, car il s\'en forme bien quelques-unes sur le Pacifique, malgré son nom. La houle du large vint se briser contre la coque métallique, elle la couvrit de ses embruns comme l\'accore d\'un littoral. Mais Standard-Island ne frémit même pas sous les assauts de cette mer démontée. Les fureurs de l\'Océan sont impuissantes contre elle. Le génie de l\'homme a vaincu la nature.
+
+Quinze jours après, le 11 juin, premier concert de musique de chambre, dont l\'affiche, à lettres électriques, est promenée le long des grandes avenues. Il va sans dire que les instrumentistes ont été préalablement présentés au gouverneur et à la municipalité. Cyrus Bikerstaff leur a fait le plus chaleureux accueil. Les journaux ont rappelé les succès des tournées du Quatuor Concertant dans les États-Unis d\'Amérique, et félicité chaudement le surintendant de s\'être assuré son concours, -- de manière un peu arbitraire, on le sait. Quelle jouissance de voir en même temps que d\'entendre ces artistes exécutant les oeuvres des maîtres ! Quel régal pour les connaisseurs !
+
+De ce que les quatre Parisiens sont engagés au casino de Milliard-City à des appointements fabuleux, il ne faut pas s\'imaginer que leurs concerts doivent être offerts gratuitement au public. Loin de là. L\'administration entend en retirer un large bénéfice, ainsi que font ces imprésarios américains auxquels leurs chanteuses coûtent un dollar la mesure et même la note. D\'habitude, on paye pour les concerts théâtrophoniques et phonographiques du casino, on paiera donc, ce jour-là, infiniment plus cher. Les places sont toutes à prix égal, deux cents dollars le fauteuil, soit mille francs en monnaie française, et Calistus Munbar se flatte de faire salle comble.
+
+Il ne s\'est pas trompé. La location a enlevé toutes les places disponibles. La confortable et élégante salle du casino n\'en contient qu\'une centaine, il est vrai, et si on les eût mises aux enchères, on ne sait trop à quel taux fût montée la recette. Mais cela eut été contraire aux usages de Standard-Island. Tout ce qui a une valeur marchande est coté d\'avance par les mercuriales, le superflu comme le nécessaire. Sans cette précaution, étant données les fortunes invraisemblables de certains, des accaparements pourraient se produire, et c\'est ce qu\'il convenait d\'éviter. Il est vrai, si les riches Tribordais vont au concert par amour de l\'art, il est possible que les riches Bâbordais n\'y aillent que par convenance.
+
+Lorsque Sébastien Zorn, Pinchinat, Yvernès et Frascolin paraissaient devant les spectateurs de New-York, de Chicago, de Philadelphie, de Baltimore, ce n\'était pas exagération de leur part que de dire : voilà un public qui vaut des millions. Eh bien, ce soir-là, ils seraient restés au-dessous de la vérité s\'ils n\'avaient pas compté par milliards.
+
+Qu\'on y songe ! Jem Tankerdon, Nat Coverley et leurs familles brillent au premier rang des fauteuils. Aux autres places, passim, nombre d\'amateurs qui pour n\'être que des sous-milliardaires, n\'en ont pas moins un « fort sac », comme le fait justement remarquer Pinchinat.
+
+« Allons-y ! » dit le chef du quatuor, lorsque l\'heure est arrivée de se présenter sur l\'estrade.
+
+Et ils y vont, pas plus émus d\'ailleurs, ni même autant qu\'ils l\'eussent été devant un public parisien, lequel a peut-être moins d\'argent dans la poche, mais plus de sens artiste dans l\'âme.
+
+Il faut dire que bien qu\'ils n\'aient point encore pris des leçons de leur compatriote Dorémus, Sébastien Zorn, Yvernès, Frascolin, Pinchinat ont une tenue très correcte, cravate blanche de vingt-cinq francs, gants gris-perle de cinquante francs, chemise de soixante-dix francs, bottines de cent quatre-vingts francs, gilet de deux cents francs, pantalon noir de cinq cents francs, habit noir de quinze cents francs -- au compte de l\'administration, bien entendu. Ils sont acclamés, ils sont applaudis très chaudement par les mains tribordaises, plus discrètement par les mains bâbordaises, -- question de tempérament.
+
+Le programme du concert comprend quatre numéros que leur a fournis la bibliothèque du casino, richement approvisionnée par les soins du surintendant :
+
+Premier quatuor en mi bémol : Op. 12 de Mendelsohn, Deuxième quatuor en fa majeur : Op. 16 d\'Haydn, Dixième quatuor en mi bémol : Op. 74 de Beethoven, Cinquième quatuor en la majeur : Op. 10 de Mozart.
+
+Les exécutants font merveille dans cette salle emmilliardée, à bord de cette île flottante, à la surface d\'un abîme dont la profondeur dépasse cinq mille mètres en cette portion du Pacifique. Ils obtiennent un succès considérable et justifié, surtout devant les dilettanti de la section tribordaise. Il faut voir le surintendant pendant cette soirée mémorable : il exulte. On dirait que c\'est lui qui vient de jouer à la fois sur deux violons, un alto et un violoncelle. Quel heureux début pour des champions de la musique concertante -- et pour leur imprésario !
+
+Il y a lieu d\'observer que si la salle est pleine, les abords du casino regorgent de monde. Et, en effet, combien n\'ont pu se procurer ni un strapontin ni un fauteuil, sans parler de ceux que le haut prix des places a écartés. Ces auditeurs du dehors en sont réduits à la portion congrue. Ils n\'entendent que de loin, comme si cette musique fût sortie de la boîte d\'un phonographe ou du pavillon d\'un téléphone. Mais leurs applaudissements n\'en sont pas moins vifs.
+
+Et ils éclatent à tout rompre, lorsque, le concert achevé, Sébastien Zorn, Yvernès, Frascolin et Pinchinat se présentent sur la terrasse du pavillon de gauche. La Unième Avenue est inondée de rayons lumineux. Des hauteurs de l\'espace, les lunes électriques versent des rayons dont la pâle Séléné doit être jalouse.
+
+En face du casino, sur le trottoir, un peu à l\'écart, un couple attire l\'attention d\'Yvernès. Un homme se tient là, une femme à son bras. L\'homme, d\'une taille au-dessus de la moyenne, de physionomie distinguée, sévère, triste même, peut avoir une cinquantaine d\'années. La femme, quelques ans de moins, grande, l\'air fier, laisse voir sous son chapeau des cheveux blanchis par l\'âge.
+
+Yvernès, frappé de leur attitude réservée, les montre à Calistus Munbar : « Quelles sont ces personnes ? lui demande-t-il.
+
+--- Ces personnes ? répond le surintendant, dont les lèvres ébauchent une moue assez dédaigneuse. Oh ! Ce sont des mélomanes enragés.
+
+--- Et pourquoi n\'ont-ils pas loué une place dans la salle du casino ? -- Sans doute, parce que c\'était trop cher pour eux.
+
+--- Alors leur fortune ?
+
+--- À peine deux centaines de mille francs de rente.
+
+--- Peuh ! fait Pinchinat. Et quels sont ces pauvres diables ?
+
+--- Le roi et la reine de Malécarlie. »
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185440 .pcalibre2 .pcalibre1}[]{#_Toc343182979 .pcalibre2 .pcalibre1}[]{#_Toc343180518 .pcalibre2 .pcalibre1}[]{#_Toc343178057 .pcalibre2 .pcalibre1}[]{#_Toc343175596 .pcalibre2 .pcalibre1}[]{#_Toc343173135 .pcalibre2 .pcalibre1}[]{#_Toc343170674 .pcalibre2 .pcalibre1}[]{#_Toc343168213 .pcalibre2 .pcalibre1}[]{#_Toc343165752 .pcalibre2 .pcalibre1}[]{#_Toc343163291 .pcalibre2 .pcalibre1}[]{#_Toc343160830 .pcalibre2 .pcalibre1}[]{#_Toc343158369 .pcalibre2 .pcalibre1}[]{#_Toc343149099 .pcalibre2 .pcalibre1}[]{#_Toc343146638 .pcalibre2 .pcalibre1}[]{#_Toc343144175 .pcalibre2 .pcalibre1}[]{#_Toc343141714 .pcalibre2 .pcalibre1}[]{#_Toc343139253 .pcalibre2 .pcalibre1}[]{#_Toc343136791 .pcalibre2 .pcalibre1}[]{#_Toc343134330 .pcalibre2 .pcalibre1}[]{#_Toc343131869 .pcalibre2 .pcalibre1}[]{#_Toc343129407 .pcalibre2 .pcalibre1}[]{#_Toc343126946 .pcalibre2 .pcalibre1}[]{#_Toc343124482 .pcalibre2 .pcalibre1}[]{#_Toc343122021 .pcalibre2 .pcalibre1}[]{#_Toc343119560 .pcalibre2 .pcalibre1}[]{#_Toc343117106 .pcalibre2 .pcalibre1}[]{#_Toc343114643 .pcalibre2 .pcalibre1}[]{#_Toc343112182 .pcalibre2 .pcalibre1}[]{#_Toc343109721 .pcalibre2 .pcalibre1}[]{#_Toc343105977 .pcalibre2 .pcalibre1}[]{#_Toc343103515 .pcalibre2 .pcalibre1}[]{#_Toc343101052 .pcalibre2 .pcalibre1}[]{#_Toc343098627 .pcalibre2 .pcalibre1}[]{#_Toc343096158 .pcalibre2 .pcalibre1}[]{#_Toc343093696 .pcalibre2 .pcalibre1}[]{#_Toc343091218 .pcalibre2 .pcalibre1}[]{#_Toc343088755 .pcalibre2 .pcalibre1}[]{#_Toc343086293 .pcalibre2 .pcalibre1}[]{#_Toc343083830 .pcalibre2 .pcalibre1}[]{#_Toc343081368 .pcalibre2 .pcalibre1}[]{#_Toc343078907 .pcalibre2 .pcalibre1}[]{#_Toc343076444 .pcalibre2 .pcalibre1}[]{#_Toc343073981 .pcalibre2 .pcalibre1}[]{#_Toc343071515 .pcalibre2 .pcalibre1}[]{#_Toc343043555 .pcalibre2 .pcalibre1}[]{#_Toc343038675 .pcalibre2 .pcalibre1}[]{#_Toc343036310 .pcalibre2 .pcalibre1}[]{#_Toc343033945 .pcalibre2 .pcalibre1}[]{#_Toc343031580 .pcalibre2 .pcalibre1}[]{#_Toc343028024 .pcalibre2 .pcalibre1}[]{#_Toc343025659 .pcalibre2 .pcalibre1}[]{#_Toc343023294 .pcalibre2 .pcalibre1}[]{#_Toc343020928 .pcalibre2 .pcalibre1}[]{#_Toc343018562 .pcalibre2 .pcalibre1}[]{#_Toc343016197 .pcalibre2 .pcalibre1}[]{#_Toc343013832 .pcalibre2 .pcalibre1}[]{#_Toc343011465 .pcalibre2 .pcalibre1}[]{#_Toc343009100 .pcalibre2 .pcalibre1}[]{#_Toc343006735 .pcalibre2 .pcalibre1}[]{#_Toc343004370 .pcalibre2 .pcalibre1}[]{#_Toc343002005 .pcalibre2 .pcalibre1}[]{#_Toc342999640 .pcalibre2 .pcalibre1}[]{#_Toc342997275 .pcalibre2 .pcalibre1}[]{#_Toc342994910 .pcalibre2 .pcalibre1}[]{#_Toc342992545 .pcalibre2 .pcalibre1}[]{#_Toc342990180 .pcalibre2 .pcalibre1}[]{#_Toc342987815 .pcalibre2 .pcalibre1}[]{#_Toc342985448 .pcalibre2 .pcalibre1}[]{#_Toc342983083 .pcalibre2 .pcalibre1}[]{#_Toc342980718 .pcalibre2 .pcalibre1}[]{#_Toc342978353 .pcalibre2 .pcalibre1}[[Chapitre 8 -- Navigation]{lang="X-NONE"}]{#_Toc342942372 .pcalibre2 .pcalibre1} {#chapitre-8-navigation .calibre171 .sigil_not_in_toc}
+
+Après avoir créé cet extraordinaire appareil de navigation, la Standard-Island Company dut pourvoir aux exigences d\'une double organisation, maritime d\'une part, administrative de l\'autre.
+
+La première, on le sait, a pour directeur, ou plutôt pour capitaine, le commodore Ethel Simcoë, de la marine des États-Unis.
+
+C\'est un homme de cinquante ans, navigateur expérimenté, connaissant à fond les parages du Pacifique, ses courants, ses tempêtes, ses écueils, ses substructions coralligènes. De là, parfaite aptitude pour conduire d\'une main sûre l\'île à hélice confiée à ses soins et les riches existences dont il est responsable devant Dieu et les actionnaires de la Société.
+
+La seconde organisation, celle qui comprend les divers services administratifs, est entre les mains du gouverneur de l\'île.
+
+M. Cyrus Bikerstaff est un Yankee du Maine, l\'un des états fédéraux qui prirent la moindre part aux luttes fratricides de la Confédération américaine pendant la guerre de sécession. Cyrus Bikerstaff a donc été heureusement choisi pour garder un juste milieu entre les deux sections de l\'île.
+
+Le gouverneur, qui touche aux limites de la soixantaine, est célibataire. C\'est un homme froid, possédant le self control, très énergique sous sa flegmatique apparence, très anglais par son attitude réservée, ses manières gentlemanesques, la discrétion diplomatique qui préside à ses paroles comme à ses actes. En tout autre pays qu\'en Standard-Island, ce serait un homme très considérable et, par suite, très considéré. Mais ici, il n\'est, en somme, que l\'agent supérieur de la Compagnie. En outre, bien que son traitement vaille la liste civile d\'un petit souverain de l\'Europe, il n\'est pas riche, et quelle figure peut-il faire en présence des nababs de Milliard-City ?
+
+Cyrus Bikerstaff, en même temps que gouverneur de l\'île, est le maire de la capitale. Comme tel, il occupe l\'hôtel de ville élevé à l\'extrémité de la Unième Avenue, à l\'opposé de l\'observatoire, où réside le commodore Ethel Simcoë. Là sont établis ses bureaux, là sont reçus tous les actes de l\'état civil, naissances, avec une moyenne de natalité suffisante pour assurer l\'avenir, décès, -- les morts sont transportés au cimetière de la baie Madeleine, -- mariages qui doivent être célébrés civilement avant de l\'être religieusement, suivant le code de Standard-Island. Là fonctionnent les divers services de l\'administration, et ils ne donnent jamais lieu à aucune plainte des administrés. Cela fait honneur au maire et à ses agents. Lorsque Sébastien Zorn, Pinchinat, Yvernès, Frascolin lui furent présentés par le surintendant, ils éprouvèrent en sa présence une très favorable impression, celle que produit l\'individualité d\'un homme bon et juste, d\'un esprit pratique, qui ne s\'abandonne ni aux préjugés ni aux chimères.
+
+« Messieurs, leur a-t-il dit, c\'est une heureuse chance pour nous que de vous avoir. Peut-être le procédé employé par notre surintendant n\'a-t-il pas été d\'une correction absolue. Mais vous l\'excuserez, je n\'en doute pas ? D\'ailleurs, vous n\'aurez point à vous plaindre de notre municipalité. Elle ne vous demandera que deux concerts mensuels, vous laissant libres d\'accepter les invitations particulières qui pourraient vous être adressées. Elle salue en vous des musiciens de grande valeur, et n\'oubliera jamais que vous aurez été les premiers artistes qu\'elle aura eu l\'honneur de recevoir ! » Le quatuor fut enchanté de cet accueil et ne cacha point sa satisfaction à Calistus Munbar.
+
+« Oui ! C\'est un homme aimable, M. Cyrus Bikerstaff, répond le surintendant avec un léger mouvement d\'épaule. Il est regrettable qu\'il ne possède point un ou deux milliards\...
+
+--- On n\'est pas parfait ! » réplique Pinchinat. Le gouverneur-maire de Milliard-City est doublé de deux adjoints qui l\'aident dans l\'administration très simple de l\'île à hélice. Sous leurs ordres, un petit nombre d\'employés, rétribués comme il convient, sont affectés aux divers services. De conseil municipal, point. À quoi bon ? Il est remplacé par le conseil des notables, -- une trentaine de personnages des plus qualifiés par leur intelligence et leur fortune. Il se réunit lorsqu\'il s\'agit de quelque importante mesure à prendre -- entre autres, le tracé de l\'itinéraire qui doit être suivi dans l\'intérêt de l\'hygiène générale. Ainsi que nos Parisiens pouvaient le voir, il y a là, quelquefois, matière à discussion, et difficultés pour se mettre d\'accord. Mais jusqu\'ici, grâce à son intervention habile et sage, Cyrus Bikerstaff a toujours pu concilier les intérêts opposés, ménager les amours-propres de ses administrés. Il est entendu que l\'un des adjoints est protestant, Barthélémy Ruge, l\'autre catholique, Hubley Harcourt, tous deux choisis parmi les hauts fonctionnaires de la Standard-Island Company, et ils secondent avec zèle Cyrus Bikerstaff. Ainsi se comporte, depuis dix-huit mois déjà, dans la plénitude de son indépendance, en dehors même de toutes relations diplomatiques, libre sur cette vaste mer du Pacifique, à l\'abri des intempéries désobligeantes, sous le ciel de son choix, l\'île sur laquelle le quatuor va résider une année entière. Qu\'il y soit exposé à certaines aventures, que l\'avenir lui réserve quelque imprévu, il ne saurait ni l\'imaginer ni le craindre, quoi qu\'en dise le violoncelliste, tout étant réglé, tout se faisant avec ordre et régularité. Et pourtant, en créant ce domaine artificiel, lancé à la surface d\'un vaste océan, le génie humain n\'a-t-il pas dépassé les limites assignées à l\'homme par le Créateur ? La navigation continue vers l\'ouest.
+
+Chaque jour, au moment où le soleil franchit le méridien, le point est établi par les officiers de l\'observatoire placés sous les ordres du commodore Ethel Simcoë. Un quadruple cadran, disposé aux faces latérales du beffroi de l\'hôtel de ville, donne la position exacte en longitude et en latitude, et ces indications sont reproduites télégraphiquement au coin des divers carrefours, dans les hôtels, dans les édifices publics, à l\'intérieur des habitations particulières, en même temps que l\'heure qui varie suivant le déplacement vers l\'ouest ou vers l\'est. Les Milliardais peuvent donc à chaque instant savoir quel endroit Standard-Island occupe sur l\'itinéraire. À part ce déplacement insensible à la surface de cet Océan, Milliard-City n\'offre aucune différence avec les grandes capitales de l\'ancien et du nouveau continent. L\'existence y est identique. Même fonctionnement de la vie publique et privée.
+
+Peu occupés, en somme, nos instrumentistes emploient leurs premiers loisirs à visiter tout ce que renferme de curieux le Joyau du Pacifique. Les trams les transportent vers tous les points de l\'île. Les deux fabriques d\'énergie électrique excitent chez eux une réelle admiration par l\'ordonnance si simple de leur outillage, la puissance de leurs engins actionnant un double chapelet d\'hélices, l\'admirable discipline de leur personnel, l\'une dirigée par l\'ingénieur Watson, l\'autre par l\'ingénieur Somwah. À des intervalles réguliers, Bâbord-Harbour et Tribord-Harbour reçoivent dans leurs bassins les steamers affectés au service de Standard-Island, suivant que sa position présente plus de facilité pour l\'atterrissage.
+
+Si l\'obstiné Sébastien Zorn se refuse à admirer ces merveilles, si Frascolin est plus modéré dans ses sentiments, en quel état de ravissement vit sans cesse l\'enthousiaste Yvernès ! À son opinion, le vingtième siècle ne s\'écoulera pas sans que les mers soient sillonnées de villes flottantes.
+
+Ce doit être le dernier mot du progrès et du confort dans l\'avenir. Quel spectacle superbe que celui de cette île mouvante, allant visiter ses soeurs de l\'Océanie ! Quant à Pinchinat, en ce milieu opulent, il se sent particulièrement grisé à n\'entendre parler que de millions, comme on parle ailleurs de vingt-cinq louis. Les banknotes sont de circulation courante. On a d\'habitude deux ou trois mille dollars dans sa poche. Et, plus d\'une fois, Son Altesse de dire à Frascolin :
+
+« Mon vieux, tu n\'aurais pas la monnaie de cinquante mille francs sur toi ? »
+
+Entre temps, le Quatuor Concertant a fait quelques connaissances, étant assuré de recevoir partout un excellent accueil. D\'ailleurs, sur la recommandation de l\'étourdissant Munbar, qui ne se fût empressé de les bien traiter ?
+
+En premier lieu, ils sont allés rendre visite à leur compatriote, Athanase Dorémus, professeur de danse, de grâces et de maintien.
+
+Ce brave homme occupe, dans la section tribordaise, une modeste maison de la Vingt-cinquième Avenue, à trois mille dollars de loyer. Il est servi par une vieille négresse à cent dollars mensuels. Enchanté est-il d\'entrer en relation avec des Français\... Des Français qui font honneur à la France.
+
+C\'est un vieillard de soixante-dix ans, maigriot, efflanqué, de petite taille, le regard encore vif, toutes ses dents bien à lui ainsi que son abondante chevelure frisottante, blanche comme sa barbe. Il marche posément, avec une certaine cadence rythmique, le buste en avant, les reins cambrés, les bras arrondis, les pieds un peu en dehors et irréprochablement chaussés. Nos artistes ont grand plaisir à le faire causer, et volontiers il s\'y prête, car sa grâce n\'a d\'égale que sa loquacité.
+
+« Que je suis heureux, mes chers compatriotes, que je suis heureux, répète-t-il vingt fois à la première visite, que je suis heureux de vous voir ! Quelle excellente idée vous avez eue de venir vous fixer dans cette ville ! Vous ne le regretterez pas, car je ne saurais comprendre, maintenant que j\'y suis habitué, qu\'il soit possible de vivre d\'une autre façon !
+
+--- Et depuis combien de temps êtes-vous ici, monsieur Dorémus ? demande Yvernès.
+
+--- Depuis dix-huit mois, répond le professeur, en ramenant ses pieds à la seconde position. Je suis de la fondation de Standard-Island. Grâce aux excellentes références dont je disposais à la Nouvelle-Orléans où j\'étais établi, j\'ai pu faire accepter mes services à M. Cyrus Bikerstaff, notre adoré gouverneur. À partir de ce jour béni, les appointements qui me furent attribués pour diriger un conservatoire de danse, de grâces et de maintien, m\'ont permis d\'y vivre\...
+
+--- En millionnaire ! s\'écrie Pinchinat.
+
+--- Oh ! Les millionnaires ici\...
+
+--- Je sais\... Je sais\... Mon cher compatriote. Mais, d\'après ce que nous a laissé entendre le surintendant, les cours de votre conservatoire ne seraient pas très suivis\...
+
+--- Je n\'ai d\'élèves qu\'en ville, c\'est la vérité, et uniquement des jeunes gens. Les jeunes Américaines se croient pourvues en naissant de toutes les grâces nécessaires. Aussi les jeunes gens préfèrent-ils prendre des leçons en secret, et c\'est en secret que je leur inculque les belles manières françaises ! »
+
+Et il sourit en parlant, il minaude comme une vieille coquette, il se dépense en gracieuses attitudes.
+
+Athanase Dorémus, un Picard du Santerre, a quitté la France dès sa prime jeunesse pour venir s\'installer aux États-Unis, à la Nouvelle-Orléans. Là, parmi la population d\'origine française de notre regrettée Louisiane, les occasions ne lui ont pas manqué d\'exercer ses talents. Admis dans les principales familles, il obtint des succès et put faire quelques économies, qu\'un crack des plus américains lui enleva un beau jour. C\'était au moment où la Standard-Island Company lançait son affaire, multipliant ses prospectus, prodiguant ses annonces, jetant ses appels à tous ces ultra-riches auxquels les chemins de fer, les mines de pétrole, le commerce des porcs, salés ou non, avaient constitué des fortunes incalculables.
+
+Athanase Dorémus eut alors l\'idée de demander un emploi au gouverneur de la nouvelle cité, où les professeurs de son espèce ne se feraient guère concurrence. Avantageusement connu de la famille Coverley, qui était originaire de la Nouvelle-Orléans, et grâce à la recommandation de son chef, lequel allait devenir l\'un des notables les plus en vue des Tribordais de Milliard-City, il fut agréé, et voilà comment un Français, et même un Picard, comptait parmi les fonctionnaires de Standard-Island.
+
+Il est vrai, ses leçons ne se donnent que chez lui, et la salle de cours au casino ne voit jamais que la propre personne du professeur se réfléchir dans ses glaces. Mais qu\'importe, puisque ses appointements n\'en subissent aucune diminution.
+
+En somme, un brave homme, quelque peu ridicule et maniaque, assez infatué de lui-même, persuadé qu\'il possède, avec l\'héritage des Vestris et des Saint-Léon, les traditions des Brummel et des lord Seymour. De plus, aux yeux du quatuor, c\'est un compatriote, -- qualité qui vaut toujours d\'être appréciée à quelques milliers de lieues de la France.
+
+Il faut lui narrer les dernières aventures des quatre Parisiens, lui raconter dans quelles conditions ils sont arrivés sur l\'île à hélice, comme quoi Calistus Munbar les a attirés à son bord -- c\'est le mot, -- et comme quoi le navire a levé l\'ancre quelques heures après l\'embarquement.
+
+« Voilà qui ne m\'étonne pas de notre surintendant, répond le vieux professeur. C\'est encore un tour de sa façon\... Il en a fait et en fera bien d\'autres ! Un vrai fils de Barnum, qui finira par compromettre la Compagnie\... Un monsieur sans-gêne, qui aurait bien besoin de quelques leçons de maintien\... Un de ces Yankees qui se carrent dans un fauteuil, les pieds sur l\'appui de la fenêtre ! Pas méchant, au fond, mais se croyant tout permis !
+
+D\'ailleurs, mes chers compatriotes, ne songez point à lui en vouloir, et, sauf le désagrément d\'avoir manqué le concert de San-Diégo, vous n\'aurez qu\'à vous féliciter de votre séjour à Milliard-City. On aura pour vous des égards\... Auxquels vous serez sensibles\...
+
+
+Sur la question qui lui est posée au sujet de la rivalité entre les deux sections de l\'île, Athanase Dorémus confirme le dire de Calistus Munbar. À son avis, il y aurait là un point noir à l\'horizon, et même menace de prochaine bourrasque. Entre les Tribordais et les Bâbordais, on doit craindre quelque conflit d\'intérêts et d\'amour-propre. Les familles Tankerdon et Coverley, les plus riches de l\'endroit, témoignent d\'une jalousie croissante l\'une envers l\'autre, et peut-être se produira-t-il un éclat, si quelque combinaison ne parvient pas à les rapprocher. Oui\... Un éclat ! « Pourvu que cela ne fasse pas éclater l\'île, nous n\'avons point à nous en inquiéter\... Observe Pinchinat.
+
+--- Du moins, tant que nous y serons embarqués ! ajoute le violoncelliste.
+
+--- Oh ! Elle est solide, mes chers compatriotes ! répondit Athanase Dorémus. Depuis dix-huit mois elle se promène sur mer, et il ne lui est jamais arrivé un accident de quelque importance.
+
+Rien que 3 réparations insignifiantes, et qui ne l\'obligeaient même pas d\'aller relâcher à la baie Madeleine ! Songez donc, c\'est en tôle d\'acier ! » Voilà qui répond à tout, et si la tôle d\'acier ne donne pas une absolue garantie en ce monde, à quel métal se fier ? L\'acier, c\'est du fer, et notre globe lui-même est-il autre chose en presque totalité qu\'un énorme carbure ? Eh bien, Standard-Island, c\'est la terre en petit.
+
+Pinchinat est alors conduit à demander ce que le professeur pense du gouverneur Cyrus Bikerstaff. « Est-il en acier, lui aussi ?
+
+--- Oui, monsieur Pinchinat, répond Athanase Dorémus. Doué d\'une grande énergie, c\'est un administrateur fort habile.
+
+Malheureusement, à Milliard-City, il ne suffit pas d\'être en acier\... -- Il faut être en or, riposte Yvernès.
+
+--- Comme vous dites, ou bien l\'on ne compte pas ! » C\'est le mot juste. Cyrus Bikerstaff, en dépit de sa haute situation, n\'est qu\'un agent de la Compagnie. Il préside aux divers actes de l\'état civil, il est chargé de percevoir le produit des douanes, de veiller à l\'hygiène publique, au balayage des rues, à l\'entretien des plantations, de recevoir les réclamations des contribuables, -- en un mot, de se faire des ennemis de la plupart de ses administrés, -- mais rien de plus. À Standard-Island, il faut compter, et le professeur l\'a dit : Cyrus Bikerstaff ne compte pas.
+
+Du reste, sa fonction l\'oblige à se maintenir entre les deux partis, à garder une attitude conciliante, à ne rien risquer qui puisse être agréable à l\'un si cela n\'est agréable à l\'autre.
+
+Politique peu facile. En effet, on commence déjà à voir poindre des idées qui pourraient bien amener un conflit entre les deux sections. Si les Tribordais ne se sont établis sur Standard-Island que dans la pensée de jouir paisiblement de leurs richesses, voilà que les Bâbordais commencent à regretter les affaires. Ils se demandent pourquoi on n\'utiliserait pas l\'île à hélice comme un immense bâtiment de commerce, pourquoi elle ne transporterait pas des cargaisons sur les divers comptoirs de l\'Océanie, pourquoi toute industrie est bannie de Standard-Island\... Bref, bien qu\'ils n\'y soient que depuis moins de deux ans, ces Yankees, Tankerdon en tête, se sentent repris de la nostalgie du négoce. Seulement, si, jusqu\'alors, ils s\'en sont tenus aux paroles, cela ne laisse pas d\'inquiéter le gouverneur Cyrus Bikerstaff. Il espère, toutefois, que l\'avenir ne s\'envenimera pas, et que les dissensions intestines ne viendront point troubler un appareil fabriqué tout exprès pour la tranquillité de ses habitants. En prenant congé d\'Athanase Dorémus, le quatuor promet de revenir le voir.
+
+D\'ordinaire, le professeur se rend dans l\'après-midi au casino, où il ne se présente personne. Et là, ne voulant pas qu\'on puisse l\'accuser d\'inexactitude, il attend, en préparant sa leçon devant les glaces inutilisées de la salle. Cependant l\'île à hélice gagne quotidiennement vers l\'ouest, et un peu vers le sud-ouest, de manière à rallier l\'archipel des Sandwich. Sous ces parallèles, qui confinent à la zone torride, la température est déjà élevée.
+
+Les Milliardais la supporteraient mal sans les adoucissements de la brise de mer. Heureusement, les nuits sont fraîches, et, même en pleine canicule, les arbres et les pelouses, arrosés d\'une pluie artificielle, conservent leur verdeur attrayante. Chaque jour, à midi, le point, indiqué sur le cadran de l\'hôtel de ville, est télégraphié aux divers quartiers. Le 17 juin, Standard-Island s\'est trouvée par 155° de longitude ouest et 27° de latitude nord et s\'approche du tropique.
+
+« On dirait que c\'est l\'astre du jour qui la remorque, déclame Yvernès, ou, si vous voulez, plus élégamment, qu\'elle a pour attelage les chevaux du divin Apollon ! »
+
+Observation aussi juste que poétique, mais que Sébastien Zorn accueille par un haussement d\'épaules. Ça ne lui convenait pas de jouer ce rôle de remorqué\... Malgré lui.
+
+Et puis, ne cesse-t-il de répéter, nous verrons comment finira cette aventure ! »
+
+Il est rare que le quatuor n\'aille pas chaque jour faire son tour de parc, à l\'heure où les promeneurs abondent. À cheval, à pied, en voiture, tout ce que Milliard-City compte de notables se rencontre autour des pelouses. Les mondaines y montrent leur troisième toilette quotidienne, celle-là d\'une teinte unie, depuis le chapeau jusqu\'aux bottines, et le plus généralement en soie des Indes, très à la mode cette année. Souvent aussi elles font usage de cette soie artificielle en cellulose, qui est si chatoyante, ou même du coton factice en bois de sapin ou de larix, défibré et désagrégé.
+
+Ce qui amène Pinchinat à dire :
+
+« Vous verrez qu\'un jour on fabriquera des tissus en bois de lierre pour les amis fidèles et en saule pleureur pour les veuves inconsolables ! »
+
+Dans tous les cas, les riches Milliardaises n\'accepteraient pas ces étoffes, si elles ne venaient de Paris, ni ces toilettes, si elles n\'étaient signées du roi des couturiers de la capitale, -- de celui qui a proclamé hautement cet axiome : « La femme n\'est qu\'une question de formes ».
+
+Quelquefois, le roi et la reine de Malécarlie passent au milieu de cette gentry fringante. Le couple royal, déchu de sa souveraineté, inspire une réelle sympathie à nos artistes. Quelles réflexions leur viennent à voir ces augustes personnages, au bras l\'un de l\'autre ! Ils sont relativement pauvres parmi ces opulents, mais on les sent fiers et dignes, comme des philosophes dégagés des préoccupations de ce monde. Il est vrai que, au fond, les Américains de Standard-Island sont très flattés d\'avoir un roi pour concitoyen, et lui continuent les égards dus à son ancienne situation. Quant au quatuor, il salue respectueusement Leurs Majestés, lorsqu\'il les rencontre dans les avenues de la ville ou sur les allées du parc. Le roi et la reine se montrent sensibles à ces marques de déférence si françaises. Mais, en somme, Leurs Majestés ne comptent pas plus que Cyrus Bikerstaff, -- moins peut-être.
+
+En vérité, les voyageurs que la navigation effraie devraient adopter ce genre de traversée à bord d\'une île mouvante. En ces conditions, il n\'y a point à se préoccuper des éventualités de mer. Rien à redouter de ses bourrasques. Avec dix millions de chevaux-vapeur dans ses flancs, une Standard-Island ne peut jamais être retenue par les calmes, et elle est assez puissante pour lutter contre les vents contraires. Si les collisions constituent un danger, ce n\'est pas pour elle. Tant pis pour les bâtiments qui se jetteraient à pleine vapeur ou à toutes voiles sur ses côtes de fer. Et encore ces rencontres sont-elles peu à craindre, grâce aux feux qui éclairent ses ports, sa proue et sa poupe, grâce aux lueurs électriques de ses lunes d\'aluminium dont l\'atmosphère est saturée pendant la nuit. Quant aux tempêtes, autant vaut n\'en point parler. Elle est de taille à mettre un frein à la fureur des flots.
+
+Mais, lorsque leur promenade amène Pinchinat et Frascolin jusqu\'à l\'avant ou à l\'arrière de l\'île, soit à la batterie de l\'Éperon, soit à la batterie de Poupe, ils sont tous deux de cet avis que cela manque de caps, de promontoires, de pointes, d\'anses, de grèves. Ce littoral n\'est qu\'un épaulement d\'acier, maintenu par des millions de boulons et de rivets. Et combien un peintre aurait lieu de regretter ces vieux rochers, rugueux comme une peau d\'éléphant, dont le ressac caresse les goémons et les varechs à la marée montante ! Décidément, on ne remplace pas les beautés de la nature par les merveilles de l\'industrie. Malgré son admiration permanente, Yvernès est forcé d\'en convenir. L\'empreinte du Créateur, c\'est bien ce qui manque à cette île artificielle.
+
+Dans la soirée du 25 juin, Standard-Island franchit le tropique du Cancer sur la limite de la zone torride du Pacifique. À cette heure-là, le quatuor se fait entendre pour la seconde fois dans la salle du casino. Observons que, le premier succès aidant, le prix des fauteuils a été augmenté d\'un tiers.
+
+Peu importe, la salle est encore trop petite. Les dilettanti s\'en disputent les places. Évidemment, cette musique de chambre doit être excellente pour la santé, et personne ne se permettrait de mettre doute ses qualités thérapeutiques. Toujours des solutions de Mozart, de Beethoven, d\'Haydn, suivant la formule.
+
+Immense succès pour les exécutants, auxquels des bravos parisiens eussent certainement fait plus de plaisir.
+
+Mais, à leur défaut, Yvernès, Frascolin et Pinchinat savent se contenter des hurrahs milliardais, pour lesquels Sébastien Zorn continue à professer un dédain absolu.
+
+« Que pourrions-nous exiger de plus, lui dit Yvernès, quand on passe le tropique\...
+
+--- Le tropique du « concert » ! Réplique Pinchinat, qui s\'enfuit sur cet abominable jeu de mot.
+
+Et, lorsqu\'ils sortent du casino, qu\'aperçoivent-ils au milieu des pauvres diables qui n\'ont pu mettre trois cent soixante dollars à un fauteuil ? Le roi et la reine de Malécarlie se tenant modestement à la porte.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185441 .pcalibre2 .pcalibre1}[]{#_Toc343182980 .pcalibre2 .pcalibre1}[]{#_Toc343180519 .pcalibre2 .pcalibre1}[]{#_Toc343178058 .pcalibre2 .pcalibre1}[]{#_Toc343175597 .pcalibre2 .pcalibre1}[]{#_Toc343173136 .pcalibre2 .pcalibre1}[]{#_Toc343170675 .pcalibre2 .pcalibre1}[]{#_Toc343168214 .pcalibre2 .pcalibre1}[]{#_Toc343165753 .pcalibre2 .pcalibre1}[]{#_Toc343163292 .pcalibre2 .pcalibre1}[]{#_Toc343160831 .pcalibre2 .pcalibre1}[]{#_Toc343158370 .pcalibre2 .pcalibre1}[]{#_Toc343149100 .pcalibre2 .pcalibre1}[]{#_Toc343146639 .pcalibre2 .pcalibre1}[]{#_Toc343144176 .pcalibre2 .pcalibre1}[]{#_Toc343141715 .pcalibre2 .pcalibre1}[]{#_Toc343139254 .pcalibre2 .pcalibre1}[]{#_Toc343136792 .pcalibre2 .pcalibre1}[]{#_Toc343134331 .pcalibre2 .pcalibre1}[]{#_Toc343131870 .pcalibre2 .pcalibre1}[]{#_Toc343129408 .pcalibre2 .pcalibre1}[]{#_Toc343126947 .pcalibre2 .pcalibre1}[]{#_Toc343124483 .pcalibre2 .pcalibre1}[]{#_Toc343122022 .pcalibre2 .pcalibre1}[]{#_Toc343119561 .pcalibre2 .pcalibre1}[]{#_Toc343117107 .pcalibre2 .pcalibre1}[]{#_Toc343114644 .pcalibre2 .pcalibre1}[]{#_Toc343112183 .pcalibre2 .pcalibre1}[]{#_Toc343109722 .pcalibre2 .pcalibre1}[]{#_Toc343105978 .pcalibre2 .pcalibre1}[]{#_Toc343103516 .pcalibre2 .pcalibre1}[]{#_Toc343101053 .pcalibre2 .pcalibre1}[]{#_Toc343098628 .pcalibre2 .pcalibre1}[]{#_Toc343096159 .pcalibre2 .pcalibre1}[]{#_Toc343093697 .pcalibre2 .pcalibre1}[]{#_Toc343091219 .pcalibre2 .pcalibre1}[]{#_Toc343088756 .pcalibre2 .pcalibre1}[]{#_Toc343086294 .pcalibre2 .pcalibre1}[]{#_Toc343083831 .pcalibre2 .pcalibre1}[]{#_Toc343081369 .pcalibre2 .pcalibre1}[]{#_Toc343078908 .pcalibre2 .pcalibre1}[]{#_Toc343076445 .pcalibre2 .pcalibre1}[]{#_Toc343073982 .pcalibre2 .pcalibre1}[]{#_Toc343071516 .pcalibre2 .pcalibre1}[]{#_Toc343043556 .pcalibre2 .pcalibre1}[]{#_Toc343038676 .pcalibre2 .pcalibre1}[]{#_Toc343036311 .pcalibre2 .pcalibre1}[]{#_Toc343033946 .pcalibre2 .pcalibre1}[]{#_Toc343031581 .pcalibre2 .pcalibre1}[]{#_Toc343028025 .pcalibre2 .pcalibre1}[]{#_Toc343025660 .pcalibre2 .pcalibre1}[]{#_Toc343023295 .pcalibre2 .pcalibre1}[]{#_Toc343020929 .pcalibre2 .pcalibre1}[]{#_Toc343018563 .pcalibre2 .pcalibre1}[]{#_Toc343016198 .pcalibre2 .pcalibre1}[]{#_Toc343013833 .pcalibre2 .pcalibre1}[]{#_Toc343011466 .pcalibre2 .pcalibre1}[]{#_Toc343009101 .pcalibre2 .pcalibre1}[]{#_Toc343006736 .pcalibre2 .pcalibre1}[]{#_Toc343004371 .pcalibre2 .pcalibre1}[]{#_Toc343002006 .pcalibre2 .pcalibre1}[]{#_Toc342999641 .pcalibre2 .pcalibre1}[]{#_Toc342997276 .pcalibre2 .pcalibre1}[]{#_Toc342994911 .pcalibre2 .pcalibre1}[]{#_Toc342992546 .pcalibre2 .pcalibre1}[]{#_Toc342990181 .pcalibre2 .pcalibre1}[]{#_Toc342987816 .pcalibre2 .pcalibre1}[]{#_Toc342985449 .pcalibre2 .pcalibre1}[]{#_Toc342983084 .pcalibre2 .pcalibre1}[]{#_Toc342980719 .pcalibre2 .pcalibre1}[]{#_Toc342978354 .pcalibre2 .pcalibre1}[[Chapitre 9 -- L\'archipel des Sandwich]{lang="X-NONE"}]{#_Toc342942373 .pcalibre2 .pcalibre1} {#chapitre-9-larchipel-des-sandwich .calibre171 .sigil_not_in_toc}
+
+Il existe, en cette portion du Pacifique, une chaîne sous-marine dont on verrait le développement de l\'ouest-nord-ouest à l\'est-sud-est sur neuf cents lieues, si les abîmes de quatre mille mètres, qui la séparent des autres terres océaniennes, venaient à se vider. De cette chaîne, il n\'apparaît que huit sommets : Nühau, Kaouaï, Oahu, Molokaï, Lanaï, Mauï, Kaluhani, Hawaï. Ces huit îles, d\'inégales grandeurs, constituent l\'archipel hawaïen, autrement dit le groupe des Sandwich. Ce groupe ne dépasse la zone tropicale que par le semis de roches et de récifs qui se prolonge vers l\'ouest.
+
+Laissant Sébastien Zorn bougonner dans son coin, s\'enfermer dans une complète indifférence pour toutes les curiosités naturelles, comme un violoncelle dans sa boîte, Pinchinat, Yvernès, Frascolin raisonnent ainsi et n\'ont pas tort.
+
+« Ma foi, dit l\'un, je ne suis pas fâché de visiter ces îles hawaïennes ! Puisque nous faisons tant que de courir l\'océan Pacifique, le mieux est d\'en rapporter au moins des souvenirs !
+
+--- J\'ajoute, répond l\'autre, que les naturels des Sandwich nous reposeront un peu des Pawnies, des Sioux ou autres Indiens trop civilisés du Far-West, et il ne me déplaît pas de rencontrer de véritables sauvages\... Des cannibales\... -- Ces Havaïens le sont-ils encore ? demande le troisième.
+
+--- Espérons-le, répond sérieusement Pinchinat. Ce sont leurs grands-pères qui ont mangé le capitaine Cook, et, quand les grands-pères ont goûté à cet illustre navigateur, il n\'est pas admissible que les petits-fils aient perdu le goût de la chair humaine ! »
+
+Il faut l\'avouer, Son Altesse parlait trop irrévérencieusement du célèbre marin anglais qui a découvert cet archipel en 1778.
+
+Ce qui ressort de cette conversation, c\'est que nos artistes espèrent que les hasards de leur navigation vont les mettre en présence d\'indigènes plus authentiques que les spécimens exhibés dans les Jardins d\'Acclimatation, et, en tout cas, dans leur pays d\'origine, au lieu même de production. Ils éprouvent donc une certaine impatience d\'y arriver, attendant chaque jour que les vigies de l\'observatoire signalent les premières hauteurs du groupe hawaïen.
+
+Cela s\'est produit dans la matinée du 6 juillet. La nouvelle s\'en répand aussitôt, et la pancarte du casino porte cette mention télautographiquement inscrite :
+
+« Standard-Island en vue des îles Sandwich. »
+
+Il est vrai, on en est encore à cinquante lieues ; mais les plus hautes cimes du groupe, celles de l\'île Havaï, dépassant quatre mille deux cents mètres, sont, par beau temps, visibles à cette distance.
+
+Venant du nord-est, le commodore Ethel Simcoë s\'est dirigé vers Oahu ayant pour capitale Honolulu, qui est en même temps la capitale de l\'archipel. Cette île est la troisième du groupe en latitude. Nühau, qui est un vaste parc à bétail, et Kaouaï lui restent dans le nord-ouest. Oahu n\'est pas la plus grande des Sandwich, puisqu\'elle ne mesure que seize cent quatre-vingts kilomètres carrés, tandis que Hawaï s\'étend sur près de dix-sept mille. Quant aux autres îles, elles n\'en comptent que trois mille huit cent-douze dans leur ensemble.
+
+Il va de soi que les artistes parisiens, depuis le départ, ont noué des relations agréables avec les principaux fonctionnaires de Standard-Island. Tous, aussi bien le gouverneur, le commodore et le colonel Stewart que les ingénieurs en chef Watson et Somwah, se sont empressés de leur faire le plus sympathique accueil. Rendant souvent visite à l\'observatoire, ils se plaisent à rester des heures sur la plate-forme de la tour. On ne s\'étonnera donc pas que ce jour-là, Yvernès et Pinchinat, les ardents de la troupe, soient venus de ce côté, et, vers dix heures du matin, l\'ascenseur les a hissés « en tête de mât », comme dit Son Altesse.
+
+Le commodore Ethel Simcoë s\'y trouvait déjà, et, prêtant sa longue-vue aux deux amis, il leur conseille d\'observer un point à l\'horizon du sud-ouest entre les basses brumes du ciel.
+
+« C\'est le Mauna Loa d\'Havaï, dit-il, ou c\'est le Mauna Kea, deux superbes volcans, qui, en 1852 et en 1855, précipitèrent sur l\'île un fleuve de lave couvrant sept cents mètres carrés, et dont les cratères, en 1880, projetèrent sept cents millions de mètres cubes de matières éruptives !
+
+--- Fameux ! répond Yvernès. Pensez-vous, commodore, que nous aurons la bonne chance de voir un pareil spectacle ?
+
+--- Je l\'ignore, monsieur Yvernès, répond Ethel Simcoë. Les volcans ne fonctionnent pas par ordre\...
+
+--- Oh ! Pour cette fois seulement, et avec des protections ? ajoute Pinchinat. Si j\'étais riche comme MM. Tankerdon et Coverley, je me paierais des éruptions à ma fantaisie\...
+
+--- Eh bien, nous leur en parlerons, réplique le commodore en souriant, et je ne doute pas qu\'ils fassent même l\'impossible pour vous être agréables. » Là-dessus, Pinchinat demande quelle est la population de l\'archipel des Sandwich. Le commodore lui apprend que, si elle a pu être de deux cent mille habitants au commencement du siècle, elle se trouve actuellement réduite de moitié.
+
+« Bon ! Monsieur Simcoë, cent mille sauvages, c\'est encore assez, et, pour peu qu\'ils soient restés de braves cannibales et qu\'ils n\'aient rien perdu de leur appétit, ils ne feraient qu\'une bouchée de tous les Milliardais de Standard-Island ! »
+
+Ce n\'est pas la première fois que l\'île rallie cet archipel havaïen. L\'année précédente, elle a traversé ces parages, attirée par la salubrité du climat. Et, en effet, des malades y viennent d\'Amérique, en attendant que les médecins d\'Europe y envoient leur clientèle humer l\'air du Pacifique. Pourquoi pas ? Honolulu n\'est plus maintenant qu\'à vingt-cinq jours de Paris, et quand il s\'agit de s\'imprégner les poumons d\'un oxygène comme on n\'en respire nulle part\...
+
+Standard-Island arrive en vue du groupe dans la matinée du 9 juillet. L\'île d\'Oahu se dessine à cinq milles dans le sud-ouest.
+
+Au-dessus, pointent, à l\'est, le Diamond-Head, ancien volcan qui domine la rade sur l\'arrière, et un autre cône nommé le Bol de Punch par les Anglais. Ainsi que l\'observe le commodore, cette énorme cuvette fût-elle remplie de brandy ou de gin, John Bull ne serait pas gêné de la vider tout entière.
+
+On passe entre Oahu et Molokaï. Standard-Island, ainsi qu\'un bâtiment sous l\'action de son gouvernail, évolue en combinant le jeu de ses hélices de tribord et de bâbord. Après avoir doublé le cap sud-est d\'Oahu, l\'appareil flottant s\'arrête, vu son tirant d\'eau très considérable, à dix encablures du littoral. Comme il fallait, pour conserver à l\'île son évitage, la tenir à suffisante distance de terre, elle ne « mouillait » pas, dans le sens rigoureux du mot, c\'est-à-dire qu\'on n\'employait pas les ancres, ce qui eût été impossible par des fonds de cent mètres et au-delà. Aussi, au moyen des machines, qui manoeuvrent en avant ou en arrière pendant toute la durée de son séjour, la maintient-on en place, aussi immobile que les huit principales îles de l\'archipel havaïen.
+
+Le quatuor contemple les hauteurs qui se développent devant ses yeux.
+
+Du large, on n\'aperçoit que des massifs d\'arbres, des bosquets d\'orangers et autres magnifiques spécimens de la flore tempérée. À l\'ouest, par une étroite brèche du récif, apparaît un petit lac intérieur, le lac des Perles, sorte de plaine lacustre, trouée d\'anciens cratères.
+
+L\'aspect d\'Oahu est assez riant, et, en vérité, ces anthropophages, si désirés de Pinchinat, n\'ont point à se plaindre du théâtre de leurs exploits. Pourvu qu\'ils se livrent encore à leurs instincts de cannibales, Son Altesse n\'aura plus rien à désirer\...
+
+Mais voici qu\'elle s\'écrie tout à coup :
+
+« Grand Dieu, qu\'est-ce que je vois ?
+
+--- Que vois-tu ? demande Frascolin. »
+
+--- Là-bas\... Des clochers\...
+
+--- Oui\... Et des tours\... Et des façades de palais ! répond Yvernès. -- Pas possible qu\'on ait mangé là le capitaine Cook !
+
+--- Nous ne sommes pas aux Sandwich ! dit Sébastien Zorn, en haussant les épaules. Le commodore s\'est trompé de route\...
+
+--- Assurément ! » réplique Pinchinat. Non ! Le commodore Simcoë ne s\'est point égaré. C\'est bien là Oahu, et la ville, qui s\'étend sur plusieurs kilomètres carrés, c\'est bien Honolulu. Allons ! Il faut en rabattre. Que de changements depuis l\'époque où le grand navigateur anglais a découvert ce groupe !
+
+Les missionnaires ont rivalisé de dévouement et de zèle. Méthodistes, anglicans, catholiques, luttant d\'influence, ont fait oeuvre civilisatrice et triomphé du paganisme des anciens Kanaques. Non seulement la langue originelle tend à disparaître devant la langue anglo-saxonne, mais l\'archipel renferme des Américains, des Chinois, -- pour la plupart engagés au compte des propriétaires du sol, d\'où est sortie une race de demi-Chinois, les Hapa-Paké, -- et enfin des Portugais, grâce aux services maritimes établis entre les Sandwich et l\'Europe. Des indigènes, il s\'en trouve encore, cependant, et assez pour satisfaire nos quatre artistes, bien que ces naturels aient été fort décimés par la lèpre, maladie d\'importation chinoise. Par exemple, ils ne présentent guère le type des mangeurs de chair humaine. « O couleur locale, s\'écrie le premier violon, quelle main t\'a grattée sur la palette moderne ! »
+
+Oui ! Le temps, la civilisation, le progrès, qui est une loi de nature, l\'ont à peu près effacée, cette couleur. Et il faut bien le reconnaître, non sans quelque regret, lorsqu\'une des chaloupes électriques de Standard-Island, dépassant la longue ligne de récifs, débarque Sébastien Zorn et ses camarades. Entre deux estacades, se rejoignant en angle aigu, s\'ouvre un port abrité des mauvais vents par un amphithéâtre de montagnes. Depuis 1794, les écueils qui le défendent contre la houle du large, se sont exhaussés d\'un mètre. Néanmoins il reste encore assez d\'eau pour que les bâtiments, tirant de dix-huit à vingt pieds, puissent venir s\'amarrer aux quais.
+
+« Déception ! Déception ! murmure Pinchinat. Il est vraiment déplorable qu\'on soit exposé à perdre tant d\'illusions en voyage\...
+
+--- Et l\'on ferait mieux de demeurer chez soi ! Riposte le violoncelliste en haussant les épaules.
+
+--- Non ! s\'écrie Yvernès toujours enthousiaste, et quel spectacle serait comparable à celui de cette île factice venant rendre visite aux archipels océaniens ? »
+
+Néanmoins, si l\'état moral des Sandwich s\'est regrettablement modifié au vif déplaisir de nos artistes, il n\'en est pas de même du climat. C\'est l\'un des plus salubres de ces parages de l\'océan Pacifique, malgré que le groupe occupe une région désignée sous le nom de Mer des Chaleurs. Si le thermomètre s\'y tient à un degré élevé, lorsque les alizés du nord-est ne dominent pas, si les contre-alizés du sud engendrent de violents orages nommés kouas dans le pays, la température moyenne d\'Honolulu ne dépasse pas vingt et un degrés centigrades. On aurait donc mauvaise grâce à s\'en plaindre sur la limite de la zone torride. Aussi les habitants ne se plaignent-ils pas, et, ainsi que nous l\'avons indiqué, les malades américains affluent-ils dans l\'archipel.
+
+
+Il prétend avoir été mystifié, quand il ne devrait accuser que lui-même de s\'être attiré cette mystification.
+
+« C\'est ce Calistus Munbar qui nous a une fois de plus mis dedans ! » affirme Pinchinat, en rappelant que le surintendant leur a dit des Sandwich qu\'elles étaient le dernier rempart de la sauvagerie indigène dans le Pacifique.
+
+Et, lorsqu\'ils lui en font des reproches amers :
+
+« Que voulez-vous, mes chers amis ? répond-il en clignant de l\'oeil droit. C\'est tellement changé depuis mon dernier voyage que je ne m\'y reconnais plus !
+
+--- Farceur ! » riposte Pinchinat, en gratifiant d\'une bonne tape le gaster du surintendant.
+
+Ce qu\'on peut tenir pour certain, c\'est que si des changements se sont produits, cela s\'est fait dans des conditions de rapidité extraordinaires. Naguère, les Sandwich jouissaient d\'une monarchie constitutionnelle, fondée en 1837, avec deux chambres, celle des nobles et celle des députés. La première était nommée par les seuls propriétaires du sol, la seconde par tous les citoyens sachant lire et écrire, les nobles pour six ans, les députés pour deux ans. Chaque chambre se composait de vingt-quatre membres, qui délibéraient en commun devant le ministère royal, formé de quatre conseillers du roi. « Ainsi, dit Yvernès, il y avait un roi, un roi constitutionnel, au lieu d\'un singe à plumes, et auquel les étrangers venaient présenter leurs humbles hommages !
+
+--- Je suis sûr, affirme Pinchinat, que cette Majesté-là n\'avait même pas d\'anneaux dans le nez\... Et qu\'elle se fournissait de fausses dents chez les meilleurs dentistes du nouveau monde !
+
+--- Ah ! Civilisation\... Civilisation ! Répète le premier violon. Ils n\'avaient pas besoin de râtelier, ces Kanaques, lorsqu\'ils mordaient à même leurs prisonniers de guerre ! »
+
+Que l\'on pardonne à ces fantaisistes cette façon d\'envisager les choses ! Oui ! Il y a eu un roi à Honolulu, ou, du moins, il y avait une reine, Liliuokalani, aujourd\'hui détrônée, qui a lutté pour les droits de son fils, le prince Adey, contre les prétentions d\'une certaine princesse Kaiulani au trône d\'Havaï. Bref, pendant longtemps, l\'archipel a été dans une période révolutionnaire, tout comme ces bons états de l\'Amérique ou de l\'Europe, auxquels il ressemble même sous ce rapport. Cela pouvait-il amener l\'intervention efficace de l\'armée havaïenne, et ouvrir l\'ère funeste des pronunciamientos ? Non, sans doute, puisque ladite armée ne se compose que de deux cent cinquante conscrits et de deux cent cinquante volontaires. On ne renverse pas un régime avec cinq cents hommes, -- du moins, au milieu des parages du Pacifique.
+
+Mais les Anglais étaient là, qui veillaient. La princesse Kaiulani possédait les sympathies de l\'Angleterre, paraît-il. D\'autre part, le gouvernement japonais était prêt à prendre le protectorat des îles, et comptait des partisans parmi les coolies qui sont employés en grand nombre sur les plantations\...
+
+Eh bien, et les Américains, dira-t-on ? C\'est même la question que Frascolin pose à Calistus Munbar au sujet d\'une intervention tout indiquée. « Les Américains ? répond le surintendant, ils ne tiennent guère à ce protectorat. Pourvu qu\'ils aient aux Sandwich une station maritime réservée à leurs paquebots des lignes du Pacifique, ils se déclareront satisfaits. »
+
+Et pourtant, en 1875, le roi Kaméhaméha, qui était allé rendre visite au président Grant à Washington, avait placé l\'archipel sous l\'égide des États-Unis. Mais, dix-sept ans plus tard, lorsque M. Cleveland prit la résolution de restaurer la reine Liliuokalani, alors que le régime républicain était établi aux Sandwich, sous la présidence de M. Sanford Dole, il y eut des protestations violentes dans les deux pays.
+
+Rien, d\'ailleurs, ne pouvait empêcher ce qui est écrit sans doute au livre de la destinée des peuples, qu\'ils soient d\'origine ancienne ou moderne, et l\'archipel hawaïen est en république depuis le 4 juillet 1894, sous la présidence de M. Dole.
+
+Standard-Island s\'est mise en relâche pour une dizaine de jours.
+
+Aussi nombre d\'habitants en profitent-ils pour explorer Honolulu et les environs. Les familles Coverley et Tankerdon, les principaux notables de Milliard-City, se font quotidiennement transporter au port.
+
+D\'autre part, bien que ce soit la seconde apparition de l\'île à hélice sur ces parages des Havaï, l\'admiration des Havaïens est sans bornes, et c\'est en foule qu\'ils viennent visiter cette merveille. Il est vrai, la police de Cyrus Bikerstaff, difficile pour l\'admission des étrangers, s\'assure, le soir venu, que les visiteurs s\'en retournent à l\'heure réglementaire. Grâce à ces mesures de sécurité, il serait malaisé à un intrus de demeurer sur le Joyau du Pacifique sans une autorisation qui ne s\'obtient pas aisément. Enfin, il n\'y a que de bons rapports de part et d\'autre, mais on ne se livre point à des réceptions officielles entre les deux îles.
+
+Le quatuor s\'offre quelques promenades très intéressantes. Les indigènes plaisent à nos Parisiens. Leur type est accentué, leur teint brun, leur physionomie à la fois douce et empreinte de fierté. Et quoique les Havaïens soient en république, peut-être regrettent-ils leur sauvage indépendance de jadis.
+
+« L\'air de notre pays est libre, » dit un de leurs proverbes, et eux ne le sont plus.
+
+Et, en effet, après la conquête de l\'archipel par Kaméhaméha, après la monarchie représentative établie en 1837, chaque île fut administrée par un gouverneur particulier. À l\'heure actuelle, sous le régime républicain, elles sont encore divisées en arrondissements et sous-arrondissements. « Allons, dit Pinchinat, il n\'y manque plus que des préfets, des sous-préfets et des conseillers de préfecture, avec la constitution de l\'an VIII !
+
+--- Je demande à m\'en aller ! » réplique Sébastien Zorn. Il aurait eu tort de le faire, sans avoir admiré les principaux sites d\'Oahu.
+
+Ils sont superbes, si la flore n\'y est pas riche. Sur la zone littorale abondent les cocotiers et autres palmiers, les arbres à pain, les aleurites trilobas, qui donnent de l\'huile, les ricins, les daturas, les indigotiers. Dans les vallées, arrosées par les eaux des montagnes, tapissées de cette herbe envahissante nommée menervia, nombre d\'arbustes deviennent arborescents, des chenopodium, des halapepe, sortes d\'aspariginées gigantesques. La zone forestière, prolongée jusqu\'à l\'altitude de deux mille mètres, est couverte d\'essences ligneuses, myrtacées de haute venue, rumex colossaux, tiges-lianes qui s\'entremêlent comme un fouillis de serpents aux multiples ramures. Quant aux récoltes du sol, qui fournissent un élément de commerce et d\'exportation, ce sont le riz, la noix de coco, la canne à sucre. Il se fait donc un cabotage important d\'une île à l\'autre, de manière à concentrer vers Honolulu les produits qui sont ensuite expédiés en Amérique.
+
+En ce qui concerne la faune, peu de variété. Si les Kanaques tendent à s\'absorber dans les races plus intelligentes, les espèces animales ne tendent point à se modifier. Uniquement des cochons, des poules, des chèvres, pour bêtes domestiques ; point de fauves, si ce n\'est quelques couples de sangliers sauvages ; des moustiques dont on ne se débarrasse pas aisément ; des scorpions nombreux, et divers échantillons de lézards inoffensifs ; des oiseaux qui ne chantent jamais, entre autres l\'oo, le drepanis pacifica au plumage noir, agrémenté de ces plumes jaunes dont était formé le fameux manteau de Kaméhaméha, et auquel avaient travaillé neuf générations d\'indigènes.
+
+En cet archipel, la part de l\'homme, -- et elle est considérable, -- est de l\'avoir civilisé, à l\'imitation des États-Unis, avec ses sociétés savantes, ses écoles d\'instruction obligatoire qui furent primées à l\'Exposition de 1878, ses riches bibliothèques, ses journaux publiés en langue anglaise et kanaque.
+
+Nos Parisiens ne pouvaient en être surpris, puisque les notables de l\'archipel sont Américains en majorité, et que leur langue est courante comme leur monnaie. Seulement, ces notables attirent volontiers à leur service des Chinois du Céleste Empire, contrairement à ce qui se fait dans l\'Ouest-Amérique pour combattre ce fléau auquel on donne le nom significatif de « peste jaune ».
+
+Il va de soi que depuis l\'arrivée de Standard-Island en vue de la capitale d\'Oahu, les embarcations du port, chargées des amateurs, en font souvent le tour. Avec ce temps magnifique, cette mer si calme, rien d\'agréable comme une excursion d\'une vingtaine de kilomètres à une encablure de ce littoral d\'acier, sur lequel les agents de la douane exercent une si sévère surveillance.
+
+Parmi ces excursionnistes, on aurait pu remarquer un léger bâtiment, qui, chaque jour, s\'obstine à naviguer dans les eaux de l\'île à hélice. C\'est une sorte de ketch malais, à deux mâts, à poupe carrée, monté par une dizaine d\'hommes, sous les ordres d\'un capitaine de figure énergique. Le gouverneur, cependant, n\'en prend point ombrage, bien que cette persistance eût pu paraître suspecte. Ces gens, en effet, ne cessent d\'observer l\'île sur tout son périmètre, rôdant d\'un port à l\'autre, examinant la disposition de son littoral. Après tout, en admettant qu\'ils eussent des intentions malveillantes, que pourrait entreprendre cet équipage contre une population de dix mille habitants ? Aussi ne s\'inquiète-t-on point des allures de ce ketch, soit qu\'il évolue pendant le jour, soit qu\'il passe les nuits à la mer.
+
+L\'administration maritime d\'Honolulu n\'est donc pas interpellée à son sujet. Le quatuor fait ses adieux à l\'île d\'Oahu dans la matinée du 10 juillet. Standard-Island appareille dès l\'aube, obéissant à l\'impulsion de ses puissants propulseurs. Après avoir viré sur place, elle prend direction vers le sud-ouest, de manière à venir en vue des autres îles havaïennes. Il lui faut alors prendre de biais le courant équatorial qui porte de l\'est à l\'ouest, -- inversement à celui dont l\'archipel est longé vers le nord.
+
+Pour l\'agrément de ceux de ses habitants qui se sont rendus sur le littoral de bâbord, Standard-Island s\'engage hardiment entre les îles Molokaï et Kaouaï.
+
+Au-dessus de cette dernière, l\'une des plus petites du groupe, se dresse un volcan de dix-huit cents mètres, le Nirhau, qui projette quelques vapeurs fuligineuses. Au pied s\'arrondissent des berges de formation coralligène, dominées par une rangée de dunes, dont les échos se répercutent avec une sonorité métallique, quand elles sont violemment battues du ressac. La nuit est venue, l\'appareil se trouve encore en cet étroit canal, mais il n\'a rien à craindre sous la main du commodore Simcoë. À l\'heure où le soleil disparaît derrière les hauteurs de Lanaï, les vigies n\'auraient pu apercevoir le ketch, qui, après avoir quitté le port à la suite de Standard-Island, cherchait à se maintenir dans ses eaux. D\'ailleurs, on le répète, pourquoi se serait-on préoccupé de la présence de cette embarcation malaise ?
+
+Le lendemain, quand le jour reparut, le ketch n\'était plus qu\'un point blanc à l\'horizon du nord.
+
+Pendant cette journée, la navigation se poursuit entre Kaluhani et Mauï. Grâce à son étendue, cette dernière, avec Lahaina pour capitale, port réservé aux baleiniers, occupe le second rang dans l\'archipel des Sandwich. Le Haleahala, la Maison du Soleil, y pointe à trois mille mètres vers l\'astre radieux.
+
+Les deux journées suivantes sont employées à longer les côtes de la grande Havaï, dont les montagnes, ainsi que nous l\'avons dit, sont les plus hautes du groupe. C\'est dans la baie Kealakeacua, que le capitaine Cook, d\'abord reçu comme un dieu par les indigènes, fut massacré en 1779, un an après avoir découvert cet archipel auquel il avait donné le nom de Sandwich, en l\'honneur du célèbre ministre de la Grande-Bretagne. Hilo, le chef-lieu de l\'île, qui est sur la côte orientale, ne se montre pas ; mais on entrevoit Kailu, située sur la côte occidentale. Cette grande Havaï possède cinquante-sept kilomètres de chemin de fer, qui servent principalement au transport des denrées, et le quatuor peut apercevoir le panache blanc de ses locomotives\...
+
+« Il ne manquait plus que cela ! » s\'écrie Yvernès.
+
+Le lendemain, le Joyau du Pacifique a quitté ces parages, alors que le ketch double l\'extrême pointe d\'Havaï, dominée par le Mauna-Loa, la Grande Montagne, dont la cime se perd à quatre mille mètres entre les nuages. « Volés, dit alors Pinchinat, nous sommes volés !
+
+--- Tu as raison, répond Yvernès, il aurait fallu venir cent ans plus tôt. Mais alors nous n\'aurions pas navigué sur cette admirable île à hélice !
+
+--- N\'importe ! Avoir trouvé des indigènes à vestons et à cols rabattus au lieu des sauvages à plumes que nous avait annoncés ce roublard de Calistus, que Dieu confonde ! Je regrette le temps du capitaine Cook !
+
+--- Et si ces cannibales avaient mangé Ton Altesse ? Fait observer Frascolin.
+
+--- Eh bien\... J\'aurais eu cette consolation d\'avoir été\... Une fois dans ma vie\... Aimé pour moi-même ! »
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185442 .pcalibre2 .pcalibre1}[]{#_Toc343182981 .pcalibre2 .pcalibre1}[]{#_Toc343180520 .pcalibre2 .pcalibre1}[]{#_Toc343178059 .pcalibre2 .pcalibre1}[]{#_Toc343175598 .pcalibre2 .pcalibre1}[]{#_Toc343173137 .pcalibre2 .pcalibre1}[]{#_Toc343170676 .pcalibre2 .pcalibre1}[]{#_Toc343168215 .pcalibre2 .pcalibre1}[]{#_Toc343165754 .pcalibre2 .pcalibre1}[]{#_Toc343163293 .pcalibre2 .pcalibre1}[]{#_Toc343160832 .pcalibre2 .pcalibre1}[]{#_Toc343158371 .pcalibre2 .pcalibre1}[]{#_Toc343149101 .pcalibre2 .pcalibre1}[]{#_Toc343146640 .pcalibre2 .pcalibre1}[]{#_Toc343144177 .pcalibre2 .pcalibre1}[]{#_Toc343141716 .pcalibre2 .pcalibre1}[]{#_Toc343139255 .pcalibre2 .pcalibre1}[]{#_Toc343136793 .pcalibre2 .pcalibre1}[]{#_Toc343134332 .pcalibre2 .pcalibre1}[]{#_Toc343131871 .pcalibre2 .pcalibre1}[]{#_Toc343129409 .pcalibre2 .pcalibre1}[]{#_Toc343126948 .pcalibre2 .pcalibre1}[]{#_Toc343124484 .pcalibre2 .pcalibre1}[]{#_Toc343122023 .pcalibre2 .pcalibre1}[]{#_Toc343119562 .pcalibre2 .pcalibre1}[]{#_Toc343117108 .pcalibre2 .pcalibre1}[]{#_Toc343114645 .pcalibre2 .pcalibre1}[]{#_Toc343112184 .pcalibre2 .pcalibre1}[]{#_Toc343109723 .pcalibre2 .pcalibre1}[]{#_Toc343105979 .pcalibre2 .pcalibre1}[]{#_Toc343103517 .pcalibre2 .pcalibre1}[]{#_Toc343101054 .pcalibre2 .pcalibre1}[]{#_Toc343098629 .pcalibre2 .pcalibre1}[]{#_Toc343096160 .pcalibre2 .pcalibre1}[]{#_Toc343093698 .pcalibre2 .pcalibre1}[]{#_Toc343091220 .pcalibre2 .pcalibre1}[]{#_Toc343088757 .pcalibre2 .pcalibre1}[]{#_Toc343086295 .pcalibre2 .pcalibre1}[]{#_Toc343083832 .pcalibre2 .pcalibre1}[]{#_Toc343081370 .pcalibre2 .pcalibre1}[]{#_Toc343078909 .pcalibre2 .pcalibre1}[]{#_Toc343076446 .pcalibre2 .pcalibre1}[]{#_Toc343073983 .pcalibre2 .pcalibre1}[]{#_Toc343071517 .pcalibre2 .pcalibre1}[]{#_Toc343043557 .pcalibre2 .pcalibre1}[]{#_Toc343038677 .pcalibre2 .pcalibre1}[]{#_Toc343036312 .pcalibre2 .pcalibre1}[]{#_Toc343033947 .pcalibre2 .pcalibre1}[]{#_Toc343031582 .pcalibre2 .pcalibre1}[]{#_Toc343028026 .pcalibre2 .pcalibre1}[]{#_Toc343025661 .pcalibre2 .pcalibre1}[]{#_Toc343023296 .pcalibre2 .pcalibre1}[]{#_Toc343020930 .pcalibre2 .pcalibre1}[]{#_Toc343018564 .pcalibre2 .pcalibre1}[]{#_Toc343016199 .pcalibre2 .pcalibre1}[]{#_Toc343013834 .pcalibre2 .pcalibre1}[]{#_Toc343011467 .pcalibre2 .pcalibre1}[]{#_Toc343009102 .pcalibre2 .pcalibre1}[]{#_Toc343006737 .pcalibre2 .pcalibre1}[]{#_Toc343004372 .pcalibre2 .pcalibre1}[]{#_Toc343002007 .pcalibre2 .pcalibre1}[]{#_Toc342999642 .pcalibre2 .pcalibre1}[]{#_Toc342997277 .pcalibre2 .pcalibre1}[]{#_Toc342994912 .pcalibre2 .pcalibre1}[]{#_Toc342992547 .pcalibre2 .pcalibre1}[]{#_Toc342990182 .pcalibre2 .pcalibre1}[]{#_Toc342987817 .pcalibre2 .pcalibre1}[]{#_Toc342985450 .pcalibre2 .pcalibre1}[]{#_Toc342983085 .pcalibre2 .pcalibre1}[]{#_Toc342980720 .pcalibre2 .pcalibre1}[]{#_Toc342978355 .pcalibre2 .pcalibre1}[[Chapitre 10 -- Passage de la ligne]{lang="X-NONE"}]{#_Toc342942374 .pcalibre2 .pcalibre1} {#chapitre-10-passage-de-la-ligne .calibre171 .sigil_not_in_toc}
+
+Depuis le 23 juin, le soleil rétrograde vers l\'hémisphère méridional. Il est donc indispensable d\'abandonner les zones où la mauvaise saison viendra bientôt exercer ses ravages. Puisque l\'astre du jour, dans sa course apparente, se dirige vers la ligne équinoxiale, il convient de la franchir à sa suite. Au-delà s\'offrent des climats agréables, où, malgré leurs dénominations d\'octobre, novembre, décembre, janvier, février, ces mois n\'en sont pas moins ceux de la saison chaude. La distance qui sépare l\'archipel havaïen des îles Marquises est de trois mille kilomètres environ. Aussi Standard-Island, ayant hâte de la couvrir, se met-elle à son maximum de vitesse.
+
+La Polynésie proprement dite est comprise dans cette spacieuse portion de mer, limitée au nord par l\'Équateur, au sud par le tropique du Capricorne. Il y a là, sur cinq millions de kilomètres carrés, onze groupes, se composant de deux cent-vingt îles, soit une surface émergée de dix mille kilomètres, sur laquelle les îlots se comptent par milliers. Ce sont les sommets de ces montagnes sous-marines, dont la chaîne se prolonge du nord-ouest au sud-est jusqu\'aux Marquises et à l\'île Pitcairn, en projetant des ramifications presque parallèles.
+
+Si, par l\'imagination, on se figure ce vaste bassin vidé tout à coup, si le Diable boiteux, délivré par Cléophas, enlevait toutes ces masses liquides comme il faisait des toitures de Madrid, quelle extraordinaire contrée se développerait aux regards ! Quelle Suisse, quelle Norvège, quel Tibet, pourraient l\'égaler en grandeur ? De ces monts sous-marins, volcaniques pour la plupart, quelques-uns, d\'origine madréporique, sont formés d\'une matière calcaire ou cornée, sécrétée en couches concentriques par les polypes, ces animalcules rayonnés, d\'organisation si simple, doués d\'une force de production immense. De ces îles, les unes, les plus jeunes, n\'ont de manteau végétal qu\'à leur cime ; les autres, drapées dans leur végétation de la tête aux pieds, sont les plus anciennes, même lorsque leur origine est coralloïde. Il existe donc toute une région montagneuse, enfouie sous les eaux du Pacifique. Standard-Island se promène au-dessus de ses sommets comme ferait un aérostat entre les pointes des Alpes ou de l\'Himalaya. Seulement, ce n\'est pas l\'air, c\'est l\'eau qui la porte.
+
+Mais, de même qu\'il existe de larges déplacements d\'ondes atmosphériques à travers l\'espace, il se produit des déplacements liquides à la surface de cet océan. Le grand courant va de l\'est à l\'ouest, et, dans les couches inférieures, se propagent deux contre-courants de juin à octobre, lorsque le soleil se dirige vers le tropique du Cancer. En outre, aux abords de Taïti, on observe quatre espèces de flux, dont le plein n\'a pas lieu à la même heure, et qui neutralisent la marée au point de la rendre presque insensible. Quant au climat dont jouissent ces différents archipels, il est essentiellement variable. Les îles montagneuses arrêtent les nuages qui déversent leurs pluies sur elles ; les îles basses sont plus sèches, parce que les vapeurs fuient devant les brises régnantes.
+
+Que la bibliothèque du casino n\'eût pas possédé les cartes relatives au Pacifique, cela aurait été au moins singulier. Elle en a une collection complète, et Frascolin, le plus sérieux de la troupe, les consulte souvent. Yvernès, lui, préfère s\'abandonner aux surprises de la traversée, à l\'admiration que lui cause cette île artificielle, et il ne tient point à surcharger son cerveau de notions géographiques. Pinchinat ne songe qu\'à prendre les choses par leur côté plaisant ou fantaisiste.
+
+Quant à Sébastien Zorn, l\'itinéraire lui importe peu, puisqu\'il va là où il n\'avait jamais eu l\'intention d\'aller.
+
+Frascolin est donc seul à piocher sa Polynésie, étudiant les groupes principaux qui la composent, les îles Basses, les Marquises, les Pomotou, les îles de la Société, les îles de Cook, les îles Tonga, les îles Samoa, les îles Australes, les Wallis, les Fanning, sans parler des îles isolées, Niue, Tokolau, Phoenix, Manahiki, Pâques, Sala y Gomez, etc.
+
+Il n\'ignore pas que, dans la plupart de ces archipels, même ceux qui sont soumis à des protectorats, le gouvernement est toujours entre les mains de chefs puissants, dont l\'influence n\'est jamais discutée, et que les classes pauvres y sont entièrement soumises aux classes riches. Il sait en outre que ces indigènes professent les religions brahmanique, mahométane, protestante, catholique, mais que le catholicisme est prépondérant dans les îles dépendant de la France, -- ce qui est dû à la pompe de son culte. Il sait même que la langue indigène, dont l\'alphabet est peu compliqué, puisqu\'il ne se compose que de treize à dix-sept caractères, est très mélangée d\'anglais et sera finalement absorbée par l\'anglo-saxon.
+
+Il sait enfin que, d\'une façon générale, au point de vue ethnique, la population polynésienne tend à décroître, ce qui est regrettable, car le type kanaque, -- ce mot signifie homme, -- plus blanc sous l\'Équateur que dans les groupes éloignés de la ligne équinoxiale, est magnifique, et combien la Polynésie ne perdra-t-elle pas à son absorption par les races étrangères ! Oui ! Il sait cela, et bien d\'autres choses qu\'il apprend au cours de ses conversations avec le commodore Ethel Simcoë, et, lorsque ses camarades l\'interrogent, il n\'est pas embarrassé de leur répondre.
+
+Aussi Pinchinat ne l\'appelle-t-il plus que le « Larousse des zones tropicales ».
+
+Tels sont les principaux groupes entre lesquels Standard-Island doit promener son opulente population.
+
+Elle mérite justement le nom d\'île heureuse, car tout ce qui peut assurer le bonheur matériel, et, d\'une certaine façon, le bonheur moral, y est réglementé. Pourquoi faut-il que cet état de choses risque d\'être troublé par des rivalités, des jalousies, des désaccords, par ces questions d\'influence ou de préséance qui divisent Milliard-City en deux camps comme elle l\'est en deux sections, -- le camp Tankerdon et le camp Coverley ? Dans tous les cas, pour des artistes, très désintéressés en cette matière, la lutte promet d\'être intéressante.
+
+Jem Tankerdon est Yankee des pieds à la tête, personnel et encombrant, large figure, avec la demi-barbe rougeâtre, les cheveux ras, les yeux vifs malgré la soixantaine, l\'iris presque jaune comme celui des yeux de chien, la prunelle ardente. Sa taille est haute, son torse est puissant, ses membres sont vigoureux. Il y a en lui du trappeur des Prairies, bien que, en fait de trappes, il n\'en ait jamais tendu d\'autres que celles par lesquelles il précipitait des millions de porcs dans ses égorgeoirs de Chicago. C\'est un homme violent, que sa situation aurait dû rendre plus policé, mais auquel l\'éducation première a manqué. Il aime à faire montre de sa fortune, et, il a, comme on dit, « les poches sonores ». Et, paraît-il, il ne les trouve pas assez pleines, puisque lui et quelques autres de son bord ont idée de reprendre les affaires\...
+
+Mrs Tankerdon est une Américaine quelconque, assez bonne femme, très soumise à son mari, excellente mère, douce à ses enfants, prédestinée à élever une nombreuse progéniture, et n\'ayant point failli à remplir ses fonctions. Quand on doit partager deux milliards entre des héritiers directs, pourquoi n\'en aurait-on pas une douzaine, et elle les a tous bien constitués. De toute cette smala, l\'attention du quatuor ne devait être attirée que sur le fils aîné, destiné à jouer un certain rôle dans cette histoire.
+
+Walter Tankerdon, fort élégant de sa personne, d\'une intelligence moyenne, de manières et de figure sympathiques, tient plus de Mrs Tankerdon que du chef de la famille.
+
+Suffisamment instruit, ayant parcouru l\'Amérique et l\'Europe, voyageant quelquefois, mais toujours rappelé par ses habitudes et ses goûts à l\'existence attrayante de Standard-Island, il est familier avec les exercices de sport, à la tête de toute la jeunesse milliardaise dans les concours de tennis, de polo, de golf et de crocket. Il n\'est pas autrement fier de la fortune qu\'il aura un jour, et son coeur est bon. Il est vrai, faute de misérables dans l\'île, il n\'a point l\'occasion d\'exercer la charité. En somme, il est à désirer que ses frères et soeurs lui ressemblent. Si ceux-là et celles-là ne sont point encore en âge de se marier, lui, qui touche à la trentaine, doit songer au mariage. Y pense-t-il ? On le verra bien.
+
+Il existe un contraste frappant entre la famille Tankerdon, la plus importante de la section bâbordaise, et la famille Coverley, la plus considérable de la section tribordaise. Nat Coverley est d\'une nature plus fine que son rival. Il se ressent de l\'origine française de ses ancêtres. Sa fortune n\'est point sortie des entrailles du sol sous forme de nappes pétroliques, ni des entrailles fumantes de la race porcine. Non ! Ce sont les affaires industrielles, ce sont les chemins de fer, c\'est la banque qui l\'ont fait ce qu\'il est. Pour lui, il ne songe qu\'à jouir en paix de ses richesses et -- il ne s\'en cache pas, -- il s\'opposerait à toute tentative de transformer le Joyau du Pacifique en une énorme usine ou une immense maison de commerce. Grand, correct, la tête belle sous ses cheveux grisonnants, il porte toute sa barbe, dont le châtain se mêle de quelques fils argentés. D\'un caractère assez froid, de manières distinguées, il occupe le premier rang parmi les notables qui conservent, à Milliard-City, les traditions de la haute société des États-Unis du Sud. Il aime les arts, se connaît en peinture et en musique, parle volontiers la langue française très en usage parmi les Tribordais, se tient au courant de la littérature américaine et européenne, et, quand il y a lieu, mélange ses applaudissements de bravos et de bravas, alors que les rudes types du Far-West et de la Nouvelle-Angleterre se dépensent en hurrahs et en hips.
+
+Mrs Coverley, ayant dix ans de moins que son mari, vient de doubler, sans trop s\'en plaindre, le cap de la quarantaine. C\'est une femme élégante, distinguée, appartenant à ces familles demi-créoles de la Louisiane d\'autrefois, bonne musicienne, bonne pianiste, et il ne faut pas croire qu\'un Reyer du XXe siècle ait proscrit le piano de Milliard-City. Dans son hôtel de la Quinzième Avenue, le quatuor a mainte occasion de faire de la musique avec elle, et ne peut que la féliciter de ses talents d\'artiste.
+
+Le ciel n\'a point béni l\'union Coverley autant qu\'il a béni l\'union Tankerdon. Trois filles sont les seules héritières d\'une immense fortune, dont M. Coverley ne se targue pas à l\'exemple de son rival. Elles sont fort jolies, et il se trouvera assez de prétendants, dans la noblesse ou dans la finance des deux mondes, pour demander leur main, lorsque le moment sera venu de les marier. En Amérique, d\'ailleurs, ces dots invraisemblables ne sont pas rares. Il y a quelques années, ne citait-on pas cette petite miss Terry, qui, dès l\'âge de deux ans, était recherchée pour ses sept cent cinquante millions ? Espérons que cette enfant s\'est mariée à son goût, et qu\'à cet avantage d\'être l\'une des plus riches femmes des États-Unis, elle joint celui d\'en être l\'une des plus heureuses.
+
+La fille aînée de M. et Mrs Coverley, Diane ou plutôt Dy, comme on l\'appelle familièrement, a vingt ans à peine. C\'est une très jolie personne, en qui se mélangent les qualités physiques et morales de son père et de sa mère. De beaux yeux bleus, une chevelure magnifique entre le châtain et le blond, une carnation fraîche comme les pétales de la rose qui vient de s\'épanouir, une taille élégante et gracieuse, cela explique que miss Coverley soit remarquée des jeunes gens de Milliard-City, lesquels ne laisseront point à des étrangers, sans doute, le soin de conquérir cet « inestimable trésor », pour employer des termes d\'une justesse mathématique. On a même lieu de penser que M. Coverley ne verrait pas, dans la différence de religion, un obstacle à une union qui lui paraîtrait devoir assurer le bonheur de sa fille.
+
+En vérité, il est regrettable que des questions de rivalités sociales séparent les deux familles les plus qualifiées de Standard-Island. Walter Tankerdon eût paru tout spécialement créé pour devenir l\'époux de Dy Coverley.
+
+Mais c\'est là une combinaison à laquelle il ne faut point songer\... Plutôt couper en deux Standard-Island, et s\'en aller, les Bâbordais sur une moitié, les Tribordais sur l\'autre, que de jamais signer un pareil contrat de mariage !
+
+« À moins que l\'amour ne se mêle de l\'affaire ! » dit parfois le surintendant en clignant de l\'oeil sous son binocle d\'or.
+
+Mais il ne semble pas que Walter Tankerdon ait quelque penchant pour Dy Coverley, et inversement, -- ou, du moins, si cela est, tous deux observent une réserve, qui déjoue les curiosités du monde sélect de Milliard-City. L\'île à hélice continue à descendre vers l\'Équateur, en suivant à peu près le cent soixantième méridien. Devant elle se développe cette partie du Pacifique qui offre les plus larges espaces dépourvus d\'îles et d\'îlots et dont les profondeurs atteignent jusqu\'à deux lieues. Pendant la journée du 25 juillet, on passe au-dessus du fond de Belknap, un abîme de six mille mètres, d\'où la sonde a pu ramener ces curieux coquillages ou zoophytes, constitués de manière à supporter impunément la pression de telles masses d\'eau, évaluée à six cents atmosphères. Cinq jours après, Standard-Island s\'engage à travers un groupe appartenant à l\'Angleterre, bien qu\'il soit parfois désigné sous le nom d\'îles Américaines.
+
+Après avoir laissé Palmyra et Suncarung sur tribord, elle se rapproche à cinq milles de Fanning, un des nombreux gîtes à guano de ces parages, le plus important de l\'archipel. Du reste, ce sont des cimes émergées, plutôt arides que verdoyantes, dont le Royaume-Uni n\'a pas tiré grand profit jusqu\'alors. Mais il a un pied posé en cet endroit, et l\'on sait que le large pied de l\'Angleterre laisse généralement des empreintes ineffaçables.
+
+Chaque jour, tandis que ses camarades parcourent le parc ou la campagne environnante, Frascolin, très intéressé par les détails de cette curieuse navigation, se rend à la batterie de l\'Éperon.
+
+Il s\'y rencontre souvent avec le commodore. Ethel Simcoë le renseigne volontiers sur les phénomènes spéciaux à ces mers, et, lorsqu\'ils offrent quelque intérêt, le second violon ne néglige pas de les communiquer à ses compagnons.
+
+Par exemple, ils n\'ont pu cacher leur admiration en présence d\'un spectacle que la nature leur a gratuitement offert dans la nuit du 30 au 31 juillet.
+
+Un immense banc d\'acalèphes, couvrant plusieurs milles carrés, venait d\'être signalé dans l\'après-midi. Il n\'a point encore été donné à la population de rencontrer de telles masses de ces méduses auxquelles certains naturalistes ont octroyé le nom d\'océanies. Ces animaux, d\'une vie très rudimentaire, confinent dans leur forme hémisphérique aux produits du règne végétal. Les poissons, si gloutons qu\'ils soient, les considèrent plutôt comme des fleurs, car aucun, paraît-il, n\'en veut faire sa nourriture.
+
+Celles de ces océanies qui sont particulières à la zone torride du Pacifique ne se montrent que sous la forme d\'ombrelles multicolores, transparentes et bordées de tentacules. Elles ne mesurent pas plus de deux à trois centimètres. Que l\'on songe à ce qu\'il en faut de milliards pour former des bancs d\'une telle étendue !
+
+Et, lorsque de pareils nombres sont énoncés en présence de Pinchinat :
+
+« Ils ne peuvent, répond Son Altesse, surprendre ces invraisemblables notables de Standard-Island pour qui le milliard est de monnaie courante ! » À la nuit close, une partie de la population s\'est portée vers « le gaillard d\'avant », c\'est-à-dire cette terrasse qui domine la batterie de l\'Éperon. Les trams ont été envahis. Les cars électriques se sont chargés de curieux. D\'élégantes voitures ont véhiculé les nababs de la ville. Les Coverley et les Tankerdon s\'y coudoient à distance\... M. Jem ne salue pas M. Nat, qui ne salue pas M. Jem. Les familles sont au complet d\'ailleurs. Yvernès et Pinchinat ont le plaisir de causer avec Mrs Coverley et sa fille, qui leur font toujours le meilleur accueil. Peut-être Walter Tankerdon éprouve-t-il quelque dépit de ne pouvoir se mêler à leur entretien, et peut-être aussi miss Dy eût-elle accepté de bonne grâce la conversation du jeune homme. Dieu ! Quel scandale, et quelles allusions plus ou moins indiscrètes du Starboard-Chronicle ou du New-Herald dans leur article des mondanités !
+
+Lorsque l\'obscurité est complète, autant qu\'elle peut l\'être par ces nuits tropicales, semées d\'étoiles, il semble que le Pacifique s\'éclaire jusque dans ses dernières profondeurs. L\'immense nappe est imprégnée de lueurs phosphorescentes, illuminée de reflets rosés ou bleus, non point dessinés comme un trait lumineux à la crête des lames, mais semblables aux effluences qu\'émettraient d\'innombrables légions de vers luisants. Cette phosphorescence devient si intense qu\'il est possible de lire comme au rayonnement d\'une lointaine aurore boréale. On dirait que le Pacifique, après avoir dissous les feux que le soleil lui a versés pendant le jour, les restitue la nuit en lumineux effluves.
+
+Bientôt la proue de Standard-Island coupe la masse des acalèphes, qui se divise en deux branches le long du littoral métallique. En quelques heures, l\'île à hélice est entourée d\'une ceinture de ces noctiluques, dont la source photogénique ne s\'est pas altérée. On eût dit une auréole, une de ces gloires au milieu desquelles se détachent les saints et les saintes, un de ces nimbes aux tons lunaires qui rayonnent autour de la tête des Christs. Le phénomène dure jusqu\'à la naissance de l\'aube, dont les premières colorations finissent par l\'éteindre.
+
+Six jours après, le Joyau du Pacifique touche au grand cercle imaginaire de notre sphéroïde qui, dessiné matériellement, eût coupé l\'horizon en deux parties égales.
+
+De cet endroit, on peut en même temps voir les pôles de la sphère céleste, l\'un au nord, allumé par les scintillations de l\'étoile Polaire, l\'autre, au sud, décoré, comme une poitrine de soldat, de la Croix du Sud. Il est bon d\'ajouter que, des divers points de cette ligne équatoriale, les astres paraissent décrire chaque jour des cercles perpendiculaires au plan de l\'horizon. Si vous voulez jouir de nuits et de jours parfaitement égaux, c\'est sur ces parages, dans les régions des îles ou des continents traversés par l\'Équateur qu\'il convient d\'aller fixer vos pénates.
+
+Depuis son départ de l\'archipel havaïen, Standard-Island a relevé une distance d\'environ six cents kilomètres. C\'est la seconde fois, depuis sa création, qu\'elle passe d\'un hémisphère à l\'autre, franchissant la ligne équinoxiale, d\'abord en descendant vers le sud, puis en remontant vers le nord. À l\'occasion de ce passage, c\'est fête pour population milliardaise.
+
+Il y aura des jeux publics dans le parc, des cérémonies religieuses au temple et à la cathédrale, des courses de voitures électriques autour de l\'île. Sur la plate-forme de l\'observatoire on doit tirer un magnifique feu d\'artifice, dont les fusées, les serpenteaux, les bombes à couleurs changeantes, rivaliseront avec les splendeurs étoilées du firmament.
+
+C\'est là, vous le devinez, comme une imitation des scènes fantaisistes habituelles aux navires, lorsqu\'ils atteignent l\'Équateur, un pendant au baptême de la Ligne.
+
+Et, de fait, ce jour-là est toujours choisi pour baptiser les enfants nés depuis le départ de Madeleine-bay. Même cérémonie baptismale à l\'égard des étrangers, qui n\'ont pas encore pénétré dans l\'hémisphère austral.
+
+« Cela va être notre tour, dit Frascolin à ses camarades, et nous allons recevoir le baptême !
+
+--- Par exemple ! Réplique Sébastien Zorn, en protestant par des gestes d\'indignation.
+
+--- Oui, mon vieux racleur de basse ! répond Pinchinat. On va nous verser des seaux d\'eau non bénite sur la tête, nous asseoir sur des planchettes qui basculeront, nous précipiter dans des cuves à surprises, et le bonhomme Tropique ne tardera pas à se présenter, suivi de son cortège de bouffons, pour nous barbouiller la figure avec le pot au noir !
+
+--- S\'ils croient, répond Sébastien Zorn, que je me soumettrai aux farces de cette mascarade !
+
+--- Il le faudra bien, dit Yvernès. Chaque pays a ses usages, et des hôtes doivent obéir\...
+
+--- Pas quand ils sont retenus malgré eux ! » s\'écrie l\'intraitable chef du Quatuor Concertant. Qu\'il se rassure au sujet de ce carnaval dont s\'amusent quelques navires en passant la Ligne ! Qu\'il ne craigne pas l\'arrivée du bonhomme Tropique ! Ses camarades et lui, on ne les aspergera pas d\'eau de mer, mais de champagne des meilleures marques. On ne les mystifiera pas non plus en leur montrant l\'Équateur, préalablement trace sur l\'objectif d\'une lunette. Cela peut convenir à des matelots en bordée, non aux gens graves de Standard-Island.
+
+La fête a lieu dans l\'après-midi du 5 août. Sauf les douaniers, qui ne doivent jamais abandonner leur poste, les employés ont reçu congé. Tout travail est suspendu dans la ville et dans les ports.
+
+Les hélices ne fonctionnent plus. Quant aux accumulateurs, ils possèdent un voltage qui doit suffire au service de l\'éclairage et des communications électriques. D\'ailleurs, Standard-Island n\'est pas stationnaire. Un courant la conduit vers la ligne de partage des deux hémisphères du globe. Les chants, les prières s\'élèvent dans les églises, au Temple comme à Saint-Mary Church, et les orgues y donnent à pleins jeux.
+
+Joie générale dans le parc où les exercices de sport s\'exécutent avec un entrain remarquable. Les diverses classes s\'y associent. Les plus riches gentlemen, Walter Tankerdon en tête, font merveille dans les parties de golf et de tennis. Lorsque le soleil sera tombé perpendiculairement sous l\'horizon, ne laissant après lui qu\'un crépuscule de quarante-cinq minutes, les fusées du feu d\'artifice prendront leur vol à travers l\'espace, et une nuit sans lune se prêtera au déploiement de ces magnificences.
+
+Dans la grande salle du casino, le quatuor est baptisé, comme il a été dit, et de la main même de Cyrus Bikerstaff. Le gouverneur lui offre la coupe écumante, et le champagne coule à torrents.
+
+Les artistes ont leur large part du Cliquot et du Roederer. Sébastien Zorn aurait mauvaise grâce à se plaindre d\'un baptême qui ne lui rappelle en rien l\'eau salée dont ses lèvres furent imbibées aux premiers jours de sa naissance.
+
+Aussi, les Parisiens répondent-ils à ces témoignages de sympathie par l\'exécution des plus belles oeuvres de leur répertoire : le septième quatuor en fa majeur, op. 59 de Beethoven, le quatrième quatuor en mi bémol, op. 10 de Mozart, le quatrième quatuor en ré mineur, op. 17 d\'Haydn, le septième quatuor, andante, scherzo, capriccioso et fugue, op. 81 de Mendelsohn. Oui ! Toutes ces merveilles de la musique concertante, et l\'audition est gratuite. On s\'écrase aux portes, on s\'étouffe dans la salle. Il faut bisser, il faut trisser les morceaux, et le gouverneur remet aux exécutants une médaille d\'or cerclée de diamants respectables par le nombre de leurs carats, ayant sur une face les armes de Milliard-City, et sur l\'autre ces mots en français :
+
+Offerte au Quatuor Concertant par la Compagnie, la Municipalité et la population de Standard-Island.
+
+Et, si tous ces honneurs ne pénètrent pas jusqu\'au fond de l\'âme de l\'irréconciliable violoncelliste, c\'est que décidément il a un déplorable caractère, ainsi que le lui répètent ses camarades.
+
+« Attendons la fin ! » se contente-t-il de répondre, en contorsionnant sa barbe d\'une main fébrile.
+
+C\'est à dix heures trente-cinq du soir, -- le calcul a été fait par les astronomes de Standard-Island, -- que l\'île à hélice doit couper la ligne équinoxiale. À ce moment précis, un coup de canon sera tiré par l\'une des pièces de la batterie de l\'Éperon. Un fil relie cette batterie à l\'appareil électrique disposé au centre du square de l\'observatoire. Extraordinaire satisfaction d\'amour-propre pour celui des notables auquel est dévolu l\'honneur d\'envoyer le courant qui provoque la formidable détonation.
+
+Or, ce jour-là, deux importants personnages y prétendent. Ce sont, on le devine, Jem Tankerdon et Nat Coverley. De là, extrême embarras de Cyrus Bikerstaff. Des pourparlers difficiles ont été préalablement établis entre l\'hôtel de ville et les deux sections de la cité. On n\'est pas parvenu à s\'entendre. Sur l\'invitation du gouverneur, Calistus Munbar s\'est même entremis. En dépit de son adresse si connue, des ressources de son esprit diplomatique, le surintendant a complètement échoué. Jem Tankerdon ne veut point céder le pas à Nat Coverley, qui refuse de s\'effacer devant Jem Tankerdon. On s\'attend à un éclat.
+
+Il n\'a pas tardé à se produire dans toute sa violence, lorsque les deux chefs se sont rencontrés dans le square, l\'un en face de l\'autre. L\'appareil est à cinq pas d\'eux\... Il n\'y a qu\'à le toucher du bout du doigt\...
+
+Au courant de la difficulté, la foule, très soulevée par ces questions de préséance, a envahi le jardin.
+
+Après le concert, Sébastien Zorn, Yvernès, Frascolin, Pinchinat se sont rendus au square, curieux d\'observer les phases de cette rivalité. Étant données les dispositions des Bâbordais et des Tribordais, elle ne laisse pas de présenter une gravité exceptionnelle pour l\'avenir.
+
+Les deux notables s\'avancent, sans même se saluer d\'une légère inclinaison de tête.
+
+« Je pense, monsieur, dit Jem Tankerdon, que vous ne me disputerez pas l\'honneur\...
+
+--- C\'est précisément ce que j\'attends de vous, monsieur, répond Nat Coverley.
+
+--- Je ne souffrirai pas qu\'il soit manqué publiquement dans ma personne\... -- Ni moi dans la mienne\...
+
+--- Nous verrons bien ! » s\'écrie Jem Tankerdon en faisant un pas vers l\'appareil. Nat Coverley vient d\'en faire un, lui aussi. Les partisans des deux notables commencent à s\'en mêler. Des provocations malsonnantes éclatent de part et d\'autre dans leurs rangs. Sans doute, Walter Tankerdon est prêt à soutenir les droits de son père, et, cependant, lorsqu\'il aperçoit miss Coverley qui se tient un peu à l\'écart, il est visiblement embarrassé.
+
+Quant au gouverneur, bien que le surintendant soit à ses côtés, prêt à jouer le rôle de tampon, il est désolé de ne pouvoir réunir en un seul bouquet la rose blanche d\'York et la rose rouge de Lancastre.
+
+Et qui sait si cette déplorable compétition n\'aura pas des conséquences aussi regrettables qu\'elles le furent, au XVe siècle, pour l\'aristocratie anglaise ?
+
+Cependant la minute approche où la pointe de Standard-Island coupera la ligne équinoxiale. Établi à la précision d\'un quart de seconde de temps, le calcul ne comporterait qu\'une erreur de huit mètres. Le signal ne peut tarder à être envoyé par l\'observatoire.
+
+« J\'ai une idée ! murmure Pinchinat.
+
+--- Laquelle ? répond Yvernès.
+
+--- Je vais flanquer un coup de poing au bouton de l\'appareil, et cela va les mettre d\'accord\...
+
+--- Ne fais pas cela ! » dit Frascolin, en arrêtant Son Altesse d\'un bras vigoureux. Bref, on ne sait comment l\'incident aurait pris fin, si une détonation ne se fût produite\... Cette détonation ne vient pas de la batterie de l\'Éperon. C\'est un coup de canon du large, qui a été distinctement entendu.
+
+La foule reste en suspens.
+
+Que peut indiquer cette décharge d\'une bouche à feu qui n\'appartient pas à l\'artillerie de Standard-Island ? Un télégramme, envoyé de Tribord-Harbour, en donne presque aussitôt l\'explication. À deux ou trois milles, un navire en détresse vient de signaler sa présence et demande du secours. Heureuse et inattendue diversion ! On ne songe plus à se disputer devant le bouton électrique, ni à saluer le passage de l\'Équateur. Il n\'est plus temps d\'ailleurs. La ligne a été franchie, et le coup réglementaire est resté dans l\'âme de la pièce.
+
+Cela vaut mieux, en somme, pour l\'honneur des familles Tankerdon et Coverley. Le public évacue le square, et, comme les trams ne fonctionnent plus, il s\'est pédestrement et rapidement dirigé vers les jetées de Tribord-Harbour. Au reste, après le signal envoyé du large, l\'officier de port a pris les mesures relatives au sauvetage. Une des électric-launchs, amarrée dans la darse, s\'est élancée hors des piers. Et, au moment où la foule arrive, l\'embarcation ramène les naufragés recueillis sur leur navire, qui s\'est aussitôt englouti dans les abîmes du Pacifique. Ce navire, c\'est le ketch malais, qui a suivi Standard-Island depuis son départ de l\'archipel des Sandwich.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185443 .pcalibre2 .pcalibre1}[]{#_Toc343182982 .pcalibre2 .pcalibre1}[]{#_Toc343180521 .pcalibre2 .pcalibre1}[]{#_Toc343178060 .pcalibre2 .pcalibre1}[]{#_Toc343175599 .pcalibre2 .pcalibre1}[]{#_Toc343173138 .pcalibre2 .pcalibre1}[]{#_Toc343170677 .pcalibre2 .pcalibre1}[]{#_Toc343168216 .pcalibre2 .pcalibre1}[]{#_Toc343165755 .pcalibre2 .pcalibre1}[]{#_Toc343163294 .pcalibre2 .pcalibre1}[]{#_Toc343160833 .pcalibre2 .pcalibre1}[]{#_Toc343158372 .pcalibre2 .pcalibre1}[]{#_Toc343149102 .pcalibre2 .pcalibre1}[]{#_Toc343146641 .pcalibre2 .pcalibre1}[]{#_Toc343144178 .pcalibre2 .pcalibre1}[]{#_Toc343141717 .pcalibre2 .pcalibre1}[]{#_Toc343139256 .pcalibre2 .pcalibre1}[]{#_Toc343136794 .pcalibre2 .pcalibre1}[]{#_Toc343134333 .pcalibre2 .pcalibre1}[]{#_Toc343131872 .pcalibre2 .pcalibre1}[]{#_Toc343129410 .pcalibre2 .pcalibre1}[]{#_Toc343126949 .pcalibre2 .pcalibre1}[]{#_Toc343124485 .pcalibre2 .pcalibre1}[]{#_Toc343122024 .pcalibre2 .pcalibre1}[]{#_Toc343119563 .pcalibre2 .pcalibre1}[]{#_Toc343117109 .pcalibre2 .pcalibre1}[]{#_Toc343114646 .pcalibre2 .pcalibre1}[]{#_Toc343112185 .pcalibre2 .pcalibre1}[]{#_Toc343109724 .pcalibre2 .pcalibre1}[]{#_Toc343105980 .pcalibre2 .pcalibre1}[]{#_Toc343103518 .pcalibre2 .pcalibre1}[]{#_Toc343101055 .pcalibre2 .pcalibre1}[]{#_Toc343098630 .pcalibre2 .pcalibre1}[]{#_Toc343096161 .pcalibre2 .pcalibre1}[]{#_Toc343093699 .pcalibre2 .pcalibre1}[]{#_Toc343091221 .pcalibre2 .pcalibre1}[]{#_Toc343088758 .pcalibre2 .pcalibre1}[]{#_Toc343086296 .pcalibre2 .pcalibre1}[]{#_Toc343083833 .pcalibre2 .pcalibre1}[]{#_Toc343081371 .pcalibre2 .pcalibre1}[]{#_Toc343078910 .pcalibre2 .pcalibre1}[]{#_Toc343076447 .pcalibre2 .pcalibre1}[]{#_Toc343073984 .pcalibre2 .pcalibre1}[]{#_Toc343071518 .pcalibre2 .pcalibre1}[]{#_Toc343043558 .pcalibre2 .pcalibre1}[]{#_Toc343038678 .pcalibre2 .pcalibre1}[]{#_Toc343036313 .pcalibre2 .pcalibre1}[]{#_Toc343033948 .pcalibre2 .pcalibre1}[]{#_Toc343031583 .pcalibre2 .pcalibre1}[]{#_Toc343028027 .pcalibre2 .pcalibre1}[]{#_Toc343025662 .pcalibre2 .pcalibre1}[]{#_Toc343023297 .pcalibre2 .pcalibre1}[]{#_Toc343020931 .pcalibre2 .pcalibre1}[]{#_Toc343018565 .pcalibre2 .pcalibre1}[]{#_Toc343016200 .pcalibre2 .pcalibre1}[]{#_Toc343013835 .pcalibre2 .pcalibre1}[]{#_Toc343011468 .pcalibre2 .pcalibre1}[]{#_Toc343009103 .pcalibre2 .pcalibre1}[]{#_Toc343006738 .pcalibre2 .pcalibre1}[]{#_Toc343004373 .pcalibre2 .pcalibre1}[]{#_Toc343002008 .pcalibre2 .pcalibre1}[]{#_Toc342999643 .pcalibre2 .pcalibre1}[]{#_Toc342997278 .pcalibre2 .pcalibre1}[]{#_Toc342994913 .pcalibre2 .pcalibre1}[]{#_Toc342992548 .pcalibre2 .pcalibre1}[]{#_Toc342990183 .pcalibre2 .pcalibre1}[]{#_Toc342987818 .pcalibre2 .pcalibre1}[]{#_Toc342985451 .pcalibre2 .pcalibre1}[]{#_Toc342983086 .pcalibre2 .pcalibre1}[]{#_Toc342980721 .pcalibre2 .pcalibre1}[]{#_Toc342978356 .pcalibre2 .pcalibre1}[[Chapitre 11 -- Îles Marquises]{lang="X-NONE"}]{#_Toc342942375 .pcalibre2 .pcalibre1} {#chapitre-11-îles-marquises .calibre171 .sigil_not_in_toc}
+
+Dans la matinée du 29 août, le Joyau du Pacifique donne à travers l\'archipel des Marquises, entre 7° 55\'et 10° 30\' de latitude sud et 141° et 143°6\' de longitude à l\'ouest du méridien de Paris. Il a franchi une distance de trois mille cinq cents kilomètres à partir du groupe des Sandwich.
+
+Si ce groupe se nomme Mendana, c\'est que l\'Espagnol de ce nom découvrit en 1595 sa partie méridionale. S\'il se nomme îles de la Révolution, c\'est qu\'il a été visité par le capitaine Marchand en 1791 dans sa partie du nord-ouest. S\'il se nomme archipel de Nouka-Hiva, c\'est qu\'il doit cette appellation à la plus importante des îles qui le composent. Et pourtant, ne fût-ce que par justice, il aurait dû prendre aussi le nom de Cook, puisque le célèbre navigateur en a opéré la reconnaissance en 1774.
+
+C\'est ce que le commodore Simcoë fait observer à Frascolin, lequel trouve l\'observation des plus logiques, ajoutant :
+
+« On pourrait également l\'appeler l\'archipel Français, car nous sommes un peu en France aux Marquises. »
+
+En effet, un Français a le droit de regarder ce groupe de onze îles ou îlots comme une escadre de son pays, mouillée dans les eaux du Pacifique. Les plus grandes sont les vaisseaux de première classe Nouka-Hiva et Hiva-Oa ; les moyennes sont les croiseurs de divers rangs, Hiaou, Uapou, Uauka ; les plus petites sont les avisos Motane, Fatou-Hiva, Taou-Ata, tandis que les îlots ou les attolons seraient de simples mouches d\'escadre. Il est vrai, ces îles ne peuvent se déplacer comme le fait Standard-Island.
+
+Ce fut le 1er mai 1842 que le commandant de la station navale du Pacifique, le contre-amiral Dupetit-Thouars, prit, au nom de la France, possession de cet archipel. Mille à deux mille lieues le séparent soit de la côte américaine, soit de la Nouvelle-Zélande, soit de l\'Australie, soit de la Chine, des Moluques ou des Philippines. En ces conditions, l\'acte du contre-amiral était-il à louer ou à blâmer ? On le blâma dans l\'opposition, on le loua dans le monde gouvernemental. Il n\'en reste pas moins que la France dispose là d\'un domaine insulaire, où nos bâtiments de grande pêche trouvent à s\'abriter, à se ravitailler, et auquel le passage de Panama, s\'il est jamais ouvert, attribuera une importance commerciale des plus réelles. Ce domaine devait être complété par la prise de possession ou déclaration de protectorat des îles Pomotou, des îles de la Société, qui en forment le prolongement naturel. Puisque l\'influence britannique s\'étend sur les parages du nord-ouest de cet immense océan, il est bon que l\'influence française vienne la contre-balancer dans les parages du sud-est. « Mais, demande Frascolin à son complaisant cicérone, est-ce que nous avons là des forces militaires de quelque valeur ?
+
+--- Jusqu\'en 1859, répond le commodore Simcoë, il y avait à Nouka-Hiva un détachement de soldats de marine. Depuis que ce détachement a été retiré, la garde du pavillon est confiée aux missionnaires, et ils ne le laisseraient pas amener sans le défendre.
+
+--- Et actuellement ?
+
+--- Vous ne trouverez plus à Taio-Haé qu\'un résident, quelques gendarmes et soldats indigènes, sous les ordres d\'un officier qui remplit aussi les fonctions de juge de paix\...
+
+--- Pour les procès des naturels ?
+
+--- Des naturels et des colons.
+
+--- Il y a donc des colons à Nouka-Hiva ?
+
+--- Oui »\... Deux douzaines.
+
+--- Pas même de quoi former une symphonie, ni même une harmonie, et à peine une fanfare ! »
+
+Il est vrai, si l\'archipel des Marquises, qui s\'étend sur cent quatre-vingt-quinze milles de longueur et sur quarante-huit milles de largeur, couvre une aire de treize mille kilomètres superficiels, sa population ne comprend pas vingt-quatre mille indigènes. Cela fait donc un colon pour mille habitants.
+
+Cette population marquisane est-elle destinée à s\'accroître, alors qu\'une nouvelle voie de communication aura été percée entre les deux Amériques ? L\'avenir le dira. Mais, en ce qui concerne la population de Standard-Island, le nombre de ses habitants s\'est augmenté depuis quelques jours par le sauvetage des Malais du ketch, opéré dans la soirée du 5 août. Ils sont dix, plus leur capitaine, -- un homme à figure énergique, comme il a été dit. Âgé d\'une quarantaine d\'années, ce capitaine se nomme Sarol. Ses matelots sont de solides gaillards, de cette race originaire des îles extrêmes de la Malaisie occidentale.
+
+Trois mois avant, ce Sarol les avait conduits à Honolulu avec une cargaison de coprah. Lorsque Standard-Island y vint faire une relâche de dix jours, l\'apparition de cette île artificielle ne laissa pas d\'exciter leur surprise, ainsi qu\'il arrivait dans tous les archipels. S\'ils ne la visitèrent point, car cette autorisation ne s\'obtenait que très difficilement, on n\'a pas oublié que leur ketch prit souvent la mer, afin de l\'observer de plus près, la contournant à une demi-encablure de son périmètre.
+
+La présence obstinée de ce navire n\'avait pu exciter aucun soupçon, et son départ d\'Honolulu, quelques heures après le commodore Simcoë, n\'en excita pas davantage. D\'ailleurs eût-il fallu s\'inquiéter de ce bâtiment d\'une centaine de tonneaux, monté par une dizaine d\'hommes ? Non, sans doute, et peut-être fut-ce un tort\...
+
+Lorsque le coup de canon attira l\'attention de l\'officier de Tribord-Harbour, le ketch ne se trouvait qu\'à deux où trois milles. La chaloupe de sauvetage, s\'étant portée à son secours, arriva à temps pour recueillir le capitaine et son équipage.
+
+Ces Malais parlent couramment la langue anglaise, -- ce qui ne saurait étonner de la part d\'indigènes de l\'Ouest-Pacifique, où, ainsi que nous l\'avons mentionné, la prépondérance britannique est acquise sans conteste. On apprend donc à quel accident de mer ils ont dû de s\'être trouvés en détresse. Et même, si la chaloupe avait tardé de quelques minutes, ces onze Malais eussent disparu dans les profondeurs de l\'Océan.
+
+Au dire de ces hommes, vingt-quatre heures avant, pendant la nuit du 4 au 5 août, le ketch avait été abordé par un steamer en grande marche. Bien qu\'il eût ses feux de position, le capitaine Sarol n\'avait pas été aperçu. La collision dut être si légère pour le steamer que celui-ci n\'en ressentit rien, paraît-il, puisqu\'il continua sa route, à moins toutefois, -- fait qui malheureusement n\'est pas rare, -- qu\'il eût préféré, en filant à toute vapeur, « se débarrasser de réclamations coûteuses et désagréables ».
+
+Mais ce choc, insignifiant pour un bâtiment de fort tonnage, dont la coque de fer est lancée avec une vitesse considérable, fut terrible pour le navire malais. Coupé à l\'avant du mât de misaine, on ne s\'expliquait guère qu\'il n\'eût pas coulé immédiatement. Il se maintint cependant à fleur d\'eau, et les hommes restèrent accrochés aux pavois. Si la mer eût été mauvaise, pas un n\'aurait pu résister aux lames balayant cette épave. Par bonne chance, le courant la dirigea vers l\'est, et la rapprocha de Standard-Island.
+
+Toutefois, lorsque le commodore interroge le capitaine Sarol, il manifeste son étonnement que le ketch, à demi-submergé, ait dérivé jusqu\'en vue de Tribord-Harbour.
+
+« Je ne le comprends pas non plus, répond le Malais. Il faut que votre île ait fait peu de route depuis vingt-quatre heures ?
+
+--- C\'est la seule explication possible, réplique le commodore Simcoë. Il n\'importe, après tout. On vous a sauvés, c\'est l\'essentiel. » Il était temps, d\'ailleurs. Avant que la chaloupe se fût éloignée d\'un quart de mille, le ketch avait coulé à pic.
+
+Tel est le récit que le capitaine Sarol a fait d\'abord à l\'officier qui exécutait le sauvetage, puis au commodore Simcoë, puis au gouverneur Cyrus Bikerstaff, après qu\'on eut donné tous les secours dont son équipage et lui paraissaient avoir le plus pressant besoin.
+
+Se pose alors la question du rapatriement des naufragés. Ils faisaient voile vers les Nouvelles-Hébrides, lorsque la collision s\'est produite. Standard-Island, qui descend au sud-est, ne peut modifier son itinéraire et obliquer vers l\'ouest. Cyrus Bikerstaff offre donc aux naufragés de les débarquer à Nouka-Hiva, où ils attendront le passage d\'un bâtiment de commerce en charge pour les Nouvelles-Hébrides.
+
+Le capitaine et ses hommes se regardent. Ils semblent fort désolés. Cette proposition afflige ces pauvres gens, sans ressources, dépouillés de tout ce qu\'ils possédaient avec le ketch et sa cargaison. Attendre aux Marquises, c\'est s\'exposer à y demeurer un temps interminable, et comment y vivront-ils ?
+
+« Monsieur le gouverneur, dit le capitaine d\'un ton suppliant, vous nous avez sauvés, et nous ne savons comment vous prouver notre reconnaissance\... Et pourtant nous vous demandons encore d\'assurer notre retour dans des conditions meilleures\...
+
+--- Et de quelle manière ? répond Cyrus Bikerstaff.
+
+--- À Honolulu, on disait que Standard-Island, après s\'être dirigée vers les parages du sud, devait visiter les Marquises, les Pomotou, les îles de la Société, puis gagner l\'ouest du Pacifique\...
+
+--- Cela est vrai, dit le gouverneur, et très probablement elle s\'avancera jusqu\'aux îles Fidji avant de revenir à la baie Madeleine.
+
+--- Les Fidji, reprend le capitaine, c\'est un archipel anglais, où nous trouverions aisément à nous faire rapatrier pour les Nouvelles-Hébrides, qui en sont peu éloignées\... Et si vous vouliez nous garder jusque-là\...
+
+--- Je ne puis rien vous promettre à cet égard, répondit le gouverneur. Il nous est interdit d\'accorder passage à des étrangers. Attendons notre arrivée à Nouka-Hiva. Je consulterai l\'administration de Madeleine-bay par le câble, et, si elle consent, nous vous conduirons aux Fidji, d\'où votre rapatriement sera en effet plus facile. »
+
+Telle est la raison pour laquelle les Malais sont installés à bord de Standard-Island, lorsqu\'elle se montre en vue des Marquises à la date du 29 août.
+
+Cet archipel est situé sur le parcours des alizés.
+
+Même gisement pour les archipels des Pomotou et de la Société, auxquels ces vents assurent une température modérée sous un climat salubre.
+
+C\'est devant le groupe du nord-ouest que le commodore Simcoë se présente dès les premières heures de la matinée. Il a d\'abord connaissance d\'un attolon sablonneux que les cartes désignent sous le nom d\'Îlot de corail, et contre lequel la mer, poussée par les courants, déferle avec une extrême violence.
+
+Cet attolon laissé sur bâbord, les vigies ne tardent pas à signaler une première île, Fetouou, très accore, ceinte de falaises verticales de quatre cents mètres. Au delà, c\'est Hiaou, haute de six cents mètres, d\'un aspect aride de ce côté, tandis que de l\'autre, fraîche et verdoyante, elle offre deux anses praticables aux petits bâtiments.
+
+Frascolin, Yvernès, Pinchinat, abandonnant Sébastien Zorn à sa mauvaise humeur permanente, ont pris place sur la tour, en compagnie d\'Ethel Simcoë et de plusieurs de ses officiers. On ne s\'étonnera pas que ce nom d\'Hiaou ait excité Son-Altesse à émettre quelques onomatopées bizarres.
+
+« Bien sûr, dit-il, c\'est une colonie de chats qui habite cette île, avec un matou pour chef\... »
+
+Hiaou reste sur bâbord. On ne doit pas y relâcher, et l\'on prend direction vers la principale île du groupe, dont le nom lui a été donné, et auquel va s\'ajouter temporairement cette extraordinaire Standard-Island.
+
+Le lendemain 30 août, dès l\'aube, nos Parisiens sont revenus à leur poste. Les hauteurs de Nouka-Hiva avaient été visibles dans la soirée précédente. Par beau temps, les chaînes de montagne de cet archipel se montrent à une distance de dix-huit à vingt lieues, car l\'altitude de certaines cimes dépasse douze cents mètres, se dessinant comme un dos gigantesque suivant la longueur de l\'île.
+
+« Vous remarquerez, dit le commodore Simcoë à ses hôtes, une disposition générale à tout cet archipel. Ses sommets sont d\'une nudité au moins singulière sous cette zone, tandis que la végétation, qui prend naissance aux deux tiers des montagnes, pénètre au fond des ravins et des gorges, et se déploie magnifiquement jusqu\'aux grèves blanches du littoral.
+
+--- Et pourtant, fait observer Frascolin, il semble que Nouka-Hiva se dérobe à cette règle générale, du moins en ce qui concerne la verdure des zones moyennes. Elle paraît stérile\...
+
+--- Parce que nous l\'accostons par le nord-ouest, répond le commodore Simcoë. Mais lorsque nous la contournerons au sud, vous serez surpris du contraste. Partout, des plaines verdoyantes, des forêts, des cascades de trois cents mètres\...
+
+--- Eh ! s\'écrie Pinchinat, une masse d\'eau qui tomberait du sommet de la tour Eiffel, cela mérite considération ! Le Niagara en serait jaloux\...
+
+--- Point ! Riposte Frascolin.
+
+Il se rattrape sur la largeur, et sa chute se développe sur neuf cents mètres depuis la rive américaine jusqu\'à la rive canadienne\... Tu le sais bien, Pinchinat, puisque nous l\'avons visité\...
+
+--- C\'est juste, et je fais mes excuses au Niagara ! » répond Son Altesse. Ce jour-là, Standard-Island longe les côtes de l\'île à un mille de distance. Toujours des talus arides montant jusqu\'au plateau central de Tovii, des falaises rocheuses qui semblent ne présenter aucune coupure. Néanmoins, au dire du navigateur Brown, il y existait de bons mouillages, qui, en effet, ont été ultérieurement découverts. En somme, l\'aspect de Nouka-Hiva, dont le nom évoque de si gracieux paysages, est assez morne. Mais, ainsi que l\'ont justement relaté MM. V. Dumoulin et Desgraz, compagnons de Dumont d\'Urville pendant son voyage au pôle sud et dans l\'Océanie, « toutes les beautés naturelles sont confinées dans l\'intérieur des baies, dans les sillons formés par les ramifications de la chaîne des monts qui s\'élèvent au centre de l\'île ». Après avoir suivi ce littoral désert, au-delà de l\'angle aigu qu\'il projette vers l\'ouest, Standard-Island modifie légèrement sa direction en diminuant la vitesse des hélices de tribord, et vient doubler le cap Tchitchagoff, ainsi nommé par le navigateur russe Krusenstern. La côte se creuse alors en décrivant un arc allongé, au milieu duquel un étroit goulet donne accès au port de Taioa ou d\'Akani, dont l\'une des anses offre un abri sûr contre les plus redoutables tempêtes du Pacifique.
+
+Le commodore Simcoë ne s\'y arrête pas. Il y a au sud deux autres baies, celle d\'Anna-Maria ou Taio-Haé au centre, et celle de Comptroller ou des Taïpis, au revers du cap Martin, pointe extrême du sud-est de l\'île. C\'est devant Taio-Haé que l\'on doit faire une relâche d\'une douzaine de jours.
+
+À peu de distance du rivage de Nouka-Hiva, la sonde accuse de grandes profondeurs. Aux abords des baies, on peut encore mouiller par quarante ou cinquante brasses. Donc facilité de rallier de très près la baie de Taio-Haé, et c\'est ce qui est fait dans l\'après-midi du 31 août.
+
+Dès qu\'on est en vue du port, des détonations retentissent sur la droite, et une fumée tourbillonnante s\'élève au-dessus des falaises de l\'est.
+
+« Hé ! dit Pinchinat, voici que l\'on tire le canon pour fêter notre arrivée\...
+
+--- Non, répond le commodore Simcoë. Ni les Taïs ni les Happas, les deux principales tribus de l\'île, ne possèdent une artillerie capable de rendre même de simples saluts. Ce que vous entendez, c\'est le bruit de la mer qui s\'engouffre dans les profondeurs d\'une caverne à mi-rivage du cap Martin, et cette fumée n\'est que l\'embrun des lames rejetées au dehors.
+
+--- Je le regrette, répond Son Altesse, car un coup de canon, c\'est un coup de chapeau. » L\'île de Nouka-Hiva possède plusieurs noms, -- on pourrait dire plusieurs noms de baptême -- dus aux divers parrains qui l\'ont successivement baptisée : île Fédérale par Ingraham, île Beaux par Marchand, île Sir Henry Martin par Hergert, île Adam par Roberts, île Madison par Porter. Elle mesure dix-sept milles de l\'est à l\'ouest, et dix milles du nord au sud, soit une circonférence de cinquante-quatre milles environ. Son climat est salubre. Sa température égale celle des zones intertropicales, avec le tempérament qu\'apportent les vents alizés.
+
+Sur ce mouillage, Standard-Island n\'aura jamais à redouter les formidables coups de vent et les cataractes pluviales, car elle n\'y doit relâcher que d\'avril à octobre, alors que dominent les vents secs d\'est à sud-est, ceux que les indigènes nomment tuatuka. C\'est en octobre qu\'on subit la plus forte chaleur, en novembre et décembre la plus forte sécheresse. Après quoi, d\'avril à octobre, les courants aériens règnent depuis l\'est jusqu\'au nord-est. Quant à la population de l\'archipel des Marquises, il a fallu revenir des exagérations des premiers découvreurs, qui l\'ont estimée à cent mille habitants.
+
+Élisée Reclus, s\'appuyant sur des documents sérieux, ne l\'évalue pas à six mille âmes pour tout le groupe, et c\'est Nouka-Hiva qui en compte la plus grande part. Si, du temps de Dumont d\'Urville, le nombre des Nouka-Hiviens a pu s\'élever à huit mille habitants, divisés en Taïs, Happas, Taionas et Taïpis, ce nombre n\'a cessé de décroître. D\'où résulte ce dépeuplement ? Des exterminations d\'indigènes par les guerres, de l\'enlèvement des individus mâles pour les plantations péruviennes, de l\'abus des liqueurs fortes, et enfin, pourquoi ne pas l\'avouer ? De tous les maux qu\'apporté la conquête, même lorsque les conquérants appartiennent aux races civilisées.
+
+Au cours de cette semaine de relâche, les Milliardais font de nombreuses visites à Nouka-Hiva. Les principaux Européens les leur rendent, grâce à l\'autorisation du gouverneur, qui leur a donné libre accès à Standard-Island.
+
+De leur côté, Sébastien Zorn et ses camarades entreprennent de longues excursions, dont l\'agrément les paie amplement de leurs fatigues.
+
+La baie de Taio-Haé décrit un cercle, coupé par son étroit goulet, dans lequel Standard-Island n\'eût pas trouvé place, d\'autant moins que cette baie est sectionnée par deux plages de sable. Ces plages sont séparées par une sorte de morne aux rudes escarpements, où se dressent encore les restes d\'un fort construit par Porter en 1812.
+
+C\'était à l\'époque où ce marin faisait la conquête de l\'île, alors que le camp américain occupait la plage de l\'est, -- prise de possession qui ne fut pas ratifiée par le gouvernement fédéral.
+
+En fait de ville, sur la plage opposée, nos Parisiens ne trouvent qu\'un modeste village, les habitations marquisanes étant, pour la plupart, dispersées sous les arbres. Mais quelles admirables vallées y aboutissent, -- entre autres celle de Taio-Haé, dont les Nouka-Hiviens ont surtout fait choix pour y établir leurs demeures !
+
+C\'est un plaisir de s\'engager à travers ces massifs de cocotiers, de bananiers, de casuarinas, de goyaviers, d\'arbres à pain, d\'hibiscus et de tant d\'autres essences, emplies d\'une sève débordante. Les touristes sont hospitalièrement accueillis dans ces cases. Là où ils auraient peut-être été dévorés un siècle plus tôt, ils purent apprécier ces galettes faites de bananes et de la pâte du mei, l\'arbre à pain, cette fécule jaunâtre du taro, douce lorsqu\'elle est fraîche, aigrelette lorsqu\'elle est rassise, les racines comestibles du tacca. Quant au haua, espèce de grande raie qui se mange crue, et aux filets de requin, d\'autant plus estimés que la pourriture les gagne, ils refusèrent positivement d\'y mettre la dent.
+
+Athanase Dorémus les accompagne quelquefois dans leurs promenades. L\'année précédente, ce bonhomme a visité cet archipel et leur sert de guide. Peut-être n\'est-il très fort ni en histoire naturelle ni en botanique, peut-être confond-il le superbe spondias cytherea, dont les fruits ressemblent à la pomme, avec le pandanus odoratissimus, qui justifie cette épithète superlative, avec le casuarina dont le bois a la dureté du fer, avec l\'hibiscus dont l\'écorce fournit des vêtements aux indigènes, avec le papayer, avec le gardénia florida ? Il est vrai, le quatuor n\'a pas besoin de recourir à sa science un peu suspecte, quand la flore marquisane leur présente de magnifiques fougères, de superbes polypodes, ses rosiers de Chine aux fleurs rouges et blanches, ses graminées, ses solanées, entre autres le tabac, ses labiées à grappes violettes, qui forment la parure recherchée des jeunes Nouka-Hiviennes, ses ricins hauts d\'une dizaine de pieds, ses dracénas, ses cannes à sucre, ses orangers, ses citronniers, dont l\'importation assez récente réussit à merveille dans ces terres imprégnées des chaleurs estivales et arrosées des multiples rios descendus des montagnes.
+
+Et, un matin, lorsque le quatuor s\'est élevé au-delà du village des Taïs, en côtoyant un torrent, jusqu\'au sommet de la chaîne, lorsque, sous ses pieds, devant ses yeux, se développent les vallées des Taïs, des Taïpis et des Happas, un cri d\'admiration lui échappe ! S\'il avait eu ses instruments, il n\'aurait pas résisté au désir de répondre par l\'exécution d\'un chef-d\'oeuvre lyrique au spectacle de ces chefs-d\'oeuvre de la nature ! Sans doute, les exécutants n\'eussent été entendus que de quelques couples d\'oiseaux ! Mais elle est si jolie la colombe kurukuru qui vole à ces hauteurs, si charmante, la petite salangane, et il balaie l\'espace d\'une aile si capricieuse, le phaéton, hôte habituel de ces gorges nouka-hiviennes !
+
+D\'ailleurs, nul reptile venimeux à redouter au plus profond de ces forêts. On ne fait attention ni aux boas, longs de deux pieds à peine, aussi inoffensifs qu\'une couleuvre, ni aux simques dont la queue d\'azur se confond avec les fleurs.
+
+Les indigènes offrent un type remarquable. On retrouve en eux le caractère asiatique, -- ce qui leur assigne une origine très différente des autres peuplades océaniennes. Ils sont de taille moyenne, académiquement proportionnés, très musculeux, larges de poitrine. Ils ont les extrémités fines, la figure ovale, le front élevé, les yeux noirs à longs cils, le nez aquilin, les dents blanches et régulières, le teint ni rouge ni noir, bistré comme celui des Arabes, une physionomie empreinte à la fois de gaîté et de douceur.
+
+Le tatouage a presque entièrement disparu, -- ce tatouage qui s\'obtenait non par entailles à la peau, mais par piqûres, saupoudrées du charbon de l\'aleurite triloba. Il est maintenant remplacé par la cotonnade des missionnaires.
+
+« Très beaux, ces hommes, dit Yvernès, moins peut-être qu\'à l\'époque où ils étaient simplement vêtus de leurs pagnes, coiffés de leurs cheveux, brandissant l\'arc et les flèches ! »
+
+Cette observation est présentée pendant une excursion à la baie Comptroller, en compagnie du gouverneur. Cyrus Bikerstaff a désiré conduire ses hôtes à cette baie, divisée en plusieurs ports, comme l\'est La Valette, et, sans doute, entre les mains des Anglais, Nouka-Hiva serait devenue une Malte de l\'océan Pacifique. En cette région s\'est concentrée la peuplade des Happas, entre les gorges d\'une campagne fertile, avec une petite rivière alimentée par une cascade retentissante. Là fut le principal théâtre de la lutte de l\'Américain Porter contre les indigènes.
+
+L\'observation d\'Yvernès demandait une réponse, et le gouverneur la fait en disant :
+
+« Peut-être avez-vous raison, monsieur Yvernès. Les Marquisans avaient plus grand air avec le pagne, le maro et le paréo aux couleurs éclatantes, le ahu bun, sorte d\'écharpe volante, et le tiputa, sorte de poncho mexicain. Il est certain que le costume moderne ne leur sied guère ! Que voulez-vous ? Décence est conséquence de civilisation ! En même temps que nos missionnaires s\'appliquent à instruire les indigènes, ils les encouragent à se vêtir d\'une façon moins rudimentaire.
+
+--- N\'ont-ils pas raison, commodore ?
+
+--- Au point de vue des convenances, oui ! Au point de vue hygiénique, non ! Depuis qu\'ils sont habillés plus décemment, les Nouka-Hiviens et autres insulaires ont, n\'en doutez pas, perdu de leur vigueur native, et aussi de leur gaîté naturelle. Ils s\'ennuient, et leur santé en a souffert. Ils ignoraient autrefois les bronchites, les pneumonies, la phtisie\...
+
+--- Et depuis qu\'ils ne vont plus tout nus, ils s\'enrhument\... S\'écrie Pinchinat.
+
+--- Comme vous dites ! Il y a là une sérieuse cause de dépérissement pour la race.
+
+--- D\'où je conclus, reprend son Altesse, qu\'Adam et Ève n\'ont éternué que le jour où ils ont porté robes et pantalons, après avoir été chassés du Paradis terrestre, -- ce qui nous a valu, à nous, leurs enfants dégénérés et responsables, des fluxions de poitrine !
+
+--- Monsieur le gouverneur, interroge Yvernès, il nous a semblé que les femmes étaient moins belles que les hommes dans cet archipel\...
+
+--- Ainsi que dans les autres, répond Cyrus Bikerstaff, et ici, cependant, vous voyez le type le plus accompli des Océaniennes.
+
+N\'est-ce pas, d\'ailleurs, une loi de nature commune aux races qui se rapprochent de l\'état sauvage ? N\'en est-il pas ainsi du règne animal, où la faune, au point de vue de la beauté physique, nous montre presque invariablement les mâles supérieurs aux femelles ?
+
+--- Eh ! s\'écrie Pinchinat, il faut venir aux antipodes pour faire de pareilles observations, et voilà ce que nos jolies Parisiennes ne voudront jamais admettre ! »
+
+Il n\'existe que deux classes dans la population de Nouka-Hiva, et elles sont soumises à la loi du tabou. Cette loi fut inventée par les forts contre les faibles, par les riches contre les pauvres, afin de sauvegarder leurs privilèges et leurs biens. Le tabou a le blanc pour couleur, et aux objets taboués, lieu sacré, monument funéraire, maisons de chefs, les petites gens n\'ont pas le droit de toucher. De là, une classe tabouée, à laquelle appartiennent les prêtres, les sorciers ou touas, les akarkis ou chefs civils, et une classe non tabouée, où sont relégués la plupart des femmes ainsi que le bas peuple. En outre, non seulement il n\'est pas permis de porter la main sur un objet protégé par le tabou, mais il est même interdit d\'y porter ses regards.
+
+« Et cette règle, ajoute Cyrus Bikerstaff, est si sévère aux Marquises, comme aux Pomotou, comme aux îles de la Société, que je ne vous conseillerais pas, messieurs, de jamais l\'enfreindre.
+
+--- Tu entends, mon brave Zorn ! dit Frascolin. Veille à tes mains, veille à tes yeux ! » Le violoncelliste se contente de hausser les épaules, en homme que ces choses n\'intéressent aucunement. Le 5 septembre, Standard-Island a quitté le mouillage de Taïo-Haé. Elle laisse dans l\'est l\'île de Houa-Houna (Kahuga), la plus orientale du premier groupe, dont on n\'aperçoit que les lointaines hauteurs verdoyantes, et à laquelle les plages font défaut, son périmètre n\'étant formé que de falaises coupées à pic. Il va sans dire qu\'en passant le long de ces îles, Standard-Island a soin de modérer son allure, car une telle masse, lancée à toute vitesse, produirait une sorte de raz de marée qui jetterait les embarcations à la côte et inonderait le littoral. On se tient à quelques encablures seulement de Uapou, d\'un aspect remarquable, car elle est hérissée d\'aiguilles basaltiques. Deux anses, nommées, l\'une, baie Possession, et l\'autre, baie de Bon-Accueil, indiquent qu\'elles ont eu un Français pour parrain. C\'est là, en effet, que le capitaine Marchand arbora le drapeau de la France. Au delà, Ethel Simcoë, s\'engageant à travers les parages du second groupe, se dirige vers Hiva-Oa, l\'île Dominica suivant l\'appellation espagnole. La plus vaste de l\'archipel, d\'origine volcanique, elle mesure une périphérie de cinquante-six milles. On peut observer très distinctement ses falaises, taillées dans une roche noirâtre, et les cascades qui se précipitent des collines centrales, revêtues d\'une végétation puissante. Un détroit de trois milles sépare cette île de Taou-Ata. Comme Standard-Island n\'aurait pu trouver assez de large pour y passer, elle doit contourner Taou-Ata par l\'ouest, où la baie Madre de Dios, -- baie résolution, de Cook, -- reçut les premiers navires européens. Cette île gagnerait à être moins rapprochée de sa rivale Hiva-Oa. Peut-être alors, la guerre étant plus difficile de l\'une à l\'autre, les peuplades ne pourraient prendre contact et se décimer avec l\'entrain qu\'elles y apportent encore. Après avoir relevé à l\'est le gisement de Motane, stérile, sans abri, sans habitants, le commodore Simcoë prend direction vers Fatou-Hiva, ancienne île de Cook. Ce n\'est, à vrai dire, qu\'un énorme rocher, où pullulent les oiseaux de la zone tropicale, une sorte de pain de sucre mesurant trois milles de circonférence ! Tel est le dernier îlot du sud-est que les Milliardais perdent de vue dans l\'après-midi du 9 septembre. Afin de se conformer à son itinéraire, Standard-Island met le cap au sud-ouest, pour rallier l\'archipel des Pomotou dont elle doit traverser la partie médiane.
+
+Le temps est toujours favorable, ce mois de septembre correspondant au mois de mars de l\'hémisphère boréal.
+
+Dans la matinée du 11 septembre, la chaloupe de Bâbord-Harbour a recueilli une des bouées flottantes, à laquelle se rattache un des câbles de la baie Madeleine. Le bout de ce fil de cuivre, dont une couche de gutta assure le complet isolement, est raccordé aux appareils de l\'observatoire, et la communication téléphonique s\'établit avec la côte américaine.
+
+L\'administration de Standard-Island Company est consultée sur la question des naufragés du ketch malais. Autorisait-elle le gouverneur à leur accorder passage jusqu\'aux parages des Fidji, où leur rapatriement pourrait s\'opérer dans des conditions plus rapides et moins coûteuses ?
+
+La réponse est favorable. Standard-Island a même la permission de se porter vers l\'ouest jusqu\'aux Nouvelles-Hébrides, afin d\'y débarquer les naufragés, si les notables de Milliard-City n\'y voient pas d\'inconvénient. Cyrus Bikerstaff informe de cette décision le capitaine Sarol, et celui-ci prie le gouverneur de transmettre ses remerciements aux administrateurs de la baie Madeleine.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185444 .pcalibre2 .pcalibre1}[]{#_Toc343182983 .pcalibre2 .pcalibre1}[]{#_Toc343180522 .pcalibre2 .pcalibre1}[]{#_Toc343178061 .pcalibre2 .pcalibre1}[]{#_Toc343175600 .pcalibre2 .pcalibre1}[]{#_Toc343173139 .pcalibre2 .pcalibre1}[]{#_Toc343170678 .pcalibre2 .pcalibre1}[]{#_Toc343168217 .pcalibre2 .pcalibre1}[]{#_Toc343165756 .pcalibre2 .pcalibre1}[]{#_Toc343163295 .pcalibre2 .pcalibre1}[]{#_Toc343160834 .pcalibre2 .pcalibre1}[]{#_Toc343158373 .pcalibre2 .pcalibre1}[]{#_Toc343149103 .pcalibre2 .pcalibre1}[]{#_Toc343146642 .pcalibre2 .pcalibre1}[]{#_Toc343144179 .pcalibre2 .pcalibre1}[]{#_Toc343141718 .pcalibre2 .pcalibre1}[]{#_Toc343139257 .pcalibre2 .pcalibre1}[]{#_Toc343136795 .pcalibre2 .pcalibre1}[]{#_Toc343134334 .pcalibre2 .pcalibre1}[]{#_Toc343131873 .pcalibre2 .pcalibre1}[]{#_Toc343129411 .pcalibre2 .pcalibre1}[]{#_Toc343126950 .pcalibre2 .pcalibre1}[]{#_Toc343124486 .pcalibre2 .pcalibre1}[]{#_Toc343122025 .pcalibre2 .pcalibre1}[]{#_Toc343119564 .pcalibre2 .pcalibre1}[]{#_Toc343117110 .pcalibre2 .pcalibre1}[]{#_Toc343114647 .pcalibre2 .pcalibre1}[]{#_Toc343112186 .pcalibre2 .pcalibre1}[]{#_Toc343109725 .pcalibre2 .pcalibre1}[]{#_Toc343105981 .pcalibre2 .pcalibre1}[]{#_Toc343103519 .pcalibre2 .pcalibre1}[]{#_Toc343101056 .pcalibre2 .pcalibre1}[]{#_Toc343098631 .pcalibre2 .pcalibre1}[]{#_Toc343096162 .pcalibre2 .pcalibre1}[]{#_Toc343093700 .pcalibre2 .pcalibre1}[]{#_Toc343091222 .pcalibre2 .pcalibre1}[]{#_Toc343088759 .pcalibre2 .pcalibre1}[]{#_Toc343086297 .pcalibre2 .pcalibre1}[]{#_Toc343083834 .pcalibre2 .pcalibre1}[]{#_Toc343081372 .pcalibre2 .pcalibre1}[]{#_Toc343078911 .pcalibre2 .pcalibre1}[]{#_Toc343076448 .pcalibre2 .pcalibre1}[]{#_Toc343073985 .pcalibre2 .pcalibre1}[]{#_Toc343071519 .pcalibre2 .pcalibre1}[]{#_Toc343043559 .pcalibre2 .pcalibre1}[]{#_Toc343038679 .pcalibre2 .pcalibre1}[]{#_Toc343036314 .pcalibre2 .pcalibre1}[]{#_Toc343033949 .pcalibre2 .pcalibre1}[]{#_Toc343031584 .pcalibre2 .pcalibre1}[]{#_Toc343028028 .pcalibre2 .pcalibre1}[]{#_Toc343025663 .pcalibre2 .pcalibre1}[]{#_Toc343023298 .pcalibre2 .pcalibre1}[]{#_Toc343020932 .pcalibre2 .pcalibre1}[]{#_Toc343018566 .pcalibre2 .pcalibre1}[]{#_Toc343016201 .pcalibre2 .pcalibre1}[]{#_Toc343013836 .pcalibre2 .pcalibre1}[]{#_Toc343011469 .pcalibre2 .pcalibre1}[]{#_Toc343009104 .pcalibre2 .pcalibre1}[]{#_Toc343006739 .pcalibre2 .pcalibre1}[]{#_Toc343004374 .pcalibre2 .pcalibre1}[]{#_Toc343002009 .pcalibre2 .pcalibre1}[]{#_Toc342999644 .pcalibre2 .pcalibre1}[]{#_Toc342997279 .pcalibre2 .pcalibre1}[]{#_Toc342994914 .pcalibre2 .pcalibre1}[]{#_Toc342992549 .pcalibre2 .pcalibre1}[]{#_Toc342990184 .pcalibre2 .pcalibre1}[]{#_Toc342987819 .pcalibre2 .pcalibre1}[]{#_Toc342985452 .pcalibre2 .pcalibre1}[]{#_Toc342983087 .pcalibre2 .pcalibre1}[]{#_Toc342980722 .pcalibre2 .pcalibre1}[]{#_Toc342978357 .pcalibre2 .pcalibre1}[[Chapitre 12 -- Trois semaines aux Pomotou]{lang="X-NONE"}]{#_Toc342942376 .pcalibre2 .pcalibre1} {#chapitre-12-trois-semaines-aux-pomotou .calibre171 .sigil_not_in_toc}
+
+En vérité, le quatuor ferait preuve d\'une révoltante ingratitude envers Calistus Munbar s\'il ne lui était pas reconnaissant de l\'avoir, même un peu traîtreusement, attiré sur Standard-Island.
+
+Qu\'importe le moyen dont le surintendant s\'est servi pour faire des artistes parisiens les hôtes fêtés, adulés et grassement rémunérés de Milliard-City ! Sébastien Zorn ne cesse de bouder, car on ne changera jamais un hérisson aux piquants acérés en une chatte à la moelleuse fourrure. Mais Yvernès, Pinchinat, Frascolin lui-même, n\'auraient pu rêver plus délicieuse existence. Une excursion, sans dangers ni fatigues, à travers ces admirables mers du Pacifique ! Un climat qui se conserve toujours sain, presque toujours égal, grâce aux changements de parages ! Et puis, n\'ayant point à prendre parti dans la rivalité des deux camps, acceptés comme l\'âme chantante de l\'île à hélice, reçus chez la famille Tankerdon et les plus distinguées de la section bâbordaise, comme chez la famille Coverley et les plus notables de la section tribordaise, traités avec honneur par le gouverneur et ses adjoints à l\'hôtel de ville, par le commodore Simcoë et ses officiers à l\'observatoire, par le colonel Stewart et sa milice, prêtant leur concours aux fêtes du Temple comme aux cérémonies de Saint-Mary Church, trouvant des gens sympathiques dans les deux ports, dans les usines, parmi les fonctionnaires et les employés, nous le demandons à toute personne raisonnable, nos compatriotes peuvent-ils regretter le temps où ils couraient les cités de la république fédérale, et quel est l\'homme qui serait assez ennemi de lui-même pour ne pas leur porter envie ? « Vous me baiserez les mains ! » avait dit le surintendant dès leur première entrevue. Et, s\'ils ne l\'avaient pas fait, s\'ils ne le firent pas, c\'est qu\'il ne faut jamais baiser une main masculine.
+
+Un jour, Athanase Dorémus, le plus fortuné des mortels s\'il en fut, leur dit : « Voilà près de deux ans que je suis à Standard-Island, et je regretterais qu\'il n\'y en eût pas soixante, si l\'on m\'assurait que dans soixante ans j\'y serai encore\...
+
+--- Vous n\'êtes pas dégoûté, répond Pinchinat, avec vos prétentions à devenir centenaire !
+
+--- Eh ! Monsieur Pinchinat, soyez sûr que j\'atteindrai la centaine ! Pourquoi voulez-vous que l\'on meure à Standard-Island ?
+
+--- Parce que l\'on meurt partout\...
+
+--- Pas ici, monsieur, pas plus qu\'on ne meurt dans le paradis céleste ! » Que répondre à cela ? Cependant il y avait bien, de temps à autre, quelques gens malavisés qui passaient de vie à trépas, même sur cette île enchantée. Et alors les steamers emportaient leurs dépouilles jusqu\'aux cimetières lointains de Madeleine-bay. Décidément, il est écrit qu\'on ne saurait être complètement heureux en ce bas monde. Pourtant il existe toujours quelques points noirs à l\'horizon. Il faut même le reconnaître, ces points noirs prennent peu à peu la forme de nuages fortement électrisés, qui pourront avant longtemps provoquer orages, rafales et bourrasques. Inquiétante, cette regrettable rivalité des Tankerdon et des Coverley, -- rivalité qui approche de l\'état aigu. Leurs partisans font cause commune avec eux. Est-ce que les deux sections seront un jour aux prises ? Est-ce que Milliard-City est menacée de troubles, d\'émeutes, de révolutions ? Est-ce que l\'administration aura le bras assez énergique, et le gouverneur Cyrus Bikerstaff la main assez ferme, pour maintenir la paix entre ces Capulets et ces Montaigus d\'une île à hélice ? On ne sait trop. Tout est possible de la part de rivaux dont l\'amour-propre paraît être sans limites.
+
+Or, depuis la scène qui s\'est produite au passage de la Ligne, les deux Milliardaires sont ennemis déclarés. Leurs amis les soutiennent de part et d\'autre. Tout rapport a cessé entre les deux sections. Du plus loin qu\'on s\'aperçoit, on s\'évite, et si l\'on se rencontre, quel échange de gestes menaçants, de regards farouches ! Le bruit s\'est même répandu que l\'ancien commerçant de Chicago et quelques Bâbordais allaient fonder une maison de commerce, qu\'ils demandaient à la Compagnie l\'autorisation de créer une vaste usine, qu\'ils y importeraient cent mille porcs, et qu\'ils les abattraient, les saleraient et iraient les vendre dans les divers archipels du Pacifique\...
+
+Après cela, on croira volontiers que l\'hôtel Tankerdon et l\'hôtel Coverley sont deux poudrières. Il suffirait d\'une étincelle pour les faire sauter, Standard-Island avec. Or, ne point oublier qu\'il s\'agit d\'un appareil flottant au-dessus des plus profonds abîmes. Il est vrai, cette explosion ne pourrait être que « toute morale », s\'il est permis de s\'exprimer ainsi ; mais elle risquerait d\'avoir pour conséquence que les notables prendraient sans doute le parti de s\'expatrier. Voilà une détermination qui compromettrait l\'avenir et, très probablement, la situation financière de la Standard-Island Company !
+
+Tout cela est gros de complications menaçantes, sinon de catastrophes matérielles. Et qui sait même si ces dernières ne sont pas à redouter ?
+
+En effet, peut-être les autorités, moins endormies dans une sécurité trompeuse, auraient-elles dû surveiller de près le capitaine Sarol et ses Malais, si hospitalièrement accueillis à la suite de leur naufrage ! Non pas que ces gens s\'abandonnent à des propos suspects, étant peu loquaces, vivant à l\'écart, se tenant en dehors de toutes relations, jouissant d\'un bien-être qu\'ils regretteront dans leurs sauvages Nouvelles-Hébrides ! Y a-t-il donc lieu de les soupçonner ? Oui et non. Toutefois un observateur plus éveillé constaterait qu\'ils ne cessent de parcourir Standard-Island, qu\'ils étudient sans cesse Milliard-City, la disposition de ses avenues, l\'emplacement de ses palais et de ses hôtels, comme s\'ils cherchaient à en lever un plan exact. On les rencontre à travers le parc et la campagne.
+
+Ils se rendent fréquemment soit à Bâbord-Harbour, soit à Tribord-Harbour, observant les arrivées et les départs des navires. On les voit, en de longues promenades, explorer le littoral, où les douaniers sont, jour et nuit, de faction, et visiter les batteries disposées à l\'avant et à l\'arrière de l\'île. Après tout, quoi de plus naturel ? Ces Malais désoeuvrés peuvent-ils mieux employer le temps qu\'en excursions, et y a-t-il lieu de voir là quelque démarche suspecte ?
+
+Cependant le commodore Simcoë gagne peu à peu vers le sud-ouest sous petite allure. Yvernès, comme si son être se fût transformé depuis qu\'il est devenu un mouvant insulaire, s\'abandonne au charme de cette navigation. Pinchinat et Frascolin le subissent aussi. Que de délicieuses heures passées au casino, en attendant les concerts de quinzaine et les soirées où on se les dispute à prix d\'or ! Chaque matin, grâce aux journaux de Milliard-City, approvisionnés de nouvelles fraîches par les câbles, et de faits divers datant de quelques jours par les steamers en service régulier, ils sont au courant de tout ce qui intéresse dans les deux continents, au quadruple point de vue mondain, scientifique, artiste, politique.
+
+Et, à ce dernier point de vue, il faut reconnaître que la presse anglaise de toute nuance ne cesse de récriminer contre l\'existence de cette île ambulante, qui a pris le Pacifique pour théâtre de ses excursions. Mais, de telles récriminations, on les dédaigne à Standard-Island comme à la baie Madeleine.
+
+N\'oublions pas de mentionner que, depuis quelques semaines déjà, Sébastien Zorn et ses camarades ont pu lire, sous la rubrique des informations de l\'étranger, que leur disparition a été signalée par les feuilles américaines. Le célèbre Quatuor Concertant, si fêté dans les états de l\'Union, si attendu de ceux qui n\'ont pas encore eu le bonheur de le posséder, ne pouvait avoir disparu, sans que cette disparition ne fît une grosse affaire. San-Diégo ne les a pas vus au jour indiqué, et San-Diégo a jeté le cri d\'alarme. On s\'est informé, et de l\'enquête a résulté cette constatation, c\'est que les artistes français étaient en cours de navigation à bord de l\'île à hélice, après un enlèvement opéré sur le littoral de la Basse-Californie. Somme toute, comme ils n\'ont pas réclamé contre cet enlèvement, il n\'y a point eu échange de notes diplomatiques entre la Compagnie et la République fédérale.
+
+Quand il plaira au quatuor de reparaître sur le théâtre de ses succès, il sera le bien venu.
+
+On comprend que les deux violons et l\'alto ont imposé silence au violoncelle, lequel n\'eût pas été fâché d\'être cause d\'une déclaration de guerre, qui eût mis aux prises le nouveau continent et le Joyau du Pacifique !
+
+D\'ailleurs, nos instrumentistes ont plusieurs fois écrit en France depuis leur embarquement forcé. Leurs familles, rassurées, leur adressent de fréquentes lettres, et la correspondance s\'opère aussi régulièrement que par les services postaux entre Paris et New-York. Un matin, -- le 17 septembre, -- Frascolin, installé dans la bibliothèque du casino, éprouve le très naturel désir de consulter la carte de cet archipel des Pomotou, vers lequel il se dirige.
+
+Des qu\'il a ouvert l\'atlas, dès que son oeil s\'est porté sur ces parages de l\'océan Pacifique :
+
+« Mille chanterelles ! s\'écrie-t-il, en monologuant, comment Ethel Simcoë fera-t-il pour se débrouiller dans ce chaos ? Jamais il ne trouvera passage à travers cet amas d\'îlots et d\'îles ! Il y en a des centaines ! Un véritable tas de cailloux au milieu d\'une mare ! Il touchera, il s\'échouera, il accrochera sa machine à cette pointe, il la crèvera sur cette autre ! Nous finirons par demeurer à l\'état sédentaire dans ce groupe plus fourmillant que notre Morbihan de la Bretagne ! »
+
+Il a raison, le raisonnable Frascolin. Le Morbihan ne compte que trois cent soixante-cinq îles, -- autant que de jours dans l\'année, -- et, sur cet archipel des Pomotou, on ne serait pas gêné d\'en relever le double. Il est vrai, la mer qui les baigne est circonscrite par une ceinture de récifs coralligènes, dont la circonférence n\'est pas inférieure à six cent cinquante lieues, suivant Élisée Reclus.
+
+Néanmoins, en observant la carte de ce groupe, il est permis de s\'étonner qu\'un navire, et a fortiori un appareil marin tel que Standard-Island, ose s\'aventurer à travers cet archipel. Compris entre les dix-septième et vingt-huitième parallèles sud, entre les cent trente-quatrième et cent quarante-septième méridiens ouest, il se compose d\'un millier d\'îles et d\'îlots, -- on a dit sept cents au juger -- depuis Mata-Hiva jusqu\'à Pitcairn.
+
+Il n\'est donc pas surprenant que ce groupe ait reçu diverses qualifications : entre autres, celles d\'archipel Dangereux ou de mer Mauvaise. Grâce à la prodigalité géographique dont l\'océan Pacifique a le privilège, il s\'appelle aussi îles Basses, îles Tuamotou, ce qui signifie « îles éloignées », îles Méridionales, îles de la Nuit, Terres mystérieuses. Quant au nom de Pomotou ou Pamautou, qui signifie îles Soumises, une députation de l\'archipel, réunie en 1850 à Papaeté la capitale de Taïti, a protesté contre cette dénomination. Mais, quoique le gouvernement français, déférant en 1852 à cette protestation, ait choisi, entre tous ces noms, celui de Tuamotou, mieux vaut garder, en ce récit, l\'appellation plus connue de Pomotou.
+
+Cependant, si dangereuse que puisse être cette navigation, le commodore Simcoë n\'hésite pas. Il a une telle habitude de ces mers, que l\'on peut s\'en fier à lui. Il manoeuvre son île comme un canot. Il la fait virer sur place. On dirait qu\'il la conduit à la godille. Frascolin peut être rassuré pour Standard-Island : les pointes de Pomotou n\'effleureront même pas sa carène d\'acier.
+
+Dans l\'après-midi du 19, les vigies de l\'observatoire ont signalé les premiers émergements du groupe à une douzaine de milles.
+
+En effet, ces îles sont extrêmement basses. Si quelques-unes dépassent le niveau de la mer d\'une quarantaine de mètres, soixante-quatorze ne sortent que d\'une demi-toise, et seraient noyées deux fois par vingt-quatre heures, si les marées n\'étaient pas à peu près nulles. Les autres ne sont que des attols, entourés de brisants, des bancs coralligènes d\'une aridité absolue, de simples récifs, régulièrement orientés dans le même sens que l\'archipel.
+
+C\'est par l\'est que Standard-Island attaque le groupe, afin de rallier l\'île Anaa que Fakarava a remplacée comme capitale, depuis qu\'Anaa a été en partie détruite par le terrible cyclone de 1878, -- lequel fit périr un grand nombre de ses habitants, et porta ses ravages jusqu\'à l\'île de Kaukura.
+
+C\'est d\'abord Vahitahi, qui est relevée à trois milles au large.
+
+Les précautions les plus minutieuses sont prises dans ces parages, les plus dangereux de l\'archipel, à cause des courants et de l\'extension des récifs vers l\'est. Vahitahi n\'est qu\'un amoncellement de corail, flanqué de trois îlots boisés, dont celui du nord est occupé par le principal village.
+
+Le lendemain, on aperçoit l\'île d\'Akiti, avec ses récifs tapissés de prionia, de pourpier, d\'une herbe rampante à teinte jaunâtre, de bourrache velue. Elle diffère des autres en ce qu\'elle ne possède pas de lagon intérieur. Si elle est visible d\'une assez grande distance, c\'est que sa hauteur au-dessus du niveau océanique est supérieure à la moyenne.
+
+Le jour suivant, autre île un peu plus importante, Amanu, dont le lagon est en communication avec la mer par deux passes de la côte nord-ouest. Tandis que la population milliardaise ne demande qu\'à se promener indolemment au milieu de cet archipel qu\'elle a visité l\'année précédente, se contentant d\'admirer ses merveilles au passage, Pinchinat, Frascolin, Yvernès, se seraient fort accommodés de quelques relâches, pendant lesquelles ils auraient pu explorer ces îles dues au travail des polypiers, c\'est-à-dire artificielles\... Comme Standard-Island\...
+
+« Seulement, fait observer le commodore Simcoë, la nôtre a la faculté de se déplacer\...
+
+--- Elle l\'a trop, réplique Pinchinat, puisqu\'elle ne s\'arrête nulle part !
+
+--- Elle s\'arrêtera aux îles Hao, Anaa, Fakarava, et vous aurez, messieurs, tout le loisir de les parcourir. »
+
+Interrogé sur le mode de formation de ces îles, Ethel Simcoë se range à la théorie la plus généralement admise ; c\'est que, dans cette partie du Pacifique, le fond sous-marin a dû graduellement s\'abaisser d\'une trentaine de mètres. Les zoophytes, les polypes, ont trouvé, sur les sommets immergés, une base assez solide pour établir leurs constructions de corail. Peu à peu, ces constructions se sont étagées, grâce au travail de ces infusoires, qui ne sauraient fonctionner à une profondeur plus considérable.
+
+Elles ont monté à la surface, elles ont formé cet archipel, dont les îles peuvent se classer en barrières, franges et attelions ou plutôt attol, -- nom indien de celles qui sont pourvues de lagons intérieurs. Puis des débris, rejetés par les lames, ont formé un humus. Des graines ont été apportées par les vents ; la végétation est apparue sur ces anneaux coralligènes. La marge calcaire s\'est revêtue d\'herbes et de plantes, hérissée d\'arbustes et d\'arbres, sous l\'influence d\'un climat intertropical.
+
+« Et qui sait ? dit Yvernès, dans un élan de prophétique enthousiasme, qui sait si le continent, qui fut englouti sous les eaux du Pacifique, ne reparaîtra pas un jour à sa surface, reconstruit par ces myriades d\'animalcules microscopiques ? Et alors, sur ces parages actuellement sillonnés par les voiliers et les steamers, fileront à toute vapeur des trains express qui relieront l\'ancien et le nouveau monde\...
+
+--- Démanche\... Démanche, mon vieil Isaïe ! » réplique cet irrespectueux de Pinchinat.
+
+Ainsi que l\'avait dit le commodore Simcoë, Standard-Island vient s\'arrêter le 23 septembre, devant l\'île Hao qu\'elle a pu approcher d\'assez près par ces grands fonds. Ses embarcations y conduisent quelques visiteurs à travers la passe qui, à droite, s\'abrite sous un rideau de cocotiers. Il faut faire cinq milles pour atteindre le principal village, situé sur une colline. Ce village ne compte guère que deux à trois cents habitants, pour la plupart pêcheurs de nacre, employés comme tels par des maisons taïtiennes. Là abondent ces pandanus et ces myrtes mikimikis, qui furent les premiers arbres d\'un sol, où poussent maintenant la canne à sucre, l\'ananas, le taro, le prionia, le tabac, et surtout le cocotier, dont les immenses palmeraies de l\'archipel contiennent plus de quarante mille.
+
+On peut dire que cet arbre « providentiel » réussit presque sans culture. Sa noix sert à l\'alimentation habituelle des indigènes, étant bien supérieure en substances nutritives aux fruits du pandanus. Avec elle, ils engraissent leurs porcs, leurs volailles, et aussi leurs chiens, dont les côtelettes et les filets sont particulièrement goûtés. Et puis, la noix de coco donne encore une huile précieuse, quand, râpée, réduite en pulpe, séchée au soleil, elle est soumise à la pression d\'une mécanique assez rudimentaire.
+
+Les navires emportent des cargaisons de ces coprahs sur le continent, où les usines les traitent d\'une façon plus fructueuse.
+
+Ce n\'est pas à Hao qu\'il faut juger de la population pomotouane.
+
+Les indigènes y sont trop peu nombreux. Mais, où le quatuor a pu l\'observer avec quelque avantage, c\'est à l\'île d\'Anaa, devant laquelle Standard-Island arrive le matin du 27 septembre. Anaa n\'a montré que d\'une courte distance ses massifs boisés d\'un superbe aspect. L\'une des plus grandes de l\'archipel, elle compte dix-huit milles de longueur sur neuf de largeur mesurés à sa base madréporique.
+
+On a dit qu\'en 1878, un cyclone avait ravagé cette île, ce qui a nécessité le transport de la capitale de l\'archipel à Fakarava.
+
+Cela est vrai, bien que, sous ce climat si puissant de la zone tropicale, il était présumable que la dévastation se réparerait en quelques années. En effet, redevenue aussi vivante qu\'autrefois, Anaa possède actuellement quinze cents habitants. Cependant elle est inférieure à Fakarava, sa rivale, pour une raison qui a son importance, c\'est que la communication entre la mer et le lagon ne peut se faire que par un étroit chenal, sillonné de remous de l\'intérieur à l\'extérieur, dus à la surélévation des eaux. À Fakarava, au contraire, le lagon est desservi par deux larges passes au nord et au sud. Toutefois, nonobstant que le principal marché d\'huile de coco ait été transporté dans cette dernière île, Anaa, plus pittoresque, attire toujours la préférence des visiteurs.
+
+Dès que Standard-Island a pris son poste de relâche dans d\'excellentes conditions, nombre de Milliardais se font transporter à terre. Sébastien Zorn et ses camarades sont des premiers, le violoncelliste ayant accepté de prendre part à l\'excursion.
+
+Tout d\'abord, ils se rendent au village de Tuahora, après avoir étudié dans quelles conditions s\'était formée cette île, -- formation commune à toutes celles de l\'archipel.
+
+Ici, la marge calcaire, la largeur de l\'anneau, si l\'on veut, est de quatre à cinq mètres, très accore du côté de la mer, en pente douce du côté du lagon dont la circonférence comprend environ cent milles comme à Rairoa et à Fakarava. Sur cet anneau sont massés des milliers de cocotiers, principale pour ne pas dire unique richesse de l\'île, et dont les frondaisons abritent les huttes indigènes.
+
+Le village de Tuahora est traversé par une route sablonneuse, éclatante de blancheur. Le résident français de l\'archipel n\'y demeure plus depuis qu\'Anaa a été déchue de son rôle de capitale.
+
+Mais l\'habitation est toujours là, protégée par une modeste enceinte. Sur la caserne de la petite garnison, confiée à la garde d\'un sergent de marine, flotte le drapeau tricolore.
+
+Il y a lieu d\'accorder quelque éloge aux maisons de Tuahora. Ce ne sont plus des huttes, ce sont des cases confortables et salubres, suffisamment meublées, posées pour la plupart sur des assises de corail. Les feuilles du pandanus leur ont fourni la toiture, le bois de ce précieux arbre a été employé pour les portes et les fenêtres. Ça et là les entourent des jardins potagers, que la main de l\'indigène a remplis de terre végétale, et dont l\'aspect est véritablement enchanteur.
+
+Ces naturels, d\'ailleurs, s\'ils sont d\'un type moins remarquable avec leur teint plus noir, s\'ils ont la physionomie moins expressive, le caractère moins aimable que ceux des îles Marquises, offrent encore de beaux spécimens de cette population de l\'Océanie équatoriale. En outre, travailleurs intelligents et laborieux, peut-être opposeront-ils plus de résistance à la dégénérescence physique qui menace l\'indigénat du Pacifique.
+
+Leur principale industrie, ainsi que Frascolin put le constater, c\'est la fabrication de l\'huile de coco. De là cette quantité considérable de cocotiers plantés dans les palmeraies de l\'archipel. Ces arbres se reproduisent aussi facilement que les excroissances coralligènes à la surface des attol. Mais ils ont un ennemi, et les excursionnistes parisiens l\'ont bien reconnu, un jour qu\'ils s\'étaient étendus sur la grève du lac intérieur, dont les vertes eaux contrastent avec l\'azur de la mer environnante.
+
+À un certain moment, voici que leur attention d\'abord, leur horreur ensuite, est provoquée par un bruit de reptation entre les herbes.
+
+Qu\'aperçoivent-ils ? Un crustacé de grosseur monstrueuse.
+
+Leur premier mouvement est de se lever, leur second de regarder l\'animal. « La vilaine bête ! s\'écrie Yvernès.
+
+--- C\'est un crabe ! » répond Frascolin. Un crabe, en effet, -- ce crabe qui est appelé birgo par les indigènes, et dont il y a grand nombre sur ces îles. Ses pattes de devant forment deux solides tenailles ou cisailles, avec lesquelles il parvient à ouvrir les noix, dont il fait sa nourriture préférée.
+
+Ces birgos vivent au fond de sortes de terriers, profondément creusés entre les racines, où ils entassent des fibres de cocos en guise de litière.
+
+Pendant la nuit plus particulièrement, ils vont à la recherche des noix tombées, et même ils grimpent au tronc et aux branches du cocotier afin d\'en abattre les fruits. Il faut que le crabe en question ait été pris d\'une faim de loup, comme le dit Pinchinat, pour avoir quitté en plein midi sa sombre retraite. On laisse faire l\'animal, car l\'opération promet d\'être extrêmement curieuse. Il avise une grosse noix au milieu des broussailles ; il en déchire peu à peu les fibres avec ses pinces ; puis, lorsque la noix est à nu, il attaque la dure écorce, la frappant, la martelant au même endroit. Ouverture faite, le birgo retire la substance intérieure en employant ses pinces de derrière dont l\'extrémité est fort amincie.
+
+Il est certain, observe Yvernès, que la nature a créé ce birgo pour ouvrir des noix de coco\...
+
+--- Et qu\'elle a créé la noix de coco pour nourrir le birgo, ajoute Frascolin.
+
+--- Eh bien, si nous contrariions les intentions de la nature, en empêchant ce crabe de manger cette noix, et cette noix d\'être mangée par ce crabe ? Propose Pinchinat.
+
+--- Je demande qu\'on ne le dérange pas, dit Yvernès. Ne donnons pas, même à un birgo, une mauvaise idée des Parisiens en voyage ! »
+
+On y consent, et le crabe, qui a sans doute jeté un regard courroucé sur Son Altesse, adresse un regard de reconnaissance au premier violon du Quatuor Concertant.
+
+Après soixante heures de relâche devant Anaa, Standard-Island suit la direction du nord. Elle pénètre à travers le fouillis des îlots et des îles, dont le commodore Simcoë descend le chenal avec une parfaite sûreté de main.
+
+Il va de soi que, dans ces conditions, Milliard-City est un peu abandonnée de ses habitants au profit du littoral, et plus particulièrement de la partie qui avoisine la batterie de l\'Éperon. Toujours des îles en vue, ou plutôt de ces corbeilles verdoyantes qui semblent flotter à la surface des eaux.
+
+On dirait d\'un marché aux fleurs sur un des canaux de la Hollande.
+
+De nombreuses pirogues louvoient aux approches des deux ports ; mais il ne leur est pas permis d\'y entrer, les agents ayant reçu des ordres formels à cet égard. Nombre de femmes indigènes viennent à la nage, lorsque l\'île mouvante range à courte distance les falaises madréporiques. Si elles n\'accompagnent pas les hommes dans leurs canots, c\'est que, ces embarcations sont tabouées pour le beau sexe pomotouan, et qu\'il lui est interdit d\'y prendre place.
+
+Le 4 octobre, Standard-Island s\'arrête devant Fakarava, à l\'ouvert de la passe du sud. Avant que les embarcations débordent pour transporter les visiteurs, le résident français s\'est présenté à Tribord-Harbour, d\'où le gouverneur a donné l\'ordre de le conduire à l\'hôtel municipal.
+
+L\'entrevue est très cordiale. Cyrus Bikerstaff a sa figure officielle, -- celle qui lui sert dans les cérémonies de ce genre.
+
+Le résident, un vieil officier de l\'infanterie de marine, n\'est pas en reste avec lui. Impossible d\'imaginer rien de plus grave, de plus digne, de plus convenable, de plus « en bois » de part et d\'autre.
+
+La réception terminée, le résident est autorisé à parcourir Milliard-City, dont Calistus Munbar est chargé de lui faire les honneurs. En leur qualité de Français, les Parisiens et Athanase Dorémus ont voulu se joindre au surintendant. Et c\'est une joie pour ce brave homme de se retrouver avec des compatriotes.
+
+Le lendemain, le gouverneur va à Fakarava rendre au vieil officier sa visite, et tous les deux reprennent leur figure de la veille.
+
+Le quatuor, descendu à terre, se dirige vers la résidence. C\'est une très simple habitation, occupée par une garnison de douze anciens marins, au mât de laquelle se déploie le pavillon de la France.
+
+Bien que Fakarava soit devenue la capitale de l\'archipel, on l\'a dit, elle ne vaut point sa rivale Anaa. Le principal village n\'est pas aussi pittoresque sous la verdure des arbres, et d\'ailleurs, les habitants y sont moins sédentaires. En outre de la fabrication de l\'huile de coco, dont le centre est à Fakarava, ils se livrent à la pêche des huîtres perlières. Le commerce de la nacre qu\'ils retirent de cette exploitation, les oblige à fréquenter l\'île voisine de Toau, spécialement outillée pour cette industrie.
+
+Hardis plongeurs, ces indigènes n\'hésitent pas à descendre jusqu\'à des profondeurs de vingt et trente mètres, habitués qu\'ils sont à supporter de telles pressions sans en être incommodés, et à garder leur respiration plus d\'une minute.
+
+Quelques-uns de ces pêcheurs ont été autorisés à offrir les produits de leur pêche, nacre ou perles, aux notables de Milliard-City. Certes, ce ne sont point les bijoux qui manquent aux opulentes dames de la ville. Mais, ces productions naturelles à l\'état brut, on ne trouve pas à se les procurer facilement, et, l\'occasion se présentant, les pêcheurs sont dévalisés à des prix invraisemblables. Du moment que Mrs Tankerdon achète une perle de grande valeur, il est tout indiqué que Mrs Coverley suive son exemple. Par bonheur, il n\'y eut pas lieu de surenchérir sur un objet unique, car on ne sait où les surenchères se fussent arrêtées. D\'autres familles prennent à coeur d\'imiter leurs amis, et, ce jour-là, comme on dit en langage maritime, les Fakaraviens firent « une bonne marée ».
+
+Après une dizaine de jours, le 13 octobre, le Joyau du Pacifique appareille dès les premières heures. En quittant la capitale des Pomotou, elle atteint la limite occidentale de l\'archipel. De l\'invraisemblable encombrement d\'îles et d\'îlots, de récifs et d\'attol, le commodore Simcoë n\'a plus à se préoccuper. Il est sorti, sans un accroc, de ces parages de la mer Mauvaise. Au large s\'étend cette portion du Pacifique qui, sur un espace de quatre degrés, sépare le groupe des Pomotou du groupe de la Société.
+
+C\'est en mettant le cap au sud-ouest que Standard-Island, mue par les dix millions de chevaux de ses machines, se dirige vers l\'île si poétiquement célébrée par Bougainville, l\'enchanteresse Tahiti.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185445 .pcalibre2 .pcalibre1}[]{#_Toc343182984 .pcalibre2 .pcalibre1}[]{#_Toc343180523 .pcalibre2 .pcalibre1}[]{#_Toc343178062 .pcalibre2 .pcalibre1}[]{#_Toc343175601 .pcalibre2 .pcalibre1}[]{#_Toc343173140 .pcalibre2 .pcalibre1}[]{#_Toc343170679 .pcalibre2 .pcalibre1}[]{#_Toc343168218 .pcalibre2 .pcalibre1}[]{#_Toc343165757 .pcalibre2 .pcalibre1}[]{#_Toc343163296 .pcalibre2 .pcalibre1}[]{#_Toc343160835 .pcalibre2 .pcalibre1}[]{#_Toc343158374 .pcalibre2 .pcalibre1}[]{#_Toc343149104 .pcalibre2 .pcalibre1}[]{#_Toc343146643 .pcalibre2 .pcalibre1}[]{#_Toc343144180 .pcalibre2 .pcalibre1}[]{#_Toc343141719 .pcalibre2 .pcalibre1}[]{#_Toc343139258 .pcalibre2 .pcalibre1}[]{#_Toc343136796 .pcalibre2 .pcalibre1}[]{#_Toc343134335 .pcalibre2 .pcalibre1}[]{#_Toc343131874 .pcalibre2 .pcalibre1}[]{#_Toc343129412 .pcalibre2 .pcalibre1}[]{#_Toc343126951 .pcalibre2 .pcalibre1}[]{#_Toc343124487 .pcalibre2 .pcalibre1}[]{#_Toc343122026 .pcalibre2 .pcalibre1}[]{#_Toc343119565 .pcalibre2 .pcalibre1}[]{#_Toc343117111 .pcalibre2 .pcalibre1}[]{#_Toc343114648 .pcalibre2 .pcalibre1}[]{#_Toc343112187 .pcalibre2 .pcalibre1}[]{#_Toc343109726 .pcalibre2 .pcalibre1}[]{#_Toc343105982 .pcalibre2 .pcalibre1}[]{#_Toc343103520 .pcalibre2 .pcalibre1}[]{#_Toc343101057 .pcalibre2 .pcalibre1}[]{#_Toc343098632 .pcalibre2 .pcalibre1}[]{#_Toc343096163 .pcalibre2 .pcalibre1}[]{#_Toc343093701 .pcalibre2 .pcalibre1}[]{#_Toc343091223 .pcalibre2 .pcalibre1}[]{#_Toc343088760 .pcalibre2 .pcalibre1}[]{#_Toc343086298 .pcalibre2 .pcalibre1}[]{#_Toc343083835 .pcalibre2 .pcalibre1}[]{#_Toc343081373 .pcalibre2 .pcalibre1}[]{#_Toc343078912 .pcalibre2 .pcalibre1}[]{#_Toc343076449 .pcalibre2 .pcalibre1}[]{#_Toc343073986 .pcalibre2 .pcalibre1}[]{#_Toc343071520 .pcalibre2 .pcalibre1}[]{#_Toc343043560 .pcalibre2 .pcalibre1}[]{#_Toc343038680 .pcalibre2 .pcalibre1}[]{#_Toc343036315 .pcalibre2 .pcalibre1}[]{#_Toc343033950 .pcalibre2 .pcalibre1}[]{#_Toc343031585 .pcalibre2 .pcalibre1}[]{#_Toc343028029 .pcalibre2 .pcalibre1}[]{#_Toc343025664 .pcalibre2 .pcalibre1}[]{#_Toc343023299 .pcalibre2 .pcalibre1}[]{#_Toc343020933 .pcalibre2 .pcalibre1}[]{#_Toc343018567 .pcalibre2 .pcalibre1}[]{#_Toc343016202 .pcalibre2 .pcalibre1}[]{#_Toc343013837 .pcalibre2 .pcalibre1}[]{#_Toc343011470 .pcalibre2 .pcalibre1}[]{#_Toc343009105 .pcalibre2 .pcalibre1}[]{#_Toc343006740 .pcalibre2 .pcalibre1}[]{#_Toc343004375 .pcalibre2 .pcalibre1}[]{#_Toc343002010 .pcalibre2 .pcalibre1}[]{#_Toc342999645 .pcalibre2 .pcalibre1}[]{#_Toc342997280 .pcalibre2 .pcalibre1}[]{#_Toc342994915 .pcalibre2 .pcalibre1}[]{#_Toc342992550 .pcalibre2 .pcalibre1}[]{#_Toc342990185 .pcalibre2 .pcalibre1}[]{#_Toc342987820 .pcalibre2 .pcalibre1}[]{#_Toc342985453 .pcalibre2 .pcalibre1}[]{#_Toc342983088 .pcalibre2 .pcalibre1}[]{#_Toc342980723 .pcalibre2 .pcalibre1}[]{#_Toc342978358 .pcalibre2 .pcalibre1}[[Chapitre 13 -- Relâche à Tahiti]{lang="X-NONE"}]{#_Toc342942377 .pcalibre2 .pcalibre1} {#chapitre-13-relâche-à-tahiti .calibre171 .sigil_not_in_toc}
+
+L\'archipel de la Société ou de Taïti est compris entre le quinzième (15° 52\') degré et le dix-septième (17° 49\') degré de latitude méridionale, et entre le cent-cinquantième (150° 8\') degré et le cent-cinquante-sixième (156° 30\') de longitude à l\'ouest du méridien de Paris. Il couvre deux mille deux cents kilomètres superficiels.
+
+Deux groupes le constituent : 1° les îles du Vent, Taïti ou Tahiti-Tahaa, Tapamanoa, Eimeo ou Morea, Tetiaroa, Meetia, qui sont sous le protectorat de la France ; 2° les îles Sous-le-Vent, Tubuai, Manu, Huahine, Raiatea-Thao, Bora-Bora, Moffy-Iti, Maupiti, Mapetia, Bellingshausen, Scilly, gouvernées par les souverains indigènes.
+
+Les Anglais les nomment îles Géorgiennes, bien que Cook, leur découvreur, les ait baptisées du nom d\'archipel de la Société, en l\'honneur de la Société Royale de Londres. Situé à deux cent cinquante lieues marines des Marquises, ce groupe, d\'après les divers recensements faits dans ces derniers temps, ne compte que quarante mille habitants étrangers ou indigènes.
+
+En venant du nord-est, Taïti est la première des îles du Vent qui apparaisse aux regards des navigateurs. Et c\'est elle que les vigies de l\'observatoire signalent d\'une grande distance, grâce au mont Maiao ou Diadème qui pointe à mille deux cent trente-neuf mètres au-dessus du niveau de la mer. La traversée s\'est accomplie sans incidents. Aidée par les vents alizés, Standard-Island a parcouru ces eaux admirables au-dessus desquelles le soleil se déplace en descendant vers le tropique du Capricorne. Encore deux mois et quelques jours, l\'astre radieux l\'aura atteint, il remontera vers la ligne équatoriale, l\'île à hélice l\'aura à son zénith pendant plusieurs semaines d\'ardente chaleur ; puis elle le suivra, comme un chien suit son maître, en s\'en tenant à la distance réglementaire.
+
+C\'est la première fois que les Milliardais vont relâcher à Taïti.
+
+L\'année précédente, leur campagne avait commencé trop tard. Ils n\'étaient pas allés plus loin dans l\'ouest, et, après avoir quitté les Pomotou, avaient remonté vers l\'Équateur. Or, cet archipel de la Société, c\'est le plus beau du Pacifique. En le parcourant, nos Parisiens ne pourraient qu\'apprécier davantage tout ce qu\'il y avait d\'enchanteur dans ce déplacement d\'un appareil libre de choisir ses relâches et son climat.
+
+
+--- Eh ! Que cela ne finisse jamais, c\'est tout ce que je demande ! » s\'écrie Yvernès. Standard-Island arrive en vue de Taïti dès l\'aube du 17 octobre. L\'île se présente par son littoral du nord. Pendant la nuit, on a relevé le phare de la pointe Vénus. La journée eût suffi à rallier la capitale Papeeté, située au nord-ouest, au-delà de la pointe. Mais le conseil des trente notables s\'est réuni sous la présidence du gouverneur. Comme tout conseil bien équilibré, il s\'est scindé en deux camps. Les uns, avec Jem Tankerdon, se sont prononcés pour l\'ouest ; les autres, avec Nat Coverley, se sont prononcés pour l\'est. Cyrus Bikerstaff, ayant voix prépondérante en cas de partage, a décide que l\'on gagnera Papeeté en contournant l\'île par le sud. Cette décision ne peut que satisfaire le quatuor, car elle lui permettra d\'admirer dans toute sa beauté cette perle du Pacifique, la Nouvelle Cythère de Bougainville. Taïti présente une superficie de cent quatre mille deux cent quinze hectares, -- neuf fois environ la surface de Paris. Sa population, qui en 1875 comprenait sept mille six cents indigènes, trois cents Français, onze cents étrangers, n\'est plus que de sept mille habitants. En plan géométral, elle offre très exactement la forme d\'une gourde renversée, le corps de la gourde étant l\'île principale, réunie au goulot que dessine le presqu\'île de Tatarapu par l\'étranglement de l\'isthme de Taravao. C\'est Frascolin qui a fait cette comparaison en étudiant la carte à grands points de l\'archipel, et ses camarades la trouvent si juste qu\'ils baptisent Taïti de ce nouveau nom : la Gourde des tropiques.
+
+Administrativement, Taïti se partage en six divisions, morcelées en vingt et un districts, depuis l\'établissement du protectorat du 9 septembre 1842. On n\'a point oublié les difficultés qui survinrent entre l\'amiral Dupetit-Thouars, la reine Pomaré et l\'Angleterre, à l\'instigation de cet abominable trafiquant de bibles et de cotonnades qui s\'appelait Pritchard, si spirituellement caricaturé dans les Guêpes d\'Alphonse Karr. Mais ceci est de l\'histoire ancienne, non moins tombée dans l\'oubli que les faits et gestes du fameux apothicaire anglo-saxon.
+
+Standard-Island peut se risquer sans danger à un mille des contours de la Gourde des tropiques. Cette gourde repose, en effet, sur une base coralligène, dont les assises descendent à pic dans les profondeurs de l\'Océan. Mais, avant de l\'approcher d\'aussi près, la population milliardaise a pu contempler sa masse imposante, ses montagnes plus généreusement favorisées de la nature que celles des Sandwich, ses cimes verdoyantes, ses gorges boisées, ses pics qui se dressent comme les pinacles aigus d\'une cathédrale gigantesque, la ceinture de ses cocotiers arrosée par l\'écume blanche du ressac sur l\'accore des brisants.
+
+Durant cette journée, en prolongeant la côte occidentale, les curieux, placés aux environs de Tribord-Harbour, la lorgnette aux yeux, -- et les Parisiens ont chacun la leur, -- peuvent s\'intéresser aux mille détails du littoral : le district de Papenoo, dont on aperçoit la rivière à travers sa large vallée depuis la base des montagnes et qui se jette dans l\'Océan, à l\'endroit où le récif manque sur un espace de plusieurs milles ; Hitiaa, un port très sûr, et d\'où l\'on exporte pour San-Francisco des millions et des millions d\'oranges ; Mahaena, où la conquête de l\'île ne se termina, en 1845, qu\'au prix d\'un terrible combat contre les indigènes.
+
+Dans l\'après-midi, on est arrivé par le travers de l\'étroit isthme de Taravao. En contournant la presqu\'île, le commodore Simcoë s\'en approche assez pour que les fertiles campagnes du district de Tautira, les nombreux cours d\'eau qui en font l\'un des plus riches de l\'archipel se laissent admirer dans toute leur splendeur.
+
+Tatarapu, reposant sur son assiette de corail, dresse majestueusement les âpres talus de ses cratères éteints.
+
+Puis, le soleil déclinant sur l\'horizon, les sommets s\'empourprent une dernière fois, les tons s\'adoucissent, les couleurs se fondent en une brume chaude et transparente. Ce n\'est bientôt plus qu\'une masse confuse dont les effluves, chargés de la senteur des orangers et des citronniers, se propagent avec la brise du soir.
+
+Après un très court crépuscule, la nuit est profonde.
+
+Standard-Island double alors l\'extrême pointe du sud-est de la presqu\'île, et, le lendemain, elle évolue devant la côte occidentale de l\'isthme à l\'heure où se lève le jour.
+
+Le district de Taravao, très cultivé, très peuplé, montre ses belles routes, entre les bois d\'orangers, qui le rattachent au district de Papeari. Au point culminant se dessine un fort, commandant les deux côtés de l\'isthme, défendu par quelques canons dont la volée se penche hors des embrasures comme des gargouilles de bronze. Au fond se cache le port Phaéton.
+
+« Pourquoi le nom de ce présomptueux cocher du char solaire rayonne-t-il sur cet isthme ? » se demande Yvernès.
+
+La journée, sous lente allure, s\'emploie à suivre les contours, plus accentués de la substruction coralligène, qui marque l\'ouest de Taïti. De nouveaux districts développent leurs sites variés, -- Papéiri aux plaines marécageuses par endroits, Mataiea, excellent port de Papeuriri, puis une large vallée parcourue par la rivière Vaihiria, et, au fond, cette montagne de cinq cents mètres, sorte de pied de lavabo, supportant une cuvette d\'un demi-kilomètre de circonférence. Cet ancien cratère, sans doute plein d\'eau douce, ne paraît avoir aucune communication avec la mer.
+
+Après le district d\'Ahauraono, adonné aux vastes cultures du coton sur une grande échelle, après le district de Papara, qui est surtout livré aux exploitations agricoles, Standard-Island, au-delà de la pointe Mara, prolonge la grande vallée de Paruvia, détachée du Diadème, et arrosée par le Punarûn. Plus loin que Taapuna, la pointe Tatao et l\'embouchure de la Faà, le commodore Simcoë incline légèrement vers le nord-est, évite adroitement l\'îlot de Motu-Uta, et, à six heures du soir, vient s\'arrêter devant la coupure qui donne accès dans la baie de Papeeté.
+
+À l\'entrée se dessine, en sinuosités capricieuses à travers le récif de corail, le chenal que balisent jusqu\'à la pointe de Farente des canons hors d\'usage. Il va de soi que Ethel Simcoë, grâce à ses cartes, n\'a pas besoin de recourir aux pilotes dont les baleinières croisent à l\'ouvert du chenal. Une embarcation sort cependant, ayant un pavillon jaune à sa poupe. C\'est « la santé » qui vient prendre langue au pied de Tribord-Harbour. On est sévère à Taïti, et personne ne peut débarquer avant que le médecin sanitaire, accompagné de l\'officier de port, n\'ait donné libre pratique.
+
+Aussitôt rendu à Tribord-Harbour, ce médecin se met en rapport avec les autorités. Il n\'y a là qu\'une simple formalité. De malades, on n\'en compte guère à Milliard-City ni aux environs.
+
+Dans tous les cas, les maladies épidémiques, choléra, influenza, fièvre jaune, y sont absolument inconnues. La patente nette est donc délivrée selon l\'usage. Mais, comme la nuit, précédé de quelques ébauches crépusculaires, tombe rapidement, le débarquement est remis au lendemain, et Standard-Island s\'endort en attendant le lever du jour.
+
+Dès l\'aube, des détonations retentissent. C\'est la batterie de l\'Éperon qui salue de vingt et un coups de canon le groupe des îles Sous-le-Vent, et Taïti, la capitale du protectorat français.
+
+En même temps, sur la tour de l\'observatoire, le pavillon rouge à soleil d\'or monte et descend trois fois.
+
+Une salve identique est rendue coup pour coup par la batterie de l\'Embuscade, à la pointe de la grande passe de Taïti.
+
+Tribord-Harbour est encombré dès les premières heures. Les trams y amènent une affluence considérable de touristes pour la capitale de l\'archipel. Ne doutez pas que Sébastien Zorn et ses amis soient des plus impatients. Comme les embarcations ne pourraient suffire à transporter ce monde de curieux, les indigènes s\'empressent d\'offrir leurs services pour franchir la distance de six encablures qui sépare Tribord-Harbour du port. Toutefois, il est convenable de laisser le gouverneur débarquer le premier. Il s\'agit de l\'entrevue d\'usage avec les autorités civiles et militaires de Taïti, et de la visite non moins officielle qu\'il doit rendre à la reine.
+
+Donc, vers neuf heures, Cyrus Bikerstaff, ses adjoints Barthélémy Ruge et Hubert Harcourt, tous trois en grande tenue, les principaux notables des deux sections, entre autres Nat Coverley et Jem Tankerdon, le commodore Simcoë et ses officiers en uniformes brillants, le colonel Stewart et son escorte, prennent place dans les chaloupes de gala, et se dirigent vers le port de Papeeté.
+
+Sébastien Zorn, Frascolin, Yvernès, Pinchinat, Athanase Dorémus, Calistus Munbar, occupent une autre embarcation avec un certain nombre de fonctionnaires.
+
+Des canots, des pirogues indigènes font cortège au monde officiel de Milliard-City, dignement représentée par son gouverneur, ses autorités, ses notables, dont les deux principaux seraient assez riches pour acheter Taïti tout entière, -- et même l\'archipel de la Société, y compris sa souveraine. C\'est un port excellent, ce port de Papeeté, et d\'une telle profondeur que les bâtiments de fort tonnage peuvent y prendre leur mouillage. Trois passes le desservent : la grande passe au nord, large de soixante-dix mètres, longue de quatre-vingts, que rétrécit un petit banc balisé, la passe de Tanoa à l\'est, la passe de Tapuna à l\'ouest.
+
+Les chaloupes électriques longent majestueusement la plage, toute meublée de villas et de maisons de plaisance, les quais près desquels sont amarrés les navires. Le débarquement s\'opère au pied d\'une fontaine élégante qui sert d\'aiguade, et qu\'approvisionnent les divers rios d\'eaux vives des montagnes voisines, dont l\'une porte l\'appareil sémaphorique.
+
+Cyrus Bikerstaff et sa suite descendent au milieu d\'un grand concours de population française, indigène, étrangère, acclamant ce Joyau du Pacifique, comme la plus extraordinaire des merveilles créées par le génie de l\'homme.
+
+Après les premiers enthousiasmes du débarquement, le cortège se dirige vers le palais du gouverneur de Taïti.
+
+Calistus Munbar, superbe sous le costume d\'apparat qu\'il ne revêt qu\'aux jours de cérémonie, invite le quatuor à le suivre, et le quatuor s\'empresse d\'obtempérer à l\'invitation du surintendant.
+
+Le protectorat français embrasse non seulement l\'île de Taïti et l\'île Moorea, mais aussi les groupes environnants. Le chef est un commandant-commissaire, ayant sous ses ordres un ordonnateur, qui dirige les diverses parties du service des troupes, de la marine, des finances coloniales et locales, et l\'administration judiciaire. Le secrétaire général du commissaire a dans ses attributions les affaires civiles du pays. Divers résidents sont établis dans les îles, à Moorea, à Fakarava des Pomotou, à Taio-Haë de Nouka-Hiva, et un juge de paix qui appartient au ressort des Marquises. Depuis 1861 fonctionne un comité consultatif pour l\'agriculture et le commerce, lequel siège une fois par an à Papeeté. Là aussi résident la direction de l\'artillerie et la chefferie du génie. Quant à la garnison, elle comprend des détachements de gendarmerie coloniale, d\'artillerie et d\'infanterie de marine. Un curé et un vicaire, appointés du gouvernement, et neuf missionnaires, répartis sur les quelques groupes, assurent l\'exercice du culte catholique. En vérité, des Parisiens peuvent se croire en France, dans un port français, et cela n\'est pas pour leur déplaire.
+
+Quant aux villages des diverses îles, ils sont administrés par une sorte de conseil municipal indigène, présidé par un tavana, assisté d\'un juge, d\'un chef mutoï et de deux conseillers élus par les habitants.
+
+Sous l\'ombrage de beaux arbres, le cortège marche vers le palais du gouvernement. Partout des cocotiers d\'une venue superbe, des miros au feuillage rosé, des bancouliers, des massifs d\'orangers, de goyaviers, de caoutchoucs, etc. Le palais s\'élève au milieu de cette verdure que dépasse à peine son large toit, égayé de charmantes lucarnes en mansarde. Il offre un aspect assez élégant avec sa façade que se partagent un rez-de-chaussée et un premier étage. Les principaux fonctionnaires français y sont réunis, et la gendarmerie coloniale fait les honneurs.
+
+Le commandant-commissaire reçoit Cyrus Bikerstaff avec une infinie bonne grâce, que celui-ci n\'eût certes pas rencontrée dans les archipels anglais de ces parages. Il le remercie d\'avoir amené Standard-Island dans les eaux de l\'archipel. Il espère que cette visite se renouvellera chaque année, tout en regrettant que Taïti ne puisse pas la lui rendre. L\'entrevue dure une demi-heure, et il est convenu que Cyrus Bikerstaff attendra les autorités le lendemain à l\'hôtel de ville.
+
+« Comptez-vous rester quelque temps à la relâche de Papeeté ? demande le commandant-commissaire.
+
+--- Une quinzaine de jours, répond le gouverneur.
+
+
+--- Nous serons heureux, monsieur le commissaire, de lui faire les honneurs de notre île. »
+
+Cyrus Bikerstaff présente les personnes de sa suite, ses adjoints, le commodore Ethel Simcoë, le commandant de la milice, les divers fonctionnaires, le surintendant des beaux-arts, et les artistes du Quatuor Concertant, qui furent accueillis comme ils devaient l\'être par un compatriote. Puis, il y eut un léger embarras à propos des délégués des sections de Milliard-City. Comment ménager l\'amour-propre de Jem Tankerdon et de Nat Coverley, ces deux irritants personnages, qui avaient le droit\...
+
+« De marcher l\'un et l\'autre à la fois, » fait observer Pinchinat, en parodiant le fameux vers de Scribe.
+
+La difficulté est tranchée par le commandant-commissaire lui-même. Connaissant la rivalité des deux célèbres milliardaires, il est si parfait de tact, si pétri de correction officielle, il agit avec tant d\'adresse diplomatique que les choses se passent comme si elles eussent été réglées par le décret de messidor. Nul doute qu\'en pareille occasion, le chef d\'un protectorat anglais n\'eût mis le feu aux poudres dans le but de servir la politique du Royaume-Uni. Il n\'arrive rien de semblable au palais du commandant-commissaire, et Cyrus Bikerstaff, enchanté de l\'accueil fait à lui-même, se retire, suivi de son cortège.
+
+Inutile de dire que Sébastien Zorn, Yvernès, Pinchinat et Frascolin avaient l\'intention de laisser Athanase Dorémus, époumoné déjà, regagner sa maison de la Vingt-cinquième Avenue.
+
+Eux comptent, en effet, passer à Papeeté le plus de temps possible, visiter les environs, faire des excursions dans les principaux districts, parcourir les régions de la presqu\'île de Tatarapu, enfin épuiser jusqu\'à la dernière goutte cette Gourde du Pacifique. Ce projet est donc bien arrêté, et lorsqu\'ils le communiquent à Calistus Munbar, le surintendant ne peut que donner son entière approbation. « Mais, leur dit-il, vous ferez bien d\'attendre quarante-huit heures avant de vous mettre en voyage.
+
+--- Pourquoi pas dès aujourd\'hui ? demande Yvernès, impatient de prendre le bâton du touriste.
+
+--- Parce que les autorités de Standard-Island vont offrir leurs hommages à la reine, et il convient que vous soyez présentés à Sa Majesté ainsi qu\'à sa cour.
+
+--- Et demain ? dit Frascolin.
+
+--- Demain, le commandant-commissaire de l\'archipel viendra rendre aux autorités de Standard-Island la visite qu\'il a reçue, et il convient\...
+
+--- Que nous soyons là, répond Pinchinat. Eh bien, nous y serons, monsieur le surintendant, nous y serons. »
+
+En quittant le palais du gouvernement, Cyrus Bikerstaff et son cortège se dirigent vers le palais de Sa Majesté. Une simple promenade sous les arbres, qui n\'a pas exigé plus d\'un quart d\'heure de marche.
+
+La royale demeure est très agréablement située au milieu des massifs verdoyants. C\'est un quadrilatère à deux étages, dont la toiture, à l\'imitation des chalets, surplombe deux rangées de vérandas superposées.
+
+Des fenêtres supérieures, la vue peut embrasser les larges plantations, qui s\'étendent jusqu\'à la ville, et au-delà se développe un large secteur de mer.
+
+En somme, charmante habitation, pas luxueuse mais confortable.
+
+La reine n\'a donc rien perdu de son prestige à passer sous le régime du protectorat français. Si le drapeau de la France se déploie à la mâture des bâtiments amarrés dans le port de Papeeté ou mouillés en rade, sur les édifices civils et militaires de la cité, du moins le pavillon de la souveraine balance-t-il au-dessus de son palais les anciennes couleurs de l\'archipel, -- une étamine à bandes rouges et blanches transversales, frappées, à l\'angle, du yacht tricolore.
+
+Ce fut en 1706, que Quiros prit connaissance de l\'île de Taïti, à laquelle il donna le nom de Sagittaria. Après lui, Wallis en 1767, Bougainville en 1768, complétèrent l\'exploration du groupe. Au début de la découverte régnait la reine Obéréa, et c\'est après le décès de cette souveraine qu\'apparut, dans l\'histoire de l\'Océanie, la célèbre dynastie des Pomarés.
+
+Pomaré I (1762-1780), ayant régné sous le nom d\'Otoo, le Héron-Noir, le quitta pour prendre celui de Pomaré.
+
+Son fils Pomaré II (1780-1819) accueillit favorablement en 1797 les premiers missionnaires anglais, et se convertit à la religion chrétienne dix ans plus tard. Ce fut une époque de dissensions, de luttes à main armée, et la population de l\'archipel tomba graduellement de cent mille à seize mille. Pomaré III, fils du précédent, régna de 1819 à 1827, et sa soeur Aimata, la célèbre Pomaré, la protégée de l\'horrible Pritchard, née en 1812, devint reine de Taïti et des îles voisines. N\'ayant pas eu d\'enfants de Tapoa, son premier mari, elle le répudia pour épouser Ariifaaite. De cette union naquit, en 1840, Arione, héritier présomptif, mort à l\'âge de trente-cinq ans. À partir de l\'année suivante, la reine donna quatre enfants à son mari, qui était le plus bel homme du groupe, une fille, Teriimaevarna, princesse de l\'île Bora-Bora depuis 1860, le prince Tamatoa, né en 1842, roi de l\'île Raiatea, que renversèrent ses sujets révoltés contre sa brutalité, le prince Teriitapunui, né en 1846, affligé d\'une disgracieuse claudication, et enfin le prince Tuavira, né en 1848, qui vint faire son éducation en France.
+
+Le règne de la reine Pomaré ne fut pas absolument tranquille. En 1835, les missionnaires catholiques entrèrent en lutte avec les missionnaires protestants. Renvoyés d\'abord, ils furent ramenés par une expédition française en 1838. Quatre ans après, le protectorat de la France était accepté par cinq chefs de l\'île.
+
+Pomaré protesta, les Anglais protestèrent. L\'amiral Dupetit-Thouars proclama la déchéance de la reine en 1843, et expulsa le Pritchard, événements qui provoquèrent les engagements meurtriers de Mahaéna et de Rapepa. Mais l\'amiral ayant été à peu près désavoué, comme on sait, Pritchard reçut une indemnité de vingt-cinq mille francs, et l\'amiral Bruat eut mission de mener ces affaires à bonne fin. Taïti se soumit en 1846, et Pomaré accepta le traité de protectorat du 19 juin 1847, en conservant la souveraineté sur les îles Raiatea, Huahine et Bora-Bora. Il y eut bien encore quelques troubles. En 1852, une émeute renversa la reine, et la république fut même proclamée. Enfin le gouvernement français rétablit la souveraine, laquelle abandonna trois de ses couronnes : en faveur de son fils aîné celle de Raiatea et de Tahaa, en faveur de son second fils celle de Huahine, en faveur de sa fille celle de Bora-Bora.
+
+Actuellement, c\'est une de ses descendantes, Pomaré VI, qui occupe le trône de l\'archipel.
+
+Le complaisant Frascolin ne cesse de justifier la qualification de Larousse du Pacifique, dont l\'a gratifié Pinchinat. Ces détails historiques et biographiques, il les donne à ses camarades, affirmant qu\'il vaut toujours mieux connaître les gens chez qui l\'on va et à qui l\'on parle. Yvernès et Pinchinat lui répondent qu\'il a eu raison de les édifier sur la généalogie des Pomaré, laissant Sébastien Zorn répliquer que « cela lui était parfaitement égal ».
+
+Quant au vibrant Yvernès, il s\'imprègne tout entier du charme de cette poétique nature taïtienne. En ses souvenirs reviennent les récits enchanteurs des voyages de Bougainville et de Dumont d\'Urville. Il ne cache pas son émotion à la pensée qu\'il va se trouver en présence de cette souveraine de la Nouvelle Cythère, d\'une reine Pomaré authentique, dont le nom seul\...
+
+« Signifie « nuit de la toux », lui répond Frascolin.
+
+--- Bon ! s\'écrie Pinchinat, comme qui dirait la déesse du rhume, l\'impératrice du coryza ! Attrape, Yvernès, et n\'oublie pas ton mouchoir ! » Yvernès est furieux de l\'intempestive répartie de ce mauvais plaisant ; mais les autres rient de si bon coeur que le premier violon finit par partager l\'hilarité commune. La réception du gouverneur de Standard-Island, des autorités et de la délégation des notables, s\'est faite avec apparat. Les honneurs sont rendus par le mutoï, chef de la gendarmerie, auquel se sont joints les auxiliaires indigènes.
+
+La reine Pomaré VI est âgée d\'une quarantaine d\'années. Elle porte, comme sa famille qui l\'entoure, un costume de cérémonie rosé pâle, couleur préférée de la population taïtienne. Elle reçoit les compliments de Cyrus Bikerstaff avec une affable dignité, si l\'on peut s\'exprimer de la sorte, et que n\'eût point désavouée une Majesté européenne. Elle répond gracieusement, en un français très correct, car notre langue est courante dans l\'archipel de la Société. Elle avait, d\'ailleurs, le plus vif désir de connaître cette Standard-Island, dont on parle tant dans les régions du Pacifique, et espère que cette relâche ne sera pas la dernière. Jem Tankerdon est de sa part l\'objet d\'un accueil particulier, -- ce qui ne laisse pas de froisser l\'amour-propre de Nat Coverley. Cela s\'explique, cependant, parce que la famille royale appartient au protestantisme, et que Jem Tankerdon est le plus notoire personnage de la section protestante de Milliard-City.
+
+Le Quatuor Concertant n\'est point oublié dans les présentations.
+
+La reine daigne affirmer à ses membres qu\'elle serait charmée de les entendre et de les applaudir. Ils s\'inclinent respectueusement, affirmant qu\'ils sont aux ordres de Sa Majesté, et le surintendant prendra des mesures pour que la souveraine soit satisfaite.
+
+Après l\'audience, qui s\'est prolongée pendant une demi-heure, les honneurs, décernés au cortège à son entrée au palais royal, lui sont de nouveau rendus à sa sortie.
+
+On redescend vers Papeeté. Une halte est faite au cercle militaire, où les officiers ont préparé un lunch en l\'honneur du gouverneur et de l\'élite de la population milliardaise. Le champagne coule à pleins bords, les toasts se succèdent, et il est six heures, lorsque les embarcations débordent des quais de Papeeté pour rentrer à Tribord-Harbour.
+
+Et, le soir, lorsque les artistes parisiens se retrouvent dans la salle du casino :
+
+« Nous avons un concert en perspective, dit Frascolin. Que jouerons-nous à cette Majesté ? Comprendra-t-elle le Mozart ou le Beethoven ?
+
+--- On lui jouera de l\'Offenbach, du Varney, du Lecoq ou de l\'Audran ! répond Sébastien Zorn.
+
+--- Non pas ! La bamboula est tout indiquée ! » réplique Pinchinat, qui s\'abandonne aux déhanchements caractéristiques de cette danse nègre.
+
+
+]{.calibre20}
+
+
+L\'ÎLE À HÉLICE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185446 .pcalibre2 .pcalibre1}[]{#_Toc343182985 .pcalibre2 .pcalibre1}[]{#_Toc343180524 .pcalibre2 .pcalibre1}[]{#_Toc343178063 .pcalibre2 .pcalibre1}[]{#_Toc343175602 .pcalibre2 .pcalibre1}[]{#_Toc343173141 .pcalibre2 .pcalibre1}[]{#_Toc343170680 .pcalibre2 .pcalibre1}[]{#_Toc343168219 .pcalibre2 .pcalibre1}[]{#_Toc343165758 .pcalibre2 .pcalibre1}[]{#_Toc343163297 .pcalibre2 .pcalibre1}[]{#_Toc343160836 .pcalibre2 .pcalibre1}[]{#_Toc343158375 .pcalibre2 .pcalibre1}[]{#_Toc343149105 .pcalibre2 .pcalibre1}[]{#_Toc343146644 .pcalibre2 .pcalibre1}[]{#_Toc343144181 .pcalibre2 .pcalibre1}[]{#_Toc343141720 .pcalibre2 .pcalibre1}[]{#_Toc343139259 .pcalibre2 .pcalibre1}[]{#_Toc343136797 .pcalibre2 .pcalibre1}[]{#_Toc343134336 .pcalibre2 .pcalibre1}[]{#_Toc343131875 .pcalibre2 .pcalibre1}[]{#_Toc343129413 .pcalibre2 .pcalibre1}[]{#_Toc343126952 .pcalibre2 .pcalibre1}[]{#_Toc343124488 .pcalibre2 .pcalibre1}[]{#_Toc343122027 .pcalibre2 .pcalibre1}[]{#_Toc343119566 .pcalibre2 .pcalibre1}[]{#_Toc343117112 .pcalibre2 .pcalibre1}[]{#_Toc343114649 .pcalibre2 .pcalibre1}[]{#_Toc343112188 .pcalibre2 .pcalibre1}[]{#_Toc343109727 .pcalibre2 .pcalibre1}[]{#_Toc343105983 .pcalibre2 .pcalibre1}[]{#_Toc343103521 .pcalibre2 .pcalibre1}[]{#_Toc343101058 .pcalibre2 .pcalibre1}[]{#_Toc343098633 .pcalibre2 .pcalibre1}[]{#_Toc343096164 .pcalibre2 .pcalibre1}[]{#_Toc343093702 .pcalibre2 .pcalibre1}[]{#_Toc343091224 .pcalibre2 .pcalibre1}[]{#_Toc343088761 .pcalibre2 .pcalibre1}[]{#_Toc343086299 .pcalibre2 .pcalibre1}[]{#_Toc343083836 .pcalibre2 .pcalibre1}[]{#_Toc343081374 .pcalibre2 .pcalibre1}[]{#_Toc343078913 .pcalibre2 .pcalibre1}[]{#_Toc343076450 .pcalibre2 .pcalibre1}[]{#_Toc343073987 .pcalibre2 .pcalibre1}[]{#_Toc343071521 .pcalibre2 .pcalibre1}[]{#_Toc343043561 .pcalibre2 .pcalibre1}[]{#_Toc343038681 .pcalibre2 .pcalibre1}[]{#_Toc343036316 .pcalibre2 .pcalibre1}[]{#_Toc343033951 .pcalibre2 .pcalibre1}[]{#_Toc343031586 .pcalibre2 .pcalibre1}[]{#_Toc343028030 .pcalibre2 .pcalibre1}[]{#_Toc343025665 .pcalibre2 .pcalibre1}[]{#_Toc343023300 .pcalibre2 .pcalibre1}[]{#_Toc343020934 .pcalibre2 .pcalibre1}[]{#_Toc343018568 .pcalibre2 .pcalibre1}[]{#_Toc343016203 .pcalibre2 .pcalibre1}[]{#_Toc343013838 .pcalibre2 .pcalibre1}[]{#_Toc343011471 .pcalibre2 .pcalibre1}[]{#_Toc343009106 .pcalibre2 .pcalibre1}[]{#_Toc343006741 .pcalibre2 .pcalibre1}[]{#_Toc343004376 .pcalibre2 .pcalibre1}[]{#_Toc343002011 .pcalibre2 .pcalibre1}[]{#_Toc342999646 .pcalibre2 .pcalibre1}[]{#_Toc342997281 .pcalibre2 .pcalibre1}[]{#_Toc342994916 .pcalibre2 .pcalibre1}[]{#_Toc342992551 .pcalibre2 .pcalibre1}[]{#_Toc342990186 .pcalibre2 .pcalibre1}[]{#_Toc342987821 .pcalibre2 .pcalibre1}[]{#_Toc342985454 .pcalibre2 .pcalibre1}[]{#_Toc342983089 .pcalibre2 .pcalibre1}[]{#_Toc342980724 .pcalibre2 .pcalibre1}[]{#_Toc342978359 .pcalibre2 .pcalibre1}[[Chapitre 14 -- De fêtes en fêtes]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942378 .pcalibre2 .pcalibre1} {#chapitre-14-de-fêtes-en-fêtes .calibre171 .sigil_not_in_toc}
+
+L\'île de Tahiti est destinée à devenir un lieu de relâche pour Standard-Island. Chaque année, avant de poursuivre sa route vers le tropique du Capricorne, ses habitants séjourneront dans les parages de Papeeté. Reçus avec sympathie par les autorités françaises comme par les indigènes, ils s\'en montrent reconnaissants en ouvrant largement leurs portes ou plutôt leurs ports. Militaires et civils de Papeeté affluent donc, parcourant la campagne, le parc, les avenues, et jamais aucun incident ne viendra, sans doute, altérer ces excellentes relations. Au départ, il est vrai, la police du gouverneur doit s\'assurer que la population ne s\'est point frauduleusement accrue par l\'intrusion de quelques Tahitiens non autorisés à élire domicile sur son domaine flottant.
+
+Il suit de là que, par réciprocité, toute latitude est donnée aux Milliardais de visiter les îles du groupe, lorsque le commodore Simcoë fera escale à l\'une ou à l\'autre.
+
+En vue de cette relâche, quelques riches familles ont eu la pensée de louer des villas aux environs de Papeeté et les ont retenues d\'avance par dépêche. Elles comptent s\'y installer comme des Parisiens s\'installent dans le voisinage de Paris, avec leurs domestiques et leurs attelages, afin d\'y vivre de la vie des grands propriétaires, en touristes, en excursionnistes, en chasseurs même, pour peu qu\'elles aient le goût de la chasse.
+
+Bref, on fera de la villégiature, sans avoir rien à craindre de ce climat salubre dont la température varie de quatorze à trente degrés entre avril et décembre, les autres mois de l\'année constituant l\'hiver de l\'hémisphère méridional. Au nombre des notables qui abandonnent leurs hôtels pour les confortables habitations de la campagne tahitienne, il faut citer les Tankerdon et les Coverley. M. et Mrs Tankerdon, leurs fils et leurs filles se transportent dès le lendemain dans un chalet pittoresque, situé sur les hauteurs de la pointe de Tatao. M. et Mrs Coverley, miss Diana et ses soeurs remplacent également leur palais de la Quinzième Avenue par une délicieuse villa, perdue sous les grands arbres de la pointe Vénus. Il existe entre ces habitations une distance de plusieurs milles, que Walter Tankerdon estime peut-être un peu longue. Mais il n\'est pas en son pouvoir de rapprocher ces deux pointes du littoral tahitien. Du reste, des routes carrossables, convenablement entretenues les mettent en communication directe avec Papeeté.
+
+Frascolin fait remarquer à Calistus Munbar que, puisqu\'elles sont parties, les deux familles ne pourront assister à la visite du commandant-commissaire au gouverneur.
+
+« Eh ! Tout est pour le mieux ! répond le surintendant, dont l\'oeil s\'allume de finesse diplomatique. Cela évitera les conflits d\'amour-propre. Si le représentant de la France venait d\'abord chez les Coverley, que diraient les Tankerdon, et si c\'était chez les Tankerdon, que diraient les Coverley ? Cyrus Bikerstaff ne peut que s\'applaudir de ce double départ.
+
+--- N\'y a-t-il donc pas lieu d\'espérer que la rivalité de ces familles prendra fin ? demande Frascolin.
+
+--- Qui sait ? répond Calistus Munbar. Cela ne tient peut-être qu\'à l\'aimable Walter et à la charmante Diana\...
+
+--- Il ne semble pas, cependant, que jusqu\'ici cet héritier et cette héritière\... Observe Yvernès.
+
+--- Bon ! Bon ! Réplique le surintendant, il suffit d\'une occasion, et, si le hasard ne la fait pas naître, nous nous chargerons de remplacer le hasard\... Pour le profit de notre île bien aimée ! »
+
+Et Calistus Munbar exécute sur ses talons une pirouette qu\'eut applaudie Athanase Dorémus, et que n\'aurait pas désavouée un marquis du grand siècle.
+
+Dans l\'après-midi du 20 octobre, le commandant-commissaire, l\'ordonnateur, le secrétaire général, les principaux fonctionnaires du protectorat débarquent au quai de Tribord-Harbour. Ils sont reçus par le gouverneur avec les honneurs dus à leur rang. Des détonations éclatent aux batteries de l\'Éperon et de la Poupe. Des cars, pavoisés aux couleurs françaises et milliardaises, conduisent le cortège à la capitale, où les salons de réception de l\'hôtel de ville sont préparés pour cette entrevue. Sur le parcours, accueil flatteur de la population, et, devant le perron du palais municipal, échange de quelques discours officiels qui se tiennent dans une durée acceptable. Puis, visite au temple, à la cathédrale, à l\'observatoire, aux deux fabriques d\'énergie électrique, aux deux ports, au parc, et enfin promenade circulaire sur les trams qui desservent le littoral. Un lunch est servi au retour dans la grande salle du casino. Il est six heures, lorsque le commandant-commissaire et sa suite se rembarquent pour Papeeté aux tonnerres de l\'artillerie de Standard-Island, emportant un excellent souvenir de cette réception.
+
+Le lendemain matin, 21 octobre, les quatre Parisiens se font débarquer à Papeeté. Ils n\'ont invité personne à les accompagner, pas même le professeur de maintien, dont les jambes ne suffiraient plus à d\'aussi longues pérégrinations. Ils sont libres comme l\'air, -- des écoliers en vacances, heureux de fouler sous leurs pieds un vrai sol de roches et de terre végétale.
+
+En premier lieu, il s\'agit de visiter Papeeté. La capitale de l\'archipel est incontestablement une jolie ville. Le quatuor prend un réel plaisir à muser, à baguenauder sous les beaux arbres qui ombragent les maisons de la plage, les magasins de la marine, la manutention, et les principaux établissements de commerce établis au fond du port. Puis, remontant une des rues qui s\'amorce au quai où fonctionne un railway de système américain, nos artistes s\'aventurent à l\'intérieur de la cité.
+
+Là, les rues sont larges, aussi bien tracées au cordeau et à l\'équerre que les avenues de Milliard-City, entre des jardins en pleine verdure et pleine fraîcheur. Même, à cette heure matinale, incessant va-et-vient des Européens et des indigènes, -- et cette animation qui sera plus grande après huit heures du soir, se prolongera toute la nuit. Vous comprenez bien que les nuits des tropiques, et spécialement les nuits taïtiennes, ne sont pas faites pour qu\'on les passe dans un lit, bien que les lits de Papeeté se composent d\'un treillis en cordes filées avec la bourre de coco, d\'une paillasse en feuilles de bananier, d\'un matelas en houppes de fromager, sans parler des moustiquaires qui défendent le dormeur contre l\'agaçante attaque des moustiques.
+
+Quant aux maisons, il est facile de distinguer celles qui sont européennes de celles qui sont taïtiennes. Les premières, construites presque toutes en bois, surélevées de quelques pieds sur des blocs de maçonnerie, ne laissent rien à désirer en confort. Les secondes, assez rares dans la ville, semées avec fantaisie sous les ombrages, sont formées de bambous jointifs et tapissées de nattes, ce qui les rend propres, aérées et agréables.
+
+Mais les indigènes ?
+
+« Les indigènes ? dit Frascolin à ses camarades. Pas plus ici qu\'aux Sandwich, nous ne retrouverons ces braves sauvages, qui, avant la conquête, dînaient volontiers d\'une côtelette humaine et réservaient à leur souverain les yeux d\'un guerrier vaincu, rôti suivant la recette de la cuisine taïtienne !
+
+--- Ab ça ! Il n\'y a donc plus de cannibales en Océanie ! s\'écrie Pinchinat. Comment, nous aurons fait des milliers de milles sans en rencontrer un seul !
+
+--- Patience ! répond le violoncelliste, en battant l\'air de sa main droite comme le Rodin des Mystères de Paris, patience ! Nous en trouverons peut-être plus qu\'il n\'en faudra pour satisfaire ta sotte curiosité ! »
+
+Il ne savait pas si bien dire ! Les Taïtiens sont d\'origine malaise, très probablement, et de cette race qu\'ils désignent sous le nom de Maori. Raiatea, l\'île Sainte, aurait été le berceau de leurs rois, -- un berceau charmant que baignent les eaux limpides du Pacifique dans le groupe des îles Sous-le-Vent. Avant l\'arrivée des missionnaires, la société taïtienne comprenait trois classes : celle des princes, personnages privilégiés, auxquels on reconnaissait le don de faire des miracles ; les chefs ou propriétaires du sol, assez peu considérés, et asservis par les princes ; puis, le menu peuple, ne possédant rien foncièrement, ou, quand il possédait, n\'ayant jamais au-delà de l\'usufruit de sa terre. Tout cela s\'est modifié depuis la conquête, et même avant, sous l\'influence des missionnaires anglicans et catholiques. Mais ce qui n\'a pas changé, c\'est l\'intelligence de ces indigènes, leur parole vive, leur esprit enjoué, leur courage à toute épreuve, la beauté de leur type. Les Parisiens ne furent point sans l\'admirer dans la ville comme dans la campagne.
+
+« Tudieu, les beaux garçons ! disait l\'un.
+
+--- Et quelles belles filles ! » disait l\'autre.
+
+Oui ! Des hommes d\'une taille au-dessus de la moyenne, le teint cuivré, comme imprégné par l\'ardeur du sang, des formes admirables, telles que les a conservées la statuaire antique, une physionomie douce et avenante. Ils sont vraiment superbes, les Maoris, avec leurs grands yeux vifs, leurs lèvres un peu fortes, finement dessinées. Maintenant le tatouage de guerre tend à disparaître avec les occasions qui le nécessitaient autrefois.
+
+Sans doute, les plus riches de l\'île s\'habillent à l\'européenne, et ils ont encore bon air avec la chemise échancrée, le veston en étoffe rosé pâle, le pantalon qui retombe sur la bottine. Mais ceux-là ne sont pas pour attirer l\'attention du quatuor. Non ! Au pantalon de coupe moderne, nos touristes préfèrent le paréo dont la cotonnade coloriée et bariolée se drape depuis la ceinture jusqu\'à la cheville, et, au lieu du chapeau de haute forme et même du panama, cette coiffure commune aux deux sexes, le hei, dans lequel s\'entrelacent le feuillage et les fleurs.
+
+Quant aux femmes, ce sont encore les poétiques et gracieuses otaïtiennes de Bougainville, soit que les pétales blancs du tiare, sorte de gardénia, se mêlent aux nattes noires déroulées sur leurs épaules, soit que leur tête se coiffe de ce léger chapeau fait avec l\'épiderme d\'un bourgeon de cocotier, et « dont le nom suave de revareva semble venir d\'un rêve, » déclame Yvernès. Ajoutez au charme de ce costume, dont les couleurs, comme celles d\'un kaléidoscope, se modifient au moindre mouvement, la grâce de la démarche, la nonchalance des attitudes, la douceur du sourire, la pénétration du regard, l\'harmonieuse sonorité de la voix, et l\'on comprendra pourquoi, dès que l\'un répète :
+
+« Tudieu, les beaux garçons ! » les autres répondent en choeur « Et quelles belles filles ! »
+
+Lorsque le Créateur a façonné de si merveilleux types, aurait-il été possible qu\'il n\'eût pas songé à leur donner un cadre digne d\'eux ? Et qu\'eût-il pu imaginer de plus délicieux que ces paysages taïtiens, dont la végétation est si intense sous l\'influence des eaux courantes et de l\'abondante rosée des nuits ?
+
+Pendant leurs excursions à travers l\'île et les districts voisins de Papeeté, les Parisiens ne cessent d\'admirer ce monde de merveilles végétales. Laissant les bords de la mer, plus favorables à la culture, où les forêts sont remplacées par des plantations de citronniers, d\'orangers, d\'arrow-root, de cannes à sucre, de caféiers, de cotonniers, par des champs d\'ignames, de manioc, d\'indigo, de sorgho, de tabac, ils s\'aventurent sous ces épais massifs de l\'intérieur, à la base des montagnes, dont les cimes pointent au-dessus du dôme des frondaisons. Partout d\'élégants cocotiers d\'une venue magnifique, des miros ou bois de rose, des casuarinas ou bois de fer, des tiairi ou bancouliers, des puraus, des tamanas, des ahis ou santals, des goyaviers, des manguiers, des taccas, dont les racines sont comestibles, et aussi le superbe taro, ce précieux arbre à pain, haut de tronc, lisse et blanc, avec ses larges feuilles d\'un vert foncé, entre lesquelles se groupent de gros fruits à l\'écorce comme ciselée, et dont la pulpe blanche forme la principale nourriture des indigènes. L\'arbre le plus commun avec le cocotier, c\'est le goyavier, qui pousse jusqu\'au sommet des montagnes ou peu s\'en faut, et dont le nom est tuava en langue taïtienne. Il se masse en épaisses forêts, tandis que les puraus forment de sombres fourrés dont on sort à grand\'peine, lorsqu\'on a l\'imprudence de s\'engager au milieu de leurs inextricables fouillis.
+
+Du reste, point d\'animaux dangereux. Le seul quadrupède indigène est une sorte de porc, d\'une espèce moyenne entre le cochon et le sanglier. Quant aux chevaux et aux boeufs, ils ont été importés dans l\'île, où prospèrent aussi les brebis et les chèvres. La faune est donc beaucoup moins riche que la flore, même sous le rapport des oiseaux. Des colombes et des salanganes comme aux Sandwich. Pas de reptiles, sauf le cent-pieds et le scorpion. En fait d\'insectes, des guêpes et des moustiques.
+
+Les productions de Taïti se réduisent au coton, à la canne à sucre, dont la culture s\'est largement développée au détriment du tabac et du café, puis à l\'huile de coco, à l\'arrow-root, aux oranges, à la nacre et aux perles. Cependant, cela suffît pour alimenter un commerce important avec l\'Amérique, l\'Australie, la Nouvelle-Zélande, avec la Chine en Asie, avec la France et l\'Angleterre en Europe, soit une valeur de trois millions deux cent mille francs à l\'importation, contrebalancée par quatre millions et demi à l\'exportation. Les excursions du quatuor se sont étendues jusqu\'à la presqu\'île de Tabaratu. Une visite rendue au fort Phaéton le met en rapport avec un détachement de soldats de marine, enchantés de recevoir des compatriotes.
+
+Dans une auberge du port, tenue par un colon, Frascolin fait convenablement les choses. Aux indigènes des environs, au mutoï du district, on sert des vins français dont le digne aubergiste consent à se défaire à bon prix. En revanche, les gens de l\'endroit offrent à leurs hôtes les productions du pays, des régimes venant de cette espèce de bananier, nommé feï, de belle couleur jaune, des ignames apprêtés de façon succulente, du maïore qui est le fruit de l\'arbre à pain cuit à l\'étouffée dans un trou empli de cailloux brûlants, et enfin une certaine confiture, à saveur aigrelette, provenant de la noix râpée du cocotier, et qui, sous le nom de taïero, se conserve dans des tiges de bambou.
+
+Ce luncheon est très gai. Les convives fumèrent plusieurs centaines de ces cigarettes faites d\'une feuille de tabac séchée au feu enroulée d\'une feuille de pandanus. Seulement, au lieu d\'imiter les Taïtiens et les Taïtiennes qui se les passaient de bouche en bouche, après en avoir tiré quelques bouffées, les Français se contentèrent de les fumer à la française. Et lorsque le mutoï lui offrit la sienne, Pinchinat le remercia d\'un « mea maitaï », c\'est-à-dire d\'un très bien ! Dont l\'intonation cocasse mit en belle humeur toute l\'assistance. Au cours de ces excursions, il va sans dire que les excursionnistes ne pouvaient songer à rentrer chaque soir à Papeeté ou à Standard-Island. Partout, d\'ailleurs, dans les villages, dans les habitations éparses, chez les colons, chez les indigènes, ils sont reçus avec autant de sympathie que de confort.
+
+Pour occuper la journée du 7 novembre, ils ont formé le projet de visiter la pointe Vénus, excursion à laquelle ne saurait se soustraire un touriste digne de ce nom.
+
+On part dès le petit jour, d\'un pied léger. On traverse sur un pont la jolie rivière de Fantahua. On remonte la vallée jusqu\'à cette retentissante cascade, double de celle du Niagara en hauteur, mais infiniment moins large, qui tombe de soixante-quinze mètres avec un tumulte superbe. On arrive ainsi, en suivant la route accrochée au flanc de la colline Taharahi, sur le bord de la mer, à ce morne auquel Cook donna le nom de cap de l\'Arbre, -- nom justifié à cette époque par la présence d\'un arbre isolé, actuellement mort de vieillesse. Une avenue, plantée de magnifiques essences, conduit, à partir du village de Taharahi, au phare qui se dresse à l\'extrême pointe de l\'île.
+
+C\'est en cet endroit, à mi-côte d\'une colline verdoyante, que la famille Coverley a fixé sa résidence. Il n\'y a donc aucun motif sérieux pour que Walter Tankerdon dont la villa s\'élève loin, bien loin, au-delà de Papeeté, pousse ses promenades du côté de la Pointe Vénus. Les Parisiens l\'aperçoivent, cependant. Le jeune homme s\'est transporté à cheval, aux environs du cottage Coverley.
+
+Il échange un salut avec les touristes français, et leur demande s\'ils comptent regagner Papeeté le soir même.
+
+« Non, monsieur Tankerdon, répond Frascolin. Nous avons reçu une invitation de mistress Coverley, et il est probable que nous passerons la soirée à la villa.
+
+--- Alors, messieurs, je vous dis au revoir, » réplique Walter Tankerdon. Et il semble que la physionomie du jeune homme s\'est obscurcie, bien qu\'aucun nuage n\'ait voilé en cet instant le soleil. Puis, il pique des deux, et s\'éloigne au petit trot, après avoir jeté un dernier regard sur la villa toute blanche entre les arbres. Mais aussi, pourquoi l\'ancien négociant a-t-il reparu sous le richissime Tankerdon, et risque-t-il de semer la dissension dans cette Standard-Island qui n\'a point été créée pour le souci des affaires !
+
+« Eh ! dit Pinchinat, peut-être aurait-il voulu nous accompagner, ce charmant cavalier ?
+
+--- Oui, ajoute Frascolin, et il est évident que notre ami Munbar pourrait bien avoir raison ! Il s\'en va tout malheureux de n\'avoir pu rencontrer miss Dy Coverley\...
+
+--- Ce qui prouve que le milliard ne fait pas le bonheur ? » réplique ce grand philosophe d\'Yvernès.
+
+Pendant l\'après-midi et la soirée, heures délicieuses passées au cottage avec les Coverley.
+
+Le quatuor retrouve dans la villa le même accueil qu\'à l\'hôtel de la Quinzième Avenue. Sympathique réunion, à laquelle l\'art se mêle fort agréablement. On fait d\'excellente musique, au piano s\'entend. Mrs Coverley déchiffre quelques partitions nouvelles. Miss Dy chante en véritable artiste, et Yvernès, qui est doué d\'une jolie voix, mêle son ténor au soprano de la jeune fille.
+
+On ne sait trop pourquoi, -- peut-être l\'a-t-il fait à dessein, -- Pinchinat glisse dans la conversation que ses camarades et lui ont aperçu Walter Tankerdon qui se promenait aux environs de la villa.
+
+Est-ce très adroit de sa part, et n\'eût-il pas mieux valu se taire ? Non, et si le surintendant eût été là, il n\'aurait pu qu\'approuver Son Altesse. Un léger sourire, presque imperceptible, s\'est ébauché sur les lèvres de miss Dy, ses jolis yeux ont brillé d\'un vif éclat, et lorsqu\'elle s\'est remise à chanter, il semble que sa voix est devenue plus pénétrante.
+
+Mrs Coverley la regarde un instant, se contentant de dire, tandis que M. Coverley fronce le sourcil :
+
+« Tu n\'es pas fatiguée, mon enfant ?
+
+--- Non, ma mère.
+
+--- Et vous, monsieur Yvernès ?
+
+--- Pas le moins du monde, madame. Avant ma naissance, j\'ai dû être enfant de choeur dans une des chapelles du Paradis ! » La soirée s\'achève, et il est près de minuit, lorsque M. Coverley juge l\'heure venue de prendre quelque repos. Le lendemain, enchanté de cette si simple et si cordiale réception, le quatuor redescend le chemin vers Papeeté.
+
+La relâche à Taïti ne doit plus durer qu\'une semaine. Suivant son itinéraire réglé d\'avance, Standard-Island se remettra en route au sud-ouest. Et, sans doute, rien n\'eût signalé cette dernière semaine pendant laquelle les quatre touristes ont complété leurs excursions, si un très heureux incident ne se fût produit à la date du 11 novembre.
+
+La division de l\'escadre française du Pacifique vient d\'être signalée dans la matinée par le sémaphore de la colline qui s\'élève en arrière de Papeeté.
+
+À onze heures, un croiseur de première classe, le Paris, escorté de deux croiseurs de deuxième classe et d\'une mouche, mouille sur rade.
+
+Les saluts réglementaires sont échangés de part et d\'autre, et le contre-amiral, dont le guidon flotte sur le Paris, descend à terre avec ses officiers.
+
+Après les coups de canon officiels, auxquels les batteries de l\'Éperon et de la Poupe joignent leurs tonnerres sympathiques, le contre-amiral et le commandant-commissaire des îles de la Société s\'empressent de se rendre successivement visite.
+
+C\'est une bonne fortune pour les navires de la division, leurs officiers, leurs équipages, d\'être arrivés sur la rade de Taïti, pendant que Standard-Island y séjourne encore. Nouvelles occasions de réceptions et de fêtes. Le Joyau du Pacifique est ouvert aux marins français, qui s\'empressent d\'en venir admirer les merveilles. Pendant quarante-huit heures, les uniformes de notre marine se mêlent aux costumes milliardais.
+
+Cyrus Bikerstaff fait les honneurs de l\'observatoire, le surintendant fait les honneurs du casino et autres établissements sous sa dépendance.
+
+C\'est dans ces circonstances qu\'il est venu une idée à cet étonnant Calistus Munbar, une idée géniale dont la réalisation doit laisser d\'inoubliables souvenirs. Et cette idée, il la communique au gouverneur, et le gouverneur l\'adopte, sur avis du conseil des notables.
+
+Oui ! Une grande fête est décidée pour le 15 novembre. Son programme comprendra un dîner d\'apparat et un bal donnés dans les salons de l\'hôtel de ville. À cette époque les Milliardais en villégiature seront rentrés, puisque le départ doit s\'effectuer deux jours après.
+
+Les hauts personnages des deux sections ne manqueront donc point à ce festival en l\'honneur de la reine Pomaré VI, des Taïtiens européens ou indigènes et de l\'escadre française.
+
+Calistus Munbar est chargé d\'organiser cette fête, et l\'on peut s\'en rapporter à son imagination comme à son zèle. Le quatuor se met à sa disposition, et il est convenu qu\'un concert figurera parmi les plus attractifs numéros du programme. Quant aux invitations, c\'est au gouverneur qu\'incombe la mission de les répartir.
+
+En premier lieu, Cyrus Bikerstaff va en personne prier la reine Pomaré, les princes et les princesses de sa cour d\'assister à cette fête, et la reine daigne répondre par une acceptation. Mêmes remerciements de la part du commandant-commissaire et des hauts fonctionnaires français, du contre-amiral et de ses officiers, qui se montrent très sensibles à cette gracieuseté.
+
+En somme, mille invitations sont lancées. Bien entendu, les mille invités ne doivent pas s\'asseoir à la table municipale. Non ! Une centaine seulement : les personnes royales, les officiers de la division, les autorités du protectorat, les premiers fonctionnaires, le conseil des notables et le haut clergé de Standard-Island. Mais il y aura, dans le parc, banquets, jeux, feux d\'artifice, -- de quoi satisfaire la population.
+
+Le roi et la reine de Malécarlie n\'ont point été oubliés, cela va sans dire. Mais Leurs Majestés, ennemies de tout apparat, vivant à l\'écart dans leur modeste habitation de la Trente-deuxième Avenue, remercièrent le gouverneur d\'une invitation qu\'ils regrettaient de ne pouvoir accepter.
+
+« Pauvres souverains ! » dit Yvernès.
+
+Le grand jour arrivé, l\'île se pavoise des couleurs françaises et taïtiennes, mêlées aux couleurs milliardaises. La reine Pomaré et sa cour, en costumes de gala, sont reçues à Tribord-Harbour aux détonations de la double batterie. À ces détonations répondent les canons de Papeeté et les canons de la division navale.
+
+Vers six heures du soir, après une promenade à travers le parc, tout ce beau monde a gagné le palais municipal superbement décoré.
+
+Quel coup d\'oeil offre l\'escalier monumental dont chaque marche n\'a pas coûté moins de dix mille francs, comme celui de l\'hôtel Vanderbilt à New-York ! Et dans la splendide salle à manger, les convives vont s\'asseoir aux tables du festin.
+
+Le code des préséances a été observé par le gouverneur avec un tact parfait. Il n\'y aura pas matière à conflit entre les grandes familles rivales des deux sections. Chacun est heureux de la place qui lui est attribuée, -- entre autres miss Dy Coverley, qui se trouve en face de Walter Tankerdon. Cela suffit au jeune homme et à la jeune fille, et mieux valait ne pas les rapprocher davantage.
+
+Il n\'est pas besoin de dire que les artistes français n\'ont point à se plaindre. On leur a donné, en les mettant à la table d\'honneur, une nouvelle preuve d\'estime et de sympathie pour leur talent et leurs personnes.
+
+Quant au menu de ce mémorable repas, étudié, médité, composé par le surintendant, il prouve que, même au point de vue des ressources culinaires, Milliard-City n\'a rien à envier à la vieille Europe. Qu\'on en juge, d\'après ce menu, imprimé en or sur vélin par les soins de Calistus Munbar.
+
+
+Le potage à la d\'Orléans,
+
+La crème comtesse,
+
+Le turbot à la Mornay,
+
+Le filet de boeuf à la Napolitaine,
+
+Les quenelles de volaille à la Viennoise,
+
+Les mousses de foie gras à la Trévise.
+
+Sorbets.
+
+Les cailles rôties sur canapé,
+
+La salade provençale,
+
+Les petits pois à l\'anglaise,
+
+Bombe, macédoine, fruits,
+
+Gâteaux variés,
+
+Grissins au parmesan.
+
+
+Vins :
+
+Château d\'Yquem. -- Château-Margaux. Chambertin. -- Champagne. Liqueurs variées
+
+
+À la table de la reine d\'Angleterre, de l\'empereur de Russie, de l\'empereur allemand ou du président de la République française, a-t-on jamais trouvé des combinaisons supérieures pour un menu officiel, et eussent-ils pu mieux faire les chefs de cuisine les plus en vogue des deux continents ?
+
+À neuf heures, les invités se rendent dans les salons du casino pour le concert. Le programme comporte quatre morceaux de choix, -- quatre, pas davantage :
+
+Cinquième quatuor en la majeur : Op. 18 de Beethoven ;
+
+Deuxième quatuor en ré mineur : Op. 10 de Mozart ;
+
+Deuxième quatuor en ré majeur : Op. 64 (deuxième partie) d\'Haydn ;
+
+Douzième quatuor en mi bémol d\'Onslow.
+
+Ce concert est un nouveau triomphe pour les exécutants parisiens, si heureusement embarqués, -- quoi qu\'en pût penser le récalcitrant violoncelliste, -- à bord de Standard-Island !
+
+Entre temps, Européens et étrangers prennent part aux divers jeux installés dans le parc. Des bals champêtres s\'organisent sur les pelouses, et, pourquoi ne pas l\'avouer, on danse au son des accordéons qui sont des instruments très en vogue chez les naturels des îles de la Société. Or, les marins français ont un faible pour cet appareil pneumatique, et comme les permissionnaires du Paris et autres navires de la division ont débarqué en grand nombre, les orchestres se trouvent au complet et les accordéons font rage. Les voix s\'en mêlent aussi, et les chansons de bord répondent aux himerres, qui sont les airs populaires et favoris des populations océaniennes.
+
+Au reste, les indigènes de Taïti, hommes et femmes, ont un goût prononcé pour le chant et pour la danse, où ils excellent. Ce soir-là, à plusieurs reprises, ils exécutent les figures de la répauipa, qui peut être considérée comme une danse nationale, et dont la mesure est marquée par le battement du tambour. Puis les chorégraphes de toute origine, indigènes ou étrangers, s\'en donnent à coeur joie, grâce à l\'excitation des rafraîchissements de toutes sortes offerts par la municipalité.
+
+En même temps, des bals, d\'une ordonnance et d\'une composition plus sélect, réunissent, sous la direction d\'Athanase Dorémus, les familles dans les salons de l\'hôtel de ville. Les dames milliardaises et taïtiennes ont fait assaut de toilettes. On ne s\'étonnera pas que les premières, clientes fidèles des couturiers parisiens, éclipsent sans peine, même les plus élégantes européennes de la colonie. Les diamants ruissellent sur leurs têtes, sur leurs épaules, à leur poitrine, et c\'est entre elles seules que la lutte peut présenter quelque intérêt. Mais qui eût osé se prononcer pour Mrs Coverley ou Mrs Tankerdon, éblouissantes toutes les deux ? Ce n\'est certes pas Cyrus Bikerstaff, toujours si soucieux de maintenir un parfait équilibre entre les deux sections de l\'île.
+
+
+D\'ailleurs, quelle n\'a pas été la surprise générale, lorsque le hasard a donné Walter Tankerdon pour cavalier à miss Coverley dans un quadrille ? Est-ce le hasard, et ce fin diplomate de surintendant ne l\'a-t-il pas aidé par quelque combinaison savante ?
+
+Dans tous les cas, c\'est là l\'événement du jour, gros peut-être de conséquences, s\'il marque un premier pas vers la réconciliation des deux puissantes familles.
+
+Après le feu d\'artifice qui est tiré sur la grande pelouse, les danses reprennent dans le parc, à l\'hôtel de ville, et se prolongent jusqu\'au jour. Telle est cette mémorable fête, dont le souvenir se perpétuera à travers la longue et heureuse série d\'âges que l\'avenir -- il faut l\'espérer, -- réserve à Standard-Island.
+
+Le surlendemain, la relâche étant terminée, le commodore Simcoë transmet dès l\'aube ses ordres d\'appareillage. Des détonations d\'artillerie saluent le départ de l\'île à hélice, comme elles ont salué son arrivée, et elle rend les saluts coups pour coups à Taïti et à la division navale. La direction est nord-ouest, de manière à passer en revue les autres îles de l\'archipel, le groupe Sous-le-Vent après le groupe du Vent.
+
+On longe ainsi les pittoresques contours de Moorea, hérissée de pics superbes, dont la pointe centrale est percée à jour, Raiatea, l\'île Sainte, qui fut le berceau de la royauté indigène, Bora-Bora, dominée par une montagne de mille mètres, puis les îlots Motu-Iti, Mapéta, Tubuai, Manu, anneaux de la chaîne taïtienne tendue à travers ces parages.
+
+Le 19 novembre, à l\'heure où le soleil décline à l\'horizon, disparaissent les derniers sommets de l\'archipel.
+
+Standard-Island met alors le cap au sud-ouest, -- orientation que les appareils télégraphiques indiquent sur les cartes disposées aux vitrines du casino.
+
+Et qui observerait, en ce moment, le capitaine Sarol, serait frappé du feu sombre de ses regards, de la farouche expression de sa physionomie, lorsque, d\'une main menaçante, il montre à ses Malais la route des Nouvelles-Hébrides, situées à douze cents lieues dans l\'ouest !

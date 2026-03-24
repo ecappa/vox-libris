@@ -1,0 +1,112 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE DOCTEUR OX",
+  "slug": "le-docteur-ox",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Avertissement",
+      "slug": "avertissement",
+      "is_part": false,
+      "spine_start": 2129,
+      "spine_end_exclusive": 2130,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_106.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Une fantaisie du docteur Ox",
+      "slug": "une-fantaisie-du-docteur-ox",
+      "is_part": false,
+      "spine_start": 2130,
+      "spine_end_exclusive": 2147,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_107.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_108.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0002.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_109.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_110.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_111.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_112.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_113.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_114.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_115.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_116.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_117.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_118.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_119.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_120.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_121.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_122.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "MAÎTRE ZACHARIUS",
+      "slug": "maitre-zacharius",
+      "is_part": false,
+      "spine_start": 2147,
+      "spine_end_exclusive": 2152,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_123.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_124.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_125.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_126.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_127.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "UN DRAME DANS LES AIRS",
+      "slug": "un-drame-dans-les-airs",
+      "is_part": false,
+      "spine_start": 2152,
+      "spine_end_exclusive": 2153,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "UN HIVERNAGE DANS LES GLACES",
+      "slug": "un-hivernage-dans-les-glaces",
+      "is_part": false,
+      "spine_start": 2153,
+      "spine_end_exclusive": 2169,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_129.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_130.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_131.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_132.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_133.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_134.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_135.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_136.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_136_0001.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_137.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_138.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_139.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_140.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_141.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_142.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_143.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "QUARANTIÈME ASCENSION FRANÇAISE AU MONT BLANC",
+      "slug": "quarantieme-ascension-francaise-au-mont-blanc",
+      "is_part": false,
+      "spine_start": 2169,
+      "spine_end_exclusive": 2170,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_144.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

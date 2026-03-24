@@ -1,0 +1,33 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 15"
+slug_section: "chapitre-15"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 15 -- La Mort
+Dans ce pauvre village où la vie est amère,
+Le triste champ de mort, à l'aspect maladif,
+Vient étaler les pleurs du cyprès et de l'if
+À l'âme du passant qui pâlit et se serre !
+Là, point de ces tombeaux, au chapiteau plaintif,
+Où des riches s'endort la gloire mensongère,
+Mais de fragiles croix, indice si naïf
+De l'endroit où du pauvre a fini la misère !
+À la ville où toujours pétille le plaisir,
+Où l'abondance obvie au plus simple désir,
+La mort n'est pas la fin d'un esclavage !
+Mais au triste village, où gît l'accablement,
+Oh ! La mort ne saurait venir trop promptement !
+Et pourtant à la ville, on meurt comme au village !

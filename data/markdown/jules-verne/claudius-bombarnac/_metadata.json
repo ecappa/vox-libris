@@ -1,0 +1,310 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "CLAUDIUS BOMBARNAC",
+  "slug": "claudius-bombarnac",
+  "nombre_chapitres": 27,
+  "structure": [
+    {
+      "title": "Chapitre I",
+      "slug": "chapitre-i",
+      "is_part": false,
+      "spine_start": 1446,
+      "spine_end_exclusive": 1447,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_002.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre II",
+      "slug": "chapitre-ii",
+      "is_part": false,
+      "spine_start": 1447,
+      "spine_end_exclusive": 1448,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre III",
+      "slug": "chapitre-iii",
+      "is_part": false,
+      "spine_start": 1448,
+      "spine_end_exclusive": 1449,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre IV",
+      "slug": "chapitre-iv",
+      "is_part": false,
+      "spine_start": 1449,
+      "spine_end_exclusive": 1450,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre V",
+      "slug": "chapitre-v",
+      "is_part": false,
+      "spine_start": 1450,
+      "spine_end_exclusive": 1451,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_006.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VI",
+      "slug": "chapitre-vi",
+      "is_part": false,
+      "spine_start": 1451,
+      "spine_end_exclusive": 1452,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VII",
+      "slug": "chapitre-vii",
+      "is_part": false,
+      "spine_start": 1452,
+      "spine_end_exclusive": 1453,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VIII",
+      "slug": "chapitre-viii",
+      "is_part": false,
+      "spine_start": 1453,
+      "spine_end_exclusive": 1454,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre IX",
+      "slug": "chapitre-ix",
+      "is_part": false,
+      "spine_start": 1454,
+      "spine_end_exclusive": 1455,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre X",
+      "slug": "chapitre-x",
+      "is_part": false,
+      "spine_start": 1455,
+      "spine_end_exclusive": 1456,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XI",
+      "slug": "chapitre-xi",
+      "is_part": false,
+      "spine_start": 1456,
+      "spine_end_exclusive": 1457,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XII",
+      "slug": "chapitre-xii",
+      "is_part": false,
+      "spine_start": 1457,
+      "spine_end_exclusive": 1458,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XIII",
+      "slug": "chapitre-xiii",
+      "is_part": false,
+      "spine_start": 1458,
+      "spine_end_exclusive": 1459,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XIV",
+      "slug": "chapitre-xiv",
+      "is_part": false,
+      "spine_start": 1459,
+      "spine_end_exclusive": 1460,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XV",
+      "slug": "chapitre-xv",
+      "is_part": false,
+      "spine_start": 1460,
+      "spine_end_exclusive": 1461,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XVI",
+      "slug": "chapitre-xvi",
+      "is_part": false,
+      "spine_start": 1461,
+      "spine_end_exclusive": 1462,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XVII",
+      "slug": "chapitre-xvii",
+      "is_part": false,
+      "spine_start": 1462,
+      "spine_end_exclusive": 1463,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XVIII",
+      "slug": "chapitre-xviii",
+      "is_part": false,
+      "spine_start": 1463,
+      "spine_end_exclusive": 1464,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XIX",
+      "slug": "chapitre-xix",
+      "is_part": false,
+      "spine_start": 1464,
+      "spine_end_exclusive": 1465,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XX",
+      "slug": "chapitre-xx",
+      "is_part": false,
+      "spine_start": 1465,
+      "spine_end_exclusive": 1466,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXI",
+      "slug": "chapitre-xxi",
+      "is_part": false,
+      "spine_start": 1466,
+      "spine_end_exclusive": 1467,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXII",
+      "slug": "chapitre-xxii",
+      "is_part": false,
+      "spine_start": 1467,
+      "spine_end_exclusive": 1468,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXIII",
+      "slug": "chapitre-xxiii",
+      "is_part": false,
+      "spine_start": 1468,
+      "spine_end_exclusive": 1469,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXIV",
+      "slug": "chapitre-xxiv",
+      "is_part": false,
+      "spine_start": 1469,
+      "spine_end_exclusive": 1470,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_020.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXV",
+      "slug": "chapitre-xxv",
+      "is_part": false,
+      "spine_start": 1470,
+      "spine_end_exclusive": 1471,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXVI",
+      "slug": "chapitre-xxvi",
+      "is_part": false,
+      "spine_start": 1471,
+      "spine_end_exclusive": 1472,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre XXVII",
+      "slug": "chapitre-xxvii",
+      "is_part": false,
+      "spine_start": 1472,
+      "spine_end_exclusive": 1473,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_021.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/claudius-bombarnac/imageVerneIIIa1.jpg"
+  ]
+}

@@ -1,0 +1,178 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[MADELEINE FÉRAT]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778589 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778251 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777913 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777575 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777237 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776561 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776223 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775885 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775547 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775209 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774871 .pcalibre .calibre3 .pcalibre1}[XIII]{#_Toc368774533 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_77 .calibre25}
+
+[Un nouveau coup l'attendait à la Noiraude. La petite Lucie était morte dans la journée.]{.calibre11}
+
+[Guillaume, en arrivant, avait trouvé l'enfant à l'agonie. Une de ces fièvres brusques, qui reviennent en pleine convalescence, l'emportait. Brûlante, cherchant de ses mains le froid des draps, elle sortait du lit ses pauvres bras frissonnants. Puis des crises de délire la faisaient se débattre et lutter contre quelque chose d'invisible qu'elle semblait contempler avec des regards fixes et vides. On eût dit que ses yeux lui tenaient toute la face ; ils se voilaient peu à peu, pareils à des sources d'eau limpide que trouble un flot de sable. Quand son père était entré, elle ne l'avait pas reconnu. Penché sur son lit, il la regardait d'un air navré, il sentait son coeur se briser. Au déchirement qu'il éprouvait dans la poitrine à chacun de ses râles, il se disait qu'elle lui appartenait entière ; un immense regret de l'avoir repoussée le courbait au-dessus d'elle, lui donnait l'envie de la serrer contre sa poitrine et de la disputer à la mort. C'était un réveil d'affection d'une angoisse indicible.]{.calibre11}
+
+[Cependant Lucie se mourait. Il vint un moment où son délire tomba. Elle eut un joli sourire d'enfant boudeuse. Puis, regardant autour d'elle, comme si elle s'éveillait, elle parut se souvenir et tout reconnaître. Elle tendit les mains à son père, en répétant ce mot qui lui était familier, et auquel elle donnait une douceur de caresse :]{.calibre11}
+
+[« Prends-moi, prends-moi. »]{.calibre11}
+
+[Guillaume se baissa, éperdu, la croyant sauvée. Mais, comme il allait la soulever, il sentit son petit corps craquer d'une secousse brusque. Elle était morte. Quand il l'eut recouchée, il s'agenouilla, muet, ne pouvant pleurer. Bientôt, il n'osa plus la contempler : la mort pinçait les lèvres de l'enfant, sa bouche faisait la moue grave de Jacques. Terrifié par cet effet de la rigidité cadavérique qui fixait peu à peu sur le visage de sa fille la ressemblance de cet homme, il s'efforça de prier encore, en ne regardant plus que les mains de la petite croisées sur sa poitrine. Mais, malgré lui, il remontait toujours à la tête. Il finit par quitter la chambre, laissant Geneviève seule auprès de Lucie.]{.calibre11}
+
+[Lorsque Madeleine entra dans le vestibule, elle eut le pressentiment d'un malheur. La salle à manger était froide et noire, la maison paraissait déserte. Un chant funèbre de cantique guida la jeune femme au premier étage. Elle arriva ainsi dans la chambre ou reposait le corps de Lucie, au chevet duquel Geneviève s'était mise à psalmodier des prières. Les spectacle atroce qui l'attendait là, l'enfant dont la tête pâle creusait l'oreiller, la fanatique à genoux priant dans la lueur vacillante d'une bougie, l'arrêta glacée sur le seuil. Elle comprit tout d'un regard. Puis elle s'avança lentement. Depuis le matin, la pensée de sa fille était sortie de sa mémoire. Elle éprouvait une sorte de joie à la retrouver morte. C'était un obstacle de moins à son suicide ; elle pouvait se tuer maintenant sans craindre de laisser derrière elle une pauvre créature que sa naissance devait vouer au malheur. Arrivée au bord de la couche, elle ne versa pas une larme, elle se dit simplement que dans quelques heures elle serait comme cela, raide et froide. Si elle n'avait pas dû mourir elle-même, elle se serait sans doute jetée sur le cadavre avec des sanglots déchirants ; la certitude qu'elle n'existerait bientôt plus l'empêchait de sentir la perte de son enfant. Elle éprouva le seul désir de l'embrasser une dernière fois. Mais comme elle se penchait, elle crut voir Jacques devant elle, il lui sembla que Lucie avait les lèvres du jeune homme, ces lèvres qu'elle avait baisées si voluptueusement le matin même. D'un mouvement effaré, elle se rejeta en arrière.]{.calibre11}
+
+[Geneviève qui venait d'interrompre ses prières, vit ce mouvement d'effroi. Elle regardait Madeleine fixement, de son air implacable.]{.calibre11}
+
+[« Ainsi sont punis les enfants des coupables, murmura-t-elle sans la quitter des yeux. Dieu châtie les pécheurs dans leur descendance, à jamais. »]{.calibre11}
+
+[Madeleine eut un accès de rage folle contre cette femme qu'elle rencontrait sous ses pas, à chaque nouveau malheur, et qui lui jetait alors au visage ses monstrueuses croyances. « Pourquoi me regardez-vous ainsi ? cria-t-elle. Je suis donc bien étrange à voir !\... J'avais oublié cela, vous allez m'insulter, vous ! J'aurais dû me dire que je vous trouverais jusqu'à la dernière heure, le bras levé, impitoyable comme le destin\... Vous êtes la fatalité, vous êtes le châtiment. »]{.calibre11}
+
+[Les regards de la fanatique luisaient. Elle répéta avec une joie farouche, dans une sorte d'exaltation prophétique : « L'heure vient, l'heure vient.]{.calibre11}
+
+[--- Oh ! J'ai assez de souffrance, reprit âprement Madeleine, je veux être punie, je me punirai\... Mais ce n'est pas vous qui me condamnez. Vous n'avez pas failli, vous n'avez pas vécu, et vous ne sauriez juger la vie\... Pouvez-vous me consoler ?]{.calibre11}
+
+[--- Non, répondit la protestante, il faut que vos larmes coulent, que vous rendiez grâce à la main qui vous châtie.]{.calibre11}
+
+[--- Pouvez-vous faire que Guillaume m'aime encore et retrouve la paix ? Pouvez-vous me promettre que je souffrirai seule, le jour où je m'humilierai ? --- Non, si Guillaume souffre, c'est qu'il est coupable. Dieu sait où il frappe. »]{.calibre11}
+
+[Madeleine se redressa avec une violence superbe. « Eh bien ! Alors, cria-t-elle, si vous ne pouvez rien, que faites-vous là, pourquoi me torturez-vous ?\... Je n'ai pas besoin de Dieu. Je me juge et me condamne moi-même. »]{.calibre11}
+
+[Elle s'arrêta épuisée. En baissant la tête, elle aperçut le cadavre de sa fille qui semblait l'écouter, la bouche ouverte. Elle eut honte de son emportement dont les éclats passaient avec des bruits de fouet sur ce pauvre corps endormi. Elle s'abîma un instant dans le spectacle de ce néant, comme attirée, goûtant la folie de la mort. Le calme lourd de Lucie, l'expression de repos figée sur son visage, lui promettaient une éternité de sommeil, un bercement sans fin dans les bras du vide. Il lui vint un désir bizarre, elle voulut savoir combien de temps il lui faudrait pour être ainsi glacée et rigide.]{.calibre11}
+
+[« À quelle heure est-elle morte ? demanda-t-elle à Geneviève qui avait repris ses prières.]{.calibre11}
+
+[--- À midi », répondit la protestante.]{.calibre11}
+
+[Cette courte réponse tomba sur la tête de Madeleine comme un coup de massue. Geneviève aurait-elle raison ? Serait-ce sa faute qui aurait tué sa fille ? À midi elle était dans les bras de Jacques, et à midi Lucie mourait. Cette coïncidence lui parut fatale, atroce. Elle entendait ses plaintes d'amour se mêler aux râles d'agonie de son enfant, elle devenait folle en comparant cette scène de volupté à cette scène de mort. Pendant quelques minutes, elle resta écrasée, stupide. Puis elle se demanda ce qu'elle faisait là, ce qu'elle était venue chercher à la Noiraude. Elle ne savait plus, sa tête se vidait. Elle s'interrogeait avec angoisse : « Pourquoi suis-je donc accourue si vite de Paris ? J'avais un projet. » Et elle faisait des efforts inouïs de mémoire. Brusquement la mémoire lui revint. « Je sais, pensa-t-elle, je veux me tuer, je veux me tuer. »]{.calibre11}
+
+[« Où est Guillaume ? » demanda-t-elle à Geneviève.]{.calibre11}
+
+[La vieille femme fit un geste d'ignorance, sans cesser de mâcher entre ses dents des paroles vagues. Madeleine se rappela alors la lueur rouge qu'elle avait vue de la grille et qui éclairait si étrangement la fenêtre du laboratoire. Un instinct la poussa. Elle quitta la chambre, elle monta rapidement l'escalier.]{.calibre11}
+
+[Guillaume, en effet, se trouvait dans le laboratoire. En s'échappant de la pièce où Lucie venait d'expirer, il s'était enfui dans le parc, et y avait marché jusqu'à la nuit, fou de douleur. Lorsque le crépuscule tomba comme une cendre fine, donnant à la campagne une teinte grise uniforme d'une mélancolie poignante, il se sentit pris d'un accablement sans bornes, il eut un désir âpre de s'enfouir dans quelque trou lugubre où il pourrait contenter le besoin d'anéantissement qu'il éprouvait. Ce fut alors que, machinalement, obéissant à une force brutale, il alla chercher, au fond du tiroir où il l'avait jadis cachée, la clef de la pièce dans laquelle M. De Viargue s'était empoisonné. Depuis l'époque du suicide, il n'y avait plus remis les pieds. Il n'aurait pu expliquer lui-même l'envie irrésistible qui le poussait à y monter ; c'était comme une soif d'horreur, une rage d'épuiser à la fois toute épouvante, toute souffrance. Quand il entra, la vaste salle, éclairée vaguement par la bougie qu'il tenait à la main, lui parut encore plus sale, plus délabrée qu'autrefois.]{.calibre11}
+
+[Dans les coins, traînaient toujours des tas de débris ignobles, le fourneau et les planches tombaient toujours par morceaux. Rien n'avait été touché ; mais la poussière de cinq années s'accumulait sur ces ruines ; les araignées du plafond filaient des toiles qui descendaient jusque sur le parquet en haillons noirâtres ; l'air enfermé dans ce lieu sinistre dormait, épaissi et nauséabond.]{.calibre11}
+
+[Guillaume posa le bougeoir sur la table et se tint debout, regardant devant lui fixement. Il eut un rapide frisson en apercevant à ses pieds la trace sombre que le sang de son père avait laissée. Puis il écouta. Un pressentiment l'avertissait qu'un coup suprême devait l'abattre là, au milieu de ces saletés. Cette pièce, dans laquelle personne n'était entré et qu'il retrouvait calme et sinistre, semblait l'avoir attendu pendant ses cinq années de rêves menteurs. Et maintenant, elle s'ouvrait, elle l'attirait comme une proie qui lui était sans doute promise depuis longtemps.]{.calibre11}
+
+[Dans son attente effrayée, Guillaume se rappela sa vie de souffrance, cet écrasement continu qui lui broyait la chair et l'esprit depuis sa jeunesse. Il revit une fois encore son enfance terrifiée, ses douloureuses années de collège, les derniers mois de folie et d'angoisse qu'il venait de vivre. Tout s'enchaînait, tout le poussait à quelque terrible dénouement qui devait être proche. Maintenant que les faits, dont il pouvait suivre la marche logique et implacable le jetaient au fond de cette pièce tachée du sang de son père, il se voyait mûr pour la mort ; il devinait que le destin allait, dans une dernière brutalité, en finir avec lui.]{.calibre11}
+
+[Il y avait près d'une demi-heure qu'il écoutait, averti par une voix intérieure que quelqu'un viendrait lui porter le coup suprême, lorsqu'il entendit dans le corridor un bruit de pas. Ce fut Madeleine qui parut sur le seuil. Elle était encore enveloppée de son châle, n'ayant même pas pris le temps de retirer ses gants ni son chapeau. D'un regard rapide, elle fit le tour du laboratoire dans lequel elle n'était jamais entrée. Parfois on avait parlé devant elle de cette pièce close ; elle en connaissait la lugubre légende. Quand elle en eut aperçu la malpropreté honteuse, il lui monta aux lèvres un singulier sourire : il était digne d'elle d'en finir au milieu de cette pourriture et de cette désolation. Comme à Guillaume, il lui sembla que cette pièce l'attendait depuis des années.]{.calibre11}
+
+[Elle marcha droit à son mari.]{.calibre11}
+
+[« Je viens causer avec toi, Guillaume », dit-elle.]{.calibre11}
+
+[Elle parlait d'une voix nette et froide. Toute sa fièvre paraissait tombée. La tête haute, les yeux résolus, elle avait l'attitude inexorable d'un juge. « Il y a quelques mois, reprit-elle, je t'ai demandé une grâce, en quittant l'auberge de Mantes, celle de me laisser mourir le jour où la vie de tortures que nous menons deviendrait intolérable. Je n'ai pu calmer ma pensée, apaiser mon coeur ; je viens te rappeler la promesse que tu m'as faite alors. »]{.calibre11}
+
+[Guillaume ne répondit pas. Il devinait les raisons que sa femme allait lui donner, il les attendait, prêt à les accepter, ne songeant plus à la défendre contre elle-même.]{.calibre11}
+
+[« Vois où nous en sommes arrivés, poursuivit Madeleine. Nous nous trouvons acculés tous les deux, traqués dans cette pièce où les faits ont fini par nous pousser. Chaque jour, nous avons perdu un peu de terrain, nous avons senti le cercle de fer qui nous entoure se resserrer et nous mesurer l'espace. Successivement, tous les lieux sont devenus inhabitables pour nos pauvres cerveaux malades : le pavillon voisin, notre petit hôtel de Paris, jusqu'à la salle à manger de la Noiraude, jusqu'à la chambre où vient de mourir notre fille. Maintenant, nous sommes enfermés ici, au fond de cette retraite sinistre, de ce dernier asile digne de notre folie. Si nous en sortons tous deux, ce sera pour rouler plus bas, pour mener une vie plus infâme et plus lâche\... Est-ce vrai ?]{.calibre11}
+
+[--- C'est vrai, répondit Guillaume.]{.calibre11}
+
+[--- Nous sommes là, face à face, n'échangeant plus un mot, un regard, sans nous blesser. Je ne t'appartiens plus, j'appartiens aux souvenirs qui, la nuit, viennent me secouer de cauchemars horribles. Tu n'ignores rien, tu m'as éveillée une fois, comme je m'abandonnais aux bras d'un songe. Aussi n'oses-tu plus me serrer sur ta poitrine, n'est-ce pas, Guillaume ? Je suis trop pleine d'un autre homme. Je te crois jaloux, je te crois désespéré, poussé à bout comme moi\... Est-ce vrai ?]{.calibre11}
+
+[--- C'est vrai.]{.calibre11}
+
+[--- Nos amours seraient donc ignobles à cette heure. Nous aurions beau nous aveugler ; par instants, je pénétrerais tes lassitudes et tes dégoûts, tu lirais en moi mes pensées et mes voluptés honteuses. Nous ne pouvons plus vivre ensemble\... Est-ce vrai ?]{.calibre11}
+
+[--- C'est vrai. »]{.calibre11}
+
+[Guillaume répondait en écho, et chacune de ses réponses tombait claire et tranchante comme une lame d'acier. L'attitude haute et calme de sa femme avait éveillé en lui toutes les fiertés de son sang. Il n'avait plus une faiblesse, il voulait racheter ses abandons nerveux, en acceptant avec courage le dénouement fatal qu'il croyait deviner. « À moins, continua Madeleine avec amertume, que tu ne veuilles vivre séparé de moi, toi dans une chambre et moi dans une autre, comme certains époux qui s'acceptent seulement devant le monde, pour sauver les apparences. Nous venons de voir quelques-uns de ces ménages à Paris. Voudrais-tu tenter cette vie ?]{.calibre11}
+
+[--- Non, s'écria le jeune homme, je t'aime encore, Madeleine\... Nous nous aimons, et c'est cela qui nous tue, n'est-ce pas ?\... Si je te conserve, je veux rester ton mari, ton amant. Tu as bien vu, à Paris, nous n'avons pu nous plier à cette existence d'égoïsme. Nous devons vivre aux bras l'un de l'autre ou ne plus vivre.]{.calibre11}
+
+[--- Eh bien alors, soyons logiques, tout est fini. Tu l'as dit, c'est notre amour qui nous tue. Si nous ne nous aimions pas, nous vivrions paisibles. Mais s'aimer toujours et souiller ses tendresses ; désirer s'étreindre à chaque heure et ne plus oser se toucher du bout des doigts ; passer mes nuits à ton côté, sur la poitrine d'un autre, lorsque je donnerais mon sang pour pouvoir t'attirer à moi : cela, vois-tu, finirait par nous rendre fous\... Tout est fini.]{.calibre11}
+
+[--- Oui, tout est fini », répéta lentement Guillaume.]{.calibre11}
+
+[Il y eut un court silence. Les époux se regardaient dans les yeux d'un regard assuré. Madeleine, gardant son calme effrayant, cherchait si elle n'avait oublié aucune des causes qui l'obligeaient au suicide. Elle voulait procéder froidement, bien établir que toute espérance était morte, ne pas se jeter dans la mort par folie, y entrer au contraire après avoir prouvé l'impossibilité d'une guérison quelconque. Elle insista encore sur les motifs qui la poussaient.]{.calibre11}
+
+[« Ne faisons rien contre la raison, reprit-elle, rappelle-toi bien les faits\... Je voulais mourir dans cette auberge. Puis, je ne t'ai pas encore avoué cela, la pensée de ma fille m'a arrêtée. Aujourd'hui, Lucie est morte, je puis m'en aller\... J'ai ta promesse.]{.calibre11}
+
+[--- Oui, répondit Guillaume, nous allons mourir ensemble. » Elle le regarda d'un air d'étonnement et d'effroi. Et, d'une voix rapide :]{.calibre11}
+
+[« Que dis-tu là ? S'écria-t-elle. Tu ne dois pas mourir, toi, Guillaume. Cela n'est jamais entré dans mes résolutions. Je ne veux pas que tu meures. Ce serait un crime inutile. » Le jeune homme eut un geste désespéré de protestation.]{.calibre11}
+
+[« Tu n'as pas compté, dit-il, que je resterais seul à souffrir.]{.calibre11}
+
+[--- Qui te parle de souffrance ! reprit-elle dédaigneusement. Est-ce que tes faiblesses te reprendraient ? Est-ce que tu aurais peur de pleurer ?\... S'il ne s'agissait que de douleur, je resterais, je lutterais encore. Mais c'est moi qui suis ton mal, ta plaie vive. Je m'en vais parce que je te gêne.]{.calibre11}
+
+[--- Tu ne mourras pas seule.]{.calibre11}
+
+[--- Je t'en prie, Guillaume, épargne-moi, n'augmente pas ma faute. Si je t'entraîne dans ma chute, je serai encore plus coupable, je m'en irai plus désespérée\... Ma chair est maudite, elle rend amer tout ce qui t'entoure. Quand je n'existerai plus, tu te calmeras, tu pourras tenter de nouveau le bonheur. » Guillaume perdait sa tranquillité froide. L'idée qu'il allait se retrouver seul à souffrir l'épouvantait.]{.calibre11}
+
+[« Et que veux-tu que je fasse sans toi ! Cria-t-il. Toi morte, je n'ai qu'à mourir. Je veux me punir d'ailleurs, me punir de ma faiblesse qui n'a pas su te sauver. Tu n'es pas la seule coupable\... Tu le sais, Madeleine, je suis un enfant nerveux que tu dois emporter dans tes bras, si tu ne veux le laisser à de lâches abandons. »]{.calibre11}
+
+[Madeleine sentit la vérité de ces paroles. Mais l'idée de frapper une fois de plus son mari, en se frappant elle-même, lui était insupportable. Elle ne répondit pas, espérant que l'exaltation du jeune homme allait se calmer et qu'elle le plierait ensuite à ses volontés. Celui-ci, maintenant, ne se montrait plus résigné ; il se débattait contre le projet de suicide.]{.calibre11}
+
+[« Cherchons, cherchons encore, balbutia-t-il. Attendons, par pitié.]{.calibre11}
+
+[--- Attendons quoi, et combien de temps ? dit Madeleine avec âpreté. Tout n'est-il pas fini ? Tu en convenais tout à l'heure. Crois-tu donc que je ne lise pas dans tes yeux ? Ose donc dire que ma mort ne t'est pas nécessaire.]{.calibre11}
+
+[--- Cherchons, cherchons un autre moyen, répéta-t-il fiévreusement.]{.calibre11}
+
+[--- Pourquoi tes lèvres prononcent-elles ces mots vides ? Il est inutile de chercher, nous ne trouverions pas de guérison. Et tu sais cela, tu parles pour étourdir tes pensées qui te crient la vérité. » Guillaume se tordait les mains.]{.calibre11}
+
+[« Non, jamais ! S'écria-t-il. Tu ne peux mourir ainsi, je t'aime, je ne te laisserai pas accomplir ce suicide devant moi.]{.calibre11}
+
+[--- Ce n'est pas un suicide, répondit gravement la jeune femme, c'est une exécution. Je me suis jugée et je me suis condamnée. Laisse-moi me faire justice. »]{.calibre11}
+
+[Elle voyait que son mari s'affaissait, elle continua d'un ton rude de domination.]{.calibre11}
+
+[« Je me serais tuée rue de Boulogne, ce matin, comme j'en ai eu un instant l'envie, si j'avais su te trouver si faible. Je croyais ne pas devoir disposer de moi, avant de t'avoir expliqué les causes de ma mort. Tu vois que j'ai bien ma raison. » Guillaume eut un cri sublime de désespoir :]{.calibre11}
+
+[« II fallait te tuer sans rien me dire, je me serais tué ensuite\... Tu es cruelle avec ta raison. » Il s'était assis sur le bord de la table, défaillant. Madeleine résolut d'en finir. Elle se sentait lasse, elle avait hâte de se reposer dans la mort. Un secret égoïsme lui faisait abandonner son mari à sa destinée. Maintenant qu'elle avait fait tous ses efforts pour le sauver, elle s'endormirait tranquille. Elle ne se sentait pas le courage de vivre encore pour l'obliger à vivre.]{.calibre11}
+
+[« Ne te débats pas ainsi, lui dit-elle en regardant rapidement autour d'elle. Il faut que je meure, n'est-ce pas ? Ne dis pas non\... Laisse-moi faire. »]{.calibre11}
+
+[Elle venait d'apercevoir le petit meuble marqueté dans lequel M. De Viargue avait enfermé les toxiques nouveaux, découverts par lui. Quelques minutes auparavant, en montant l'escalier, elle s'était dit : « Je me jetterai par la fenêtre ; il y a trois étages, je m'écraserai sur les pavés. » Mais la vue de l'étagère, sur les glaces de laquelle un doigt du comte avait écrit le mot : Poisons, en grosses lettres, lui fit choisir un autre genre de suicide. Elle eut un mouvement de joie, elle s'élança vers la petite armoire.]{.calibre11}
+
+[« Madeleine ! Madeleine ! » s'écria Guillaume épouvanté.]{.calibre11}
+
+[Mais la jeune femme avait déjà cassé une glace de l'armoire d'un coup de poing. Le verre lui coupa profondément les doigts. Elle prit un flacon, le premier venu. Alors, d'un élan, son mari vint lui saisir les poignets, la mettant ainsi dans l'impossibilité de porter le flacon à ses lèvres. Il sentait le sang tiède de ses coupures lui mouiller les mains.]{.calibre11}
+
+[« Je te briserai les poignets plutôt que de te laisser boire, dit-il. Je veux que tu vives. »]{.calibre11}
+
+[Madeleine le regarda en face. « Tu sais bien que cela est impossible », répondit-elle.]{.calibre11}
+
+[Elle luttait sourdement ; elle donnait de brusques secousses pour dégager ses mains. Mais son mari les tenait serrées dans les siennes ; il haletait et répétait : « Donne-moi ce flacon. Donne-moi ce flacon.]{.calibre11}
+
+[--- Voyons, dit la jeune femme d'une voix rauque, ne fais pas l'enfant. Lâche-moi. » Il ne répondit plus. Il travaillait à lui écarter les doigts un à un pour lui arracher la fiole. Ses mains étaient toutes rouges du sang des coupures de Madeleine. Comme celle-ci sentait ses forces s'en aller, elle parut prendre un parti suprême.]{.calibre11}
+
+[« Tout ce que je viens de te dire, reprit-elle, ne t'a donc pas prouvé que j'ai besoin de la mort et qu'il y a cruauté à me la refuser ? » Il garda encore le silence.]{.calibre11}
+
+[« Tu ne te rappelles donc pas, continua-t-elle plus violemment, la chambre d'auberge que j'ai habitée avec mon amant ; tu ne te rappelles pas cette table où j'ai écrit : J'aime Jacques, et ces rideaux bleus que j'écartais pendant les nuits étouffantes d'été ? »]{.calibre11}
+
+[Au nom de Jacques, il eut un frisson ; mais il ne mit que plus de rage à vouloir s'emparer du flacon. Alors la jeune femme s'affola.]{.calibre11}
+
+[« Tant pis ! Cria-t-elle, je voulais t'épargner une dernière angoisse ; mais tu me forces à être brutale\... Ce matin j'ai menti, je n'avais rien oublié ; si je suis restée à Paris, c'était pour aller voir Jacques ; je voulais l'éloigner de nous, et je suis tombée sur sa poitrine comme une catin\... Entends-tu, Guillaume, je sors des bras de Jacques. » Sous le coup brusque de cet aveu, Guillaume lâcha enfin les mains de Madeleine. Ses bras inertes retombèrent, ses yeux se fixèrent stupidement sur sa femme, Il recula lentement.]{.calibre11}
+
+[« Ah ! Tu vois bien, dit-elle avec un étrange sourire de triomphe, que tu consens à ma mort. »]{.calibre11}
+
+[Il reculait toujours. Arrivé à la muraille, il s'y adossa, sans cesser de regarder Madeleine. Une anxiété béante le courbait à demi vers elle, pour mieux suivre chacun de ses mouvements. Elle éleva le flacon, elle le lui montra.]{.calibre11}
+
+[« Je vais boire, Guillaume, reprit-elle. Tu me le permets, n'est-ce pas ? »]{.calibre11}
+
+[Il resta muet, les yeux sortant des orbites, les dents claquant avec force. Il se ramassait peu à peu sur lui-même, comme pour échapper, en se faisant tout petit, au spectacle atroce qu'il avait devant lui, et dont il ne pouvait détourner les regards. Alors Madeleine éleva lentement la fiole et la vida d'un trait. En buvant, elle ne quitta pas son mari des yeux. L'effet du poison, pris à cette haute dose, fut foudroyant. Elle tourna, les bras ouverts, et tomba sur la face. Une seule convulsion la secoua à terre. Son énorme chignon de cheveux roux se dénoua et roula sur le parquet comme une mare de sang.]{.calibre11}
+
+[Guillaume n'avait perdu aucun détail de cette scène rapide. À mesure que sa femme avait bu, il s'était accroupi davantage. Il se trouvait maintenant assis sur ses talons, contre le mur. Lorsqu'elle tomba avec un bruit sourd, pareille à une masse de plomb, il sentit le parquet trembler sous lui ; il lui sembla que la chute de Madeleine, en retentissant dans son cerveau, lui fêlait le crâne. Pendant quelques secondes, il regarda le cadavre par-dessous la table. Puis il poussa un éclat de rire déchirant, il se leva d'un bond et se mit à danser dans le laboratoire, marquant la mesure en frappant l'une contre l'autre ses mains humides de sang, dont il examinait les taches rouges avec des accès nerveux de gaieté. Il fit ainsi, à plusieurs reprises, le tour de la pièce, marchant sur les tessons qui traînaient, poussant les débris au milieu du plancher. Il vint enfin sauter à pieds joints par-dessus le corps de sa femme, ainsi qu'un enfant qui jouerait à saute-mouton. Et il riait plus fort trouvant sans doute ce jeu fort comique.]{.calibre11}
+
+[À ce moment Geneviève apparut sur le seuil de la porte. Immobile, rigide, semblable au destin, elle fouilla du regard cette grande salle sinistre, aux exhalaisons fétides, aux coins pleins d'ordures dont une seule bougie éclairait à peine les ténèbres. Quand elle eut distingué le cadavre aplati à terre, comme piétiné par ce fou qui riait et dansait diaboliquement dans l'ombre vague, elle redressa sa haute taille, elle dit de sa voix sèche :]{.calibre11}
+
+[« Dieu le Père n'a pas pardonné ! »]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre21}
+
+
+[[Liste des romans]{.calibre30}](../Text/Zola2_split_000.htm){.pcalibre .pcalibre1}[

@@ -1,0 +1,64 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MISTRESS BRANICAN",
+  "slug": "mistress-branican",
+  "nombre_chapitres": 33,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1391,
+      "spine_end_exclusive": 1408,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_997.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_998.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_999.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1000.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1001.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1002.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1003.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1004.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1005.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1006.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1007.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1008.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1009.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1010.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1011.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1012.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 1408,
+      "spine_end_exclusive": 1424,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1014.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1015.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1016.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1017.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1018.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1019.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1020.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1021.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1022.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1023.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1024.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1025.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1026.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1027.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1028.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_1029.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

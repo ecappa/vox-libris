@@ -1,0 +1,823 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/fragments-dun-voyage-aux-alpes/00842.jpg){.calibre10} L'ARCHIPEL DE LA MANCHE]{.calibre2}]{.calibre_55} {#filepos47573535 .calibre_}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1883)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[VOYAGES
+]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+[![Guernesey](../../../images/victor-hugo/larchipel-de-la-manche/00917.jpg){.calibre3}
+]{.calibre_3}
+
+[Guernesey. Cobo bay]{.calibre_3}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}[]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6653 .calibre_57}
+
+::: calibre_52
+
+
+[]{.calibre_10}
+
+> [[[[[Avertissement de l'éditeur]{.calibre9}]{.underline}]{.calibre_4}](index_split_5402.html#filepos47581839)]{.calibre_10}
+
+> [[[[[Dédicace]{.calibre9}]{.underline}]{.calibre_4}](index_split_5403.html#filepos47582637)]{.calibre_10}
+
+> [[[[[Introduction]{.calibre9}]{.underline}]{.calibre_4}](index_split_5404.html#filepos47583443)]{.calibre_10}
+
+> [[[[[I. Les anciens cataclysmes]{.calibre9}]{.underline}]{.calibre_4}](index_split_5405.html#filepos47585394)]{.calibre_10}
+
+> [[[[[II. Guernesey]{.calibre9}]{.underline}]{.calibre_4}](index_split_5406.html#filepos47587549)]{.calibre_10}
+
+> [[[[[III. Guernesey. Suite]{.calibre9}]{.underline}]{.calibre_4}](index_split_5407.html#filepos47591645)]{.calibre_10}
+
+> [[[[[IV. L'herbe]{.calibre9}]{.underline}]{.calibre_4}](index_split_5408.html#filepos47595524)]{.calibre_10}
+
+> [[[[[V. Les risques de la mer]{.calibre9}]{.underline}]{.calibre_4}](index_split_5409.html#filepos47600542)]{.calibre_10}
+
+> [[[[[VI. Les rochers]{.calibre9}]{.underline}]{.calibre_4}](index_split_5410.html#filepos47605524)]{.calibre_10}
+
+> [[[[[VII. Paysage et océan mêlés]{.calibre9}]{.underline}]{.calibre_4}](index_split_5411.html#filepos47610202)]{.calibre_10}
+
+> [[[[[VIII. Saint-Pierre-Port]{.calibre9}]{.underline}]{.calibre_4}](index_split_5412.html#filepos47617296)]{.calibre_10}
+
+> [[[[[IX. Jersey -- Aurigny -- Serk]{.calibre9}]{.underline}]{.calibre_4}](index_split_5413.html#filepos47629902)]{.calibre_10}
+
+> [[[[[X. Histoire -- Légende -- Religion]{.calibre9}]{.underline}]{.calibre_4}](index_split_5414.html#filepos47634872)]{.calibre_10}
+
+> [[[[[XI. Les vieux repaires et les vieux saints]{.calibre9}]{.underline}]{.calibre_4}](index_split_5415.html#filepos47643381)]{.calibre_10}
+
+> [[[[[XII. Particularités locales]{.calibre9}]{.underline}]{.calibre_4}](index_split_5416.html#filepos47650843)]{.calibre_10}
+
+> [[[[[XIII. Travail de la civilisation dans l'archipel]{.calibre9}]{.underline}]{.calibre_4}](index_split_5417.html#filepos47656928)]{.calibre_10}
+
+> [[[[[XIV. Autres particularités]{.calibre9}]{.underline}]{.calibre_4}](index_split_5418.html#filepos47661136)]{.calibre_10}
+
+> [[[[[XV. Antiquités et antiquailles -- Coutumes, lois et moeurs]{.calibre9}]{.underline}]{.calibre_4}](index_split_5419.html#filepos47672115)]{.calibre_10}
+
+> [[[[[XVI. Suite des particularités]{.calibre9}]{.underline}]{.calibre_4}](index_split_5420.html#filepos47676546)]{.calibre_10}
+
+> [[[[[XVII. Compatibilité des extrêmes]{.calibre9}]{.underline}]{.calibre_4}](index_split_5421.html#filepos47683684)]{.calibre_10}
+
+> [[[[[XVIII. Asile]{.calibre9}]{.underline}]{.calibre_4}](index_split_5422.html#filepos47692748)]{.calibre_10}
+
+> [[[[[XIX.]{.calibre9}]{.underline}]{.calibre_4}](index_split_5423.html#filepos47699913)]{.calibre_10}
+
+> [[[[[XX. Homo edax]{.calibre9}]{.underline}]{.calibre_4}](index_split_5424.html#filepos47702270)]{.calibre_10}
+
+> [[[[[XXI. Puissance des casseurs de pierres]{.calibre9}]{.underline}]{.calibre_4}](index_split_5425.html#filepos47710383)]{.calibre_10}
+
+> [[[[[XXII. Bonté du peuple de l'archipel]{.calibre9}]{.underline}]{.calibre_4}](index_split_5426.html#filepos47714923)]{.calibre_10}
+
+[ ]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Avertissement de l'éditeur]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6655 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[[L\'Archipel de la Manche]{.italic}, est un livre liminaire que Victor Hugo avait ajouté aux [Travailleurs de la mer]{.italic} en mai 1865. Il a retiré cet ouvrage à la demande de ses éditeurs mais l'a réintégré en 1883. Nous le publions dans la série Voyages.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[D]{.calibre2}édicace]{.bold1}]{.calibre_24} {#calibre_pb_6657 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Je dédie ce livre au rocher d\'hospitalité et de liberté, à ce coin de vieille terre normande où vit le noble petit peuple de la mer, à l\'île de Guernesey, sévère et douce, mon asile actuel, mon tombeau probable.]{.calibre4}
+
+[[VH]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I]{.calibre2}ntroduction]{.bold1}]{.calibre_24} {#calibre_pb_6659 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[La religion, la société, la nature ; telles sont les trois luttes de l\'homme. Ces trois luttes sont en même temps ses trois besoins ; il faut qu\'il croie, de là le temple ; il faut qu\'il crée, de là la cité ; il faut qu\'il vive, de là la charrue et le navire. Mais ces trois solutions contiennent trois guerres. La mystérieuse difficulté de la vie sort de toutes les trois. L\'homme a affaire à l\'obstacle sous la forme superstition, sous la forme préjugé, et sous la forme élément. Un triple anankè[[[[^\[23\]^]{.calibre_21}]{.underline}]{.calibre_4}](index_split_5427.html#filepos47750331){#filepos47584517} pèse sur nous, l\'anankè des dogmes, l\'anankè des lois, l\'anankè des choses. Dans [Notre-Dame de Paris]{.italic}, l\'auteur a dénoncé le premier ; dans [les Misérables]{.italic}, il a signalé le second ; dans ce livre, il indique le troisième.]{.calibre4}
+
+[A ces trois fatalités qui enveloppent l\'homme se mêle la fatalité intérieure, l\'anankè suprême, le coeur humain.]{.calibre4}
+
+[[
+Hauteville-House, mars 1866]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I.]{.calibre2} Les anciens cataclysmes]{.bold1}]{.calibre_24} {#calibre_pb_6661 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[L'Atlantique ronge nos côtes. La pression du courant du pôle déforme notre falaise ouest. La muraille que nous avons sur la mer est minée de Saint-Valéry-sur-Somme à Ingouville, de vastes blocs s'écroulent, l'eau roule des nuages de galets, nos ports s'ensablent ou s'empierrent, l'embouchure de nos fleuves se barre. Chaque jour un pan de la terre normande se détache et disparaît sous le flot. Ce prodigieux travail, aujourd'hui ralenti, a été terrible. Il a fallu pour le contenir cet éperon immense, le Finistère. Qu'on juge de la force du flux polaire et de la violence de cet affouillement par le creux qu'il a fait entre Cherbourg et Brest.]{.calibre4}
+
+[Cette formation du golfe de la Manche aux dépens du sol français est antérieure aux temps historiques. La dernière voie de fait décisive de l'océan sur notre côte a pourtant date certaine. En 709, soixante ans avant l'avènement de Charlemagne, un coup de mer a détaché Jersey de la France. D'autres sommets des terres antérieurement submergées sont, comme Jersey, visibles. Ces pointes qui sortent de l'eau, sont des îles. C'est ce qu'on nomme l'archipel normand.]{.calibre4}
+
+[Il y a là une laborieuse fourmilière humaine.]{.calibre4}
+
+[A l'industrie de la mer qui avait fait une ruine, a succédé l'industrie de l'homme qui a fait un peuple.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II. G]{.calibre2}uernesey]{.bold1}]{.calibre_24} {#calibre_pb_6663 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Granit au sud, sable au nord ; ici des escarpements, là des dunes. Un plan incliné de prairie avec des ondulations de collines et des reliefs de roches ; pour frange à ce tapis vert froncé de plis, l'écume de l'océan ; le long de la côte, des batteries rasantes ; des tours à meurtrières, de distance en distance ; sur toute la plage basse, un parapet massif, coupé de créneaux et d'escaliers, que le sable envahit, et qu'attaque le flot, unique assiégeant à craindre ; des moulins démâtés par les tempêtes ; quelques-uns, au Valle, à la Ville-au-Roi, à Saint-Pierre-Port, à Torteval, tournant encore ; dans la falaise, des ancrages ; dans les dunes, des troupeaux ; le chien du berger et le chien du toucheur de boeufs en quête et en travail ; les petites charrettes des marchands de la ville galopant dans les chemins creux ; souvent des maisons noires, goudronnées à l'ouest à cause des pluies ; coqs, poules, fumiers ; partout des murs cyclopéens ; ceux de l'ancien havre, malheureusement détruits, étaient admirables avec leurs blocs informes, leurs poteaux puissants et leurs lourdes chaînes ; des fermes à encadrements de Futaies ; les champs murés à hauteur d'appui avec des cordons de pierre sèche dessinant sur les plaines un bizarre échiquier ; çà et là, un rempart autour d'un chardon, des chaumières en granit, des huttes casemates, des cabanes à défier le boulet ; parfois, dans le lieu le plus sauvage, un petit bâtiment neuf, surmonté d'une cloche, qui est une école ; deux ou trois ruisseaux dans des fonds de prés ; ormes et chênes ; un lys fait exprès, qui n'est que là, [Guernsey lily ;]{.italic} dans la saison des « grands labours », des charrues à huit chevaux ; devant les maisons, de larges meules de foin portées sur un cercle de bornes de pierre ; des tas d'ajoncs épineux ; parfois des jardins de l'ancien style français, à ifs taillés, à buis façonnés, à vases rocailles, mêlés aux vergers et aux potagers ; des fleurs d'amateurs dans des enclos de paysans ; des rhododendrons parmi les pommes de terre ; partout sur l'herbe des étalages de varech, couleur oreille-d'ours ; dans les cimetières pas de croix, des lames de pierre imitant au clair de lune des dames blanches debout ; dix clochers gothiques sur l'horizon ; vieilles églises, dogmes neufs ; le rite protestant logé dans l'architecture catholique ; dans les sables et sur les caps, la sombre énigme celtique éparse sous ses formes diverses, menhirs, peulvens, longues pierres, pierres des fées, pierres branlantes, pierres sonnantes, galeries, cromlechs, dolmens, pouquelaies ; toutes sortes de traces ; après les druides, les abbés ; après les abbés, les recteurs ; des souvenirs de chutes du ciel ; à une pointe Lucifer, au château de Michel-Archange ; à l'autre pointe Icare, au cap Dicart ; presque autant de fleurs l'hiver que l'été.--- Voilà Guernesey.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III.]{.calibre2} Guernesey. Suite]{.bold1}]{.calibre_24} {#calibre_pb_6665 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Terre fertile, grasse, forte. Nul pâturage meilleur. Le froment est célèbre, les vaches sont illustres. Les génisses des herbages de Saint-Pierre-du-Bois sont les égales des moutons lauréats du plateau de Confolens. Les comices agricoles de France et d'Angleterre couronnent les chefs-d'oeuvre que font les sillons et les prairies de Guernesey. L'agriculture est servie par une voirie fort bien entendue, et un excellent réseau de circulation vivifie toute l'île. Les routes sont très bonnes. A l'embranchement de deux routes on voit à terre une pierre plate avec une croix. Le plus ancien bailli de Guernesey, celui de 1284, le premier de la liste, Gaultier de la Salle, a été pendu pour fait d'iniquité judiciaire. Cette croix, dite la Croix au baillif, marque le lieu de son dernier agenouillement et de sa dernière prière.]{.calibre4}
+
+[La mer dans les anses et les baies est égayée par les corps-morts, grosses toues bariolées en pain de sucre, quadrillées de rouge et de blanc, mi-parties de noir et de jaune, chinées de vert, de bleu et d'orange, losangées, jaspées, marbrées, flottant à fleur d'eau. On entend par endroits le chant monotone des équipes halant quelque navire, et tirant le tow rope.]{.calibre4}
+
+[Non moins que les « poissonniers », les laboureurs ont l'air content, les jardiniers de même. Le sol, saturé de poussière de roche, est puissant ; l'engrais, qui est de tangue et de goémon, ajoute le sel au granit ; d'où une vitalité extraordinaire ; la sève fait merveilles ; magnolias, myrtes, daphnés, lauriers-roses, hortensias bleus ; les fuchsias sont excessifs ; il y a des arcades de verbènes triphylles ; il y a des murailles de géraniums ; l'orange et le citron viennent en pleine terre ; de raisin point, il ne mûrit qu'en serre ; là, il est excellent ; les camélias sont arbres ; on voit dans les jardins la fleur de l'aloès plus haute qu'une maison. Rien de plus opulent et de plus prodigue que cette végétation masquant et ornant les façades coquettes des villas et des cottages.]{.calibre4}
+
+[Li-Hou est une petite île tout à côté, déserte, accessible à mer basse. Elle est pleine de broussailles et de terriers. Les lapins de Li-Hou savent les heures. Ils ne sortent de leur trou qu'à marée haute. Ils narguent l'homme. Leur ami l'océan les isole. Ces grandes fraternités, c'est toute la nature.]{.calibre4}
+
+[Si l'on creuse les alluvions de la baie Vason, on y trouve des arbres. Il y a là, sous une mystérieuse épaisseur de sable, une forêt.
+Les pêcheurs rudoyés de cet ouest battu des vents font des pilotes habiles. La mer est particulière dans les îles de la Manche. La baie de Cancale, tout proche, est le point du monde où les marées marnent le plus.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV.]{.calibre2} L'herbe]{.bold1}]{.calibre_24} {#calibre_pb_6667 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[L'herbe à Guernesey, c'est l'herbe de partout, un peu plus riche pourtant ; une prairie à Guernesey, c'est presque le gazon de Cluges ou de Géménos. Vous y trouvez des fétuques et des pâturins, comme dans la première herbe venue, plus le cynodon pied-de-poule et la glycérie flottante, plus le brome mollet aux épillets en fuseau, plus le phalaris des Canaries, l'agrostide qui donne une teinture verte, l'ivraie raygrass, le lupin jaune, la houlque qui a de la laine sur sa tige, la flouve qui sent bon, l'amourette qui tremble, le souci pluvial, l'ail sauvage dont la fleur est si douce et l'odeur si acre, la fléole, le vulpin dont l'épi semble une petite massue, le stipe propre à faire des paniers, l'élyme utile à fixer les sables mouvants. Est-ce tout ? non, il y a encore le dactyle dont les fleurs se pelotonnent, le pannis millet, et même, selon quelques agronomes indigènes, l'andropogon. Il y a la crépide à feuilles de pissenlit qui marque l'heure, et le laiteron de Sibérie qui annonce le temps. Tout cela, c'est de l'herbe ; mais n'a pas qui veut cette herbe ; c'est l'herbe propre à l'archipel ; il faut le granit pour sous-sol, et l'océan pour arrosoir.]{.calibre4}
+
+[Maintenant, faites courir là-dedans et faites voler là-dessus mille insectes, les uns hideux, les autres charmants, sous l'herbe, les longicornes, les longinases, les calandres, les fourmis occupées à traire les pucerons leurs vaches, les sauterelles baveuses, la coccinelle, bête du bon Dieu, et le taupin, bête du diable ; sur l'herbe, dans l'air, la libellule, l'ichneumon, la guêpe, les cétoines d'or, les bourdons de velours, les hémérobes de dentelle, les chrysis au ventre rouge, les volucelles tapageuses, et vous aurez quelque idée du spectacle plein de rêverie qu'en juin, à midi, la croupe de Jerbourg ou de Fermain-Bay offre à un entomologiste un peu songeur, et à un poète un peu naturaliste.]{.calibre4}
+
+[Tout à coup vous apercevez sous ce doux gazon vert une petite dalle carrée où sont gravées ces deux lettres : W. D. ce qui signifie « War Department » ; c'est-à-dire [Département de la Guerre]{.italic}. C'est juste. Il faut bien que la civilisation se montre. Sans cela l'endroit serait sauvage. Allez sur les bords du Rhin ; cherchez les recoins les plus ignorés de cette nature ; sur de certains points le paysage a tant de majesté qu'il semble pontifical ; on dirait que Dieu est plus présent là qu'ailleurs ; enfoncez-vous dans les asiles où les montagnes font le plus de solitude et où les bois font le plus de silence ; choisissez, je suppose, Andernach et ses environs ; faites visite à cet obscur et impassible lac de Laach, presque mystérieux tant il est inconnu ; pas de tranquillité plus auguste ; la vie universelle est là dans toute sa sérénité religieuse ; nul trouble ; partout l'ordre profond du grand désordre naturel ; promenez-vous, attendri, dans ce désert ; il est voluptueux comme le printemps et mélancolique comme l'automne ; cheminez au hasard ; laissez derrière vous l'abbaye en ruine, perdez-vous dans la paix touchante des ravins, parmi les chants d'oiseaux et les bruits de feuilles, buvez dans le creux de votre main l'eau des sources, marchez, méditez, oubliez ; une chaumière se présente ; elle marque l'angle d'un hameau enfoui sous les arbres ; elle est verte, embaumée, charmante, toute vêtue de lierres et de fleurs, pleine d'enfants et de rires ; vous approchez, et au coin de la cabane couverte d'une éclatante déchirure d'ombre et de soleil, sur une vieille pierre de ce vieux mur, au-dessous du nom du hameau, [Liederbreizig]{.italic}, vous lisez : [22e Landw. Bataillon. 2e Comp.]{.italic}]{.calibre4}
+
+[Vous vous croyiez dans un village, vous êtes dans un régiment. Tel est l'homme.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V.]{.calibre2} Les risques de la mer]{.bold1}]{.calibre_24} {#calibre_pb_6669 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[L'overfall, lisez : [casse-cou]{.italic}, est partout sur la côte ouest de Guernesey. Les vagues l'ont savamment déchiquetée. La nuit, sur la pointe des rochers suspects, des clartés invraisemblables, aperçues, dit-on, et affirmées par des rôdeurs de mer, avertissent ou trompent. Ces mêmes rôdeurs, hardis et crédules, distinguent sous l'eau l'holothurion des légendes, cette ortie marine et infernale qu'on ne peut toucher sans que la main prenne feu. Telle dénomination locale, Tinttajeu, par exemple (du gallois, Tin-Tagel), indique la présence du diable. Eustache, qui est Wace, le dit dans ses vieux vers :]{.calibre4}
+
+[
+Dont commença mer à meller,
+Undes à croistre et à troubler,
+Noircir il deux, noircir la nue :
+Tost fust la mer toute espandue.
+]{.calibre_10}
+
+[Cette Manche est aussi insoumise aujourd'hui qu'au temps de Tewdrig, d'Umbrafel, d'Hamon-dhû, le noir, et du chevalier Emyr Lhydau, réfugié à l'île de Groie, près de Quimperlé. Il y a, dans ces parages, des coups de théâtre de l'océan desquels il faut se défier. Celui-ci par exemple, qui est un des caprices les plus fréquents de la rose des vents des Channel Islands : une tempête souffle du sud-est ; le calme arrive, calme complet ; vous respirez ; cela dure parfois une heure ; tout à coup l'ouragan, disparu au sud-est, revient du nord-ouest ; il vous prenait en queue, il vous prend en tête ; c'est la tempête inverse. Si vous n'êtes pas un ancien pilote et un vieil habitué, si vous n'avez pas, profitant du calme, pris la précaution de renverser votre manoeuvre pendant que le vent se renversait, c'est fini, le navire se disloque et sombre.]{.calibre4}
+
+[Ribeyrolles, qui est allé mourir au Brésil, écrivait à bâtons rompus, dans son séjour à Guernesey, un mémento personnel des faits quotidiens, dont une feuille est sous nos yeux : --- « 1er janvier. Étrennes. Une tempête. Un navire arrivant de Portrieux s'est perdu hier sur l'Esplanade. --- 2. Trois-mâts perdu à la Rocquaine. Il venait d'Amérique. Sept hommes morts. Vingt et un sauvés. --- 3. Le packet n'est pas venu. --- 4. La tempête continue. --- \... --- 14. Pluies. Éboulement aux terres qui a tué un homme. --- 15. Gros temps. Le [Tawn]{.italic} n'a pu partir. --- 22. Brusque bourrasque. Cinq sinistres sur la côte ouest. --- 24. La tempête persiste. Naufrages de tous côtés. »]{.calibre4}
+
+[Presque jamais de repos dans ce coin de l'océan. De là les cris de mouette jetés à travers les siècles dans cette rafale sans fin par l'antique poète inquiet Lhy-ouar'h-henn, ce Jérémie de la mer.]{.calibre4}
+
+[Mais le gros temps n'est pas le plus grand risque de cette navigation de l'archipel ; la bourrasque est violente, et la violence avertit. On rentre au port, ou l'on met à la cape, en ayant soin de placer le centre d'effort des voiles au plus bas ; s'il survente, on cargue tout, et l'on peut se tirer d'affaire. Les grands périls de ces parages sont les périls invisibles, toujours présents, et d'autant plus funestes que le temps est plus beau.]{.calibre4}
+
+[Dans ces rencontres-là, une manoeuvre spéciale est nécessaire. Les marins de l'ouest de Guernesey excellent dans cette sorte de manoeuvre qu'on pourrait nommer préventive. Personne n'a étudié comme eux les trois dangers de la mer tranquille, le singe, l'anuble, et le derruble. Le singe (swinge), c'est le courant ; l'anuble (lieu obscur), c'est le bas-fond ; le derruble (qu'on prononce le terrible), c'est le tourbillon, le nombril, l'entonnoir de roches sous-jacentes, le puits sous la mer.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VI.]{.calibre2} Les rochers]{.bold1}]{.calibre_24} {#calibre_pb_6671 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Dans l'archipel de la Manche, la côte est presque partout sauvage. Ces îles sont de riants intérieurs, d'un abord âpre et bourru. La Manche étant une quasi-Méditerranée, la vague est courte et violente, le flot est un clapotement. De là un bizarre martèlement des falaises, et l'affouillement profond de la côte.]{.calibre4}
+
+[Qui longe cette côte passe par une série de mirages. A chaque instant le rocher essaie de vous faire sa dupe. Où les illusions vont-elles se nicher ? Dans le granit. Rien de plus étrange. D'énormes crapauds de pierre sont là, sortis de l'eau sans doute pour respirer ; des nonnes géantes se hâtent, penchées sur l'horizon ; les plis pétrifiés de leur voile ont la forme de la fuite du vent ; des rois à couronnes plutoniennes méditent sur de massifs trônes à qui l'écume n'est pas épargnée ; des êtres quelconques enfouis dans la roche dressent leurs bras dehors ; on voit les doigts des mains ouvertes. Tout cela c'est la côte informe. Approchez, il n'y a plus rien. La pierre a de ces évanouissements. Voici une forteresse, voici un temple fruste, voici un chaos de masures et de murs démantelés, tout l'arrachement d'une ville déserte. Il n'existe ni ville, ni temple, ni forteresse ; c'est la falaise. A mesure qu'on s'avance ou qu'on s'éloigne ou qu'on dérive ou qu'on tourne, la rive se défait ; pas de kaléidoscope plus prompt à l'écroulement ; les aspects se désagrègent pour se recomposer ; la perspective fait des siennes. Ce bloc est un trépied, puis c'est un lion, puis c'est un ange et il ouvre les ailes ; puis c'est une figure assise qui lit dans un livre. Rien ne change de forme comme les nuages, si ce n'est les rochers.]{.calibre4}
+
+[Ces formes éveillent l'idée de grandeur, non de beauté. Loin de là. Elles sont parfois maladives et hideuses. La roche a des nodosités, des tumeurs, des kystes, des ecchymoses, des loupes, des verrues. Les monts sont les gibbosités de la terre. Madame de Staël entendant M. de Chateaubriand, qui avait les épaules un peu hautes, mal parler des Alpes, disait : [jalousie de bossu]{.italic}. Les grandes lignes et les grandes majestés de la nature, le niveau des mers, la silhouette des montagnes, le sombre des forêts, le bleu du ciel, se compliquent d'on ne sait quelle dislocation énorme mêlée à l'harmonie. La beauté a ses lignes, la difformité a les siennes. Il y a le sourire et il y a le rictus. La désagrégation fait sur la roche les mêmes effets que sur la nuée. Ceci flotte et se décompose, ceci est stable et incohérent. Un reste d'angoisse du chaos est dans la création. Les splendeurs ont des balafres. Une laideur, éblouissante parfois, se mêle aux choses les plus magnifiques et semble protester contre l'ordre. Il y a de la grimace dans le nuage. Il y a un grotesque céleste. Toutes les lignes sont brisées dans le flot, dans le feuillage, dans le rocher, et on ne sait quelles parodies s'y laissent entrevoir. L'informe y domine. Jamais un contour n'y est correct. Grand, oui ; pur, non. Examinez les nuages ; toutes sortes de visages s'y dessinent, toutes sortes de ressemblances s'y montrent, toutes sortes de figures s'y esquissent ; cherchez-y un profil grec. Vous y trouverez Caliban, non Vénus ; jamais vous n'y verrez le Parthénon. Mais parfois, à la nuit tombante, quelque grande table d'ombre, posée sur des jambages de nuée et entourée de blocs de brume, ébauchera dans le livide ciel crépusculaire un cromlech immense et monstrueux.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VII. Paysage et océan mêlés]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6673 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[A Guernesey, les métairies sont monumentales. Quelques-unes dressent au bord des chemins un pan de mur planté comme un décor où sont percées côte à côte la porte charretière et la porte piétonne. Le temps a creusé dans les chambranles et les cintres des refends profonds où la tortule champêtre abrite l'éclosion de ses spores, et où il n'est pas rare de trouver des chauves-souris endormies. Les hameaux sous les arbres sont décrépits et vivaces. Les chaumières ont des vieillesses de cathédrales. Une cabane de pierre, route des Hubies, a dans son mur une encoignure avec un tronçon de colonnette et cette date : 1405. Une autre, du côté de Bal moral, offre sur sa façade, comme les maisons paysannes de Hernani et d'Astigarraga, un blason sculpté en pleine pierre. A chaque pas, on voit dans les fermes les croisées à mailles losangées, les tourelles escaliers et les archivoltes de la Renaissance. Pas une porte qui n'ait son montoir à bidet, en granit.]{.calibre4}
+
+[D'autres cabanes ont été des barques ; une coque de bateau renversée, et juchée sur des pieux et des traverses, cela fait un toit. Une nef, la cale en haut, c'est une église ; la voûte en bas, c'est un navire ; le récipient de la prière, retourné, dompte la mer.]{.calibre4}
+
+[Dans les paroisses arides de l'ouest, le puits banal, debout avec son petit dôme de maçonnerie blanche au milieu des friches, imite presque le marabout arabe. Une solive trouée avec une pierre pour pivot ferme la haie d'un champ ; on reconnaît à de certaines marques les échaliers sur lesquels les lutins et les auxcriniers se mettent à cheval la nuit.]{.calibre4}
+
+[Les ravins étalent pêle-mêle sur leurs talus les fougères, les liserons, les roses de loup, les houx aux graines écarlates, l'épine blanche, l'épine rose, l'hièble d'Ecosse, le troène, et ces longues lanières plissées, dites collerettes de Henri IV.]{.calibre4}
+
+[Dans toute cette herbe pullule et prospère un épilobe à gousses, fort brouté des bourriques, ce que la botanique exprime avec élégance et pudeur par le mot [onagrariée]{.italic}. Partout des fourrés, des charmilles, « toutes sortes de brehailles », des épaisseurs vertes où ramage un monde ailé, guetté par un monde rampant ; merles, linottes, rouges-gorges, geais, torquilles ; le loriot des Ardennes se hâte à tire-d'aile ; des volées d'étourneaux manoeuvrent en spirales ; ailleurs le verdier, le chardonneret, la cauvette picarde, la corneille aux pieds rouges. Çà et là une couleuvre.]{.calibre4}
+
+[De petites chutes d'eau, amenées dans des encaissements de bois vermoulu qui laissent échapper des gouttes, font tourner des moulins dont on entend le battement sous les branchages. Quelques cours de fermes ont encore à leur centre le pressoir à cidre et le vieux cercle de pierre creuse où roulait la roue à broyer les pommes. Les bestiaux boivent dans des auges pareilles à des sarcophages. Un roi celte a peut-être pourri dans ce coffre de granit où s'abreuve paisiblement la vache, qui a les yeux de Junon. Les grimpereaux et les hochequeues viennent en familiarité aimable piller le grain des poules.]{.calibre4}
+
+[Le long de la mer tout est fauve. Le vent use l'herbe que le soleil brûle. Quelques églises ont un caparaçon de lierre qui court jusqu'au clocher. Par endroits, dans les bruyères désertes, une excroissance de rocher s'achève en chaumière. Les bateaux tirés à terre, faute de port, sont arc-boutés sur de grosses pierres. Les voiles des barques qu'on voit à l'horizon sont plutôt couleur d'ocre ou jaune saumon que blanches. Du côté de la pluie et de la bise les arbres ont une fourrure de lichen ; les pierres elles-mêmes semblent prendre leurs précautions, et ont une peau de mousse drue et dense. Il y a des murmures, des souffles, des froissements de branches, de brusques passages d'oiseaux de mer, quelques-uns avec un poisson d'argent au bec, une abondance de papillons variant de couleur selon la saison, et toutes sortes de profonds tumultes dans les rochers sonores. Des chevaux au vert galopent à travers les jachères. Ils se roulent, bondissent, s'arrêtent, font fête au vent de toute leur crinière, et regardent devant eux dans l'espace les flots qui se suppléent indéfiniment. En mai les vieilles bâtisses rurales et marines se couvrent de giroflées ; en juin, de lilas de muraille.]{.calibre4}
+
+[Dans les dunes, les batteries s'écroulent. La désuétude des canons profite aux paysans ; des filets de pêcheurs sèchent sur les embrasures. Entre les quatre murs du blockhaus démantelé, un âne errant, ou une chèvre au piquet, broute le gazon d'Espagne et le chardon bleu. Des enfants demi-nus rient. On voit dans les sentiers les jeux de mérelles qu'ils y tracent.]{.calibre4}
+
+[Le soir, le soleil couchant, radieusement horizontal, éclaire dans les chemins creux le lent retour des génisses s'attardant à mordre les haies à droite et à gauche, ce qui fait aboyer le chien. Les sauvages caps de l'Ouest s'enfoncent en ondulant sous la mer ; quelques rares tamarins y frémissent. Au crépuscule, les murs cyclopéens, laissant passer le jour à travers leurs pierres, font au haut des collines de longues crêtes de guipure noire. Le bruit du vent écouté dans ces solitudes donne une sensation de lointain extraordinaire.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VIII. Saint-Pierre-Port]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6675 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Saint-Pierre-Port, capitale de Guernesey, a été bâti jadis en maisons de bois sculpté, apportées de Saint-Malo. Une belle maison de pierre du seizième siècle subsiste encore dans la Grand'Rue.]{.calibre4}
+
+[Saint-Pierre-Port est port franc. La ville est étagée sur un charmant désordre de vallées et de collines froncées autour du Vieux-Havre comme si elles avaient été prises à poignée par un géant. Les ravins font les rues. Des escaliers abrègent les détours. Les rues fort roides sont montées et descendues au galop par les excellents attelages anglo-normands. Sur la grande place, les femmes du marché, assises en plein air sur le pavé, reçoivent les averses de l'hiver ; mais il y a à quelques pas la statue de bronze d'un prince. Il tombe par an un pied d'eau à Jersey, et dix pouces et demi à Guernesey. Les poissonniers sont mieux traités que les maraîchers ; la poissonnerie, vaste halle couverte, a des tables de marbre où s'étalent magnifiquement les pêches, souvent miraculeuses, de Guernesey.]{.calibre4}
+
+[Il n'y a point de bibliothèque publique. Il y a une société mécanique et littéraire. Il y a un collège. On édifie le plus d'églises qu'on peut. Quand elles sont bâties, on les fait approuver par les « seigneurs du conseil ». Il n'est point rare de voir passer dans la rue des chariots portant les fenestrages ogives en bois donnés par tel charpentier à telle église.]{.calibre4}
+
+[Il y a un palais de justice. Les juges, vêtus de violet, opinent à haute voix. Au siècle dernier, les bouchers ne pouvaient pas vendre une livre de boeuf ou de mouton avant que les magistrats eussent choisi leur viande.]{.calibre4}
+
+[Force « chapelles » particulières protestent contre les églises officielles. Entrez dans une de ces chapelles. Vous entendrez un paysan expliquer à d'autres le nestorianisme, c'est-à-dire la nuance entre la mère du Christ et la mère de Dieu, ou enseigner comme quoi le Père est puissance, tandis que le Fils n'est qu'une sorte de puissance : ce qui ressemble fort à l'hérésie d'Abeilard. Les Irlandais catholiques foisonnent, peu patients ; de façon que les discussions théologiques sont parfois ponctuées de coups de poing orthodoxes.]{.calibre4}
+
+[La stagnation du dimanche fait loi. Tout est permis, excepté de boire un verre de bière le dimanche. Si vous aviez soif le « saint jour du sabbat », vous scandaliseriez le digne Amos Chick qui a licence pour vendre de l'aie et du cidre dans High street. Loi du dimanche : chanter sans boire. En dehors de la prière, on ne dit pas : [mon Dieu]{.italic}, on dit : [mon bon]{.italic}. [Good]{.italic} remplace [God]{.italic}. Une jeune sous-maîtresse française d'un pensionnat, ayant ramassé ses ciseaux avec cette interjection : [Ah mon Dieu !]{.italic} fut congédiée pour avoir « juré ». On est plus biblique encore qu'évangélique.]{.calibre4}
+
+[Il y a un théâtre. Une porte bâtarde, donnant sur un corridor dans une rue déserte, telle est l'entrée. L'intérieur se rapproche du style d'architecture adopté pour les greniers à foin. Satan n'a pas de pompes, et est mal logé. Le théâtre a pour vis-à-vis la prison, autre logis du même individu.]{.calibre4}
+
+[Sur la colline nord, au Castle Carey (solécisme ; il faudrait dire Carey Castle), il existe une précieuse collection de tableaux, la plupart espagnols. Publique, ce serait un musée. Dans certaines maisons aristocratiques subsistent des spécimens curieux de ce carrelage peint de Hollande dont est tapissée la cheminée du czar Pierre à Saardam, et de ces magnifiques tentures de faïence, dites en Portugal [azulejos]{.italic}, produits d'un grand art, la faïencerie ancienne, ressuscité aujourd'hui, plus admirable que jamais, grâce à des initiateurs comme le docteur Lasalle, à des fabriques comme Premières, et à des potiers-peintres comme Deck et Devers.]{.calibre4}
+
+[La chaussée d'Antin de Jersey se nomme Rouge-Bouillon, le faubourg Saint-Germain de Guernesey se nomme les Rohais. Les belles rues correctes y abondent, toutes coupées de jardins. Il y a à Saint-Pierre-Port autant d'arbres que de toits, plus de nids que de maisons, et plus de bruits d'oiseaux que de bruits de voitures. Les Rohais ont la grande apparence patricienne des quartiers hautains de Londres, et sont blancs et propres.]{.calibre4}
+
+[Traversez un ravin, enjambez Mill street, entrez dans une sorte d'entaille entre deux hautes maisons, montez un étroit et interminable degré à coudes tortueux et à dalles branlantes, vous êtes dans une ville bédouine ; masures, fondrières, ruelles dépavées, pignons brûlés, logis effondrés, chambres désertes sans portes ni fenêtres où l'herbe pousse, des poutres traversant la rue, des ruines barrant le passage, çà et là une bicoque habitée, de petits garçons nus, des femmes pâles ; on se croit à Zaatcha.]{.calibre4}
+
+[A Saint-Pierre-Port, on n'est pas horloger, on est montrier ; on n'est pas commissaire-priseur, on est encanteur ; on n'est pas badigeonneur, on est picturier ; on n'est pas maçon, on est plâtreur ; on n'est pas pédicure, on est chiropodiste ; on n'est pas cuisinier, on est couque ; on ne frappe pas à la porte, on [tape à l'hû]{.italic}. M^[me]{.calibre18}^ Pescott est « agente de douanes et fournisseure de navires ». Un barbier annonçait dans sa boutique la mort de Wellington en ces termes : [Le commandant des soudards est mort]{.italic}.]{.calibre4}
+
+[Des femmes vont de porte en porte revendre de petites pacotilles achetées aux bazars ou aux marchés ; cette industrie s'appelle [chiner]{.italic}. Les chineuses, très pauvres, gagnent à grand-peine quelques doubles dans leur journée. Voici un mot d'une chineuse : « Savez-vous que c'est bien joli, j'ai mis de côté dans ma semaine sept sous. » Un passant de nos amis donna un jour à l'une d'elles cinq francs ; elle dit : [Merci bien, monsieur, voilà qui va me permettre d'acheter en gros]{.italic}.]{.calibre4}
+
+[Au mois de mai les yachts commencent à arriver, la rade se peuple de navires de plaisance ; la plupart gréés en goélettes, quelques-uns à vapeur. Tel yacht coûte à son propriétaire cent mille francs par mois.]{.calibre4}
+
+[Le cricket prospère, la boxe décroît. Les sociétés de tempérance règnent, fort utilement, disons-le. Elles ont leurs processions, et promènent leurs bannières avec un appareil presque maçonnique qui attendrit même les cabaretiers. On entend les tavernières dire aux ivrognes en les servant : « Bévez-en un varre, n'en boivez pas une boutelle. »]{.calibre4}
+
+[La population est saine, belle et bonne. La prison de la ville est très souvent vide. A Christmas, le geôlier, quand il a des prisonniers, leur donne un petit banquet de famille.]{.calibre4}
+
+[L'architecture locale a des fantaisies tenaces ; la ville de Saint-Pierre-Port est fidèle à la reine, à la bible, et aux fenêtres-guillotines ; l'été les hommes se baignent nus, un caleçon est une indécence ; il souligne.]{.calibre4}
+
+[Les mères excellent à vêtir les enfants ; rien n'est joli comme cette variété de petites toilettes, coquettement inventées. Les enfants vont seuls dans les rues, confiance touchante et douce. Les marmots mènent les bébés.]{.calibre4}
+
+[En fait de modes, Guernesey copie Paris ; pas toujours. Quelquefois des rouges vifs ou des bleus crus révèlent l'alliance anglaise. Pourtant nous avons entendu une modiste locale, conseillant une élégante indigène, protester contre l'indigo et l'écarlate, et ajouter cette observation délicate : « Je trouve une couleur bien dame et bien comme il faut un beau pensée. »]{.calibre4}
+
+[La charpenterie maritime de Guernesey est renommée ; le carénage regorge de bâtiments au radoub. On tire les navires à terre au son de la flûte. Le joueur de flûte, disent les maîtres charpentiers, fait plus de besogne qu'un ouvrier.]{.calibre4}
+
+[Saint-Pierre-Port a un Pollet comme Dieppe, et un Strand comme Londres. Un homme du monde ne se montrerait pas dans la rue avec un album ou un portefeuille sous le bras, mais va au marché le samedi et porte un panier. Le passage d'une personne royale a servi de prétexte à une tour. On enterre dans la ville. La rue du Collège longe et côtoie à droite et à gauche deux cimetières. Une tombe de février 1610 fait partie d'un mur.]{.calibre4}
+
+[L'Hyvreuse est un square de gazon et d'arbres comparable aux plus beaux carrés des Champs-Elysées de Paris, avec la mer de plus. On voit, aux vitrines de l'élégant bazar dit les Arcades, des affiches telles que celle-ci : [Ici se vend le parfum recommandé par le sixième régiment d'artillerie]{.italic}.]{.calibre4}
+
+[La ville est traversée en tous sens par des haquets chargés de barils de bière ou de sacs de charbon de terre. Le promeneur peut lire encore çà et là d'autres annonces : --- [Ici, on continue à prêter un joli taureau comme par le passé. --- Ici, on donne le plus haut prix pour chiques, plomb, verre, os. --- A vendre, de nouvelles pommes de terre rognonnes, de choix. --- A vendre, rames à pois, quelques tonnes d'avoine pour chaff, un service complet de portes anglicées pour un salon, comme aussi un cochon gras. Ferme de Mon Plaisir. Saint-Jacques. --- A vendre, de bons soubats dernièrement battus, des carottes jaunes par le cent, et une bonne seringue française. S'adresser au moulin de l'échelle Saint-André. --- Défense d'habiller du poisson et de déposer des encombriers. --- A vendre un âne donnant lait. Etc., etc...]{.italic}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IX. Jersey -- Aurigny -- Serk]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6677 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Les îles de la Manche sont des morceaux de France tombés dans la mer et ramassés par l'Angleterre. De là une nationalité complexe. Les Jersiais et les Guernesiais ne sont certainement pas anglais sans le vouloir, mais ils sont français sans le savoir. S'ils le savent, ils tiennent à l'oublier. Cela se voit un peu au français qu'ils parlent.]{.calibre4}
+
+[L'archipel est fait de quatre îles ; deux grandes, Jersey et Guernesey, et deux petites, Aurigny et Serk, sans compter les îlots, Ortach, les Casquets, Herm, Jet-Hou, etc\... Les îlots et les écueils dans cette vieille Gaule sont volontiers qualifiés [Hou]{.italic}. Aurigny a Bur-Hou, Serk a Brecq-Hou, Guernesey a Li-Hou et Jet-Hou, Jersey a les Écré-Hou. Granville a le Pir-Hou. Il y a le cap de la Hougue, la Hougue-bye, la Hougue des Pommiers, les Houmets, etc. Il y a l'île de Chousey, recueil Chouas, etc. Ce remarquable radical de la langue primitive, [hou]{.italic}, se retrouve partout (houle, huée, hure, hourque, houre[[[^[^[[\[24\]]{.calibre20}]{.calibre19}^]{.calibre18}^]{.underline}]{.calibre_4}](index_split_5427.html#filepos47751163){#filepos47631515}, houx, houperon[[[^[^[[\[25\]]{.calibre20}]{.calibre19}^]{.calibre18}^]{.underline}]{.calibre_4}](index_split_5427.html#filepos47751436){#filepos47631762}, hurlement, hulotte, chouette, d'où chouan, etc.) ; il transperce dans les deux mots qui expriment l'indéfini, [unda]{.italic} et [unde]{.italic}. Il est dans les deux mots qui expriment le doute, [ou]{.italic} et [où]{.italic}.]{.calibre4}
+
+[Serk est la moitié d'Aurigny, Aurigny est le quart de Guernesey, Guernesey est les deux tiers de Jersey. Toute l'île de Jersey est exactement grande comme la ville de Londres. Il faudrait pour faire la France deux mille sept cents Jersey. Au calcul de Charassin, excellent agronome pratique, la France, si elle était cultivée comme Jersey, pourrait nourrir deux cent soixante-dix millions d'hommes, toute l'Europe. Des quatre îles, Serk, la plus petite, est la plus belle ; Jersey, la plus grande, est la plus jolie ; Guernesey, sauvage et riante, participe des deux. Il existe à Serk une mine d'argent, inexploitée à cause de la faiblesse du rendement. Jersey a cinquante-six mille habitants, Guernesey trente mille ; Aurigny quatre mille cinq cents ; Serk six cents. Li-Hou, un seul. De l'une de ces îles à l'autre, d'Aurigny à Guernesey et de Guernesey à Jersey, il y a l'enjambée d'une botte de sept lieues. Le bras de mer s'appelle entre Guernesey et Herm le petit Ruau, et entre Herm et Serk le grand Ruau. La pointe de France la plus proche est le cap Flamanville. De Guernesey on entend le canon de Cherbourg, et de Cherbourg on entend le tonnerre de Guernesey. Les orages sur l'archipel de la Manche, nous l'avons dit, sont terribles. Les archipels sont les pays du vent. Entre chaque île, il y a un corridor qui fait soufflet. Loi mauvaise pour la mer et bonne pour la terre. Le vent emporte les miasmes et apporte les naufrages. Cette loi est sur les Channel Islands comme sur les autres archipels. Le choléra a glissé sur Jersey et Guernesey. Il y eut pourtant à Guernesey, au moyen âge, une si furieuse épidémie qu'un baillif brûla les archives pour détruire la peste.]{.calibre4}
+
+[On nomme volontiers ces îles en France [îles anglaises]{.italic} et en Angleterre [îles normandes]{.italic}. Les îles de la Manche battent monnaie ; de cuivre seulement. Une voie romaine, encore visible, menait de Coutances à Jersey.]{.calibre4}
+
+[C'est en 709, nous l'avons dit, que l'océan a arraché Jersey à la France. Douze paroisses furent englouties. Des familles actuellement vivantes en Normandie ont encore la seigneurie de ces paroisses ; leur droit divin est sous l'eau ; cela arrive aux droits divins.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[X. Histoire -- Légende -- R]{.calibre2}eligion]{.bold1}]{.calibre_24} {#calibre_pb_6679 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Les six paroisses primitives de Guernesey appartenaient à un seul seigneur, Néel, vicomte de Cotentin, vaincu à la bataille des Dunes en 1047. En ce temps-là, au dire de Dumaresq, il y avait dans les îles de la Manche un volcan. La date des douze paroisses de Jersey est inscrite dans le Livre Noir de la cathédrale de Coutances. Le sire de Briquebec s'intitulait baron de Guernesey. Aurigny était le fief d'Henri l'Artisan. Jersey a subi deux voleurs, César et Rollon.]{.calibre4}
+
+[[Haro]{.italic} est un cri au duc ([Ha ! Rollo !]{.italic})[,]{.italic} à moins qu'il ne vienne du saxon [haran]{.italic}, crier. Le cri [Haro]{.italic} se répète trois fois, à genoux, sur la grande route, et tout travail cesse dans le lieu où le cri a été poussé jusqu'à ce que justice ait été rendue.]{.calibre4}
+
+[Avant Rollon, duc des Normands, il y avait eu, sur l'archipel, Salomon, roi des Bretons. De là beaucoup de Normandie à Jersey et beaucoup de Bretagne à Guernesey ; la nature y répercute l'histoire ; Jersey a plus de prairies, et Guernesey plus de rochers ; Jersey est plus verte et Guernesey plus âpre.]{.calibre4}
+
+[Les gentilhommières couvraient les îles. Le comte d'Essex a laissé une ruine à Aurigny, Essex Castle. Jersey a Montorgueil, Guernesey le château Cornet. Le château Cornet est construit sur un rocher qui a été un Holm, ou Heaume. Cette métaphore se retrouve dans les Casquets, Casques. Le château Cornet a été assiégé par le pirate picard Eustache, et Montorgueil par Duguesclin ; les forteresses comme les femmes se vantent de leurs assiégeants quand ils sont illustres.]{.calibre4}
+
+[Un pape, au quinzième siècle, a déclaré Jersey et Guernesey îles neutres. Il songeait à la guerre, et non au schisme. Calvin, prêché à Jersey par Pierre Morice et à Guernesey par Nicolas Baudoin, a fait son entrée dans l'archipel normand en 1563. Il y a prospéré, ainsi que Luther, fort gêné pourtant aujourd'hui par le wesleyanisme, excroissance du protestantisme qui contient l'avenir de l'Angleterre.]{.calibre4}
+
+[Les églises abondent dans l'archipel. Le détail vaut la peine qu'on y insiste ; partout des temples ; la dévotion catholique est distancée ; un coin de terre de Jersey ou de Guernesey porte plus de chapelles que n'importe quel morceau de terre espagnole ou italienne de même grandeur. Méthodistes proprement dits, méthodistes primitifs, méthodistes connexes, méthodistes indépendants, baptistes, presbytériens, millénaires, quakers, bible-christians, brethrens (frères de Plymouth), non-sectériens, etc. ajoutez l'église épiscopale anglicane, ajoutez l'église romaine papiste. On voit à Jersey une chapelle mormone.]{.calibre4}
+
+[Dans la fontaine Saint-Georges, au Câtel, les filles voient l'image de l'homme qu'elles épouseront. Une autre source d'eau courante, à Saint-André, je crois, fait parler vrai les menteurs qui ont le malheur d'en boire. Si une femme racle la pierre d'un dolmen, délaie dans l'eau cette poudre qui devient « de la pérelle », et la boit, elle est sûre de faire des enfants robustes. On peut aussi racler avec succès un mur d'église. Dans chaque baie habite une elfe qui, si un enfant lui donne son gâteau, donnera plus tard, selon le sexe, une dot à la petite fille devenue grande fille ou une barque toute gréée au gars devenu homme. Il y a deux géants ; le géant Longis, père de Gayoffe, père de Bolivorax, père de Pantagruel, et le géant Bodu, qui n'est plus qu'un chien noir par sa faute, ayant eu des galanteries avec une princesse, ce dont les fées l'ont puni. Ce chien noir, qui est Bodu, fait concurrence, dans les contes de bonnes femmes, au chien blanc, qui est Gaultier de la Salle, le bailli pendu. Les connaisseurs en fantômes ont, dans les îles de la Manche, toutes sortes de variétés à étudier ; les drées ne sont pas des alleurs, les alleurs ne sont pas des auxcriniers, les auxcriniers ne sont pas des cucuches. Dans ces pays-là, personne n'est bien aise de rencontrer, à la nuit tombée, une poule noire.]{.calibre4}
+
+[Un certain retour au catholicisme se fait dans certaines paroisses. A l'heure où nous sommes, il commence à pousser des croix aux pointes des clochers. Signe de puseysme. On entend l'orgue dans les églises, et même dans les chapelles ; ce qui eût indigné Knox. Du reste, les personnes saintes abondent ; quelques-unes possèdent à un degré très remarquable l'horreur des « mécréants ». Cette horreur semble innée chez plusieurs. Le protestantisme excelle, autant que le catholicisme, à la développer. Une femme du très grand monde, à Londres, est célèbre pour le don qu'elle a de se trouver mal dans les maisons où il y a un exemplaire du livre du docteur Colenso. Elle entre et s'écrie : Ce livre est ici ! et elle s'évanouit. On cherche, et l'on trouve le livre. Ce sont là de précieuses facultés.]{.calibre4}
+
+[On reconnaît les bibles orthodoxes à ce que Satan y est écrit sans majuscule : [satan]{.italic}. C'est bien fait.]{.calibre4}
+
+[A propos de Satan, on hait Voltaire. Le mot [Voltaire]{.italic} est, à ce qu'il paraît, une des prononciations du nom de Satan. Quand il s'agit de Voltaire, toutes les dissidences se rallient, le mormon coïncide avec l'anglican, l'accord se fait dans la colère, et toutes les sectes ne sont plus qu'une haine. L'anathème à Voltaire est le point d'intersection de toutes les variétés du protestantisme. Un fait remarquable, c'est que le catholicisme déteste Voltaire, et que le protestantisme l'exècre. Genève enchérit sur Rome. Il y a crescendo dans la malédiction. Calas, Sirven, tant de pages éloquentes contre les dragonnades n'y font rien. Voltaire a nié le dogme, cela suffit. Il a défendu les protestants, mais il a blessé le protestantisme. Les protestants le poursuivent d'une ingratitude orthodoxe. Quelqu'un qui avait à parler en public à Saint-Hélier pour une quête, fut prévenu que, s'il nommait Voltaire dans son discours, la quête avorterait. Tant que le passé aura assez de souffle pour avoir la parole, Voltaire sera rejeté. Écoutez toutes ces voix : il n'a ni génie, ni talent, ni esprit. On l'a insulté vieux, on le proscrit mort. Il est éternellement « discuté ». C'est là sa gloire. Parler de Voltaire avec calme et justice, est-ce que c'est possible ? Quand un homme domine un siècle et incarne le progrès, il n'a plus affaire à la critique, mais à la haine.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XI. Les vieux repaires et les vieux saints]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6681 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Les Cyclades dessinent le cercle ; l'archipel de la Manche dessine le triangle. Quand on regarde sur une carte, ce qui est la vue à vol d'oiseau de l'homme, les Channel Islands, un segment de mer triangulaire se découpe entre ces trois points culminants, Aurigny, qui marque la pointe nord, Guernesey, qui marque la pointe ouest, Jersey, qui marque la pointe sud. Chacune de ces trois îles mères a autour d'elle ce qu'on pourrait nommer ses poussins d'îlots. Aurigny a Bur-Hou, Ortach et les Casquets ; Guernesey a Herm, Jet-Hou et Li-Hou ; Jersey ouvre du côté de la France le cintre de sa baie de Saint-Aubin, vers laquelle ces deux groupes, épars mais distincts, les Grelets et les Minquiers, semblent, dans le bleu de l'eau, qui est, comme l'air, un azur, se précipiter ainsi que deux essaims vers une porte de ruche. Au centre de l'archipel, Serk, à laquelle se rattachent Brecq-Hou et l'île aux Chèvres, est le trait d'union entre Guernesey et Jersey. La comparaison des Cyclades aux Charmel Islands eût certainement frappé l'école mystique et mythique qui, sous la restauration, se rattachait à de Maistre par d'Eckstein, et lui eût fourni matière à un symbole : l'archipel d'Hellas arrondi, [ore rotundo]{.italic} ; l'archipel de la Manche aigu, hérissé, hargneux, anguleux ; l'un pareil à l'harmonie, l'autre à la chicane ; ce n'est pas pour rien que l'un est grec et que l'autre est normand.]{.calibre4}
+
+[Jadis, avant les temps historiques, ces îles de la Manche étaient féroces. Les premiers insulaires étaient probablement de ces hommes primitifs dont le type se retrouve au Moulin-Quignon, et qui appartenaient à la race aux mâchoires rentrantes. Ils vivaient une moitié de l'année de poisson et de coquillages, et l'autre moitié, d'épaves. Piller leur côte était leur ressource. Ils ne connaissaient que deux saisons, [la saison de pêche]{.italic} et [la saison de naufrage]{.italic}, de même que les Groënlandais appellent l'été [la chasse aux rennes]{.italic} et l'hiver [la chasse aux phoques]{.italic}. Toutes ces îles, plus tard normandes, étaient des chardonnières, des ronceraies, des trous à bêtes, des logis de forbans. Un vieux chroniqueur local dit énergiquement : [Ratières et piratières]{.italic}. Les Romains y vinrent, et ne firent faire à la probité qu'un pas médiocre ; ils crucifiaient les pirates, et célébraient les [Furinales]{.italic}, c'est-à-dire la fête des filous. Cette fête se célèbre encore dans quelques-uns de nos villages le 25 juillet, et dans nos villes toute l'année.]{.calibre4}
+
+[Jersey, Serk et Guernesey s'appelaient jadis [Ange]{.italic}, [Sarge]{.italic} et [Bissarge]{.italic}. Aurigny est Redanae, à moins que ce ne soit Thanet. Une légende affirme que dans l'île des Rats, [insula rattorum]{.italic}, de la promiscuité des lapins mâles et des rats femelles naît le cochon d'Inde, « Turkey conie ». A en croire Furetière, abbé de Chalivoy, le même qui reprochait à La Fontaine d'ignorer la différence du bois en grume et du bois marmenteau, la France a été longtemps sans apercevoir Aurigny sur sa côte. Aurigny en effet ne tient dans l'histoire de Normandie qu'une place imperceptible. Rabelais pourtant connaissait l'archipel normand ; il nomme Herm et Serk, qu'il appelle Cercq. « Je vous asseure que telle est cette terre icy, quelles autres fois l'ai veu les isles de Cercq et Herm, entre Bretagne et Angleterre ». [[[[^\[26\]^]{.calibre_21}]{.underline}]{.calibre_4}](index_split_5427.html#filepos47751688){#filepos47647911}]{.calibre4}
+
+[Les Casquets sont un redoutable lieu de naufrages. Les Anglais, il y a deux cents ans, avaient pour industrie d'y repêcher les canons. Un de ces canons, couvert d'huîtres et de moules, est au musée de Valognes.]{.calibre4}
+
+[Herm est un eremos. Saint Tugdual, ami de saint Sampson, a été en prière à Herm, de même que saint Magloire à Serk. Il y a eu des auréoles d'ermites sur toutes ces pointes d'écueils. Hélier priait à Jersey et Marcouf dans les rochers du Calvados. C'était le temps ou l'ermite Éparchius devenait saint Cybard dans les cavernes d'Angoulême et où l'anachorète Crescentius, au fond des forêts de Trêves, faisait crouler un temple de Diane, en le regardant fixement pendant cinq ans. C'est à Serk, qui était son sanctuaire, son « Ionad naomh », que Mac-Gloir composa l'hymne de la Toussaint, refaite par Santeuil, [Coelo quos eadem gloria consecrat]{.italic}. C'est de là encore qu'il jetait des pierres aux saxons dont les flottes pillardes vinrent à deux reprises le déranger dans son oraison. L'archipel était aussi quelque peu incommodé à cette époque par l'amwarydour, cacique de la colonie celte. De temps en temps Magloire passait l'eau, et allait se concerter avec le Mactierne de Guernesey, Nivou, lequel était un prophète. Magloire un jour, ayant fait un miracle, fit voeu de ne plus manger de poisson. En outre, pour conserver les moeurs des chiens et ne point donner de coupables pensées à ses moines, il bannit de l'île de Serk les chiennes, loi qui subsiste encore. Saint Magloire rendit à l'archipel plusieurs autres services. Il alla à Jersey mettre à la raison la populace qui avait, le jour de Noël, la mauvaise habitude de se changer en toutes sortes de bêtes, en l'honneur de Mithras. Saint Magloire fit cesser cet abus. Ses reliques furent volées, sous le règne de Nominoë, feudataire de Charles le Chauve, par les moines de Lehon-les-Dinan. Tous ces faits sont prouvés par les bollandistes, [Acta Sancti Marculphi]{.italic}, etc., et par l'Histoire Ecclésiastique de l'abbé Trigan. Victrice de Rouen, ami de Martin de Tours, avait sa grotte à Serk, qui, au onzième siècle, relevait de l'abbaye de Montebourg. A l'heure où nous parlons, Serk est un fief immobilisé entre quarante tenanciers.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XII.]{.calibre2} Particularités locales]{.bold1}]{.calibre_24} {#calibre_pb_6683 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Chaque île a sa monnaie à part, son patois à part, son gouvernement à part, ses préjugés à part. Jersey s'inquiète d'un français propriétaire. S'il allait acheter toute l'île ! A Jersey, défense aux étrangers d'acheter de la terre ; à Guernesey, permission. En revanche, l'austérité religieuse est moindre dans la première île que dans la seconde, le dimanche jersiais a la clef des champs que n'a point le dimanche guernesiais. La bible est exécutoire à Saint-Pierre-Port plus qu'à Saint-Hélier. L'achat d'une propriété à Guernesey se complique, particulièrement pour l'étranger ignorant, d'un péril singulier ; l'acheteur répond sur son acquêt, pendant vingt ans, de la situation commerciale et financière du vendeur telle qu'elle était au moment précis où la vente a eu lieu.]{.calibre4}
+
+[D'autres enchevêtrements naissent de la diversité des monnaies et des mesures. Le schelling, notre ancien ascalin ou chelin, vaut vingt-cinq sous en Angleterre, vingt-six sous à Jersey et vingt-quatre sous à Guernesey. Le « poids de la reine » a, lui aussi, des caprices ; la livre guernesiaise n'est pas la livre jersiaise, qui n'est pas la livre anglaise. A Guernesey on mesure le champ en vergées et la vergée en perches. Ce mesurage change à Jersey. A Guernesey on ne se sert que d'argent français, et l'on ne nomme que l'argent anglais. Un franc s'appelle un « dix pence ». L'absence de symétrie va jusque-là qu'il y a dans l'archipel plus de femmes que d'hommes ; six femmes pour cinq hommes.]{.calibre4}
+
+[Guernesey a eu beaucoup de sobriquets, quelques-uns archéologiques ; elle est pour les savants [Granosia]{.italic}, et pour les loyaux [la Petite Angleterre]{.italic}. Elle ressemble en effet par sa forme géométrale à l'Angleterre ; Serk serait son Irlande, mais une Irlande à l'Est. Guernesey a dans ses eaux deux cents variétés de testacés et quarante espèces d'épongés. Elle a été dédiée par les Romains à Saturne, mais par les celtes à Gwyn ; elle n'y a pas gagné grand-chose, Gwyn est, comme Saturne, un mangeur d'enfants. Elle a un vieux code français qui date de 1331 et qu'on intitule [le Précepte d'Assize]{.italic}. De son côté Jersey a trois ou quatre vieilles tables normandes, la cour d'héritage, où ressortissent les fiefs, la cour de Catel, qui est criminelle, la cour du Billet, qui est un tribunal de commerce, et la cour du Samedi, qui est une police correctionnelle. Guernesey exporte du vinaigre, du bétail et des fruits, mais surtout elle s'exporte elle-même ; son principal commerce, c'est le gypse et le granit. Guernesey a trois cent cinq maisons inhabitées. Pourquoi ? La réponse, pour quelques-unes du moins, est peut-être dans un des chapitres de ce livre. Les Russes baraqués à Jersey au commencement de ce siècle ont laissé leur souvenir dans les chevaux ; le cheval jersiais est un composé du cheval normand et du cheval cosaque ; c'est un admirable coureur et un marcheur puissant. Il pourrait porter Tancrède et traîner Mazeppa.]{.calibre4}
+
+[Au dix-septième siècle, il y a eu guerre civile entre Guernesey et le château Cornet, le château Cornet étant pour Stuart et Guernesey pour Cromwell. C'est à peu près comme si l'île Saint-Louis déclarait la guerre au quai des Ormes. À Jersey il existe deux factions, la Rose et le Laurier ; diminutifs des whigs et des tories. La division, la hiérarchie, la caste, le compartiment, plaisent aux insulaires de cet archipel, si bien qualifié « [la Normandie inconnue »]{.italic}. Les Guernesiais en particulier ont tellement le goût des îles qu'ils font des îles dans la population ; en haut de ce petit ordre social, soixante familles, les [sixty]{.italic}, vivent à part ; à mi-côte, quarante familles, les [forty]{.italic}, font un autre groupe, également isolé ; autour est le peuple. Quant à l'autorité, tout à la fois locale et anglaise, elle se décompose ainsi : dix paroisses, dix recteurs, vingt connétables, cent soixante douzeniers une cour royale avec procureur et un contrôle, un parlement, dit les Etats, douze juges appelés juvats, un bailli qualifié baillif. [Ballivus]{.italic} et [coronator]{.italic}, disent les vieilles chartes. Pour loi la coutume de Normandie. Le procureur est nommé par commission et le baillif par patente ; nuance anglaise fort sérieuse. Outre le baillif qui gouverne le civil, il y a le doyen qui règle le spirituel, et le gouverneur qui régit le militaire. Le détail des autres offices est indiqué dans le « tableau des Messieurs qui ont les premiers postes dans l'île ».]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIII. Travail de la civilisation dans l'archipel]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6685 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Jersey est le septième port de l'Angleterre. En 1845, l'archipel possédait quatre cent quarante navires jaugeant quarante-deux mille tonneaux ; il se faisait dans ses ports un va-et-vient de soixante mille tonneaux entrant et de cinquante-quatre mille tonneaux sortant sur douze cent soixante-cinq navires de toutes nations, dont cent quarante-deux steamers. Ces chiffres ont plus que triplé en vingt ans.]{.calibre4}
+
+[La monnaie fiduciaire fonctionne dans les îles sur Une large échelle et donne d'excellents résultats. A Jersey, émet des billets de banque qui veut ; si ces billets résistent à l'afflux du remboursement, la banque est fondée. Le billet de banque de l'archipel est invariablement d'une livre sterling. Le jour où le billet à rente serait compris des Anglo-Normands, ils le pratiqueraient sans nul doute, et l'on aurait ce curieux spectacle de voir le même fait à l'état d'utopie en Europe et de progrès accompli dans les Channel Islands. La révolution financière serait microscopiquement faite dans ce petit coin du monde.]{.calibre4}
+
+[Une intelligence ferme, vive, alerte, rapide, caractérise les jersiais, qui seraient, s'ils voulaient, d'admirables français. Les guernesiais, tout aussi pénétrants et tout aussi solides, sont plus lents.]{.calibre4}
+
+[Ce sont de vaillantes et fortes populations, éclairées plus qu'on ne croit, et chez lesquelles on a plus d'un étonnement. Les journaux y abondent, en anglais et en français, six à Jersey, quatre à Guernesey, de fort grands et de fort bons journaux. Tel est le puissant et irréductible instinct anglais. Supposez une île déserte ; le lendemain de son arrivée, Robinson fait un journal, et Vendredi s'y abonne.]{.calibre4}
+
+[Pour complément l'affiche. Affichage illimité et colossal. Pancartes de toute couleur et de toute dimension, majuscules, images, textes illustrés en plein air ; sur tous les murs de Guernesey, une vaste vignette, représentant un homme de six pieds de haut une cloche à la main, sonne le tocsin de l'annonce. Guernesey, à cette heure, a plus d'affiches que toute la France.]{.calibre4}
+
+[De cette publicité sort la vie. Vie de la pensée très souvent, avec des résultats inattendus, nivelant la population par l'habitude de lire, qui produit la dignité des manières. Vous causez sur la route de Saint-Hélier ou de Saint-Pierre-Port avec un passant irréprochable, vêtu de noir, sévèrement boutonné, au linge très blanc, vous parlant de John Brown et s'informant de Garibaldi. C'est un révérend ? point. C'est un bouvier. Un écrivain contemporain arrive à Jersey, entre chez un épicier[[[^[^[[\[27\]]{.calibre20}]{.calibre19}^]{.calibre18}^]{.underline}]{.calibre_4}](index_split_5427.html#filepos47752052){#filepos47660645}, et dans un magnifique salon attenant au magasin, aperçoit derrière une vitrine ses oeuvres complètes reliées dans une haute et large bibliothèque surmontée d'un buste d'Homère.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIV.]{.calibre2} Autres particularités]{.bold1}]{.calibre_24} {#calibre_pb_6687 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[D'une île à l'autre, on fraternise ; on se raille aussi, doucement. Aurigny, subordonnée à Guernesey, s'en fâche parfois, et voudrait tirer à elle le bailliage et faire de Guernesey son satellite. Guernesey riposte, sans colère, par cette « riselée » populaire :]{.calibre4}
+
+[
+Hale, Pier'hale, Jean,
+L'Guernesey vian.]{.calibre_10}
+
+[ ]{.calibre4}
+
+[Ces insulaires, étant une famille de mer, ont parfois de l'amertume, jamais d'aigreur ; qui leur prête des grossièretés, les méconnaît. Nous n'ajoutons aucune foi au prétendu dialogue proverbial entre Jersey et Guernesey : »[Vous êtes des ânes.]{.italic} » Réplique : « [Vous êtes des crapauds. »]{.italic} C'est là une salutation dont l'archipel normand est incapable. Vadius et Trissotin devenus deux îles de l'océan, nous n'admettons point cela.]{.calibre4}
+
+[Aurigny, du reste, a son importance relative. Pour les Casquets, Aurigny est Londres. La fille du garde-phare Houguer, née aux Casquets, fit à l'âge de vingt ans, le voyage d'Aurigny. Elle fut éperdue du tumulte et redemanda son rocher. Elle n'avait jamais vu de boeufs. En apercevant un cheval, elle s'écria : Quel gros chien !]{.calibre4}
+
+[On est très jeune vieux, non de fait, mais de droit, en ces îles normandes. Deux passants causent : Le bon homme qui venait tous les jours par ici, il est mort. --- Quel âge avait-il ? --- Mais bien trente-six ans.]{.calibre4}
+
+[Les femmes de cette Normandie insulaire sont, est-ce un blâme ? est-ce un éloge ? difficilement servantes. Deux dans la même maison ont quelque peine à s'accorder. Elles ne se font aucune concession ; de là un service peu souple, très intermittent, et fort cahoté. Elles s'occupent médiocrement de leur maître, sans lui en vouloir. Il devient ce qu'il peut. En 1852, une famille française, débarquée à Jersey à la suite d'événements, prit à son service une cuisinière native de Saint-Brelade et une femme de chambre native de Boulay-Bay. Un matin de décembre, le maître de la maison, levé au petit jour, trouva la porte du logis, qui donnait sur un grand chemin, ouverte à deux battants, et plus de servantes. Les deux femmes n'avaient pu s'entendre, et à la suite d'une querelle, ayant probablement du reste quelques motifs pour se considérer comme payées de leurs gages, elles avaient empaqueté leurs nippes et s'en étaient allées, chacune de son côté, au milieu de la nuit, laissant derrière elles leurs maîtres endormis et la porte ouverte. L'une avait dit à l'autre : [Je ne reste pas avec une beuveresse]{.italic}, et l'autre avait répliqué : [Je ne reste pas avec une voleresse]{.italic}.]{.calibre4}
+
+[[Toujours les deux sur les dix]{.italic} est une séculaire locution proverbiale du pays. Que signifie-t-elle ? Que jamais, si vous avez chez vous un homme de peine ou une femme de service, vos deux yeux ne quittent ses dix doigts. Conseil de maître avare ; c'est la vieille défiance qui dénonce la vieille paresse. Diderot raconte que pour un carreau cassé à sa fenêtre, en Hollande, cinq ouvriers vinrent ; un portait la vitre neuve, un le mastic, un le seau d'eau, un la truelle, et un autre l'éponge. En deux jours, et à eux cinq, ils remirent la vitre.]{.calibre4}
+
+[Ce sont là, disons-le, les antiques langueurs gothiques, nées du servage comme les indolences créoles sont nées de l'esclavage, vices communs à tous les peuples, et qui de nos jours disparaissent partout au frottement du progrès, dans les Channel Islands comme ailleurs, et peut-être plus rapidement qu'ailleurs. Dans ces industrieuses communautés insulaires, l'activité, qui fait partie de la probité, est de plus en plus la loi du travail.]{.calibre4}
+
+[Dans l'archipel de la Manche, certaines choses du passé sont encore visibles. Ceci par exemple : « COUR DE FIEF, tenue en la paroisse de Saint-Ouen, en la maison de M. Malzard, le lundi 22 mai 1854, heure de midi. La cour est présidée par le sénéchal, ayant à sa droite le prévôt et à sa gauche le sergent. Assiste à l'audience, noble écuyer, sire de Morville et autres lieux, possédant en lige une partie de la paroisse. Le sénéchal a requis du prévôt le serment, dont la teneur suit : --- Vous jurez et promettez, par votre foi en Dieu, que bien et fidèlement vous exercerez la charge de prévôt de la cour du fief et Seigneurie de Morville, et conserverez le droit du Seigneur. Et ledit prévôt, ayant levé la main et salué le Seigneur, a dit : « Je l'jurons ».]{.calibre4}
+
+[L'archipel normand parle français, avec quelques variantes comme on voit. Paroisse se prononce [paresse]{.italic}. On a « un mâ à la gambe qui n'est pas commua ». --- Comment vous portez-vous ? --- Petitement. Moyennement. Tout à l'aisi. C'est-à-dire : mal, pas mal, bien. Être triste, c'est « avoir les esprits bas » ; sentir mauvais, c'est avoir « un mauvais sent » ; causer du dégât, c'est « faire du ménage » ; balayer sa chambre, laver sa vaisselle, etc., c'est « picher son fait » ; le baquet, souvent plein d'immondices, c'est « le bouquet ». On n'est pas ivre, on est « bragi ». On n'est pas mouillé, on est « mucre ». Être hypocondriaque, c'est avoir des « fixes ». Une fille est une « hardelle », un tablier est un « devantier », une nappe est un « doublier », une robe est un « dress », une poche est une « pouque », un tiroir est un « haleur », un chou est une « caboche », une armoire est une « presse », un cercueil est un « coffre à mort », les étrennes sont des « irvières », la chaussée est la « cauchie », un masque est un « visagier », les pilules sont des « boulets ». Bientôt, c'est « bien dupartant ». La halle est peu garnie, la denrée est rare ; le poisson et les légumes sont « écarts ». Les pommes de terre de l'espèce précoce sont à Guernesey [temprunes]{.italic} et à Jersey [heurives]{.italic}. Plaider, bâtir, voyager, tenir maison, avoir table ouverte, donner des fêtes, c'est [coûtageux]{.italic} (en Belgique, et dans la Flandre française, [frayeux]{.italic}). Une fille ne se laisse pas embrasser de peur de revenir chez ses parents [bouquie]{.italic} (ébouriffée, décoiffée). [Noble]{.italic} est un des mots les plus usités dans ce français local. Toute chose réussie est « un noble train ». Une cuisinière rapporte du marché « un noble quartier de veau ». Un canard est « un noble pirot ». Une oie grasse est « un noble picot ». La langue judiciaire et légale a, elle aussi, l'arrière-goût normand. Un dossier de procès, une requête, un projet de loi, sont « logés au greffe ». Un père qui marie sa fille ne lui doit rien « pendant qu'elle est couverte de mari ».]{.calibre4}
+
+[Aux termes de la coutume normande, une fille non mariée, qui est grosse, désigne le père de son enfant dans la population. Elle le choisit quelquefois un peu. Cela n'est pas sans quelque inconvénient.]{.calibre4}
+
+[Le français que parlent les anciens habitants de l'archipel n'est peut-être pas tout à fait de leur faute.]{.calibre4}
+
+[Il y a une quinzaine d'années, plusieurs Français arrivèrent à Jersey, nous venons d'indiquer ce détail. (Disons-le en passant, on ne comprenait pas bien pourquoi ils avaient quitté leur pays ; quelques habitants les appelaient [ces biaux révoltés]{.italic}.) Un de ces Français reçut la visite d'un vieux professeur de langue française, établi depuis longtemps, disait-il, dans le pays. C'était un Alsacien, accompagné de sa femme. Il montrait peu d'estime pour le français normand qui est l'idiome de la Manche. En entrant il s'écria : « J'ai pien te la beine à leur abrendre le vranzais. On barle ici badois.]{.calibre4}
+
+[--- Comment badois ?]{.calibre4}
+
+[--- Oui, badois.]{.calibre4}
+
+[--- Ah ! patois ?]{.calibre4}
+
+[--- C'est ça, badois. »]{.calibre4}
+
+[Le professeur continua ses plaintes sur le « badois » normand. Sa femme lui ayant adressé la parole, il se tourna vers elle et lui dit : « Ne me vaites bas ici te zènes gonchicales. »]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XV. Antiquités et antiquailles -- Coutumes, lois et moeurs]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6689 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Aujourd'hui, constatons-le, les îles normandes, qui possèdent chacune leur collège et de nombreuses écoles, ont d'excellents professeurs, les uns français, les autres guernesiais et jersiais.]{.calibre4}
+
+[Quant au patois, dénoncé par le professeur alsacien, c'est une vraie langue, point méprisable du tout. Ce patois est un idiome complet, très riche et très singulier. Il éclaire de sa lueur obscure, mais profonde, les origines de la langue française. Ce patois a des savants spéciaux, parmi lesquels il faut citer le traducteur de la Bible en guernesiais, M. Métivier, qui est à la langue celte-normande ce que l'abbé Éliçagaray était à la langue hispano-basque.]{.calibre4}
+
+[Il y a dans l'île de Guernesey une chapelle à toit de pierre du huitième siècle, et une statue gauloise du sixième, qui sert de chambranle à une porte de cimetière ; exemplaires probablement uniques. Un autre exemplaire unique est ce descendant de Rollon, très digne gentleman dont nous avons parlé. Il consent à traiter de cousine la reine Victoria.]{.calibre4}
+
+[La descendance paraît prouvée et n'a rien d'improbable.]{.calibre4}
+
+[Dans ces îles, nous l'avons dit, on tient à son blason. Nous avons entendu une M. faire ce reproche aux D. : [Ils nous ont pris nos armoires pour les mettre sur leurs tombeaux.]{.italic}]{.calibre4}
+
+[Un paysan dit : Mes ancêtres.]{.calibre4}
+
+[Les fleurs de lys abondent. L'Angleterre prend volontiers les modes que la France quitte. Peu de bourgeois situés entre cour et jardin se privent d'une clôture fleurdelysée.]{.calibre4}
+
+[On est très chatouilleux sur les mésalliances. Dans je ne sais plus laquelle des îles, à Aurigny, je crois, le fils d'une dynastie très ancienne de marchands de vin s'étant mésallié avec la fille d'un chapelier récent, l'indignation fut universelle, toute l'île blâma ce fils, et une vénérable dame s'écria : [Est-ce là une coupe à faire boire à des parents !]{.italic} La princesse Palatine n'était pas plus tragiquement exaspérée quand elle reprochait à une de ses cousines, mariée au prince de Tingry, de s'être « encanaillée d'un Montmorency ».]{.calibre4}
+
+[A Guernesey donner le bras à une femme signifie fiançailles. Une nouvelle mariée, les huit jours qui suivent sa noce, ne sort que pour aller aux offices. Un peu de prison assaisonne la lune de miel. Une certaine honte est d'ailleurs convenable. Le mariage exige si peu de formalités qu'il peut être latent. Cahaigne, à Jersey, a entendu cet échange de questions et de réponses entre une mère, vieille femme, et sa fille, âgée de quarante ans : Pourquoi n'épousez-vous pas ce Stevens ? --- Vous voulez donc, ma mère, que je l'épouse deux fois ? --- Comment cela ? --- Voilà quatre mois que nous sommes mariés.]{.calibre4}
+
+[A Guernesey, en octobre 1863, une fille a été condamnée à six semaines de prison « pour avoir ennuyé son père ».]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVI. Suite des particularités]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6691 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Les îles de la Manche n'ont encore que deux statues, l'une à Guernesey, du « prince-consort », l'autre à Jersey, qu'on appelle [le Roi Doré]{.italic}, on la nomme ainsi, ignorant quel personnage elle représente et ne sachant pas qui elle immortalise. Elle est au centre de la grande place de Saint-Hélier. Une statue anonyme, c'est toujours une statue, cela flatte l'amour-propre d'une population, c'est probablement la gloire de quelqu'un. Rien ne sort plus lentement de terre qu'une statue, et rien ne pousse plus vite. Quand ce n'est pas le chêne, c'est le champignon. Shakespeare attend toujours sa statue en Angleterre, Beccaria attend toujours sa statue en Italie, mais il paraît que M. Dupin va avoir la sienne en France. On aime à voir ces hommages publics rendus aux hommes qui honorent un pays, comme à Londres, par exemple, où l'émotion, l'admiration, le regret, et la foule en deuil ont été crescendo aux trois enterrements de Wellington, de Palmerston, et du boxeur Tom Sayers.]{.calibre4}
+
+[Jersey a un Mont-aux-Pendus, ce qui manque à Guernesey. Il y a soixante ans on a pendu un homme à Jersey pour douze sous pris dans un tiroir ; il est vrai qu'à la même époque en Angleterre on pendait un enfant de treize ans pour un vol de gâteaux et en France on guillotinait Lesurques, innocent. Beautés de la peine de mort.]{.calibre4}
+
+[Aujourd'hui Jersey, plus avancée que Londres, ne tolérerait plus le gibet. La peine de mort est tacitement abolie.]{.calibre4}
+
+[En prison on surveille fort les lectures. Un prisonnier n'a droit qu'à la Bible. En 1830, on permit à un Français condamné à mort, nommé Béasse, de lire, en attendant la potence, les tragédies de Voltaire. Cette énormité ne serait plus tolérée aujourd'hui. Ce Béasse est l'avant-dernier pendu de Guernesey. Tapner est, et sera, espérons-le, le dernier.]{.calibre4}
+
+[Jusqu'en 1825, le bailli de Guernesey recevait pour traitement les trente livres tournois qu'il avait au temps d'Edouard III ; environ cinquante francs. Aujourd'hui il a trois cents livres sterling. A Jersey, la cour royale se nomme [la Cohue]{.italic}. Une femme qui fait un procès s'appelle [l'actrice]{.italic}. A Guernesey on condamne les gens au fouet ; à Jersey, on met l'accusé dans une cage en fer. On rit des reliques des saints, mais on vénère les vieilles bottes de Charles II. Elles sont respectueusement conservées au manoir de Saint-Ouen. La dîme est en vigueur. On rencontre en se promenant les magasins des dîmeurs. Le jambage semble aboli, mais le poulage sévit. Celui qui écrit ces lignes donne deux poules par an à la reine d'Angleterre.]{.calibre4}
+
+[L'impôt est un peu bizarrement assis sur la fortune totale, réelle ou conjecturée, du contribuable. Ceci a l'inconvénient de ne point attirer dans l'île les grands consommateurs. M. de Rothschild, s'il habitait à Guernesey quelque joli cottage acheté une vingtaine de mille francs, paierait quinze cent mille francs d'impôt par an. Ajoutons que, s'il ne résidait que cinq mois de l'année, il ne paierait rien. C'est le sixième mois qui est grave.]{.calibre4}
+
+[Climat, un printemps répandu. L'hiver, soit ; l'été, sans doute ; mais sans excès ; jamais de Sénégal, jamais de Sibérie. Les îles de la Manche sont les îles d'Hyères de l'Angleterre. On y envoie les poitrines délicates d'Albion. Telle paroisse de Guernesey, Saint-Martin, par exemple, passe pour une petite Nice. Aucune Tempe, aucune Gémenos, aucun Val-Suzon, ne dépasse la vallée des Vaux à Jersey et la vallée des Talbots à Guernesey. A ne voir que les versants méridionaux, rien de plus vert, de plus tiède et de plus frais que cet archipel. La high life y est possible. Ces petites îles ont leur grand monde. On y parle français, nous venons de le rappeler, on dit dans la haute société : [Elle a-z-une rose à son chapeau]{.italic}. A cela près, conversations charmantes.]{.calibre4}
+
+[Jersey admire le général Don ; Guernesey admire le général Doyle. Ce sont deux anciens gouverneurs du commencement de ce siècle. On trouve à Jersey Don-Street et à Guernesey Doyle-Road. En outre, Guernesey a bâti et dédié à son général une grande colonne qui domine la mer et qu'on voit des Casquets, et Jersey a fait cadeau au sien d'un cromlech. Ce cromlech avoisinait Saint-Hélier ; il était sur la colline où est aujourd'hui le fort Régent. Le général Don a accepté le cromlech, l'a fait charrier bloc à bloc sur le rivage, l'a embarqué sur une frégate, et l'a emporté. Ce monument était la merveille des îles de la Manche, il était le seul cromlech circulaire de l'archipel, il avait vu les Cimmériens qui se souvenaient de Tubal-Caïn, de même que les Esquimaux se souviennent de Probisher, il avait vu les Celtes dont le cerveau est au cerveau actuel comme treize est à dix-huit, il avait vu ces étranges donjons de bois dont on retrouve les carcasses dans les tumulus, et qui font hésiter l'esprit entre l'étymologie domgio de Du Cange et l'étymologie domi-junctoe de Barleycourt, il avait vu les casse-tête de silex, et les haches druidiques ; il avait vu le grand Teutatès d'osier ; il existait avant la muraille romaine, il contenait quatre mille ans d'histoire ; la nuit les matelots apercevaient de loin dans les clairs de lune cette énorme couronne de roches droites sur la haute falaise de Jersey ; aujourd'hui c'est un tas de pierres dans un coin d'un Yorkshire quelconque.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVII. Compatibilité des extrêmes]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6693 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[L'aînesse existe, la dîme existe, la paroisse existe, le seigneur existe, il y a le seigneur de fief et le seigneur de manoir ; la clameur de Haro existe, « la cause en clameur de Haro entre Nicolle, écuyer, et Godfrey, seigneur de Mélèches, a été appelée devant les messieurs de justice, après que la cour a été assise par la prière d'usage » (Jersey. 1864). La livre tournois existe, la saisine et la dessaisine existent, le droit de commise existe, la mouvance existe, le retrait lignager existe, le passé existe. On est messire. Il y a bailli. Il y a sénéchal, il y a centeniers, vingteniers et douzeniers. Il y a vingtaine à Saint-Sauveur et cueillette à Saint-Ouen. Il y a tous les ans, « pour le branchage des routes », chevauchée des connétables. Le vicomte est en tête, « tenant à la main la perche royale ». Il y a l'heure canonique, qui est avant midi. Noël, Pâques, la Saint-Jean et la Saint-Michel sont les échéances légales. On ne vend pas un immeuble, on le baille à rente. On entend de ces dialogues devant justice : » Prévôt, est-ce le jour, le lieu et l'heure auxquels les plaids de la cour du fief et seigneurie ont été publiés ? --- Oui. --- Amen. --- Amen. « Le cas » du manant niant que sa tenure soit dans les « enclaves » est prévu. Il y a les « casualités, trésors trouvés, noces, etc., dont le seigneur peut profiter ». Il y a « jouissance du seigneur par voie de garde jusqu'à ce qu'il se présente partie capable ». Il y a ajour et aveu, record et double record ; il y a chefs-plaids, affieffements, empossessions, alleux et droits régaux.]{.calibre4}
+
+[Plein moyen âge, direz-vous ; non, pleine liberté. Arrivez, vivez, existez. Allez où vous voudrez, faites ce que vous voudrez, soyez qui vous voudrez. Nul n'a droit de savoir votre nom. Avez-vous un Dieu à vous ? prêchez-le. Avez-vous un drapeau à vous ? arborez-le. Où ? dans la rue. Il est blanc. Soit. Il est bleu. Très bien. Il est rouge. Le rouge est une couleur. Vous plaît-il de dénoncer le gouvernement ? Montez sur la borne, et parlez. Voulez-vous vous associer publiquement ? Associez-vous. Combien ? Tant que vous voudrez. Quelle limite ? Nulle limite. Avez-vous envie d'assembler le peuple ? Faites. En quel lieu ? Dans la place publique. J'attaquerai la royauté ? Cela ne nous regarde pas. Je veux afficher ? Voilà les murailles. Pensez, parlez, écrivez, imprimez, haranguez, c'est votre affaire.]{.calibre4}
+
+[Tout entendre et tout lire, d'un côté, cela implique, de l'autre, tout dire et tout écrire. Donc franchise absolue de parole et de presse. Est imprimeur qui veut, est apôtre qui veut, est pontife qui peut. Il ne tient qu'à vous d'être pape. Vous n'avez pour cela qu'à inventer une religion. Imaginez une nouvelle forme de Dieu dont vous vous ferez le prophète. Personne n'a rien à y voir. Au besoin les policemen vous aident. D'entrave point. Toute liberté ; spectacle grandiose. On discute la chose jugée. De même qu'on sermonne le prêtre, on juge le juge. Les journaux impriment : « Hier la cour a rendu un arrêt inique. » L'erreur judiciaire possible n'a droit, chose étonnante, à aucun respect. La justice humaine est livrée aux contestations comme la révélation céleste. L'indépendance individuelle irait difficilement plus loin. Chacun est son propre souverain, non de par la loi, mais de par les moeurs. Souveraineté si entière et si mêlée à la vie qu'on ne la sent, pour ainsi dire, plus. Le droit est devenu respirable ; il est incolore, inaperçu et nécessaire comme l'air. En même temps, on est « loyal ». Ce sont des citoyens qui ont la vanité d'être sujets. Au total le dix-neuvième siècle règne et gouverne. Il entre par toutes les fenêtres de ce moyen âge resté debout. La vieille légalité normande est de part en part traversée par la liberté. Cette masure est pleine de cette lumière. Jamais anachronisme ne fut si peu réfractaire. L'histoire fait gothique cet archipel, l'industrie et l'intelligence le font actuel. Il échappe à l'immobilisation par le simple jeu des poumons du peuple. Ce qui n'empêche pas qu'on ne soit seigneur de Mélèches. Une féodalité de droit, une république de fait. Tel est le phénomène.]{.calibre4}
+
+[Cette liberté souffre une exception ; une seule ; nous l'avons indiquée déjà. Il existe en Angleterre un tyran. Le tyran des Anglais a le même nom que le créancier de don Juan, il s'appelle Dimanche. L'Angleterre est le peuple qui a dit : Time is money ; le tyran Dimanche réduit la semaine active à six jours, c'est-à-dire prend aux Anglais le septième de leur capital. Et aucune résistance n'est possible. Le dimanche règne par les moeurs, despotes bien autres que les lois. Le dimanche, ce roi d'Angleterre, a pour prince de Galles le Spleen. Il a le droit d'ennui. Il ferme les ateliers, les laboratoires, les bibliothèques, les musées, les théâtres, presque les jardins et les bois. Du reste, insistons-y, le dimanche anglais opprime moins Jersey que Guernesey. A Guernesey, une pauvre tavernière française verse un verre de bière à un promeneur ; c'est le dimanche, quinze jours de prison. Un proscrit, bottier, veut travailler le dimanche afin de nourrir sa femme et ses enfants ; il ferme ses volets pour qu'on n'entende pas son marteau ; si on l'entend, amende ; un dimanche, un peintre frais débarqué de Paris s'arrête sur un chemin pour dessiner un arbre, un centenier l'interpelle, lui enjoint de cesser ce scandale, et, par clémence, veut bien ne point le loger au greffe ; un barbier de Southampton rase un passant le dimanche ; il paie trois livres sterling au fisc. C'est tout simple, Dieu s'étant reposé ce jour-là.]{.calibre4}
+
+[Heureux du reste le peuple qui est libre six jours sur sept. Dimanche étant donné comme synonyme de servitude, nous connaissons des nations dont la semaine a sept dimanches.]{.calibre4}
+
+[Tôt ou tard, ces dernières entraves tomberont. Sans doute l'esprit d'orthodoxie est tenace. Sans doute le procès intenté à l'évêque Colenso, par exemple, est grave. Pensez pourtant au chemin qu'a fait l'Angleterre dans la liberté depuis le temps où Elliott était traduit en cour d'assises pour avoir dit que le soleil était habité.]{.calibre4}
+
+[Il y a un automne pour la chute des préjugés. C'est l'heure du déclin des monarchies. Cette heure est arrivée.]{.calibre4}
+
+[La civilisation de l'archipel normand est en marche et ne s'arrêtera pas, cette civilisation est autochtone, ce qui ne l'empêche point d'être hospitalière et cosmopolite. Elle a reçu, au dix-septième siècle, le contre-coup de la révolution anglaise et au dix-neuvième, le contre-coup de la révolution française. Elle a eu deux fois le profond tremblement de l'indépendance.]{.calibre4}
+
+[Au surplus, tous les archipels sont des pays libres. Mystérieux travail de la mer et du vent.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XVIII. A]{.calibre2}sile]{.bold1}]{.calibre_24} {#calibre_pb_6695 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Ces îles, autrefois redoutables, se sont adoucies. Elles étaient écueils, elles sont refuges. Ces lieux de détresse sont devenus des points de sauvetage. Qui sort du désastre, émerge là. Tous les naufragés y viennent, celui-ci des tempêtes, celui-là des révolutions. Ces hommes, le marin et le proscrit, mouillés d'écumes diverses, se sèchent ensemble à ce tiède soleil. Chateaubriand, jeune, pauvre, obscur, sans patrie, s'est assis sur une pierre du vieux quai de Guernesey. Une bonne femme lui a dit : [que désirez-vous, mon ami ?]{.italic} C'est une grande douceur pour le banni français, et presque un apaisement mystérieux, de retrouver dans les Channel Islands cet idiome qui est la civilisation même, ces accents de nos provinces, ces cris de nos ports, ces refrains de nos rues et de nos campagnes, [reminiscitur Argos]{.italic}. Louis XIV a jeté dans cette antique peuplade normande un contingent utile de braves Français parlant purement ; la révocation de l'édit de Nantes a ravitaillé dans les îles la langue française. Les Français hors de France vont volontiers faire leur temps dans cet archipel de la Manche ; ils promènent dans ces rochers leur rêverie d'hommes qui attendent ; ce choix s'explique par le charme d'y retrouver l'idiome natal. Le marquis de Rivière, le même à qui Charles X disait : « [A propos, j'ai oublié de te dire que je t'avais fait duc]{.italic} », pleurait devant les pommiers de Jersey et préférait le Pier-road de Saint-Hélier à l'Oxford street de Londres. C'est dans ce Pier-road que logeait le duc d'Anville, qui était Rohan et La Rochefoucauld. Un jour, M. d'Anville, qui avait un vieux basset de chasse, eut à consulter pour sa santé un médecin de Saint-Hélier, qu'il trouva bon aussi pour son chien. Il demanda au médecin jersiais une ordonnance pour son basset. Le chien n'était pas même malade, et c'était une gaieté de grand seigneur. Le docteur donna son avis. Le lendemain, le duc reçut du docteur une note ainsi conçue :]{.calibre4}
+
+[« Deux consultations :
+1° pour M. le duc, un louis.
+2° pour son chien, dix louis. »]{.calibre4}
+
+[ ]{.calibre4}
+
+[Ces îles ont été des lieux d'abri de la destinée ; toutes les formes de la fatalité les ont traversées, depuis Charles II sortant de Cromwell jusqu'au duc de Berry allant à Louvel. Il y a deux mille ans, César, promis à Brutus, y était venu. A dater du dix-septième siècle, ces îles ont été fraternelles au monde entier ; l'hospitalité est leur gloire. Elles ont l'impartialité de l'asile. Royalistes, elles accueillent la république vaincue ; huguenotes, elles admettent le catholicisme émigré. Elles lui font même cette politesse, nous l'avons dit, de haïr autant que lui Voltaire. Et comme, selon beaucoup de gens, et surtout selon les religions d'État, haïr nos ennemis c'est la meilleure manière de nous aimer, le catholicisme doit se trouver fort aimé dans les îles de la Manche.]{.calibre4}
+
+[Pour le nouveau venu sorti d'un naufrage et faisant là un stage dans la destinée inconnue, quelquefois l'accablement de ces solitudes est profond ; il y a du désespoir dans l'air et tout à coup on y sent une caresse ; un souffle passe qui vous relève. Qu'est ce souffle ? une note, un mot, un soupir, rien. Ce rien suffit. Qui n'a senti en ce monde la puissance de ceci : un rien !]{.calibre4}
+
+[Il y a dix ou douze ans, un Français, débarqué depuis peu à Guernesey, rôdait sur une des grèves de l'ouest, seul, triste, amer, songeant à la patrie perdue. A Paris, on flâne, à Guernesey, on rôde. Cette île lui apparaissait lugubre. La brume couvrait tout, la côte sonnait sous la vague, la mer faisait sur les rochers d'immenses décharges d'écume, le ciel était hostile et noir. On était pourtant au printemps ; mais le printemps de la mer a un nom farouche, il s'appelle Équinoxe. Il est plus volontiers ouragan que zéphyr, et l'on pourrait citer un jour de mai où l'écume, sous ce souffle, a sauté vingt pieds au-dessus de la pointe du mât de signal qui est sur la plus haute plate-forme du château Cornet. Ce français avait le sentiment qu'il était en Angleterre ; il ne savait pas un mot d'anglais ; il voyait un vieil Union-Jack, déchiré par le vent, flotter sur une tour ruinée au bout d'un cap désert ; deux ou trois chaumières étaient là ; au loin tout était sable, bruyère, lande, ajoncs épineux ; quelques batteries rasantes, à larges embrasures, montraient leurs angles ; les pierres taillées par l'homme avaient la même tristesse que les rochers maniés par la mer ; le français sentait poindre en lui cet épaississement du deuil intérieur qui commence la nostalgie ; il regardait, il écoutait ; pas un rayon ; des cormorans en chasse, des nuages en fuite ; partout sur l'horizon une pesanteur de plomb ; un vaste rideau livide tombant du zénith ; le spectre du spleen dans le linceul des tempêtes ; rien nulle part qui ressemblât à l'espérance, et rien qui ressemblât à la patrie ; ce Français songeait, de plus en plus assombri ; tout à coup il releva la tête ; une voix sortait d'une des chaumières entrouvertes, une voix claire, fraîche, délicate, une voix d'enfant, et cette voix chantait :]{.calibre4}
+
+[
+La clef des champs, la clef des bois,
+La clef des amourettes !]{.calibre_10}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XIX.]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6697 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Toutes les réminiscences de la France dans l'archipel ne sont pas également gracieuses. Nous connaissons un passant qui, dans l'admirable île de Serk, un dimanche, a entendu dans la cour d'une ferme ce couplet d'un ancien cantique huguenot français, très solennellement chanté en choeur par des voix religieuses ayant le grave accent calviniste :]{.calibre4}
+
+[
+Tout le monde pue, pue, pue.
+Comme une charogne.
+Gniac', gniac', gniac'mon doux Jésus
+Qui ait l'odeur bonne.
+]{.calibre_10}
+
+[Il est mélancolique et presque douloureux de penser qu'on est mort dans les Cévennes sur ces paroles-là. Ce couplet, d'un haut comique involontaire, est tragique. On en rit ; on en devrait pleurer. Sur ce couplet, Bossuet, l'un des quarante de l'académie française, criait : Tue ! Tue !]{.calibre4}
+
+[Du reste, pour le fanatisme, hideux quand il persécute, auguste et touchant quand il est persécuté, l'hymne extérieur n'est rien. Il a son grand et sombre hymne intérieur qu'il chante mystérieusement en son âme à travers toutes les paroles. Il pénètre de sublime même le grotesque, et, quelles que soient la poésie et la prose de ses prêtres, il transfigure cette prose et cette poésie par l'immense harmonie latente de sa foi. Il corrige la difformité des formules par la grandeur des épreuves acceptées et des supplices subis. Où la poésie manque, il met la conscience. Le libretto du martyre peut être plat, qu'importe si le martyre est magnanime !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XX. Homo edax]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6699 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Dans un temps donné la configuration d'une île change. Une île est une construction de l'océan. La matière est éternelle, non l'aspect. Tout sur la terre est perpétuellement pétri par la mort, même les monuments extra-humains, même le granit. Tout se déforme, même l'informe. Les édifices de la mer s'écroulent comme les autres.]{.calibre4}
+
+[La mer qui les a élevés, les renverse.]{.calibre4}
+
+[En quinze cents ans, seulement entre l'embouchure de l'Elbe et l'embouchure du Rhin, sept îles sur vingt-trois ont sombré. Cherchez-les au fond de la mer. C'est au treizième siècle que la mer a fait le Zuyderzée ; c'est au quinzième qu'elle a créé la baie de Bies-Bosch en supprimant vingt-deux villages ; c'est au seizième qu'elle a improvisé le golfe de Dollart, en engloutissant Torum. Il y a cent ans, devant le Bourg-d'Ault, aujourd'hui coupé à pic sur la falaise normande, on voyait encore sous les vagues le clocher de l'ancien Bourg-d'Ault submergé. A Écré-Hou, on distingue, dit-on, parfois, à marée basse, les arbres aujourd'hui sous-marins de la forêt druidique noyée au huitième siècle. Jadis Guernesey adhérait à Herm, Herm à Serk, Serk à Jersey et Jersey à la France. Entre la France et Jersey, un enfant enjambait le détroit. On y jetait un fagot, quand l'évêque de Coutances passait, pour que l'évêque ne se mouillât point les pieds.]{.calibre4}
+
+[La mer édifie et démolit ; et l'homme aide la mer, non à bâtir, mais à détruire.]{.calibre4}
+
+[De toutes les dents du temps, celle qui travaille le plus, c'est la pioche de l'homme. L'homme est un rongeur. Tout sous lui se modifie et s'altère, soit pour le mieux, soit pour le pire. Ici il défigure, là il transfigure. La brèche de Roland n'est pas si fabuleuse qu'elle en a l'air ; l'entaille de l'homme est sur la nature. La balafre du travail humain est visible sur l'oeuvre divine. Il semble que l'homme soit chargé d'une certaine quantité d'achèvement. Il approprie la création à l'humanité. Telle est sa fonction. Il en a l'audace ; on pourrait presque dire, l'impiété. La collaboration est parfois offensante. L'homme, ce vivant à brève échéance, ce perpétuel mourant, entreprend l'infini. A tous les flux et reflux de la nature, à l'élément qui veut communiquer avec l'élément, aux phénomènes ambiants, à la vaste navigation des forces dans les profondeurs, l'homme signifie son blocus. Il dit lui aussi son [Tu n'iras pas plus loin]{.italic}. Il a sa convenance, et il faut que l'univers l'accepte. N'a-t-il pas d'ailleurs un univers à lui ? Il entend faire ce que bon lui semble. Un univers est une matière première. Le monde, oeuvre de Dieu, est le canevas de l'homme.]{.calibre4}
+
+[Tout borne l'homme, mais rien ne l'arrête. Il réplique à la limite par l'enjambée. L'impossible est une frontière toujours reculante.]{.calibre4}
+
+[Une formation géologique qui a à sa base la boue du déluge et à son sommet la neige éternelle, est pour l'homme un mur comme un autre ; il la perce, et passe outre. Il coupe un isthme, force un volcan, menuise une falaise, évide un gisement, met un promontoire en petits morceaux. Jadis il se donnait toute cette peine pour Xercès ; aujourd'hui, moins bête, il se la donne pour lui-même. Cette diminution de bêtise s'appelle le progrès. L'homme travaille à sa maison, Et sa maison, c'est la terre. Il dérange, déplace, supprime, abat, rase, mine, sape, creuse, fouille, casse, pulvérise, efface cela, abolit ceci, et reconstruit avec de la destruction. Rien ne le fait hésiter, nulle masse, nul bloc, nul encombrement, nulle autorité de la matière splendide, nulle majesté de la nature. Si les énormités de la création sont à sa portée, il les bat en brèche. Ce côté de Dieu qui peut être ruiné le tente, et il monte à l'assaut de l'immensité, le marteau à la main. L'avenir verra peut-être mettre en démolition les Alpes. Globe, laisse faire ta fourmi.]{.calibre4}
+
+[L'enfant, brisant son jouet, a l'air d'en chercher l'âme. L'homme aussi semble chercher l'âme de la Terre.]{.calibre4}
+
+[Pourtant, ne nous exagérons pas notre puissance, quoi que l'homme fasse, les grandes lignes de la création persistent ; la masse suprême ne dépend point de l'homme. Il peut sur le détail, non sur l'ensemble. Et il est bon que cela soit ainsi. Le Tout est providentiel. Les lois passent au-dessus de nous. Ce que nous faisons ne va pas au delà de la surface. L'homme habille ou déshabille la terre ; un déboisement est un vêtement qu'on ôte. Mais ralentir la rotation du globe sur son axe, accélérer la course du globe dans son orbite, ajouter ou retrancher une toise à l'étape de sept cent dix-huit mille lieues par jour que fait la terre autour du soleil, modifier la précession des équinoxes, supprimer une goutte de pluie, jamais. Ce qui reste en haut reste en haut. L'homme peut changer le climat, non la saison. Faites donc rouler la lune ailleurs que dans l'écliptique !]{.calibre4}
+
+[Des rêveurs, quelques-uns illustres, ont rêvé la restitution du printemps perpétuel à la terre. Les saisons extrêmes, été et hiver, sont produites par l'excès d'inclinaison de l'axe de la terre sur le plan de cette écliptique dont nous venons de parler. Pour supprimer ces saisons, il suffirait de redresser cet axe. Rien de plus simple. Plantez dans le pôle un pieu allant jusqu'au centre du globe, attachez-y une chaîne, trouvez hors de la terre un champ de tirage, ayez dix milliards d'attelages de dix milliards de chevaux chacun, faites tirer, l'axe se redressera, et vous aurez votre printemps. On le voit, pas grand-chose à faire.]{.calibre4}
+
+[Cherchons ailleurs l'éden. Le printemps est bon ; la liberté et la justice valent mieux. L'éden est moral, et non matériel.]{.calibre4}
+
+[Être libres et justes, cela dépend de nous.]{.calibre4}
+
+[La sérénité est intérieure. C'est au dedans de nous qu'est notre printemps perpétuel.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXI. Puissance des casseurs de pierres]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6701 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Guernesey est une Trinacrie. La reine des Trinacries, c'est la Sicile. La Sicile appartient à Neptune, et chacun de ses trois angles était dédié à l'une des pointes du trident. Les trois caps portaient trois temples ; l'un à Dextra, l'autre à Dubia, l'autre à Sinistra ; Dextra était la pointe des Fleuves, Sinistra, la pointe des Mers, Dubia, la pointe des Pluies. Quoi qu'en ait dit le pharaon Psammuthis, menaçant Trasidée, roi d'Agrigente, de faire la Sicile « ronde comme un disque », ces Trinacries échappent au remaniement de l'homme, et garderont leurs trois promontoires jusqu'à ce que le déluge qui les a faits vienne les défaire. La Sicile aura toujours son cap Pelore vers l'Italie, son cap Pachynum vers la Grèce et son cap Lilybée vers l'Afrique, et Guernesey aura toujours sa pointe de l'Ancresse au nord, sa pointe de Plainmont au sud-ouest, et sa pointe de Jerbourg au sud-est.]{.calibre4}
+
+[A cela près, l'île de Guernesey est en pleine démolition. Ce granit est bon, qui en veut ? Toute la falaise est mise en adjudication. Les habitants vendent l'île en détail. Le curieux rocher la Roque-au-diable a été dernièrement brocanté pour quelques livres sterling ; la vaste carrière de la Ville-Baudue épuisée, on passera à une autre.]{.calibre4}
+
+[Toute l'Angleterre demande de cette pierre. Rien que pour la digue construite sur la Tamise, il en faudra deux cent mille tonnes. Les personnes loyales qui tiennent à la solidité des statues royales ont fort regretté que le piédestal du bronze Albert, qui est en granit de Cheesering, n'ait pas été fait en bonne roche de Guernesey. Quoi qu'il en soit, les côtes de Guernesey tombent sous la pioche. En quatre ans, à Saint-Pierre-Port, sous les fenêtres des habitants de la Falue, une montagne a disparu.]{.calibre4}
+
+[Et cela se fait en Amérique comme en Europe. A l'heure qu'il est. Valparaiso est en train de vendre à l'enchère aux équarrisseurs les collines magnifiques et vénérables qui l'avaient fait surnommer [Vallée-Paradis]{.italic}.]{.calibre4}
+
+[Les anciens Guernesiais ne reconnaissent plus leur île. Ils seraient tentés de dire : [on m'a changé mon lieu natal]{.italic}. Wellington le disait de Waterloo, qui était son lieu natal à lui. Ajoutez à cela que Guernesey, qui jadis parlait français, parle aujourd'hui anglais ; autre démolition.]{.calibre4}
+
+[[[\[watermark:9782368410165\]]{.calibre_31}]{.italic}
+]{.calibre4}
+
+[Jusque vers 1805, Guernesey a été coupée en deux îles. Un fleuve de mer la traversait de part en part, du mont Crevel de l'est au mont Crevel de l'ouest. Ce bras de mer débouchait à l'occident vis-à-vis les Fruquiers et les deux Sauts Roquiers ; il avait des baies entrant assez avant dans les terres, une allait jusqu'à Salterns ; on nommait ce bras de mer la Braye du Valle. Saint-Sampson, au siècle dernier, était un amarrage de barques des deux côtés d'une rue de l'océan. Rue étroite et sinueuse. De même que les Hollandais ont desséché le lac de Harlem dont ils ont fait une plaine assez laide, les Guernesiais ont comblé la Braye du Valle, à cette heure prairie. De la rue ils ont fait un cul-de-sac ; ce cul-de-sac est le port de Saint-Sampson.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[XXII. Bonté du peuple de l'archipel]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_6703 .calibre_57}
+
+::: calibre_52
+
+
+[ ]{.calibre4}
+
+[Qui a vu l'archipel normand, l'aime ; qui l'a habité, l'estime.]{.calibre4}
+
+[C'est là un noble petit peuple, grand par l'âme. Il a l'âme de la mer. Ces hommes des îles de la Manche sont une race à part. Ils gardent sur « la grand'terre » on ne sait quelle suprématie, ils le prennent de haut avec les Anglais, disposés parfois à dédaigner « ces trois ou quatre pots de fleurs dans cette pièce d'eau ». Jersey et Guernesey répliquent : « [Nous sommes les normands, et c'est nous qui avons conquis l'Angleterre]{.italic}. » On peut sourire, on peut admirer aussi.]{.calibre4}
+
+[Un jour viendra où Paris mettra ces îles à la mode et fera leur fortune ; elles le méritent. Une prospérité sans cesse croissante les attend le jour où elles seront connues. Elles ont ce singulier attrait de combiner un climat fait pour l'oisiveté avec une population faite pour le travail. Cette églogue est un chantier. L'archipel normand a moins de soleil que les Cyclades, mais plus de verdure ; autant de verdure que les Orcades, et plus de soleil. Il n'a pas le temple d'Astypalée, mais il a les cromlechs ; il n'a pas la grotte de Fingal, mais il a Serk. Le moulin Huet vaut le Tréport ; la grève d'Azette vaut Trouville ; Piémont vaut Étretat. Le pays est beau, le peuple est bon, l'histoire est fière. Le côté sauvage est majestueux. L'archipel a un apôtre, Hélier, un poète, Robert Wace, un héros, Pierson. Plusieurs des meilleurs généraux et des meilleurs amiraux de l'Angleterre sont nés dans l'archipel. Ces pauvres pêcheurs sont dans l'occasion magnifiques ; dans les souscriptions pour les inondés de Lyon et les affamés de Manchester, Jersey et Guernesey ont plus donné, proportion gardée, que la France et l'Angleterre[[[^[^[[\[28\]]{.calibre20}]{.calibre19}^]{.calibre18}^]{.underline}]{.calibre_4}](index_split_5427.html#filepos47752409){#filepos47717590}.]{.calibre4}
+
+[Ces peuples ont gardé de leur vieille vie de contrebandiers un goût hautain pour le risque et le danger. Ils vont partout. Ils essaiment. L'archipel normand colonise aujourd'hui, comme jadis l'archipel grec. C'est là une gloire. Il y a des Jersiais et des Guernesiais en Australie, en Californie, à Ceylan. L'Amérique du Nord a son New Jersey, et son New Guernesey, qui est dans l'Ohio. Ces anglo-normands, quoiqu'un peu ankylosés par les sectes, ont une incorruptible aptitude au progrès. Toutes les superstitions, soit, mais toute la raison aussi. Est-ce que la France n'a pas été brigande ? Est-ce que l'Angleterre n'a pas été anthropophage ? Soyons modestes, et pensons à nos ancêtres tatoués.]{.calibre4}
+
+[Où prospérait le banditisme, le commerce règne. Transformation superbe. OEuvre des siècles ; sans doute, mais des hommes aussi. Ce magnanime exemple, c'est ce microscopique archipel qui le donne. Ces espèces de petites nations-là font la preuve de la civilisation. Aimons-les, et vénérons-les. Ces microcosmes reflètent en petit, dans toutes ses phases, la grande formation humaine. Jersey, Guernesey, Aurigny ; anciens repaires, ateliers à présent. Anciens écueils, ports maintenant.]{.calibre4}
+
+[Pour l'observateur de cette série d'avatars qu'on appelle l'histoire, pas de spectacle plus émouvant que de voir lentement et par degrés monter et surgir au soleil de la civilisation ce peuple nocturne de la mer. L'homme des ténèbres se retourne et fait face à l'aurore. Rien n'est plus grand, rien n'est plus pathétique. Jadis forban, aujourd'hui ouvrier ; jadis sauvage, aujourd'hui citoyen ; jadis loup, aujourd'hui homme. A-t-il moins d'audace qu'autrefois ? Non. Seulement cette audace va à la lumière. Quelle splendide différence entre la navigation actuelle, côtière, riveraine, marchande, honnête, fraternelle, et le vieux dromon informe ayant pour devise [Homo homini monstrum !]{.italic} Le barrage s'est fait pont. L'obstacle est devenu l'aide. Là où ce peuple a été pirate, il est pilote. Et il est plus entreprenant et plus hardi que jamais. Ce pays est resté le pays de l'aventure en devenant le pays de la probité. Plus le point de départ a été infime, plus on est attendri de l'ascension. La fiente du nid sur la coquille de l'oeuf fait admirer l'envergure de l'oiseau. C'est en bonne part qu'on pense aujourd'hui à l'ancienne piraterie de l'archipel normand. En présence de toutes ces voiles charmantes et sereines triomphalement guidées à travers ces dédales de flots et d'écueils par le phare lenticulaire et la light-house électrique, on songe avec le bien-être de conscience inhérent au progrès constaté, à ces vieux marins furtifs et farouches, naviguant jadis en des chaloupes sans boussole, sur les vagues noires lividement éclairées de loin en loin, de promontoire en promontoire, par ces antiques brasiers à frissons de flammes, que tourmentaient dans des cages de fer les immenses vents des profondeurs.]{.calibre4}
+
+
+[[]{.bold}]{.calibre_12}
+
+[[
+]{.bold}]{.calibre_12}
+
+
+[[![separateur](../../../images/victor-hugo/fragments-dun-voyage-aux-alpes/00844.jpg){.calibre3}]{.bold}]{.calibre_12}
+
+:::::::::::::::::::::::::::::::::: calibre1
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+
+::: calibre1
+[[[[[^\[1\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5192.html#filepos45229882){#filepos47722040} Les gens du pays donnent aux torrents le nom de liants. Il est remarquable que ce mot appartient à la langue celtique (NANT, amas d'eau, eau courante, torrent ou. fleuve), et a donné son nom à la capitale (Nantes, ville divisée eh effet parles mille bras de la Loire) de cette Bretagne qui fut l\'Armorique. Voici que nous le rencontrons aux Alpes, et dans toute la pureté de son acception première! Ainsi on retrouve toujours par places dans l\'Europe actuelle quelque vestige de cette vieille langue celte, base première et inconnue de tous nos idiomes, à peu près comme on voit souvent paraître à la surface du.sol, en dépit des couches calcaires et argileuses qui la recouvrent, de larges bancs de ce granit primitif qui est, pour ainsi dire, l'ossement du globe. (Note de Victor Hugo)]{.calibre16}
+
+::: calibre1
+[[[[[^\[2\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5192.html#filepos45241872){#filepos47723158} Un savant, originaire de ces montagnes mêmes,, a bien voulu communiquer à l\'auteur la pièce suivante, qui nous semble assez curieuse, et qui était à peu près inconnue: [Fondation du prieuré de Chamonix par Aymon, comte de genève.]{.italic} \" In nomince sanctae et individuxTrinitatis.]{.calibre16}
+
+[« Ego, Aymo, cornes Gebennensis, et filius meus Geroldus, damus et concedimus Domino Deo Salvatori nostro, et sancto Michaeli Archangelo, de Clusa omnem campum munitum çum appenditiis suis, ex aqua quae: vocatur Dionsa, et rupe quae vocatur Alba, usque ad Balmas, sicut ex integro ad comitatum meum pertinere videtur ; » id est, terras, sylvas, alpes, venationes, omnia placita et banna; et monachi Deo et Archangclo servientes hoc totum habeant et teneant sine contradictione alicujus hominis, et nihil nobis nisi cleeemosynas et orationes pro animabus nostris et parentum nostrorum retinemus, ut sanctus Michael Archangejus perducat nos et illos in paradisum exultationis. Si quis autem, quod absit, hoc donum confringere voluerit, in anathemate et maledictione sit, sicut Datan et Abiron,quousqne resipiscat et satisfaciat. Ex istis ergo donis sunt legitimi testes, uterini. fratres comitis Willelmus Fulciniacus, et Amedeus, et Thurumbertus de Nangiaco, et Albertus miles, et Agueldrandus presbyter, et Silico. Ego Andréas, comitis capellanus, hanc cartam praecepto ipsius comitis scripsi, et tradidi feria septima luna 27, papa Urbano régnante.]{.calibre16}
+
+[Au bas de cet acte pend le sceau du comte en cire blanche, et, quoiqu\'il soit sans date, on conjecture, par. Je règne du pape (Urbain II, qui siégea depuis l\'an 1088 jusqu\'en 1099), qu\'il fut passé environ l\'an 1090, époque à laquelle ce même comte, conjointe-ment avec Gérard son fils, fit une donation assez considérable au monastère de Saint-Oyen de Joux. Le prieuré de Chamonix, fondé par Aymon, comte de Genève, du temps du pape Urbain II, avant 1099, dépendait de l\'abbaye de Saint-Michel de la Cluse. Guillaume de la Ravoyre, qui en fut le dernier prieur, en procura l\'union à la collégiale de Sallanches. Guifrey, qui en était prieur avant 1229, fut présent, le 12 des calendes de mai, à la cession qu\'Aymon, seigneur de Faucigny, fit de Chamonix à Guillaume, comte de Genève; Guillaume de Villette fut prieur en 1319. Aux nones, de juillet, Hugues, dauphin, seigneur de Faucigny, lui confirma la juridiction du prieuré de, Chamonix et de ses dépendances.]{.calibre16}
+
+::: calibre1
+[[[[[^\[3\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5309.html#filepos45702946){#filepos47726148} Celle de Dieppe, 8 septembre.]{.calibre16}
+
+::: calibre1
+[[[[[^\[4\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5314.html#filepos45736856){#filepos47726421} L'auteur à cet égard a poussé fort loin le scrupule. Ces lettres ont été écrites au hasard de la plume, sans livres, et les faits historiques ou les textes littéraires qu\'elles contiennent çà et là sont cités de mémoire ; or la mémoire fait défaut quelquefois. Ainsi, par exemple, dans la [Lettre neuvième]{.italic}, l'auteur dit que Barberousse [voulut se croiser pour la seconde ou troisième fois]{.italic}, et dans la [Lettre dix-septième]{.italic} il parle des nombreuses croisades de Frédéric Barberousse. L\'auteur oublie dans cette double occasion que Frédéric Ier ne s\'est croisé que deux fois, la première n\'étant encore que duc de Souabe, en 1147, en compagnie de son oncle Conrad III, la seconde étant empereur, en 1189. Dans la [Lettre quatorzième]{.italic}, l'auteur a écrit [l'hérésiarque Doucet]{.italic} où il eut fallu écrire [l\'hérésiarque Doucin]{.italic}, Rien n\'était plus facile à corriger que ces erreurs ; il a semblé à l'auteur que, puisqu\'elles étaient dans ces lettres, elles devaient y rester comme le cachet même de leur réalité. Puisqu\'il en est à rectifier des erreurs, qu\'on lui permette de passer des siennes à celles de son imprimeur. Un errata raisonné est parfois utile. Dans la Lettre première, page 10, lignes 2 et 5, au lieu de : [la maison est pleine de voix qui ordonnent]{.italic}, il faut lire : [la maison est pleine de voix qui jordonnent]{.italic}. Dans la [Légende du beau Pecopin]{.italic} (Lettre XXI), tome II, page 244, ligne 13, au lieu de: [une porte de métal]{.italic}, il faut lire : une porte de métail. Les deux mots [jordonner]{.italic} et [métail]{.italic} manquent au Dictionnaire de l'Académie et, selon nous, le Dictionnaire a tort. [Jordonner]{.italic} est un excellent mot de la langue familière qui n'a pas de synonyme possible et qui exprime une nuance précise et délicate : le commandement exercé avec sottise et vanité, à tout propos et hors de tout propos. Quant au mot [métai]{.italic}l, il n\'est pas moins précieux. Le [métal]{.italic} est la substance métallique pure ; l\'argent est un métal. Le [métail]{.italic} est la substance métallique composée ; le bronze est un métail.]{.calibre16}
+
+[]{.calibre16}
+
+::: calibre1
+[[[[[^\[5\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5323.html#filepos45977657){#filepos47729311} A Monza, près de Milan.]{.calibre16}
+
+::: calibre1
+[[[[[^\[6\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5323.html#filepos45988527){#filepos47729585} La chose est diversement racontée par les historiens. Selon d'autres chroniqueurs, c'est en voulant traverser le Cydnus ou le Cyrocadus de vive force que l'illustre empereur Frédéric II, atteint d'une flèche sarrasine au milieu du fleuve, s'y noya. Selon les légendes, il ne s'y noya pas, il y disparut, fut sauvé par des pâtres, au dire des uns, par des génies, au dire des autres, et fut miraculeusement transporté de Syrie en Allemagne, où il fit pénitence dans la fameuse grotte de Kaiserslauterr, si l'on en coit les traditions de Würtemberg.]{.calibre16}
+
+::: calibre1
+[[[[[^\[7\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5325.html#filepos46065787){#filepos47730467} Marie de Médicis, en italien Maria de\' Medici, née le 27 avril 1575 à Florence et morte le 3 juillet 1642 à Cologne. Reine de France de 1600 à 1610 par son mariage avec Henri IV. Veuve en 1610, elle assure la Régence au nom de son fils, Louis XIII, jusqu\'en 1614. Elle devient alors chef du Conseil du Roi à la suite du lit de justice du 2 octobre 1614, et ce jusqu\'en 1617, date de la prise de pouvoir de son fils]{.calibre16}
+
+::: calibre1
+[[[[[^\[8\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5326.html#filepos46094505){#filepos47731174} À Aix-la-Chapelle, pour voir les reliques, le pourboire à la fabrique est fixé à un thaler (trois francs soixante-quinze centimes).]{.calibre16}
+
+::: calibre1
+[[[[[^\[9\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5337.html#filepos46348249){#filepos47731577} [Huss]{.italic} veut dire [oie.]{.italic}]{.calibre16}
+
+::: calibre1
+[[[[[^\[10\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46881446){#filepos47731854}]{.calibre16}
+
+::: calibre1
+[[[[[^\[11\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46897036){#filepos47732099}A l\'occasion [de ce siège, où la ville fut enlevée en douze heures de tranchée ouverte, et qui a laissé en Allemagne un fatal souvenir que dix siècles peut-être n\'effaceront pas, il n\'est pas sans intérêt de transcrire ici quelques détails inconnus et quelques pages curieuses extraites de la [Gazette des entre-sols du Louvre]{.italic}, déjà citée dans la lettre XXVII. Il va sans dire que ces extraits sont textuels, et que, quant aux rapprochements qu\'ils peuvent faire naître dans l\'esprit du lecteur, l\'auteur de ce livre n\'a eu l\'intention ni de les chercher ni de les éviter.]{.calibre18}]{.calibre16}
+
+::: calibre1
+[[[[[^\[12\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46897215){#filepos47733059} Gazette du 28 may.]{.calibre16}
+
+[[« Le sieur de Mélac, lieutenant général, occupe les hauteurs au-dessus du chasteau avec douze bataillons et cinquante dragons. Il a chassé les ennemis d\'une redoute d\'où l\'on peut battre à revers les ouvrages de la place.]{.calibre9}]{.calibre4}
+
+[[« On a fait une batterie de six pièces de canon de l\'autre costé du Neckre. La tranchée doit être ouverte ce soir par le marquis de Chamilly, lieutenant général; du costé du front des ouvrages de terre du fauxbourg, par la brigade de Picardie. »]{.calibre9}]{.calibre4}
+
+[[(Du camp devant Heidelberg, le 21 may 1693.)]{.calibre9}]{.calibre4}
+
+[[« Six cents hommes de troupes de Hesse-Cassel vinrent pour ravitailler la place.]{.calibre9}]{.calibre4}
+
+[[« Le sieur de Mélac les fit attaquer de la manière suivante :]{.calibre9}]{.calibre4}
+
+[[« Cent hommes du régiment de Picardie, commandez par les sieurs de Coste et Despic, marchèrent par les vignes dans la montagne. Ils estoient suivis par cent trente du régiment de la Reyne, et cinquante cavaliers du régiment colonel général de Mélac, et de Lalande, qui portoient des grenadiers en croupe. La seconde compagnie des grenadiers de la reyne s\'avança par un grand chemin entre la montagne et la rivière, avec une pièce de canon à leur teste, pour attaquer une]{.calibre9}[traverse que les ennemis avoient faite dans le même chemin. Cent cinquante hommes du régiment de la reyne soutenoient la compagnie de grenadiers; la cavalerie et les dragons soutenoient toute l\'infanterie. Et on attaqua les ennemis de toutes parts. Ils abandonnèrent d\'abord la première et la seconde traverse. Mais ils firent ferme à la dernière. Le sieur de Mélac alors fit avancer les grenadiers, qui attaquèrent les ennemis en flanc, en sorte qu\'ils commencèrent à lascher pié. Ils firent encore ferme quelque temps derrière des hayes et des vignes ; mais la cavalerie les contraignit enfin à prendre la fuite. Les uns taschèrent à remonter le costeau par dedans les vignes, et les autres se sauvèrent dans le village de Vebelingen, qui est au pié de la montagne. Néanmoins, ayant esté renforcés par un nombre de païsans armés, ils se mirent en devoir de revenir à la charge; mais les grenadiers les poussèrent si vivement, qu\'ils les obligèrent à prendre derechef la fuite après leur avoir tué plus de cent cinquante hommes et fait plusieurs prisonniers. Les François n\'ont eu, dans cette affaire, que trois hommes blessés qui sont un grenadier du régiment de la reyne, un soldat de Picardie et un cavalier du régiment de Mélac. »]{.calibre_79}]{.calibre4}
+
+::: calibre1
+[[[[[^\[13\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46897394){#filepos47736736}Gazette du 4 juin.]{.calibre16}
+
+[[« 22 au matin. Les ennemis, se voyant pressés et enveloppés par les batteries, voulurent abandonner le reste du fauxbourg en plein jour. On les poussa jusqu\'à la porte de la ville, qu\'ils fermèrent; les grenadiers de Picardie l\'enfoncèrent à coups de hache, et, nonobstant leur grand feu, les poussèrent jusqu\'à la porte du chasteau, que les assiégés fermèrent, et laissèrent dehors plus de cinq cents des leurs, qui furent tués ou pris.]{.calibre_79}]{.calibre4}
+
+[[« \...Les troupes entrèrent de toutes parts dans la ville, qu\'ils pillèrent, sans que les officiers généraux pussent l\'empescher. Le chasteau demanda à capituler. Le maréchal duc de Lorges ne voulut pas accorder de condition. Ils se rendirent à discrétion , et sortirent le 23, au nombre de dix-huit cents hommes. Trois cents soldats prisonniers, qui avoient esté mis dans la grande église, mirent le feu aux deux clochers, qui se communiqua à la ville, et, quoi qu\'on pût faire pour l\'éteindre, en brûla la grande partie. On a trouvé quarante milliers de poudre, quantité de grenades, de bombes, douze pièces de canon en fonte et dix de fer. On s\'est aussi rendu maître du pont de bateaux qu\'ont fait les ennemis. »]{.calibre_79}]{.calibre4}
+
+[[« Paris, 30 may 1693. Le roy partit de Compiègne le 22 du mois pour aller coucher à Roy; le 23, il coucha à Péronne; le 24, à Cambray, et, le 25, au Quesnoy.]{.calibre_79}]{.calibre4}
+
+[[« Le roy et la reyne de la Grande-Bretagne vinrent ici le 27 voir Leurs Altesses Royales, et ils entendirent le salut au monastère des Capucines. »]{.calibre_79}]{.calibre4}
+
+::: calibre1
+[[[[[^\[14\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46897573){#filepos47739167} Gazette du 6 juin.]{.calibre16}
+
+[[« \...La ville étoit prise, les soldats, les cavaliers et les dragons y entrèrent de toutes parts et commencèrent à la piller Les soldats ne purent estre arrestés, quelque peine que se donnassent les officiers pour empescher les suites du désordre et l\'embrasement de la ville; quoy qu\'ayant esté prise d\'assaut, elle eût pu n\'estre pas épargnée. Le marquis de Chamilly avoit fait d\'abord mettre les prisonniers et plusieurs bourgeois avec leurs femmes et leurs enfans dans la grande église, comme en un lieu de seureté. Mais ces prisonniers mirent le feu aux deux clochers, d\'où il se communiqua aux maisons de la ville et des fauxbourgs : où il avoit esté encore mis par hasard en quelques endroits, et s\'étoit répandu presque partout, quelque soin qu\'on prist pour l\'éteindre. Le sieur de Heidersdorf , qui commandoit dans le chasteau, envoya cependant demander à capituler. Un capucin alla plusieurs fois de part et d\'autre, accompagné d\'un lieutenant-colonel et d\'un magistrat. La capitulation fut conclue. On a trouvé dix milliers de plomb en saumon, sept en balles, cinq mille grenades chargées, cent bombes, un grand nombre d\'outils. Les troupes ont commencé depuis à démolir les fortifications du chasteau. »]{.calibre_79}]{.calibre4}
+
+::: calibre1
+[[[[[^\[15\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5364.html#filepos46897752){#filepos47740943} Même numéro.]{.calibre16}
+
+[[« Du Quesnoy, le 2 juin 1693.]{.calibre_79}]{.calibre4}
+
+[[« Le 28 du mois dernier, un courrier dépesché par le maréchal duc de Lorges apporta au roy la nouvelle de la prise de Heidelberg. Le 31, le roy fit ses dévotions et toucha les malades. Sa Majesté nomma l\'abbé de la Luzerne à l\'évesché de Cahors, et l\'abbé de Denonville à L'évesché de Comminges. Sa Majesté a donné un canonicat de la Sainte-Chapelle au sieur Boileau, doyen de l\'église de Sens, et un autre au sieur Basire. »]{.calibre_79}]{.calibre4}
+
+[ ]{.calibre4}
+
+[[« De Paris, le 6 may 1693.]{.calibre_79}]{.calibre4}
+
+[[([Sic]{.italic}. Erreur, le 6 juin.)]{.calibre_79}]{.calibre4}
+
+[[« Le premier de ce mois, on chanta en l\'église de Notre-Dame, par l\'ordre du roy, le [Te Deum]{.italic} en action de grâces de la réduction de Heidelberg. Les compagnies y assistèrent avec les cérémonies accoutumées : et, le soir, il y eut des feux dans toutes les rues. »]{.calibre_79}]{.calibre4}
+
+[[Outre le sac de la ville, cette prise de Heidelberg eut un lugubre résultat. En arrivant au camp des Impériaux à Heilbron , le général Heidersdorf, qui avait capitulé avec le maréchal de Lorges, fut traduit devant des juges militaires et condamné à mort. Il eut la tête tranchée. Un capitaine et un lieutenant furent enveloppés dans le procès qu\'on lui fit, et partagèrent son sort.]{.calibre_79}]{.calibre4}
+
+[]{.calibre16}
+
+::: calibre1
+[[[[[^\[16\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5375.html#filepos47195076){#filepos47743421} En 1814 on se servait contre Buonaparte des noms si justement renommés des lieutenants de Napoléon ; aujourd\'hui tout est à sa place : Desaix, Soult, Ney, sont de grandes et illustres figures; Napoléon est dans sa gloire ce qu\'il était dans son armée, l\'Empereur.]{.calibre16}
+
+::: calibre1
+[[[[[^\[17\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5380.html#filepos47285679){#filepos47743982}Prononcer l'office des quatre quatre. Ce conseil était ainsi nommé pour [avoir été institué en 1444. Il était composé de huit hommes,]{.calibre4}]{.calibre16}
+
+::: calibre1
+[[[[[^\[18\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5380.html#filepos47303840){#filepos47744526} Les blâmes généraux de l\'histoire admettent toujours les restrictions individuelles. Il faut circonscrire la sévérité pour rester dans le juste et dans le vrai. Sans contredit, et nonobstant tous les motifs d\'économie politique pris dans un excédant de population qui se fût plus honorablement écoulé en émigrations ou en colonies, sans contredit, ces ventes d\'armées faites par un peuple libre à tous les despotismes qui avaient besoin de soldats sont une chose immorale et honteuse. C\'était, redisons-le, transformer des citoyens en condottieri, un homme libre en lanz-knecht, l\'uniforme en livrée. Il est malheureusement vrai de dire qu\'au dix-septième et même au dix-huitième siècle, l\'habit militaire des Suisses capitulés avait cet aspect. Il est triste également que le mot Suisse, qui éveille dans l\'esprit une idée d\'indépendance, puisse y éveiller aussi une idée de domesticité. Nous avons encore le suisse des hôtels, le suisse des cathédrales. Il m \'avait fait venir d\' Amiens pour être suisse. Mais il serait inique d\'étendre la réprobation que soulève un fait de nation, considéré dans son ensemble, à tous les individus, souvent honorables et purs, qui ont participé à ce fait ou l\'ont subi. Hâtons-nous de le proclamer, sous cette livrée il y a eu des héros. Les Suisses, même capitulés, ont été souvent sublimes. Après avoir vendu leur service, qui pouvait s\'acheter, ils ont donné leur dévouement, qui ne pouvait se payer. Abstraction faite de l\'origine fâcheuse des concordats militaires, à un certain point de vue historique que l'auteur de ce livre est loin de répudier, les Suisses, par exemple, ont été admirables aux Tuileries. Il est beau, peut-être, que la nation qui, la première en Europe, a donné son sang pour la liberté naissante, l'ait donné la dernière pour la royauté mourante ; et sous ce rapport le 10 août 1792 n\'est pas indigne du 17 novembre 1307 .]{.calibre16}
+
+::: calibre1
+[[[[[^\[19\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5383.html#filepos47362517){#filepos47747092} En Turquie ils s'appellent [schim.]{.italic}]{.calibre16}
+
+::: calibre1
+[[[[[^\[20\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5394.html#filepos47482554){#filepos47747380} Les Abyssins repoussent comme injurieux le nom d'Abyssins, ils s'appellent Agassiens, ce qui signifie libres.]{.calibre16}
+
+:::: calibre1
+::: calibre_20
+[[[[[^`[21]`{.calibre46}^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5394.html#filepos47498094){#filepos47747780}` `{.calibre46}[`Dordrecht, Harlem, Delft, L`{.calibre46}]{.calibre4}[`eyde, Amsterdam, Goude, Rotter`{.calibre46}]{.calibre4}[`dam, Gorcum, Schieda`{.calibre46}]{.calibre4}[`m`{.calibre46}]{.calibre4}[`, Schoonhewe, `{.calibre46}]{.calibre4}[`Briel, Alcmar, Hoor`{.calibre46}]{.calibre4}[`n`{.calibre46}]{.calibre4}[`e, In`{.calibre46}]{.calibre4}[`c`{.calibre46}]{.calibre4}[`hu`{.calibre46}]{.calibre4}[`isem, Edam, Monickendam, Mede`{.calibre46}]{.calibre4}[`m`{.calibre46}]{.calibre4}[`blyck `{.calibre46}]{.calibre4}[`e`{.calibre46}]{.calibre4}[`t P`{.calibre46}]{.calibre4}[`ui`{.calibre46}]{.calibre4}[`rmeseynde.`{.calibre46}]{.calibre4}]{.calibre47}
+::::
+
+::: calibre1
+[[[[[^\[22\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5394.html#filepos47498423){#filepos47749932} Woorderm, Oudewater, Ghertruydenberg , Heusden , Naerden, Weesp et Muyden.]{.calibre16}
+
+::: calibre1
+[[[[[^\[23\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5404.html#filepos47584517){#filepos47750331} Dans la mythologie grecque, [Ananké]{.italic} (en grec ancien Ἀνάγκη / Anánkê) est la personnification de la destinée, la [nécessité inaltérable]{.bold} et la [fatalité]{.bold}. Dans la mythologie romaine, elle s\'appelle [Necessitas]{.italic}. Elle marque le début du cosmos, avec Chronos. Rendue célèbre entre autres par le graffiti de la cathédrale Notre-Dame-de-Paris, reproduisant son nom, qui a inspiré à Victor Hugo son roman homonyme. (Note de l'éditeur ARV)]{.calibre16}
+
+::: calibre1
+[[[[[^\[24\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5413.html#filepos47631515){#filepos47751163} échafaud, vieux mot.]{.calibre16}
+
+::: calibre1
+[[[[[^\[25\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5413.html#filepos47631762){#filepos47751436} requin]{.calibre16}
+
+::: calibre1
+[[[[[^\[26\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5415.html#filepos47647911){#filepos47751688} Édition de 1558. Lyon. (note VH)]{.calibre16}
+
+::: calibre1
+[[[[[^\[27\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5417.html#filepos47660645){#filepos47752052} Charles Asplet Beresford Street.]{.calibre16}
+
+::: calibre1
+[[[[[^\[28\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_5426.html#filepos47717590){#filepos47752409} Voici, en particulier pour Guernesey et pour les inondés français de 1856, la proportion des sommes souscrites : la France a donné, par tête d'habitant, [trente centimes]{.italic}, l'Angleterre, [six centimes]{.italic}. Guernesey, [trente-huit centimes]{.italic}.]{.calibre16}
+::::::::::::::::::::::::::::::::::

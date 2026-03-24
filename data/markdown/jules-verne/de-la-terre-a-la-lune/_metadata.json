@@ -1,0 +1,391 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "DE LA TERRE À LA LUNE",
+  "slug": "de-la-terre-a-la-lune",
+  "nombre_chapitres": 28,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Le Gun-Club",
+      "slug": "chapitre-1-le-gun-club",
+      "is_part": false,
+      "spine_start": 105,
+      "spine_end_exclusive": 107,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_004.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Communication du président Barbicane",
+      "slug": "chapitre-2-communication-du-president-barbicane",
+      "is_part": false,
+      "spine_start": 107,
+      "spine_end_exclusive": 109,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_006.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Effet de la communication Barbicane",
+      "slug": "chapitre-3-effet-de-la-communication-barbicane",
+      "is_part": false,
+      "spine_start": 109,
+      "spine_end_exclusive": 111,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_008.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Réponse de l'Observatoire de Cambridge",
+      "slug": "chapitre-4-reponse-de-lobservatoire-de-cambridge",
+      "is_part": false,
+      "spine_start": 111,
+      "spine_end_exclusive": 113,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_010.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Le roman de la Lune",
+      "slug": "chapitre-5-le-roman-de-la-lune",
+      "is_part": false,
+      "spine_start": 113,
+      "spine_end_exclusive": 115,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_012.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Ce qu'il n'est pas possible d'ignorer et ce qu'il n'est plus permis de croire dans les États-Unis",
+      "slug": "chapitre-6-ce-quil-nest-pas-possible-dignorer-et-ce-quil-nest-plus-permis-de-croire-dans-les-etats-unis",
+      "is_part": false,
+      "spine_start": 115,
+      "spine_end_exclusive": 117,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_014.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – L'hymne du boulet",
+      "slug": "chapitre-7-lhymne-du-boulet",
+      "is_part": false,
+      "spine_start": 117,
+      "spine_end_exclusive": 119,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_016.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Histoire du canon",
+      "slug": "chapitre-8-histoire-du-canon",
+      "is_part": false,
+      "spine_start": 119,
+      "spine_end_exclusive": 121,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_018.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – La question des poudres",
+      "slug": "chapitre-9-la-question-des-poudres",
+      "is_part": false,
+      "spine_start": 121,
+      "spine_end_exclusive": 123,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_020.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_021.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Un ennemi sur vingt-cinq millions d'amis",
+      "slug": "chapitre-10-un-ennemi-sur-vingt-cinq-millions-damis",
+      "is_part": false,
+      "spine_start": 123,
+      "spine_end_exclusive": 125,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_022.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_023.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Floride et Texas",
+      "slug": "chapitre-11-floride-et-texas",
+      "is_part": false,
+      "spine_start": 125,
+      "spine_end_exclusive": 127,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_024.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_025.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Urbi et Orbi",
+      "slug": "chapitre-12-urbi-et-orbi",
+      "is_part": false,
+      "spine_start": 127,
+      "spine_end_exclusive": 129,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_026.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Stone's-Hill",
+      "slug": "chapitre-13-stones-hill",
+      "is_part": false,
+      "spine_start": 129,
+      "spine_end_exclusive": 131,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_028.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_029.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Pioche et truelle",
+      "slug": "chapitre-14-pioche-et-truelle",
+      "is_part": false,
+      "spine_start": 131,
+      "spine_end_exclusive": 133,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_030.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_031.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – La fête de la fonte",
+      "slug": "chapitre-15-la-fete-de-la-fonte",
+      "is_part": false,
+      "spine_start": 133,
+      "spine_end_exclusive": 135,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_032.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_033.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – La Columbiad",
+      "slug": "chapitre-16-la-columbiad",
+      "is_part": false,
+      "spine_start": 135,
+      "spine_end_exclusive": 137,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_034.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_035.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Une dépêche télégraphique",
+      "slug": "chapitre-17-une-depeche-telegraphique",
+      "is_part": false,
+      "spine_start": 137,
+      "spine_end_exclusive": 139,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_036.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_037.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Le passager de l'Atlanta",
+      "slug": "chapitre-18-le-passager-de-latlanta",
+      "is_part": false,
+      "spine_start": 139,
+      "spine_end_exclusive": 141,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_038.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Un meeting",
+      "slug": "chapitre-19-un-meeting",
+      "is_part": false,
+      "spine_start": 141,
+      "spine_end_exclusive": 143,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_040.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_041.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Attaque et riposte",
+      "slug": "chapitre-20-attaque-et-riposte",
+      "is_part": false,
+      "spine_start": 143,
+      "spine_end_exclusive": 145,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_042.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_043.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Comment un Français arrange une affaire",
+      "slug": "chapitre-21-comment-un-francais-arrange-une-affaire",
+      "is_part": false,
+      "spine_start": 145,
+      "spine_end_exclusive": 147,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_044.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Le nouveau citoyen des États-Unis",
+      "slug": "chapitre-22-le-nouveau-citoyen-des-etats-unis",
+      "is_part": false,
+      "spine_start": 147,
+      "spine_end_exclusive": 149,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_046.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – Le wagon-projectile",
+      "slug": "chapitre-23-le-wagon-projectile",
+      "is_part": false,
+      "spine_start": 149,
+      "spine_end_exclusive": 151,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_048.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24 – Le télescope des montagnes Rocheuses",
+      "slug": "chapitre-24-le-telescope-des-montagnes-rocheuses",
+      "is_part": false,
+      "spine_start": 151,
+      "spine_end_exclusive": 153,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_050.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25 – Derniers détails",
+      "slug": "chapitre-25-derniers-details",
+      "is_part": false,
+      "spine_start": 153,
+      "spine_end_exclusive": 155,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_052.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_053.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26 – Feu !",
+      "slug": "chapitre-26-feu",
+      "is_part": false,
+      "spine_start": 155,
+      "spine_end_exclusive": 157,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_054.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_055.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27 – Temps couvert",
+      "slug": "chapitre-27-temps-couvert",
+      "is_part": false,
+      "spine_start": 157,
+      "spine_end_exclusive": 159,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_056.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_057.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28 – Un nouvel astre",
+      "slug": "chapitre-28-un-nouvel-astre",
+      "is_part": false,
+      "spine_start": 159,
+      "spine_end_exclusive": 161,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_058.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_059.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/de-la-terre-a-la-lune/image001.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image002.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image005.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image006.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image007.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image008.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image009.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image010.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image011.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image012.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image013.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image014.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image015.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image016.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image017.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image018.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image019.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image020.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image022.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image023.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image024.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image025.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image026.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image027.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image028.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image029.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image030.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image031.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image032.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image033.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image034.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image035.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image036.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image037.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image038.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image039.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image040.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image041.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image042.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image043.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image044.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image045.png",
+    "images/jules-verne/de-la-terre-a-la-lune/image046.png"
+  ]
+}

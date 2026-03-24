@@ -1,0 +1,49 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+M. RÉ DIÈZE ET MLLE MI BÉMOL
+
+
+]{.calibre20}
+
+## [[Chapitre 1]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942990 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_99 .calibre21}
+
+Nous étions une trentaine d\'enfants à l\'école de Kalfermatt, une vingtaine de garçons entre six et douze ans, une dizaine de filles entre quatre et neuf ans. Si vous désirez savoir où se trouve exactement cette bourgade, c\'est, d\'après ma Géographie, dans un des cantons catholiques de la Suisse, pas loin du lac de Constance, au pied des montagnes de l\'Appenzell.
+
+« Eh ! Donc, vous là-bas, Joseph Müller ?
+
+--- Monsieur Valrügis ? répondis-je.
+
+--- Qu\'est-ce que vous écrivez pendant que je fais la leçon d\'histoire ? -- Je prends des notes, monsieur.
+
+--- Bien. »
+
+La vérité est que je dessinais un bonhomme, tandis que le maître nous racontait pour la millième fois l\'histoire de Guillaume Tell et du farouche Gessler. Personne ne la possédait comme lui. Le seul point qui lui restât à élucider était celui-ci : à quelle espèce, reinette ou calville, appartenait la pomme historique que le héros de l\'Helvétie avait placée sur la tête de son fils, pomme aussi discutée que celle dont notre mère Ève dépouilla l\'arbre du bien et du mal ?
+
+Le bourg de Kalfermatt est agréablement situé au fond d\'une de ces dépressions qu\'on appelle « van », creusée sur le côté d\'avers de la [montagne, celui que les rayons du soleil ne peuvent atteindre l\'été. L\'école,]{.calibre543} ombragée de larges frondaisons, à l\'extrémité du bourg, n\'a point l\'aspect farouche d\'une usine d\'instruction primaire. Elle est gaie d\'aspect, en bon air, avec une vaste cour plantée, un préau pour la pluie et un petit clocher où la cloche chante comme un oiseau dans les branches.
+
+C\'est M. Valrügis qui tient l\'école, de compte à demi avec sa soeur Lisbeth, une vieille fille plus sévère que lui.
+
+[Tous deux suffisent à l\'enseignement : lecture, écriture, calcul, géographie,]{.calibre543} histoire -- histoire et géographie de la Suisse s\'entend. Nous avons classe [tous les jours, sauf le jeudi et le dimanche. On vient à huit heures avec son]{.calibre543} panier et des livres sous la boucle de la courroie ; dans le panier, il y a de quoi manger à midi : du pain, de la viande froide, du fromage, des fruits, avec une demi-bouteille de vin coupé. Dans les livres, il y a de quoi s\'instruire : des dictées, des chiffres, des problèmes. À quatre heures, on remporte chez soi le panier vide jusqu\'à la dernière miette.
+
+« \... Mademoiselle Betty Clère ?
+
+--- Monsieur Valrügis ? répondit la fillette.
+
+--- Vous n\'avez pas l\'air de prêter attention à ce que je dicte. Où en suis-je, s\'il vous plaît ?
+
+--- Au moment, dit Betty en balbutiant, où Guillaume refuse de saluer le bonnet\...
+
+--- Erreur ! Nous n\'en sommes plus au bonnet, mais à la pomme, de quelque espèce qu\'elle soit ! »
+
+Mlle Betty Clère, toute confuse, baissa les yeux, après m\'avoir adressé ce bon regard que j\'aimais tant.
+
+« Sans doute, reprit ironiquement M. Valrügis, si cette histoire se chantait au lieu de se réciter, vous y prendriez plus de plaisir, avec votre goût pour les chansons ! Mais jamais un musicien n\'osera mettre pareil sujet en musique ! »
+
+Peut-être notre maître d\'école avait-il raison ? Quel compositeur prétendrait faire vibrer de telles cordes !
+
+Et pourtant qui sait ? Dans l\'avenir ?
+
+Mais M. Valrügis continue sa dictée. Grands et petits, nous sommes tout oreilles. On aurait entendu siffler la flèche de Guillaume Tell à travers la classe\... Une centième fois depuis les dernières vacances.

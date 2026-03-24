@@ -1,0 +1,187 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "UN DRAME EN LIVONIE",
+  "slug": "un-drame-en-livonie",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Frontière franchie",
+      "slug": "chapitre-1-frontiere-franchie",
+      "is_part": false,
+      "spine_start": 1843,
+      "spine_end_exclusive": 1844,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_082.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Slave pour Slave",
+      "slug": "chapitre-2-slave-pour-slave",
+      "is_part": false,
+      "spine_start": 1844,
+      "spine_end_exclusive": 1845,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_083.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Famille Nicolef",
+      "slug": "chapitre-3-famille-nicolef",
+      "is_part": false,
+      "spine_start": 1845,
+      "spine_end_exclusive": 1846,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_084.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – En malle-poste",
+      "slug": "chapitre-4-en-malle-poste",
+      "is_part": false,
+      "spine_start": 1846,
+      "spine_end_exclusive": 1847,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_085.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Le kabak de la « Croix-Rompue »",
+      "slug": "chapitre-5-le-kabak-de-la-croix-rompue",
+      "is_part": false,
+      "spine_start": 1847,
+      "spine_end_exclusive": 1848,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_086.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Slaves et Germains",
+      "slug": "chapitre-6-slaves-et-germains",
+      "is_part": false,
+      "spine_start": 1848,
+      "spine_end_exclusive": 1849,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_087.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Descente de police",
+      "slug": "chapitre-7-descente-de-police",
+      "is_part": false,
+      "spine_start": 1849,
+      "spine_end_exclusive": 1850,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_088.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – À l'université de Dorpat",
+      "slug": "chapitre-8-a-luniversite-de-dorpat",
+      "is_part": false,
+      "spine_start": 1850,
+      "spine_end_exclusive": 1851,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_089.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Dénonciation",
+      "slug": "chapitre-9-denonciation",
+      "is_part": false,
+      "spine_start": 1851,
+      "spine_end_exclusive": 1852,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_090.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Interrogatoire",
+      "slug": "chapitre-10-interrogatoire",
+      "is_part": false,
+      "spine_start": 1852,
+      "spine_end_exclusive": 1853,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_091.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – En face de la foule",
+      "slug": "chapitre-11-en-face-de-la-foule",
+      "is_part": false,
+      "spine_start": 1853,
+      "spine_end_exclusive": 1854,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_092.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Wladimir Yanof",
+      "slug": "chapitre-12-wladimir-yanof",
+      "is_part": false,
+      "spine_start": 1854,
+      "spine_end_exclusive": 1855,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_093.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Deuxième perquisition",
+      "slug": "chapitre-13-deuxieme-perquisition",
+      "is_part": false,
+      "spine_start": 1855,
+      "spine_end_exclusive": 1856,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_094.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Coups sur coups",
+      "slug": "chapitre-14-coups-sur-coups",
+      "is_part": false,
+      "spine_start": 1856,
+      "spine_end_exclusive": 1857,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_095.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Sur une tombe",
+      "slug": "chapitre-15-sur-une-tombe",
+      "is_part": false,
+      "spine_start": 1857,
+      "spine_end_exclusive": 1858,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_096.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Confession",
+      "slug": "chapitre-16-confession",
+      "is_part": false,
+      "spine_start": 1858,
+      "spine_end_exclusive": 1859,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_097.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

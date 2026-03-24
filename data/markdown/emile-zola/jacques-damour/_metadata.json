@@ -1,0 +1,64 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "JACQUES DAMOUR",
+  "slug": "jacques-damour",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1288,
+      "spine_end_exclusive": 1289,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_298.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1289,
+      "spine_end_exclusive": 1290,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_299.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1290,
+      "spine_end_exclusive": 1291,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_300.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1291,
+      "spine_end_exclusive": 1292,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_301.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1292,
+      "spine_end_exclusive": 1294,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_302.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_303.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/jacques-damour/Zola4_image026.jpg"
+  ]
+}

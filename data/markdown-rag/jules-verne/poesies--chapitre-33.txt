@@ -1,0 +1,51 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 33"
+slug_section: "chapitre-33"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 33 -- Rondeau redoublé
+J'eus de l'amour bien vrai pour Herminie,
+Elle inspirait de tendres sentiments ;
+Si sa vertu ne se fût pas ternie,
+Elle entendrait encor mes doux serments !
+
+J'ai bien passé d'agréables moments
+Dans son aimable et fine compagnie ;
+Lui confiant ma joie et mes tourments,
+J'eus de l'amour bien vrai pour Herminie !
+
+Près d'elle pur et sans monotonie
+Le temps fuyait entre mille agréments,
+A qui voyait sa charmante manie
+Elle inspirait de tendres sentiments !
+
+Je repoussais tous ces faux jugements
+Dont l'entourait la vile calomnie ;
+Je lui serais le plus pur des amants,
+Si sa vertu ne se fût pas ternie !
+
+Elle a rompu notre harmonie,
+Pourtant je l'aime, hélas ! pour châtiments,
+Prêt à toujours souffrir sa tyrannie,
+Elle entendrait encore mes doux serments.
+
+Envoi
+
+Quoique pour moi ses affreux traitements,
+Et le mépris d'un amour qu'elle nie,
+Pour la haïr soient assez d'aliments,
+Puis-je oublier qu'hélas ! pour Herminie,
+J'eus de l'amour !

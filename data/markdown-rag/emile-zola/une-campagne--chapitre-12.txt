@@ -1,0 +1,80 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 12"
+slug_section: "chapitre-12"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Bêtise
+Eh bien ! voilà de la bonne besogne, et la semaine n'a pas été perdue ! Pendant huit jours, la France entière a été bouleversée par la question de savoir si une certaine lettre de M. Rochefort avait été remise à M. Gambetta29(../Text/Zola5_split_599.htm#_ftn29).
+
+Grand Dieu ! quel problème ! et en saisissez-vous tout de suite l'importance capitale ? La Chambre est en train de discuter le budget ; mais la lettre de Rochefort, monsieur ! L'hiver est doux, les cultivateurs sont dans l'inquiétude ; mais, monsieur, pensez-vous que la lettre n'aurait pas été volée dans les papiers d'Albert Joly ! Voici les étrennes, il est à souhaiter que les affaires marchent bien ; mais rien ne prouve après tout, monsieur, que Gambetta ait reçu cette lettre, en 1871, comme ses créatures l'affirment !
+
+Eh ! à la fin, fichez-moi la paix avec M. Gambetta et M. Rochefort ! En quoi les affaires privées de ces messieurs peuvent-elles intéresser le pays ? Est-ce que cela dégrèvera les impôts, favorisera les récoltes, activera le commerce ? Nous sommes bien avancés, quand on nous a prouvé avec un luxe de preuves inutile que M. Rochefort est un grand enfant et que M. Gambetta entend supprimer tous les obstacles, quels que soient les moyens. Huit jours, ô misère ! huit jours perdus à démontrer qu'il fait clair en plein midi, huit jours à piétiner, à potiner, à se prendre aux cheveux comme des crocheteurs, à donner au monde l'exemple d'une nation de badauds regardant deux hommes se massacrer dans la boue !
+
+La France regarde et écoute. Le travail s'arrête, des curieux se mettent aux fenêtres, on ne parle que de la rixe d'un bout du pays à l'autre, comme s'il s'agissait de Troppmann ou de Menesclou. C'est la folie du commérage qui souffle. Dans la presse, le vacarme est affreux. Sur leurs trois pages, les journaux en consacrent deux à l'aventure, avec des commentaires sans fin, des analyses, des raisonnements, une passion croissante ; si bien que la bataille devient générale et que des gifles s'égarent sur tous les visages. Demain, un chef-d'œuvre littéraire peut paraître, une grande découverte scientifique peut être faite : c'est à peine si les journaux lui donneront dix lignes, par charité !
+
+O bêtise !
+
+Puis, quand les coups de poing ont cessé, de lassitude, on se ramasse avec peine, on essuie la poussière et la boue de ses vêtements, pris d'une grande honte. Tout le monde a attrapé des meurtrissures et de la crotte. Un silence embarrassé se fait brusquement, devant les voisins qui s'amusaient et qui s'en vont en ricanant et en haussant les épaules. On se sent très sale, très laid et très bête. On n'a plus qu'une envie, celle de se cacher et de dormir.
+
+Alors, commencent les malaises et les regrets des lendemains d'ivresse. Les gens raisonnables se talent et s'interrogent. À quoi tout cela rimait-il ? Qui diable pouvait avoir intérêt à une pareille crise de rage imbécile ?
+
+Le pays s'y trouve compromis ; la politique y apparaît plus sotte et plus vide encore ; l'intelligence française y perd sa vieille réputation de courtoisie et d'esprit. Restent les journaux dont le tirage a monté pendant quelques jours. Il est certain que, pour une feuille qui ne se vend guère et qui semble menacée d'une prochaine déconfiture, c'est une véritable aubaine que de lancer un scandale pareil. Tout d'un coup, la vente double ; on bourre le journal de documents et d'extraits, à le faire éclater ; on emploie des caractères d'affiche, on spécule tant qu'on peut et jusqu'au bout sur l'affolement public. Mais le bénéfice reste assez piètre, car le tirage baisse de nouveau, dès que le scandale cesse.
+
+En somme, nous y perdons tous, M. Rochefort et M. Gambetta qui se sont mal conduits devant nous, et nous qui avons eu le mauvais goût de nous intéresser à ce vilain spectacle. Un seul homme a le droit d'être ravi. Je veux parler du jeune écrivain qui a publié la lettre et qui a fait, ce jour-là, plus pour sa célébrité qu'il n'en fera certainement dans toute une vie de sérieux labeur. On dit que ce jeune écrivain a eu de grands succès universitaires, qu'il est des plus intelligents et des plus actifs, qu'il sera un homme très remarquable. À quoi bon tout cela ? N'étudiez donc pas, ne soyez pas intelligent, puisque vous devenez illustre d'un coup, en publiant les petits papiers d'un homme politique ! Quel magnifique lançage pour les discours de M. Gambetta, dont je parlais lundi dernier, et que le jeune maître, entré cette semaine dans la gloire, est justement chargé de présenter au public !
+
+Au demeurant, une réclame de librairie et un nom nouveau jeté à la notoriété : tel est le bénéfice net et certain de l'aventure. Mettez en balance l'encre et le papier perdus, la France emplie de honte et de dégoût.
+
+O bêtise !
+
+Remarquez que M. Rochefort et M. Gambetta.sortent de cette équipée tels qu'ils y sont entrés, ni diminués, ni grandis. Pour eux, le résultat est nul, ils demeurent ce qu'ils étaient hier, aux yeux des spectateurs attentifs et impartiaux. Et tout le monde en conviendra, dans quelques jours, lorsque le vacarme se sera apaisé.
+
+En vérité, il faut que la politique soit un agent bien actif d'aveuglement, pour qu'on ait pu s'étonner de la lettre écrite par M. Rochefort. Elle est toute naturelle, cette lettre, et l'histoire en est claire. Je suis même certain que M, Rochefort dit la stricte vérité, lorsqu'il affirme qu'après l'avoir écrite, il a hésité à la faire remettre ; et il est fort possible que, si Albert Joly l'a réellement remise, il ait pris sui lui cette démarche. Mais admettons même que M. Rochefort ait écrit et envoyé la lettre de son propre mouvement, il n'aurait aujourd'hui qu'un tort, celui ne pas l'avoir reconnu tout de suite et de s'être laissé emporter par la passion dans des explications confuses.
+
+Ne le connaissez-vous donc pas, depuis quinze ans qu'il occupe Paris ? Il est très brave, très loyal, tout le monde en convient. Mais il est aussi très nerveux, et ses amis les plus dévoués ne cachent pas que sa tête tourne à tous les vents. C'est un tempérament d'écrivain, rien de plus. Ce qui arrive devait fatalement arriver, au milieu des contradictions de sa conduite et des facilités de sa camaraderie. L'étonnant est que cela ne se soit pas produit plus tôt, et qu'on ne déterre pas d'autres documents, où son cœur donne des démentis à Sa raison.
+
+Quand on s'attaque en lui à l'homme politique, cela fait sourire ; car l'homme politique n'existe guère. Un reproche plus grave, le seul grave, est celui d'ingratitude. Seulement, on en parle vraiment à son aise. Soyez donc déporté, allez à des milliers de lieues, évadez-vous en risquant vingt fois votre vie, rentrez en France au bout de dix ans, et là assistez au triomphe d'anciens amis, devenus des adversaires, et dont le tempérament diffère absolument du vôtre. Cette question des tempéraments explique tout ici. M. Rochefort et M. Gambetta s'exècrent, parce qu'ils ne sentent rien de la même façon, qu'ils sont deux forces opposées et qu'ils devaient forcément se heurter un jour.
+
+M. Rochefort est donc, dans le cas présent, ce que l'analyse devait le donner. Je cherche à expliquer logiquement les faits ; mais imaginez qu'il ait tous les torts, en quoi cela l'entame-t-il ? Sa force n'est pas dans la rectitude de sa ligne politique, elle est dans sa verve. Croyez qu'il n'a rien perdu de sa popularité. Demain, il reprendra ses violences et se sauvera quand même par les qualités de son tempérament d'écrivain.
+
+Ah ! la faute de M. Rochefort est plus ancienne. Le jour où il s'est compromis à jamais, le jour où il a fait une chute mortelle, c'est le jour où il est tombé dans la politique. Comment ! monsieur, vous étiez une intelligence littéraire, vous aviez un style personnel, et vous avez consenti à jouer le rôle niais d'un homme de parti, vous avez accepté de gaieté de cœur les âneries et les malpropretés de la politique ! Passe encore pour M. Gambetta, dont l'ambition ne saurait être que là ; il n'est pas né écrivain, il n'a pas le don des lettres et y aurait végété misérablement. Mais vous, vous qui étiez quelqu'un déjà, vous qui pouviez être un observateur et un artiste ! En vérité, ignorez-vous donc que quiconque a le respect de son intelligence, ne doit se résoudre à faire de la politique que lorsqu'il s'est reconnu absolument incapable de faire quelque chose de plus propre !
+
+Ces jours-ci, je lisais justement votre dernière œuvre : *le Palefrenier*, et j'étais très irrité contre vous, en songeant au romancier que vous auriez pu être, si une popularité bruyante n'était venue détraquer vos nerfs, et si vous n'aviez pas derrière vous l'amertume de dix années d'exil. Aujourd'hui, quelle pitié ! vous voilà condamné à ces polémiques affolées qui nous attristent, nous qui aimons votre esprit. Vous ne vous appartenez plus, vous devez parfois regretter en rêve le tranquille cabinet de travail où vous écririez des œuvres qui resteraient.
+
+O bêtise !
+
+Quant à M. Gambetta, il aurait tort d'être satisfait, car l'apparente victoire qu'il vient de remporter est faite pour déconsidérer autant le vainqueur que le vaincu. Outre que son adversaire reste debout, plus enragé et plus dangereux qu'auparavant, lui-même se trouve atteint par l'arme qu'il a cru devoir employer. La publication d'une lettre intime est toujours chose délicate, et cette publication devient plus blessante encore, lorsqu'elle semble préméditée de longue main, et qu'elle est faite par un étranger, qui n'avait rien à voir dans la querelle. D'habitude, on lave ce linge sale en famille. Tout galant homme éprouvera un malaise devant des procédés pareils.
+
+J'ajoute que je ne m'étonne pas ; car, au fond de tout acte, il n'y a jamais que le fait d'un tempérament. M. Gambetta, comme Louis XIV, pourrait se plaindre de sa grandeur qui l'attache au rivage. Il est monté si haut, et ses amis le haussent encore à un tel point, que de bonne foi il doit lui paraître impossible de se commettre avec un simple journaliste. De là ces façons de grand roi qui confie à son plus jeune lieutenant une besogne qu'il ne saurait faire lui-même sans sortir de l'étiquette. Jamais les princes n'ont coupé le cou des gens ; ils ont toujours eu des serviteurs pour leur éviter le désagrément de cette besogne.
+
+Au reste, vilaine affaire. Dans cette voie des vieux papiers, on peut aller loin. Déjà on parle d'une lettre que M. Gambetta aurait écrite anciennement à M. Baroche pour lui demander une place de substitut. Toutes les folies de jeunesse y passeront. Attendons-nous à ce qu'on publie les confidences aux amis, les déclarations aux femmes, toutes les confessions qu'on ose à peine se murmurer à soi-même. Qui n'a pas dans sa vie le cadavre d'une ambition ou d'une faiblesse ?
+
+Cette campagne manque donc de dignité : violence folle, d'une part, et indélicatesse sournoise, de l'autre. Mais lorsque tout croule, lorsqu'un détraquement général brouille au fond des cervelles les idées du vrai et du faux, lorsqu'on ne sait où se tourner pour se reposer enfin dans une certitude, comment voulez-vous que le pays entier ne soit pas pris de fièvre chaude ?
+
+Un fait entre mille. L'autre jour, M. Gambetta parlait à la Sorbonne, à l'occasion du cinquantenaire de l'Association polytechnique. Applaudissements frénétiques, enthousiasme, pâmoison des dévots. Le lendemain, on lit le discours, et on le trouve fort ordinaire, délayant dans un déluge de phrases molles et quelconques cette idée toute simple que l'Association polytechnique fait de la bonne besogne en instruisant les ouvriers, et qu'elle hausse de la sorte le niveau intellectuel de la démocratie. Cela a été dit, imprimé, répété cent fois. Mais il suffit que M. Gambetta le répète une cent-unième fois, et beaucoup moins littérairement, pour qu'on tombe dans l'extase, comme devant une vérité inconnue, superbe de nouveauté et d'audace.
+
+Ce n'est rien encore. M. Gambetta nomme Auguste Comte et l'appelle le plus grand penseur du siècle. Du coup, c'est du délire, voilà le positivisme révélé par un dieu et lancé dans le monde. Quelle immense farce : quelle tristesse mortelle pour les penseurs et les savants ! Tout de suite, j'ai songé à M. Littré, cette réelle et grande intelligence, qui, depuis plus d'un demi-siècle, travaille et lutte pour ce qu'il croit être la vérité, pour ce positivisme que son labeur incessant n'a pu élargir encore. Qui connaît M. Littré ? Qui se soucie de ce qu'il apporte ? La presse le plaisante avec un goût douteux sur le fameux singe, notre ancêtre commun, opinion qu'il n'a jamais soutenue d'ailleurs. Mais que M. Gambetta, sans préparation aucune, dans un simple but de tactique politique, lance le nom d'Auguste Comte, et voilà la France remuée, et voilà des imbéciles, une foule d'imbéciles, qui vont se déclarer positivistes ! J'en enrage !
+
+O bêtise !
+
+Moi-même, je me tâte, j'ai peur de devenir stupide. Des amis m'arrêtent et me disent : « Quoi ? que vous arrive-t-il ? Pourquoi criez-vous si fort ? Mais c'est la vie elle-même qui vous fâche ! Misère à gauche, misère à droite, et infirmité partout : c'est dans l'ordre ! »
+
+Il est bien ridicule, en effet, de vouloir que l'intelligence règne. Des délicats se sont mis à l'écart et goûtent une volupté particulière à se savoir très intelligents et très ignorés. Leur théorie est que seule la médiocrité est populaire. Eh bien ! cela me gonfle le cœur de tristesse et de honte. Je crois à la force du génie, je voudrais le voir triompher en tout. Et, à chaque échauffourée de la sottise publique, à chaque tapage idiot qui emplit les rues et la presse, je suis révolté du temps perdu et des idées fausses lancées dans la circulation, sans avoir d'ailleurs l'espoir naïf de jamais changer le train de ce bas monde.
+
+Mais quelle ballade à la bêtise humaine ! Bêtes, ceux qui tiennent le pouvoir et qui, pour le garder, finissent par se prendre à leurs ruses et à leurs mensonges ! Bêtes, ceux qui, rêvant le pouvoir, tombent dans le cloaque de la politique et y laissent le meilleur d'eux-mêmes, leur talent, leur vie et jusqu'à leur dignité ! Et bête moi-même, qui oublie chaque fois la puissance de la bêtise, et qui enrage dans mon coin, parce que les vieux papiers, les chiffons sans intérêt de MM. Rochefort et Gambetta occupent davantage la France que le roman posthume de Gustave Flaubert !
+
+O bêtise ! bêtise !

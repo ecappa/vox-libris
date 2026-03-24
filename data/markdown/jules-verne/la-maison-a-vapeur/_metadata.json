@@ -1,0 +1,61 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LA MAISON À VAPEUR",
+  "slug": "la-maison-a-vapeur",
+  "nombre_chapitres": 30,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 891,
+      "spine_end_exclusive": 907,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_504.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_505.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_506.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_507.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_508.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_509.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_510.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_511.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_512.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_513.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_514.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_515.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_516.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_517.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_518.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_519.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 907,
+      "spine_end_exclusive": 921,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_520.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_521.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_522.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_523.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_524.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_525.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_526.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_527.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_528.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_529.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_530.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_531.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_532.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_533.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

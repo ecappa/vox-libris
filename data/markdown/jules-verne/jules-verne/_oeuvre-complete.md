@@ -1,0 +1,181 @@
+# [!{#Image252 .calibre16} JULES VERNE]{#_Toc342943266 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_27 .calibre6}
+
+::: MsoToc1
+
+------------------------------------------------------------------------
+
+(1883)
+Jules Claretie
+Annexes
+
+::: MsoToc
+
+------------------------------------------------------------------------
+
+
+]{.calibre20}
+
+
+ANNEXES
+
+JULES VERNE
+
+Par Jules Claretie
+
+
+]{.calibre20}
+
+
+JE ne sais qui disait, en sortant d\'une représentation du *Tour du Monde en 80 jours* ou du *Voyage à travers l\'impossible* [:]{.calibre12} *C\'est la [Biche au bois]{.calibre27} en locomotive\...*
+
+Le mot a du vrai. Il faut toujours à l\'homme sa part de rêve, même dans l\'époque la moins idéaliste qui soit dans l\'histoire, en un siècle où la guerre se fait avec des télégraphes, où les corps d\'armée arrivent en chemins de fer sur les champs de bataille, et où l\'éloquence d\'un Cicéron pourrait être emmagasinée par le téléphone. Nous n\'en sommes plus aux contes de ma *Mère l\'Oie* et M. Édouard Laboulaye a peut-être écrit les derniers *Contes bleus*. Nous en sommes aux contes scientifiques. La science a pris notre temps au collet. Elle le secoue même un peu violemment, quitte à faire tomber toutes ses illusions ; et à l\'heure où la féerie se réfugie dans le téléphone, il était naturel qu\'un conteur traduisît, dans des récits bientôt populaires, les aspirations de notre époque vers le fantastique scientifique. C\'est ce qu\'a fait, avec un bonheur rare, l\'inventeur dont je voudrais ici résumer le rôle.
+
+Jules Verne incarne à l\'heure où nous sommes le romanesque essentiellement moderne et contemporain. Il a résolu ce problème d\'intéresser avec des gens en vestons courts, en paletots sacs et en guêtres de voyage. Son Philéas Fogg et son capitaine Hatteras, et leur dernier frère, Kéraban le Têtu, sont les Athos, les Porthos et les Monte-Cristo d\'une époque pratique et qui sait le prix des chèques, des tickets et des télégraphes. Les coups d\'épée des mousquetaires et les bottes secrètes de Nevers rencontreraient aujourd\'hui plus d\'un sourire sceptique ; mais les coups de revolver du parisien Passe-Partout, de l\'Américain Corsican et du Russe Michel Strogoff,--- ce courrier du czar traversant les steppes pour porter un ordre, comme d\'Artagnan traverse la Manche pour rapporter les ferrets de la reine,--- sont acceptés comme détonation d\'évangile. Ils ont leurs disciples et leurs croyants. Encore une fois, il faut toujours à l\'humanité sa ration de songes. Chacun de nous, sa journée finie, la plupart du temps terne et maussade, éprouve le besoin d\'ouvrir une sorte de lucarne sur l\'infini. Vive les contes qui consolent de l\'histoire quotidienne ! Et lorsque le fringant Aramis ou Athos le pensif ont amusé, sans les lasser, les générations ; lorsque le prince Rodolphe des *Mystères de Paris* a vu son grand-duché de Gérolstein envahi par l\'opérette et sa Fleur-de-Marie chanter : *J\'aime les militaires* [;]{.calibre12} lorsque Rodin est mort d\'une indigestion de radis noirs ; lorsque les millions d\'Edmond Dantès sont devenus la misère, comparés aux milliards que coûtent aujourd\'hui les cannonades internationales et les krachs financiers ; lorsque les ruses de Rastignac ont pâli devant les ambitions de nos politiciens ; lorsque Vautrin a rendu les armes à M. Lecoq et Atar-Gull à Tropmann, il faut bien chercher ailleurs le songe, l\'impossible, la consolation, l\'oubli, la chimère, la chère Chimère, toujours prête à étendre son aile dorée sur la hideur des réalités.
+
+C\'est ce qu\'a fait M. Jules Verne, Parisien jusqu\'aux ongles par l\'esprit et cosmopolite par l\'imagination ; gai causeur, inventeur inépuisable, boulevardier et solitaire, le premier à l\'ouverture du Salon comme à la course en yacht en pleine mer avec les pêcheurs des côtes, esprit original, visage sympathique, et l\'oeil, comme la main, franchement ouvert.
+
+Les aventures de Philéas Fogg, visitant la terre en quatre-vingt jours, ont diverti les Parisiens durant des mois entiers, et dans son fauteuil on a fait paisiblement le *Tour du Monde*. Puis ces décors, ces machines, ces steam-Boats, ces serpents, cet éléphant, ces locomotives, ces Indiens Pawnies parcourant l\'Europe, on les a applaudis à Bruxelles, on les a vus à Londres, on les réclame à Vienne, on les attend à New-York. Il n\'y a plus de succès parisiens : le théâtre devient européen. Le vieux monde est fini avec les vieilles moeurs. *Go ahead* ! Place à Philéas Fogg et à son siècle ! Don Quichotte est une ganache, et ce n\'est pas à des moulins à vent que s\'en prennent nos héros de romans, c\'est à des bateaux à vapeur, comme ce M. Fogg, à des continents ignorés, à la mer libre du pôle, comme le capitaine Grant, ou à des citadelles, comme Strogoff.
+
+M. Jules Verne a eu le bon esprit de comprendre et de deviner son temps. Ce Parisien, comme je l\'appelais tout à l\'heure, est né à Nantes le 8 février 1828 ; il a donc cinquante-cinq ans aujourd\'hui. C\'est, encore une fois, le plus aimable des hommes.
+
+L\'auteur des *Voyages à travers l\'impossible*, dont les plus récents sont les aventures de *Kéraban le Têtu*, débuta il y a trente ans environ, en littérature, par des nouvelles et des comédies. Je lisais, il n\'y a pas longtemps, une pièce de lui, écrite en collaboration avec Pitre-Chevalier et insérée dans le *Musée des Familles*. Déjà l\'instinct *traveller* de Jules Verne s\'y révèle. Cela s\'appelle *Pierre qui roule n\'amasse pas mousse*, et c\'est l\'histoire d\'un bon bourgeois parti pour la Californie sur la foi de la réputation de ce coin de terre. Dans le même volume, Jules Verne a signé de son nom une nouvelle mexicaine, *Martin Paz*. Il portait déjà, on peut le dire, en lui, à l\'état latent, le roman scientifique.
+
+A cette époque, pourtant, il « rimait » et nous le surprenons en train d\'écrire non des romans, mais des romances.
+
+Le *Phare de la Loire* publiait naguère, dans les *Souvenirs d\'un vieux Nantais*, une chanson, péché de jeunesse de Jules Verne, que chantait jadis admirablement le baryton Charles Bataille, *Les Gabiers*, par Jules Verne et Aristide Hignard :
+
+En partant du bord
+Vous voyiez naguère,
+Pleurer sur le bord
+Votre vieille mère !
+Dans son triste adieu
+À la Sainte Vierge,
+Elle a fait le voeu
+De brûler un cierge
+Si son pauvre fils,
+Sauvé de l\'orage,
+Revient au rivage,
+Revient au pays !
+Hardis matelots,
+Montez dans la hune,
+Pour chercher la dune
+Au milieu des flots.
+Alerte !
+Alerte, enfants, alerte !
+Le ciel est bleu, la mer est verte,
+Alerte ! Alerte !
+
+
+Presque en même temps, Jules Verne, co-auteur des *Gabiers*, collaborait avec Alexandre Dumas fils, demeuré son ami et qui l\'aime « comme il aime quand il aime », et Verne donnait avec lui, au Gymnase, les *Pailles rompues*. Puis il apportait au Vaudeville une comédie en trois actes : *Onze jours de siège*. À cette époque encore, avant d\'être secrétaire du Théâtre-Lyrique,--- avant ou après le spirituel Ph. Gille--- Verne fréquentait la Bourse ; il avait rêvé jadis de partir pour la Californie, de se faire chercheur d\'or ; il s\'était fait coulissier. Il mêlait agréablement la littérature à la finance.
+
+Cependant, son tempérament littéraire particulier se développait déjà. On trouvera, à la fin du volume de Verne qui a pour titre le *Docteur Ox*, une nouvelle fort curieuse : *Un drame dans les airs*. C\'est l\'aventure d\'un aéronaute qui, prenant un passager, s\'aperçoit que ce passager est fou. Méry avait conté une histoire de ce genre : le fou dont parle M. Verne jette au vent tout ce qui sert de lest à l\'aérostat.
+
+« Le ballon, entièrement délesté de tous les objets qu\'il contenait, nous fûmes emportés, écrit le romancier, à des hauteurs inappréciables ! L\'aérostat vibrait dans l\'atmosphère. Le moindre bruit faisait éclater les voûtes célestes. Notre globe, le seul objet qui frappât ma vue dans l\'immensité, semblait prêt à s\'anéantir, et, au-dessus de nous, les hauteurs du ciel étoilé se perdaient dans les ténèbres profondes !
+« Je vis l\'individu se dresser devant moi !
+« Voici l\'heure ! me dit-il. Il faut mourir ! Nous sommes rejetés par les hommes ! Ils nous méprisent ! Écrasons-les !
+« --- Grâce ! fis-je.
+« --- Coupons ces cordes ! Que cette nacelle soit abandonnée dans l\'espace ! la force attractive changera de direction, et nous aborderons au soleil !
+« Le désespoir me galvanisa. Je me précipitait sur le fou ; nous nous prîmes corps à corps, et une lutte effroyable se passa ! Mais je fus terrassé, et tandis qu\'il me maintenait sous son genou, le fou coupait les cordes de la nacelle.
+« --- Une ! fit-il.
+« --- Mon Dieu !\...
+« --- Deux ! trois ! »
+« Je fis un effort surhumain ; je me redressai et repoussai violemment l\'insensé !
+« --- Quatre ! » dit-il.
+« La nacelle tomba ; mais, instinctivement, je me cramponnai aux cordages, et je me hissai dans les mailles du filet.
+« Le fou avait disparu dans l\'espace !
+« Le ballon fut enlevé à une hauteur incommensurable. Un horrible craquement se fit entendre\... Le gaz, trop dilaté, avait crevé son enveloppe !\... Je fermai les yeux\...
+« Quelques instants après, une chaleur humide me ranima. J\'étais au milieu de nuages en feu. Le ballon tournoyait avec un vertige effrayant. Pris par le vent, il faisait cent lieues à l\'heure dans sa course horizontale, et les éclairs se croisaient autour de lui. Cependant ma chute n\'était pas très rapide. Quand je rouvris les yeux, j\'aperçus la campagne. J\'étais à deux milles de la mer, et l\'ouragan m\'y poussait avec force, quand une secousse brusque me fit lâcher prise. Mes mains s\'ouvrirent, une corde glissa rapidement entre mes doigts, et je me trouvai à terre. »
+
+
+Ces pages n\'ont-elles point un double intérêt ? Ne rappellent-elles pas la catastrophe terrible du *Zénith*, où M. Gaston Tissandier faillit mourir et où ses courageux compagnons trouvèrent la mort ? Et ne montrent-elles pas un *Jules Verne avant la lettre*, si je puis dire, tout à fait entraînant déjà ?
+
+Ce fut en 1863 que Jules Verne publia, chez Hetzel, son premier « roman scientifique ». Le roman, qui a été tour à tour intime, héroïque, épileptique, historique, philosophique, macabre, socialiste, pittoresque, américain, national, idéaliste, réaliste, naturaliste, devenait électrique. Ce premier roman scientifique s\'appelait *Cinq semaines en ballon*, et le succès en fut considérable. Il y a là des pages d\'une puissance rare et d\'un style très sain dans son alacrité bien française. Cela séduisit même les lettrés, plut aux curieux, amusa les savants comme un joli paradoxe, et entraîna les enfants comme de la science avenante.
+
+*Les Aventures du capitaine Hatteras, les Enfants du capitaine Grant* ont tour à tour promené les lecteurs de Jules Verne au pôle Nord et en Australie, dans la mer de Glace et dans l\'océan Pacifique. Entre temps, le conteur conduit son monde au fond des mers ou dans la lune, au centre de la terre ou dans le pays des fourrures, et, fidèle à ces récits, le public le suit partout.
+
+La réputation de M. Jules Verne est aujourd\'hui universelle. Ses romans scientifiques sont plus que célèbres : en Angleterre, où M. Ballantyne a exploité une littérature analogue, le nom de Jules Verne est aussi populaire que chez nous. On pourrait trouver des prédécesseurs à Jules Verne : l\'abbé Bordelon peut-être, ou même Cyrano Bergerac ; Boistard aussi, qui publia des récits du même genre dans le *Musée des Familles* ; mais Verne seul a pu faire croire à la réalité de ces improbabilités pittoresques et amusantes.
+
+C\'est dans le *Musée des Familles*, son recueil de débuts, que je trouve, sous une signature qui est peut-être un pseudonyme, un *portrait* de Jules Verne « en robe de chambre » et d\'après nature, que je crois bon à citer et qui est, comme on dit à présent, très *documenté* :
+
+« Voulez-vous faire connaissance avec le *Saint-Michel* ? dit M. Ch. Raymond. C\'est un petit yacht de huit à dix tonneaux, gréé comme les bateaux de pêche de la baie de Somme, d\'où il est, du reste, originaire, ayant vu le jour sur les chantiers du Crotoy : un trou à l\'avant pour l\'équipage, une chambre à l\'arrière pour le capitaine et les passagers, si l\'on peut donner le nom de chambre à une cabine de quatre pieds et demi de haut sur six de long et cinq de large, avec deux cadres qui se font vis-à-vis, adossés aux bordages, et représentant, grâce à leurs matelas de varech, deux lits d\'un moelleux très relatif. Derrière l\'escalier, ou plutôt l\'échelle qui descend du pont dans la chambre en question, une vaste armoire, contenant la bibliothèque du bord, c\'est-à-dire l\'annuaire des marées, quelques cartes marines et trois ou quatre gros dictionnaires et volumes de voyages. Sur le pont, un canon qu\'on ne tire jamais sans recommander son âme à Dieu tant on craint qu\'il n\'éclate.
+
+« Quant à l\'équipage, il se compose de deux braves matelots du Crotoy, Alexandre Dulong et Alfred Berlot, qui, chaque été, abandonnent leurs filets et leurs lignes pour suivre la fortune du *Saint-Michel*. Ils ont été l\'un et l\'autre marins de l\'État : Alexandre, vulgairement appelé Sandre, a fait les campagnes de Crimée et d\'Italie ; il est revenu quartier-maître de canonnage. Alfred a passé deux années à la Nouvelle-Calédonie ; il a mangé du Kanak ou a été mangé par lui, je ne sais plus au juste, mais Alfred me paraissant pourvu d\'un râtelier formidable et de tous ses agrès, je penche pour la première hypothèse.
+
+« Enfin, le capitaine n\'est autre que Jules Verne, l\'auteur du *Tour du monde en quatre-vingts jours*, une des figures les plus sympathiques de la littérature contemporaine, et l\'un des meilleurs amis par-dessus le marché.
+
+« Jules Verne a une véritable passion pour la mer et y passe tout le temps qu\'il peut dérober au travail. Encore cette bibliothèque, dont j\'ai parlé plus haut, si incomplète qu\'elle soit, lui permet-elle de continuer, même à bord, les recherches nécessaires à son oeuvre. Vous savez aussi bien que moi que, même quand la main ne noircit pas de papier, le cerveau est un creuset dans lequel la pensée s\'élabore incessamment, préparant, assemblant, combinant les matériaux multiples du livre futur. C\'est donc à bord du *Saint-Michel*, soit qu\'il commande la manoeuvre, soit que son esprit s\'égare à travers les mondes qui peuplent le firmament étoilé, c\'est à bord du *Saint-Michel* que Verne a conçu la bonne moitié de ses ouvrages.
+
+« Vêtu d\'une vareuse de gros drap bleu ou d\'un gilet de tricot à raies parallèles, la tête couverte, suivant le temps, d\'un chapeau de cuir goudronné ou d\'un béret sans visière, tantôt il se tient à la barre, tantôt, aidant à la manoeuvre, il prend un ris, amène une voile, relève un feu, capitaine et matelot tour à tour ; car il sait que rien ne remplace la vieille expérience de Sandre, et, dans les moments critiques, il lui remet toujours le commandement. D\'un autre côté, Sandre et Alfred adorent Verne.
+
+« --- Il n\'a qu\'un défaut, me disait Sandre, il ne comprend rien à la pêche et ne croit au poisson que lorsqu\'il le tient au bout de sa fourchette. Comment un homme aussi supérieur peut-il être atteint d\'une pareille infirmité ? Ce n\'est pas qu\'il nous défende de mettre nos lignes à la traîne et même d\'embarquer notre chalut ; mais on dirait une fatalité. À bord de nos barques, nous prenons ce que nous voulons, le poisson mord sur des tuyaux de pipe. À bord du *Saint-Michel*, vous amorceriez avec des truffes, rien n\'y ferait. C\'est à croire que le capitaine nous a jeté un sort. Et à chaque tentative nouvelle, naturellement il se moque de nous. Enfin, il y a huit jours, nous tenions nos lignes à la main pendant que le *Saint-Michel* courait des bordées par le travers du cap Antifer. Bon ! une secousse ! Nous hélons le filin, et voilà un maquereau qui gigotte au bout, le premier maquereau que nous eussions vu depuis notre embarquement. Vous comprenez si nous étions contents. Alfred et moi, nous regardions le capitaine en dessous, comme pour lui dire : « Eh bien, y croyez-vous ? » Lui, toujours narquois, ne répondait rien. Cependant, voilà *notre* maquereau sur le pont. Alfred le prend par les ouïes pour le décrocher. Paf ! le satané coquin donne un coup de queue, se décroche lui-même, rebondit sur le tillac et de là dans l\'eau. Était-ce du guignon, hein ? Et M. Verne de se tenir les côtes. Ah ! nous avons perdu là une belle occasion de lui prouver qu\'il y a du poisson ailleurs que dans la marmite.
+
+« --- Que voulez-vous, Sandre, l\'homme n\'est pas parfait !
+« Le fait est que chaque fois que je suis monté à bord du *Saint-Michel* », j\'ai essayé de vaincre la malchance, mais jamais, au grand jamais, je n\'ai vu tête ou queue de poisson ; d\'où je partage absolument l\'opinion d\'Alexandre.
+« Malgré sa petite taille, le *Saint-Michel* ne se borne pas à courir des bordées du Crotoy au Havre. Parfois il embarque ses provisions et gagne la haute mer. Il a montré son pavillon en Angleterre, sur les côtes de la Normandie et de la Bretagne. Malheureusement, ses dimensions trop restreintes lui interdisent les longs voyages, et Verne a songé plus d\'une fois à lui donner un successeur. Celui-ci fût-il corvette ou brick, pour moi, je regretterai toujours le *Saint-Michel*, où j\'ai passé de si bonnes heures.
+« Ah ! j\'oubliais de vous dire que Jules Verne a épousé une très aimable femme dont la famille habite Amiens, ce qui fait qu\'il demeure en cette ville, et que leur fils, Michel, a été naturellement le parrain dudit yacht.
+« Maintenant que vous connaissez le navire et l\'équipage, parlons un peu plus longuement, si vous le voulez bien, du capitaine.
+« Jules Verne a aujourd\'hui quarante-sept ans (l\'article de Charles Raymond date de quelques années). Ses cheveux légèrement frisés commencent à grisonner, ainsi que sa barbe. La taille, que j\'ai connue svelte et élégante, mesure un diamètre respectable ; l\'oeil, fin et spirituel, éclaire une figure d\'une rare intelligence.
+« Il appartient à une des familles les plus honorables et les plus respectées de la Bretagne, au sein de laquelle le culte des lettres est héréditaire. M. Paul Verne, son frère, a publié, il y a quelques années, le récit d\'une ascension au mont Blanc, qui a été justement remarqué.
+« Mais *Cinq semaines en ballon* constituaient-elles un accident heureux, une de ces bonnes fortunes uniques qui n\'ont pas de seconde édition ? ou marquaient-elles le premier pas d\'un écrivain de race ? À l\'avenir de répondre. L\'avenir répondit par le *Voyage au centre de la Terre* et les *Anglais au pôle Nord*. Cette fois, le doute n\'était plus permis, et le nom de Jules Verne, sortant de l\'obscurité, émergeait en pleine lumière. »
+
+M. Ch. Raymond, après avoir raconté les débuts de Verne, d\'abord avocat, puis trouvant sa note littéraire originale,--- de l\'Edgar Poe gai et point halluciné --- avec *Cinq semaines en ballon*, ajoute :
+« Depuis lors, chaque nouveau livre a agrandi, confirmé la réputation de l\'auteur. Le *Voyage à la Lune*, les *Enfants du capitaine Grant*, le *Chancelor*, le *Pays des Fourrures*, *Vingt mille lieues sous les Mers*, se succédaient sans interruption et rencontraient auprès du public le même accueil enthousiaste.
+« Le succès suscite la concurrence. On devait donc s\'attendre à voir de nombreux rivaux s\'élancer à sa suite dans la carrière que Verne avait ouverte. Il n\'en fut rien. D\'abord la perfection qu\'il avait atteinte dès son coup d\'essai décourageait les plus confiants ; et puis, des livres comme les siens exigent un ensemble de connaissances qui ne sont pas à la portée du premier venu.
+« Verne règne donc sans compétiteur dans le royaume qu\'il a conquis. Ce royaume, c\'est l\'univers, et non seulement la terre, mais les mers, les airs, tous les mondes habitables et non habitables. Aussi, quand, à chaque volume qui paraît, on se demande si la mine n\'est pas épuisée, le volume suivant prouve que la mine est inépuisable.
+« Jules Verne n\'est pas, à proprement parler, un romancier ; car l\'amour, base de tous les romans, brille par son absence dans la plupart de ses ouvrages. La femme y est presque toujours reléguée au second plan ; encore la chercheriez-vous vainement dans *Cinq semaines*, les *Anglais au pôle Nord*, etc. Au fait, ses héros n\'ont pas de temps à perdre aux doux propos du petit dieu malin. Les luttes grandioses ou ingénieuses contre les obstacles que la nature courroucée sème sous leurs pas réclament tous leurs efforts. Aussi Verne, original avant tout et dédaigneux du lieu commun, réserve-t-il les tons les plus colorés de sa palette à la peinture de ces types de savants fantasques et de hardis explorateurs qui s\'appellent Fergusson, Hatteras, Clawbonny, Glenarvan, Paganel, Aronnax, le capitaine Nemo, Michel Ardant, Philéas Fogg. Ce sont vraiment d\'amusants personnages, et qui ne doutent de rien. Traverser l\'Afrique en ballon, atteindre la mer libre du pôle à travers les banquises et les plaines de glace, pénétrer jusqu\'aux entrailles de la terre pour sortir par l\'orifice d\'un volcan, s\'élancer vers la lune dans la cavité d\'un boulet gigantesque ; tout cela n\'est pour eux que jeux d\'enfants, et l\'imagination de Jules Verne possède tant et de si précieuses ressources que le lecteur doute et se demande *si cela est arrivé*. Quel est le point précis qui sépare la fiction de la vérité ? L\'auteur n\'a-t-il fait que devancer les découvertes futures de la science, qui permettront de réaliser, dans un siècle, tous ces étonnants voyages ?
+« Après tout, pourquoi cela ne serait-il pas ? Il y a cent ans, on eût traité de visionnaire ou de mauvais plaisant celui qui eût prétendu transmettre sa pensée de Paris à Londres en quelques secondes, ou s\'y transporter lui-même en quelques heures. Dans cent ans peut-être, la science nous aura livré de nouveaux secrets, et les rêves de Verne seront devenus des réalités. Cette perspective n\'a vraiment rien d\'inadmissible ou de déplaisant. En attendant, l\'esprit humain, toujours épris du merveilleux, continuera à fêter comme il le mérite le charmant conteur qui nous entraîne à sa suite à travers les mondes et les pays inconnus. »
+
+J\'ai tout au long cité ce *portrait*, quoiqu\'il répète un peu ce que nous avons dit, parce qu\'il est réellement pris sur le vif.
+
+Charles Raymond n\'a pas assez insisté sur Jules Verne *dramaturge*.
+
+Il manquait à Jules Verne la renommée du théâtre ; il y a goûté, et, après ses débuts cahotés, il a rencontré plusieurs fois le succès. Au théâtre de Cluny, avec une alerte comédie : *le Neveu d\'Amérique* [;]{.calibre12} au théâtre de la Porte-Saint-Martin et au théâtre du Châtelet, partout sa verve, unie à la science profonde de d\'Ennery, a charmé.
+
+C\'est vraiment un talent original et, je ne trouve pas d\'autre mot, sympathique que celui-là. Sa vogue est due aux sentiments les plus durables ; le goût du merveilleux, le plaisir de l\'étonnement et la soif de l\'instruction. Rien de plus intéressant, à coup sûr, que *Le Tour du monde en quatre-vingts jours, Le Pays des fourrures, la Maison à vapeur* ou la *Ville flottante*.
+
+J\'arrive des pays les plus extravagants ! s\'écrit Don César de Bazan. *Le Pays des fourrures*, que je prendrais volontiers comme *type* des romans de Verne, est une de ces contrées. Quand il veut écrire un roman spécial sur tel ou tel pays ou tel ou tel problème scientifique, Verne s\'entoure de tous les documents, *pioche la situation* comme un théorème ou la description comme une leçon de géographie. J\'ai entendu tour à tour deux savants éminents, M. Joseph Bertrand, l\'érudit secrétaire de l\'Académie des sciences, et M. Janssen, l\'astronome, témoigner de leur goût pour les *Voyages extraordinaires* et les imaginations scientifiques de Jules Verne. Dans *le Pays des fourrures*, l\'auteur concentre toute la vie du Nord : chasses aux morses, luttes contre les grands ours blancs, féeries du *soleil de minuit*, longues souffrances des nuits sans fin. Attachant comme tous les romans de l\'auteur, ce livre se laisse feuilleter, en outre, comme un album où le lecteur--- le spectateur, allais-je dire, car ce récit est vraiment un drame--- rencontre à chaque page quelque chose de nouveau et d\'imprévu.
+
+Il en est de même de ce Tour du monde en quatre-vingts jours, caprice enlevé à la vapeur, course folle à travers le monde, aventures où la fantaisie s\'allie à la vérité, de façon que l\'enseignement se dissimule avec art sous le plaisir. C\'est ainsi que M. Verne nous prouve qu\'on gagne un jour en accomplissant le tour du monde par l\'Est et qu\'on le perd par l\'Ouest.
+
+Il en est de même encore des *Indes Noires*, de la *Jangada*, du *Rayon Vert*, de tout ce que l\'amuseur a inventé. Je ne m\'étonne pas que Dumas fils aime Verne ; Verne est une sorte de Dumas père au téléphone. On ne pourrait du reste analyser de tels livres, où le talent du conteur vous tient sous le charme par mille détails inattendus, surprenants, originaux.
+
+M. Verne est d\'ailleurs un peu cousin aussi des romanciers anglais et américains, du capitaine Mayne-Reid, un des bons élèves de Fenimore Cooper. Mayne-Reid est un Cooper plus accessible à tous, aux jeunes gens en particulier, scrupuleusement moral, d\'une imagination riche et curieuse, mettant en scène quelque simple récit autour duquel il groupe des incidents romanesques, et cependant possibles, promenant son lecteur au milieu des forêts vierges, parmi les tribus sauvages, et exaltant le courage individuel aux prises avec les difficultés et les nécessités de la vie. Eh bien ! toutes les qualités du conteur américain, nous les trouvons chez le conteur français. Cependant, M. Jules Verne a eu un rare mérite, dans le roman et au théâtre, c\'est l\'art d\'inventer. M. Adolphe d\'Ennery lui a montré le chemin sur les planches et l\'a guidé dans le *Tour du Monde*, les *Enfants du capitaine Grant, Michel Strogoff* et le *Voyage à travers l\'impossible*, mais avec *Kéraban le Têtu*, qu\'il a porté à la Gaîté, Verne veut marcher seul et seul donner l\'assaut.
+
+Il n\'est vraiment pas facile de trouver au théâtre ni ailleurs cette chose exquise et rare, la nouveauté. Le *nouveau* était déjà bien vieux du temps de Salomon. Il n\'y a peut-être plus, en ce monde, qu\'un parti à prendre, c\'est de renouveler, d\'aviser et, pour créer tout exprès un barbarisme, d\'*originaliser* le banal. C\'est, je le répète, ce que Jules Verne a fait dans ses livres et aussi dans les féeries scientifiques dont je viens d\'écrire les titres. Féeries ? Non. Panoramas, le mot est plus juste.
+
+En dépit du succès de *Michel Strogoff, le Tour du Monde* de la Porte-Saint-Martin est resté le type de ce genre de pièces. Une légère intrigue amoureuse, des tableaux variés, une certaine vérité suffisamment romanesque, l\'impossible rendu acceptable et encadré dans les plus beaux décors du monde ; voilà la pièce. On connaît le roman : Philéas Fogg, un original, membre d\'un club important de Londres, esprit méthodique et résolu, a parié de faire le tour du monde en quatre-vingts jours, comme cet officier de hussards hongrois--- mort dans les inondations de Szegedin --- M. de Subowiczh, avait parié de venir à cheval de Vienne à Paris en deux semaines. Philéas Fogg tient son pari ; il est à Suez, aux Indes, en Amérique, partout, et, pour arriver à l\'heure dite à Liverpool, il fait chauffer la chaudière du navire qu\'il a acheté, avec la mâture et les bastingages du bâtiment. Mais encore, malgré tous ses efforts, se présenterait-il en retard au club, si la différence des latitudes et le calcul, d\'ailleurs très exact, que je signalais tout à l\'heure ne lui faisait, en quatre-vingts jours, gagner précisément une journée. Les types amusants du *détective*persuadé que Philéas Fogg n\'est autre qu\'un voleur qui a détroussé la banque d\'Angleterre, et du valet de Philéas, le Parisien Passe-Partout, jettent leur fantaisie au milieu de ces pages imprévues et entraînantes. Voilà encore où Verne se rapproche de Dumas. Passe-Partout fait songer à Planchet et à Mousqueton, les valets des mousquetaires, les Sancho de ces Don Quichotte si français.
+
+Les auteurs de la pièce s\'étaient contentés de tailler leurs tableaux dans le roman *le Tour du Monde*, en y ajoutant un rival de l\'Anglais Philéas Fogg, l\'Américain Corsican, bientôt devenu l\'ami du parieur. Ces deux compagnons siamois du *détective* et de Passe-Partout, lestés et un peu alourdis par deux jeunes Indiennes qu\'ils ont arrachées au bûcher, vont et viennent à travers l\'espace, bravant les serpents de la grotte aux reptiles, échappant aux Indiens Pawnies qui attaquent le train chargé de voyageurs, engloutis avec l\'*Henrietta* et sauvés avec les débris du steamer : spectacle amusant, où, je le répète, le fantastique c\'est l\'électricité et la vapeur, où les talismans de l\'ancienne féerie, les pieds de mouton et les oeufs d\'or fulminants sont remplacés par des coups de revolver ; fantaisie bien moderne, bien contemporaine, et qui met en scène la seule poésie qui reste maintenant en ce monde uniforme : les voyages.
+
+Depuis, le succès international du *Tour du Monde* a eu son pendant : la vogue de *Michel Strogoff* n\'a pas été moindre.
+
+M. Jules Verne est d\'ailleurs doué du tempérament dramatique. Il apporte au théâtre une curiosité toute personnelle, une observation ingénieuse, des qualités de gaieté naturelle, au style alerte et agréable, et cette invention endiablée qui a assuré sa popularité comme romancier.
+
+Son oeuvre est aujourd\'hui considérable. La collection des *Voyages extraordinaires* que l\'Académie française a couronnés se compose déjà de quarante ou quarante-cinq volumes et, tous les ans, Jules Verne donne au *Magasin d\'Éducation et de Récréation* d\'Hetzel, qui fut son conseiller en même temps que son éditeur, un roman inédit : tantôt l\'*École des Robinsons*, tantôt *Kéraban le Têtu*, qui aura vu le feu de la rampe avant d\'être achevé dans le recueil hebdomadaire. Et ces livres de voyages, ces contes d\'aventures ont une originalité propre, une clarté et une vivacité entraînantes. Ce n\'est ni le roman à coups de *navaja* de Gabriel Ferry, ni le récit bourré de grosses aventures d\'un Gustave Aymard ; c\'est autrement rapide et fin. C\'est très français, pour dire le mot.
+
+Peu d\'amour, encore une fois. La passion est là tout juste pour donner un attrait au livre. Le grand acteur, le héros éternel, c\'est l\'inconnu ; le but à atteindre c\'est l\'impossible. Nous avons entendu Verne nous conter comment il combinait des lettres pour arriver à former une phrase dont le lecteur ne pût, avant le dénouement, trouver ni le sens ni la clef ; Edgar Poe ne travaillait pas autrement. Il y a du mathématicien chez Jules Verne.
+
+--- Dans cent ans, disait tout à l\'heure le *Musée des Familles*, peut-être la science nous aura-t-elle livré de nouveaux secrets et les rêves de Verne seront-ils devenus des réalités.
+
+Les songeries de Mercier, l\'auteur de *l\'An 2400*, ne sont-elles point, en effet, réalisées en partie ?
+
+Jules Verne ne se contente point d\'écrire l\'histoire des *Grands Navigateurs* et les biographies des *Voyageurs au XIXe siècle*. Ce robuste écrivain, qui porte allégrement son demi-siècle, d\'une souplesse vigoureuse, la barbe entière et blanche dans un visage souriant et hâlé, est lui-même, on l\'a vu, un voyageur.
+
+Si ses livres sont entraînants, l\'homme est charmant et intrépide. J\'aurais pu borner ce portrait à cette seule ligne. Pendant tout l\'été, Jules Verne navigue autour de la France, allant du Havre à Marseille, faisant quelquefois 150 à 200 lieues sans toucher terre. Depuis deux ans, le petit bateau à deux hommes, dont M. Charles Raymond parlait tout à l\'heure, le *Saint-Michel*, est devenu un yacht à vapeur d\'une centaine de tonneaux et le *capitaine* Verne a pu, à son bord, courir le nord de l\'Europe et même la Méditerranée.
+
+Ainsi Jules Verne vit et navigue en homme heureux. Il est, à l\'heure où nous sommes, quelque chose comme le Walter Scott de l\'improbable, le romancier des mondes inconnus,--- de *l\'absurde*, disait M. Dumas, l\'éminent chimiste ; mais on pourrait appliquer l\'épithète à Swift, si l\'on était injuste, et le pays des *Houyhnhnms* et des Yahous n\'est pas moins invraisemblable, quoique plus philosophique et amer que le pays des fourrures.
+
+Quand il est las de voyager, Jules Verne rentre à Amiens, vient à Paris, voit quelques amis, fait répéter une pièce. Ce sont les occupations de l\'hiver. Puis il repart. Il a la santé dans le talent. « Ce que je fais est amusant, disait l\'auteur de *la Reine Margot* [;]{.calibre12} cela tient à ce que je me porte bien. »
+
+Un romancier d\'un mâle talent, qui, comme Verne, est un brave homme, Hector Malot, l\'auteur de *Sans Famille* et des *Victimes d\'amour*, qui procède de Balzac comme Verne procède de Dumas, et dont la physionomie cordiale et vigoureuse prendra place sans doute en cette *galerie*, me disait un jour, en parlant de l\'écrivain que j\'essaye de caractériser aujourd\'hui :--- C\'est un des meilleurs de nous tous : franc comme l\'or !
+
+Et voilà qui est vrai pour Verne. C\'est *un des meilleurs* [:]{.calibre12} ni jalousie ni petitesse, rien des mesquines passions du rival de lettres,--- la gaieté et la franchise, une nature heureuse, un philosophe : la curiosité de l\'inventeur avec l\'espèce de mélancolie souriante du marin.
+
+Je sais que des raffinés, et de plus ambitieux dans l\'analyse de l\'être humain, disent de lui : « Ce n\'est qu\'un conteur ! »
+
+Un conteur qui charme et entraîne toute une génération est *quelqu\'un*, soyez-en sûr. Et puis n\'est-ce donc rien au monde que les contes ?
+
+« Mes chers amis, disait doucement le bon Denis Diderot, faisons des contes ! Pendant que nous en faisons, le conte de la vie s\'achève et nous sommes heureux ! »
+
+
+Par Jules Claretie

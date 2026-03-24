@@ -1,0 +1,36 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 20"
+slug_section: "chapitre-20"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 20 -- À la potence !
+À la potence où tant de gens hideux
+Qui pour le crime avaient fait parler d'eux
+Ont terminé leur vie ithyphallique
+Pour honorer la morale publique
+Ne faut-il pas les pendre deux par deux,
+Ces haut placés, corrupteurs monstrueux,
+Et faire aller ce ministère affreux
+Qui de la
+France ouvertement trafique,
+À la potence ?
+Dans l'ancien temps, on chassait les lépreux !
+Faut-il garder ces hommes frauduleux,
+Qui maniant leur morale élastique,
+Font des brigands en ordre politique ?
+Non pas,
+Français, attachons tous ces gueux
+À la potence !

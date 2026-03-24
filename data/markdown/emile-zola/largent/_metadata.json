@@ -1,0 +1,144 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L'ARGENT",
+  "slug": "largent",
+  "nombre_chapitres": 12,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 411,
+      "spine_end_exclusive": 412,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_410.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 412,
+      "spine_end_exclusive": 413,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_411.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 413,
+      "spine_end_exclusive": 414,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_412.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 414,
+      "spine_end_exclusive": 415,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_413.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 415,
+      "spine_end_exclusive": 416,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_414.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 416,
+      "spine_end_exclusive": 417,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_415.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 417,
+      "spine_end_exclusive": 418,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_416.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 418,
+      "spine_end_exclusive": 419,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_417.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 419,
+      "spine_end_exclusive": 420,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_418.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 420,
+      "spine_end_exclusive": 421,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_419.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 421,
+      "spine_end_exclusive": 422,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_420.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 422,
+      "spine_end_exclusive": 423,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_421.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 423,
+      "spine_end_exclusive": 425,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_422.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_423.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/largent/Zola1_image034.jpg"
+  ]
+}

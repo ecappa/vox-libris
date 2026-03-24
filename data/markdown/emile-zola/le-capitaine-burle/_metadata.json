@@ -1,0 +1,64 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE CAPITAINE BURLE",
+  "slug": "le-capitaine-burle",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1194,
+      "spine_end_exclusive": 1195,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_204.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1195,
+      "spine_end_exclusive": 1196,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_205.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1196,
+      "spine_end_exclusive": 1197,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_206.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1197,
+      "spine_end_exclusive": 1198,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_207.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1198,
+      "spine_end_exclusive": 1200,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_208.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_209.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-capitaine-burle/Zola4_image016.jpg"
+  ]
+}

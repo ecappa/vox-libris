@@ -1,0 +1,100 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "COMMENT ON MEURT"
+slug_oeuvre: "comment-on-meurt"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+COMMENT ON MEURT
+
+[Liste des contes et nouvelles
+
+!
+
+## V
+Jean-Louis Lacour a soixante-dix ans. Il est né à la Courteille, un hameau de cent cinquante habitants, perdu dans un pays de loups. En sa vie, il est allé une seule fois à Angers, qui se trouve à quinze lieues ; mais il était si jeune, qu'il ne se souvient plus. Il a eu trois enfants, deux fils, Antoine et Joseph, et une fille, Catherine. Celle-ci s'est mariée ; puis, son mari est mort, et elle est revenue chez son père, avec un petit de douze ans, Jacquinet. La famille vit sur cinq ou six arpents, juste assez de terre pour manger du pain et ne pas aller tout nu. Quand ils boivent un verre de vin, ils l'ont sué.
+
+La Courteille est au fond d'un vallon, avec des bois de tous les côtés, qui l'enferment et la cachent. Il n'y a pas d'église, la commune est trop pauvre. C'est le curé des Cormiers qui vient dire la messe ; et, comme on compte deux bonnes lieues de chemin, il ne vient que tous les quinze jours. Les maisons, une vingtaine de masures branlantes, sont jetées le long de la grand'route. Des poules grattent le fumier devant les portes. Lorsqu'un étranger passe, les femmes allongent la tête, tandis que les enfants, en train de se vautrer au soleil, se sauvent au milieu des bandes d'oies effarées.
+
+Jamaian-Louis n'a été malade. Il est grand et noueux comme un chêne. Le soleil l'a séché, a cuit et fendu sa peau ; et il a pris la couleur, la rudesse et le calme des arbres. En vieillissant, il a perdu sa langue. Il ne parle plus, trouvant ça inutile. D'un pas long et entêté, il marche, avec la force paisible des boeufs.
+
+L'année dernière, il était encore plus vigoureux que ses fils, il réservait pour lui les grosses besognes, silencieux dans son champ, qui semblait le connaître et trembler. Mais, un jour, voici deux mois, ses membres ont craqué tout d'un coup ; et il est resté deux heures en travers d'un sillon, ainsi qu'un tronc abattu. Le lendemain, il a voulu se remettre au travail ; seulement, ses bras s'en étaient allés, la terre ne lui obéissait plus. Ses fils hochent la tête. Sa fille tâche de le retenir à la maison. Il s'obstine, et on le fait accompagner par Jacquinet, pour que l'enfant crie, si le grand-père tombe.
+
+--- Que fais-tu là, paresseux ? demanda Jean-Louis au gamin, qui ne le quitte pas. À ton âge, je gagnais mon pain.
+
+--- Grand-père, je vous garde, répond l'enfant.
+
+Ce mot donne une secousse au vieillard. Il n'ajoute rien. Le soir, il se couche et ne se relève plus. Quand les fils et la fille vont aux champs, le lendemain, ils entrent voir le père, qu'ils n'entendent pas remuer. Ils le trouvent étendu sur son lit, les yeux ouverts, avec un air de réfléchir. Il a la peau si dure et si tannée, qu'on ne peut pas savoir seulement la couleur de sa maladie.
+
+--- Eh bien ? Père, ça ne va donc pas ?
+
+Il grogne, il dit non de la tête.
+
+--- Alors, vous ne venez pas, nous partons sans vous ?
+
+Oui, il leur fait signe de partir sans lui. On a commencé la moisson, tous les bras sont nécessaires. Peut-être bien que, si l'on perdait une matinée, un orage brusque emporterait les gerbes. Jacquinet lui-même suit sa mère et ses oncles. Le père Lacour reste seul. Le soir, quand les enfants reviennent, il est à la même place, toujours sur le dos, les yeux ouverts, avec son air de réfléchir.
+
+--- Alors, père, ça ne va pas mieux ?
+
+Non, ça ne va pas mieux. Il grogne, il branle la tête. Qu'est-ce qu'on pourrait bien lui faire ? Catherine a l'idée de mettre bouillir du vin avec des herbes ; mais c'est trop fort, ça manque de le tuer. Joseph dit qu'on verra le lendemain, et tout le monde se couche.
+
+Le lendemain, avant de partir pour la moisson, les fils et la fille restent un instant debout devant le lit. Décidément, le vieux est malade. Jamais il n'a vécu comme ça sur le dos. On devrait peut-être bien tout de même faire venir le médecin. L'ennui, c'est qu'il faut aller à Rougemont ; six lieues pour aller, six lieues pour revenir, ça fait douze. On perdra tout un jour. Le vieux, qui écoute les enfants, s'agite et semble se fâcher. Il n'a pas besoin de médecin, ça ne sert à rien et ça coûte.
+
+--- Vous ne voulez pas ? demande Antoine. Alors, nous partons travailler ?
+
+Sans doute, qu'ils partent travailler. Ils ne le soulageraient pas bien sûr, en restant là. La terre a plus besoin d'être soignée que lui. Et trois jours se passent, les enfants vont chaque matin aux champs, Jean-Louis ne bouge point, tout seul, buvant à une cruche quand il a soif. Il est comme un de ces vieux chevaux qui tombent de fatigue dans un coin, et qu'on laisse mourir. Il a travaillé soixante ans, il peut bien s'en aller, puisqu'il n'est plus bon à rien, qu'à tenir de la place et à gêner le monde.
+
+Les enfants eux-mêmes n'ont pas une grande douleur. La terre les a résignés à ces choses ; ils sont trop près d'elle, pour lui en vouloir de reprendre le vieux. Un coup d'oeil le matin, un coup d'oeil le soir, ils ne peuvent pas faire davantage. Si le père s'en relevait tout de même, ça prouverait qu'il est rudement bâti. S'il meurt, c'est qu'il avait la mort dans le corps ; et tout le monde sait que, lorsqu'on a la mort dans le corps, rien ne l'en déloge, pas plus les signes de croix que les médicaments. Une vache encore, ça se soigne.
+
+Jean-Louis, le soir, interroge d'un regard les enfants sur la moisson. Quand il les entend compter les gerbes, se féliciter du beau temps qui favorise la besogne, il a une joie dans les yeux. Une fois encore, on parle d'aller chercher le médecin ; mais le vieux s'emporte, et l'on craint de le tuer plus vite, si on le contrarie. Il fait seulement demander le garde champêtre, un ancien camarade. Le père Nicolas est son aîné, car il a eu soixante-quinze ans à la Chandeleur. Lui, reste droit comme un peuplier. Il vient et s'asseoit près de Jean-Louis, d'un air sérieux. Jean-Louis qui ne peut plus parler, le regarde de ses petits yeux pâlis. Le père Nicolas le regarde aussi, n'ayant rien à lui dire. Et ces deux vieillards restent face à face pendant une heure, sans prononcer une parole, heureux de se voir, se rappelant sans doute des choses, bien loin, dans leurs jours d'autrefois. C'est ce soir-là que les enfants, au retour de la moisson, trouvent Jean-Louis mort, étendu sur le dos, raide et les yeux en l'air.
+
+Oui, le vieux est mort, sans remuer un membre. Il a soufflé son dernier souffle droit devant lui, une haleine de plus dans la vaste campagne. Comme les bêtes qui se cachent et se résignent, il n'a pas même dérangé un voisin, il a fait sa petite affaire tout seul.
+
+--- Le père est mort, dit Joseph, en appelant les autres.
+
+Et tous, Antoine, Catherine, Jacquinet, répètent :
+
+--- Le père est mort.
+
+Ça ne les étonne pas. Jacquinet allonge curieusement le cou, la femme tire son mouchoir, les deux garçons marchent sans rien dire, la face grave et blêmie sous le hâle. Il a tout de même joliment duré, il était solide, le vieux père ! Cette idée console les enfants, ils sont fiers de la solidité de la famille.
+
+La nuit, on veille le père jusqu'à onze heures, puis tout le monde cède au sommeil ; et Jean-Louis dort seul encore, avec son visage fermé qui semble toujours réfléchir.
+
+Dès le petit jour, Joseph part pour les Cormiers, afin d'avertir le curé. Cependant, comme il y a encore des gerbes à rentrer, Antoine et Catherine s'en vont tout de même aux champs le matin, en laissant le corps à la garde de Jacquinet. Le petit s'ennuie avec le vieux, qui ne remue seulement pas, et il sort par moments sur la route, lance des pierres aux moineaux, regarde un colporteur étalant des foulards devant deux voisines ; puis, quand il se souvient du grand-père, il rentre vite, s'assure qu'il n'a point bougé, et s'échappe de nouveau pour voir deux chiens se battre.
+
+Comme la porte reste ouverte, les poules entrent, se promènent tranquillement, en fouillant à coups de bec le sol battu. Un coq rouge se dresse sur ses pattes, allonge le cou, arrondit son oeil de braise, inquiet de ce corps dont il ne s'explique pas la présence ; c'est un coq prudent et sagace, qui sait sans doute que le vieux n'a pas l'habitude de rester au lit après le soleil levé ; et il finit par jeter son cri sonore de clairon, chantant la mort du vieux, tandis que les poules ressortent une à une, en gloussant et en piquant la terre.
+
+Le curé des Cormiers ne peut venir qu'à cinq heures. Depuis le matin, on entend le charron qui scie du sapin et enfonce des clous. Ceux qui ignorent la nouvelle, disent : « Tiens ! C'est donc quan-Louis est mort », parce que les gens de la Courteille connaissent bien ces bruits-là.
+
+Antoine et Catherine sont revenus, la moisson est terminée ; ils ne peuvent pas dire qu'ils sont mécontents, car, depuis dix ans, le grain n'a pas été si beau.
+
+Toute la famille attend le curé, on s'occupe pour prendre patience : Catherine met la soupe au feu, Joseph tire de l'eau, on envoie Jacquinet voir si le trou a été fait au cimetière. Enfin, à six heures seulement, le curé arrive. Il est dans une carriole, avec un gamin qui lui sert de clerc. Il descend devant la porte des Lacour, sort d'un journal son étole et son surplis ; puis, il s'habille en disant :
+
+--- Dépêchons-nous, il faut que je sois rentré à sept heures.
+
+Pourtant, personne ne se presse. On est obligé d'aller chercher les deux voisins qui doivent porter le défunt sur la vieille civière de bois noir. Comme on va partir enfin, Jacquinet accourt et crie que le trou n'est pas fini, mais qu'on peut venir tout de même.
+
+Alors, le prêtre marche le premier, en lisant du latin dans un livre. Le petit clerc qui le suit, tient un vieux bénitier de cuivre bossué, dans lequel trempe un goupillon. C'est seulement au milieu du village qu'un autre enfant sort de la grange où l'on dit la messe tous les quinze jours, et prend la tête du cortège, avec une croix emmanchée au bout d'un bâton. La famille est derrière le corps ; peu à peu, tous les gens du village se joignent à elle ; une queue de galopins, nu-tête, débraillés, sans souliers, ferme la marche.
+
+Le cimetière se trouve à l'autre bout de la Courteille. Aussi les deux voisins lâchent-ils la civière à trois reprises ; ils soufflent, pendant que le convoi s'arrête ; et l'on repart. On entend le piétinement des sabots sur la terre dure. Quand on arrive, le trou, en effet, n'est pas terminé ; le fossoyeur est encore dedans, et on le voit qui s'enfonce, puis qui reparaît, régulièrement, à chaque pelletée de terre.
+
+Une simple haie entoure le cimetière. Des ronces ont poussé, où les gamins viennent, les soirs de septembre, manger des mûres. C'est un jardin en rase campagne. Au fond, il y a des groseillers énormes ; un poirier, dans un coin, a grandi comme un chêne ; une courte allée de tilleuls, au milieu, fait un ombrage, sous lequel les vieux en été fument leur pipe. Le soleil brûle, des sauterelles s'effarent, des mouches d'or ronflent dans le frisson de la chaleur. Le silence est tout frémissant de vie, la sève de cette terre grasse coule avec le sang rouge des coquelicots.
+
+On a posé le cercueil près du trou. Le gamin qui porte la croix, vient la planter aux pieds du mort, pendant que le prêtre, debout à la tête, continue de lire du latin dans son livre. Mais les assistants s'intéressent surtout au travail du fossoyeur. Ils entourent la fosse, suivent la pelle des yeux ; et, quand ils se retournent, le curé s'en est allé avec les deux enfants ; il n'y a plus là que la famille, qui attend d'un air de patience.
+
+Enfin, la fosse est creusée.
+
+--- C'est assez profond, va ! Crie l'un des paysans qui ont porté le corps.
+
+Et tout le monde aide pour descendre le cercueil. Le père Lacour sera bien, dans ce trou. Il connaît la terre, et la terre le connaît. Ils feront bon ménage ensemble. Voici près de soixante ans qu'elle lui a donné ce rendez-vous, le jour où il l'a entamée de son premier coup de pioche. Leurs tendresses devaient finir par là, la terre devait le prendre et le garder. Et quel bon repos ! Il entendra seulement les pattes légères des oiseaux plier les brins d'herbe. Personne ne marchera sur sa tête, il restera des années chez lui, sans qu'on le dérange. C'est la mort ensoleillée, le sommeil sans fin dans la paix des campagnes.
+
+Les enfants se sont approchés. Catherine, Antoine, Joseph, ramassent une poignée de terre et la jettent sur le vieux. Jacquinet, qui a cueilli des coquelicots, jette aussi son bouquet. Puis, la famille rentre manger la soupe, les bêtes reviennent des champs, le soleil se couche. Une nuit chaude endort le village
+
+Liste des contes et nouvelles[

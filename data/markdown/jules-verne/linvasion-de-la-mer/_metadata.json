@@ -1,0 +1,198 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'INVASION DE LA MER",
+  "slug": "linvasion-de-la-mer",
+  "nombre_chapitres": 17,
+  "structure": [
+    {
+      "title": "Chapitre 1 – L'oasis de Gabès",
+      "slug": "chapitre-1-loasis-de-gabes",
+      "is_part": false,
+      "spine_start": 1881,
+      "spine_end_exclusive": 1882,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_120.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Hadjar",
+      "slug": "chapitre-2-hadjar",
+      "is_part": false,
+      "spine_start": 1882,
+      "spine_end_exclusive": 1883,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_121.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – L'évasion",
+      "slug": "chapitre-3-levasion",
+      "is_part": false,
+      "spine_start": 1883,
+      "spine_end_exclusive": 1884,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_122.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – La mer saharienne",
+      "slug": "chapitre-4-la-mer-saharienne",
+      "is_part": false,
+      "spine_start": 1884,
+      "spine_end_exclusive": 1885,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_123.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – La caravane",
+      "slug": "chapitre-5-la-caravane",
+      "is_part": false,
+      "spine_start": 1885,
+      "spine_end_exclusive": 1886,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_124.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – De Gabès à Tozeur",
+      "slug": "chapitre-6-de-gabes-a-tozeur",
+      "is_part": false,
+      "spine_start": 1886,
+      "spine_end_exclusive": 1887,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_125.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Tozeur et Nefta",
+      "slug": "chapitre-7-tozeur-et-nefta",
+      "is_part": false,
+      "spine_start": 1887,
+      "spine_end_exclusive": 1888,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_126.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Le Chott Rharsa",
+      "slug": "chapitre-8-le-chott-rharsa",
+      "is_part": false,
+      "spine_start": 1888,
+      "spine_end_exclusive": 1889,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_127.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Le second canal",
+      "slug": "chapitre-9-le-second-canal",
+      "is_part": false,
+      "spine_start": 1889,
+      "spine_end_exclusive": 1890,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Au kilomètre 347",
+      "slug": "chapitre-10-au-kilometre-347",
+      "is_part": false,
+      "spine_start": 1890,
+      "spine_end_exclusive": 1891,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_129.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Une excursion de douze heures",
+      "slug": "chapitre-11-une-excursion-de-douze-heures",
+      "is_part": false,
+      "spine_start": 1891,
+      "spine_end_exclusive": 1892,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_130.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Ce qui s'était passé",
+      "slug": "chapitre-12-ce-qui-setait-passe",
+      "is_part": false,
+      "spine_start": 1892,
+      "spine_end_exclusive": 1893,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_131.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – L'oasis de Zenfig",
+      "slug": "chapitre-13-loasis-de-zenfig",
+      "is_part": false,
+      "spine_start": 1893,
+      "spine_end_exclusive": 1894,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_132.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – En captivité",
+      "slug": "chapitre-14-en-captivite",
+      "is_part": false,
+      "spine_start": 1894,
+      "spine_end_exclusive": 1895,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_133.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – En fuite",
+      "slug": "chapitre-15-en-fuite",
+      "is_part": false,
+      "spine_start": 1895,
+      "spine_end_exclusive": 1896,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_134.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Le tell",
+      "slug": "chapitre-16-le-tell",
+      "is_part": false,
+      "spine_start": 1896,
+      "spine_end_exclusive": 1897,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_135.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Dénouement",
+      "slug": "chapitre-17-denouement",
+      "is_part": false,
+      "spine_start": 1897,
+      "spine_end_exclusive": 1898,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_136.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

@@ -1,0 +1,24 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "Mandats politiques de Victor Hugo"
+slug_oeuvre: "mandats-politiques-de-victor-hugo"
+type: "oeuvre-complete"
+---
+
+## Mandats politiques de Victor Hugo
+Victor Hugo est élu représentant de la Seine le 4 juin 1848. Dans sa profession de foi, il se prononce pour la « République de la civilisation » contre celle de la « terreur ».
+
+Réélu le 13 mai 1849, il devient l'orateur du parti républicain.
+
+Suite au coup d'Etat du 2 décembre 1851 par Louis Napoléon Bonaparte, il est condamné à l'exil. Il s'installe d'abord en Belgique, puis à Jersey (1852) et Guernesey (1855)
+
+Le 5 septembre 1870, après dix-neuf ans d'exil, retour triomphal de Victor Hugo à Paris.
+
+Le 8 février 1871, il est élu représentant de la Seine et démissionne le mois suivant (mars 1871)
+
+Le 30 janvier 1876, il est élu sénateur de la Seine.
+
+Le 8 janvier 1882, il est réélu sénateur de la Seine.
+
+Le 22 mai 1885, il décède au cours de son mandat de sénateur.

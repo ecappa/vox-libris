@@ -1,0 +1,171 @@
+]{.calibre20}
+
+
+LE PILOTE DU DANUBE
+
+
+]{.calibre20}
+
+## [[Chapitre 12 -- Au nom de la loi]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942836 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_40 .calibre21}
+
+Striga, la porte ouverte, s\'arrêta hésitant sur le seuil. Une obscurité profonde emplissait la cellule. Il ne distinguait rien, si ce n\'est un carré d\'ombre plus claire vaguement découpé par l\'ouverture de la fenêtre. Dans un coin, quelque part, gisait le prisonnier. On ne pouvait l\'apercevoir.
+
+« Titcha ! Appela Striga d\'une voix impatiente, de la lumière ! »
+
+Titcha s\'empressa d\'apporter une lanterne dont la tremblante lueur, soudainement projetée, parut illuminer la pièce. Les deux hommes, l\'ayant parcourue d\'un rapide coup d\'oeil, échangèrent un regard troublé. La cabine était vide. Sur le parquet, des liens rompus, des vêtements jetés à la volée : du prisonnier, nulle autre trace.
+
+« M\'expliqueras-tu ? Commença Striga.
+
+Avant de répondre, Titcha alla jusqu\'à la fenêtre, et passa le doigt sur l\'un des montants.
+
+--- Envolé, dit-il, en montrant son doigt rouge.
+
+--- Envolé ! répéta Striga, qui proféra un juron.
+
+--- Mais pas depuis longtemps, continua Titcha. Le sang est encore frais. D\'ailleurs, il n\'y a pas plus de deux heures que je lui ai apporté sa ration.
+
+--- Et tu n\'as rien vu d\'anormal à ce moment ?
+
+--- Absolument rien. Je l\'ai laissé ficelé comme un saucisson.
+
+--- Imbécile ! Gronda Striga !
+
+Titcha, ouvrant les bras, exprima clairement par ce geste qu\'il ignorait comment l\'évasion avait pu s\'accomplir et qu\'il en déclinait, dans tous les cas, la responsabilité. Striga n\'accepta pas cette commode défaite.
+
+--- Oui, imbécile, répéta-t-il d\'une voix furieuse en arrachant des mains de son compagnon la lanterne qu\'il promena sur le pourtour de la cabine. Il fallait visiter ton prisonnier et ne pas te fier aux apparences\... Tiens ! Regarde ce morceau de fer poli par le frottement. C\'est là qu\'il a usé la corde qui retenait ses mains\... Il a dû y mettre des jours et des jours\... Et tu ne t\'es aperçu de rien ! On n\'est pas stupide à ce point-là !
+
+--- Ah ça, mais, quand tu auras fini ! répliqua Titcha qui sentait la colère le gagner à son tour. Est-ce que tu me prends pour ton chien ? Après tout, puisque tu tenais tant à boucler le Dragoch, il fallait le garder toi-même.
+
+--- J\'aurais mieux fait, approuva Striga. Mais, d\'abord, est-ce bien Dragoch que nous tenions ?
+
+--- Qui veux-tu que ce soit ?
+
+--- Le sais-je ? Je suis en droit de m\'attendre à tout, en voyant la manière dont tu t\'acquittes d\'une mission. L\'as-tu reconnu, quand tu l\'as pris ?
+
+--- Je ne peux pas dire que je l\'aie reconnu, confessa Titcha, vu qu\'il tournait le dos\...
+
+--- Là !
+
+--- Mais j\'ai parfaitement reconnu le bateau. C\'est bien celui que tu m\'as montré à Vienne. Ça, par exemple, j\'en suis sûr.
+
+--- Le bateau ! Le bateau ! Enfin, comment était-il, ton prisonnier ? Etait-il grand ?
+
+Serge Ladko et Ivan Striga avaient en réalité une taille sensiblement égale. Mais un homme couché paraît, on ne l\'ignore pas, beaucoup plus grand qu\'un homme debout, et Titcha n\'avait guère vu le pilote qu\'étendu sur le parquet de sa prison. C\'est donc de la meilleure foi du monde qu\'il répondit :
+
+--- La tête de plus que toi.
+
+--- Ce n\'est pas Dragoch ! murmura Striga, qui se savait d\'une stature plus élevée que le détective.
+
+Il réfléchit quelques instants, puis demanda :
+
+--- Le prisonnier ressemblait-il à quelqu\'un de ta connaissance ?
+
+--- De ma connaissance ? protesta Titcha. Jamais de la vie !
+
+---. Par exemple, il ne ressemblerait pas\... À Ladko ?
+
+--- En voilà une idée ! s\'écria Titcha. Pourquoi diable veux-tu que Dragoch ressemble à Ladko ?
+
+--- Et si notre prisonnier n\'était pas Dragoch ?
+
+--- Il ne serait pas davantage Ladko, que je connais assez, parbleu, pour ne pas m\'y tromper.
+
+--- Réponds toujours à ma question, insista Striga. Lui ressemblait-il ?
+
+--- Tu rêves, protesta Titcha. D\'abord, le prisonnier n\'avait pas de barbe, et Ladko en a.
+
+--- Ça se coupe, la barbe, fit observer Striga.
+
+--- Je ne dis pas non\... Et puis, le prisonnier avait des lunettes.
+
+Striga haussa les épaules.
+
+--- Etait-il brun ou blond ? demanda-t-il.
+
+--- Brun, répondit Titcha avec conviction.
+
+--- Tu en es sûr ?
+
+--- Sûr.
+
+--- Ce n\'est pas Ladko ! murmura de nouveau Striga. Ce serait donc Ilia Brusch..
+
+--- Quel Ilia Brusch ?
+
+--- Le pêcheur.
+
+--- Bah ! fit Titcha abasourdi. Mais alors, si le prisonnier n\'était ni Ladko, ni Karl Dragoch, peu importe qu\'il ait pris la clef des champs.
+
+Striga, sans répondre, s\'approcha à son tour de la fenêtre. Après avoir examiné les traces de sang, il se pencha au dehors et s\'efforça vainement de percer les ténèbres.
+
+--- Depuis combien de temps est-il parti ?, se demandait-il à demi-voix.
+
+--- Pas plus de deux heures, dit Titcha.
+
+--- S\'il court depuis deux heures, il doit être loin ! s\'écria Striga, qui maîtrisait, avec peine sa colère.
+
+Après un instant de réflexion, il ajouta :
+
+--- Rien à faire pour le moment. La nuit est trop noire. Puisque l\'oiseau est envolé, bon voyage. Quant à nous, nous nous mettrons en route un peu avant l\'aube, de manière à être le plus tôt possible au-delà de Belgrade. »
+
+Il resta un instant songeur, puis, sans rien ajouter, il quitta la cabine pour entrer dans celle qui lui faisait face. Titcha prêta l\'oreille. D\'abord, il n\'entendit rien ; mais bientôt, à travers la porte fermée, arrivèrent jusqu\'à lui des éclats de voix dont le diapason montait progressivement. Haussant les épaules avec dédain, Titcha s\'éloigna et regagna son lit.
+
+C\'est à tort que Striga avait jugé inutile de se livrer à des recherches immédiates. Ces recherches n\'eussent peut-être pas été vaines, car le fugitif n\'était pas loin.
+
+En entendant le bruit de la clef tournant dans la serrure, Serge Ladko, d\'un effort désespéré, avait vaincu l\'obstacle. Sous la violente traction des muscles, l\'épaule d\'abord, la hanche ensuite s\'étaient effacées, et il avait glissé comme une flèche hors de la fenêtre trop étroite, pour tomber, la tête la première, dans l\'eau du Danube, qui s\'était ouverte et refermée sans bruit. Quand, après une courte immersion, il revint à la surface, le courant l\'avait déjà emporté à quelque distance de l\'endroit de sa chute. Un instant plus tard, il dépassait l\'arrière du chaland, évité la proue vers l\'amont. Devant lui la route était libre.
+
+Il n\'avait pas à hésiter. Le seul parti à prendre était de se laisser dériver quelque temps encore. Une fois hors d\'atteinte, il nagerait vigoureusement vers l\'une des rives. Il y arriverait, il est vrai, dans un état de nudité qui pouvait être une source de grandes difficultés ultérieures, mais il n\'avait pas le choix. Le plus pressé était de s\'éloigner de la prison flottante où il venait de passer de si pénibles jours. Quand il aurait pris terre, il aviserait. Tout à coup, dans la nuit, la masse sombre d\'une seconde embarcation se dressa devant lui. Quelle ne fut pas son émotion, en reconnaissant sa barge retenue par une bosse amarrée au chaland et que tendait la poussée du courant. Il se cramponna instinctivement au gouvernail, et, un instant, demeura immobile.
+
+Dans la paix nocturne, un bruit de voix parvenait jusqu\'à lui. Sans doute, on discutait les circonstances de sa fuite. Il attendit, la tête seule hors de l\'eau noire qui le couvrait de son impénétrable voile.
+
+Les voix grandirent, puis se turent, et tout retomba dans le silence. Serge Ladko, s\'accrochant au plat bord, se hissa lentement dans la barge et disparut sous le tôt. Là, l\'oreille tendue, il écouta de nouveau.. Il n\'entendit rien. Plus aucun bruit autour de lui.
+
+Sous le tôt, l\'obscurité de la nuit se faisait plus épaisse encore. Dans l\'impossibilité de rien distinguer, Serge Ladko tâtonna comme un aveugle pour reconnaître les objets familiers. Il ne semblait pas que l\'on eût rien touché. Là étaient ses instruments de pêche ; à ce clou pendait encore le bonnet de loutre qu\'il y avait lui-même accroché. À droite, c\'était sa couchette ; à gauche, celle où M. Jaeger avait si longtemps dormi\... Mais pourquoi étaient-ils ouverts, les coffres ménagés au-dessous de ces couchettes ? On les avait donc forcés ? Invisibles dans l\'ombre, ses mains hésitantes firent l\'inventaire de ses modestes richesses\... Non, on ne lui avait rien pris. Linge et vêtements paraissaient en on ordre, comme il les avait laissés\... Jusqu\'à son couteau qu\'il retrouva à la place même où il l\'avait rangé. Ce couteau, Serge Ladko l\'ouvrit, puis, rampant sur le ventre dans le fond de la barge, il s\'avança vers l\'étrave.
+
+Quel voyage ! L\'oreille aux aguets, les yeux vainement ouverts dans les ténèbres, s\'arrêtant, la respiration coupée, au moindre clapotis de l\'eau, il lui fallut dix minutes pour arriver au but. Enfin, sa main put saisir la bosse, qu\'il trancha d\'un seul coup.
+
+La corde coupée fouetta l\'eau à grand bruit. Ladko, le coeur battant, retomba dans la barge. Impossible qu\'on n\'ait pas entendu la chute de cette corde, dans un silence si profond\...
+
+Non\... Rien ne bougeait\... Le pilote, peu à peu redressé, comprit qu\'il était déjà foin de ses ennemis. À peine libre, en effet, la barge avait commencé à dériver, et il n\'avait fallu qu\'un instant pour qu\'entre elle et le chaland s\'élevât le mur inexpugnable de la nuit.
+
+Quand il s\'estima assez loin pour n\'avoir plus rien à craindre, Serge Ladko arma un aviron, et quelques coups de godille augmentèrent rapidement la distance. Alors seulement, il s\'aperçut qu\'il grelottait et s\'occupa de se couvrir. Décidément, on n\'avait pas touché au contenu de ses coffres, où il trouva sans peine le linge et les vêtements nécessaires. Cela fait, il saisit de nouveau l\'aviron et se remit à godiller avec rage.
+
+Où était-il ? Il n\'en avait aucune idée. Rien ne pouvait le renseigner sur le parcours effectué par le chaland dans lequel il avait été incarcéré. Sa prison flottante avait-elle monté ou descendu le fleuve, il l\'ignorait.
+
+En tous cas, c\'est dans le sens du courant qu\'il devait maintenant se diriger, puisque c\'est dans cette direction qu\'étaient Roustchouk et Natcha. Si on l\'avait ramené en arrière, ce serait du temps à regagner à grands renforts de bras, voilà tout. Pour le moment, il commencerait par naviguer toute la nuit, de manière à s\'éloigner le plus possible de ses ennemis inconnus. Il pouvait compter sur environ sept heures d\'obscurité. En sept heures, on fait du chemin. Le jour venu, il s\'arrêterait, pour prendre du repos, dans la première ville rencontrée.
+
+Serge Ladko godillait vigoureusement depuis une vingtaine de minutes, quand un cri affaibli par la distance s\'éleva dans la nuit. Ce qu\'il exprimait, joie, colère ou terreur, trop vague était ce cri lointain pour que l\'on pût le dire. Et pourtant, si vague qu\'elle fût, cette voix, qui lui arrivait des confins de l\'horizon, emplit d\'un trouble obscur le coeur du pilote. Où avait-il entendu une voix semblable ? Un peu plus, il eût juré que c\'était celle de Natcha\... Il avait cessé de godiller, l\'oreille tendue aux sourdes rumeurs de la nuit.
+
+Le cri ne se renouvela pas. L\'espace était redevenu muet autour de la barge que le courant entraînait en silence. Natcha !
+
+Il n\'avait que ce nom-là en tête\... Serge Ladko, d\'un mouvement d\'épaules, rejeta cette obsession, cette idée fixe et se remit au travail.
+
+Le temps passa. Il pouvait être minuit, quand, sur la rive droite, se dessinèrent confusément des maisons. Ce n\'était qu\'un village, Szlankament, que Ladko laissa en arrière sans l\'avoir reconnu.
+
+Quelques heures plus tard, au moment du lever de l\'aube, un autre bourg, Nove Banoveze, apparut à son tour. Il ne le reconnut pas davantage et le dépassa pareillement.
+
+Puis les rives redevinrent désertes, tandis que le jour se levait.
+
+Dès que la lumière fut suffisante, Serge Ladko s\'empressa de réparer les dégâts causés à son déguisement par une si longue captivité. En quelques minutes, ses cheveux redevinrent noirs de leur racine à leur pointe, un coup de rasoir fit tomber la barbe naissante et ses lunettes faussées furent remplacées par des neuves. Cela fait, il se remit à godiller avec le même inlassable courage.
+
+De temps à autre, il jetait un coup d\'oeil en arrière, sans rien apercevoir de suspect. Les ennemis étaient loin, décidément.
+
+Libérant son esprit de ses préoccupations les plus immédiates, le sentiment de sa sécurité reconquise lui permettait de songer de nouveau à l\'étrangeté de sa situation. Quels étaient ces ennemis qui le contraignaient à fuir ? Que lui voulaient-ils ? Pourquoi l\'avaient-ils tenu durant tant de jours en leur pouvoir ? Autant de questions auxquelles il était dans l\'impossibilité de répondre. Quels que fussent ces ennemis, il fallait, en tous cas, se défier d\'eux à l\'avenir, et ce souci allait fâcheusement compliquer son voyage, à moins qu\'il ne prît le parti de réclamer, malgré les dangers d\'une telle démarche, la protection de la police contre ses ravisseurs inconnus, à la première ville qu\'il traverserait.
+
+Cette ville, quelle serait-elle ? Cela non plus, il ne le savait pas, et rien n\'était de nature à le renseigner, sur ces rives désertes où, séparés par de longs espaces, s\'égrenaient de rares et pauvres hameaux.
+
+Ce fut seulement vers huit heures du matin, que, toujours sur la rive droite, de hauts clochers piquèrent le ciel, tandis que, devant la barge, une autre ville plus lointaine montait à l\'horizon. Serge Ladko eut un sursaut de joie. Ces villes, il les connaissait bien. L\'une, la plus proche, c\'était Semlin, dernière cité danubienne de l\'empire austro-hongrois ; l\'autre, juste en face de lui, c\'était Belgrade, la capitale serbe, située également sur la rive droite, après un coude brusque du fleuve, au confluent de la Save.
+
+Ainsi donc, pendant son incarcération, il avait continué à descendre le courant, sa prison flottante l\'avait rapproché du but, et, sans même s\'en rendre compte, il avait franchi plus de cinq cents kilomètres.
+
+Pour l\'instant, Semlin, c\'était le salut. Autant que besoin serait, il y trouverait aide et protection. Mais se résoudrait-il à demander du secours ? S\'il se plaignait, s\'il racontait son inexplicable aventure, n\'allait-on pas ouvrir une enquête, dont il serait la première victime ? Peut-être voudrait-on savoir qui il était, d\'où il venait, où il se rendait, et peut-être parviendrait-on à découvrir le nom qu\'il s\'était juré de ne jamais révéler, quoi qu\'il arrivât.
+
+Remettant à prendre un parti à ce sujet, Serge Ladko activa la marche de son embarcation. La demie de huit heures sonnait aux horloges de la ville comme il fixait son amarre à un anneau du quai. Il procéda ensuite à quelques rapides rangements, puis examina de nouveau ce problème : parler ou se taire. Finalement il se décida pour l\'abstention. Tout bien considéré, mieux valait garderie silence, aller chercher sous le tôt un repos bien gagné, et s\'éloigner inaperçu de Semlin comme il y était arrivé.
+
+A ce moment, quatre hommes parurent sur le quai et s\'arrêtèrent en face de la barge. Ces hommes sautèrent à bord, et l\'un d\'eux, s\'approchant de Serge Ladko, qui le regardait faire avec étonnement, demanda :
+
+« Vous êtes bien le nommé Ilia Brusch ?
+
+--- Oui, répondit le pilote, en fixant sur le questionneur un regard inquiet. Celui-ci entrouvrit son vêtement, afin de montrer une écharpe aux couleurs hongroises, qui lui enserrait la taille.
+
+--- Au nom de la loi, je vous arrête, » dit-il en touchant le pilote à l\'épaule.

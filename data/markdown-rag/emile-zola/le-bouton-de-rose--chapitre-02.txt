@@ -1,0 +1,32 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE BOUTON DE ROSE"
+slug_oeuvre: "le-bouton-de-rose"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+THÉÂTRE
+
+LE BOUTON DE ROSE
+
+Liste des pièces de théâtre
+
+] 
+
+## Personnages
+RIBALIER
+BROCHARD
+CHAMORIN
+PUTOIS
+JULES**
+**UN CAPITAINE**
+**UN LIEUTENANT
+UN SERGENT
+VALENTINE
+HORTENSE
+FRANÇOISE**
+
+!

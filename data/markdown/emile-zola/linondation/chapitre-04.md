@@ -1,0 +1,99 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5920 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[L'INONDATION]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5921 .calibre35}
+
+## []{#_Toc368832951 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832677 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832403 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832129 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831855 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831581 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831307 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831033 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830759 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830485 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830211 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829937 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829663 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829389 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829115 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828841 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828567 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828293 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368828019 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Le toit, heureusement, était vaste et de pente douce. On y montait par une fenêtre à tabatière, au-dessus de laquelle se trouvait une sorte de plate-forme. Ce fut là que tout notre monde se réfugia. Les femmes s'étaient assises. Les hommes allaient tenter des reconnaissances sur les tuiles, jusqu'aux grandes cheminées, qui se dressaient, aux deux bouts de la toiture. Moi, appuyé à la lucarne par où nous étions sortis, j'interrogeais les quatre points de l'horizon.
+
+--- Des secours ne peuvent manquer d'arriver, disais-je bravement. Les gens de Saintin ont des barques. Ils vont passer par ici... Tenez ! Là-bas, n'est-ce pas une lanterne sur l'eau ?
+
+Mais personne ne me répondait. Pierre, sans trop savoir ce qu'il faisait, avait allumé sa pipe, et il fumait si rudement, qu'à chaque bouffée il crachait des bouts de tuyau. Jacques et Cyprien regardaient au loin, la face morne ; tandis que Gaspard, serrant les poings, continuait de tourner sur le toit, comme s'il eût cherché une issue. À nos pieds, les femmes en tas, muettes, grelottantes, se cachaient la face pour ne plus voir. Pourtant, Rose leva la tête, jeta un coup d'oeil autour d'elle, en demandant :
+
+--- Et les servantes, où sont-elles ? Pourquoi ne montent-elles pas ?
+
+J'évitai de répondre. Elle m'interrogea alors directement, les yeux sur les miens.
+
+--- Où donc sont les servantes ?
+
+Je me détournai, ne pouvant mentir. Et je sentis ce froid de la mort qui m'avait déjà effleuré, passer sur nos femmes et sur nos chères filles. Elles avaient compris. Marie se leva toute droite, eut un gros soupir, puis s'abattit, prise d'une crise de larmes. Aimée tenait serrés dans ses jupes ses deux enfants, qu'elle cachait comme pour les défendre. Véronique, la face entre les mains, ne bougeait plus. Tante Agathe, elle-même, toute pâle, faisait de grands signes de croix, en balbutiant des Pater et des Ave.
+
+Cependant, autour de nous, le spectacle devenait d'une grandeur souveraine. La nuit, tombée complètement, gardait une limpidité de nuit d'été. C'était un ciel sans lune, mais un ciel criblé d'étoiles, d'un bleu si pur, qu'il emplissait l'espace d'une lumière bleue. Il semblait que le crépuscule se continuait, tant l'horizon restait clair. Et la nappe immense s'élargissait encore sous cette douceur du ciel, toute blanche, comme lumineuse elle-même d'une clarté propre, d'une phosphorescence qui allumait de petites flammes à la crête de chaque flot. On ne distinguait plus la terre, la plaine devait être envahie. Par moments, j'oubliais le danger. Un soir, du côté de Marseille, j'avais aperçu ainsi la mer, j'étais resté devant elle béant d'admiration.
+
+--- L'eau monte, l'eau monte, répétait mon frère Pierre, en cassant toujours entre ses dents le tuyau de sa pipe, qu'il avait laissée s'éteindre.
+
+L'eau n'était plus qu'à un mètre du toit. Elle perdait sa tranquillité de nappe dormante. Des courants s'établissaient. À une certaine hauteur, nous cessions d'être protégés par le pli de terrain, qui se trouve en avant du village. Alors, en moins d'une heure, l'eau devint menaçante, jaune, se ruant sur la maison, charriant des épaves, tonneaux défoncés, pièces de bois, paquets d'herbes. Au loin, il y avait maintenant des assauts contre des murs, dont nous entendions les chocs retentissants. Des peupliers tombaient avec un craquement de mort, des maisons s'écroulaient, pareilles à des charretées de cailloux vidées au bord d'un chemin.
+
+Jacques, déchiré par les sanglots des femmes, répétait :
+
+--- Nous ne pouvons demeurer ici. Il faut tenter quelque chose... Mon père, je vous en supplie, tentons quelque chose.
+
+Je balbutiais, je disais après lui :
+
+--- Oui, oui, tentons quelque chose.
+
+Et nous ne savions quoi. Gaspard offrait de prendre Véronique sur son dos, de l'emporter à la nage. Pierre parlait d'un radeau. C'était fou. Cyprien dit enfin :
+
+--- Si nous pouvions seulement atteindre l'église.
+
+Au-dessus des eaux, l'église restait debout, avec son petit clocher carré. Nous en étions séparés par sept maisons. Notre ferme, la première du village, s'adossait à un bâtiment plus haut, qui lui-même était appuyé au bâtiment voisin. Peut-être, par les toits, pourrait-on en effet gagner le presbytère, d'où il était aisé d'entrer dans l'église. Beaucoup de monde déjà devait s'y être réfugié ; car les toitures voisines se trouvaient vides, et nous entendions des voix qui venaient sûrement du clocher. Mais que de dangers pour arriver jusque-là !
+
+--- C'est impossible, dit Pierre. La maison des Raimbeau est trop haute. Il faudrait des échelles.
+
+--- Je vais toujours voir, reprit Cyprien. Je reviendrai, si la route est impraticable. Autrement, nous nous en irions tous, nous porterions les filles.
+
+Je le laissai aller. Il avait raison. On devait tenter l'impossible. Il venait, à l'aide d'un crampon de fer, fixé dans une cheminée, de monter sur la maison voisine, lorsque sa femme Aimée, en levant la tête, vit qu'il n'était plus là. Elle cria :
+
+--- Où est-il ? Je ne veux pas qu'il me quitte. Nous sommes ensemble, nous mourrons ensemble.
+
+Quand elle l'aperçut en haut de la maison, elle courut sur les tuiles, sans lâcher ses enfants. Et elle disait :
+
+--- Cyprien, attends-moi. Je vais avec toi, je veux mourir avec toi.
+
+Elle s'entêta. Lui, penché, la suppliait, en lui affirmant qu'il reviendrait, que c'était pour notre salut à tous. Mais, d'un air égaré, elle hochait la tête, elle répétait :
+
+--- Je vais avec toi, je vais avec toi. Qu'est-ce que ça te fait ? Je vais avec toi.
+
+Il dut prendre les enfants. Puis, il l'aida à monter. Nous pûmes les suivre sur la crête de la maison. Ils marchaient lentement. Elle avait repris dans ses bras les enfants qui pleuraient ; et lui, à chaque pas, se retournait, la soutenait.
+
+--- Mets-la en sûreté, reviens tout de suite ! Criai-je.
+
+Je l'aperçus qui agitait la main, mais le grondement des eaux m'empêcha d'entendre sa réponse. Bientôt, nous ne les vîmes plus. Ils étaient descendus sur l'autre maison, plus basse que la première. Au bout de cinq minutes, ils reparurent sur la troisième, dont le toit devait être très en pente, car ils se traînaient à genoux le long du faîte. Une épouvante soudaine me saisit. Je me mis à crier, les mains aux lèvres, de toutes mes forces :
+
+--- Revenez ! Revenez !
+
+Et tous, Pierre, Jacques, Gaspard, leur criaient aussi de revenir. Nos voix les arrêtèrent une minute. Mais ils continuèrent ensuite d'avancer. Maintenant, ils se trouvaient au coude formé par la rue, en face de la maison Raimbeau, une haute bâtisse dont le toit dépassait celui des maisons voisines de trois mètres au moins. Un instant, ils hésitèrent. Puis, Cyprien monta le long d'un tuyau de cheminée, avec une agilité de chat. Aimée, qui avait dû consentir à l'attendre, restait debout au milieu des tuiles. Nous la distinguions nettement, serrant ses enfants contre sa poitrine, toute noire sur le ciel clair, comme grandie. Et c'est alors que l'épouvantable malheur commença.
+
+La maison des Raimbeau, destinée d'abord à une exploitation industrielle, était très légèrement bâtie. En outre, elle recevait en pleine façade le courant de la rue. Je croyais la voir trembler sous les attaques de l'eau ; et, la gorge serrée, je suivais Cyprien, qui traversait le toit. Tout à coup, un grondement se fit entendre. La lune se levait, une lune ronde, libre dans le ciel, et dont la face jaune éclairait le lac immense d'une lueur vive de lampe. Pas un détail de la catastrophe ne fut perdu pour nous. C'était la maison des Raimbeau qui venait de s'écrouler. Nous avions jeté un cri de terreur, en voyant Cyprien disparaître. Dans l'écroulement, nous ne distinguions qu'une tempête, un rejaillissement de vagues sous les débris de la toiture. Puis, le calme se fit, la nappe reprit son niveau, avec le trou noir de la maison engloutie, hérissant hors de l'eau la carcasse de ses planchers fendus. Il y avait là un amas de poutres enchevêtrées, une charpente de cathédrale à demi détruite. Et, entre ces poutres, il me sembla voir un corps remuer, quelque chose de vivant tenter des efforts surhumains.
+
+--- Il vit ! Criai-je. Ah ! Dieu soit loué, il vit !... Là, au-dessus de cette nappe blanche que la lune éclaire !
+
+Un rire nerveux nous secouait. Nous tapions dans nos mains de joie, comme sauvés nous-mêmes.
+
+--- Il va remonter, disait Pierre.
+
+--- Oui, oui, tenez ! Expliquait Gaspard, le voilà qui tâche de saisir la poutre, à gauche.
+
+Mais nos rires cessèrent. Nous n'échangeâmes plus un mot, la gorge serrée par l'anxiété. Nous venions de comprendre la terrible situation où était Cyprien. Dans la chute de la maison, ses pieds se trouvaient pris entre deux poutres ; et il demeurait pendu, sans pouvoir se dégager, la tête en bas, à quelques centimètres de l'eau. Ce fut une agonie effroyable. Sur le toit de la maison voisine, Aimée était toujours debout, avec ses deux enfants. Un tremblement convulsif la secouait. Elle assistait à la mort de son mari, elle ne quittait pas du regard le malheureux, sous elle, à quelques mètres d'elle. Et elle poussait un hurlement continu, un hurlement de chien, fou d'horreur.
+
+--- Nous ne pouvons le laisser mourir ainsi, dit Jacques éperdu. Il faut aller là-bas.
+
+--- On pourrait peut-être encore descendre le long des poutres, fit remarquer Pierre. On le dégagerait.
+
+Et ils se dirigeaient vers les toits voisins, lorsque la deuxième maison s'écroula à son tour. La route se trouvait coupée. Alors, un froid nous glaça. Nous nous étions pris les mains, machinalement ; nous nous les serrions à les broyer, sans pouvoir détacher nos regards de l'affreux spectacle.
+
+Cyprien avait d'abord tâché de se raidir. Avec une force extraordinaire, il s'était écarté de l'eau, il maintenait son corps dans une position oblique. Mais la fatigue le brisait. Il lutta pourtant, voulut se rattraper aux poutres, lança les mains autour de lui, pour voir s'il ne rencontrerait rien où s'accrocher. Puis, acceptant la mort, il retomba, il pendit de nouveau, inerte. La mort fut lente à venir. Ses cheveux trempaient à peine dans l'eau, qui montait avec patience. Il devait en sentir la fraîcheur au sommet du crâne. Une première vague lui mouilla le front. D'autres fermèrent les yeux. Lentement, nous vîmes la tête disparaître.
+
+Les femmes, à nos pieds, avaient enfoncé leur visage entre leurs mains jointes. Nous-mêmes, nous tombâmes à genoux, les bras tendus, pleurant, balbutiant des supplications. Sur la toiture, Aimée toujours debout, avec ses enfants serrés contre elle, hurlait plus fort dans la nuit.

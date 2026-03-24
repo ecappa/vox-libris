@@ -1,0 +1,107 @@
+::: WordSection
+[
+]{.calibre44}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin-polemiques/Zola5_image028.jpg){.calibre71}]{.calibre19}[
+
+[ÉTUDES BIOGRAPHIQUES ET CRITIQUES]{.calibre19}
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{.calibre72}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre18} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin-polemiques/Zola5_image029.jpg){.calibre74}]{.calibre18}
+
+## []{#_Toc368911247 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910761 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910275 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909789 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909303 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908817 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908331 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907845 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907359 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906873 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906387 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905901 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905415 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904929 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904443 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903957 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903471 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902985 .pcalibre .calibre2 .pcalibre1}[Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de « Thérèse Raquin »]{#_Toc368902499 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_60 .calibre30}
+
+
+::: WordSection
+*[
+]{.calibre36}*
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB"}
+
+Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de Thérèse Raquin
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911248 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910762 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910276 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909790 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909304 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908818 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908332 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907846 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907360 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906874 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906388 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905902 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905416 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904930 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904444 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903958 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903472 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902986 .pcalibre .calibre2 .pcalibre1}[La lettre de Sainte-Beuve à Émile Zola, 10 juin 1868]{#_Toc368902500 .pcalibre .calibre2 .pcalibre1} {#la-lettre-de-sainte-beuve-à-émile-zola-10-juin-1868 .calibre46 .sigil_not_in_toc}
+
+
+Cher Monsieur,
+
+Je ne sais si je vous enverrai cette lettre, car je ne me sens aucun droit de critique privée sur Thérèse Raquin, et il me faudra bien une troisième sommation pour que je vous obéisse.
+
+Votre oeuvre est remarquable, consciencieuse, et, à certains égards même, elle peut faire époque dans l'histoire du roman contemporain.
+
+Selon moi, cependant, elle dépasse les limites, elle sort des conditions de l'art à quelque point de vue qu'on l'envisage ; et, en réduisant l'art à n'être que la seule et simple vérité, elle me paraît hors de cette vérité.
+
+Et tout d'abord, vous prenez une épigraphe que rien ne justifie dans le roman. Si le vice et la vertu ne sont que des produits comme le vitriol et le sucre, il s'ensuivrait qu'un crime expliqué et motivé comme celui que vous exposez n'est pas chose si miraculeuse et si monstrueuse, et on se demande dès lors pourquoi tout cet appareil de remords qui n'est qu'une transformation et une transposition du remords moral ordinaire, du remords chrétien, et une sorte d'enfer retourné.
+
+Dès les premières pages, vous décrivez le passage du Pont-Neuf : je connais ce passage autant que personne et par toutes les raisons qu'un jeune homme a pu avoir d'y rôder. Eh bien ! Ce n'est pas vrai, c'est fantastique de description : c'est comme la rue Soli, de Balzac. Le passage est plat, banal, laid, surtout étroit, mais il n'a pas toute cette noirceur profonde et ces teintes à la Rembrandt que vous lui prêtez. C'est là une manière aussi d'être infidèle.
+
+Vos personnages d'ailleurs, si vous les avez faits exprès plats et vulgaires (excepté la jeune femme qui a quelque chose d'algérien) sont ressemblants, bien présentés, analysés en conscience, copiés avec probité. A vrai dire, si peu idéaliste que je sois, je me demande bien si le crayon ou la plume ont nécessairement pour objet de choisir des objets vulgaires, sans nul agrément (je me le suis même demandé déjà au sujet de Germinie Lacerteux de mes amis les Goncourt) ; je me suis persuadé qu'un peu d'agréable, un peu de touchant, n'est point entièrement inutile, ne fût-ce que sur un point ou deux, dans un tableau même qu'on veut faire parfaitement triste et terne. Mais enfin je passe. Il y a un endroit où je trouve particulièrement du talent, au sens de l'invention : c'est dans la hardiesse des rendez-vous : la page sur le chat, sur ce qu'il pourrait dire, est charmante et cela ne rentre plus dans la copie pure et simple.
+
+Je trouve encore un grand talent d'analyse et de vraisemblance (le genre admis) dans les scènes préparatoires de la noyade, et dans celles qui suivent immédiatement.
+
+Mais là je m'arrête, et le roman me semble faire fausse route. Je prétends qu'ici vous manquez à l'observation ou à la divination. C'est fait de tête et non d'après nature. Et, en effet, les passions sont féroces. Une fois déchaînées, tant qu'elles ne sont pas assouvies, elles n'ont pas de cesse. Si Clytemnestre et Egisthe, s'aimant à la fureur, n'avaient pu se posséder complètement qu'à côté du cadavre tout chaud et saignant d'Agamemnon, le cadavre d'Agamemnon ne les aurait pas gênés, au moins pour les premières nuits. Aussi je ne comprends rien à vos amants, à leurs remords et à leur refroidissement subit, avant d'être arrivés à leurs fins. Ah ! Plus tard, je ne dis pas. Quand la passion principale est satisfaite, on réfléchit, on voit les inconvénients : le chapitre des remords commence...
+
+Vous voyez mes objections, cher Monsieur. Ce qui ne m'aveugle pas sur le mérite technique et d'exécution de bien des pages. Je désirerais seulement que le mot de vautrer se rencontrât moins souvent, et que cet autre mot brutal, qui reparaît sans cesse, ne vînt pas accuser la note dominante, qui n'a nullement besoin de ce rappel pour ne pas se laisser oublier.
+
+Vous avez fait un acte hardi : vous avez bravé dans cette oeuvre et le public et aussi la critique. Ne vous étonnez pas de certaines colères ; le combat est engagé ; votre nom y est signalé : de tels conflits se terminent, quand un auteur de talent le veut bien, par un autre ouvrage, également hardi, mais un peu détendu, où le public et la critique croient voir une concession à leur gré, et tout finit par un de ces traités de paix qui consacrent une réputation de plus.
+
+Tout à vous.
+
+Sainte-Beuve P.S. -- Voici un aphorisme moral qui, selon moi, atteint votre roman par le milieu : « Une passion, une fois déchaînée, ne s'éteint point, ne se coupe point brusquement par le remords, comme la fièvre par la quinine, avant de s'être assouvie. »
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de Thérèse Raquin
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911249 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910763 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910277 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909791 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909305 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908819 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908333 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907847 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907361 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906875 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906389 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905903 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905417 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904931 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904445 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903959 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903473 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902987 .pcalibre .calibre2 .pcalibre1}[La réponse de Zola à Sainte-Beuve, 13 juillet 1868]{#_Toc368902501 .pcalibre .calibre2 .pcalibre1} {#la-réponse-de-zola-à-sainte-beuve-13-juillet-1868 .calibre46 .sigil_not_in_toc}
+
+
+Paris, 13 juillet 1868.
+
+
+Monsieur et cher maître,
+
+Si je me suis permis d'insister pour avoir votre opinion sur Thérèse Raquin, c'est que je savais à l'avance combien votre critique serait juste et sympathique. Les jeunes gens comme moi ont tout à gagner à connaître le jugement de leurs illustres aînés sur leur compte. J'accepte vos critiques avec plus de reconnaissance encore que vos éloges.
+
+Permettez-moi, cependant, de me défendre contre un de vos blâmes. Vous me dites que j'ai menti à la vérité en ne jetant pas Laurent et Thérèse dans les bras l'un de l'autre, le lendemain du meurtre. Si j'ai cru devoir les séparer, leur donner des répugnances et des lassitudes, c'est que je n'ai pas voulu peindre une passion tragique, âpre, insatiable. Lorsqu'ils tuent, ils sont déjà presque dégoûtés l'un de l'autre. Leur crime est une fatalité à laquelle ils ne peuvent échapper. Ils éprouvent comme un affaissement après l'assassinat, comme une paix d'être débarrassés d'un effort trop violent pour leur nature. Je ne sais si je m'exprime clairement. Mes héros n'ont que des instincts ; plus tard, quand ils se marient après une année d'indifférence, ils obéissent aux conséquences des faits. A la vérité, ils ne s'aiment jamais, dans le sens français et italien du mot. Le jour où Laurent jette Thérèse sur le carreau, il a à peine des désirs ; toujours cette femme le troublera ; quand il la possèdera tout à fait, elle achèvera de détraquer son être. Le drame est surtout physiologique. Le meurtre est pour ces tempéraments une crise aiguë, qui les laisse hébétés et comme étrangers. D'ailleurs, lorsqu'ils tuent, ils ne tuent déjà plus pour se posséder ; je crois que tout acte violent, dans des natures lâches et vulgaires, s'accomplit mécaniquement et amène un oubli presque complet des causes et du but. Ils tuent parce qu'ils se sont promis de tuer et ils s'épousent plus tard parce que leur mariage est un résultat nécessaire du meurtre. S'ils tardent pendant plus d'une année, c'est qu'à la vérité ils ne s'aiment pas, c'est qu'ils sont secoués et écoeurés, c'est qu'ils ne se retrouvent plus eux-mêmes, et qu'ils ont besoin d'un long temps pour éprouver de nouveau le désir de leurs étreintes. Ôtez-leur la passion tragique, faites-en des brutes, et vous comprendrez leurs crises et leurs affaissements. Je sais bien que tout cela est très particulier, très exceptionnel ; je l'ai voulu ainsi, à la suite de certaines observations et de certaines intuitions que je crois vraies.
+
+Me pardonnez-vous, Monsieur et cher maître, d'avoir cherché à me défendre, bien mal sans doute, au courant de la plume. Vous avez mille fois raison : je sais bien qu'il me faut écrire une autre oeuvre, mieux équilibrée, plus vraie et plus étudiée. Le malheur est que ma plume est mon seul gagne-pain, et que je ne puis travailler aux ouvrages que je rêve. La lutte est rude pour moi. Quand je serai assez connu, quand le livre pourra me faire vivre, quand il me sera permis de quitter le journalisme pour lequel je ne suis pas fait, alors seulement je me mettrai sérieusement à la besogne.
+
+Vous m'avez donné quelques espérances, et je vous remercie mille fois.
+
+Veuillez me croire, Monsieur et cher maître, votre tout reconnaissant et tout dévoué.
+
+
+::: WordSection
+[
+]{.calibre44}
+
+
+[[Liste des études biographiques et critiques]{.calibre18}](../Text/Zola5_split_000.htm){.pcalibre .pcalibre1}[

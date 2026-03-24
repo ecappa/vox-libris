@@ -1,0 +1,294 @@
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909154 .pcalibre .calibre2 .pcalibre1}[Acte IV]{#_Toc368909094 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_24 .calibre33}
+
+*Un vallon que bornent, à droite, des roches fauves. Les terres fertiles, qui s'étagent, sont couvertes à I'infini d'un blé déjà haut, d\'un vert puissant ; et, parmi les pièces, une route serpente, vient du fond et descend jusqu'au premier plan. Au fond, à gauche, on aperçoit le village, avec sa petite église. Au premier plan, quelques arbres ; et là, à droite, un brusque abîme, une cassure dans la roche, au fond de laquelle on sent un gouffre béant, --- Le matin, par une admirable journée de printemps. Un soleil triomphal baigne la nappe éclatante des blés, et l'horizon entier resplendit et chante, dans un frisson de fécondité heureuse.*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE IV
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909155 .pcalibre .calibre2 .pcalibre1}[Scène I]{#_Toc368909095 .pcalibre .calibre2 .pcalibre1} {#scène-i .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME, LE BERGER]{lang="EN-US"}
+
+**GUILLAUME**.
+Eh quoi ! berger, tu ne restes pas avec nous quelques jours encore ?
+**LE BERGER**.
+Non, je serai parti ce soir\... Voici le beau temps revenu, et je devrais être déjà, avec mes bêtes, dans la montagne.
+**GUILLAUME**, *radieux, montrant le ciel et les blés..*
+Vois donc, vois donc, quel printemps triomphal ! Dans le ciel tendre, le soleil est comme une caresse de flamme, et la terre a frémi, réveillée du long sommeil de l'hiver, toute gonflée de germes\... La vie a éclaté de partout, l\'air s\'est empli d\'haleines vivantes, le blé pousse tel qu\'un peuple innombrable, roulant à l\'infini la houle de ses tiges vertes.
+**LE BERGER**
+C\'est comme un prodige, jamais cette terre n\'avait promis une moisson pareille.
+**GUILLAUME**.
+Ah ! oui, le travail a vaincu, mon dur travail qui s\'obstinait à féconder le sol ingrat\...Mais l\'eau a fait le prodige. Depuis que le torrent s\'est abîmé en terre, l\'eau cachée ruisselle sous les champs de ce vallon ; elle trempe, elle baigne les germes, et de là naît cette fécondité formidable\... L\'eau, en emportant l\'or maudit, nous a donné le blé, le blé auguste, le blé nourrisseur des hommes !
+**LE BERGER**.
+Et c\'est ce matin, n\'est-ce pas ? que l\'on doit bénir les blés\... La procession viendra jusqu\'ici.
+**GUILLAUME**.
+Oui, jusqu\'ici, tout à l\'heure.
+**LE BERGER**.
+Je vais rassembler les troupeaux, puis je partirai\... Au coucher du soleil, je serai là-haut, très loin, très haut. *(Il s\'en va.)*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE IV
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909156 .pcalibre .calibre2 .pcalibre1}[Scène II]{#_Toc368909096 .pcalibre .calibre2 .pcalibre1} {#scène-ii .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME]{lang="EN-US"}
+
+**GUILLAUME**, *seul.*
+Ah ! quelle serait ma joie, la terre indulgente enfin, la misère vaincue, la fraternité revenue dans toutes les âmes ! Mais, sans Hélène, il n\'est pour moi pas de joie, pas d\'espérance. Et, désormais, elle a beau être pauvre, l\'abominable accusation nous sépare encore.
+Son père aurait tué le mien\... *(Il va vers le rocher, à droite.)*
+Ce serait ici, du haut de cette roche, que son père aurait poussé le mien dans le gouffre\... Mon pauvre père qu\'on a ramassé les membres en lambeaux, serrant dans sa main crispée le morceau d\'or !
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE IV
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909157 .pcalibre .calibre2 .pcalibre1}[Scène III]{#_Toc368909097 .pcalibre .calibre2 .pcalibre1} {#scène-iii .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME, VÉRONIQUE]{lang="EN-US"}
+
+**VÉRONIQUE**, *violente, haletante.*
+Misère de nous ! On nous a volés\^ notre maison est maudite !
+**GUILLAUME**.
+Quoi donc, mère ?
+**VÉRONIQUE**.
+On nous a volé le collier, le collier magique dont j\'ai fermé moi-même les chaînons, le collier d\'or qui donne la joie et la beauté aux êtres purs, qui force les coupables à se livrer.
+**GUILLAUME**.
+Le collier volé ! et qui donc ?
+**VÉRONIQUE**.
+Le sais-je !\...Des pauvres, des gens louches rôdent par le pays. Oui ! ces gens de l\'usine, ce Gaspard et sa fille qui n\'ont plus de pain et qui s\'en vont par les routes !
+**GUILLAUME**, *frémissant.*
+Mère, que dites-vous ? Eux, des voleurs !
+**VÉRONIQUE**.
+On a volé le collier !\... Ah ! que son magique pouvoir agisse donc ! Que les paroles secrètes que j\'ai dites, sous la pleine lune de Noël, forcent le coupable à confesser son crime !
+*(Une rumeur. Le berger rentre en scène, poussant devant lui Mathias, que trois paysans tiennent solidement. Un flot de foule suit, très irritée.)*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE IV
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909158 .pcalibre .calibre2 .pcalibre1}[Scène IV]{#_Toc368909098 .pcalibre .calibre2 .pcalibre1} {#scène-iv .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME, VÉRONIQUE, MATHIAS, LE BERGER, LA FOULE]{lang="EN-US"}
+
+**LE BERGER**.
+J\'étais du côté des étables, lorsque j\'ai vu celui-ci s\'enfuir. Un mauvais homme que je n\'aimais guère ! Et j\'ai voulu l\'arrêter, tant il galopait, dans l\'effarement de quelque mauvais coup.
+**MATHIAS**, *aux paysans.*
+Lâchez-moi, vous autres ! Je ne veux pas qu\'on me tienne.
+**LE BERGER**.
+Enfin, j\'ai pu le saisir, avec l\'aide de ces braves gens\... Nous l\'avons fouillé, et tenez ! Véronique, il emportait ce collier, *(Il le remet à véronique.)*
+**VÉRONIQUE**.
+Toi !
+**MATHIAS**, *pris de fureur.*
+Oui, moi !\... Ah ! collier maudit, collier qui m\'a vendu en me forçant à galoper, collier qui me brûlait et qui me fait tout dire, lorsque je devrais me taire !
+**VÉRONIQUE**.
+Tu nous as volés, toi !
+**MATHIAS**.
+Moi, qui vous exècre tous, qui voudrais vous ruiner tous !\... L\'usine est par terre, mais ce n\'est pas l\'usine seule qu\'il faut détruire, c\'est le village, votre village, esclaves, qui ne savez que courber la tête et qui ne connaissez que le travail.
+**LA FOULE**.
+Ah ! le bandit qui nous insulte et nous menace !\... En prison, en prison !
+**MATHIAS**.
+C\'est cela, foule imbécile, livre-moi maintenant, après m\'avoir acclamé comme chef !\... Et c\'est trop, que j\'en finisse, puisque les aveux sortent quand même de ma gorge ! La rage m\'étoufferait, il faut que je parle\... Vous entendez, Véronique, je vous hais, vous et les vôtres ! Et votre homme, c\'est moi qui l\'ai poussé du haut de cette roche, c\'est moi qui l\'ai tué !
+**VÉRONIQUE** et **GUILLAUME**.
+Dieu juste !
+**MATHIAS**.
+Il avait la main pleine d\'or, et j\'avais la main vide. Pourquoi donc toujours les autres et pas moi ?\... Et je suis descendu, trop tard, pour arracher l\'or de ses doigts crispés !
+**VÉRONIQUE**, *farouche, marchant à lui.*
+Toi, tu vas mourir !
+**MATHIAS**, *reculant d\'un pas vers le gouffre.*
+Ne me touchez pas ! je ne veux pas qu\'on me touche !
+**VÉRONIQUE**, *avançant.*
+Tu vas mourir !
+**MATHIAS**, *reculant.*
+Est-ce donc toi qui m\'as condamné et qui m\'exécuteras ?
+**VÉRONIQUE**.
+Oui, moi ! Tu vas mourir !\... *(Avançant, le forçant encore à se rapprocher du gouffre.)* Tu as poussé mon homme dans ce gouffre, tu vas y tomber à ton tour.
+**LA FOULE**.
+Oui, oui, nous sommes là, il ne peut s\'échapper\... À mort, l\'assassin !
+**MATHIAS**, *farouche, superbe.*
+Je vous défends de me toucher\... Si je meurs, c\'est que je le veux, c\'est que je crève de rancune et de colère\... Ah ! que la destruction commence donc par moi ! Mais que, de mes os broyés, se lève un vent dévastateur, et que pas une maison du village ne reste, et qu\'ensuite les villes, le monde entier en soit balayé !\... A la mort des autres, à la mort de tout ! *(Il se jette du haut de la roche, dans un grand cri.)*
+**VÉRONIQUE**.
+Justice est faite, et le soleil en est plus gai, dans ce grand ciel clair !
+**LA FOULE**.
+Justice est faite, justice est faite !\... Il n\'y a plus que pardon et qu\'espérance. Les grands blés verts vont être bénits. *(Des groupes se forment, dans l\'attente de la procession.)*
+**LE BERGER**, *élevant la voix.*
+Adieu, vous tous, à présent !\... J\'ai trop tardé, les troupeaux m\'attendent.
+**GUILLAUME**.
+Reste une minute encore, pour fêter avec nous le travail.
+**LE BERGER**.
+Non, la solitude m\'appelle\.... Je remonte sur les sommets, où les jours sont si purs, où les nuits sont si douces.
+**GUILLAUME**.
+Bonne saison alors, et ne t\'ennuie pas trop à ne rien faire !
+**LE BERGER**.
+Je suis le solitaire et le gardien, je rêve et je veille en regardant l\'ombre des nuages courir sans fin sur l\'immensité des plaines. Et c\'est là une éternelle besogne, la plus noble et la plus utile, sans laquelle les hommes mourraient de tristesse et d\'égarement, ainsi que des bêtes privées de leur berger.
+Au revoir, vous tous ! Et, tenez ! soyez doux à ces deux-là, que le malheur a frappés et qui sont pauvres. *(Il montre Gaspard et Hélène, qui arrivent.)* Dès les premiers froids, à l\'automne, quand je redescendrai, veuille Dieu que je vous retrouve tous unis, tous heureux, tous prospères\... Paix, joie et fraternité !
+*(Il s\'en va. Gaspard et Hélène, très pauvrement vêtus, le père s\'appuyant à l\'épaule de sa fille, continuent d\'avancer, au milieu des groupes qui s\'écartent.)*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{#Image51 .calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+ACTE IV
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{#Image52 .calibre32}]{.calibre31}
+
+### []{#_Toc368909159 .pcalibre .calibre2 .pcalibre1}[Scène V]{#_Toc368909099 .pcalibre .calibre2 .pcalibre1} {#scène-v .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME, VÉRONIQUE, GASPARD, HÉLÈNE LA FOULE, puis LA PROCESSION]{lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+**GUILLAUME**, *à Véronique, doucement, en montrant Gaspard et Hélène.*
+Regardez-les, mère !\... Maintenant que la tache de sang n\'est plus entre nos familles, soyez bonne ! Voyez comme ils sont pauvres, eux si riches hier encore !
+**VÉRONIQUE**, *doucement.*
+Tu dis vrai, mon enfant, le châtiment passe la faute\... *(S\'avançant, élevant la voix.)* Gaspard, où donc allez-vous si tristement ? *(Gaspard et Hélène s\'arrêtent.)*
+**GASPARD**.
+Nous allons devant nous, au hasard de la route. Nous quittons ce pays, trop dur à notre infortune.
+**VÉRONIQUE**.
+Mais la route est longue, d\'ici aux grandes villes. Il faut vivre.
+**GASPARD**, *presque joyeusement.*
+Bah ! jamais je n\'ai désespéré. Et puis, mon enfant me soutient\... Nous trouverons de braves gens.
+**VÉRONIQUE**.
+N\'avez-vous donc plus rien ?
+**GASPARD**, *gaiement.*
+Non, rien ! la vie a tout emporté\... Nous n\'avons que ce beau soleil et que le courage, qui luisent pour tout le monde !
+**LA FOULE**.
+Écoutez, écoutez ! la procession s\'avance\... Ah ! confessons nos fautes, obtenons notre pardon, pour que le ciel fasse grâce aux récoltes de la terre !
+*(On voit la procession, au loin, qui s\'engage dans les blés : la croix, des enfants, des jeunes filles vêtues de blanc, des hommes et des femmes, le prêtre sous un dais. La cloche de l\'église, éloignée, se met à sonner.)*
+**LA PROCESSION**, *au loin.*
+Omnes sancti Angeli et Archangeli, orate pro nobis.,. Omnes sancti beatorum spirituum ordines, orate pro nobis *(Les voix se perdent.)*
+**GUILLAUME**, *à Véronique.*
+Oh ! mère, vous avez pardonné\... *(Gaspard et Hélène se sont remis en marche.)* Hélène, Hélène !\... *(Ils s\'arrêtent.)* Pouquoi donc t\'en vas-tu, chère femme, lorsque je suis là ?
+**HÉLÈNE**.
+Me dis-tu donc de rester, toi dont je n\'ai pas voulu ?
+**GUILLAUME**.
+Mais je t\'aime ! je le veux aujourd\'hui comme je te voulais hier. Et n\'es-tu pas à moi, puisque te voilà pauvre ?
+**HÉLÈNE**.
+Tu me veux pauvre, ô ravissement, ô délices d\'être aimée ! Je t\'ai toujours aimé, cher époux, je n\'ai jamais aimé que toi.
+**GUILLAUME**.
+Comme deux flammes qui se rejoignent, que nos coeurs brûlent, pour la vie entière !
+**HÉLÈNE**.
+Pour la vie entière, que notre amour fleurisse en certitude et en bonheur !
+**LA PROCESSION**, *plus près, au milieu des blés.*
+Ab ira et odio, et omni mala voluntate, libéra nos, Domine\... A fulgure et tempestate, libera nos, Domine.
+**LA FOULE**.
+Dans le printemps triomphal, c'est la fête du travail\... L\'eau divine ruisselle sous la terre, une fécondité formidable a jailli du sol stérile\... Et il n\'y a plus d\'or, il n'y a que du blé !
+**GUILLAUME**, *tenant le collier, qu\'il a pris des mains de sa mère.*
+Il n\'y a plus d\'or que l\'or de ce collier. C\'est l\'or de beauté, l'or de tendresse, celui qui rend belle et qui fait aimer\... Porte-le pour que la maison soit heureuse ! *(Il le lui met au cou.)*
+**HÉLÈNE**.
+Je le porterai comme le luxe même de notre amour, afin que tu m\'aimes plus encore et qu\'il soit l\'éternel lien de nos coeurs.
+**GUILLAUME**.
+Ah ! chère femme, l'unique, la nécessaire et l\'adorée ! Maintenant, les grands blés mûriront, le vieux logis s\'emplira de beaux enfants rieurs.
+**GASPARD**.
+Jamais je n\'ai désespéré. Chers enfants, le beau soir de vos noces prochaines, nous, les vieux, nous boirons à la vie, à l\'éternel bonheur.
+**VÉRONIQUE**.
+Cher fils, chère fille, c\'est l'amour qui fait la vie, lui seul est la sève du monde. Aimez-vous, soyez la joie, la force et la fécondité.
+**LA PROCESSION**, *en scène.*
+Ut fructus terrae dare et conservare digneris, te rogamus, audi nos.
+**LE PRÊTRE**, *bénissant les blés.*
+Domine exaudi orationem meam.
+**LA PROCESSION** et **TOUTE LA FOULE**.
+Et clamor meus ad te veniat.
+*(Tous sont à genoux, et le prêtre achève de bénir les blés, d\'un geste large, qui emplit l\'horizon.)*
+
+
+::: WordSection
+[
+]{.calibre44}
+
+
+[[[Liste des oeuvres poétiques et lyriques]{.calibre24 lang="FR"}](../Text/Zola7_split_000.htm){.pcalibre .pcalibre1}]{lang="EN-US"}[
+
+::::: calibre26
+
+------------------------------------------------------------------------
+
+[[\[1\]]{.MsoFootnoteReference1 .MsoFootnoteReference1 .calibre44 lang="EN-US"}](../Text/Zola7_split_003.htm#_ftnref1){#_ftn1 .pcalibre .pcalibre1} Paul Alexis, dans *Émile Zola : notes d'un ami*.
+
+[[\[2\]]{.MsoFootnoteReference1 .MsoFootnoteReference1 .calibre44 lang="EN-US"}](../Text/Zola7_split_037.htm#_ftnref2){#_ftn2 .pcalibre .pcalibre1} Cette pièce est la dernière que le poète ait écrite.
+:::::

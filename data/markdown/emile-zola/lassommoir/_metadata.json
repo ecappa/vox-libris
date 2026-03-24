@@ -1,0 +1,164 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L'ASSOMMOIR",
+  "slug": "lassommoir",
+  "nombre_chapitres": 14,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 146,
+      "spine_end_exclusive": 147,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_145.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface de l’auteur",
+      "slug": "preface-de-lauteur",
+      "spine_start": 147,
+      "spine_end_exclusive": 148,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_146.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 148,
+      "spine_end_exclusive": 149,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_147.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 149,
+      "spine_end_exclusive": 150,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_148.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 150,
+      "spine_end_exclusive": 151,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_149.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 151,
+      "spine_end_exclusive": 152,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_150.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 152,
+      "spine_end_exclusive": 153,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_151.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 153,
+      "spine_end_exclusive": 154,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_152.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 154,
+      "spine_end_exclusive": 155,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_153.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 155,
+      "spine_end_exclusive": 156,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_154.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 156,
+      "spine_end_exclusive": 157,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_155.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 157,
+      "spine_end_exclusive": 158,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_156.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 158,
+      "spine_end_exclusive": 159,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_157.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 159,
+      "spine_end_exclusive": 160,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_158.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 160,
+      "spine_end_exclusive": 162,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_159.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_160.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/lassommoir/Zola1_image023.jpg"
+  ]
+}

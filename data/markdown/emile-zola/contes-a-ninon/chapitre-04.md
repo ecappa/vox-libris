@@ -1,0 +1,410 @@
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5671 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5672 .calibre35}
+
+## []{#_Toc368832735 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832461 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832187 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831913 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831639 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831365 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831091 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830817 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830543 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830269 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829995 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829721 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829447 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829173 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828899 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828625 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828351 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828077 .pcalibre .calibre3 .pcalibre1}[Celle qui m'aime]{#_Toc368827803 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_26 .calibre36}
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5673 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5674 .calibre35}
+
+### []{#_Toc368832736 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832462 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832188 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831914 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831640 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831366 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831092 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830818 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830544 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830270 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829996 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829722 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829448 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829174 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828900 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828626 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828352 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828078 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368827804 .pcalibre .calibre3 .pcalibre1} {#i .calibre43 .sigil_not_in_toc}
+
+
+Celle qui m'aime est-elle grande dame, toute de soie, de dentelles et de bijoux, rêvant à nos amours, sur le sofa d'un boudoir ? Marquise ou duchesse, mignonne et légère comme un rêve, traînant languissamment sur les tapis les flots de ses jupes blanches et faisant une petite moue plus douce qu'un sourire ?
+
+Celle qui m'aime est-elle grisette pimpante, trottant menu, se troussant pour sauter les ruisseaux, quêtant d'un regard l'éloge de sa jambe fine ? Est-elle la bonne fille qui boit dans tous les verres, vêtue de satin aujourd'hui, d'indienne grossière demain, trouvant dans les trésors de son coeur un brin d'amour pour chacun ?
+
+Celle qui m'aime est-elle l'enfant blonde s'agenouillant pour prier au côté de sa mère ? La vierge folle m'appelant le soir dans l'ombre des ruelles ? Est-elle la brune paysanne qui me regarde au passage et qui emporte mon souvenir au milieu des blés et des vignes mûres ? La pauvresse qui me remercie de mon aumône ? La femme d'un autre, amant ou mari, que j'ai suivie un jour et que je n'ai plus revue ?
+
+Celle qui m'aime est-elle fille d'Europe, blanche comme l'aube ? Fille d'Asie, au teint jaune et doré comme un coucher de soleil ? Ou fille du désert, noire comme une nuit d'orage ?
+
+Celle qui m'aime est-elle séparée de moi par une mince cloison ? Est-elle au-delà des mers ? Est-elle au-delà des étoiles ?
+
+Celle qui m'aime est-elle encore à naître ? Est-elle morte il y a cent ans ?
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5675 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5676 .calibre35}
+
+### []{#_Toc368832737 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832463 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832189 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831915 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831641 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831367 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831093 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830819 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830545 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830271 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829997 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829723 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829449 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829175 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828901 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828627 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828353 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828079 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368827805 .pcalibre .calibre3 .pcalibre1} {#ii .calibre43 .sigil_not_in_toc}
+
+
+Hier, je l'ai cherchée sur un champ de foire. Il y avait fête au faubourg, et le peuple endimanché montait bruyamment par les rues.
+
+On venait d'allumer les lampions. L'avenue, de distance en distance, était ornée de poteaux jaunes et bleus, garnis de petits pots de couleur, où brûlaient des mèches fumeuses que le vent effarait. Dans les arbres, vacillaient des lanternes vénitiennes. Des baraques en toile bordaient les trottoirs, laissant traîner dans le ruisseau les franges de leurs rideaux rouges. Les faïences dorées, les bonbons fraîchement peints, le clinquant des étalages, miroitaient à la lumière crue des quinquets.
+
+Il y avait dans l'air une odeur de poussière, de pain d'épices et de gaufres à la graisse. Les orgues chantaient ; les paillasses enfarinés riaient et pleuraient sous une grêle de soufflets et de coups de pied. Une nuée chaude pesait sur cette joie.
+
+Au-dessus de cette nuée, au-dessus de ces bruits, s'élargissait un ciel d'été, aux profondeurs pures et mélancoliques. Un ange venait d'illuminer l'azur pour quelque fête divine, fête souverainement calme de l'infini.
+
+Perdu dans la foule, je sentais la solitude de mon coeur. J'allais, suivant du regard les jeunes filles qui me souriaient au passage, me disant que je ne reverrais plus ces sourires. Cette pensée de tant de lèvres amoureuses, entrevues un instant et perdues à jamais, était une angoisse pour mon âme.
+
+J'arrivai ainsi à un carrefour, au milieu de l'avenue. À gauche, appuyée contre un orme, se dressait une baraque isolée. Sur le devant, quelques planches mal jointes formaient estrade, et deux lanternes éclairaient la porte, qui n'était autre chose qu'un pan de toile relevé en façon de rideau. Comme je m'arrêtais, un homme portant un costume de magicien, grande robe noire et chapeau en pointe semé d'étoiles, haranguait la foule du haut des planches.
+
+--- Entrez, criait-il, entrez, mes beaux messieurs, entrez, mes belles demoiselles ! J'arrive en toute hâte du fond de l'Inde pour réjouir les jeunes coeurs. C'est là que j'ai conquis, au péril de ma vie, le Miroir d'amour, que gardait un horrible Dragon. Mes beaux messieurs, mes belles demoiselles, je vous apporte la réalisation de vos rêves. Entrez, entrez voir Celle qui vous aime ! Pour deux sous Celle qui vous aime !
+
+Une vieille femme, vêtue en bayadère, souleva le pan de toile. Elle promena sur la foule un regard hébété ; puis, d'une voix épaisse :
+
+--- Pour deux sous, cria-t-elle, pour deux sous Celle qui vous aime ! Entrez voir Celle qui vous aime !
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5677 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5678 .calibre35}
+
+### []{#_Toc368832738 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832464 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832190 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831916 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831642 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831368 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831094 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830820 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830546 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830272 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829998 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829724 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829450 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829176 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828902 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828628 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828354 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828080 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368827806 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43 .sigil_not_in_toc}
+
+
+Le magicien battit une fantaisie entraînante sur la grosse caisse. La bayadère se pendit à une cloche et accompagna.
+
+Le peuple hésitait. Un âne savant jouant aux cartes offre un vif intérêt ; un hercule soulevant des poids de cent livres est un spectacle dont on ne saurait se lasser ; on ne peut nier non plus qu'une géante demi-nue ne soit faite pour distraire agréablement tous les âges. Mais voir Celle qui vous aime, voilà bien la chose dont on se soucie le moins, et qui ne promet pas la plus légère émotion.
+
+Moi, j'avais écouté avec ferveur l'appel de l'homme à la grande robe. Ses promesses répondaient au désir de mon coeur ; je voyais une Providence dans le hasard qui venait de diriger mes pas. Ce misérable grandit singulièrement à mes yeux, de tout l'étonnement que j'éprouvais à l'entendre lire mes secrètes pensées. Il me sembla le voir fixer sur moi des regards flamboyants, battant la grosse caisse avec une furie diabolique, me criant d'entrer d'une voix plus haute que celle de la cloche.
+
+Je posais le pied sur la première planche, lorsque je me sentis arrêté. M'étant tourné, je vis au pied de l'estrade un homme me retenant par mon vêtement. Cet homme était grand et maigre ; il avait de larges mains couvertes de gants de fil plus larges encore, et portait un chapeau devenu rouge, un habit noir blanchi aux coudes, et de déplorables culottes de casimir, jaunes de graisse et de boue. Il se plia en deux, dans une longue et exquise révérence, puis, d'une voix flûtée, me tint ce discours :
+
+--- Je suis fâché, monsieur, qu'un jeune homme bien élevé donne un mauvais exemple à la foule. C'est une grande légèreté que d'encourager dans son impudence ce coquin spéculant sur nos mauvais instincts ; car je trouve profondément immorales ces paroles criées en plein vent, qui appellent filles et garçons à une débauche du regard et de l'esprit. Ah ! Monsieur, le peuple est faible. Nous avons, nous les hommes rendus forts par l'instruction, nous avons, songez-y, de graves et impérieux devoirs. Ne cédons pas à de coupables curiosités, soyons dignes en toutes choses. La moralité de la société dépend de nous, monsieur.
+
+Je l'écoutai parler. Il n'avait pas lâché mon vêtement et ne pouvait se décider à achever sa révérence. Son chapeau à la main, il discourait avec un calme si complaisant, que je ne songeai pas à me fâcher. Je me contentai, quand il se tut, de le regarder en face, sans lui répondre. Il vit une question dans ce silence.
+
+--- Monsieur, reprit-il avec un nouveau salut, monsieur, je suis l'Ami du peuple, et j'ai pour mission le bonheur de l'humanité.
+
+Il prononça ces mots avec un modeste orgueil, en se grandissant brusquement de toute sa haute taille. Je lui tournai le dos et montai sur l'estrade. Avant d'entrer, comme je soulevais le pan de toile, je le regardai une dernière fois. Il avait délicatement pris de sa main droite les doigts de sa main gauche, cherchant à effacer les plis de ses gants qui menaçaient de le quitter.
+
+Puis, croisant les bras, l'Ami du peuple contempla la bayadère avec tendresse.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5679 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5680 .calibre35}
+
+### []{#_Toc368832739 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832465 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832191 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831917 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831643 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831369 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831095 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830821 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830547 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830273 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829999 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829725 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829451 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829177 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828903 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828629 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828355 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828081 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368827807 .pcalibre .calibre3 .pcalibre1} {#iv .calibre43 .sigil_not_in_toc}
+
+
+Je laissai retomber le rideau et me trouvai dans le temple. C'était une sorte de chambre longue et étroite, sans aucun siège, aux murs de toile, éclairée par un seul quinquet. Quelques personnes, des filles curieuses, des garçons faisant tapage, s'y trouvaient déjà réunies. Tout se passait d'ailleurs avec la plus grande décence : une corde, tendue au milieu de la pièce, séparait les hommes des femmes.
+
+Le Miroir d'amour, à vrai dire, n'était autre chose que deux glaces sans tain, une dans chaque compartiment, petites vitres rondes donnant sur l'intérieur de la baraque. Le miracle promis s'accomplissait avec une admirable simplicité : il suffisait d'appliquer l'oeil droit contre la vitre, et au-delà, sans qu'il soit question de tonnerre ni de soufre, apparaissait la bien-aimée. Comment ne pas croire à une vision aussi naturelle !
+
+Je ne me sentis pas la force de tenter l'épreuve dès l'entrée. La bayadère m'avait regardé au passage, d'un regard qui me donnait froid au coeur. Savais-je, moi, ce qui m'attendait derrière cette vitre : peut-être un horrible visage, aux yeux éteints, aux lèvres violettes ; une centenaire avide de jeune sang, une de ces créatures difformes que je vois, la nuit, passer dans mes mauvais rêves. Je ne croyais plus aux blondes créations dont je peuple charitablement mon désert. Je me rappelais toutes les laides qui me témoignent quelque affection, et je me demandais avec terreur si ce n'était pas une de ces laides que j'allais voir apparaître.
+
+Je me retirai dans un coin. Pour reprendre courage, je regardai ceux qui, plus hardis que moi, consultaient le destin, sans tant de façons. Je ne tardai pas à goûter un singulier plaisir au spectacle de ces diverses figures, l'oeil droit grand ouvert, le gauche fermé avec deux doigts, ayant chacune leur sourire, selon que la vision plaisait plus ou moins. La vitre se trouvant un peu basse, il fallait se courber légèrement. Rien ne me parut plus grotesque que ces hommes venant à la file voir l'âme soeur de leur âme par un trou de quelques centimètres de tour.
+
+Deux soldats s'avancèrent d'abord : un sergent bruni au soleil d'Afrique, et un jeune conscrit, garçon sentant encore le labour, les bras gênés dans une capote trois fois trop grande. Le sergent eut un rire sceptique. Le conscrit demeura longtemps courbé, singulièrement flatté d'avoir une bonne amie.
+
+Puis vint un gros homme en veste blanche, à la face rouge et bouffie, qui regarda tranquillement, sans grimace de joie ni de déplaisir, comme s'il eût été tout naturel qu'il pût être aimé de quelqu'un.
+
+Il fut suivi par trois écoliers, bonshommes de quinze ou seize ans, à la mine effrontée, se poussant pour faire accroire qu'ils avaient l'honneur d'être ivres. Tous trois jurèrent qu'ils reconnaissaient leurs tantes.
+
+Ainsi les curieux se succédaient devant la vitre, et je ne saurais me rappeler aujourd'hui les différentes expressions de physionomie qui me frappèrent alors. Ô vision de la bien-aimée ! Quelles rudes vérités tu faisais dire à ces yeux grands ouverts ! Ils étaient les vrais Miroirs d'amour, Miroirs où la grâce de la femme se reflétait en une lueur louche où la luxure s'étalait dans de la bêtise.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5681 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5682 .calibre35}
+
+### []{#_Toc368832740 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832466 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832192 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831918 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831644 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831370 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831096 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830822 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830548 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830274 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830000 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829726 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829452 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829178 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828904 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828630 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828356 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828082 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368827808 .pcalibre .calibre3 .pcalibre1} {#v .calibre43 .sigil_not_in_toc}
+
+
+Les filles, à l'autre carreau, s'égayaient d'une plus honnête façon. Je ne lisais que beaucoup de curiosité sur leurs visages ; pas le moindre vilain désir, pas la plus petite méchante pensée. Elles venaient tour à tour jeter un regard étonné par l'étroite ouverture, et se retiraient, les unes un peu songeuses, les autres riant comme des folles.
+
+À vrai dire, je ne sais trop ce qu'elles faisaient là. Je serais femme, si peu que je fusse jolie, que je n'aurais jamais la sotte idée de me déranger pour aller voir l'homme qui m'aime. Les jours où mon coeur pleurerait d'être seul, ces jours-là sont jours de printemps et de beau soleil, je m'en irais dans un sentier en fleurs me faire adorer de chaque passant. Le soir, je reviendrais riche d'amour.
+
+Certes, mes curieuses n'étaient pas toutes également jolies. Les belles se moquaient bien de la science du magicien, depuis longtemps elles n'avaient plus besoin de lui. Les laides, au contraire, ne s'étaient jamais trouvées à pareille fête. Il en vint une, aux cheveux rares, à la bouche grande, qui ne pouvait s'éloigner du miroir magique ; elle gardait aux lèvres le sourire joyeux et navrant du pauvre apaisant sa faim après un long jeûne.
+
+Je me demandai quelles belles idées s'éveillaient dans ces têtes folles. Ce n'était pas un mince problème. Toutes avaient, à coup sûr, vu en songe un prince se mettre à leurs genoux ; toutes désiraient mieux connaître l'amant dont elles se souvenaient confusément au réveil. Il y eut sans doute beaucoup de déceptions ; les princes deviennent rares, et les yeux de notre âme, qui s'ouvrent la nuit sur un monde meilleur, sont des yeux bien autrement complaisants que ceux dont nous nous servons le jour. Il y eut aussi de grandes joies ; le songe se réalisait, l'amant avait la fine moustache et la noire chevelure rêvées.
+
+Ainsi chacune, dans quelques secondes, vivait une vie d'amour. Romans naïfs, rapides comme l'espérance, qui se devinaient dans la rougeur des joues et dans les frissons plus amoureux du corsage.
+
+Après tout, ces filles étaient peut-être des sottes, et je suis un sot moi-même d'avoir vu tant de choses, lorsqu'il n'y avait sans doute rien à voir. Toutefois, je me rassurai complètement à les étudier. Je remarquai qu'hommes et femmes paraissaient en général fort satisfaits de l'apparition. Le magicien n'aurait certes jamais eu le mauvais coeur de causer le moindre déplaisir à de braves gens qui lui donnaient deux sous.
+
+Je m'approchai, j'appliquai, sans trop d'émotion, mon oeil droit contre la vitre. J'aperçus, entre deux grands rideaux rouges, une femme accoudée au dossier d'un fauteuil. Elle était vivement éclairée par des quinquets que je ne pouvais voir, et se détachait sur une toile peinte, tendue au fond ; cette toile, coupée par endroits, avait dû représenter jadis un galant bocage d'arbres bleus.
+
+Celle qui m'aime portait, en vision bien née, une longue robe blanche, à peine serrée à la taille, traînant sur le plancher en façon de nuage. Elle avait au front un large voile également blanc, retenu par une couronne de fleurs d'aubépine. Le cher ange était, ainsi vêtu, toute blancheur, toute innocence.
+
+Elle s'appuyait coquettement, tournant les yeux vers moi, de grands yeux bleus caressants. Elle me parut ravissante sous le voile : tresses blondes perdues dans la mousseline, front candide de vierge, lèvres délicates, fossettes qui sont nids à baisers. Au premier regard, je la pris pour une sainte ; au second, je lui trouvai un air bonne fille, point bégueule du tout et fort accommodant.
+
+Elle porta trois doigts à ses lèvres, et m'envoya un baiser, avec une révérence qui ne se sentait aucunement du royaume des ombres. Voyant qu'elle ne se décidait pas à s'envoler, je fixai ses traits dans ma mémoire, et je me retirai.
+
+Comme je sortais, je vis entrer l'Ami du peuple. Ce grave moraliste, qui parut m'éviter, courut donner le mauvais exemple d'une coupable curiosité. Sa longue échine, courbée en demi-cercle, frémit de désir ; puis, ne pouvant aller plus loin, il baisa le verre magique.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5683 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5684 .calibre35}
+
+### []{#_Toc368832741 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832467 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832193 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831919 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831645 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831371 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831097 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830823 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830549 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830275 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830001 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829727 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829453 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829179 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828905 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828631 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828357 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828083 .pcalibre .calibre3 .pcalibre1}[VI]{#_Toc368827809 .pcalibre .calibre3 .pcalibre1} {#vi .calibre43 .sigil_not_in_toc}
+
+
+Je descendis les trois planches, je me trouvai de nouveau dans la foule, décidé à chercher Celle qui m'aime, maintenant que je connaissais son sourire.
+
+Les lampions fumaient, le tumulte croissait, le peuple se pressait à renverser les baraques. La fête en était à cette heure de joie idéale, où l'on risque d'avoir le bonheur d'être étouffé.
+
+J'avais, en me dressant, un horizon de bonnets de linge et de chapeaux de soie. J'avançais, poussant les hommes, tournant avec précaution les grandes jupes des dames. Peut-être était-ce cette capote rose ; peut-être cette coiffe de tulle ornée de rubans mauves ; peut-être cette délicieuse toque de paille à plume d'autruche. Hélas ! La capote avait soixante ans ; la coiffe, abominablement laide, s'appuyait amoureusement à l'épaule d'un sapeur ; la toque riait aux éclats, agrandissant les plus beaux yeux du monde, et je ne reconnaissais point ces beaux yeux.
+
+Il y a, au-dessus des foules, je ne sais quelle angoisse, quelle immense tristesse, comme s'il se dégageait de la multitude un souffle de terreur et de pitié. Jamais je ne me suis trouvé dans un grand rassemblement de peuple sans éprouver un vague malaise. Il me semble qu'un épouvantable malheur menace ces hommes réunis, qu'un seul éclair va suffire, dans l'exaltation de leurs gestes et de leurs voix, pour les frapper d'immobilité, d'éternel silence.
+
+Peu à peu, je ralentis le pas, regardant cette joie qui me navrait. Au pied d'un arbre, en plein dans la lumière jaune des lampions, se tenait debout un vieux mendiant, le corps roidi, horriblement tordu par une paralysie. Il levait vers les passants sa face blême, clignant les yeux d'une façon lamentable, pour mieux exciter la pitié. Il donnait à ses membres de brusques frissons de fièvre, qui le secouaient comme une branche sèche. Les jeunes filles, fraîches et rougissantes, passaient en riant devant ce hideux spectacle.
+
+Plus loin, à la porte d'un cabaret, deux ouvriers se battaient. Dans la lutte, les verres avaient été renversés, et à voir couler le vin sur le trottoir, on eût dit le sang de larges blessures.
+
+Les rires me parurent se changer en sanglots, les lumières devinrent un vaste incendie, la foule tourna, frappée d'épouvante. J'allais, me sentant triste à mourir, interrogeant les jeunes visages, et ne pouvant trouver Celle qui m'aime.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5685 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5686 .calibre35}
+
+### []{#_Toc368832742 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832468 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832194 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831920 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831646 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831372 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831098 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830824 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830550 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830276 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830002 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829728 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829454 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829180 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828906 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828632 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828358 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828084 .pcalibre .calibre3 .pcalibre1}[VII]{#_Toc368827810 .pcalibre .calibre3 .pcalibre1} {#vii .calibre43 .sigil_not_in_toc}
+
+
+Je vis un homme debout devant un des poteaux qui portaient les lampions, et le considérant d'un air profondément absorbé. À ses regards inquiets, je crus comprendre qu'il cherchait la solution de quelque grave problème. Cet homme était l'Ami du peuple.
+
+Ayant tourné la tête, il m'aperçut.
+
+--- Monsieur, me dit-il, l'huile employée dans les fêtes coûte vingt sous le litre. Dans un litre, il y a vingt godets comme ceux que vous voyez là : soit un sou d'huile par godet. Or, ce poteau a seize rangs de huit godets chacun : cent vingt-huit godets en tout. De plus, -- suivez bien mes calculs, -- j'ai compté soixante poteaux semblables dans l'avenue, ce qui fait sept mille six cent quatre-vingts godets, ce qui fait par conséquent sept mille six cent quatre-vingts sous, ou mieux trois cent quatre-vingt-quatre francs.
+
+En parlant ainsi, l'Ami du peuple gesticulait, appuyant de la voix sur les chiffres, courbant sa longue taille, comme pour se mettre à la portée de mon faible entendement. Quand il se tut, il se renversa triomphalement en arrière ; puis, il croisa les bras, me regardant en face d'un air pénétré.
+
+--- Trois cent quatre-vingt-quatre francs d'huile ! S'écria-t-il, en scandant chaque syllabe, et le pauvre peuple manque de pain, monsieur ! Je vous le demande, et je vous le demande les larmes aux yeux, ne serait-il pas plus honorable pour l'humanité, de distribuer ces trois cent quatre-vingt-quatre francs aux trois mille indigents que l'on compte dans ce faubourg ? Une mesure aussi charitable donnerait à chacun d'eux environ deux sous et demi de pain. Cette pensée est faite pour faire réfléchir les âmes tendres, monsieur.
+
+Voyant que je le regardais curieusement, il continua d'une voix mourante, en assurant ses gants entre ses doigts :
+
+--- Le pauvre ne doit pas rire, monsieur. Il est tout à fait déshonnête qu'il oublie sa pauvreté pendant une heure. Qui donc pleurerait sur les malheurs du peuple, si le gouvernement lui donnait souvent de pareilles saturnales ?
+
+Il essuya une larme et me quitta. Je le vis entrer chez un marchand de vin, où il noya son émotion dans cinq ou six petits verres pris coup sur coup sur le comptoir.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5687 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5688 .calibre35}
+
+### []{#_Toc368832743 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832469 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832195 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831921 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831647 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831373 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831099 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830825 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830551 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830277 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830003 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829729 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829455 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829181 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828907 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828633 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828359 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828085 .pcalibre .calibre3 .pcalibre1}[VIII]{#_Toc368827811 .pcalibre .calibre3 .pcalibre1} {#viii .calibre43 .sigil_not_in_toc}
+
+
+Le dernier lampion venait de s'éteindre. La foule s'en était allée. Aux clartés vacillantes des réverbères, je ne voyais plus errer sous les arbres que quelques formes noires, couples d'amoureux attardés, ivrognes et sergents de ville promenant leur mélancolie. Les baraques s'allongeaient grises et muettes, aux deux bords de l'avenue, comme les tentes d'un camp désert.
+
+Le vent du matin, un vent humide de rosée, donnait un frisson aux feuilles des ormes. Les émanations âcres de la soirée avaient fait place à une fraîcheur délicieuse. Le silence attendri, l'ombre transparente de l'infini tombaient lentement des profondeurs du ciel, et la fête des étoiles succédait à la fête des lampions. Les honnêtes gens allaient enfin pouvoir se divertir un peu.
+
+Je me sentais tout ragaillardi, l'heure de mes joies étant venue. Je marchais d'un bon pas, montant et descendant les allées, lorsque je vis une ombre grise glisser le long des maisons. Cette ombre venait à moi, rapidement, sans paraître me voir ; à la légèreté de la démarche, au rythme cadencé des vêtements, je reconnus une femme.
+
+Elle allait me heurter, quand elle leva instinctivement les yeux. Son visage m'apparut à la lueur d'une lanterne voisine, et voilà que je reconnus Celle qui m'aime : non pas l'immortelle au blanc nuage de mousseline ; mais une pauvre fille de la terre, vêtue d'indienne déteinte. Dans sa misère, elle me parut charmante encore, bien que pâle et fatiguée. Je ne pouvais douter : c'étaient là les grands yeux, les lèvres caressantes de la vision ; et c'était, de plus, à la voir ainsi de près, la suavité de traits que donne la souffrance.
+
+Comme elle s'arrêtait une seconde, je saisis sa main, que je baisai. Elle leva la tête et me sourit vaguement, sans chercher à retirer ses doigts. Me voyant rester muet, l'émotion me serrant à la gorge, elle haussa les épaules, en reprenant sa marche rapide.
+
+Je courus à elle, je l'accompagnai, mon bras serré à sa taille. Elle eut un rire silencieux ; puis frissonna et dit à voix basse :
+
+--- J'ai froid : marchons vite.
+
+Pauvre ange, elle avait froid ! Sous le mince châle noir, ses épaules tremblaient au vent frais de la nuit. Je l'embrassai sur le front, je lui demandai doucement :
+
+--- Me connais-tu ?
+
+Une troisième fois, elle leva les yeux, et sans hésiter :
+
+--- Non, me répondit-elle.
+
+Je ne sais quel rapide raisonnement se fit dans mon esprit. À mon tour je frissonnai.
+
+--- Où allons-nous ? lui demandai-je de nouveau.
+
+Elle haussa les épaules, avec une petite moue d'insouciance ; elle me dit de sa voix d'enfant :
+
+--- Mais où tu voudras, chez moi, chez toi, peu importe.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5689 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5709 .calibre35}
+
+### []{#_Toc368832744 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832470 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832196 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831922 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831648 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831374 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831100 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830826 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830552 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830278 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830004 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829730 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829456 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829182 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828908 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828634 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828360 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828086 .pcalibre .calibre3 .pcalibre1}[IX]{#_Toc368827812 .pcalibre .calibre3 .pcalibre1} {#ix .calibre43 .sigil_not_in_toc}
+
+
+Nous marchions toujours, descendant l'avenue.
+
+J'aperçus sur un banc deux soldats, dont l'un discourait gravement, tandis que l'autre écoutait avec respect. C'étaient le sergent et le conscrit. Le sergent, qui me parut très ému, m'adressa un salut moqueur, en murmurant :
+
+--- Les riches prêtent parfois, monsieur.
+
+Le conscrit, âme tendre et naïve, me dit d'un ton dolent :
+
+--- Je n'avais qu'elle, monsieur : vous me volez Celle qui m'aime.
+
+Je traversai la route et pris l'autre allée.
+
+Trois gamins venaient à nous, se tenant par les bras et chantant à tue-tête. Je reconnus les écoliers. Les petits malheureux n'avaient plus besoin de feindre l'ivresse. Ils s'arrêtèrent, pouffant de rire, puis me suivirent quelques pas, me criant chacun d'une voix mal assurée :
+
+--- Hé ! Monsieur, madame vous trompe, madame est Celle qui m'aime !
+
+Je sentais une sueur froide mouiller mes tempes. Je précipitais mes pas, ayant hâte de fuir, ne pensant plus à cette femme que j'emportais dans mes bras. Au bout de l'avenue, comme j'allais enfin quitter ce lieu maudit, je heurtai, en descendant du trottoir, un homme commodément assis dans le ruisseau. Il appuyait la tête sur la dalle, la face tournée vers le ciel, se livrant sur ses doigts à un calcul fort compliqué.
+
+Il tourna les yeux, et, sans quitter l'oreiller :
+
+--- Ah ! C'est vous, monsieur, me dit-il en balbutiant. Vous devriez bien m'aider à compter les étoiles. J'en ai déjà trouvé plusieurs millions, mais je crains d'en oublier quelqu'une. C'est de la statistique seule, monsieur, que dépend le bonheur de l'humanité.
+
+Un hoquet l'interrompit. Il reprit en larmoyant :
+
+--- Savez-vous combien coûte une étoile ? Sûrement le bon Dieu a fait là-haut une grosse dépense, et le peuple manque de pain, monsieur ! À quoi bon ces lampions ? Est-ce que cela se mange ? Quelle en est l'application pratique, je vous prie ? Nous avions bien besoin de cette fête éternelle. Allez, Dieu n'a jamais eu la moindre teinte d'économie sociale.
+
+Il avait réussi à se mettre sur son séant ; il promenait autour de lui des regards troubles, hochant la tête d'un air indigné. C'est alors qu'il vint à apercevoir ma compagne. Il tressaillit, et, le visage pourpre, tendit avidement les bras.
+
+--- Eh ! Eh ! reprit-il, c'est Celle qui m'aime.
+
+
+::: WordSection
+[
+]{.calibre30}
+
+!{#Image5710 .calibre31}
+
+CONTES ET NOUVELLES
+
+CONTES À NINON
+
+Celle qui m'aime
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5711 .calibre35}
+
+### []{#_Toc368832745 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832471 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832197 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831923 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831649 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831375 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831101 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830827 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830553 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830279 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830005 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829731 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829457 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829183 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828909 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828635 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828361 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828087 .pcalibre .calibre3 .pcalibre1}[X]{#_Toc368827813 .pcalibre .calibre3 .pcalibre1} {#x .calibre43 .sigil_not_in_toc}
+
+
+--- « Voici, me dit-elle, je suis pauvre, je fais ce que je peux pour manger. L'hiver dernier, je passais quinze heures courbé sur un métier, et je n'avais pas du pain tous les jours. Au printemps, j'ai jeté mon aiguille par la fenêtre. Je venais de trouver une occupation moins fatigante et plus lucrative.
+
+« Je m'habille chaque soir de mousseline blanche. Seule dans une sorte de réduit, appuyée au dossier d'un fauteuil, j'ai pour tout travail à sourire depuis six heures jusqu'à minuit. De temps à autre, je fais une révérence, j'envoie un baiser dans le vide. On me paye cela trois francs par séance.
+
+« En face de moi, derrière une petite vitre enchâssée dans la cloison, je vois sans cesse un oeil qui me regarde. Il est tantôt noir, tantôt bleu. Sans cet oeil, je serais parfaitement heureuse ; il gâte le métier. Par moments, à le rencontrer toujours seul et fixe, il me prend de folles terreurs ; je suis tentée de crier et de fuir.
+
+« Mais il faut bien travailler pour vivre. Je souris, je salue, j'envoie un baiser. À minuit, j'efface mon rouge et je remets ma robe d'indienne. Bah ! Que de femmes, sans y être forcées, font ainsi les gracieuses devant un mur. »

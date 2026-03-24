@@ -1,0 +1,568 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "VOYAGE AU CENTRE DE LA TERRE",
+  "slug": "voyage-au-centre-de-la-terre",
+  "nombre_chapitres": 45,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 56,
+      "spine_end_exclusive": 57,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_548.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 57,
+      "spine_end_exclusive": 58,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_549.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 58,
+      "spine_end_exclusive": 59,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_550.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 59,
+      "spine_end_exclusive": 60,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_551.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 60,
+      "spine_end_exclusive": 61,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_552.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 61,
+      "spine_end_exclusive": 62,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_553.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 62,
+      "spine_end_exclusive": 63,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_554.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 63,
+      "spine_end_exclusive": 64,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_555.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 64,
+      "spine_end_exclusive": 65,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_556.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 65,
+      "spine_end_exclusive": 66,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_557.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 66,
+      "spine_end_exclusive": 67,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_558.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 67,
+      "spine_end_exclusive": 68,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_559.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 68,
+      "spine_end_exclusive": 69,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_560.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 69,
+      "spine_end_exclusive": 70,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_561.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 70,
+      "spine_end_exclusive": 71,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_562.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16",
+      "slug": "chapitre-16",
+      "is_part": false,
+      "spine_start": 71,
+      "spine_end_exclusive": 72,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_563.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17",
+      "slug": "chapitre-17",
+      "is_part": false,
+      "spine_start": 72,
+      "spine_end_exclusive": 73,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_564.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18",
+      "slug": "chapitre-18",
+      "is_part": false,
+      "spine_start": 73,
+      "spine_end_exclusive": 74,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_565.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19",
+      "slug": "chapitre-19",
+      "is_part": false,
+      "spine_start": 74,
+      "spine_end_exclusive": 75,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_566.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20",
+      "slug": "chapitre-20",
+      "is_part": false,
+      "spine_start": 75,
+      "spine_end_exclusive": 76,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_567.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21",
+      "slug": "chapitre-21",
+      "is_part": false,
+      "spine_start": 76,
+      "spine_end_exclusive": 77,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_568.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22",
+      "slug": "chapitre-22",
+      "is_part": false,
+      "spine_start": 77,
+      "spine_end_exclusive": 78,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_569.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23",
+      "slug": "chapitre-23",
+      "is_part": false,
+      "spine_start": 78,
+      "spine_end_exclusive": 79,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_570.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24",
+      "slug": "chapitre-24",
+      "is_part": false,
+      "spine_start": 79,
+      "spine_end_exclusive": 80,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_571.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25",
+      "slug": "chapitre-25",
+      "is_part": false,
+      "spine_start": 80,
+      "spine_end_exclusive": 81,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_572.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26",
+      "slug": "chapitre-26",
+      "is_part": false,
+      "spine_start": 81,
+      "spine_end_exclusive": 82,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_573.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27",
+      "slug": "chapitre-27",
+      "is_part": false,
+      "spine_start": 82,
+      "spine_end_exclusive": 83,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_574.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28",
+      "slug": "chapitre-28",
+      "is_part": false,
+      "spine_start": 83,
+      "spine_end_exclusive": 84,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_575.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 29",
+      "slug": "chapitre-29",
+      "is_part": false,
+      "spine_start": 84,
+      "spine_end_exclusive": 85,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_576.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 30",
+      "slug": "chapitre-30",
+      "is_part": false,
+      "spine_start": 85,
+      "spine_end_exclusive": 86,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_577.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 31",
+      "slug": "chapitre-31",
+      "is_part": false,
+      "spine_start": 86,
+      "spine_end_exclusive": 87,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_578.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 32",
+      "slug": "chapitre-32",
+      "is_part": false,
+      "spine_start": 87,
+      "spine_end_exclusive": 88,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_579.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 33",
+      "slug": "chapitre-33",
+      "is_part": false,
+      "spine_start": 88,
+      "spine_end_exclusive": 89,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_580.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 34",
+      "slug": "chapitre-34",
+      "is_part": false,
+      "spine_start": 89,
+      "spine_end_exclusive": 90,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_581.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 35",
+      "slug": "chapitre-35",
+      "is_part": false,
+      "spine_start": 90,
+      "spine_end_exclusive": 91,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_582.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 36",
+      "slug": "chapitre-36",
+      "is_part": false,
+      "spine_start": 91,
+      "spine_end_exclusive": 92,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_583.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 37",
+      "slug": "chapitre-37",
+      "is_part": false,
+      "spine_start": 92,
+      "spine_end_exclusive": 93,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_584.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 38",
+      "slug": "chapitre-38",
+      "is_part": false,
+      "spine_start": 93,
+      "spine_end_exclusive": 94,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_585.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 39",
+      "slug": "chapitre-39",
+      "is_part": false,
+      "spine_start": 94,
+      "spine_end_exclusive": 95,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_586.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 40",
+      "slug": "chapitre-40",
+      "is_part": false,
+      "spine_start": 95,
+      "spine_end_exclusive": 96,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_587.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 41",
+      "slug": "chapitre-41",
+      "is_part": false,
+      "spine_start": 96,
+      "spine_end_exclusive": 97,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_588.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 42",
+      "slug": "chapitre-42",
+      "is_part": false,
+      "spine_start": 97,
+      "spine_end_exclusive": 98,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_589.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 43",
+      "slug": "chapitre-43",
+      "is_part": false,
+      "spine_start": 98,
+      "spine_end_exclusive": 99,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_590.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 44",
+      "slug": "chapitre-44",
+      "is_part": false,
+      "spine_start": 99,
+      "spine_end_exclusive": 100,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_591.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 45",
+      "slug": "chapitre-45",
+      "is_part": false,
+      "spine_start": 100,
+      "spine_end_exclusive": 101,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_592.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/voyage-au-centre-de-la-terre/image298.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image299.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image300.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image302.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image303.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image304.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image305.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image306.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image307.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image308.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image309.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image310.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image311.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image312.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image313.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image314.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image315.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image316.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image317.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image318.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image319.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image320.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image321.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image322.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image323.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image324.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image325.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image326.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image327.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image328.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image329.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image330.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image331.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image332.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image333.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image334.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image335.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image336.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image337.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image338.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image339.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image340.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image341.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image342.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image343.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image344.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image345.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image346.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image347.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image348.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image349.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image350.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image351.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image352.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image353.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image354.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image355.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image356.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image357.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image358.jpg",
+    "images/jules-verne/voyage-au-centre-de-la-terre/image359.jpg"
+  ]
+}

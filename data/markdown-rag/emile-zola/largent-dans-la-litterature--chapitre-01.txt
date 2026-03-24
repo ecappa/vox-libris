@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "L’ARGENT DANS LA LITTÉRATURE"
+slug_oeuvre: "largent-dans-la-litterature"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+L'ARGENT DANS LA LITTÉRATURE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Introduction
+Souvent, j'entends pousser autour de moi cette plainte : « L'esprit littéraire s'en va, les lettres sont débordées par le mercantilisme, l'argent tue l'esprit. » Et ce sont d'autres accusations éplorées contre notre démocratie qui envahit les salons et les académies, qui détraque le beau langage, qui fait de l'écrivain un marchand comme un autre, plaçant ou ne plaçant pas sa marchandise selon la marque de fabrique, amassant une fortune ou mourant dans la misère.
+
+Eh bien ! j'enrage de ces plaintes et de ces accusations. Il est certain d'abord que l'esprit littéraire, tel qu'on l'entendait au dix-septième siècle cl au dix-huitième, n'est plus du tout l'esprit littéraire de notre dix-neuvième siècle. Un mouvement intellectuel et social a peu à peu amené une transformation, qui est aujourd'hui complète. Avant tout, voyons quelle a été cette transformation. Ensuite, il me sera aisé de déterminer le rôle de l'argent dans notre littérature moderne.

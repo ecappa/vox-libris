@@ -1,0 +1,134 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LA CONFESSION DE CLAUDE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778696 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778358 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778020 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777682 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777344 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776668 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776330 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775992 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775654 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775316 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774978 .pcalibre .calibre3 .pcalibre1}[XXIX]{#_Toc368774640 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_119 .calibre25}
+
+[Laurence et Jacques ont paru sur le seuil de la porte, à moitié vêtus, effrayés.]{.calibre11}
+
+[Jacques, en apercevant le cadavre de Marie, a joint les mains avec terreur et étonnement. Il ne s'attendait pas à une mort si prompte. Il est venu s'agenouiller au pied du lit, il a caché sa tête dans le drap qui tombait à terre. Une angoisse profonde semblait l'écraser. Il n'a plus bougé. Je ne savais s'il pleurait.]{.calibre11}
+
+[Laurence, pâle, les yeux secs, s'est tenue sur le seuil n'osant avancer. Elle frissonnait et détournait les regards.]{.calibre11}
+
+[--- Morte, morte ! A-t-elle répété à voix basse.]{.calibre11}
+
+[Et elle a fait deux ou trois pas, comme pour mieux voir. Elle se trouvait au milieu de la chambre, seule, debout.]{.calibre11}
+
+[Moi, je serrais toujours le cadavre entre mes bras, je m'en couvrais, je me protégeais contre Laurence qui approchais.]{.calibre11}
+
+[--- N'avancez pas, lui ai-je crié durement, ne venez pas souiller cette enfant qui dort. Restez où vous êtes. J'ai à vous juger et à vous condamner.]{.calibre11}
+
+[--- Claude, m'a-t-elle répondu d'une voix douce, laisse-moi l'embrasser.]{.calibre11}
+
+[--- Non, non, vos lèvres sont toutes meurtries des baisers de Jacques : vous profaneriez la mort.]{.calibre11}
+
+[Jacques paraissait dormir, la tête dans le drap. Laurence est tombée à genoux.]{.calibre11}
+
+[--- Écoute, Claude, a-t-elle dit en me tendant les mains, je ne sais ce que tu vois sur mes lèvres, mais ne me parle pas avec une telle dureté. J'ai besoin de douceur.]{.calibre11}
+
+[J'ai regardé cette femme qui se plaignait humblement et je n'ai pas reconnu Laurence. J'ai pressé Marie plus étroitement, craignant quelque faiblesse.]{.calibre11}
+
+[--- Levez-vous pour m'entendre, ai-je repris. Je veux en finir. Vous venez de chez Jacques, vous êtes encore toute échevelée de ses caresses. Vous n'auriez pas dû monter. Vous vous trompez de porte.]{.calibre11}
+
+[Laurence s'est levée.]{.calibre11}
+
+[--- Alors tu me chasses ? A-t-elle demandé.]{.calibre11}
+
+[--- Je ne vous chasse pas. Vous vous êtes chassée vous-même, en acceptant une autre demeure. Restez où vous êtes allée.]{.calibre11}
+
+[--- Je ne suis allée nulle part. Tu te trompes, Claude. Il n'y a pas de baisers étrangers sur mes lèvres. Je t'aime.]{.calibre11}
+
+[Elle avançait à petits pas, fascinante, les bras tendus.]{.calibre11}
+
+[--- N'approchez pas, n'approchez pas, me suis-je écrié de nouveau avec un mouvement d'effroi. Je ne veux pas que vous me touchiez, je ne veux pas que vous touchiez Marie. Cette pauvre morte me protège contre vous ; elle est là, sur mon sein, endormie, elle y apaise mon coeur. Je me sens profondément déchiré. J'aurais eu peut-être la lâcheté de vous pardonner, si vous étiez venue, dans notre chambre, vous traîner à mes pieds, car vous y auriez été toute-puissante sur moi, par cet amour infâme que la misère et l'abandon m'ont inspiré. Ici vous ne pouvez rien sur mon coeur, rien sur mon corps. J'ai encore aux lèvres l'âme de Marie, son dernier souffle et son dernier baiser. Je ne veux pas que votre bouche souillée me prenne cette âme.]{.calibre11}
+
+[Laurence s'était arrêtée, sanglotant, me contemplant à travers ses larmes.]{.calibre11}
+
+[--- Claude, murmurait-elle, tu ne me comprends pas, tu ne m'as jamais comprise. Je t'aime. Je n'ai jamais su ce que tu désirais de moi, je me suis donnée comme je sais me donner. Pourquoi me chasses-tu ? Je n'ai pas fait le mal ; si j'ai fait le mal, tu me battras, et nous vivrons encore ensemble.]{.calibre11}
+
+[J'étais las, je sentais mon coeur saigner, j'avais hâte que cette femme sortît. Je l'ai implorée à mon tour.]{.calibre11}
+
+[--- Laurence, par pitié, ai-je dit plus doucement, retirez-vous. Si vous avez eu quelque amour pour moi, épargnez-moi toute souffrance. Nos tendresses sont mortes, il faut nous séparer. Allez dans la vie, où vous voudrez, dans le bien, s'il est possible. Laissez-moi retrouver mes espérances et mes gaietés.]{.calibre11}
+
+[Elle a croisé les bras avec désespoir, répétant plusieurs fois d'une voix égarée :]{.calibre11}
+
+[--- Tout est fini, tout est fini.]{.calibre11}
+
+[--- Oui, tout est fini, ai-je répondu avec force.]{.calibre11}
+
+[Alors, Laurence est tombée à terre, comme une masse, et elle a éclaté en sanglots.]{.calibre11}
+
+[Pâquerette, qui avait tranquillement repris possession de son fauteuil, l'a regardée avec curiosité. La vieille impure s'étonnait, croquant des pastilles qu'elle venait de trouvées et qu'elle achevait, Marie n'étant plus là pour finir la boîte.]{.calibre11}
+
+[--- Eh ! Ma fille, a-t-elle dit à Laurence, toi aussi, tu fais la folle. Bon Dieu ! Comme les amoureux sont devenus bêtes ! Dans mon temps on se quittait gaiement. Songe donc que tu as tout profit à te séparer de Claude. Il consent. Prends vite la porte, et remercie-le.]{.calibre11}
+
+[Laurence n'entendait pas, Laurence frappait le plancher de ses pieds et de ses poings, en proie à une sorte de crise nerveuse. Demi-nue, elle se tordait, pantelante, pleine de frissons qui la secouaient tout entière. Elle mordait ses cheveux qui retombaient sur son visage ; elle avait des cris étouffés, des paroles confuses qui se perdaient dans ses sanglots.]{.calibre11}
+
+[Je la voyais de haut en bas, écrasée et frémissante ; je ne sentais ni pitié ni colère.]{.calibre11}
+
+[Puis, elle s'est dressée à demi, et, la face convulsée, la chair rougie et bleuie de larmes, se traînant vers moi dans ses jupes tordues et pendantes, elle m'a crié :]{.calibre11}
+
+[--- Tu as raison, Claude, je suis mauvaise. J'aime mieux tout dire. Peut-être me pardonneras-tu ensuite. Tes yeux ont bien vu : mes lèvres doivent être rouges des baisers de Jacques. C'est moi qui suis allée à lui ; je l'ai forcé à la trahison. Je suis mauvaise.]{.calibre11}
+
+[Les sanglots arrachaient sa poitrine. Ils montaient du fond de ses entrailles, en souffles énormes et pénibles, gonflaient sa gorge horriblement, faisaient onduler tout son être, éclataient sur ses lèvres en cris secs et déchirants.]{.calibre11}
+
+[--- Je ne sais plus, moi, disait-elle. J'ignorais que les baisers de Jacques pouvaient nous séparer. J'ai fait cela sans réfléchir, sans songer à toi. Je m'ennuyais parfois, le soir, lorsque tu venais dans cette chambre. Alors, j'ai cherché à me distraire. Je ne m'explique pas ce qui s'est passé. Je ne veux point te quitter. Pardonne-moi, pardonne-moi.]{.calibre11}
+
+[À la dernière heure, cette femme était plus impénétrable encore. Je n'avais pas le sens de cette créature froide et affaissée, nerveuse et suppliante. Depuis un an, je vivais à son côté, et elle m'était étrangère, comme au premier jour. Je l'avais vue tour à tour vieille et jeune, active et endormie, sèche et aimante, ironique et humble ; je ne pouvais reconstruire une âme avec ses éléments divers, je restais muet devant ce visage épais, grimaçant, qui me cachait un coeur inconnu. Elle m'aimait peut-être, elle obéissait à ce besoin d'amour et d'estime qui se trouve au fond des plus honteuses natures. D'ailleurs, je ne cherchais plus à comprendre, je devinais que Laurence serait à jamais un mystère pour moi, une femme faite d'ombre et de vertige ; je savais qu'elle resterait dans ma vie comme un cauchemar inexplicable, une nuit fiévreuse pleine de visions monstrueuses et incompréhensibles. Je ne voulais pas l'écouter, je me sentais encore dans le rêve, j'avais peur de céder à la folie des ténèbres, je tendais de toutes mes forces à la lumière.]{.calibre11}
+
+[J'ai fait un mouvement d'impatience, refusant du geste, serrant les lèvres. Laurence, lasse, a écarté ses cheveux ; elle m'a regardé en face, muette, profonde ; elle n'avait plus de supplications, les paroles lui manquaient. Elle me priait par son attitude, par son regard, par son visage bouleversé.]{.calibre11}
+
+[J'ai détourné la tête.]{.calibre11}
+
+[Laurence s'est alors levée péniblement et a gagné la porte sans me quitter des yeux. Elle est restée un instant toute droite sur le seuil. Elle m'a semblé grandie, et voilà que j'ai manqué faiblir, m'élancer dans ses bras, en voyant qu'elle portait, à cette heure dernière, les lambeaux de la robe de soie bleue. J'aimais cette robe, j'aurais voulu en déchirer un haillon, pour le garder en souvenir de ma jeunesse.]{.calibre11}
+
+[Laurence, reculant toujours, est entrée dans l'ombre de l'escalier, m'adressant une dernière prière, et la robe n'a plus été qu'un flot noir qui a glissé sur les marches en frissonnant.]{.calibre11}
+
+[J'étais libre.]{.calibre11}
+
+[J'ai mis une main sur mon coeur : il battait à coups faibles et calmes. J'avais froid. Un grand silence se faisait en mon être, il me semblait que je m'éveillais d'un songe.]{.calibre11}
+
+[J'avais oublié Marie dont la tête paisible reposait toujours sur ma poitrine. Pâquerette, qui sommeillait, s'est dressée brusquement et a couché le cadavre sur le lit, tout de son long, en me disant :]{.calibre11}
+
+[--- Voyez donc, la pauvre enfant ! Vous ne lui avez pas même fermé les yeux. Elle semble vous regarder et sourire.]{.calibre11}
+
+[Marie me regardait. Elle avait un sommeil d'enfant, une paix suprême, un front pur de vierge et de martyre. Elle était heureuse de ce qu'elle venait d'entendre, elle se disait que nous étions seuls, que nous allions pouvoir nous aimer. J'ai fermé ses yeux, pour qu'elle s'endormît dans cette pensée d'amour, et j'ai baisé ses paupières.]{.calibre11}
+
+[Pâquerette a posé deux bougies sur une petite table, à côté du cadavre, puis elle a repris son sommeil, se pelotonnant au fond du fauteuil. Jacques n'avait pas remué ; toutes mes paroles, toutes celles de Laurence avaient passé sur lui sans le faire tressaillir. À genoux, le visage dans le drap, il s'abîmait en quelque pensée austère et terrible qui le tenait muet, accablé.]{.calibre11}
+
+[La chambre était silencieuse maintenant. Les deux bougies jetaient une clarté pâle qui blanchissait les draps du lit et la face découverte de Marie. Hors de ce cercle étroit de lumière, tout n'était qu'ombre indécise. Dans cette ombre j'apercevais vaguement Pâquerette endormie et Jacques agenouillé. Je suis allé à la fenêtre.]{.calibre11}
+
+[J'ai passé la nuit là, debout, en face du ciel étoilé. Je regardais Marie et je regardais en moi ; je dominais Jacques, je distinguais Laurence loin, bien loin dans mon souvenir. Ma pensée était saine, je m'expliquais toutes choses, j'avais conscience de mon être et des créatures qui m'entouraient. C'est ainsi que j'ai pu voir la vérité.]{.calibre11}
+
+[Oui, Jacques ne s'était pas trompé. J'ai été malade. J'ai eu la fièvre, le délire. Je sens aujourd'hui, à la fatigue de mon coeur, quelle a dû être la violence de mon mal. Je suis fier de ma souffrance, je comprends que je n'ai pas été infâme, que mes désespoirs n'étaient que les révoltes de mon coeur, indigné du monde où je l'avais égaré. Je suis maladroit devant la honte, je ne sais point accepter les amours vulgaires ; je n'ai pas la tranquille indifférence nécessaire pour vivre dans ce coin de Paris où la belle jeunesse se vautre en pleine boue. Il m'aurait fallu les purs sommets, la campagne large. Si j'avais rencontré une vierge, je me serais agenouillé pour me donner entier ; j'aurais été pur comme elle, et, sans lutte, sans effort, nous nous serions unis, nous aurions contenté nos tendresses. La vie a ses fatalités. Un soir, j'ai trouvé Laurence, la gorge découverte. J'ai eu l'imprudente confiance de vivre auprès de cette femme, et voilà que je l'ai aimée, aimée comme une vierge, avec tout mon coeur, toute ma pureté. Elle m'a rendu mes affections en souffrances et en désespoirs ; elle a eu la lâcheté de se laisser aimer, sans jamais aimer elle-même. Je me suis déchiré, devant cette âme morte, à vouloir me faire entendre. J'ai pleuré comme un enfant qui veut embrasser sa mère, se haussant sur ses petits pieds, ne pouvant atteindre le visage de celle qui est toute son espérance.]{.calibre11}
+
+[Je me disais ces choses dans cette nuit suprême, et je me disais encore qu'un jour je parlerais et que je ferais voir la vérité à mes frères, les coeurs de vingt ans. Je trouvais une grande leçon dans ma jeunesse perdue, dans mes amours brisées. Mon être entier répétait : Que n'es-tu resté là-bas, en Provence, dans les herbes hautes, sous les larges soleils ? Tu aurais grandi en honneur, en force. Et, lorsque tu es venu ici chercher la vie et la gloire, que ne t'es-tu gardé contre la boue de la ville ? Ne savais-tu pas que l'homme n'a pas deux jeunesses, ni deux amours ? Il te fallait vivre jeune, dans le travail, et aimer, dans la virginité.]{.calibre11}
+
+[Ceux qui acceptent sans larmes la vie que j'ai menée pendant un an, n'ont pas de coeur ; ceux qui pleurent comme j'ai pleuré, sortent de cette vie le corps brisé et l'âme mourante. Il faut donc tuer les Laurences, comme disait Jacques, puisqu'elles nous tuent notre chair et nos amours. Je ne suis qu'un enfant qui a souffert, je ne veux point prêcher ici. Mais je montre ma poitrine vide, mon être endolori et sanglant, je désire que mes plaies fassent frémir les garçons de mon âge et les arrêtent au seuil du gouffre. À ceux qui sont affolés de lumière et de pureté, je dirai : Prenez garde, vous entrez dans la nuit, dans la souillure. À ceux dont le coeur dort et qui ont l'indifférence du mal, je dirai : Puisque vous ne pouvez aimer, tâchez au moins de rester dignes et honnêtes.]{.calibre11}
+
+[La nuit était claire, je voyais jusqu'à Dieu. Marie, raide maintenant, dormait avec pesanteur ; le drap avait de longs plis secs et durs. Je songeais au néant, je pensais que nous aurions grand besoin d'une croyance, nous qui vivons dans l'espérance de demain et qui ne savons ce que sera demain. Si j'avais eu, au ciel ou ailleurs, un Dieu ami dont j'aie senti la main protectrice, je ne me serais peut-être pas laissé aller au vertige d'une passion mauvaise. J'aurais toujours eu des consolations, au milieu de mes larmes ; j'aurais usé mon trop d'amour dans la prière, au lieu de ne pouvoir le donner et de le sentir m'étouffer. Je m'étais abandonné, parce que je ne croyais qu'en moi et que j'avais perdu toute ma force. Je ne regrette pas d'obéir à ma raison, de vivre libre, n'ayant que le respect du vrai et du juste. Seulement, lorsque la fièvre me prend, lorsque je frissonne de faiblesse, j'ai peur, je deviens enfant ; je voudrais être sous le coup d'une fatalité divine, m'effacer, laisser Dieu agir en moi et pour moi.]{.calibre11}
+
+[Et je songeais à Marie, me demandant où était son être à cette heure. Dans la grande nature, sans doute. Je faisais ce rêve que chaque âme va au grand tout, que l'humanité morte n'est qu'un souffle immense, un seul esprit. Sur la terre, nous sommes séparés, nous nous ignorons, nous pleurons de ne pouvoir nous réunir ; au-delà de la vie, il y a pénétration complète, mariage de tous avec tous, amour unique et universel. Je regardais le ciel. Il me semblait voir, dans l'étendue calme et reposée, l'âme du monde, l'être éternel fait de tous les êtres. Alors, j'ai goûté une grande douceur ; je venais de dépasser la guérison, j'en étais au pardon et à la foi. Frères, ma jeunesse me souriait encore. J'ai songé qu'un jour nous nous trouverons unis tous quatre, Marie et Jacques, Laurence et moi ; nous nous comprendrons, nous nous pardonnerons ; nous nous aimerons sans avoir à entendre les sanglots de nos corps, et aurons une suprême paix à échanger ces tendresses que nous ne pouvions nous donner, lorsque nous vivions dans des chairs différentes.]{.calibre11}
+
+[La pensée qu'il y a malentendu sur la terre, et que tout s'explique ailleurs, m'a consolé. Je me suis dit que j'attendrais la mort pour aimer. Je me tenais debout, auprès de la fenêtre, en face du ciel, en face du cadavre de Marie, et, peu à peu, une fraîcheur douce, une espérance sans bornes me venaient de cette jeune fille morte et de ces espaces rêveurs.]{.calibre11}
+
+[Les bougies s'achevaient. La chambre avait un silence de plus en plus lourd, et les ombres grandissaient. Pâquerette dormait. Jacques n'avait pas bougé.]{.calibre11}
+
+[Il s'est levé brusquement, il a regardé autour de lui avec peur. Je l'ai vu se pencher sur le cadavre pour le baiser au front. La chair froide lui a donné un frisson. Alors il m'a aperçu. Il est venu à moi, hésitant, puis m'a tendu la main.]{.calibre11}
+
+[Je regardais cet homme que je ne pouvais comprendre, qui me paraissait aussi obscur que Laurence. J'ignorais s'il m'avait menti ou s'il avait voulu me sauver. Cet homme était venu me briser le coeur. Mais j'avais espéré, j'avais pardonné. J'ai pris sa main et la lui ai serrée.]{.calibre11}
+
+[Alors il s'en est allé, me remerciant du regard.]{.calibre11}
+
+[Le matin, je me suis trouvé au bord du lit de Marie, à genoux, pleurant encore, mais des larmes douces, attendries. Je pleurais sur cette pauvre fille que la mort avait emportée au printemps, ignorante des baisers d'amour.]{.calibre11}

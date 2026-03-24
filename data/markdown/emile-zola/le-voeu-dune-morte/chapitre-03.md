@@ -1,0 +1,166 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LE VOEU D'UNE MORTE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778561 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778223 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777885 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777547 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777209 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776533 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776195 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775857 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775519 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775181 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774843 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368774505 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_50 .calibre25}
+
+[La chambre se trouvait à peine éclairée par la clarté pâle du crépuscule. Les rideaux des fenêtres, à demi écartés, laissaient voir les branches hautes des arbres, que rougissaient les derniers rayons du soleil. En bas, sur le boulevard des Invalides, des enfants jouaient, et leurs rires aigus montaient, adoucis et caressants.]{.calibre11}
+
+[Le printemps qui suivit les terribles journées de l'insurrection de février eut des fraîcheurs pénétrantes. Les tièdes soirées de mai gardent ainsi parfois les frissons de l'hiver. Des souffles frais agitaient les rideaux et apportaient les roulements lointains des voitures.]{.calibre11}
+
+[Ici, tombait une mélancolie. Les meubles, vagues dans l'ombre, tachaient de noir les tentures claires ; le tapis, à rosaces bleues, pâlissait peu à peu. La nuit avait déjà envahi le plafond et les coins de la pièce. Il n'y avait plus qu'une longue traînée blanche, qui partait d'une des fenêtres et venait éclairer d'une lueur blafarde le lit, sur lequel Mme de Rionne râlait, dans les angoisses de la mort.]{.calibre11}
+
+[À cette heure dernière, dans cette douceur naissante du printemps, cette chambre, où se mourait une jeune femme, avait comme une pitié navrée et recueillie. L'ombre s'y faisait transparente ; le silence y prenait une tristesse indicible ; les bruits du dehors s'y changeaient en murmures de regrets, et il semblait qu'on y entendait des voix lointaines qui se lamentaient.]{.calibre11}
+
+[Blanche de Rionne, la tête appuyée sur des oreillers, se tenait assise les yeux grands ouverts, regardant l'ombre. La clarté pâle éclairait sa face amaigrie ; ses bras nus s'allongeaient sur le drap ; ses mains s'agitaient et tordaient la toile, sans qu'elle en eût conscience. Et, muette, les lèvres ouvertes, la chair secouée par de longs frissons, elle songeait en attendant la mort, roulant la tête avec lenteur comme font les mourants.]{.calibre11}
+
+[Elle avait trente ans à peine. C'était une frêle créature, que la maladie rendait plus délicate encore. Cette femme devait être une intelligence rare, une bonté et une tendresse suprêmes. La mort est la grande épreuve, et ce n'est que dans l'agonie qu'il faut juger les courages.]{.calibre11}
+
+[Et, cependant, on sentait des révoltes en elle. Par moments, ses lèvres tremblaient, ses mains tordaient le drap avec plus de violence. Une angoisse contractait sa face, et de ses yeux coulaient de grosses larmes, que la fièvre séchait sur ses joues. Elle semblait vouloir écarter la mort, dans un élan soudain de volonté.]{.calibre11}
+
+[Alors, elle se penchait, et elle regardait longuement une petite fille de six ans, assise sur le tapis, et qui jouait avec les glands de la couverture. Parfois, l'enfant levait la tête, prise d'une peur subite, près de pleurer sans savoir pourquoi ; puis, comme elle allait crier, elle se mettait à rire, en voyant sa mère rire doucement, et elle reprenait ses jeux, parlant tout bas à un des coins du drap dont elle avait fait une poupée.]{.calibre11}
+
+[Rien n'était plus triste que ce sourire de la mourante. Elle voulait garder Jeanne près d'elle jusqu'à la dernière minute, et elle mentait à la douleur pour ne pas l'effrayer. Elle la regardait jouer, écoutait son babil, se perdait dans la contemplation de cette tête blonde, oubliant qu'elle allait mourir et qu'il lui fallait quitter la chère tendresse. Puis, elle se souvenait, se sentait froide déjà, et l'épouvante la reprenait à la gorge, car son seul désespoir était l'abandon de ce pauvre être.]{.calibre11}
+
+[La maladie avait été implacable envers elle. Un soir, comme elle se couchait, le mal l'avait prise et n'avait pas mis quinze jours pour la réduire à l'agonie. Elle ne s'était plus relevée, elle mourait sans avoir pu assurer l'avenir de Jeanne. Elle se disait qu'elle la laissait sans soutien, n'ayant pour guide que son père ; et, à cette pensée, elle tremblait, sachant quel triste guide celui-ci serait pour sa fille.]{.calibre11}
+
+[Blanche, soudain, se sentit défaillir. Elle crut que la mort venait. Éperdue, elle reposa la tête sur l'oreiller.]{.calibre11}
+
+[« Jeanne, dit-elle, va dire à ton père que je désire le voir. »]{.calibre11}
+
+[Puis, lorsque l'enfant fut sortie, elle se remit à rouler doucement la tête. Les yeux grands ouverts, les lèvres serrées, elle avait l'énergique volonté de vivre, de ne point partir, avant d'avoir rassuré son coeur.]{.calibre11}
+
+[On n'entendait plus les rires des enfants sur le boulevard, et les arbres se détachaient par masses sombres, dans le gris pale du ciel. Les bruits de la ville montaient plus vagues. Le silence grandissait, interrompu seulement par la respiration lente de la moribonde et par des sanglots étouffés qui sortaient de l'embrasure d'une des fenêtres.]{.calibre11}
+
+[Là, caché derrière un rideau, pleurait à chaudes larmes un garçon de dix-huit ans, Daniel Raimbault, qui venait d'entrer dans la chambre et qui n'avait point osé s'avancer jusqu'au lit. La garde étant absente, il s'oubliait à sangloter dans un coin.]{.calibre11}
+
+[Daniel était un être chétif, à qui l'on aurait donné au plus une quinzaine d'années. Il n'était pas contrefait, mais ses membres maigres et courts s'emmanchaient d'une façon bizarre. Ses cheveux blonds, presque jaunes, tombant par mèches raides, encastraient un visage long, à la bouche grande, aux pommettes saillantes. Cependant, à le regarder, on se sentait de la sympathie pour son front large et haut, pour ses yeux pleins de douceur. Les jeunes filles riaient lorsqu'il passait. Il avait l'allure gauche, et tout son pauvre être vacillait de honte.]{.calibre11}
+
+[Mme de Rionne avait été la bonne fée de sa vie. Elle s'était cachée pour le combler de ses bienfaits ; et, le jour où il la voyait enfin, où il lui était permis de la remercier, il la trouvait mourante.]{.calibre11}
+
+[Il se tenait là, derrière le rideau, et ses sanglots, qu'il ne pouvait réprimer, éclataient. Blanche, dans le silence, entendit ces cris étouffés. Elle se leva à demi et, cherchant à voir :]{.calibre11}
+
+[« Qui est là ? demanda-t-elle qui pleure près de moi ? »]{.calibre11}
+
+[Alors, Daniel vint s'agenouiller devant le lit. Blanche le reconnut.]{.calibre11}
+
+[« C'est vous, Daniel, dit-elle. Relevez-vous, mon ami ne pleurez pas. »]{.calibre11}
+
+[Daniel oublia sa timidité et sa gaucherie. Son coeur était sur ses lèvres. Il tendit ses mains suppliantes.]{.calibre11}
+
+[« Oh madame, s'écria-t-il d'une voix déchirée, laissez-moi m'agenouiller, laissez-moi pleurer. J'étais descendu pour vous voir ; le désespoir m'a pris, et je n'ai pu retenir mes larmes. Je suis bien là, il n'y a personne, et j'ai besoin de vous dire combien vous êtes bonne et combien je vous aime. Voici plus de dix ans que j'ai tout compris, plus de dix ans que je me tais, que j'étouffe de reconnaissance et de tendresse. Il faut me permettre de pleurer. Vous comprenez, n'est-ce pas ? Souvent, j'avais songé à l'heure bienheureuse où je pourrais m'agenouiller ainsi devant vous ; c'était là mon rêve qui me reposait dans mes amertumes d'enfant. Je me plaisais à imaginer les plus petites circonstances de notre rencontre, je me disais que je vous verrais belle et souriante, que vous auriez tel regard, que vous feriez tel geste. Et voilà que vous êtes là\... J'ignorais qu'on pût devenir orphelin deux fois. »]{.calibre11}
+
+[Sa voix se brisait dans sa gorge. Blanche, aux dernières lueurs le regardait, et elle reprenait un peu de vie en face de cette adoration et de ce désespoir. À l'heure suprême, elle était récompensée de sa bonne oeuvre, elle sentait son agonie adoucie par cette affection qu'elle laisserait derrière elle.]{.calibre11}
+
+[Daniel reprit :]{.calibre11}
+
+[« Je vous dois tout, et je n'ai que mes larmes aujourd'hui pour vous prouver mon dévouement. Je me considérais comme votre oeuvre, je voulais que cette oeuvre fût bonne et belle. Ma vie entière devait vous montrer ma reconnaissance, je désirais vous rendre fière de moi. Et, maintenant, je n'ai que quelques minutes pour vous remercier. Vous allez croire que je suis un ingrat, car je sens que mes lèvres sont inhabiles, qu'elles disent mal ce que j'ai dans le coeur. J'ai vécu seul, je ne sais point parler\... Que vais-je devenir, si Dieu n'a pas pitié de vous et de moi ? »]{.calibre11}
+
+[Mme de Rionne écoutait ces paroles entrecoupées, et une grande douceur descendait en elle. Elle prit la main de Daniel.]{.calibre11}
+
+[« Mon ami, dit-elle, je sais que vous n'êtes pas un ingrat. Je veillais sur vous, et on m'a dit quelle est votre gratitude. Vous n'avez que faire de chercher des mots pour me remercier, vos larmes apaisent mes souffrances. »]{.calibre11}
+
+[Daniel retenait ses sanglots. Il y eut un court silence.]{.calibre11}
+
+[« Lorsque je vous ai appelé à Paris, reprit la mourante, j'étais encore debout, j'avais la pensée de vous faire continuer vos études. Puis, la maladie m'a prise, vous êtes venu trop tard, avant que j'aie pu assurer votre avenir. En m'en allant, j'emporte le regret de n'avoir pas achevé ma tâche.]{.calibre11}
+
+[--- Vous avez fait une oeuvre de sainte, interrompit Daniel. Vous ne me devez rien, et je vous dois ma vie entière. Le bienfait est déjà trop grand. Regardez-moi, voyez le pauvre être que vous avez adopté et protégé. Lorsque je me trouvais si chétif et si gauche, lorsqu'on riait de moi, je pleurais de honte pour vous. Pardonnez-moi une pensée mauvaise : j'ai eu peur, souvent, que mon visage ne vous déplût ; je tremblais de vous rencontrer, je craignais que ma laideur ne m'ôtât un peu de votre bonté. Et dire que vous m'accueilliez comme votre fils ! Vous, si belle, vous avez tendu la main à un misérable enfant que personne n'a encore voulu aimer. Plus je me voyais raillé et repoussé, plus je me sentais laid et faible, et plus je vous adorais, car je comprenais quelle bonté vous deviez avoir pour descendre jusqu'à moi. En venant ici, je souhaitais ardemment d'être beau. »]{.calibre11}
+
+[Blanche souriait. Tant d'adoration jeune, tant d'humilité caressante lui faisait oublier la mort.]{.calibre11}
+
+[« Vous êtes un enfant », dit-elle.]{.calibre11}
+
+[Puis, elle se tut, songeuse. Elle tâchait de voir dans l'ombre le visage de Daniel. Un sang plus chaud courait dans ses veines, et elle pensait à sa jeunesse.]{.calibre11}
+
+[Elle reprit :]{.calibre11}
+
+[« Vous êtes un passionné, la vie sera rude pour vous. Je ne puis, à cette heure dernière, que vous dire de garder mon souvenir comme une sauvegarde. S'il ne m'a pas été permis d'assurer votre existence, j'ai pu heureusement vous mettre en état de gagner votre vie, de marcher droit et ferme, et cette pensée me console un peu de l'abandon forcé dans lequel je vous laisse. Songez à moi parfois, aimez-moi, contentez-moi dans la mort, comme vous m'avez aimée et contentée dans la vie. »]{.calibre11}
+
+[Elle disait cela d'une voix si douce et si profonde, que Daniel se remit à pleurer.]{.calibre11}
+
+[« Non, s'écria-t-il, ne me quittez pas ainsi, donnez-moi une tâche à accomplir. Mon existence va être vide demain, si vous en disparaissez brusquement. Pendant plus de dix ans, je n'ai eu d'autre pensée que celle de vous plaire et d'obéir à vos moindres voeux ; ce que je suis, c'est pour vous seule que j'ai voulu le devenir ; vous avez été mon but en toutes choses. Si ce n'est plus pour vous que je travaille, je sens que je vais être lâche. À quoi bon vivre, et pourquoi lutterais-je ! Faites que je me dévoue, faites que je puisse encore vous témoigner ma gratitude. »]{.calibre11}
+
+[Tandis que Daniel parlait, une pensée soudaine avait comme éclairé le visage pâle de Mme de Rionne. Elle se mit sur son séant, forte encore, luttant contre la douleur.]{.calibre11}
+
+[« Vous avez raison dit-elle d'une voix rapide, j'ai une mission à vous confier. C'est Dieu qui vous a mis là, à genoux, devant mon lit de mort. Le ciel m'a fait vous tendre la main pour que vous puissiez un jour me tendre la vôtre. Relevez-vous, mon ami, car c'est moi qui vous supplie maintenant, c'est moi qui vous demande de me consoler et de me protéger. »]{.calibre11}
+
+[Et, quand Daniel se fut assis :]{.calibre11}
+
+[« Écoutez, j'ai peu de temps. Il me faut tout vous dire. J'implorais la venue d'un bon ange, je veux croire que vous êtes cet ange que Dieu m'envoie. J'ai foi en vous : je vous ai vu pleurer. »]{.calibre11}
+
+[Et, brusquement, elle vida son coeur. Elle oublia qu'elle parlait à un enfant. Cette pauvre âme, pleine d'anxiété, s'épanchait et se soulageait, disant dans la mort ce qu'elle avait caché toute la vie.]{.calibre11}
+
+[Les adorations ardentes et humbles du jeune homme avaient amolli son stoïque courage d'épouse. Elle était heureuse de se confesser enfin, de pouvoir, avant de quitter la terre, confier à quelqu'un toutes les amertumes amassées. Elle ne se plaignait pas, elle allégeait simplement son coeur des souffrances de ce monde.]{.calibre11}
+
+[« J'ai eu une vie de solitude et de larmes, disait-elle. Il faut que je vous avoue ces choses, mon ami, pour que vous compreniez mes angoisses. Vous ne connaissez de moi que la créature heureuse, vous m'avez mise en plein ciel, en pleine félicité. Hélas ! Je ne suis qu'une pauvre femme qui s'est raidie contre le chagrin pendant de longues années. Je me souviens, en pleurant, des joies de ma jeunesse. Que l'enfance était bonne, là-bas, en Provence ! Puis, j'ai été fière, j'ai voulu lutter contre la vie, et je ne suis sortie de la lutte que le coeur en sang. »]{.calibre11}
+
+[Daniel écoutait, comprenant à peine, croyant que le délire de l'agonie s'emparait de la mourante.]{.calibre11}
+
+[« J'avais épousé, continua-t-elle, un homme que je ne pus aimer longtemps et qui me rendit bientôt à ma solitude de jeune fille. Dès lors, je dus étouffer mon coeur. M. De Rionne reprit ses habitudes de garçon. Je le voyais parfois aux repas, je savais qu'il m'insultait dans sa vie de chaque jour. Moi, je m'enfermais avec ma fille dans ce coin de l'hôtel ; je me dis que c'était là mon couvent, et je fis voeu d'y vivre. Parfois, tout mon être s'est révolté, et ce n'est qu'au prix de bien des souffrances cachées, que j'ai pu paraître sereine et victorieuse.]{.calibre11}
+
+[--- Eh quoi ! Pensait Daniel, telle est la vie ? Ma bonne sainte a souffert. Celle que je me plaisais à regarder comme une puissance supérieure, toute bienheureuse et toute divine, pleurait de misère tandis que je l'adorais à deux genoux. Il n'y a donc que douleur ? Le ciel n'épargne pas même les âmes dignes de lui. Quel monde effrayant est-ce que le nôtre ? Lorsque je songeais à elle, je me l'imaginais dans la joie et dans la paix, mise à l'abri du mal par sa bonté ; elle m'apparaissait lumineuse et sereine, comme une de ces saintes femmes qui ont des auréoles autour de la tête et des rires paisibles sur les lèvres. Et voilà qu'elle pleure, voilà que son coeur a saigné comme le mien, voilà qu'elle est ma soeur en souffrance et en abandon ! »]{.calibre11}
+
+[Son âme était navrée. Il se taisait, épouvanté des tristesses qu'il entrevoyait. C'était le premier pas qu'il faisait dans la science de la vie, et tout son être ignorant se révoltait en face de l'injustice du malheur. Il n'eût pas autant frémi, s'il se fût agi d'une tête moins chère, mais la cruelle réalité se révélait en le frappant dans son unique affection. Il avait comme un frisson de peur, car il sentait bien que, dès ce moment, il lui faudrait vivre et lutter. Pourtant, son besoin de se dévouer le poussait à écouter ardemment cette confession dernière. C'étaient des ordres suprêmes qu'il recevait, il attendait que son devoir lui fût dicté.]{.calibre11}
+
+[Mme de Rionne, à son silence, comprit ce qui se passait au fond de lui. Elle le sentit trembler en enfant peureux, et elle eut comme un regret de troubler ce coeur tranquille. Par une sorte de coquetterie divine, elle aurait préféré que son image restât en lui grande et droite, plus qu'humaine.]{.calibre11}
+
+[« Je vous dis là des choses tristes, reprit-elle doucement, et je ne sais même si vous me comprenez bien. Mes lèvres s'ouvrent malgré moi, il faut me pardonner. Je me confesse à vous comme à un prêtre : un prêtre n'a pas d'âge, il n'est qu'une âme qui écoute. Vous êtes un enfant aujourd'hui, et mes paroles vous enrayent. Quand vous serez homme, vous vous les rappellerez. Elles vous répéteront ce qu'une femme peut souffrir, elles vous diront ce que j'attends de votre dévouement. »]{.calibre11}
+
+[Daniel l'interrompit.]{.calibre11}
+
+[« Me croiriez-vous lâche ? dit-il. Je ne suis qu'ignorant. La vie me fait peur, parce que je ne la connais pas et qu'elle me paraît toute noire. Mais j'y entrerai résolument, dès qu'il s'agira de vous. Parlez, quelle doit être ma mission ? »]{.calibre11}
+
+[Blanche s'approcha, et, à voix plus basse, comme si elle eût craint d'être entendue :]{.calibre11}
+
+[« Vous avez vu ma petite fille, ma pauvre Jeanne, qui jouait là tout à l'heure. Elle vient d'avoir six ans, je m'en vais sans la connaître sans savoir si elle porte en elle le bonheur ou le malheur. Cette incertitude double mes souffrances et me rend la mort affreuse. Et je me dis que je laisse cette enfant seule. Je songe qu'elle sera peut-être comme moi, blessée par la vie, et qu'elle pourra ne pas avoir le courage que j'ai eu. »]{.calibre11}
+
+[D'un geste, la mourante semblait écarter une vision importune.]{.calibre11}
+
+[« Je me disais, continua-t-elle, que je serais là, toujours près d'elle, lui préparant une existence heureuse, instruisant son coeur. Lorsque j'ai senti la mort venir, j'ai cherché quelqu'un pour remplir à ma place ce rôle de mère dévouée, et je n'ai trouvé personne. Mes parents sont morts, j'ai vécu cloîtrée, je ne me suis fait aucune amie. M. De Rionne n'a plus qu'une soeur, lancée dans le luxe, et chez qui Jeanne ne trouvera que des leçons mauvaises. Quant à mon mari lui-même, il m'effraye. Je vous en ai dit assez pour que vous compreniez la peur qui me prend, lorsque je songe que ma fille va retomber entre ses mains. C'est contre lui que je veux défendre cette enfant. »]{.calibre11}
+
+[De nouveau, elle s'arrêta, avant de conclure.]{.calibre11}
+
+[« Vous comprenez maintenant, mon ami, quelle sera votre mission. Je vous donne pour tâche de veiller sur ma fille. Je désire que vous soyez près d'elle comme son ange gardien. »]{.calibre11}
+
+[Daniel s'agenouilla. L'émotion le faisait trembler. Il ne put parler, et pour toute réponse, pour tout remerciement, il baisa la main de Mme de Rionne.]{.calibre11}
+
+[« C'est une tâche difficile que je vous impose là, dit-elle encore. La mort me presse, et je me hâte, ne sachant comment vous pourrez l'accomplir. Je ne veux pas songer à la difficulté, à l'étrangeté de votre rôle. Le ciel a été bon de vous amener ici et de permettre que je puisse soulager mon coeur ; il continuera d'être bon, il vous dira ce qu'il faut faire, il vous donnera les moyens de me tenir parole. Rappelez-vous seulement mon dernier voeu, et marchez droit. J'ai foi dans votre dévouement. »]{.calibre11}
+
+[Daniel put enfin parler.]{.calibre11}
+
+[« Oh ! Merci, merci. Dit il. Je vais vivre maintenant. Que vous êtes bonne d'avoir songé à moi, d'avoir eu confiance en moi ! Jusqu'à la dernière heure, vous m'aurez comblé de vos bienfaits. »]{.calibre11}
+
+[Blanche l'interrompit du geste.]{.calibre11}
+
+[« Laissez-moi finir. Ma fierté m'a empêchée de disputer ma fortune aux caprices de mon mari ; je lui ai, avec dédain, abandonné ce qu'il m'a demandé. Aujourd'hui, j'ignore où nous en sommes. Ma fille sera pauvre sans doute, et cette pensée est presque douce pour moi. Je regrette seulement de ne pouvoir vous laisser quelque argent.]{.calibre11}
+
+[--- Ne regrettez rien, s'écria Daniel. Je travaillerai. Le ciel pourvoira à tout. »]{.calibre11}
+
+[La mourante s'affaiblissait. Sa tête glissa sur l'oreiller, et d'une voix plus difficile :]{.calibre11}
+
+[« Ainsi, dit-elle, tout va bien. J'ai vidé mon coeur. Je me sens calme, je puis mourir maintenant. Vous veillerez sur Jeanne, vous serez un ami pour elle. Il vous faudra la protéger contre le monde. Suivez-la pas à pas, le plus près possible ; écartez d'elle les dangers, éveillez toutes les vertus de son coeur. Mais surtout mariez-la à un homme digne d'elle, et alors votre tâche sera accomplie. Quand on épouse un mauvais homme, je sais combien la solitude est lourde et combien il faut d'énergie pour ne pas tomber. Quoi qu'il arrive, ne l'abandonnez pas. Dites-vous sans cesse que votre bonne sainte, à son lit de mort vous a supplié d'être fidèle à votre mission. Vous me le jurez ?]{.calibre11}
+
+[--- Je vous le jure », balbutia Daniel, que les larmes étouffaient.]{.calibre11}
+
+[Blanche ferma les yeux comme un enfant las qui s'endort. Puis elle les rouvrit lentement.]{.calibre11}
+
+[« Tout cela est terrible, mon ami, murmura-t-elle. Je ne sais ce que les événements vous gardent, je prévois de grands obstacles. Enfin, le ciel pourvoira à tout, comme vous l'avez dit\... Embrassez-moi. »]{.calibre11}
+
+[Daniel, éperdu, se pencha et posa ses lèvres frémissantes sur le front pâle de Mme de Rionne. La pauvre femme, les yeux fermés, souriait vaguement sous ce baiser suprême de dévouement et d'amour.]{.calibre11}
+
+[La nuit était complètement venue, on apercevait les étoiles dans le ciel clair. Un bruit de pas se fit entendre, et une femme de chambre entra, portant une lampe. Elle s'approcha de la mourante.]{.calibre11}
+
+[« Voici votre mari, madame », dit-elle.]{.calibre11}
+
+[Et, comme Daniel reprenait sa place dans l'embrasure de la fenêtre M. De Rionne entra, effrayé.]{.calibre11}

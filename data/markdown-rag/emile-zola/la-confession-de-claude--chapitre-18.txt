@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA CONFESSION DE CLAUDE"
+slug_oeuvre: "la-confession-de-claude"
+section: "Chapitre 18"
+slug_section: "chapitre-18"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LA CONFESSION DE CLAUDE
+
+Liste des romans
+
+ !
+
+## XVII
+Non, vous souffrirez, mais il m'est impossible de garder le silence. Je trouverai quelque consolation à me montrer à nu ; je m'apaiserai lorsque je saurai que vous sanglotez avec moi.
+
+Frères, j'aime Laurence.

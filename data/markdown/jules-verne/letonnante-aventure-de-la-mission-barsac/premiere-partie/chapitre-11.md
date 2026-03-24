@@ -1,0 +1,286 @@
+### [[Chapitre 11 -- Que faire ?]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942911 .pcalibre2 .pcalibre1} {#chapitre-11-que-faire .calibre171 .sigil_not_in_toc}
+
+Quand les membres de la mission Barsac, arrivés de la veille à Kadou, constatèrent, en se réveillant, le 18 février, la disparition de leur escorte et de leur personnel noir au complet, ce fut une stupeur. Cette double défection, et en particulier celle de l\'escorte, était si extraordinaire qu\'ils se fussent pendant longtemps refusés à la croire définitive, si la preuve ne leur avait été aussitôt donnée que soldats et serviteurs étaient partis sans esprit de retour.
+
+C\'est Amédée Florence qui, sorti le premier de sa tente, avait donné l\'éveil à ses compagnons. Tous, y compris Malik, qui avait passé la nuit dans la tente de Jane Mornas, furent réunis en un instant. Comme il arrive d\'ordinaire, la discussion fut, au début, assez confuse. On échangeait plutôt des exclamations que des réflexions. Avant de chercher à organiser l\'avenir, on commençait par s\'étonner du présent.
+
+Pendant qu\'ils discouraient ainsi, un gémissement s\'éleva d\'un fourré voisin et leur apprit qu\'ils n\'étaient pas seuls, comme ils le supposaient. Saint-Bérain, Amédée Florence et le docteur Châtonnay coururent à l\'endroit d\'où le gémissement semblait provenir, et découvrirent Tongané, ficelé, bâillonné, et, qui plus est, portant une longue blessure au flanc gauche.
+
+Tongané délivré de ses liens, ranimé et pansé, on l\'interrogea. Moitié dans son petit nègre habituel, moitié en bambara, que traduisait, dans ce cas, Jane Mornas, Tongané raconta ce qu\'il savait des événements de la nuit.
+
+La désertion s\'était accomplie entre une heure et deux heures du matin. À ce moment, Tongané, réveillé par des bruits insolites, que les Européens n\'avaient pas entendus dans leur tente, avait eu la surprise de voir les vingt tirailleurs à cheval, et déjà à quelque distance du camp, tandis que le personnel noir, dirigé par le lieutenant Lacour et les deux sergents, s\'agitait et semblait accomplir une besogne dont la nuit ne permettait pas de se rendre exactement compte.
+
+Intrigué, et, d\'ailleurs, sans méfiance, Tongané s\'était levé, et, dans l\'intention de se renseigner, s\'était dirigé vers les porteurs et les âniers. Il n\'avait pu les atteindre. À mi-chemin, deux hommes s\'étaient jetés sur lui, et l\'un d\'eux l\'avait saisi à la gorge, sans lui laisser le temps de pousser un cri. En un instant, il fut renversé, bâillonné, ligoté. Avant de tomber, il avait pu reconnaître, cependant, que les Noirs, porteurs et âniers, étaient en train de se charger de nombreux ballots choisis parmi les autres. Tongané était donc réduit à l\'impuissance, et déjà ses agresseurs s\'éloignaient, quand ils furent abordés par une troisième personne. Ce nouveau venu, qui n\'était autre que le lieutenant Lacour, demanda d\'une voix brève :
+
+--- C\'est fait ?
+
+--- Oui, répondit un des agresseurs, dans lequel Tongané reconnut alors un des sergents.
+
+Il y eut un silence. Tongané sentit qu\'on se penchait sur lui. Des mains se promenèrent sur son corps, le palpèrent.
+
+--- Mais vous êtes fous, ma parole ! reprit le lieutenant. Vous partiez en laissant derrière vous un gaillard qui en a peut-être trop vu. Robert, un coup de baïonnette dans cette vermine, s\'il te plaît.
+
+L\'ordre avait été exécuté sur-le-champ, mais, Tongané ayant heureusement réussi à accomplir un mouvement de torsion, l\'arme, au lieu de le frapper en pleine poitrine, avait glissé le long de ses côtes, en n\'y faisant qu\'une estafilade plus impressionnante que grave. En raison de l\'obscurité, le lieutenant et ses deux acolytes s\'y étaient trompés, d\'autant mieux que l\'astucieux guide avait eu la précaution de pousser un soupir, comme s\'il rendait l\'âme, et de retenir ensuite sa respiration.
+
+Le sang dont la baïonnette était couverte avait complété l\'erreur des assassins.
+
+--- C\'est fait ? répéta la voix du lieutenant Lacour, quand le coup eut été porté.
+
+--- Eh bien ! répondit l\'homme qui avait frappé, et que son chef avait désigné sous le nom de Robert.
+
+Les trois hommes s\'étaient alors en allés, et Tongané n\'avait plus rien entendu. Bientôt, d\'ailleurs, il avait perdu connaissance, tant à cause du bâillon qui l\'étouffait, que par suite de la perte de son sang. Il n\'en savait pas davantage.
+
+C\'en était assez assurément pour démontrer qu\'il s\'agissait, non d\'une absence momentanée de l\'escorte, mais d\'un abandon définitif prémédité et préparé de longue main.
+
+Ce point établi, on se regarda, stupéfait et consterné. La première parole qui rompit le silence sortit de la bouche d\'Amédée Florence, pour qui on réclamera une fois encore l\'indulgence du lecteur.
+
+--- Elle est raide, celle-là ! s\'écria le reporter, qui ne faisait en somme qu\'exprimer la pensée générale sous une forme un peu familière.
+
+Ce mot ayant amené une détente, on commença à prendre les mesures que comportait la situation. Avant tout, il convenait d\'en établir le bilan. Vérification faite, on reconnut qu\'on possédait encore sept fusils, dont six de chasse, et une dizaine de revolvers, toutes ces armes largement pourvues de munitions, sept chevaux, trente-six ânes, environ cent cinquante kilos de marchandises diverses et des vivres pour quatre jours. Les moyens de défense et de transport ne manquaient donc pas. Quant aux vivres, il n\'y avait pas lieu de s\'en inquiéter, puisqu\'il serait aisé de s\'en procurer dans les villages, comme on l\'avait fait jusqu\'ici.
+
+Au surplus, les six Européens étant tous en possession d\'un excellent fusil, on était en droit de compter sur l\'appoint de la chasse. On conclut, par conséquent, de cet inventaire, que le parti, quel qu\'il fût, auquel on s\'arrêterait finalement, ne se heurterait, au point de vue matériel, à aucun obstacle infranchissable.
+
+Dans tous les cas, il convenait de se défaire des ânes, qui, en l\'absence de conducteurs expérimentés, eussent été un sérieux impedimentum. Cela fait, on arrêterait un plan de conduite. Si la décision était telle que le voyage dût avoir encore une certaine durée, on chercherait à engager cinq ou six porteurs, qu\'on chargerait des marchandises, lesquelles seraient, au fur et à mesure des besoins, échangées dans les villages contre les denrées nécessaires à la subsistance des explorateurs. Dans l\'hypothèse contraire, on liquiderait immédiatement ces marchandises à n\'importe quel prix, ce qui rendrait les porteurs inutiles et permettrait, par suite, une marche plus rapide.
+
+Jane Mornas et Saint-Bérain, qui, seuls, étaient capables de se faire entendre des naturels, se mirent aussitôt en rapport avec les habitants de Kadou. Ils reçurent dans ce village un excellent accueil, et, quelques menus cadeaux leur ayant concilié les sympathies du *dougoutigui*, celui-ci les aida de son mieux. Grâce à son concours, les ânes furent vendus, tant à Kadou même que dans les villages environnants, au prix moyen de dix mille cauries (environ trente francs), soit plus de trois cent cinquante mille cauries au total. Rien qu\'avec cette somme, l\'existence des membres de la mission et le paiement de cinq porteurs eussent été assurés pendant près de vingt jours.
+
+D\'autre part, le *dougoutigui* se déclara prêt à fournir cinq porteurs, ou même davantage, si cela était utile.
+
+Ces diverses négociations exigèrent quelques jours.
+
+Elles ne furent terminées que le soir du 22 février. Ce n\'était pas là du temps perdu, car Tongané n\'aurait pu se mettre en route plus tôt, mais, à cette date du 22 février, sa blessure, toute superficielle, était en bonne voie de cicatrisation, et rien ne s\'opposait plus au départ.
+
+Donc, dans la matinée du 23, on disposa six pliants suivant un cercle, au milieu duquel les cartes furent étalées, et, Tongané et Malik constituant l\'auditoire, la discussion commença sous la présidence de Barsac.
+
+--- La séance est ouverte, dit machinalement celui-ci, en homme habitué au protocole de la Chambre. Quelqu\'un demande-t-il la parole ?
+
+On sourit discrètement, Amédée Florence, en bon ironiste, répondit sans broncher :
+
+--- Nous parlerons après vous, monsieur le président.
+
+--- Comme il vous plaira, accorda Barsac, nullement surpris du titre qui lui était décerné. Précisons d\'abord la situation. Nous nous voyons abandonnés par notre escorte, mais bien munis d\'armes et d\'objets d\'échange, en plein Soudan, à une grande distance de la côte\...
+
+À ces mots, M. Poncin tira de sa poche son vaste carnet, posa un binocle sur les ailes de son nez, et, lui qui ne parlait jamais, il dit :
+
+--- Exactement à mille quatre cent huit kilomètres, cinq cent quatre-vingt-trois mètres et dix-sept centimètres, détours compris, en comptant du piquet central de ma tente.
+
+--- Une pareille précision est inutile, monsieur Poncin, fit observer Barsac. Il suffit de dire que nous sommes à quatorze cents kilomètres environ de Conakry.
+
+Comme vous ne l\'ignorez pas, notre intention était d\'aller beaucoup plus loin encore, mais à situation nouvelle convient peut-être solution nouvelle. À mon sens, nous devons avoir pour objectif de gagner, sinon le plus rapidement, du moins le plus sûrement possible, une agglomération possédant un poste français. Là, nous aviserons, et nous examinerons en toute tranquillité ce qu\'il y a lieu de faire.
+
+L\'approbation fut unanime.
+
+--- L\'examen de la carte, reprit Barsac, nous montre que nous devons nous efforcer d\'atteindre le Niger en un point quelconque de son cours. Ne serait-il pas possible d\'aller jusqu\'à Saye, par Ouagadougou et Nadiango ? Depuis la prise de Tombouctou, les postes français n\'ont cessé de gagner vers l\'aval. J\'ignore, je l\'avoue, s\'ils sont arrivés dès maintenant à Saye, mais cela est possible, je dirai même probable. Dans le cas où nous réussirons à nous assurer ultérieurement une autre escorte, cette combinaison aurait l\'avantage de respecter le programme qui m\'a été tracé. -- Mais elle aurait l\'inconvénient, monsieur le président, s\'écria avec impétuosité M. Poncin, tout en traçant fiévreusement des chiffres sur son carnet, de nous imposer un parcours de huit cents kilomètres. Or, nos pas, je m\'en suis assuré, sont de soixante-douze centimètres, en moyenne. Huit cents kilomètres font donc un million cent onze mille cent onze pas et une fraction. Négligeons la fraction. Nous faisons à l\'heure, en moyenne, cinq mille cent quarante-trois pas et une fraction. Négligeons la fraction. Mais il y a les arrêts qui s\'élèvent, par heure, je l\'ai vérifié, à une moyenne de dix-huit minutes quatre secondes. Reste deux mille cinq cent vingt secondes, soit trois mille six cents pas et un dixième.
+
+Ce parcours de huit cents kilomètres exigera donc un million cent onze mille cent onze pas, divisés par trois mille six cent et un dixième, soit trois cent huit heures et vingt-deux mille huit cent deux, trente-six mille unièmes d\'heure. Cela représente en tout un million cent onze mille six cent quatre-vingts secondes et une fraction. Négligeons la fraction. Or, nous marchons effectivement, en moyenne, cinq heures quarante-cinq minutes et douze secondes par jour, tous arrêts déduits, soit vingt mille sept cent douze secondes. Il faudra donc, pour franchir huit cents kilomètres, un million cent onze mille six cent quatre-vingts secondes divisées par vingt mille sept cent douze, ce qui nous donne cinquante-trois jours et treize millions neuf cent quatre-vingt mille sept cents douzièmes de jour. Pour apprécier la valeur de cette dernière fraction, il faut la réduire à son tour en heures, minutes et secondes. On obtient alors\...
+
+--- Oh ! Oh ! ! Oh ! ! ! S\'exclama crescendo Amédée Florence sur le point d\'avoir une attaque de nerfs, ne pouvez-vous donc dire tout simplement qu\'il faudra cinquante-trois jours à raison de quinze kilomètres par jour, et seulement quarante, si l\'on en fait quotidiennement vingt ? Mais où voulez-vous en venir avec ces effroyables calculs ?
+
+--- À ceci, répondit d\'un air pincé M. Poncin en faisant disparaître son imposant carnet, qu\'il vaudrait mieux gagner le Niger par Djenné. On diminuerait ainsi de moitié la distance, qui serait réduite à quatre cents kilomètres.
+
+--- Mieux vaudrait encore, objecta Amédée Florence, en traçant du doigt sur la carte l\'itinéraire qu\'il préconisait, toucher le Niger à Ségou-Sikoro, en passant par Bama, Quattara, Djitamana, et caetera.
+
+Le trajet serait de cinq cents kilomètres environ, mais, outre qu\'on suivrait ainsi le même itinéraire que le capitaine Marcenay, on regagnerait ces cent kilomètres supplémentaires, puisqu\'on n\'aurait pas à remonter le fleuve de Djenné à Ségou. De plus, ce dernier centre est relativement important, et nous vous trouverons sûrement du secours.
+
+--- Très bien raisonné, approuva le docteur Châtonnay. Toutefois, il est un parti que je crois meilleur encore. C\'est de revenir tout bonnement sur nos pas, sinon jusqu\'à la mer, du moins jusqu\'à Sikasso, dont nous ne sommes distants que de deux cents kilomètres, et où nous retrouverons nos compatriotes qui nous ont si cordialement reçus. Là, nous déciderons s\'il convient d\'aller sur Bamako, ou s\'il est préférable, comme le croit M. Amédée Florence, et comme c\'est également mon avis, de remonter à Ségou-Sikoro.
+
+--- Le docteur a raison, approuva Florence. C\'est le parti le plus sage. Chacun ayant exprimé son opinion, il y eut un temps d\'arrêt dans la discussion.
+
+--- Il peut se faire, monsieur Florence, reprit, après un instant de réflexion, Barsac, désireux de donner à ses compagnons une idée flatteuse de son héroïsme, que, le docteur et vous, vous ayez raison. Je vous prie de considérer, toutefois, que le retour à Sikasso signifie abandon, à tout le moins momentané, de la mission que j\'ai acceptée. Or, messieurs, homme de devoir avant tout\...
+
+--- Nous comprenons vos scrupules, monsieur Barsac, interrompit Florence, qui sentait venir le discours, mais il est des cas où le devoir, c\'est la prudence.
+
+--- Reste à déterminer précisément, répliqua Barsac, si nous nous trouvons dans l\'un de ces cas-là.
+
+Notre escorte a déserté, il est vrai, mais je cherche en vain quels dangers nous menacent. En somme, les seuls que nous ayons courus jusqu\'ici proviennent d\'un adversaire hypothétique, probable, j\'y consens, mais non certain, puisque son existence ne nous est démontrée que par les coups, qu\'il nous porte. Apprécions donc ces coups en eux-mêmes, et ils nous apparaîtront bien atténués. Qu\'a-t-on fait de plus que nous créer des embarras ? D\'après M. Florence, on aurait, tout d\'abord, essayé de nous effrayer ; c\'est encore notre ennemi inconnu, je l\'admets, qui nous a, plus tard, suscité des difficultés avec notre personnel, à Sikasso, et au-delà, et, enfin, il s\'est arrangé de manière à substituer, par un procédé que j\'ignore, une fausse escorte à la véritable. Mais veuillez réfléchir qu\'en agissant ainsi on a fait preuve d\'une très grande modération. Cette fausse escorte, au lieu de se borner à déserter, pouvait si aisément nous massacrer tous ! Elle n\'en a rien fait. Bien plus, on a eu l\'attention de nous laisser des vivres, nos armes, nos munitions, nos montures et une certaine quantité de marchandises. Ce ne sont pas là des procédés bien terribles.
+
+--- Il y a Tongané, objecta doucement le docteur Châtonnay.
+
+--- Tongané est un nègre, répliqua Barsac, et pour beaucoup de gens la vie d\'un nègre ne compte guère.
+
+--- M. Barsac a raison, intervint Florence. Oui, les procédés employés contre nous portent la marque d\'une véritable modération, et il est certain qu\'on n\'en a pas voulu à notre vie jusqu\'ici. Je dis : jusqu\'ici, parce que notre adversaire inconnu pourrait bien recourir à un système d\'attaque plus efficace, si nous persistons à aller dans une direction qui lui déplaît.
+
+Dans ce cas, la blessure de Tongané suffit à nous prouver que ceux que nous gênons ont la main prompte.
+
+--- Très juste, approuva le docteur.
+
+L\'approbation du docteur Châtonnay fut suivie d\'un silence de quelques minutes, que Barsac employa à de profondes réflexions. Certes, elles étaient justes, les déductions d\'Amédée Florence, et, bien évidemment, l\'honorable député du Midi n\'allait pas compromettre sa précieuse existence dans l\'unique but d\'éviter les critiques qui l\'attendaient à Paris, s\'il y revenait sans avoir accompli entièrement sa mission. Ces critiques, d\'ailleurs, était-il impossible d\'y répondre ?
+
+--- Toute réflexion faite, dit-il, pressé d\'essayer sur ses auditeurs actuels l\'effet des arguments qu\'il servirait plus tard à ses collègues de la Chambre, je me rallie à la proposition de M. Amédée Florence, et plus particulièrement sous la forme que lui a donnée notre honorable collègue, le docteur Châtonnay. Je voterai donc pour le retour à Sikasso, avec Ségou-Sikoro pour objectif final. Que si, messieurs\...
+
+Ici, Amédée Florence, sentant poindre le discours, cessa d\'écouter l\'orateur et se mit à penser à autre chose.
+
+--- Que si, messieurs, quelqu\'un était tenté de me blâmer d\'avoir interrompu ce voyage sans absolue nécessité, je lui répondrais que la responsabilité de cette interruption incombe au gouvernement, dont le devoir était d\'assurer à notre mission une protection efficace. Il aurait dû, par conséquent, puisque des nécessités supérieures le contraignaient à changer la composition de notre escorte, soit prendre toutes mesures utiles pour qu\'une troupe d\'aventuriers ne pût se substituer au véritable détachement qu\'il nous destinait, soit, si une telle substitution n\'a pas eu lieu, choisir le chef auquel il confiait notre sécurité avec assez de tact pour que celui-ci ne fût pas accessible à des sollicitations dont il ne nous appartient pas de rechercher l\'origine.
+
+L\'enquête qui me paraît s\'imposer, l\'enquête, messieurs, nous dira\...
+
+--- Pardon, monsieur le président, interrompit Amédée Florence, si vous voulez bien le permettre\...
+
+Le reporter avait, dès l\'abord, suggéré le plus sage parti, que son sens pratique lui avait fait découvrir tout de suite. Mais sa proposition cessa de l\'intéresser, aussitôt qu\'il comprit qu\'on allait l\'adopter. Quelques minutes plus tard, il n\'aurait même pas fallu le presser beaucoup pour qu\'il proclamât son regret de voir finir ce voyage, juste au moment où celui-ci promettait de devenir intéressant.
+
+Il en était à ce point de ses réflexions, quand son regard était tombé, par hasard, sur Jane Mornas et Saint-Bérain. Il avait alors interrompu Barsac avec d\'autant moins d\'hésitation qu\'il ne l\'écoutait plus, ainsi qu\'on l\'a déjà fait remarquer.
+
+--- Si vous voulez bien le permettre, monsieur le président, dit-il, je ferai observer que nous prenons une décision sans avoir sollicité l\'avis de Mlle Mornas et de M. De Saint-Bérain, qui doivent, j\'imagine, avoir tout comme nous voix au chapitre.
+
+L\'observation était fondée. Depuis que la discussion durait, Jane Mornas et Saint-Bérain avaient écouté en silence, sans y prendre part en aucune manière.
+
+--- M. Florence a raison, reconnut Barsac, en s\'adressant à Jane Mornas. Si donc il vous plaît, mademoiselle, de nous faire connaître votre sentiment\... -- Je vous remercie de bien vouloir me consulter, monsieur Barsac, répondit tranquillement Jane Mornas, mais nous devons rester étrangers à cette discussion qui ne nous concerne pas.
+
+--- Qui ne vous concerne pas ?
+
+Pourquoi donc, mademoiselle ? Il me semble que nous sommes tous logés à la même enseigne.
+
+--- Du tout, monsieur, répliqua Jane Mornas. Si, par suite des circonstances, vous renoncez au but que vous vous étiez proposé, le nôtre n\'a pas changé. Nous n\'avons pas voulu nous séparer de vous au moment où vous aviez le plus d\'ennuis, mais nous avons toujours eu l\'intention de continuer notre voyage selon l\'itinéraire que nous nous sommes tracé.
+
+--- Vous persistez donc à aller jusqu\'à Gao ?
+
+--- Plus que jamais.
+
+--- Seuls ? Sans escorte ?
+
+--- Nous n\'avons jamais compté y arriver autrement.
+
+--- Sans porteurs ?
+
+--- Nous en engagerons d\'autres. Si c\'est impossible, nous nous en passerons. -- Malgré cette hostilité, dont nous ignorons l\'origine, mais dont la réalité n\'est plus contestable ?
+
+--- Malgré cette hostilité, qui, d\'ailleurs, me semble dirigée plutôt contre vous que contre nous.
+
+--- Comment le savoir, puisque nous suivions la même route ? En tout cas, c\'est à vous, j\'en ai grand-peur, que s\'attaquera notre adversaire inconnu, si vous seuls continuez dans la direction du Niger.
+
+--- S\'il en est ainsi, nous braverons donc cet adversaire inconnu.
+
+--- Mais c\'est de la folie ! s\'écrira Barsac. Dussions-nous user de contrainte, nous ne vous laisserons pas, mademoiselle, commettre une pareille imprudence, pour satisfaire ce que vous-même appelez un caprice.
+
+Jane Mornas hésita un instant, puis répondit tristement :
+
+--- Il ne s\'agit malheureusement pas d\'un caprice, comme je vous l\'ai dit jusqu\'ici.
+
+--- De quoi s\'agit-il donc ? demanda Barsac, surpris.
+
+Jane Mornas hésita de nouveau. Puis, après un court silence, elle prononça gravement :
+
+--- D\'un devoir.
+
+Barsac, le docteur Châtonnay et Amédée Florence regardèrent Jane Mornas, celui-ci avec intérêt, ceux-là avec étonnement. Les premiers se demandaient ce que la jeune fille entendait par le mot qu\'elle venait de prononcer, et quel devoir pouvait être assez impérieux pour l\'entraîner au point le plus extrême de la boucle du Niger ? Le dernier, qui, par tempérament, avait toujours prêté à ses compagnons des raisons particulières d\'accomplir ce voyage, n\'éprouvait d\'autre sentiment qu\'une grande satisfaction, à la pensée qu\'il allait connaître l\'une de celles qui jusqu\'alors lui étaient restées cachées.
+
+Jane Mornas reprit :
+
+--- Pardonnez-moi, messieurs, je vous ai trompés\...
+
+--- Trompés ? répéta Barsac dont l\'étonnement grandissait.
+
+--- Oui, je vous ai trompés. Si M. De Saint-Bérain vous a donné son nom véritable et s\'il est bien vrai qu\'il soit Français comme vous-mêmes, je me suis, moi, présentée à vous sous un faux nom et sous une nationalité d\'emprunt. Je suis Anglaise et je m\'appelle Jane Buxton. Je suis la fille de lord Buxton, la soeur du capitaine George Buxton, et c\'est auprès de Koubo que reposent les restes de mon malheureux frère. C\'est donc là qu\'il me faut aller, car c\'est là seulement que j\'entreprendrai vraiment l\'oeuvre que je me suis fixée.
+
+Alors Jane Buxton -- son nom lui sera restitué désormais -- raconta le drame de Koubo, l\'accusation infamante portée contre George Buxton, la mort de celui-ci, la honte et le désespoir de lord Glenor.
+
+Elle dit le but sacré qu\'elle s\'était proposé : réhabiliter son frère, effacer la tache faite à l\'honneur de son nom, et rendre la paix au vieillard dont la vie s\'achevait dans la morne solitude du château d\'Uttoxeter.
+
+Une vive émotion s\'était emparée de ses auditeurs. Ils admiraient cette jeune fille qui, pour des raisons si nobles, avait osé affronter et allait affronter encore tant de fatigues et de dangers.
+
+Quand elle eut fini de parler :
+
+--- Miss Buxton, dit Amédée Florence, non sans une certaine dureté, je me permettrai de vous faire un reproche.
+
+--- Un reproche ?\...  À moi ?\...  s\'étonna Jane, qui attendait de son récit un effet tout autre.
+
+--- Oui, un reproche, et un sérieux encore !\... Quelle singulière -- et peu flatteuse -- opinion vous faites-vous donc, miss Buxton, des Français en général et d\'Amédée Florence en particulier ?
+
+--- Que voulez-vous dire, monsieur Florence ? Balbutia Jane Buxton, troublée.
+
+--- Eh quoi ! s\'écria le reporter d\'un ton indigné, vous vous êtes imaginée comme ça qu\'Amédée Florence allait vous permettre d\'aller sans lui faire un petit tour à Koubo ?
+
+--- Oh ! Monsieur Florence.. ? protesta avec émotion Jane, qui commençait à comprendre.
+
+--- C\'est du joli !\... Continuait cependant Amédée Florence en simulant toujours une vive indignation. Et d\'un égoïsme !\...
+
+--- Je ne vois pas\... Essaya de placer Jane à demi souriante.
+
+--- Laissez-moi parler, je vous prie, interrompit Florence avec autorité.
+
+Vous avez donc oublié que je suis journaliste, plus spécialement reporter, et que j\'ai cette particularité de posséder un directeur ? Or, savez-vous ce qu\'il me dirait, mon directeur, s\'il apprenait que j\'ai raté un reportage aussi sensationnel sur l\'affaire Buxton ? Eh bien ! Il me dirait : « Mon petit Florence, vous n\'êtes qu\'un âne ! » Et il me flanquerait à la porte en deux temps. Or, je tiens à ma place, moi. Je partirai donc avec vous.
+
+--- Oh ! Monsieur Florence !\... répéta Jane profondément émue.
+
+Le reporter la regarda en face.
+
+--- Je pars avec vous, miss Buxton, affirma-t-il avec énergie. Et ne perdez pas votre temps à me soutenir le contraire, car je le sais mieux que vous, j\'imagine.
+
+Jane tendit la main au brave et courageux garçon.
+
+--- J\'accepte, monsieur Florence, lui dit-elle, tandis que deux grosses larmes tombaient de ses yeux.
+
+--- Et moi, miss Buxton, m\'acceptez-vous aussi ? demanda tout à coup la grosse voix du docteur Châtonnay.
+
+--- Vous, docteur ?\...
+
+--- Sans doute, moi. Une pareille expédition ne peut se passer de médecin. Puisque vous allez vous faire hacher en menus morceaux, paraît-il, il faut bien que je sois là pour les recoudre.
+
+--- Oh ! Docteur !\... répéta encore Jane, qui commençait à pleurer pour de bon.
+
+Mais que devint cette émotion, quand elle entendit Barsac s\'écrier d\'une voix où grondait la colère :
+
+--- Eh bien ! Et moi ?\... Je ne compte plus, alors, que personne ne songe à me demander mon avis ?
+
+Barsac était réellement furieux.
+
+Lui aussi, il avait pensé tout de suite à se joindre à miss Buxton. Il ferait ainsi coup double, puisque l\'itinéraire de la jeune fille était très analogue au sien, et que l\'imprudence était justifiée par un but dont il appréciait la noblesse. Au surplus, quatre hommes, quatre Français, pouvaient-ils abandonner froidement cette jeune fille dans la brousse et la laisser courir seule sa dangereuse aventure ? Florence et le docteur Châtonnay lui avaient donc coupé un effet, comme on dit au théâtre, ce qui est toujours une chose très désagréable.
+
+--- Je ne parle pas pour M. Florence, continua-t-il, en accentuant encore en apparence sa mauvaise humeur véritable, M. Florence est libre. Mais, vous, docteur, vous faites partie de la mission que je commande, je suppose. Auriez-vous donc le projet de déserter à votre tour, afin que votre chef soit abandonné du dernier de ses soldats ?
+
+--- Je vous assure, monsieur Barsac\... balbutia le docteur, qui n\'avait pas réfléchi à ce côté de la question.
+
+--- Si telle n\'est pas votre intention, monsieur, serait-ce donc que vous auriez la pensée que j\'irais moi aussi à Koubo ? Mais est-ce à vous qu\'il appartient de décider de notre itinéraire ? Vous appartient-il, surtout, en prenant une telle initiative, de me donner une leçon ?
+
+--- Croyez, monsieur Barsac\... essaya de placer le pauvre docteur.
+
+--- Non, docteur, non, je ne permets pas, répliqua Barsac dont la voix s\'élevait graduellement. Et sachez bien ceci, c\'est que, moi, chef responsable de la mission du Niger, je n\'approuve pas vos projets. Bien au contraire, considérant que le seul guide qui nous reste a été engagé par miss Buxton et qu\'il est à sa disposition exclusive, considérant que nous ne pouvons nous faire comprendre des indigènes sans le secours de miss Buxton et de M. De Saint-Bérain, qui sont les seuls d\'entre nous à parler la langue *bambara*, je veux, *j\'entends,* J\'ORDONNE\...
+
+Barsac, dont la voix avait atteint une sonorité impressionnante, fit une pause savante, puis, d\'un ton plus simple, il conclut :
+
+---\... Que nous nous rendions tous au Niger en passant par Koubo.
+
+--- Comment, monsieur Barsac ?\... balbutia Jane qui craignait d\'avoir mal entendu.
+
+--- C\'est comme ça, miss Buxton, trancha Barsac. Il faudra vous résigner à nous supporter jusqu\'au bout.
+
+--- Oh ! Monsieur Barsac\... murmura une dernière fois Jane Buxton, qui se mit à pleurer tout à fait.
+
+Elle n\'était pas seule à avoir les yeux humides. L\'émotion était générale. Les hommes s\'efforçaient, toutefois, de la dissimuler, et elle se traduisait chez eux par une sorte d\'énervement et par un flot de paroles inutiles. Ces répliques se croisaient :
+
+--- C\'est un voyage des plus simples, proclamait Florence, puisque nous avons des vivres.
+
+--- Pour cinq jours, disait le docteur Châtonnay du même ton dont il eût dit pour six mois.
+
+--- Quatre seulement, rectifiait Barsac, mais nous en achèterons d\'autres. -- D\'ailleurs, il y a la chasse, suggérait le docteur.
+
+--- Et la pêche, ajoutait Saint-Bérain.
+
+--- Et les fruits, que je connais pas mal, affirmait le docteur.
+
+--- Moi savoir légumes : patates, ignames, glissait Tongané.
+
+--- Moi faire beurre de cé, renchérissait Malik.
+
+--- Hip ! Hip ! Hip ! Hourra ! criait Amédée Florence.
+
+C\'est Capoue, le pays de Chanaan, le paradis terrestre.
+
+--- Nous partirons demain, conclut enfin Barsac. Préparons-nous sans perdre une heure.
+
+Une chose digne de remarque, c\'est que M. Poncin n\'avait pas ouvert la bouche. Par contre, dès qu\'il eut été décidé que tout le monde irait à Koubo, M. Poncin avait tiré son carnet, qu\'il couvrait depuis ce moment d\'innombrables calculs.
+
+--- Tout cela est très bien, dit-il en réponse aux derniers mots de Barsac. Il n\'empêche que la route de Koubo, comparée à celle de Ségou-Sikoro, représente une augmentation de quatre cents kilomètres. Nos pas étant, on le sait, de soixante-douze centimètres, cela fait cinq cent cinquante-cinq mille cinq cent cinquante-cinq pas, plus une fraction. Négligeons la fraction. Or, nous faisons à l\'heure, je l\'ai dit, trois mille six cents pas et un dixième, et nous marchons chaque jour cinq heures quarante-cinq minutes dix-huit secondes. Donc\...
+
+Mais personne n\'écoutait M. Poncin. Barsac, le docteur Châtonnay, Amédée Florence, Jane Buxton et Saint-Bérain s\'occupaient déjà activement à préparer le départ du lendemain, et M. Poncin parlait dans le désert.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}

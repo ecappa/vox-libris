@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "L’INONDATION"
+slug_oeuvre: "linondation"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+L'INONDATION
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+Dans cette nouvelle, L'inondation, Émile Zola s'inspire d'un fait divers tragique de juin 1875 : les terribles crues de la Garonne qui dévastèrent tout sur leur passage.

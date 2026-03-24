@@ -1,0 +1,25 @@
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+LES GRANDS NAVIGATEURS DU XVIIIe SIÈCLE
+
+
+]{.calibre20}
+
+## [[Noms des principaux voyageurs]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943245 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_243 .calibre21}
+
+DONT L\'HISTOIRE ET LES VOYAGES SONT RACONTES DANS CE VOLUME
+
+
+PREMIÈRE PARTIE
+
+
+Cassini. -- Picard. -- La Hire. -- G. Delisle. -- d\'Anville. -- Maupertuis -- La Condamine. -- Roggewein. -- Byron. -- Wallis. -- Carteret. -- Bougainville et Guyot-Duclos. -- Cook et Furneaux.
+
+
+DEUXIÈME PARTIE
+
+
+Bouvet de Lozier. -- De Surville. -- Marion-Dufresne. -- Crozet. -- De Grenier. -- De Kerguelen-Trémarec. -- De Fleurieu. -- De Borda. -- Verdun de la Crenne. -- Galaup de La Pérouse et de Langle. -- Bruni d\'Entrecasteaux et Huon de Kermadec. -- D\'Hesmivy d\'Auribeau. -- De Rossel. -- Marchand et Chanal. -- Bass et Flinders. -- N. Baudin et de Freycinet. -- Shaw. -- Hornemann. -- Adanson. -- Houghton. -- Mungo-Park. -- Sparrman. -- Thunberg. -- Levaillant. -- Lacerda. -- Bruce. -- Browne. -- Witzen. -- Le père Du Halde. -- L\'abbé Grosier et les Jésuites. -- Macartney. -- Volney. -- De Choiseul-Gouffier. -- Le Chevalier. -- Olivier. -- Pallas. -- Juan de Fuca. -- De Fonte. -- Behring. -- Vancouver. -- S. Hearne. -- Mackenzie. -- La Condamine. -- Humboldt et Bonpland.

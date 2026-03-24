@@ -1,0 +1,106 @@
+### [[Chapitre 12 -- Harry Killer]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942925 .pcalibre2 .pcalibre1} {#chapitre-12-harry-killer .calibre171 .sigil_not_in_toc}
+
+[--- Harry Killer ! s\'écria Jane.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+--- Harry Killer ?\... répéta sur un ton interrogatif Lewis Buxton, qui regarda sa soeur avec étonnement.
+
+--- Lui-même, gronda Killer d\'une voix rauque.
+
+Il fit un pas en avant, et, s\'arrêtant dans l\'embrasure de la porte, que sa stature athlétique obstruait tout entière, il s\'appuya contre le chambranle, en vue d\'affermir son équilibre fortement compromis par les libations de la soirée.
+
+--- C\'est ça que vous appelez vous rendre ?\... bégaya-t-il avec une colère concentrée. Eh ! eh ! Mademoiselle a des rendez-vous à l\'insu de son futur mari !
+
+--- Son mari ?\... répéta Lewis, qui parut surpris plus encore.
+
+--- Pensez-vous donc que je sois si commode ?\... ajouta Harry Killer, qui entra dans le cachot en tendant vers Jane ses énormes mains velues.
+
+Mais celle-ci brandit l\'arme retirée de sa ceinture.
+
+--- N\'approchez pas !\... s\'écria-t-elle.
+
+[---]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"} [Oh ! oh !\... fit ironiquement Harry Killer.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"} La guêpe a son aiguillon.
+
+En dépit de son ironie, il ne s\'en était pas moins prudemment arrêté, et il demeurait immobile, au milieu du cachot, surveillant de l\'oeil le poignard dont Jane Buxton le menaçait.
+
+Profitant de ce moment d\'indécision, celle-ci, entraînant son frère avec elle, se rapprocha de la porte, coupant ainsi la retraite à l\'adversaire qu\'elle tenait en respect.
+
+--- Oui, j\'ai trouvé ce poignard dans une tombe\... À Koubo !
+
+--- À Koubo !\... répéta Lewis. N\'est-ce pas là que George\...
+
+--- Oui, dit Jane, c\'est à Koubo que George est tombé, c\'est là qu\'il est mort, non pas frappé par des balles, mais par cette arme sur laquelle un nom : Killer, celui de l\'assassin, est encore écrit.
+
+Harry Killer avait fait un pas en arrière à cette évocation du drame de Koubo. Pâle, défait, il s\'appuyait maintenant à la muraille de cachot, en regardant Jane avec une sorte de crainte.
+
+--- Killer, dites-vous ? s\'écria Lewis à son tour. Vous vous trompez, Jane. Tel n\'est pas le nom de cet homme. Il en a un autre, pire encore que celui de Killer, un autre qui ne sera pas nouveau pour vous.
+
+--- Un autre ?\...
+
+--- Oui\... Vous étiez trop petite, quand il nous a quittés, pour le reconnaître aujourd\'hui, mais, bien des fois, vous avez entendu parler de lui. Votre mère avait un fils quand elle a épousé notre père. Ce fils, c\'est l\'homme que vous voyez là, c\'est William Ferney, votre frère.
+
+La révélation faite par Lewis Buxton avait des effets opposés sur les deux autres acteurs de cette scène. Tandis que Jane, anéantie, laissait retomber sa main sans force, William Ferney -- on lui laissera désormais son nom véritable -- semblait avoir reconquis toute son assurance. Son ivresse même paraissait dissipée. Il s\'était redressé, et se tenait droit maintenant en face du groupe formé par Jane et Lewis, qu\'il couvrait d\'un regard étincelant de haine et pleine d\'une implacable cruauté.
+
+--- Ah ! Vous êtes Jane Buxton !\... prononça-t-il d\'une voix sifflante. Il répéta encore, en grinçant des dents :
+
+--- Ah ! Vous êtes Jane Buxton !
+
+Et, soudain, tous les mauvais sentiments qui l\'étouffaient faisant explosion, il parla, parla, si vite qu\'il n\'avait pas le temps d\'articuler les mots, en phrases coupées, hachées, la poitrine haletante, la voix sourde, les yeux fous.
+
+--- J\'en suis ravi !\... Oui, en vérité, j\'en suis ravi !\... Ah ! Vous êtes allée à Koubo !\... Oui, certes, c\'est moi qui l\'ai tué\... votre frère George\... le beau George\... dont la famille Buxton était si fière !\... Je l\'ai même tué deux fois\... dans son âme d\'abord\... dans son corps ensuite\... Et maintenant, je vous tiens là, tous les deux\... en mon pouvoir, sous ma botte ! Vous êtes ma chose !\... Je peux faire de vous ce qui me plaît !
+
+À peine si les mots qui sortaient de sa gorge contractée étaient compréhensibles. Il bégayait, ivre de joie, exultant, triomphant !
+
+--- Quand je pense que j\'ai pris l\'un\... et que l\'autre est venue toute seule chez moi !\... C\'est trop drôle !
+
+Il avança d\'un pas, sans que Jane, ni Lewis, enlacés, fissent un mouvement, et, se penchant vers eux :
+
+--- Vous croyez, peut-être, savoir beaucoup de choses ? Vous ne savez rien\... Mais je vais tout vous dire\... Tout ! Et avec quel plaisir ! Ah ! Il m\'a chassé, votre père !\... Il doit s\'en applaudir !\... Une chose manque à ma joie\... cependant\... Je veux qu\'il sache\... avant de mourir\... quelle main lui a porté les coups\... Cette main\... la voici\... c\'est la mienne !\...
+
+Il avança encore. Il touchait presque maintenant le frère et la soeur, épouvantés par cet accès de sauvage démence.
+
+--- Ah ! on m\'a chassé !\... Qu\'aurais-je fait des sommes misérables qu\'on m\'offrait ? À moi, il faut de l\'or, beaucoup d\'or, des montagnes d\'or !\... J\'en ai eu\... de l\'or\... à remuer à la pelle\... en monceaux\... sans vous\... sans le secours de personne\... à moi seul !.. [Ce que j\'ai fait pour m\'en procurer \... Ah ! ah !\... Ce que les gens de votre espèce appellent des crimes\... J\'ai volé\... tué\... assassiné\... tous\... tous les crimes !\... Ah ! ah !\...]{style="font-size: 1em; text-indent: 20pt;"}
+
+« Mais l\'or n\'était pas tout pour moi\... Quelque chose de plus fort encore, c\'était la haine que je vous porte\... à tous\... exécrable famille des Glenor !\... C\'est pourquoi je suis venu en Afrique. J\'ai rôdé autour de la colonne de George Buxton\... et je me suis présenté à lui\... J\'ai joué la comédie\... regrets\... repentir\... remords\... J\'ai été menteur\... fourbe, hypocrite\... C\'est de bonne guerre, pas vrai ?\... L\'imbécile s\'y est laissé prendre\... Il m\'a ouvert les bras\... J\'ai partagé sa tente\... sa table\... Ah ! ah ! j\'en ai profité, de sa stupide confiance !\... Chaque jour un peu plus de poudre dans ses aliments\... Quelle poudre ?\... Que vous importe ? Opium\... hachisch\... ou autre de ce genre\... c\'est mon affaire\... Cherchez George Buxton\... Un enfant, un petit enfant sans force\...
+
+« Le chef ?\... Moi !\... Alors, quels exploits !\... Les journaux en étaient pleins\... George Buxton le fou\... George Buxton l\'assassin\... George Buxton le traître\... ils ne parlaient que de ça\... Qui a ri, plus tard, en lisant ces tirades ?\... Moi, je pense\... Mais passons\... Un jour, des soldats sont arrivés\... George Buxton mort, c\'était bien\... déshonoré, c\'était mieux\... Je l\'ai donc tué pour qu\'il se taise\...
+
+« Alors, je suis venu ici, et j\'ai fondé cette ville\... Pas mal, n\'est-ce pas, pour celui qu\'on avait honteusement chassé ? Ici, je suis le chef\... le maître, le roi\... l\'empereur\... Je commande, on obéit\... Pourtant, ma joie n\'était pas complète\... À votre père, il restait encore un fils et une fille. Cela ne pouvait pas durer\... Le fils, d\'abord\... Un jour où j\'avais besoin d\'argent j\'ai pris le sien\... et lui par-dessus le marché\... [Ah ! ah ! assommé, le fils\... ficelé comme un jambon, le fils\... au fond d\'une malle, le fils\... Et en route !\... Trains, bateaux, planeurs, en route ! jusqu\'ici\... chez moi\... dans mon empire !\... Et je le tuerai\... comme l\'autre\... mais moins vite\... lentement\... jour par jour !\... Pendant ce temps\... là-bas\... en Angleterre\... le père\... Oh ! un lord\... et riche !\... le père sait que son fils est parti\... en emportant la caisse\... Pas mal charpenté, tout ça, Dieu me damne !\...]{style="font-size: 1em; text-indent: 20pt;"}
+
+« Restait la fille\... ma soeur\... Ah ! ah ! ma soeur !\... C\'était son tour\... Que lui faire, à celle-là ?\... J\'y pensais, je cherchais\... Parbleu ! la voilà qui arrive !\... C\'est ma chance !\... Un peu plus, j\'en faisais ma femme !\... C\'est à se tordre !\... Ma femme ?\... Allons donc !\... Celle du dernier de mes esclaves !\... du plus hideux de mes nègres !\...
+
+« Que lui restera-t-il après\... au vieux lord\... en dépit de son titre et de ses richesses ?\... Ses deux fils ?\... un traître\... un voleur\... Sa fille ?\... Disparue\... traînant on ne sait où\... Et lui\... tout seul\... avec ses idées de l\'autre monde\... Elle finit bien, la race des Glenor !\... Et comme vengeance, c\'est assez réussi, je pense !\... »
+
+Ces affreuses imprécations proférées d\'une voix haletante s\'achevèrent en un véritable hurlement.
+
+William Ferney s\'arrêta hors d\'haleine, étranglant de rage. [Ses yeux sortaient de leurs orbites. Il tendait vers ses victimes des mains crispées, avides de torturer une chair détestée. Ce n\'était plus une créature humaine. C\'était un fou furieux en pleine crise, une bête féroce acharnée à détruire.]{style="font-size: 1em; text-indent: 20pt;"}
+
+Épouvantés plus encore pour lui que pour eux-mêmes, Jane et Lewis Buxton contemplaient le dément avec horreur. [Comment une âme d\'homme pouvait-elle recéler une aussi effroyable haine ?]{style="font-size: 1em; text-indent: 20pt;"}
+
+--- Pour ce soir, conclut le monstre, quand il eut repris haleine, je vais vous laisser ensemble, puisque ça vous amuse. Mais demain\...
+
+Le bruit d\'une explosion, qui devait être formidable pour arriver jusqu\'à ce cachot, couvrit tout à coup la voix de William Ferney. Il s\'arrêta brusquement, étonné, inquiet, prêtant l\'oreille\...
+
+À l\'explosion succédèrent quelques minutes d\'un profond silence, puis on entendit une rumeur\... C\'était des cris, des hurlements lointains, tout un bruit de foule en délire, auquel se mêlaient de rares coups de revolvers ou de fusils\...
+
+William Ferney ne pensait plus à Jane ni à Lewis Buxton. Il écoutait, cherchant à deviner ce que signifiaient ces clameurs.
+
+L\'homme de la Garde noire posté à l\'entrée des cachots accourut tout à coup.
+
+--- Maître ! cria-t-il, affolé, la ville est en feu !
+
+William Ferney proféra un horrible juron, puis, rejetant d\'une poussée Jane et Lewis Buxton qui lui barraient le passage, il s\'élança dans le couloir et disparut.
+
+Ce dénouement était intervenu si rapidement que le frère et la soeur n\'avaient eu le temps d\'y rien comprendre.
+
+À peine si, dans leur égarement, ils avaient entendu l\'explosion et les clameurs qui les avaient débarrassés de leur bourreau. Ils étaient seuls depuis un instant qu\'ils ne s\'en étaient pas encore aperçus. Ils se tenaient toujours étroitement enlacés, et, accablés par la scène atroce dont ils venaient d\'être les témoins, affaiblis par leurs récentes souffrances, pensant au vieillard qui se mourait dans le désespoir et la honte, ils sanglotaient éperdument.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}

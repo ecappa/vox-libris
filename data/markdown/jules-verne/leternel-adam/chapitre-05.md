@@ -1,0 +1,111 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+L\'ÉTERNEL ADAM
+
+
+]{.calibre20}
+
+## [[Chapitre 5]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943025 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_133 .calibre21}
+
+À terre. -- Janvier ou février.
+
+Un intervalle de huit mois sépare les dernières lignes qui précèdent des premières qui vont suivre. Je date celles-ci de janvier ou février, dans l\'impossibilité où je suis d\'être plus précis, car je n\'ai plus une exacte notion du temps.
+
+Ces huit mois constituent la période la plus atroce de nos épreuves, celle [où, par degrés cruellement ménagés, nous avons connu tout notre malheur.]{.calibre543} Après nous avoir recueillis, la Virginia continua sa route vers l\'est, à toute vapeur. Quand je revins à moi, l\'îlot où nous avions failli mourir était depuis longtemps sous l\'horizon. Comme l\'indiqua le point, que le capitaine prit par un ciel sans nuages, nous naviguions alors juste à l\'endroit où aurait dû être Mexico. Mais, de Mexico, il ne demeurait aucune trace pas plus qu\'on n\'en avait trouvé, pendant mon évanouissement, des montagnes du centre, pas plus qu\'on n\'en distinguait maintenant d\'une terre quelconque, si loin que portât la vue ; de tous côtés, ce n\'était que l\'infini de la mer.
+
+Il y avait, dans cette constatation, quelque chose de véritablement affolant. Nous sentions la raison près de nous échapper.
+
+Eh quoi ! Le Mexique entier englouti ! Nous échangions des regards épouvantés, en nous demandant jusqu\'où s\'étaient étendus les ravages de l\'effroyable cataclysme\...
+
+Le capitaine voulut en avoir le coeur net ; modifiant sa route, il mit le cap au nord : si le Mexique n\'existait plus, il n\'était pas admissible qu\'il en fût de même de tout le continent américain.
+
+Il en était de même, pourtant. Nous remontâmes vainement au Nord pendant douze jours, sans rencontrer la terre, et nous ne la rencontrâmes [pas davantage après avoir viré cap pour cap et nous être dirigés vers le sud]{.calibre543} pendant près d\'un mois. Quelque paradoxale qu\'elle nous parût, force nous fut de nous rendre à l\'évidence : oui, la totalité du continent américain s\'était abîmée sous les flots !
+
+N\'avions-nous donc été sauvés que pour connaître une seconde fois les affres de l\'agonie ? En vérité, nous avions lieu de le craindre. Sans parler des vivres qui manqueraient un jour ou l\'autre, un danger pressant nous menaçait : que deviendrions-nous quand l\'épuisement du charbon frapperait la machine d\'immobilité ? Ainsi cesse de battre le coeur d\'un animal exsangue. C\'est pourquoi, le 14 juillet -- nous nous trouvions alors à peu près sur l\'ancien emplacement de Buenos-Ayres -- le capitaine Morris laissa tomber les feux et mit à la voile. Cela fait, il réunit tout le personnel de la Virginia, équipage et passagers, et, nous ayant exposé en peu de mots la situation, il nous pria d\'y réfléchir mûrement et de proposer la solution qui aurait nos préférences au conseil qui serait tenu le lendemain.
+
+Je ne sais si quelqu\'un de mes compagnons d\'infortune se fût avisé d\'un expédient plus ou moins ingénieux.
+
+Pour ma part, j\'hésitais, je l\'avoue, très incertain du meilleur parti à prendre, quand une tempête qui s\'éleva dans la nuit trancha la question ; il nous fallut fuir dans l\'Ouest, emportés par un vent déchaîné, à chaque instant sur le point d\'être engloutis par une mer furieuse.
+
+L\'ouragan dura trente-cinq jours, sans une minute d\'interruption, voire même de détente. Nous commencions à désespérer qu\'il finît jamais, lorsque, le 19 août, le beau temps revint avec la même soudaineté qu\'il avait cessé. Le capitaine en profita pour faire le point : le calcul lui donna 40° de latitude nord et 114° de longitude est. C\'étaient les coordonnées de Pékin !
+
+Donc, nous avions passé au-dessus de la Polynésie, et peut-être de l\'Australie, sans même nous en rendre compte, et là où nous voguions maintenant s\'étendait jadis la capitale d\'un empire de quatre cents millions d\'âmes !
+
+L\'Asie avait-elle donc eu le sort de l\'Amérique ?
+
+Nous en fûmes bientôt convaincus. La Virginia, continuant sa route cap au sud-ouest, arriva à la hauteur du Thibet, puis à celle de l\'Himalaya. Ici auraient dû s\'élever les plus hauts sommets du globe. Eh bien, dans toutes [les directions, rien n\'émergeait de la surface de l\'océan. C\'était à croire qu\'il]{.calibre543} n\'existait plus, sur la terre, d\'autre point solide que l\'îlot qui nous avait sauvés -- que nous étions les seuls survivants du cataclysme, les derniers habitants d\'un monde enseveli dans le mouvant linceul de la mer !
+
+S\'il en était ainsi, nous ne tarderions pas à périr à notre tour. Malgré un rationnement sévère, les vivres du bord s\'épuisaient, en effet, et nous devions perdre, en ce cas, tout espoir de les renouveler\...
+
+J\'abrège le récit de cette navigation effarante.
+
+Si, pour la raconter en détail, j\'essayais de la revivre jour par jour, le souvenir me rendrait fou. Pour étranges et terribles que soient les événements qui l\'ont précédée et suivie, quelque lamentable que m\'apparaisse l\'avenir -- un avenir que je ne verrai pas -- c\'est encore durant cette navigation infernale que nous avons connu le maximum de l\'épouvante. Oh ! Cette course éternelle sur une mer sans fin ! S\'attendre tous les jours à aborder quelque part et voir sans cesse reculer le terme du voyage ! Vivre penchés sur des cartes où les hommes avaient gravé la ligne sinueuse des rivages, et constater que rien, absolument rien, n\'existe plus de ces lieux qu\'ils pensaient éternels ! se dire que la terre palpitait de vies innombrables, que des millions d\'hommes et des myriades d\'animaux la parcouraient en tous sens ou en sillonnaient l\'atmosphère, et que tout est mort à la fois, que toutes ces vies se sont éteintes ensemble comme une petite flamme au souffle du vent ! se chercher partout des semblables et les chercher en vain ! Acquérir peu à peu la certitude qu\'autour de soi il n\'existe rien de vivant, et prendre graduellement conscience de sa solitude au milieu d\'un impitoyable univers !
+
+Ai-je trouvé les mots convenables pour exprimer notre angoisse ? Je ne [sais. Dans aucune langue il n\'en doit exister d\'adéquats à une situation sans]{.calibre543} précédent.
+
+Après avoir reconnu la mer où était jadis la péninsule indienne, nous remontâmes au nord pendant dix jours, puis nous mîmes le cap à l\'ouest. Sans que notre condition changeât le moins du monde, nous franchîmes la chaîne de l\'Oural devenue montagnes sous-marines, et nous naviguâmes au-dessus de ce qui avait été l\'Europe.
+
+Nous descendîmes ensuite vers le sud, jusqu\'à vingt degrés au-delà de l\'Équateur : après quoi, lassés de notre inutile recherche, nous reprîmes la route du Nord et traversâmes, jusque passé les Pyrénées, une étendue d\'eau qui recouvrait l\'Afrique et l\'Espagne. En vérité nous commencions à nous habituer à notre épouvante. À mesure que nous avancions, nous pointions notre route sur les cartes, et nous disions : « Ici, c\'était Moscou\... Varsovie\... Berlin\... Vienne\... Rome\... Tunis\... Tombouctou\... [Saint-Louis\... Oran\... Madrid\... », mais avec une indifférence croissante, et,]{.calibre543} l\'accoutumance aidant, nous en arrivions à prononcer sans émotion ces paroles, en réalité si tragiques.
+
+Pourtant, moi tout au moins, je n\'avais pas épuisé ma capacité de souffrance. Je m\'en aperçus, le jour -- c\'était à peu près le 11 décembre -- où [le capitaine Morris me dit : « Ici, c\'était Paris\... » À ces mots, je crus qu\'on]{.calibre543} m\'arrachait l\'âme. Que l\'univers entier tût englouti, soit ! Mais la France -- ma France ! -- et Paris, qui la symbolisait !
+
+À mes côtés, j\'entendis comme un sanglot. Je me retournai ; c\'était Simonat qui pleurait.
+
+Pendant quatre jours encore, nous poursuivîmes notre route vers le Nord ; puis, arrivés à la hauteur d\'Édimbourg, on redescendit vers le sud-ouest, en quête de l\'Irlande, puis la route fut donnée à l\'est\... En réalité, nous errions au hasard, car il n\'y avait pas plus de raison d\'aller dans une direction que dans une autre\...
+
+On passa au-dessus de Londres, dont la tombe liquide fut saluée de tout l\'équipage. Cinq jours après, nous étions à la hauteur de Dantzig.
+
+Quand le capitaine Morris fit virer cap pour cap et ordonna de gouverner au sud-ouest. Le timonier obéit passivement.
+
+Qu\'est-ce que cela pouvait bien lui faire ? De tous côtés, ne serait-ce pas la même chose ?
+
+Ce fut le neuvième jour de navigation à cette aire de compas que nous mangeâmes notre dernier morceau de biscuit.
+
+Comme nous nous regardions avec des yeux hagards, le capitaine Morris commanda tout à coup de rallumer les feux. À quelle pensée obéissait-il ? J\'en suis encore à me le demander ; mais l\'ordre fut exécuté : la vitesse du navire s\'accéléra\...
+
+Deux jours plus tard, nous souffrions déjà cruellement de la faim. Le surlendemain, presque tous refusèrent obstinément de se lever ; il n\'y eut que le capitaine, Simonat, quelques hommes de l\'équipage et moi, pour avoir l\'énergie d\'assurer la direction du navire.
+
+Le lendemain, cinquième jour de jeûne, le nombre des timoniers et des mécaniciens bénévoles décrut encore. Dans vingt-quatre heures, personne n\'aurait plus la force de se tenir debout.
+
+Nous naviguions alors depuis plus de sept mois. Depuis plus de sept mois nous labourions la mer en tous sens. Nous devions être, je crois, le 8 janvier. -- Je dis : « je crois », dans l\'impossibilité où je suis d\'être plus précis, le calendrier ayant dès lors perdu pour nous beaucoup de sa rigueur. Or, ce fut ce jour-là, pendant que je tenais la barre et que je consacrais à garder la ligne de foi toute mon attention défaillante, qu\'il me sembla discerner quelque chose dans l\'ouest. Croyant être le jouet d\'une erreur, j\'écarquillai les yeux\...
+
+Non, je ne m\'étais pas trompé !
+
+Je poussai un véritable rugissement, puis, me cramponnant à la barre, je criai d\'une voix forte :
+
+« Terre par tribord devant ! »
+
+Quel effet magique eurent ces mots ! Tous les moribonds ressuscitèrent à la fois, et leurs figures hâves apparurent au-dessus de la lisse de tribord.
+
+« C\'est bien la terre », dit le capitaine Morris, après avoir examiné le nuage qui émergeait à l\'horizon.
+
+Une demi-heure plus tard, il était impossible de conserver le moindre doute. C\'était bien la terre que nous trouvions en plein océan Atlantique, après l\'avoir vainement cherchée sur toute la surface des anciens continents !
+
+Vers trois heures de l\'après-midi, le détail du littoral qui nous barrait la route devint perceptible, et nous sentîmes renaître notre désespoir. C\'est qu\'en vérité ce littoral ne ressemblait à aucun autre, et nul d\'entre nous n\'avait souvenir d\'en avoir jamais vu d\'une si absolue, d\'une si parfaite sauvagerie.
+
+Sur la terre, telle que nous l\'habitions avant le désastre, le vert était une couleur très abondante. Nul d\'entre nous ne connaissait de côte si déshéritée, de contrée si aride, qu\'il ne s\'y rencontrât quelques arbustes, voire quelques touffes d\'ajoncs, voire simplement des traînées de lichens ou de mousses. Ici, rien de tel. On ne distinguait qu\'une haute falaise noirâtre, au pied de laquelle gisait un chaos de rochers, sans une plante, sans un seul brin d\'herbe. C\'était la désolation dans ce qu\'elle peut avoir de plus total, de plus absolu.
+
+Pendant deux jours, nous longeâmes cette falaise abrupte sans y découvrir la moindre fissure. Ce fut seulement vers le soir du second que nous découvrîmes une vaste baie, bien abritée contre tous les vents du large, au fond de laquelle nous laissâmes tomber l\'ancre.
+
+Après avoir gagné la terre dans les canots, notre premier soin fut de récolter notre nourriture sur la grève.
+
+Celle-ci était couverte de tortues par centaines et de coquillages par millions. Dans les interstices des récifs, on voyait des crabes, des homards et des langoustes en quantité fabuleuse, sans préjudice d\'innombrables poissons. De toute évidence, cette mer si richement peuplée suffirait, à défaut d\'autres ressources, à assurer notre subsistance pendant un temps illimité.
+
+Quand nous fûmes restaurés, une coupure de la falaise nous permit d\'atteindre le plateau, où nous découvrîmes un large espace. L\'aspect du rivage ne nous avait pas trompés ; de tous côtés, dans toutes les directions, ce n\'étaient que roches arides, recouvertes d\'algues et de goémons généralement desséchés, sans le plus petit brin d\'herbe, sans rien de vivant, ni sur la terre ni dans le ciel. De place en place, de petits lacs, des étangs plutôt, brillaient aux rayons du soleil. Ayant voulu nous désaltérer, nous reconnûmes que l\'eau en était salée.
+
+Nous n\'en fûmes pas surpris, à vrai dire. Le fait confirmait ce que nous avions supposé de prime abord, à savoir que ce continent inconnu était né d\'hier et qu\'il était sorti, d\'un seul bloc, des profondeurs de la mer. Cela expliquait son aridité, comme sa parfaite solitude. Cela expliquait encore cette épaisse couche de vase uniformément répandue, qui, par suite de l\'évaporation, commençait à se craqueler et à se réduire en poussière\...
+
+Le lendemain, à midi, le point donna 17°20\'de latitude nord et 23°55\'de longitude ouest. En le reportant sur la carte, nous pûmes voir qu\'il se trouvait bien en pleine mer, à peu près à la hauteur du Cap Vert. Et pourtant, la terre, dans l\'Ouest, la mer, dans l\'Est, s\'étendaient maintenant à perte de vue.
+
+Quelque rébarbatif et inhospitalier que fût le continent sur lequel nous avions pris pied, force nous était de nous en contenter.
+
+C\'est pourquoi le déchargement de la Virginia fut entrepris sans plus attendre. On monta sur le plateau tout ce qu\'elle contenait, sans choix. Auparavant, on avait affourché solidement le bâtiment sur quatre ancres, par quinze brasses de fond. Dans cette baie tranquille, il ne courait aucun risque, et nous pouvions sans inconvénient l\'abandonner à lui-même.
+
+Dès que le débarquement fut achevé, notre nouvelle vie commença. En premier lieu, il convenait\...
+
+\* \* \*
+
+Arrivé à ce point de sa traduction, le zartog Sofr dut l\'interrompre. Le manuscrit avait à cet endroit une première lacune, probablement fort importante d\'après la quantité de pages intéressées, lacune suivie de plusieurs autres plus considérables encore, autant qu\'il était possible d\'en juger. Sans doute, un grand nombre de feuillets avaient été atteints par l\'humidité, malgré la protection de l\'étui : il ne subsistait, en somme, que des fragments plus ou moins étendus, dont le contexte était à jamais détruit. Ils se succédaient dans cet ordre :

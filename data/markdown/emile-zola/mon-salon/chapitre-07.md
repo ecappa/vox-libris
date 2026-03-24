@@ -1,0 +1,83 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911233 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910747 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910261 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909775 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909289 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908803 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908317 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907831 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907345 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906859 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906373 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905887 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905401 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904915 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904429 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903943 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903457 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902971 .pcalibre .calibre2 .pcalibre1}[Les réalistes du Salon]{#_Toc368902485 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_48 .calibre30}
+
+11 mai
+
+
+Je serais désespéré si mes lecteurs croyaient un instant que je suis ici le porte-drapeau d\'une école Ce serait bien mal me comprendre que de faire de moi un réaliste quand même, un homme enrégimenté dans un parti.
+
+Je suis de mon parti, du parti de la vie et de la vérité, voilà tout. J\'ai quelque ressemblance avec Diogène, qui cherchait un homme ; moi, en art, je cherche aussi des hommes, des tempéraments nouveaux et puissants.
+
+Je me moque du réalisme, en ce sens que ce mot ne représente rien de bien précis pour moi. Si vous entendez par ce terme la nécessité où sont les peintres d\'étudier et de rendre la nature vraie, il est hors de doute que tous les artistes doivent être des réalistes. Peindre des rêves est un jeu d\'enfant et de femme ; les hommes ont charge de peindre des réalités.
+
+Ils prennent la nature et ils la rendent, ils la rendent vue à travers leurs tempéraments particuliers. Chaque artiste va nous donner ainsi un monde différent, et j\'accepterai volontiers tous ces divers mondes, pourvu que chacun d\'eux soit l\'expression vivante d\'un tempérament. J\'admire les mondes de Delacroix et de Courbet. Devant cette déclaration, on ne saurait, je crois, me parquer dans aucune école.
+
+Seulement, voici ce qu\'il arrive en nos temps d\'analyse psychologique et physiologique. Le vent est à la science ; nous sommes poussés, malgré nous, vers l\'étude exacte des faits et des choses. Aussi, toutes les fortes individualités qui se révèlent, s\'affirment-elles dans le sens de la vérité. Le mouvement de l\'époque est certainement réaliste, ou plutôt positiviste. Je suis donc forcé d\'admirer des hommes qui paraissent avoir quelque parenté entre eux, la parenté de l\'heure à laquelle ils vivent.
+
+Mais qu\'il naisse demain un génie autre, un esprit qui réagira, qui nous donnera avec puissance une terre nouvelle, la sienne, je lui promets mes applaudissements. Je ne saurais trop le répéter, je cherche des hommes et non des mannequins, des hommes de chair et d\'os, se confessant à nous, et non des menteurs qui n\'ont que du son dans le ventre.
+
+On m\'écrit que je loue « la peinture de l\'avenir ». Je ne sais ce que peut signifier cette expression. Je crois que chaque génie naît indépendant et qu\'il ne laisse pas de disciples. La peinture de l\'avenir m\'inquiète peu ; elle sera ce que la feront les artistes et les sociétés de demain.
+
+Le grand épouvantail, croyez-le, ce n\'est pas le réalisme, c\'est le tempérament. Tout homme qui ne ressemble pas aux autres, devient par là même un objet de défiance. Dès que la foule ne comprend plus, elle rit. Il faut toute une éducation pour faire accepter le génie. L\'histoire de la littérature et de l\'art est une sorts de martyrologe qui conte les huées dont on a couvert chacune des manifestations nouvelles de l'esprit humain.
+
+Il y a des réalistes au Salon, --- je ne dis plus des tempéraments, --- il y a des artistes qui prétendent donner la nature vraie, avec toutes ses crudités et toutes ses violences.
+
+Pour bien établir que je me moque de l\'observation plus ou moins exacte, lorsqu\'il n\'y a pas une individualité puissante qui fasse vivre le tableau, je vais d\'abord dire mon opinion toute nue sur MM. Monet, Ribot, Vollon, Bonvin et Roybet.
+
+Je mets MM. Courbet et Millet à part, désirant leur consacrer une étude particulière.
+
+J\'avoue que la toile qui m\'a le plus longtemps arrêté est la *Camille*, de M. Monet. C'est là une peinture énergique et vivante. Je venais de parcourir ces salles si froides et si vides, las de ne rencontrer aucun talent nouveau, lorsque j\'ai aperçu cette jeune femme, traînant sa longue robe et s\'enfonçant dans le mur, comme s\'il y avait eu un trou. Vous ne sauriez croire combien il est bon d\'admirer un peu lorsqu\'on est fatigué de rire et de hausser les épaules.
+
+Je ne connais pas M. Monet, je crois même que jamais auparavant je n\'avais regardé attentivement une de ses toiles. Il me semble cependant que je suis un de ses vieux amis. Et cela parce que son tableau me conte toute une histoire d\'énergie et de vérité.
+
+Eh oui ! voilà un tempérament, voilà un homme dans la foule de ces eunuques. Regardez les toiles voisines, et voyez quelle piteuse mine elles font à côté de cette fenêtre ouverte sur la nature. Ici, il y a plus qu\'un réaliste, il y a un interprète délicat et fort qui a su rendre chaque détail sans tomber dans la sécheresse.
+
+Voyez la robe. Elle est souple et solide. Elle traîne mollement, elle vit, elle dit tout haut qui est cette femme. Ce n\'est pas là une robe de poupée, un de ces chiffons de mousseline dont on habille les rêves ; C'est de la bonne soie, qui serait trop lourde sur les crèmes fouettées de M. Dubuffe.
+
+Vous voulez des réalistes, des tempéraments, m\'a-t-on écrit, prenez M. Ribot. Je nie que M. Ribot ait un tempérament qui lui appartienne, et je nie qu\'il rende la nature dans sa vérité.
+
+La vérité d\'abord. Regardez cette grande toile : Jésus est au milieu des docteurs, dans un coin du temple ; il y a de larges ombres ; des lumières s\'étalent par plaques blafardes. Où est le sang ? où est la vie ? Ça, de la réalité ! Mais les têtes de cet enfant et de ces hommes sont creuses ; il n\'y a pas un os dans ces chairs flasques et bouffies. Ce n\'est pas parce que les types sont vulgaires, n\'est-ce pas, que vous voulez me donner ce tableau pour une œuvre réelle ? J\'appelle réelle, une œuvre qui vit, une œuvre dont les personnages puissent se mouvoir et parler. Ici, je ne vois que des créatures mortes, toutes pâles et toutes dissoutes.
+
+Qu\'importe la vérité ! ai-je dit, si le mensonge est commis par un tempérament particulier et puissant. Alors, M. Ribot doit avoir tout ce qu\'il faut pour me plaire. Ces lumières blanchâtres, ces ombres sales sont de simples partis-pris ; l\'artiste a imposé son individualité à la nature, et il a créé de toutes pièces ce monde blafard. Le malheur est qu\'il n\'a rien créé du tout ; son monde existe depuis bien longtemps. C\'est un monde espagnol à peine francisé. Non seulement l\'œuvre n\'est pas vraie, ne vit pas, mais de plus n\'est pas une expression nouvelle du génie humain.
+
+M. Ribot n\'a rien ajouté à l\'art, il n\'a pas dit son mot propre, il ne nous a pas révélé un cœur et une chair. C\'est ici un tempérament inutile, une rencontre malheureuse, si l\'on veut. Certes, je préfère cette puissance fausse, cette individualité de contrebande, aux désolantes gentillesses dont j\'aurai à parler. Mais tout au fond de moi, j\'entends une voix qui me crie : « Prends garde ! celui-là est perfide ; il paraît énergique et vrai ; va jusqu\'aux moelles, tu trouveras le mensonge et le néant. »
+
+Le réalisme, pour bien des personnes, --- pour M. Vollon, par exemple, --- consiste dans le choix d\'un sujet vulgaire. Cette année, M. Vollon a été réaliste, en représentant une servante dans sa cuisine. La bonne grosse fille revient du marché, et a déposé à terre ses provisions. Elle est vêtue d\'une jupe rouge et s\'appuie au mur, montrant ses bras hâlés et sa figure épaisse.
+
+Moi, je ne vois rien de réel là-dedans, car cette servante est en bois, et elle est si bien collée au mur, que rien ne pourrait l\'en détacher. Les objets se comportent autrement dans la nature, sous la large lumière. Les cuisines sont pleines d\'air d\'habitude, et chaque chose n\'y prend pas ainsi une couleur cuite et rissolée. Puis, dans les intérieurs, les oppositions, les taches sont vigoureuses, bien qu\'adoucies, tout ne s\'en vient pas sur un même plan. La vérité est plus brutale, plus énergique que cela.
+
+Peignez des roses, mais peignez-les vivantes, si vous vous dites réaliste.
+
+M. Bonvin me paraît être également un amant platonique de la vérité. Ses sujets sont pris dans la vie réelle, mais la façon dont il traite les réalités pourrait tout aussi bien être employée pour traiter les rêves de certains peintres en vogue. Il y a je ne sais quelle sécheresse et quelle petitesse dans l\'exécution quitte toute vie au personnage.
+
+La *Grand'maman* que M. Bonvin expose, est une bonne vieille tenant une Bible sur ses genoux et humant son café, qu\'on lui apporte. La face m\'a paru tendue et grimaçante ; elle est trop détaillée ; le regard se perd dans ces rides rendues avec amour, et préférerait un visage d\'un seul morceau, bâti solidement. L\'effet s\'éparpille, la tête ne s'élève pas puissamment sur le fond.
+
+Avant l\'ouverture du Salon, on a fait quelque bruit autour de la toile de M. Roybet, *Un Fou sous Henri III*. On parlait d\'une personnalité fortement accusée, d\'un réalisme large. J\'ai vu la toile, et je n\'ai pas compris ces applaudissements donnés à l\'avance. C\'est là de la peinture honnête, plus solide assurément que celle de M. Hamon, mais d\'une énergie fort modérée.
+
+La personnalité annoncée ne s\'est pas révélée à mes regards.
+
+Le fou, tout de rouge habillé, tient en laisse deux dogues qui ont l\'air de deux bons enfants ; il rit, montrant les dents, et on dirait, à le voir, un satyre habillé.
+
+Le sujet importe peu d\'ailleurs, et le pis est que je trouve ces chiens, surtout cet homme, traités d\'une façon petite. Ici encore les détails dominent l\'ensemble ; les étoffes manquent de souplesse, les mains du personnage ressemblent à deux palettes de bois, et la face paraît ciselée avec soin.
+
+Je ne sens pas la chair, dans tout ceci, et si j\'éprouve quelque sympathie, c\'est pour les deux dogues qui sont plantés beaucoup plus carrément que leur maître.
+
+Voilà donc les quelques réalistes du Salon. Je puis en omettre ; mais, en tous cas, j\'ai nommé et étudié les principaux. J\'ai voulu simplement, je le répète, faire comprendre que je ne me parque dans aucune école, et que je demande uniquement à l\'artiste d\'être personnel et puissant.
+
+J\'ai tenu à être d\'autant plus sévère que je craignais d\'avoir été mal compris. Je n\'ai aucune sympathie pour la charge du tempérament, --- qu\'on me passe ce mot, --- et je n\'accepte que les individualités vraiment individuelles et nettement accusées. Toute école me déplaît, car une école est la négation même de la liberté de création humaine. Dans une école il y a un homme, le maître ; les disciples sont forcément des imitateurs.
+
+Donc pas plus de réalisme que d\'autre chose. De la vérité, si l'on veut, de la vie, mais surtout des chairs et des cœurs différents interprétant différemment la nature. La définition d\'une œuvre d\'art saurait être autre chose que celle-ci : *Une œuvre d\'art est un coin de la création vu à travers un tempérament*[^[^[\[16\]]{.calibre39 lang="EN-US"}^]{.calibre4 .sgc-2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}^](../Text/Zola5_split_599.htm#_ftn16){#_ftnref16 .pcalibre .pcalibre1 .calibre35 .sgc-3}*.*

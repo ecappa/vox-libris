@@ -1,0 +1,44 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 27"
+slug_section: "chapitre-27"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 27 -- Chanson
+Avec ce punch, voyons la politique !
+Chassons au loin ses lugubres ennuis !
+Donnons nos jours à notre république,
+Mais à l'amour donnons toutes nos nuits !
+Drinn, drinn, etc.
+Que vous soyez ou non bonapartiste,
+À nos festins, rendez-vous et buvez,
+Et que chacun dans son vote persiste
+Si tous, en chœur, pour ce soir vous chantez
+Drinn, drinn, etc.
+Si votre amie est toujours amoureuse,
+Laissez nommer ministres, président !
+La politique est-elle aussi joyeuse
+Qu'un doux baiser qu'on vous donne en disant
+Drinn, drinn, etc.
+Mais si l'émeute accablait la patrie,
+Sur nos fusils, frères, nous sauterions,
+Et délivrant la liberté chérie,
+À ses genoux, vainqueurs nous chanterions
+Drinn, drinn, etc.
+Devant ce punch aux enivrantes flammes,
+Par ce serment que le cœur soit lié !
+Jurons amour à l'amour de nos dames,
+À nos amis, jurons amitié !!
+Drinn, drinn, etc.

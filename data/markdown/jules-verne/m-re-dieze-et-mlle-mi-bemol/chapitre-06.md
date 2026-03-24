@@ -1,0 +1,41 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+M. RÉ DIÈZE ET MLLE MI BÉMOL
+
+
+]{.calibre20}
+
+## []{#_Toc343186087 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183626 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343181165 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178704 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176243 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173782 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171321 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168860 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166399 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163938 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161477 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343159016 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149746 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147285 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144822 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142361 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139900 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137438 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134977 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132516 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343130054 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127593 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343125129 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122668 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343120207 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117753 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115290 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112829 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110368 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343108029 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106624 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343104162 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101699 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099274 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096805 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094343 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091865 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089402 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086940 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084477 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343082015 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079554 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343077091 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074628 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343072162 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343044202 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343041863 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343040606 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039298 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036933 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034568 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032203 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343029955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028647 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026282 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023917 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021551 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343019185 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016820 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014455 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343012088 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009723 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007358 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004993 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002628 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000263 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997898 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995533 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342993168 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990803 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988438 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342986071 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983706 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981341 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978976 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 6]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942995 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_104 .calibre21}
+
+Il va de soi que, dès ce jour, il ne fut plus question que du grave événement qui passionnait la bourgade. Ce grand artiste, qui avait nom Effarane, doublé d\'un grand inventeur, se faisait fort d\'enrichir notre orgue d\'un registre de voix enfantines. Et alors, à la prochaine Noël, après les bergers [et les mages accompagnés par les trompettes, les bourdons et les flûtes, on]{.calibre543} entendrait les voix fraîches et cristallines des anges papillonnant autour du petit Jésus et de sa divine Mère.
+
+Les travaux de réparation avaient commencé dès le lendemain ; maître Effarane et son aide s\'étaient mis à l\'ouvrage. Pendant les récréations, moi et quelques autres de l\'école nous venions les voir. On nous laissait monter à la tribune sous condition de ne point gêner. Tout le buffet était ouvert, [réduit à l\'état rudimentaire. Un orgue n\'est qu\'une flûte de Pan adaptée à un]{.calibre543} sommier, avec soufflet et registre, c\'est-à-dire une règle mobile qui régit l\'entrée du vent. Le nôtre était d\'un grand modèle comportant vingt-quatre jeux principaux, quatre claviers de cinquante-quatre touches, et aussi un clavier de pédales pour basses fondamentales de deux octaves. Combien nous paraissait immense cette forêt de tuyaux à anches ou à bouches en bois ou en étain ! On se serait perdu au milieu de ce massif touffu ! Et quels noms drôles sortaient des lèvres de maître Effarane : les doublettes, les larigots, les cromornes, les bombardes, les prestants, les gros nasards ! Quand je pense qu\'il y avait des seize-pieds en bois et des trente-deux-pieds en étain ! Dans ces tuyaux-là, on aurait pu fourrer l\'école tout entière et M. Valrügis en même temps !
+
+Nous regardions ce fouillis avec une sorte de stupéfaction voisine de l\'épouvante.
+
+« Henri, disait Hoct, en risquant un regard en dessous, c\'est comme une machine à vapeur\...
+
+--- Non, plutôt comme une batterie, disait Farina, des canons qui vous jetteraient des boulets de musique ! »
+
+Moi, je ne trouvais pas de comparaisons, mais, quand je songeais aux bourrasques que le double soufflet pouvait envoyer à travers cet énorme tuyautage, il me prenait un frisson dont j\'étais secoué pendant des heures. Maître Effarane travaillait au milieu de ce pêle-mêle, et sans jamais être embarrassé. En réalité, l\'orgue de Kalfermatt était en assez bon état et n\'exigeait que des réparations peu importantes, plutôt un nettoyage des [poussières de plusieurs années. Ce qui offrirait plus de difficultés, ce serait]{.calibre543} l\'ajustement du registre des voix enfantines. Cet appareil était là, dans une boîte, une série de flûtes de cristal qui devaient produire des sons délicieux. Maître Effarane, aussi habile organier que merveilleux organiste, espérait enfin réussir là où il avait échoué jusqu\'alors. Néanmoins, je m\'en apercevais, il ne laissait pas que de tâtonner, essayant d\'un côté, puis de l\'autre, et lorsque cela n\'allait pas, poussant des cris, comme un perroquet rageur, agacé par sa maîtresse.
+
+Brrrr\... Ces cris me faisaient passer des frissons sur tout le corps et je sentais mes cheveux se dresser électriquement sur ma tête.
+
+J\'insiste sur ce point que ce que je voyais m\'impressionnait au dernier degré. L\'intérieur du vaste buffet d\'orgue, cet énorme animal éventré dont les organes s\'étalaient, cela me tourmentait jusqu\'à l\'obsession. J\'en rêvais la nuit, et, le jour, ma pensée y revenait sans cesse. Surtout la boîte aux voix enfantines, à laquelle je n\'eusse pas osé toucher, me faisait l\'effet d\'une cage pleine d\'enfants, que maître Effarane élevait pour les faire chanter sous ses doigts d\'organiste.
+
+« Qu\'as-tu, Joseph ? Me demandait Betty.
+
+--- Je ne sais pas, répondais-je.
+
+--- C\'est peut-être parce que tu montes trop souvent à l\'orgue ?
+
+--- Oui\... Peut-être.
+
+--- N\'y va plus, Joseph.
+
+--- Je n\'irai plus, Betty. »
+
+Et j\'y retournais le jour même malgré moi. L\'envie me prenait de me perdre au milieu de cette forêt de tuyaux, de me glisser dans les coins les plus obscurs, d\'y suivre maître Effarane dont j\'entendais le marteau claquer au fond du buffet. Je me gardais de rien dire de tout cela à la maison ; mon père et ma mère m\'auraient cru fou.

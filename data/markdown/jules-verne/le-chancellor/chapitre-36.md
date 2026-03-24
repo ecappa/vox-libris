@@ -1,0 +1,38 @@
+]{.calibre20}
+
+
+LE CHANCELLOR
+
+
+]{.calibre20}
+
+## [[Chapitre 36]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941517 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_194 .calibre21}
+
+--- *22 décembre.* -- Le jour est enfin arrivé, et le soleil a paru entre les derniers nuages que la tempête a laissés derrière elle. Cette lutte des éléments n\'a duré que quelques heures, mais elle a été effroyable, et l\'air et l\'eau se sont heurtés avec une violence sans pareille.
+
+
+Je suis revenu à moi, grâce aux soins de MM. Letourneur et de miss Herbey, mais c\'est à Robert Kurtis que je dois de ne pas avoir été emporté par un second coup de mer.
+
+L\'un des deux matelots qui ont péri pendant la tempête est Austin, jeune homme de vingt-huit ans, bon sujet, actif et courageux. Le second, c\'est le vieil Irlandais O\'Ready, le survivant de tant de naufrages !
+
+Nous ne sommes plus que seize sur le radeau, c\'est-à-dire que près de la moitié de ceux qui se sont embarqués à bord du *Chancellor* a déjà disparu !
+
+Et maintenant, que nous reste-t-il en fait de vivres ?
+
+Robert Kurtis a voulu se rendre un compte exact des approvisionnements. En quoi consistent-ils, et combien de temps dureront-ils ?
+
+L\'eau ne manquera pas encore, car il en reste dans le fond de la barrique brisée environ quatorze gallons, et la seconde barrique est intacte. Mais le baril qui contenait la viande sèche et celui dans lequel était le poisson que nous avions pêché ont été emportés tous deux, et de cette réserve il ne reste absolument rien. Quant au biscuit, Robert Kurtis n\'estime pas à plus de soixante livres ce qui a pu être sauvé des atteintes de la mer.
+
+Soixante livres de biscuit pour seize, cela fait huit jours de nourriture, à une demi-livre par personne.
+
+Robert Kurtis nous a fait connaître toute la situation. On l\'a écouté en silence. En silence aussi s\'est écoulée cette journée du 22 novembre. Chacun s\'est replié en lui-même, mais il est évident que les mêmes pensées naissent dans l\'esprit de tous. Il me semble que l\'on se regarde avec des yeux différents et que le spectre de la faim apparaît déjà. Jusqu\'ici, nous n\'avons pas encore été absolument privés de boire et de manger. Mais, maintenant, la ration d\'eau va être nécessairement réduite, et quant à la ration de biscuit... !
+
+A un certain moment, je me suis approché du groupe des matelots, étendus à l\'avant, et j\'ai entendu Flaypol dire d\'un ton ironique :
+
+« Ceux qui doivent mourir feraient bien de mourir tout de suite.
+
+--- Oui, répond Owen ! Au moins, ils laisseraient leur part aux autres ! »
+
+La journée s\'est passée dans un abattement général. Chacun a reçu sa demi-livre de biscuit réglementaire. Les uns l\'ont dévorée immédiatement avec une sorte de rage, les autres l\'ont prudemment ménagée. Il me semble que l\'ingénieur Falsten a divisé sa ration en autant de parts qu\'il fait habituellement de repas par jour.
+
+Si un seul doit survivre, Falsten sera celui-là.

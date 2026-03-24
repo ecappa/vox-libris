@@ -1,0 +1,207 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NOUVEAUX CONTES A NINON",
+  "slug": "nouveaux-contes-a-ninon",
+  "nombre_chapitres": 13,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1085,
+      "spine_end_exclusive": 1086,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_095.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 1086,
+      "spine_end_exclusive": 1087,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_096.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Un bain",
+      "slug": "un-bain",
+      "spine_start": 1087,
+      "spine_end_exclusive": 1094,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_097.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_098.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_099.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_100.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_101.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_102.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_103.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les fraises",
+      "slug": "les-fraises",
+      "spine_start": 1094,
+      "spine_end_exclusive": 1100,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_104.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_105.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_106.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_107.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_108.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_109.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le grand Michu",
+      "slug": "le-grand-michu",
+      "spine_start": 1100,
+      "spine_end_exclusive": 1107,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_110.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_111.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_112.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_113.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_114.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_115.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_116.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le jeûne",
+      "slug": "le-jeune",
+      "spine_start": 1107,
+      "spine_end_exclusive": 1114,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_117.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_118.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_119.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_120.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_121.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_122.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_123.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les épaules de la marquise",
+      "slug": "les-epaules-de-la-marquise",
+      "spine_start": 1114,
+      "spine_end_exclusive": 1119,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_124.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_125.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_126.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_127.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Mon voisin Jacques",
+      "slug": "mon-voisin-jacques",
+      "spine_start": 1119,
+      "spine_end_exclusive": 1125,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_129.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_130.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_131.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_132.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_133.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_134.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le paradis des chats",
+      "slug": "le-paradis-des-chats",
+      "spine_start": 1125,
+      "spine_end_exclusive": 1132,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_135.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_136.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_137.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_138.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_139.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_140.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_141.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lili",
+      "slug": "lili",
+      "spine_start": 1132,
+      "spine_end_exclusive": 1136,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_142.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_143.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_144.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_145.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La légende du Petit Manteau bleu de l’amour",
+      "slug": "la-legende-du-petit-manteau-bleu-de-lamour",
+      "spine_start": 1136,
+      "spine_end_exclusive": 1141,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_146.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_147.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_148.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_149.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_150.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le forgeron",
+      "slug": "le-forgeron",
+      "spine_start": 1141,
+      "spine_end_exclusive": 1142,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_151.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le chômage",
+      "slug": "le-chomage",
+      "spine_start": 1142,
+      "spine_end_exclusive": 1147,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_152.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_153.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_154.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_155.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_156.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le petit village",
+      "slug": "le-petit-village",
+      "spine_start": 1147,
+      "spine_end_exclusive": 1153,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_157.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_158.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_159.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_160.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_161.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_162.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nouveaux-contes-a-ninon/Zola4_image011.jpg"
+  ]
+}

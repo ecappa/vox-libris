@@ -1,0 +1,164 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE RÊVE",
+  "slug": "le-reve",
+  "nombre_chapitres": 14,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 377,
+      "spine_end_exclusive": 378,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_376.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 378,
+      "spine_end_exclusive": 379,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_377.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 379,
+      "spine_end_exclusive": 380,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_378.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 380,
+      "spine_end_exclusive": 381,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_379.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 381,
+      "spine_end_exclusive": 382,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_380.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 382,
+      "spine_end_exclusive": 383,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_381.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 383,
+      "spine_end_exclusive": 384,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_382.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 384,
+      "spine_end_exclusive": 385,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_383.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 385,
+      "spine_end_exclusive": 386,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_384.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 386,
+      "spine_end_exclusive": 387,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_385.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 387,
+      "spine_end_exclusive": 388,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_386.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 388,
+      "spine_end_exclusive": 389,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_387.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 389,
+      "spine_end_exclusive": 390,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_388.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 390,
+      "spine_end_exclusive": 391,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_389.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 391,
+      "spine_end_exclusive": 393,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_390.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_391.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-reve/Zola1_image032.jpg"
+  ]
+}

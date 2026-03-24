@@ -1,0 +1,128 @@
+### []{#_Toc343185877 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183416 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178494 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176033 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173572 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171111 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166189 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163728 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161267 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158806 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149536 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147075 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144612 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142151 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139690 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137228 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134767 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132306 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129844 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127383 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124919 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122458 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119997 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117543 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115080 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112619 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110158 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106414 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103952 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101489 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099064 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096595 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094133 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091655 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089192 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086730 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084267 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081805 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079344 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076881 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074418 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071952 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043992 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039096 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036731 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034366 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032001 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028445 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026080 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023715 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021349 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018983 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016618 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014253 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011886 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009521 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007156 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004791 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002426 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000061 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997696 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995331 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992966 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990601 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988236 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985869 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983504 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981139 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978774 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 7 -- À la dérive]{.pcalibre lang="X-NONE"}]{#_Toc342942793 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7-à-la-dérive .calibre171 .sigil_not_in_toc}
+
+Le lendemain, le 12 juin, à huit heures du matin, le capitaine Pip descendit du banc de quart où il avait passé la nuit, et rendit visite à Mr. Bishop et au chauffeur atteint. Les deux blessés allaient mieux. Rassuré de ce côté, le capitaine entra dans sa cabine, et, d\'une main calme, écrivit sur le livre de bord : « Ce 11 juin. Appareillé à dix heures du matin. Quitté Orotava de Ténériffe (Canaries) à destination de Londres (Angleterre). Modifié la route directe selon les instructions de l\'armateur. Cap à l\'ouest. À midi, doublé la pointe Teno. Pris connaissance de l\'île de Gomère. Fait route au sud. À une heure et demie, fait route au sud-ouest ; laissé Gomère à tribord. À cinq heures, longé la côte de l\'île de Fer. Route au sud un quart ouest. À six heures et demie, doublé la pointe Restinga de l\'île de Fer (Canaries). Fait dîner l\'équipage. À sept heures, dîner du carré. À huit heures, par le travers du port Naos, à cinq milles de la côte, la chaudière a cédé à trois pouces au-dessus du fond, occasionnant l\'extinction des feux. Mr. Bishop, premier maître mécanicien, brûlé à la figure et à la poitrine en remontant un chauffeur évanoui et grièvement blessé. Déclare l\'accident irréparable. Largué toute la toile, route au plus près tribord amures, par alizés du nord-est. Fait signaux réglementaires. À huit heures et demie, viré de bord. La nuit venant, lancé fusées sans résultat. À neuf heures, viré de bord. À minuit, viré de bord.
+
+« Ce 12 juin. À deux heures, viré de bord. À quatre heures, viré de bord. Au jour levant, aperçu l\'île de Fer à vingt milles environ dans le nord. Mis pavillon en berne. Sondé sans rencontrer le fond. Continuons à dériver, drossés par alizés du nord-est. À neuf heures, me trouvant à environ trente milles de l\'île de Fer, laissé porter. Mis cap au sud un quart ouest, faisant route bâbord amures pour les îles du Cap-Vert. »
+
+Ayant apposé le point final, le capitaine s\'étendit sur son lit, et s\'endormit paisiblement.
+
+Par malheur, tous les passagers du Seamew ne possédaient pas cette force d\'âme qui permettait au brave capitaine Pip de relater en termes si brefs et si simples d\'aussi singuliers événements. La veille au soir, il s\'en était fallu de peu qu\'une panique se déclarât et que les embarcations fussent prises d\'assaut, comme si un naufrage eût été imminent. Tout s\'était calmé néanmoins, grâce au sang-froid du commandant, en qui l\'on avait instinctivement une universelle confiance.
+
+Toutefois, pendant une partie de la nuit, la plupart des passagers étaient demeurés sur le spardeck, commentant les circonstances de l\'accident, en discutant les conséquences probables. Dans ces groupes, Thompson n\'était certes pas en odeur de sainteté. Ainsi donc, non seulement il avait attaqué ses souscripteurs dans leur bourse, mais encore il mettait leur vie même en danger.
+
+Avec une inexcusable inconscience, il les avait économiquement entassés -- les paroles de Mr. Bishop étaient écrasantes à cet égard -- sur un vieux navire presque hors de service qui se déclarait fourbu avant la fin du parcours. On s\'expliquait maintenant les rabais successifs consentis par l\'agence, et auxquels tant de gogos s\'étaient sottement laissé prendre.
+
+Voilà un incident que Baker pouvait noter sur son carnet. Nul doute qu\'il ne lui valût une solide indemnité, s\'il était jamais en mesure de faire appel aux juges de l\'Angleterre.
+
+Pour le moment, en effet, ils étaient loin, ces juges, et l\'océan, insensible aux arguments les mieux déduits, entourait de tous côtés le bâtiment désemparé. Qu\'allait-on devenir ? Vers quel point des mers serait entraîné ce steamer désarmé, ce navire à la dérive ?
+
+Cependant, quand on vit le capitaine Pip à son banc de quart commander la manoeuvre avec calme, quand, toutes voiles dehors, le Seamew eut repris de l\'erre et mit le cap sur la côte méridionale de l\'île de Fer, disparue dans la nuit, on commença à se rassurer. Le lendemain sans doute, on serait à l\'abri dans une crique de la falaise, et les touristes pourraient s\'embarquer sur un des paquebots réguliers.
+
+Peu à peu, le spardeck se vida. Tout dormait à l\'arrière du Seamew, lorsque le timonier piqua minuit.
+
+D\'un sommeil agité toutefois, et, dès la pointe du jour, les passagers reparurent sur le pont au grand complet. Quel ne fut pas leur désappointement en apercevant à près de vingt milles dans le nord le rivage de l\'île de Fer où ils avaient pensé atterrir !
+
+Il ne fallut rien de moins que le spectacle du capitaine Pip, continuant, comme si de rien n\'était, son éternelle promenade sur la passerelle, pour leur rendre un peu de courage. Mais ils furent repris de leurs angoisses en voyant la terre continuer à s\'éloigner davantage à mesure que le temps s\'écoulait.
+
+On se demandait ce que cela voulait dire. Ce fut un soulagement quand le capitaine fit prier les passagers de se réunir dans le grand salon pour entendre une communication.
+
+En un clin d\'oeil, le salon fut plein, bourdonnant de conversations animées qui s\'apaisèrent subitement à l\'entrée du capitaine.
+
+En quelques mots, celui-ci exposa clairement la situation.
+
+Le Seamew, désemparé de sa machine, ne pouvait plus compter que sur ses voiles. Mais un steamer n\'est pas mâté pour ce genre de navigation. Il ne peut offrir au vent qu\'une insuffisante surface de toile. En outre, les formes de sa carène ne sont pas propices à toutes les allures. Alors qu\'un voilier, au plus près, gagnerait aisément « dans le vent », un steamer dérive par suite du moindre creux de sa coque, et marche presque autant du travers que de l\'avant.
+
+Le capitaine, bien que sans illusions, avait cependant tenté cette allure, qui pouvait seule le rapprocher de l\'archipel des Canaries. Toute la nuit, on avait louvoyé, en s\'efforçant de gagner du terrain contre les alizés du nord-est. Conformément à ses prévisions, le navire avait beaucoup dérivé, et d\'autant plus qu\'il était en même temps drossé par un courant d\'environ deux noeuds à l\'heure, qui, branche détachée du Gulf Stream, suit du nord au sud la côte occidentale de l\'Afrique.
+
+Dans ces conditions, il aurait été insensé de s\'obstiner. Mieux valait profiter du courant et du vent pour gagner le plus rapidement possible un port de secours.
+
+Deux destinations dès lors s\'offraient à lui : les possessions françaises du Sénégal ou les îles du Cap-Vert. Le capitaine avait choisi ces dernières. Ainsi qu\'il l\'expliqua à son auditoire, la distance était la même, et il évitait ainsi la côte d\'Afrique dont il redoutait l\'approche avec un bâtiment disposant d\'aussi faibles moyens d\'action.
+
+D\'ailleurs, il n\'y avait pas lieu de s\'inquiéter. La brise était belle et, dans cette région des alizés, on devait considérer comme très probable qu\'elle se maintiendrait ainsi. Il ne s\'agissait donc en somme que d\'une prolongation du voyage ; sans que les risques en fussent notablement accrus.
+
+Son speech terminé, le capitaine salua, puis, ayant manoeuvré de façon à mettre le bâtiment dans sa nouvelle route, il regagna sa chambre et, avant de s\'endormir, fit dans le journal du bord la narration obligatoire des événements qui venaient de se dérouler.
+
+Quant aux passagers, il les avait laissés véritablement accablés. Un grand silence emplissait le salon tout à l\'heure si bruyant.
+
+En même temps que ses administrés, Thompson avait reçu la communication du commandant. Certes, tout ce qui arrivait arrivait par la faute du coupable administrateur général. Nul n\'hésitait à ce sujet. Pourtant, il avait l\'air si malheureux, si totalement anéanti, que personne n\'eut le coeur de lui faire le moindre reproche. Qu\'était-il maintenant, sinon un naufragé comme les autres ?
+
+C\'est au milieu de ce profond silence qu\'éclata soudain un rire joyeux. Tous relevèrent le front et considérèrent avec étonnement Roger de Sorgues, propriétaire de cette intempestive gaieté. Celui-ci s\'amusait sincèrement de ces renaissantes péripéties, et il ne s\'aperçut même pas de la surprise de ses compagnons.
+
+« Bon Dieu ! Mon cher monsieur, dit-il en frappant avec une sorte d\'amitié l\'épaule de Thompson, quels drôles de voyages on fait dans les agences anglaises ! Partir pour les Canaries sur un navire à vapeur, et aborder aux îles du Cap-Vert sur un navire à voiles, voilà une bonne blague, s\'il en est au monde ! »
+
+Et Roger, communiquant son irrésistible gaieté aux deux passagères américaines, remonta avec elles sur le spardeck, tandis que, dans le salon, les langues commençaient à se délier. Son rire avait détendu les nerfs. Mieux que les plus énergiques exhortations, mieux que les plus sages conseils, il avait raffermi les courages. On en vint à envisager d\'un coeur plus léger cette traversée supplémentaire, sans toutefois arriver jusqu\'à l\'optimisme du joyeux officier français.
+
+Il faut avouer que la situation justifiait largement ce reste d\'inquiétude. Ce n\'était pas une simple promenade que le Seamew entreprenait là. Entre l\'île de Fer et la première île du Cap-Vert, une étendue d\'environ sept cent vingt milles marins lui restait à franchir. À la vitesse de cinq noeuds que lui donnaient ensemble le courant et sa voilure réduite, ces sept cent vingt milles exigeraient au moins huit jours de navigation. Et, en huit jours, que ne peut-il survenir dans le capricieux empire de Neptune !
+
+Toutefois, comme le désespoir n\'eût été d\'aucun secours, on se résigna. Peu à peu, le bord retrouva son habituelle physionomie, et la vie reprit son cours, dont les repas venaient à heure fixe couper la monotonie.
+
+Cette question des repas avait acquis une nouvelle importance. Les touristes les multipliaient comme on les multiplie en wagon, plus par désoeuvrement que par appétit. Thompson laissait faire, et même, par une lâcheté dont l\'imprudence allait lui être bientôt démontrée, il favorisait cette distraction, à l\'insu du capitaine Pip, dans le chimérique espoir d\'obtenir son pardon.
+
+Cette distraction, Piperboom -- de Rotterdam -- l\'appréciait tout particulièrement. Incorporé à l\'administrateur général, il avait entendu l\'explosion, écouté la communication du capitaine Pip. Comprenait-il l\'obligation où l\'on se trouvait de modifier la route ? Ses regards, qui, plus d\'une fois, s\'étaient dirigés sur la boussole et sur le soleil, permettaient de le supposer. En tout cas, l\'inquiétude, s\'il en éprouvait, laissait intact son appétit. Il continuait à se montrer grand appréciateur des combinaisons culinaires. Les repas avaient beau se multiplier, se subdiviser en breakfasts, dinners, teas, luncheons, il les honorait tous d\'une manière aussi prodigieuse. Son estomac était décidément insondable.
+
+Symétriquement à ce gouffre, le buveur Johnson nageait dans une béatitude plus complète encore peut-être. Grâce à d\'incessants efforts, il était enfin parvenu au point où l\'ivresse totale va devenir une maladie, et il se maintenait à ce point délicat par de savantes combinaisons. Il avait renoncé à ses brutales promenades sur le spardeck. On ne l\'apercevait plus que de loin en loin. Presque toujours, il dormait maintenant, ne se réveillant que pour boire la quantité juste nécessaire pour se rendormir de nouveau. De l\'accident qui avait transformé le Seamew en voilier, de la nouvelle direction qu\'on avait dû adopter, il ne savait absolument rien. L\'eût-il su d\'ailleurs, qu\'il n\'en eût pas éprouvé la moindre émotion. Pouvait-il, à terre, être plus ivre que sur ce navire bien garni d\'alcools variés, ce qui donnait la sensation délicieuse de demeurer dans un cabaret ?
+
+Mais le plus heureux du bord était comme toujours Mr. Absyrthus Blockhead, cet épicier honoraire auquel la nature avait départi un si heureux caractère. Quand l\'accident se produisit, il venait précisément d\'éprouver une joie très réelle. Pour la première fois depuis plusieurs jours, ses filles et lui avaient pu entrer en relation avec une chaise, sans pousser un cri de douleur. Ils se congratulaient tous les trois de cet agréable changement, quand le sifflement de la vapeur leur fit prématurément quitter une position dont ils avaient un peu perdu l\'habitude.
+
+Certes, Mr. Blockhead plaignit alors les deux blessés qui remontèrent au jour l\'un portant l\'autre, certes il éprouva quelque inquiétude relativement aux suites de l\'événement Mais une sorte de satisfaction vaniteuse de courir un aussi considérable danger se mêla bientôt à son angoisse. Lorsque le capitaine Pip eut définitivement modifié la route, ce fut bien autre chose. L\'idée de visiter un cap vert jeta Mr. Blockhead dans un océan d\'hypothèses.
+
+Jusque-là du moins, il ne marchandait pas au malheur commun le secours de ses lumières. Il s\'emploierait de son mieux à activer la marche réduite du navire. Tout d\'abord, il suggéra au capitaine l\'idée d\'augmenter la voilure en offrant au vent tous les draps et serviettes du Seamew. Cette proposition n\'ayant eu aucun succès, Mr. Blockhead ne se tint pas pour battu et mit personnellement ses théories en pratique.
+
+Du matin au soir, on pouvait le voir, assis à l\'arrière avec sa femme, son fils et ses filles, tous les cinq déployant patiemment à la brise leurs mouchoirs comme de petites voiles. Puis, quand ils étaient fatigués de cet exercice monotone, ils se levaient et, s\'alignant en un rang bien correct, ils soufflaient à perdre haleine dans la voilure du Seamew.
+
+Si Mr. Blockhead avait possédé les connaissances d\'Archimède, il aurait su que, pour agir utilement sur un corps quelconque, il faut disposer d\'un point d\'appui extérieur à ce corps. Mais Mr. Blockhead n\'était pas Archimède et il ne mettait pas en doute que le voyage ne fût sensiblement abrégé par ces efforts méritoires, qui faisaient la joie de ses compagnons de route.
+
+Fut-ce à force de se gonfler ainsi les joues, fut-ce par toute autre cause, le certain est que le troisième jour une rage de dents terrible contraignit Mr. Blockhead à cesser cette déloyale concurrence à Borée. En moins de deux heures, sa joue droite enfla d\'une manière surprenante, donnant à son propriétaire le plus bizarre aspect du monde. Grâce à cette fluxion extraordinaire, Mr. Blockhead demeura la gaieté du bord, et ses compagnons, privés du spectacle de ses expériences nautiques, changèrent simplement de plaisir.
+
+Mais comment se faisait-il que Miss Mary et Miss Bess présentassent leur concours à leur honorable père ? Oubliaient-elles donc leur devoir ? Avaient-elles renoncé à arracher Tigg à la mort ?
+
+Oui, il faut avouer qu\'elles y avaient en effet renoncé.
+
+Ah ! Ce n\'est pas sans douleur et sans lutte que ces deux anges de la charité avaient répudié la mission que leur amour du prochain leur avait imposée ! Malheureusement, il leur avait fallu reconnaître qu\'une nouvelle gardienne s\'était définitivement chargée de retenir sur la terre cette âme prête à s\'envoler. Que s\'était-il passé lors de cette ascension du Teyde, à laquelle un cruel lumbago les avait empêchées de prendre part ? Miss Mary et Miss Bess l\'ignoraient, mais elles avaient pu constater les résultats de cette promenade. Depuis lors, Miss Margaret Hamilton tenait décidément la corde, et, après bien des vaines tentatives, les deux aimables soeurs avaient dû se déclarer vaincues.
+
+Toutefois, elles ne se désintéressaient pas du désespéré sur lequel elles avaient inutilement fait pleuvoir la manne de leur dévouement, et elles pronostiquaient que Tigg, privé de leur secours, allait être la proie des plus cruels événements.
+
+« Vous le verrez, ma chère, disait Miss Mary d\'un air sombre, il lui arrivera malheur ! -- Il se tuera, ma chère », affirmait Miss Bess en frissonnant.
+
+La réalisation de cette lugubre prophétie ne semblait pas du moins devoir être prochaine. Pour le moment, Tigg, adopté par la famille Hamilton, faisait montre de la plus honteuse ingratitude envers ses deux anges gardiens, et Miss Margaret Hamilton ne semblait pas autrement fâchée de la faiblesse de sa mémoire.
+
+Le père de celle-ci était moins satisfait. Quelque chose manquait à l\'équilibre de sa vie. Depuis que le Seamew s\'était mis si complètement hors du programme du voyage, il n\'y avait plus de réclamations possibles, et cette situation pesait à l\'aimable baronnet.
+
+Il s\'en était vainement ouvert à Baker. Ce dernier, ayant brûlé ses vaisseaux, ne pouvait rien de plus. Les deux conspirateurs en étaient réduits à ressasser leurs vieilles rancunes, jusqu\'au jour encore lointain où, de retour à Londres, il leur serait possible d\'entamer de vengeresses instances, pour lesquelles ils trouveraient, sans nul doute, de nombreux alliés parmi les passagers si fortement étrillés.
+
+En attendant, le temps coulait, et la résignation faisait place par degrés à une morne tristesse. À mesure que la traversée se prolongeait, l\'inquiétude peu à peu renaissait.
+
+Il ne manquait cependant pas, à bord, de ces heureuses natures dont rien ne saurait abattre la robuste et virile gaieté, ni de ces caractères bien trempés qu\'aucun danger ne saurait ébranler. Roger et Dolly n\'étaient-ils pas des premiers ? Alice et Robert n\'auraient-ils pu être classés parmi les seconds ?
+
+Mais, sur ceux-là aussi, il semblait qu\'une fatalité se fût abattue, et la sourde tristesse du quatuor ressortait même au milieu de la tristesse générale.
+
+Entre Alice et Robert grandissait de jour en jour un malentendu qui n\'était pas près de s\'éclaircir, puisque ni l\'un ni l\'autre ne voulait parler. Robert, bâillonné par une excessive fierté, n\'avait rien fait pour approfondir le sujet effleuré au sommet du Teyde, et Alice, jugeant qu\'elle en avait assez dit, se refusait à en dire davantage. Tous deux, ils supposaient avoir mal compris l\'autre, et, par orgueil, ils demeuraient enfermés dans une situation douloureuse et sans issue.
+
+Leurs rapports se ressentaient du malaise de leurs âmes, Robert, traduisant volontairement à la lettre les reproches qu\'Alice lui avait faits, la quittait peu. Par contre, il évitait de rester avec elle en tête à tête, et si Roger s\'éloignait, il ne tardait pas à en faire autant, sans qu\'Alice fît un geste pour le retenir.
+
+Roger voyait cette froideur et en souffrait, malgré son amour personnel qui, de jour en jour, s\'épanouissait davantage dans la clarté et la santé, et sa gaieté naturelle en était assombrie.
+
+Ces quatre personnages qui, chacun à sa manière, auraient dû apporter à leurs compagnons un précieux secours moral, étaient au contraire les plus malheureux de tous.
+
+Pas tout à fait pourtant. À Thompson appartenait cette suprématie. On a beau être inconscient et léger, il est toutefois des circonstances dont la gravité ne peut laisser indifférent. Or, Thompson se trouvait dans une de celles-ci. Combien de temps serait-on retenu aux îles du Cap-Vert ? Combien de temps exigeraient les réparations de cette machine maudite ? Pendant cette relâche imprévue, le soin lui incomberait de nourrir et d\'héberger passagers et équipage, près de cent personnes au total. C\'était un désastre, la ruine de ses espérances, une perte énorme au lieu du bénéfice espéré.
+
+Et tout cela, sans compter les procès qu\'il lui faudrait subir au retour. Ce n\'était plus une plaisanterie de Baker. Cet accident qui compromettait la vie de ses passagers, ce retard considérable qui compromettait leurs intérêts, tout cela fournirait à ses ennemis une base solide. Thompson voyait déjà passer devant lui le spectre de la faillite.
+
+Cependant, si rien n\'était à tenter contre les faits accomplis, ne pouvait-il du moins améliorer l\'avenir ? Ne pouvait-il, en amadouant ses passagers, éviter au moins quelques-unes des réclamations redoutées ?
+
+Mais cet espoir se brisait contre la tristesse du bord. Ces mécontents seraient des révoltés, quand ils se retrouveraient en sûreté sur la terre ferme. Pour les dérider, Thompson essaya vainement de tout. Il invita Robert à faire une conférence. Personne ne vint. Il organisa un véritable bal, avec gâteaux et champagne. Le piano se trouva faux, et une violente dispute s\'éleva entre ceux qui voulaient dormir et ceux qui voulaient danser.
+
+Thompson y renonçait, lorsqu\'une nouvelle épreuve acheva de l\'abattre.
+
+Le navire qui, en quittant Ténériffe, devait se rendre à Londres à la vapeur, et non aux îles du Cap-Vert à la voile, n\'avait embarqué que pour sept jours de vivres. Personne n\'y songeait, et Thompson fut saisi d\'un affreux désespoir quand, le 17 juin, à dix heures du matin, Mr. Roastbeaf vint lui annoncer que, si le régime n\'était pas modifié, il n\'y aurait plus le soir même un seul morceau de pain à bord du Seamew.
+
+
+]{.calibre20}
+
+
+L\'AGENCE THOMSON AND CO
+
+Deuxième partie
+
+
+]{.calibre20}

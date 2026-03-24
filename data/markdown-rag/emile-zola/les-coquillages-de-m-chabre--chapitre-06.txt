@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LES COQUILLAGES DE M. CHABRE"
+slug_oeuvre: "les-coquillages-de-m-chabre"
+section: "Chapitre 06"
+slug_section: "chapitre-06"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LES COQUILLAGES DE M. CHABRE
+
+[Liste des contes et nouvelles
+
+!
+
+## VI
+Neuf mois après son retour à Paris, la belle Mme Chabre accouchait d'un garçon. M. Chabre, enchanté, prenait à part le docteur Guiraud, et lui répétait avec orgueil :
+
+« Ce sont les arapèdes, j'en mettrais la main au feu !... Oui, tout un panier d'arapèdes que j'ai mangés un soir, oh ! Dans une circonstance bien curieuse... N'importe, docteur, jamais je n'aurais pensé que les coquillages eussent une pareille vertu. »
+
+FIN des COQUILLAGES DE M. CHABRE
+
+Liste des contes et nouvelles[

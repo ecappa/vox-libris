@@ -1,0 +1,110 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LA DESTINÉE DE JEAN MORÉNAS",
+  "slug": "la-destinee-de-jean-morenas",
+  "nombre_chapitres": 9,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 2201,
+      "spine_end_exclusive": 2202,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_176.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 2202,
+      "spine_end_exclusive": 2203,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_177.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 2203,
+      "spine_end_exclusive": 2204,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_178.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 2204,
+      "spine_end_exclusive": 2205,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_179.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 2205,
+      "spine_end_exclusive": 2206,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_180.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 2206,
+      "spine_end_exclusive": 2207,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_181.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 2207,
+      "spine_end_exclusive": 2208,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_182.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 2208,
+      "spine_end_exclusive": 2209,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_183.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 2209,
+      "spine_end_exclusive": 2210,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_184.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

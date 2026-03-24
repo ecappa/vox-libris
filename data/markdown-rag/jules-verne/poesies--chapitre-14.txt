@@ -1,0 +1,35 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 14"
+slug_section: "chapitre-14"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 14 -- La Vapeur
+*Sonnet.*
+
+Maintenant la vapeur est à l'ordre du jour.
+Tout marche par son aide ! Est-ce un bien pour le monde ?
+Pour bien choisir sur terre où toute chose abonde,
+Faut-il donc se hâter, lorsqu'on en fait le tour.
+On vole désormais sur la terre et sur l'onde ;
+On fait sans y penser l'aller et le retour ;
+On singe le soleil qui, lorsqu'il fait sa ronde,
+Mesure en une nuit le céleste séjour.
+Ce ne peut être un bien que dans ces temps de guerre,
+Où sont anéantis ces hommes qui naguère
+Marchaient contre la mort sans reproche et sans peur,
+Si trompant l'ennemi par sa subtile ruse,
+Refaisant des guerriers autant que l'on en use,
+L'amour toutes les nuits marchait à la vapeur !

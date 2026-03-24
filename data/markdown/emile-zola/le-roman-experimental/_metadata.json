@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE ROMAN EXPÉRIMENTAL",
+  "slug": "le-roman-experimental",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1398,
+      "spine_end_exclusive": 1399,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_098.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Introduction",
+      "slug": "introduction",
+      "spine_start": 1399,
+      "spine_end_exclusive": 1400,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_099.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1400,
+      "spine_end_exclusive": 1401,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_100.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1401,
+      "spine_end_exclusive": 1402,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_101.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1402,
+      "spine_end_exclusive": 1403,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_102.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1403,
+      "spine_end_exclusive": 1404,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_103.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1404,
+      "spine_end_exclusive": 1406,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_104.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_105.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-roman-experimental/Zola5_image030.jpg"
+  ]
+}

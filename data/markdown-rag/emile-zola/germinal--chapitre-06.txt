@@ -1,0 +1,755 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "GERMINAL"
+slug_oeuvre: "germinal"
+section: "Chapitre 06"
+slug_section: "chapitre-06"
+type: "chapitre"
+---
+
+GERMINAL
+
+## Sixième partie
+GERMINAL
+
+Sixième partie
+
+### I
+La première quinzaine de février s'écoula encore, un froid noir prolongeait le dur hiver, sans pitié des misérables. De nouveau, les autorités avaient battu les routes : le préfet de Lille, un procureur, un général. Et les gendarmes n'avaient pas suffi, de la troupe était venue occuper Montsou, tout un régiment, dont les hommes campaient de Beaugnies à Marchiennes. Des postes armés gardaient les puits, il y avait des soldats devant chaque machine. L'hôtel du directeur, les Chantiers de la Compagnie, jusqu'aux maisons de certains bourgeois, s'étaient hérissés de baïonnettes. On n'entendait plus, le long du pavé, que le passage lent des patrouilles. Sur le terri du Voreux, continuellement, une sentinelle restait plantée, comme une vigie au-dessus de la plaine rase, dans le coup de vent glacé qui soufflait là-haut ; et, toutes les deux heures, ainsi qu'en pays ennemi, retentissaient les cris de faction.
+
+« Qui vive ?... Avancez au mot de ralliement ! »
+
+Le travail n'avait repris nulle part. Au contraire, la grève s'était aggravée : Crèvecœur, Mirou, Madeleine arrêtaient l'extraction, comme le Voreux ; Feutry-Cantel et la Victoire perdaient de leur monde chaque matin ; à Saint-Thomas, jusque-là indemne, des hommes manquaient. C'était maintenant une obstination muette, en face de ce déploiement de force, dont s'exaspérait l'orgueil des mineurs. Les corons semblaient déserts, au milieu des champs de betteraves. Pas un ouvrier ne bougeait, à peine en rencontrait-on un par hasard, isolé, le regard oblique, baissant la tête devant les pantalons rouges. Et, sous cette grande paix morne, dans cet entêtement passif, se butant contre les fusils, il y avait la douceur menteuse, l'obéissance forcée et patiente des fauves en cage, les yeux sur le dompteur, prêts à lui manger la nuque, s'il tournait le dos. La Compagnie, que cette mort du travail ruinait, parlait d'embaucher des mineurs du Borinage, à la frontière belge ; mais elle n'osait point ; de sorte que la bataille en restait là, entre les charbonniers qui s'enfermaient chez eux, et les fosses mortes, gardées par la troupe.
+
+Dès le lendemain de la journée terrible, cette paix s'était produite, d'un coup, cachant une panique telle, qu'on faisait le plus de silence possible sur les dégâts et les atrocités. L'enquête ouverte établissait que Maigrat était mort de sa chute, et l'affreuse mutilation du cadavre demeurait vague, entourée déjà d'une légende. De son côté, la Compagnie n'avouait pas les dommages soufferts, pas plus que les Grégoire ne se souciaient de compromettre leur fille dans le scandale d'un procès, où elle devrait témoigner. Cependant, quelques arrestations avaient eu lieu, des comparses comme toujours, imbéciles et ahuris, ne sachant rien. Par erreur, Pierron était allé, les menottes aux poignets, jusqu'à Marchiennes, ce dont les camarades riaient encore. Rasseneur, également, avait failli être emmené entre deux gendarmes. On se contentait, à la Direction, de dresser des listes de renvoi, on rendait les livrets en masse : Maheu avait reçu le sien. Levaque aussi, de même que trente-quatre de leurs camarades, au seul coron des Deux-Cent-Quarante. Et toute la sévérité retombait sur Étienne, disparu depuis le soir de la bagarre, et qu'on cherchait, sans pouvoir retrouver sa trace. Chaval, dans sa haine, l'avait dénoncé, en refusant de nommer les autres, supplié par Catherine qui voulait sauver ses parents. Les jours se passaient, on sentait que rien n'était fini, on attendait la fin, la poitrine oppressée d'un malaise.
+
+À Montsou, dès lors, les bourgeois s'éveillèrent en sursaut chaque nuit, les oreilles bourdonnantes d'un tocsin imaginaire, les narines hantées d'une puanteur de poudre. Mais ce qui acheva de leur fêler le crâne, ce fut un prône de leur nouveau curé, l'abbé Ranvier, ce prêtre maigre aux yeux de braise rouge, qui succédait à l'abbé Joire. Comme on était loin de la discrétion souriante de celui-ci, de son unique soin d'homme gras et doux à vivre en paix avec tout le monde ! Est-ce que l'abbé Ranvier ne s'était pas permis de prendre la défense des abominables brigands en train de déshonorer la région ? Il trouvait des excuses aux scélératesses des grévistes, il attaquait violemment la bourgeoisie, sur laquelle il rejetait toutes les responsabilités. C'était la bourgeoisie qui, en dépossédant l'Église de ses libertés antiques pour en mésuser elle-même, avait fait de ce monde un lieu maudit d'injustice et de souffrance ; c'était elle qui prolongeait les malentendus, qui poussait à une catastrophe effroyable, par son athéisme, par son refus d'en revenir aux croyances, aux traditions fraternelles des premiers chrétiens. Et il avait osé menacer les riches, il les avait avertis que, s'ils s'entêtaient davantage à ne pas écouter la voix de Dieu, sûrement Dieu se mettrait du côté des pauvres : il reprendrait leurs fortunes aux jouisseurs incrédules, il les distribuerait aux humbles de la terre, pour le triomphe de sa gloire. Les dévotes en tremblaient, le notaire déclarait qu'il y avait là du pire socialisme, tous voyaient le curé à la tête d'une bande, brandissant une croix, démolissant la société bourgeoise de 89, à grands coups.
+
+M. Hennebeau, averti, se contenta de dire, avec un haussement d'épaules :
+
+« S'il nous ennuie trop, l'évêque nous en débarrassera. »
+
+Et, pendant que la panique soufflait ainsi d'un bout à l'autre de la plaine, Étienne habitait sous terre, au fond de Réquillart, le terrier danlin. C'était là qu'il se cachait, personne ne le croyait si proche, l'audace tranquille de ce refuge, dans la mine même, dans cette voie abandonnée du vieux puits, avait déjoué les recherches. En haut, les prunelliers et les aubépines, poussés parmi les charpentes abattues du beffroi, bouchaient le trou ; on ne s'y risquait plus, il fallait connaître la manœuvre, se pendre aux racines du sorbier, se laisser tomber sans peur, pour atteindre les échelons solides encore ; et d'autres obstacles le protégeaient, la chaleur suffocante du goyot, cent vingt mètres d'une descente dangereuse, puis le pénible glissement à plat ventre, d'un quart de lieue, entre les parois resserrées de la galerie, avant de découvrir la caverne scélérate, emplie de rapines. Il y vivait au milieu de l'abondance, il y avait trouvé du genièvre, le reste de la morue sèche, des provisions de toutes sortes. Le grand lit de foin était excellent, on ne sentait pas un courant d'air, dans cette température égale, d'une tiédeur de bain. Seule, la lumière menaçait de manquer. Jeanlin qui s'était fait son pourvoyeur, avec une prudence et une discrétion de sauvage ravi de se moquer des gendarmes, lui apportait jusqu'à de la pommade, mais ne pouvait arriver à mettre la main sur un paquet de chandelles.
+
+Dès le cinquième jour, Étienne n'alluma plus que pour manger. Les morceaux ne passaient pas, lorsqu'il les avalait dans la nuit. Cette nuit interminable, complète, toujours du même noir, était sa grande souffrance. Il avait beau dormir en sûreté, être pourvu de pain, avoir chaud, jamais la nuit n'avait pesé si lourdement à son crâne. Elle lui semblait être comme l'écrasement même de ses pensées. Maintenant, voilà qu'il vivait de vols ! Malgré ses théories communistes, les vieux scrupules d'éducation se soulevaient, il se contentait de pain sec, rognait sa portion. Mais comment faire ? il fallait bien vivre, sa tâche n'était pas remplie. Une autre honte l'accablait, le remords de cette ivresse sauvage, du genièvre bu dans le grand froid, l'estomac vide, et qui l'avait jeté sur Chaval, armé d'un couteau. Cela remuait en lui tout un inconnu d'épouvante, le mal héréditaire, la longue hérédité de soûlerie, ne tolérant plus une goutte d'alcool sans tomber à la fureur homicide. Finirait-il donc en assassin ? Lorsqu'il s'était trouvé à l'abri, dans ce calme profond de la terre, pris d'une satiété de violence, il avait dormi deux jours d'un sommeil de brute, gorgée, assommée ; et l'écœurement persistait, il vivait moulu, la bouche amère, la tête malade, comme à la suite de quelque terrible noce. Une semaine s'écoula ; les Maheu, avertis, ne purent envoyer une chandelle : il fallut renoncer à voir clair, même pour manger.
+
+Maintenant, durant des heures, Étienne demeurait allongé sur son foin. Des idées vagues le travaillaient, qu'il ne croyait pas avoir. C'était une sensation de supériorité qui le mettait à part des camarades, une exaltation de sa personne, à mesure qu'il s'instruisait. Jamais il n'avait tant réfléchi, il se demandait pourquoi son dégoût, le lendemain de la furieuse course au travers des fosses ; et il n'osait se répondre, des souvenirs le répugnaient, la bassesse des convoitises, la grossièreté des instincts, l'odeur de toute cette misère secouée au vent. Malgré le tourment des ténèbres, il en arrivait à redouter l'heure où il rentrerait au coron. Quelle nausée, ces misérables en tas, vivant au baquet commun ! Pas un avec qui causer politique sérieusement, une existence de bétail, toujours le même air empesté d'oignon où l'on étouffait ! Il voulait leur élargir le ciel, les élever au bien-être et aux bonnes manières de la bourgeoisie, en faisant d'eux les maîtres ; mais comme ce serait long ! et il ne se sentait plus le courage d'attendre la victoire, dans ce bagne de la faim. Lentement, sa vanité d'être leur chef, sa préoccupation constante de penser à leur place le dégageaient, lui soufflaient l'âme d'un de ces bourgeois qu'il exécrait.
+
+Jeanlin, un soir, apporta un bout de chandelle, volé dans la lanterne d'un roulier ; et ce fut un grand soulagement pour Étienne. Lorsque les ténèbres finissaient par l'hébéter, par lui peser sur le crâne à le rendre fou, il allumait un instant ; puis, dès qu'il avait chassé le cauchemar, il éteignait, avare de cette clarté nécessaire à sa vie, autant que le pain. Le silence bourdonnait à ses oreilles, il n'entendait que la fuite d'une bande de rats, le craquement des vieux boisages, le petit bruit d'une araignée filant sa toile. Et les yeux ouverts dans ce néant tiède, il retournait à son idée fixe, à ce que les camarades faisaient là-haut. Une défection de sa part lui aurait paru la dernière des lâchetés. S'il se cachait ainsi, c'était pour rester libre, pour conseiller et agir.
+
+Ses longues songeries avaient fixé son ambition : en attendant mieux, il aurait voulu être Pluchart, lâcher le travail, travailler uniquement à la politique, mais seul, dans une chambre propre, sous le prétexte que les travaux de tête absorbent la vie entière et demandent beaucoup de calme.
+
+Souvent, au coude d'un chemin, Étienne s'arrêtait, dans la nuit glacée, pour écouter pleuvoir les décombres. Il respirait fortement les ténèbres, une joie du néant le prenait, un espoir que le jour se lèverait sur l'extermination du vieux monde, plus une fortune debout, le niveau égalitaire passé comme une faux, au ras du sol. Mais les fosses de la Compagnie surtout l'intéressaient, dans ce massacre. Il se remettait en marche, aveuglé d'ombre, il les visitait les unes après les autres, heureux quand il apprenait quelque nouveau dommage. Des éboulements continuaient à se produire, d'une gravité croissante, à mesure que l'abandon des voies se prolongeait. Au-dessus de la galerie nord de Mirou, l'affaissement du sol gagnait tellement, que la route de Joiselle, sur un parcours de cent mètres, s'était engloutie, comme dans la secousse d'un tremblement de terre ; et la Compagnie, sans marchander, payait leurs champs disparus aux propriétaires, inquiète du bruit soulevé autour de ces accidents. Crève-cœur et Madeleine, de roche très ébouleuse, se bouchaient de plus en plus. On parlait de deux porions ensevelis à la Victoire ; un coup d'eau avait inondé Feutry-Cantel ; il faudrait murailler un kilomètre de galerie à Saint-Thomas, où les bois, mal entretenus, cassaient de toutes parts. C'étaient ainsi, d'heure en heure, des frais énormes, des brèches ouvertes dans les dividendes des actionnaires, une rapide destruction des fosses, qui devait finir, à la longue, par manger les fameux deniers de Montsou, centuplés en un siècle.
+
+Alors, devant ces coups répétés, l'espoir renaissait chez Étienne, il finissait par croire qu'un troisième mois de résistance achèverait le monstre, la bête lasse et repue, accroupie là-bas comme une idole, dans l'inconnu de son tabernacle. Il savait qu'à la suite des troubles de Montsou, une vive émotion s'était emparée des journaux de Paris, toute une polémique violente entre les feuilles officieuses et les feuilles de l'opposition, des récits terrifiants que l'on exploitait surtout contre l'Internationale, dont l'Empire prenait peur, après l'avoir encouragée ; et, la Régie n'osant plus faire la sourde oreille, deux des régisseurs avaient daigné venir pour une enquête, mais d'un air de regret, sans paraître s'inquiéter du dénouement, si désintéressés que trois jours après ils étaient repartis, en déclarant que les choses allaient le mieux du monde. Pourtant, on lui affirmait d'autre part que ces messieurs, durant leur séjour, siégeaient en permanence, déployaient une activité fébrile, enfoncés dans des affaires dont personne autour d'eux ne soufflait mot. Et il les accusait de jouer la confiance, il arrivait à traiter leur départ de fuite affolée, certain maintenant du triomphe, puisque ces terribles hommes lâchaient tout.
+
+Le lendemain, heureusement, Jeanlin lui apporta une bonne nouvelle. Au Voreux, le cuvelage du puits menaçait de crever, les eaux filtraient de tous les joints ; et l'on avait dû mettre une équipe de charpentiers à la réparation, en grande hâte.
+
+Jusque-là, Étienne avait évité le Voreux, inquiété par l'éternelle silhouette noire de la sentinelle, plantée sur le terri, au-dessus de la plaine. On ne pouvait l'éviter, elle dominait, elle était, en l'air, comme le drapeau du régiment. Vers trois heures du matin, le ciel devint sombre, il se rendit à la fosse, où des camarades lui expliquèrent le mauvais état du cuvelage : même leur idée était qu'il y avait urgence à le refaire en entier, ce qui aurait arrêté l'extraction pendant trois mois. Longtemps, il rôda écoutant les maillets des charpentiers taper dans le puits. Cela lui réjouissait le cœur, cette plaie qu'il fallait panser.
+
+Au petit jour, lorsqu'il rentra, il retrouva la sentinelle sur le terri. Cette fois, elle le verrait certainement. Il marchait, en songeant à ces soldats, pris dans le peuple, et qu'on armait contre le peuple. Comme le triomphe de la révolution serait devenu facile, si l'armée s'était brusquement déclarée pour elle ! Il suffisait que l'ouvrier, que le paysan, dans les casernes, se souvînt de son origine. C'était le péril suprême, la grande épouvante, dont les dents des bourgeois claquaient, quand ils pensaient à une défection possible des troupes. En deux heures, ils seraient balayés, exterminés, avec les jouissances et les abominations de leur vie inique. Déjà, l'on disait que des régiments entiers se trouvaient infectés de socialisme. Était-ce vrai ? la justice allait-elle venir, grâce aux cartouches distribuées par la bourgeoisie ? Et, sautant à un autre espoir, le jeune homme rêvait que le régiment dont les postes gardaient les fosses, passait à la grève, fusillait la Compagnie en bloc et donnait enfin la mine aux mineurs.
+
+Il s'aperçut alors qu'il montait sur le terri, la tête bourdonnante de ces réflexions. Pourquoi ne causerait-il pas avec ce soldat ? Il saurait la couleur de ses idées. D'un air indifférent, il continuait de s'approcher, comme s'il eût glané les vieux bois, restés dans les déblais. La sentinelle demeurait immobile.
+
+« Hein ? camarade, un fichu temps ! dit enfin Étienne. Je crois que nous allons avoir de la neige. »
+
+C'était un petit soldat, très blond, avec une douce figure pâle, criblée de taches de rousseur. Il avait, dans sa capote, l'embarras d'une recrue.
+
+« Oui, tout de même, je crois », murmura-t-il.
+
+Et, de ses yeux bleus, il regardait longuement le ciel livide, cette aube enfumée, dont la suie pesait comme du plomb, au loin, sur la plaine.
+
+« Qu'ils sont bêtes, de vous planter là, à vous geler les os ! continua Étienne. Si l'on ne dirait pas que l'on attend les Cosaques !... Avec ça, il souffle toujours un vent, ici ! »
+
+Le petit soldat grelottait sans se plaindre. Il y avait bien une cabane en pierres sèches, où le vieux Bonnemort s'abritait, par les nuits d'ouragan ; mais, la consigne étant de ne pas quitter le sommet du terri, le soldat n'en bougeait pas, les mains si raides de froid, qu'il ne sentait plus son arme. Il appartenait au poste de soixante hommes qui gardait le Voreux ; et, comme cette cruelle faction revenait fréquemment, il avait déjà failli y rester, les pieds morts. Le métier voulait ça, une obéissance passive achevait de l'engourdir, il répondait aux questions par des mots bégayés d'enfant qui sommeille.
+
+Vainement, pendant un quart d'heure, Étienne tâcha de le faire parler sur la politique. Il disait oui, il disait non, sans avoir l'air de comprendre ; des camarades racontaient que le capitaine était républicain ; quant à lui, il n'avait pas d'idée, ça lui était égal. Si on lui commandait de tirer, il tirerait, pour n'être pas puni. L'ouvrier l'écoutait, saisi de la haine du peuple contre l'armée, contre ces frères dont on changeait le cœur, en leur collant un pantalon rouge au derrière.
+
+« Alors, vous vous nommez ?
+
+--- Jules.
+
+--- Et d'où êtes-vous ?
+
+--- De Plogoff, là-bas. »
+
+Au hasard, il avait allongé le bras. C'était en Bretagne, il n'en savait pas davantage. Sa petite figure pâle s'animait, il se mit à rire, réchauffé.
+
+« J'ai ma mère et ma sœur. Elles m'attendent bien sûr. Ah ! ça ne sera pas pour demain... Quand je suis parti, elles m'ont accompagné jusqu'à Pont-l'Abbé. Nous avions pris le cheval aux Lepalmec, il a failli se casser les jambes en bas de la descente d'Audierne. Le cousin Charles nous attendait avec des saucisses, mais les femmes pleuraient trop, ça nous restait dans la gorge... Ah ! mon Dieu ! ah ! mon Dieu ! comme c'est loin, chez nous ! »
+
+Ses yeux se mouillaient, sans qu'il cessât de rire. La lande déserte de Plogoff, cette sauvage pointe du Raz battue des tempêtes, lui apparaissait dans un éblouissement de soleil, à la saison rose des bruyères.
+
+« Dites donc, demanda-t-il, si je n'ai pas de punitions, est-ce que vous croyez qu'on me donnera une permission d'un mois, dans deux ans ? »
+
+Alors, Étienne parla de la Provence, qu'il avait quittée tout petit. Le jour grandissait, des flocons de neige commençaient à voler dans le ciel terreux. Et il finit par être pris d'inquiétude, en apercevananlin qui rôdait au milieu des ronces, l'air stupéfait de le voir là-haut. D'un geste, l'enfant le hélait. À quoi bon ce rêve de fraterniser avec les soldats ? Il faudrait des années et des années encore, sa tentative inutile le désolait, comme s'il avait compté réussir. Mais, brusquement, il comprit le geste danlin : on venait relever la sentinelle ; et il s'en alla, il rentra en courant se terrer à Réquillart, le cœur crevé une fois de plus par la certitude de la défaite ; pendant que le gamin, galopant près de lui, accusait cette sale rosse de troupier d'avoir appelé le poste pour tirer sur eux.
+
+Au sommet du terri, Jules était resté immobile, les regards perdus dans la neige qui tombait. Le sergent s'approchait avec ses hommes, les cris réglementaires furent échangés.
+
+« Qui vive ?... Avancez au mot de ralliement ! »
+
+Et l'on entendit les pas lourds repartir, sonnant comme en pays conquis. Malgré le jour grandissant, rien ne bougeait dans les corons, les charbonniers se taisaient et s'enrageaient, sous la botte militaire.
+
+GERMINAL
+
+Sixième partie
+
+### II
+Depuis deux jours, la neige tombait ; elle avait cessé le matin, une gelée intense glaçait l'immense nappe ; et ce pays noir, aux routes d'encre, aux murs et aux arbres poudrés des poussières de la houille, était tout blanc, d'une blancheur unique, à l'infini. Sous la neige, le coron des Deux-Cent-Quarante gisait, comme disparu. Pas une fumée ne sortait des toitures. Les maisons sans feu, aussi froides que les pierres des chemins, ne fondaient pas l'épaisse couche des tuiles. Ce n'était plus qu'une carrière de dalles blanches, dans la plaine blanche, une vision de village mort, drapé de son linceul. Le long des rues, les patrouilles qui passaient avaient seules laissé le gâchis boueux de leur piétinement.
+
+Chez les Maheu, la dernière pelletée d'escarbilles était brûlée depuis la veille ; et il ne fallait plus songer à la glane sur le terri, par ce terrible temps, lorsque les moineaux eux-mêmes ne trouvaient pas un brin d'herbe. Alzire, pour s'être entêtée, ses pauvres mains fouillant la neige, se mourait. La Maheude avait dû l'envelopper dans un lambeau de couverture, en attendant le docteur Vanderhaghen, chez qui elle était allée deux fois déjà sans pouvoir le rencontrer ; la bonne venait cependant de promettre que monsieur passerait au coron avant la nuit, et la mère guettait, debout devant la fenêtre, tandis que la petite malade, qui avait voulu descendre, grelottait sur une chaise, avec l'illusion qu'il faisait meilleur là, près du fourneau refroidi. Le vieux Bonnemort, en face, les jambes reprises, semblait dormir. Ni Lénore ni Henri n'étaient rentrés, battant les routes en compagnie danlin, pour demander des sous. Au travers de la pièce nue, Maheu seul marchait pesamment, butait à chaque tour contre le mur, de l'air stupide d'une bête qui ne voit plus sa cage. Le pétrole aussi était fini ; mais le reflet de la neige, au-dehors, restait si blanc, qu'il éclairait vaguement la pièce, malgré la nuit tombée.
+
+Il y eut un bruit de sabots, et la Levaque poussa la porte en coup de vent, hors d'elle, criant dès le seuil à la Maheude :
+
+« Alors, c'est toi qui as dit que je forçais mon logeur à me donner vingt sous, quand il couchait avec moi ! »
+
+L'autre haussa les épaules.
+
+« Tu m'embêtes, je n'ai rien dit... D'abord, qui t'a dit ça ?
+
+--- On m'a dit que tu l'as dit, tu n'as pas besoin de savoir... Même tu as dit que tu nous entendais bien faire nos saletés derrière ta cloison, et que la crasse s'amassait chez nous parce que j'étais toujours sur le dos... Dis encore que tu ne l'as pas dit, hein ! »
+
+Chaque jour, des querelles éclataient, à la suite du continuel bavardage des femmes. Entre les ménages surtout qui logeaient porte à porte, les brouilles et les réconciliations étaient quotidiennes. Mais jamais une méchanceté si aigre ne les avait jetés les uns sur les autres. Depuis la grève, la faim exaspérait les rancunes, on avait le besoin de cogner ; une explication entre deux commères finissait par une tuerie entre les deux hommes.
+
+Justement, Levaque arrivait à son tour, en amenant de force Bouteloup.
+
+« Voici le camarade, qu'il dise un peu s'il a donné vingt sous à ma femme, pour coucher avec. »
+
+Le logeur, cachant sa douceur effarée dans sa grande barbe, protestait, bégayait.
+
+« Oh ! ça, non, jamais rien, jamais ! »
+
+Du coup, Levaque devint menaçant, le poing sous le nez de Maheu.
+
+« Tu sais, ça ne me va pas. Quand on a une femme comme ça, on lui casse les reins... C'est donc que tu crois ce qu'elle a dit ?
+
+--- Mais, nom de Dieu ! s'écria Maheu, furieux d'être tiré de son accablement, qu'est-ce que c'est encore que tous ces potins ? Est-ce qu'on n'a pas assez de ses misères ? Fous-moi la paix ou je tape !... Et, d'abord, qui a dit que ma femme l'avait dit ?
+
+--- Qui l'a dit ?... C'est la Pierronne qui l'a dit. »
+
+La Maheude éclata d'un rire aigu ; et, revenant vers la Levaque :
+
+« Ah ! c'est la Pierronne... Eh bien, je puis te dire ce qu'elle m'a dit, à moi. Oui ! elle m'a dit que tu couchais avec tes deux hommes, l'un dessous et l'autre dessus ! »
+
+Dès lors, il ne fut plus possible de s'entendre. Tous se fâchaient, les Levaque renvoyaient comme réponse aux Maheu que la Pierronne en avait dit bien d'autres sur leur compte, et qu'ils avaient vendu Catherine, et qu'ils s'étaient pourris ensemble, jusqu'aux petits, avec une saleté prise par Étienne au Volcan.
+
+« Elle a dit ça, elle a dit ça, hurla Maheu. C'est bon ! j'y vais, moi, et si elle dit qu'elle l'a dit, je lui colle ma main sur la gueule. »
+
+Il s'était élancé dehors, les Levaque le suivirent pour témoigner, tandis que Bouteloup, ayant horreur des disputes, rentrait furtivement. Allumée par l'explication, la Maheude sortait aussi, lorsqu'une plainte d'Alzire la retint. Elle croisa les bouts de la couverture sur le corps frissonnant de la petite, elle retourna se planter devant la fenêtre, les yeux perdus. Et ce médecin qui n'arrivait pas !
+
+À la porte des Pierron, Maheu et les Levaque rencontrèrent Lydie, qui piétinait dans la neige. La maison était close, un filet de lumière passait par la fente d'un volet ; et l'enfant répondit d'abord avec gêne aux questions : non, son papa n'y était pas, il était allé au lavoir rejoindre la mère Brûlé, pour rapporter le paquet de linge. Elle se troubla ensuite, refusa de dire ce que sa maman faisait. Enfin, elle lâcha tout, dans un rire sournois de rancune : sa maman l'avait flanquée à la porte, parce que M. Dansaert était là, et qu'elle les empêchait de causer. Celui-ci, depuis le matin, se promenait dans le coron, avec deux gendarmes, tâchant de racoler des ouvriers, pesant sur les faibles, annonçant partout que, si l'on ne descendait pas le lundi au Voreux, la Compagnie était décidée à embaucher des Borains. Et, comme la nuit tombait, il avait renvoyé les gendarmes, en trouvant la Pierronne seule ; puis, il était resté chez elle à boire un verre de genièvre, devant le bon feu.
+
+« Chut ! taisez-vous, faut les voir ! murmura Levaque, avec un rire de paillardise. On s'expliquera tout à l'heure... Va-t'en, toi, petite garce ! »
+
+Lydie recula de quelques pas, pendant qu'il mettait un œil à la fente du volet. Il étouffa de petits cris, son échine se renflait, dans un frémissement. À son tour, la Levaque regarda ; mais elle dit, comme prise de coliques, que ça la dégoûtait. Maheu, qui l'avait poussée, voulant voir aussi, déclara qu'on en avait pour son argent. Et ils recommencèrent, à la file, chacun son coup d'œil, ainsi qu'à la comédie. La salle, reluisante de propreté, s'égayait du grand feu ; il y avait des gâteaux sur la table, avec une bouteille et des verres ; enfin, une vraie noce. Si bien que ce qu'ils voyaient là-dedans finissait par exaspérer les deux hommes, qui, en d'autres circonstances, en auraient rigolé six mois.
+
+Qu'elle se fît bourrer jusqu'à la gorge, les jupes en l'air, c'était drôle. Mais, nom de Dieu ! est-ce que ce n'était pas cochon, de se payer ça devant un si grand feu, et de se donner des forces avec des biscuits, lorsque les camarades n'avaient ni une lichette de pain, ni une escarbille de houille ?
+
+« V'là papa ! » cria Lydie en se sauvant.
+
+Pierron revenait tranquillement du lavoir, le paquet de linge sur une épaule. Tout de suite, Maheu l'interpella.
+
+« Dis donc, on m'a dit que ta femme avait dit que j'avais vendu Catherine et que nous nous étions tous pourris à la maison... Et, chez toi, qu'est-ce qu'il te la paie, ta femme, le monsieur qui est en train de lui user la peau ? »
+
+Étourdi, Pierron ne comprenait pas, lorsque la Pierronne, prise de peur en entendant le tumulte des voix, perdit la tête au point d'entrebâiller la porte, pour se rendre compte. On l'aperçut toute rouge, le corsage ouvert, la jupe encore remontée, accrochée à la ceinture ; tandis que, dans le fond, Dansaert se reculottait éperdument. Le maître porion se sauva, disparut, tremblant qu'une pareille histoire n'arrivât aux oreilles du directeur. Alors, ce fut un scandale affreux, des rires, des huées, des injures.
+
+« Toi qui dis toujours des autres qu'elles sont sales, criait la Levaque à la Pierronne, ce n'est pas étonnant que tu sois propre, si tu te fais récurer par les chefs !
+
+--- Ah ! ça lui va, de parler ! reprenait Levaque. En voilà une salope qui a dit que ma femme couchait avec moi et le logeur, l'un dessous et l'autre dessus !... Oui, oui, on m'a dit que tu l'as dit. »
+
+Mais la Pierronne, calmée, tenait tête aux gros mots, très méprisante, dans sa certitude d'être la plus belle et la plus riche.
+
+« J'ai dit ce que j'ai dit, fichez-moi la paix, hein !... Est-ce que ça vous regarde, mes affaires, tas de jaloux qui nous en voulez, parce que nous mettons de l'argent à la caisse d'épargne ! Allez, allez, vous aurez beau dire, mon mari sait bien pourquoi M. Dansaert était chez nous. »
+
+En effet, Pierron s'emportait, défendait sa femme. La querelle tourna, on le traita de vendu, de mouchard, de chien de la Compagnie, on l'accusa de s'enfermer pour se gaver des bons morceaux, dont les chefs lui payaient ses traîtrises. Lui, répliquait, prétendait que Maheu lui avait glissé des menaces sous sa porte, un papier où se trouvaient deux os de mort en croix, avec un poignard au-dessus. Et cela se termina forcément par un massacre entre les hommes, comme toutes les querelles de femmes, depuis que la faim enrageait les plus doux. Maheu et Levaque s'étaient rués sur Pierron à coup de poing, il fallut les séparer. Le sang coulait à flots du nez de son gendre, lorsque la Brûlé, à son tour, arriva du lavoir. Mise au courant, elle se contenta de dire :
+
+« Ce cochon-là me déshonore. »
+
+La rue redevint déserte, pas une ombre ne tachait la blancheur nue de la neige ; et le coron, retombé à son immobilité de mort, crevait de faim sous le froid intense.
+
+« Et le médecin ? demanda Maheu, en refermant la porte.
+
+--- Pas venu, répondit la Maheude, toujours debout devant la fenêtre.
+
+--- Les petits sont rentrés ?
+
+--- Non, pas rentrés. »
+
+Maheu reprit sa marche lourde, d'un mur à l'autre, de son air de bœuf assommé. Raidi sur sa chaise, le père Bonnemort n'avait pas même levé la tête. Alzire non plus ne disait rien, tâchait de ne pas trembler, pour leur éviter de la peine ; mais, malgré son courage à souffrir, elle tremblait si fort par moments, qu'on entendait contre la couverture le frisson de son maigre corps de fillette infirme ; pendant que, de ses grands yeux ouverts, elle regardait au plafond le pâle reflet des jardins tout blancs, qui éclairait la pièce d'une lueur de lune.
+
+« Enfin, le voilà ! » dit la Maheude.
+
+Une forme noire passait devant la fenêtre. La porte s'ouvrit. Mais ce n'était point le docteur Vanderhaghen, ils reconnurent le nouveau curé, l'abbé Ranvier, qui ne parut pas surpris de tomber dans cette maison morte, sans lumière, sans feu, sans pain. Déjà, il sortait de trois autres maisons voisines, allant de famille en famille, racolant des hommes de bonne volonté, ainsi que Dansaert avec ses gendarmes ; et, tout de suite, il s'expliqua, de sa voix fiévreuse de sectaire.
+
+« Pourquoi n'êtes-vous pas venus à la messe dimanche, mes enfants ? Vous avez tort, l'Église seule peut vous sauver... Voyons, promettez-moi de venir dimanche prochain. »
+
+Maheu, après l'avoir regardé, s'était remis en marche, pesamment, sans une parole. Ce fut la Maheude qui répondit.
+
+« À la messe, monsieur le curé, pour quoi faire ? Est-ce que le bon Dieu ne se moque pas de nous ?... Tenez ! qu'est-ce que lui a fait ma petite, qui est là, à trembler la fièvre ! Nous n'avions pas assez de misère, n'est-ce pas ? il fallait qu'il me la rendît malade, lorsque je ne puis seulement lui donner une tasse de tisane chaude. »
+
+Alors, debout, le prêtre parla longuement. Il exploitait la grève, cette misère affreuse, cette rancune exaspérée de la faim, avec l'ardeur d'un missionnaire qui prêche des sauvages, pour la gloire de sa religion. Il disait que l'Église était avec les pauvres, qu'elle ferait un jour triompher la justice, en appelant la colère de Dieu sur les iniquités des riches. Et ce jour luirait bientôt, car les riches avaient pris la place de Dieu, en étaient arrivés à gouverner sans Dieu, dans leur vol impie du pouvoir. Mais, si les ouvriers voulaient le juste partage des biens de la terre, ils devaient s'en remettre tout de suite aux mains des prêtres, comme à la mort de Jésus les petits et les humbles s'étaient groupés autour des apôtres. Quelle force aurait le pape, de quelle armée disposerait le clergé, lorsqu'il commanderait à la foule innombrable des travailleurs ! En une semaine, on purgerait le monde des méchants, on chasserait les maîtres indignes, ce serait enfin le vrai règne de Dieu, chacun récompensé selon ses mérites, la loi du travail réglant le bonheur universel.
+
+« C'est très bien, ce que vous me racontez là, monsieur le curé, dit-elle. Mais c'est donc que vous ne vous accordez plus avec les bourgeois... Tous nos autres curés dînaient à la Direction, et nous menaçaient du diable, dès que nous demandions du pain. »
+
+Il recommença, il parla du déplorable malentendu entre l'Église et le peuple. Maintenant, en phrases voilées, il frappait sur les curés des villes, sur les évêques, sur le haut clergé, repu de jouissance, gorgé de domination, pactisant avec la bourgeoisie libérale, dans l'imbécillité de son aveuglement, sans voir que c'était cette bourgeoisie qui le dépossédait de l'empire du monde. La délivrance viendrait des prêtres de campagne, tous se lèveraient pour rétablir le royaume du Christ, avec l'aide des misérables ; et il semblait être déjà à leur tête, il redressait sa taille osseuse, en chef de bande, en révolutionnaire de l'Évangile, les yeux emplis d'une telle lumière, qu'ils éclairaient la salle obscure. Cette ardente prédication l'emportait en paroles mystiques, depuis longtemps les pauvres gens ne le comprenaient plus.
+
+« Il n'y a pas besoin de tant de paroles, grogna brusquement Maheu, vous auriez mieux fait de commencer par nous apporter un pain.
+
+--- Venez dimanche à la messe, s'écria le prêtre. Dieu pouvoira à tout ! »
+
+Et il s'en alla, il entra catéchiser les Levaque à leur tour, si haut dans son rêve du triomphe final de l'Église, ayant pour les faits un tel dédain, qu'il courait ainsi les corons, sans aumônes, les mains vides au travers de cette armée mourante de faim, en pauvre diable lui-même qui regardait la souffrance comme l'aiguillon du salut.
+
+Maheu marchait toujours, on n'entendait que cet ébranlement régulier, dont les dalles tremblaient. Il y eut un bruit de poulie mangée de rouille, le vieux Bonnemort cracha dans la cheminée froide. Puis, la cadence des pas recommença. Alzire, assoupie par la fièvre, s'était mise à délirer à voix basse, riant, croyant qu'il faisait chaud et qu'elle jouait au soleil.
+
+« Sacré bon sort ! murmura la Maheude, après lui avoir touché les joues, la voilà qui brûle à présent... Je n'attends plus ce cochon, les brigands lui auront défendu de venir. »
+
+Elle parlait du docteur et de la Compagnie. Pourtant, elle eut une exclamation de joie, en voyant la porte s'ouvrir de nouveau. Mais ses bras retombèrent, elle resta toute droite, le visage sombre.
+
+« Bonsoir », dit à demi-voix Étienne, lorsqu'il eut soigneusement refermé la porte.
+
+Souvent, il arrivait ainsi, à la nuit noire. Les Maheu, dès le second jour, avaient appris sa retraite. Mais ils gardaient le secret, personne dans le coron ne savait au juste ce qu'était devenu le jeune homme. Cela l'entourait d'une légende. On continuait à croire en lui, des bruits mystérieux couraient : il allait reparaître avec une armée, avec des caisses pleines d'or ; et c'était toujours l'attente religieuse d'un miracle, l'idéal réalisé, l'entrée brusque dans la cité de justice qu'il leur avait promise. Les uns disaient l'avoir vu au fond d'une calèche, en compagnie de trois messieurs, sur la route de Marchiennes ; d'autres affirmaient qu'il était encore pour deux jours en Angleterre. À la longue, cependant, la méfiance commençait, des farceurs l'accusaient de se cacher dans une cave, où la Mouquette lui tenait chaud ; car cette liaison connue lui avait fait du tort. C'était, au milieu de sa popularité, une lente désaffection, la sourde poussée des convaincus pris de désespoir, et dont le nombre, peu à peu, devait grossir.
+
+« Quel chien de temps ! ajouta-t-il. Et vous, rien de nouveau, toujours de pire en pire ?... On m'a dit que le petit Négrel était parti en Belgique chercher des Borains. Ah ! nom de Dieu, nous sommes fichus, si c'est vrai ! »
+
+Un frisson l'avait saisi, en entrant dans cette pièce glacée et obscure, où ses yeux durent s'accoutumer pour voir les malheureux, qu'il y devinait, à un redoublement d'ombre. Il éprouvait cette répugnance, ce malaise de l'ouvrier sorti de sa classe, affiné par l'étude, travaillé par l'ambition. Quelle misère, et l'odeur, et les corps en tas, et la pitié affreuse qui le serrait à la gorge ! Le spectacle de cette agonie le bouleversait à un tel point, qu'il cherchait des paroles, pour leur conseiller la soumission.
+
+Mais, violemment, Maheu s'était planté devant lui, criant :
+
+« Des Borains ! ils n'oseront pas, les jean-foutre !... Qu'ils fassent donc descendre des Borains, s'ils veulent que nous démolissions les fosses ! »
+
+D'un air de gêne, Étienne expliqua qu'on ne pourrait pas bouger, que les soldats qui gardaient les fosses protégeraient la descente des ouvriers belges. Et Maheu serrait les poings, irrité surtout, comme il le disait, d'avoir ces baïonnettes dans le dos. Alors, les charbonniers n'étaient plus les maîtres chez eux ? on les traitait donc en galériens, pour les forcer au travail, le fusil chargé ? Il aimait son puits, ça lui faisait une grosse peine de n'y être pas descendu depuis deux mois. Aussi voyait-il rouge, à l'idée de cette injure, de ces étrangers qu'on menaçait d'y introduire. Puis, le souvenir qu'on lui avait rendu son livret, lui creva le cœur.
+
+« Je ne sais pas pourquoi je me fâche, murmura-t-il. Moi, je n'en suis plus, de leur baraque... Quand ils m'auront chassé d'ici, je pourrai bien crever sur la route.
+
+--- Laisse donc ! dit Étienne. Si tu veux, ils te le reprendront demain, ton livret. On ne renvoie pas les bons ouvriers. »
+
+Il s'interrompit, étonné d'entendre Alzire, qui riait doucement, dans le délire de sa fièvre. Il n'avait encore distingué que l'ombre raidie du père Bonnemort, et cette gaieté d'enfant malade l'effrayait. C'était trop, cette fois, si les petits se mettaient à en mourir. La voix tremblante, il se décida.
+
+« Voyons, ça ne peut pas durer, nous sommes foutus... Il faut se rendre. »
+
+La Maheude, immobile et silencieuse jusque-là, éclata tout d'un coup, lui cria dans la face, en le tutoyant et en jurant comme un homme :
+
+« Qu'est-ce que tu dis ? C'est toi qui dis ça, nom de Dieu ! »
+
+Il voulut donner des raisons, mais elle ne le laissait point parler.
+
+« Ne répète pas, nom de Dieu ! ou, toute femme que je suis, je te flanque ma main sur la figure... Alors, nous aurions crevé pendant deux mois, j'aurais vendu mon ménage, mes petits en seraient tombés malades, et il n'y aurait rien de fait, et l'injustice recommencerait !... Ah ! vois-tu, quand je songe à ça, le sang m'étouffe. Non ! non ! moi, je brûlerais tout, je tuerais tout maintenant, plutôt que de me rendre. »
+
+Elle désigna Maheu dans l'obscurité, d'un grand geste menaçant.
+
+« Écoute ça, si mon homme retourne à la fosse, c'est moi qui l'attendrai sur la route, pour lui cracher au visage et le traiter de lâche ! »
+
+Étienne ne la voyait pas, mais il sentait une chaleur, comme une haleine de bête aboyante ; et il avait reculé, saisi, devant cet enragement qui était son œuvre. Il la trouvait si changée, qu'il ne la reconnaissait plus, de tant de sagesse autrefois, lui reprochant sa violence, disant qu'on ne doit souhaiter la mort de personne, puis à cette heure refusant d'entendre la raison, parlant de tuer le monde. Ce n'était plus lui, c'était elle qui causait politique, qui voulait balayer d'un coup les bourgeois, qui réclamait la république et la guillotine, pour débarrasser la terre de ces voleurs de riches, engraissés du travail des meurt-de-faim.
+
+« Oui, de mes dix doigts, je les écorcherais... En voilà assez, peut-être ! notre tour est venu, tu le disais toi-même... Quand je pense que le père, le grand-père, le père du grand-père, tous ceux d'auparavant, ont souffert ce que nous souffrons, et que nos fils, les fils de nos fils le souffriront encore, ça me rend folle, je prendrais un couteau... L'autre jour, nous n'en avons pas fait assez. Nous aurions dû foutre Montsou par terre, jusqu'à la dernière brique. Et, tu ne sais pas ? je n'ai qu'un regret, c'est de n'avoir pas laissé le vieux étrangler la fille de la Piolaine... On laisse bien la faim étrangler mes petits, à moi ! »
+
+Ses paroles tombaient comme des coups de hache, dans la nuit. L'horizon fermé n'avait pas voulu s'ouvrir, l'idéal impossible tournait en poison, au fond de ce crâne fêlé par la douleur.
+
+« Vous m'avez mal compris, put encore dire Étienne, qui battit en retraite. On devrait arriver à une entente avec la Compagnie : je sais que les puits souffrent beaucoup, sans doute elle consentirait à un arrangement.
+
+--- Non, rien du tout ! » hurla-t-elle.
+
+Justement, Lénore et Henri, qui rentraient, arrivaient les mains vides. Un monsieur leur avait bien donné deux sous ; mais, comme la sœur allongeait toujours des coups de pied au petit frère, les deux sous étaient tombés dans la neige ; et, Jeanlin s'étant mis à les chercher avec eux, on ne les avait plus retrouvés.
+
+« Où est-il, Jeanlin ?
+
+--- Maman, il a filé, il a dit qu'il avait des affaires. »
+
+Étienne écoutait, le cœur fendu. Jadis, elle menaçait de les tuer, s'ils tendaient jamais la main. Aujourd'hui, elle les envoyait elle-même sur les routes, elle parlait d'y aller tous, les dix mille charbonniers de Montsou, prenant le bâton et la besace des vieux pauvres, battant le pays épouvanté.
+
+Alors, l'angoisse grandit encore, dans la pièce noire. Les mioches rentraient avec la faim, ils voulaient manger, pourquoi ne mangeait-on pas ? et ils grognèrent, se traînèrent, finirent par écraser les pieds de leur sœur mourante, qui eut un gémissement. Hors d'elle, la mère les gifla, au hasard des ténèbres. Puis, comme ils criaient plus fort en demandant du pain, elle fondit en larmes, tomba assise sur le carreau, les saisit d'une seule étreinte, eux et la petite infirme ; et, longuement, ses pleurs coulèrent, dans une détente nerveuse qui la laissait molle, anéantie, bégayant à vingt reprises la même phrase, appelant la mort : « Mon Dieu, pourquoi ne nous prenez-vous pas ? mon Dieu, prenez-nous par pitié, pour en finir ! » Le grand-père gardait son immobilité de vieil arbre tordu sous la pluie et le vent, tandis que le père marchait de la cheminée au buffet, sans tourner la tête.
+
+Mais la porte s'ouvrit, et cette fois c'était le docteur Vanderhaghen.
+
+« Diable ! dit-il, la chandelle ne vous abîmera pas la vue... Dépêchons, je suis pressé. »
+
+Ainsi qu'à l'ordinaire, il grondait, éreinté de besogne. Il avait heureusement des allumettes, le père dut en enflammer six, une à une, et les tenir, pour qu'il pût examiner la malade. Déballée de sa couverture, elle grelottait sous cette lueur vacillante, d'une maigreur d'oiseau agonisant dans la neige, si chétive qu'on ne voyait plus que sa bosse. Elle souriait pourtant, d'un sourire égaré de moribonde, les yeux très grands, tandis que ses pauvres mains se crispaient sur sa poitrine creuse. Et, comme la mère, suffoquée, demandait si c'était raisonnable de prendre, avant elle, la seule enfant qui l'aidât au ménage, si intelligente, si douce, le docteur se fâcha.
+
+« Tiens ! la voilà qui passe... Elle est morte de faim, ta sacrée gamine. Et elle n'est pas la seule, j'en ai vu une autre, à côté... Vous m'appelez tous, je n'y peux rien, c'est de la viande qu'il faut pour vous guérir. »
+
+Maheu, les doigts brûlés, avait lâché l'allumette ; et les ténèbres retombèrent sur le petit cadavre encore chaud. Le médecin était reparti en courant. Étienne n'entendait plus dans la pièce noire que les sanglots de la Maheude, qui répétait son appel de mort, cette lamentation lugubre et sans fin :
+
+« Mon Dieu, c'est mon tour, prenez-moi !... Mon Dieu, prenez mon homme, prenez les autres, par pitié, pour en finir ! »
+
+GERMINAL
+
+Sixième partie
+
+### III
+Ce dimanche-là, dès huit heures, Souvarine resta seul dans la salle de l'Avantage, à sa place accoutumée, la tête contre le mur. Plus un charbonnier ne savait où prendre les deux sous d'une chope, jamais les débits n'avaient eu moins de clients. Aussi Mme Rasseneur, immobile au comptoir, gardait-elle un silence irrité ; pendant que Rasseneur, debout devant la cheminée defonte, semblait suivre, d'un air réfléchi, la fumée rousse du charbon.
+
+Brusquement, dans cette paix lourde des pièces trop chauffées, trois petits coups secs, tapés contre une vitre de la fenêtre, firent tourner la tête à Souvarine. Il se leva, il avait reconnu le signal dont plusieurs fois déjà Étienne s'était servi pour l'appeler, lorsqu'il le voyait du dehors fumant sa cigarette, assis à une table vide. Mais, avant que le machineur eût gagné la porte, Rasseneur l'avait ouverte ; et, reconnaissant l'homme qui était là, dans la clarté de la fenêtre, il lui disait :
+
+« Est-ce que tu as peur que je ne te vende ?... Vous serez mieux pour causer ici que sur la route. »
+
+Étienne entra. Mme Rasseneur lui offrit poliment une chope, qu'il refusa d'un geste. Le cabaretier ajoutait :
+
+« Il y a longtemps que j'ai deviné où tu te caches. Si j'étais un mouchard comme tes amis le disent, je t'aurais depuis huit jours envoyé les gendarmes.
+
+--- Tu n'as pas besoin de te défendre, répondit le jeune homme, je sais que tu n'as jamais mangé de ce pain-là... On peut ne pas avoir les mêmes idées et s'estimer tout de même. »
+
+Et le silence régna de nouveau. Souvarine avait repris sa chaise, le dos à la muraille, les yeux perdus sur la fumée de sa cigarette ; mais ses doigts fébriles étaient agités d'une inquiétude, il les promenait le long de ses genoux cherchant le poil tiède de Pologne, absente ce soir-là ; et c'était un malaise inconscient, une chose qui lui manquait, sans qu'il sût au juste laquelle.
+
+Assis de l'autre côté de la table, Étienne dit enfin :
+
+« C'est demain que le travail reprend au Voreux. Les Belges sont arrivés avec le petit Négrel.
+
+--- Oui, on les a débarqués à la nuit tombée, murmura Rasseneur resté debout. Pourvu qu'on ne se tue pas encore ! »
+
+Puis, haussant la voix :
+
+« Non, vois-tu, je ne veux pas recommencer à nous disputer, seulement ça finira par du vilain, si vous vous entêtez davantage... Tiens ! votre histoire est tout à fait celle de ton Internationale. J'ai rencontré Pluchart avant-hier à Lille, où j'avais des affaires. Ça se détraque, sa machine, paraît-il. »
+
+Il donna des détails. L'Association, après avoir conquis les ouvriers du monde entier, dans un élan de propagande, dont la bourgeoisie frissonnait encore, était maintenant dévorée, détruite un peu chaque jour, par la bataille intérieure des vanités et des ambitions. Depuis que les anarchistes y triomphaient, chassant les évolutionnistes de la première heure, tout craquait, le but primitif, la réforme du salariat, se noyait au milieu du tiraillement des sectes, les cadres savants se désorganisaient dans la haine de la discipline. Et déjà l'on pouvait prévoir l'avortement final de cette levée en masse, qui avait menacé un instant d'emporter d'une haleine la vieille société pourrie.
+
+« Pluchart en est malade, poursuivit Rasseneur. Avec ça, il n'a plus de voix du tout. Pourtant, il parle quand même, il veut aller parler à Paris... Et il m'a répété à trois reprises que notre grève était fichue. »
+
+Étienne, les yeux à terre, le laissait tout dire, sans l'interrompre. La veille, il avait causé avec des camarades, il sentait passer sur lui des souffles de rancune et de soupçon, ces premiers souffles de l'impopularité, qui annoncent la défaite. Et il demeurait sombre, il ne voulait pas avouer son abattement, en face d'un homme qui lui avait prédit que la foule le huerait à son tour, le jour où elle aurait à se venger d'un mécompte.
+
+« Sans doute la grève est fichue, je le sais aussi bien que Pluchart, reprit-il. Mais c'était prévu, ça. Nous l'avons acceptée à contrecœur, cette grève, nous ne comptions pas en finir avec la Compagnie... Seulement, on se grise, on se met à espérer des choses, et quand ça tourne mal, on oublie qu'on devait s'y attendre, on se lamente et on se dispute comme devant une catastrophe tombée du ciel.
+
+--- Alors, demanda Rasseneur, si tu crois la partie perdue, pourquoi ne fais-tu pas entendre raison aux camarades ? »
+
+Le jeune homme le regarda fixement.
+
+« Écoute, en voilà assez... Tu as tes idées, j'ai les miennes. Je suis entré chez toi, pour te montrer que je t'estime quand même. Mais je pense toujours que, si nous crevons à la peine, nos carcasses d'affamés serviront plus la cause du peuple que toute ta politique d'homme sage... Ah ! si un de ces cochons de soldats pouvait me loger une balle en plein cœur, comme ce serait crâne de finir ainsi ! »
+
+Ses yeux s'étaient mouillés, dans ce cri où éclatait le secret désir du vaincu, le refuge où il aurait voulu perdre à jamais son tourment.
+
+« Bien dit ! » déclara Mme Rasseneur, qui, d'un regard, jetait à son mari tout le dédain de ses opinions radicales.
+
+Souvarine, les yeux noyés, tâtonnant de ses mains nerveuses, ne semblait pas avoir entendu. Sa face blonde de fille, au nez mince, aux petites dents pointues, s'ensauvageait dans une rêverie mystique, où passaient des visions sanglantes. Et il s'était mis à rêver tout haut, il répondait à une parole de Rasseneur sur l'Internationale, saisie au milieu de la conversation.
+
+« Tous sont des lâches, il n'y avait qu'un homme pour faire de leur machine l'instrument terrible de la destruction. Mais il faudrait vouloir, personne ne veut, et c'est pourquoi la révolution avortera une fois encore. »
+
+Il continua, d'une voix de dégoût, à se lamenter sur l'imbécillité des hommes, pendant que les deux autres restaient troublés de ces confidences de somnambule, faites aux ténèbres. En Russie, rien ne marchait, il était désespéré des nouvelles qu'il avait reçues. Ses anciens camarades tournaient tous aux politiciens, les fameux nihilistes dont l'Europe tremblait, des fils de pope, des petits bourgeois, des marchands, ne s'élevaient pas au-delà de la libération nationale, semblaient croire à la délivrance du monde, quand ils auraient tué le despote ; et, dès qu'il leur parlait de raser la vieille humanité comme une moisson mûre, dès qu'il prononçait même le mot enfantin de république, il se sentait incompris, inquiétant, déclassé désormais, enrôlé parmi les princes ratés du cosmopolitisme révolutionnaire. Son cœur de patriote se débattait pourtant, c'était avec une amertume douloureuse qu'il répétait son mot favori :
+
+« Des bêtises !... Jamais ils n'en sortiront, avec leurs bêtises ! »
+
+Puis, baissant encore la voix, en phrases amères, il dit son ancien rêve de fraternité. Il n'avait renoncé à son rang et à sa fortune, il ne s'était mis avec les ouvriers, que dans l'espoir de voir se fonder enfin cette société nouvelle du travail en commun. Tous les sous de ses poches avaient longtemps passé aux galopins du coron, il s'était montré pour les charbonniers d'une tendresse de frère, souriant à leur défiance, les conquérant par son air tranquille d'ouvrier exact et peu causeur. Mais, décidément, la fusion ne se faisait pas, il leur demeurait étranger, avec son mépris de tous les liens, sa volonté de se garder brave, en dehors des glorioles et des jouissances. Et il était surtout, depuis le matin, exaspéré par la lecture d'un fait divers qui courait les journaux.
+
+Sa voix changea, ses yeux s'éclaircirent, se fixèrent sur Étienne, et il s'adressa directement à lui.
+
+« Comprends-tu ça, toi ? ces ouvriers chapeliers de Marseille qui ont gagné le gros lot de cent mille francs, et qui, tout de suite, ont acheté de la rente, en déclarant qu'ils allaient vivre sans rien faire !... Oui, c'est votre idée, à vous tous, les ouvriers français, déterrer un trésor, pour le manger seul ensuite, dans un coin d'égoïsme et de fainéantise. Vous avez beau crier contre les riches, le courage vous manque de rendre aux pauvres l'argent que la fortune vous envoie... Jamais vous ne serez dignes du bonheur, tant que vous aurez quelque chose à vous, et que votre haine des bourgeois viendra uniquement de votre besoin enragé d'être des bourgeois à leur place. »
+
+Rasseneur éclata de rire, l'idée que les deux ouvriers de Marseille auraient dû renoncer au gros lot lui semblait stupide. Mais Souvarine blêmissait, son visage décomposé devenait effrayant, dans une de ces colères religieuses qui exterminent les peuples. Il cria :
+
+« Vous serez tous fauchés, culbutés, jetés à la pourriture. Il naîtra, celui qui anéantira votre race de poltrons et de jouisseurs. Et, tenez ! vous voyez mes mains, si mes mains le pouvaient, elles prendraient la terre comme ça, elles la secoueraient jusqu'à la casser en miettes, pour que vous restiez tous sous les décombres.
+
+--- Bien dit ! » répéta Mme Rasseneur, de son air poli et convaincu.
+
+Il se fit encore un silence. Puis, Étienne reparla des ouvriers du Borinage. Il questionnait Souvarine sur les dispositions qu'on avait prises, au Voreux. Mais le machineur, retombé dans sa préoccupation, répondait à peine, savait seulement qu'on devait distribuer des cartouches aux soldats qui gardaient la fosse ; et l'inquiétude nerveuse de ses doigts sur ses genoux s'aggravait à un tel point, qu'il finit par avoir conscience de ce qui leur manquait, le poil doux et calmant du lapin familier.
+
+« Où donc est Pologne ? » demanda-t-il.
+
+Le cabaretier eut un nouveau rire, en regardant sa femme. Après une courte gêne, il se décida.
+
+« Pologne ? elle est au chaud. »
+
+Depuis son aventure avec Jeanlin, la grosse lapine, blessée sans doute, n'avait plus fait que des lapins morts ; et, pour ne pas nourrir une bouche inutile, on s'était résigné, le jour même, à l'accommoder aux pommes de terre.
+
+« Oui, tu en as mangé une cuisse ce soir... Hein ? tu t'en es léché les doigts ! »
+
+Souvarine n'avait pas compris d'abord. Puis, il devint très pâle, une nausée contracta son menton ; tandis que, malgré sa volonté de stoïcisme, deux grosses larmes gonflaient ses paupières.
+
+Mais on n'eut pas le temps de remarquer cette émotion, la porte s'était brutalement ouverte, et Chaval avait paru, poussant devant lui Catherine. Après s'être grisé de bière et de fanfaronnades dans tous les cabarets de Montsou, l'idée lui était venue d'aller à l'Avantage montrer aux anciens amis qu'il n'avait pas peur. Il entra, en disant à sa maîtresse :
+
+« Nom de Dieu ! je te dis que tu vas boire une chope là-dedans, je casse la gueule au premier qui me regarde de travers ! »
+
+Catherine, à la vue d'Étienne, saisie, restait toute blanche. Quand il l'eut aperçu à son tour, Chaval ricana d'un air mauvais.
+
+« Madame Rasseneur, deux chopes ! Nous arrosons la reprise du travail. »
+
+Sans une parole, elle versa, en femme qui ne refusait sa bière à personne. Un silence s'était fait, ni le cabaretier, ni les deux autres n'avaient bougé de leur place.
+
+« J'en connais qui ont dit que j'étais un mouchard, reprit Chaval arrogant, et j'attends que ceux-là me le répètent un peu en face, pour qu'on s'explique à la fin. »
+
+Personne ne répondit, les hommes tournaient la tête, regardaient vaguement les murs.
+
+« Il y a les feignants, et il y a les pas feignants, continua-t-il plus haut. Moi je n'ai rien à cacher, j'ai quitté la sale baraque à Deneulin, je descends demain au Voreux avec douze Belges, qu'on m'a donnés à conduire, parce qu'on m'estime. Et, si ça contrarie quelqu'un, il peut le dire, nous en causerons. »
+
+Puis, comme le même silence dédaigneux accueillait ses provocations, il s'emporta contre Catherine.
+
+« Veux-tu boire, nom de Dieu !... Trinque avec moi à la crevaison de tous les salauds qui refusent de travailler ! »
+
+Elle trinqua, mais d'une main si tremblante, qu'on entendit le tintement léger des deux verres. Lui, maintenant, avait tiré de sa poche une poignée de monnaie blanche, qu'il étalait par une ostentation d'ivrogne, en disant que c'était avec sa sueur qu'on gagnait ça, et qu'il défiait les feignants de montrer dix sous. L'attitude des camarades l'exaspérait, il en arriva aux insultes directes.
+
+« Alors, c'est la nuit que les taupes sortent ? Il faut que les gendarmes dorment pour qu'on rencontre les brigands ? »
+
+Étienne s'était levé, très calme, résolu.
+
+« Écoute, tu m'embêtes... Oui, tu es un mouchard, ton argent pue encore quelque traîtrise, et ça me dégoûte de toucher à ta peau de vendu. N'importe ! je suis ton homme, il y a assez longtemps que l'un des deux doit manger l'autre. »
+
+Chaval serra les poings.
+
+« Allons donc ! il faut t'en dire pour t'échauffer, bougre de lâche !... Toi tout seul, je veux bien ! et tu vas me payer les cochonneries qu'on m'a faites ! »
+
+Les bras suppliants, Catherine s'avançait entre eux ; mais ils n'eurent pas la peine de la repousser, elle sentit la nécessité de la bataille, elle recula d'elle-même, lentement. Debout contre le mur, elle demeura muette, si paralysée d'angoisse, qu'elle ne frissonnait plus, les yeux grands ouverts sur ces deux hommes qui allaient se tuer pour elle.
+
+Mme Rasseneur, simplement, enlevait les chopes de son comptoir, de peur qu'elles ne fussent cassées. Puis, elle se rassit sur la banquette, sans témoigner de curiosité malséante. On ne pouvait pourtant laisser deux anciens camarades s'égorger ainsi, Rasseneur s'entêtait à intervenir, et il fallut que Souvarine le prît par une épaule, le ramenât près de la table, en disant :
+
+« Ça ne te regarde pas... Il y en a un de trop, c'est au plus fort de vivre. »
+
+Déjà, sans attendre l'attaque, Chaval lançait dans le vide ses poings fermés. Il était le plus grand, dégingandé, visant à la figure, par de furieux coups de taille, des deux bras, l'un après l'autre, comme s'il eût manœuvré une paire de sabres. Et il causait toujours, il posait pour la galerie, avec des bordées d'injures, qui l'excitaient.
+
+« Ah ! sacré marlou, j'aurai ton nez ! C'est ton nez que je veux me foutre quelque part !... Donne donc ta gueule, miroir à putains, que j'en fasse de la bouillie pour les cochons, et nous verrons après si les garces de femmes courent après toi ! »
+
+Muet, les dents serrées, Étienne se ramassait dans sa petite taille, jouant le jeu correct, la poitrine et la face couvertes de ses deux poings ; et il guettait, il les détendait avec une raideur de ressorts, en terribles coups de pointe.
+
+D'abord, ils ne se firent pas grand mal. Les moulinets tapageurs de l'un, l'attente froide de l'autre, prolongeaient la lutte. Une chaise fut renversée, leurs gros souliers écrasaient le sable blanc, semé sur les dalles. Mais ils s'essoufflèrent à la longue, on entendit le ronflement de leur haleine, tandis que leur face rouge se gonflait comme d'un brasier intérieur, dont on voyait les flammes, par les trous clairs de leurs yeux.
+
+« Touché ! hurla Chaval, atout sur ta carcasse ! »
+
+En effet, son poing, pareil à un fléau lancé de biais, avait labouré l'épaule de son adversaire. Celui-ci retint un grognement de douleur, il n'y eut qu'un bruit mou, la sourde meurtrissure des muscles. Et il répondit par un coup en pleine poitrine, qui aurait défoncé l'autre, s'il ne s'était garé, dans ses continuels sauts de chèvre. Pourtant, le coup l'atteignit au flanc gauche, si rudement encore qu'il chancela, la respiration coupée. Une rage le prit de sentir ses bras mollir dans la souffrance, et il rua comme une bête, il visa le ventre pour le crever du talon.
+
+« Tiens ! à tes tripes ! bégaya-t-il de sa voix étranglée. Faut que je les dévide au soleil ! »
+
+Étienne évita le coup, si indigné de cette infraction aux règles d'un combat loyal, qu'il sortit de son silence.
+
+« Tais-toi donc, brute ! Et pas les pieds, nom de Dieu ! ou je prends une chaise pour t'assommer ! »
+
+Alors, la bataille s'aggrava. Rasseneur, révolté, serait intervenu de nouveau, sans le regard sévère de sa femme, qui le maintenait ; est-ce que deux clients n'avaient pas le droit de régler une affaire chez eux ? Il s'était mis simplement devant la cheminée, car il craignait de les voir se culbuter dans le feu. Souvarine, de son air paisible, avait roulé une cigarette, qu'il oubliait cependant d'allumer. Contre le mur, Catherine restait immobile ; ses mains seules, inconscientes, venaient de monter à sa taille ; et, là, elles s'étaient tordues, elles arrachaient l'étoffe de sa robe, dans des crispations régulières. Tout son effort était de ne pas crier, de ne pas en tuer un, en criant sa préférence, si éperdue d'ailleurs, qu'elle ne savait même plus qui elle préférait.
+
+Bientôt, Chaval s'épuisa, inondé de sueur, tapant au hasard. Malgré sa colère, Étienne continuait à se couvrir, parait presque tous les coups, dont quelques-uns l'éraflaient. Il eut l'oreille fendue, un ongle lui emporta un lambeau du cou, et dans une telle cuisson, qu'il jura à son tour, en lançant un de ses terribles coups droits. Une fois encore, Chaval gara sa poitrine d'un saut ; mais il s'était baissé, le poing l'atteignit au visage, écrasa le nez, enfonça un œil. Tout de suite, un jet de sang partit des narines, l'œil enfla, se tuméfia, bleuâtre. Et le misérable, aveuglé par ce flot rouge, étourdi de l'ébranlement de son crâne, battait l'air de ses bras égarés, lorsqu'un autre coup, en pleine poitrine enfin, l'acheva. Il y eut un craquement, il tomba sur le dos, de la chute lourde d'un sac de plâtre qu'on décharge.
+
+Étienne attendit.
+
+« Relève-toi. Si tu en veux encore, nous allons recommencer. »
+
+Sans répondre, Chaval, après quelques secondes d'hébétement, se remua par terre, détira ses membres. Il se ramassait avec peine, il resta un instant sur les genoux, en boule, faisant de sa main, au fond de sa poche, une besogne qu'on ne voyait pas. Puis, quand il fut debout, il se rua de nouveau, la gorge gonflée d'un hurlement sauvage.
+
+Mais Catherine avait vu ; et, malgré elle, un grand cri lui sortit du cœur et l'étonna, comme l'aveu d'une préférence ignorée d'elle-même.
+
+« Prends garde ! il a son couteau ! »
+
+Étienne n'avait eu que le temps de parer le premier coup avec son bras. La laine du tricot fut coupée par l'épaisse lame, une de ces lames qu'une virole de cuivre fixe dans un manche de buis. Déjà, il avait saisi le poignet de Chaval, une lutte effrayante s'engagea, lui se sentant perdu s'il lâchait, l'autre donnant des secousses, pour se dégager et frapper. L'arme s'abaissait peu à peu, leurs membres raidis se fatiguaient, deux fois Étienne eut la sensation froide de l'acier contre sa peau ; et il dut faire un effort suprême, il broya le poignet dans une telle étreinte, que le couteau glissa de la main ouverte. Tous deux s'étaient jetés par terre, ce fut lui qui le ramassa, qui le brandit à son tour. Il tenait Chaval renversé sous son genou, il menaçait de lui ouvrir la gorge.
+
+« Ah ! nom de Dieu de traître, tu vas y passer ! » Une voix abominable, en lui, l'assourdissait. Cela montait de ses entrailles, battait dans sa tête à coups de marteau, une brusque folie du meurtre, un besoin de goûter au sang. Jamais la crise ne l'avait secoué ainsi. Pourtant, il n'était pas ivre. Et il luttait contre le mal héréditaire, avec le frisson désespéré d'un furieux d'amour qui se débat au bord du viol. Il finit par se vaincre, il lança le couteau derrière lui, en balbutiant d'une voix rauque :
+
+« Relève-toi, va-t'en ! »
+
+Cette fois, Rasseneur s'était précipité, mais sans trop oser se risquer entre eux, dans la crainte d'attraper un mauvais coup. Il ne voulait pas qu'on s'assassinât chez lui, il se fâchait si fort, que sa femme, toute droite au comptoir, lui faisait remarquer qu'il criait toujours trop tôt. Souvarine, qui avait failli recevoir le couteau dans les jambes, se décidait à allumer sa cigarette. C'était donc fini ? Catherine regardait encore, stupide devant les deux hommes, vivants l'un et l'autre.
+
+« Va-t'en ! répéta Étienne, va-t'en ou je t'achève ! »
+
+Chaval se releva, essuya d'un revers de main le sang qui continuait à lui couler du nez ; et, la mâchoire barbouillée de rouge, l'œil meurtri, il s'en alla en traînant les jambes, dans la rage de sa défaite. Machinalement, Catherine le suivit. Alors, il se redressa, sa haine éclata en un flot d'ordures.
+
+« Ah ! non, ah ! non, puisque c'est lui que tu veux, couche avec lui, sale rosse ! Et ne refous pas les pieds chez moi, si tu tiens à ta peau ! »
+
+Il fit claquer violemment la porte. Un grand silence régna dans la salle tiède, où l'on entendit le petit ronflement de la houille. Par terre, il ne restait que la chaise renversée et qu'une pluie de sang, dont le sable des dalles buvait les gouttes.
+
+GERMINAL
+
+Sixième partie
+
+### IV
+Quand ils furent sortis de chez Rasseneur, Étienne et Catherine marchèrent en silence. Le dégel commençait, un dégel froid et lent, qui salissait la neige sans la fondre. Dans le ciel livide, on devinait la lune pleine, derrière de grands nuages, des haillons noirs qu'un vent de tempête roulait furieusement, très haut ; et, sur la terre, aucune haleine ne soufflait, on n'entendait que l'égouttement des toitures, d'où tombaient des paquets blancs, d'une chute molle.
+
+Étienne, embarrassé de cette femme qu'on lui donnait, ne trouvait rien à dire, dans son malaise. L'idée de la prendre et de la cacher avec lui, à Réquillart, lui semblait absurde. Il avait voulu la conduire au coron, chez ses parents ; mais elle s'y était refusée, d'un air de terreur : non, non, tout plutôt que de se remettre à leur charge, après les avoir quittés si vilainement ! Et ni l'un ni l'autre ne parlaient plus, ils piétinaient au hasard, par les chemins qui se changeaient en fleuves de boue. D'abord, ils étaient descendus vers le Voreux ; puis ils tournèrent à droite, ils passèrent entre le terri et le canal.
+
+« Il faut pourtant que tu couches quelque part, dit-il enfin. Moi, si j'avais seulement une chambre, je t'emmènerais bien... »
+
+Mais un accès de timidité singulière l'interrompit. Leur passé lui revenait, leurs gros désirs d'autrefois, et les délicatesses, et les hontes qui les avaient empêchés d'aller ensemble. Est-ce qu'il voulait toujours d'elle, pour se sentir si troublé, peu à peu chauffé au cœur d'une envie nouvelle ? Le souvenir des gifles qu'elle lui avait allongées, à Gaston-Marie, l'excitait maintenant, au lieu de l'emplir de rancune. Et il restait surpris, l'idée de la prendre à Réquillart devenait toute naturelle et d'une exécution facile.
+
+« Voyons, décide-toi, où veux-tu que je te mène ?... Tu me détestes donc bien, que tu refuses de te mettre avec moi ? »
+
+Elle le suivait lentement, retardée par les glissades pénibles de ses sabots dans les ornières ; et, sans lever la tête, elle murmura :
+
+« J'ai assez de peine, mon Dieu ! ne m'en fais pas davantage. À quoi ça nous avancerait-il, ce que tu demandes, aujourd'hui que j'ai un galant et que tu as toi-même une femme ? »
+
+C'était de la Mouquette dont elle parlait. Elle le croyait avec cette fille, comme le bruit en courait depuis quinze jours ; et, quand il lui jura que non, elle hocha la tête, elle rappela le soir où elle les avait vus se baiser à pleine bouche.
+
+« Est-ce dommage, toutes ces bêtises ? reprit-il à mi-voix, en s'arrêtant. Nous nous serions si bien entendus ! »
+
+Elle eut un petit frisson, elle répondit :
+
+« Va, ne regrette rien, tu ne perds pas grand-chose, si tu savais quelle patraque je suis, guère plus grosse que deux sous de beurre, si mal fichue que je ne deviendrai jamais une femme, bien sûr ! »
+
+Et elle continua librement, elle s'accusait comme d'une faute de ce long retard de sa puberté.
+
+Cela, malgré l'homme qu'elle avait eu, la diminuait, la reléguait parmi les gamines. On a une excuse encore, lorsqu'on peut faire un enfant.
+
+« Ma pauvre petite ! » dit tout bas Étienne, saisi d'une grande pitié.
+
+Ils étaient au pied du terri, cachés dans l'ombre du tas énorme. Un nuage d'encre passait justement sur la lune, ils ne distinguaient même plus leurs visages, et leurs souffles se mêlaient, leurs lèvres se cherchaient, pour ce baiser dont le désir les avait tourmentés pendant des mois. Mais, brusquement, la lune reparut, ils virent au-dessus d'eux, en haut des roches blanches de lumière, la sentinelle détachée du Voreux, toute droite. Et, sans qu'ils se fussent baisés enfin, une pudeur les sépara, cette pudeur ancienne où il y avait de la colère, une vague répugnance et beaucoup d'amitié. Ils repartirent pesamment, dans le gâchis jusqu'aux chevilles.
+
+« C'est décidé, tu ne veux pas ? demanda Étienne.
+
+--- Non, dit-elle. Toi, après Chaval, hein ? et, après toi, un autre... Non, ça me dégoûte, je n'y ai aucun plaisir, pour quoi faire alors ? »
+
+Ils se turent, marchèrent une centaine de pas, sans échanger un mot.
+
+« Sais-tu où tu vas au moins ? reprit-il. Je ne puis te laisser dehors par une nuit pareille. »
+
+Elle répondit simplement :
+
+« Je rentre, Chaval est mon homme, je n'ai pas à coucher ailleurs que chez lui.
+
+--- Mais il t'assommera de coups ! »
+
+Le silence recommença. Elle avait eu un haussement d'épaules résigné. Il la battrait, et quand il serait las de la battre, il s'arrêterait : ne valait-il pas mieux ça, que de rouler les chemins comme une gueuse ? Puis, elle s'habituait aux gifles, elle disait, pour se consoler, que, sur dix filles, huit ne tombaient pas mieux qu'elle. Si son galant l'épousait un jour, ce serait tout de même bien gentil de sa part.
+
+Étienne et Catherine s'étaient dirigés machinalement vers Montsou, et à mesure qu'ils s'en approchaient, leurs silences devenaient plus longs. C'était comme s'ils n'avaient déjà plus été ensemble. Lui, ne trouvait rien pour la convaincre, malgré le gros chagrin qu'il éprouvait à la voir retourner avec Chaval. Son cœur se brisait, il n'avait guère mieux à offrir, une existence de misère et de fuite, une nuit sans lendemain, si la balle d'un soldat lui cassait la tête. Peut-être, en effet, était-ce plus sage de souffrir ce qu'on souffrait, sans tenter une autre souffrance. Et il la reconduisait chez son galant, la tête basse, et il n'eut pas de protestation, lorsque, sur la grande route, elle l'arrêta au coin des Chantiers, à vingt mètres de l'estaminet Piquette, en disant :
+
+« Ne viens pas plus loin. S'il te voyait, ça ferait encore du vilain. »
+
+Onze heures sonnaient à l'église, l'estaminet était fermé, mais des lueurs passaient par les fentes.
+
+« Adieu », murmura-t-elle.
+
+Elle lui avait donné sa main, il la gardait, et elle dut la retirer péniblement, d'un lent effort, pour le quitter. Sans retourner la tête, elle rentra par la petite porte, avec sa loquette. Mais lui ne s'éloignait point, debout à la même place, les yeux sur la maison, anxieux de ce qui se passait là. Il tendait l'oreille, il tremblait d'entendre des hurlements de femme battue. La maison demeurait noire et silencieuse, il vit seulement s'éclairer une fenêtre du premier étage ; et, comme cette fenêtre s'ouvrait et qu'il reconnaissait l'ombre mince qui se penchait sur la route, il s'avança.
+
+Catherine, alors, souffla d'une voix très basse :
+
+« Il n'est pas rentré, je me couche... Je t'en supplie, va-t'en ! »
+
+Étienne s'en alla. Le dégel augmentait, un ruissellement d'averse tombait des toitures, une sueur d'humidité coulait des murailles, des palissades, de toutes les masses confuses de ce faubourg industriel, perdues dans la nuit. D'abord, il se dirigea vers Réquillart, malade de fatigue et de tristesse, n'ayant plus que le besoin de disparaître sous la terre, de s'y anéantir. Puis, l'idée du Voreux le reprit, il songeait aux ouvriers belges qui allaient descendre, aux camarades du coron exaspérés contre les soldats, résolus à ne pas tolérer des étrangers dans leur fosse. Et il longea de nouveau le canal, au milieu des flaques de neige fondue.
+
+Comme il se retrouvait près du terri, la lune se montra très claire. Il leva les yeux, regarda le ciel, où passait le galop des nuages, sous les coups de fouet du grand vent qui soufflait là-haut ; mais ils blanchissaient, ils s'effiloquaient, plus minces, d'une transparence brouillée d'eau trouble sur la face de la lune ; et ils se succédaient si rapides que l'astre, voilé par moments, reparaissait sans cesse dans sa limpidité.
+
+Le regard empli de cette clarté pure, Étienne baissait la tête, lorsqu'un spectacle, au sommet du terri, l'arrêta. La sentinelle, raidie par le froid, s'y promenait maintenant, faisant vingt-cinq pas tournée vers Marchiennes, puis revenait tournée vers Montsou. On voyait la flamme blanche de la baïonnette, au-dessus de cette silhouette noire, qui se découpait nettement dans la pâleur du ciel. Et ce qui intéressait le jeune homme, c'était, derrière la cabane où s'abritait Bonnemort pendant les nuits de tempête, une ombre mouvante, une bête rampante et aux aguets, qu'il reconnut tout de suite pour Jeanlin, à son échine de fouine, longue et désossée. La sentinelle ne pouvait l'apercevoir, ce brigand d'enfant préparait à coup sûr une farce, car il ne décolérait pas contre les soldats, il demandait quand on serait débarrassé de ces assassins, qu'on envoyait avec des fusils tuer le monde.
+
+Un instant, Étienne hésita à l'appeler, pour l'empêcher de faire quelque bêtise. La lune s'était cachée, il l'avait vu se ramasser sur lui-même, prêt à bondir ; mais la lune reparaissait, et l'enfant restait accroupi. À chaque tour, la sentinelle s'avançait jusqu'à la cabane, puis tournait le dos et repartait. Et, brusquement, comme un nuage jetait ses ténèbres, Jeanlin sauta sur les épaules du soldat, d'un bond énorme de chat sauvage, s'y agrippa de ses griffes, lui enfonça dans la gorge son couteau grand ouvert. Le col de crin résistait, il dut appuyer des deux mains sur le manche, s'y pendre de tout le poids de son corps. Souvent, il avait saigné des poulets, qu'il surprenait derrière les fermes. Cela fut si rapide, qu'il y eut seulement dans la nuit un cri étouffé, pendant que le fusil tombait avec un bruit de ferraille. Déjà, la lune, très blanche, luisait.
+
+Immobile de stupeur, Étienne regardait toujours. L'appel s'étranglait au fond de sa poitrine. En haut, le terri était vide, aucune ombre ne se détachait plus sur la fuite effarée des nuages. Et il monta au pas de course, il trouvanlin à quatre pattes, devant le cadavre, étalé en arrière, les bras élargis. Dans la neige, sous la clarté limpide, le pantalon rouge et la capote grise tranchaient durement. Pas une goutte de sang n'avait coulé, le couteau était encore dans la gorge, jusqu'au manche.
+
+D'un coup de poing irraisonné, furieux, il abattit l'enfant près du corps.
+
+« Pourquoi as-tu fait ça ? » bégayait-il éperdu.
+
+Jeanlin se ramassa, se traîna sur les mains, avec le renflement félin de sa maigre échine ; et ses larges oreilles, ses yeux verts, ses mâchoires saillantes, frémissaient et flambaient, dans la secousse de son mauvais coup.
+
+« Nom de Dieu ! pourquoi as-tu fait ça ?
+
+--- Je ne sais pas, j'en avais envie. »
+
+Il se buta à cette réponse. Depuis trois jours, il en avait envie. Ça le tourmentait, la tête lui en faisait du mal, là, derrière les oreilles, tellement il y pensait. Est-ce qu'on avait à se gêner, avec ces cochons de soldats qui embêtaient les charbonniers chez eux ? Des discours violents dans la forêt, des cris de dévastation et de mort hurlés au travers des fosses, cinq ou six mots lui étaient restés, qu'il répétait en gamin jouant à la révolution. Et il n'en savait pas davantage, personne ne l'avait poussé, ça lui était venu tout seul, comme lui venait l'envie de voler des oignons dans un champ.
+
+Étienne, épouvanté de cette végétation sourde du crime au fond de ce crâne d'enfant, le chassa encore, d'un coup de pied, ainsi qu'une bête inconsciente. Il tremblait que le poste du Voreux n'eût entendu le cri étouffé de la sentinelle, il jetait un regard vers la fosse, chaque fois que la lune se découvrait. Mais rien n'avait bougé, et il se pencha, il tâta les mains peu à peu glacées, il écouta le cœur, arrêté sous la capote. On ne voyait, du couteau, que le manche d'os, où la devise galante, ce mot simple : « Amour », était gravée en lettres noires.
+
+Ses yeux allèrent de la gorge au visage. Brusquement, il reconnut le petit soldat : c'était Jules, la recrue, avec qui il avait causé, un matin. Et une grande pitié le saisit, en face de cette douce figure blonde, criblée de taches de rousseur. Les yeux bleus, largement ouverts, regardaient le ciel, de ce regard fixe dont il lui avait vu chercher à l'horizon le pays natal. Où se trouvait-il, ce Plogoff, qui lui apparaissait dans un éblouissement de soleil ? là-bas, là-bas. La mer hurlait au loin, par cette nuit d'ouragan. Ce vent qui passait si haut avait peut-être soufflé sur la lande. Deux femmes étaient debout, la mère, la sœur, tenant leurs coiffes emportées, regardant, elles aussi, comme si elles avaient pu voir ce que faisait à cette heure le petit, au-delà des lieues qui les séparaient. Elles l'attendraient toujours, maintenant. Quelle abominable chose, de se tuer entre pauvres diables, pour les riches !
+
+Mais il fallait faire disparaître ce cadavre, Étienne songea d'abord à le jeter dans le canal. La certitude qu'on l'y trouverait, l'en détourna. Alors, son anxiété devint extrême, les minutes pressaient, quelle décision prendre ? Il eut une soudaine inspiration : s'il pouvait porter le corps jusqu'à Réquillart, il saurait l'y enfouir à jamais.
+
+« Viens ici », dit-il anlin.
+
+L'enfant se méfiait.
+
+« Non, tu veux me battre. Et puis, j'ai des affaires. Bonsoir. »
+
+En effet, il avait donné rendez-vous à Bébert et à Lydie, dans une cachette, un trou ménagé sous la provision des bois, au Voreux. C'était toute une grosse partie, de découcher, pour en être, si l'on cassait les os des Belges à coups de pierres, quand ils descendraient.
+
+« Écoute, répéta Étienne, viens ici, ou j'appelle les soldats, qui te couperont la tête. »
+
+Et, commanlin se décidait, il roula son mouchoir, en banda fortement le cou du soldat, sans retirer le couteau, qui empêchait le sang de couler. La neige fondait, il n'y avait, sur le sol, ni flaque rouge, ni piétinement de lutte.
+
+« Prends les jambes. »
+
+Jeanlin prit les jambes, Étienne empoigna les épaules, après avoir attaché le fusil derrière son dos ; et tous deux, lentement, descendirent le terri, en tâchant de ne pas faire débouler les roches. Heureusement, la lune s'était voilée. Mais, comme ils filaient le long du canal, elle reparut très claire : ce fut miracle si le poste ne les vit pas. Silencieux, ils se hâtaient, gênés par le ballottement du cadavre, obligés de le poser à terre tous les cent mètres. Au coin de la ruelle de Réquillart, un bruit les glaça, ils n'eurent que le temps de se cacher derrière un mur, pour éviter une patrouille. Plus loin, un homme les surprit, mais il était ivre, il s'éloigna en les injuriant. Et ils arrivèrent enfin à l'ancienne fosse, couverts de sueur, si bouleversés, que leurs dents claquaient.
+
+Étienne s'était bien douté qu'il ne serait pas commode de faire passer le soldat par le goyot des échelles. Ce fut une besogne atroce. D'abord, il fallut quanlin, resté en haut, laissât glisser le corps pendant que lui, pendu aux broussailles, l'accompagnait, pour l'aider à franchir les deux premiers paliers, où des échelons se trouvaient rompus. Ensuite, à chaque échelle, il dut recommencer la même manœuvre, descendre en avant, puis le recevoir dans ses bras ; et il eut ainsi trente échelles, deux cent dix mètres, à le sentir tomber continuellement sur lui. Le fusil raclait son échine, il n'avait pas voulu que l'enfant allât chercher le bout de chandelle, qu'il gardait en avare. À quoi bon ? la lumière les embarrasserait, dans ce boyau étroit. Pourtant, lorsqu'ils furent arrivés à la salle d'accrochage, hors d'haleine, il envoya le petit prendre la chandelle. Il s'était assis, il l'attendait au milieu des ténèbres, près du corps, le cœur battant à grands coups.
+
+Dès quanlin reparut avec de la lumière, Étienne le consulta, car l'enfant avait fouillé ces anciens travaux, jusqu'aux fentes où les hommes ne pouvaient passer. Ils repartirent, ils traînèrent le mort près d'un kilomètre, par un dédale de galeries en ruine. Enfin, le toit s'abaissa, ils se trouvaient agenouillés, sous une roche ébouleuse, que soutenaient des bois à demi rompus. C'était une sorte de caisse longue, où ils couchèrent le petit soldat comme dans un cercueil ; ils déposèrent le fusil contre son flanc ; puis, à grands coups de talon, ils achevèrent de casser les bois, au risque d'y rester eux-mêmes. Tout de suite, la roche se fendit, ils eurent à peine le temps de ramper sur les coudes et sur les genoux. Lorsque Étienne se retourna, pris du besoin de voir, l'affaissement du toit continuait, écrasait lentement le corps, sous la poussée énorme. Et il n'y eut plus rien, rien que la masse profonde de la terre.
+
+Jeanlin, de retour chez lui, dans son coin de caverne scélérate, s'étala sur le foin, en murmurant, brisé de lassitude :
+
+« Zut ! les mioches m'attendront, je vais dormir une heure. »
+
+Étienne avait soufflé la chandelle, dont il ne restait qu'un petit bout. Lui aussi était courbatu, mais il n'avait pas sommeil, des pensées douloureuses de cauchemar tapaient comme des marteaux dans son crâne. Une seule bientôt demeura, torturante, le fatiguant d'une interrogation à laquelle il ne pouvait répondre : pourquoi n'avait-il pas frappé Chaval, quand il le tenait sous le couteau ? et pourquoi cet enfant venait-il d'égorger un soldat, dont il ignorait même le nom ? Cela bousculait ses croyances révolutionnaires, le courage de tuer, le droit de tuer. Était-ce donc qu'il fût lâche ? Dans le foin, l'enfant s'était mis à ronfler, d'un ronflement d'homme soûl, comme s'il eût cuvé l'ivresse de son meurtre. Et, répugné, irrité, Étienne souffrait de le savoir là, de l'entendre. Tout d'un coup, il tressaillit, le souffle de la peur lui avait passé sur la face. Un frôlement léger, un sanglot lui semblait être sorti des profondeurs de la terre. L'image du petit soldat, couché là-bas avec son fusil, sous les roches, lui glaça le dos et fit dresser ses cheveux. C'était imbécile, toute la mine s'emplissait de voix, il dut rallumer la chandelle, il ne se calma qu'en revoyant le vide des galeries, à cette clarté pâle.
+
+Pendant un quart d'heure encore, il réfléchit, toujours ravagé par la même lutte, les yeux fixés sur cette mèche qui brûlait. Mais il y eut un grésillement, la mèche se noyait, et tout retomba aux ténèbres. Il fut repris d'un frisson, il aurait giflanlin, pour l'empêcher de ronfler si fort. Le voisinage de l'enfant lui devenait si insupportable, qu'il se sauva, tourmenté d'un besoin de grand air, se hâtant par les galeries et par le goyot, comme s'il avait entendu une ombre s'essouffler derrière ses talons.
+
+En haut, au milieu des décombres de Réquillart, Étienne put enfin respirer largement. Puisqu'il n'osait tuer, c'était à lui de mourir ; et cette idée de mort, qui l'avait effleuré déjà, renaissait, s'enfonçait dans sa tête, comme une espérance dernière. Mourir crânement, mourir pour la révolution, cela terminerait tout, réglerait son compte bon ou mauvais, l'empêcherait de penser davantage. Si les camarades attaquaient les Borains, il serait au premier rang, il aurait bien la chance d'attraper un mauvais coup. Ce fut d'un pas raffermi qu'il retourna rôder autour du Voreux. Deux heures sonnaient, un gros bruit de voix sortait de la chambre des porions, où campait le poste qui gardait la fosse. La disparition de la sentinelle venait de bouleverser ce poste, on était allé réveiller le capitaine, on avait fini par croire à une désertion, après un examen attentif des lieux. Et, aux aguets dans l'ombre, Étienne se souvenait de ce capitaine républicain, dont le petit soldat lui avait parlé. Qui sait si on ne le déciderait pas à passer au peuple ? La troupe mettrait la crosse en l'air, cela pouvait être le signal du massacre des bourgeois. Un nouveau rêve l'emporta, il ne songea plus à mourir, il resta des heures, les pieds dans la boue, la bruine du dégel sur les épaules, enfiévré par l'espoir d'une victoire encore possible.
+
+Jusqu'à cinq heures, il guetta les Borains. Puis, il s'aperçut que la Compagnie avait eu la malignité de les faire coucher au Voreux. La descente commençait, les quelques grévistes du coron des Deux-Cent-Quarante, postés en éclaireurs, hésitaient à prévenir les camarades. Ce fut lui qui les avertit du bon tour, et ils partirent en courant, tandis qu'il attendait derrière le terri, sur le chemin de halage. Six heures sonnèrent, le ciel terreux pâlissait, s'éclairait d'une aube rougeâtre, lorsque l'abbé Ranvier déboucha d'un sentier, avec sa soutane relevée sur ses maigres jambes. Chaque lundi, il allait dire une messe matinale à la chapelle d'un couvent, de l'autre côté de la fosse.
+
+« Bonjour, mon ami », cria-t-il d'une voix forte, après avoir dévisagé le jeune homme de ses yeux de flamme.
+
+Mais Étienne ne répondit pas. Au loin, entre les tréteaux du Voreux, il venait de voir passer une femme, et il s'était précipité, pris d'inquiétude, car il avait cru reconnaître Catherine.
+
+Depuis minuit, Catherine battait le dégel des routes. Chaval, en rentrant et en la trouvant couchée, l'avait mise debout d'un soufflet. Il lui criait de passer tout de suite par la porte, si elle ne voulait pas sortir par la fenêtre ; et, pleurante, vêtue à peine, meurtrie de coups de pied dans les jambes, elle avait dû descendre, poussée dehors d'une dernière claque. Cette séparation brutale l'étourdissait, elle s'était assise sur une borne, regardant la maison, attendant toujours qu'il la rappelât ; car ce n'était pas possible, il la guettait, il lui dirait de remonter, quand il la verrait grelotter ainsi, abandonnée, sans personne pour la recueillir.
+
+Puis, au bout de deux heures, elle se décida, mourant de froid, dans cette immobilité de chien jeté à la rue. Elle sortit de Montsou, revint sur ses pas, n'osa ni appeler du trottoir ni taper à la porte. Enfin, elle s'en alla par le pavé, sur la grande route droite, avec l'idée de se rendre au coron, chez ses parents. Mais, quand elle y fut, une telle honte la saisit, qu'elle galopa le long des jardins, dans la crainte d'être reconnue de quelqu'un, malgré le lourd sommeil, appesanti derrière les persiennes closes. Et, dès lors, elle vagabonda, effarée au moindre bruit, tremblante d'être ramassée et conduite, comme une gueuse, à cette maison publique de Marchiennes, dont la menace la hantait d'un cauchemar depuis des mois. Deux fois, elle buta contre le Voreux, s'effraya des grosses voix du poste, courut essoufflée, avec des regards en arrière, pour voir si on ne la poursuivait pas. La ruelle de Réquillart était toujours pleine d'hommes saouls, elle y retournait pourtant, dans l'espoir vague d'y rencontrer celui qu'elle avait repoussé, quelques heures plus tôt.
+
+Chaval, ce matin-là, devait descendre ; et cette pensée ramena Catherine vers la fosse, bien qu'elle sentît l'inutilité de lui parler : c'était fini entre eux. On ne travaillait plus an-Bart, il avait juré de l'étrangler, si elle reprenait du travail au Voreux, où il craignait d'être compromis par elle. Alors, que faire ? partir ailleurs, crever la faim, céder sous les coups de tous les hommes qui passeraient ? Elle se traînait, chancelait au milieu des ornières, les jambes rompues, crottée jusqu'à l'échine. Le dégel roulait maintenant par les chemins en fleuve de fange, elle s'y noyait, marchant toujours, n'osant chercher une pierre où s'asseoir.
+
+Le jour parut, Catherine venait de reconnaître le dos de Chaval qui tournait prudemment le terri, lorsqu'elle aperçut Lydie et Bébert, sortant le nez de leur cachette, sous la provision des bois. Ils y avaient passé la nuit aux aguets, sans se permettre de rentrer chez eux, du moment où l'ordre danlin était de l'attendre ; et, tandis que ce dernier, à Réquillart, cuvait l'ivresse de son meurtre, les deux enfants s'étaient pris au bras l'un de l'autre, pour avoir chaud. Le vent sifflait entre les perches de châtaignier et de chêne, ils se pelotonnaient, comme dans une hutte de bûcheron abandonnée. Lydie n'osait dire à voix haute ses souffrances de petite femme battue, pas plus que Bébert ne trouvait le courage de se plaindre des claques dont le capitaine lui enflait les joues ; mais, à la fin, celui-ci abusait trop, risquant leurs os dans des maraudes folles, refusant ensuite tout partage ; et leur cœur se soulevait de révolte, ils avaient fini par s'embrasser, malgré sa défense, quitte à recevoir une gifle de l'invisible, ainsi qu'il les en menaçait. La gifle ne venant pas, ils continuaient de se baiser doucement, sans avoir l'idée d'autre chose, mettant dans cette caresse leur longue passion combattue, tout ce qu'il y avait en eux de martyrisé et d'attendri. La nuit entière, ils s'étaient ainsi réchauffés, si heureux au fond de ce trou perdu qu'ils ne se rappelaient pas l'avoir été davantage, même à la Sainte-Barbe, quand on mangeait des beignets et qu'on buvait du vin.
+
+Une brusque sonnerie de clairon fit tressaillir Catherine. Elle se haussa, elle vit le poste du Voreux qui prenait les armes. Étienne arrivait au pas de course, Bébert et Lydie avaient sauté d'un bond hors de leur cachette. Et, là-bas, sous le jour grandissant, une bande d'hommes et de femmes descendaient du coron, avec de grands gestes de colère.
+
+GERMINAL
+
+Sixième partie
+
+### V
+On venait de fermer toutes les ouvertures du Voreux ; et les soixante soldats, l'arme au pied, barraient la seule porte restée libre, celle qui menait à la recette, par un escalier étroit, où s'ouvraient la chambre des porions et la baraque. Le capitaine les avait alignés sur deux rangs, contre le mur de briques, pour qu'on ne pût les attaquer par-derrière.
+
+D'abord, la bande des mineurs descendue du coron se tint à distance. Ils étaient une trentaine au plus, ils se concertaient en paroles violentes et confuses.
+
+La Maheude, arrivée la première, dépeignée sous un mouchoir noué à la hâte, ayant au bras Estelle endormie, répétait d'une voix fiévreuse :
+
+« Que personne n'entre et que personne ne sorte ! Faut les pincer tous là-dedans ! »
+
+Maheu approuvait, lorsque le père Mouque, justement, arriva de Réquillart. On voulut l'empêcher de passer. Mais il se débattit, il dit que ses chevaux mangeaient tout de même leur avoine et se fichaient de la révolution. D'ailleurs, il y avait un cheval mort, on l'attendait pour le sortir. Étienne dégagea le vieux palefrenier, que les soldats laissèrent monter au puits. Et, un quart d'heure plus tard, comme la bande des grévistes, peu à peu grossie, devenait menaçante, une large porte se rouvrit au rez-de-chaussée, des hommes parurent, charriant la bête morte, un paquet lamentable, encore serré dans le filet de corde, qu'ils abandonnèrent au milieu des flaques de neige fondue. Le saisissement fut tel, qu'on ne les empêcha pas de rentrer et de barricader la porte de nouveau. Tous avaient reconnu le cheval, à sa tête repliée et raidie contre le flanc. Des chuchotements coururent.
+
+« C'est Trompette, n'est-ce pas ? c'est Trompette. »
+
+C'était Trompette, en effet. Depuis sa descente, jamais il n'avait pu s'acclimater. Il restait morne, sans goût à la besogne, comme torturé du regret de la lumière. Vainement, Bataille, le doyen de la mine, le frottait amicalement de ses côtes, lui mordillait le cou, pour lui donner un peu de la résignation de ses dix années de fond. Ces caresses redoublaient sa mélancolie, son poil frémissait sous les confidences du camarade vieilli dans les ténèbres ; et tous deux, chaque fois qu'ils se rencontraient et qu'ils s'ébrouaient ensemble, avaient l'air de se lamenter, le vieux d'en être à ne plus se souvenir, le jeune de ne pouvoir oublier. À l'écurie, voisins de mangeoire, ils vivaient la tête basse, se soufflant aux naseaux, échangeant leur continuel rêve du jour, des visions d'herbes vertes, de routes blanches, de clartés jaunes, à l'infini. Puis, quand Trompette, trempé de sueur, avait agonisé, sur sa litière, Bataille s'était mis à le flairer désespérément, avec des reniflements courts, pareils à des sanglots. Il le sentait devenir froid, la mine lui prenait sa joie dernière, cet ami tombé d'en haut, frais de bonnes odeurs, qui lui rappelaient sa jeunesse au plein air. Et il avait cassé sa longe, hennissant de peur, lorsqu'il s'était aperçu que l'autre ne remuait plus.
+
+Mouque, du reste, avertissait depuis huit jours le maître porion. Mais on s'inquiétait bien d'un cheval malade, en ce moment-là ! Ces messieurs n'aimaient guère déplacer les chevaux. Maintenant, il fallait pourtant se décider à le sortir. La veille, le palefrenier avait passé une heure avec deux hommes, ficelant Trompette. On attela Bataille, pour l'amener jusqu'au puits. Lentement, le vieux cheval tirait, traînait le camarade mort, par une galerie si étroite, qu'il devait donner des secousses, au risque de l'écorcher ; et, harassé, il branlait la tête, en écoutant le long frôlement de cette masse attendue chez l'équarrisseur. À l'accrochage, quand on l'eut dételé, il suivit de son œil morne les préparatifs de la remonte, le corps poussé sur des traverses, au-dessus du puisard, le filet attaché sous une cage. Enfin, les chargeurs sonnèrent à la viande, il leva le cou pour le regarder partir, d'abord doucement, puis tout de suite noyé de ténèbres, envolé à jamais en haut de ce trou noir. Et il demeurait le cou allongé, sa mémoire vacillante de bête se souvenait peut-être des choses de la terre. Mais c'était fini, le camarade ne verrait plus rien, lui-même serait ainsi ficelé en un paquet pitoyable, le jour où il remonterait par là. Ses pattes se mirent à trembler, le grand air qui venait des campagnes lointaines l'étouffait ; et il était comme ivre, quand il rentra pesamment à l'écurie.
+
+Sur le carreau, les charbonniers restaient sombres, devant le cadavre de Trompette. Une femme dit à demi-voix :
+
+« Encore un homme, ça descend si ça veut ! »
+
+Mais un nouveau flot arrivait du coron, et Levaque qui marchait en tête, suivi de la Levaque et de Bouteloup, criait :
+
+« À mort, les Borains ! pas d'étrangers chez nous ! à mort ! à mort ! »
+
+Tous se ruaient, il fallut qu'Étienne les arrêtât. Il s'était approché du capitaine, un grand jeune homme mince, de vingt-huit ans à peine, la face désespérée et résolue ; et il lui expliquait les choses, il tâchait de le gagner, guettant l'effet de ses paroles. A quoi bon risquer un massacre inutile ? est-ce que la justice ne se trouvait pas du côté des mineurs ? On était tous frères, on devait s'entendre. Au mot de république, le capitaine avait eu un geste nerveux. Il gardait une raideur militaire, il dit brusquement :
+
+« Au large ! ne me forcez pas à faire mon devoir. »
+
+Trois fois, Étienne recommença. Derrière lui, les camarades grondaient. Le bruit courait que M. Hennebeau était à la fosse, et on parlait de le descendre par le cou, pour voir s'il abattrait son charbon lui-même. Mais c'était un faux bruit, il n'y avait là que Négrel et Dansaert, qui tous deux se montrèrent un instant à une fenêtre de la recette : le maître porion se tenait en arrière, décontenancé depuis son aventure avec la Pierronne ; tandis que l'ingénieur, bravement, promenait sur la foule ses petits yeux vifs, souriant du mépris goguenard dont il enveloppait les hommes et les choses. Des huées s'élevèrent, ils disparurent. Et, à leur place, on ne vit plus que la face blonde de Souvarine. Il était justement de service, il n'avait pas quitté sa machine un seul jour, depuis le commencement de la grève, ne parlant plus, absorbé peu à peu dans une idée fixe, dont le clou d'acier semblait luire au fond de ses yeux pâles.
+
+« Au large ! répéta très haut le capitaine. Je n'ai rien à entendre, j'ai l'ordre de garder le puits, je le garderai... Et ne vous poussez pas sur mes hommes, ou je saurai vous faire reculer. »
+
+Malgré sa voix ferme, une inquiétude croissante le pâlissait, à la vue du flot toujours montant des mineurs. On devait le relever à midi ; mais, craignant de ne pouvoir tenir jusque-là, il venait d'envoyer à Montsou un galibot de la fosse, pour demander du renfort.
+
+Des vociférations lui avaient répondu.
+
+« À mort les étrangers ! à mort les Borains !... Nous voulons être les maîtres chez nous ! »
+
+Étienne recula, désolé. C'était la fin, il n'y avait plus qu'à se battre et à mourir. Et il cessa de retenir les camarades, la bande roula jusqu'à la petite troupe. Ils étaient près de quatre cents, les corons du voisinage se vidaient, arrivaient au pas de course. Tous jetaient le même cri, Maheu et Levaque disaient furieusement aux soldats :
+
+« Allez-vous-en ! nous n'avons rien contre vous, allez-vous-en !
+
+--- Ça ne vous regarde pas, reprenait la Maheude. Laissez-nous faire nos affaires. »
+
+Et, derrière elle, la Levaque ajoutait, plus violente :
+
+« Est-ce qu'il faudra vous manger pour passer ? On vous prie de foutre le camp ! »
+
+Même on entendit la voix grêle de Lydie, qui s'était fourrée au plus épais avec Bébert, dire sur un ton aigu :
+
+« En voilà des andouilles de lignards ! »
+
+Catherine, à quelques pas, regardait, écoutait, l'air hébété par ces nouvelles violences, au milieu desquelles le mauvais sort la faisait tomber. Est-ce qu'elle ne souffrait pas trop déjà ? quelle faute avait-elle donc commise, pour que le malheur ne lui laissât pas de repos ? La veille encore, elle ne comprenait rien aux colères de la grève, elle pensait que, lorsqu'on a sa part de gifles, il est inutile d'en chercher davantage ; et, à cette heure, son cœur se gonflait d'un besoin de haine, elle se souvenait de ce qu'Étienne racontait autrefois à la veillée, elle tâchait d'entendre ce qu'il disait maintenant aux soldats. Il les traitait de camarades, il leur rappelait qu'ils étaient du peuple, eux aussi, qu'ils devaient être avec le peuple, contre les exploiteurs de la misère.
+
+Mais il y eut dans la foule une longue secousse, et une vieille femme déboula. C'était la Brûlé, effrayante de maigreur, le cou et les bras à l'air, accourue d'un tel galop, que des mèches de cheveux gris l'aveuglaient.
+
+« Ah ! nom de Dieu, j'en suis ! balbutiait-elle, l'haleine coupée. Ce vendu de Pierron qui m'avait enfermée dans la cave ! »
+
+Et, sans attendre, elle tomba sur l'armée, la bouche noire, vomissant l'injure.
+
+« Tas de canailles ! tas de crapules ! ça lèche les bottes de ses supérieurs, ça n'a de courage que contre le pauvre monde ! »
+
+Alors, les autres se joignirent à elle, ce furent des bordées d'insultes. Quelques-uns criaient encore : « Vivent les soldats ! au puits l'officier ! » Mais bientôt il n'y eut plus qu'une clameur : « À bas les pantalons rouges ! » Ces hommes qui avaient écouté, impassibles, d'un visage immobile et muet, les appels à la fraternité, les tentatives amicales d'embauchage, gardaient la même raideur passive, sous cette grêle de gros mots. Derrière eux, le capitaine avait tiré son épée ; et, comme la foule les serrait de plus en plus, menaçant de les écraser contre le mur, il leur commanda de croiser la baïonnette. Ils obéirent, une double rangée de pointes d'acier s'abattit devant les poitrines des grévistes.
+
+« Ah ! les jean-foutre ! » hurla la Brûlé, en reculant.
+
+Déjà, tous revenaient, dans un mépris exalté de la mort. Des femmes se précipitaient, la Maheude et la Levaque clamaient :
+
+« Tuez-nous, tuez-nous donc ! Nous voulons nos droits. »
+
+Levaque, au risque de se couper, avait saisi à pleines mains un paquet de baïonnettes, trois baïonnettes, qu'il secouait, qu'il tirait à lui, pour les arracher ; et il les tordait, dans les forces décuplées de sa colère, tandis que Bouteloup, à l'écart, ennuyé d'avoir suivi le camarade, le regardait faire tranquillement.
+
+« Allez-y, pour voir, répétait Maheu, allez-y un peu, si vous êtes de bons bougres ! »
+
+Et il ouvrait sa veste, et il écartait sa chemise, étalant sa poitrine nue, sa chair velue et tatouée de charbon. Il se poussait sur les pointes, il les obligeait à reculer, terrible d'insolence et de bravoure. Une d'elles l'avait piqué au sein, il en était comme fou et s'efforçait qu'elle entrât davantage, pour entendre craquer ses côtes.
+
+« Lâches, vous n'osez pas... Il y en a dix mille derrière nous. Oui, vous pouvez nous tuer, il y en aura dix mille à tuer encore. »
+
+La position des soldats devenait critique, car ils avaient reçu l'ordre sévère de ne se servir de leurs armes qu'à la dernière extrémité. Et comment empêcher ces enragés-là de s'embrocher eux-mêmes ? D'autre part, l'espace dimi-nuait, ils se trouvaient maintenant acculés contre le mur, dans l'impossibilité de reculer davantage. Leur petite troupe, une poignée d'hommes, en face de la marée montante des mineurs, tenait bon cependant, exécutait avec sang-froid les ordres brefs donnés par le capitaine. Celui-ci, les yeux clairs, les lèvres nerveusement amincies, n'avait qu'une peur, celle de les voir s'emporter sous les injures. Déjà, un jeune sergent, un grand maigre dont les quatre poils de moustaches se hérissaient, battait des paupières d'une façon inquiétante. Près de lui, un vieux chevronné, au cuir tanné par vingt campagnes, avait blêmi, quand il avait vu sa baïonnette tordue comme une paille. Un autre, une recrue sans doute, sentant encore le labour, devenait très rouge, chaque fois qu'il s'entendait traiter de crapule et de canaille. Et les violences ne cessaient pas, les poings tendus, les mots abominables, des pelletées d'accusations et de menaces qui les souffletaient au visage. Il fallait toute la force de la consigne pour les tenir ainsi, la face muette, dans le hautain et triste silence de la discipline militaire.
+
+Une collision semblait fatale, lorsqu'on vit sortir, derrière la troupe, le porion Richomme, avec sa tête blanche de bon gendarme, bouleversée d'émotion. Il parlait tout haut.
+
+« Nom de Dieu, c'est bête à la fin ! On ne peut pas permettre des bêtises pareilles. »
+
+Et il se jeta entre les baïonnettes et les mineurs.
+
+« Camarades, écoutez-moi... Vous savez que je suis un vieil ouvrier et que je n'ai jamais cessé d'être un des vôtres. Eh bien, nom de Dieu ! je vous promets que, si l'on n'est pas juste avec vous, ce sera moi qui dirai aux chefs leurs quatre vérités... Mais en voilà de trop, ça n'avance à rien de gueuler des mauvaises paroles à ces braves gens et de vouloir se faire trouer le ventre. »
+
+On écoutait, on hésitait. En haut, malheureusement, reparut le profil aigu du petit Négrel. Il craignait sans doute qu'on ne l'accusât d'envoyer un porion, au lieu de se risquer lui-même ; et il tâcha de parler. Mais sa voix se perdit au milieu d'un tumulte si épouvantable, qu'il dut quitter de nouveau la fenêtre, après avoir simplement haussé les épaules, Richomme, dès lors, eut beau les supplier en son nom, répéter que cela devait se passer entre camarades : on le repoussait, on le suspectait. Mais il s'entêta, il resta au milieu d'eux.
+
+« Nom de Dieu ! qu'on me casse la tête avec vous, mais je ne vous lâche pas, tant que vous serez si bêtes ! »
+
+Étienne, qu'il suppliait de l'aider à leur faire entendre raison, eut un geste d'impuissance. Il était trop tard, leur nombre maintenant montait à plus de cinq cents. Et il n'y avait pas que des enragés, accourus pour chasser les Borains : des curieux stationnaient, des farceurs qui s'amusaient de la bataille. Au milieu d'un groupe, à quelque distance, Zacharie et Philomène regardaient comme au spectacle, si paisibles qu'ils avaient amené les deux enfants, Achille et Désirée. Un nouveau flot arrivait de Réquillart, dans lequel se trouvaient Mouquet et la Mouquette : lui, tout de suite, alla en ricanant taper sur les épaules de son ami Zacharie ; tandis qu'elle, très allumée, galopait au premier rang des mauvaises têtes.
+
+Cependant, à chaque minute, le capitaine se tournait vers la route de Montsou. Les renforts demandés n'arrivaient pas, ses soixante hommes ne pouvaient tenir davantage.
+
+Enfin, il eut l'idée de frapper l'imagination de la foule, il commanda de charger les fusils devant elle. Les soldats exécutèrent le commandement, mais l'agitation grandissait, des fanfaronnades et des moqueries.
+
+« Tiens ! ces feignants, ils partent pour la cible ! » ricanaient les femmes, la Brûlé, la Levaque et les autres.
+
+La Maheude, la gorge couverte du petit corps d'Estelle, qui s'était réveillée et qui pleurait, s'approchait tellement, que le sergent lui demanda ce qu'elle venait faire, avec ce pauvre mioche.
+
+« Qu'est-ce que ça te fout ? répondit-elle. Tire dessus, si tu l'oses. »
+
+Les hommes hochaient la tête de mépris. Aucun ne croyait qu'on pût tirer sur eux.
+
+« Il n'y a pas de balles dans leurs cartouches, dit Levaque.
+
+--- Est-ce que nous sommes des Cosaques ? cria Maheu. On ne tire pas contre des Français, nom de Dieu ! »
+
+D'autres répétaient que, lorsqu'on avait fait la campagne de Crimée, on ne craignait pas le plomb. Et tous continuaient à se jeter sur les fusils. Si une décharge avait eu lieu à ce moment, elle aurait fauché la foule.
+
+Au premier rang, la Mouquette s'étranglait de fureur, en pensant que des soldats voulaient trouer la peau à des femmes. Elle leur avait craché tous ses gros mots, elle ne trouvait pas d'injure assez basse, lorsque, brusquement, n'ayant plus que cette mortelle offense à bombarder au nez de la troupe, elle montra son cul. Des deux mains, elle relevait ses jupes, tendait les reins, élargissait la rondeur énorme.
+
+« Tenez, v'là pour vous ! et il est encore trop propre, tas de salauds ! »
+
+Elle plongeait, culbutait, se tournait pour que chacun en eût sa part, s'y reprenait à chaque poussée qu'elle envoyait.
+
+« V'là pour l'officier ! v'là pour le sergent ! v'là pour les militaires ! »
+
+Un rire de tempête s'éleva, Bébert et Lydie se tordaient, Étienne lui-même, malgré son attente sombre, applaudit à cette nudité insultante. Tous, les farceurs aussi bien que les forcenés, huaient les soldats maintenant, comme s'ils les voyaient salis d'un éclaboussement d'ordure ; et il n'y avait que Catherine, à l'écart, debout sur d'anciens bois, qui restât muette, le sang à la gorge, envahie de cette haine dont elle sentait la chaleur monter.
+
+Mais une bousculade se produisit. Le capitaine, pour calmer l'énervement de ses hommes, se décidait à faire des prisonniers. D'un saut, la Mouquette s'échappa, en se jetant entre les jambes des camarades. Trois mineurs, Levaque et deux autres, furent empoignés dans le tas des plus violents, et gardés à vue, au fond de la chambre des porions.
+
+D'en haut, Négrel et Dansaert criaient au capitaine de rentrer, de s'enfermer avec eux. Il refusa, il sentait que ces bâtiments aux portes sans serrure, allaient être emportés d'assaut, et qu'il y subirait la honte d'être désarmé. Déjà sa petite troupe grondait d'impatience, on ne pouvait fuir devant ces misérables en sabots. Les soixante, acculés au mur, le fusil chargé, firent de nouveau face à la bande.
+
+Il y eut d'abord un recul, un profond silence. Les grévistes restaient dans l'étonnement de ce coup de force. Puis, un cri monta, exigeant les prisonniers, réclamant leur liberté immédiate. Des voix disaient qu'on les égorgeait là-dedans. Et, sans s'être concertés, emportés d'un même élan, d'un même besoin de revanche, tous coururent aux tas de briques voisins, à ces briques dont le terrain marneux fournissait l'argile, et qui étaient cuites sur place. Les enfants les charriaient une à une, des femmes en emplissaient leurs jupes. Bientôt, chacun eut à ses pieds des munitions, la bataille à coups de pierres commença.
+
+Ce fut la Brûlé qui se campa la première. Elle cassait les briques, sur l'arête maigre de son genou, et de la main droite, et de la main gauche, elle lâchait les deux morceaux. La Levaque se démanchait les épaules, si grosse, si molle, qu'elle avait dû s'approcher pour taper juste, malgré les supplications de Bouteloup, qui la tirait en arrière, dans l'espoir de l'emmener, maintenant que le mari était à l'ombre. Toutes s'excitaient, la Mouquette, ennuyée de se mettre en sang, à rompre les briques sur ses cuisses trop grasses, préférait les lancer entières. Des gamins eux-mêmes entraient en ligne, Bébert montrait à Lydie comment on envoyait ça, par-dessous le coude. C'était une grêle, des grêlons énormes, dont on entendait les claquements sourds. Et, soudain, au milieu de ces furies, on aperçut Catherine, les poings en l'air, brandissant elle aussi des moitiés de brique, les jetant de toute la force de ses petits bras. Elle n'aurait pu dire pourquoi, elle suffoquait, elle crevait d'une envie de massacrer le monde. Est-ce que ça n'allait pas être bientôt fini, cette sacrée existence de malheur ? Elle en avait assez, d'être giflée et chassée par son homme, de patauger ainsi qu'un chien perdu dans la boue des chemins, sans pouvoir seulement demander une soupe à son père, en train d'avaler sa langue comme elle. Jamais ça ne marchait mieux, ça se gâtait au contraire depuis qu'elle se connaissait ; et elle cassait des briques, et elle les jetait devant elle, avec la seule idée de balayer tout, les yeux si aveuglés de sang, qu'elle ne voyait même pas à qui elle écrasait les mâchoires.
+
+Étienne, resté devant les soldats, manqua d'avoir le crâne fendu. Son oreille enflait, il se retourna, il tressaillit en comprenant que la brique était partie des poings fiévreux de Catherine ; et, au risque d'être tué, il ne s'en allait pas, il la regardait. Beaucoup d'autres s'oubliaient également là, passionnés par la bataille, les mains ballantes. Mouquet jugeait les coups, comme s'il eût assisté à une partie de bouchon : oh ! celui-là, bien tapé ! et cet autre, pas de chance ! Il rigolait, il poussait du coude Zacharie, qui se querellait avec Philomène, parce qu'il avait giflé Achille et Désirée, en refusant de les prendre sur son dos, pour qu'ils pussent voir. Il y avait des spectateurs, massés au loin, le long de la route. Et, en haut de la pente, à l'entrée du coron, le vieux Bonnemort venait de paraître, se traînant sur une canne, immobile maintenant, droit dans le ciel couleur de rouille.
+
+Dès les premières briques lancées, le porion Richomme s'était planté de nouveau entre les soldats et les mineurs. Il suppliait les uns, il exhortait les autres, insoucieux du péril, si désespéré que de grosses larmes lui coulaient des yeux. On n'entendait pas ses paroles au milieu du vacarme, on voyait seulement ses grosses moustaches grises qui tremblaient.
+
+Mais la grêle des briques devenait plus drue, les hommes s'y mettaient, à l'exemple des femmes.
+
+Alors, la Maheude s'aperçut que Maheu demeurait en arrière. Il avait les mains vides, l'air sombre.
+
+« Qu'est-ce que tu as, dis ? cria-t-elle. Est-ce que tu les lâches ? est-ce que tu vas laisser conduire tes camarades en prison ?... Ah ! si je n'avais pas cette enfant, tu verrais ! »
+
+Estelle, qui s'était cramponnée à son cou en hurlant, l'empêchait de se joindre à la Brûlé et aux autres. Et, comme son homme ne semblait pas entendre, elle lui poussa du pied des briques dans les jambes.
+
+« Nom de Dieu ! veux-tu prendre ça ! Faut-il que je te crache à la figure devant le monde, pour te donner du cœur ? »
+
+Redevenu très rouge, il cassa des briques, il les jeta. Elle le cinglait, l'étourdissait, aboyait derrière lui des paroles de mort, en étouffant sa fille sur sa gorge, dans ses bras crispés ; et il avançait toujours, il se trouva en face des fusils.
+
+Sous cette rafale de pierres, la petite troupe disparaissait. Heureusement, elles tapaient trop haut, le mur en était criblé. Que faire ? l'idée de rentrer, de tourner le dos, empourpra un instant le visage pâle du capitaine ; mais ce n'était même plus possible, on les écharperait, au moindre mouvement. Une brique venait de briser la visière de son képi, des gouttes de sang coulaient de son front. Plusieurs de ses hommes étaient blessés ; et il les sentait hors d'eux, dans cet instinct débridé de la défense personnelle, où l'on cesse d'obéir aux chefs. Le sergent avait lâché un nom de Dieu ! l'épaule gauche à moitié démontée, la chair meurtrie par un choc sourd, pareil à un coup de battoir dans du linge. Éraflée à deux reprises, la recrue avait un pouce broyé, tandis qu'une brûlure l'agaçait au genou droit : est-ce qu'on se laisserait embêter longtemps encore ? Une pierre ayant ricoché et atteint le vieux chevronné sous le ventre, ses joues verdirent, son arme trembla, s'allongea, au bout de ses bras maigres. Trois fois, le capitaine fut sur le point de commander le feu. Une angoisse l'étranglait, une lutte interminable de quelques secondes heurta en lui des idées, des devoirs, toutes ses croyances d'homme et de soldat. La pluie des briques redoublait, et il ouvrait la bouche, il allait crier : Feu ! lorsque les fusils partirent d'eux-mêmes, trois coups d'abord, puis cinq, puis un roulement de peloton, puis un coup tout seul, longtemps après, dans le grand silence.
+
+Ce fut une stupeur. Ils avaient tiré, la foule béante restait immobile, sans le croire encore. Mais des cris déchirants s'élevèrent, tandis que le clairon sonnait la cessation du feu. Et il y eut une panique folle, un galop de bétail mitraillé, une fuite éperdue dans la boue.
+
+Les cinq autres coups avaient jeté bas la Brûlé et le porion Richomme. Atteint dans le dos, au moment où il suppliait les camarades, il était tombé à genoux ; et, glissé sur une hanche, il râlait par terre, les yeux pleins des larmes qu'il avait pleurées. La vieille, la gorge ouverte, s'était abattue toute raide et craquante comme un fagot de bois sec, en bégayant un dernier juron dans le gargouillement du sang.
+
+Mais alors le feu de peloton balayait le terrain, fauchait à cent pas les groupes de curieux qui riaient de la bataille. Une balle entra dans la bouche de Mouquet, le renversa, fracassé, aux pieds de Zacharie et de Philomène, dont les deux mioches furent couverts de gouttes rouges. Au même instant, la Mouquette recevait deux balles dans le ventre. Elle avait vu les soldats épauler, elle s'était jetée, d'un mouvement instinctif de bonne fille, devant Catherine, en lui criant de prendre garde ; et elle poussa un grand cri, elle s'étala sur les reins, culbutée par la secousse. Étienne accourut, voulut la relever, l'emporter ; mais, d'un geste, elle disait qu'elle était finie. Puis, elle hoqueta, sans cesser de leur sourire à l'un et à l'autre, comme si elle était heureuse de les voir ensemble, maintenant qu'elle s'en allait.
+
+Tout semblait terminé, l'ouragan des balles s'était perdu très loin, jusque dans les façades du coron, lorsque le dernier coup partit, isolé, en retard.
+
+Maheu, frappé en plein cœur, vira sur lui-même et tomba la face dans une flaque d'eau, noire de charbon.
+
+Stupide, la Maheude se baissa.
+
+« Eh ! mon vieux, relève-toi. Ce n'est rien, dis ? »
+
+Les mains gênées par Estelle, elle dut la mettre sous un bras, pour retourner la tête de son homme.
+
+« Parle-donc ! où as-tu mal ? »
+
+Il avait les yeux vides, la bouche baveuse d'une écume sanglante. Elle comprit, il était mort. Alors, elle resta assise dans la crotte, sa fille sous le bras comme un paquet, regardant son vieux d'un air hébété.
+
+La fosse était libre. De son geste nerveux, le capitaine avait retiré, puis remis son képi coupé par une pierre ; et il gardait sa raideur blême devant le désastre de sa vie ; pendant que ses hommes, aux faces muettes, rechargeaient leurs armes. On aperçut les visages effarés de Négrel et de Dansaert, à la fenêtre de la recette. Souvarine était derrière eux, le front barré d'une grande ride, comme si le clou de son idée fixe se fût imprimé là, menaçant. De l'autre côté de l'horizon, au bord du plateau, Bonnemort n'avait pas bougé, calé d'une main sur sa canne, l'autre main aux sourcils pour mieux voir, en bas, l'égorgement des siens. Les blessés hurlaient, les morts se refroidissaient dans des postures cassées, boueux de la boue liquide du dégel, çà et là envasés parmi les taches d'encre du charbon, qui reparaissaient sous les lambeaux salis de la neige. Et, au milieu de ces cadavres d'hommes, tout petits, l'air pauvre avec leur maigreur de misère, gisait le cadavre de Trompette, un tas de chair morte, monstrueux et lamentable.
+
+Étienne n'avait pas été tué. Il attendait toujours, près de Catherine tombée de fatigue et d'angoisse, lorsqu'une voix vibrante le fit tressaillir. C'était l'abbé Ranvier, qui revenait de dire sa messe, et qui, les deux bras en l'air, dans une fureur de prophète, appelait sur les assassins la colère de Dieu. Il annonçait l'ère de justice, la prochaine extermination de la bourgeoisie par le feu du ciel, puisqu'elle mettait le comble à ses crimes en faisant massacrer les travailleurs et les déshérités de ce monde.

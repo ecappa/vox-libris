@@ -1,0 +1,92 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NAÏS MICOULIN"
+slug_oeuvre: "nais-micoulin"
+section: "Chapitre 04"
+slug_section: "chapitre-04"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+NAÏS MICOULIN
+
+[Liste des contes et nouvelles
+
+!
+
+## III
+Quel mois adorable ! Il ne plut pas un seul jour. Le ciel, toujours bleu, développait un satin que pas un nuage ne venait tacher. Le soleil se levait dans un cristal rose et se couchait dans une poussière d'or.
+
+Pourtant, il ne faisait point trop chaud, la brise de mer montait avec le soleil et s'en allait avec lui ; puis, les nuits avaient une fraîcheur délicieuse, tout embaumée des plantes aromatiques chauffées pendant le jour, fumant dans l'ombre.
+
+Le pays est superbe. Des deux côtés du golfe, des bras de rochers s'avancent, tandis que les îles, au large, semblent barrer l'horizon ; et la mer n'est plus qu'un vaste bassin, un lac d'un bleu intense par les beaux temps. Au pied des montagnes, au fond, Marseille étage ses maisons sur des collines basses ; quand l'air est limpide, on aperçoit, de L'Estaque, la jetée grise de la Joliette, avec les fines mâtures des vaisseaux, dans le port ; puis, derrière, des façades se montrent au milieu de massifs d'arbres, la chapelle de Notre-Dame-de-la-Garde blanchit sur une hauteur, en plein ciel. Et la côte part de Marseille, s'arrondit, se creuse en larges échancrures avant d'arriver à L'Estaque, bordée d'usines qui lâchent, par moments, de hauts panaches de fumée. Lorsque le soleil tombe d'aplomb, la mer, presque noire, est comme endormie entre les deux promontoires de rochers, dont la blancheur se chauffe de jaune et de brun. Les pins tachent de vert sombre les terres rougeâtres. C'est un vaste tableau, un coin entrevu de l'Orient, s'enlevant dans la vibration aveuglante du jour.
+
+Mais L'Estaque n'a pas seulement cette échappée sur la mer. Le village, adossé aux montagnes, est traversé par des routes qui vont se perdre au milieu d'un chaos de roches foudroyées. Le chemin de fer de Marseille à Lyon court parmi les grands blocs, traverse des ravins sur des ponts, s'enfonce brusquement sous le roc lui-même, et y reste pendant une lieue et demie, dans ce tunnel de la Nerthe, le plus long de France.
+
+Rien n'égale la majesté sauvage de ces gorges qui se creusent entre les collines, chemins étroits serpentant au fond d'un gouffre, flancs arides plantés de pins, dressant des murailles aux colorations de rouille et de sang. Parfois, les défilés s'élargissent, un champ maigre d'oliviers occupe le creux d'un vallon, une maison perdue montre sa façade peinte, aux volets fermés. Puis, ce sont encore des sentiers pleins de ronces, des fourrés impénétrables, des éboulements de cailloux, des torrents desséchés, toutes les surprises d'une marche dans un désert. En haut, au-dessus de la bordure noire des pins, le ciel met la bande continue de sa fine soie bleue.
+
+Et il y a aussi l'étroit littoral entre les rochers et la mer, des terres rouges où les tuileries, la grande industrie de la contrée, ont creusé d'immenses trous, pour extraire l'argile. C'est un sol crevassé, bouleversé, à peine planté de quelques arbres chétifs, et dont une haleine d'ardente passion semble avoir séché les sources. Sur les chemins, on croirait marcher dans un lit de plâtre, on enfonce jusqu'aux chevilles ; et, aux moindres souffles de vent, de grandes poussières volantes poudrent les haies. Le long des murailles, qui jettent des réverbérations de four, de petits lézards gris dorment, tandis que, du brasier des herbes roussies, des nuées de sauterelles s'envolent, avec un crépitement d'étincelles. Dans l'air immobile et lourd, dans la somnolence de midi, il n'y a d'autre vie que le chant monotone des cigales.
+
+Ce fut au travers de cette contrée de flammes que Naïs et Frédéric s'aimèrent pendant un mois. Il semblait que tout ce feu du ciel était passé dans leur sang.
+
+Les huit premiers jours, ils se contentèrent de se retrouver la nuit, sous le même olivier, au bord de la falaise. Ils y goûtaient des joies exquises. La nuit fraîche calmait leur fièvre, ils tendaient parfois leurs visages et leurs mains brûlantes aux haleines qui passaient, pour les rafraîchir comme dans une source froide. La mer, à leurs pieds, au bas des roches, avait une plainte voluptueuse et lente. Une odeur pénétrante d'herbes marines les grisait de désirs. Puis, aux bras l'un de l'autre, las d'une fatigue heureuse, ils regardaient, de l'autre côté des eaux, le flamboiement nocturne de Marseille, les feux rouges de l'entrée du port jetant dans la mer des reflets sanglants, les étincelles du gaz dessinant, à droite et à gauche, les courbes allongées des faubourgs ; au milieu, sur la ville, c'était un pétillement de lueurs vives, tandis que le jardin de la colline Bonaparte était nettement indiqué par deux rampes de clartés, qui tournaient au bord du ciel. Toutes ces lumières, au-delà du golfe endormi, semblaient éclairer quelque ville du rêve, que l'aurore devait emporter. Et le ciel, élargi au-dessus du chaos noir de l'horizon, était pour eux un grand charme, un charme qui les inquiétait et les faisait se serrer davantage. Une pluie d'étoiles tombait.
+
+Les constellations, dans ces nuits claires de la Provence, avaient des flammes vivantes. Frémissant sous ces vastes espaces, ils baissaient la tête, ils ne s'intéressaient plus qu'à l'étoile solitaire du phare de Planier, dont la lueur dansante les attendrissait, pendant que leurs lèvres se cherchaient encore.
+
+D'abord, ils se réfugièrent au fond d'une tuilerie abandonnée : le hangar miné y surmontait une cave, dans laquelle les deux bouches du four s'ouvraient encore. Mais ce trou les attristait, ils préféraient sentir sur leurs têtes le ciel libre. Ils coururent les carrières d'argile rouge, ils découvrirent des cachettes délicieuses, de véritables déserts de quelques mètres carrés, d'où ils entendaient seulement les aboiements des chiens qui gardaient les bastides. Ils allèrent plus loin, se perdirent en promenades le long de la côte rocheuse, du côté de Niolon, suivirent aussi les chemins étroits des gorges, cherchèrent les grottes, les crevasses lointaines. Ce fut, pendant quinze jours, des nuits pleines de jeux et de tendresses. La lune avait disparu, le ciel était redevenu noir ; mais, maintenant, il leur semblait que la Blancarde était trop petite pour les contenir, ils avaient le besoin de se posséder dans toute la largeur de la terre.
+
+Une nuit, comme ils suivaient un chemin au-dessus de L'Estaque, pour gagner les gorges de la Nerthe, ils crurent entendre un pas étouffé qui les accompagnait, derrière un petit bois de pins, planté au bord de la route. Ils s'arrêtèrent, pris d'inquiétude.
+
+« Entends-tu ? demanda Frédéric.
+
+--- Oui, quelque chien perdu », murmura Naïs.
+
+Et ils continuèrent leur marche. Mais, au premier coude du chemin, comme le petit bois cessait, ils virent distinctement une masse noire se glisser derrière les rochers. C'était, à coup sûr, un être humain, bizarre et comme bossu. Naïs eut une légère exclamation.
+
+« Attends-moi », dit-elle rapidement.
+
+Elle s'élança à la poursuite de l'ombre. Bientôt, Frédéric entendit un chuchotement rapide. Puis elle revint, tranquille, un peu pâle.
+
+« Qu'est-ce donc ? demanda-t-il.
+
+--- Rien », dit-elle.
+
+Après un silence, elle reprit :
+
+« Si tu entends marcher, n'aie pas peur. C'est Toine, tu sais ? Le bossu. Il veut veiller sur nous. »
+
+En effet, Frédéric sentait parfois dans l'ombre quelqu'un qui les suivait. Il y avait comme une protection autour d'eux. À plusieurs reprises, Naïs avait voulu chasser Toine ; mais le pauvre être ne demandait qu'à être son chien : on ne le verrait pas, on ne l'entendrait pas, pourquoi ne point lui permettre d'agir à sa guise ? Dès lors, si les amants eussent écouté, quand ils se baisaient à pleine bouche dans les tuileries en mine, au milieu des carrières désertes, au fond des gorges perdues, ils auraient surpris derrière eux des bruits étouffés de sanglots. C'était Toine, leur chien de garde, qui pleurait dans ses poings tordus.
+
+Et ils n'avaient pas que les nuits. Maintenant, ils s'enhardissaient, ils profitaient de toutes les occasions. Souvent, dans un corridor de la Blancarde, dans une pièce où ils se rencontraient, ils échangeaient un long baiser. Même à table, lorsqu'elle servait et qu'il demandait du pain ou une assiette, il trouvait le moyen de lui serrer les doigts. La rigide Mme Rostand, qui ne voyait rien, accusait toujours son fils d'être trop sévère pour son ancienne camarade. Un jour, elle faillit les surprendre ; mais la jeune fille, ayant entendu le petit bruit de sa robe, se baissa vivement et se mit à essuyer avec son mouchoir les pieds du jeune maître, blancs de poussière.
+
+Naïs et Frédéric goûtaient encore mille petites joies. Souvent, après le dîner, quand la soirée était fraîche, Mme Rostand voulait faire une promenade.
+
+Elle prenait le bras de son fils, elle descendait à L'Estaque, en chargeant Naïs de porter son châle, par précaution. Tous trois allaient ainsi voir l'arrivée des pêcheurs de sardines. En mer, des lanternes dansaient, on distinguait bientôt les masses noires des barques, qui abordaient avec le sourd battement des rames. Les jours de grande pêche, des voix joyeuses s'élevaient, des femmes accouraient, chargées de paniers ; et les trois hommes qui montaient chaque barque se mettaient à dévider le filet, laissé en tas sous les bancs. C'était comme un large ruban sombre, tout pailleté de lames d'argent ; les sardines, pendues par les ouïes aux fils des mailles, s'agitaient encore, jetaient des reflets de métal ; puis, elles tombaient dans les paniers, ainsi qu'une pluie d'écus, à la lumière pâle des lanternes. Souvent, Mme Rostand restait devant une barque, amusée par ce spectacle ; elle avait lâché le bras de son fils, elle causait avec les pêcheurs, tandis que Frédéric, près de Naïs, en dehors du rayon de la lanterne, lui serrait les poignets à les briser Cependant, le père Micoulin gardait son silence de bête expérimentée et têtue. Il allait en mer, revenait donner un coup de bêche, de sa même allure sournoise. Mais ses petits yeux gris avaient depuis quelque temps une inquiétude. Il jetait sur Naïs des regards obliques, sans rien dire. Elle lui semblait changée, il flairait en elle des choses qu'il ne s'expliquait pas. Un jour, elle osa lui tenir tête. Micoulin lui allongea un tel soufflet qu'il lui fendit la lèvre.
+
+Le soir, quand Frédéric sentit sous un baiser la bouche de Naïs enflée, il l'interrogea vivement.
+
+« Ce n'est rien, un soufflet que mon père m'a donné », dit-elle.
+
+Sa voix s'était assombrie. Comme le jeune homme se fâchait et déclarait qu'il mettrait ordre à cela :
+
+« Non, laisse, reprit-elle, c'est mon affaire... Oh ! ça finira ! »
+
+Elle ne lui parlait jamais des gifles qu'elle recevait.
+
+Seulement, les jours où son père l'avait battue, elle se pendait au cou de son amant avec plus d'ardeur, comme pour se venger du vieux.
+
+Depuis trois semaines, Naïs sortait presque chaque nuit. D'abord elle avait pris de grandes précautions, puis une audace froide lui était venue, et elle osait tout. Quand elle comprit que son père se doutait de quelque chose, elle redevint prudente. Elle manqua deux rendez-vous. Sa mère lui avait dit que Micoulin ne dormait plus la nuit : il se levait, allait d'une pièce dans une autre. Mais, devant les regards suppliants de Frédéric, le troisième jour, Naïs oublia de nouveau toute prudence. Elle descendit vers onze heures, en se promettant de ne point rester plus d'une heure dehors ; et elle espérait que son père, dans le premier sommeil, ne l'entendrait pas.
+
+Frédéric l'attendait sous les oliviers. Sans parler de ses craintes, elle refusa d'aller plus loin. Elle se sentait trop lasse, disait-elle, ce qui était vrai, car elle ne pouvait, comme lui, dormir pendant le jour. Ils se couchèrent à leur place habituelle, au-dessus de la mer, devant Marseille allumé. Le phare de Planier luisait.
+
+Naïs, en le regardant, s'endormit sur l'épaule de Frédéric. Celui-ci ne remua plus ; et peu à peu il céda lui-même à la fatigue, ses yeux se fermèrent. Tous deux, aux bras l'un de l'autre, mêlaient leurs haleines.
+
+Aucun bruit, on n'entendait que la chanson aigre des sauterelles vertes. La mer dormait comme les amants. Alors, une forme noire sortit de l'ombre et s'approcha. C'était Micoulin, qui, réveillé par le craquement d'une fenêtre, n'avait pas trouvé Naïs dans sa chambre. Il était sorti, en emportant une petite hachette, à tout hasard. Quand il aperçut une tache sombre sous l'olivier, il serra le manche de la hachette. Mais les enfants ne bougeaient point, il put arriver jusqu'à eux, se baisser, les regarder au visage.
+
+Un léger cri lui échappa, il venait de reconnaître le jeune maître. Non, non, il ne pouvait le tuer ainsi : le sang répandu sur le sol, qui en garderait la trace, lui coûterait trop cher. Il se releva, deux plis de décision farouche coupaient sa face de vieux cuir, raidie de rage contenue. Un paysan n'assassine pas son maître ouvertement, car le maître, même enterré, est toujours le plus fort. Et le père Micoulin hocha la tête, s'en alla à pas de loup, en laissant les deux amoureux dormir.
+
+Quand Naïs rentra, un peu avant le jour, très inquiète de sa longue absence, elle trouva sa fenêtre telle qu'elle l'avait laissée. Au déjeuner, Micoulin la regarda tranquillement manger son morceau de pain. Elle se rassura, son père ne devait rien savoir.

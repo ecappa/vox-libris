@@ -1,0 +1,176 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "AVENTURE DE LA FAMILLE RATON",
+  "slug": "aventure-de-la-famille-raton",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 2172,
+      "spine_end_exclusive": 2173,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_147.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 2173,
+      "spine_end_exclusive": 2174,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_148.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 2174,
+      "spine_end_exclusive": 2175,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_149.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 2175,
+      "spine_end_exclusive": 2176,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_150.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 2176,
+      "spine_end_exclusive": 2177,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_151.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 2177,
+      "spine_end_exclusive": 2178,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_152.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 2178,
+      "spine_end_exclusive": 2179,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_153.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 2179,
+      "spine_end_exclusive": 2180,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_154.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 2180,
+      "spine_end_exclusive": 2181,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_155.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 2181,
+      "spine_end_exclusive": 2182,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_156.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 2182,
+      "spine_end_exclusive": 2183,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_157.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 2183,
+      "spine_end_exclusive": 2184,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_158.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 2184,
+      "spine_end_exclusive": 2185,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_159.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 2185,
+      "spine_end_exclusive": 2186,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_160.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 2186,
+      "spine_end_exclusive": 2187,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_161.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

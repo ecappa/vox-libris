@@ -1,0 +1,70 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NAÏS MICOULIN"
+slug_oeuvre: "nais-micoulin"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+NAÏS MICOULIN
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+À la saison des fruits, une petite fille, brune de peau, avec des cheveux noirs embroussaillés, se présentait chaque mois chez un avoué d'Aix, M. Rostand, tenant une énorme corbeille d'abricots ou de pêches, qu'elle avait peine à porter. Elle restait dans le large vestibule, et toute la famille, prévenue, descendait.
+
+« Ah ! C'est toi, Naïs, disait l'avoué. Tu nous apportes la récolte. Allons, tu es une brave fille... Et le père Micoulin, comment va-t-il ?
+
+--- Bien, Monsieur », répondait la petite en montrant ses dents blanches.
+
+Alors, Mme Rostand la faisait entrer à la cuisine, où elle la questionnait sur les oliviers, les amandiers, les vignes. La grande affaire était de savoir s'il avait plu à L'Estaque, le coin du littoral où les Rostand possédaient leur propriété, la Blancarde, que les Micoulin cultivaient. Il n'y avait là que quelques douzaines d'amandiers et d'oliviers, mais la question de la pluie n'en restait pas moins capitale, dans ce pays qui meurt de sécheresse.
+
+« Il a tombé des gouttes, disait Naïs. Le raisin aurait besoin d'eau. »
+
+Puis, lorsqu'elle avait donné les nouvelles, elle mangeait un morceau de pain avec un reste de viande, et elle repartait pour L'Estaque, dans la carriole d'un boucher, qui venait à Aix tous les quinze jours. Souvent, elle apportait des coquillages, une langouste, un beau poisson, le père Micoulin pêchant plus encore qu'il ne labourait. Quand elle arrivait pendant les vacances, Frédéric, le fils de l'avoué, descendait d'un bond dans la cuisine pour lui annoncer que la famille allait bientôt s'installer à la Blancarde, en lui recommandant de tenir prêts ses filets et ses lignes. Il la tutoyait, car il avait joué avec elle tout petit. Depuis l'âge de douze ans seulement, elle l'appelait « M. Frédéric », par respect. Chaque fois que le père Micoulin l'entendait dire « tu » au fils de ses maîtres, il la souffletait. Mais cela n'empêchait pas que les deux enfants fussent très bons amis.
+
+« Et n'oublie pas de raccommoder les filets, répétait le collégien.
+
+--- N'ayez pas peur, monsieur Frédéric, répondait Naïs. Vous pouvez venir. »
+
+M. Rostand était fort riche. Il avait acheté à vil prix un hôtel superbe, rue du Collège. L'hôtel de Coiron, bâti dans les dernières années du dix-septième siècle, développait une façade de douze fenêtres, et contenait assez de pièces pour loger une communauté. Au milieu de ces appartements immenses, la famille composée de cinq personnes, en comptant les deux vieilles domestiques, semblait perdue. L'avoué occupait seulement le premier étage. Pendant dix ans, il avait affiché le rez-de-chaussée et le second, sans trouver de locataires. Alors, il s'était décidé à fermer les portes, à abandonner les deux tiers de l'hôtel aux araignées. L'hôtel, vide et sonore, avait des échos de cathédrale au moindre bruit qui se produisait dans le vestibule, un énorme vestibule avec une cage d'escalier monumentale, où l'on aurait aisément construit une maison moderne.
+
+Au lendemain de son achat, M. Rostand avait coupé en deux par une cloison le grand salon d'honneur, un salon de douze mètres sur huit, que six fenêtres éclairaient. Puis, il avait installé là, dans un compartiment son cabinet, et dans l'autre le cabinet de ses clercs. Le premier étage comptait en outre quatre pièces, dont la plus petite mesurait près de sept mètres sur cinq. Mme Rostand, Frédéric, les deux vieilles bonnes, habitaient des chambres hautes comme des chapelles. L'avoué s'était résigné à faire aménager un ancien boudoir en cuisine, pour rendre le service plus commode ; auparavant, lorsqu'on se servait de la cuisine du rez-de-chaussée, les plats arrivaient complètement froids, après avoir traversé l'humidité glaciale du vestibule et de l'escalier. Et le pis était que cet appartement démesuré se trouvait meublé de la façon la plus sommaire. Dans le cabinet, un ancien meuble vert, en velours d'Utrecht, espaçait son canapé et ses huit fauteuils, style Empire, aux bois raides et tristes ; un petit guéridon de la même époque semblait un joujou, au milieu de l'immensité de la pièce ; sur la cheminée, il n'y avait qu'une affreuse pendule de marbre moderne, entre deux vases, tandis que le carrelage, passé au rouge et frotté, luisait d'un éclat dur. Les chambres à coucher étaient encore plus vides. On sentait là le tranquille dédain des familles du Midi, même les plus riches, pour le confort et le luxe, dans cette bienheureuse contrée du soleil où la vie se passe au-dehors. Les Rostand n'avaient certainement pas conscience de la mélancolie, du froid mortel qui désolaient ces grandes salles, dont la tristesse de mines semblait accrue par la rareté et la pauvreté des meubles.
+
+L'avoué était pourtant un homme fort adroit. Son père lui avait laissé une des meilleures études d'Aix, et il trouvait moyen d'augmenter sa clientèle par une activité rare dans ce pays de paresse. Petit, remuant, avec un fin visage de fouine, il s'occupait passionnément de son étude. Le soin de sa fortune le tenait d'ailleurs tout entier, il ne jetait même pas les yeux sur un journal, pendant les rares heures de flânerie qu'il tuait au cercle. Sa femme, au contraire, passait pour une des femmes intelligentes et distinguées de la ville. Elle était née de Villebonne, ce qui lui laissait une auréole de dignité, malgré sa mésalliance. Mais elle montrait un rigorisme si outré, elle pratiquait ses devoirs religieux avec tant d'obstination étroite, qu'elle avait comme séché dans l'existence méthodique qu'elle menait.
+
+Aix possède une école de droit renommée, où le fils Rostand prit naturellement ses inscriptions. Dans cette ancienne ville parlementaire, il n'y a guère que des avocats, des notaires et des avoués, groupés là autour de la Cour. On y fait son droit quand même, quitte ensuite à planter tranquillement ses choux. Il continua d'ailleurs sa vie du collège, travaillant le moins possible, tâchant simplement de faire croire qu'il travaillait beaucoup. Mme Rostand, à son grand regret, avait dû lui accorder plus de liberté. Maintenant, il sortait quand il voulait, et n'était tenu qu'à se trouver là aux heures des repas ; le soir, il devait rentrer à neuf heures, excepté les jours où on lui permettait le théâtre. Alors, commença pour lui cette vie d'étudiant de province, si monotone, si pleine de vices, lorsqu'elle n'est pas entièrement donnée au travail.
+
+Il faut connaître Aix, la tranquillité de ses rues où l'herbe pousse, le sommeil qui endort la ville entière, pour comprendre quelle existence vide y mènent les étudiants. Ceux qui travaillent ont la ressource de tuer les heures devant leurs livres. Mais ceux qui se refusent à suivre sérieusement les cours n'ont d'autres refuges, pour se désennuyer, que les cafés, où l'on joue, et certaines maisons, où l'on fait pis encore. Le jeune homme se trouva être un joueur passionné ; il passait au jeu la plupart de ses soirées, et les achevait ailleurs. Une sensualité de gamin échappé du collège le jetait dans les seules débauches que la ville pouvait offrir, une ville où manquaient les filles libres qui peuplent à Paris le quartier Latin. Lorsque ses soirées ne lui suffirent plus, il s'arrangea pour avoir également ses nuits, en volant une clé de la maison. De cette manière, il passa heureusement ses années de droit.
+
+Du reste, Frédéric avait compris qu'il devait se montrer un fils docile. Toute une hypocrisie d'enfant courbé par la peur lui était peu à peu venue. Sa mère, maintenant, se déclarait satisfaite : il la conduisait à la messe, gardait une allure correcte, lui contait tranquillement des mensonges énormes, qu'elle acceptait, devant son air de bonne foi. Et son habileté devint telle, que jamais il ne se laissa surprendre, trouvant toujours une excuse, inventant d'avance des histoires extraordinaires pour se préparer des arguments. Il payait ses dettes de jeu avec de l'argent emprunté à des cousins. Il tenait toute une comptabilité compliquée. Une fois, après un gain inespéré, il réalisa même ce rêve d'aller passer une semaine à Paris, en se faisant inviter par un ami, qui possédait une propriété près de la Durance.
+
+Au demeurant, Frédéric était un beau jeune homme, grand et de figure régulière, avec une forte barbe noire. Ses vices le rendaient aimable, auprès des femmes surtout. On le citait pour ses bonnes manières. Les personnes qui connaissaient ses farces souriaient un peu ; mais, puisqu'il avait la décence de cacher cette moitié suspecte de sa vie, il fallait encore lui savoir gré de ne pas étaler ses débordements, comme certains étudiants grossiers, qui faisaient le scandale de la ville.
+
+Frédéric allait avoir vingt et un ans. Il devait passer bientôt ses derniers examens. Son père, encore jeune et peu désireux de lui céder tout de suite son étude, parlait de le pousser dans la magistrature debout. Il avait à Paris des amis qu'il ferait agir, pour obtenir une nomination de substitut. Le jeune homme ne disait pas non ; jamais il ne combattait ses parents d'une façon ouverte ; mais il avait un mince sourire qui indiquait son intention arrêtée de continuer l'heureuse flânerie dont il se trouvait si bien. Il savait son père riche, il était fils unique, pourquoi aurait-il pris la moindre peine ? En attendant, il fumait des cigares sur le Cours, allait dans les bastidons voisins faire des parties fines, fréquentait journellement en cachette les maisons louches, ce qui ne l'empêchait pas d'être aux ordres de sa mère et de la combler de prévenances. Quand une noce plus débraillée que les autres lui avait brisé les membres et compromis l'estomac, il rentrait dans le grand hôtel glacial de la rue du Collège, où il se reposait avec délices. Le vide des pièces, le sévère ennui qui tombait des plafonds, lui semblaient avoir une fraîcheur calmante. Il s'y remettait, en faisant croire à sa mère qu'il restait là pour elle, jusqu'au jour où, la santé et l'appétit revenus, il machinait quelque nouvelle escapade. En somme, le meilleur garçon du monde, pourvu qu'on ne touchât point à ses plaisirs.
+
+Naïs, cependant, venait chaque année chez les Rostand, avec ses fruits et ses poissons, et chaque année elle grandissait. Elle avait juste le même âge que Frédéric, trois mois de plus environ. Aussi, Mme Rostand lui disait-elle chaque fois :
+
+« Comme tu te fais grande fille, Naïs ! »
+
+Et Naïs souriait, en montrant ses dents blanches. Le plus souvent, Frédéric n'était pas là. Mais, un jour, la dernière année de son droit, il sortait, lorsqu'il trouva Naïs debout dans le vestibule, avec sa corbeille. Il s'arrêta net d'étonnement. Il ne reconnaissait pas la longue fille mince et déhanchée qu'il avait vue, l'autre saison, à la Blancarde. Naïs était superbe, avec sa tête brune, sous le casque sombre de ses épais cheveux noirs ; et elle avait des épaules fortes, une taille ronde, des bras magnifiques dont elle montrait les poignets nus. En une année, elle venait de pousser comme un jeune arbre.
+
+« C'est toi ! dit-il d'une voix balbutiante.
+
+--- Mais oui, monsieur Frédéric, répondit-elle en le regardant en face, de ses grands yeux où brûlait un feu sombre. J'apporte des oursins... Quand arrivez-vous ? Faut-il préparer les filets ? »
+
+Il la contemplait toujours, il murmura, sans paraître avoir entendu :
+
+« Tu es bien belle, Naïs !... Qu'est-ce que tu as donc ? »
+
+Ce compliment la fit rire. Puis, comme il lui prenait les mains, ayant l'air de jouer, ainsi qu'ils jouaient ensemble autrefois, elle devint sérieuse, elle le tutoya brusquement, en lui disant tout bas, d'une voix un peu rauque :
+
+« Non, non, pas ici... Prends garde ! Voici ta mère. »

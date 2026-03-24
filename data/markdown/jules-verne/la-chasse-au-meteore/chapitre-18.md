@@ -1,0 +1,109 @@
+]{.calibre20}
+
+
+LA CHASSE AU MÉTÉORE
+
+
+]{.calibre20}
+
+## [[Chapitre 18 -- Où, pour atteindre le bolide, M. De Schnack et ses nombreux complices commettent les crimes d\'escalade et d\'effraction.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942820 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_127 .calibre21}
+
+Aussitôt, ce fut une ruée.
+
+En un instant répandue, la nouvelle révolutionna les touristes et la population groenlandaise, les navires en rade furent abandonnés de leurs équipages, et un véritable torrent humain s\'élança dans la direction indiquée par le messager indigène.
+
+Si l\'attention de tous n\'avait pas été ainsi confisquée au profit exclusif du météore, on aurait pu remarquer, à cet instant précis, un fait difficilement explicable. Comme obéissant à quelque mystérieux signal, un des bâtiments mouillés dans la baie, un steamer dont la cheminée vomissait la fumée depuis l\'aube, leva l\'ancre et se dirigea vers la haute mer à toute vapeur. C\'était un navire aux formes allongées, un fin marcheur selon toute vraisemblance. En quelques minutes, il eut disparu derrière la falaise.
+
+Une telle conduite avait de quoi surprendre. Pourquoi être venu jusqu\'à Upernivik, pour le quitter juste au moment où il y avait quelque chose à voir ? Mais personne, tant la hâte générale était grande, ne s\'aperçut de ce départ, pourtant assez singulier.
+
+Aller le plus vite possible, telle était l\'unique préoccupation de cette foule où l\'on comptait quelques femmes et même des enfants. On s\'avançait en désordre, se poussant, se bousculant. Cependant, il en était un, au moins, qui avait conservé tout son calme. En sa qualité de globe-trotter chevronné que rien ne saurait plus émouvoir, Mr Seth Stanfort gardait, au milieu du trouble de tous, son dilettantisme un peu dédaigneux. Même -- était-ce pur raffinement de politesse ou tout autre sentiment ? -- il avait commencé par tourner franchement le dos à la direction suivie par ses compagnons pour se porter à la rencontre de Mrs Arcadia Walker et lui offrir sa compagnie.
+
+Après tout, n\'était-il pas naturel, étant données leurs relations d\'amitié, qu\'ils allassent ensemble à la découverte du bolide ?
+
+« Enfin, il est tombé, Mr Stanfort ! Tels furent les premiers mots de Mrs Arcadia Walker.
+
+--- Enfin, il est tombé ! » répondit Mr Seth Stanfort.
+
+« Enfin, il est tombé ! » avait répété et répétait encore toute cette foule en se dirigeant vers la pointe nord-ouest de l\'île.
+
+Cinq personnes avaient toutefois réussi à se maintenir en avant des autres. C\'était d\'abord M. Ewald de Schnack, délégué du Groenland à la Conférence Internationale, auquel les plus impatients avaient courtoisement cédé le pas.
+
+Dans l\'espace ainsi devenu libre, deux touristes s\'étaient aussitôt insinués, et MM. Dean Forsyth et Hudelson marchaient maintenant en tête, fidèlement accompagnés de Francis et de Jenny. Les jeunes gens continuaient à intervertir leurs rôles naturels, comme ils l\'avaient fait à bord du Mozik. Jenny s\'empressait près de Mr Dean Forsyth, tandis que Francis Gordon entourait de soins le docteur Sydney Hudelson. Leur sollicitude n\'était pas toujours très bien accueillie, il faut le reconnaître, mais, cette fois, les deux rivaux étaient si profondément troublés, qu\'ils n\'avaient même pas remarqué leur présence réciproque. Il ne pouvait donc être question de protester contre la malice des deux jeunes gens, qui marchaient entre eux, côte à côte.
+
+« Le délégué va être le premier à prendre possession du bolide, maugréa Mr Forsyth.
+
+--- Et à mettre la main dessus, ajouta le docteur Hudelson, croyant répondre à Francis Gordon.
+
+--- Mais cela ne m\'empêchera pas de faire valoir mes droits ! Proclama Mr Dean Forsyth, à l\'adresse de Jenny.
+
+--- Non, certes ! » approuva Mr Sydney Hudelson, qui pensait aux siens.
+
+À l\'extrême satisfaction de la fille de l\'un et du neveu de l\'autre, il semblait vraiment que les deux adversaires, oubliant leurs rancunes personnelles, fissent masse de leurs deux haines contre l\'ennemi commun.
+
+Par suite d\'un heureux concours de circonstances, l\'état atmosphérique s\'était entièrement modifié. La tourmente avait cessé, à mesure que le vent retombait vers le Sud. Si le soleil ne s\'élevait encore que de quelques degrés au-dessus de l\'horizon, du moins brillait-il à travers les derniers nuages amincis par son rayonnement. Plus de pluie, plus de rafales, un temps clair, un espace tranquille, une température qui se tenait entre huit et neuf degrés au-dessus du zéro centigrade.
+
+De la station à la pointe, on pouvait compter une grande lieue qu\'il fallait franchir à pied. Ce n\'est pas Upernivik qui aurait pu fournir un véhicule quelconque. Du reste, la marche était facile sur un sol assez plat, de nature rocheuse, dont le relief ne s\'accusait sérieusement qu\'au centre et au voisinage du littoral, où s\'élevaient quelques hautes falaises.
+
+C\'était précisément au-delà de ces falaises que le bolide était tombé. De la station, on ne pouvait l\'apercevoir.
+
+L\'indigène qui, le premier, avait apporté la grande nouvelle, servait de guide. Il était suivi de près par M. De Schnack, MM. Forsyth et Hudelson, Jenny et Francis, suivis eux-mêmes d\'Omicron, de l\'astronome de Boston et de tout le troupeau des touristes.
+
+Un peu en arrière, Mr Seth Stanfort cheminait à côté de Mrs Arcadia Walker. Les deux ex-époux n\'étaient pas sans connaître la rupture devenue légendaire des deux familles, et les confidences de Francis, avec lequel, pendant la traversée, Mr Seth Stanfort avait noué quelques relations, avaient mis celui-ci au courant des conséquences de cette rupture.
+
+« Cela s\'arrangera, pronostiqua Mrs Arcadia Walker, quand elle fut renseignée à son tour.
+
+--- C\'est à souhaiter, approuva Mr Seth Stanfort.
+
+--- Certes ! dit Mrs Arcadia, et tout n\'en ira après que mieux. Voyez-vous, Mr Stanfort, un peu de difficultés, d\'inquiétudes, ne messied pas avant le mariage. Des unions trop facilement faites risquent de se défaire de même ! N\'est-ce pas votre avis ?
+
+--- Tout à fait, Mrs Arcadia. Ainsi, nous, notre exemple est probant. En cinq minutes\... À cheval\... Le temps de rendre la main\...
+
+--- Pour la rendre de nouveau six semaines après, -- mais à nous-mêmes et réciproquement, cette fois ! Interrompit en souriant Mrs Arcadia Walker. Eh bien ! Francis Gordon et miss Jenny Hudelson, pour ne point se marier à cheval, n\'en seront que plus sûrs d\'atteindre le bonheur. »
+
+Inutile de dire que, au milieu de cette foule de curieux, Mr Seth Stanfort et Mrs Arcadia Walker devaient être les seuls, si on en excepte les deux jeunes fiancés, à ne point se préoccuper en ce moment du météore, à n\'en point parler, à philosopher, comme l\'eût probablement fait Mr John Proth, dont les quelques mots qu\'ils venaient de prononcer évoquaient pour eux le visage plein de fine bonhomie.
+
+On allait d\'un bon pas sur un plateau semé de maigres arbustes, d\'où s\'échappaient nombre d\'oiseaux plus troublés qu\'ils ne l\'avaient jamais été aux environs d\'Upernivik. En une demi-heure, trois quarts de lieue furent enlevés. Un millier de mètres restaient à franchir pour atteindre le bolide qui se dérobait aux regards derrière un mouvement de la falaise. C\'est là qu\'on le trouverait, d\'après le guide groenlandais, et cet indigène ne pouvait se tromper.
+
+Pendant qu\'il travaillait la terre, il avait parfaitement vu la lueur fulgurante du météore, et il avait entendu le bruit de la chute, que bien d\'autres, quoique de plus loin, avaient entendu aussi.
+
+Une circonstance, paradoxale dans cette région, obligea les touristes à se reposer un instant. Il faisait chaud. Oui, si incroyable que cela pût paraître, on s\'épongeait le front, comme si l\'on se fût trouvé sous une latitude plus tempérée. Était-ce donc leur course rapide qui infligeait à tous ces curieux ce commencement de liquéfaction ? Elle y contribuait sans doute, mais la température de l\'air, cela n\'était pas contestable, tendait aussi à remonter. En cet endroit, voisin de la pointe nord-ouest de l\'île, le thermomètre eût certainement marqué plusieurs degrés de différence avec la station d\'Upernivik. Il semblait même que la chaleur s\'accusât plus vivement à mesure que l\'on approchait du but.
+
+« L\'arrivée du bolide aurait-elle modifié le climat de l\'archipel ? demanda en riant Mr Stanfort.
+
+--- Ce serait fort heureux pour les groenlandais ! répondit sur le même ton Mrs Arcadia.
+
+--- Il est probable que le bloc d\'or, échauffé par son frottement sur les couches atmosphériques, est encore à l\'état incandescent, expliqua l\'astronome de Boston, et que sa chaleur rayonnante se fait sentir jusqu\'ici. -- Bon ! s\'écria Mr Seth Stanfort, est-ce qu\'il nous faudra attendre qu\'il se refroidisse ?
+
+--- Son refroidissement eût été bien plus rapide s\'il fût tombé en dehors de l\'île au lieu de tomber dessus », fit observer pour lui-même Francis Gordon, revenant à son opinion favorite.
+
+Lui aussi, il avait chaud, mais il n\'était pas le seul.
+
+M. De Schnack, M. Wharf transpiraient à son exemple, et de même toute la foule, et tous les Groenlandais qui ne s\'étaient jamais vus à pareille fête. Après avoir soufflé un bon moment, on se remit en route. Encore cinq cents mètres et, au détour de la falaise, le météore apparaîtrait dans toute son éblouissante splendeur.
+
+Malheureusement, au bout de deux cents pas, M. De Schnack, qui marchait en tête, dut s\'arrêter de nouveau, et derrière lui, MM. Forsyth et Hudelson, et derrière ceux-ci, toute la foule, furent obligés d\'en faire autant. Ce n\'était pas la chaleur qui les obligeait à cette seconde halte, mais bien un obstacle inattendu, le plus inattendu des obstacles qu\'il eût été possible de prévoir en un semblable pays.
+
+Faite de pieux traversés par trois lignes de fil de fer, une clôture, s\'infléchissant en interminable courbe, allait à droite et à gauche aboutir au littoral et barrait le passage de tous côtés. De place en place, des pieux plus élevés que les autres supportaient des écriteaux sur lesquels, en anglais, en français et en danois la même inscription était répétée. M. De Schnack qui avait précisément en face de lui un de ces écriteaux, y lisait avec stupéfaction : « Propriété privée. Défense d\'entrer. »
+
+Une propriété privée dans ces lointains parages, voilà qui n\'était pas ordinaire ! Sur les côtes ensoleillées de la Méditerranée ou sur celles plus brumeuses de l\'Océan, les villégiatures se comprennent. Mais sur les rivages de l\'océan Glacial ! Que pouvait bien faire de ce domaine aride et rocailleux son original propriétaire ?
+
+En tout cas, ce n\'était pas l\'affaire de M. De Schnack. Absurde ou non, une propriété privée lui barrait la route, et cet obstacle tout moral avait brisé net son élan.
+
+Un délégué officiel est naturellement respectueux des principes sur lesquels reposent les sociétés civilisées, et l\'inviolabilité du domicile privé est un axiome universellement proclamé.
+
+Cet axiome, le propriétaire avait d\'ailleurs pris soin de le rappeler à ceux qui auraient pu être tentés de l\'oublier. « Défense d\'entrer », signifiait formellement en trois langues la théorie des écriteaux.
+
+M. De Schnack était perplexe. Demeurer là lui semblait bien cruel. Mais, d\'autre part, violer la propriété d\'autrui, au mépris de toutes lois divines et humaines !
+
+Des murmures, grossissant de minute en minute, se firent entendre en queue de la colonne et se propagèrent en peu d\'instants jusqu\'à la tête. Les derniers rangs, ignorants de la cause qui les motivait, protestaient de toute la force de leur impatience contre cet arrêt. Mis au courant de l\'incident, ils ne se tinrent pas pour satisfaits, et, leur mécontentement gagnant de proche en proche, ce fut bientôt un infernal vacarme au milieu duquel tout le monde parlait à la fois.
+
+Allait-on s\'éterniser devant cette clôture ? Après avoir fait des milliers de milles pour arriver jusque-là, allait-on se laisser bêtement arrêter par un méchant bout de fil de fer ? Le propriétaire du terrain ne pouvait avoir la folle prétention d\'être aussi celui du météore. Il n\'avait donc aucune raison de refuser le passage. Et, d\'ailleurs, s\'il le refusait, c\'était bien simple, il n\'y avait qu\'à le prendre.
+
+M. De Schnack fut-il ébranlé par ce flot d\'arguments violents ? Toujours est-il que ses principes fléchirent.
+
+Précisément en face de lui, retenue par une simple ficelle, une petite porte existait dans la clôture. À l\'aide d\'un canif, M. De Schnack coupa cette ficelle, et, sans réfléchir que cette véritable effraction le transformait en un vulgaire cambrioleur, il pénétra sur le territoire interdit.
+
+Les uns par la porte, les autres enjambant les fils de fer, le reste de la foule s\'y engouffra à sa suite. En quelques instants plus de trois mille personnes eurent envahi la « propriété privée ». Foule agitée, bruyante, qui commentait vivement cet incident inattendu.
+
+Mais le silence s\'établit tout à coup comme par enchantement. À cent mètres de la clôture, une petite cabane en planches, cachée jusque-là par un repli du terrain, s\'était révélée brusquement, et la porte de cette misérable masure venait de s\'ouvrir, encadrant un personnage du plus étrange aspect. Ce personnage interpellait les envahisseurs. « Eh, là-bas ! criait-il en français d\'une voix rocailleuse, ne vous gênez pas. Faites comme chez vous ! »
+
+M. De Schnack comprenait le français. C\'est pourquoi M. De Schnack s\'arrêta sur place, et, derrière lui, s\'arrêtèrent pareillement les touristes, qui, d\'un même mouvement, tournèrent à la fois vers l\'insolite interpellateur leurs trois mille visages intrigués.

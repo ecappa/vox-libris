@@ -1,0 +1,451 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "POÉSIES",
+  "slug": "poesies",
+  "nombre_chapitres": 40,
+  "structure": [
+    {
+      "title": "1 – Quand par le dur hiver...",
+      "slug": "1-quand-par-le-dur-hiver",
+      "is_part": false,
+      "spine_start": 2395,
+      "spine_end_exclusive": 2396,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_371.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2 – Ô toi, que mon amour profond...",
+      "slug": "2-o-toi-que-mon-amour-profond",
+      "is_part": false,
+      "spine_start": 2396,
+      "spine_end_exclusive": 2397,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_372.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "3 – Tempête et calme",
+      "slug": "3-tempete-et-calme",
+      "is_part": false,
+      "spine_start": 2397,
+      "spine_end_exclusive": 2398,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_373.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "4 – Lorsque la douce nuit...",
+      "slug": "4-lorsque-la-douce-nuit",
+      "is_part": false,
+      "spine_start": 2398,
+      "spine_end_exclusive": 2399,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_374.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "5 – Vous êtes jeune et belle...",
+      "slug": "5-vous-etes-jeune-et-belle",
+      "is_part": false,
+      "spine_start": 2399,
+      "spine_end_exclusive": 2400,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_375.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "6 – Le silence dans une église",
+      "slug": "6-le-silence-dans-une-eglise",
+      "is_part": false,
+      "spine_start": 2400,
+      "spine_end_exclusive": 2401,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_376.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "7 – La nuit",
+      "slug": "7-la-nuit",
+      "is_part": false,
+      "spine_start": 2401,
+      "spine_end_exclusive": 2402,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_377.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "8 – La fille de l'air",
+      "slug": "8-la-fille-de-lair",
+      "is_part": false,
+      "spine_start": 2402,
+      "spine_end_exclusive": 2403,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_378.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "9 – La cloche du soir",
+      "slug": "9-la-cloche-du-soir",
+      "is_part": false,
+      "spine_start": 2403,
+      "spine_end_exclusive": 2404,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_379.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "10 – J'aime ces doux oiseaux...",
+      "slug": "10-jaime-ces-doux-oiseaux",
+      "is_part": false,
+      "spine_start": 2404,
+      "spine_end_exclusive": 2405,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_380.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "11 – Hésitation.",
+      "slug": "11-hesitation",
+      "is_part": false,
+      "spine_start": 2405,
+      "spine_end_exclusive": 2406,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_381.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "12 – Connaissez-vous mon Andalouse",
+      "slug": "12-connaissez-vous-mon-andalouse",
+      "is_part": false,
+      "spine_start": 2406,
+      "spine_end_exclusive": 2407,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_382.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "13 – Le Génie",
+      "slug": "13-le-genie",
+      "is_part": false,
+      "spine_start": 2407,
+      "spine_end_exclusive": 2408,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_383.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "14 – La Vapeur",
+      "slug": "14-la-vapeur",
+      "is_part": false,
+      "spine_start": 2408,
+      "spine_end_exclusive": 2409,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_385.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "15 – La Mort",
+      "slug": "15-la-mort",
+      "is_part": false,
+      "spine_start": 2409,
+      "spine_end_exclusive": 2410,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_386.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "16 – La Lune",
+      "slug": "16-la-lune",
+      "is_part": false,
+      "spine_start": 2410,
+      "spine_end_exclusive": 2411,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_387.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "17 – À la morphine",
+      "slug": "17-a-la-morphine",
+      "is_part": false,
+      "spine_start": 2411,
+      "spine_end_exclusive": 2412,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_388.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "18 – À Herminie",
+      "slug": "18-a-herminie",
+      "is_part": false,
+      "spine_start": 2412,
+      "spine_end_exclusive": 2413,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "19 – À l'hôpital !",
+      "slug": "19-a-lhopital",
+      "is_part": false,
+      "spine_start": 2413,
+      "spine_end_exclusive": 2414,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "20 – À la potence !",
+      "slug": "20-a-la-potence",
+      "is_part": false,
+      "spine_start": 2414,
+      "spine_end_exclusive": 2415,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_020.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "21 – À ma sœur le jour de sa première communion",
+      "slug": "21-a-ma-sœur-le-jour-de-sa-premiere-communion",
+      "is_part": false,
+      "spine_start": 2415,
+      "spine_end_exclusive": 2416,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_021.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "22 – Acrostiche",
+      "slug": "22-acrostiche",
+      "is_part": false,
+      "spine_start": 2416,
+      "spine_end_exclusive": 2417,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_022.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "23 – Affaire Praslin",
+      "slug": "23-affaire-praslin",
+      "is_part": false,
+      "spine_start": 2417,
+      "spine_end_exclusive": 2418,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_023.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "24 – Au général Cambronne",
+      "slug": "24-au-general-cambronne",
+      "is_part": false,
+      "spine_start": 2418,
+      "spine_end_exclusive": 2419,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_024.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "25 – Aux jeunes filles du couvent de Sainte-Marie",
+      "slug": "25-aux-jeunes-filles-du-couvent-de-sainte-marie",
+      "is_part": false,
+      "spine_start": 2419,
+      "spine_end_exclusive": 2420,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_025.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "26 – Bonheur domestique",
+      "slug": "26-bonheur-domestique",
+      "is_part": false,
+      "spine_start": 2420,
+      "spine_end_exclusive": 2421,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_026.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "27 – Chanson",
+      "slug": "27-chanson",
+      "is_part": false,
+      "spine_start": 2421,
+      "spine_end_exclusive": 2422,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "28 – Invocation",
+      "slug": "28-invocation",
+      "is_part": false,
+      "spine_start": 2422,
+      "spine_end_exclusive": 2423,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0005.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "29 – La jeune fille",
+      "slug": "29-la-jeune-fille",
+      "is_part": false,
+      "spine_start": 2423,
+      "spine_end_exclusive": 2424,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0006.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "30 – Un bien vieil habit",
+      "slug": "30-un-bien-vieil-habit",
+      "is_part": false,
+      "spine_start": 2424,
+      "spine_end_exclusive": 2425,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_043.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "31 – Sonnet d'après Kerner",
+      "slug": "31-sonnet-dapres-kerner",
+      "is_part": false,
+      "spine_start": 2425,
+      "spine_end_exclusive": 2426,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_044.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "32 – Sonnet",
+      "slug": "32-sonnet",
+      "is_part": false,
+      "spine_start": 2426,
+      "spine_end_exclusive": 2427,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "33 – Rondeau redoublé",
+      "slug": "33-rondeau-redouble",
+      "is_part": false,
+      "spine_start": 2427,
+      "spine_end_exclusive": 2428,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "34 – Romance",
+      "slug": "34-romance",
+      "is_part": false,
+      "spine_start": 2428,
+      "spine_end_exclusive": 2429,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "35 – Quel aveugle !",
+      "slug": "35-quel-aveugle",
+      "is_part": false,
+      "spine_start": 2429,
+      "spine_end_exclusive": 2430,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "36 – Plutus, premier roi de France",
+      "slug": "36-plutus-premier-roi-de-france",
+      "is_part": false,
+      "spine_start": 2430,
+      "spine_end_exclusive": 2431,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "37 – Paraphrase du psaume 129",
+      "slug": "37-paraphrase-du-psaume-129",
+      "is_part": false,
+      "spine_start": 2431,
+      "spine_end_exclusive": 2432,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_050.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "38 – Le silence dans une église",
+      "slug": "38-le-silence-dans-une-eglise",
+      "is_part": false,
+      "spine_start": 2432,
+      "spine_end_exclusive": 2433,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "39 – Le coq",
+      "slug": "39-le-coq",
+      "is_part": false,
+      "spine_start": 2433,
+      "spine_end_exclusive": 2434,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "40 – Le cancan",
+      "slug": "40-le-cancan",
+      "is_part": false,
+      "spine_start": 2434,
+      "spine_end_exclusive": 2435,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_053.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

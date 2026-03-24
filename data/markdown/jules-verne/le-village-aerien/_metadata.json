@@ -1,0 +1,209 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE VILLAGE AÉRIEN",
+  "slug": "le-village-aerien",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Après une longue étape",
+      "slug": "chapitre-1-apres-une-longue-etape",
+      "is_part": false,
+      "spine_start": 1743,
+      "spine_end_exclusive": 1744,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_290.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Les feux mouvants",
+      "slug": "chapitre-2-les-feux-mouvants",
+      "is_part": false,
+      "spine_start": 1744,
+      "spine_end_exclusive": 1745,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_291.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Dispersion",
+      "slug": "chapitre-3-dispersion",
+      "is_part": false,
+      "spine_start": 1745,
+      "spine_end_exclusive": 1746,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_292.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Parti à prendre, parti pris",
+      "slug": "chapitre-4-parti-a-prendre-parti-pris",
+      "is_part": false,
+      "spine_start": 1746,
+      "spine_end_exclusive": 1747,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_293.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Première journée de marche",
+      "slug": "chapitre-5-premiere-journee-de-marche",
+      "is_part": false,
+      "spine_start": 1747,
+      "spine_end_exclusive": 1748,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_294.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Toujours en direction du sud-ouest",
+      "slug": "chapitre-6-toujours-en-direction-du-sud-ouest",
+      "is_part": false,
+      "spine_start": 1748,
+      "spine_end_exclusive": 1749,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_295.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – La cage vide",
+      "slug": "chapitre-7-la-cage-vide",
+      "is_part": false,
+      "spine_start": 1749,
+      "spine_end_exclusive": 1750,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_296.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Le docteur Johausen",
+      "slug": "chapitre-8-le-docteur-johausen",
+      "is_part": false,
+      "spine_start": 1750,
+      "spine_end_exclusive": 1751,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_297.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Au courant du rio Johausen",
+      "slug": "chapitre-9-au-courant-du-rio-johausen",
+      "is_part": false,
+      "spine_start": 1751,
+      "spine_end_exclusive": 1752,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_298.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Ngora !",
+      "slug": "chapitre-10-ngora",
+      "is_part": false,
+      "spine_start": 1752,
+      "spine_end_exclusive": 1753,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_299.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – La journée du 19 mars",
+      "slug": "chapitre-11-la-journee-du-19-mars",
+      "is_part": false,
+      "spine_start": 1753,
+      "spine_end_exclusive": 1754,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_300.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Sous bois",
+      "slug": "chapitre-12-sous-bois",
+      "is_part": false,
+      "spine_start": 1754,
+      "spine_end_exclusive": 1755,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_301.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Le village aérien",
+      "slug": "chapitre-13-le-village-aerien",
+      "is_part": false,
+      "spine_start": 1755,
+      "spine_end_exclusive": 1756,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_302.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Les Wagddis",
+      "slug": "chapitre-14-les-wagddis",
+      "is_part": false,
+      "spine_start": 1756,
+      "spine_end_exclusive": 1757,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_303.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Trois semaines d'études",
+      "slug": "chapitre-15-trois-semaines-detudes",
+      "is_part": false,
+      "spine_start": 1757,
+      "spine_end_exclusive": 1758,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_304.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Sa Majesté Msélo-Tala-Tala",
+      "slug": "chapitre-16-sa-majeste-mselo-tala-tala",
+      "is_part": false,
+      "spine_start": 1758,
+      "spine_end_exclusive": 1759,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_305.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – En quel état était le docteur Johausen !",
+      "slug": "chapitre-17-en-quel-etat-etait-le-docteur-johausen",
+      "is_part": false,
+      "spine_start": 1759,
+      "spine_end_exclusive": 1760,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_306.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Brusque dénouement",
+      "slug": "chapitre-18-brusque-denouement",
+      "is_part": false,
+      "spine_start": 1760,
+      "spine_end_exclusive": 1761,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_307.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

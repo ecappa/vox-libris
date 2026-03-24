@@ -1,0 +1,113 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MATHIAS SANDORF",
+  "slug": "mathias-sandorf",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Partie 1",
+      "slug": "partie-1",
+      "is_part": false,
+      "spine_start": 1111,
+      "spine_end_exclusive": 1121,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_002.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_003.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_004.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_005.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_006.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_007.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_008.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_009.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_010.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Partie 2",
+      "slug": "partie-2",
+      "is_part": false,
+      "spine_start": 1121,
+      "spine_end_exclusive": 1130,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_012.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_013.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_014.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_015.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_016.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_017.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_018.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_019.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_020.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Partie 3",
+      "slug": "partie-3",
+      "is_part": false,
+      "spine_start": 1130,
+      "spine_end_exclusive": 1138,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_021.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_022.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_023.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_024.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_025.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_026.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_027.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_028.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Partie 4",
+      "slug": "partie-4",
+      "is_part": false,
+      "spine_start": 1138,
+      "spine_end_exclusive": 1145,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_029.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_030.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_031.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_032.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_033.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_034.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_035.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Partie 5",
+      "slug": "partie-5",
+      "is_part": false,
+      "spine_start": 1145,
+      "spine_end_exclusive": 1151,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_036.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_037.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_038.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_039.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_040.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_20130327_split_041.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/mathias-sandorf/Ajout20130327_1.jpg",
+    "images/jules-verne/mathias-sandorf/Ajout20130327_2.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105022.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105026.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105040.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105044.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105057.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105104.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105108.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105113.jpg",
+    "images/jules-verne/mathias-sandorf/capture_02282013_105119.jpg"
+  ]
+}

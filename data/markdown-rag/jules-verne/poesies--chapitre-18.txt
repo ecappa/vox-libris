@@ -1,0 +1,33 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 18"
+slug_section: "chapitre-18"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 18 -- À Herminie
+Tu dis que mon amour s'efface,
+Et que mon cœur se fait tout noir,
+Que pour toi je deviens de glace ;
+Mon âme, amie, est un miroir
+Qui réfléchit ce qui s'y passe !...
+Regarde, tu pourras t'y voir !
+Je te vois tout en larmes :
+Dis-moi, mon bel enfant,
+D'où viennent tes alarmes ?
+Ce que l'on te défend ?
+Ta peine est bien amère !
+Pour apaiser tes pleurs,
+Veux-tu toutes ces fleurs
+Ou les bras de ta mère ?

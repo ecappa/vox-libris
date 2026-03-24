@@ -1,0 +1,35 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 32"
+slug_section: "chapitre-32"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 32 -- Sonnet
+On voit dans le Koran de superbes tirades,
+Où Mahomet promet au croyant délecté,
+Dans le ciel, des houris, plus belles que grenades
+Et d'un parfum plus pur que ce fruit enchanté !
+
+Le ciel ne donna pas à ces peuples nomades
+Des femmes aux yeux doux, à la tendre beauté ;
+Comme un bonheur nouveau, Dieu montre à ces peuplades,
+Les vierges et l'amour, prix de leur piété !
+
+Pour nous, pour ce bonheur auquel il nous convie,
+Dieu ne nous offre pas en l'éternelle vie
+Des vierges pour couler des jours et de miel ;
+ Plus heureux qu'un croyant qui trop longtemps espère,
+Nous avons nos houris, nos vierges sur la terre !
+A quoi servirait-il de s'envoler au ciel !

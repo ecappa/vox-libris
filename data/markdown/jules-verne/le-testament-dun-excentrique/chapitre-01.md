@@ -1,0 +1,3519 @@
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+
+]{.calibre20}
+
+## [[Seconde partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942514 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_86 .calibre21}
+
+### []{#_Toc343185588 .pcalibre2 .pcalibre1}[]{#_Toc343183127 .pcalibre2 .pcalibre1}[]{#_Toc343180666 .pcalibre2 .pcalibre1}[]{#_Toc343178205 .pcalibre2 .pcalibre1}[]{#_Toc343175744 .pcalibre2 .pcalibre1}[]{#_Toc343173283 .pcalibre2 .pcalibre1}[]{#_Toc343170822 .pcalibre2 .pcalibre1}[]{#_Toc343168361 .pcalibre2 .pcalibre1}[]{#_Toc343165900 .pcalibre2 .pcalibre1}[]{#_Toc343163439 .pcalibre2 .pcalibre1}[]{#_Toc343160978 .pcalibre2 .pcalibre1}[]{#_Toc343158517 .pcalibre2 .pcalibre1}[]{#_Toc343149247 .pcalibre2 .pcalibre1}[]{#_Toc343146786 .pcalibre2 .pcalibre1}[]{#_Toc343144323 .pcalibre2 .pcalibre1}[]{#_Toc343141862 .pcalibre2 .pcalibre1}[]{#_Toc343139401 .pcalibre2 .pcalibre1}[]{#_Toc343136939 .pcalibre2 .pcalibre1}[]{#_Toc343134478 .pcalibre2 .pcalibre1}[]{#_Toc343132017 .pcalibre2 .pcalibre1}[]{#_Toc343129555 .pcalibre2 .pcalibre1}[]{#_Toc343127094 .pcalibre2 .pcalibre1}[]{#_Toc343124630 .pcalibre2 .pcalibre1}[]{#_Toc343122169 .pcalibre2 .pcalibre1}[]{#_Toc343119708 .pcalibre2 .pcalibre1}[]{#_Toc343117254 .pcalibre2 .pcalibre1}[]{#_Toc343114791 .pcalibre2 .pcalibre1}[]{#_Toc343112330 .pcalibre2 .pcalibre1}[]{#_Toc343109869 .pcalibre2 .pcalibre1}[]{#_Toc343106125 .pcalibre2 .pcalibre1}[]{#_Toc343103663 .pcalibre2 .pcalibre1}[]{#_Toc343101200 .pcalibre2 .pcalibre1}[]{#_Toc343098775 .pcalibre2 .pcalibre1}[]{#_Toc343096306 .pcalibre2 .pcalibre1}[]{#_Toc343093844 .pcalibre2 .pcalibre1}[]{#_Toc343091366 .pcalibre2 .pcalibre1}[]{#_Toc343088903 .pcalibre2 .pcalibre1}[]{#_Toc343086441 .pcalibre2 .pcalibre1}[]{#_Toc343083978 .pcalibre2 .pcalibre1}[]{#_Toc343081516 .pcalibre2 .pcalibre1}[]{#_Toc343079055 .pcalibre2 .pcalibre1}[]{#_Toc343076592 .pcalibre2 .pcalibre1}[]{#_Toc343074129 .pcalibre2 .pcalibre1}[]{#_Toc343071663 .pcalibre2 .pcalibre1}[]{#_Toc343043703 .pcalibre2 .pcalibre1}[]{#_Toc343038818 .pcalibre2 .pcalibre1}[]{#_Toc343036453 .pcalibre2 .pcalibre1}[]{#_Toc343034088 .pcalibre2 .pcalibre1}[]{#_Toc343031723 .pcalibre2 .pcalibre1}[]{#_Toc343028167 .pcalibre2 .pcalibre1}[]{#_Toc343025802 .pcalibre2 .pcalibre1}[]{#_Toc343023437 .pcalibre2 .pcalibre1}[]{#_Toc343021071 .pcalibre2 .pcalibre1}[]{#_Toc343018705 .pcalibre2 .pcalibre1}[]{#_Toc343016340 .pcalibre2 .pcalibre1}[]{#_Toc343013975 .pcalibre2 .pcalibre1}[]{#_Toc343011608 .pcalibre2 .pcalibre1}[]{#_Toc343009243 .pcalibre2 .pcalibre1}[]{#_Toc343006878 .pcalibre2 .pcalibre1}[]{#_Toc343004513 .pcalibre2 .pcalibre1}[]{#_Toc343002148 .pcalibre2 .pcalibre1}[]{#_Toc342999783 .pcalibre2 .pcalibre1}[]{#_Toc342997418 .pcalibre2 .pcalibre1}[]{#_Toc342995053 .pcalibre2 .pcalibre1}[]{#_Toc342992688 .pcalibre2 .pcalibre1}[]{#_Toc342990323 .pcalibre2 .pcalibre1}[]{#_Toc342987958 .pcalibre2 .pcalibre1}[]{#_Toc342985591 .pcalibre2 .pcalibre1}[]{#_Toc342983226 .pcalibre2 .pcalibre1}[]{#_Toc342980861 .pcalibre2 .pcalibre1}[]{#_Toc342978496 .pcalibre2 .pcalibre1}[[Chapitre 1 -- Le Parc National]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942515 .pcalibre2 .pcalibre1} {#chapitre-1-le-parc-national .calibre171 .sigil_not_in_toc}
+
+C\'était le 15 mai, à midi, au Post Office de Fort Riley, que Max Réal avait reçu le télégramme envoyé le jour même de Chicago. Dix, par cinq et cinq, tel avait été le nombre de points de ce tirage, qui s\'appliquait au second coup de dés du premier partenaire.
+
+À compter de la huitième case, État du Kansas, avec dix points, le joueur tombe sur une des cases de l\'Illinois. Aussi la règle l\'oblige-t-elle à doubler ce nombre, de telle sorte que vingt points le conduisent à la vingt-huitième case, État du Wyoming.
+
+« Une heureuse chance ! dit Max Réal, lorsque Tommy et lui furent rentrés à l\'hôtel.
+
+--- Si mon maître est content, répondit le jeune garçon, je dois l\'être...
+
+--- Il l\'est, déclara Max Réal, et pour les deux raisons que voici : la première, c\'est que le voyage ne sera pas long, car le Kansas et le Wyoming se touchent presque à l\'un de leurs angles ; la seconde, c\'est que nous aurons le temps de visiter la plus belle région des États-Unis, ce merveilleux Parc National du Yellowstone que je ne connais pas encore. Voilà bien ma bonne étoile, la voilà !... Avoir tiré précisément ce point de dix qui me gratifie d\'une double enjambée et met le Wyoming sur mon itinéraire !... Comprends-tu, Tommy, comprends-tu ?...
+
+--- Non, mon maître ! » répondit Tommy.
+
+Et la vérité est que Tommy en était encore à comprendre ces ingénieuses combinaisons du Noble Jeu des États-Unis d\'Amérique qui enchantaient le jeune peintre.
+
+Peu importait, d\'ailleurs, et Max Réal ne pouvait que se féliciter de ce second tirage, bien qu\'il fût encore en arrière de Lissy Wag et du commodore Urrican, -- ce dernier, on le sait, condamné à recommencer la partie. En effet, non seulement ce voyage ne comporterait aucune fatigue, mais il permettrait au premier partenaire de visiter cet admirable coin du Wyoming.
+
+Or, voulant y consacrer le plus de temps possible, et ne disposant que de quinze jours, du 15 au 29 mai, il résolut de quitter immédiatement la petite ville de Fort Riley.
+
+C\'était à Cheyenne, la capitale du Wyoming, que Max Réal devait trouver la prochaine dépêche expédiée à son adresse, -- à moins que la partie n\'eût été gagnée auparavant. Et, au total, il suffisait que Hodge Urrican amenât le point de dix pour atteindre la soixante-troisième et dernière case, puisque du premier coup, en grande avance sur tous ses concurrents, il avait été porté à la cinquante-troisième.
+
+« Il en est bien capable, cet homme terrible ! Avait dit Max Réal, lorsque les journaux publièrent ce résultat. Alors plus d\'héritage, et je ne pourrai pas t\'acheter, mon pauvre Tommy !... Enfin, j\'aurai toujours visité les régions du Yellowstone !... Vil esclave, boucle nos valises, et en route pour le Parc National ! »
+
+Le vil esclave, très honoré, fit en toute hâte les préparatifs du départ.
+
+Si Max Réal se fût borné à se rendre de Fort Riley à Cheyenne, il aurait fait ce voyage de quatre cent cinquante milles en une seule journée par les railroads qui réunissent les deux villes. Toutefois, puisque son intention était de remonter jusqu\'à l\'angle nord-ouest du Wyoming occupé par le Parc National, il fallait compter que cette distance serait au moins doublée.
+
+On ne s\'étonnera pas si, dès le reçu de la dépêche, Max Réal eût étudié les itinéraires du réseau ferré, afin de choisir le plus court. Or, de cette étude, il résultait que deux lignes de l\'Union Pacific offraient à peu près les mêmes garanties de rapidité.
+
+La première s\'élève du Kansas au Nebraska, et, par Marysville, Kearney City, North Platte, Ogallalla, Antelope, atteint l\'angle sud-est du Wyoming et conduit à Cheyenne.
+
+La seconde, par Salina, Ellis, Oakley, Monument, Wallace, touche la frontière du Colorado à Monotony, se dirige vers Denver, capitale de l\'État, et par Jersey, Brighton, La Salle, Dover, gagne la frontière du Wyoming pour s\'arrêter à Cheyenne.
+
+Ce fut à ce dernier itinéraire que le Pavillon Violet, -- c\'était la couleur du premier partenaire, on ne l\'a point oublié, -- donna la préférence. Lorsqu\'il serait à Cheyenne, il en combinerait un autre, afin d\'arriver dans le plus bref délai au quadrilatère du Parc National.
+
+Max Réal partit donc, l\'après-midi du 16, avec son attirail de peintre, Tommy chargé de la valise, et tous deux montèrent dans le train. Immenses, sans rampes ni pentes, ces plaines occidentales du Kansas, arrosées par le cours de l\'Arkansas, qui descend des White Mountains du Colorado. Et combien la construction de ces voies ferrées fut facile ! À mesure que les rails étaient posés sur les traverses, la locomotive les utilisait, et la voie s\'établissait ainsi à raison de plusieurs milles par jour. Il est vrai, ces interminables steppes ne présentent rien de très curieux aux yeux d\'un artiste ; mais les sites deviendraient variés, étranges, superbes, dans la partie montagneuse du Colorado.
+
+Pendant la nuit, le train franchit la frontière géométrique des deux États, et s\'arrêta de grand matin à Denver.
+
+Voir cette ville, ne fût-ce qu\'une heure, Max Réal n\'en eut pas le temps. Le train pour Cheyenne allait partir, et à ne pas le prendre il y aurait eu un retard de toute une journée. Une centaine de milles, en laissant dans l\'ouest le magnifique panorama des Snowy Ranges, dominés par les cimes du Long\'s Peak, ce trajet fut rapidement enlevé.
+
+Qu\'est-ce que Cheyenne ? C\'est le nom d\'une rivière et d\'une cité, c\'est aussi celui des Indiens qui habitaient autrefois la contrée, -- ou plutôt « les Chiens » dont le langage populaire fait par corruption les Cheyennes.
+
+Quant à la ville, elle est née de l\'un de ces campements où foisonnaient les premiers chercheurs d\'or. Aux tentes succédèrent les cabanes, aux cabanes les maisons, bordant des rues et des places. Le réseau ferré se forma autour, et actuellement Cheyenne compte près de douze mille habitants. Bâtie à une altitude de mille toises, elle est station, et station importante de ce grand chemin de fer du Pacifique.
+
+Le Wyoming n\'a point de limites naturelles. Il est réduit à celles que la géodésie lui a fixées, c\'est-à-dire aux lignes droites d\'un carré long. C\'est un pays de montagnes imposantes et de vallées profondes, entre lesquelles le Colorado, la Columbia, le Missouri, prennent leurs sources. Et, lorsqu\'on a donné naissance à ces trois cours d\'eau, si considérables dans l\'hydrographie américaine, on est digne d\'ajouter une étoile à celles qui brillent au pavillon des États-Unis.
+
+Suivant son habitude, Max Réal garda le plus complet incognito. Cheyenne ne sut pas que ce jour-là elle possédait l\'un des joueurs du match Hypperbone qu\'elle n\'attendait pas sitôt, d\'ailleurs, et saurait bien trouver le 29 à son poste. Il évita donc les réceptions, banquets indigestes, cérémonies fastidieuses, dont il eût été l\'objet, sans doute, de la part d\'une population prompte à l\'emballement et dans laquelle eussent certainement figuré les femmes qui ont le droit de vote en cet heureux État du Wyoming.
+
+Débarqué le matin du 16 mai, Max Réal prit ses mesures pour se rendre sans retard au Parc National. Avec plus de temps à sa disposition, il aurait pu faire le voyage en voiture, en stage, s\'arrêtant à sa fantaisie, furetant à travers cette région de Laramie Ranges, ces hautes plaines dont le fond argileux fut jadis celui d\'un immense lac, passant à gué les innombrables creeks, capricieux affluents de la North Forth et de la Platte River, visitant les cirques de ce magnifique système orographique, les sinueuses vallées, les épaisses forêts, et le multiple réseau des tributaires de la Columbia, enfin toute cette contrée que dominent à plus de deux mille toises l\'Union Peak, l\'Hayden Peak, le Fremont Peak, et ce farouche mont Ouragans, des Wide Water Mountains, d\'où est peut-être venu le nom de l\'Oregon, et qui, grand entraîneur de bourrasques et de tempêtes, peut rivaliser avec le non moins farouche commodore Urrican.
+
+Oui, cheminer ainsi, en voiture, à cheval, à pied, en toute liberté, s\'arrêter à loisir devant les plus beaux sites de ce domaine, planter sa tente ici ou là sans être pressé par les heures, quoi de plus séduisant pour un peintre, et avec quel enchantement Max Réal eût effectué son voyage dans ces conditions !... Mais pouvait-il oublier qu\'en lui l\'artiste se doublait d\'un partenaire, qu\'il ne s\'appartenait pas, que, jouet du hasard, il était à sa merci, qu\'il dépendait d\'un coup de dés, qu\'il avait l\'obligation d\'évoluer entre des dates fixes, d\'être traité comme un pion d\'échiquier ?... Au fond, cela ne laissait pas de l\'humilier.
+
+« Un pion que le sort fait manoeuvrer à sa guise, se disait-il, il est pourtant vrai que je ne suis plus autre chose !... C\'est l\'abandon de toute dignité humaine, et pour une chance sur sept d\'empocher l\'héritage de cet excentrique défunt !... La rougeur me monte au front quand ce moricaud de Tommy me regarde !... J\'aurais dû envoyer maître Tornbrock au diable, ne point prendre part à cette ridicule partie, dont il serait sage de me retirer à la grande satisfaction des Titbury, des Crabbe, des Kymbale et autres Urrican !... Je ne parle pas de la douce et modeste Lissy Wag, car cette jeune fille m\'a paru peu charmée de figurer dans le groupe des Sept !... Oui... au diable, et je le ferais à l\'instant, et je resterais au Wyoming à ma convenance, n\'était ma brave femme de mère, qui ne me pardonnerait pas d\'avoir déserté !... Enfin, puisque je suis dans cet invraisemblable pays du Yellowstone, voyons tout ce qu\'on en peut voir en une dizaine de jours ! »
+
+Ainsi raisonnait Max Réal, et ce n\'était point mal raisonner, après avoir étudié l\'itinéraire le mieux approprié aux circonstances. D\'ailleurs, à voyager comme il l\'aurait voulu, il se fût exposé non seulement à des retards, mais à des dangers. Ces plaines et ces vallées du Wyoming central sont loin d\'être sûres, lorsqu\'on les parcourt sans escorte... En outre de rencontre possible avec les fauves, ours et autres carnassiers qui les fréquentent, il y a lieu de redouter quelque attaque des Indiens, de ces Sioux nomades, qui ne sont pas tous cantonnés dans leurs réserves.
+
+Aussi, lors des explorations que le gouvernement fédéral organisa en 1870 afin de reconnaître la contrée du Yellowstone, MM. Doane, Langford et le docteur Hayden furent-ils militairement accompagnés, de manière à garantir leur mission. Et c\'est deux ans après, le 1er mars 1872, que le Congrès déclara Parc National cette région digne, à plus d\'un titre, d\'être dénommée la huitième merveille du monde.
+
+Deux lignes transcontinentales relient New York à San Francisco ; la première, l\'Union Pacific, qui prend le nom de Oregon Short Line à partir de Granger, longue, en chiffres ronds, de trois mille trois cent quatre-vingts milles, passe par Ogden ; la seconde, longue de cinq mille trois cents, passe par Topeka, Denver et remonte à Cheyenne sur la première ligne. À partir de cette ville, le railroad traverse le Wyoming, l\'Utah, la Nevada, la Californie, et vient aboutir à l\'Océan Pacifique.
+
+Dans l\'Utah, à Ogden, se détache un embranchement qui rejoint l\'Union Pacific à Pocatello, d\'où l\'Oregon Short Line monte jusqu\'à Helena City dans le Montana. Cette ligne passe à courte distance du Parc National, dont le territoire appartient pour une petite partie aux deux états susdits, et au troisième pour la plus grande.
+
+Or, de Cheyenne à Ogden, le parcours n\'est que de cinq cent quinze milles, et d\'Ogden à Monida, la station la plus rapprochée du Parc National, de quatre cent cinquante seulement, -- au total, moins de mille milles. Il était donc tout indiqué que Max Réal, désireux de se rendre par le plus court à l\'angle nord-ouest du Wyoming, fit choix de cet itinéraire, qui, s\'il l\'allongeait quelque peu, lui permettrait de visiter Ogden.
+
+Le soir même, non moins inconnus à leur départ qu\'ils l\'avaient été à leur arrivée, Max Réal et Tommy s\'installaient dans le train, traversaient les longues plaines lacustres de Laramie, et ils dormaient d\'un imperturbable sommeil, lorsqu\'ils atteignaient la station de Benton City, une de ces villes qui poussent à la surface du Far West comme des champignons, -- un peu vénéneuses, peut-être, à leur naissance, mais bientôt détoxiquées par de bons procédés de culture. Puis, sans qu\'ils se fussent réveillés, le train laissa en arrière Laramie, Rawlins, Halville, Granger, Separation, les Buttes-Noires, Green River, qui se joint à Grand River pour former le Colorado en suivant le cours de la Muddy Fork jusqu\'à la station d\'Aspen près de la frontière de l\'Utah, puis il pénétra sur le territoire de ce nom, et, dans la matinée du 27, vint stopper à Ogden.
+
+C\'est là, on l\'a dit, que l\'Union Pacific, avant de contourner le Great Salt Lake par sa courbe supérieure, pour aller vers l\'ouest, jette un embranchement de quatre cent cinquante milles jusqu\'à Helena City. À ce même point, il en projette un second vers le sud, qui raccorde Ogden avec Great Salt Lake City, la capitale de l\'État, la grande cité mormone, qui a tant fait parler d\'elle, et pas toujours à son avantage.
+
+Quelle occasion avait là Max Réal, sans s\'écarter de plus de trente-six milles, de rendre visite à cette ville fameuse entre toutes ! Il s\'en abstint, cependant, et qui sait si les aléas de la partie ne le ramèneraient pas à la Cité des Saints, illustrée par les exploits matrimoniaux de Brigham Young et de ses polygames compatriotes ?...
+
+La journée du 17 fut employée à remonter l\'Idaho, en laissant à l\'est la frontière du Wyoming, le long de la base des Bear River Mountains, par Utah Hot Springs, et le train franchit la limite de l\'Idaho, à Oxford.
+
+L\'Idaho appartient au bassin de la Columbia, riche en gisements miniers qui attirent la tumultueuse foule des laveurs d\'or, et dont les agriculteurs auront utilisé les plaines méridionales dans un avenir assez rapproché. Boise City, avec ses deux mille cinq cents habitants, est la capitale de ce territoire qui possède certaines réserves affectées aux Pieds-Noirs, aux Nez-Percés, aux Coeurs-d\'Alène, sans compter les Chinois, mêlés en assez grand nombre à la population blanche.
+
+Le Montana, lui, est un pays de montagnes, ainsi que son nom l\'indique. L\'un des plus vastes de l\'Union, impropre à la culture, mais favorable à l\'élève du bétail, il est très riche en gisements d\'or, d\'argent et de cuivre. De tous les États, c\'est celui dans lequel les Indiens occupent les plus vastes enclaves du Far West, les Têtes-Plates, La Terrasse de Cléopâtre. -- Vallée du Yellowstone. Les Gros-Ventres, les Corbeaux, les Modoks, les Cheyennes, les Assiniboines, dont l\'Américain ne supporte pas sans peine le turbulent voisinage.
+
+Virginia City, la capitale de l\'État, semblait au début, devoir prospérer comme tant d\'autres villes de ces territoires de l\'Ouest. Actuellement elle est délaissée au profit de Butte City et d\'Helena, bien que la première ait vu aussi décroître le chiffre de ses habitants.
+
+Il va de soi que de rapides et confortables moyens de communication existent entre le Parc National et la station de Monida, où s\'arrêta le premier partenaire, et qu\'ils se multiplieront encore au profit de ces légions de touristes de l\'Ancien et du Nouveau Monde, conviés par le gouvernement fédéral à visiter le domaine du Yellowstone.
+
+Max Réal put donc quitter immédiatement Monida, grâce à un service de stages parfaitement organisé, et quelques heures après, accompagné de Tommy, il arrivait à destination.
+
+Les parcs nationaux, pourrait-on dire, sont au territoire de la République ce que les squares sont à ses grandes cités. D\'autres que celui du Yellowstone ont été créés ou se créeront à court délai, -- tel celui du Crater Lake, dans la région volcanique du nord-ouest, telle cette Suisse américaine, ce Jardin des Dieux, magnifiquement encadré dans la zone montagneuse du Colorado.
+
+
+Il s\'agissait de soustraire à toute occupation par des particuliers et de mettre sous la protection de l\'État une partie du sol de l\'Union de cinquante-cinq milles sur soixante-cinq milles, située vers les sources du Yellowstone et du Missouri. Cette région serait désormais un Parc National, dont la jouissance pleine et entière resterait réservée au peuple américain.
+
+Après avoir déclaré que l\'espace compris dans les limites indiquées n\'était pas susceptible d\'une culture productive, le rapporteur ajoutait :
+
+« La loi proposée n\'apporterait aucune diminution aux revenus de l\'État, et elle serait accueillie par le monde entier comme une mesure conforme à l\'esprit de progrès, et comme un titre d\'honneur pour le Congrès et pour la Nation. »
+
+Les conclusions du rapport furent adoptées. Le Parc National du Yellowstone passa sous l\'administration du Secrétaire de l\'Intérieur, et si le monde entier ne lui a pas encore rendu visite, on peut compter que l\'avenir réalisera ces voeux du Congrès.
+
+En ce coin privilégié du vaste ensemble des États-Unis, il n\'y a, paraît-il, rien à attendre de la culture, ni sur les plateaux, ni dans les vallées, ni dans les plaines placées à sept mille pieds d\'altitude moyenne. Là, le climat est extrêmement dur, puisque pas un mois ne se passe sans qu\'il gèle. Aussi, rien de l\'élevage du bétail, qui ne résisterait pas à ces rudes températures, rien non plus du rendement minéral d\'un sol généralement volcanique, semé de matières éruptives, dévoré par les ardeurs plutoniennes, et enserré d\'un cadre de montagnes, dont les crêtes se dessinent à mille toises au-dessus du niveau de la mer.
+
+C\'est donc le pays le plus inutile du monde, pourtant l\'un des plus célèbres, dont la valeur est uniquement due à ses beautés, à ses étrangetés naturelles, et auquel la main de l\'homme ne pourrait ajouter.
+
+Cette main est intervenue, cependant, dans le but d\'attirer les excursionnistes des cinq parties du monde, dont le rapport officiel prévoyait et provoquait l\'exode par milliers. La circulation est facilitée par des routes carrossables à travers ce dédale cahotique. Des établissements se sont élevés, où l\'élégance le dispute au confort. On peut parcourir le domaine en toute sécurité. Ce qui est plutôt à craindre, c\'est qu\'il ne devienne une station thermale, une immense ville d\'eaux, où foisonneront les malades, attirés par les sources chaudes du Fire Hole et du Yellowstone.
+
+Et, en outre, ainsi que le fait observer Élisée Reclus, ces parcs nationaux sont déjà devenus d\'immenses domaines de chasse pour les directeurs de compagnies financières, qui en possèdent les chemins de fer d\'accès et les principaux hôtels. C\'est ainsi que l\'établissement de Terrasse Mammoth est le centre d\'une véritable principauté. Qui l\'aurait cru ?... Une principauté dans la grande République Nord-Américaine !
+
+Ce fut là -- et malheureusement à cette époque de l\'année nombre de visiteurs encombraient le caravansérail -- que s\'écoula tout le temps dont Max Réal pouvait disposer. Par bonheur, personne ne le soupçonnait d\'être un des tenants du match Hypperbone, car il aurait été escorté ou, pour mieux dire, assailli d\'importuns par centaines. Il put donc aller et venir, admirant ces curiosités naturelles qui ne provoquaient point, il faut l\'avouer, l\'admiration de Tommy, ébauchant plusieurs toiles que le jeune noir trouvait toujours infiniment supérieures aux sites qu\'elles représentaient. Non, jamais Max Réal ne devait oublier ces inoubliables merveilles du Parc National.
+
+« Et pourvu, se disait-il parfois, qu\'il ne m\'arrive pas de manquer le rendez-vous du 29 de Cheyenne ! Grand Dieu !... Que dirait ma chère bonne mère ? »
+
+Elle est vraiment magnifique, cette vallée du Yellowstone, jalonnée de massifs basaltiques dans lesquels on taillerait un palais tout entier, avec ses pics déchiquetés qui se dressent tout autour, ses cimes blanches dont les neiges s\'écoulent en mille ramifications de rios et de creeks à travers la profondeur des forêts de pins, ses cañons, à parois verticales très rapprochées, interminables corridors qui sillonnent ce domaine. Là se multiplient les efforts d\'une nature sauvage et convulsionnée. Là s\'étendent des champs de laves, des plaines où s\'accumulent les éjections volcaniques. Là se dressent des entrecolonnements taillés dans les falaises noirâtres, zébrés de rayures jaunes et rouges, modèles à imiter pour l\'architecture polychrome. Là s\'entassent les restes des forêts pétrifiées sous le vomissement des cratères maintenant refroidis. Là se sent toujours le formidable travail souterrain, dont l\'action se manifeste à travers le sol par l\'échappement de deux mille sources thermales.
+
+Et que dire du lac de Yellowstone, avec ses rives semées d\'obsidiennes, creusé dans un plateau à plus de sept mille pieds d\'altitude ? Cette cuvette aux eaux pures comme du cristal, de trois cent trente milles carrés, possède des îles montagneuses, et, en maint endroit, les panaches de vapeurs jaillissent non seulement sur ses grèves, mais aussi à sa surface. C\'est une nappe profonde et calme, où pullulent les truites par myriades, que domine un système orographique d\'une incomparable splendeur.
+
+Et c\'est ainsi que Max Réal, sans le souci des heures et des jours qui s\'écoulaient, fit provision d\'impérissables souvenirs devant le spectacle de ces magnificences. Il visita en touriste infatigable les environs du lac Yellowstone, les bassins aux ondes empourprées qui l\'avoisinent, échevelées d\'algues aux éclatantes couleurs. Il remonta dans le nord jusqu\'à cet éblouissant étalage des vasques des Mammoth Springs. Il se baigna dans leurs piscines basaltiques, disposées en demi-cercle, emplies d\'eau tiède, et entourbillonnées de vapeurs. Il s\'étourdit aux fracas tumultueux des deux cataractes du Yellowstone, qui, pendant un demi-mille, en chutes, en rapides, en cascades, s\'épanchent à travers un lit resserré, éperonné de roches laviques, pour finir au milieu d\'une poussière liquide par un saut de cent vingt pieds. Il circula entre les trous à feu qui bordent le torrent du Fire Hole. Là, dans cette vallée rongée par l\'impétueux tributaire de la Madison, se chiffrent par centaines les sources chaudes, les fontaines de boue, les geysers avec lesquels ne peuvent rivaliser les plus célèbres de l\'Islande.
+
+Et quel panorama développe aux regards, le long de ses rives, ce sinueux et capricieux Fire Hole, sorti d\'un lagon, en se déroulant vers le nord. À tous les étages des massifs qui s\'abaissent jusqu\'à son lit se succèdent les cratères d\'où fusent les geysers aux dénominations descriptives. Ici c\'est l\'Old Faithful, le « Vieux Fidèle », avec ses jets réguliers, dont la fidélité commence à décroître par suite d\'intermittences moins précises. Là, c\'est le « Château-Fort », sur le bord d\'un étang marécageux, en forme de vieux donjon, dont les murs s\'inondent sous la pluie de ses vapeurs condensées. C\'est la « Ruche », puits monstrueux dont la margelle s\'élève au-dessus du sol comme un tronçon de tour, le « Grand Geyser », qui met un intervalle de trente-deux heures entre ses éruptions, le « Géant » dont les liquides panachés flottent à cent vingt pieds, moins puissant que la « Géante », qui porte les siens à plus du double.
+
+Dans le bassin supérieur se déploie l\'« Éventail », avec ses lamelles parées de toutes les nuances de l\'arc-en-ciel, lorsque les rayons solaires s\'y réfractent. Non loin, l\'« Excelsior », dont la colonne centrale, sur une circonférence d\'une trentaine de toises, s\'élève à soixante, en évacuant, dans les poussées de sa formidable gerbe, des débris de pierres et de laves arrachés à l\'écorce terrestre. À un mille de là, se rencontre le « Geyser de la Grotte », ou plutôt « de la Source », qui couronne de ses aigrettes aqueuses d\'énormes blocs en arcades, orifices des sombres cavités où travaillent incessamment les forces plutoniennes. Enfin, le « Blood Geyser », expectoré d\'un cratère aux parois d\'argile rougeâtre qu\'il délaie au passage, semble s\'épanouir en gerbe de sang.
+
+Tel est le domaine, sans rival au monde, dont Max Réal parcourut les vallées, les cañons, les fonds lacustres, allant de merveille en merveille, d\'admiration en admiration. Dans cet angle du Wyoming, arrosé par le Fire Hole et le Yellowstone supérieur, dont le sol frémit sous le pied comme les tôles d\'une chaudière, se mélangent, s\'amalgament, se combinent, les substances telluriques sous l\'action des feux internes inépuisablement alimentés au foyer central, et dont les mugissements s\'échappent par mille bouches. Là se produisent les phénomènes les plus inattendus, semblables à ces effets scéniques d\'une féerie provoqués par la baguette du magicien, au milieu des prodiges de ce Parc National du Yellowstone, dont on ne saurait trouver l\'équivalent en n\'importe quelle autre contrée du globe.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+[
+]{.calibre172 lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+### [[Chapitre 2 -- Pris l\'un pour l\'autre]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942516 .pcalibre2 .pcalibre1} {#chapitre-2-pris-lun-pour-lautre .calibre171 .sigil_not_in_toc}
+
+--- Je ne crois pas qu\'il soit arrivé...
+
+--- Et pour quelle raison ne le croyez-vous pas ?
+
+--- Parce que mon journal n\'en a rien dit.
+
+--- Mal renseigné, votre journal, car la nouvelle est tout au long dans le mien...
+
+--- Alors je me désabonnerai...
+
+--- Et vous n\'aurez pas tort...
+
+--- Assurément, car il n\'est pas permis, lorsqu\'il s\'agit d\'un fait de cette importance, qu\'un journal manque d\'informations, et que ses lecteurs n\'en aient pas connaissance...
+
+--- C\'est impardonnable. »
+
+Ces propos s\'échangeaient entre deux citoyens de Cincinnati, qui se promenaient sur ce pont suspendu, long de cent soixante toises, jeté sur l\'Ohio, presque à l\'embouchure du Lacking, entre la métropole et les deux faubourgs de Newport et de Covington, bâtis sur le territoire du Kentucky.
+
+C\'est l\'Ohio, la « Belle Rivière », qui sépare au sud et au sud-est l\'État de ce nom du Kentucky et de la Virginie Occidentale. Des longitudes géodésiques lui sont communes à l\'est avec la Pennsylvanie, au nord avec le Michigan, à l\'ouest avec l\'Indiana, et ce sont les eaux du lac Érié qui baignent son littoral.
+
+En traversant ce pont, dont l\'élégance égale la hardiesse, le regard voit se développer l\'industrieuse cité sur neuf milles de la rive droite du fleuve, jusqu\'à la cime des collines qui l\'encadrent de ce côté. Puis, la vue s\'étend au-delà du parc de l\'Eden, à l\'est, et sur une banlieue de villas et de cottages perdus sous leurs verdoyantes frondaisons.
+
+Quant à l\'Ohio, on a pu justement le comparer aux fleuves d\'Europe, avec ses arbres européens et ses villages à l\'européenne. Alimenté, dans son cours supérieur, par l\'Alleghany et la Monowghila, dans son cours moyen, par le Muskingum, le Sicoto, les deux Miami et le Licking, dans son cours inférieur, par le Kentucky, la Green River, le Wabash, le Cumberland, le Tennessee et autres tributaires, il va se confluer à Cairo au cours du Mississippi.
+
+Tout en causant, les deux citoyens, dont la postérité pourra regretter de ne connaître ni le nom ni la situation sociale, regardaient entre les mille fils du pont les ferry-boats qui sillonnaient le fleuve, les bateaux à vapeur, les chalands qui le remontaient ou le descendaient, passant sous le viaduc d\'amont et les deux viaducs d\'aval dont les railroads mettent en communication les deux états limitrophes.
+
+Au surplus, ce jour-là, 28 mai, d\'autres citoyens, non moins inconnus que les précédents, se livraient un peu partout à des conversations animées, dans les quartiers industriels ou commerçants, dans les usines ou manufactures dont on compte près de sept mille à Cincinnati, brasseries, minoteries, raffineries, abattoirs, sur les marchés, aux abords des gares, où stationnaient des groupes démonstratifs et bruyants. Mais il ne semblait pas, à vrai dire, que ces honorables citadins appartinssent aux classes supérieures, à la haute société savante et artiste qui fréquente les cours universitaires et les riches bibliothèques, qui visite les précieuses collections, les musées de la métropole. Non ! Cet affairement était plutôt à remarquer dans la partie basse de la ville et il ne s\'étendait pas jusqu\'aux quartiers somptueux, aux rues à la mode, aux squares, aux parcs ombragés de magnifiques arbres, -- entre autres ces châtaigniers qui ont valu à l\'Ohio le nom de Buckeye-State.
+
+En circulant à travers les rassemblements, en écoutant les conversations, on aurait entendu des propos de ce genre :
+
+« Est-ce que vous l\'avez vu ?...
+
+--- Non... Il a débarqué très tard dans la soirée, on l\'a mis en voiture bien fermée, et son compagnon l\'a conduit...
+
+--- Où ?...
+
+--- Voilà ce qu\'on ne sait pas, et ce qu\'il serait si intéressant de savoir...
+
+--- Mais enfin... il n\'est pas venu à Cincinnati pour ne pas s\'y montrer !... On l\'exhibera, j\'imagine...
+
+--- Oui... après-demain... dit-on... au grand concours de Spring Grove..
+
+--- Il y aura foule...
+
+--- On s\'y écrasera ! »
+
+Pourtant, cette façon de juger le héros du jour n\'était pas unanime. Du côté des abattoirs, là où sont plus volontiers appréciées les qualités physiques de préférence aux qualités morales ou intellectuelles, la taille, la vigueur, la puissance musculaire des individus, nombre de ces solides abatteurs haussaient les épaules.
+
+« Une réputation surfaite... disait l\'un.
+
+--- Et nous en avons qui le valent... disait l\'autre.
+
+--- Plus de six pieds, à en croire les réclames...
+
+--- Des pieds qui n\'ont pas douze pouces, peut-être...
+
+--- Faudra voir...
+
+--- Il paraît cependant qu\'il a jusqu\'ici la chance de battre tous ses concurrents...
+
+--- Bah !... On déclare tenir le record... Une manière d\'attirer le public... Et puis, le public est volé...
+
+--- Ici, nous ne nous laisserons pas refaire...
+
+--- Est-ce qu\'il ne vient pas du Texas ?... demanda un robuste gaillard, aux larges épaules, aux bras vigoureux, maculés du sang de l\'abattoir.
+
+--- Du Texas... tout droit, répondit un de ses camarades, non moins taillé en force.
+
+--- Alors, attendons...
+
+--- Oui... attendons... Il y en a plus d\'un déjà qui nous est arrivé du dehors, et qui aurait mieux fait de rester chez lui...
+
+--- Après tout, s\'il gagne !... C\'est possible, et cela ne m\'étonnerait pas !... »
+
+Il y avait divergence d\'appréciations, on le voit, et, au total, cela n\'eût pas été pour satisfaire John Milner, débarqué la veille à Cincinnati avec le deuxième partenaire, Tom Crabbe, que son second coup de dés avait expédié de la capitale du Texas à la métropole de l\'Ohio.
+
+C\'était à Austin, le 17 mai, midi, que John Milner avait reçu avis télégraphique du tirage relatif au Pavillon Indigo, le fameux pugiliste de la cité Chicagoise.
+
+Décidément, Tom Crabbe pouvait se dire en pleine veine, et même avec plus de raison que Max Réal, bien que celui-ci eût fait un grand pas, grâce à son point doublé. Lui, c\'était le point de douze que maître Tornbrock avait amené à son profit, le plus haut que l\'on puisse obtenir avec deux dés. Or, comme ce douze tombait également sur une des cases de l\'Illinois, il y avait lieu de le doubler aussi, et le nombre de vingt-quatre faisait passer Tom Crabbe de la onzième à la trente-cinquième case.
+
+Il convient d\'ajouter que ce tirage le ramenait vers les provinces les plus populeuses du centre des États-Unis, où les communications sont rapides et faciles, au lieu de l\'envoyer aux confins du territoire fédéral.
+
+C\'est pourquoi, avant de quitter Austin, John Milner fut vivement félicité. Ce jour-là, les paris grossirent, la cote de Tom Crabbe monta, non seulement au Texas, mais en maint autre État, -- principalement sur les marchés de l\'Illinois, où les agences purent le placer à un contre cinq, taux plus élevé que celui de Harris T. Kymbale, favori jusqu\'alors.
+
+« Et ménagez-le... ménagez-le !... recommanda-t-on à John Milner, sous prétexte qu\'il est doué d\'une constitution de fer météorique, qu\'il possède des muscles d\'acier chromé, ne l\'exposez pas !... Il faut qu\'il arrive au but sans avarie...
+
+--- Rapportez-vous-en à moi, déclara nettement l\'entraîneur. Ce n\'est pas Tom Crabbe qui est dans la peau de Tom Crabbe, c\'est John Milner.
+
+--- Et, ajoutait-on, plus de traversée maritime, ni longue ni courte, puisque le mal de mer le met dans un tel état de décomposition physique et morale...
+
+--- Qui n\'a pas duré, répliqua John Milner. Mais n\'ayez crainte... Point de navigation entre Galveston et la Nouvelle-Orléans... Nous gagnerons l\'Ohio par les railroads, à petites journées, en promeneurs, puisque nous avons quinze jours pour gagner Cincinnati. »
+
+C\'était, en effet, cette métropole qui, d\'après le choix du testateur, occupait la trente-cinquième case sur sa carte, et Tom Crabbe allait se trouver en avant des autres partenaires, à l\'exception du commodore Urrican.
+
+Le jour même, encouragé, choyé, caressé par ses partisans, Tom Crabbe fut conduit à la gare, hissé en wagon, enveloppé de bonnes couvertures, par précaution, étant donnée la différence de température qui existe entre l\'Ohio et le Texas. Puis, le train démarra et fila directement vers la frontière de la Louisiane.
+
+Les deux voyageurs se reposèrent vingt-quatre heures à la Nouvelle-Orléans où ils furent accueillis plus chaleureusement encore que la première fois. Cela tenait à ce que la cote du célèbre boxeur suivait toujours une marche ascendante. Le Tom Crabbe était demandé dans les agences et s\'enlevait en toutes les villes de l\'Union. C\'était un délire, une fureur. Les journaux n\'estimèrent pas à moins de quinze cent mille dollars les sommes qui furent engagées sur la tête du deuxième partenaire au cours de son itinéraire entre la capitale du Texas et la métropole de l\'Ohio.
+
+« Quel succès ! se disait John Milner, et quel accueil nous attend à Cincinnati !... Eh bien, il faut que ce soit un triomphe... J\'ai mon idée ! ».
+
+Et voici quelle était l\'idée de John Milner, -- que n\'eût pas désavouée l\'illustre Barnum, -- afin de surexciter la curiosité et redoubler l\'emballement du public à propos de Tom Crabbe.
+
+Il ne s\'agissait pas, comme on serait tenté de le croire, d\'annoncer bruyamment, à grand renfort de réclames, l\'arrivée du Champion du Nouveau-Monde, et de défier les plus hardis boxeurs de Cincinnati à quelque lutte, dont Tom Crabbe sortirait évidemment victorieux pour reprendre ensuite le cours de ses pérégrinations. Peut-être, d\'ailleurs, John Milner tenterait-il un jour de le faire si l\'occasion s\'en présentait.
+
+Ce qu\'il voulait, au contraire, c\'était de débarquer dans le plus strict incognito, de laisser la foule des joueurs sans nouvelles de son favori jusqu\'au dernier jour, de donner à croire qu\'il avait disparu, qu\'il ne serait plus à temps pour la date du 31... Et alors il le produirait dans des circonstances telles que l\'on acclamerait son apparition comme celle d\'Élie, si le prophète revient jamais du ciel rechercher son manteau sur la terre.
+
+Précisément, John Milner avait appris par les journaux qu\'il y aurait un grand concours de bétail, le 30 courant, à Cincinnati, -- concours où les bêtes à cornes et autres seraient honorées de ces primes auxquelles elles semblent attacher tant d\'importance. Quelle occasion d\'exhiber Tom Crabbe à Spring Grove, au milieu de cette fête foraine, lorsqu\'on aurait perdu toute espérance de le revoir, et cela la veille du jour où il devait se trouver au Post Office de la métropole.
+
+Inutile de dire que John Milner ne consulta point son compagnon à ce sujet, et pour cause. Et c\'est ainsi que tous deux partirent de nuit, sans avoir prévenu personne, après s\'être fait conduire à la première station du railroad en dehors de la Nouvelle-Orléans. Qu\'étaient-ils devenus ?... Ce fut ce que toute la ville se demanda le lendemain.
+
+John Milner ne reprit pas l\'itinéraire qu\'il avait suivi en quittant l\'Illinois pour se rendre en Louisiane. D\'ailleurs, le réseau des voies ferrées est si serré en ces régions du centre et de l\'est des États-Unis qu\'il semble recouvrir les cartes des indicateurs d\'une toile d\'araignée. Et c\'est ainsi que, sans se hâter, sans que la présence de Tom Crabbe eût été signalée nulle part, voyageant la nuit, se reposant le jour, soucieux de ne point attirer l\'attention, le Pavillon Indigo et son entraîneur traversèrent les états du Mississippi, du Tennessee, du Kentucky, et s\'arrêtèrent le 20, à l\'aube naissante, dans un modeste hôtel du faubourg de Covington. Ils n\'avaient plus qu\'à franchir l\'Ohio pour fouler le sol de Cincinnati.
+
+Ainsi s\'était heureusement réalisée l\'idée de John Milner. Arrivé aux portes de la métropole, Tom Crabbe avait passé incognito.
+
+D\'après les journaux les mieux informés, on ne savait pas ce qu\'il était devenu... On avait perdu ses traces au-delà de la Nouvelle-Orléans... Aussi se demandera-t-on ce que signifiaient les propos rapportés ci-dessus, et qu\'aurait pensé John Milner, s\'il lui eût été donné de les entendre ?...
+
+Certes, il avait raison de compter sur un gros effet chez la population de Cincinnati désespérant de le voir à son poste, le 31 courant, parmi les parieurs, engagés sur lui pour des sommes considérables, quand, la veille du jour où il devait se présenter au Post Office, et après qu\'on aurait vainement demandé de ses nouvelles à tous les échos de l\'Union, -- il apparaîtrait au milieu de la foule au concours de Spring Grove !
+
+Et, pourtant, qui sait si John Milner n\'eût pas mieux mis à profit les deux semaines dont il disposait au départ du Texas, en promenant son phénomène à travers les territoires de l\'Ohio ?... Est-ce que cet État ne tient pas le quatrième rang dans la République Nord-Américaine, avec sa population de trois millions sept cent mille âmes ?... Dès lors, tant au point de vue de sa situation dans le match Hypperbone que dans le monde des amateurs de la boxe, n\'y avait-il pas intérêt à le véhiculer de ville en ville, de bourgade en bourgade, à l\'exhiber dans les principales cités de l\'Ohio ?... Et elles sont nombreuses et prospères, et Tom Crabbe y eût reçu le meilleur accueil...
+
+À supposer que John Milner n\'eût pas tenu à son coup de théâtre, il aurait certainement eu intérêt à montrer le superbe boxeur à Cleveland, une magnifique ville sur le lac Érié, à le promener le long de son avenue d\'Euclide, la plus belle de toutes les avenues de l\'Union, à lui faire parcourir ses rues larges et régulières, ombragées de superbes érables. Cette ville s\'est enrichie par l\'exploitation de sources d\'huile minérale, dont les bassins sont en communication avec son port, l\'un des plus actifs de l\'Érié ; son mouvement commercial dépasse deux cents millions de dollars. De Cleveland, Tom Crabbe se fût transporté à Toledo et à Sandusky, également ports lacustres où se concentrent les flottilles de pêche, puis dans tous ces centres industriels qui puisent leur vie au cours de l\'Ohio comme les organes du corps humain au sang des artères, Starbenville, Marietta, Gallipolis et tant d\'autres ! Et enfin, cet État n\'a-t-il pas fait sa capitale de Columbus, qui ne compte pas moins de quatre-vingt-dix mille habitants, cité aux splendides édifices publics, et l\'un des plus riches entrepôts des denrées agricoles, en même temps que centre d\'industrie métallurgique et d\'exploitation carbonifère ?...
+
+Il va de soi que les railroads rayonnent en toutes les directions, à travers les opulentes campagnes, les champs de céréales, où le maïs domine, les champs de tabac, les vignobles, qui, très éprouvés au début, prospèrent depuis le remplacement des ceps d\'Europe par les ceps américains, les verdoyantes plaines et les massifs d\'arbres de toute beauté, acacias, micocouliers, érables à sucre, érables rouges, peupliers noirs, platanes d\'une circonférence de trente à quarante pieds, comparables aux gigantesques séquoias des territoires de l\'ouest. On admettra volontiers que, si généreusement doté par la nature, l\'Ohio, un des plus puissants états de l\'Union, soit représenté au Congrès par deux sénateurs et vingt-cinq députés sur les trente-cinq sénateurs et les cent députés de sa propre législature.
+
+Il faut ajouter que le bétail est l\'objet d\'un grand commerce dans la contrée, qu\'il fournit abondamment aux usines de Chicago, d\'Omaha, de Kansas City, -- ce qui explique l\'importance de ses marchés, et entre autres de ce concours des espèces bovine, ovine et porcine qui devait se tenir le 30 du présent mois.
+
+Enfin, il n\'y avait pas à revenir sur le parti auquel s\'était arrêté John Milner. Tom Crabbe ne sera point produit dans les principales villes. Il est arrivé sur la frontière kentuckienne, sans accident, sans fatigues, -- voyageant comme il a été dit ci-dessus. Pendant son séjour au Texas, il a recouvré toute sa vigueur habituelle, toute sa puissance physique. Il n\'en a rien perdu en route, il est en bonne forme, et quel triomphe lorsqu\'il apparaîtra devant l\'assistance de Spring Grove.
+
+Le lendemain, John Milner voulut faire un tour par la ville, bien entendu, sans être accompagné de sa bête curieuse. Avant de quitter l\'hôtel, il lui dit :
+
+« Tom, je te laisse ici, et tu m\'attendras. »
+
+Comme ce n\'était pas dans le but de le consulter que John Milner lui faisait cette recommandation, Tom Crabbe n\'eut point à répondre.
+
+« Tu ne sortiras de ta chambre sous aucun prétexte, » ajouta John Milner.
+
+Tom Crabbe fût sorti, si on lui eût dit de sortir. On lui disait de ne pas sortir, il ne sortirait pas.
+
+« Si je tardais à revenir, ajouta encore John Milner, on te monterait ton premier déjeuner, puis ton second, puis ton lunch, puis ton dîner, puis ton souper. Je vais donner des ordres, et tu n\'auras pas à t\'inquiéter de ta nourriture ! »
+
+Non, certes, Tom Crabbe ne s\'inquiéterait pas, et, dans ces conditions, il attendrait patiemment le retour de John Milner. Puis, dirigeant son énorme masse vers une large rocking-chair, il l\'y déposa, et, imprimant un léger balancement à son siège, il s\'enferma dans le néant de ses pensées.
+
+John Milner descendit au bureau de l\'hôtel, fit le menu des substantiels repas qui devraient être servis à son compagnon, franchit la porte, se dirigea vers l\'Ohio à travers les rues de Covington, passa le fleuve en ferry-boat, débarqua sur la rive droite, et, les mains dans les poches, en flâneur, remonta le quartier commerçant de la ville.
+
+Une assez grande animation y régnait, John Milner put le constater. Aussi essaya-t-il de surprendre au passage quelques mots des propos qui s\'échangeaient. Il ne doutait pas d\'ailleurs que l\'on ne fût déjà très préoccupé de la prochaine arrivée du deuxième partenaire.
+
+Voilà donc John Milner qui déambule d\'une rue à l\'autre, entre des gens visiblement affairés, s\'arrêtant près des groupes, devant les boutiques, sur les places où l\'animation se manifestait par de plus bruyants propos. Jusqu\'aux femmes qui s\'en mêlaient, et, en Amérique, elles ne sont pas moins démonstratives qu\'en n\'importe quel pays du vieux continent.
+
+John Milner fut très satisfait, mais il aurait voulu savoir à quel point on s\'impatientait de ne pas avoir encore vu Tom Crabbe à Cincinnati. C\'est pourquoi, avisant l\'honorable Dick Wolgod, charcutier de son état, en chapeau de haute forme, en habit noir et en tablier de travail, qui se tenait sur le pas de sa porte, il entra dans la boutique et demanda un jambon dont il aurait, on le sait, le facile placement. Puis, après qu\'il l\'eut payé sans marchander, il dit au moment de sortir :
+
+« C\'est demain le concours...
+
+--- Oui... une belle cérémonie, répondit Dick Wolgod, et ce concours va faire honneur à notre cité.
+
+--- Il y aura sans doute grande foule à Spring Grove ?... demanda John Milner.
+
+--- Toute la ville y sera, monsieur, répondit Dick Wolgod avec cette politesse que tout charcutier sérieux doit au client qui vient de lui acheter un jambon. Songez donc, monsieur, une pareille exhibition... »
+
+John Milner dressa l\'oreille. Il était interloqué. Comment pouvait-on se douter qu\'il eût l\'intention d\'exhiber Tom Crabbe à Spring Grove ?...
+
+Et alors, il dit :
+
+« Ainsi... on ne s\'inquiète pas de retards... qui pourraient survenir...
+
+--- Aucunement. »
+
+Et, comme une pratique entrait en cet instant, John Milner s\'en alla en proie à un certain ahurissement. Que l\'on veuille bien se mettre à sa place...
+
+Il n\'avait pas fait cent pas, quand, au coin de la cinquième rue transversale, il s\'arrêta soudain, leva les bras vers le ciel, et laissa tomber son jambon sur le trottoir.
+
+Là, à l\'angle d\'une maison, s\'étalait une affiche sur laquelle se lisaient ces mots en grosses lettres :
+
+« IL ARRIVE !... IL ARRIVE ! !... IL ARRIVE ! ! !
+
+« IL EST ARRIVÉ ! ! ! ! »
+
+Du coup, cela passait les bornes !... Comment, on connaissait la présence de Tom Crabbe à Cincinnati !... On savait qu\'il n\'y avait rien à craindre en ce qui concernait la date assignée au Champion du Nouveau-Monde !... C\'était donc l\'explication de cette joie qui animait la ville, et de la satisfaction qu\'avait montrée le charcutier Dick Wolgod ?...
+
+Décidément, il est bien difficile -- disons impossible -- à un homme célèbre d\'échapper aux inconvénients de la célébrité, et il fallait renoncer désormais à jeter sur les épaules de Tom Crabbe le voile de l\'incognito.
+
+Du reste, d\'autres affiches plus explicites ne se bornaient pas à dire qu\'il était arrivé, mais qu\'il venait directement du Texas, et qu\'il figurerait au concours de Spring Grove.
+
+« Ah ! C\'est trop fort !... s\'écria John Milner. On connaît mon projet d\'y amener Tom Crabbe !... Cependant... je n\'en ai dit mot à qui que ce soit !... Allons !... j\'aurai parlé devant Crabbe... et Crabbe, qui ne parle jamais, aura parlé en route !... Cela ne peut se comprendre autrement ! »
+
+Là-dessus, John Milner regagna le faubourg de Covington, rentra à l\'hôtel pour le second déjeuner, ne dit rien à Tom Crabbe de l\'indiscrétion que celui-ci avait assurément commise, et, persistant à ne point le montrer encore, demeura le reste de la journée avec lui.
+
+Le surlendemain, dès huit heures, tous deux se dirigèrent vers le fleuve, le traversèrent sur le pont suspendu, et remontèrent les rues de la ville.
+
+C\'était au nord-ouest, dans l\'enceinte de Spring Grove qu\'allait se tenir ce grand concours national de bétail. Déjà la population s\'y portait en masse et, -- ce que John Milner fut bien obligé de constater -- elle ne laissait percer aucune inquiétude. De tous côtés s\'empressaient des bandes de ces gens joyeux et bruyants, dont la curiosité va être prochainement satisfaite.
+
+Peut-être John Milner se disait qu\'avant d\'arriver à Spring Grove, Tom Crabbe serait reconnu, à sa taille, à sa tournure, à son visage, à toute sa personne que les photographies avaient reproduite des milliers de fois et popularisée jusque dans les plus infimes bourgades de l\'Union ?... Eh bien, non ! Nul ne s\'occupa de lui, nul ne se retourna à son passage, nul n\'eut l\'air de se douter que ce colosse, qui réglait son pas sur celui de John Milner, fût le célèbre pugiliste doublé d\'un partenaire du match Hypperbone, celui que le point de vingt-quatre venait d\'expédier à la trente-cinquième case, État de l\'Ohio, Cincinnati.
+
+Ils atteignirent Spring Grove, comme sonnaient neuf heures. La foule encombrait déjà le lieu du concours. Au tumulte des spectateurs s\'ajoutaient les beuglements, les bêlements, les grognements des animaux, dont les plus favorisés allaient figurer, à leur grand honneur, sur les pages du palmarès officiel.
+
+Là étaient rassemblés d\'admirables types des espèces bovines, ovines et porcines, nombre de moutons et de porcs des plus belles races, vaches laitières, boeufs dont l\'Amérique fournit en une année plus de quatre cent mille à l\'Angleterre. Là paradaient avec ces rois de l\'élevage, ces « cattle-kings », cotés parmi les plus honorables citoyens des États-Unis. Au centre s\'élevait une estrade sur laquelle devaient être exposés les produits.
+
+Et alors l\'idée vint à John Milner de fendre la foule, de gagner le pied de l\'estrade, d\'y faire monter son compagnon et de crier à l\'assistance :
+
+« Voilà Tom Crabbe, le Champion du Nouveau-Monde, le deuxième partenaire du match Hypperbone ! »
+
+Quel effet à cette révélation inattendue, en présence de ce héros du jour, dominant ce public surchauffé !...Alors, poussant Tom Crabbe en avant et comme remorqué par ce tug puissant, il fendit les flots du populaire et voulut monter sur l\'estrade...
+
+La place était prise, et qui l\'occupait ?... Un porc, un énorme porc, colossal produit des deux races américaines Polant China et Red Jersey -- un porc vendu à trois ans deux cent cinquante dollars, alors qu\'il pesait déjà treize cent vingt livres, -- un cochon phénoménal, sa longueur près de huit pieds, sa hauteur quatre, son tour de cou six, son tour de corps sept et demi, son poids actuel dix-neuf cent cinquante-quatre livres !...
+
+Et c\'était cet échantillon de la famille Suillienne qui avait été amené du Texas !... C\'était lui dont les affiches annonçaient l\'arrivée à Cincinnati !... C\'était lui qui absorbait ce jour-là toute l\'attention publique !... C\'était lui que présentait aux applaudissements de la foule son heureux propriétaire !...
+
+Voilà donc devant quel nouvel astre avait pâli l\'astre de Tom Crabbe ! Un porc monstrueux qui allait être primé au concours de Spring Grove !...
+
+John Milner, atterré, recula. Puis, faisant signe à Tom Crabbe de le suivre, il reprit le chemin de son hôtel par des rues détournées, et, désappointé, humilié, après s\'être confiné dans sa chambre, il n\'en voulut plus sortir.
+
+Et si jamais Cincinnati eut l\'occasion de recouvrer ce surnom de Porcopolis que venait de lui ravir Chicago, ce fut bien ce 30 mai 1897 !
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185590 .pcalibre2 .pcalibre1}[]{#_Toc343183129 .pcalibre2 .pcalibre1}[]{#_Toc343180668 .pcalibre2 .pcalibre1}[]{#_Toc343178207 .pcalibre2 .pcalibre1}[]{#_Toc343175746 .pcalibre2 .pcalibre1}[]{#_Toc343173285 .pcalibre2 .pcalibre1}[]{#_Toc343170824 .pcalibre2 .pcalibre1}[]{#_Toc343168363 .pcalibre2 .pcalibre1}[]{#_Toc343165902 .pcalibre2 .pcalibre1}[]{#_Toc343163441 .pcalibre2 .pcalibre1}[]{#_Toc343160980 .pcalibre2 .pcalibre1}[]{#_Toc343158519 .pcalibre2 .pcalibre1}[]{#_Toc343149249 .pcalibre2 .pcalibre1}[]{#_Toc343146788 .pcalibre2 .pcalibre1}[]{#_Toc343144325 .pcalibre2 .pcalibre1}[]{#_Toc343141864 .pcalibre2 .pcalibre1}[]{#_Toc343139403 .pcalibre2 .pcalibre1}[]{#_Toc343136941 .pcalibre2 .pcalibre1}[]{#_Toc343134480 .pcalibre2 .pcalibre1}[]{#_Toc343132019 .pcalibre2 .pcalibre1}[]{#_Toc343129557 .pcalibre2 .pcalibre1}[]{#_Toc343127096 .pcalibre2 .pcalibre1}[]{#_Toc343124632 .pcalibre2 .pcalibre1}[]{#_Toc343122171 .pcalibre2 .pcalibre1}[]{#_Toc343119710 .pcalibre2 .pcalibre1}[]{#_Toc343117256 .pcalibre2 .pcalibre1}[]{#_Toc343114793 .pcalibre2 .pcalibre1}[]{#_Toc343112332 .pcalibre2 .pcalibre1}[]{#_Toc343109871 .pcalibre2 .pcalibre1}[]{#_Toc343106127 .pcalibre2 .pcalibre1}[]{#_Toc343103665 .pcalibre2 .pcalibre1}[]{#_Toc343101202 .pcalibre2 .pcalibre1}[]{#_Toc343098777 .pcalibre2 .pcalibre1}[]{#_Toc343096308 .pcalibre2 .pcalibre1}[]{#_Toc343093846 .pcalibre2 .pcalibre1}[]{#_Toc343091368 .pcalibre2 .pcalibre1}[]{#_Toc343088905 .pcalibre2 .pcalibre1}[]{#_Toc343086443 .pcalibre2 .pcalibre1}[]{#_Toc343083980 .pcalibre2 .pcalibre1}[]{#_Toc343081518 .pcalibre2 .pcalibre1}[]{#_Toc343079057 .pcalibre2 .pcalibre1}[]{#_Toc343076594 .pcalibre2 .pcalibre1}[]{#_Toc343074131 .pcalibre2 .pcalibre1}[]{#_Toc343071665 .pcalibre2 .pcalibre1}[]{#_Toc343043705 .pcalibre2 .pcalibre1}[]{#_Toc343038820 .pcalibre2 .pcalibre1}[]{#_Toc343036455 .pcalibre2 .pcalibre1}[]{#_Toc343034090 .pcalibre2 .pcalibre1}[]{#_Toc343031725 .pcalibre2 .pcalibre1}[]{#_Toc343028169 .pcalibre2 .pcalibre1}[]{#_Toc343025804 .pcalibre2 .pcalibre1}[]{#_Toc343023439 .pcalibre2 .pcalibre1}[]{#_Toc343021073 .pcalibre2 .pcalibre1}[]{#_Toc343018707 .pcalibre2 .pcalibre1}[]{#_Toc343016342 .pcalibre2 .pcalibre1}[]{#_Toc343013977 .pcalibre2 .pcalibre1}[]{#_Toc343011610 .pcalibre2 .pcalibre1}[]{#_Toc343009245 .pcalibre2 .pcalibre1}[]{#_Toc343006880 .pcalibre2 .pcalibre1}[]{#_Toc343004515 .pcalibre2 .pcalibre1}[]{#_Toc343002150 .pcalibre2 .pcalibre1}[]{#_Toc342999785 .pcalibre2 .pcalibre1}[]{#_Toc342997420 .pcalibre2 .pcalibre1}[]{#_Toc342995055 .pcalibre2 .pcalibre1}[]{#_Toc342992690 .pcalibre2 .pcalibre1}[]{#_Toc342990325 .pcalibre2 .pcalibre1}[]{#_Toc342987960 .pcalibre2 .pcalibre1}[]{#_Toc342985593 .pcalibre2 .pcalibre1}[]{#_Toc342983228 .pcalibre2 .pcalibre1}[]{#_Toc342980863 .pcalibre2 .pcalibre1}[]{#_Toc342978498 .pcalibre2 .pcalibre1}[[Chapitre 3 -- À pas de tortue]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942517 .pcalibre2 .pcalibre1} {#chapitre-3-à-pas-de-tortue .calibre171 .sigil_not_in_toc}
+
+« Reçu de M. Hermann Titbury, de Chicago, la somme de trois cents dollars, en paiement de l\'amende à laquelle il a été condamné par jugement du 14 mai courant, pour infraction à la loi sur les boissons alcooliques.
+
+« Calais, Maine, ce 19 mai 1897.
+
+« *Le* *greffier*,
+
+« WALTER HOEK. »
+
+
+Ainsi Hermann Titbury avait dû s\'exécuter, non sans une longue résistance continuée jusqu\'au 19 mai. Puis, cette somme payée, l\'identité du troisième partenaire dûment établie, la preuve faite que c\'étaient bien M. et Mrs Titbury qui voyageaient sous le nom de M. et Mrs Field, le juge R. T. Ordak, après trois jours de prison, avait remis le reste de la peine.
+
+Il était temps.
+
+Ce jour-là, 19, à huit heures du matin, maître Tornbrock avait joué le sixième coup de dés, et avisé l\'intéressé par le fil de Calais.
+
+Les habitants de cette petite ville, blessés de ce que l\'un des partants du match Hypperbone se fût caché sous un faux nom, ne se montrèrent pas très accueillants et rirent même de sa mésaventure. Enchantés tout d\'abord que, dans le Maine, Calais eût été le lieu choisi par feu Hypperbone, ils ne pardonnaient pas au Pavillon Bleu de ne point s\'être fait connaître dès son arrivée. Il suit de là que son nom véritable, lorsqu\'il fut révélé, ne produisit aucune impression. Dès que le gardien lui eut rendu la liberté, Hermann Titbury prit le chemin de l\'auberge. Personne ne l\'accompagna, personne même ne se détourna sur son passage. Le couple ne tenait pas autrement, d\'ailleurs, à ces acclamations de la foule que recherchait Harris T. Kymbale et n\'avait qu\'un désir : quitter Calais le plus tôt possible.
+
+Il était neuf heures du matin, et il s\'en fallait de trois encore que le moment fût venu de se présenter au bureau du télégraphe. Aussi, devant le thé et les rôties de leur déjeuner, M. et Mrs Titbury s\'occupèrent-ils de mettre leur comptabilité en règle.
+
+« Combien avons-nous dépensé depuis notre départ de Chicago ?... demanda l\'époux..
+
+--- Quatre-vingt-huit dollars et trente-sept cents, répondit l\'épouse.
+
+--- Tant que cela...
+
+--- Oui, et bien que nous n\'ayons pas gaspillé notre argent en route. »
+
+À moins d\'avoir du sang de Titbury dans les veines, on aurait pu s\'étonner, au contraire, que les dépenses eussent été réduites à ce point. Il est vrai, cette somme devait être accrue des trois cents dollars de l\'amende, -- ce qui portait à un chiffre assez élevé la saignée faite à la caisse titburyenne.
+
+« Et pourvu que la dépêche que nous allons recevoir de Chicago ne nous oblige pas à partir pour l\'autre bout du territoire !... soupira M. Titbury.
+
+--- Il faudrait cependant s\'y résoudre, déclara formellement Mrs Titbury.
+
+--- J\'aimerais mieux renoncer...
+
+--- Encore ! s\'écria l\'impérieuse matrone. Que ce soit la dernière fois, Hermann, que tu parles de renoncer à cette chance de gagner soixante millions de dollars ! »
+
+Enfin, les trois heures s\'écoulèrent, et à midi moins vingt, le couple, installé dans la salle du Post Office, attendait, et avec quelle impatience, on l\'imagine. C\'est à peine si une demi-douzaine de curieux s\'y étaient donné rendez-vous.
+
+Quelle différence avec l\'empressement dont leurs partenaires furent l\'objet à Fort Riley, à Austin, à Santa Fé, à Milwaukee, à Key West, devant le guichet des bureaux du télégraphe !
+
+« Il y a un télégramme pour M. Hermann Titbury de Chicago, » dit l\'employé.
+
+Le personnage ainsi interpellé fut pris de faiblesse au moment où son sort allait se décider. Ses jambes fléchirent, sa langue se paralysa, et il ne put répondre.
+
+« Présent, dit Mrs Titbury en secouant son mari qu\'elle poussa par les épaules.
+
+--- Vous êtes bien le destinataire de cette dépêche ?... reprit l\'employé..
+
+[--- S\'il l\'est !... s\'écria Mrs Titbury.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+--- Si je le suis !... répondit enfin le troisième partenaire. Allez le demander au juge Ordak !... Cela m\'a coûté assez cher pour qu\'on ne me chicane pas sur mon identité !... »
+
+En effet, aucun doute à ce sujet. Le télégramme fut donc remis à Mrs Titbury et ouvert par elle, car la main tremblante de son mari n\'aurait pu y parvenir.
+
+Et voici ce qu\'elle lut d\'une voix décroissante qui s\'étreignit sans articuler les derniers mots :
+
+« Hermann Titbury, point de deux par un et un, Great Salt Lake City, Utah.
+
+TORNBROCK. »
+
+Le couple défaillit au milieu des railleries peu contenues de l\'assistance, et il fallut l\'asseoir sur un des bancs de la salle.
+
+La première fois, par un et un, envoyé à la deuxième case au fond du Maine, la seconde fois, encore par un et un, envoyé à la quatrième case en plein Utah !... Quatre points en deux coups !... Et, pour comble, après avoir été de Chicago à l\'extrémité de l\'Union, aller presque à l\'autre extrémité dans l\'ouest !
+
+Passé ces quelques moments de faiblesse très compréhensible, on l\'avouera, Mrs Titbury se ressaisit, redevint la virago résolue qui dominait le ménage, prit son mari par le bras et l\'entraîna vers l\'auberge de *Sandy* *Bar*.
+
+Non ! La malchance était vraiment trop prononcée ! Quelle avance avaient déjà les autres partenaires, Tom Crabbe, Max Réal, Harris T. Kymbale, Lissy Wag, sans parler du commodore Urrican !... Ils filaient comme des lièvres, et les Titbury marchaient comme des tortues !... Aux milliers de milles parcourus entre Chicago et Calais, il faudrait maintenant ajouter les deux mille deux cents qui séparent Calais de Great Salt Lake City...
+
+Enfin, si les Titbury ne se résignaient pas à abandonner le match, il convenait de ne point s\'attarder à Calais, quitte à prendre quelques jours de repos à Chicago, le délai pour se rendre à l\'Utah s\'étendant du 19 mai au 2 juin. Et comme Mrs Titbury n\'entendait pas renoncer à la partie, le couple quitta Calais le jour même par le premier train, accompagné de tous les voeux que la population faisait... pour leurs concurrents. Après une telle déveine, la cote du troisième partenaire -- s\'il en avait une toutefois -- allait certainement tomber à un taux dérisoire. Le Pavillon Bleu ne serait même plus ni classé, ni placé.
+
+L\'infortuné couple n\'eut pas d\'ailleurs à se préoccuper de l\'itinéraire, tout indiqué, qui consistait à reprendre celui qu\'il avait suivi jusqu\'au Maine. Arrivé à Chicago, il aurait à sa disposition les trains de l\'Union Pacific, qui par Omaha, Granger et Ogden atteignent la capitale de l\'Utah.
+
+Dans l\'après-midi la petite ville fut débarrassée de la présence de ces gens peu sympathiques qui y avaient fait triste figure. On espérait bien que les hasards du Noble Jeu des États-Unis d\'Amérique ne les ramèneraient point, -- espoir qu\'ils partageaient eux-mêmes, on peut le croire.
+
+À quarante-huit heures de là, les Titbury débarquèrent à Chicago, passablement éreintés, il faut en convenir, à la suite de ces déplacements que leur âge et leurs habitudes ne comportaient guère. Ils durent même séjourner quelques jours dans leur maison de Robey Street. M. Titbury fut pris en route d\'une attaque de ces rhumatismes de quinquagénaire, qu\'il traitait d\'ordinaire par le mépris, -- sorte de traitement économique, très en rapport avec sa ladrerie originelle.
+
+La vérité est que ses jambes lui refusèrent tout service, et que, de la gare, on dut le transporter jusque chez lui.
+
+Il va de soi que les journaux annoncèrent son arrivée. Les reporters du *Staats* *Zeitung*, favorables à sa cause, lui rendirent visite. Mais, en le voyant dans un tel état, ils durent l\'abandonner à sa mauvaise chance, et les agences ne lui trouvèrent plus preneurs, pas même à sept contre un.
+
+Toutefois, on comptait sans Kate Titbury, cette maîtresse femme, et elle le fit bien voir. Ce ne fut pas par l\'indifférence qu\'elle traita les rhumatismes de son mari, ce fut par la violence. Aidée de son dragon de servante, elle frotta le rhumatisant avec tant de vigueur qu\'il faillit y laisser la peau de ses jambes. Jamais âne ou cheval ne fut étrillé de cette façon. Inutile d\'ajouter que ni docteur ni pharmacien n\'eurent à intervenir, et peut-être le patient ne s\'en trouva-t-il que mieux.
+
+Bref, le retard ne fut que de quatre jours. Le 23, les dispositions étaient prises en vue de la continuation du voyage. Il y eut lieu de tirer de la caisse quelques milliers de dollars-papier, et le 24, dès le matin, le mari et la femme se remirent en route, ayant tout le temps nécessaire pour atteindre la capitale mormone.
+
+En effet, le railroad relie directement Chicago à Omaha ; puis, à partir de ce point, l\'Union Pacific aboutit à Ogden, et, sous le nom de Southern Pacific, étend sa ligne jusqu\'à San Francisco.
+
+Et, à tout prendre, il était heureux que les époux Titbury n\'eussent pas été expédiés en Californie, car le voyage se fût allongé d\'un millier de milles.
+
+C\'est dans l\'après-midi du 28 qu\'ils arrivèrent à Ogden, importante station, qu\'un embranchement met en communication avec Great Salt Lake City.
+
+Là se produisit une rencontre, -- non pas entre deux trains, on se hâte de le dire, -- mais entre deux des partenaires, rencontre qui devait avoir de singulières conséquences.
+
+Dans cette après-midi, Max Réal, retour de sa visite au Parc National, venait de rentrer à Ogden. De là, il se rendrait le lendemain 29 à Cheyenne afin d\'y recevoir le résultat de son troisième coup de dés. Or, en arpentant le quai de la gare, voici qu\'il se trouva face à face avec ce Titbury, en compagnie duquel il avait suivi le cortège de William J. Hypperbone et figuré sur la scène de l\'Auditorium, pendant la lecture du testament de l\'excentrique défunt.
+
+Cette fois, le couple s\'était bien gardé de voyager sous un nom d\'emprunt. Il ne voulait pas s\'exposer de nouveau aux inconvénients dont il avait été victime à Calais. S\'il s\'était dispensé de se faire connaître pendant le parcours, il ne manquerait pas de s\'inscrire sous son nom véritable à un hôtel de Great Salt Lake City. Inutile, n\'est-ce pas, de révéler en route cette situation de futur héritier de trois cents millions. Ce serait assez de le dire dans la capitale de l\'Utah, et là, si on prétendait l\'exploiter, M. Titbury saurait se défendre.
+
+Que l\'on juge donc de la désagréable surprise qu\'éprouva le Pavillon Bleu, lorsque, devant un certain nombre de personnes descendues du train, il s\'entendit interpeller de la sorte par le Pavillon Violet :
+
+« Si je ne me trompe, c\'est bien à M. Hermann Titbury, de Chicago, mon concurrent dans le match Hypperbone, que j\'ai l\'honneur de parler ?... »
+
+Le couple tressaillit à l\'unisson. Visiblement ennuyé d\'être signalé à l\'attention du public, M. Titbury se retourna et ne parut pas se souvenir d\'avoir jamais vu l\'importun, bien qu\'il l\'eût parfaitement reconnu, d\'ailleurs.
+
+« Je ne sais, monsieur... répondit-il. Est-ce à moi... par hasard... que vous vous adressez ?...
+
+--- Pardon, reprit le jeune peintre, il n\'est pas possible que je me trompe !... Nous étions ensemble aux fameuses obsèques... à Chicago... Max Réal... le premier partant...
+
+--- Max Réal ?... » répliqua Mrs Titbury, comme si elle entendait prononcer ce nom pour la première fois.
+
+Max Réal, qui commençait à s\'impatienter, dit alors : « Ah çà ! Monsieur, êtes-vous ou n\'êtes-vous pas M. Hermann Titbury, de Chicago ?...
+
+--- Mais, monsieur, lui fut-il aigrement répondu, de quel droit vous permettez-vous de m\'interroger ?...
+
+--- C\'est ainsi que vous le prenez ! dit Max Réal, en renfonçant son chapeau sur sa tête. Vous ne voulez pas être M. Titbury, l\'un des Sept, expédié d\'abord au Maine, et ensuite à l\'Utah... soit ! Cela vous regarde !... Quant à moi, je suis Max Réal, qui reviens du Kansas, et du Wyoming !... Et là-dessus, bonsoir !... »
+
+Puis, comme le départ pour Cheyenne allait s\'effectuer à l\'instant, il s\'élança dans un des wagons, avec Tommy, laissant le couple interdit de l\'aventure et maudissant ces propres à rien qu\'on appelle des artistes.
+
+À ce moment, un homme qui avait suivi cette petite scène, non sans un évident intérêt, s\'approcha. Cet individu, mis avec une certaine recherche, âgé d\'une quarantaine d\'années, montrait une physionomie franche, et ne pouvait inspirer que de la confiance, même aux gens les plus soupçonneux.
+
+« Voilà, dit-il, en s\'inclinant devant Mrs Titbury, un impertinent personnage et qui aurait eu droit à une bonne correction pour son insolence !... Et si je n\'avais pas craint de me mêler de ce qui ne me regardait pas...
+
+--- Je vous remercie, monsieur, répondit M. Titbury, flatté de voir un homme si distingué venir à sa défense.
+
+--- Mais, reprit l\'homme si distingué, est-ce réellement Max Réal, votre partenaire ?...
+
+--- Oui... je crois... en effet... répliqua M. Titbury, quoique je le connaisse à peine...
+
+--- Eh bien, ajouta le voyageur, je lui souhaite tous les désagréments possibles pour avoir parlé avec ce sans-gêne à des personnes infiniment respectables, et à vous, monsieur, de le battre dans cette partie... lui et les autres... s\'entend ! »
+
+Il eût fallu avoir l\'esprit mal tourné pour ne pas faire bon accueil aux avances d\'un homme de tant de politesse, et même de tant d\'obséquiosité, un gentleman qui s\'intéressait à ce point au succès de M. et de Mrs Titbury.
+
+Qui était ce personnage ?... M. Robert Inglis, de Great Salt Lake City, et qui se disposait à y revenir -- le jour même -- un courtier de commerce des plus répandus, qui connaissait à fond la province pour l\'avoir parcourue pendant nombre d\'années. Aussi, après avoir décliné ses nom et profession, s\'offrit-il très galamment à piloter les époux Titbury, se chargeant de trouver un hôtel à leur convenance.
+
+Comment refuser les services de M. Robert Inglis, lequel déclara, d\'ailleurs, avoir engagé une très forte somme sur les chances du troisième partenaire. Il prit les menus bagages de Mrs Titbury, et les déposa dans un des wagons du train qui allait quitter Ogden. M. Titbury se montrait particulièrement touché, surtout, de ce que M. Robert Inglis eût traité Max Réal comme le méritait ce polisson. En outre, il ne pouvait que se féliciter d\'avoir rencontré un compagnon de voyage si aimable, qui lui servirait de guide dans la capitale de l\'Utah.
+
+Tout était donc pour le mieux. Les voyageurs montèrent en wagon, et on peut affirmer que jamais le temps ne passa pour eux aussi vite que durant ce parcours, qui ne comptait qu\'une cinquantaine de milles.
+
+M. Inglis fut aussi intéressant qu\'intarissable. Ce qui parut plaire à l\'excellente dame, c\'est qu\'il était le quarante-troisième enfant d\'un ménage mormon, bien entendu avant que la polygamie eût été interdite par décret du Président des États-Unis.
+
+Et cela ne saurait étonner, puisque l\'apôtre Hébert Kimball, premier conseiller de l\'Église, était mort en laissant treize femmes et cinquante-quatre enfants. Il faut espérer que si le chroniqueur de la *Tribune*, Harris T. Kymbale, est jamais astreint à se transporter dans l\'Utah, il ne prendra pas exemple sur son homonyme. Au surplus, les deux noms ne s\'écrivent pas de la même manière, et, en outre, il n\'est plus permis à Great Salt Lake City d\'être polygame, fût-on un des « Fidèles du Coran ».
+
+Si cette conversation plut aux Titbury, ce fut surtout parce qu\'il eût été impossible d\'imaginer un conteur plus charmant que M. Inglis. Nul doute qu\'il regrettât le temps où l\'Église mormone fonctionnait dans toute sa splendeur. Il vantait l\'excellence de cette religion, la « meilleure » qui fut révélée par « l\'Esprit de Dieu ». Il parla de Joseph Smith, qui se sentit devenir prophète en 1830, qui retrouva les tablettes d\'or sur lesquelles étaient inscrites les divines lois du Mormonisme, et qui fut assassiné depuis. Il narra l\'exode des « Saints des Derniers Jours », établis d\'abord dans le New York, dans l\'Illinois, puis dans l\'Ohio, puis dans le Missouri. Et alors, le voilà qui s\'étend en termes émus et dithyrambiques sur Brigham Young, pape et président de l\'Église, lequel, bravant les fatigues, bravant les dangers, conduisit la communauté sur les territoires voisins du Grand Lac Salé, où il fonda, en 1847, la Nouvelle Jérusalem.
+
+Et la cité sainte ne méritait-elle pas ce nom, comme méritait celui de Jourdain le cours d\'eau sur les bords duquel elle s\'élève, à une dizaine de milles du lac ? C\'étaient les temps prospères, et l\'État ne comptait pas moins de cent quarante-cinq mille Fidèles, qui se sont réfugiés actuellement, pour le plus grand nombre, sur un territoire concédé par le Mexique. Mais les persécutions s\'accrurent, et ce que ne dit pas M. Robert Inglis, c\'est que le gouvernement fédéral comprit très bien que l\'Utah cherchait plus à se rendre indépendant qu\'à vivre dans les pratiques du mormonisme. Aussi, en 1871, le général Grant fit-il emprisonner le pape et les apôtres, replaça l\'ancien pays des Utahs sous le joug administratif et en même temps interdit les unions polygames, fussent-elles réduites à la bigamie, au nom de la morale publique. Et, aujourd\'hui, la Nouvelle Sion est maintenue dans l\'ordre par le fort Douglas, que le gouvernement fit construire à trois milles dans l\'est afin de l\'obliger à se conformer aux lois de la République Nord-Américaine.
+
+« Ah ! Mes amis, s\'écria alors Robert Inglis, dont la voix s\'attendrit au point de tirer des larmes des yeux de Mrs Titbury, si vous aviez connu Brigham Young, notre pape vénéré, avec ses cheveux en toupet, sa barbe grisonnante encadrant les joues et le menton, ses yeux de lynx, et George Smith, cousin du prophète et historien de l\'Église, et Hunter, président des évêques, et Orson Hyde, président des douze apôtres, et Daniel Wels, second conseiller, et Elisa Snow, l\'une des femmes spirituelles du pape...
+
+--- Était-elle jolie ?... demanda Mrs Titbury.
+
+--- Abominablement laide, madame, mais qu\'est-ce que la beauté chez une femme ?... »
+
+Et celle à qui s\'adressait Robert Inglis eut un petit sourire approbateur.
+
+« Quel âge a maintenant le célèbre Brigham Young ?... interrogea M. Titbury.
+
+--- Il n\'en a plus, puisqu\'il est mort !... Mais, s\'il vivait, il aurait cent deux ans.
+
+--- Et vous, monsieur, demanda Mrs Titbury, avec un peu d\'hésitation, êtes-vous marié ?...
+
+--- Moi, chère dame !... À quoi bon se marier, depuis que la polygamie est défendue ?... Une seule femme est plus difficile à conduire que cinquante ! »
+
+Et M. Inglis de rire si gaîment de sa répartie, que le couple prit largement part à son hilarité.
+
+Le territoire que traverse l\'embranchement d\'Ogden est plat et aride, du sable et de l\'argile, mélangés de sels alcalins qui le couvrent d\'efflorescences blanchâtres comme le grand désert dans l\'ouest du lac. Il n\'y pousse que du thym, de la sauge, du romarin, des bruyères sauvages, et aussi de prodigieuses quantités de tournesols à fleurs jaunes. Vers l\'est s\'élevaient les cimes lointaines et embrumées des monts Wahsatch.
+
+Il était sept heures et demie, lorsque le train s\'arrêta en gare de Great Salt Lake City.
+
+Une magnifique ville, avait dit Robert Inglis, et certainement il ne laisserait pas partir ses nouveaux amis avant qu\'ils l\'eussent visitée, une ville de cinquante mille habitants, -- il exagérait de cinq mille, -- une ville magnifique, encadrée à l\'est par de magnifiques montagnes, et que le magnifique Jourdain met en communication avec le magnifique lac Salé, une ville salubre entre toutes, avec ses maisons, ses cottages entourés de massifs verdoyants, leurs vergers, leurs potagers plantés de pommiers, pruniers, abricotiers, pêchers, qui donnent les plus beaux fruits du monde !... Et en bordure des rues marchandes magnifiques... des édifices bâtis en pierre, et d\'aspect magnifique !... Et ses monuments, magnifiques spécimens de l\'architecture mormone, la magnifique Présidence où résidait autrefois Brigham Young, le magnifique Temple mormon, le magnifique Tabernacle, une merveille de charpente, dans lequel huit mille Fidèles pouvaient trouver place !... Et autrefois, quelles magnifiques cérémonies, le pape et les apôtres sur une estrade magnifique, autour, la foule des Saints, hommes, femmes, enfants, oh ! Combien ! Assistant à la lecture de la Bible écrite de la magnifique main de Mormon lui-même !... Enfin, tout magnifique.
+
+La vérité est que M. Robert Inglis, par amour pour sa cité natale, se laissait aller à quelque exagération. La ville du Grand Lac Salé ne mérite pas de tels éloges. Elle est trop vaste pour sa population, et si elle possède quelques beautés naturelles, elle n\'en montre aucune d\'artistique. Quant au fameux Tabernacle, ce n\'est, à vrai dire, qu\'un énorme couvercle de chaudière posé à plat sur le sol.
+
+Dans tous les cas, il n\'était pas question de visiter Great Salt Lake City ce soir-là. Le plus pressé consistait à faire choix d\'un hôtel, et, comme M. Titbury entendait qu\'il ne fut pas de prix exorbitant, son guide lui en proposa un en dehors de la ville, *Cheap* *Hotel*, autrement dit « Hôtel du bon marché ».
+
+Rien qu\'à ce nom, le couple fut séduit et rassuré. Puis, laissant la valise en gare, quitte à venir la rechercher, si *Cheap* *Hotel* lui convenait, il suivit M. Inglis qui avait voulu porter lui-même le sac et la couverture de l\'« excellente et honorable dame ».
+
+On descendit vers les bas quartiers de la cité dont les époux Titbury ne purent rien voir, car il faisait déjà presque nuit, on atteignit la rive droite d\'une rivière que M. Inglis dit être Crescent River, et on chemina pendant environ trois milles.
+
+Peut-être les Titbury trouvèrent-ils la course un peu longue ; mais à la pensée que l\'hôtel serait d\'autant moins cher qu\'il était plus éloigné de la ville, ils ne songèrent point à se plaindre.
+
+Enfin, vers huit heures et demie, au milieu d\'une obscurité complète, le ciel était chargé, les voyageurs arrivèrent devant une maison dont ils ne purent juger l\'apparence.
+
+Quelques instants plus tard, l\'hôtelier, -- un gaillard de farouche mine, il faut l\'avouer, -- les introduisait dans une chambre du rez-de-chaussée, blanchie à la chaux, uniquement meublée d\'un lit, d\'une table et de deux chaises. Cela leur suffirait, et ils remercièrent M. Inglis, qui prit congé en promettant de revenir le lendemain matin.
+
+Très fatigués, M. et Mrs Titbury, après avoir soupé des quelques provisions qui restaient dans le sac de voyage, se mirent au lit. Puis, bientôt endormis côte à côte, tous deux rêvèrent que les pronostics de cet obligeant M. Inglis se réalisaient et que le prochain coup de dés leur faisait gagner une vingtaine de cases.
+
+Ils se réveillèrent à huit heures, ayant passé une bonne nuit bien reposante. Ils se levèrent sans hâte, n\'ayant rien de mieux à faire que d\'attendre leur guide afin de visiter la ville avec lui. Ce n\'est pas qu\'ils fussent curieux de leur nature, oh non ! Mais comment refuser les offres de M. Robert Inglis, qui voulait leur montrer les merveilles de la grande cité mormone ?...
+
+À neuf heures, personne. M. et Mrs Titbury, habillés, prêts à partir, regardaient par la fenêtre qui s\'ouvrait sur la grande route devant *Cheap* *Hotel*.
+
+Cette route, leur avait dit la veille leur obligeant cicerone, était l\'ancien « Emigrants road ». Elle longeait Crescent River. Là cheminaient autrefois les fourgons chargés de marchandises destinées aux campements des pionniers et que conduisait le bull-waker, le bouvier, alors que l\'on mettait plusieurs mois pour aller de New York aux territoires de West Union.
+
+*Cheap* *Hotel* devait être isolé, car, en se penchant hors de la fenêtre, M. Titbury n\'apercevait aucune maison, ni sur cette rive, ni sur la rive gauche de la rivière. Rien que le sombre massif des verdoyantes forêts de pins qui s\'étageaient sur les flancs d\'une haute montagne.
+
+À dix heures, personne encore. M. et Mrs Titbury commencèrent à s\'impatienter, et d\'ailleurs la faim se faisait sentir.
+
+« Sortons, dit l\'une.
+
+--- Sortons, » dit l\'autre.
+
+Et, poussant la porte de leur chambre, ils pénétrèrent dans une salle centrale, une vraie salle de cabaret, dont l\'entrée donnait sur la route.
+
+Là, sur le seuil, se tenaient deux hommes, mal vêtus, d\'aspect peu rassurant, les yeux noyés de gin, et qui semblaient garder la porte.
+
+« On ne passe pas ! »
+
+Telle fut l\'injonction envoyée d\'un ton rude à M. Titbury.
+
+« Comment... on ne passe pas ?...
+
+--- Non... sans payer.
+
+--- Payer ? »
+
+Ce mot était évidemment, de toute la langue anglaise, celui qui plaisait le moins à M. Titbury, lorsqu\'on le lui adressait.
+
+« Payer... répéta-t-il, payer pour sortir ?... C\'est une plaisanterie... »
+
+Mais Mrs Titbury, soudain saisie d\'inquiétude, ne prit pas la chose ainsi, et demanda :
+
+« Combien ?...
+
+--- Trois mille dollars. »
+
+Cette voix, elle la reconnut... C\'était la voix de Robert Inglis, qui parut à l\'entrée de l\'hôtel.
+
+Cependant M. Titbury, moins perspicace que sa femme, voulut prendre la chose en riant. » Eh !... s\'écria-t-il, voilà notre ami...
+
+--- En personne, répondit celui-ci.
+
+--- Et toujours de bonne humeur...
+
+--- Toujours.
+
+--- Et vraiment, elle est bien drôle, cette réclamation de trois mille dollars...
+
+--- Que voulez-vous, cher monsieur, répondit M. Inglis, c\'est le prix d\'une nuit à *Cheap* *Hotel*.
+
+--- Vous parlez sérieusement ?... demanda Mrs Titbury qui pâlissait.
+
+--- Très sérieusement, madame. »
+
+M. Titbury, dans un mouvement de colère, voulut s\'élancer au dehors.
+
+Deux bras vigoureux s\'appesantirent sur ses épaules et le clouèrent sur place.
+
+Ce Robert Inglis était tout simplement un de ces malfaiteurs comme il s\'en rencontre trop en ces lointaines contrées de l\'Union, gens toujours à l\'affût d\'occasions qui ne sont pas rares. Plus d\'une fois déjà, maint voyageur avait été détroussé par ce prétendu quarante-troisième enfant d\'un mariage mormon, aidé de complices tels que les deux individus de cette méchante auberge de *Cheap* *Hotel*, un abominable coupe-gorge ou tout au moins coupe-bourse. Mis sur une bonne piste, après l\'interpellation de Max Réal, il avait offert ses services aux époux Titbury ; puis, ayant appris d\'eux qu\'ils étaient porteurs de trois mille dollars, -- aveu très imprudent, on en conviendra, -- il les avait conduits à ce cabaret isolé, où ils seraient entièrement à sa merci.
+
+M. Titbury le comprit, mais trop tard.
+
+« Monsieur, dit-il, j\'entends que vous nous laissiez sortir à l\'instant... J\'ai affaire à la ville...
+
+--- Pas avant le 2 juin, le jour où doit arriver la dépêche, répondu en souriant M. Inglis, et nous ne sommes qu\'au 29 mai.
+
+--- Ainsi vous prétendez nous retenir pendant cinq jours ?...
+
+--- Et même davantage, et même plus que davantage... répondit le gracieux gentleman, à moins que vous ne me versiez trois mille dollars en bons billets de la Banque de Chicago...
+
+--- Misérable !...
+
+--- Je suis poli avec vous, fit observer M. Inglis, veuillez l\'être avec moi, monsieur le Pavillon Bleu !...
+
+--- Mais cet argent... c\'est tout ce que j\'ai...
+
+--- Il sera facile au riche Hermann Titbury d\'en faire venir de Chicago autant qu\'il lui sera nécessaire !... Sa caisse est bien garnie, au riche Hermann Titbury !... Remarquez, mon cher hôte, que ces trois mille dollars, vous les avez sur vous, et que je pourrais vous les prendre dans votre poche. Mais, par Jonathan ! Nous ne sommes pas des voleurs. Seulement, ce sont les prix de *Cheap* *Hotel*, et vous voudrez bien vous y conformer...
+
+--- Jamais !
+
+--- À votre aise. »
+
+Sur ce mot, la porte fut refermée, et les époux restèrent emprisonnés dans la salle basse.
+
+Quelles récriminations alors sur ce maudit voyage, sur les tribulations, sans parler des dangers, qui s\'abattaient sur le couple voyageur ! Après l\'amende de Calais, le vol de Great Salt Lake City !... Et quelle malchance d\'avoir rencontré ce bandit d\'Inglis !...
+
+« Et c\'est ce coquin de Réal qui nous vaut cela !... s\'écria M. Titbury. Notre nom, nous ne voulions le faire connaître qu\'à l\'arrivée, et le gueux l\'a crié à Ogden, en pleine gare !... Et il a fallu que ce brigand fût là pour l\'entendre !... Que faire ?...
+
+--- Sacrifier les trois mille dollars... dit Mrs Titbury.
+
+--- Jamais... jamais !
+
+--- Hermann !... » se contenta de dire l\'impérieuse et acariâtre épouse.
+
+D\'ailleurs, il faudrait bien en arriver à cette dure extrémité. Lors même que M. Titbury s\'entêterait à ce refus, ces malfaiteurs sauraient le contraindre à s\'exécuter. Et s\'ils voulaient lui arracher son argent, puis le précipiter ensuite au fond de Crescent River avec Mrs Titbury, qui s\'inquiéterait d\'étrangers dont on ne connaissait pas la présence dans la ville ?...
+
+M. Titbury résista pourtant. Peut-être un secours surviendrait-il... un détachement de milice remontant la route, ou tout au moins quelques passants qu\'il appellerait à l\'aide ?... Vain espoir ! Une minute après, tous deux étaient conduits dans une chambre dont la fenêtre ne s\'ouvrait que sur une cour intérieure. Le farouche hôtelier mit alors quelques aliments à leur disposition. Décidément, pour le prix demandé, ce n\'était pas trop exiger que d\'être, à raison de mille dollars par jour, non seulement couchés, mais nourris à *Cheap* *Hotel* !
+
+Vingt-quatre, quarante-huit heures s\'écoulèrent en ces conditions. À quel degré de rage arrivèrent les prisonniers, on ne saurait le dire. Du reste, ils n\'eurent même pas l\'occasion de revoir M. Inglis, qui se tenait à l\'écart par discrétion, sans doute, et pour ne pas paraître exercer de pression sur ses hôtes.
+
+Enfin, le 1er juin s\'inscrivit sur les calendriers de l\'Union. C\'était le lendemain, avant midi, que le troisième partenaire devait être de sa personne au bureau du télégraphe de Great Salt Lake City. Faute que sa présence y fût constatée, il perdrait tous ses droits à continuer cette partie si désastreuse jusqu\'alors pour les couleurs du Pavillon Bleu.
+
+Eh bien, non !... M. Titbury ne voulait pas céder... il ne céderait pas. Mais, pressée par les délais, Mrs Titbury intervint avec une rare vigueur à l\'effet d\'imposer sa volonté. À supposer que M. Titbury, de par le caprice des dés, eût été envoyé dans l\'hôtellerie, dans le labyrinthe, dans le puits, dans la prison, est-ce qu\'il n\'aurait pas eu à payer des primes doubles et triples ?... Est-ce qu\'il eût hésité à le faire ?... Non !... Eh bien, c\'était à tout le moins aussi obligatoire dans les circonstances actuelles, car, s\'il est bien de tenir à l\'argent, il est encore mieux de tenir à la vie, et leur existence à tous deux, aux mains de ces malfaiteurs... Enfin... il fallait payer.
+
+M. Titbury résista jusqu\'à sept heures dans l\'espoir d\'un secours providentiel qui ne vint pas.
+
+Or, précisément, à sept heures et demie, M. Inglis, on ne peut plus aimable et poli, se fit annoncer.
+
+« C\'est demain le grand jour, dit-il. Il serait bon, mon cher hôte, que vous fussiez ce soir à Great Salt Lake City.
+
+--- Et qui m\'en empêche si ce n\'est vous... s\'écrie M. Titbury que la colère étouffait.
+
+--- Moi ?... répondit M. Inglis toujours souriant. Mais il suffit que vous soyez décidé à régler votre note...
+
+--- Voici, » dit Mrs Titbury en tendant à M. Inglis la liasse de billets que son mari, la mort dans l\'âme, lui avait remise.
+
+M. Titbury faillit passer de vie à trépas, lorsqu\'il vit ce coquin prendre la liasse, compter la somme, et il ne trouva rien à répondre, quand ce brigand ajouta :
+
+« Il est inutile que je vous donne un reçu de cet argent, n\'est-il pas vrai ?... Mais n\'ayez crainte, je la porterai à votre compte, mon cher hôte. Et maintenant, il ne me reste plus qu\'à vous souhaiter, avec un sympathique bonsoir, cette bonne chance de gagner les millions du match Hypperbone ! »
+
+La porte était libre, et, sans en entendre davantage, le couple s\'élança au dehors.
+
+Il faisait presque nuit, et l\'endroit serait difficile à reconnaître. Dès lors, comment désigner à la police le théâtre de cette scène tragi-comique ? Enfin le plus pressé était de regagner Great Salt Lake City dont on apercevait les lumières à trois milles de là, en amont de Crescent River. Et c\'est ainsi qu\'une heure après, M. et Mrs Titbury atteignirent la Nouvelle Sion, où ils descendirent dans le premier hôtel venu. Il ne leur coûterait jamais aussi cher que *Cheap* *Hotel* !
+
+Le lendemain 2 juin, M. Titbury se rendit aux bureaux du shérif, afin de déposer sa plainte et demander que les agents se missent à la recherche de Robert Inglis. Peut-être serait-il encore temps de lui reprendre les trois mille dollars...
+
+Le shérif, -- un magistrat très intelligent, -- reçut avec grand empressement la déposition du volé contre le voleur. Par malheur, M. Titbury ne put donner que de vagues renseignements sur le cabaret... Il y avait été conduit le soir... il en était parti le soir... Lorsqu\'il parla de *Cheap* *Hotel* sur les bords de Crescent River, le shérif lui répondit qu\'il ne connaissait pas d\'hôtel de ce nom, et qu\'il n\'existait même pas de Crescent River dans le pays. Il serait donc bien difficile de mettre la main sur le malfaiteur, qui, d\'ailleurs, devait avoir pris la fuite avec ses complices. Quant à lancer une brigade de détectives à leurs trousses en ce pays de bois et de montagnes, cela n\'aboutirait à rien.
+
+« Vous dites, monsieur Titbury, demanda le shérif, que cet homme s\'appelle...
+
+--- Inglis... le misérable... Robert Inglis...
+
+--- Oui... c\'est le nom qu\'il vous a donné !... Mais, en y réfléchissant, je ne doute pas qu\'il s\'agisse du fameux Bill Arrol... Je le reconnais à sa manière d\'opérer... Il n\'en est pas à son coup d\'essai...
+
+--- Et vous ne l\'avez pas encore arrêté ?... s\'écria furieusement M. Titbury.
+
+--- Pas encore, répondit le shérif. Nous n\'en sommes qu\'à la période de surveillance... Il se fera prendre un jour... ou l\'autre...
+
+--- Il sera bien temps pour moi !
+
+--- Oui... mais il sera temps pour lui, et on l\'électrocutera... à moins qu\'on ne le pende...
+
+--- Et mon argent, monsieur, mon argent ?...
+
+--- Que voulez-vous... il faudrait appréhender ce diable de Bill Arrol, et ce n\'est pas chose aisée !... Tout ce que je puis vous promettre, monsieur Titbury, c\'est de vous envoyer un bout de sa corde, si on le pend, et, à la condition que la partie ne soit pas terminée, vous serez sûr de la gagner avec un pareil fétiche !... »
+
+Et ce fut là tout ce que M. Titbury put obtenir de cet original shérif de lacité mormone !
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185591 .pcalibre2 .pcalibre1}[]{#_Toc343183130 .pcalibre2 .pcalibre1}[]{#_Toc343180669 .pcalibre2 .pcalibre1}[]{#_Toc343178208 .pcalibre2 .pcalibre1}[]{#_Toc343175747 .pcalibre2 .pcalibre1}[]{#_Toc343173286 .pcalibre2 .pcalibre1}[]{#_Toc343170825 .pcalibre2 .pcalibre1}[]{#_Toc343168364 .pcalibre2 .pcalibre1}[]{#_Toc343165903 .pcalibre2 .pcalibre1}[]{#_Toc343163442 .pcalibre2 .pcalibre1}[]{#_Toc343160981 .pcalibre2 .pcalibre1}[]{#_Toc343158520 .pcalibre2 .pcalibre1}[]{#_Toc343149250 .pcalibre2 .pcalibre1}[]{#_Toc343146789 .pcalibre2 .pcalibre1}[]{#_Toc343144326 .pcalibre2 .pcalibre1}[]{#_Toc343141865 .pcalibre2 .pcalibre1}[]{#_Toc343139404 .pcalibre2 .pcalibre1}[]{#_Toc343136942 .pcalibre2 .pcalibre1}[]{#_Toc343134481 .pcalibre2 .pcalibre1}[]{#_Toc343132020 .pcalibre2 .pcalibre1}[]{#_Toc343129558 .pcalibre2 .pcalibre1}[]{#_Toc343127097 .pcalibre2 .pcalibre1}[]{#_Toc343124633 .pcalibre2 .pcalibre1}[]{#_Toc343122172 .pcalibre2 .pcalibre1}[]{#_Toc343119711 .pcalibre2 .pcalibre1}[]{#_Toc343117257 .pcalibre2 .pcalibre1}[]{#_Toc343114794 .pcalibre2 .pcalibre1}[]{#_Toc343112333 .pcalibre2 .pcalibre1}[]{#_Toc343109872 .pcalibre2 .pcalibre1}[]{#_Toc343106128 .pcalibre2 .pcalibre1}[]{#_Toc343103666 .pcalibre2 .pcalibre1}[]{#_Toc343101203 .pcalibre2 .pcalibre1}[]{#_Toc343098778 .pcalibre2 .pcalibre1}[]{#_Toc343096309 .pcalibre2 .pcalibre1}[]{#_Toc343093847 .pcalibre2 .pcalibre1}[]{#_Toc343091369 .pcalibre2 .pcalibre1}[]{#_Toc343088906 .pcalibre2 .pcalibre1}[]{#_Toc343086444 .pcalibre2 .pcalibre1}[]{#_Toc343083981 .pcalibre2 .pcalibre1}[]{#_Toc343081519 .pcalibre2 .pcalibre1}[]{#_Toc343079058 .pcalibre2 .pcalibre1}[]{#_Toc343076595 .pcalibre2 .pcalibre1}[]{#_Toc343074132 .pcalibre2 .pcalibre1}[]{#_Toc343071666 .pcalibre2 .pcalibre1}[]{#_Toc343043706 .pcalibre2 .pcalibre1}[]{#_Toc343038821 .pcalibre2 .pcalibre1}[]{#_Toc343036456 .pcalibre2 .pcalibre1}[]{#_Toc343034091 .pcalibre2 .pcalibre1}[]{#_Toc343031726 .pcalibre2 .pcalibre1}[]{#_Toc343028170 .pcalibre2 .pcalibre1}[]{#_Toc343025805 .pcalibre2 .pcalibre1}[]{#_Toc343023440 .pcalibre2 .pcalibre1}[]{#_Toc343021074 .pcalibre2 .pcalibre1}[]{#_Toc343018708 .pcalibre2 .pcalibre1}[]{#_Toc343016343 .pcalibre2 .pcalibre1}[]{#_Toc343013978 .pcalibre2 .pcalibre1}[]{#_Toc343011611 .pcalibre2 .pcalibre1}[]{#_Toc343009246 .pcalibre2 .pcalibre1}[]{#_Toc343006881 .pcalibre2 .pcalibre1}[]{#_Toc343004516 .pcalibre2 .pcalibre1}[]{#_Toc343002151 .pcalibre2 .pcalibre1}[]{#_Toc342999786 .pcalibre2 .pcalibre1}[]{#_Toc342997421 .pcalibre2 .pcalibre1}[]{#_Toc342995056 .pcalibre2 .pcalibre1}[]{#_Toc342992691 .pcalibre2 .pcalibre1}[]{#_Toc342990326 .pcalibre2 .pcalibre1}[]{#_Toc342987961 .pcalibre2 .pcalibre1}[]{#_Toc342985594 .pcalibre2 .pcalibre1}[]{#_Toc342983229 .pcalibre2 .pcalibre1}[]{#_Toc342980864 .pcalibre2 .pcalibre1}[]{#_Toc342978499 .pcalibre2 .pcalibre1}[[Chapitre 4 -- Le pavillon vert]{lang="X-NONE"}]{#_Toc342942518 .pcalibre2 .pcalibre1} {#chapitre-4-le-pavillon-vert .calibre171 .sigil_not_in_toc}
+
+Le Pavillon Vert était celui d\'Harris T. Kymbale, le pavillon que l\'on plantait sur les cartes pour marquer son arrivée dans tel ou tel État, et qui avait été attribué au quatrième partenaire en raison du rang que cette couleur occupe dans le spectre solaire. Le chroniqueur en chef de la *Tribune* s\'en montrait très satisfait. N\'était-ce pas la couleur de l\'espérance ?...
+
+Au reste, il aurait eu mauvaise grâce à se plaindre du sort qui le favorisait comme touriste et comme joueur. Après avoir été, par son premier coup de douze, envoyé au New Mexico, voici que le point de dix par quatre et six lui réservait la vingt-deuxième case, South Carolina, aux frontières du territoire fédéral, et plus spécialement Charleston, sa métropole. Il n\'ignorait pas, d\'ailleurs, que les parieurs se le disputaient dans les agences, qu\'il était demandé sur tous les marchés du monde, pris à un contre neuf, -- cote qu\'aucun de ses concurrents n\'avait jamais atteinte, -- et partout proclamé grand favori.
+
+Heureusement, en quittant Santa Fé, le reporter n\'avait point entendu Isidorio, le très pratique conducteur du stage, formuler cette déclaration qu\'il ne voudrait pas risquer vingt-cinq cents sur ses chances, et il était tout confiant en son étoile.
+
+Il avait du 21 mai au 4 juin pour se rendre dans la Caroline méridionale, et comme, à partir de la station de Clifton, le voyage s\'effectuerait sans difficultés par les railroads, le temps ne lui manquerait pas.
+
+Harris T. Kymbale quitta donc Santa Fé le 21 et, cette fois, il s\'en tira avec une bonne gratification, et n\'eut point à faire miroiter devant son nouveau conducteur ni des centaines de mille, ni même des centaines de dollars. Il arriva dans la soirée à la station de Clifton, d\'où la voie ferrée, après avoir franchi le parallèle qui limite au sud l\'État du Colorado, le déposa à Denver, capitale dudit État.
+
+Et tel fut le raisonnement que se tint Harris T. Kymbale, tel le projet auquel il s\'arrêta, sans avoir égard à cette observation que lui avait faite l\'honorable maire de Buffalo, qu\'il ne s\'appartenait pas, mais appartenait aux parieurs engagés à sa suite. » Me voici transporté dans l\'une des plus belles provinces de l\'Union, les montagnes Rocheuses à l\'ouest... à l\'est, des plaines d\'une merveilleuse fertilité... un sol pavé de plomb, d\'argent et d\'or, à travers lequel le pétrole coule à flots... un territoire où affluent les émigrants attirés par ses richesses naturelles et les oisifs sollicités par ses luxueuses villes d\'eaux, la salubrité de son climat, la pureté de son atmosphère !... Or, je ne connais pas ce pays superbe et j\'ai l\'occasion de le connaître... Puis-je compter que le hasard m\'y renverra au cours de la partie ?... Rien n\'est moins sûr !... D\'autre part, pour gagner South Carolina, j\'ai à traverser trois ou quatre états que j\'ai déjà visités... Ils ne m\'offriront rien de nouveau... Le mieux est donc de consacrer au Colorado tout le temps dont je puis disposer, et c\'est ce que je vais faire... Pourvu que je sois à Charleston le 4 juin avant midi, je ne vois pas ce que mes partisans auraient à me reprocher... D\'ailleurs, je fais ce qui me plaît, et à ceux qui ne seraient pas contents, etc., etc. »
+
+Et voilà pourquoi, au lieu de continuer son voyage par la ligne qui dessert Oaklay, Topeka et Kansas, Harris T. Kymbale, le 21, fit choix d\'un confortable hôtel dans la capitale coloradienne.
+
+Il ne passa que cinq jours, jusqu\'au 26 soir, en cet État. Mais, -- cela ne surprendra personne, -- un reporter est capable de faire en un aussi court délai ce que nul autre de ses semblables ne ferait dans le double de temps. C\'est une question d\'entraînement professionnel. Et, pour s\'en convaincre, il suffira de jeter les yeux sur ces notes de carnet dont Harris T. Kymbale se servait pour rédiger ses articles envoyés à la *Tribune* :
+
+--- 22 mai. -- « Visité Denver. Ville élégante, larges rues ombragées, superbes magasins comme à New York ou à Philadelphie, églises, banques, théâtre, salle de concert, grand établissement universitaire du Far West, vaste entrepôt, hôtels et restaurations de luxe. *Café* *Français*. Très bien au *Café* *Français*.
+
+« Denver fondée en 1858, au confluent du Cheery Creek et de la Platte River. En 1859, il n\'y avait encore que trois femmes. Premier enfant né cette année-là. Vingt ans après, vingt-cinq mille habitants. Immigration constante. Actuellement près de cent sept mille âmes.
+
+« Denver dite ville incomparable, sans rivale. Air de premier choix, oxygène de première qualité, à quatre mille huit cent soixante-douze pieds d\'altitude. Grande chaîne du Colorado à l\'ouest, haute de sept mille cinq cents, toute verdoyante à sa base, toute blanche à sa cime. Autour de la ville, nombreux cottages. Si je gagne la partie, en ferai bâtir un sur les bords du Cheery Creek, endroit charmant pour villégiature. Aurai voitures, chevaux, chiens, domestiques blancs et noirs. Viens d\'être bien reçu du gouverneur de l\'État, le sénateur Evans. Encouragements et compliments. À parié pour moi grosse somme, et je crois non sans raison. »
+
+--- 23 mai. -- « Poussé jusqu\'aux villages miniers, devenus villes, Auroria, Golden City, Golden Gate, Oro City, des noms qui sonnent bien, mais moins fort cependant que celui de Leadville, la cité du Plomb, dont l\'extraction annuelle se chiffre par soixante et onze mille tonnes. Ville récente, trop éloignée pour que je puisse la visiter. »
+
+--- 24 mai. -- « Railroad m\'a transporté jusqu\'à Pueblo (Colorado méridional), en longeant le pied de la grande chaîne. Important centre industriel alimenté par les mines de houille et les sources de pétrole. En achèterai une ou deux si gagne la partie. Passé par Colorado Springs, dite la Cité des Millionnaires, renommée pour ses bains, déjà très fréquentée par malades ou prétendus tels. Vu la Fontaine, rio qui arrose Colorado Springs et va se jeter dans l\'Arkansas à Pueblo, et le curieux Monument Park avec ses roches architecturales et son admirable panorama. Colorado tient premier rang aux États-Unis pour la production du plomb, second rang pour la production de l\'argent et de l\'or (plus de cent vingt millions par an), trentième rang pour la superficie avec cent quatre mille milles carrés. »
+
+--- 25 mai. -- « Reviens de Suisse, -- de la Suisse américaine, s\'entend, dans l\'ossature orientale des chaînes du Colorado. C\'est aussi beau que le Parc National du Wyoming, plus beau peut-être même que la Suisse européenne. Il est vrai, je parle en citoyen des États-Unis. Il y a là des parcs invraisemblables, au nord, au centre, au midi. Quel souvenir je garde du Parc de Fair Play, encadré de montagnes majestueuses que le mont Lincoln domine à quatorze mille pieds au-dessus du niveau de la mer. Vu les Lacs Jumeaux, dans une gorge que parcourt l\'Arkansas, séparés par une chaussée de moraines, l\'un long de deux milles et demi sur un mille et demi de large, l\'autre moins étendu de moitié. Aimerais à passer une quinzaine dans le bon hôtel de Derry. Ai déjà décidé d\'acheter un cottage à Denver, deux houillères au Colorado avec mes futurs millions... Pourquoi économiser le prix d\'un chalet sur les bords des Twin Lakes ?...
+
+« Aperçu de grands pics en pleines Rocheuses, ceux de la Sierra Madre, dans la partie la plus élevée de l\'Amérique, ces Rocheuses établies sur une base qui ne mesure pas moins de trois cent soixante-quinze lieues. C\'est à peine si les plus vastes états de l\'Europe, sauf la Russie, leur permettraient de s\'y asseoir. Véritable échine du North America et qui, avec toute la poussée orographique de l\'Ouest, comprend le quart des États-Unis. Amalgamez les Alpes avec les Pyrénées et le Caucase, et vous n\'aurez pas de quoi édifier les Rocheuses.
+
+« Pas eu le temps d\'aller au mont de la Sainte-Croix, extrémité nord de la Chaîne Nationale, ainsi nommée par Hayden et Whitney, lors de l\'expédition de 1873. Mais ai pénétré par la Porte du Jardin des Dieux dans le Jardin des Dieux, à quatre milles de Colorado-Junction, parc incomparable, dont les blocs semblent les géants pétrifiés d\'une famille antédiluvienne, et me suis promené au pied du Téocalli, qui figure une sorte de château de Burgraves, bâti à deux mille cinq cents pieds dans les airs.
+
+« Il ne faut pas s\'attarder, pourtant, ni oublier que le gouverneur du Colorado et nombre de ses administrés, j\'imagine, ont parié pour moi. Donc rentré à Denver, le 26, et suis allé revoir l\'emplacement de mon cottage futur, sous de magnifiques ombrages entretenus par les affluents du Cheery Creek. »
+
+En vérité, Harris T. Kymbale n\'a point exagéré les éloges dus à la capitale du Colorado et à l\'État lui-même. Mais que de sang a baigné le sol de ce beau pays. Avant 1867, les pionniers durent lutter contre les Cheyennes, les Arrapahoes, les Kaysways, les Comanches, les Apaches, toutes ces farouches tribus de Peaux-Rouges, avec des chefs tels que le Chaudron-Noir, l\'Antilope-Blanche, la Main-Gauche, le Genou-Foulé, le Petit-Manteau ! Et oubliera-t-on jamais les horribles massacres de Sand Creek qui, en 1864, assurèrent aux blancs la domination du pays sous le colonel Chivington ?...
+
+L\'après-midi du 26, le Pavillon Vert la passa dans la splendide capitale. Une réception fut organisée en son honneur à la résidence. On le sait, aux États-Unis, un homme vaut surtout par sa fortune, et, dans l\'esprit des Coloradiens comme dans le sien d\'ailleurs, Harris T. Kymbale valait soixante millions de dollars. Il se vit donc fêté selon son mérite par ces fastueux Américains qui ont de l\'or non seulement dans leurs caisses, dans leurs poches, dans leur sol, mais jusque dans le nom de leurs principales cités !
+
+Le lendemain, 27 mai, le quatrième partenaire prit congé du gouverneur, au milieu d\'un grand concours de partisans, qui l\'acclamèrent. Le train quitta Denver, atteignit la frontière à Fort Wallace, traversa le Kansas de l\'ouest à l\'est, puis le Missouri par sa capitale Jefferson City et, à la limite orientale, s\'arrêta en gare de Saint-Louis le soir du 28.
+
+L\'intention de Harris T. Kymbale n\'était point de séjourner dans cette grande ville qu\'il connaissait, et il espérait bien n\'y jamais être envoyé par le sort, puisque, cité de la cinquante-deuxième case, elle occupait la place de la prison dans le Noble Jeu de l\'Oie. Au surplus, les états qu\'il devait rencontrer avant son arrivée en South Carolina lui offraient d\'attrayantes excursions, Tennessee, Alabama, Georgie. Aussi se proposait-il de choisir un des meilleurs hôtels à Saint-Louis, de consacrer toute la nuit à un repos dont il avait quelque besoin, et de repartir dès l\'aube par le premier train.
+
+Il ne semblait donc pas que rien dût troubler son voyage, ni l\'empêcher d\'être au jour dit à Charleston... Et cependant, il faillit ne point arriver, et même être mis dans l\'impossibilité de jamais voyager, par suite de l\'incident dont il va être question et que personne n\'aurait pu prévoir.
+
+Vers sept heures un quart, Harris T. Kymbale arpentait le quai de la gare afin de s\'informer de l\'heure des trains, lorsque, brusquement, il se heurta contre ou fut heurté par un individu qui sortait de l\'un des bureaux.
+
+Aussitôt ces aménités de s\'échanger :
+
+« Butor !
+
+--- Brutal !
+
+--- Regardez donc devant vous !...
+
+--- Et vous derrière ! »
+
+Enfin de ces mots qui partent comme des balles de revolver, pour peu que les gens soient d\'un caractère vif ou d\'un tempérament irritable.
+
+Or, l\'un des deux l\'était au plus haut degré, et on ne s\'en étonnera pas en apprenant qu\'il s\'agit de Hodge Urrican.
+
+Harris T. Kymbale reconnut son concurrent.
+
+« Le commodore !... s\'écria-t-il.
+
+--- Le journaliste ! » lui fut-il répondu d\'une voix qui semblait s\'échapper d\'une bouche à feu.
+
+C\'était bien le commodore Urrican, sans son fidèle Turk, cette fois, et mieux valait que Turk n\'eût pas à se mêler de cette affaire qu\'il aurait poussée aux extrêmes.
+
+Ainsi donc non seulement Hodge Urrican avait survécu au naufrage de la *Chicola*, mais il avait trouvé l\'occasion de quitter Key West ?... De quelle façon ?... Dans tous les cas, il fallait que son voyage se fût rapidement effectué, puisqu\'il était encore en Floride à la date du 25. Une véritable résurrection, assurément, et, depuis son débarquement à Key West dans l\'état que l\'on sait, ses partenaires devaient croire que le match des... Sept... ne se continuerait plus qu\'à six !...
+
+Bref, Hodge Urrican était à Saint-Louis, en chair et en os, ainsi que son concurrent venait de le constater dans la collision, mais d\'une humeur encore plus mauvaise que d\'habitude. Cela se comprendra. N\'était-il pas en route pour la Californie, avec obligation de revenir à Chicago, afin de recommencer la partie après le paiement d\'une triple prime !
+
+Cependant Harris T. Kymbale, en brave garçon, crut devoir se présenter à lui, disant :
+
+« Tous mes compliments, commodore Urrican, car je vois que vous n\'êtes pas mort...
+
+--- Non, monsieur, pas même de ce choc avec un maladroit, et parfaitement capable d\'enterrer ceux qui se réjouissaient sans doute de ne plus me revoir !...
+
+--- C\'est pour moi que vous dites cela ?... demanda le reporter en fronçant le sourcil.
+
+--- Oui, monsieur, répondit Hodge Urrican, qui affectait de regarder son adversaire les yeux dans les yeux, oui, monsieur le grand favori ! »
+
+Et il semblait qu\'il le mâchait ce mot, qu\'il le broyait entre ses molaires.
+
+Harris T. Kymbale, peu endurant en somme, et qui commençait à s\'échauffer, répondit :
+
+« Il paraît que cela ne rend guère poli d\'avoir à passer par la Californie pour revenir à Chicago... »
+
+C\'était toucher le commodore à l\'endroit sensible.
+
+« Vous m\'insultez, monsieur !... s\'écria-t-il.
+
+--- Entendez-le comme vous voudrez !
+
+--- Eh bien... je l\'entends mal, et vous me rendrez raison de vos insolences !
+
+--- À l\'instant, si cela vous convient !
+
+--- Oui... si j\'avais le temps, hurla Hodge Urrican, mais je ne l\'ai pas.
+
+--- Prenez-le.
+
+--- Ce que je vais prendre, c\'est ce train qui part et que je ne peux manquer ! »
+
+En effet, un train tout sifflant, tout empanaché de fumée charbonneuse, allait se mettre en marche. Pas une seconde à perdre. Aussi le commodore, s\'élançant sur la passerelle entre deux wagons, s\'écria-t-il d\'une voix terrible :
+
+« Monsieur le journaliste, vous recevrez de mes nouvelles... vous en recevrez...
+
+--- Quand ?...
+
+--- Ce soir même... à l\'European *Hotel*.
+
+--- J\'y serai, » répondit Harris T. Kymbale.
+
+Mais à peine le train était-il parti, qu\'il fit cette réflexion :
+
+« Bon !... Voilà qu\'il s\'est trompé, l\'animal !... Ce n\'est pas dans le train d\'Omaha qu\'il est monté !... Il s\'en va où il n\'a que faire !... Après tout, cela le regarde ! »
+
+Et, de fait, le train en question filait en direction de l\'est, précisément celle que Harris T. Kymbale devait suivre pour gagner Charleston.
+
+Non, Hodge Urrican ne s\'était point trompé. Il retournait tout simplement à la station précédente, à Herculanum, où l\'attendait Turk. À propos de sa valise restée en arrière, une vive explication s\'était élevée entre le commodore et le chef de gare d\'Herculanum, -- discussion dans laquelle Turk menaça d\'introduire ledit chef tout vivant dans le foyer d\'une de ses locomotives. Son maître l\'avait calmé ; puis, profitant d\'un train qui démarrait, il était venu faire en personne sa réclamation en gare de Saint-Louis. L\'affaire s\'arrangea sans peine, la valise serait redemandée par télégramme, et c\'était au moment où Hodge Urrican sortait du bureau pour retourner à Herculanum, qu\'avait eu lieu sa rencontre avec le chroniqueur.
+
+Au total, voyant son adversaire parti, Harris T. Kymbale ne s\'occupa plus de cet incident. Il regagna l\'European *Hotel*, où il était précisément descendu. Après son dîner, il fit une assez longue promenade à travers la ville, et, au moment où il rentrait, on lui remit une lettre arrivée d\'Herculanum par le dernier train.
+
+Non ! Il fallait une cervelle chimiquement composée comme celle qui bouillait sous le crâne de Hodge Urrican, pour que cet homme étonnant eût écrit pareille épître.
+
+« Monsieur le quatrième partenaire, vous avez sans doute un revolver, comme moi j\'ai le mien. Je prendrai demain matin, sept heures, le train qui part d\'Herculanum pour Saint-Louis. Je vous somme de prendre à la même heure le train qui part de Saint-Louis pour Herculanum. Cela ne changera rien ni à votre itinéraire, ni au mien.
+
+« Ces deux trains se croiseront à sept heures dix-sept minutes. Si vous n\'êtes pas homme à bousculer les gens, à les insulter ensuite sans leur rendre raison, soyez à ce moment précis, seul, sur la passerelle arrière du dernier wagon qui précède le fourgon de bagages, comme je serai sur la passerelle arrière du dernier wagon de mon train. Il y aura là l\'occasion d\'échanger quelques balles.
+
+« Commodore Hodge Urrican. »
+
+Voilà l\'homme, terrible toujours, et encore n\'avait-il rien dit à Turk ni de cette querelle, ni de cette provocation, par crainte d\'envenimer les choses.
+
+Mais, pour trouver un adversaire digne de lui, il n\'aurait pu mieux s\'adresser qu\'au chroniqueur de la *Tribune*. Celui-ci fut à sa hauteur en cette circonstance.
+
+« Eh bien, si ce marin d\'eau salée s\'imagine que je vais reculer, s\'écria-t-il, il se trompe !... Je serai à l\'heure dite sur ma passerelle, puisqu\'il sera sur la sienne !... Et le Pavillon Vert d\'un journaliste ne s\'abaissera pas devant le Pavillon Orangé d\'un commodore ! »
+
+Que l\'on veuille bien remarquer que rien de tout cela ne saurait étonner en cet étonnant pays d\'Amérique !
+
+Donc, le lendemain, un peu avant sept heures, Harris T. Kymbale descendit à la gare afin de prendre le train qui se dirigeait vers Columbus, à la frontière du Tennessee, en passant par Herculanum. Après avoir choisi sa place dans le dernier wagon qui communiquait par une passerelle avec le fourgon de bagages, il s\'y installa. Dix-sept minutes devaient s\'écouler avant qu\'il eût à occuper son poste de combat.
+
+Le temps était frais, l\'air vif, et personne évidemment ne serait tenté de se tenir au dehors pendant la marche du convoi.
+
+Le wagon occupé par Harris T. Kymbale ne contenait qu\'une douzaine de voyageurs.
+
+Lorsque le reporter consulta sa montre pour la première fois, elle lui indiqua sept heures cinq. Il n\'avait donc plus que douze minutes à attendre et il attendit avec un calme que son adversaire ne possédait sans doute pas.
+
+À sept heures quatorze, il se leva, vint se placer sur la passerelle, le revolver tiré hors du gousset du pantalon, les charges vérifiées, et il attendit encore.
+
+À sept heures seize, un roulement grandissant se fit entendre sur l\'autre voie, par laquelle le train d\'Herculanum venait à toute vapeur en sens inverse.
+
+Harris T. Kymbale releva le revolver à la hauteur de son front, prêt à l\'abaisser horizontalement.
+
+Les locomotives se croiseront, laissant en arrière un tourbillon de vapeurs blanches...
+
+Une demi-seconde après, deux détonations éclatèrent simultanément.
+
+Harris T. Kymbale sentit le vent d\'une balle qui frôlait sa joue et à laquelle il avait répondu coup pour coup.
+
+Puis les deux trains se perdirent dans le lointain.
+
+Il ne faudrait pas croire que, pour avoir entendu ces deux coups de feu, les voyageurs du wagon se fussent dérangés. Non ! Cela n\'était pas pour les émouvoir. Aussi Harris T. Kymbale vint-il tranquillement reprendre sa place, sans savoir si le commodore avait été touché au vol.
+
+Et alors le voyage continua par Nashville, la capitale actuelle du Tennessee, sur la Cumberland River, cité industrielle et commerçante de soixante-seize mille âmes, par Chattanooga, nom qui en langue cherokee signifie « Nid de Corbeau », -- un nid stratégique de premier ordre, à l\'entrée des passes que Shermann parvint à franchir avec l\'armée fédérale. Puis il se lança à travers cet État de Georgie auquel sa situation a valu d\'être nommé « Clef de voûte du Sud », comme la Pennsylvanie est nommée « Clef de voûte du Nord ».
+
+Depuis la guerre de Sécession, c\'est Atlanta qui est devenue capitale de la Georgie, en souvenir de sa longue résistance. Située à plus de cent cinquante toises d\'altitude, à l\'orée des gorges praticables des Appalaches, cette ville, en prospérité croissante, est la plus populeuse de l\'État.
+
+Après avoir traversé la Georgie jusqu\'à la ville d\'Augusta sur la rivière Savannah, où fonctionnent d\'importantes filatures de coton, le train traversa le territoire du South Carolina, fila par Hamburg qui fait face à Augusta, et vint s\'arrêter à son point terminus de Charleston.
+
+Ce fut à la date du 2 juin, dans la soirée, que le reporter atteignit cette ville fameuse, après un parcours d\'environ quinze cents milles depuis Santa Fé du New Mexico, -- voyage marqué par la rencontre avec Hodge Urrican.
+
+Ce fut là, d\'ailleurs, que les journaux l\'informèrent du passage des deux inséparables, le commodore et Turk, à Ogden dans la journée du 31 mai, se dirigeant à toute vapeur vers les lointaines régions de la Californie.
+
+« Ma foi, tout est au mieux, se dit-il. Je ne regrette point de l\'avoir manqué. C\'est un ours, et même un ours marin, mais un ours qui, en somme, a figure humaine ! »
+
+Du reste, les journaux ne faisaient point allusion au duel en railroad, connu seulement de ceux qui y avaient joué un rôle, et jamais, à moins que l\'un deux n\'en parlât... Il est vrai, compter sur la discrétion d\'un fabricant de chroniques !...
+
+C\'est dans la Caroline du Sud, sur les îles de son littoral, que vinrent s\'établir les premiers colons français. Si cet État n\'occupe que le vingt-neuvième rang au point de vue de la superficie, il ne compte pas moins de onze cent cinquante-deux mille habitants.
+
+Il est riche par sa production de coton à longues soies, riche par ses récoltes de riz d\'excellente qualité, riche par ses gisements de phosphate. Malheureusement, la guerre l\'a fort éprouvé. Nombre de propriétaires ruinés durent vendre leurs terres qui glissèrent entre les mains des prêteurs juifs. On y rencontre un chiffre assez élevé de Français, descendants de ces huguenots qui furent contraints de s\'expatrier après la révocation de l\'Édit de Nantes. Mais, ainsi que le remarque Élisée Reclus, les noms de ces familles ont été anglicisés pour la plupart.
+
+Cet État, dont les noirs formaient les trois cinquièmes, est cependant celui qui proclama avant tous autres l\'acte de Sécession, ne laissant à l\'occupation fédérale en cette partie de l\'Union que le fort Sumter, près de Charleston.
+
+La capitale est Columbia, une jolie petite ville de quinze mille âmes, abritée sous les frondaisons des magnolias et des chênes. Beaufort, dans les Sea Islands, avec ses mouillages de Port Royal, tient tête, comme exportateur de coton et de riz, à la métropole. Celle-ci est toujours la première cité du South Carolina que représentent au Congrès deux sénateurs et six députés, et qui possède quarante-six sénateurs et cent vingt-quatre députés dans sa propre assemblée législative.
+
+La Caroline du Sud est d\'ailleurs le vingt-neuvième État de l\'Union, grâce à son étendue et le vingt-deuxième au point de vue de sa population. Accidenté dans sa portion méridionale par les dernières ramifications des montagnes Bleues, il jouit d\'un climat des plus sains et des plus tempérés.
+
+Son sol produit en abondance du froment, du chanvre, du tabac qui vaut celui des campagnes virginiennes. Au centre, il est plus favorable à la culture du maïs, et, dans le sud, aux récoltes du coton et du riz. En outre de l\'exploitation de vastes forêts, l\'industrie carolinienne trouve encore à s\'alimenter aux mines de fer, de plomb, aux carrières de marbre, aux gisements d\'or et d\'ocre de la province. L\'hiver, il y règne une douceur exceptionnelle, mais les chaleurs sont très fortes en juin. Dès le mois de février, la végétation commence à se renouveler, et les bourgeons des érables montrent déjà la pointe de leurs fleurs rouges.
+
+Harris T. Kymbale ne connaissait pas Charleston, qui mérita la fâcheuse réputation d\'être considérée comme la métropole de l\'esclavage. Au total, telle est sa vitalité que, malgré une série d\'effroyables catastrophes, si éprouvée qu\'elle ait été tant de fois par l\'eau, par le feu, par les secousses sismiques, et même par la fièvre jaune, elle a toujours résisté à ces multiples causes de destruction.
+
+C\'est sur une basse presqu\'île, entre les estuaires d\'Ashtley et de Cooper formant rade, avec un vaste port desservi par deux passes, entre les promenades et les quais, que Charleston étale ses quartiers commerçants, ses maisons à vérandas, avec façades ombragées de magnolias, de grenadiers et d\'azeradachs[[\[3\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn3041){#_ftnref3041 .pcalibre2 .pcalibre1} en pleine verdure. Un peu en dehors, sur les îlots et les pointes s\'élèvent des forts, -- entre autres le fort Moultrie qui est l\'un des arsenaux de l\'Union et du South Carolina.
+
+Toujours le benjamin de la chance, ce chroniqueur en chef de la *Tribune* ! Aucune inondation, aucun incendie, aucun tremblement de terre ne désolait Charleston, lorsqu\'il y arriva, ni même aucune épidémie de *vomito* *negro* ! Cette cité, si connue, si appréciée pour l\'urbanité de ses moeurs, la politesse de ses habitants, put donc lui apparaître dans toute sa splendeur. Ils ne devaient jamais s\'effacer de son souvenir, les quelques jours que sa bonne fortune lui permit d\'y séjourner.
+
+Dire que Harris T. Kymbale fut reçu avec enthousiasme, ce serait insuffisant. Il s\'y joignit une sorte de délire pour le partenaire en qui la cité voyait le plus qualifié des « Sept ». Les autres ne comptaient même pas. Pour les Charlestoniens il n\'y en avait qu\'un, -- celui que le point de dix venait de leur envoyer. Quant aux millions de feu Hypperbone, c\'est comme s\'il les portait déjà dans son sac de voyage.
+
+Pendant quarante-huit heures affluèrent donc invitations sur invitations auxquelles le populaire reporter ne put se refuser, -- non plus qu\'aux promenades à travers la campagne environnante, où les orangers poussent en pleine terre. Sur tous les murs, couverts d\'affiches tire-l\'oeil, le nom de Harris T. Kymbale figurait en lettres éclatantes, et, le soir, en caractères électriquement reproduits.
+
+Un hôte si bien accueilli contractait envers la cité une forte dette de reconnaissance. Aussi son intention, s\'il gagnait la partie, -- il le déclara, -- était-elle de fonder à Charleston un hospice pour les pauvres gens sans famille. Et, ce qui est à noter, c\'est que nombre de miséreux vinrent se faire inscrire à la municipalité afin de s\'assurer les premières places dans cet établissement de charité. On le voit, le futur gagnant se montrait encore plus généreux à Charleston de la Caroline du Sud qu\'à Denver du Colorado.
+
+Enfin, au milieu de toutes ces fêtes, arriva le soir du 3 juin. Un splendide banquet avait été organisé par souscription. Il aurait lieu sous de magnifiques ombrages, un peu en dehors de la ville, du côté de l\'estuaire d\'Ashtley. La foule des invités s\'y rendit processionnellement, bannières déployées aux couleurs du héros de ce jour. Il n\'y a pas lieu d\'insister sur ce que fut cette réunion épulatoire dont il serait impossible d\'ailleurs de donner une idée, ni pour les recherches du menu, ni pour le faste du service.
+
+Qu\'il suffise de savoir que la pièce principale fut un pâté monstre, pesant huit mille livres, cuit dans un four gigantesque, et qu\'un char, attelé de douze chevaux, amena au lieu du festin. Dans la confection de ce pâté, il entrait deux mille quatre cents livres de boeuf, quatre cents livres de veau, quatre cents livres de mouton, cinq cent soixante livres de porc, cent vingt livres de beurre, trois cent soixante livres de lard, soixante-seize lapins, cent quatre-vingt-huit poulets, deux cents pigeons, deux mille huit cents livres de farine, deux cent quarante pièces de gibier. Ce monstrueux comestible mesurait quatorze pieds de largeur, vingt-quatre de longueur, six de hauteur. C\'est avec des couteaux longs de cinq pieds que vingt maîtres d\'hôtel le débitèrent de manière à satisfaire plusieurs milliers de personnes, qui, d\'ailleurs, eurent encore à leur disposition cinq milles de saucisses.
+
+Et alors retentirent des acclamations que la brise d\'ouest emporta vers la pleine mer :
+
+« Hurrah pour Harris T. Kymbale !... Hurrah pour le quatrième partant !... Hurrah pour le Pavillon Vert !... Hurrah pour le grand favori du match Hypperbone !... »
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185592 .pcalibre2 .pcalibre1}[]{#_Toc343183131 .pcalibre2 .pcalibre1}[]{#_Toc343180670 .pcalibre2 .pcalibre1}[]{#_Toc343178209 .pcalibre2 .pcalibre1}[]{#_Toc343175748 .pcalibre2 .pcalibre1}[]{#_Toc343173287 .pcalibre2 .pcalibre1}[]{#_Toc343170826 .pcalibre2 .pcalibre1}[]{#_Toc343168365 .pcalibre2 .pcalibre1}[]{#_Toc343165904 .pcalibre2 .pcalibre1}[]{#_Toc343163443 .pcalibre2 .pcalibre1}[]{#_Toc343160982 .pcalibre2 .pcalibre1}[]{#_Toc343158521 .pcalibre2 .pcalibre1}[]{#_Toc343149251 .pcalibre2 .pcalibre1}[]{#_Toc343146790 .pcalibre2 .pcalibre1}[]{#_Toc343144327 .pcalibre2 .pcalibre1}[]{#_Toc343141866 .pcalibre2 .pcalibre1}[]{#_Toc343139405 .pcalibre2 .pcalibre1}[]{#_Toc343136943 .pcalibre2 .pcalibre1}[]{#_Toc343134482 .pcalibre2 .pcalibre1}[]{#_Toc343132021 .pcalibre2 .pcalibre1}[]{#_Toc343129559 .pcalibre2 .pcalibre1}[]{#_Toc343127098 .pcalibre2 .pcalibre1}[]{#_Toc343124634 .pcalibre2 .pcalibre1}[]{#_Toc343122173 .pcalibre2 .pcalibre1}[]{#_Toc343119712 .pcalibre2 .pcalibre1}[]{#_Toc343117258 .pcalibre2 .pcalibre1}[]{#_Toc343114795 .pcalibre2 .pcalibre1}[]{#_Toc343112334 .pcalibre2 .pcalibre1}[]{#_Toc343109873 .pcalibre2 .pcalibre1}[]{#_Toc343106129 .pcalibre2 .pcalibre1}[]{#_Toc343103667 .pcalibre2 .pcalibre1}[]{#_Toc343101204 .pcalibre2 .pcalibre1}[]{#_Toc343098779 .pcalibre2 .pcalibre1}[]{#_Toc343096310 .pcalibre2 .pcalibre1}[]{#_Toc343093848 .pcalibre2 .pcalibre1}[]{#_Toc343091370 .pcalibre2 .pcalibre1}[]{#_Toc343088907 .pcalibre2 .pcalibre1}[]{#_Toc343086445 .pcalibre2 .pcalibre1}[]{#_Toc343083982 .pcalibre2 .pcalibre1}[]{#_Toc343081520 .pcalibre2 .pcalibre1}[]{#_Toc343079059 .pcalibre2 .pcalibre1}[]{#_Toc343076596 .pcalibre2 .pcalibre1}[]{#_Toc343074133 .pcalibre2 .pcalibre1}[]{#_Toc343071667 .pcalibre2 .pcalibre1}[]{#_Toc343043707 .pcalibre2 .pcalibre1}[]{#_Toc343038822 .pcalibre2 .pcalibre1}[]{#_Toc343036457 .pcalibre2 .pcalibre1}[]{#_Toc343034092 .pcalibre2 .pcalibre1}[]{#_Toc343031727 .pcalibre2 .pcalibre1}[]{#_Toc343028171 .pcalibre2 .pcalibre1}[]{#_Toc343025806 .pcalibre2 .pcalibre1}[]{#_Toc343023441 .pcalibre2 .pcalibre1}[]{#_Toc343021075 .pcalibre2 .pcalibre1}[]{#_Toc343018709 .pcalibre2 .pcalibre1}[]{#_Toc343016344 .pcalibre2 .pcalibre1}[]{#_Toc343013979 .pcalibre2 .pcalibre1}[]{#_Toc343011612 .pcalibre2 .pcalibre1}[]{#_Toc343009247 .pcalibre2 .pcalibre1}[]{#_Toc343006882 .pcalibre2 .pcalibre1}[]{#_Toc343004517 .pcalibre2 .pcalibre1}[]{#_Toc343002152 .pcalibre2 .pcalibre1}[]{#_Toc342999787 .pcalibre2 .pcalibre1}[]{#_Toc342997422 .pcalibre2 .pcalibre1}[]{#_Toc342995057 .pcalibre2 .pcalibre1}[]{#_Toc342992692 .pcalibre2 .pcalibre1}[]{#_Toc342990327 .pcalibre2 .pcalibre1}[]{#_Toc342987962 .pcalibre2 .pcalibre1}[]{#_Toc342985595 .pcalibre2 .pcalibre1}[]{#_Toc342983230 .pcalibre2 .pcalibre1}[]{#_Toc342980865 .pcalibre2 .pcalibre1}[]{#_Toc342978500 .pcalibre2 .pcalibre1}[[Chapitre 5 -- Les grottes du Kentucky]{lang="X-NONE"}]{#_Toc342942519 .pcalibre2 .pcalibre1} {#chapitre-5-les-grottes-du-kentucky .calibre171 .sigil_not_in_toc}
+
+D\'après les cours du marché du 26 mai, à Chicago, -- et les autres villes allaient suivre, -- le Lissy Wag fut demandé avec un certain entrain, et monta même à trois contre sept. Si, au début, la hausse n\'avait pas été en sa faveur, c\'est qu\'il était à craindre qu\'une jeune fille n\'eût pas assez d\'endurance pour résister aux fatigues de ces déplacements successifs, et, en outre, sa maladie vint encore diminuer le peu de confiance qu\'elle inspirait.
+
+Or, la santé de la cinquième partenaire ne laissait plus rien à désirer. De plus, le second coup de douze avait été très heureux puisque, par six redoublé, il l\'envoyait au Kentucky. D\'une part, ce voyage ne comportait que quelques centaines de milles, et de l\'autre, le Kentucky occupait la trente-huitième case sur la carte. Il résultait de là que Lissy Wag, en deux bonds, avait franchi plus de la moitié des soixante-trois cases. Aussi ne s\'étonnera-t-on pas que Jovita Foley agitât triomphalement le pavillon jaune attribué à son amie, et qu\'elle le vit déjà planté sur les millions de William J. Hypperbone !
+
+Donc, à supposer que Lissy Wag se fût intéressée à ce que l\'on augurait de ses chances, au revirement qui avait ramené à elle la faveur du public, elle aurait pu s\'en montrer fière dès son retour à Chicago.
+
+Ce fut le 23, on le sait, que Lissy Wag et Jovita Foley se hâtèrent de quitter Milwaukee, afin de ne point y être rencontrées par le mystérieux X K Z, -- ce qui les eût obligées d\'abord à payer une prime simple, puis à céder leur place au septième partenaire, puis à recommencer la partie.
+
+Les deux amies revinrent dans la métropole illinoise en parfaite santé, et leur retour ayant été signalé dans les journaux, quelques reporters se présentèrent à la maison de Sheridan Street.
+
+La conséquence de cette visite fut que, dès le soir même, le *Chicago* *Herald* publia une interview de laquelle il ressortait que les jeunes filles étaient « bien en forme », car maintenant on les appariait toutes les deux sous le pavillon jaune, -- ce qui n\'était pas précisément pour déplaire à cette folle de Jovita Foley. En dépit des objurgations de celle-ci, elles restèrent cinq jours à Chicago.
+
+Il était inutile de se ruiner en dépenses d\'hôtel, et plus économique de rester chez soi. Il eût même été sage d\'y demeurer jusqu\'à la veille du jour où le télégramme de maître Tornbrock arriverait au Kentucky. Mais, le 27, Jovita Foley n\'y tint plus, et elle dit :
+
+« Quand partons-nous ?...
+
+--- Nous avons le temps, répondit Lissy Wag. Songes-y... jusqu\'au 6 juin, et nous ne sommes encore qu\'au 27 mai. Cela fait dix jours complets, et, tu le sais, on peut se rendre au Kentucky en vingt-quatre heures.
+
+--- Sans doute, Lissy, mais ce n\'est pas seulement au Kentucky que nous allons, ni à Francfort, sa capitale. C\'est aux Mammoth Caves, une des merveilles des États-Unis et même, paraît-il, des cinq parties du monde !... Quelle occasion de visiter ces grottes, ma chérie, et quelle excellente idée ce digne monsieur Hypperbone a eue de nous y envoyer...
+
+--- Ce n\'est pas lui, Jovita, ce sont les dés avec leur point de douze...
+
+--- Voyons... voyons..., n\'est-ce pas lui qui a choisi Mammoth Caves dans l\'État du Kentucky ?... Aussi je lui en saurais gré toute ma vie... et même toute la sienne, s\'il ne reposait dans le cimetière d\'Oakswoods !... Il est vrai, s\'il n\'était pas dans l\'autre monde, nous n\'aurions pas lieu de courir après son héritage... Enfin... quand partons-nous ?...
+
+--- Aussitôt que tu le voudras...
+
+--- Alors... demain matin...
+
+--- Soit... mais, ajouta Lissy Wag, nous devrons une dernière visite à M. Marshall Field...
+
+--- Tu as raison, Lissy. »
+
+Au cours de cette visite, M. Marshall Field et le personnel de ses magasins ne ménagèrent ni les compliments ni les encouragements à la cinquième partenaire et à son inséparable compagne.
+
+Le lendemain, un express emportait les voyageuses pendant cent trente milles, à travers l\'Illinois jusqu\'à Danville, près de la frontière occidentale de l\'Indiana. L\'après-midi, elles franchirent cette frontière, et descendirent pour l\'heure du dîner à Indianapolis, qui est la capitale de l\'État, -- une ville de cent mille habitants.
+
+À la place de Jovita Foley et de sa compagne, Harris T. Kymbale eût certainement disposé de son temps pour explorer cet État où l\'extermination des indigènes fut entreprise dès le siècle dernier, et dans lequel les colons français fondèrent plusieurs établissements. Mais Jovita Foley crut devoir se borner à Indianapolis que traverse la White River avant de se jeter dans la Wabash, -- une cité des mieux entretenues de l\'Union, et dont elle ne put qu\'admirer l\'excessive propreté.
+
+Dans l\'hôtel fort convenable où étaient logées les voyageuses, leurs noms une fois donnés, on les prenait souvent l\'une pour l\'autre. Au cours de cette grande partie qui se jouait, il semblait même que Jovita Foley fût plus qualifiée pour y tenir un rôle que cette modeste Lissy Wag.
+
+Le 29, à huit heures quinze, elles partirent par le premier train pour Louisville, située sur la rive gauche de l\'Ohio, à la frontière de l\'Indiana et du Kentucky, État qui fut le grand défenseur de la cause abolitionniste. À onze heures cinquante-neuf, le voyage était terminé. On aurait eu beau dire à Jovita Foley que le Kentucky valait d\'être visité, parce qu\'il est un des plus riches de l\'Union, depuis que la cession de la Louisiane lui a assuré les bouches du Mississippi, elle aurait répondu : Mammoth Caves ! -- qu\'il est propice à tous les rendements de l\'agriculture et de l\'élevage, qu\'il produit les meilleurs chevaux de l\'Amérique, et le tiers du tabac des États-Unis, elle aurait encore répondu : Mammoth Caves ! -- qu\'il possède de grandes villes industrielles sur les bords de l\'Ohio, et des houillères dans la région des Alleghanys, elle aurait toujours répondu : Mammoth Caves ! Évidemment hypnotisée par ces fameuses grottes, Jovita Foley ne songeait pas plus à Covington et à Newport qui sont les deux faubourgs kentuckyens de Cincinnati, déjà visités par Crabbe et John Milner, qu\'à Middlesborough, ville naissante qui se prépare à devenir une grande cité, qu\'à Francfort, la capitale actuelle de l\'État, ou qu\'à Lexington, l\'ancienne capitale. Et, pourtant, elle est si belle avec le réseau de ses larges rues, ses verdoyants ombrages, d\'où tombe une délicieuse fraîcheur, son Université célèbre dans toute la région du sud, son hippodrome renommé sur lequel viennent lutter les meilleurs chevaux du Nouveau-Monde. Il est vrai, qu\'était cet hippodrome aux limites restreintes, comparé à cet immense champ de courses de toute la République américaine, où luttaient les partenaires du match Hypperbone sous les sept couleurs de l\'arc-en-ciel ?
+
+Non, pendant cette après-midi, les deux amies se bornèrent à parcourir les principaux wards de Louisville, à franchir le pont de huit cent douze toises, jeté sur l\'Ohio, qui réunit la cité à ses annexes de New Albany et de Jefferson du territoire de l\'Indiana, et dont l\'ensemble contient une population de deux cent mille âmes. Toutefois, elles ne s\'aventurèrent pas dans les quartiers industriels, où abondent les usines, les manufactures de tabac, les fabriques de pelleteries, les filatures, les distilleries, les ateliers de construction pour la batellerie et les machines agricoles.
+
+Du reste, Louisville domine l\'Ohio d\'une centaine de pieds sur le plateau d\'une falaise coupée à pic. De là, le regard peut embrasser le cours irrégulier du fleuve, le canal qui longe sa rive gauche, les îles Sand et Coose, la ligne ferrée qui le traverse et les belles chutes formées par les eaux mugissantes du fleuve.
+
+Enfin, très fatiguées, Jovita Foley, qui n\'en voulait pas convenir, et Lissy Wag, qui l\'avouait, rentrèrent à l\'hôtel vers neuf heures du soir.
+
+« Bonne nuit, dit Jovita Foley en se couchant..
+
+--- Et quand repartons-nous ?... demanda Lissy Wag.
+
+--- Demain matin...
+
+--- Sitôt, Jovita, alors que quelques heures suffisent pour arriver au terme de notre voyage... Nous avons le temps...
+
+--- Jamais le temps, lorsqu\'il s\'agit de Mammoth Caves ! répondit Jovita Foley. Dors bien, ma chérie... Je te réveillerai... »
+
+Et qu\'on ne soit pas surpris, si, le lendemain, 30, le train emportait ces deux demoiselles dans la direction du sud, -- un parcours de cent cinquante milles environ jusqu\'aux célèbres grottes, à travers un pays peu accidenté, hérissé de forêts profondes, entre lesquelles apparaissent des champs de céréales et surtout des plantations de tabac.
+
+Au-delà de la petite ville de Maufort, la seule que dessert la voie ferrée dans cette partie de la province, se développe la délicieuse vallée de Green River. Cet affluent de l\'Ohio promène ses eaux limpides sous une tapisserie de plantes aquatiques, des nelumbos verts, des pontederias aux fleurs jaunes et bleues, -- couleurs qui rappelaient celles de Hermann Titbury, d\'Harris T. Kymbale, et aussi celles de Lissy Wag.
+
+Avant midi, les deux amies descendirent à *Mammoth* *Hotel*, établissement de premier ordre, situé presque à l\'entrée des grottes, au milieu d\'un site enchanteur.
+
+Malgré la curiosité qui la dévorait, Jovita Foley dut remettre au lendemain la visite des Mammoth Caves, tous les guides étant partis à cette heure. Mais elle pourrait occuper ses loisirs en se promenant aux alentours, en cheminant le long de cette vallée charmante, en remontant les rives ombreuses du rio qui, par mille cascades, va se jeter dans la Green River.
+
+L\'hôtel est remarquablement approprié pour le bien-être des touristes qui y affluent. Il est composé de plusieurs chalets, affectés aux différents services et confortablement installés. Une chambre, dont la fenêtre s\'ouvrait sur la vallée, fut mise à la disposition des voyageuses, lesquelles, -- ce qui n\'était pas pour déplaire à l\'une d\'elles, -- étaient attendues avec une certaine impatience en cette région du Kentucky.
+
+À cette époque de l\'année, affluaient déjà de nombreux excursionnistes impatients d\'explorer Mammoth Caves, et c\'est ce que Jovita Foley put constater vers six heures du soir, lorsque les retentissements du terrible gong, en usage dans les hôtels d\'Amérique, les appelèrent au dining-room.
+
+Le gouverneur de l\'État de l\'Illinois, John Hamilton, qui se trouvait là en qualité de touriste, voulut que Lissy Wag fût placée à sa droite et Jovita Foley à sa gauche. N\'y avait-il pas de quoi tourner la tête à cette impressionnable personne ?
+
+Du reste, si le gouverneur de l\'Illinois, son entourage et les autres visiteurs firent un accueil si sympathique à la cinquième partenaire et à sa compagne, celles-ci ne furent pas moins bien accueillies par les dames venues en visiteuses aux grottes du Kentucky. On voit à quel taux étaient remontées les actions de Lissy Wag, et n\'était-ce pas de nature à laisser pressentir son succès final ? Et ne pardonnera-t-on pas à Jovita Foley, qui eut sa part de ces attentions, de ces prévenances, de s\'identifier de plus en plus avec sa chère Lissy... laquelle n\'aurait pas eu la pensée de le lui reprocher ?...
+
+Le dîner, bien servi, préparé par les mains d\'un cuisinier français, fut excellent et copieux, quoiqu\'il ne comportât pas le grand nombre de plats ordinaire aux tables américaines, -- soupe aux gombos, petites fleurs semblables à des capucines, truites fraîchement pêchées dans les eaux du joli affluent de la Green River, à l\'endroit où il s\'élargit en lagon paisible, roastbeef traditionnel, avec toute la série de ses sauces à l\'emporte-bouche, jambon fumé, plum-cake national, légumes et fruits de toutes sortes.
+
+Et ne pas oublier les coupes de champagne qui furent envoyées par plusieurs des convives aux deux amies. Sans doute elles se contentaient d\'y mouiller leurs lèvres, mais répondaient par un gracieux salut à ces politesses. Puis retentirent les toasts enthousiastes à la prochaine victoire de la charmante favorite du match Hypperbone !
+
+Jamais Jovita Foley ne s\'était trouvée à pareille fête. D\'ailleurs, Lissy Wag et elle gardèrent une parfaite dignité, non sans cette légère différence, que, si l\'une reçut ces compliments avec sa réserve naturelle, l\'autre, plus démonstrative, les acceptait avec une visible satisfaction.
+
+Et, lorsque toutes les deux, vers dix heures du soir, furent rentrées dans leur chambre :
+
+« Eh bien, qu\'en dis-tu ?... demanda Jovita Foley.
+
+--- Je n\'en dis rien, dit Lissy Wag.
+
+--- Comment... tu n\'es pas touchée de l\'accueil qui nous est fait... de la manière dont nous a traitées monsieur le gouverneur... de l\'amabilité de ce monde de touristes, qui va parier pour nous, j\'en suis sûre ?...
+
+--- Pauvres gens !
+
+--- Et tu n\'as pas envie de leur prouver ta reconnaissance en gagnant la partie ?...
+
+--- J\'ai envie de dormir, voilà tout, déclara Lissy Wag, et je vais me coucher en t\'engageant à en faire autant.
+
+--- Dormir !... Et le pourrai-je ?...
+
+--- Bonne nuit, Jovita !
+
+--- Soit... bonne nuit, la petite fée aux millions ! » répondit Jovita Foley, qui décidément avait peut-être fait un peu plus que de mouiller ses lèvres dans les coupes de champagne.
+
+Puis elle ajouta dans un demi-bâillement :
+
+« Ah ! Que je voudrais être à demain ! »
+
+Demain arriva comme d\'habitude, et débuta par un beau lever de soleil qui précéda de deux heures le lever de Jovita Foley.
+
+Lissy Wag ne put résister au pressant appel qui lui fut adressé de quitter son lit et de s\'habiller, de telle sorte que dès huit heures toutes deux étaient prêtes à quitter l\'hôtel.
+
+L\'exploration des grottes du Kentucky dans leur ensemble -- du moins pour ce qui est connu, -- exige, paraît-il, de sept à huit jours. L\'artère principale s\'étend sur une longueur de trois à quatre lieues, et l\'immense excavation est, en mesures françaises, d\'une contenance de onze milliards de mètres cubes. Elle est sillonnée en tous sens par deux centaines d\'allées, couloirs, galeries, passages, boyaux, et encore, convient-il de le répéter, il ne s\'agit que de la partie actuellement découverte.
+
+Or, on était au 31 mai, et, jusqu\'au 6 juin, matin, Lissy Wag ne pouvait disposer que de six pleines journées, Mais, bien employé, ce temps devait suffire à satisfaire la plus curieuse des visiteuses, -- fût-ce cette vibrante Jovita Foley.
+
+C\'est, d\'ailleurs, en nombreuse compagnie que s\'effectuèrent ces tournées successives, organisées sous la conduite des meilleurs guides attachés au service des grottes du Kentucky.
+
+Vêtus chaudement, car la température est fraîche au fond de ces cavités, les touristes des deux sexes prirent, à neuf heures, le sentier qui sinue entre les roches et conduit aux grottes. Ils arrivèrent devant l\'étroite ouverture d\'un massif, simple orifice de couloir, laissé tel que l\'a fait la nature, et à travers lequel les hommes de haute taille ne peuvent s\'engager sans baisser la tête.
+
+Les guides étaient accompagnés de nègres, portant des lampes de mines et des torches qui furent aussitôt allumées, et sous la lumineuse réverbération produite par les mille facettes des parois, les visiteurs atteignirent un escalier taillé dans le roc. Cet escalier, qui continue une galerie plus large, mène directement à la vaste salle de la Rotonde.
+
+C\'est de ce point que se ramifient de multiples passages, dont il importe de bien connaître les sinuosités, si l\'on ne veut pas courir le risque de s\'égarer en faisant l\'économie d\'un guide. Il n\'existe pas de labyrinthe plus compliqué, sans excepter ceux de Lemnos ou de Crète.
+
+Ce fut par un large couloir que les touristes parvinrent à l\'une des plus spacieuses cavernes des Mammoth Caves, à laquelle on a donné la dénomination d\'Église gothique.
+
+Gothique ?... Est-ce bien le style ogival qui caractérise l\'architecture de cette substruction ?... Peu importe ! Elle est merveilleuse avec les pendentifs de sa voûte, stalagmites et stalactiques, les colonnes bizarrement contournées qui la soutiennent, les formes que prennent ces roches étagées dont la lumière met en relief les concrétions cristallisées, la disposition naturelle et si fantaisiste des roches, ici, un autel où semblent s\'entasser tous les ornements liturgiques, là un puissant buffet d\'orgue, dont les tuyaux montent jusqu\'aux nervures des cintres, là encore un balcon ou plutôt une chaire de laquelle plus d\'une fois des prédicateurs de rencontre ont parlé devant une assistance qui ne comptait pas moins de cinq à six mille fidèles.
+
+Il va de soi que cette société d\'excursionnistes partageait les émerveillements de Jovita Foley, et faisait sa partie dans ce concert d\'admirations. » Voyons, Lissy, regrettes-tu le voyage ?...
+
+--- Non... Jovita, et c\'est fort beau.
+
+--- Mais te dis-tu bien que tout cela est l\'ouvrage de la nature... que la main de l\'homme n\'aurait pu creuser ces grottes... que nous sommes enfouies dans les entrailles du sol ?...
+
+--- Et je m\'effraie, répondit Lissy Wag, à la pensée que l\'on pourrait s\'y égarer...
+
+--- Je te crois, ma chérie, et nous vois-tu perdues toutes les deux à travers les Mammoth Caves, et manquant l\'arrivée du télégramme de ce bon monsieur Tornbrock ?... »
+
+Il avait déjà fallu faire une demi-lieue depuis l\'orifice d\'entrée jusqu\'à l\'Église gothique. En poursuivant l\'exploration, il fut nécessaire, à maintes reprises, de se courber, de ramper même le long d\'étroits boyaux pour atteindre la salle des Revenants. Là, vif désappointement de Jovita Foley, à laquelle n\'apparut aucun des fantômes que son imagination rêvait d\'évoquer dans ces souterraines cavités.
+
+En réalité, la salle des Revenants est un lieu de halte, empli de la lumière des torches, et dans lequel se trouvait un bar fort bien tenu, où était préparé le déjeuner servi par le personnel de Mammoth hotel.
+
+Cette salle mériterait d\'être plutôt appelée le Sanatorium, car c\'est là que se rendent les malades qui accordent quelque vertu thérapeutique à l\'atmosphère des grottes kentuckyennes. Ils y étaient venus pour la journée au nombre d\'une vingtaine, qui s\'installèrent en face d\'un gigantesque squelette de mastodonte auquel ces vastes hypogées doivent peut-être leur nom de Mammoth.
+
+Ce fut à cette partie des grottes que se borna la première visite, qui allait être suivie de plusieurs autres, lorsque les touristes eurent encore stationné dans une petite chapelle, qui est comme la réduction de l\'Église gothique. Elle confine à un abîme insondable, dans lequel les guides jettent des papiers enflammés afin d\'en éclairer les sombres profondeurs. C\'est le Bottomless-Pit, dont la paroi creusée forme la Chaise du Diable, auquel se rattache plus d\'une légende, et l\'invraisemblable serait qu\'il n\'en eût pas.
+
+Après cette fatigante journée, les touristes ne se firent pas prier pour reprendre la galerie qui les ramena vers l\'entrée des grottes, de préférence à une autre sortie par le dôme d\'Ammath, assez voisine de l\'hôtel, mais dont on ne peut atteindre l\'extrémité sans faire de longs détours.
+
+Un excellent dîner et toute une nuit de repos rendirent aux deux amies les forces nécessaires pour l\'exploration du lendemain.
+
+Du reste, à parcourir ces merveilleuses cavernes, -- une promenade à travers le monde enchanté des Mille et une nuits, -- même sans y rencontrer ni démons ni gnomes, on était généreusement payé de ses fatigues, et Jovita Foley convenait volontiers que ce spectacle dépassait les limites de l\'imagination humaine.
+
+C\'est pourquoi, pendant cinq jours, cette énergique personne, faisant preuve d\'une endurance qui lassa la plupart des autres excursionnistes et les guides eux-mêmes, s\'imposa la tâche d\'explorer tout ce que l\'on connaissait des célèbres grottes, avec le regret de ne pouvoir se lancer dans l\'inconnu. Mais, ce qu\'elle fit, son amie eût été incapable de le faire, et Lissy Wag dut demander grâce après la troisième journée. Ne pas oublier qu\'elle avait été récemment fort malade, et il ne fallait pas qu\'elle se mît dans l\'impossibilité de continuer le voyage.
+
+Aussi Jovita Foley ne fut pas accompagnée de Lissy Wag pendant ses dernières excursions.
+
+Et c\'est ainsi qu\'elle visita la caverne du Dôme Géant, qui plafonne à une hauteur de soixante-quinze toises, la chambre étoilée dont les parois semblent être incrustées de diamants et autres pierres précieuses éblouissantes sous la lumière des torches, l\'avenue Cleveland, tapissée d\'une broderie de dentelles et de fleurs minérales, la Salle de Bal, dont les murs, sillonnés de suintements blanchâtres, sont couleur de neige, les Montagnes Rocheuses, entassements de blocs et de hauts pics à laisser croire que les chaînes de l\'Utah et du Colorado se ramifient jusque dans l\'intérieur du globe, la grotte des Fées, si riche en formations sédimentaires, entretenues par les sources souterraines, avec arceaux, piliers, même une sorte d\'arbre gigantesque, un palmier de pierre qui s\'épanouit jusqu\'à la coupole de cette salle située à quatre lieues de la principale entrée des Mammoth Caves.
+
+Et quel souvenir devait à jamais conserver l\'infatigable visiteuse quand, après avoir franchi le portail du dôme de Goran, elle redescendit en barque le cours du Styx, lequel comme un Jourdain des entrailles terrestres, va se jeter dans une Mer Morte. Mais, s\'il est vrai que là nul poisson ne peut vivre sous les eaux du fleuve de la Bible, il n\'en est pas ainsi dans ce grand lac hypogéique. C\'est par myriades qu\'on y pêche des siredons et de ces cypronidons, dont l\'appareil optique est complètement oblitéré, semblables aux espèces sans yeux que possèdent certaines eaux du Mexique.
+
+Telles sont les incomparables merveilles de ces grottes, qui n\'ont encore livré qu\'une partie de leurs secrets. Sait-on ce qu\'elles réservent à la curiosité de l\'univers, et ne découvrira-t-on pas un jour tout un monde extraordinaire dans les entrailles du globe terrestre ?...
+
+Enfin, les cinq jours que Jovita Foley et sa compagne devaient rester à Mammoth Caves entendirent sonner leurs dernières heures. C\'était le 6 juin que la dépêche devait parvenir au bureau même de l\'hôtel. Grâce à l\'intérêt que cette agglomération de touristes portait à la cinquième partenaire, la matinée du lendemain se passerait dans une attente fiévreuse, -- une impatience que Lissy Wag était seule peut-être à ne point ressentir.
+
+Ce soir-là, le dîner vit recommencer avec une plus chaleureuse ardeur les toasts de la veille. Et avec quelle force éclateront les hurrahs, lorsque John Hamilton, suivant la règle adoptée par les gouverneurs d\'admettre des dames en leurs états-majors, nomma Lissy Wag colonel et Jovita Foley lieutenant-colonel dans la milice illinoise.
+
+Si l\'une de ces nouveaux officiers, toujours modeste, se sentit quelque peu gênée de tant d\'honneurs, l\'autre les accueillit comme si elle avait toujours porté l\'uniforme.
+
+Et, le soir, lorsque toutes deux se furent retirées dans leur chambre :
+
+« Eh bien, s\'écria Jovita Foley, en faisant le salut militaire, est-ce assez complet, mon colonel ?....
+
+--- C\'est folie pure, répondit Lissy Wag, et cela finira mal, je le crains...
+
+--- Veux-tu te taire, ma chérie, ou j\'oublie que tu es mon supérieur, et je te manque de respect ! »
+
+Et, là-dessus, après un bon baiser, elle se coucha et ne tarda pas à rêver qu\'elle était nommée « générale ».
+
+Le lendemain, dès huit heures, le monde de l\'hôtel se pressait devant le bureau du télégraphe, en attendant la dépêche expédiée de Chicago par les soins de maître Tornbrock.
+
+Il serait malaisé de peindre l\'émotion de ce public sympathique qui entourait les deux amies. Où le sort allait-il les diriger ?... Seraient-elles envoyées au bout de l\'Amérique ?... Prendraient-elles une grande avance sur leurs concurrents ?...
+
+Une demi-heure après, le timbre de l\'appareil résonna.
+
+Une dépêche arrivait au nom de Lissy Wag, Kentucky, *Mammoth* *Hotel*, Mammoth Caves.
+
+Un profond, on pourrait dire un religieux silence s\'établit au dedans comme au dehors du bureau.
+
+Et quelle fut la stupéfaction, le désappointement, le désespoir même, lorsque Jovita Foley lut d\'une voix tremblante :
+
+« Quatorze par sept redoublé, cinquante-deuxième case, Saint-Louis, État Missouri.
+
+« TORNBROCK. »
+
+C\'était la case de la prison, où, après avoir payé une triple prime, allait rester la malheureuse Lissy Wag jusqu\'au moment où un non moins malheureux partenaire viendrait la délivrer en prenant sa place !
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185593 .pcalibre2 .pcalibre1}[]{#_Toc343183132 .pcalibre2 .pcalibre1}[]{#_Toc343180671 .pcalibre2 .pcalibre1}[]{#_Toc343178210 .pcalibre2 .pcalibre1}[]{#_Toc343175749 .pcalibre2 .pcalibre1}[]{#_Toc343173288 .pcalibre2 .pcalibre1}[]{#_Toc343170827 .pcalibre2 .pcalibre1}[]{#_Toc343168366 .pcalibre2 .pcalibre1}[]{#_Toc343165905 .pcalibre2 .pcalibre1}[]{#_Toc343163444 .pcalibre2 .pcalibre1}[]{#_Toc343160983 .pcalibre2 .pcalibre1}[]{#_Toc343158522 .pcalibre2 .pcalibre1}[]{#_Toc343149252 .pcalibre2 .pcalibre1}[]{#_Toc343146791 .pcalibre2 .pcalibre1}[]{#_Toc343144328 .pcalibre2 .pcalibre1}[]{#_Toc343141867 .pcalibre2 .pcalibre1}[]{#_Toc343139406 .pcalibre2 .pcalibre1}[]{#_Toc343136944 .pcalibre2 .pcalibre1}[]{#_Toc343134483 .pcalibre2 .pcalibre1}[]{#_Toc343132022 .pcalibre2 .pcalibre1}[]{#_Toc343129560 .pcalibre2 .pcalibre1}[]{#_Toc343127099 .pcalibre2 .pcalibre1}[]{#_Toc343124635 .pcalibre2 .pcalibre1}[]{#_Toc343122174 .pcalibre2 .pcalibre1}[]{#_Toc343119713 .pcalibre2 .pcalibre1}[]{#_Toc343117259 .pcalibre2 .pcalibre1}[]{#_Toc343114796 .pcalibre2 .pcalibre1}[]{#_Toc343112335 .pcalibre2 .pcalibre1}[]{#_Toc343109874 .pcalibre2 .pcalibre1}[]{#_Toc343106130 .pcalibre2 .pcalibre1}[]{#_Toc343103668 .pcalibre2 .pcalibre1}[]{#_Toc343101205 .pcalibre2 .pcalibre1}[]{#_Toc343098780 .pcalibre2 .pcalibre1}[]{#_Toc343096311 .pcalibre2 .pcalibre1}[]{#_Toc343093849 .pcalibre2 .pcalibre1}[]{#_Toc343091371 .pcalibre2 .pcalibre1}[]{#_Toc343088908 .pcalibre2 .pcalibre1}[]{#_Toc343086446 .pcalibre2 .pcalibre1}[]{#_Toc343083983 .pcalibre2 .pcalibre1}[]{#_Toc343081521 .pcalibre2 .pcalibre1}[]{#_Toc343079060 .pcalibre2 .pcalibre1}[]{#_Toc343076597 .pcalibre2 .pcalibre1}[]{#_Toc343074134 .pcalibre2 .pcalibre1}[]{#_Toc343071668 .pcalibre2 .pcalibre1}[]{#_Toc343043708 .pcalibre2 .pcalibre1}[]{#_Toc343038823 .pcalibre2 .pcalibre1}[]{#_Toc343036458 .pcalibre2 .pcalibre1}[]{#_Toc343034093 .pcalibre2 .pcalibre1}[]{#_Toc343031728 .pcalibre2 .pcalibre1}[]{#_Toc343028172 .pcalibre2 .pcalibre1}[]{#_Toc343025807 .pcalibre2 .pcalibre1}[]{#_Toc343023442 .pcalibre2 .pcalibre1}[]{#_Toc343021076 .pcalibre2 .pcalibre1}[]{#_Toc343018710 .pcalibre2 .pcalibre1}[]{#_Toc343016345 .pcalibre2 .pcalibre1}[]{#_Toc343013980 .pcalibre2 .pcalibre1}[]{#_Toc343011613 .pcalibre2 .pcalibre1}[]{#_Toc343009248 .pcalibre2 .pcalibre1}[]{#_Toc343006883 .pcalibre2 .pcalibre1}[]{#_Toc343004518 .pcalibre2 .pcalibre1}[]{#_Toc343002153 .pcalibre2 .pcalibre1}[]{#_Toc342999788 .pcalibre2 .pcalibre1}[]{#_Toc342997423 .pcalibre2 .pcalibre1}[]{#_Toc342995058 .pcalibre2 .pcalibre1}[]{#_Toc342992693 .pcalibre2 .pcalibre1}[]{#_Toc342990328 .pcalibre2 .pcalibre1}[]{#_Toc342987963 .pcalibre2 .pcalibre1}[]{#_Toc342985596 .pcalibre2 .pcalibre1}[]{#_Toc342983231 .pcalibre2 .pcalibre1}[]{#_Toc342980866 .pcalibre2 .pcalibre1}[]{#_Toc342978501 .pcalibre2 .pcalibre1}[[Chapitre 6 -- La vallée de la mort]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942520 .pcalibre2 .pcalibre1} {#chapitre-6-la-vallée-de-la-mort .calibre171 .sigil_not_in_toc}
+
+Le 1er juin, dans la matinée, au sortir de Stakton, petite ville californienne, située dans l\'ancien bassin lacustre du San Joachim, un train filait à toute vitesse en direction du sud-est.
+
+Ce train, uniquement composé d\'une locomotive, d\'un wagon et d\'un fourgon, était parti en dehors des indications de l\'horaire, trois bonnes heures avant celui qui traverse les territoires méridionaux de la Californie, ligne de Sacramento à la frontière de l\'Arizona.
+
+L\'État de Californie occupe le deuxième rang dans la Confédération américaine avec une superficie de cent cinquante-huit mille milles carrés. Il est limité au nord et au sud par deux degrés de latitude, à l\'est par une ligne brisée dont l\'angle s\'appuie au lac de Tahoo et la Colorado River, à l\'ouest par l\'Océan Pacifique, qui baigne son littoral sur une étendue de six cents milles. Si l\'on répand sur ce vaste territoire une population de douze cent mille âmes, très mélangée, d\'origines européenne, américaine, asiatique, immigration due à la découverte des mines d\'or, après le traité de 1848 par lequel le Mexique céda le domaine californien à la République fédérale, on n\'y trouvera qu\'une densité assez faible d\'habitants.
+
+Le pays que dévorait le train spécial ne semblait pas attirer l\'attention de ses voyageurs, emportés avec une extraordinaire rapidité. Et d\'abord, en contenait-il ?... Oui, assurément, car, de temps à autre, deux têtes apparaissaient derrière la vitre, puis disparaissaient aussitôt, deux figures rébarbatives, farouches pour mieux dire. Quelquefois la vitre s\'abaissait et laissait passer une large main velue, qui tenait une courte pipe, dont elle secouait les cendres, et qui rentrait à l\'instant.
+
+Peut-être, dans la partie septentrionale de l\'État, ces voyageurs eussent-ils mieux observé ce territoire. Au nord et au centre, les campagnes, très favorables à l\'élevage, sont remarquablement cultivées, très fertiles d\'ailleurs, grandes productrices de froment, d\'orge surtout, dont les épis ont de douze à quinze pieds, de maïs, de sorgho, d\'avoine. On y voit des vergers où foisonnent pêches, poires, fraises, cerises, véritables forêts d\'arbres fruitiers, enfin des vignobles d\'un tel rapport que la Californie seule peut produire le tiers de la récolte américaine. Et toutes ces richesses sont livrées par un sol généreux, inépuisable, qu\'entretient un admirable système d\'irrigation.
+
+Il ne faudrait pas croire, cependant, qu\'il fût improductif, ce bassin arrosé par le Saint-Joachim et ses tributaires. Leurs eaux dérivées lui ont assuré un sérieux rendement agricole. Mais les voyageurs ne le regardaient pas plus que s\'il eût été voué à la stérilité, comme cinquante ans auparavant, alors que la main de l\'homme ne s\'y était pas fait sentir.
+
+La Californie jouit d\'un climat particulier. Les chaleurs y sont plus accusées en septembre qu\'en juillet. Ses lignes isothermiques n\'y suivent pas les mêmes parallèles que dans le reste de l\'Union. Quant aux tourmentes nées sur l\'immense aire du Pacifique, elles ne se propagent pas toutes à sa surface. Les unes sont arrêtées dès les montagnes côtières ; les autres vont buter contre l\'échine de la Sierra Nevada. Là elles se résolvent en pluies très favorables à la prospérité de ces conifères, qui, à partir d\'une hauteur de cinq à six cents toises, pins, sapins, ifs, mélèzes, cèdres, cyprès, hérissent les flancs de la chaîne. Il est tels de ces arbres, les séquoias, les big-trees, appelés wellingtonias par les Anglais et washingtonias par les Américains, qui ne mesurent pas moins de soixante pieds de circonférence sur une hauteur de trois cents.
+
+Qu\'étaient-ils donc, ces indifférents voyageurs ?... D\'où venaient-ils, où allaient-ils ?... Étaient-ce d\'ardents Californiens, brusquement appelés par la découverte de nouvelles poches, des chercheurs de nouveaux placers, car il est toujours permis d\'espérer que les six milliards de francs, extraits depuis une quarantaine d\'années, n\'ont pas épuisé les derniers gisements de ce sol aurifère. Et, d\'ailleurs, il renferme d\'autres mines précieuses, surtout aux abords de la chaîne littorale, du cinabre, du sulfure rouge de mercure, du vermillon natif, qui dans les exploitations de New Almaden, entre 1850 et 1886, n\'ont pas rendu moins de cent millions de livres, soit cent mille tonnes.
+
+Après tout, ces voyageurs pouvaient être de ces fondateurs de « bonanzas farms », membres des grands syndicats d\'exploitations agricoles, gens très redoutables aux petits cultivateurs par l\'abondance des capitaux que leur fournit l\'Angleterre. Et comment l\'argent ne serait-il pas attiré là où la vigne donne des grappes de plusieurs livres, et le poirier des poires d\'un pied et demi de tour ?... Aussi, de même que le Texas possède des fermes d\'un million d\'hectares, il s\'en rencontre en Californie dont la superficie couvre jusqu\'à douze cents kilomètres carrés.
+
+Dans tous les cas, ce devaient être des gens très riches et même très pressés, puisqu\'ils s\'accordaient le luxe d\'un train spécial, alors qu\'ils avaient à leur disposition les trains réglementaires du Southern Pacific. Cela ne leur eût coûté qu\'une demi-journée de retard, et non ces quelques milliers de dollars dont ils n\'avaient pas cru devoir faire l\'économie.
+
+Enfin, la locomotive filait à toute vapeur, et comme les trains ne sont pas nombreux sur cette ligne, le graphique avait pu être établi sans difficulté. Au surplus, il ne s\'agissait que d\'un parcours relativement restreint, sur l\'embranchement qui se détache de Beno, passe par Carson City, la capitale du Nevada, pénètre dans l\'État de Californie à la station de Bentom et se termine à celle de Keeler, -- environ deux cent quarante milles, lesquels seraient enlevés en six ou sept heures.
+
+Et c\'était bien ce qui fut fait en ce laps de temps, et sans qu\'un accident eût entraîné le plus léger retard.
+
+Il était onze heures du matin, lorsque la locomotive poussa ses dernières éructations, un quart de mille avant d\'atteindre la gare de Keeler, où elle vint s\'arrêter.
+
+Deux hommes sautèrent sur le quai, avec un bagage réduit au strict nécessaire, -- une valise et une caisse de provisions qui ne semblait pas encore avoir été entamée. Chacun d\'eux portait également un sac de voyage et une carabine en bandoulière.
+
+L\'un de ces hommes s\'approcha de la locomotive et dit au mécanicien : « Attendez », comme s\'il se fût agi d\'un cocher dont on quitte la voiture pour une visite.
+
+Le mécanicien fit un signe affirmatif, et s\'occupa de remiser son train sur une voie de garage, de manière à laisser la circulation libre.
+
+Le voyageur, suivi de son compagnon, se dirigea alors vers la sortie, et se trouva en présence d\'un individu qui guettait son arrivée.
+
+« La voiture est là ?... demanda-t-il d\'un ton bref.
+
+--- Depuis hier.
+
+--- En état ?...
+
+--- En état.
+
+--- Partons. »
+
+Un instant après, les deux voyageurs étaient installés à l\'intérieur d\'une confortable automobile, actionnée par un puissant mécanisme, qui roulait rapidement dans la direction de l\'est.
+
+On a reconnu dans l\'un de ces voyageurs le commodore Urrican, dans l\'autre son fidèle Turk, bien qu\'ils ne se fussent abandonnés à leur irascibilité naturelle ni contre le mécanicien du train spécial, qui, d\'ailleurs, était en gare à l\'heure dite, ni contre celui de l\'automobile qui était à son poste à Keeler.
+
+Et maintenant, par quel miracle, Hodge Urrican, à demi mort dans le Post Office de Key West le 25 mai, reparaissait-il huit jours plus tard dans cette petite ville californienne, à près de quinze cents milles de la Floride ?... En quelles conditions vraiment exceptionnelles s\'était effectué ce parcours en un temps si limité ?... Comment enfin, le sixième partenaire, poursuivi par une infernale malchance, et qui ne semblait plus en état de continuer la partie, était-il là, plus résolu que jamais à la jouer jusqu\'au bout ?...
+
+On n\'a pas oublié que le naufragé de la *Chicola* avait été transporté, sans avoir recouvré connaissance, dans le bureau du télégraphe de Key West. La dépêche, expédiée le matin même de Chicago, était arrivée à midi précis. Et quel déplorable résultat elle annonçait... Un malheureux coup, s\'il en fût, -- cinq par deux et trois !
+
+Grâce à ce coup, le commodore allait de la cinquante-troisième case à la cinquante-huitième, de la Floride à la Californie, tout le territoire de l\'Union à parcourir du sud-est au nord-ouest !... Et, circonstance plus désastreuse encore, c\'était la case de la Mort qui avait été choisie dans cet État par William J. Hypperbone, c\'était à Death Valley que le partenaire devait se rendre en personne, et d\'où, une triple prime payée, il lui faudrait revenir à Chicago !... Et cela, après avoir si bien débuté par un maître coup !
+
+Aussi, lorsque Hodge Urrican, enfin rappelé à la vie par d\'énergiques frictions et des potions non moins énergiques, fut fixé sur le contenu du télégramme, éprouva-t-il une secousse telle qu\'elle détermina chez lui le plus terrible accès de colère dont Turk ait été jamais témoin. Cela le remit sur pied.
+
+Par bonheur pour les personnes présentes, il ne s\'en rencontra pas une à qui le commodore pût s\'en prendre, et Turk n\'eut point, suivant son habitude, à le dépasser en violence.
+
+Hodge Urrican ne prononça qu\'un mot, un seul, un de ces mots de situation qui acquièrent une valeur historique :
+
+« Partons ! »
+
+Un silence glacial accueillit ce mot. Turk dut dire à son maître où il était et où il en était. C\'est alors que celui-ci apprit ce qu\'il ignorait encore, le naufrage de la goélette, le transport des passagers et de l\'équipage à Key West, où il ne se trouvait pas un navire qui pût appareiller pour un des ports de l\'Alabama ou de la Louisiane.
+
+Hodge Urrican était cloué comme Prométhée sur son roc, et son coeur allait y être dévoré par le vautour de l\'impatience... et de l\'impuissance.
+
+En effet, il fallait que dans les quinze jours qui lui étaient dévolus il se fût transporté de Floride en Californie et de Californie en Illinois. Décidément, le mot impossible est de toutes les langues, même de la langue américaine, bien qu\'il passe généralement pour avoir été rayé de son dictionnaire par les audacieux Yankees !
+
+Et, en réfléchissant aux conséquences de la partie perdue, faute de pouvoir quitter Key West le jour même, Hodge Urrican s\'abandonna à une seconde crise avec vociférations, imprécations, menaces, qui firent grelotter les vitres du Post Office. Mais Turk réussit à l\'éteindre en se livrant à des actes d\'une telle fureur que son maître dut le rappeler au calme.
+
+Cruelle nécessité, cependant, et cruelle blessure aussi pour l\'amour-propre d\'un partenaire que d\'être contraint de se retirer de la lutte et, pour le Pavillon Orangé, à s\'abaisser devant les Pavillons Violet, Indigo, Bleu, Vert, Jaune et Rouge !
+
+Eh bien, on a raison de le dire, il n\'y a qu\'heur et malheur en ce bas monde ! Les bonnes et les mauvaises chances se frôlent dans la vie, se succèdent parfois avec une rapidité électrique. Et voici comment, par une intervention vraiment providentielle, la situation, si désespérée qu\'elle parût être, fut sauvée.
+
+À midi trente-sept, le sémaphore du port de Key West signala un navire à cinq milles au large.
+
+La foule des curieux assemblés devant le bureau du télégraphe se porta, Hodge Urrican et Turk en tête, sur une hauteur d\'où la vue embrassait la pleine mer.
+
+Un navire se montrait à cette distance, un steamer dont la fumée déroulait à l\'horizon ses longs panaches fuligineux.
+
+Et alors les intéressés de dire :
+
+« Mais ce navire vient-il à Key West ?...
+
+--- Et, s\'il y vient, fera-t-il relâche, ou en repartira-t-il aujourd\'hui même ?...
+
+--- Et, s\'il repart, sera-ce pour un port de l\'Alabama, du Mississippi ou de la Louisiane, Nouvelle-Orléans, Mobile, Pensacola ?...
+
+--- Et enfin, s\'il est à destination de l\'un de ces ports, a-t-il une marche suffisante pour effectuer la traversée en quarante-huit heures ? »
+
+On le voit, quatre indispensables conditions à remplir.
+
+Elles furent toutes remplies. Le *Président* *Grant* ne devait relâcher à Key West que quelques heures seulement, il en repartirait le soir même pour Mobile, et c\'était un steamer de grande vitesse, l\'un des plus rapides de la flotte marchande des États-Unis.
+
+Inutile d\'ajouter que Hodge Urrican et Turk avaient été admis à titre de passagers, que le capitaine Humper s\'intéressa au commodore comme le capitaine du *Sherman* s\'était intéressé à Tom Crabbe. Aussi, sur une mer à souhait, par une légère brise du sud-est, le *Président* *Grant* donna-t-il son maximum de marche, soit une vingtaine de milles à l\'heure, ce qui lui permit d\'arriver à Mobile dans la nuit du 27.
+
+Le prix du passage généreusement réglé, Hodge Urrican, suivi de Turk, sauta dans le premier train, qui franchit en vingt heures les sept cents milles entre Mobile et Saint-Louis. Là, se produisirent les incidents que l\'on connaît, -- difficultés avec un chef de gare à la station d\'Herculanum, obligation pour Hodge Urrican d\'aller à Saint-Louis réclamer sa valise, rencontre de Harris T. Kymbale, provocation adressée au reporter, retour à Herculanum dans la soirée, départ le lendemain, coups de revolver échangés au croisement des trains, arrivée à Saint-Louis. De là, le railroad amena le commodore à Topeka le 30, puis, par la ligne de l\'Union Pacific, à Ogden, le 31, puis à Reno, d\'où il partit à sept heures du matin pour la station de Keeler.
+
+Mais, lorsque le commodore Urrican serait à Keeler, il ne serait pas à Death Valley, le point qu\'il devait atteindre dans l\'État de Californie.
+
+Or, s\'il existait une route plus ou moins carrossable entre Keeler et Death Valley, aucun service de transport n\'y fonctionnait. Pas de relais, pas de stages. Faudrait-il donc faire à cheval, et en si peu de temps, près de quatre cents milles, aller et retour ?... étant données les sinuosités d\'une route à travers un territoire si accidenté... C\'eût été impossible.
+
+Lorsqu\'il était à Saint-Louis, Hodge Urrican avait eu la bonne idée de demander par dépêche à Sacramento si l\'on pouvait mettre à sa disposition une automobile, et la lui expédier à Keeler, où elle attendrait son arrivée.
+
+La réponse fut affirmative. L\'automobile, d\'un système très perfectionné, attendrait à la gare de Keeler le commodore Urrican. Deux jours suffisaient à atteindre Death Valley, deux jours pour en revenir, de telle sorte qu\'il serait à Chicago avant le 8 juin. Décidément, la chance semblait revenir à cet ancien loup de mer.
+
+Et voilà par suite de quels arrangements l\'automobile se trouvait le 1er juin à l\'arrivée du train à Keeler, et quittait cette petite ville, en suivant la route de l\'est dans la direction de Death Valley.
+
+Étant donnée la hâte avec laquelle s\'effectuait ce voyage, on admettra volontiers que le commodore Urrican n\'eût pas éprouvé les curiosités d\'un touriste. C\'était l\'Union Pacific qui l\'avait transporté à travers le Nebraska, le Wyoming, les montagnes Rocheuses par la passe de Truckee, à mille toises d\'altitude, puis à travers l\'Utah jusqu\'à l\'extrémité du Nevada. Il n\'était même pas descendu de wagon ni à Ogden, pour voir Great Salt Lake City, ni à Carson, pour visiter cette capitale. Il ne songea point à admirer Sacramento, la capitale de l\'Eldorado californien, -- une cité qui fut surhaussée presque tout entière à la suite des inondations de l\'Arkansas, causes de tant de désastres. Oui ! On remblaya son sol de manière à dépasser le niveau des plus fortes crues, et les maisons furent relevées de dix à quinze mètres tout d\'un bloc. Maintenant, solidement assise sur les bords de la rivière qui porte son nom, cette ville de vingt-sept mille habitants a fort bon aspect, avec son Capitole d\'apparence architecturale, ses principales rues agréablement disposées, et son quartier chinois qui semble détaché des provinces du Céleste Empire.
+
+Toutefois, si dans ces conditions un Max Réal ou un Harris T. Kymbale eussent regretté d\'avoir « brûlé » Sacramento, combien ces regrets auraient été plus profonds à l\'égard de San Francisco ! La métropole de l\'État, qui compte trois cent mille âmes, occupe une situation unique au monde, en vue de cette baie de cent kilomètres carrés, grande comme le lac Léman, au seuil de la Porte d\'Or, ouverte sur le Pacifique. Il faut parcourir ses quartiers du monde élégant, ses larges artères d\'une animation intense, la rue Sacramento, la rue Montgomery, où s\'élève *Occidental* *Hotel*, vaste à loger toute une colonie, cette magnifique artère, à la fois le Broadway, le Picadilly, la rue de la Paix de la merveilleuse Frisco, ses maisons éclatantes de blancheur, avec balcons et miradors à la mode mexicaine, avec leurs festons de fleurs et de feuillage, ses jardins où prospèrent les plus admirables espèces de la flore tropicale, même ses cimetières, qui sont des parcs où fréquentent les promeneurs, et, à huit milles, ce rendez-vous de Cliff-house, dans toute la beauté de sa sauvage nature. Puis, au point de vue du commerce d\'exportation et d\'importation, est-ce que cette métropole n\'est pas l\'égale des Yokoama, des Shanghaï, des Hongkong, des Singapoore, des Sydney, des Melbourne, ces souveraines des mers orientales ?...
+
+Et même, y fût-il arrivé un dimanche, le commodore Urrican n\'aurait pas trouvé une ville morte comme tant d\'autres des États-Unis. Depuis que l\'élément français y a pris une certaine prépondérance -- pas autant que l\'élément chinois, à beaucoup près, -- Frisco s\'est donné des allures infiniment plus mondaines.
+
+Puis, en ce milieu californien, le commodore eut rencontré des parieurs frénétiques engagés sur le match Hypperbone. San Francisco n\'est-elle pas par excellence la ville des spéculateurs, la ville des « trusts », confédérations financières d\'accaparement de toutes les moyennes industries similaires, où la passion du jeu se manifeste sous ses formes les plus violentes, où les fortunes se font et se défont en quelques coups de bourse comme sur des coups de dés, où le pouls bat toujours comme il y a quelque cinquante ans, à l\'époque de la fièvre de l\'or !... Et ces audacieux Californiens n\'auraient-ils pas applaudi à l\'emploi de l\'automobile du sixième partenaire, et Hodge Urrican -- un homme de « tant d\'estomac », -- ne fût-il pas devenu leur favori, bien qu\'il eût à recommencer la partie dans des conditions si désavantageuses ?...
+
+Au total, ce qui excuse le commodore Urrican, c\'est qu\'il n\'avait pas une heure à perdre, et d\'ailleurs, étant donné son caractère, il n\'eût guère songé à visiter la Californie même sommairement. Ces curiosités de touriste, on le répète, Max Réal, peut-être Harris T. Kymbale, auraient-ils voulu les satisfaire à la condition d\'en avoir le temps. Les multiples voies ferrées, les nombreux steamers, les auraient transportés à Mariposa, près de l\'incomparable vallée du Yosemite, où affluent les visiteurs, à Oakland, en face de Frisco sur la côte de la Baie et dont la jetée, longue de près d\'une lieue, finira par se développer d\'une rive à l\'autre, au détroit de Carquinez, à Benicia où les bacs à vapeur prolongent les railroads en transportant des trains tout entiers, à la charmante Santa Clara dont l\'union avec sa voisine San José ne tardera pas à s\'accomplir, au célèbre observatoire du mont Hamilton, à Monterey l\'espagnole, devenue une station balnéaire recherchée pour l\'ombrage de ses cyprès d\'une espèce unique, à Los Angeles sur la côte méridionale, deuxième cité de l\'État, où l\'on jouit d\'un climat sans égal, des arbres partout, eucalyptus, poivriers, ricins arborescents, orangers, bananiers, caféiers, théiers, caoutchouquiers, des fruits toute l\'année, sanatorium très apprécié des Américains de l\'Ouest. Enfin, peut-être aussi, par une savante combinaison des horaires, le jeune peintre et le chroniqueur de la *Tribune* auraient-ils pu pousser jusqu\'à la frontière méridionale de l\'État, où la jolie ville de San Diego, à l\'air pur et salubre, au bord d\'un estuaire praticable aux navires de fort tonnage, attend que l\'exploitation des mines de borate et de carbonate de soude en fasse l\'un des ports les plus considérables du Pacifique.
+
+Non ! Hodge Urrican n\'avait rien vu, n\'avait songé à rien voir, et vraisemblablement ne désirait rien voir pendant son passage à travers la Californie centrale. Ne se disait-il pas que c\'était assez, que c\'était trop d\'avoir à parcourir la région comprise entre Keeler et la Vallée de la Mort.
+
+Un excellent véhicule, cette automobile, envoyée de Sacramento et d\'un système porté à la dernière perfection, le système Adamson, le plus généralement adopté en Amérique. Elle fonctionnait au pétrole et pouvait en emporter pour une semaine de locomotion. Dans ces conditions, même en cas qu\'elle ne trouvât pas à renouveler en route sa provision d\'huile minérale, cette automobile franchirait sans peine les trois cents milles d\'aller et retour.
+
+Tous deux, Hodge Urrican et Turk, étaient donc assis au fond d\'une sorte de coupé confortable, le mécanicien en avant avec un aide-mécanicien, ayant sous la main les appareils de direction et de marche. Cette fois, par dérogation à ses habitudes, le commodore restait concentré en lui-même, et Turk ne parvenait pas à en tirer une parole. Il ne pensait à rien autre qu\'au but à atteindre, hypnotisé par cette soixante-troisième case, si éloignée maintenant et dont il s\'était tant approché tout d\'abord. Et il ne s\'agissait point de l\'argent que lui coûtait ce dernier tirage, la dépense du train spécial, le coût de l\'automobile, sans parler de la triple prime, trois mille dollars qu\'il devrait payer à Chicago avant de recommencer la partie. Non ! C\'était la question d\'amour-propre et d\'honneur, c\'était la honte, oui ! La honte de se voir distancer par les six autres partenaires, et, -- il faut l\'avouer, -- la crainte de « rater » l\'héritage de William J. Hypperbone.
+
+Bref, l\'automobile marchait d\'une allure rapide et régulière sur une route, assez bonne à partir de Keeler, que le conducteur avait déjà parcourue jusqu\'à Death Valley. Elle traversa quelques bourgades isolées au-delà des anciennes ramifications de la Sierra Nevada, dominée par le mont Whiney, dont la cime se dresse à près de quatorze mille pieds dans les airs.
+
+Après avoir passé plusieurs creeks à gué, l\'automobile obliqua vers le sud-est, franchit la rivière de Chay-o-poo-vapah, de manière à rencontrer le village d\'Indian Wells, au sortir des passes de Walker.
+
+Jusqu\'alors le pays n\'était pas absolument désert. Des fermes s\'y succédaient à longue distance, il est vrai. On croisait parfois des cultivateurs se rendant de l\'une à l\'autre, et aussi quelques détachements de ces Indiens Mohaws, qui possédaient autrefois le territoire. Et, en gens qui savent ne s\'étonner de rien, ils regardaient sans surprise ce véhicule mécanique. Le sol n\'était pas encore dépourvu de végétation, des buissons de créosotes, des groupes de mezquites, des bouquets de yuccas, des cactus géants dont quelques-uns mesurent jusqu\'à huit toises, toute la queue arborescente des forêts névadiennes.
+
+En somme, ce n\'était pas là le fameux territoire de Calaveras et de Mariposa, celui des arbres phénomènes, le « Père de la Forêt », la « Mère de la Forêt », des géants dont la taille dépasse trois cents pieds.
+
+Et, si au lieu d\'être envoyé à Death Valley, Hodge Urrican avait dû gagner la vallée de Yosemite, dans l\'est de San Francisco, vers, la partie centrale de la Sierra Nevada, ou, plutôt, si c\'eût été Max Réal que sa bonne fortune y avait conduit, quels souvenirs il eût conservés, -- même après les merveilles du Parc National de Wyoming, -- de cet autre parc qui domine le mont Syell à l\'altitude de deux mille toises, de ces beautés naturelles avec leurs désignations significatives, la « Grande Cascade » de cinq cents pieds, la « Cascade du Printemps », le « Lac du Miroir », les « Arches Royales », la « Cathédrale », la « Colonne de Washington », tant admirés par des milliers de touristes.
+
+Enfin l\'automobile atteignit le désert à la limite duquel se creusent les dépressions de Death Valley. Là, rien que l\'immense solitude. Les hommes, les animaux ne le fréquentaient pas. Un ardent soleil tombait sur ces plaines infinies. À peine quelques traces d\'une végétation rudimentaire. Ni chevaux ni mules n\'eussent pu s\'y nourrir, et il était heureux que l\'engin propulsif n\'eût besoin que de vapeurs pétroliennes pour actionner le véhicule. Çà et là seulement, quelques foot-hills, collines de médiocre hauteur, entourées de chapparals, qui sont des fourrés de maigres espèces. À la chaleur accablante du jour succédaient ces nuits californiennes, sèches et froides, dont la rosée ne vient jamais adoucir les rigueurs.
+
+Ce fut ainsi que le commodore Urrican atteignit le 3 juin l\'extrémité méridionale des Télescope Range, qui encadrent Death Valley à l\'ouest.
+
+Il était trois heures de l\'après-midi. Le voyage avait duré cinquante heures, sans repos, sans accidents.
+
+En vérité, c\'est à bon droit que ce pays désolé, au sol d\'argile, parfois recouvert d\'efflorescences salines, a pu être nommé le Pays de la Mort. La vallée, qui le termine presque à la frontière de l\'État de Nevada, n\'est, en somme, qu\'un cañon, large de dix-neuf milles, long de cent vingt, troué d\'abîmes dont le fond s\'abaisserait à trente toises au-dessous du niveau de la mer. Sur ses bords ne végètent comme en cet aride territoire que de minces peupliers, des saules d\'une pâleur maladive, des yuccas secs et cassants à baïonnettes aiguës, des armoises infectes, et aussi mille touffes de ces cactus désignés en Californie sous le nom de pétalinas, sans feuilles, tout en branches, véritables candélabres funéraires posés sur ce champ de la Mort.
+
+Death Valley, ainsi que le fait observer Élisée Reclus, fut, sans doute à une époque géologique antérieure, le lit du fleuve qui se perd aujourd\'hui dans le Soda Lake, et que, seul, arrose maintenant le creek de l\'Amargoza. Ses talus se hérissent d\'aiguilles de sel, le borax s\'accumule dans ses cavités, et quelques dunes y mêlent leur poussière sablonneuse aux courants atmosphériques qui la parcourent parfois avec une extrême violence.
+
+Oui ! La Vallée de la Mort avait été bien choisie par l\'excentrique testateur pour y envoyer le malchanceux partenaire, arrêté en pleine marche à la cinquante-huitième case !
+
+Le commodore Urrican était donc arrivé au terme de ce difficile voyage. Il fit halte au pied de la crête des Funeral Mounts, ainsi appelés en souvenir de caravanes qui périrent dans ces tristes lieux. Ce fut à cette place même qu\'il prit la précaution d\'écrire un document attestant sa présence à Death Valley, le 3 juin, -- document qui fut enterré sous une roche, après avoir été signé de Turk et des deux conducteurs de l\'automobile.
+
+À peine Hodge Urrican resta-t-il une heure sur le seuil de cette Vallée de la Mort. Il n\'avait en effet qu\'à quitter au plus tôt cette triste contrée pour regagner Keeler par la route déjà suivie. Alors, ouvrant pour la première fois la bouche, il ne prononça que ce mot :
+
+« Partons ! »
+
+Et l\'automobile partit, toujours favorisée par le temps, à travers la région supérieure du désert de Mohaws, en redescendant les passes de la Nevada, et, sans accident, il rejoignit la station de Keeler, quarante-quatre heures après, le 5 juin, à onze heures du matin.
+
+En trois mots, mais trois mots énergiques, le commodore Urrican remercia le mécanicien et son compagnon qui avaient montré tant de zèle et d\'habileté dans l\'accomplissement de leur fatigante tâche, et, se retournant vers Turk :
+
+« Partons ! » dit-il.
+
+Le train spécial était en gare, attendant le retour du commodore, prêt à démarrer, Hodge Urrican alla droit au conducteur :
+
+« Partons ! » répéta-t-il.
+
+Et le coup de sifflet donné, la locomotive s\'élança sur les rails, déployant son maximum de vitesse, et, sept heures plus tard, vint s\'arrêter à Reno.
+
+L\'Union Pacific se conduisit de la plus correcte façon en cette circonstance. D\'ailleurs, commandé par ses inflexibles horaires, le railroad n\'aurait pu ni diminuer ni accroître leurs délais. Le train traversa les montagnes Rocheuses, le Wyoming, le Nebraska, l\'Iowa, l\'Illinois, et il atteignit Chicago, le 8 juin, à neuf heures trente-sept du matin.
+
+Quel bon accueil le commodore Urrican reçut de ceux qui lui étaient demeurés fidèles, en dépit de tout ! Certes, ce faux départ, cette obligation de reprendre la partie à son début, témoignaient d\'une extraordinaire malchance. Mais il sembla que la veine revenait au Pavillon Orangé avec le coup de dés dont il bénéficia le jour même de son arrivée à Chicago.
+
+Neuf par six et trois, c\'était la troisième fois que ce point avait été amené depuis le début du match Hypperbone, -- la première fois par Lissy Wag, la deuxième par l\'inconnu X K Z, la troisième par le commodore.
+
+Et après avoir été expédié en Floride, puis en Californie, Hodge Urrican n\'avait qu\'un pas à faire pour gagner la vingt-sixième case, cet État de Wisconsin qui confine à l\'Illinois et que n\'occupait alors aucun des partenaires. Sa cote remonta dans l\'échelle des agences, et il fut repris à égalité avec Tom Crabbe et Max Réal.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- À la maison de South Halstedt Street]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942521 .pcalibre2 .pcalibre1} {#chapitre-7-à-la-maison-de-south-halstedt-street .calibre171 .sigil_not_in_toc}
+
+Le 1er juin, la porte de la maison de South Halsted Street, numéro 3997, à Chicago, s\'ouvrait dès huit heures du matin devant un jeune homme qui portait sur le dos son attirail de peintre, et que suivait un jeune nègre, sa valise à la main.
+
+Quelle fut la surprise et aussi la joie de Mme Réal, lorsque son cher fils entra dans sa chambre, et qu\'elle put le serrer entre ses bras.
+
+« Toi, Max... comment... c\'est toi ?...
+
+--- En personne, mère !
+
+--- Et te voilà à Chicago au lieu d\'être...
+
+--- À Richmond ?... s\'écria Max Réal.
+
+--- Oui... à Richmond !...
+
+--- Rassure-toi, bonne mère !... J\'ai le temps de me rendre à Richmond, et, comme Chicago se trouvait sur mon itinéraire, j\'avais bien le droit, je pense, de m\'y arrêter quelques jours et de les passer avec toi...
+
+--- Mais, cher enfant, tu risques de manquer...
+
+--- Eh bien, je n\'aurai toujours pas manqué de t\'embrasser en route, chère mère !... Songe donc, depuis deux longues semaines que je ne t\'ai vue !...
+
+--- Ah ! Max, qu\'il me tarde que cette partie soit terminée...
+
+--- Et à moi !
+
+--- À ton profit, s\'entend !
+
+--- Sois sans inquiétude !... C\'est comme si je possédais déjà le mot du coffre-fort de ce digne Hypperbone !... répondit en riant Max Réal.
+
+--- Enfin, je suis bien heureuse de te voir, mon cher fils, bien heureuse ! »
+
+Max Réal était à Cheyenne dans le Wyoming lorsque, le 29 mai, au retour de son excursion à travers le Parc National du Yellowstone, il reçut la dépêche relative à son troisième tirage, -- point de huit par cinq et trois. Or, la huitième case, après la vingt-huitième occupée par le Wyoming, était attribuée à l\'Illinois. Il fallut donc doubler ce point de huit, et le nombre seize allait conduire le jeune peintre à la quarante-quatrième case, Virginie, Richmond City.
+
+De plus, entre Chicago et Richmond fonctionne un réseau de voies ferrées, permettant de franchir en vingt-quatre heures la distance qui sépare les deux métropoles. Donc, puisque Max Réal disposait d\'une quinzaine de jours, -- du 29 mai au 12 juin, -- il pouvait, comme on dit, en prendre à son aise, et de se reposer une semaine dans la maison maternelle lui parut tout indiqué.
+
+Parti de Cheyenne dès l\'après-midi, il était arrivé quarante-huit heures après à Omaha, puis le lendemain à Chicago, bien portant, -- bien portant aussi l\'esclavagiste Tommy, toujours aussi embarrassé de sa situation de libre citoyen de la libre Amérique qu\'un pauvre diable peut l\'être de vêtements trop larges pour lui.
+
+Pendant son séjour, Max Réal se proposait de terminer deux des toiles qu\'il avait ébauchées en route, -- l\'une, un site de Kansas River près de Fort Riley, l\'autre, une vue des cascades du Fire Hole dans le Parc National. Assuré de vendre ces deux tableaux un bon prix, cela lui servirait à s\'acquitter si la mauvaise fortune le condamnait à payer plusieurs primes au cours de ses voyages.
+
+Mme Réal, enchantée de garder son cher fils pendant quelques jours, accepta toutes ces raisons, et pressa encore une fois Max sur son coeur.
+
+On causa, on se raconta les choses, on fit un de ces bons déjeuners qui ont tant de charmes entre mère et fils, et cela remit le jeune peintre des restaurations du Kansas et du Wyoming. Bien qu\'il eût plusieurs fois écrit à Mme Réal, il dut reprendre le récit de son voyage par le début, en narrer les divers incidents, aventure des milliers de chevaux errants dans les plaines du Kansas, rencontre des époux Titbury à Cheyenne. C\'est alors que sa mère lui apprit les lamentables tribulations de ce couple à Calais de l\'État du Maine, comment, à propos de la loi sur les boissons alcooliques, une contravention avait été relevée à l\'égard de M. Titbury, et quelles en furent les conséquences pécuniaires.
+
+« Et maintenant, demanda Max Réal, où en est la partie ?... »
+
+Pour la lui mieux faire connaître, Mme Réal le conduisit à sa chambre, et lui montra une carte étalée sur une table, où étaient piqués de petits pavillons de différentes couleurs.
+
+Pendant qu\'il courait le pays, Max Réal s\'était peu occupé de ses partenaires, ne lisant guère les journaux des hôtels ou des gares. Mais, rien qu\'à examiner cette carte, dès qu\'il connaîtrait les couleurs de chacun des Sept, il serait au courant. D\'ailleurs, sa mère avait suivi les péripéties du match Hypperbone depuis le début.
+
+« Et, d\'abord, demanda-t-il, quel est ce pavillon bleu, qui est en tête ?...
+
+--- Celui de Tom Crabbe, mon fils, que le tirage d\'hier, 31 mai, envoie à la quarante-septième case, État de Pennsylvanie...
+
+--- Eh ! Mère, voilà qui doit réjouir son entraîneur, John Milner !... Quant à ce stupide boxeur, ce fabricant de coups de poing, s\'il y comprend quelque chose, je veux que l\'ocre se change en vermillon sur ma palette ! -- Et ce pavillon rouge ?...
+
+--- Le pavillon X K Z, planté sur la quarante sixième case, District de Columbia. »
+
+En effet, grâce au point de dix redoublé, soit vingt, l\'homme masqué avait fait un saut de vingt cases, de Milwaukee du Wisconsin à Washington, la capitale des États-Unis d\'Amérique, -- déplacement facile et rapide en cette partie du territoire où le réseau des chemins de fer est si serré.
+
+« On ne soupçonne pas qui il est, cet inconnu ? demanda Max Réal.
+
+--- En aucune façon, mon cher enfant.
+
+--- Je suis sûr, mère, qu\'il doit faire bonne figure dans les agences et avoir de gros parieurs...
+
+--- Oui... Beaucoup de gens croient à ses chances, et à moi-même... il inspire certaines craintes.
+
+--- Voilà ce que c\'est que d\'être un personnage mystérieux ! » déclara Max Réal.
+
+Actuellement, cet X K Z se trouvait-il à Chicago ou était-il déjà parti pour le District de Columbia, nul n\'aurait pu répondre à cette question. Et, cependant, Washington, si ce n\'est qu\'un centre administratif, sans industrie, sans commerce, mérite bien que les visiteurs lui consacrent quelques jours.
+
+Placée dans une situation agréable en amont du confluent du Potomac et de l\'Anacostia, en communication avec l\'Océan par la baie de Chesapeake, cette capitale, même en dehors des époques où la réunion du Congrès double sa population, ne compte pas moins de deux cent cinquante mille âmes. Que le District fédéral soit si peu étendu, qu\'il occupe le dernier rang parmi les états de la République américaine, d\'accord ; mais la cité n\'est pas moins digne de sa haute destination. Commencée par la construction de ses grands édifices sur ce territoire des Tuscazoras et des Monacans, elle a déjà englobé quelques agglomérations voisines.
+
+Le septième partenaire, s\'il ne le connaissait pas, pourrait admirer l\'aspect architectural de son Capitole sur la colline dont les pentes s\'abaissent vers le Potomac, les trois corps de bâtiments affectés au Sénat, à la Chambre des Députés, au Congrès où se concentre la représentation nationale, sa haute coupole de fer surmontée de la statue de l\'Amérique, ses péristyles, sa double colonnade, les bas-reliefs qui le décorent et les statues qui le peuplent.
+
+S\'il ne connaissait pas la Maison Blanche, il choisirait, parmi les boulevards qui rayonnent autour du Capitole, celui de Pennsylvanie, et irait tout droit à la résidence du Président, -- modeste et démocratique demeure, élevée entre les bâtiments du Trésor et les différents Ministères.
+
+S\'il ne connaissait pas le monument de Washington, cet obélisque de marbre haut de cent cinquante-sept pieds, il l\'apercevrait de loin au milieu des jardins en bordure du Potomac.
+
+S\'il ne connaissait pas la Direction des Postes, il irait admirer un édifice en marbre blanc, de style antique, qui est le plus beau de la luxueuse cité.
+
+Et que d\'heures agréables et instructives à passer dans les riches galeries d\'histoire naturelle et d\'ethnographie de la célèbre Smithsonian Institution, installée au Patent Office, et les musées, où abondent statues, tableaux, bronzes, et l\'Arsenal où s\'élève une colonne en l\'honneur de marins américains morts dans un combat naval devant Alger, et sur laquelle se lit cette inscription vengeresse : *Mutilée* *par* *les* *Anglais* !
+
+Maintenant, la capitale des États-Unis jouit d\'un climat salubre. Les eaux du Potomac l\'arrosent en abondance. Ses cinquante lieues de rues, ses jardins, ses parcs, sont ombragés par plus de soixante mille arbres -- tels ceux qui entourent l\'Hôtel des Invalides et l\'Université de Howard, tels le Droit Park, tels le Cimetière National aux verdoyantes frondaisons, dans lequel le mausolée de William J. Hypperbone eût été aussi agréablement placé que dans celui d\'Oakswoods à Chicago.
+
+Enfin, si X K Z avait cru devoir donner une large part de son temps à la capitale de la Confédération, il ne quitterait sans doute pas le district avant d\'avoir accompli le patriotique pèlerinage de Mount Vernon, à quatre lieues de là, où une association de dames entretient la maison dans laquelle Washington passa une partie de son existence et mourut en 1799.
+
+En tout cas, si le partenaire de la dernière heure était déjà arrivé dans la capitale de l\'Union, aucun journal n\'y avait signalé sa présence.
+
+« Et ce pavillon jaune ?... demanda Max Réal, en montrant celui qui était planté au milieu de la trente-cinquième case.
+
+--- C\'est le pavillon de Lissy Wag, mon cher enfant. »
+
+Oui, ce pavillon flottait toujours sur la case du Kentucky, car, à cette date du 1er juin, le funeste coup, qui envoyait Lissy Wag dans la prison du Missouri, n\'avait pas encore été tiré.
+
+« Ah ! La charmante jeune fille ! s\'écria Max Réal. Je la vois toute gênée, toute rougissante aux obsèques de William Hypperbone, puis sur l\'estrade de l\'Auditorium !... À coup sûr, si je l\'eusse rencontrée en route, je lui aurais renouvelé mes voeux pour son succès final...
+
+--- Et le tien, Max ?...
+
+--- Le mien aussi, mère !... Tous les deux gagnant la partie !... On partagerait !... Hein !... Serait-ce assez réussi !...
+
+--- Est-ce que cela se peut ?...
+
+--- Non, cela ne se peut pas... mais il arrive en ce bas monde des choses si extraordinaires...
+
+--- Tu sais, Max, on a bien cru que Lissy Wag n\'aurait pas pu partir...
+
+--- En effet, la pauvre fille a été malade et il y en avait plus d\'un parmi les « Sept » qui s\'en réjouissait !... Oh ! Pas moi, mère, pas moi !... Heureusement, elle avait une amie qui l\'a bien soignée et bien guérie... cette Jovita Foley... aussi résolue dans son genre que le commodore Urrican ! -- Et, quand se fera le prochain tirage pour Lissy Wag ?...
+
+--- Dans cinq jours, le 6 juin.
+
+--- Espérons que ma jolie partenaire saura éviter les dangers de la route, le labyrinthe du Nebraska, la prison du Missouri, la Death Valley californienne !... Bonne chance !... oui ! Je la lui souhaite et de tout coeur ! »
+
+Décidément, Max Réal pensait quelquefois à Lissy Wag -- souvent même, -- et sans doute trop souvent, se dit peut-être Mme Réal, un peu surprise de la chaleur qu\'il mettait à en parler.
+
+« Et tu ne demandes pas, Max, quel est ce pavillon vert ?... reprit-elle.
+
+--- Celui qui se déploie au-dessus de la vingt-deuxième case, chère mère ?...
+
+--- C\'est le pavillon de M. Kymbale.
+
+--- Un brave et aimable garçon, ce journaliste, déclara Max Réal, et qui, d\'après ce que j\'ai entendu dire, profite de l\'occasion pour voir du pays...
+
+--- En effet, mon enfant, et la *Tribune* publie ses chroniques presque chaque jour.
+
+--- Eh bien, mère, ses lecteurs doivent être satisfaits, et s\'il va jusqu\'au fond de l\'Oregon ou du Washington, il leur racontera de curieuses choses !
+
+--- Mais il est bien en retard.
+
+--- Cela n\'importe guère au jeu que nous jouons, répondit Max Réal, et un coup heureux vous met vite en avance !
+
+--- Tu as raison, mon fils...
+
+--- Maintenant, quel est ce pavillon qui semble tout triste d\'être arboré sur la quatrième case ?...
+
+--- Celui d\'Hermann Titbury.
+
+--- Ah ! L\'horrible bonhomme !... s\'écria Max Réal. Qu\'il doit enrager d\'être dernier... et bon dernier !
+
+--- Il est à plaindre, Max, réellement à plaindre, car il n\'a fait que quatre pas en deux coups de dés, et, après avoir été au fond du Maine, il a dû repartir pour l\'Utah ! »
+
+À cette date du 1er juin, on ne pouvait encore savoir que le couple Titbury avait été dépouillé de tout ce qu\'il possédait, après son arrivée à Great Salt Lake City. » Et pourtant, je ne le plaindrai pas !... déclara Max Réal. Non ! Ce couple de ladres n\'est point intéressant, et je regrette qu\'il n\'ait pas eu quelque forte prime à tirer de son sac...
+
+--- Mais n\'oublie pas qu\'il a dû verser une amende à Calais, fit observer Mme Réal.
+
+--- Tant mieux, et il ne l\'aura pas volé, ce tondeur de chrétiens ! Aussi, ce que je lui souhaite, c\'est d\'amener encore le minimum de points, un et un !... Tiens ça le conduirait au Niagara, et le péage du pont lui coûterait mille dollars !
+
+--- Tu es cruel pour ces Titbury, Max...
+
+--- D\'abominables gens, mère, qui se sont enrichis par l\'usure et ne méritent aucune pitié !... Il ne manquerait plus que le sort les fît hériter de ce généreux Hypperbone...
+
+--- Tout est possible, répondit Max Réal.
+
+--- Mais, dis-moi, je n\'aperçois pas le pavillon du fameux Hodge Urrican...
+
+--- Le pavillon orangé ?... Non, il ne flotte plus nulle part, depuis que la mauvaise fortune a envoyé le commodore mettre le pied dans la Vallée de la Mort, d\'où il va revenir à Chicago afin de recommencer la partie.
+
+--- Dur pour un officier de marine d\'amener son pavillon ! s\'écria Max Réal. À quelle crise de colère il a dû s\'abandonner, et comme elle a dû faire trembler sa coque depuis la quille jusqu\'à la pomme des mâts !
+
+--- C\'est probable, Max.
+
+--- Et l\'X K Z, quand doit-on tirer pour lui ?...
+
+--- Dans neuf jours.
+
+--- C\'est tout de même une singulière idée qu\'a eue le défunt de taire le nom de ce dernier des Sept ! »
+
+À présent Max Réal était au courant de la situation. Après ce coup de dés qui l\'expédiait en Virginie, il savait qu\'il occupait le troisième rang, devancé par Tom Crabbe en tête, et par X K Z, pour lesquels, il est vrai, le troisième tirage n\'avait pas encore été effectué.
+
+Au fond, cela ne le préoccupait guère, quoi que pussent penser Mme Réal et même Tommy. Aussi, le temps qu\'il resta à Chicago, le passa-t-il dans son atelier, où il acheva ses deux paysages dont la valeur devait s\'accroître aux yeux d\'un amateur américain, étant données les conditions dans lesquelles ils avaient été peints.
+
+Il advint donc, en attendant son prochain départ, que Max Réal ne s\'inquiéta plus du match ni de ceux qu\'il faisait courir à travers les États-Unis. Au fond, il n\'y jouait un rôle que pour ne pas contrarier son excellente mère, -- non moins indifférent que Lissy Wag, laquelle, de son côté, n\'y participait que pour ne point contrarier Jovita Foley.
+
+Néanmoins, pendant son séjour, il eut nécessairement connaissance des trois coups qui furent tirés à l\'Auditorium. Déplorable pour Hermann Titbury, celui du 2, puisqu\'il l\'obligeait à gagner la case dix-neuvième, État de la Louisiane, affecté à l\'hôtellerie, où il devrait demeurer deux coups sans jouer. Quant à celui du 4, il fut bien accueilli de Harris T. Kymbale, car, s\'il ne le conduisait qu\'à la trente-troisième case, North Dakota, il lui assurait un curieux voyage.
+
+Enfin, le 6, à huit heures, maître Tornbrock procéda au tirage concernant Lissy Wag. Aussi, ce matin-là, Max Réal, qui s\'intéressait si vivement au sort de la jeune fille, se rendit-il à l\'Auditorium, d\'où il revint on ne peut plus désolé.
+
+De la case trente-huitième, État du Kentucky, Lissy Wag, par le point de sept redoublé, soit quatorze, était envoyée à la cinquante-deuxième case. Là, dans cet État du Missouri, l\'infortunée partenaire devrait rester incarcérée, tant qu\'un autre partenaire ne serait pas venu prendre sa place.
+
+On le comprend, ces trois coups produisirent un effet considérable sur les marchés dans le monde des joueurs. Plus que jamais Tom Crabbe et Max Réal furent demandés. Décidément la chance se prononçait pour eux, et le choix devenait très difficile entre ces deux favoris de la fortune.
+
+Quel chagrin ressentit Max Réal, lorsque, de retour près de sa mère, il la vit planter le pavillon jaune au milieu de ce Missouri transformé en prison, de par la volonté de l\'excentrique défunt, -- et pour Lissy Wag, de par la volonté du destin. Il en fut extrêmement affecté et ne le cacha point. Ce coup de la prison, comme celui du puits, était le plus funeste qui pût se produire au cours de la partie... Oui, plus grave que celui de la Vallée de la Mort dont Hodge Urrican venait d\'être victime !... Au moins le commodore n\'éprouvait-il qu\'un retard et allait-il continuer la lutte !... Et qui sait si le match Hypperbone n\'aurait pas pris fin, avant que la prisonnière eût été délivrée ?...
+
+Enfin, le lendemain, 7 juin, Max Réal se prépara à quitter Chicago. Sa mère, après avoir renouvelé ses recommandations, lui fit promettre de ne point s\'attarder en route.
+
+« Et pourvu, dit-elle, que la dépêche que tu vas recevoir à Richmond, mon cher fils, ne t\'envoie pas... au bout du monde...
+
+--- On en revient, mère, on en revient, répondit Max, tandis que de la prison !... Enfin, avoue que tout cela est bien ridicule !... Être exposé comme un vulgaire cheval de course à perdre d\'une demi-longueur !... Oui !... ridicule !...
+
+--- Mais non, mon enfant, mais non !... Pars donc, et que Dieu te protège ! »
+
+Et c\'est très sérieusement, sous l\'empire d\'une sincère émotion, que l\'excellente dame disait ces choses !
+
+Cela va de soi, pendant son séjour Max Réal n\'avait pu, sans grande peine, se soustraire à la visite des courtiers, des reporters, des parieurs, qui affluaient à la maison de South Halsted Street. Comment s\'en étonner ?... On le prenait à égalité avec Tom Crabbe... Quel honneur !
+
+Assurément, Max Réal s\'était engagé vis-à-vis de sa mère à se rendre par la voie la plus directe en Virginie. Mais, pourvu qu\'il fût dans la matinée du 12 à Richmond, qui l\'eût blâmé de préférer dans son itinéraire à la ligne droite la ligne brisée ou la ligne courbe ? Cependant, il avait résolu de ne point sortir des états qu\'il allait traverser, l\'Illinois, l\'Ohio, le Maryland, la Virginie occidentale pour atteindre la Virginie et Richmond, sa métropole.
+
+Voici, du reste, la lettre que reçut Mme Réal, -- lettre datée du 11 juin, -- quatre jours après le départ, et qui lui faisait sommairement connaître les incidents du voyage. Sans parler d\'aperçus très personnels sur les pays parcourus, les villes visitées, les rencontres effectuées, elle contenait certaines remarques qui donnaient à réfléchir et ne laissèrent pas de lui causer quelque inquiétude relativement à l\'état d\'âme de son fils.
+
+
+« Richmond, 11 juin, Virginie.
+
+« Chère et bonne mère,
+
+« Me voici arrivé au but, -- non pas celui de cette grande bête de partie, mais celui que m\'imposait mon troisième coup de dés. Après Fort Riley du Kansas, après Cheyenne du Wyoming, Richmond de la Virginie ! Donc, n\'aie aucune appréhension pour l\'être que tu chéris le plus au monde et qui te le rend de tout coeur : il est à son poste en bonne santé.
+
+« Par exemple, je voudrais pouvoir en dire autant de cette pauvre Lissy Wag, que la paille humide des cachots attend dans la grande cité missourienne. Je ne te cache pas, chère mère, bien que je ne doive voir en elle qu\'une rivale, mais si charmante, si intéressante, combien je suis affligé de son malheureux sort ! Plus je songe à ce déplorable coup de dés, -- sept par trois et quatre, redoublé, -- plus j\'en éprouve de peine, plus je regrette que le pavillon jaune, si vaillamment tenu jusqu\'ici par l\'intrépide Jovita Foley pour le compte de son amie, soit hissé sur le mur de cette prison !... Et jusqu\'à quand le sera-t-il ?...
+
+« Je suis donc parti le 7 au matin. La voie ferrée longe le littoral sud du Michigan et laisse apercevoir de jolis points de vue sur le lac. Mais, entre nous, je le connais un peu, notre lac, et aussi les pays qu\'il limite ! D\'ailleurs, dans cette partie des États-Unis comme au Canada, il est permis d\'être blasé sur les lacs, leurs eaux bleues qui ne sont pas toujours bleues, leurs eaux dormantes qui ne dorment pas toujours ! Nous en avons à revendre, et je me demande pourquoi la France, qui n\'est pas riche en propriétés lacustres, ne nous en achète pas un, au choix, comme nous lui avons acheté la Louisiane en 1803 ?
+
+« Enfin, j\'ai regardé tout de même à droite et à gauche par le trou de ma palette, tandis que cette marmotte de Tommy dormait comme un loir.
+
+« Sois tranquille, bonne mère, je n\'ai point réveillé ton négrillon ! Peut-être a-t-il rêvé que je gagnais assez de millions de dollars pour le réduire au plus dur esclavage ! Laissons-le à son bonheur !
+
+« Je refais en partie la route qu\'a faite Harris Kymbale, lorsqu\'il s\'est rendu de l\'Illinois au New York, de Chicago au Niagara. Mais, arrivé à Cleveland City de l\'Ohio, je l\'abandonne pour obliquer vers le sud-est. Du reste, des railroads partout. Un piéton ne saurait où mettre les pieds !
+
+« Ne me demande pas, chère mère, de te chiffrer mes heures d\'arrivée et de départ pendant ce voyage. Cela ne saurait t\'intéresser. Je t\'indiquerai les quelques localités où notre locomotive a lancé ses tourbillons de vapeur. Ah ! Pas toutes, par exemple ! Il y en a dans ces contrées industrielles autant que de cellules dans une ruche ! Seulement les principales.
+
+« De Cleveland, je suis allé à Warren, un centre important de l\'Ohio, si riche en sources d\'huile de pétrole, qu\'un aveugle le reconnaîtrait, pourvu qu\'il eût un nez, rien qu\'à son écoeurante atmosphère. C\'est à croire que l\'air va s\'enflammer si l\'on égratigne une allumette. Et puis, quel pays ! Sur les plaines à perte de vue, rien que des échafaudages et des orifices de puits, et aussi sur les pentes des collines, les bords des creeks. Tout cela, c\'est des lampes, des lampes de quinze à vingt pieds de haut... Il n\'y manque qu\'une mèche !
+
+« Vois-tu, chère mère, ce pays ne vaut pas nos poétiques prairies du Far West, ni les sauvages vallées du Wyoming, ni les lointaines perspectives des Rocheuses, ni les profonds horizons des grands lacs et des océans ! Les beautés industrielles, c\'est bien, les beautés artistiques, c\'est mieux, les beautés naturelles, rien au-dessus !
+
+« Entre nous, chère mère, je te l\'avouerai, si j\'eusse été favorisé au dernier tirage, -- favorisé par le choix du pays, s\'entend, -- j\'aurais voulu t\'emmener avec moi. Oui, madame Réal, au Far West, par exemple. Ce n\'est pas qu\'il n\'y ait de curieux sites dans la chaîne des Alleghanys que j\'ai traversée... Mais le Montana, le Colorado, la Californie, l\'Oregon, foi de peintre, ce n\'est pas à comparer !...
+
+« Oui... nous aurions voyagé de compagnie, et si nous avions rencontré Lissy Wag en route, qui sait... le hasard ?... Eh bien, tu aurais fait sa connaissance... Il est vrai, elle est maintenant en prison, ou du moins elle va s\'y rendre, la pauvre fille !...
+
+« Ah ! Si, au prochain tirage, un Titbury, un Crabbe, un Urrican venaient la délivrer !... Notre terrible commodore, le vois-tu, après tant d\'épreuves, tombant dans la cinquante-deuxième case ! Il serait capable d\'abandonner son Turk à ses féroces instincts de tigre !... À la rigueur, chère mère, une Lissy Wag pourrait être envoyée, quoique ce fût très regrettable, à l\'hôtellerie, au labyrinthe !... Mais le puits, l\'horrible puits... la prison, l\'horrible prison... c\'est bon pour les représentants du sexe fort !... Décidément, le destin a oublié d\'être galant ce jour-là !
+
+« Mais ne vaguons ni ne divaguons, et continuons le voyage. Après Warren, en suivant la Ring River, la frontière de l\'Ohio franchie, nous sommes entrés en Pennsylvanie. La première ville importante a été Pittsburg, sur l\'Ohio, avec son annexe d\'Alleghany, la Cité du Fer, la Cité Fumeuse, comme on l\'appelle, malgré les mille milles de conduites souterraines par lesquelles se débitent actuellement ses gaz naturels. Ce qu\'il y fait sale !... On a les mains et la figure noircies en quelques minutes... des mains et la figure de négros !... Oh ! Mes sites frais et clairs du Kansas ! J\'ai mis sur ma fenêtre un peu d\'eau dans le fond d\'un verre, et, le lendemain, j\'avais de l\'encre. C\'est avec ce mélange chimique que je t\'écris, chère mère.
+
+« Je viens de voir dans un journal que le tirage Urrican du 8 expédie notre fulgurant commodore au Wisconsin. Par malheur, au coup suivant, s\'il amène le point de douze, même en le doublant, il n\'atteindra pas la cinquante-deuxième case, où se désole la jeune prisonnière...
+
+« Enfin, j\'ai continué à descendre vers le sud-est. De nombreuses stations ont défilé de chaque côté du railroad, -- des villes, des bourgades, des villages, et, à travers ces districts, pas un coin de nature qui soit livré à lui-même ! Partout la main de l\'homme et son outillage bruyant ! Il est vrai, dans notre Illinois, il en est de même, et le Canada n\'y échappe pas. Un jour, les arbres seront en métal, les prairies en feutre, et les grèves en limaille de fer... C\'est le progrès.
+
+« Cependant j\'ai eu quelques bonnes heures en circulant le long des passes des Alleghanys. Une chaîne, pittoresque, capricieuse, sauvage parfois, hérissée de conifères noirâtres, des pentes abruptes, des gorges profondes, des vallées sinueuses, des torrents tumultueux, que les industriels ne font pas travailler encore et qui cascadent en toute liberté !
+
+« Puis, nous avons effleuré ce petit coin du Maryland qu\'arrose le haut Potomac, pour atteindre Cumberland, plus importante que sa capitale, la modeste Annapolis, qui ne compte guère en regard de l\'envahissante et impérieuse Baltimore, où se concentre toute la vie commerciale de l\'État. Ici la campagne est fraîche, le pays étant plus agricole que manufacturier. Il repose sur un seuil de fer et de houille, et, en quelques coups de pioche, on a vite crevé la terre végétale.
+
+« Nous voici au West Virginia, et, sois tranquille, bonne mère, la Virginie n\'est pas loin. D\'ailleurs, j\'y eusse déjà été si la question de l\'esclavage n\'avait pas tellement divisé l\'ancien État qu\'il a fallu le couper en deux pendant la guerre de Sécession. Oui ! Tandis que l\'Est s\'attachait avec plus de force aux doctrines anti-humaines de l\'esclavagisme, -- Tommy dort, il n\'entend pas, -- l\'Ouest, au contraire, se séparait des confédérés pour se ranger sous le pavillon fédéral.
+
+« C\'est une région accidentée, montueuse, sinon montagneuse, sillonnée dans sa partie orientale par diverses chaînes des Appalaches, agricole, minière, avec du fer, de la houille, et aussi du sel, de quoi assaisonner la cuisine de toute la Confédération pendant des siècles !
+
+« Je ne suis point allé à Charleston, capitale de la Virginie orientale, -- ne pas confondre avec l\'autre grande Charleston de la Caroline du Sud, où s\'est rendu mon copain Kymbale, ni avec une troisième Charlestown dont je vais te parler. Mais je me suis arrêté un jour à Martinsburg City, la plus importante de l\'État du côté de l\'Atlantique.
+
+« Oui, tout un jour, et ne me gronde pas, chère mère, puisque je pouvais être à Richmond en quelques heures de railroad. À quel propos ai-je fait halte à Martinsburg ?... Uniquement pour accomplir un pèlerinage, et, si je n\'ai pas emmené Tommy avec moi, c\'est qu\'il ne peut qu\'éprouver de l\'horreur pour le héros que j\'allais honorer.
+
+« John Brown, chère mère, John Brown, qui leva le premier le drapeau de l\'anti-esclavagisme au début de la guerre de Sécession ! Les planteurs virginiens le traquèrent comme une bête fauve. Il n\'avait à sa suite qu\'une vingtaine d\'hommes, et voulait s\'emparer de l\'arsenal d\'Harper\'s Ferry. Ce nom est celui d\'un petit bourg, situé sur l\'escarpement d\'une colline, entre les cours du Potomac et de la Shenandoah, un site merveilleux, mais plus célèbre encore par les terribles scènes dont il fut le théâtre.
+
+« C\'est là, en 1859, que s\'était réfugié l\'héroïque défenseur de la sainte et grande cause. La milice vint l\'y attaquer. Après des prodiges de courage, blessé grièvement, réduit à l\'impuissance, il fut pris, entraîné jusqu\'au bourg voisin de Charlestown, où il subit le supplice de la pendaison, le 2 décembre 1859, -- mort que le gibet n\'a pu rendre infamante, et dont la glorieuse renommée se perpétuera d\'âge en âge[[\[4\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn4041){#_ftnref4041 .pcalibre2 .pcalibre1}.
+
+« C\'est à ce martyr de la liberté, de l\'émancipation humaine que j\'ai voulu porter mon hommage de patriote.
+
+« Enfin, me voici en Virginie, mère, l\'État esclavagiste par excellence et qui fut le principal théâtre de la guerre de Sécession. Je laisserai aux géographes le soin de te dire, si cela peut t\'intéresser, qu\'il occupe le trente-troisième rang dans l\'Union comme superficie, qu\'il est divisé en cent dix-neuf comtés, que, malgré l\'amputation qu\'il a subie du côté de l\'ouest, il est encore un des plus puissants de la République Nord-Américaine, que le nombre des daims et des oppossums y diminue, que les grues, les cailles, les buzards-vautours, fréquentent son territoire, qu\'il produit en abondance froment, maïs, seigle, avoine, sarrasin, et surtout le coton, ce dont je me félicite, puisque je porte des chemises, et surtout le tabac, -- ce dont je ne me soucie guère, puisque je ne fume pas.
+
+« Quant à Richmond, c\'est une belle cité, l\'ex-capitale de l\'Amérique séparatiste, la clef de la Virginie, que le Gouvernement fédéral a fini par mettre dans sa poche. Elle occupe un lit capitonné de sept collines au bord de la rivière James et, sur la rive opposée, tend la main à Manchester, une ville double, comme tant d\'autres aux États-Unis, à l\'exemple de certaines étoiles. Je le répète, une cité à voir, avec son Capitole, une sorte de temple grec, auquel manque le ciel de l\'Attique et les horizons athéniens de l\'Acropole, comme au Parthénon d\'Édimbourg. Par exemple, trop de fabriques, trop d\'usines, -- à mon goût, du moins, et il n\'y en a pas moins de cent, rien que pour la préparation du tabac. Un quartier du beau monde, celui de Léonard Height, où s\'élève le monument à la mémoire de Lee, le général des confédérés, et il mérite cet honneur, sinon pour la cause qu\'il a défendue, du moins pour ses qualités personnelles.
+
+
+« À ce propos, j\'y songe, c\'est là que la pauvre Lissy Wag aura appris cet injuste arrêt du sort qui l\'a fait déporter au Missouri, et, d\'autre part, je me demande comment elle pourra payer la triple prime, trois mille dollars !... Cela me cause un véritable chagrin... Oui... et tu dois le comprendre...
+
+« Je viens de lire sur une affiche de Richmond le résultat du tirage du 10 juin. C\'est le Minnesota que le point de cinq par deux et trois assigne à notre fameux inconnu X K Z. De la quarante-sixième il saute à la cinquante-unième case, et le voilà en tête maintenant !... Mais qui diable est-il, cet homme-là ?... Il me paraît singulièrement chanceux, et il n\'est pas sûr que mon coup de dés de demain me fasse le devancer !
+
+« Là-dessus, chère mère, je termine cette longue lettre, qui ne peut t\'intéresser que parce qu\'elle vient de ton fils, et je t\'embrasse de tout coeur, en signant de mon nom, lequel n\'est plus que celui d\'un cheval de course engagé sur le turf Hypperbone.
+
+« MAX RÉAL. »
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185595 .pcalibre2 .pcalibre1}[]{#_Toc343183134 .pcalibre2 .pcalibre1}[]{#_Toc343180673 .pcalibre2 .pcalibre1}[]{#_Toc343178212 .pcalibre2 .pcalibre1}[]{#_Toc343175751 .pcalibre2 .pcalibre1}[]{#_Toc343173290 .pcalibre2 .pcalibre1}[]{#_Toc343170829 .pcalibre2 .pcalibre1}[]{#_Toc343168368 .pcalibre2 .pcalibre1}[]{#_Toc343165907 .pcalibre2 .pcalibre1}[]{#_Toc343163446 .pcalibre2 .pcalibre1}[]{#_Toc343160985 .pcalibre2 .pcalibre1}[]{#_Toc343158524 .pcalibre2 .pcalibre1}[]{#_Toc343149254 .pcalibre2 .pcalibre1}[]{#_Toc343146793 .pcalibre2 .pcalibre1}[]{#_Toc343144330 .pcalibre2 .pcalibre1}[]{#_Toc343141869 .pcalibre2 .pcalibre1}[]{#_Toc343139408 .pcalibre2 .pcalibre1}[]{#_Toc343136946 .pcalibre2 .pcalibre1}[]{#_Toc343134485 .pcalibre2 .pcalibre1}[]{#_Toc343132024 .pcalibre2 .pcalibre1}[]{#_Toc343129562 .pcalibre2 .pcalibre1}[]{#_Toc343127101 .pcalibre2 .pcalibre1}[]{#_Toc343124637 .pcalibre2 .pcalibre1}[]{#_Toc343122176 .pcalibre2 .pcalibre1}[]{#_Toc343119715 .pcalibre2 .pcalibre1}[]{#_Toc343117261 .pcalibre2 .pcalibre1}[]{#_Toc343114798 .pcalibre2 .pcalibre1}[]{#_Toc343112337 .pcalibre2 .pcalibre1}[]{#_Toc343109876 .pcalibre2 .pcalibre1}[]{#_Toc343106132 .pcalibre2 .pcalibre1}[]{#_Toc343103670 .pcalibre2 .pcalibre1}[]{#_Toc343101207 .pcalibre2 .pcalibre1}[]{#_Toc343098782 .pcalibre2 .pcalibre1}[]{#_Toc343096313 .pcalibre2 .pcalibre1}[]{#_Toc343093851 .pcalibre2 .pcalibre1}[]{#_Toc343091373 .pcalibre2 .pcalibre1}[]{#_Toc343088910 .pcalibre2 .pcalibre1}[]{#_Toc343086448 .pcalibre2 .pcalibre1}[]{#_Toc343083985 .pcalibre2 .pcalibre1}[]{#_Toc343081523 .pcalibre2 .pcalibre1}[]{#_Toc343079062 .pcalibre2 .pcalibre1}[]{#_Toc343076599 .pcalibre2 .pcalibre1}[]{#_Toc343074136 .pcalibre2 .pcalibre1}[]{#_Toc343071670 .pcalibre2 .pcalibre1}[]{#_Toc343043710 .pcalibre2 .pcalibre1}[]{#_Toc343038825 .pcalibre2 .pcalibre1}[]{#_Toc343036460 .pcalibre2 .pcalibre1}[]{#_Toc343034095 .pcalibre2 .pcalibre1}[]{#_Toc343031730 .pcalibre2 .pcalibre1}[]{#_Toc343028174 .pcalibre2 .pcalibre1}[]{#_Toc343025809 .pcalibre2 .pcalibre1}[]{#_Toc343023444 .pcalibre2 .pcalibre1}[]{#_Toc343021078 .pcalibre2 .pcalibre1}[]{#_Toc343018712 .pcalibre2 .pcalibre1}[]{#_Toc343016347 .pcalibre2 .pcalibre1}[]{#_Toc343013982 .pcalibre2 .pcalibre1}[]{#_Toc343011615 .pcalibre2 .pcalibre1}[]{#_Toc343009250 .pcalibre2 .pcalibre1}[]{#_Toc343006885 .pcalibre2 .pcalibre1}[]{#_Toc343004520 .pcalibre2 .pcalibre1}[]{#_Toc343002155 .pcalibre2 .pcalibre1}[]{#_Toc342999790 .pcalibre2 .pcalibre1}[]{#_Toc342997425 .pcalibre2 .pcalibre1}[]{#_Toc342995060 .pcalibre2 .pcalibre1}[]{#_Toc342992695 .pcalibre2 .pcalibre1}[]{#_Toc342990330 .pcalibre2 .pcalibre1}[]{#_Toc342987965 .pcalibre2 .pcalibre1}[]{#_Toc342985598 .pcalibre2 .pcalibre1}[]{#_Toc342983233 .pcalibre2 .pcalibre1}[]{#_Toc342980868 .pcalibre2 .pcalibre1}[]{#_Toc342978503 .pcalibre2 .pcalibre1}[[Chapitre 8 -- Le coup du révérent Hunter]{lang="X-NONE"}]{#_Toc342942522 .pcalibre2 .pcalibre1} {#chapitre-8-le-coup-du-révérent-hunter .calibre171 .sigil_not_in_toc}
+
+Si quelqu\'un paraissait moins indiqué que personne pour la quarante-septième case, État de Pennsylvanie, pour Philadelphie, la principale cité de l\'État, la plus importante de l\'Union, après Chicago et New York, c\'était assurément ce Tom Crabbe, brute de nature et boxeur de son métier.
+
+Mais le sort n\'en fait jamais d\'autres, dit l\'adage populaire, et au lieu de Max Réal, d\'Harris T. Kymbale, de Lissy Wag, si capables d\'admirer les magnificences de cette métropole, c\'était cet être stupide qu\'il y envoyait en compagnie de son entraîneur John Milner. Jamais le défunt membre de l\'*Excentric* *Club* n\'aurait prévu cela.
+
+On n\'y pouvait rien, d\'ailleurs. Les dés avaient parlé dès les premières heures du 31 mai. Le point de douze par six et six s\'était lancé sur le fil télégraphique entre Chicago et Cincinnati. Aussi le deuxième partenaire prit-il ses mesures pour quitter immédiatement l\'ancienne Porcopolis.
+
+« Oui ! Porcopolis ! s\'écria en partant et avec l\'accent du plus profond mépris John Milner. Comment, le jour où le célèbre Tom Crabbe l\'honorait de sa présence, c\'est à ce dégoûtant concours de bestiaux que s\'est portée en foule sa population !... C\'est à ce porc qu\'est allée toute l\'attention publique et il n\'y a pas eu un seul hurrah pour le Champion du Nouveau-Monde !... Eh bien, empochons le gros sac d\'Hypperbone, et je saurai nous venger. »
+
+De quelle façon pourrait s\'exercer cette vengeance, John Milner eût été sans doute fort embarrassé de s\'en expliquer. Au surplus, avant tout, il s\'agissait de gagner la partie. C\'est pourquoi Tom Crabbe, se conformant aux indications du télégramme reçu dans la matinée, n\'avait qu\'à sauter dans le train pour Philadelphie.
+
+Ce n\'est pas qu\'il n\'eût dix fois le temps de faire ce voyage. Les états d\'Ohio et de Pennsylvanie sont limitrophes. Dès qu\'on a franchi la frontière orientale de l\'un, on est sur le territoire de l\'autre. Entre les deux métropoles, à peine six cents milles, et il existe plusieurs lignes de voies ferrées à la disposition des voyageurs. Vingt heures suffiraient à ce trajet.
+
+Voilà de ces bonnes fortunes qui n\'arriveraient pas au commodore Urrican, et que, d\'ailleurs, n\'eussent enviées ni le jeune peintre, ni le reporter de la *Tribune*, en quête de longs déplacements.
+
+Mais John Milner ne décolérait pas, John Milner entendait ne pas demeurer un jour de plus dans cette cité trop friande des curiosités phénoménales de la race porcine. Oui ! Quand il mettrait le pied sur la plate-forme du train, ce ne serait pas sans avoir dédaigneusement secoué la poussière de ses sandales. Et, en effet, personne ne s\'était inquiété de la présence de Tom Crabbe à Cincinnati, personne n\'était venu l\'interviewer à son hôtel du faubourg de Covington, les parieurs n\'avaient point afflué comme ceux d\'Austin du Texas, et la salle du Post Office fut déserte le jour où il s\'y présenta pour recevoir la dépêche adressée par maître Tornbrock !... Toutefois, grâce à son point de douze, Tom Crabbe devançait de trois cases Max Réal, et d\'une case l\'homme masqué lui-même.
+
+John Milner, blessé dans son amour-propre, outré de l\'attitude de la population cincinnatienne, furieux d\'une telle indifférence, quitta l\'hôtel à midi trente-sept, et suivi de Tom Crabbe, qui venait d\'achever son deuxième repas, il se rendit à la gare. Le train partit et, après avoir bifurqué à Columbus, il franchit la frontière orientale formée par le cours de l\'Ohio.
+
+Cet État de Pennsylvanie doit son nom à l\'illustre quaker anglais William Penn, qui, vers la fin du dix-septième siècle, devint acquéreur de vastes terrains situés sur les bords du Delaware. Voici dans quelles circonstances :
+
+William Penn était créancier de l\'Angleterre pour une grosse somme qu\'on désirait ne point lui rembourser. Aussi, Charles II lui offrit-il en échange une portion des territoires que le Royaume-Uni possédait en cette partie de l\'Amérique. Le quaker accepta, et, quelque temps après, en 1681, il jetait les premiers fondements de Philadelphie. Or, à cette époque, comme le sol était couvert d\'immenses forêts, il parut tout naturel de l\'appeler Sylvania, en y ajoutant le nom patronymique de William Penn. D\'où Pennsylvania.
+
+Cette histoire, Harris T. Kymbale l\'eût certainement racontée avec bien d\'autres anecdotes concernant le pays, et, au vif plaisir des lecteurs de la *Tribune*, si le sort lui eût attribué quinze jours de villégiature dans la région pennsylvanienne. De quelle plume alerte et souple il aurait décrit ce territoire assez semblable à celui de l\'Ohio, que la chaîne des Alleghanys accidente pittoresquement du sud-est au nord-ouest, en déterminant la ligne de partage des eaux ! Il en aurait fait ressortir l\'aspect général, que justifie encore la seconde moitié de son nom, vastes bois de chênes, de hêtres, de châtaigniers, de noyers, d\'ormes, de frênes, d\'érables, marais hérissés de sassafras, pâturages où se nourrit un nombreux bétail, où s\'élèvent des chevaux de belle race que la bicyclette finira par disperser un jour comme ceux de l\'Oregon ou du Kansas. Il eût célébré en phrases sonores et spirituelles ces champs spacieux où le mûrier prospère à l\'avantage des sériciculteurs, et aussi des vignobles d\'un rendement fructueux. Car, si la Pennsylvanie est particulièrement froide en hiver et plus que ne le comporte sa latitude, du moins subit-elle pendant l\'été des chaleurs tropicales. Enfin, il eût parlé, avec chiffres à l\'appui, de ce sol si riche en houille, en anthracite, en minerais de fer, en sources de pétrole et de gaz naturel, et si généreux, si inépuisable, qu\'il donne un nombre de tonnes d\'acier et de fer supérieur à la production du reste des États-Unis. Peut-être même l\'enthousiaste reporter aurait-il raconté ses chasses à l\'élan wolverene, au daim, au chat sauvage, au loup, au renard, et à l\'ours brun qui fréquentent les vastes forêts de l\'État, puisqu\'il était grand amateur des prouesses cynégétiques.
+
+Inutile d\'ajouter, n\'est-il pas vrai, que les principales cités pennsylvaniennes auraient reçu la visite d\'Harris T. Kymbale, qu\'il aurait été y chercher -- ce dont il ne faisait aucunement fi -- le bruyant accueil, les applaudissements réservés à l\'un des favoris de la course excentrique. On l\'aurait vu aux deux villes groupées d\'Alleghany et de Pittsburg, où son concurrent Max Réal venait de passer pour se rendre à Richmond. Il aurait affecté une partie de son temps à cette capitale de l\'État, Harrisburg, dont les quatre ponts sont jetés d\'une rive à l\'autre de la Susquehanna, sortie du flanc des Blue Mountains, et que les usines métallurgiques bordent sur une étendue de plusieurs milles. Assurément, il se fût transporté au célèbre cimetière de Gettygsburg, théâtre des luttes de la guerre de Sécession, où tombèrent, en 1863, les soldats de l\'armée confédérée, le jour même où le Mississippi s\'ouvrait au général Grant par la reddition de la forteresse de Wicksburg. C\'eût été, d\'ailleurs, en compagnie des nombreux pèlerins du Sud comme du Nord, qui viennent annuellement honorer les morts couchés sous ces rangées de pierre dont est semée la sanglante nécropole. Bref, ce territoire possédait encore bien d\'autres villes très prospères, Scrauton, Reading, Érié sur le lac de ce nom, Lancaster, Altoona, Wilkesbarre, dont la population dépasse trente mille âmes. Enfin, le chroniqueur en chef du grand journal chicagois eût-il négligé de se rendre près de la vallée du Leigth, à ce Mont-Ours, haut de cent toises, que le premier railway desservit dès l\'année 1827, et voisin d\'une mine d\'anthracite qui brûle depuis un demi-siècle.
+
+Il faut dire également que, si dédaigneux qu\'il fût des régions industrielles, Max Réal eût rencontré sur les territoires pennsylvaniens plus d\'un beau site qui aurait certainement tenté son pinceau, des paysages variés et pittoresques au versant des Alleghanys, et dans les vallées du massif des Appalaches.
+
+Mais ni le premier ni le quatrième partenaire n\'avaient été envoyés à la quarante-septième case, et ce sera un éternel regret pour la postérité.
+
+On le pense bien, rien à attendre de Tom Crabbe, ou pour mieux dire de John Milner. Son héros était à destination de Philadelphie, il irait à Philadelphie, nulle part ailleurs. Et, cette fois, l\'attention publique ne se détournerait pas de lui. Il y reviendrait l\'homme du jour. Au besoin, John Milner saurait le remettre en lumière, et forcer la grande ville à s\'occuper d\'un personnage qui tenait une place si considérable dans le monde pugiliste du Nord-Amérique.
+
+Ce fut vers dix heures du soir, le 31 mai, que Tom Crabbe fit son entrée dans la « Ville de l\'Amour Fraternel », où son entraîneur et lui passèrent incognito leur première nuit.
+
+Le lendemain, John Milner voulut voir d\'où venait le vent. Soufflait-il du bon côté, et avait-il apporté le nom de l\'illustre boxeur jusqu\'aux rives du Delaware ?... Selon son habitude, John Milner avait laissé Tom Crabbe à l\'hôtel, après avoir pris les mesures nécessaires au sujet de ses deux déjeuners du matin.
+
+Cette fois, encore, comme à Cincinnati, il n\'avait point inscrit leurs noms et qualités sur le livre des voyageurs. Une promenade à travers la cité lui paraissait indiquée. Puisque le résultat du dernier tirage y devait être connu depuis la veille, il saurait si la population se préoccupait de l\'arrivée de Tom Crabbe.
+
+Lorsqu\'il s\'agit de parcourir une ville de troisième ou quatrième ordre, d\'étendue restreinte, cela peut se faire en quelques heures. Mais il n\'en va pas ainsi pour une agglomération urbaine, qui, en y comprenant ses annexes de Manaynak et de Germanstown, de Camden et de Gloucester, ne compte pas moins de deux cent mille maisons et de onze cent mille âmes. Dans sa disposition oblique du nord-est au sud-ouest en suivant le cours du Delaware, Philadelphie se développe sur une longueur de six lieues, et sa superficie est bien près d\'égaler celle de Londres. Cela tient surtout à ce que, en très grand nombre, les Philadelphiens habitent chacun sa maison, que les énormes bâtisses avec des centaines de locataires, comme à Chicago ou à New York, y sont rares. C\'est la cité du « home » par excellence.
+
+En réalité, cette métropole est immense, superbe aussi, ouverte, aérée, régulièrement construite avec certaines rues larges d\'une centaine de pieds. Elle possède des maisons sur les façades desquelles alternent les briques et le marbre, de frais ombrages conservés depuis l\'époque sylvanienne du territoire, des jardins luxueusement entretenus, des squares, des parcs, et le plus vaste de tous ceux des États-Unis, Fairmount Park, un morceau de campagne de douze cents hectares qui borde le Schnylkill, et dont les ravins ont gardé leur sauvage aspect.
+
+Dans tous les cas, pendant cette première journée, John Milner ne put visiter que la partie de la ville située sur la rive droite du Delaware, et il remonta vers le quartier de l\'ouest on suivant le Schnylkill, un affluent du fleuve, qui coule du nord-ouest au sud-est. De l\'autre côté du Delaware s\'étend New Jersey, l\'un des petits états de l\'Union, et auquel appartiennent ces annexes de Camden et de Gloucester, qui, faute de ponts, ne communiquent que par les ferry-boats avec la métropole.
+
+Ce ne fut donc pas ce jour-là que John Milner traversa le centre de la cité d\'où rayonnent les principales artères, autour de l\'Hôtel de Ville, vaste édifice de marbre blanc, bâti à coups de millions, et dont la tour, lorsqu\'elle sera achevée, portera à près de six cents pieds dans les airs l\'énorme statue de William Penn.
+
+Au surplus, si, pendant son séjour à Philadelphie, John Milner ne pouvait faire autrement que d\'apercevoir les monuments de la ville, jamais la pensée de les visiter ne devait lui venir, ni l\'arsenal et les chantiers de construction situés dans la League Island, une île du Delaware, ni la Douane construite en marbre alleghanyen, ni l\'Hôtel des Monnaies, où se frappent encore toutes les pièces de la République fédérale, ni l\'Hôpital de la Marine, ni le Musée historique installé dans Independence Hall, où fut signée la déclaration de 1776, ni le Grand Collège, d\'architecture corinthienne, où sont élevés des centaines d\'orphelins, ni les bâtiments universitaires, ni ceux de l\'Académie des Sciences naturelles et leurs précieuses collections, ni l\'Observatoire, ni le Jardin botanique, l\'un des plus beaux et des plus riches de l\'Union, ni enfin aucune des deux cent soixante églises, aucun des six temples quakériens de cette ancienne et célèbre capitale des États-Unis d\'Amérique.
+
+Après tout, John Milner n\'était pas venu pour voir Philadelphie. On n\'attendait pas de lui comme de Max Réal ou de Harris T. Kymbale des tableaux ou des articles. Il avait pour mission de conduire Tom Crabbe là où le dernier tirage l\'obligeait à se rendre. Mais il entendait bien faire de ce voyage une réclame au profit dudit Tom Crabbe, en cas que, faute de gagner les soixante millions de dollars, il serait obligé de continuer son métier.
+
+Du reste, les amateurs de ce genre de sport ne devaient pas manquer à Philadelphie, où abondent les ouvriers par centaines de mille dans les mines métallurgiques, dans les ateliers de construction de machines, dans les raffineries, dans les fabriques de produits chimiques, dans les tissages de tapis et d\'étoffes, -- plus de six mille manufactures de toutes sortes, -- et aussi les ouvriers du port, où se font les expéditions de charbons, de pétrole, de grains, d\'objets ouvrés, et dont le mouvement commercial n\'est dépassé que par celui de New York.
+
+Oui, Tom Crabbe ne pouvait qu\'être estimé à sa juste valeur en ce monde où les qualités physiques priment les qualités intellectuelles. Et, d\'ailleurs, même en d\'autres classes, dites supérieures, combien de gentlemen se rencontrent qui savent apprécier un coup de poing appliqué en pleine figure et la démantibulation d\'une mâchoire suivant les règles de l\'art !
+
+À tout prendre, ce que John Milner constata, non sans une réelle satisfaction, c\'est que le marché de Market Street de Philadelphie, qui passe pour être le plus grand des cinq parties du monde, n\'était pas alors affecté à quelque concours régional de bestiaux. Donc, de ce chef, son compagnon n\'aurait aucun rival à redouter comme dans cet abominable Spring Grove de Cincinnati, et le Pavillon Indigo ne s\'abaisserait pas, cette fois, devant la majesté d\'un porc phénoménal.
+
+D\'ailleurs John Milner fut, dès le début, rassuré à ce sujet. Les journaux de Philadelphie avaient annoncé à grand fracas d\'articles que l\'État de Pennsylvanie devait attendre la prochaine arrivée du deuxième partenaire dans les quinze jours compris entre le 31 mai et le 14 juin. Les agences de paris s\'en étaient mêlées. Les courtiers avaient chauffé le monde des joueurs en faveur de Tom Crabbe, établissant qu\'il avait l\'avance sur tous ses concurrents, calculant qu\'il lui suffisait de deux coups heureux pour atteindre le but... etc., etc...
+
+Et, lorsque le lendemain, Tom Crabbe, à travers les rues les plus fréquentées de la ville, fut promené par son entraîneur, combien il aurait eu lieu d\'être satisfait, s\'il avait su lire !
+
+Partout des affiches gigantesques, dans le genre, il est vrai, de celles qui concernaient le porc de Cincinnati, -- avec le nom du deuxième partenaire en lettres d\'un pied de haut, et des points d\'exclamation l\'escortant comme une garde d\'honneur, sans parler des prospectus distribués par les vociférants courtiers des agences !
+
+[TOM CRABBE ! TOM CRABBE ! ! TOM CRABBE ! ! !]{lang="FRE"}
+
+*L\'illustre* *Tom* *Crabbe*, *Champion* *du* *Nouveau*-*Monde* ! ! !
+
+*Le* *grand* *favori* *du* *match* *Hypperbone* ! ! !
+
+*Tom* *Crabbe* *qui* *a* *battu* *Fitzsimons* *et* *Corbett* !
+
+*Tom* *Crabbe* *qui* *bat* *Réal*, *Kymbale*, *Titbury*, *Lissy* *Wag*, *Hodge* *Urrican* *et* *X* *K* *Z* ! ! !
+
+*Tom* *Crabbe* *qui* *tient* *la* *tête* ! ! !
+
+*Tom* *Crabbe* *qui* *n\'est* *plus* *qu\'à* *seize* *cases* *du* *but* ! ! !
+
+*Tom* *Crabbe* *qui* *va* *planter* *le* *pavillon* *indigo* *sur* *les* *hauteurs* *de* *l\'Illinois* ! ! !
+
+*Tom* *Crabbe* *est* *dans* *nos* *murs* ! ! ! *Hurrah* ! *Hurrah* ! ! *Hurrah* *pour* *Tom* *Crabbe* ! ! ! !
+
+Il va de soi que d\'autres agences, qui ne faisaient pas du deuxième partenaire leur favori, ripostaient par d\'autres affiches non moins fourmillantes de points d\'exclamation, opposant surtout à ses couleurs celles de Max Réal et de Harris T. Kymbale. Hélas ! Les autres partenaires, Lissy Wag, le Commodore et Hermann Titbury, étaient déjà considérés comme hors de concours.
+
+On comprendra donc quel sentiment de fierté dut éprouver John Milner, lorsqu\'il exhiba son triomphant sujet à travers les rues de Philadelphie, les principales places, les squares, à Fairmount Park, et aussi au marché de Market Street !... Quelle revanche des déboires de Cincinnati !... Quel gage de succès final !...
+
+Cependant, le 7, au milieu de cette joie délirante, John Milner eut un serrement de coeur, provoqué par l\'incident très inattendu que voici. Ce fut le coup d\'épingle qui risque de dégonfler le ballon prêt à s\'enlever dans les airs.
+
+Une affiche non moins colossale venait d\'être apposée par un rival, sinon un concurrent du match Hypperbone.
+
+CAVANAUGH CONTRE CRABBE !
+
+Qui était ce Cavanaugh ?... Oh ! On le connaissait bien dans la métropole. C\'était un boxeur de grand renom, qui, trois mois avant, avait été vaincu dans une lutte mémorable contre Tom Crabbe en personne, sans avoir pu jusqu\'ici obtenir sa revanche, malgré les réclamations les plus instantes. Aussi, puisque Tom Crabbe se trouvait à Philadelphie, ces mots s\'étalaient-ils sur l\'affiche à la suite du nom de Cavanaugh :
+
+DÉFI POUR LE CHAMPIONNAT !
+
+DÉFI ! !
+
+DÉFI ! ! !
+
+On l\'avouera, Tom Crabbe avait autre chose à faire que de répondre à cette provocation : c\'était d\'attendre tranquillement dans un confortable *farniente* la date du prochain tirage. Mais Cavanaugh, ou plutôt ceux qui le lançaient dans les jambes du Champion du Nouveau-Monde -- ne l\'entendaient pas de cette façon. Qui sait même si ce n\'était pas le coup de quelque agence rivale qui méditait d\'arrêter en route le plus avancé des partenaires ?...
+
+John Milner aurait dû se contenter de hausser les épaules. Les partisans de Tom Crabbe intervinrent même pour lui dire de dédaigner ces défis un peu trop intéressés.
+
+
+Bref, de tout cela, après de nouvelles affiches plus provocantes encore et qui n\'allaient à rien moins qu\'à entacher l\'honneur du Champion du Nouveau-Monde, on put lire dès le lendemain sur tous les murs de Philadelphie :
+
+RÉPONSE AU DÉFI !
+
+CRABBE CONTRE CAVANAUGH ! !
+
+Qu\'on juge de l\'effet !
+
+Quoi ! Tom Crabbe acceptait la lutte ! Tom Crabbe en tête des « Sept » allait risquer sa situation dans une revanche de pugilat !... Oubliait-il donc en quelle partie il était engagé, -- et nombre de parieurs à sa suite ?... Eh bien, oui !... D\'ailleurs, se disait avec assez de raison John Milner, ce n\'étaient pas une mâchoire fracassée ou un oeil exorbité qui empêcheraient Tom Crabbe de se remettre en route et de faire bonne figure dans le match Hypperbone !
+
+Donc la revanche aurait lieu, et mieux valait que ce fût plus tôt que plus tard.
+
+Or il arriva ceci : c\'est que, comme les combats de ce genre sont interdits, même en Amérique, la police philadelphienne fit défense aux deux héros de se rencontrer sous peine de prison et d\'amende. Il est vrai, d\'être détenu dans ce Penitentiary Western, où les prisonniers sont astreints à apprendre un instrument et à en jouer toute la journée, -- et quel charivarique concert dans lequel le lamentable accordéon domine ! -- cela ne constitue pas une peine bien sévère ! Mais la détention, c\'était l\'impossibilité de repartir au jour indiqué, c\'était s\'exposer à ces retards dont Hermann Titbury avait failli être victime au Maine...
+
+Restait peut-être un moyen de procéder sans avoir à craindre l\'intervention du shérif. En effet, ne suffirait-il pas de se transporter dans une petite localité voisine, de tenir secrets le lieu et l\'heure de la rencontre, de vider enfin hors de Philadelphie cette grande question de championnat ?...
+
+C\'est ce qui allait être fait. Seuls, les témoins des deux boxeurs et quelques amateurs de haute respectabilité furent mis au courant des dispositions prises.
+
+Les choses se passeraient pour ainsi dire entre professionnels, et lorsqu\'on serait de retour, les autorités métropolitaines n\'auraient point à s\'occuper de cette affaire. Ce n\'en était pas moins fort imprudent, on en conviendra... Que voulez-vous ! Quand les amours-propres sont en jeu...
+
+Les pourparlers achevés, comme les provocations par affiches ne se renouvelèrent pas, comme le bruit se répandit même que la revanche était remise après l\'issue du match, on put croire que le combat n\'aurait pas lieu.
+
+Et pourtant, le 9, vers huit heures du matin, dans la petite bourgade d\'Arondale, à une trentaine de milles de Philadelphie, un certain nombre de gentlemen se trouvèrent réunis à l\'intérieur d\'une salle, secrètement louée pour cette cérémonie.
+
+Des photographes et des cinématographistes les accompagnaient, afin de conserver à la postérité toutes les phases d\'une si palpitante lutte.
+
+Parmi les personnages figuraient Tom Crabbe, bien en forme, prêt à détendre ses formidables bras dans la direction de son adversaire à hauteur de tête, Cavanaugh, moins haut de taille, mais aussi large d\'épaules et d\'une vigueur exceptionnelle, -- deux lutteurs capables d\'aller jusqu\'à vingt ou trente « rounds », c\'est-à-dire vingt ou trente reprises de boxe.
+
+Le premier était assisté de John Milner, le second de son entraîneur particulier. Amateurs et professionnels les entouraient, avides de juger les passes et contrepasses de ces deux machines de la force de quatre poings.
+
+Mais à peine les bras sont-ils en position, qu\'on voit apparaître le shérif d\'Arondale, Vincent Bruck, accompagné du clergyman Hugh Hunter, ministre méthodiste de la paroisse, grand vendeur de Bibles, à la fois antiseptiques et antisceptiques. Prévenus par une indiscrétion, tous deux accouraient sur le champ clos pour empêcher cette rencontre immorale et dégradante, l\'un au nom des lois pennsylvaniennes, l\'autre au nom des lois divines.
+
+On ne s\'étonnera pas s\'ils furent fort mal reçus, et par les deux champions, et par leurs témoins, et par les spectateurs, très friands de ce genre de sport sur lequel ils avaient même engagé des paris considérables.
+
+Le shérif et le clergyman voulurent parler, on refusa de les entendre. Ils voulurent séparer les combattants, on leur résista. Or, à deux, que pouvaient-ils contre des gens râblés et musclés, assez vigoureux, semblait-il, pour les envoyer d\'un revers de main rouler à vingt pieds de là ?...
+
+Sans doute, les deux intervenants avaient pour eux leur caractère sacré. Ils représentaient les autorités terrestre et céleste, mais il leur manquait le concours de la police, qui lui vient en aide d\'habitude.
+
+Et, au moment où Tom Crabbe et Cavanaugh allaient se mettre sur l\'offensive et la défensive :
+
+« Arrêtez... s\'écria Vincent Bruck.
+
+--- Ou prenez garde !... » s\'écria le révérend Hugh Hunter.
+
+Rien n\'y fit, et plusieurs coups de poing furent lancés, qui se perdirent dans le vide, grâce à une opportune retraite des deux adversaires.
+
+Alors eut lieu une scène digne de provoquer la surprise, puis l\'admiration de ceux qui en furent les témoins.
+
+Ni le shérif ni le clergyman n\'étaient de haute taille non plus que de large encolure, -- des homme maigres et moyens. Toutefois, ce qu\'ils n\'avaient pas en vigueur, ils l\'avaient -- on va le voir -- en souplesse, adresse et agilité.
+
+En un instant, Vincent Bruck et Hugh Hunter furent sur les deux boxeurs. John Milner, ayant essayé de retenir le clergyman au passage, en reçut une maîtresse gifle qui l\'étendit sur le sol où il resta à demi pâmé.
+
+Une seconde après, Cavanaugh était gratifié d\'un coup de poing que le shérif lui administra sur l\'oeil gauche, tandis que le révérend écrasait l\'oeil droit de Tom Crabbe.
+
+Les deux professionnels voulurent assommer les assaillants. Mais ceux-ci, évitant leur attaque, sautant, cabriolant avec une prestesse de singes, esquivèrent à merveille les plus violentes ripostes.
+
+Et, à partir de ce moment, -- ce qui ne saurait surprendre, puisque cela se passait au milieu d\'un groupe de connaisseurs -- c\'est à Vincent Bruck et à Hugh Hunter qu\'allèrent les applaudissements, les hurrahs, les hips.
+
+Bref, le méthodiste se montra si particulièrement méthodique dans sa manière d\'opérer selon toutes les règles de l\'art, qu\'après avoir fait de Tom Crabbe un borgne, il en fit un aveugle en lui plaquant l\'oeil gauche au fond de l\'orbite.
+
+Enfin, quelques policemen apparaissant, le mieux était de décamper au plus vite, et c\'est ce qui fut fait.
+
+Ainsi se termina ce mémorable combat à l\'avantage et aussi à l\'honneur d\'un shérif et d\'un clergyman, lesquels avaient combattu pour la loi et pour la religion.
+
+Quant à John Milner, une joue gonflée, un oeil frit, il ramena Tom Crabbe à Philadelphie, où tous deux, confinés dans une chambre d\'hôtel cachèrent leur honte, en attendant l\'arrivée de la prochaine dépêche.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185596 .pcalibre2 .pcalibre1}[]{#_Toc343183135 .pcalibre2 .pcalibre1}[]{#_Toc343180674 .pcalibre2 .pcalibre1}[]{#_Toc343178213 .pcalibre2 .pcalibre1}[]{#_Toc343175752 .pcalibre2 .pcalibre1}[]{#_Toc343173291 .pcalibre2 .pcalibre1}[]{#_Toc343170830 .pcalibre2 .pcalibre1}[]{#_Toc343168369 .pcalibre2 .pcalibre1}[]{#_Toc343165908 .pcalibre2 .pcalibre1}[]{#_Toc343163447 .pcalibre2 .pcalibre1}[]{#_Toc343160986 .pcalibre2 .pcalibre1}[]{#_Toc343158525 .pcalibre2 .pcalibre1}[]{#_Toc343149255 .pcalibre2 .pcalibre1}[]{#_Toc343146794 .pcalibre2 .pcalibre1}[]{#_Toc343144331 .pcalibre2 .pcalibre1}[]{#_Toc343141870 .pcalibre2 .pcalibre1}[]{#_Toc343139409 .pcalibre2 .pcalibre1}[]{#_Toc343136947 .pcalibre2 .pcalibre1}[]{#_Toc343134486 .pcalibre2 .pcalibre1}[]{#_Toc343132025 .pcalibre2 .pcalibre1}[]{#_Toc343129563 .pcalibre2 .pcalibre1}[]{#_Toc343127102 .pcalibre2 .pcalibre1}[]{#_Toc343124638 .pcalibre2 .pcalibre1}[]{#_Toc343122177 .pcalibre2 .pcalibre1}[]{#_Toc343119716 .pcalibre2 .pcalibre1}[]{#_Toc343117262 .pcalibre2 .pcalibre1}[]{#_Toc343114799 .pcalibre2 .pcalibre1}[]{#_Toc343112338 .pcalibre2 .pcalibre1}[]{#_Toc343109877 .pcalibre2 .pcalibre1}[]{#_Toc343106133 .pcalibre2 .pcalibre1}[]{#_Toc343103671 .pcalibre2 .pcalibre1}[]{#_Toc343101208 .pcalibre2 .pcalibre1}[]{#_Toc343098783 .pcalibre2 .pcalibre1}[]{#_Toc343096314 .pcalibre2 .pcalibre1}[]{#_Toc343093852 .pcalibre2 .pcalibre1}[]{#_Toc343091374 .pcalibre2 .pcalibre1}[]{#_Toc343088911 .pcalibre2 .pcalibre1}[]{#_Toc343086449 .pcalibre2 .pcalibre1}[]{#_Toc343083986 .pcalibre2 .pcalibre1}[]{#_Toc343081524 .pcalibre2 .pcalibre1}[]{#_Toc343079063 .pcalibre2 .pcalibre1}[]{#_Toc343076600 .pcalibre2 .pcalibre1}[]{#_Toc343074137 .pcalibre2 .pcalibre1}[]{#_Toc343071671 .pcalibre2 .pcalibre1}[]{#_Toc343043711 .pcalibre2 .pcalibre1}[]{#_Toc343038826 .pcalibre2 .pcalibre1}[]{#_Toc343036461 .pcalibre2 .pcalibre1}[]{#_Toc343034096 .pcalibre2 .pcalibre1}[]{#_Toc343031731 .pcalibre2 .pcalibre1}[]{#_Toc343028175 .pcalibre2 .pcalibre1}[]{#_Toc343025810 .pcalibre2 .pcalibre1}[]{#_Toc343023445 .pcalibre2 .pcalibre1}[]{#_Toc343021079 .pcalibre2 .pcalibre1}[]{#_Toc343018713 .pcalibre2 .pcalibre1}[]{#_Toc343016348 .pcalibre2 .pcalibre1}[]{#_Toc343013983 .pcalibre2 .pcalibre1}[]{#_Toc343011616 .pcalibre2 .pcalibre1}[]{#_Toc343009251 .pcalibre2 .pcalibre1}[]{#_Toc343006886 .pcalibre2 .pcalibre1}[]{#_Toc343004521 .pcalibre2 .pcalibre1}[]{#_Toc343002156 .pcalibre2 .pcalibre1}[]{#_Toc342999791 .pcalibre2 .pcalibre1}[]{#_Toc342997426 .pcalibre2 .pcalibre1}[]{#_Toc342995061 .pcalibre2 .pcalibre1}[]{#_Toc342992696 .pcalibre2 .pcalibre1}[]{#_Toc342990331 .pcalibre2 .pcalibre1}[]{#_Toc342987966 .pcalibre2 .pcalibre1}[]{#_Toc342985599 .pcalibre2 .pcalibre1}[]{#_Toc342983234 .pcalibre2 .pcalibre1}[]{#_Toc342980869 .pcalibre2 .pcalibre1}[]{#_Toc342978504 .pcalibre2 .pcalibre1}[[Chapitre 9 -- Deux cents dollars par jour]{lang="X-NONE"}]{#_Toc342942523 .pcalibre2 .pcalibre1} {#chapitre-9-deux-cents-dollars-par-jour .calibre171 .sigil_not_in_toc}
+
+Un fétiche aux époux Titbury ?... Certes le besoin s\'en faisait sentir, et ne fût-ce que le bout de la corde qui aurait servi à pendre ce brigand de Bill Arrol, il serait le bien venu. Or, ainsi que l\'avait déclaré le magistrat de Great Salt Lake City, il fallait le prendre pour le pendre, et il ne semblait pas qu\'il dût l\'être de sitôt.
+
+Certes, ce fétiche, qui eût assuré à Hermann Titbury le gain de la partie, n\'aurait pas été payé trop cher au prix des trois mille dollars qui lui avaient été volés à *Cheap* *Hotel*. Mais, en attendant, le Pavillon Bleu ne possédait plus un cent, et furieux et non moins désappointé des réponses ironiques du shérif, il quitta le poste de police pour rejoindre Mrs Titbury.
+
+« Eh bien, Hermann, lui demanda-t-elle, ce coquin, ce misérable Inglis ?...
+
+--- Il ne s\'appelle pas Inglis, répondit M. Titbury en tombant sur une chaise, il s\'appelle Bill Arrol...
+
+--- Est-il arrêté ?...
+
+--- Il le sera.
+
+--- Quand ?...
+
+--- Quand on aura pu mettre la main sur lui.
+
+--- Et notre argent ?... Nos trois mille...
+
+--- Je n\'en donnerais pas un demi-dollar ! »
+
+Mrs Titbury s\'écroula à son tour sur un fauteuil, -- en ruines. Cependant, comme cette maîtresse femme avait la réaction prompte, elle se releva, et, lorsque son mari, au dernier degré de l\'accablement, lui dit :
+
+« Que faire ?...
+
+--- Attendre.
+
+--- Attendre... quoi ?... Que ce bandit d\'Arrol...
+
+--- Non... Hermann... attendre le télégramme de maître Tornbrock, qui ne tardera pas... Puis nous aviserons...
+
+--- Et de l\'argent ?...
+
+--- Nous avons le temps d\'en faire venir, quand bien même nous serions envoyés à l\'extrémité des États-Unis...
+
+--- Ce qui ne m\'étonnerait pas, avec la déveine qui ne nous épargne guère..
+
+--- Suis-moi, » répondit résolument Mrs Titbury.
+
+Et tous deux sortirent de l\'hôtel afin de se rendre au bureau du télégraphe.
+
+Toute la ville, on le comprend, avait été mise au courant des mésaventures du couple Titbury. Il est vrai, Great Salt Lake City ne semblait pas éprouver plus de sympathie pour eux que la bourgade de Calais d\'où ils arrivaient en droite ligne. Non seulement la sympathie faisait défaut, mais également la confiance. Qui eût jamais voulu tabler sur la chance de gens auxquels survenaient tant de choses désagréables... des malchanceux qui, après deux tirages, n\'étaient encore qu\'à la quatrième case... des retardataires sur lesquels leurs concurrents avaient une telle avance et dont les parieurs ne voulaient plus même à cinquante contre un ?...
+
+Si donc quelques personnes se trouvaient dans la salle du Post Office lorsque le couple y parut, c\'étaient uniquement des curieux, ou plutôt de mauvais plaisants, très disposés à rire du « bon dernier », locution par laquelle on désignait l\'infortuné Titbury.
+
+Mais des moqueries ne le touchaient point, Mrs Titbury pas davantage. Il leur importait peu d\'être bien ou mal cotés chez les agences, et qui sait s\'ils n\'allaient pas se relever par un superbe coup. En effet, en étudiant sa carte, Mrs Titbury avait calculé, que si les dés amenaient par exemple le point de dix, comme il faudrait le doubler sur la quatorzième case occupée par l\'Illinois, ce point les conduirait d\'un bond à la vingt-quatrième case, celle du Michigan, limitrophe de l\'Illinois, ce qui les ramènerait vers Chicago. Ce serait -- nul doute à cet égard -- le coup le plus avantageux qu\'ils pussent souhaiter... Se produirait-il ?...
+
+À neuf heures quarante-sept, avec une régularité automatique, le télégramme sortit de l\'appareil...
+
+Ce point était désastreux.
+
+On ne l\'a pas oublié, ce jour-là, 2 juin, Max Réal, alors près de sa mère à Chicago, l\'avait aussitôt connu, comme les jours suivants il devait connaître les autres points qui envoyaient Harris T. Kymbale au North Dakota. Lissy Wag au Missouri, et le commodore Urrican au Wisconsin.
+
+En somme, si déplorable qu\'il fût pour Hermann Titbury, il n\'en était pas moins très singulier, et il fallait être l\'objet d\'une infernale déveine pour qu\'il se fût produit.
+
+Qu\'on en juge, les dés avaient amené cinq par deux et trois, point qui de la quatrième case aboutissait à la neuvième. Or, la neuvième étant une case de l\'Illinois, il y avait lieu de le doubler, et la quatorzième étant encore illinoise, le tripler. Cela donnait en tout quinze points qui conduisaient à la dix-neuvième case, Louisiane, Nouvelle-Orléans, marquée comme hôtellerie sur la carte de William, T. Hypperbone.
+
+En vérité, impossible d\'être plus malheureux !
+
+M. et Mrs Titbury rentrèrent à l\'hôtel, au milieu des plaisanteries des assistants, avec la démarche de gens qui ont reçu un formidable coup de massue sur le crâne. Mais Mrs Titbury avait la tête plus solide que son mari, et ne resta pas, comme lui, assommée sur place.
+
+« À la Louisiane !... à la Nouvelle-Orléans !... répétait M. Titbury, en s\'arrachant les cheveux. Ah ! Pourquoi avons-nous été assez niais pour courir ainsi...
+
+--- Et nous courrons encore ! Déclara Mrs Titbury en se croisant les bras.
+
+--- Quoi... tu songes ?...
+
+--- À partir pour la Louisiane.
+
+--- Mais c\'est au moins treize cents milles à faire...
+
+--- Nous les ferons.
+
+--- Mais nous aurons à payer une prime de mille dollars...
+
+--- Nous la payerons.
+
+--- Mais nous aurons à rester deux coups sans jouer...
+
+--- Nous ne les jouerons pas.
+
+--- Mais il y aura une quarantaine de jours à passer dans cette ville où la vie est hors de prix, paraît-il...
+
+--- Nous les y passerons !
+
+--- Mais nous n\'avons plus d\'argent...
+
+--- Nous en ferons venir.
+
+--- Mais je ne veux pas...
+
+--- Et moi, je veux ! »
+
+On le voit, Kate Titbury avait réponse à tout. Il y avait certainement en elle un fond de vieille joueuse qui prenait le dessus. Et puis, le mirage des millions de dollars, lequel l\'attirait, la fascinait, l\'hypnotisait...
+
+Hermann Titbury n\'essaya pas de résister. Il en aurait été pour ses peines. À tout prendre, les conséquences qu\'il avait déduites de ce coup malencontreux n\'étaient que trop justes, -- un long et dispendieux voyage, la Confédération tout entière à traverser du nord-est au sud-ouest, la cherté de la vie dans cette opulente et ruineuse cité de la Nouvelle-Orléans, le temps qu\'il y faudrait séjourner, puisque la règle obligeait d\'attendre deux tirages avant d\'être autorisé à rentrer dans la partie... ainsi qu\'il le fit observer.
+
+« Peut-être, répondit Mrs Titbury, car le hasard peut y envoyer un de nos partenaires, et dans ce cas nous irions le remplacer...
+
+--- Et lesquels, s\'écria M. Titbury, puisqu\'ils sont tous en avant de nous ?...
+
+--- Et pourquoi ne seraient-ils pas obligés de rétrograder après avoir dépassé le but... et de recommencer la partie comme cet abominable Urrican ?... »
+
+Sans doute, le cas pouvait se produire. Il est vrai, le couple chicagois avait si peu de chances !
+
+« Et puis, ajouta M. Titbury, pour comble de malheur, voilà que nous n\'avons pas le droit de choisir l\'hôtel où il nous conviendrait de descendre ! »
+
+Effectivement, après les mots : case dix-neuvième, Louisiane, Nouvelle-Orléans, le malencontreux télégramme portait ceux-ci : *Excelsior* *Hotel*.
+
+Il n\'y avait pas à discuter. Que cet hôtel fût de premier ou de vingtième ordre, c\'était celui qu\'imposait la volonté de l\'impérieux défunt. » Nous irons à *Excelsior* *Hotel*, voilà tout ! » se contenta de répondre Mrs Titbury.
+
+Telle était cette femme aussi résolue qu\'avare. Mais ce qu\'elle devait souffrir en songeant aux pertes déjà subies, les trois cents dollars d\'amende, les trois mille dollars du vol, les dépenses effectuées jusqu\'à ce jour, celles qu\'imposait le présent, celles que réservait l\'avenir... Seulement, l\'héritage miroitait devant ses yeux au point de l\'aveugler.
+
+Il va sans dire que le temps ne ferait pas défaut au troisième partenaire pour se rendre à son poste, -- quarante-cinq jours. On était au 2 juin, et il suffirait que le pavillon vert fût déployé à la date du 15 juillet dans la métropole de la Louisiane. Toutefois, ainsi que l\'observa Mrs Titbury, un autre des « Sept » pouvait y être envoyé d\'un jour à l\'autre, d\'où nécessité de se trouver alors à la dix-neuvième case afin de lui céder la place. Donc, mieux valait ne point perdre son temps à Great Salt Lake City. Aussi fut-il décidé que les Titbury se mettraient en route dès que serait arrivé l\'argent demandé par télégramme à *Fint* *National* *Bank* de Chicago, Dearborn and Monroe Streets, où M. Titbury avait un compte courant.
+
+Cette opération ne prit que deux jours. Le 4 juin, dans la matinée, M. Titbury put toucher à la Banque de Great Salt Lake City cinq mille dollars qui, hélas ! Ne devaient plus produire d\'intérêt.
+
+Le 5 juin, M. et Mrs Titbury quittèrent Great Salt Lake City au milieu de l\'indifférence générale, et, par malheur, sans emporter le bout de corde qui lui aurait peut-être ramené la veine, si Bill Arrol eût été pendu.
+
+Ce fut l\'Union Pacific -- décidément très utilisé par les partenaires du match Hypperbone, -- qui les transporta à travers le Wyoming jusqu\'à Cheyenne, et à travers le Nebraska, jusqu\'à Omaha City.
+
+Là, par mesure d\'économie, les frais étant moins élevés en steamboat qu\'en railroad, les voyageurs gagnèrent par le Missouri la ville de Kansas, ainsi que l\'avait fait Max Réal lors de son premier déplacement ; puis de Kansas ils atteignirent Saint-Louis, où Lissy Wag et Jovita Foley ne tarderaient pas à prendre gîte afin d\'y purger leur temps de prison.
+
+Entrer dans les eaux du Mississippi en abandonnant celles du Missouri, qui est son principal tributaire, cela s\'effectua par un simple transbordement. Les bateaux à vapeur sont nombreux sur ces fleuves, et, à la condition de s\'accommoder de la dernière classe, on peut voyager à des prix très restreints. De plus, en se pourvoyant de comestibles à bon marché, faciles à renouveler aux escales, il est facile de diminuer encore les dépenses quotidiennes. Et c\'est bien ce que firent M. et Mrs Titbury, liardant le plus possible en prévision des futures notes d\'un séjour long peut-être à *Excelsior* *Hotel* de la Nouvelle-Orléans.
+
+Donc, le steamboat *Black*-*Warrior* reçut à son bord les deux époux qu\'il devait transporter à la métropole louisianaise. Il n\'y avait qu\'à suivre le cours du « Père des Eaux », entre les états de l\'Illinois, du Missouri, de l\'Arkansas, du Tennessee, du Mississippi et de la Louisiane, auxquels ce grand fleuve donne une frontière plus naturelle que ces degrés de longitude ou de latitude affectés à leurs autres limites géodésiques.
+
+Il n\'est pas étonnant que cette superbe artère, dont la longueur dépasse quatre mille cinq cents milles, ait reçu des dénominations successives, Misi Sipi, c\'est-à-dire Grande Eau en langue algonquine, puis Rio d\'El Spiritu Santo par les Espagnols, puis Colbert, au milieu du dix-septième siècle, par Cavelier de la Salle, puis Buade par l\'explorateur Joliet, et enfin qu\'elle soit devenue le Meschacebé sous la plume poétique de Chateaubriand.
+
+Du reste, cette série de noms, remplacés par celui de Mississippi, n\'a qu\'un intérêt purement géographique dont ne se préoccupaient guère les Titbury, -- pas plus que de l\'étendue de son bassin, bien qu\'il comprenne trois millions deux cent onze mille kilomètres carrés. L\'essentiel était qu\'il les conduisit économiquement là où ils devaient aller. Ce trajet, d\'ailleurs, n\'offrirait aucun obstacle. Ce qu\'on appelle le Mississippi industriel, déjà grossi de nombreux affluents, Minnesota, Cedar, Turkey, Iowa, Saint-Croix, Chippewa, Wisconsin, commence en amont de Saint-Louis, dans le Minnesota, en aval des retentissantes chutes de Saint-Antoine. C\'est à Saint-Louis même que sont jetés les deux derniers ponts qui mettent en communication sa rive droite et sa rive gauche, après un cours de douze cents milles.
+
+En suivant la frontière de l\'Illinois, le *Black*-*Warrior* longea de hautes falaises calcaires, élevées d\'une soixantaine de toises, d\'un côté les dernières ramifications des monts Ozark, de l\'autre les dernières collines de la campagne illinoise.
+
+L\'aspect changea complètement à partir de Cairo. Ce fut celui de l\'immense plaine alluviale, à travers laquelle l\'un des grands tributaires du Mississippi, l\'Ohio, lui verse des masses d\'eau considérables. Cependant, malgré cet apport et, au-dessous, ceux de l\'Arkansas et de la Rivière-Rouge, le débit du fleuve est moindre à la Nouvelle-Orléans qu\'à Saint-Louis, c\'est-à-dire à son embouchure sur le golfe du Mexique. Cela tient à ce que son trop-plein s\'écoule latéralement par les bayous avoisinant ses rives basses. C\'est ainsi qu\'est presque entièrement inondé le Sunk Country, le « Pays effondré », région spacieuse à l\'ouest du fleuve, creusée de lagunes, recouverte de marécages, sillonnée d\'eaux lentes ou stagnantes, et qui semble s\'être affaissée lors du tremblement de terre de 1812.
+
+Le *Black*-*Warrior*, adroitement et prudemment manoeuvré, se glissait entre de nombreuses îles peu stables, qui se déforment ou se déplacent, emportées au caprice des crues et des courants, ou créées en quelques mois par un barrage qui a retenu les sables et les terres. Aussi la navigation du Mississippi ne s\'accomplit-elle pas sans grandes difficultés, dont se tirent avec bonheur les habiles pilotes de la Louisiane.
+
+C\'est ainsi que les Titbury passèrent par Memphis, cette importante ville du Tennessee où les curieux avaient pu pendant quelques heures contempler Tom Crabbe pendant son premier voyage. Puis, ce fut Helena, sur une pente de colline, bourg qui deviendra ville sans doute, car les steamboats y font fréquemment escale. Puis, ce fut, sur la rive droite, l\'embouchure de l\'Arkansas laissée en arrière, une autre contrée de bayous et de marécages, au sol mobile, où disparut un jour le village de Napoléon. Puis, si le *Black*-*Warrior* ne fit pas halte à Vicksburg, l\'une des rares villes industrielles du Mississippi, c\'est que l\'infidèle fleuve, à la suite d\'une grande crue, s\'est détourné d\'elle quelques milles plus au sud. Toutefois, le steamboat stationna une heure à Natchez, dont le commerce emploie une batellerie nombreuse qui dessert toute la région. Le Mississippi devint alors plus capricieux, multipliant ses lacets, ses détours, ses méandres, revenant sur lui-même, si bien qu\'à regarder la carte, on dirait un grouillement d\'anguillules autour de la mère anguille. Ses rives incultes, de plus en plus basses, se confondant avec la plaine alluvionnaire, ne présentaient que des bancs de sable et des berges à grands roseaux, rongées par les courants. Enfin, à trois cents milles de la mer, le *Black*-*Warrior* dépassa l\'embouchure de la Rivière-Rouge, à l\'angle par lequel se touchent les deux États, près de Fort Adam, et pénétra sur le territoire de la Louisiane. Là, grondent et bouillonnent de tumultueux rapides, car la largeur du fleuve a toujours diminué jusqu\'à son delta depuis Cairo. Mais, comme l\'étiage des eaux atteignait alors sa hauteur moyenne, le *Black*-*Warrior* put les franchir sans trop de risques de s\'engraver.
+
+Après Natchez on ne trouve plus de villes de quelque importance avant la Nouvelle-Orléans, si ce n\'est Bâton-Rouge, et encore n\'est-ce à vrai dire qu\'une grosse bourgade de dix mille cinq cents habitants. Mais là est le siège de la législature de l\'État, la capitale parlementaire de la Louisiane, dont, comme tant d\'autres grandes cités de l\'Union, la Nouvelle-Orléans n\'est que la métropole. Bâton-Rouge est située d\'ailleurs dans une position agréable et salubre, ce qui n\'est point à dédaigner en des régions que ravagent trop souvent les épidémies de fièvre jaune. Enfin, après Donaldsonville, il n\'y eut plus que des hameaux, à vrai dire, une succession de villas, de cottages qui bordent les deux rives du grand fleuve américain jusqu\'à son contact avec la Nouvelle-Orléans.
+
+La Louisiane, que le premier Empire vendit vingt millions de francs aux Américains, ne tient que le trentième rang parmi les états de la République fédérale. Mais sa population, noire en majorité, dépasse onze cent mille âmes. Il a fallu la défendre contre les crues du Mississippi par de solides levées dans sa partie basse, où la fabrication du sucre est si considérable que, sous ce rapport, elle tient la tête de cette fabrication. Au nord-ouest, arrosées par la Rivière-Rouge et ses affluents, les terres plus élevées sont à l\'abri des inondations et se prêtent à toutes les exigences de l\'agriculture. La Louisiane produit aussi du fer, du charbon, de l\'ocre, du gypse ; les champs de cannes, les plantations d\'orangers, de citronniers, de limoniers y abondent ; elle possède encore de vastes forêts impénétrables, asile des ours, des panthères, des chats sauvages,La Nouvelle-Orléans reçut enfin le couple Titbury, le 9 juin au soir, après un voyage de sept jours depuis le départ de Great Salt Lake City. Entre temps, avaient été proclamés les tirages des 4, 6 et 8 juin, concernant Harris T. Kymbale, Lissy Wag et Hodge Urrican. Ils n\'étaient pas de nature à améliorer la situation d\'Hermann Titbury, puisqu\'ils ne lui envoyaient point un remplaçant à l\'hôtellerie de la dix-neuvième case.
+
+Ah ! S\'il n\'avait pas été dans l\'obligation de se rendre en cette ruineuse cité, d\'y séjourner six semaines, peut-être à sept jours de là les dés l\'auraient-ils gratifié d\'un nombre de points plus favorable, et il eût pu se mettre en ligne avec les plus avancés de ses partenaires !...
+
+Au sortir du débarcadère. M. et Mrs Titbury aperçurent une voiture superbement attelée, qui attendait sans doute quelques passagers du *Black*-*Warrior*. Eux n\'avaient qu\'à se rendre pédestrement, en faisant porter les bagages par un commissionnaire, à *Excelsior* *Hotel*. Aussi, que l\'on imagine leur surprise, -- surprise à laquelle se joignit un serrement de coeur, -- lorsque s\'approcha un valet de pied, nègre du plus beau noir, qui leur dit :
+
+« Mister et mistress Titbury, je pense ?...
+
+--- Eux-mêmes... », répondit M. Titbury.
+
+Allons ! Les journaux avaient dû annoncer leur départ de l\'Utah, leur passage à Omaha, leur navigation à bord du *Black*-*Warrior*, leur arrivée imminente à la Nouvelle-Orléans. Eux, qui espéraient bien ne pas être si attendus que cela, ne pourraient-ils donc échapper aux inconvénients toujours coûteux de la célébrité ?...
+
+« Et que nous voulez-vous ?... demanda M. Titbury d\'un ton rébarbatif.
+
+--- Cet équipage est à votre disposition.
+
+--- Nous n\'avons pas commandé d\'équipage...
+
+--- On ne va pas autrement à *Excelsior* *Hotel*, répondit le nègre du plus beau noir en s\'inclinant..
+
+--- Cela commence bien ! » murmura M. Titbury avec un gros soupir.
+
+Enfin, puisqu\'il n\'était pas d\'usage de se transporter d\'une façon plus simple à l\'hôtel désigné, le mieux était de monter dans ce superbe landau. Le couple y prit place, tandis qu\'un omnibus se chargeait de la valise et du sac. Arrivée à Canal Street, devant un bel édifice, un palais, à vrai dire, au fronton duquel brillaient ces mots *Excelsior* *Hotel* *Company*, *limited*, et dont le hall resplendissait de lumières, la voiture s\'arrêta, et le valet de pied se hâta d\'en ouvrir la portière.
+
+Du reste, les Titbury, très fatigués, très ahuris, se rendirent à peine compte de la cérémonieuse réception qui leur fut faite par le personnel de l\'hôtel. Un majordome, en habit noir, les conduisit à leur appartement. Absolument éblouis, les yeux hagards, ils ne virent rien des magnificences qui les entouraient et remirent au lendemain les réflexions que devait leur inspirer un si extraordinaire apparat.
+
+Le matin, après une nuit passée dans le calme de cette confortable chambre, protégée par de doubles fenêtres qui ne laissaient point s\'introduire les bruits de la rue, ils se réveillèrent sous la douce clarté d\'une veilleuse, alimentée aux sources de l\'électricité de l\'hôtel. Le cadran transparent d\'une pendule de grand prix marquait huit heures.
+
+À portée de la main, au chevet du vaste lit, où tous deux avaient si tranquillement reposé, une série de boutons n\'attendaient que la pression du doigt pour appeler la femme de chambre ou le valet de chambre. D\'autres boutons commandaient le bain, le premier déjeuner, les journaux du matin, et -- ce que devaient réclamer des voyageurs pressés de se lever -- la lumière du jour.
+
+C\'est sur ce bouton spécial que s\'appuya l\'index crochu de Mrs Titbury.
+
+Aussitôt les épais stores des fenêtres de remonter mécaniquement, les persiennes de se rabattre à l\'extérieur, les rayons du soleil de pénétrer à flots dans la chambre.
+
+M. et Mrs Titbury se regardèrent. Ils n\'osaient prononcer une seule parole, se demandant si chaque phrase n\'allait pas leur coûter une piastre le mot.
+
+Le luxe de la chambre était insensé, tout d\'une incomparable richesse, meubles, tentures, tapis, capitonnage des murs en soie brochée.
+
+Le couple se leva, passa dans un cabinet voisin, du plus étonnant confort : les toilettes avec leurs robinets d\'eau chaude, tiède ou froide à volonté, les pulvérisateurs prêts à lancer leurs gouttelettes parfumées, les savons aux couleurs et aux odeurs variées, les éponges d\'une douceur exceptionnelle, les serviettes d\'une blancheur de neige.
+
+Dès qu\'ils furent habillés, les Titbury s\'aventurèrent à travers les pièces contiguës, -- un appartement complet : la salle à manger dont la table étincelait d\'argenterie et de porcelaines, -- le salon de réception, mobilier d\'un luxe inouï, lustre, appliques, tableaux de maîtres, bronzes d\'art, rideaux de lampas frappé d\'or, -- le boudoir de madame, piano avec partitions, table avec romans en vogue, et albums de photographies louisianaises, -- le cabinet de monsieur, où s\'empilaient les revues américaines, les journaux les plus répandus de l\'Union, puis toute une papeterie de choix à l\'en-tête de l\'hôtel, et même une petite machine à écrire, dont le clavier était prêt à fonctionner sous le doigt du voyageur.
+
+« C\'est la caverne d\'Ali-Baba !... s\'écria Mrs Titbury absolument fascinée.
+
+--- Et les quarante voleurs ne sont pas loin, ajouta M. Titbury, et à tout le moins une centaine ! »
+
+À ce moment, ses yeux se portèrent sur une pancarte affichée dans un cadre doré, avec la nomenclature des divers services de l\'hôtel, l\'heure des repas pour ceux qui préféraient ne point se faire servir dans leurs appartements.
+
+Celui qui avait été attribué au quatrième partenaire était désigné sous le numéro 1, avec cette mention : *Réservé* *aux* *partenaires* *du* *match* *Hypperbone* *par* *Excelsior* *Hotel* *Company*. » Sonne, Hermann, » se contenta de dire Mrs Titbury.
+
+Le bouton pressé, un gentleman, habit noir et cravate blanche, se présenta à la porte du salon.
+
+Et, tout d\'abord, en termes choisis, il offrit aux deux époux les compliments de la Société d\'Excelsior *Hotel* et de son directeur, honorés d\'avoir pour hôte un des plus sympathiques tenants de la grande partie nationale. Puisqu\'il avait quelque temps à passer en Louisiane et plus spécialement à la Nouvelle-Orléans avec son honorable épouse, on s\'ingénierait à les entourer de toute la confortabilité possible, comme à leur multiplier les distractions. Quant au régime de l\'hôtel, s\'il leur convenait de s\'y conformer, il comportait le thé du matin à huit heures, le déjeuner à onze, le lunch à quatre, le dîner à sept, le thé du soir à dix. Cuisine anglaise, américaine ou française au choix. Vins des premiers crus d\'outre-mer. Toute la journée, un équipage à la disposition du grand banquier de Chicago (*sic*), un élégant steam-yacht toujours sous vapeur pour excursions jusqu\'à l\'embouchure du Mississippi ou promenades sur le lac Borgne ou le lac Ponchartrain. Une loge à l\'Opéra, desservi, à cette époque, par une troupe française de la plus haute valeur.
+
+« Combien ?... demanda brusquement Mrs Titbury.
+
+--- Cent dollars.
+
+--- Par mois ?...
+
+--- Par jour.
+
+--- Et par personne, sans doute ?... ajouta Mrs Titbury d\'un ton où l\'ironie le disputait à la colère.
+
+--- Oui, madame, et ces prix ont été établis dans les conditions les plus acceptables dès que les journaux nous ont appris que le troisième partenaire et mistress Titbury allaient séjourner quelque temps à *Excelsior* *Hotel*. »
+
+Voilà où sa mauvaise chance avait conduit le couple infortuné... et il ne pouvait aller ailleurs... et Mrs Titbury n\'avait même pas la ressource de transporter sa personne dans une humble auberge !... C\'était l\'hôtel imposé par William J. Hypperbone, et qu\'on n\'en soit pas surpris, puisqu\'il en était un des principaux actionnaires... Oui ! Deux cents dollars pour le couple, six mille dollars pour trente jours, s\'il restait le mois entier dans cette caverne...
+
+Or, il fallait, bon gré, mal gré, se soumettre. Abandonner *Excelsior* *Hotel* c\'eût été abandonner la partie, dont les règles ne souffraient aucune discussion !... C\'eût été renoncer à tout espoir de rentrer -- et des millions de fois au-delà -- dans ses dépenses, en héritant de la fortune du défunt.
+
+Et pourtant, dès que le majordome se fut retiré :
+
+« En route !... s\'écria M. Titbury. Reprenons notre valise et retournons à Chicago... Je ne resterai pas une minute de plus ici... à huit dollars l\'heure !...
+
+--- Si, » répondit l\'impérieuse matrone.
+
+La cité du Croissant, -- ainsi appelle-t-on la métropole louisianaise, fondée en 1717 dans la courbe du grand fleuve qui la limite au sud, -- absorbe, on peut le dire, toute la Louisiane. À peine d\'autres villes, Bâton-Rouge, Donaldsonville, Shreveport, comptent-elles plus de onze à douze mille âmes. Située à cinq cent soixante-quatorze lieues de New York et à quarante-cinq de l\'embouchure du Mississippi, neuf railroads y aboutissent, et quinze cents steamboats parcourent son réseau fluvial. Gagnée à la cause des Confédérés, le 18 avril 1862, elle fut bombardée pendant six jours par l\'amiral Farragut et prise par le général Butler.
+
+C\'est dans cette vaste cité de deux cent quarante-deux mille habitants, très diversifiés par les mélanges de sang, où les noirs, s\'ils jouissent de tous les droits politiques, n\'ont pas l\'égalité sociale, c\'est dans ce milieu hybride de Français, d\'Espagnols, d\'Anglais, d\'Anglo-Américains, en pleine métropole d\'un État qui nomme trente-deux sénateurs, quatre-vingt-dix-sept députés et se fait représenter par quatre membres au Congrès, où se trouve le siège d\'un évêque catholique, au milieu des dissidents baptistes, méthodistes, épiscopaux, c\'est dans ce coeur de la Louisiane qu\'allait mener une existence telle qu\'il ne l\'aurait pu même imaginer, ce ménage Titbury, si invraisemblablement arraché de sa maison chicagoise. Mais, puisqu\'un mauvais sort l\'y obligeait, le mieux, -- à moins de s\'en retourner chez soi, -- n\'était-il pas d\'en avoir pour son argent ?... Ainsi raisonnait la dame.
+
+Donc, chaque jour, leur magnifique équipage vint les promener en grande pompe. Une bande criarde les accompagnait de ses hurrahs moqueurs, car on les connaissait pour de fieffés avares, qui n\'avaient inspiré aucune sympathie ni à Great Salt Lake City, ni à Calais, pas plus qu\'ils n\'en inspiraient à Chicago. Qu\'importait ! Ils ne s\'en apercevaient même pas, et rien ne les empêchait, malgré tant de déconvenues, de se croire les grands favoris du match.
+
+C\'est ainsi qu\'ils s\'exhibèrent à travers les wards du nord, les faubourgs de Lafayette, de Jefferson, de Carrolton, ces quartiers élégants où resplendissent les hôtels, les villas, les cottages, encorbeillés dans la verdure des orangers, des magnolias et autres arbres en pleine floraison, à la place Lafayette, à la place Jackson[[\[5\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn5041){#_ftnref5041 .pcalibre2 .pcalibre1}.
+
+C\'est ainsi qu\'ils se promenèrent sur la solide levée, large de cinquante toises, qui protège la ville contre les inondations, sur les quais bordés d\'un quadruple rang de steamers, de steamboats, de remorqueurs, de voiliers, de caboteurs, d\'où s\'expédient par année jusqu\'à dix-sept cent mille balles de coton. Qu\'on ne s\'en étonne pas, puisque le mouvement commercial de la Nouvelle-Orléans se chiffre par deux cents millions de dollars.
+
+C\'est ainsi qu\'on les vit aux annexes d\'Algiers, de Gretna, de Mac Daroughville, après s\'être fait transporter sur la rive gauche du fleuve, là où sont plus particulièrement établis les usines, les fabriques et les entrepôts.
+
+C\'est ainsi qu\'ils se firent véhiculer dans leur fastueuse voiture le long des rues élégantes, bordées de maisons de briques et de pierres qui se sont substituées aux maisons de bois détruites par tant d\'incendies, et le plus souvent dans la rue Royale et la rue Saint-Louis, qui coupent en croix le quartier français. Et, là, quelles charmantes habitations aux vertes persiennes, avec leurs cours où murmurent les jets d\'eau des bassins, où fleurissent les caisses de belles plantes !
+
+C\'est ainsi qu\'ils honorèrent de leur visite le Capitole, à l\'angle des rues Royale et Saint-Louis, un ancien édifice transformé pendant la guerre de Sécession en palais législatif, où fonctionnent les Chambres des sénateurs et des députés. Mais ils n\'eurent jamais pour l\'hôtel *Saint*-*Charles*, l\'un des plus importants de la ville, qu\'un dédain bien justifié chez des hôtes de l\'incomparable *Excelsior* *Hotel*.
+
+C\'est ainsi qu\'ils visitèrent le très architectural palais de l\'Université, la cathédrale de style gothique, le bâtiment de la douane, la Rotonde et son immense salle. C\'est là que le lecteur trouve un cabinet de lecture des mieux assortis, le flâneur un promenoir aménagé sous des galeries couvertes, les spéculateurs sur les valeurs et les fonds publics une bourse très animée, dans laquelle s\'agitaient fiévreusement les courtiers des agences, en criant les cours si variables de la cote Hypperbone !
+
+C\'est ainsi qu\'ils excursionnèrent, à bord de leur élégant steam-yacht, sur les eaux calmes du lac Ponchartrain et jusque dans les passes du Mississippi.
+
+C\'est à l\'Opéra enfin que les amateurs des grandes oeuvres lyriques les virent se prélasser dans la loge mise à leur disposition, et tendre désespérément, aux accords de l\'orchestre, leurs oreilles fermées à toute compréhension musicale.
+
+Ainsi vécurent-ils comme dans un rêve, mais quel réveil, lorsqu\'ils retomberaient dans la réalité !
+
+D\'ailleurs, un singulier phénomène s\'était produit. Oui ! Ces ladres, ces pingres, ces liardeurs, se firent à cette nouvelle existence, ils furent étourdis par cette situation anormale, ils se grisèrent, au sens physique du mot, devant cette table toujours luxueusement servie, et dont ils ne voulaient pas laisser miette au risque de se préparer des gastralgies ou des dilatations d\'estomac pour leurs vieux jours. Mais il fallait s\'en donner pour les deux cents dollars quotidiens d\'Excelsior *Hotel*.
+
+Cependant le temps s\'écoulait, bien que les Titbury ne s\'en rendissent que très imparfaitement compte. Puisque leur séjour à l\'hôtellerie ne semblait pas devoir être interrompu, quatorze coups allaient être tirés à Chicago avant qu\'ils eussent le droit de se remettre en route. De quarante-huit heures en quarante-huit heures, ces tirages étaient proclamés à la Rotonde comme ils venaient de l\'être à l\'Auditorium.
+
+Celui du 8 juin, on le sait, avait envoyé le commodore Hodge Urrican au Wisconsin. On sait également que celui du 10 avait envoyé le mystérieux X K Z au Minnesota.
+
+Aucun n\'avait désigné la Louisiane, ni celui du 12, concernant Max Réal, ni celui du 14, concernant Tom Crabbe. Aussi, le 16, -- date réservée à Hermann Titbury, avant que la malchance l\'eût consigné dans la dix-neuvième case, -- aucun tirage ne fut-il effectué. Le 18, ce fut pour le quatrième partenaire, Harris T. Kymbale, que maître Tornbrock avait fait rouler les dés sur la table de l\'Auditorium.
+
+Les deux époux étaient-ils donc condamnés à mener cette existence aussi agréable que ruineuse pour la bourse et la santé pendant les six semaines d\'exclusion qu\'entraînait le séjour dans l\'État de la Louisiane ?...
+
+Et, même avant qu\'ils eussent pu rentrer dans la partie, celle-ci n\'aurait-elle pas pris fin, et le gagnant ne serait-il pas arrivé à la soixante-troisième case ?...
+
+Cela, c\'était le secret de l\'avenir. En attendant, les jours s\'écoulaient, et si, le match terminé, M. et Mrs Titbury n\'avaient plus qu\'à retourner dans l\'Illinois, après avoir payé la formidable note d\'*Excelsior Hotel*, jointe aux dépenses antérieures, songe-t-on à ce que leur aurait coûté cette folie de figurer parmi les « Sept » du match Hypperbone !
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- Les pérégrinations d\'Harris T. Kymbale]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942524 .pcalibre2 .pcalibre1} {#chapitre-10-les-pérégrinations-dharris-t.-kymbale .calibre171 .sigil_not_in_toc}
+
+Si les époux Titbury, si le commodore Urrican, ne se plaignaient pas sans raison de la déveine qui s\'attachait à leurs personnes, il semble bien que le reporter en chef de la *Tribune* aurait eu, lui aussi, le droit de se plaindre dans une certaine mesure. Une première fois, le coup de dés du début l\'avait obligé d\'aller au pont du Niagara, État de New York et d\'y payer une prime, puis, de là à Santa Fé, la capitale du New Mexico. Et voici que ce nouveau coup le mettait en demeure de gagner d\'abord le Nebraska, et ensuite l\'État de Washington, situé à l\'extrémité ouest du territoire de la Confédération.
+
+En effet, à Charleston de la Caroline du Sud, où il venait d\'être si chaleureusement accueilli, Harris T. Kymbale avait reçu, le 4 juin, le télégramme qui le concernait. Le point de dix par six et quatre, redoublé, l\'expédiait de la vingt-deuxième case à la quarante-deuxième.
+
+Cette dernière, c\'était celle du Nebraska, choisi par le défunt pour le labyrinthe du Noble Jeu de l\'Oie. Or, -- ce qui ne laissait pas d\'être grave, c\'est que le partenaire, après s\'y être rendu et avoir payé une double prime, devrait rétrograder à la trentième, occupée par l\'État de Washington. Il est vrai, cet itinéraire du South Carolina au Washington passait par le Nebraska.
+
+On le comprend, à l\'annonce de ce coup, ses partisans, réunis en grand nombre au Post Office de Charleston, furent atterrés, et le reporter se vit au moment de perdre la situation de grand favori que la plupart des agences lui attribuaient, un peu légèrement, il faut en convenir.
+
+Mais cet homme, aussi débrouillard que résolu, eut bientôt rassuré ceux qui s\'attachaient à sa fortune :
+
+« Eh ! Mes amis, s\'écria-t-il, ne vous désespérez pas !... Vous savez que les longs voyages ne me font pas peur... De Charleston au Nebraska, du Nebraska au Washington, c\'est l\'affaire de deux enjambées, et j\'ai quinze jours, du 4 au 18, pour enlever ces quatre mille milles !... Des railroads, j\'en aurai tout le temps à ma disposition !... Quant à la prime à payer, cela regarde le caissier de la *Tribune*, et tant pis pour lui s\'il fait la grimace !... Le désagrément, ce n\'est point d\'aller du Nebraska au Washington, c\'est d\'avoir à revenir de la quarante-deuxième case à la trentième !... Bah ! Rétrograder de douze points, cela ne vaut pas la peine d\'en parler, et j\'aurai vite rattrapé ce que le dieu du hasard m\'aura fait perdre !... »
+
+Comment ne pas avoir une absolue confiance en l\'homme qui se montre si confiant ?... Comment hésiter à risquer sur lui des sommes énormes ?... Comment lui marchander les applaudissements qu\'il mérite à si juste titre ?... Aussi ne lui furent-ils point épargnés, et cette matinée vit se renouveler les triomphes de la veille à ce fameux banquet d\'Astley, où avait figuré le pâté monstre de huit mille livres, qui avait occasionné quinze cent soixante-dix-sept indigestions dans la grande métropole.
+
+Toutefois, Harris T. Kymbale faisait erreur en affirmant que l\'on pouvait aller de Charleston à Olympia, cette capitale du Washington, que désignait la dépêche, en combinant toutes les ressources du réseau fédéral. Non, il existait une solution de continuité, et elle devait lui être signalée par Bruman S. Bickhorn, le secrétaire de la rédaction de la *Tribune*. Mais la moitié du voyage jusqu\'au Nebraska s\'accomplirait rapidement par les voies ferrées qui venaient s\'amorcer à la ligne de l\'Union Pacific.
+
+Néanmoins, il n\'y avait pas de temps à perdre, eu égard aux retards possibles, ni lieu de flâner en route. Non ! Ce qui était sage, c\'était de quitter Charleston le soir même, et c\'est ce que fit le Pavillon Vert. Ses enthousiastes partisans l\'acclamèrent au moment où le train démarra pour s\'élancer à travers les plaines de la Caroline du Sud.
+
+Cette première partie de l\'itinéraire, plusieurs des « Sept » l\'avaient déjà suivie, lorsqu\'ils parcouraient ces territoires, et ils la suivraient sans doute encore. Harris T. Kymbale franchit le Tennessee, et, le 5 au soir, atteignit Saint-Louis du Missouri, où Lissy Wag et Jovita Foley allaient trouver une prison. Puis, craignant de perdre trop de temps à remonter en steamboat jusqu\'à Omaha, il combina les horaires de manière à profiter des trains les plus rapides pour gagner, par Kansas City, la métropole du Nebraska, où il arriva le 6 dans la soirée.
+
+Cette nuit, il dut la passer tout entière en cette ville d\'Omaha, à laquelle Max Réal, lors de son premier voyage, avait pu consacrer quelques heures.
+
+Ce fut là que lui parvint la dépêche lancée à son adresse par le secrétaire de la rédaction de la *Tribune*. Cette dépêche lui chiffrait jour par jour les étapes, de telle façon qu\'il pût être rendu à Olympia du Washington, le 18 avant midi. Voici ce qu\'elle marquait :
+
+« 1° Quitter Omaha City dès le matin du 7 courant par le train de l\'Union Pacific de huit heures trente-cinq, pour atteindre, à trois cent quatre-vingt-dix milles de là, Julesburg-Jonction dans la soirée à six heures et demie ;
+
+« 2° Là trouver un stage, tout attelé, muni de provisions avec relais préparés sur la route de cent milles qui aboutit aux Mauvaises Terres du Nebraska. Y arriver le lendemain dans la matinée, y faire constater sa présence, et revenir par le stage à Julesburg ;
+
+« 3° Reprendre à Julesburg, dans la soirée du 10, le train qui se dirige vers la Californie par l\'Union et le Southern Pacific, lequel déposera Harris T. Kymbale en gare de Sacramento dans la soirée du 12, et il devra passer la nuit dans cette ville ;
+
+« 4° Le lendemain 13, sauter dans le railroad qui remonte vers le nord et s\'arrêter à la station de Shasta, de la Haute-Californie, à trois cents milles de Sacramento, des travaux de réfection interrompant la circulation jusqu\'à la station de Roseburg de l\'Oregon ;
+
+« 5° En ce pays montagneux où les stages ne peuvent circuler que lentement, faire à cheval ce trajet de deux cent quarante milles, afin d\'arriver, le 17 au plus tard, à la station de Roseburg, voyage qui devra s\'exécuter en quatre jours, à raison de vingt-cinq lieues par vingt-quatre heures, repos compris ;
+
+« 6° Prendre dans l\'après-midi du 17 à Roseburg le train pour Olympia, qui arrive le lendemain matin dans cette ville, après un trajet de trois cent cinquante milles.
+
+« NOTA. -- Harris T. Kymbale est prié de ne rien perdre du temps qui lui est strictement mesuré, et de ne pas oublier que de grosses sommes sont engagées au journal sur les chances du Pavillon Vert. »
+
+La dépêche était longue, mais claire, explicite, formelle. Le destinataire n\'avait qu\'à se conformer à ses prescriptions, et il serait à son poste, le jour dit, pour recevoir celle de son quatrième tirage. Il fallait espérer, d\'ailleurs, qu\'il ne se produirait aucun retard, car, ne fût-il que d\'une demi-journée, il suffirait à compromettre le résultat du voyage.
+
+Que l\'on se rassure, Harris T. Kymbale était résolu à faire toute diligence. S\'il passa la nuit à Omaha, c\'est que le premier train ne partait que le lendemain. Il le prit donc, et dans la soirée, il descendit à Julesburg-Jonction, près de l\'endroit où la voie vient affleurer la frontière du Colorado, non loin de la South-Platte River.
+
+Cette fois, en quittant Charleston, le journaliste avait eu la précaution de ne point se mettre en évidence afin d\'éviter les réceptions et leurs suites fâcheuses. Toutefois, à Julesburg, il n\'aurait pu conserver l\'incognito, car le stage commandé attendait son arrivée en cette bourgade.
+
+Et, d\'ailleurs, ses partisans, accourus à la gare, comprirent qu\'il ne fallait le retarder sous aucun prétexte, que les heures étaient comptées, que cette excursion aux Mauvaises Terres du Nebraska devait s\'accomplir dans un temps rigoureux. Ils furent donc les premiers, quand ils reçurent sur le quai de la gare le reporter en chef de la *Tribune*, à lui conseiller de partir à l\'instant. Et même une douzaine de ces Anglo-Américains, qui, avec les émigrants et un certain nombre de Sioux devenus citoyens des États-Unis, composent la population nebraskienne, avaient pris leurs dispositions pour l\'accompagner. Cette escorte n\'était pas à dédaigner sur ces territoires où quelques fauves à deux pieds ou à quatre pattes se rencontrent encore. » Comme il vous plaira, messieurs, répondit Harris T. Kymbale en serrant les mains qui se tendaient vers lui, mais à la condition que la voiture puisse vous contenir tous...
+
+--- Nos places y sont retenues et... en se tassant... » répliqua un de ces enthousiastes.
+
+Le Nebraska, par sa superficie, tient le quinzième rang dans l\'Union. La Platte ou Nebraska River le parcourt de l\'ouest à l\'est pour aller se jeter dans le Missouri à Platte City, et c\'est sa rive gauche que côtoie cette portion de l\'Union Pacific jusqu\'à Julesburg-Jonction. État plus agricole qu\'industriel, en voie de prospérité, dont la population ne cesse de s\'accroître, il a pour capitale Lincoln, une ville de l\'intérieur, déclarée chef-lieu administratif dès l\'année qui suivit sa naissance, et dont le port, Nebraska City, est situé sur le Missouri à cinquante milles de là.
+
+En vérité, c\'était une regrettable circonstance que Harris T. Kymbale, sur le territoire de la Californie et de l\'Oregon, dût être contraint de faire à cheval ce trajet de Shasta à Roseburg au lieu de le faire en voiture. Ici, ce ne sont pas les prairies qui manquent à la surface de ce Great Band nebraskien, dont Waren en 1857 et Cole en 1865 opérèrent la reconnaissance. Après que le stage eut franchi la Platte en ferry-boat, après qu\'il eut dépassé Fort Grattan, il fallait le voir rouler sur ces terrains unis. C\'était une diligence transcontinentale, un de ces overland-mails de la compagnie Wells et Fargo qui parcouraient autrefois le territoire fédéral, une sorte de coche, peint de rouge vif, suspendu sur des lanières de cuir. Rien qu\'un seul compartiment à neuf places, trois par trois sur les banquettes d\'avant, de milieu, d\'arrière, et munies de bretelles pour soutenir les vaillants voyageurs.
+
+Il va de soi que le quatrième partenaire et huit de ses partisans occupaient l\'intérieur du stage, quitte à remplacer les quatre autres à tour de rôle, dont deux étaient juchés sur les sièges extérieurs à l\'arrière et deux près du cocher, qui poussait, bride abattue, les six vigoureux chevaux de son attelage.
+
+En fait de routes, il n\'y avait que les passes tracées par les convois de fourgons. Et en est-il besoin sur ces plaines interminables, où les railroads n\'ont eu qu\'à poser leurs traverses ? De temps en temps se rencontraient divers creeks aux environs des lagons Raymond et Cole, le Bourdman, la Niobrara River, que l\'on franchissait à gué, et aussi quelques hameaux où attendaient les chevaux de relais.
+
+C\'est ainsi que dans la soirée du 8, après quarante heures d\'un parcours favorisé par le temps, le stage arriva au district des Mauvaises Terres. Là, pas de villages, rien que des prairies où les chevaux pourraient pâturer à plein ventre. Quant à Harris T. Kymbale et à ses compagnons, il n\'y avait pas à s\'en inquiéter. Les coffres du véhicule étaient convenablement garnis de fines conserves, et les toasts ne manqueraient ni de wisky ni de gin.
+
+Après une nuit sous un bouquet d\'arbres, la voiture fut laissée à la garde du conducteur, et l\'on descendit les premières rampes de la sauvage vallée.
+
+Ah ! Que William J. Hypperbone avait eu raison de choisir cette région du Nebraska pour en faire le labyrinthe de sa quarante-deuxième case !
+
+Entre les extrêmes ondulations des Rocheuses, à proximité des Black Hills, hérissées de conifères, se développe cette profonde dépression du sol, large de trente-six milles, longue de quatre-vingt-cinq, qui s\'étend jusqu\'au territoire du Dakota. De tous côtés s\'étagent les cirques, avec leurs mille pyramides, aiguilles, pinacles, clochetons de pierre. C\'est bien un labyrinthe, et des plus embrouillés, ce domaine des Bad Lands, qui, sur des milliers de milles carrés, à travers les strates, les argiles, les sables ferrugineux, dresse les fûts, les colonnes, les piliers de ses rocs prismatiques. Çà et là, on croit voir des bastions, des forts, des châteaux, dont la couleur rouge de brique tranche vivement sur la blanche surface du sol.
+
+On a pu dire de ce coin du Nord-Amérique qu\'il formait un monde à part. Aussi, dans les temps préhistoriques, fut-il fréquenté par d\'immenses troupeaux d\'éléphants, de mammouths, de mastodontes gigantesques, dont on retrouve encore les ossements conservés par la pétrification ou réduits en poussière ?...
+
+Ce qui paraît une hypothèse admissible, c\'est que cette dépression ait été remplie autrefois par les eaux descendues des Rocheuses et des Black Hills, depuis longtemps infiltrées dans les fissures du fond, car l\'altitude de la région est considérablement au-dessus du niveau de la mer. Ce réservoir vidé serait devenu un ossuaire où les débris fossiles sont accumulés en quantités surprenantes.
+
+Quant aux représentants de la faune actuelle, -- peu nombreux sur ce territoire où ils trouveraient difficilement à vivre, -- ce sont des bisons, des buffles à longs poils, des moutons à longues cornes, et quelques gracieuses antilopes. Mais ce n\'est pas ici que des chasseurs feraient bonne chasse. Harris T. Kymbale et ses compagnons n\'eurent pas l\'occasion de tirer un seul coup de fusil. Au surplus, s\'ils avaient emporté des armes, c\'était plutôt pour se défendre contre les bandes de Dakotas et de Sioux qui parcourent la région, ou pour repousser l\'attaque des bandes de coyottes, ces loups de la prairie, dont on avait entendu les hurlements pendant la nuit précédente.
+
+Il n\'était pas question de s\'engager profondément entre les sinuosités des Bad Lands. Il suffisait que le quatrième partenaire se fût présenté de sa personne à l\'entrée de ce labyrinthe, et que sa présence eût été constatée par un acte authentique. On ne prit même pas la peine d\'enfouir un document ainsi que l\'avait fait le commodore Urrican avant de quitter la Vallée de la Mort. L\'acte fut rédigé par Harris T. Kymbale, revêtu des douze signatures de ses compagnons, et cela devait suffire à témoigner de son arrivée en cette région nebraskienne. Un dernier repas fut pris à l\'ombre du bouquet d\'arbres, et les toasts furent aussi multiples que bruyants :
+
+« Au reporter en chef de la *Tribune* !... Au favori du match !... À l\'héritier des soixante millions de dollars de William J. Hypperbone ! »
+
+Décidément, Harris T. Kymbale avait lieu d\'être confiant. Ses partisans ne l\'abandonneraient jamais. On oubliait, on voulait oublier que, d\'aller du Nebraska au Washington, c\'était rétrograder, sinon sur la carte des États-Unis, du moins sur la carte du défunt. En réalité, même lorsqu\'il serait revenu à la trentième case, il n\'y aurait à le devancer alors que Max Réal, quarante-quatrième case, Y K Z, quarante-sixième, Tom Crabbe, quarante-septième.
+
+Le campement fut levé dès trois heures de l\'après-midi. Harris T. Kymbale et ses compagnons, très animés par les grogs au wisky, reprirent leurs places dans et sur le stage. Le lendemain, vers dix heures du matin, ils étaient rentrés à Julesburg-Jonction.
+
+Une heure après, arrivait le train de l\'Union Pacific pour un arrêt de dix minutes. Rien que ces dix minutes de retard, et Harris T. Kymbale l\'aurait manqué, -- ce qui n\'eût sans doute pas compromis le reste du voyage, car il passe deux trains par jour à cette jonction. Mais, au total, il n\'avait pas une heure à perdre.
+
+On sait quels états traverse la ligne en se dirigeant vers l\'ouest, puisque Max Réal en allant à Cheyenne, Hermann Titbury en allant à Great Salt Lake City, le commodore Urrican en allant à Death Valley, les avaient suivis. Le reporter dut donc franchir le Wyoming, l\'Utah, le Nevada, puis en partie la Californie, afin d\'atteindre la capitale californienne. C\'est là qu\'il descendit, dans la nuit du 11 au 12 juin, frais, dispos, confiant, n\'ayant égaré en route rien de sa belle performance.
+
+Un excellent accueil attendait le reporter. En grand nombre, ses partisans l\'acclamèrent, mais ne songèrent pas un instant à le retenir, le train partant de Sacramento à une heure après-midi.
+
+Entre autres personnes, qui, par intérêt ou par sympathie, étaient venues au-devant de Harris T. Kymbale, figurait au premier rang le correspondant de la *Tribune*, Will Walter, qui lui dit :
+
+« Monsieur, j\'ai été informé que vous deviez arriver aujourd\'hui, et je vous félicite sincèrement de n\'avoir éprouvé aucun retard.
+
+--- En effet, mon cher confrère, répondit Harris T. Kymbale, pas le moindre retard entre Charleston et Sacramento, et je compte qu\'il en sera de même entre Sacramento et Olympia.
+
+--- Il n\'y a pas lieu de le craindre, affirma Will Walter. Sans doute, il est fâcheux que la ligne soit momentanément interrompue ; mais le train va vous conduire à la station de Shasta, où vous trouverez des chevaux tout prêts. Un guide, connaissant bien le pays, vous mènera par le plus court à Roseburg, où vous reprendrez le Southern Pacific pour Olympia.
+
+--- Il ne me reste donc qu\'à vous remercier de votre obligeance, monsieur Walter...
+
+--- Non point, monsieur Kymbale, c\'est moi qui vous remercie puisque je vous ai pris...
+
+--- À combien ?... demande vivement le journaliste.
+
+--- À un contre cinq.
+
+--- Eh bien, cher confrère, cinq bonnes poignées de main par reconnaissance...
+
+--- Le double, si vous voulez, monsieur Kymbale, et, maintenant, bon voyage !... »
+
+La locomotive siffla, le train se mit en route et disparut au tournant de la voie dans la direction de Marysville qu\'il atteignit près de Feather River.
+
+Une circonstance fâcheuse, c\'est que ce train ne marchait pas à grande vitesse. Il s\'était arrêté à chaque station, à Ewings, à Woodland. Il est vrai, la voie ne cessait de monter, afin de gagner cette région de la Haute-Californie d\'une altitude considérable au-dessus du niveau de la mer.
+
+Le train s\'arrêta à Marysville, cité qui, de même que Oroville et Placerville, est délaissée, depuis que, les chercheurs d\'or en ayant vidé « les poches », la vogue est aux mines des territoires du Nord et de l\'Alaska. Seule, Marysville offre quelque résistance à cet abandon, parce que sa situation, au confluent des rivières Yuba et Feather, lui assure un mouvement de batellerie qui étend son commerce sur toute la région.
+
+Au delà, il fallut compter avec les haltes de Gridley, Nelson, Chico, Tehama, où des rampes, très accentuées, exigèrent de la locomotive de plus grands efforts au préjudice de sa rapidité.
+
+Bref, ce ne fut pas avant huit heures du matin, heure réglementaire d\'ailleurs, que, à la date du 13, le train vint s\'arrêter à la ville de Shasta, cette station, on ne l\'a pas oublié, à partir de laquelle la circulation était interrompue.
+
+Avant de reprendre le railroad à Roseburg, Harris T. Kymbale aurait à remonter d\'une centaine de lieues vers le nord, avec le guide et les chevaux commandés par les soins du correspondant de la *Tribune*.
+
+Il ne restait plus que cinq jours pleins pour gagner Olympia, dont quatre devaient être employés au voyage à cheval, avec une moyenne de vingt-quatre à vingt-cinq lieues par vingt-quatre heures. À ce faire, rien d\'impossible, mais grosse fatigue à prévoir, pour les montures, et aussi pour les cavaliers.
+
+Trois chevaux attendaient devant la station, l\'un destiné à Harris T. Kymbale, les deux autres au guide et à un garçon d\'écurie qui l\'accompagnait. Inutile de dire que le reporter avait l\'habitude de l\'équitation comme de tous les genres de sport.
+
+Le guide, nommé Fred Wilmot, était un homme de quarante ans, dans toute la force de l\'âge.
+
+« Vous êtes prêt ?... lui demanda Harris T. Kymbale.
+
+--- Prêt.
+
+--- Et nous arriverons...
+
+--- Oui, si vous êtes bon cavalier. Avec le stage, il eût fallu le double de temps...
+
+--- Je réponds de moi...
+
+--- Alors en selle. »
+
+Les chevaux partirent au grand trot. De la question de nourriture, il n\'y avait pas à se préoccuper, car bourgades et villages sont nombreux sur la route.
+
+Le temps semblait devoir se maintenir au beau, avec une certaine fraîcheur qui s\'accentuerait dans la région montagneuse. La journée serait coupée par une halte de deux heures, et l\'on se reposerait une partie de la nuit.
+
+Le chemin suivait la rive droite du Sacramento, et, après un arrêt pour le repas dans une ferme, Fred Wilmot vint s\'arrêter à Butter, en plein pays de sources minérales comme il y en a tant en Amérique.
+
+Sept heures de sommeil dans une auberge, et les voyageurs repartirent dès l\'aube, pour aller déjeuner à Yreka. À une centaine de milles dans l\'est, on eût rencontré le Shasta, dont le cratère s\'ouvre à plus de douze mille pieds entre deux sommets. Solidement assis sur sa base que découpent des ravins verdoyants, ce mont est considéré comme le plus beau des États-Unis, « avec ses laves roses émaillées de glace », a dit un enthousiaste voyageur.
+
+Harris T. Kymbale dut remettre son admiration à un autre voyage.
+
+Un grand État, cet Oregon, le neuvième des États-Unis. Faible de population, il possède de vastes pâturages, et son principal rendement vient de la pêche du saumon, très fructueuse dans ses cours d\'eau. En outre, l\'extrême fertilité des terres dans l\'ouest les fait rechercher pour les établissements agricoles.
+
+Pendant cette journée, Harris T. Kymbale eut les yeux réjouis par la contemplation de sites magnifiques. Un regard en passant, c\'était tout ce qu\'il pouvait leur accorder, à son vif regret. En lui, le touriste s\'effaçait devant le partenaire. Le soir, ayant franchi la passe de Pilot Rock, hommes et bêtes, pas mal éreintés, vinrent prendre repos à la bourgade de Jackson, qu\'il ne faut pas confondre avec ses homonymes des États-Unis, -- quatre Jackson, au Michigan, au Mississippi, au Tennessee et dans l\'Ohio, et deux Jacksonville, l\'une dans l\'Illinois, l\'autre dans la Floride, à plusieurs milliers de milles de la Californie.
+
+Le lendemain, 16, après une dernière journée que les chevaux enlevèrent sans trop de peine, et dont la seconde étape se prolongea jusqu\'à près de minuit, le guide signala les lumières de Roseburg.
+
+Ainsi s\'était effectué ce cheminement, pas un accident, pas même un incident, avec la régularité d\'un express. Ni les remerciements ni les dollars ne furent ménagés à Fred Wilmot, et le lendemain, dès l\'aube, Harris T. Kymbale « sauta », -- le mot est employé par le correspondant de la *Tribune*, -- dans le premier train en partance pour Olympia.
+
+Ce train dessert les principales villes ou bourgades de cette riche vallée de la Villamette, Vinchester, Eugène City, Harrisburg, Albany, Salem, la capitale de l\'État, fraîche corbeille de fleurs et de verdure, Canb, Oregon City, la plus industrieuse, grâce aux puissantes chutes qui actionnent ses papeteries, ses sucreries et ses filatures, Portland, peuplée de soixante-quinze mille habitants, qui tient la tête du commerce oregonnais, et dont la Columbia fait un port de mer d\'une grande activité.
+
+Enfin, le train franchit cette rivière qui sépare l\'Oregon du Washington, et vint s\'arrêter sur la rive droite, en amont du confluent de la Villamette, à Vancouver, le 18, huit heures du matin.
+
+Harris T. Kymbale ne disposait plus que de six heures, mais n\'était qu\'à cent vingt milles d\'Olympia.
+
+Ah ! Si le temps ne lui eût manqué, comme il aurait pris plaisir à visiter en détail cet Oregon qu\'il venait de quitter, ce Washington où son pied venait de se poser pour la première fois !
+
+C\'est un État de trois cent cinquante mille habitants, en pleine prospérité, si éloigné soit-il à cette extrémité du territoire fédéral, auquel il n\'a été rattaché qu\'en 1859 et dont il occupe le dix-huitième rang. Il a Olympia pour capitale, où peuvent remonter les navires par le Puget-Sound ; mais Seattle l\'emporte par l\'étendue de son commerce, et Tacoma, par son trafic avec le Japon et la Chine ; cette dernière-née de la famille washingtonienne donne les plus belles espérances pour l\'avenir.
+
+Ce fut de Vancouver, -- bien entendu la ville de ce nom du Washington, et non celle de la Colombie anglaise, située à une centaine de milles plus au nord, -- que Harris T. Kymbale partit à huit heures dix du matin, afin d\'accomplir la dernière étape de ce voyage.
+
+Aucun obstacle, aucun retard à craindre. Neuf stations, et le train arriverait, un peu après onze heures, en gare d\'Olympia. Holbrook, Waren, Kalama, Stockport, Sopenah, Chealis, Centralia, furent laissées successivement en arrière. Le train filait assez rapidement à la surface de cette région arrosée par les nombreux affluents et sous-affluents de la Columbia. Enfin il était onze heures trois minutes, lorsqu\'il s\'arrêta à la petite bourgade de Tenino, séparée de la capitale par une distance de quarante milles, -- une quinzaine de lieues environ.
+
+Là, fâcheuse nouvelle pour les voyageurs, et désastreuse pour Harris T. Kymbale, -- un accident que le minutieux Bickhorn de la *Tribune* n\'avait pu prévoir. Impossible au train d\'aller au-delà de Tenino. À dix milles de cette station, un pont s\'était écroulé une heure avant, et la circulation avait dû être arrêtée sur cette partie de la ligne.
+
+Coup mortel s\'il en fut jamais, et dont le quatrième partenaire ne se relèverait pas !
+
+« Maudite guigne, s\'écria-t-il, en se précipitant hors de son wagon, tu me fais périr au port ! »
+
+Eh bien, non, et peut-être allait-il s\'en tirer...
+
+Trois jeunes gens, descendus du train, s\'approchèrent de lui.
+
+« Monsieur Kymbale, lui dit l\'un d\'eux, savez-vous monter à bicyclette ?...
+
+--- Oui.
+
+--- Venez donc. »
+
+Il n\'y eut pas d\'autres paroles échangées. On le voit, c\'était entrer carrément en matière, comme il convient entre ces gens pratiques des États-Unis.
+
+Ce n\'était pas une bicyclette, mais bien une triplette qui fut retirée du fourgon de bagages et déposée sur le quai de la gare.
+
+« Monsieur Kymbale, dit le jeune homme, l\'un de nous va vous céder sa place au milieu, l\'autre se mettra derrière, moi je me mettrai devant, et il y a des chances d\'arriver pour midi à Olympia !
+
+--- Vos noms, messieurs ?...
+
+--- Will Stanton et Robert Flock.
+
+--- Et le vôtre, à vous, monsieur, qui me cédez votre place ?...
+
+--- John Berry..
+
+--- Eh bien, messieurs Stanton, Flock et Berry, merci... et en route, et que saint Cycle, le patron des bicyclistes, nous protège !... »
+
+Quinze lieues en moins d\'une heure !... Ce record n\'était pas encore détenu par aucun professionnel.
+
+Avant de démarrer :
+
+« Messieurs, dit Harris T. Kymbale, je ne sais comment je pourrai reconnaître....
+
+--- En gagnant, répondit simplement Will Stanton.
+
+--- Nous avons parié pour vous », ajouta Robert Flock.
+
+La triplette était une machine sortie des ateliers de Cambden and Co. De New York, pourvue d\'une multiplication de vingt-sept pieds deux pouces, et qui avait fait ses preuves dans une lutte internationale, précisément sur le vélodrome de Chicago. Ces illustres bécanards, Will Stanton et Robert Flock, originaires du Washington, étaient des stayers de la vélocipédie, ayant les meilleures performances et capables de tout le rendement que peut donner ce genre de sport. Harris T. Kymbale, monté sur la selle intermédiaire, n\'aurait eu qu\'à se laisser conduire, mais il entendait bien ajouter sa puissance musculaire à celle de ses entraîneurs -- c\'est le mot, -- et pédaler pour son propre compte.
+
+Will Stanton s\'achevala en avant, Robert Flock en arrière, Harris T. Kymbale entre les deux. Quelques personnes obligeantes qui maintenaient la machine sur la route, lui imprimèrent un vigoureux élan, et elle s\'élança, saluée de bruyants hurrahs.
+
+Ce départ fut magnifique. Le rapide véhicule allait comme un « tonnerre graissé », -- expression bien américaine, -- sur un chemin soigneusement entretenu, une véritable piste de vélodrome moins les virages, et très plat en cette partie du Washington qui avoisine le littoral. Les trois cyclistes ne parlaient pas, la bouche fermée, les lèvres entr\'ouvertes par un tuyau de plume, qui, sans permettre à l\'air d\'arriver trop brutalement aux poumons, aidait cependant la respiration par le nez.
+
+Et, c\'est ainsi qu\'ils n\'hésitèrent pas à « emballer » dès le début de cette course vertigineuse. Les roues de la triplette tournaient avec la vitesse d\'une dynamo mue par un puissant moteur, et, cette fois, le moteur, c\'étaient ces trois hommes dont les jambes, transformées en bielles, poussaient l\'appareil de toute leur vigueur. La triplette entraînait avec elle un nuage de poussière et, lorsqu\'elle franchissait à gué quelque creek, soulevait une nappe d\'eau qui se recourbait sur ses jantes. L\'avertisseur lançait au loin des sons pour s\'assurer la route libre, et les gens se rangeaient sur les côtés afin de livrer passage à cette machine éclair.
+
+Enfin, après le premier quart d\'heure, -- ainsi que le dit Will Stanton qui comptait les bornes milliaires -- les cinq premières lieues avaient été enlevées, et il suffirait de conserver cette moyenne pour atteindre le but quelques minutes avant midi.
+
+Il ne semblait donc pas qu\'aucun obstacle pût surgir, quand, un peu après onze heures, alors que la triplette traversait une vaste plaine, se firent entendre de furieux hurlements.
+
+Un cri s\'échappa de la bouche de Robert Flock, qui laissa tomber son tuyau de plume.
+
+« Des coyottes ! »
+
+Oui, des coyottes, une vingtaine de ces redoutables loups de la prairie. Enragés de faim, sans doute, ces farouches animaux s\'approchaient avec une vitesse supérieure à celle des cyclistes et se jetèrent sur leurs flancs.
+
+« Vous avez un revolver ?... demanda Will Stanton, sans ralentir un instant la triplette.
+
+--- Oui, répondit Harris T. Kymbale.
+
+--- Tenez-vous prêt à faire feu, -- toi aussi, Flock, avec le tien... Moi, je ne lâche pas la direction... Continuons à pédaler tous trois, et peut-être devancerons-nous cette bande ?... »
+
+La devancer ?... il fut bientôt évident que cela ne serait pas possible.
+
+Les coyottes bondissaient en suivant la triplette, prêts à se précipiter sur le reporter et ses compagnons, qui seraient perdus s\'ils étaient renversés.
+
+Deux détonations éclatèrent, et deux loups, atteints mortellement, roulèrent sur la route en hurlant. Les autres, au comble de la fureur, s\'élancèrent sur la machine, laquelle ne put éviter le choc que par un crochet brusque, qui faillit désarçonner Harris T. Kymbale.
+
+« Pédalons... pédalons ! » cria Will Stanton.
+
+Et les jarrets se détendirent avec une telle vigueur que les dents de la multiplication craquèrent à faire craindre qu\'elles ne fussent brisées.
+
+Pendant le second quart d\'heure, cinq autres lieues avaient été franchies. Mais il fallut, plus que jamais, repousser les coyottes qui sautaient au moyeu des roues, et dont les ongles grinçaient sur les rayons de fil d\'acier. Les revolvers furent tirés jusqu\'à leurs dernières cartouches, et la bande, réduite de moitié, laissa une dizaine de loups en arrière.
+
+À ce moment, Harris T. Kymbale, abandonnant la barre, parvint à recharger son revolver, dont les six coups mirent les coyottes en pleine déroute.
+
+Il était alors midi moins dix. À deux lieues environ apparaissaient les premières maisons d\'Olympia.
+
+La triplette dévora cette distance avec la vitesse d\'un express, elle atteignit la ville, et, en dépit des règlements de police, au risque d\'écraser quelques-uns de ses cinq mille habitants, elle s\'arrêta devant le Post Office, comme midi commençait à sonner.
+
+Harris T. Kymbale prit terre. N\'en pouvant plus, respirant à peine, il fendit la foule des curieux qui attendaient l\'arrivée du quatrième partenaire, et se précipita dans la salle au moment où l\'horloge tintait pour la dixième fois.
+
+« Il y a un télégramme pour Harris T. Kymbale... cria l\'employé du télégraphe.
+
+--- Présent !... » répondit le chroniqueur en chef de la *Tribune*, qui tomba sans connaissance sur un banc.
+
+Le protégé de saint Cycle était arrivé à temps, grâce au dévouement et à l\'énergie de ses compagnons. Quant à MM. Will Stanton et Robert Flock, avec quinze lieues parcourues en quarante-six minutes et trente-trois secondes, ils battaient le record de vitesse des cinq parties du monde !
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185598 .pcalibre2 .pcalibre1}[]{#_Toc343183137 .pcalibre2 .pcalibre1}[]{#_Toc343180676 .pcalibre2 .pcalibre1}[]{#_Toc343178215 .pcalibre2 .pcalibre1}[]{#_Toc343175754 .pcalibre2 .pcalibre1}[]{#_Toc343173293 .pcalibre2 .pcalibre1}[]{#_Toc343170832 .pcalibre2 .pcalibre1}[]{#_Toc343168371 .pcalibre2 .pcalibre1}[]{#_Toc343165910 .pcalibre2 .pcalibre1}[]{#_Toc343163449 .pcalibre2 .pcalibre1}[]{#_Toc343160988 .pcalibre2 .pcalibre1}[]{#_Toc343158527 .pcalibre2 .pcalibre1}[]{#_Toc343149257 .pcalibre2 .pcalibre1}[]{#_Toc343146796 .pcalibre2 .pcalibre1}[]{#_Toc343144333 .pcalibre2 .pcalibre1}[]{#_Toc343141872 .pcalibre2 .pcalibre1}[]{#_Toc343139411 .pcalibre2 .pcalibre1}[]{#_Toc343136949 .pcalibre2 .pcalibre1}[]{#_Toc343134488 .pcalibre2 .pcalibre1}[]{#_Toc343132027 .pcalibre2 .pcalibre1}[]{#_Toc343129565 .pcalibre2 .pcalibre1}[]{#_Toc343127104 .pcalibre2 .pcalibre1}[]{#_Toc343124640 .pcalibre2 .pcalibre1}[]{#_Toc343122179 .pcalibre2 .pcalibre1}[]{#_Toc343119718 .pcalibre2 .pcalibre1}[]{#_Toc343117264 .pcalibre2 .pcalibre1}[]{#_Toc343114801 .pcalibre2 .pcalibre1}[]{#_Toc343112340 .pcalibre2 .pcalibre1}[]{#_Toc343109879 .pcalibre2 .pcalibre1}[]{#_Toc343106135 .pcalibre2 .pcalibre1}[]{#_Toc343103673 .pcalibre2 .pcalibre1}[]{#_Toc343101210 .pcalibre2 .pcalibre1}[]{#_Toc343098785 .pcalibre2 .pcalibre1}[]{#_Toc343096316 .pcalibre2 .pcalibre1}[]{#_Toc343093854 .pcalibre2 .pcalibre1}[]{#_Toc343091376 .pcalibre2 .pcalibre1}[]{#_Toc343088913 .pcalibre2 .pcalibre1}[]{#_Toc343086451 .pcalibre2 .pcalibre1}[]{#_Toc343083988 .pcalibre2 .pcalibre1}[]{#_Toc343081526 .pcalibre2 .pcalibre1}[]{#_Toc343079065 .pcalibre2 .pcalibre1}[]{#_Toc343076602 .pcalibre2 .pcalibre1}[]{#_Toc343074139 .pcalibre2 .pcalibre1}[]{#_Toc343071673 .pcalibre2 .pcalibre1}[]{#_Toc343043713 .pcalibre2 .pcalibre1}[]{#_Toc343038828 .pcalibre2 .pcalibre1}[]{#_Toc343036463 .pcalibre2 .pcalibre1}[]{#_Toc343034098 .pcalibre2 .pcalibre1}[]{#_Toc343031733 .pcalibre2 .pcalibre1}[]{#_Toc343028177 .pcalibre2 .pcalibre1}[]{#_Toc343025812 .pcalibre2 .pcalibre1}[]{#_Toc343023447 .pcalibre2 .pcalibre1}[]{#_Toc343021081 .pcalibre2 .pcalibre1}[]{#_Toc343018715 .pcalibre2 .pcalibre1}[]{#_Toc343016350 .pcalibre2 .pcalibre1}[]{#_Toc343013985 .pcalibre2 .pcalibre1}[]{#_Toc343011618 .pcalibre2 .pcalibre1}[]{#_Toc343009253 .pcalibre2 .pcalibre1}[]{#_Toc343006888 .pcalibre2 .pcalibre1}[]{#_Toc343004523 .pcalibre2 .pcalibre1}[]{#_Toc343002158 .pcalibre2 .pcalibre1}[]{#_Toc342999793 .pcalibre2 .pcalibre1}[]{#_Toc342997428 .pcalibre2 .pcalibre1}[]{#_Toc342995063 .pcalibre2 .pcalibre1}[]{#_Toc342992698 .pcalibre2 .pcalibre1}[]{#_Toc342990333 .pcalibre2 .pcalibre1}[]{#_Toc342987968 .pcalibre2 .pcalibre1}[]{#_Toc342985601 .pcalibre2 .pcalibre1}[]{#_Toc342983236 .pcalibre2 .pcalibre1}[]{#_Toc342980871 .pcalibre2 .pcalibre1}[]{#_Toc342978506 .pcalibre2 .pcalibre1}[[Chapitre 11 -- La prison du Missouri]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942525 .pcalibre2 .pcalibre1} {#chapitre-11-la-prison-du-missouri .calibre171 .sigil_not_in_toc}
+
+C\'était le 6 juin, à *Mammoth* *Hotel*, après les six jours passés aux grottes du Kentucky, que Lissy Wag avait reçu la nouvelle fatale. Le point de sept, par quatre et trois, doublé, l\'envoyait dans la cinquante-deuxième case, Missouri.
+
+Le voyage ne serait ni fatigant ni long. Les deux états confinent à l\'angle de Cairo. De Mammoth Caves à Saint-Louis, à peine deux cent cinquante milles, huit à dix heures de chemin de fer, pas davantage. Mais quel désappointement, quelle ruine !
+
+« Malheur... malheur !... s\'écria Jovita Foley. Mieux aurait valu d\'être envoyées, comme le commodore Urrican, à l\'extrémité de la Floride, ou comme M. Kymbale au fond du Washington !... Au moins n\'aurions-nous pas cessé de prendre part à cette abominable partie...
+
+--- Oui... abominable... c\'est le mot, ma pauvre Jovita ! répondit Lissy Wag. Aussi pourquoi as-tu voulu la jouer ?... »
+
+La désolée demoiselle ne répondit pas, et qu\'aurait-elle essayé de répondre ?... Voulût-elle même ne point abandonner le match, se rendre au Missouri, attendre que l\'un des partenaires vînt, par un coup malheureux pour lui mais heureux pour elle, délivrer Lissy Wag de la prison en y prenant sa place, elle ne l\'aurait pu qu\'à la condition de verser une triple prime dans cette cagnotte dont le montant devait appartenir au second arrivant !... Et ces trois mille dollars, les possédait-elle ?... Non... Et pourrait-elle se les procurer ?... Pas davantage.
+
+En effet, seuls quelques gros parieurs, engagés sur Lissy Wag, auraient peut-être fait l\'avance de cette prime, et encore si les chances du Pavillon Jaune n\'eussent pas été si gravement compromises. Lorsque Hodge Urrican tira « le numéro de la Mort », il en fut quitte à recommencer. Hermann Titbury lui-même, le jour fixé sortirait de l\'hôtellerie de la Louisiane et reprendrait son tour. Ni l\'un ni l\'autre, en somme, n\'étaient exclus du match pour un temps illimité, tandis que cette pauvre Lissy Wag...
+
+« Malheur... malheur !... répétait Jovita Foley, qui n\'avait plus que ce funeste mot à la bouche.
+
+--- Eh bien... que faisons-nous ?... demanda sa compagne..
+
+--- Attendons... attendons, ma pauvre chérie !
+
+--- Attendons... quoi ?...
+
+--- Je ne sais pas !... D\'ailleurs... nous avons quinze jours pour nous rendre à la prison...
+
+--- Mais non pour payer la prime, Jovita, et c\'est cela qui nous embarrasse le plus...
+
+--- Oui... Lissy... oui !... Enfin... attendons...
+
+--- Ici ?...
+
+--- Non, par exemple ! »
+
+Et ce « non », sorti du coeur de Jovita Foley, répondait bien au changement des dispositions manifestées jusqu\'alors à la cinquième partenaire par les hôtes de *Mammoth* *Hotel*.
+
+En effet, Lissy Wag se voyait déjà délaissée depuis ce déplorable coup de dés. Favorite de la veille, elle n\'était plus la favorite du lendemain. Les parieurs, les coureurs de « boom », qui avaient ponté sur elle, l\'auraient volontiers couverte de malédictions. En prison, la malheureuse irait en prison, et la partie serait certainement achevée avant qu\'elle eût été délivrée ! Aussi, dès la première heure, le vide se fit-il autour d\'elle. C\'est ce que Jovita Foley avait parfaitement vu, et comme cela était humain, n\'est-il pas vrai ?
+
+Bref, dès ce jour-là, repartirent la plupart des touristes, puis le gouverneur de l\'Illinois. Et il est bien probable que John Hamilton regrettait à cette heure les grades honorifiques qu\'il avait accordés aux deux amies. Il suit de là que le colonel Wag et le lieutenant-colonel Foley ne feraient plus que triste figure au milieu de la milice illinoise.
+
+Le jour même, l\'après-midi, elles réglèrent leur note à *Mammoth* *Hotel*, et prirent le train pour Louisville, afin d\'y attendre... quoi ?...
+
+« Ma chère Jovita, dit alors Lissy Wag, au moment de descendre du train, sais-tu ce qu\'il y aurait à faire ?...
+
+--- Non, Lissy, je n\'ai plus la tête à moi !... Je suis toute désorientée !
+
+--- Eh bien, il y aurait à continuer le voyage jusqu\'à Chicago, à rentrer tranquillement chez nous, et à reprendre nos fonctions dans les magasins de M. Marshall Field... Est-ce que ce ne serait pas sage ?...
+
+--- Très sage, ma chérie, très sage !... Mais... c\'est plus fort que moi... j\'aimerais mieux devenir sourde que d\'écouter la voix de la sagesse !
+
+--- C\'est de la folie...
+
+--- Soit... je suis folle !... Je le suis depuis que cette partie a commencé, et je veux l\'être jusqu\'à la fin...
+
+--- Va !... c\'est fini pour nous, Jovita, bien fini !...
+
+--- On ne sait pas, et je donnerais dix ans de ma vie pour être d\'un mois plus vieille ! »
+
+Et elle les donnait et elle les avait donnés tant de fois, ses dix ans, que, tout compte fait, cela faisait cent trente années de son existence déjà sacrifiées en pure perte !
+
+Jovita Foley conservait-elle donc encore quelque espoir ?... Dans tous les cas, elle obtint de Lissy Wag, qui eut la faiblesse de l\'écouter, qu\'elle n\'abandonnerait pas la partie. Toutes deux passeraient quelques jours à Louisville. N\'avaient-elles pas du 6 au 20 juin pour se rendre au Missouri ?...
+
+Ce fut donc dans un modeste hôtel de Louisville qu\'elles allèrent enfouir leurs chagrins, -- du moins Jovita Foley, car sa compagne s\'était facilement résignée, n\'ayant jamais cru au succès final.
+
+Le 7, le 8, le 9 s\'écoulèrent. La situation ne s\'était point modifiée, et telles furent les insistances de Lissy Wag qu\'elle fit consentir Jovita Foley à regagner Chicago.
+
+D\'ailleurs, les journaux, -- même le *Chicago* *Herald*, qui avait toujours soutenu la cinquième partenaire, -- la « lâchaient » maintenant. C\'était en enrageant que Jovita Foley les lisait, puis les déchirait d\'une main, pour ne pas dire d\'une griffe fiévreuse. Lissy Wag ne comptait plus dans les agences où sa cote était tombée à zéro et même au-dessous. Dans la matinée du 8, les deux amies avaient appris que le commodore Urrican avait amené neuf par six et trois, -- ce qui lui faisait atteindre d\'un bond le Wisconsin, vingt-sixième case.
+
+« Le voilà bien reparti !... » s\'était écriée la malheureuse Jovita Foley.
+
+Et le 10, lorsque le télégraphe annonça que l\'homme masqué était, par dix points, envoyé au Minnesota, cinquante et unième case :
+
+« Décidément... c\'est celui-là qui a le plus de chances, dit-elle, et ce sera lui qui héritera des millions de cet Hypperbone ! ».
+
+On voit que l\'excentrique défunt avait singulièrement baissé dans son estime depuis que les dés avaient fait une prisonnière de sa chère Lissy Wag !
+
+Enfin il avait été convenu que, le soir même, les deux amies prendraient le train pour Chicago. Bien que les journaux de Louisville eussent fait connaître dans quel hôtel Lissy Wag et Jovita Foley étaient descendues, inutile de dire que pas un seul reporter n\'était venu leur rendre visite. Si ce fut à la grande satisfaction de l\'une, ce fut à l\'extrême dépit de l\'autre, puisque, répétait-elle en serrant les lèvres, « c\'est comme si nous n\'existions pas ! »
+
+Mais il était écrit qu\'elles ne partiraient pas encore pour la métropole illinoise. Une circonstance des moins prévues allait leur permettre de peut-être retrouver une partie de leurs chances en rentrant dans le match que, faute de payer la prime, elles devaient abandonner.
+
+Vers trois heures de l\'après-midi, le facteur du quartier se présenta à l\'hôtel, monta à la chambre des deux amies. Dès que la porte lui eut été ouverte :
+
+« Mademoiselle Lissy Wag ?... demanda-t-il.
+
+--- C\'est moi, répondit la jeune fille.
+
+--- J\'ai une lettre chargée à votre adresse, et si vous voulez signer la réception...
+
+--- Donnez », répondit Jovita Foley, dont le coeur battait à se briser.
+
+Les formalités remplies, le facteur se retira.
+
+« Qu\'y a-t-il dans cette lettre ?... dit Lissy Wag.
+
+--- De l\'argent, Lissy...
+
+--- Et qui peut nous envoyer ?...
+
+--- Qui ?... » répliqua Jovita Foley.
+
+Elle rompit les cachets de l\'enveloppe et en tira une lettre qui renfermait un papier plié.
+
+La lettre ne contenait que ces lignes :
+
+« Ci-inclus un chèque de trois mille dollars sur la Banque de Louisville, et que miss Lissy Wag voudra bien accepter pour payer sa prime, -- de la part de Humphry Weldon. »
+
+La joie de Jovita Foley éclata comme une pièce d\'artifices. Elle sautait, elle riait à étouffer, elle faisait bouffer ses jupes en tournant, et elle répétait :
+
+« Le chèque... le chèque de trois mille dollars !... C\'est ce digne monsieur qui est venu nous voir pendant que tu étais malade, ma chérie !... C\'est de M. Weldon !...
+
+--- Mais, fit observer Lissy Wag, je ne sais si je peux... si je dois accepter...
+
+--- Si tu le peux... si tu le dois !... Ne vois-tu pas que M. Weldon a parié de grosses sommes pour toi !... Il nous l\'a dit, d\'ailleurs, et il veut que tu puisses continuer la partie !... Tiens, malgré son âge respectable, je l\'épouserais... s\'il voulait de moi !... Allons toucher le chèque ! »
+
+Et elles allèrent toucher le chèque, qui leur fut payé à l\'instant même. Quant à remercier ce digne, cet excellent, ce respectable Humphry Weldon, impossible puisqu\'on ne connaissait pas son adresse.
+
+Le soir même, Lissy Wag et Jovita Foley quittaient Louisville, sans avoir rien dit à personne de la lettre si opportunément reçue, et, le lendemain, 11, elles débarquaient à Saint-Louis.
+
+Certes, à bien réfléchir, la situation de Lissy Wag dans le match était toujours compromise, puisqu\'elle ne pourrait pas prendre part aux tirages, tant que l\'un des partenaires ne l\'aurait pas remplacée à la cinquante-deuxième case. Mais cela ne manquerait pas d\'arriver, -- à en croire cette si confiante, cette trop confiante Jovita Foley, -- et, dans tous les cas, Lissy Wag ne serait pas exclue de la partie pour cause de prime impayée.
+
+Toutes deux étaient donc dans cet État du Missouri, auquel aucun des « Sept » ne songeait jamais sans éprouver les affres de l\'épouvante. Aussi, on l\'admettra volontiers, pas un de ses deux millions sept cent mille habitants n\'était-il flatté de ce que William J. Hypperbone se fût permis d\'en faire une prison pour son Noble Jeu des États-Unis d\'Amérique. Il est vrai, sans parler des gens de couleur, les Allemands y sont en grande majorité, et l\'on sait ce que vaut la susceptibilité teutonne !
+
+Le Missouri est l\'un des plus importants états de la République américaine, le dix-septième par la superficie, le cinquième par sa population, le premier pour la production du zinc. Limité par des lignes de longitude et de latitude au sud et à l\'ouest, il a, du côté de l\'est et du nord, le Mississippi et le Missouri dont les eaux se confondent en amont de Saint-Louis, à l\'angle où s\'élève la petite ville de Columbia. On imagine aisément à quel point ces deux routes fluviales doivent favoriser le commerce de la métropole, expéditions de blé et de farines, exportation du chanvre qui est cultivé en grand, élevage des porcs et des bêtes à cornes. Les métaux ne lui manquent pas, ni les gisements de plomb et de zinc. C\'est dans le comté de Washington que se dressent les Iron Mountains, la Montagne de Fer, et le Pilot Kirol, énormes masses hautes de trois cents pieds, que les Américains auront peut-être un jour l\'idée de transformer en deux électro-aimants d\'une formidable puissance.
+
+L\'État de Missouri n\'était autrefois qu\'un district de la Louisiane, mais il est rentré avec son autonomie dans l\'Union depuis 1821, et la fondation de Saint-Louis par les Français date de 1764.
+
+En cet État, il n\'y a pas moins de onze villes à citer pour leur valeur commerciale ou industrielle, dont trois possèdent plus de cent mille habitants. L\'une d\'elles, Kansas, en face de Kansas City du Kansas, avait déjà été, on s\'en souvient, visitée par Max Réal, quand, à son premier voyage, il descendit le Missouri depuis Omaha jusqu\'à cette double ville. Mais il en est d\'autres, telle Jefferson City, la capitale de l\'État, qui mérite l\'attention des touristes, grâce à sa pittoresque situation sur une terrasse, dominant la vallée missourienne.
+
+Toutefois, le premier rang appartient sans conteste à Saint-Louis, qui occupe une étendue de dix milles sur la rive droite du grand fleuve. Cette métropole fut appelée jadis Mount City, parce qu\'elle est entourée d\'une succession de monticules calcaires de couleur blanche. Elle occupe une aire supérieure d\'un quart à celle de Paris, et encore conviendrait-il d\'y ajouter ses annexes urbaines, East-Saint-Louis, Brooklyn. Cahokia, Prairie du Port, bien qu\'elles s\'élèvent sur le territoire illinois.
+
+Telle était la cité désignée par ce membre de l\'*Excentric* *Club* pour servir de prison aux joueurs du match, -- la cité entière s\'entend. Il va de soi qu\'il ne s\'agissait pas d\'être incarcéré entre les murs d\'un cachot. Non ! Lissy Wag n\'aurait point à subir la promiscuité des malfaiteurs... Jovita Foley et elle ne seraient point privées de la liberté... Elles pourraient se promener à leur fantaisie à travers cette cité superbe où l\'on compte dix-huit parcs publics, et dont l\'un ne mesure pas moins de cinq cent cinquante hectares[[\[6\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn6041){#_ftnref6041 .pcalibre2 .pcalibre1}.
+
+Les deux amies durent donc faire choix d\'un hôtel, -- et ce fut à *Lincoln* *Hotel* qu\'elles vinrent occuper la même chambre dans l\'après-midi du 11 juin.
+
+« Eh bien, nous y sommes dans cette horrible prison, s\'écria Jovita Foley, et j\'avoue que, pour une horrible prison, Saint-Louis me paraît fort agréable..
+
+--- Une prison ne saurait l\'être, Jovita, du moment qu\'on n\'a pas la permission d\'en sortir...
+
+--- Sois tranquille, nous en sortirons, ma chérie ! »
+
+Ainsi toute sa confiance d\'autrefois était revenue à Jovita Foley, -- en même temps que sa gaîté naturelle, -- depuis l\'envoi des trois mille dollars, dû à cet excellent M. Humphry Weldon, lesquels furent expédiés le jour même en un chèque à l\'ordre de maître Tornbrock, notaire à Chicago.
+
+Mais, cette confiance, il ne semblait pas qu\'elle fût revenue au monde des parieurs, aux courtiers des agences. En effet, bien que les journaux de Saint-Louis eussent signalé la présence de la cinquième partenaire à *Lincoln* *Hotel*, aucun interviewer ne s\'y présenta. Que pouvait-on attendre de Lissy Wag, qui avait eu cette malchance d\'être tombée dans la case missourienne ?...
+
+Et, cependant, peut-être cet emprisonnement finirait-il plus tôt qu\'on ne l\'imaginait. Le lendemain, 12, un nouveau tirage serait effectué et les suivants se succéderaient de deux en deux jours...
+
+« Et qui sait... qui sait... qui sait ?... » répétait sans cesse Jovita Foley.
+
+Les deux amies employèrent donc les loisirs de l\'après-midi à visiter quelques quartiers de la ville, qu\'un ravin, parallèle au cours du Mississippi, coupe en deux parties inégales. Dans les magasins luxueux des principales rues, quel attrait pour des yeux féminins, non seulement de magnifiques bijoux et de superbes étoffes, mais des pelleteries, des fourrures de toute beauté. Et pourquoi s\'en étonner, puisque ces précieuses robes sont fournies à profusion par les opossums, les daims, les renards, les rats musqués, les wolverènes, les chats sauvages dont les Indiens de ce territoire font un grand trafic ? Et ne s\'y rencontrent-ils pas encore par milliers, ces bisons, ces buffles, qui fréquentent les vastes prairies en bordure des fleuves, et auxquels des bandes de loups donnent incessamment la chasse ?...
+
+Enfin la journée ne fut pas perdue.
+
+Le lendemain, on comprend ce que devait être l\'impatience de Jovita Foley, qui se réveilla dès l\'aube, puisque, ce jour-là, à huit heures, maître Tornbrock allait procéder au tirage du 12 juin.
+
+Aussi, laissant dormir Lissy Wag, elle sortit de l\'hôtel, en quête d\'informations.
+
+Deux heures... Oui ! Elle fut bien deux heures absente, et quel réveil pour la cinquième partenaire, qui sursauta au bruit d\'une porte violemment ouverte, et à la retentissante entrée de Jovita Foley, criant :
+
+« Délivrée... ma chère... délivrée...
+
+--- Que dis-tu ?...
+
+--- Huit par cinq et trois... Il les a...
+
+--- Il ?...
+
+--- Et comme il était à la quarante-quatrième case, le voilà expédié à la cinquante-deuxième...
+
+--- Qui... il ?...
+
+--- Et comme la cinquante-deuxième est la prison, il y vient prendre notre place...
+
+--- Mais qui ?...
+
+--- Max Réal... ma chérie... Max Réal...
+
+--- Ah ! Le pauvre jeune homme ! répondit Lissy Wag. J\'aurais mieux aimé rester...
+
+--- Par exemple ! » s\'écria la triomphante Jovita Foley que cette observation fit bondir comme un isard.
+
+Rien de plus exact ! Ce coup de dés mettait en liberté Lissy Wag. Elle serait remplacée à Saint-Louis par Max Réal, dont elle reprendrait la place, à Richmond, État de Virginie, sept cent cinquante milles, vingt-cinq à trente heures de voyage !...
+
+D\'ailleurs, pour s\'y rendre, elle avait, du 12 au 20, plus de temps qu\'il n\'en fallait. Ce qui n\'empêcha point son impatiente compagne, incapable de contenir sa joie, de s\'écrier :
+
+« En route...
+
+--- Non... Jovita, non... répondit nettement Lissy Wag..
+
+--- Non !... Et pourquoi ?...
+
+--- Je trouve convenable d\'attendre ici M. Max Réal... Nous devons bien cela à cet infortuné jeune homme ! »
+
+Et Jovita Foley d\'acquiescer à cette proposition, mais à la condition que le prisonnier ne tarderait pas plus de trois jours à franchir le seuil de sa prison.
+
+Or, ce fut précisément dès le lendemain, 13, que Max Réal descendit à la gare de Saint-Louis. Et il existait sans doute un mystérieux lien de suggestion entre le premier et la cinquième partenaire, puisque, si celle-ci désirait ne pas partir avant que celui-là fût arrivé, celui-là voulait arriver avant que celle-ci fût partie.
+
+Pauvre Mme Réal ! En quel état devait être cette excellente mère, à la pensée que son fils était si malencontreusement arrêté sur le chemin du succès !
+
+Il va de soi que Max Réal savait par les journaux que Lissy Wag logeait à *Lincoln* *Hotel*. Dès qu\'il s\'y présenta, il fut reçu par les deux amies, tandis que Tommy attendait dans un hôtel voisin le retour de son maître.
+
+Lissy Wag, émue plus qu\'elle n\'aurait voulu le paraître, s\'avança au-devant du jeune peintre :
+
+« Ah ! Monsieur Réal, dit-elle, que nous vous plaignons...
+
+--- Et du fond du coeur !... ajouta Jovita Foley, qui ne le plaignait pas le moins du monde, et dont les yeux ne parvenaient pas à exprimer la pitié.
+
+--- Mais non... miss Wag... répondit Max Réal, lorsqu\'il eut repris haleine après une montée trop rapide, non !... je ne suis pas à plaindre... ou du moins, je ne veux pas l\'être, puisque j\'ai le bonheur de vous délivrer...
+
+--- Et que vous avez raison !... déclara Jovita Foley, qui ne put retenir cette réponse aussi franche que désagréable.
+
+--- Excusez Jovita, dit alors Lissy Wag. Elle ne réfléchit pas assez, monsieur Réal, et, pour moi, croyez que j\'éprouve un profond chagrin....
+
+--- Sans doute... sans doute... reprit Jovita Foley. D\'ailleurs, ne vous désespérez pas, monsieur Réal !... Ce qui nous arrive peut aussi vous arriver !... Certes, cela eût été bien préférable si d\'autres que vous avaient été envoyés en prison, ce Tom Crabbe, ce commodore Urrican, cet Hermann Titbury !... Nous eussions accueilli avec plus de plaisir leur visite... que la vôtre... c\'est-à-dire... je me comprends... Enfin... ils viendront peut-être vous délivrer...
+
+--- C\'est possible, miss Foley, répliqua Max Réal, mais il ne faut pas trop y compter. Croyez, au surplus, que j\'accepte ce contretemps avec grande philosophie... En ce qui concerne la partie, je n\'ai jamais cru que je gagnerais...
+
+--- Ni moi, monsieur Réal, se hâta de dire Lissy Wag.
+
+--- Mais si... mais si... affirma Jovita Foley, ou, du moins, je l\'ai cru pour elle !...
+
+--- Et je l\'espère encore, miss Wag, ajouta le jeune homme.
+
+--- Et moi, je veux l\'espérer pour vous, monsieur Réal... répondit la jeune fille.
+
+--- Voyons... voyons... reprit Jovita Foley, vous ne pouvez pas gagner tous les deux...
+
+--- C\'est impossible, en effet, dit en riant Max Réal. Il ne peut y avoir qu\'un gagnant...
+
+--- Allons donc ! s\'écria Jovita Foley, de plus en plus emballée. Si Lissy gagne... elle aura les millions... et si vous arrivez second... vous aurez le produit des primes...
+
+--- Comme tu arranges les choses, ma pauvre Jovita ! Observa Lissy Wag.
+
+--- Attendons, dit alors Max Réal, et laissons faire le sort !... Puisse-t-il vous être favorable, miss Wag... »
+
+Et, vraiment, il la trouvait de plus en plus charmante, cette jeune fille !... Cela se voyait d\'une façon trop claire... Et Jovita Foley, qui n\'était point sotte assurément, de se dire en aparté :
+
+« Tiens... tiens... et pourquoi pas ?... Voilà ce qui simplifierait la situation, et il importerait peu que l\'un atteignit le but plutôt que l\'autre !... »
+
+Ah ! Comme elle connaissait bien le coeur humain, et en particulier celui de son amie !
+
+Tous les trois se mirent à causer des péripéties du match, des incidents survenus au cours du voyage, des beautés naturelles qu\'ils avaient pu admirer en allant d\'un État à l\'autre, les merveilles du Parc National du Yellowstone que Max Réal ne devait jamais oublier, les merveilles des grottes du Kentucky, dont Lissy Wag et Jovita Foley conserveraient l\'éternel souvenir.
+
+Puis elles racontèrent ce qui s\'était produit à propos des trois mille dollars. Sans le généreux envoi de M. Humphry Weldon, fait dans des termes qui ne permettaient pas de le refuser, Lissy Wag aurait dû se retirer de la partie.
+
+« Et quel est ce monsieur Humphry Weldon ?... demanda Max Réal, un peu inquiet.
+
+--- Un excellent et digne vieillard... qui s\'intéressait à nous... répondit Jovita Foley.
+
+--- Comme parieur, sans doute... ajouta Lissy Wag.
+
+--- Et en voilà un qui est bien sûr d\'empocher ses paris ! » déclara Jovita Foley.
+
+Et ce que ne dit pas Max Réal, c\'est que lui aussi avait eu la pensée de mettre cette somme à la disposition de la jeune prisonnière... Mais à quel titre eût-elle pu l\'accepter ?...
+
+Enfin, cette journée et celle du lendemain, Max Réal et les deux amies les passèrent ensemble, en causeries, en promenades. Si Lissy Wag se montrait extrêmement chagrine de cette mauvaise chance de Max Réal, celui-ci se montrait tout heureux que Lissy Wag en eût profité. Et, en effet, depuis vingt-quatre heures un revirement s\'était produit dans les agences en faveur de la cinquième partenaire. Aussi les reporters de venir assidûment à *Lincoln* *Hotel* afin d\'interviewer Lissy Wag, qui se refusait toujours à les recevoir, et les parieurs d\'abandonner l\'ancien favori pour la nouvelle favorite ! Ce qui résultait de la situation actuelle de la partie, c\'est que, même en revenant en Virginie à la quarante-quatrième case abandonnée par Max Réal, Lissy Wag ne serait plus devancée que par Tom Crabbe à la quarante-septième, et par X K Z à la cinquante et unième.
+
+« Et ce particulier aux initiales, demanda Jovita Foley, sait-on enfin qui il est ?...
+
+--- On l\'ignore, répondit le jeune peintre, et il demeure plus mystérieux que jamais ! »
+
+Il va sans dire, n\'est-il pas vrai, que Max Réal, Lissy Wag et Jovita Foley ne s\'entretinrent pas uniquement des choses du match Hypperbone. Ils parlèrent de leur famille... de la jeune fille qui n\'avait plus aucun parent... de Mme Réal, maintenant installée à Chicago et qui serait heureuse de recevoir miss Lissy Wag... de Sheridan Street qui n\'était pas très loin de South Halsted Street, etc., etc.
+
+Toutefois, Jovita Foley cherchait sans cesse à ramener la conversation sur la partie engagée, sur les coups qui pouvaient encore se produire.
+
+« Enfin, dit-elle, peut-être qu\'au prochain tirage, ma chérie, tu planteras le pavillon jaune sur la dernière case ?...
+
+--- Impossible, miss Foley, c\'est impossible, déclara Max Réal.
+
+--- Et pourquoi ?...
+
+--- Parce que miss Wag va prendre ma place à la quarante-quatrième...
+
+--- Eh bien... monsieur Réal ?...
+
+--- Eh bien... le plus grand nombre que pourrait obtenir miss Wag serait dix qui, redoublé, soit vingt points, lui ferait dépasser la soixante-troisième case, et elle devrait rétrograder à la soixante-deuxième... Et, alors, impossibilité de gagner le coup suivant, puisque le point de un ne peut être amené par les dés...
+
+--- Vous avez raison, monsieur Réal, répondit Lissy Wag. Donc, Jovita, il faudra te résigner à attendre...
+
+--- Mais, reprit le jeune peintre, il y a un autre coup qui pourrait être très mauvais pour miss Wag...
+
+--- Lequel ?....
+
+--- Ce serait si les dés amenaient le point de huit, puisqu\'il la renverrait en prison...
+
+--- Ça !... jamais !... s\'écria Jovita Foley.
+
+--- Et cependant, répondit en souriant la jeune fille, j\'aurais à mon tour le bonheur de délivrer monsieur Réal !...
+
+--- Très sincèrement, miss Wag, affirma le jeune homme, je ne le souhaite pas...
+
+--- Ni moi !... déclara la pétulante Jovita Foley.
+
+--- Et alors, monsieur Réal, demanda Lissy Wag, quel est le meilleur point que je doive désirer ?...
+
+--- Celui de douze, puisqu\'il vous enverrait à la cinquante-sixième case, État de l\'Indiana, et non dans les lointaines régions du Far West.
+
+--- Parfait, déclara Jovita Foley, et au tirage suivant, nous pourrions arriver au but ?...
+
+--- Oui, avec le point de sept.
+
+--- Sept !... s\'écria Jovita Foley, un battant des mains. Sept... et la première des Sept !
+
+--- Dans tous les cas, ajouta Max Réal, vous n\'avez point à redouter la cinquante-huitième case, celle de Death Valley où succomba le commodore Urrican, puisqu\'il faudrait amener le point de quatorze, ce qui ne se peut. Et maintenant, je vous renouvelle, miss Wag, les voeux très sincères que j\'avais formés pour vous au début, puissiez-vous être victorieuse, c\'est ce que je souhaite le plus au monde ! »
+
+Lissy Wag ne répondit que par un regard où se peignait une vive émotion.
+
+« Décidément, se dit Jovita Foley, c\'est qu\'il est vraiment très bien, ce monsieur Réal, un artiste de talent et plein d\'avenir !... Et qu\'on ne vienne pas arguer de la position modeste de Lissy Wag... Elle est charmante, charmante, et encore charmante, et elle vaut, certes, les filles des millionnaires, qui vont chercher des titres en Europe, sans s\'inquiéter de savoir si les princes ont des principautés, les ducs des duchés, si les comtes ne sont pas ruinés et les marquis dans la panne ! »
+
+C\'est ainsi que raisonnait cette judicieuse quoique trop évaporée personne, et, en sa sagesse, elle pensa qu\'il ne fallait pas prolonger outre mesure cette situation. Aussi remit-elle sur le tapis la question du départ.
+
+Naturellement, Max Réal insista pour que le séjour à Saint-Louis ne prît pas fin avec trop de hâte. Les deux amies pouvaient attendre jusqu\'au 18 juin avant de gagner Richmond, et le lendemain n\'était que le 13... Et peut-être Lissy Wag, elle aussi, pensa-t-elle que c\'était partir un peu tôt... Elle n\'en voulut rien dire cependant et se rendit au désir de Jovita Foley.
+
+Max Réal ne chercha point à se dissimuler le chagrin que lui causait cette séparation. Mais il sentit qu\'il ne devait pas insister davantage, et, le soir venu, il conduisit les deux voyageuses à la gare. Là, il répéta une dernière fois :
+
+« Tous mes voeux vous accompagnent, miss Wag...
+
+--- Merci... merci... répondit la jeune fille qui lui tendit franchement la main.
+
+--- Et moi ?... demanda Jovita Foley. Il n\'y a donc pas une bonne parole pour moi ?...
+
+--- Si... mademoiselle Foley, répondit Max Réal, car vous avez un excellent coeur !... Veillez bien sur votre compagne, en attendant notre retour à Chicago... »
+
+Le train se mit en marche, et le jeune homme resta sur le quai de la gare jusqu\'à ce que les lumières du dernier fourgon eussent disparu dans la nuit.
+
+Ce n\'était que trop certain, il aimait, il aimait cette douce et gracieuse Lissy Wag, que sa mère adorerait dès qu\'il la lui aurait présentée à son retour. D\'avoir sa partie très compromise, d\'être confiné dans cette métropole avec l\'espoir très hypothétique d\'une prochaine délivrance, voilà ce qui ne le préoccupait guère !
+
+Il rentra à son hôtel très attristé, et combien il se trouva seul ! D\'ailleurs, à son tour, grâce à cette déplorable situation de prisonnier, il était abandonné, il n\'avait plus de partisans, sa cote baissait dans les agences comme la colonne du baromètre par des vents de sud-ouest, quoiqu\'il eût satisfait à l\'obligation de payer la triple prime...
+
+Tommy, lui, était désespéré. Son maître n\'empocherait pas les millions du match. Il ne pourrait l\'acheter pour le réduire à la plus cruelle mais à la plus désirée des servitudes...
+
+Eh bien, on a toujours tort de ne pas compter avec le hasard. S\'il n\'a pas d\'habitudes, comme cela a été justement observé, du moins a-t-il des caprices, et cette observation se réalisa derechef dans la matinée du 14.
+
+Dès neuf heures, la foule des parieurs assiégeait le bureau du télégraphe de Saint-Louis, afin d\'être le plus vite possible informée du nombre de points obtenus, ce jour-là, par le second partenaire.
+
+Le résultat que les suppléments des journaux publièrent immédiatement fut celui-ci : cinq, par trois et deux, Tom Crabbe.
+
+Or, comme Tom Crabbe, alors en Pennsylvanie, occupait la quarante-septième case, ce point de cinq l\'expédiait dans la cinquante-deuxième, Missouri, Saint-Louis, prison...
+
+Que l\'on juge de l\'effet produit par cet inattendu coup de dés !... Max Réal, qui avait pris la place de Lissy Wag, immédiatement remplacé par Tom Crabbe, qu\'il allait à son tour remplacer en Pennsylvanie !... De là, à l\'heure même, un bouleversement dans les agences, ce qui fit accourir les courtiers et les reporters à l\'hôtel du jeune peintre, voilà ce qui fit remonter sa cote, ce qui amena ses partisans, devant cette incroyable chance, à le proclamer de nouveau grand favori du match !...
+
+Mais quelle devait être la fureur de John Milner, à qui décidément rien ne réussissait plus !... Tom Crabbe en prison à Saint-Louis et une triple prime à payer !... Décidément, elle se remplissait, la cagnotte Hypperbone, et les dollars s\'y multipliaient au profit du second arrivant...
+
+Quant à Max Réal, il avait le temps de se rendre de Saint-Louis à Richmond entre le 14 et le 22 juin. Aussi ne se pressa-t-il point de partir. Et pourquoi ?... Parce qu\'il voulait connaître le tirage du 20 qui concernait Lissy Wag. Peut-être la jeune fille serait-elle envoyée dans l\'un des états voisins, où il lui serait si agréable de s\'arrêter pendant quelques jours...
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185599 .pcalibre2 .pcalibre1}[]{#_Toc343183138 .pcalibre2 .pcalibre1}[]{#_Toc343180677 .pcalibre2 .pcalibre1}[]{#_Toc343178216 .pcalibre2 .pcalibre1}[]{#_Toc343175755 .pcalibre2 .pcalibre1}[]{#_Toc343173294 .pcalibre2 .pcalibre1}[]{#_Toc343170833 .pcalibre2 .pcalibre1}[]{#_Toc343168372 .pcalibre2 .pcalibre1}[]{#_Toc343165911 .pcalibre2 .pcalibre1}[]{#_Toc343163450 .pcalibre2 .pcalibre1}[]{#_Toc343160989 .pcalibre2 .pcalibre1}[]{#_Toc343158528 .pcalibre2 .pcalibre1}[]{#_Toc343149258 .pcalibre2 .pcalibre1}[]{#_Toc343146797 .pcalibre2 .pcalibre1}[]{#_Toc343144334 .pcalibre2 .pcalibre1}[]{#_Toc343141873 .pcalibre2 .pcalibre1}[]{#_Toc343139412 .pcalibre2 .pcalibre1}[]{#_Toc343136950 .pcalibre2 .pcalibre1}[]{#_Toc343134489 .pcalibre2 .pcalibre1}[]{#_Toc343132028 .pcalibre2 .pcalibre1}[]{#_Toc343129566 .pcalibre2 .pcalibre1}[]{#_Toc343127105 .pcalibre2 .pcalibre1}[]{#_Toc343124641 .pcalibre2 .pcalibre1}[]{#_Toc343122180 .pcalibre2 .pcalibre1}[]{#_Toc343119719 .pcalibre2 .pcalibre1}[]{#_Toc343117265 .pcalibre2 .pcalibre1}[]{#_Toc343114802 .pcalibre2 .pcalibre1}[]{#_Toc343112341 .pcalibre2 .pcalibre1}[]{#_Toc343109880 .pcalibre2 .pcalibre1}[]{#_Toc343106136 .pcalibre2 .pcalibre1}[]{#_Toc343103674 .pcalibre2 .pcalibre1}[]{#_Toc343101211 .pcalibre2 .pcalibre1}[]{#_Toc343098786 .pcalibre2 .pcalibre1}[]{#_Toc343096317 .pcalibre2 .pcalibre1}[]{#_Toc343093855 .pcalibre2 .pcalibre1}[]{#_Toc343091377 .pcalibre2 .pcalibre1}[]{#_Toc343088914 .pcalibre2 .pcalibre1}[]{#_Toc343086452 .pcalibre2 .pcalibre1}[]{#_Toc343083989 .pcalibre2 .pcalibre1}[]{#_Toc343081527 .pcalibre2 .pcalibre1}[]{#_Toc343079066 .pcalibre2 .pcalibre1}[]{#_Toc343076603 .pcalibre2 .pcalibre1}[]{#_Toc343074140 .pcalibre2 .pcalibre1}[]{#_Toc343071674 .pcalibre2 .pcalibre1}[]{#_Toc343043714 .pcalibre2 .pcalibre1}[]{#_Toc343038829 .pcalibre2 .pcalibre1}[]{#_Toc343036464 .pcalibre2 .pcalibre1}[]{#_Toc343034099 .pcalibre2 .pcalibre1}[]{#_Toc343031734 .pcalibre2 .pcalibre1}[]{#_Toc343028178 .pcalibre2 .pcalibre1}[]{#_Toc343025813 .pcalibre2 .pcalibre1}[]{#_Toc343023448 .pcalibre2 .pcalibre1}[]{#_Toc343021082 .pcalibre2 .pcalibre1}[]{#_Toc343018716 .pcalibre2 .pcalibre1}[]{#_Toc343016351 .pcalibre2 .pcalibre1}[]{#_Toc343013986 .pcalibre2 .pcalibre1}[]{#_Toc343011619 .pcalibre2 .pcalibre1}[]{#_Toc343009254 .pcalibre2 .pcalibre1}[]{#_Toc343006889 .pcalibre2 .pcalibre1}[]{#_Toc343004524 .pcalibre2 .pcalibre1}[]{#_Toc343002159 .pcalibre2 .pcalibre1}[]{#_Toc342999794 .pcalibre2 .pcalibre1}[]{#_Toc342997429 .pcalibre2 .pcalibre1}[]{#_Toc342995064 .pcalibre2 .pcalibre1}[]{#_Toc342992699 .pcalibre2 .pcalibre1}[]{#_Toc342990334 .pcalibre2 .pcalibre1}[]{#_Toc342987969 .pcalibre2 .pcalibre1}[]{#_Toc342985602 .pcalibre2 .pcalibre1}[]{#_Toc342983237 .pcalibre2 .pcalibre1}[]{#_Toc342980872 .pcalibre2 .pcalibre1}[]{#_Toc342978507 .pcalibre2 .pcalibre1}[[Chapitre 12 -- Sensationnel fait divers pour la Tribune]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942526 .pcalibre2 .pcalibre1} {#chapitre-12-sensationnel-fait-divers-pour-la-tribune .calibre171 .sigil_not_in_toc}
+
+Harris T. Kymbale, on s\'en souvient, était, de sa personne, dans le bureau du télégraphe d\'Olympia, avant que le midi du 18 juin eût été se perdre dans les oubliettes du passé. Il se trouvait donc à son poste, brisé de fatigue, éreinté moralement et physiquement, et comment s\'en étonner après cette merveilleuse performance des cyclistes professionnels Will Stanton et Robert Flock ? Tombé presque évanoui sur un banc du Post Office, il avait cependant pu répondre : « Présent », lorsque l\'employé avait dit : « Un télégramme pour Harris T. Kymbale. »
+
+Quelques minutes plus tard, ayant recouvré l\'entière possession de lui-même, grâce à un énergique mélange de wisky et de gin, il prit connaissance du télégramme ainsi conçu :
+
+
+[Chicago]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}[, 8 h. 13.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+[« *Kymbale*, *Olympia*, *Washington*.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+« Neuf par cinq et quatre, South Dakota, Yankton.
+
+« TORNBROCK »
+
+
+Ainsi donc, le tirage du 18 juin avait été maintenu à cette date, bien qu\'il eût pu être avancé de quarante-huit heures, puisqu\'il concernait Hermann Titbury. Mais Hermann Titbury était chambré à la Nouvelle-Orléans, où il devait rester pendant le temps réglementaire, et le couple ne cherchait qu\'à s\'étourdir sur sa propre situation au prix de deux cents dollars quotidiens à *Excelsior* *Hotel*. Il avait paru logique à maître Tornbrock et aux membres de l\'*Excentric* *Club* de ne point modifier les dates de tirages, afin de ne pas diminuer les délais affectés aux déplacements des divers partenaires, et c\'était interpréter de juste façon les intentions de William J. Hypperbone.
+
+En somme, le chroniqueur en chef de la *Tribune* aurait eu mauvaise grâce à se plaindre de ce dernier coup des dés. Il n\'était pas obligé de revenir dans la partie trop connue du territoire fédéral, et il allait traverser une région nouvelle pour lui en se rendant au South Dakota, à moins de treize cents milles de l\'État de Washington.
+
+En outre, il faut remarquer que Harris T. Kymbale, en prenant possession de la trente-neuvième case, ne serait plus devancé que par X K Z, premier au Minnesota, par Max Réal, second en Pennsylvanie, par Lissy Wag, troisième en Virginie. Il venait donc au quatrième rang, avant le commodore Urrican, qui attendait dans le Wisconsin son prochain départ. Quant à Hermann Titbury, il était cloué pour vingt-huit jours encore en Louisiane, et Tom Crabbe se voyait condamné à moisir dans la prison de Saint-Louis jusqu\'à la fin du match, si aucun des partenaires ne venait l\'y remplacer.
+
+Harris T. Kymbale recouvra donc, on ne dira pas, toute sa confiance dans le succès final, puisqu\'il ne l\'avait point perdue, mais il se montra plus emballé que jamais, ses partisans aussi. Sans doute, trois pierres d\'achoppement se rencontraient encore sur sa route : le labyrinthe du Nebraska par lequel il avait déjà passé, la prison de Saint-Louis, et la Vallée de la Mort. Il est vrai, de ces trois dangers, un menaçait X K Z, deux menaçaient Lissy Wag et Max Réal. D\'ailleurs, le hasard jouait un si grand rôle dans ce match Hypperbone !... Les deux seuls points que le reporter eût à redouter, c\'étaient celui de douze, qui lui eût fait reprendre le chemin du Nebraska, et celui de dix doublé, qui l\'aurait envoyé offrir ses hommages et compliments à Tom Crabbe dans la prison du Missouri.
+
+Cependant, bien qu\'il disposât de quinze jours, du 18 juin au 2 juillet, pour se rendre au South Dakota, Harris T. Kymbale ne voulut pas perdre un jour. Sans attendre, cette fois, l\'itinéraire que le complaisant secrétaire de la *Tribune*, Bruman S. Bickhorn, allait lui adresser sans doute à Olympia, il le combina lui-même de très satisfaisante façon.
+
+Le territoire des South Dakota et North Dakota est séparé de celui du Washington par deux États, l\'Idaho et le Montana. Or, à cette époque, le Northern Pacific était livré à la circulation. En traversant le Wisconsin, le Minnesota, le North Dakota, le Montana et l\'Idaho, il mettait Chicago et par conséquent New York en communication directe avec la capitale du Washington. D\'Olympia à Fargo, sur la frontière est du Dakota septentrional, on compte environ treize cents milles, et quatre cents pour redescendre de Fargo à Yankton, au sud du Dakota méridional, -- soit une distance totale de dix-sept cents milles.
+
+En service ordinaire, il n\'est pas rare que les railroads américains parcourent un millier de milles en trente-deux heures, et il en est même qui ont fait ce trajet en vingt-quatre. Mais il fallait compter avec le passage des montagnes Rocheuses, et admettre la possibilité de forts retards. D\'ailleurs, Harris T. Kymbale aurait tout le loisir de se reposer à Yankton en attendant le tirage du 2 juillet. Ce fut donc par suite d\'une sage résolution qu\'il se décida à quitter Olympia dès le lendemain.
+
+Quatre cents milles environ séparent la capitale du Washington et les premières rampes des montagnes Rocheuses, puis deux cent cinquante de l\'ouest à l\'est du massif, -- ce qui donne près de six cents milles entre Olympia et Helena, capitale du Montana. Cette partie septentrionale des États-Unis jusqu\'à Chicago était desservie par le Northern Pacific, presque parallèlement au Grand Trunk et à six degrés plus au nord. Le reporter ayant quinze jours pour gagner le South Dakota, arriverait à Yankton bien avant le télégramme qui, -- il n\'en doutait pas, -- le remettrait en bon rang. Dans tous les cas, ce Northern Pacific aurait l\'avantage de le conduire à travers l\'Idaho, le Montana, le North Dakota, et de valoir à la *Tribune* de curieux articles pour le plus grand agrément de ses lecteurs.
+
+Au sortir d\'Olympia, après être remonté au nord-est vers Tacoma, le train redescendit au sud-est en franchissant la chaîne des Cascade Mountains par Hotspring, Clealum, Ellensburg, Toppenish, Pace-Pasco, où il traversa la Columbia River.
+
+Harris T. Kymbale, le plus souvent installé sur la passerelle de son wagon, regardait cette merveilleuse contrée, dont les sites se modifient à chaque poteau télégraphique, pourrait-on dire, à travers les gorges profondes où bouillonnent les tumultueux creeks de Cascade Mountains. Et ses regards ne furent pas moins émerveillés, lorsque, le mont Stuart laissé dans le nord, le train enjamba la Columbia, qui s\'épanche du nord au sud jusqu\'au coude qu\'elle fait pour aller se jeter dans le Pacifique en formant la frontière méridionale du Washington.
+
+La grande rivière est peu navigable en cette partie de son cours, coupé de nombreux rapides, tels ceux de Buckland, Gualquil, Islands, Priest. Au delà, la locomotive sillonna le grand désert colombien, à peu près sans rios, entre Salt Lake et Silkatkwa Lake, et que suivent encore les waggon-roads, voies fréquentées au temps où les Indiens Nez-Percés, Coeurs-d\'Alène, Puyallups, auxquels il ne reste plus que quelques enclaves, les parcouraient en toute liberté.
+
+L\'Idaho, qui appartient au bassin de la Columbia, appuyé au nord sur la Puissance du Canada, est encore riche de forêts et de pâturages comme il l\'était autrefois, avant l\'exploitation des placers. Sa capitale, Boise City, sur la rivière de ce nom, est une ville de deux mille trois cents âmes, et sa métropole, Idaho City, sur un affluent de la Snake, commande la partie méridionale de ce territoire. Là, les Chinois forment un appoint assez considérable de la population, et aussi les Mormons, auxquels on refuse les droits d\'électeurs s\'ils ne jurent pas avoir renoncé aux coutumes bigamiques et polygamiques.
+
+Au-delà de l\'Idaho, dans le Montana, à travers cette indescriptible région des Rocheuses, Harris T. Kymbale éprouva de nouveaux étonnements, lui dont les yeux cependant auraient dû être blasés par tant de beautés naturelles des sierras du New Mexico et du Washington. Entre les ravins et les gorges de ce territoire, auquel les méridiens et les parallèles servent de frontière géodésique, couraient vers le nord des milliers de rios, de creeks, de rivières, arrosant de vastes pâturages favorables à l\'élevage du bétail, et qui, avec les mines, sont sa principale richesse, car le climat y est trop rigoureux pour la culture. En dehors du massif des montagnes, il a pour villes principales, que dessert le Northern Pacific, Missoula, Helena, Butte, située dans un centre minier où abondent l\'or, l\'argent, le cuivre.
+
+Après avoir dépassé Charles-Forke River, les hauts pics de Wiessner et de Stevens, puis Eagle Peaks qui les dominent, le railroad redescendit vers Helena, la capitale de l\'Idaho.
+
+On était là en contrée montagneuse et, assurément, il fallait posséder l\'audacieux génie des Américains pour avoir établi une voie ferrée en cette région. Le sol est autrement difficile et tourmenté dans la partie septentrionale de ce territoire que dans celle où fut construite la ligne de l\'Union Pacific, à quatre cents milles plus au sud. Aussi, Harris T. Kymbale, après avoir suivi la seconde, lorsqu\'il se rendait d\'Omaha à Sacramento, put-il faire la comparaison tout à l\'avantage de la première.
+
+Par malheur, le temps n\'était pas beau, et le ciel menaçait. La tension électrique de l\'atmosphère n\'avait cessé de s\'accroître depuis vingt-quatre heures. De lourds nuages orageux se levaient à l\'horizon, et Harris T. Kymbale put assister au développement de l\'un de ces terribles météores, qui sont grandioses dans les pays de montagnes.
+
+Cet orage ne tarda pas à prendre des proportions effrayantes, -- un de ces « blizzards » qui bloquent les habitants chez eux. Les voyageurs n\'étaient point rassurés, bien que les trains, même en pleine marche, soient généralement peu exposés, le fluide trouvant un écoulement facile par les rails. Toutefois la fréquence des éclairs qui se succédaient de seconde en seconde, les éclats déchirants du tonnerre, répercutés par les échos en roulements interminables, les coups de foudre frappant les roches et les arbres le long de la voie, des masses détachées roulant en formidables avalanches, les animaux effarés, buffles, daims, antilopes, ours noirs, fuyant de toutes parts, c\'était un incomparable spectacle dont les voyageurs purent jouir dans l\'après-midi du 20.
+
+Et c\'est alors que le chroniqueur de la *Tribune* eut non seulement l\'occasion d\'envoyer à son journal une observation des plus inattendues, mais en même temps d\'ajouter une singulière découverte, qui se rattachait à l\'histoire zoologique des Rocheuses.
+
+Vers cinq heures, le train remontait lentement un col très raide au plus fort de l\'orage. Harris T. Kymbale était resté sur la passerelle, tandis que ses compagnons demeuraient blottis sur les banquettes du wagon. À ce moment, il aperçut un ours superbe, un grizzly à fourrure noire, de haute taille, qui marchait sur ses pieds de derrière en longeant la voie, troublé sans doute par cette lutte des éléments qui impressionne si vivement les animaux. Or, voici que le plantigrade, ébloui d\'un vif éclair, lève sa patte droite, la porte à son front, et se signe précipitamment.
+
+« Un ours qui fait le signe de la croix !... s\'écria Harris T. Kymbale. Ce n\'est pas possible... J\'ai mal vu !... »
+
+Non ! Il avait bien vu et à plusieurs reprises, au milieu des aveuglants éclairs, le grizzly se signer en donnant des marques d\'effroi.
+
+Puis le train, arrive au sommet du col, prit une marche plus rapide et laissa l\'ours en arrière.
+
+Aussitôt le reporter d\'écrire cette note sur son carnet :
+
+« Grizzly, nouvelle espèce de plantigrade. Fait signe de croix pendant les orages. À dénommer pour la faune des Rocheuses *Ursus* *Christianus*. »
+
+Et cette note, elle figura dans la lettre expédiée d\'Helena, le lendemain même, à la rédaction de la *Tribune*.
+
+Après avoir dépassé les stations de Missoula, Bonita, Drummond, Garrison, la locomotive, ayant franchi un long tunnel du massif au-dessous du col de Mullan, vint s\'arrêter au quai de la gare d\'Helena dans la matinée du 21.
+
+Cette ville, située à une altitude de mille toises sur le revers oriental des Rocheuses, au bord d\'un torrent tributaire du Missouri, forme un vaste entrepôt pour les produits miniers de la région, et compte de quatorze à quinze mille habitants. Le train du Northern Pacific n\'y stationna qu\'une couple d\'heures, et n\'eut plus qu\'à descendre vers les plaines sillonnées par le cours de la Yellowstone et ses nombreux affluents.
+
+Cette contrée était jadis fréquentée par les Têtes-Plates, les Gros-Ventres, les Pieds-Noirs, les Corbeaux, les Cheyennes, les Modocs, les Assiniboines, maintenant relégués en différentes enclaves, dont le voisinage est mal supporté par la population blanche.
+
+Après s\'être dirigé au sud-est par Loqart et Bozeman, le train rencontra la Yellowstone River à Livingstone, puis de nombreuses stations, Lauri qui jette un tronçon vers le Parc National, Howard, Miles City, passa du Montana dans le North Dakota, puis à Beach sur le cent soixante-quatorzième degré de longitude.
+
+C\'est le Dakota septentrional que dessert le Northern Pacific, à la surface d\'immenses plaines un peu relevées dans le voisinage de Heart Buttes, après le Fort Lincoln. Enfin, il rencontra le Missouri à Edwinton, qui est la capitale de l\'État et à laquelle la population allemande donne plus volontiers le nom de Bismarck. -- cité non moins isolée que le porteur de ce nom abhorré dans sa solitude de Friedriksrhue.
+
+Harris T. Kymbale aurait pu prendre à la station de Jamestown un embranchement qui descendait directement sur Yankton. Mais, sa fantaisie aidant, il poussa par Valley City, Oriska, Cassilton, jusqu\'à Fargo, où il arriva le 23 matin, sur la frontière occidentale du Minnesota.
+
+C\'était là, près de la frontière de cet État, que se trouvait alors, après le coup de dés du 10, ce fantastique X K Z, attendant à Saint-Paul, la capitale, que le tirage du 24 l\'envoyât... À quelle case ?... Sans doute bien près du but, si ce n\'est au but même, -- ce dont, malgré toute sa confiance, enrageait le chroniqueur de la *Tribune*.
+
+Le Dakota, séparé du Minnesota en 1861, est divisé en deux quadrilatères à peu près égaux, l\'un au sud de l\'autre. Ce territoire de haute altitude, peu montagneux, contraste avec son voisin de l\'ouest. La population blanche s\'est de préférence portée dans sa partie sud-orientale pour les cultures de tabac, de maïs, d\'avoine, de légumes, où le sol est excellent, le nord étant occupé par des lacs et des étangs nombreux. Le Missouri le traverse d\'un cours oblique jusqu\'au-delà de Yankton, d\'où il descend sur Omaha, tandis que la Rivière-Rouge le sépare à l\'est du Minnesota[[\[7\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn7041){#_ftnref7041 .pcalibre2 .pcalibre1}.
+
+Le railroad, qui s\'embranche à Fargo, longeait en partie cette rivière, de manière à desservir Yankton, l\'ancienne capitale du South Dakota qui a été remplacée par Pierre City, dont la situation centrale s\'accordait mieux avec le plan administratif de la Confédération.
+
+Harris T. Kymbale passa à Fargo toute la journée du 23, sans se faire connaître. Peut-être, cédant à ses goûts de touriste, aurait-il visité les quelques bourgades établies sur la rive gauche de la Rivière-Rouge et leurs vis-à-vis de la rive droite, si une circonstance inattendue ne l\'eût décidé à modifier ses projets.
+
+Tandis qu\'il se promenait dans l\'après-midi aux environs de la petite ville, il fut accosté par un individu, assurément américain, d\'une cinquantaine d\'années, de moyenne taille, un nez en vrille, de petits yeux clignotants, -- air peu sympathique à tout prendre.
+
+« Monsieur, dit cet homme, si je ne me trompe, je vous ai vu ce matin débarquer par le train du Northern Pacific...
+
+--- En effet, monsieur, répondit Harris T. Kymbale.
+
+[--- Je m\'appelle Horgarth, reprit l\'individu, Len Horgarth, Len William Horgarth...]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+--- Eh bien, monsieur Len William Horgarth, que me voulez-vous, s\'il vous plaît ?...
+
+--- Il est probable que vous vous rendez à Yankton ?... demanda le personnage en question.
+
+--- Tout juste... à Yankton.
+
+--- Alors permettez-moi de vous offrir mes services...
+
+--- Vos services ?... Et à quel propos ?...
+
+--- Une simple question, avant tout, monsieur... Vous êtes venu seul ?....
+
+--- Seul ?... répondit Harris T. Kymbale assez surpris... Oui... seul !
+
+--- Madame ne vous a pas accompagné ?...
+
+--- Madame ?...
+
+--- Soit... on s\'en passera... Ici, sa présence n\'est pas nécessaire... pour divorcer...
+
+--- Divorcer, monsieur Horgarth ?...
+
+--- Sans doute, et je me charge de toutes les formalités de votre divorce...
+
+--- Mais, pour divorcer, il faut être marié... et, croyez-le bien, je ne le suis pas !
+
+--- Vous n\'êtes pas marié, et vous allez à Yankton ?... s\'écria Len Horgarth, qui parut être au comble de la surprise.
+
+--- Ah çà ! Qui êtes-vous donc, monsieur Horgarth ?...
+
+--- Je suis rabatteur et témoin pour divorce !...
+
+--- Alors... je le regrette... répondit Harris T. Kymbale, mais vos services me sont inutiles. »
+
+En somme, le reporter ne pouvait être étonné des propositions de l\'honorable Len William Horgarth. Si, dans l\'Illinois, les divorces sont d\'usage courant, si l\'on peut crier aux voyageurs : « Chicago, dix minutes d\'arrêt, le temps de divorcer », il faut encore que cette rupture du mariage soit entourée de certaines garanties. Or, au South Dakota, il en va tout autrement. C\'est par excellence le pays aux divorces, et il suffit de faire affirmer par témoin qu\'on y est domicilié depuis six mois pour bénéficier de ses avantages.
+
+De là, ce métier de rabatteur et de témoin à la disposition des hommes de loi. Ils recrutent le client, ils témoignent en sa faveur, ils lui fournissent un remplaçant, s\'il ne veut pas venir en personne et préfère opérer par procuration, -- enfin toutes les facilités imaginables. C\'est même plus encore à la bourgade de Sioux Falls qu\'à la ville de Yankton qu\'appartient ce record de démolition matrimoniale.
+
+« Eh bien ! Monsieur, ajouta très obligeamment M. Horgarth, je regrette infiniment que vous ne soyez pas marié....
+
+--- Moi aussi, répondit Harris T. Kymbale, puisque j\'aurais eu là une si belle occasion de défaire mon mariage !
+
+--- Mais, puisque vous allez à Yankton, ne manquez pas de vous y trouver demain avant trois heures, afin d\'assister au grand meeting qui va s\'y tenir.
+
+--- Un meeting... et à quel propos ?...
+
+--- Il s\'agit de demander que les délais de domicile soient réduits à trois mois comme dans l\'État d\'Oclohama[[\[8\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn8041){#_ftnref8041 .pcalibre2 .pcalibre1}, qui nous fait une fâcheuse concurrence. Ce meeting doit être présidé par l\'honorable M. Heldreth...
+
+--- En vérité, monsieur Horgarth !... Et qui est-ce, ce monsieur Heldreth ?...
+
+--- Un recommandable commerçant... qui a déjà divorcé dix-sept fois... et ce n\'est pas fini, dit-on !
+
+--- Monsieur Horgarth, je ne manquerai pas d\'être en temps utile à Yankton...
+
+--- Je vous laisse donc, monsieur, en me mettant à votre disposition pour l\'avenir...
+
+--- C\'est entendu, monsieur Horgarth, et je tiendrai bonne note d\'une offre si obligeante.
+
+--- On ne sait pas ce qui peut arriver...
+
+--- Comme vous dites, monsieur Horgarth ! » répondit Harris T. Kymbale.
+
+Et il prit congé de ce digne témoin doublé d\'un rabatteur pour le compte des solicitors dakotiens.
+
+Restait à savoir si à Yankton, le meeting, présidé par l\'honorable M. Heldreth, obtiendrait les commodités inappréciables dont jouissait l\'Oclohama.
+
+Enfin, le lendemain 24, à six heures du matin, le chroniqueur en chef de la *Tribune* montait dans le train qui se dirigeait vers le South Dakota.
+
+Il y a là un assez compliqué réseau de voies ferrées établies d\'un État à l\'autre. Mais, comme on ne compte que deux cent cinquante milles entre Fargo et Yankton, Harris T. Kymbale était assuré d\'être là avant l\'heure du meeting.
+
+Par bonne chance, la dernière section du railroad entre la station de Medary et Sioux Falls City venait d\'être achevée, et c\'était ce jour même qu\'elle allait être livrée à la circulation. Aussi Harris T. Kymbale ne serait-il pas dans la nécessité de faire en voiture ou à cheval une partie du trajet, ainsi qu\'il y avait été obligé pendant son voyage au New Mexico et en Californie.
+
+Il franchit donc la limite conventionnelle qui sépare les deux Dakota, et il était onze heures, lorsque le train s\'étant arrêté près de la petite bourgade de Medary sur le bord de la Big Sioux River, il vit tous les voyageurs en descendre.
+
+S\'adressant alors à un employé, qui était de service sur le quai de la gare :
+
+« Est-ce que le train s\'arrête ici ?... questionna-t-il.
+
+--- Ici même, répondit l\'employé.
+
+--- Ce n\'est donc pas aujourd\'hui qu\'on inaugure la section entre Medary et Sioux Falls City ?...
+
+--- Non, monsieur.
+
+--- Et quand donc ?...
+
+--- Demain. ».
+
+Cela était de nature à contrarier Harris T. Kymbale, car les deux stations sont séparées par une soixantaine de milles, et, en prenant une voiture, il arriverait trop tard pour assister au meeting de l\'honorable M. Heldreth.
+
+Or, précisément voici qu\'il aperçoit, dans la gare de Medary, un train prêt à démarrer dans la direction de Yankton.
+
+« Et ce train ?... demande-t-il.
+
+--- Oh ! Ce train... répond l\'employé d\'un ton singulier.
+
+--- Est-ce qu\'il ne va pas partir ?...
+
+--- Si... à midi treize...
+
+--- Pour Yankton ?...
+
+--- Oh !... Yankton ! » réplique l\'employé en hochant la tête.
+
+Mais, à cet instant, appelé par le chef de gare, cet homme ne put compléter les renseignements que demandait Harris T. Kymbale.
+
+Au surplus, ce train n\'était point un train de voyageurs, et il ne se composait que de deux fourgons de bagages, attelés d\'une locomotive qui paraissait être en pleine pression.
+
+« Ma foi, se dit T. Kymbale, voilà mon affaire... puisqu\'on n\'inaugure la section que demain... Un train de marchandises, peu importe, pour aller de Medary à Sioux Falls City... Si je puis me glisser sans être aperçu dans un des fourgons, je m\'expliquerai en débarquant... »
+
+Et le confiant reporter ne mettait pas en doute qu\'on reçût avec la plus parfaite complaisance les explications que donnerait un des célèbres partenaires du match Hypperbone, lorsqu\'il déclinerait ses noms et qualités, tout en offrant de payer le prix de ce transport non réglementaire.
+
+Précisément, ce qui favorisait le projet d\'Harris T. Kymbale, c\'est que la gare de Medary était déserte en ce moment. Tous les voyageurs semblaient avoir eu hâte de la quitter. Plus un seul employé sur le quai. Seuls, le mécanicien et le chauffeur s\'occupaient à charger à grands coups de pelle le foyer de la locomotive.
+
+Sans être vu, Harris T. Kymbale put donc pénétrer dans le fourgon, s\'y blottir en un coin, et attendre le départ.
+
+À midi treize, le train démarra avec une brusquerie peu ordinaire.
+
+Dix minutes s\'écoulèrent pendant lesquelles la vitesse du train n\'avait fait que s\'accroître, et elle était excessive alors.
+
+Circonstance bizarre, lorsque ce train passait devant les stations, le mécanicien ne sifflait pas.
+
+Harris T. Kymbale se releva, et regarda par une petite fenêtre grillagée à l\'avant du fourgon...
+
+Personne sur la locomotive, qui vomissait des torrents de fumée et de vapeur, ni chauffeur, ni mécanicien...
+
+« Qu\'est-ce que cela signifie ?... se demanda Harris T. Kymbale. Est-ce qu\'ils seraient tombés tous les deux... ou bien cette maudite locomotive s\'est-elle échappée de la gare comme un cheval de son écurie ?... »
+
+Soudain, il poussa un cri de terreur.
+
+Sur la même voie, à un demi-quart de mille, apparaissait un autre train qui venait en sens contraire, animé, lui aussi, d\'une vertigineuse vitesse...
+
+Quelques secondes après se produisait une effroyable collision. Les deux locomotives s\'étaient télescopées avec une indescriptible violence, brisant les fourgons l\'un contre l\'autre. Puis, après une formidable explosion, les débris des deux chaudières volèrent à travers l\'espace.
+
+Et alors, au fracas de l\'explosion se joignirent les hurrahs, les hips de milliers de personnes, massées de chaque côté de la voie à une distance suffisante pour n\'avoir rien à craindre de la formidable collision.
+
+C\'étaient des curieux qui s\'étaient offert ce palpitant spectacle, organisé à leurs frais, de la rencontre de deux trains lancés à toute vapeur, -- spectacle américain, s\'il en fut jamais...
+
+Et c\'est ainsi que fut inaugurée la section du railroad entre Medary et Sioux Falls City, l\'Éden des divorces en Amérique.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185600 .pcalibre2 .pcalibre1}[]{#_Toc343183139 .pcalibre2 .pcalibre1}[]{#_Toc343180678 .pcalibre2 .pcalibre1}[]{#_Toc343178217 .pcalibre2 .pcalibre1}[]{#_Toc343175756 .pcalibre2 .pcalibre1}[]{#_Toc343173295 .pcalibre2 .pcalibre1}[]{#_Toc343170834 .pcalibre2 .pcalibre1}[]{#_Toc343168373 .pcalibre2 .pcalibre1}[]{#_Toc343165912 .pcalibre2 .pcalibre1}[]{#_Toc343163451 .pcalibre2 .pcalibre1}[]{#_Toc343160990 .pcalibre2 .pcalibre1}[]{#_Toc343158529 .pcalibre2 .pcalibre1}[]{#_Toc343149259 .pcalibre2 .pcalibre1}[]{#_Toc343146798 .pcalibre2 .pcalibre1}[]{#_Toc343144335 .pcalibre2 .pcalibre1}[]{#_Toc343141874 .pcalibre2 .pcalibre1}[]{#_Toc343139413 .pcalibre2 .pcalibre1}[]{#_Toc343136951 .pcalibre2 .pcalibre1}[]{#_Toc343134490 .pcalibre2 .pcalibre1}[]{#_Toc343132029 .pcalibre2 .pcalibre1}[]{#_Toc343129567 .pcalibre2 .pcalibre1}[]{#_Toc343127106 .pcalibre2 .pcalibre1}[]{#_Toc343124642 .pcalibre2 .pcalibre1}[]{#_Toc343122181 .pcalibre2 .pcalibre1}[]{#_Toc343119720 .pcalibre2 .pcalibre1}[]{#_Toc343117266 .pcalibre2 .pcalibre1}[]{#_Toc343114803 .pcalibre2 .pcalibre1}[]{#_Toc343112342 .pcalibre2 .pcalibre1}[]{#_Toc343109881 .pcalibre2 .pcalibre1}[]{#_Toc343106137 .pcalibre2 .pcalibre1}[]{#_Toc343103675 .pcalibre2 .pcalibre1}[]{#_Toc343101212 .pcalibre2 .pcalibre1}[]{#_Toc343098787 .pcalibre2 .pcalibre1}[]{#_Toc343096318 .pcalibre2 .pcalibre1}[]{#_Toc343093856 .pcalibre2 .pcalibre1}[]{#_Toc343091378 .pcalibre2 .pcalibre1}[]{#_Toc343088915 .pcalibre2 .pcalibre1}[]{#_Toc343086453 .pcalibre2 .pcalibre1}[]{#_Toc343083990 .pcalibre2 .pcalibre1}[]{#_Toc343081528 .pcalibre2 .pcalibre1}[]{#_Toc343079067 .pcalibre2 .pcalibre1}[]{#_Toc343076604 .pcalibre2 .pcalibre1}[]{#_Toc343074141 .pcalibre2 .pcalibre1}[]{#_Toc343071675 .pcalibre2 .pcalibre1}[]{#_Toc343043715 .pcalibre2 .pcalibre1}[]{#_Toc343038830 .pcalibre2 .pcalibre1}[]{#_Toc343036465 .pcalibre2 .pcalibre1}[]{#_Toc343034100 .pcalibre2 .pcalibre1}[]{#_Toc343031735 .pcalibre2 .pcalibre1}[]{#_Toc343028179 .pcalibre2 .pcalibre1}[]{#_Toc343025814 .pcalibre2 .pcalibre1}[]{#_Toc343023449 .pcalibre2 .pcalibre1}[]{#_Toc343021083 .pcalibre2 .pcalibre1}[]{#_Toc343018717 .pcalibre2 .pcalibre1}[]{#_Toc343016352 .pcalibre2 .pcalibre1}[]{#_Toc343013987 .pcalibre2 .pcalibre1}[]{#_Toc343011620 .pcalibre2 .pcalibre1}[]{#_Toc343009255 .pcalibre2 .pcalibre1}[]{#_Toc343006890 .pcalibre2 .pcalibre1}[]{#_Toc343004525 .pcalibre2 .pcalibre1}[]{#_Toc343002160 .pcalibre2 .pcalibre1}[]{#_Toc342999795 .pcalibre2 .pcalibre1}[]{#_Toc342997430 .pcalibre2 .pcalibre1}[]{#_Toc342995065 .pcalibre2 .pcalibre1}[]{#_Toc342992700 .pcalibre2 .pcalibre1}[]{#_Toc342990335 .pcalibre2 .pcalibre1}[]{#_Toc342987970 .pcalibre2 .pcalibre1}[]{#_Toc342985603 .pcalibre2 .pcalibre1}[]{#_Toc342983238 .pcalibre2 .pcalibre1}[]{#_Toc342980873 .pcalibre2 .pcalibre1}[]{#_Toc342978508 .pcalibre2 .pcalibre1}[[Chapitre 13 -- Les derniers coups du match Hypperbone]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942527 .pcalibre2 .pcalibre1} {#chapitre-13-les-derniers-coups-du-match-hypperbone .calibre171 .sigil_not_in_toc}
+
+Il est inutile de dépeindre l\'état d\'âme de Lissy Wag, lorsque la jeune fille se sépara de Max Réal pour aller prendre sa place à Richmond. Partie dans la soirée du 13, elle ne pouvait se douter que, dès le lendemain, le sort ferait pour Max Réal ce qu\'il avait fait pour elle, -- c\'est-à-dire lui rendre la liberté, et lui donner l\'occasion de « se remettre en ligne » sur le vaste champ de courses des États-Unis d\'Amérique.
+
+En proie à de si vives émotions, renfermée en elle-même, Lissy Wag s\'était blottie en un coin du wagon, et Jovita Foley, assise près d\'elle, n\'essaya point de troubler sa compagne par d\'inopportunes conversations.
+
+De Saint-Louis à Richmond, on ne compte au plus que sept cents milles à travers le Missouri, le Kentucky, la Virginie occidentale et la Virginie orientale. Ce fut donc dans la matinée du 14 que les deux voyageuses atteignirent Richmond, où elles devraient attendre le prochain télégramme du notaire Tornbrock. On sait, d\'autre part, que Max Réal avait résolu de ne quitter Saint-Louis que le jour où le tirage du 20 aurait été proclamé, dans la pensée qu\'il pourrait peut-être rencontrer Lissy Wag sur sa route, lorsqu\'il irait à Philadelphie remplacer Tom Crabbe.
+
+On imagine aisément la joie des deux amies, -- joie vive mais réservée chez l\'une, bruyante et démonstrative chez l\'autre, -- lorsque, dès leur arrivée, les journaux de Richmond apprirent la délivrance de Max Réal.
+
+« Non, vois-tu, ma chère, déclara Jovita Foley, toute vibrante, il y a un Dieu !... Des gens prétendent qu\'il n\'y en a pas... Les fous !... S\'il n\'y en avait pas, est-ce que ce Crabbe aurait jamais amené ce point de cinq !... Non !... Dieu sait ce qu\'il fait, et nous devons le remercier...
+
+--- Du fond du coeur ! Acheva Lissy Wag, en proie à une profonde émotion.
+
+--- Après tout, le bonheur de l\'un est souvent le malheur de l\'autre, reprit Jovita Foley. Aussi j\'ai toujours pensé qu\'il n\'y a sur terre qu\'une certaine somme de bonheur à la disposition des humains, et que l\'un n\'en prend sa part qu\'au détriment de l\'autre !... »
+
+Voyez-vous cette étonnante personne, avec ses aperçus philosophiques ! Dans tous les cas, s\'il n\'y a qu\'une certaine somme de gaîté à dépenser en ce bas monde, elle ne devait guère en laisser aux autres, car elle en prenait sa bonne part !
+
+« Donc, continua-t-elle, voilà le Crabbe en prison à la place de M. Réal !... Ma foi, tant pis pour lui, et, à moins que le commodore Urrican aille le délivrer... Mais, si cela arrivait, je ne voudrais pas me trouver sur le chemin de cette bombe marine ! »
+
+À présent, il ne s\'agissait plus que d\'attendre sans impatience jusqu\'à la date du 20. Pendant ces six jours le temps s\'écoulerait d\'une façon agréable à visiter cette métropole Richmond dont Max Réal avait vanté justement la beauté aux deux amies. Et, sans doute, elle leur eût semblé plus belle encore, si le jeune peintre les eût accompagnées pendant ces promenades. C\'est du moins ce que déclara Jovita Foley, et il est probable que Lissy Wag partageait cette opinion.
+
+D\'ailleurs elles ne restèrent à l\'hôtel que le moins possible. Cela leur permit de fuir les interviewers des feuilles virginiennes, qui avaient, et à grand fracas, signalé la présence de la cinquième partenaire à Richmond. Au grand ennui de Lissy Wag, plusieurs de ces journaux avaient publié son portrait et celui de Jovita Foley, -- ce qui ne déplaisait pas à « son autre elle-même », comme on disait... Et le moyen de ne pas répondre aux marques de sympathie qui les accueillaient pendant leurs excursions ?...
+
+Oui ! Deux riches héritières qu\'on saluait, depuis qu\'elles n\'étaient plus devancées que par cet invraisemblable X K Z, à l\'existence duquel nombre de gens refusaient encore de croire. Le Lissy Wag était de plus en plus demandé dans les agences de paris et sur les marchés de l\'Union :
+
+« Je prends du Lissy Wag !...
+
+--- J\'arbitre du Kymbale contre du Lissy Wag...
+
+--- J\'ai du Titbury !...
+
+--- Qui veut du Titbury ?....
+
+--- Voilà du Titbury !...
+
+--- Et du Crabbe par paquets...
+
+--- Qui a du Réal ?...
+
+--- Qui a du Lissy Wag ?... »
+
+On n\'entendait que cela, et l\'on ne saurait imaginer ce que fut l\'importance des sommes engagées sur les chances de succès de la cinquième partenaire aux États-Unis comme à l\'étranger. En deux coups heureux, elle pouvait atteindre le but et devenir de ce chef, même en partageant avec sa fidèle compagne, l\'une des riches héritières de ce pays des dollars, qui figurent au Livre d\'Or de l\'Amérique.
+
+Lorsque le 16 juin était arrivé, comme il n\'y avait pas à s\'occuper d\'Hermann Titbury, plongé pour un mois encore dans les délices d\'Excelsior *Hotel*, quelques intéressés, on le sait, avaient émis la prétention que ce tirage eût lieu au profit du quatrième partenaire, c\'est-à-dire d\'Harris T. Kymbale, et que chaque tour fût avancé de quarante-huit heures. Mais ce ne fut l\'avis ni de M. Georges B. Higginbotham, ni des autres membres de l\'*Excentric* *Club*, ni de maître Tornbrock, chargés d\'interpréter les intentions du défunt.
+
+Le 18, on n\'ignore pas que le chroniqueur en chef de la *Tribune* avait été envoyé d\'Olympia à Yankton, et, le lendemain, les journaux racontèrent qu\'il avait quitté la capitale du Washington en prenant la ligne transcontinentale du Northern Pacific.
+
+Au total, par son passage de la trentième à la trente-neuvième case, il ne menaçait aucunement Lissy Wag, qui occupait la quarante-quatrième.
+
+Enfin, le 20, avant huit heures, Jovita Foley ayant obligé son amie à la suivre, se trouvait au Post Office de Richmond. Là, une demi-heure après, le fil leur apporta le point de douze par six et six, -- le plus élevé que peuvent amener deux dés. C\'était une avance de douze cases, qui les transportait à la cinquante-sixième, État de l\'Indiana.
+
+Les deux amies revinrent en toute hâte à l\'hôtel afin d\'échapper aux démonstrations trop vives du public, et Jovita Foley de s\'écrier alors : « Ah ! Ma chère !... Indiana et Indianapolis, sa capitale !... Est-il permis d\'avoir une pareille chance !... Voilà que nous nous rapprochons de notre Illinois, et maintenant tu es en tête, et tu as dépassé de cinq cases cet intrus, cet X K Z, et le Pavillon Jaune bat le Pavillon Rouge !... Il ne te faut plus que sept points pour triompher !... Et pourquoi ne serait-ce pas le nombre sept qui sortirait ?... N\'est-ce pas celui des branches du chandelier biblique... celui des jours de la semaine... celui des Pléiades... (elle n\'osa pas dire : celui des péchés capitaux)... celui des partenaires qui courent après l\'héritage !... Mon Dieu, faites que les dés nous attribuent le nombre sept, et que nous gagnions la partie !... Si vous saviez, et vous devez le savoir, quel bon usage nous ferons de ces millions... du bien... du bien à tout le monde !... Et nous fonderons des maisons de charité, des ouvroirs, un hôpital !... Oui ! L\'hôpital Wag-Foley pour les malades de Chicago, -- en grosses lettres !... Et, moi, je ferai construire un établissement pour les jeunes filles sans fortune qui ne peuvent se marier, et j\'en serai la directrice, et tu verras comment j\'administrerai !... Ah ! Par exemple, ce n\'est pas toi qui jamais y entrera, mademoiselle Milliardaire, puisque... enfin... je m\'entends !... Et d\'ailleurs les marquis, les ducs, les princes, rechercheront ta main !... »
+
+Positivement, Jovita Foley délirait !... Et elle embrassait Lissy Wag, qui accueillit d\'un vague sourire toutes ces promesses de l\'avenir, et elle tournait, tournait, comme la toupie sous le fouet de l\'enfant !
+
+La question, maintenant, fut de décider si la cinquième partenaire quitterait immédiatement Richmond, puisqu\'on avait jusqu\'au 4 juillet pour se rendre à Indianapolis. Or, comme elle se trouvait depuis six jours déjà dans la cité virginienne, Jovita Foley affirma que mieux valait partir dès le lendemain pour la nouvelle destination.
+
+Lissy Wag se rendit à ses raisonnements, et, d\'ailleurs, l\'indiscrétion du public, les instances des reporters, devenaient de plus en plus gênantes. Et puis, du moment que Max Réal n\'était pas à Richmond, à quoi bon y prolonger son séjour ?... À ce dernier argument, présenté par Jovita Foley avec une insistance qui ne devait pas déplaire, qu\'aurait pu répondre Lissy Wag ?...
+
+Donc, le 21, dans la matinée, toutes deux se firent conduire à la gare. Le train, après avoir traversé la Virginie orientale, la Virginie occidentale et l\'Ohio, les déposerait le soir même dans la capitale de l\'Indiana, -- un parcours de quatre cent cinquante milles.
+
+Or, il arriva ceci : c\'est qu\'elles furent accostées sur le quai par un gentleman des plus polis, lequel dit en s\'inclinant :
+
+« C\'est bien à miss Lissy Wag et à miss Jovita Foley que j\'ai l\'honneur de parler ?...
+
+--- À elles-mêmes, répondit la plus pressée des deux.
+
+--- Je suis le majordome de mistress Migglesy Bullen, et mistress Migglesy Bullen serait heureuse si miss Lissy Wag et miss Jovita Foley acceptaient de monter dans son train, qui les mènerait à Indianapolis ?...
+
+--- Viens, » dit Jovita Foley, sans donner à Lissy Wag le temps de réfléchir.
+
+Le majordome les accompagna vers une voie de garage sur laquelle attendait un train comprenant une locomotive, toute reluisante d\'astiquage, un wagon-salon, un wagon-salle à manger, un wagon-chambre à coucher, un deuxième fourgon, à l\'arrière, aussi luxueux à l\'intérieur qu\'à l\'extérieur -- un vrai train royal, impérial ou présidentiel.
+
+C\'est ainsi que se déplaçait mistress Migglesy Bullen, une des plus opulentes Américaines de l\'Union. Rivale des Whitman, des Stevens, des Gerry, des Bradley, des Sloane, des Belmont, etc., qui ne naviguent que sur leurs propres yachts et ne voyagent que dans leurs propres trains, en attendant qu\'elles ne le fassent que sur leurs propres railroads, mistress Migglesy Bullen était une aimable veuve de cinquante ans, propriétaire d\'inépuisables mines de pétrole, -- autant dire de mines de dollars.
+
+Lissy Wag et Jovita Foley passèrent au milieu du nombreux personnel domestique rangé sur le quai, et furent reçues par deux dames de compagnie, qui les conduisirent au wagon-salon, où se trouvait la milliardaire.
+
+« Mesdemoiselles, leur dit très affablement cette dame, je vous remercie d\'avoir accepté mon offre et de consentir à m\'accompagner pendant ce voyage. Vous le ferez dans des conditions plus agréables que dans le train public, et je suis heureuse de témoigner ainsi de l\'intérêt que je porte à la cinquième partenaire, bien que je n\'aie aucun intérêt engagé dans la partie...
+
+--- Nous sommes infiniment honorées... de l\'honneur que nous fait mistress Migglesy Bullen... répondit Jovita Foley.
+
+--- Et nous lui exprimons notre vive reconnaissance, ajouta Lissy Wag.
+
+--- C\'est inutile, répondit en souriant cette excellente dame, et j\'espère, miss Wag, que ma compagnie vous portera bonheur ! »
+
+Il fut charmant, ce voyage, car, malgré ses millions, mistress Migglesy Bullen était la meilleure des femmes, et l\'on passa d\'agréables heures dans le salon, dans la salle à manger, puis en se promenant d\'une extrémité à l\'autre de ce train, dont on ne saurait imaginer le luxe d\'ameublement, la richesse d\'installation.
+
+« Et penser, déclara Jovita Foley à Lissy Wag, à un moment où elles se trouvèrent seules, que nous pourrons bientôt voyager comme cela... dans nos meubles...
+
+--- Sois donc raisonnable, Jovita !...
+
+--- Tu verras ! »
+
+Et, au vrai, c\'était bien l\'opinion, absolument désintéressée, de mistress Migglesy Bullen, que Lissy Wag atteindrait le but première des Sept !
+
+Enfin, vers le soir, le train s\'arrêta à Indianapolis, et, comme il continuait sur Chicago, les deux amies durent descendre. En souvenir de ce voyage, mistress Migglesy Bullen les pria d\'accepter chacune une jolie bague, un rien entouré de diamants, puis après l\'avoir remerciée non sans quelque émotion, elles prirent congé, très touchées de cette hospitalité princière.
+
+Et alors, aussi incognito que possible, elles se rendirent à *Sherman* *Hotel* qui leur avait été indiqué. Cela n\'empêcha pas, dès le lendemain, les journaux d\'Indianapolis d\'annoncer leur présence audit hôtel.
+
+Indianapolis, comme la plupart des capitales d\'États, occupe à peu près le centre du territoire, et de ce point les voies ferrées rayonnent en toutes directions. À regarder la carte de l\'Indiana, on dirait une toile d\'araignée dont les fils, sous forme de railroads, sont tendus entre les degrés géodésiques qui lui servent de limites sur trois côtés : l\'Ohio à l\'est, l\'Illinois à l\'ouest, le Kentucky au sud, et la pointe du lac Michigan au nord.
+
+Autrefois, si cet État justifiait le nom de Terre Indienne, il est actuellement très américain, bien que ses premiers colons aient été des émigrants français.
+
+Ce n\'est pas dans cette région que Max Réal aurait rencontré quelques sites pittoresques. Le pays est plutôt plat, seulement ondulé de coteaux. Très propice à l\'établissement des chemins de fer, il s\'est prêté à un grand développement commercial. Le sol est particulièrement propre à toutes les variétés de produits agricoles, riche en terres arables, non moins riche en houillères, en sources de pétrole et de gaz naturel.
+
+L\'Indiana, avec deux millions d\'habitants, n\'occupe que le trente-septième rang pour la superficie ; mais, en même temps qu\'Indianapolis, il possède des villes très importantes, très actives, très prospères : Jeffersonville et New Albany, que Louisville du Kentucky, située sur la rive gauche de l\'Ohio, réclame comme ses faubourgs ; Evansville, la seconde de l\'État, à l\'entrée de la délicieuse vallée de Green River, et que relie au lac Érié un canal de près de cinq cents milles ; d\'autres encore, Fort Wayne, desservie par la ligne de Pittsburg à Chicago, Terre-Haute, où se concentre le commerce agricole, Vincennes, qui fut, pendant quelque temps, la capitale de l\'Indiana.
+
+Ce n\'est pas qu\'Indianapolis ne mérite l\'attention des touristes. Toutefois, si c\'est une des grandes villes de la République américaine, on y chercherait vainement l\'inattendu et le pittoresque. D\'ailleurs les deux amies l\'avaient déjà visitée, lorsqu\'elles se rendirent au Kentucky.
+
+Certes, pendant le délai de quinze jours dont elles disposaient, elles auraient eu le temps de visiter les principaux districts, de faire une excursion aux grottes de Wandyott, entre Evansville et New Albany, qui le disputent à celles de Mammoth Caves. Mais Jovita Foley préférait en rester à l\'inoubliable souvenir des merveilles du Kentucky. N\'était-ce pas en ces lieux charmants qu\'elle avait conquis le grade de lieutenant-colonel dans la milice illinoise ?... Elle y pensait quelquefois, non sans une belle envie de rire, et à l\'obligation où elles seraient toutes deux, dès le retour à Chicago, d\'aller militairement rendre leurs devoirs au gouverneur...
+
+Et, lorsqu\'elle voyait sa compagne, non pas triste, si l\'on veut, mais songeuse :
+
+« Lissy, lui répétait-elle, je ne te comprends pas... ou plutôt je te comprends très bien !... C\'est un brave jeune homme... sympathique... aimable... toutes les qualités... et entre autres celle de ne point te déplaire !... Mais enfin, puisqu\'il n\'est pas ici, puisqu\'il doit être maintenant à Philadelphie, au lieu et place de l\'infortuné Crabbe, qui ne peut plus même marcher de côté comme le crustacé dont il porte le nom, il faut se faire une raison, ma chérie, et si tu fais des voeux pour M. Réal, en faire aussi pour nous deux...
+
+--- Jovita... tu exagères...
+
+--- Allons, Lissy, sois franche !... avoue que tu l\'aimes !... »
+
+Et la jeune fille ne répondit pas, -- ce qui était sans doute une façon de répondre.
+
+Le 22, les journaux publièrent le coup de dés de ce jour relatif au commodore Urrican.
+
+On n\'a point oublié que le Pavillon Orangé avait dû recommencer la partie, en revenant de Death Valley, et qu\'un tirage assez heureux l\'avait envoyé à la vingt-sixième case, État du Wisconsin. Cela prouve bien que, comme les jours, les coups se suivent et ne se ressemblent guère. Assurément, maître Tornbrock avait eu la main malheureuse, car le point de cinq par un et quatre allait conduire Hodge Urrican à la trente et unième case, État du Nevada. Or, c\'était là que William Hypperbone avait placé le puits au fond duquel le malheureux commodore resterait enfoui tant qu\'un de ses partenaires ne viendrait pas l\'en tirer.
+
+« C\'est à croire qu\'il le fait exprès, ce Tornbrock... » s\'était écrié Hodge Urrican dans le paroxysme d\'un épouvantable accès de colère.
+
+Et Turk ayant déclaré qu\'à la prochaine occasion il tordrait le cou au Tornbrock, son maître cette fois ne chercha point à le calmer. En outre, c\'était une triple prime, trois mille dollars qui allaient sortir de la poche du sixième partenaire et tomber dans la cagnotte.
+
+Ce bon coeur de Lissy Wag ne put que plaindre l\'infortuné loup de mer.
+
+« Plaignons-le, je le veux bien, répondit Jovita Foley, d\'autant plus que je ne vois plus que le sieur Titbury qui puisse le délivrer, si, en sortant de son hôtellerie, il prend le point de douze... Après tout, l\'important est que M. Réal soit hors de prison, et j\'ai l\'idée que nous le reverrons plus tôt que plus tard... »
+
+Cette perspicace personne ne savait pas si bien dire.
+
+En effet, au retour de la promenade que les deux amies avaient faite ce matin-là, en arrivant devant *Sherman* *Hotel*, voici que Lissy Wag ne put retenir un cri de surprise.
+
+« Eh ! Qu\'as-tu ?... demanda Jovita Foley.
+
+Puis, à son tour, de s\'écrier :
+
+« Vous... monsieur Réal ! »
+
+Le jeune peintre était là, devant la porte, près de laquelle se tenait Tommy. Un peu ému, embarrassé même, il cherchait à excuser sa présence.
+
+« Mesdemoiselles, dit-il, je me rendais à mon poste à Philadelphie, et comme l\'Indiana se trouvait par hasard sur ma route....
+
+--- Un hasard géographique, répondit en riant Jovita Foley, en tout cas, un heureux hasard !
+
+--- Et comme cela n\'allongeait pas mon voyage...
+
+--- Car, monsieur Réal, si cela avait dû l\'allonger, vous ne vous seriez pas exposé à manquer...
+
+[--- Oh ! J\'ai jusqu\'au 28, miss Wag !...]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"} Encore six jours francs... et...
+
+--- Et, lorsqu\'on a six jours francs dont on ne sait que faire, le mieux est de les passer avec les personnes auxquelles on porte intérêt... un vif intérêt...
+
+--- Jovita... dit Lissy Wag à mi-voix.
+
+--- Et le hasard, toujours cet heureux hasard, continua Jovita Foley, a voulu que vous choisissiez précisément *Sherman* *Hotel*...
+
+--- Puisque les journaux avaient dit que la cinquième partenaire y était descendue avec sa fidèle compagne...
+
+--- Et, répondit la fidèle compagne, du moment que la cinquième partenaire est descendue à *Sherman* *Hotel*, il est bien naturel que le premier partenaire y descende aussi... Oh ! Si c\'eût été le second ou le troisième... mais non !... c\'était précisément la cinquième... Et, dans tout cela, le hasard...
+
+--- N\'y est pour rien, et, vous le savez, miss Wag... avoua Max Réal en pressant la main que lui tendit la jeune fille.
+
+--- Allons, c\'est plus franc !... s\'écria Jovita Foley, et franchise pour franchise... nous sommes très heureuses de votre visite, monsieur Réal... mais je vous préviens que vous ne resterez pas ici une heure de plus qu\'il ne faut, et que nous ne vous laisserons pas manquer le train de Philadelphie ! »
+
+Inutile de faire observer que Max Réal avait attendu à Saint-Louis que les journaux eussent annoncé l\'arrivée de Lissy Wag et de Jovita Foley dans la capitale de l\'Indiana, et qu\'il comptait bien leur consacrer tout le temps dont il disposait.
+
+Alors on causa « comme de vieux amis », à en croire Jovita Foley, on arrangea des promenades à travers la ville, laquelle, grâce à la présence de Max Réal, serait infiniment plus intéressante à visiter. Cependant, il fallut bien, sur les instances de la fidèle compagne parler un peu de la partie !... Lissy Wag se trouvait en tête maintenant, et ce n\'était pas cet X K Z qui la reléguerait au second rang !... Pour arriver premier au prochain coup, il faudrait que ce chanceux personnage amenât le coup de douze... or ce point ne peut se faire que d\'une seule façon, par six et six, tandis que le point de sept, qui permettrait de planter le pavillon jaune de Lissy Wag sur la soixante-troisième case, on pouvait l\'obtenir de trois manières différentes, trois et quatre, deux et cinq, un et six... De là, trois chances contre une -- à ce que prétendait Jovita Foley.
+
+Que son raisonnement fût juste ou non, Max Réal ne s\'en préoccupa pas. Entre Lissy Wag et lui, il n\'était guère question du match. On parlait de Chicago, du retour qui serait prochain, du plaisir que Mme Réal aurait à recevoir les deux amies, et une lettre de cette excellente dame, -- sans doute après informations prises, -- l\'affirmait dans les termes les plus agréables.
+
+« Vous avez une bonne mère, monsieur Réal, dit Lissy Wag, dont les yeux se mouillèrent en prenant connaissance de cette lettre.
+
+--- La meilleure des mères, miss Wag, et qui ne peut qu\'aimer tous ceux que j\'aime...
+
+--- Et quelle non moins bonne belle-mère elle ferait !... » s\'écria Jovita Foley en éclatant de rire.
+
+Cette seconde partie de la journée se passa en promenades dans les beaux quartiers de la ville, principalement sur les bords de la White River. Fuir les importuns qui assiégeaient *Sherman* *Hotel*, -- et tous voulaient épouser la future héritière de William J. Hypperbone, à en croire Jovita Foley, -- c\'était devenu une véritable nécessité. La rue ne désemplissait pas. Par prudence, Max Réal, bien avisé, n\'avait pas dit qui il était, car leurs partisans eussent été légion.
+
+Aussi Max Réal attendit-il que la nuit fût venue avant de rentrer à l\'hôtel, et, le dernier repas achevé, -- un souper plutôt qu\'un dîner, -- on n\'eut qu\'à se remettre des fatigues d\'une journée si heureusement remplie.
+
+À dix heures, Lissy Wag et Jovita Foley regagnèrent leur chambre, Max Réal se retira dans la sienne, et Tommy dans un cabinet contigu. Et, tandis que l\'une s\'abandonnait à des rêves « tissés d\'argent et brodés d\'or », peut-être les deux autres se rencontrèrent-ils dans les mêmes pensées sans trouver le sommeil ?... Oui, tous deux ne songeaient qu\'au retour à Chicago, à la réalisation de leurs plus chers désirs... Et ils se disaient que, décidément, cette partie n\'en finissait pas... qu\'elle durait déjà depuis plus de sept semaines... que dans quelques jours reviendrait l\'obligation de reboucler sa valise... que des centaines de milles les sépareraient encore... qu\'ils feraient mieux de renoncer... Par bonheur, ni Jovita Foley ni Mme Réal ne pouvaient les entendre...
+
+Et même Max Réal, en étudiant la carte du match, avait fait cette remarque assez inquiétante : c\'est que sur les sept États, tels qu\'ils étaient disposés sur la carte Hypperbone entre l\'Indiana et l\'Illinois final, il s\'en trouvait cinq dans la région orientale de l\'Union, à de grandes distances, au milieu de territoires insuffisamment desservis par les voies ferrées, l\'Oregon, l\'Arizona, le Territoire Indien, sans parler de la cinquante-huitième case, celle de Death Valley, la Vallée de la Mort, illustrée par les aventures du commodore Urrican. Or il eût suffi à Lissy Wag d\'amener le point de deux pour être obligée de recommencer la partie, après un long et pénible voyage jusqu\'en Californie. Donc, si elle ne gagnait pas le coup suivant en tirant le point de sept, elle risquait d\'être envoyée très loin de l\'Indiana, et à quels dangers ne serait-elle pas exposée ?...
+
+Lissy Wag, elle, ne songeait même pas à ces menaçantes complications. Elle ne s\'attachait qu\'au présent, non à l\'avenir. Elle se concentrait dans cette pensée que Max Réal était alors près d\'elle... Il est vrai, quelques jours encore, et le sort allait encore les séparer l\'un de l\'autre...
+
+Enfin les dernières heures s\'écoulèrent, et, le lendemain, au réveil, disparurent les mauvaises impressions de la nuit.
+
+« Qu\'allons-nous faire aujourd\'hui ?... demanda Jovita Foley, lorsque Lissy Wag et elle se retrouvèrent avec Max Réal devant la table du déjeuner. Voici une superbe journée qui s\'annonce... De la brise et du soleil, cela invite à la promenade... Est-ce que nous ne sortirons pas un peu d\'Indianapolis ?... Certes, c\'est une ville bien régulière, bien propre, bien époussetée... mais on dit que la campagne est charmante aux environs... Ne pourrions-nous pas prendre un railroad et revenir par un autre ? »
+
+La proposition méritait d\'être étudiée. Max Réal consulta un indicateur, et les choses s\'arrangèrent à la satisfaction générale. Il fut convenu qu\'on s\'en irait par la ligne qui remonte la White River jusqu\'à la station de Spring Valley, à une vingtaine de milles d\'Indianapolis, en se réservant de revenir par une route différente. Le joyeux trio partit donc, en laissant, cette fois, Tommy à l\'hôtel.
+
+Or, puisque Max Réal et Lissy Wag étaient trop occupés pour rien apercevoir, Jovita Foley aurait bien dû remarquer cinq individus qui les avaient suivis depuis leur départ. Et non seulement ces individus les accompagnèrent jusqu\'à la gare, mais ils montèrent dans le même train, sinon dans le même wagon, puis, lorsque Max Réal et les deux amies en descendirent à la station de Spring Valley, ces gens en descendirent aussitôt.
+
+Cela n\'attira pas autrement l\'attention de Jovita Foley, qui regardait à travers les vitres du wagon, lorsqu\'elle ne regardait pas du côté de Max Réal et de Lissy Wag.
+
+Il est vrai, craignant sans doute d\'être observés, ces individus y mirent une certaine prudence, et ils se séparèrent au sortir de la gare.
+
+Bref, Max Réal, Lissy Wag et Jovita Foley prirent un chemin qui devait les ramener au bord de la White River. Couraient-ils le risque de s\'égarer ?... Non, sans doute.
+
+Ils allèrent ainsi pendant une heure à travers cette campagne fertile arrosée par le creek, ici des champs bien cultivés, là des bois épais, restes de ces anciennes forêts qu\'abattit la hache civilisatrice du bûcheron.
+
+Cette promenade fut très agréable, grâce à la douceur de la température. Jovita Foley allait et venait, toute joyeuse, tantôt en avant, tantôt en arrière, gourmandant le jeune couple qui ne s\'inquiétait pas d\'elle. Et ne prétendait-elle pas aux égards qui sont dus à une mère, « et même à une grand\'mère » dont elle entendait remplir les fonctions ?...Il était trois heures, lorsqu\'un bac les transporta sur l\'autre bord de la White River. Au delà, sous de grands bois, se développait une route conduisant à la station de l\'un des nombreux railroads qui convergent vers Indianapolis. Max Réal et ses compagnes se promettaient de faire, jusqu\'à la veille du 28, de nouvelles excursions aux alentours de la capitale. Puis le 27 au soir, à son grand déplaisir comme à celui des deux amies, Max Réal monterait dans le train qui le mènerait à Philadelphie. Puis... ensuite... mais mieux valait ne point y penser.
+
+Après un demi-mille sur la route bordée de beaux arbres, très déserte à l\'heure où s\'effectue le travail des champs, Jovita Foley, fatiguée de ses allées et venues, proposa une halte de quelques minutes. On avait le temps, et pourvu que l\'on fût rentré à *Sherman* *Hotel* avant le dîner... Précisément, le chemin sinuait entre deux lisières d\'arbres, en pleine ombre, en pleine fraîcheur.
+
+À cet instant, cinq hommes s\'élancèrent -- les mêmes qui étaient descendus à la station de Spring Valley.
+
+Que voulaient ces individus ?... Ce qu\'ils voulaient -- car ce n\'étaient point des professionnels de l\'assassinat ou du vol, -- tout simplement s\'emparer de Lissy Wag, l\'entraîner en quelque lieu secret, l\'y séquestrer de manière qu\'elle ne pût se trouver au Post Office d\'Indianapolis le 4 juillet, à l\'arrivée de la dépêche. Il en résulterait qu\'elle serait exclue de la partie, elle qui devançait les six autres partenaires, à la veille peut-être d\'atteindre le but...
+
+Voilà où les conduisait la passion, ces joueurs, ces parieurs engagés dans le match pour des sommes énormes, des centaines de mille dollars ! Oui ! Ces malfaiteurs, -- et doit-on les appeler autrement ? -- ne reculaient pas devant de tels actes !...
+
+Trois de ces cinq hommes se précipitèrent sur Max Réal afin de le mettre hors d\'état de défendre ses compagnes. Le quatrième saisit Jovita Foley, tandis que le dernier cherchait à entraîner Lissy Wag dans les profondeurs du bois, où il serait impossible de retrouver ses traces. Max Réal se débattit, et, saisissant le revolver qu\'un Américain porte toujours sur lui, il fit feu.
+
+Un des hommes tomba, blessé seulement.
+
+Jovita Foley et Lissy Wag, elles, appelaient au secours, sans pouvoir espérer que leurs cris seraient entendus...
+
+Ils le furent cependant, et, derrière un taillis, sur la gauche, des voix s\'élevèrent.
+
+Quelques fermiers des environs, une douzaine, se trouvaient en chasse dans ce bois, et un providentiel hasard les amena sur le théâtre de l\'agression.
+
+Les cinq hommes tentèrent alors un dernier effort. Une seconde fois, Max Réal tira sur celui qui emportait Lissy Wag à gauche de la route, et qui dut abandonner la jeune fille... Mais il reçut un coup de couteau en pleine poitrine, poussa un cri et tomba inanimé sur le sol.
+
+Les chasseurs apparurent, et les agresseurs, dont deux étaient blessés, comprenant que l\'affaire était manquée, s\'élancèrent à travers le bois.
+
+En somme, il y avait mieux à faire qu\'à les poursuivre, c\'était de transporter Max Réal à la prochaine station, puis d\'envoyer chercher un médecin, puis de le ramener à Indianapolis, si son état le permettait.
+
+Lissy Wag, éperdue et en larmes, vint s\'agenouiller près du jeune homme.
+
+Max Réal respirait, ses paupières se rouvrirent, et il put prononcer ces mots :
+
+« -- Lissy... chère Lissy... ce ne sera rien... rien... Et vous... vous ?... »
+
+Ses yeux se refermèrent... Mais il vivait... il avait reconnu la jeune fille... il lui avait parlé...
+
+Une demi-heure plus tard, les chasseurs l\'eurent déposé à la station, où un médecin se présenta presque aussitôt. Après avoir examiné la blessure, ce praticien affirma qu\'elle n\'était pas mortelle ; puis, un premier pansement fait, il donna l\'assurance que le blessé supporterait sans danger le retour à Indianapolis.
+
+Max Réal fut donc placé dans un des wagons du train qui passa vers cinq heures et demie. Lissy Wag et Jovita Foley prirent place à ses côtés. Il n\'avait pas perdu connaissance, il ne se sentait pas gravement atteint, et, à six heures, il reposait dans sa chambre de *Sherman* *Hotel*.
+
+Hélas ! Combien de temps serait-il dans l\'impossibilité de la quitter, et n\'était-il pas trop certain qu\'il ne pourrait être le 28 au Post Office de Philadelphie ?...
+
+Eh bien, Lissy Wag n\'abandonnerait pas celui qui avait été frappé en la défendant... Non ! Elle resterait près de lui... elle lui donnerait ses soins...
+
+Et, il faut l\'avouer à son honneur, -- bien que ce fût l\'anéantissement de toutes ses espérances, -- Jovita Foley approuva la conduite de sa pauvre amie.
+
+Au surplus, un second médecin qui vint visiter Max Réal ne put que confirmer les dires de son confrère. Le poumon n\'avait été qu\'effleuré par la pointe du couteau, mais il s\'en était fallu de peu que la blessure eût été mortelle.
+
+La déclaration de ce médecin fut, il est vrai, que Max Réal ne serait pas sur pied avant une quinzaine de jours.
+
+Qu\'importait !... Il songeait bien à la fortune de William J. Hypperbone maintenant, et Lissy Wag s\'inquiétait bien de sacrifier les chances qu\'elle avait peut-être de devenir l\'héritière de l\'original défunt !... Non ! C\'était d\'un autre avenir qu\'ils rêvaient tous deux, un avenir de bonheur qui saurait bien se passer de ces millions du match !
+
+Cependant, après longues et mûres réflexions, Jovita Foley s\'était dit :
+
+
+C\'était raisonner juste, et, à la suite de ces dernières épreuves, le Ciel devait bien cela à la cinquième partenaire !
+
+Il convient de dire qu\'il fut tenu compte de la recommandation faite par Max Réal de ne rien écrire à sa mère de ce qui s\'était passé. Il n\'avait point donné son nom à l\'hôtel, on le sait, et lorsque les journaux racontèrent l\'attentat, en indiquant le mobile qui l\'avait inspiré, ils ne parlèrent que de Lissy Wag.
+
+La nouvelle connue, que l\'on juge de l\'effet qui se produisit parmi le monde des spéculateurs, et s\'étonnera-t-on que le Pavillon Jaune fût acclamé dans toute l\'Amérique ?...
+
+Les choses, on va le voir, allaient d\'ailleurs se dénouer plus promptement et de toute autre façon que ne l\'attendait l\'immense majorité du public.
+
+Le lendemain 24, à huit heures et demie, les crieurs parcouraient les rues d\'Indianapolis, des copies de dépêches à la main, et proclamaient, ou plutôt hurlaient le résultat du tirage effectué le matin même à Chicago pour le compte du septième partenaire.
+
+Le point amené était celui de douze, -- six et six, -- et comme ce partenaire occupait alors la cinquante et unième case, État du Minnesota, c\'était lui qui gagnait la partie.
+
+Or, le gagnant n\'était autre que l\'énigmatique personnage désigné sous les initiales X K Z...
+
+Et, maintenant, le pavillon rouge flottait au-dessus de cet Illinois, quatorze fois répété sur la carte du Noble Jeu des États-Unis d\'Amérique.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185601 .pcalibre2 .pcalibre1}[]{#_Toc343183140 .pcalibre2 .pcalibre1}[]{#_Toc343180679 .pcalibre2 .pcalibre1}[]{#_Toc343178218 .pcalibre2 .pcalibre1}[]{#_Toc343175757 .pcalibre2 .pcalibre1}[]{#_Toc343173296 .pcalibre2 .pcalibre1}[]{#_Toc343170835 .pcalibre2 .pcalibre1}[]{#_Toc343168374 .pcalibre2 .pcalibre1}[]{#_Toc343165913 .pcalibre2 .pcalibre1}[]{#_Toc343163452 .pcalibre2 .pcalibre1}[]{#_Toc343160991 .pcalibre2 .pcalibre1}[]{#_Toc343158530 .pcalibre2 .pcalibre1}[]{#_Toc343149260 .pcalibre2 .pcalibre1}[]{#_Toc343146799 .pcalibre2 .pcalibre1}[]{#_Toc343144336 .pcalibre2 .pcalibre1}[]{#_Toc343141875 .pcalibre2 .pcalibre1}[]{#_Toc343139414 .pcalibre2 .pcalibre1}[]{#_Toc343136952 .pcalibre2 .pcalibre1}[]{#_Toc343134491 .pcalibre2 .pcalibre1}[]{#_Toc343132030 .pcalibre2 .pcalibre1}[]{#_Toc343129568 .pcalibre2 .pcalibre1}[]{#_Toc343127107 .pcalibre2 .pcalibre1}[]{#_Toc343124643 .pcalibre2 .pcalibre1}[]{#_Toc343122182 .pcalibre2 .pcalibre1}[]{#_Toc343119721 .pcalibre2 .pcalibre1}[]{#_Toc343117267 .pcalibre2 .pcalibre1}[]{#_Toc343114804 .pcalibre2 .pcalibre1}[]{#_Toc343112343 .pcalibre2 .pcalibre1}[]{#_Toc343109882 .pcalibre2 .pcalibre1}[]{#_Toc343106138 .pcalibre2 .pcalibre1}[]{#_Toc343103676 .pcalibre2 .pcalibre1}[]{#_Toc343101213 .pcalibre2 .pcalibre1}[]{#_Toc343098788 .pcalibre2 .pcalibre1}[]{#_Toc343096319 .pcalibre2 .pcalibre1}[]{#_Toc343093857 .pcalibre2 .pcalibre1}[]{#_Toc343091379 .pcalibre2 .pcalibre1}[]{#_Toc343088916 .pcalibre2 .pcalibre1}[]{#_Toc343086454 .pcalibre2 .pcalibre1}[]{#_Toc343083991 .pcalibre2 .pcalibre1}[]{#_Toc343081529 .pcalibre2 .pcalibre1}[]{#_Toc343079068 .pcalibre2 .pcalibre1}[]{#_Toc343076605 .pcalibre2 .pcalibre1}[]{#_Toc343074142 .pcalibre2 .pcalibre1}[]{#_Toc343071676 .pcalibre2 .pcalibre1}[]{#_Toc343043716 .pcalibre2 .pcalibre1}[]{#_Toc343038831 .pcalibre2 .pcalibre1}[]{#_Toc343036466 .pcalibre2 .pcalibre1}[]{#_Toc343034101 .pcalibre2 .pcalibre1}[]{#_Toc343031736 .pcalibre2 .pcalibre1}[]{#_Toc343028180 .pcalibre2 .pcalibre1}[]{#_Toc343025815 .pcalibre2 .pcalibre1}[]{#_Toc343023450 .pcalibre2 .pcalibre1}[]{#_Toc343021084 .pcalibre2 .pcalibre1}[]{#_Toc343018718 .pcalibre2 .pcalibre1}[]{#_Toc343016353 .pcalibre2 .pcalibre1}[]{#_Toc343013988 .pcalibre2 .pcalibre1}[]{#_Toc343011621 .pcalibre2 .pcalibre1}[]{#_Toc343009256 .pcalibre2 .pcalibre1}[]{#_Toc343006891 .pcalibre2 .pcalibre1}[]{#_Toc343004526 .pcalibre2 .pcalibre1}[]{#_Toc343002161 .pcalibre2 .pcalibre1}[]{#_Toc342999796 .pcalibre2 .pcalibre1}[]{#_Toc342997431 .pcalibre2 .pcalibre1}[]{#_Toc342995066 .pcalibre2 .pcalibre1}[]{#_Toc342992701 .pcalibre2 .pcalibre1}[]{#_Toc342990336 .pcalibre2 .pcalibre1}[]{#_Toc342987971 .pcalibre2 .pcalibre1}[]{#_Toc342985604 .pcalibre2 .pcalibre1}[]{#_Toc342983239 .pcalibre2 .pcalibre1}[]{#_Toc342980874 .pcalibre2 .pcalibre1}[]{#_Toc342978509 .pcalibre2 .pcalibre1}[[Chapitre 14 -- La cloche d\'Oakswoods]{lang="X-NONE"}]{#_Toc342942528 .pcalibre2 .pcalibre1} {#chapitre-14-la-cloche-doakswoods .calibre171 .sigil_not_in_toc}
+
+Un coup de tonnerre, qui serait entendu de toutes les parties du globe terrestre, n\'eût pas produit plus d\'effet que ce coup de dés, sorti du cornet de maître Tornbrock, à huit heures sonnant, le 24 juin, dans la salle de l\'Auditorium. Les milliers de spectateurs, qui assistaient à ce tirage, -- avec la pensée qu\'il pourrait être le dernier du match Hypperbone, -- le proclamèrent dans tous les quartiers de la cité chicagoise, et des milliers de télégrammes le répandirent aux quatre coins de l\'Ancien et du Nouveau-Monde.
+
+C\'était donc l\'homme masqué, le partenaire de la dernière heure, l\'intrus du codicille, en un mot ou plutôt en trois lettres, cet X K Z, qui gagnait la partie, et, avec la partie, les soixante millions de dollars !
+
+Et n\'y avait-il pas lieu d\'observer comment s\'était accomplie la marche de ce favori de la fortune ?... Tandis que tant de malheurs frappaient ses six concurrents, celui-ci confiné dans l\'hôtellerie, celui-là obligé d\'acquitter le péage au pont du Niagara, l\'un perdu dans le labyrinthe, l\'autre précipité au fond du puits, trois d\'entre eux condamnés à la prison, tous ayant eu des primes à payer, X K Z avait toujours marché d\'un pas sûr, allant de l\'Illinois au Wisconsin, du Wisconsin au District de Columbia, du District de Columbia au Minnesota, et du Minnesota au but, sans avoir eu à débourser une seule prime, et dans un rayon restreint, d\'où économie de fatigues et de dépenses au cours de ses faciles voyages !
+
+Cela ne témoignait-il pas d\'une chance peu ordinaire, et même merveilleuse, pourrait-on dire, la veine de ces privilégiés à qui tout réussit dans l\'existence ?...
+
+Restait à savoir qui était cet X K Z, et il ne tarderait pas à se faire connaître, sans doute, ne fût-ce que pour entrer en possession de l\'énorme héritage.
+
+Assurément, aux époques indiquées pour ses tirages, lorsqu\'il s\'était présenté aux Post Offices de Milwaukee du Wisconsin, de Washington du District de Columbia, de Minneapolis du Minnesota, les curieux étaient accourus en foule ; mais ils n\'avaient aperçu tantôt qu\'un homme d\'âge moyen, tantôt un homme ayant dépassé la soixantaine, lequel avait aussitôt disparu, sans qu\'il eût été possible de retrouver ses traces. Enfin, on saurait bientôt à quoi s\'en tenir sur ses prénoms, nom et qualités, et, son identité établie, l\'Union compterait un nouveau nabab en remplacement de William J. Hypperbone.
+
+Voici maintenant quelle était la situation des six autres partenaires à la date du 3 juillet, neuf jours après le tirage final.
+
+Et d\'abord, il convient de dire que tous étaient de retour à Chicago, oui ! Tous, les uns désespérés, les autres furieux, -- on devine lesquels, -- et deux tout à fait indifférents à cette issue du match, -- et ceux-là, inutile de les nommer.
+
+La semaine était à peine achevée que Max Réal, à peu près remis de sa blessure, était rentré dans sa ville natale en compagnie de Lissy Wag et de Jovita Foley. Il avait regagné la maison de South Halsted Street, tandis que les deux amies rentraient à la maison de Sheridan Street.
+
+Et alors Mme Réal, déjà au courant de l\'attentat contre Lissy Wag, apprit, comme tout le monde, le nom du jeune homme auquel la jeune fille devait son salut.
+
+« Ah ! Mon enfant... mon enfant... s\'écria-t-elle en pressant Max dans ses bras, c\'était toi... c\'était toi...
+
+--- Mais puisque je suis guéri, bonne mère, ne pleure pas !... Ce que j\'ai fait là, je l\'ai fait pour elle... entends-tu... pour elle... que tu vas connaître... et que tu aimeras autant qu\'elle t\'aime déjà et que je l\'aime ! »
+
+Ce qui est certain, c\'est que ce jour-là, Lissy Wag, accompagnée de Jovita Foley, vint rendre visite à Mme Réal. La jeune fille plut infiniment à l\'excellente dame, comme celle-ci plut à la jeune fille. Mme Réal la combla de caresses, sans oublier Jovita Foley, si différente de son amie, et pourtant si aimable en son genre...
+
+C\'est ainsi que se fit la connaissance entre ces trois personnes, et, quant à ce qu\'il en advint, il est nécessaire d\'attendre quelques jours pour le savoir.
+
+Ce fut après le départ de Max Réal que Tom Crabbe arriva à Saint-Louis. Dans quel état de fureur et de honte se trouvait John Milner, inutile d\'y insister ! Tant d\'argent dépensé en pure perte, -- non seulement le prix des voyages, mais la triple prime qu\'il dut payer dans cet État-prison du Missouri ! Puis, la réputation du Champion du Nouveau-Monde compromise en cette rencontre avec le non moins dépité Cavanaugh, et dont le véritable vainqueur avait été le révérend Hugh Hunter d\'Arondale ! Quant à Tom Crabbe, il continuait à ne rien comprendre au rôle qu\'il jouait, allant où le menait son entraîneur. Est-ce que l\'animal qui était en lui ne se trouvait pas satisfait, du moment qu\'on lui garantissait ses six repas par jour ?... Et combien de semaines John Milner serait-il enfermé dans cette métropole ?... Or, dès le lendemain, il fut fixé à cet égard, la partie ayant pris fin, et il n\'eut plus qu\'à réintégrer sa maison de Calumet Street à Chicago.
+
+Et c\'est ce que fit également Hermann Titbury. Depuis déjà quatorze jours, le couple occupait l\'appartement réservé au partenaire du match à *Excelsior* *Hotel* de la Nouvelle-Orléans, -- quatorze jours pendant lesquels il avait, somme toute, bien mangé, bien bu, ayant voiture et yacht à ses ordres, loge au théâtre à sa disposition, enfin la grande existence des gens qui jouissent de grands revenus et qui savent les dépenser. Il est vrai, ce genre de vie leur coûtait deux cents dollars quotidiens, et, lorsque la note de l\'hôtel leur fut présentée, quel coup de massue ! Elle s\'élevait à deux mille huit cents dollars, et en y ajoutant les primes de la Louisiane, l\'amende du Maine, le vol de l\'Utah, plus les frais nécessités par des déplacements aussi lointains que coûteux, les dépenses montaient à près de huit mille dollars !
+
+Frappés au coeur, c\'est-à-dire à la bourse, M. et Mrs Titbury furent dégrisés du coup, et, de retour à la maison de Robey Street, ils eurent entre eux des scènes d\'une rare violence, pendant lesquelles Madame reprochant à Monsieur de s\'être lancé dans cette ruineuse aventure malgré tout ce qu\'elle avait pu dire, lui prouva que tous les torts étaient de son côté. Et M. Titbury finit par en être convaincu, suivant son habitude, d\'autant plus que la terrible servante prit le parti de sa maîtresse, suivant son habitude aussi. Il fut d\'ailleurs convenu que l\'ordinaire du ménage subirait de nouvelles réductions. Mais cela n\'empêcha pas les deux époux d\'être hantés par le souvenir des jours passés dans les délices d\'Excelsior *Hotel*, et quelle déception, lorsqu\'ils retombaient de ces rêves dans les abîmes de la réalité !
+
+« Un monstre, cet Hypperbone, un abominable monstre !... s\'écriait parfois Mrs Titbury.
+
+--- Il fallait gagner ses millions, ou ne pas s\'en mêler !... ajoutait la servante.
+
+--- Oui... ne pas s\'en mêler, criait la matrone, et c\'est ce que je n\'ai cessé de dire à monsieur Titbury !... Mais faites donc entendre raison à un pareil... »
+
+On ne saura jamais comment l\'époux de Mrs Titbury fut qualifié ce jour-là !
+
+Harris T. Kymbale ?... Eh bien, Harris T. Kymbale s\'était tiré sain et sauf de cette collision préméditée pour l\'inauguration de la section entre Medary et Sioux-Falls City. Avant le choc, il avait pu sauter sur la voie, et, non sans avoir rebondi sur lui-même comme s\'il eût été en caoutchouc, il était resté évanoui au pied d\'un talus, à l\'abri de l\'explosion des deux locomotives. Sans doute il arrive, même en Amérique, que des trains se tamponnent et se télescopent, mais il est rare que l\'on soit prévenu d\'avance, tandis que, cette fois, les spectateurs, placés à bonne distance de chaque côté de la voie, avaient pu s\'offrir cet incomparable spectacle.
+
+Par malheur, Harris T. Kymbale, dans les conditions où il se trouvait, n\'en avait pas pu jouir.
+
+Ce fut trois heures plus tard, lorsque les équipes vinrent déblayer la voie, qu\'on trouva un homme, sans connaissance, au bas du talus. On le releva, on le transporta dans la maison la plus rapprochée, on manda un médecin, on constata que l\'inconnu n\'était pas mortellement blessé, on le fit revenir à lui, on l\'interrogea, on apprit qu\'il était le quatrième partenaire du match Hypperbone, on sut comment il avait pris place dans ce train expérimental condamné d\'avance à une destruction complète, on lui adressa les reproches qu\'il méritait, on ne le condamna qu\'à solder le prix du voyage, parce qu\'on peut payer en route ou à l\'arrivée sur les chemins de fer américains, on télégraphia l\'incident au directeur de la *Tribune*, et l\'on expédia cet imprudent reporter par l\'itinéraire le plus direct à Chicago, où, le 25, il retrouva sa maison de Milwaukee Avenue. Et naturellement, cet intrépide Harris T. Kymbale se déclara prêt à se remettre en voyage, à continuer le match, à courir, s\'il le fallait, d\'une extrémité des États-Unis à l\'autre. Mais, ayant appris que la partie s\'était terminée la veille au profit de X K Z, il n\'eut plus qu\'à se tenir tranquille, et à écrire d\'intéressantes chroniques sur les derniers incidents auxquels il avait été mêlé en personne. Dans tous les cas, il n\'avait perdu ni son temps ni ses peines, et quels ineffaçables souvenirs lui restaient de ses visites à travers le New Mexico, le South Carolina, le Nebraska, le Washington, le South Dakota, et de la façon originale dont il avait inauguré la section de Medary à Sioux-Falls City.
+
+Son amour-propre de reporter bien informé se sentit cependant touché à l\'endroit sensible par une révélation qui lui valut les plaisanteries et les lardons de la petite presse. Ce fut à propos de l\'ours qu\'il avait rencontré dans les passes de l\'Idaho, ce grizzly qui faisait le signe de croix à chaque coup de tonnerre, cet *Ursus* *Christianus* pour lequel il avait trouvé cette dénomination si convenable. Il s\'agissait tout simplement d\'un brave homme du pays, qui rapportait de chez un fourreur la peau d\'un magnifique plantigrade. Comme la pluie tombait à torrent, il s\'était recouvert de cette peau, et comme il avait peur, il se signait, en bon chrétien, à chaque éclair.
+
+En somme, Harris T. Kymbale finit par rire de l\'aventure, mais son rire était de la couleur de ce pavillon que Jovita Foley n\'avait pu déployer triomphalement sur la soixante-troisième case !
+
+Quant à la cinquième partenaire, on sait dans quelles conditions elle était revenue à Chicago avec sa fidèle amie, Max Réal et Tommy, non moins désespéré de l\'insuccès de son maître que Jovita Foley l\'était de celui de Lissy Wag.
+
+« Mais résigne-toi donc, ma pauvre Jovita !... lui répétait Lissy Wag. Tu sais bien que je n\'ai jamais compté...
+
+--- Mais moi j\'y comptais !
+
+--- Tu avais tort.
+
+--- Après tout, d\'ailleurs, tu n\'es pas à plaindre !
+
+--- Et je ne me plains pas... répondit en souriant Lissy Wag.
+
+--- Si l\'héritage Hypperbone t\'échappe, tu n\'es plus du moins une pauvre fille sans fortune...
+
+--- Comment cela ?...
+
+--- Sans doute, Lissy !... Après cet X K Z qui est arrivé le premier au but, c\'est toi qui en a le plus approché, et le produit des primes te revient tout entier...
+
+--- Ma foi, Jovita, je n\'y pensais guère...
+
+--- Et moi j\'y pense pour toi, insouciante Lissy, et il y a là une grosse petite somme dont tu es la légitime propriétaire ! »
+
+En effet, les mille dollars au pont du Niagara, les deux mille à l\'hôtellerie de la Nouvelle-Orléans, les deux mille au labyrinthe du Nebraska, les trois mille à la Vallée de la Mort de la Californie, et les neuf mille successivement versés à la prison du Missouri, cela se chiffrait par dix-sept mille dollars[[\[9\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn9041){#_ftnref9041 .pcalibre2 .pcalibre1}, qui appartenaient sans conteste et d\'après la teneur du testament, au second arrivant, soit la cinquième partenaire. Pourtant, ainsi que venait de le dire Lissy Wag, elle n\'y avait point songé et songeait à bien autre chose.
+
+Toutefois, il était une personne dont Max Réal n\'aurait pu être jaloux, mais à laquelle pensait quelquefois sa fiancée, -- car il est superflu de dire que le mariage du jeune peintre et de la jeune fille avait été décidé. Cette personne, on le devine, était l\'honorable Humphry Weldon, qui avait honoré de sa visite la maison de Sheridan Street pendant la maladie de Lissy Wag, et auquel était dû l\'envoi des trois mille dollars pour le paiement de la triple prime à la prison du Missouri. Que ce ne fût qu\'un parieur « courant après son argent », comme on dit, il n\'en avait pas moins et généreusement obligé la prisonnière, qui entendait d\'ailleurs le rembourser sur son gain. Aussi lui en gardait-elle une juste reconnaissance et aurait été heureuse de le rencontrer. Seulement, on ne l\'avait pas encore revu.
+
+Pour achever cet état de situation, il suffira de rappeler l\'attention sur Hodge Urrican.
+
+Le 22 juin s\'était effectué le tirage le concernant, alors qu\'il se trouvait au Wisconsin. On n\'a pas oublié que le point de cinq par un et quatre l\'expédiait à la trente et unième case, État de Nevada. Un nouveau voyage d\'environ douze cents milles, mais l\'Union Pacific l\'y conduirait, puisque le Nevada, l\'un des moins peuplés de la Confédération, quoiqu\'il y tienne le sixième rang par sa superficie, est compris entre l\'Oregon, l\'Idaho, l\'Utah, l\'Arizona et la Californie. Mais, par un excès de malchance, c\'est en cet État que William J. Hypperbone avait placé le puits au fond duquel l\'infortuné joueur devrait piquer une tête.
+
+La fureur du commodore fut portée au comble. Il résolut de s\'en prendre à maître Tornbrock... Tout cela se réglerait, la partie achevée, et Turk déclara qu\'il sauterait à la gorge du notaire, l\'étranglerait à belles dents, lui ouvrirait le ventre et lui mangerait le foie...
+
+D\'ailleurs, avec la hâte qu\'il mettait en toutes choses, Hodge Urrican quitta Milwaukee dès le 22, sauta dans le train avec son inséparable compagnon, après avoir adressé au notaire les trois mille dollars que lui coûtait ce dernier coup des dés, et fila à toute vapeur vers le Nevada.
+
+C\'était à Carson City, la capitale, que le Pavillon Orangé devait être rendu avant le 6 juillet.
+
+Il convient de dire que si, suivant la volonté du défunt, le Nevada avait reçu cette destination dans la carte du match, c\'est que les puits y sont nombreux, -- puits de mines, s\'entend, et au point de vue de la production de l\'argent et de l\'or, le Nevada tient la quatrième place dans l\'Union. Improprement désigné par ce nom, puisque la chaîne du Nevada est en dehors de son territoire, il a pour principales villes Virginia City, Gold Hill, Silver City, -- dénominations qui s\'expliquent. Ces villes sont pour ainsi dire construites au-dessus des filons d\'argent, tel celui de Comstock Lode, et il est de ces puits qui s\'enfoncent jusqu\'à plus de deux mille sept cents pieds dans les entrailles de ce sol.
+
+Puits d\'argent, si l\'on veut, mais puits qui justifiaient le choix du testateur, et aussi la juste colère de celui que le sort venait d\'y envoyer...
+
+Il n\'y arriva pas !... À Great Salt Lake City, dans la matinée du 24, la grande nouvelle lui parvint.
+
+La partie était terminée au profit de X K Z, le vainqueur du match Hypperbone.
+
+Le commodore Urrican revint donc à Chicago, et dans quel état, il est plus facile de l\'imaginer que de le décrire.
+
+Il n\'est pas exagéré d\'affirmer que, de ce côté de l\'Atlantique comme de l\'autre, on respirait enfin. Les agences allaient se reposer, les courtiers reprendre haleine. Les paris seraient réglés avec une régularité qui ferait honneur au monde si mêlé de la spéculation.
+
+Cependant, pour tous ceux qui s\'étaient intéressés à cette partie nationale, -- même platoniquement, -- il y avait encore une curiosité à satisfaire, non la moindre, on en conviendra.
+
+Qui était X K Z et se ferait-il connaître ?... Nul doute à cet égard... Lorsqu\'il s\'agit d\'encaisser soixante millions de dollars, on ne garde pas l\'incognito... on ne se cache pas sous des initiales !... L\'heureux gagnant devait se présenter en personne et il se présenterait.
+
+Mais quand et dans quelles conditions ?... Aucun délai n\'avait été fixé par le testament... Toutefois, on ne pensait pas que cela pût tarder quelques jours au plus. Ledit X K Z était au Minnesota, à Minneapolis, lorsque la dépêche du dernier tirage lui avait été expédiée, et une demi-journée suffit pour venir de Minneapolis à Chicago.
+
+Or, une semaine, puis une autre, s\'écoulèrent, et pas de nouvelles de l\'inconnu.
+
+L\'une des plus impatientes, -- cela va de soi, -- était bien Jovita Foley. Cette nerveuse personne voulait que Max Réal allât dix fois par jour aux informations, qu\'il se tint en permanence à l\'Auditorium, où le plus heureux des « Sept » ferait assurément sa première apparition. Or, Max Réal avait l\'esprit plein de choses d\'un bien autre intérêt.
+
+Et alors, Jovita Foley de s\'écrier :
+
+« Ah ! Si je le tenais, ce gagnant !...
+
+--- Modère-toi, ma chérie, lui répétait Lissy Wag.
+
+--- Non... je ne me modérerai pas, Lissy, et si je le tenais, je lui demanderais de quel droit il s\'est permis de gagner la partie... un monsieur dont on ne sait même pas le nom...
+
+--- Mais, ma chère Jovita, répondit Max Réal, si vous le lui demandiez, c\'est qu\'il serait là, et il n\'aurait plus à se faire connaître ! »
+
+Il n\'y a pas lieu de s\'étonner si les deux amies n\'étaient pas encore rentrées dans les magasins de M. Marshall Field pour reprendre leurs fonctions. D\'abord, Lissy Wag y devrait être remplacée, et, quant à Jovita Foley, elle entendait que toute cette affaire fût terminée, avant de revenir à son rayon comme première vendeuse, car elle n\'avait plus la tête à elle.
+
+À tout prendre, avec ses impatiences, elle traduisait fidèlement l\'état de l\'opinion publique aux États-Unis comme ailleurs. À mesure que le temps s\'écoulait, se montaient les imaginations. La presse, -- surtout la presse sportive -- était affolée. Nombre de gens affluaient chez maître Tornbrock, et toujours même réponse. Le notaire affirmait ne rien savoir en ce qui concernait le porteur du pavillon rouge... il ne le connaissait pas... il ne pouvait dire où il était allé en quittant Minneapolis où la dépêche lui avait été remise en mains propres... Et lorsqu\'on le pressait, lorsqu\'on insistait :
+
+« Il viendra quand cela lui fera plaisir, » se bornait à répondre maître Tornbrock.
+
+C\'est alors que les partenaires, sauf Lissy Wag et Max Réal, jugèrent bon d\'intervenir, non sans quelque droit. En effet, si le gagnant ne se déclarait point, n\'avaient-ils pas raison de prétendre que la partie n\'était pas gagnée, qu\'elle devait être reprise et continuée ?...Le commodore Urrican, Hermann Titbury, John Milner, fondé de pouvoir de Tom Crabbe, absolument intraitables et conseillés par leurs solicitors, annoncèrent leur intention d\'actionner en justice l\'exécuteur testamentaire du défunt. Les journaux qui les avaient soutenus au cours du match ne les abandonnèrent pas. Dans la *Tribune*, Harris T. Kymbale fit paraître un article des plus vifs contre X K Z, dont on arrivait à nier l\'existence, et le *Chicago* *Herald*, le *Chicago* *Inter*-*Ocean*, le *Daily* *New* *Record*, le *Chicago* *Mail*, la *Freie* *Presse*, défendirent avec une incroyable violence la cause des partenaires. Toute l\'Amérique se passionna pour cette nouvelle affaire. Impossible, d\'ailleurs, de régler les paris, tant que l\'identité du gagnant n\'aurait pas été constatée par acte authentique, tant qu\'il n\'y aurait pas certitude que le match était définitivement terminé. Il n\'y avait qu\'une opinion là-dessus, et il fut question d\'une manifestation monstre dans un meeting à l\'Auditorium. Si X K Z ne s\'était pas fait connaître dans un délai de..., maître Tornbrock serait mis en demeure de reprendre les tirages. Tom Crabbe, Hermann Titbury, Harris T. Kymbale, le commodore Urrican, même Jovita Foley, si on voulait lui permettre de se substituer à Lissy Wag, étaient prêts à partir pour n\'importe lequel des états de la Confédération où le sort voudrait les envoyer.
+
+Enfin, l\'agitation publique atteignit une telle intensité que les autorités durent s\'en émouvoir, -- à Chicago surtout. Il fallut protéger les membres de l\'*Excentric* *Club* et le notaire que l\'on rendait responsables.
+
+Bref, le 15 juillet, trois semaines après le dernier coup de dés, qui avait fait de l\'homme masqué le gagnant du match, un incident des plus inattendus se produisit.
+
+Ce jour-là, à dix heures dix-sept du matin, le bruit se répandit que la cloche sonnait à toute volée au monument funèbre de William J. Hypperbone, dans le cimetière d\'Oakswoods.
+
+
+]{.calibre20}
+
+
+LE TESTAMENT D\'UN EXCENTRIQUE
+
+Seconde partie
+
+
+]{.calibre20}
+
+### [[Chapitre 15 -- Dernière excentricité]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942529 .pcalibre2 .pcalibre1} {#chapitre-15-dernière-excentricité .calibre171 .sigil_not_in_toc}
+
+On ne saurait imaginer avec quelle rapidité s\'était répandue cette nouvelle. Chaque maison de Chicago eût été munie d\'un timbre téléphonique en communication avec un appareil installé chez le gardien d\'Oakswoods, que les dix-sept cent mille habitants de la métropole illinoise ne l\'eussent apprise ni plus promptement ni plus simultanément.
+
+Et tout d\'abord, en quelques minutes, le cimetière fut envahi par la population des quartiers voisins. Puis la foule afflua de toutes parts. Une demi-heure après, la circulation était absolument interrompue à partir de Washington Park. Le gouverneur de l\'État, John Hamilton, prévenu en toute hâte, envoya de fortes escouades de la milice, qui pénétrèrent non sans peine dans le cimetière et en firent sortir nombre de curieux, de telle façon que l\'accès en restât libre.
+
+Et la cloche sonnait toujours au clocher du superbe monument de William J. Hypperbone.
+
+On comprendra que Georges B. Higginbotham, le président de l\'*Excentric Club* et ses collègues, le notaire Tornbrock, fussent arrivés des premiers dans l\'enceinte du cimetière. Mais comment avaient-ils pu y devancer l\'énorme et tumultueuse foule, à moins d\'avoir été prévenus d\'avance ? Ce qui est certain, c\'est qu\'ils étaient là dès les premiers coups de la cloche, mise en branle par le gardien d\'Oakswoods.
+
+Une demi-heure plus tard se présentaient les six partenaires du match Hypperbone. Que le commodore Urrican, Tom Crabbe, remorqué par John Milner, Hermann Titbury, poussé par Mrs Titbury, Harris T. Kymbale, se fussent empressés d\'accourir, cela ne surprendra personne. Mais si Max Réal et Lissy Wag s\'y trouvaient aussi, et Jovita Foley avec eux, c\'est que celle-ci l\'avait si impérieusement exigé, qu\'il avait bien fallu lui obéir.
+
+Tous les partenaires étaient donc là devant le monument, gardé par un triple rang des soldats de cette milice, que les deux amies auraient eu le droit de commander, l\'une comme colonel, l\'autre comme lieutenant-colonel, puisque ces grades leur avaient été octroyés par le gouverneur de l\'État.
+
+Enfin la cloche se tut, et la porte du monument s\'ouvrit toute grande.
+
+Le hall intérieur resplendissait de l\'éblouissante lueur des lampes électriques et des lustres de la voûte. Entre les lampadaires apparut le magnifique catafalque, tel qu\'il était trois mois et demi avant, lorsque les portes s\'étaient refermées à l\'issue des obsèques auxquelles prit part la ville entière.
+
+L\'*Excentric Club,* son président en tête, pénétra dans le hall. Maitre Tornbrock, en habit noir, en cravate blanche, toujours lunette d\'aluminium, entra après eux. Les six partenaires les suivirent, accompagnés de tout ce que le hall funéraire pouvait contenir de spectateurs.
+
+Un profond silence régnait au dedans comme au dehors de l\'édifice, -- témoignage d\'une émotion non moins profonde, -- et Jovita Foley n\'était pas la moins émue de toute l\'assistance. On sentait vaguement que le mot de l\'énigme, en vain cherché depuis le tirage du 24, allait être enfin prononcé, et que ce mot serait un nom, -- le nom du gagnant du match Hypperbone.
+
+Il était onze heures trente-trois minutes, lorsqu\'un certain bruit se fit entendre à l\'intérieur du hall. Ce bruit venait du catafalque, dont le drap mortuaire glissa jusqu\'au sol comme s\'il eût été tiré par une invisible main.
+
+Et alors, ô prodige ! Tandis que Lissy Wag se pressait au bras de Max Réal, le couvercle de la bière se soulevait, le corps qu\'elle contenait se redressa\... Puis, un homme apparut debout, vivant, bien vivant, et cet homme n\'était autre que le défunt, William J. Hypperbone !
+
+« Grand Dieu ! » s\'écria Jovita Foley, dont le cri ne fut entendu que de Max Réal et de Lissy Wag, au milieu du brouhaha de stupéfaction qui s\'éleva de toute l\'assistance.
+
+Et elle ajouta, les mains tendues :
+
+« C\'est le vénérable monsieur Humphry Weldon ! »
+
+Oui, le vénérable monsieur Humphry Weldon, mais d\'un âge moins vénérable que lors de sa visite à Lissy Wag\... Ce gentleman et \"William J. Hypperbone ne faisaient qu\'un\...
+
+Voici, en quelques mots, le récit que reproduisirent les journaux du monde entier, et qui expliquait tout ce qui paraissait inexplicable en cette prodigieuse aventure.
+
+C\'était dans la journée du 1 avril, à l\'hôtel de Mohawk Street, pendant une partie du Noble Jeu de l\'Oie, que William J. Hypperbone avait été frappé de congestion. Transporté à son hôtel de La Salle Street, il y était mort quelques heures après, ou, plutôt, avait été déclaré tel par les médecins.
+
+Eh bien, en dépit des docteurs, -- et aussi de ces fameux rayons du professeur Frederick d\'Elbing, qui corroboraient leur dire, -- William J. Hypperbone n\'était qu\'en état cataleptique, rien de plus, mais ayant toutes les apparences d\'un homme qui a passé de vie à trépas. En vérité, il était heureux qu\'il n\'eût point manifesté dans son testament la volonté d\'être embaumé après sa mort, car assurément, l\'opération faite, il n\'en serait pas revenu. Après cela, un homme si chanceux\...
+
+Les magnifiques funérailles se firent comme chacun sait ; puis, à la date du 3 avril, les portes du monument se refermèrent sur le membre le plus distingué de l\'*Excentric Club*.
+
+Or, dans la soirée, le gardien, occupé à éteindre les dernières lumières du hall, entendit un remuement à l\'intérieur du catafalque. Des gémissements s\'en échappaient\... Une voix étouffée appelait\...
+
+Ce gardien ne perdit pas la tête. Il courut chercher ses outils, il dévissa le couvercle de la bière, et la première parole que prononça William J. Hypperbone, réveillé de son sommeil léthargique, fut celle-ci :
+
+« Pas un mot\... Et ta fortune est faite ! »
+
+Puis il ajouta, avec une présence d\'esprit extraordinaire chez un homme qui revenait de si loin :
+
+« Toi seul, tu sauras que je suis vivant\... Toi seul, avec mon notaire, maître Tornbrock, à qui tu vas aller dire de venir ici à l\'instant\... »
+
+Le gardien, sans autres explications, sortit du hall et courut en toute hâte chez le notaire. Et quelle fut la surprise, -- oh ! Des plus agréables, -- qu\'éprouva maître Tornbrock, lorsque, une demi-heure plus tard, il se retrouva en présence de son client, aussi bien portant qu\'il l\'eût jamais été.
+
+Et voici à quoi William J. Hypperbone avait réfléchi depuis sa résurrection, et le parti auquel il s\'était arrêté, -- ce qui ne saurait étonner d\'un pareil personnage.
+
+Puisqu\'il avait institué par testament la fameuse partie qui devait donner lieu à tant d\'agitations, de déceptions, de surprises, il entendait que cette partie se jouât entre les partenaires désignés par le sort, et il en subirait toutes les conséquences.
+
+«  Alors, reprit maitre Tornbrock, vous serez certainement ruiné, puisque l\'un des six la gagnera\... Il est vrai, puisque vous n\'êtes pas mort, -- ce dont je vous félicite très sincèrement, -- votre testament devient caduc et ses dispositions sont de nul effet. Donc pourquoi laisser jouer cette partie ?
+
+--- Parce que j\'y prendrai part..
+
+--- Vous ?
+
+--- Moi..
+
+--- Et comment ?
+
+--- Je vais ajouter un codicille à mon testament et introduire un septième partenaire, qui sera William J. Hypperbone sous les initiales X K Z..
+
+--- Et vous jouerez ?
+
+--- Je jouerai comme les autres..
+
+--- Mais vous devrez vous conformer aux règles établies\...
+
+--- Je m\'y conformerai\...
+
+--- Et si vous perdez\...
+
+--- Je perdrai\... Et toute ma fortune ira au gagnant..
+
+--- C\'est résolu ?
+
+--- Résolu\... Puisque je ne me suis distingué par aucune excentricité jusqu\'ici, au moins vais-je me montrer excentrique sous le couvert de ma fausse mort. »
+
+On devine ce qui suivit. Le gardien d\'Oakswoods, bien récompensé, avec promesse de l\'être plus encore s\'il se taisait jusqu\'au dénouement de cette aventure, avait gardé le secret. William J. Hypperbone, en quittant le cimetière, -- avant le jour du jugement dernier, -- se rendit incognito chez maître Tornbrock, ajouta à son testament le codicille que l\'on connaît, et désigna l\'endroit où il allait se retirer pour le cas où le notaire aurait quelque communication à lui adresser. Puis il prit congé de ce digne homme, confiant en cette chance extraordinaire qui ne l\'avait jamais abandonné pendant le cours de son existence, et qui allait lui demeurer fidèle, pourrait-on dire, même après sa mort.
+
+On sait le reste.
+
+La partie commencée dans les conditions déterminées, William J. Hypperbone put alors se faire une opinion sur chacun des « Six », Ni ce mauvais coucheur d\'Hodge Urrican, ni ce ladre d\'Hermann Titbury, ni cette brute de Tom Crabbe, ne l\'intéressèrent et ne pouvaient l\'intéresser. Peut-être éprouvait-il quelque sympathie à l\'égard d\'Harris T. Kymbale, mais, à faire des voeux pour quelqu\'un à défaut de lui-même, c\'eût été pour Max Réal, Lissy Wag et sa fidèle Jovita Foley. De là, pendant la maladie de la cinquième partenaire, cette démarche sous le nom de Humphry Weldon, puis l\'envoi des trois mille dollars dans la prison du Missouri. Aussi quelle première satisfaction pour cet homme généreux, lorsque la jeune fille fut délivrée par Max Réal, et quelle seconde satisfaction, lorsque celui-ci le fut à son tour par Tom Crabbe !
+
+Quant à lui, il avait suivi d\'un pas sûr et régulier les diverses péripéties du match, servi par cette inépuisable chance sur laquelle il comptait avec raison, qui ne le trahit pas une seule fois, et il était arrivé premier au poteau, lui, l\'outsider, battant les divers favoris sur cet hippodrome national.
+
+Voilà ce qui s\'était passé, voilà ce qui se dit et se répéta presque aussitôt dans l\'assistance. Et voilà pourquoi les collègues de cet excentrique personnage lui serrèrent affectueusement la main, pourquoi Max Réal en fit autant, pourquoi il reçut les remerciements de Lissy Wag et ceux de Jovita Foley, -- laquelle lui demanda et obtint la permission de l\'embrasser, -- et comment, porté par la foule, il fut ramené à travers la grande cité Chicagoise aussi triomphalement qu\'il avait été conduit, trois mois et demi avant, au cimetière d\'Oakswoods.
+
+Et, maintenant, il n\'était personne dans toute la métropole qui ne sût à quoi s\'en tenir sur le dénouement de cette si passionnante affaire.
+
+Mais les partenaires s\'étaient-ils enfin résignés ? Oui, quelques-uns, pas tous, et, au total, il fallait bien accepter cet inattendu dénouement.
+
+Hermann Titbury, cependant, ne voulait pas avoir inutilement dépensé tant d\'argent à courir d\'un bout à l\'autre de la Confédération. Aussi ne songeait-il plus qu\'à le rattraper. D\'accord avec Mrs Titbury, qui l\'y poussait, il résolut de rentrer dans les affaires, autrement dit de reprendre son commerce d\'usurier abominable, et malheur aux pauvres diables qui allaient passer par les griffes de ce loup-cervier !
+
+Tom Crabbe, lui, n\'avait jamais rien compris à toutes ces aventures, si ce n\'est qu\'il avait une revanche à tirer, et John Milner espérait bien que dans une prochaine lutte, il se retrouverait au premier rang des pugilistes et ferait oublier les fameux coups de poing du révérend Hugh Hunter.
+
+Harris T. Kymbale, lui, prit philosophiquement sa défaite, car il gardait le souvenir de ses intéressants voyages. Il ne tenait pas, toutefois, le record du parcours, n\'ayant fait que dix mille milles environ, tandis que Hodge Urrican en avait fait plus de onze mille, -- ce qui ne l\'empêcha pas d\'écrire dans la *Tribune* un article des plus élogieux on faveur du ressuscité de l\'*Excentric Club*.
+
+Quant au commodore, il alla trouver William J. Hypperbone et lui dit avec sa bonne grâce habituelle :
+
+« Ça ne se fait pas, monsieur\... Non ! ça ne se fait pas ! Quand on est mort, on est mort, et on ne laisse pas les gens courir après son héritage alors qu\'on est encore de ce monde !
+
+--- Que voulez-vous, commodore, répondit aimablement William Hypperbone, je ne pouvais pourtant pas\...
+
+--- Vous le pouviez, monsieur, et vous le deviez ! D\'ailleurs, si au lieu de vous fourrer en bière, on vous avait mis dans le four crématoire, cela ne serait pas arrive\...
+
+--- Qui sait\... Commodore ? J\'ai tant de chance\...
+
+--- Et, comme vous m\'avez mystifié, reprit Hodge Urrican, et que je n\'ai jamais toléré de l\'être, vous m\'en rendrez raison\...
+
+--- Où et quand il vous plaira ! »
+
+Et, bien que Turk eût juré par saint Jonathan qu\'il dévorerait le foie de M. Hypperbone, son maitre ne chercha pas à le modérer cette fois, et ce fut précisément lui qu\'il envoya à l\'ex-défunt pour fixer l\'heure et le jour de la rencontre.
+
+Mais ne voilà-t-il pas que, au début de sa visite, Turk se contenta de dire à William J. Hypperbone :
+
+« Voyez-vous, monsieur, le commodore Urrican n\'est pas si méchant qu\'il veut le paraître\... Au fond, c\'est un brave homme\... Que l\'on ramène facilement\...
+
+--- Et vous venez de sa part\...
+
+--- Vous dire qu\'il regrette sa vivacité d\'hier et vous prier d\'accepter ses excuses ! »
+
+Bref, l\'affaire en resta là, car Hodge Urrican finit par reconnaître qu\'elle le couvrirait de ridicule. Mais, très heureusement pour Turk, ce terrible homme ne sut jamais de quelle façon celui-ci avait rempli son mandat.
+
+Enfin, la veille du jour où allait être célébré le mariage de Max Réal et de Lissy Wag, à la date du 29 juillet, les futurs reçurent la visite, non plus d\'un vénérable M. Humphry Weldon un peu courbé par l\'âge, mais de M. William J. Hypperbone, plus fringant, plus jeune que jamais, ainsi que l\'observa très bien Jovita Foley. Ce gentleman, après s\'être excusé de n\'avoir pas laissé gagner la partie à miss Wag, qui fût certainement arrivée première, lui déclara que, le voulût-elle ou ne le voulût-elle pas, que cela convînt ou non à son mari, il venait de déposer un nouveau testament chez maître Tornbrock. Et il aurait son entier et plein effet, -- celui-là, -- par lequel il faisait de sa fortune deux parts, dont l\'une était attribuée à Lissy Wag.
+
+Inutile d\'insister sur ce qui fut répondu à cet homme aussi généreux qu\'original. Et, du coup, voilà Tommy assuré d\'être acheté par son maître à un prix convenable !
+
+Restait Jovita Foley. Eh bien, cette vive, démonstrative et excellente personne ne ressentit aucune jalousie de tout ce qui survenait d\'heureux à sa chère compagne. Et quel bonheur pour son amie d\'épouser celui dont elle était adorée, trouver dans M. William J. Hypperbone un tel oncle à héritage ! Quant à elle, après la noce, elle irait reprendre sa place de première vendeuse dans la maison de M. Marshall Field.
+
+Le mariage fut célébré le lendemain, on peut dire en présence de toute la métropole. Le gouverneur John Hamilton et William J. Hypperbone voulurent assister les jeunes époux dans cette cérémonie magnifique.
+
+Puis, lorsque les mariés et leurs amis furent de retour chez M Réal, voici que William J. Hypperbone, s\'adressant à Jovita Foley, charmante en demoiselle d\'honneur, dit :
+
+« Miss Foley\... J\'ai cinquante ans\...
+
+--- Vous vous vantez, monsieur Hypperbone, répondit celle-ci, en riant\... Comme elle savait rire..
+
+--- Non\... J\'ai cinquante ans, -- ne dérangez pas mes calculs, -- et vous en avez vingt-cinq\...
+
+--- Vingt-cinq, en effet...
+
+--- Or, si je n\'ai pas oublié les premiers éléments de l\'arithmétique, vingt-cinq est la moitié de cinquante\... »
+
+Où voulait en venir ce gentleman, non moins énigmatique que mathématicien ?
+
+« Eh bien, miss Jovita Foley, puisque vous avez la moitié de mon âge, si l\'arithmétique n\'est pas une science vaine, pourquoi ne deviendriez-vous pas la moitié de moi-même ? »
+
+Qu\'aurait pu répondre Jovita Foley à cette proposition si originalement formulée, si ce n\'est ce que toute autre eût répondu à sa place ?
+
+
+Et pour finir, en présence des faits peut-être invraisemblables rapportés dans ce récit, que le lecteur veuille bien ne point oublier -- circonstance atténuante-que tout cela s\'est passé en Amérique !

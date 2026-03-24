@@ -1,0 +1,174 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE DOCTEUR PASCAL",
+  "slug": "le-docteur-pascal",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 458,
+      "spine_end_exclusive": 459,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_457.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Dédicace",
+      "slug": "dedicace",
+      "spine_start": 459,
+      "spine_end_exclusive": 460,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_458.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 460,
+      "spine_end_exclusive": 461,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_459.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 461,
+      "spine_end_exclusive": 462,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_460.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 462,
+      "spine_end_exclusive": 463,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_461.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 463,
+      "spine_end_exclusive": 464,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_462.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 464,
+      "spine_end_exclusive": 465,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_463.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 465,
+      "spine_end_exclusive": 466,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_464.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 466,
+      "spine_end_exclusive": 467,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_465.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 467,
+      "spine_end_exclusive": 468,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_466.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 468,
+      "spine_end_exclusive": 469,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_467.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 469,
+      "spine_end_exclusive": 470,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_468.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 470,
+      "spine_end_exclusive": 471,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_469.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 471,
+      "spine_end_exclusive": 472,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_470.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 472,
+      "spine_end_exclusive": 473,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_471.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 473,
+      "spine_end_exclusive": 475,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_472.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_473.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-docteur-pascal/Zola1_image036.jpg"
+  ]
+}

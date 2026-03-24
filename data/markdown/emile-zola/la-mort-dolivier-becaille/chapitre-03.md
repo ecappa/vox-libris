@@ -1,0 +1,145 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5934 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LA MORT D'OLIVIER BÉCAILLE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5935 .calibre35}
+
+## []{#_Toc368832959 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832685 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832411 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832137 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831863 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831589 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831315 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831041 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830767 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830493 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830219 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829945 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829671 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829397 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829123 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828849 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828575 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828301 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368828027 .pcalibre .calibre3 .pcalibre1} {#ii .calibre43}
+
+
+Aux cris que Marguerite poussait, la porte a été brusquement ouverte, et une voix s\'est écriée :
+
+--- Qu\'y a−t−il donc, ma voisine ?\... Encore une crise, n\'est−ce pas ? J\'ai reconnu la voix. C\'était celle d\'une vieille femme, Mme Gabin, qui demeurait sur le même palier que nous.
+
+Elle s\'était montrée très obligeante, dès notre arrivée, émue par notre position. Tout de suite, elle nous avait raconté son histoire. Un propriétaire intraitable lui avait vendu ses meubles, l\'hiver dernier ; et, depuis ce temps, elle logeait à l\'hôtel, avec sa fille Adèle, une gamine de dix ans. Toutes deux découpaient des abat−jour c\'était au plus si elles gagnaient quarante sous à cette besogne.
+
+--- Mon Dieu ! Est−ce que c\'est fini ? demanda−t−elle en baissant la voix.
+
+Je compris qu\'elle s\'approchait. Elle me regarda, me toucha, puis elle reprit avec pitié :
+
+--- Ma pauvre petite ! Ma pauvre petite !
+
+Marguerite, épuisée, avait des sanglots d\'enfant. Mme Gabin la souleva, l\'assit dans le fauteuil boiteux qui se trouvait près de la cheminée ; et, là, elle tâcha de la consoler.
+
+--- Vrai, vous allez vous faire du mal. Ce n\'est pas parce que votre mari est parti, que vous devez vous crever de désespoir. Bien sûr, quand j\'ai perdu Gabin, j\'étais pareille à vous, je suis restée trois jours sans pouvoir avaler gros comme ça de nourriture. Mais ça ne m\'a avancée à rien ; au contraire, ça m\'a enfoncée davantage\... Voyons pour l\'amour de Dieu\... Soyez raisonnable.
+
+Peu à peu, Marguerite se tut. Elle était à bout de force ; et, de temps à autre, une crise de larmes la secouait encore. Pendant ce temps, la vieille femme prenait possession de la chambre, avec une autorité bourrue.
+
+--- Ne vous occupez de rien, répétait−elle. Justement, Dédé est allée reporter l\'ouvrage ; puis, entre voisins, il faut bien s\'entr\'aider\... Dites donc, vos malles ne sont pas encore complètement défaites ; mais il y a du linge dans la commode, n\'est−ce pas ?
+
+Je l\'entendis ouvrir la commode. Elle dut prendre une serviette, qu\'elle vint étendre sur la table de nuit. Ensuite, elle flotta une allumette, ce qui me fit penser qu\'elle allumait près de moi une des bougies de la cheminée, en guise de cierge. Je suivais chacun de ses mouvements dans la chambre, je me rendais compte de ses moindres actions.
+
+--- Ce pauvre monsieur ! murmura−t−elle. Heureusement que je vous ai entendue crier ma chère.
+
+Et, tout d\'un coup, la lueur vague que je voyais encore de mon oeil gauche, disparut. Mme Gabin venait de me fermer les yeux. Je n\'avais pas eu la sensation de son doigt sur ma paupière. Quand j\'eus compris, un léger froid commença à me glacer.
+
+Mais la porte s\'était rouverte. Dédé, la gamine de dix ans, entrait en criant de sa voix flûtée :
+
+--- Maman ! Maman ! Ah ! Je savais bien que tu étais ici !\... Tiens, voilà ton compte, trois francs quatre sous\... J\'ai rapporté vingt douzaines d\'abat−jour\...
+
+--- Chut ! Chut ! Tais−toi donc ! Répétait vainement la mère. Comme la petite continuait, elle lui montra le lit. Dédé s\'arrêta, et je la sentis inquiète, reculant vers la porte.
+
+--- Est−ce que le monsieur dort ? demanda−t−elle très bas.
+
+--- Oui, va−t\'en jouer, répondit Mme Gabin.
+
+Mais l\'enfant ne s\'en allait pas. Elle devait me regarder de ses yeux agrandis, effarée et comprenant vaguement. Brusquement, elle parut prise d\'une peur folle, elle se sauva en culbutant une chaise.
+
+--- Il est mort, oh ! Maman, il est mort.
+
+Un profond silence régna. Marguerite, accablée dans le fauteuil, ne pleurait plus. Mme Gabin rôdait toujours par la chambre. Elle se remit à parler entre ses dents.
+
+--- Les enfants savent tout, au jour d\'aujourd\'hui. Voyez celle−là. Dieu sait si je l\'élève bien ! Lorsqu\'elle va faire une commission ou que je l\'envoie reporter l\'ouvrage, je calcule les minutes, pour être sûre qu\'elle ne galopine pas\... Ça ne fait rien, elle sait tout, elle a vu d\'un coup d\'oeil ce qu\'il en était. Pourtant, on ne lui a jamais montré qu\'un mort, son oncle François, et, à cette époque, elle n\'avait pas quatre ans\... Enfin, il n\'y a plus d\'enfants, que voulez−vous !
+
+Elle s\'interrompit, elle passa sans transition à un autre sujet.
+
+--- Dites donc, ma petite, il faut songer aux formalités, la déclaration à la mairie, puis tous les détails du convoi. Vous n\'êtes pas en état de vous occuper de ça. Moi, je ne veux pas vous laisser seule\... Hein ? Si vous le permettez, je vais voir si M. Simoneau est chez lui Marguerite ne répondit pas. J\'assistais à toutes ces scènes comme de très loin. Il me semblait, par moments, que je volais, ainsi qu\'une flamme subtile, dans l\'air de la chambre, tandis qu\'un étranger une masse informe reposait inerte sur le lit. Cependant, j\'aurais voulu que Marguerite refusât les services de ce Simoneau. Je l\'avais aperçu trois ou quatre fois durant ma courte maladie. Il habitait une chambre voisine et se montrait très serviable. Mme Gabin nous avait raconté qu\'il se trouvait simplement de passage à Paris, où il venait recueillir d\'anciennes créances de son père, retiré en province et mort dernièrement. C\'était un grand garçon, très beau, très fort. Je le détestais, peut−être parce qu\'il se portait bien. La veille, il était encore entré, et j\'avais souffert de le voir assis près de Marguerite. Elle était si jolie, si blanche à côté de lui ! Et il l\'avait regardée si profondément, pendant qu\'elle lui souriait, en disant qu\'il était bien bon de venir ainsi prendre de mes nouvelles !
+
+--- Voici M. Simoneau, murmura Mme Gabin, qui rentrait.
+
+Il poussa doucement la porte, et, dès qu\'elle l\'aperçut, Marguerite de nouveau éclata en larmes. La présence de cet ami, du seul homme qu\'elle connût, réveillait en elle sa douleur. Il n\'essaya pas de la consoler. Je ne pouvais le voir ; mais, dans les ténèbres qui m\'enveloppaient, j\'évoquais sa figure, et je le distinguais nettement, troublé, chagrin de trouver la pauvre femme dans un tel désespoir. Et qu\'elle devait être belle pourtant, avec ses cheveux blonds dénoués, sa face pâle, ses chères petites mains d\'enfant brûlantes de fièvre !
+
+--- Je me mets à votre disposition, madame, murmura Simoneau. Si vous voulez bien me charger de tout\...
+
+Elle ne lui répondit que par des paroles entrecoupées.
+
+Mais, comme le jeune homme se retirait, Mme Gabin l\'accompagna, et je l\'entendis qui parlait d\'argent, en passant près de moi. Cela coûtait toujours très cher ; elle craignait bien que la pauvre petite n\'eût pas un sou. En tout cas, on pouvait la questionne Simoneau fit taire la vieille femme. Il ne voulait pas qu\'on tourmentât Marguerite. Il allait passer à la mairie et commander le convoi.
+
+Quand le silence recommença, je me demandai si ce cauchemar durerait longtemps ainsi. Je vivais puisque je percevais les moindres faits extérieurs. Et je commençais à me rendre un compte exact de mon état. Il devait s\'agir d\'un de ces cas de catalepsie dont j\'avais entendu parler. Déjà, quand j\'étais enfant, à l\'époque de ma grande maladie nerveuse, j\'avais eu des syncopes de plusieurs heures.
+
+Évidemment c\'était une crise de cette nature qui me tenait rigide, comme mort, et qui trompait tout le monde autour de moi. Mais le coeur allait reprendre ses battements, le sang circulerait de nouveau dans la détente des muscles ; et je m\'éveillerais, et je consolerais Marguerite. En raisonnant ainsi, je m\'exhortai à la patience.
+
+Les heures passaient. Mme Gabin avait apporté son déjeuner. Marguerite refusait toute nourriture. Puis, l\'après−midi s\'écoula. Par la fenêtre laissée ouverte, montaient les bruits de la rue Dauphine. À un léger tintement du cuivre du chandelier sur le marbre de la table de nuit, il me sembla qu\'on venait de changer la bougie. Enfin, Simoneau reparut.
+
+--- Eh bien ? lui demanda à demi−voix la vieille femme.
+
+--- Tout est réglé, répondit−il. Le convoi est pour demain onze heures\... Ne vous inquiétez de rien et ne parlez pas de ces choses devant cette pauvre femme.
+
+Mme Gabin reprit quand même :
+
+--- Le médecin des morts n\'est pas venu encore.
+
+Simoneau alla s\'asseoir près de Marguerite, l\'encouragea, et se tut. Le convoi était pour le lendemain onze heures : cette parole retentissait dans mon crâne comme un glas. Et ce médecin qui ne venait point, ce médecin des morts, comme le nommait Mme Gabin ! Lui, verrait bien tout de suite que j\'étais simplement en léthargie. Il ferait le nécessaire, il saurait m\'éveiller. Je l\'attendais dans une impatience affreuse.
+
+Cependant, la journée s\'écoula. Mme Gabin, pour ne pas perdre son temps, avait fini par apporter ses abat−jour.
+
+Même, après en avoir demandé la permission à Marguerite, elle fit venir Dédé, parce que, disait−elle, elle n\'aimait guère laisser les enfants longtemps seuls.
+
+--- Allons, entre, murmura−t−elle en amenant la petite, et ne fais pas la bête, ne regarde pas de ce côté, ou tu auras affaire à moi.
+
+Elle lui défendait de me regarder, elle trouvait cela plus convenable. Dédé, sûrement, glissait des coups d\'oeil de temps à autre, car j\'entendais sa mère lui allonger des claques sur les bras. Elle lui répétait furieusement :
+
+--- Travaille, ou je te fais sortir. Et, cette nuit, le monsieur ira te tirer les pieds.
+
+Toutes deux, la mère et la fille, s\'étaient installées devant notre table. Le bruit de leurs ciseaux découpant les abat−jour me parvenait distinctement ; ceux−là, très délicats, demandaient sans doute un découpage compliqué, car elles n\'allaient pas vite : je les comptais un à un, pour combattre mon angoisse croissante.
+
+Et, dans la chambre, il n\'y avait que le petit bruit des ciseaux. Marguerite, vaincue par la fatigue, devait s\'être assoupie. À deux reprises, Simoneau se leva. L\'idée abominable qu\'il profitait du sommeil de Marguerite, pour effleurer des lèvres ses cheveux, me torturait. Je ne connaissais pas cet homme, et je sentais qu\'il aimait ma femme. Un rire de la petite Dédé acheva de m\'irriter.
+
+--- Pourquoi ris−tu, imbécile ? lui demanda sa mère. Je vais te mettre sur le carré\... Voyons, réponds, qu\'est−ce qui te fait rire ?
+
+L\'enfant balbutiait. Elle n\'avait pas ri, elle avait toussé. Moi, je m\'imaginais qu\'elle devait avoir vu Simoneau se pencher vers Marguerite, et que cela lui paraissait drôle. La lampe était allumée, lorsqu\'on frappa.
+
+--- Ah ! Voici le médecin, dit la vieille femme.
+
+C\'était le médecin, en effet. Il ne s\'excusa même pas de venir si tard. Sans doute, il avait eu bien des étages à monter, dans la journée. Comme la lampe éclairait très faiblement la chambre, il demanda :
+
+--- Le corps est ici ?
+
+--- Oui, monsieur, répondit Simoneau.
+
+Marguerite s\'était levée, frissonnante. Mme Gabin avait mis Dédé sur le palier, parce qu\'un enfant n\'a pas besoin d\'assister à ça ; et elle s\'efforçait d\'entraîner ma femme vers la fenêtre, afin de lui épargner un tel spectacle. Pourtant, le médecin venait de s\'approcher d\'un pas rapide. Je le devinais fatigué, pressé, impatienté. M\'avait−il touché la main ? Avait−il posé la sienne sur mon coeur ? Je ne saurais le dire. Mais il me sembla qu\'il s\'était simplement penché d\'un air indifférent.
+
+--- Voulez−vous que je prenne la lampe pour vous éclairer ? Offrit Simoneau avec obligeance.
+
+--- Non, inutile, dit le médecin tranquillement.
+
+Comment ! Inutile ! Cet homme avait ma vie entre les mains, et il jugeait inutile de procéder à un examen attentif. Mais je n\'étais pas mort ! J\'aurais voulu crier que je n\'étais pas mort !
+
+--- À quelle heure est−il mort ? reprit−il.
+
+--- À six heures du matin, répondit Simoneau.
+
+Une furieuse révolte montait en moi, dans les liens terribles qui me liaient. Oh ! Ne pouvoir parler ne pouvoir remuer un membre !
+
+Le médecin ajouta :
+
+--- Ce temps lourd est mauvais\... Rien n\'est fatigant comme ces premières journées de printemps.
+
+Et il s\'éloigna. C\'était ma vie qui s\'en allait. Des cris, des larmes, des injures m\'étouffaient, déchiraient ma gorge convulsée, où ne passait plus un souffle. Ah ! Le misérable, dont l\'habitude professionnelle avait fait une machine, et qui venait au lit des morts avec l\'idée d\'une simple formalité à remplir ! Il ne savait donc rien, cet homme ! Toute sa science était ajonc menteuse, puisqu\'il ne pouvait d\'un coup d\'oeil distinguer la vie de la mort ! Et il s\'en allait, et il s\'en allait !
+
+--- Bonsoir ; monsieur, dit Simoneau.
+
+Il y eut un silence. Le médecin devait s\'incliner devant Marguerite, qui était revenue, pendant que Mme Gabin fermait la fenêtre. Puis, il sortit de la chambre, j\'entendis ses pas qui descendaient l\'escalier.
+
+Allons, c\'était fini, j\'étais condamné. Mon dernier espoir disparaissait avec cet homme. Si je ne m\'éveillais pas avant le lendemain onze heures, on m\'enterrait vivant. Et cette pensée était si effroyable, que je perdis conscience de ce qui m\'entourait. Ce fut comme un évanouissement dans la mort elle−même. Le dernier bruit qui me frappa fut le petit bruit des ciseaux de Mme Gabin et de Dédé. La veillée funèbre commençait.
+
+Personne ne parlait plus. Marguerite avait refusé de dormir dans la chambre de la voisine. Elle était là, couchée à demi au fond du fauteuil, avec son beau visage pâle, ses yeux clos dont les cils restaient trempés de larmes ; tandis que, silencieux dans l\'ombre, assis devant elle, Simoneau la regardait.

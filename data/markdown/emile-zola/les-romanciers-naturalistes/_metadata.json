@@ -1,0 +1,140 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES ROMANCIERS NATURALISTES",
+  "slug": "les-romanciers-naturalistes",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1654,
+      "spine_end_exclusive": 1655,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_355.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 1655,
+      "spine_end_exclusive": 1656,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_356.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Balzac",
+      "slug": "balzac",
+      "spine_start": 1656,
+      "spine_end_exclusive": 1667,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_357.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_358.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_359.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_360.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_361.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_362.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_363.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_364.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_365.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_366.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_367.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Stendhal",
+      "slug": "stendhal",
+      "spine_start": 1667,
+      "spine_end_exclusive": 1674,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_368.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_369.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_370.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_371.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_372.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_373.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_374.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Gustave Flaubert",
+      "slug": "gustave-flaubert",
+      "spine_start": 1674,
+      "spine_end_exclusive": 1689,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_375.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_376.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_377.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_378.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_379.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_380.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_381.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_382.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_383.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_384.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_385.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_386.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_387.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_388.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_389.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Edmond et Jules Goncourt",
+      "slug": "edmond-et-jules-goncourt",
+      "spine_start": 1689,
+      "spine_end_exclusive": 1696,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_390.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_391.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_392.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_393.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_394.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_395.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_396.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alphonse Daudet",
+      "slug": "alphonse-daudet",
+      "spine_start": 1696,
+      "spine_end_exclusive": 1712,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_397.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_398.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_399.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_400.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_401.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_402.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_403.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_404.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_405.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_406.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_407.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_408.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_409.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_410.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_411.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_412.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image059.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image060.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image061.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image062.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image063.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image064.jpg",
+    "images/emile-zola/les-romanciers-naturalistes/Zola5_image065.jpg"
+  ]
+}

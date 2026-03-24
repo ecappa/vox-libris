@@ -1,0 +1,96 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LA CONFESSION DE CLAUDE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778678 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778340 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778002 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777664 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777326 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776650 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776312 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775974 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775636 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775298 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774960 .pcalibre .calibre3 .pcalibre1}[XI]{#_Toc368774622 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_101 .calibre25}
+
+[J'ai cru manquer d'habileté et de prudence. Je me suis hâté, j'ai passé outre, sans demander à Laurence si elle me comprenait. Moi, qui ignore la vie, comment puis-je en enseigner la science ? Que saurais-je mettre en oeuvre, si ce n'est des systèmes, des règles de conduite rêvées à seize ans, belles en théorie, absurdes en pratique ? Me suffit-il d'aimer le bien, de tendre vers un idéal de vertu, vagues aspirations dont le but lui-même est indéterminé ? Lorsque la réalité est là, je sais combien ces désirs se formulent peu, combien je suis impuissant dans la lutte qu'elle m'offre. Je ne saurai l'étreindre ni la vaincre, ignorant de quelle façon la saisir et ne pouvant même m'avouer quelle victoire je demande. Une voix crie en moi que je ne veux pas de la vérité ; je ne désire point la changer, la rendre bonne de mauvaise qu'elle me paraît. Que le monde qui existe, demeure ; j'ose vouloir créer une nouvelle terre sans me servir des débris de l'ancienne. Alors, n'ayant plus de base, l'échafaudage de mes songes croule au moindre heurt. Je ne suis plus qu'un inutile penseur, amant platonique du bien que bercent de vaines rêveries et dont la puissance s'évanouit dès qu'il touche la terre.]{.calibre11}
+
+[Frères, il me serait plus facile de donner des ailes à Laurence que de lui donner un coeur de femme.]{.calibre11}
+
+[Nous sommes de grands enfants. Nous ne savons que faire de cette sublime réalité qui nous vient de Dieu et que nous gâtons à plaisir par nos rêves. Nous sommes si maladroits à vivre que la vie en devient mauvaise. Sachons vivre, le mal disparaîtra. Si je possédais le grand art du réel, si j'avais conscience d'un paradis humain, si je pouvais distinguer la chimère du possible, je parlerais, Laurence m'entendrait. Je saurais que reprendre en elle et que lui proposer en exemple. Science délicate qui me ferait pénétrer les causes de sa chute et trouver un remède à chaque plaie de son coeur. Mais que faire, lorsque mon ignorance dresse une barrière entre elle et moi ? Je suis le rêve, elle est la réalité. Nous marcherons côte à côte sans jamais nous rencontrer, et, notre course finie, elle ne m'aura pas entendu, je ne l'aurai pas comprise.]{.calibre11}
+
+[J'ai pensé devoir revenir sur mes pas pour prendre Laurence telle qu'elle est et lui faire parcourir la route que ses pieds humains lui permettent. J'ai voulu étudier la vie avec elle, descendre pour tâcher de remonter ensemble. Puisqu'il me fallait tâtonner dans ce rude labeur, c'est du dernier degré que j'ai désiré partir.]{.calibre11}
+
+[Ne serait-ce pas une assez grande récompense si je l'amenais à me donner tout l'amour dont elle est capable ? Frères, je crains bien que nos rêves ne soient pas seulement des mensonges ; je les sens petits et puérils en face d'une réalité dont j'ai vaguement conscience. Il est des jours où plus loin que les rayons et les parfums, plus loin que ces visions indécises que je ne puis posséder, j'entrevois les contours hardis de ce qui est. Et je comprends que là est la vie, l'action, la vérité, tandis que, dans le milieu que je me crée, s'agite un peuple étranger à l'homme, ombres vaines dont les yeux ne me voient pas, dont les lèvres ne sauraient me parler. L'enfant peut se plaire à ces amis froids et muets ; ayant peur de la vie, il se réfugie dans ce qui ne vit pas. Mais nous, hommes, nous ne devons point nous contenter de cet éternel néant. Nos bras sont faits pour étreindre.]{.calibre11}
+
+[Hier, comme j'étais sorti avec Laurence, nous avons rencontré une troupe de gens masqués, entassés dans une voiture et se rendant au bal, ivres, échevelés, à grand tapage. Voici janvier, le mois terrible. La pauvre fille s'est émue aux cris de ses frères. Elle leur a souri et s'est tournée pour les voir plus longtemps. C'était sa gaieté de la veille qui passait, ses insouciances, sa vie folle et si âcre qu'on ne peut en oublier les cuisantes joies. Elle est rentrée plus triste et s'est couchée, malade de silence et de solitude.]{.calibre11}
+
+[Ce matin, j'ai vendu quelques hardes, je suis allé louer un costume pour Laurence, je lui ai annoncé que nous irions au bal le soir même. Elle m'a sauté au cou, puis elle s'est emparée du costume et m'a oublié. Elle a contemplé chaque ruban, chaque paillette ; impatiente de se parer, elle a jeté sur ses épaules ces lambeaux de satin, s'enivrant du frémissement de l'étoffe. Parfois elle se tournait, me remerciant d'un sourire. J'ai compris qu'elle ne m'avait jamais tant aimé, et j'ai failli lui arracher des mains ces chiffons qui me valaient l'estime que toute ma bonté n'avait pu m'attirer.]{.calibre11}
+
+[Enfin, je me faisais entendre. Je cessais d'être pour elle un être inconnu, effrayant d'austérité et d'ennui. J'allais au bal comme les autres amants ; comme eux, je louais des costumes, j'égayais mes maîtresses. J'étais un charmant garçon, aimant ainsi que tout le monde les épaules nues, les cris et les jurons. Ah ! Quelle joie ! Ma sagesse mentait.]{.calibre11}
+
+[Laurence s'est sentie en pays de connaissance ; elle n'a plus eu peur, elle a repris sa liberté d'allures, éclaté de rire à pleine bouche. Ses paroles grossières, ses gestes libres la pénétraient de bien-être. Elle était à l'aise dans sa nudité.]{.calibre11}
+
+[Je l'avais voulu, mais j'avais espéré qu'un mois de tranquillité, sans faire d'elle une honnête fille, l'aurait amenée à oublier un peu la fille d'hier. J'avais cru que, lorsque tomberait le masque, la face qui se montrerait alors aurait moins d'affaissement dans les lèvres et plus de rougeur au front. Non, j'avais devant moi les mêmes traits flétris, le même rire épais et bruyant. Telle cette femme était entrée dans ma mansarde, vendant son corps pour un abri, telle je la retrouvais, après avoir pendant un mois protesté chaque jour contre l'infamie de ce marché. Elle n'avait rien appris, rien oublié ; et, si ses regards brillaient d'une expression nouvelle, c'était de la misérable joie de voir que je semblais enfin accepter son corps en paiement. Devant cet étrange résultat, je me suis demandé si ce n'était pas raillerie que de tenter de nouveau. J'avais voulu une Laurence réelle, et cette Laurence, où courait un souffle de vie, m'effrayait davantage peut-être que la morne créature de la veille. Mais la lutte promettait d'être si âpre que j'entendais, tout au fond de moi, mon audace de vingt ans se révolter de ma répugnance et de mon effroi.]{.calibre11}
+
+[Comme sonnaient six heures, bien que le bal ne s'ouvrît qu'à minuit, Laurence s'est mise à sa toilette. La chambre n'a bientôt plus été que désordre ; l'eau, rejaillissant de la cuvette et s'égouttant des linges mouillés, inondait le carreau ; la mousse du savon, tombée des mains, s'élargissait sur le sol en plaques blanchâtres ; le peigne était à terre, près de la brosse, et les vêtements, oubliés sur les chaises, sur la cheminée, dans les coins, trempaient au milieu des flaques. Laurence, pour être plus à l'aise, s'était accroupie. Elle s'est lavée énergiquement, se jetant à pleines mains l'eau à la face et aux épaules. Le savon, souillé de poussière, lui laissait, malgré ce déluge, de larges taches sur la peau. Alors elle s'est désespérée et m'a appelé à son secours. Son dos était tout noir, disait-elle ; elle ne pouvait y atteindre.]{.calibre11}
+
+[Puis, elle s'est levée, grelottante, les épaules rouges, et m'a donné la serviette.]{.calibre11}
+
+[La clef était restée sur la porte. Comme je posais le linge glacé sur la nuque de Laurence, Pâquerette est entrée. Cette vieille femme vient ainsi parfois, en quête de quelques tisons, et la pitié m'empêche de la chasser de dégoût.]{.calibre11}
+
+[--- Ah ! Ma bonne, lui a crié ma compagne, viens donc m'aider un peu. Claude a peur de me faire mal.]{.calibre11}
+
+[Pâquerette a pris le linge, et s'est mise à frotter de toute la force de ses bras maigres. Elle ne paraissait pas étonnée de ce désordre ni de cette femme nue. Elle promenait complaisamment ses mains roidies sur ces épaules fraîches encore, enviant leur blancheur, songeant aux plaisirs d'autrefois. Laurence, la tête tournée à demi, lui souriait et frémissait par secousses, haletante, au contact subit d'une eau plus froide.]{.calibre11}
+
+[--- Où vas-tu donc, ma fille ? A demandé l'horrible petite vieille.]{.calibre11}
+
+[--- Claude me conduit au bal.]{.calibre11}
+
+[--- Ah ! C'est bien, cela, monsieur, a repris Pâquerette, s'arrêtant et se retournant vers moi.]{.calibre11}
+
+[Puis, prenant un linge sec, elle a continué, tout en essuyant Laurence avec amour :]{.calibre11}
+
+[--- Je songeais ce matin que vous deviez mourir de tristesse à rester ainsi toujours enfermés dans cette chambre. C'est une bonne enfant que vous avez là, monsieur. J'en sais plus d'une qui vous aurait quitté vingt fois. Là, ma fille, te voilà belle ; tu auras bien des galants, cette nuit. Êtes-vous jaloux ?]{.calibre11}
+
+[Je n'ai pu répondre. Je souriais machinalement, suivant du regard cette scène étrange. Une même pensée qui revenait sans cesse à mon esprit, m'empêchait d'entendre. C'était celle d'une vieille gravure que j'avais vue je ne savais où, représentant Vénus à sa toilette, baignée par des nymphes, caressée par de petits Amours. La déesse s'abandonne aux bras de ses femmes, jeunes et belles comme elle : l'écume des vagues voile seule leur voluptueuse nudité ; et, sur la rive, un vieux faune, devant tant de jeunesse et de fraîcheur, oublie ses désirs dans une muette admiration.]{.calibre11}
+
+[--- Il est jaloux, il est jaloux, a répété Pâquerette avec un rire aigu, coupé de hoquets. Tant mieux pour toi, ma fille, il te fera plus de cadeaux, et tu le tromperas plus aisément. J'ai eu jadis un amant qui vous ressemblait fort, monsieur : un peu plus petit, je crois, mais les mêmes yeux, la même bouche, jusqu'aux cheveux qu'il portait, ainsi que vous, rejetés en arrière. Il m'adorait, m'accablait de caresses, me suivait partout, ce qui fit que je le quittai au bout de huit jours.]{.calibre11}
+
+[Tandis qu'elle bavardait, Laurence s'était couverte. Elle s'est peignée, debout devant la glace, sérieuse et recueillie. La vieille, droite auprès d'elle, a cessé de parler, contemplant avec dévotion les paquets de fard et les fioles d'huile aromatique, parfumerie grossière achetée à bas prix aux étalages en plein vent. Ces femmes m'oubliant, je me suis assis dans un coin.]{.calibre11}
+
+[La glace me renvoyait leurs images ; ces deux faces, malgré les rides de l'une et la fraîcheur relative de l'autre, me semblaient soeurs, dans leur commune expression d'avilissement. Mêmes regards troublés par les nuits ardentes, mêmes lèvres déformées sous de brutales caresses. À peine lisait-on sur leurs joues flétries le nombre d'année qui séparaient leur âge. Toutes deux étaient également vieilles de débauche. Un instant, je me suis cru l'amant de Pâquerette, et j'ai fermé les yeux.]{.calibre11}
+
+[Elles m'oubliaient. Par moments, elles échangeaient une parole à demi-voix. Laurence jurait, frappant du pied, lorsque quelques cheveux rebelles refusaient de se boucler. Alors la petite vieille parlait de ses blondes tresses d'autrefois ; elle décrivait la coiffure des filles de son temps, et, pour se mieux faire entendre, disposait à son tour ses cheveux gris devant le miroir. Puis, c'étaient de longues louanges sur la jeunesse de ma compagne, des doléances sans fin sur les ennuis du vieil âge. Les rides étaient venues avant la lassitude du corps ; de là, le grand regret de n'avoir pas épuisé la vie à vingt ans. Aujourd'hui, il fallait vivre sans se hâter, dans le silence et l'ombre, ayant au coeur une admiration jalouse pour celles qui pouvaient encore vieillir.]{.calibre11}
+
+[Laurence écoutait, répondant par des questions, demandant si telle boucle lui seyait, quêtant de nouveaux éloges. Puis, lorsque les cheveux, longtemps travaillés, se sont trouvés épaissis à souhait, il s'est agi de peindre la face. Alors Pâquerette a voulu mettre la main au chef-d'oeuvre Elle a pris du rouge et du bleu sur de petits tampons de ouate et les a légèrement promenés le long des joues, autour des yeux de la jeune femme. Elle a agrandi les paupières, purifié le front, donné la santé aux lèvres. Et, comme nous, pauvres rêveurs qui plâtrons la réalité de couleurs discordantes et qui crions ensuite à la création, elle s'est émerveillée de son ouvrage, sans voir que, par instants, sa main tremblante brouillait les traits, exagérait la pourpre de la bouche et la grandeur des paupières. Sous ses doigts, ce visage a changé horriblement pour moi. Il a pris, par endroits, des teintes mates et terreuses, tandis que d'autres parties luisaient, frottées d'onguent mis pour fixer le fard. La peau tendue et irritée grimaçait ; la face entière, à la fois vermeille et flétrie, avait le sourire niais des poupées de carton. Les tons en étaient si criards et si faux qu'ils blessaient la vue.]{.calibre11}
+
+[Laurence, droite et immobile, le regard demi-tourné vers le miroir, s'est laissé complaisamment rajeunir. Elle effaçait de l'ongle les traits trop accusés. Sérieuse, se penchant, elle étudiait quelques secondes chacune des beautés que Pâquerette lui donnait.]{.calibre11}
+
+[L'oeuvre terminée, celle-ci s'est reculée de quelques pas pour mieux juger. Puis, satisfaite, elle s'est écriée :]{.calibre11}
+
+[--- Ah ! Ma fille, tu n'as plus que quinze ans.]{.calibre11}
+
+[Laurence lui a souri. Toutes deux étaient de bonne foi ; elles admiraient franchement, ne doutant point du miracle opéré. Alors elles se sont souvenues de moi. La jeune femme, fière de ses quinze ans, est venue m'embrasser, voulant me donner la virginité de sa jeunesse d'une nuit. Ses épaules découvertes avaient cette odeur fraîche et fade d'une personne qui sort du bain. Au contact de ses lèvres, froides, humides de fard, j'ai frissonné de dégoût.]{.calibre11}
+
+[--- Songe à moi, ma fille, a dit Pâquerette en se retirant. Les vieilles femmes aiment les sucreries.]{.calibre11}
+
+[Restés seuls, nous avons dû attendre deux grandes heures. Je n'ai pas souvenance d'un ennui aussi profond. Cette attente d'un plaisir qui me répugnait avait je ne sais quoi de douloureux, et les impatiences de Laurence retardaient encore pour moi la marche lente des minutes.]{.calibre11}
+
+[Elle s'était assise sur le lit, dans son costume de satin rose pailleté d'or ; ce clinquant jurait le plus étrangement du monde, se détachant sur le papier enfumé de la chambre. La lampe se mourait, le silence n'était interrompu que par le bruit de la pluie frappant les vitres. Frères, j'ignore si j'ai tout au fond de moi quelque sentiment honteux. Je veux le dire à vous qui devez connaître mon être entier : en face de cette femme, abandonné de mes chères pensées de chaque jour, je me suis pris à souhaiter Laurence jeune et belle ; j'ai désiré pouvoir changer cette mansarde en mystérieuse retraite, disposée pour ce que la volupté a de plus âpre. Et alors, j'aurais contenté les rêves de mes mauvaises heures. Ce qui me répugnait, ce n'était plus le vice, mais la laideur et la misère.]{.calibre11}
+
+[Enfin, je suis allé chercher une voiture et nous sommes partis. Malgré l'heure avancée, les rues étaient encore pleines de bruits et de lumières. Il y avait des éclats de rire au coin de chaque borne, des groupes d'ivrognes et de filles dans chaque cabaret. Rien n'était plus odieux à voir que ce peuple courant dans la boue, se coudoyant aux refrains de chansons obscènes. Laurence, penchée à la portière, riait en bonne fille de cette joie grossière ; elle interpellait les passants, cherchant l'injure, heureuse de pouvoir engager cette guerre de gros mots que se font les masques entre eux. Comme je restais muet :]{.calibre11}
+
+[--- Eh bien ! Que fais-tu là ? M'a-t-elle dit. Est-ce pour dormir que tu me conduis au bal ?]{.calibre11}
+
+[Je me suis penché à mon tour, j'ai cherché quelqu'un à insulter. J'aurais volontiers levé le poing sur une de ces brutes qu'amusait un pareil spectacle. En face de moi, sur le trottoir, se tenait un grand jeune homme débraillé ; un cercle de rieurs l'entourait, applaudissant à chacun de ses jurons. J'étais exaspéré. Je l'ai menacé du geste, je lui ai jeté au passage ce que j'ai pu trouver de plus offensant.]{.calibre11}
+
+[--- Et ta femme ! A-t-il crié, mets-la donc un peu par terre, qu'on puisse y toucher !]{.calibre11}
+
+[La tranquille grossièreté de cet homme a changé ma colère en une inexprimable tristesse. J'ai haussé la glace et j'ai appuyé mon front contre cette vitre humide, laissant Laurence à son triste plaisir. J'étais comme bercé par les cris de la foule et par le roulement sourd de la voiture ; je voyais, de cette vue indécise du rêve, les passants fuir derrière moi, ombres bizarres qui grandissaient et s'évanouissaient sans présenter aucun sens à mon esprit. Et, dans ce bruit, dans cette brusque succession d'ombres et de clartés, je me souviens d'avoir tout oublié, un instant, à regarder, entre les pavés, les flaques d'eau et de boue, où les lampes des boutiques jetaient de rapides reflets.]{.calibre11}
+
+[C'est ainsi que nous sommes arrivés à la salle de bal.]{.calibre11}
+
+[À demain, frères. Je ne puis tout dire en un jour.]{.calibre11}

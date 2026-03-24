@@ -1,0 +1,37 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "CHANSONS"
+slug_oeuvre: "chansons"
+section: "Chapitre 09"
+slug_section: "chapitre-09"
+type: "chapitre"
+---
+
+]
+
+CHANSONS
+
+Table des chansons
+
+]
+
+## La douce attente
+Je guette ma belle amante
+Au nocturne rendez-vous ;
+Je suis dans la douce attente !
+La lune amoureuse argente
+Le gazon flexible et doux ;
+Je guette ma belle amante !
+J'aime sa grâce innocente
+Et mon coeur en est jaloux !
+Je suis dans la douce attente !
+Des arbres, toute indolente,
+L'ombre glisse à point pour nous ;
+Je guette ma belle amante !
+Au bosquet où l'oiseau chante
+Il n'est besoin de verrous.
+Je suis dans la douce attente!
+Mais elle accourt frémissante
+Et je tombe à ses genoux...
+J'aime tant ma belle amante!

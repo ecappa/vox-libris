@@ -1,0 +1,172 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LE VOEU D'UNE MORTE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778565 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778227 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777889 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777551 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777213 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776537 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776199 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775861 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775523 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775185 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774847 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368774509 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_54 .calibre25}
+
+[Le lendemain, Georges présentait Daniel à une sorte d'auteur-éditeur pour lequel il travaillait, et le faisait admettre comme collaborateur à un dictionnaire encyclopédique qui occupait une trentaine de jeunes gens. On était là, pour ainsi dire, à titre de commis ; on compilait, on collationnait pendant dix heures et on touchait quatre-vingts à cent francs par mois, selon les mérites. Le patron se promenait dans le bureau, du pas d'un maître d'étude qui surveille des élèves ; il ne lisait même pas les manuscrits, et il signait le tout. Ce métier de garde-chiourme lui rapportait environ vingt mille francs par an.]{.calibre11}
+
+[Daniel accepta avec joie et reconnaissance le labeur de brute qu'on lui offrait. Georges, qui lui avait avancé quelque argent, toutes ses économies, lui ouvrit un crédit chez la fruitière et lui loua, dans la maison de l'impasse Saint-Dominique-d'Enfer, une chambre voisine de la sienne.]{.calibre11}
+
+[Pendant les premiers quinze jours, Daniel fut comme écrasé par la vie nouvelle qu'il menait. Il n'était pas accoutumé à un pareil travail ; le soir, il avait la tête pleine de ce qu'il avait fait dans la journée. Il ne pensait presque plus pour son propre compte.]{.calibre11}
+
+[Un dimanche matin, comme il avait tout un jour de liberté devant lui, il fut pris du désir ardent de revoir Jeanne.]{.calibre11}
+
+[La nuit, il avait rêvé de la pauvre morte, et tout son enthousiasme lui était revenu.]{.calibre11}
+
+[Il sortit furtivement, sans prévenir Georges, et se dirigea vers le boulevard des Invalides.]{.calibre11}
+
+[Gaiement, il fit le chemin. Ses membres s'étaient raidis pendant les quinze jours qu'il venait de passer, assis sur une chaise, feuilletant de vieux livres ; il lui semblait qu'il se trouvait en congé, comme un écolier qui doit, le lendemain, retourner à son collège.]{.calibre11}
+
+[Il ne songeait guère, il se disait qu'il allait voir Jeanne, et il jouissait en enfant de l'air et de la marche. De l'impasse Saint-Dominique-d'Enfer au boulevard des Invalides, tout lui parut joyeux : pas la moindre tristesse, pas la plus mince inquiétude.]{.calibre11}
+
+[Quand il fut devant la grille de l'hôtel, une peur subite le prit. Il se demanda ce qu'il ferait là, ce qu'il dirait et ce qu'on lui répondrait. Il eut une défaillance. Ce qui l'embarrassait surtout, c'était d'expliquer sa visite.]{.calibre11}
+
+[Mais il ne voulut pas réfléchir, car il sentait le courage lui échapper, et il sonna bravement, tout frémissant au fond de lui.]{.calibre11}
+
+[La porte s'ouvrit, il traversa le jardin, et, comprenant que jamais il n'avait été plus gauche, il s'arrêta sur la première marche du perron. Quand il eut repris haleine, il se hasarda à lever les yeux.]{.calibre11}
+
+[On entendait dans l'hôtel un bruit violent de marteaux ; des menuisiers réparaient les portes dans le vestibule ; et il y avait des peintres, accrochés le long de la façade, qui grattaient les murs.]{.calibre11}
+
+[Daniel, étonné, peut-être même un peu satisfait, s'approcha d'un ouvrier et lui demanda où était M. De Rionne. L'ouvrier le renvoya au concierge, qui lui apprit que M. De Rionne venait de vendre l'hôtel et qu'il habitait maintenant rue de Provence.]{.calibre11}
+
+[Le lendemain de la mort de sa femme, le veuf s'était mis à exécrer ce logis, qui restait plein de sanglots. Les senteurs de l'enterrement traînaient encore dans les chambres, et il frissonnait lorsqu'il descendait l'escalier, croyant toujours entendre le bruit de la bière heurtant les marches. Il résolut de changer de demeure au plus vite.]{.calibre11}
+
+[Puis, il songea que la vente de l'hôtel lui mettrait entre les mains une somme assez ronde. D'autre part, il n'était pas fâché de quitter le boulevard des Invalides et d'aller se loger en plein quartier élégant. Quand il pourrait reprendre sa vie de garçon, le vice y serait à portée de sa main. Il loua tout un premier étage et déménagea.]{.calibre11}
+
+[Daniel prit la nouvelle adresse, et poussé par son désir de voir Jeanne à tout prix, il se dirigea vers la rue de Provence. Mais, pendant cette longue course, son coeur ne chantait plus si gaiement. Les difficultés de sa tâche, l'incertitude de la vie se présentaient à lui plus menaçantes que jamais. Une averse l'obligea à se mettre sous une porte, il lui fallut marcher dans la boue, et, quand il monta l'escalier somptueux de la maison où habitait M. De Rionne, il remarqua avec terreur qu'il était horriblement crotté.]{.calibre11}
+
+[Ce fut Louis qui lui ouvrit. Sa face froide n'exprima pas la moindre surprise ; on eût dit qu'il ne reconnaissait pas le jeune homme ; mais il y avait, dans les coins de ses lèvres, cet imperceptible sourire qui ne le quittait point.]{.calibre11}
+
+[Il dit poliment à Daniel que Monsieur n'était pas là, mais qu'il ne tarderait pas à rentrer, et il l'introduisit dans un magnifique salon, où il le laissa seul.]{.calibre11}
+
+[Daniel n'osa pas s'asseoir. Ses pieds faisaient sur le tapis de larges taches, et il restait planté sur les jambes, redoutant d'avancer d'un pas, car le coeur lui manquait à chaque nouvelle trace qu'il laissait de son passage. En levant les yeux, il vint à se voir en pied dans une grande glace : rien ne lui parut plus étrange que sa personne, et cela le mit presque en gaieté.]{.calibre11}
+
+[Au fond, il était enchanté de la tournure que prenaient les choses. Il ne tenait pas du tout à voir M. De Rionne, et il espérait qu'il allait pouvoir embrasser Jeanne, puis se retirer bien vite avant que le père rentrât. Il se penchait, il écoutait avec anxiété.]{.calibre11}
+
+[S'il avait surpris les rires de l'enfant, il aurait pénétré tranquillement jusqu'à elle.]{.calibre11}
+
+[Tandis qu'il prêtait ainsi l'oreille, le timbre sonna, et il entendit dans l'antichambre le bruit d'une robe de soie. Il y eut un rire de femme, la nouvelle venue se mit à causer à demi-voix avec Louis. Les paroles n'arrivaient pas jusqu'au jeune homme.]{.calibre11}
+
+[Au bout d'un instant, la robe de soie fit entendre de nouveau son murmure léger, la porte du salon s'ouvrit, et une jeune femme parut sur le seuil.]{.calibre11}
+
+[C'était Julia.]{.calibre11}
+
+[Elle était adorablement vêtue de gris clair, avec des dentelles blanches et des rubans bleu pâle. Sa petite tête, fine et hardie, souriait dans ses cheveux blonds. Le blanc et le rose dont elle s'était plaqué les joues donnaient à son visage un charme pervers. Elle portait, en façon de chapeau, une tresse de paille dans laquelle étaient piqués des bleuets.]{.calibre11}
+
+[Julia se trouvait dans la peine. On allait lui vendre ses meubles, et elle avait songé à M. De Rionne, qu'elle ne voyait plus depuis quinze jours. Poussée par la nécessité, elle courait après lui, ce dont elle enrageait.]{.calibre11}
+
+[Elle s'avança, et, lorsqu'elle fut au milieu du salon, en face de Daniel, l'effort qu'elle fit pour retenir l'éclat de rire qui lui montait à la gorge faillit l'étouffer.]{.calibre11}
+
+[Ce grand garçon, à la figure longue, aux cheveux jaunes, qui se tenait là, les jambes écartées, tout ahuri, lui parut être le dernier mot du ridicule et de l'étrange. Elle suffoquait de gaieté.]{.calibre11}
+
+[Elle se hâta de gagner une pièce voisine, où Daniel l'entendit rire comme une folle. Mais un nouveau bruit de voix s'éleva.]{.calibre11}
+
+[Cette fois, c'était M. De Rionne qui rentrait. Il échangeait quelques mots avec Louis, et, soudain, il parut s'irriter. Il ouvrit violemment la porte du salon.]{.calibre11}
+
+[Daniel se faisait tout petit en se posant la terrible question : qu'allait-il dire, qu'allait-on répondre ? Il s'était réfugié dans un coin, il attendait avec angoisse.]{.calibre11}
+
+[M. De Rionne ne le vit même pas. Il traversa brusquement le salon, entra dans la pièce voisine, où se trouvait Julia. En ce moment, il était vraiment indigné de l'audace de cette fille. Le cadavre de sa femme était encore là, et son épouvante lui faisait une vertu.]{.calibre11}
+
+[Daniel, sans écouter, entendit ces paroles prononcées à voix haute :]{.calibre11}
+
+[« Que voulez-vous ? demanda M. De Rionne avec colère.]{.calibre11}
+
+[--- Je viens vous voir, répondit paisiblement Julia.]{.calibre11}
+
+[--- Je vous ai défendu de venir chez moi. Vous devriez y venir moins que jamais, dans le deuil où je me trouve.]{.calibre11}
+
+[--- Voulez-vous que je m'en aille ? »]{.calibre11}
+
+[M. De Rionne ne parut pas entendre. Il éleva la voix davantage.]{.calibre11}
+
+[« Votre présence est déplacée ici. Je vous croyais plus de coeur et plus de bon sens.]{.calibre11}
+
+[--- Alors, je m'en vais. »]{.calibre11}
+
+[Et elle se mit à rire, prête à se retirer, donnant de petites tapes sur sa jupe.]{.calibre11}
+
+[M. De Rionne s'emporta. Il répétait sous toutes les formes qu'elle n'aurait pas dû se montrer chez lui, tandis qu'elle offrait toujours de s'en aller, et il ne finissait pas, et elle ne s'en allait pas.]{.calibre11}
+
+[Puis, le bruit des voix se calma. Les phrases devinrent plus longues et plus douces. Bientôt, ce ne fut plus qu'un murmure. Daniel finit par entendre le frisson d'un baiser.]{.calibre11}
+
+[Il ne voulut pas rester davantage. Il retourna dans l'antichambre où il trouva Louis, qui lui dit sans rire, avec dignité :]{.calibre11}
+
+[« Je crois que Monsieur ne vous recevra pas aujourd'hui. »]{.calibre11}
+
+[Daniel avait déjà ouvert la porte.]{.calibre11}
+
+[« Mlle Jeanne n'est pas ici, au moins ? » demanda-t-il.]{.calibre11}
+
+[Louis fut tellement surpris de cette question, qu'il faillit perdre son calme superbe.]{.calibre11}
+
+[« Non, non, elle est chez sa tante, Mme Tellier. »]{.calibre11}
+
+[Et, comme Daniel demandait l'adresse de cette dame, il la lui donna. Elle demeurait rue d'Amsterdam.]{.calibre11}
+
+[M. De Rionne avait compris qu'il ne pouvait garder sa fille près de lui. D'ailleurs, il n'était pas fâché de se débarrasser d'un témoin qui l'aurait gêné plus tard. Il l'avait donc confiée à sa soeur, au hasard, sans s'inquiéter de l'avenir. « Elle sera mieux chez toi » avait-il dit à Mme Tellier : une femme est nécessaire à l'éducation d'une fille. Si j'avais eu un garçon, je l'aurais gardé. Et il mentait, car il souhaitait ardemment une liberté entière.]{.calibre11}
+
+[Daniel s'en alla, en répétant tout bas l'adresse qu'on venait de lui indiquer. Il se mourait de faim et de fatigue ; mais il ne voulut pas s'arrêter un instant et il courut rue d'Amsterdam.]{.calibre11}
+
+[L'averse avait nettoyé le ciel, il faisait un soleil clair, et les pavés étaient déjà secs. Le jeune homme frotta le bas de son pantalon et effaça du coude les gouttes de pluie marquées sur son chapeau.]{.calibre11}
+
+[La demeure de Mme Tellier était une de ces grandes maisons neuves, avec leurs larges façades plates, ornées de maigres sculptures. La porte cochère s'ouvrait, haute et étroite, sur une cour où il y avait tout juste la place d'une corbeille de verdure et de fleurs.]{.calibre11}
+
+[Daniel s'engagea résolument sous la porte cochère. Comme il s'y trouvait il faillit être écrasé par une calèche qui sortit brusquement et qui passa à grand tapage. Il n'eut que le temps de se réfugier sur le mince trottoir intérieur.]{.calibre11}
+
+[Dans la calèche, il aperçut une dame de vingt-cinq à trente ans qui le regarda avec une indifférence dédaigneuse. Elle était merveilleusement mise, d'une façon très compliquée et très riche. Elle ressemblait à Julia, ou du moins tâchait de lui ressembler par son allure et ses chiffons.]{.calibre11}
+
+[Daniel s'adressa à une femme de chambre qui était restée sur le perron, regardant la voiture s'éloigner. Il lui demanda Mme Tellier.]{.calibre11}
+
+[« Elle sort, répondit-elle, vous venez de la voir. »]{.calibre11}
+
+[Daniel demeura fort embarrassé. « Ainsi, pensait-il, cette dame, si étrangement vêtue, est la nouvelle mère de Jeanne ! » Et, à cette pensée, il éprouva comme une sourde peur.]{.calibre11}
+
+[La soeur de M. De Rionne, à seize ans, avait été une jeune ambitieuse, très positive, cherchant à tirer de la vie le meilleur parti possible pour sa jouissance. Elle s'était posé la question du mariage comme un problème d'arithmétique, et elle avait résolu ce problème avec toute l'exactitude d'un mathématicien.]{.calibre11}
+
+[D'une intelligence nette, elle voyait très clair dans ses intérêts. Le monde moral lui était fermé, et son coeur ne l'embarrassait guère. Très bornée lorsqu'il s'agissait de passion et de sentiment, elle se montrait fort intelligente dès qu'il lui fallait disposer de son corps et de sa fortune.]{.calibre11}
+
+[Aussi avait-elle pris en exécration la noblesse, la classe dans laquelle elle était née. Elle disait que, parmi ces gens-là, les maris mangent d'ordinaire l'argent, et que les femmes n'ont bientôt plus vingt pauvres robes à se mettre.]{.calibre11}
+
+[Elle regardait le ménage de son frère avec une condescendance pleine de pitié, et elle pensait que cette pauvre Blanche avait été une sotte en épousant un homme qui prenait tout le plaisir pour lui.]{.calibre11}
+
+[Elle s'était carrément mariée avec un industriel, comprenant qu'un tel homme travaillerait pour elle et qu'elle serait seule à puiser dans les sacs. Et elle y puisait à pleines mains, sachant qu'ils étaient inépuisables. Son calcul se trouva juste en tous points. M. Tellier garda ses habitudes de parvenu, il augmenta la richesse commune sans y toucher jamais. Sa femme, dans ses jours de belle humeur, se disait tout bas qu'elle était la de Rionne de la communauté.]{.calibre11}
+
+[Elle avait cependant une inquiétude. L'industriel tournait peu à peu à l'homme politique. Il parlait de la députation. Au fond, elle aurait préféré qu'il se tînt tranquille.]{.calibre11}
+
+[Quant à elle, elle était devenue la reine de la mode, et ce titre lui coûtait fort cher. Elle avait un renom d'extravagance délicieuse ; elle se jetait dans tous les ridicules, et les changeait aussitôt en suprêmes élégances.]{.calibre11}
+
+[Elle nourrissait une haine terrible contre Julia et ses pareilles, car elle se trouvait souvent obligée de les copier ; mais elle avait inventé de les copier en les exagérant, de façon à les devancer et à paraître leur donner le ton. Elle en était arrivée ainsi à la démence en matière de toilette, et toutes les femmes de Paris tâchaient d'être aussi folles qu'elle.]{.calibre11}
+
+[Un jour, aux courses, on l'avait insultée, la prenant pour une fille. Elle s'irrita, pleura, se fit connaître, exigea des excuses.]{.calibre11}
+
+[Au fond, elle était enchantée.]{.calibre11}
+
+[Daniel, à la voir passer, eut une rapide intuition de ces choses, et il se tenait debout devant la femme de chambre, n'osant la questionner.]{.calibre11}
+
+[Mais celle-ci était bonne fille. La voyant sourire :]{.calibre11}
+
+[« Pardon, lui demanda-t-il, Mlle Jeanne de Rionne est-elle là ?]{.calibre11}
+
+[--- Oh non, répondit-elle. Elle était toujours dans les jupes de Madame ; et Madame est bien trop nerveuse pour souffrir un enfant autour d'elle.]{.calibre11}
+
+[--- Et où est-elle, maintenant ?]{.calibre11}
+
+[--- On l'a mise au couvent, il y a huit jours. »]{.calibre11}
+
+[Daniel demeura interdit. Il reprit en hésitant :]{.calibre11}
+
+[« Restera-t-elle longtemps au couvent ?\... Quand reviendra-t-elle ?]{.calibre11}
+
+[--- Ah ! Mais, je ne sais pas, moi, répondit la femme de chambre qui commençait à s'impatienter. Je crois bien que Madame compte l'y laisser une bonne dizaine d'années. »]{.calibre11}

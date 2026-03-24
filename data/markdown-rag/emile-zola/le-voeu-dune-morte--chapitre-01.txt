@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE VOEU D’UNE MORTE"
+slug_oeuvre: "le-voeu-dune-morte"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LE VOEU D'UNE MORTE
+
+Liste des romans
+
+ !
+
+## Préface
+Ce roman de ma jeunesse, publié en 1867, était le seul de tous mes livres qui restait épuisé, et dont je refusais de laisser paraître une nouvelle édition.
+
+Je me décide à le rendre au public, non pour son mérite, certes, mais pour la comparaison intéressante que les curieux de littérature pourront être tentés de faire un jour, entre ces premières pages et celles que j'ai écrites plus tard.
+
+ÉMILE ZOLA.
+
+Médan, le 1er septembre 1889

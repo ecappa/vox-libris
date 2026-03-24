@@ -1,0 +1,418 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE TOUR DU MONDE EN QUATRE-VINGTS JOURS",
+  "slug": "le-tour-du-monde-en-quatre-vingts-jours",
+  "nombre_chapitres": 37,
+  "structure": [
+    {
+      "title": "Chapitre 1– Dans lequel Phileas Fogg et Passepartout s’acceptent réciproquement, l’un comme maître, l’autre comme domestique",
+      "slug": "chapitre-1-dans-lequel-phileas-fogg-et-passepartout-sacceptent-reciproquement-lun-comme-maitre-lautre-comme-domestique",
+      "is_part": false,
+      "spine_start": 509,
+      "spine_end_exclusive": 510,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_229.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Où Passepartout est convaincu qu’il a enfin trouvé son idéal",
+      "slug": "chapitre-2-ou-passepartout-est-convaincu-quil-a-enfin-trouve-son-ideal",
+      "is_part": false,
+      "spine_start": 510,
+      "spine_end_exclusive": 511,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_230.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Où s’engage une conversation qui pourra coûter cher à Phileas Fogg",
+      "slug": "chapitre-3-ou-sengage-une-conversation-qui-pourra-couter-cher-a-phileas-fogg",
+      "is_part": false,
+      "spine_start": 511,
+      "spine_end_exclusive": 512,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_231.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Dans lequel Phileas Fogg stupéfie Passepartout, son domestique",
+      "slug": "chapitre-4-dans-lequel-phileas-fogg-stupefie-passepartout-son-domestique",
+      "is_part": false,
+      "spine_start": 512,
+      "spine_end_exclusive": 513,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_232.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Dans lequel une nouvelle valeur apparaît sur la place de Londres",
+      "slug": "chapitre-5-dans-lequel-une-nouvelle-valeur-apparait-sur-la-place-de-londres",
+      "is_part": false,
+      "spine_start": 513,
+      "spine_end_exclusive": 514,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_233.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Dans lequel l’agent Fix montre une impatience bien légitime",
+      "slug": "chapitre-6-dans-lequel-lagent-fix-montre-une-impatience-bien-legitime",
+      "is_part": false,
+      "spine_start": 514,
+      "spine_end_exclusive": 515,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_234.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Qui témoigne une fois de plus de l’inutilité des passeports en matière de police",
+      "slug": "chapitre-7-qui-temoigne-une-fois-de-plus-de-linutilite-des-passeports-en-matiere-de-police",
+      "is_part": false,
+      "spine_start": 515,
+      "spine_end_exclusive": 516,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_235.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Dans lequel Passepartout parle un peu plus peut-être qu’il ne conviendrait",
+      "slug": "chapitre-8-dans-lequel-passepartout-parle-un-peu-plus-peut-etre-quil-ne-conviendrait",
+      "is_part": false,
+      "spine_start": 516,
+      "spine_end_exclusive": 517,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_236.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Où la mer Rouge et la mer des Indes se montrent propices aux desseins de Phileas Fogg",
+      "slug": "chapitre-9-ou-la-mer-rouge-et-la-mer-des-indes-se-montrent-propices-aux-desseins-de-phileas-fogg",
+      "is_part": false,
+      "spine_start": 517,
+      "spine_end_exclusive": 518,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_237.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Où Passepartout est trop heureux d’en être quitte en perdant sa chaussure",
+      "slug": "chapitre-10-ou-passepartout-est-trop-heureux-den-etre-quitte-en-perdant-sa-chaussure",
+      "is_part": false,
+      "spine_start": 518,
+      "spine_end_exclusive": 519,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_238.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Où Phileas Fogg achète une monture à un prix fabuleux",
+      "slug": "chapitre-11-ou-phileas-fogg-achete-une-monture-a-un-prix-fabuleux",
+      "is_part": false,
+      "spine_start": 519,
+      "spine_end_exclusive": 520,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_239.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Où Phileas Fogg et ses compagnons s’aventurent à travers les forêts de l’Inde, et ce qui s’ensuit",
+      "slug": "chapitre-12-ou-phileas-fogg-et-ses-compagnons-saventurent-a-travers-les-forets-de-linde-et-ce-qui-sensuit",
+      "is_part": false,
+      "spine_start": 520,
+      "spine_end_exclusive": 521,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_240.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Dans lequel Passepartout prouve une fois de plus que la fortune sourit aux audacieux",
+      "slug": "chapitre-13-dans-lequel-passepartout-prouve-une-fois-de-plus-que-la-fortune-sourit-aux-audacieux",
+      "is_part": false,
+      "spine_start": 521,
+      "spine_end_exclusive": 522,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_241.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Dans lequel Phileas Fogg descend toute l’admirable vallée du Gange sans même songer à la voir",
+      "slug": "chapitre-14-dans-lequel-phileas-fogg-descend-toute-ladmirable-vallee-du-gange-sans-meme-songer-a-la-voir",
+      "is_part": false,
+      "spine_start": 522,
+      "spine_end_exclusive": 523,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_242.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Où le sac aux bank-notes s’allège encore de quelques milliers de livres",
+      "slug": "chapitre-15-ou-le-sac-aux-bank-notes-sallege-encore-de-quelques-milliers-de-livres",
+      "is_part": false,
+      "spine_start": 523,
+      "spine_end_exclusive": 524,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_243.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Où Fix n’a pas l’air de connaître du tout les choses dont on lui parle",
+      "slug": "chapitre-16-ou-fix-na-pas-lair-de-connaitre-du-tout-les-choses-dont-on-lui-parle",
+      "is_part": false,
+      "spine_start": 524,
+      "spine_end_exclusive": 525,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_244.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Où il est question de choses et d’autres pendant la traversée de Singapore à Hong-Kong",
+      "slug": "chapitre-17-ou-il-est-question-de-choses-et-dautres-pendant-la-traversee-de-singapore-a-hong-kong",
+      "is_part": false,
+      "spine_start": 525,
+      "spine_end_exclusive": 526,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_245.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Dans lequel Phileas Fogg, Passepartout, Fix, chacun de son côté, va à ses affaires",
+      "slug": "chapitre-18-dans-lequel-phileas-fogg-passepartout-fix-chacun-de-son-cote-va-a-ses-affaires",
+      "is_part": false,
+      "spine_start": 526,
+      "spine_end_exclusive": 527,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_246.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Où Passepartout prend un trop vif intérêt à son maître, et ce qui s’ensuit",
+      "slug": "chapitre-19-ou-passepartout-prend-un-trop-vif-interet-a-son-maitre-et-ce-qui-sensuit",
+      "is_part": false,
+      "spine_start": 527,
+      "spine_end_exclusive": 528,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_247.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Dans lequel Fix entre directement en relation avec Phileas Fogg",
+      "slug": "chapitre-20-dans-lequel-fix-entre-directement-en-relation-avec-phileas-fogg",
+      "is_part": false,
+      "spine_start": 528,
+      "spine_end_exclusive": 529,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_248.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Où le patron de la Tankadère risque fort de perdre une prime de deux cents livres",
+      "slug": "chapitre-21-ou-le-patron-de-la-tankadere-risque-fort-de-perdre-une-prime-de-deux-cents-livres",
+      "is_part": false,
+      "spine_start": 529,
+      "spine_end_exclusive": 530,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_249.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Où Passepartout voit bien que, même aux antipodes, il est prudent d’avoir quelque argent dans sa poche",
+      "slug": "chapitre-22-ou-passepartout-voit-bien-que-meme-aux-antipodes-il-est-prudent-davoir-quelque-argent-dans-sa-poche",
+      "is_part": false,
+      "spine_start": 530,
+      "spine_end_exclusive": 531,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_250.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – Dans lequel le nez de Passepartout s’allonge démesurément",
+      "slug": "chapitre-23-dans-lequel-le-nez-de-passepartout-sallonge-demesurement",
+      "is_part": false,
+      "spine_start": 531,
+      "spine_end_exclusive": 532,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_251.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24 – Pendant lequel s’accomplit la traversée de l’océan Pacifique",
+      "slug": "chapitre-24-pendant-lequel-saccomplit-la-traversee-de-locean-pacifique",
+      "is_part": false,
+      "spine_start": 532,
+      "spine_end_exclusive": 533,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_252.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25 – Où l’on donne un léger aperçu de San Francisco, un jour de meeting",
+      "slug": "chapitre-25-ou-lon-donne-un-leger-apercu-de-san-francisco-un-jour-de-meeting",
+      "is_part": false,
+      "spine_start": 533,
+      "spine_end_exclusive": 534,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_253.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26 – Dans lequel on prend le train express du chemin de fer du Pacifique",
+      "slug": "chapitre-26-dans-lequel-on-prend-le-train-express-du-chemin-de-fer-du-pacifique",
+      "is_part": false,
+      "spine_start": 534,
+      "spine_end_exclusive": 535,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_254.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27 – Dans lequel Passepartout suit, avec une vitesse de vingt milles à l’heure, un cours de l’histoire mormone",
+      "slug": "chapitre-27-dans-lequel-passepartout-suit-avec-une-vitesse-de-vingt-milles-a-lheure-un-cours-de-lhistoire-mormone",
+      "is_part": false,
+      "spine_start": 535,
+      "spine_end_exclusive": 536,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_255.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28 – Dans lequel Passepartout ne put parvenir à faire entendre le langage de la raison",
+      "slug": "chapitre-28-dans-lequel-passepartout-ne-put-parvenir-a-faire-entendre-le-langage-de-la-raison",
+      "is_part": false,
+      "spine_start": 536,
+      "spine_end_exclusive": 537,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_256.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 29 – Où il sera fait le récit d’incidents divers qui ne se rencontrent que sur les rail-roads de l’Union",
+      "slug": "chapitre-29-ou-il-sera-fait-le-recit-dincidents-divers-qui-ne-se-rencontrent-que-sur-les-rail-roads-de-lunion",
+      "is_part": false,
+      "spine_start": 537,
+      "spine_end_exclusive": 538,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_257.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 30 – Dans lequel Phileas Fogg fait tout simplement son devoir",
+      "slug": "chapitre-30-dans-lequel-phileas-fogg-fait-tout-simplement-son-devoir",
+      "is_part": false,
+      "spine_start": 538,
+      "spine_end_exclusive": 539,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_258.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 31 – Dans lequel l’inspecteur Fix prend très sérieusement les intérêts de Phileas Fogg",
+      "slug": "chapitre-31-dans-lequel-linspecteur-fix-prend-tres-serieusement-les-interets-de-phileas-fogg",
+      "is_part": false,
+      "spine_start": 539,
+      "spine_end_exclusive": 540,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_259.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 32 – Dans lequel Phileas Fogg engage une lutte directe contre la mauvaise chance",
+      "slug": "chapitre-32-dans-lequel-phileas-fogg-engage-une-lutte-directe-contre-la-mauvaise-chance",
+      "is_part": false,
+      "spine_start": 540,
+      "spine_end_exclusive": 541,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_260.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 33 – Où Phileas Fogg se montre à la hauteur des circonstances",
+      "slug": "chapitre-33-ou-phileas-fogg-se-montre-a-la-hauteur-des-circonstances",
+      "is_part": false,
+      "spine_start": 541,
+      "spine_end_exclusive": 542,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_261.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 34 – Qui procure à Passepartout l’occasion de faire un jeu de mots atroce, mais peut-être inédit",
+      "slug": "chapitre-34-qui-procure-a-passepartout-loccasion-de-faire-un-jeu-de-mots-atroce-mais-peut-etre-inedit",
+      "is_part": false,
+      "spine_start": 542,
+      "spine_end_exclusive": 543,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_262.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 35 – Dans lequel Passepartout ne se fait pas répéter deux fois l’ordre que son maître lui donne",
+      "slug": "chapitre-35-dans-lequel-passepartout-ne-se-fait-pas-repeter-deux-fois-lordre-que-son-maitre-lui-donne",
+      "is_part": false,
+      "spine_start": 543,
+      "spine_end_exclusive": 544,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_263.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 36 – Dans lequel Phileas Fogg fait de nouveau prime sur le marché",
+      "slug": "chapitre-36-dans-lequel-phileas-fogg-fait-de-nouveau-prime-sur-le-marche",
+      "is_part": false,
+      "spine_start": 544,
+      "spine_end_exclusive": 545,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_264.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 37 – Dans lequel il est prouvé que Phileas Fogg n’a rien gagné à faire ce tour du monde, si ce n’est le bonheur",
+      "slug": "chapitre-37-dans-lequel-il-est-prouve-que-phileas-fogg-na-rien-gagne-a-faire-ce-tour-du-monde-si-ce-nest-le-bonheur",
+      "is_part": false,
+      "spine_start": 545,
+      "spine_end_exclusive": 546,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_265.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

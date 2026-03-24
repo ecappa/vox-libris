@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NAÏS MICOULIN",
+  "slug": "nais-micoulin",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1155,
+      "spine_end_exclusive": 1156,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_165.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1156,
+      "spine_end_exclusive": 1157,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_166.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1157,
+      "spine_end_exclusive": 1158,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_167.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1158,
+      "spine_end_exclusive": 1159,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_168.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1159,
+      "spine_end_exclusive": 1160,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_169.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1160,
+      "spine_end_exclusive": 1161,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_170.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1161,
+      "spine_end_exclusive": 1163,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_171.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_172.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nais-micoulin/Zola4_image012.jpg"
+  ]
+}

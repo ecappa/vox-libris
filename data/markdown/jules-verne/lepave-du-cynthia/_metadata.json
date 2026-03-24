@@ -1,0 +1,253 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'ÉPAVE DU CYNTHIA",
+  "slug": "lepave-du-cynthia",
+  "nombre_chapitres": 22,
+  "structure": [
+    {
+      "title": "Chapitre 1 – L'ami de M. Malarius",
+      "slug": "chapitre-1-lami-de-m-malarius",
+      "is_part": false,
+      "spine_start": 2266,
+      "spine_end_exclusive": 2267,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_242.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Chez un pêcheur de Noroë",
+      "slug": "chapitre-2-chez-un-pecheur-de-noroe",
+      "is_part": false,
+      "spine_start": 2267,
+      "spine_end_exclusive": 2268,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_243.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Les idées de maaster Hersebom",
+      "slug": "chapitre-3-les-idees-de-maaster-hersebom",
+      "is_part": false,
+      "spine_start": 2268,
+      "spine_end_exclusive": 2269,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_244.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – A Stockholm",
+      "slug": "chapitre-4-a-stockholm",
+      "is_part": false,
+      "spine_start": 2269,
+      "spine_end_exclusive": 2270,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_245.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Tretten Juledage",
+      "slug": "chapitre-5-tretten-juledage",
+      "is_part": false,
+      "spine_start": 2270,
+      "spine_end_exclusive": 2271,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_246.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – La décision d'Erik",
+      "slug": "chapitre-6-la-decision-derik",
+      "is_part": false,
+      "spine_start": 2271,
+      "spine_end_exclusive": 2272,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_247.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – L'opinion de Vanda",
+      "slug": "chapitre-7-lopinion-de-vanda",
+      "is_part": false,
+      "spine_start": 2272,
+      "spine_end_exclusive": 2273,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_248.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Patrick O'Donoghan",
+      "slug": "chapitre-8-patrick-odonoghan",
+      "is_part": false,
+      "spine_start": 2273,
+      "spine_end_exclusive": 2274,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_249.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Cinq cents livres sterling de récompense",
+      "slug": "chapitre-9-cinq-cents-livres-sterling-de-recompense",
+      "is_part": false,
+      "spine_start": 2274,
+      "spine_end_exclusive": 2275,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_250.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Tudor Brown, esquire",
+      "slug": "chapitre-10-tudor-brown-esquire",
+      "is_part": false,
+      "spine_start": 2275,
+      "spine_end_exclusive": 2276,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_251.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – On nous écrit de la « Véga… »",
+      "slug": "chapitre-11-on-nous-ecrit-de-la-vega",
+      "is_part": false,
+      "spine_start": 2276,
+      "spine_end_exclusive": 2277,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_252.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Passagers imprévus",
+      "slug": "chapitre-12-passagers-imprevus",
+      "is_part": false,
+      "spine_start": 2277,
+      "spine_end_exclusive": 2278,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_253.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Appuyons au sud-ouest",
+      "slug": "chapitre-13-appuyons-au-sud-ouest",
+      "is_part": false,
+      "spine_start": 2278,
+      "spine_end_exclusive": 2279,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_254.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – La Basse-Froide",
+      "slug": "chapitre-14-la-basse-froide",
+      "is_part": false,
+      "spine_start": 2279,
+      "spine_end_exclusive": 2280,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_255.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Le chemin le plus court",
+      "slug": "chapitre-15-le-chemin-le-plus-court",
+      "is_part": false,
+      "spine_start": 2280,
+      "spine_end_exclusive": 2281,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_256.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – De Serdze-Kamen à Liakhov",
+      "slug": "chapitre-16-de-serdze-kamen-a-liakhov",
+      "is_part": false,
+      "spine_start": 2281,
+      "spine_end_exclusive": 2282,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_257.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Enfin !",
+      "slug": "chapitre-17-enfin",
+      "is_part": false,
+      "spine_start": 2282,
+      "spine_end_exclusive": 2283,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_258.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Coups de canon",
+      "slug": "chapitre-18-coups-de-canon",
+      "is_part": false,
+      "spine_start": 2283,
+      "spine_end_exclusive": 2284,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_259.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Coups de fusil",
+      "slug": "chapitre-19-coups-de-fusil",
+      "is_part": false,
+      "spine_start": 2284,
+      "spine_end_exclusive": 2285,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_260.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – La fin du périple",
+      "slug": "chapitre-20-la-fin-du-periple",
+      "is_part": false,
+      "spine_start": 2285,
+      "spine_end_exclusive": 2286,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_261.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Une lettre de Paris",
+      "slug": "chapitre-21-une-lettre-de-paris",
+      "is_part": false,
+      "spine_start": 2286,
+      "spine_end_exclusive": 2287,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_262.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Le Val-Féray. – Conclusion",
+      "slug": "chapitre-22-le-val-feray-conclusion",
+      "is_part": false,
+      "spine_start": 2287,
+      "spine_end_exclusive": 2288,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_263.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

@@ -1,0 +1,94 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA CURÉE",
+  "slug": "la-curee",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 23,
+      "spine_end_exclusive": 24,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_022.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 24,
+      "spine_end_exclusive": 25,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_023.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 25,
+      "spine_end_exclusive": 26,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_024.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 26,
+      "spine_end_exclusive": 27,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_025.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 27,
+      "spine_end_exclusive": 28,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_026.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 28,
+      "spine_end_exclusive": 29,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 29,
+      "spine_end_exclusive": 30,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_028.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 30,
+      "spine_end_exclusive": 32,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_029.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_030.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-curee/Zola1_image017.jpg"
+  ]
+}

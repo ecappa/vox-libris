@@ -1,0 +1,148 @@
+::: WordSection
+[
+]{.calibre38}
+
+!{#Image5966 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LES COQUILLAGES DE M. CHABRE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5967 .calibre35}
+
+## []{#_Toc368832975 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832701 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832427 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832153 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831879 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831605 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831331 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831057 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830783 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830509 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830235 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829961 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829687 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829413 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829139 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828865 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828591 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828317 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368828043 .pcalibre .calibre3 .pcalibre1} {#sigil_toc_id_5 .calibre43}
+
+
+Un soir, Hector dit au ménage :
+
+« Nous aurons demain une grande marée... On pourrait aller pêcher des crevettes. »
+
+La proposition parut ravir Estelle. Oui, oui, il fallait aller pêcher des crevettes ! Depuis longtemps, elle se promettait cette partie. M. Chabre éleva des objections. D'abord, on ne prenait jamais rien. Ensuite, il était plus simple d'acheter, pour une pièce de vingt sous, la pêche de quelque femme du pays, sans se mouiller jusqu'aux reins et s'écorcher les pieds. Mais il dut céder devant l'enthousiasme de sa femme. Et les préparatifs furent considérables.
+
+Hector s'était chargé de fournir les filets. M. Chabre, malgré sa peur de l'eau froide, avait déclaré qu'il serait de la partie ; et, du moment qu'il consentait à pêcher, il entendait pêcher sérieusement. Le matin, il fit graisser une paire de bottes. Puis, il s'habilla entièrement de toile claire ; mais sa femme ne put obtenir qu'il négligeât son noeud de cravate, dont il étala les bouts, comme s'il se rendait à un mariage. Ce noeud était sa protestation d'homme comme il faut contre le débraillé de l'Océan. Quant à Estelle, elle mit simplement son costume de bain, par-dessus lequel elle passa une camisole. Hector, lui aussi, était en costume de bain.
+
+Tous trois partirent vers deux heures. Chacun portait son filet sur l'épaule. On avait une demi-lieue à marcher au milieu des sables et des varechs, pour se rendre à une roche où Hector disait connaître de véritables bancs de crevettes. Il conduisit le ménage, tranquille, traversant les flaques, allant droit devant lui sans s'inquiéter des hasards du chemin. Estelle le suivait gaillardement, heureuse de la fraîcheur de ces terrains mouillés, dans lesquels ses petits pieds pataugeaient. M. Chabre, qui venait le dernier, ne voyait pas la nécessité de tremper ses bottes, avant d'être arrivé sur le lieu de la pêche. Il faisait avec conscience le tour des mares, sautait les ruisseaux que les eaux descendantes se creusaient dans le sable, choisissait les endroits secs, avec cette allure prudente et balancée d'un Parisien qui chercherait la pointe des pavés de la rue Vivienne, un jour de boue. Il soufflait déjà, il demandait à chaque instant :
+
+« C'est donc bien loin, monsieur Hector ?... Tenez ! Pourquoi ne pêchons-nous pas là ? Je vois des crevettes, je vous assure... D'ailleurs, il y en a partout dans la mer, n'est-ce pas ? Et je parie qu'il suffit de pousser son filet.
+
+--- Poussez, poussez, monsieur Chabre », répondait Hector.
+
+Et M. Chabre, pour respirer, donnait un coup de filet dans une mare grande comme la main. Il ne prenait rien, pas même une herbe, tant le trou d'eau était vide et clair. Alors, il se remettait en marche d'un air digne, les lèvres pincées. Mais, comme il perdait du chemin à vouloir prouver qu'il devait y avoir des crevettes partout, il finissait par se trouver considérablement en arrière.
+
+La mer baissait toujours, se reculait à plus d'un kilomètre des côtes. Le fond de galets et de roches se vidait, étalant à perte de vue un désert mouillé, raboteux, d'une grandeur triste, pareil à un large pays plat qu'un orage aurait dévasté. On ne voyait, au loin, que la ligne verte de la mer, s'abaissant encore, comme si la terre l'avait bue ; tandis que des rochers noirs, en longues bandes étroites, surgissaient, allongeaient lentement des promontoires dans l'eau morte. Estelle, debout, regardait cette immensité nue.
+
+« Que c'est grand ! » murmura-t-elle.
+
+Hector lui désignait du doigt certains rochers, des blocs verdis, formant des parquets usés par la houle.
+
+« Celui-ci, expliquait-il, ne se découvre que deux fois chaque mois. On va y chercher des moules... Apercevez-vous là-bas cette tache brune ? Ce sont les Vaches-Rousses, le meilleur endroit pour les homards. On les voit seulement aux deux grandes marées de l'année... Mais dépêchons-nous. Nous allons à ces roches dont la pointe commence à se montrer. »
+
+Lorsque Estelle entra dans la mer, ce fut une joie. Elle levait les pieds très haut, les tapait fortement, en riant du rejaillissement de l'écume. Puis, quand elle eut de l'eau jusqu'aux genoux, il lui fallut lutter contre le flot ; et cela l'égayait de marcher vite, de sentir cette résistance, ce glissement rude et continu qui fouettait ses jambes.
+
+« N'ayez pas peur, disait Hector, vous allez avoir de l'eau jusqu'à la ceinture, mais le fond remonte ensuite... Nous arrivons. »
+
+
+Estelle et Hector s'apprêtaient à donner leur premier coup de filet, quand une voix lamentable se fit entendre. M. Chabre, planté au milieu du petit bras de mer, demandait son chemin.
+
+« Par où passe-t-on ? criait-il. Dites, est-ce tout droit ? »
+
+L'eau lui montait à la ceinture, il n'osait hasarder un pas, terrifié par la pensée qu'il pouvait tomber dans un trou et disparaître.
+
+« À gauche ! » lui cria Hector.
+
+Il avança à gauche ; mais, comme il enfonçait toujours, il s'arrêta de nouveau, saisi, n'ayant même plus le courage de retourner en arrière. Il se lamentait.
+
+« Venez me donner la main. Je vous assure qu'il y a des trous. Je les sens.
+
+--- À droite ! Monsieur Chabre, à droite ! » cria Hector.
+
+Et le pauvre homme était si drôle, au milieu de l'eau, avec son filet sur l'épaule et son beau noeud de cravate, qu'Estelle et Hector ne purent retenir un léger rire. Enfin, il se tira d'affaire. Mais il arriva très ému, et il dit d'un air furieux :
+
+« Je ne sais pas nager, moi ! »
+
+Ce qui l'inquiétait maintenant, c'était le retour. Quand le jeune homme lui eut expliqué qu'il ne fallait pas se laisser prendre sur le rocher par la marée montante, il redevint anxieux.
+
+« Vous me préviendrez, n'est-ce pas ?
+
+--- N'ayez pas peur, je réponds de vous. »
+
+Alors, ils se mirent tous les trois à pêcher. De leurs filets étroits, ils fouillaient les trous. Estelle y apportait une passion de femme. Ce fut elle qui prit les premières crevettes, trois grosses crevettes rouges, qui sautaient violemment au fond du filet. Avec de grands cris, elle appela Hector pour qu'il l'aidât, car ces bêtes si vives l'inquiétaient ; mais, quand elle vit qu'elles ne bougeaient plus, dès qu'on les tenait par la tête, elle s'aguerrit, les glissa très bien elle-même dans le petit panier qu'elle portait en bandoulière. Parfois, elle amenait tout un paquet d'herbes, et il lui fallait fouiller là-dedans, lorsqu'un bruit sec, un petit bruit d'ailes, l'avertissait qu'il y avait des crevettes au fond. Elle triait les herbes délicatement, les rejetant par minces pincées, peu rassurée devant cet enchevêtrement d'étranges feuilles, gluantes et molles comme des poissons morts. De temps à autre, elle regardait dans son panier, impatiente de le voir se remplir.
+
+« C'est particulier, répétait M. Chabre, je n'en pêche pas une. »
+
+Comme il n'osait se hasarder entre les fentes des rochers, très gêné d'ailleurs par ses grandes bottes qui s'étaient emplies d'eau, il poussait son filet sur le sable et n'attrapait que des crabes, cinq, huit, dix crabes à la fois. Il en avait une peur affreuse, il se battait avec eux, pour les chasser de son filet. Par moments, il se retournait, regardait avec anxiété si la mer descendait toujours.
+
+« Vous êtes sûr qu'elle descend ? » demandait-il à Hector.
+
+Celui-ci se contentait de hocher la tête. Lui, pêchait en gaillard qui connaissait les bons endroits. Aussi, à chaque coup, amenait-il des poignées de crevettes. Quand il levait son filet à côté d'Estelle, il mettait sa pêche dans le panier de la jeune femme. Et elle riait, clignait les yeux du côté de son mari, posant un doigt sur ses lèvres. Elle était charmante, courbée sur le long manche de bois ou bien penchant sa tête blonde au-dessus du filet, tout allumée de la curiosité de savoir ce qu'elle avait pris. Une brise soufflait, l'eau qui s'égouttait des mailles s'en allait, en pluie, la mettait dans une rosée, tandis que son costume, s'envolant et plaquant sur elle, dessinait l'élégance de son fin profil.
+
+Depuis près de deux heures, ils pêchaient ainsi, lorsqu'elle s'arrêta pour respirer un instant, essoufflée, ses petits cheveux fauves trempés de sueur. Autour d'elle, le désert restait immense, d'une paix souveraine ; seule, la mer prenait un frisson, avec une voix murmurante qui s'enflait. Le ciel, embrasé par le soleil de quatre heures, était d'un bleu pâle, presque gris ; et, malgré ce ton décoloré de fournaise, la chaleur ne se sentait pas, une fraîcheur montait de l'eau, balayait et blanchissait la clarté crue. Mais ce qui amusa Estelle, ce fut de voir à l'horizon, sur tous les rochers, une multitude de points qui se détachaient en noir, très nettement. C'étaient, comme eux, des pêcheurs de crevettes, d'une finesse de silhouette incroyable, pas plus gros que des fourmis, ridicules de néant dans cette immensité, et dont on distinguait les moindres attitudes, la ligne arrondie du dos, quand ils poussaient leurs filets, ou les bras tendus et gesticulants, pareils à des pattes fiévreuses de mouche, lorsqu'ils triaient leur pêche, en se battant contre les herbes et les crabes.
+
+« Je vous assure qu'elle monte ! Cria M. Chabre avec angoisse. Tenez ! Ce rocher tout à l'heure était découvert.
+
+--- Sans doute elle monte, finit par répondre Hector impatienté. C'est justement lorsqu'elle monte qu'on prend le plus de crevettes. »
+
+Mais M. Chabre perdait la tête. Dans son dernier coup de filet, il venait d'amener un poisson étrange, un diable de mer, qui le terrifiait, avec sa tête de monstre. Il en avait assez.
+
+« Allons-nous-en ! Allons-nous-en ! Répétait-il. C'est bête de faire des imprudences.
+
+--- Puisqu'on te dit que la pêche est meilleure quand la mer monte ! Répondait sa femme.
+
+--- Et elle monte ferme ! » ajoutait à demi-voix Hector, les yeux allumés d'une lueur de méchanceté.
+
+En effet, les vagues s'allongeaient, mangeaient les rochers avec une clameur plus haute. Des flots brusques envahissaient d'un coup toute une langue de terre. C'était la mer conquérante, reprenant pied à pied le domaine qu'elle balayait de sa houle depuis des siècles. Estelle avait découvert une mare plantée de longues herbes, souples comme des cheveux, et elle y prenait des crevettes énormes, s'ouvrant un sillon, laissant derrière elle la trouée d'un faucheur. Elle se débattait, elle ne voulait pas qu'on l'arrachât de là.
+
+« Tant pis ! Je m'en vais ! S'écria M. Chabre, qui avait des larmes dans la voix. Il n'y a pas de bon sens, nous allons tous y rester. »
+
+Il partit le premier, sondant avec désespoir la profondeur des trous, à l'aide du manche de son filet. Quand il fut à deux ou trois cents pas, Hector décida enfin Estelle à le suivre.
+
+« Nous allons avoir de l'eau jusqu'aux épaules disait-il en souriant. Un vrai bain pour M. Chabre... Voyez déjà comme il enfonce ! »
+
+Depuis le départ, le jeune homme avait la mine sournoise et préoccupée d'un amoureux qui s'est promis de lâcher une déclaration et qui n'en trouve pas le courage. En mettant des crevettes dans le panier d'Estelle, il avait bien tâché de rencontrer ses doigts. Mais, évidemment, il était furieux de son peu d'audace. Et M. Chabre se serait noyé, qu'il aurait trouvé cela charmant, car pour la première fois M. Chabre le gênait.
+
+« Vous ne savez pas ? dit-il tout d'un coup, vous devriez monter sur mon dos, et je vous porterai... Autrement, vous allez être trempée... Hein ? Montez donc ! »
+
+Il lui tendait l'échine. Elle refusait, gênée et rougissante. Mais il la bouscula, en criant qu'il était responsable de sa santé. Et elle monta, elle posa les deux mains sur les épaules du jeune homme. Lui, solide comme un roc, redressant l'échine, semblait avoir un oiseau sur son cou. Il lui dit de bien se tenir, et s'avança à grandes enjambées dans l'eau.
+
+« C'est à droite, n'est-ce pas ? Monsieur Hector, criait la voix lamentable de M. Chabre, dont le flot battait déjà les reins.
+
+--- Oui, à droite, toujours à droite. »
+
+Alors, comme le mari tournait le dos, grelottant de peur en sentant la mer lui monter aux aisselles, Hector se risqua, baisa une des petites mains qu'il avait sur les épaules. Estelle voulut les retirer, mais il lui dit de ne pas bouger, ou qu'il ne répondait de rien. Et il se remit à couvrir les mains de baisers. Elles étaient fraîches et salées, il buvait sur elles les voluptés amères de l'Océan.
+
+« Je vous en prie, laissez-moi, répétait Estelle, en affectant un air courroucé. Vous abusez étrangement... Je saute dans l'eau, si vous recommencez. »
+
+Il recommençait, et elle ne sautait pas. Il la serrait étroitement aux chevilles, il lui dévorait toujours les mains, sans dire une parole, guettant seulement ce qu'on voyait encore du dos de M. Chabre, un reste de dos tragique qui manquait de sombrer à chaque pas.
+
+« Vous dites à droite ? Implora le mari.
+
+--- À gauche, si vous voulez ! »
+
+M. Chabre fit un pas à gauche et poussa un cri. Il venait de s'enfoncer jusqu'au cou, son noeud de cravate se noyait. Hector, tout à l'aise, lâcha son aveu.
+
+« Je vous aime, madame...
+
+--- Taisez-vous, monsieur, je vous l'ordonne.
+
+--- Je vous aime, je vous adore... Jusqu'à présent, le respect m'a fermé la bouche... »
+
+Il ne la regardait pas, il continuait ses longues enjambées, avec de l'eau jusqu'à la poitrine. Elle ne put retenir un grand rire, tant la situation lui sembla drôle.
+
+« Allons, taisez-vous, reprit-elle maternellement, en lui donnant une claque sur l'épaule. Soyez sage et ne versez pas surtout ! »
+
+Cette claque remplit Hector d'enchantement : c'était signé. Et, comme le mari restait en détresse :
+
+« Tout droit maintenant ! » lui cria gaiement le jeune homme.
+
+Quand ils furent arrivés sur la plage, M. Chabre voulut commencer une explication.
+
+« J'ai failli y rester, ma parole d'honneur ! Bégaya-t-il. Ce sont mes bottes... »
+
+Mais Estelle ouvrit son panier et le lui montra plein de crevettes.
+
+« Comment ? Tu as pêché tout ça ! S'écria-t-il stupéfait. Tu pêches joliment !
+
+--- Oh ! dit-elle, souriante, en regardant Hector, monsieur m'a montré. »

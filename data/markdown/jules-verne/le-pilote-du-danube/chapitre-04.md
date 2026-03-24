@@ -1,0 +1,119 @@
+]{.calibre20}
+
+
+LE PILOTE DU DANUBE
+
+
+]{.calibre20}
+
+## [[Chapitre 4 -- Serge Ladko]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942828 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_32 .calibre21}
+
+Des diverses contrées de la terre, qui, depuis l\'origine de la période historique, ont été spécialement éprouvées par la guerre,-en admettant qu\'aucune contrée puisse se flatter d\'avoir bénéficié d\'une faveur relative à cet égard !-le Sud et le Sud-Est de l\'Europe méritent d\'être cités au premier rang. Par leur situation géographique, ces régions sont, en effet, avec la fraction de l\'Asie comprise entre la mer Noire et l\'Indus, l\'arène où viennent fatalement se heurter les races concurrentes qui peuplent l\'ancien continent.
+
+Phéniciens, Grecs, Romains, Perses, Huns, Goths, Slaves, Magyars, Turcs et tant d\'autres, se sont disputé tout ou partie de ces malheureuses contrées, sans préjudice des hordes alors sauvages qui n\'ont fait que les traverser, pour aller s\'établir dans l\'Europe centrale et occidentale, où, par une lente élaboration, elles ont engendré les nationalités modernes.
+
+Pas plus que leur tragique passé, l\'avenir pour elles ne serait riant, à en croire nombre de savants prophètes. D\'après eux, l\'invasion jaune y ramènera nécessairement un jour ou l\'autre les carnages de l\'antiquité et du moyen âge. Ce jour venu, la Russie méridionale, la Roumanie, la Serbie, la Bulgarie, la Hongrie, la Turquie même bien étonnée de jouer un pareil rôle-si toutefois le pays qu\'on nomme ainsi aujourd\'hui est encore à cette époque au pouvoir des fils d\'Osman-seront par la force des choses le rempart avancé de l\'Europe, et c\'est à leurs dépens que se décideront les premiers chocs.
+
+En attendant ces cataclysmes, dont l\'échéance est, à tout le moins, fort lointaine, les diverses races qui, au cours des âges, se sont superposées entre la Méditerranée et les Karpathes ont fini par se tasser vaille que vaille, et la paix-oh ! Cette paix relative des nations dites civilisées-n\'a cessé d\'étendre son empire vers l\'Est. Les troubles, les pillages, les meurtres à l\'état endémique paraissent désormais limités à la partie de la péninsule des Balkans encore gouvernée par les Osmanlis.
+
+Entrés pour la première fois en Europe en 1356, maîtres de Constantinople en 1453, les Turcs se heurtèrent aux précédents envahisseurs, qui, venus avant eux de l\'Asie centrale et depuis longtemps convertis au christianisme, commençaient dès lors à s\'amalgamer aux populations indigènes et à s\'organiser en nations régulières et stables. Perpétuel recommencement de l\'éternelle bataille pour la vie, ces nations naissantes défendirent avec acharnement ce qu\'elles-mêmes avaient pris à d\'autres. Slaves, Magyars, Grecs, Croates, Teutons opposèrent à l\'invasion turque une vivante barrière, qui, si elle fléchit par endroits, ne put être nulle part complètement renversée.
+
+Contenus en deçà des Karpathes et du Danube, les Osmanlis furent même incapables de se maintenir dans ces limites extrêmes, et ce qu\'on appelle la Question d\'Orient n\'est que l\'histoire de leur retraite séculaire.
+
+A la différence des envahisseurs qui les avaient précédés et qu\'ils prétendaient déloger à leur profit, ces musulmans asiatiques n\'ont jamais réussi à s\'assimiler les peuples qu\'ils soumettaient à leur pouvoir. Établis par la conquête, ils sont restés des conquérants commandant en maîtres à des esclaves. Aggravée par la différence des religions, une telle méthode de gouvernement ne pouvait avoir d\'autre conséquence que la révolte permanente des vaincus.
+
+L\'histoire est pleine, en effet, de ces révoltes, qui, après des siècles de luttes, avaient abouti, en 1875, à l\'indépendance plus ou moins complète de la Grèce, du Monténégro, de la Roumanie et de la Serbie. Quant aux autres populations chrétiennes, elles continuaient à subir la domination des sectateurs de Mahomet.
+
+Cette domination, dans les premiers mois de 1875, se fit plus lourde et plus vexatoire encore que de coutume. Sous l\'influence d\'une réaction musulmane qui triomphait alors au palais du Sultan, les chrétiens de l\'Empire ottoman furent surchargés d\'impôts, malmenés, tués, torturés de mille manières. La réponse ne se fit pas attendre. Au début de l\'été, l\'Herzégovine se souleva une fois de plus.
+
+Des bandes de patriotes battirent la campagne, et, commandées par des chefs de valeur, comme Peko-Paulowitch et Luibibratich, infligèrent échecs sur échecs aux troupes régulières envoyées contre elles.
+
+Bientôt l\'incendie se propagea, gagna le Monténégro, la Bosnie, la Serbie.
+
+Une nouvelle défaite subie par les armes turques aux défilés de la Duga, en janvier 1876, acheva d\'enflammer les courages, et la fureur populaire commença à gronder en Bulgarie. Comme toujours, cela débuta par de sourdes conspirations, par des réunions clandestines auxquelles se rendait en grand secret la jeunesse ardente du pays.
+
+Dans ces conciliabules, les chefs se dégagèrent rapidement et affermirent leur autorité sur une clientèle plus ou moins nombreuse, les uns par l\'éloquence du verbe, d\'autres par la valeur de leur intelligence ou par l\'ardeur de leur patriotisme. En peu de temps, chaque groupement, et, au-dessus des groupements, chaque ville eut le sien.
+
+A Roustchouk, important centre bulgare situé au bord du Danube, presque exactement en face de la ville roumaine de Giurgievo, l\'autorité fut dévolue sans conteste au pilote Serge Ladko. On n\'aurait pu faire un meilleur choix. Agé de près de trente ans, de haute taille, blond comme un Slave du Nord, d\'une force herculéenne, d\'une agilité peu commune, rompu à tous les exercices du corps, Serge Ladko possédait cet ensemble de qualités physiques qui facilite le commandement. Ce qui vaut mieux, il avait aussi les qualités morales nécessaires à un chef : l\'énergie dans la décision, la prudence dans l\'exécution, l\'amour passionné de son pays.
+
+Serge Ladko était né à Roustchouk, où il exerçait la profession de pilote du Danube, et il n\'avait jamais quitté la ville, si ce n\'est pour conduire, soit vers Vienne ou plus en amont encore, soit jusqu\'aux flots de la mer Noire, les barges et chalands qui s\'en remettaient à sa connaissance parfaite du grand fleuve. Dans l\'intervalle de ces navigations mi-fluviales, mi-maritimes, il consacrait ses loisirs à la pêche, et, servi par des dons naturels exceptionnels, il avait acquis une étonnante habileté dans cet art, dont les produits, joints à ses honoraires de pilotage, lui assuraient la plus large aisance.
+
+Obligé par son double métier de passer sur le fleuve les quatre cinquièmes de sa vie, l\'eau était peu à peu devenue son élément. Traverser le Danube, large à Roustchouk comme un bras de mer, n\'était qu\'un jeu pour lui, et l\'on ne comptait plus les sauvetages de ce merveilleux nageur.
+
+Une existence si digne et si droite avait, bien avant les troubles anti-turcs, rendu Serge Ladko populaire à Roustchouk. Innombrables y étaient ses amis, parfois inconnus de lui. On pourrait même dire que ces amis comprenaient l\'unanimité des habitants de la ville, si Ivan Striga n\'avait pas existé.
+
+C\'était aussi un enfant du pays, cet Ivan Striga, comme Serge Ladko, dont il réalisait la vivante antithèse.
+
+Physiquement, il n\'y avait entre eux rien de commun, et pourtant un passeport, qui se contente de désignations sommaires, eût employé des termes identiques pour les dépeindre l\'un et l\'autre.
+
+De même que Ladko, Striga était grand, large d\'épaules, robuste, blond de cheveux et de barbe. Lui aussi avait les yeux bleus. Mais à ces traits généraux se limitait la ressemblance. Autant le visage aux lignes nobles de l\'un exprimait la cordialité et la franchise, autant les traits tourmentés de l\'autre disaient l\'astuce et la froide cruauté.
+
+Au moral, la dissemblance s\'accentuait encore. Tandis que Ladko vivait au grand jour, nul n\'aurait pu dire par quels moyens Striga se procurait l\'or qu\'il dépensait sans compter. Faute de certitudes à cet égard, l\'imagination populaire se donnait libre carrière. On disait que Striga, traître à son pays et à sa race, s\'était fait l\'espion appointé du Turc oppresseur ; on disait qu\'à son métier d\'espion il ajoutait, quand l\'occasion s\'en présentait, celui de contrebandier, et que des marchandises de toute nature passaient souvent grâce à lui de la rive roumaine à la rive bulgare, ou réciproquement, sans payer de droits à la Douane ; on disait même, en hochant la tête, que tout cela était peu de chose, et que Striga tirait le plus clair de ses ressources de rapines vulgaires et de brigandages ; on disait encore\... Mais que ne disait-on pas ? La vérité est qu\'on ne savait rien de précis des faits et gestes de cet inquiétant personnage, qui, si les suppositions désobligeantes du public répondaient à la réalité, avait eu, en tous cas, la grande habileté de ne jamais se laisser prendre.
+
+Ces suppositions, d\'ailleurs, on se bornait à se les confier discrètement. Personne ne se fût risqué à prononcer tout haut une parole contre un homme dont on redoutait le cynisme et la violence. Striga pouvait donc feindre d\'ignorer l\'opinion que l\'on avait de lui, attribuer à l\'admiration générale la sympathie que beaucoup lui témoignaient par lâcheté, parcourir la ville en pays conquis et la troubler, en compagnie de ses habitants les plus tarés, du scandale de ses orgies.
+
+Entre un tel individu et Ladko, qui menait une existence si différente, il ne semblait pas que le moindre rapport dût s\'établir, et pendant longtemps, en effet, ils ne connurent l\'un de l\'autre que ce que leur en apprenait la rumeur publique. Logiquement même, il aurait dû en être toujours ainsi. Mais le sort se rit de ce que nous appelons la logique, et il était écrit quelque part que les deux hommes se trouveraient face à face, transformés en irréconciliables adversaires.
+
+Natcha Gregorevitch, célèbre dans toute la ville pour sa beauté, était âgée de vingt ans. Avec sa mère d\'abord, seule ensuite, elle demeurait dans le voisinage de Ladko qu\'elle avait ainsi connu dès sa première enfance. Depuis longtemps, le secours d\'un homme manquait à la maison. Quinze ans avant l\'époque où commence ce récit, le père était tombé, en effet, sous les coups des Turcs, et le souvenir de ce meurtre abominable faisait encore frémir d\'indignation les patriotes opprimés, mais non asservis. Sa veuve, réduite à ne compter que sur elle-même, s\'était mise courageusement au travail. Experte dans l\'art de ces dentelles et de ces broderies dont, chez les Slaves, la plus modeste paysanne agrémente volontiers son humble parure, elle avait réussi par ce moyen à assurer sa subsistance et celle de sa fille. Cependant, c\'est aux pauvres surtout que sont funestes les périodes troublées, et plus d\'une fois la dentellière aurait eu à souffrir de l\'anarchie permanente de la Bulgarie, si Ladko n\'était venu discrètement à son secours. Peu à peu, une grande intimité s\'était établie entre le jeune homme et les deux femmes qui offraient l\'abri de leur paisible demeure à ses désoeuvrements de garçon. Souvent, le soir, il frappait à leur porte, et la veillée se prolongeait autour du samovar bouillant. D\'autres fois, c\'est lui qui leur offrait, en échange de leur affectueux accueil, la distraction d\'une promenade ou d\'une partie de pêche sur le Danube.
+
+Lorsque Mme Gregorevitch, usée par son incessant labeur, alla rejoindre son mari, la protection de Ladko se continua à l\'orpheline. Cette protection se fit même plus vigilante encore, et, grâce à lui, jamais la jeune fille n\'eut à souffrir de la disparition de la pauvre mère, qui avait donné deux fois la vie à son enfant.
+
+C\'est ainsi que, de jour en jour, sans même qu\'ils en eussent conscience, l\'amour s\'était éveillé dans le coeur des deux jeunes gens. Ce fut à Striga qu\'ils en durent la révélation.
+
+Celui-ci, ayant aperçu celle qu\'on appelait couramment la beauté de Roustchouk, s\'en était épris avec la soudaineté et la fureur qui caractérisaient cette nature sans frein. En homme habitué à voir tout plier devant ses caprices, il s\'était présenté chez la jeune fille et, sans autre formalité, l\'avait demandée en mariage. Pour la première fois de sa vie, il se heurta à une résistance invincible. Natcha, au risque de s\'attirer la haine d\'un homme aussi redoutable, déclara que rien ne pourrait jamais la décider à un pareil mariage. Striga revint vainement à la charge. Tout ce qu\'il obtint fut de se voir, à la troisième tentative, refuser purement et simplement la porte.
+
+Alors sa colère ne connut plus de bornes. Donnant libre cours à sa nature sauvage, il se répandit en imprécations dont Natcha fut épouvantée. Dans sa détresse, elle courut faire part de ses craintes à Serge Ladko, que sa confidence enflamma d\'une colère égale à celle qui venait de l\'effrayer si fort. Sans vouloir rien entendre, avec une violence extraordinaire d\'expressions, il vitupéra contre l\'homme assez osé pour lever les yeux sur elle.
+
+Ladko consentit pourtant à se calmer. Des explications suivirent, très confuses, mais dont le résultat fut parfaitement clair. Une heure plus tard, Serge et Natcha, le ciel dans les yeux et la joie au coeur, échangeaient leur premier baiser de fiançailles.
+
+Lorsque Striga connut la nouvelle, il manqua mourir de rage. Audacieusement, il se présenta à la maison Gregorevitch, l\'injure et la menace à la bouche. Jeté dehors par une main de fer, il apprit que la maison avait désormais un homme pour la défendre.
+
+Etre vaincu ! Avoir trouvé son maître, lui, Striga, qui s\'enorgueillissait tant de sa force athlétique ! C\'était plus d\'humiliations qu\'il n\'en pouvait supporter, et il résolut de se venger. Avec quelques aventuriers de son acabit, il attendit Ladko, un soir que celui-ci remontait la berge du fleuve. Cette fois, il ne s\'agissait plus d\'une simple rixe, mais bien d\'un assassinat en règle. Les assaillants brandissaient des couteaux.
+
+Cette nouvelle attaque n\'eut pas plus de succès que la précédente. Armé d\'un aviron qu\'il manoeuvrait comme une massue, le pilote força ses agresseurs à la retraite, et Striga, serré de près, fut obligé à une fuite honteuse.
+
+Cette leçon avait été suffisante, sans doute, car le louche personnage ne recommença pas sa criminelle tentative. Au début de l\'année 1875, Serge Ladko épousa Natcha Gregorevitch, et depuis lors, on s\'adorait à plein coeur dans la confortable maison du pilote.
+
+C\'est au milieu de cette lune de miel, dont plus d\'une année n\'avait pas atténué l\'éclat, que survinrent les événements de Bulgarie, dans les premiers mois de 1876. L\'amour que Serge Ladko éprouvait pour sa femme ne pouvait, quelque profond fût-il, lui faire oublier celui qu\'il devait à son pays. Sans hésiter, il fit partie de ceux qui, tout de suite, se groupèrent, se concertèrent, s\'ingéniant à chercher les moyens de remédier aux misères de la patrie.
+
+Avant tout, il fallait se procurer des armes. De nombreux jeunes gens émigrèrent dans ce but, franchirent le fleuve, se répandirent en Roumanie, et jusqu\'en Russie. Serge Ladko fut de ceux-là. Le coeur déchiré de regrets, mais ferme dans l\'accomplissement de son devoir, il partit, laissant loin de lui celle qu\'il adorait exposée à tous les dangers qui menacent, en temps de révolution, la femme d\'un chef de partisans.
+
+A ce moment, le souvenir de Striga lui vint à l\'esprit et aggrava ses inquiétudes. Le bandit n\'allait-il pas profiter de l\'absence de son heureux rival pour le frapper dans ce qu\'il avait de plus cher ? C\'était possible, en effet. Mais Serge Ladko passa outre à cette crainte légitime. D\'ailleurs, il semblait bien que, depuis plusieurs mois, Striga avait quitté le pays sans esprit de retour.
+
+A en croire le bruit public, il avait transporté plus au Nord le théâtre principal de ses opérations. Si les racontars ne manquaient pas à ce sujet, ils restaient incohérents et contradictoires. La rumeur populaire l\'accusait en gros de tous les crimes, sans que personne en précisât aucun.
+
+Le départ de Striga paraissait, du moins, chose certaine, et cela seulement importait à Ladko.
+
+L\'événement donna raison à son courage. Pendant son absence, rien ne menaça la sécurité de Natcha.
+
+A peine arrivé, il dut repartir, et cette seconde expédition allait être plus longue que la première. Les procédés adoptés jusqu\'ici ne permettaient, en effet, de se procurer des armes qu\'en quantité insuffisante. Les transports, en provenance de la Russie, étaient effectués par terre, à travers la Hongrie et la Roumanie, c\'est-à-dire dans des contrées fort dépourvues à cette époque de lignes ferrées. Les patriotes bulgares espérèrent arriver plus aisément au résultat désiré, si l\'un d\'eux remontait à Budapest et y centralisait les envois d\'armes venus par rail, pour en charger des chalands qui descendraient ensuite rapidement le Danube.
+
+Ladko, désigné pour cette mission de confiance, se mit en route le soir même. En compagnie d\'un compatriote, qui devait ramener le bateau à la rive bulgare, il traversa le fleuve, afin de gagner, le plus vite possible, à travers la Roumanie, la capitale de la Hongrie. À ce moment, un incident se produisit qui donna beaucoup à penser au délégué des conspirateurs.
+
+Son compagnon et lui n\'étaient pas à cinquante mètres du bord quand un coup de feu retentit. La balle leur était destinée sans aucun doute, car ils l\'entendirent siffler à leurs oreilles, et le pilote en douta d\'autant moins que, dans le tireur entrevu à l\'obscure lumière du crépuscule, il crut reconnaître Striga. Celui-ci était donc de retour à Roustchouk ?
+
+L\'angoisse mortelle que cette complication lui fit éprouver n\'ébranla pas la résolution de Ladko : Il avait fait d\'avance à la patrie le sacrifice de sa vie. Il saurait aussi, s\'il le fallait, lui sacrifier plus encore : son bonheur mille fois plus précieux. Au bruit du coup de feu, il s\'était laissé tomber au fond de l\'embarcation. Mais ce n\'était là qu\'une ruse de guerre destinée à éviter une nouvelle attaque, et la détonation n\'avait pas cessé de se répercuter dans la campagne, que sa main, appuyant plus lourdement sur l\'aviron, poussait plus vite le bateau vers la ville roumaine de Giurgievo, dont les lumières commençaient à piquer la nuit grandissante.
+
+Parvenu à destination, Ladko s\'occupa activement de sa mission.
+
+Il se mit en rapport avec les émissaires du Gouvernement du Tzar, les uns arrêtés à la frontière russe, certains fixés incognito à Budapest et à Vienne. Plusieurs chalands, chargés par ses soins d\'armes et de munitions, descendirent le courant du Danube.
+
+Fréquentes étaient les nouvelles qu\'il recevait de Natcha, par des lettres envoyées au nom d\'emprunt qu\'il avait choisi, et portées en territoire roumain à la faveur de la nuit. Bonnes tout d\'abord, ces nouvelles ne tardèrent pas à devenir plus inquiétantes. Ce n\'est pas que Natcha prononçât le nom de Striga. Elle semblait même ignorer que le bandit fût revenu en Bulgarie, et Ladko commença à douter du bien-fondé de ses craintes. Par contre, il était certain que celui-ci avait été dénoncé aux autorités turques, puisque la police avait fait irruption dans sa demeure et s\'était livrée à une perquisition, d\'ailleurs sans résultat. Il ne devait donc pas se hâter de revenir en Bulgarie, car son retour eût été un véritable suicide. On connaissait son rôle, on le guettait, jour et nuit, et il ne pourrait se montrer en ville sans être arrêté au premier pas. Arrêté étant, chez les Turcs, synonyme d\'exécuté, il fallait donc que Ladko s\'abstint de reparaître, jusqu\'au moment où la révolte serait ouvertement proclamée, sous peine d\'attirer les pires malheurs sur lui-même et sur sa femme, que l\'on n\'avait jusqu\'ici nullement inquiétée.
+
+Ce moment ne tarda pas à arriver. La Bulgarie se souleva au mois de mai, trop prématurément au gré du pilote qui augurait mal de cette précipitation. Quelle que fût son opinion à cet égard, il devait courir au secours de son pays. Le train l\'amena à Zombor, la dernière ville hongroise, proche du Danube, qui fût alors desservie par le chemin de fer. Là, il s\'embarquerait et n\'aurait plus qu\'à s\'abandonner au courant.
+
+Les nouvelles qu\'il trouva à Zombor le forcèrent à interrompre son voyage. Ses craintes n\'étaient que trop justifiées. La révolution bulgare était écrasée dans l\'oeuf. Déjà la Turquie concentrait des troupes nombreuses dans un vaste triangle dont Roustchouk, Widdin et Sofia formaient les sommets, et sa main de fer s\'appesantissait plus lourdement sur ces malheureuses contrées. Ladko dut revenir en arrière et retourner attendre de meilleurs jours dans la petite ville où il avait fixé sa résidence.
+
+Les lettres de Natcha, qu\'il y reçut bientôt, lui démontrèrent l\'impossibilité de prendre un autre parti. Sa maison était surveillée plus que jamais, à ce point que Natcha devait se considérer comme virtuellement prisonnière ; plus que jamais on le guettait, et il lui fallait, dans l\'intérêt commun, s\'abstenir soigneusement de toute démarche imprudente.
+
+Ladko rongea donc son frein dans l\'inaction, les envois d\'armes ayant été forcément supprimés depuis l\'avortement de la révolte et la concentration des troupes turques sur les rives du fleuve. Mais cette attente, déjà pénible par elle-même, lui devint tout à fait intolérable, quand, vers la fin du mois de juin, il cessa de recevoir aucune nouvelle de sa chère Natcha.
+
+Il ne savait que penser, et ses inquiétudes devinrent de torturantes angoisses à mesure que le temps s\'écoula. Il était, en effet, en droit de tout craindre. Le 1er juillet, la Serbie avait officiellement déclaré la guerre au Sultan, et, depuis lors, la région du Danube était sillonnée de troupes, dont le passage incessant s\'accompagnait des plus terribles excès. Fallait-il donc compter Natcha au nombre des victimes de ces troubles, ou bien avait-elle été incarcérée par les autorités turques, soit comme otage, soit comme complice présumée de son mari ?
+
+Après un mois de ce silence, il ne put le supporter davantage, et se résolut à tout braver pour rentrer en Bulgarie afin d\'en connaître la véritable cause. Toutefois, dans l\'intérêt même de Natcha, il importait d\'agir avec prudence. Aller sottement se faire prendre par les sentinelles turques n\'eût servi de rien. Son retour n\'aurait d\'utilité que s\'il pouvait pénétrer dans la ville de Roustchouk et y circuler librement, malgré les soupçons dont il était l\'objet. Il agirait ensuite au mieux, selon les circonstances. Au pis aller, et dût-il repasser précipitamment la frontière, il aurait eu du moins la joie de serrer sa femme sur son coeur.
+
+Serge Ladko chercha pendant plusieurs jours la solution de ce difficile problème. Il crut enfin l\'avoir trouvée, et, sans se confier à personne, mit immédiatement à exécution le plan imaginé par lui.
+
+Ce plan réussirait-il ? L\'avenir le lui dirait. Il fallait, en tous cas, tenter le sort, et c\'est pourquoi, dans la matinée du 28 juillet 1876, les plus proches voisins du pilote, dont nul ne connaissait le nom véritable, aperçurent hermétiquement close la petite maison dans laquelle, depuis plusieurs mois, il avait abrité sa solitude.
+
+Quel était le plan de Ladko, les dangers auxquels il allait s\'exposer en s\'efforçant de le réaliser, par quels côtés les événements de Bulgarie, et de Roustchouk en particulier, se relient au concours de pêche de Sigmaringen, c\'est ce que le lecteur apprendra dans la suite de ce récit nullement imaginaire, dont les principaux personnages vivent encore de nos jours sur les bords du Danube.

@@ -1,0 +1,130 @@
+::: WordSection
+[
+]{.calibre24}
+
+!{.calibre1}
+
+ROMANS
+
+THÉRÈSE RAQUIN
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778533 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778195 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777857 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777519 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777181 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776505 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776167 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775829 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775491 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775153 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774815 .pcalibre .calibre3 .pcalibre1}[IX]{#_Toc368774477 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_23 .calibre25}
+
+[Une après-midi, comme Laurent allait quitter son bureau pour courir auprès de Thérèse qui l\'attendait, son chef le fit appeler et lui signifia qu\'à l\'avenir il lui défendait de s\'absenter. Il avait abusé des congés ; l\'administration était décidée à le renvoyer, s\'il sortait une seule fois.]{.calibre11}
+
+[Cloué sur sa chaise, il se désespéra jusqu\'au soir. Il devait gagner son pain, il ne pouvait se faire mettre à la porte. Le soir, le visage courroucé de Thérèse fut une torture pour lui. Il ne savait comment expliquer son manque de parole à sa maîtresse. Pendant que Camille fermait la boutique, il s\'approcha vivement de la jeune femme :]{.calibre11}
+
+[--- Nous ne pouvons plus nous voir, lui dit-il à voix basse. Mon chef me refuse toute nouvelle permission de sortie.]{.calibre11}
+
+[Camille rentrait. Laurent dut se retirer sans donner de plus amples explications, laissant Thérèse sous le coup de cette déclaration brutale. Exaspérée, ne voulant pas admettre qu\'on pût troubler ses voluptés, elle passa une nuit d\'insomnie à bâtir des plans de rendez-vous extravagants. Le jeudi qui suivit, elle causa une minute au plus avec Laurent. Leur anxiété était d\'autant plus vive qu\'ils ne savaient où se rencontrer pour se consulter et s\'entendre. La jeune femme donna un nouveau rendez-vous à son amant, qui lui manqua de parole une seconde fois. Dès lors, elle n\'eut plus qu\'une idée fixe, le voir à tout prix.]{.calibre11}
+
+[Il y avait quinze jours que Laurent ne pouvait approcher de Thérèse. Alors il sentit combien cette femme lui était devenue nécessaire ; l\'habitude de la volupté lui avait créé des appétits nouveaux, d\'une exigence aiguë. Il n\'éprouvait plus aucun malaise dans les embrassements de sa maîtresse, il quêtait ces embrassements avec une obstination d\'animal affamé. Une passion de sang avait couvé dans ses muscles ; maintenant qu\'on lui retirait son amante, cette passion éclatait avec une violence aveugle ; il aimait à la rage. Tout semblait inconscient dans cette florissante nature de brute ; il obéissait à des instincts, il se laissait conduire par les volontés de son organisme. Il aurait ri aux éclats, un an auparavant, si on lui avait dit qu\'il serait l\'esclave d\'une femme, au point de compromettre ses tranquillités. Le sourd travail des désirs s\'était opéré en lui, à son insu, et avait fini par le jeter, pieds et poings liés, aux caresses fauves de Thérèse. À cette heure, il redoutait d\'oublier la prudence, il n\'osait venir, le soir, au passage du Pont-Neuf, craignant de commettre quelque folie. Il ne s\'appartenait plus ; sa maîtresse, avec ses souplesses de chatte, ses flexibilités nerveuses, s\'était glissée peu à peu dans chacune des fibres de son corps. Il avait besoin de cette femme pour vivre comme on a besoin de boire et de manger.]{.calibre11}
+
+[Il aurait certainement fait une sottise, s\'il n\'avait reçu une lettre de Thérèse, qui lui recommandait de rester chez lui le lendemain. Son amante lui promettait de venir le trouver vers les huit heures du soir.]{.calibre11}
+
+[Au sortir du bureau, il se débarrassa de Camille, en disant qu\'il était fatigué, qu\'il allait se coucher tout de suite. Thérèse, après le dîner, joua également son rôle ; elle parla d\'une cliente qui avait déménagé sans la payer, elle fit la créancière intraitable, elle déclara qu\'elle voulait aller réclamer son argent. La cliente demeurait aux Batignolles. Mme Raquin et Camille trouvèrent la course longue, la démarche hasardeuse ; d\'ailleurs, ils ne s\'étonnèrent pas, ils laissèrent partir Thérèse en toute tranquillité.]{.calibre11}
+
+[La jeune femme courut au Port aux Vins, glissant sur les pavés qui étaient gras, heurtant les passants, ayant hâte d\'arriver. Des moiteurs lui montaient au visage ; ses mains brûlaient. On aurait dit une femme soûle. Elle gravit rapidement l\'escalier de l\'hôtel meublé. Au sixième étage, essoufflée, les yeux vagues, elle aperçut Laurent, penché sur la rampe, qui l\'attendait.]{.calibre11}
+
+[Elle entra dans le grenier. Ses larges jupes ne pouvaient y tenir, tant l\'espace était étroit. Elle arracha d\'une main son chapeau, et, s\'appuya contre le lit, défaillante...]{.calibre11}
+
+[La fenêtre à tabatière, ouverte toute grande, versait les fraîcheurs du soir sur la couche brûlante. Les amants restèrent longtemps dans le taudis, comme au fond d\'un trou. Tout d\'un coup, Thérèse entendit l\'horloge de la Pitié sonner dix heures. Elle aurait voulu être sourde ; elle se leva péniblement et regarda le grenier qu\'elle n\'avait pas encore vu. Elle chercha son chapeau, noua les rubans, et s\'assit en disant d\'une voix lente :]{.calibre11}
+
+[--- Il faut que je parte.]{.calibre11}
+
+[Laurent était venu s\'agenouiller devant elle. Il lui prit les mains.]{.calibre11}
+
+[--- Au revoir, reprit-elle, sans bouger.]{.calibre11}
+
+[--- Non pas au revoir, s\'écria-t-il, cela est trop vague... Quel jour reviendras-tu ?]{.calibre11}
+
+[Elle le regarda en face.]{.calibre11}
+
+[--- Tu veux de la franchise ? dit-elle. Eh bien ! vrai, je crois que je ne reviendrai plus. Je n\'ai pas de prétexte, je ne puis en inventer.]{.calibre11}
+
+[--- Alors, il faut nous dire adieu.]{.calibre11}
+
+[--- Non, je ne veux pas !]{.calibre11}
+
+[Elle prononça ces mots avec une colère épouvantée. Elle ajouta plus doucement, sans savoir ce qu\'elle disait, sans quitter sa chaise :]{.calibre11}
+
+[--- Je vais m\'en aller.]{.calibre11}
+
+[Laurent songeait. Il pensait à Camille.]{.calibre11}
+
+[--- Je ne lui en veux pas, dit-il enfin sans le nommer ; mais vraiment il nous gêne trop... Est-ce que tu ne pourrais pas nous en débarrasser, l\'envoyer en voyage, quelque part, bien loin ?]{.calibre11}
+
+[--- Ah ! oui, l\'envoyer en voyage ! reprit la jeune femme en hochant la tête. Tu crois qu\'un homme comme ça consent à voyager... Il n\'y a qu\'un voyage dont on ne revient pas... Mais il nous enterrera tous ; ces gens qui n\'ont que le souffle ne meurent jamais.]{.calibre11}
+
+[Il y eut un silence. Laurent se traîna sur les genoux, se serrant contre sa maîtresse, appuyant la tête contre sa poitrine.]{.calibre11}
+
+[--- J\'avais fait un rêve, dit-il ; je voulais passer une nuit entière avec toi, m\'endormir dans tes bras et me réveiller le lendemain sous tes baisers... Je voudrais être ton mari... Tu comprends ?]{.calibre11}
+
+[--- Oui, oui, répondit Thérèse, frissonnante.]{.calibre11}
+
+[Et elle se pencha brusquement sur le visage de Laurent, qu\'elle couvrit de baisers. Elle égratignait les brides de son chapeau contre la barbe rude du jeune homme ; elle ne songeait plus qu\'elle était habillée et qu\'elle allait froisser ses vêtements. Elle sanglotait, elle prononçait des paroles haletantes au milieu de ses larmes.]{.calibre11}
+
+[--- Ne dis pas ces choses, répétait-elle, car je n\'aurais plus la force de te quitter, je resterais là... Donne-moi du courage plutôt ; dis-moi que nous nous verrons encore... N\'est-ce pas que tu as besoin de moi et que nous trouverons bien un jour le moyen de vivre ensemble ?]{.calibre11}
+
+[--- Alors, reviens, reviens demain, lui répondit Laurent, dont les mains tremblantes montaient le long de sa taille.]{.calibre11}
+
+[--- Mais je ne puis revenir... Je te l\'ai dit, je n\'ai pas de prétexte.]{.calibre11}
+
+[Elle se tordait les bras. Elle reprit :]{.calibre11}
+
+[--- Oh ! le scandale ne me fait pas peur. En rentrant, si tu veux, je vais dire à Camille que tu es mon amant, et je reviens coucher ici... C\'est pour toi que je tremble ; je ne veux pas déranger ta vie, je désire te faire une existence heureuse.]{.calibre11}
+
+[Les instincts prudents du jeune homme se réveillèrent.]{.calibre11}
+
+[--- Tu as raison, dit-il, il ne faut pas agir comme des enfants. Ah ! si ton mari mourait...]{.calibre11}
+
+[--- Si mon mari mourait..., répéta lentement Thérèse.]{.calibre11}
+
+[--- Nous nous marierions ensemble, nous ne craindrions plus rien, nous jouirions largement de nos amours... Quelle bonne et douce vie !]{.calibre11}
+
+[La jeune femme s\'était redressée. Les joues pâles, elle regardait son amant avec des yeux sombres ; des battements agitaient ses lèvres.]{.calibre11}
+
+[--- Les gens meurent quelquefois, murmura-t-elle enfin. Seulement, c\'est dangereux pour ceux qui survivent.]{.calibre11}
+
+[Laurent ne répondit pas.]{.calibre11}
+
+[--- Vois-tu, continua-t-elle, tous les moyens connus sont mauvais.]{.calibre11}
+
+[--- Tu ne m\'as pas compris, dit-il paisiblement. Je ne suis pas un sot, je veux t\'aimer en paix... Je pensais qu\'il arrive des accidents tous les jours, que le pied peut glisser, qu\'une tuile peut tomber... Tu comprends ? Dans ce dernier cas, le vent seul est coupable.]{.calibre11}
+
+[Il parlait d\'une voix étrange. Il eut un sourire et ajouta d\'un ton caressant :]{.calibre11}
+
+[--- Va, sois tranquille, nous nous aimerons bien, nous vivrons heureux... Puisque tu ne peux venir, j\'arrangerai tout cela... Si nous restons plusieurs mois sans nous voir, ne m\'oublie pas, songe que je travaille à nos félicités.]{.calibre11}
+
+[Il saisit dans ses bras Thérèse, qui ouvrait la porte pour partir.]{.calibre11}
+
+[--- Tu es à moi, n\'est-ce pas ? continua-t-il. Tu jures de te livrer entière, à toute heure, quand je voudrai.]{.calibre11}
+
+[--- Oui, cria la jeune femme, je t\'appartiens, fais de moi ce qu\'il te plaira.]{.calibre11}
+
+[Ils restèrent un moment farouches et muets. Puis Thérèse s\'arracha avec brusquerie, et, sans tourner la tête, elle sortit de la mansarde et descendit l\'escalier. Laurent écouta le bruit de ses pas qui s\'éloignaient.]{.calibre11}
+
+[Quand il n\'entendit plus rien, il rentra dans son taudis, il se coucha. Les draps étaient tièdes. Il étouffait au fond de ce trou étroit que Thérèse laissait plein des ardeurs de sa passion. Il lui semblait que son souffle respirait encore un peu de la jeune femme ; elle avait passé là, répandant des émanations pénétrantes, des odeurs de violette, et maintenant il ne pouvait plus serrer entre ses bras que le fantôme insaisissable de sa maîtresse, traînant autour de lui ; il avait la fièvre des amours renaissantes et inassouvies. Il ne ferma pas la fenêtre. Couché sur le dos, les bras nus, les mains ouvertes, cherchant la fraîcheur, il songea, en regardant le carré d\'un bleu sombre que le châssis taillait dans le ciel.]{.calibre11}
+
+[Jusqu\'au jour, la même idée tourna dans sa tête. Avant la venue de Thérèse, il ne songeait pas au meurtre de Camille ; il avait parlé de la mort de cet homme, poussé par les faits, irrité par la pensée qu\'il ne reverrait plus son amante. Et c\'est ainsi qu\'un nouveau coin de sa nature inconsciente venait de se révéler : il s\'était mis à rêver l\'assassinat dans les emportements de l\'adultère.]{.calibre11}
+
+[Maintenant, plus calme, seul au milieu de la nuit paisible, il étudiait le meurtre. L\'idée de la mort, jetée avec désespoir entre deux baisers, revenait implacable et aiguë. Laurent, secoué par l\'insomnie, énervé par les senteurs âcres que Thérèse avait laissées derrière elle, dressait des embûches, calculait les mauvaises chances, étalait les avantages qu\'il aurait à être assassin.]{.calibre11}
+
+[Tous ses intérêts le poussaient au crime. Il se disait que son père, le paysan dufosse, ne se décidait pas à mourir ; il lui faudrait peut-être rester encore dix ans employé, mangeant dans les crémeries, vivant sans femme dans un grenier. Cette idée l\'exaspérait. Au contraire, Camille mort, il épousait Thérèse, il héritait de Mme Raquin, il donnait sa démission et flânait au soleil. Alors, il se plut à rêver cette vie de paresseux ; il se voyait déjà oisif, mangeant et dormant, attendant avec patience la mort de son père. Et quand la réalité se dressait au milieu de son rêve, il se heurtait contre Camille, il serrait les poings comme pour l\'assommer.]{.calibre11}
+
+[Laurent voulait Thérèse ; il la voulait à lui tout seul, toujours à portée de sa main. S\'il ne faisait pas disparaître le mari, la femme lui échappait. Elle l\'avait dit : elle ne pouvait revenir. Il l\'aurait bien enlevée, emportée quelque part, mais alors ils seraient morts de faim tous deux. Il risquait moins en tuant le mari ; il ne soulevait aucun scandale, il poussait seulement un homme pour se mettre à sa place. Dans sa logique brutale de paysan, il trouvait ce moyen excellent et naturel. Sa prudence native lui conseillait même cet expédient rapide.]{.calibre11}
+
+[Il se vautrait sur son lit, en sueur, à plat ventre, collant sa face moite dans l\'oreiller où avait traîné le chignon de Thérèse. Il prenait la toile entre ses lèvres séchées, il buvait les parfums légers de ce linge, et il restait là, sans haleine, étouffant, voyant passer des barres de feu le long de ses paupières closes. Il se demandait comment il pourrait bien tuer Camille. Puis, quand la respiration lui manquait, il se retournait d\'un bond, se remettait sur le dos, et, les yeux grands ouverts, recevant en plein visage les souffles froids de la fenêtre, il cherchait dans les étoiles, dans le carré bleuâtre de ciel, un conseil de meurtre, un plan d\'assassinat.]{.calibre11}
+
+[Il ne trouva rien. Comme il l\'avait dit à sa maîtresse, il n\'était pas un enfant, un sot ; il ne voulait ni du poignard ni du poison. Il lui fallait un crime sournois, accompli sans danger, une sorte d\'étouffement sinistre, sans cris, sans terreur, une simple disparition. La passion avait beau le secouer et le pousser en avant ; tout son être réclamait impérieusement la prudence. Il était trop lâche, trop voluptueux, pour risquer sa tranquillité. Il tuait afin de vivre calme et heureux.]{.calibre11}
+
+[Peu à peu le sommeil le prit. L\'air froid avait chassé du grenier le fantôme tiède et odorant de Thérèse. Laurent, brisé, apaisé, se laissa envahir par une sorte d\'engourdissement doux et vague. En s\'endormant, il décida qu\'il attendrait une occasion favorable, et sa pensée, de plus en plus fuyante, le berçait en murmurant : « Je le tuerai, je le tuerai. » Cinq minutes plus tard, il reposait, respirant avec une régularité sereine.]{.calibre11}
+
+[Thérèse était rentrée chez elle à onze heures. La tête en feu, la pensée tendue, elle arriva au passage du Pont-Neuf, sans avoir conscience du chemin parcouru. Il lui semblait qu\'elle descendait de chez Laurent, tant ses oreilles étaient pleines encore des paroles qu\'elle venait d\'entendre. Elle trouva Mme Raquin et Camille anxieux et empressés ; elle répondit sèchement à leurs questions, en disant qu\'elle avait fait une course inutile et qu\'elle était restée une heure sur un trottoir à attendre un omnibus.]{.calibre11}
+
+[Lorsqu\'elle se mit au lit, elle trouva les draps froids et humides. Ses membres, encore brûlants, eurent des frissons de répugnance. Camille ne tarda pas à s\'endormir, et Thérèse regarda longtemps cette face blafarde qui reposait bêtement sur l\'oreiller, la bouche ouverte. Elle s\'écartait de lui, elle avait des envies d\'enfoncer son poing fermé dans cette bouche.]{.calibre11}

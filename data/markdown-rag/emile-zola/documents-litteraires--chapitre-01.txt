@@ -1,0 +1,26 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "DOCUMENTS LITTÉRAIRES"
+slug_oeuvre: "documents-litteraires"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+DOCUMENTS LITTÉRAIRES
+
+Liste des études biographiques et critiques
+
+] !
+
+## Préface
+Les études que je réunis aujourd'hui ont toutes paru dans le *Messager de l'Europe*, une revue de Saint-Pétersbourg, à laquelle j'envoyais une correspondance mensuelle.
+
+Plusieurs sont insuffisantes, entre autre l'étude sur Musset. Si je les publie en volume, c'est uniquement pour ne rien supprimer de la campagne littéraire que j'ai faite en Russie. D'ailleurs elles se tiennent, et même dans les plus lâchées au point de vue des documents et du style, j'ai trouvé, en les relisant, des pages dont je désire affirmer les idées.
+
+É. Z.

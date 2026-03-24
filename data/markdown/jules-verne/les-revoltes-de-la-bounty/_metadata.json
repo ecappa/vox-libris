@@ -1,0 +1,44 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES RÉVOLTÉS DE LA BOUNTY",
+  "slug": "les-revoltes-de-la-bounty",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Chapitre 1 – L'abandon",
+      "slug": "chapitre-1-labandon",
+      "is_part": false,
+      "spine_start": 861,
+      "spine_end_exclusive": 862,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_475.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Les abandonnés",
+      "slug": "chapitre-2-les-abandonnes",
+      "is_part": false,
+      "spine_start": 862,
+      "spine_end_exclusive": 863,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_476.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Les révoltés",
+      "slug": "chapitre-3-les-revoltes",
+      "is_part": false,
+      "spine_start": 863,
+      "spine_end_exclusive": 864,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_477.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

@@ -1,0 +1,326 @@
+### [[Chapitre 2 -- La cité naissante]{lang="X-NONE"}]{#_Toc342942865 .pcalibre2 .pcalibre1} {#chapitre-2-la-cité-naissante .calibre171 .sigil_not_in_toc}
+
+Immédiatement, le Kaw-djer organisa le travail. De tous ceux qui les offrirent, et ce fut, il faut le dire, l\'immense majorité des colons, les bras furent acceptés. Divisés par équipes sous l\'autorité de contremaîtres, les uns amorcèrent une route charretière qui réunirait Libéria au Bourg-Neuf, les autres furent affectés au transfert des maisons démontables jusqu\'ici édifiées au hasard et qu\'il s\'agissait de disposer d\'une manière plus logique. Le Kaw-djer indiqua les nouveaux emplacements, ceux-là parallèlement, ceux-ci à l\'opposé de l\'ancienne demeure de Dorick, laquelle commençait déjà à s\'élever à peu près à l\'endroit occupé antérieurement par le « palais » de Beauval.
+
+Une difficulté se révéla tout de suite. Pour ces divers travaux, on manquait d\'outils. Les émigrants qui, pour une cause ou une autre, avaient dû abandonner leurs exploitations de l\'intérieur, ne s\'étaient pas mis en peine de rapporter ceux qu\'ils y avaient emportés. Force leur fut d\'aller les rechercher, si bien que le premier travail de la majeure partie des travailleurs fut précisément de se procurer des outils de travail.
+
+Il leur fallut refaire une fois de plus le chemin si péniblement parcouru lorsqu\'ils étaient venus se réfugier à Libéria. Mais les circonstances n\'étaient plus les mêmes, et il leur parut infiniment moins pénible. Le printemps avait remplacé l\'hiver, ils ne manquaient plus de vivres, et la certitude de gagner leur vie au retour leur faisait un coeur joyeux. En une dizaine de jours, les derniers étaient rentrés. Les chantiers battirent alors leur plein. La route s\'allongea à vue d\'oeil. Les maisons se groupèrent peu à peu harmonieusement, entourées de vastes espaces qui seraient dans l\'avenir des jardins, et séparées par de larges rues, qui donnaient à Libéria des airs de ville au lieu de son aspect de campement provisoire. En même temps, on procédait à l\'enlèvement des détritus et des immondices que l\'incurie des habitants avait laissés s\'amonceler.
+
+Commencée la première, l\'ancienne maison de Dorick fut également la première à être à peu près habitable. Il n\'avait pas fallu beaucoup de temps pour démonter cette construction légère et pour la réédifier à son nouvel emplacement, bien qu\'on l\'eût notablement agrandie. Certes elle n\'était pas terminée, mais ses parois, encastrées dans le sol, étaient debout et le toit était en place, de même que les cloisons séparatives de l\'intérieur. Pour s\'installer dans la maison, il n\'était pas nécessaire d\'attendre l\'achèvement des contre-murs extérieurs.
+
+Ce fut le 7 novembre que le Kaw-djer en prit possession. Le plan en était des plus simples. Au centre, un entrepôt dans lequel fut déposé le stock de provisions, et, autour de cet entrepôt, une série de pièces communiquant entre elles. Ces pièces s\'ouvraient sur les façades Nord, Est et Ouest ; une seule, au Sud, sans issue à l\'extérieur, était commandée par les autres. Des inscriptions, tracées en lettres peintes sur des panneaux de bois, indiquaient la destination de ces diverses salles. Gouvernement, Tribunal, Police, disaient respectivement les inscriptions du Nord, de l\'Ouest et de l\'Est. Quant au dernier de ces locaux rien n\'en révélait l\'usage, mais le bruit courut bientôt que là se trouverait la Prison.
+
+Ainsi donc, le Kaw-djer ne s\'en reposait plus uniquement sur la sagesse de ses semblables, et, pour que l\'Autorité fût solidement assise, il la fondait sur ce trépied : la Justice, au sens social du mot, la Force et le Châtiment. Sa longue et stérile révolte n\'aboutissait qu\'à appliquer, jusque dans ce qu\'elles ont de plus absolu, les règles hors desquelles l\'imperfection humaine a, depuis l\'origine des temps, rendu toute civilisation et tout progrès impossibles.
+
+Mais des locaux, des inscriptions précisant l\'usage qu\'on en devait faire, tout cela n\'était en somme qu\'un squelette d\'administration. Il fallait des fonctionnaires pour exercer les fonctions. Le Kaw-djer les désigna sans tarder. Hartlepool fut placé à la tête de la police portée à quarante hommes choisis, après une sélection rigoureuse, exclusivement parmi les gens mariés. Quant au Tribunal, le Kaw-djer, tout en s\'en réservant personnellement la présidence, en confia le service courant à Ferdinand Beauval.
+
+Assurément, la seconde de ces désignations avait de quoi étonner. Pourtant, ce n\'était pas la première de ce genre. Quelques jours auparavant, le Kaw-djer en avait fait une autre au moins aussi surprenante.
+
+Le paiement des salaires et la vente des rations représentaient maintenant une besogne absorbante. L\'échange du travail et des vivres, bien que l\'opération fût simplifiée par l\'intermédiaire de l\'argent, exigeait une véritable comptabilité, et cette comptabilité un comptable. Le Kaw-djer nomma en cette qualité ce John Rame, à qui une existence de plaisirs avait coûté à la fois santé et fortune. Quel but avait poursuivi ce dégénéré en participant à une entreprise de colonisation ? Sans doute, il ne le savait pas lui-même, et il avait obéi à des rêves imprécis de vie facile dans un pays vague et chimérique. La réalité, infiniment plus rude, lui avait donné les hivers de l\'île Hoste, et c\'était miracle que cet être débile y eût résisté. Poussé par la nécessité, il avait vainement essayé, depuis l\'établissement du nouveau régime, de se mêler aux terrassiers occupés à la construction de la route. Dès le soir du premier jour, il avait dû y renoncer, surmené, brisé de fatigue, ses blanches mains déchirées par les quartiers de roc. Il fut trop heureux d\'accepter l\'emploi que le Kaw-djer lui attribuait et par lequel son insignifiante personnalité fut rapidement absorbée. Il se rétrécit encore, s\'identifia à ses colonnes de chiffres, disparut dans sa fonction comme dans un tombeau. On ne devait plus entendre parler de lui.
+
+Savoir utiliser pour la grandeur de l\'État jusqu\'à la plus infime des forces sociales dont il dispose est peut-être la qualité maîtresse d\'un conducteur d\'hommes. Devant l\'impossibilité de tout faire par soi-même, il lui faut nécessairement s\'entourer de collaborateurs, et c\'est dans leur choix que se manifeste avec le plus d\'évidence le génie du chef.
+
+Pour singuliers qu\'ils fussent, ceux du Kaw-djer étaient les meilleurs qu\'il pût faire dans la situation où le sort le plaçait. Il n\'avait qu\'un but : obtenir de chacun le maximum de rendement au profit de la collectivité. Or, Beauval, malgré son incapacité à d\'autres égards, n\'en restait pas moins un avocat de valeur. Il était donc, plus que tout autre, qualifié pour assurer le cours de la justice, la surveillance du maître devant au besoin tenir en bride ses fantaisies.
+
+Quant à John Rame, c\'était le plus inutile des colons. Il y avait lieu d\'admirer qu\'on eût réussi à tirer quelque chose de ce chiffon sans énergie ni vouloir, qui n\'était bon à rien.
+
+Pendant que l\'administration de l\'État hostelien s\'organisait de cette manière, le Kaw-djer déployait une activité prodigieuse.
+
+Il avait définitivement quitté le Bourg-Neuf. Ses instruments, livres, médicaments transportés au « gouvernement », -- ainsi qu\'on désignait déjà l\'ancienne maison de Lewis Dorick -- il y prenait chaque jour quelques heures de sommeil. Le reste du temps, il était partout à la fois. Il encourageait les travailleurs, résolvait les difficultés au fur et à mesure qu\'elles se présentaient, maintenait avec calme et fermeté le bon ordre et la concorde. Nul ne se fût avisé d\'élever une contestation, d\'entamer une dispute en sa présence. Il n\'avait qu\'à paraître pour que le travail s\'activât, pour que les muscles rendissent leur maximum de force.
+
+Certes, dans ce peuple misérable qu\'il avait entrepris de conduire vers de meilleures destinées, la plupart ignoraient de quel drame sa conscience avait été le théâtre, et, l\'eussent-ils connu, ils n\'étaient pas assez psychologues et manquaient par trop d\'idéalité pour soupçonner seulement quels ravages y avait fait un conflit de pures abstractions si différent de leurs soucis matériels. Du moins, il leur suffirait de regarder leur chef pour comprendre qu\'une douleur secrète le dévorait. Si le Kaw-djer n\'avait jamais été un homme expansif, il semblait maintenant de marbre. Son visage impassible ne souriait plus, ses lèvres ne s\'entrouvraient que pour dire l\'indispensable avec le minimum de mots. Autant peut-être à cause de son aspect qu\'en raison de sa vigueur herculéenne et de la force armée dont il disposait, il apparaissait redoutable. Mais, si on le craignait, on admirait en même temps son intelligence et son énergie, et on l\'aimait pour la bonté qu\'on sentait vivante sous son attitude glaciale, pour tous les services qu\'on avait reçus de lui et qu\'on en recevait encore.
+
+La multiplicité de ses occupations n\'épuisait pas, en effet, l\'activité du Kaw-djer, et le chef n\'avait pas fait tort au médecin. Pas un jour il ne manquait d\'aller voir les malades et les blessés de l\'émeute. Il avait, d\'ailleurs, de moins en moins à faire. Sous la triple influence de la saison plus clémente, de la paix morale et du travail, la santé publique s\'améliorait rapidement.
+
+De tous les malades et blessés, Halg était, bien entendu, le plus cher à son coeur. Quelque temps qu\'il fit, quelle que fût sa fatigue, il passait matin et soir au chevet du jeune Indien, d\'où Graziella et sa mère ne s\'éloignaient pas. Il avait le bonheur de constater un mieux progressif. On fut bientôt certain que la blessure du poumon commençait à se fermer. Le 15 novembre, Halg put enfin quitter le lit sur lequel il gisait depuis près d\'un mois.
+
+Ce jour-là, le Kaw-djer se rendit à la maison habitée par la famille Rhodes.
+
+« Bonjour, madame Rhodes !... Bonjour, les enfants ! dit-il en entrant.
+
+--- Bonjour, Kaw-djer ! » lui répondit-on à l\'unisson.
+
+Dans cette atmosphère si cordiale, il perdait toujours un peu de sa froideur. Edward et Clary se pressèrent contre lui. Paternellement il embrassa la jeune fille et caressa la joue du jeune garçon.
+
+« Enfin, vous voici, Kaw-djer !... s\'écria M Rhodes. Je vous croyais mort.
+
+--- J\'ai eu beaucoup à faire, madame Rhodes.
+
+--- Je le sais, Kaw-djer, je le sais, approuva M Rhodes. C\'est égal, je suis contente de vous voir... J\'espère que vous allez me donner des nouvelles de mon mari.
+
+--- Votre mari est parti, madame Rhodes. Voilà tout ce que je peux vous dire.
+
+--- Grand merci du renseignement !... Reste à savoir quand il doit revenir.
+
+--- Pas de si tôt, madame Rhodes. Votre veuvage est loin d\'être fini. »
+
+M Rhodes soupira tristement.
+
+« Il ne faut pas être triste, madame Rhodes, reprit le Kaw-djer. Tout s\'arrangera avec un peu de patience... D\'ailleurs, je vous apporte de l\'occupation, c\'est-à-dire de la distraction. Vous allez déménager, madame Rhodes.
+
+--- Déménager !...
+
+--- Oui... Pour aller vous fixer à Libéria.
+
+--- À Libéria !... Qu\'irais-je y faire, Seigneur ?
+
+--- Du commerce, madame Rhodes. Vous serez tout simplement la plus notable commerçante du pays, d\'abord -- et c\'est une raison ! -- parce qu\'il n\'y en a pas d\'autres, et aussi, je l\'espère bien, parce que vos affaires vont étonnamment prospérer.
+
+--- Commerçante !... Mes affaires ?... répéta M Rhodes étonnée. Quelles affaires, Kaw-djer ?
+
+--- Celles du bazar Harry Rhodes. Vous n\'avez pas oublié, je suppose, que vous possédez une pacotille magnifique ? Le moment est venu de l\'utiliser.
+
+--- Comment !... objecta M Rhodes, vous voulez que toute seule... sans mon mari...
+
+--- Vos enfants vous aideront, interrompit le Kaw-djer. Ils sont en âge de travailler, et tout le monde travaille ici. Je ne veux pas d\'oisifs sur l\'île Hoste. »
+
+La voix du Kaw-djer s\'était faite plus sérieuse. Sous l\'ami qui conseillait perçait le chef qui allait ordonner.
+
+« Tullia Ceroni et sa fille, reprit-il, vous donneront aussi un coup de main, quand Halg sera complètement guéri... D\'autre part, vous n\'avez pas le droit de laisser plus longtemps inutilisés des objets susceptibles d\'accroître le bien-être de tous.
+
+--- Mais ces objets représentent presque toute notre fortune, objecta M Rhodes qui paraissait fort émue. Que dira mon mari, quand il apprendra que je les ai risqués dans un pays si troublé, où la sécurité...
+
+--- Est parfaite, madame Rhodes, termina le Kaw-djer, parfaite, vous pouvez m\'en croire. Il n\'y a pas de pays plus sûr.
+
+--- Mais enfin, que voulez-vous que j\'en fasse, de toutes ces marchandises ? demanda M Rhodes.
+
+--- Vous les vendrez.
+
+--- À qui ?
+
+--- Aux acheteurs.
+
+--- Il y en a donc, et ils ont donc de l\'argent ?
+
+--- En doutez-vous ? Vous savez bien que tout le monde en avait au départ. Maintenant on en gagne..
+
+--- On gagne de l\'argent à l\'île Hoste !...
+
+--- Parfaitement. En travaillant pour la colonie qui emploie et qui paie.
+
+--- La colonie a donc de l\'argent, elle aussi ?... Voilà du nouveau, par exemple !
+
+--- La colonie n\'a pas d\'argent, expliqua le Kaw-djer, mais elle s\'en procure en vendant les vivres qu\'elle est seule à posséder. Vous devez en savoir quelque chose, puisqu\'il vous faut payer les vôtres.
+
+--- C\'est vrai, reconnut M Rhodes. Mais s\'il ne s\'agit que d\'un échange, si les colons sont obligés de rendre pour se nourrir ce qu\'ils ont gagné par leur travail, je ne vois pas très bien comment ils deviendront mes clients.
+
+--- Soyez tranquille, madame Rhodes. Les prix ont été établis par moi, et ils sont tels que les colons peuvent faire de petites économies.
+
+--- Alors, qui donne la différence ?
+
+--- C\'est moi, madame Rhodes.
+
+--- Vous êtes donc bien riche, Kaw-djer ?
+
+--- Il paraît. »
+
+M Rhodes regarda son interlocuteur d\'un air ébahi. Celui-ci ne sembla pas s\'en apercevoir.
+
+« Je considère comme très important, madame Rhodes, reprit-il avec fermeté, que votre magasin soit ouvert à bref délai.
+
+--- Comme il vous plaira, Kaw-djer », accorda M Rhodes sans enthousiasme.
+
+Cinq jours plus tard, le Kaw-djer était obéi. Quand, le 20 novembre, Karroly revint avec la Wel-Kiej, il trouva le bazar Rhodes en plein fonctionnement.
+
+Karroly revenait seul, après avoir débarqué M. Rhodes à Punta-Arenas ; il ne put répondre autre chose aux questions anxieuses de M Rhodes, qui demanda tout aussi vainement des explications au Kaw-djer. Celui-ci se contenta de l\'assurer qu\'elle ne devait concevoir aucune inquiétude, mais simplement s\'armer de patience, l\'absence de M. Rhodes devant se prolonger assez longtemps encore.
+
+Quant à Karroly, il était émerveillé de ce qu\'il voyait. Quel changement en moins d\'un mois ! Libéria n\'était plus reconnaissable. À peine si quelques rares maisons étaient encore à leurs anciennes places. La plupart étaient maintenant groupées autour de celle qu\'on désignait sous le nom de gouvernement. Les plus voisines abritaient les quarante ménages, dont les chefs, armés aux dépens de la réserve de fusils, constituaient la police de la colonie. Les huit fusils sans emploi avaient été déposés dans le poste situé entre le logis du Kaw-djer et celui d\'Hartlepool, et que plusieurs hommes gardaient jour et nuit. Quant à la provision de poudre, on l\'avait mise à l\'abri dans l\'entrepôt ménagé au centre de l\'immeuble et sans aucune issue à l\'extérieur.
+
+Un peu plus loin, s\'ouvrait le bazar Rhodes. Ce bazar surtout émerveillait Karroly. Aucun des magasins de Punta-Arenas, seule ville que l\'Indien eût jamais vue, n\'en égalait à ses yeux la splendeur.
+
+Au-delà, vers l\'Est et vers l\'Ouest, le travail se poursuivait. On aplanissait le sol destiné à recevoir les dernières maisons démontables et, plus loin, de tous les côtés, on travaillait également. Déjà d\'autres maisons, celles-ci en bois, celles-là en maçonnerie, commençaient à s\'élever hors de terre.
+
+Entre les maisons disposées selon un plan rigoureux qui ne laissait aucune place aux fantaisies individuelles, de véritables rues se croisaient à angles droits, suffisamment larges pour permettre le passage simultané de quatre véhicules. À vrai dire, ces rues étaient bien encore quelque peu boueuses et ravinées, mais le piétinement des colons en durcissait le sol de jour en jour.
+
+La route commencée dans la direction du Bourg-Neuf avait traversé la plaine marécageuse et rejoignait déjà obliquement la rivière. Sur les berges s\'amoncelaient une multitude de pierres, en vue de la construction d\'un pont plus solide que le ponceau existant.
+
+Le Bourg-Neuf était à peu près déserté. À l\'exception de quatre marins du Jonathan et de trois autres colons résolus à gagner leur vie en pêchant, ses anciens habitants l\'avaient quitté pour Libéria, où les appelaient leurs occupations. Du Bourg-Neuf devenu ainsi exclusivement un port de pêche, les embarcations partaient chaque matin pour y entrer aux approches du soir, chargées de poissons qui trouvaient aisément preneurs.
+
+Toutefois, malgré la diminution de sa population, aucune des maisons du faubourg n\'avait été abattue. Ainsi l\'avait décidé le Kaw-djer. Celle de Karroly était donc toujours debout, et l\'Indien eut la joie d\'y trouver Halg presque entièrement guéri.
+
+Ce lui fut, par contre, un grand chagrin d\'y rentrer sans le Kaw-djer, dont la nouvelle existence le séparait à jamais. Finie, cette vie commune de tant d\'années !... Comme il était changé !... En revoyant son fidèle Indien, à peine avait-il esquissé un sourire, à peine avait-il consenti à interrompre quelques minutes sa dévorante activité.
+
+Ce jour-là, comme tous les autres jours, le Kaw-djer, après une matinée consacrée aux divers travaux en cours, examina la situation de la colonie, tant au point de vue financier qu\'au point de vue de l\'état du stock des vivres, puis il retourna sur le chantier de la route.
+
+C\'était l\'heure du repos. Pics et pioches abandonnés, la plupart des terrassiers sommeillaient sur les bas côtés, en offrant au soleil leurs poitrines velues ; d\'autres mâchaient lentement leur ration en échangeant des mots vides et rares. À mesure que le Kaw-djer passait, les gens étendus se redressaient, les causeurs s\'interrompaient, et tous soulevaient leurs casquettes, en accompagnant le geste d\'une parole de bon accueil.
+
+« Salut, gouverneur ! » disaient l\'un après l\'autre ces hommes rudes.
+
+Sans s\'arrêter, le Kaw-djer répondait de la main.
+
+Il avait déjà parcouru la moitié du chemin, quand il aperçut, non loin de la rivière, un groupe d\'une centaine d\'émigrants, parmi lesquels on distinguait quelques femmes. Il pressa le pas. Bientôt, partis de ce groupe, les sons d\'un violon vinrent frapper son oreille.
+
+Un violon ?... C\'était la première fois qu\'un violon chantait sur l\'île Hoste depuis la mort de Fritz Gross.
+
+Il se mêla à l\'attroupement, dont les rangs s\'ouvrirent devant lui. Au centre, il y avait deux enfants. C\'était l\'un d\'eux qui jouait, assez gauchement d\'ailleurs. L\'autre, pendant ce temps, disposait sur le sol des corbeilles de joncs tressés et des bouquets de fleurs des champs : séneçons, bruyères et branches de houx.
+
+Dick et Sand... Le Kaw-djer, dans cette tourmente qui avait bouleversé sa vie, les avait oubliés. Au reste, pourquoi eût-il songé à ceux-ci plutôt qu\'aux autres enfants de la colonie ? Eux aussi, ils avaient une famille, dans la personne du brave et honnête Hartlepool. En vérité, le petit Sand n\'avait pas perdu son temps. Moins de trois mois s\'étaient écoulés depuis qu\'il avait hérité du violon du Fritz Gross, et il fallait qu\'il eût de bien rares dispositions musicales pour être arrivé si vite, sans maître, sans conseils, à un pareil résultat. Certes il n\'était pas un virtuose, et même il n\'y avait pas lieu de croire qu\'il le devînt jamais, car la technique élémentaire lui ferait toujours défaut, mais il jouait avec justesse et trouvait, sans paraître les chercher, des mélodies naïves, ingénieuses et charmantes, qu\'il engrenait les unes aux autres par des modulations d\'une audace heureuse.
+
+Le violon se tut. Dick, ayant terminé son inventaire, prit la parole.
+
+« Honorables Hosteliens ! dit-il avec une comique emphase, en redressant de son mieux sa petite taille, mon associé plus spécialement chargé du rayon artistique et musical de la maison Dick and C°, l\'illustre maestro Sand, violoniste ordinaire de Sa Majesté le Roi du cap Horn et autres lieux, remercie vos Honneurs de l\'attention qu\'on a bien voulu lui accorder... »
+
+Dick poussa un ouf ! Sonore, reprit sa respiration, et repartit de plus belle.
+
+« Le concert, honorables Hosteliens, est gratuit, mais il n\'en est pas de même de nos autres marchandises, lesquelles sont, j\'ose le dire, plus merveilleuses encore et surtout plus solides. La Maison Dick and C° met aujourd\'hui en vente des bouquets et des paniers. Ceux-ci seront de la plus grande commodité pour aller au marché... quand il y en aura un à l\'île Hoste ! Un cent[[\[4\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn4052){#_ftnref4052 .pcalibre2 .pcalibre1}, le bouquet !... Un cent, le panier !... Allons ! Honorables Hosteliens ! La main à la poche, je vous prie !... »
+
+Ce disant, Dick faisait le tour du cercle, en présentant des échantillons de sa marchandise, tandis que, pour chauffer l\'enthousiasme, le violon se mettait à chanter de plus belle.
+
+Quant aux spectateurs, ils riaient, et, d\'après leurs propos, le Kaw-djer comprenait qu\'ils n\'assistaient pas pour la première fois à une scène de ce genre. Dick et Sand avaient sans doute l\'habitude de parcourir les chantiers aux heures de repos et de faire ce singulier commerce. C\'était miracle qu\'il ne les eût pas encore aperçus.
+
+Cependant, Dick eut en un clin d\'oeil vendu bouquets et corbeilles.
+
+« Il ne reste plus qu\'un panier, mesdames et messieurs, annonça-t-il. C\'est le plus beau ! À deux cents, le dernier et le plus beau panier ! »
+
+Une ménagère versa les deux cents.
+
+« Merci bien, messieurs et dames ! Huit cents !... C\'est la fortune !... » s\'écria Dick en esquissant un pas de gigue.
+
+La gigue fut arrêtée net. Le Kaw-djer avait saisi le danseur par l\'oreille.
+
+« Que veut dire ceci ? » interrogea-t-il sévèrement.
+
+D\'un coup d\'oeil sournois, l\'enfant s\'efforça de deviner l\'humeur réelle du Kaw-djer, puis, rassuré sans doute, il répondit avec le plus grand sérieux :
+
+« Nous travaillons, gouverneur.
+
+--- C\'est ça que tu appelles travailler ! » s\'écria le Kaw-djer qui lâcha son prisonnier.
+
+Celui-ci en profita pour se retourner complètement, et, regardant le Kaw-djer bien en face :
+
+« Nous nous sommes établis, dit-il en se rengorgeant. Sand joue du violon, et moi je suis marchand de fleurs et de vannerie... Quelquefois, nous faisons des commissions... ou nous vendons des coquillages... Je sais aussi la danse... et des tours... C\'est des professions, ça, peut-être, gouverneur ! »
+
+Le Kaw-djer sourit malgré lui.
+
+« En effet !... reconnut-il. Mais qu\'avez-vous besoin d\'argent ?
+
+--- C\'est pour votre subrécargue[[\[5\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn5052){#_ftnref5052 .pcalibre2 .pcalibre1}, pour M. John Rame, gouverneur.
+
+--- Comment !... s\'écria le Kaw-djer, John Rame vous prend votre argent !...
+
+--- Il ne nous le prend pas, gouverneur, répliqua Dick, vu que c\'est nous qui le donnons pour les rations. »
+
+Cette fois, le Kaw-djer fut tout à fait abasourdi. Il répéta : « Pour les rations ?... Vous payez votre nourriture !... N\'habitez-vous donc plus avec M. Hartlepool ?
+
+--- Si, gouverneur, mais ça ne fait rien... »
+
+Dick gonfla ses joues, puis imitant le Kaw-djer lui-même à s\'y méprendre malgré la réduction de l\'échelle, il dit avec une impayable gravité :
+
+« Le travail est la loi ! »
+
+Sourire ou se fâcher ?... Le Kaw-djer prit le parti de sourire. Aucune hésitation n\'était possible, en effet. Dick n\'avait évidemment nulle intention de railler. Dès lors, pourquoi blâmer ces deux enfants si ardents à se « débrouiller », alors que tant de leurs aînés avaient une telle propension à s\'en reposer sur autrui.
+
+Il demanda :
+
+« Votre « travail » vous rapporte-t-il au moins de quoi vivre ?
+
+--- Je crois bien ! affirma Dick avec importance. Des douze cents, par jour, quelquefois quinze, voilà ce qu\'il nous rapporte, notre travail, gouverneur !... Avec ça, un homme peut vivre, ajouta-t-il le plus sérieusement du monde. »
+
+Un homme !... Les auditeurs partirent d\'un éclat de rire, Dick, offensé, regarda les rieurs.
+
+« Qu\'est-ce qu\'ils ont, ces idiots-là ? » murmura-t-il entre ses dents d\'un air vexé.
+
+Le Kaw-djer le ramena à la question.
+
+« Quinze cents, ce n\'est pas mal, en effet, reconnut-il. Vous gagneriez davantage cependant, si vous aidiez les maçons ou les terrassiers.
+
+--- Impossible, gouverneur, répliqua Dick vivement.
+
+--- Pourquoi impossible ? Insista le Kaw-djer.
+
+--- Sand est trop petit. Il n\'aurait pas la force, expliqua Dick, dont la voix exprima une véritable tendresse qui ne laissait pas d\'être nuancée d\'un soupçon de dédain.
+
+--- Et toi ?
+
+--- Oh !... moi !... »
+
+Il fallait entendre ce ton !... Lui, il aurait la force, assurément. C\'eût été lui faire injure que d\'en douter.
+
+« Alors ?...
+
+--- Je ne sais pas... balbutia Dick tout songeur. Ça ne me dit rien... »
+
+Puis, dans une explosion :
+
+« Moi, gouverneur, j\'aime la liberté ! »
+
+Le Kaw-djer considérait avec intérêt le petit bonhomme, qui, tête nue, les cheveux emmêlés par la brise, se tenait droit devant lui, sans baisser ses yeux brillants. Il se reconnaissait dans cette nature généreuse mais excessive. Lui aussi avait par-dessus tout aimé la liberté, lui aussi s\'était montré impatient de toute entrave, et la contrainte lui avait paru si haïssable qu\'il avait prêté à l\'humanité entière ses répugnances. L\'expérience lui avait démontré son erreur, en lui donnant la preuve que les hommes, loin d\'avoir l\'insatiable besoin de liberté qu\'il leur supposait, peuvent aimer, au contraire, un joug qui les fait vivre, et qu\'il est bon parfois que les enfants grands et petits aient un maître.
+
+Il répliqua :
+
+« La liberté, il faut d\'abord la gagner, mon garçon, en se rendant utile aux autres et à soi-même, et, pour cela, il est nécessaire de commencer par obéir. Vous irez trouver Hartlepool de ma part, et vous lui direz qu\'il vous emploie selon vos forces. Je veillerai, d\'ailleurs, à ce que Sand puisse continuer à travailler sa musique. Allez, mes enfants ! »
+
+Cette rencontre attira l\'attention du Kaw-djer sur un problème qu\'il importait de résoudre. Les enfants pullulaient dans la colonie. Désoeuvrés, loin de la surveillance des parents, ils vagabondaient du matin au soir. Pour fonder un peuple, il fallait préparer les générations futures à recueillir la succession de leurs devanciers. La création d\'une école s\'imposait à bref délai.
+
+Mais on ne saurait tout faire à la fois. Quelle que fût l\'importance de cette question, il en remit l\'examen à son retour d\'une tournée qu\'il désirait accomplir dans l\'intérieur de l\'île. Depuis qu\'il avait assumé la charge du pouvoir, il projetait ce voyage d\'inspection, que de plus pressants soucis l\'avaient forcé à remettre de jour en jour. Maintenant, il pouvait s\'éloigner sans imprudence. La machine avait reçu une impulsion suffisante pour fonctionner toute seule pendant quelque temps.
+
+Deux jours après l\'arrivée de Karroly, il allait enfin partir, quand un incident l\'obligea à un nouveau retard. Un matin, son attention fut attirée par le bruit d\'une altercation violente. S\'étant dirigé du côté d\'où venait le vacarme, il aperçut une centaine de femmes discutant avec animation devant une clôture de forts madriers qui leur barrait la route. Le Kaw-djer ne comprit pas tout d\'abord. Cette clôture, c\'était celle qui limitait l\'enclos de Patterson, mais elle ne lui avait pas semblé, les jours précédents, s\'avancer aussi loin.
+
+Il fut bientôt renseigné.
+
+Patterson, qui, dès le printemps précédent, s\'était adonné à la culture maraîchère, avait vu, cette année, ses efforts couronnés de succès. Travailleur infatigable, il avait obtenu une abondante récolte, et, depuis le renversement de Beauval, les autres habitants de Libéria s\'approvisionnaient couramment chez lui de légumes frais.
+
+Son succès était dû, pour une grande part, à l\'emplacement qu\'il avait choisi. Au bord même de la rivière, il y trouvait de l\'eau en abondance. C\'est précisément cette situation privilégiée qui était cause du conflit actuel.
+
+Les cultures de Patterson, étendues sur un espace de deux ou trois cents mètres, commandaient le seul point où la rivière fût accessible, dans le voisinage immédiat de Libéria. En aval, elle était bordée, sur la rive droite, par une plaine marécageuse qui en interdisait l\'approche jusqu\'au ponceau établi près de l\'embouchure, c\'est-à-dire à plus de quinze cents mètres dans l\'Ouest. En amont, la berge brusquement relevée tombait, pendant plus d\'un mille, à pic dans le courant.
+
+Les ménagères de Libéria étaient donc dans l\'obligation de traverser l\'enclos de Patterson pour aller puiser l\'eau nécessaire aux besoins de leurs ménages, et c\'est pourquoi, jusqu\'alors, le propriétaire de cet enclos avait ménagé un hiatus dans la barrière qui le délimitait. Mais, à la fin, il s\'était avisé que ce passage incessant à travers sa propriété était attentatoire à ses droits et causait de multiples dommages. La nuit précédente, il avait donc, avec l\'aide de Long, barré solidement l\'ouverture, d\'où grave déception et grande colère des ménagères venues de bon matin chercher de l\'eau.
+
+Le calme se rétablit quand on aperçut le Kaw-djer, et l\'on s\'en rapporta à sa justice.
+
+Patiemment, il écouta les arguments pour et contre, puis il rendit sa sentence. À la surprise générale, elle fut favorable à Patterson. À la vérité, le Kaw-djer décida que la clôture devait être abattue sur-le-champ et qu\'une voie de vingt mètres de large devait être rendue à la circulation publique, mais il reconnut les droits de l\'occupant à une indemnité pour la parcelle de terrain cultivé dont il était privé dans l\'intérêt public. Quant à l\'importance de cette indemnité, elle serait fixée dans les formes régulières. Il y avait des juges à l\'île Hoste. Patterson était invité à s\'adresser à eux.
+
+La cause fut plaidée le jour même. Ce fut la première que Beauval eut à juger. Après débat contradictoire, il condamna l\'État hostelien à payer une indemnité de cinquante dollars. Cette somme fut aussitôt versée à l\'Irlandais qui ne chercha pas à dissimuler sa satisfaction.
+
+L\'incident fut diversement commenté, mais, en général, on goûta fort la manière dont il avait été réglé. On eut le sentiment que nul ne pourrait désormais être dépouillé de ce qu\'il possédait, et la confiance publique en fut énormément accrue. C\'est ce résultat qu\'avait voulu le Kaw-djer.
+
+Cette affaire terminée, celui-ci se mit en route. Pendant trois semaines, il sillonna l\'île en tous sens, jusqu\'à son extrémité Nord-Ouest, jusqu\'aux pointes orientales des presqu\'îles Dumas et Pasteur. L\'une après l\'autre, il visita toutes les exploitations, sans en omettre une seule, tant celles qui avaient été volontairement délaissées au cours du précédent hiver que celles dont les tenanciers avaient été chassés au moment des troubles.
+
+De son enquête, il résulta finalement que cent soixante et un colons, formant quarante-deux familles, séjournaient encore dans l\'intérieur. Ces quarante-deux familles pouvaient toutes être considérées comme ayant réussi dans leur exploitation, mais à des degrés très inégaux. Les unes devaient borner leur espoir à assurer leur propre subsistance, tandis que d\'autres, les mieux pourvues en garçons robustes, auraient pu agrandir considérablement leurs cultures.
+
+De vingt-huit familles, comptant cent dix-sept autres colons, contraintes, au moment des troubles, de se réfugier à Libéria, les exploitations, aujourd\'hui très compromises, semblaient également avoir été prospères au moment où on avait dû les abandonner.
+
+Enfin, cent quatre-vingt-dix-sept tentatives d\'exploitation n\'avaient abouti qu\'à un échec. De leurs propriétaires, une quarantaine étaient morts, et le surplus, au nombre de plus de sept cent quatre-vingts, avait successivement cherché refuge à la côte au cours de l\'hiver.
+
+Les renseignements ne manquaient pas au Kaw-djer. Les colons se mettaient avec empressement à sa disposition. L\'enthousiasme était unanime, quand on apprenait la nouvelle organisation de la colonie, et cet enthousiasme croissait encore à mesure qu\'il faisait part de ses projets. Lui parti, on reprenait le travail avec une ardeur décuplée par l\'espoir.
+
+De tout ce qu\'il observait, de tout ce qu\'il entendait, le Kaw-djer prit soigneusement note. En même temps, il relevait un plan grossier des diverses exploitations et de leurs situations respectives.
+
+Ces documents, il les utilisa dès son retour. En quelques jours il dressa une carte de l\'île, carte approximative au point de vue géographique, mais d\'une exactitude plus que suffisante au point de vue des exploitations agricoles qui se limitaient les unes les autres, puis il répartit la moitié de l\'île entre cent soixante-cinq familles qu\'il choisit sans appel, et auxquelles il délivra des concessions régulières.
+
+Donner à la propriété cette base solide, c\'était accomplir une véritable révolution. Au régime du bon plaisir, il substituait la légalité, à la possession de fait, un titre inattaquable par celui-là même qui l\'avait délivré. Aussi ces simples feuilles de papier furent-elles reçues par leurs bénéficiaires avec autant de joie peut-être que les champs qu\'elles représentaient.
+
+Jusqu\'alors ils avaient vécu instables, dans l\'incertitude du lendemain. Ces feuilles de papier changeaient tout. Cette terre était à eux. Ils pourraient la léguer à leurs enfants. Ils se fixaient, prenaient racine, et devenaient vraiment de colons, des Hosteliens.
+
+Le Kaw-djer commença par consolider les droits des quarante-deux familles qui étaient demeurées attachées à la glèbe et par rétablir dans les leurs les vingt-huit exploitants qui ne l\'avaient quittée que sous la menace des émeutiers. Cela fait, il sélectionna entre toutes quatre-vingt-quinze autres familles, qui lui parurent dignes d\'en appeler de leur échec. Il ne s\'occupa aucunement des autres.
+
+C\'était de l\'arbitraire. Ce ne fut pas le seul. Si l\'égalité n\'eut rien à voir dans la répartition des concessions, elle ne fut pas mieux respectée au point de vue de leur importance. À ceux-ci le Kaw-djer laissa juste le terrain sur lequel ils s\'étaient d\'abord établis, tandis qu\'il diminuait la surface attribuée à ceux-là. En même temps, il augmentait considérablement certaines exploitations. Dans toutes ses décisions, il n\'obéit qu\'à une unique loi, l\'intérêt supérieur de la colonie. À ceux qui avaient montré le plus d\'intelligence, de force et de vaillance, les concessions les plus vastes. Rien au contraire à ceux dont il avait pu constater l\'incapacité, et qu\'il condamnait sans appel à rester des prolétaires et des salariés jusqu\'à la mort.
+
+Le salariat, en effet, allait nécessairement faire son apparition sur l\'île Hoste. Quelques exploitations, celles par exemple des quatre familles dont les Rivière formaient le centre, étaient d\'une telle étendue et d\'une telle prospérité, qu\'elles eussent suffi à occuper plusieurs centaines d\'ouvriers. L\'ouvrage ne manquerait donc pas à ceux qui préféreraient le travail des champs à celui de la ville.
+
+Pour la deuxième fois, Libéria se dépeupla. Son titre de concession à peine en poche, chaque titulaire partait avec les siens, bien pourvu de vivres, dont la provision pourrait, -- d\'ailleurs, le Kaw-djer l\'affirmait -- être ultérieurement renouvelée. Quelques-uns de ceux qui n\'avaient pas été favorisés les imitèrent, et allèrent louer leurs bras dans la campagne.
+
+Le 10 janvier, la population fut réduite à quatre cents habitants environ, dont deux cent cinquante hommes en âge de travailler. Les autres, soit un peu moins de six cents, y compris les femmes et les enfants, étaient maintenant disséminés dans l\'intérieur. Ainsi que le Kaw-djer avait pu s\'en assurer au cours de son voyage, la population totale n\'atteignait plus en effet le millier. Le surplus était mort, dont près de deux cents dans le seul hiver qui venait de finir. Encore quelques hécatombes de ce genre, et l\'île Hoste redeviendrait un désert.
+
+L\'avancement du travail se ressentit de la diminution du nombre des travailleurs. Le Kaw-djer ne parut pas s\'en soucier. On comprit bientôt sa tranquillité. Quelques jours plus tard, le 17 janvier, un vapeur mouillait en face du Bourg-Neuf. C\'était un grand navire de deux mille tonneaux. Dès le lendemain son déchargement commençait, et les Libériens émerveillés virent défiler d\'incalculables richesses. Ce fut d\'abord du bétail, des moutons, des chevaux et jusqu\'à deux chiens de berger. Puis, ce fut du matériel agricole : charrues, herses, batteuses, faneuses ; des semences de toute nature ; des vivres en quantité considérable, des voitures et des chariots ; des métaux : plomb, fer, acier, zinc, étain, etc. ; du petit outillage : marteaux, scies, burins, limes, et cent autres ; des machines-outils : forge, perceuse, fraiseuse, tours à bois et à métaux, et beaucoup d\'autre choses encore.
+
+En outre, le steamer ne contenait pas que ces objets matériels. Deux cents hommes, composés par moitié de terrassiers et d\'ouvriers de bâtiment avaient été amenés par lui. Quand le déchargement du navire fut terminé, ils se joignirent aux colons, et les travaux menés par quatre cent cinquante bras robustes recommencèrent à avancer rapidement.
+
+En quelques jours la route du Bourg-Neuf fut terminée. Pendant que les maçons s\'occupaient, les uns, de la construction du pont, les autres, de celle des maisons, on amorça vers l\'intérieur une seconde route qui, divisée en nombreuses branches, serpenterait plus tard entre les exploitations, et porterait la vie à travers l\'île, artères et veines de ce grand corps jusque-là inerte.
+
+Les Libériens n\'étaient pas au bout de leurs surprises. Le 30 janvier, un second steamer arriva. Il provenait de Buenos-Ayres et apportait dans ses flancs, outre des objets analogues aux précédents, une cargaison importante destinée au bazar Rhodes. Il y avait de tout dans cette cargaison, jusqu\'à des futilités : plumes, dentelles, rubans, dont pourrait désormais se parer la coquetterie des Hosteliennes.
+
+Deux cents nouveaux travailleurs débarquèrent de ce deuxième steamer, et deux cents encore d\'un troisième qui mouilla en rade le 15 février. À dater de ce jour, on disposa de plus de huit cents bras. Le Kaw-djer estima ce nombre suffisant pour commencer la réalisation d\'un grand projet. À l\'ouest de l\'embouchure de la rivière, furent jetées les premières assises d\'une digue, qui, dans un avenir prochain, transformerait l\'anse du Bourg-Neuf en un port vaste et sûr.
+
+Ainsi peu à peu, sous l\'effort de ces centaines de bras que dirigeait une volonté, la ville se bâtissait, se redressait, s\'assainissait, se vivifiait. Ainsi peu à peu, surgissait du néant, la cité.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

@@ -1,0 +1,24 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "SOUVENIRS D'ENFANCE ET DE JEUNESSE"
+slug_oeuvre: "souvenirs-denfance-et-de-jeunesse"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+]
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D'ENFANCE ET DE JEUNESSE
+
+]
+
+## II
+Et d'abord, ai-je toujours eu du goût pour les récits dans lesquels l'imagination se donne libre carrière ? Oui, sans doute, et ma famille a tenu en grand honneur les lettres et les arts --- d'où je conclus que l'atavisme entre pour une forte part dans mes instincts. Puis, il y a cette circonstance que je suis né à Nantes, où mon enfance s'est tout entière écoulée. Fils d'un père à demi-parisien et d'une mère tout à fait bretonne, j'ai vécu dans le mouvement maritime d'une grande ville de commerce, point de départ et d'arrivée de nombreux voyages au long cours. Je revois cette Loire, dont une lieue de ponts relie les bras multiples, ses quais encombrés de cargaisons sous l'ombrage de grands ormes, et que la double voie du chemin de fer, les lignes de tramways ne sillonnaient pas encore. Des navires sont à quai sur deux ou trois rangs. D'autres remontent ou descendent le fleuve. Pas de bateaux à vapeur, à cette époque; ou du moins très peu; mais quantité de ces voiliers dont les Américains ont si heureusement conservé et perfectionné le type avec leurs clippers et leurs trois-mâts goélette. En ce temps là, nous n'avions que les lourds bâtiments à voile de la marine marchande. Que de souvenirs ils me rappellent ! En imagination, je grimpais dans leurs haubans, je me hissais à leurs hunes, je me cramponnais à la pomme de leurs mâts ! Quel désir j'avais de franchir la planche tremblotante qui les rattachait au quai et de mettre le pied sur leur pont ! Mais, avec ma timidité d'enfant, je n'osais ! Timide ?... Oui, je l'étais, et pourtant, j'avais déjà vu faire une révolution, renverser un régime, fonder une royauté nouvelle, bien que je n'eusse que deux ans alors, et j'entends encore les coups de fusil de 1830 dans les rues de la ville où, comme à Paris, la population se battit contre les troupes royales.
+
+Un jour, cependant, je me hasardai et j'escaladai les bastingages d'un trois-mâts, dont le gardien faisait son quart dans une buvette du voisinage. Me voilà sur le pont... Ma main saisit une drisse et la fait glisser dans sa poulie !... Quelle joie ! Les panneaux de la cale sont ouverts !... Je me penche sur cet abîme... Les odeurs fortes qui s'en dégagent me montent à la tête --- ces odeurs où l'acre émanation du goudron se mélange au parfum des épices !... Je me relève, je reviens vers la dunette, j'y entre... Elle est remplie des senteurs marines qui lui font comme une atmosphère d'Océan ! Voila le carré avec sa table de roulis qui ne roule pas, hélas ! sur les tranquilles eaux du port ! Voila les cabines aux cloisons craquantes, où j'aurais voulu vivre des mois entiers, et ces cadres étroits et durs, où j'aurais voulu dormir des nuits entières ! Puis, c'est la chambre du capitaine, ce « maître après Dieu » !... un bien autre personnage à mon sens que n'importe quel ministre du roi ou lieutenant-général du royaume ! Je sors, je monte sur la dunette, et là, j'ai l'audace d'imprimer un quart de tour à la roue du gouvernail... Il me semble que le navire va s'éloigner du quai, que ses amarres vont larguer, ses mâts se couvrir de toile, et c'est moi, timonier de huit ans, qui vais le conduire en mer !
+
+La mer !... Eh bien, ni mon frère qui fut marin quelques années plus tard, ni moi, nous ne la connaissions encore ! L'été, toute notre famille se cantonnait dans une vaste campagne non loin des bords de la Loire, au milieu des vignobles, des prairies, des marais. C'était chez un vieil oncle, un ancien armateur. Il était allé à Caracas, lui, à Porto-Gabello ! Nous l'appelions « Oncle Prudent » et c'est en son souvenir que j'ai ainsi nommé l'un des personnages de Robur le Conquérant. Mais Caracas, c'était en Amérique, cette Amérique qui me fascinait déjà. Donc, faute de pouvoir naviguer sur mer, mon frère et moi, nous voguions en pleine campagne, à travers les prairies et les bois. N'ayant pas de mâture où grimper, nous passions des journées à la cime des arbres ! C'était à qui ferait son nid le plus haut. On causait, on lisait, on combinait des projets de voyage, pendant que les branches, agitées par la brise, donnaient l'illusion du tangage et du roulis !... Ah ! les délicieux loisirs.

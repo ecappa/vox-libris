@@ -1,0 +1,88 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "FRRITT FLACC",
+  "slug": "frritt-flacc",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 1195,
+      "spine_end_exclusive": 1196,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_800.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 1196,
+      "spine_end_exclusive": 1197,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_801.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 1197,
+      "spine_end_exclusive": 1198,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_802.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 1198,
+      "spine_end_exclusive": 1199,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_803.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 1199,
+      "spine_end_exclusive": 1200,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_804.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 1200,
+      "spine_end_exclusive": 1201,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_805.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 1201,
+      "spine_end_exclusive": 1202,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_806.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

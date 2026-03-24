@@ -1,0 +1,108 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA FORTUNE DES ROUGON",
+  "slug": "la-fortune-des-rougon",
+  "nombre_chapitres": 8,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 11,
+      "spine_end_exclusive": 12,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface de l'auteur",
+      "slug": "preface-de-lauteur",
+      "spine_start": 12,
+      "spine_end_exclusive": 13,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 13,
+      "spine_end_exclusive": 14,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 14,
+      "spine_end_exclusive": 15,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 15,
+      "spine_end_exclusive": 16,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 16,
+      "spine_end_exclusive": 17,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 17,
+      "spine_end_exclusive": 18,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 18,
+      "spine_end_exclusive": 19,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 19,
+      "spine_end_exclusive": 21,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_018.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_019.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-fortune-des-rougon/Zola1_image012.jpg",
+    "images/emile-zola/la-fortune-des-rougon/Zola1_image013.jpg",
+    "images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg",
+    "images/emile-zola/la-fortune-des-rougon/Zola1_image015.jpg",
+    "images/emile-zola/la-fortune-des-rougon/Zola1_image016.jpg"
+  ]
+}

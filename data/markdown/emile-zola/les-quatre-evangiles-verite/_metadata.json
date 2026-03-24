@@ -1,0 +1,80 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES QUATRE ÉVANGILES : VÉRITÉ",
+  "slug": "les-quatre-evangiles-verite",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 816,
+      "spine_end_exclusive": 817,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_341.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre premier",
+      "slug": "livre-premier",
+      "spine_start": 817,
+      "spine_end_exclusive": 822,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_342.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_343.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_344.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_345.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_346.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre deuxième",
+      "slug": "livre-deuxieme",
+      "spine_start": 822,
+      "spine_end_exclusive": 827,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_347.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_348.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_349.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_350.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_351.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre troisième",
+      "slug": "livre-troisieme",
+      "spine_start": 827,
+      "spine_end_exclusive": 832,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_352.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_353.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_354.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_355.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_356.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre quatrième",
+      "slug": "livre-quatrieme",
+      "spine_start": 832,
+      "spine_end_exclusive": 838,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_357.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_358.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_359.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_360.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_361.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_362.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-quatre-evangiles-verite/Zola2_image017.jpg"
+  ]
+}

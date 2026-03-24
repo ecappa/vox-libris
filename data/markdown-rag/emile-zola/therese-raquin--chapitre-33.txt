@@ -1,0 +1,30 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "THÉRÈSE RAQUIN"
+slug_oeuvre: "therese-raquin"
+section: "Chapitre 33"
+slug_section: "chapitre-33"
+type: "chapitre"
+---
+
+THÉÂTRE
+
+THÉRÈSE RAQUIN
+
+Liste des pièces de théâtre
+
+] 
+
+## Personnages
+LAURENT
+CAMILLE
+GRIVET
+MICHAUD
+MADAME RAQUIN
+THÉRÈSE RAQUIN
+SUZANNE
+
+Une grande chambre à coucher, passage du Pont-Neuf, servant en même temps de salon et de salle à manger. Elle est haute, noire, délabrée, tendue d'un papier gris déteint, garnie de pauvres meubles dépareillés, encombrée de cartons de marchandises. Au fond, une porte flanquée d'un buffet, à gauche, et d'une armoire, à droite. À gauche, au second plan, en pan coupé, un lit dans une alcôve et une fenêtre donnant sur un mur nu ; au premier plan, une petite porte, et, sur le devant de la scène, une table à ouvrage. À droite, au second plan, la rampe d'un escalier tournant descendant dans une boutique ; au premier plan, une cheminée garnie d'une pendule à deux colonnes et de deux bouquets de fleurs artificielles sous verre ; des photographies sont pendues des deux côtés de la glace. Au milieu de la chambre, une table ronde couverte d'une toile cirée. Deux fauteuils, l'un bleu, l'autre vert ; des chaises.
+
+(Le décor reste le même pendant les quatre actes.)

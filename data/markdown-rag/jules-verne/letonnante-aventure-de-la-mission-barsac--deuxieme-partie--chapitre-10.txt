@@ -1,0 +1,464 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC"
+slug_oeuvre: "letonnante-aventure-de-la-mission-barsac"
+section: "Deuxieme Partie"
+slug_section: "deuxieme-partie"
+chapitre: "Chapitre 10"
+slug_chapitre: "chapitre-10"
+type: "chapitre"
+---
+
+### Chapitre 10 -- Une idée d'Amédée Florence
+Peu d'entre eux avaient trouvé le sommeil pendant les dernières heures de la nuit qui venait de s'écouler. Pour la plupart, ils les avaient employées à examiner sous toutes ses faces leur situation présente, sans découvrir aucun moyen d'en surmonter les difficultés.
+
+Marcel Camaret lui-même était en défaut. Hors la construction d'un nouveau planeur, il n'imaginait rien pour sortir des embarras actuels. Mais placer son espoir dans un appareil dont la fabrication devait exiger deux longs mois, quand on avait à peine pour quinze jours de vivres, c'était se leurrer sciemment.
+
+Vérification faite, on reconnut que ce moyen de salut était moins réalisable encore qu'on ne le supposait. Un méticuleux inventaire des réserves et un examen attentif des produits horticoles en voie de maturité démontrèrent, en effet, qu'on disposait seulement, non pas de quinze, mais de neuf à dix jours de vivres tout au plus. Non pas même avant deux mois, mais avant le dernier jour de ce présent mois d'avril, on souffrirait donc nécessairement de la faim.
+
+La matinée du 13 ayant été consacrée à cet inventaire et à la mise en train du planeur que Marcel Camaret s'entêtait à construire, bien que, selon toute apparence, on ne dût en espérer aucun secours, ce fut seulement au cours de l'après-midi qu'on put s'occuper du prisonnier.
+
+Après le déjeuner, qui fut, pour la première fois, d'une excessive frugalité, Marcel Camaret, accompagné de ses hôtes dont la subite intrusion dans sa vie menaçait de lui coûter si cher, se rendit auprès du blessé, que le docteur Châtonnay affirmait être en état de supporter un interrogatoire.
+
+--- Qui êtes-vous ? lui demande Camaret, qui, en posant cette question, sans intérêt apparent, obéissait à un plan mûrement médité.
+
+Le blessé ayant gardé le silence, Camaret renouvela sa question sans plus de succès.
+
+--- Je dois vous prévenir, dit doucement l'ingénieur, que je vais vous contraindre à parler.
+
+À cette menace, l'homme n'ouvrit pas davantage la bouche, et ses lèvres esquissèrent furtivement un sourire ironique. Le contraindre à parler ? Cela lui paraissait évidemment peu croyable. Et, de fait, à en juger par son aspect, on était en présence d'un individu d'une rare énergie.
+
+Marcel Camaret haussa les épaules, puis, sans insister, il appliqua contre les pouces et sous les pieds du récalcitrant quatre petites plaques métalliques qu'il relia aux bornes d'un tableau. Cela fait, il manoeuvra un interrupteur d'un coup sec.
+
+Aussitôt, l'homme se tordit en d'affreuses convulsions, les veines de son cou se gonflèrent à éclater, et sa figure violacée exprima une intolérable souffrance.
+
+L'épreuve fut brève. Après quelques secondes, Camaret interrompait le courant.
+
+--- Parlerez-vous ? demanda-t-il.
+
+Puis, l'homme demeurant muet :
+
+--- Fort bien ! dit-il. Recommençons.
+
+Il rétablit le contact, et les mêmes phénomènes se reproduisirent avec plus de violence encore.
+
+La sueur inondait le visage du patient, dont les yeux étaient révulsés et dont la poitrine haletait comme un soufflet de forge.
+
+--- Parlerez-vous ? répéta Camaret, en coupant de nouveau le courant.
+
+--- Oui... Oui... balbutia l'homme à bout de forces.
+
+--- Parbleu !... fit Camaret, votre nom ?
+
+--- Fergus David, lui fut-il répondu.
+
+--- Ce n'est pas un nom, objecta Camaret. Ce sont deux prénoms.
+
+--- On m'appelle comme ça, à Blackland. Personne n'y connaît mon vrai nom.
+
+--- Peu importe. Quel est-il ?
+
+--- Daniel Frasne.
+
+--- Anglais.
+
+Daniel Frasne, puisque tel était son nom, résolu maintenant à parler aussi nettement qu'il était auparavant résolu à se taire, répondait du tac au tac aux questions qui lui étaient posées.
+
+--- Mon garçon, dit d'abord Camaret, j'ai besoin d'avoir quelques renseignements. Si vous me les refusez, je recommence le petit jeu de tout à l'heure. Êtes-vous disposé à me les donner ?
+
+--- Oui, répondit le blessé.
+
+--- Tout d'abord, quelle est votre situation à Blackland ? Quel rôle y jouez-vous ?
+
+--- Conseiller.
+
+--- Conseiller ?... répéta interrogativement Camaret.
+
+Frasne parut surpris que l'ingénieur ne comprît pas ce mot. Il expliqua néanmoins :
+
+--- On appelle comme ça ceux qui gouvernent avec Killer.
+
+--- Si je vous entends bien, vous faites donc partie du gouvernement de Blackland ?
+
+--- Oui.
+
+Marcel Camaret parut très satisfait de la réponse.
+
+Il reprit :
+
+--- Y a-t-il longtemps que vous êtes ici ?
+
+--- Depuis le commencement.
+
+--- Vous connaissiez donc Harry Killer auparavant ?
+
+--- Oui.
+
+--- Où l'aviez-vous connu ?
+
+--- À la colonne Buxton.
+
+Jane tressaillit en entendant ces mots. Le sort lui fournissait un nouveau témoin.
+
+--- À la colonne Buxton !... répétait cependant Camaret. Comment se fait-il que je ne vous reconnaisse pas ?
+
+--- Faut croire que j'ai changé, dit philosophiquement Frasne. J'y étais pourtant avec vous, monsieur Camaret.
+
+Incapable d'attendre plus longtemps, Jane Buxton intervint.
+
+--- Pardon, monsieur Camaret, dit-elle, voudriez-vous me permettre de dire quelques mots à cet homme ?
+
+Marcel Camaret ayant acquiescé, elle demanda au blessé :
+
+--- Puisque vous étiez à la colonne Buxton, vous y avez donc vu arriver Harry Killer ?
+
+--- Oui.
+
+--- Pourquoi le capitaine Buxton l'a-t-il aussi facilement accueilli ?
+
+--- Je n'en sais rien.
+
+--- Est-il exact, poursuivit Jane, que du jour où Harry Killer fit partie de la colonne, il en fut le véritable chef ?
+
+--- Très exact, répondit Frasne, qui manifesta quelque surprise d'être interrogé sur des faits aussi anciens.
+
+--- C'est donc par les ordres d'Harry Killer seul que la colonne Buxton se livra aux actes de pillage qui motivèrent sa destruction ?
+
+--- Oui, affirma Frasne.
+
+--- Le capitaine Buxton n'y était pour rien ?
+
+--- Non.
+
+--- Vous entendez, messieurs ? dit Jane, en se retournant vers ses compagnons.
+
+Puis, continuant la série de ses questions :
+
+--- Pour quelle raison, dit-elle, le capitaine Buxton avait-il abdiqué son autorité au profit d'Harry Killer ?
+
+--- Comment voulez-vous que je sache ça ? dit Frasne impatienté.
+
+Il paraissait sincère. Jane estima inutile d'insister.
+
+--- Savez-vous, du moins, comment est mort le capitaine Buxton, demanda-t-elle, passant à un autre sujet.
+
+--- Mais... dans la bataille, répondit Frasne, comme si la chose allait de soi. Bien d'autres sont tombés avec lui.
+
+Jane Buxton soupira. Ce n'était pas encore cette fois qu'elle éluciderait les quelques points restés dans l'ombre.
+
+--- Je vous remercie, monsieur, dit-elle à Camaret. J'ai terminé.
+
+L'ingénieur reprit aussitôt son interrogatoire au point où il avait été interrompu.
+
+--- Comment s'est-on, au début, procuré les nègres qui ont bâti la ville ? demanda-t-il.
+
+Frasne ouvrit de grands yeux. Pouvait-on lui poser une question aussi bête ! Eh quoi ! C'était pour ça qu'on l'avait, tout à l'heure, soumis à la torture !
+
+--- Pardi ! fit-il, dans les villages. Pas besoin d'être fort pour savoir ça.
+
+--- Par quel moyen ?
+
+Frasne haussa son épaule valide.
+
+--- Cette malice !... dit-il. Comme si vous ne le saviez pas. On les prenait, quoi !
+
+--- Ah !... fit Camaret, qui baissa la tête d'un air accablé.
+
+Il continua :
+
+--- Au début, il a fallu des machines. D'où venaient-elles ?
+
+--- Pas de la lune, bien sûr, ricana Frasne.
+
+--- Elles venaient d'Europe ?
+
+--- C'est à croire.
+
+--- Par quel moyen en arrivaient-elles ?
+
+--- Probablement que c'était pas en volant... Voyons, monsieur Camaret, en voilà des drôles de questions ! Comment vouliez-vous qu'elles viennent, ces machines ? Elles venaient dans des bateaux, ça va de soi.
+
+--- Où les débarquait-on ? Continua Camaret tranquillement.
+
+--- À Cotonou.
+
+--- Mais, de Cotonou à Blackland, il y a loin. Comment les transportait-on jusqu'ici ?
+
+--- Chameaux, chevaux, boeufs, nègres, répondit laconiquement Frasne, dont la patience semblait à bout.
+
+--- Au cours de ce long voyage, il mourait un grand nombre de ces nègres, je pense ?
+
+--- Plus qu'il n'en naissait, bougonna Frasne. Je ne me suis pas amusé à les compter.
+
+Camaret passa à un autre sujet :
+
+--- Ces machines, il fallait les payer ?
+
+--- Dame !... fit Frasne, qui trouvait les questions de plus en plus saugrenues.
+
+--- Il y a donc de l'argent à Blackland ?
+
+--- Pour sûr que ce n'est pas ça qui manque.
+
+--- D'où vient-il ?
+
+Cette fois, Frasne perdit patience.
+
+--- Quand vous aurez fini de me faire marcher, monsieur Camaret, dit-il avec une mauvaise humeur qui n'était pas feinte, en me demandant un tas de choses que vous savez mieux que moi ? Ce n'est pas pour des prunes que vous avez fait les planeurs.
+
+Vous savez bien que, de temps en temps, ils transportent Harry Killer et d'autres, jusqu'aux îles Bissagos où un vapeur vient les prendre et les ramène, après un petit tour en Europe, en Angleterre, le plus souvent. Ce n'est pas à vous que j'apprendrai qu'en Europe il y a des banques, des vieilles richissimes, etc., etc., enfin, un tas de gens à qui il est profitable de rendre visite... Sans être invité. La visite faite, on revient, et ni vu, ni connu.
+
+--- Ces voyages-là sont fréquents ? demanda Camaret, dont la honte empourprait le visage.
+
+Frasne eut un geste résigné.
+
+--- Enfin ! Puisque ça vous amuse !... murmura-t-il. Ça dépend. Trois, quatre fois par an.
+
+--- Le dernier voyage, quand a-t-il eu lieu ?
+
+--- Le dernier ?... répondit Frasne, qui cherchait consciencieusement dans ses souvenirs. Attendez !... Dans les quatre mois, quatre mois et demi.
+
+--- Qui a-t-on visité, cette fois ?
+
+--- Je ne sais pas très bien, dit Frasne. Je n'en étais pas, de celui-là. Une banque, je crois. Mais, ce que je sais, c'est qu'on n'a jamais fait un coup pareil.
+
+Marcel Camaret garda un instant le silence. Il était livide, maintenant, et semblait vieilli de dix ans.
+
+--- Un dernier mot, Frasne, dit-il. Combien avez-vous de nègres pour travailler dans la campagne ?
+
+--- Dans les quatre mille. Peut-être plus.
+
+--- Et les femmes ?
+
+--- Dans les quinze cents.
+
+--- On se les procure sans doute de la même manière que les premiers ?
+
+--- Non, répondit Frasne du ton le plus naturel.
+
+Maintenant qu'on a des planeurs, on les enlève avec.
+
+--- Ah !... fit Camaret.
+
+Après une nouvelle pause, il reprit :
+
+--- Comment vous êtes-vous introduit ici ?
+
+Avant de répondre, Frasne hésita pour la première fois. Cette question était enfin sérieuse. Autant il avait donné aisément les autres renseignements, autant il était furieux d'avoir à donner celui-ci. Il fallait bien, pourtant, s'exécuter.
+
+--- Par le réservoir, dit-il de mauvaise grâce.
+
+--- Par le réservoir ? répéta Camaret surpris.
+
+--- Oui. Avant-hier, on a fermé les vannes de la rivière, afin que vous ne puissiez plus monter l'eau, et l'on a vidé le réservoir du Palais. Celui de l'Usine s'est vidé par la même occasion, puisqu'ils communiquent par une conduite sous l'esplanade. Tchoumouki et moi, nous sommes venus par cette conduite.
+
+Quelques heures plus tôt, l'ingénieur avait appris avec indifférence que la pompe était remontée et fonctionnait à merveille. Il comprenait pourquoi maintenant Harry Killer, impressionné par l'affreuse mort de Tchoumouki, qu'il attribuait aux défenseurs de l'Usine, avait rouvert les vannes, et l'eau arrivait comme de coutume.
+
+--- C'est bon. Je vous remercie, dit Camaret, qui, fixé sur tous les points qui l'intéressaient, se retira sans poser d'autres questions.
+
+La journée du 13 s'acheva, celle du 14 s'écoula sans nouvel incident. L'investissement était toujours aussi rigoureux. Sur le quai d'aval et sur l'esplanade, des postes de Merry Fellows, dont les regards enfilaient de ces points les deux branches du chemin de ronde, continuaient à surveiller les abords de l'Usine, dont personne n'aurait pu sortir.
+
+Il n'y avait aucune raison pour que cette situation changeât, jusqu'au jour où la faim obligerait les assiégés à se rendre.
+
+Telle était la très juste réflexion que ne cessait de se faire Amédée Florence. Depuis la destruction du planeur, il était à la poursuite d'un moyen de sortir d'affaire, et il enrageait de ne pas en trouver. Cependant, une idée lui vint enfin, le soir du 14 avril. Cette idée, examinée sous toutes ses faces, lui ayant paru bonne, il eut, dans la matinée du 15, de longs conciliabules avec Tongané, puis il demanda à ses amis de l'accompagner chez Camaret, à qui il désirait faire une communication très urgente.
+
+Depuis l'interrogatoire de Frasne, on n'avait plus revu l'ingénieur, qui s'était aussitôt retiré dans son domicile particulier et s'y était claustré. Là, dans la solitude, il s'assimilait douloureusement les notions nouvellement acquises, pris de vertige devant l'abîme que Frasne lui avait révélé.
+
+Il connaissait la vérité tout entière. Il savait que Blackland n'avait été fondée et ne s'était maintenue que par la violence, le vol et le meurtre. Il savait que l'Europe et l'Afrique avaient été, chacune à sa manière, le théâtre des exploits d'Harry Killer et de sa bande. Il n'ignorait plus la honteuse origine de l'or si abondant dans la ville et grâce auquel son oeuvre avait été réalisée. Excès et cruautés de la colonne Buxton, assassinat de son chef, hécatombe permanente des malheureux nègres enlevés à leurs villages, pillages, rapines, assassinats en Afrique et en Europe, et, pour finir, cet abominable attentat contre la pacifique mission Barsac, il connaissait tout cela.
+
+De ces innombrables crimes, il se sentait complice.
+
+Ne l'était-il pas, en effet, malgré son innocence, lui qui avait fourni les moyens de les accomplir ? En pensant à ce qu'avait été sa vie depuis dix ans, il était envahi par une véritable terreur, et sa raison déjà chancelante fléchissait sous le choc. Par moments, il en arrivait à détester cette ville de Blackland, son oeuvre pourtant, cette chair de sa chair, cet entassement de merveilles élevé par lui-même à sa propre gloire. Mais vraiment, les atrocités dont ses habitants s'étaient rendus coupables pouvaient-elles rester impunies ? Et n'était-elle pas maudite, la ville même où étaient éclos de tels crimes ?
+
+Amédée Florence et ses compagnons trouvèrent Camaret absorbé dans ces lugubres pensées. À demi étendu dans un fauteuil, immobile, l'oeil atone, il semblait accablé et sans force. Depuis deux jours qu'on ne l'avait vu, peut-être, au surplus, n'avait-il pris aucune nourriture.
+
+Un tel interlocuteur ne pouvait convenir à Florence, qui désirait avoir en face de lui l'habile inventeur d'autrefois. Sur son ordre, Tongané alla chercher quelques aliments qui furent servis à Camaret. Celui-ci mangea docilement, mais sans manifester l'avidité qu'eût justifiée sa longue abstinence. Après ce repas, cependant, un peu de sang revint à ses joues décolorées.
+
+--- Si je vous ai tous réunis ici, dit alors Florence, c'est qu'il m'est venu à l'idée un moyen de sortir de cette situation actuellement sans issue. À force d'y réfléchir, il m'est apparu, en effet, que nous pouvions nous assurer le concours de nombreux alliés que nous avons pour ainsi dire sous la main.
+
+--- Quels alliés ? demandèrent à la fois Barsac et le docteur Châtonnay.
+
+--- Les nègres du quartier des esclaves, répondit Amédée Florence. D'après ce que nous avons appris avant-hier, ils seraient au moins quatre mille, sans compter les femmes, qui valent bien deux hommes quand elles sont déchaînées. C'est une force qui n'est pas à dédaigner, il me semble.
+
+--- Évidemment, reconnut Barsac, mais ces nègres n'ont pas d'armes, et ils ignorent probablement jusqu'à notre existence.
+
+--- C'est pourquoi, dit Florence, il faudrait entrer en communication avec eux et les armer.
+
+--- C'est facile à dire ! s'écria Barsac.
+
+--- Et peut-être à faire, répliqua Florence.
+
+--- Vraiment ?... fit Barsac. Sans parler de la question des armes, qui donc irait trouver ces nègres ?
+
+--- Un nègre comme eux : Tongané.
+
+--- Comment passera-t-il ? Vous savez bien que l'Usine est investie. Qu'il se montre, et il sera accueilli par une grêle de balles.
+
+--- Aussi ne s'en irait-il pas par la porte, répondit Florence. Cela d'ailleurs ne l'avancerait à rien, puisque, en face de l'Usine, ce sont les quartiers des Blancs. Or, c'est celui des Noirs qu'il lui faut atteindre. Pour cela, le seul moyen est d'agir comme il l'a déjà fait, c'est-à-dire de gagner la campagne pendant la nuit, de se mêler à la foule des Noirs, et d'entrer dans la ville confondu avec eux.
+
+--- Il passerait donc, alors, par-dessus le chemin de ronde et par-dessus l'enceinte ? Objecta Barsac.
+
+--- Ou par-dessous, répliqua Florence, qui se tourna du côté de Marcel Camaret.
+
+Celui-ci, absorbé dans ses pensées, était resté étranger à la discussion, qu'il semblait même n'avoir pas entendue.
+
+--- Monsieur Camaret, lui demanda Florence, serait-il possible de percer, sous les murailles de l'Usine et de la ville, un tunnel qui traversait le chemin de ronde et aboutirait dans la campagne ?
+
+--- Sans aucun doute, affirma Camaret en relevant la tête.
+
+--- Combien de temps ? demanderait ce travail.
+
+Camaret réfléchit un instant.
+
+--- Par les procédés ordinaires, il faudrait boiser, et ce serait assez long, dit-il enfin. Mais le temps serait fort abrégé par une machine que je viens d'imaginer et qui donnerait de bons résultats dans ce sol sablonneux. Pour tracer cette machine, la construire et exécuter le tunnel, quinze jours seraient nécessaires et suffisant.
+
+--- Vous pourriez donc avoir terminé pour la fin du mois ?
+
+--- Assurément, affirma Camaret.
+
+Du moment qu'on lui proposait des problèmes à résoudre, il se retrouvait dans son élément. Son cerveau s'excitait peu à peu. Il renaissait à vue d'oeil.
+
+--- Second point, monsieur Camaret, reprit Florence : ce tunnel exigerait-il le concours de tout votre personnel ?
+
+--- Il s'en faudrait de beaucoup, répondit Camaret.
+
+--- Ceux qui ne seraient pas occupés par ce travail arriveraient-ils à fabriquer trois ou quatre mille armes dans le même délai ?
+
+--- Quelles armes ? Pas des armes à feu, en tout cas.
+
+--- Des piques, des couteaux, des haches, des massues, tous les instruments perçants, coupants et contondants qui vous plairaient.
+
+--- Dans ce cas, oui, dit Camaret.
+
+--- Et ces armes, pourriez-vous les faire parvenir à jour fixe, et sans être aperçu, ni entendu des gens d'Harry Killer, aux Noirs du quartier des esclaves ?
+
+--- C'est plus difficile, dit paisiblement Camaret.
+
+Il garda le silence quelques instants, puis il répondit de sa voix douce :
+
+--- Oui, je le pourrais, à la condition que la nuit soit obscure.
+
+Amédée Florence poussa un soupir de soulagement.
+
+--- Alors, nous sommes sauvés ! s'écria-t-il. Vous comprenez, monsieur Camaret, Tongané filera par le tunnel, attendra dans la campagne l'arrivée des travailleurs noirs auxquels il se mêlera, et, le soir, il rentrera avec eux. Pendant la nuit, il préparera la révolte. Tous ces gens-là sont horriblement malheureux et ne demanderaient qu'à secouer le joug, s'ils avaient des armes. Du moment que nous leur en fournirons, ils n'hésiteront plus. Il faudrait vous mettre au travail tout de suite, monsieur Camaret.
+
+--- J'y suis déjà, répondit simplement l'ingénieur, qui, pendant qu'Amédée Florence parlait, s'était installé à sa table à dessin.
+
+Les assiégés se retirèrent très surexcités par l'heureuse perspective qu'Amédée Florence avait fait miroiter à leurs yeux. Oui, certes, son idée était bonne, et il eût été stupide de ne pas s'assurer le concours de ces milliers d'alliés naturels qui peinaient de l'autre côté de la rivière. Quant à entrer en rapport avec eux, on ne doutait plus que ce fût possible, après les affirmations de Camaret. À cet égard, celui-ci avait fait ses preuves.
+
+Dès le lendemain, la construction du planeur fut abandonnée, et tous les ouvriers furent occupés, les uns à forger, aiguiser des armes pointues ou tranchantes, d'autres à établir la machine nouvelle imaginée par Camaret, d'autres encore à forer un tronc de rônier dans un but que personne ne connaissait, tandis que les derniers creusaient, hors de la vue du Palais, au pied de la muraille de l'Usine, un puits de grande section qui s'approfondissait rapidement.
+
+Le 21 avril, ce puits ayant atteint une profondeur de dix mètres, Camaret l'estimât suffisante, et le percement de la galerie horizontale fut aussitôt commencé.
+
+Pour le réaliser, l'ingénieur avait imaginé un cône d'acier long de cinq mètres, et d'un mètre trente centimètres de diamètre, sur la surface duquel alternaient des fentes et des aspérités, les unes et les autres disposées suivant un même pas hélicoïdal régulier. Un moteur électrique faisait tourner cet engin qui, pénétrant par sa pointe dans le sol friable, s'y vissait littéralement, tandis que, par les orifices ménagés à cet effet, le sable coulait à l'intérieur du cône, d'où il était constamment évacué par le puits.
+
+Quand cette vis gigantesque aurait entièrement pénétré dans le sol, qu'elle soutiendrait en même temps, et qu'elle défendrait contre tout affaissement, il lui serait ajouté un cylindre de même diamètre, que de puissants vérins pousseraient à sa suite. Le tunnel horizontal, une fois terminé, consisterait donc en un tube métallique long de quatre-vingts mètres environ.
+
+Quand on en serait là, le cône perforant serait tourné de telle sorte qu'une ouverture plus grande que les autres, maintenue fermée jusqu'alors, se trouvât à sa partie supérieure, et l'on ferait passer par cette ouverture un autre cône plus petit que le premier, qu'on visserait de bas en haut, jusqu'à la surface du sol.
+
+Pendant que ces divers travaux s'accomplissaient, c'est à peine si l'on aperçut Camaret. Il n'apparaissait, l'air sombre et absorbé, que lorsque la solution d'une difficulté quelconque rendait sa présence indispensable, et, cette difficulté résolue, il se claustrait à nouveau dans son domicile particulier, où son domestique Joko lui servait solitairement ses repas. Le tunnel fut toutefois achevé conformément à ses prévisions.
+
+Dès l'aube du 30 avril, les quatre-vingts mètres de tubage horizontal étaient terminés.
+
+On procéda sans tarder à l'installation du petit cône destiné à forer le puits de sortie, cette dernière opération devant nécessairement être achevée avant le lever du jour.
+
+Il était temps. Depuis le 27 avril, c'est-à-dire depuis trois jours, les vivres commençaient à manquer, et les rations, déjà insuffisantes, étaient réduites à presque rien.
+
+La bonne humeur, ou seulement le calme devant les difficultés de la vie, s'accommode mal d'ordinaire d'estomacs affamés. Aussi, l'esprit du personnel de l'Usine se modifiait-il progressivement. Si l'on travaillait toujours avec acharnement, la vie de tous en dépendant, les visages étaient sombres et les ouvriers échangeaient souvent des paroles pleines d'amertume. Visiblement, ils avaient perdu, au moins en partie, leur aveugle confiance dans leur chef, auquel ils n'étaient pas loin, jusqu'alors, d'attribuer un pouvoir quasi surnaturel. Or, ce magicien n'avait pas été capable, malgré tout son génie, de les empêcher de mourir de faim, et son prestige en souffrait.
+
+D'autre part, une légende avait pris corps peu à peu, dont il fallait chercher l'origine dans les quelques mots relatifs à Jane Buxton prononcés par Camaret dans son discours initial, avant l'ouverture des hostilités avec le Palais. Tout d'abord, on avait accordé au caprice d'Harry Killer pour sa prisonnière sa véritable importance, qui n'était pas très grande. Cette preuve particulière de despotisme avait été mise à son rang, parmi les autres, ni plus, ni moins.
+
+Mais, à mesure que la situation s'aggravait, que les souffrances augmentaient, à mesure surtout que l'inanition rendait les intelligences moins lucides, on avait une tendance générale à porter au premier plan cette fantaisie d'Harry Killer, alors que celui-ci n'y pensait peut-être déjà plus.
+
+Cette idée, une fois ancrée dans les cerveaux n'en était plus sortie, et, par un phénomène de cristallisation bien connu, elle avait absorbé toutes les autres.
+
+À présent, c'était un fait acquis. On ne mettait plus en discussion, parmi les ouvriers, que, si l'on avait faim, c'était uniquement pour les beaux yeux de miss Buxton. Que celle-ci se rendît, et la paix serait aussitôt conclue. De là à se dire que le sacrifice était hors de proportion avec son objet, et qu'il était exagéré de faire périr cent cinquante personnes pour en sauver une seule, il n'y avait qu'un pas, qui fut vite franchi.
+
+Jane Buxton n'était pas sans avoir conscience de cette évolution de la pensée des ouvriers. À quelques mots entendus, à quelques regards malveillants surpris pendant qu'elle traversait l'un ou l'autre des ateliers, elle avait deviné leur hostilité, et compris qu'ils la rendaient responsable des dangers qu'ils couraient.
+
+Bien que très loin de s'accorder à soi-même l'importance que cette opinion impliquait, elle fut nécessairement influencée par l'unanimité de celle-ci, et, peu à peu, elle finit par admettre que, si elle se rendait à Harry Killer, ce sacrifice pourrait avoir, en effet, pour résultat de libérer les autres assiégés. Sans doute, dans ce cas, il serait affreux de vivre auprès de celui qu'elle soupçonnait véhémentement d'avoir assassiné son frère. Mais, outre que cette accusation n'était rien moins que démontrée, elle aurait toujours la mort pour refuge, si l'effort excédait son courage. Au surplus, quelque cruel que ce fût, là sans doute était son devoir.
+
+Cette idée acquit progressivement tant de force, qu'elle ne put s'empêcher de s'en ouvrir à ses amis.
+
+Elle s'accusa de lâcheté, et parla de se livrer à Harry Killer, à la condition que le salut de tous fût assuré. En l'écoutant, le pauvre Saint-Bérain pleurait à fendre l'âme.
+
+--- Vous voulez donc nous déshonorer, Mademoiselle ! s'écria Amédée Florence indigné, et nous déshonorer inutilement, par-dessus le marché ! Harry Killer est trop certain de vous avoir un jour ou l'autre à ses ordres pour payer cette satisfaction du moindre prix. Du reste vous pouvez être sûre qu'il ne tiendrait pas ses promesses, s'il en faisait.
+
+Barsac, le docteur Châtonnay, et jusqu'à M. Poncin firent chorus, et Jane dut renoncer à son projet aussi généreux qu'insensé.
+
+Maintenant que le tunnel était terminé, ce projet, d'ailleurs, n'avait plus de raison d'être. Dans quelques heures, Tongané allait s'échapper, et, dès le lendemain sans doute, il donnerait le signal de la révolte et de la délivrance des assiégés.
+
+Dans l'après-midi du 30 avril, le petit cône fut mis en place par l'ouverture ménagée à cet effet dans la paroi du premier, et, au coucher du soleil, on commença le forage du puits vertical. Aucun incident ne retarda cette dernière partie du travail. Avant minuit, le tube débouchait à l'air libre, et le fidèle Tongané disparaissait dans l'obscurité.
+
+Le tube vertical fut alors retiré, et le sable, en s'éboulant de lui-même, combla aussitôt le trou qu'il laissait derrière lui. À la surface du sol, il subsistait sans doute une dépression en entonnoir plus ou moins accusée, mais, en l'absence de toute autre indication, il était impossible que les assiégeants établissent aucune relation entre cet affaissement et l'Usine, qui en était distante de plus de quatre-vingts mètres.
+
+Si le plan de la ville de Blackland a été décrit avec assez de clarté, on sait que la partie le plus en aval de l'Usine proprement dite avait en face d'elle un angle de la muraille séparant les quartiers des Blancs de celui des esclaves.
+
+C'est de cet angle que Tongané devait donner, dès qu'il en trouverait l'occasion favorable, le signal d'envoyer les armes. C'est donc vers lui que, dès le soir du 1er mai, se tendirent les regards des assiégés réunis sur un échafaudage, élevé par ordre de Camaret au-dessus des maisons ouvrières les plus proches de la Red River.
+
+Ainsi qu'on le supposait, d'ailleurs, cette première attente fut vaine. En admettant que Tongané eût réussi dans son entreprise, il arrivait à peine, en effet, dans le quartier des Noirs. Il lui fallait le temps de s'expliquer et de fomenter la révolte.
+
+Le lendemain, non plus, on n'aperçut aucun signal, et l'on commença à être inquiet. On se rassura, cependant, en se disant que cette nuit de pleine lune était vraiment trop claire, quel que fût le moyen imaginé par Camaret, pour permettre l'envoi des armes qu'on avait amoncelées au sommet de l'échafaudage.
+
+Par exemple, l'inquiétude des assiégés devint sérieuse le 3 mai. Ce soir-là, grâce à d'épais nuages, la nuit était sombre malgré la lune. L'inaction de Tongané était d'autant plus grave, qu'au cours de cette journée du 3 mai, on avait dévoré les dernières miettes que contînt l'Usine. Avant deux jours, trois au plus, il fallait triompher, se rendre, ou se résigner à mourir de faim.
+
+La journée du 4 mai parut interminable aux assiégés qui attendaient l'obscurité avec une impatience fiévreuse. Mais, ce soir-là encore, aucun signal n'apparut au-dessus de la muraille du quartier noir.
+
+La journée du 5 mai débuta sous de tristes auspices. On était à jeun depuis l'avant-veille, et les estomacs criaient famine.
+
+Les ateliers étaient désertés. Les ouvriers, leurs femmes et leurs enfants erraient d'un air farouche à travers l'Usine. Avant quarante-huit heures, si rien ne survenait, il faudrait bien enfin se livrer, pieds et poings liés, au vainqueur.
+
+Des groupes se formaient, où s'échangeaient des paroles amères. On ne se gênait pas pour accuser Tongané d'avoir oublié ceux qu'il avait prétendu délivrer. Parbleu ! Le nègre eût été bien bête de se soucier d'eux.
+
+En passant auprès de l'un de ces groupes, Jane Buxton entendit son nom. Entourés de quelques-uns de leurs camarades, un ouvrier et une femme se disputaient avec autant de violence que le permettait leur faiblesse, si animés que Jane put s'arrêter et prêter l'oreille sans qu'ils y fissent attention.
+
+--- On dira ce qu'on voudra, cria l'homme sans souci d'être ou non entendu, c'est raide tout de même d'être obligé d'en passer par là pour cette pimbêche. Si ça ne tenait qu'à moi !...
+
+--- Vous n'êtes pas honteux de parler comme ça ? répondit la femme.
+
+--- Honteux ! Vous voulez rire, la mère ! J'ai un gosse à la niche, moi, et il réclame sa pâtée.
+
+--- Et moi, est-ce que je n'en ai pas ? protesta la femme.
+
+--- Si ça vous convient qu'il meure de faim, vous êtes libre. N'empêche que, si demain nous sommes encore ici, c'est moi qui irai trouver le patron, et nous nous expliquerons tous les deux. On ne peut pas y rester tous pour l'agrément de cette demoiselle, quand le diable y serait !
+
+--- Vous n'êtes qu'un lâche ! dit la femme indignée. Moi aussi, j'en ai, des gosses, mais j'aimerais mieux les voir en terre que de faire cette saleté-là.
+
+--- Chacun son goût, conclut l'ouvrier.
+
+Nous verrons ça demain.
+
+Jane Buxton avait chancelé, frappée en plein coeur. Voici maintenant qu'on parlait d'elle sans se gêner, et que, dans l'opinion de tous ces malheureux, elle était décidément l'unique cause de leurs souffrances ! Cette idée lui était intolérable. Que faire, pourtant, pour leur démontrer qu'ils se trompaient ?
+
+Heure par heure, minute par minute, cette journée du 5 mai s'écoula à son tour. Le soleil se coucha. La nuit vint. Pour la troisième fois depuis le départ de Tongané, de gros nuages masquaient la lune et l'obscurité était profonde. Le nègre profiterait-il de cette circonstance favorable et donnerait-il enfin le signal attendu ?
+
+Bien qu'on ne l'espérât guère, tous les yeux étaient fixés, comme chaque soir, sur cet angle de la muraille, d'où ce signal devait venir. Sept heures, huit heures, huit heures et demie sonnèrent à l'horloge de l'Usine. On attendait toujours en vain.
+
+Quelques minutes après la demie de huit heures, un frémissement parcourut la foule anxieuse des assiégés. Non, Tongané ne les avait pas abandonnés. Au-dessus de la muraille du quartier noir, le signal venait d'apparaître enfin !
+
+Sans perdre un instant, on agit. Sur l'ordre de Camaret, un bizarre engin fut transporté au sommet de l'échafaudage. C'était un canon, un véritable canon, sans roues ni affût, mais c'était un canon en bois. Dans l'âme de cette bombarde étrange, faite avec le tronc évidé d'un rônier, on introduisit un projectile, qu'un puissant jet d'air comprimé lança silencieusement dans l'espace.
+
+Avec lui, il entraînait une double cordelette d'acier munie d'un crampon, qui, si tout allait bien, s'accrocherait à la crête de la muraille du quartier des esclaves.
+
+Poids du projectile, pression de l'air propulseur, pointage du canon, forme et position du crampon, tout avait été méticuleusement calculé par Camaret, qui ne laissa à personne le soin de manoeuvrer sa singulière artillerie.
+
+Silencieusement, le projectile traversa le quai, la rivière, le quartier des Merry Fellows et retomba dans celui des Noirs. Avait-on réussi, et le crampon était-il fixé à la muraille ?
+
+Camaret fit mouvoir prudemment le tambour sur lequel la cordelette d'acier était enroulée. Bientôt, celle-ci se tendit et résista à ses efforts. Oui, la tentative était couronnée de succès. Désormais, un chemin aérien unissait les assiégés aux esclaves.
+
+Par ce chemin, le transport des armes commença aussitôt. Un paquet d'explosifs, d'abord, puis quatre mille couteaux, haches ou piques, furent successivement envoyés. Avant onze heures, l'opération était terminée. Tous quittèrent alors l'échafaudage, et, s'armant au hasard de ce qui leur tombait sous la main, se massèrent derrière la grande porte. Réunis en un groupe compact, les femmes au centre, on se tint prêt à intervenir au moment opportun.
+
+Quelqu'un manquait, pourtant, à ce groupe : une femme, Jane Buxton. Saint-Bérain, Amédée Florence, Barsac et le docteur Châtonnay crièrent inutilement son nom à tous les échos et la cherchèrent vainement de tous côtés. Ils ne purent la découvrir.
+
+Aidés de plusieurs ouvriers de bonne volonté, ils recommencèrent encore leurs recherches sans plus de succès. L'Usine fut, sans résultat, fouillée de fond en comble.
+
+Il leur fallut enfin se rendre à l'évidence. Jane Buxton avait disparu.
+
+]
+
+L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+]

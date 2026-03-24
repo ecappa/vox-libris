@@ -1,0 +1,21 @@
+]{.calibre20}
+
+
+LES CINQ CENTS MILLIONS DE LA BÉGUM
+
+
+]{.calibre20}
+
+## []{#_Toc349730720 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730373 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729830 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729445 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728902 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728517 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727974 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727387 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727002 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726459 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726074 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725727 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725380 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725033 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349724686 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 20 -- Conclusion]{#_Toc349724143 .pcalibre .pcalibre4 .pcalibre3} {#calibre_toc_64 .calibre21}
+
+France-Ville, débarrassée de toute inquiétude, en paix avec tous ses voisins, bien administrée, heureuse, grâce à la sagesse de ses habitants, est en pleine prospérité. Son bonheur, si justement mérité, ne lui fait pas d'envieux, et sa force impose le respect aux plus batailleurs.
+
+La Cité de l'Acier n'était qu'une usine formidable, qu'un engin de destruction redouté sous la main de fer de Herr Schultze ; mais, grâce à Marcel Bruckmann, sa liquidation s'est opérée sans encombre pour personne, et Stahlstadt est devenue un centre de production incomparable pour toutes les industries utiles.
+
+Marcel est, depuis un an, le très heureux époux de Jeanne, et la naissance d'un enfant vient d'ajouter à leur félicité.
+
+Quant à Octave, il s'est mis bravement sous les ordres de son beau-frère, et le seconde de tous ses efforts. Sa sœur est maintenant en train de le marier à l'une de ses amies, charmante d'ailleurs, dont les qualités de bon sens et de raison garantiront son mari contre toutes rechutes.
+
+Les vœux du docteur et de sa femme sont donc remplis, et, pour tout dire, ils seraient au comble du bonheur et même de la gloire, -- si la gloire avait jamais figuré pour quoi que ce soit dans le programme de leurs honnêtes ambitions.
+
+On peut donc assurer dès maintenant que l'avenir appartient aux efforts du docteur Sarrasin et de Marcel Bruckmann, et que l'exemple de France-Ville et de Stahlstadt, usine et cité modèles, ne sera pas perdu pour les générations futures.

@@ -1,0 +1,128 @@
+### [[Chapitre 5 -- Nouvelle prison]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942918 .pcalibre2 .pcalibre1} {#chapitre-5-nouvelle-prison .calibre171 .sigil_not_in_toc}
+
+Non seulement Tongané n\'était pas mort, mais, ainsi qu\'il l\'expliqua plus tard, il n\'avait même pas été blessé, lors de la surprise de Koubo. Les rayons des projecteurs ne l\'ayant pas atteint, il avait pu se glisser inaperçu sous le couvert des arbres, et les assaillants ne s\'étaient pas occupés de lui. En agissant ainsi, Tongané n\'avait jamais eu l\'intention d\'abandonner ses maîtres, et cela d\'autant moins que Malik était avec eux. Il n\'avait en vue que de leur venir en aide, au contraire, mais il avait justement pensé qu\'il serait mieux à même de le faire, s\'il conservait sa liberté.
+
+Loin de prendre la fuite, il s\'était attaché aux ravisseurs. Il les avait rejoints à la piste, puis, au prix de privations sans nombre pendant la traversée du désert, il avait suivi pas à pas ceux d\'entre eux qui emmenaient Malik à Blackland, ne vivant guère que des miettes qu\'il ramassait aux endroits où ils avaient fait halte avant lui. À pied, il avait marché aussi vite que leurs chevaux, et quotidiennement abattu une cinquantaine de kilomètres.
+
+Il ne s\'était laissé volontairement distancer qu\'aux approches immédiats de Blackland. Dès qu\'on avait pénétré dans une campagne cultivée, il s\'était arrêté, et avait attendu la nuit pour se risquer sur ce territoire inconnu. Jusqu\'au matin, il s\'était caché dans un buisson touffu. Se mêlant alors à la foule des nègres, comme eux il avait travaillé la terre, comme eux il avait reçu les coups de trique dont les gardiens n\'étaient pas avares, et, le soir, il était rentré avec eux dans le quartier central, sans que personne fît attention à lui.
+
+Quelques jours s\'étaient passés ainsi, pendant lesquels il avait dérobé cette corde dans une case déserte.
+
+Muni de son butin, il avait réussi, en suivant le Civil Body, à gagner la rivière, où, pendant deux longues journées, il s\'était dissimulé sous la voûte d\'un égout, en guettant l\'occasion favorable.
+
+Pendant ces deux jours, il avait vu, chaque soir, les prisonniers aller et venir sur la plate-forme du bastion, mais il s\'était vainement efforcé d\'attirer leur attention. L\'occasion attendue ne s\'était présentée que le troisième jour, le 8 avril. De gros nuages rendant la nuit très obscure, il en avait profité pour sortir de sa cachette et pour lancer à ses maîtres la corde dont il s\'était ensuite servi pour arriver jusqu\'à eux.
+
+Comme on peut le penser, ces explications ne furent données que plus tard. Sur le moment, Tongané se contenta de suggérer que tout le monde pourrait sans doute s\'enfuir par le même chemin que lui-même avait suivi pour venir. En bas, on trouverait un bateau dont il était parvenu à s\'emparer, et on n\'aurait plus ensuite qu\'à descendre la Red River.
+
+Ce projet fut adopté sans discussion, il est inutile de le dire. Avec quatre hommes aux avirons, on ferait bien, le courant aidant, six miles à l\'heure. Si donc on partait avant onze heures, on aurait franchi à l\'aube plus de soixante-quinze kilomètres, c\'est-à-dire qu\'on aurait dépassé depuis longtemps, non seulement la zone de protection située dans le champ du cycloscope, à la surveillance duquel on réussirait sans doute à échapper, en se tenant à l\'abri des rives, mais aussi la limite des terres cultivées et même le dernier des postes élevés en plein désert. Il suffirait ensuite, pour ne pas être aperçus par les planeurs, de se cacher, le jour durant, dans une anfractuosité quelconque, et de reprendre la navigation les nuits suivantes, jusqu\'au moment où l\'on aurait atteint le Niger.
+
+La Red River devant s\'y jeter dans les environs de Bikini, village en aval de Saye, puisqu\'elle épousait l\'ancien lit de l\'oued Tafasasset, il s\'agissait donc d\'un voyage de quatre cent cinquante kilomètres au total, qui exigerait de quatre à cinq nuits de navigation.
+
+Ce plan, rapidement discuté, fut rapidement adopté. Avant de le mettre en exécution, toutefois, il convenait de se débarrasser de Tchoumouki. Il arrivait parfois que le nègre s\'éternisât, le soir, dans la galerie ou sur la plate-forme. On ne pouvait attendre son bon plaisir. Il fallait agir, et agir vite.
+
+Laissant Jane Buxton, l\'inutile M. Poncin et Tongané sur le sommet du bastion, les autres prisonniers s\'engagèrent dans l\'escalier. Dès les premières marches, ils virent, à l\'étage inférieur, Tchoumouki en train de finir avec une sage lenteur son travail de la journée. Il ne s\'occupa nullement de la présence des quatre hommes, dont il n\'avait, d\'ailleurs, aucune raison de se méfier. Ceux-ci purent donc s\'approcher de lui sans éveiller son attention.
+
+Conformément au plan préalablement arrêté, ce fut Saint-Bérain qui dessina l\'attaque. Ses mains robustes se nouèrent tout à coup à la gorge du nègre, qui n\'eut pas le temps de pousser un cri. Les trois autres saisirent alors par les bras et les jambes le coquin, qui fut ligoté et bâillonné soigneusement. On le déposa enfin dans une cellule, qu\'on verrouilla, et dont la clé fut jetée dans la Red River. Ainsi serait retardée, autant qu\'il était possible, la découverte de l\'évasion.
+
+En remontant sur la plate-forme, cette première opération terminée, les quatre Européens y furent assaillis par une pluie diluvienne.
+
+Comme on l\'avait prévu, les gros nuages se résolvaient en eau, et il tombait du ciel de véritables cataractes que chassaient de violentes rafales. La chance se déclarait décidément pour les fugitifs. La vue était arrêtée à vingt mètres par cet écran liquide, et c\'est à peine si on distinguait, confuses et vagues, les lumières du quartier des Merry Fellows allumées sur l\'autre rive.
+
+La descente commença aussitôt et s\'effectua sans incident. L\'un après l\'autre, Amédée Florence le premier, Tongané le dernier, les fugitifs se laissèrent glisser le long de la corde, dont l\'extrémité inférieure était fixée à une embarcation de taille suffisante pour les contenir tous. On proposa en vain à Jane Buxton de l\'attacher. Elle s\'y refusa énergiquement et tint à prouver que son habileté sportive était égale à celle de ses compagnons.
+
+Avant de quitter la plate-forme, Tongané eut le soin de délier la corde du créneau où elle était fixée et autour duquel il ne laissa subsister qu\'un demi-tour. En réunissant ensuite les deux parties dans ses mains, il descendit, rejoignit ses compagnons, et ramena toute la corde à lui en tirant sur l\'un des brins. Il ne restait ainsi aucune trace de l\'évasion.
+
+Un peu après dix heures, l\'amarre fut larguée, et l\'embarcation, entraînée par le courant, commença à dériver. Les fugitifs se tenaient tapis derrière les bordages, la tête au ras du plat-bord. Quand ils seraient hors de la ville, dont la muraille extérieure était distante de six cents mètres à peine, ils se mettraient aux avirons, et la vitesse serait augmentée. Jusque-là, bien que la pluie torrentielle formât un impénétrable rideau, mieux valait éviter de se montrer.
+
+Quelques minutes s\'écoulèrent, et déjà on s\'estimait au-delà de l\'enceinte, quand l\'embarcation heurta un obstacle et fut subitement immobilisée.
+
+À tâtons les fugitifs constatèrent avec désespoir qu\'elle s\'était arrêtée contre une grille de fer très élevée, garnie de panneaux de tôle dans sa partie supérieure, et dont la base disparaissait sous l\'eau. Vainement ils se déhalèrent le long de cette grille. Ses extrémités allaient se souder à la muraille extérieure, limitant, d\'un côté, les quartiers du Civil Body et des Merry Fellows, de l\'autre, le chemin de ronde ménagé autour de l\'enceinte particulière de l\'Usine. Force leur fut de reconnaître que l\'impasse était sans issue.
+
+Harry Killer avait raison. Ses précautions étaient bien prises. Libre pendant le jour, le cours de la Red River était barré pendant la nuit.
+
+Un long moment s\'écoula avant que les fugitifs consternés eussent repris courage. Profondément abattus, ils ne sentaient pas la pluie qui les inondait et se laissaient tremper jusqu\'aux os sans en avoir conscience. Revenir en arrière, se présenter l\'oreille basse à la porte du Palais, et tendre eux-mêmes leurs mains aux entraves ? Ils n\'arrivaient pas à s\'y résoudre. Et cependant, que pouvaient-ils faire ? Franchir ces panneaux de tôle qui n\'offraient aucune saillie était, de toute évidence, impossible. À fortiori ne fallait-il pas songer à transporter l\'embarcation par-dessus l\'obstacle. Or, sans embarcation, fuir devenait irréalisable. Quant à prendre pied sur l\'une des rives, à gauche c\'était l\'Usine, et les Merry Fellows à droite. De tous côtés, la route était fermée.
+
+--- Nous n\'allons pas coucher ici, j\'imagine, dit enfin Amédée Florence.
+
+--- Où voulez-vous que nous allions ? demanda Barsac fort embarrassé.
+
+--- N\'importe où, excepté chez S. M. Harry Killer, répliqua le reporter.
+
+Puisque nous n\'avons pas l\'embarras du choix, pourquoi n\'essaierions-nous pas de louer un nouvel appartement dans ce bâtiment qu\'on désigne, paraît-il, sous le nom d\'Usine ?
+
+C\'était à tenter, en effet. Peut-être, dans ce microcosme si différent du reste de la ville, trouverait-on du secours. La situation ne pouvant, en aucun cas, être rendue pire, on ne risquait rien à l\'essayer.
+
+On se déhala donc vers la rive gauche, où l\'on accosta au coin de l\'enceinte, dans la partie aval, par conséquent, du chemin de ronde, large de cinquante mètres environ, existant autour de l\'Usine. Si opaque était le rideau de pluie, qu\'à cette faible distance de cinquante mètres on n\'apercevait même pas celle-ci.
+
+Bien que le vacarme des éléments déchaînés dût dominer tous les bruits aussi sûrement que le tourbillon des gouttes d\'eau arrêtait la vue, on s\'engagea avec circonspection sur ce chemin de ronde, qu\'on était dans l\'obligation de traverser.
+
+À mi-route, on fit halte.
+
+On commençait alors à distinguer, à une vingtaine de mètres tout au plus, l\'angle où se soudaient les murailles ouest et nord de l\'Usine, celle-ci arrivant de la droite, parallèlement à l\'enceinte de la ville, celle-là se prolongeant vers l\'amont, en bordure de la Red River. Contrairement à la façade du Palais orientée de la même manière, cette dernière partie de la muraille ne tombait pas directement dans l\'eau, dont un assez large quai la séparait.
+
+Les lieux reconnus, les fugitifs ne se décidaient pas encore à se remettre en marche.
+
+C\'est qu\'ils avaient aperçu, à l\'angle même du mur de l\'Usine, un objet des plus inquiétants : une guérite, dont les lignes classiques se dessinaient confusément à travers la pluie. Or, toute guérite implique un factionnaire, et, si on ne voyait pas celui-ci, c\'est, on devait du moins le supposer, qu\'il avait cherché refuge dans la sienne.
+
+Cependant, on ne pouvait s\'éterniser dans cet endroit. C\'eût été le meilleur moyen d\'être surpris, dans le cas où la sentinelle présumée fût sortie de son abri, comme dans le cas où la pluie eût cessé à l\'improviste.
+
+Faisant signe à ses compagnons de le suivre, Amédée Florence remonta pendant quelques mètres le chemin de ronde, en s\'éloignant de la Red River, puis il acheva de le traverser, et revint sur ses pas en longeant le mur de l\'Usine. De cette manière, on prendrait à revers la guérite, dont l\'ouverture était vraisemblablement du côté de la rivière.
+
+Arrivés à l\'angle du mur, on s\'arrêta de nouveau pour tenir conseil, puis, tout étant bien convenu, Amédée Florence, Saint-Bérain et Tongané tournèrent le coin, s\'engagèrent sur le quai, et coururent jusqu\'à la guérite, dans laquelle ils se jetèrent impétueusement.
+
+Un homme, un Merry Fellow, s\'y trouvait en effet. Surpris par cette attaque soudaine, que rien ne lui permettait de soupçonner, il n\'eut pas le temps de faire usage de ses armes, et le cri qu\'il poussa se perdit dans la rafale. Déjà Saint-Bérain, le prenait à la gorge et le terrassait, comme il avait terrassé Tchoumouki. Le Blanc s\'écroula comme s\'était écroulé le nègre.
+
+Tongané courut alors au bateau, d\'où il rapporta la corde, avec laquelle le Merry Fellow fut congrûment ficelé, puis, sans plus attendre, les fugitifs remontèrent la rivière dans la direction du Palais, en longeant, l\'un derrière l\'autre, le mur de l\'Usine.
+
+L\'une des singularités de cette usine, c\'était une absence jusqu\'ici complète d\'ouvertures donnant sur l\'extérieur. Du côté de l\'esplanade, il n\'en existait pas, ainsi qu\'on avait pu le constater du sommet du bastion. Du côté opposé, on n\'en avait pas aperçu davantage, aussi loin que les regards avaient réussi à percer l\'épais rideau de pluie. Et il semblait bien qu\'il en fût de même pour cette façade nord qui donnait sur la rivière.
+
+Pourtant, puisqu\'on avait fait un quai, ce quai devait servir à quelque chose. Or, à quoi pouvait-il servir, sinon à décharger des marchandises apportées par des bateaux ? Il existait donc nécessairement un moyen quelconque de les introduire dans l\'Usine. Ce raisonnement était juste. Après avoir parcouru cent cinquante mètres, les fugitifs découvrirent, en effet, une porte à double battant, paraissant faite de lames de fer aussi rigides et aussi épaisses que des plaques de cuirasse. Comment ouvrir cette porte qui ne possédait aucune serrure extérieure ? Comment l\'ébranler ? Comment même attirer l\'attention des habitants, sans attirer en même temps celle des autres sentinelles qui, selon toute vraisemblance, montaient la garde aux environs ?
+
+À côté de cette porte cochère, à quelques pas en aval, il en existait une autre, de construction identique, mais beaucoup plus petite et ne comportant qu\'un seul battant, que traversait le canon d\'une serrure. En l\'absence de clé, voire de tout instrument pouvant servir à la crocheter, cette particularité n\'avançait pas à grand-chose.
+
+Après de longues hésitations, les fugitifs allaient se résoudre à heurter cette porte avec leurs poings, et, au besoin, avec leurs pieds, quand une ombre, venant de l\'esplanade, apparut en amont.
+
+Indécise au milieu de ces torrents de pluie, l\'ombre se dirigeait de leur côté. Or, le quai n\'ayant d\'autre issue que le chemin de ronde, qui, après avoir fait le tour de l\'Usine, revenait à l\'esplanade d\'où arrivait le promeneur nocturne, il y avait chance que la destination de celui-ci fût l\'une des deux portes ouvrant sur ce quai.
+
+Les fugitifs, à qui le temps manquait pour reculer, s\'effacèrent de leur mieux dans l\'embrasure de la porte cochère, se tenant prêts à bondir sur l\'intrus au moment opportun.
+
+Mais celui-ci s\'avançait avec tant d\'insouciance, il passa devant eux, à les toucher, en faisant montre d\'une si parfaite ignorance de leur présence, qu\'ils renoncèrent à un acte de violence dont la nécessité n\'était rien moins que démontrée. Enhardis par l\'extraordinaire aveuglement du promeneur, ils lui emboîtèrent le pas à tour de rôle, au fur et à mesure qu\'il dépassait chacun d\'eux, si bien que lorsque celui-ci s\'arrêta, comme on l\'avait prévu, devant la plus petite des deux portes, et qu\'il introduisit la clé dans la serrure, il avait derrière lui, rangés en demi-cercle, huit spectateurs attentifs, dont il ne soupçonnait pas l\'existence.
+
+La porte s\'ouvrit. Bousculant sans scrupule celui qui l\'avait ouverte, les fugitifs se ruèrent à sa suite, et le dernier d\'entre eux repoussa le battant, qui se referma en faisant un bruit sourd.
+
+Ils se trouvèrent alors dans une obscurité profonde, d\'où s\'élevait une voix douce, qui prononçait, sur un ton exprimant quelque surprise, des exclamations dont la modération ne laissait pas d\'être assez surprenante.
+
+--- Eh bien ! disait cette voix. [Qu\'est-ce que cela signifie ?\... Que me veut-on \... Qu\'y a-t-il ?\...]{style="font-size: 1em; text-indent: 20pt;"}
+
+Tout à coup brilla une faible lumière, qui parut éclatante dans ces épaisses ténèbres.
+
+Jane Buxton avait eu l\'idée de faire jouer la lampe électrique de poche qui lui avait déjà rendu un service signalé à Kokoro. Dans le cône de lumière, apparurent à la fois Tongané et, en face de lui, un homme fluet, aux cheveux d\'un blond pâle, aux vêtements ruisselants d\'eau, qui, un peu essoufflé, s\'appuyait à la muraille.
+
+En s\'apercevant mutuellement, Tongané et l\'homme blanc poussèrent simultanément, mais sur un mode fort différent, une exclamation analogue.
+
+--- Le sergent Tongané ! dit le second, avec la même voix douce et le même accent de surprise modérée.
+
+--- Mossié Camaret ! s\'écria le nègre en roulant des yeux effarés.
+
+Camaret !\... Jane Buxton tressaillit, en entendant ce nom, qu\'elle connaissait bien, ce nom d\'un ancien compagnon de son frère.
+
+Cependant, Amédée Florence jugea opportun d\'intervenir. Puisqu\'on se trouvait en pays de connaissance, on pouvait brusquer les présentations. Il fit un pas en avant et entra dans le cône de lumière.
+
+--- Monsieur Camaret, dit-il, mes compagnons et moi serions désireux de vous parler.
+
+--- Rien n\'est plus facile, répondit Camaret sans s\'émouvoir. Il toucha un bouton, et des ampoules électriques brillèrent au plafond. Les fugitifs reconnurent qu\'ils étaient dans une pièce voûtée que ne garnissait aucun objet d\'ameublement. Quelque vestibule, selon toute vraisemblance.
+
+Marcel Camaret ouvrit une porte, derrière laquelle s\'amorçait un escalier, et, s\'effaçant :
+
+--- Si vous voulez prendre la peine d\'entrer, dit-il, avec une parfaite simplicité.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}

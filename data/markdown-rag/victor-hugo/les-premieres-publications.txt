@@ -1,0 +1,55 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "LES PREMIÈRES PUBLICATIONS:"
+slug_oeuvre: "les-premieres-publications"
+type: "oeuvre-complete"
+---
+
+# LES PREMIÈRES PUBLICATIONS
+(1817-1822)
+
+!
+
+(Poèmes qui ont d'abord fait l'objet de publications séparées)
+
+!
+
+## Table des matières
+BONHEUR QUE PROCURE L'ÉTUDE
+
+LA CANADIENNE
+
+LE TÉLÉGRAPHE
+
+L'ENRÔLEUR POLITIQUE
+
+L'AVARICE ET L'ENVIE
+
+ÉPÎTRE À BRUTUS
+
+ACHÉMÉNIDE
+
+L'ANTRE DES CYCLOPES
+
+CÉSAR PASSE LE RUBICON
+
+IMITATION D'OWEN
+
+À LYDIE
+
+CE QUE J'AIME
+
+LE VIEILLARD DU GALÈSE
+
+DISCOURS SUR LES AVANTAGES DE L'ENSEIGNEMENT MUTUEL
+
+LE 4 NOVEMBRE 1820 -- SAINT-CHARLES
+
+POÉSIES DIVERSES
+
+RAYMOND D'ASCOLI
+
+IDYLLE
+
+LES DERNIERS BARDES

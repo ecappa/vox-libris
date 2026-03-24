@@ -1,0 +1,248 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE CHÂTEAU DES CARPATHES",
+  "slug": "le-chateau-des-carpathes",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 1426,
+      "spine_end_exclusive": 1427,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_305.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 1427,
+      "spine_end_exclusive": 1428,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_306.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 1428,
+      "spine_end_exclusive": 1429,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_307.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 1429,
+      "spine_end_exclusive": 1430,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_308.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 1430,
+      "spine_end_exclusive": 1431,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_309.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 1431,
+      "spine_end_exclusive": 1432,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_310.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 1432,
+      "spine_end_exclusive": 1433,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_311.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 1433,
+      "spine_end_exclusive": 1434,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_312.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 1434,
+      "spine_end_exclusive": 1435,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_313.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 1435,
+      "spine_end_exclusive": 1436,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_314.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 1436,
+      "spine_end_exclusive": 1437,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_315.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 1437,
+      "spine_end_exclusive": 1438,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_316.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 1438,
+      "spine_end_exclusive": 1439,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_317.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 1439,
+      "spine_end_exclusive": 1440,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_318.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 1440,
+      "spine_end_exclusive": 1441,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_319.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16",
+      "slug": "chapitre-16",
+      "is_part": false,
+      "spine_start": 1441,
+      "spine_end_exclusive": 1442,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_320.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17",
+      "slug": "chapitre-17",
+      "is_part": false,
+      "spine_start": 1442,
+      "spine_end_exclusive": 1443,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_321.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18",
+      "slug": "chapitre-18",
+      "is_part": false,
+      "spine_start": 1443,
+      "spine_end_exclusive": 1444,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_322.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/le-chateau-des-carpathes/image005.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image006.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image007.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image008.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image009.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image010.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image011.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image012.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image013.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image014.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image015.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image016.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image017.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image018.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image019.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image020.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image021.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image022.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image023.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image024.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image025.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image026.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image027.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image028.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image029.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image030.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image031.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image032.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image033.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image034.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image035.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image036.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image037.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image038.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image039.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image040.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image041.jpg",
+    "images/jules-verne/le-chateau-des-carpathes/image301.jpg"
+  ]
+}

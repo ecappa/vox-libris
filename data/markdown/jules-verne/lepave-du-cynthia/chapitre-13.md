@@ -1,0 +1,141 @@
+]{.calibre20}
+
+
+ROMAN
+
+L\'ÉPAVE DU CYNTHIA
+
+
+]{.calibre20}
+
+## [[Chapitre 13 -- Appuyons au sud-ouest]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943070 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_178 .calibre21}
+
+Le lendemain, l\'*Alaska* entrait en rade de Brest. Son avarie n\'était heureusement pas grave. Un ingénieur, immédiatement appelé, promit que tout serait réparé dans trois jours. C\'était donc un retard de peu d\'importance et qu\'on allait compenser dans une certaine mesure en faisant du charbon -- ce qui dispenserait de relâcher à Gibraltar, comme on en avait d\'abord l\'intention. Le prochain arrêt se trouvant ainsi remis à Malte, on gagnait vingt-quatre heures de ce chef ; cela réduisait à deux jours le retard réel. Or, l\'itinéraire de l\'*Alaska* donnait à l\'imprévu une marge de trente jours au moins. Il n\'y avait donc pas lieu de s\'inquiéter, et tout le monde se sentait désormais en disposition de prendre ce contretemps le plus philosophiquement du monde.
+
+Bientôt il fut évident que le contretemps allait se transformer en fête. En quelques heures, l\'arrivée de l\'*Alaska* s\'était répandue dans la ville, et, comme on connaissait par les journaux le but de son voyage, l\'état-major du navire suédois ne tarda pas à se trouver l\'objet des démonstrations les plus flatteuses. L\'amiral-préfet maritime et le maire de Brest, le commandant du port et ceux des navires en rade vinrent officiellement visiter le capitaine Marsilas. Un dîner et un bal furent offerts aux hardis explorateurs qui partaient à la recherche de Nordenskjöld. Si peu épris que fussent le docteur et M. Malarius de ces réunions mondaines, il fallut bien paraître à la table qui se dressait pour eux. Quant à M. Bredejord, il était là dans son véritable élément.
+
+Parmi les convives du préfet, invités pour faire honneur à l\'état-major de l\'*Alaska*, se trouvait un grand vieillard à la physionomie fine et mélancolique. Il fut bientôt remarqué par Erik, qui lut, dans son regard un peu triste, une sympathie à laquelle il ne pouvait se méprendre. C\'était M. Durrien, consul général honoraire, membre militant de la Société de géographie, bien connu par ses voyages en Asie Mineure et au Soudan. Erik en avait lu la relation avec un très vif intérêt. Il en parla au savant français en homme compétent, quand on les eut présentés l\'un à l\'autre. Or, si légitimes que pussent être les satisfactions de cet ordre, elles ne sont pas souvent le lot des voyageurs. Il peut leur arriver, quand leurs aventures font du bruit, de récolter l\'admiration banale de la foule ; il leur arrive moins souvent de voir leurs travaux appréciés, dans un salon, par des juges bien informés. La respectueuse curiosité du jeune lieutenant alla droit au coeur du vénérable géographe et mit un sourire sur ses lèvres pâles.
+
+« Je n\'ai pas eu grand mérite à ces découvertes, dit-il en réponse à quelques mots d\'Erik sur des fouilles heureuses, récemment exécutées aux environs d\'Assouan. J\'allais droit devant moi, en homme qui cherche à oublier des peines cruelles et qui se soucie peu des résultats, pourvu qu\'il se livre aux travaux de son goût. Le hasard a fait le reste... »
+
+Voyant Erik et Durrien si bons amis, l\'amiral eut soin de les faire placer l\'un près de l\'autre à table, de sorte que leur causerie se poursuivît tout le temps du dîner.
+
+Comme on prenait le café, le lieutenant de l\'*Alaska* se vit entrepris par un petit homme chauve, qui lui avait été présenté sous le nom du docteur Kergaridec, lequel lui demanda de but en blanc quel était son pays. D\'abord un peu surpris de la question, Erik répondit qu\'il était suédois, ou, pour parler plus exactement, norvégien, et que sa famille habitait le gouvernement de Bergen. Puis il désira connaître le motif de cette demande.
+
+« Le motif est fort simple, lui répondit son interlocuteur. Voilà une heure que je me permets de vous considérer par-dessus la table, tout en dînant, et je n\'ai vu nulle part le type celte aussi nettement accusé que chez vous !... Il faut vous dire que je suis fort adonné aux études celtiques !... Or, voici la première fois qu\'il m\'arrive de rencontrer le type celte chez un Scandinave ! Peut-être y a-t-il là une indication précieuse pour la science, et faut-il classer la Norvège parmi les régions visitées par nos ancêtres gaëls ! »
+
+Erik allait sans doute expliquer au savant brestois les raisons qui infirmaient la valeur de cette hypothèse, quand le docteur Kergaridec se détourna pour adresser ses hommages à une dame qui venait d\'entrer dans le salon du préfet maritime, et l\'entretien en resta là. Le jeune lieutenant de l\'*Alaska* n\'aurait même plus pensé à cet incident, si le lendemain, en passant dans une rue voisine d\'un marché, M. Schwaryencrona ne lui avait dit tout à coup, à la vue d\'un bouvier du Morbihan :
+
+« Mon cher enfant, si j\'avais pu conserver un doute sur ton origine celtique, je le perdrais ici ! Vois donc comme tous ces Bretons te ressemblent !... Comme ils ont ton teint mat, ton crâne osseux, tes yeux bruns, tes cheveux noirs et jusqu\'à ton attitude générale !... Bredejord en dira ce qu\'il voudra, mais tu es un Celte pur sang, sois-en sûr ! »
+
+Erik conta alors ce que lui avait dit la veille le docteur Kergaridec. Et M. Schwaryencrona en fut si ravi, qu\'il ne parla d\'autre chose pendant tout le jour.
+
+Comme les autres passagers de l\'*Alaska*, Tudor Brown avait reçu et accepté l\'invitation du préfet maritime. On put même croire un instant qu\'il allait s\'y rendre dans son costume habituel, car c\'est ainsi qu\'il s\'était fait débarquer à l\'heure du dîner. Mais, sans doute, la nécessité d\'ôter son précieux chapeau lui parut trop dure, et, au moment même de franchir la porte de son hôte, il rebroussa chemin. On ne le vit plus de la soirée.
+
+En rentrant après le bal, où il avait dansé fort et ferme, Erik apprit d\'Hersebom que Tudor Brown était revenu vers sept heures et avait dîné seul. Après quoi il avait pénétré dans l\'appartement du commandant pour consulter une carte marine ; puis, il était reparti vers huit heures dans le canot qui l\'avait ramené de terre.
+
+Ce furent les dernières nouvelles qu\'on eut de lui.
+
+Le lendemain soir, à cinq heures, Tudor Brown n\'avait pas reparu. Il savait pourtant que les réparations de la machine devaient être terminées, les feux rallumés, et que le départ de l\'*Alaska* ne pouvait être retardé. Le commandant avait pris soin d\'en avertir tout le monde. Il donna donc l\'ordre de lever l\'ancre.
+
+Le navire allait larguer ses amarres, quand un canot, lancé à toute vitesse, fut signalé, venant du quai. Tout le monde crut qu\'il portait Tudor Brown. On vit bientôt qu\'il s\'agissait seulement d\'une lettre. À la surprise générale, cette lettre était adressée à Erik.
+
+En l\'ouvrant, Erik constata qu\'elle contenait simplement la carte de M. Durrien, consul général honoraire, membre de la Société de géographie, avec ces mots au crayon :
+
+« Bon voyage !... Prompt retour !... »
+
+Explique qui pourra ce qui se passa dans l\'âme d\'Erik. Cette attention d\'un savant aimable et distingué lui alla au coeur et fit monter une larme à ses yeux. En quittant cette terre hospitalière, qu\'il connaissait depuis trois jours à peine, il lui semblait quitter une patrie. Il serra la carte de M. Durrien dans son carnet, en se disant que cet adieu d\'un vieillard lui porterait bonheur.
+
+Deux minutes plus tard, l\'*Alaska* se mettait en mouvement et s\'avançait vers le goulet. À six heures, il l\'avait franchi, et le pilote lui souhaitait bon voyage.
+
+On était au 20 février. Le temps était clair. Le soleil avait disparu sous une ligne d\'horizon aussi nette qu\'en un jour d\'été. Mais la nuit montait, et bientôt elle allait être profonde, car la lune ne devait se lever qu\'à dix heures du soir. Erik, de service pendant le premier quart, se promenait d\'un pas léger sur le gaillard d\'arrière. Il lui semblait qu\'avec Tudor Brown le mauvais génie de l\'expédition avait disparu.
+
+« Pourvu qu\'il n\'aille pas s\'aviser de nous rejoindre à Malte ou à Suez ! » se disait-il.
+
+Et c\'était en effet possible -- probable même, si Tudor Brown avait voulu s\'épargner le long détour que l\'*Alaska* devait faire pour se rendre en Égypte. Pendant que le navire allait contourner la France et l\'Espagne, il pouvait, si bon lui semblait, se donner une semaine de séjour à Paris ou sur tout autre point du trajet par terre, et rejoindre ensuite l\'*Alaska* par la malle des Indes, soit à Alexandrie ou à Suez, soit même à Aden, à Colombo de Ceylan, à Singapour ou à Yokohama.
+
+Mais enfin ce n\'était qu\'une possibilité. La réalité du moment, c\'est qu\'il ne se trouvait plus là, et il n\'en fallait pas davantage pour mettre tout le monde en gaieté.
+
+Aussi le dîner, qui eut lieu à six heures et demie, comme à l\'ordinaire, fut-il le plus cordial qu\'on eût encore vu. Au dessert, on but au succès de l\'expédition, que chacun associait, plus ou moins distinctement, au fond de sa pensée, avec l\'absence de Tudor Brown. Puis on monta sur le pont pour fumer un cigare.
+
+La nuit était profonde. Au loin, vers le nord, on voyait briller le feu du cap Saint-Mathieu, celui des Pierres-Noires ou celui d\'Ouessant. Vers le sud, on laissait à l\'arrière le grand feu fixe du Bec-du-Raz et le feu clignotant à éclipses de Tevennec. Le petit feu fixe de la falaise du Bec-du-Raz, qui n\'éclaire que deux secteurs, l\'un de 41 degrés, l\'autre de 30, vers l\'ouest, venait d\'être signalé, ce qui montrait qu\'on était en bonne route. Par le travers même de l\'*Alaska*, à bâbord, brillait le feu de Sein, feu à éclats, se succédant de quatre secondes en quatre secondes, précédés et suivis d\'éclipses. Une bonne brise de nord-est accélérait la marche du navire en l\'appuyant fortement sur sa hanche de bâbord. Aussi roulait-il peu, quoique la mer fût assez houleuse.
+
+Comme les dîneurs arrivaient sur le pont, l\'homme de service à l\'arrière achevait de tirer le loch.
+
+« Dix noeuds un quart, dit-il au commandant qui s\'avançait vers lui pour savoir le résultat de l\'opération.
+
+--- C\'est une jolie marche, à laquelle on s\'abonnerait pour cinquante ou soixante jours ! dit le docteur en riant.
+
+--- En effet, répondit le commandant, et nous n\'aurions plus, en ce cas, beaucoup de charbon à brûler pour arriver au détroit de Behring. »
+
+Sur ces mots, il quitta le docteur et redescendit à sa chambre. Là, il choisit, dans un grand casier ouvert sous ses baromètres et ses montres marines, une carte doublée de toile qu\'il déploya sur son bureau, à la vive lueur d\'une énorme lampe Carcel suspendue au plafond. C\'était une carte de l\'amirauté britannique, indiquant tous les détails de la région maritime dite armoricaine et présentement parcourue par l\'*Alaska*, entre le 47 et le 49 degré de latitude nord, le 4 et le 5 degré de longitude ouest de Greenwich. La carte avait près d\'un mètre carré de surface. Les côtes, les îles, les feux fixes et tournants, les bancs de sable, les profondeurs et jusqu\'aux directions à suivre y étaient marqués par le menu. Avec une carte pareille et une boussole, il semblait qu\'un enfant même eût pu guider le plus gros navire dans ces parages pourtant si périlleux, où naguère encore un officier distingué de la marine française, le lieutenant Mage, l\'explorateur du Niger, vint se perdre corps et biens avec tous ses compagnons de la *Magicienne*, après le *Sané* et tant d\'autres.
+
+Le hasard voulait que le commandant Marsilas n\'eût jamais navigué dans ces eaux. En fait, la nécessité seule de relâcher à Brest l\'y avait amené, sans quoi il eût passé fort au large. Aussi ne pouvait-il se fier qu\'à une étude attentive de la carte du soin de rester en bonne route. Mais la chose semblait des plus simples. Laissant sur sa gauche la Pointe-du-Van, le Bec-du-Raz et l\'île de Sein, séjour légendaire des neuf Druidesses, presque toujours voilé par la poussière des lames mugissantes, il n\'avait qu\'à courir droit à l\'ouest, pour virer au sud quand il se trouverait au large. Le feu fixe de l\'île indiquait nettement sa position, et, d\'après la carte, à moins d\'un quart de mille à l\'ouest de ce feu, l\'île finissait à pic par de hautes falaises, bordée par la mer libre à des profondeurs qui atteignaient rapidement cent mètres. Ce point de repère étant précieux par une nuit aussi sombre, le commandant, après un examen minutieux de la carte, se décida à le ranger de plus près qu\'il n\'aurait fait peut-être en plein jour, c\'est-à-dire à trois ou quatre milles au large. Il remonta donc sur le pont, donna un coup d\'oeil à la mer et dit à Erik d\'appuyer de vingt-cinq degrés au sud-ouest.
+
+L\'ordre parut surprendre le jeune lieutenant.
+
+--- J\'ai dit au sud-ouest, répéta un peu séchement le commandant. Cette route n\'est pas de votre goût ?
+
+--- Puisque vous me poser la question, commandant, je dois vous avouer que non, répondit franchement Erik. J\'aurais préféré courir plus longtemps à l\'ouest.
+
+--- À quoi bon ?... Pour perdre une nuit de plus ? »
+
+Le ton du commandant ne permettait pas d\'insister. Erik donna l\'ordre tel qu\'il l\'avait reçu. Après tout, son chef était un marin éprouvé et dans lequel on pouvait avoir pleine confiance.
+
+Si léger qu\'il fût, le changement de direction avait suffi pour modifier sensiblement l\'allure du navire. L\'*Alaska* commençait à rouler fortement et, à chaque embardée, piquait son avant dans la lame. Tout autour de lui, c\'était maintenant un bouillonnement confus de petites vagues à crête blanche. Le loch indiquait quatorze noeuds, et, comme la brise fraîchissait encore, Erik jugea prudent de faire prendre deux ris.
+
+Le docteur et M. Bredejord, en proie à un malaise subit, ne tardèrent pas à descendre dans leurs cabines. Le commandant, qui s\'était pendant quelques minutes promené de long en large sur le pont, fit bientôt comme eux.
+
+Il était à peine arrivé dans sa chambre, quand Erik en personne s\'y présenta.
+
+« Commandant, dit le jeune homme, je viens d\'entendre à bâbord des bruits suspects ! On dirait des lames qui se brisent sur les rochers !... Je me crois en conscience obligé de vous dire qu\'à mon estime nous suivons une route dangereuse !...
+
+--- Décidément, Monsieur, vous avez l\'inquiétude tenace, s\'écria le commandant. Quel danger pouvez-vous craindre tant que nous avons ce feu à trois bons milles de nous, si ce n\'est quatre ? »
+
+Et, d\'un doigt impatient, il montrait sur la carte, toujours étalée sur son bureau, l\'île de Sein, qui se dressait comme une sentinelle avancée à la pointe extrême du musoir breton.
+
+Erik suivit la direction de ce doigt. Il vit clairement qu\'en effet aucun danger n\'était signalé aux abords de l\'île taillée à pic et entourée d\'eaux profondes. Rien ne pouvait être, aux yeux d\'un marin, plus rassurant et plus décisif. Pourtant, ce n\'était pas une illusion, non plus, ces bruits de lames brisées qu\'il avait perçues à sa gauche, c\'est-à-dire sous le vent, et conséquemment à une faible distance.
+
+Chose bizarre, qu\'Erik osait à peine se dire à lui-même, il lui semblait ne pas reconnaître, dans les profils de côtes qu\'il avait sous les yeux, l\'image sinistre et perfide que sa mémoire gardait de ces parages, tels qu\'il les avait vus décrits dans les traités de géographie. Mais quoi ! Opposer une impression fugitive, un vague souvenir, à un fait aussi brutal et aussi précis qu\'une carte de l\'amirauté britannique !... Erik n\'osa pas. Les cartes sont faites précisément pour garantir les navigateurs contre les erreurs ou les illusions de leur mémoire. Il salua son chef et remonta.
+
+Il n\'avait pas encore mis le pied sur la passerelle que ces cris retentirent :
+
+« Brisants à tribord ! » suivis presque aussitôt d\'un second appel : « Brisants à bâbord !... »
+
+Il y eut aussitôt sur le pont un coup de sifflet accompagné d\'un trépignement confus, une série de manoeuvres effectuées l\'une sur l\'autre. L\'*Alaska* ralentit sa marche et fit machine en arrière... Le commandant se précipita vers l\'escalier.
+
+A ce moment, il perçut un bruit sourd qui ressemblait à un froissement de traîneau sur la neige. Soudain une secousse terrible le jeta à la renverse en faisant frémir le navire de la quille à la pointe de ses mâts !... Puis le silence se fit, et l\'*Alaska* resta immobile.
+
+Il venait de se loger comme un coin entre deux rochers sous-marins.
+
+Le commandant Marsilas, la tête ensanglantée par sa chute, se releva pour monter sur le pont. Tout y était dans une confusion inouïe. Les matelots éperdus se précipitaient vers les chaloupes. Les lames se brisaient avec fureur sur cet écueil nouveau que leur opposait le navire naufragé. Les deux yeux lumineux de Tevennec et de l\'île de Sein, ouverts sur l\'*Alaska* avec une fixité implacable, semblaient lui reprocher de s\'être jeté sur les dangers qu\'ils avaient pour fonction de signaler. Erik, debout sur la passerelle et se penchant à tribord, cherchait à percer la nuit du regard et à mesurer l\'étendue du désastre.
+
+« Enfin, Monsieur, qu\'y a-t-il donc ? lui cria le commandant encore à demi étourdi de sa chute.
+
+--- Il y a, Monsieur, qu\'en appuyant au sud-ouest, selon vos ordres, nous nous sommes jetés sur des brisants ! » répliqua Erik.
+
+Le commandant Marsilas ne dit pas un mot. Qu\'aurait-il pu répondre ?... Il tourna sur ses talons et revint vers l\'escalier.
+
+Chose étrange, la situation était tragique et elle ne semblait pas immédiatement périlleuse. L\'immobilité même du navire, la présence de ces deux feux, le voisinage de la terre qui ne se révélait que trop par ces roches entre lesquelles l\'*Alaska* se trouvait pris comme dans une pince -- tout concourait à faire de ce désastre une aventure plus morne encore qu\'effrayante. Erik, pour son compte, n\'y voyait qu\'un fait : l\'expédition arrêtée court, l\'occasion perdue de retrouver Patrick O\'Donoghan !...
+
+Il n\'avait pas plus tôt laissé échapper la réponse un peu vive, dictée par l\'amertume dont son coeur était rempli, qu\'il l\'avait regrettée. Il quitta donc la passerelle pour redescendre sur le pont et chercher des yeux son chef, avec l\'intention généreuse de le réconforter, s\'il était possible.
+
+Mais le commandant avait disparu, et trois minutes ne s\'étaient pas écoulées qu\'une détonation retentit dans sa chambre.
+
+Erik y courut. La porte était fermée intérieurement. Il l\'enfonça d\'un coup de pied.
+
+Le commandant Marsilas gisait sur le tapis, le front ouvert et fracassé, un revolver dans la main droite.
+
+Voyant le navire perdu par sa faute, il s\'était fait sauter la cervelle. La mort avait été instantanée. Le docteur et M. Bredejord, accourus derrière le jeune lieutenant, ne purent que la constater.
+
+Mais l\'heure n\'était pas aux vains regrets. Erik, laissant aux deux amis le soin de relever le cadavre et de le déposer sur la couchette, avait le devoir de remonter sur le pont et de songer au salut de l\'équipage.
+
+Comme il passait devant la cabine de M. Malarius, l\'excellent homme, réveillé par l\'immobilité du navire ou par le coup de feu, ouvrit sa porte et passa au-dehors sa tête blanche, coiffée de l\'inévitable bonnet de soie noire. Depuis Brest il n\'avait pas cessé de dormir et ne s\'était aperçu de rien.
+
+« Eh bien ! Qu\'est-ce donc ?... Qu\'y a-t-il ? demanda-t-il avec douceur.
+
+--- Ce qu\'il y a ? lui répondit Erik. Il y a, mon cher maître, que l\'*Alaska* est à la côte et que le commandant vient de se tuer !
+
+--- Oh ! s\'écria M. Malarius au comble de la surprise. Mais alors, mon enfant, adieu notre expédition !
+
+--- Ceci, cher maître, est une autre affaire, répliqua Erik. Je ne suis pas mort, moi, et, tant qu\'il me restera un souffle de vie, je dirai : En avant ! »

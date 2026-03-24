@@ -1,0 +1,49 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 2 -- Ô toi, que mon amour profond...
+*A Herminie.*
+Ô toi, que mon amour profond et sans mélange
+Formé de ton image et de ton souvenir,
+Avait su distinguer en l'auguste phalange
+Des jeunes beautés dont nous faisons notre ange
+Pour nous guider dans l'avenir.
+
+Toi que tout rappelait à mon âme inquiète,
+Et dont l'âme sans cesse assise auprès de moi,
+Me dérobait du temps, qu'à présent je regrette,
+Le cours lent à mes voeux, quand la bouche muette,
+Je ne pouvais penser qu'à toi.
+
+Qu'as-tu fait -- loin de moi, tu fuis, et ton sourire
+Vers moi se tourne encor, adorable et moqueur,
+Tu sais ce que toujours, tout-puissant, il m'inspire,
+Tu l'adresses, hélas ! Il me paraît me dire :
+Je te quitte de gaîté de coeur !
+
+Tu me railles, méchante, ah de ta moquerie,
+Si tu voyais combien l'aiguillon me fait mal,
+Ce qu'à l'âme, il me met de douleur, de furie !
+D'amour ! tu cesserais ta vile fourberie
+Mais non ! -- cela t'est bien égal !
+
+C'est trop te demander -- pars, fuis où bon te semble
+Ailleurs, va-t'en verser la joie et le plaisir ;
+Cherche un autre amant ; Dieu fasse qu'il me ressemble
+Nous pouvions dans l'amour vivre longtemps ensemble...
+Seul, dans l'ennui, je vais mourir !

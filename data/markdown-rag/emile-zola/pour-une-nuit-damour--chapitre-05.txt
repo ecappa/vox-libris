@@ -1,0 +1,50 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "POUR UNE NUIT D’AMOUR"
+slug_oeuvre: "pour-une-nuit-damour"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+POUR UNE NUIT D'AMOUR
+
+[Liste des contes et nouvelles
+
+!
+
+## V
+Julien était d'une force de taureau. Tout jeune, dans la forêt voisine de son village, il s'amusait à aider les bûcherons, il chargeait des troncs d'arbre sur son échine d'enfant. Aussi portait-il le petit Colombel aussi légèrement qu'une plume. C'était un oiseau sur son cou, ce cadavre d'avorton. Il le sentait à peine, il était pris d'une joie mauvaise, à le trouver si peu lourd, si mince, si rien du tout. Le petit Colombel ne ricanerait plus en passant sous sa fenêtre, les jours où il jouerait de la flûte ; il ne le criblerait plus de ses plaisanteries, dans la ville. Et, à la pensée qu'il tenait là un rival heureux, raide et froid, Julien éprouvait le long des reins un frémissement de satisfaction. Il le remontait sur sa nuque d'un coup d'épaule, il serrait les dents et hâtait le pas.
+
+La ville était noire. Cependant, il y avait de la lumière sur la place des Quatre-Femmes, à la fenêtre du capitaine Pidoux ; sans doute le capitaine se trouvait indisposé, on voyait le profil élargi de son ventre aller et venir derrière les rideaux. Julien, inquiet, filait le long des maisons d'en face, lorsqu'une légère toux le glaça. Il s'arrêta dans le creux d'une porte, il reconnut la femme du notaire Savournin, qui prenait l'air, en regardant les étoiles avec de gros soupirs. C'était une fatalité ; d'ordinaire, à cette heure, la place des Quatre-Femmes dormait d'un sommeil profond. Madame Savournin, heureusement, alla retrouver enfin sur l'oreiller maître Savournin, dont les ronflements sonores s'entendaient du pavé, par la fenêtre ouverte. Et, quand cette fenêtre fut refermée, Julien traversa vivement la place, en guettant toujours le profil tourmenté et dansant du capitaine Pidoux.
+
+Pourtant, il se rassura, dans l'étranglement de la rue Beau-Soleil. Là, les maisons étaient si rapprochées, la pente du pavé si tortueuse, que la clarté des étoiles ne descendait pas au fond de ce boyau, où semblait s'alourdir une coulée d'ombre. Dès qu'il se vit ainsi abrité, une irrésistible envie de courir l'emporta brusquement dans un galop furieux. C'était dangereux et stupide, il en avait la conscience très nette ; mais il ne pouvait s'empêcher de galoper, il sentait encore derrière lui le carré vide et clair de la place des Quatre-Femmes, avec les fenêtres de la notaresse et du capitaine, allumées comme deux grands yeux qui le regardaient. Ses souliers faisaient sur le pavé un tapage tel, qu'il se croyait poursuivi. Puis, tout d'un coup, il s'arrêta. À trente mètres, il venait d'entendre les voix des officiers de la table d'hôte qu'une veuve blonde tenait rue Beau-Soleil. Ces messieurs devaient s'être offert un punch, pour fêter la permutation de quelque camarade. Le jeune homme se disait que, s'ils remontaient la rue, il était perdu ; aucune rue latérale ne lui permettait de fuir, et il n'aurait certainement pas le temps de retourner en arrière. Il écoutait la cadence des bottes et le léger cliquetis des épées, pris d'une anxiété qui l'étranglait. Pendant un instant, il ne put se rendre compte si les bruits se rapprochaient ou s'éloignaient. Mais ces bruits, lentement, s'affaiblirent. Il attendit encore, puis il se décida à continuer sa marche, en étouffant ses pas. Il aurait marché pieds nus, s'il avait osé prendre le temps de se déchausser.
+
+Enfin, Julien déboucha devant la porte de la ville.
+
+On ne trouve là ni octroi, ni poste d'aucune sorte. Il pouvait donc passer librement. Mais le brusque élargissement de la campagne le terrifia, au sortir de l'étroite rue Beau-Soleil. La campagne était toute bleue, d'un bleu très doux ; une haleine fraîche soufflait ; et il lui sembla qu'une foule immense l'attendait et lui envoyait son souffle au visage. On le voyait, un cri formidable allait s'élever et le clouer sur place.
+
+Cependant, le pont était là. Il distinguait la route blanche, les deux parapets, bas et gris comme des bancs de granit ; il entendait la petite musique cristalline du Chanteclair, dans les hautes herbes. Alors, il se hasarda, il marcha courbé, évitant les espaces libres, craignant d'être aperçu des mille témoins muets qu'il sentait autour de lui. Le passage le plus effrayant était le pont lui-même, sur lequel il se trouverait à découvert, en face de toute la ville, bâtie en amphithéâtre. Et il voulait aller au bout du pont, à l'endroit où il s'asseyait d'habitude, les jambes pendantes, pour respirer la fraîcheur des belles soirées. Le Chanteclair avait, dans un grand trou, une nappe dormante et noire, creusée de petites fossettes rapides par la tempête intérieure d'un violent tourbillon. Que de fois il s'était amusé à lancer des pierres dans cette nappe, pour mesurer aux bouillons de l'eau la profondeur du trou ! Il eut une dernière tension de volonté, il traversa le pont.
+
+Oui, c'était bien là. Julien reconnaissait la dalle, polie par ses longues stations. Il se pencha, il vit la nappe avec les fossettes rapides qui dessinaient des sourires. C'était là, et il se déchargea sur le parapet. Avant de jeter le petit Colombel, il avait un irrésistible besoin de le regarder une dernière fois. Les yeux de tous les bourgeois de la ville, ouverts sur lui, ne l'auraient pas empêché de se satisfaire. Il resta quelques secondes face à face avec le cadavre. Le trou de la tempe avait noirci. Une charrette, au loin, dans la campagne endormie, faisait un bruit de gros sanglots. Alors, Julien se hâta ; et, pour éviter un plongeon trop bruyant, il reprit le corps, l'accompagna dans sa chute. Mais il ne sut comment, les bras du mort se nouèrent autour de son cou, si rudement, qu'il fut entraîné lui-même. Il se rattrapa par miracle à une saillie. Le petit Colombel avait voulu l'emmener.
+
+Lorsqu'il se retrouva assis sur la dalle, il fut pris d'une faiblesse. Il demeurait là, brisé, l'échine pliée, les jambes pendantes, dans l'attitude molle de promeneur fatigué qu'il y avait eue si souvent. Et il contemplait la nappe dormante, où reparaissaient les rieuses fossettes. Cela était certain, le petit Colombel avait voulu l'emmener ; il l'avait serré au cou, tout mort qu'il était. Mais rien de ces choses n'existait plus ; il respirait largement l'odeur fraîche de la campagne ; il suivait des yeux le reflet d'argent de la rivière, entre les ombres veloutées des arbres ; et ce coin de nature lui semblait comme une promesse de paix, de bercement sans fin, dans une jouissance discrète et cachée.
+
+Puis, il se rappela Thérèse. Elle l'attendait, il en était sûr. Il la voyait toujours en haut du perron ruiné, sur le seuil de la porte dont la mousse mangeait le bois. Elle restait toute droite, avec sa robe de soie blanche, garnie de fleurs d'églantier au coeur teinté d'une pointe de rouge. Peut-être pourtant le froid l'avait-il prise. Alors, elle devait être remontée l'attendre dans sa chambre. Elle avait laissé la porte ouverte, elle s'était mise au lit comme une mariée, le soir des noces.
+
+Ah ! Quelle douceur ! Jamais une femme ne l'avait attendu ainsi. Encore une minute, il serait au rendez-vous promis. Mais ses jambes s'engourdissaient, il craignait de s'endormir. Était-il donc un lâche ? Et, pour se secouer, il évoquait Thérèse à sa toilette, lorsqu'elle avait laissé tomber ses vêtements. Il la revoyait les bras levés, la gorge tendue, agitant en l'air ses coudes délicats et ses mains pâles. Il se fouettait de ses souvenirs, de l'odeur qu'elle exhalait, de sa peau souple, de cette chambre d'épouvantable volupté où il avait bu une ivresse folle. Est-ce qu'il allait renoncer à toute cette passion offerte, dont il avait un avant-goût qui lui brûlait les lèvres ? Non, il se traînerait plutôt sur les genoux, si ses jambes refusaient de le porter.
+
+Mais c'était là une bataille perdue déjà, dans laquelle son amour vaincu achevait d'agoniser. Il n'avait plus qu'un besoin irrésistible, celui de dormir, dormir toujours. L'image de Thérèse pâlissait, un grand mur noir montait, qui le séparait d'elle. Maintenant, il ne lui aurait pas effleuré du doigt une épaule, sans en mourir. Son désir expirant avait une odeur de cadavre. Cela devenait impossible, le plafond se serait écroulé sur leurs têtes, s'il était rentré dans la chambre et s'il avait pris cette fille contre sa chair.
+
+Dormir, dormir toujours, que cela devait être bon, quand on n'avait plus rien en soi qui valût le plaisir de veiller ! Il n'irait plus le lendemain à la poste, c'était inutile ; il ne jouerait plus de la flûte, il ne se mettrait plus à la fenêtre. Alors, pourquoi ne pas dormir tout le temps ? Son existence était finie, il pouvait se coucher. Et il regardait de nouveau la rivière, en tâchant de voir si le petit Colombel se trouvait encore là. Colombel était un garçon plein d'intelligence : il savait pour sûr ce qu'il faisait, quand il avait voulu l'emmener.
+
+La nappe s'étalait, trouée par les rires rapides de ses tourbillons. Le Chanteclair prenait une douceur musicale, tandis que la campagne avait un élargissement d'ombre d'une paix souveraine. Julien balbutia trois fois le nom de Thérèse. Puis, il se laissa tomber, roulé sur lui-même, comme un paquet, avec un grand rejaillissement d'écume. Et le Chanteclair reprit sa chanson dans les herbes.
+
+Lorsqu'on retrouva les deux corps, on crut à une bataille, on inventa une histoire. Julien devait avoir guetté le petit Colombel, pour se venger de ses moqueries ; et il s'était jeté dans la rivière, après l'avoir tué d'un coup de pierre à la tempe. Trois mois plus tard, mademoiselle Thérèse de Marsanne épousait le jeune comte de Véteuil. Elle était en robe blanche, elle avait un beau visage calme, d'une pureté hautaine.
+
+Liste des contes et nouvelles[

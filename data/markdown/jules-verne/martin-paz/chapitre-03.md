@@ -1,0 +1,145 @@
+]{.calibre20}
+
+
+MARTIN PAZ
+
+
+]{.calibre20}
+
+## [[Chapitre 3]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941542 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_219 .calibre21}
+
+André Certa, une fois introduit dans la maison de Samuel et couché dans un lit préparé en toute hâte, reprit ses sens et serra la main du vieux juif. Le médecin, averti par un des domestiques, était promptement accouru. La blessure lui parut être sans gravité ; l\'épaule du métis se trouvait traversée de telle façon que l\'acier avait seulement glissé entre les chairs. Dans quelques jours, André Certa devait se trouver sur pied.
+
+Lorsque Samuel et André Certa furent seuls, ce dernier lui dit :
+
+--- Vous voudrez bien faire murer la porte qui conduit à votre terrasse, maître Samuel.
+
+--- Que craignez-vous donc ? demanda le juif.
+
+--- Je crains que Sarah ne retourne s\'y offrir aux contemplations des Indiens ! Ce n\'est point un voleur qui m\'a attaqué, c\'est un rival, auquel je n\'ai échappé que par miracle !
+
+--- Ah ! Par les saintes Tables, s\'écria le juif, vous vous trompez ! Sarah sera une épouse accomplie, et je n\'oublie rien pour qu\'elle vous fasse honneur. André Certa se leva à demi sur son coude.
+
+--- Maître Samuel, une chose dont vous ne vous souvenez pas assez, c\'est que je vous paie la main de Sarah cent mille piastres.
+
+--- André Certa, répondit le juif avec un ricanement cupide, je m\'en souviens tellement que je suis prêt à échanger ce reçu contre des espèces sonnantes. Et, ce disant, Samuel tira de son portefeuille un papier qu\'André Certa repoussa de la main.
+
+--- Le marché n\'existe pas entre nous, tant que Sarah ne sera pas ma femme, et elle ne le sera jamais, s\'il me faut la disputer à un pareil rival ! Vous savez, maître Samuel, quel est mon but.
+
+En épousant Sarah, je veux devenir l\'égal de toute cette noblesse qui n\'a pour moi que des regards de mépris !
+
+--- Et vous le pourrez, André Certa, car, une fois marié, vous verrez nos plus fiers Espagnols se presser dans vos salons !
+
+--- Où Sarah a-t-elle été ce soir ?
+
+--- Au temple israélite, avec la vieille Ammon.
+
+--- À quoi bon faire suivre à Sarah vos rites religieux ?
+
+--- Je suis juif, répliqua Samuel, et Sarah serait-elle ma fille, si elle n\'accomplissait pas les devoirs de ma religion ?
+
+C\'était un homme vil que le juif Samuel. Trafiquant de tout et partout, il descendait en droite ligne de ce Judas qui livra son maître pour trente deniers. Son installation à Lima datait de dix ans. Par goût et par calcul, il avait choisi sa demeure à l\'extrémité du faubourg de San-Lazaro, et il se mit dès lors à l\'affût de véreuses spéculations. Puis, peu à peu, il afficha un grand luxe ; sa maison fut somptueusement entretenue, et ses nombreux domestiques, ses brillants équipages lui firent attribuer des revenus immenses.
+
+Lorsque Samuel vint se fixer à Lima, Sarah avait huit ans. Déjà gracieuse et charmante, elle plaisait à tous et semblait l\'idole du juif. Quelques années plus tard, sa beauté attirait tous les regards, et l\'on comprend que le métis André Certa devint épris de la jeune juive. Ce qui eût paru inexplicable, c\'était les cent mille piastres, prix de la main de Sarah ; mais ce marché était secret. D\'ailleurs, il fallait bien que ce Samuel trafiquât des sentiments comme des produits indigènes. Banquier, prêteur, marchand, armateur, il avait le talent de faire affaire avec tout le monde.
+
+La goélette l\'*Annonciacion*, qui cherchait à atterrir cette nuit-là vers l\'embouchure de la Rimac, appartenait au juif Samuel.
+
+Au milieu de ce mouvement d\'affaires, par un entêtement traditionnel, cet homme accomplissait les rites de sa religion avec une superstition minutieuse, et sa fille avait été soigneusement instruite des pratiques israélites.
+
+Aussi, lorsque, dans cette conversation, le métis lui eut laissé voir son déplaisir à ce sujet, le vieillard demeura-t-il muet et pensif. Ce fut André Certa qui rompit le silence, en lui disant :
+
+--- Oubliez-vous donc que le motif pour lequel j\'épouse Sarah l\'obligera à se convertir au catholicisme ?
+
+--- Vous avez raison, répondit tristement Samuel ; mais, de par la Bible, Sarah sera juive tant qu\'elle sera ma fille !
+
+En ce moment, la porte de la chambre s\'ouvrit, et le majordome entra.
+
+--- Le meurtrier est-il arrêté ? demanda Samuel.
+
+--- Tout nous porte à croire qu\'il est mort ! répondit le majordome.
+
+--- Mort ! fit André Certa avec un mouvement de joie.
+
+--- Pris entre nous et une troupe de soldats, il s\'est vu forcé de franchir le parapet du pont et de se précipiter dans la Rimac.
+
+--- Mais qui vous prouve qu\'il n\'a pu gagner l\'une des rives ? demanda Samuel.
+
+--- La fonte des neiges a rendu le courant torrentiel en cet endroit, répondit le majordome. D\'ailleurs, nous nous sommes postés des deux côtés du fleuve, et le fugitif n\'a pas reparu. J\'ai laissé des sentinelles qui passeront la nuit à surveiller les rives de la Rimac.
+
+--- Bien, dit le vieillard, il s\'est fait justice lui-même ! L\'avez-vous reconnu, dans sa fuite ?
+
+--- Parfaitement.
+
+C\'était Martin Paz, l\'Indien des montagnes.
+
+--- Est-ce que cet homme épiait Sarah depuis quelque temps ? demanda le juif.
+
+--- Je ne sais, répondit le majordome.
+
+--- Faites venir la vieille Ammon.
+
+Le majordome se retira.
+
+--- Ces Indiens, fit le vieillard, ont entre eux des affiliations secrètes. Il faut savoir si les poursuites de cet homme remontent à une époque éloignée.
+
+La duègne entra et demeura debout devant son maître.
+
+--- Ma fille, demanda Samuel, ne sait rien de ce qui s\'est passé ce soir ?
+
+--- Je l\'ignore, répondit la duègne, mais quand les cris de vos serviteurs m\'ont réveillée, j\'ai couru à la chambre de la señora, et je l\'ai trouvée presque sans mouvement.
+
+--- Continue, dit Samuel.
+
+--- À mes demandes pressantes sur la cause de son agitation, la señora n\'a rien voulu répondre ; elle s\'est mise au lit sans accepter mes services, et j\'ai dû me retirer.
+
+--- Est-ce que cet Indien se trouvait souvent sur sa route ?
+
+--- Je ne sais trop, maître ! Cependant, je l\'ai rencontré souvent dans les rues de San-Lazaro, et, ce soir, il a secouru la señora sur la Plaza-Mayor.
+
+--- Secouru ! Et comment ?
+
+La vieille raconta la scène qui s\'était passée.
+
+--- Ah ! Ma fille voulait s\'agenouiller parmi ces chrétiens ! s\'écria le juif en colère, et je ne sais rien de tout cela ! Tu veux donc que je te chasse ?
+
+--- Maître, pardonnez-moi !
+
+--- Va-t\'en ! répondit durement le vieillard.
+
+La vieille sortit toute confuse.
+
+--- Vous voyez qu\'il faut nous marier promptement ! dit alors André Certa. Mais j\'ai besoin de repos, maintenant, et je vous prierai de me laisser seul. Sur ces paroles, le vieillard se retira lentement. Toutefois, avant de regagner son lit, il voulut s\'assurer de l\'état de sa fille, et il entra doucement dans sa chambre. Sarah dormait d\'un sommeil agité, au milieu des riches soieries drapées autour d\'elle. Une veilleuse d\'albâtre, suspendue aux arabesques du plafond, versait sa douce lumière, et la fenêtre entrouverte laissait passer, au travers des stores abaissés, la fraîcheur du ciel, tout imprégnée du parfum pénétrant des aloès et des magnolias. Le luxe créole éclatait dans les mille objets d\'art que le bon goût avait dispersés sur les étagères précieusement sculptées de la chambre, et, sous les vagues lueurs de la nuit, on eût dit que l\'âme de la jeune fille se jouait parmi ces merveilles.
+
+Le vieillard s\'approcha du lit de Sarah et se pencha sur elle pour épier son sommeil. La jeune juive semblait tourmentée par une pensée douloureuse, et, une fois, le nom de Martin Paz s\'échappa de ses lèvres.
+
+Samuel regagna sa chambre.
+
+Aux premiers rayons du soleil, Sarah se leva en toute hâte. Liberta, Indien noir attaché à son service, accourut près d\'elle, et, suivant ses ordres, il sella une mule pour sa maîtresse, un cheval pour lui.
+
+Sarah avait coutume de faire de matinales promenades, suivie de ce serviteur, qui lui était tout dévoué.
+
+Elle revêtit une jupe de couleur brune et une mante de cachemire à gros glands ; elle s\'abrita sous les larges bords d\'un chapeau de paille, laissant flotter sur son dos ses longues tresses noires, et, pour mieux dissimuler ses préoccupations, elle roula entre ses lèvres une cigarette de tabac parfumé.
+
+Une fois en selle, Sarah sortit de la ville et se mit à courir par la campagne en se dirigeant vers le Callao.
+
+Le port était en grande animation ; les garde-côtes avaient eu à batailler pendant la nuit avec la goélette Annonciacion, dont les manoeuvres indécises trahissaient quelque intention frauduleuse. L\'Annonciacion avait semblé attendre quelques embarcations suspectes vers l\'embouchure de la Rimac ; mais avant que celles-ci l\'eussent accostée, elle avait pu fuir et échapper aux chaloupes du port.
+
+Divers bruits circulaient sur la destination de cette goélette. Selon les uns, chargée de troupes colombiennes, elle cherchait à s\'emparer des principaux bâtiments du Callao et à venger l\'affront fait aux soldats de Bolivar, qui avaient été honteusement chassés du Pérou.
+
+Selon d\'autres, la goélette se livrait simplement à la contrebande des lainages d\'Europe.
+
+Sans se préoccuper de ces nouvelles plus ou moins vraies, Sarah, dont la promenade au port n\'avait été qu\'un prétexte, revint vers Lima, qu\'elle atteignit près des bords de la Rimac.
+
+Elle remonta le fleuve jusqu\'au pont. Là, des rassemblements de soldats et de métis se tenaient sur divers points de la rive.
+
+Liberta avait appris à la jeune fille les événements de la nuit. Suivant son ordre, il interrogea quelques soldats penchés sur le parapet, et il apprit que, non seulement Martin Paz s\'était noyé, mais qu\'on n\'avait pas même retrouvé son corps.
+
+Il fallut à Sarah, prête à défaillir, toute sa force d\'âme pour ne pas s\'abandonner à sa douleur.
+
+Parmi les gens qui erraient sur les rives, elle remarqua un Indien aux traits farouches : c\'était Sambo, qui semblait en proie au désespoir.
+
+Sarah, en passant près du vieux montagnard, entendit ces mots :
+
+--- Malheur ! Malheur ! Ils ont tué le fils du Sambo ! Ils ont tué mon fils !
+
+La jeune fille se redressa, fit signe à Liberta de la suivre. Cette fois, sans s\'inquiéter d\'être aperçue, elle se rendit à l\'église de Sainte-Anne, laissa sa monture à l\'Indien, entra dans le temple catholique, fit demander le père Joachim, et, s\'agenouillant sur les dalles de pierre, elle pria pour l\'âme de Martin Paz.

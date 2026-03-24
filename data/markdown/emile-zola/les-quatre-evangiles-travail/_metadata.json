@@ -1,0 +1,70 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES QUATRE ÉVANGILES : TRAVAIL",
+  "slug": "les-quatre-evangiles-travail",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 793,
+      "spine_end_exclusive": 795,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_318.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_319.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre premier",
+      "slug": "livre-premier",
+      "spine_start": 795,
+      "spine_end_exclusive": 801,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_320.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_321.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_322.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_323.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_324.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_325.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre deuxième",
+      "slug": "livre-deuxieme",
+      "spine_start": 801,
+      "spine_end_exclusive": 807,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_326.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_327.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_328.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_329.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_330.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_331.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre troisième",
+      "slug": "livre-troisieme",
+      "spine_start": 807,
+      "spine_end_exclusive": 814,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_332.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_333.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_334.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_335.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_336.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_337.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_338.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-quatre-evangiles-travail/Zola2_image016.jpg"
+  ]
+}

@@ -1,0 +1,34 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 35"
+slug_section: "chapitre-35"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 35 -- Quel aveugle !
+Si vous trouvez le dieu Mercure,
+Ami, dites-lui de ma part,
+Que contre tout vol il m'assure,
+Ce soir, je dois rentrer fort tard
+Et je craindrais quelque aventure !
+ Je sais que ce roi des voleurs
+Eût pu jadis vous satisfaire,
+Car il était souvent des leurs ;
+Mais est-ce qu'il n'est point en terre ?
+Ne comptez pas sur ses faveurs !
+ En terre ? votre claivoyance
+Aujourd'hui se trouve en défaut ?
+Allez-vous tomber en enfance ?
+Mais levez donc les yeux en haut !
+C'est lui qui règne sur la France !

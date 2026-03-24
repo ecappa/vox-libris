@@ -1,0 +1,114 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES QUATRE ÉVANGILES : FÉCONDITÉ",
+  "slug": "les-quatre-evangiles-fecondite",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 754,
+      "spine_end_exclusive": 755,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_279.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre premier",
+      "slug": "livre-premier",
+      "spine_start": 755,
+      "spine_end_exclusive": 761,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_280.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_281.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_282.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_283.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_284.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_285.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre deuxième",
+      "slug": "livre-deuxieme",
+      "spine_start": 761,
+      "spine_end_exclusive": 767,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_286.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_287.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_288.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_289.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_290.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_291.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre troisième",
+      "slug": "livre-troisieme",
+      "spine_start": 767,
+      "spine_end_exclusive": 773,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_292.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_293.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_294.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_295.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_296.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_297.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre quatrième",
+      "slug": "livre-quatrieme",
+      "spine_start": 773,
+      "spine_end_exclusive": 779,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_298.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_299.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_300.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_301.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_302.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_303.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre cinquième",
+      "slug": "livre-cinquieme",
+      "spine_start": 779,
+      "spine_end_exclusive": 785,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_304.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_305.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_306.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_307.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_308.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_309.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre sixième",
+      "slug": "livre-sixieme",
+      "spine_start": 785,
+      "spine_end_exclusive": 792,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_310.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_311.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_312.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_313.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_314.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_315.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_316.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-quatre-evangiles-fecondite/Zola2_image015.jpg"
+  ]
+}

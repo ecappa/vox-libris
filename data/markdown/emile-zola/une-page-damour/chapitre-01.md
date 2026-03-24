@@ -1,0 +1,1128 @@
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB"}
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image015.jpg){.calibre47}]{.calibre22}
+
+## []{#_Toc368941664 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941233 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940802 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940371 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939940 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939509 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939078 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938647 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938216 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937785 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937354 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936923 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936492 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936061 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935630 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935199 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934768 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934337 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933906 .pcalibre .calibre2 .pcalibre1}[Première partie]{#_Toc368933475 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_110 .calibre29}
+
+
+::: WordSection
+*[
+]{.calibre12}*
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Première partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941665 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941234 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940803 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940372 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939941 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939510 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939079 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938648 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938217 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937786 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937355 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936924 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936493 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936062 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935631 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935200 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934769 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934338 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933907 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368933476 .pcalibre .calibre2 .pcalibre1} {#i .calibre59 .sigil_not_in_toc}
+
+
+La veilleuse, dans un cornet bleuâtre, brûlait sur la cheminée, derrière un livre, dont l\'ombre noyait toute une moitié de la chambre. C\'était une calme lueur qui coupait le guéridon et la chaise longue, baignait les gros plis des rideaux de velours, azurait la glace de l\'armoire de palissandre, placée entre les deux fenêtres. L\'harmonie bourgeoise de la pièce, ce bleu des tentures, des meubles et du tapis, prenait à cette heure nocturne une douceur vague de nuée. Et, en face des fenêtres, du côté de l\'ombre, le lit, également tendu de velours, faisait une masse noire, éclairée seulement de la pâleur des draps. Hélène, les mains croisées, dans sa tranquille attitude de mère et de veuve, avait un léger souffle.
+
+Au milieu du silence, la pendule sonna une heure. Les bruits du quartier étaient morts. Sur ces hauteurs du Trocadéro, Paris envoyait seul son lointain ronflement. Le petit souffle d\'Hélène était si doux, qu\'il ne soulevait pas la ligne chaste de sa gorge. Elle sommeillait d\'un beau sommeil, paisible et fort, avec son profil correct et ses cheveux châtains puissamment noués, la tête penchée, comme si elle se fût assoupie en écoutant. Au fond de la pièce, la porte d\'un cabinet grande ouverte trouait le mur d\'un carré de ténèbres.
+
+Mais pas un bruit ne montait. La demie sonna. Le balancier avait un battement affaibli, dans cette force du sommeil qui anéantissait la chambre entière. La veilleuse dormait, les meubles dormaient ; sur le guéridon, près d\'une lampe éteinte, un ouvrage de femme dormait. Hélène, endormie, gardait son air grave et bon.
+
+Quand deux heures sonnèrent, cette paix fut troublée, un soupir sortit des ténèbres du cabinet. Puis, il y eut un froissement de linge, et le silence recommença. Maintenant, une haleine oppressée s\'entendait. Hélène n\'avait pas bougé. Mais, brusquement, elle se souleva. Un balbutiement confus d\'enfant qui souffre venait de la réveiller. Elle portait les mains à ses tempes, encore ensommeillée, lorsqu\'un cri sourd la fit sauter sur le tapis.
+
+--- Jeanne !\... Jeanne !\... Qu\'as-tu ? Réponds-moi ! demanda-t-elle.
+
+Et, comme l\'enfant se taisait, elle murmura, tout en courant prendre la veilleuse :
+
+--- Mon Dieu ! elle n\'était pas bien, je n\'aurais pas dû me coucher.
+
+Elle entra vivement dans la pièce voisine où un lourd silence s\'était fait. Mais la veilleuse, noyée d\'huile, avait une tremblante clarté qui envoyait seulement au plafond une tache ronde. Hélène, penchée sur le lit de fer, ne put rien distinguer d\'abord. Puis, dans la lueur bleuâtre, au milieu des draps rejetés, elle aperçut Jeanne raidie, la tête renversée, les muscles du cou rigides et durs. Une contraction défigurait le pauvre et adorable visage, les yeux étaient ouverts, fixés sur la flèche des rideaux.
+
+--- Mon Dieu ! mon Dieu ! cria-t-elle, mon Dieu ! elle se meurt !
+
+Et, posant la veilleuse, elle tâta sa fille de ses mains tremblantes. Elle ne put trouver le pouls. Le cœur semblait s\'arrêter. Les petits bras, les petites jambes se tendaient violemment. Alors, elle devint folle, s\'épouvantant, bégayant :
+
+--- Mon enfant se meurt ! Au secours !\... Mon enfant ! mon enfant !
+
+Elle revint dans la chambre, tournant et se cognant, sans savoir où elle allait ; puis, elle rentra dans le cabinet et se jeta de nouveau devant le lit, appelant toujours au secours. Elle avait prit Jeanne entre ses bras, elle lui baisait les cheveux, promenait les mains sur son corps, en la suppliant de répondre. Un mot, un seul mot. Où avait-elle mal ? Désirait-elle un peu de la potion de l\'autre jour ? Peut-être l\'air l\'aurait-il ranimée ? Et elle s\'entêtait à vouloir l\'entendre parler.
+
+--- Dis-moi, Jeanne, oh ! dis-moi, je t\'en prie !
+
+Mon Dieu ! et ne savoir que faire ! Comme ça, brusquement, dans la nuit. Pas même de lumière. Ses idées se brouillaient. Elle continuait de causer à sa fille, l\'interrogeant et répondant pour elle. C\'était dans l\'estomac que ça la tenait ; non, dans la gorge. Ce ne serait rien. Il fallait du calme. Et elle faisait un effort pour avoir elle-même toute sa tête. Mais la sensation de sa fille raide entre ses bras lui soulevait les entrailles. Elle la regardait, convulsée et sans souffle ; elle tâchait de raisonner, de résister au besoin de crier. Tout à coup, malgré elle, elle cria.
+
+Elle traversa la salle à manger et la cuisine, appelant :
+
+--- Rosalie ! Rosalie !\... Vite, un médecin !\... Mon enfant se meurt !
+
+La bonne, qui couchait dans une petite pièce derrière la cuisine, poussa des exclamations. Hélène était revenue en courant. Elle piétinait en chemise, sans paraître sentir le froid de cette glaciale nuit de février. Cette bonne laisserait donc mourir son enfant ! Une minute s\'était à peine écoulée. Elle retourna dans la cuisine, rentra dans la chambre. Et, rudement, à tâtons, elle passa une jupe, jeta un châle sur ses épaules. Elle renversait les meubles, emplissait de la violence de son désespoir cette chambre où dormait une paix si recueillie. Puis, chaussée de pantoufles, laissant les portes ouvertes, elle descendit elle-même les trois étages, avec cette idée qu\'elle seule ramènerait un médecin.
+
+Quand la concierge eut tiré le cordon, Hélène se trouva dehors, les oreilles bourdonnantes, la tête perdue. Elle descendit rapidement la rue Vineuse, sonna chez le docteur Bodin, qui avait déjà soigné Jeanne ; une domestique, au bout d\'une éternité, vint lui répondre que le docteur était auprès d\'une femme en couches. Hélène resta stupide sur le trottoir. Elle ne connaissait pas d\'autre docteur dans Passy. Pendant un instant, elle battit les rues, regardant les maisons. Un petit vent glacé soufflait ; elle marchait avec ses pantoufles dans une neige légère, tombée le soir. Et elle avait toujours devant elle sa fille, avec cette pensée d\'angoisse qu\'elle la tuait en ne trouvant pas tout de suite un médecin. Alors, comme elle remontait la rue Vineuse, elle se pendit à une sonnette. Elle allait toujours demander ; on lui donnerait peut-être une adresse. Elle sonna de nouveau, parce qu\'on ne se hâtait pas. Le vent plaquait son mince jupon sur ses jambes, et les mèches de ses cheveux s\'envolaient.
+
+Enfin, un domestique vint ouvrir et lui dit que le docteur Deberle était couché. Elle avait sonné chez un docteur, le Ciel ne l\'abandonnait donc pas ! Alors, elle poussa le domestique pour entrer. Elle répétait :
+
+--- Mon enfant, mon enfant se meurt !\... Dites-lui qu\'il vienne.
+
+C\'était un petit hôtel plein de tentures. Elle monta ainsi un étage, luttant contre le domestique, répondant à toutes les observations que son enfant se mourait. Arrivée dans une pièce, elle voulut bien attendre. Mais, dès qu\'elle entendit à côté le médecin se lever, elle s\'approcha, elle parla à travers la porte.
+
+--- Tout de suite, monsieur, je vous en supplie\... Mon enfant se meurt !
+
+Et, lorsque le médecin parut en veston, sans cravate, elle l\'entraîna, elle ne le laissa pas se vêtir davantage. Lui l\'avait reconnue. Elle habitait la maison voisine et était sa locataire. Aussi, quand il lui fit traverser un jardin pour raccourcir en passant par une porte de communication qui existait entre les deux demeures, eut-elle un brusque réveil de mémoire.
+
+--- C\'est vrai, murmura-t-elle, vous êtes médecin, et je le savais\... Voyez-vous, je suis devenue folle\... Dépêchons-nous.
+
+Dans l\'escalier, elle voulut qu\'il passât le premier. Elle n\'eût pas amené Dieu chez elle d\'une façon plus dévote. En haut, Rosalie était restée près de Jeanne, et elle avait allumé la lampe posée sur le guéridon. Dès que le médecin entra, il prit cette lampe, il éclaira vivement l\'enfant, qui gardait une rigidité douloureuse ; seulement, la tête avait glissé, de rapides crispations couraient sur la face. Pendant une minute, il ne dit rien, les lèvres pincées. Hélène, anxieusement, le regardait. Quand il aperçut ce regard de mère qui l\'implorait, il murmura :
+
+--- Ce ne sera rien\... Mais il ne faut pas la laisser ici. Elle a besoin d\'air.
+
+Hélène, d\'un geste fort, l\'emporta sur son épaule. Elle aurait baisé les mains du médecin pour sa bonne parole, et une douceur coulait en elle. Mais à peine eut-elle posé Jeanne dans son grand lit, que ce pauvre petit corps de fillette fut agité de violentes convulsions. Le médecin avait enlevé l\'abat-jour de la lampe, une clarté blanche emplissait la pièce. Il alla entrouvrir une fenêtre, ordonna à Rosalie de tirer le lit hors des rideaux. Hélène, reprise par l\'angoisse, balbutiait :
+
+--- Mais elle se meurt, monsieur !\... Voyez donc, voyez donc !\... Je ne la reconnais plus !
+
+Il ne répondait pas, suivait l\'accès d\'un regard attentif. Puis, il dit :
+
+--- Passez dans l\'alcôve, tenez-lui les mains pour qu\'elle ne s\'égratigne pas\... Là, doucement, sans violence\... Ne vous inquiétez pas, il faut que la crise suive son cours.
+
+Et tous deux, penchés au-dessus du lit, ils maintenaienanne, dont les membres se détendaient avec des secousses brusques. Le médecin avait boutonné son veston pour cacher son cou nu. Hélène était restée enveloppée dans le châle qu\'elle avait jeté sur ses épaules. Mais Jeanne, en se débattant, tira un coin du châle, déboutonna le haut du veston. Ils ne s\'en aperçurent point. Ni l\'un ni l\'autre ne se voyait.
+
+Cependant, l\'accès se calma. La petite parut tomber dans un grand affaissement. Bien qu\'il rassurât la mère sur l\'issue de la crise, le docteur restait préoccupé. Il regardait toujours la malade, il finit par poser des questions brèves à Hélène, demeurée debout dans la ruelle.
+
+--- Quel âge a l\'enfant ?
+
+--- Onze ans et demi, monsieur.
+
+Il y eut un silence. Il hochait la tête, se baissait pour soulever la paupière fermée de Jeanne et regarder la muqueuse. Puis, il continua son interrogatoire, sans lever les yeux sur Hélène.
+
+--- A-t-elle eu des convulsions étant jeune ?
+
+--- Oui, monsieur, mais ces convulsions ont disparu vers l\'âge de six ans\... Elle est très délicate. Depuis quelques jours, je la voyais mal à son aise. Elle avait des crampes, des absences.
+
+--- Connaissez-vous des maladies nerveuses dans votre famille ?
+
+--- Je ne sais pas\... Ma mère est morte de la poitrine.
+
+Elle hésitait, prise d\'une honte, ne voulant pas avouer une aïeule enfermée dans une maison d\'aliénés. Toute son ascendance était tragique.
+
+--- Prenez garde, dit vivement le médecin, voici un nouvel accès.
+
+Jeanne venait d\'ouvrir les yeux. Un instant, elle regarda autour d\'elle, d\'un air égaré, sans prononcer une parole. Puis, son regard devint fixe, son corps se renversa en arrière, les membres étendus et roidis. Elle était très rouge. Tout d\'un coup, elle blêmit, d\'une pâleur livide, et les convulsions se déclarèrent.
+
+--- Ne la lâchez pas, reprit le docteur. Prenez-lui l\'autre main.
+
+Il courut au guéridon, sur lequel, en entrant, il avait posé une petite pharmacie. Il revint avec un flacon, qu\'il fit respirer à l\'enfant. Mais ce fut comme un terrible coup de fouet, Jeanne donna une telle secousse, qu\'elle échappa des mains de sa mère.
+
+--- Non, non, pas d\'éther ! cria celle-ci, avertie par l\'odeur. L\'éther la rend folle.
+
+Tous deux suffirent à peine à la maintenir. Elle avait de violentes contractions, soulevée sur les talons et sur la nuque, comme pliée en deux. Puis, elle retombait, elle s\'agitait dans un balancement qui la jetait aux deux bords du lit. Ses poings étaient serrés, le pouce fléchi vers la paume ; par moments, elle les ouvrait et, les doigts écartés, elle cherchait à saisir des objets dans le vide pour les tordre. Elle rencontra le châle de sa mère, elle s\'y cramponna. Mais ce qui surtout torturait celle-ci, c\'était, comme elle le disait, de ne plus reconnaître sa fille. Son pauvre ange, au visage si doux, avait les traits renversés, les yeux perdus dans leurs orbites, montrant leur nacre bleuâtre.
+
+--- Faites quelque chose, je vous en supplie, murmura-t-elle. Je ne me sens plus la force, monsieur.
+
+Elle venait de se rappeler que la fille d\'une de ses voisines, à Marseille, était morte étouffée dans une crise semblable. Peut-être le médecin la trompait-il pour l\'épargner. Elle croyait, à chaque seconde, recevoir au visage le dernier souffle de Jeanne, dont la respiration entrecoupée s\'arrêtait. Alors, navrée, bouleversée de pitié et de terreur, elle pleura. Ses larmes tombaient sur la nudité innocente de l\'enfant, qui avait rejeté les couvertures.
+
+Le docteur cependant, de ses longs doigts souples, opérait des pressions légères au bas du col. L\'intensité de l\'accès diminua. Jeanne, après quelques mouvements ralentis, resta inerte. Elle était retombée au milieu du lit, le corps allongé, les bras étendus, la tête soutenue par l\'oreiller et penchée sur la poitrine. On aurait dit un Christ enfant. Hélène se courba et la baisa longuement au front.
+
+--- Est-ce fini ? dit-elle à demi-voix. Croyez-vous à d\'autres accès ?
+
+Il fit un geste évasif. Puis, il répondit :
+
+--- En tout cas, les autres seront moins violents.
+
+Il avait demandé à Rosalie un verre et une carafe. Il emplit le verre à moitié, prit deux nouveaux flacons, compta des gouttes, et, avec l\'aide d\'Hélène, qui soulevait la tête de l\'enfant, il introduisit entre les dents serrées une cuillerée de cette potion. La lampe brûlait très haute, avec sa flamme blanche, éclairant le désordre de la chambre, où les meubles étaient culbutés. Les vêtements qu\'Hélène jetait sur le dossier d\'un fauteuil en se couchant avaient glissé à terre et barraient le tapis. Le docteur, ayant marché sur un corset, le ramassa pour ne plus le rencontrer sous ses pieds. Une odeur de verveine montait du lit défait et de ces linges épars. C\'était toute l\'intimité d\'une femme violemment étalée. Le docteur alla lui-même chercher la cuvette, trempa un linge, l\'appliqua sur les tempes de Jeanne.
+
+--- Madame, vous allez prendre froid, dit Rosalie qui grelottait. On pourrait peut-être fermer la fenêtre\... L\'air est trop vif.
+
+--- Non, non, cria Hélène, laissez la fenêtre ouverte\... N\'est-ce pas, monsieur ?
+
+De petits souffles de vent entraient, soulevant les rideaux. Elle ne les sentait pas. Pourtant le châle était complètement tombé de ses épaules, découvrant la naissance de la gorge. Par-derrière, son chignon dénoué laissait pendre des mèches folles jusqu\'à ses reins. Elle avait dégagé ses bras nus, pour être plus prompte, oublieuse de tout, n\'ayant plus que la passion de son enfant. Et, devant elle, affairé, le médecin ne songeait pas davantage à son veston ouvert, à son col de chemise que Jeanne venait d\'arracher.
+
+--- Soulevez-la un peu, dit-il. Non, pas ainsi\... Donnez-moi votre main.
+
+Il lui prit la main, la posa lui-même sous la tête de l\'enfant, à laquelle il voulait faire reprendre une cuillerée de potion. Puis, il l\'appela près de lui. Il se servait d\'elle comme d\'un aide, et elle était d\'une obéissance religieuse, en voyant que sa fille semblait plus calme.
+
+--- Venez\... Vous allez lui appuyer la tête sur votre épaule, pendant que j\'écouterai.
+
+Hélène fit ce qu\'il ordonnait. Alors, lui se pencha au-dessus d\'elle, pour poser son oreille sur la poitrine de Jeanne. Il avait effleuré de la joue son épaule nue, et en écoutant le cœur de l\'enfant, il aurait pu entendre battre le cœur de la mère. Quand il se releva, son souffle rencontra le souffle d\'Hélène.
+
+--- Il n\'y a rien de ce côté-là, dit-il tranquillement, pendant qu\'elle se réjouissait. Recouchez-la, il ne faut pas la tourmenter davantage.
+
+Mais un nouvel accès se produisit. Il fut beaucoup moins grave. Jeanne laissa échapper quelques paroles entrecoupées. Deux autres accès avortèrent, à de courts intervalles. L\'enfant était tombée dans une prostration qui parut de nouveau inquiéter le médecin. Il l\'avait couchée la tête très haute, la couverture ramenée sous le menton, et pendant près d\'une heure il demeura là, à la veiller, paraissant attendre le son normal de la respiration. De l\'autre côté du lit, Hélène attendait également, sans bouger.
+
+Peu à peu, une grande paix se fit sur la face de Jeanne. La lampe l\'éclairait d\'une lumière blonde. Son visage reprenait son ovale adorable, un peu allongé, d\'une grâce et d\'une finesse de chèvre. Ses beaux yeux fermés avaient de larges paupières bleuâtres et transparentes, sous lesquelles on devinait l\'éclat sombre du regard. Son nez mince souffla légèrement, sa bouche un peu grande eut un sourire vague. Et elle dormait ainsi, sur la nappe de ses cheveux étalés, d\'un noir d\'encre.
+
+--- Cette fois, c\'est fini, dit le médecin à demi-voix.
+
+Et il se tourna, rangeant ses flacons, s\'apprêtant à partir. Hélène s\'approcha, suppliante.
+
+--- Oh ! monsieur, murmura-t-elle, ne me quittez pas. Attendez quelques minutes. Si des accès se produisaient encore\... C\'est vous qui l\'avez sauvée.
+
+Il fit signe qu\'il n\'y avait plus rien à craindre. Pourtant, il resta, voulant la rassurer. Elle avait envoyé Rosalie se coucher. Bientôt, le jour parut, un jour doux et gris sur la neige qui blanchissait les toitures. Le docteur alla fermer la fenêtre. Et tous deux échangèrent de rares paroles, au milieu du grand silence, à voix très basse.
+
+--- Elle n\'a rien de grave, je vous assure, disait-il. Seulement, à son âge, il faut beaucoup de soins\... Veillez surtout à ce qu\'elle mène une vie égale, heureuse, sans secousse.
+
+Au bout d\'un instant, Hélène dit à son tour :
+
+--- Elle est si délicate, si nerveuse\... Je ne suis pas toujours maîtresse d\'elle. Pour des misères, elle a des joies et des tristesses qui m\'inquiètent, tant elles sont vives\... Elle m\'aime avec une passion, une jalousie qui la font sangloter, lorsque je caresse un autre enfant.
+
+Il hocha la tête, en répétant :
+
+--- Oui, oui, délicate, nerveuse, jalouse\... C\'est le docteur Bodin qui la soigne, n\'est-ce pas ? Je causerai d\'elle avec lui. Nous arrêterons un traitement énergique. Elle est à l\'époque où la santé d\'une femme se décide.
+
+En le voyant si dévoué, Hélène eut un élan de reconnaissance.
+
+--- Ah ! monsieur, que je vous remercie de toute la peine que vous avez prise !
+
+Puis, ayant élevé la voix, elle vint se pencher au-dessus du lit, de peur d\'avoir réveillé Jeanne. L\'enfant dormait, toute rose, avec son vague sourire aux lèvres. Dans la chambre calmée, une langueur flottait. Une somnolence recueillie et comme soulagée avait repris les tentures, les meubles, les vêtements épars. Tout se noyait et se délassait dans le petit jour entrant par les deux fenêtres.
+
+Hélène, de nouveau, demeurait debout dans la ruelle. Le docteur se tenait à l\'autre bord du lit. Et, entre eux, il y avaianne, sommeillant avec son léger souffle.
+
+--- Son père était souvent malade, reprit doucement Hélène, revenant à l\'interrogatoire. Moi, je me suis toujours bien portée.
+
+Le docteur, qui ne l\'avait point encore regardée, leva les yeux, et ne put s\'empêcher de sourire, tant il la trouvait saine et forte. Elle sourit aussi, de son bon sourire tranquille. Sa belle santé la rendait heureuse.
+
+Cependant, il ne la quittait pas du regard. Jamais il n\'avait vu une beauté plus correcte. Grande, magnifique, elle était une Junon châtaine, d\'un châtain doré à reflets blonds. Quand elle tournait lentement la tête, son profil prenait une pureté grave de statue. Ses yeux gris et ses dents blanches lui éclairaient toute la face. Elle avait un menton rond, un peu fort, qui lui donnait un air raisonnable et ferme. Mais ce qui étonnait le docteur, c\'était la nudité superbe de cette mère. Le châle avait encore glissé, la gorge se découvrait, les bras restaient nus. Une grosse natte, couleur d\'or bruni, coulait sur l\'épaule et se perdait entre les seins. Et, dans son jupon mal attaché, échevelée et en désordre, elle gardait une majesté, une hauteur d\'honnêteté et de pudeur qui la laissait chaste sous ce regard d\'homme, où montait un grand trouble.
+
+Elle-même, un instant, l\'examina. Le docteur Deberle était un homme de trente-cinq ans, à la figure rasée, un peu longue, l\'œil fin, les lèvres minces. Comme elle le regardait, elle s\'aperçut à son tour qu\'il avait le cou nu. Et ils restèrent ainsi face à face, avec la petite Jeanne endormie entre eux. Mais cet espace, tout à l\'heure immense, semblait se resserrer. L\'enfant avait un trop léger souffle. Alors, Hélène, d\'une main lente, remonta son châle et s\'enveloppa, tandis que le docteur boutonnait le col de son veston.
+
+--- Maman, maman, balbutia Jeanne dans son sommeil.
+
+Elle s\'éveillait. Quand elle eut les yeux ouverts, elle vit le médecin et s\'inquiéta.
+
+--- Qui est-ce ? Qui est-ce ? demandait-elle.
+
+Mais sa mère la baisait.
+
+--- Dors, ma chérie, tu as été un peu souffrante\... C\'est un ami.
+
+L\'enfant paraissait surprise. Elle ne se souvenait de rien. Le sommeil la reprenait, et elle se rendormit, en murmurant d\'un air tendre :
+
+--- Oh ! j\'ai dodo !\... Bonsoir, petite mère\... S\'il est ton ami, il sera le mien.
+
+Le médecin avait fait disparaître sa pharmacie. Il salua silencieusement et se retira. Hélène écouta un instant la respiration de l\'enfant. Puis, elle s\'oublia, assise sur le bord du lit, les regards et la pensée perdus. La lampe, laissée allumée, pâlissait dans le grand jour.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Première partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941666 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941235 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940804 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940373 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939942 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939511 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939080 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938649 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938218 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937787 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937356 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936925 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936494 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936063 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935632 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935201 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934770 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934339 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933908 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368933477 .pcalibre .calibre2 .pcalibre1} {#ii .calibre59 .sigil_not_in_toc}
+
+
+Le lendemain, Hélène songea qu\'il était convenable d\'aller remercier le docteur Deberle. La façon brusque dont elle l\'avait forcé à la suivre, la nuit entière passée par lui auprès de Jeanne, la laissaient gênée, en face d\'un service qui lui semblait sortir des visites ordinaires d\'un médecin. Cependant, elle hésita pendant deux jours, répugnant à cette démarche pour des raisons qu\'elle n\'aurait pu dire. Ces hésitations l\'occupaient du docteur ; un matin, elle le rencontra et se cacha comme un enfant. Elle fut très contrariée ensuite de ce mouvement de timidité. Sa nature tranquille et droite protestait contre ce trouble qui entrait dans sa vie. Aussi décida-t-elle qu\'elle irait remercier le docteur le jour même.
+
+La crise de la petite avait eu lieu dans la nuit du mardi au mercredi, et l\'on était alors au samedi. Jeanne se trouvait complètement remise. Le docteur Bodin, qui était accouru très inquiet, avait parlé du docteur Deberle avec le respect d\'un pauvre vieux médecin de quartier pour un jeune confrère riche et déjà célèbre. Il racontait pourtant, en souriant d\'un air fin, que la fortune venait de papa Deberle, un homme que tout Passy vénérait. Le fils avait eu simplement la peine d\'hériter d\'un million et demi et d\'une clientèle superbe. Un garçon très fort, d\'ailleurs, se hâtait d\'ajouter le docteur Bodin, et avec lequel il serait très honoré d\'entrer en consultation, au sujet de la chère santé de sa petite amie Jeanne.
+
+Vers trois heures, Hélène et sa fille descendirent et n\'eurent que quelques pas à faire dans la rue Vineuse, pour sonner à l\'hôtel voisin. Toutes deux étaient encore en grand deuil. Ce fut un valet de chambre en habit et en cravate blanche qui leur ouvrit. Hélène reconnut le large vestibule tendu de portières d\'Orient ; seulement, une profusion de fleurs, à droite et à gauche, garnissaient des jardinières. Le valet les avait fait entrer dans un petit salon aux tentures et au meuble réséda. Et, debout, il attendait. Alors, Hélène lui donna son nom :
+
+--- Madame Grandjean.
+
+Le valet poussa la porte d\'un salon, jaune et noir, d\'un éclat extraordinaire ; et, s\'effaçant, il répéta :
+
+--- Madame Grandjean.
+
+Hélène, sur le seuil, eut un mouvement de recul. Elle venait d\'apercevoir, à l\'autre bout, au coin de la cheminée, une jeune dame assise sur un étroit canapé, que la largeur de ses jupes occupait tout entier. En face d\'elle, une personne âgée, qui n\'avait quitté ni son chapeau ni son châle, était en visite.
+
+--- Pardon, murmura Hélène, je désirais voir monsieur le docteur Deberle.
+
+Et elle reprit la main de Jeanne, qu\'elle avait fait entrer devant elle. Cela l\'étonnait et l\'embarrassait de tomber ainsi sur cette jeune dame.
+
+Pourquoi n\'avait-elle pas demandé le docteur ? Elle savait cependant qu\'il était marié.
+
+Justement, madame Deberle achevait un récit d\'une voix rapide et un peu aiguë :
+
+--- Oh ! c\'est merveilleux, merveilleux !\... Elle meurt avec un réalisme !\... Tenez, elle empoigne son corsage comme ça, elle renverse la tête, et elle devient toute verte\... Je vous jure qu\'il faut aller la voir, mademoiselle Aurélie\...
+
+Puis, elle se leva, vint jusqu\'à la porte en faisant un grand bruit d\'étoffes, et dit avec une bonne grâce charmante :
+
+--- Veuillez entrer, madame, je vous en prie\... Mon mari n\'est pas là\... Mais je serai très heureuse, très heureuse, je vous assure\... Ce doit être cette belle demoiselle qui a été si souffrante, l\'autre nuit\... Je vous en prie, asseyez-vous un instant.
+
+Hélène dut accepter un fauteuil, pendant que Jeanne se posait timidement au bord d\'une chaise. Madame Deberle s\'était enfoncée de nouveau dans son petit canapé, en ajoutant avec un joli rire :
+
+--- C\'est mon jour. Oui, je reçois le samedi\... Alors, Pierre introduit tout le monde. L\'autre semaine, il m\'a amené un colonel qui avait la goutte.
+
+--- Êtes-vous folle, Juliette ! murmura mademoiselle Aurélie, la dame âgée, une vieille amie pauvre, qui l\'avait vue naître.
+
+Il y eut un court silence. Hélène donna un regard à la richesse du salon, aux rideaux et aux sièges noir et or qui jetaient un éblouissement d\'astre. Des fleurs s\'épanouissaient sur la cheminée, sur le piano, sur les tables ; et, par les glaces des fenêtres, entrait la lumière claire du jardin, dont on apercevait les arbres sans feuilles et la terre nue. Il faisait très chaud, une chaleur égale de calorifère ; dans la cheminée, une seule bûche se réduisait en braise. Puis, d\'un autre regard, Hélène comprit que le flamboiement du salon était un cadre heureusement choisi. Madame Deberle avait des cheveux d\'un noir d\'encre et une peau d\'une blancheur de lait. Elle était petite, potelée, lente et gracieuse. Dans tout cet or, sous l\'épaisse coiffure sombre qu\'elle portait, son teint pâle se dorait d\'un reflet vermeil. Hélène la trouva réellement adorable.
+
+--- C\'est affreux, les convulsions, avait repris madame Deberle. Mon petit Lucien en a eu, mais dans le premier âge\... Comme vous avez dû être inquiète, madame ! Enfin, cette chère enfant paraît tout à fait bien, maintenant.
+
+Et, en traînant les phrases, elle regardait Hélène à son tour, surprise et ravie de sa grande beauté. Jamais elle n\'avait vu une femme d\'un air plus royal, dans ces vêtements noirs qui drapaient la haute et sévère figure de la veuve. Son admiration se traduisait par un sourire involontaire, tandis qu\'elle échangeait un coup d\'œil avec mademoiselle Aurélie. Toutes deux l\'examinaient d\'une façon si naïvement charmée, que celle-ci eut comme elles un léger sourire.
+
+Alors, madame Deberle s\'allongea doucement dans son canapé, et prenant l\'éventail pendu à sa ceinture :
+
+--- Vous n\'étiez pas hier à la première du Vaudeville, madame ?
+
+--- Je ne vais jamais au théâtre, répondit Hélène.
+
+--- Oh ! la petite Noémi a été merveilleuse, merveilleuse !\... Elle meurt avec un réalisme !\... Elle empoigne son corsage comme ça, elle renverse la tête, elle devient toute verte\... L\'effet a été prodigieux.
+
+Pendant un instant, elle discuta le jeu de l\'actrice, qu\'elle défendait d\'ailleurs. Puis, elle passa aux autres bruits de Paris, une exposition de tableaux où elle avait vu des toiles inouïes, un roman stupide pour lequel on faisait beaucoup de réclame, une aventure risquée, dont elle parla à mots couverts avec mademoiselle Aurélie. Et elle allait ainsi d\'un sujet à un autre, sans fatigue, la voix prompte, vivant là-dedans comme dans un air qui lui était propre. Hélène, étrangère à ce monde, se contentait d\'écouter et plaçait de temps à autre un mot, une réponse brève.
+
+La porte s\'ouvrit, le valet annonça :
+
+--- Madame de Chermette\... Madame Tissot\...
+
+Deux dames entrèrent, en grande toilette. Madame Deberle s\'avança vivement ; et la traîne de sa robe de soie noire, très chargée de garnitures, était si longue, qu\'elle l\'écartait d\'un coup de talon, chaque fois qu\'elle tournait sur elle-même. Pendant un instant, ce fut un bruit rapide de voix flûtées.
+
+--- Que vous êtes aimables !\... Je ne vous vois jamais\...
+
+--- Nous venons pour cette loterie, vous savez ?
+
+--- Parfaitement, parfaitement.
+
+--- Oh ! nous ne pouvons nous asseoir. Nous avons encore vingt maisons à faire.
+
+--- Voyons, vous n\'allez pas vous sauver.
+
+Et les deux dames finirent par se poser au bord d\'un canapé. Alors, les voix flûtées repartirent, plus aiguës.
+
+--- Hein ? hier, au Vaudeville.
+
+--- Oh ! superbe !
+
+--- Vous savez qu\'elle se dégrafe et qu\'elle rabat ses cheveux. Tout l\'effet est là.
+
+--- On prétend qu\'elle avale quelque chose pour devenir verte.
+
+--- Non, non, les mouvements sont calculés\... Mais il fallait les trouver d\'abord.
+
+--- C\'est prodigieux.
+
+Les deux dames s\'étaient levées. Elles disparurent. Le salon retomba dans sa paix chaude. Sur la cheminée, des jacinthes exhalaient un parfum très pénétrant. Un instant, on entendit venir du jardin la violente querelle d\'une bande de moineaux qui s\'abattaient sur une pelouse. Madame Deberle, avant de se rasseoir, alla tirer le store de tulle brodé d\'une fenêtre, en face d\'elle ; et elle reprit sa place, dans l\'or plus doux du salon.
+
+--- Je vous demande pardon, dit-elle, on est envahi\...
+
+Et, très affectueuse, elle causa posément avec Hélène. Elle paraissait connaître en partie son histoire, sans doute par les bavardages de la maison, qui lui appartenait. Avec une hardiesse pleine de tact, et où semblait entrer beaucoup d\'amitié, elle lui parla de son mari, de cette mort affreuse dans un hôtel, l\'hôtel du Var, rue de Richelieu.
+
+--- Et vous débarquiez, n\'est-ce pas ? Vous n\'étiez jamais venue à Paris\... Ce doit être atroce, ce deuil chez des inconnus, au lendemain d\'un long voyage, et lorsqu\'on ne sait encore où poser le pied.
+
+Hélène hochait la tête lentement. Oui, elle avait passé des heures bien terribles. La maladie qui devait emporter son mari s\'était brusquement déclarée, le lendemain de leur arrivée, au moment où ils allaient sortir ensemble. Elle ne connaissait pas une rue, elle ignorait même dans quel quartier elle se trouvait ; et, pendant huit jours, elle était restée enfermée avec le moribond, entendant Paris entier gronder sous sa fenêtre, se sentant seule, abandonnée, perdue, comme au fond d\'une solitude. Lorsque, pour la première fois, elle avait remis les pieds sur le trottoir, elle était veuve. La pensée de cette grande chambre nue, emplie de bouteilles à potion, et où les malles n\'étaient pas même défaites, lui donnait encore un frisson.
+
+--- Votre mari, m\'a-t-on dit, avait presque le double de votre âge ? demanda madame Deberle d\'un air de profond intérêt, pendant que mademoiselle Aurélie tendait les deux oreilles, pour ne rien perdre.
+
+--- Mais non, répondit Hélène, il avait à peine six ans de plus que moi.
+
+Et elle se laissa aller à conter l\'histoire de son mariage, en quelques phrases : le grand amour que son mari avait conçu pour elle, lorsqu\'elle habitait avec son père, le chapelier Mouret, la rue des Petites-Maries, à Marseille ; l\'opposition entêtée de la famille Grandjean, une riche famille de raffineurs, que la pauvreté de la jeune fille exaspérait ; et des noces tristes et furtives, après les sommations légales, et leur vie précaire, jusqu\'au jour où un oncle, en mourant, leur avait légué dix mille francs de rente environ. C\'était alors que Grandjean, qui nourrissait une haine contre Marseille, avait décidé qu\'ils viendraient s\'installer à Paris.
+
+--- À quel âge vous êtes-vous donc mariée ? demanda encore madame Deberle.
+
+--- À dix-sept ans.
+
+--- Vous deviez être bien belle.
+
+La conversation tomba. Hélène n\'avait point paru entendre.
+
+--- Madame Manguelin, annonça le valet.
+
+Une jeune femme parut, discrète et gênée. Madame Deberle se leva à peine. C\'était une de ses protégées qui venait la remercier d\'un service. Elle resta au plus quelques minutes, et se retira, avec une révérence.
+
+Alors, madame Deberle reprit l\'entretien, en parlant de l\'abbé Jouve, que toutes deux connaissaient. C\'était un humble desservant de Notre-Dame-de-Grâce, la paroisse de Passy ; mais sa charité faisait de lui le prêtre le plus aimé et le plus écouté du quartier.
+
+--- Oh ! une onction ! murmura-t-elle avec une mine dévote.
+
+--- Il a été très bon pour nous, dit Hélène. Mon mari l\'avait connu autrefois, à Marseille\... Dès qu\'il a su mon malheur, il s\'est chargé de tout. C\'est lui qui nous a installées à Passy.
+
+--- N\'a-t-il pas un frère ? demanda Juliette.
+
+--- Oui, sa mère s\'est remariée\... Monsieur Rambaud connaissait également mon mari\... Il a fondé, rue de Rambuteau, une grande spécialité d\'huiles et de produits du Midi, et il gagne, je crois, beaucoup d\'argent.
+
+Puis, elle ajouta avec gaieté :
+
+--- L\'abbé et son frère sont toute ma cour.
+
+Jeanne, qui s\'ennuyait sur le bord de sa chaise, regardait sa mère d\'un air d\'impatience. Son fin visage de chèvre souffrait, comme si elle eût regretté tout ce qu\'on disait là ; et elle semblait, par instants, flairer les parfums lourds et violents du salon, jetant des coups d\'œil obliques sur les meubles, méfiante, avertie de vagues dangers par son exquise sensibilité. Puis, elle reportait ses regards sur sa mère avec une adoration tyrannique.
+
+Madame Deberle s\'aperçut du malaise de l\'enfant.
+
+--- Voilà, dit-elle, une petite demoiselle qui s\'ennuie d\'être raisonnable comme une grande personne\... Tenez, il y a des livres d\'images sur ce guéridon.
+
+Jeanne alla prendre un album ; mais ses regards, par-dessus le livre, se coulaient vers sa mère, d\'une façon suppliante. Hélène, gagnée par le milieu de bonne grâce où elle se trouvait, ne bougeait pas ; elle était de sang calme et restait volontiers assise pendant des heures. Pourtant, comme le valet annonçait coup sur coup trois dames, madame Berthier, madame de Guiraud et madame Levasseur, elle crut devoir se lever. Mais madame Deberle s\'écria :
+
+--- Restez donc, il faut que je vous montre mon fils.
+
+Le cercle s\'élargissait devant la cheminée. Toutes ces dames parlaient à la fois. Il y en avait une qui se disait cassée ; et elle racontait que, depuis cinq jours, elle ne s\'était pas couchée avant quatre heures du matin. Une autre se plaignait amèrement des nourrices ; on n\'en trouvait plus une qui fût honnête. Puis, la conversation tomba sur les couturières. Madame Deberle soutint qu\'une femme ne pouvait pas bien habiller ; il fallait un homme. Cependant, deux dames chuchotaient à demi-voix, et comme un silence se faisait, on entendit trois ou quatre mots : toutes se mirent à rire, en s\'éventant d\'une main languissante.
+
+--- Monsieur Malignon, annonça le domestique.
+
+Un grand jeune homme entra, mis très correctement. Il fut salué par de légères exclamations. Madame Deberle, sans se lever, lui tendit la main, en disant :
+
+--- Eh bien ! hier, au Vaudeville ?
+
+--- Infect ! cria-t-il.
+
+--- Comment, infect !\... Elle est merveilleuse, quand elle empoigne son corsage et qu\'elle renverse la tête\...
+
+--- Laissez donc ! C\'est répugnant de réalisme.
+
+Alors, on discuta. Réalisme était bien vite dit. Mais le jeune homme ne voulait pas du tout du réalisme.
+
+--- Dans rien, entendez-vous ! disait-il en haussant la voix, dans rien ! Ça dégrade l\'art.
+
+On finirait par voir de jolies choses sur les planches ! Pourquoi Noémi ne poussait-elle pas les suites jusqu\'au bout ? Et il ébaucha un geste qui scandalisa toutes ces dames. Fi ! l\'horreur ! Mais madame Deberle ayant placé sa phrase sur l\'effet prodigieux que l\'actrice produisait, et madame Levasseur ayant raconté qu\'une dame avait perdu connaissance au balcon, on convint que c\'était un grand succès. Ce mot arrêta net la discussion.
+
+Le jeune homme, dans un fauteuil, s\'allongeait au milieu des jupes étalées. Il paraissait très intime chez le docteur. Il avait pris machinalement une fleur dans une jardinière et la mâchonnait. Madame Deberle lui demanda :
+
+--- Est-ce que vous avez lu le roman ?\...
+
+Mais il ne la laissa pas achever et répondit d\'un air supérieur :
+
+--- Je ne lis que deux romans par an.
+
+Quant à l\'exposition du cercle des Arts, elle ne valait vraiment pas qu\'on se dérangeât. Puis, tous les sujets de conversation du jour étant épuisés, il vint s\'accouder au petit canapé de Juliette, avec laquelle il échangea quelques mots à voix basse, pendant que les autres dames causaient vivement entre elles.
+
+--- Tiens ! il est parti, s\'écria madame Berthier en se retournant. Je l\'avais rencontré, il y a une heure, chez madame Robinot.
+
+--- Oui, et il va chez madame Lecomte, dit madame Deberle. Oh ! c\'est l\'homme le plus occupé de Paris.
+
+Et, s\'adressant à Hélène, qui avait suivi cette scène, elle continua :
+
+--- Un garçon très distingué que nous aimons beaucoup\... Il a un intérêt chez un agent de change. Fort riche, d\'ailleurs, et au courant de tout.
+
+Les dames s\'en allaient.
+
+--- Adieu, chère madame, je compte sur vous mercredi.
+
+--- Oui, c\'est cela, à mercredi.
+
+--- Dites-moi, vous verra-t-on à cette soirée ? On ne sait jamais avec qui on se trouve. J\'irai, si vous y allez.
+
+--- Eh bien ! j\'irai, je vous le promets. Toutes mes amitiés à monsieur de Guiraud.
+
+Quand madame Deberle revint, elle trouva Hélène debout au milieu du salon. Jeanne se serrait contre sa mère, dont elle avait pris la main ; et, de ses doigts convulsifs et caressants, elle l\'attirait par petites secousses vers la porte.
+
+--- Ah ! c\'est vrai, murmura la maîtresse de la maison.
+
+Elle sonna le domestique.
+
+--- Pierre, dites à mademoiselle Smithson d\'amener Lucien.
+
+Et, dans le moment d\'attente qui eut lieu, la porte s\'ouvrit de nouveau, familièrement, sans qu\'on eût annoncé personne. Une belle fille de seize ans entra, suivie d\'un petit vieillard à la figure joufflue et rose.
+
+--- Bonjour, sœur, dit la jeune fille en embrassant madame Deberle.
+
+--- Bonjour, Pauline\... Bonjour, père\..., répondit celle-ci.
+
+Mademoiselle Aurélie, qui n\'avait pas bougé du coin de la cheminée, se leva pour saluer monsieur Letellier. Il tenait un grand magasin de soieries, boulevard des Capucines. Depuis la mort de sa femme, il promenait sa fille cadette partout, en quête d\'un beau mariage.
+
+--- Tu étais hier au Vaudeville ? demanda Pauline.
+
+--- Oh ! prodigieux ! répéta machinalement Juliette, debout devant une glace, en train de ramener une boucle rebelle.
+
+Pauline eut une moue d\'enfant gâtée.
+
+--- Est-ce vexant d\'être jeune fille, on ne peut rien voir !\... Je suis allée avec papa jusqu\'à la porte, à minuit, pour apprendre comment la pièce avait marché.
+
+--- Oui, dit le père, nous avons rencontré Malignon. Il trouvait ça très bien.
+
+--- Tiens ! s\'écria Juliette, il était ici tout à l\'heure, il trouvait ça infect\... On ne sait jamais avec lui.
+
+--- Tu as eu beaucoup de monde ? demanda Pauline, sautant brusquement à un autre sujet.
+
+--- Oh ! un monde fou, toutes ces dames ! Ça n\'a pas désempli\... Je suis morte\...
+
+Puis, songeant qu\'elle oubliait de procéder à une présentation dans les formes, elle s\'interrompit :
+
+--- Mon père et ma sœur\... Madame Grandjean\...
+
+Et l\'on entamait une conversation sur les enfants et sur les bobos qui inquiètent tant les mères, lorsque mademoiselle Smithson, une gouvernante anglaise, se présenta, en tenant un petit garçon par la main. Madame Deberle lui adressa vivement quelques mots en anglais, pour la gronder de s\'être fait attendre.
+
+--- Ah ! voilà mon petit Lucien ! cria Pauline qui se mit à genoux devant l\'enfant, avec un grand bruit de jupes.
+
+--- Laisse-le, laisse-le, dit Juliette. Viens ici, Lucien ; viens dire bonjour à cette demoiselle.
+
+Le petit garçon s\'avança, embarrassé. Il avait au plus sept ans, gros et court, mis avec une coquetterie de poupée. Quand il vit que tout le monde le regardait en souriant, il s\'arrêta ; et, de ses yeux bleus étonnés, il examinait Jeanne.
+
+--- Allons, murmura sa mère.
+
+Il la consulta d\'un coup d\'œil, fit encore un pas. Il montrait cette lourdeur des garçons, le cou dans les épaules, les lèvres fortes et boudeuses, avec des sourcils sournois, légèrement froncés. Jeanne devait l\'intimider, parce qu\'elle était sérieuse, pâle et tout en noir.
+
+--- Mon enfant, il faut être aimable, toi aussi, dit Hélène, en voyant l\'attitude raidie de sa fille.
+
+La petite n\'avait point lâché le poignet de sa mère ; et elle promenait ses doigts sur la peau, entre la manche et le gant. La tête basse, elle attendait Lucien de l\'air inquiet d\'une fille sauvage et nerveuse, prête à se sauver, devant une caresse. Cependant, lorsque sa mère la poussa doucement, elle fit à son tour un pas.
+
+--- Mademoiselle, il faudra que vous l\'embrassiez, reprit en riant madame Deberle. Les dames doivent toujours commencer avec lui\... Oh ! la grosse bête !
+
+--- Embrasse-le, Jeanne, dit Hélène.
+
+L\'enfant leva les yeux sur sa mère, puis, comme gagnée par l\'air bêta du petit garçon, prise d\'un attendrissement subit devant sa bonne figure embarrassée, elle eut un sourire adorable. Son visage s\'éclairait sous le flot brusque d\'une grande passion intérieure.
+
+--- Volontiers, maman, murmura-t-elle.
+
+Et prenant Lucien par les épaules, le soulevant presque, elle le baisa fortement sur les deux joues. Il voulut bien l\'embrasser ensuite.
+
+--- À la bonne heure ! s\'écrièrent tous les assistants.
+
+Hélène saluait et gagnait la porte, accompagnée par madame Deberle.
+
+--- Je vous en prie, madame, disait-elle, veuillez présenter tous mes remerciements à monsieur le docteur\... Il m\'a tirée l\'autre nuit d\'une inquiétude mortelle.
+
+--- Henri n\'est donc pas là ? interrompit monsieur Letellier.
+
+--- Non, il rentrera tard, répondit Juliette.
+
+Et voyant mademoiselle Aurélie se lever pour sortir avec madame Grandjean, elle ajouta :
+
+--- Mais vous restez à dîner avec nous, c\'est convenu.
+
+La vieille demoiselle, qui attendait cette invitation chaque samedi, se décida à ôter son châle et son chapeau. On étouffait dans le salon. Monsieur Letellier venait d\'ouvrir une fenêtre, devant laquelle il restait planté, très occupé d\'un lilas qui bourgeonnait déjà. Pauline jouait à courir avec Lucien, au milieu des chaises et des fauteuils, débandés par les visites.
+
+Alors, sur le seuil, madame Deberle tendit la main à Hélène, dans un geste plein de franchise amicale.
+
+--- Vous permettez, dit-elle. Mon mari m\'avait parlé de vous, je me sentais attirée. Votre malheur, votre solitude\... Enfin, je suis bien heureuse de vous avoir vue, et je compte que nous n\'en resterons pas là.
+
+--- Je vous le promets et je vous remercie, répondit Hélène, très touchée de cet élan d\'affection, chez cette dame qui lui avait paru avoir la tête un peu à l\'envers.
+
+Leurs mains restaient l\'une dans l\'autre, elles se regardaient en face, souriantes. Juliette avoua d\'un air caressant la raison de sa brusque amitié :
+
+--- Vous êtes si belle qu\'il faut bien vous aimer !
+
+Hélène se mit à rire gaiement, car sa beauté la laissait paisible. Elle appela Jeanne, qui suivait d\'un regard absorbé les jeux de Lucien et de Pauline. Mais madame Deberle retint la fillette un instant encore, en reprenant :
+
+--- Vous êtes bons amis, désormais, dites-vous au revoir.
+
+Et les deux enfants s\'envoyèrent chacun un baiser du bout des doigts.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Première partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941667 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941236 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940805 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940374 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939943 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939512 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939081 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938650 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938219 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937788 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937357 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936926 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936495 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936064 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935633 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935202 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934340 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933909 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368933478 .pcalibre .calibre2 .pcalibre1} {#iii .calibre59 .sigil_not_in_toc}
+
+
+Chaque mardi, Hélène avait à dîner monsieur Rambaud et l\'abbé Jouve. C\'étaient eux qui, dans les premiers temps de son veuvage, avaient forcé sa porte et mis leurs couverts, avec un sans-gêne amical, pour la tirer au moins une fois par semaine de la solitude où elle vivait. Puis, ces dîners du mardi étaient devenus une véritable institution. Les convives s\'y retrouvaient, comme à un devoir, juste à sept heures sonnant, avec la même joie tranquille.
+
+Ce mardi-là, Hélène, assise près d\'une fenêtre, travaillait à un ouvrage de couture, profitant des dernières lueurs du crépuscule, en attendant ses invités. Elle vivait là ses journées, dans une paix très douce. Sur ces hauteurs, les bruits se mouraient. Elle aimait cette vaste chambre si calme, avec son luxe bourgeois, son palissandre et son velours bleu. Lorsque ses amis l\'avaient installée, sans qu\'elle s\'occupât de rien, elle avait un peu souffert, les premières semaines, de ce gros luxe où monsieur Rambaud venait d\'épuiser son idéal d\'art et de confort, à la vive admiration de l\'abbé, qui s\'était récusé ; mais elle finissait par être très heureuse dans ce milieu, en le sentant solide et simple comme son cœur. Les rideaux lourds, les meubles sombres et cossus, ajoutaient à sa tranquillité. La seule récréation qu\'elle prît pendant ses longues heures de travail, était de donner un regard au vaste horizon, au grand Paris qui déroulait devant elle la mer houleuse de ses toitures. Son coin de solitude ouvrait sur cette immensité.
+
+--- Maman, je ne vois plus clair, dit Jeanne, assise près d\'elle sur une chaise basse.
+
+Et elle laissa tomber son ouvrage, regardant Paris que de grandes ombres noyaient. D\'ordinaire, elle était peu bruyante. Il fallait que sa mère se fâchât pour la décider à sortir ; sur l\'ordre formel du docteur Bodin, elle l\'emmenait pendant deux heures chaque jour au bois de Boulogne ; et c\'était là leur unique promenade, elles n\'étaient pas descendues trois fois dans Paris en dix-huit mois. Nulle part l\'enfant ne semblait plus gaie que dans la grande chambre bleue. Hélène avait dû renoncer à lui faire apprendre la musique. Un orgue jouant dans le silence du quartier la laissait tremblante, les yeux humides. Elle aidait sa mère à coudre des layettes pour les pauvres de l\'abbé Jouve.
+
+La nuit était complètement venue, lorsque Rosalie entra avec une lampe. Elle paraissait toute retournée, dans son coup de feu de cuisinière. Le dîner du mardi était le seul événement de la semaine qui mettait en l\'air la maison.
+
+--- Ces messieurs ne viennent donc pas ce soir, Madame ? demanda-t-elle.
+
+Hélène regarda la pendule.
+
+--- Il est sept heures moins un quart, ils vont arriver.
+
+Rosalie était un cadeau de l\'abbé Jouve. Il l\'avait prise à la gare d\'Orléans, le jour où elle débarquait, de façon qu\'elle ne connaissait pas un pavé de Paris. C\'était un ancien condisciple de séminaire, le curé d\'un village beauceron, qui la lui avait envoyée. Elle était courte, grasse, la figure ronde sous son étroit bonnet, les cheveux noirs et durs, avec un nez écrasé et une bouche rouge. Et elle triomphait dans les petits plats, car elle avait grandi au presbytère, avec sa marraine, la servante du curé.
+
+--- Ah ! voilà monsieur Rambaud ! dit-elle en allant ouvrir, avant qu\'on eût sonné.
+
+Monsieur Rambaud, grand, carré, montra sa large figure de notaire de province. Ses quarante-cinq ans étaient déjà tout gris. Mais ses gros yeux bleus gardaient l\'air étonné, naïf et doux d\'un enfant.
+
+--- Et voilà monsieur l\'abbé, tout notre monde y est ! reprit Rosalie, en ouvrant de nouveau la porte.
+
+Pendant que monsieur Rambaud, après avoir serré la main d\'Hélène, s\'asseyait sans parler, souriant en homme qui est chez lui, Jeanne s\'était jetée au cou de l\'abbé.
+
+--- Bonjour, bon ami ! dit-elle. J\'ai été bien malade.
+
+--- Bien malade, ma chérie !
+
+Les deux hommes s\'inquiétèrent, l\'abbé surtout, un petit homme sec, avec une grosse tête, sans grâce, habillé à la diable, et dont les yeux à demi fermés s\'agrandirent et s\'emplirent d\'une belle lumière de tendresse. Jeanne, lui laissant une de ses mains, avait donné l\'autre à monsieur Rambaud. Tous deux la tenaient et la couvaient de leurs regards anxieux. Il fallut qu\'Hélène racontât la crise. L\'abbé faillit se fâcher, parce qu\'elle ne l\'avait pas prévenu. Et ils la questionnaient : au moins c\'était bien fini, l\'enfant n\'avait plus rien eu ? La mère souriait.
+
+--- Vous l\'aimez plus que moi, vous finirez par m\'effrayer, dit-elle. Non, elle n\'a plus rien ressenti, quelques douleurs dans les membres seulement, avec des pesanteurs de tête\... Mais nous allons combattre tout ça énergiquement.
+
+--- Madame est servie, vint annoncer la bonne.
+
+La salle à manger était meublée en acajou, une table, un buffet et huit chaises. Rosalie alla tirer les rideaux de reps rouge. Une suspension très simple, une lampe de porcelaine blanche dans un cercle de cuivre, éclairait le couvert, les assiettes symétriques et le potage qui fumait. Chaque mardi, le dîner ramenait les mêmes conversations. Mais, ce jour-là, on causa naturellement du docteur Deberle. L\'abbé Jouve en fit un grand éloge, bien que le docteur ne fût guère dévot. Il le citait comme un homme d\'un caractère droit, d\'un cœur charitable, très bon père et très bon mari, donnant enfin les meilleurs exemples. Quant à madame Deberle, elle était excellente, malgré les allures un peu vives, qu\'elle devait à sa singulière éducation parisienne. En un mot, un ménage charmant. Hélène parut heureuse ; elle avait jugé le ménage ainsi, et ce que lui disait l\'abbé l\'engageait à continuer des relations, qui l\'effrayaient un peu d\'abord.
+
+--- Vous vous enfermez trop, déclara le prêtre.
+
+--- Sans doute, appuya monsieur Rambaud.
+
+Hélène les regardait avec son calme sourire, comme pour leur dire qu\'ils lui suffisaient et qu\'elle redoutait toute amitié nouvelle. Mais dix heures sonnèrent, l\'abbé et son frère prirent leurs chapeaux. Jeanne venait de s\'endormir sur un fauteuil, dans la chambre. Ils se penchèrent un instant, hochèrent la tête d\'un air satisfait en voyant la paix de son sommeil. Puis, ils partirent sur la pointe des pieds ; et, dans l\'antichambre, baissant la voix :
+
+--- À mardi.
+
+--- J\'oubliais, murmura l\'abbé qui remonta deux marches. La mère Fétu est malade. Vous devriez aller la voir.
+
+--- J\'irai demain, répondit Hélène.
+
+L\'abbé l\'envoyait volontiers chez ses pauvres. Ils avaient ensemble toutes sortes de conversations à voix basse, des affaires à eux, sur lesquelles ils s\'entendaient à demi-mot, et dont ils ne parlaient jamais devant le monde. Le lendemain, Hélène sortit seule ; elle évitait d\'emmener Jeanne, depuis que l\'enfant était restée deux jours frissonnante, au retour d\'une visite de charité chez un vieillard paralytique. Dehors, elle suivit la rue Vineuse, prit la rue Raynouard et s\'engagea dans le passage des Eaux, un étrange escalier étranglé entre les murs des jardins voisins, une ruelle escarpée qui descend sur le quai, des hauteurs de Passy. Au bas de cette pente, dans une maison délabrée, la mère Fétu habitait une mansarde, éclairée par une lucarne ronde, et qu\'un misérable lit, une table boiteuse et une chaise dépaillée emplissaient.
+
+--- Ah ! ma bonne dame, ma bonne dame\.... se mit-elle à geindre, lorsqu\'elle vit entrer Hélène.
+
+La mère Fétu était couchée. Toute ronde malgré sa misère, comme enflée et la face bouffie, elle ramenait de ses mains gourdes le lambeau de drap qui la couvrait. Elle avait de petits yeux fins, une voix pleurarde, une humilité bruyante qu\'elle traduisait par un flot de paroles.
+
+--- Ah ! ma bonne dame, je vous remercie !\... Oh ! là, là ! que je souffre ! C\'est comme si des chiens me mangeaient le côté\... Oh ! bien sûr, j\'ai une bête dans le ventre. Tenez, c\'est là, vous voyez. La peau n\'est pas entamée, le mal est dedans\... Oh ! là, là ! ça ne cesse pas depuis deux jours. S\'il est possible, bon Dieu ! de tant souffrir\... Ah ! ma bonne dame, merci ! Vous n\'oubliez pas le pauvre monde. Ça vous sera compté, oui, ça vous sera compté\...
+
+Hélène s\'était assise. Puis, apercevant un pot de tisane fumant sur la table, elle emplit une tasse qui était à côté, et la tendit à la malade. Près du pot, il y avait un paquet de sucre, deux oranges, d\'autres douceurs.
+
+--- On est venu vous voir ? demanda-t-elle.
+
+--- Oui, oui, une petite dame. Mais ça ne sait pas\... Ce n\'est pas de tout ça qu\'il me faudrait. Ah ! si j\'avais un peu de viande ! La voisine mettrait le pot-au-feu\... Là, là ! ça me pince plus fort. Vrai, on dirait un chien\... Ah ! si j\'avais un peu de bouillon\...
+
+Et, malgré les souffrances qui la tordaient, elle suivait de ses yeux fins Hélène, occupée à fouiller dans sa poche. Quand elle lui vit poser sur la table une pièce de dix francs, elle se lamenta davantage, avec des efforts pour s\'asseoir. Tout en se débattant, elle allongea le bras, la pièce disparut, pendant qu\'elle répétait :
+
+--- Mon Dieu ! c\'est encore une crise. Non, je ne puis plus durer comme ça\... Dieu vous le rendra, ma bonne dame. Je lui dirai qu\'il vous le rende\... Tenez, ce sont des élancements qui me traversent tout le corps\... Monsieur l\'abbé m\'avait bien promis que vous viendriez. Il n\'y a que vous pour savoir faire. Je vais acheter un peu de viande\... Voilà que ça me descend dans les cuisses. Aidez-moi, je ne peux plus, je ne peux plus\...
+
+Elle voulait se retourner. Hélène retira ses gants, la saisit le plus doucement possible, et la recoucha. Comme elle était encore penchée, la porte s\'ouvrit, et elle fut si surprise de voir entrer le docteur Deberle, qu\'une rougeur monta à ses joues. Lui aussi avait donc des visites dont il ne parlait pas !
+
+--- C\'est monsieur le médecin, bégayait la vieille. Vous êtes tous bien bons, que le Ciel vous bénisse tous !
+
+Le docteur avait salué discrètement Hélène. La mère Fétu, depuis qu\'il était entré, ne geignait plus si fort. Elle gardait seulement une petite plainte sifflante et continue d\'enfant qui souffre. Elle avait bien vu que la bonne dame et le docteur se connaissaient, et elle ne les quittait plus du regard, allant de l\'un à l\'autre, avec un sourd travail dans les mille rides de son visage. Le docteur lui posa quelques questions, percuta le côté droit. Puis, se tournant vers Hélène qui venait de se rasseoir, il murmura :
+
+--- Ce sont des coliques hépatiques. Elle sera sur pied dans quelques jours.
+
+Et, déchirant une page de son carnet sur laquelle il avait écrit quelques lignes, il dit à la mère Fétu :
+
+--- Tenez, vous ferez porter cela chez le pharmacien de la rue de Passy, et vous prendrez toutes les deux heures une cuillerée de la potion qu\'on vous donnera.
+
+Alors, de nouveau, elle éclata en bénédictions. Hélène restait assise. Le docteur parut s\'attarder, la regardant, lorsque leurs yeux se rencontraient. Puis, il salua et se retira le premier, par discrétion. Il n\'avait pas descendu un étage, que la mère Fétu reprenait ses gémissements.
+
+--- Ah ! quel brave médecin !\... Pourvu que son remède me fasse quelque chose ! J\'aurais dû écraser de la chandelle avec des pissenlits, ça ôte l\'eau qui est dans le corps\... Ah ! vous pouvez dire que vous connaissez là un brave médecin ! Vous le connaissez peut-être bien depuis longtemps ?\... Mon Dieu ! que j\'ai soif ! J\'ai le feu dans le sang\... Il est marié, n\'est-ce pas ? Il mérite bien d\'avoir une bonne femme et de beaux enfants\... Enfin, ça fait plaisir de voir que les braves gens se connaissent.
+
+Hélène s\'était levée pour lui donner à boire.
+
+--- Eh bien ! au revoir, mère Fétu, dit-elle. À demain.
+
+--- C\'est cela\... Que vous êtes bonne !\... Si j\'avais seulement un peu de linge ! Voyez ma chemise, elle est en deux. Je suis couchée sur un fumier\... Ça ne fait rien, le bon Dieu vous rendra tout ça.
+
+Le lendemain, lorsque Hélène arriva, le docteur Deberle était chez la mère Fétu. Assis sur la chaise, il rédigeait une ordonnance, pendant que la vieille femme parlait avec sa volubilité larmoyante.
+
+--- Maintenant, monsieur, c\'est comme un plomb\... Pour sûr, j\'ai du plomb dans le côté. Ça pèse cent livres, je ne peux pas me retourner.
+
+Mais quand elle aperçut Hélène, elle ne s\'arrêta plus.
+
+--- Ah ! c\'est la bonne dame\... Je le disais bien à ce cher monsieur : elle viendra, le ciel tomberait qu\'elle viendrait tout de même\... Une vraie sainte, un ange du paradis, et belle, si belle qu\'on se mettrait à genoux dans les rues pour la voir passer\... Ma bonne dame, ça ne va pas mieux. À cette heure, j\'ai un plomb là\... Oui, je lui ai raconté tout ce que vous faisiez pour moi. L\'empereur ne fait pas davantage\... Ah ! il faudrait être bien méchant pour ne pas vous aimer, bien méchant\...
+
+Pendant qu\'elle lâchait ces phrases en roulant la tête sur le traversin, ses petits yeux à demi clos, le docteur souriait à Hélène, qui restait très gênée.
+
+--- Mère Fétu, murmura-t-elle, je vous apportais un peu de linge\...
+
+--- Merci, merci, Dieu vous le rendra\... C\'est comme ce cher monsieur, il fait plus de bien au pauvre monde que tous les gens dont c\'est le métier. Vous ne savez pas qu\'il m\'a soignée pendant quatre mois ; et des médicaments, et du bouillon, et du vin. On n\'en trouve pas beaucoup des riches comme ça, si honnêtes avec un chacun. Encore un ange du bon Dieu\... Oh ! là, là ! c\'est une vraie maison que j\'ai dans le ventre\...
+
+À son tour, le docteur parut embarrassé. Il se leva, voulut donner sa chaise à Hélène. Mais celle-ci, bien qu\'elle fût venue avec le projet de passer là un quart d\'heure, refusa en disant :
+
+--- Merci, monsieur, je suis très pressée.
+
+Cependant, la mère Fétu, tout en continuant à rouler la tête, venait d\'allonger le bras, et le paquet de linge avait disparu au fond du lit. Puis, elle continua :
+
+--- Ah ! on peut bien dire que vous faites la paire\... Je dis ça, sans vouloir vous offenser, parce que c\'est vrai\... Qui a vu l\'un a vu l\'autre. Les braves gens se comprennent\... Mon Dieu ! donnez-moi la main, que je me retourne !\... Oui, oui, ils se comprennent\...
+
+--- Au revoir, mère Fétu, dit Hélène, qui laissa la place au docteur. Je ne crois pas que je passerai demain.
+
+Pourtant, elle monta encore le jour suivant. La vieille femme sommeillait. Dès qu\'elle s\'éveilla et qu\'elle la reconnut, tout en noir, sur la chaise, elle cria :
+
+--- Il est venu\... Vrai, je ne sais pas ce qu\'il m\'a fait prendre, je suis raide comme un bâton\... Ah ! nous avons causé de vous. Il m\'a demandé toutes sortes de choses, et si vous étiez triste d\'ordinaire, et si vous aviez toujours la même figure\... C\'est un homme si bon !
+
+Elle avait ralenti la voix, elle semblait attendre sur le visage d\'Hélène l\'effet de ses paroles, de cet air câlin et anxieux des pauvres qui veulent faire plaisir au monde. Sans doute, elle pensa voir, au front de la bonne dame, un pli de mécontentement, car sa grosse figure bouffie, tendue et allumée, s\'éteignit tout d\'un coup. Elle reprit en bégayant :
+
+--- Je dors toujours. Je suis peut-être bien empoisonnée\... Il y a une femme, rue de l\'Annonciation, qu\'un pharmacien a tuée en lui donnant une drogue pour une autre.
+
+Hélène, ce jour-là, s\'attarda près d\'une demi-heure chez la mère Fétu, l\'écoutant parler de la Normandie, où elle était née, et où l\'on buvait de si bon lait. Après un silence :
+
+--- Est-ce que vous connaissez le docteur depuis longtemps ? demanda-t-elle négligemment.
+
+La vieille femme, allongée sur le dos, leva à demi les paupières et les referma.
+
+--- Ah ! oui, par exemple ! répondit-elle à voix presque basse. Son père m\'a soignée avant 48, et il l\'accompagnait.
+
+--- On m\'a dit que le père était un saint homme.
+
+--- Oui, oui\... Un peu braque\... Le fils, voyez-vous, vaut encore mieux. Quand il vous touche, on croirait des mains de velours.
+
+Il y eut un nouveau silence.
+
+--- Je vous conseille de faire tout ce qu\'il vous dira, reprit Hélène. Il est très savant, il a sauvé ma fille.
+
+--- Bien sûr ! s\'écria la mère Fétu qui s\'animait. On peut avoir confiance, il a ressuscité un petit garçon qu\'on allait emporter\... Oh ! vous ne m\'empêcherez pas de le dire, il n\'y en a pas deux comme lui. J\'ai la main chanceuse, je tombe sur la crème des honnêtes gens\... Aussi, je remercie le bon Dieu tous les soirs. Je ne vous oublie ni l\'un ni l\'autre, allez ! Vous êtes ensemble dans mes prières\... Que le bon Dieu vous protège et vous accorde tout ce que vous pouvez souhaiter ! Qu\'il vous comble de ses trésors ! Qu\'il vous garde une place dans son paradis !
+
+Elle s\'était soulevée, et, les mains jointes, elle semblait implorer le Ciel avec une ferveur extraordinaire. Hélène la laissa longtemps aller ainsi, et même elle souriait. L\'humilité bavarde de la vieille femme finissait par la bercer et l\'assoupir d\'une façon très douce. Lorsqu\'elle partit, elle lui promit un bonnet et une robe, pour le jour où elle se lèverait.
+
+Toute la semaine, Hélène s\'occupa de la mère Fétu. La visite qu\'elle lui faisait chaque après-midi entrait dans ses habitudes. Elle s\'était surtout prise d\'une singulière amitié pour le passage des Eaux. Cette ruelle escarpée lui plaisait par sa fraîcheur et son silence, par son pavé toujours propre, que lavait, les jours de pluie, un torrent coulant des hauteurs. Quand elle arrivait, elle avait, d\'en haut, une étrange sensation, en regardant s\'enfoncer la pente raide du passage, le plus souvent désert, connu à peine de quelques habitants des rues voisines. Puis, elle se hasardait, elle entrait par une voûte, sous la maison qui borde la rue Raynouard ; et elle descendait à petits pas les sept étages de larges marches, le long desquelles passe le lit d\'un ruisseau caillouté, occupant la moitié de l\'étroit couloir. Les murs des jardins, à droite et à gauche, se renflaient, mangés d\'une lèpre grise ; des arbres allongeaient leurs branches, des feuillages pleuvaient, un lierre jetait la draperie de son épais manteau ; et toutes ces verdures, qui ne laissaient voir que des coins bleus de ciel, faisaient un jour verdâtre très doux et très discret. Au milieu de la descente, elle s\'arrêtait pour souffler, s\'intéressant au réverbère qui pendait là, écoutant des rires, dans les jardins, derrière des portes qu\'elle n\'avait jamais vues ouvertes. Parfois, une vieille montait, en s\'aidant de la rampe de fer, noire et luisante, scellée à la muraille de droite ; une dame s\'appuyait sur son ombrelle comme sur une canne ; une bande de gamins dégringolaient en tapant leurs souliers. Mais presque toujours elle restait seule, et c\'était un grand charme que cet escalier recueilli et ombragé, pareil à un chemin creux dans les forêts. En bas, elle levait les yeux. La vue de cette pente si raide, où elle venait de se risquer, lui donnait une légère peur.
+
+Chez la mère Fétu, elle entrait avec la fraîcheur et la paix du passage des Eaux dans ses vêtements. Ce trou de misère et de douleur ne la blessait plus. Elle y agissait comme chez elle, ouvrant la lucarne ronde, pour renouveler l\'air, déplaçant la table, lorsqu\'elle la gênait. La nudité de ce grenier, les murs blanchis à la chaux, les meubles éclopés, la ramenaient à une simplicité d\'existence qu\'elle avait parfois rêvée, étant jeune fille. Mais ce qui la charmait surtout, c\'était l\'émotion attendrie dans laquelle elle vivait là : son rôle de garde-malade, les continuelles lamentations de la vieille femme, tout ce qu\'elle voyait et sentait autour d\'elle la laissait frissonnante d\'une pitié immense. Elle avait fini par attendre avec une visible impatience la visite du docteur Deberle. Elle le questionnait sur l\'état de la mère Fétu ; puis, ils causaient un instant d\'autre chose, debout l\'un près de l\'autre, se regardant bien en face. Une intimité s\'établissait entre eux. Ils s\'étonnaient en découvrant qu\'ils avaient des goûts semblables. Ils se comprenaient souvent sans ouvrir les lèvres, le cœur tout d\'un coup noyé de la même charité débordante. Et rien n\'était plus doux, pour Hélène, que cette sympathie, qui se nouait en dehors des cas ordinaires, et à laquelle elle cédait sans résistance, tout amollie de pitié. Elle avait eu peur du docteur d\'abord ; dans son salon, elle aurait gardé la froideur méfiante de sa nature. Mais là, ils se trouvaient loin du monde, partageant l\'unique chaise, presque heureux de ces pauvres et laides choses qui les rapprochaient, en les attendrissant. Au bout de la semaine, ils se connaissaient comme s\'ils avaient vécu des années côte à côte. Le taudis de la mère Fétu s\'emplissait de lumière, dans cette communion de leur bonté.
+
+Cependant, la vieille femme se remettait bien lentement. Le docteur était surpris et l\'accusait de se dorloter, lorsqu\'elle lui racontait que maintenant elle avait un plomb dans les jambes. Elle geignait toujours, elle restait sur le dos, à rouler la tête ; et elle fermait les yeux, comme pour les laisser libres. Même, un jour, elle parut s\'endormir ; mais, sous ses paupières, un coin de ses petits yeux noirs les guettait. Enfin, elle dut se lever. Le lendemain, Hélène lui apporta la robe et le bonnet qu\'elle lui avait promis. Quand le docteur fut là, la vieille s\'écria tout d\'un coup :
+
+--- Mon Dieu ! et la voisine qui m\'a dit de voir à son pot-au-feu !
+
+Elle sortit, elle tira la porte derrière elle, les laissant tous deux seuls. Ils continuèrent d\'abord leur conversation, sans s\'apercevoir qu\'ils étaient enfermés. Le docteur pressait Hélène de descendre parfois passer l\'après-midi dans son jardin, rue Vineuse.
+
+--- Ma femme, dit-il, doit vous rendre votre visite, et elle vous renouvellera mon invitation\... Cela ferait beaucoup de bien à votre fille.
+
+--- Mais je ne refuse pas, je ne demande pas qu\'on vienne me chercher en grande cérémonie, dit-elle en riant. Seulement, j\'ai peur d\'être indiscrète\... Enfin, nous verrons.
+
+Ils causèrent encore. Puis, le docteur s\'étonna.
+
+--- Où diable est-elle allée ? Il y a un quart d\'heure qu\'elle est sortie pour ce pot-au-feu.
+
+Hélène vit alors que la porte était fermée. Cela ne la blessa pas tout de suite. Elle parlait de madame Deberle, dont elle faisait un vif éloge à son mari. Mais, comme le docteur tournait continuellement la tête du côté de la porte, elle finit par se sentir gênée.
+
+--- C\'est bien singulier qu\'elle ne revienne pas, murmura-t-elle à son tour.
+
+Leur conversation tomba. Hélène, ne sachant que faire, ouvrit la lucarne ; et quand elle se retourna, ils évitèrent de se regarder. Des rires d\'enfant entraient par la lucarne, qui taillait une lune bleue, très haut, dans le ciel. Ils étaient bien seuls, cachés à tous les regards, n\'ayant que cette trouée ronde qui les voyait. Les enfants se turent, au loin ; un silence frissonnant régna. Personne ne serait venu les chercher dans ce grenier perdu. Leur embarras grandissait. Hélène alors, mécontente d\'elle, regarda fixement le docteur.
+
+--- Je suis accablé de visites, dit-il aussitôt. Puisqu\'elle ne reparaît pas, je me sauve.
+
+Et il s\'en alla. Hélène s\'était assise. La mère Fétu rentra immédiatement, avec un flot de paroles.
+
+--- Ah ! je ne puis pas me traîner, j\'ai eu une faiblesse\... Il est donc parti, le cher monsieur ? Bien sûr, il n\'y a pas de commodités ici. Vous êtes tous les deux des anges du ciel, de passer votre temps avec une malheureuse comme moi. Mais le bon Dieu vous rendra tout ça\... C\'est descendu dans les pieds, aujourd\'hui. J\'ai dû m\'asseoir sur une marche. Et je ne savais plus, parce que vous ne faisiez pas de bruit\... Enfin, je voudrais des chaises. Si j\'avais seulement un fauteuil ! Mon matelas est bien mauvais. J\'ai honte quand vous venez\... Toute la maison est à vous, et je me jetterais dans le feu, s\'il le fallait. Le bon Dieu le sait, je le lui dis assez souvent\... Ô mon Dieu ! faites que le bon monsieur et la bonne dame soient satisfaits dans tous leurs désirs. Au nom du Père, du Fils, du Saint-Esprit, ainsi soit-il !
+
+Hélène l\'écoutait, et elle éprouvait une singulière gêne. Le visage bouffi de la mère Fétu l\'inquiétait. Jamais non plus elle n\'avait ressenti un pareil malaise dans l\'étroite pièce. Elle en voyait la pauvreté sordide, elle souffrait du manque d\'air, de toutes les déchéances de la misère enfermées là. Elle se hâta de s\'éloigner, blessée par les bénédictions dont la mère Fétu la poursuivait.
+
+Une autre tristesse l\'attendait dans le passage des Eaux. Au milieu de ce passage, à droite en descendant, se trouve dans le mur une sorte d\'excavation, quelque puits abandonné, fermé par une grille. Depuis deux jours, en passant, elle entendait, au fond de ce trou, les miaulements d\'un chat. Comme elle montait, les miaulements recommencèrent, mais si lamentables, qu\'ils exhalaient une agonie. La pensée que la pauvre bête, jetée dans l\'ancien puits, y mourait longuement de faim, brisa tout d\'un coup le cœur d\'Hélène. Elle pressa le pas, avec la pensée qu\'elle n\'oserait de longtemps se risquer le long de l\'escalier, de peur d\'y entendre ce miaulement de mort.
+
+Justement, on était au mardi. Le soir, à sept heures, comme Hélène achevait une petite brassière, les deux coups de sonnette habituels retentirent, et Rosalie ouvrit la porte, en disant :
+
+--- C\'est monsieur l\'abbé qui arrive le premier, aujourd\'hui\... Ah ! voici monsieur Rambaud.
+
+Le dîner fut très gai, Jeanne allait mieux encore, et les deux frères, qui la gâtaient, obtinrent qu\'elle mangerait un peu de salade, qu\'elle adorait, malgré la défense formelle du docteur Bodin. Puis, lorsqu\'on passa dans la chambre, l\'enfant, encouragée, se pendit au cou de sa mère en murmurant :
+
+--- Je t\'en prie, petite mère, mène-moi demain avec toi chez la vieille femme.
+
+Mais le prêtre et monsieur Rambaud furent les premiers à la gronder. On ne pouvait pas la mener chez les malheureux, puisqu\'elle ne savait pas s\'y conduire. La dernière fois, elle avait eu deux évanouissements, et durant trois jours, même pendant son sommeil, ses yeux gonflés ruisselaient.
+
+--- Non, non, répéta-t-elle, je ne pleurerai pas, je le promets.
+
+Alors, sa mère l\'embrassa, en disant :
+
+--- C\'est inutile, ma chérie, la vieille femme se porte bien\... Je ne sortirai plus, je resterai toute la journée avec toi.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Première partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941668 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941237 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940806 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940375 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939944 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939513 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939082 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938651 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938220 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937789 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937358 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936927 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936496 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936065 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935634 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935203 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934772 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933910 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368933479 .pcalibre .calibre2 .pcalibre1} {#iv .calibre59 .sigil_not_in_toc}
+
+
+La semaine suivante, lorsque madame Deberle rendit à madame Grandjean sa visite, elle se montra d\'une amabilité pleine de caresses. Et, sur le seuil, comme elle se retirait :
+
+--- Vous savez ce que vous m\'avez promis\... Le premier jour de beau temps, vous descendez au jardin et vous amenez Jeanne. C\'est une ordonnance du docteur.
+
+Hélène souriait.
+
+--- Oui, oui, la chose est entendue. Comptez sur nous.
+
+Trois jours plus tard, par un clair après-midi de février, elle descendit en effet avec sa fille. La concierge leur ouvrit la porte de communication. Au fond du jardin, dans une sorte de serre transformée en pavillon japonais, elles trouvèrent madame Deberle, ayant auprès d\'elle sa sœur Pauline, toutes deux les mains abandonnées, avec des ouvrages de broderie sur une petite table, qu\'elles avaient posés là et oubliés.
+
+--- Ah ! que c\'est donc aimable à vous ! dit Juliette. Tenez, mettez-vous ici\... Pauline, pousse cette table\... Vous voyez, il fait encore un peu frais, lorsqu\'on reste assis, et de ce pavillon nous surveillerons très bien les enfants\... Allons, jouez, mes enfants. Surtout, prenez garde de tomber.
+
+La large baie du pavillon était ouverte, et de chaque côté on avait tiré dans leur châssis des glaces mobiles ; de sorte que le jardin se développait de plain-pied, comme au seuil d\'une tente. C\'était un jardin bourgeois, avec une pelouse centrale, flanquée de deux corbeilles. Une simple grille le fermait sur la rue Vineuse ; seulement, un tel rideau de verdure avait grandi là, que de la rue aucun regard ne pouvait pénétrer ; des lierres, des clématites, des chèvrefeuilles se collaient et s\'enroulaient à la grille, et, derrière ce premier mur de feuillage, s\'en haussait un second, fait de lilas et de faux ébéniers. Même l\'hiver, les feuilles persistantes des lierres et l\'entrelacement des branches suffisaient à barrer la vue. Mais le grand charme était, au fond, quelques arbres de haute futaie, des ormes superbes qui masquaient la muraille noire d\'une maison à cinq étages. Ils mettaient, dans cet étranglement des constructions voisines, l\'illusion d\'un coin de parc et semblaient agrandir démesurément ce jardinet parisien, que l\'on balayait comme un salon. Entre deux ormes pendait une balançoire, dont l\'humidité avait verdi la planchette.
+
+Hélène regardait, se penchait pour mieux voir.
+
+--- Oh ! c\'est un trou, dit négligemment madame Deberle. Mais, à Paris, les arbres sont si rares\... On est bien heureux d\'en avoir une demi-douzaine à soi.
+
+--- Non, non, vous êtes très bien, murmurait Hélène. C\'est charmant.
+
+Ce jour-là, dans le ciel pâle, le soleil mettait une poussière de lumière blonde. C\'était, entre les branches sans feuilles, une pluie lente de rayons. Les arbres rougissaient, on voyait les fins bourgeons violâtres attendrir le ton gris de l\'écorce. Et sur la pelouse, le long des allées, les herbes et les graviers avaient des pointes de clarté, qu\'une brume légère, au ras du sol, noyait et fondait. Il n\'y avait pas une fleur, la gaieté seule du soleil sur la terre nue annonçait le printemps.
+
+--- Maintenant, c\'est encore un peu triste, reprit madame Deberle. Vous verrez en juin, on est dans un vrai nid. Les arbres empêchent les gens d\'à côté d\'espionner, et nous sommes alors complètement chez nous\...
+
+Mais elle s\'interrompit pour crier :
+
+--- Lucien, veux-tu bien ne pas toucher à la fontaine !
+
+Le petit garçon, qui faisait les honneurs du jardin à Jeanne, venait de la conduire devant une fontaine, sous le perron, et là, il avait tourné le robinet, présentant le bout de ses bottines pour les mouiller. C\'était un jeu qu\'il adorait. Jeanne, très grave, le regardait se tremper les pieds.
+
+--- Attends, dit Pauline qui se leva, je vais le faire tenir tranquille.
+
+Juliette la retint.
+
+--- Non, non, tu es plus écervelée que lui. L\'autre jour, on aurait cru que vous aviez pris un bain tous les deux\... C\'est singulier qu\'une grande fille ne puisse pas rester deux minutes assise\...
+
+Et, se tournant :
+
+--- Entends-tu, Lucien, ferme le robinet tout de suite !
+
+L\'enfant, effrayé, voulut obéir. Mais il tourna la clef davantage, l\'eau coula avec une raideur et un bruit qui achevèrent de lui faire perdre la tête. Il recula, éclaboussé jusqu\'aux épaules.
+
+--- Ferme le robinet tout de suite ! répétait sa mère, dont un flot de sang empourprait les joues.
+
+Alors, Jeanne, muette jusque-là, s\'approcha de la fontaine avec toutes sortes de précautions, pendant que Lucien éclatait en sanglots, en face de cette eau enragée dont il avait peur et qu\'il ne savait plus comment arrêter. Elle mit sa jupe entre ses jambes, allongea ses poignets nus pour ne pas mouiller ses manches, et ferma le robinet, sans recevoir une seule éclaboussure. Brusquement, le déluge cessa. Lucien, étonné, frappé de respect, rentra ses larmes et leva ses gros yeux sur la demoiselle.
+
+--- Vraiment, cet enfant me met hors de moi, reprit madame Deberle, qui redevenait toute blanche et s\'allongeait comme brisée de fatigue.
+
+Hélène crut devoir intervenir.
+
+--- Jeanne, dit-elle, prends-lui la main, jouez à vous promener.
+
+Jeanne prit la main de Lucien, et, gravement, ils s\'en allèrent par les allées, à petits pas. Elle était beaucoup plus grande que lui, il avait le bras en l\'air ; mais ce jeu majestueux, qui consistait à tourner en cérémonie autour de la pelouse, semblait les absorber l\'un et l\'autre et donner une grande importance à leurs personnes. Jeanne, comme une vraie dame, avait les regards flottants et perdus. Lucien ne pouvait s\'empêcher, par moments, de risquer un coup d\'œil sur sa compagne. Ils ne se disaient pas un mot.
+
+--- Ils sont drôles, murmura madame Deberle, souriante et calmée. Il faut dire que votre Jeanne est une bien charmante enfant\... Elle est d\'une obéissance, d\'une sagesse\...
+
+--- Oui, quand elle est chez les autres, répondit Hélène. Elle a des heures terribles. Mais comme elle m\'adore, elle tâche d\'être sage pour ne pas me faire de la peine.
+
+Ces dames causèrent des enfants. Les filles étaient plus précoces que les garçons. Pourtant, il ne fallait pas se fier à l\'air bêta de Lucien. Avant un an, lorsqu\'il se serait un peu débrouillé, ce serait un gaillard. Et, sans transition apparente, on en vint à parler d\'une femme qui habitait un petit pavillon en face, et chez laquelle il se passait vraiment des choses\... Madame Deberle s\'arrêta pour dire à sa sœur :
+
+--- Pauline, va donc une minute dans le jardin.
+
+La jeune fille sortit tranquillement et resta sous les arbres. Elle était habituée à ce qu\'on la mît dehors, chaque fois que dans la conversation se présentait quelque chose de trop gros dont on ne pouvait parler devant elle.
+
+--- Hier, j\'étais à la fenêtre, reprit Juliette, et j\'ai parfaitement vu cette femme\... Elle ne tire pas même les rideaux\... C\'est d\'une indécence ! Des enfants pourraient voir ça.
+
+Elle parlait tout bas, l\'air scandalisé, avec un mince sourire dans le coin des lèvres pourtant. Puis, haussant la voix, elle cria :
+
+--- Pauline ! Tu peux revenir.
+
+Sous les arbres, Pauline regardait en l\'air, d\'un air indifférent, en attendant que sa sœur eût fini. Elle entra dans le pavillon, et reprit sa chaise, pendant que Juliette continuait, en s\'adressant à Hélène :
+
+--- Vous n\'avez jamais rien aperçu, vous, madame ?
+
+--- Non, répondit celle-ci, mes fenêtres ne donnent pas sur le pavillon.
+
+Bien qu\'il y eût une lacune pour la jeune fille dans la conversation, elle écoutait, avec son blanc visage de vierge, comme si elle avait compris.
+
+--- Ah bien ! dit-elle en regardant encore en l\'air par la porte, il y a joliment des nids dans les arbres !
+
+Cependant, madame Deberle avait repris sa broderie comme maintien. Elle faisait deux points toutes les minutes. Hélène, qui ne pouvait rester inoccupée, demanda la permission d\'apporter de l\'ouvrage, une autre fois. Et, prise d\'un léger ennui, elle se tourna, elle examina le pavillon japonais. Les murs et le plafond étaient tendus d\'étoffes brochées d\'or, avec des vols de grues qui s\'envolaient, des papillons et des fleurs éclatantes, des paysages où des barques bleues nageaient sur des fleuves jaunes. Il y avait des sièges et des jardinières de bois de fer, sur le sol des nattes fines, et, encombrant des meubles de laque, tout un monde de bibelots, petits bronzes, petites potiches, jouets étranges bariolés de couleurs vives. Au fond, un grand magot en porcelaine de Saxe, les jambes pliées, le ventre nu et débordant, éclatait d\'une gaieté énorme en branlant furieusement la tête, à la moindre poussée.
+
+--- Hein ? est-il assez laid ? s\'écria Pauline qui avait suivi les regards d\'Hélène. Dis donc, sœur, tu sais que c\'est de la camelote, tout ce que tu as acheté ? Le beau Malignon appelle ta japonerie « le bazar à treize sous »\... À propos, je l\'ai rencontré, le beau Malignon. Il était avec une dame, oh ! une dame, la petite Florence, des Variétés.
+
+--- Où donc ? que je le taquine ! demanda vivement Juliette.
+
+--- Sur le boulevard\... Est-ce qu\'il ne doit pas venir aujourd\'hui ?
+
+Mais elle ne reçut pas de réponse. Ces dames s\'inquiétaient des enfants, qui avaient disparu. Où pouvaient-ils être ? Et comme elles les appelaient, deux voix aiguës s\'élevèrent.
+
+--- Nous sommes là !
+
+Ils étaient là, en effet, au milieu de la pelouse, assis dans l\'herbe, à demi cachés par un fusain.
+
+--- Qu\'est-ce que vous faites donc ?
+
+--- Nous sommes arrivés à l\'auberge, cria Lucien. Nous nous reposons dans notre chambre.
+
+Un instant, elles les regardèrent, très égayées. Jeanne se prêtait au jeu, complaisamment. Elle coupait de l\'herbe autour d\'elle, sans doute pour préparer le déjeuner. La malle des voyageurs était figurée par un bout de planche, qu\'ils avaient ramassé au fond d\'un massif. Maintenant, ils causaient. Jeanne se passionnait, répétant avec conviction qu\'ils étaient en Suisse et qu\'ils allaient partir pour visiter les glaciers, ce qui semblait stupéfier Lucien.
+
+--- Tiens ! le voilà ! dit tout d\'un coup Pauline.
+
+Madame Deberle se tourna et aperçut Malignon qui descendait le perron. Elle lui laissa à peine le temps de saluer et de s\'asseoir.
+
+--- Eh bien ! vous êtes gentil, vous ! d\'aller dire partout que je n\'ai que de la camelote chez moi !
+
+--- Ah ! oui, répondit-il tranquillement, ce petit salon\... Certainement, c\'est de la camelote. Vous n\'avez pas un objet qui vaille la peine d\'être regardé.
+
+Elle était très piquée.
+
+--- Comment, le magot ?
+
+--- Mais non, mais non, tout cela est bourgeois\... Il faut du goût. Vous n\'avez pas voulu me charger de l\'arrangement\...
+
+Alors elle l\'interrompit, très rouge, vraiment en colère.
+
+--- Votre goût, parlons-en ! Il est joli, votre goût !\... On vous a rencontré avec une dame\...
+
+--- Quelle dame ? demanda-t-il, surpris par la rudesse de l\'attaque.
+
+--- Un beau choix, je vous en fais mon compliment. Une fille que tout Paris\...
+
+Mais elle se tut, en apercevant Pauline. Elle l\'avait oubliée.
+
+--- Pauline, dit-elle, va donc une minute dans le jardin.
+
+--- Ah ! non, c\'est fatigant à la fin ! déclara la jeune fille qui se révoltait. On me dérange toujours.
+
+--- Va dans le jardin, répéta Juliette avec plus de sévérité.
+
+La jeune fille s\'en alla en rechignant. Puis, elle se tourna, pour ajouter :
+
+--- Dépêchez-vous, au moins.
+
+Dès qu\'elle ne fut plus là, madame Deberle tomba de nouveau sur Malignon. Comment un garçon distingué comme lui pouvait-il se montrer en public avec cette Florence ? Elle avait au moins quarante ans, elle était laide à faire peur, tout l\'orchestre la tutoyait aux premières représentations.
+
+--- Avez-vous fini ? cria Pauline, qui se promenait sous les arbres d\'un air boudeur. Je m\'ennuie, moi.
+
+Mais Malignon se défendait. Il ne connaissait pas cette Florence ; jamais il ne lui avait adressé la parole. On avait pu le voir avec une dame, il accompagnait quelquefois la femme d\'un de ses amis. D\'ailleurs, quelle était la personne qui l\'avait vu ? Il fallait des preuves, des témoins.
+
+--- Pauline, demanda brusquement madame Deberle, en haussant la voix, n\'est-ce pas que tu l\'as rencontré avec Florence ?
+
+--- Oui, oui, répondit la jeune fille, sur le boulevard, en face de chez Bignon.
+
+Alors, madame Deberle, triomphante, devant le sourire embarrassé de Malignon, cria :
+
+--- Tu peux revenir, Pauline. C\'est fini.
+
+Malignon avait une loge pour le lendemain, aux Folies Dramatiques. Il l\'offrit galamment, sans paraître tenir rancune à madame Deberle ; d\'ailleurs, ils se querellaient toujours. Pauline voulut savoir si elle pouvait aller voir la pièce qu\'on jouait ; et comme Malignon riait, en branlant la tête, elle dit que c\'était bien stupide, que les auteurs auraient dû écrire des pièces pour les jeunes filles. On ne lui permettait que *la Dame blanche* et le théâtre classique.
+
+Cependant, ces dames ne surveillaient plus les enfants. Tout d\'un coup, Lucien poussa des cris terribles.
+
+--- Que lui as-tu fait, Jeanne ? demanda Hélène.
+
+--- Je ne lui ai rien fait, maman, répondit la petite fille. C\'est lui qui s\'est jeté par terre.
+
+La vérité était que les enfants venaient de partir pour les fameux glaciers. Comme Jeanne prétendait qu\'on arrivait sur les montagnes, ils levaient tous les deux les pieds très haut, afin d\'enjamber les rochers. Mais Lucien, essoufflé par cet exercice, avait fait un faux pas et s\'était étalé au beau milieu d\'une plate-bande. Une fois par terre, très vexé, pris d\'une rage de marmot, il avait éclaté en larmes.
+
+--- Relève-le, cria de nouveau Hélène.
+
+--- Il ne veut pas, maman. Il se roule.
+
+Et Jeanne se reculait, comme blessée et irritée de voir le petit garçon si mal élevé. Il ne savait pas jouer, il allait certainement la salir. Elle avait une moue de duchesse qui se compromet. Alors, madame Deberle, que les cris de Lucien impatientaient, pria sa sœur de le ramasser et de le faire taire. Pauline ne demandait pas mieux. Elle courut, se jeta par terre à côté de l\'enfant, se roula un instant avec lui. Mais il se débattait, il ne voulait pas qu\'on le prît. Elle se releva pourtant, en le tenant sous les bras ; et, pour le calmer.
+
+--- Tais-toi, braillard ! dit-elle. Nous allons nous balancer.
+
+Lucien se tut brusquement, Jeanne perdit son air grave, et une joie ardente illumina son visage. Tous trois coururent vers la balançoire. Mais ce fut Pauline qui s\'assit sur la planchette.
+
+--- Poussez-moi, dit-elle aux enfants.
+
+Ils la poussèrent de toute la force de leurs petites mains. Seulement, elle était lourde, ils la remuaient à peine.
+
+--- Poussez donc ! répétait-elle. Oh ! les grosses bêtes, ils ne savent pas.
+
+Dans le pavillon, madame Deberle venait d\'avoir un léger frisson. Elle trouvait qu\'il ne faisait pas chaud, malgré ce beau soleil. Et elle avait prié Malignon de lui passer un burnous de cachemire blanc, accroché à une espagnolette. Malignon s\'était levé pour lui poser le burnous sur les épaules. Tous deux causaient familièrement de choses qui intéressaient fort peu Hélène. Aussi cette dernière, inquiète, craignant que Pauline, sans le vouloir, ne renversât les enfants, alla-t-elle dans le jardin, laissant Juliette et le jeune homme discuter une mode de chapeau qui les passionnait.
+
+Dès que Jeanne vit sa mère, elle s\'approcha d\'elle, d\'un air câlin, avec une supplication dans toute sa personne.
+
+--- Oh ! maman, murmura-t-elle ; oh ! maman\...
+
+--- Non, non, répondit Hélène, qui comprit très bien. Tu sais qu\'on te l\'a défendu.
+
+Jeanne adorait se balancer. Il lui semblait qu\'elle devenait un oiseau, disait-elle. Ce vent qui lui soufflait au visage, cette brusque envolée, ce va-et-vient continu, rythmé comme un coup d\'aile, lui causait l\'émotion délicieuse d\'un départ pour les nuages. Elle croyait s\'en aller là-haut. Seulement, cela finissait toujours mal. Une fois, on l\'avait trouvée cramponnée aux cordes de la balançoire, évanouie, les yeux grands ouverts, pleins de l\'effarement du vide. Une autre fois, elle était tombée, raidie comme une hirondelle frappée d\'un grain de plomb.
+
+--- Oh ! maman, continuait-elle, rien qu\'un peu, un tout petit peu.
+
+Sa mère, pour avoir la paix, l\'assit enfin sur la planchette. L\'enfant rayonnait, avec une expression dévote, un léger tremblement de jouissance qui agitait ses poignets nus. Et, comme Hélène la balançait très doucement :
+
+--- Plus fort, plus fort, murmurait-elle.
+
+Mais Hélène ne l\'écoutait pas. Elle ne quittait point la corde. Et elle s\'animait elle-même, les joues roses, toute vibrante des poussées qu\'elle imprimait à la planchette. Sa gravité habituelle se fondait dans une sorte de camaraderie avec sa fille.
+
+--- C\'est assez, déclara-t-elle, en enlevant Jeanne entre ses bras.
+
+--- Alors, balance-toi, je t\'en prie, balance-toi, dit l\'enfant, qui était restée pendue à son cou.
+
+Elle avait la passion de voir sa mère s\'envoler, comme elle le disait, prenant plus de joie encore à la regarder qu\'à se balancer elle-même. Mais celle-ci lui demanda en riant qui la pousserait ; quand elle jouait, elle, c\'était sérieux : elle montait par-dessus les arbres. Juste à ce moment, monsieur Rambaud parut, conduit par la concierge. Il avait rencontré madame Deberle chez Hélène, et il avait cru pouvoir se présenter, en ne trouvant pas cette dernière à son appartement. Madame Deberle se montra très aimable, touchée par la bonhomie du digne homme. Puis, elle s\'enfonça de nouveau dans un entretien très vif avec Malignon.
+
+--- Bon ami va te pousser ! bon ami va te pousser ! criait Jeanne en sautant autour de sa mère.
+
+--- Veux-tu te taire ! Nous ne sommes pas chez nous, dit Hélène, qui affecta un air de sévérité.
+
+--- Mon Dieu ! murmura monsieur Rambaud, si cela vous amuse, je suis à votre disposition. Quand on est à la campagne\...
+
+Hélène se laissait tenter. Lorsqu\'elle était jeune fille, elle se balançait pendant des heures, et le souvenir de ces lointaines parties l\'emplissait d\'un sourd désir. Pauline, qui s\'était assise avec Lucien au bord de la pelouse, intervint de son air libre de grande fille émancipée.
+
+--- Oui, oui, monsieur va vous pousser\... Après il me poussera. N\'est-ce pas, monsieur, vous me pousserez ?
+
+Cela décida Hélène. La jeunesse qui était en elle, sous la correction froide de sa grande beauté, éclatait avec une ingénuité charmante. Elle se montrait simple et gaie comme une pensionnaire. Surtout, elle n\'avait point de pruderie. En riant, elle dit qu\'elle ne voulait pas montrer ses jambes, et elle demanda une ficelle, avec laquelle elle noua ses jupes au-dessus de ses chevilles. Puis, montée debout sur la planchette, les bras élargis et se tenant aux cordes, elle cria joyeusement :
+
+--- Allez, monsieur Rambaud\... Doucement d\'abord !
+
+Monsieur Rambaud avait accroché son chapeau à une branche. Sa large et bonne figure s\'éclairait d\'un sourire paternel. Il s\'assura de la solidité des cordes, regarda les arbres, se décida à donner une légère poussée. Hélène venait, pour la première fois, de quitter le deuil. Elle portait une robe grise, garnie de nœuds mauves. Et, toute droite, elle partait lentement, rasant la terre, comme bercée.
+
+--- Allez ! Allez ! dit-elle.
+
+Alors, monsieur Rambaud, les bras en avant, saisissant la planchette au passage, lui imprima un mouvement plus vif. Hélène montait ; à chaque vol, elle gagnait de l\'espace. Mais le rythme gardait une gravité. On la voyait, correcte encore, un peu sérieuse, avec des yeux très clairs dans son beau visage muet ; ses narines seules se gonflaient, comme pour boire le vent. Pas un pli de ses jupes n\'avait bougé. Une natte de son chignon se dénouait.
+
+--- Allez ! Allez !
+
+Une brusque secousse l\'enleva. Elle montait dans le soleil, toujours plus haut. Une brise se dégageait d\'elle et soufflait dans le jardin ; et elle passait si vite, qu\'on ne la distinguait plus avec netteté. Maintenant, elle devait sourire, son visage était rose, ses yeux filaient comme des étoiles. La natte dénouée battait sur son cou. Malgré la ficelle qui les nouait, ses jupes flottaient et découvraient la blancheur de ses chevilles. Et on la sentait à l\'aise, la poitrine libre, vivant dans l\'air comme dans une patrie.
+
+--- Allez ! Allez !
+
+Monsieur Rambaud, en nage, la face rouge, déploya toute sa force. Il y eut un cri. Hélène montait encore.
+
+--- Oh ! maman ! Oh ! maman ! répétait Jeanne en extase.
+
+Elle s\'était assise sur la pelouse, elle regardait sa mère, ses petites mains serrées sur sa poitrine, comme si elle eût elle-même bu tout cet air qui soufflait. Elle manquait d\'haleine, elle suivait instinctivement d\'une cadence des épaules les longues oscillations de la balançoire. Et elle criait :
+
+--- Plus fort ! Plus fort !
+
+Sa mère montait toujours. En haut, ses pieds touchaient les branches des arbres.
+
+--- Plus fort ! Plus fort ! Oh ! maman, plus fort !
+
+
+Alors, Jeanne joignit les mains. Sa mère lui apparaissait comme une sainte, avec un nimbe d\'or, envolée pour le paradis. Et elle balbutiait encore : « Oh ! maman, oh ! maman\... » d\'une voix brisée.
+
+Cependant madame Deberle et Malignon, intéressés, s\'étaient avancés sous les arbres. Malignon trouvait cette dame très courageuse. Madame Deberle dit d\'un air effrayé :
+
+--- Le cœur me tournerait, c\'est certain.
+
+Hélène entendit, car elle jeta ces mots, du milieu des branches :
+
+--- Oh ! moi, j\'ai le cœur solide !\... Allez, allez donc, monsieur Rambaud.
+
+Et, en effet, sa voix restait calme. Elle semblait ne pas se soucier des deux hommes qui étaient là. Ils ne comptaient pas sans doute. Sa natte s\'était échevelée ; la ficelle devait se relâcher, et ses jupons avaient des bruits de drapeau. Elle montait.
+
+Mais, tout d\'un coup, elle cria :
+
+--- Assez, monsieur Rambaud, assez !
+
+Le docteur Deberle venait de paraître sur le perron. Il s\'approcha, embrassa tendrement sa femme, souleva Lucien et le baisa au front. Puis, il regarda Hélène en souriant.
+
+--- Assez, assez ! continuait à dire celle-ci.
+
+--- Pourquoi donc ? demanda-t-il. Je vous dérange ?
+
+Elle ne répondit pas. Elle était devenue grave. La balançoire, lancée à toute volée, ne s\'arrêtait point ; elle gardait de longues oscillations régulières qui enlevaient encore Hélène très haut. Et le docteur, surpris et charmé, l\'admirait, tant elle était superbe, grande et forte, avec sa pureté de statue antique, ainsi balancée mollement, dans le soleil printanier. Mais elle paraissait irritée ; et, brusquement, elle sauta.
+
+--- Attendez ! Attendez ! criait tout le monde.
+
+Hélène avait poussé une plainte sourde. Elle était tombée sur le gravier d\'une allée, et elle ne put se relever.
+
+--- Mon Dieu ! quelle imprudence ! dit le docteur, la face très pâle.
+
+Tous s\'empressaient autour d\'elle. Jeanne pleurait si fort, que monsieur Rambaud, défaillant lui-même, dut la prendre dans ses bras. Cependant, le docteur interrogeait vivement Hélène.
+
+--- C\'est la jambe droite qui a porté, n\'est-ce pas ?\... Vous ne pouvez vous mettre debout ?
+
+Et, comme elle restait étourdie, sans répondre, il demanda encore :
+
+--- Vous souffrez ?
+
+--- Une douleur sourde, là, au genou, dit-elle péniblement.
+
+Alors, il envoya sa femme chercher sa pharmacie et des bandages. Il répétait :
+
+--- Il faut voir, il faut voir\... Ce n\'est rien sans doute.
+
+Puis, il s\'agenouilla sur le gravier. Hélène le laissait faire. Mais, lorsqu\'il avança les mains, elle se souleva d\'un effort, elle serra ses jupes autour de ses pieds.
+
+--- Non, non, murmura-t-elle.
+
+--- Pourtant, dit-il, il faut bien voir\...
+
+Elle avait un léger tremblement, et, d\'une voix plus basse, elle reprit :
+
+--- Je ne veux pas\... Ce n\'est rien.
+
+Il la regarda, étonné d\'abord. Une teinte rose était montée à son cou. Pendant un instant, leurs yeux se rencontrèrent et semblèrent lire au fond de leurs âmes. Alors, troublé lui-même, il se releva avec lenteur et resta près d\'elle, sans lui demander davantage à la visiter.
+
+Hélène avait appelé monsieur Rambaud d\'un signe. Elle lui dit à l\'oreille.
+
+--- Allez chercher le docteur Bodin, racontez-lui ce qui m\'arrive.
+
+Dix minutes plus tard, quand le docteur Bodin arriva, elle se mit debout avec un courage surhumain, et s\'appuyant sur lui et sur monsieur Rambaud, elle remonta chez elle. Jeanne la suivait, toute secouée de larmes.
+
+--- Je vous attends, avait dit le docteur Deberle à son confrère. Venez nous rassurer.
+
+Dans le jardin, on causa vivement. Malignon s\'écriait que les femmes avaient de drôles de têtes. Pourquoi diable cette dame s\'était-elle amusée à sauter ? Pauline, très contrariée de l\'aventure qui la privait d\'un plaisir, trouvait imprudent de se faire balancer si fort. Le médecin ne parlait pas, semblait soucieux.
+
+--- Rien de grave, dit le docteur Bodin en redescendant, une simple foulure\... Seulement, elle restera sur sa chaise longue au moins pendant quinze jours.
+
+Monsieur Deberle tapa alors amicalement sur l\'épaule de Malignon. Il voulut que sa femme rentrât, parce que décidément il faisait trop frais. Et, prenant Lucien, il l\'emporta lui-même, en le couvrant de baisers.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[UNE PAGE D'AMOUR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Première partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941669 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941238 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940807 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940376 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939945 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939514 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939083 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938652 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938221 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937790 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937359 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936928 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936497 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936066 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935635 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935204 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934773 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934342 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368933911 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368933480 .pcalibre .calibre2 .pcalibre1} {#v .calibre59 .sigil_not_in_toc}
+
+
+Les deux fenêtres de la chambre étaient grandes ouvertes, et Paris, dans l\'abîme qui se creusait au pied de la maison, bâtie à pic sur la hauteur, déroulait sa plaine immense. Dix heures sonnaient, la belle matinée de février avait une douceur et une odeur de printemps.
+
+Hélène, allongée sur sa chaise longue, le genou encore emmailloté de bandes, lisait devant une des fenêtres. Elle ne souffrait plus ; mais, depuis huit jours elle était clouée là, ne pouvant même travailler à son ouvrage de couture habituel. Ne sachant que faire, elle avait ouvert un livre traînant sur le guéridon, elle qui ne lisait jamais. C\'était le livre dont elle se servait chaque soir pour masquer la veilleuse, le seul qu\'elle eût sorti en dix-huit mois de la petite bibliothèque, garnie par monsieur Rambaud d\'ouvrages honnêtes. D\'ordinaire, les romans lui semblaient faux et puérils. Celui-là, l\'*Ivanhoé* de Walter Scott, l\'avait d\'abord fort ennuyée. Puis, une curiosité singulière lui était venue. Elle l\'achevait, attendrie parfois, prise d\'une lassitude, et elle le laissait tomber de ses mains pendant de longues minutes, les regards fixés sur le vaste horizon.
+
+Ce matin-là, Paris mettait une paresse souriante à s\'éveiller. Une vapeur, qui suivait la vallée de la Seine, avait noyé les deux rives. C\'était une buée légère, comme laiteuse, que le soleil peu à peu grandi éclairait. On ne distinguait rien de la ville, sous cette mousseline flottante, couleur du temps. Dans les creux, le nuage épaissi se fonçait d\'une teinte bleuâtre, tandis que, sur de larges espaces, des transparences se faisaient, d\'une finesse extrême, poussière dorée où l\'on devinait l\'enfoncement des rues ; et, plus haut, des dômes et des flèches déchiraient le brouillard, dressant leurs silhouettes grises, enveloppés encore des lambeaux de la brume qu\'ils trouaient. Par instants, des pans de fumée jaune se détachaient avec le coup d\'aile lourd d\'un oiseau géant, puis se fondaient dans l\'air qui semblait les boire. Et, au-dessus de cette immensité, de cette nuée descendue et endormie sur Paris, un ciel très pur, d\'un bleu effacé, presque blanc, déployait sa voûte profonde. Le soleil montait dans un poudroiement adouci de rayons. Une clarté blonde, du blond vague de l\'enfance, se brisait en pluie, emplissait l\'espace de son frisson tiède. C\'était une fête, une paix souveraine et une gaieté tendre de l\'infini, pendant que la ville, criblée de flèches d\'or, paresseuse et somnolente, ne se décidait point à se montrer sous ses dentelles.
+
+Hélène, depuis huit jours, avait cette distraction du grand Paris élargi devant elle. Jamais elle ne s\'en lassait. Il était insondable et changeant comme un océan, candide le matin et incendié le soir, prenant les joies et les tristesses des cieux qu\'il reflétait. Un coup de soleil lui faisait rouler des flots d\'or, un nuage l\'assombrissait et soulevait en lui des tempêtes. Toujours, il se renouvelait : c\'étaient des calmes plats, couleur orange, des coups de vent qui d\'une heure à l\'autre plombaient l\'étendue, des temps vifs et clairs allumant une lueur à la crête de chaque toiture, des averses noyant le ciel et la terre, effaçant l\'horizon dans la débâcle d\'un chaos. Hélène goûtait là toutes les mélancolies et tous les espoirs du large ; elle croyait même en recevoir au visage le souffle fort, la senteur amère ; et il n\'était pas jusqu\'au grondement continu de la ville qui ne lui apportât l\'illusion de la marée montante, battant contre les rochers d\'une falaise.
+
+Le livre glissa de ses mains. Elle rêvait, les yeux perdus. Quand elle le lâchait ainsi, c\'était par un besoin de ne pas continuer, de comprendre et d\'attendre. Elle prenait une jouissance à ne point satisfaire tout de suite sa curiosité. Le récit la gonflait d\'une émotion qui l\'étouffait. Paris, justement, ce matin-là, avait la joie et le trouble vague de son cœur. Il y avait là un grand charme : ignorer, deviner à demi, s\'abandonner à une lente initiation, avec le sentiment obscur qu\'elle recommençait sa jeunesse.
+
+Comme ces romans mentaient ! Elle avait bien raison de ne jamais en lire. C\'étaient des fables bonnes pour les têtes vides, qui n\'ont point le sentiment exact de la vie. Et elle restait séduite pourtant, elle songeait invinciblement au chevalier Ivanhoé, si passionnément aimé de deux femmes, Rébecca, la belle juive, et la noble lady Rowena. Il lui semblait qu\'elle aurait aimé avec la fierté et la sérénité patiente de cette dernière. Aimer, aimer ! et ce mot qu\'elle ne prononçait pas, qui de lui-même vibrait en elle, l\'étonnait et la faisait sourire. Au loin, des flocons pâles nageaient sur Paris, emportés par une brise, pareils à une bande de cygnes. De grandes nappes de brouillard se déplaçaient ; un instant, la rive gauche apparut, tremblante et voilée, comme une ville féerique aperçue en songe ; mais une masse de vapeur s\'écroula, et cette ville fut engloutie sous le débordement d\'une inondation. Maintenant, les vapeurs, également épandues sur tous les quartiers, arrondissaient un beau lac, aux eaux blanches et unies. Seul, un courant plus épais marquait d\'une courbe grise le cours de la Seine. Lentement, sur ces eaux blanches, si calmes, des ombres semblaient faire voyager des vaisseaux aux voiles roses, que la jeune femme suivait d\'un regard songeur. Aimer, aimer ! et elle souriait à son rêve qui flottait.
+
+
+Mon Dieu ! était-ce vrai, toutes ces choses ? Et, renversée dans sa chaise longue, engourdie par l\'immobilité qu\'il lui fallait garder, elle contemplait Paris noyé et mystérieux, sous le soleil blond. Alors, évoquée par les pages du roman, sa propre existence se dressa. Elle se vit jeune fille, à Marseille, chez son père, le chapelier Mouret. La rue des Petites-Maries était noire, et la maison, avec sa cuve d\'eau bouillante, pour la fabrication des chapeaux, exhalait, même par les beaux temps, une odeur fade d\'humidité. Elle vit aussi sa mère, toujours malade, qui la baisait de ses lèvres pâles, sans parler. Jamais elle n\'avait aperçu un rayon de soleil dans sa chambre d\'enfant. On travaillait beaucoup autour d\'elle, on gagnait rudement une aisance ouvrière. Puis, c\'était tout ; jusqu\'à son mariage, rien ne tranchait dans cette succession de jours semblables. Un matin, comme elle revenait du marché avec sa mère, elle avait heurté le fils Grandjean de son panier plein de légumes. Charles s\'était retourné et les avait suivies. Tout le roman de ses amours tenait là. Pendant trois mois, elle le rencontra sans cesse, humble et gauche, n\'osant l\'aborder. Elle avait seize ans, elle était un peu fière de cet amoureux, qu\'elle savait d\'une famille riche. Mais elle le trouvait laid, elle riait de lui souvent, et dormait des nuits paisibles dans l\'ombre de la grande maison humide. Puis, on les avait mariés. Ce mariage l\'étonnait encore. Charles l\'adorait, se mettait par terre, le soir, quand elle se couchait, pour baiser ses pieds nus. Elle souriait, pleine d\'amitié, en lui reprochant d\'être bien enfant. Alors, une vie grise avait recommencé. Pendant douze ans, elle ne se souvenait pas d\'une secousse. Elle était très calme et très heureuse, sans une fièvre de la chair ni du cœur, enfoncée dans les soucis quotidiens d\'un ménage pauvre. Charles baisait toujours ses pieds de marbre, tandis qu\'elle se montrait indulgente et maternelle pour lui. Rien de plus. Et elle vit brusquement la chambre de l\'hôtel du Var, son mari mort, sa robe de veuve étalée sur une chaise. Elle avait pleuré comme le soir d\'hiver où sa mère était morte. Ensuite, les jours avaient coulé encore. Depuis deux mois, avec sa fille, elle se sentait de nouveau très heureuse et très calme. Mon Dieu ! était-ce tout ? et que disait donc ce livre, lorsqu\'il parlait de ces grandes amours qui éclairent toute une existence ?
+
+À l\'horizon, sur le lac dormant, de longs frissons couraient. Puis, le lac, tout d\'un coup, parut crever ; des fentes se faisaient, et il y avait, d\'un bout à l\'autre, un craquement qui annonçait la débâcle. Le soleil, plus haut, dans la gloire triomphante de ses rayons, attaquait victorieusement le brouillard. Peu à peu, le grand lac semblait se tarir, comme si quelque déversoir invisible eût vidé la plaine. Les vapeurs, tout à l\'heure si profondes, s\'amincissaient, devenaient transparentes en prenant les colorations vives de l\'arc-en-ciel. Toute la rive gauche était d\'un bleu tendre, lentement foncé, violâtre au fond, du côté du jardin des Plantes. Sur la rive droite, le quartier des Tuileries avait le rose pâli d\'une étoffe couleur chair, tandis que, vers Montmartre, c\'était comme une lueur de braise, du carmin flambant dans de l\'or ; puis, très loin, les faubourgs ouvriers s\'assombrissaient d\'un ton brique, de plus en plus éteint et passant au gris bleuâtre de l\'ardoise. On ne distinguait point encore la ville tremblante et fuyante, comme un de ces fonds sous-marins que l\'œil devine par les eaux claires, avec leurs forêts terrifiantes de grandes herbes, leurs grouillements pleins d\'horreur, leurs monstres entrevus. Cependant, les eaux baissaient toujours. Elles n\'étaient plus que de fines mousselines étalées ; et, une à une, les mousselines s\'en allaient, l\'image de Paris s\'accentuait et sortait du rêve.
+
+Aimer, aimer ! pourquoi ce mot revenait-il en elle avec cette douceur, pendant qu\'elle suivait la fonte du brouillard ? N\'avait-elle pas aimé son mari, qu\'elle soignait comme un enfant ? Mais un souvenir poignant s\'éveilla, celui de son père, que l\'on avait trouvé pendu trois semaines après la mort de sa femme, au fond d\'un cabinet où les robes de celle-ci étaient encore accrochées. Il agonisait là, raidi, la figure enfoncée dans une jupe, enveloppé de ces vêtements qui exhalaient un peu de celle qu\'il adorait toujours. Puis, dans sa rêverie, il y eut un brusque saut : elle songeait à des détails d\'intérieur, aux comptes du mois qu\'elle avait arrêtés le matin même avec Rosalie, et elle se sentait très fière de son bon ordre. Elle avait vécu plus de trente années dans une dignité et dans une fermeté absolues. La justice seule la passionnait. Quand elle interrogeait son passé, elle ne trouvait pas une faiblesse d\'une heure, elle se voyait d\'un pas égal suivre une route unie et toute droite. Certes les jours pouvaient couler, elle continuerait sa marche tranquille, sans que son pied heurtât un obstacle. Et cela la rendait sévère, avec de la colère et du mépris contre ces menteuses existences dont l\'héroïsme trouble les cœurs. La seule existence vraie était la sienne, qui se déroulait au milieu d\'une paix si large. Mais, sur Paris, il n\'y avait plus qu\'une mince fumée, une simple gaze frémissante et près de s\'envoler ; et un attendrissement subit s\'empara d\'elle. Aimer, aimer ! tout la ramenait à la caresse de ce mot, même l\'orgueil de son honnêteté. Sa rêverie devenait si légère, qu\'elle ne pensait plus, baignée de printemps, les yeux humides.
+
+Cependant, Hélène allait reprendre son livre, lorsque Paris, lentement, apparut. Pas un souffle de vent n\'avait passé, ce fut comme une évocation. La dernière gaze se détacha, monta, s\'évanouit dans l\'air. Et la ville s\'étendit sans une ombre, sous le soleil vainqueur. Hélène resta le menton appuyé sur la main, regardant cet éveil colossal.
+
+
+Hélène, d\'abord, s\'intéressa aux larges étendues déroulées sous ses fenêtres, à la pente du Trocadéro et au développement des quais. Il fallait qu\'elle se penchât, pour apercevoir le carré nu du Champ-de-Mars, fermé au fond par la barre sombre de l\'École militaire. En bas, sur la vaste place et sur les trottoirs, aux deux côtés de la Seine, elle distinguait les passants, une foule active de points noirs emportés dans un mouvement de fourmilière ; la caisse jaune d\'un omnibus jetait une étincelle ; des camions et des fiacres traversaient le pont, gros comme des jouets d\'enfant, avec des chevaux délicats qui ressemblaient à des pièces mécaniques ; et, le long des talus gazonnés, parmi d\'autres promeneurs, une bonne en tablier blanc tachait l\'herbe d\'une clarté. Puis, Hélène leva les yeux ; mais la foule s\'émiettait et se perdait, les voitures elles-mêmes devenaient des grains de sable ; il n\'y avait plus que la carcasse gigantesque de la ville, comme vide et déserte, vivant seulement par la sourde trépidation qui l\'agitait. Là, au premier plan, à gauche, des toits rouges luisaient, les hautes cheminées de la Manutention fumaient avec lenteur ; tandis que, de l\'autre côté du fleuve, entre l\'esplanade et le Champ-de-Mars, un bouquet de grands ormes faisait un coin de parc, dont on voyait nettement les branches nues, les cimes arrondies, teintées déjà de pointes vertes. Au milieu, la Seine s\'élargissait et régnait, encaissée dans ses berges grises, où des tonneaux déchargés, des profils de grues à vapeur, des tombereaux alignés, mettaient le décor d\'un port de mer. Hélène revenait toujours à cette nappe resplendissante sur laquelle des barques passaient, pareilles à des oiseaux couleur d\'encre. Invinciblement, d\'un long regard, elle en remontait la coulée superbe. C\'était comme un galon d\'argent qui coupait Paris en deux. Ce matin-là, l\'eau roulait du soleil, l\'horizon n\'avait pas de lumière plus éclatante. Et le regard de la jeune femme rencontrait d\'abord le pont des Invalides, puis le pont de la Concorde, puis le Pont-Royal ; les ponts continuaient, semblaient se rapprocher, se superposaient, bâtissant d\'étranges viaducs à plusieurs étages, troués d\'arches de toutes formes ; pendant que le fleuve, entre ces constructions légères, montrait des bouts de sa robe bleue, de plus en plus perdus et étroits. Elle levait encore les yeux : là-bas, la coulée se séparait dans la débandade confuse des maisons ; les ponts des deux côtés de la Cité, devenaient des fils tendus d\'une rive à l\'autre ; et les tours de Notre-Dame, toutes dorées, se dressaient comme les bornes de l\'horizon, au-delà desquelles la rivière, les constructions, les massifs d\'arbres n\'étaient plus que de la poussière de soleil. Alors, éblouie, elle quitta ce cœur triomphal de Paris, où toute la gloire de la ville paraissait flamber. Sur la rive droite, au milieu des futaies des Champs-Élysées, les grandes verrières du palais de l\'industrie étalaient des blancheurs de neige ; plus loin, derrière la toiture écrasée de la Madeleine, semblable à une pierre tombale, se dressait la masse énorme de l\'Opéra ; et c\'étaient d\'autres édifices, des coupoles et des tours, la colonne Vendôme, Saint-Vincent-de-Paul, la tour Saint-Jacques, plus près les cubes lourds des pavillons du nouveau Louvre et des Tuileries, à demi enfouis dans un bois de marronniers. Sur la rive gauche, le dôme des Invalides ruisselait de dorures ; au-delà, les deux tours inégales de Saint-Sulpice pâlissaient dans la lumière ; et, en arrière encore, à droite des aiguilles neuves de Sainte-Clotilde, le Panthéon bleuâtre, assis carrément sur une hauteur, dominait la ville, développait en plein ciel sa fine colonnade, immobile dans l\'air avec le ton de soie d\'un ballon captif.
+
+Maintenant, Hélène, d\'un coup d\'œil paresseusement promené, embrassait Paris entier. Des vallées s\'y creusaient, que l\'on devinait aux mouvements des toitures ; la butte des Moulins montait avec un flot bouillonnant de vieilles ardoises, tandis que la ligne des Grands Boulevards dévalait comme un ruisseau, où s\'engloutissait une bousculade de maisons dont on ne voyait même plus les tuiles. À cette heure matinale, le soleil oblique n\'éclairait point les façades tournées vers le Trocadéro. Aucune fenêtre ne s\'allumait. Seuls, des vitrages, sur les toits, jetaient des lueurs, de vives étincelles de mica, dans le rouge cuit des poteries environnantes. Les maisons restaient grises, d\'un gris chauffé de reflets ; mais des coups de lumière trouaient les quartiers, de longues rues qui s\'enfonçaient, droites devant Hélène, coupaient l\'ombre de leurs rais de soleil. À gauche seulement, les buttes Montmartre et les hauteurs du Père-Lachaise bossuaient l\'immense horizon plat, arrondi sans une cassure. Les détails si nets aux premiers plans, les dentelures innombrables des cheminées, les petites hachures noires des milliers de fenêtres, s\'effaçaient, se chinaient de jaune et de bleu, se confondaient dans un pêle-mêle de ville sans fin, dont les faubourgs hors de la vue semblaient allonger des plages de galets, noyées d\'une brume violâtre, sous la grande clarté épandue et vibrante du ciel.
+
+Hélène, toute grave, regardait, lorsque Jeanne entra joyeusement.
+
+--- Maman, maman, vois donc !
+
+L\'enfant tenait un gros paquet de giroflées jaunes. Et elle raconta, avec des rires, qu\'elle avait guetté Rosalie rentrer des provisions, pour voir dans son panier. C\'était sa joie de fouiller dans ce panier.
+
+--- Vois donc, maman ! Il y avait ça, au fond\... Sens un peu, la bonne odeur !
+
+Les fleurs fauves, tigrées de pourpre, exhalaient une senteur pénétrante, qui embaumait toute la chambre. Alors, Hélène, d\'un mouvement passionné, attira Jeanne contre sa poitrine, pendant que le paquet de giroflées tombait sur ses genoux. Aimer, aimer ! certes, elle aimait son enfant. N\'était-ce point assez, ce grand amour qui avait empli sa vie jusque-là ? Cet amour devait lui suffire, avec sa douceur et son calme, son éternité qu\'aucune lassitude ne pouvait rompre. Et elle serrait davantage sa fille, comme pour écarter des pensées qui menaçaient de la séparer d\'elle. Cependant, Jeanne s\'abandonnait à cette aubaine de baisers. Les yeux humides, elle se caressait elle-même contre l\'épaule de sa mère, avec un mouvement câlin de son cou délicat. Puis, elle lui passa un bras à la taille, elle resta là, bien sage, la joue appuyée sur son sein. Entre elles, les giroflées mettaient leur parfum.
+
+Longtemps, elles ne parlèrent pas. Jeanne, sans bouger, demanda enfin à voix basse :
+
+--- Maman, tu vois, là-bas, près de la rivière, ce dôme qui est tout rose\... Qu\'est-ce donc ?
+
+C\'était le dôme de l\'Institut. Hélène, un instant, regarda, parut se consulter. Et, doucement :
+
+--- Je ne sais pas, mon enfant.
+
+La petite se contenta de cette réponse, le silence recommença. Mais elle posa bientôt une autre question.
+
+--- Et là, tout près, ces beaux arbres ? reprit-elle, en montrant du doigt une échappée du jardin des Tuileries.
+
+--- Ces beaux arbres ? murmura la mère. À gauche, n\'est-ce pas ?\... Je ne sais pas, mon enfant.
+
+--- Ah ! dit Jeanne.
+
+Puis, après une courte rêverie, elle ajouta, avec une moue grave :
+
+--- Nous ne savons rien.
+
+Elles ne savaient rien de Paris, en effet. Depuis dix-huit mois qu\'elles l\'avaient sous les yeux à toute heure, elles n\'en connaissaient pas une pierre. Trois fois seulement, elles étaient descendues dans la ville ; mais, remontées chez elles, la tête malade d\'une telle agitation, elles n\'avaient rien retrouvé, au milieu du pêle-mêle énorme des quartiers.
+
+Jeanne, pourtant, s\'entêtait parfois.
+
+--- Ah ! tu vas me dire ! demanda-t-elle. Ces vitres toutes blanches ?\... C\'est trop gros, tu dois savoir.
+
+Elle désignait le palais de l\'industrie. Hélène hésitait.
+
+--- C\'est une gare\... Non, je crois que c\'est un théâtre\...
+
+Elle eut un sourire, elle baisa les cheveux de Jeanne, en répétant sa réponse habituelle :
+
+--- Je ne sais pas, mon enfant.
+
+Alors, elles continuèrent à regarder Paris, sans chercher davantage à le connaître. Cela était très doux, de l\'avoir là et de l\'ignorer. Il restait l\'infini et l\'inconnu. C\'était comme si elles se fussent arrêtées au seuil d\'un monde, dont elles avaient l\'éternel spectacle, en refusant d\'y descendre. Souvent, Paris les inquiétait, lorsqu\'il leur envoyait des haleines chaudes et troublantes. Mais, ce matin-là, il avait une gaieté et une innocence d\'enfant, son mystère ne leur soufflait que de la tendresse à la face.
+
+Hélène reprit son livre, tandis que Jeanne, serrée contre elle, regardait toujours. Dans le ciel éclatant et immobile, aucune brise ne s\'élevait. Les fumées de la Manutention montaient toutes droites, en flocons légers qui se perdaient très haut. Et, au ras des maisons, des ondes passaient sur la ville, une vibration de vie, faite de toute la vie enfermée là. La voix haute des rues prenait dans le soleil une mollesse heureuse. Mais un bruit attira l\'attention de Jeanne. C\'était un vol de pigeons blancs, parti de quelque pigeonnier voisin, et qui traversait l\'air, en face de la fenêtre ; ils emplissaient l\'horizon, la neige volante de leurs ailes cachait l\'immensité de Paris.
+
+Les yeux de nouveau levés et perdus, Hélène rêvait profondément. Elle était lady Rowena, elle aimait avec la paix et la profondeur d\'une âme noble. Cette matinée de printemps, cette grande ville si douce, ces premières giroflées qui lui parfumaient les genoux, avaient peu à peu fondu son cœur.

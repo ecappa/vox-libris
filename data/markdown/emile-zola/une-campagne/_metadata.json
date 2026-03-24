@@ -1,0 +1,432 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "UNE CAMPAGNE",
+  "slug": "une-campagne",
+  "nombre_chapitres": 40,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1789,
+      "spine_end_exclusive": 1791,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_490.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_491.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 1791,
+      "spine_end_exclusive": 1792,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_492.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Un homme très fort",
+      "slug": "un-homme-tres-fort",
+      "spine_start": 1792,
+      "spine_end_exclusive": 1793,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_493.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les trente-six Républiques",
+      "slug": "les-trente-six-republiques",
+      "spine_start": 1793,
+      "spine_end_exclusive": 1794,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_494.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le parti de l'indignation",
+      "slug": "le-parti-de-lindignation",
+      "spine_start": 1794,
+      "spine_end_exclusive": 1795,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_495.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'encre et le sang",
+      "slug": "lencre-et-le-sang",
+      "spine_start": 1795,
+      "spine_end_exclusive": 1796,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_496.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Victor Hugo",
+      "slug": "victor-hugo",
+      "spine_start": 1796,
+      "spine_end_exclusive": 1797,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_497.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Impuissance de la critique",
+      "slug": "impuissance-de-la-critique",
+      "spine_start": 1797,
+      "spine_end_exclusive": 1798,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_498.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Futur ministre",
+      "slug": "futur-ministre",
+      "spine_start": 1798,
+      "spine_end_exclusive": 1799,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_499.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Un bourgeois",
+      "slug": "un-bourgeois",
+      "spine_start": 1799,
+      "spine_end_exclusive": 1800,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_500.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Une statue pour Balzac",
+      "slug": "une-statue-pour-balzac",
+      "spine_start": 1800,
+      "spine_end_exclusive": 1801,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_501.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Gambetta",
+      "slug": "gambetta",
+      "spine_start": 1801,
+      "spine_end_exclusive": 1802,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_502.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Bêtise",
+      "slug": "betise",
+      "spine_start": 1802,
+      "spine_end_exclusive": 1803,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_503.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Monsieur le Comte",
+      "slug": "monsieur-le-comte",
+      "spine_start": 1803,
+      "spine_end_exclusive": 1804,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_504.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le naturalisme",
+      "slug": "le-naturalisme",
+      "spine_start": 1804,
+      "spine_end_exclusive": 1805,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_505.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La fille au théâtre",
+      "slug": "la-fille-au-theatre",
+      "spine_start": 1805,
+      "spine_end_exclusive": 1806,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_506.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Nana",
+      "slug": "nana",
+      "spine_start": 1806,
+      "spine_end_exclusive": 1807,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_507.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Comment elles poussent",
+      "slug": "comment-elles-poussent",
+      "spine_start": 1807,
+      "spine_end_exclusive": 1808,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_508.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'adultère dans la bourgeoisie",
+      "slug": "ladultere-dans-la-bourgeoisie",
+      "spine_start": 1808,
+      "spine_end_exclusive": 1809,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_509.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Femmes honnêtes",
+      "slug": "femmes-honnetes",
+      "spine_start": 1809,
+      "spine_end_exclusive": 1810,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_510.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le divorce et la littérature",
+      "slug": "le-divorce-et-la-litterature",
+      "spine_start": 1810,
+      "spine_end_exclusive": 1811,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_511.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le cadavre récalcitrant",
+      "slug": "le-cadavre-recalcitrant",
+      "spine_start": 1811,
+      "spine_end_exclusive": 1812,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_512.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Edmond de Goncourt",
+      "slug": "edmond-de-goncourt",
+      "spine_start": 1812,
+      "spine_end_exclusive": 1813,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_513.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La république en Russie",
+      "slug": "la-republique-en-russie",
+      "spine_start": 1813,
+      "spine_end_exclusive": 1814,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_514.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La politique expérimentale",
+      "slug": "la-politique-experimentale",
+      "spine_start": 1814,
+      "spine_end_exclusive": 1815,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_515.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Notre École Normale",
+      "slug": "notre-ecole-normale",
+      "spine_start": 1815,
+      "spine_end_exclusive": 1816,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_516.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Céard et Huysmans",
+      "slug": "ceard-et-huysmans",
+      "spine_start": 1816,
+      "spine_end_exclusive": 1817,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_517.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Nos hommes d'esprit",
+      "slug": "nos-hommes-desprit",
+      "spine_start": 1817,
+      "spine_end_exclusive": 1818,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_518.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Émile de Girardin",
+      "slug": "emile-de-girardin",
+      "spine_start": 1818,
+      "spine_end_exclusive": 1819,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_519.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Protestantisme",
+      "slug": "protestantisme",
+      "spine_start": 1819,
+      "spine_end_exclusive": 1820,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_520.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Réponses aux protestants",
+      "slug": "reponses-aux-protestants",
+      "spine_start": 1820,
+      "spine_end_exclusive": 1821,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_521.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Hugo et Littré",
+      "slug": "hugo-et-littre",
+      "spine_start": 1821,
+      "spine_end_exclusive": 1822,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_522.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Souveraineté des lettres",
+      "slug": "souverainete-des-lettres",
+      "spine_start": 1822,
+      "spine_end_exclusive": 1823,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_523.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alexis et Maupassant",
+      "slug": "alexis-et-maupassant",
+      "spine_start": 1823,
+      "spine_end_exclusive": 1824,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_524.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Pro domo mea",
+      "slug": "pro-domo-mea",
+      "spine_start": 1824,
+      "spine_end_exclusive": 1825,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_525.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le suffrage universel",
+      "slug": "le-suffrage-universel",
+      "spine_start": 1825,
+      "spine_end_exclusive": 1826,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_526.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Pluie de couronnes",
+      "slug": "pluie-de-couronnes",
+      "spine_start": 1826,
+      "spine_end_exclusive": 1827,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_527.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Esclaves ivres",
+      "slug": "esclaves-ivres",
+      "spine_start": 1827,
+      "spine_end_exclusive": 1828,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_528.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La démocratie",
+      "slug": "la-democratie",
+      "spine_start": 1828,
+      "spine_end_exclusive": 1829,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_529.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alphonse Daudet",
+      "slug": "alphonse-daudet",
+      "spine_start": 1829,
+      "spine_end_exclusive": 1830,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_530.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Adieux",
+      "slug": "adieux",
+      "spine_start": 1830,
+      "spine_end_exclusive": 1832,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_531.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_532.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/une-campagne/Zola5_image079.jpg",
+    "images/emile-zola/une-campagne/Zola5_image080.jpg",
+    "images/emile-zola/une-campagne/Zola5_image081.jpg",
+    "images/emile-zola/une-campagne/Zola5_image082.jpg",
+    "images/emile-zola/une-campagne/Zola5_image083.jpg",
+    "images/emile-zola/une-campagne/Zola5_image084.jpg",
+    "images/emile-zola/une-campagne/Zola5_image085.jpg",
+    "images/emile-zola/une-campagne/Zola5_image086.jpg"
+  ]
+}

@@ -1,0 +1,2038 @@
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+## []{#_Toc368783406 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783266 .calibre4 .pcalibre .pcalibre1}[Acte II]{#_Toc368783126 .calibre4 .pcalibre .pcalibre1} {#calibre_toc_18 .calibre37}
+
+Le bureau du Grand-Cerf. Au fond, par une large baie occupant le centre d'une cloison vitrée, on aperçoit une salle de café. Au second plan, à droite, la porte d'entrée de la rue ; à gauche, une porte donnant dans l'intérieur de l'hôtel. Au premier plan : à droite, un bureau avec un fauteuil ; à gauche, une grande armoire à linge. Un canapé à gauche. Au fond, également à gauche, des bougeoirs sur une planchette, des clefs accrochées à des files de clous numérotés. Une lampe allumée est posée sur le bureau. Le café est éclairé par des becs de gaz.
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+!{#Image588 .calibre66}
+
+
+::: WordSection
+*\*
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783407 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783267 .calibre4 .pcalibre .pcalibre1}[Scène première]{#_Toc368783127 .calibre4 .pcalibre .pcalibre1} {#scène-première .calibre48 .sigil_not_in_toc}
+
+
+FRANÇOISE, RIBALIER
+
+**
+FRANÇOISE**.
+Alors, monsieur, quand j'ai vu madame enfiler si vite le corridor, je l'ai suivie tout doucement\... Depuis ce matin, comme vous me l'avez recommandé, je ne quitte pas ses talons.
+
+**
+RIBALIER**.
+Très bien !\... Alors ?
+
+**
+FRANÇOISE**.
+Alors, monsieur, elle était entrée dans la chambre de ce militaire.
+
+**
+RIBALIER**.
+Dans la chambre, saperlotte !\... Alors ?
+
+**
+FRANÇOISE**.
+Alors, monsieur, ils riaient là-dedans\... Oh ! ils se faisaient du bon sang, bien sûr !
+
+(*Elle rit.)*
+
+**
+RIBALIER**.
+Ils riaient, ils riaient\... Tu trouves ça drôle, toi ? Sois convenable, entends-tu !\... Alors ?
+
+**
+FRANÇOISE**.
+Alors, monsieur\... Dame ! je n'en sais pas plus long, je n'y ai pas mis le nez !
+
+**
+RIBALIER**.
+Comment ! tu n'as pas pénétré dans la chambre ?
+
+**
+FRANÇOISE**.
+Ah ! ça, non !
+
+**
+RIBALIER**.
+Et tu les as laissés ensemble ?
+
+**
+FRANÇOISE**.
+Mais oui\... Je suis descendue vous dire ce qui se passait.
+
+**
+RIBALIER**.
+Veux-tu bien vite remonter ! Plante-toi à la porte, entre sous un prétexte quelconque et dis-moi tout ?
+
+**
+FRANÇOISE**.
+Je cours, monsieur, je cours !
+
+(*Elle sort vivement par la gauche.)*
+
+**
+RIBALIER**.
+Quelle journée ! Pas un quart d'heure de repos ! Toujours dans des transes, toujours en observation ! Une femme parle à tant de monde dans une maison comme la nôtre !\... Ah ! je donnerais beaucoup pour être à demain et voir revenir Brochard. Car je les ai assez pratiquées, je sais que les plus innocentes sont souvent les plus terribles\... Et dire que c'est moi, Ribalier, moi, chargé de si doux larcins, qui, aujourd'hui, ai la mission de garder\... Non, si on s'en doutait, ce seraient des gorges chaudes dans toute la ville !
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783408 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783268 .calibre4 .pcalibre .pcalibre1}[Scène II]{#_Toc368783128 .calibre4 .pcalibre .pcalibre1} {#scène-ii .calibre48 .sigil_not_in_toc}
+
+
+RIBALIER, PUTOIS, puis FRANÇOISE
+
+**
+PUTOIS**, *arrivant par le fond mystérieusement.*
+Monsieur !
+
+**
+RIBALIER**.
+Hein ?
+
+**
+PUTOIS**.
+Vous m'avez dit de vous répéter tout ce que j'entendrais par rapport à madame !
+
+**
+RIBALIER**.
+Eh bien ?
+
+**
+PUTOIS**, *baissant la voix.*
+Il y en a un, là, dans le café, qui vient de dire à un autre : « La petite boulotte m'irait comme un gant. »
+
+**
+RIBALIER**.
+Après ?
+
+**
+PUTOIS**.
+L'autre a répondu : « Faut se méfier\... Elle donne dans la cavalerie. »
+
+**
+RIBALIER**.
+Mais ce n'est pas de madame dont ils parlaient.
+
+**
+PUTOIS**.
+Peut-être, je ne sais pas.
+
+**
+RIBALIER**.
+Alors, imbécile, pourquoi me fais-tu peur ?
+
+**
+PUTOIS**.
+Dame ! vous m'avez dit d'écouter, j'écoute !\... Lorsque j'entends causer d'une femme, je pense que c'est de la mienne ou de celle d'un autre.
+
+**
+RIBALIER**.
+Il a raison\... Oh ! ma pauvre tête ! Trompez donc les femmes pendant trente années, pour qu'une gamine vous tienne un jour sur les dents !
+
+**
+FRANÇOISE**, *accourant.*
+Monsieur, j'ai rencontré madame qui sortait du corridor\... Voici madame.
+
+**
+RIBALIER**.
+C'est bien\... Allez à votre besogne.
+
+(Putois et Françoise sortent.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783409 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783269 .calibre4 .pcalibre .pcalibre1}[Scène III]{#_Toc368783129 .calibre4 .pcalibre .pcalibre1} {#scène-iii .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, RIBALIER
+
+**
+RIBALIER**, *à part.*
+Interrogeons-la prudemment.
+
+**
+VALENTINE**, *gaiement.*
+Vous ne savez pas ? Je viens de retrouver un ancien bon ami.
+
+**
+RIBALIER**.
+Ah !
+
+**
+VALENTINE**.
+Il appelait Françoise, il avait un bouton à recoudre\... Alors, j'ai vite couru chercher du fil, je suis revenue dans sa chambre\...
+
+**
+RIBALIER**.
+Comment ! c'est vous qui avez recousu le bouton ?
+
+**
+VALENTINE**, *ingénument.*
+Mais oui\... Est-ce que j'ai mal fait ?
+
+**
+RIBALIER**.
+Non, non.
+
+**
+VALENTINE**.
+On doit être aimable, n'est-ce pas ? dans le commerce. Puis, avec un ancien bon ami, vous comprenez ?
+
+(*Gaiement.)*
+Nous avons ri !\... Il m'a embrassée pour la peine.
+
+**
+RIBALIER**, *terrifié.*
+Il vous a embrassée !\... Vous vous êtes laissée embrasser !
+
+**
+VALENTINE**.
+Sans doute\... Est-ce que j'ai mal fait ?
+
+**
+RIBALIER**.
+Fichtre !
+
+**
+VALENTINE**.
+C'était pour me remercier. Un si vieil ami !\... Le capitaine a quarante ans. Il m'a fait sauter sur ses genoux, chez ma tante !
+
+**
+RIBALIER**, *soulagé.*
+Ah ! il a quarante ans ?
+
+**
+VALENTINE**.
+Mon Dieu ! monsieur Ribalier, si j'ai mal agi, ne me le cachez pas\... J'ai promis de vous écouter et de vous obéir.
+
+**
+RIBALIER**.
+Je plaisantais, mon enfant\...
+
+(*Il la fait asseoir devant le bureau.)*
+Tenez, jetez un coup d'œil sur nos livres. Il faut vous mettre au courant\... Reposez-vous, ne bougez plus de là.
+
+**
+VALENTINE**, *feuilletant les livres.*
+Comme vous voudrez, monsieur Ribalier.
+
+**
+RIBALIER**, *revenant, à part.*
+Il a quarante ans\... Qu'est-ce que ça prouve ? J'en ai bien quarante-deux !\... Elle se moque peut-être de moi. On ne sait jamais, avec ces ingénues\... Le capitaine doit être le militaire que Brochard m'a signalé. L'instant est venu, je crois, de ne plus la quitter des yeux.
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783410 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783270 .calibre4 .pcalibre .pcalibre1}[Scène IV]{#_Toc368783130 .calibre4 .pcalibre .pcalibre1} {#scène-iv .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, RIBALIER, CHAMORIN
+
+**
+CHAMORIN**[^[^[\[63\]]{.calibre65 lang="EN-US"}^]{lang="EN-US"}^](../Text/Zola3_split_151.htm#_ftn63){#_ftnref63 .pcalibre .pcalibre1}, *entrant par la gauche, et accrochant la clef de sa chambre.*
+Tiens, ma femme n'est pas encore descendue\...
+
+(*Il s'approche et salue Ribalier.)*
+Monsieur\... votre santé est bonne, ce soir ?\... On vient de m'apprendre que notre couvert est mis dans le petit cabinet. Nous sommes donc chassés de la grande salle ?
+
+**
+RIBALIER**, *très poliment.*
+Je vous prie d'agréer toutes mes excuses, monsieur\... Oui, nous avons un repas de corps. Les officiers du 207e offrent un dîner d'adieu aux officiers du 178e. Et la maison est un peu en l'air.
+
+**
+CHAMORIN**.
+Oh ! les officiers, quels charmants compagnons ! Nous les adorons, monsieur.
+
+**
+RIBALIER**.
+Nous allons en avoir soixante-dix à table.
+
+CHAMORIN.
+Soixante-dix ! Ma femme et moi, nous les adorons !\...
+
+(*Valentine s'échappe tout doucement par le fond, en voyant que Ribalier ne fait plus attention à elle*.)
+À propos, je suis ravi. Ma femme, vous savez ?
+
+**
+RIBALIER**.
+Votre femme ?
+
+**
+CHAMORIN**.
+Je suis une piste, oh ! une piste\... Cette fois, je n'ai qu'à allonger la main. Je laisse mûrir\... Je la pincerai quand il me plaira.
+
+**
+RIBALIER**.
+Tant mieux ! tant mieux !\...
+
+(*Il s'aperçoit que Valentine n'est plus là.)*
+Eh bien, elle est partie ! Encore une fugue !
+
+**
+CHAMORIN**, *le retenant.*
+Il faut que je vous raconte ça.
+
+**
+RIBALIER**, *se dégageant.*
+Je suis occupé. Lâchez-moi donc ! C'est insupportable !
+
+(*Il sort par la gauche.)*
+
+**
+CHAMORIN**.
+Je la pincerai ! je la pincerai !
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783411 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783271 .calibre4 .pcalibre .pcalibre1}[Scène V]{#_Toc368783131 .calibre4 .pcalibre .pcalibre1} {#scène-v .calibre48 .sigil_not_in_toc}
+
+
+CHAMORIN, FRANÇOISE
+
+**
+FRANÇOISE**, *arrivant par le fond.*
+Tiens ! monsieur Ribalier n'est plus là ?
+
+**
+CHAMORIN**.
+Non, belle Françoise\... Il n'y a que moi, qui vous aime\... Petite, petite, approchez.
+
+**
+FRANÇOISE**.
+Fichez-moi la paix ! Je n'ai pas le temps de jouer.
+
+**
+CHAMORIN**.
+Petite\... petite\...
+
+**
+FRANÇOISE**.
+Vrai, je n'ai pas le temps\... Une autre fois.
+
+**
+CHAMORIN**, *allant, la prendre par le bras et l'amenant.*
+Rien qu'une risette\... Fais une risette.
+
+**
+FRANÇOISE**, *riant.*
+Vous me chatouillez, monsieur\... Est-il possible ? Avoir l'air si comme il faut et dire tant de bêtises !\... Ah ! vous trompez joliment votre monde !\...
+
+**
+CHAMORIN**.
+Appelle-moi mon gros bébé.
+
+**
+FRANÇOISE**, *riant.*
+Non, non, je ne saurais pas.
+
+**
+CHAMORIN**.
+Donne-moi des tapes sur la joue et dis-moi : « Petit garçon, vous n'avez pas été sage, vous n'aurez pas de dessert ! »
+
+**
+FRANÇOISE**.
+Je ne saurais pas, bien sûr !\...
+
+(*Elle lui donne des tapes sur la joue.)*
+Petit garçon, vous n'avez pas été sage\...
+
+**
+CHAMORIN**.
+Vous n'aurez pas de dessert\...
+
+**
+FRANÇOISE**, *répétant.*
+Vous n'aurez pas de dessert.
+
+**
+CHAMORIN**, *enthousiasmé.*
+Voilà le bonheur !\... Des petits soins, des mots gentils, des caresses enfantines\... Ah ! belle Françoise, si tu voulais !
+
+**
+FRANÇOISE**.
+Votre femme ne sait donc pas dire ça ?
+
+**
+CHAMORIN**.
+Ma femme ?\...Mais elle me comprime ! mais elle empêche tous mes élans ! Elle ne sent pas le côté maternel de l'amour\...
+
+(*Hortense et Jules arrivent par la porte de gauche et restent dans le fond.)*
+Répète un peu : « Mon gros bébé. »
+
+**
+FRANÇOISE**, *riant.*
+Mon gros bébé.
+
+**
+CHAMORIN**, *se jetant à ses genoux.*
+Oh ! Françoise ! tu es la première femme qui m'ait compris. Nous fuirons ensemble. Tu vas quitter ton mari\...
+
+**
+FRANÇOISE**.
+Mais votre femme, monsieur, votre femme ?
+
+**
+CHAMORIN**.
+Elle ne compte pas. Je la pincerai\...
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783412 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783272 .calibre4 .pcalibre .pcalibre1}[Scène VI]{#_Toc368783132 .calibre4 .pcalibre .pcalibre1} {#scène-vi .calibre48 .sigil_not_in_toc}
+
+
+CHAMORIN, FRANÇOISE, JULES, HORTENSE
+
+**
+HORTENSE**, *s'avançant.*
+Eh bien ! monsieur, à votre aise !
+
+(*Françoise se sauve en riant.)*
+
+**
+CHAMORIN**, *toujours à genoux.*
+Pincé !
+
+**
+HORTENSE**.
+À genoux devant une servante ! Mais, si je demandais une séparation, je l'obtiendrais, monsieur.
+
+**
+CHAMORIN**.
+Pincé !
+
+**
+HORTENSE**.
+Je ne demanderai pas une séparation, j'ajouterai simplement ce nouveau grief à votre dossier\... Relevez-vous. N'étalez pas davantage votre mauvaise conduite.
+
+(*Chamorin se relève.)*
+
+**
+JULES**, *bas, à Chamorin.*
+C'est encore une partie perdue.
+
+**
+CHAMORIN**.
+Oui, jeune homme, c'est encore une partie perdue.
+
+**
+HORTENSE**.
+Nous compterons ensemble\... Allez vous mettre à table. Obéissez.
+
+**
+CHAMORIN**.
+Oui, ma bonne.
+
+**
+HORTENSE**.
+Ne me regardez pas en face. Passez devant moi.
+
+**
+CHAMORIN**.
+Oui, ma bonne.
+
+(*Il sort par le fond, très penaud.)*
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783413 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783273 .calibre4 .pcalibre .pcalibre1}[Scène VII]{#_Toc368783133 .calibre4 .pcalibre .pcalibre1} {#scène-vii .calibre48 .sigil_not_in_toc}
+
+
+HORTENSE, JULES
+
+**
+JULES**.
+Vous êtes sévère, madame.
+
+**
+HORTENSE**, *allant accrocher sa clef.*
+Il faut bien tenir les hommes\... Ah ! monsieur Jules, quand on ne tient pas les hommes, ils vous tiennent.
+
+**
+JULES**.
+C'est pour mon oncle que vous dites cela.
+
+**
+HORTENSE**.
+Oui\... Je suis la plus malheureuse des femmes. Il m'évite, tout est fini.
+
+**
+JULES**, *se rapprochant et baissant la voix.*
+Si je vous fournissais une occasion\...
+
+**
+HORTENSE**.
+Vous ?
+
+**
+JULES**.
+Seulement, il faudrait être prudente, m'écouter en tout\... Chut ! Ne remontez pas dans votre chambre avant de m'avoir vu.
+
+(Ribalier et Valentine entrent par la gauche. Hortense sort par le fond.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783414 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783274 .calibre4 .pcalibre .pcalibre1}[Scène VIII]{#_Toc368783134 .calibre4 .pcalibre .pcalibre1} {#scène-viii .calibre48 .sigil_not_in_toc}
+
+
+RIBALIER, VALENTINE, JULES, puis PUTOIS
+
+**
+RIBALIER**, *à Valentine.*
+Mais vous serez beaucoup mieux. On étouffe dans la salle\... Est-ce que vous n'êtes pas bien ici.
+
+(*Il la fait asseoir devant le bureau.)*
+
+**
+VALENTINE**.
+Très bien.
+
+**
+RIBALIER**[^[^[\[64\]]{.calibre65 lang="EN-US"}^]{lang="EN-US"}^](../Text/Zola3_split_151.htm#_ftn64){#_ftnref64 .pcalibre .pcalibre1}, *apercevant Jules.*
+Tiens ! tu es là ?\... Tu as donc laissé à table ces messieurs du 207e ?
+
+**
+JULES**.
+Oui, je respire un instant.
+
+**
+PUTOIS**, *entrant.*
+Monsieur, il n'y a plus de serviettes, il vient d'arriver encore cinq capitaines.
+
+**
+RIBALIER**.
+Prends du linge dans l'armoire.
+
+PUTOIS.
+Mais je ne pourrai pas tout seul.
+
+**
+RIBALIER**.
+Ah ! ces anciens serviteurs, on n'en fait plus comme ça.
+
+(*Il ouvre l'armoire dans laquelle il prend des serviettes qu'il passe à Putois.)*
+
+**
+VALENTINE**[^[^[\[65\]]{.calibre65 lang="EN-US"}^]{lang="EN-US"}^](../Text/Zola3_split_151.htm#_ftn65){#_ftnref65 .pcalibre .pcalibre1}, *bas, à Jules.*
+Avez-vous fait tout ce dont nous sommes convenus ce matin ?
+
+**
+JULES**, *bas.*
+C'est fait.
+
+**
+VALENTINE**.
+Vous avez vu tous nos amis ?
+
+**
+JULES**.
+Oui.
+
+**
+VALENTINE**.
+Ceux que j'ai connus à Brétigny, chez ma tante, le capitaine Plumet, le lieutenant Raymond\...
+
+**
+JULES**.
+Et le sergent Robert.
+
+**
+VALENTINE**, *à Jules.*
+Vous leur avez bien expliqué ce que j'attendais d'eux ?
+
+**
+JULES**.
+Dans les moindres détails\... Ils savent leur rôle et la comédie peut commencer.
+
+**
+RIBALIER**, *à Putois.*
+Tu as ton affaire, va\...
+
+(*Putois sort par le fond. Bas, à Jules.)*
+Tu sais ce que je t'ai dit : veille toujours et préviens-moi si tu voyais rôder quelqu'un.
+
+JULES.
+Comptez sur ma vigilance\... Je vais rejoindre ces messieurs.
+
+(Il sort par le fond.)
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783415 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783275 .calibre4 .pcalibre .pcalibre1}[Scène IX]{#_Toc368783135 .calibre4 .pcalibre .pcalibre1} {#scène-ix .calibre48 .sigil_not_in_toc}
+
+
+RIBALIER, VALENTINE
+
+**
+VALENTINE**, *assise devant le bureau, en train de feuilleter les registres.*
+Monsieur Ribalier ?
+
+**
+RIBALIER**.
+Ma chère enfant ?
+
+**
+VALENTINE**, *souriant.*
+On m'a raconté de belles histoires sur votre compte.
+
+**
+RIBALIER**.
+Quelles histoires ?
+
+**
+VALENTINE**.
+Oui, des dames compromises, des maris furieux ; toute la ville de Tours mise en l'air par les ravages que vous faites dans les cœurs.
+
+**
+RIBALIER**, *très flatté.*
+On exagère, on exagère\...
+
+(*À part.)*
+Elle est charmante.
+
+**
+VALENTINE**.
+J'ai des détails\... La femme du notaire Prégasson, et la veuve du conservateur des hypothèques, et les deux demoiselles Sauvageot, qui tiennent un bureau de tabac.
+
+**
+RIBALIER**.
+Ah ! on vous a dit ! De mauvaises langues ! On me fait une réputation !\...
+
+(*À part.)*
+Elle est délicieuse, cette petite !
+
+**
+VALENTINE**, *se levant et venant à lui.*
+Dame ! un beau cavalier, un homme bien élevé\...
+
+**
+RIBALIER**, *s'inclinant.*
+Vraiment\...
+
+**
+VALENTINE**.
+Rempli d'instruction, d'une élégance native\...
+
+**
+RIBALIER**.
+Vraiment, vraiment\...
+
+**
+VALENTINE**, *soupirant.*
+Toutes les femmes raffolent de vous, monsieur Ribalier.
+
+**
+RIBALIER**, *modeste.*
+Non ! pas toutes, je vous assure, pas toutes.
+
+(*À part.)*
+Ces ingénues sont parfois gênantes.
+
+**
+VALENTINE**.
+Je serais jalouse, si j'étais votre femme. Mais je suis bien tranquille avec mon mari.
+
+(*Tristement.)*
+Monsieur Brochard n'est pas beau.
+
+**
+RIBALIER**.
+Brochard ? Eh ! il n'est pas mal !
+
+**
+VALENTINE**.
+Ne cherchez pas à me faire plaisir\... Il est très laid.
+
+RIBALIER.
+Mon Dieu ! très laid\... C'est selon les goûts.
+
+**
+VALENTINE**, *s'appuyant à son épaule.*
+Il est votre ami. Vous le connaissez bien.
+
+**
+RIBALIER**.
+Il est mon ami. Et je le connais, je le connais trop !\... Un brutal, un homme sans éducation.
+
+**
+VALENTINE**.
+Oui, oui\... Hélas !
+
+**
+RIBALIER**.
+Il vous massacrera\...
+
+(*Il lui prend une main avec laquelle il joue.)*
+Une pauvre chérie comme vous. Car vous êtes charmante, Valentine, vous avez une bouche, une taille, un pied !\... On ne vous a jamais dit cela, mon enfant ?
+
+**
+VALENTINE**.
+Jamais, monsieur Ribalier.
+
+**
+RIBALIER**, *s'allumant de plus en plus.*
+Je suis le premier, voyez-vous ! La belle petite chatte ! elle est aussi innocente que fraîche ! Une vraie fleur ! Et cette main, oh ! cette main, est-elle assez mignonne !
+
+**
+VALENTINE**.
+Elle vous plaît ?
+
+**
+RIBALIER**.
+On la mangerait de baisers.
+
+**
+VALENTINE**.
+C'est permis ?
+
+**
+RIBALIER**.
+Comment ! si c'est permis !
+
+**
+VALENTINE**.
+Alors, baisez-la !
+
+**
+RIBALIER**, *reculant brusquement.*
+Hein ?\... Pardon !
+
+**
+VALENTINE**[^[^[\[66\]]{.calibre65 lang="EN-US"}^]{lang="EN-US"}^](../Text/Zola3_split_151.htm#_ftn66){#_ftnref66 .pcalibre .pcalibre1}.
+
+Qu'avez-vous ?
+
+**
+RIBALIER**.
+
+Rien\... Il fait un peu chaud ici\...
+
+*À part.*
+
+L'habitude, mon Dieu ! Scélérat !
+
+**
+VALENTINE**, *assise sur le canapé.*
+
+Monsieur Ribalier ?
+
+**
+RIBALIER**.
+
+Mon enfant ?
+
+**
+VALENTINE**.
+
+J'ai des conseils à vous demander. Vous êtes plein d'expérience, et vous me paraissez si gentil\... Venez vous asseoir là.
+
+**
+RIBALIER**.
+Merci\... J'aime mieux marcher un peu. Il fait très chaud.
+
+**
+VALENTINE**.
+Venez donc\... Vous n'avez pas peur de moi ? Une petite fille !
+
+**
+RIBALIER**, *allant s'asseoir, à part.*
+Suis-je assez ridicule !\... Si Tours me voyait !
+
+**
+VALENTINE**.
+Eh bien ! mon mari m'intimide beaucoup. J'éprouve en sa présence un effroi qui me paralyse.
+
+**
+RIBALIER**, *sévèrement.*
+Vous avez tort. Brochard est le meilleur homme du monde, très doux, d'un caractère aimable et facile\...
+
+**
+VALENTINE**.
+Il me paralyse.
+
+**
+RIBALIER**, *continuant.*
+Brochard mérite toute votre affection. Surtout soyez-lui fidèle. La fidélité, chez la femme, est la première des vertus. Quand une femme manque à ses devoirs, elle commet l'action la plus monstrueuse\...
+
+(*S'embrouillant.)*
+car la fidélité est une parure, et, sans devoir, il n'y a pas de société possible.
+
+**
+VALENTINE**, *se rapprochant.*
+Justement, je veux vous obéir\... Mais mon mari m'effraye. Tandis que vous, je ne sais pas, vous me mettez tout à mon aise\... Alors si vous étiez assez bon, vous m'apprendriez de quelle façon je dois m'y prendre.
+
+**
+RIBALIER**, *inquiet.*
+De quelle façon vous devez vous y prendre ?
+
+**
+VALENTINE**.
+Oui, tenez ! est-ce bien ainsi ?\...
+
+(*Elle s'adresse tendrement à lui.)*
+« Mon ami, je meurs d'impatience loin de vous. »
+
+**
+RIBALIER**.
+Pas trop mal\... La voix un peu plus chaude seulement.
+
+**
+VALENTINE**, *même jeu.*
+« Mon ami, vous êtes toute ma félicité. »
+**
+RIBALIER**.
+Très bien !
+
+(*Jules paraît au fond.)*
+
+**
+VALENTINE**.
+Puis, n'est-ce pas ? il faudra que je l'entoure de mon bras\...
+
+(*Elle veut le saisir.)*
+
+**
+RIBALIER**, *reculant.*
+Non, non.
+
+(*À part)*
+Elle est terrible, cette ingénue\... Oh ! le danger de l'innocence !
+
+**
+VALENTINE**.
+Comment ? non ?\... Il faudra que je l'entoure\...
+
+(*Elle lui passe le bras autour du cou.)*
+Et je lui dirai : « Je vous aime, mon ami. »
+
+**
+RIBALIER**, *à part.*
+Je suis à bout de force. Si Tours me voyait !
+
+(*Jules entre en toussant.)*
+
+**
+RIBALIER**, *se dégageant vivement.*
+C'est toi ?\... Tu arrives à propos. Nous causions. Mon Dieu ! qu'il fait chaud !\...
+
+(*À Valentine.)*
+Écoutez, mon enfant. Brochard mérite toute votre affection. Surtout, soyez-lui fidèle. La fidélité, chez la femme, est une parure\...
+
+(*À Jules.)*
+Tu vois, je lui donnais des conseils.
+
+(*À part.)*
+Sauvé, mon Dieu !
+
+(Valentine se lève et va se rasseoir au bureau.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783416 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783276 .calibre4 .pcalibre .pcalibre1}[Scène X]{#_Toc368783136 .calibre4 .pcalibre .pcalibre1} {#scène-x .calibre48 .sigil_not_in_toc}
+
+
+RIBALIER, JULES, VALENTINE, puis PUTOIS
+
+**
+JULES**.
+Nous sommes au champagne.
+
+(*Prenant Ribalier à part.)*
+Dites donc, mon oncle, elle avait son bras à votre cou.
+
+**
+RIBALIER**.
+Tu crois ?\... Je n'ai pas remarqué. Une preuve d'amitié, peut-être.
+
+**
+JULES**.
+Elle est ravissante.
+
+**
+RIBALIER**, *avec feu.*
+Oh ! ravissante !\... Un bijou ! On ferait des folies !
+
+**
+JULES**.
+Diable ! mon oncle, est-ce que je vous ai dérangé ?
+
+**
+RIBALIER**.
+Moi ?\... Tu me prends donc pour un gredin ?\... Comment ! mon meilleur ami m'aurait confié sa femme, et j'irais !\... Mais ce serait très mal !
+
+**
+JULES**.
+Très mal\... Seulement, ça se fait tous les jours.
+
+**
+RIBALIER**.
+Un dépôt sacré ! Une pauvre petite qui n'a pas de vice pour deux liards ! Jamais, jamais, entends-tu ! Brochard peut compter sur moi.
+
+**
+PUTOIS**, *entrant.*
+Monsieur, ils ont tout bu, ils en veulent encore\... Quels trous, ces militaires !
+
+**
+RIBALIER**.
+Viens, mon garçon !
+
+(Ils sortent ensemble par la gauche.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783417 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783277 .calibre4 .pcalibre .pcalibre1}[Scène XI]{#_Toc368783137 .calibre4 .pcalibre .pcalibre1} {#scène-xi .calibre48 .sigil_not_in_toc}
+
+
+JULES, VALENTINE, puis UN CAPITAINE, puis RIBALIER. Pendant la scène, le café, au fond, se garnit de consommateurs, tous militaires
+
+**
+VALENTINE**, *regardant Ribalier s'éloigner, à Jules.*
+Eh bien, allez donc !
+
+**
+JULES**.
+Attendez\...
+
+(*Il va dans le fond, échange un salut avec un capitaine qui entre.)*
+
+**
+VALENTINE**, *assise au bureau.*
+Ah ! monsieur Brochard, ah ! monsieur Ribalier, vous gardez les femmes !
+
+**
+LE CAPITAINE**, *qui s'est approché, souriant.*
+Mademoiselle\...
+
+**
+VALENTINE**, *souriant, d'une voix rapide.*
+Ne vous excusez pas, monsieur, je vous en prie. Vite, à votre rôle !\... Attention !
+
+(*Ribalier rentre, poussant devant lui Putois, chargé de bouteilles de champagne. Putois disparaît immédiatement dans le café.)*
+
+**
+RIBALIER**[^[^[\[67\]]{.calibre65 lang="EN-US"}^]{lang="EN-US"}^](../Text/Zola3_split_151.htm#_ftn67){#_ftnref67 .pcalibre .pcalibre1}, *dans le fond, à part.*
+Le capitaine !\... Mais il n'a pas trente ans ! Ah ! la menteuse !
+
+**
+LE CAPITAINE**.
+Chère Valentine\...
+
+**
+RIBALIER**, *à part.*
+Il a dit : Chère Valentine\...
+
+**
+LE CAPITAINE**, *continuant.*
+Vous êtes coiffée à ravir, ce soir. Si nous étions seuls, je vous demanderais une faveur.
+
+**
+VALENTINE**, *minaudant.*
+Laquelle, Ferdinand ?
+
+**
+RIBALIER**, *à part.*
+Ferdinand !
+
+**
+LE CAPITAINE**.
+Vous me l'avez déjà accordée une fois\... Un baiser sur vos cheveux.
+
+**
+RIBALIER**.
+Ah ! mon Dieu !\... Il faut que je sache le nom de ce militaire. Où est Jules ? Où est Jules ?
+
+(*Il sort par la gauche. Valentine et le capitaine le regardent s'éloigner en riant.)*
+
+**
+LE CAPITAINE**, *s'inclinant.*
+Mademoiselle\...
+
+**
+VALENTINE**.
+Merci, monsieur.
+
+(Le capitaine sort, un lieutenant entre et s'approche de Valentine qui s'est levée.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783418 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783278 .calibre4 .pcalibre .pcalibre1}[Scène XII]{#_Toc368783138 .calibre4 .pcalibre .pcalibre1} {#scène-xii .calibre48 .sigil_not_in_toc}
+
+
+JULES, RIBALIER, UN LIEUTENANT, VALENTINE, puis PUTOIS
+
+**
+RIBALIER**, *amenant Jules par la gauche.*
+Dis-moi le nom de ce capitaine.
+
+**
+JULES**.
+Quel capitaine ?
+
+**
+RIBALIER**.
+Le capitaine qui cause là, avec Valentine.
+
+**
+JULES**.
+Le lieutenant\... Je ne le connais pas.
+
+**
+RIBALIER**.
+Non, le capitaine\...
+
+(*Regardant, stupéfait.)*
+Ce n'est plus le même, elle en a deux !
+
+**
+JULES**.
+Écoutez.
+
+**
+LE LIEUTENANT**, *à Valentine.*
+Vous vous souvenez, Titine\...
+
+**
+RIBALIER**.
+Titine !
+
+(*Jules le fait taire.)*
+
+**
+LE LIEUTENANT**.
+C'était l'hiver dernier\...
+
+**
+VALENTINE**.
+J'avais peur, il faisait si noir !
+
+**
+LE LIEUTENANT**.
+Notre baiser me brûle encore les lèvres.
+
+(*Il continue à lui parler et remonte avec elle vers le fond.)*
+
+**
+RIBALIER**.
+Les lèvres !\... Eh bien ! de mieux en mieux ! L'autre, ce n'était que les cheveux, au moins ! Mais elle connaît donc toute l'armée ?
+
+**
+JULES**.
+Comment ! vous vous fâchez ? Vous êtes jaloux ?
+
+**
+RIBALIER**.
+Moi, jaloux ! Elle n'est pas ma femme, Dieu merci !\... Seulement, c'est vexant d'être trompé.
+
+**
+PUTOIS**, *entrant.*
+Monsieur, ils en veulent encore !
+
+**
+RIBALIER**, *à Jules.*
+Attends-moi. Ne la perds pas des yeux. Je reviens.
+
+(*Dès qu'il est sorti, Jules va à la porte de droite et introduit un sergent.)*
+
+**
+JULES**, *au sergent.*
+Vous avez compris ? C'est une farce à un bourgeois.
+
+(Le sergent cligne de l'œil et s'approche de Valentine qui est redescendue à l'avant-scène, à droite. Jules sort. Ribalier paraît, poussant devant lui Putois, chargé de bouteilles de champagne. Putois traverse et s'en va par le fond.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783419 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783279 .calibre4 .pcalibre .pcalibre1}[Scène XIII]{#_Toc368783139 .calibre4 .pcalibre .pcalibre1} {#scène-xiii .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, UN SERGENT, RIBALIER
+
+**
+RIBALIER**, *anéanti.*
+Avec un sergent, maintenant ! La garnison y passera.
+
+**
+LE SERGENT**.
+Écoute, ma poule\...
+
+**
+RIBALIER**, *scandalisé.*
+Oh !
+
+**
+LE SERGENT**.
+C'est pour s'entendre\... Faut convenir de ses mouvements. Tu racontes que ton mari n'est pas à la cambuse ?
+
+**
+VALENTINE**.
+Il ne reviendra que demain.
+
+**
+LE SERGENT**.
+Alors, je siffle à minuit sous ta fenêtre, et tu descends m'ouvrir comme nous faisions là-bas\... C'est dit.
+
+(*Ils remontent tous les deux.)*
+
+**
+RIBALIER**.
+Voilà qui est complet !\... Des baisers l'hiver dernier, des hommes qui sifflent sous sa fenêtre, des rendez-vous hier, des rendez-vous cette nuit ! Et Brochard qui va revenir !
+
+**
+LE SERGENT**, *à Valentine.*
+À tout à l'heure.
+
+(Le sergent sort. Des rumeurs s'élèvent dans le café.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783420 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783280 .calibre4 .pcalibre .pcalibre1}[Scène XIV]{#_Toc368783140 .calibre4 .pcalibre .pcalibre1} {#scène-xiv .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, RIBALIER, JULES, LE CAPITAINE, LE LIEUTENANT, LES OFFICIERS, PUTOIS, FRANÇOISE
+
+**LES OFFICIERS.**
+Du champagne ! du champagne !
+
+**
+PUTOIS**, *se précipitant en scène.*
+Monsieur, ils en demandent encore !
+
+**
+RIBALIER**, *perdant la tête.*
+Monte la cave et qu'ils nous laissent tranquilles ! Mon Dieu ! au moment où j'aurais besoin de toute ma tête, un état-major sur les bras ! Ah ! les tyrannies du commerce !
+
+(*Putois est sorti par la droite. Les officiers, riant et causant, le verre en main, se montrent au fond.)*
+
+**
+JULES**, *ironique.*
+Mon oncle, voyez donc ! Veillez sur Valentine.
+
+**
+RIBALIER**.
+Comment ! ils se permettent d'envahir le bureau !\...
+
+(*Allant à la rencontre des officiers.)*
+Messieurs, dans une seconde, on vous sert\... Veuillez attendre.
+
+(*Pendant qu'il arrête un groupe d'officiers, un autre groupe descend à droite et entoure Valentine.)*
+
+**
+LE CAPITAINE**.
+Bien, bien, nous attendrons ici, nous sommes parfaitement\... Nous aimons votre société, monsieur Ribalier, nous venons vous offrir un verre de champagne.
+
+**
+RIBALIER**.
+Merci, capitaine. Je ne bois pas de champagne.
+
+**
+LE CAPITAINE**.
+Vous refusez, vous si courtois ! Jamais Bourguignon, de la Cloche d'Or, ne nous a refusé un verre de Champagne.
+
+**
+RIBALIER**, *tâchant de repousser les officiers.*
+Eh bien ! oui, mais dans le café, messieurs. On vous sert.
+
+**
+JULES**, *bas.*
+Mon oncle, regardez donc !
+
+(*Il lui montre le groupe qui entoure Valentine.)*
+
+**
+LE LIEUTENANT**, *à Valentine.*
+Charmante\...
+
+**UN AUTRE**.
+Délicieuse\...
+
+**UN AUTRE.**
+Adorable\...
+
+**
+RIBALIER**, *se précipitant.*
+Messieurs, messieurs, dans le café ! Ce n'est point ici l'endroit\...
+
+(*Entraînant Valentine.)*
+Je vous défends d'être aimable. Vous n'êtes pas honteuse ?
+
+**
+VALENTINE**, *ingénument.*
+Moi, monsieur Ribalier ? Pourquoi serais-je honteuse ? Il faut bien être aimable dans le commerce. Cela pousse à la consommation.
+
+**
+RIBALIER**.
+Ah ! vous appelez ça la consommation ! Elle est jolie, votre consommation !\...
+
+(*La menant à droite, derrière le bureau.)*
+Je vous défends de bouger de là. Que ce meuble soit le rempart de votre vertu ! Et la parole que j'ai donnée, malheureuse ! Vous voulez donc me déshonorer ?
+
+**
+LE LIEUTENANT**, *qui s'est approché de nouveau.*
+Délicieuse, adorable\...
+
+(*Il lui sourit, la complimente.)*
+
+**
+RIBALIER**, *à part.*
+Encore ! Mais il est donc enragé celui-là !\...
+
+(*L'écartant.)*
+Pardon, lieutenant\...
+
+(*À Valentine.)*
+Je vais vous faire monter dans votre chambre.
+
+**
+LE CAPITAINE**.
+Oh ! monsieur Ribalier, vous n'auriez pas le cœur de priver notre fête de son plus bel ornement\...
+
+(*À Valentine.)*
+Un verre de champagne, versé par votre main si blanche\...
+
+**
+RIBALIER**, *à part.*
+L'autre, à présent ! Qu'ont-ils donc mangé ?\...
+
+(*Haut.)*
+Capitaine, permettez\...
+
+**
+LE CAPITAINE**.
+La belle madame Bourguignon, de la Cloche d'Or, daigne nous verser parfois le champagne.
+
+**
+VALENTINE**, *bas à Ribalier.*
+Laissez donc, vous compromettez le Grand-Cerf. Je dirai à monsieur Brochard que vous perdez le Grand-Cerf.
+
+(*Elle remonte, des officiers l'entourent de nouveau.)*
+
+**
+RIBALIER**, *luttant.*
+Messieurs, messieurs, ce n'est pas ma femme, c'est la femme d'un ami\... Si c'était ma femme\...
+
+(*Voyant ses efforts inutiles, cédant au nombre.)*
+Je suis débordé, ils l'emportent\... Jamais Brochard ne voudra me croire.
+
+**
+JULES**.
+Eh ! riez donc, mon oncle ! Elle est charmante.
+
+**
+RIBALIER**, *à voix basse.*
+Ravissante ! Elle a des yeux\...
+
+**
+TOUS.**
+Du champagne ! du champagne !
+
+**
+PUTOIS**, *arrivant chargé de bouteilles.*
+Voilà ! messieurs, le champagne demandé !
+
+(*Il verse le champagne, aidé de Françoise. Rires et rumeurs.)*
+
+**
+LE CAPITAINE**, *offrant, un verre de champagne à Ribalier.*
+Monsieur Ribalier, vous avez accepté. Nous nous fâcherions.
+
+**
+RIBALIER**, *prenant le verre.*
+Capitaine, c'est pour ne pas vous désobliger. Ça me fait du mal\... Vous me permettez de le boire à petits coups ?
+
+DES VOIX.
+Une chanson ! une chanson !
+
+**D'AUTRES VOIX.**
+C'est cela ! bravo ! une chanson !
+
+**
+LE CAPITAINE**.
+Une ronde militaire\... *Le Petit Tonneau !*
+
+**
+TOUS.**
+Oui, oui, *le Petit Tonneau !*
+
+**
+LE CAPITAINE**.
+Allons, lieutenant, *le Petit Tonneau !*
+
+**
+LE LIEUTENANT**.
+Ma foi ! capitaine, vous m'excuserez, je ne sais bien que le refrain.
+
+**
+LE CAPITAINE**.
+Puis, il faut une dame pour chanter ça. Si madame était assez bonne\...
+
+**
+VALENTINE**, *se faisant prier.*
+Oh ! capitaine\...
+
+**
+RIBALIER**, *à part.*
+Mais je ne veux pas, mais je vais l'empêcher !
+
+**
+LE CAPITAINE**, *à Ribalier.*
+Madame nous l'a chantée un soir, à Brétigny, chez sa tante, qui était si gaie\... Tous les officiers de la pension la fredonnaient.
+
+**
+RIBALIER**, *à Valentine.*
+Est-ce convenable, au moins, ce *Petit Tonneau* ?
+
+**
+VALENTINE**.
+C'est très gentil. Vous allez voir.
+
+**
+RIBALIER**, *à part.*
+Elle sait des chansons bachiques !\... Ah ! Brochard ! Brochard !
+
+**LES OFFICIERS.**
+Chut ! silence !
+
+**
+VALENTINE**[^[^[\[68\]]{.calibre65 lang="EN-US"}^]{lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}^](../Text/Zola3_split_151.htm#_ftn68){#_ftnref68 .pcalibre .pcalibre1}.
+Messieurs, le verre en main !
+
+(*Les officiers se rangent autour d'elle, tenant leur verre de champagne.)*
+Son joli p'tit tonneau mignon
+Était plein d'une liqueur fine.
+Elle a grisé tout l'bataillon
+Sur la grand'rout'de Constantine.
+Pichu, qu'était un homm'subtil,
+Aimant ça, mais n'ayant pas d'braise,
+L'épousa pour trinquer à l'aise
+Et pour s'en coller dans l'fusil.
+Au refrain, messieurs !
+
+**LES OFFICIERS.**
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau d'la cantinière
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau de la mèr'Pichu !
+
+**
+RIBALIER**, *scandalisé.*
+Oh ! oh ! ce *Petit Tonneau !*
+
+**
+VALENTINE**.
+Hein ? c'est gentil ?
+
+**
+RIBALIER**.
+Trop gentil !\... Vous allez remonter dans votre chambre.
+
+**
+LE CAPITAINE**.
+Par exemple ! Il y a encore deux couplets\... Monsieur Ribalier, vous n'avez pas bu ?
+
+**
+RIBALIER**.
+À petits coups, capitaine\...
+
+(*Il vide son verre d'un trait, et ajoute à demi-voix.)*
+Dites donc, capitaine, je croyais toutes les savoir, mais je ne la connaissais pas, celle-là. Elle est très drôle\...
+
+(*Putois lui a versé un autre verre de champagne.)*
+
+**
+LE CAPITAINE**.
+Monsieur Ribalier, vous n'avez pas bu ?
+
+**
+RIBALIER**.
+Je vous demande pardon\...
+
+(*Regardant son verre plein.)*
+Tiens, c'est vrai. J'aurais juré\...
+
+**
+JULES**.
+Videz donc votre verre, mon oncle.
+
+**
+RIBALIER**, *après avoir bu.*
+Messieurs, c'est pour vous faire plaisir\... Excellent champagne. On le fabrique exprès pour notre maison. Je vous le recommande, messieurs. Il est gai ; oui, c'est un vin gai\...
+
+(*Il commence à se griser, Putois remplit son verre. Bas à Jules.)*
+Très drôle, ce *Petit Tonneau !*
+
+**
+JULES**.
+Buvez donc !
+
+(*Ribalier boit.)*
+
+**LES OFFICIERS.**
+Le second couplet ! le second couplet !
+
+**
+VALENTINE**.
+Voici, messieurs\... Seulement il faut que les verres soient pleins.
+
+(*Putois et Françoise remplissent les verres, Ribalier tend le sien.)*
+Attention :
+Le régiment n'en souffrit pas.
+N'y a qu'un'femme'pour êtr'si chouette !
+Matin et soir, tous les soldats
+Sifflaient leur goutte à sa buvette.
+Ell'tapait dans l'œil au plus chic,
+Caporal, sergent, capitaine.
+L'tonneau montait d'un grad'par s'maine.
+
+L'colonel raffola d'son cric !
+
+**LES OFFICIERS.**
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau d'la cantinière !
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau de la mèr'Pichu !
+
+**
+RIBALIER**, *lancé, répétant les trois derniers vers du refrain.*
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau de la mèr'Pichu !
+Ah ! elle est bonne ! Je ne la connaissais pas du tout.
+
+(*Il boit.)*
+
+**
+VALENTINE**, *qui a pris une bouteille de champagne.*
+Capitaine, voulez-vous me permettre, puisque je suis cantinière ?\...
+
+**
+LE CAPITAINE**.
+Comment donc ! Enchanté !
+*(Elle emplit son verre.)*
+
+**
+RIBALIER**, *se retournant.*
+Comment ! vous versez à ces soldats ?
+
+**
+VALENTINE**, *souriant.*
+Puisque je suis cantinière.
+
+**
+RIBALIER**.
+
+Mais je ne puis permettre\...
+
+(*Bas à Jules.)*
+A-t-elle des yeux !non, on n'a pas des yeux comme ça !
+
+**
+VALENTINE**.
+Votre verre, monsieur Ribalier ?
+
+**
+RIBALIER**.
+Merci, j'en ai ma suffisance.
+
+**
+VALENTINE**, *souriant.*
+Allons, votre verre ?
+
+**
+RIBALIER**.
+Je vous assure\...
+
+(*À part.)*
+Ah ! les polissons de grands yeux !
+
+(*Il tend son verre comme fasciné.)*
+
+**
+VALENTINE**.
+Là, vous êtes obéissant\...
+
+(*Elle verse.)*
+Buvez.
+
+(*Il boit.)*
+Donnez encore votre verre. Je le veux.
+
+(*Elle verse.)*
+Buvez.
+
+(*Il boit et tend de lui-même son verre pour qu'elle le remplisse de nouveau.)*
+
+**DES VOIX D'OFFICIERS.**
+La cantinière ! Hé ! par ici !
+
+**D'AUTRES VOIX.**
+On meurt de soif\... La cantinière ! La cantinière !
+
+**
+RIBALIER**, *qui se grise de plus en plus.*
+
+C'est une orgie, une vraie orgie\... Tu sais, quand elle a chanté tout à l'heure :
+N'y a qu'un'femm'pour êtr'si chouette,
+ça m'a pris là, dans le dos. Je connais ça. Je suis pincé\... Écoute un peu, est-ce que tu sais *le Petit Tonneau* par cœur ?
+
+**
+JULES**.
+Oui, mon oncle.
+
+RIBALIER.
+
+C'est extraordinaire comme cette chanson m'intéresse\... Jules, écoute un peu.
+
+**
+JULES**.
+Quoi ?
+
+**
+RIBALIER**.
+Tu me la copieras, je veux l'apprendre.
+
+**
+VALENTINE**, *redescendue à l'avant-scène.*
+Le dernier couplet.
+
+**
+RIBALIER**, *complètement gris.*
+Oui, c'est ça, le dernier couplet\... Et en chœur, le refrain ! vous n'allez pas là-bas, dans ce coin. Enlevez ça, enlevez ça !
+
+**
+VALENTINE**.
+Si bien qu'un jour le général
+Voulut goûter de ce liquide.
+Il en but à se fair'du mal.
+Mais un général, c'est solide !
+C'était un vieux très rigolo.
+Écoutez, l'histoire est bien bonne,
+Pichu mort, il la fit baronne,
+Pour avoir son petit tonneau.
+
+**
+RIBALIER**, *violemment.*
+En chœur ! en chœur !
+
+(*Lui-même chante, en battant la mesure et en tapant des pieds.)*
+
+**
+TOUS.**
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau d'la cantinière !
+Y as-tu bu ?
+Oui, j'y ai bu !
+Au tonneau de la mèr'Pichu !
+
+**VOIX D'OFFICIERS.**
+Bravo ! bravo !
+
+**AUTRES VOIX.**
+À la reine du Grand-Cerf !
+
+**
+LE CAPITAINE**.
+Nous buvons à notre cantinière !
+
+**
+RIBALIER**, *s'oubliant.*
+Oui, à notre cantinière !
+
+(*Il boit.)*
+C'est un amour !\... Elle est épatante ! Il faut que je lui dise qu'elle est épatante !
+
+**
+JULES**, *le retenant.*
+Mon oncle\...
+
+**
+RIBALIER**.
+Je te dis qu'elle est complète.
+
+**
+PUTOIS**, *dans le fond.*
+Messieurs, le punch est servi.
+
+**
+LE CAPITAINE**.
+Et notre cantinière ne nous rerusera pas d'en boire un verre avec nous.
+
+**
+VALENTINE**.
+Non, certes !
+
+(*Elle se dirige vers le fond avec les officiers. On voit le punch flamber dans le café.)*
+
+**
+RIBALIER**.
+C'est cela, du punch, à présent\... Elle chante *le Petit Tonneau*, elle boit du punch. Je te dis qu'elle est complète !\... Il ne lui manque plus que de danser\...
+
+**
+VALENTINE**.
+Messieurs, au punch !
+
+**LES OFFICIERS.**
+Au punch !
+
+(*L'orchestre reprend l'air du refrain, Valentine sort en dansant avec le capitaine.)*
+
+**
+RIBALIER**.
+Il ne lui manque plus rien\... Et allez donc !
+
+(*Lui-même dessine quelques pas sur place.)*
+
+**
+JULES**.
+Vous ne venez pas ?
+
+**
+RIBALIER**.
+Oh ! à présent, je n'ai plus besoin de la surveiller.
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783421 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783281 .calibre4 .pcalibre .pcalibre1}[Scène XV]{#_Toc368783141 .calibre4 .pcalibre .pcalibre1} {#scène-xv .calibre48 .sigil_not_in_toc}
+
+
+RIBALIER, puis VALENTINE
+
+(*Pendant cette scène, le café se vide lentement. Putois éteint les becs de gaz.)*
+
+**
+RIBALIER**.
+Voyons, c'est trop drôle. Récapitulons\... Le capitaine, le lieutenant, le sergent. Puis les autres. Tout le régiment\... Mais moi aussi, alors ! Je veux en être\... Tant pis pour Brochard !
+
+**
+VALENTINE**, *rentrant par le fond.*
+Je monte me coucher, monsieur Ribalier.
+
+**
+RIBALIER**, *la regardant, à part.*
+Elle est adorable, plus adorable encore\...
+
+(*Il l'amène par la main.)*
+Venez un peu\... Et votre menotte, montrez-la ?\...
+
+(*Il la couvre de baisers.)*
+Elle est pleine de fossettes.
+
+**
+VALENTINE**.
+Tiens ! vous la baisez maintenant !\... C'est permis ? Vous êtes sûr ?
+
+**
+RIBALIER**.
+Si c'est permis ! Non, ma parole ! on vous croquerait ! C'est que vous avez un petit air !\... Hein ? vous avez dû joliment vous moquer de moi ?
+
+**
+VALENTINE**.
+Me moquer de vous ?\... Pourquoi donc ? Vous m'avez donné les meilleurs conseils, et je les suivrai\... Mon mari mérite toute mon affection. Je lui serai fidèle, car la fidélité est une parure\...
+
+**
+RIBALIER**, *l'interrompant.*
+Non ! non ! c'est de la blague !\... Je vous disais ça, parce que ça se dit d'habitude ; mais je me fiche de Brochard\... Hein ? nous nous fichons de lui. Un joli magot !
+
+**
+VALENTINE**.
+Comment ! un homme si doux ! d'un caractère aimable et facile !
+
+(*Jules paraît à la porte du fond.)*
+
+**
+RIBALIER**.
+Lui !\... Le personnage le plus désagréable qu'on puisse rencontrer ! Je vous assure, ne nous gênons pas. Dites, vous avez peur quand il fait noir ?
+
+**
+VALENTINE**.
+Oui, je vois des ombres.
+
+**
+RIBALIER**.
+Elle voit des ombres ! Est-elle drôle !\... Eh bien ! il faut laisser la porte de communication ouverte, cette nuit\...
+
+(Il lui reprend la main si vivement, qu'elle recule, effrayée, en poussant un léger cri. Jules entre et emmène Ribalier à part. Valentine va allumer un bougeoir.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783422 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783282 .calibre4 .pcalibre .pcalibre1}[Scène XVI]{#_Toc368783142 .calibre4 .pcalibre .pcalibre1} {#scène-xvi .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, RIBALIER, JULES
+
+**
+JULES**.
+Quoi donc, mon oncle ? Vous lui dévorez la main.
+
+**
+RIBALIER**.
+Laisse-moi, mon garçon\... Je suis ivre.
+
+**
+JULES**.
+Un dépôt sacré\... C'est très mal.
+
+**
+RIBALIER**.
+Oui, c'est très mal, mais ça se fait tous les jours.
+
+**
+JULES**.
+Vous disiez vous-même qu'un gredin seul\...
+
+**
+RIBALIER**, *l'interrompant.*
+Ah ! pardon ! la question n'est plus la même\... Un de plus, un de moins, Brochard ne s'en plaindra pas davantage\... Tu ne sais donc pas qu'elle connaît tout un régiment !\... Je suis ivre, je suis ivre !
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[LE BOUTON DE ROSE]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783423 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783283 .calibre4 .pcalibre .pcalibre1}[Scène XVII]{#_Toc368783143 .calibre4 .pcalibre .pcalibre1} {#scène-xvii .calibre48 .sigil_not_in_toc}
+
+
+VALENTINE, RIBALIER, JULES, CHAMORIN, HORTENSE
+
+**
+HORTENSE**.
+Allons, monsieur, passez devant moi !
+
+**
+CHAMORIN**.
+Oui, ma bonne.
+
+**
+HORTENSE**.
+Allumez mon bougeoir.
+
+**
+CHAMORIN**.
+Oui, ma bonne.
+
+(*Il allume son bougeoir et celui d'Hortense.)*
+
+**
+JULES**, *bas, à Hortense.*
+Cette occasion dont je vous ai parlé, je suis prêt à vous la fournir.
+
+**
+HORTENSE**.
+Merci !\... Venez me donner vos instructions.
+
+(*Elle prend son bougeoir.)*
+
+**
+JULES**, *bas, à Chamorin.*
+Voulez-vous pincer votre femme ?
+
+**
+CHAMORIN**.
+Si je veux pincer ma femme ! Mais c'est mon rêve !
+
+**
+JULES**.
+Ne vous couchez pas. Attendez-moi.
+
+(*À ce moment chaque personnage tient son bougeoir à la main.)*
+
+**
+RIBALIER**, *bas, à Valentine.*
+C'est entendu, nous n'aurons pas peur ?
+
+**
+HORTENSE**.
+Bonne nuit !
+
+**
+VALENTINE**.
+Bonne nuit !
+
+**
+TOUS.**
+Bonne nuit !

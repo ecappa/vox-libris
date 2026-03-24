@@ -1,0 +1,14 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "DISCOURS A L’ASSEMBLÉE NATIONALE"
+slug_oeuvre: "discours-a-lassemblee-nationale"
+type: "oeuvre-complete"
+---
+
+# DISCOURS A L'ASSEMBLÉE NATIONALE
+Victor Hugo
+
+DISCOURS
+
+illustration: Capture d'écran 2013-03-27 à 10

@@ -1,0 +1,56 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA RÉPUBLIQUE ET LA LITTÉRATURE",
+  "slug": "la-republique-et-la-litterature",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1647,
+      "spine_end_exclusive": 1648,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_348.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1648,
+      "spine_end_exclusive": 1649,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_349.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1649,
+      "spine_end_exclusive": 1650,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_350.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1650,
+      "spine_end_exclusive": 1652,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_351.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_352.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-republique-et-la-litterature/Zola5_image056.jpg",
+    "images/emile-zola/la-republique-et-la-litterature/Zola5_image057.jpg",
+    "images/emile-zola/la-republique-et-la-litterature/Zola5_image058.jpg"
+  ]
+}

@@ -1,0 +1,69 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911231 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910745 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910259 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909773 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909287 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908801 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908315 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907829 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907343 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906857 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906371 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905885 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905399 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904913 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904427 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903941 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903455 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902969 .pcalibre .calibre2 .pcalibre1}[Le moment artistique]{#_Toc368902483 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_46 .calibre30}
+
+4 mai.
+
+
+J'aurais dû peut-être, avant de porter le plus mince jugement, expliquer catégoriquement quelles sont mes façons de voir en art, quelle est mon esthétique. Je sais que les bouts d\'opinion que j\'ai été forcé de donner, d\'une manière incidente, ont blessé les idées reçues, et qu\'on m\'en veut pour ces affirmations carrées que rien ne paraissait établir.
+
+J\'ai ma petite théorie comme un autre, et, comme un autre, je crois que ma théorie est la seule vraie. Au risque de n\'être pas amusant, je vais donc poser cette théorie. Mes tendresses et mes haines en découleront tout naturellement.
+
+Pour le public, --- et je ne prends pas ici ce mot en mauvaise part, --- pour le public, une œuvre d\'art, un tableau, est une suave chose qui émeut le coeur d\'une façon douce ou terrible ; c\'est un massacre, lorsque les victimes pantelantes gémissent et se traînent sous les fusils qui les menacent ; ou c\'est encore une délicieuse jeune fille, toute de neige, qui rêve au clair de lune, appuyée sur un fût de colonne. Je veux dire que la foule voit dans une toile un sujet qui la saisit à la gorge ou au coeur, et qu\'elle ne demande pas autre chose à l\'artiste qu\'une larme ou qu\'un sourire.
+
+Pour moi, --- pour beaucoup de gens, je veux l\'espérer, --- une œuvre d\'art est, au contraire, une personnalité, une individualité.
+
+Ce que je demande à l\'artiste, ce n\'est pas de me donner de tendres visions ou des cauchemars effroyables ; c\'est de se livrer lui-même, coeur et chair, c\'est d\'affirmer hautement un esprit puissant et particulier, une nature qui saisisse largement la nature en sa main et la plante tout debout devant nous, telle qu\'il la voit. En un mot, j\'ai le plus profond dédain pour les petites habiletés, pour les flatteries intéressées, pour ce que l\'étude a pu apprendre et ce qu\'un travail acharné a rendu familier, pour tous les coups de théâtre historiques de ce monsieur et pour toutes les rêveries parfumées de cet autre monsieur. Mais, j\'ai la plus profonde admiration pour les œuvres individuelles, pour celles qui sortent d\'un jet d\'une main vigoureuse et unique.
+
+Il ne s\'agit donc plus ici de plaire ou de ne pas plaire, il s\'agit d\'être soi, de montrer son coeur à nu de formuler énergiquement une individualité.
+
+Je ne suis pour aucune école, parce que je suis pour la vérité humaine, qui exclut toute coterie et tout système. Le mot « art » me déplaît ; il contient en lui je ne sais quelles idées d\'arrangements nécessaires, d\'idéal absolu. Faire de l\'art, n\'est-ce pas faire quelque chose qui est en dehors de l\'homme et de la nature ? Je veux qu\'on fasse de la vie, moi ; je veux qu\'on soif vivant, qu\'on crée à nouveau, en dehors de tout, selon ses propres yeux et son propre tempérament. Ce que je cherche avant tout dans un tableau, c\'est un homme et non pas un tableau.
+
+Il y a, selon moi, deux éléments dans une œuvre : l'élément réel, qui est la nature, et l\'élément individuel, qui est l\'homme. L\'élément réel, la nature, est fixe, toujours le même ; il demeure égal pour tout le monde ; je dirais qu'il peut servir de commune mesure pour toutes les œuvres produites, si j\'admettais qu\'il puisse y avoir une commune mesure.
+
+L\'élément individuel, au contraire, l\'homme, est variable à l\'infini : autant d'\'œuvres et autant d\'esprits différents ; si le tempérament n\'existait pas, tous les tableaux devraient-être forcément de simples photographies.
+
+Donc, une œuvre d\'art n\'est jamais que la combinaison d\'un homme, élément variable, et de la nature, élément fixe. Le mot « réaliste » ne signifie rien pour moi, qui déclare subordonner le réel au tempérament. Faites vrai, j\'applaudis ; mais surtout faites individuel et vivant, et j\'applaudis plus fort. Si vous sortez de ce raisonnement, vous êtes forcé de nier le passé et de créer des définitions que vous serez forcé d\'élargir chaque année.
+
+Car c\'est une autre bonne plaisanterie de croire qu\'il y a, en fait de beauté artistique, une vérité absolue et éternelle. La vérité une et complète n\'est pas faite pour nous qui confectionnons chaque matin une vérité que nous usons chaque soir. Comme toute chose, l\'art est un produit humain, une sécrétion humaine ; c\'est notre corps qui sue la beauté de nos œuvres. Notre corps change selon les climats et selon les mœurs, et la sécrétion change donc également.
+
+C\'est dire que l\'œuvre de demain ne saurait être celle d\'aujourd\'hui ; vous ne pouvez formuler aucune règle, ni donner aucun précepte ; il faut vous abandonner bravement à votre nature et ne pas chercher à vous mentir. Est-ce que vous avez peur de parler votre langue, que vous cherchez à épeler péniblement des langues mortes !
+
+Ma volonté énergique est celle-ci : --- Je ne veux pas des œuvres d\'écoliers faites sur des modèles fournis par les maîtres. Ces œuvres me rappellent les pages d\'écriture que je traçais étant enfant, d\'après les pages lithographiées ouvertes devant moi. Je ne veux pas des retours au passé, des prétendues résurrections, des tableaux peints suivant un idéal formé de morceaux d\'idéal qu\'on a ramassés dans tous les temps. Je ne veux pas de tout ce qui n\'est point vie, tempérament, réalité !
+
+Et, maintenant, je vous en supplie, ayez pitié de moi. Songez à tout ce qu\'a dû souffrir hier un tempérament bâti comme le mien, égaré dans la vaste et morne nullité du Salon. Franchement, j\'ai eu un moment la pensée de lâcher la besogne, prévoyant trop de sévérité.
+
+Mais ce n\'est point les artistes que je vais blesser dans leurs croyances, ce sont eux qui viennent de me blesser bien plus vivement dans les miennes ! Mes lecteurs comprennent-ils ma position, se disent-ils : « Voilà un pauvre diable qui est tout écoeuré, et qui retient ses nausées pour garder la décence qu\'il doit au public ? »
+
+Jamais je n\'ai vu un tel amas de médiocrités. Il y a là deux mille tableaux, et il n\'y a pas dix hommes. Sur ces deux mille toiles, douze ou quinze vous parlent un langage humain ; les autres vous content des niaiseries de parfumeurs. Suis-je trop sévère ? Je ne fais pourtant que dire tout haut ce que les autres pensent tout bas.
+
+Je ne nie pas notre époque, au moins. J\'ai foi en elle, je sais qu\'elle cherche et qu\'elle travaille. Nous sommes dans un temps de luttes et de fièvres, nous avons nos talents et nos génies. Mais je ne veux pas qu\'on confonde les médiocres et les puissants, je crois qu\'il est bon de ne point avoir cette indulgence indifférente qui donne un mot d\'éloge à tout le monde, et qui, par là même, ne loue personne.
+
+Notre époque est celle-ci. Nous sommes civilisés, nous avons des boudoirs et des salons ; le badigeon est bon pour les petites gens, il faut des peintures sur les murs des riches. Et alors a été créée toute une corporation d\'ouvriers qui achèvent la besogne commencée par les maçons. Il faut beaucoup de peintres, comme vous pensez, et on est obligé de les élèvera la brochette, en masse. On leur donne, d\'ailleurs, les meilleurs conseils pour plaire et ne pas blesser les goûts du temps.
+
+Ajoutez à cela l\'esprit de l\'art moderne. En présence de l\'envahissement de la science et de l\'industrie, les artistes, par réaction, se sont jetés dans le rêve, dans un ciel de pacotille, tout de clinquant et de papier de soie. Allez donc voir si les maîtres de la Renaissance songeaient aux adorables petits riens devant lesquels nous nous pâmons ; ils étaient de puissantes natures qui peignaient en pleine vie. Nous autres, nous sommes nerveux et inquiets ; il y a beaucoup de la femme en nous, et nous nous sentons si faibles et si usés que la santé plantureuse nous déplaît. Parlez-moi des sentimentalités et des mièvreries !
+
+Nos artistes sont des poètes. C\'est là une grave injure pour des gens qui n\'ont pas même charge de penser, mais je la maintiens. Voyez le Salon : ce ne sont que strophes et madrigaux. Celui-ci rime une ode à la Pologne, cet autre une ode à Cléopâtre ; il y en a un qui chante sur le mode de Tibulle et un autre qui tâche de souffler dans la grande trompette de Lucrèce. Je ne parle pas des hymnes guerriers, ni des élégies, ni des chansons grivoises, ni des fables.
+
+Quel charivari !
+
+Par grâce, peignez, puisque vous êtes peintres, ne chantez pas. Voici de la chair, voici de la lumière ; faites un Adam qui soit votre création. Vous devez être des faiseurs d\'hommes, et non pas des faiseurs d\'ombres. Mais je sais que dans un boudoir un homme tout nu est peu convenable. C\'est pour cela que vous peignez de grands pantins grotesques qui ne sont pas plus indécents et pas plus vivants que les poupées en peau rose des petites filles.
+
+Le talent procède autrement, voyez-vous. Regardez les quelques toiles remarquables du Salon. Elles font un trou dans la muraille, elles sont presque déplaisantes, elles crient dans le murmure adouci de leurs voisines. Les peintres qui commettent de pareilles œuvres, sont en dehors de la corporation des badigeonneurs élégants dont j\'ai parlé. Ils sont peu nombreux, ils vivent d\'eux-mêmes, en dehors de toute école.
+
+Je l\'ai déjà dit, on ne peut accuser le jury de la médiocrité de nos peintres. Mais, puisqu\'il croit avoir charge d\'être sévère, pourquoi ne nous épargne-t-il pas la vue de toutes ces niaiseries ? Si vous n\'admettez que les talents, une salle de trois mètres carrés suffira.
+
+Ai-je été si révolutionnaire, en regrettant les quelques tempéraments qui ne figurent pas au Salon ? Nous ne sommes pas si riches en individualités, pour refuser celles qui se produisent. D\'ailleurs, je le sais, les tempéraments ne meurent pas d\'un refus. Je défends leur cause, parce qu\'elle me semble juste ; mais, au fond, je suis bien tranquille sur l\'état de santé du talent. Nos pères ont ri de Courbet, et voilà que nous nous extasions devant lui ; nous rions de Manet, et ce seront nos fils qui s\'extasieront en face de ses toiles.

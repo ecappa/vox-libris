@@ -1,0 +1,25 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "IMITATION D’OWEN"
+slug_oeuvre: "imitation-dowen"
+type: "oeuvre-complete"
+---
+
+# IMITATION D'OWEN
+(1820)
+
+Victor Hugo
+
+POÉSIES
+
+Vous vous aimez avant tous,
+Paul, vous n'aimez que vous-même ;
+Mais si vous n'aimez que vous,
+Il n'est que vous qui vous aime.
+
+Publié dans Le Conservateur littéraire
+
+sous le nom de J. SAINTE-MARIE. (Pseudonyme)
+
+le 15 avril 1820

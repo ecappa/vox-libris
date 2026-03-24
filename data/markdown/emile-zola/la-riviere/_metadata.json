@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA RIVIÈRE",
+  "slug": "la-riviere",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1238,
+      "spine_end_exclusive": 1239,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_248.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1239,
+      "spine_end_exclusive": 1240,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_249.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1240,
+      "spine_end_exclusive": 1241,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_250.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1241,
+      "spine_end_exclusive": 1242,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_251.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1242,
+      "spine_end_exclusive": 1243,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_252.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1243,
+      "spine_end_exclusive": 1244,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_253.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 1244,
+      "spine_end_exclusive": 1246,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_254.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_255.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-riviere/Zola4_image021.jpg"
+  ]
+}

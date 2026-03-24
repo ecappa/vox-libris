@@ -1,0 +1,106 @@
+### []{#_Toc343184406 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343181945 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343179484 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177023 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343174562 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172101 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343169640 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343164718 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162257 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343159796 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343157335 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148065 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343145604 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143141 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343140680 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138219 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343135757 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133296 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343130835 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343128373 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343125912 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343123448 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343120987 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343118526 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116072 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343113609 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111148 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343108687 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343104943 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343102481 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100018 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343097593 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095124 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343092662 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090184 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343087721 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085259 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343082796 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343080334 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343077873 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343075410 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343072947 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343070481 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343042521 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343037677 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035312 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032947 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343030582 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027026 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343024661 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022296 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343019930 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343017564 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015199 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343012834 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343010467 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008102 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343005737 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343003372 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001007 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342998642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996277 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342993912 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342991547 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989182 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342986817 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342984450 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982085 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342979720 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342977355 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342941374 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342937774 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342935412 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342933050 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342930684 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342928322 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342925960 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342923594 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342921288 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342918925 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342916561 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342914199 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342911836 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342907109 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342904747 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342902385 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342900023 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342897661 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342895299 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342892937 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342890575 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342826757 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342761573 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333688014 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333685710 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333615252 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333613055 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333609710 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333607519 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc331398606 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324866924 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324860500 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324693793 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324686182 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc323670407 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 22 -- Les quatre jours qui suivent]{.pcalibre lang="X-NONE"}]{#_Toc323665910 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-22-les-quatre-jours-qui-suivent .calibre171 .sigil_not_in_toc}
+
+La nuit fut calme. Le lieutenant Hobson se leva, et, décidé à ordonner l\'embarquement de la petite colonie pour le jour même, il se dirigea vers le lagon.
+
+La brume était encore épaisse. Mais au-dessus de ce brouillard, on sentait déjà les rayons du soleil. Le ciel avait été nettoyé par l\'orage de la veille, et la journée promettait d\'être chaude.
+
+Lorsque Jasper Hobson arriva sur les bords du lagon, il ne put en distinguer la surface, qui était encore cachée par de grosses volutes de brumes.
+
+À ce moment, Mrs. Paulina Barnett, Madge et quelques autres venaient le rejoindre sur le rivage.
+
+La brume commençait alors à se lever. Elle reculait vers le fond du lagon et en découvrait peu à peu la surface. Cependant, le radeau n\'apparaissait pas encore.
+
+Enfin, un coup de brise enleva tout le brouillard\...
+
+Il n\'y avait pas de radeau ! Il n\'y avait plus de lac. C\'était l\'immense mer qui s\'étendait devant les regards.
+
+Le lieutenant Hobson ne put retenir un geste de désespoir, et quand ses compagnons et lui se retournèrent, quand leurs yeux se portèrent à tous les points de l\'horizon, un cri leur échappa ! Leur île n\'était plus qu\'un îlot ! Pendant la nuit, les six septièmes de l\'ancien territoire du cap Bathurst s\'étaient détachés sans bruit, sans convulsion, usés, rongés par le flot. Ils s\'étaient abîmés dans la mer, et le radeau, trouvant une issue, avait dérivé au large, sans que ceux qui avaient mis en lui leur dernière chance pussent même l\'apercevoir sur cette mer déserte !
+
+Les naufragés, suspendus sur un abîme prêt à les engloutir, sans ressources, sans aucun moyen de salut, furent terrassés par le désespoir.
+
+De ces soldats, quelques-uns, comme fous, voulurent se précipiter à la mer. Mrs. Paulina Barnett se jeta au-devant d\'eux. Ils revinrent. Quelques-uns pleuraient.
+
+On voit maintenant quelle était la situation des naufragés, et s\'ils pouvaient conserver quelque espoir ! Que l\'on juge aussi de la position du lieutenant au milieu de ces infortunés à demi affolés. Vingt et une personnes emportées sur un îlot de glace, qui ne pouvait tarder à se fondre sous leurs pieds ! Avec cette vaste portion de l\'île maintenant engloutie, avaient disparu les collines boisées. Donc, plus un arbre. En fait de bois, il ne restait plus que les quelques planches du logement, absolument insuffisantes pour la construction d\'un nouveau radeau, qui pût suffire au transport de la colonie. La vie des naufragés était donc strictement limitée à la durée de l\'îlot, c\'est-à-dire à quelques jours au plus, car on était au mois de juin, et la température moyenne dépassait 68° Fahrenheit (20° centig. Au-dessus de zéro).
+
+Pendant cette journée, le lieutenant Hobson crut devoir encore faire une reconnaissance de l\'îlot. Peut-être conviendrait-il de se réfugier sur un autre point, auquel son épaisseur assurerait une durée plus longue. Mrs. Paulina Barnett et Madge l\'accompagnèrent dans cette excursion.
+
+« Espères-tu toujours ? demanda Mrs. Paulina Barnett à sa fidèle compagne.
+
+--- Toujours ! » répondit Madge.
+
+Mrs. Paulina Barnett ne répondit pas. Jasper Hobson et elle marchaient d\'un pas rapide, en suivant le littoral. Toute la côte avait été respectée depuis le cap Bathurst jusqu\'au cap Esquimau, c\'est-à-dire sur une longueur de huit milles.
+
+C\'était au cap Esquimau que la fracture s\'était opérée, suivant une ligne courbe qui rejoignait la pointe extrême du lagon, dirigée vers l\'intérieur de l\'île. De cette pointe, le nouveau littoral se composait du rivage même du lagon, que baignaient maintenant les eaux de la mer. Vers la partie supérieure du lagon, une autre cassure se prolongeait jusqu\'au littoral compris entre le cap Bathurst et l\'ancien port Barnett. L\'îlot représentait donc une bande oblongue, d\'une largeur moyenne d\'un mille seulement.
+
+Des cent quarante milles carrés qui formaient autrefois la superficie totale de l\'île, il n\'en restait pas vingt !
+
+Le lieutenant Hobson observa avec une extrême attention la nouvelle conformation de l\'îlot et reconnut que sa portion la plus épaisse était encore l\'emplacement de l\'ancienne factorerie. Il lui parut donc convenable de ne point abandonner le campement actuel, et c\'était aussi celui que les animaux, par instinct, avaient conservé.
+
+Toutefois, on remarqua qu\'une notable quantité de ces ruminants et de ces rongeurs et le plus grand nombre des chiens qui erraient à l\'aventure, avaient disparu avec la plus grande partie de l\'île. Mais il en restait encore un certain nombre, principalement des rongeurs. L\'ours, affolé, errait sur l\'îlot et en faisait incessamment le tour, comme un fauve enfermé dans une cage.
+
+Vers cinq heures du soir, le lieutenant Hobson et ses deux compagnes étaient rentrés au logement. Là, hommes et femmes, tous se trouvèrent réunis, silencieux, ne voulant plus rien voir, ne voulant plus rien entendre. Mrs. Joliffe s\'occupait de préparer quelque nourriture. Le chasseur Sabine, moins accablé que ses compagnons, allait et venait, cherchant à obtenir un peu de venaison fraîche.
+
+Quant à l\'astronome, il s\'était assis à l\'écart et jetait sur la mer un regard vague et presque indifférent ! Il semblait que rien ne pût l\'étonner !
+
+Jasper Hobson apprit à ses compagnons les résultats de son excursion. Il leur dit que le campement actuel offrait une sécurité plus grande que tout autre point du littoral, et il recommanda même de ne plus s\'en éloigner, car des traces d\'une prochaine rupture se manifestaient déjà, à mi-chemin du campement et du cap Esquimau. Il était donc probable que la superficie de l\'îlot ne tarderait pas à être considérablement réduite. Et rien, rien à faire !
+
+La journée fut réellement chaude. Les glaçons, déterrés pour fournir l\'eau potable, se dissolvaient sans qu\'il fût nécessaire d\'employer le feu. Sur les parties accores du rivage, la croûte glacée s\'en allait en minces filets qui tombaient à la mer. Il était visible que, d\'une manière générale, le niveau moyen de l\'îlot s\'était abaissé. Les eaux tièdes rongeaient incessamment sa base.
+
+On ne dormit guère au campement pendant la nuit suivante. Qui aurait pu trouver quelque sommeil en songeant qu\'à tout instant l\'abîme pouvait s\'ouvrir, qui, si ce n\'est ce petit enfant qui souriait à sa mère, et que sa mère ne voulait plus abandonner un instant ?
+
+Le lendemain, 4 juin, le soleil reparut au-dessus de l\'horizon dans un ciel sans nuages. Aucun changement ne s\'était produit pendant la nuit. La conformation de l\'îlot n\'avait point été altérée.
+
+Ce jour-là, un renard bleu, effaré, se réfugia dans le logement et n\'en voulut plus sortir. On peut dire que les martres, les hermines, les lièvres polaires, les rats musqués, les castors fourmillaient sur l\'emplacement de l\'ancienne factorerie.
+
+C\'était comme un troupeau d\'animaux domestiques. Les bandes de loups manquaient seules à la faune polaire. Ces carnassiers, dispersés sur la partie opposée de l\'île au moment de la rupture, avaient été évidemment engloutis avec elle. Comme par un pressentiment, l\'ours ne s\'éloignait plus du cap Bathurst, et les animaux à fourrures, trop inquiets, ne semblaient même pas s\'apercevoir de sa présence. Les naufragés eux-mêmes, familiarisés avec le gigantesque animal, le laissaient aller et venir, sans s\'en préoccuper. Le danger commun, pressenti de tous, avait mis au même niveau les instincts et les intelligences.
+
+Quelques moments avant midi, les naufragés éprouvèrent une émotion bien vive, qui ne devait aboutir qu\'à une déception.
+
+Le chasseur Sabine, monté sur le point culminant de l\'îlot, et qui observait la mer depuis quelques instants, fit entendre ces cris :
+
+« Un navire ! Un navire ! »
+
+Tous, comme galvanisés, se précipitèrent vers le chasseur. Le lieutenant Hobson l\'interrogeait du regard.
+
+Sabine montra dans l\'est une sorte de vapeur blanche qui pointait à l\'horizon. Chacun regarda sans oser prononcer une parole. Tous virent ce navire dont la silhouette s\'accentuait de plus en plus. Personne n\'osa prononcer une parole !
+
+C\'était bien un bâtiment, un baleinier sans doute. On ne pouvait s\'y tromper, et, au bout d\'une heure, sa carène était visible.
+
+Malheureusement, ce navire apparaissait dans l\'est, c\'est-à-dire à l\'opposé du point où le radeau entraîné avait dû se diriger. Ce baleinier, le hasard seul l\'envoyait dans ces parages, et, puisqu\'il n\'avait point communiqué avec le radeau, on ne pouvait admettre qu\'il fût à la recherche des naufragés, ni qu\'il soupçonnât leur présence.
+
+Maintenant, ce navire apercevrait-il l\'îlot, peu élevé au-dessus de la surface de la mer ? Sa direction l\'en rapprocherait-il ? distinguerait-il les signaux qui lui seraient faits ? En plein jour, et par ce beau soleil, c\'était peu probable ! La nuit, en brûlant les quelques planches du logement, on aurait pu entretenir un feu visible à une grande distance. Mais le navire n\'aurait-il pas disparu avant l\'arrivée de la nuit ? En tout cas, des signaux furent faits, des coups de feu furent tirés.
+
+Cependant, ce navire s\'approchait ! On reconnaissait en ce bâtiment un long trois-mâts, évidemment un baleinier de New-Arkhangel, qui, après avoir doublé la presqu\'île d\'Alaska, se dirigeait vers le détroit de Behring. Il était au vent de l\'îlot, et, tribord amure, sous ses basses voiles, ses huniers et ses perroquets, il s\'élevait vers le nord. Un marin eût reconnu à son orientation que ce navire ne laissait pas porter sur l\'îlot. Mais peut-être l\'apercevrait-il ?
+
+« S\'il l\'aperçoit, murmura le lieutenant Hobson à l\'oreille du sergent Long, s\'il l\'aperçoit, il s\'enfuira au contraire ! »
+
+Jasper Hobson avait raison de parler ainsi. Les navires ne redoutent rien tant, dans ces parages, que l\'approche des icebergs et des îles de glace ! Ce sont des écueils errants contre lesquels ils craignent de se briser, surtout pendant la nuit. Aussi se hâtent-ils de changer leur direction, dès qu\'ils les aperçoivent.
+
+Ce navire n\'agirait-il pas ainsi, dès qu\'il aurait connaissance de l\'îlot ? C\'était probable.
+
+Par quelles alternatives d\'espoir et de désespoir les naufragés passèrent, cela ne saurait se peindre. Jusqu\'à deux heures du soir, ils purent croire que la Providence prenait enfin pitié d\'eux, que le secours leur arrivait, que le salut était là ! Le navire s\'était toujours approché par une ligne oblique.
+
+Il n\'était pas à six milles de l\'îlot. On multiplia les signaux, on tira des coups de fusil, on produisit même une grosse fumée en brûlant quelques planches du logement\...
+
+Ce fut en vain. Ou le bâtiment ne vit rien, ou il se hâta de fuir l\'îlot dès qu\'il l\'aperçut.
+
+À deux heures et demie, il lofait légèrement et s\'éloignait dans le nord-est. Une heure après, il n\'apparaissait plus que comme une vapeur blanche, et bientôt il avait entièrement disparu.
+
+Un des soldats, Kellet, poussa alors des rires extravagants. Puis il se roula sur le sol. On dut croire qu\'il devenait fou.
+
+Mrs. Paulina Barnett avait regardé Madge, bien en face, comme pour lui demander si elle espérait encore ! Madge avait détourné la tête !
+
+Le soir de ce jour néfaste, un craquement se fit entendre. C\'était toute la plus grande partie de l\'îlot qui se détachait et s\'abîmait dans la mer. Des cris terribles d\'animaux éclatèrent dans l\'ombre. L\'îlot était réduit à cette pointe qui s\'étendait depuis l\'emplacement de la maison engloutie jusqu\'au cap Bathurst !
+
+Ce n\'était plus qu\'un glaçon !
+
+
+]{.calibre20}
+
+
+LE PAYS DES FOURRURES
+
+Deuxième Partie
+
+
+]{.calibre20}

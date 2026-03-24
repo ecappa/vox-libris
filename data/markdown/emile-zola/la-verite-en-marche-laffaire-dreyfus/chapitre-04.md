@@ -1,0 +1,81 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[LA VÉRITÉ EN MARCHE (L'AFFAIRE DREYFUS)]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911659 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911173 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910687 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910201 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909715 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909229 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908743 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908257 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907285 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906799 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906313 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905827 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904855 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904369 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903883 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903397 .pcalibre .calibre2 .pcalibre1}[Le syndicat]{#_Toc368902911 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_218 .calibre30}
+
+Ces pages ont paru dans le Figaro, le 1er décembre 1897.
+
+Je comptais dès lors donner, dans ce journal, une série d\'articles sur l\'affaire Dreyfus, toute une campagne, à mesure que les événements se dérouleraient. Le hasard d\'une promenade m\'en avait fait rencontrer le directeur, M. Fernand de Rodays. Nous avions causé, avec quelque passion, au beau milieu des passants, et cela m\'avait décidé brusquement à lui offrir des articles, le sentant d\'accord avec moi. Je me trouvai ainsi engagé, sans l\'avoir prémédité. J\'ajoute, d\'ailleurs, que j\'aurais parlé à un moment ou à un autre, car le silence m\'était impossible. --- On se souvient avec quelle vigueur *le Figaro* commença et surtout finit par mener le bon combat.
+
+
+::: WordSection
+[
+]{.calibre44}
+
+On en connaît la conception. Elle est d\'une bassesse et d\'une niaiserie simpliste, dignes de ceux qui l\'ont imaginée.
+
+Le capitaine Dreyfus est condamné par un conseil de guerre pour crime de trahison. Dès lors, il devient le traître, non plus un homme, mais une abstraction, incarnant l\'idée de la patrie égorgée, livrée à l\'ennemi vainqueur. Il n\'est pas que la trahison présente et future, il représente aussi la trahison passée, car on l\'accable de la défaite ancienne, dans l\'idée obstinée que seule la trahison a pu nous faire battre.
+
+Voilà l\'âme noire, l\'abominable ligure, la honte de l\'armée, le bandit qui vend ses frères, ainsi que Judas a vendu son Dieu. Et, comme il est juif, c\'est bien simple, les juifs qui sont riches et puissants, sans patrie d\'ailleurs, vont travailler souterrainement, par leurs millions, à le tirer d\'affaire, en achetant des consciences, en enveloppant la France d\'un exécrable complot, pour obtenir la réhabilitation du coupable, quittes à lui substituer un innocent. La famille du condamné, juive elle aussi naturellement, entre dans l'affaire. Et c\'est bien une affaire, il s\'agit à prix d\'or de déshonorer la justice, d\'imposer le mensonge, de salir un peuple par la plus impudente des campagnes. Tout cela pour sauver un juif de l\'infamie et l\'y remplacer par un chrétien.
+
+Donc, un syndicat se crée. Ce qui veut dire que des banquiers se réunissent, mettent de l\'argent en commun, exploitent la crédulité publique. Quelque part, il y a une caisse qui paye toute la boue remuée. C\'est une vaste entreprise ténébreuse, des gens masqués, de fortes sommes remises la nuit, sous les ponts, à des inconnus, de grands personnages que l\'on corrompt, dont on achète la vieille honnêteté à des prix fous.
+
+Et le syndical s\'élargit ainsi peu à peu, il finit par être une puissante organisation, dans l\'ombre, toute une conspiration éhontée pour glorifier le traître et noyer la France sous un flot d\'ignominie.
+
+!{#Image941 .calibre150}
+
+Examinons-le, ce syndicat.
+
+Les juifs ont fait l\'argent et ce sont eux qui payent l'honneur des complices, à bureau ouvert. Mon Dieu ! je ne sais pas ce qu\'ils ont pu dépenser déjà. Mais, s\'ils n\'en sont qu\'à une dizaine de millions, je comprends qu\'ils les aient donnés. Voilà des citoyens français, nos égaux et nos frères, que l\'imbécile antisémitisme traîne quotidiennement dans la boue. On a prétendu les écraser avec le capitaine Dreyfus, on a tenté de faire, du crime de l\'un d\'eux, le crime de la race entière. Tous des traîtres, tous des vendus, tous des condamnés. Et vous ne voulez pas que ces gens, furieusement, protestent, tâchent de se laver, de rendre coup pour coup, dans cette guerre d\'extermination qui leur est faite ! Certes, on comprend qu\'ils souhaitent passionnément de voir éclater l\'innocence de leur coreligionnaire ; et, si la réhabilitation leur apparaît possible, ah ! de quel cœur ils doivent la poursuivre !
+
+Ce qui me tracasse, c\'est que, s\'il existe un guichet où l\'on touche, il n\'y ait pas quelques gredins avérés dans le syndicat. Voyons, vous les connaissez bien ; comment se fait-il qu\'un tel, et celui-ci, et cet autre, n\'en soient pas ? L\'extraordinaire est même que tous les gens que les juifs ont, dit-on, achetés, sont précisément d\'une réputation de probité solide. Peut-être ceux-ci y mettent-ils de la coquetterie, ne veulent-ils avoir que de la marchandise rare, en la payant son prix. Je doute donc fortement du guichet, bien que je sois tout prêt à excuser les juifs, si, poussés à bout, ils se défendaient avec leurs millions. Dans les massacres, on se sert de ce qu\'on a. Et je parle d\'eux bien tranquillement, car je ne les aime ni ne les hais. Je n\'ai parmi eux aucun ami qui soit près de mon cœur. Ils sont pour moi des hommes, et cela suffit.
+
+Mais, pour la famille du capitaine Dreyfus, il en va autrement, et ici quiconque ne comprendrait pas, ne s\'inclinerait pas, serait un triste cœur. Entendez-vous ! tout son or, tout son sang, la famille a le droit, le devoir de le donner, si elle croit son enfant innocent. Là est le seuil sacré que personne n\'a le droit de salir. Dans cette maison qui pleure, où il y a une femme, des frères, des parents en deuil, il ne faut entrer que le chapeau à la main ; et les goujats seuls se permettent de parler haut et d\'être insolents. Le frère du traître ! c\'est l\'insulte qu\'on jette à la face de ce frère ! Sous quelle morale, sous quel Dieu vivons-nous donc, pour que la chose soit possible, pour que la faute d\'un des membres soit reprochée à la famille entière ? Rien n\'est plus bas, plus indigne de notre culture et de notre générosité. Les journaux qui injurient le frère du capitaine Dreyfus parce qu\'il fait son devoir, sont une honte pour la presse française.
+
+Et qui donc aurait parlé, si ce n\'était lui ? Il est dans son rôle. Lorsque sa voix s\'est élevée demandant justice, personne n\'avait plus à intervenir, tous se sont effacés. Il avait seul qualité pour soulever cette redoutable question de l\'erreur judiciaire possible, de la vérité à faire, éclatante. On aura beau entasser les injures, on n\'obscurcira pas cette notion que la défense de l\'absent est entre les mains de ceux de son sang, qui ont gardé l\'espérance et la foi. Et la plus forte preuve morale en faveur de l\'innocence du condamné, est encore l\'inébranlable conviction de toute une famille honorable, d\'une probité et d\'un patriotisme sans tache.
+
+Puis, après les juifs fondateurs, après la famille directrice, viennent les simples membres du syndicat, ceux qu\'on a achetés. Deux des plus anciens sont MM. Bernard Lazare et le commandant Forzinetti. Ensuite, il y a eu M. Scheurer-Kestner et M. Monod. Dernièrement, on a découvert le colonel Picquart, sans compter M. Leblois. Et j\'espère bien que, depuis mon premier article, je fais partie de la bande. D\'ailleurs, est du syndicat, est convaincu d\'être un malfaiteur et d\'avoir été payé, quiconque, hanté par l\'effroyable frisson d\'une erreur judiciaire possible, se permet de vouloir que la vérité soit faite, au nom de la justice.
+
+!{#Image942 .calibre150}
+
+Mais, vous tous qui poussez à cet affreux gâchis, faux patriotes, antisémites braillards, simples exploiteurs vivant de la débâcle publique, c\'est vous qui l\'avez voulu, qui l\'avez fait, ce syndicat !
+
+Est-ce que l\'évidence n\'est pas complète, d\'une clarté de plein jour ? S\'il y avait eu syndicat, il y aurait eu entente, et où est-elle donc, l\'entente ? Ce qu\'il y a simplement, dès le lendemain de la condamnation, c\'est un malaise dans certaines consciences, c\'est un doute, devant le misérable qui hurle à tous son innocence. La crise terrible, la folie publique à laquelle nous assistons, est sûrement partie de là, de ce frisson léger resté dans les âmes. Et c\'est le commandant Forzinetti qui est l\'homme de ce frisson, éprouvé par tant d\'autres, et dont il nous a fait un récit si poignant.
+
+Puis, c\'est M. Bernard Lazare. Il est pris de doute, et il travaille à faire la lumière. Son enquête solitaire se poursuit d\'ailleurs au milieu de ténèbres qu\'il ne peut percer. Il publie une brochure, il en fait paraître une seconde, à la veille des révélations d\'aujourd\'hui ; et la preuve qu\'il travaillait seul, qu\'il n\'était en relation avec aucun des autres membres du syndicat, c\'est qu\'il n\'a rien su, n\'a rien pu dire de la vraie vérité. Un drôle de syndicat, dont les membres s\'ignorent !
+
+Puis, c\'est M. Scheurer-Kestner, que le besoin de vérité et de justice torture de son côté, et qui cherche, et qui tâche de se faire une certitude, sans rien savoir de l\'enquête officielle --- je dis officielle --- qui était laite au même moment par le colonel Picquart, mis sur la bonne piste par sa fonction même au ministère delà guerre. Il a fallu un hasard, une rencontre, comme on le saura plus tard, pour que ces deux hommes qui ne se connaissaient pas, qui travaillaient à la même œuvre, chacun de son côté, finissent, à la dernière heure, par se rejoindre et par marcher côte à côte.
+
+Toute l\'histoire du syndicat est là : des hommes de bonne volonté, de vérité et d\'équité, partis des quatre bouts de l\'horizon, travaillant à des lieues et sans se connaître, mais marchant tous par des chemins divers au même but, cheminant en silence, fouillant la terre, et aboutissant tous un beau matin au même point d\'arrivée. Tous, fatalement, se sont trouvés, la main dans la main, à ce carrefour de la vérité, à ce rendez-vous fatal de la justice.
+
+Vous voyez bien que c\'est vous qui, maintenant, les réunissez, les forcez de serrer leurs rangs, de travailler à une même besogne de santé et d\'honnêteté, ces hommes que vous couvrez d\'insultes, que vous accusez du plus noir complot, lorsqu\'ils n\'ont voulu qu\'une œuvre de suprême réparation.
+
+!{#Image943 .calibre150}
+
+Dix, vingt journaux, où se mêlent les passions et les intérêts les plus divers, toute une presse immonde que je ne puis lire sans que mon cœur se brise d\'indignation, n\'a donc cessé de persuader au public qu\'un syndicat de juifs, achetant les consciences à prix d\'or, s\'employait au plus exécrable des complots. D\'abord, il fallait sauver le traître, le remplacer par un innocent ; puis, c\'était l\'armée qu\'on déshonorerait, la France qu\'on vendrait, comme en 1870. Je passe les détails romanesques de la ténébreuse machination.
+
+Et, je le confesse, cette opinion est devenue celle de la grande majorité du public. Que de gens simples m\'ont abordé depuis huit jours, pour me dire d\'un air stupéfait : « Comment ! M. Scheurer-Kestner n\'est donc pas un bandit ? et vous vous mettez avec ces gens-là ! Mais vous ne savez donc pas qu\'ils ont vendu la France ! » Mon cœur se serre d\'angoisse, car je sens bien qu\'une telle perversion de l\'opinion va permettre tous les escamotages. Et le pis est que les braves sont rares, quand il faut remonter le flot. Combien vous murmurent à l\'oreille qu\'ils sont convaincus de l\'innocence du capitaine Dreyfus, mais qu\'ils n\'ont que faire de se mettre en dangereuse posture, dans la bagarre !
+
+Derrière l\'opinion publique, comptant sans doute s\'appuyer sur elle, il y a les bureaux du ministère de la guerre. Je n\'en veux pas parler aujourd\'hui, car j\'espère encore que justice sera faite. Mais qui ne sent que nous sommes devant la plus têtue des mauvaises volontés ? On ne veut pas avouer qu\'on a commis des erreurs, j\'allais dire des fautes. On s\'obstine à couvrir les personnages compromis. On est résolu à tout, pour éviter l\'énorme coup de balai. Et cela est si grave, en effet, que ceux-là mêmes qui ont la vérité en main, de qui on exige furieusement cette vérité, hésitent encore, attendent pour la crier publiquement, dans l\'espérance qu\'elle s\'imposera d\'elle-même et qu\'ils n\'auront pas la douleur de la dire.
+
+Mais il est une vérité du moins que, dès aujourd\'hui, je voudrais répandre par la France entière. C\'est qu\'on est en train de lui faire commettre, à elle la juste, la généreuse, un véritable crime. Elle n\'est donc plus la France, qu\'on peut la tromper à ce point, l\'affoler contre un misérable qui, depuis trois ans, expie, dans des conditions atroces, un crime qu\'il n\'a pas commis. Oui, il existe là-bas, dans un îlot perdu, sous le dur soleil, un être qu\'on a séparé des humains. Non seulement la grande mer l\'isole, mais onze gardiens l\'enferment nuit et jour d\'une muraille vivante. On a immobilisé onze hommes pour en garder un seul. Jamais assassin, jamais fou furieux n\'a été muré si étroitement. Et l\'éternel silence, et la lente agonie sous l\'exécration de tout un peuple ! Maintenant, osez-vous dire que cet homme n\'est pas coupable ?
+
+Eh bien, c\'est ce que nous disons, nous autres, les membres du syndicat. Et nous le disons à la France, et nous espérons qu\'elle finira par nous entendre, car elle s\'est toujours enflammée pour les causes justes et belles. Nous lui disons que nous voulons l\'honneur de l\'armée, la grandeur de la nation. Une erreur judiciaire a été commise et tant qu\'elle ne sera pas réparée, la France souffrira, maladive, comme d\'un cancer secret qui peu à peu ronge les chairs. Et si, pour lui refaire de la santé, il y a quelques membres à couper, qu\'on les coupe !
+
+!{#Image944 .calibre150}
+
+Un syndicat pour agir sur l\'opinion, pour la guérir de la démence où la presse immonde l\'a jetée, pour la ramener à sa fierté, à sa générosité séculaires. Un syndicat pour répéter chaque matin que nos relations diplomatiques ne sont pas en jeu, que l\'honneur de l\'armée n\'est point en cause, que des individualités seules peuvent être compromises. Un syndicat pour démontrer que toute erreur judiciaire est réparable et que s\'entêter dans une erreur de ce genre, sous le prétexte qu\'un conseil de guerre ne peut se tromper, est la plus monstrueuse des obstinations, la plus effroyable des infaillibilités. Un syndicat pour mener campagne jusqu\'à ce que la vérité soit faite, jusqu\'à ce que la justice soit rendue, au travers de tous les obstacles, même si des années de lutte sont encore nécessaires.
+
+De ce syndicat, ah ! oui, j\'en suis, et j\'espère bien que tous les braves gens de France vont en être !

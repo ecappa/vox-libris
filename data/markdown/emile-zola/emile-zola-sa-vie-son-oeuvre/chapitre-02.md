@@ -1,0 +1,34 @@
+::: WordSection
+[
+]{.calibre38}
+
+[]{#_Toc368503613 .pcalibre .calibre2 .pcalibre1}[!{.calibre30}]{.calibre29}[
+
+[ANNEXES]{.calibre29 lang="EN-US"}
+
+[ÉMILE ZOLA: SA VIE, SON OEUVRE]{lang="EN-GB"}
+
+
+[[Liste des annexes](../Text/Zola9_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre31 .calibre32 .sgc-1 lang="EN-GB"}
+
+]{.calibre34} [!{.calibre30}]{.calibre34}
+
+## []{#_Toc368920034 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368919949 .pcalibre .calibre2 .pcalibre1}[Préface]{#_Toc368919913 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_22 .calibre35}
+
+
+Entre Émile Zola et l'auteur de cette étude, durant de longues années, existèrent des liens d'amitié. Les circonstances firent de l'un et de l'autre, non des ennemis, mais des antagonistes. Ils combattirent, chacun pour ce qu'il estimait juste, en des camps opposés. Dans la bataille littéraire, ils demeurèrent d'accord.
+
+Les Lettres sont à côté des besognes politiques, et l'Art est au-dessus de l'esprit de parti. On peut, on doit rendre hommage à un grand écrivain, même lorsque, à un moment de sa vie, contre vous, contre vos convictions, il tourna sa plume.
+
+Les partisans de l'empire, Napoléon III étant encore sur le trône, s'inclinaient devant le génie de Victor Hugo. Ils n'acceptaient assurément pas tout de son oeuvre, et tout dans sa vie ne leur plaisait pas. Ils négligeaient *Napoléon le Petit* pour relire *les Feuilles d'Automne*, et leur légitime admiration pour *la Légende des Siècles* ne leur imposait pas l'approbation pour les violences des *Châtiments* envers le souverain qu'ils aimaient et le régime qu'ils défendaient.
+Sous le prétexte qu'il fut aussi l'auteur du pamphlet *J'accuse*, il est absurde, et plus d'un, par la suite, en rougira, de nier la maîtrise de l'historien des *Rougon-Macquart*.
+
+Il est, sans doute, regrettable que les enthousiasmes officiels et les acclamations populaires, celles-ci ignorantes, ceux-là factices, se soient surtout adressés au défenseur inattendu d'un accusé exceptionnel. C'est le peintre, au coloris vigoureux, des êtres et des choses de notre société, l'annaliste de nos moeurs et le clinicien de nos passions, de nos tares, qui avait seul droit à la gloire. Zola méritait de partager, avec Victor Hugo et d'autres illustres défunts, le lit funèbre imposant du Panthéon, mais il est fâcheux qu'il y ait été porté par des mains vibrantes encore de la fièvre d'une guerre civile, au milieu d'un concours de gens qui n'avaient pas lu ses livres. C'est l'homme de parti qu'on a voulu honorer, c'est à l'homme de lettres seul que devait être décernée l'apothéose nationale.
+
+La postérité ne voudra saluer dans Émile Zola qu'un philosophe et un moraliste, un lyrique merveilleux aussi, le poète en prose de la vie moderne. Ce livre a pour but de devancer son jugement.
+
+En faisant mieux connaître l'homme, en dégageant l'OEuvre de préoccupations étrangères à la littérature, l'auteur estime répondre à un désir des libres esprits, affranchis de la pire des servitudes, celle du préjugé et du parti pris. Le retentissement du nom d'Émile Zola et l'attention mondiale dont il a été, dont il est encore l'objet, motivent la présentation d'un travail, impartial et documenté, permettant d'apprécier, avec plus de certitude, le grand romancier, le robuste artiste aussi, qui, avec Victor Hugo et Balzac, domine le XIX^e^ siècle.
+
+E. L.
+
+Paris. Octobre 1908.

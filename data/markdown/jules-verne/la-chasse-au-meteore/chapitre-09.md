@@ -1,0 +1,124 @@
+]{.calibre20}
+
+
+LA CHASSE AU MÉTÉORE
+
+
+]{.calibre20}
+
+## [[Chapitre 9 -- Dans lequel les journaux, le public, Mr Dean Forsyth et le docteur Hudelson font une orgie de mathématiques.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942811 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_118 .calibre21}
+
+En or ! Il était en or !
+
+Le premier sentiment fut l\'incrédulité. Pour les uns, c\'était une erreur qui ne tarderait pas à être reconnue ; pour les autres, une vaste mystification imaginée par des farceurs de génie.
+
+S\'il en était ainsi, nul doute que l\'observatoire de Paris ne démentît d\'urgence la note qui lui aurait été, dans ce cas, faussement attribuée. Disons-le tout de suite, ce démenti ne devait pas être donné. Bien au contraire, les astronomes de tous les pays, répétant à l\'envi les expériences de leurs confrères français, en confirmèrent à l\'unanimité les conclusions. Force fut donc de tenir l\'étrange phénomène pour un fait avéré et certain. Alors, ce fut de l\'affolement.
+
+Quand se produit une éclipse de soleil, les verres optiques, on ne l\'ignore pas, se débitent en quantité considérable. Que l\'on estime donc ce qu\'il se vendit de lorgnettes, de lunettes, de télescopes à l\'occasion de ce mémorable événement ! Jamais souverain ou souveraine, jamais cantatrice ou ballerine illustres, ne furent tant et si passionnément lorgnés que ce merveilleux bolide, poursuivant, indifférent et superbe, sa marche régulière dans l\'infini de l\'espace.
+
+Le temps restait au beau fixe et se prêtait complaisamment aux observations. Aussi Mr Dean Forsyth et le docteur Sydney Hudelson ne quittaient-ils plus, l\'un sa tour, l\'autre son donjon. Tous deux s\'appliquaient à déterminer les derniers éléments du météore, son volume, sa masse, sans préjudice des particularités inattendues qu\'une étude attentive pouvait révéler. S\'il était définitivement impossible de trancher la question de la priorité, quel avantage pour celui des deux rivaux qui lui arracherait quelques-uns de ses secrets ! La question du bolide, n\'était-ce pas la question du jour ?
+
+À l\'encontre des Gaulois, qui ne craignaient rien, si ce n\'est que le ciel leur tombât sur la tête, l\'humanité tout entière n\'avait qu\'un désir, c\'est que le bolide, arrêté dans sa course et cédant à l\'attraction, enrichît le globe de ses milliards errants.
+
+Que de calculs furent effectués pour établir le nombre de ces milliards ! Malheureusement, ces calculs manquaient de base, puisque les dimensions du noyau restaient inconnues.
+
+La valeur de ce noyau, quelle qu\'elle fût, ne pouvait, en tout cas, manquer d\'être prodigieuse, et cela suffisait à enflammer les imaginations.
+
+Dès le 3 mai, le Whaston Standard publia à ce sujet une note, qui, après une série de réflexions, se terminait ainsi :
+
+« En admettant que le noyau du bolide Forsyth-Hudelson soit constitué par une sphère mesurant seulement dix mètres de diamètre, cette sphère pèserait, si elle était en fer, trois mille sept cent soixante-treize tonnes. Mais cette même sphère, formée uniquement d\'or pur, pèserait dix mille quatre-vingt-trois tonnes, et vaudrait plus de trente et un milliards de francs. »
+
+On le voit, le Standard, très lancé dans le courant moderne, prenait le système décimal pour base de ses calculs. Qu\'il nous soit permis de l\'en féliciter sincèrement !
+
+Ainsi, même d\'un volume si réduit, le bolide aurait une pareille valeur !
+
+« Est-ce possible, monsieur ? Balbutia Omicron, après avoir lu la note en question.
+
+--- Ce n\'est pas seulement possible : c\'est certain, répondit doctoralement Mr Dean Forsyth. Il a suffi, pour trouver ce résultat, de multiplier la masse par la valeur moyenne de l\'or, soit 3100 francs le kilogramme, laquelle masse n\'est autre que le produit du volume, on l\'obtient de la manière la plus simple par la formule :
+
+--- En effet ! Approuva d\'un air entendu Omicron, pour qui tout cela était de l\'hébreu.
+
+--- Par exemple, reprit Mr Dean Forsyth, ce qui est odieux, c\'est que le journal persiste à accoler mon nom à celui de cet individu ! »
+
+Très probablement, le docteur faisait, de son côté, la même réflexion.
+
+Pour miss Loo, lorsqu\'elle lut la note du Standard, une si dédaigneuse moue se dessina sur ses lèvres roses que les trente et un milliards en eussent été profondément humiliés.
+
+On sait que le tempérament des journalistes les porte instinctivement à surenchérir. Quand l\'un a dit deux, l\'autre dit trois, sans y penser. Aussi ne sera-t-on pas surpris si, le soir même, le Whaston Evening répondait en ces termes, qui trahissaient sa condamnable partialité en faveur du donjon :
+
+« Nous ne comprenons pas pourquoi le Standard s\'est montré si modeste dans ses évaluations. En ce qui nous concerne, nous serons plus audacieux. Ne serait-ce que pour rester dans les hypothèses acceptables, c\'est un diamètre de cent mètres que nous attribuerons au noyau du bolide Hudelson. En se basant sur cette dimension, on trouve que le poids d\'une telle sphère d\'or pur serait de dix millions quatre-vingt-trois mille quatre cent quatre-vingt-huit tonnes, et que sa valeur dépasserait trente et un trillions deux cent soixante milliards de francs, -- soit un nombre de quatorze chiffres ! »
+
+« Et encore, on néglige les centimes », fit remarquer plaisamment le Punch, en citant ces nombres prodigieux que l\'imagination est incapable de concevoir.
+
+Cependant, le temps continuant à se maintenir au beau fixe, Mr Dean Forsyth et le docteur Hudelson s\'obstinaient plus que jamais à poursuivre leurs recherches, soutenus par l\'espoir d\'être du moins le premier à déterminer avec précision les dimensions du noyau astéroïdal.
+
+Malheureusement, il était très malaisé d\'en relever les contours au milieu de son étincelante chevelure.
+
+Une seule fois, dans la nuit du 5 au 6, Mr Dean Forsyth se crut sur le point d\'y parvenir. L\'irradiation s\'était un instant affaiblie, laissant paraître aux regards un globe d\'un intense éclat.
+
+« Omicron ! Appela Mr Dean Forsyth d\'une voix rendue sourde par l\'émotion.
+
+--- Monsieur ?
+
+--- Le noyau !
+
+--- Oui\... Je le vois.
+
+--- Enfin ! Nous le tenons !
+
+--- Bon ! s\'écria Omicron, on ne le distingue déjà plus !
+
+--- N\'importe, je l\'ai vu ! J\'aurai eu cette gloire ! Dès demain, à la première heure, une dépêche à l\'observatoire de Pittsburg\... Et ce misérable Hudelson ne pourra pas prétendre, cette fois\... »
+
+Mr Dean Forsyth s\'illusionnait-il, ou bien le docteur Hudelson avait-il réellement laissé prendre sur lui un tel avantage ? On ne sera jamais renseigné là-dessus, pas plus que ne fut jamais envoyée la lettre projetée à l\'Observatoire de Pittsburg.
+
+Dès le matin du 6 mai, en effet, la note suivante parut dans les journaux du monde entier :
+
+« L\'observatoire de Greenwich a l\'honneur de porter à la connaissance du public qu\'il résulte de ses calculs et d\'un ensemble d\'observations très satisfaisantes que le bolide signalé par deux honorables citoyens de la ville de Whaston, et que l\'observatoire de Paris a reconnu être exclusivement composé d\'or pur, est constitué par une sphère de cent dix mètres de diamètre et d\'un volume de six cent quatre-vingt-seize mille mètres cubes environ.
+
+« Une telle sphère, en or, devrait peser plus de treize millions de tonnes.
+
+Le calcul montre qu\'il n\'en est rien. Le poids réel du bolide s\'élève à peine au septième du nombre précédent et est sensiblement égal à un million huit cent soixante-sept mille tonnes, poids correspondant à un volume d\'environ quatre-vingt-dix-sept mille mètres cubes et à un diamètre approximatif de cinquante-sept mètres.
+
+« Des considérations qui précèdent, nous devons nécessairement conclure, la composition chimique du bolide étant hors de discussion, ou bien qu\'il existe de vastes cavités dans le métal constituant le noyau, ou, plus vraisemblablement, que ce métal s\'y trouve à l\'état pulvérulent, le noyau étant, dans ce cas, d\'une texture poreuse analogue à celle d\'une éponge.
+
+« Quoi qu\'il en soit à cet égard, les calculs et les observations permettent de préciser plus exactement la valeur du bolide. Cette valeur, au cours actuel de l\'or, n\'est pas inférieure à cinq mille sept cent quatre-vingt-huit milliards de francs. »
+
+Donc, si ce n\'était pas cent mètres, comme l\'avait supposé le Whaston Evening, ce n\'était pas non plus dix mètres, comme l\'avait admis le Standard. La vérité se trouvait entre les deux hypothèses. Telle quelle, d\'ailleurs, elle eût été capable de satisfaire les plus ambitieuses convoitises, si le météore n\'avait été destiné à tracer une éternelle trajectoire au-dessus du globe terrestre.
+
+Lorsque Mr Dean Forsyth connut la valeur de son bolide :
+
+« C\'est moi qui l\'ai découvert, s\'écria-t-il, et non ce coquin du donjon. C\'est à moi qu\'il appartient, et, s\'il venait à tomber sur terre, je serais riche de cinq mille huit cents milliards ! »
+
+De son côté, d\'ailleurs, le docteur Hudelson se répétait en tendant un bras menaçant vers la tour :
+
+« C\'est mon bien, c\'est ma chose\..., c\'est l\'héritage de mes enfants, qui gravite à travers l\'espace.
+
+S\'il venait à choir sur notre globe, il m\'appartiendrait en toute propriété et je serais cinq mille huit cents fois milliardaire ! »
+
+Il est certain que les Vanderbilt, les Astor, les Rockfeller, les Pierpont Morgan, les Mackay, les Gould et autres Crésus américains, sans parler des Rothschild, ne seraient plus, dans ce cas, que de petits rentiers auprès du docteur Hudelson ou de Mr Dean Forsyth !
+
+Voilà où ils en étaient. S\'ils n\'en perdaient pas la tête, c\'est que leur tête était solide !
+
+Francis et Mrs Hudelson ne prévoyaient que trop aisément la manière dont finirait tout cela. Mais comment retenir les deux rivaux sur une pente si glissante ? Impossible de causer posément avec eux. Ils semblaient avoir oublié le mariage projeté et ne songeaient qu\'à leur rivalité si déplorablement entretenue par les journaux de la ville.
+
+Les articles de ces feuilles, d\'ordinaire assez paisibles, devenaient enragés, et les regrettables personnalités qui s\'y mêlaient risquaient d\'amener sur le terrain des gens habituellement plus sociables.
+
+De son côté, le Punch, avec ses épigrammes et ses caricatures, ne cessait d\'exciter les deux adversaires. Si ce n\'était pas de l\'huile que ce journal jetait sur le feu, c\'était au moins du sel, le sel de ses plaisanteries quotidiennes, et le feu n\'en crépitait que davantage !
+
+On en arrivait à redouter que Mr Dean Forsyth et le docteur Hudelson ne voulussent se disputer le bolide les armes à la main et régler cette question dans un duel à l\'américaine. Voilà qui ne serait pas fait pour arranger les affaires des deux fiancés !
+
+Heureusement pour la paix du monde, tandis que les deux monomanes perdaient chaque jour un peu plus de leur bon sens, le public se calmait par degrés.
+
+Cette réflexion bien simple finissait par s\'imposer à tout le monde, qu\'il importait peu que le bolide fût en or et qu\'il valût des milliers de milliards, du moment qu\'on ne pouvait l\'atteindre.
+
+Or, on ne pouvait l\'atteindre, c\'était bien certain. À chacune de ses révolutions, le météore reparaissait fidèlement au point du ciel indiqué par le calcul. Sa vitesse était donc uniforme et, comme l\'avait fait observer dès le début le Whaston Standard, il n\'y avait pas de raison pour qu\'elle subît jamais une diminution quelconque. En conséquence, le bolide graviterait éternellement autour de la terre dans l\'avenir, comme il avait gravité vraisemblablement de toute éternité dans le passé.
+
+Ces considérations, reproduites à satiété par tous les journaux de l\'Univers, contribuèrent à apaiser les esprits. De jour en jour on pensa un peu moins au bolide, et chacun reprit ses occupations, après un soupir de regret à l\'adresse de l\'insaisissable trésor.
+
+
+Le malheureux comptait sur les milliards du bolide ! Que vont devenir les pauvres petits enfants de notre ami, maintenant que les milliards nous passeront sous\... Non, sur le nez ? Avons-nous besoin d\'ajouter que cet ami est symbolique, ainsi que le veut l\'usage, et qu\'il s\'appelle légion ? Nous proposons que l\'unanimité des habitants du globe intente un procès à MM. Dean Forsyth et Sydney Hudelson, à l\'effet de les faire condamner à cinq mille sept cent quatre-vingt-huit milliards de dommages et intérêts. Et nous demandons qu\'on les fasse impitoyablement payer ! »
+
+Les intéressés ignorèrent toujours qu\'un tel procès, à coup sûr sans précédent, et d\'ailleurs d\'exécution difficile, les eût jamais menacés.
+
+Alors que les autres humains rendaient leur attention aux choses de la terre, MM. Dean Forsyth et Sydney Hudelson continuaient à planer dans l\'azur et persistaient à le fouiller de leurs télescopes obstinés.

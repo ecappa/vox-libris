@@ -1,0 +1,114 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "DE LA CRITIQUE",
+  "slug": "de-la-critique",
+  "nombre_chapitres": 9,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1632,
+      "spine_end_exclusive": 1633,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_333.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Polémiques",
+      "slug": "polemiques",
+      "spine_start": 1633,
+      "spine_end_exclusive": 1636,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_334.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_335.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_336.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le Réalisme",
+      "slug": "le-realisme",
+      "spine_start": 1636,
+      "spine_end_exclusive": 1637,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_337.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les chroniques parisiennes de Sainte-Beuve",
+      "slug": "les-chroniques-parisiennes-de-sainte-beuve",
+      "spine_start": 1637,
+      "spine_end_exclusive": 1638,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_338.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Hector Berlioz",
+      "slug": "hector-berlioz",
+      "spine_start": 1638,
+      "spine_end_exclusive": 1639,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_339.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chaudes-Aigues et Balzac",
+      "slug": "chaudes-aigues-et-balzac",
+      "spine_start": 1639,
+      "spine_end_exclusive": 1640,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_340.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Jules Janin et Balzac",
+      "slug": "jules-janin-et-balzac",
+      "spine_start": 1640,
+      "spine_end_exclusive": 1641,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_341.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Un prix de Rome littéraire",
+      "slug": "un-prix-de-rome-litteraire",
+      "spine_start": 1641,
+      "spine_end_exclusive": 1642,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_342.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La haine de la littérature",
+      "slug": "la-haine-de-la-litterature",
+      "spine_start": 1642,
+      "spine_end_exclusive": 1643,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_343.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La littérature obscène",
+      "slug": "la-litterature-obscene",
+      "spine_start": 1643,
+      "spine_end_exclusive": 1645,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_344.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_345.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

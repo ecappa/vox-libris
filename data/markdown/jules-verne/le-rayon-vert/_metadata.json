@@ -1,0 +1,264 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE RAYON VERT",
+  "slug": "le-rayon-vert",
+  "nombre_chapitres": 23,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Le frère Sam et le frère Sib",
+      "slug": "chapitre-1-le-frere-sam-et-le-frere-sib",
+      "is_part": false,
+      "spine_start": 991,
+      "spine_end_exclusive": 992,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_044.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Helena Campbell",
+      "slug": "chapitre-2-helena-campbell",
+      "is_part": false,
+      "spine_start": 992,
+      "spine_end_exclusive": 993,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – L'article du « Morning Post »",
+      "slug": "chapitre-3-larticle-du-morning-post",
+      "is_part": false,
+      "spine_start": 993,
+      "spine_end_exclusive": 994,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – En descendant la Clyde",
+      "slug": "chapitre-4-en-descendant-la-clyde",
+      "is_part": false,
+      "spine_start": 994,
+      "spine_end_exclusive": 995,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – D’un bâteau à l'autre",
+      "slug": "chapitre-5-dun-bateau-a-lautre",
+      "is_part": false,
+      "spine_start": 995,
+      "spine_end_exclusive": 996,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Le gouffre de Corryvrekan",
+      "slug": "chapitre-6-le-gouffre-de-corryvrekan",
+      "is_part": false,
+      "spine_start": 996,
+      "spine_end_exclusive": 997,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Aristobulus Ursiclos",
+      "slug": "chapitre-7-aristobulus-ursiclos",
+      "is_part": false,
+      "spine_start": 997,
+      "spine_end_exclusive": 998,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_050.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Un nuage à l'horizon",
+      "slug": "chapitre-8-un-nuage-a-lhorizon",
+      "is_part": false,
+      "spine_start": 998,
+      "spine_end_exclusive": 999,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Propos de dame Bess",
+      "slug": "chapitre-9-propos-de-dame-bess",
+      "is_part": false,
+      "spine_start": 999,
+      "spine_end_exclusive": 1000,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Une partie de croquet",
+      "slug": "chapitre-10-une-partie-de-croquet",
+      "is_part": false,
+      "spine_start": 1000,
+      "spine_end_exclusive": 1001,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_053.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Olivier Sinclair",
+      "slug": "chapitre-11-olivier-sinclair",
+      "is_part": false,
+      "spine_start": 1001,
+      "spine_end_exclusive": 1002,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_054.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Nouveaux projets",
+      "slug": "chapitre-12-nouveaux-projets",
+      "is_part": false,
+      "spine_start": 1002,
+      "spine_end_exclusive": 1003,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_055.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Les magnificences de la mer",
+      "slug": "chapitre-13-les-magnificences-de-la-mer",
+      "is_part": false,
+      "spine_start": 1003,
+      "spine_end_exclusive": 1004,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_056.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – La vie à Iona",
+      "slug": "chapitre-14-la-vie-a-iona",
+      "is_part": false,
+      "spine_start": 1004,
+      "spine_end_exclusive": 1005,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_057.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Les ruines d’Iona",
+      "slug": "chapitre-15-les-ruines-diona",
+      "is_part": false,
+      "spine_start": 1005,
+      "spine_end_exclusive": 1006,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_058.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Deux coups de fusil",
+      "slug": "chapitre-16-deux-coups-de-fusil",
+      "is_part": false,
+      "spine_start": 1006,
+      "spine_end_exclusive": 1007,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_059.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – À bord de la « Clorinda »",
+      "slug": "chapitre-17-a-bord-de-la-clorinda",
+      "is_part": false,
+      "spine_start": 1007,
+      "spine_end_exclusive": 1008,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_060.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Staffa",
+      "slug": "chapitre-18-staffa",
+      "is_part": false,
+      "spine_start": 1008,
+      "spine_end_exclusive": 1009,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_061.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – La grotte de Fingal",
+      "slug": "chapitre-19-la-grotte-de-fingal",
+      "is_part": false,
+      "spine_start": 1009,
+      "spine_end_exclusive": 1010,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_062.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Pour miss Campbell !",
+      "slug": "chapitre-20-pour-miss-campbell",
+      "is_part": false,
+      "spine_start": 1010,
+      "spine_end_exclusive": 1011,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_063.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Toute une tempête dans une grotte",
+      "slug": "chapitre-21-toute-une-tempete-dans-une-grotte",
+      "is_part": false,
+      "spine_start": 1011,
+      "spine_end_exclusive": 1012,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_064.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Le rayon-vert",
+      "slug": "chapitre-22-le-rayon-vert",
+      "is_part": false,
+      "spine_start": 1012,
+      "spine_end_exclusive": 1013,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_065.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – Conclusion",
+      "slug": "chapitre-23-conclusion",
+      "is_part": false,
+      "spine_start": 1013,
+      "spine_end_exclusive": 1014,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_066.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

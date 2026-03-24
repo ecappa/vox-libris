@@ -1,0 +1,131 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5936 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LA MORT D'OLIVIER BÉCAILLE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5937 .calibre35}
+
+## []{#_Toc368832960 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832686 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832412 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832138 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831864 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831590 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831316 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831042 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830768 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830494 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830220 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829946 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829672 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829398 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829124 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828850 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828576 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828302 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368828028 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Je ne puis dire quelle fut mon agonie, pendant la matinée du lendemain. Cela m\'est demeuré comme un rêve horrible, où mes sensations étaient si singulières, si troublées, qu\'il me serait difficile de les noter exactement. Ce qui rendit ma torture affreuse, c\'était que j\'espérais toujours un brusque réveil. Et, à mesure que l\'heure du convoi approchait, l\'épouvante m\'étranglait davantage.
+
+Ce fut vers le matin seulement que j\'eus de nouveau conscience des personnes et des choses qui m\'entouraient.
+
+Un grincement de l\'espagnolette me tira de ma somnolence. Mme Gabin avait ouvert la fenêtre. Il devait être environ sept heures, car j\'entendais des cris de marchands, dans la rue, la voix grêle d\'une gamine qui vendait du mouron, une autre voix enrouée criant des carottes. Ce réveil bruyant de Paris me calma d\'abord : il me semblait impossible qu\'on m\'enfouît dans la terre, au milieu de toute cette vie. Un souvenir achevait de me rassurer. Je me rappelais avoir vu un cas pareil au mien, lorsque j\'étais employé à l\'hôpital de Guérande. Un homme y avait ainsi dormi pendant vingt−huit heures, son sommeil était même si profond, que les médecins hésitaient à se prononcer ; puis, cet homme s\'était assis sur son séant, et il avait pu se lever tout de suite. Moi, il y avait déjà vingt−cinq heures que je dormais. Si je m\'éveillais vers dix heures, il serait temps encore.
+
+Je tâchai de me rendre compte des personnes qui se trouvaient dans la chambre, et de ce qu\'on y faisait. La petite Dédé devait jouer sur le carré, car la porte s\'étant ouverte, un rire d\'enfant vint du dehors. Sans doute, Simoneau n\'était plus là : aucun bruit ne me révélait sa présence. Les savates de Mme Gabin traînaient seules sur le carreau. On parla enfin. − Ma chère, dit la vieille, vous avez tort de ne pas en prendre pendant qu\'il est chaud, ça vous soutiendrait.
+
+Elle s\'adressait à Marguerite, et le léger égouttement du filtre, sur la cheminée, m\'apprit qu\'elle était en train de faire du café.
+
+--- Ce n\'est pas pour dire, continua−t−elle, mais j\'avais besoin de ça\... À mon âge, ça ne vaut rien de veiller. Et c\'est si triste, la nuit, quand il y a un malheur dans une maison\... Prenez donc du café, ma chère, une larme seulement.
+
+Et elle força Marguerite à en boire une tasse.
+
+--- Hein ? C\'est chaud, ça vous remet. Il vous faut des forces pour aller jusqu\'au bout de la journée\... Maintenant, si vous étiez bien sage, vous passeriez dans ma chambre, et vous attendrez là.
+
+--- Non, je veux rester, répondit Marguerite résolument.
+
+Sa voix, que je n\'avais plus entendue depuis la veille, me toucha beaucoup. Elle était changée, brisée de douleur. Ah ! Chère femme ! Je la sentais près de moi, comme une consolation dernière. Je savais qu\'elle ne me quittait pas des yeux, qu\'elle me pleurait de toutes les larmes de son coeur.
+
+Mais les minutes passaient. Il y eut, à la porte, un bruit que je ne m\'expliquai pas d\'abord. On aurait dit l\'emménagement d\'un meuble qui se heurtait contre les murs de l\'escalier trop étroit. Puis, je compris, en entendant de nouveau les larmes de Marguerite. C\'était la bière.
+
+--- Vous venez trop tôt, dit Mme Gabin d\'un air de mauvaise humeur. Posez ça derrière le lit.
+
+Quelle heure était−il donc ? Neuf heures peut−être. Ainsi, cette bière était déjà là. Et je la voyais dans la nuit épaisse, toute neuve, avec ses planches à peine rabotées. Mon Dieu ! Est−ce que tout allait finir ? Est−ce qu\'on m\'emporterait dans cette boîte, que je sentais à mes pieds ?
+
+J\'eus pourtant une suprême joie. Marguerite, malgré sa faiblesse, voulut me donner les derniers soins. Ce fut elle qui, aidée de la vieille femme, m\'habilla, avec une tendresse de soeur et d\'épouse. Je sentais que j\'étais une fois encore entre ses bras, à chaque vêtement qu\'elle me passait. Elle s\'arrêtait, succombant sous l\'émotion ; elle m\'étreignait, elle me baignait de ses pleurs. J\'aurais voulu pouvoir lui rendre son étreinte, en lui criant : " Je vis ! " et je restais impuissant, je devais m\'abandonner comme une masse inerte.
+
+--- Vous avez tort, tout ça est perdu, répétait Mme Gabin.
+
+Marguerite répondait de sa voix entrecoupée :
+
+--- Laissez−moi, je veux lui mettre ce que nous avons de plus beau. Je compris qu\'elle m\'habillait comme pour le jour de nos noces. J\'avais encore ces vêtements, dont je comptais ne me servir à Paris que les grands jours. Puis, elle retomba dans le fauteuil, épuisée par l\'effort qu\'elle venait de faire.
+
+Alors, tout d\'un coup, Simoneau parla. Sans doute, il venait d\'entrer.
+
+--- Ils sont en bas, murmura−t−il.
+
+--- Bon, ce n\'est pas trop tôt, répondit Mme Gabin, en baissant également la voix. Dites−leur de monter, il faut en finir.
+
+--- C\'est que j\'ai peur du désespoir de cette pauvre femme.
+
+La vieille parut réfléchir. Elle reprit :
+
+--- Écoutez, monsieur Simoneau, vous allez l\'emmener de force dans ma chambre\... Je ne veux pas qu\'elle reste ici.
+
+C\'est un service à lui rendre\... Pendant ce temps, en un tour de main, ce sera bâclé.
+
+Ces paroles me frappèrent au coeur. Et que devins−je, lorsque j\'entendis la lutte affreuse qui s\'engagea ! Simoneau s\'était approché de Marguerite, en la suppliant de ne pas demeurer dans la pièce.
+
+--- Par pitié, implorait−il, venez avec moi, épargnez−vous une douleur inutile.
+
+--- Non, non, répétait ma femme, je resterai, je veux rester jusqu\'au dernier moment. Songez donc que je n\'ai que lui au monde, et que, lorsqu\'il ne sera plus là, je serai seule.
+
+Cependant, près du lit, Mme Gabin souillait à l\'oreille du jeune homme :
+
+--- Marchez donc, empoignez−la, emportez−la dans vos bras.
+
+Est−ce que ce Simoneau allait prendre Marguerite et l\'emporter ainsi ? Tout de suite, elle cria. D\'un élan furieux, je voulus me mettre debout. Mais les ressorts de ma chair étaient brisés. Et je restais si rigide, que je ne pouvais même soulever les paupières pour voir ce qui se passait là, devant moi. La lutte se prolongeait, ma femme s\'accrochait aux meubles en répétant :
+
+--- Oh ! De grâce, de grâce, monsieur\... Lâchez−moi, je ne veux pas.
+
+Il avait dû la saisir dans ses bras vigoureux, car elle ne poussait plus que des plaintes d\'enfant. Il l\'emporta, les sanglots se perdirent, et je m\'imaginais les voir, lui grand et solide, l\'emmenant sur sa poitrine, à son cou, et elle, éplorée, brisée, s\'abandonnant, le suivant désormais partout où il voudrait la conduire.
+
+---Fichtre ! ça n\'a pas été sans peine ! murmura Mme Gabin. Allons, houp ! Maintenant que le plancher est débarrassé !
+
+Dans la colère jalouse qui m\'affolait, je regardais cet enlèvement comme un rapt abominable. Je ne voyais plus Marguerite depuis la veille, mais je l\'entendais encore.
+
+Maintenant, c\'était fini ; on venait de me la prendre ; un homme l\'avait ravie, avant même que je fusse dans la terre.
+
+Et il était avec elle, derrière la cloison, seul à la consoler, à l\'embrasser peut−être !
+
+La porte s\'était ouverte de nouveau, des pas lourds marchaient dans la pièce.
+
+---Dépêchons, dépêchons, répétait Mme Gabin. Cette petite dame n\'aurait qu\'à revenir.
+
+Elle parlait à des gens inconnus et qui ne lui répondaient que par des grognements.
+
+--- Moi, vous comprenez, je ne suis pas une parente, je ne suis qu\'une voisine. Je n\'ai rien à gagner dans tout ça. C\'est par pure bonté de coeur que je m\'occupe de leurs affaires. Et ce n\'est déjà pas si gai\... Oui, oui, j\'ai passé la nuit. Même qu\'il ne faisait guère chaud, vers quatre heures. Enfin, j\'ai toujours été bête, je suis trop bonne.
+
+À ce moment, on tira la bière au milieu de la chambre, et je compris. Allons, j\'étais condamné, puisque le réveil ne venait pas. Mes idées perdaient de leur netteté, tout roulait en moi dans une fumée noire ; et j\'éprouvais une telle lassitude, que ce lut comme un soulagement, de ne plus compter sur rien.
+
+--- On n\'a pas épargné le bois, dit la voix enrouée d\'un croque−mort. La boîte est trop longue.
+
+--- Eh bien ! Il y sera à l\'aise, ajouta un autre en s\'égayant.
+
+Je n\'étais pas lourd, et ils s\'en félicitaient, car ils avaient trois étages à descendre. Comme ils m\'empoignaient par les épaules et périr les pieds, Mme Gabin tout d\'un coup se fâcha.
+
+--- Sacrée gamine ! Cria−t−elle, il faut qu\'elle mette son nez partout\... Attends, je vas te faire regarder par les fentes.
+
+C\'était Dédé qui entrebâillait la porte et passait sa tête ébouriffée. Elle voulait voir mettre le monsieur dans la boîte. Deux claques vigoureuses retentirent, suivies d\'une explosion de sanglots. Et quand la mère fut rentrée, elle causa de sa fille avec les hommes qui m\'arrangeaient dans la bière.
+
+---Elle a dix ans. C\'est un bon sujet ; mais elle est curieuse\... Je ne la bats pas tous les jours, seulement, il faut qu\'elle obéisse.
+
+--- Oh ! Vous savez, dit un des hommes, toutes les gamines sont comme ça\... Lorsqu\'il y a un mort quelque part, elles sont toujours à tourner autour.
+
+J\'étais allongé commodément, et j\'aurais pu croire que je me trouvais encore sur le lit, sans une gêne de mon bras gauche, qui était un peu serré contre une planche. Ainsi qu\'ils le disaient, je tenais très bien là−dedans, grâce à ma petite taille.
+
+--- Attendez, s\'écria Mme Gabin, j\'ai promis à sa femme de lui mettre un oreiller sous la tête.
+
+Mais les hommes étaient pressés, ils fourrèrent l\'oreiller en me brutalisant. Un d\'eux cherchait partout le marteau, avec des jurons. On l\'avait oublié en bas, et il fallut descendre. Le couvercle fut posé, je ressentis un ébranlement de tout mon corps, lorsque deux coups de marteau enfoncèrent le premier clou. C\'en était fait, j\'avais vécu. Puis, les clous entrèrent un à un, rapidement, tandis que le marteau sonnait en cadence. On aurait dit des emballeurs clouant une boîte de fruits secs, avec leur adresse insouciante. Dès lors, les bruits ne m\'arrivèrent plus qu\'assourdis et prolongés, résonnant d\'une étrange manière, comme si le cercueil de sapin s\'était transformé en une grande caisse d\'harmonie. La dernière parole qui frappa mes oreilles, dans cette chambre de la rue Dauphine, ce fut cette phrase de Mme Gabin :
+
+--- Descendez doucement, et méfiez−vous de la rampe au second, elle ne tient plus.
+
+On m\'emportait, j\'avais la sensation d\'être roulé dans une mer houleuse. D\'ailleurs, à partir de ce moment, mes souvenirs sont très vagues. Je me rappelle pourtant que l\'unique préoccupation qui me tenait encore, préoccupation imbécile et comme machinale, était de me rendre compte de la route que nous prenions pour aller au cimetière. Je ne connaissais pas une rue de Paris, j\'ignorais la position exacte des grands cimetières, dont on avait parfois prononcé les noms devant moi, et cela ne m\'empêchait pas de concentrer les derniers efforts de mon intelligence, afin de deviner si nous tournions à droite ou à gauche. Le corbillard me cahotait sur les pavés. Autour de moi, le roulement des voitures, le piétinement des passants faisaient une clameur confuse que développait la sonorité du cercueil. D\'abord, je suivis l\'itinéraire avec assez de netteté.
+
+Puis, il y eut une station, on me promena, et je compris que nous étions à l\'église. Mais, quand le corbillard s\'ébranla de nouveau, je perdis toute conscience des lieux que nous traversions. Une volée de cloches m\'avertit que nous passions près d\'une église ; un roulement plus doux et continu me fit croire que nous longions une promenade.
+
+J\'étais comme un condamné mené au lieu du supplice, hébété, attendant le coup suprême qui ne venait pas.
+
+On s\'arrêta, on me tira du corbillard. Et ce fut bâclé tout de suite. Les bruits avaient cessé, je sentais que j\'étais dans un lieu désert, sous des arbres, avec le large ciel sur ma tête. Sans doute, quelques personnes suivaient le convoi, les locataires de l\'hôtel, Simoneau et d\'autres, car des chuchotements arrivaient jusqu\'à moi. Il y eut une psalmodie, un prêtre balbutiait du latin. On piétina deux minutes.
+
+Puis, brusquement, je sentis que je m\'enfonçais ; tandis que des cordes frottaient comme des archets, contre les angles du cercueil, qui rendait un son de contrebasse fêlée. C\'était la fin. Un choc terrible, pareil au retentissement d\'un coup de canon, éclata un peu à gauche de ma tête ; un second choc se produisit à mes pieds ; un autre, plus violent encore, me tomba sur le ventre, si sonore, que je crus la bière fendue en deux. Et je m\'évanouis.

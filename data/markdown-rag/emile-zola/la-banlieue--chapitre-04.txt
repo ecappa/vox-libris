@@ -1,0 +1,34 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA BANLIEUE"
+slug_oeuvre: "la-banlieue"
+section: "Chapitre 04"
+slug_section: "chapitre-04"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA BANLIEUE
+
+[Liste des contes et nouvelles
+
+!
+
+## IV
+Il est un conteur beaucoup plus modeste et presque déjà oublié, dont les livres ont singulièrement popularisé la banlieue. Je veux parler de Paul de Kock. C'est certainement lui qui a le plus travaillé à pousser le menu peuple hors des fortifications. Sans doute, de son temps, l'élan existait déjà ; mais il fit une mode des parties de campagne qu'il racontait, il donna la vogue à certains coins de verdure et de soleil. Certes, la qualité littéraire de ses romans n'est pas grande. Seulement, que de bonhomie, et comme on sent qu'il peint des scènes vraies, sous l'exagération comique ! Ce n'est plus le poète lyrique, à genoux devant les grands bois ; c'est le bourgeois parisien qui traite la campagne en bonne femme, et qui lui demande avant tout de la liberté et du plein air. La note exacte de la banlieue sous Louis-Philippe se trouve là.
+
+Rien n'est curieux comme de chercher, dans Paul de Kock, ce qu'étaient les bois de Boulogne et de Vincennes, il y a cinquante ans. On y voit des parties à ânes, des dîners sur l'herbe ; les promeneurs s'y perdent pour tout de bon, et l'on parle d'organiser des battues, quand il s'agit de les retrouver. Certes, les choses ont changé aujourd'hui. Les ânes font place aux équipages du Paris élégant. On peut encore dîner sur l'herbe, mais on est regardé de travers par les gardiens. Quant à se perdre, il faudrait y mettre de la bonne volonté, car on a nettoyé les fourrés, coupé les taillis, percé des avenues, transforme les clairières en pelouses. La fameuse mare d'Auteuil, dont Paul de Kock parle comme d'un site reculé et sauvage, semble à cette heure être la voisine aristocratique du bassin des Tuileries.
+
+Mais le coin de prédilection du romancier, la banlieue où il ramène toujours ses héros, c'est Romainville. On est là aux portes de Paris, on peut faire cette promenade à pied, en suivant la grande rue de Belleville. Aller à Romainville autrefois était pourtant une plus grosse affaire que d'aller aujourd'hui à Mantes ou à Fontainebleau. Et quels changements encore de ce côté ! Paul de Kock parle avec attendrissement d'une véritable forêt de lilas. La forêt a été rasée, pour laisser passer Paris, qui avance toujours ; on ne trouve plus qu'une vaste plaine nue, où de laides constructions ont poussé, le long des routes. C'est le faubourg, avec son travail et sa misère.
+
+À ce propos, il est à remarquer que la vogue change à peu près tous les cinquante ans, pour les lieux de réjouissances champêtres. Que de chansons on a rimées sur Romainville, aujourd'hui si désert et si muet ! Robinson, un groupe de guinguettes, a remplacé Romainville, dans les commencements du second Empire. Et, à cette heure, Robinson lui-même pâlit, la mode va sauter ailleurs. Je citerai aussi Asnières et Bougival, dont il n'est jamais question dans Paul de Kock, et qui sont si encombrés de nos jours.
+
+Après Paul de Kock, toute une bande de peintres est venue, et ce sont réellement eux qui ont découvert la banlieue parisienne. Cette découverte se rattache à l'histoire de notre école naturaliste de paysage. Lorsque Français, Corot, Daubigny abandonnèrent la formule classique, pour peindre sur nature, ils partirent bravement, le sac au dos et le bâton à la main, en quête de nouveaux horizons. Et ils n'eurent pas à aller loin, ils tombèrent tout de suite sur des pays délicieux.
+
+Ce fut Français et quelques-uns de ses amis qui découvrirent Meudon. Personne encore ne s'était douté du charme des rives de la Seine. Plus tard, Daubigny explora le fleuve tout entier, depuis Meudon jusqu'à Mantes ; et que de trouvailles, le long du chemin : Chatou, Bougival, Maisons-Laffitte, Conflans, Andrésy ! Les Parisiens ignoraient même alors les noms de ces villages. Quinze ans plus tard, une telle cohue s'y pressait, que les peintres devaient fuir. C'est ainsi que Daubigny, chassé de la Seine, remonta l'Oise et s'établit à Auvers, entre Pontoise et l'Île-Adam. Corot s'était contenté de Ville-d'Avray, où il avait des étangs et de grands arbres.
+
+Ainsi, la banlieue parisienne se révélait davantage à chaque Salon de peinture. Il y avait là non seulement, une évolution artistique, mais encore une protestation contre les gens qui allaient chercher très loin de beaux horizons, lorsqu'ils en avaient de ravissants sous la main. Et quel étonnement dans le public ! Comment ! Aux portes de Paris, on trouvait de si aimables paysages ! Personne ne les avait vus jusque-là, on se lança de plus en plus dans ce nouveau monde, et à chaque pas ce furent des surprises heureuses. La grande banlieue était conquise.

@@ -1,0 +1,3947 @@
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+
+]{.calibre20}
+
+## [[Première partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942900 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_73 .calibre21}
+
+### [[Chapitre 1 -- L\'affaire de la Central Bank]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942901 .pcalibre2 .pcalibre1} {#chapitre-1-laffaire-de-la-central-bank .calibre171 .sigil_not_in_toc}
+
+Assurément, l\'audacieux cambriolage qui a tant occupé la presse sous le nom de l\'affaire de la Central Bank et qui a eu, quinze jours durant, l\'honneur de ses manchettes, n\'est pas effacé de toutes les mémoires, malgré les années écoulées. Peu de crimes, en effet, ont excité la curiosité publique autant que celui-ci, car il en est peu qui aient réuni au même degré l\'attrait du mystère et l\'ampleur du forfait, et dont l\'accomplissement ait exigé une aussi incroyable audace, une aussi farouche énergie.
+
+On en lira donc peut-être avec intérêt le récit incomplet encore, mais scrupuleusement véridique. Si ce récit n\'éclaire pas absolument tous les points restés dans l\'ombre jusqu\'ici, il apportera du moins quelques précisions nouvelles, et redressera ou coordonnera les informations parfois contradictoires données à l\'époque par les journaux.
+
+Le vol, on le sait, a eu pour théâtre l\'Agence DK de la Central Bank, située près de la Bourse de Londres, au coin de Threadneedle Street et de Old Broad Street, et dirigée alors par Mr Lewis Robert Buxton, fils du lord de ce nom.
+
+Cette agence comporte essentiellement une vaste pièce, divisée en deux fractions inégales par un long comptoir de chêne, qui se développe parallèlement aux deux rues, lesquelles se coupent à angle droit. On y accède, au croisement de ces deux rues, par une porte vitrée, en pan coupé, précédée d\'une sorte de tambour de plain-pied avec le trottoir. En entrant, on aperçoit à gauche, derrière un grillage à fortes mailles, la caisse, qui communique par une porte également grillagée avec le bureau proprement dit, où se tiennent les employés. À droite le comptoir de chêne est interrompu à son extrémité par un battant mobile, permettant au besoin d\'aller de la partie destinée au public dans celle qui est réservée aux employés, ou vice versa.
+
+Au fond de cette dernière, s\'ouvre d\'abord, près du comptoir, le cabinet du chef de l\'agence, lequel cabinet commande un réduit sans autre issue, puis, en suivant la muraille perpendiculaire à Threadneedle Street, un couloir donnant accès au vestibule commun à tout l\'immeuble auquel appartient le local.
+
+D\'un côté, ce vestibule passe devant la loge du concierge et conduit à Threadneedle Street. De l\'autre, après avoir desservi le grand escalier, il aboutit à une porte vitrée à deux battants, qui dissimule à la vue du dehors l\'entrée des caves et l\'escalier de service, qui fait face à celle-ci.
+
+Tels sont les lieux où se sont déroulées les principales péripéties du drame. Au moment où il commence, c\'est-à-dire à cinq heures moins vingt exactement, les cinq employés de l\'agence s\'occupent de leurs travaux habituels. Deux d\'entre eux sont plongés dans leurs écritures. Les trois autres répondent à autant de clients accoudés sur le comptoir. Quant au caissier, il fait, sous la protection de son grillage, le compte des espèces, qui, en ce jour de liquidation, atteignent le total imposant de soixante-douze mille soixante-dix-neuf livres, deux shillings et quatre pence, soit un million huit cent seize mille trois cent quatre-vingt-treize francs quatre-vingts centimes.
+
+Ainsi qu\'il a été dit, l\'horloge de l\'agence marque cinq heures moins vingt. Dans vingt minutes, par conséquent, on fermera ; la devanture en fer sera baissée, puis, un peu plus tard, les employés se disperseront, leur journée de travail finie. Le sourd grondement des voitures et le bruit de la foule parviennent du dehors à travers les glaces de la vitrine, obscurcies par le crépuscule de ce dernier jour de novembre.
+
+C\'est à ce moment que la porte s\'ouvrit et qu\'un homme entra.
+
+Le nouveau venu, après avoir jeté un coup d\'oeil rapide dans le bureau, se retourna à demi et fit au-dehors, à l\'adresse, sans doute, d\'un compagnon resté sur le trottoir, un geste de la main droite, dont le pouce, l\'indicateur et le médius redressés mimaient d\'une manière claire le nombre 3. Leur attention eût-elle été éveillée, les employés n\'auraient pu voir ce geste que leur cachait la porte entrouverte, et l\'eussent-ils vu, qu\'ils n\'auraient évidemment songé à établir aucune corrélation entre le nombre des personnes alors accoudées sur le comptoir et celui des doigts qui étaient ainsi montrés comme un signal.
+
+Son signal donné, si c\'en était un, l\'homme acheva d\'ouvrir la porte, la referma après s\'être introduit dans le bureau, et alla prendre rang derrière l\'un des clients précédents, indiquant ainsi son intention d\'attendre, pour faire connaître ses désirs, que ce client eût terminé et se fût retiré.
+
+Un des deux employés libres se leva, et, se dirigeant vers lui, demanda : -- Vous désirez, monsieur ?
+
+--- Merci, monsieur, j\'attendrai, répondit le nouveau venu, en accompagnant sa réponse d\'un mouvement de la main, destiné à faire entendre qu\'il voulait précisément avoir affaire à l\'employé à proximité duquel il s\'était arrêté.
+
+Celui qui avait obligeamment interpellé se rassit sans insister et reprit son travail, la conscience apaisée par cette tentative de zèle, et satisfait en somme qu\'elle eût ce résultat négatif. L\'homme attendit donc, sans que personne fît plus attention à lui.
+
+La singularité de son aspect eût justifié cependant plus sérieux examen. C\'était un gaillard de haute taille, qui à en juger par sa carrure, devait être d\'une force peu commune. Une magnifique barbe blonde encadrait son visage au teint bronzé. Quant à son rang social, on ne pouvait le présumer d\'après sa mise ; un long cache-poussière en soie grège le recouvrant jusqu\'aux pieds.
+
+Le client derrière lequel il était placé ayant terminé ce qu\'il avait à faire, l\'homme au cache-poussière lui succéda et entretint, à son tour, le représentant de la Central Bank des opérations qu\'il désirait entreprendre. Pendant ce temps, la personne qu\'il avait remplacée ouvrait la porte extérieure et sortait de l\'agence.
+
+Cette porte se rouvrit immédiatement et livra passage à un deuxième personnage aussi singulier que le premier dont il semblait être, en quelque sorte, la copie. Même stature, même carrure, même barbe blonde entourant un visage sensiblement cuivré, même long cache-poussière de soie grège dissimulant les vêtements de son propriétaire.
+
+Pour ce dernier personnage, il en fut comme pour son sosie. Comme celui-ci, il attendit patiemment derrière l\'une des deux personnes encore accoudées au comptoir, puis son tour venu, il engagea conversation avec l\'employé devenu libre, tandis que le client gagnait la rue.
+
+De même que précédemment, la porte se rouvrit aussitôt. Un troisième individu fit son entrée et alla prendra rang à la suite du seul des trois clients primitifs qui restât. De taille médiocre, tout en largeur et trapu, son visage coloré encore assombri par une barbe noire, ses vêtements recouverts d\'un long pardessus gris, celui-ci offrait à la fois des différences et des analogies avec ceux qui, avant lui, s\'étaient livrés à semblable manège.
+
+Enfin, lorsque la dernière des trois personnes qui se trouvaient précédemment dans l\'agence eût terminé ses affaires et céda la place, ce fut à deux hommes que la porte aussitôt rouverte livra passage en même temps.
+
+Ces deux hommes, dont l\'un semblait doué d\'une vigueur herculéenne, étaient vêtus l\'un et l\'autre de ces longs paletots-sacs communément désignés sous le nom d\'ulsters, que la rigueur de la saison ne justifiait pas encore, et, de même que pour les trois premiers, une barbe abondante garnissait leurs visages assez montés de ton.
+
+Ils s\'introduisirent d\'une manière bizarre : le plus grand entra d\'abord, puis à peine entré, s\'arrêta dans une position telle qu\'il masquait son compagnon, lequel, pendant ce temps, feignant de s\'être accroché à la serrure, faisait subir à celle-ci un mystérieux travail. La halte, au surplus, ne dura qu\'un instant, et la porte fut bientôt refermée. Mais, à ce moment, si elle avait toujours sa poignée à l\'intérieur, ce qui permettait de sortir, la poignée de l\'extérieur avait disparu. Du dehors, par conséquent, nul ne pouvait plus entrer dans le bureau. Quant à frapper à la vitre pour se faire ouvrir, personne n\'aurait eu garde de le tenter, un avis collé sur la porte, à l\'insu des intéressés, annonçant au public que l\'agence était irrévocablement fermée pour ce jour-là.
+
+Les employés n\'avaient aucun soupçon qu\'on les eût ainsi isolés du reste du monde. L\'eussent-ils su, d\'ailleurs, ils n\'auraient fait qu\'en rire. Comment se seraient-ils inquiétés, en pleine ville, au moment le plus actif de la journée, alors qu\'arrivait jusqu\'à eux l\'écho de la vie intense de la rue, dont seule une mince pellicule de verre les séparait ?
+
+Les deux derniers employés s\'avancèrent à la rencontre des nouveaux venus d\'un air aimable, car ils avaient constaté que l\'horloge marquait près de cinq heures. Par conséquent, brève serait la visite de ces gêneurs, qu\'il allait être légitime d\'expulser dans moins de cinq minutes.
+
+L\'un des tardifs clients agréa les services qui lui étaient offerts, tandis que l\'autre, le plus grand, les déclinait et demandait à parler au directeur.
+
+--- Je vais voir s\'il est là, lui fut-il répondu.
+
+L\'employé ne disparut par la porte ménagée au fond de la partie du bureau interdite au public que pour revenir aussitôt.
+
+--- Si vous voulez prendre la peine d\'entrer ? Proposa-t-il, en ouvrant le petit battant articulé à l\'extrémité du comptoir.
+
+L\'homme à l\'ulster obéit à l\'invitation et pénétra dans le cabinet du directeur, tandis que l\'employé, en ayant refermé la porte derrière lui, retournait à son travail.
+
+Que se passa-t-il entre le chef de l\'agence et son visiteur ? Le personnel déclara par la suite n\'en rien savoir, ne pas même se l\'être demandé, et cela doit être tenu pour exact. L\'instruction en fut ultérieurement réduite aux hypothèses sur ce point, et à l\'heure actuelle on est encore dans l\'ignorance de la scène qui se déroula alors derrière la porte close.
+
+Une chose certaine, à tout le moins, c\'est qu\'il ne s\'était pas écoulé deux minutes depuis sa fermeture, quand cette porte se rouvrit, et quand l\'homme à l\'ulster reparut sur le seuil.
+
+D\'une manière impersonnelle et sans s\'adresser plus particulièrement à aucun des employés :
+
+--- S\'il vous plaît\... Dit-il d\'un ton parfaitement calme, M. le directeur voudrait parler au caissier.
+
+--- Bien, monsieur, répondit celui des employés qui n\'était pas occupé. Se détournant, il appela :
+
+--- Store !
+
+--- Mr Barclay ?
+
+--- Le chef vous demande.
+
+--- On y va, répondit le caissier.
+
+Avec la ponctualité inhérente aux gens de sa profession, il jeta une serviette et trois sacs, contenant, en billets et numéraire, l\'encaisse du jour, dans le coffre-fort béant, dont la lourde porte battit avec un bruit sourd, puis ayant baissé son guichet, il sortit de sa cabine grillagée, qu\'il ferma soigneusement derrière lui, et se dirigea vers le bureau du chef, devant lequel attendait l\'étranger, qui s\'effaça et entra sur ses talons.
+
+En pénétrant dans le bureau, Store eut la surprise de constater que celui qu\'on prétendait l\'appeler ne s\'y trouvait pas et que la pièce était vide. Mais le temps lui manqua pour éclaircir ce mystère. Attaqué par-derrière, la gorge prise dans une poigne d\'acier, il essaya vainement de se débattre, de crier\... Les mains meurtrières resserrèrent leur étreinte, jusqu\'au moment où, perdant le souffle, il s\'écroula, évanoui, sur le tapis.
+
+Aucun bruit n\'avait révélé cette lutte farouche. Dans la grande salle, les employés continuaient tranquillement leur travail, quatre formant autant de groupes avec les clients dont ils étaient séparés par le comptoir, le cinquième absorbé dans des calculs intéressant son service.
+
+L\'homme à l\'ulster prit le loisir de s\'essuyer le front où perlait un peu de sueur, puis il se pencha sur sa victime. En un tour de main, le caissier fut bâillonné et ligoté.
+
+Cette besogne terminée, il entrouvrit doucement la porte et jeta un coup d\'oeil dans la grande salle. L\'examen l\'ayant satisfait, il toussa légèrement, comme s\'il eût voulu attirer l\'attention des quatre singuliers clients qui s\'y attardaient alors, puis, ce but atteint, il ouvrit d\'une seule poussée, toute grande, la porte qui le dissimulait.
+
+Ce fut le signal -- convenu d\'avance, sans nul doute -- d\'une scène littéralement fantastique.
+
+Tandis que l\'homme à l\'ulster traversait d\'un bond toute la salle et, tombant comme la foudre sur le calculateur solitaire, l\'étranglait impitoyablement, les quatre collègues de celui-ci subissaient un sort pareil.
+
+Le client le plus près de l\'extrémité du comptoir franchit la porte battante ménagée en cet endroit et terrassa, en le prenant à revers, l\'employé qui lui faisait face. Des trois autres clients, deux allongèrent les bras en travers du comptoir, et leurs mains se nouèrent au cou de leurs interlocuteurs respectifs, qu\'ils « sonnèrent » férocement sur l\'appui de chêne. Quant au dernier, le plus petit de taille, ne pouvant appréhender son vis-à-vis dont une trop grande distance le séparait, il bondit par-dessus le comptoir et saisit son adversaire à la gorge avec une violence que son élan décuplait.
+
+Pas un cri n\'avait été poussé. Le drame n\'avait pas duré trente secondes. Quand leurs victimes eurent perdu connaissance, les étrangleurs achevèrent de les mettre hors de combat. Le plan avait été minutieusement étudié. Rien ne clocha. Il n\'y eut aucune hésitation. De toutes les poches sortirent à la fois les accessoires nécessaires. Ensemble, dussent les patients périr par l\'asphyxie, les bouches furent bourrées d\'ouate et bâillonnées. Ensemble, les mains furent ramenées en arrière et ligotées, les pieds étroitement liés, les corps raidis dans la multiple étreinte d\'une fine cordelette d\'acier.
+
+Le travail de tous fut terminé au même instant. D\'un seul mouvement, les cinq assaillants se redressèrent.
+
+--- Le rideau ! Ordonna celui qui avait demandé à voir le directeur de l\'agence et qui semblait commander aux autres.
+
+Trois des bandits coururent actionner les manivelles de la devanture en fer. Les lames de tôle commencèrent à descendre, atténuant progressivement les bruits venant de l\'extérieur.
+
+L\'opération était à demi effectuée, quand la sonnerie du téléphone retentit tout à coup.
+
+--- Stop ! fit le chef de la bande.
+
+Le rideau s\'étant arrêté dans sa course descendante, il s\'approcha de l\'appareil et décrocha le récepteur. La conversation suivante s\'engagea, dont la moitié seulement parvenait aux quatre étrangleurs maintenant inactifs.
+
+--- Allô !
+
+--- J\'écoute.
+
+--- C\'est vous, Buxton ?
+
+--- Oui.
+
+--- C\'est drôle. Je ne reconnais pas votre voix.
+
+--- Il y a de la friture.
+
+--- Pas chez nous.
+
+--- Il y en a ici. Moi non plus je ne reconnais pas votre voix.
+
+--- Mr Lasone.
+
+--- Ah ! Très bien ! Très bien ! Je reconnais maintenant.
+
+--- Dites donc, Buxton, la voiture est-elle passée ?
+
+--- Pas encore, assura le bandit après une courte hésitation.
+
+--- Quand elle viendra, dites-lui de retourner à l\'agence S. On me téléphone à l\'instant qu\'on vient d\'y recevoir un versement important après la fermeture et le départ des fonds.
+
+--- La somme est forte ?
+
+--- Assez. Dans les vingt mille livres.
+
+--- Fichtre !
+
+--- Vous ferez la commission ? Je peux compter sur vous ?
+
+--- Comptez sur moi.
+
+--- Bonsoir, Buxton.
+
+--- Bonsoir.
+
+L\'étranger raccrocha le récepteur et, un instant, demeura immobile, pensif. Soudain, il prit son parti et, rassemblant ses complices autour de lui :
+
+--- Il s\'agit de s\'activer, camarades, leur dit-il à voix basse, en commençant à se déshabiller fébrilement. Ouste ! Qu\'on me donne la pelure de cet homme-là !
+
+Du doigt, il désignait Store, toujours privé de sentiments.
+
+En un clin d\'oeil, celui-ci fut dépouillé de ses vêtements, que son agresseur endossa, bien que ces vêtements fussent un peu petits pour sa taille. Ayant trouvé dans une des poches les clés de la caisse, il ouvrit ensuite la cabine, puis le coffre-fort, dont furent extraits les sacs de numéraire, la serviette aux billets et les liasses de titres.
+
+Il achevait à peine, quand on entendit une voiture qui s\'arrêtait au bord du trottoir. Presque aussitôt, on frappa aux vitres de la porte à demi recouverte par la devanture métallique.
+
+--- Attention ! dit rapidement le chef de cette bande d\'étrangleurs, en commentant ses paroles de gestes expressifs. Bas les manteaux, montrez vos vestons, à vos places, et du coup d\'oeil ! Qu\'on ne rate pas le premier qui entrera ! Et sans bruit\... Après, porte close, et qu\'on n\'ouvre qu\'à moi !
+
+Chargé de la serviette et de plusieurs paquets de titres, il s\'était, tout en parlant, rapproché de la porte, tandis que trois de ses complices s\'asseyaient, sur un signe de lui, à la place des employés, poussés d\'un coup de pied sous le comptoir, et que le quatrième se postait près de l\'entrée. Il ouvrit cette porte d\'une main ferme. Le vacarme de la rue parut grandir subitement.
+
+Une voiture de livraison s\'était en effet arrêtée devant l\'agence.
+
+Dans la nuit, on voyait briller ses lanternes. Le cocher, resté sur son siège, causait avec un homme debout au bord du trottoir. C\'était cet homme, un encaisseur de la Central Bank, qui avait frappé à la porte quelques instants plus tôt.
+
+Sans se presser, évitant les passants dont le torrent coulait sans interruption, l\'audacieux bandit traversa le trottoir et s\'approcha de la voiture.
+
+--- Salut ! dit-il.
+
+--- Salut ! répondirent les deux hommes.
+
+Le cocher, ayant regardé celui qui l\'interpellait, parut étonné.
+
+--- Tiens ! Ce n\'est pas Store ! s\'écria-t-il.
+
+--- C\'est son jour de congé. Je le remplace, expliqua le pseudo-caissier. Puis, s\'adressant à l\'encaisseur debout auprès de lui.
+
+--- Eh ! Un coup de main, l\'ami ?
+
+--- Pour quoi faire ?
+
+--- Pour un de nos sacs. On a reçu beaucoup d\'argent aujourd\'hui. Ça pèse.
+
+--- C\'est que\... Dit l\'encaisseur en hésitant, il m\'est défendu de quitter la voiture.
+
+--- Bah ! Pour une minute ! D\'ailleurs, je te remplace. Un des employés t\'aidera pendant que je déposerai la serviette et les titres.
+
+L\'encaisseur s\'éloigna sans insister davantage et franchit la porte, qui se referma derrière lui.
+
+--- À nous camarade, disait pendant ce temps au cocher le remplaçant de Store. Ouvre ta voiture.
+
+--- Allons-y ! Acquiesça le cocher.
+
+La caisse de la voiture n\'ayant aucune issue en arrière ni sur les côtés, la seule ouverture consistait en une petite porte à deux battants de tôle, ménagée derrière la banquette du conducteur.
+
+De cette manière, les risques de vol étaient réduits au minimum.
+
+Pour pénétrer dans la voiture, il fallait donc nécessairement faire basculer la banquette, dont une moitié avait été rendue mobile dans ce but. Mais, comme il s\'agissait seulement de placer quelques paquets dans un des casiers garnissant les côtés du véhicule, le cocher jugea superflu de se livrer à ce travail et se contenta de repousser les portes.
+
+--- Passe la serviette, dit-il.
+
+Ayant reçu ce qu\'il demandait, le cocher, à demi couché en travers de la banquette, disparut jusqu\'à mi-corps dans l\'intérieur de la voiture, ses jambes faisant contrepoids à l\'extérieur. Dans cette position, il ne put voir son soi-disant collègue monter sur le marchepied, puis de là sur le siège, et se placer de manière à le séparer de ses guides. Par-dessus le cocher étendu, le faux caissier, comme s\'il eût été curieux de voir ce que contenait la caisse de la voiture, y introduisit à son tour le haut du corps, et son bras, tout à coup, se détendit violemment dans l\'ombre.
+
+Si quelqu\'un des nombreux passants qui circulaient avait eu l\'idée de regarder de près à ce moment, il aurait vu les jambes du cocher se raidir d\'une manière aussi subite du siège, tandis que le buste fléchissait de l\'autre côté de la banquette.
+
+Rapidement, l\'homme saisit alors par la ceinture ce corps inerte, et l\'envoya au milieu des sacs et des paquets déposés dans la voiture.
+
+Cette série d\'actes, exécutés avec une précision et une audace merveilleuses, n\'avait demandé que quelques instants. Les passants continuaient à circuler paisiblement, sans aucun soupçon des événements anormaux qui se succédaient si près d\'eux, en pleine foule.
+
+L\'homme se pencha plus encore dans la voiture, de manière à ne pas être aveuglé par les lumières de la rue, et regarda dans la caisse.
+
+Sur le plancher, au milieu d\'une flaque de sang qui grandissait à vue d\'oeil, le cocher gisait, un couteau fiché à la base du crâne, dans cet épanouissement de la moelle qui a reçu les divers noms de bulbe, de cervelet, de noeud vital. Il ne bougeait plus. La mort avait été foudroyante. Le meurtrier, craignant que le sang ne finît par traverser le parquet et par couler sur le sol, enjamba la banquette, s\'introduisit tout entier dans la voiture et dépouilla le mort de sa vareuse. Il s\'en servit pour tamponner la terrible blessure, puis, ayant retiré le couteau de la plaie et l\'ayant soigneusement essuyé, ainsi que ses mains rouges, il referma les portes de tôle, sûr que le sang, s\'il continuait à couler, serait absorbé par la laine comme par une éponge.
+
+Cette précaution prise, il descendit de la voiture, traversa le trottoir et frappa d\'une manière particulière à la porte de l\'agence, qui fut aussitôt ouverte, puis refermée.
+
+--- L\'homme ? interrogea-t-il, en entrant.
+
+On lui montra le comptoir.
+
+--- Avec les autres. Ficelé.
+
+--- Bon ! Ses vêtements ! Vite !
+
+Pendant qu\'on se hâtait d\'obéir, il retirait le costume du caissier Store et le remplaçait par celui de l\'encaisseur.
+
+--- Deux hommes resteront ici, commanda-t-il, tout en procédant à cette transformation. Les autres avec moi pour déménager la « bagnole ».
+
+Sans attendre la réponse, il rouvrit la porte, sortit, suivi de ses deux acolytes, remonta sur le siège et s\'introduisit dans la caisse de la voiture, dont le pillage commença.
+
+L\'un après l\'autre, il donnait les paquets à ses complices, qui les transportaient dans l\'agence.
+
+La porte de celle-ci, demeurée grande ouverte, découpait un carré brillant sur le trottoir. Les passants, venant de l\'obscurité relative de la rue pour y retourner aussitôt, traversaient sans y prendre garde cette zone plus lumineuse. Rien ne les eût empêchés d\'entrer. Mais cette idée ne venait à personne, et la foule s\'écoulait indifférente à une manutention qui ne la regardait pas et que rien ne l\'autorisait à suspecter.
+
+En cinq minutes la voiture fut vide. Porte close, on procéda au tri. Les valeurs, actions ou obligations, furent mises d\'un côté ; les espèces de l\'autre. Les premières, impitoyablement rejetées, allèrent joncher le parquet. Des billets de banque, on fit cinq parts, et chacun en prit une, dont il se matelassa la poitrine.
+
+--- Et les sacs ? demanda l\'un des bandits.
+
+--- Bourrez vos poches, répondit le chef. Ce qui restera, dans la voiture. Je m\'en charge.
+
+On lui obéissait déjà.
+
+--- Minute ! s\'écria-t-il. Convenons de tout auparavant. Quand je serai parti, vous rentrerez ici et vous finirez de baisser la devanture. Ensuite, expliqua-t-il, en montrant le couloir ouvrant dans le fond de la pièce, vous sortirez par là. Le dernier fermera à double tour et jettera la clé à l\'égout. Au bout, c\'est le vestibule et vous connaissez les aîtres.
+
+Du doigt, il montra le cabinet du directeur.
+
+--- N\'oubliez pas le bonhomme. Vous savez ce qui est convenu ? -- Oui, oui, lui répondit-on. Sois tranquille.
+
+Au moment de partir, il s\'arrêta encore.
+
+--- Diable ! Fit-il. Je ne pensais plus au principal\... Il doit bien y avoir ici une liste des autres Agences.
+
+On lui montra, collé à l\'intérieur de la vitrine, une affiche jaune qui donnait ce renseignement. Il la parcourut des yeux.
+
+--- Quant aux manteaux, dit-il, lorsqu\'il eut découvert l\'adresse de l\'agence S, jetez-les dans un coin. Qu\'on les trouve. L\'essentiel est qu\'on ne les voie pas sur notre dos. Rendez-vous où vous savez\... En route !
+
+Le surplus des sacs d\'or et d\'argent fut transporté dans la voiture. -- C\'est tout ? interrogea l\'un des porteurs.
+
+Son chef réfléchit, puis, frappé d\'une idée soudaine :
+
+--- Fichtre non ! Et mes frusques !
+
+L\'autre partit en courant, pour revenir aussitôt, apportant les vêtements que ceux du caissier Store avait tout d\'abord remplacés, et qu\'il jeta à la volée dans la caisse de la voiture.
+
+--- Cette fois, c\'est bien tout ? demanda-t-il de nouveau.
+
+--- Oui. Et ne traînez pas ! lui fut-il répondu.
+
+Il disparut dans l\'agence. La devanture de fer acheva de descendre.
+
+Pendant ce temps, le cocher improvisé saisissait les guides et réveillait les chevaux d\'un coup de fouet. La voiture s\'ébranla, remonta Old Broad Street, tourna dans Throgmorton Street, suivit Lothburg Street, puis Gresham Street, tourna dans Aldergate Street et s\'arrêta enfin devant l\'agence S, au n° 29 de cette dernière rue.
+
+Le faux cocher y entra hardiment et se dirigea vers la caisse.
+
+--- Il paraît que vous avez un pli à me donner ? dit-il.
+
+Le caissier releva les yeux sur celui qui l\'interpellait.
+
+--- Non, ma foi ! Reconnut l\'encaisseur avec un gros rire.
+
+--- Je ne comprends pas que le siège, maugréait cependant le caissier d\'un air mécontent, envoie comme ça des gens qu\'on ne connaît pas\...
+
+--- C\'est parce que je ne fais pas le quartier d\'habitude. C\'est à l\'agence B qu\'on m\'a dit de passer ici, d\'après un coup de téléphone du siège. Paraît que vous avez eu un fort versement après la fermeture.
+
+Il avait trouvé sur-le-champ cette réponse plausible, la liste des agences de la Central Bank étant encore toute fraîche dans sa mémoire.
+
+--- Oui\... Reconnut le caissier, malgré tout soupçonneux\... C\'est égal, ça m\'ennuie de ne pas vous connaître.
+
+--- Qu\'est-ce que ça peut vous faire, répliqua l\'autre étonné.
+
+--- Il y a tant de voleurs ! Mais, au fait, il y a moyen de tout arranger. Vous avez votre commission sur vous, je suppose ?
+
+Si quelque chose était de nature à troubler le bandit, c\'était bien une pareille question. Comment aurait-il eu sa « commission » ? Il ne comprenait même pas ce que le mot signifiait. Il ne se troubla pas cependant. Quand on risque de telles aventures, il faut avoir des qualités spéciales, et, par-dessus toutes les autres, un absolu sang-froid. Cette qualité, le faux encaisseur de la Central Bank la possédait au suprême degré. Si donc il fut ému en entendant la question qu\'on lui posait à l\'improviste, il n\'en laissa rien paraître, et répondit du ton le plus naturel :
+
+--- Parbleu ! Ça va sans dire.
+
+Il s\'était tenu ce raisonnement bien simple que cette « commission », puisqu\'on admettait comme probable qu\'il l\'eût sur lui, consistait forcément en quelque objet matériel, dont les employés de la Central Bank avaient coutume d\'être toujours porteurs.
+
+En fouillant la vareuse de l\'encaisseur auquel il s\'était substitué, il trouverait donc, sans doute, cette fameuse « commission ».
+
+--- Je vais voir, ajouta-t-il d\'une voix calme, en s\'asseyant sur un banc et en se mettant en devoir de vider ses poches.
+
+Il en sortit de nombreuses paperasses, lettres, notes de service, ou autres, toutes fortement frangées et froissées, comme il arrive de celles qu\'on a longtemps traînées avec soi. Simulant la maladresse des ouvriers, quand leurs gros doigts, plus habiles aux rudes travaux, sont dans le cas de manipuler des papiers, il dépliait les pièces l\'une après l\'autre.
+
+Dès la troisième, il découvrit un document imprimé, avec des blancs remplis à la main, aux termes duquel le nommé Baudruc était commissionné à titre d\'encaisseur de la Central Bank. C\'était évidemment ce qu\'il cherchait, et pourtant la difficulté restait la même. Le nom écrit sur le document constituait peut-être, en effet, le plus grand de tous les dangers, ce Baudruc étant bien connu du caissier de l\'agence S, qui s\'était étonné de ne pas avoir affaire à lui.
+
+Sans rien perdre de son sang-froid, l\'audacieux bandit imagina sur-le-champ l\'expédient nécessaire. Profitant d\'un moment d\'inattention du caissier, il déchira en deux morceaux la pièce officielle, dont la moitié inférieure resta dans sa main droite.
+
+--- Pas de veine ! s\'écria-t-il du ton d\'un homme vexé, aussitôt que cette opération eut été menée à bonne fin. Je l\'ai bien, ma commission, mais la moitié, pas plus.
+
+--- La moitié ? répéta le caissier.
+
+--- Oui, elle était vieille et tout usée, à force de traîner dans ma poche.
+
+Elle se sera coupée en deux et j\'en ai laissé bêtement une moitié chez moi. -- Hum ! fit le caissier.
+
+L\'encaisseur parut froissé.
+
+--- Et puis en voilà assez, déclara-t-il en se dirigeant vers la porte. On m\'a dit de venir chercher votre galette ; je viens. Vous ne voulez pas me la donner ? Gardez-la. Vous vous débrouillerez avec le siège. Moi, je m\'en moque.
+
+L\'indifférence qu\'il témoignait fit plus pour son succès que les meilleurs arguments et plus encore la phrase menaçante qu\'il avait décochée, telle une flèche de Parthe, en s\'éloignant. Pas d\'histoires ! C\'est le but éternel de tous les employés de la terre.
+
+--- Minute ! s\'écria le caissier en le rappelant. Montrez-la moi, votre « commission ».
+
+--- La voilà ! répondit l\'encaisseur, qui présenta la moitié de ce document où n\'était inscrit aucun nom.
+
+--- Il y a la signature du chef, constata le caissier avec satisfaction. Puis, se décidant enfin :
+
+--- Voici l\'argent, annonça-t-il, en présentant un paquet scellé. Si vous voulez me signer mon reçu ?
+
+L\'encaisseur, ayant mis un nom quelconque sur la feuille qui lui était présentée, s\'éloigna d\'un air mécontent.
+
+--- Salut ! dit-il, d\'une voix bourrue, en homme irrité de la suspicion dont il venait d\'être l\'objet.
+
+Aussitôt dehors, il pressa le pas vers la voiture, monta sur le siège et disparut dans la nuit.
+
+Ainsi fut accompli ce vol qui eut un si grand retentissement.
+
+Comme on le sait, il fut découvert le soir même, plus tôt, à coup sûr, que ne l\'avaient supposé ses auteurs.
+
+L\'agence verrouillée à double tour, son personnel réduit à l\'impuissance, le cocher de la voiture supprimé, ils pouvaient légitimement croire qu\'on ne s\'apercevrait de rien avant le lendemain matin. À ce moment, le garçon de bureau, en venant procéder au balayage quotidien, donnerait nécessairement l\'éveil, mais il y avait de grandes chances pour que l\'aventure demeurât secrète jusque-là.
+
+Les choses se passèrent tout autrement dans la réalité.
+
+À cinq heures et demie, Mr Lasone, ce contrôleur des agences qui avait téléphoné une première fois, vers cinq heures, pour aviser du passage de la voiture de récolement, inquiet de ne pas voir arriver celle-ci, téléphona de nouveau à l\'agence DK. Il ne reçut pas de réponse, les voleurs, qui terminaient alors le partage du butin, ayant décroché simplement le récepteur, afin d\'arrêter la sonnerie, dont la persistance aurait pu éveiller l\'attention du voisinage. Sur le moment, le contrôleur n\'insista pas et se contenta d\'incriminer les employés du téléphone.
+
+Cependant, le temps s\'écoulant et la voiture n\'arrivant toujours pas, il fit une seconde tentative. Celle-ci restant aussi vaine que la première, et le bureau du téléphone lui affirmant que l\'agence DK ne répondait pas, le contrôleur envoya un garçon du siège voir pourquoi elle était ainsi muette. Avant six heures et demie, ce garçon était de retour. On sut par lui que l\'agence était fermée et paraissait déserte.
+
+
+Il l\'attendait encore à sept heures et quart, quand une grave nouvelle lui parvint.
+
+La voiture avait été trouvée derrière Hyde Park dans une rue peu fréquentée de Kensington, Holland Street, par un employé du siège central qui, sa journée faite, regagnait son domicile. Cet employé, intrigué par le stationnement tardif d\'une voiture de la Central Bank dans cette rue relativement obscure et déserte, était monté sur le siège, avait poussé les portes de tôle qui n\'étaient pas fermées, et, à la lueur d\'une allumette, il avait découvert le corps déjà froid du cocher. Il était alors revenu en courant au siège central, afin de donner l\'alarme.
+
+Aussitôt, le téléphone joua dans toutes les directions. Avant huit heures, une escouade de police entourait la voiture abandonnée, tandis que la foule s\'amassait devant l\'agence DK, dont une autre escouade faisait ouvrir les portes par un serrurier requis à cet effet.
+
+Le lecteur sait déjà ce qu\'on devait y trouver.
+
+L\'enquête commença sur-le-champ. Par bonheur, aucun des employés de l\'agence n\'était mort, bien qu\'à vrai dire ils n\'en valussent guère mieux.
+
+Aux trois quarts étouffés par les bâillons, la bouche emplie d\'ouate et de chiffon qu\'on y avait enfoncés avec violence, ils gisaient évanouis, quand du secours leur arriva, et nul doute qu\'ils ne fussent passés de vie à trépas s\'ils étaient restés dans cette situation jusqu\'au matin.
+
+Lorsque, après une heure de soins, ils eurent repris conscience, ils ne purent donner que des renseignements fort vagues. Cinq hommes barbus, les uns recouverts de longs cache-poussière, les autres de ces pardessus de voyage vulgairement dénommés ulsters, les avaient assaillis et terrassés. Ils n\'en savaient pas plus.
+
+Il n\'y avait pas à mettre leur sincérité en doute.
+
+Dès le début de l\'enquête, on avait trouvé, en effet, les cinq manteaux bien en évidence, comme si les malfaiteurs avaient tenu à laisser une trace de leur passage. Au surplus, ces vêtements, examinés avec attention par les plus fins limiers de Scotland Yard, ne révélèrent rien touchant ceux qui les avaient abandonnés. Faits d\'étoffes banales ou de magasin, ce qui expliquait qu\'on les eût laissés sur les lieux du crime.
+
+Tout cela n\'apprenait pas grand-chose, et pourtant le magistrat enquêteur dut renoncer à en savoir davantage. Vainement il retourna les témoins dans tous les sens. Ils ne varièrent pas, et il fut impossible d\'en rien tirer de plus. Le dernier témoin entendu fut le concierge de l\'immeuble. La devanture étant baissée, les malfaiteurs étaient forcément sortis par le vestibule commun à toute la maison. Le concierge avait donc dû les voir.
+
+Celui-ci ne put que confesser son ignorance. Les appartements dont il avait la surveillance étaient trop nombreux pour qu\'elle fût réellement efficace. Ce jour-là, il n\'avait rien remarqué d\'anormal. Si les voleurs étaient passés devant lui, ainsi qu\'on devait le supposer en effet, il les avait pris pour les employés de l\'agence.
+
+Poussé dans ses derniers retranchements, invité à fouiller dans sa mémoire, il cita les noms de quatre locataires qui avaient traversé le vestibule à peu près à l\'heure du crime, ou peu de temps après. Vérification faite séance tenante, ces quatre locataires, d\'une honorabilité parfaite, étaient rentrés tout simplement pour dîner.
+
+Le concierge parla aussi d\'un garçon charbonnier qui s\'était présenté, porteur d\'un sac volumineux, vers sept heures et demie, un peu avant l\'intervention de la police, et qu\'il avait remarqué uniquement pour cette raison qu\'il n\'est pas d\'usage de livrer du charbon à une pareille heure.
+
+Ce garçon charbonnier avait demandé un locataire du cinquième, et avec une telle insistance que le concierge avait autorisé la livraison et avait indiqué l\'escalier de service.
+
+Le garçon charbonnier était donc monté, mais pour redescendre un quart d\'heure plus tard, toujours chargé de son sac. Interpellé par le concierge, il avait dit alors s\'être trompé d\'adresse. Tout en parlant d\'une voix haletante, en homme qui vient de gravir cinq étages avec un lourd fardeau sur les épaules, il avait gagné la rue, puis ayant déposé son sac dans une voiture à bras en station au bord du trottoir, il était parti sans se presser.
+
+--- Savez-vous, demanda le magistrat enquêteur, à quelle maison appartient ce garçon ?
+
+Le concierge répondit qu\'il l\'ignorait.
+
+Le magistrat, réservant ce point pour une vérification ultérieure, interrogea le locataire du cinquième. Il lui fut confirmé qu\'un homme, se disant chargé d\'effectuer une livraison de charbon, avait, en effet, sonné à la porte de service vers sept heures et demie. La bonne, qui lui avait ouvert, l\'ayant assuré qu\'il se trompait, il était reparti sans insister. Une différence existait, toutefois, entre les diverses dépositions relatives à cet incident, la bonne du cinquième soutenant, contrairement au dire du concierge, que l\'homme n\'était porteur d\'aucun sac.
+
+--- Il l\'aura laissé en bas pour monter, expliqua le magistrat.
+
+Toutefois, il apparut que cette explication n\'était pas suffisante, quand on découvrit, dans le couloir commun des caves, la valeur d\'un sac d\'anthracite, que le concierge affirmait ne pas s\'y trouver quelques heures plus tôt.
+
+De toute évidence, le mystérieux garçon charbonnier avait vidé en cet endroit le sac qu\'il apportait. Mais alors, qu\'avait-il emporté, puisque -- le concierge se montrait tout aussi affirmatif sur ce point -- le sac paraissait n\'être, au départ, ni moins plein, ni moins lourd qu\'à l\'arrivée ?
+
+--- Ne nous occupons pas de cela pour l\'instant, conclut le magistrat, renonçant à résoudre l\'insoluble problème. Ce point sera tiré au clair demain.
+
+Pour le moment, il avait à suivre une piste qu\'il estimait plus sérieuse, et il entendait ne pas s\'en écarter.
+
+En effet, tout le personnel de l\'agence n\'avait pas été retrouvé. Le personnage le plus important, le directeur, manquait à l\'appel. Mr Lewis Robert Buxton avait disparu.
+
+Les employés ne purent fournir aucune indication à cet égard. Tout ce qu\'ils savaient, c\'est que, un peu avant cinq heures, un client, introduit auprès du directeur, avait, quelques minutes plus tard, appelé le caissier Store, que celui-ci s\'était rendu à cet appel et n\'avait pas reparu. C\'est quelques instants après que l\'agression s\'était produite. Quant à Mr Buxton, nul ne l\'avait revu.
+
+La conclusion s\'imposait. S\'il était hors de doute que l\'agence eût été prise d\'assaut par cinq bandits plus ou moins déguisés ou maquillés, il ne l\'était pas moins que ces bandits eussent un complice dans la place et que ce complice ne fût autre que son chef.
+
+C\'est pourquoi, sans attendre les résultats d\'une enquête plus approfondie, mandat d\'amener fut immédiatement lancé contre Lewis Robert Buxton, chef de l\'agence DK de la Central Bank, inculpé de vol et de complicité de meurtre, et c\'est pourquoi son signalement, que l\'on connaissait bien, si on ignorait celui de ses complices, fut télégraphié dans toutes les directions.
+
+Le coupable n\'ayant pas encore quitté l\'Angleterre, il allait être appréhendé, soit dans une ville de l\'intérieur, soit à un port d\'embarquement, succès rapide dont la police pourrait s\'enorgueillir à juste titre.
+
+Sur cette agréable perspective, magistrat et détectives gagnèrent leurs lits respectifs.
+
+Or, cette même nuit, à deux heures du matin, cinq hommes, les uns complètement glabres, une forte moustache barrant le visage cuivré des autres, descendaient à Southampton de l\'express de Londres, isolément, comme ils y étaient montés. Après avoir pris livraison de plusieurs colis, et notamment d\'une grande malle très lourde, ils se firent conduire en voiture au bassin à flot, où attendait à quai un steamer de deux mille tonneaux environ, dont la cheminée vomissait une épaisse fumée.
+
+À la marée de quatre heures, c\'est-à-dire à un moment où tout dormait à Southampton et où le crime d\'Old Broad Street y était encore inconnu, ce steamer se déhala du bassin, sortit des jetées et prit la mer.
+
+Nul ne tenta de s\'opposer à son départ. Et pourquoi, en vérité, aurait-on suspecté cet honnête bâtiment, chargé ouvertement de marchandises, disparates mais honorables, à destination de Cotonou, port du Dahomey ? Le steamer s\'éloigna donc paisiblement, avec ses marchandises, ses cinq passagers, leurs colis et leur grande malle, que l\'un d\'eux, le plus grand, avait fait déposer dans sa cabine, tandis que la police, interrompant son enquête, cherchait dans le sommeil un repos bien gagné.
+
+Cette enquête, elle fut reprise le lendemain et les jours suivants, mais, ainsi que chacun le sait, elle ne devait pas aboutir.
+
+Les jours s\'ajoutèrent aux jours, les cinq malfaiteurs demeurèrent inconnus, Lewis Robert Buxton demeura introuvable. Aucune lueur ne vint éclairer l\'impénétrable mystère. On ne parvint même pas à découvrir à quelle maison appartenait le garçon charbonnier qui avait attiré un moment l\'attention de la police. De guerre lasse, l\'affaire fut classée.
+
+La solution de l\'énigme, la suite de ce récit la donnera, pour la première fois, entière et complète. Il appartiendra au lecteur de dire si on pourrait en imaginer de plus inattendue et de plus étrange.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- Un voyage d\'étude]{lang="X-NONE"}]{#_Toc342942902 .pcalibre2 .pcalibre1} {#chapitre-2-un-voyage-détude .calibre171 .sigil_not_in_toc}
+
+Conakry, chef-lieu de la Guinée française et résidence du lieutenant-gouverneur, est aujourd\'hui une ville très agréable, dont les rues, intelligemment tracées d\'après les plans du gouverneur Ballay, se coupent à l\'angle droit et sont, en général, désignées par un simple numéro d\'ordre, à la mode américaine. Bâtie sur l\'île de Tombo, elle est séparée du continent par un étroit chenal, que franchit un pont, sur lequel passent cavaliers, piétons, véhicules, et aussi le chemin de fer qui aboutit près du Niger, à Kouroussa. C\'est la station la plus salubre du littoral. Aussi les représentants de la race blanche y sont-ils nombreux, particulièrement les Français et les Anglais, ces derniers plus spécialement groupés dans le faubourg de Newtown.
+
+Mais, à l\'époque des événements qui forment le sujet de ce récit, Conakry n\'avait pas encore atteint ce degré de prospérité et n\'était guère qu\'une grosse bourgade.
+
+En cette journée du 27 novembre, cette bourgade était en fête. Obéissant à l\'invitation que le gouverneur, M. Henry Valdonne, lui avait faite par voie d\'affiches, la population se portait vers la mer, disposée à recevoir chaleureusement, ainsi qu\'on l\'en priait, les voyageurs notables qui allaient incessamment débarquer du Touat, un paquebot de la Compagnie Frayssinet.
+
+Les personnages qui mettaient ainsi en rumeur la ville de Conakry étaient d\'importance, en effet. Au nombre de sept, ils formaient le haut personnel de la commission extraparlementaire chargée par l\'administration centrale d\'effectuer un voyage d\'étude dans la région du Soudan connue sous le nom de « boucle du Niger ». À vrai dire, ce n\'était pas tout à fait de plein gré que le président du Conseil, M. Granchamp, et M. Chazelle, ministre des Colonies, avaient réuni cette mission et décrété ce voyage d\'étude.
+
+Ils y avaient été contraints, en quelque sorte, par la pression de la Chambre et par la nécessité de clore une joute oratoire qui confinait à l\'obstruction. Quelques mois auparavant, à propos d\'un débat relatif à la région africaine que la mission extraparlementaire avait mandat d\'explorer, la Chambre s\'était partagée en deux fractions numériquement égales, que menaient au combat deux irréductibles leaders.
+
+L\'un de ses leaders s\'appelait Barsac ; l\'autre avait nom Baudrières.
+
+Le premier, bien en chair, voire un tantinet bedonnant, portait en éventail une opulente barbe noire. C\'était un Méridional de la Provence, au verbe sonore, doué, sinon d\'éloquence, du moins d\'une certaine faconde, un joyeux et sympathique garçon au demeurant. Le second représentait un département du Nord, et, si l\'on autorise cette expression audacieuse, il le représentait en longueur. Sec de corps et de visage, une mince moustache tombante accentuant ses lèvres minces, anguleux et dogmatique, il faisait partie de la race des tristes. Autant son collègue s\'épanouissait généreusement, autant il vivait replié sur lui-même, se livrant le moins possible, l\'âme verrouillée comme le coffre-fort d\'un avare.
+
+Tous deux députés de vieille date, ils s\'étaient spécialisés dans les questions coloniales, et on s\'accordait à les regarder comme des autorités en la matière. Cependant -- cette réflexion s\'impose -- il était réellement merveilleux que leurs patientes études les eussent conduits à des conclusions si opposées. Le certain, c\'est qu\'ils étaient rarement d\'accord.
+
+Lorsque Barsac traitait une question quelconque, il y avait dix à parier contre un que Baudrières allait demander la parole pour dire juste le contraire, si bien que, leurs discours s\'annulant, la Chambre en était généralement réduite à voter dans le sens indiqué par le Ministère.
+
+Mais, cette fois, Barsac et Baudrières n\'avaient pas voulu céder d\'un pouce, et la discussion s\'était éternisée. Elle avait commencé au sujet d\'un projet de loi déposé par le premier, projet tendant à créer cinq sièges de députés dans la Sénégambie, la Haute-Guinée et la partie du Soudan français située à l\'ouest du Niger, et à accorder l\'électorat, voire l\'éligibilité, aux gens de couleur, sans distinction de race. Aussitôt, ainsi qu\'il en avait coutume, Baudrières s\'était vigoureusement élevé contre la thèse de Barsac, et les deux irréconciliables adversaires s\'étaient jeté à la tête toute une mitraille d\'arguments.
+
+L\'un, citant à l\'appui de son opinion celle d\'un grand nombre de militaires et de civils qui avaient parcouru ces régions ou y avaient trafiqué, représenta les nègres comme parvenus à un degré de civilisation fort avancée. Il ajouta que c\'était peu d\'avoir supprimé l\'esclavage si on ne donnait pas aux populations conquises les mêmes droits qu\'à leurs conquérants, et il prononça à ce propos, dans une série de péroraisons que la Chambre applaudit bruyamment, les grands mots de liberté, d\'égalité et de fraternité.
+
+L\'autre affirma, par contre, que les nègres croupissaient encore dans la plus honteuse barbarie et qu\'il ne pouvait être question de les consulter, pas plus qu\'on ne consulte un enfant malade sur le remède qu\'il convient de lui appliquer.
+
+Il ajouta qu\'en tout cas le moment n\'était pas propice à une expérience aussi dangereuse et qu\'il convenait plutôt de renforcer les troupes d\'occupation, des signes inquiétants autorisant à redouter des troubles prochains dans ces contrées. Il invoqua un aussi grand nombre d\'opinions militaires et civiles que son contradicteur, conclut en préconisant une nouvelle intervention armée et déclara avec une énergie patriotique que le patrimoine conquis par le sang français était sacré et devait demeurer intangible. Lui aussi fut applaudi frénétiquement.
+
+Le ministre des Colonies fut très embarrassé pour départager ces orateurs passionnés. Il y avait du vrai dans les deux thèses. S\'il était exact que les populations noires habitant la boucle du Niger et la Sénégambie parussent commencer à s\'accommoder de la domination française, que l\'instruction fît quelques progrès parmi ces peuplades jadis si profondément ignorantes, et que la sécurité y fût en voie de rapide amélioration, il ne l\'était pas moins qu\'actuellement la situation tendait à se modifier dans un sens défavorable. On avait reçu la nouvelle de troubles et de razzias ; des villages entiers, on ignorait pour quelles raisons, avaient été abandonnés par leurs habitants, et enfin il convenait d\'enregistrer, sans rien exagérer cependant, des bruits assez mystérieux et confus qui couraient la brousse, aux abords du Niger, et dont le sens général était qu\'une puissance indépendante fût en train de se former en un point encore inconnu du sol africain.
+
+Chacun des deux précédents orateurs pouvant à la rigueur trouver des arguments favorables à sa cause dans le discours ministériel, ils triomphèrent tous deux également, et la discussion se poursuivit, jusqu\'au moment où un député, excédé, s\'écria au milieu du bruit :
+
+--- Puisqu\'on ne peut pas s\'entendre, qu\'on aille y voir !
+
+M. Chazelle répondit que ces contrées avaient été si souvent explorées que la nécessité de les découvrir une fois de plus ne s\'imposait pas, mais qu\'il était prêt, néanmoins, à se conformer aux vues de la Chambre, si celle-ci estimait qu\'un voyage d\'étude eût quelque utilité, et qu\'il serait heureux de l\'associer, dans ce cas, à une telle entreprise, en plaçant l\'expédition sous la direction de celui de ses membres qu\'elle voudrait bien désigner.
+
+La proposition eut beaucoup de succès. On vota séance tenante, et le Ministère fut invité à constituer une mission qui parcourrait la région comprise dans la boucle du Niger et qui rédigerait un rapport sur le vu duquel la Chambre statuerait ultérieurement.
+
+On se mit moins facilement d\'accord quand il s\'agit de nommer le député qui serait le chef de cette mission et, par deux fois, Barsac et Baudrières recueillirent un nombre de suffrages mathématiquement égal.
+
+Il fallait cependant en finir.
+
+--- Parbleu ! Qu\'on les nomme tous les deux ! s\'écria un de ces plaisants qui ne manquent jamais dans une assemblée française.
+
+Cette idée ayant été accueillie avec enthousiasme par la Chambre, qui, sans doute, y voyait un moyen de ne plus entendre parler des colonies pendant quelques mois, Barsac et Baudrières furent élus, l\'âge devant décider lequel des deux aurait le pas sur l\'autre. Vérification faite, ce privilège échut à Barsac, qui se trouva être l\'aîné de trois jours. Baudrières dut donc se résigner à n\'être que son coadjuteur, ce dont il fut extrêmement mortifié.
+
+À ce rudiment de mission, le gouvernement avait adjoint par la suite quelques personnalités, moins décoratives assurément, mais peut-être mieux qualifiées, si bien qu\'à son arrivée à Conakry elle comportait sept membres au total, y compris Barsac et Baudrières déjà nommés.
+
+Parmi les autres, on remarquait le docteur Châtonnay, un grand médecin et un médecin grand, car il était fort savant et il élevait à plus de cinq pieds huit pouces son joyeux visage, que couronnait une chevelure frisée aussi blanche que la neige, bien qu\'il n\'eût pas tout à fait cinquante ans, et que barrait une moustache en broussaille de même couleur. C\'était un excellent homme que ce docteur Châtonnay, sensible et gai, et riant à tout propos avec un bruit de vapeur qui fuse.
+
+On remarquait encore à la rigueur M. Isidore Tassin, correspondant de laSociété de géographie, un petit homme sec et tranchant, passionnément et exclusivement géographe.
+
+Quant aux derniers membres de la mission, MM. Poncin, Quirieu et Heyrieux, tous trois fonctionnaires de divers ministères, on ne les remarquait pas. Sans particularité notable, c\'étaient des gens comme tout le monde.
+
+Autour de ce noyau officiel gravitait, très officieusement, un huitième voyageur. Celui-ci, un blond à l\'air énergique et décidé, avait nom Amédée Florence, et son métier consistait à renseigner de son mieux le grand journal quotidien *L\'Expansion française*, dont il était le reporter actif et débrouillard.
+
+Tels furent les personnages qui débarquèrent, ce jour-là, 27 novembre, du paquebot le Touat, de la Compagnie Frayssinet.
+
+L\'événement devait nécessairement provoquer des discours. Pour peu que l\'on fasse partie du personnel administratif ou gouvernemental, on ne se contente plus, lorsqu\'on se rencontre, de se serrer la main et de se dire bonjour, et on considère comme indispensable d\'échanger des paroles historiques, tandis qu\'un auditoire, toujours amusé, malgré l\'accoutumance, par le comique spécial de cette formalité, se range en cercle autour des orateurs.
+
+C\'est en vertu de ce protocole que, sur le lieu même du débarquement, M. Valdonne, escorté de ses principaux fonctionnaires, qu\'il eut soin de présenter, souhaita solennellement la bienvenue aux visiteurs de marque qui lui arrivaient, sinon du ciel, du moins des lointains de l\'océan. D\'ailleurs, rendons-lui cette justice, il fut bref, et sa courte harangue obtint un succès mérité.
+
+Barsac, qui lui répondit, en sa qualité de chef de la mission, prit ensuite la parole en ces termes :
+
+--- Monsieur le gouverneur, messieurs, prononça-t-il avec l\'accent de la reconnaissance -- et du Midi ! -- après avoir toussé pour s\'éclaircir la voix, mes collègues et moi nous sommes profondément touchés des paroles que nous venons d\'entendre. La cordialité de votre accueil est pour nous de favorable augure, au moment où commence réellement une entreprise dont nous ne nous exagérons pas, au surplus, les difficultés. Nous savons que, sous la généreuse administration de la métropole, ces contrées, jadis explorées au milieu de tant de périls par les hardis pionniers de la patrie, connaissent enfin la paix française, si vous voulez bien autoriser cette expression pompeuse empruntée à nos ancêtres les Romains. C\'est pourquoi, ici, au seuil de cette belle ville de Conakry, entourés des rangs pressés de nos compatriotes, nous avons la sensation de n\'avoir pas quitté la France, et c\'est pourquoi, en nous enfonçant dans l\'intérieur, nous ne la quitterons pas davantage, car les laborieuses populations de ces contrées sont désormais formées des citoyens d\'une France agrandie et prolongée. Puisse-t-elle augmenter encore, s\'il est possible, leur attachement à la patrie, leur dévouement à la République.
+
+M. Le gouverneur Valdonne donna, comme il est d\'usage, le signal des applaudissements « spontanés », tandis que Barsac faisait, en arrière, un pas que Baudrières faisait aussitôt en avant.
+
+À la suite d\'interminables conciliabules dans le cabinet du ministre, on avait décidé que Baudrières serait non pas le sous-chef, mais le chef adjoint de l\'expédition. Or -- mystérieuse puissance des mots ! -- il en résultait, paraît-il, que si Barsac prenait la parole dans une cérémonie officielle, Baudrières la prendrait immédiatement après lui. Ainsi avait été résolu l\'épineux problème des amours-propres.
+
+--- Monsieur le gouverneur, messieurs, commença Baudrières, coupant court, de cette manière, aux applaudissements dont on avait salué la péroraison de son prédécesseur, je m\'associe pleinement aux éloquentes paroles de mon éminent collègue et ami. Ainsi qu\'il l\'a dit excellemment, chacun de nous se rend un compte exact des difficultés et des dangers que peut offrir notre exploration. Ces difficultés, nous les vaincrons de notre mieux. Quant aux dangers, ils ne sauraient nous émouvoir, puisque, entre eux et nous, des baïonnettes françaises seront interposées. Qu\'il me soit donc permis d\'envoyer, dès notre premier pas sur la terre d\'Afrique, un salut cordial à l\'escorte qui éloignera de nous jusqu\'à la possibilité d\'un péril. Et, ne vous y trompez pas, messieurs, en saluant cette escorte restreinte, c\'est à l\'armée -- car n\'est-elle pas tout entière, en vérité, dans l\'humble troupier qui passe ? -- c\'est à l\'armée, dis-je, que j\'adresse mon salut. C\'est donc l\'armée, si chère à tous les coeurs français, qui s\'associera à nos travaux, et c\'est par elle que s\'accroîtront dans cette entreprise obscure, comme l\'ont fait si souvent les aventures glorieuses dont elle est coutumière, le prestige de la patrie et la grandeur de la République !
+
+De nouveau, les applaudissements éclatèrent, exactement aussi nourris et aussi « spontanés » que les premiers, puis on se mit en route pour la Résidence, où les principaux membres de la mission allaient être hébergés pendant les trois jours qui seraient consacrés à régler les derniers détails du programme de l\'exploration.
+
+Le programme était vaste. La région intéressée par le projet de loi de Barsac dépasse un million cinq cent mille kilomètres carrés. C\'est à peu près trois fois la superficie de la France. S\'il ne pouvait être question de visiter tous les points de cette immense étendue, du moins avait-on tracé un itinéraire assez capricieux pour que l\'impression recueillie finalement par les explorateurs eût quelque chance d\'être conforme à la vérité. Cet itinéraire se développait sur plus de deux mille cinq cents kilomètres pour certains membres de la mission, et sur près de trois mille cinq cents pour les autres.
+
+L\'expédition devait, en effet, se dédoubler en cours de route, de manière à étendre le plus possible le champ de l\'enquête. Au départ de Conakry, on irait d\'abord jusqu\'à Kankan, en passant par Ouossou, Timbo, centre important du Fouta-Djalon méridional, et Kouroussa, station établie sur le Niger, à peu de distance de la source.
+
+De Kankan, on traversait, par Foroba, Forabokourou et Tiola, le Ouassoulou et le Kénédougou, jusqu\'à Sikasso, chef-lieu de ce dernier pays.
+
+C\'est à Sikasso, à mille cent kilomètres de la mer, que l\'expédition se diviserait en deux parties. L\'une, sous la direction de Baudrières, redescendrait vers le sud, se dirigerait vers le pays de Kong et gagnerait sa capitale par Sitardougou, Niambouambo et diverses agglomérations plus ou moins importantes. De Kong, elle rayonnerait dans le Baoulé, pour gagner finalement, à Grand-Bassam, la côte de l\'Ivoire. Avec Barsac, l\'autre partie continuerait, au contraire, dans l\'Est, passerait par Ouagadougou, et atteindrait le Niger à Saye, puis, marchant parallèlement au fleuve, elle traversait le Mossi, et enfin, par le Gourma et le Borgou, elle aboutirait à Cotonou, son point terminus, sur la côte du Dahomey.
+
+En tenant compte des détours et des retards inévitables, on devait s\'attendre à ce que le voyage durât au moins huit mois pour la première, et dix à douze mois pour la seconde. Partis ensemble, le 1er décembre, de Conakry, ce ne serait pas avant le 1er août que Baudrières arriverait à Grand-Bassam, et avant le 1er octobre que Barsac atteindrait Cotonou.
+
+Il s\'agissait donc d\'un long voyage. Et pourtant M. Isidore Tassin ne pouvait guère se flatter qu\'il lui permît d\'établir quelque importante vérité géographique ignorée jusqu\'à lui. À vrai dire même, la présence d\'un correspondant de la Société de Géographie s\'expliquait mal, l\'espoir de découvrir la boucle du Niger étant aussi peu réalisable que celui de découvrir l\'Amérique. Mais M. Tassin n\'était pas gourmand. Le globe ayant été sillonné en tous sens, il estimait qu\'on devait savoir se contenter de peu.
+
+Sagement pensait-il en limitant ainsi ses ambitions. Depuis longtemps, la boucle du Niger avait cessé d\'être la contrée inaccessible et mystérieuse qu\'elle fut pendant tant d\'années. Depuis le docteur allemand Barth, qui, le premier, la traversa, en 1853 et 1854, une foule de braves l\'ont graduellement conquise. C\'est, en 1887, le lieutenant de vaisseau Caron et l\'exploration magnifique à tous égards du capitaine Binger ; en 1889, le lieutenant de vaisseau Jaime ; en 1890, le docteur Crozat ; en 1891, le capitaine Monteil ; en 1893 et 1894, les morts glorieuses du lieutenant Aube et du colonel Bonnier, et la prise de Tombouctou par le lieutenant Boiteux, bientôt rejoint par le commandant Joffre. En cette même année 1894 et en 1895, c\'est le capitaine Toutée et le lieutenant Targe ; en 1896, le lieutenant de vaisseau Hourst, et tant d\'autres, pour aboutir à la campagne au cours de laquelle, en 1898, le colonel Audéoud s\'empara de Kong et acheva d\'abattre la puissance de Samory.
+
+Dès lors, le Soudan occidental cesse de mériter l\'épithète de sauvage ; l\'administration succède à la conquête, les postes se multiplient, assurant d\'une manière de plus en plus solide la bienfaisante domination française. Au moment où la mission extraparlementaire allait pénétrer à son tour dans ces régions, la pacification n\'était pas encore complète, mais déjà la sécurité était plus grande, et il y avait tout lieu d\'espérer que le voyage s\'accomplirait, sinon sans incident, du moins sans accident, et que tout se réduirait à une promenade parmi des populations paisibles, que Barsac estimait mûres pour goûter les joies de la politique électorale.
+
+Le départ était fixé au 1er décembre.
+
+La veille du départ, le 30 novembre, un dîner officiel allait réunir une dernière fois les membres de la mission à la table du gouverneur. C\'est à la suite de ce dîner que les toasts seraient échangés, ainsi qu\'il est d\'usage, avec l\'accompagnement obligatoire de l\'hymne national, et que l\'on formulerait les ultimes voeux pour le succès de l\'expédition et pour la gloire de la République.
+
+Ce jour-là, Barsac, las d\'avoir déambulé dans Conakry sous un soleil de feu, venait de regagner sa chambre. Il s\'y éventait avec béatitude, en attendant que vînt l\'heure d\'endosser l\'habit noir, dont aucune température ne saurait dispenser un personnage officiel dans l\'exercice de son emploi, quand le planton de service -- un rengagé de la coloniale, qui « la connaissait dans les coins » -- vint le prévenir que deux personnes demandaient à être reçus.
+
+--- Qui est-ce ? interrogea Barsac.
+
+Le planton fit un geste d\'ignorance.
+
+--- Un type et sa dame, dit-il simplement.
+
+--- Des colons ?
+
+--- C\'est pas mon idée, vu leur dégaine, répondit le planton.
+
+L\'homme est un grand, avec macache gazon sur le caillou\...
+
+--- Le caillou ?
+
+--- Il est chauve, quoi ! Avec des favoris filasse et des yeux en boule d\'escalier.
+
+--- Vous avez des images ! fit Barsac. Et la femme ?
+
+--- La femme ?
+
+--- Oui. Comment est-elle ? Jeune ?
+
+--- Assez.
+
+--- Jolie ?
+
+--- Oui, et nippée !
+
+Barsac se frisa machinalement la moustache et dit :
+
+--- Faites entrer.
+
+Tout en donnant cet ordre, il envoya, sans même y penser, un coup d\'oeil à la glace qui reflétait sa corpulente image. S\'il n\'avait eu l\'esprit ailleurs, il aurait pu alors constater que la pendule marquait six heures. En raison de la différence des longitudes, c\'est précisément à cet instant que commençait l\'attaque de l\'agence DK de la Central Bank qui forma la matière du premier chapitre de ce récit.
+
+Les visiteurs, un homme d\'une quarantaine d\'années suivi d\'une jeune fille de vingt à vingt-cinq ans, furent introduits dans la pièce où Barsac goûtait les charmes du farniente, avant d\'aller affronter les fatigues d\'un dîner officiel.
+
+L\'homme était très grand, en effet. Une paire de jambes interminables supportait un buste relativement exigu, qui s\'achevait en un cou long et osseux, lequel servait de piédestal à une tête modelée en hauteur. Si les yeux n\'étaient pas en boule d\'escalier, ainsi que l\'avait avancé le planton abusant des images outrancières, on ne pouvait contester qu\'ils ne fussent saillants, ni que le nez ne fût gros, ni que les lèvres ne fussent épaisses et glabres, un impitoyable rasoir en ayant supprimé les moustaches.
+
+Par contre, de courts favoris, du modèle de ceux qu\'il est classique d\'attribuer aux Autrichiens, et une couronne de cheveux bouclés entourant la base du crâne merveilleusement nu et poli, permettaient d\'affirmer que le planton manquait de précision dans le choix de ses qualificatifs. Filasse, avait-il dit. Le mot n\'était pas exact. En bonne justice, le personnage était roux.
+
+Ce portrait dispenserait, au besoin, de dire qu\'il était laid, s\'il ne convenait d\'accoler à sa laideur l\'épithète de sympathique. Ses grosses lèvres exprimaient, en effet, la franchise, et dans ses yeux luisait cette malicieuse bonté que nos pères désignaient sous le nom charmant de bonhomie.
+
+À sa suite, venait la jeune fille. Il faut reconnaître que le planton, en la décrétant jolie, n\'avait, cette fois, nullement exagéré. Grande, mince, la taille élégante, la bouche fraîche et bien meublée, le nez fin et droit, les yeux grands et surmontés de sourcils admirablement dessinés, une abondante chevelure d\'un noir d\'encre, tous les traits d\'une régularité impeccable, c\'était une parfaite beauté.
+
+Barsac ayant offert un siège à ses visiteurs, ce fut l\'homme, comme de raison, qui prit la parole.
+
+--- Vous nous pardonnerez, monsieur le député, de venir ainsi vous importuner, et, dans l\'impossibilité où je suis de faire autrement, vous nous excuserez de vous dire nous-mêmes qui nous sommes. Je m\'appelle -- vous me permettez d\'ajouter, suivant mon habitude : j\'ai le regret de m\'appeler, car ce nom est ridicule, Agénor de Saint-Bérain, propriétaire, célibataire et citoyen de la ville de Rennes.
+
+Ayant ainsi débité son état civil, Agénor de Saint-Bérain fit une légère pause, puis, s\'aidant du geste, présenta :
+
+--- Mlle Jane Mornas, ma tante.
+
+--- Votre tante\... Répéta Barsac.
+
+--- Oui, Mlle Mornas est bien ma tante, autant qu\'on peut l\'être de quelqu\'un, affirma Agénor de Saint-Bérain, tandis qu\'un gai sourire entrouvrait les lèvres de la jeune fille.
+
+Ce fut comme un coup de soleil. Son beau visage, dont l\'expression trop sérieuse était peut-être le seul défaut, en parut illuminé.
+
+--- M. De Saint-Bérain, expliqua-t-elle avec un léger accent anglais, tient essentiellement à son titre de neveu, et ne laisse passer aucune occasion de proclamer notre degré réel de parenté\...
+
+--- Ça me rajeunit, interrompit le neveu.
+
+--- Mais, continua Jane Mornas, une fois l\'effet produit et son droit légal bien établi, il consent à renverser les rôles et à redevenir l\'oncle Agénor, ce que, par convention de famille, il a toujours été depuis ma naissance.
+
+--- Et ce qui est plus en rapport avec mon âge, expliqua l\'oncle-neveu. Mais passons, et, les présentations étant faites, permettez-moi, monsieur le député, d\'en arriver à ce qui nous amène, Mlle Mornas et moi. En bon oncle-neveu, je me suis laissé entraîner par elle jusqu\'à ces lointaines contrées. Notre intention n\'est pas de séjourner à Conakry, mais bien de nous aventurer dans l\'intérieur, en quête d\'émotions et de spectacles neufs. Nos préparatifs sont terminés, et nous étions sur le point de partir, quand nous avons appris qu\'une mission allait suivre, sous vos ordres, une route analogue à la nôtre. J\'ai fait alors observer à Mlle Mornas que, si tranquille que fût ce pays, il me paraissait préférable de nous joindre à cette mission, si l\'on voulait bien nous y accueillir.
+
+Nous venons donc vous demander l\'autorisation de faire route de conserve avec vous.
+
+--- En principe, répondit Barsac, je n\'y vois pas d\'inconvénient, mais je dois, vous le comprendrez, consulter mes collègues.
+
+--- C\'est trop naturel, approuva Saint-Bérain.
+
+--- Peut-être, suggéra Barsac, craindront-ils que la présence d\'une femme ne retarde notre marche et ne soit peu compatible avec l\'exécution du programme qui nous a été tracé\... Dans ce cas\...
+
+--- Qu\'ils perdent cette crainte ? protesta l\'oncle Agénor. Mlle Mornas est un vrai garçon. Elle vous demande elle-même de la traiter, non en compagne, mais en compagnon.
+
+--- Certes ! Approuva Jane Mornas. J\'ajouterai que, même au point de vue matériel, nous ne vous causerons aucune gêne. Nous possédons chevaux et porteurs. Rien ne nous manque, et nous avons jusqu\'à deux Bambaras, deux anciens tirailleurs sénégalais, que nous avons engagés en qualité de guides et d\'interprètes. Vous voyez que vous pouvez nous accueillir sans crainte.
+
+--- Dans ces conditions, en effet\... Reconnut Barsac. Enfin, j\'en parlerai ce soir même à mes collègues, et, s\'ils sont de mon avis, c\'est une affaire entendue. Où pourrai-je vous donner une réponse définitive ?
+
+--- Demain, au moment du départ, car de toute façon nous quitterons Conakry dès demain.
+
+Les choses étant ainsi convenues, les visiteurs prirent congé.
+
+Au dîner du gouverneur, Barsac transmit, en effet, à ses collègues la requête qu\'on lui avait présentée. Elle reçut un favorable accueil.
+
+Seul Baudrières crut devoir faire ses réserves. Non pas qu\'il se refusât positivement à agréer la demande de cette jolie compagne de route, dont Barsac prit la défense avec plus de chaleur peut-être qu\'il n\'était strictement nécessaire, mais enfin il manifesta une certaine hésitation. L\'incident lui paraissait louche. Était-il admissible qu\'une jeune fille s\'aventurât dans un pareil voyage ? Non, vraiment, le prétexte donné n\'était pas sérieux, et l\'on devait croire qu\'on en dissimulait le véritable but. Ceci posé, n\'était-on pas en droit de craindre que la requête ne cachât quelque piège ? Qui sait, même, si elle n\'avait aucune corrélation avec les bruits mystérieux dont le ministre s\'était fait discrètement l\'écho à la tribune de la Chambre ?
+
+On rassura Baudrières en riant.
+
+--- Je ne connais ni M. De Saint-Bérain, ni Mlle Mornas, déclara M. Valdonne, mais, depuis quinze jours qu\'ils sont à Conakry, je les avais remarqués.
+
+--- On remarquerait à moins ! s\'écria Barsac avec conviction.
+
+--- Oui, la jeune fille est fort belle, approuva M. Valdonne. Ils arrivent, m\'a-t-on assuré, de Saint-Louis du Sénégal, par le bateau qui dessert la côte, et, si singulier que cela paraisse, ils semblent bien faire un simple voyage d\'agrément, ainsi qu\'ils l\'ont dit à M. Barsac. Pour ma part, je ne pense pas qu\'il y ait le moindre inconvénient à leur donner satisfaction. L\'opinion du lieutenant-gouverneur prévalut sans autre opposition.
+
+C\'est ainsi que la mission dont Barsac était le chef s\'augmenta de deux recrues et fut portée au total de dix membres, y compris Amédée Florence, reporter de l\'Expansion française, mais non compris les porteurs et l\'élément militaire.
+
+C\'est ainsi que le hasard put, le lendemain matin, favoriser Pierre Marcenay, capitaine d\'infanterie coloniale et commandant de l\'escorte, en lui permettant de devancer Barsac, au moment où celui-ci se précipitait aussi vite que cela est possible à un quadragénaire légèrement ventripotent, en vue d\'aider Mlle Mornas à se mettre en selle.
+
+--- *Armis cedat insigne*, dit, en montrant du doigt la place de son écharpe absente, Barsac, qui avait fait ses humanités.
+
+Mais on voyait bien qu\'il n\'était pas content.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3 -- Lord Buxton Glenor]{lang="X-NONE"}]{#_Toc342942903 .pcalibre2 .pcalibre1} {#chapitre-3-lord-buxton-glenor .calibre171 .sigil_not_in_toc}
+
+Au moment où débute ce récit, il y avait bien des années que Lord Buxton ne sortait plus, il y avait bien des années que la porte du château de Glenor qu\'il habitait, au coeur de l\'Angleterre, près de la petite ville d\'Uttoxeter, ne s\'était plus ouverte devant aucun visiteur, que les fenêtres de ses appartements particuliers étaient demeurées obstinément fermées. La claustration de lord Buxton était complète, absolue, depuis le drame qui avait terni l\'honneur de sa famille, souillé son nom, brisé sa vie.
+
+Plus de soixante ans avant les événements qui viennent d\'être relatés, lord Buxton, frais émoulu de l\'École militaire, entrait dans la ronde humaine par la grande porte, car il tenait de ses aïeux fortune, honneur immaculé, et la gloire.
+
+L\'histoire des Buxton se confond, en effet, avec l\'histoire même de l\'Angleterre, au profit de laquelle coula si souvent leur sang généreux. À une époque où le mot de patrie n\'avait pas encore acquis la valeur qu\'une longue vie nationale lui a donnée, l\'idée en était déjà profondément gravée dans le coeur des hommes de cette famille qui, venue avec les conquérants normands, n\'avait jamais vécu que pour l\'épée, et par l\'épée mise au service de son pays. Au cours des siècles, pas une défaillance, n\'avait diminué l\'éclat de son nom, jamais une tache n\'avait éclaboussé son blason.
+
+Edward Alan Buxton était le digne descendant de cette lignée de preux. À l\'imitation de ses ancêtres, il n\'imaginait d\'autre but à la vie que le culte farouche de l\'honneur et l\'amour passionné de la patrie. Si l\'atavisme, l\'hérédité, de quelque nom que l\'on veuille désigner ce mystérieux phénomène qui fait les fils semblables aux pères, n\'avaient pas suffi à lui suggérer ces principes, l\'éducation les lui eût inculqués.
+
+L\'histoire anglaise, pleine de la gloire de ses ancêtres, lui eût nécessairement inspiré le désir de faire aussi bien, sinon mieux qu\'eux.
+
+À vingt-deux ans, il avait épousé une jeune fille appartenant à l\'une des meilleures familles d\'Angleterre, dont il eut une fille après un an de mariage. Ce fut une déception pour Edward Buxton, qui attendit impatiemment la naissance d\'un second enfant.
+
+Il l\'attendit pendant vingt ans. Ce fut seulement après ce long intervalle que lady Buxton, dont la santé avait été gravement altérée par sa première maternité, lui donna le fils tant désiré, qui reçut le prénom de George, tandis que, presque en même temps, sa fille, récemment mariée à un Français, M. De Saint-Bérain, mettait au monde un garçon qui fut appelé Agénor, lequel Agénor devait, quarante ans plus tard, se présenter au député Barsac de la manière que l\'on sait.
+
+Cinq ans s\'écoulèrent encore, et lord Glenor eut un second fils, Lewis Robert, que le destin devait, à trente-cinq ans de là, si fâcheusement mêler au drame de la Central Bank par lequel s\'est ouvert ce récit.
+
+Ce grand bonheur, avoir un second fils, c\'est-à-dire un second continuateur du nom, fut accompagné du plus affreux des malheurs. La naissance de ce fils coûta la vie à sa mère, et lord Buxton vit disparaître à jamais celle qui, pendant plus d\'un quart de siècle, avait été sa compagne.
+
+Frappé d\'une manière aussi rude, lord Buxton chancela sous le coup. Déprimé, découragé, il renonça à toute ambition, et, bien que relativement jeune encore, il quitta la marine où il servait depuis sa sortie de l\'école, et dont il était à la veille d\'atteindre les plus hauts grades.
+
+Longtemps, à la suite de ce grand malheur, il vécut replié sur lui-même, puis, le temps ayant adouci son immense douleur, il essaya, après neuf ans de solitude, de reconstituer son foyer détruit, en épousant la veuve d\'un de ses compagnons d\'armes, Marguerite Ferney, qui lui apportait en mariage, pour toute fortune, un fils, William, alors âgé de seize ans.
+
+Mais le sort avait décidé que lord Glenor vieillirait seul, et qu\'il arriverait seul au terme du voyage. Quelques années plus tard, il lui naissait un quatrième enfant, une fille qui reçut le nom de Jane, et il était veuf pour la seconde fois.
+
+Lord Glenor avait alors dépassé la soixantaine. À cet âge, il ne pouvait songer à refaire sa vie. Si cruellement, si opiniâtrement frappé dans ses plus chères affections, il se consacra exclusivement à son devoir de père. Si sa première fille, Mme de Saint-Bérain, avait depuis longtemps échappé à sa direction, il lui restait quatre enfants, dont le plus âgé avait à peine vingt ans, que les deux mortes lui avaient laissés, car, dans son coeur, il ne séparait pas William Ferney des deux garçons et de la fille de son sang.
+
+Mais la destinée n\'avait pas épuisé sa rigueur, et lord Glenor devait connaître encore des douleurs auprès desquelles celles qu\'il avait subies jusque-là lui paraîtraient bien légères.
+
+Les premières amertumes que lui réservait l\'avenir lui vinrent précisément de William Ferney, ce fils de la morte, qu\'il chérissait comme s\'il eût été le sien. Sournois, hargneux, hypocrite, le jeune homme ne répondit pas à la tendresse qu\'on lui témoignait et demeura isolé au milieu de cette famille qui lui ouvrait si largement sa maison et son coeur. Il resta insensible à toutes les preuves d\'affection qu\'on lui donna.
+
+Bien au contraire, plus on s\'intéressait à lui, plus il se retirait farouchement, plus on lui manifestait d\'amitié, plus il semblait haïr ceux qui l\'entouraient. L\'envie, une envie exaspérée, une envie furieuse, dévorait le coeur de William Ferney.
+
+Ce sentiment si méprisable, il l\'avait éprouvé le premier jour où il était entré avec sa mère dans le château de Glenor. La comparaison s\'était aussitôt imposée à son esprit du sort qui attendait les deux fils de celui-ci, et de son sort à lui, William Ferney. Dès lors, il conçut une haine violente pour George et pour Lewis, ces héritiers de lord Buxton, qui seraient riches un jour, tandis que resterait pauvre le descendant déshérité de Marguerite Ferney.
+
+Sa haine grandit encore, quand naquit Jane, sa demi-soeur par le sang, qui aurait part, elle aussi, un jour, à cette fortune dont il serait exclu, ou dont il ne recevrait, par charité, qu\'une infime partie. Elle fut portée au paroxysme lorsque sa mère mourut et que disparut ainsi le seul être qui eût chance de trouver le chemin de ce coeur ulcéré.
+
+Rien ne l\'apaisa, ni l\'amitié fraternelle des deux fils de lord Buxton, ni la paternelle sollicitude de celui-ci. De jour en jour, l\'envieux se retira davantage, se fit davantage une vie personnelle dont, seuls, des scandales successifs permirent de pénétrer le mystère. On apprit ainsi que William Ferney s\'était lié avec les jeunes gens les plus tarés et qu\'il avait choisi ses amis et ses compagnons de plaisir dans la partie la moins recommandable de la population de Londres.
+
+Le bruit de ses excès parvint aux oreilles de lord Buxton, qui s\'épuisa vainement en inutiles remontrances. Bientôt ce furent des dettes, qu\'il solda, tout d\'abord, en souvenir de la morte, mais auxquelles son devoir lui imposa bientôt de mettre un terme.
+
+Ainsi réduit à la portion congrue, William Ferney ne changea rien à son genre de vie.
+
+On se demandait comment il se procurait les ressources nécessaires, quand fut présentée au château de Glenor une traite d\'une valeur considérable et sur laquelle figurait la signature habilement imitée de lord Buxton.
+
+Celui-ci paya sans mot dire, mais, incapable de vivre en compagnie d\'un faussaire, il fit comparaître le coupable devant lui et le chassa de sa présence, en lui garantissant toutefois une large pension.
+
+William Ferney écouta du même air narquois les reproches et les conseils, puis sans répondre un mot, sans même toucher la première mensualité de sa pension, il quitta le château de Glenor et disparut.
+
+Ce qu\'il devint, lord Buxton l\'ignorait au moment où débute ce récit. Jamais plus il n\'avait entendu parler de lui, et peu à peu, au cours des années, ce souvenir pénible s\'était atténué.
+
+Fort heureusement, ses vrais enfants lui donnaient autant de satisfaction que l\'enfant étranger lui avait causé de soucis. En même temps que ce dernier partait pour ne plus revenir, l\'aîné, George, continuait la glorieuse tradition de sa famille, sortait le premier de l\'école d\'Ascott et s\'enrôlait dans l\'armée, en quête d\'aventures coloniales. Au grand regret de lord Buxton, son second fils, Lewis, montrait des goûts moins belliqueux, mais à tous autres égards, il demeurait digne de son affection. C\'était un garçon grave, méthodique, un de ces caractères sérieux sur lesquels on est en droit de compter.
+
+Pendant les années qui suivirent le départ de William, tandis que s\'effaçait par degrés le souvenir du transfuge, la vie des deux jeunes gens se développa suivant une courbe régulière et logique.
+
+Chez Lewis s\'affirmait la vocation des affaires. Il entrait à la Central Bank, y était hautement apprécié et gravissait les degrés hiérarchiques de cet établissement colossal, dont on pronostiquait en général qu\'il serait un jour le grand maître. Pendant ce temps, George, passant d\'une colonie à l\'autre, devenait une manière de héros et conquérait ses grades à la pointe de l\'épée.
+
+Lord Buxton pensait donc en avoir fini avec le sort contraire, et, parvenu à la vieillesse, il n\'y découvrait plus que d\'heureuses perspectives, quand un malheur, plus affreux qu\'aucun de ceux qui l\'avaient déjà frappé, vint tout à coup l\'accabler. Cette fois, ce n\'était pas au coeur seulement qu\'il était atteint, mais aussi dans l\'honneur, dans ce pur honneur des Glenor dont le nom allait être à jamais flétri par la plus abominable des trahisons.
+
+Peut-être, malgré le temps écoulé, se souvient-on encore de ce drame terrible, dont le fils aîné de lord Glenor fut le triste héros.
+
+George Buxton, placé, au point de vue militaire, en position de disponibilité, était alors au service d\'une grande compagnie d\'exploration. Depuis deux ans, il sillonnait pour le compte de cette compagnie, à la tête de troupes à demi régulières qu\'elle avait réunies, le territoire des Achantis, lorsqu\'on apprit tout à coup que, se muant en chef de bande, il s\'était mis en révolte ouverte contre son pays. À l\'époque, la nouvelle en parvint avec la brutalité d\'un coup de foudre. On connut en même temps la rébellion et son implacable châtiment. On connut à la fois la trahison du capitaine Buxton et de ses hommes transformés en aventuriers, leurs pillages, leurs exactions, les actes de cruauté dont ils s\'étaient rendus coupables, et la répression suivant de près ce crime.
+
+Les journaux ont raconté le drame qui s\'est alors déroulé.
+
+Ils en ont noté les péripéties. Ils ont montré la bande de rebelles pourchassée sans relâche et s\'émiettant graduellement devant les soldats envoyés contre elle. Ils ont raconté comment le capitaine Buxton, refoulé avec quelques-uns de ses compagnons sur les territoires alors compris dans la zone d\'influence française, avait été enfin rejoint près du village de Koubo, au pied des monts Hombori, et tué à la première décharge. Il n\'est pas de hameau où l\'on n\'ait connu la mort du commandant de la troupe régulière anglaise terrassé par la fièvre pendant qu\'il revenait à la côte, son triste devoir accompli, le massacre du chef révolté et de la majeure partie de ses complices, la dispersion des autres et l\'anéantissement dans l\'oeuf de l\'abominable et chimérique entreprise. Si le châtiment coûtait cher, il était au moins complet et rapide.
+
+On se souvient de l\'émotion qui secoua l\'Angleterre quand elle apprit cette surprenante aventure. Puis l\'émotion s\'apaisa, et le linceul de l\'oubli tomba lentement sur les morts.
+
+Approchant alors de soixante-quinze ans, lord Glenor reçut le coup comme parfois les grands arbres la foudre. Il arrive que le fluide les frappe à la cime, dévore leur coeur jusqu\'aux racines, puis se perd dans la terre, ne laissant derrière lui qu\'un colosse d\'écorce, toujours debout, dont rien ne trahit la dévastation intérieure, mais vide en réalité, et que le premier vent un peu rude va renverser.
+
+Ainsi en fut-il pour le vieux marin. Frappé à la fois dans son amour passionné pour son fils, et dans son honneur plus cher encore, il ne fléchit pas sous le choc, et c\'est à peine si la pâleur de son visage trahit sa douleur. Sans poser une question, sans prononcer une parole sur l\'intolérable sujet, il s\'enferma dans une solitude hautaine et dans l\'orgueil du silence.
+
+C\'est à partir de ce jour qu\'on cessa de le voir, comme on en avait coutume, faire sa promenade quotidienne. C\'est à partir de ce jour, que, dans sa maison fermée à tous, fût-ce à ses plus chers amis, il demeura claustré, presque immobile, muet, seul.
+
+Seul ? Non, pas entièrement. Trois êtres encore se relayaient auprès de lui, trouvant dans la vénération qu\'il leur inspirait le courage de supporter cette existence effrayante avec une vivante statue, avec un spectre dont la personne physique avait gardé toute la vigueur de l\'homme fait, mais qui s\'était volontairement muré dans un éternel silence.
+
+C\'était son second fils, d\'abord, Lewis Robert Buxton qui, pas une semaine, ne manqua jamais de venir passer à Glenor le jour de liberté que lui laissaient ses fonctions à la Central Bank.
+
+C\'était ensuite son petit-fils, Agénor de Saint-Bérain, qui tâchait d\'égayer par sa bonhomie souriante ce logis lugubre comme un cloître.
+
+Lors de l\'inconcevable trahison de George Buxton, Agénor de Saint-Bérain ressemblait déjà trait pour trait au crayon peu flatteur qu\'on a esquissé de sa personne physique, mais, au moral, c\'était, dès cette époque, un excellent garçon, serviable, obligeant, au coeur sensible, d\'une loyauté à toute épreuve.
+
+Trois signes particuliers le distinguaient du reste des humains : une distraction poussée jusqu\'à l\'invraisemblance, une passion désordonnée -- et d\'ailleurs bien malheureuse -- pour la pêche à la ligne, et par-dessus tout, une aversion farouche pour le sexe féminin.
+
+Possesseur d\'une jolie fortune héritée de ses parents, morts tous les deux, et par conséquent indépendant, il avait quitté la France à la première nouvelle du drame qui frappait son grand-père, et s\'était installé dans une villa voisine du château de Glenor, où il passait, d\'ailleurs, la majeure partie de son temps.
+
+À sa villa attenait un jardin traversé par un cours d\'eau, dans lequel Agénor plongeait ses lignes avec une ardeur aussi vive qu\'inexplicable. Pourquoi mettre tant de passion à cet exercice, en effet, puisqu\'il pensait régulièrement à autre chose et que tous les poissons du monde eussent pu « mordre » sans qu\'il s\'aperçût de la danse du bouchon ? Et quand bien même, au surplus, un barbillon, une ablette ou un goujon, plus entêté encore qu\'il n\'était distrait, serait venu se ferrer de lui-même, à quoi cela eût-il avancé le sensible Agénor, qui se fût empressé sans aucun doute de rejeter la bestiole à l\'eau, peut-être même en lui adressant des excuses ?
+
+Un brave garçon, nous l\'avons dit. Et quel célibataire endurci ! À qui voulait l\'entendre, il affirmait son mépris pour les femmes. Il leur prêtait tous les défauts, tous les vices. « Trompeuses, perfides, menteuses, prodigues », proclamait-il d\'ordinaire, sans préjudice d\'autres épithètes insultantes dont il n\'était jamais à court.
+
+Quand on lui conseillait de se marier :
+
+--- Moi ! s\'écriait-il, m\'unir à l\'un de ces êtres infidèles et volages ! Et, si l\'on insistait :
+
+--- Je ne croirai à l\'amour d\'une femme, déclarait-il sérieusement, que lorsque je l\'aurai vue mourir de désespoir sur ma tombe.
+
+Cette condition étant irréalisable, il était à parier qu\'Agénor resterait garçon.
+
+L\'éloignement qu\'il manifestait pour le beau sexe souffrait cependant une exception.
+
+La privilégiée était Jane Buxton, la dernière des enfants de lord Glenor, la tante d\'Agénor, par conséquent, mais une tante de quinze à vingt ans plus jeune que lui, une tante qu\'il avait connue toute petite, dont il avait guidé les premiers pas et dont il s\'était institué le protecteur, lorsque le malheureux lord s\'était retranché du monde. Il lui portait une tendresse véritablement paternelle, une affection profonde, que la jeune fille, d\'ailleurs, lui rendait bien. En principe, c\'était lui le mentor, mais, en fait, ce mentor faisait tout ce que voulait son disciple. Ils ne se quittaient guère. Ils sortaient ensemble, couraient les bois à pied ou à cheval, canotaient, chassaient, pratiquaient tous les sports, ce qui autorisait le vieux neveu à dire de sa jeune tante ainsi élevée en garçon : « Vous verrez que je finirai par en faire un homme ! »
+
+Jane Buxton était la troisième personne qui prodiguât ses soins au vieux lord, dont elle entourait la triste vieillesse d\'une sollicitude quasi maternelle. Elle eût donné sa vie pour le voir sourire. Et cette idée : ramener un peu de bonheur dans l\'âme ulcérée de son père, cette idée ne la quittait pas. C\'était le but unique de toutes ses pensées, de tous ses actes.
+
+À l\'époque du drame dans lequel son frère avait trouvé la mort, elle avait vu son père pleurer plus encore sur son nom flétri, sur son honneur outragé, que sur la fin misérable d\'un fils frappé d\'un juste châtiment. Elle, par contre, n\'avait pas pleuré.
+
+Non pas qu\'elle fût insensible à la perte d\'un frère tendrement chéri et à la tache dont un tel crime souillait l\'honneur de sa famille. Mais en même temps que la douleur, plus forte que la douleur, son coeur avait connu la révolte.
+
+Eh quoi ! Lewis et son père croyaient si aisément à la honte de George ! Sans contrôle, sans enquête personnelle, ils acceptaient comme démontrées des accusations venues des lointains d\'outre-mer ! Qu\'importaient les rapports officiels ? Contre ces rapports, contre l\'évidence même, le passé de George protestait. Qu\'il fût un traître, ce grand frère si droit, si bon, si pur, dont toute la vie attestait l\'héroïsme et la loyauté, voilà qui était impossible ! Alors que tout le monde reniait le pauvre mort, elle, du moins, honorerait sa mémoire, et sa foi en lui ne pâlirait jamais.
+
+Cette première impression de Jane Buxton, le temps ne fit que la fortifier. À mesure que passaient les jours, plus ardente fut sa conviction de l\'innocence de son frère, bien qu\'elle ne pût l\'étayer par aucune preuve. Le moment vint enfin -- ce fut plusieurs années après le drame -- où elle se hasarda à rompre pour la première fois le silence absolu que, par un accord tacite, tous les hôtes du château observaient sur la tragédie de Koubo.
+
+--- Mon oncle ? dit-elle ce jour-là, en manière d\'interpellation, à Agénor de Saint-Bérain.
+
+Bien que celui-ci fût, en réalité, son neveu, ils étaient convenus de renverser, dans la pratique, l\'ordre des parentés, afin de le rendre plus conforme à celui des années. C\'est pourquoi Agénor appelait d\'ordinaire Jane sa nièce, tandis que celle-ci lui décernait le titre d\'oncle. Il en était toujours ainsi\...
+
+Hors un cas, cependant.
+
+S\'il advenait, par grand hasard, que cet oncle de convention donnât de justes motifs de plainte à sa pseudo-nièce, ou s\'avisât de résister à sa volonté, voire à l\'un de ses caprices, cette dernière revendiquait incontinent le rang auquel elle avait droit et signifiait à son « neveu » qu\'il eût à faire preuve du respect dû à un ascendant.
+
+Connaissant à ce signe que les choses se gâtaient, le « neveu » s\'empressait de filer doux en vue d\'apaiser sa vénérable « tante ». De cette dualité d\'appellations contradictoires résultaient parfois des dialogues assez savoureux.
+
+--- Mon oncle ? Interpella donc Jane, ce jour-là.
+
+--- Ma chérie ? répondit Agénor, alors absorbé dans la lecture d\'un in-quarto consacré à l\'art de la pêche à la ligne.
+
+--- Je voudrais vous parler de George.
+
+Agénor, surpris, abandonna son livre.
+
+--- De George ? répéta-t-il un peu troublé. De quel George ?
+
+--- De mon frère George, précisa Jane avec calme.
+
+Agénor était devenu tout pâle.
+
+--- Mais tu sais bien, objecta-t-il d\'une voix tremblante, que ce sujet est interdit, que ce nom-là ne doit pas être prononcé ici.
+
+Jane rejeta l\'objection d\'un mouvement de tête.
+
+--- Il n\'importe, dit-elle tranquillement. Parlez-moi de George, mon oncle. -- Et que veux-tu que je t\'en dise ?
+
+--- Tout. L\'histoire entière. Tout.
+
+--- Jamais de la vie !
+
+Jane fronça les sourcils.
+
+--- Mon neveu ! Fit-elle d\'un ton menaçant.
+
+Il n\'en fallut pas davantage.
+
+--- Voilà ! Voilà ! Balbutia Agénor, qui se mit à raconter la triste histoire qui lui était demandée.
+
+Il la raconta d\'un bout à l\'autre, sans rien omettre.
+
+Jane l\'écouta en silence, et, quand il eut terminé, elle ne posa pas d\'autres questions. Agénor crut en avoir fini, et poussa un soupir de soulagement.
+
+Il se trompait. Quelques jours plus tard, Jane revint à la charge.
+
+--- Mon oncle ? Interpella-t-elle de nouveau.
+
+--- Ma chérie ? répondit derechef Agénor.
+
+--- Si George, pourtant, n\'était pas coupable ?
+
+Agénor crut avoir mal entendu.
+
+--- Pas coupable ! répéta-t-il. Hélas ! Ma pauvre enfant, il n\'y a aucun doute. La trahison et la mort du malheureux George sont des faits historiques, dont les preuves abondent.
+
+--- Lesquelles ? interrogea Jane.
+
+Agénor recommença son récit. Il cita les articles des journaux, les rapports officiels contre lesquels nul n\'avait protesté. Il invoqua enfin l\'absence du coupable, ce qui était une forte preuve de la réalité de sa mort.
+
+--- De sa mort, soit, objecta Jane, mais de sa trahison ?
+
+--- L\'une est la conséquence de l\'autre, répondit Agénor confondu par tant d\'obstination.
+
+L\'obstination de la jeune fille était encore plus grande qu\'il ne le supposait. Fréquemment, à compter de ce jour, elle revint sur ce pénible sujet, harcelant Agénor de questions renaissantes, desquelles il était facile de conclure qu\'elle conservait sa foi intacte dans l\'innocence de son frère.
+
+Sur ce point, toutefois, Agénor était irréductible. En réponse aux meilleurs arguments, il se contentait de hocher la tête avec mélancolie, en homme qui veut éviter une discussion inutile, mais Jane sentait bien que son opinion n\'était pas ébranlée.
+
+Il en fut ainsi jusqu\'au jour où elle se décida à faire acte d\'autorité. -- Mon oncle ? dit-elle encore, ce jour-là.
+
+--- Ma chérie ? répondit comme de coutume Agénor.
+
+--- J\'ai beaucoup réfléchi, mon oncle, et mon avis est décidément que George est innocent du crime affreux dont on l\'accuse.
+
+--- Pourtant, ma chérie\... Commença Agénor.
+
+--- Il n\'y a pas de pourtant, trancha Jane péremptoirement. George est innocent, mon oncle.
+
+--- Cependant\...
+
+Jane se redressa, les narines frémissantes.
+
+--- Je vous dis, mon neveu, prononça-t-elle d\'un ton sec, que mon frère George est innocent.
+
+Agénor s\'effondra.
+
+--- Il l\'est, ma tante, reconnut-il humblement.
+
+Dès lors, l\'innocence de George fut un fait acquis, et Agénor de Saint-Bérain ne se permit plus de la contester. Au surplus, les affirmations de Jane n\'étaient pas sans avoir eu quelque influence sur son esprit. S\'il ne possédait pas encore la belle certitude de celle-ci dans l\'innocence du capitaine révolté, du moins sa conviction de la réalité du crime était-elle ébranlée.
+
+Pendant les années suivantes, les pensées de Jane continuèrent à évoluer dans le sens de cette ardente foi plus sentimentale que raisonnée. Avoir gagné un partisan à la cause qu\'elle soutenait, c\'était quelque chose assurément, mais peu de chose. À quoi bon proclamer l\'innocence de son frère, si l\'on n\'était pas en état de la prouver ? Et, ces preuves, comment les réunir ?
+
+À force d\'y rêver, elle crut en avoir trouvé le moyen.
+
+--- Il est bien entendu, n\'est-ce pas, dit-elle un beau jour à Agénor, que George est innocent du crime dont on l\'accuse.
+
+--- Oui, ma chérie, répondit Agénor qui, d\'ailleurs, ne se sentait plus très assuré du contraire.
+
+--- Il était trop intelligent, continua Jane, pour commettre cette sottise, trop fier pour s\'avilir ainsi. Il aimait trop son pays pour le trahir.
+
+--- C\'est évident.
+
+--- Nous avons vécu côte à côte. Je connaissais ses pensées comme les miennes. Il n\'avait d\'autre culte que l\'honneur, d\'autre amour que celui qu\'il portait à notre père, d\'autre ambition que la gloire de sa patrie. Et vous voudriez qu\'il eût conçu le projet de trahir, de se déshonorer dans une entreprise de flibustier, en couvrant ainsi de honte lui et sa famille ? dites ! Vous voudriez, Agénor ?
+
+--- Moi ! Mais je ne veux rien, ma tante, protesta Agénor, qui considéra comme prudent d\'adopter avant d\'y être invité ce vocable respectueux.
+
+--- C\'est que vous êtes là, à me regarder avec vos gros yeux ronds, comme si vous ne m\'aviez jamais vue ! Vous savez bien pourtant qu\'un aussi abominable dessein ne pouvait naître dans son cerveau ! Si vous savez, dites-le donc !
+
+--- Je le dis, ma tante, je le dis.
+
+--- Ce n\'est pas malheureux ! Quant à ceux qui ont inventé cette légende de toutes pièces, ce sont des misérables !
+
+--- Des bandits !
+
+--- Qu\'on devrait envoyer au bagne !
+
+--- Ou pendre !
+
+--- Avec les journalistes qui ont répandu ces nouvelles mensongères, et ont ainsi causé notre désespoir et notre honte !
+
+--- Oui, tous les journalistes ! Qu\'on les pende ! Qu\'on les fusille ! -- Vous êtes donc enfin convaincu ?
+
+--- Absolument !
+
+--- D\'ailleurs, je voudrais bien voir que vous fussiez d\'un autre avis que le mien sur ce sujet !
+
+--- Je n\'aurais garde\...
+
+--- À la bonne heure ! Sans quoi, vous me connaissez, je vous chasserais de ma présence et ne vous reverrais de ma vie.
+
+--- Le ciel m\'en préserve ! s\'écria le pauvre Agénor, tout à fait ému par une aussi terrible menace.
+
+Jane fit une pause et regarda sa victime du coin de l\'oeil. Sans doute, elle la jugea à point, car elle mit une sourdine à sa violence moins sincère que calculée, et reprit d\'un ton plus doux :
+
+--- Il ne suffit pas que, vous et moi, nous soyons convaincus de l\'innocence de George. Il faudrait pouvoir en donner la preuve, vous en conviendrez, mon cher oncle.
+
+À cette appellation, le visage d\'Agénor s\'éclaira. L\'orage était passé décidément.
+
+--- C\'est évident, dit-il en poussant un soupir de soulagement.
+
+--- Sans quoi, nous aurons beau crier sur les toits que George n\'est pas coupable, personne ne nous croira.
+
+--- Ce n\'est que trop certain, ma pauvre chérie.
+
+--- Quand mon père, lui-même -- son père ! -- accueille comme vérités certains des bruits dont on ignore l\'origine, quand il se meurt de chagrin et de honte sous nos yeux, sans avoir contrôlé ces racontars abominables, quand il ne s\'écrie pas, en entendant accuser son fils : « Vous mentez ! George est incapable d\'un pareil crime ! », comment pourrions-nous convaincre les étrangers, sans leur donner les preuves indéniables de l\'innocence de mon frère ?
+
+--- C\'est clair comme le jour, approuva Agénor en se grattant le menton. Mais voilà\... Ces preuves\... Où les trouver ?
+
+--- Pas ici, bien sûr\...
+
+Jane fit une pause puis ajouta à demi-voix :
+
+--- Ailleurs peut-être.
+
+--- Ailleurs ? Où donc, ma chère enfant ?
+
+--- Où le drame se serait passé. À Koubo.
+
+--- À Koubo !
+
+--- Oui, à Koubo. On y trouverait d\'abord la tombe de George, puisque c\'est là qu\'il est mort, d\'après ce qu\'on raconte et, s\'il l\'est en effet, on verrait de quelle manière il est mort. Ensuite, on chercherait, on trouverait des survivants du drame. La troupe que George commandait était nombreuse. Il est impossible que tout le monde ait disparu. Ces témoins, on les interrogerait, et par eux on connaîtrait la vérité.
+
+Le visage de Jane s\'était illuminé, à mesure qu\'elle parlait. Sa voix frémissait d\'un enthousiasme contenu.
+
+--- Tu as raison, fillette, s\'écria Agénor tombant ingénument dans le piège. Jane reprit son air mutin.
+
+--- Eh bien ! dit-elle, puisque j\'ai raison, il faut y aller.
+
+--- Où ça ? demanda Agénor abasourdi.
+
+--- Mais\... À Koubo, mon oncle.
+
+--- À Koubo ! Et qui diable veux-tu envoyer à Koubo ?
+
+Jane noua ses deux bras au cou d\'Agénor.
+
+--- Vous, mon bon oncle, glissa-t-elle d\'une voix douce.
+
+--- Moi !
+
+Agénor s\'était dégagé.
+
+Cette fois, il était sérieusement en colère.
+
+--- Tu es folle ? protesta-t-il, tout en faisant mine de s\'éloigner.
+
+--- Pas si folle, répliqua Jane en lui barrant le passage. Pourquoi, s\'il vous plaît, n\'iriez-vous pas à Koubo ? N\'aimez-vous pas les voyages ?
+
+--- Je les exècre. Prendre un train à heure fixe, c\'est au-dessus de mes forces. -- Et la pêche, vous l\'exécrez aussi, n\'est-il pas vrai ?
+
+--- La pêche ? Je ne vois pas\...
+
+--- Que diriez-vous d\'une friture pêchée dans le Niger ? Voilà qui ne serait pas banal ! Dans le Niger, où les goujons sont gros comme des requins, où les ablettes ressemblent à des thons ! Et cela ne vous tenterait pas ! -- Je ne dis pas\... Cependant\...
+
+--- Tout en pêchant, vous feriez votre enquête, vous interrogeriez les indigènes\...
+
+--- En quelle langue ? interrompit railleusement Agénor. Je ne sache pas que ces cocos-là parlent anglais.
+
+--- C\'est pourquoi, dit Jane sans avoir l\'air d\'y toucher, mieux vaudra les interroger en bambara.
+
+--- En bambara ? Est-ce que je sais le bambara, moi.
+
+--- Aussi allez-vous l\'apprendre.
+
+--- À mon âge ?
+
+--- Je l\'ai bien appris, moi qui suis votre tante !
+
+--- Toi ! Tu parles bambara ?
+
+--- Sans doute. Écoutez plutôt : Dji lokho a bé na.
+
+--- Quel est ce charabia ?
+
+--- Cela veut dire : « J\'ai soif ».
+
+Et : I dou, nono i mita.
+
+--- J\'avoue que\... Nono\... Mita\...
+
+--- Cela signifie : « Entre, tu boiras du lait ». Et : *Koukho bé na, Kounou ouarara uté a man doumouni*. Ne cherchez pas. Traduction : « J\'ai très faim, je n\'ai pas mangé depuis hier soir ».
+
+--- Et il faudrait apprendre ça ?\...
+
+--- Ça et autre chose, et même sans perdre de temps, car le jour du départ approche.
+
+--- Comment, le jour du départ ?\... Mais je ne pars pas, moi ! En voilà une idée !\... Non, mais, je ne me vois pas taillant une bavette avec tes sauvages. Jane parut renoncer à le convaincre.
+
+--- Alors, j\'irai seule, dit-elle tristement.
+
+--- Seule !\... Bégaya Agénor ahuri. Tu veux donc aller\...
+
+--- À Koubo ? Parfaitement.
+
+--- À quinze cents kilomètres de la côte !
+
+--- À dix-huit cents, mon oncle.
+
+--- Affronter les plus grands dangers ! Et cela toute seule !
+
+--- Il le faut bien, puisque vous ne voulez pas venir avec moi, répliqua Jane d\'un ton sec.
+
+--- C\'est de la folie ! De l\'aberration mentale ! Du *delirium tremens* ! s\'écria Agénor, qui ne vit d\'autre moyen que de s\'enfuir en claquant la porte.
+
+Mais quand le lendemain, il voulut voir Jane, celle-ci lui fit répondre qu\'elle ne recevait pas, et il en fut de même les jours suivants. Agénor n\'était pas de la force à ce jeu. En quatre jours, il dut amener son pavillon. Au surplus, comme chaque fois que sa jeune tante désirait quelque chose, il en était arrivé graduellement à être de son avis.
+
+Ce voyage, jugé d\'abord insensé, il l\'estimait le lendemain possible à la rigueur, très faisable le troisième jour, extrêmement facile le quatrième. C\'est pourquoi il ne s\'était pas écoulé quatre fois vingt-quatre heures, qu\'il faisait amende honorable, confessait son erreur et se déclarait prêt à partir. Jane eut la générosité de ne pas tenir rigueur.
+
+--- Apprenez d\'abord la langue du pays, dit-elle en l\'embrassant sur les deux joues.
+
+Dès lors, on ne vit plus Agénor que piochant consciencieusement sa grammaire bambara.
+
+Avant de se mettre en route, cependant, Jane devait s\'assurer le consentement de son père. Ce consentement, elle l\'obtint plus facilement qu\'elle n\'eût osé l\'espérer. À peine lui avait-elle fait part, sans entrer dans aucun détail, de son intention d\'entreprendre un voyage, que celui-ci acquiesça du geste, pour se replonger aussitôt dans sa morne tristesse. L\'avait-il même écoutée ? De toute évidence, rien ne l\'intéressait plus ici-bas.
+
+En règle de ce côté, Jane et Agénor commencèrent les préparatifs de leur expédition. Ils ignoraient à ce moment quel appui allait leur donner la mission Barsac. Ils agirent donc comme s\'ils devaient entreprendre seuls et avec leurs seules ressources cette folle randonnée de trois à quatre mille kilomètres.
+
+Depuis plusieurs années, Jane avait soigneusement étudié la géographie des contrées qu\'elle aurait à traverser. Les ouvrages de Flatters, du docteur Barth, du capitaine Binger, du colonel Monteil l\'avaient exactement renseignée sur cette région et sur ses habitants.
+
+Elle avait appris ainsi que, si elle tentait une exploration à main armée, c\'est-à-dire en s\'entourant d\'une troupe imposante de trois ou quatre cents volontaires, qu\'il lui faudrait armer, nourrir et payer, elle serait entraînée d\'abord à des dépenses considérables, et qu\'elle se heurterait ensuite à des peuplades guerrières qui s\'opposeraient par la force à un passage demandé par la force. Elle se verrait donc obligée de combattre pour atteindre son but, en admettant même qu\'elle pût l\'atteindre.
+
+Le capitaine Binger déclare que, si les indigènes le veulent, ils empêcheront toujours une expédition de passer, soit en l\'attaquant, soit en faisant le vide devant elle et en la forçant ainsi à rétrograder faute de vivres.
+
+Jane, très frappée par cette remarque, avait donc décidé de tenter une exploration pacifique. Peu d\'armes visibles, quelques hommes dévoués et sûrs, et le nerf de la guerre représenté ici, non seulement par de l\'argent, mais aussi par des cadeaux destinés aux chefs des villages et à leurs administrés.
+
+Après avoir fait confectionner des vêtements en toile pour la saison sèche, et en grosse laine pour la saison des pluies, Jane et Agénor les disposèrent dans des malles légères, dont ils réduisirent le nombre au strict nécessaire. Puis ils firent emballer les cadeaux destinés aux naturels : mauvais fusils hors d\'usage, étoffes imprimées, voyantes, bariolées, foulards de soie et de coton, perles en verroterie, aiguilles, épingles, mercerie, articles de Paris, galons, boutons, crayons, etc., en somme la pacotille d\'un bazar.
+
+Ils emportaient encore avec eux une petite pharmacie, des armes, des longues-vues, des boussoles, des toiles de campement, quelques livres, des vocabulaires, les cartes les plus récentes, une batterie de cuisine, divers ustensiles de toilette, du thé, des vivres, en un mot une véritable cargaison, choisie avec discernement, d\'objets indispensables pour un long séjour dans la brousse loin de tout centre de ravitaillement.
+
+Enfin un étui de métal, dont le nickel étincelait au soleil, contenait un choix de cannes à pêche, de lignes et d\'hameçons, en quantité suffisante pour équiper une demi-douzaine de pêcheurs. Cela, c\'était le bagage particulier d\'Agénor.
+
+La tante et le neveu, ou l\'oncle et la nièce, comme on voudra, étaient convenus de se rendre à Liverpool, d\'où ils s\'embarqueraient sur un navire de la White Star Line, *The Ceres*, pour la côte d\'Afrique. Leur première intention était de partir de la Gambie anglaise. Mais, ayant appris, pendant une relâche à Saint-Louis, qu\'une mission française était attendue à Conakry, et qu\'elle devait suivre un itinéraire analogue au leur, ils résolurent de se joindre aux compatriotes de Saint-Bérain.
+
+
+Et pourtant, c\'était surtout pour lui qu\'elle tentait cette aventure pleine de dangers et de fatigues. C\'était pour rendre un peu de joie à cette âme désolée, qu\'elle allait s\'efforcer de réhabiliter le nom, d\'effacer la boue qui avait jailli sur le blason.
+
+L\'heure du départ approchant, Jane fit demander à son père la permission de lui faire ses adieux.
+
+Elle fut introduite, ainsi qu\'Agénor, dans la chambre du vieillard. Celui-ci était assis près d\'une haute fenêtre qui donnait sur la campagne. Son regard fixe semblait perdu dans le lointain, comme s\'il s\'attendait à voir paraître quelqu\'un. Qui cela ? George, son fils, George le traître ?
+
+En entendant sa fille entrer, il tourna doucement la tête, et son oeil éteint s\'éclaira. Mais ce ne fut qu\'une lueur. La paupière retomba ; le visage reprit son impassibilité coutumière.
+
+--- Adieu, mon père, murmura Jane en retenant ses larmes.
+
+Lord Glenor ne répondit pas. Se soulevant sur son fauteuil, il tendit la main à la jeune fille, puis l\'attirant doucement contre sa poitrine, lui mit un baiser sur le front.
+
+De peur d\'éclater en sanglots, Jane s\'arracha à l\'étreinte et s\'enfuit en courant.
+
+Le vieillard saisit alors la main de M. De Saint-Bérain, la lui serra avec force, et, comme pour réclamer sa protection, montra du geste la porte par laquelle Jane venait de disparaître.
+
+--- Comptez sur moi, balbutia Agénor.
+
+Aussitôt, lord Buxton reprit sa position première, et son regard se perdit de nouveau dans la campagne, tandis que Saint-Bérain se retirait tout ému. Une voiture attendait les voyageurs dans la cour du château, pour les conduire à la gare d\'Uttoxeter, distante d\'environ deux miles.
+
+--- Où va-t-on ? demanda, en y montant, l\'incorrigible Agénor, qui, encore troublé de la visite qu\'il venait de faire, ne savait plus du tout pourquoi on quittait Glenor.
+
+Jane se contenta de hausser les épaules.
+
+On partit.
+
+Mais à peine avait-on fait cinq cents mètres que M. De Saint-Bérain manifesta soudain une agitation extraordinaire. Il ne pouvait parler, il suffoquait.
+
+--- Mes lignes ! Mes lignes ! s\'écria-t-il enfin d\'une voix déchirante.
+
+Il fallut retourner au château chercher les fameuses lignes que le distrait avait oubliées, et l\'on perdit ainsi un bon quart d\'heure. Quand on arriva à la station, l\'express était en gare. Les voyageurs eurent tout juste le temps d\'y monter, ce qui fit dire à Agénor, non sans une certaine vanité :
+
+--- C\'est exactement la deuxième fois de ma vie que je ne rate pas mon train. Jane ne put s\'empêcher de sourire à travers ses larmes, qu\'elle laissait maintenant couler librement.
+
+Ainsi commença ce voyage qui ménageait aux deux explorateurs des surprises dont ils étaient bien loin de se douter. Jane l\'aurait-elle entrepris, si elle avait su ce qui devait se passer en son absence ? Aurait-elle quitté son malheureux père, si elle avait pu soupçonner quel coup allait encore le frapper, tandis qu\'elle risquait sa vie pour le sauver du désespoir ?
+
+Mais rien ne pouvait faire prévoir à Jane la tragédie qui devait se dérouler dans les bureaux de la Central Bank, non plus que l\'accusation infamante dont son frère Lewis devait être l\'objet, et, croyant servir son père, elle l\'abandonna au moment même où son secours lui eût été le plus nécessaire. Apportée par un domestique trop zélé, la nouvelle de la disparition de Lewis Robert Buxton parvint à lord Glenor dans la matinée qui suivit le crime de Old Broad Street, c\'est-à-dire le 1er décembre.
+
+Le choc eut la brutalité d\'un coup de massue. Ce descendant sans tache d\'une longue suite de héros, ce farouche desservant du culte de l\'honneur, apprit en un instant que, de ses deux fils, l\'un était un traître et l\'autre un voleur.
+
+Le malheureux vieillard poussa un gémissement étouffé, porta les mains à sa gorge et tomba comme une masse sur le parquet.
+
+On s\'empressa autour de lui. On le releva. On lui prodigua des soins, jusqu\'à ce qu\'il rouvrit les yeux.
+
+Le regard de ces yeux devait être désormais le seul signe que la vie n\'eût point abandonné son coeur martyrisé. S\'il vivait, son corps frappé de paralysie était condamné à une éternelle immobilité. Mais sans doute n\'était-ce point encore assez pour épuiser la cruauté du sort. Dans ce corps à jamais immobile, le cerveau était demeuré lucide. Insensible, muet, inerte, lord Buxton pensait !
+
+Or, par suite de la différence de longitude, c\'est au moment où son père s\'écroulait inanimé, que Jane Buxton, aidée par le capitaine Marcenay, mettait le pied à l\'étrier, et, franchissant le pont qui relie Conakry au continent, commençait réellement son voyage et faisait les premiers pas dans les ténèbres de la mystérieuse Afrique.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- Un article de l\'Expansion française]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942904 .pcalibre2 .pcalibre1} {#chapitre-4-un-article-de-lexpansion-française .calibre171 .sigil_not_in_toc}
+
+Le 1er janvier, les lecteurs de l\'Expansion française purent savourer, pour leurs étrennes, l\'article suivant, dont le titre se détachait en gros caractères, et qui était dû à la plume parfois fantaisiste -- à beau mentir qui vient de loin ! -- de son habile reporter, M. Amédée Florence, dont le lecteur voudra bien excuser le style parfois familier :
+
+
+LA MISSION BARSAC
+
+(Par dépêche de notre envoyé spécial)
+
+La mission fait des petits -- Nous partons --
+
+Le coup de pied de l\'âne -- Un repas noir --
+
+As-tu vu la lune ? -- Trop d\'asticots -
+
+Une élégante -- Nouvelle recrue
+
+
+*Dans la brousse, 1er décembre* -- Comme je vous l\'ai dit dans ma dernière dépêche, la mission Barsac devait se mettre en route aujourd\'hui, 1er décembre, à six heures du matin. À l\'heure dite, nous étions tous prêts, y compris deux volontaires qui sont venus se joindre aux huit membres tant officiels qu\'officieux que l\'on sait. Nul ne songe à s\'en plaindre. L\'un de ces volontaires est, en effet, une ravissante jeune fille, une Française élevée en Angleterre, d\'où elle a rapporté un léger accent des plus agréables. Mlle Jane Mornas, tel est son nom. L\'autre volontaire, son oncle -- à moins qu\'il ne soit son neveu, car je n\'ai pu débrouiller encore leurs liens de parenté -- s\'appelle Agénor de Saint-Bérain. C\'est un franc original, dont les distractions, déjà légendaires à Conakry, nous permettent d\'espérer quelques bons moments.
+
+Mlle Mornas et M. De Saint-Bérain voyagent pour leur plaisir.
+
+Je manquerais à toutes les règles de la galanterie si je n\'ajoutais pas : et pour le nôtre. Ils ont amené avec eux deux domestiques nègres, anciens tirailleurs sénégalais, qui devaient leur servir de guides, sinon d\'interprètes, car nos deux globe-trotters parlent très suffisamment le bambara et divers dialectes des pays que nous allons traverser. Mlle Mornas, en particulier, a une façon à elle de vous aborder par un *Ini-tié* (bonjour) ! Je ne vous dis que ça !
+
+M. Barsac a retenu le mot et le répète à tout propos, mais, dans sa bouche, il n\'a plus le même charme.
+
+Donc, ce matin, 1er décembre, dès cinq heures et demie, nous étions tous réunis sur la grande place de Conakry, devant la Résidence.
+
+Ainsi que je vous l\'ai expliqué précédemment, M. Barsac désirait faire une expédition pacifique au point d\'être exclusivement civile. Aussi optimiste qu\'à la tribune de la Chambre, il pensait n\'avoir qu\'à se présenter aux populations, un rameau d\'olivier à la main, et faire ainsi, en marchant parallèlement au Niger, une promenade de santé de Conakry à Cotonou. C\'était aussi l\'idée de Mlle Mornas, qui craignait d\'effrayer les indigènes par un trop grand déploiement de forces.
+
+Mais le parti Barsac-Mornas s\'est heurté à l\'opposition du parti Baudrières. Le chef adjoint de la mission -- en voilà un qui n\'a pas le sourire ! -- fit un sombre tableau des dangers que nous allions courir, parla de la dignité d\'une mission dirigée par deux représentants du peuple français, du prestige que lui donnerait une escorte de soldats réguliers, et ce qui nous étonna, il fut appuyé par le gouverneur, M. Valdonne.
+
+Sans contester que la pénétration française n\'eût pacifié dans une large mesure le pays noir, celui-ci répéta ce que le ministre des Colonies, M. Chazelle, a déjà avancé à la tribune de la Chambre. M. Valdonne nous dit que des faits assez mystérieux, ou du moins inexpliqués, autorisaient à craindre qu\'un soulèvement ne fût en préparation. Il paraîtrait que, depuis une dizaine d\'années et tout récemment encore, plus particulièrement dans la région du Niger, de Say à Djenné, des villages entiers ont été abandonnés subitement et que leurs habitants ont disparu, et que d\'autres villages ont été pillés et brûlés, on ignore par qui. En somme, des rumeurs tendant à faire croire que quelque chose -- nul ne sait trop quoi -- s\'apprêterait dans l\'ombre.
+
+La prudence la plus élémentaire obligeait donc la mission à se faire escorter par une troupe armée. Cet avis a prévalu, à la grande satisfaction de M. Baudrières, et M. Barsac doit se résigner à subir la protection du capitaine Marcenay et de ses deux cents cavaliers.
+
+À six heures, tout est prêt. Le convoi se forme sous la direction d\'un nègre qui a déjà fait plusieurs fois le voyage de Conakry à Sikasso, et qui doit nous servir de guide. Il se nomme Moriliré. C\'est un grand gaillard de trente ans, ancien *dou-goukoussadigui* (officier) de Samory. Il est vêtu d\'une culotte en guinée et d\'une vieille vareuse d\'infanterie coloniale aux galons élimés et crasseux. S\'il a les pieds nus, sa tête, par contre, est couverte d\'un casque en toile autrefois blanche orné d\'un superbe plumet tricolore. Quant à l\'insigne de ses fonctions, c\'est une trique solide, qui lui servira à se faire mieux comprendre des porteurs et des âniers.
+
+Aussitôt après lui se place Mlle Mornas, encadrée de M. Barsac et du capitaine Marcenay.
+
+Eh ! Eh ! Ils ne paraissent pas être restés insensibles à la beauté de la jeune fille. Parions que, le long du voyage, ils vont lutter de galanterie. Vos lecteurs peuvent être sûrs que je les tiendrai au courant des péripéties de ce match.
+
+M. Baudrières suit ce premier groupe à une encolure (ai-je dit que nous étions tous à cheval ?), mais son regard sévère semble désapprouver son collègue de montrer aussi visiblement combien notre aimable compagne est à son goût. Du coin de l\'oeil, je le regarde, le chef adjoint. Qu\'il est maigre ! Et froid ! Et triste ! Ah ! Fichtre non, il ne l\'a pas, le sourire !
+
+À trois pas derrière l\'honorable député du Nord, viennent MM. Heyrieux, Poncin et Quirieu, puis le docteur Châtonnay et le géographe, M. Tassin, qui discutent -- déjà ! -- ethnographie.
+
+Le convoi proprement dit marchera à leur suite. Il est composé de cinquante ânes conduits par vingt-cinq âniers, et de cinquante porteurs, dont dix appartenant en propre à Mlle Mornas et à M. De Saint-Bérain. Sur les flancs, les cavaliers du capitaine Marcenay. Quant à votre serviteur, il se réserve de caracoler le long de la colonne et d\'aller de l\'un à l\'autre. Tchoumouki et Tongané, les deux serviteurs de Mlle Mornas, forment l\'arrière-garde.
+
+À six heures juste, le signal du départ est donné. La colonne s\'ébranle. À ce moment le drapeau tricolore est hissé sur la Résidence -- pardon ! Soyons couleur locale : sur la case du gouverneur, qui, en grand uniforme, comme il convient, nous adresse un dernier salut du haut de son balcon. Les clairons et les tambours de la section d\'infanterie coloniale détachée à Conakry sonnent et battent aux champs.
+
+Nous levons nos chapeaux. L\'instant est un peu solennel, et -- riez si vous voulez -- j\'aila paupière humide, je l\'avoue.
+
+Pourquoi faut-il que cette solennité soit troublée par un incident ridicule ? Saint-Bérain ? Où est Saint-Bérain ? On a oublié Saint-Bérain. On le cherche, on l\'appelle. Les échos d\'alentour retentissent de son nom. C\'est en vain. Saint-Bérain ne répond pas.
+
+On commence à craindre un malheur. Cependant, Mlle Mornas ne paraît pas inquiète et nous nous rassurons.
+
+Non, Mlle Mornas n\'est pas inquiète. Mais elle est furieuse, par exemple !
+
+--- Je ramène M. De Saint-Bérain dans trois minutes, dit-elle, les dents serrées.
+
+Et elle pique des deux.
+
+Auparavant, toutefois, elle a pris le temps de se tourner de mon côté et de me dire : « Monsieur Florence ? » avec un petit air de prière que j\'ai parfaitement compris. C\'est pourquoi je pique des deux, moi aussi, et m\'élance à sa suite.
+
+En quelques foulées, nous sommes au bord de la mer, côté du large -- vous savez, sans doute, que Conakry est dans une île -- et là, qu\'est-ce que je vois ?
+
+M. De Saint-Bérain. Oui, Mesdames et Messieurs, M. De Saint-Bérain en personne naturelle, comme vous et moi.
+
+Que peut-il bien faire ? Pour le savoir, nous nous arrêtons un instant.
+
+M. De Saint-Bérain est confortablement assis sur le sable du rivage et n\'a pas du tout l\'air de se douter qu\'il fait attendre une mission officielle. Il cause amicalement avec un nègre, qui lui montre des hameçons, probablement d\'une forme inconnue en Europe, et lui donne à leur sujet de verbeuses explications.
+
+Puis tous deux se lèvent et se dirigent vers un canot à demi échoué sur la grève, et dans lequel le nègre embarque. Dieu me pardonne ! M. De Saint-Bérain ne fait-il pas mine d\'embarquer, lui aussi ?
+
+Il n\'en a pas le temps.
+
+--- Mon neveu ! Appelle tout à coup Mlle Mornas d\'une voix sévère.
+
+(Décidément, c\'est son neveu).
+
+Ce mot suffit. M. De Saint-Bérain se retourne et aperçoit sa tante, puisque tante il y a. Il est à croire que cette vue lui rafraîchit la mémoire, car le voilà qui pousse des exclamations désespérées, lève les bras au ciel, jette à son ami nègre une poignée de monnaie, s\'empare, en échange, d\'un lot d\'hameçons qu\'il fourre pêle-mêle dans sa poche, et accourt vers nous à toute vitesse.
+
+Il est si comique que nous éclatons de rire. Mlle Mornas découvre par ce moyen une double rangée de dents éblouissantes. Éblouissantes, je maintiens le mot.
+
+Nous tournons bride, et M. De Saint-Bérain trottine à côté de nos chevaux. Mais Mlle Mornas a pitié du pauvre homme, et, mettant sa monture au pas :
+
+--- Ne courez pas ainsi, mon oncle, lui dit-elle tendrement. Vous allez être en nage.
+
+(Alors, c\'est son oncle ?\... Oh ! Ma tête !)
+
+Nous retrouvons le convoi, où nous sommes accueillis par des sourires ironiques. M. De Saint-Bérain ne se trouble pas pour si peu. Il paraît seulement surpris de trouver sur la place autant de monde.
+
+--- Je suis donc en retard ? demande-t-il avec innocence.
+
+Alors, la colonne entière se met à rire, et M. De Saint-Bérain fait chorus. Il me plaît, à moi, ce particulier-là.
+
+Mais nous n\'étions pas encore partis.
+
+Au moment où M. De Saint-Bérain se penchait pour vérifier, en bon cavalier qu\'il est, la sangle de sa selle, la malchance voulut que l\'étui à lignes qu\'il porte en bandoulière vînt heurter le flanc d\'un des ânes. L\'animal était sensible. Il détacha une ruade à l\'infortuné Saint-Bérain, qui roula dans la poussière.
+
+On se précipita à son secours. Mais notre original était déjà debout.
+
+--- Ça beaucoup bon !\... Mossié avoir beaucoup veine, lui dit Tongané. Si y en a abeille piquer ou cheval donner coup de pied, grand voyage beaucoup bon.
+
+Sans lui répondre, M. De Saint-Bérain, sérieusement brossé, épousseté, sauta en selle, et le convoi put enfin s\'ébranler.
+
+Pendant ce temps, le soleil s\'était levé, et ses premières lueurs éclairaient gaiement notre route.
+
+Celle que nous suivons, après avoir franchi le pont qui relie Conakry au continent, est assez bonne. C\'est une vraie route large de cinq à six mètres, où une voiture pourrait aisément passer, que nous suivrons jusqu\'à Timbo, c\'est-à-dire pendant près de quatre cents kilomètres. Donc, jusqu\'à Timbo tout au moins, nous n\'avons à craindre aucune difficulté matérielle.
+
+D\'autre part, il fait beau, la température est agréable -- à peine 17° à l\'ombre -- et nous n\'avons pas à redouter les terribles pluies des tropiques, dont la saison est passée.
+
+Allons ! Tout est pour le mieux dans le meilleur des mondes.
+
+Vers dix heures, nous franchîmes, sur un pont, un cours d\'eau que M. Tassin nous dit être un affluent de la Manéa, ou de la Morébaya, à moins que ce ne fût l\'une de ces deux rivières.
+
+À l\'heure actuelle, nous sommes encore dans une cruelle incertitude à ce sujet.
+
+Au surplus, le passage des rivières est la monnaie courante des voyages dans cette partie de l\'Afrique. Il n\'y a, pour ainsi dire, pas de jour qu\'il ne faille en traverser une ou plusieurs. Qu\'il soit donc entendu, mes articles n\'étant pas un cours de géographie, que je ne parlerai pas de cet exercice, à moins qu\'il ne sorte, d\'une manière ou de l\'autre, de l\'ordinaire.
+
+Aux environs de Conakry, la route suit une ligne à peu près droite, dans un pays peu accidenté. Elle est bordée de terres assez bien cultivées. Champs de maïs ou de mil, et quelques bouquets d\'arbres : cotonniers, bananiers, papayers. On rencontre de rares hameaux parfaitement insignifiants, auxquels M. Tassin attribue avec assurance des noms que je crois de pure fantaisie. Mais, pour nous, c\'est exactement comme s\'ils étaient authentiques.
+
+Vers dix heures, la chaleur augmentant, le capitaine Marcenay commande la halte. Nous avons fait une vingtaine de kilomètres depuis Conakry, ce qui est très beau. Nous allons déjeuner et nous reposer, puis, après une nouvelle collation, nous repartirons vers cinq heures de l\'après-midi, et nous camperons pour la nuit vers les neuf heures du soir.
+
+Ce programme devant être celui de chaque jour, je n\'y reviendrai pas. Qu\'il soit bien entendu, d\'ailleurs, que mon intention n\'est pas d\'ennuyer vos lecteurs avec les menus détails de la route. Je vois les choses de plus haut, et je n\'inscrirai sur mes tablettes que les faits remarquables à un titre quelconque.
+
+Cela dit, reprenons.
+
+L\'endroit de la halte a été heureusement choisi par le capitaine Marcenay. Nous nous installons à l\'ombre d\'un petit bois qui nous abritera très suffisamment contre les ardeurs du soleil. Tandis que les soldats se dispersent, nous -- j\'entends les membres de la mission, Mlle Mornas, le capitaine, M. De Saint-Bérain et votre serviteur -- nous, dis-je, prenons place dans une jolie clairière. J\'offre un coussin à notre compagne, mais le capitaine Marcenay et M. Barsac m\'ont prévenu et ont apporté chacun un pliant. Embarras. Mlle Mornas ne sait lequel choisir. Déjà le capitaine et le chef de la mission se regardent de travers. Mlle Mornas les met d\'accord en s\'asseyant par terre sur mon coussin. Ses deux soupirants me font des yeux mauvais.
+
+M. Baudrières s\'assied à l\'écart sur un petit tas d\'herbe, au milieu d\'un groupe composé de ceux que j\'ai baptisés les « neutres ». Ce sont les délégués des divers ministères plus ou moins compétents, MM. Heyrieux, Quirieu et Poncin.
+
+Ce dernier, le plus remarquable des trois, n\'a cessé de prendre des notes depuis le départ. Je ne sais trop lesquelles, par exemple. S\'il était moins « officiel », j\'oserais insinuer qu\'il réalise à merveille le type de M. Prudhomme, mais sa grandeur me pose un boeuf sur la langue, comme eût dit le vieil Homère. Quel front ! Avec un front pareil on est étonnamment intelligent ou prodigieusement bête. Pas de milieu. Dans laquelle de ces deux catégories faut-il ranger M. Poncin ? Je le saurai à l\'usage.
+
+Le docteur Châtonnay et M. Tassin, que nous comparons à ces oiseaux qu\'on nomme des inséparables, vont s\'installer sous un figuier. Ils étalent sur le sol des cartes de géographie. J\'espère pour eux qu\'ils ne vont pas en faire leur unique nourriture !
+
+Moriliré, qui est décidément un garçon débrouillard, fait apporter au milieu de notre groupe une table, puis un banc, sur lequel je m\'installe, en réservant une place à M. De Saint-Bérain.
+
+M. De Saint-Bérain n\'est pas là. D\'ailleurs, M. De Saint-Bérain n\'est jamais là !
+
+Moriliré prépare un fourneau de campagne. Aidé de Tchoumouki et de Tongané, il va nous faire la cuisine, car il a été décidé que l\'on toucherait le moins possible aux conserves et aux provisions apportées d\'Europe, et qu\'on les réserverait pour les cas, que l\'on espère rares, où le pays ne nous fournirait pas de vivres frais en quantité suffisante.
+
+Moriliré a acheté de la viande à Conakry. Il nous la montre :
+
+--- Moi, y en a faire bon ragoût avec sodé (agneau), tendre comme un petit enfant, dit-il.
+
+Tendre comme un enfant ! Cette comparaison nous donne le frisson. Moriliré aurait-il donc goûté à la chair humaine ? Nous le lui demandons. Il nous répond hypocritement qu\'il n\'en a jamais mangé lui-même, mais qu\'il a entendu vanter l\'exquise saveur. Hum !
+
+Notre premier repas ne rappelle en rien ceux du Café Anglais, mais il n\'en est pas moins excellent. Qu\'on en juge : quartier d\'agneau grillé avec pâte de mil et sauce au beurre de karité, salade de coeurs de jeunes rôniers, gâteau de maïs, figues, bananes et noix de coco. Comme boisson, l\'eau pure d\'une source qui coule à nos pieds, et, pour ceux qui l\'aiment, du vin de palme.
+
+Ces divers mets furent précédés d\'un hors-d\'oeuvre que notre maître d\'hôtel n\'avait pas prévu. Mais n\'anticipons pas, comme on dit dans les romans bien charpentés.
+
+Tandis que Moriliré et ses deux aides nous préparent le repas annoncé, le docteur Châtonnay, qui s\'était rapproché, nous donne, à son sujet, des explications que je qualifierai de techniques.
+
+--- Pour l\'agneau, dit-il, je n\'en parle pas ; vous en savez là-dessus autant que moi.
+
+Le mil, qui va l\'accompagner sur notre table, est une céréale analogue au blé. Mélangé au beurre de karité ou de cé, car l\'arbre qui le fournit porte ces deux noms, il constitue une sauce assez passable, à la condition que le beurre soit bon. Ce beurre est extrait du fruit de l\'arbre, une sorte de noix ou de châtaigne. On l\'obtient par une série de broyages et de fusions, et finalement on l\'épure en le faisant fondre une dernière fois et en y jetant quelques gouttes d\'eau froide pendant qu\'il est en ébullition. Il devient alors fort appréciable.
+
+--- Vous savez tout, docteur, admire Mlle Mornas.
+
+--- Non, mademoiselle, mais j\'ai beaucoup lu, et notamment l\'ouvrage admirable du capitaine Binger. C\'est encore lui qui va me permettre de vous apprendre ce qu\'est la salade de rônier. Ces rôniers se divisent en mâles et en femelles. Les mâles ne produisent pas de fruits, mais fournissent un bois extraordinairement dense, qui a l\'avantage de ne pas pourrir dans l\'eau et d\'être inattaquable aux termites. Le rônier femelle donne des fruits agréables au goût. Sa feuille se prête à divers usages : couverture des cases, fabrication des éventails, des nattes, des cordages. On peut même s\'en servir comme papier à écrire. Voilà un végétal utile ! Quant à la salade, elle est fournie par le coeur d\'un jeune rônier à la fleur de l\'âge\...
+
+J\'interromps :
+
+--- Eh mais ! Docteur, c\'est de l\'élégie, ma parole !
+
+Le docteur a la bonté de sourire. Il reprend :
+
+
+L\'excellent docteur en était là de ses explications scientifiques, lorsque notre attention fut attirée par des cris venant du bois.
+
+Nous reconnûmes sur-le-champ la voix qui les poussait.
+
+Parions que, si je pose à vos lecteurs cette simple question : « À qui appartenait cette voix ? » ils vont me répondre immédiatement en choeur : « Parbleu ! À M. De Saint-Bérain ! »
+
+Vos lecteurs ne se trompent pas. C\'était bien M. De Saint-Bérain qui demandait du secours.
+
+Je me hâtai de courir à son appel suivi par le capitaine Marcenay et par M. Barsac. Nous le trouvâmes dans une mare, enfoncé dans la vase jusqu\'au ventre.
+
+Quand on l\'eut tiré au sec :
+
+--- Comment êtes-vous tombé dans ce marécage, ou dans ce marigot, pour employer le terme du pays ? lui demandai-je.
+
+--- J\'ai glissé, répondit-il tout en m\'éclaboussant, tandis que je pêchais. -- À la ligne ?
+
+--- Vous n\'y songez pas. À la main, mon cher.
+
+--- À la main ?
+
+M. De Saint-Bérain nous montra son casque colonial enveloppé dans son veston de toile.
+
+--- Attendez, dit-il, sans me répondre autrement. Il faut déplier mon veston avec précaution, sinon elles vont se sauver.
+
+--- Qui, elles ?
+
+--- Les grenouilles.
+
+Tandis que nous devisions, M. De Saint-Bérain pêchait la grenouille. Quel enragé !
+
+--- Mes compliments, approuva M. Barsac. C\'est succulent, la grenouille\... Mais écoutez les coassements de celles que vous avez capturées. Elles ne veulent évidemment pas être mangées.
+
+--- À moins qu\'elles ne crient pour demander un roi ! Hasardai-je. Ce n\'était pas très fort, je le reconnais.
+
+Mais, dans la brousse !
+
+Sur ce mot, nous retournâmes au campement. Saint-Bérain changea de vêtements, et Moriliré fit cuire le produit de sa pêche. La table étant mise, nous mangeâmes avec l\'appétit des gens qui ont avalé une vingtaine de kilomètres à cheval en guise d\'apéritif.
+
+Mlle Mornas présidait, cela va de soi. Elle est vraiment délicieuse. (Je l\'ai dit, je crois, mais je ne saurais trop le répéter.) Simple, bon enfant, gentiment garçonnière, elle nous a vite mis à l\'aise.
+
+--- Mon oncle\... (alors, c\'est décidément son oncle ? C\'est bien vu ? Bien entendu ?) Mon oncle, disait-elle, m\'a élevée comme un garçon et il a fait de moi un homme. Oubliez mon sexe, je vous en prie, et considérez-moi comme un camarade.
+
+Ce qui ne l\'a pas empêchée d\'adresser, ce disant, au capitaine Marcenay un de ces demi-sourires qui montrent clair comme le jour que, chez les garçons de cette espèce-là, la coquetterie ne perd jamais ses droits.
+
+Nous prîmes le café. Après quoi, mollement étendus, dans les grandes herbes à l\'ombre des palmiers, nous nous livrâmes aux douceurs de la sieste.
+
+Le départ était, comme je l\'ai dit, fixé à cinq heures ; mais, quand il fallut reformer le convoi, il y eut du tirage, si j\'ose employer cette forte expression.
+
+C\'est en vain que Moriliré, le moment venu, ordonna à ses hommes de se préparer. À notre grand étonnement, ils s\'y refusèrent, en criant tous à la fois qu\'ils ne voyaient pas la lune, qu\'ils ne partiraient pas tant qu\'ils n\'auraient pas vu la lune !
+
+Nous étions ahuris, mais le savant M. Tassin nous fit comprendre ce mystère.
+
+--- Je sais ce que c\'est, nous expliqua-t-il, tous les explorateurs l\'ont raconté dans leurs relations de voyage. Lorsque la lune est récente, et, ce soir, elle n\'a que deux jours, les nègres ont coutume de dire : « C\'est mauvais signe. Personne n\'a encore vu la lune. Le chemin ne sera pas bon pour nous. »
+
+--- *Ioo ! Ioo !* (Oui ! Oui !) approuvèrent bruyamment les âniers et les porteurs réunis autour de nous, et auxquels Moriliré avait traduit les paroles du docte géographe. *Karo ! Karo !* (La lune ! La lune !).
+
+Il nous parut certain que si ce satellite continuait à refuser de se montrer, ces entêtés continueraient à refuser de partir. Or, il faisait encore jour, et le ciel était couvert.
+
+De fait, les moricauds s\'obstinèrent, et peut-être serions-nous encore à la même place, si, un peu avant six heures, le pâle croissant de la lune ne s\'était enfin montré entre deux nuages. Les Noirs poussèrent des cris joyeux.
+
+--- *Allah ma toula kendé*, disaient-ils, en se frappant le front de la main droite, Karo koutayé. (Dieu m\'a laissé bien portant : je vois la nouvelle lune.)
+
+La colonne s\'ébranla aussitôt sans autre difficulté. Seulement, on avait perdu deux heures, et l\'étape du soir en fut raccourcie d\'autant.
+
+Vers neuf heures, on s\'arrête en pleine brousse et l\'on dresse les tentes. La contrée n\'est pas tout à fait déserte, cependant. À droite du sentier, il y a une case indigène, d\'ailleurs abandonnée, et, à notre gauche, on en distingue une autre, qui, celle-ci, paraît habitée.
+
+Le capitaine Marcenay visite la première et, l\'estimant suffisamment logeable, propose à Mlle Mornas d\'y élire domicile pour la nuit.
+
+Celle-ci accepte et disparaît dans cet hôtel inespéré.
+
+Elle ne nous avait pas quittés depuis dix minutes qu\'elle nous rappelait à grands cris.
+
+Nous accourons, et la trouvons debout devant la case, dont elle nous désigne le sol d\'un geste dégoûté.
+
+--- Qu\'est-ce que cela ? demanda-t-elle.
+
+Cela, c\'étaient d\'innombrables vers blancs. Ils sortaient de la terre et se traînaient à la surface en quantité si prodigieuse que le sol semblait onduler.
+
+--- Pensez, messieurs, dit Mlle Mornas, si j\'ai eu peur quand j\'ai senti leur froid contact sur ma figure, sur mes mains ! J\'en avais partout, jusque dans mes poches ! J\'ai beau me secouer, il en tombe toujours de mes vêtements. Pouah ! Les vilaines bêtes !
+
+M. De Saint-Bérain arrivait sur ces entrefaites. Il trouva sans effort le mot de la situation.
+
+--- Eh mais ! S\'exclama-t-il, le visage épanoui, ce sont des asticots !
+
+Et c\'étaient bien des asticots, en effet, car il s\'y connaît, M. De Saint-Bérain.
+
+Déjà il se baissait, afin d\'en faire une ample provision.
+
+--- Toi, y en a pas besoin, lui dit Tongané. Y en a beaucoup dans route. Eux beaucoup mauvais, pousser partout. Pas moyen faire crever.
+
+Voilà qui nous promet de belles nuits ! Et les naturels, comment s\'accommodent-ils de ces légions de vers ? Sans doute, j\'ai pensé tout haut. -- Eux manger, Mossié, fit Tongané. Y a bon !
+
+Mlle Mornas, n\'ayant pas les goûts simples des habitants de ces contrées, allait tout bonnement s\'installer sous une des tentes, quand Moriliré vint lui dire qu\'une jeune négresse, servante d\'un cultivateur de même couleur, absent pour le moment, lui offrait l\'hospitalité dans une case très propre et meublée -- chose incroyable -- d\'une vraie couchette à l\'européenne.
+
+--- Toi donner argent, ajouta le guide. Y a bon !
+
+Mlle Mornas accepte l\'hospitalité qui lui est offerte, et nous la conduisons processionnellement à sa nouvelle demeure. La servante annoncée nous attend. Elle est debout près d\'un de ces karités dont j\'ai parlé. C\'est une fillette de taille moyenne, âgée de quinze ans environ. Elle n\'est pas laide du tout. Comme elle n\'a d\'autre vêtement qu\'une simple feuille qui ne vient évidemment ni du Louvre ni du Bon-Marché, « mais peut-être du Printemps », suggère Saint-Bérain, elle ressemble à une jolie statue de marbre noir.
+
+Pour l\'instant, la statue est fort occupée à cueillir quelque chose dans le feuillage du karité.
+
+--- Elle ramasse des chenilles, qu\'elle videra, fera sécher, et dont -- ne vous récriez pas ! -- elle fera des sauces, nous apprend le docteur Châtonnay, décidément très fort en cuisine nègre. Ces chenilles s\'appellent *cétombo*. Ce sont les seules qui soient comestibles. Elles ont, paraît-il, un goût agréable.
+
+--- Y en a vrai, confirme Moriliré. Y a bon !
+
+La jeune négresse, nous ayant aperçus, vient au-devant de nous.
+
+--- Moi, dit-elle à Mlle Mornas, dans un français presque correct, à notre grand étonnement, moi élevée dans école française et avoir servi chez femme blanche, mariée à officier, moi retournée dans village et prisonnière dans grande bataille. Savoir faire lit comme Blancs. Toi contente.
+
+Tout en parlant, elle avait pris gentiment la main de Mlle Mornas, qu\'elle entraîna dans la case.
+
+Nous nous retirâmes, heureux du confort assuré à notre compagne. Mais l\'heure du sommeil n\'avait encore sonné, ni pour elle ni pour nous.
+
+En effet, avant que trente minutes se fussent écoulées, Mlle Mornas nous appelait à nouveau à son aide.
+
+Nous accourons derechef, et, à la lumière des torches, nous découvrons un spectacle inattendu.
+
+À même le sol, près du seuil de la case, la petite servante noire est étendue. Son dos est zébré de raies rouges. La malheureuse sanglote à fendre l\'âme. Devant elle, la couvrant de son corps, Mlle Mornas -- superbe, vraiment, Mlle Mornas, quand elle est en colère -- tenant en respect un affreux nègre, qui, à cinq pas, fait des grimaces horribles et tient encore à la main un bâton taché de sang.
+
+Nous demandons des explications.
+
+--- Figurez-vous, nous dit Mlle Mornas, que je venais de prendre possession du lit. Malik -- la petite négresse s\'appelle Malik ; un joli nom, n\'est-ce pas, qui fait penser à la Bretagne -- Malik, donc, m\'éventait et je commençais à m\'assoupir. Voici que cette brute, qui est son maître, revient à l\'improviste. En m\'apercevant, il entre en fureur, entraîne la pauvre enfant et se met à la rouer de coups pour lui apprendre à introduire une Blanche dans sa case.
+
+--- Jolies moeurs ! murmure de ses lèvres minces le jovial M. Baudrières.
+
+Il a raison, le jovial M. Baudrières. Mais il a tort, quand abusant de la situation, il prend la pose de l\'orateur et lance cette surprenante apostrophe :
+
+--- Les voilà donc, messieurs, ces peuplades barbares qu\'il vous plaît de transformer en pacifiques électeurs.
+
+Évidemment, il se croit à la tribune.
+
+M. Barsac a tressailli, comme si une mouche l\'avait piqué. Il se redresse, et réplique d\'un ton sec :
+
+--- Avec ça qu\'on n\'a jamais vu un Français battre sa femme ! Il n\'a pas tort, non plus, M. Barsac.
+
+Nous faudra-t-il assister à un tournoi d\'éloquence ? Non. M. Baudrières n\'ayant pas riposté, M. Barsac se retourne vers le nègre au bâton.
+
+--- Cette petite va te quitter, lui dit-il. Nous l\'emmènerons avec nous.
+
+Mais le nègre proteste. La négresse est son esclave. Il l\'a payée. Allons-nous perdre notre temps à lui faire comprendre que l\'esclavage est aboli en territoire français ? Il ne comprendrait certainement pas. Ce n\'est pas en un jour que les lois réforment les moeurs.
+
+M. Barsac a trouvé mieux.
+
+--- J\'achète ton esclave, lui dit-il. Combien ?
+
+Bravo, M. Barsac ! Voilà une bonne idée.
+
+Le nègre voit l\'occasion de faire une affaire avantageuse et se rassérène. Il demande un âne, un fusil et cinquante francs.
+
+--- Cinquante coups de bâton ! répond le capitaine. C\'est tout ce que tu mérites.
+
+On marchande. Enfin notre coquin cède sa servante pour un vieux fusil à pierre, une pièce d\'étoffe et vingt-cinq francs. Réellement, c\'est donné. Pendant que cette discussion se poursuivait, Mlle Mornas avait relevé Malik et pansé ses blessures avec du beurre de karité. Le marché conclu, elle l\'emmena jusqu\'à notre campement, l\'habilla d\'une blouse blanche, puis, lui mettant quelque monnaie dans la main :
+
+--- Maintenant, lui dit-elle, tu n\'es plus esclave.
+
+Je te rends ta liberté.
+
+Mais ne voilà-t-il pas Malik éclate en sanglots ! Elle est seule sur la terre et ne veut pas quitter « si bonne Blanche ». Elle lui servira de femme de chambre et lui sera dévouée jusqu\'à la mort. Elle pleure, supplie.
+
+--- Garde-la, fillette, intervient Saint-Bérain. Elle te sera certainement utile. Elle te rendra ces mille petits services dont une femme, même quand elle est un homme, a toujours besoin.
+
+Mlle Mornas se rendit d\'autant plus volontiers qu\'elle en mourait d\'envie.
+
+Malik, ne sachant comment témoigner sa gratitude à Saint-Bérain qui avait intercédé pour elle, lui sauta au cou et l\'embrassa sur les deux joues.
+
+Saint-Bérain m\'avoua le lendemain que rien ne lui avait jamais été aussi désagréable.
+
+Inutile d\'ajouter que Mlle Mornas ne crut pas devoir goûter une troisième fois de l\'hospitalité indigène. On lui dressa une tente où rien ne vint plus troubler son sommeil.
+
+Telle fut notre première journée.
+
+Les suivantes lui ressembleront beaucoup, sans aucun doute. Aussi ne les raconterai-je plus dans le détail, et, sauf indication contraire, ces mots seront toujours sous-entendus : *Ab una disce omnes.*
+
+Amédée Florence.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5 -- Deuxième article de M. Amédée Florence]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942905 .pcalibre2 .pcalibre1} {#chapitre-5-deuxième-article-de-m.-amédée-florence .calibre171 .sigil_not_in_toc}
+
+Le deuxième article de M. Amédée Florence fut publié dans l\'Expansion française du 18 janvier. On en trouvera ci-dessous la reproduction *in extenso.*
+
+*\*
+
+LA MISSION BARSAC
+
+(Par dépêche de notre envoyé spécial)
+
+Les jours se suivent -- Mon hôte -- Ballet ! -- Je
+
+suis indiscret -- Pêche miraculeuse de M. De Saint-Bérain -- Borouya -- Pour me faire
+
+honneur -- Timbro ! Quarante-huit heures d\'arrêt-
+
+buffet -- Daouhériko -- La vie en rose au pays noir
+
+-- M. Barsac aurait-il raison ? -- Je suis perplexe
+
+
+*Daouhériko, 16 décembre* -- Depuis ma dernière dépêche écrite en pleine brousse le soir de notre départ, à la tremblante lumière d\'une lanterne, le voyage fut heureux et, par suite, il n\'a pas d\'histoire.
+
+Le 2 décembre, nous levons le camp à cinq heures du matin, et notre colonne, grossie d\'une unité -- oserai-je dire d\'une demi-unité, puisqu\'une blanche vaut deux noires ? -- se met en marche.
+
+On a déchargé un âne et réparti sur les autres les ballots qu\'il portait, afin de l\'attribuer à Malik. Comme une enfant qu\'elle est, la petite négresse semble avoir oublié ses malheurs passés. Elle ne fait que rire, heureuse nature !
+
+Depuis, nous suivons toujours la route, qui continue à être bonne et facile, et, n\'étaient la couleur des populations qui nous entourent et la pauvreté du paysage, nous pourrions nous imaginer n\'avoir pas quitté la France.
+
+Car le paysage n\'est pas beau.
+
+Nous traversons une contrée plate, ou du moins faiblement vallonnée, avec, parfois, de médiocres hauteurs à l\'horizon du nord, et, à perte de vue, nous n\'apercevons que cette végétation rabougrie, mélange de broussailles et de graminées hautes de deux et trois mètres, qui porte le nom générique de brousse. De loin en loin un bouquet d\'arbres, malingres à cause des incendies périodiques qui dévastent ces savanes pendant la saison sèche, et parfois des champs cultivés, des lougans, selon le mot indigène, auxquels succèdent généralement d\'assez beaux arbres. C\'est alors qu\'on arrive à proximité d\'un village.
+
+Ils portent des noms absurdes, ces villages : Fongoumbi, Manfourou, Kafou, Ouossou, etc., j\'en passe. Ils ne peuvent donc pas s\'appeler Neuilly ou Levallois, comme tout le monde ?
+
+De ces noms de villages, un nous a divertis. Cette importante cité, située à la frontière anglaise du Sierra Leone, et que nous laissons, par conséquent, fort loin sur notre droite, se nomme Tassin. Notre éminent géographe n\'a pas dû être médiocrement fier, en se découvrant un homonyme à cent trente-six kilomètres de Conakry.
+
+Quant aux naturels, ils nous regardent passer avec sympathie et ils ont l\'air vraiment inoffensifs. Je ne pense pas qu\'ils aient l\'intelligence d\'un Victor Hugo ou d\'un Pasteur, mais, comme l\'intelligence n\'est pas, ainsi que l\'a prouvé une longue expérience, une condition de l\'électorat, il pourrait se faire que M. Barsac fût dans le vrai.
+
+Il est inutile de dire que le chef de la mission entre dans les plus misérables villages et tient des palabres avec ses habitants.
+
+Derrière lui, M. Baudrières ne manque pas de faire sa contre-enquête.
+
+M. Barsac et M. Baudrières tirent, ainsi qu\'on peut le supposer, des conclusions diamétralement opposées de ce qu\'ils entendent et de ce qu\'ils voient, si bien qu\'ils nous reviennent toujours également enchantés. Ainsi tout le monde est content. C\'est parfait.
+
+Pour le surplus, nous traversons ou nous suivons des rivières : Forécariah, Mellancorée, Scarie, Kaba, Diégounko, etc., et nous passons d\'une vallée dans une autre sans trop nous en apercevoir. Tout cela n\'est pas d\'un intérêt palpitant.
+
+J\'ai beau consulter mes notes, je ne vois rien à confier à l\'histoire de mon temps, jusqu\'au 6 décembre, date à laquelle M. De Saint-Bérain, qui est en train de devenir mon ami Saint-Bérain, crut devoir imaginer un incident pour mon plaisir, et, je veux l\'espérer, pour le vôtre.
+
+Ce soir-là, nous campions à proximité d\'un village, un peu moins insignifiant que les précédents, du nom de Oualia. Le moment venu, je rentre dans ma tente, dans le but légitime d\'y chercher le sommeil. J\'y trouve Saint-Bérain, déshabillé jusqu\'à la chemise et jusqu\'au caleçon exclusivement. Ses vêtements sont jetés à la volée un peu partout. La couverture est faite. De prime abord, il est évident que Saint-Bérain a l\'intention de coucher chez moi. Je m\'arrête sur le seuil de la tente, et contemple mon hôte inattendu dans l\'exercice de ses fonctions.
+
+Saint-Bérain ne paraît pas surpris de me voir. D\'ailleurs, Saint-Bérain n\'est jamais surpris. Il est fort affairé, s\'agite, furète partout, et jusque dans ma cantine qu\'il a ouverte, et dont il a répandu le contenu sur le sol.
+
+Mais il ne découvre pas ce qu\'il désire, ce qui l\'enrage. Il se tourne vers moi, et, sans paraître autrement étonné de me voir, me déclare du ton le plus convaincu :
+
+--- Je déteste les gens distraits. C\'est odieux.
+
+J\'approuve sans broncher :
+
+--- Odieux !\... Mais que vous arrive-t-il, ô Saint-Bérain ?
+
+--- Figurez-vous, me répond-il, que je ne peux pas mettre la main sur mon pyjama\... Je parie que cet animal de Tchoumouki l\'a oublié à la dernière étape. C\'est gai !
+
+Je suggère :
+
+--- À moins qu\'il ne soit dans votre cantine !
+
+--- Dans ma\...
+
+--- Car celle-ci est à moi, cher ami, de même que cette tente hospitalière et ce lit virginal sont à moi.
+
+Saint-Bérain roule des yeux égarés. Soudain, il prend conscience de son erreur, ramasse à la hâte ses vêtements épars et se sauve, comme s\'il avait une meute de cannibales à ses trousses. Moi, je tombe sur mon lit et me roule.
+
+Quel être délicieux !
+
+Le lendemain, 7 décembre, nous venions de nous mettre à table, après l\'étape du matin, quand nous aperçûmes des nègres qui semblaient nous épier. Le capitaine Marcenay ordonna à ses hommes de les chasser. Ils s\'enfuirent, mais pour reparaître bientôt.
+
+« Chassez le naturel, il revient au galop », crut devoir assurer à cette occasion le docteur Châtonnay, qui a la manie de citer à tout propos, et plus encore hors de propos, des vers qui n\'ont généralement aucun rapport avec son sujet.
+
+Mais chacun a ses travers.
+
+Moriliré, envoyé en reconnaissance, nous apprit que ces Noirs, au nombre d\'une dizaine, étaient des marchands et des griots (sorciers), qui n\'avaient aucune intention hostile et voulaient seulement, les uns nous vendre leurs produits, les autres nous divertir.
+
+--- Serrez l\'argenterie ! Recommanda M. Barsac en riant, et introduisez-les dans la salle à manger.
+
+On amena donc ces Noirs, tous plus laids et plus sordides les uns que les autres. Il y avait parmi eux des *nounou*, artisans de trente-six métiers, fabricants de poterie, de bijouterie, de vannerie, d\'objets en bois ou en fer, des *dioula* ou *marraba*, qui vendent des armes, des étoffes, et surtout des noix de kola, donc nous fîmes une ample provision. On connaît les propriétés excitantes de ce fruit que le docteur Châtonnay appelle un « aliment d\'épargne ». Nous fûmes très heureux d\'en acquérir une grande quantité en échange d\'un peu de sel. Dans les contrées que nous parcourons, le sel est rare ; il n\'a, pour ainsi dire, pas de prix. Sa valeur augmentera de plus en plus, à mesure que nous nous éloignerons de la côte. Aussi en emportons-nous plusieurs barres.
+
+Nous appelâmes ensuite les griots, et on leur ordonna de chanter leur plus belle chanson en l\'honneur de notre gracieuse compagne.
+
+Ces troubadours du pays noir étaient au nombre de deux. Le premier tenait à la main sa guitare. Quelle guitare !\... Qu\'on se figure une calebasse traversée par trois lamelles de bambou pourvues chacune d\'une corde en boyau. On appelle cet instrument *dianné*. Le second griot, un vieux aux yeux atteints d\'ophtalmie, comme il arrive souvent ici, était armé d\'une sorte de flûte du nom de *fabrésoro*, en bambara.
+
+C\'est un simple roseau à chaque bout duquel est adaptée une petite calebasse.
+
+Le concert commença. Le second griot, qui n\'était vêtu que d\'un *bila*, sorte de ceinture large de trois doigts passant entre les jambes, se mit à danser, tandis que son camarade, plus décemment couvert d\'une de ces longues blouses, d\'ailleurs d\'une saleté repoussante, appelées *doroké*, s\'asseyait sur le sol, pinçait sa guitare et poussait des cris gutturaux qui avaient la prétention, du moins je le suppose, d\'être un chant adressé au soleil, à la lune, aux étoiles et à Mlle Mornas.
+
+Les contorsions de l\'un, les hurlements de l\'autre, les sons étranges que les deux virtuoses tiraient de leurs instruments, eurent le don d\'exciter nos âniers. Ils abandonnèrent leur mil, leur riz et leur maïs, et organisèrent un ballet qui n\'était pas ordinaire.
+
+Entraînés par l\'exemple, nous nous emparons des casseroles et des chaudrons, sur lesquels nous frappons à coups de cuillères et de fourchettes ; M. De Saint-Bérain casse une assiette, en fait des castagnettes, perdant toute retenue, se confectionne un turban avec une serviette, et, tandis que M. Baudrières, l\'honorable député du Nord, se voile la face, l\'honorable député du Midi exécute un pas d\'une fantaisie ultraméridionale. Il n\'existe de si bonne plaisanterie qui n\'ait une fin. Après cinq minutes de ce charivari, nous dûmes nous arrêter, épuisés. Mlle Mornas pleurait à force de rire.
+
+C\'est le soir de ce même jour que fut commise par Amédée Florence, soussigné, la faute avouée en tête de cet article. À vrai dire, c\'est une faute dont je suis coutumier, l\'indiscrétion étant le péché mignon des reporters. Donc, ce soir-là, le hasard ayant placé ma tente tout près de celle de Mlle Mornas, j\'allais me coucher, quand j\'entendis parler chez ma voisine.
+
+Au lieu de me boucher les oreilles, j\'écoutai. Telle fut ma faute.
+
+Mlle Mornas causait avec son domestique, Tongané, qui lui répondait dans un anglais extrêmement fantaisiste, que je traduis en français correct pour l\'agrément de vos lecteurs. La conversation durait sans doute depuis longtemps déjà. Mlle Mornas interrogeait Tongané sur sa vie antérieure. Au moment où je commençais à tendre l\'oreille, elle demandait :
+
+--- Comment un Achanti tel que toi\...
+
+Tiens ! Tongané n\'est pas un Bambara. Je ne m\'en doutais guère.
+
+---\... Est-il devenu tirailleur sénégalais ? Tu me l\'as déjà dit, quand je t\'ai engagé, mais je ne m\'en souviens plus.
+
+Illusion ou non, il me semble que Mlle Mornas n\'est pas sincère. Tongané répond :
+
+--- C\'est après l\'affaire Buxton\...
+
+Buxton ? Ce nom-là me dit quelque chose. Mais quoi ? Tout en écoutant, je fouille dans mes souvenirs.
+
+---\... J\'étais engagé dans son expédition, continue Tongané, quand les Anglais sont venus et ont tiré sur nous.
+
+--- Sais-tu pourquoi ils ont tiré ? Questionna Mlle Mornas.
+
+--- Parce que le capitaine Buxton s\'était révolté, qu\'il pillait et massacrait tout.
+
+--- Était-ce vrai, cela ?
+
+--- Très vrai. On brûlait les villages. On tuait les pauvres nègres, les femmes, les petits enfants\...
+
+--- Et c\'était le capitaine Buxton qui ordonnait ces atrocités ? Insiste Mlle Mornas, dont la voix me paraît altérée.
+
+--- Non, répond Tongané.
+
+On ne le voyait jamais. Il ne sortait plus de sa tente, depuis l\'arrivée d\'un autre blanc. C\'est ce Blanc qui nous donnait des ordres au nom du capitaine.
+
+--- Il était avec vous depuis longtemps, cet autre Blanc ?
+
+--- Très longtemps. Cinq ou six mois, peut-être plus.
+
+--- Où l\'aviez-vous rencontré ?
+
+--- Dans la brousse.
+
+--- Et le capitaine Buxton l\'avait accueilli sans difficulté ?
+
+--- Ils ne se quittaient pas, jusqu\'au jour où le capitaine n\'est plus sorti de sa tente.
+
+--- C\'est sans doute à partir de ce jour-là que les cruautés ont commencé ? Tongané hésite.
+
+--- Je ne sais pas, avoue-t-il.
+
+--- Et ce Blanc, demande Mlle Mornas, te souviens-tu de son nom ?
+
+À ce moment, un bruit venu de l\'extérieur couvre la voix de Tongané. J\'ignore ce qu\'il répond. Ça m\'est égal, après tout. Quelle qu\'elle soit, cette histoire-là n\'est plus d\'actualité, et ne m\'intéresse pas beaucoup, par conséquent.
+
+Mlle Mornas reprend :
+
+--- Après que les Anglais eurent tiré sur vous, qu\'es-tu devenu ?
+
+--- Je vous l\'ai dit à Dakar où vous m\'avez engagé, répond Tongané. Moi et beaucoup d\'autres, nous avons eu peur, et nous nous sommes sauvés dans la brousse. Puis je suis revenu, mais il n\'y avait plus personne à l\'endroit où l\'on s\'était battu. Il n\'y avait plus que les morts. J\'en ai enterré quelques-uns, ceux qui étaient mes amis, et aussi le chef, le capitaine Buxton\...
+
+J\'entends à cet endroit une exclamation étouffée.
+
+--- Après cela, continue Tongané, j\'ai erré de village en village et j\'ai atteint le Niger.
+
+Je l\'ai remonté dans une pirogue que j\'avais volée, et je suis arrivé enfin à Tombouctou, juste comme les Français y entraient. J\'avais mis près de cinq ans à faire le voyage. À Tombouctou, je me suis engagé comme tirailleur, et, quand j\'ai été libéré, j\'ai gagné le Sénégal, où vous m\'avez rencontré.
+
+Après un instant de silence, Mlle Mornas demande :
+
+--- Alors, le capitaine Buxton était mort ?
+
+--- Oui, maîtresse.
+
+--- Et c\'est toi qui l\'as enterré ?
+
+--- Oui, maîtresse.
+
+--- Tu sais donc où est sa tombe ?
+
+Tongané rit.
+
+--- Bien sûr, dit-il. J\'irais les yeux fermés.
+
+Encore un silence, puis j\'entends :
+
+--- Bonsoir, Tongané.
+
+--- Bonsoir, maîtresse, répond le nègre, qui sort de la tente et s\'éloigne.
+
+Mlle Mornas va se coucher, et moi j\'en fais autant sans plus lambiner. Mais, à peine ai-je soufflé ma lanterne, que la mémoire me revient.
+
+Buxton ?\... Parbleu ! Je ne connais que ça ! Où donc avais-je la tête ? Quel admirable reportage j\'ai manqué, ce jour-là !
+
+J\'étais au *Diderot* à cette époque déjà reculée, et -- qu\'on excuse ces souvenirs personnels -- j\'avais proposé à mon directeur d\'aller interviewer sur le théâtre même de ses crimes le capitaine révolté. Pendant des mois il recula devant les frais. Que voulez-vous ? Tout le monde n\'a pas le sens de l\'actualité. Quand il consentit enfin, il était trop tard.
+
+J\'appris à Bordeaux, au moment de m\'embarquer, que le capitaine Buxton était mort.
+
+Maintenant, tout ça, c\'est de l\'histoire ancienne et vous me demanderez peut-être pourquoi je vous ai raconté cette conversation surprise entre Tongané et sa maîtresse ?\... Vraiment, je ne le sais pas moi-même.
+
+Le 8 décembre, je trouve encore sur mon carnet le nom de Saint-Bérain. Il est inépuisable, Saint-Bérain. Cette fois, c\'est un rien, mais ce rien nous a beaucoup amusés. Puisse-t-il vous dérider quelques minutes !
+
+Nous cheminions depuis deux heures à la première étape du matin, quand voilà Saint-Bérain qui pousse tout à coup des cris inarticulés et se trémousse sur son cheval de la manière la plus hilarante. Nous commençons déjà à rire, de confiance. Mais Saint-Bérain ne rit pas, lui. Péniblement, il met pied à terre et porte la main à cette partie de son individu sur laquelle il a coutume de s\'asseoir, le tout en se livrant à des contorsions inexplicables.
+
+On s\'empresse. On s\'informe. Que lui est-il arrivé ?
+
+--- Les hameçons ! murmure Saint-Bérain d\'une voix mourante.
+
+Les hameçons ?\... Cela ne nous dit rien. C\'est seulement plus tard, quand le dégât eut été réparé, que le sens de cette exclamation nous fut révélé.
+
+On n\'a peut-être pas oublié que, au moment où nous quittions Conakry, Saint-Bérain, rappelé à l\'ordre par sa tante -- ou sa nièce -- s\'était hâté d\'accourir, en fourrant à pleines mains dans ses poches des hameçons qu\'il venait d\'acheter. Naturellement, il n\'y avait plus pensé. C\'étaient lesdits hameçons qui se vengeaient maintenant de ce sans gêne.
+
+Par suite d\'un faux mouvement, ils s\'étaient interposés entre la selle et le cavalier, et trois d\'entre eux s\'étaient implantés solidement dans la peau de leur propriétaire.
+
+Il faut l\'intervention du docteur Châtonnay pour délivrer Saint-Bérain. Trois coups de bistouri y suffisent, que le docteur ne se prive pas d\'accompagner de commentaires. Et il rit, que c\'est un plaisir !
+
+--- On peut dire que vous avez « mordu » ! s\'écrie-t-il d\'abord avec conviction, tout en procédant à l\'examen du champ opératoire.
+
+--- Aïe !\... fait, pour toute réponse, Saint-Bérain qui vient d\'être séparé du premier hameçon.
+
+--- Pour une belle pêche, c\'est une belle pêche ! Proclame au deuxième le docteur.
+
+--- Aïe !\... Crie derechef Saint-Bérain.
+
+Enfin, pour le troisième :
+
+--- Vous pouvez vous flatter d\'avoir pris la grosse pièce, aujourd\'hui, complimente l\'excellent docteur.
+
+--- Aïe !\... Soupire une dernière fois Saint-Bérain. L\'opération est terminée. Il n\'y a plus qu\'à panser le blessé, qui remonte ensuite à cheval, où il prendra, pendant deux jours, des attitudes très cocasses.
+
+Le 12 décembre, nous sommes arrivés à Boronya. Boronya serait un petit village comme les autres, s\'il n\'avait l\'avantage de posséder un chef particulièrement aimable. Ce chef, qui est tout jeune, car il n\'a guère plus de dix-sept ou dix-huit ans, gesticule beaucoup et distribue des coups de fouet aux curieux qui nous approchent de trop près. Il s\'élance au-devant de nous, une main sur son coeur, et nous fait mille protestations d\'amitié, que nous reconnaissons en lui offrant du sel, de la poudre et deux rasoirs.
+
+À la vue de ces trésors, il danse de joie.
+
+Pour nous remercier, il donne l\'ordre de construire, en dehors du village, des paillotes dans lesquelles nous pourrons coucher. Lorsque je prends possession de la mienne, je vois les nounou très occupés à aplanir et à fouler le sol, qu\'ils recouvrent de bouse de vache séchée. Je leur demande pourquoi le luxe de ce tapis ; ils me répondent que c\'est pour empêcher les vers blancs de sortir de terre. Je leur sais gré de l\'attention, et les en récompense d\'une poignée de cauries[[\[1\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn1053){#_ftnref1053 .pcalibre2 .pcalibre1}. Ils en sont tellement enchantés qu\'ils s\'empressent de cracher sur les murs et d\'étaler leurs crachats avec la paume de la main. Saint-Bérain, qui doit partager ma case -- et qui est là par hasard ! -- me dit que, ce qu\'ils en font, c\'est pour m\'honorer. Grand merci !
+
+Le 13 décembre, dans la matinée, nous atteignons Timbo sans autre incident. Cette agglomération, la plus importante de celles que nous avons traversées jusqu\'ici, est entourée d\'un *tata*, c\'est-à-dire d\'un mur en pisé, d\'épaisseur variable selon les contrées, derrière lequel est élevé un échafaudage en bois qui sert de chemin de ronde.
+
+La *tata* de Timbo contient en réalité trois villages, séparés les uns des autres par de vastes espaces cultivés ou boisés, où les animaux domestiques flânent en liberté. Dans chacun de ces villages, il y a un petit marché quotidien, mais dans le plus étendu se tient un grand marché hebdomadaire.
+
+Une case sur quatre est inoccupée. Elle est remplie d\'immondices, d\'ordres variées, ainsi, d\'ailleurs, que les rues.
+
+Il est hors de doute que ce pays manque de balayeurs. Et autant que malpropre il est pauvre. Nous avons vu des enfants, la plupart d\'une maigreur de squelettes, chercher leur nourriture dans le fumier. Quant aux femmes, elles sont d\'une laideur repoussante.
+
+Cela, du reste, ne les empêche pas d\'être coquettes. Comme c\'était jour de marché, les plus riches de l\'endroit s\'étaient mises sur leur trente et un. En toilette « habillée », elles portent un pagne bleu rayé de blanc, le haut du corps étant enveloppé d\'une pièce de calicot blanc ou de mauvais florence aux couleurs éclatantes, leurs oreilles sont chargées de lourds anneaux de métal soutenus par des chaînettes d\'argent entrecroisées sur le dessus de la tête, et des bracelets et des colliers en corail ou en perles fausses décorent leurs cous, leurs poignets et leurs chevilles.
+
+Presque toutes ont des coiffures en forme de casque. Certaines ont les pariétaux rasés et un cimier de cheveux orné de verroterie sur le sommet du crâne. D\'autres sont complètement rasées. Les plus élégantes se font une tête de clown : toupet pointu et deux larges coques latérales. À leur façon d\'arranger leur chevelure, on doit, paraît-il, reconnaître à quelle race elles appartiennent, peuls, mandé, bambara, etc. Mais je ne suis pas de cette force, et j\'abrège ces détails ethnographiques, sur lesquels M. Tassin doit, à son retour, s\'étendre dans un livre qui sera, à tout le moins, sérieusement documenté.
+
+Les hommes sont vêtus de brayes, de blouses blanches ou de pagnes. Ils ornent leurs crânes des couvre-chefs les plus divers, depuis la chéchia jusqu\'au chapeau de paille, en passant par le bonnet orné de ferblanterie ou de losanges d\'étoffes de couleur.
+
+Pour vous saluer, ils se frappent la cuisse de la paume de la main pendant cinq bonnes minutes, en répétant le mot dagaré, qui doit, comme *Ini-tié*, signifier « bonjour », ou bien *Ini Sou-Khou-ma*, qui le signifie certainement.
+
+Nous nous rendons au grand marché, où nous trouvons réunie toute l\'aristocratie de Timbo. Les vendeurs y sont installés depuis huit heures du matin dans deux rangées de paillotes, ou seulement assis sous des nattes soutenues par quatre piquets, mais le beau monde n\'y arrive que vers onze heures.
+
+On y vend un peu de tout : du mil, du riz, du beurre de karité à 0 fr. 50 centimes le kilo, du sel à raison de 11 fr. 50 la barre de vingt-cinq kilos, des boeufs, des chèvres, des moutons, des poulets à 3 fr. 30 la pièce, ce qui n\'est pas donné, des fusils à pierre, des noix de kola, du tabac, des *koyos* ou bandes pour pagne, des *niomi*, galettes de farine de mil ou de maïs frites, des étoffes variées : guinée, calicot, des chapeaux, des turbans, du fil, des aiguilles, des épingles, de la poudre, des pierres à fusil, etc., et enfin, bien étalés sur des peaux desséchées, de petits tas de viande pourrie d\'une odeur *sui generis*, pour les gourmets.
+
+Timbo est, comme je vous l\'ai dit, le premier centre un peu important que nous rencontrons. Aussi y sommes-nous restés deux jours, les 13 et 14 décembre. Ce n\'est pas que nous soyons extrêmement fatigués, mais les animaux et les porteurs, ces autres bêtes de somme, manifestent une lassitude parfaitement légitime.
+
+Pendant ces quarante-huit heures, nous avons fait, les uns et les autres, de nombreuses promenades dans l\'enceinte du tata. J\'ai consigné ci-dessus l\'essentiel de mes observations.
+
+N\'attendez pas de moi de plus amples descriptions, que vous trouverez sans peine, au surplus, dans les traités spéciaux. Mon rôle à moi, c\'est d\'être l\'historiographe de la mission Barsac, et ce rôle me plaît. Clio m\'inspire, mais je n\'ai pas l\'âme d\'un géographe. Que cela soit dit une fois pour toutes.
+
+Le lendemain de notre arrivée, le 14, par conséquent, nous avons été fort inquiets au sujet de notre guide. Pendant toute la journée, on le chercha vainement. Moriliré avait disparu.
+
+Rassurez-vous. Le 15 décembre, au moment du départ, il était à son poste, et, quand nous nous réveillâmes, il avait déjà distribué une suffisante quantité de coups de gourdin pour que les âniers ne missent pas en doute la réalité de sa présence. Questionné par M. Barsac, Moriliré soutint mordicus n\'avoir pas quitté le camp de toute la journée de la veille. Comme nous n\'avions, en somme, aucune certitude, et la chose étant, d\'ailleurs, sans importance, car, Moriliré est bien excusable, après tout, d\'avoir voulu tirer ce que les marins appellent une « bordée », on n\'insista pas, et l\'incident fut clos.
+
+Nous quittons donc Timbo le 15 décembre, à l\'heure habituelle, et notre voyage se poursuit toute la journée sans difficulté particulière, et selon l\'horaire accoutumé. Il y a lieu de noter, cependant, que les pieds de nos chevaux ne foulent plus le sol de la route qui nous a conduits jusqu\'ici. La route, au-delà de Timbo, se transforme progressivement en un simple sentier. C\'est donc à partir de Timbo que nous devenons vraiment des explorateurs.
+
+Autre changement : le pays est maintenant accidenté. Ce ne sont que montées et descentes.
+
+Au sortir de Timbo, il nous faut d\'abord gravir une colline assez haute que nous devons ensuite descendre. À la colline succède une plaine, puis c\'est une nouvelle montée, jusqu\'au village de Daouhériko, aux abords duquel nous devons nous arrêter afin de camper pour la nuit.
+
+Gens et animaux étant bien reposés, le train est plus rapide que de coutume, et il n\'est pas six heures du soir quand nous arrivons à ce village. Les manifestations les plus amicales nous y attendaient. Le chef vint au-devant de nous et nous offrit des présents. M. Barsac le remercia. Des cris de bienvenue lui répondirent.
+
+--- Ils ne sont pas plus chauds pour moi à Aix, quand je passe sur le cours Sextius, dit M. Barsac avec satisfaction. J\'en étais sûr. Il n\'y a qu\'à leur parler.
+
+Il semble bien qu\'il ait raison, M. Barsac, malgré que M. Baudrières hoche la tête d\'un air sceptique.
+
+Cependant, le chef du village continuait ses amabilités. Il offrait de nous loger dans les plus belles cases du village, priait notre compagne d\'accepter l\'hospitalité dans sa propre demeure. Cet accueil chaleureux nous allait au coeur, et la suite de notre voyage nous apparaissait en rose, lorsque Malik, s\'approchant de Mlle Mornas, lui dit rapidement à voix basse :
+
+--- Toi pas aller, maîtresse ! Sans ça, toi mourir !
+
+Mlle Mornas regarde la petite négresse avec stupéfaction. Il va de soi que j\'ai entendu, comme c\'est le devoir d\'un reporter qui se respecte. Mais le capitaine Marcenay a entendu, lui aussi, bien que ce ne soit pas son métier. D\'abord, il paraît surpris.
+
+Puis, après une courte réflexion, il se décide.
+
+Il se débarrasse en deux temps des importunités du chef et donne des ordres pour l\'installation du camp. Je l\'écoute, et conclus que nous serons bien gardés.
+
+Ces précautions me font réfléchir. Le capitaine, qui a la pratique du pays noir, y croit donc, à ce danger signalé par Malik ?
+
+Alors ?
+
+Alors, je me pose cette question avant de m\'endormir : « Qui a raison, M. Barsac ou M. Baudrières ? » Peut-être le saurai-je demain. En attendant, je suis perplexe.
+
+Amédée Florence.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6 -- Troisième article de M. Amédée Florence]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942906 .pcalibre2 .pcalibre1} {#chapitre-6-troisième-article-de-m.-amédée-florence .calibre171 .sigil_not_in_toc}
+
+Le troisième article de son envoyé spécial auprès de la mission Barsac fut publié le 5 février par l\'Expansion française. Pour des raisons qu\'on ne tardera pas à connaître, ce fut le dernier que ce journal reçut jamais de son habile reporter. Par suite, les lecteurs de l\'Expansion française durent rester de longs mois avant de connaître le mot de l\'énigme que posait M. Amédée Florence dans les dernières lignes de son article, énigme dont ce récit donnera la complète solution.
+
+
+LA MISSION BARSAC
+
+(Par dépêche de notre envoyé spécial)
+
+Ce que craignait Malik -- Le *doung-kono* --
+
+Soyons amis, Cinna -- La Gueule-Tapée --
+
+Le baptême de M. Aliboron -- Patience !
+
+Kankan -- Un sorcier -- Raisonnons -
+
+Des bruits dans la nuit
+
+
+*Kankan, le 24 décembre.* -- Nous sommes arrivés ici hier matin, et nous en repartons demain matin, jour de Noël.
+
+Noël !\... Ma pensée se reporte vers la patrie, dont nous sommes si loin. (Six cent cinquante kilomètres depuis Conakry, d\'après l\'infaillible M. Tassin.) Je songe, avec une volupté que je ne croyais pas possible, aux plaines couvertes de neige, et, pour la première fois depuis bien des années, j\'éprouve un violent désir de mettre mes souliers dans la cheminée, ce qui prouverait, du moins, que j\'en ai une.
+
+Mais ne nous attendrissons pas, et reprenons au point où nous les avons laissés ces fastes de la mission Barsac.
+
+Donc, je vous ai raconté dans mon article précédent qu\'au moment où le chef et les habitants de Daouhériko nous invitaient à accepter leur hospitalité, Malik avait dit dans son langage à Mlle Mornas :
+
+--- N\'y allez pas ! Il y va de la vie !
+
+Sur cette phrase, entendue par le capitaine, il avait été décidé que nous camperions en dehors du village, à l\'endroit même où nous nous étions arrêtés. Le capitaine Marcenay, après avoir conféré avec Malik, donna les ordres que comportait la situation et engagea les indigènes à s\'éloigner. Ils ne le firent pas sans protester de leurs bonnes intentions à notre égard, mais le capitaine ne se laissa pas influencer, et les invita avec fermeté à rentrer chez eux et à ne pas s\'approcher à moins de cinq cents mètres de notre camp. On verra bientôt que ces précautions n\'étaient pas inutiles.
+
+M. Baudrières, fidèle ami de la prudence, approuva hautement le parti adopté, bien qu\'il n\'en connût pas la raison. Par contre, M. Barsac, qui se voyait déjà porté en triomphe sous des arcs de feuillages ornés de rubans tricolores, ne put cacher son dépit.
+
+Aussitôt que les indigènes se furent retirés, il s\'avança vers le capitaine Marcenay, qui se trouvait à deux pas de moi, ce qui me permit de ne rien perdre de la scène, et lui demanda d\'un ton bref où perçait une sourde colère :
+
+--- Qui donc commande ici, capitaine ?
+
+--- Vous, monsieur le député, dit l\'officier, froid mais poli.
+
+--- Dans ce cas, pourquoi avez-vous, sans me demander mon avis, donné l\'ordre de camper, au lieu de loger chez les habitants, et de chasser ces braves nègres, animés pour nous des meilleures intentions ?
+
+Le capitaine prit un temps, comme on dit au théâtre, et répondit avec calme :
+
+--- Monsieur le député, si, en votre qualité de chef de la mission, vous en choisissez l\'itinéraire et en réglez la marche à votre gré, j\'ai, moi aussi, un devoir à remplir, celui de vous protéger. Il est certain que j\'aurais dû vous prévenir et vous faire connaître les motifs de ma conduite, mais j\'ai voulu d\'abord aller au plus pressé. Je vous prie donc de m\'excuser, si j\'ai négligé cette\...
+
+Jusqu\'ici, c\'est très bien. Le capitaine Marcenay s\'est excusé de sa faute, et M. Barsac peut se considérer comme satisfait. Malheureusement -- et il est possible qu\'une rivalité d\'un autre ordre n\'y soit pas étrangère -- le capitaine est nerveux, quoiqu\'il se contraigne, et il va lâcher un mot maladroit qui mettra le feu aux poudres.
+
+--- Si j\'ai négligé cette formalité, achève-t-il.
+
+--- Formalité ! Répète M. Barsac, rouge de colère.
+
+Il est du Midi, M. Barsac, et les gens du Midi sont réputés pour avoir du vif-argent dans les veines. Je sens que les sottises vont commencer.
+
+M. Barsac reprend, tout frémissant :
+
+--- Et maintenant, du moins, daignerez-vous me les faire connaître, ces motifs qui doivent être bien puissants pour vous avoir ému à ce point ?
+
+Là, qu\'est-ce que je disais, voilà que ça se gâte. C\'est au tour du capitaine d\'être vexé. Il réplique d\'un ton sec.
+
+--- J\'avais appris qu\'un complot se tramait contre nous.
+
+--- Un complot ! S\'exclame ironiquement M. Barsac. Parmi ces braves nègres ! À trente-cinq kilomètres de Timbo ! En vérité ! Et qui donc vous l\'a révélé, ce\... Complot ?
+
+Il faut voir comment M. Barsac prononce : complot ! Il gonfle les joues, roule les yeux. Dieu ! Qu\'il est de Marseille, en ce moment !
+
+--- Malik, répond laconiquement le capitaine.
+
+M. Barsac se met à rire. De quel rire !
+
+--- Malik ! Cette petite esclave que j\'ai payée vingt-cinq sous !
+
+M. Barsac exagère. D\'abord, Malik n\'est pas une esclave, vu qu\'il n\'y a pas d\'esclave en territoire français. Un député devrait savoir ça. Et puis, Malik est une femme très chère. C\'est bel et bien vingt-cinq francs qu\'elle a coûté, plus un vieux fusil et une pièce d\'étoffe.
+
+Cependant, M. Barsac continue.
+
+---\... Vingt-cinq sous ! Voilà une belle autorité, en effet, et je conçois que vous ayez eu peur\...
+
+Le capitaine a senti le coup. Au mot « peur », il a fait la grimace. Il se domine, mais on sent qu\'il est furieux en dedans.
+
+--- Vous me permettrez de ne pas partager vos craintes, poursuit cependant M. Barsac, qui se monte de plus en plus. Je tiens à être un héros, moi. Je vais donc aller au village, y coucher, et conquérir ce repaire à moi tout seul.
+
+Nous voici au moment des vraies bêtises. Je l\'avais prévu.
+
+--- Je ne vous le conseille pas, réplique le capitaine du tac au tac. J\'ignore si Malik s\'est ou non trompée, mais, dans le doute, j\'ai pris le parti qu\'exigeait la prudence. Je suis responsable de votre sécurité, je vous l\'ai dit. Mes instructions, sur ce point, sont formelles, et je n\'y faillirai pas, fût-ce, au besoin, malgré vous.
+
+--- Malgré moi !
+
+--- Si donc vous tentiez d\'enfreindre les ordres du commandant militaire, et si vous sortiez du camp, j\'aurais le regret de vous consigner dans votre tente sous bonne garde.
+
+Et maintenant, serviteur, monsieur le Député. Je dois veiller à l\'installation du camp, et n\'ai pas le loisir de discuter davantage. J\'ai bien l\'honneur de vous saluer.
+
+Là-dessus, le capitaine porte la main à son képi, exécute un demi-tour à droite des plus réglementaires, et s\'éloigne, laissant le député du Midi à deux doigts d\'une attaque d\'apoplexie.
+
+D\'ailleurs, pour être franc, je n\'en mène pas large, moi non plus.
+
+La colère de M. Barsac est d\'autant plus grande que cette scène se passe en présence de Mlle Mornas. Il va s\'élancer à la suite du capitaine dans l\'intention évidente de lui chercher une querelle qui pourrait avoir un dénouement tragique, lorsque notre aimable compagne l\'arrête d\'un mot :
+
+--- Restez là, monsieur Barsac, dit-elle. Le capitaine a eu tort, il est vrai, de ne pas vous prévenir, mais il s\'en est excusé, et, à votre tour, vous l\'avez blessé. Pour le surplus, en vous protégeant malgré vous-même, il accomplit son devoir, au risque de s\'attirer votre courroux et de nuire à son avancement. Si vous étiez un peu généreux, vous devriez le remercier.
+
+--- C\'est trop fort !
+
+--- Reprenez votre calme, je vous en prie, et écoutez-moi. Je viens de causer avec Malik. C\'est elle qui a donné l\'éveil à M. Marcenay et l\'a informé du complot qui se préparait contre nous. Avez-vous entendu parler du *doung-kono* ?
+
+M. Barsac secoue négativement la tête. Il n\'écume plus, mais il boude.
+
+--- Je le sais, moi interrompt le docteur Châtonnay, qui s\'est rapproché. C\'est un poison mortel qui a cette particularité de ne tuer ses victimes qu\'au bout d\'une huitaine de jours.
+
+Savez-vous comment on l\'obtient ? C\'est assez curieux.
+
+M. Barsac n\'a pas l\'air d\'entendre. Le volcan éteint fume encore. Mlle Mornas répond pour lui.
+
+--- Non, docteur.
+
+--- Je vais tâcher de vous l\'expliquer, dit le docteur Châtonnay non sans une certaine hésitation, bien que ce soit très délicat\... Enfin ! Allons-y !\... Sachez donc que, pour fabriquer du *doung-kono*, on prend une tige de petit mil (en nègre, *samo*) qu\'on introduit dans l\'intestin d\'un cadavre. Vingt jours après, on la retire, on la fait sécher, on la pile. La poudre ainsi obtenue est versée dans du lait, dans une sauce, dans du vin, ou dans toute autre boisson, et, comme elle n\'a aucun goût, on l\'avale sans s\'en apercevoir. Huit à dix jours plus tard, on enfle. L\'abdomen surtout se gonfle d\'une façon incroyable. Au bout de vingt-quatre heures, on succombe, et rien, pas un contrepoison, pas un remède, ne peut vous arracher à ce destin funeste, qui,
+
+
+*S\'il n\'est digne d\'Atrée, est digne de Thyeste !*
+
+*\*
+
+Bon ! Encore un vers ! Je vois bien qu\'il rime, parbleu, mais à quoi ?
+
+--- Voici maintenant, dit à son tour Mlle Mornas, le complot tramé par les habitants du village. En arrivant ici, Malik a entendu le chef de Daouhériko en parler avec d\'autres chefs du voisinage. Dolo Saron, c\'est le nom de ce roitelet, devait nous faire une réception amicale, un accueil des plus cordiaux, nous inviter à aller les uns dans sa maison, les autres dans celles de ses complices. Là, on nous aurait offert quelques mets ou quelque boisson du pays que nous n\'aurions pas refusés. Pendant ce temps, on aurait fait boire les soldats.
+
+Demain, nous repartions sans nous être aperçus de rien, et, dans quelques jours, nous aurions commencé à ressentir les premières atteintes du poison. Bien entendu, tous les nègres des alentours auraient guetté ce moment, et, notre convoi désorganisé, ils auraient pillé nos bagages, auraient emmené nos âniers et nos porteurs en esclavage, se seraient emparés de nos chevaux et de nos ânes. Malik a surpris ce complot, en a avisé le capitaine Marcenay et vous savez le reste.
+
+On pense si nous sommes émus par ce récit. M. Barsac est consterné.
+
+--- Hein ! Quand je vous le disais ! fait M. Baudrières d\'un air triomphant. Les voilà, vos populations civilisées ! De fameux gredins !
+
+--- Je n\'en reviens pas, gémit M. Barsac. Je suis atterré, littéralement atterré ! Ce Dolo Sarron, avec son air bonhomme ! Ah ! Mais ! Nous allons rire ! Dès demain, je fais brûler ce village, et, quant à ce misérable Dolo Sarron !
+
+--- Y pensez-vous, monsieur Barsac ! s\'écria Mlle Mornas. Songez que nous avons à parcourir des centaines et de centaines de kilomètres. La prudence\...
+
+M. Baudrières interrompt. Il demande :
+
+--- Est-il bien nécessaire de nous obstiner dans ce voyage ? Cette question a été posée : « Les populations de la boucle du Niger sont-elles ou non suffisamment civilisées pour que des droits politiques puissent leur être accordés ? » Il me semble que nous connaissons la réponse. L\'expérience de ces quelques jours, et notamment celle de ce soir, doit nous suffire.
+
+Ainsi attaqué, M. Barsac se reprend. Il se redresse. Il va parler, il parle\... Mlle Mornas le prévient.
+
+--- M. Baudrières n\'est pas très exigeant, dit-elle. Pareil à l\'Anglais qui prétendait que toutes les Françaises sont rousses, parce qu\'il en avait rencontré une de cette couleur en débarquant à Calais. Il juge tout un peuple sur quelques malfaiteurs. Comme s\'il ne se commettait pas de crimes en Europe !
+
+M. Barsac approuve avec conviction. Mais la langue lui démange. Il s\'empare de la parole.
+
+--- Très juste ! s\'écrie-t-il. Mais il est, messieurs, une autre face de la question. Serait-il admissible que des représentants de la République, à peine au seuil d\'une vaste entreprise, se laissassent\...
+
+Il parle bien, M. Barsac.
+
+---\... Se laissassent décourager dès les premiers pas comme des enfants peureux ? Non, messieurs, ceux qui ont l\'honneur de porter le drapeau de la France doivent posséder un ferme bon sens et un courage que rien n\'abat. Ainsi, ils apprécieront sainement la gravité des dangers qu\'ils peuvent courir, et, ces dangers exactement reconnus, ils leur feront face sans pâlir. Mais ces pionniers de la civilisation\...
+
+Par le Ciel, c\'est un discours ! En voilà pour quelque temps !
+
+---\... Ces pionniers de la civilisation doivent, par-dessus tout, faire preuve de circonspection et ne pas se hâter de porter un jugement d\'ensemble sur toute une immense contrée, en se basant sur un fait unique, dont la réalité même n\'est pas certaine. Ainsi que l\'a dit excellemment le précédent orateur\...
+
+Le précédent orateur, c\'est Mlle Mornas, tout simplement. Il sourit, le précédent orateur, et, pour couper court à ce flot d\'éloquence, s\'empresse d\'applaudir à grand bruit.
+
+Nous applaudissons tous à son exemple, hors M. Baudrières, cela va de soi.
+
+--- La cause est entendue, dit Mlle Mornas au milieu du vacarme, et le voyage continue. Je répète donc que la prudence nous commande d\'éviter toute effusion de sang qui pourrait entraîner des représailles. Si nous sommes sages, nous aurons pour principal objectif de cheminer paisiblement. C\'est du moins l\'avis de M. Marcenay.
+
+--- Oh ! Alors ! Si c\'est l\'avis de M. Marcenay ! Approuve M. Barsac, moitié figue, moitié raisin.
+
+--- Ne prenez pas votre air ironique, monsieur Barsac, réplique Mlle Mornas. Vous feriez bien mieux d\'aller trouver le capitaine, que vous avez passablement rabroué tout à l\'heure, et de lui tendre la main. En somme, peut-être lui devons-nous la vie.
+
+M. Barsac a la tête chaude, mais c\'est un brave et excellent homme. Il hésita juste ce qu\'il fallait pour donner du prix à son sacrifice, puis se dirigea vers le capitaine Marcenay qui achevait d\'organiser la garde du camp.
+
+--- Capitaine, un mot, lui dit-il.
+
+--- À vos ordres, monsieur le député, répondit l\'officier en prenant la position militaire.
+
+--- Capitaine, continue M. Barsac, nous avons eu tort l\'un et l\'autre, tout à l\'heure, mais moi plus que vous. Je vous prie donc de m\'excuser. Voulez-vous me faire l\'honneur de me donner la main ?
+
+Cela fut dit avec beaucoup de dignité et n\'eut rien d\'humiliant, je vous assure. M. Marcenay en fut tout ému.
+
+--- Ah ! Monsieur le député, fit-il, c\'est trop ! J\'avais déjà tout oublié !
+
+Ils se serrèrent la main, et je crois que, jusqu\'à nouvel ordre, les voilà les meilleurs amis du monde.
+
+L\'incident Barsac-Marcenay terminé à la satisfaction générale, chacun de nous se retira sous l\'abri qui lui était destiné.
+
+J\'allais donc me coucher, lorsque je m\'aperçus que, suivant sa coutume, M. De Saint-Bérain n\'était pas là. Était-il donc sorti du camp, malgré la consigne ?
+
+Sans prévenir mes compagnons de voyage, je me mis à sa recherche. J\'eus la chance de rencontrer tout de suite son domestique, Tongané, qui me dit : -- Toi vouloir voir mossié Agénor ? Toi venir doucement. Nous voir lui cachément. Lui beaucoup rigolo !
+
+Tongané me conduisit au bord d\'un petit cours d\'eau, en deçà de la ligne des sentinelles, et, dissimulé derrière un baobab, je vis, en effet, Saint-Bérain. Il paraissait fort occupé et tenait entre ses doigts un animal que je ne distinguais pas bien.
+
+--- Y en *a ntori*, me dit Tongané. Un *ntori*, c\'est un crapaud.
+
+Saint-Bérain ouvrit largement la gueule de la bête, et lui introduisit dans le corps une tige d\'acier effilée à ses deux extrémités. Au milieu était attachée une forte ficelle, dont il tenait l\'autre bout.
+
+Le plus singulier, c\'est que, pendant toute cette opération, Saint-Bérain ne cessa pas un instant de pousser des soupirs à fendre l\'âme. Il avait l\'air de cruellement souffrir, et je n\'y comprenais rien. J\'ai eu, depuis, le mot de l\'énigme. Saint-Bérain souffrait, en effet, mais seulement d\'infliger au malheureux *ntori* un traitement si barbare. Pendant qu\'il cédait à sa passion pour la pêche, sa sensibilité protestait.
+
+Après avoir déposé le crapaud dans les herbes de la rive, il se blottit derrière un arbre, un gros bâton à la main, et attendit. Nous fîmes comme lui.
+
+Nous n\'eûmes pas à attendre longtemps.
+
+Presque aussitôt, un animal bizarre, une sorte d\'énorme lézard, apparut. -- Toi voir, me dit Tongané à voix basse, y en a belle « gueule-tapée » !
+
+Gueule-tapée ?\... Le docteur me dit le lendemain qu\'on désigne ainsi une variété d\'iguane.
+
+La gueule-tapée, donc, avala le crapaud, puis voulut retourner à l\'eau. Se sentant alors retenue par la ficelle, elle se débattit, et les pointes d\'acier lui pénétrèrent dans les chairs. Elle était prise. Saint-Bérain tira l\'animal à lui, et leva son bâton\...
+
+Qu\'est-ce à dire ? Le bâton retombe sans force, tandis que Saint-Bérain pousse un véritable gémissement\... Une fois, deux fois, trois fois, le bâton se lève menaçant ; une fois, deux fois, trois fois, il retombe inoffensif, avec accompagnement d\'un lamentable soupir.
+
+Tongané perd patience. Il s\'élance hors de notre cachette, et c\'est lui qui, d\'un coup vigoureux, met fin à l\'incertitude de son maître et aux jours de la gueule-tapée, qui n\'avait jamais aussi bien mérité son nom.
+
+Saint-Bérain pousse encore un soupir, de satisfaction cette fois. Déjà Tongané s\'est emparé de l\'iguane.
+
+--- Demain, dit-il, y en a manger queule-tapée. Moi faire cuire. Y aura beaucoup bon.
+
+Il y eut « beaucoup bon », en effet.
+
+Le 16 décembre, nous repartîmes dès l\'aube. Nous contournâmes d\'abord la ville, où l\'on apercevait peu d\'habitants à cette heure matinale. Ce vieux mécréant de Dolo Sarron nous regarda défiler, et je crus le voir esquisser à notre adresse un geste de menace.
+
+À un kilomètre de là, nous traversâmes un bois composé de karités, de ntabas et de bans, à ce que nous apprit le docteur Châtonnay.
+
+--- Le ntaba, nous dit-il, est un ficus de grandes dimensions.
+
+Ses feuilles, larges de vingt-cinq à trente centimètres, sont employées pour abriter les campements. Ses fruits, qui mûrissent en juin, renferment trois ou quatre gros haricots qui baignent dans un jus très sucré. Les indigènes s\'en régalent. Nous autres Européens, nous préférons le fruit du saba, qui rappelle notre cerise. Quant au ban, dont le fruit, vous le voyez, ressemble à notre pomme de pin, c\'est un palmier. Ses branches sont employées à construire des toits de cases, des paniers servant aux transports, comme nous en avons quelques modèles dans notre convoi. Avec les feuilles, on fabrique des chapeaux, des nattes, des sacs à marchandises. Enfin, les branches séchées et fendillées font des torches excellentes. C\'est avec ces torches, d\'ailleurs, que nous nous éclairons.
+
+Un peu avant neuf heures, le sentier fut coupé par une rivière, où grouillaient, comme d\'habitude, hippopotames et caïmans. Il nous fallut la traverser à gué. Je remarquai alors que c\'était la première fois que nous étions dans ce cas. Jusqu\'ici, ou bien nous avions trouvé des ponts, ou bien les eaux étaient si basses que c\'est tout juste si nos montures avaient pu y tremper leurs sabots. Cette fois, c\'était différent, nous avions devant nous une véritable rivière.
+
+Par bonheur, son niveau était moins haut que nous ne l\'avions craint. Nos chevaux furent mouillés à peine jusqu\'au poitrail, et notre passage s\'accomplit sans difficulté.
+
+Mais, pour les ânes, ce fut une autre chanson. Lorsque ces animaux, d\'ailleurs très chargés, eurent atteint le milieu de la rivière, ils s\'arrêtèrent d\'un commun accord. Les âniers s\'efforcèrent vainement de les faire avancer.
+
+Ils se montrèrent aussi insensibles aux cris d\'encouragement qu\'aux coups de bâton.
+
+--- Ah ! Moi connaître, fit l\'un des âniers. Eux vouloir baptême.
+
+--- Oui ! Oui ! répondirent ses collègues. Eux attendre baptême.
+
+Chacun d\'eux se baissant alors prit dans ses mains un peu d\'eau, qu\'il versa sur la tête des animaux dont il avait la garde, tout en prononçant des mots inintelligibles.
+
+--- C\'est, expliqua M. Tassin, un usage immémorial dans ces pays. Au premier gué qu\'il faut traverser, la règle est de baptiser les ânes. Vous allez voir que, maintenant que les rites sont accomplis, ils vont repartir sans difficulté.
+
+Ce ne fut pas long, en effet.
+
+Il faisait près de trente degrés à l\'ombre. Les ânes, qui avaient probablement trouvé agréable la fraîcheur de l\'eau, pensèrent sans doute qu\'un bon bain leur serait plus agréable encore. Après deux ou trois joyeuses pétarades, ils se renversèrent gaiement dans la rivière, et se roulèrent avec tant de plaisir que leurs charges mal attachées commencèrent à s\'en aller à la dérive.
+
+Il fallut les repêcher. Les âniers s\'y employèrent avec la sage lenteur qui les caractérise, de sorte que, sans les soldats du capitaine Marcenay, nous aurions perdu la moitié de nos provisions, de nos cadeaux, de nos marchandises d\'échange, ce qui eût été un irréparable malheur.
+
+Comme M. Barsac exhalait son impatience et sa mauvaise humeur en termes violents et qu\'il apostrophait d\'épithètes provençales mais injurieuses les âniers flegmatiques, Moriliré s\'approcha de lui :
+
+--- *Mani Tigui* (commandant), lui dit-il doucement, toi pas crier.
+
+--- Que je ne me mette pas en colère !
+
+Quand ces animaux-là vont me noyer pour cent mille francs de marchandises !
+
+--- Pas bon, reprit le guide. Toi, beaucoup patience. Si charges tomber, indigènes disputer, toi pas crier. Eux parler beaucoup, mais pas méchants. Après, y a beaucoup bon.
+
+Ce que je vous raconte là, pour exact que ce soit, ne vous amuse peut-être pas. S\'il en est ainsi, je n\'y peux rien. En m\'embarquant pour suivre la mission Barsac, je m\'attendais à un reportage passionnant, et je pensais vous envoyer de la copie bourrée d\'aventures fabuleuses. Ombres mystérieuses des forêts vierges, luttes contre la nature, combats contre les animaux féroces, batailles avec d\'innombrables armées de nègres, voilà de quoi étaient faits mes rêves. Il me faut déchanter. Nos forêts, c\'est la brousse, et nous ne nous heurtons à aucune difficulté naturelle. En fait d\'animaux, nous n\'avons guère vu que des hippopotames et des caïmans, fort nombreux, il est vrai, auxquels il convient d\'ajouter des troupeaux d\'antilopes et, par-ci par-là, quelques éléphants. Quant aux nègres altérés de carnage, nous ne rencontrons que des amis, si j\'en excepte ce vieux brigand de Dolo Sarron. C\'est un voyage très monotone.
+
+En quittant Daouhériko de fâcheuse mémoire, nous avons d\'abord gravi une côte, puis nous sommes redescendus sur Bagareya, dans la vallée du Timkisso. Je remarque à ce moment, faute d\'observation plus palpitante, que Tchoumouki a quitté l\'arrière-garde et marche en compagnie de Moriliré. Il y a donc de la brouille avec Tongané ? Tchoumouki et Moriliré causent ensemble, et semblent être les meilleurs amis du monde. Allons ! Tant mieux !
+
+Quant à Tongané, il n\'a pas l\'air de beaucoup regretter son camarade.
+
+À l\'arrière du convoi, il s\'entretient avec la petite Malik, et la conversation paraît fort animée. Une idylle, peut-être ?\...
+
+À partir de Bagareya, c\'est de nouveau la brousse, qui se dessèche de plus en plus, à mesure que nous nous éloignons de la saison des pluies, et c\'est de nouveau la plaine, que nous n\'abandonnerons plus, autant dire, jusqu\'à Kankan, que nous avons atteint hier, 23 décembre, et d\'où je date cet article.
+
+Dans la journée du 22, à Kouroussa, nous avons passé la Djoliba, que M. Tassin m\'affirme être le Niger, mais, à Kankan, nous retrouvons une autre rivière aussi importante qui se dirige vers la première, qu\'elle rejoint, paraît-il, à quatre-vingts kilomètres dans le Nord. Pourquoi ne serait-ce pas cette rivière, qu\'on nomme le Milo, qui serait le Niger véritable et authentique ? M. Tassin, non sans une expression assez méprisante, m\'affirme qu\'il n\'en est rien, mais il ne me dit pas pourquoi. Peu m\'importe, d\'ailleurs.
+
+Et les incidents ? Me direz-vous. Quoi ! Pendant ces neuf journées, il ne vous serait rien arrivé ?
+
+Rien du tout, ou si peu !
+
+J\'ai beau consulter à la loupe mon carnet de notes, je n\'y trouve que deux faits dignes, à la rigueur, d\'être relatés. Le premier est imperceptible. Quant à l\'autre\... Ah ! Dame ! L\'autre, je ne sais trop ce qu\'il faut en penser.
+
+Voici, d\'abord, le bref récit du premier.
+
+Trois jours après avoir quitté Daouhériko, nous cheminions sans fatigue entre les lougans assez bien cultivés, indice que nous approchions d\'un village, quand des indigènes croisant notre route donnèrent tout à coup des signes manifestes de peur et prirent la fuite.
+
+--- *Marfa* ! *Marfa* ! criaient-ils, tout en jouant des jambes.
+
+*Marfa* veut dire fusil en langage bambara.
+
+Or, nous comprendrons d\'autant moins le sens de ces exclamations, que, pour ne pas effrayer les nègres, il avait été décidé par le capitaine Marcenay que ses hommes dissimuleraient les leurs dans des gaines de cuir fauve ne rappelant en rien la forme des armes. Il n\'y avait donc pas de fusil apparent. D\'où venait cette terreur des nègres que nous croisions ?
+
+Nous nous le demandions en vain, lorsque nous entendîmes un fracas métallique suivi d\'un cri d\'indignation poussé par M. De Saint-Bérain.
+
+--- Les coquins ! Hurlait-il, furieux. Ils jettent des pierres sur mon étui à lignes ! Le voilà tout bosselé ! Attendez ! Attendez un peu, misérables ! On eut toutes les peines du monde à l\'empêcher de poursuivre ses agresseurs, et encore fallut-il que Mlle Mornas intervînt. Les nègres, voyant son bel étui nickelé étinceler au soleil, l\'avaient pris pour un canon de fusil. De là leur effroi.
+
+Pour éviter le retour de semblables méprises qui auraient pu nous attirer quelque méchante affaire, M. Barsac pria M. De Saint-Bérain de placer son trop brillant matériel dans les bagages, sur le dos d\'un âne. Mais il n\'y eut pas moyen de faire entendre raison à l\'obstiné pêcheur, qui déclara que pour rien au monde il ne se débarrasserait de ses lignes. Tout ce que l\'on put obtenir, ce fut qu\'il enveloppât son étui nickelé dans un lambeau d\'étoffe, de manière à en dissimuler l\'éclat.
+
+C\'est un type, mon ami Saint-Bérain.
+
+L\'autre fait se passe à Kankan, où nous sommes arrivés, avec douze heures de retard sur nos prévisions, dans la matinée du 23, à cause d\'un nouvelle fugue de Moriliré.
+
+Le 22, au moment de nous mettre en route pour la seconde étape de la journée, pas de Moriliré.
+
+On le cherche en vain de tous côtés, et il faut bien nous résigner à l\'attendre.
+
+Le lendemain, à la première heure, notre guide était d\'ailleurs à son poste, et s\'occupait du départ comme si de rien n\'était. Cette fois, l\'absence n\'était pas niable. Aussi Moriliré ne perdit pas son temps en dénégations inutiles. Il expliqua qu\'il avait dû retourner au précédent campement où il avait oublié les cartes du capitaine Marcenay. Ce dernier le tança vertement, et l\'incident fut clos.
+
+Je ne vous en aurais même pas parlé, si Saint-Bérain, avec sa fantaisie habituelle, n\'avait essayé de le grossir en le dénaturant. Souffrant d\'insomnie cette nuit-là, il avait, paraît-il, assisté au retour de notre guide. Or, n\'est-il pas allé dire en grand mystère, au capitaine Marcenay, que Moriliré revenait non de l\'ouest, d\'où nous arrivions nous-mêmes, mais de l\'est, c\'est-à-dire du côté de Kankan où nous allions, qu\'il ne pouvait, par conséquent, avoir été chercher un objet oublié, et que, par suite, il avait menti.
+
+Sorti de toute autre source, un tel renseignement mériterait peut-être d\'être tenu en considération, mais venant de Saint-Bérain ! Saint-Bérain est si distrait qu\'il aura perdu le nord.
+
+Revenons à nos moutons. Je vous disais donc que l\'autre fait avait Kankan pour théâtre. Pendant que nous y errions, Mlle Mornas, M. Barsac, Saint-Bérain et moi, sous la conduite de Tchoumouki et de Moriliré\...
+
+Mais je m\'aperçois que j\'ai oublié d\'éclairer ma lanterne, et qu\'il convient de prendre les choses d\'un peu plus loin.
+
+Sachez donc que, les jours précédents, Moriliré n\'avait cessé de nous importuner, les uns après les autres, en nous vantant les mérites d\'un certain griot, plus spécialement un *kéniélala* (qui prédit l\'avenir), domicilié à Kankan.
+
+À l\'entendre, ce *kéniélala* posséderait une « double vue » étonnante, et, à maintes reprises, il nous avait pressés d\'en faire personnellement l\'expérience. Inutile de dire que, sans nous concerter, nous l\'avions envoyé promener à l\'unanimité. Nous ne sommes pas venus au coeur de l\'Afrique pour consulter des somnambules plus ou moins extralucides.
+
+Mais, tandis que nous nous promenons à travers Kankan sous leur direction, voilà que Moriliré et Tchoumouki s\'arrêtent à deux pas d\'une case, qui d\'ailleurs n\'offre rien de particulier. Par un hasard que je les soupçonne fort d\'avoir aidé, il paraît que nous sommes précisément devant la demeure du fameux *kéniélala* qu\'ils nous ont tant vanté. De nouveau, ils nous conseillent de lui rendre visite. De nouveau, nous refusons. Mais ils ne se tiennent pas pour battus et ils recommencent imperturbablement l\'éloge du vénérable sorcier.
+
+Qu\'est-ce que ça peut bien faire à Moriliré ou à son camarade Tchoumouki que nous allions chez leur *kéniélala* ? Les moeurs du pays seraient-elles à ce point policées que nos deux gaillards eussent une « commission » sur la recette de leur phénomène, et seraient-ils chargés de lui racoler des clients, comme les gondoliers de Venise en racolent pour les fabricants de verrerie et de dentelle ? Voilà qui donnerait raison à M. Barsac !
+
+Les deux compères ne se découragent pas. Ils insistent, insistent tellement que nous cédons, ne serait-ce que pour avoir la paix. Après tout, nous pouvons bien leur faire ce plaisir, et s\'ils y gagnent quelques cauries, tant mieux pour eux.
+
+Nous entrons dans une case d\'une abominable saleté, et où ne pénètre qu\'une lumière très atténuée.
+
+Le *kéniélala* est debout au milieu de la pièce. Après s\'être tapé pendant cinq minutes sur la cuisse en nous disant *Ini-tili*, ce qui veut dire « bon midi » -- il est cette heure-là, en effet -- il s\'accroupit sur une natte et nous invite à l\'imiter.
+
+Il commence par faire devant lui un tas de sable très fin, qu\'il étale, d\'un seul coup, en éventail, à l\'aide d\'un petit balai. Il nous demande ensuite une douzaine de noix de kola, moitié rouges, moitié blanches, qu\'il fait passer vivement au-dessus du sable en marmottant des paroles incompréhensibles, puis, rangeant les fruits sur le sable suivant diverses figures, cercles, carrés, losanges, rectangles, triangles, etc., il fait des signes bizarres au-dessus d\'eux comme pour les bénir. Enfin, il les ramasse précieusement, et tend sa main sale dans laquelle nous déposons le prix de la consultation.
+
+Nous n\'avons plus qu\'à l\'interroger. Il est inspiré. Il parlera.
+
+Nous lui posons, à tour de rôle, quelques questions, qu\'il écoute en silence. Il donnera toutes les réponses à la fois, nous annonce-t-il. Quand nous avons fini de parler, il parle aussitôt à son tour, avec une grande volubilité, très vivement, en homme sûr de ce qu\'il avance. Pas gaies, les prédictions de notre magicien ! Si nous avions la foi -- qui nous manque heureusement -- nous sortirions de son officine pleins de soucis et d\'inquiétudes.
+
+C\'est par moi qu\'il commence, par moi qui me suis enquis du sort réservé à ce que j\'ai de plus cher au monde, c\'est-à-dire aux articles que je vous envoie.
+
+--- Bientôt, me dit-il dans un charabia que je traduis en français clair, personne n\'aura plus de tes nouvelles.
+
+Voilà bien ma chance ! Mais enfin, le sorcier a dit : bientôt.
+
+Je peux donc être tranquille pour la présente lettre. Le *kéniélala* passe à Saint-Bérain.
+
+--- Tu recevras, lui prédit-il, une blessure qui t\'empêchera de t\'asseoir.
+
+Je pense aux hameçons. Il retarde, le vieux farceur. Il s\'égare dans le passé, dont Moriliré et Tchoumouki n\'ont sans doute pas manqué d\'illuminer les ténèbres.
+
+C\'est maintenant le tour de Mlle Mornas.
+
+--- C\'est au coeur que tu seras frappée, prononce le *kéniélala*.
+
+Eh ! Eh ! Pas si bête ! Remarquez qu\'il n\'a pas précisé. La blessure sera-t-elle physique ou morale ? Moi, je penche pour la seconde hypothèse, et je soupçonne fort nos deux guides de s\'être livrés à quelque « potin ». Mlle Mornas a sûrement interprété la prophétie comme moi, car elle a rougi. Parions qu\'elle pense au capitaine Marcenay.
+
+Mais notre magicien s\'est tu, puis il a regardé M. Barsac d\'un air menaçant. Il est clair que nous en sommes à la prédiction la plus importante. Il vaticine :
+
+--- Au-delà de Sikasso, je vois des Blancs. C\'est pour vous tous l\'esclavage ou la mort.
+
+Il en a de gaies, le gros père.
+
+--- Des Blancs ! Répète Mlle Mornas. Vous voulez dire : des Noirs.
+
+--- J\'ai dit : des Blancs, affirme solennellement le *kéniélala*, qui singe l\'inspiration de la manière la plus amusante. Ne dépassez pas Sikasso. Sinon, l\'esclavage ou la mort.
+
+Bien entendu, nous prîmes l\'avis en plaisantant. À qui ce diseur de bonne aventure ferait-il croire qu\'il peut exister en territoire français une troupe de Blancs assez nombreuse pour mettre en péril une colonne de l\'importance de la nôtre ?
+
+Au dîner, le soir, on s\'amusa de cette histoire, même le craintif M. Baudrières, après quoi on n\'y pensa plus.
+
+Mais j\'y pensais de nouveau, moi, le soir, en me couchant. J\'y pensais très sérieusement, et, finalement, j\'aboutis à des conclusions qui\... Que\... Enfin, jugez vous-même.
+
+Posons d\'abord les termes du problème.
+
+Il existe deux faits et demi.
+
+Le demi-fait, c\'est l\'absence de Moriliré à Timbo et, lors de la dernière halte, avant Kankan.
+
+Les deux faits sont l\'empoisonnement au *doung-kono* et la sinistre prédiction du sorcier nègre.
+
+Cela posé, raisonnons.
+
+Premier fait. Est-il croyable que le chef d\'un infime village ait conçu le projet insensé de s\'attaquer à une région de la Sénégambie depuis longtemps occupée par nos troupes, à trente-cinq kilomètres de Timbo, où un important poste français tient garnison ? Non, ce n\'est pas croyable. C\'est au contraire inadmissible, absolument inadmissible.
+
+Deuxième fait. Est-il croyable qu\'un vieux nègre stupide et ignorant ait le pouvoir de lire dans l\'avenir ? Non, il n\'a pas ce pouvoir, c\'est absolument certain.
+
+Or, l\'incident du *doung-kono* est tout aussi certain, ou, du moins, puisqu\'il est avéré pour moi qu\'un tel projet n\'a jamais pu être conçu, on s\'est arrangé de manière à nous faire croire à sa réalité.
+
+Et, de même, il est certain que le kêniélala, qui, livré à lui-même, eût parlé au hasard, et nous eût dit tout autre chose, n\'a pas dit, en fait, autre chose, mais s\'est obstiné à nous prédire l\'esclavage ou la mort au-delà de Sikasso. La conclusion s\'impose : on a voulu nous effrayer.
+
+Qui ? Pourquoi ? Me demandez-vous.
+
+Qui ? Je n\'en sais rien.
+
+Pourquoi ?
+
+Dans le but de nous faire renoncer à notre voyage. Nous gênons quelqu\'un, et ce quelqu\'un ne veut pas que nous dépassions Sikasso.
+
+Quant au demi-fait Moriliré, ou il ne signifie rien, ou, si Saint-Bérain n\'a pas été aussi distrait que de coutume, Moriliré est complice de ceux qui tentent d\'arrêter notre marche. Son insistance à nous conduire chez le kêniélala le rend déjà très suspect, et il est à croire qu\'il a été, à tout le moins, payé dans ce but. Il conviendra d\'élucider ce point.
+
+Telles sont mes conclusions. L\'avenir me dira si elles sont ou non fondées. Qui vivra verra.
+
+Amédée Florence.
+
+
+*Dans la brousse, à une journée de marche de Kankan, 26 décembre.* -- J\'ajoute ce post-scriptum à ma lettre d\'avant-hier, que Tchoumouki se charge de vous faire parvenir.
+
+
+Ce qui nous est arrivé cette nuit est extraordinaire. Je vous le signale sans même essayer de l\'expliquer.
+
+Nous avons quitté Kankan hier matin, 25 décembre, et, après deux fortes étapes d\'une trentaine de kilomètres au total, nous avons campé le soir en rase campagne. Le pays est peu peuplé. Le dernier village traversé, Diangana, est à près de vingt kilomètres en arrière, et cinquante kilomètres nous séparent du prochain, Sikoro.
+
+À l\'heure habituelle, le camp dormait.
+
+Au milieu de la nuit, nous avons été réveillés tout à coup par un bruit étrange, que nul de nous ne put expliquer d\'une manière plausible.
+
+C\'était comme un ronflement colossal, analogue à celui d\'une machine à vapeur, ou, plus exactement, au bourdonnement d\'insectes, mais d\'insectes gigantesques, d\'insectes qui auraient une taille d\'éléphants. D\'après les renseignements donnés par les sentinelles, ce bruit insolite avait commencé dans la direction de l\'ouest. D\'abord très faible, il avait augmenté peu à peu d\'intensité. Au moment où nous sortons de nos tentes, il atteint son maximum. Le plus singulier, c\'est qu\'il nous vient d\'en haut, de l\'air, du ciel. La cause qui le produit est juste au-dessus de nous. Mais quelle est-elle ?
+
+Nous écarquillons nos yeux en vain. Impossible de rien voir. De gros nuages masquent la lune, et la nuit est noire comme de l\'encre.
+
+Pendant que nous nous épuisons inutilement à percer les ténèbres, le ronflement s\'éloigne dans l\'est, diminue, meurt. Mais, avant qu\'il ne soit complètement éteint, nous en percevons un deuxième qui nous arrive de l\'ouest. Comme le premier, ce ronflement grandit, atteint son maximum, diminue et cesse, en s\'éloignant du côté de l\'est.
+
+Le camp semble frappé de terreur. Tous les Noirs ont le visage contre terre. Quant aux Européens, ils se sont groupés autour du capitaine Marcenay. Avec eux, j\'aperçois Tchoumouki et Tongané, qui, à force de vivre parmi les Blancs, ont acquis un peu de leur fermeté d\'âme. Par contre, je ne peux découvrir Moriliré. Sans doute est-il à plat ventre quelque part avec ceux de sa couleur.
+
+Par cinq fois, le terrifiant ronflement naît, grandit et s\'éteint. Puis la nuit reprend son calme habituel et s\'achève paisiblement.
+
+Au matin, c\'est toute une affaire que de reformer la colonne.
+
+Les nègres ont peur et se refusent obstinément à partir. Le capitaine Marcenay finit toutefois par les mettre à la raison. Il leur montre le soleil qui se lève dans un ciel sans nuages. À coup sûr, rien d\'anormal ne se passe dans l\'air, en ce moment.
+
+Enfin nous partons avec trois heures de retard.
+
+Le phénomène de cette nuit fait, bien entendu, l\'objet de toutes les conversations, mais personne ne peut réussir à l\'expliquer. Peu à peu, cependant, on commence à parler d\'autre chose, quand, à deux kilomètres environ du campement que nous venons de quitter, le capitaine Marcenay, qui marche en tête, constate que le sol est creusé par des ornières longues d\'une cinquantaine de mètres, et orientées de l\'ouest à l\'est. Ces ornières, profondes de dix centimètres environ du côté ouest, s\'effacent insensiblement du côté est. Elles sont au nombre de dix réunies en cinq groupes de deux.
+
+Ont-elles un rapport quelconque avec le phénomène de cette nuit ? On est d\'abord tenté de répondre : non.
+
+Et pourtant il y a cette direction commune de l\'ouest à l\'est ; il y a ces nombres semblables : cinq groupes d\'ornières, cinq ronflements successifs\...
+
+Alors ?\...
+
+Alors, je ne sais pas.
+
+Amédée Florence.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- À Sikasso]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942907 .pcalibre2 .pcalibre1} {#chapitre-7-à-sikasso .calibre171 .sigil_not_in_toc}
+
+
+La mission Barsac parvint le 12 janvier à Sikasso. Elle avait donc parcouru en moins de six semaines, soit à raison de vingt-cinq kilomètres par jour en moyenne, les onze cents kilomètres séparant de la côte cette ancienne capitale du Kénédougou, devenue par la suite la dernière forteresse de Samory.
+
+L\'*Expansion française* ayant cessé, comme on l\'a dit, de recevoir les articles d\'Amédée Florence, après le troisième, envoyé par celui-ci le surlendemain de son départ de Kankan, on n\'aurait, à dater de ce jour, aucun renseignement touchant la marche de la mission, sans le carnet sur lequel l\'habile reporter consignait au jour le jour ses remarques et observations. Ce carnet, l\'auteur du présent récit l\'a sous les yeux et ne manquera pas d\'y faire, le cas échéant, de larges emprunts.
+
+De Kankan à Sikasso, le voyage paraît avoir été monotone et sans intérêt. Outre quelques plaisanteries à propos des distractions de Saint-Bérain et la relation minutieuse des petits incidents journaliers, incidents dont trop d\'exemples ont été donnés au lecteur pour qu\'il soit utile d\'en citer d\'autres, Amédée Florence se borne à décrire la route, plate jusqu\'à Tiola, très accidentée à partir de cette bourgade, et à constater brièvement que Tchoumouki, continuant à fuir la compagnie de son camarade Tongané, paraît se lier avec le guide de tête Moriliré. Il ne fait, d\'ailleurs, à ce sujet, aucune réflexion, et vraiment il n\'y avait pas lieu d\'en faire, l\'état des relations entre ces trois nègres n\'étant pas d\'une gravité telle que ce problème dût retenir son attention.
+
+Du silence d\'Amédée Florence, on doit conclure qu\'il ne s\'était rien passé de plus important.
+
+Par conséquent, ainsi qu\'on pouvait s\'y attendre, aucune des prédictions du *kéniélala* n\'avait reçu le plus petit commencement d\'exécution : Amédée Florence continuait à rédiger ses articles et à les remettre à Tchoumouki, qui en garantissait toujours la bonne arrivée en Europe, et, si, pour une raison ou une autre, cette promesse n\'était plus tenue, le reporter n\'en savait rien ; Saint-Bérain pouvait toujours enfourcher son cheval, et, de Jane Mornas -- nous lui laisserons le pseudonyme qu\'elle a choisi -- le coeur n\'avait reçu aucune blessure, ou, du moins, aucune blessure visible. Quant à une blessure morale, il semblerait résulter, au contraire, de quelques mots écrits par Amédée Florence, qu\'il considérait la troisième prédiction comme plus près que les autres de se réaliser, à la condition qu\'on la prît dans son sens figuré. Il consacre, en effet, deux lignes, d\'ailleurs approbatives et sympathiques, à l\'amitié de plus en plus intime de Jane Mornas et du capitaine Marcenay, et au plaisir grandissant que les deux jeunes gens semblaient y trouver.
+
+En ce qui concerne la quatrième prédiction, la plus sérieuse et la plus sinistre, rien, absolument rien n\'indique qu\'un fait quelconque fût venu la confirmer. La mission n\'était ni détruite, ni réduite en esclavage, elle s\'avançait paisiblement sous la garde des deux cents sabres du capitaine Marcenay, ses animaux étaient en bonne santé, et ses bagages, en bon état, n\'avaient été mouillés au passage des rivières que le minimum inévitable avec les nègres.
+
+
+Nul ne s\'était plus risqué à un attentat réel ou simulé contre la colonne, et on n\'avait rencontré aucun autre *kéniélala* pour formuler à nouveau de menaçantes prophéties. Si donc Amédée Florence avait vu juste, et s\'il existait quelque part un être qui eût formé le projet absurde d\'épouvanter la mission au point de la décider à rétrograder, tout portait à croire qu\'on y avait renoncé.
+
+Au surplus, Amédée Florence lui-même n\'avait plus, en arrivant à Sikasso, d\'opinion très nette sur cette affaire. Les faits qui avaient motivé ses réflexions : tentative plus ou moins véritable d\'empoisonnement au *doung-kono* et sombres prédictions du sorcier nègre, avaient perdu de leur valeur en devenant plus anciens. Bien qu\'on ne fût pas encore à Sikasso et que le danger annoncé dût commencer seulement au-delà de cette ancienne capitale, il s\'était rassuré de jour, tant il lui paraissait insensé d\'admettre que ces nègres inoffensifs qu\'on croisait de temps à autre se risquassent à attaquer une importante troupe de soldats réguliers. Une telle aventure n\'aurait pas eu de précédent, en l\'absence d\'un tyran, tel que Samory, contraignant par la violence ces populations puériles à se muer en guerriers.
+
+Toutefois, Amédée Florence se rassurait peut-être un peu trop, en basant sa tranquillité uniquement sur les hommes du capitaine Marcenay, puisque, à Sikasso précisément, cette force armée allait être réduite de moitié.
+
+C\'est à Sikasso, on ne l\'a sans doute pas oublié, que la mission Barsac devait se dédoubler. Tandis qu\'une première fraction, dirigée par Barsac en personne, allait pousser jusqu\'au Niger, en passant par Ouagadougou, capitale du Mossi, et revenir à l\'océan par le Borgou et le Dahomey, la seconde, sous la direction de Baudrières, descendrait tout de suite au sud et se dirigerait presque en ligne directe sur Grand-Bassam.
+
+Bien entendu, chacune de ces fractions de la mission ayant droit à une protection égale, l\'escorte serait, par conséquent, réduite à une centaine d\'hommes de part et d\'autre.
+
+Au moment où l\'expédition, toujours entière, arrivait à Sikasso, il n\'y avait pas très longtemps que cette forteresse de Samory, emportée d\'assaut dans les premiers mois de 1898 par le colonel Audéoud, appartenait à la France. Aux environs, le pays se ressentait encore des pillages incessants que lui avait fait subir ce sinistre marchand d\'esclaves décoré par nous-mêmes, on ne sait trop pourquoi, du nom pompeux d\'Almany. De tous côtés, ce n\'étaient que villages brûlés ou dévastés, et la misère était affreuse.
+
+Quant à la ville même -- s\'il est permis d\'appliquer cette expression à une cité noire -- elle était restée à peu près dans l\'état où l\'avait trouvée le colonel Audéoud. C\'était, et c\'est encore, d\'ailleurs, un simple groupement de plusieurs villages distincts, que séparent des champs cultivés et que réunit l\'enceinte ordinaire des agglomérations de ces contrées, un *tata*, qui, à Sikasso, ne mesure pas moins de six mètres de hauteur et de huit mètres d\'épaisseur à la base.
+
+À l\'intérieur de ce *tata*, l\'administration française avait couru au plus pressé, et, jusqu\'alors, outre les plus urgents travaux de nettoyage, elle n\'avait guère élevé que les constructions nécessaires au logement des troupes formant la garnison.
+
+Cette garnison comprenait, à cette époque, trois compagnies, une d\'infanterie coloniale et deux de tirailleurs sénégalais, ces dernières encadrées par des officiers et des sous-officiers français.
+
+On juge quelle joie fut l\'arrivée de la mission Barsac pour ces jeunes gens depuis si longtemps séparés de leurs pareils. Cette joie fut portée au comble par la présence, à la tête de l\'escorte, du capitaine Marcenay, qui retrouva dans ce poste lointain plusieurs de ses meilleurs camarades, et elle devint du délire, quand on sut qu\'une femme blanche faisait partie de l\'expédition.
+
+On ménagea à ces visiteurs de marque une entrée solennelle. Drapeaux claquant au vent, clairons sonnant, tambours battant, arcs de triomphe en feuillage, acclamations des nègres habilement massés, rien n\'y manqua, pas même un discours de Barsac.
+
+Le soir, les officiers offrirent un punch magnifique, où ne cessa de régner la plus franche gaieté. Ce fut Jane Mornas qui présida la fête. On s\'imagine le succès qu\'elle obtint. On l\'entourait, on se pressait autour d\'elle. Toute cette ardente jeunesse eût joyeusement combattu pour les beaux yeux de cette Blanche, qui venait apporter dans son exil un rayon de soleil.
+
+Mais Jane Mornas ne se laissa pas griser par le succès. Parmi tous ces hommages, ce furent ceux dont le capitaine Marcenay ne se montra pas avare qui trouvèrent le plus aisément le chemin de son coeur.
+
+Cette préférence, elle la manifesta même, sans le savoir, avec une telle innocence, que tout le monde s\'en aperçut bientôt. Aussitôt, les camarades de Marcenay eurent, en vrais Français, la délicatesse de mettre progressivement une sourdine à leur enthousiasme, et, l\'un après l\'autre, ils adressèrent à l\'heureux capitaine de discrètes félicitations, que celui-ci se défendit vainement de mériter.
+
+Marcenay détournait les yeux, niait, assurait qu\'il ne comprenait pas ce qu\'on voulait lui dire.
+
+Il comprenait très bien, au contraire, et nageait en plein bonheur. Tous les rêves lui étaient donc permis, puisque les sentiments de Jane Mornas étaient si évidents qu\'il était le seul à ne pas les connaître.
+
+C\'est ainsi que l\'amour qu\'éprouvaient l\'un pour l\'autre Jane Mornas et Marcenay leur fut révélé à eux-mêmes.
+
+Le lendemain, on commença à s\'occuper de la manière dont la mission allait être divisée, et, tout de suite, on se heurta à des difficultés imprévues. Pour les Européens, rien de plus simple. Autour de Baudrières se groupèrent MM. Heyrieux et Quirieu, conformément à leurs instructions, et M. Tassin, conformément à ses préférences personnelles. À Barsac se réunirent M. Poncin et le docteur Châtonnay. Amédée Florence se joignit à cette fraction, dont l\'itinéraire plus étendu était, par conséquent, susceptible de donner matière à plus ample copie.
+
+Quant au capitaine Marcenay, il avait ordre d\'affecter à l\'escorte de Baudrières cent de ses hommes sous le commandement d\'un lieutenant détaché de la garnison de Sikasso et de se joindre personnellement à la fraction Barsac avec les cent autres. Décidé, cela va de soi, à la plus stricte obéissance, il n\'en était pas moins très troublé, et il ne se demandait pas sans une certaine angoisse quel parti allaient adopter Jane Mornas et Saint-Bérain.
+
+Quel soupir de soulagement, quand il entendit la jeune fille, interrogée à ce sujet, déclarer qu\'elle accompagnerait Barsac ! Mais quel autre soupir, de déception celui-ci, succéda bientôt au premier, lorsque Jane ajouta qu\'elle et Saint-Bérain ne resteraient que peu de jours avec l\'honorable député du Midi, et que leur intention était de le quitter au bout de quelques étapes, afin de continuer leur exploration personnelle plus au nord.
+
+Parmi les officiers, ce fut un tollé général.
+
+Il n\'y eut personne qui ne blâmât la jeune fille d\'avoir formé un projet aussi imprudent. Eh quoi ! Seule, sans escorte, elle voulait se risquer dans des régions presque complètement inconnues et dans lesquelles les armes françaises n\'avaient jamais pénétré ? On lui représenta qu\'un tel voyage était irréalisable, qu\'elle y risquait sa vie, ou que, tout au moins, les chefs des villages s\'opposeraient à son passage.
+
+Rien n\'y fit, Jane Mornas demeura inébranlable, et nul, pas même le capitaine Marcenay, n\'eut sur elle la moindre influence.
+
+--- Vous perdez votre temps, déclara-t-elle en riant. Vous n\'arriverez, tout au plus, qu\'à épouvanter mon oncle, qui roule là-bas de gros yeux effarés.
+
+--- Moi ! ? protesta Agénor ainsi pris à partie.
+
+--- Oui, vous, insista Jane Mornas. Vous mourez de peur, c\'est visible. Vous laisseriez-vous donc influencer par tous ces prophètes de malheur ?
+
+--- Moi !\... répéta le pauvre Saint-Bérain.
+
+--- Pourquoi auriez-vous peur ? demanda Jane d\'un air superbe. Je serai avec vous, mon neveu.
+
+--- Mais je n\'ai pas peur ? protesta Saint-Bérain, furieux d\'être le point de mire de tous les regards.
+
+Jane Mornas se retourna contre ses contradicteurs.
+
+--- Quant à moi, dit-elle, j\'ai quitté l\'Europe dans l\'idée de traverser le Hombori et d\'atteindre le Niger au sommet de sa boucle, à Gao. Je traverserai le Hombori et j\'atteindrai le Niger à Gao.
+
+--- Et les Touaregs Aouelimmiden, qui, dans cette région, occupent les deux rives du Niger ?
+
+--- Je me moque des Touaregs, répliqua Jane Mornas, et je passerai malgré eux.
+
+--- Mais pourquoi Gao plutôt que tout autre point ? Quel motif si puissant avez-vous, puisque vous voyagez pour votre plaisir, d\'aller là plutôt qu\'ailleurs ?
+
+--- Mon caprice, répondit Jane Mornas.
+
+Le mot, que les officiers s\'accordèrent à trouver d\'allure crâne et, d\'après eux, bien française, fut très applaudi.
+
+--- C\'est, en effet, un puissant motif, proclama le commandant Vergèze. Le caprice d\'une jolie femme est l\'*ultima ratio*, ce n\'est pas nous qui le contesterons.
+
+La division du personnel dirigeant, tant officiel qu\'officieux, de la mission étant terminée, il restait à répartir équitablement le personnel subalterne, ce qui semblait facile.
+
+Tout d\'abord les dix ânes, les cinq âniers et les dix porteurs appartenant en propre à Jane Mornas et à Saint-Bérain suivraient naturellement le sort de ceux qui les avaient engagés. Quant aux autres porteurs et conducteurs, et au surplus des bêtes de somme, on en ferait deux groupes inégaux, le plus nombreux devant être attribué à celle des deux missions ayant à effectuer le plus long parcours, c\'est-à-dire à Barsac, à qui serait également laissé le concours du guide Moriliré. On se mit d\'accord, sans peine, sur ces divers points.
+
+Mais ce fut quand il s\'agit de réaliser cette combinaison que les difficultés commencèrent.
+
+Aux premiers mots qui lui furent dits à ce sujet, Moriliré opposa un refus catégorique, dont aucun argument ne put avoir raison. D\'après lui, on ne l\'avait engagé que jusqu\'à Sikasso, et rien au monde ne le ferait aller plus loin. On insista en vain. En vain on employa tous les moyens, y compris l\'intimidation, tout ce qu\'on réussit à obtenir, ce fut qu\'il accompagnerait la mission Baudrières.
+
+Quant à aller dans l\'Est avec Barsac, il fut impossible de l\'y décider.
+
+Ce point à peine réglé, on éprouva des difficultés semblables avec les âniers et les porteurs. À l\'exception de ceux directement engagés par Jane Mornas et son neveu, ils se refusèrent unanimement à dépasser Sikasso. Prières, promesses, menaces, tout fut inutile. On se heurtait contre une muraille, et il fallut renoncer à les convaincre.
+
+Force fut donc de se mettre en quête d\'un nouveau guide et d\'autres serviteurs. On n\'eut pas grand-peine à réunir la majeure partie de ces derniers, mais plusieurs jours s\'écoulèrent avant qu\'on eût trouvé un indigène inspirant une suffisante confiance. On le découvrit enfin. C\'était un nègre de trente-cinq à quarante ans, du nom de Bala Konéré, originaire de Niélé, agglomération du Follona située sur l\'itinéraire de Baudrières, mais qui n\'était pas sans avoir fait quelques pointes dans le Mossi. Ce Bala Konéré fut engagé.
+
+Aussitôt, brusque transformation de Moriliré. Celui-ci, qui avait assisté avec indifférence, un peu narquoisement même, semblait-il, aux recherches d\'abord infructueuses de ses chefs, changea tout à coup d\'attitude dès que ces recherches furent couronnées de succès. Il vint trouver Barsac, lui demanda humblement pardon de son entêtement, qu\'il mit sur le compte de la peur, et s\'offrit à conduire la mission jusqu\'à Ouagadougou et jusqu\'au Dahomey, comme il s\'y était d\'abord engagé. En même temps, toute résistance disparaissait parmi les anciens porteurs et âniers, qui se déclaraient prêts à suivre leur *mantoba* (guide) où il plairait à celui-ci de les mener, à la seule condition que ce guide fût Moriliré.
+
+Cette subite unanimité prouvait à l\'évidence que ledit Moriliré devait être tenu pour seul responsable de cette grève inattendue, et l\'on eut un instant la pensée de décliner ses offres tardives.
+
+Il y avait cependant un tel intérêt à s\'assurer le concours d\'un personnel éprouvé et celui d\'un guide né dans les pays mêmes que l\'on allait traverser, qu\'on se résigna finalement à fermer les yeux.
+
+Il fut donc entendu que Bala Konéré serait attribué à Baudrières, avec une faible partie de l\'ancien personnel, à laquelle on adjoignit quelques-uns des nouveaux porteurs, et que Barsac conserverait Moriliré et la majeure partie des porteurs et âniers primitifs.
+
+Toutes ces hésitations, tous ces changements n\'avaient pas laissé de prendre un temps considérable. Entrés ensemble à Sikasso le 12 janvier, ce fut seulement le 21 que Barsac et Baudrières purent le quitter séparément. Ce matin-là, dès l\'aube, les compagnies furent de nouveau sous les armes, et s\'alignèrent sous le commandement de leurs officiers en tenue de parade, de nouveau les drapeaux claquèrent au vent, de nouveau les clairons sonnèrent aux champs, et la mission Barsac la première, la mission Baudrières ensuite, défilèrent entre une double haie de soldats. Puis la troupe, s\'ébranlant derrière eux, leur fit cortège jusqu\'à l\'enceinte.
+
+Hors du *tata*, ce fut l\'échange des adieux. Les officiers de la garnison exprimèrent aux uns et aux autres leurs souhaits d\'heureux voyage, et, non sans une vive émotion, Barsac et Baudrières se serrèrent la main.
+
+Enfin, tandis que les troupes regagnaient leurs casernements, les deux convois s\'ébranlèrent et se mirent en route, chacun de son côté. Baudrières, ceux qui l\'accompagnaient et leurs cent hommes d\'escorte s\'éloignèrent dans la direction du sud. Barsac, M. Poncin, le docteur Châtonnay, Amédée Florence, Jane Mornas et Saint-Bérain, également encadrés par cent cavaliers commandés par le capitaine Marcenay, tournèrent à gauche et disparurent dans la direction de l\'est.
+
+Or, à ces deux colonnes presque identiques étaient réservées des destinées très différentes.
+
+Si la première ne devait rencontrer sur son chemin aucun danger véritable, ni même aucune difficulté sérieuse, il n\'allait pas en être ainsi pour la seconde. Tandis que Baudrières, accomplissant paisiblement sa mission, allait réunir sans peine les éléments du rapport qu\'il s\'était engagé à soumettre à la Chambre, et arriver finalement à Grand-Bassan à peu près dans les délais prévus, il était écrit que Barsac et ses amis seraient mêlés à l\'aventure la plus terrible, la plus extraordinaire qui se puisse imaginer. Ainsi en avait décidé le sort.
+
+C\'est pourquoi, négligeant les incidents médiocres qui ont jalonné la marche tranquille de Baudrières, ce récit s\'attachera désormais exclusivement à cette fraction de la mission qui s\'éloigne dans l\'Est, et qui, sous la conduite du guide Moriliré, s\'enfonce toujours davantage dans la profondeur du pays noir.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8 -- Moriliré]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942908 .pcalibre2 .pcalibre1} {#chapitre-8-moriliré .calibre171 .sigil_not_in_toc}
+
+(Carnet de notes d\'Amédée Florence.)
+
+
+*22 janvier.* -- Voici deux jours que nous avons quitté Sikasso, et j\'ai déjà l\'impression qu\'il y a quelque chose qui ne va plus. Ce n\'est qu\'une impression, je le répète, mais il me semble que l\'esprit de nos serviteurs est moins bon, que les âniers, par exemple, mettent encore moins d\'ardeur, s\'il est possible, à presser le pas des ânes, que les porteurs se fatiguent plus vite et réclament de plus fréquents repos. Tout cela n\'existe peut-être que dans mon imagination, et peut-être suis-je influencé à mon insu par les prédictions du *kéniélala* de Kankan. Il n\'est pas impossible que ces prédictions, que j\'avais presque oubliées, aient repris une certaine valeur depuis que nous avons dépassé Sikasso et que l\'escorte a été réduite de moitié.
+
+Aurais-je donc peur ? Que non pas ! Ou plutôt, si j\'ai peur, c\'est que cet imbécile de *kéniélala*, au lieu de répéter bêtement sa leçon, n\'ait pas eu réellement le don de seconde vue. Qu\'est-ce que je demande, moi ? Des aventures, des aventures, et encore des aventures, que je transformerai en bonne copie, comme c\'est mon métier. Or, des aventures, des vraies, j\'en suis à les attendre.
+
+
+*23 janvier.* -- Je persiste à penser que nous allons comme un convoi de tortues. Il est vrai que la nature du terrain ne se prête pas à une marche rapide. Ce ne sont que montées et descentes. Malgré tout, la mauvaise volonté de nos nègres me paraît certaine.
+
+
+*24 janvier.* -- Qu\'est-ce que je disais ? Nous arrivons ce soir à Kafélé. Nous avons mis quatre jours à faire une cinquantaine de kilomètres.
+
+Douze kilomètres par jour, ce n\'est pas mal, comme record.
+
+
+*31 janvier.* -- Eh bien ! On l\'a battu, ce record ! Nous avons employé six jours pour faire cinquante autres kilomètres -- total : cent kilomètres en dix jours ! -- et nous voici dans une petite villégiature du nom de Kokoro. Je vous prie de croire que je n\'y louerai pas une villa pour passer l\'été au bord de la mer. Quel trou !
+
+Après avoir laissé en arrière, il y a trois jours, un village appelé Ngana -- où diable vont-ils chercher ces noms-là ? -- nous avons encore gravi une dernière côte assez raide, puis nous sommes définitivement descendus dans la vallée, que nous suivons pour l\'instant. Montagnes dans l\'Ouest, le Nord et le Sud. Devant nous, vers l\'est, la plaine.
+
+Pour comble de malheur, nous allons être retenus un certain temps à Kokoro. Ce n\'est pas que nous y soyons prisonniers. Au contraire, le chef du village, un certain Pintié-Ba, est notre ami tout à fait intime. Mais\... Mais je réfléchis que c\'est un axiome littéraire de débuter par le plus ennuyeux. Je jette donc rapidement, à titre de mémorandum, quelques notes ethnographiques, avant de continuer mon histoire.
+
+À Kokoro commence le pays des Bobos. Si le nom est plutôt drôle, les habitants le sont moins. De simples brutes.
+
+Léger crayon de ces brutes :
+
+Les hommes, en général assez bien faits, sont absolument nus. Les vieillards portent entre les jambes une bande d\'étoffe appelée *bila*. Les vieilles femmes remplacent le *bila* par un bouquet de feuilles dans le bas du dos ; c\'est plus coquet.
+
+Quelques jeunes gens, ceux qui donnent le ton de la mode, ont adopté le *bila*, en l\'ornant, par-derrière, d\'une queue en cotonnade terminée par une petite houppe. Voilà le suprême du genre ! ajoutez à ce simple vêtement un collier de trois rangs de cauries, des jarretières, une feuille de palmier autour des chevilles, des boucles d\'oreilles en fer et une flèche en corne ou un roseau traversant le nez, et vous aurez le type de l\'élégant chez les Bobos.
+
+Quant aux femmes, elles sont hideuses avec leurs bustes trop longs sur des jambes trop courtes, leur ventre proéminent pointu au nombril, et leur grosse lèvre inférieure traversée par une corne et un rouleau de feuilles de l\'épaisseur d\'une bougie. Il faut voir ça !
+
+Quant aux armes : des sagaies et quelques fusils à pierre. Certains ont, en plus, un petit fouet auquel sont suspendus des gris-gris.
+
+Ces gaillards-là ne sont pas difficiles sur l\'article nourriture. Ils mangent sans répugnance de véritables charognes en putréfaction. Pouah ! Et leur mentalité est à l\'avenant. Qu\'on en juge d\'après la manière dont nous sommes entrés en relation.
+
+Cette ingénieuse transition m\'amène tout naturellement à reprendre le fil de mon histoire.
+
+La scène est à Kokoro, hier, 30 janvier. Il fait nuit. Au moment où nous arrivons à proximité du village, nous nous heurtons à une foule hurlante de nègres -- nous en comptons au moins huit cents à la lumière des torches -- qui ne paraissent pas animés des intentions les plus conciliantes. C\'est la première fois que nous avons une réception de ce genre. Aussi nous arrêtons-nous un peu surpris.
+
+Surpris, mais pas très inquiets.
+
+Tous ces lascars-là ont beau brandir leurs armes, il est clair qu\'avec une décharge de mousqueterie, on balaierait sans peine tout ce joli monde. Le capitaine Marcenay donne un ordre. Ses hommes prennent en main leurs fusils, dont ils débouclent les étuis. Toutefois, ils ne les sortent pas. Le capitaine hésite, en effet. Tirer sur son prochain est toujours une chose grave, même quand ce prochain est un Bobo. Jusqu\'ici, la poudre est restée muette, et on voudrait bien ne pas la faire parler.
+
+Les choses en sont là, quand le cheval de Saint-Bérain, effrayé par les clameurs, fait une pointe irrésistible et pare des quatre pieds. Désarçonné, Saint-Bérain pique une tête magistrale et tombe en plein dans le tas des nègres.
+
+Ceux-ci poussent des hurlements féroces, et se précipitent sur notre malheureux ami, quand\...
+
+\... Quand Mlle Mornas lance à toute bride son cheval parmi les Noirs. Aussitôt, l\'attention se détourne de Saint-Bérain. On entoure la courageuse écuyère. Vingt sagaies sont dirigées contre elle\...
+
+--- *Manto* ! Crie-t-elle à ses agresseurs. *Ntéa bé souba*. (Silence ! Je suis sorcière.)
+
+Tout en parlant, elle tire de l\'arçon de sa selle une lampe électrique de poche qui s\'y trouvait par bonheur, et l\'allume, puis l\'éteint alternativement, pour bien montrer qu\'elle dispose du feu et des éclairs.
+
+À cette vue, les hurlements s\'apaisent, et il se fait autour d\'elle un grand cercle respectueux, au milieu duquel s\'avance Pintié-Ba, déjà nommé. Il va nécessairement faire un discours. C\'est la maladie de tous les gouvernants de la terre. Mais Mlle Mornas lui impose silence.
+
+Elle entend courir d\'abord au secours de Saint-Bérain, qui n\'a pas bougé depuis sa chute et doit être blessé, par conséquent.
+
+Vérification faite par le docteur Châtonnay, qui a pénétré dans le cercle avec la même tranquillité que s\'il entrait chez un client, Saint-Bérain est blessé. Il est même couvert de sang. Il est tombé si malencontreusement qu\'un silex pointu lui a pratiqué une large entaille un peu plus bas que les reins.
+
+Je songe à cet instant que voici réalisée l\'une des prédictions du *kéniélala*. Tout arrive. Cela me donne bon espoir pour les autres, mais j\'ai froid dans le dos en pensant au sort de mes articles.
+
+Cependant le docteur Châtonnay a lavé la plaie. Il prend sa trousse et recoud le blessé, tandis que les nègres le contemplent avec une profonde stupéfaction.
+
+Pendant que l\'opération se poursuit, Mlle Mornas, qui est restée à cheval accorde à Pintié-Ba licence de parler. Celui-ci s\'approche et lui demande en bambara, ou dans un charabia analogue, pourquoi le *toubab* (le toubab, c\'est Saint-Bérain) les a attaqués avec un fusil. Mlle Mornas nie le fait. Le chef insiste et désigne l\'étui que Saint-Bérain porte en bandoulière. On lui explique la vérité. Peine perdue, il faut, pour le convaincre, retirer l\'enveloppe, ouvrir l\'étui qui réfléchit à la lueur des torches et montrer les lignes que celui-ci contient.
+
+À cette vue, les yeux de Pintié-Ba étincellent de convoitise. Ses mains se tendent vers cet objet brillant. Comme un enfant gâté, il le demande, il le veut, il l\'exige. Saint-Bérain refuse avec indignation.
+
+Mlle Mornas, qui voudrait consolider la paix toute récente, insiste en vain. À la fin elle se fâche.
+
+--- Mon neveu !\... dit-elle sévèrement, en faisant de nouveau jouer sa lampe électrique dans la direction du pêcheur récalcitrant.
+
+Saint-Bérain cède immédiatement et livre l\'étui à lignes à Pintié-Ba, qui attribue son succès au pouvoir magique de la lampe électrique et à l\'influence de la sorcière.
+
+Quand cet imbécile est en possession de son trésor, c\'est du délire. Il danse une gigue endiablée, puis, sur un signe de lui, toutes les armes disparaissent, et Pintié-Ba s\'avance au milieu de nous.
+
+Il nous tient un discours par lequel il nous invite, paraît-il, à circuler dans le village autant qu\'il nous plaira et ordonne, pour le lendemain, un tam-tam en notre honneur.
+
+Étant donné l\'attitude pacifique des Bobos, le capitaine Marcenay, ne voit aucun inconvénient à ce que nous acceptions l\'invitation. Le lendemain donc, c\'est-à-dire aujourd\'hui, au début de l\'après-midi, nous rendons visite à nos nouveaux amis, tandis que notre escorte et notre personnel noir restent en dehors du *tata*.
+
+Ah ! Mes très chers, quel patelin ! Les goûts sont libres, mais, en ce qui me concerne, je préfère les Champs-Élysées.
+
+Nous allons directement au « palais » du *dougoutigui*. C\'est une agglomération de cases située au milieu du village, près du tas central des immondices, ce qui n\'est pas pour l\'embaumer. Extérieurement, ces cases, construites en pisé, sont badigeonnées avec de la cendre. Mais c\'est l\'intérieur qu\'il faut voir ! La cour n\'est qu\'un bourbier servant de parc à des boeufs et à des moutons.
+
+Tout autour, les pièces ; il faut descendre pour y pénétrer. Ne l\'essayez pas ! On y respire une odeur abominable qui prend à la gorge, et on doit lutter avec les chèvres, les poules et autres animaux de basse-cour qui s\'y promènent en liberté.
+
+D\'après la description du « palais », il est aisé de concevoir ce que peuvent être les demeures des vulgaires citoyens. Ce sont des antres, où grouillent rats, lézards, mille-pattes et cancrelats, au milieu d\'ordures de toute espèce, d\'où se dégage une odeur fétide.
+
+Charmant séjour !
+
+C\'est dans le « palais » qu\'a lieu la réception « officielle ». Elle consiste à faire à Pintié-Ba des cadeaux, d\'ailleurs sans valeur, depuis des morceaux d\'étoffes jusqu\'à des cadenas sans clé, depuis de vieux pistolets à pierre, jusqu\'à du fil et des aiguilles.
+
+Littéralement ébloui par ces présents magnifiques, le *dougoutigui* donne le signal du tam-tam.
+
+Tout d\'abord, des musiciens parcoururent le village, en jouant, qui du *bodoto*, trompe faite en corne d\'antilope, qui du *bouron*, autre trompe en défense d\'éléphant, qui encore du *tabula*, soit, en français, du tambour. Deux hommes portent ce *tabala*, sur lequel un troisième frappe à tour de bras avec une sorte de massue, dont le nom est *tabala kalama*. À ce propos, le capitaine Binger fait observer avec raison que kalama a tout l\'air de venir de *calamu*s, et que par suite, *tabala kalama* signifie littéralement : plume à écrire du tambour.
+
+Aux sons de ces différents instruments, les Bobos se réunissent sur la place, et la fête commence.
+
+Une sorte de polichinelle soudanais, le *mokho missi kou,* fait son entrée et danse avec force grimaces et contorsions.
+
+Il est vêtu d\'un maillot en étoffe rouge et coiffé d\'un bonnet orné de queues de vaches, duquel tombe un morceau d\'étoffe qui recouvre son visage. Il porte en bandoulière un sac rempli de ferraille bruyante, et chacun de ses mouvements fait sonner des grelots et des sonnettes attachés à ses poignets et à ses chevilles. Avec de longues queues de vaches, il chatouille agréablement la figure des assistants.
+
+Lorsqu\'il a terminé ses exercices qui semblent amuser beaucoup Pintié-Ba et ses administrés, ces derniers, sur un signe du chef, poussent des rugissements de bêtes féroces, ce qui équivaut, j\'imagine, à d\'unanimes applaudissements.
+
+Le silence rétabli, Pintié-Ba se fait apporter une ombrelle ornée de cauries et d\'amulettes, non qu\'il en ait besoin, mais parce qu\'un *dougoutigui* n\'est rien, s\'il n\'a, largement ouvert au-dessus de sa tête, le parasol, insigne du pouvoir.
+
+Aussitôt, les danses reprennent. Hommes, femmes, enfants forment le cercle, les griots frappent sur des *tabala*, et deux danseuses accourent des extrémités opposées de la place. Après trois rapides pirouettes, elles s\'élancent l\'une contre l\'autre, non pas face à face, mais, au contraire, en se tournant le dos, et, parvenues au contact, se heurtent réciproquement le plus fort possible.
+
+À ces deux « danseuses » se succèdent deux autres, et enfin tous les assistants se livrent, en poussant des cris sauvages, à une sorte de quadrille échevelé, auprès duquel notre « chahut » paraîtrait bien terne et bien modeste.
+
+La danse se termine par une procession. Les Bobos défilent devant Pintié-Ba en chantant un choeur accompagné du bruit assourdissant des *tabula*, des trompes et des flûtes de roseau, dont les sons stridents déchirent les oreilles.
+
+Enfin, c\'est l\'heure du souper, et alors commence une scène de carnage, une orgie de sang.
+
+On apporte sur la place une douzaine de moutons tués dans les cases. D\'un arbre à l\'autre, les indigènes tendent de longues cordes et délimitent ainsi un espace carré, au milieu duquel les femmes entassent du bois sec. Puis, armés de couteaux, les nègres dépècent les animaux, et les découpent en lanières que les femmes suspendent aux cordes, tandis que le feu est mis au bûcher. Quand il estime la cuisson suffisante, Pintié-Ba fait un signe, et tous les nègres se ruent sur les quartiers de viande, les saisissent à pleines mains et les déchirent avec leurs dents. Rien ne leur répugne. Le spectacle est horrible.
+
+--- Ce sont des cannibales ! s\'écrie Mlle Mornas, qui est toute pâle.
+
+--- Hélas, oui ! Ma chère enfant, répond le docteur Châtonnay. Mais, si manger est le seul plaisir de ces pauvres êtres, c\'est qu\'ils ont perpétuellement la même souffrance : la faim.
+
+Écoeurés, nous ne tardâmes pas à regagner nos tentes, tandis que, pour les nègres, la fête se prolongeait fort tard. Elle dura même toute la nuit, ainsi que nous le prouvèrent les vociférations qui arrivaient jusqu\'à nous.
+
+
+*2 février.* -- Nous sommes toujours à Kokoro, où nous retient la blessure de Saint-Bérain. L\'oncle-neveu (je l\'appelle ainsi définitivement) ne pourrait se tenir à cheval.
+
+
+*3 février.* -- Toujours Kokoro. C\'est gai !
+
+
+*4 février, 6 heures du matin* -- Enfin, nous partons !
+
+
+*Même jour, le soir.* -- Faux départ. Nous sommes encore à Kokoro.
+
+Ce matin, dès l\'aube, nous avons pourtant subi les adieux de nos amis les Bobos.
+
+(On a les amis qu\'on peut.) Tout le village était debout, le *dougoutigui* en tête, et ce fut une litanie de souhaits. « Que *N\'yalla* (Dieu) vous ramène en bonne santé ! » « Qu\'il vous donne un bon chemin ! » « Qu\'il vous donne un bon cheval ! » À l\'énoncé de ce dernier voeu, Saint-Bérain, dont la blessure est encore sensible, Saint-Bérain a fait la grimace.
+
+Nous nous arrachons à ces démonstrations, et la colonne s\'ébranle.
+
+Elle s\'ébranle, mais elle n\'avance pas. C\'est pire qu\'avant Kokoro. La mauvaise volonté est criante. À tout instant, un porteur s\'arrête, et il faut l\'attendre, la charge d\'un âne tombe, et il faut la remettre en place. À dix heures, au moment de la halte, on n\'a pas fait six kilomètres.
+
+J\'admire la patience du capitaine Marcenay. Pas une fois il ne s\'est départi du calme le plus parfait. Rien ne le rebute, rien ne le lasse. Il lutte avec une énergie froide et calme contre ce parti pris d\'obstruction.
+
+Mais, au moment de repartir pour l\'étape du soir, c\'est une autre chanson. Moriliré déclare qu\'il s\'est trompé. On consulte les deux guides de Mlle Mornas. Tchoumouki dit comme Moriliré. Tongané affirme, au contraire, qu\'on est en bonne voie. Nous voilà bien renseignés ! Lequel croire ?
+
+Après beaucoup d\'hésitations, on se rallie à l\'avis de la majorité, et l\'on revient en arrière. Alors c\'est merveille de voir à quel train nous marchons. Les Noirs ne sont plus fatigués, les charges des ânes se sont consolidées toutes seules. En une heure, nous parcourons la distance qui en a exigé quatre en sens contraire, et, avant la nuit, nous reprenons notre campement du matin, près de Kokoro.
+
+
+*6 février.* -- Hier, 5 février, nous sommes repartis sans trop d\'anicroches, et, chose admirable, par le même chemin auquel nous avions renoncé la veille. Moriliré nous déclare, en effet, au réveil, que, toute réflexion faite, c\'est le soir et non le matin qu\'il s\'est trompé ! De nouveau, Tchoumouki le soutient. Je suis fort enclin à croire que ces deux moricauds sont de mèche pour se payer notre tête.
+
+Rien de particulier ce jour-là, sauf la mauvaise volonté à laquelle nous commençons à être habitués, mais deux incidents graves aujourd\'hui. Pendant l\'étape du matin, un âne tombe tout à coup. On veut le relever. Il est mort. Bien entendu, cette mort peut être naturelle. J\'avoue que je songe, cependant, au *doung-kono* ou à quelque autre saleté du pays.
+
+On ne dit rien. On répartit la charge de l\'âne défunt sur ses congénères, et nous reprenons notre marche.
+
+Au départ de l\'après-midi, deuxième incident. On constate qu\'il manque un porteur. Qu\'est-il devenu ? Mystère. Le capitaine Marcenay mord sa moustache, je vois bien qu\'il est soucieux. Si les nègres nous abandonnent, nous sommes frais. Or, rien de plus contagieux que le microbe de la désertion. Aussi, je m\'aperçois que, depuis ce moment, la surveillance est devenue plus étroite. Nous sommes contraints de défiler comme à la parade, et les cavaliers de l\'escorte ne permettent plus aucune fantaisie individuelle. Cette discipline rigoureuse me gêne personnellement ; je l\'approuve cependant.
+
+À l\'arrivée, le soir, autre surprise. On s\'aperçoit que plusieurs nègres sont ivres. Qui donc leur a donné à boire ?
+
+Le capitaine organise la garde du camp de la manière la plus méticuleuse, puis il va trouver M. Barsac, avec lequel je suis précisément, et l\'entretient de la situation, qui va s\'aggravant depuis Sikasso. Le docteur Châtonnay, M. Poncin, Mlle Mornas, puis Saint-Bérain, viennent nous rejoindre successivement, si bien que nous tenons, en somme, un vrai conseil de guerre.
+
+Le capitaine expose en quelques mots les faits, dont il attribue la responsabilité à Moriliré. Il propose de soumettre le guide infidèle à un interrogatoire, et d\'agir ensuite au besoin par la force. Chaque nègre serait individuellement accompagné d\'un tirailleur, qui l\'obligerait à marcher, fût-ce sous menace de mort.
+
+M. Barsac n\'est pas de cet avis, et Saint-Bérain pas davantage. Interroger Moriliré, c\'est lui donner l\'éveil, lui montrer qu\'il est démasqué. Or, nous ne possédons aucune preuve contre lui, nous sommes même incapables d\'imaginer dans quel but il nous trahirait. Moriliré n\'aurait qu\'à nier, nous ne pourrions rien lui répondre. Quant aux Noirs, quel moyen a-t-on de les contraindre ? Que fera-t-on, s\'ils se couchent, s\'ils opposent seulement la force d\'inertie ? Les fusiller serait un mauvais moyen de nous assurer leurs services.
+
+On conclut qu\'il faut garder le silence, être de plus en plus ferme, tout en s\'armant d\'une patience invincible, et, par-dessus tout, surveiller soigneusement Moriliré.
+
+C\'est très bien, mais une réflexion me vient. Pourquoi s\'entête-t-on dans ce voyage ? La mission avait pour objet de s\'assurer de la mentalité des nègres de la boucle du Niger et de leur degré de civilisation. Eh bien ! On la connaît, leur mentalité. Que les populations habitant entre la côte et Kankan, voire, à la rigueur, jusqu\'à Tiola ou même Sikasso, soient assez dégrossies pour être dignes de quelques droits politiques, je veux bien le concéder, malgré que ce ne soit pas mon avis.
+
+Mais depuis Sikasso ? Ce ne sont pas ces sauvages qui nous entourent, ces Bobos aussi proches de l\'animal que de l\'homme, qu\'on songerait à transformer en électeurs, je suppose. Dès lors, à quoi bon s\'obstiner ?
+
+N\'est-il pas évident que, plus on va s\'avancer vers l\'est, c\'est-à-dire plus on va s\'éloigner de la mer, moins les naturels auront eu de contacts avec les Européens, et que, par suite, leur vernis de civilisés ( ?) sera de plus en plus mince ?
+
+Ces vérités me paraissent éblouissantes, et je m\'étonne que mes compagnons de voyage n\'en soient pas, eux aussi, éblouis.
+
+Au fait ! Peut-être le sont-ils, mais peut-être aussi ont-ils leurs raisons de fermer les yeux. Examinons cela.
+
+
+*Primo :* le capitaine Marcenay. Pour lui, la question ne se pose pas. Le capitaine n\'a pas à discuter ; il obéit. Au surplus, je n\'imagine pas qu\'il lui viendrait, même en l\'absence d\'ordre, la pensée de reculer tant que Mlle Mornas ira de l\'avant. La sympathie qu\'ils éprouvent l\'un pour l\'autre a marché beaucoup plus vite que nous depuis Sikasso. Nous nous trouvons en présence d\'une passion officielle, avouée de part et d\'autre, et qui doit finir logiquement par un mariage, à telle enseigne que M. Barsac a, de lui-même, renoncé à ses allures conquérantes, pour redevenir uniquement l\'excellent homme qu\'il est en réalité. Donc, passons.
+
+
+*Secundo :* M. Poncin. M. Poncin est, lui aussi, un subordonné et, lui aussi, il obéit. Quant à ce qu\'il pense en son for intérieur, bien fin qui le dira. M. Poncin prend des notes du matin au soir, mais est d\'un silencieux à rendre des points à Hermès lui-même. Je jurerais que depuis le départ il n\'a pas prononcé dix paroles.
+
+Mon opinion personnelle est qu\'il s\'en fiche. Donc, passons sur M. Poncin.
+
+
+*Tertio :* Saint-Bérain. Oh ! Ça, c\'est une autre affaire. Saint-Bérain ne voit que par les yeux de sa tante-nièce ; il n\'existe que par elle. D\'ailleurs, Saint-Bérain est si distrait qu\'il ne sait peut-être pas qu\'il est en Afrique. Donc, passons sur le numéro trois.
+
+
+*Quarto :* Mlle Mornas. Nous connaissons la raison de son voyage. Elle nous l\'a dit : son caprice. Cette raison suffirait, même si la délicatesse ne nous interdisait pas de chercher à savoir s\'il en existe une autre en réalité.
+
+
+*Quinto :* Moi. Ce numéro cinq est le seul dont la conduite soit parfaitement logique. Quelle est ma raison d\'être, à moi ? La copie. Donc, plus il y aura d\'embêtements de toute sorte, plus je fabriquerai de copie, et plus je serai content. Il est, par conséquent, tout simple que je ne songe pas à revenir en arrière. Aussi je n\'y songe pas.
+
+Reste M. Barsac. Lui, il ne doit obéissance à personne, il n\'est amoureux de personne, il a dû s\'apercevoir que nous étions en Afrique, il est trop sérieux pour céder à un caprice, et il n\'a pas de copie à placer. Alors ?
+
+Ce problème me tracasse tellement que je vais délibérément lui poser la question à lui-même.
+
+M. Barsac me regarde, hoche la tête de haut en bas, et me répond par un geste qui ne signifie rien. C\'est tout ce que je peux en tirer. On voit que c\'est un habitué de l\'interview.
+
+
+*7 février.* -- Il y a du nouveau, et la nuit a été fort agitée. Conséquence : nous ne sommes pas partis à l\'heure habituelle, et nous ne ferons aujourd\'hui qu\'une seule étape, celle du soir.
+
+Relatons les faits dans leur ordre chronologique.
+
+On en tirera forcément cette conclusion que la distraction peut quelquefois avoir du bon.
+
+On avait décidé, hier, de ne rien dire à Moriliré et de se borner à le surveiller plus étroitement. Dans ce but, et afin de garder l\'individu à l\'oeil sans mettre les hommes de l\'escorte dans la confidence de nos craintes, nous étions convenus de veiller à tour de rôle. Comme nous sommes six, y compris Mlle Mornas qui tient à compter pour un homme, ce n\'est vraiment pas une affaire.
+
+Conformément à ce programme, on a divisé la nuit, de neuf heures à cinq heures, en six fractions sensiblement égales, puis on a tiré ces fractions au sort. Nous sortons de l\'urne dans l\'ordre suivant : Mlle Mornas, M. Barsac, le capitaine Marcenay, moi, Saint-Bérain et M. Poncin. Tel est l\'arrêt du destin.
+
+À une heure du matin, mon tour arrive, et je remplace le capitaine Marcenay. Celui-ci me dit que tout va bien et me montre, d\'ailleurs, Moriliré, qui dort non loin de nous, enroulé dans son doroké. La lune, qui est précisément dans son plein aujourd\'hui, permet de discerner le visage noir du drôle et fait ressortir la blancheur de son vêtement.
+
+Rien d\'anormal pendant mon tour de garde, si ce n\'est que, vers une heure et demie, je crois entendre ce même ronflement qui nous a tant intrigués le soir de notre première journée après Kankan. Le bruit paraît venir de l\'est, mais il est, cette fois, si lointain, si faible, si insaisissable, que je ne suis pas encore très sûr à l\'heure actuelle de l\'avoir réellement entendu.
+
+À deux heures et quart, je passe la consigne à Saint-Bérain et je vais me coucher.
+
+Je ne peux dormir. Manque d\'habitude sans doute, le sommeil interrompu ne veut plus revenir. Après une demi-heure de lutte, j\'y renonce et, je me lève, dans l\'intention d\'aller finir ma nuit en plein air.
+
+À ce moment, j\'entends de nouveau -- tellement faible que je peux croire à une seconde illusion -- ce même bruit de ronflement qui a, tout à l\'heure, attiré mon attention. Cette fois, j\'en aurai le coeur net. Je m\'élance au-dehors, et je tends l\'oreille dans la nuit\...
+
+Rien, ou, du moins, si peu de chose ! Un souffle qui décroît, décroît et meurt, par gradations insensibles dans la direction de l\'est. Il faut me résigner à rester dans le doute.
+
+Je me décide à aller retrouver Saint-Bérain, qui est en train de faire son tour de garde.
+
+Surprise ! -- (au fait ! Est-ce une surprise ?) -- Saint-Bérain n\'est pas à son poste. Gageons que l\'incorrigible distrait a oublié la consigne et qu\'il s\'occupe de tout autre chose. Pourvu que Moriliré n\'en ait pas profité pour nous brûler la politesse !
+
+Je m\'en assure. Non, Moriliré ne s\'est pas enfui. Il est toujours là, qui dort béatement, à plat sur le sol. J\'aperçois sa face noire et son doroké blanc vivement éclairés par la lune.
+
+Tranquillisé de ce côté, je me mets en quête de Saint-Bérain, dans l\'intention de le tancer d\'importance. Je sais à peu près où le trouver, car j\'ai remarqué qu\'une rivière coule non loin de notre campement. J\'y vais tout droit, et, conformément à mes prévisions, j\'aperçois une ombre au milieu du courant. Comment l\'enragé pêcheur peut-il être à cette distance de la rive ? Il a donc le pouvoir de marcher sur les eaux ?
+
+Ainsi qu\'il me l\'a appris ce matin, Saint-Bérain a tout bonnement improvisé, avec trois bouts de bois, un radeau juste assez grand pour le porter, puis, à l\'aide d\'une longue branche en guise de gaffe, il s\'est poussé à quelques mètres de la rive. Là, il a « mouillé » au moyen d\'une grosse pierre jouant le rôle de l\'ancre, et qu\'une corde en fibre de rônier relie au radeau. La fabrication de ce matériel n\'a pas exigé plus d\'une demi-heure de travail. C\'est très ingénieux.
+
+Pour l\'instant, ce n\'est pas cela qui me préoccupe.
+
+Je m\'approche du bord, et j\'appelle d\'une voix assourdie :
+
+--- Saint-Bérain ?\...
+
+--- Présent ! me répond l\'ombre des eaux.
+
+Je reprends :
+
+--- Qu\'est-ce que vous faites, là, Saint-Bérain ?
+
+J\'entends un petit rire, puis l\'ombre répond :
+
+--- Je braconne, mon cher.
+
+Je crois rêver. Braconner ?\... Au Soudan ?\... Je ne sache pas que la pêche y soit réglementée. Je répète :
+
+--- Vous braconnez ?\... Qu\'est-ce que vous me chantez là ?
+
+--- Sans doute, me répond Saint-Bérain, puisque je pêche, la nuit, à l\'épervier. C\'est absolument défendu.
+
+Cette pensée l\'amuse beaucoup. Il rit, l\'animal.
+
+--- Et Moriliré ?\... dis-je, exaspéré.
+
+C\'est, dans la nuit, un formidable juron, que ma plume se refuse à transcrire, puis l\'ombre se met en mouvement et Saint-Bérain, fait comme un voleur, trempé jusqu\'aux genoux, saute sur la rive. Il est affolé, maintenant. C\'est un peu tard.
+
+--- Moriliré !\... répète-t-il d\'une voix étranglée.
+
+--- Oui, Moriliré, lui dis-je.
+
+Qu\'en avez-vous fait, malheureux ?
+
+Ici, nouveau juron, et Saint-Bérain prend sa course dans la direction du poste, qu\'il n\'aurait pas dû quitter.
+
+Heureusement, Moriliré dort toujours. Je pourrais même affirmer qu\'il n\'a pas fait un mouvement depuis que j\'ai relevé le capitaine Marcenay. C\'est ce que constate Saint-Bérain.
+
+--- Vous m\'avez fait une peur ! Soupire-t-il.
+
+À ce moment, nous entendons un bruit assez violent du côté de la rivière que nous venons de quitter. On jurerait un homme qui se noie.
+
+Nous courons, Saint-Bérain et moi, et, en effet, nous distinguons, au-delà du radeau improvisé, quelque chose de noir qui se débat.
+
+--- C\'est un nègre, dit Saint-Bérain.
+
+Il monte sur son radeau, et dégage le nègre, qu\'il apporte à la rive, tout en m\'expliquant :
+
+--- Le moricaud s\'est empêtré dans mon épervier, que j\'ai oublié.( Naturellement, mon brave Saint-Bérain.) Mais que diable faisait-il là, ce nègre ?
+
+Nous nous penchons sur le pauvre diable qui, d\'ailleurs, respire avec une force suffisante pour que nous n\'ayons aucune inquiétude sur son sort, et un même cri s\'échappe de nos lèvres :
+
+--- Moriliré !\...
+
+C\'est Moriliré, en effet, Moriliré complètement nu, mouillé de la tête aux pieds, à demi suffoqué par sa noyade. Il est clair que le guide a quitté le camp, qu\'il a traversé la rivière à la nage, qu\'il s\'est offert une petite promenade dans la campagne, et qu\'au retour il s\'est embarrassé dans le filet providentiellement oublié par Saint-Bérain.
+
+Sans notre précieux distrait, la fugue du traître nous restait peut-être à jamais inconnue.
+
+Mais, soudain, cette pensée me vient : et l\'autre Moriliré, celui qui dort si bien à la clarté de la lune ?
+
+Je cours à ce dormeur obstiné, je le secoue\... Bon ! J\'aurais dû m\'en douter, le doroké est vide et me reste dans la main. Quant à la face noire, ce n\'est qu\'un morceau de bois surmonté du casque et du plumet dont l\'ancien tirailleur orne ses avantages naturels.
+
+Cette fois, le drôle est pris en flagrant délit. Il faudra bien qu\'il s\'explique. Je retourne près de Saint-Bérain et de son prisonnier. Ce dernier semble revenir péniblement à la vie.
+
+Je dis : semble, car, tout à coup, il saute sournoisement sur ses pieds et s\'élance du côté de la rivière, dans l\'intention évidente d\'y prendre un nouveau bain.
+
+Moriliré a compté sans son hôte. La main de Saint-Bérain s\'abat sur le poignet du fugitif qui fait de vains efforts pour se dégager.
+
+Sincèrement, je crois Saint-Bérain moins séduisant que l\'*Apollon* du Belvédère, mais il est fort comme Hercule. Il doit avoir une pince terrible, si j\'en juge par les contorsions et les grimaces du nègre. En moins d\'une minute, Moriliré est vaincu, glisse sur les genoux et demande grâce. En même temps, de sa main inerte quelque chose tombe.
+
+Je me baisse et ramasse l\'objet. Malheureusement, nous ne nous méfions pas assez du nègre. Moriliré se dégage d\'un effort désespéré, se jette sur moi et s\'empare, avec sa main libre, dudit objet, qui disparaît dans sa bouche.
+
+Troisième juron de Saint-Bérain.
+
+Je saute à la gorge du captif, dont mon compagnon empoigne l\'autre bras. Moriliré, étranglé, doit restituer. Il ne restitue, hélas ! Qu\'à moitié. Avec ses dents d\'acier, le nègre a coupé en deux l\'objet suspect, dont une partie est engloutie dans les profondeurs de son estomac.
+
+Je regarde ma conquête. C\'est une petite feuille de papier, sur laquelle il y a quelque chose d\'écrit.
+
+--- Tenez bien cette canaille, dis-je à Saint-Bérain.
+
+Saint-Bérain me rassure d\'un mot, et je cours chercher le capitaine Marcenay. Le premier soin de celui-ci est de déposer Moriliré congrûment ficelé dans une tente, autour de laquelle il place quatre hommes munis de la consigne la plus sévère. Après quoi, nous allons tous les trois chez le capitaine, très impatients de savoir ce qu\'il y a sur la feuille de papier.
+
+À la lueur d\'une lanterne, on constate que ce sont des caractères arabes. Le capitaine, arabisant distingué, n\'aurait aucune peine à les lire, s\'ils étaient mieux tracés, et si le document était intact. Or, l\'écriture est des plus imparfaites, et, comme je l\'ai dit, nous ne possédons qu\'une partie du texte. Dans l\'état actuel, ce n\'est qu\'un rébus, que l\'insuffisante lumière de la lanterne ne permet pas de déchiffrer. Il faut attendre le jour.
+
+Mais, le jour venu, nous réfléchissons que nous allons sans doute nous donner une peine inutile. Tout porte à croire que Moriliré, ne pouvant plus espérer nous tromper, voudra tout au moins se valoir notre indulgence, qu\'il avouera sa faute, par conséquent, et nous donnera lui-même la traduction complète du document.
+
+Nous nous dirigeons vers la tente qui lui sert de prison, nous y pénétrons\... Stupéfaits, nous nous arrêtons sur le seuil : les liens du prisonnier jonchent le sol.
+
+La tente est vide.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9 -- Par ordre supérieur]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942909 .pcalibre2 .pcalibre1} {#chapitre-9-par-ordre-supérieur .calibre171 .sigil_not_in_toc}
+
+(Carnet de notes d\'Amédée Florence.)
+
+
+*Même jour.* -- Tout à l\'heure, j\'ai dû m\'interrompre, le capitaine Marcenay m\'ayant appelé pour me montrer la traduction du lambeau de document arraché à l\'appétit de Moriliré. Je reprends le récit chronologique des événements.
+
+Donc, nous trouvons la tente vide. Plus de Moriliré. Rien que ses liens sur le sol. Très irrité, le capitaine Marcenay interpelle les hommes de garde. Mais les pauvres diables sont aussi étonnés que lui. Ils affirment n\'avoir pas quitté leur poste et n\'avoir entendu aucun bruit suspect. C\'est à n\'y rien comprendre.
+
+Nous rentrons dans la tente, et alors seulement nous remarquons qu\'elle est percée, à son sommet, d\'un trou assez large pour laisser passer un homme, et au-dessus duquel on aperçoit une grosse branche de bombax. Dès lors, tout s\'explique. Moriliré, mal attaché, s\'est débarrassé de ses liens et, grimpant le long du piquet central, il a repris sa liberté par le chemin des airs.
+
+Faut-il courir après lui ? À quoi bon ? Le fugitif a près d\'une heure d\'avance et, d\'ailleurs, comment trouver un homme au milieu des hautes graminées de la brousse ? Il faudrait avoir des chiens.
+
+D\'accord sur ce point, nous nous résignons à l\'inévitable. Le capitaine fait abattre la tente qui a si mal gardé Moriliré, renvoie les quatre tirailleurs, en leur ordonnant, sous peine d\'un châtiment sévère, le plus profond silence sur ce qu\'ils ont vu, et disparaît chez lui, où il va s\'attaquer au mystérieux document. Moi, je m\'attelle à la rédaction de mes notes.
+
+Pendant ce temps, Saint-Bérain mettra nos compagnons au courant des événements, s\'il ne l\'oublie pas, toutefois.
+
+Une heure plus tard, le capitaine Marcenay m\'envoie chercher, comme je l\'ai dit. Je le trouve dans la tente de M. Barsac, où tous les Européens sont réunis. Les visages expriment un étonnement des plus naturels. À quoi rime, en effet, la trahison de Moriliré ? Agirait-il pour le compte d\'un tiers, dont, pour ma part, j\'ai soupçonné l\'intervention il y a déjà longtemps ? Dans quelques minutes, nous le saurons peut-être.
+
+--- L\'écriture arabe, nous explique le capitaine Marcenay, va de droite à gauche, mais il n\'y a qu\'à la lire par transparence, en tournant vers soi le verso du papier, pour la rétablir dans le sens qui nous est habituel. On obtient alors ceci.
+
+Il nous remet un papier, calqué sur celui dont nous nous sommes emparés, et par conséquent irrégulièrement déchiré, sur lequel je lis les mots suivants, que je transcris en caractères latins :
+
+
+*Mansa a man grigni toubaboul*
+
+*Mémou nimbé mando kafa *
+
+*batak manaéta sofa*
+
+*A okata. [Batou i a kafolo.]{style="font-size: 0.9em; line-height: 1.2;"}*
+
+*Mansa a bé*
+
+
+S\'il n\'y a que moi pour déchiffrer ce grimoire !\...
+
+Le papier passe de main en main. Mlle Mornas et Saint-Bérain paraissent y comprendre quelque chose.
+
+J\'admire l\'étendue de leurs connaissances. Quant à MM. Barsac et Poncin, ils en savent juste autant que moi.
+
+--- Les derniers mots de la première et de la deuxième ligne sont incomplets, nous expose le capitaine Marcenay. L\'un doit être lu *toubaboulengo*, qui veut dire « Européens », littéralement « Européens rouges », et l\'autre *Kafama*, qui signifie « encore ». Voici maintenant la traduction du document ainsi complété : « Le maître (ou le roi) ne veut pas que les Européens\... Puisqu\'ils avancent encore\... Lettre amènera soldats\... Il commandera. Obéis\... Tu as commencé. La maître (ou le roi) est\... »
+
+Nous faisons la grimace. Ce n\'est pas beaucoup plus clair.
+
+Cependant, le capitaine Marcenay continue sa démonstration.
+
+--- Le premier fragment de phrase se comprend aisément. Il y a quelque part un maître ou un roi qui ne veut pas que nous fassions telle ou telle chose. Quoi ? Le second fragment nous le dit. Il ne veut pas que nous avancions dans le pays noir. Pour une raison quelconque, nous le gênons, probablement. Ce second fragment commençait sans doute l\'énoncé d\'un plan que nous ne connaîtrons pas. Les deux lignes suivantes sont moins limpides. « Une lettre qui amènera des soldats », cela ne veut pas dire grand-chose ; la quatrième n\'est qu\'un ordre adressé à Moriliré, et nous ignorons qui est cet « il », qui commandera. Quant aux derniers mots, ils n\'ont aucun sens, pour nous tout au moins.
+
+On se regarde avec désappointement. Nous voici bien avancés ! M. Barsac prend la parole et résume la situation.
+
+--- De ce que nous avons observé jusqu\'ici, y compris les événements d\'aujourd\'hui, on peut conclure : *Primo*, que notre guide nous trahissait pour le compte d\'un tiers, lequel, pour des raisons inconnues, cherche à s\'opposer à notre passage. *Secundo*[, que cet inconnu dispose d\'un certain pouvoir, puisqu\'il a réussi à nous donner, à Conakry, un guide de son choix.]{style="font-size: 1em; text-indent: 20pt;"} *Tertio,* [que ce pouvoir n\'est pas très grand, néanmoins, puisqu\'il n\'a trouvé, jusqu\'ici, que des moyens enfantins pour parvenir à ses fins.]{style="font-size: 1em; text-indent: 20pt;"}
+
+J\'objecte :
+
+--- Pardon ! Le mystérieux inconnu a fait, dans le même sens, des tentatives d\'un autre ordre.
+
+Et je communique à l\'honorable auditoire mes réflexions touchant l\'empoisonnement au *doung-kono* et les prédictions du *kéniélala*. Je suis loué pour ma perspicacité.
+
+--- Les ingénieuses déductions de M. Florence, ajoute M. Barsac, ne font en somme que confirmer les miennes. Je persiste donc à croire que notre adversaire, quel qu\'il soit, n\'est pas très à craindre, sans quoi il aurait employé contre nous des moyens plus efficaces et plus sérieux.
+
+M. Barsac a raison. C\'est la sagesse, Sophie, la grande Sophie des Grecs, qui parle par sa bouche. Il continue :
+
+--- Mon opinion est que, tout en ayant cette affaire en sérieuse considération, il convient de ne pas l\'exagérer. Ce qui revient à dire : soyons prudents, mais ne nous laissons pas émouvoir.
+
+Tout le monde approuve, ce qui ne m\'étonne pas, car je connais les mobiles secrets de chacun. Ce qui m\'étonne, par exemple, c\'est l\'obstination de M. Barsac. Pourquoi ne saisit-il pas cette occasion d\'interrompre un voyage dont l\'inutilité n\'est pas discutable ?
+
+Quoi qu\'il en soit, nous sommes dans la nécessité de nous procurer de nouveaux guides. Mlle Mornas propose les siens, qui connaissent, ou tout au moins, doivent connaître le pays, puisque c\'est pour cette raison qu\'ils ont été engagés.
+
+Afin de trancher la question, on fait comparaître Tchoumouki et Tongané. L\'attitude du premier ne me plaît pas. Il répond qu\'on peut compter sur lui, mais il semble gêné, embarrassé, et, pendant qu\'il parle, je n\'arrive pas à saisir son regard fuyant. Pour moi, le particulier sue le mensonge. M\'est avis qu\'il ne vaut pas mieux que Moriliré.
+
+Tongané est, au contraire, très carré. Il affirme qu\'il connaît parfaitement le pays et qu\'il nous conduira où il nous plaira d\'aller. Il assure également qu\'il saura mettre à la raison porteurs et âniers. Ce garçon me fait bonne impression. Sa voix est franche, son regard droit.
+
+Je décide qu\'à partir de ce moment j\'aurai confiance en Tongané et me méfierai de Tchoumouki.
+
+Les deux nouveaux guides vont palabrer avec le personnel noir. Selon la version officielle, ils lui apprennent que Moriliré a été dévoré par un caïman, et qu\'ils commanderont désormais en son lieu et place. Personne ne dit mot. Après la sieste, nous partirons.
+
+
+*9 février.* -- Moriliré n\'est plus là, mais c\'est exactement la même chose. Avec Tchoumouki et Tongané, nous n\'avançons guère plus vite qu\'avec leur prédécesseur.
+
+Ce sont, entre les deux guides, des disputes continuelles à propos de la direction à prendre. Ils ne sont jamais d\'accord, et leurs querelles sont interminables. Moi, j\'opine systématiquement dans le sens de Tongané, bien que ce soit lui qui crie le plus fort, et l\'expérience prouve que je vois juste. S\'il arriva, en effet, par hasard, que la majorité décide en faveur de Tchoumouki, les renseignements que nous recueillons au premier village rencontré nous montrent invariablement notre erreur.
+
+Il faut alors biaiser, parfois à travers des terrains quasi impraticables, pour retrouver le bon chemin que nous avons quitté.
+
+D\'autres fois, la discussion des deux Noirs se prolonge tellement, que la grande chaleur arrive et qu\'il faut s\'arrêter où l\'on est.
+
+Dans ces conditions, on n\'avance pas vite. Aussi, en deux jours et demi, avons-nous fait à peine une trentaine de kilomètres. C\'est maigre.
+
+Nous suivons toujours la vallée dans laquelle nous sommes entrés à Kokoro. Elle s\'est élargie encore, et nous n\'avons plus de hauteurs que sur notre droite, dans le Sud, par conséquent.
+
+Le chemin est, en somme, des plus faciles, et n\'étaient les éternels passages de rivières, rarement sur des ponts de bois aux trois quarts rompus, plus souvent au moyen de gués qui ne sont pas toujours très guéables et où les caïmans sont loin d\'être rares, nous n\'aurions à lutter contre aucune difficulté matérielle.
+
+
+*11 février.* -- De bonne heure ce matin, nous sommes au milieu de champs cultivés, ce qui indique la proximité d\'un village. Ces champs seraient assez bien entretenus, si une grande partie d\'entre eux n\'étaient pas dévastés par les termites qui sont de terribles destructeurs.
+
+Ces insectes bâtissent des termitières en forme de champignons, parfois de la hauteur d\'un homme, qu\'ils évacuent, au commencement de l\'hiver, sous forme de fourmis ailées. Les villages en sont alors infestés. Mais l\'homme ne perd aucune occasion de se distraire un peu. L\'apparition de ces fourmis ailées est le signal de fêtes et d\'orgies sans nom. On allume partout des feux, où les fourmis viennent se brûler les ailes.
+
+Les femmes et les enfants les ramassent et les font frire au beurre de cé. Or, ce n\'est pas tout de manger, il faut boire. C\'est pourquoi, le soir venu, tout le village est ivre.
+
+Vers huit heures, nous apercevons celui que nous annonçaient les cultures. Il s\'appelle Bama. Au moment où nous en approchons, nous rencontrons une procession de *dou*, en train de parcourir les *lougans* pour en chasser les mauvais esprits et demander la pluie. Ces *dou* sont des individus vêtus de blouses sur lesquelles on a cousu des brins de chanvre et des fibres de palmier. Leur tête est entièrement recouverte d\'un bonnet de chanvre avec deux trous pour les yeux et surmontée d\'un cimier en bois rouge ou d\'un bec d\'oiseau de proie.
+
+Ils marchent en dansant, suivis de badauds et de gamins qu\'ils ne se gênent pas pour frapper de leurs bâtons « sacrés ». Lorsqu\'ils passent devant une case, on les gorge de *dolo* (bière de mil) et de vin de palme. C\'est assez dire qu\'après une heure de promenade, ils sont ivres morts.
+
+Une demi-heure plus tard, nous arrivons à Bama. D\'un air hypocrite, Tchoumouki expose alors au capitaine Marcenay que les nègres sont trop fatigués, qu\'ils se refusent à faire une autre étape et qu\'ils demandent à rester à Bama toute la journée. Le capitaine ne bronche pas, et, malgré les signes de réprobation que Tongané multiplie derrière le dos de son camarade, il prend un air étonné et répond que la demande est inutile, puisqu\'il était déjà décidé qu\'on ferait une longue halte ce jour-là. Tchoumouki se retire interloqué, tandis que Tongané lève les bras au ciel et exprime à Malik son indignation.
+
+Nous profitons de cet arrêt imprévu pour aller visiter le village, et bien nous en prend, car il est différent de ceux que nous avons déjà vus jusqu\'ici.
+
+Pour y entrer, on nous fait d\'abord monter sur le toit d\'une case, et on nous conduit ainsi de toit en toit, jusqu\'à celle du *dougoutigui*.
+
+Ce *dougoutigui* est un vieux nègre à fortes moustaches, et ressemble à un ancien sous-officier de tirailleurs. Il fume une longue pipe de cuivre, dont le feu est entretenu par un affreux petit négrillon.
+
+Il nous reçoit avec beaucoup de cordialité, et nous offre du *dolo*. Pour ne pas être en reste de politesse, nous lui faisons quelques menus présents qui le comblent de joie, puis, ces rites accomplis, nous nous promenons en touristes.
+
+Sur la place, un barbier ambulant opère en plein air. Près de lui, des gamins, pédicures et manucures, rognent à l\'aide de vieux ciseaux, les ongles des pieds et des mains. Quatre cauries par tête, tel est le prix de leurs services, mais ils doivent rendre aux clients les rognures d\'ongles, que ceux-ci s\'empressent d\'aller enterrer pieusement dans de petits trous. J\'ai beau m\'enquérir, par le canal de Saint-Bérain qui se fait à peu près comprendre, impossible de connaître les raisons de cette étrange coutume. À quelques pas, un « médecin » traitait un malade suivant les prescriptions du Codex nègre. Nous assistons de loin à la « consultation ».
+
+Le malade est un homme émacié, aux yeux caves, tout tremblant de fièvre. Le médecin le fait coucher sur le sol, au milieu d\'un cercle de curieux, puis, s\'étant blanchi la figure avec de la cendre délayée, car, ici, le blanc est « fétiche », il place auprès de lui une petite statuette en bois grossièrement sculptée, image d\'un dieu favorable. Il exécute ensuite autour du patient une danse échevelée, en poussant des cris sauvages. Enfin, il se fait indiquer la partie malade, la masse doucement, et soudain, avec un hurlement de joie, feint d\'en retirer un fragment d\'os dissimulé au préalable dans sa main.
+
+Le malade se lève aussitôt et s\'en va, en se déclarant guéri, nouvelle preuve de la vérité de cet apophtegme : il n\'y a que la foi qui sauve.
+
+Celle de notre malade n\'était-elle pas suffisante ? Il y a lieu de le supposer, car l\'amélioration par lui accusée n\'a été que de courte durée. Le soir même, notre campement recevait sa visite. Ayant appris, de l\'un ou l\'autre de nos nègres, qu\'un médecin *toubab* était parmi nous, il venait implorer le secours du sorcier blanc, puisque le sorcier noir n\'avait pas réussi à le soulager.
+
+Après un examen sommaire, le docteur Châtonnay lui administra tout simplement une dose de quinine. Le « client » ne fut pas avare de barka (merci), mais, tout en s\'éloignant, il secouait la tête d\'un ait sceptique, en homme qui ne compte guère sur un remède dont aucune incantation ni sortilège ne renforcent l\'efficacité.
+
+
+*12 février.* -- Aujourd\'hui, c\'est « même chose » qu\'hier comme disent nos hommes d\'escorte. C\'est même pis. Nous ne ferons encore qu\'une seule étape, et nous n\'en ferons pas demain.
+
+Ce matin, le départ s\'est accompli en bon ordre.
+
+Au moment où notre colonne s\'ébranlait, nous avons vu accourir le malade d\'hier soir. Il allait tellement mieux qu\'il voulait remercier son sauveur une fois de plus. Le docteur lui remit quelques paquets de quinine, avec la manière de s\'en servir.
+
+Tout va bien jusqu\'à l\'étape. Le train est vif. Pas une anicroche, pas une plainte parmi les nègres. C\'est trop beau.
+
+À l\'heure de la halte, en effet, pendant qu\'on s\'installe, Tchoumouki aborde le capitaine Marcenay et lui tient un discours analogue à celui de la veille. Le capitaine répond que Tchoumouki a pleinement raison, qu\'on ne repartira pas, ni ce soir, ni de toute la journée de demain, mais qu\'ensuite, après ce grand repos, on ne s\'arrêtera plus, le soir, avant d\'avoir franchi un minimum de vingt kilomètres.
+
+Le capitaine a prononcé ces mots à haute voix, de façon que nul n\'en ignore. Les nègres savent donc qu\'on va désormais inaugurer la manière forte. Mais le ton ferme du capitaine les a probablement impressionnés. Ils ne disent rien et font le gros dos, en échangeant des regards en dessous.
+
+
+*Même jour, onze heures du soir.* -- Cette histoire-là commence à m\'agacer. Ce soir, un peu avant six heures, en plein jour, par conséquent, nous entendons tout à coup le même bruit de ronflement, ou de bourdonnement, qui a, une première fois, frappé nos oreilles près de Kankan, et ensuite mon tympan personnel, le soir de l\'incident Moriliré.
+
+Aujourd\'hui encore, ce bruit singulier nous arrive de l\'est. Il est très faible, suffisamment fort, cependant, pour qu\'une erreur ne soit pas admissible. Aussi bien, je ne suis pas seul à l\'avoir entendu. Le camp entier lève la tête vers le ciel, et les Noirs donnent déjà des signes de terreur.
+
+Il fait jour, ai-je dit, et pourtant nous n\'apercevons rien. Où qu\'on regarde, le ciel est désert. Il est vrai qu\'une colline assez haute limite la vue, du côté de l\'est précisément. Je me hâte vers son sommet.
+
+Pendant que je la gravis de toute la vitesse de mes jambes, l\'étrange bruit grandit peu à peu, puis cesse brusquement, et, quand j\'atteins le point culminant, rien ne trouble le silence.
+
+Mais, si je n\'entends plus, je peux voir maintenant.
+
+Devant moi, c\'est la plaine, c\'est, à perte de vue, cette forêt de graminées démesurées qui constitue la brousse. Cette étendue est déserte.
+
+J\'écarquille en vain les yeux, en vain j\'inspecte l\'horizon. Je ne vois rien.
+
+Je reste en sentinelle jusqu\'au moment où la nuit tombe. Peu à peu, de profondes ténèbres recouvrent la campagne, car la lune va entrer dans son dernier quartier et se lève tard, par conséquent. Il est inutile de m\'entêter davantage. Je redescends.
+
+Or, je ne suis pas à moitié de la côte que le bruit reprend. C\'est à devenir fou, ma parole. Il reprend de la même manière qu\'il a cessé, brusquement, puis décroît peu à peu, comme s\'il s\'éloignait dans l\'Est. En quelques minutes, c\'est de nouveau le silence.
+
+J\'achève ma descente, tout pensif, et je rentre dans ma tente, où j\'écris brièvement ces quelques notes.
+
+
+*13 février.* -- Aujourd\'hui, repos. Chacun s\'occupe de ses affaires. M. Barsac se promène de long en large. Il paraît soucieux.
+
+M. Poncin prend, sur un calepin de grand format, des notes sans doute relatives à ses fonctions. À en juger par les mouvements de son crayon, il semblerait qu\'il se livre à des calculs. Quels calculs ? Je le lui demanderais bien, mais me répondrait-il ? Entre nous, je crains qu\'il ne soit muet.
+
+Saint-Bérain\... Bon ! Où est-il, Saint-Bérain ?\... Je présume qu\'il taquine le goujon quelque part.
+
+Le capitaine Marcenay cause avec Mlle Mornas. Ne les troublons pas. À l\'autre extrémité du camp, Tongané tient compagnie à Malik.
+
+Ils n\'ont pas l\'air de trouver le temps long, eux non plus.
+
+Le personnel nègre dort çà et là, et l\'escorte, à l\'exception des sentinelles, fait de même.
+
+Moi, je passe une bonne partie de la journée à terminer un article, à l\'aide des notes des jours précédents.
+
+L\'article fini et signé, j\'appelle Tchoumouki, préposé au service de la poste. Tchoumouki ne répond pas. Je prie un tirailleur d\'aller à sa recherche. Une demi-heure plus tard, le tirailleur revient et me dit qu\'il n\'a pu le découvrir. Je le cherche à mon tour sans plus de succès. Tchoumouki est devenu invisible, et je dois renoncer à expédier mon article.
+
+
+*14 février.* -- Ce matin, coup de théâtre.
+
+Vers huit heures, car nous avons passé une partie de la matinée à chercher inutilement Tchoumouki, nous nous disposons à partir, de guerre lasse, quand, dans l\'ouest, et, par conséquent, du côté de Bama que nous avons quitté il y a deux jours, nous voyons apparaître au loin une troupe nombreuse.
+
+Le capitaine Marcenay l\'a vue avant moi, et il a donné ses ordres en conséquence. En un clin d\'oeil, notre escorte a pris ses positions de combat. Ces précautions sont inutiles. Nous ne tardons pas à reconnaître des uniformes français, ou du moins ce qui en tient lieu dans ce pays, et, quand la troupe inconnue est plus près, nous constatons qu\'elle se compose de vingt soldats réguliers de race noire, tous montés et armés du fusil réglementaire, et de trois Européens, également à cheval, deux sous-officiers et un lieutenant, qui porte la tenue de l\'infanterie coloniale.
+
+Un de nos sergents est envoyé à la rencontre des nouveaux venus, qui, eux-mêmes, détachent en avant un des leurs.
+
+Les deux parlementaires échangent quelques mots, puis la troupe, qui a fait halte pendant ces pourparlers, reprend sa marche dans notre direction.
+
+Elle pénètre dans notre campement, les fusils en bandoulière, et le lieutenant qui la commande aborde le capitaine Marcenay. Le dialogue suivant parvient à nos oreilles :
+
+--- Le capitaine Marcenay ?
+
+--- C\'est moi, lieutenant\...
+
+--- Lieutenant Laceur, du 72e d\'infanterie coloniale, commandant actuellement un détachement monté de volontaires soudanais. J\'arrive de Bamako, mon capitaine, et, depuis Sikasso, où je vous ai manqués de quelques jours, je suis à votre poursuite.
+
+--- Dans quel but ?
+
+--- Ce pli vous l\'apprendra, mon capitaine.
+
+Le capitaine Marcenay prend la lettre qui lui est offerte. Pendant qu\'il la lit, je constate que son visage exprime autant de surprise que de désappointement.
+
+--- C\'est bien, lieutenant, dit-il. Permettez-moi de mettre M. Barsac et ses compagnons au courant. Je suis ensuite à vous.
+
+Le lieutenant s\'incline. Le capitaine donne un ordre à ses hommes, puis s\'approche de notre groupe.
+
+--- J\'ai à vous apprendre une nouvelle étonnante, monsieur le député, dit-il à M. Barsac. Il faut que je vous quitte.
+
+--- Nous quitter !\...
+
+Cette exclamation, je dois à la vérité de dire que c\'est Mlle Mornas qui l\'a poussée. Je la regarde. Elle est toute pâle et se mord les lèvres. Je ne connaîtrais pas son énergie, je jurerais qu\'elle va pleurer.
+
+Nous, nous sommes surtout ahuris, sauf M. Barsac, chez qui la colère domine.
+
+--- Qu\'est-ce à dire, capitaine ? demande-t-il.
+
+--- C\'est-à-dire, monsieur le député, que je reçois l\'ordre formel de me rendre à Tombouctou.
+
+--- C\'est inimaginable ! s\'écrie M. Barsac, qui semble très blessé. -- Mais cela est, réplique le capitaine. Lisez plutôt.
+
+Il tend à M. Barsac la lettre que le lieutenant lui a remise. Le chef de la mission la parcourt des yeux en donnant de multiples signes d\'indignation, après quoi il nous la montre et nous prend à témoin du sans-gêne avec lequel on le traite.
+
+Je m\'arrange pour avoir la lettre le dernier, afin de pouvoir en prendre rapidement copie. Voici cette lettre :
+
+
+*République Française*
+
+*Gouvernement général du Sénégal *
+
+*Cercle de Bamako*
+
+*Le colonel*
+
+*Ordre au capitaine Pierre Marcenay et à son détachement de se rendre à marches forcées à Ségou-Sikoro et, de là, par la voie du Niger, à Tombouctou, où il se mettra à la disposition du colonel commandant la place. Les chevaux du détachement du capitaine Marcenay seront laissés en subsistance à Ségou-Sikoro.*
+
+*Le lieutenant Lacour, du 72e régiment d\'infanterie coloniale, commandant un détachement monté de vingt volontaires soudanais, portera le présent ordre au capitaine Marcenay, à Sikasso, et se mettra à la disposition de M. Le député Barsac, chef de la mission extraparlementaire de la boucle du Niger (première section), qu\'il escortera jusqu\'à son point d\'arrivée.*
+
+*Le colonel commandant le cercle de Bamako.*
+
+*Saint-Auban.*
+
+
+Pendant que je prends fébrilement copie, M. Barsac continue à exhaler sa mauvaise humeur.
+
+--- C\'est inqualifiable ! dit-il. Nous donner vingt hommes d\'escorte ! Et précisément au moment où nous nous heurtons aux pires difficultés !\... Ah ! Mais cela ne se passera pas ainsi ! Dès mon retour à Paris, nous verrons si la Chambre approuve qu\'on traite un de ses membres avec une pareille désinvolture.
+
+--- En attendant, il faut obéir, dit le capitaine Marcenay, qui n\'essaie même pas de cacher sa tristesse.
+
+M. Barsac attire le capitaine à l\'écart, mais j\'ai une oreille de reporter et j\'entends fort bien.
+
+--- Pourtant, capitaine, si l\'ordre n\'était pas authentique !\... Suggère M. Barsac à mi-voix.
+
+Le capitaine a un haut-le-corps.
+
+--- Pas authentique !\... Répète-t-il. Vous n\'y pensez pas, monsieur le député. Il n\'y a malheureusement aucun doute. La lettre est munie de tous les cachets officiels. D\'ailleurs, j\'ai été sous les ordres du colonel Saint-Auban, et je connais parfaitement sa signature.
+
+La mauvaise humeur excuse bien des choses. Je trouve cependant que M.
+
+Barsac va trop loin. Heureusement que le lieutenant Lacour n\'a pas entendu. Il ne serait pas flatté.
+
+M. Barsac n\'a rien trouvé à répondre et garde le silence.
+
+--- Voudriez-vous me permettre, monsieur le député, de vous présenter le lieutenant Lacour, dit le capitaine et de prendre ensuite congé de vous ?
+
+M. Barsac ayant acquiescé, les présentations sont faites.
+
+--- Connaissez-vous, lieutenant, interroge alors M. Barsac, les raisons qui ont motivé l\'ordre dont vous êtes porteur ?
+
+--- Certainement, monsieur le député, répond le lieutenant. Les Touaregs Aouelimmiden sont en effervescence et menacent nos lignes. D\'où nécessité de renforcer la garnison de Tombouctou. Le colonel a pris ce qu\'il avait sous la main.
+
+--- Et nous ? Objecte le chef de la mission. Est-il prudent de réduire notre escorte à vingt hommes ?
+
+Le lieutenant Lacour sourit.
+
+--- Cela ne peut offrir aucun inconvénient, assure-t-il. Cette région est absolument tranquille.
+
+--- Ne disait-on pas, cependant, objecte M. Barsac -- le ministre des Colonies lui-même a porté ces faits à la tribune de la Chambre, et le président de Conakry nous les a confirmés -- que les abords du Niger étaient le théâtre d\'événements des plus inquiétants ?
+
+--- Cela a été vrai autrefois, répond le lieutenant Lacour, qui sourit toujours, mais il n\'en est plus question. C\'est de l\'histoire ancienne.
+
+--- Pourtant, nous avons pu constater nous-mêmes\... Insiste M. Barsac, qui met le lieutenant au courant de nos aventures.
+
+Celui-ci n\'en paraît pas troublé.
+
+--- Vous voyez bien, dit-il, que l\'inconnu qui semble vous préoccuper plus que de raison est en somme un bien petit personnage. Comment ! Il a, d\'après vous, la prétention de vous barrer la route, et il n\'a pas imaginé autre chose pour vous arrêter ?
+
+Ce n\'est pas sérieux, monsieur le député.
+
+Comme ce sont là ses propres conclusions, M. Barsac ne trouve rien à répliquer.
+
+Le capitaine Marcenay s\'approche.
+
+--- Permettez-moi, monsieur le député, de prendre congé de vous, dit-il.
+
+--- Eh quoi ! Si vite ! s\'écrie M. Barsac.
+
+--- Il le faut bien, répond le capitaine, mes ordres sont formels. Je dois gagner Ségou-Sikoro et Tombouctou sans perdre une heure.
+
+--- Faites donc, capitaine, concède, en lui tendant la main, M. Barsac, dont l\'émotion apaise la colère, et soyez sûr que vous emportez avec vous tous nos voeux. Personne de nous n\'oubliera ces quelques jours passés en commun, et je suis l\'interprète de tous, j\'en suis certain, en vous exprimant notre reconnaissance pour votre protection vigilante et votre dévouement sans défaillance.
+
+--- Merci, monsieur le député, dit le capitaine, sincèrement ému lui aussi.
+
+Il nous fait ses adieux à chacun à tour de rôle, en finissant cela va de soi, par Mlle Mornas. Je les guigne de l\'oeil, on le pense bien.
+
+Mais j\'en suis pour ma curiosité. Tout se passe le plus simplement du monde.
+
+--- Au revoir, mademoiselle, dit le capitaine.
+
+--- Au revoir, capitaine, répond Mlle Mornas.
+
+Rien de plus. Toutefois pour nous qui sommes dans la confidence, ces pauvres mots ont une valeur qu\'on ne leur accorde pas d\'ordinaire. Nous comprenons tous qu\'ils équivalent à une double et formelle promesse.
+
+C\'est bien ainsi que le comprend le capitaine, car son visage s\'est rasséréné. Il prend la main que lui tend Mlle Mornas, y dépose respectueusement un baiser, s\'éloigne, saute à cheval et se place à la tête de son détachement, qui s\'est groupé pendant ce temps.
+
+Un dernier salut à notre adresse, puis il lève son sabre. Les cent hommes s\'ébranlent et partent au grand trot. Non sans un certain trouble, nous les suivons des yeux. En quelques minutes, ils sont hors de vue.
+
+Nous voici seuls avec le lieutenant Lacour, ses deux sous-officiers et ses vingt hommes, dont nous ne soupçonnions pas l\'existence il y a une heure. L\'aventure s\'est déroulée si rapidement que nous en sommes tout étourdis. Il s\'agit, maintenant, de reprendre son calme.
+
+Je reprends le mien assez vite, et je regarde nos nouveaux gardes du corps, afin de faire connaissance avec eux. Il se passe alors quelque chose de curieux. Au premier regard que je jette sur eux, j\'ai un petit frisson -- pas désagréable, ma foi ! -- car j\'ai tout à coup l\'impression très nette qu\'ils ressemblent tout à fait à des gens avec lesquels je n\'aimerais pas me trouver au coin d\'un bois.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- La nouvelle escorte]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942910 .pcalibre2 .pcalibre1} {#chapitre-10-la-nouvelle-escorte .calibre171 .sigil_not_in_toc}
+
+(Carnet de notes d\'Amédée Florence.)
+
+
+*Même jour, le soir.* -- Non, je n\'aimerais pas me trouver avec eux au coin d\'un bois, et pourtant j\'y suis, ou plutôt je suis avec eux en pleine brousse, ce qui est pire, infiniment. Aussi la situation est-elle, à mes yeux, remplie de charme. Avoir conscience qu\'on court un danger, un vrai, et ne pas connaître ce danger ; avoir l\'intelligence tendue pour deviner ce qu\'on vous cache, l\'oeil et l\'oreille aux aguets pour parer le coup qu\'on pressent, sans savoir d\'où il viendra, rien de plus « excitant ». C\'est pendant ces heures-là qu\'on vit d\'une manière vraiment intensive, et ces sensations dégottent joliment le plaisir d\'un café-crème sur la terrasse du Napolitain.
+
+Allons ! Voilà que je m\'emballe, selon ma coutume. En me montrant des bandits, alors que nous avons affaire, sans doute, à des tirailleurs très ordinaires et très quelconques, mon imagination ne me jouerait-elle pas un mauvais tour ? Et la lettre, la lettre authentique du colonel Saint-Auban, qu\'est-ce que j\'en fais ?
+
+Ce qu\'on voudra. La lettre du colonel Saint-Auban me gêne, je l\'accorde, mais rien ne peut prévaloir contre l\'impression que me causent notre nouvelle escorte et son commandant.
+
+Et d\'abord, cet officier, ces sous-officiers, ces soldats sont-ils des « militaires » ? Pour les Noirs, on ne peut savoir. Ces nègres se ressemblent tous. Pour l\'officier, on est tenté de répondre oui. Par contre, on répond non sans hésiter en ce qui concerne les deux sergents. Des tirailleurs, ces têtes-là ? À d\'autres ! Nul besoin d\'être phrénologiste, physiognomoniste, ni tout autre savant en iste, pour lire sur ces faces-là : inquiétude de la bête traquée, goût des plaisirs grossiers, impulsivité sans contrôle, violence et cruauté.
+
+Charmant portrait !
+
+Ce qui m\'a frappé en premier lieu n\'est qu\'un détail, mais c\'est ce détail qui a ouvert le robinet de mes cogitations. N\'est-il pas bizarre, en effet, que ces hommes, sous-officiers compris, soient couverts de poussière, ainsi qu\'il sied à des gens courant après nous depuis quinze jours, et que leur chef soit frais comme s\'il sortait d\'une boîte ? Car il est frais, et même à un point invraisemblable. Linge blanc, chaussures brillantes, moustache cirée, c\'est tout à fait un joli garçon. Et sa tenue ? On dirait que le lieutenant Lacour va passer une revue. Il est d\'« ordonnance » de la tête aux pieds. Rien ne lui manque, pas un bouton, pas un fil, jusqu\'à son pantalon qui a le pli marchand ! On n\'a pas souvent l\'occasion, dans la brousse, d\'admirer une telle élégance. Cet uniforme-là crie à qui veut l\'entendre qu\'on ne l\'a jamais mis, qu\'il est tout neuf, et celui qui le porte, dans son désir d\'avoir l\'air « officier », me semble avoir dépassé les limites de la vraisemblance.
+
+Pour être si pimpant pendant que ses subordonnés sont aussi poussiéreux, le lieutenant Lacour ne nous donnait donc pas la chasse avec eux ?
+
+Les deux sergents sont, au contraire, abondamment sales, mais, s\'ils n\'ont pas l\'élégance exagérée de leur officier, ils pèchent, à mon avis, par l\'excès opposé. Leurs uniformes ( ?) semblent venir du « décrochez-moi ça ». Ils sont en loques. Leurs pantalons sont beaucoup trop courts et largement rapiécés, et aucun numéro, aucun signe quelconque n\'indique leur régiment. J\'ai peine à croire qu\'on entretienne aussi mal des soldats français, fussent-ils des engagés à court terme. Autre remarque plus difficile à traduire : il m\'apparaît que les propriétaires de ces vieux uniformes n\'ont pas l\'habitude de les porter.
+
+Sans que je puisse expliquer très bien pourquoi, ils n\'ont pas l\'air d\'être « chez eux » dans leurs vêtements.
+
+Telle est la liste complète de mes remarques et observations. On trouvera peut-être que c\'est maigre et que j\'ai grandement tort de me laisser influencer par des particularités insignifiantes, qui s\'expliquent peut-être le plus simplement du monde ? Je ne dis pas non, car je ne suis pas loin d\'avoir moi-même cette opinion. En cherchant à préciser, pour les noter sur ce carnet, les raisons de ma méfiance, je suis le premier à les trouver bien faibles. Mais c\'est aussi que cette méfiance est surtout instinctive, et cela, je ne peux le rendre avec des mots.
+
+Quoi qu\'il en soit, je n\'ai rien à ajouter à ce qui précède. Pour la discipline, notamment, rien à dire. Même, elle serait plutôt trop stricte, à mon idée.
+
+Les sentinelles sont à leur poste et se relèvent régulièrement. La tenue générale est parfaite, trop parfaite peut-être.
+
+L\'escorte se divise nettement en trois groupes qui ne fraient aucunement avec le surplus du convoi. Le premier comprend les vingt tirailleurs soudanais. En dehors de leurs heures de garde, ils ne se quittent pas, et, chose incroyable quand il s\'agit de Noirs, ils parlent à peine. Ils font leur popote en silence, ou ils dorment. On ne les entend pas. Ils obéissent au doigt et à l\'oeil à leurs sous-officiers, qu\'ils paraissent beaucoup redouter. Il semblerait, en somme, que ces vingt nègres sont très tristes et qu\'ils ont peur.
+
+Le deuxième groupe réunit les sous-officiers. Ceux-ci causent, mais exclusivement ensemble, et toujours à mi-voix. Malgré mon oreille de reporter, je n\'ai pu, jusqu\'ici, saisir au vol que peu de mots sans importance.
+
+Le troisième et dernier groupe est composé du lieutenant Lacour tout seul. Ce lieutenant Lacour est un homme de petite taille, qui me fait l\'effet d\'être un monsieur pas commode. Il a des yeux bleu pâle, des yeux d\'acier, comme on dit, qui n\'expriment pas précisément une bienveillance universelle. Pas bavard, et sauvage avec ça. De tout l\'après-midi, je ne l\'ai vu sortir de sa tente que deux fois, et uniquement pour inspecter ses hommes. Cette opération n\'est pas variée. En apercevant leur chef, les tirailleurs se lèvent et se mettent en ligne. Le lieutenant, raide comme un piquet, passe devant eux, tandis que son regard glacé les parcourt de la tête aux pieds, puis il disparaît chez lui, sans avoir adressé la parole à personne. En mettant tout au mieux, j\'ose dire que cet élégant officier ne sera pas, du moins, un joyeux compagnon.
+
+De toute la journée, je n\'ai pas aperçu Mlle Mornas.
+
+Ni Tchoumouki non plus, ce qui fait que j\'ai toujours mon article en poche.
+
+
+*15 février.* -- Au réveil, ce matin, je ne constate aucun préparatif de départ. Je m\'informe auprès de Tongané, lequel m\'apprend que nous ne bougerons pas de toute la journée. Après le repos d\'hier, cette halte me paraît étrange. Le hasard me fait croiser le lieutenant Lacour, toujours aussi raide et d\'une aussi impeccable élégance. Je l\'aborde, et lui demande la raison de cet arrêt supplémentaire.
+
+--- Ordre de M. Barsac, me répond-il laconiquement.
+
+Quatre mots, après lesquels il fait le salut militaire et pivote sur ses talons.
+
+Le lieutenant Lacour n\'est pas ce qu\'on appelle un brillant causeur. Pourquoi le chef de la mission nous fait-il ainsi marquer le pas ? Renoncerait-il à poursuivre le voyage avec cette escorte réduite des quatre cinquièmes ? Cela m\'intrigue.
+
+Cela m\'inquiète aussi, puisque cette décision mettrait le point final à un reportage que je pressens être sur le point de devenir sensationnel. Précisément, vers dix heures, j\'aperçois M. Barsac. Il se promène à grands pas, les mains derrière le dos, les yeux vers le sol, et n\'a pas l\'air de bonne humeur. Le moment n\'est peut-être pas très bien choisi pour lui demander quels sont ses projets. Cette considération ne m\'arrête pas, et je risque l\'interview.
+
+M. Barsac ne se fâche pas. Il s\'arrête, et me regarde un bon moment en silence. Enfin, il me dit :
+
+--- Il y a quelques jours, monsieur Florence, vous m\'avez déjà posé la même question. Je ne vous ai pas répondu. Je vous répondrai aujourd\'hui que je ne sais pas moi-même quelle réponse je dois faire.
+
+--- Vous n\'avez donc pris encore aucune décision, monsieur le député ? -- Aucune. Je réfléchis, je tâtonne, je pèse le pour et le contre\...
+
+Nouveau silence, puis, tout à coup :
+
+--- Mais, au fait, s\'écrie M. Barsac, pourquoi n\'examinerions-nous pas la question ensemble ? Vous êtes un garçon pratique et plein de bon sens. (Merci bien, monsieur Barsac.) Vous me donnerez votre avis.
+
+Je m\'incline.
+
+--- À vos ordres, monsieur le député.
+
+--- Examinons d\'abord, reprend M. Barsac, si ce voyage peut être continué sans imprudence ; en d\'autres termes, s\'il est possible.
+
+Je suggère :
+
+--- Peut-être vaudrait-il mieux examiner d\'abord s\'il est utile.
+
+--- Du tout, réplique M. Barsac, son utilité est certaine.
+
+Un homme étonné, c\'est moi. Cependant, M. Barsac poursuit.
+
+--- Donc, ce voyage est-il faisable ? Voilà le problème. Hier encore, il ne se posait même pas, car, jusqu\'ici, aucun incident vraiment sérieux n\'avait marqué notre route. C\'est bien votre opinion, n\'est-ce pas ?
+
+--- Tout à fait.
+
+--- Le premier incident qui ait une réelle gravité, c\'est le changement inopiné de notre escorte et sa réduction à vingt hommes. Vingt hommes sont-ils capables d\'assurer notre sécurité au milieu de cette population nègre ? Je me le demande.
+
+--- Ainsi posée, dis-je, la question ne comporte qu\'une réponse affirmative. Il me paraît certain que vingt hommes sont largement suffisants, si nous ne rencontrons que des nègres pour adversaires. D\'autres explorateurs ont fait des voyages plus longs que le nôtre avec une escorte moindre, ou même absolument sans escorte. Mais\...
+
+--- Je sais ce que vous allez dire, interrompt M. Barsac. Vous allez parler du mystérieux inconnu qui paraît mécontent de nous voir dans ce pays. Je n\'ai pas caché mon sentiment à cet égard, et tout le monde m\'a approuvé. Rien de nouveau n\'est survenu depuis. Donc, inutile d\'y revenir, selon moi.
+
+Je réplique.
+
+--- Veuillez m\'excuser, monsieur le député, mais je crois qu\'il y a eu du nouveau, au contraire.
+
+--- Bah ! fait M. Barsac, surpris. Du nouveau qu\'on m\'aurait caché, alors. Expliquez-vous.
+
+Ainsi mis au pied du mur, je ne laisse pas d\'être très embarrassé.
+
+Mes remarques, qui me semblaient si importantes, et leurs conséquences, que je jugeais si fortement déduites, lorsque j\'examinais les unes et les autres en moi-même, m\'apparaissent, maintenant qu\'il me faut les exprimer à haute voix, encore plus insignifiantes et plus arbitraires qu\'au moment où j\'ai dû les préciser par écrit.
+
+Cependant, puisque j\'ai sottement engagé le doigt dans l\'engrenage -- c\'était mon devoir, au surplus -- il faut bien m\'exécuter.
+
+Je m\'exécute. Je communique à M. Barsac mes observations sur notre escorte et sur l\'officier qui la commande, et, sous forme de conclusion, je formule timidement l\'hypothèse que, si ces gens-là ne sont pas de véritables soldats, ils pourraient bien être à la solde de l\'ennemi inconnu que nous n\'avons pas voulu prendre au tragique jusqu\'ici.
+
+En entendant ces énormités, M. Barsac se met à rire.
+
+--- C\'est du roman ! s\'écrie-t-il. Vous me paraissez avoir, monsieur Florence, une brillante imagination. Elle vous sera fort utile, s\'il vous plaît jamais d\'aborder le théâtre, mais je vous conseille de vous en méfier dans la vie réelle.
+
+--- Cependant\... Dis-je, piqué.
+
+--- Il n\'y a pas de cependant. Il y a des faits. L\'ordre écrit, d\'abord\... -- Il peut être faux.
+
+--- Non, réplique M. Barsac, puisque le capitaine Marcenay l\'a estimé véritable et qu\'il a obéi sans hésiter.
+
+--- Il a pu être volé\...
+
+--- Encore du roman ! Comment, je vous prie, se serait-on substitué à la véritable escorte ? Il aurait fallu, dans cette hypothèse, tenir prête une troupe assez nombreuse pour, premièrement, détruire les soldats authentiques jusqu\'au dernier, jusqu\'au dernier, vous entendez bien, et, deuxièmement, afin d\'être d\'accord avec l\'ordre dont on se serait emparé, leur substituer un faux détachement absolument identique, et cela longtemps à l\'avance, à un moment où personne ne pouvait savoir quelle serait la composition de la nouvelle escorte, ni même que cette escorte dût être jamais envoyée par le colonel Saint-Auban.
+
+Aucun des hommes du lieutenant Lacour n\'étant blessé, cette troupe aurait dû être très nombreuse, car vous n\'admettez pas, je pense, que les soldats véritables se seraient laissés massacrer sans se défendre. Et vous voudriez que la présence d\'une bande aussi importante n\'eût pas été remarquée, que le bruit d\'un pareil combat ne fût pas parvenu jusqu\'à nous, alors que les nouvelles, dans la brousse, se transmettent de village en village avec la rapidité du télégraphe ? Voilà à quelles impossibilités on se heurte, quand on lâche la bride à son imagination !
+
+M. Barsac a raison. L\'ordre n\'a pas été volé. Il continue :
+
+--- Quant à l\'impression que vous ont faite les hommes et leurs chefs, sur quoi repose-t-elle ? En quoi ces tirailleurs, que vous apercevez d\'ici, diffèrent-ils de tous les tirailleurs noirs ?
+
+Je regarde comme j\'y suis invité, et je suis forcé de reconnaître que M. Barsac a encore raison. Où donc avais-je l\'esprit, hier soir ? Je me suis suggestionné moi-même. Ces nègres-là sont pareils à tous les nègres.
+
+M. Barsac a conscience de son avantage. Il reprend avec plus d\'assurance (et Dieu sait pourtant si c\'est l\'assurance qui lui manque !) :
+
+--- Passons aux sous-officiers. Qu\'est-ce que vous leur trouvez de particulier ? Ils sont très sales, c\'est vrai, mais pas plus que certains sergents du capitaine Marcenay. On ne peut pas, en campagne, être très pointilleux sur le chapitre des uniformes.
+
+C\'est parler d\'or.
+
+Je glisse timidement, car je suis réellement ébranlé :
+
+--- Le lieutenant Lacour, cependant\...
+
+--- Oh ! Il est d\'une correction extraordinaire, s\'écrire M. Barsac en souriant. C\'est évidemment un homme très soigné de sa personne et très porté sur l\'article toilette. Ce n\'est pas un crime.
+
+Non, ce n\'en est pas un. Je fais un dernier effort, et j\'insinue :
+
+--- Tout de même, un uniforme tout battant neuf, c\'est bizarre !
+
+--- Parce que l\'autre est dans la cantine du lieutenant, explique M. Barsac qui a réponse à tout. Comme il était couvert de poussière, M. Lacour a voulu se mettre en grande tenue avant de se présenter devant moi.
+
+M. Barsac a l\'air de trouver cette préoccupation très naturelle. Après tout, c\'est peut-être moi qui ne me rends pas exactement compte de l\'importance du chef de la mission.
+
+--- D\'ailleurs, j\'ai longuement causé avec le lieutenant Lacour, hier, au cours de l\'après-midi\...
+
+(Pendant que j\'écrivais mes notes, probablement.)
+
+---\... C\'est un homme charmant, malgré ses goûts d\'élégance exagérés, je vous le concède. Poli, bien élevé, déférent, respectueux même\...
+
+Ici, M. Barsac se rengorge.
+
+---\... Respectueux même, j\'ai trouvé en lui une relation très agréable et un subordonné très souple.
+
+Je demande :
+
+--- Le lieutenant Lacour ne voit-il, pour sa part, aucun inconvénient à poursuivre notre voyage dans ces conditions ?
+
+--- Aucun.
+
+--- Vous hésitiez, cependant, monsieur le député.
+
+--- Je n\'hésite plus, déclare M. Barsac, qui s\'est convaincu lui-même en parlant. Nous partirons demain.
+
+J\'interroge :
+
+--- Sans même examiner l\'utilité du voyage, après en avoir établi la possibilité ?
+
+L\'ironie discrète de ma question passe inaperçue.
+
+--- À quoi bon ? répond M. Barsac. Ce voyage n\'est pas seulement utile, il est nécessaire.
+
+Je répète, sans comprendre :
+
+--- Nécessaire ?
+
+Tout à fait de bonne humeur, M. Barsac me prend familièrement le bras, et, sur le ton de la confidence, il m\'explique :
+
+--- Entre nous, mon cher, je veux bien vous accorder que, depuis un certain temps déjà, les Noirs que nous rencontrons sont loin d\'être assez dégrossis pour qu\'on puisse en faire des électeurs. Je vous accorderai encore, si vous m\'en pressez, que nous n\'avons aucune chance d\'être plus heureux, tant que nous tournerons le dos à la côte. Mais, ce que je vous dis à vous, je ne le dirai pas à la tribune de la Chambre. Or, si nous terminons ce voyage, les choses se passeront de la manière suivante : Baudrières et moi, nous déposerons un rapport dont les conclusions seront diamétralement opposées. Ces rapports seront renvoyés à une commission. Là, ou nous nous ferons de mutuelles concessions, et l\'on accordera l\'électorat à quelques nègres en bordure de l\'océan, ce qui constituera une victoire à mon actif, ou nous ne ferons aucune concession, et l\'affaire sera enterrée. Au bout de huit jours, on n\'y pensera plus, et personne ne saura si les faits m\'ont donné tort ou raison. Dans les deux cas, rien ne s\'opposera à ce que Baudrières ou moi, selon le vent, nous ayons un jour ou l\'autre le portefeuille des Colonies.
+
+Que je revienne, au contraire, sans avoir accompli ma mission jusqu\'au bout, ce sera proclamer moi-même que je me suis fourvoyé, mes ennemis crieront à tue-tête que je ne suis qu\'une vieille ganache, et je serai définitivement coulé.
+
+M. Barsac fait une petite pause, puis il conclut par cette pensée profonde :
+
+--- N\'oubliez jamais cette vérité, monsieur Florence : un homme politique peut se tromper. Cela n\'a aucune importance. S\'il reconnaît son erreur, il est perdu.
+
+Je savoure la maxime et je m\'en vais content. Je suis très content, en effet, car je connais maintenant les raisons de chacun.
+
+En quittant M. Barsac, je tombe en arrêt sur le carnet de M. Poncin, que celui-ci a, par hasard, oublié sur un pliant. Mes instincts de journaliste prennent le pas sur ma bonne éducation, et j\'ouvre délibérément le carnet. Il y a trop longtemps qu\'il m\'intrigue. Il y a trop longtemps que je me demande ce que notre silencieux compagnon peut bien y écrire du matin au soir. Je vais enfin le savoir.
+
+Hélas ! Je suis puni de ma curiosité. Je n\'aperçois qu\'un hérissement de chiffres et de lettres embrouillés à plaisir et totalement incompréhensibles. Ce ne sont que des « p. J. 0,0009 », des « p. K. C. 135,08 » des « M.76,18 », et ainsi de suite.
+
+Un mystère de plus ! Pourquoi cette écriture secrète ? M. Poncin aurait-il donc quelque chose à cacher ? Trahirait-il, lui aussi ?
+
+Allons, encore une marotte. Il faudra soigner ça. Quelle idée de suspecter ce brave homme ! Je lui fais trop d\'honneur, car, je peux bien le dire à ce carnet sur lequel j\'écris pour moi seul, il n\'est pas fort, M. Poncin.
+
+Mais on est journaliste ou on ne l\'est pas. À tout hasard, je copie des exemples de ces hiéroglyphes choisis parmi ceux qui reviennent presque quotidiennement. J\'obtiens :
+
+
+5 D. V. T. 7. H. 3306. M.472,28. F 1895. P. V. 1895 : 7 = 270,71. K. C. 122. P. K. C. 3306 : 122 = 27,09. P. T. 27,09 X 54,600 = 1 479114. 16 F. V. T. 81. H. 12 085. M.149,19. F. 6654. P. V. 6654 : 81 = 82,15. K c. 1401. P. K. C. 12 085 : 1401 = 8,62. P. T. 8,62 X 54600 = 470 652.
+
+
+Je remets le carnet en place, et je me sauve avec mon butin. Ça servira peut-être. On ne sait jamais.
+
+Dans l\'après-midi, promenade. Je me fais accompagner par Tongané, qui prend le cheval de Tchoumouki, meilleur que le sien. Nous allons dans la campagne au petit trot. Au bout de cinq minutes, Tongané, que la langue démange, me dit *ex abrupto* :
+
+--- Y en a bon Tchoumouki partir. Tchoumouki sale nègre. Lui trahir.
+
+En voilà bien d\'une autre ! Comment ! Tchoumouki nous trahissait, lui aussi ? Je comprends que c\'est le moment de me documenter. Je fais l\'étonné.
+
+--- C\'est Moriliré que tu veux dire.
+
+--- Y en a pas bon Moriliré, prononce énergiquement Tongané. Mais Tchoumouki même chose Moriliré. Dire nègres : « Y a pas bon marcher. » Donner beaucoup *dolo toubab* (eau-de-vie), beaucoup argent, beaucoup or. De l\'or entre les mains de Moriliré et de Tchoumouki ? C\'est invraisemblable.
+
+--- Tu veux dire qu\'ils donnaient des cauries aux nègres, pour s\'en faire bien voir ?
+
+--- Pas cauries, insiste Tongané.
+
+Beaucoup or.
+
+Et il ajoute ce détail, qui me renverse :
+
+--- Beaucoup or *english*.
+
+--- Tu connais donc l\'or anglais, Tongané ?
+
+--- *Ioo,* me répond le Noir. Moi Achanti. Moi connaître *livchterlignes*.
+
+Je comprends que Tongané, par ce vocable singulier, nomme à sa manière les livres sterling. Le mot est drôle. J\'ai tenté l\'orthographe phonétique pour le transcrire, mais, dans la bouche de Tongané, c\'est mieux. Toutefois, je n\'ai pas envie de rire, en ce moment. De l\'or -- et de l\'or anglais ! -- entre les mains de Tchoumouki et de Moriliré !\... Je suis confondu. Bien entendu, je n\'en laisse rien paraître, et j\'ai l\'air de n\'attacher aucune importance au renseignement.
+
+--- Tu es un brave garçon, Tongané, dis-je à mon compagnon, et, puisque tu connais si bien les *livchterlignes*, prends cette petite pièce d\'or à l\'effigie de la République française.
+
+--- Y a bon République ! Crie, au comble de la joie, Tongané, qui fait sauter en l\'air la pièce que je lui offre, la rattrape au vol et l\'insinue dans une des fontes de la selle.
+
+Son visage exprime aussitôt de l\'étonnement, et, de la cavité dans laquelle il l\'a introduite, sa main retire un gros rouleau de papier, objet peu courant chez les nègres, en effet. Je pousse un cri, et j\'arrache à Tongané ce rouleau que j\'ai parfaitement reconnu.
+
+Mes articles ! Ce sont mes articles ! Mes articles si remarquables restés dans les fontes de ce coquin de Tchoumouki ! Je vérifie. Hélas ! Ils y sont bien tous, à compter du cinquième inclusivement.
+
+Combien sévèrement ne doit-on pas me juger à l\'*Expansion française* ! Je suis déshonoré, à jamais perdu de réputation !
+
+Tandis que je roule ces tristes pensées, nous continuons à nous éloigner au petit trot de nos chevaux. Nous devons être à six kilomètres du camp environ, lorsque je m\'arrête soudainement. Je viens de découvrir quelque chose de curieux.
+
+C\'est, presque en bordure du chemin, un espace large de six à sept mètres, long de cinquante à peu près, tracé au milieu de la brousse. Dans cet espace, les hautes herbes sont couchées, écrasées, beaucoup même sont coupées net comme aurait pu le faire une faux gigantesque. Or, et c\'est cela surtout qui a attiré mon attention, dans la partie ainsi dénudée, on distingue nettement deux ornières parallèles, semblables à celles que nous avons remarquées près de Kankan, c\'est-à-dire profondes de huit à dix centimètres à l\'une de leurs extrémités et s\'effaçant insensiblement à l\'autre bout. Cette fois, le côté profond est à l\'est.
+
+Je fais malgré moi un rapprochement entre cette couple d\'ornières et le bourdonnement entendu l\'autre soir. À Kankan aussi, nous l\'avions entendu, le bourdonnement étrange, avant de constater sur le sol ces inexplicables traces.
+
+Quel rapport y a-t-il entre ces deux phénomènes -- bourdonnement, couple d\'ornières -- et le *kéniélala* de Kankan ? Je n\'en vois pas. Pourtant, ce rapport doit exister, puisque, tandis que je considère ces énigmatiques sillons, mon subconscient évoque de lui-même la vilaine figure du sorcier nègre. Et voilà que cette vérité m\'apparaît soudain que, des quatre prédictions de ce farceur, la troisième, après les deux premières, vient de se réaliser !
+
+Alors, seul avec mon noir compagnon dans cette immensité, déserte, un frisson -- le second, en comptant celui d\'hier -- me parcourt de la nuque au talon, et, pendant un instant, songeant au mystère qui m\'entoure, j\'ai peur. C\'est exquis, surtout dans de pareilles conditions. Malheureusement, ça ne dure pas, car je ne suis pas très bien organisé pour la peur. Mon point faible, à moi, c\'est la curiosité. Aussi, tandis que nous revenons, je ressasse à satiété les irritants problèmes qui me sont posés et m\'entête à en poursuivre la solution. Cet exercice m\'absorbe tellement que je ne vois plus rien autour de moi.
+
+En arrivant au camp, je sursaute. Tongané, sans aucun préambule, m\'a dit tout à coup :
+
+--- *Toulatigui* (lieutenant) y a pas bon. Sale tête singe.
+
+Je réponds sans même y penser, ce qui est mon excuse :
+
+--- Tu parles !\...
+
+
+*17 février.* -- Forte étape aujourd\'hui, et plus forte encore hier. Cinquante kilomètres dans ces deux jours. Tchoumouki n\'a pas reparu -- la canaille ! On s\'en aperçoit. Sous la direction unique de Tongané, nos âniers et porteurs font merveille, et marchent avec le maximum d\'entrain dont ils sont capables.
+
+Pendant ces deux jours, les craintes que j\'avais conçues se sont atténuées, je le confesse. L\'escorte a fait correctement son métier, qui, d\'ailleurs, n\'est pas difficile. Les vingt hommes, en deux files, encadrent le convoi, comme l\'encadraient ceux du capitaine Marcenay. Je remarque seulement qu\'ils n\'échangent pas, avec notre personnel noir, ces facéties de même couleur dont leurs prédécesseurs n\'étaient pas avares. Cela fait honneur, en somme, à leur discipline.
+
+Les deux sous-officiers restent en général à l\'arrière-garde, quand ils ne parcourent pas la ligne des tirailleurs.
+
+Ils ne parlent à personne, sauf à leurs hommes, auxquels ils adressent, de temps à autre, des ordres brefs aussitôt exécutés. Il faut reconnaître que, si notre escorte est peu nombreuse, elle est du moins fortement commandée. Le lieutenant Lacour se tient en tête, à peu près à la place qu\'occupait le capitaine Marcenay, à côté de M. Barsac. Je remarque que Mlle Mornas a rétrogradé de quelques rangs. Elle est avec Saint-Bérain, derrière le docteur Châtonnay et M. Poncin. Mlle Mornas n\'a pas l\'air de priser beaucoup la société du lieutenant.
+
+Rien à dire sur le compte de celui-ci, cependant. S\'il parle peu, il agit. Il est certain que son attitude énergique n\'est pas étrangère au résultat très satisfaisant de ces deux journées de marche.
+
+Non, rien à dire. Et pourtant\...
+
+Mais ce doit être chez moi une idée fixe. Le mystère que je sens autour de nous, les faits bizarres que j\'ai constatés m\'ont sans doute troublé la cervelle, et je suis enclin, trop enclin sans doute à voir la trahison partout. Quoi qu\'il en soit, voici ce qui motive ma restriction.
+
+C\'était ce matin, vers neuf heures. Nous traversons alors un petit hameau de quelques feux complètement désert, quand nous entendons des gémissements sortir de l\'une des cases. Sur l\'ordre de M. Barsac, le convoi s\'arrête, et le docteur Châtonnay, accompagné du lieutenant Lacour et de deux tirailleurs, pénètre dans la case d\'où partent les plaintes. Bien entendu, la presse, c\'est-à-dire moi, y pénètre avec eux.
+
+Dans la pièce où nous entrons, un triste spectacle frappe nos regards.
+
+Il y a deux morts et un blessé. Chose affreuse, les deux cadavres, un homme et une femme, sont abominablement mutilés. Qui a tué et blessé ces pauvres gens ? Qui s\'est rendu coupable de ces atroces mutilations ?
+
+Le docteur Châtonnay s\'occupe d\'abord du blessé. Comme il fait trop noir dans la case, les tirailleurs le portent au-dehors sur son ordre. C\'est un assez vieux nègre. Il est atteint à l\'épaule, et la blessure est terrible. Les os de la clavicule sont à nu. Je me demande quelle arme a pu causer de tels ravages.
+
+Le docteur nettoie la plaie et en extrait de multiples fragments de plomb. Il rapproche ensuite les chairs, les recoud et panse soigneusement la blessure, à l\'aide de bandes que lui passe le lieutenant Lacour. Tant que dure l\'opération, le patient ne cesse de faire entendre de lamentables gémissements. Il semble moins souffrir lorsque le pansement est terminé.
+
+Mais le docteur paraît soucieux. Il entre une seconde fois dans la case, examine les deux cadavres, et, quand il sort, il est plus soucieux encore. Il s\'approche du blessé, qu\'il interroge par l\'intermédiaire de Tongané.
+
+Du récit de ce pauvre nègre, il résulte que, six jours plus tôt, le 11, par conséquent, soit trois jours avant notre changement d\'escorte, le petit hameau a été attaqué par une troupe de Noirs commandé par deux Blancs. Les habitants se sont alors sauvés dans la brousse, à l\'exception de l\'homme et de la femme dont nous avons trouvé les cadavres, lesquels n\'ont pas eu le temps de se mettre à l\'abri. Le blessé était avec les autres. Malheureusement, pendant qu\'il fuyait, une balle l\'a frappé à l\'épaule. Il a eu, néanmoins, la force de se cacher dans la brousse, et a ainsi échappé à ses agresseurs.
+
+Lorsque ceux-ci se furent éloignés, ses compagnons l\'ont rapporté au village, mais tout le monde a de nouveau pris la fuite, quand on a vu arriver une autre troupe, et précisément du côté par lequel la première s\'était éloignée.
+
+Tel est ce récit qui ne laisse pas de nous inquiéter. Il ne peut nous être agréable, en effet, d\'apprendre qu\'une bande de malfaiteurs court le pays. C\'est même une vraie chance que nous n\'ayons pas eu affaire à elle, puisque, d\'après le blessé, elle allait à notre rencontre.
+
+Cependant, le pauvre diable exprime d\'une manière touchante sa reconnaissance au docteur Châtonnay, quand il se tait tout à coup, tandis que ses yeux expriment une profonde terreur et se fixent sur quelque chose ou quelqu\'un qui est derrière nous. Nous nous retournons, et nous trouvons face à face avec un des deux sous-officiers de notre escorte. C\'est la vue de cet homme qui a causé au nègre tant d\'épouvante.
+
+Le sous-officier, d\'ailleurs, n\'a pas l\'air ému. Il s\'émeut, toutefois, quand les yeux glacés du lieutenant Lacour lui lancent un regard terrible où se lisent à dose égale reproche et menace. Je surprends au passage ce regard que je ne m\'explique pas. Le sergent se touche alors le front, de manière à nous faire entendre que le blessé délire, et va rejoindre ses hommes.
+
+Nous revenons auprès de notre malade. Mais le charme est rompu. Il nous regarde avec terreur et il est impossible d\'en tirer une parole. On le transporte donc dans sa case, et nous repartons, assez rassurés sur son sort, au surplus, car le docteur Châtonnay affirme qu\'il guérira.
+
+Je ne sais à quoi pensent mes compagnons.
+
+Pour ma part, je creuse, tout en marchant, ce nouveau problème offert à ma sagacité : Pourquoi le vieux nègre a-t-il manifesté pareille frayeur ? Pourquoi, alors qu\'il n\'avait fait nulle attention au lieutenant Lacour, cette frayeur a-t-elle été provoquée, sans aucun doute possible, par la vue de l\'un de nos sergents ?
+
+À ce problème nulle solution, pour changer. Toutes ces énigmes insolubles que le hasard nous pose, cela finit par être agaçant à la fin.
+
+Ce soir, assez tard, nous avons dressé nos tentes auprès d\'un autre petit village du nom de Kadou. Nous sommes fort tristes d\'y être arrivés, car c\'est à Kadou que Mlle Mornas et Saint-Bérain vont nous quitter. Tandis que nous continuerons tout droit vers Ouagadougou et le Niger, ils remonteront au nord, avec Gao et ce même Niger comme objectif.
+
+Il est inutile de dire que nous avons fait tout au monde pour les décider à renoncer à ce projet insensé. Ainsi qu\'on pouvait le présumer, nos efforts ont été vains. J\'ose prévoir que la future moitié du capitaine Marcenay ne sera pas des plus maniables. Quand Mlle Mornas a quelque chose dans la tête, le diable ne l\'en ferait pas démordre.
+
+En désespoir de cause, on a demandé du renfort au lieutenant Lacour, et on l\'a prié de montrer, à son tour, à notre compagne quelle folie elle était sur le point de commettre. Je suis convaincu qu\'il aurait plaidé en pure perte, mais il n\'a pas pris cette peine. Le lieutenant Lacour n\'a pas prononcé une parole. Il a fait un geste évasif, et il a souri, d\'un sourire que j\'ai trouvé drôle, je ne saurais dire exactement pourquoi.
+
+Donc, on a fait halte auprès de Kadou.
+
+Au moment où je vais me retirer sous ma toile particulière, le docteur Châtonnay me retient. Il me dit :
+
+--- Une chose dont je désire vous informer, monsieur Florence, c\'est que les balles qui ont frappé les nègres de ce matin étaient des balles explosives. Et il s\'en va, sans attendre ma réponse.
+
+Bon ! Encore un mystère ! Des balles explosives, maintenant ! Qui peut user de pareilles armes ? Comment même de telles armes peuvent-elles exister dans cette contrée ?
+
+Deux questions de plus à ajouter à ma collection qui s\'enrichit sans cesse. Par contre, c\'est ma collection de réponses qui n\'augmente pas !
+
+
+*18 février.* -- Dernière nouvelle du jour, sans commentaire : notre escorte est partie. Je dis bien : partie.
+
+J\'insiste, parce que ce n\'est pas croyable, et je répète : l\'escorte est partie. Au réveil, il y a de cela trois ou quatre heures, nous ne l\'avons plus trouvée. Elle s\'était évaporée, volatilisée pendant la nuit, et, avec elle, tous les porteurs et tous les âniers sans exception.
+
+On a compris ? Le lieutenant Lacour, ses deux sergents et ses vingt hommes ne sont pas allés faire un peu de footing matinal, pour revenir à l\'heure du déjeuner. Ils sont partis, dé-fi-ni-ti-ve-ment par-tis.
+
+Nous voici seuls dans la brousse, avec nos chevaux, nos armes personnelles, trente-six ânes, cinq jours de vivres, et Tongané.
+
+Ah ! Je voulais des aventures !
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11 -- Que faire ?]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942911 .pcalibre2 .pcalibre1} {#chapitre-11-que-faire .calibre171 .sigil_not_in_toc}
+
+Quand les membres de la mission Barsac, arrivés de la veille à Kadou, constatèrent, en se réveillant, le 18 février, la disparition de leur escorte et de leur personnel noir au complet, ce fut une stupeur. Cette double défection, et en particulier celle de l\'escorte, était si extraordinaire qu\'ils se fussent pendant longtemps refusés à la croire définitive, si la preuve ne leur avait été aussitôt donnée que soldats et serviteurs étaient partis sans esprit de retour.
+
+C\'est Amédée Florence qui, sorti le premier de sa tente, avait donné l\'éveil à ses compagnons. Tous, y compris Malik, qui avait passé la nuit dans la tente de Jane Mornas, furent réunis en un instant. Comme il arrive d\'ordinaire, la discussion fut, au début, assez confuse. On échangeait plutôt des exclamations que des réflexions. Avant de chercher à organiser l\'avenir, on commençait par s\'étonner du présent.
+
+Pendant qu\'ils discouraient ainsi, un gémissement s\'éleva d\'un fourré voisin et leur apprit qu\'ils n\'étaient pas seuls, comme ils le supposaient. Saint-Bérain, Amédée Florence et le docteur Châtonnay coururent à l\'endroit d\'où le gémissement semblait provenir, et découvrirent Tongané, ficelé, bâillonné, et, qui plus est, portant une longue blessure au flanc gauche.
+
+Tongané délivré de ses liens, ranimé et pansé, on l\'interrogea. Moitié dans son petit nègre habituel, moitié en bambara, que traduisait, dans ce cas, Jane Mornas, Tongané raconta ce qu\'il savait des événements de la nuit.
+
+La désertion s\'était accomplie entre une heure et deux heures du matin. À ce moment, Tongané, réveillé par des bruits insolites, que les Européens n\'avaient pas entendus dans leur tente, avait eu la surprise de voir les vingt tirailleurs à cheval, et déjà à quelque distance du camp, tandis que le personnel noir, dirigé par le lieutenant Lacour et les deux sergents, s\'agitait et semblait accomplir une besogne dont la nuit ne permettait pas de se rendre exactement compte.
+
+Intrigué, et, d\'ailleurs, sans méfiance, Tongané s\'était levé, et, dans l\'intention de se renseigner, s\'était dirigé vers les porteurs et les âniers. Il n\'avait pu les atteindre. À mi-chemin, deux hommes s\'étaient jetés sur lui, et l\'un d\'eux l\'avait saisi à la gorge, sans lui laisser le temps de pousser un cri. En un instant, il fut renversé, bâillonné, ligoté. Avant de tomber, il avait pu reconnaître, cependant, que les Noirs, porteurs et âniers, étaient en train de se charger de nombreux ballots choisis parmi les autres. Tongané était donc réduit à l\'impuissance, et déjà ses agresseurs s\'éloignaient, quand ils furent abordés par une troisième personne. Ce nouveau venu, qui n\'était autre que le lieutenant Lacour, demanda d\'une voix brève :
+
+--- C\'est fait ?
+
+--- Oui, répondit un des agresseurs, dans lequel Tongané reconnut alors un des sergents.
+
+Il y eut un silence. Tongané sentit qu\'on se penchait sur lui. Des mains se promenèrent sur son corps, le palpèrent.
+
+--- Mais vous êtes fous, ma parole ! reprit le lieutenant. Vous partiez en laissant derrière vous un gaillard qui en a peut-être trop vu. Robert, un coup de baïonnette dans cette vermine, s\'il te plaît.
+
+L\'ordre avait été exécuté sur-le-champ, mais, Tongané ayant heureusement réussi à accomplir un mouvement de torsion, l\'arme, au lieu de le frapper en pleine poitrine, avait glissé le long de ses côtes, en n\'y faisant qu\'une estafilade plus impressionnante que grave. En raison de l\'obscurité, le lieutenant et ses deux acolytes s\'y étaient trompés, d\'autant mieux que l\'astucieux guide avait eu la précaution de pousser un soupir, comme s\'il rendait l\'âme, et de retenir ensuite sa respiration.
+
+Le sang dont la baïonnette était couverte avait complété l\'erreur des assassins.
+
+--- C\'est fait ? répéta la voix du lieutenant Lacour, quand le coup eut été porté.
+
+--- Eh bien ! répondit l\'homme qui avait frappé, et que son chef avait désigné sous le nom de Robert.
+
+Les trois hommes s\'étaient alors en allés, et Tongané n\'avait plus rien entendu. Bientôt, d\'ailleurs, il avait perdu connaissance, tant à cause du bâillon qui l\'étouffait, que par suite de la perte de son sang. Il n\'en savait pas davantage.
+
+C\'en était assez assurément pour démontrer qu\'il s\'agissait, non d\'une absence momentanée de l\'escorte, mais d\'un abandon définitif prémédité et préparé de longue main.
+
+Ce point établi, on se regarda, stupéfait et consterné. La première parole qui rompit le silence sortit de la bouche d\'Amédée Florence, pour qui on réclamera une fois encore l\'indulgence du lecteur.
+
+--- Elle est raide, celle-là ! s\'écria le reporter, qui ne faisait en somme qu\'exprimer la pensée générale sous une forme un peu familière.
+
+Ce mot ayant amené une détente, on commença à prendre les mesures que comportait la situation. Avant tout, il convenait d\'en établir le bilan. Vérification faite, on reconnut qu\'on possédait encore sept fusils, dont six de chasse, et une dizaine de revolvers, toutes ces armes largement pourvues de munitions, sept chevaux, trente-six ânes, environ cent cinquante kilos de marchandises diverses et des vivres pour quatre jours. Les moyens de défense et de transport ne manquaient donc pas. Quant aux vivres, il n\'y avait pas lieu de s\'en inquiéter, puisqu\'il serait aisé de s\'en procurer dans les villages, comme on l\'avait fait jusqu\'ici.
+
+Au surplus, les six Européens étant tous en possession d\'un excellent fusil, on était en droit de compter sur l\'appoint de la chasse. On conclut, par conséquent, de cet inventaire, que le parti, quel qu\'il fût, auquel on s\'arrêterait finalement, ne se heurterait, au point de vue matériel, à aucun obstacle infranchissable.
+
+Dans tous les cas, il convenait de se défaire des ânes, qui, en l\'absence de conducteurs expérimentés, eussent été un sérieux impedimentum. Cela fait, on arrêterait un plan de conduite. Si la décision était telle que le voyage dût avoir encore une certaine durée, on chercherait à engager cinq ou six porteurs, qu\'on chargerait des marchandises, lesquelles seraient, au fur et à mesure des besoins, échangées dans les villages contre les denrées nécessaires à la subsistance des explorateurs. Dans l\'hypothèse contraire, on liquiderait immédiatement ces marchandises à n\'importe quel prix, ce qui rendrait les porteurs inutiles et permettrait, par suite, une marche plus rapide.
+
+Jane Mornas et Saint-Bérain, qui, seuls, étaient capables de se faire entendre des naturels, se mirent aussitôt en rapport avec les habitants de Kadou. Ils reçurent dans ce village un excellent accueil, et, quelques menus cadeaux leur ayant concilié les sympathies du *dougoutigui*, celui-ci les aida de son mieux. Grâce à son concours, les ânes furent vendus, tant à Kadou même que dans les villages environnants, au prix moyen de dix mille cauries (environ trente francs), soit plus de trois cent cinquante mille cauries au total. Rien qu\'avec cette somme, l\'existence des membres de la mission et le paiement de cinq porteurs eussent été assurés pendant près de vingt jours.
+
+D\'autre part, le *dougoutigui* se déclara prêt à fournir cinq porteurs, ou même davantage, si cela était utile.
+
+Ces diverses négociations exigèrent quelques jours.
+
+Elles ne furent terminées que le soir du 22 février. Ce n\'était pas là du temps perdu, car Tongané n\'aurait pu se mettre en route plus tôt, mais, à cette date du 22 février, sa blessure, toute superficielle, était en bonne voie de cicatrisation, et rien ne s\'opposait plus au départ.
+
+Donc, dans la matinée du 23, on disposa six pliants suivant un cercle, au milieu duquel les cartes furent étalées, et, Tongané et Malik constituant l\'auditoire, la discussion commença sous la présidence de Barsac.
+
+--- La séance est ouverte, dit machinalement celui-ci, en homme habitué au protocole de la Chambre. Quelqu\'un demande-t-il la parole ?
+
+On sourit discrètement, Amédée Florence, en bon ironiste, répondit sans broncher :
+
+--- Nous parlerons après vous, monsieur le président.
+
+--- Comme il vous plaira, accorda Barsac, nullement surpris du titre qui lui était décerné. Précisons d\'abord la situation. Nous nous voyons abandonnés par notre escorte, mais bien munis d\'armes et d\'objets d\'échange, en plein Soudan, à une grande distance de la côte\...
+
+À ces mots, M. Poncin tira de sa poche son vaste carnet, posa un binocle sur les ailes de son nez, et, lui qui ne parlait jamais, il dit :
+
+--- Exactement à mille quatre cent huit kilomètres, cinq cent quatre-vingt-trois mètres et dix-sept centimètres, détours compris, en comptant du piquet central de ma tente.
+
+--- Une pareille précision est inutile, monsieur Poncin, fit observer Barsac. Il suffit de dire que nous sommes à quatorze cents kilomètres environ de Conakry.
+
+Comme vous ne l\'ignorez pas, notre intention était d\'aller beaucoup plus loin encore, mais à situation nouvelle convient peut-être solution nouvelle. À mon sens, nous devons avoir pour objectif de gagner, sinon le plus rapidement, du moins le plus sûrement possible, une agglomération possédant un poste français. Là, nous aviserons, et nous examinerons en toute tranquillité ce qu\'il y a lieu de faire.
+
+L\'approbation fut unanime.
+
+--- L\'examen de la carte, reprit Barsac, nous montre que nous devons nous efforcer d\'atteindre le Niger en un point quelconque de son cours. Ne serait-il pas possible d\'aller jusqu\'à Saye, par Ouagadougou et Nadiango ? Depuis la prise de Tombouctou, les postes français n\'ont cessé de gagner vers l\'aval. J\'ignore, je l\'avoue, s\'ils sont arrivés dès maintenant à Saye, mais cela est possible, je dirai même probable. Dans le cas où nous réussirons à nous assurer ultérieurement une autre escorte, cette combinaison aurait l\'avantage de respecter le programme qui m\'a été tracé. -- Mais elle aurait l\'inconvénient, monsieur le président, s\'écria avec impétuosité M. Poncin, tout en traçant fiévreusement des chiffres sur son carnet, de nous imposer un parcours de huit cents kilomètres. Or, nos pas, je m\'en suis assuré, sont de soixante-douze centimètres, en moyenne. Huit cents kilomètres font donc un million cent onze mille cent onze pas et une fraction. Négligeons la fraction. Nous faisons à l\'heure, en moyenne, cinq mille cent quarante-trois pas et une fraction. Négligeons la fraction. Mais il y a les arrêts qui s\'élèvent, par heure, je l\'ai vérifié, à une moyenne de dix-huit minutes quatre secondes. Reste deux mille cinq cent vingt secondes, soit trois mille six cents pas et un dixième.
+
+Ce parcours de huit cents kilomètres exigera donc un million cent onze mille cent onze pas, divisés par trois mille six cent et un dixième, soit trois cent huit heures et vingt-deux mille huit cent deux, trente-six mille unièmes d\'heure. Cela représente en tout un million cent onze mille six cent quatre-vingts secondes et une fraction. Négligeons la fraction. Or, nous marchons effectivement, en moyenne, cinq heures quarante-cinq minutes et douze secondes par jour, tous arrêts déduits, soit vingt mille sept cent douze secondes. Il faudra donc, pour franchir huit cents kilomètres, un million cent onze mille six cent quatre-vingts secondes divisées par vingt mille sept cent douze, ce qui nous donne cinquante-trois jours et treize millions neuf cent quatre-vingt mille sept cents douzièmes de jour. Pour apprécier la valeur de cette dernière fraction, il faut la réduire à son tour en heures, minutes et secondes. On obtient alors\...
+
+--- Oh ! Oh ! ! Oh ! ! ! S\'exclama crescendo Amédée Florence sur le point d\'avoir une attaque de nerfs, ne pouvez-vous donc dire tout simplement qu\'il faudra cinquante-trois jours à raison de quinze kilomètres par jour, et seulement quarante, si l\'on en fait quotidiennement vingt ? Mais où voulez-vous en venir avec ces effroyables calculs ?
+
+--- À ceci, répondit d\'un air pincé M. Poncin en faisant disparaître son imposant carnet, qu\'il vaudrait mieux gagner le Niger par Djenné. On diminuerait ainsi de moitié la distance, qui serait réduite à quatre cents kilomètres.
+
+--- Mieux vaudrait encore, objecta Amédée Florence, en traçant du doigt sur la carte l\'itinéraire qu\'il préconisait, toucher le Niger à Ségou-Sikoro, en passant par Bama, Quattara, Djitamana, et caetera.
+
+Le trajet serait de cinq cents kilomètres environ, mais, outre qu\'on suivrait ainsi le même itinéraire que le capitaine Marcenay, on regagnerait ces cent kilomètres supplémentaires, puisqu\'on n\'aurait pas à remonter le fleuve de Djenné à Ségou. De plus, ce dernier centre est relativement important, et nous vous trouverons sûrement du secours.
+
+--- Très bien raisonné, approuva le docteur Châtonnay. Toutefois, il est un parti que je crois meilleur encore. C\'est de revenir tout bonnement sur nos pas, sinon jusqu\'à la mer, du moins jusqu\'à Sikasso, dont nous ne sommes distants que de deux cents kilomètres, et où nous retrouverons nos compatriotes qui nous ont si cordialement reçus. Là, nous déciderons s\'il convient d\'aller sur Bamako, ou s\'il est préférable, comme le croit M. Amédée Florence, et comme c\'est également mon avis, de remonter à Ségou-Sikoro.
+
+--- Le docteur a raison, approuva Florence. C\'est le parti le plus sage. Chacun ayant exprimé son opinion, il y eut un temps d\'arrêt dans la discussion.
+
+--- Il peut se faire, monsieur Florence, reprit, après un instant de réflexion, Barsac, désireux de donner à ses compagnons une idée flatteuse de son héroïsme, que, le docteur et vous, vous ayez raison. Je vous prie de considérer, toutefois, que le retour à Sikasso signifie abandon, à tout le moins momentané, de la mission que j\'ai acceptée. Or, messieurs, homme de devoir avant tout\...
+
+--- Nous comprenons vos scrupules, monsieur Barsac, interrompit Florence, qui sentait venir le discours, mais il est des cas où le devoir, c\'est la prudence.
+
+--- Reste à déterminer précisément, répliqua Barsac, si nous nous trouvons dans l\'un de ces cas-là.
+
+Notre escorte a déserté, il est vrai, mais je cherche en vain quels dangers nous menacent. En somme, les seuls que nous ayons courus jusqu\'ici proviennent d\'un adversaire hypothétique, probable, j\'y consens, mais non certain, puisque son existence ne nous est démontrée que par les coups, qu\'il nous porte. Apprécions donc ces coups en eux-mêmes, et ils nous apparaîtront bien atténués. Qu\'a-t-on fait de plus que nous créer des embarras ? D\'après M. Florence, on aurait, tout d\'abord, essayé de nous effrayer ; c\'est encore notre ennemi inconnu, je l\'admets, qui nous a, plus tard, suscité des difficultés avec notre personnel, à Sikasso, et au-delà, et, enfin, il s\'est arrangé de manière à substituer, par un procédé que j\'ignore, une fausse escorte à la véritable. Mais veuillez réfléchir qu\'en agissant ainsi on a fait preuve d\'une très grande modération. Cette fausse escorte, au lieu de se borner à déserter, pouvait si aisément nous massacrer tous ! Elle n\'en a rien fait. Bien plus, on a eu l\'attention de nous laisser des vivres, nos armes, nos munitions, nos montures et une certaine quantité de marchandises. Ce ne sont pas là des procédés bien terribles.
+
+--- Il y a Tongané, objecta doucement le docteur Châtonnay.
+
+--- Tongané est un nègre, répliqua Barsac, et pour beaucoup de gens la vie d\'un nègre ne compte guère.
+
+--- M. Barsac a raison, intervint Florence. Oui, les procédés employés contre nous portent la marque d\'une véritable modération, et il est certain qu\'on n\'en a pas voulu à notre vie jusqu\'ici. Je dis : jusqu\'ici, parce que notre adversaire inconnu pourrait bien recourir à un système d\'attaque plus efficace, si nous persistons à aller dans une direction qui lui déplaît.
+
+Dans ce cas, la blessure de Tongané suffit à nous prouver que ceux que nous gênons ont la main prompte.
+
+--- Très juste, approuva le docteur.
+
+L\'approbation du docteur Châtonnay fut suivie d\'un silence de quelques minutes, que Barsac employa à de profondes réflexions. Certes, elles étaient justes, les déductions d\'Amédée Florence, et, bien évidemment, l\'honorable député du Midi n\'allait pas compromettre sa précieuse existence dans l\'unique but d\'éviter les critiques qui l\'attendaient à Paris, s\'il y revenait sans avoir accompli entièrement sa mission. Ces critiques, d\'ailleurs, était-il impossible d\'y répondre ?
+
+--- Toute réflexion faite, dit-il, pressé d\'essayer sur ses auditeurs actuels l\'effet des arguments qu\'il servirait plus tard à ses collègues de la Chambre, je me rallie à la proposition de M. Amédée Florence, et plus particulièrement sous la forme que lui a donnée notre honorable collègue, le docteur Châtonnay. Je voterai donc pour le retour à Sikasso, avec Ségou-Sikoro pour objectif final. Que si, messieurs\...
+
+Ici, Amédée Florence, sentant poindre le discours, cessa d\'écouter l\'orateur et se mit à penser à autre chose.
+
+--- Que si, messieurs, quelqu\'un était tenté de me blâmer d\'avoir interrompu ce voyage sans absolue nécessité, je lui répondrais que la responsabilité de cette interruption incombe au gouvernement, dont le devoir était d\'assurer à notre mission une protection efficace. Il aurait dû, par conséquent, puisque des nécessités supérieures le contraignaient à changer la composition de notre escorte, soit prendre toutes mesures utiles pour qu\'une troupe d\'aventuriers ne pût se substituer au véritable détachement qu\'il nous destinait, soit, si une telle substitution n\'a pas eu lieu, choisir le chef auquel il confiait notre sécurité avec assez de tact pour que celui-ci ne fût pas accessible à des sollicitations dont il ne nous appartient pas de rechercher l\'origine.
+
+L\'enquête qui me paraît s\'imposer, l\'enquête, messieurs, nous dira\...
+
+--- Pardon, monsieur le président, interrompit Amédée Florence, si vous voulez bien le permettre\...
+
+Le reporter avait, dès l\'abord, suggéré le plus sage parti, que son sens pratique lui avait fait découvrir tout de suite. Mais sa proposition cessa de l\'intéresser, aussitôt qu\'il comprit qu\'on allait l\'adopter. Quelques minutes plus tard, il n\'aurait même pas fallu le presser beaucoup pour qu\'il proclamât son regret de voir finir ce voyage, juste au moment où celui-ci promettait de devenir intéressant.
+
+Il en était à ce point de ses réflexions, quand son regard était tombé, par hasard, sur Jane Mornas et Saint-Bérain. Il avait alors interrompu Barsac avec d\'autant moins d\'hésitation qu\'il ne l\'écoutait plus, ainsi qu\'on l\'a déjà fait remarquer.
+
+--- Si vous voulez bien le permettre, monsieur le président, dit-il, je ferai observer que nous prenons une décision sans avoir sollicité l\'avis de Mlle Mornas et de M. De Saint-Bérain, qui doivent, j\'imagine, avoir tout comme nous voix au chapitre.
+
+L\'observation était fondée. Depuis que la discussion durait, Jane Mornas et Saint-Bérain avaient écouté en silence, sans y prendre part en aucune manière.
+
+--- M. Florence a raison, reconnut Barsac, en s\'adressant à Jane Mornas. Si donc il vous plaît, mademoiselle, de nous faire connaître votre sentiment\... -- Je vous remercie de bien vouloir me consulter, monsieur Barsac, répondit tranquillement Jane Mornas, mais nous devons rester étrangers à cette discussion qui ne nous concerne pas.
+
+--- Qui ne vous concerne pas ?
+
+Pourquoi donc, mademoiselle ? Il me semble que nous sommes tous logés à la même enseigne.
+
+--- Du tout, monsieur, répliqua Jane Mornas. Si, par suite des circonstances, vous renoncez au but que vous vous étiez proposé, le nôtre n\'a pas changé. Nous n\'avons pas voulu nous séparer de vous au moment où vous aviez le plus d\'ennuis, mais nous avons toujours eu l\'intention de continuer notre voyage selon l\'itinéraire que nous nous sommes tracé.
+
+--- Vous persistez donc à aller jusqu\'à Gao ?
+
+--- Plus que jamais.
+
+--- Seuls ? Sans escorte ?
+
+--- Nous n\'avons jamais compté y arriver autrement.
+
+--- Sans porteurs ?
+
+--- Nous en engagerons d\'autres. Si c\'est impossible, nous nous en passerons. -- Malgré cette hostilité, dont nous ignorons l\'origine, mais dont la réalité n\'est plus contestable ?
+
+--- Malgré cette hostilité, qui, d\'ailleurs, me semble dirigée plutôt contre vous que contre nous.
+
+--- Comment le savoir, puisque nous suivions la même route ? En tout cas, c\'est à vous, j\'en ai grand-peur, que s\'attaquera notre adversaire inconnu, si vous seuls continuez dans la direction du Niger.
+
+--- S\'il en est ainsi, nous braverons donc cet adversaire inconnu.
+
+--- Mais c\'est de la folie ! s\'écrira Barsac. Dussions-nous user de contrainte, nous ne vous laisserons pas, mademoiselle, commettre une pareille imprudence, pour satisfaire ce que vous-même appelez un caprice.
+
+Jane Mornas hésita un instant, puis répondit tristement :
+
+--- Il ne s\'agit malheureusement pas d\'un caprice, comme je vous l\'ai dit jusqu\'ici.
+
+--- De quoi s\'agit-il donc ? demanda Barsac, surpris.
+
+Jane Mornas hésita de nouveau. Puis, après un court silence, elle prononça gravement :
+
+--- D\'un devoir.
+
+Barsac, le docteur Châtonnay et Amédée Florence regardèrent Jane Mornas, celui-ci avec intérêt, ceux-là avec étonnement. Les premiers se demandaient ce que la jeune fille entendait par le mot qu\'elle venait de prononcer, et quel devoir pouvait être assez impérieux pour l\'entraîner au point le plus extrême de la boucle du Niger ? Le dernier, qui, par tempérament, avait toujours prêté à ses compagnons des raisons particulières d\'accomplir ce voyage, n\'éprouvait d\'autre sentiment qu\'une grande satisfaction, à la pensée qu\'il allait connaître l\'une de celles qui jusqu\'alors lui étaient restées cachées.
+
+Jane Mornas reprit :
+
+--- Pardonnez-moi, messieurs, je vous ai trompés\...
+
+--- Trompés ? répéta Barsac dont l\'étonnement grandissait.
+
+--- Oui, je vous ai trompés. Si M. De Saint-Bérain vous a donné son nom véritable et s\'il est bien vrai qu\'il soit Français comme vous-mêmes, je me suis, moi, présentée à vous sous un faux nom et sous une nationalité d\'emprunt. Je suis Anglaise et je m\'appelle Jane Buxton. Je suis la fille de lord Buxton, la soeur du capitaine George Buxton, et c\'est auprès de Koubo que reposent les restes de mon malheureux frère. C\'est donc là qu\'il me faut aller, car c\'est là seulement que j\'entreprendrai vraiment l\'oeuvre que je me suis fixée.
+
+Alors Jane Buxton -- son nom lui sera restitué désormais -- raconta le drame de Koubo, l\'accusation infamante portée contre George Buxton, la mort de celui-ci, la honte et le désespoir de lord Glenor.
+
+Elle dit le but sacré qu\'elle s\'était proposé : réhabiliter son frère, effacer la tache faite à l\'honneur de son nom, et rendre la paix au vieillard dont la vie s\'achevait dans la morne solitude du château d\'Uttoxeter.
+
+Une vive émotion s\'était emparée de ses auditeurs. Ils admiraient cette jeune fille qui, pour des raisons si nobles, avait osé affronter et allait affronter encore tant de fatigues et de dangers.
+
+Quand elle eut fini de parler :
+
+--- Miss Buxton, dit Amédée Florence, non sans une certaine dureté, je me permettrai de vous faire un reproche.
+
+--- Un reproche ?\...  À moi ?\...  s\'étonna Jane, qui attendait de son récit un effet tout autre.
+
+--- Oui, un reproche, et un sérieux encore !\... Quelle singulière -- et peu flatteuse -- opinion vous faites-vous donc, miss Buxton, des Français en général et d\'Amédée Florence en particulier ?
+
+--- Que voulez-vous dire, monsieur Florence ? Balbutia Jane Buxton, troublée.
+
+--- Eh quoi ! s\'écria le reporter d\'un ton indigné, vous vous êtes imaginée comme ça qu\'Amédée Florence allait vous permettre d\'aller sans lui faire un petit tour à Koubo ?
+
+--- Oh ! Monsieur Florence.. ? protesta avec émotion Jane, qui commençait à comprendre.
+
+--- C\'est du joli !\... Continuait cependant Amédée Florence en simulant toujours une vive indignation. Et d\'un égoïsme !\...
+
+--- Je ne vois pas\... Essaya de placer Jane à demi souriante.
+
+--- Laissez-moi parler, je vous prie, interrompit Florence avec autorité.
+
+Vous avez donc oublié que je suis journaliste, plus spécialement reporter, et que j\'ai cette particularité de posséder un directeur ? Or, savez-vous ce qu\'il me dirait, mon directeur, s\'il apprenait que j\'ai raté un reportage aussi sensationnel sur l\'affaire Buxton ? Eh bien ! Il me dirait : « Mon petit Florence, vous n\'êtes qu\'un âne ! » Et il me flanquerait à la porte en deux temps. Or, je tiens à ma place, moi. Je partirai donc avec vous.
+
+--- Oh ! Monsieur Florence !\... répéta Jane profondément émue.
+
+Le reporter la regarda en face.
+
+--- Je pars avec vous, miss Buxton, affirma-t-il avec énergie. Et ne perdez pas votre temps à me soutenir le contraire, car je le sais mieux que vous, j\'imagine.
+
+Jane tendit la main au brave et courageux garçon.
+
+--- J\'accepte, monsieur Florence, lui dit-elle, tandis que deux grosses larmes tombaient de ses yeux.
+
+--- Et moi, miss Buxton, m\'acceptez-vous aussi ? demanda tout à coup la grosse voix du docteur Châtonnay.
+
+--- Vous, docteur ?\...
+
+--- Sans doute, moi. Une pareille expédition ne peut se passer de médecin. Puisque vous allez vous faire hacher en menus morceaux, paraît-il, il faut bien que je sois là pour les recoudre.
+
+--- Oh ! Docteur !\... répéta encore Jane, qui commençait à pleurer pour de bon.
+
+Mais que devint cette émotion, quand elle entendit Barsac s\'écrier d\'une voix où grondait la colère :
+
+--- Eh bien ! Et moi ?\... Je ne compte plus, alors, que personne ne songe à me demander mon avis ?
+
+Barsac était réellement furieux.
+
+Lui aussi, il avait pensé tout de suite à se joindre à miss Buxton. Il ferait ainsi coup double, puisque l\'itinéraire de la jeune fille était très analogue au sien, et que l\'imprudence était justifiée par un but dont il appréciait la noblesse. Au surplus, quatre hommes, quatre Français, pouvaient-ils abandonner froidement cette jeune fille dans la brousse et la laisser courir seule sa dangereuse aventure ? Florence et le docteur Châtonnay lui avaient donc coupé un effet, comme on dit au théâtre, ce qui est toujours une chose très désagréable.
+
+--- Je ne parle pas pour M. Florence, continua-t-il, en accentuant encore en apparence sa mauvaise humeur véritable, M. Florence est libre. Mais, vous, docteur, vous faites partie de la mission que je commande, je suppose. Auriez-vous donc le projet de déserter à votre tour, afin que votre chef soit abandonné du dernier de ses soldats ?
+
+--- Je vous assure, monsieur Barsac\... balbutia le docteur, qui n\'avait pas réfléchi à ce côté de la question.
+
+--- Si telle n\'est pas votre intention, monsieur, serait-ce donc que vous auriez la pensée que j\'irais moi aussi à Koubo ? Mais est-ce à vous qu\'il appartient de décider de notre itinéraire ? Vous appartient-il, surtout, en prenant une telle initiative, de me donner une leçon ?
+
+--- Croyez, monsieur Barsac\... essaya de placer le pauvre docteur.
+
+--- Non, docteur, non, je ne permets pas, répliqua Barsac dont la voix s\'élevait graduellement. Et sachez bien ceci, c\'est que, moi, chef responsable de la mission du Niger, je n\'approuve pas vos projets. Bien au contraire, considérant que le seul guide qui nous reste a été engagé par miss Buxton et qu\'il est à sa disposition exclusive, considérant que nous ne pouvons nous faire comprendre des indigènes sans le secours de miss Buxton et de M. De Saint-Bérain, qui sont les seuls d\'entre nous à parler la langue *bambara*, je veux, *j\'entends,* J\'ORDONNE\...
+
+Barsac, dont la voix avait atteint une sonorité impressionnante, fit une pause savante, puis, d\'un ton plus simple, il conclut :
+
+---\... Que nous nous rendions tous au Niger en passant par Koubo.
+
+--- Comment, monsieur Barsac ?\... balbutia Jane qui craignait d\'avoir mal entendu.
+
+--- C\'est comme ça, miss Buxton, trancha Barsac. Il faudra vous résigner à nous supporter jusqu\'au bout.
+
+--- Oh ! Monsieur Barsac\... murmura une dernière fois Jane Buxton, qui se mit à pleurer tout à fait.
+
+Elle n\'était pas seule à avoir les yeux humides. L\'émotion était générale. Les hommes s\'efforçaient, toutefois, de la dissimuler, et elle se traduisait chez eux par une sorte d\'énervement et par un flot de paroles inutiles. Ces répliques se croisaient :
+
+--- C\'est un voyage des plus simples, proclamait Florence, puisque nous avons des vivres.
+
+--- Pour cinq jours, disait le docteur Châtonnay du même ton dont il eût dit pour six mois.
+
+--- Quatre seulement, rectifiait Barsac, mais nous en achèterons d\'autres. -- D\'ailleurs, il y a la chasse, suggérait le docteur.
+
+--- Et la pêche, ajoutait Saint-Bérain.
+
+--- Et les fruits, que je connais pas mal, affirmait le docteur.
+
+--- Moi savoir légumes : patates, ignames, glissait Tongané.
+
+--- Moi faire beurre de cé, renchérissait Malik.
+
+--- Hip ! Hip ! Hip ! Hourra ! criait Amédée Florence.
+
+C\'est Capoue, le pays de Chanaan, le paradis terrestre.
+
+--- Nous partirons demain, conclut enfin Barsac. Préparons-nous sans perdre une heure.
+
+Une chose digne de remarque, c\'est que M. Poncin n\'avait pas ouvert la bouche. Par contre, dès qu\'il eut été décidé que tout le monde irait à Koubo, M. Poncin avait tiré son carnet, qu\'il couvrait depuis ce moment d\'innombrables calculs.
+
+--- Tout cela est très bien, dit-il en réponse aux derniers mots de Barsac. Il n\'empêche que la route de Koubo, comparée à celle de Ségou-Sikoro, représente une augmentation de quatre cents kilomètres. Nos pas étant, on le sait, de soixante-douze centimètres, cela fait cinq cent cinquante-cinq mille cinq cent cinquante-cinq pas, plus une fraction. Négligeons la fraction. Or, nous faisons à l\'heure, je l\'ai dit, trois mille six cents pas et un dixième, et nous marchons chaque jour cinq heures quarante-cinq minutes dix-huit secondes. Donc\...
+
+Mais personne n\'écoutait M. Poncin. Barsac, le docteur Châtonnay, Amédée Florence, Jane Buxton et Saint-Bérain s\'occupaient déjà activement à préparer le départ du lendemain, et M. Poncin parlait dans le désert.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12 -- Une tombe, des ossements]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942912 .pcalibre2 .pcalibre1} {#chapitre-12-une-tombe-des-ossements .calibre171 .sigil_not_in_toc}
+
+Accompagnés de six porteurs fournis par le *dougoutigui* de Kadou, les débris de la mission Barsac quittèrent ce village dans la matinée du 24 février. Pour troublants que fussent les derniers événements qui l\'avaient désorganisée, le départ s\'effectua dans la gaieté. Si on en excepte M. Poncin, dont les sentiments intimes demeuraient impénétrables, tous étaient agréablement surexcités par la perspective d\'accomplir un acte généreux, voire héroïque en quelque manière, et se félicitaient réciproquement de la décision prise. Au surplus, rien n\'était perdu encore. Les six Européens, de même que Tongané, qui avait pris Malik en croupe, possédaient toujours leurs montures, et on ne manquait ni d\'armes, ni de vivres, ni d\'objets d\'échange. D\'autre part, le pays paraissait tranquille, et on était en droit d\'espérer que l\'adversaire inconnu, contre lequel on s\'était involontairement heurté jusqu\'alors, mettrait un terme à ses persécutions, la mission n\'étant plus capable d\'inquiéter personne. Rien ne s\'opposait donc, en principe, à ce qu\'on atteignît Koubo sans avoir à subir d\'épreuves vraiment sérieuses.
+
+Rien, non plus, ne s\'opposerait sans doute à ce qu\'on y parvînt rapidement, maintenant qu\'on ne serait plus retardé par un nombreux troupeau d\'ânes, parmi lesquels il en est nécessairement de récalcitrants. Pour activer la marche, on s\'était, d\'ailleurs, imposé de lourds sacrifices. On avait laissé au *dougoutigui* de Kadou, à titre de rémunération pour ses bons offices, une partie de la pacotille, ce qu\'on en conservait devant aisément permettre d\'arriver à Gao. Sacrifice plus douloureux, on s\'était résigné à abandonner les tentes, dont une seule avait été conservée pour l\'usage exclusif de Jane Buxton, malgré que celle-ci s\'en fût énergiquement défendue.
+
+Quant aux hommes, ou ils trouveraient à se loger dans les villages, ou ils dormiraient en plein air. Dans la saison sèche et pour un aussi court voyage, cela ne pouvait avoir grand inconvénient. Il ne s\'agissait en somme que d\'un parcours de cinq cents kilomètres environ, soit de quinze à vingt journées de marche. Selon toute vraisemblance, on serait donc à Koubo entre le 10 et le 15 mars.
+
+Le début du voyage fut d\'accord avec ces favorables auspices. Les porteurs, tout frais et pleins d\'ardeur, gardaient un train soutenu, et on n\'employa que cinq jours à franchir les cent quarante kilomètres séparant Kadou de Sanabo, où l\'on arriva dans la journée du 28. Aucun incident n\'était survenu pendant cette première partie du voyage. Conformément aux prévisions, on avait généralement trouvé à se loger, le soir venu, dans des cases indigènes, fort malpropres, à vrai dire, mais enfin suffisantes, et les nuits passées en plein air, lorsqu\'il n\'y avait aucun village à proximité lors de la seconde halte du jour, s\'étaient écoulées paisiblement. Partout bien accueillis, les voyageurs avaient pu se ravitailler sans peine, et c\'est toujours nantis de leur réserve de vivres qu\'ils quittèrent Sanabo le matin du 1er mars. Ils n\'avaient donc, jusque-là, aucune raison de regretter le parti qu\'ils avaient adopté.
+
+--- C\'est-à-dire que c\'est trop beau ! Proclamait Amédée Florence parlant à son ami Saint-Bérain, pendant qu\'ils faisaient côte à côte la seconde étape du 2 mars. Le profond penseur que je suis devrait même s\'en inquiéter et calculer de quelle fraction le rapport habituel du bien et du mal est vicié à notre profit. J\'aime mieux supposer, toutefois, que le destin peut, de temps en temps, prendre modèle sur M. Poncin et négliger la fraction à son exemple.
+
+--- Voilà le résultat d\'une bonne action, cher ami, répondit Saint-Bérain. Vous n\'avez pas voulu nous abandonner. Le Ciel vous en récompense.
+
+--- Du train dont vont les choses, nous n\'aurons pas grand mérite, dit, en se retournant sur sa selle, le docteur Châtonnay qui précédait les deux amis.
+
+--- Qui sait ? fit Saint-Bérain. Nous ne sommes pas encore au bout.
+
+--- Bah ! s\'écrira Amédée Florence, c\'est tout comme. Nous avons le vent en poupe, cette fois. Ces choses-là se sentent, que diable ! Je soutiens que nous allons arriver à Koubo dans un fauteuil, sans la plus petite aventure au tableau, ce qui, d\'ailleurs, n\'est pas très réjouissant pour un journaliste, dont le directeur\... Eh là ! S\'interrompit-il tout à coup, en adressant cette exclamation à son cheval qui venait de buter lourdement.
+
+--- Qu\'y a-t-il ? interrogea Barsac.
+
+--- C\'est mon cheval, expliqua Florence. Je ne sais ce qu\'il a. Il bute sans cesse, depuis ce matin. Il faudra que j\'examine\...
+
+Il n\'eut pas le temps d\'achever sa pensée. Le cheval, qui s\'était arrêté brusquement, tremblait et vacillait sur ses jambes. Le reporter eut tout juste le temps de mettre pied à terre. À peine avait-il quitté la selle, que l\'animal pliait des genoux et s\'allongeait sur le sol.
+
+On s\'empressa de secourir la pauvre bête, qui ahanait et soufflait péniblement. On relâcha la sangle de la selle, on lui mouilla les naseaux avec l\'eau d\'un petit cours d\'eau voisin. Rien n\'y fit. Une heure plus tard, elle était morte.
+
+--- J\'aurais dû toucher du bois, tout à l\'heure, dit piteusement Amédée Florence transformé en piéton.
+
+Se féliciter de sa veine appelle nécessairement la guigne, c\'est bien connu.
+
+--- Seriez-vous superstitieux, monsieur Florence ? demanda Jane Buxton en souriant.
+
+--- Pas précisément, mademoiselle. Embêté seulement, très embêté, par exemple !
+
+Le cheval de Tongané fut attribué au reporter, Jane Buxton prit Malik en croupe, et l\'on se remit en route après une halte de deux heures, en laissant en arrière le cadavre du cheval et son harnachement qu\'on ne pouvait songer à emporter. L\'étape en fut raccourcie d\'autant.
+
+À la tombée de la nuit, on s\'arrêta au pied d\'un bouquet d\'arbres naturellement disposés suivant une demi-circonférence, en bordure immédiate du chemin. Situé au sommet d\'une petite éminence, ce point, d\'où on avait vue dans toutes les directions, ce qui mettait à l\'abri d\'une surprise toujours possible, était heureusement choisi pour y passer la nuit. Ses avantages avaient, d\'ailleurs, frappé de précédents voyageurs, qui, ainsi qu\'on ne tarda pas à le reconnaître, avaient campé au même point. À en juger par leurs traces, ces voyageurs étaient assez nombreux et possédaient des chevaux, dont les sabots avaient laissé de multiples empreintes. Qui étaient ces gens ? Des nègres ou des Blancs ? La seconde hypothèse, la plus probable, car les nègres ne font pas en général usage de chevaux, devint une certitude, quand Amédée Florence eut découvert et montré à ses compagnons un objet oublié par leurs prédécesseurs. Cet objet, tout insignifiant qu\'il fût, puisqu\'il s\'agissait d\'un simple bouton, n\'en était pas moins un produit de la civilisation peu employé par les Noirs, et témoignait irrécusablement de la couleur de ses anciens propriétaires.
+
+L\'état des herbes foulées, qui se redressaient déjà, prouvait, d\'ailleurs, que le passage de cette troupe, quelle qu\'elle fût, remontait à une dizaine de jours, à tout le moins. Comme on ne l\'avait pas croisée, on devait en conclure qu\'elle aussi suivait la route du Nord-Est, et que, par conséquent, on n\'était pas destiné à la rencontrer jamais.
+
+La journée du 3 mars n\'offrit rien de particulier, mais, le 4, les explorateurs eurent à déplorer un nouveau décès dans leur cavalerie. Vers le soir, le cheval de Barsac mourut exactement comme était mort celui d\'Amédée Florence. Cela commençait à devenir singulier.
+
+Le docteur Châtonnay, qui avait examiné l\'animal défunt, saisit la première occasion de parler confidentiellement à Amédée Florence, et dit à celui-ci : -- J\'ai attendu d\'être seul avec vous, monsieur Florence, pour vous apprendre quelque chose d\'assez sérieux.
+
+--- Quoi donc ? interrogea Florence, surpris.
+
+--- C\'est que les deux chevaux sont morts empoisonnés.
+
+--- Pas possible ! s\'écria le reporter. Qui les empoisonnerait ? Les Noirs engagés à Kadou ?\... Ils n\'ont aucun intérêt à nous créer des difficultés, au contraire.
+
+--- Je n\'accuse personne, insista le docteur, mais je maintiens ce que j\'ai dit. Après le premier décès, j\'avais des soupçons. Après le second, j\'ai une certitude. Les signes sont indéniables. Le dernier des ignorants ne s\'y tromperait pas.
+
+--- Alors, votre avis, docteur ?
+
+--- Sur quel sujet ?
+
+--- Sur ce que nous devons faire.
+
+--- Je n\'en sais pas plus que vous. Mon rôle consiste à vous prévenir, et si je m\'en suis acquitté de cette manière confidentielle, c\'est pour que vous mettiez nos compagnons au courant, à l\'insu de miss Buxton, qu\'il me paraît inutile d\'effrayer.
+
+--- Tout à fait, approuva Florence.
+
+Mais, dites-moi, docteur, est-il donc nécessaire de faire intervenir la malveillance dans ces deux accidents ? Ne peuvent-ils s\'expliquer autrement ? Nos chevaux n\'ont-ils pu brouter, en même temps que leur provende, une herbe vénéneuse quelconque ?
+
+--- Ce n\'est pas seulement possible, dit le docteur, c\'est certain. Reste à savoir si c\'est le hasard qui a mêlé à leurs aliments cette plante vénéneuse, ou si ce hasard-là porte un nom d\'homme. Là-dessus, je n\'en sais pas plus long que vous.
+
+On convint de surveiller plus rigoureusement que jamais les cinq chevaux survivants, afin d\'éviter le retour de semblable malheur. Un des Européens ou Tongané resterait toujours auprès d\'eux pendant les haltes, de telle sorte que personne ne pût en approcher sans être vu. Fût-ce à cause de ces précautions, ou simplement parce que les deux décès étaient accidentels, quoi qu\'il en soit, il ne s\'en produisit plus les deux jours suivants, si bien que l\'on se rassura peu à peu.
+
+Au surplus, la perte de ces chevaux était le seul incident fâcheux qui fût survenu jusqu\'alors.
+
+La contrée était très plate, on y cheminait sans fatigue, aussi vite que l\'autorisait le train des porteurs, et on continuait à s\'approvisionner facilement dans les villages, ce qui permettait de conserver intacte l\'avance initiale de quatre jours de vivres.
+
+Cependant, l\'après-midi du 5 et toute la journée du 6 s\'étant écoulées sans qu\'on eût aperçu un seul village, force fut d\'entamer cette réserve. On ne s\'en inquiéta pas, au surplus, Tongané affirmant qu\'on n\'allait pas tarder à rencontrer une agglomération d\'une certaine importance où il serait facile de se ravitailler.
+
+On parvint, en effet, le soir du 6 mars, à cette bourgade, qui portait le nom de Yaho, mais les prévisions de Tongané ne se réalisèrent pas.
+
+Dès qu\'on s\'approcha du *tata*, des vociférations et même quelques coups de fusils à pierre partirent de son sommet, sur lequel se pressait une nombreuse foule de nègres. C\'était la première fois qu\'on recevait pareil accueil depuis le départ de Conakry, si on excepte la démonstration des naturels de Kokoro. Encore, à Kokoro, avait-il été possible de transformer leurs dispositions belliqueuses en sentiments plus amicaux, tandis qu\'à Yaho on ne put même pas essayer d\'arriver à un semblable résultat.
+
+Barsac eut beau s\'ingénier afin d\'entrer en relation avec les habitants de ce village, les moyens employés échouèrent les uns après les autres. Un drapeau blanc fut en vain porté au bout d\'un bâton. Cet emblème symbolique, dont le sens pacifique est compris sur toute la surface de la terre, provoqua un ouragan de hurlements, accompagnés d\'une nuée de balles, qui eussent été mortelles pour le porteur du drapeau, s\'il n\'avait eu la prudence de se tenir à distance suffisante. Tongané, puis successivement deux des porteurs, gens de même race, ou à peu près, que les habitants de Yaho, furent sans plus de succès envoyés en parlementaires. On refusa de les écouter, et on ne leur répondit que par le jet de projectiles divers, que la maladresse seule des tireurs rendit inoffensifs. Il était évident que la population de ce village entendait, pour une raison ou pour une autre, n\'avoir aucun rapport avec des étrangers, et qu\'elle ne voulait même pas connaître leurs intentions. Il fallut y renoncer.
+
+D\'ailleurs, ces nègres inhospitaliers se bornèrent à faire bonne garde autour du *tata*, dont ils refusaient si formellement l\'entrée, sans se livrer à aucun acte d\'hostilité plus directe.
+
+Quels que fussent les motifs d\'une telle attitude, les voyageurs ne purent se ravitailler comme ils l\'espéraient, et durent repartir le lendemain 7 mars, n\'ayant plus que deux jours de vivres devant eux.
+
+La situation n\'avait encore, du reste, rien d\'inquiétant. On avait fait alors plus de trois cents kilomètres depuis Kadou, c\'est-à-dire plus de la moitié du parcours total, et tout portait à croire que les prochains villages auraient une attitude plus amicale que celle de Yaho.
+
+Le chemin n\'en ayant traversé aucun, la question ne put être tranchée pendant la journée du 7 mars, qui fut bonne au point de vue du nombre de kilomètres parcourus, mais au cours de laquelle survint un nouveau malheur. Un troisième cheval mourut, de la même manière qu\'étaient morts les deux premiers.
+
+--- Quelqu\'un réussirait-il donc, demanda Florence au docteur Châtonnay, à empoisonner nos animaux, malgré la surveillance dont nous les entourons ?
+
+--- C\'est peu probable, répondit le docteur. L\'empoisonnement doit être antérieur à notre départ de Kadou. Peut-être remonte-t-il au jour où notre escorte a déserté. Si nos chevaux meurent successivement, et non tous à la fois, cela doit tenir à la différence de leurs résistances individuelles et sans doute aussi à la différence des doses.
+
+--- En attendant, dit Amédée Florence, nous voici trois piétons contre quatre cavaliers. Ce n\'est pas drôle !
+
+Le 8 mars, ce ne fut pas sans inquiétude qu\'on se remit en route. De quelque côté qu\'on le considérât, l\'avenir commençait à devenir sombre. On ne pouvait pas se dissimuler que la puissance adverse dont on se croyait à jamais débarrassé n\'eût pris la précaution d\'empoisonner les chevaux avant de disparaître, ce qui impliquait une persistance de haine aussi effrayante qu\'inexplicable, et on s\'attendait à voir tomber d\'un instant à l\'autre les quatre animaux survivants.
+
+D\'autre part, on ne possédait plus qu\'un seul jour de vivres, et on souffrirait de la faim, si un village n\'était pas rencontré avant le coucher du soleil.
+
+On n\'eut même pas si longtemps à attendre. La première heure de marche n\'était pas écoulée qu\'une agglomération de cases apparaissait dans le lointain.
+
+Les voyageurs s\'arrêtèrent quelques instants, s\'efforçant de prévoir l\'accueil qui les attendait. Dans la vaste plaine qui se déployait sous leurs yeux, ils ne distinguèrent rien qui fût de nature à les renseigner. Autant qu\'on en pouvait juger à cette distance, le village semblait mort, et l\'étendue était déserte. On ne voyait que le haut tapis de la brousse, et la trouée du chemin, sur lequel, de place en place, on apercevait des taches noires, dont il était impossible de reconnaître la nature.
+
+Après une courte halte, Barsac et ses compagnons se remirent en marche vers le village. Ils n\'avaient pas fait un kilomètre qu\'une odeur nauséabonde les saisit à la gorge. Quelques pas encore, et ils furent auprès d\'une de ces taches noires qu\'ils avaient remarquées de loin. Ils eurent un mouvement de recul. Cette tache noire, c\'était le cadavre à demi putréfié d\'un nègre. Jusqu\'au village, le chemin était jalonné de la sorte. Ils purent compter dix de ces bornes funèbres.
+
+--- Voyez combien petite est l\'entrée du projectile qui a frappé cet homme, dit à Amédée Florence le docteur Châtonnay qui examinait l\'un des cadavres, et combien est grand au contraire son orifice de sortie, quand ces projectiles ont traversé les corps de part en part. D\'autres ont rencontré des os et vous pouvez constater quels effroyables ravages ils ont produits dans ce cas.
+
+Ces hommes ont été tués par des balles explosibles.
+
+--- Encore ! s\'écria Amédée Florence.
+
+--- Encore.
+
+--- Comme le vieux nègre que nous avons soigné dans le petit hameau, pendant notre première étape avec la nouvelle escorte ?
+
+--- Comme ce jour-là, répondit le docteur Châtonnay.
+
+Amédée Florence et le docteur rejoignirent leurs compagnons en silence. Ils étaient pensifs, et se demandaient ce qu\'il fallait conclure de l\'explicable répétition d\'un fait aussi anormal.
+
+Dans le village, le spectacle était plus affreux encore. À de nombreux signes, on reconnaissait qu\'il avait été le théâtre d\'une lutte acharnée. En outre, après la bataille, les vainqueurs l\'avaient incendié, et la plupart des cases étaient détruites par le feu. Dans celles qu\'ils avaient épargnées, on trouva d\'autres cadavres.
+
+--- La mort de ces malheureux remonte au moins à dix jours, dit le docteur Châtonnay, et, comme pour les autres, ce sont des balles explosibles qui l\'ont provoquée.
+
+--- Mais quels peuvent bien être les misérables qui se sont livrés à un pareil carnage ? s\'écria Saint-Bérain.
+
+--- Peut-être, suggéra Amédée Florence, ceux dont nous avons remarqué les traces, il y a quelques jours. Nous estimions alors leur avance à une dizaine de jours. Cela coïnciderait avec le délai que fixe le docteur.
+
+--- Ce sont eux à n\'en pas douter, dit Barsac indigné.
+
+--- Comme ce sont eux, ajouta Amédée Florence, qui nous ont valu la fraîche réception de Yaho, qu\'ils auront voulu traiter comme ils ont traité ce village.
+
+Yaho étant entouré d\'un *tata*, ils n\'auront pu y entrer, mais cela expliquerait que les nègres effrayés se soient tenus depuis ce moment sur la défensive.
+
+--- C\'est assez logique, en effet, approuva le docteur Châtonnay.
+
+--- Mais qui peuvent bien être ces misérables, demanda Jane Buxton, et leur présence ne peut-elle être un danger pour nous ?
+
+--- Qui ils sont, je n\'en sais rien, répondit Amédée Florence, mais ils ne me paraissent pas à craindre en ce qui nous concerne. Tout concourt à nous démontrer qu\'ils ont sur nous une avance de dix à douze jours, et, comme ils sont montés, il est peu probable que nous les rattrapions jamais.
+
+On parcourut tout le village incendié sans y rencontrer aucun être vivant. Ceux des habitants que les balles n\'avaient pas atteints s\'étaient enfuis, et il était complètement désert. Il était aussi pillé de fond en comble, tout ce que le feu n\'avait pas dévoré, on l\'avait jeté aux quatre vents. Même spectacle aux alentours, dans les *lougans* saccagés, dévastés. La volonté de destruction était évidente.
+
+C\'est en proie aux plus tristes pensées qu\'on laissa en arrière le malheureux village. Le soir, on fit halte en pleine campagne. Il ne restait alors de vivres que pour un seul repas. De cet unique repas, on fit deux parts, l\'une qu\'on mangea sur-le-champ, l\'autre qui fut réservée pour le lendemain matin.
+
+Au cours de la journée du 9 mars, deux villages furent rencontrés. On ne put s\'approcher du premier, que défendait un petit *tata*, et dont l\'accueil fut en tout point semblable à celui de Yaho. Quant au second, qu\'aucune fortification ne protégeait, il était, comme celui du jour précédent, saccagé, incendié et vide d\'habitants.
+
+--- On dirait vraiment, observa Barsac, que des gens s\'ingénient à créer le désert devant nous.
+
+L\'observation était juste. On aurait voulu affamer les voyageurs qu\'on n\'aurait pas procédé autrement.
+
+--- Bah ! fit Amédée Florence, avec une insouciance voulue, nous le traverserons malgré eux, ce désert. C\'est à peine s\'il y a cent cinquante kilomètres d\'ici à Koubo. Ce n\'est pas la mer à boire, après tout. Puisque les bouchers et les épiciers sont en grève, la chasse nous fournira nos biftecks.
+
+À l\'exception de M. Poncin, tout à fait incapable de manier un fusil, on suivit aussitôt cet excellent conseil. Malheureusement, les hautes herbes arrêtaient trop souvent la vue, et la contrée n\'était pas très giboyeuse. De toute la journée, on n\'eut qu\'une outarde, deux pintades et deux perdrix au tableau. Pour nourrir quatorze personnes, c\'était à peine l\'indispensable minimum.
+
+À l\'étape du soir, Amédée Florence et le docteur Châtonnay constatèrent pour la seconde fois que l\'endroit où l\'on s\'arrêtait avait antérieurement reçu la visite d\'autres voyageurs. Les herbes paraissaient même plus récemment froissées, comme si l\'avance de ceux-ci eût diminué.
+
+Pendant qu\'on échangeait des réflexions à ce sujet, Tongané, préposé à ce moment à la surveillance des chevaux, appela ses maîtres tout à coup. Deux des animaux venaient de tomber, comme étaient tombés les trois premiers. Comme ceux-ci, ils agonisèrent sans qu\'il fût possible de les secourir, et moururent après une heure de souffrance.
+
+Deux chevaux restaient encore, mais on ne devait pas garder longtemps ces deux animaux, qui succombèrent à leur tour pendant la journée du 10 mars. Les porteurs engagés à Kadou furent-ils effrayés par ces décès successifs ? Plus simplement, la chasse n\'ayant, au cours de la journée du 10, produit qu\'un résultat dérisoire, redoutèrent-ils de souffrir de la faim ? Quoi qu\'il en soit, ils disparurent dans la nuit du 10 au 11, et, le matin venu, les six Européens, Tongané et Malik, se réveillèrent sans porteurs, sans chevaux et sans vivres.
+
+Ils éprouvèrent alors un moment de découragement bien naturel, qu\'eût, d\'ailleurs, suffi à expliquer la faiblesse qu\'ils commençaient à ressentir. La plus accablée était Jane Buxton, qui se reprochait d\'avoir entraîné ses compagnons dans ce déplorable voyage et se sentait responsable de leur misère. Elle s\'accusait et sollicitait leur pardon.
+
+Amédée Florence comprit la nécessité de réagir contre la dépression générale.
+
+--- Que de paroles inutiles ! s\'écria-t-il en s\'adressant à Jane Buxton avec une affectueuse brutalité. Nous ne sommes pas encore morts, je suppose. Que la chasse n\'ait pas été très bonne ces jours-ci, la belle affaire ! Elle sera meilleure demain, voilà tout.
+
+--- N\'oublions pas, fit observer le docteur Châtonnay venant au secours du reporter, que nos nègres, en nous laissant en plan, nous ont, du même coup, débarrassés de leurs six estomacs.
+
+--- C\'est tout bénéfice, conclut Florence. S\'ils n\'étaient pas partis, j\'allais vous proposer de les renvoyer à leurs aimables familles. J\'estime que, dans les circonstances présentes, rien ne pouvait nous arriver de plus heureux.
+
+--- Merci, monsieur Florence, merci, messieurs, disait cependant Jane Buxton, profondément émue. Croyez que je n\'oublierai jamais votre bonté et votre dévouement.
+
+--- Pas d\'attendrissement ! interrompit Florence. Rien n\'est plus mauvais avant le déjeuner. Si vous voulez m\'en croire, filons, mettons-nous en chasse, et mangeons jusqu\'à l\'indigestion inclusivement.
+
+Nous nous épancherons au dessert, si ça vous chante.
+
+Le départ des porteurs rendant impossible le transport des colis, on dut abandonner la dernière tente et le reste de la pacotille d\'échange. Jane Buxton dormirait désormais, elle aussi, en plein air, quand on ne pourrait trouver un abri dans un village abandonné. Quant à la perte des objets d\'échange, on n\'en éprouva pas de trop vifs regrets. À quoi eussent-ils été bons, le pays étant désert et toute transaction y étant impossible ? D\'ailleurs, n\'avait-on pas de l\'or, pour le cas où les circonstances viendraient à changer ?
+
+C\'est dans ces tristes conditions que la marche fut reprise. Au cours de cette journée du 12 mars, le chemin traversa un village, où l\'on découvrit encore de nombreux cadavres de nègres. Le docteur fit remarquer à ses compagnons que la mort de ces malheureux était plus récente et paraissait remonter à deux jours tout au plus. Devait-on en conclure que la bande des assassins était maintenant plus proche, et fallait-il s\'attendre à se heurter contre elle un jour ou l\'autre ?
+
+Malgré cette perspective peu rassurante, on continua à s\'élever dans le nord. Quel moyen de faire autrement, au surplus ? Revenir au sud, sur ce chemin jalonné de villages hostiles ou détruits, eût été impossible. Mieux valait gagner à tout prix le Niger, puisque là seulement on aurait du secours.
+
+C\'était toujours le désert que trouvaient devant eux les voyageurs épuisés. Pas un village qui ne fût hostile, quand un *tata* l\'avait défendu contre la destruction, ou pillé, brûlé, dévasté, dans le cas contraire. Nulle part, il ne leur était possible de se procurer des vivres, et ils ne subsistaient que grâce à des hasards favorables : ignames, patates ou autres racines déterrées par chance dans un *lougan* saccagé, heureux coup de fusil, ou, parfois encore, quelque misérable poisson capturé par Saint-Bérain pendant la halte du jour.
+
+Cette dernière ressource manquait, à vrai dire, le plus souvent. Outre que l\'adversité n\'avait en rien diminué la perpétuelle distraction, non plus que la sensibilité excessive du fantaisiste neveu de Jane Buxton, on traversait des territoires où les cours d\'eau étaient rares. On eut plus d\'une fois à souffrir de la soif, les puits qu\'on découvrait de temps à autre étant invariablement comblés. La puissance malfaisante qui s\'ingéniait à accabler les voyageurs n\'avait rien oublié.
+
+L\'énergie de ceux-ci n\'était pas entamée, cependant. Brûlés par un soleil de feu, se traînant péniblement quand le gibier avait fait défaut, réglant les étapes sur leur faiblesse croissante, ils gagnaient courageusement vers le nord, jour par jour, pas à pas, malgré la fatigue, malgré la soif, malgré la faim.
+
+Les deux Noirs opposaient à ces épreuves une merveilleuse indifférence. Habitués aux privations, accoutumés à subir une vie de misère, peut-être souffraient-ils moins que leurs maîtres de la misère présente. Tous deux faisaient preuve du dévouement le plus touchant.
+
+--- Moi, y en a pas beaucoup faim, disait Tongané à Malik, pour l\'engager à accepter quelque racine comestible qu\'il avait découverte.
+
+Malik acceptait le présent, mais pour l\'offrir à Jane Buxton, qui, d\'ailleurs, s\'empressait de le joindre à la réserve collective dont serait composé le prochain repas de tous.
+
+Ainsi chacun faisait son devoir, tout en réagissant selon son tempérament personnel.
+
+Barsac inclinait plutôt vers la colère.
+
+Il ne parlait guère, et, si parfois un mot s\'échappait de ses lèvres, ce mot s\'adressait généralement au Gouvernement français, dont l\'incapacité l\'avait mis, lui Barsac, dans un pareil pétrin. Déjà, il se voyait à la tribune de la Chambre. En attendant, il préparait ses foudres, qu\'il lancerait au retour, tel Jupiter, du haut de cet Olympe parlementaire.
+
+Le docteur Châtonnay parlait peu lui aussi, mais, bien que fort inhabile à la chasse, il ne s\'en rendait pas moins utile. Il cherchait les fruits comestibles, qu\'il découvrait assez souvent, et, soucieux avant tout de conserver au moins l\'apparence de la gaieté, il ne manquait jamais de rire, avec son éternel bruit de vapeur fusante, au moindre mot que prononçait Amédée Florence.
+
+--- Dommage, docteur, lui disait ce dernier, que vous n\'ayez que l\'échappement des gaz. Vous n\'auriez pas le moteur sur vous, par hasard ? C\'est ça qui ferait notre affaire !
+
+Et l\'excellent docteur de rire de nouveau, par principe.
+
+M. Poncin parlait moins encore, puisqu\'il n\'ouvrait pas la bouche. Il ne chassait pas, ne pêchait pas, et, d\'ailleurs, ne se plaignait pas. Il ne faisait rien, M. Poncin, si ce n\'est écrire de temps à autre quelque mention sur son mystérieux carnet, ce dont Amédée Florence était toujours fort intrigué.
+
+Saint-Bérain se comportait comme à l\'ordinaire, ni plus gai, ni plus triste qu\'au moment du départ. Peut-être ignorait-il dans quelle situation il se trouvait, et était-il distrait au point de ne pas savoir qu\'il avait faim.
+
+À en juger par les apparences, il eût semblé que Jane Buxton supportait avec moins de philosophie les épreuves dont le sort l\'accablait, et pourtant celles-ci étaient étrangères à la tristesse grandissante que reflétait son visage.
+
+N\'ayant jamais espéré que le voyage s\'accomplirait sans effort, elle acceptait d\'un coeur ferme les obstacles qu\'elle rencontrait sur sa route. Amaigrie, affaiblie par les privations et par les souffrances de toute espèce, son énergie, du moins, demeurait intacte, et sa pensée restait tendue vers le but qu\'elle s\'était fixé. Mais, à mesure qu\'elle en approchait, son trouble, son angoisse augmentaient sans qu\'elle pût s\'en défendre. Quelle réponse allait donner la sépulture de Koubo ? Que lui apprendrait l\'enquête qu\'elle entamerait ensuite, en prenant comme centre de ses recherches les lieux où son frère était tombé ? Apprendrait-elle quelque chose seulement, et ne lui faudrait-il pas revenir les mains vides ? Ces questions se pressaient dans son esprit, chaque jour plus impérieuses et plus absorbantes.
+
+Amédée Florence n\'était pas sans avoir remarqué la tristesse de Jane Buxton, et il la combattait de tout son pouvoir. En fait, il était l\'âme de ce petit monde, et les pires épreuves n\'avaient aucune influence sur sa persistante gaieté. À l\'entendre, on devait remercier le Ciel pour sa paternelle bienveillance, aucun autre genre de vie ne pouvant être aussi rigoureusement conforme à une hygiène bien comprise. Quoi qu\'il arrivât, il s\'en applaudissait. Avait-on soif ? Rien de plus favorable à sa dilatation d\'estomac commençante. Avait-on faim ? Rien de meilleur pour combattre l\'arthritisme qui le guettait. Était-on exténué de fatigue ? On n\'en dormirait que mieux, d\'après lui. Et il en appelait au docteur Châtonnay, qui approuvait, en admirant le courage et l\'énergie du brave garçon.
+
+Le mérite d\'Amédée Florence était d\'autant plus grand qu\'il éprouvait, en fait, outre les soucis communs à tous, une inquiétude supplémentaire que ses compagnons ne soupçonnaient même pas.
+
+Cela remontait au 12 mars, c\'est-à-dire au jour où, pour la première fois, on avait traversé un village dont le sac paraissait dater de la veille. Depuis ce jour, Amédée Florence avait acquis l\'intime conviction qu\'on était surveillé, suivi, épié. Des espions guettaient dans la brousse, il en était sûr, escortant pas à pas la mission désemparée, assistant à son agonie, prêts sans doute à annihiler l\'effort de ces naufragés de la terre, au moment où ceux-ci atteindraient enfin le salut. L\'oeil et l\'oreille constamment au guet, il avait recueilli des preuves nombreuses à l\'appui de ses soupçons : pendant le jour, nouvelles traces de campement récent, détonations à peine perceptibles, galops de chevaux dans le lointain ; pendant la nuit, chuchotements, glissements, et, parfois, passage d\'une ombre incertaine quand l\'obscurité était profonde. De ses observations, de ses réflexions, de ses craintes, il s\'était abstenu de rien dire à ses compagnons, afin de ne pas augmenter leurs angoisses, et il avait recommandé le silence à Tongané, dont les remarques étaient conformes aux siennes. Ils se contenteraient de faire tous deux une garde vigilante, jusqu\'au moment où le reporter estimerait utile de mettre ses amis dans la confidence.
+
+Le voyage, compliqué par de telles difficultés, ne put évidemment s\'accomplir dans les délais prévus. Ce fut seulement le soir du 23 mars qu\'on fit halte pour la dernière fois avant d\'arriver à Koubo. Sept à huit kilomètres en séparaient encore les voyageurs exténués, mais, à moins de deux mille mètres, on devait trouver, d\'après Tongané, la tombe où reposaient les restes du capitaine George Buxton. Le lendemain, dès l\'aurore, on se remettrait en route.
+
+Quittant le chemin tracé, on irait d\'abord jusqu\'aux lieux où la troupe révoltée avait été anéantie, puis on se dirigerait vers le village. S\'il était en meilleur état que les autres, on s\'y ravitaillerait et l\'on y prendrait un repos de plusieurs jours, pendant lesquels Jane Buxton poursuivrait son enquête. Dans le cas contraire, ou bien on obliquerait sur Gao, ou bien on se dirigerait sur Tombouctou ou sur Djenné, dans l\'espoir de rencontrer vers le nord ou vers l\'ouest des territoires moins ravagés.
+
+C\'est à ce moment qu\'Amédée Florence crut devoir mettre ses compagnons au courant des faits qui le préoccupaient. Pendant qu\'on se reposait des fatigues du jour et que Malik faisait cuire le frugal repas sur un feu d\'herbes, il leur fit part de ses remarques nocturnes et diurnes, desquelles il résultait qu\'on ne pouvait très probablement faire un pas sans qu\'il fût connu d\'ennemis invisibles mais toujours présents.
+
+--- J\'irai plus loin, ajouta-t-il, et j\'oserai prétendre que nos adversaires sont pour nous des relations déjà anciennes, presque de vieux camarades. Je soutiendrai mordicus, jusqu\'à preuve du contraire, qu\'ils se composent exactement de vingt Noirs et de trois Blancs, et que l\'un de ceux-ci ressemble comme un frère à notre élégant ami, le soi-disant lieutenant Lacour, si avantageusement connu de l\'honorable société ici présente.
+
+--- Sur quoi repose cette hypothèse, monsieur Florence, demanda Barsac.
+
+--- Sur ceci, d\'abord, que notre prétendue escorte a pu aisément connaître nos intentions et nous précéder sur la route que nous devions suivre, afin d\'y faire, contre nous, le joli travail que vous avez pu admirer, tandis qu\'il serait difficile d\'admettre la présence d\'une autre troupe, qui se serait livrée, tout en ignorant notre existence, aux mêmes distractions, dans un but qui serait alors inexplicable.
+
+Il y a encore autre chose. Les habitants des villages détruits et le vieux nègre que le docteur a rafistolé avant Kadou ont été frappés de la même manière. Donc, les meurtriers étaient déjà dans nos environs avant l\'arrivée de la deuxième escorte, de même qu\'ils y sont après son départ.
+
+--- Peut-être avez-vous raison, monsieur Florence, reconnut Barsac, mais vous ne nous apprenez pas grand-chose, après tout. Personne de nous n\'a jamais douté que la dévastation de ce pays ne fût dirigée contre nous. Que cette dévastation soit l\'oeuvre du lieutenant Lacour ou de tout autre, que ces bandits soient autour de nous, au lieu de nous précéder comme nous le supposions, cela ne change rien à notre situation.
+
+--- Ce n\'est pas mon avis, répliqua Amédée Florence. C\'est si peu mon avis, que je me suis décidé à parler ce soir, après avoir longtemps gardé le silence pour ne pas accroître inutilement vos craintes. Mais nous voici arrivés au but, malgré tout. Demain, ou nous serons à Koubo, à l\'abri, par conséquent, ou bien nous aurons changé de direction, et l\'on cessera peut-être de nous persécuter. Je souhaiterais, je l\'avoue, tromper pour une fois la surveillance dont nous sommes l\'objet, afin que personne ne sache ce que nous sommes venus faire ici.
+
+--- Pour quel motif ? demanda Barsac.
+
+--- Je n\'en sais trop rien, avoua Florence. C\'est une idée que j\'ai comme ça. Mais il me paraît préférable, dans l\'intérêt de miss Buxton, que le but de son voyage ne soit pas connu avant qu\'elle ait pu mener à bien son enquête. -- Je suis d\'accord avec M. Florence, approuva Jane Buxton. Qui sait si nos adversaires ne sont pas sur le point d\'entamer plus franchement la lutte ? Ce sera peut-être demain qu\'ils nous attaqueront, et peut-être me feront-ils échouer au port.
+
+Je ne voudrais pourtant pas être venue si loin sans atteindre mon but. C\'est pourquoi je pense que M. Florence a raison de vouloir échapper aux espions qui nous entourent. Malheureusement, je n\'en vois guère le moyen. -- Rien de plus facile au contraire, à mon sens, expliqua Amédée Florence. Il est incontestable que, jusqu\'ici tout au moins, ceux qui nous en veulent ne se sont risqués à aucune tentative directe. Ils se contentent de contrecarrer notre marche et de nous espionner, en se réservant, si l\'idée de miss Buxton est juste, d\'intervenir plus efficacement le jour où notre entêtement sera devenu supérieur à leur patience. Il est donc probable que leur surveillance se relâche quand ils sont certains que nous avons fait définitivement halte pour la nuit. La régularité de nos habitudes doit les rassurer, et ils ne mettent pas en doute, qu\'ils nous retrouveront le matin là où ils nous ont quittés le soir. Il n\'y a aucune raison pour que leur garde soit plus vigilante aujourd\'hui que les autres jours, à moins qu\'ils ne se soient résolus à une attaque immédiate. Encore, dans ce cas, serait-il plus opportun que jamais d\'essayer de filer par la tangente. Mais, s\'il n\'en est pas ainsi, rien de plus simple que de partir tout à l\'heure, en profitant de l\'obscurité. Nous nous en irons successivement, en faisant le moins de bruit possible, tous dans la même direction, après être convenus d\'un rendez-vous général. Après tout, ce n\'est pas une armée innombrable que nous avons à nos trousses, et il faudrait une remarquable guigne pour que nous tombions juste sur le séduisant lieutenant Lacour.
+
+Ce plan, chaudement approuvé par Jane Buxton, fut adopté. On convint que, les uns après les autres, on s\'en irait dans l\'Est, jusqu\'à un fort bouquet d\'arbres, distant d\'un kilomètre environ, qu\'on avait aperçu avant la tombée de la nuit.
+
+Ces arbres étaient maintenant invisibles, mais on savait dans quelle direction ils se trouvaient, et l\'on pouvait les atteindre sûrement, en se guidant sur une étoile qui scintillait à l\'horizon, au-dessous de gros nuages qui augmentaient encore l\'obscurité. Tongané partirait le premier, puis Jane Buxton, puis Malik. Les autres Européens viendraient ensuite à tour de rôle, Amédée Florence devant fermer la marche.
+
+Le départ s\'effectua sans incident. Deux heures plus tard, les six Européens et les deux Noirs étaient réunis à la lisière du bouquet d\'arbres. On se hâte de le traverser, de façon à placer cet impénétrable écran entre les fugitifs et leurs ennemis. On s\'avança ensuite plus librement. La proximité du but rendait des forces aux moins valides. Personne ne sentait plus sa fatigue. Après une demi-heure de marche rapide, Tongané s\'arrêta. D\'après lui, on devait être arrivé à l\'endroit même où la troupe révoltée de George Buxton avait été exterminée ; mais, dans cette nuit profonde, il ne pouvait indiquer avec exactitude le point précis qui intéressait Jane Buxton. Il fallait attendre le jour.
+
+On prit donc quelques heures de repos. Seule, Jane Buxton, incertaine de ce que la prochaine aube lui réservait, ne put trouver le sommeil. Plus pressantes que jamais, cent questions se posaient pour elle. Son malheureux frère était-il réellement mort et en découvrirait-elle une preuve que le temps n\'eût pas détruite ? Si une telle preuve existait, tendrait-elle à confirmer le crime, à démontrer l\'innocence, ou la laisserait-elle dans la même incertitude ? Et demain, dans quel sens commencerait-elle l\'enquête qu\'elle avait résolue ? Les derniers témoins du drame n\'étaient-ils pas dispersés, disparus, morts peut-être à leur tour, ou bien serait-il possible de retrouver quelques-uns d\'entre eux ? Et si elle y parvenait, quelle serait la vérité qui sortirait de leur bouche ?
+
+Un peu avant six heures, tout le monde fut debout. Tandis que le jour se levait, on attendit, étreint par une vive émotion, les yeux fixés sur Tongané, qui examinait les alentours et cherchait ses points de repère.
+
+--- Là, dit enfin le nègre en désignant un arbre éloigné de trois à quatre cents mètres, qui s\'élevait solitairement dans la plaine.
+
+En quelques instants, on fut au pied de cet arbre. Tongané continuant à se montrer très affirmatif, on attaqua le sol au point qu\'il désignait, bien que rien n\'indiquât qu\'une tombe eût jamais existé à cet endroit. Fébrilement, les couteaux fouillèrent la terre, qu\'on rejetait à pleines mains sur les bords du trou qui se creusait rapidement.
+
+--- Attention ! s\'écria tout à coup le reporter\... Voici des ossements\...
+
+Miss Buxton, très émue, dut s\'appuyer au bras du docteur.
+
+Avec précaution, on acheva de déblayer la fosse. Un corps apparut, ou plutôt un squelette merveilleusement conservé. Autour de ce qui avait été les bras, subsistaient des lambeaux d\'étoffe et les broderies d\'or, insignes de son grade. Parmi les os du thorax, on découvrit encore un portefeuille, presque entièrement détruit par le temps. On l\'ouvrit. Il ne contenait qu\'un unique document : une lettre adressée à George Buxton par sa soeur.
+
+Les larmes jaillirent des yeux de la jeune fille. Elle porta à ses lèvres le papier jauni, qui s\'effrita entre ses doigts ; puis, défaillante, elle s\'approcha de la tombe.
+
+--- Docteur, je vous en prie, dit-elle à Châtonnay d\'une voix tremblante, ne pourriez-vous avoir la bonté d\'examiner les restes de mon malheureux frère ?
+
+--- À vos ordres, miss Buxton, répondit le docteur, troublé au point d\'en oublier la faim qui lui tenaillait les entrailles.
+
+Le docteur Châtonnay descendit dans la tombe et procéda, avec le soin et la méthode d\'un médecin légiste, à l\'examen qui lui était demandé. Quand il l\'eut terminé, son visage était grave et exprimait une intense émotion.
+
+--- Moi, Laurent Châtonnay, docteur en médecine de l\'Université de Paris, prononça-t-il, non sans une certaine solennité, au milieu d\'un profond silence, je certifie ce qui suit : premièrement, les ossements soumis à mon examen, et que miss Jane Buxton déclare être ceux de son frère George Buxton, ne portent la trace d\'aucune blessure faite par une arme à feu ; deuxièmement, l\'homme de qui proviennent ces ossements a été assassiné ; troisièmement, la mort a été provoquée par un coup de poignard porté de haut en bas, qui a traversé l\'omoplate gauche et atteint un des lobes supérieurs du coeur ; quatrièmement, voici l\'arme du crime, retirée par moi-même de la gaine osseuse dans laquelle elle était restée plantée.
+
+--- Assassiné !\... murmura Jane éperdue.
+
+--- Assassiné, je l\'affirme, répéta le docteur Châtonnay.
+
+--- Et par-derrière !\...
+
+--- Par-derrière.
+
+--- George serait donc innocent !\... s\'écrira Jane Buxton en éclatant en sanglots.
+
+--- L\'innocence de votre frère est une question qui excède ma compétence, miss Buxton, répondit doucement le docteur Châtonnay, et je ne saurais l\'affirmer avec la même rigueur que les faits matériels constatés par moi, mais elle me paraît, je dois vous le dire, infiniment probable. Il résulte, en effet, de mon examen, que votre frère n\'est pas tombé les armes à la main, comme on l\'avait cru jusqu\'ici, mais qu\'il a été assassiné par-derrière, avant, pendant ou après le feu de salve que l\'histoire a enregistré.
+
+À quel moment exact et par qui a-t-il été frappé ? Je l\'ignore. Tout ce qu\'on peut dire, c\'est que le coup n\'a pas été porté par un des soldats réguliers, car l\'arme qui a tué votre frère est un poignard et non une arme de guerre.
+
+--- Merci, docteur, dit Jane qui se remettait peu à peu. Tels qu\'ils sont, les premiers résultats de mon voyage sont de nature à me donner confiance\... Encore un mot, docteur. Seriez-vous disposé à attester par écrit ce que vous avez vu aujourd\'hui, et ces messieurs voudraient-ils avoir la bonté de servir de témoins ?
+
+Tous se mirent avec empressement à la disposition de Jane Buxton. Amédée Florence, sur une feuille que M. Poncin consentit à détacher de son carnet, rédigea une relation des faits constatés au cours de la matinée, et ce procès-verbal, signé par le docteur Châtonnay, puis par toutes les personnes présentes, fut remis à Jane Buxton avec l\'arme trouvée dans la tombe de son frère.
+
+Cette arme, la jeune fille frémit en la touchant. C\'était un poignard dont une épaisse couche de rouille, peut-être mélangée de sang, recouvrait la forte lame quadrangulaire aux faces moulurées par de profondes gouttières. Sur le manche d\'ébène, à demi rongé par l\'humidité de la terre, on discernait encore la trace d\'une inscription disparue.
+
+--- Voyez donc, messieurs, dit Jane en montrant ces linéaments presque invisibles, cette arme portait autrefois le nom du meurtrier.
+
+--- Dommage qu\'il soit effacé, soupira Amédée Florence, en examinant l\'arme à son tour. Mais attendez donc\... On lit encore quelque chose\... Un i et un l, je crois.
+
+--- C\'est maigre, dit Barsac.
+
+--- Peut-être n\'en faut-il pas plus pour démasquer l\'assassin, dit gravement Jane.
+
+Sur son ordre, Tongané rejeta sur les restes de George Buxton la terre qu\'on avait extraite et qui fut ensuite tassée avec soin ; puis, laissant la tombe tragique à sa solitude, on se dirigea vers Koubo.
+
+Mais, après trois ou quatre kilomètres, on dut s\'arrêter. La force manquait à Jane Buxton, dont les genoux fléchissaient et qui dut s\'étendre sur le sol.
+
+--- L\'émotion, expliqua le docteur Châtonnay.
+
+--- Et la faim, ajouta avec juste raison Amédée Florence. Allons ! Vieux Saint-Bérain, nous n\'allons pas laisser mourir d\'inanition votre nièce, même si elle est votre tante, quand le diable y serait ! En chasse ! Et tâchez de ne pas me prendre pour un gibier de choix !
+
+Malheureusement, le gibier était rare. La plus grande partie de la journée s\'écoula avant que les deux chasseurs eussent vu un animal quelconque au bout de leurs fusils. Ce fut seulement vers la fin du jour que le sort les favorisa. Par contre, le tableau n\'avait jamais été aussi brillant, deux outardes et une perdrix étant, coup sur coup, tombées sur leur plomb. Pour la première fois depuis longtemps, on put donc faire un repas abondant. En revanche, on dut renoncer à atteindre Koubo le soir même, et se résoudre à passer une dernière nuit en plein air.
+
+Épuisés de fatigue, et d\'ailleurs convaincus d\'avoir dépisté leurs adversaires, les voyageurs négligèrent ce soir-là la garde qu\'ils s\'imposaient d\'habitude. C\'est pourquoi personne ne vit les phénomènes bizarres qui survinrent pendant la nuit. Vers l\'ouest, de faibles lueurs scintillèrent à plusieurs reprises dans la plaine. D\'autres lumières, puissantes celles-ci, leur répondaient dans l\'est, à une grande hauteur, bien qu\'il n\'y eût aucune montagne dans cette contrée remarquablement plate.
+
+Peu à peu ces faibles scintillements de l\'ouest et les puissants éclats de l\'est se rapprochèrent les uns des autres, les premiers lentement, les seconds très vite, tous deux convergeant vers le point occupé par les dormeurs.
+
+Tout à coup, ceux-ci furent réveillés en sursaut par l\'étrange ronflement qu\'ils avaient déjà entendu après leur départ de Kankan, mais le ronflement était aujourd\'hui plus proche et infiniment plus intense. À peine avaient-ils ouvert les yeux, que des lumières fulgurantes, émanant d\'une dizaine de foyers de grande puissance tels que des projecteurs électriques, jaillissaient soudainement dans l\'Est, à moins de cent mètres d\'eux. Ils cherchaient encore à se rendre compte de la nature du phénomène, quand des hommes, sortant des ombres du nord et du sud, entrèrent dans le cône éclairé et bondirent sur les dormeurs étourdis, aveuglés. En un instant, ceux-ci furent renversés.
+
+Dans la nuit, une voix brutale demanda en français :
+
+--- Y êtes-vous, les garçons ?
+
+Puis, après un silence :
+
+--- Le premier qui bouge, une balle dans la tête\... Allons ! En route, nous autres !

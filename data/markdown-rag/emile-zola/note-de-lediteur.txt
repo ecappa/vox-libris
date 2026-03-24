@@ -1,0 +1,20 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NOTE DE L’ÉDITEUR"
+slug_oeuvre: "note-de-lediteur"
+type: "oeuvre-complete"
+---
+
+# NOTE DE L'ÉDITEUR
+Nos titres sont ainsi relus, corrigés et mis en forme spécifiquement.
+
+Cependant, si malgré tout le soin que nous avons apporté à cette édition, vous notiez quelques erreurs, nous vous serions très reconnaissants de nous les signaler en écrivant à notre Service Qualité :
+
+Pour toutes autres demandes, contactez :
+
+Nos publications sont régulièrement enrichies et mises à jour. Pour être informé des dernières mises à jour de cette édition et en bénéficier gratuitement et rapidement, nous vous invitons à vous inscrire sur notre site :
+
+Nous remercions aussi tous nos lecteurs qui manifestent leur enthousiasme en l'exprimant à travers leurs commentaires.
+
+Nous vous souhaitons une bonne lecture.

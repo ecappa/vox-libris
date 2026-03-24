@@ -1,0 +1,4085 @@
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+
+]{.calibre20}
+
+## [[Deuxième partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941610 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_231 .calibre21}
+
+### [[Chapitre 1 -- Dans lequel on présente sans cérémonie le trente-sixième habitant du sphéroïde gallien]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941611 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-1-dans-lequel-on-présente-sans-cérémonie-le-trente-sixième-habitant-du-sphéroïde-gallien .calibre171 .sigil_not_in_toc}
+
+Le trente-sixième habitant de Gallia venait enfin d\'apparaître sur la Terre-Chaude. Les seuls mots, à peu près incompréhensibles, qu\'il eût encore prononcés, étaient ceux-ci.
+
+« C\'est ma comète, à moi ! C\'est ma comète ! »
+
+Que signifiait cette réponse ? Voulait-elle dire que ce fait, inexplicable jusqu\'ici, la projection dans l\'espace d\'un énorme fragment détaché de la terre, était dû au choc d\'une comète ? Y avait-il donc eu rencontre sur l\'orbite terrestre ? Ce nom de Gallia, auquel des deux astéroïdes le solitaire de Formentera l\'avait-il donné, à l\'astre chevelu ou au bloc lancé à travers le monde solaire ? Cette question ne pouvait être résolue que par le savant qui venait de réclamer si énergiquement « sa comète » !
+
+En tout cas, ce moribond était incontestablement l\'auteur des notices recueillies pendant le voyage d\'exploration de la *Dobryna*, l\'astronome qui avait rédigé le document apporté à la Terre-Chaude par le pigeon voyageur. Lui seul avait pu jeter étuis et barils à la mer et donner la liberté à cet oiseau que son instinct devait diriger vers l\'unique territoire habitable et habité du nouvel astre. Ce savant -- il l\'était à n\'en pas douter -- connaissait donc quelques-uns des éléments de Gallia. Il avait pu mesurer son éloignement progressif du soleil, calculer la diminution de sa vitesse tangentielle. Mais -- et c\'était la question la plus importante -- avait-il calculé la nature de son orbite, et reconnu si c\'était une hyperbole, une parabole ou une ellipse que suivait l\'astéroïde ? Avait-il déterminé cette courbe par l\'observation successive de trois positions de Gallia ? Savait-il enfin si le nouvel astre se trouvait dans les conditions voulues pour revenir à la terre, et dans quel laps de temps il y reviendrait ?
+
+Voilà tout d\'abord les questions que le comte Timascheff s\'adressa à lui-même et qu\'il posa ensuite au capitaine Servadac et au lieutenant Procope.
+
+Ceux-ci ne purent lui répondre. Ces diverses hypothèses, ils les avaient envisagées, discutées pendant leur voyage de retour, mais sans parvenir à les résoudre. Et malheureusement, le seul homme qui pût vraisemblablement posséder la solution de ce problème, il était à craindre qu\'ils ne l\'eussent ramené qu\'à l\'état de cadavre ! S\'il en était ainsi, il faudrait renoncer à tout espoir de jamais connaître l\'avenir réservé au monde gallien !
+
+Il fallait donc, avant toutes choses, ranimer ce corps d\'astronome qui ne donnait plus aucun signe d\'existence. La pharmacie de la *Dobryna*, bien pourvue de médicaments, ne pouvait être mieux utilisée qu\'à obtenir cet important résultat. C\'est ce qui fut immédiatement fait, après cette encourageante observation de Ben-Zouf :
+
+« À l\'ouvrage, mon capitaine ! On ne se figure pas combien ces savants, ça a la vie dure ! »
+
+On commença donc à traiter le moribond, à l\'extérieur, par des massages si vigoureux qu\'ils eussent détérioré un vivant, et, à l\'intérieur, par des cordiaux si réconfortants qu\'ils auraient ressuscité un mort.
+
+C\'était Ben-Zouf, relayé par Negrete, qu\'on avait chargé de l\'extérieur, et l\'on peut être assuré que ces deux solides masseurs firent consciencieusement leur besogne.
+
+Pendant ce temps, Hector Servadac se demandait vainement quel était ce Français, qu\'il venait de recueillir à l\'îlot de Formentera, et dans quelles circonstances il avait dû se trouver en rapport avec lui.
+
+Il aurait cependant bien dû le reconnaître ; mais il ne l\'avait vu que dans cet âge qu\'on appelle, non sans raison, l\'âge ingrat, car il l\'est au moral aussi bien qu\'au physique.
+
+En effet, le savant, qui reposait actuellement dans la grande salle de Nina-Ruche, n\'était ni plus ni moins que l\'ancien professeur de physique d\'Hector Servadac au lycée Charlemagne.
+
+Ce professeur se nommait Palmyrin Rosette. C\'était un véritable savant, très fort en toutes sciences mathématiques. Après sa première année d\'élémentaires, Hector Servadac avait quitté le lycée Charlemagne pour entrer à Saint-Cyr, et, depuis lors, son professeur et lui, ne s\'étant plus rencontrés, s\'étaient ou plutôt avaient cru s\'être oubliés.
+
+L\'élève Servadac, on le sait, n\'avait jamais mordu avec grand appétit aux études scolaires. Mais, en revanche, que de mauvais tours il avait joués à ce malheureux Palmyrin Rosette, en compagnie de quelques autres indisciplinés de sa trempe !
+
+Qui additionnait de quelques grains de sel l\'eau distillée du laboratoire, ce qui provoquait les réactions chimiques les plus inattendues ? Qui enlevait une goutte de mercure de la cuvette du baromètre pour le mettre en contradiction flagrante avec l\'état de l\'atmosphère ? Qui échauffait le thermomètre, quelques instants avant que le professeur vînt le consulter ? Qui introduisait des insectes vivants entre l\'oculaire et l\'objectif des lunettes ? Qui détruisait l\'isolement de la machine électrique, de manière qu\'elle ne pouvait plus produire une seule étincelle ? Qui donc enfin, avait percé d\'un trou invisible la plaque qui supportait la cloche de la machine pneumatique, de telle sorte que Palmyrin Rosette s\'épuisait à pomper un air qui entrait toujours ?
+
+C\'étaient là les méfaits les plus ordinaires de l\'élève Servadac et de sa trop joyeuse bande.
+
+Et ces mauvais tours avaient d\'autant plus de charmes pour les élèves, que le professeur en question était un rageur de premier ordre. De là, des colères rouges et des accès de rage qui mettaient « les grands » de Charlemagne en belle humeur.
+
+Deux ans après l\'époque à laquelle Hector Servadac quitta le lycée, Palmyrin Rosette, qui se sentait plus cosmographe que physicien, avait abandonné la carrière de l\'enseignement pour se livrer spécialement aux études astronomiques. Il essaya d\'entrer à l\'Observatoire. Mais son caractère grincheux, si parfaitement établi dans le monde savant, lui en fit fermer obstinément les portes. Comme il possédait une certaine fortune, il se mit à faire de l\'astronomie pour son propre compte, sans titre officiel, et il s\'en donna à coeur joie de critiquer les systèmes des autres astronomes. Ce fut à lui, d\'ailleurs, que l\'on dut la découverte de trois des dernières planètes télescopiques, et le calcul des éléments de la trois cent vingt-cinquième comète du catalogue. Mais, ainsi qu\'il a été dit, le professeur Rosette et l\'élève Servadac ne s\'étaient jamais retrouvés en présence l\'un de l\'autre avant cette rencontre fortuite sur l\'îlot de Formentera. Or, après une douzaine d\'années, rien de bien étonnant que le capitaine Servadac n\'eût pas reconnu, surtout dans l\'état où il était, son ancien professeur Palmyrin Rosette.
+
+Lorsque Ben-Zouf et Negrete avaient retiré le savant des fourrures qui l\'enveloppaient de la tête aux pieds, ils s\'étaient trouvés en présence d\'un petit homme de cinq pieds deux pouces, amaigri sans doute, mais naturellement maigre, très chauve, avec un de ces beaux crânes polis qui ressemblent au gros bout d\'un oeuf d\'autruche, point de barbe, si ce n\'est un poil qui n\'avait pas été rasé depuis une semaine, un nez long et busqué, servant de support à une paire de ces formidables lunettes qui, chez certains myopes, semblent faire partie intégrante de leur individu.
+
+Ce petit homme devait être extraordinairement nerveux. On aurait pu le comparer à l\'une de ces bobines Rhumkorff, dont le fil enroulé eût été un nerf long de plusieurs hectomètres, et dans laquelle le courant nerveux aurait remplacé le courant électrique avec une intensité non moins grande.
+
+En un mot, dans la « bobine Rosette », la « nervosité », -- que l\'on accepte pour un instant ce mot barbare, -- était emmagasinée à une très haute tension, comme l\'électricité l\'est dans la bobine Rhumkorff.
+
+Cependant, si nerveux que fût le professeur, ce n\'était pas une raison pour le laisser aller de vie à trépas. Dans un monde où l\'on ne compte que trente-cinq habitants, la vie du trente-sixième n\'est pas à dédaigner. Lorsque le moribond fut en partie dépouillé de ses vêtements, on put constater que son coeur battait encore, faiblement, mais enfin il battait. Il était donc possible qu\'il reprît connaissance, grâce aux soins vigoureux qu\'on lui prodiguait. Ben-Zouf frottait et refrottait ce corps sec comme un vieux sarment, à faire craindre qu\'il ne prît feu, et, comme s\'il eût astiqué son sabre pour une parade, il murmurait ce refrain si connu :
+
+
+Au tripoli, fils de la gloire,
+
+Tu dois l\'éclat de ton acier.
+
+
+Enfin, après vingt minutes d\'un massage non interrompu, un soupir s\'échappa des lèvres du moribond, puis deux, puis trois. Sa bouche, hermétiquement fermée jusqu\'alors, se desserra. Ses yeux s\'entrouvrirent, se refermèrent et s\'ouvrirent tout à fait, mais inconscient encore du lieu et des circonstances où il se voyait. Quelques paroles furent prononcées, qu\'on ne put saisir. La main droite de Palmyrin Rosette se tendit, se leva, se porta à son front comme si elle y eût cherché un objet qui ne s\'y trouvait plus.
+
+Puis alors, ses traits se contractèrent, sa face rougit comme s\'il fût revenu à la vie par un accès de colère, et il s\'écria :
+
+« Mes lunettes ! Où sont mes lunettes ? »
+
+Ben-Zouf chercha les lunettes réclamées. On les retrouva. Ces lunettes monumentales étaient armées de véritables oculaires de télescopes en guise de verres. Pendant le massage, elles s\'étaient détachées de ces tempes auxquelles elles semblaient vissées, comme si une tige eût traversé la tête du professeur d\'une oreille à l\'autre. Elles furent rajustées sur ce nez en bec d\'aigle, leur assise naturelle, et alors un nouveau soupir fut poussé, qui se termina par un « brum ! Brum ! » de bon augure.
+
+Le capitaine Servadac s\'était penché sur la figure de Palmyrin Rosette, qu\'il regardait avec une extrême attention. En ce moment, celui-ci ouvrit les yeux, tout grands cette fois. Un vif regard perça l\'épaisse lentille de ses lunettes, et d\'une voix empreinte d\'irritation :
+
+« Élève Servadac, s\'écria-t-il, cinq cents lignes pour demain ! »
+
+Telles furent les paroles avec lesquelles Palmyrin Rosette salua le capitaine Servadac.
+
+Mais, à cette bizarre entrée en conversation, évidemment provoquée par le souvenir subit de vieilles rancunes, Hector Servadac, bien qu\'il crût positivement rêver, avait, lui aussi, reconnu son ancien professeur de physique du lycée Charlemagne.
+
+« Monsieur Palmyrin Rosette ! s\'écria-t-il. Mon ancien professeur ici même ! En chair et en os !
+
+--- En os seulement, répondit Ben-Zouf.
+
+--- Mordioux ! La rencontre est singulière ! » ajouta le capitaine Servadac stupéfait.
+
+Cependant, Palmyrin Rosette était retombé dans une sorte de sommeil qu\'il parut convenable de respecter.
+
+« Soyez tranquille, mon capitaine, dit Ben-Zouf. Il vivra, j\'en réponds. Ces petits hommes-là, c\'est tout nerfs. J\'en ai vu de plus secs que lui, et qui étaient revenus de plus loin !
+
+--- Et d\'où étaient-ils revenus, Ben-Zouf ?
+
+--- D\'Égypte, mon capitaine, dans une belle boîte peinturlurée !
+
+--- C\'étaient des momies, imbécile !
+
+--- Comme vous dites, mon capitaine ! »
+
+Quoi qu\'il en soit, le professeur s\'étant endormi, on le transporta dans un lit bien chaud, et force fut de remettre à son réveil les urgentes questions relatives à sa comète.
+
+Pendant toute cette journée, le capitaine Servadac, le comte Timascheff, le lieutenant Procope -- qui représentaient l\'Académie des sciences de la petite colonie -- au lieu d\'attendre patiemment au lendemain, ne purent se retenir d\'échafauder les plus invraisemblables hypothèses. Quelle était au juste cette comète à laquelle Palmyrin Rosette avait donné le nom de Gallia ? Ce nom ne s\'appliquait-il donc pas au fragment détaché du globe ? Les calculs de distances et de vitesses, relevés dans les notices, se rapportaient-ils à la comète Gallia, et non au nouveau sphéroïde, qui entraînait le capitaine Servadac et ses trente-cinq compagnons dans l\'espace ? Ils n\'étaient donc plus des Galliens, ces survivants de l\'humanité terrestre ?
+
+Voilà ce qu\'il y avait lieu de se demander.
+
+Or, s\'il en était ainsi, c\'était l\'écroulement de tout cet ensemble de déductions laborieuses, qui concluait à la projection d\'un sphéroïde, arraché aux entrailles mêmes de la terre, et s\'accordait avec les nouveaux phénomènes cosmiques.
+
+« Eh bien, s\'écria Hector Servadac, le professeur Rosette est là pour nous le dire, et il nous le dira ! »
+
+Ramené à parler de Palmyrin Rosette, le capitaine Servadac le fit connaître à ses compagnons tel qu\'il était, un homme difficile à vivre et avec lequel les rapports étaient généralement tendus. Il le leur donna pour un original absolument incorrigible, très entêté, très rageur, mais assez brave homme au fond. Le mieux serait de laisser passer sa mauvaise humeur, comme on laisse passer un orage, en se mettant à l\'abri.
+
+Lorsque le capitaine Servadac eut achevé sa petite digression biographique, le comte Timascheff prit la parole et dit :
+
+« Soyez assuré, capitaine, que nous ferons tout pour vivre dans de bons termes avec le professeur Palmyrin Rosette. Je crois, d\'ailleurs, qu\'il nous rendra un grand service, en nous communiquant le résultat de ses observations. Mais il ne peut le faire qu\'à une condition.
+
+--- Laquelle ? demanda Hector Servadac.
+
+--- C\'est, répondit le comte Timascheff, qu\'il soit bien l\'auteur des documents que nous avons recueillis.
+
+--- En doutez-vous ?
+
+--- Non, capitaine. Toutes les possibilités seraient contre moi, et je n\'ai parlé ainsi que pour épuiser la série des hypothèses défavorables.
+
+--- Eh ! Qui donc aurait rédigé ces diverses notices, si ce n\'était mon ancien professeur ? fit observer le capitaine Servadac.
+
+--- Peut-être quelque autre astronome abandonné sur un autre point de l\'ancienne terre.
+
+--- Cela ne se peut, répondit le lieutenant Procope, puisque les documents nous ont seuls fait connaître ce nom de Gallia, et que ce nom a été prononcé tout d\'abord par le professeur Rosette. »
+
+À cette très juste observation, il n\'y avait rien à répondre, et il n\'était pas douteux que le solitaire de Formentera ne fût l\'auteur des notices. Quant à ce qu\'il faisait dans cette île, on l\'apprendrait de sa bouche.
+
+Au surplus, non seulement sa porte, mais aussi ses papiers avaient été rapportés avec lui, et il n\'y avait rien d\'indiscret à les consulter pendant son sommeil.
+
+C\'est ce qui fut fait.
+
+L\'écriture et les chiffres étaient bien de la main qui avait libellé les documents. La porte était encore couverte de signes algébriques, tracés à la craie, qu\'on avait eu grand soin de respecter. Quant aux papiers, ils étaient principalement formés de feuilles volantes, zébrées de figures géométriques. Là se croisaient des hyperboles, ces courbes ouvertes, dont les deux branches sont infinies et s\'écartent de plus en plus l\'une de l\'autre ; -- des paraboles, courbes caractérisées par la forme rentrante, mais dont les branches s\'éloignent également à l\'infini ; -- enfin des ellipses, courbes toujours fermées, si allongées qu\'elles puissent être.
+
+Le lieutenant Procope fit alors observer que ces diverses courbes se rapportaient précisément aux orbites cométaires, qui peuvent être paraboliques, hyperboliques, elliptiques, -- ce qui signifiait, dans les deux premiers cas, que les comètes, observées de la terre, ne pouvaient jamais revenir sur l\'horizon terrestre ; dans le troisième, qu\'elles y réapparaissaient périodiquement dans des laps de temps plus ou moins considérables.
+
+Il était donc certain, à la seule inspection de ses papiers et de sa porte, que le professeur s\'était livré à des calculs d\'éléments cométaires ; mais on ne pouvait rien préjuger des diverses courbes successivement étudiées par lui, car, pour commencer leurs calculs, les astronomes supposent toujours aux comètes une orbite parabolique.
+
+Enfin, de tout ceci, il résultait que Palmyrin Rosette, pendant son séjour à Formentera, avait calculé en tout ou partie les éléments d\'une comète nouvelle, dont le nom ne figurait point au catalogue.
+
+Ce calcul, l\'avait-il fait avant ou depuis le cataclysme du 1er janvier ? On ne le saurait que par lui.
+
+« Attendons, dit le comte Timascheff.
+
+--- J\'attends, mais je bous ! répondit le capitaine Servadac, qui ne pouvait tenir en place. Je donnerais un mois de ma vie pour chaque heure de sommeil du professeur Rosette !
+
+--- Vous feriez peut-être un mauvais marché, capitaine, dit alors le lieutenant Procope.
+
+--- Quoi ! Pour apprendre quel est l\'avenir réservé à notre astéroïde\...
+
+--- Je ne voudrais vous enlever aucune illusion, capitaine, répondit le lieutenant Procope ; mais, de ce que le professeur en sait long sur la comète Gallia, il ne s\'ensuit pas qu\'il puisse nous renseigner sur ce fragment qui nous emporte ! Y a-t-il même connexité entre l\'apparition de la comète sur l\'horizon terrestre et la projection dans l\'espace d\'un morceau du globe ?
+
+--- Oui ! Mordioux ! s\'écria le capitaine Servadac. Il y a connexité évidente ! Il est clair comme le jour que\...
+
+--- Que\... ? dit le comte Timascheff, comme s\'il eût attendu la réponse qu\'allait faire son interlocuteur.
+
+--- Que la terre a été choquée par une comète, et que c\'est à ce choc qu\'est due la projection du bloc qui nous emporte ! »
+
+Sur cette hypothèse, affirmativement énoncée par le capitaine Servadac, le comte Timascheff et le lieutenant Procope se regardèrent pendant quelques instants. Si improbable que fût la rencontre de la terre et d\'une comète, elle n\'était pas impossible. Un choc de cette nature, c\'était l\'explication donnée enfin à l\'inexplicable phénomène, c\'était cette introuvable cause dont les effets avaient été si extraordinaires.
+
+« Vous pourriez avoir raison, capitaine, répondit le lieutenant Procope, après avoir envisagé la question sous cette nouvelle face. Il n\'est pas inadmissible qu\'un tel choc se produise et qu\'il puisse détacher un fragment considérable de la terre. Si ce fait s\'est accompli, l\'énorme disque que nous avons entrevu dans la nuit, après la catastrophe, ne serait autre que la comète, qui a été déviée, sans doute, de son orbite normale, mais dont la vitesse était telle que la terre n\'a pu la retenir dans son centre d\'attraction.
+
+--- C\'est la seule explication que nous ayons à donner de la présence de cet astre inconnu, répondit le capitaine Servadac.
+
+--- Voilà, dit alors le comte Timascheff, une nouvelle hypothèse qui semble fort plausible. Elle accorde nos propres observations avec celles du professeur Rosette. Ce serait dès lors à cet astre errant, dont nous avons subi le choc, qu\'il aurait donné le nom de Gallia.
+
+--- Évidemment, comte Timascheff.
+
+--- Fort bien, capitaine, mais il y a cependant une chose que je ne m\'explique pas.
+
+--- Laquelle ?
+
+--- C\'est que ce savant se soit plus occupé de la comète que du bloc qui l\'emportait, lui, dans l\'espace !
+
+--- Ah ! Comte Timascheff, répondit le capitaine Servadac, vous savez quels originaux sont quelquefois ces fanatiques de la science, et je vous donne le mien pour un fier original !
+
+--- D\'ailleurs, fit observer le lieutenant Procope, il est fort possible que le calcul des éléments de Gallia ait été fait antérieurement au choc. Le professeur a pu voir venir la comète et l\'observer avant la catastrophe. »
+
+La remarque du lieutenant Procope était juste. Quoi qu\'il en soit, l\'hypothèse du capitaine fut adoptée en principe. Tout revenait donc à ceci : une comète, coupant l\'écliptique, aurait heurté la terre dans la nuit du 31 décembre au 1er janvier, et le choc aurait séparé du globe terrestre un énorme fragment, qui, depuis lors, gravitait dans les espaces interplanétaires.
+
+Si les membres de l\'Académie des sciences de Gallia ne tenaient pas encore l\'entière vérité, ils devaient en être bien près.
+
+Palmyrin Rosette pouvait seul élucider tout à fait le problème !
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- Dont le dernier mot apprend au lecteur ce que, sans doute, il avait déjà deviné]{.pcalibre lang="X-NONE"}]{#_Toc342941612 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-2-dont-le-dernier-mot-apprend-au-lecteur-ce-que-sans-doute-il-avait-déjà-deviné .calibre171 .sigil_not_in_toc}
+
+Ainsi s\'acheva cette journée du 19 avril. Pendant que leurs chefs discutaient de cette façon, les colons vaquaient à leurs affaires habituelles. L\'introduction inattendue du professeur sur la scène gallienne n\'était pas pour les préoccuper à ce point. Les Espagnols, insouciants par nature, les Russes, confiants dans leur maître, s\'inquiétaient peu des effets et des causes. Si Gallia devait revenir un jour à la terre ou s\'ils devaient y vivre, c\'est-à-dire y mourir, ils ne se préoccupaient guère de l\'apprendre ! Aussi, pendant la nuit qui vint, ne perdirent-ils pas une heure de sommeil et reposèrent-ils comme des philosophes que rien ne peut émouvoir.
+
+Ben-Zouf, métamorphosé en infirmier, ne quitta pas le chevet du professeur Rosette. Il en avait fait sa chose. Il s\'était engagé à le remettre sur pied. Son honneur était en jeu. Aussi, comme il le dorlotait ! À la moindre occasion, quelles puissantes gouttes de cordial il lui administrait ! Comme il comptait ses soupirs ! Comme il guettait les paroles qui s\'échappaient de ses lèvres ! La vérité oblige à dire que le nom de Gallia revenait souvent dans le sommeil agité de Palmyrin Rosette, les intonations variant de l\'inquiétude à la colère. Le professeur rêvait-il donc qu\'on voulait lui voler sa comète, qu\'on lui contestait la découverte de Gallia, qu\'on le chicanait sur la priorité de ses observations et de ses calculs ? C\'était vraisemblable. Palmyrin Rosette était de ces gens qui ragent, même en dormant.
+
+Mais, si attentif que fût le garde-malade, il ne surprit rien, dans ces paroles incohérentes, qui fût de nature à résoudre le grand problème. D\'autre part, le professeur dormit toute la nuit, et ses soupirs, légers au début, se changèrent bientôt en ronflements sonores, du meilleur augure !
+
+Lorsque le soleil se leva sur l\'horizon occidental de Gallia, Palmyrin Rosette reposait encore, et Ben-Zouf jugea cependant convenable de respecter son sommeil.
+
+D\'ailleurs, à ce moment, l\'attention de l\'ordonnance fut détournée par un incident.
+
+Plusieurs coups retentirent à la grosse porte qui fermait l\'orifice de la galerie principale de Nina-Ruche. Cette porte servait, sinon à se défendre contre les visites importunes, du moins contre le froid du dehors.
+
+Ben-Zouf allait quitter un instant son malade ; mais, après réflexion, il se dit qu\'il avait mal entendu, sans doute. Il n\'était pas portier, après tout, et, d\'ailleurs, il y en avait d\'autres moins occupés que lui pour tirer le cordon. Il ne bougea donc pas.
+
+Tout le monde dormait encore d\'un profond sommeil à Nina-Ruche. Le bruit se répéta. Il était évidemment produit par un être animé, au moyen d\'un instrument contondant.
+
+« Nom d\'un Kabyle, c\'est trop fort ! se dit [Ben-Zouf. Ah çà !]{lang="NL"} Qu\'est-ce que cela peut être ? »
+
+Et il se dirigea à travers la galerie principale.
+
+Arrivé près de la porte :
+
+« Qui est là ? demanda-t-il d\'une voix accentuée, qui n\'avait rien d\'absolument aimable.
+
+--- Moi, fut-il répondu d\'un ton doucereux.
+
+--- Qui, vous ?
+
+--- Isac Hakhabut.
+
+--- Et qu\'est-ce que tu veux, Astaroth ?
+
+--- Que vous m\'ouvriez, monsieur Ben-Zouf.
+
+--- Que viens-tu faire ici ? Vendre ta marchandise ?
+
+--- Vous savez bien qu\'on ne veut pas me la payer !
+
+--- Eh bien, va au diable !
+
+--- Monsieur Ben-Zouf, reprit Isac avec un humble accent de supplication, je voudrais parler à Son Excellence le gouverneur général.
+
+--- Il dort.
+
+--- J\'attendrai qu\'il soit réveillé !
+
+--- Eh bien, attends où tu es, Abimélech ! »
+
+Ben-Zouf allait s\'en aller sans plus de façon, lorsque arriva le capitaine Servadac, que le bruit venait d\'éveiller.
+
+« Qu\'y a-t-il, Ben-Zouf ?
+
+--- Rien ou à peu près. C\'est ce chien d\'Hakhabut qui demande à vous parler, mon capitaine.
+
+--- Eh bien, ouvre, répondit Hector Servadac. Il faut savoir ce qui l\'amène aujourd\'hui.
+
+--- Son intérêt, pardieu !
+
+--- Ouvre, te dis-je ! »
+
+Ben-Zouf obéit. Aussitôt Isac Hakhabut, enveloppé de sa vieille houppelande, se précipita vivement dans la galerie. Le capitaine Servadac revint vers la salle centrale, et Isac le suivit en le poursuivant des qualifications les plus honorifiques.
+
+« Que voulez-vous ? demanda le capitaine Servadac, en regardant bien en face Isac Hakhabut.
+
+--- Ah ! Monsieur le gouverneur, s\'écria celui-ci, est-ce que vous ne savez rien de nouveau depuis quelques heures ?
+
+--- Ce sont des nouvelles que vous venez chercher ici ?
+
+--- Sans doute, monsieur le gouverneur, et j\'espère que vous voudrez bien m\'apprendre\...
+
+--- Je ne vous apprendrai rien, maître Isac, parce que je ne sais rien.
+
+--- Cependant un nouveau personnage est arrivé dans la journée d\'hier à la Terre-Chaude ?
+
+--- Ah ! Vous savez déjà ?
+
+--- Oui, monsieur le gouverneur ! De ma pauvre tartane j\'ai vu le youyou partir pour un grand voyage, puis revenir ! Et il m\'a semblé qu\'on en débarquait avec précaution\...
+
+--- Eh bien ?
+
+--- Eh bien, monsieur le gouverneur, n\'est-il pas vrai que vous avez recueilli un étranger\...
+
+--- Que vous connaissez ?
+
+--- Oh ! Je ne dis pas cela, monsieur le gouverneur, mais enfin, j\'aurais voulu\... J\'aurais désiré\...
+
+--- Quoi ?
+
+--- Parler à cet étranger, car peut-être vient-il ?
+
+--- D\'où ?
+
+--- Des côtes septentrionales de la Méditerranée, et il est permis de croire qu\'il apporte\...
+
+--- Qu\'il apporte ?
+
+--- Des nouvelles d\'Europe ! » dit Isac, en jetant un regard avide sur le capitaine Servadac.
+
+Ainsi, l\'obstiné en était là encore, après trois mois et demi de séjour sur Gallia ! Avec son tempérament, il lui était certes plus difficile qu\'à tout autre de se dégager moralement des choses de la terre, bien qu\'il le fût matériellement ! S\'il avait été forcé de constater, à son grand regret, l\'apparition de phénomènes anormaux, raccourcissement des jours et des nuits, la désorientation de deux points cardinaux par rapport au lever et au coucher du soleil, tout cela, dans son idée, se passait sur la terre ! Cette mer, c\'était toujours la Méditerranée ! Si une partie de l\'Afrique avait certainement disparu dans quelque cataclysme, l\'Europe subsistait tout entière, à quelques centaines de lieues dans le nord ! Ses habitants y vivaient comme devant, et il pourrait encore trafiquer, acheter, vendre, en un mot commercer ! La *Hansa* ferait le cabotage du littoral européen, à défaut du littoral africain, et ne perdrait peut-être pas au change ! C\'est pourquoi Isac Hakhabut était accouru sans retard pour apprendre à Nina-Ruche des nouvelles de l\'Europe.
+
+Chercher à désabuser Isac, à confondre son entêtement, c\'était peine inutile.
+
+Le capitaine Servadac ne songea même pas à l\'essayer. Il ne tenait pas, d\'ailleurs, à renouer des relations avec ce renégat qui lui répugnait, et, devant sa requête, il se contenta de hausser les épaules.
+
+Quelqu\'un qui les haussait encore plus haut que lui, c\'était Ben-Zouf. L\'ordonnance avait entendu la demande formulée par Isac, et ce fut lui qui répondit aux instances d\'Hakhabut, auquel le capitaine Servadac venait de tourner le dos.
+
+« Ainsi, je ne me suis pas trompé ? reprit le trafiquant, dont l\'oeil s\'allumait. Un étranger est arrivé hier ?
+
+--- Oui, répondit Ben-Zouf.
+
+--- Vivant ?
+
+--- On l\'espère.
+
+--- Et puis-je savoir, monsieur Ben-Zouf, de quel endroit de l\'Europe arrive ce voyageur ?
+
+--- Des îles Baléares, répondit Ben-Zouf, qui voulait voir où en viendrait Isac Hakhabut.
+
+--- Les îles Baléares ! s\'écria celui-ci. Le joli point de la Méditerranée pour commercer ! Que j\'y ai fait de bonnes affaires autrefois ! La *Hansa* était bien connue dans cet archipel !
+
+--- Trop connue !
+
+--- Mais ces îles ne sont pas à vingt-cinq lieues de la côte d\'Espagne, et il est impossible que ce digne voyageur n\'ait pas reçu et apporté des nouvelles d\'Europe.
+
+--- Oui, Manassé, et il t\'en donnera qui te feront plaisir !
+
+--- Vrai, monsieur Ben-Zouf ?
+
+--- Vrai.
+
+--- Je ne regarderais pas\... reprit Isac en hésitant\... Non\... Certainement\... Bien que je ne sois qu\'un pauvre homme\... Je ne regarderais pas à quelques réaux pour causer avec lui\...
+
+--- Si ! Tu y regarderais !
+
+--- Oui ! Mais je les donnerais tout de même\... À la condition de lui parler sans délai !
+
+--- Voilà ! répondit Ben-Zouf. Malheureusement, il est très fatigué, notre voyageur, et il dort.
+
+--- Mais en le réveillant\...
+
+--- Hakhabut ! dit alors le capitaine Servadac, si vous vous avisez de réveiller qui que ce soit ici, je vous fais mettre à la porte.
+
+--- Monsieur le gouverneur, répondit Isac d\'un ton plus humble, plus suppliant, je voudrais pourtant savoir\...
+
+--- Et vous saurez, répliqua le capitaine Servadac. Je tiens même à ce que vous soyez présent, lorsque notre nouveau compagnon nous donnera des nouvelles de l\'Europe !
+
+--- Et moi aussi, Ezéchiel, ajouta Ben-Zouf, car je veux voir la réjouissante figure que tu feras ! »
+
+Isac Hakhabut ne devait pas longtemps attendre. En ce moment, Palmyrin Rosette appelait d\'une voix impatiente.
+
+À cet appel, tous de courir au lit du professeur, le capitaine Servadac, le comte Timascheff, le lieutenant Procope et Ben-Zouf, dont la main vigoureuse avait quelque peine à retenir Hakhabut.
+
+Le professeur n\'était qu\'à demi éveillé, et, probablement sous l\'influence de quelque rêve, il criait : « Eh ! Joseph ! Le diable emporte l\'animal !
+
+Viendras-tu, Joseph ? »
+
+Joseph était évidemment le domestique de Palmyrin Rosette ; mais il ne pouvait venir, par la raison, sans doute, qu\'il habitait encore l\'ancien monde.
+
+Le choc de Gallia avait eu pour résultat de séparer brusquement et à jamais, sans doute, le maître et le serviteur.
+
+Cependant, le professeur s\'éveillait peu à peu, tout en criant :
+
+« Joseph ! Satané Joseph ! Où est ma porte ?
+
+--- Voilà ! dit alors Ben-Zouf, et votre porte est en sûreté ! »
+
+Palmyrin Rosette ouvrit les yeux et regarda fixement l\'ordonnance en fronçant le sourcil.
+
+« Tu es Joseph ? dit-il.
+
+--- Pour vous servir, monsieur Palmyrin, répondit imperturbablement B en-Zouf.
+
+--- Eh bien, Joseph, dit le professeur, mon café, et plus vite que cela ! -- Le café demandé ! » répondit Ben-Zouf, qui courut à la cuisine.
+
+Pendant ce temps, le capitaine Servadac avait aidé Palmyrin Rosette à se relever à demi.
+
+« Cher professeur, vous avez donc reconnu votre ancien élève de Charlemagne ? lui dit-il.
+
+--- Oui, Servadac, oui ! répondit Palmyrin Rosette. J\'espère que vous vous êtes corrigé depuis douze ans ?
+
+--- Tout à fait corrigé ! répondit en riant le capitaine Servadac.
+
+--- C\'est bien ! C\'est bien ! dit Palmyrin Rosette. Mais mon café ! Sans café pas d\'idées nettes, et il faut des idées nettes aujourd\'hui ! »
+
+Fort heureusement, Ben-Zouf arriva, apportant le breuvage en question, -- une énorme tasse pleine de café noir, bien chaud.
+
+La tasse vidée, Palmyrin Rosette se leva, quitta son lit, entra dans la salle commune, regarda d\'un oeil distrait, et, finalement, se campa dans un fauteuil, le meilleur de ceux qu\'avait fournis la *Dobryna*.
+
+Alors, bien que son air fût encore rébarbatif, le professeur, d\'un ton satisfait qui rappelait les « all right », les « va bene », les « nil desperandum » des notices, entra en matière par ces paroles :
+
+« Eh bien, messieurs, que dites-vous de Gallia ? »
+
+Le capitaine Servadac, avant toutes choses, allait demander ce que c\'était que Gallia, lorsqu\'il fut devancé par Isac Hakhabut.
+
+À la vue d\'Isac, les sourcils du professeur se froncèrent de nouveau, et, avec l\'accent d\'un homme auquel on manque d\'égards :
+
+« Qu\'est-ce que cela ? s\'écria-t-il, en repoussant Hakhabut de la main. -- Ne faites pas attention », répondit Ben-Zouf.
+
+Mais il n\'était pas facile de retenir Isac, ni de l\'empêcher de parler. Il revint donc obstinément à la charge, sans aucunement se soucier des personnes présentes.
+
+« Monsieur, dit-il, au nom du Dieu d\'Abraham, d\'Israël et de Jacob, donnez-nous des nouvelles de l\'Europe ! »
+
+Palmyrin Rosette bondit de son fauteuil, comme s\'il eût été mû par un ressort.
+
+« Des nouvelles de l\'Europe ! s\'écria-t-il. Il veut avoir des nouvelles de l\'Europe !
+
+--- Oui\... Oui\... répondit Isac, qui s\'accrochait au fauteuil du professeur pour mieux résister aux poussées de Ben-Zouf.
+
+--- Et pourquoi faire ? reprit Palmyrin Rosette.
+
+--- Pour y retourner !
+
+--- Y retourner ! -- À quelle date sommes-nous aujourd\'hui ? demanda le professeur en se retournant vers son ancien élève.
+
+--- Au 20 avril, répondit le capitaine Servadac.
+
+--- Eh bien, aujourd\'hui 20 avril, reprit Palmyrin Rosette, dont le front sembla rayonner, aujourd\'hui, l\'Europe est à cent vingt-trois millions de lieues de nous ! »
+
+Isac Hakhabut se laissa aller comme un homme auquel on viendrait d\'arracher le coeur.
+
+« Ah çà ! demanda Palmyrin Rosette, on ne sait donc rien ici ?
+
+--- Voici ce qu\'on sait ! » répondit le capitaine Servadac.
+
+Et, en quelques mots, il mit le professeur au courant de la situation. Il raconta tout ce qui s\'était passé depuis la nuit du 31 décembre, comment la *Dobryna* avait entrepris un voyage d\'exploration, comment elle avait découvert ce qui restait de l\'ancien continent, c\'est-à-dire quelques points de Tunis, de la Sardaigne, de Gibraltar, de Formentera, comment, à trois reprises, les documents anonymes étaient tombés entre les mains des explorateurs, comment enfin l\'île Gourbi avait été abandonnée pour la Terre-Chaude, et l\'ancien poste pour Nina-Ruche.
+
+Palmyrin Rosette avait écouté ce récit, non sans donner quelques signes d\'impatience. Lorsque le capitaine Servadac eut achevé :
+
+« Messieurs, demanda-t-il, où croyez-vous donc être en ce moment ?
+
+--- Sur un nouvel astéroïde qui gravite dans le monde solaire, répondit le capitaine Servadac.
+
+--- Et, suivant vous, ce nouvel astéroïde serait ?
+
+--- Un énorme fragment arraché au globe terrestre.
+
+--- Arraché ! Ah ! Vraiment, arraché ! Un fragment du globe terrestre ! Et par qui, par quoi arraché ?
+
+--- Par le choc d\'une comète, à laquelle vous avez donné le nom de Gallia, cher professeur.
+
+--- Eh bien, non, messieurs, dit Palmyrin Rosette en se levant.
+
+C\'est mieux que cela !
+
+--- Mieux que cela ? répondit vivement le lieutenant Procope.
+
+--- Oui, reprit le professeur, oui ! Il est bien vrai qu\'une comète inconnue a heurté la terre dans la nuit du 31 décembre au 1er janvier, à deux heures quarante-sept minutes et trente-cinq secondes six dizièmes du matin, mais elle n\'a fait que l\'effleurer pour ainsi dire, en enlevant ces quelques parcelles que vous avez retrouvées pendant votre voyage d\'exploration !
+
+--- Et alors, s\'écria le capitaine Servadac, nous sommes ?
+
+--- Sur l\'astre que j\'ai appelé Gallia, répondit Palmyrin Rosette d\'un ton triomphant. Vous êtes sur ma comète ! »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3 -- Quelques variations sur le vieux thème si connu des comètes du monde solaire et autres]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941613 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-3-quelques-variations-sur-le-vieux-thème-si-connu-des-comètes-du-monde-solaire-et-autres .calibre171 .sigil_not_in_toc}
+
+Lorsque le professeur Palmyrin Rosette faisait une conférence sur la cométographie, voici comment, d\'après les meilleurs astronomes, il définissait les comètes :
+
+« Astres composés d\'un point central qu\'on appelle noyau, d\'une nébulosité qu\'on appelle chevelure, d\'une traînée lumineuse qu\'on appelle queue, -- lesdits astres n\'étant visibles pour les habitants de la terre que dans une partie de leur cours, grâce à la très grande excentricité de l\'orbite qu\'ils décrivent autour du soleil. »
+
+Puis, Palmyrin Rosette ne manquait jamais d\'ajouter que sa définition était rigoureusement exacte, -- à cela près, toutefois, que ces astres pouvaient se passer soit de noyau, soit de queue, soit de chevelure, et n\'en être pas moins des comètes.
+
+Aussi avait-il soin d\'ajouter, suivant Arago, que, pour mériter ce beau nom de comète, un astre devait : 1° être doué d\'un mouvement propre ; 2° décrire une ellipse très allongée, et par conséquent s\'en aller à une distance telle qu\'il fût invisible du soleil et de la terre. La première condition remplie, l\'astre ne pouvait plus être confondu avec une étoile, et la seconde empêchait qu\'il ne pût être pris pour une planète. Or, ne pouvant appartenir à la classe des météores, n\'étant point planète, n\'étant point étoile, l\'astre était nécessairement comète.
+
+Le professeur Palmyrin Rosette, quand il professait ainsi dans son fauteuil de conférencier, ne se doutait guère qu\'un jour il serait emporté par une comète à travers le monde solaire. Il avait toujours eu pour ces astres, chevelus ou non, une particulière prédilection. Peut-être pressentait-il ce que lui réservait l\'avenir ? Aussi était-il très ferré en cométographie.
+
+Ce qu\'il dut particulièrement regretter à Formentera, après le choc, ce fut sans doute de ne pas avoir un auditoire sous la main, car il eût immédiatement commencé une conférence sur les comètes et traité son sujet dans l\'ordre suivant :
+
+1° Quel est le nombre des comètes dans l\'espace ?
+
+2° Quelles sont les comètes périodiques, c\'est-à-dire celles qui reviennent dans un temps déterminé, et les comètes non périodiques ?
+
+3° Quelles sont les probabilités d\'un choc entre la terre et l\'une quelconque de ces comètes ?
+
+4° Quelles seraient les conséquences du choc, suivant que la comète aurait un noyau dur ou non ?
+
+Palmyrin Rosette, après avoir répondu à ces quatre questions, eût certainement satisfait les plus exigeants de ses auditeurs.
+
+C\'est ce qui va être fait pour lui dans ce chapitre.
+
+Sur la première question : Quel est le nombre des comètes dans l\'espace ? Kepler a prétendu que les comètes sont aussi nombreuses dans le ciel que les poissons dans l\'eau.
+
+Arago, se fondant sur le nombre de ces astres qui gravitent entre Mercure et le soleil, a porté à dix-sept millions le chiffre de celles qui pérégrinent rien que dans les limites du monde solaire.
+
+Lambert dit qu\'il y en a cinq cents millions jusqu\'à Saturne seulement, c\'est-à-dire dans un rayon de trois cent soixante-quatre millions de lieues. D\'autres calculs ont même donné soixante-quatorze millions de milliards de comètes.
+
+La vérité est qu\'on ne sait rien du nombre de ces astres chevelus, qu\'on ne les a pas comptés, qu\'on ne les comptera jamais, mais qu\'ils sont très nombreux.
+
+Pour continuer et même amplifier la comparaison imaginée par Kepler, un pêcheur, placé à la surface du soleil, ne pourrait pas jeter sa ligne dans l\'espace sans accrocher l\'une de ces comètes.
+
+Et ce n\'est pas tout. Bien d\'autres courent l\'univers, qui ont échappé à l\'influence du soleil. Il en est de si vagabondes, de si déréglées, qu\'elles quittent capricieusement un centre d\'attraction pour entrer dans un autre. Elles changent de monde solaire avec une facilité déplorable, les unes apparaissant sur l\'horizon terrestre, qu\'on n\'avait jamais vues encore, les autres disparaissant et qu\'on ne doit plus revoir.
+
+Mais, pour s\'en tenir aux comètes qui appartiennent réellement au monde solaire, ont-elles, au moins, des orbites fixes, que rien ne peut changer, et qui, par conséquent, rendent impossible tout choc de ces corps, soit entre eux, soit avec la terre ? Eh bien ! Non ! Ces orbites ne sont point à l\'abri des influences étrangères. D\'elliptiques, elles peuvent devenir paraboliques ou hyperboliques. Et, pour ne parler que de Jupiter, cet astre est le plus grand « dérangeur » d\'orbites qui soit. Comme l\'ont remarqué les astronomes, il semble toujours être sur la grande route des comètes, et exerce sur ces faibles astéroïdes une influence qui peut leur être funeste, mais qu\'explique sa puissance attractive.
+
+Tel est donc, en gros, le monde cométaire, qui compte par millions les astres dont il se compose.
+
+Sur la seconde question : Quelles sont les comètes périodiques et les comètes non périodiques ?
+
+En parcourant les annales astronomiques, on trouve environ cinq à six cents comètes qui ont été l\'objet d\'observations sérieuses à différentes époques.
+
+Mais, sur ce chiffre, il n\'en est guère qu\'une quarantaine dont les périodes de révolution soient exactement connues.
+
+Ces quarante astres se divisent en comètes périodiques et en comètes non périodiques. Les premières reparaissent sur l\'horizon terrestre, après un intervalle de temps plus ou moins long, mais presque régulier. Les secondes, dont le retour ne saurait être assigné, s\'éloignent du soleil à des distances véritablement incommensurables.
+
+Parmi les comètes périodiques, il en est dix qui sont dites « à courtes périodes » et dont les mouvements sont calculés avec une extrême précision. Ce sont les comètes de Halley, d\'Encke, de Gambart, de Faye, de Brörsen, d\'Arrest, de Tuttle, de Winecke, de Vico et de Tempel.
+
+Il est bon de dire quelques mots de leur histoire, car l\'une d\'elles s\'est précisément comportée à l\'égard du globe terrestre comme venait de le faire la comète Gallia.
+
+
+À son périhélie, la comète de Halley passe à vingt-deux millions de lieues du soleil, soit une distance moindre que celle de Vénus, -- ce qui semblait s\'être produit pour Gallia. À son aphélie, elle s\'en éloigne de treize cents millions de lieues, c\'est-à-dire au-delà de l\'orbe de Neptune.
+
+La comète d\'Encke est celle qui accomplit sa révolution dans la période la plus courte, puisque cette période n\'est en moyenne que de douze cent cinq jours, soit moins de trois ans et demi. Elle se meut en sens direct, d\'occident en orient. Elle fut découverte le 26 novembre 1818, et, après calcul de ses éléments, on reconnut qu\'elle s\'identifiait avec la comète observée en 1805. Ainsi que les astronomes l\'avaient prédit, on la revit en 1822, 1825, 1829, 1832, 1835, 1838, 1842, 1845, 1848, 1852, etc., et elle n\'a jamais cessé de se montrer sur l\'horizon terrestre aux époques déterminées. Son orbite est contenue dans celle de Jupiter. Elle ne s\'éloigne donc pas du soleil de plus de cent cinquante-six millions de lieues, et elle s\'en rapproche à treize millions, c\'est-à-dire plus près que ne le fait Mercure. Observation importante : on a remarqué que le grand diamètre de l\'orbite elliptique de cette comète diminue progressivement, et que, par conséquent, sa moyenne distance au soleil devient de plus en plus petite. Il est donc probable que la comète d\'Encke finira par tomber sur l\'astre radieux, qui l\'absorbera, à moins qu\'elle ne se soit volatilisée auparavant à sa trop grande chaleur.
+
+La comète dite de Gambart ou de Biéla a été aperçue en 1772, 1789, 1795, 1805, mais c\'est seulement le 28 février 1826 que ses éléments furent déterminés. Son mouvement est direct.
+
+Sa révolution dure deux mille quatre cent dix jours, environ sept ans. À son périhélie, elle passe à trente-deux millions sept cent dix mille lieues du soleil, c\'est-à-dire un peu plus près que n\'en passe la terre ; à son aphélie, à deux cent trente cinq millions trois cent soixante-dix mille lieues, soit au-delà de l\'orbite de Jupiter. Un curieux phénomène s\'est produit en 1846. La comète de Biéla a reparu en deux morceaux sur l\'horizon terrestre. Elle s\'était dédoublée en route, sans doute sous l\'action d\'une force intérieure. Les deux fragments voyageaient alors de conserve à soixante mille lieues l\'un de l\'autre ; mais, en 1852, cette distance était déjà de cinq cent mille lieues.
+
+La comète de Faye a été signalée pour la première fois le 22 novembre 1843, accomplissant sa révolution en sens direct. Les éléments de son orbite furent calculés, et l\'on prédit qu\'elle reviendrait en 1850 et 1851, après sept ans et demi, ou deux mille sept cent dix-huit jours. La prédiction se réalisa : l\'astre reparut à l\'époque indiquée et aux époques ultérieures, après être passé à soixante-quatre millions six cent cinquante mille lieues du soleil, soit plus loin que Mars, et s\'en être éloigné à deux cent vingt-six millions cinq cent soixante mille lieues, soit plus loin que Jupiter.
+
+La comète de Brörsen, douée d\'un mouvement direct, a été découverte le 26 février 1846. Elle accomplit sa révolution en cinq ans et demi, ou deux mille quarante-deux jours. Sa distance périhélique est de vingt-quatre millions six cent quatorze mille lieues ; sa distance aphélique est de deux cent seize millions de lieues.
+
+Quant aux autres comètes à courte période, celle d\'Arrest accomplit sa révolution en un peu plus de six ans et demi, et a passé en 1862 à onze millions de lieues seulement de Jupiter ; celle de Tuttle se meut en treize ans deux tiers, celle de Winecke en cinq ans et demi, celle de Tempel en un temps à peu près égal, et celle de Vico semble s\'être égarée dans les espaces célestes.
+
+Mais ces astres n\'ont point été l\'objet d\'observations aussi complètes que les cinq comètes précédemment citées.
+
+Reste à énumérer maintenant les principales comètes « à longues périodes », dont quarante ont été étudiées avec plus ou moins de précision.
+
+La comète de 1556, dite « comète de Charles Quint », attendue vers 1860, n\'a pas été aperçue.
+
+La comète de 1680, étudiée par Newton, et qui, d\'après Whiston, aurait causé le déluge en s\'approchant trop près de la terre, aurait été vue l\'an 619 et l\'an 43 avant Jésus-Christ, puis en 531 et en 1106. Sa révolution serait de six cent soixante-quinze ans, et, à son périhélie, elle passe si près du soleil qu\'elle en reçoit une chaleur vingt-huit mille fois plus considérable que celle que reçoit la terre, soit deux mille fois la température du fer en fusion. La comète de 1586 serait comparable pour la vivacité de son éclat à une étoile de première grandeur.
+
+La comète de 1744 traînait plusieurs queues après elle, comme un de ces pachas qui gravitent autour du Grand Turc.
+
+La comète de 1811, qui a donné son nom à l\'année de son apparition, possédait un anneau mesurant cent soixante et onze lieues de diamètre, une nébulosité de quatre cent cinquante mille lieues, et une queue de quarante-cinq millions.
+
+La comète de 1843, que l\'on a cru devoir identifier avec celle de 1668, de 1494 et de 1317, fut observée par Cassini, mais les astronomes ne sont aucunement d\'accord sur la durée de sa révolution. Elle ne passe qu\'à douze mille lieues de l\'astre radieux, avec une vitesse de quinze mille lieues par seconde.
+
+La chaleur qu\'elle reçoit alors est égale à celle que quarante-sept mille soleils enverraient à la terre. Sa queue était visible même en plein jour, tant cette effroyable température en accroissait la densité.
+
+La comète de Donati, qui brillait avec tant de splendeur au milieu des constellations boréales, a une masse évaluée à la sept centième partie de celle de la terre.
+
+La comète de 1862, ornée d\'aigrettes lumineuses, ressemblait à quelque fantaisiste coquillage.
+
+Enfin, la comète de 1864, dans sa révolution, qui ne s\'accomplit pas en moins de deux mille huit cents siècles, va se perdre pour ainsi dire dans l\'espace infini.
+
+Sur la troisième question : Quelles sont les probabilités d\'un choc entre la terre et l\'une quelconque de ces comètes ?
+
+Si l\'on trace sur le papier les orbites planétaires et les orbites cométaires, on voit qu\'elles s\'entrecroisent en maint endroit. Mais il n\'en est pas ainsi dans l\'espace. Les plans qui contiennent ces orbites sont inclinés sous des angles différents par rapport à l\'écliptique, qui est le plan de l\'orbite terrestre. Malgré cette « précaution » du Créateur, ne peut-il arriver, tant est grand le nombre de ces comètes, que l\'une d\'elles vienne heurter la terre ?
+
+Voici ce que l\'on peut répondre :
+
+La terre, on le sait, ne sort jamais du plan de l\'écliptique, et l\'orbite qu\'elle décrit autour du soleil est tout entière contenue dans ce plan.
+
+Que faut-il donc pour que la terre soit heurtée par une comète ? Il faut : 1° que cette comète la rencontre dans le plan de l\'écliptique ;
+
+2° que le point que la comète traverse à ce moment précis soit le point même de la courbe que décrit la terre ;
+
+3° que la distance qui sépare le centre des deux astres soit moindre que leur rayon.
+
+Or, ces trois circonstances peuvent-elles se produire simultanément, et, par conséquent, amener le choc ?
+
+Lorsqu\'on demandait à Arago son avis à ce sujet, il répondait :
+
+« Le calcul des probabilités fournit le moyen d\'évaluer les chances d\'une pareille rencontre, et il montre qu\'à l\'apparition d\'une comète inconnue, il y a deux cent quatre-vingts millions à parier contre un qu\'elle ne viendra pas choquer notre globe. »
+
+Laplace ne rejetait pas la possibilité d\'une pareille rencontre, et il en a décrit les conséquences dans son *Exposition du système du monde*.
+
+Ces chances sont-elles suffisamment rassurantes ? Chacun en décidera suivant son tempérament. Il faut, d\'ailleurs, observer que le calcul de l\'illustre astronome repose sur deux éléments qui peuvent varier à l\'infini. Il exige, en effet : 1° qu\'à son périhélie la comète soit plus près du soleil que la terre ; 2° que le diamètre de cette comète soit égal au quart de celui de la terre.
+
+Et encore ne s\'agit-il, dans ce calcul, que de la rencontre du noyau cométaire avec le globe terrestre. Si l\'on voulait chiffrer les chances d\'une rencontre avec la nébulosité, il faudrait les décupler, soit deux cent quatre-vingt-un millions contre dix ou vingt-huit millions cent mille contre un.
+
+Mais, en restant dans les termes du premier problème, Arago ajoute :
+
+« Admettons un moment que la comète qui viendrait heurter la terre anéantirait l\'espèce humaine tout entière ; alors le danger de mort qui résulterait pour chaque individu de l\'apparition d\'une comète inconnue serait exactement égal à la chance qu\'il courrait, s\'il n\'y avait dans une urne qu\'une seule boule blanche sur un total de deux cent quatre-vingt-un millions de boules, et que sa condamnation à mort fût la conséquence inévitable de la sortie de cette boule blanche au premier tirage ! »
+
+De tout ceci, il résulte donc qu\'il n\'y a aucune impossibilité à ce que la terre soit choquée par une comète.
+
+L\'a-t-elle été autrefois ?
+
+Non, répondent les astronomes, parce que « de ce que la terre tourne autour d\'un axe invariable, dit Arago, on peut conclure avec certitude qu\'elle n\'a pas été rencontrée par une comète. En effet, à la suite de cet ancien choc, un axe instantané de rotation eût remplacé l\'axe principal, et les latitudes terrestres se trouveraient soumises à des variations continuelles que les observations n\'ont pas signalées. La constance des latitudes terrestres prouve donc que, depuis l\'origine, notre globe n\'a pas été heurté par une comète\... Donc aussi, comme quelques savants l\'ont fait, on ne peut attribuer au choc d\'une comète la dépression de cent mètres au-dessous du niveau de l\'Océan, formée par la mer Caspienne. »
+
+Il n\'y a donc pas eu choc dans le passé, cela paraît certain, mais a-t-il pu s\'en produire un ?
+
+Ici se place naturellement l\'incident Gambart.
+
+En 1832, la réapparition de la comète Gambart provoqua dans le monde un effet de terreur certain. Une assez bizarre coïncidence cosmographique fait que l\'orbite de cette comète coupe presque celle de la terre. Or, le 29 octobre, avant minuit, la comète devait passer très près de l\'un des points de l\'orbite terrestre. La terre y serait-elle au même moment ? Si elle y était, il y aurait rencontre, car, suivant les observations d\'Olbers, la longueur du rayon de la comète étant égale à cinq rayons terrestres, une portion de l\'orbite terrestre était noyée dans la nébulosité.
+
+Très heureusement, la terre n\'arriva à ce point de l\'écliptique qu\'un mois plus tard, le 30 novembre, et comme elle est animée d\'une vitesse de translation de six cent soixante-quatorze mille lieues par jour, lorsqu\'elle y passa, la comète était déjà à plus de vingt millions de lieues d\'elle.
+
+Très bien ; mais si la terre fût arrivée à ce point de son orbite un mois plus tôt ou la comète un mois plus tard, la rencontre avait lieu. Or, ce fait pouvait-il arriver ? Évidemment, car si l\'on ne doit pas admettre que quelque perturbation modifie la marche du sphéroïde terrestre, nul n\'oserait prétendre que la marche d\'une comète ne puisse être retardée, -- ces astres étant soumis à tant d\'influences redoutables sur leur route.
+
+Donc, si le choc ne s\'est pas produit dans le passé, il est certain qu\'il pouvait se produire.
+
+D\'ailleurs, ladite comète Gambart, en 1805, avait déjà passé dix fois plus près de la terre, à deux millions de lieues seulement. Mais, comme on l\'ignorait, ce passage ne provoqua aucune panique. Il n\'en fut pas tout à fait de même pour la comète de 1843, car on craignit que le globe terrestre ne fût tout au moins englobé dans sa queue, ce qui pouvait vicier son atmosphère.
+
+Sur la quatrième question : Étant donné qu\'une collision peut se produire entre la terre et une comète, quels seraient les effets de cette collision ?
+
+Ils seront différents, selon que la comète heurtante aura ou n\'aura pas de noyau.
+
+En effet, de ces astres vagabonds, les uns sont à noyau, comme certains fruits, les autres en sont dépourvus.
+
+Quand le noyau manque aux comètes, celles-ci sont formées d\'une nébulosité si ténue, qu\'on a pu, à travers leur masse, apercevoir des étoiles de dixième grandeur.
+
+De là, des changements de forme que subissent fréquemment ces astres et la difficulté de les reconnaître. La même matière subtile entre dans la composition de leur queue. C\'est comme une évaporation d\'elle-même qui se fait sous l\'influence de la chaleur solaire. La preuve, c\'est que cette queue ne commence à se développer, soit comme un long plumeau, soit comme un éventail à plusieurs branches, que dès que les comètes ne sont plus qu\'à trente millions de lieues du soleil, distance inférieure à celle qui sépare celui-ci de la terre. D\'ailleurs, il arrive souvent que certaines comètes, faites évidemment d\'une matière plus dense, plus résistante, plus réfractaire à l\'action des hautes températures, ne présentent aucun appendice de ce genre.
+
+Dans le cas où la rencontre s\'effectuerait entre le sphéroïde terrestre et une comète sans noyau, il n\'y aurait pas choc dans la véritable acception du mot. L\'astronome Faye a dit que la toile d\'araignée opposerait peut-être plus d\'obstacle à la balle d\'un fusil qu\'une nébulosité cométaire. Si la matière qui compose la queue ou la chevelure n\'est pas insalubre, il n\'y a rien à redouter. Mais ce que l\'on pourrait craindre serait ceci : ou que les vapeurs des appendices fussent incandescentes, et dans ce cas elles brûleraient tout à la surface du globe, ou qu\'elles introduisissent dans l\'atmosphère des éléments gazeux impropres à la vie. Cependant, il paraît difficile que cette dernière éventualité se réalise. En effet, selon Babinet, l\'atmosphère terrestre, si ténue qu\'elle soit à ses limites supérieures, possède encore une densité très considérable par rapport à celle des nébulosités ou appendices cométaires, et elle ne se laisserait pas pénétrer. Telle est, en effet, la ténuité de ces vapeurs, que Newton a pu affirmer que si une comète sans noyau, d\'un rayon de trois cent soixante-cinq millions de lieues, était portée au degré de condensation de l\'atmosphère terrestre, elle tiendrait tout entière dans un dé de vingt cinq millimètres de diamètre. Donc, pour les cas de comètes à simple nébulosité, peu de danger à craindre en cas de rencontre. Mais qu\'arriverait-il si l\'astre chevelu était formé d\'un noyau dur ?
+
+Et d\'abord, existe-t-il de ces noyaux ? On répondra qu\'il doit en exister, lorsque la comète a atteint un degré de concentration suffisant pour être passée de l\'état gazeux à l\'état solide. Dans ce cas, lorsqu\'elle s\'interpose entre une étoile et un observateur placé sur la terre, il y a occultation de l\'étoile.
+
+Or, il paraît que quatre cent quatre-vingt ans avant Jésus-Christ, au temps de Xerxès, suivant Anaxagore, le soleil fut éclipsé par une comète. De même, quelques jours avant la mort d\'Auguste, Dion observa une éclipse de ce genre, éclipse qui ne pouvait être due à l\'interposition de la lune, puisque la lune, ce jour-là, se trouvait en opposition.
+
+Il faut dire cependant que les cométographes récusent ce double témoignage, et ils n\'ont peut-être pas tort. Mais deux observations plus récentes ne permettent pas de mettre en doute l\'existence des noyaux cométaires. En effet, les comètes de 1774 et de 1828 produisirent l\'occultation d\'étoiles de huitième grandeur. Il est également admis, après observations directes, que les comètes de 1402, 1532, 1744, ont des novaux durs. Pour la comète de 1843, le fait est d\'autant plus certain qu\'on pouvait apercevoir l\'astre en plein midi, près du soleil, et sans l\'aide d\'aucun instrument.
+
+Non seulement les noyaux durs existent dans certaines comètes, mais on les a même mesurés. C\'est ainsi que l\'on connaît des diamètres réels, depuis onze et douze lieues pour les comètes de 1798 et 1805 (Gambart), jusqu\'à trois mille deux cents lieues pour celle de 1845.
+
+Cette dernière aurait donc un noyau plus gros que le globe terrestre, si bien qu\'en cas de rencontre, l\'avantage resterait peut-être à la comète.
+
+Quant aux quelques nébulosités les plus remarquables qui ont été mesurées, on trouve qu\'elles varient entre sept mille deux cents et quatre cent cinquante mille lieues.
+
+Pour conclure, il faut dire avec Arago :
+
+Il existe ou peut exister :
+
+1° Des comètes sans noyau ;
+
+2° Des comètes dont le noyau est peut-être diaphane ;
+
+3° Des comètes plus brillantes que les planètes, ayant un noyau probablement solide et opaque.
+
+Et maintenant, avant de rechercher quelles seraient les conséquences d\'une rencontre de la terre et l\'un de ces astres, il est à propos de remarquer que, même au cas où il n\'y aurait pas choc direct, les phénomènes les plus graves pourraient se produire.
+
+En effet, le passage à petite distance d\'une comète, si sa masse est suffisamment considérable, ne serait pas sans danger. Avec une masse inférieure, rien à craindre. C\'est ainsi que la comète de 1770, qui s\'est approchée de la terre à six cent mille lieues, n\'a pas fait varier d\'une seconde la durée de l\'année terrestre, tandis que l\'action de la terre avait retardé de deux jours la révolution de la comète.
+
+Mais, au cas où les masses des deux corps seraient égales, si la comète passait à cinquante-cinq mille lieues seulement de la terre, elle augmenterait la durée de l\'année terrestre de seize heures cinq minutes et changerait de deux degrés l\'obliquité de l\'écliptique.
+
+Peut-être aussi capterait-elle la lune en passant.
+
+Enfin quelles seraient les conséquences d\'un choc ? On va les connaître. Ou la comète, effleurant seulement le globe terrestre, y laisserait un morceau d\'elle-même, ou elle en arracherait quelques parcelles -- et c\'est le cas de Gallia -- ou bien elle s\'y appliquerait de manière à former à sa surface un continent nouveau.
+
+Dans tous ces cas, la vitesse tangentielle de translation de la terre pourrait être subitement anéantie. Alors, êtres, arbres, maisons seraient projetés avec cette vitesse de huit lieues par seconde dont ils étaient animés avant le choc. Les mers s\'élanceraient hors de leurs bassins naturels pour tout anéantir. Les parties centrales du globe, qui sont encore liquides, l\'éventrant par contrecoup, tendraient à s\'échapper au-dehors. L\'axe de la terre étant changé, un nouvel équateur se substituerait à l\'ancien. Enfin la vitesse du globe pourrait être absolument enrayée, et, par conséquent, la force attractive du soleil n\'étant plus contrebalancée, la terre tomberait vers lui en ligne droite, pour s\'y absorber après une chute de soixante-quatre jours et demi.
+
+Et même, par application de la théorie de Tyndall, que la chaleur n\'est qu\'un mode du mouvement, la vitesse du globe, subitement interrompue, se transformerait mécaniquement en chaleur. La terre, alors, sous l\'action d\'une température portée à des millions de degrés, se volatiliserait en quelques secondes.
+
+Mais, et pour finir ce rapide résumé, il y a deux cent quatre-vingt-un millions de chances contre une qu\'une collision entre la terre et une comète ne s\'effectuera pas.
+
+« Sans doute, ainsi que le dit plus tard Palmyrin Rosette, sans doute, mais nous avons tiré la boule blanche. »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- Dans lequel on verra Palmyrin Rosette tellement enchanté de son sort que cela donne beaucoup à réfléchir]{.pcalibre lang="X-NONE"}]{#_Toc342941614 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4-dans-lequel-on-verra-palmyrin-rosette-tellement-enchanté-de-son-sort-que-cela-donne-beaucoup-à-réfléchir .calibre171 .sigil_not_in_toc}
+
+« La comète ! » tels étaient les derniers mots prononcés par le professeur. Puis il avait regardé ses auditeurs en fronçant le sourcil, comme si l\'un d\'eux eût eu la pensée de lui contester ses droits de propriété sur Gallia. Peut-être même se demandait-il à quel titre ces intrus, rangés autour de lui, s\'étaient installés sur son domaine.
+
+Cependant, le capitaine Servadac, le comte Timascheff et le lieutenant Procope étaient restés silencieux. Ils tenaient enfin la vérité, dont ils avaient pu s\'approcher de si près. On se rappelle quelles furent les hypothèses successivement admises après discussions : d\'abord, changement de l\'axe de rotation de la terre et modification de deux points cardinaux ; puis, fragment détaché du sphéroïde terrestre et emporté dans l\'espace ; enfin comète inconnue qui, après avoir effleuré la terre, en avait enlevé quelques parcelles et les entraînait peut-être jusque dans le monde sidéral.
+
+Le passé, on le connaissait. Le présent, on le voyait. Que serait l\'avenir ? Cet original de savant l\'avait-il pressenti ? Hector Servadac et ses compagnons hésitaient à le lui demander.
+
+Palmyrin Rosette, ayant pris son grand air de professeur, semblait maintenant attendre que les étrangers, assemblés dans la salle commune, lui fussent présentés.
+
+Hector Servadac procéda à la cérémonie, pour ne pas indisposer le susceptible et rébarbatif astronome.
+
+« Monsieur le comte Timascheff, dit-il en présentant son compagnon.
+
+--- Soyez le bienvenu, monsieur le comte, répondit Palmyrin Rosette, avec toute la condescendance d\'un maître de maison qui se sait chez lui.
+
+--- Monsieur le professeur, dit le comte Timascheff, ce n\'est pas précisément de mon plein gré que je suis venu sur votre comète, mais je ne dois pas moins vous remercier de m\'y recevoir si hospitalièrement. »
+
+Hector Servadac, sentant l\'ironie de la réponse, sourit légèrement et dit :
+
+« Le lieutenant Procope, commandant la goélette *Dobryna*, sur laquelle nous avons fait le tour du monde gallien.
+
+--- Le tour ? s\'écria vivement le professeur.
+
+--- Exactement le tour », répondit le capitaine Servadac.
+
+Puis il continua :
+
+« Ben-Zouf, mon ordon\...
+
+--- Aide de camp du gouverneur général de Gallia », se hâta d\'ajouter Ben-Zouf, qui ne voulait pas laisser contester cette double qualité ni à lui ni à son capitaine.
+
+Furent présentés successivement les matelots russes, les Espagnols, le jeune Pablo et la petite Nina, que le professeur regarda par-dessous ses formidables lunettes, comme un bourru qui n\'aime pas les enfants.
+
+Quant à Isac Hakhabut, il s\'avança en disant :
+
+« Monsieur l\'astronome, une question, une seule, mais à laquelle j\'attache une grande importance\... Quand pouvons-nous espérer revenir ?
+
+--- Eh ! répondit le professeur, qui parle de revenir ! C\'est à peine si nous sommes partis ! »
+
+Les présentations étant faites, Hector Servadac pria Palmyrin Rosette de raconter son histoire.
+
+Cette histoire peut se résumer en quelques lignes.
+
+Le gouvernement français, ayant voulu vérifier la mesure de l\'arc relevé sur le méridien de Paris, nomma à cet effet une commission scientifique, dont, vu son insociabilité, ne fit pas partie Palmyrin Rosette.
+
+Le professeur, évincé et furieux, résolut donc de travailler pour son propre compte. Prétendant que les premières opérations géodésiques étaient entachées d\'inexactitudes, il résolut de vérifier à nouveau les mesures de l\'extrême réseau qui avait relié Formentera au littoral espagnol par un triangle dont l\'un des côtés mesurait quarante lieues. C\'était le travail qu\'Arago et Biot avaient fait avant lui avec une remarquable perfection.
+
+Palmyrin Rosette quitta donc Paris. Il se rendit aux Baléares, il plaça son observatoire sur la plus haute cime de l\'île et s\'installa pour y vivre en ermite avec son domestique Joseph, tandis qu\'un de ses anciens préparateurs, qu\'il avait engagé à cet usage, s\'occupait d\'établir sur un des sommets de la côte d\'Espagne un réverbère qui pût être visé par les lunettes de Formentera. Quelques livres, des instruments d\'observation, des vivres pour deux mois, composaient tout son matériel, sans compter une lunette astronomique dont Palmyrin Rosette ne se séparait jamais et qui semblait faire partie de lui-même. C\'est que l\'ancien professeur de Charlemagne avait la passion de fouiller les profondeurs du ciel et l\'espoir d\'y faire encore quelque découverte qui immortaliserait son nom. C\'était sa marotte. Le travail de Palmyrin Rosette exigeait avant tout une extrême patience. Chaque nuit, il devait guetter le fanal que son préparateur tenait allumé sur le littoral espagnol, afin de fixer le sommet de son triangle, et il n\'avait pas oublié que, dans ces conditions, soixante et un jours s\'étaient écoulés avant qu\'Arago et Biot eussent pu atteindre ce but. Malheureusement, on l\'a dit, un épais brouillard, d\'une extraordinaire intensité, enveloppait non seulement cette partie de l\'Europe, mais le globe tout entier.
+
+Or, précisément, sur ces parages des îles Baléares, à plusieurs reprises, des trouées se firent à l\'amas des brumes.
+
+Il s\'agissait donc de veiller avec le plus grand soin, -- ce qui n\'empêchait pas Palmyrin Rosette de jeter un regard interrogateur sur le firmament, car il s\'occupait alors de réviser la carte de cette partie du ciel où se dessine la constellation des Gémeaux.
+
+Cette constellation, à l\'oeil nu, présente au plus six étoiles ; mais, avec un télescope de vingt-sept centimètres d\'ouverture, on en relève plus de six mille. Palmyrin Rosette ne possédait point un réflecteur de cette force, et, faute de mieux, il n\'avait que sa lunette astronomique.
+
+Cependant, un certain jour, cherchant à jauger les profondeurs célestes dans la constellation des Gémeaux, il crut reconnaître un point brillant que ne portait aucune carte. C\'était sans doute une étoile non cataloguée. Mais, en l\'observant avec attention pendant quelques nuits, le professeur vit que l\'astre en question se déplaçait très rapidement par rapport aux autres fixes. Était-ce une nouvelle petite planète que le dieu des astronomes lui envoyait ? Tenait-il enfin une découverte ?
+
+Palmyrin Rosette redoubla d\'attention, et la vitesse de déplacement de l\'astre lui apprit qu\'il s\'agissait là d\'une comète. Bientôt, d\'ailleurs, la nébulosité fut visible, puis la queue se développa, lorsque la comète ne fut plus qu\'à trente millions de lieues du soleil.
+
+Il faut bien l\'avouer, à partir de ce moment, le grand triangle fut absolument négligé. Très certainement, chaque nuit, le préparateur de Palmyrin Rosette allumait consciencieusement son fanal sur la rive espagnole, mais très certainement aussi, Palmyrin Rosette ne regardait plus dans cette direction.
+
+Il n\'avait plus d\'objectif ni d\'oculaire que pour le nouvel astre chevelu qu\'il voulait étudier et nommer. Il vivait uniquement dans ce coin du ciel que les Gémeaux circonscrivent.
+
+Lorsque l\'on veut calculer les éléments d\'une comète, on commence toujours par lui supposer une orbite parabolique. C\'est la meilleure manière de procéder. En effet, les comètes se montrent généralement dans le voisinage de leur périhélie, c\'est-à-dire à leur plus courte distance du soleil, qui occupe un des foyers de l\'orbite. Or, entre l\'ellipse et la parabole, dont le foyer est commun, la différence n\'est pas sensible dans cette portion de leurs courbes, car la parabole n\'est qu\'une ellipse à axe infini.
+
+Palmyrin Rosette basa donc ses calculs sur l\'hypothèse d\'une courbe parabolique, et il eut raison dans ce cas.
+
+De même que pour déterminer un cercle il est nécessaire de connaître trois points de sa circonférence, de même pour déterminer les éléments d\'une comète il faut avoir observé successivement trois positions différentes. On peut alors tracer la route que l\'astre suivra dans l\'espace et établir ce qu\'on appelle « ses éphémérides ».
+
+Palmyrin Rosette ne se contenta pas de trois positions. Profitant de ce qu\'une chance exceptionnelle déchirait le brouillard à son zénith, il en releva dix, vingt, trente, en ascension droite et en déclinaison, et obtint avec une grande justesse les cinq éléments de la nouvelle comète, qui s\'avançait avec une effrayante rapidité.
+
+Il eut ainsi :
+
+1° L\'inclinaison de l\'orbite cométaire sur l\'écliptique, c\'est-à-dire sur le plan qui contient la courbe de translation de la terre autour du soleil. Ordinairement, l\'angle que ces plans font entre eux est assez considérable, -- ce qui, on le sait, diminue les chances de rencontre. Mais, dans le cas actuel, les deux plans coïncidaient.
+
+2° La fixation du noeud ascendant de la comète, c\'est-à-dire sa longitude sur l\'écliptique, autrement dit encore le point où l\'astre chevelu coupait l\'orbite terrestre.
+
+Ces deux premiers éléments obtenus, la position du plan de l\'orbite cométaire dans l\'espace était fixée.
+
+3° La direction du grand axe de l\'orbite. Elle fut obtenue en calculant quelle était la longitude du périhélie de la comète, et Palmyrin Rosette eut ainsi la situation de la courbe parabolique dans le plan déjà déterminé.
+
+
+5° Enfin, le sens du mouvement de la comète. Ce mouvement était rétrograde par rapport à celui des planètes, c\'est-à-dire qu\'elle se mouvait d\'orient[[\[8\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn8014){#_ftnref8014 .pcalibre2 .pcalibre1} en occident.
+
+Ces cinq éléments étant connus, Palmyrin Rosette calcula la date à laquelle la comète passerait à son périhélie. Puis, à son extrême joie, ayant constaté que c\'était une comète inconnue, il lui donna le nom de Gallia, non sans avoir hésité entre Palmyra et Rosetta, et il se mit à rédiger son rapport.
+
+On se demandera si le professeur avait reconnu qu\'une collision était possible entre la terre et Gallia.
+
+Parfaitement, collision non seulement possible, mais certaine.
+
+Dire qu\'il en fut enchanté, ce serait rester au-dessous du vrai.
+
+Ce fut du délire astronomique. Oui ! La terre serait heurtée dans la nuit du 31 décembre au 1er janvier, et le choc serait d\'autant plus terrible que les deux astres marchaient en sens inverse !
+
+Un autre, effrayé, eût immédiatement quitté Formentera. Lui resta à son poste. Non seulement il n\'abandonna pas son île, mais il ne dit rien de sa découverte. Les journaux lui avaient appris que d\'épaisses brumes rendaient toute observation impossible sur les deux continents, et, comme aucun observatoire n\'avait signalé cette nouvelle comète, il était fondé à croire que lui seul l\'avait découverte dans l\'espace.
+
+Cela était, en effet, et cette circonstance épargna au reste de la terre l\'immense panique dont ses habitants eussent été pris, s\'ils avaient connu le danger qui les menaçait.
+
+Ainsi, Palmyrin Rosette fut le seul à savoir qu\'une rencontre aurait lieu entre la terre et cette comète que le ciel des Baléares lui avait laissé voir, tandis que, partout ailleurs, elle se dérobait aux regards des astronomes.
+
+Le professeur demeura donc à Formentera, et avec d\'autant plus d\'obstination que, d\'après ses calculs, l\'astre chevelu devait frapper la terre dans le sud de l\'Algérie. Or, il voulait être là, car, la comète étant une comète à noyau dur, « cela serait fort curieux ! »
+
+Le choc se produisit avec tous les effets que l\'on connaît. Mais il arriva ceci : c\'est que Palmyrin Rosette fut instantanément séparé de son domestique Joseph ! Et, lorsqu\'il revint d\'un assez long évanouissement, il se trouva seul sur un îlot.
+
+C\'était tout ce qui restait de l\'archipel des Baléares.
+
+Telle fut l\'histoire racontée par le professeur, avec nombre d\'interjections et de froncements de sourcils que ne justifiait aucunement l\'attitude complaisante de ses auditeurs. Il finit en disant :
+
+« Des modifications importantes s\'étaient produites : déplacement des points cardinaux, diminution de l\'intensité de la pesanteur. Mais je ne fus pas induit comme vous, messieurs, à croire que j\'étais encore sur le sphéroïde terrestre ! Non ! La terre continuait à graviter dans l\'espace, accompagnée de sa lune qui ne l\'avait point abandonnée, et suivait son orbite normale que n\'avait pas dérangée le choc. Elle n\'avait été, d\'ailleurs, qu\'effleurée pour ainsi dire par la comète, et n\'y avait perdu que ces quelques portions insignifiantes que vous avez retrouvées. Tout s\'est donc passé pour le mieux, et nous n\'avons pas à nous plaindre. En effet, ou nous pouvions être écrasés au heurt de la comète, ou celle-ci pouvait rester fixée à la terre, et, dans ces deux cas, nous n\'aurions pas l\'avantage de pérégriner maintenant à travers le monde solaire. »
+
+Palmyrin Rosette disait toutes ces choses avec une telle satisfaction, qu\'il n\'y avait pas à tenter de le contredire. Seul, le maladroit Ben-Zouf se hasarda à émettre cette opinion, « que si, au lieu de frapper un point de l\'Afrique, la comète se fût heurtée à la butte Montmartre, très certainement cette butte eût résisté, et alors\...
+
+--- Montmartre ! s\'écria Palmyrin Rosette ! Mais la butte Montmartre eût été réduite en poussière, comme une vulgaire taupinière qu\'elle est !
+
+--- Taupinière ! s\'écria à son tour Ben-Zouf, blessé au vif.
+
+Mais ma butte eût accroché votre bribe de comète au vol et s\'en fût coiffée comme d\'un simple képi ! »
+
+Hector Servadac, pour couper court à cette inopportune discussion, imposa silence à Ben-Zouf, en expliquant au professeur quelles singulières idées son soldat avait sur la solidité de la butte Montmartre.
+
+L\'incident fut donc vidé, « par ordre », mais l\'ordonnance ne devait jamais pardonner à Palmyrin Rosette la façon méprisante dont celui-ci avait parlé de sa butte natale !
+
+Cependant, si Palmyrin Rosette, après le choc, avait pu continuer ses observations astronomiques, et quels en étaient les résultats en ce qui concernait l\'avenir de la comète ? Voilà ce qu\'il était important de connaître.
+
+Le lieutenant Procope, avec tous les ménagements que comportait le tempérament rébarbatif du professeur, posa cette double question relative à la route que Gallia suivait maintenant dans l\'espace et à la durée de sa révolution autour du soleil.
+
+« Oui, monsieur, dit Palmyrin Rosette, j\'avais déterminé la route de ma comète avant le choc, mais j\'ai dû recommencer mes calculs.
+
+--- Et pourquoi, monsieur le professeur ? demanda le lieutenant Procope, assez étonné de la réponse.
+
+--- Parce que si l\'orbite terrestre n\'avait pas été modifiée par la rencontre, il n\'en était pas ainsi de l\'orbite gallienne.
+
+--- Cette orbite a été changée par le choc ?
+
+--- J\'ose absolument l\'affirmer, répondit Palmyrin Rosette, attendu que mes observations, postérieures à la collision, ont été faites avec une précision extrême.
+
+--- Et vous aviez obtenu les éléments de la nouvelle orbite ? demanda vivement le lieutenant Procope.
+
+--- Oui, répondit sans hésiter Palmyrin Rosette.
+
+--- Mais alors vous savez ?
+
+--- Ce que je sais, monsieur, le voici : c\'est que Gallia a choqué la terre en passant à son noeud ascendant, à deux heures quarante-sept minutes trente-cinq secondes six dixièmes du matin, dans la nuit du 31 décembre au 1er janvier ; que le 10 janvier elle a coupé l\'orbite de Vénus, qu\'elle a passé à son périhélie au 15 janvier, qu\'elle a recoupé l\'orbite de Vénus, franchi son noeud descendant au 1er février, croisé l\'orbite de Mars au 13 février, pénétré dans la zone des planètes télescopiques le 10 mars, pris Nérina pour satellite\...
+
+--- Circonstances que nous connaissons tous, cher professeur, dit Hector Servadac, puisque nous avons eu la chance de recueillir vos notices. Seulement, elles ne portaient ni signature ni lieu d\'origine.
+
+--- Eh ! Pouvait-on douter qu\'elles ne fussent de moi, s\'écria superbement le professeur, de moi qui les avais jetées par centaines à la mer, de moi, Palmyrin Rosette !
+
+--- On ne le pouvait pas ! » répondit gravement le comte Timascheff. Cependant, aucune réponse n\'avait été faite touchant l\'avenir de Gallia. Il semblait même que Palmyrin Rosette voulût éviter de répondre directement. Le lieutenant Procope allait donc réitérer sa demande, et plus catégoriquement ; mais Hector Servadac, pensant qu\'il valait mieux ne pas presser cet original, lui dit :
+
+« Ah çà ! Cher professeur, nous expliquerez-vous comment il se fait que, dans une rencontre aussi formidable, nous n\'ayons pas été plus maltraités ? -- Cela est très explicable.
+
+--- Et pensez-vous que, sauf l\'enlèvement de quelques lieues carrées de territoire, la terre n\'ait pas plus souffert, et, entre autres choses, que son axe de rotation n\'ait pas été changé subitement ?
+
+--- Je le pense, capitaine Servadac, répondit Palmyrin Rosette, et voici mes raisons. La terre marchait alors avec une vitesse de vingt-huit mille huit cent lieues à l\'heure, Gallia avec une vitesse de cinquante-sept mille lieues à l\'heure. C\'est comme si un train, faisant environ quatre-vingt-six mille lieues à l\'heure, se précipitait sur un obstacle. Ce qu\'a dû être le choc, messieurs, vous pouvez en juger. La comète, dont le noyau est d\'une substance extrêmement dure, a fait ce que fait une balle, tirée de près, à travers un carreau de vitre : elle a traversé la terre sans rien briser.
+
+--- En effet, répondit Hector Servadac, les choses ont pu certainement se passer ainsi\...
+
+--- Ont dû\... reprit le professeur, toujours affirmatif, et d\'autant mieux que le globe terrestre n\'a été que très obliquement touché. Mais si Gallia y fût tombée normalement, elle y aurait profondément pénétré, en causant les plus graves désastres, et elle eût même écrasé la butte Montmartre, si cette butte se fût trouvée sur son passage !
+
+--- Monsieur ! s\'écria Ben-Zouf, directement attaqué et sans provocation, cette fois.
+
+--- Silence, Ben-Zouf », dit le capitaine Servadac.
+
+En ce moment, Isac Hakhabut, convaincu peut-être de la réalité des faits, s\'approcha de Palmyrin Rosette, et d\'un ton qui dénotait une extrême inquiétude.
+
+« Monsieur le professeur, demanda-t-il, reviendra-t-on à la terre, et quand y reviendra-t-on ?
+
+--- Vous êtes donc bien pressé ? répondit Palmyrin Rosette.
+
+--- Ce qu\'Isac vous demande, monsieur, dit alors le lieutenant Procope, je désirerais le formuler plus scientifiquement.
+
+--- Faites.
+
+--- Vous dites que l\'ancienne orbite de Gallia a été modifiée ?
+
+--- Incontestablement.
+
+--- La nouvelle orbite, la nouvelle courbe que suit la comète est-elle hyperbolique, ce qui l\'entraînerait à des distances infinies dans le monde sidéral et sans aucun espoir de retour ?
+
+--- Non ! répondit Palmyrin Rosette.
+
+--- Cette orbite serait donc devenue elliptique ?
+
+--- Elliptique.
+
+--- Et son plan coïnciderait toujours avec celui de l\'orbite terrestre ? -- Absolument.
+
+--- Gallia serait donc une comète périodique ?
+
+--- Oui, et à courte période, puisque sa révolution autour du soleil, en tenant compte des perturbations que lui feront subir Jupiter, Saturne et Mars, s\'accomplira exactement en deux ans.
+
+--- Mais alors, s\'écria le lieutenant Procope, toutes les chances seraient pour que, deux ans après le choc, elle retrouvât la terre au point même où elle l\'a déjà rencontrée ?
+
+--- En effet, monsieur, cela est à craindre !
+
+--- À craindre ! s\'écria le capitaine Servadac.
+
+--- Oui, messieurs, répondit Palmyrin Rosette en frappant du pied. Nous sommes bien où nous sommes, et, si cela ne dépendait que de moi, Gallia ne reviendrait jamais à la terre ! »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5 -- Dans lequel l\'élève Servadac est assez malmené par le professeur Palmyrin Rosette]{.pcalibre lang="X-NONE"}]{#_Toc342941615 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-5-dans-lequel-lélève-servadac-est-assez-malmené-par-le-professeur-palmyrin-rosette .calibre171 .sigil_not_in_toc}
+
+Ainsi donc, pour ces chercheurs, pour ces inventeurs d\'hypothèses, tout était clair à présent, tout était expliqué. Ils se trouvaient emportés sur une comète, gravitant dans le monde solaire. Après le choc, c\'était la terre, fuyant dans l\'espace, que le capitaine Servadac avait entrevue derrière l\'épaisse couche de nuages. C\'était le globe terrestre qui avait provoqué cette importante et unique marée dont la mer Gallienne avait subi l\'influence.
+
+Mais enfin cette comète devait revenir à la terre, -- du moins le professeur l\'affirmait. Toutefois, ses calculs étaient-ils assez précis pour que ce retour fût mathématiquement assuré ? On conviendra que les Galliens devaient conserver bien des doutes à cet égard.
+
+Les jours suivants furent employés à l\'installation du nouveau venu. C\'était, heureusement, l\'un de ces hommes, peu difficiles aux choses de la vie, qui s\'accommodent de tout. Vivant jour et nuit dans les cieux, parmi les étoiles, courant après les astres vagabonds de l\'espace, les questions de logement et de nourriture -- son café à part -- le préoccupaient assez peu. Il n\'eut pas même l\'air de remarquer cette ingéniosité que les colons avaient déployée dans les aménagements de Nina-Ruche.
+
+Le capitaine Servadac voulait offrir la meilleure chambre de toutes à son ancien professeur. Mais celui-ci, se souciant peu de partager la vie commune, refusa net. Ce qu\'il lui fallait, c\'était une sorte d\'observatoire, bien exposé, bien isolé, et dans lequel il pourrait se livrer tranquillement à ses observations astronomiques.
+
+Hector Servadac et le lieutenant Procope s\'occupèrent donc de lui trouver le logement en question.
+
+Ils eurent la main assez heureuse. Dans les flancs du massif volcanique, à cent pieds environ au-dessus de la grotte centrale, ils découvrirent une sorte d\'étroit réduit, suffisant à contenir l\'observateur et ses instruments. Il y avait place pour un lit, quelques meubles, table, fauteuil, armoire, sans compter la fameuse lunette, qui fut disposée de manière à se manoeuvrer facilement. Un simple filet de lave, dérivé de la grande chute, suffit à chauffer ledit observatoire.
+
+C\'est là que s\'installa le professeur, mangeant les aliments qu\'on lui apportait à heure fixe, dormant peu, calculant le jour, observant la nuit, en un mot se mêlant le moins possible à la vie commune. Le mieux, après tout, son originalité étant admise, était de le laisser faire à sa guise.
+
+Le froid était devenu très vif. La colonne thermométrique n\'accusait plus en moyenne que trente degrés centigrades au-dessous de zéro. Elle n\'oscillait pas dans le tube de verre comme elle eût fait sous des climats capricieux, mais elle baissait lentement, progressivement. Cette baisse se continuerait ainsi jusqu\'à ce qu\'elle eût atteint la limite extrême des froids de l\'espace, et la température ne remonterait que lorsque Gallia se rapprocherait du soleil en suivant sa trajectoire elliptique.
+
+Si la colonne mercurielle n\'oscillait pas dans le tube du thermomètre, cela tenait à ce qu\'aucun souffle de vent ne troublait l\'atmosphère gallienne. Les colons se trouvaient dans des conditions climatériques toutes particulières. Pas une molécule d\'air ne se déplaçait. Tout ce qui était liquide ou fluide à la surface de la comète semblait être gelé. Donc, pas un orage, pas une averse, pas une vapeur, ni au zénith, ni à l\'horizon.
+
+Jamais de ces brouillards humides ni de ces brumes sèches qui envahissent les régions polaires du sphéroïde terrestre. Le ciel conservait une invariable et inaltérable sérénité, tout imprégné, le jour, de rayons solaires, la nuit, de rayons stellaires, sans que les uns parussent être plus chauds que les autres. Ce qu\'il faut bien comprendre, c\'est que cette excessive température était parfaitement supportable en plein air. En effet, ce que les hiverneurs des contrées arctiques ne peuvent impunément éprouver, ce qui dessèche leurs poumons et les rend impropres aux fonctions vitales, c\'est l\'air froid violemment déplacé, c\'est la bise aiguë, ce sont les brumes malsaines, les terribles chasse-neige. Là est la cause de toutes les affections qui tuent les navigateurs polaires. Mais, pendant les périodes de calme, lorsque l\'atmosphère n\'est pas troublée, fussent-ils à l\'île Melville comme Parry, ou au-delà du quatre-vingt-unième degré comme Kane, plus loin encore hors des limites atteintes par le courageux Hall et les explorateurs du *Polaris*, ils savent braver les froids, quelque intenses qu\'ils puissent être. À la condition d\'être bien vêtus, bien nourris, ils affrontent les plus extrêmes températures en l\'absence de tout vent, et ils l\'ont fait, même lorsque l\'alcool des thermomètres tombait à soixante degrés au-dessous de zéro.
+
+Les colons de la Terre-Chaude étaient donc dans les meilleures conditions pour supporter les froids de l\'espace. Les fourrures de la goélette, les peaux préparées ne leur manquaient pas. La nourriture était abondante et saine. Enfin le calme de l\'atmosphère permettait d\'aller et de venir impunément, malgré les excessifs abaissements de la température.
+
+D\'ailleurs, le gouverneur général de Gallia tenait la main à ce que tous les colons fussent chaudement vêtus et abondamment nourris.
+
+D\'hygiéniques exercices étaient prescrits et exécutés quotidiennement. Nul ne pouvait se soustraire au programme de la vie commune. Ni le jeune Pablo ni la petite Nina n\'étaient exemptés de la règle. Bien emmitouflés de fourrures, ces deux êtres charmants avaient l\'air de gracieux Esquimaux, lorsqu\'ils patinaient ensemble devant le littoral de la Terre-Chaude. Pablo était toujours empressé près de sa compagne. Il l\'aidait dans ses jeux, il la soutenait lorsqu\'elle se sentait trop fatiguée. Tout cela était bien de leur âge.
+
+Et que devenait Isac Hakhabut ?
+
+Après son assez maussade présentation à Palmyrin Rosette, Isac Hakhabut était revenu tout penaud à sa tartane. Un changement venait de se faire dans les idées d\'Isac. -- Avec les détails si précis donnés par le professeur, il ne pouvait plus douter, il ne doutait plus. Il se savait emporté dans l\'espace par une vagabonde comète, à des millions de lieues de ce globe terrestre, sur lequel il avait fait tant et de si bonnes affaires !
+
+À se voir ainsi, lui trente-sixième sur Gallia, il semble que cette situation, si en dehors des prévisions humaines, aurait dû modifier ses idées et son caractère, qu\'il aurait dû faire un retour sur lui-même, revenir à de meilleurs sentiments envers ces quelques semblables que Dieu lui avait fait la grâce de laisser près de lui, et ne plus les considérer comme matière utilisable à son profit seulement.
+
+Il n\'en fut rien. Si Isac Hakhabut eût changé, il n\'aurait pas été le spécimen accompli de ce que peut devenir l\'homme qui ne pense qu\'à lui-même. Au contraire, il s\'endurcit à plaisir et ne songea plus qu\'à ceci : exploiter la situation jusqu\'au bout.
+
+Il connaissait assez le capitaine Servadac pour être assuré qu\'il ne lui serait fait aucun tort ; il savait que son bien était sous la sauvegarde d\'un officier français, et qu\'à moins d\'un cas de force majeure, rien ne serait tenté contre lui. Or, ce cas de force majeure ne semblait pas devoir se produire, et voici comment Isac Hakhabut entendait exploiter la situation.
+
+Les chances de retour à la terre, si peu assurées qu\'elles fussent, méritaient cependant qu\'il en fût tenu compte, d\'une part. De l\'autre, l\'or et l\'argent, anglais ou russes, ne manquaient pas dans la petite colonie, mais ce métal n\'avait de valeur que s\'il reprenait circulation sur l\'ancienne terre. Il s\'agissait d\'absorber peu à peu toute la richesse monétaire de Gallia. L\'intérêt d\'Isac Hakhabut était donc celui-ci : vendre ses marchandises avant le retour, car, par leur rareté même, elles avaient plus de valeur sur Gallia qu\'elles n\'en auraient sur la terre, mais attendre que, par suite des besoins de la colonie, la demande fût de beaucoup supérieure à l\'offre. De là, une hausse certaine et un lucre non moins certain. Donc, vendre, mais attendre pour mieux vendre.
+
+Voilà à quoi réfléchissait Isac Hakhabut dans son étroite cabine de la *Hansa*. En tout cas, on était débarrassé de sa méchante figure, et il ne fallait pas s\'en plaindre.
+
+Pendant ce mois d\'avril, le chemin parcouru par Gallia fut de trente-neuf millions de lieues, et, le mois achevé, elle se trouvait à cent dix millions de lieues du soleil. L\'orbite elliptique de la comète, comprenant ses éphémérides, avait été très exactement dessinée par le professeur. Vingt-quatre divisions inégales étaient portées sur cette courbe et y représentaient les vingt-quatre mois de l\'année gallienne.
+
+Ces divisions indiquaient le chemin parcouru mensuellement. Les douze premiers segments, marqués sur la courbe, diminuaient progressivement de longueur jusqu\'au point aphélie, conformément à l\'une des trois lois de Kepler ; puis, ce point passé, ils allaient s\'accroissant à mesure qu\'ils se rapprochaient du périhélie.
+
+Le professeur communiqua un jour -- c\'était le 12 mai -- son travail au capitaine Servadac, au comte Timascheff et au lieutenant Procope. Ceux-ci l\'examinèrent avec un intérêt facile à comprendre. Toute la trajectoire de Gallia se développait à leurs yeux, et ils pouvaient voir qu\'elle s\'étendait un peu au-delà de l\'orbite de Jupiter. Les chemins parcourus chaque mois et les distances au soleil y étaient exprimés en chiffres. Rien n\'était plus clair, et si Palmyrin Rosette ne s\'était pas trompé, si Gallia accomplissait exactement en deux années sa révolution, elle retrouverait la terre au point où elle l\'avait heurtée, puisque, dans ce même laps de temps, deux révolutions terrestres se seraient mathématiquement accomplies. Mais quelles seraient alors les conséquences du nouveau choc ? On ne voulait pas seulement y penser !
+
+En tout cas, si l\'exactitude du travail de Palmyrin Rosette pouvait être suspectée, il fallait se garder d\'en laisser rien paraître.
+
+« Ainsi donc, dit Hector Servadac, pendant le mois de mai, Gallia ne décrira que trente millions quatre cent mille lieues et sera reportée à cent trente-neuf millions de lieues du soleil ?
+
+--- Exactement, répondit le professeur.
+
+--- Nous avons donc quitté la zone des planètes télescopiques ? ajouta le comte Timascheff.
+
+--- Jugez-en vous-même, monsieur, répliqua Palmyrin Rosette, puisque j\'ai tracé la zone de ces planètes !
+
+--- Et la comète sera à son aphélie, demanda Hector Servadac, juste un an après avoir passé à son périhélie ?
+
+--- Juste.
+
+--- Au 15 janvier prochain ?
+
+--- Évidemment, au 15 janvier\... Ah ! Mais non ! s\'écria le professeur. Pourquoi dites-vous 15 janvier, capitaine Servadac ?
+
+--- Parce que du 15 janvier au 15 janvier, cela fait un an, je suppose, autrement dit douze mois !
+
+--- Douze mois terrestres, oui ! répondit le professeur, mais non douze mois galliens ! »
+
+Le lieutenant Procope, à cette proposition inattendue, ne put s\'empêcher de sourire.
+
+« Vous souriez, monsieur, dit vivement Palmyrin Rosette. Et pourquoi souriez-vous ?
+
+--- Oh ! Simplement, monsieur le professeur, parce que je vois que vous voulez réformer le calendrier terrestre.
+
+--- Je ne veux rien, monsieur, si ce n\'est être logique !
+
+--- Soyons logiques, cher professeur ! s\'écria le capitaine Servadac, soyons logiques !
+
+--- Est-il admis, demanda Palmyrin Rosette d\'un ton assez sec, que Gallia reviendra à son périhélie deux ans après y avoir passé ?
+
+--- C\'est admis.
+
+--- Ce laps de deux ans, qui constitue une révolution complète autour du soleil, constitue-t-il l\'année gallienne ?
+
+--- Parfaitement.
+
+--- Cette année doit-elle, comme toute année quelconque, être divisée en douze mois ?
+
+--- Si vous le voulez, cher professeur.
+
+--- Ce n\'est pas : si je le veux\...
+
+--- Eh bien, oui ! En douze mois ! répondit Hector Servadac.
+
+--- Et de combien de jours ces mois seront-ils formés ?
+
+--- De soixante jours, puisque les jours ont diminué de moitié.
+
+--- Capitaine Servadac, dit le professeur d\'un ton sévère, réfléchissez à ce que vous dites\...
+
+--- Mais il me semble que je rentre dans votre système, répondit Hector Servadac.
+
+--- En aucune façon.
+
+--- Expliquez-nous alors\...
+
+--- Mais rien n\'est plus simple ! répliqua Palmyrin Rosette, qui haussa dédaigneusement les épaules. Chaque mois gallien doit-il comprendre deux mois terrestres ?
+
+--- Sans doute, puisque l\'année gallienne doit durer deux ans.
+
+--- Deux mois font-ils bien soixante jours sur terre ?
+
+--- Oui, soixante jours.
+
+--- Et par conséquent ? demanda le comte Timascheff, en s\'adressant à Palmyrin Rosette.
+
+--- Par conséquent, si deux mois comprennent soixante jours terrestres, cela fait cent vingt jours galliens, puisque la durée du jour à la surface de Gallia n\'est plus que douze heures. Est-ce compris ?
+
+--- Parfaitement compris, monsieur, répondit le comte Timascheff. Mais ne craignez-vous pas que ce nouveau calendrier ne soit un peu trouble\...
+
+--- Trouble ! s\'écria le professeur ! Depuis le 1er janvier, je ne compte pas autrement !
+
+--- Ainsi, demanda le capitaine Servadac, nos mois auront maintenant au moins cent vingt jours.
+
+--- Quel mal y voyez-vous ?
+
+--- Aucun, mon cher professeur. Donc, aujourd\'hui, au lieu d\'être en mai, nous ne sommes qu\'en mars ?
+
+--- En mars, messieurs, au deux cent soixante-sixième jour de l\'année gallienne, qui correspond au cent trente-troisième de l\'année terrestre.
+
+C\'est donc aujourd\'hui le 12 mars gallien, et quand soixante jours galliens se seront écoulés en plus\...
+
+--- Nous serons au 72 mars ! s\'écria Hector Servadac ! Bravo ! Soyons logiques ! »
+
+Palmyrin Rosette eut l\'air de se demander si son ancien élève ne se moquait pas tant soit peu de lui ; mais, l\'heure étant avancée, les trois visiteurs quittèrent l\'observatoire.
+
+Le professeur avait donc fondé le calendrier gallien. Toutefois, il convient d\'avouer qu\'il fut le seul à s\'en servir, et que personne ne le comprenait, lorsqu\'il parlait du 47 avril ou du 118 mai.
+
+Cependant, le mois de juin -- ancien calendrier -- était venu, durant lequel Gallia devait parcourir vingt-sept millions cinq cent mille lieues seulement et s\'éloigner à cent cinquante-cinq millions de lieues du soleil. La température décroissait toujours, mais l\'atmosphère restait aussi pure, aussi calme que par le passé. Tous les actes de l\'existence s\'accomplissaient sur Gallia avec une régularité, on pourrait dire une monotonie parfaite. Pour troubler cette monotonie, il ne fallait rien moins que cette personnalité bruyante, nerveuse, capricieuse, acariâtre même, de Palmyrin Rosette. Lorsqu\'il daignait interrompre ses observations et descendre à la salle commune, sa visite provoquait toujours quelque scène nouvelle.
+
+La discussion portait presque invariablement sur ce point que, quel que fût le danger d\'une nouvelle rencontre avec la terre, le capitaine Servadac et ses compagnons étaient enchantés qu\'elle dût se produire. Cela exaspérait le professeur, qui ne voulait pas entendre parler de retour et continuait ses études sur Gallia, comme s\'il devait à jamais y demeurer.
+
+Un jour -- 27 juin -- Palmyrin Rosette arriva comme une bombe dans la salle commune.
+
+Là se trouvaient réunis le capitaine Servadac, le lieutenant Procope, le comte Timascheff et Ben-Zouf.
+
+« Lieutenant Procope, s\'écria-t-il, répondez sans ambages ni faux-fuyants à la question que je vais vous poser.
+
+--- Mais je n\'ai pas l\'habitude\... Répliqua le lieutenant Procope.
+
+--- C\'est bien ! reprit Palmyrin Rosette, qui semblait traiter le lieutenant de professeur à élève. Répondez à ceci : Avez-vous fait, oui ou non, le tour de Gallia avec votre goélette, et à peu près sur son équateur, autrement dit sur l\'un de ses grands cercles ?
+
+--- Oui, monsieur, répondit le lieutenant, que le comte Timascheff avait, d\'un signe, engagé à satisfaire le terrible Rosette.
+
+--- Bien, reprit ce dernier. Et, pendant ce voyage d\'exploration, n\'avez-vous pas relevé le chemin parcouru par la *Dobryna* ?
+
+--- Approximativement, répondit Procope, c\'est-à-dire à l\'aide du loch et de la boussole, et non par des hauteurs de soleil ou d\'étoiles qu\'il était impossible de calculer.
+
+--- Et qu\'avez-vous trouvé ?
+
+--- Que la circonférence de Gallia devait mesurer environ deux mille trois cents kilomètres, ce qui lui donnerait sept cent quarante kilomètres pour son double rayon.
+
+--- Oui\... Dit Palmyrin Rosette comme à part lui, ce diamètre serait, en somme, seize fois moindre que celui de la terre, qui est de douze mille sept cent quatre-vingt-douze kilomètres. »
+
+Le capitaine Servadac et ses deux compagnons regardaient le professeur sans comprendre où il voulait en venir.
+
+« Eh bien, reprit Palmyrin Rosette, pour compléter mes études sur Gallia, il me reste à savoir quels sont sa surface, son volume, sa masse, sa densité, et l\'intensité de la pesanteur.
+
+--- En ce qui concerne la surface et le volume, répondit le lieutenant Procope, puisque nous connaissons le diamètre de Gallia, rien n\'est plus facile.
+
+--- Ai-je dit que c\'était difficile ? s\'écria le professeur. Ces calculs-là, je les faisais en venant au monde !
+
+--- Oh ! Oh ! fit Ben-Zouf, qui ne cherchait qu\'une occasion d\'être désagréable au contempteur de Montmartre.
+
+--- Élève Servadac, reprit Palmyrin Rosette, après avoir un instant regardé Ben-Zouf, prenez votre plume. Puisque vous connaissez la circonférence d\'un grand cercle de Gallia, dites-moi quelle est sa surface ?
+
+--- Voici, monsieur Rosette, répondit Hector Servadac, décidé à se conduire en bon élève. Nous disons deux mille trois cent vingt-trois kilomètres, circonférence de Gallia, à multiplier par le diamètre sept cent quarante.
+
+--- Oui, et dépêchez-vous ! s\'écria le professeur. Cela devrait déjà être fait ! Eh bien ?
+
+--- Eh bien, répondit Hector Servadac, je trouve au produit un million sept cent dix-neuf mille vingt kilomètres carrés, ce qui représente la surface de Gallia.
+
+--- Soit une surface deux cent quatre-vingt-dix sept fois moindre que celle de la terre, qui est de cinq cent dix millions de kilomètres carrés.
+
+--- Peuh ! » fit Ben-Zouf, en allongeant les lèvres d\'un air assez méprisant pour la comète du professeur.
+
+Un regard foudroyant de Palmyrin Rosette lui arriva en pleine figure.
+
+« Eh bien, reprit le professeur qui s\'animait, quel est le volume de Gallia maintenant ?
+
+--- Le volume ? répondit Hector Servadac en hésitant.
+
+--- Élève Servadac, est-ce que vous ne sauriez plus calculer le volume d\'une sphère dont vous connaissez la surface ?
+
+--- Si, monsieur Rosette\... Mais vous ne me donnez pas même le temps de respirer !
+
+--- On ne respire pas en mathématiques, monsieur, on ne respire pas ! »
+
+Il fallait aux interlocuteurs de Palmyrin Rosette tout leur sérieux pour ne pas éclater.
+
+« En finirons-nous ? demanda le professeur. Le volume d\'une sphère\...
+
+--- Est égal au produit de la surface\... répondit Hector Servadac en tâtonnant, multiplié\...
+
+--- Par le tiers du rayon, monsieur ! s\'écria Palmyrin Rosette. Par le tiers du rayon ! Est-ce fini ?
+
+--- À peu près ! Le tiers du rayon de Gallia étant de cent vingt-trois, trois, trois, trois, trois, trois\...
+
+--- Trois, trois, trois, trois\... Répéta Ben-Zouf, en parcourant la gamme des sons.
+
+--- Silence ! cria le professeur, sérieusement irrité. Contentez-vous des deux premières décimales, et négligez les autres.
+
+--- Eh bien ?
+
+--- Le produit de dix-sept cent dix-neuf mille vingt par cent vingt-trois trente-trois donne deux cent onze millions quatre cent trente-neuf mille quatre cent soixante kilomètres cubes.
+
+--- Voilà donc le volume de ma comète ! s\'écria le professeur. C\'est quelque chose, en vérité !
+
+--- Sans doute, fit observer le lieutenant Procope, mais ce volume est encore cinq mille cent soixante-six fois moindre que celui de la terre, qui contient en chiffres ronds\...
+
+--- Un trillion quatre-vingt-deux milliards huit cent quarante et un millions de kilomètres cubes, je le sais, monsieur, répondit Palmyrin Rosette.
+
+--- Et, par conséquent, ajouta le lieutenant Procope, le volume de Gallia est encore très inférieur à celui de la lune, qui est le quarante-neuvième du volume de la terre.
+
+--- Eh ! Qui vous parle de cela ? Riposta le professeur, se regardant comme blessé dans son amour-propre.
+
+--- Donc, poursuivit impitoyablement le lieutenant Procope, Gallia, vue de terre, ne serait pas plus apparente qu\'une étoile de septième grandeur, c\'est-à-dire invisible à l\'oeil nu !
+
+--- Nom d\'un bédouin ! s\'écria Ben-Zouf. En voilà une jolie comète ! Et c\'est là-dessus que nous sommes !
+
+--- Silence ! dit Palmyrin Rosette, hors de lui.
+
+--- Une noisette, un pois chiche, un grain de moutarde ! Continua de dire Ben-Zouf, qui se vengeait.
+
+--- Tais-toi, Ben-Zouf, dit le capitaine Servadac.
+
+--- Une tête d\'épingle, quoi ! Un rien de rien du tout !
+
+--- Mordioux ! Te tairas-tu ? »
+
+Ben-Zouf comprit que son capitaine allait se fâcher, et il quitta la salle, mais non sans éveiller par ses formidables éclats de rire tous les échos du massif volcanique.
+
+Il était temps qu\'il partît. Palmyrin Rosette était sur le point d\'éclater et eut besoin de quelque temps pour se remettre. C\'est qu\'il ne voulait pas plus que l\'on s\'attaquât à sa comète que Ben-Zouf à Montmartre. Chacun défendait son bien avec le même acharnement.
+
+Enfin, le professeur recouvra la parole et, s\'adressant à ses élèves, c\'est-à-dire à ses auditeurs :
+
+« Messieurs, dit-il, nous connaissons maintenant le diamètre, la circonférence, la surface et le volume de Gallia.
+
+C\'est quelque chose, mais ce n\'est pas tout. Je prétends obtenir, par mesure directe, sa masse et sa densité, et savoir quelle est l\'intensité de la pesanteur à sa surface.
+
+--- Ce sera difficile, dit le comte Timascheff.
+
+--- N\'importe. Je veux savoir ce que pèse ma comète, et je le saurai.
+
+--- Ce qui rendra la solution de ce problème moins aisée, fit observer le lieutenant Procope, c\'est que nous ignorons quelle est la substance dont Gallia est formée.
+
+--- Ah ! Vous ignorez quelle est cette matière ? répondit le professeur.
+
+--- Nous l\'ignorons, dit le comte Timascheff, et si vous pouviez nous renseigner à cet égard\...
+
+--- Eh ! Messieurs, que m\'importe ! fit Palmyrin Rosette\... Je résoudrai bien sans cela mon problème.
+
+--- Quand vous voudrez, cher professeur, nous serons à vos ordres ! dit alors le capitaine Servadac.
+
+--- J\'ai encore pour un mois d\'observations et de calculs à faire, répondit Palmyrin Rosette d\'un ton aigre, et vous voudrez bien attendre, sans doute, que j\'aie fini !
+
+--- Comment donc, monsieur le professeur ! répondit le comte Timascheff, nous attendrons tout le temps qu\'il vous plaira !
+
+--- Et même davantage ! ajouta le capitaine Servadac, qui ne put retenir cette plaisanterie.
+
+--- Eh bien, rendez-vous dans un mois, répondit Palmyrin Rosette, au 62 avril prochain ! »
+
+C\'était le 31 juillet de l\'année terrestre.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6 -- Dans lequel on verra que Palmyrin Rosette est fondé à trouver insuffisant le matériel de la colonie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941616 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6-dans-lequel-on-verra-que-palmyrin-rosette-est-fondé-à-trouver-insuffisant-le-matériel-de-la-colonie .calibre171 .sigil_not_in_toc}
+
+Cependant, Gallia continuait à circuler dans les espaces interplanétaires sous l\'influence attractive du soleil. Rien jusqu\'alors n\'avait gêné ses mouvements. La planète Nérina, qu\'elle avait prise à son service en traversant la zone des astéroïdes, lui restait fidèle et accomplissait consciencieusement sa petite révolution bimensuelle. Il semblait que tout dût aller sans encombre pendant la durée de l\'année gallienne.
+
+Mais la grande préoccupation des habitants involontaires de Gallia était toujours celle-ci : reviendrait-on à la terre ? L\'astronome ne s\'était-il pas trompé dans ses calculs ? Avait-il bien déterminé la nouvelle orbite de la comète et la durée de sa révolution autour du soleil ?
+
+Palmyrin Rosette était si ombrageux qu\'on ne pouvait lui demander de revoir le résultat de ses observations.
+
+Donc, Hector Servadac, le comte Timascheff et Procope ne laissaient pas d\'être inquiets à cet égard. Quant aux autres colons, c\'était bien le moindre de leurs soucis. Quelle résignation à leur sort ! Quelle philosophie pratique ! Les Espagnols surtout, pauvres gens en Espagne, n\'avaient de leur vie été si heureux ! Negrete et ses compagnons ne s\'étaient jamais trouvés dans de telles conditions de bien-être ! Et que leur importait la marche suivie par Gallia ? Pourquoi se seraient-ils préoccupés de savoir si le soleil la maintiendrait dans son cercle d\'attraction ou si elle lui échapperait pour aller parcourir d\'autres cieux ? Ils chantaient, ces indolents, et, pour des majos, quel temps mieux employé que celui qui se passe en chansons ?
+
+Les deux êtres les plus heureux de la colonie, c\'étaient, à n\'en pas douter, le jeune Pablo et la petite Nina ! Quelles bonnes parties ils faisaient ensemble, en courant à travers les longues galeries de Nina-Ruche, en grimpant les roches du littoral ! Un jour, ils patinaient jusqu\'à perte de vue sur la longue surface glacée de la mer.
+
+Un autre, ils s\'amusaient à pêcher aux bords du petit lagon que la cascade de feu maintenait à l\'état liquide. Cela n\'empêchait pas les leçons que leur donnait Hector Servadac. Ils se faisaient parfaitement comprendre déjà, et, surtout, ils se comprenaient l\'un l\'autre !
+
+Pourquoi ce jeune garçon, cette petite fille se seraient-ils préoccupés de l\'avenir ? Pourquoi auraient-ils regretté le passé ?
+
+Un jour, Pablo avait dit :
+
+« Est-ce que tu as des parents, Nina ?
+
+--- Non, Pablo, répondit Nina, je suis toute seule. Et toi ?
+
+--- Je suis tout seul aussi, Nina. -- Et que faisais-tu là-bas ?
+
+--- Je gardais mes chèvres, Pablo.
+
+--- Moi, répondit le jeune garçon, je courais nuit et jour devant l\'attelage des diligences !
+
+--- Mais, maintenant, nous ne sommes plus seuls, Pablo.
+
+--- Non, Nina, pas du tout seuls !
+
+--- Le gouverneur est notre papa, et le comte et le lieutenant sont nos oncles. -- Et Ben-Zouf est notre camarade, reprit Pablo.
+
+--- Et tous les autres sont très gentils, ajouta Nina. On nous gâte, Pablo ! Eh bien, il ne faut pas nous laisser gâter. Il faut qu\'ils soient contents de nous\... Toujours !
+
+--- Tu es si sage, Nina, qu\'à côté de toi on est obligé de l\'être aussi. -- Je suis ta soeur, et tu es mon frère, dit Nina gravement.
+
+--- Bien sûr », répondit Pablo.
+
+La grâce et la gentillesse de ces deux êtres les faisaient aimer de tous.
+
+On ne leur épargnait ni les bonnes paroles ni les bonnes caresses, dont la chèvre Marzy avait un peu sa part. Le capitaine Servadac et le comte Timascheff éprouvaient pour eux une sincère et paternelle affection. Pourquoi auraient-ils regretté, Pablo les brûlantes plaines de l\'Andalousie, Nina les roches stériles de la Sardaigne ? Il leur semblait, en vérité, que ce monde avait toujours été le leur !
+
+Juillet arriva. À cette époque, et pendant ce mois, Gallia n\'avait que vingt-deux millions de lieues à parcourir le long de son orbite, sa distance du soleil équivalant à cent soixante-douze millions de lieues. Elle se trouvait donc éloignée de l\'astre attractif quatre fois et demie plus que la terre, dont elle égalait à peu près la vitesse. En effet, la moyenne de la vitesse du globe terrestre en parcourant l\'écliptique est environ de vingt et un millions de lieues par mois, soit vingt-huit mille huit cents lieues par heure.
+
+Le 62 avril gallien, un billet laconique fut adressé par le professeur au capitaine Servadac. Palmyrin Rosette comptait commencer ce jour même les opérations qui devaient lui permettre de calculer la masse, la densité de sa comète et l\'intensité de la pesanteur à sa surface.
+
+Hector Servadac, le comte Timascheff et Procope n\'eurent garde de manquer au rendez-vous qui leur était donné. Cependant, les expériences qui allaient être faites ne pouvaient les intéresser au même degré que le professeur, et ils auraient bien préféré apprendre quelle était cette substance qui semblait uniquement composer la charpente gallienne.
+
+Dès le matin, Palmyrin Rosette les avait rejoints dans la grande salle.
+
+Il ne semblait pas encore être de trop mauvaise humeur, mais la journée ne faisait que de commencer.
+
+Tout le monde sait ce qu\'on entend par l\'intensité de la pesanteur. C\'est la force attractive qu\'exerce la terre sur un corps de masse égale à l\'unité, et l\'on se rappelle combien cette attraction s\'était trouvée amoindrie sur Gallia, -- phénomène qui avait naturellement accru les forces musculaires des Galliens. Mais dans quelle proportion, ils l\'ignoraient.
+
+Pour la masse, elle est formée par la quantité de matière qui constitue un corps, et cette masse est représentée par le poids même du corps. Quant à la densité, c\'est la quantité de matière que contient un corps sous un volume donné.
+
+Donc, première question à résoudre, quelle était l\'intensité de la pesanteur à la surface de Gallia ?
+
+Deuxième question, quelle était la quantité de matière contenue dans Gallia, c\'est-à-dire quels étaient sa masse et, par suite, son poids ? Troisième question, quelle était la quantité de matière que renfermait Gallia, son volume étant connu, autrement dit quelle était sa densité ?
+
+« Messieurs, dit le professeur, c\'est aujourd\'hui que nous allons terminer l\'étude des divers éléments qui constituent ma comète. Lorsque nous connaîtrons l\'intensité de la pesanteur à sa surface, sa masse et sa densité par mesure directe, elle n\'aura plus de secrets pour nous. Nous allons donc, en somme, peser Gallia ! »
+
+Ben-Zouf, qui venait d\'entrer dans la salle, entendit les dernières paroles de Palmyrin Rosette. Il sortit aussitôt sans mot dire et revint quelques instants après, disant d\'un ton narquois :
+
+« J\'ai eu beau fouiller le magasin général, je n\'ai point trouvé de balances, et, d\'ailleurs, je ne sais vraiment pas où nous aurions pu les accrocher ! » Et, en parlant ainsi, Ben-Zouf regardait au-dehors, comme s\'il eût cherché un clou dans le ciel.
+
+Un regard du professeur et un geste d\'Hector Servadac firent taire le mauvais plaisant.
+
+« Messieurs, reprit Palmyrin Rosette, il faut que je sache, tout d\'abord, ce que pèse sur Gallia un kilogramme terrestre. Par suite de la moindre masse de Gallia, son attraction est moindre, et la conséquence de ce fait est que tout objet pèse moins à sa surface qu\'il ne pèserait à la surface de la terre. Mais quelle est la différence des deux poids, voilà ce qu\'il faut connaître.
+
+--- Rien de plus juste, répondit le lieutenant Procope, et des balances ordinaires -- si nous en avions eu -- n\'auraient pu servir à cette opération, puisque leurs deux plateaux étant également soumis à l\'attraction de Gallia, elles ne pourraient donner le rapport entre un poids gallien et un poids terrestre.
+
+--- En effet, ajouta le comte Timascheff, le kilogramme par exemple, dont vous vous serviriez, aurait autant perdu de son poids que l\'objet qu\'il servirait à peser, et\...
+
+--- Messieurs, répondit Palmyrin Rosette, si vous dites cela pour mon instruction particulière, vous perdez votre temps, et je vous prie de me laisser continuer mon cours de physique. »
+
+Le professeur professait plus que jamais *ex cathedra*.
+
+« Avez-vous un peson et un poids d\'un kilo ? demanda-t-il. Tout est là. Avec un peson, le poids est indiqué par une lame d\'acier ou par un ressort qui agissent en raison de leur flexibilité ou de leur tension. L\'attraction ne l\'influence donc en aucune manière.
+
+En effet, si je suspends un poids d\'un kilogramme terrestre à mon peson, l\'aiguille marquera exactement ce que pèse ce kilogramme à la surface de Gallia. Je connaîtrai donc l\'écart qui existe entre l\'attraction de Gallia et l\'attraction de la terre. Je réitère donc ma demande : Avez-vous un peson ?
+
+Les auditeurs de Palmyrin Rosette s\'interrogèrent du regard. Puis, Hector Servadac se retourna vers Ben-Zouf, qui connaissait à fond tout le matériel de la colonie.
+
+« Nous n\'avons ni peson ni poids d\'un kilo », dit-il.
+
+Le professeur marqua la déconvenue qu\'il éprouvait par un vigoureux coup de pied dont il frappa le sol.
+
+« Mais, répondit Ben-Zouf, mais je crois savoir où il y a un peson, sinon un poids.
+
+--- Où ?
+
+--- À la tartane d\'Hakhabut.
+
+--- Il fallait le dire tout de suite, imbécile ! répliqua le professeur en haussant les épaules.
+
+--- Et, surtout, il faut aller le chercher ! ajouta le capitaine Servadac. -- J\'y vais, dit Ben-Zouf.
+
+--- Je t\'accompagne, reprit Hector Servadac, car Hakhabut pourra bien faire quelque difficulté, lorsqu\'il s\'agira de prêter quoi que ce soit !
+
+--- Allons tous ensemble à la tartane, dit le comte Timascheff. Nous verrons comment Isac est installé à bord de la *Hansa*. »
+
+Ceci convenu, tous allaient sortir, lorsque le professeur dit :
+
+« Comte Timascheff, est-ce que l\'un de vos hommes ne pourrait pas tailler dans cette substance rocheuse du massif un bloc mesurant exactement un décimètre cube ?
+
+--- Mon mécanicien le fera sans peine, répondit le comte Timascheff, mais à une condition : c\'est qu\'on lui fournisse un mètre pour obtenir des mesures exactes.
+
+--- Est-ce que vous n\'auriez pas plus de mètre que de peson ? » s\'écria Palmyrin Rosette.
+
+Il n\'y avait aucun mètre dans le magasin général. Ben-Zouf dut faire cet aveu pénible.
+
+« Mais, ajouta-t-il, il est très possible qu\'il s\'en trouve un à bord de la *Hansa*.
+
+--- Partons donc ! » répondit Palmyrin Rosette, qui s\'enfonça dans la grande galerie d\'un pas rapide.
+
+On le suivit. Quelques instants plus tard, Hector Servadac, le comte Timascheff, Procope et Ben-Zouf débouchaient sur les hautes roches qui dominaient le littoral. Ils descendirent jusqu\'au rivage et se dirigèrent vers l\'étroite crique où la Dobryna et la *Hansa* étaient emprisonnées dans leur croûte de glace.
+
+Bien que la température fût extrêmement basse -- trente-cinq degrés au-dessous de zéro -- bien vêtus, bien encapuchonnés, bien serrés dans leur houppelande de fourrures, le capitaine Servadac et ses compagnons pouvaient l\'affronter sans trop d\'inconvénient. Si leur barbe, leurs sourcils, leurs cils se couvrirent instantanément de petits cristaux, c\'est que les vapeurs de leur respiration se congelaient à l\'air froid. Leurs figures, hérissées d\'aiguilles blanches, fines, aiguës comme des piquants de porc-épic, eussent été comiques à voir. La face du professeur, qui, dans sa petite personne, ressemblait à un ourson, était plus rébarbative encore.
+
+Il était huit heures du matin. Le soleil marchait rapidement vers le zénith. Son disque, considérablement réduit par l\'éloignement, offrait l\'aspect de la pleine lune en culmination. Ses rayons arrivaient au sol, sans chaleur et singulièrement affaiblis dans leurs propriétés lumineuses.
+
+Toutes les roches du littoral au pied du massif et le massif volcanique lui-même montraient la blancheur immaculée des dernières neiges, tombées avant que les vapeurs eussent cessé de saturer l\'atmosphère gallienne. En arrière, jusqu\'au sommet du cône fumant qui dominait tout ce territoire, se développait l\'immense tapis que ne souillait aucune tache. Sur le versant septentrional se déversait la cascade des laves. Là, les neiges avaient fait place aux torrents de feu qui serpentaient au caprice des pentes jusqu\'à la baie de la caverne centrale, d\'où ils tombaient perpendiculairement à la mer.
+
+Au-dessus de la caverne, à cent cinquante pieds en l\'air, se creusait une sorte de trou noir au-dessus duquel se bifurquait l\'épanchement éruptif. De ce trou sortait le tuyau d\'une lunette astronomique. C\'était l\'observatoire de Palmyrin Rosette.
+
+La grève était toute blanche et se confondait avec la mer glacée. Aucune ligne de démarcation ne les séparait. Opposé à cette immense blancheur, le ciel paraissait être d\'un bleu pâle. Sur cette grève étaient empreints les pas des colons, qui s\'y promenaient journellement, soit qu\'ils vinssent récolter la glace, dont la fusion produisait l\'eau douce, soit qu\'ils s\'exerçassent au patinage. Les courbes des patins s\'entre-croisaient à la surface de la croûte durcie, comme ces cercles que les insectes aquatiques dessinent à la surface des eaux.
+
+Des empreintes de pas se dirigeaient aussi du littoral à la *Hansa*. C\'étaient les dernières qu\'eut laissées Isac Hakhabut avant la tombée des neiges. Les bourrelets qui limitaient ces empreintes avaient acquis la dureté du bronze sous l\'influence de froids excessifs.
+
+Un demi-kilomètre séparait les premières assises du massif de cette crique dans laquelle hivernaient les deux navires.
+
+En arrivant à la crique, le lieutenant Procope fit observer combien la ligne de flottaison de la *Hansa* et de la Dobryna s\'était progressivement surélevée.
+
+La tartane et la goélette dominaient maintenant la surface de la mer d\'une vingtaine de pieds.
+
+« Voilà un curieux phénomène ! dit le capitaine Servadac.
+
+--- Curieux et inquiétant, répondit le lieutenant Procope. Il est évident qu\'il se fait sous la coque des navires, là où il y a peu de fond, un énorme travail de congélation. Peu à peu la croûte s\'épaissit et soulève tout ce qu\'elle supporte avec une force irrésistible.
+
+--- Mais ce travail aura une limite ? fit observer le comte Timascheff.
+
+--- Je ne sais, père, répondit le lieutenant Procope, car le froid n\'a pas encore atteint son maximum.
+
+--- Je l\'espère bien, s\'écria le professeur. Ce ne serait pas la peine de s\'en aller à deux cents millions de lieues du soleil pour n\'y trouver qu\'une température égale à celle des pôles terrestres !
+
+--- Vous êtes bien bon, monsieur le professeur, répondit le lieutenant Procope. Fort heureusement, les froids de l\'espace ne dépassent pas soixante à soixante-dix degrés, ce qui est déjà fort acceptable.
+
+--- Bah ! dit Hector Servadac, du froid sans vent, c\'est du froid sans rhume, et nous n\'éternuerons même pas de tout l\'hiver ! »
+
+Cependant, le lieutenant Procope faisait part au comte Timascheff des craintes que lui inspirait la situation de la goélette. Grâce à la superposition des couches glacées, il n\'était pas impossible que la Dobryna ne fût enlevée à une hauteur considérable. Dans ces conditions, à l\'époque du dégel, quelque catastrophe serait à redouter, du genre de celles qui détruisent souvent les baleiniers hivernant dans les mers arctiques.
+
+Mais qu\'y faire ?
+
+On arriva près de la *Hansa*, enfermée dans sa carapace de glace. Des marches, nouvellement taillées par Isac Hakhabut, permettaient de monter à bord. Comment ferait-il, si sa tartane s\'élevait à une centaine de pieds en l\'air ? Cela le regardait.
+
+Une légère fumée bleuâtre s\'échappait du tuyau de cuivre qui sortait des neiges durcies, accumulées sur le pont de la *Hansa*. L\'avare brûlait son combustible avec une extrême parcimonie, cela était évident, mais il devait peu souffrir du froid. En effet, les couches de glace qui enveloppaient la tartane, par cela même qu\'elles conduisaient mal la chaleur, devaient conserver une température supportable à l\'intérieur.
+
+[« Ohé ! Nabuchodonosor ! » cria Ben-Zouf.]{lang="NL" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- Où l\'on verra qu\'Isac trouve une magnifique occasion de prêter son argent à plus de dix-huit cents pour cent]{.pcalibre lang="X-NONE"}]{#_Toc342941617 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7-où-lon-verra-quisac-trouve-une-magnifique-occasion-de-prêter-son-argent-à-plus-de-dix-huit-cents-pour-cent .calibre171 .sigil_not_in_toc}
+
+À la voix de Ben-Zouf, la porte du capot d\'arrière s\'ouvrit, et Isac Hakhabut se montra à mi-corps.
+
+« Qui va là ? Cria-t-il tout d\'abord. Que me veut-on ? Il n\'y a personne ! Je n\'ai rien à prêter ni à vendre ! »
+
+Telles furent les hospitalières paroles qui accueillirent les visiteurs.
+
+« Tout beau, maître Hakhabut, répondit le capitaine Servadac d\'une voix impérieuse. Est-ce que vous nous prenez pour des voleurs ?
+
+--- Ah ! C\'est vous, monsieur le gouverneur général, dit celui-ci sans sortir de sa cabine.
+
+--- Lui-même, riposta Ben-Zouf, qui était monté sur le pont de la tartane. Tu dois te trouver honoré de sa visite ! Allons ! Hors de cette niche ! »
+
+Isac Hakhabut s\'était décidé à se montrer tout entier par l\'ouverture du capot, dont il tenait la porte à demi fermée, de manière à pouvoir la pousser rapidement en cas de danger.
+
+« Que voulez-vous ? demanda-t-il.
+
+--- Causer un instant avec vous, maître Isac, répondit le capitaine ; mais, le froid étant un peu vif, vous ne nous refuserez pas un quart d\'heure d\'hospitalité dans votre cabine ?
+
+--- Quoi ! Vous voulez entrer ? s\'écria Isac, qui ne chercha pas à dissimuler à quel point cette visite lui semblait suspecte.
+
+--- Nous le voulons, répondit Hector Servadac en grimpant les marches, suivi de ses compagnons.
+
+--- Je n\'ai rien à vous offrir, dit Isac d\'une voix piteuse. Je ne suis qu\'un pauvre homme !
+
+--- Voilà les litanies qui recommencent ! riposta Ben-Zouf.
+
+Allons, Elias, fais place ! »
+
+Et Ben-Zouf, empoignant Hakhabut au collet, l\'écarta sans plus de cérémonies. Puis il ouvrit la porte du capot.
+
+Au moment d\'entrer :
+
+« Écoutez bien ceci, Hakhabut, dit le capitaine Servadac, nous ne venons pas nous emparer de votre bien malgré vous. Je le répète, le jour où l\'intérêt commun exigera que nous disposions de la cargaison de la tartane, je n\'hésiterai pas à le faire, c\'est-à-dire à vous exproprier pour cause d\'utilité publique\... En vous payant les marchandises aux prix courants d\'Europe !
+
+--- Les prix courants d\'Europe ! murmura Isac Hakhabut entre ses dents. Non, mais aux prix courants de Gallia, et c\'est moi qui les établirai ! » Cependant, Hector Servadac et ses compagnons étaient descendus dans la cabine de la *Hansa*. Ce n\'était qu\'un étroit logement, la plus grande place possible ayant été réservée à la cargaison. Un petit poêle de fonte, où deux morceaux de charbon essayaient de ne pas brûler, se dressait dans un coin, vis-à-vis du cadre qui servait de lit. Une armoire, dont la porte était soigneusement fermée à clef, occupait le fond de ce réduit. Quelques escabeaux, une table de sapin d\'une propreté douteuse, et, en fait d\'ustensiles de cuisine, le strict nécessaire. L\'ameublement, on le voit, était peu confortable, mais digne du propriétaire de la *Hansa*.
+
+Le premier soin de Ben-Zouf, une fois descendu dans la cabine, et après que le juif en eut refermé la porte, fut de jeter dans le poêle quelques morceaux de charbon, précaution que justifiait la basse température du lieu.
+
+De là récriminations et gémissements d\'Isac Hakhabut, qui, plutôt que de prodiguer son combustible, eût brûlé ses propres os, s\'il en avait eu de rechange. Mais on ne l\'écouta pas. Ben-Zouf resta de garde près du poêle, dont il activa la combustion par une ventilation intelligente. Puis, les visiteurs, s\'étant assis tant bien que mal, laissèrent au capitaine Servadac le soin de faire connaître le but de leur visite.
+
+Isac Hakhabut, debout dans un coin, ses mains crochues soudées l\'une sur l\'autre, ressemblait à un patient auquel on lit sa sentence.
+
+« Maître Isac, dit alors le capitaine Servadac, nous sommes venus ici tout simplement pour vous demander un service.
+
+--- Un service ?
+
+--- Dans notre intérêt commun.
+
+--- Mais je n\'ai pas d\'intérêt commun !
+
+--- Écoutez donc, et ne vous plaignez pas, Hakhabut. Il n\'est pas question de vous écorcher !
+
+--- Me demander un service, à moi ! Un pauvre homme ! s\'écria le juif en se lamentant.
+
+--- Voici ce dont il s\'agit », répondit Hector Servadac, qui feignit de ne pas l\'avoir entendu.
+
+À la solennité de son préambule, il s\'exposait à faire croire à Isac Hakhabut qu\'on allait lui réclamer sa fortune entière.
+
+« En un mot, maître Isac, reprit le capitaine Servadac, nous aurions besoin d\'un peson ! Pouvez-vous nous prêter un peson ?
+
+--- Un peson ! s\'écria Isac, comme si l\'on eût demandé à lui emprunter plusieurs milliers de francs. Vous dites un peson ?
+
+--- Oui ! Un peson à peser ! répéta Palmyrin Rosette, que tant de formalités commençaient à impatienter outre mesure.
+
+--- N\'avez-vous pas un peson ? reprit le lieutenant Procope.
+
+--- Il en a un, dit Ben-Zouf.
+
+--- En effet ! Oui ! Je crois\... répondit Isac Hakhabut, qui ne voulait pas s\'avancer.
+
+--- Eh bien, maître Isac, voulez-vous avoir l\'extrême obligeance de nous prêter votre peson ?
+
+--- Prêter ! s\'écria l\'usurier. Monsieur le gouverneur, vous me demandez de prêter\...
+
+--- Pour un jour ! répliqua le professeur, pour un jour, Isac ! On vous le rendra, votre peson !
+
+--- Mais c\'est un instrument bien délicat, mon bon monsieur, répondit Isac Hakhabut. Le ressort peut se casser par ces grands froids !
+
+--- Ah ! L\'animal ! s\'écria Palmyrin Rosette.
+
+--- Et puis, il s\'agit peut-être de peser quelque chose de bien lourd !
+
+--- Crois-tu donc, Éphraïm, dit Ben-Zouf, que nous voulons peser une montagne ?
+
+--- Mieux qu\'une montagne ! répondit Palmyrin Rosette. Nous allons peser Gallia !
+
+--- Miséricorde ! » s\'écria Isac, dont les fausses doléances tendaient vers un but trop visible.
+
+Le capitaine Servadac intervint de nouveau.
+
+« Maître Hakhabut, dit-il, nous avons besoin d\'un peson pour peser un poids d\'un kilogramme tout au plus.
+
+--- Un kilogramme, Dieu du ciel.
+
+--- Et encore ce poids pèsera-t-il sensiblement moins, en conséquence de la moindre attraction de Gallia. Ainsi donc, vous n\'avez rien à craindre pour votre peson.
+
+--- Sans doute\... Monsieur le gouverneur\... répondit Isac, mais prêter\... Prêter !
+
+--- Puisque vous ne voulez pas prêter, dit alors le comte Timascheff, voulez-vous vendre ?
+
+--- Vendre ! s\'écria Isac Hakhabut, vendre mon peson ! Mais quand je l\'aurai vendu, comment pourrai-je peser ma marchandise ! Je n\'ai pas de balances ! Je n\'ai que ce pauvre petit instrument bien délicat, bien juste, et l\'on veut m\'en dépouiller ! »
+
+Ben-Zouf ne comprenait guère que son capitaine n\'étranglât pas sur l\'heure l\'affreux bonhomme qui lui tenait tête. Mais Hector Servadac s\'amusait, il faut bien en convenir, à épuiser vis-à-vis d\'Isac, toutes les formes possibles de persuasion.
+
+« Allons, maître Isac, dit-il sans se fâcher en aucune manière, je vois bien que vous ne consentirez pas à prêter ce peson.
+
+--- Hélas ! Le puis-je, monsieur le gouverneur ?
+
+--- Ni à le vendre ?
+
+--- Le vendre ! Oh ! Jamais !
+
+--- Eh bien, voulez-vous le louer ? »
+
+Les yeux d\'Isac Hakhabut s\'allumèrent comme des braises.
+
+« Vous répondriez de tout accident ? demanda-t-il assez vivement. -- Oui.
+
+--- Vous déposeriez entre mes mains un nantissement qui m\'appartiendrait en cas de malheur ?
+
+--- Oui.
+
+--- Combien ?
+
+--- Cent francs pour un instrument qui en vaut vingt. Est-ce suffisant ?
+
+--- À peine\... Monsieur le gouverneur\... À peine, car enfin ce peson est le seul qu\'il y ait dans notre nouveau monde ! -- Mais enfin, ajouta-t-il, ces cent francs seraient en or ?
+
+--- En or.
+
+--- Et vous voudriez me louer ce peson qui m\'est si nécessaire, vous voudriez me le louer pour un jour ?
+
+--- Pour un jour.
+
+--- Et le prix de la location ?
+
+--- Serait de vingt francs, répondit le comte Timascheff. Cela vous convient-il ?
+
+--- Hélas ! Je ne suis pas le plus fort ! murmura Isac Hakhabut en joignant les mains. Il faut bien savoir se résigner ! »
+
+Le marché était conclu, et bien évidemment à l\'extrême satisfaction d\'Isac. Vingt francs de location, cent francs de cautionnement, et le tout en or français ou russe ! Ah ! Ce n\'est pas Isac Hakhabut qui eût vendu son droit d\'aînesse pour un plat de lentilles, ou bien ces lentilles auraient été des perles !
+
+Le trafiquant, après avoir jeté un regard soupçonneux autour de lui, quitta la cabine pour aller chercher le peson.
+
+« Quel homme ! dit le comte Timascheff.
+
+--- Oui, répondit Hector Servadac. Dans son genre, il est trop réussi. » Presque aussitôt, Isac Hakhabut revint, rapportant l\'instrument, précieusement serré sous son bras.
+
+C\'était un peson à ressort, muni d\'un crochet auquel on suspendait l\'objet à peser. Une aiguille, se mouvant sur un cercle gradué, marquait le poids. Ainsi donc, comme l\'avait fait observer Palmyrin Rosette, les degrés indiqués par cet instrument étaient indépendants de la pesanteur, quelle qu\'elle fût. Fait pour les pesages terrestres, il eût marqué sur terre un kilogramme pour tout objet pesant un kilogramme. Pour ce même objet, qu\'indiquerait-il sur Gallia ? C\'est ce que l\'on verrait plus tard.
+
+Cent vingt francs en or furent comptés à Isac, dont les mains se refermèrent sur le précieux métal comme le couvercle d\'un coffret.
+
+Le peson fut remis à Ben-Zouf, et les visiteurs de la *Hansa* se disposèrent à quitter aussitôt la cabine.
+
+Mais, à ce moment, le professeur se rappela qu\'il lui manquait encore un objet indispensable pour ses opérations. Un peson ne lui servait à rien s\'il ne pouvait y suspendre un bloc de cette matière gallienne dont les dimensions auraient été exactement mesurées, un bloc formant par exemple un décimètre cube.
+
+« Eh ! Ce n\'est pas tout ! dit Palmyrin Rosette en s\'arrêtant. Il faut aussi nous prêter\... »
+
+Isac Hakhabut tressaillit.
+
+« Il faut aussi nous prêter un mètre et un poids d\'un kilogramme !
+
+--- Ah ! Pour cela, mon bon monsieur, répondit Isac, ce n\'est pas possible, et je le regrette bien ! J\'aurais été si heureux de pouvoir vous obliger ! »
+
+Et cette fois Isac Hakhabut disait deux fois vrai en affirmant qu\'il n\'y avait à bord ni mètre, ni poids, et qu\'il regrettait de n\'en pas avoir ! Il eût encore fait là une excellente affaire.
+
+Palmyrin Rosette, extrêmement contrarié, regardait ses compagnons comme s\'il eût voulu les rendre responsables du fait ! Et il avait lieu d\'être très désappointé, car, faute de cet engin de mesurage, il ne voyait pas comment il s\'y prendrait pour obtenir un résultat satisfaisant.
+
+« Il faudra bien pourtant que je m\'en tire sans cela ! » murmura-t-il, en se grattant la tête.
+
+Et il remonta vivement l\'échelle du capot. Ses compagnons le suivirent. Mais ils n\'étaient pas encore sur le pont de la tartane, qu\'un son argentin se faisait entendre dans la cabine.
+
+C\'était Isac Hakhabut qui serrait précieusement son or dans un des tiroirs de l\'armoire.
+
+Au bruit, le professeur s\'était vivement retourné, et il se précipita vers l\'échelle, que tous redescendirent, non moins précipitamment, sans rien comprendre aux allures de Palmyrin Rosette.
+
+« Vous avez des pièces d\'argent ! s\'écria-t-il en saisissant Isac par la manche de sa vieille houppelande.
+
+--- Moi ! De l\'argent ! répondit Isac Hakhabut, pâle comme s\'il se fût trouvé en présence d\'un voleur.
+
+--- Oui ! Des pièces d\'argent ! reprit le professeur avec une extrême vivacité ! Ce sont des pièces françaises ? Des pièces de cinq francs ?
+
+--- Oui\... Non\... » répondit Isac, ne sachant plus ce qu\'il disait.
+
+Mais le professeur s\'était penché vers le tiroir, qu\'Isac Hakhabut essayait en vain de fermer. Le capitaine Servadac, le comte Timascheff, le lieutenant Procope, n\'y comprenant rien, mais décidés à donner raison au professeur, laissaient la scène se dérouler sans y prendre part.
+
+« Ces pièces françaises, il me les faut ! s\'écria Palmyrin Rosette.
+
+--- Jamais ! s\'écria à son tour le trafiquant, auquel il semblait qu\'on voulût arracher les entrailles.
+
+--- Il me les faut, te dis-je, et je les aurai !
+
+--- On me tuera plutôt ! » hurla Isac Hakhabut.
+
+Le capitaine Servadac jugea à propos d\'intervenir alors.
+
+« Mon cher professeur, dit-il en souriant, laissez-moi arranger cette affaire comme l\'autre.
+
+--- Ah ! Monsieur le gouverneur, s\'écria Isac Hakhabut, tout défait, protégez-moi, protégez mon bien !
+
+--- Silence, maître Isac », répondit le capitaine Servadac.
+
+Puis, se retournant vers Palmyrin Rosette :
+
+« Vous avez besoin, lui demanda-t-il, d\'un certain nombre de pièces de cinq francs pour vos opérations ?
+
+--- Oui, répondit le professeur, il m\'en faut d\'abord quarante !
+
+--- Deux cents francs ! murmura le banquier.
+
+--- Et, de plus, ajouta le professeur, dix pièces de deux francs et vingt pièces de cinquante centimes !
+
+--- Trente francs ! dit une voix plaintive.
+
+--- En tout, deux cent trente francs ? reprit Hector Servadac.
+
+--- Oui, deux cent trente francs, répondit Palmyrin Rosette.
+
+--- Bien », dit le capitaine Servadac.
+
+S\'adressant alors au comte Timascheff :
+
+« Monsieur le comte, dit-il, auriez-vous encore de quoi nantir Isac pour garantir l\'emprunt forcé que je vais lui faire ?
+
+--- Ma bourse est à votre disposition, capitaine, répondit le comte Timascheff ; mais je n\'ai sur moi que des roubles-papier\...
+
+--- Pas de papier ! Pas de papier ! s\'écria Isac Hakhabut. Le papier n\'a pas cours sur Gallia !
+
+--- Est-ce que l\'argent en a davantage ? répondit froidement le comte Timascheff.
+
+--- Maître Isac, dit alors le capitaine Servadac, vos jérémiades m\'ont trouvé jusqu\'ici d\'assez belle humeur. Mais croyez-moi, n\'abusez pas plus longtemps de ma patience. De bonne ou de mauvaise grâce, vous allez nous remettre ces deux cent trente francs ?
+
+--- Au voleur ! » cria Isac.
+
+Mais il ne put continuer, car la vigoureuse main de Ben-Zouf lui pressait déjà la gorge.
+
+« Laisse-le, Ben-Zouf, dit le capitaine Servadac, laisse-le ! Il va s\'exécuter de lui-même.
+
+--- Jamais ! Jamais !
+
+--- Quel intérêt demandez-vous, maître Isac, pour nous prêter ces deux cent trente francs ?
+
+--- Un prêt ! Ce n\'est qu\'un prêt ! s\'écria Isac Hakhabut, dont toute la face rayonna en un instant.
+
+--- Oui, un simple prêt\... Quel intérêt exigez-vous ?
+
+--- Ah ! Monsieur le gouverneur général ! répondit doucereusement le prêteur, l\'argent est bien difficile à gagner, et, surtout, il est bien rare aujourd\'hui sur Gallia\...
+
+--- Trêve à ces ineptes observations\... Que demandez-vous ? reprit Hector Servadac.
+
+--- Eh bien, monsieur le gouverneur\... répondit Isac Hakhabut, il me semble que dix francs d\'intérêt\...
+
+--- Par jour ?
+
+--- Sans doute\... Par jour ! »
+
+Il n\'avait pas achevé sa phrase, que le comte Timascheff jetait sur la table quelques roubles. Isac s\'en saisit et se mit à compter les billets avec une remarquable prestesse. Bien que ce ne fût que « du papier », le nantissement devait satisfaire le plus rapace des usuriers.
+
+Les pièces françaises, réclamées par le professeur, lui furent immédiatement remises, et il les empocha avec une évidente satisfaction. Quant à Isac, il venait tout simplement de placer ses fonds à plus de dix-huit cents pour cent. Décidément, s\'il continuait à prêter à ce taux, il ferait encore plus rapidement fortune sur Gallia qu\'il n\'eût fait sur la terre. Quelques instants après, le capitaine Servadac et ses compagnons avaient quitté la tartane et Palmyrin Rosette s\'écriait :
+
+« Messieurs, ce ne sont pas deux cent trente francs que j\'emporte, c\'est de quoi faire exactement un kilogramme et un mètre ! »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8 -- Dans lequel le professeur et ses élèves jonglent avec les sextillions, les quintillions et autres multiples des milliards]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941618 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-8-dans-lequel-le-professeur-et-ses-élèves-jonglent-avec-les-sextillions-les-quintillions-et-autres-multiples-des-milliards .calibre171 .sigil_not_in_toc}
+
+Un quart d\'heure plus tard, les visiteurs de la *Hansa* étaient réunis dans la salle commune, et les dernières paroles prononcées par le professeur allaient avoir leur explication.
+
+Sur l\'ordre du professeur, Ben-Zouf avait enlevé divers objets déposés sur la table, et fait place nette. Les pièces d\'argent, empruntées au juif Hakhabut, furent déposées sur cette table, suivant leur valeur, deux piles de vingt pièces de cinq francs, une pile de dix pièces de deux francs, et une pile de vingt pièces de cinquante centimes.
+
+« Messieurs, dit Palmyrin Rosette, très satisfait de lui-même, puisque vous n\'avez pas eu la prévoyance, au moment du choc, de sauver un mètre et un poids d\'un kilogramme de l\'ancien matériel terrestre, j\'ai dû songer au moyen de remplacer ces deux objets qui me sont indispensables pour calculer l\'attraction, la masse et la densité de ma comète. »
+
+Cette phrase de début était un peu longue, et telle que la fait tout orateur sûr de lui et de l\'effet qu\'il va produire sur ses auditeurs. Ni le capitaine Servadac, ni le comte Timascheff, ni le lieutenant Procope ne relevèrent le singulier reproche que leur adressait Palmyrin Rosette. Ils étaient faits à ses manières.
+
+« Messieurs, reprit le professeur, je me suis assuré tout d\'abord que ces diverses pièces étaient presque neuves et n\'avaient été ni usées ni rognées par ce juif. Elles sont donc dans les conditions voulues pour assurer à mon opération toute l\'exactitude désirable. Et, d\'abord, je vais m\'en servir pour obtenir très exactement la longueur du mètre terrestre. »
+
+Hector Servadac et ses compagnons avaient compris la pensée du professeur avant même qu\'il eût achevé de l\'exprimer.
+
+Quant à Ben-Zouf, il regardait Palmyrin Rosette comme il eût regardé un prestidigitateur, s\'apprêtant à faire des tours dans quelque échoppe de Montmartre.
+
+Voici sur quoi le professeur basait sa première opération, dont l\'idée lui était venue soudain, lorsqu\'il entendit les pièces de monnaie résonner dans le tiroir d\'Isac Hakhabut.
+
+On sait que les pièces françaises sont décimales et forment toute la monnaie décimale qui peut exister entre un centime et cent francs, soit : 1° un, deux, cinq, dix centimes, en cuivre ; 2° vingt centimes, cinquante centimes, un franc, deux francs, cinq francs, en argent ; 3° cinq, dix, vingt, cinquante et cent francs, en or.
+
+Donc, au-dessus du franc existent tous les multiples décimaux du franc ; au-dessous, toutes les coupures décimales du franc. Le franc est l\'étalon.
+
+Or -- et c\'est sur ce point que le professeur Palmyrin Rosette insista tout d\'abord -- ces diverses pièces de monnaie sont exactement calibrées, et leur diamètre, rigoureusement déterminé par la loi, l\'est aussi dans la fabrication. Ainsi, pour ne parler que des pièces de cinq francs, de deux francs et de cinquante centimes en argent, les premières ont un diamètre de trente-sept millimètres, les secondes un diamètre de vingt-sept millimètres, et les troisièmes un diamètre de dix-huit millimètres. N\'était-il donc pas possible, en juxtaposant un certain nombre de ces pièces, de valeur différente, d\'obtenir une longueur rigoureusement exacte, concordant avec les mille millimètres que contient le mètre terrestre ?
+
+Cela se pouvait, et le professeur le savait, et c\'est ce qui lui avait fait choisir dix pièces de cinq francs sur les vingt qu\'il avait apportées, dix pièces de deux francs et vingt pièces de cinquante centimes.
+
+En effet, ayant établi rapidement le calcul suivant sur un bout de papier, il le présenta à ses auditeurs :
+
+
+10 pièces de 5 francs à 0m,037 = 0m,370
+
+10 --- 2 --- à 0m,027 = 0m,270
+
+20 --- 50 cent à 0m,018 = 0m,360
+
+TOTAL\...  1m,000
+
+
+« Très bien, cher professeur, dit Hector Servadac. Il ne nous reste plus maintenant qu\'à juxtaposer ces quarante pièces de manière que la même ligne droite passe par leurs centres, et nous aurons exactement la longueur du mètre terrestre.
+
+--- Nom d\'un Kabyle ! s\'écria Ben-Zouf, c\'est tout de même beau d\'être savant !
+
+--- Il appelle cela être savant ! » répliqua Palmyrin Rosette, en haussant les épaules.
+
+Les dix pièces de cinq francs furent étalées à plat sur la table et placées les unes près des autres, de manière que leurs centres fussent reliés par la même ligne droite, puis les dix pièces de deux francs, puis les vingt pièces de cinquante centimes.
+
+Une marque indiqua sur la table les deux extrémités de la ligne ainsi formée.
+
+« Messieurs, dit alors le professeur, voici la longueur exacte du mètre terrestre. »
+
+L\'opération venait d\'être faite avec une extrême précision. Ce mètre, au moyen d\'un compas, fut divisé en dix parties égales, ce qui donna des décimètres. Une tringle ayant été coupée à cette longueur, on la remit au mécanicien de la *Dobryna*.
+
+Celui-ci, homme très adroit, s\'étant procuré un bloc de cette matière inconnue dont se composait le massif volcanique, n\'eut plus qu\'à le tailler, en donnant un décimètre carré à chacune de ses six faces, pour obtenir un cube parfait.
+
+C\'est ce qu\'avait demandé Palmyrin Rosette.
+
+Le mètre était obtenu. Restait donc à obtenir exactement un poids d\'un kilogramme.
+
+Cela était encore plus facile.
+
+En effet, les pièces françaises ont non seulement un calibre rigoureusement déterminé, mais un poids rigoureusement calculé.
+
+Et, pour ne parler que de la pièce de cinq francs, elle pèse exactement vingt-cinq grammes, soit le poids de cinq pièces d\'un franc, qui pèsent chacune cinq grammes[[\[9\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn9014){#_ftnref9014 .pcalibre2 .pcalibre1}.
+
+Il suffisait donc de grouper quarante pièces de cinq francs en argent pour avoir un poids d\'un kilogramme.
+
+C\'est ce que le capitaine Servadac et ses compagnons avaient tout d\'abord compris.
+
+« Allons, allons, dit Ben-Zouf, je vois bien que, pour tout cela, il ne suffit pas d\'être savant, il faut encore\...
+
+--- Et quoi ? demanda Hector Servadac.
+
+--- Il faut encore être riche ! »
+
+Et tous de rire à l\'observation du brave Ben-Zouf.
+
+Enfin, quelques heures plus tard, le décimètre cube de pierre était taillé avec une précision très suffisante, et le mécanicien le mettait entre les mains du professeur.
+
+Palmyrin Rosette, possédant un poids d\'un kilogramme, un bloc d\'un décimètre cube, et enfin un peson pour les peser successivement, était à même de calculer l\'attraction, la masse et la densité de sa comète.
+
+« Messieurs, dit-il, au cas où vous ne le sauriez pas -- ou tout au moins où vous ne le sauriez plus -- je dois vous rappeler la célèbre loi de Newton, d\'après laquelle l\'attraction est en raison directe des masses et en raison inverse du carré des distances. Je vous prie de ne plus oublier ce principe. »
+
+Comme il professait, le professeur ! Mais aussi, à quels élèves disciplinés il avait affaire !
+
+« Voici, reprit-il, un groupe de quarante pièces de cinq francs, réunies dans ce sac. Ce groupe pèserait exactement un kilogramme sur la terre. Donc, si, étant sur la terre, je le suspendais au crochet de ce peson, l\'aiguille marquerait un kilogramme. Est-ce clair ? »
+
+En parlant ainsi, Palmyrin Rosette ne cessait de regarder fixement Ben-Zouf.
+
+En cela, il imitait Arago, lequel, pendant ses démonstrations, regardait toujours celui de ses auditeurs qui lui paraissait être le moins intelligent ; et lorsque cet auditeur lui semblait avoir compris, il était assuré de la clarté de sa démonstration[[\[10\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn10014){#_ftnref10014 .pcalibre2 .pcalibre1}.
+
+Ici, l\'ordonnance du capitaine Servadac n\'était pas inintelligent, tant s\'en fallait, mais il était ignorant, et cela revenait au même.
+
+Or, Ben-Zouf ayant paru convaincu, le professeur continua sa démonstration en ces termes :
+
+« Eh bien, messieurs, ce groupe de quarante pièces, je vais le suspendre au crochet du peson, et, comme j\'opère sur Gallia, nous allons savoir ce qu\'il pèse sur Gallia. »
+
+« À qui ai-je l\'honneur de parler ? lui demanda-t-il.
+
+--- Oh ! Monsieur Arago, vous devez bien me connaître, car j\'assiste assidûment à vos cours et vous ne cessez de me regarder pendant tout le temps de la leçon ! »
+
+Le groupe fut attaché au crochet, l\'aiguille du peson oscilla, s\'arrêta et marqua sur le cercle gradué cent trente-trois grammes.
+
+« Donc, reprit Palmyrin Rosette, ce qui pèse un kilogramme sur la terre ne pèse que cent trente-trois grammes sur Gallia, c\'est-à-dire sept fois moins environ. Est-ce clair ? »
+
+Ben-Zouf ayant fait un signe d\'assentiment, le professeur reprit gravement sa démonstration.
+
+« Et maintenant, vous comprenez que les résultats que je viens d\'obtenir avec un peson auraient été nuls avec des balances ordinaires.
+
+En effet, les deux plateaux dans lesquels j\'aurais mis, d\'une part le groupe, de l\'autre le poids d\'un kilogramme, seraient restés en équilibre, puisque tous deux auraient été diminués d\'une quantité précisément égale. Est-ce compris ?
+
+--- Même par moi, répondit Ben-Zouf.
+
+--- Si donc, reprit le professeur, la pesanteur est sept fois moindre ici que sur le globe terrestre, on doit en conclure que l\'intensité de la pesanteur sur Gallia n\'est que le septième de ce qu\'elle est à la surface de la terre.
+
+--- Parfait ! répondit le capitaine Servadac, et nous voilà maintenant fixés sur ce point. Donc, cher professeur, passons à la masse.
+
+--- Non, à la densité d\'abord, répondit Palmyrin Rosette.
+
+--- En effet, dit le lieutenant Procope, connaissant déjà le volume de Gallia, lorsque nous en connaîtrons la densité, la masse se déduira tout naturellement. »
+
+Le raisonnement du lieutenant était juste, et il n\'y avait plus qu\'à procéder au calcul de la densité de Gallia.
+
+C\'est ce que fit le professeur. Il prit le bloc taillé dans le massif du volcan, bloc qui mesurait exactement un décimètre cube.
+
+« Messieurs, dit-il, ce bloc est fait de cette matière inconnue que, pendant votre voyage de circumnavigation, vous avez partout rencontrée à la surface de Gallia. Il semble vraiment que ma comète ne soit composée que de cette substance. Le littoral, le mont volcanique, le territoire, au nord comme au midi, ne semble constitué que par ce minéral, auquel votre ignorance en géologie ne vous a pas permis de donner un nom.
+
+--- Oui, et nous voudrions bien savoir quelle est cette substance, dit Hector Servadac.
+
+--- Je crois donc, reprit Palmyrin Rosette, avoir le droit de raisonner comme si Gallia était entièrement et uniquement composée de cette matière jusque dans ses dernières profondeurs.
+
+Or, voici un décimètre cube de cette matière. Que pèserait-il sur la terre ? Il pèserait exactement le poids qu\'il a sur Gallia, multiplié par sept, puisque, je le répète, l\'attraction est sept fois moindre sur la comète que sur le globe terrestre. Avez-vous compris, vous qui me regardez avec vos yeux ronds ? »
+
+Ceci s\'adressait à Ben-Zouf.
+
+« Non, répondit Ben-Zouf.
+
+--- Eh bien, je ne perdrai pas mon temps à vous faire comprendre. Ces messieurs ont compris, et cela suffit.
+
+--- Quel ours ! murmura Ben-Zouf.
+
+--- Pesons donc ce bloc, dit le professeur. C\'est comme si je mettais la comète au crochet de mon peson. »
+
+Le bloc fut suspendu au peson, et l\'aiguille indiqua sur le cercle un kilogramme quatre cent trente grammes.
+
+« Un kilogramme quatre cent trente grammes, multipliés par sept, s\'écria Palmyrin Rosette, donnent à peu près dix kilogrammes. Donc, la densité de la terre étant cinq environ ; la densité de Gallia est double de celle de la terre, puisqu\'elle vaut dix ! Sans cette circonstance, la pesanteur, au lieu d\'être un septième de celle de la terre sur ma comète, n\'eût été que d\'un quinzième ! »
+
+En prononçant ces paroles, le professeur pensait avoir le droit d\'être fier. Si la terre l\'emportait en volume, sa comète l\'emportait en densité, et, vraiment, il n\'eût pas troqué l\'une pour l\'autre.
+
+Ainsi donc, à ce moment, le diamètre, la circonférence, la surface, le volume, la densité de Gallia et l\'intensité de la pesanteur à sa surface étaient connus. Restait à calculer sa masse, autrement dit son poids.
+
+Ce calcul fut rapidement établi.
+
+En effet, puisqu\'un décimètre cube de la matière gallienne eût pesé dix kilogrammes dans un pesage terrestre, Gallia pesait autant de fois dix kilogrammes que son volume contenait de décimètres cubes. Or ce volume, on le sait, étant de deux cent onze millions quatre cent trente-trois mille quatre cent soixante kilomètres cubes, renfermait un nombre de décimètres représenté par vingt et un chiffre, soit deux cent onze quintillions quatre, cent trente-trois quadrillions quatre cent soixante trillions. Ce même nombre donnait donc en kilogrammes terrestres la masse ou le poids de Gallia.
+
+Il était donc inférieur à celui du globe terrestre de quatre sextillions sept cent quatre-vingt-huit quintillions cinq cent soixante-six quatrillions cinq cent quarante trillions de kilogrammes.
+
+« Mais que pèse donc la terre ? demanda Ben-Zouf, véritablement abasourdi par ces milliards de millions.
+
+--- Et d\'abord sais-tu ce que c\'est qu\'un milliard ? lui demanda le capitaine Servadac.
+
+--- Vaguement, mon capitaine.
+
+--- Eh bien, sache donc que, depuis la naissance de Jésus-Christ, il ne s\'est pas encore écoulé un milliard de minutes, et que si tu avais dû un milliard, en donnant un franc toutes les minutes depuis cette époque, tu n\'aurais pas encore fini de payer !
+
+--- Un franc par minute ! s\'écria Ben-Zouf ! Mais j\'aurais été ruiné avant un quart d\'heure ! -- Enfin que pèse la terre ?
+
+--- Cinq mille huit cent soixante-quinze sextillions de kilogrammes, répondit le lieutenant Procope, un nombre formé de vingt-cinq chiffres.
+
+--- Et la lune ?
+
+--- Soixante-douze sextillions de kilogrammes.
+
+--- Seulement ! répondit Ben-Zouf.
+
+Et le soleil ?
+
+--- Deux nonillions, répondit le professeur, un nombre qui comprend trente et un chiffres.
+
+--- Deux nonillions ! s\'écria Ben-Zouf, à quelques grammes près sans doute ? »
+
+Palmyrin Rosette commença à regarder Ben-Zouf de travers.
+
+« Ainsi donc, dit le capitaine Servadac pour conclure, tout objet pèse sept fois moins à la surface de Gallia qu\'à la surface de la terre.
+
+--- Oui, répondit le professeur, et, par suite, nos forces musculaires se trouvent sextuplées. Un fort de la halle, qui porte cent kilogrammes sur la terre, en porterait sept cents sur Gallia.
+
+--- Et voilà pourquoi nous sautons sept fois plus haut ! dit Ben-Zouf.
+
+--- Sans doute, répondit le lieutenant Procope, et si la masse de Gallia eût été moindre, Ben-Zouf, vous auriez sauté plus haut encore !
+
+--- Même par-dessus la butte Montmartre ! ajouta le professeur, en clignant de l\'oeil de manière à mettre Ben-Zouf hors de lui.
+
+--- Et sur les autres astres, quelle est donc l\'intensité de la pesanteur ? demanda Hector Servadac.
+
+--- Vous l\'avez oublié ! s\'écria le professeur. Au fait, vous n\'avez jamais été qu\'un assez mauvais élève !
+
+--- Je l\'avoue à ma honte ! répondit le capitaine Servadac.
+
+--- Eh bien ! La terre étant un, l\'attraction sur la lune est de zéro seize, sur Jupiter deux quarante-cinq, sur Mars zéro cinquante, sur Mercure un quinze, sur Vénus zéro quatre-vingt-douze, presque égale à celle de la terre, sur le soleil deux quarante-cinq.
+
+Là, un kilogramme terrestre en pèse vingt-huit !
+
+--- Aussi, ajouta le lieutenant Procope, sur le soleil, un homme constitué comme nous le sommes ne se relèverait-il que difficilement s\'il venait à tomber, et un boulet de canon n\'irait-il pas à plus de quelques dizaines de mètres.
+
+--- Un bon champ de bataille pour les poltrons ! dit Ben-Zouf.
+
+--- Mais non, répliqua le capitaine Servadac, puisqu\'ils seraient trop lourds pour se sauver !
+
+--- Eh bien, dit Ben-Zouf, puisque nous aurions été plus forts, puisque nous aurions sauté plus haut, je regrette que Gallia ne soit pas plus petite qu\'elle ne l\'est ! Il est vrai que c\'eût été difficile ! »
+
+Cette proposition ne pouvait que blesser l\'amour-propre de Palmyrin Rosette, propriétaire de ladite Gallia. Aussi, admonestant Ben-Zouf :
+
+« Voyez-vous cela ! s\'écria-t-il. Est-ce que la tête de cet ignorant n\'est pas assez légère déjà ! Qu\'il y prenne garde, ou un coup de vent l\'emportera quelque jour !
+
+--- Bon ! répondit Ben-Zouf, je la tiendrai à deux mains ! »
+
+Palmyrin Rosette, voyant qu\'il n\'aurait pas le dernier avec l\'entêté Ben-Zouf, allait se retirer, lorsque le capitaine Servadac l\'arrêta d\'un geste. « Pardon, cher professeur, dit-il, une seule question. Est-ce que vous ne savez pas quelle est cette substance dont Gallia est faite ?
+
+--- Peut-être ! répondit Palmyrin Rosette. La nature de cette matière\... Sa densité qui vaut dix\... J\'oserais affirmer\... Ah ! Si cela est, j\'ai de quoi confondre ce Ben-Zouf ! Qu\'il ose donc comparer sa butte avec ma comète !
+
+--- Et qu\'oseriez-vous affirmer ? demanda le capitaine Servadac.
+
+--- Que cette substance, reprit le professeur en scandant chaque syllabe de sa phrase, que cette substance n\'est rien moins qu\'un tellurure\...
+
+--- Peuh ! Un tellurure\... S\'écria Ben-Zouf.
+
+--- Un tellurure d\'or, corps composé qui se trouve fréquemment sur terre, et dans celui-ci, s\'il y a soixante-dix pour cent de tellure, j\'estime qu\'il y a trente pour cent d\'or !
+
+--- Trente pour cent ! s\'écria Hector Servadac.
+
+--- Ce qui, en additionnant les pesanteurs spécifiques de ces deux corps, devient dix au total, -- soit précisément le chiffre qui représente la densité de Gallia !
+
+--- Une comète en or ! répétait le capitaine Servadac.
+
+--- Le célèbre Maupertuis pensait que cela était fort possible, et Gallia lui donne raison !
+
+--- Mais alors, dit le comte Timascheff, si Gallia tombe sur le globe terrestre, elle va en changer toutes les conditions monétaires, puisqu\'il n\'y a actuellement que vingt-neuf milliards quatre cents millions d\'or en circulation !
+
+--- En effet, répondit Palmyrin Rosette, et puisque ce bloc de tellurure d\'or qui nous emporte pèse en poids terrestre deux cent onze quintillions quatre cent trente-trois quatrillions quatre cent soixante trillions de kilogrammes, c\'est environ soixante et onze quintillions d\'or qu\'il apportera à la terre. Or, à trois mille cinq cents francs le kilogramme, cela fait en nombre rond deux cent quarante-six sextillions de francs, -- un nombre composé de vingt-quatre chiffres.
+
+--- Et ce jour-là, répondit Hector Servadac, la valeur de l\'or tombera à rien, et il méritera plus que jamais la qualification de « vil métal ! »
+
+Le professeur n\'avait pas entendu cette observation.
+
+Il était sorti majestueusement sur sa dernière réponse pour remonter à son observatoire.
+
+« Mais, demanda alors Ben-Zouf, à quoi servent tous ces calculs que ce savant hargneux vient d\'exécuter comme des tours de passe-passe ?
+
+--- À rien ! répondit le capitaine Servadac, et c\'est précisément ce qui en fait le charme ! »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9 -- Dans lequel il sera uniquement question de Jupiter, surnommé le grand troubleur de comètes]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941619 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-9-dans-lequel-il-sera-uniquement-question-de-jupiter-surnommé-le-grand-troubleur-de-comètes .calibre171 .sigil_not_in_toc}
+
+En effet, Palmyrin Rosette n\'avait fait que de l\'art pour l\'art. Il connaissait les éphémérides de la comète, sa marche dans les espaces interplanétaires, la durée de sa révolution autour du soleil. Le reste, masse, densité, attraction, et même la valeur métallique de Gallia, ne pouvait intéresser que lui et non ses compagnons, désireux surtout de retrouver la terre au point de son orbite et à la date indiquée.
+
+On laissa donc le professeur à ses travaux de science pure.
+
+Le lendemain était le 1er août, ou, pour emprunter le langage de Palmyrin Rosette, le 63 avril gallien. Pendant ce mois, la comète, qui allait faire seize millions cinq cent mille lieues, devait s\'éloigner à cent quatre-vingt-dix sept millions de lieues du soleil. Il lui fallait parcourir encore quatre-vingt et un millions de lieues sur sa trajectoire, pour atteindre le point aphélie, au 15 janvier. À partir de ce point, elle tendrait à se rapprocher du soleil.
+
+Mais alors Gallia s\'avançait vers un monde merveilleux, qu\'aucun oeil humain n\'avait encore pu contempler de si près !
+
+Oui, le professeur avait raison de ne plus quitter son observatoire ! Jamais astronome -- et un astronome est plus qu\'un homme, puisqu\'il vit en dehors du monde terrestre -- ne s\'était trouvé à une pareille fête des yeux ! Que ces nuits galliennes étaient belles ! Pas un souffle de vent, pas une vapeur n\'en troublaient la sérénité ! Le livre du firmament était là, tout ouvert, et se laissait lire avec une netteté incomparable !
+
+Ce monde splendide vers lequel marchait Gallia, c\'était le monde de Jupiter, le plus important de ceux que le soleil retient sous sa puissance attractive.
+
+Depuis la rencontre de la terre et de la comète, sept mois s\'étaient écoulés, et celle-ci avait rapidement marché vers la superbe planète, qui s\'avançait au-devant d\'elle. À cette date du 1er août, les deux astres n\'étaient plus séparés que par une distance de soixante et un millions de lieues, et, jusqu\'au 1er novembre, ils allaient progressivement se rapprocher l\'un de l\'autre.
+
+N\'y avait-il pas là un danger ? À circuler si près de Jupiter, Gallia ne risquait-elle pas gros jeu ? Le pouvoir attractif de la planète, dont la masse était si considérable par rapport à la sienne, ne pouvait-il pas exercer sur elle une désastreuse influence ? Certainement, en calculant la durée de la révolution de Gallia, le professeur avait tenu exactement compte des perturbations que devaient lui faire subir non seulement Jupiter, mais aussi Saturne et Mars. Mais s\'il s\'était trompé sur la valeur de ces perturbations, si sa comète éprouvait des retards plus importants qu\'il ne pensait ! Si même le terrible Jupiter, cet éternel séducteur de comètes !
+
+Enfin, ainsi que l\'expliqua le lieutenant Procope, si les calculs de l\'astronome étaient erronés, un quadruple danger menaçait Gallia.
+
+1° Ou Gallia, irrésistiblement attirée par Jupiter, tomberait à sa surface et s\'y anéantirait.
+
+2° Ou, captée seulement, elle passerait à l\'état de satellite, peut-être même de sous-satellite.
+
+3° Ou, déviée de sa trajectoire, elle suivrait une nouvelle orbite qui ne la ramènerait pas à l\'écliptique.
+
+4° Ou, retardée, si peu que ce fût, par l\'astre troublant, elle arriverait trop tard sur l\'écliptique pour y retrouver la terre.
+
+On remarquera que, de ces quatre dangers, il suffisait qu\'un seul se produisît pour que les Galliens perdissent toute chance de retour à leur globe natal.
+
+Il faut maintenant observer que, de ces quatre éventualités, au cas où elles se produiraient, Palmyrin Rosette n\'en devait redouter que deux. Que Gallia passât à l\'état de lune ou de sous-lune du monde jovien, cela ne pouvait lui convenir, à cet aventureux astronome ; mais, après avoir manqué la rencontre avec la terre, continuer à graviter autour du soleil, ou même courir les espaces sidéraux à travers cette nébuleuse de la voie lactée dont semblent faire partie toutes les étoiles visibles, cela lui allait beaucoup. Que ses compagnons fussent irrésistiblement pris du désir de revenir au globe terrestre, où ils avaient laissé des familles, des amis, cela se concevait ; mais Palmyrin Rosette n\'avait plus de famille, il n\'avait pas d\'amis, n\'ayant jamais eu le temps de s\'en faire. Avec le caractère qu\'on lui connaît, comment y aurait-il réussi ? Donc, puisqu\'il avait cette chance exceptionnelle d\'être emporté dans l\'espace sur un nouvel astre, il eût tout donné pour ne le quitter jamais.
+
+Un mois se passa dans ces conditions, entre les craintes des Galliens et les espérances de Palmyrin Rosette. Au 1er septembre, la distance de Gallia à Jupiter n\'était plus que de trente-huit millions de lieues, -- précisément celle qui sépare la terre de son centre attractif. Au 15, cette distance n\'était plus que de vingt-six millions de lieues. La planète grossissait au firmament, et Gallia semblait être attirée vers elle, comme si sa course elliptique se fût changée en chute rectiligne sous l\'influence de Jupiter.
+
+C\'est une considérable planète, en effet, que celle qui menaçait alors de troubler Gallia ! Pierre d\'achoppement, dangereuse en vérité ! On sait, depuis Newton, que l\'attraction entre les corps s\'exerce proportionnellement à leurs masses et en raison inverse du carré de leurs distances.
+
+Or, la masse de Jupiter était bien considérable, et la distance à laquelle en passerait Gallia serait relativement bien réduite !
+
+En effet, le diamètre de ce géant est de trente-cinq mille sept cent quatre-vingt-dix lieues, soit onze fois le diamètre terrestre, et sa circonférence mesure cent douze mille quatre cent quarante lieues. Son volume vaut quatorze cent quatorze fois celui de la terre, c\'est-à-dire qu\'il faudrait quatorze cent quatorze globes terrestres pour égaler sa grosseur. Sa masse est trois cent trente-huit fois plus considérable que celle du sphéroïde terrestre ; autrement dit, il pèse cent trente-huit fois plus, soit près de deux octillions de kilogrammes, -- un nombre composé de vingt-huit chiffres. Si sa densité moyenne, déduite de sa masse et de son volume, n\'équivaut pas au quart de celle de la terre et ne dépasse que d\'un tiers la densité de l\'eau, -- d\'où cette hypothèse que l\'énorme planète est peut-être liquide, au moins à sa surface, -- sa masse n\'en était pas moins troublante pour Gallia.
+
+Il convient d\'ajouter, pour achever la description physique de Jupiter, qu\'il accomplit sa révolution autour du soleil en onze ans dix mois dix-sept jours huit heures et quarante-deux minutes terrestres, -- qu\'il se meut avec une vitesse de treize kilomètres par seconde sur une orbite de douze cent quatorze millions de lieues, -- que sa rotation sur son axe n\'emploie que neuf heures et cinquante-cinq minutes, ce qui réduit singulièrement la durée de ses jours, -- que, par suite, chacun de ses points à l\'équateur se déplace vingt-sept fois plus vite que l\'un des points équatoriaux de la terre, ce qui a donné à chacun de ses pôles une dépression de neuf cent quatre-vingt-quinze lieues, -- que l\'axe de la planète est presque perpendiculaire au plan de son orbite, d\'où cette conséquence que les jours sont égaux aux nuits, et la variation des saisons peu sensible, le soleil restant presque invariablement dans le plan de l\'équateur, -- enfin que l\'intensité de la lumière et de la chaleur reçues par la planète n\'est que le vingt-cinquième de l\'intensité à la surface de la terre, car Jupiter suit une trajectoire elliptique qui le met au minimum à cent quatre-vingt-huit millions de lieues du soleil, et au maximum à deux cent sept millions.
+
+Il reste à parler des quatre lunes qui, tantôt réunies sur le même horizon, tantôt séparées, éclairent magnifiquement les nuits joviennes.
+
+De ces quatre satellites, l\'un se meut autour de Jupiter à une distance presque égale à celle qui sépare la lune de la terre. Un autre est un peu moins gros que l\'astre des nuits. Mais tous accomplissent leur révolution avec une rapidité beaucoup plus grande que la lune, le premier en un jour dix-huit heures vingt-huit minutes, le second en trois jours treize heures quatorze minutes, le troisième en sept jours trois heures quarante-trois minutes, et le quatrième en seize jours seize heures trente-deux minutes. Le plus éloigné circule à une distance de quatre cent soixante-cinq mille cent trente lieues de la surface de la planète.
+
+On sait que c\'est par l\'observation de ces satellites, dont les mouvements sont connus avec une absolue précision, que l\'on a pour la première fois déterminé la vitesse de la lumière. Ils peuvent aussi servir à calculer les longitudes terrestres.
+
+« On peut donc se représenter Jupiter, dit un jour le lieutenant Procope, comme une énorme montre, dont les satellites forment les aiguilles et qui mesure le temps avec une exactitude parfaite.
+
+--- Une montre un peu grosse pour mon gousset ! répondit Ben-Zouf.
+
+--- J\'ajouterai, dit le lieutenant, que si nos montres ont au plus trois aiguilles, celle-là en a quatre\...
+
+--- Prenons garde qu\'elle n\'en ait bientôt une cinquième ! » répliqua le capitaine Servadac en songeant au danger que courait Gallia de se changer en satellite du système jovien.
+
+Comme on le pense bien, ce monde, qui grandissait chaque jour à leurs yeux, était l\'unique objet d\'entretien du capitaine Servadac et de ses compagnons. Ils ne pouvaient en détacher leurs regards, ils ne pouvaient parler d\'autre chose.
+
+Un jour, la conversation porta sur l\'âge que ces diverses planètes, qui circulent autour du soleil, devaient avoir, et le lieutenant Procope ne put mieux répondre qu\'en lisant ce passage des *Récits de l\'infini* de Flammarion, dont il avait la traduction russe :
+
+« Les plus éloignés (de ces astres) sont les plus vénérables et les plus avancés dans la voie du progrès. Neptune, situé à onze cents millions de lieues du soleil, est sorti de la nébuleuse solaire le premier, il y a des milliards de siècles. Uranus, qui gravite à sept cents millions de lieues du centre commun des orbites planétaires, est âgé de plusieurs centaines de millions de siècles. Jupiter, colosse planant à cent quatre-vingt-dix millions de lieues, est âgé de soixante-dix millions de siècles. Mars compte dix fois cent millions d\'années dans son existence ; sa distance au soleil est de cinquante-six millions de lieues. La terre, à trente-sept millions de lieues du soleil, est sortie de son sein brûlant, il y a une centaine de millions d\'années. Il n\'y a peut-être que cinquante millions d\'années que Vénus est sortie du soleil : elle gravite à vingt-six millions de lieues ; et dix millions d\'années seulement que Mercure (distance : quatorze millions) est né de la même origine, tandis que la lune était enfantée par la terre. »
+
+Telle était la théorie nouvelle, ce qui amena cette réflexion du capitaine Servadac, « qu\'à tout prendre, mieux vaudrait être capté par Mercure que par Jupiter.
+
+On servirait alors un maître moins vieux, et probablement moins difficile à contenter ! »
+
+Pendant la dernière quinzaine du mois de septembre, Gallia et Jupiter continuèrent à s\'approcher l\'un de l\'autre. C\'était au 1er de ce mois que la comète avait croisé l\'orbite de la planète, et c\'était au premier jour du mois suivant que les deux astres devaient être à leur plus courte distance. Il n\'y avait pas à craindre un choc direct, puisque les plans des orbites de Jupiter et de Gallia ne coïncidaient pas, mais, cependant, ils étaient faiblement inclinés l\'un à l\'autre. En effet, le plan dans lequel se meut Jupiter ne fait qu\'un angle de 1° 19\'avec l\'écliptique, et l\'on n\'a pas oublié que l\'écliptique et l\'orbite de la comète, depuis la rencontre, étaient projetés dans le même plan.
+
+Pendant ces quinze jours, pour un observateur plus désintéressé que ne l\'étaient les Galliens, Jupiter eût été digne de toute admiration. Son disque, éclairé par les rayons solaires, les réverbérait avec une certaine intensité sur Gallia. Les objets, plus éclairés à sa surface, prenaient des teintes nouvelles. Nérina, elle-même, lorsqu\'elle se trouvait en opposition avec Jupiter, et par conséquent en conjonction avec le soleil, se laissait vaguement apercevoir dans la nuit. Palmyrin Rosette, immuablement installé dans son observatoire, sa lunette braquée sur le merveilleux astre, semblait vouloir pénétrer les derniers mystères du monde jovien. Cette planète, qu\'un astronome terrestre n\'a jamais vue à moins de cent cinquante millions de lieues, allait s\'approcher à treize millions seulement de l\'enthousiaste professeur !
+
+Quant au soleil, de la distance à laquelle Gallia gravitait alors, il n\'apparaissait plus que sous la forme d\'un disque, mesurant cinq minutes quarante-six secondes de diamètre.
+
+Quelques jours avant que Jupiter et Gallia fussent arrivés à leur plus courte distance, les satellites de la planète étaient visibles à l\'oeil nu. On sait que, sans lunette, il est impossible d\'apercevoir de la terre les lunes du monde jovien. Cependant, quelques privilégiés, doués d\'une puissance de vision exceptionnelle, ont vu sans le secours d\'aucun instrument les satellites de Jupiter. Entre autres, les annales scientifiques citent Moestlin, le professeur de Kepler, un chasseur sibérien, au dire de Wrangel, et d\'après Bogulawski, directeur de l\'observatoire de Breslau, un maître tailleur de cette ville. En admettant cette pénétration de vue dont ces mortels étaient doués, ils auraient eu des rivaux nombreux, s\'ils eussent, à cette époque, habité la Terre-Chaude et les alvéoles de Nina-Ruche. Les satellites étaient visibles pour tous les yeux. On pouvait même observer que le premier était d\'un blanc plus ou moins vif, le second légèrement bleuâtre, le troisième d\'une blancheur immaculée, le quatrième tantôt orangé, tantôt rougeâtre. Il faut également ajouter que Jupiter, à cette distance, semblait être entièrement dépourvu de scintillation.
+
+Si Palmyrin Rosette continuait d\'observer la planète en astronome purement désintéressé, ses compagnons, eux, craignaient toujours un retard ou même une attraction qui se fût changée en chute. Les jours s\'écoulaient, cependant, sans justifier ces dernières appréhensions. L\'astre troublant n\'aurait-il donc d\'autre effet que de produire sur Gallia les perturbations indiquées par le calcul ? Si une chute directe n\'était pas à redouter, en raison de l\'impulsion initiale donnée à la comète, cette impulsion suffirait-elle à la maintenir dans les limites de ces perturbations, qui, tout compte fait, devaient lui permettre d\'accomplir en deux ans sa révolution autour du soleil ?
+
+C\'était sans doute ce qu\'observait Palmyrin Rosette, mais il eût été malaisé de lui arracher le secret de ses observations.
+
+Quelquefois Hector Servadac et ses compagnons en causaient.
+
+« Bah ! répondit le capitaine Servadac, si la durée de la révolution gallienne est modifiée, si Gallia éprouve des retards imprévus, mon ex-professeur ne pourra contenir sa satisfaction. Il sera trop heureux de nous narguer, et, sans l\'interroger directement, nous saurons bien à quoi nous en tenir !
+
+--- Dieu veuille, après tout, dit le comte Timascheff, qu\'il n\'ait commis aucune erreur dans ses premiers calculs !
+
+--- Lui, Palmyrin Rosette, commettre une erreur ! répliqua Hector Servadac, cela me paraît invraisemblable. On ne peut lui refuser d\'être un observateur du plus grand mérite. Je crois à l\'exactitude de ses premiers calculs touchant la révolution de Gallia, comme je croirai à l\'exactitude des seconds, s\'il affirme que nous devons renoncer à tout espoir de revenir à la terre.
+
+--- Eh bien, mon capitaine, dit alors Ben-Zouf, voulez-vous que je vous apprenne ce qui me tracasse ?
+
+--- Apprends-nous ce qui te tracasse, Ben-Zouf.
+
+--- Votre savant passe tout son temps dans son observatoire, n\'est-ce pas ? dit l\'ordonnance du ton d\'un homme qui a profondément réfléchi.
+
+--- Oui, sans doute, répondit Hector Servadac.
+
+--- Et, jour et nuit, reprit Ben-Zouf, son infernale lunette est braquée sur ce M. Jupiter qui veut nous avaler ?
+
+--- Oui. Après ?
+
+--- Êtes-vous bien sûr, mon capitaine, que votre ancien professeur ne l\'attire pas peu à peu avec sa maudite lunette ?
+
+--- Ah ! Pour cela, non ! répondit le capitaine Servadac en éclatant de rire.
+
+--- Suffit, mon capitaine, suffit ! dit Ben-Zouf, qui secoua la tête d\'un air peu convaincu.
+
+Cela ne me paraît pas aussi sûr qu\'à vous, et je me tiens à quatre pour\... -- Pour ? demanda Hector Servadac.
+
+--- Pour ne pas lui démolir son instrument de malheur !
+
+--- Briser sa lunette, Ben-Zouf !
+
+--- En mille morceaux !
+
+--- Eh bien, essaie, et je te fais pendre !
+
+--- Oh ! Pendre !
+
+--- Ne suis-je pas gouverneur général de Gallia ?
+
+--- Oui, mon capitaine ! » répondit le brave Ben-Zouf.
+
+Et de fait, s\'il eût été condamné, il se fût mis lui-même la corde au cou, plutôt que de dénier un instant le droit de vie et de mort à « Son Excellence » !
+
+Au 1er octobre, la distance entre Jupiter et Gallia n\'était plus que de dix-huit millions de lieues. La planète se trouvait donc éloignée de la comète cent quatre-vingts fois plus que la lune ne l\'est de la terre dans son plus grand écart. Or, on sait que si Jupiter était ramené à la distance qui sépare la lune de la sphère terrestre, son disque présenterait un diamètre trente-quatre fois aussi grand que celui de la lune, soit, en surface, douze cents fois le disque lunaire. Aux yeux des observateurs de Gallia, il montrait donc alors un disque de grande superficie.
+
+On voyait distinctement les bandes à teintes variées qui le zébraient parallèlement à l\'équateur, bandes grisâtres au nord et au sud, alternativement sombres ou lumineuses aux pôles, en laissant dans une lumière plus intense les bords mêmes de l\'astre. Des taches, fort reconnaissables, altéraient çà et là la pureté de ces bandes transversales et variaient de forme et de grandeur.
+
+Ces bandes et ces taches n\'étaient-elles que le produit des troubles atmosphériques de Jupiter ?
+
+Leur présence, leur nature, leur déplacement devaient-ils s\'expliquer par l\'accumulation de vapeurs, par la formation de nuages emportés sur des courants aériens, qui, semblables aux alizés, se propageaient en sens inverse de la rotation de la planète sur son axe ? C\'est ce que Palmyrin Rosette ne pouvait pas plus affirmer que ses collègues des observatoires terrestres. S\'il revenait à la terre, il n\'aurait même pas eu la consolation d\'avoir surpris l\'un des plus intéressants secrets du monde jovien.
+
+Pendant la seconde semaine d\'octobre, les craintes furent plus vives que jamais. Gallia arrivait en grande vitesse au point dangereux. Le comte Timascheff et le capitaine Servadac, généralement un peu réservés, sinon froids, l\'un vis-à-vis de l\'autre, se sentaient rapprochés par ce danger commun. Ils faisaient un incessant échange de leurs idées. Quand, parfois, ils considéraient la partie comme perdue, le retour à la terre comme impossible, ils se laissaient alors aller à scruter cet avenir qui les attendait dans le monde solaire, peut-être même dans le monde sidéral. Ils se résignaient d\'avance à ce sort. Ils se voyaient transportés dans une humanité nouvelle et s\'inspiraient de cette large philosophie qui, repoussant l\'étroite conception d\'un monde fait uniquement pour l\'homme, embrasse toute l\'étendue d\'un univers habité.
+
+Mais, au fond, lorsqu\'ils regardaient bien en eux-mêmes, ils sentaient que tout espoir ne pouvait les abandonner, et qu\'ils ne renonceraient pas à revoir la terre, tant qu\'elle apparaîtrait sur l\'horizon de Gallia, au milieu des milliers d\'étoiles du firmament. D\'ailleurs, s\'ils échappaient aux dangers causés par le voisinage de Jupiter -- le lieutenant Procope le leur avait souvent répété -- Gallia n\'aurait plus rien à craindre, ni de Saturne, trop éloigné, ni de Mars, dont elle recouperait l\'orbite en revenant vers le soleil. Aussi, quelle hâte ils avaient tous d\'avoir, comme Guillaume Tell, « franchi le funeste passage » !
+
+Au 15 octobre, les deux astres se trouvaient l\'un de l\'autre au plus court intervalle qui dût les séparer, s\'il ne se produisait pas de perturbations nouvelles. La distance n\'était que de treize millions de lieues. Alors, ou l\'influence attractive de Jupiter l\'emporterait, ou Gallia continuerait à suivre son orbite sans éprouver d\'autres retards que ceux qui avaient été calculés\...
+
+Gallia passa.
+
+Et on le vit bien, le lendemain, à l\'épouvantable mauvaise humeur de Palmyrin Rosette. S\'il triomphait comme calculateur, il était vaincu comme chercheur d\'aventures ! lui qui aurait dû être le plus satisfait des astronomes, il était le plus malheureux des Galliens !
+
+Gallia, suivant son immuable trajectoire, continuait de graviter autour du soleil et, conséquemment, à marcher vers la terre.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- Dans lequel il sera nettement établi qu\'il vaut mieux trafiquer sur la terre que sur Gallia]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941620 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10-dans-lequel-il-sera-nettement-établi-quil-vaut-mieux-trafiquer-sur-la-terre-que-sur-gallia .calibre171 .sigil_not_in_toc}
+
+« Mordioux ! Je crois que nous l\'avons échappé belle ! » s\'écria le capitaine Servadac, lorsque le désappointement du professeur lui eut démontré que tout péril s\'était évanoui.
+
+Puis, s\'adressant à ses compagnons, non moins satisfaits que lui-même :
+
+« Qu\'est-ce que nous aurons fait, en somme ? Un simple voyage dans le monde solaire, un voyage de deux ans ! Mais on en fait sur terre qui durent davantage ! Donc, jusqu\'ici, nous n\'avons pas à nous plaindre, et, puisque tout marchera convenablement désormais, avant quinze mois nous aurons réintégré notre sphéroïde habituel.
+
+--- Et revu Montmartre », ajouta Ben-Zouf.
+
+En vérité, il était heureux que les Galliens eussent « paré cet abordage », comme eût dit un marin. En effet, même en admettant que, sous l\'influence de Jupiter, la comète n\'eût subi qu\'un retard d\'une heure, la terre se fût trouvée à près de cent mille lieues du point précis où elle devait la rencontrer. Dans quel laps de temps ces conditions se seraient-elles représentées de nouveau ? Des siècles, des millénaires, ne se seraient-ils pas écoulés avant qu\'une seconde rencontre eût été possible ? Oui, sans doute. En outre, si Jupiter eût perturbé Gallia au point de changer ou le plan ou la forme de son orbite, c\'était à jamais peut-être qu\'elle eût continué de graviter, soit dans le monde solaire, soit dans les espaces sidéraux.
+
+Au 1er novembre, la distance qui séparait Jupiter et Gallia se mesurait par dix-sept millions de lieues. Dans deux mois et demi, la comète passerait à son aphélie, c\'est-à-dire à sa plus grande distance du soleil, et, à partir de ce point, elle tendrait à s\'en rapprocher.
+
+Les propriétés lumineuses et calorifiques de l\'astre radieux semblaient singulièrement affaiblies alors.
+
+Un demi-jour seulement éclairait les objets à la surface de la comète. La lumière et la chaleur n\'y étaient plus qu\'un vingt-cinquième de celles que le soleil envoyait à la terre. Mais l\'astre attractif était toujours là. Gallia n\'avait pas cessé d\'être soumise à sa puissance. On s\'en rapprocherait bientôt. On irait reprendre la vie en revenant vers ce centre flamboyant, dont la température n\'est pas estimée à moins de cinq millions de degrés. Cette perspective prochaine eût ranimé les Galliens au moral et au physique, -- s\'ils eussent jamais été hommes à faiblir.
+
+Et Isac Hakhabut ? -- L\'égoïste avait-il connu les appréhensions que le capitaine Servadac et ses compagnons avaient subies pendant ces deux derniers mois ?
+
+Non, en aucune manière. Isac Hakhabut n\'avait pas quitté la *Hansa* depuis l\'emprunt qui s\'était fait à son grand profit. Le lendemain même du jour où les opérations du professeur avaient été terminées, Ben-Zouf s\'était empressé de lui rapporter sa monnaie d\'argent et son peson. Le prix de location et l\'intérêt se trouvaient déjà entre ses mains. Il n\'avait eu qu\'à rendre les roubles-papier qui lui servaient de nantissement, et ses relations avec les habitants de Nina-Ruche s\'étaient terminées de la sorte.
+
+Mais, en même temps, Ben-Zouf lui avait appris que tout le sol de Gallia était composé de bon or, -- sans aucune valeur il est vrai, et qui, vu son abondance, n\'en aurait pas davantage, lorsqu\'il serait tombé sur la terre. Isac avait naturellement pensé que Ben-Zouf se moquait de lui. Il n\'avait pas ajouté foi à ces histoires, et plus que jamais il songeait à soutirer toute la substance monétaire de la colonie gallienne.
+
+Donc, Nina-Ruche n\'avait pas été honorée une seule fois de la visite du bon Hakhabut.
+
+« Et c\'est étonnant, faisait quelquefois observer Ben-Zouf, comme on s\'habitue facilement à ne jamais le voir ! »
+
+Or, à cette époque, Isac Hakhabut songea à renouer ses relations avec les Galliens. C\'est que son intérêt l\'exigeait. D\'une part, certains stocks de ses marchandises commençaient à s\'avarier. De l\'autre, il était important pour lui qu\'elles fussent échangées contre argent avant que la comète eût rejoint la terre. En effet, ces marchandises, revenues au globe terrestre, n\'auraient plus qu\'une valeur ordinaire. Sur le marché gallien, au contraire, elles devaient atteindre de hauts prix, vu leur rareté et vu l\'obligation, -- Isac le savait bien, -- où chacun allait être de s\'adresser à lui.
+
+Précisément, vers cette époque, différents articles de première nécessité, huile, café, sucre, tabac, etc., allaient manquer au magasin général. Ben-Zouf l\'avait fait observer à son capitaine. Celui-ci, fidèle à la règle de conduite qu\'il s\'était imposée vis-à-vis d\'Isac Hakhabut, prit la résolution de réquisitionner les marchandises de la *Hansa*, -- moyennant finances.
+
+Cette concordance d\'idées entre le vendeur et les acheteurs devait donc amener Isac à reprendre et même à établir des relations suivies avec les habitants de la Terre-Chaude. Grâce à ses marchés, qui se feraient nécessairement en hausse, Isac Hakhabut espérait bien avoir avant peu accaparé tout l\'or et tout l\'argent de la colonie.
+
+« Seulement, se disait-il en méditant dans son étroite cabine, la valeur de ma cargaison est supérieure à celle de l\'argent dont ces gens-là peuvent disposer. Or, quand j\'aurai tout dans mon coffre, comment pourront-ils m\'acheter le restant de mes marchandises ? »
+
+Cette éventualité ne laissait pas d\'inquiéter le digne homme.
+
+Toutefois il se souvint fort à propos qu\'il n\'était pas seulement commerçant, mais aussi prêteur, ou, pour dire le mot, usurier. Ne pouvait-il donc continuer sur Gallia ce lucratif métier qui lui réussissait si bien sur la terre ? La dernière opération qu\'il eût faite en ce genre était bien pour l\'allécher.
+
+Or, Isac Hakhabut -- esprit logique -- fut amené peu à peu à faire le raisonnement suivant :
+
+« Lorsque ces gens-là n\'auront plus d\'argent, j\'aurai encore des marchandises, puisqu\'elles se seront toujours tenues à de hauts prix. Qui m\'empêchera de leur prêter alors, j\'entends à ceux dont la signature me semblera bonne ? Eh ! Eh ! Pour avoir été signés sur Gallia, ces billets n\'en seront pas moins bons sur la terre ! S\'ils ne sont pas payés à l\'échéance, je les ferai protester, et les huissiers iront de l\'avant. L\'Éternel ne défend pas aux hommes de faire valoir leur bien. Au contraire. Il y a là un capitaine Servadac et surtout un comte Timascheff qui me paraissent solvables et qui ne regarderont pas au taux de l\'intérêt. Ah ! Je ne suis pas fâché de prêter à ces gens-là quelque argent remboursable dans le vrai monde ! »
+
+Sans le savoir, Isac Hakhabut allait imiter un procédé que les Gaulois employaient jadis. Ils prêtaient sur billets payables en l\'autre vie. Pour eux, il est vrai, l\'autre vie, c\'était celle de l\'éternité. Pour Isac, c\'était la vie terrestre, à laquelle, avant quinze mois, la chance, bonne pour lui, mauvaise pour ses débiteurs, allait probablement le rendre.
+
+En conséquence de tout ce qui vient d\'être dit, de même que la terre et Gallia marchaient irrésistiblement l\'une vers l\'autre, de même Isac Hakhabut allait faire un pas vers le capitaine Servadac, qui se dirigeait, lui, vers le propriétaire de la tartane.
+
+La rencontre eut lieu pendant la journée du 15 novembre, dans la cabine de la *Hansa*.
+
+Le prudent négociant s\'était bien gardé d\'offrir, puisqu\'il savait qu\'on viendrait demander.
+
+« Maître Isac, dit le capitaine Servadac, qui entra en matière sans préambule ni finasseries d\'aucune sorte, nous avons besoin de café, de tabac, d\'huile et autres articles dont la *Hansa* est approvisionnée. Demain, Ben-Zouf et moi, nous viendrons acheter ce dont nous avons besoin.
+
+--- Miséricorde ! s\'écria Isac, auquel cette exclamation échappait toujours, qu\'elle fût justifiée ou non.
+
+--- J\'ai dit, reprit le capitaine Servadac, que nous viendrions « acheter », vous entendez ? Acheter, j\'imagine, c\'est prendre livraison d\'une marchandise contre un prix convenu. Par conséquent, vous n\'avez que faire de commencer vos jérémiades.
+
+--- Ah ! Monsieur le gouverneur, répondit Isac, dont la voix tremblotait comme celle d\'un pauvre diable qui demande l\'aumône, j\'entends bien ! Je sais que vous ne laisseriez pas dépouiller un malheureux commerçant dont toute la fortune est si compromise !
+
+--- Elle n\'est aucunement compromise, Isac, et je vous répète qu\'on ne vous prendra rien sans payer.
+
+--- Sans payer\... Comptant ?
+
+--- Comptant.
+
+--- Vous comprenez, monsieur le gouverneur, reprit Isac Hakhabut, qu\'il me serait impossible de faire crédit\... »
+
+Le capitaine Servadac, suivant son habitude et pour étudier ce type sous toutes ses faces, le laissait dire. Ce que voyant, l\'autre continua de plus belle :
+
+« Je crois\... Oui\... Je pense\... Qu\'il y a à la Terre-Chaude des personnes très honorables\... J\'entends très solvables\... Monsieur le comte Timascheff\... Monsieur le gouverneur lui-même\... »
+
+Hector Servadac eut un instant l\'envie de le payer d\'un coup de pied quelque part.
+
+« Mais vous comprenez\... reprit doucereusement Isac Hakhabut, si je faisais crédit à l\'un, je serais fort embarrassé\... Pour refuser à l\'autre. Cela amènerait des scènes fâcheuses\... Et je pense qu\'il vaut mieux\... Ne faire crédit à personne.
+
+--- C\'est mon avis, répondit Hector Servadac.
+
+--- Ah ! reprit Isac, je suis tout à fait réjoui à la pensée que monsieur le gouverneur partage ma manière de voir. C\'est là entendre le commerce comme il doit être entendu. Oserai-je demander à monsieur le gouverneur en quelle monnaie se feront les payements ?
+
+--- En or, en argent, en cuivre, et, cette monnaie une fois épuisée, en billets de banque\...
+
+--- En papier ! s\'écria Isac Hakhabut. Voilà bien ce que je redoutais !
+
+--- Vous n\'avez donc pas confiance dans les Banques de France, d\'Angleterre et de Russie ?
+
+--- Ah ! Monsieur le gouverneur ! Il n\'y a qu\'un bon métal d\'or et d\'argent\... Qui ait une véritable valeur !
+
+--- Aussi, répondit le capitaine Servadac, qui se montrait tout à fait aimable, aussi vous ai-je dit, maître Isac, que vous seriez tout d\'abord payé en or et en argent ayant cours sur la terre.
+
+--- En or ! En or ! s\'écria vivement Isac. C\'est encore la monnaie par excellence !
+
+--- Oui, en or surtout, maître Isac, car c\'est précisément l\'or qui est le plus abondant sur Gallia, l\'or russe, l\'or anglais, l\'or français.
+
+--- Oh ! Les bons ors ! » murmura Isac, que sa cupidité poussait à mettre « au pluriel » ce substantif, si apprécié dans tous les mondes !
+
+Le capitaine Servadac allait se retirer.
+
+« C\'est donc convenu, maître Isac, dit-il, à demain. »
+
+Isac Hakhabut alla vers lui.
+
+« Monsieur le gouverneur, dit-il, me permettra-t-il de lui poser encore une dernière question ?
+
+--- Posez.
+
+--- Je serai libre, n\'est-ce pas, d\'assigner\... À mes marchandises\... Le prix qui me conviendra ?
+
+--- Maître Hakhabut, répondit tranquillement le capitaine Servadac, ce serait mon droit de vous imposer un maximum, mais je répugne à ces procédés révolutionnaires. Vous assignerez à vos marchandises les prix habituels aux marchés européens, et pas d\'autres.
+
+--- Miséricorde ! Monsieur le gouverneur ! s\'écria Isac, touché à son endroit sensible, mais c\'est me priver d\'un bénéfice légitime ! C\'est contraire à toutes les règles commerciales\... J\'ai le droit de faire la loi sur le marché, puisque je détiens toutes les marchandises ! En bonne justice, vous ne pouvez vous y opposer, monsieur le gouverneur ! C\'est véritablement me dépouiller de mon bien !
+
+--- Les prix d\'Europe, répondit simplement le capitaine Servadac. -- Comment ! Voilà une situation à exploiter\...
+
+--- C\'est précisément ce que je veux vous empêcher de faire !
+
+--- Jamais pareille occasion ne se représentera\...
+
+--- D\'écorcher vos semblables, maître Isac. Eh bien, j\'en suis fâché pour vous\... Mais n\'oubliez pas que, dans l\'intérêt commun, j\'aurais le droit de disposer de vos marchandises\...
+
+--- Disposer de ce qui m\'appartient légitimement aux yeux de l\'Éternel !
+
+--- Oui\... Maître Isac\... répondit le capitaine, mais je perdrais mon temps à vouloir vous faire comprendre cette vérité si simple ! Prenez donc le parti de m\'obéir, et tenez-vous pour satisfait de vendre à un prix quelconque, lorsqu\'on pourrait vous obliger à donner. »
+
+Isac Hakhabut allait recommencer ses lamentations ; mais le capitaine Servadac y coupa court en se retirant sur ces derniers mots :
+
+« Les prix d\'Europe, maître Isac, les prix d\'Europe ! »
+
+Isac passa le reste du jour à invectiver le gouverneur et toute la colonie gallienne, qui prétendaient lui imposer « le maximum », comme aux mauvais temps des révolutions. Et il ne sembla se consoler dans une certaine mesure qu\'après avoir fait cette réflexion, à laquelle il attachait évidemment un sens particulier :
+
+« Allez, allez, gens de mauvaise race ! On les subira vos prix d\'Europe ! Mais j\'y gagnerai encore plus que vous ne pensez ! »
+
+Le lendemain, 16 novembre, le capitaine Servadac, qui voulait surveiller l\'exécution de ses ordres, Ben-Zouf et deux matelots russes, se rendirent à la tartane, dès le lever du jour.
+
+« Eh bien, Éléazar, s\'écria tout d\'abord Ben-Zouf, comment cela va-t-il, vieux coquin ?
+
+--- Vous êtes bien bon, monsieur Ben-Zouf, répondit Isac.
+
+--- Nous venons donc faire avec toi un petit trafic de bonne amitié ? -- Oui\... De bonne amitié\... Mais en payant\...
+
+--- Aux prix d\'Europe, se contenta d\'ajouter le capitaine Servadac.
+
+--- Bon ! Bon ! reprit Ben-Zouf. Tu n\'attendras pas longtemps après ton décompte !
+
+--- Que vous faut-il ? demanda Isac Hakhabut.
+
+--- Pour aujourd\'hui, répondit Ben-Zouf, il nous faut du café, du tabac et du sucre, une dizaine de kilos de chacun de ces articles. Mais fais attention à nous servir en bonne qualité, ou gare à tes vieux os ! Je m\'y connais, étant aujourd\'hui caporal d\'ordinaire !
+
+--- Je vous croyais l\'aide de camp de monsieur le gouverneur général ? dit Isac.
+
+--- Oui, Caïphe, dans les grandes cérémonies, mais caporal, quand il s\'agit d\'aller au marché. Allons, ne perdons pas notre temps !
+
+--- Vous dites, monsieur Ben-Zouf, dix kilos de café, dix kilos de sucre et dix kilos de tabac ? »
+
+Et là-dessus, Isac Hakhabut quitta sa cabine, descendit dans la cale de la *Hansa* et en revint bientôt, apportant d\'abord dix paquets de tabac de la régie de France, parfaitement entourés des bandes au timbre de l\'État, et pesant chacun un kilogramme.
+
+« Voilà dix kilogrammes de tabac, dit-il. À douze francs le kilogramme, cela fait cent vingt francs ! »
+
+Ben-Zouf allait payer le prix régulier, lorsque le capitaine Servadac, l\'arrêtant, dit :
+
+« Un instant, Ben-Zouf. Il faut voir si les poids sont exacts.
+
+--- Vous avez raison, mon capitaine.
+
+--- À quoi bon ? répondit Isac Hakhabut. Vous voyez que l\'enveloppe de ces paquets est intacte, et que le poids est indiqué sur les bandes.
+
+--- N\'importe, maître Isac ! répondit le capitaine Servadac, d\'un ton qui n\'admettait pas de réplique.
+
+--- Allons, vieux, prends ton peson ! » dit Ben-Zouf.
+
+Isac alla chercher le peson, et il suspendit au crochet un paquet de tabac d\'un kilogramme.
+
+« Mein Gott ! » s\'écria-t-il tout d\'un coup.
+
+Et, en vérité, il y avait de quoi provoquer cette subite exclamation de sa part.
+
+En vertu de la faiblesse de la pesanteur à la surface de Gallia, l\'aiguille du peson ne marquait que cent trente-trois grammes pour le paquet pesant un kilogramme terrestre.
+
+« Eh bien, maître Isac, répondit le capitaine, qui gardait imperturbablement son sérieux, vous voyez bien que j\'avais raison en vous obligeant à peser ce paquet ?
+
+--- Mais, monsieur le gouverneur\...
+
+--- Ajoutez ce qu\'il faut de tabac pour parfaire un kilogramme.
+
+--- Mais, monsieur le gouverneur\...
+
+--- Allons, ajoute ! dit [Ben-Zouf.]{lang="NL" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+[--- Mais, monsieur Ben-Zouf ! »]{lang="NL" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Et le malheureux Isac ne sortait pas de là ! Il avait bien compris ce phénomène de moindre attraction. Il voyait bien que tous « ces mécréants » allaient se rattraper, par la diminution du poids, du prix qu\'il obligeait ses acheteurs à lui payer. Ah ! S\'il avait eu des balances ordinaires, cela ne serait pas arrivé, ainsi que cela a été expliqué déjà dans une autre circonstance. Mais il n\'en avait pas.
+
+Il essaya de réclamer encore, d\'attendrir le capitaine Servadac. Celui-ci paraissait vouloir rester inflexible. Ce n\'était ni sa faute ni celle de ses compagnons ; mais il avait la prétention que l\'aiguille du peson indiquât un kilogramme, quand il payait un kilogramme.
+
+Isac Hakhabut dut donc s\'exécuter, non sans mêler ses gémissements aux éclats de rire de Ben-Zouf et des matelots russes.
+
+
+« Va donc, Harpagon ! lui répétait Ben-Zouf, qui tenait lui-même le peson. Aimes-tu mieux que nous prenions sans payer ? »
+
+L\'opération se termina enfin. Isac Hakhabut avait fourni soixante-dix kilogrammes de tabac, autant de café et de sucre, et il n\'avait reçu pour chaque article que le prix de dix kilogrammes.
+
+Après tout, comme dit Ben-Zouf, « c\'était la faute à Gallia ! Pourquoi maître Isac était-il venu trafiquer sur Gallia ? »
+
+Mais alors, le capitaine Servadac, qui n\'avait voulu que s\'amuser d\'Isac, et mû par le sentiment de justice qu\'il avait toujours gardé vis-à-vis de lui, fit établir la balance exacte entre les prix et les poids. De telle sorte que, pour soixante-dix kilogrammes, Isac Hakhabut reçut exactement le prix de soixante-dix kilogrammes.
+
+On conviendra, cependant, que la situation faite au capitaine Servadac et à ses compagnons aurait bien excusé cette manière un peu fantaisiste de traiter une opération commerciale.
+
+D\'ailleurs, comme en d\'autres circonstances, Hector Servadac crut comprendre qu\'Isac se faisait plus malheureux qu\'il ne l\'était réellement. Il y avait dans ses gémissements, dans ses récriminations quelque chose de louche. Cela se sentait.
+
+Quoi qu\'il en soit, tous quittèrent la *Hansa*, et Isac Hakhabut put entendre retentir au loin ce refrain militaire du joyeux Ben-Zouf :
+
+
+J\'aime le son
+
+Du clairon,
+
+Du tambour, de la trompette,
+
+Et ma joie est complète
+
+Quand j\'entends résonner le canon !
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11 -- Dans lequel le monde savant de Gallia se lance, en idée, au milieu des infinis de l\'espace]{.pcalibre lang="X-NONE"}]{#_Toc342941621 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11-dans-lequel-le-monde-savant-de-gallia-se-lance-en-idée-au-milieu-des-infinis-de-lespace .calibre171 .sigil_not_in_toc}
+
+Un mois s\'écoula. Gallia continuait à graviter, emportant son petit monde avec elle. Petit monde, en effet, mais peu accessible jusqu\'alors à l\'influence des passions humaines ! La cupidité, l\'égoïsme n\'y étaient représentés que par Hakhabut, ce triste échantillon de la race humaine, et c\'était la seule tache que l\'on pût relever à ce microcosme séparé de l\'humanité.
+
+Après tout, ces Galliens ne devaient se considérer que comme des passagers, faisant un voyage de circumnavigation dans le monde solaire. De là, cette pensée de s\'installer à bord aussi confortablement que possible, mais temporairement. Ce tour du monde achevé, après deux ans d\'absence, leur navire accosterait l\'ancien sphéroïde, et si les calculs du professeur étaient d\'une absolue justesse -- mais il fallait qu\'ils le fussent -- ils quitteraient la comète pour remettre le pied sur les continents terrestres.
+
+Il est vrai que l\'arrivée du navire Gallia à la terre, « son port d\'attache », ne s\'opérerait sans doute qu\'au prix de difficultés extrêmes, de dangers vraiment terribles. Mais c\'était une question à traiter plus tard et qui viendrait en son temps.
+
+Le comte Timascheff, le capitaine Servadac, le lieutenant Procope se croyaient donc à peu près assurés de revoir leurs semblables dans un délai relativement court. Ils n\'avaient donc point à se préoccuper d\'amasser des réserves pour l\'avenir, d\'utiliser pour la saison chaude les portions fertiles de l\'île Gourbi, de conserver les diverses espèces d\'animaux, quadrupèdes et volatiles, qu\'ils destinaient dans le principe à reconstituer le règne animal sur Gallia.
+
+Mais que de fois, en causant, ils parlèrent de ce qu\'ils auraient tenté pour rendre leur astéroïde habitable, s\'il leur eût été impossible de le quitter un jour ! Que de projets à exécuter, que de travaux à accomplir pour assurer cette existence d\'un petit groupe d\'êtres, qu\'un hiver de plus de vingt mois rendait si précaire !
+
+C\'était au 15 janvier prochain que la comète devait atteindre l\'extrémité de son grand axe, c\'est-à-dire son aphélie. Ce point dépassé, sa trajectoire la ramènerait vers le soleil avec une vitesse croissante. Neuf à dix mois s\'écouleraient encore avant que la chaleur solaire eût rendu la mer libre et la terre féconde. Alors, c\'eût été l\'époque à laquelle la *Dobryna* et la *Hansa* auraient transporté hommes et animaux à l\'île Gourbi. Les terres auraient été rapidement mises en état pour cette saison si courte, mais si chaude de l\'été gallien. Semé en temps opportun, ce sol aurait produit en quelques mois les fourrages et céréales nécessaires à l\'alimentation de tous. La fenaison, la moisson eussent été faites avant le retour de l\'hiver. On aurait vécu sur l\'île de la vie, large et saine, des chasseurs et des agriculteurs. Puis, l\'hiver revenu, on aurait repris cette existence de troglodytes dans les alvéoles du mont ignivome. Les abeilles auraient essaimé vers Nina-Ruche pour y passer la dure et longue saison froide.
+
+Oui, les colons seraient ainsi rentrés à leur chaude demeure ! Toutefois, n\'auraient-ils pas tenté quelque lointaine exploration pour découvrir une mine de combustible, un gisement de charbon aisément exploitable ? N\'auraient-ils pas cherché à se construire, sur l\'île Gourbi même, une habitation plus confortable, plus appropriée aux besoins de la colonie et aux conditions climatériques de Gallia ?
+
+Ils l\'eussent fait, certainement. Ils auraient essayé, du moins, afin d\'échapper à cette longue séquestration dans les cavernes de la Terre-Chaude, -- séquestration plus regrettable encore au point de vue moral qu\'au point de vue physique.
+
+Il fallait être un Palmyrin Rosette, un original absorbé dans ses chiffres, pour n\'en pas sentir les graves inconvénients, pour vouloir demeurer sur Gallia dans ces conditions ad infinitum !
+
+D\'ailleurs, une éventualité terrible menaçait toujours les habitants de la Terre-Chaude. Pouvait-on affirmer qu\'elle ne se présenterait pas dans l\'avenir ? Pouvait-on même assurer qu\'elle ne se produirait pas avant que le soleil eût restitué à la comète cette chaleur que son habitabilité exigeait ? La question était grave, et fut plus d\'une fois traitée pour le présent, et non pour un avenir auquel les Galliens espéraient échapper par leur retour à la terre.
+
+En effet, ne pouvait-il arriver que ce volcan qui chauffait toute la Terre-Chaude ne vînt à s\'éteindre ? Les feux intérieurs de Gallia n\'étaient-ils pas épuisables ? L\'éruption finie, que deviendraient les habitants de Nina-Ruche ? Devraient-ils donc s\'enfoncer jusque dans les entrailles de la comète pour y trouver une température supportable ? Et là, leur serait-il même possible de braver les froids de l\'espace ?
+
+Évidemment, dans un avenir aussi lointain qu\'on voudra le supposer, le sort de Gallia devait être celui qui semble réservé à tous les mondes de l\'univers. Ses feux internes s\'éteindraient. Elle deviendrait un astre mort, comme l\'est maintenant la lune, comme le sera la terre. Mais cet avenir n\'était plus maintenant pour préoccuper les Galliens -- ils le croyaient du moins -- et ils comptaient avoir quitté Gallia bien avant qu\'elle fût devenue inhabitable.
+
+Toutefois, l\'éruption pouvait cesser d\'un moment à l\'autre, comme il arrive aux volcans terrestres, avant même que la comète se fût suffisamment rapprochée du soleil.
+
+Et, dans ce cas, où prendre cette lave qui distribuait si utilement la chaleur jusque dans les profondeurs du massif ? Quel combustible fournirait assez de calorique pour rendre à cette demeure la température moyenne qui devait permettre d\'y supporter impunément des froids de soixante degrés au-dessous de zéro ?
+
+Telle était cette grave question. Heureusement, aucune modification ne s\'était jusqu\'alors manifestée dans l\'épanchement des matières éruptives. Le volcan fonctionnait avec une régularité et, on l\'a dit, un calme de bon augure. Donc, à cet égard, il n\'y avait à s\'inquiéter ni de l\'avenir, ni même du présent. C\'était l\'opinion du capitaine Servadac, toujours confiant d\'ailleurs.
+
+Au 15 décembre, Gallia se trouvait à deux cent seize millions de lieues du soleil, presque à l\'extrémité du grand axe de son orbite. Elle ne gravitait plus qu\'avec une vitesse mensuelle de onze à douze millions de lieues.
+
+Un monde nouveau s\'offrait alors aux regards des Galliens, et plus particulièrement à ceux de Palmyrin Rosette. Après avoir observé Jupiter de plus près que jamais humain ne l\'eût fait avant lui, le professeur se concentrait maintenant dans la contemplation de Saturne.
+
+Toutefois, les circonstances de proximité n\'étaient pas les mêmes. Treize millions de lieues seulement avaient séparé la comète du monde jovien, cent soixante-treize millions de lieues la sépareraient de la curieuse planète. Donc, pas de retards à craindre de ce chef, autres que ceux qui avaient été calculés, et, par conséquent, rien de grave à redouter.
+
+Quoi qu\'il en soit, Palmyrin Rosette allait pouvoir observer Saturne comme si, étant sur la terre, la planète se fût rapprochée de lui du demi-diamètre de son orbite.
+
+Il était inutile de lui demander quelques détails sur Saturne. L\'ex-professeur n\'éprouvait plus le besoin de professer. On ne l\'eût pas aisément fait quitter son observatoire, et il semblait que l\'oculaire de sa lunette fût, nuit et jour, vissé à ses yeux.
+
+Très heureusement, la bibliothèque de la *Dobryna* comptait quelques livres de cosmographie élémentaire, et, grâce au lieutenant Procope, ceux des Galliens que ces questions astronomiques intéressaient purent apprendre ce qu\'était le monde de Saturne.
+
+Tout d\'abord, Ben-Zouf eut lieu d\'être satisfait, quand on lui dit que si Gallia s\'était éloignée du soleil à la distance où gravitait Saturne, il n\'aurait plus aperçu la terre à l\'oeil nu. Or, on sait que l\'ordonnance tenait particulièrement à ce que son globe terrestre fût toujours visible à ses yeux. « Tant qu\'on voit la terre, rien de perdu », répétait-il.
+
+Et de fait, à la distance qui sépare Saturne du soleil, la terre eût été invisible, même aux meilleurs yeux.
+
+Saturne, à cette époque, flottait dans l\'espace à cent soixante-quinze millions de lieues de Gallia et, par conséquent, à trois cent soixante-quatre millions trois cent cinquante mille lieues du soleil. À cette distance, il ne recevait au plus que le centième de la lumière et de la chaleur que l\'astre radieux envoyait à la terre.
+
+Livre en main, on apprit que Saturne opère sa révolution autour du soleil en vingt-neuf ans et cent soixante-sept jours, parcourant, avec une vitesse de huit mille huit cent cinquante-huit lieues par heure, une orbite de deux milliards deux cent quatre-vingt-sept millions cinq cent mille lieues, « toujours en négligeant les centimes », comme disait Ben-Zouf.
+
+La circonférence de cette planète mesure à l\'équateur quatre-vingt-dix mille trois cent quatre-vingts lieues. Sa surface est de quarante milliards de kilomètres carrés, son volume de six cent soixante-six milliards de kilomètres cubes. En somme, Saturne est sept cent trente-cinq fois gros comme la terre, conséquemment plus petit que Jupiter. Quant à la masse de la planète, elle n\'est que cent fois plus grande que celle du globe terrestre, ce qui lui assigne une densité moins forte que celle de l\'eau. Elle tourne sur son axe en dix heures vingt-neuf minutes, ce qui compose son année de vingt-quatre mille six cent trente jours, et ses saisons, vu l\'inclinaison considérable de l\'axe sur le plan de l\'orbite, durent sept ans terrestres chacune.
+
+Mais ce qui doit donner aux Saturniens -- s\'il y en a -- des nuits splendides, ce sont les huit lunes qui escortent leur planète. Elles ont des noms très mythologiques, Midas, Encelade, Téthys, Dione, Rhéa, Titan, Hyperion, Japet. Si la révolution de Midas ne dure que vingt-deux heures et demie, celle de Japet est de soixante-dix-neuf jours. Si Japet gravite à neuf cent dix mille lieues de la surface de Saturne, Midas circule à trente-quatre mille lieues seulement, presque trois fois plus près que la lune ne tourne autour de la terre. Elles doivent être splendides, ces nuits, bien que l\'intensité de la lumière émanée du soleil soit relativement faible.
+
+Ce qui rend plus belles encore les nuits de cette planète, c\'est incontestablement le triple anneau qui s\'enroule autour d\'elle. Saturne semble être enchâssé dans une brillante monture. Un observateur, placé exactement sous cet anneau, qui passe alors par son zénith à cinq mille cent soixante-cinq lieues au-dessus de sa tête, n\'aperçoit qu\'une étroite bande, dont Herschell n\'évalue la largeur qu\'à cent lieues.
+
+C\'est donc comme un fil lumineux qui serait tendu sur l\'espace. Mais que l\'observateur s\'écarte de part ou d\'autre, il voit alors trois anneaux concentriques se détacher peu à peu les uns des autres, le plus rapproché, obscur et diaphane, large de trois mille cent vingt-six lieues, l\'anneau intermédiaire, large de sept mille trois cent quatre-vingt-huit lieues et plus brillant encore que la planète elle-même, enfin l\'anneau extérieur, large de trois mille six cent soixante-dix-huit lieues et présentant aux regards une teinte grisâtre.
+
+Tel est l\'ensemble de cet appendice annulaire, qui se meut dans son propre plan en dix heures trente-deux minutes. De quelle matière est formé cet appendice, comment résiste-t-il à la désagrégation ? Nul ne le sait ; mais, en le laissant subsister, il semble que le Créateur ait voulu apprendre aux humains de quelle manière se sont peu à peu formés les corps célestes. En effet, cet appendice est le reste de la nébuleuse qui, après s\'être concentrée peu à peu, est devenue Saturne. Pour une raison inconnue, il s\'est probablement solidifié lui-même, et, s\'il venait à se briser, ou il tomberait en morceaux sur Saturne, ou ses morceaux feraient à la planète autant de nouveaux satellites.
+
+Quoi qu\'il en soit, pour les Saturniens habitant leur sphéroïde entre les quarante-cinquièmes degrés de latitude et l\'équateur, ce triple anneau doit donner naissance aux phénomènes les plus curieux. Tantôt, il se dessine sur l\'horizon comme une arche immense, rompue à sa clef de voûte par l\'ombre que Saturne projette dans l\'espace ; tantôt il apparaît dans son entier comme une demi-auréole. Très fréquemment, cet appendice éclipse le soleil, qui paraît et reparaît dans des temps mathématiques, à la grande joie, sans doute, des astronomes saturniens.
+
+Et si l\'on ajoute à ce phénomène le lever, le coucher des huit lunes, les unes pleines, les autres en quadrature, ici des disques argentés, là des croissants aigus, l\'aspect du ciel de Saturne, pendant la nuit, doit offrir un incomparable spectacle.
+
+Les Galliens n\'étaient pas à même d\'observer toutes les magnificences de ce monde. Ils en étaient trop éloignés. Les astronomes terrestres, armés de leurs lunettes, s\'en rapprochent mille fois plus, et les livres de la *Dobryna* en apprirent plus au capitaine Servadac et à ses compagnons que leurs propres yeux. Mais ils ne s\'en plaignaient pas, -- le voisinage de ces grands astres constituant des dangers trop graves pour leur infime comète !
+
+Ils ne pouvaient pénétrer davantage dans le monde plus lointain d\'Uranus ; mais, on l\'a déjà mentionné, la planète principale de ce monde, quatre-vingt-deux fois grosse comme la terre, dont elle n\'est visible que comme une étoile de sixième grandeur à sa plus courte distance, apparaissait alors très distinctement à l\'oeil nu. Toutefois, on ne voyait aucun de ces huit satellites qu\'elle entraîne avec elle sur son orbe elliptique, qu\'elle emploie quatre-vingt-quatre ans à décrire et qui l\'éloigne en moyenne à sept cent vingt-neuf millions de lieues du soleil.
+
+Quant à la dernière planète du système solaire -- la dernière jusqu\'au moment où quelque Le Verrier de l\'avenir en découvrira une autre plus éloignée encore -- les Galliens ne pouvaient l\'apercevoir. Palmyrin Rosette la vit, sans doute, dans le champ de sa lunette ; mais il ne fit à personne les honneurs de son observatoire, et on dut se contenter d\'observer Neptune\... Dans les livres de cosmographie.
+
+La distance moyenne de cette planète au soleil se mesure par un milliard cent quarante millions de lieues, et la durée de sa révolution est de cent soixante-cinq ans.
+
+Neptune parcourt donc son immense orbite de sept milliards cent soixante-dix millions de lieues avec une vitesse de vingt mille kilomètres à l\'heure, sous la forme d\'un sphéroïde, cent cinq fois plus considérable que celui de la terre, autour duquel circule un satellite à une distance de cent mille lieues.
+
+Cette distance de douze cents millions de lieues environ, à laquelle gravite Neptune, paraît être la limite du système solaire. Et cependant, quelque grand que soit le diamètre de ce monde, il est insignifiant, si on le compare à celui du groupe sidéral auquel on rattache l\'astre radieux.
+
+Le soleil, en effet, semble faire partie de cette grande nébuleuse de la Voie lactée, au milieu de laquelle il ne brille que comme une modeste étoile de quatrième grandeur. Où donc aurait été Gallia, si elle eût échappé à l\'attraction solaire ? À quel nouveau centre se fût-elle attachée en parcourant l\'espace sidéral ? Peut-être à la plus rapprochée des étoiles de la Voie lactée.
+
+Or, cette étoile, c\'est Alpha de la constellation du Centaure, et la lumière, qui fait soixante-dix-sept mille lieues à la seconde, emploie trois ans et demi à lui venir du soleil. Quelle est donc cette distance ? Elle est telle que, pour la chiffrer, les astronomes ont dû prendre le milliard comme unité, et ils disent qu\'Alpha est à huit mille « milliards » de lieues.
+
+Connaît-on un grand nombre de ces distances stellaires ? Huit au plus ont été mesurées, et, parmi les principales étoiles auxquelles cette mesure a pu être appliquée, on cite Véga, placée à cinquante mille milliards de lieues, Sirius, à cinquante-deux mille deux cents milliards, la Polaire, à cent dix-sept mille six cents milliards, la Chèvre, à cent soixante-dix mille quatre cents milliards de lieues.
+
+Ce dernier nombre est déjà composé de quinze chiffres.
+
+Et pour donner une idée de ces distances, en prenant pour base la vitesse de la lumière, d\'après d\'ingénieux savants on peut raisonner ainsi :
+
+« Supposons un être doué d\'une puissance de vision infinie, et mettons-le sur la Chèvre. S\'il regarde vers la terre, il sera témoin des faits qui se sont accomplis il y a soixante-douze ans. S\'il se transporte sur une étoile dix fois plus éloignée, il y verra les événements qui se sont produits il y a sept cent vingt ans. Plus loin encore, à une distance que la lumière emploie dix-huit cents ans à franchir, il assistera à cette grande scène de la mort du Christ. Plus loin encore, s\'il faut au rayon lumineux six mille ans pour arriver à son oeil, il pourra contempler les désolations du déluge universel. Plus loin enfin, puisque l\'espace est infini, il verrait, suivant la tradition biblique, Dieu créant les mondes. En effet, tous les faits sont pour ainsi dire stéréotypés dans l\'espace, et rien ne peut s\'effacer de ce qui s\'est une fois accompli dans l\'univers céleste. »
+
+Peut-être avait-il raison, l\'aventureux Palmyrin Rosette, de vouloir courir ce monde sidéral, où tant de merveilles eussent charmé ses yeux. Si sa comète fût entrée successivement au service d\'une étoile, puis d\'une autre, quels systèmes stellaires si différents il aurait observés ! Gallia se serait déplacée avec ces étoiles dont la fixité n\'est qu\'apparente et qui se meuvent pourtant, -- ainsi fait Arcturus, avec une vitesse de vingt-deux lieues par seconde. Le soleil lui-même marche à raison de soixante-deux millions de lieues annuellement, en se dirigeant vers la constellation d\'Hercule.
+
+Mais telle est la distance de ces étoiles, que leurs positions respectives, malgré ce rapide déplacement, n\'ont pu être encore modifiées pour les observateurs terrestres.
+
+Cependant, ces déplacements séculaires doivent nécessairement altérer un jour la forme des constellations, car chaque étoile marche ou paraît marcher avec des vitesses inégales. Les astronomes ont pu indiquer les positions nouvelles que les astres prendront l\'un par rapport à l\'autre dans un grand nombre d\'années. Les dessins de certaines constellations, tels qu\'ils seront dans cinquante mille ans, ont été reproduits graphiquement. Ils offrent à l\'oeil, par exemple, au lieu du quadrilatère irrégulier de la grande Ourse, une longue croix projetée sur le ciel, et à la place du pentagone de la constellation d\'Orion, un simple quadrilatère.
+
+Mais ni les habitants actuels de Gallia, ni ceux du globe terrestre, n\'auraient pu constater de leurs propres yeux ces dislocations successives.
+
+Ce n\'est pas ce phénomène que Palmyrin Rosette eût été chercher dans le monde sidéral. Si quelque circonstance eût arraché la comète à son centre attractif pour l\'asservir à d\'autres astres, alors ses regards eussent été ravis par la contemplation de merveilles dont le système solaire ne peut donner aucune idée.
+
+Au loin, en effet, les groupes planétaires ne sont pas toujours gouvernés par un soleil unique. Le système monarchique semble banni en certains points des deux. Un soleil, deux soleils, six soleils, dépendant les uns des autres, gravitent sous leurs influences réciproques. Ce sont des astres diversement colorés, rouges, jaunes, verts, oranges, indigos. Combien doivent être admirables ces contrastes de lumières qu\'ils projettent à la surface de leurs planètes ! Et qui sait si Gallia n\'eût pas vu se lever, sur son horizon, des jours faits successivement de toutes les couleurs de l\'arc-en-ciel ?
+
+Mais il ne devait pas lui être donné de graviter sous la puissance d\'un nouveau centre, ni de se mêler aux amas d\'étoiles que les puissants télescopes ont pu décomposer, ni de se perdre dans ces points stellaires qui sont partiellement résolus, ni enfin au milieu de ces compactes nébuleuses qui résistent aux plus puissants réflecteurs, -- nébuleuses dont les astronomes connaissent plus de cinq mille, disséminées dans l\'espace.
+
+Non ! Gallia ne devait jamais quitter le monde solaire, ni perdre la terre de vue. Et, après avoir décrit un orbe de six cent trente millions de lieues environ, elle n\'aurait fait cependant qu\'un insignifiant voyage dans cet univers dont l\'immensité est sans limites.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12 -- Comment on célébra le 1er janvier sur Gallia, et de quelle façon se termina ce jour de fête]{.pcalibre lang="X-NONE"}]{#_Toc342941622 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12-comment-on-célébra-le-1er-janvier-sur-gallia-et-de-quelle-façon-se-termina-ce-jour-de-fête .calibre171 .sigil_not_in_toc}
+
+Cependant, avec l\'éloignement progressif de Gallia, le froid s\'accroissait notablement. Déjà la température s\'était abaissée au-delà de quarante-deux degrés au-dessous de glace. Dans ces conditions, les thermomètres à mercure n\'auraient pu être utilisés, puisque le mercure se solidifie à quarante-deux degrés. Le thermomètre à alcool de la *Dobryna* fut donc mis en usage, et sa colonne tomba à cinquante-trois degrés au-dessous de glace. En même temps, l\'effet prévu par le lieutenant Procope s\'était manifesté sur les bords de cette crique, dans laquelle les deux navires avaient été mis en état d\'hivernage. Les couches glacées, par un mouvement lent, mais irrésistible, s\'étaient épaissies sous la carène de la *Hansa* et de la *Dobryna*. Près du promontoire de roches qui les abritait, la goélette et la tartane, surélevées dans leur cuvette de glace, atteignaient déjà un niveau de cinquante pieds au-dessus de la mer Gallienne. La *Dobryna*, plus légère que la tartane, la dominait quelque peu. Aucune force humaine n\'eût pu empêcher ce travail de surélévation de s\'accomplir.
+
+Le lieutenant Procope fut très inquiet du sort réservé à la goélette. Tous les objets qu\'elle contenait avaient été enlevés. Il ne restait plus que la coque, la mâture et la machine ; mais cette coque, dans le cas de certaines éventualités, n\'était-elle pas destinée à donner refuge à la petite colonie ? Si, au dégel, elle se brisait dans une chute impossible à prévenir, et si les Galliens étaient obligés de quitter la Terre-Chaude, quelle autre embarcation la pourrait remplacer ?
+
+Ce ne serait pas, en tout cas, la tartane, menacée comme elle et destinée à subir le même sort.
+
+La *Hansa*, mal soudée dans sa carapace, s\'inclinait déjà sous un angle inquiétant. Il y avait danger à y demeurer. Cependant, Isac n\'entendait pas abandonner sa cargaison, qu\'il voulait surveiller nuit et jour. Il sentait bien que sa vie était compromise, mais son bien encore plus, et cet Éternel qu\'il invoquait à chaque phrase, il ne se gênait pas de le maudire pour toutes les épreuves dont il se voyait accablé.
+
+Dans ces circonstances, le capitaine Servadac prit une résolution, et Isac dut se soumettre. Si l\'existence d\'Isac Hakhabut n\'était pas précisément indispensable aux divers membres de la colonie gallienne, sa cargaison avait un prix incontestable. Il fallait donc avant tout la sauver d\'un désastre très imminent. Le capitaine Servadac avait d\'abord tenté d\'inspirer à Isac Hakhabut des inquiétudes pour lui-même. Il n\'y avait pas réussi. Isac ne voulait pas déloger.
+
+« Libre à vous, avait alors répondu Hector Servadac, mais votre cargaison sera transportée dans les magasins de la Terre-Chaude. »
+
+Les lamentations qu\'Isac Hakhabut fit entendre, si attendrissantes qu\'elles fussent, ne touchèrent personne, et le déménagement commença dans la journée du 20 décembre.
+
+D\'ailleurs, Isac pouvait venir s\'installer à Nina-Ruche, et, comme devant, surveiller ses marchandises, vendre, trafiquer, aux prix et poids convenus. Aucun préjudice ne lui serait causé. Véritablement, si Ben-Zouf se fût permis de blâmer son capitaine, c\'eût été de garder tant de ménagements envers ce déplorable trafiquant !
+
+Au fond, Isac Hakhabut ne pouvait qu\'approuver la résolution prise par le gouverneur général.
+
+Elle sauvegardait ses intérêts, elle mettait son bien en lieu sûr, et lui n\'aurait rien à payer pour ce déchargement de la tartane, puisqu\'il se faisait « contre sa volonté ».
+
+Pendant plusieurs jours, les Russes et les Espagnols s\'employèrent activement à ce travail. Chaudement vêtus, étroitement encapuchonnés, ils purent impunément braver cette basse température. Ils évitaient seulement de toucher à mains nues les objets de métal dont ils opéraient le transport. La peau de leurs doigts y fût restée, comme si ces objets eussent été rougis au feu, -- car l\'effet produit est absolument identique à celui d\'une brûlure. La besogne se fit donc sans accident, et la cargaison de la *Hansa* fut enfin emmagasinée dans une des vastes galeries de Nina-Ruche.
+
+Le lieutenant Procope ne se sentit rassuré que quand la chose eut été complètement faite.
+
+Mais alors, Isac Hakhabut, n\'ayant plus aucune raison de demeurer sur sa tartane, vint habiter la galerie même réservée à ses marchandises. Il faut convenir qu\'il ne fut pas gênant. On ne le voyait que fort peu. Il couchait près de son bien, il se nourrissait de son bien. Une lampe à esprit-de-vin lui servait à ses préparations culinaires, plus que modestes. Les hôtes de Nina-Ruche n\'avaient d\'autres relations avec lui que lorsqu\'il s\'agissait, pour eux d\'acheter, pour lui de vendre. Ce qui est certain, c\'est que peu à peu tout l\'or et l\'argent de la petite colonie affluait vers un tiroir à triple secret, dont la clef ne quittait jamais Isac Hakhabut.
+
+Le 1er janvier du calendrier terrestre approchait. Dans quelques jours, un an se serait écoulé depuis la rencontre du globe terrestre et de la comète, depuis ce choc qui avait séparé de leurs semblables trente-six êtres humains.
+
+En tout cas, pas un ne manquait jusqu\'alors. Dans ces nouvelles conditions climatériques, leur santé était demeurée parfaite. Une température progressivement décroissante, mais sans revirements brusques, sans alternatives, on peut même ajouter sans courants d\'air, ne leur avait pas même causé un rhume. Donc, rien de plus sain que le climat de la comète. Tout portait donc à croire que si les calculs du professeur étaient justes, si Gallia revenait à la terre, les Galliens y arriveraient au complet.
+
+Bien que ce premier jour de l\'an ne fût pas le jour du renouvellement de l\'année gallienne, et qu\'il commençât seulement la seconde moitié de sa révolution solaire, le capitaine Servadac voulut, non sans raison, qu\'on le fêtât avec une certaine solennité.
+
+« Il ne faut pas, dit-il au comte Timascheff et au lieutenant Procope, que nos compagnons se désintéressent des choses de la terre. Ils doivent retrouver un jour le globe terrestre, et, lors même que ce retour n\'aurait pas dû se produire, il eût été utile de les rattacher à l\'ancien monde, au moins par le souvenir. Là-bas, on fêtera le renouvellement de l\'année, fêtons-le aussi sur la comète. Cette simultanéité de sentiments est chose bonne. Il ne faut pas oublier que l\'on doit s\'occuper de nous sur la terre. Des divers points du globe, on aperçoit Gallia graviter dans l\'espace, sinon à l\'oeil nu, attendu sa petitesse et sa distance, du moins à l\'aide des lunettes et des télescopes. Une sorte de lien scientifique nous rattache au globe terrestre, et Gallia fait toujours partie du monde solaire.
+
+--- Je vous approuve, capitaine, répondit le comte Timascheff. Il est absolument certain que les observatoires doivent être très occupés de la nouvelle comète.
+
+De Paris, de Pétersbourg, de Greenwich, de Cambridge, du Cap, de Melbourne, j\'imagine que de puissantes lunettes sont souvent braquées sur notre astéroïde.
+
+--- Il doit être fort à la mode là-bas, reprit le capitaine Servadac, et je serais bien étonné si les revues, les journaux ne tenaient pas le public des deux continents au courant de tous les faits et gestes de Gallia. Songeons donc à ceux qui songent à nous, et, pendant ce 1er janvier terrestre, mettons-nous en communauté de sentiments avec eux.
+
+--- Vous pensez, dit alors le lieutenant Procope, que l\'on s\'occupe sur la terre de la comète qui l\'a heurtée ? Je le crois comme vous, mais j\'ajoute qu\'on y est conduit par d\'autres motifs que l\'intérêt scientifique ou le sentiment de curiosité. Les observations auxquelles s\'est livré notre astronome ont été faites sur la terre, évidemment, et avec une précision non moins grande. Les éphémérides de Gallia sont exactement établies depuis longtemps déjà. On connaît les éléments de la nouvelle comète. On sait quelle trajectoire elle parcourt dans l\'espace, on a déterminé où et comment elle doit rencontrer la terre. À quel point précis de l\'écliptique, à quelle seconde de temps, en quel endroit même, elle viendra de nouveau choquer le globe terrestre, tout cela est certainement calculé avec une précision mathématique. C\'est donc la certitude de cette rencontre qui doit surtout préoccuper les esprits. Je vais plus loin, et j\'ose affirmer que, sur terre, des précautions ont été prises pour atténuer les désastreux effets d\'un nouveau choc, -- si toutefois il était possible d\'en prendre ! »
+
+En parlant ainsi, le lieutenant Procope devait être dans la vérité, car il était dans la logique.
+
+Le retour de Gallia, parfaitement calculé, était bien pour primer toute autre préoccupation terrestre. On devait penser à Gallia, moins pour désirer que pour redouter son approche. Il est vrai que les Galliens, tout en voulant cette rencontre, ne pouvaient que s\'inquiéter des conséquences d\'un nouveau choc. Si sur terre, comme le croyait le lieutenant Procope, des mesures avaient été prises pour en atténuer les désastres, ne conviendrait-il pas d\'agir ainsi sur Gallia ? C\'est ce qu\'il faudrait examiner plus tard.
+
+Quoi qu\'il en soit, il fut décidé que l\'on célébrerait la fête du 1er janvier. Les Russes eux-mêmes devaient s\'unir aux Français et aux Espagnols, bien que leur calendrier ne fixât pas à cette date le renouvellement de l\'année terrestre[[\[11\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn11014){#_ftnref11014 .pcalibre2 .pcalibre1}.
+
+Noël arriva. L\'anniversaire de la naissance du Christ fut religieusement fêté. Seul, Isac, ce jour-là, sembla se cacher plus obstinément encore dans son ténébreux réduit.
+
+Pendant la dernière semaine de l\'année, Ben-Zouf fut très affairé. Il s\'agissait de combiner un programme attrayant. Les plaisirs ne pouvaient être bien variés sur Gallia. On décida donc que le grand jour commencerait par un déjeuner monstre et finirait par une grande promenade sur la glace, du côté de l\'île Gourbi. On reviendrait aux flambeaux, c\'est-à-dire, la nuit venue, à la lueur de torches qui seraient fabriquées au moyen d\'ingrédients pris dans la cargaison de la *Hansa*.
+
+« Si le déjeuner est remarquablement bon, se dit Ben-Zouf, la promenade sera remarquablement gaie, et il n\'en faut pas davantage ! »
+
+La composition du menu fut donc une grosse affaire.
+
+De là, de fréquents conciliabules entre l\'ordonnance du capitaine Servadac et le cuisinier de la *Dobryna*, et, en somme, fusion intelligente des méthodes de la cuisine russe et de la cuisine française.
+
+Le 31 décembre au soir, tout était prêt. Les mets froids, conserves de viandes, pâtés de gibier, galantines et autres, achetés à bon prix à Isac Hakhabut, figuraient déjà sur la grande table de la vaste salle. Les mets chauds devaient, le lendemain matin, se préparer sur les fourneaux à laves. Ce soir-là, on agita une question relative à Palmyrin Rosette. Inviterait-on le professeur à prendre part au repas solennel ? Oui, sans doute, il convenait de l\'inviter. Accepterait-il l\'invitation ? C\'était plus que douteux. Néanmoins, l\'invitation fut faite. Le capitaine Servadac en personne avait voulu monter à l\'observatoire ; mais Palmyrin Rosette recevait si mal les importuns, qu\'on préféra lui faire tenir un billet.
+
+Ce fut le jeune Pablo qui se chargea de porter la lettre d\'invitation, et il revint bientôt avec une réponse conçue en ces termes :
+
+« Palmyrin Rosette n\'a pas autre chose à dire que ceci : Aujourd\'hui, c\'est le 125 juin, et demain ce sera le 1er juillet, attendu que sur Gallia l\'on doit compter suivant le calendrier gallien. »
+
+C\'était un refus, scientifiquement donné, mais c\'était un refus.
+
+Le 1er janvier, une heure après le lever du soleil, Français, Russes, Espagnols, et la petite Nina, qui représentait l\'Italie, étaient attablés devant un déjeuner comme il ne s\'en était jamais fait à la surface de Gallia.
+
+Pour la partie solide, Ben-Zouf et le cuisinier de la *Dobryna* s\'étaient surpassés. Un certain plat de perdrix aux choux, dans lequel les choux avaient été remplacés par un « carry » capable de dissoudre les papilles de la langue et les muqueuses de l\'estomac, fut la pièce triomphante. Quant aux vins, provenant des réserves de la *Dobryna*, ils étaient excellents. Vins de France, vins d\'Espagne furent bus en l\'honneur de leur pays d\'origine, et la Russie ne se vit point oubliée, grâce à quelques flacons de kummel.
+
+Ce fut, comme l\'avait espéré Ben-Zouf, et très bon et très gai.
+
+Au dessert, un toast, porté à la commune patrie, au vieux sphéroïde, au « retour à la terre », réunit de tels hurrahs, que Palmyrin Rosette dut les entendre des hauteurs de son observatoire.
+
+Le déjeuner fini, il restait encore trois grandes heures de jour. Le soleil passait alors au zénith, -- un soleil qui n\'eût jamais distillé les crus de Bordeaux ou de Bourgogne que l\'on venait de boire, car son disque illuminait vaguement l\'espace et ne réchauffait pas.
+
+Tous les convives se vêtirent chaudement des pieds à la tête pour une excursion qui devait durer jusqu\'à la nuit. Ils allaient braver une rude température, mais impunément dans cet air si calme.
+
+On quitta Nina-Ruche, les uns causant, les autres chantant. Sur la grève glacée, chacun chaussa ses patins et s\'en alla à sa guise, ceux-là isolement, ceux-ci par groupes. Le comte Timascheff, le capitaine Servadac, le lieutenant Procope restaient plus volontiers ensemble. Negrete et les Espagnols erraient capricieusement sur l\'immense plaine et se lançaient avec une incomparable vitesse jusqu\'aux dernières limites de l\'horizon.
+
+Devenus très forts à cet exercice du patinage, ils y déployaient avec une extrême ardeur la grâce qui leur est naturelle.
+
+Les matelots de la *Dobryna*, suivant une coutume des pays du Nord, s\'étaient tous placés en file. Une longue perche, fixée sous leur bras droit, les maintenait en ligne, et ils filaient ainsi à perte de vue, comme un train auquel les rails ne laissent décrire que des courbes de grand rayon.
+
+Quant à Pablo et Nina, bras dessus bras dessous, jetant de petits cris de joie -- deux oiseaux auxquels on donne la volée -- ils patinaient avec une grâce inexprimable, revenaient au groupe du capitaine Servadac, s\'enfuyaient de nouveau. Ces jeunes êtres résumaient en eux toute la joie et peut-être toute l\'espérance de la terre gallienne.
+
+Il ne faut pas oublier Ben-Zouf, voltigeant de l\'un à l\'autre avec une intarissable belle humeur, tout au présent et insoucieux de l\'avenir.
+
+La troupe patineuse, emportée par son élan sur cette surface unie, alla vite et loin, -- plus loin que la ligne circulaire sur laquelle se fermait l\'horizon de la Terre-Chaude. Derrière elle disparurent les premières assises de roches, puis la crête blanche des falaises, puis la cime du volcan, empanaché de vapeurs fuligineuses. Quelquefois, on s\'arrêtait pour reprendre haleine, -- un instant seulement, car il fallait craindre de se refroidir. Puis, on repartait, en gagnant du côté de l\'île Gourbi, mais sans prétendre à l\'atteindre, car, la nuit venue, on devrait songer au retour.
+
+Le soleil s\'abaissait déjà vers l\'est, ou plutôt -- effet auquel les Galliens s\'étaient déjà accoutumés -- il semblait tomber rapidement.
+
+Ces couchers de l\'astre radieux se faisaient dans des conditions particulières sur cet horizon rétréci. Nulle vapeur ne se colorait de ces admirables nuances que donnent les derniers rayons. L\'oeil même, à travers cette mer congelée, ne pouvait percevoir ce dernier jet de lumière verte qui s\'élance à travers la surface liquide. Ici, le soleil, s\'élargissant sous la réfraction, présentait un disque nettement arrêté à sa circonférence. Il disparaissait brusquement comme si quelque trappe se fût subitement ouverte dans le champ de glace, et la nuit se faisait aussitôt.
+
+Avant la chute du jour, le capitaine Servadac rassembla tout son monde et recommanda à ses compagnons de se grouper autour de lui. On était allé « en tirailleurs », il fallait revenir en peloton serré, ne point s\'égarer dans les ténèbres et rentrer ensemble à la Terre-Chaude. L\'obscurité devait être profonde, car la lune, en conjonction avec le soleil, était perdue dans sa vague irradiation.
+
+La nuit était venue. Les étoiles ne versaient plus au sol gallien que cette « pâle clarté » dont parle Corneille. Les torches furent alors allumées, et, pendant que les porteurs glissaient rapidement, leurs flammes, comme un fanion déployé à la brise, se rabattaient longuement en arrière, en s\'avivant par la vitesse.
+
+Une heure après, le haut littoral de la Terre-Chaude apparaissait confusément comme un énorme nuage noir à l\'horizon. Il n\'y avait pas à s\'y tromper. Le volcan le dominait de haut et projetait dans l\'ombre une lueur intense. La réverbération des laves incandescentes, se faisant sur le miroir de glaces, frappait le groupe des patineurs et laissait s\'allonger derrière lui des ombres démesurées.
+
+Ce fut ainsi pendant une demi-heure environ.
+
+On s\'approchait rapidement du littoral, quand soudain un cri se fit entendre.
+
+C\'était Ben-Zouf qui avait poussé ce cri. Chacun enraya sa course, en mordant la glace de son patin d\'acier.
+
+Alors, à la lueur des torches qui étaient près de s\'éteindre, on vit que Ben-Zouf tendait son bras vers le littoral.
+
+Un cri, parti de toutes les bouches, répondit alors à celui que Ben-Zouf avait jeté !
+
+Le volcan venait de s\'éteindre subitement. Les laves qui jusqu\'alors débordaient du cône supérieur avaient cessé de se répandre. Il semblait qu\'un souffle puissant eût passé sur le cratère.
+
+Tous comprirent que la source de feu venait de se tarir. La matière éruptive avait-elle donc fait défaut ? La chaleur allait-elle à jamais manquer à la Terre-Chaude, et n\'y aurait-il plus aucune possibilité de combattre les rigueurs de l\'hiver gallien ? Était-ce donc la mort, et la mort par le froid ?
+
+« En avant ! » cria le capitaine Servadac d\'une voix forte.
+
+Les torches venaient de s\'éteindre. Tous s\'élancèrent dans la profonde obscurité. Ils arrivèrent rapidement au littoral. Ils n\'en gravirent pas sans peine les roches glacées. Ils se précipitèrent dans la galerie ouverte, puis dans la grande salle\...
+
+Ténèbres épaisses, température déjà basse. La nappe de feu ne fermait plus la grande baie, et, en se penchant au-dehors, le lieutenant Procope put voir que le lagon, maintenu liquide jusqu\'alors sous la cataracte des laves, était solidifié par le froid.
+
+Ainsi finit sur Gallia ce premier jour de l\'année terrestre, si joyeusement commencé !
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 13 -- Dans lequel le capitaine Servadac et ses compagnons font la seule chose qu\'il y eut à faire]{.pcalibre lang="X-NONE"}]{#_Toc342941623 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-13-dans-lequel-le-capitaine-servadac-et-ses-compagnons-font-la-seule-chose-quil-y-eut-à-faire .calibre171 .sigil_not_in_toc}
+
+Les Galliens passèrent le reste de la nuit, c\'est-à-dire les quelques heures qui précédaient le jour, dans d\'inexprimables appréhensions. Palmyrin Rosette, chassé par le froid, avait dû quitter son observatoire et se réfugier dans les galeries de Nina-Ruche. C\'était peut-être l\'occasion ou jamais de lui demander s\'il persévérait encore dans cette idée de courir le monde solaire sur son inhabitable comète ; mais il eût répondu affirmativement sans doute. S\'il rageait et à quel point, cela ne saurait se dire.
+
+En même temps que lui, Hector Servadac et ses compagnons avaient dû chercher asile dans les plus profondes galeries du massif. La grande salle, si largement ouverte à l\'air extérieur, n\'était plus tenable. L\'humidité de ses parois se changeait déjà en cristaux, et, quand bien même on fût parvenu à boucher la vaste ouverture que fermait autrefois le rideau de laves, la température y eût été insoutenable.
+
+Au fond des obscures galeries, une demi-chaleur se propageait encore. L\'équilibre ne s\'était pas établi entre le dedans et le dehors, mais cela ne pouvait tarder à se faire. On sentait que le calorique se retirait peu à peu. Le mont était comme un cadavre dont les extrémités se refroidissent pendant que le coeur résiste au froid de la mort.
+
+« Eh bien, s\'écria le capitaine Servadac, c\'est au coeur même que nous irons demeurer ! »
+
+Le lendemain il réunit ses compagnons et leur parla en ces termes :
+
+« Mes amis, qu\'est-ce qui nous menace ? Le froid, mais le froid seulement. Nous avons des vivres qui dureront plus que notre passage sur Gallia, et nos conserves sont assez abondantes pour que nous puissions nous passer de combustible.
+
+Or, que nous faut-il pour traverser ces quelques mois d\'hiver ? Un peu de cette chaleur que la nature nous fournissait gratis ! Eh bien, cette chaleur, il est plus que probable qu\'elle existe dans les entrailles de Gallia et c\'est là que nous irons la chercher ! »
+
+Ces confiantes paroles ranimèrent ces braves gens, dont quelques-uns faiblissaient déjà. Le comte Timascheff, le lieutenant Procope, Ben-Zouf serrèrent la main que leur tendait le capitaine, et ceux-là n\'étaient pas près de se laisser abattre.
+
+« Mordioux, Nina, dit Hector Servadac en regardant la petite fille, tu n\'auras pas peur de descendre dans le volcan ?
+
+--- Non, mon capitaine, répondit résolument Nina, surtout si Pablo nous accompagne !
+
+--- Pablo nous accompagnera ! C\'est un brave ! Il n\'a peur de rien ! -- N\'est-ce pas, Pablo ?
+
+--- Je vous suivrai partout où vous irez, monsieur le gouverneur », répondit le jeune garçon.
+
+Cela dit, il ne s\'agissait plus que de se mettre à la besogne.
+
+Il ne fallait pas songer à pénétrer dans le volcan en suivant le cratère supérieur. Par un tel abaissement de température, les pentes de la montagne n\'eussent pas été praticables. Le pied n\'aurait trouvé aucun point d\'appui sur les déclivités glissantes. Donc, nécessité d\'atteindre la cheminée centrale à travers le massif même, mais promptement, car un terrible froid commençait à envahir les coins les plus reculés de Nina-Ruche.
+
+Le lieutenant Procope, après avoir bien examiné la disposition des galeries intérieures, leur orientation au sein même du massif, reconnut que l\'un des étroits couloirs devait aboutir près de la cheminée centrale.
+
+Là, en effet, lorsque les laves s\'élevaient sous la poussée des vapeurs, on sentait le calorique « suinter » pour ainsi dire à travers ses parois. Évidemment, la substance minérale, ce tellurure dont le mont se composait, était bon conducteur de la chaleur. Donc, en perçant cette galerie sur une longueur qui ne devait pas excéder sept à huit mètres, on rencontrerait l\'ancien chemin des laves, et peut-être serait-il facile de le descendre.
+
+On se mit immédiatement à la besogne. En cette occasion, les matelots russes, sous la direction de leur lieutenant, montrèrent beaucoup d\'adresse.
+
+Le pic, la pioche ne suffirent pas à entamer cette dure substance. Il fallut forer des trous de mine, et, au moyen de la poudre, faire sauter la roche. Le travail n\'en marcha que plus rapidement, et, en deux jours, il fut mené à bonne fin.
+
+Pendant ce court laps de temps, les colons eurent à souffrir cruellement du froid.
+
+
+--- Comte Timascheff, répondit le capitaine Servadac, vous avez confiance en Celui qui peut tout ?
+
+--- Oui, capitaine, mais il peut vouloir aujourd\'hui ce qu\'il ne voulait pas hier. Il ne nous appartient pas de juger ses décrets. Sa main s\'était ouverte\... Elle semble se refermer\...
+
+--- À demi seulement, répondit le capitaine Servadac. Ce n\'est qu\'une épreuve à laquelle il soumet notre courage ! Quelque chose me dit qu\'il n\'est pas vraisemblable que l\'éruption du volcan ait cessé par suite d\'une extinction complète des feux intérieurs de Gallia.
+
+Très probablement, cet arrêt dans l\'épanchement extérieur ne sera que momentané. »
+
+Le lieutenant Procope appuya l\'opinion du capitaine Servadac. Une autre bouche éruptive s\'était peut-être ouverte sur quelque autre point de la comète, et il était possible que les matières laviques eussent suivi cette voie nouvelle. Bien des causes pouvaient avoir modifié les circonstances auxquelles était due cette éruption, sans que les substances minérales eussent cessé de se combiner chimiquement avec l\'oxygène dans les entrailles de Gallia. Mais de savoir si l\'on pourrait atteindre ce milieu où la température permettrait de braver les froids de l\'espace, c\'est ce qui était impossible.
+
+Pendant ces deux jours, Palmyrin Rosette ne prit aucunement part ni aux discussions ni aux travaux. Il allait et venait comme une âme en peine, une âme peu résignée. Lui-même, et quoi qu\'on eût pu dire, il avait installé sa lunette dans la grande salle. Là, plusieurs fois, la nuit, le jour, il demeurait à observer le ciel jusqu\'à ce qu\'il fût littéralement gelé. Il rentrait alors, maugréant, maudissant la Terre-Chaude, répétant que son rocher de Formentera lui eût offert plus de ressources !
+
+Le dernier coup de pic fut donné dans la journée du 4 janvier. On put entendre les pierres rouler à l\'intérieur de la cheminée centrale. Le lieutenant Procope observa qu\'elles ne tombaient pas perpendiculairement, mais qu\'elles semblaient plutôt glisser sur les parois, en se heurtant à des saillies rocheuses. La cheminée centrale devait donc être inclinée, et, conséquemment, plus praticable à la descente.
+
+Cette observation était juste.
+
+Dès que l\'orifice eut été assez agrandi pour donner passage à un homme, le lieutenant Procope et le capitaine Servadac, précédés de Ben-Zouf, qui portait une torche, s\'engagèrent dans la cheminée centrale.
+
+Cette cheminée suivait une direction oblique, avec une pente de quarante-cinq degrés au plus. On pouvait donc descendre sans risquer une chute. D\'ailleurs, les parois étaient striées par des érosions multiples, des excavations, des rebords de roches, et, sous la cendre qui les tapissait, le pied sentait un solide point d\'appui. C\'est que l\'éruption était récente. En effet, elle n\'avait pu se produire que lorsque la collision avait donné à Gallia une partie de l\'atmosphère terrestre, et les parois n\'étaient pas usées par les laves.
+
+« Bon ! fit Ben-Zouf, un escalier maintenant ! Excusez du peu ! »
+
+Le capitaine Servadac et ses compagnons commencèrent à descendre prudemment. Bien des marches, pour parler comme Ben-Zouf, manquaient à l\'escalier. Ils employèrent près d\'une demi-heure à atteindre une profondeur de cinq cents pieds, suivant une direction sud. Dans les parois de la cheminée centrale s\'évidaient çà et là de larges excavations, dont aucune ne formait galerie. Ben-Zouf, secouant sa torche, les emplissait d\'une vive clarté. Le fond de ces trous apparaissait, mais aucune ramification ne se faisait à l\'intérieur, ainsi que cela existait à l\'étage supérieur de Nina-Ruche.
+
+Toutefois, les Galliens n\'avaient pas le choix. Ils devaient accepter les moyens de salut, quels qu\'ils fussent.
+
+Or, les espérances du capitaine Servadac semblaient devoir se réaliser. À mesure qu\'il pénétrait plus avant dans les substructions du massif, la température s\'accroissait progressivement. Ce n\'était pas une simple élévation de degrés, telle qu\'elle se fait dans les mines terrestres. Une cause locale rendait cette élévation plus rapide.
+
+La source de chaleur se sentait dans les profondeurs du sol. Ce n\'était pas une houillère, c\'était bien un véritable volcan, qui était l\'objet de cette exploration. Au fond de ce volcan, non éteint, comme on avait pu le craindre, les laves bouillonnaient encore. Si, pour une cause inconnue, elles ne montraient plus jusqu\'à son cratère pour s\'épancher au-dehors, du moins transmettaient-elles leur chaleur dans tout le soubassement du massif. Un thermomètre à mercure emporté par le lieutenant Procope, un baromètre anéroïde aux mains du capitaine Servadac, indiquaient, à la fois, et l\'abaissement des couches galliennes au-dessous du niveau de la mer, et l\'accroissement progressif de la température. À six cents pieds au-dessous du sol, la colonne mercurielle marquait six degrés au-dessus de zéro.
+
+« Six degrés, dit le capitaine Servadac, ce n\'est pas suffisant pour des gens que l\'hiver doit séquestrer pendant plusieurs mois. Allons plus profondément encore, puisque l\'aération se fait convenablement. »
+
+En effet, par le vaste cratère de la montagne, par la grande baie ouverte à son flanc, l\'air extérieur pénétrait à flots. Il était comme attiré dans ces profondeurs, et il se trouvait même en de meilleures conditions pour l\'acte respiratoire. On pouvait donc impunément descendre jusqu\'au point où se rencontrerait une température convenable.
+
+Quatre cents pieds environ furent encore gagnés au-dessous du niveau de Nina-Ruche. Cela donnait une profondeur de deux cent cinquante mètres par rapport à la surface de la mer Gallienne. En cet endroit, le thermomètre marqua douze degrés centigrades au-dessus de zéro. Cette température était suffisante, pourvu que rien ne vînt la modifier.
+
+Évidemment, les trois explorateurs auraient pu s\'enfoncer davantage par cette oblique voie des laves.
+
+Mais à quoi bon ? Déjà, en prêtant l\'oreille, ils entendaient certains ronflements sourds, -- preuve qu\'ils n\'étaient pas éloignés du foyer central.
+
+« Restons là, dit Ben-Zouf. Les frileux de la colonie iront plus bas, si cela leur convient ! Mais, nom d\'un Kabyle ! Pour ma part, je trouve qu\'il fait déjà assez chaud. »
+
+La question était maintenant de savoir si l\'on pouvait s\'installer tant bien que mal dans cette portion du massif ?
+
+Hector Servadac et ses compagnons s\'étaient assis sur une roche disposée en saillie, et de là, à la lueur de la torche qui fut ravivée, ils examinèrent l\'endroit où ils venaient de s\'arrêter.
+
+La vérité oblige à dire que rien n\'était moins confortable. La cheminée centrale, en s\'élargissant, ne formait là qu\'une sorte d\'excavation assez profonde. Ce trou, il est vrai, pouvait contenir toute la colonie gallienne. Quant à l\'aménager d\'une façon à peu près convenable, c\'était assez difficile. Au-dessus, au-dessous, il existait des anfractuosités de moindre importance qui suffiraient à l\'emmagasinage des provisions, mais de chambres distinctes pour le capitaine Servadac et le comte Timascheff, il n\'y fallait point compter. Un petit réduit, destiné à Nina, on le trouverait encore. Ce serait donc la vie commune de tous les instants. L\'excavation principale servirait à la fois de salle à manger, de salon, de dortoir. Après avoir vécu à peu près comme des lapins dans leur terrier, les colons allaient s\'enfouir sous terre, comme des taupes, et vivre comme elles, -- moins leur long sommeil hivernal.
+
+Cependant, il serait facile d\'éclairer cette obscure excavation au moyen de lampes et de fanaux.
+
+L\'huile ne manquait pas, car le magasin général en possédait encore plusieurs barils, ainsi qu\'une certaine quantité d\'esprit-de-vin, qui devait servir à la cuisson de quelques aliments.
+
+Quant à la séquestration toute la durée de l\'hiver gallien, elle ne serait évidemment pas absolue. Les colons, vêtus aussi chaudement que possible, pourraient faire de fréquentes apparitions, soit à Nina-Ruche, soit sur les roches du littoral. Il serait indispensable, d\'ailleurs, de s\'approvisionner de glaces qui par la fusion donneraient l\'eau nécessaire à tous les besoins de la vie. Chacun, à tour de rôle, serait chargé de ce service assez pénible, puisqu\'il s\'agirait de remonter à une hauteur de neuf cents pieds et de redescendre d\'autant avec un lourd fardeau.
+
+Enfin, après minutieuse inspection, il fut décidé que la petite colonie se transporterait dans cette sombre cave, et qu\'elle s\'y installerait le moins mal possible. L\'unique excavation servirait de demeure à tous. Mais, en somme, le capitaine Servadac et ses compagnons ne seraient pas plus mal partagés que les hiverneurs des régions arctiques. Là, en effet, soit à bord des baleiniers, soit dans les factoreries du Nord-Amérique, on ne multiplie ni les chambres, ni les cabines. On dispose simplement une vaste salle dans laquelle l\'humidité pénètre moins facilement. On fait la chasse aux coins, qui sont autant de nids à condensation des vapeurs. Enfin, une chambre large, haute, est plus facile à aérer, à chauffer aussi, conséquemment plus saine. Dans les forts, c\'est tout un étage qui est aménagé de la sorte ; dans les navires, c\'est tout l\'entrepont.
+
+Voilà ce que le lieutenant Procope, familier avec les usages des mers polaires, expliqua en quelques mots, et ses compagnons se résignèrent à agir en hiverneurs, puisqu\'ils étaient forcés d\'hiverner.
+
+Tous trois remontèrent à Nina-Ruche.
+
+Les colons furent instruits des résolutions prises, et ils les approuvèrent. On se mit aussitôt à la besogne, en commençant par débarrasser l\'excavation des cendres encore chaudes qui en tapissaient les parois, et le déménagement du matériel de Nina-Ruche fut entrepris sans retard.
+
+Il n\'y avait pas une heure à perdre. On gelait littéralement, même dans les plus profondes galeries de l\'ancienne demeure. Le zèle des travailleurs fut donc tout naturellement stimulé, et jamais déménagement, comprenant quelques meubles indispensables, couchettes, ustensiles divers, réserves provenant de la goélette, marchandises de la tartane, ne fut plus lestement opéré. Il faut remarquer, d\'ailleurs, qu\'il ne s\'agissait que de descendre, et que, d\'autre part, la moindre pesanteur des divers colis les rendait plus aisément transportables.
+
+Palmyrin Rosette, quoi qu\'il en eût, dut se réfugier aussi dans les profondeurs de Gallia, mais il ne permit pas qu\'on y descendit sa lunette. Il est vrai qu\'elle n\'était pas faite pour ce sombre abîme, et elle resta sur son trépied dans la grande salle de Nina-Ruche.
+
+Inutile de rapporter les interminables condoléances d\'Isac Hakhabut. Toute sa phraséologie accoutumée y passa. Il n\'y avait pas, dans tout l\'univers, un négociant plus éprouvé que lui. Au milieu de quolibets, qui ne lui étaient jamais épargnés, il veilla soigneusement au déplacement de ses marchandises. Sur les ordres du capitaine Servadac, tout ce qui lui appartenait fut emmagasiné à part et dans le trou même qu\'il allait habiter. De cette façon, il pourrait surveiller son bien et continuer son commerce.
+
+En quelques jours, la nouvelle installation fut terminée.
+
+Quelques fanaux éclairaient de loin en loin l\'oblique cheminée qui remontait vers Nina-Ruche. Cela ne manquait pas de pittoresque, et, dans un conte des Mille et une Nuits, c\'eût été charmant. La grande excavation qui servait au logement de tous était éclairée par les lampes de la *Dobryna*. Le 10 janvier, chacun était casé dans ce sous-sol, et bien abrité, tout au moins, contre la température extérieure, qui dépassait soixante degrés au-dessous de zéro.
+
+« Va bene ! Comme dit notre petite Nina ! s\'écria alors Ben-Zouf, toujours satisfait. Au lieu de demeurer au premier étage, nous demeurons dans la cave, voilà tout ! »
+
+Et cependant, bien que ne laissant rien paraître de leurs préoccupations, le comte Timascheff, le capitaine Servadac, Procope n\'étaient pas sans inquiétude pour l\'avenir. Si la chaleur volcanique venait à manquer un jour, si quelque perturbation inattendue retardait Gallia dans sa révolution solaire, s\'il fallait recommencer de nouveaux hivernages dans de telles conditions, trouverait-on dans le noyau de la comète le combustible qui avait manqué jusqu\'alors ? La houille, résidu d\'antiques forêts, enfouies aux époques géologiques et minéralisées sous l\'action du temps, ne pouvait exister dans les entrailles de Gallia ! En serait-on donc réduit à utiliser ces matières éruptives que devaient receler les profondeurs du volcan, alors qu\'il serait complètement éteint ?
+
+« Mes amis, dit le capitaine Servadac, voyons venir, voyons venir ! Nous avons de longs mois devant nous pour réfléchir, causer, discuter ! Mordioux ! Ce serait bien le diable s\'il ne nous arrivait pas une idée !
+
+--- Oui, répondit le comte Timascheff, le cerveau se surexcite en présence des difficultés, et nous trouverons.
+
+D\'ailleurs, il n\'est pas probable que cette chaleur interne nous fasse défaut avant le retour de l\'été gallien.
+
+--- Je ne le pense pas, répondit le lieutenant Procope. On entend toujours le bruit des bouillonnements intérieurs. Cette inflammation des substances volcaniques est probablement récente. Lorsque la comète circulait dans l\'espace, avant sa rencontre avec la terre, elle ne possédait aucune atmosphère, et, par conséquent, l\'oxygène ne s\'est probablement introduit dans ses profondeurs que depuis cette collision. De là, une combinaison chimique dont le résultat a été l\'éruption. Voilà ce que l\'on peut penser, suivant moi, en tenant pour assuré que le travail plutonien n\'est qu\'à son début dans le noyau de Gallia.
+
+--- Je suis si bien de ton avis, Procope, répondit le comte Timascheff, que, loin de craindre une extinction de la chaleur centrale, je redouterais plutôt une autre éventualité, non moins terrible pour nous.
+
+--- Et laquelle ? demanda le capitaine Servadac.
+
+--- Ce serait, capitaine, que l\'éruption ne se refît soudain et ne nous surprit, campés sur le chemin des laves !
+
+--- Mordioux ! s\'écria le capitaine Servadac, cela pourrait bien arriver !
+
+--- Nous veillerons, répondit le lieutenant Procope, et avec tant de vigilance, que nous ne nous laisserons pas surprendre. »
+
+Cinq jours plus tard, le 15 janvier, Gallia passait à son aphélie, à l\'extrémité du grand axe de son orbite, et elle gravitait alors à deux cent vingt millions de lieues du soleil.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 14 -- Qui prouve que les humains ne sont pas faits pour graviter à deux cent vingt millions de lieues du soleil]{.pcalibre lang="X-NONE"}]{#_Toc342941624 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-14-qui-prouve-que-les-humains-ne-sont-pas-faits-pour-graviter-à-deux-cent-vingt-millions-de-lieues-du-soleil .calibre171 .sigil_not_in_toc}
+
+Gallia allait donc, à partir de ce jour, remonter peu à peu sur sa courbe elliptique et avec une vitesse croissante. Tout être vivant à sa surface était désormais enfoui dans le massif volcanique, à l\'exception des treize Anglais de Gibraltar.
+
+Comment ceux-ci, volontairement demeurés sur leur îlot, avaient-ils supporté cette première moitié de l\'hiver gallien ? Mieux, sans doute -- c\'était l\'opinion générale -- que les habitants de la Terre-Chaude. En effet, ils n\'avaient pas été forcés d\'emprunter à un volcan la chaleur de ses laves pour l\'approprier aux besoins de la vie. Leur réserve de charbons et de vivres était très abondante. Ni la nourriture ni le combustible n\'avaient dû leur manquer. Le poste qu\'ils occupaient, solidement casematé, avec ses épais murs de pierre, les avait évidemment protégés contre les plus forts abaissements de la température. Bien chauffés, ils n\'avaient pas eu froid ; bien nourris, ils n\'avaient pas eu faim, et leurs vêtements ne pouvaient qu\'être devenus trop étroits. Le brigadier Murphy et le major Oliphant avaient dû se porter les coups les plus savants sur le champ clos de l\'échiquier. Il n\'était donc douteux pour personne que les choses ne se fussent passées à Gibraltar convenablement et confortablement. En tout cas, l\'Angleterre n\'aurait que des éloges pour ces deux officiers et ces onze soldats, restés fidèlement à leur poste.
+
+Le capitaine Servadac et ses compagnons, s\'ils eussent été menacés de périr par le froid, eussent pu certainement se réfugier à l\'îlot de Gibraltar. La pensée de le faire leur en était venue. Ils auraient, sans aucun doute, été reçus hospitalièrement sur cet îlot, bien que le premier accueil eût laissé à désirer.
+
+Les Anglais n\'étaient pas hommes à abandonner leurs semblables sans leur prêter assistance. Aussi, en cas de nécessité absolue, les colons de la Terre-Chaude n\'auraient-ils pas hésité à émigrer vers Gibraltar. Mais c\'eût été un long voyage sur l\'immense champ de glace, sans abri, sans feu, et, de ceux qui l\'auraient entrepris, tous ne seraient peut-être pas arrivés au but ! Aussi, ce projet ne pouvait-il être mis à exécution que dans un cas désespéré, et, tant que le volcan produirait une chaleur suffisante, il était bien entendu que l\'on n\'abandonnerait pas la Terre-Chaude.
+
+Il a été dit plus haut que tout être vivant de la colonie gallienne avait trouvé refuge dans les excavations de la cheminée centrale. En effet, un certain nombre d\'animaux avaient dû quitter les galeries de Nina-Ruche, où ils fussent morts de froid. Ce n\'était pas sans peine que les deux chevaux du capitaine Servadac et de Ben-Zouf avaient été descendus à cette profondeur ; mais le capitaine et son ordonnance tenaient particulièrement à conserver Zéphir et Galette, à les ramener vivants sur terre. Ils aimaient ces deux pauvres bêtes, peu faites pour vivre dans ces nouvelles conditions climatériques. Une large anfractuosité, convertie en écurie, fut aménagée pour eux, et, très heureusement, il y avait assez de fourrage pour les nourrir.
+
+Quant aux autres animaux domestiques, il fallut les sacrifier en partie. Les loger dans les substructions du massif, c\'était une tâche impossible. Les abandonner dans les galeries supérieures, c\'était les condamner à une mort cruelle. On dut les abattre. Mais comme la chair de ces animaux pouvait se conserver indéfiniment dans l\'ancien magasin, qui était soumis à un froid excessif, ce fut un précieux accroissement de la réserve alimentaire.
+
+Pour achever la nomenclature des êtres vivants qui cherchèrent refuge à l\'intérieur du massif, il faut encore citer les oiseaux, dont la nourriture se composait uniquement des bribes qu\'on leur abandonnait chaque jour. Le froid leur fit quitter les hauteurs de Nina-Ruche pour les sombres cavités du mont. Mais leur nombre était encore si considérable, leur présence si importune, qu\'il fallut leur donner activement la chasse et les détruire en grande partie.
+
+Tout ceci occupa la fin du mois de janvier, et l\'installation ne fut complète qu\'à cette époque. Mais alors une existence d\'une désespérante monotonie commença pour les membres de la colonie gallienne. Pourraient-ils résister à cette espèce d\'engourdissement moral, qui résulterait de leur engourdissement physique ? Leurs chefs tentèrent d\'obtenir ce résultat par une plus étroite communauté de la vie quotidienne, par des conversations auxquelles tous étaient invités à prendre part, par des lectures, puisées aux livres de voyages et de sciences de la bibliothèque et faites à voix haute. Tous, assis autour de la grande table, Russes ou Espagnols, écoutaient et s\'instruisaient, et, s\'ils devaient revenir à la terre, ils y rentreraient moins ignorants qu\'ils ne l\'eussent été en demeurant dans leurs pays d\'origine.
+
+Pendant ce temps, que faisait Isac Hakhabut ? S\'intéressait-il à ces conversations, à ces lectures ? En aucune manière. Quel profit en eût-il retiré ? Il passait les longues heures à faire et refaire ses calculs, à compter et recompter l\'argent qui affluait entre ses mains. Ce qu\'il avait gagné, joint à ce qu\'il possédait déjà, s\'élevait à la somme de cent cinquante mille francs au moins, dont une moitié en bon or d\'Europe. Ce métal, sonnant et trébuchant, il saurait bien lui faire retrouver sa valeur sur terre, et, s\'il supputait le nombre des jours écoulés, c\'était au point de vue des intérêts perdus.
+
+Il n\'avait pas encore trouvé l\'occasion de prêter, comme il l\'espérait, sur bons billets et avec bonne garantie, s\'entend.
+
+De tous les colons, ce fut encore Palmyrin Rosette qui se créa le plus vite une absorbante occupation. Avec ses chiffres, il n\'était jamais seul, et ce fut au calcul qu\'il demanda de lui abréger les longs jours de l\'hiver.
+
+De Gallia, il connaissait tout ce qu\'on en pouvait connaître, mais il n\'en était pas ainsi de Nérina, son satellite. Or, les droits de propriété qu\'il réclamait sur la comète devaient bien s\'étendre jusqu\'à sa lune. C\'était donc le moins qu\'il en déterminât les nouveaux éléments, depuis qu\'elle avait été arrachée à la zone des planètes télescopiques.
+
+Il résolut d\'entreprendre ce calcul. Quelques relèvements des positions de Nérina en différents points de son orbite lui étaient encore nécessaires. Cela fait, puisqu\'il connaissait la masse de Gallia, obtenue par mesure directe, c\'est-à-dire au moyen du peson, il serait à même de peser Nérina du fond de son réduit obscur.
+
+Seulement, il n\'avait pas ce réduit obscur, auquel il prétendait bien donner le nom de « cabinet », puisque, en bonne vérité, il ne pouvait l\'appeler un observatoire. Aussi, dès les premiers jours de février, en parla-t-il au capitaine Servadac.
+
+« Il vous faut un cabinet, cher professeur ? répondit celui-ci.
+
+--- Oui, capitaine, mais il me faut un cabinet où je puisse travailler sans craindre les importuns.
+
+--- Nous allons vous trouver cela, répondit Hector Servadac. Seulement, si ce cabinet n\'est pas aussi confortable que je le voudrais, il sera certainement isolé et tranquille.
+
+--- Je n\'en demande pas davantage.
+
+--- C\'est entendu. »
+
+Puis, le capitaine, voyant Palmyrin Rosette d\'humeur assez passable, se hasarda à lui faire une question relative à ses calculs antérieurs, -- question à laquelle il attachait justement une réelle importance.
+
+« Cher professeur, dit-il au moment où Palmyrin Rosette se retirait, j\'aurais quelque chose à vous demander.
+
+--- Demandez.
+
+--- Les calculs, desquels vous avez conclu la durée de la révolution de Gallia autour du soleil, sont évidemment exacts, reprit le capitaine Servadac. Mais enfin, si je ne me trompe, une demi-minute de retard ou d\'avance, et votre comète ne rencontrerait plus la terre sur l\'écliptique !
+
+--- Eh bien ?
+
+--- Eh bien, cher professeur, ne serait-il pas à propos de vérifier l\'exactitude de ces calculs\...
+
+--- C\'est inutile.
+
+--- Le lieutenant Procope serait tout disposé à vous aider dans cet important travail.
+
+--- Je n\'ai besoin de personne, répondit Palmyrin Rosette, touché dans sa corde sensible.
+
+--- Cependant\...
+
+--- Je ne me trompe jamais, capitaine Servadac, et votre insistance est déplacée.
+
+--- Mordioux ! Cher professeur, riposta Hector Servadac, vous n\'êtes pas aimable pour vos compagnons, et\... »
+
+Mais il garda ce qu\'il avait sur le coeur, Palmyrin Rosette étant encore un homme à ménager.
+
+« Capitaine Servadac, répondit sèchement le professeur, je ne recommencerai pas mes calculs, parce que mes calculs sont absolument justes.
+
+Mais je veux bien vous apprendre que ce que j\'ai fait pour Gallia, je vais le faire pour Nérina, son satellite.
+
+--- Voilà une question tout à fait opportune, répliqua gravement le capitaine Servadac. Cependant, je croyais que, Nérina étant une planète télescopique, ses éléments étaient connus des astronomes terrestres. »
+
+Le professeur regarda le capitaine Servadac d\'un oeil farouche, comme si l\'utilité de son travail eût été contestée. Puis, s\'animant :
+
+« Capitaine Servadac, dit-il, si les astronomes terrestres ont observé Nérina, s\'ils connaissent déjà son moyen mouvement diurne, la durée de sa révolution sidérale, sa distance moyenne au soleil, son excentricité, la longitude de son périhélie, la longitude moyenne de l\'époque, la longitude du noeud ascendant, l\'inclinaison de son orbite, tout cela est à recommencer, attendu que Nérina n\'est plus une planète de la zone télescopique, mais un satellite de Gallia. Or, étant lune, je veux l\'étudier comme lune, et je ne vois pas pourquoi les Galliens ne sauraient pas de la lune gallienne ce que les « terrestriens » savent de la lune terrestre ! »
+
+Il fallait entendre Palmyrin Rosette prononcer ce mot « terrestriens » ! De quel ton méprisant il parlait maintenant des choses de la terre !
+
+« Capitaine Servadac, dit-il, je finis cette conversation comme je l\'ai commencée, en vous priant de me faire disposer un cabinet\...
+
+--- Nous allons nous en occuper, cher professeur\...
+
+--- Oh ! Je ne suis pas pressé, répondit Palmyrin Rosette, et pourvu que cela soit prêt dans une heure\... »
+
+Il en fallut trois, mais enfin Palmyrin Rosette put être installé dans une sorte de trou, où sa table, son fauteuil trouvèrent à se placer. Puis, pendant les jours suivants et malgré l\'extrême froid, il monta dans l\'ancienne salle pour relever plusieurs positions de Nérina. Cela fait, il se confina dans son cabinet, et on ne le revit plus.
+
+En vérité, à ces Galliens, enfouis à huit cents pieds au-dessous du sol, il fallait une grande énergie morale pour réagir contre cette situation, qui ne fut marquée par aucun incident. Bien des jours s\'écoulaient sans qu\'aucun d\'eux remontât à la surface du sol, et, n\'eût été la nécessité de se procurer de l\'eau douce en rapportant des charges de glace, ils auraient fini par ne plus quitter les profondeurs du volcan.
+
+Cependant, quelques visites furent faites jusque dans les parties basses de la cheminée centrale. Le capitaine Servadac, le comte Timascheff, Procope, Ben-Zouf voulurent sonder aussi loin que possible cet abîme creusé dans le noyau de Gallia. Cette exploration d\'un massif, composé de trente centièmes d\'or, les laissait indifférents, il faut en convenir. D\'ailleurs, cette substance, sans valeur sur Gallia, n\'en aurait même plus si elle tombait sur la terre, et ils ne faisaient pas plus de cas de ce tellurure que d\'une roche de granit.
+
+Mais ce que leur fit connaître cette exploration, c\'est que le feu central conservait son activité, et ils en conclurent que si l\'éruption ne se faisait plus par le volcan, c\'est que d\'autres bouches ignivomes s\'étaient ouvertes à la surface de Gallia.
+
+Ainsi se passèrent février, mars, avril, mai, on peut dire dans une sorte d\'engourdissement moral dont ces séquestrés ne pouvaient se rendre compte.
+
+La plupart végétaient sous l\'empire d\'une torpeur qui devenait inquiétante. Les lectures, écoutées d\'abord avec intérêt, ne réunissaient plus d\'auditeurs autour de la grande table. Les conversations se limitaient à deux, à trois personnes et se faisaient à voix basse. Les Espagnols étaient surtout accablés et ne quittaient guère leur couchette. À peine se dérangeaient-ils pour prendre quelque nourriture. Les Russes résistaient mieux et accomplissaient leur tâche avec plus d\'ardeur. Le défaut d\'exercice était donc le grave danger de cette longue séquestration. Le capitaine Servadac, le comte Timascheff, Procope voyaient bien les progrès de cet engourdissement, mais que pouvaient-ils faire ? Les exhortations étaient insuffisantes. Eux-mêmes, ils se sentaient envahir par cet accablement particulier et n\'y résistaient pas toujours. Tantôt c\'était une prolongation inusitée de sommeil, tantôt une invincible répugnance pour la nourriture, quelle qu\'elle fût. On eût vraiment dit que ces prisonniers, enfouis dans le sol comme les tortues pendant l\'hiver, allaient dormir et jeûner comme elles jusqu\'au retour de la saison chaude !
+
+De toute la colonie gallicane, ce fut la petite Nina qui sut le mieux résister. Elle allait, venait, prodiguait ses encouragements à Pablo, que la torpeur générale gagnait aussi. Elle parlait à l\'un, à l\'autre, et sa voix fraîche charmait ces lugubres profondeurs comme un chant d\'oiseau. Elle obligeait celui-ci à manger, celui-là à boire. Elle était l\'âme de ce petit monde, elle l\'animait par son va-et-vient. Elle chantait de joyeuses chansons d\'Italie, lorsque, dans ce milieu lugubre, il se faisait quelque accablant silence. Elle bourdonnait comme une jolie mouche, mais plus utile, plus bienfaisante que la mouche du fabuliste.
+
+Il y avait tant de vie surabondante dans ce petit être, qu\'elle se communiquait pour ainsi dire à tous. Peut-être ce phénomène de réaction s\'accomplit-il presque à l\'insu de ceux qui en subissaient l\'influence, mais il n\'en fut pas moins réel, et la présence de Nina fut incontestablement salutaire aux Galliens, demi endormis dans cette tombe.
+
+Cependant, des mois s\'écoulèrent. Comment ? Le capitaine Servadac et ses compagnons n\'auraient pu le dire.
+
+Vers ce commencement de juin, la torpeur générale parut se détendre peu à peu. Était-ce l\'influence de l\'astre radieux, dont la comète se rapprochait ? Peut-être, mais le soleil était encore bien loin ! Le lieutenant Procope, pendant la première moitié de la révolution gallienne, avait minutieusement noté les positions et les chiffres donnés par le professeur. Il avait pu graphiquement obtenir des éphémérides, et, sur une orbite dessinée par lui, suivre avec plus ou moins de précision la marche de la comète.
+
+Le point aphélie, une fois dépassé, il lui fut facile de marquer les positions successives du retour de Gallia. Il put donc renseigner ses compagnons sans être obligé de consulter Palmyrin Rosette.
+
+Or, il vit que, vers le commencement de juin, Gallia, après avoir recoupé l\'orbite de Jupiter, se trouvait encore à une distance énorme du soleil, soit cent quatre-vingt-dix-sept millions de lieues. Mais sa vitesse allait s\'accroître progressivement, en vertu de l\'une des lois de Kepler, et, quatre mois plus tard, elle rentrerait dans la zone des planètes télescopiques, à cent vingt-cinq millions de lieues seulement.
+
+Vers cette époque -- seconde quinzaine de juin -- le capitaine Servadac et ses compagnons avaient entièrement recouvré leurs facultés physiques et morales.
+
+Ben-Zouf était comme un homme qui a trop dormi, et il se détirait de la belle façon.
+
+Les visites aux salles désertes de Nina-Ruche devinrent plus fréquentes. Le capitaine Servadac, le comte Timascheff, Procope descendirent jusque sur la grève. Il faisait encore un froid excessif, mais l\'atmosphère n\'avait rien perdu de sa tranquillité normale. Pas une vapeur, ni à l\'horizon, ni au zénith, pas un souffle d\'air. Les dernières empreintes de pas laissées sur la grève étaient là aussi nettes qu\'au premier jour.
+
+Un seul aspect du littoral s\'était modifié. C\'était le promontoire rocheux qui couvrait la crique. En cet endroit, le mouvement ascensionnel des couches de glace avait continué. Elles s\'élevaient alors à plus de cent cinquante pieds. Là, à cette hauteur, apparaissaient la goélette et la tartane, complètement inaccessibles. Leur chute, au dégel, était certaine, leur bris inévitable. Aucun moyen n\'existait de les sauver.
+
+Fort heureusement, Isac Hakhabut, qui n\'abandonnait jamais sa boutique dans les profondeurs du mont, n\'accompagnait pas le capitaine Servadac pendant cette promenade à la grève.
+
+« S\'il eût été là, dit Ben-Zouf, quels cris de paon le vieux coquin eût poussés ! Or, pousser des cris de paon et ne pas en avoir la queue, c\'est sans compensation ! »
+
+Deux mois de plus, juillet et août, rapprochèrent Gallia à cent soixante-quatre millions de lieues du soleil. Pendant les courtes nuits, le froid était encore extraordinairement vif ; mais, pendant le jour, le soleil, en parcourant l\'équateur de Gallia qui traversait la Terre-Chaude, émettait une chaleur assez appréciable et relevait la température d\'une vingtaine de degrés.
+
+Les Galliens venaient donc quotidiennement se refaire à ces rayons vivifiants, et, en cela, ils ne faisaient qu\'imiter les quelques oiseaux, qui s\'ébattaient dans l\'air pour ne rentrer qu\'à la chute du jour.
+
+Cette sorte de printemps, -- est-il permis d\'employer ce mot ? -- eut une très heureuse influence sur les habitants de Gallia. L\'espoir, la confiance revenaient en eux. Pendant le jour, le disque du soleil se montrait plus agrandi sur l\'horizon. Pendant la nuit, la terre paraissait grossir au milieu des immuables étoiles. On voyait le but -- il était loin encore -- mais on le voyait. Ce n\'était pourtant qu\'un point dans l\'espace.
+
+Ce qui amena un jour Ben-Zouf à faire cette réflexion devant le capitaine Servadac et le comte Timascheff :
+
+« En vérité, on ne me fera jamais croire que la butte Montmartre puisse tenir là-dedans !
+
+--- Elle y tient, cependant, répondit le capitaine Servadac, et je compte bien que nous l\'y retrouverons !
+
+--- Et moi donc, mon capitaine ! Mais, dites-moi, sans vous commander, si la comète de M. Rosette n\'avait pas dû retourner à la terre, est-ce qu\'il n\'y aurait pas eu moyen de l\'y obliger ?
+
+--- Non, mon ami, répondit le comte Timascheff. Aucune puissance humaine ne peut déranger la disposition géométrique de l\'univers. Quel désordre, si chacun pouvait modifier la marche de sa planète ! Mais Dieu ne l\'a pas voulu, et je crois qu\'il a sagement fait. »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 15 -- Où se fait le récit des premières et dernières relations qui s\'établirent entre Palmyrin Rosette et Isac Hakhabut]{.pcalibre lang="X-NONE"}]{#_Toc342941625 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-15-où-se-fait-le-récit-des-premières-et-dernières-relations-qui-sétablirent-entre-palmyrin-rosette-et-isac-hakhabut .calibre171 .sigil_not_in_toc}
+
+Le mois de septembre arriva. Il était encore impossible d\'abandonner les obscures mais chaudes retraites du sous-sol gallien pour réintégrer le domicile de Nina-Ruche. Les abeilles eussent été certainement gelées dans leurs anciens alvéoles.
+
+Heureusement et malheureusement à la fois, le volcan ne menaçait pas de se remettre en activité.
+
+Heureusement, car une éruption soudaine eût pu surprendre les Galliens dans la cheminée centrale, seul conduit réservé au passage des laves. Malheureusement, parce que l\'existence, relativement facile et confortable dans les hauteurs de Nina-Ruche, aurait été immédiatement reprise, à la satisfaction générale.
+
+« Sept vilains mois que nous avons passés là, mon capitaine ! dit un jour Ben-Zouf. Avez-vous observé notre Nina pendant tout ce temps ?
+
+--- Oui, Ben-Zouf, répondit le capitaine Servadac. C\'est un petit être tout à fait exceptionnel ! On aurait dit que toute la vie gallienne se concentrait dans son coeur !
+
+--- Bon, mon capitaine, et puis après ?
+
+--- Après ?
+
+--- Oui, quand nous serons revenus à la terre, nous ne pouvons abandonner cette chère enfant !
+
+--- Mordioux ! Ben-Zouf, nous l\'adopterons !
+
+--- Bravo, mon capitaine ! Vous serez son père, et si vous le voulez, je serai sa mère !
+
+--- Alors, nous voilà mariés, Ben-Zouf.
+
+--- Ah ! Mon capitaine, répondit le brave soldat, il y a longtemps que nous le sommes ! »
+
+Dès les premiers jours du mois d\'octobre, les froids furent presque supportables, même pendant la nuit, en absence de tout trouble atmosphérique.
+
+La distance de Gallia au soleil n\'était pas triple alors de la distance qui sépare la terre de son centre attractif. La température se maintenait à une moyenne de trente à trente-cinq degrés au-dessous de zéro. Des ascensions plus fréquentes furent faites à Nina-Ruche, et même au-dehors. Les colons s\'aventuraient plus impunément sur la grève. Le patinage fut repris sur cette admirable surface glacée que la mer offrait aux patineurs. C\'était une joie pour les prisonniers de quitter leur prison. Chaque jour aussi, le comte Timascheff, le capitaine Servadac, le lieutenant Procope venaient reconnaître l\'état des choses et discuter la « grande question de l\'atterrissement ». Ce n\'était pas tout que d\'aborder le globe terrestre, il fallait, s\'il était possible, parer à toutes les éventualités du choc.
+
+Un des plus assidus visiteurs à l\'ancien domicile de Nina-Ruche, c\'était Palmyrin Rosette. Il avait fait remonter sa lunette dans son observatoire, et là, aussi longtemps que le froid le permettait, il reprenait ses observations astronomiques.
+
+Ce que fut le résultat de ces nouveaux calculs, on ne le lui demanda pas. Il n\'eût certainement pas répondu. Mais, au bout de quelques jours, ses compagnons remarquèrent qu\'il paraissait être peu satisfait. Il montait, descendait, remontait, redescendait sans cesse l\'oblique tunnel de la cheminée centrale. Il marmottait, il maugréait. Il était plus inabordable que jamais. Une ou deux fois, Ben-Zouf -- un brave, comme on sait -- enchanté au fond de ces symptômes de désappointement, accosta le terrible professeur. Comme il fut reçu, cela ne peut se dire.
+
+« Paraît, pensa-t-il, que cela ne va pas là-haut comme il le voudrait.
+
+Mais, triple nom d\'un Bédouin, pourvu qu\'il ne dérange pas la mécanique céleste, et nous avec ! »
+
+Cependant, le capitaine Servadac, le comte Timascheff, le lieutenant Procope étaient assez fondés à se demander ce qui pouvait contrarier à ce point Palmyrin Rosette. Le professeur avait-il donc revu ses calculs, et étaient-ils en désaccord avec les nouvelles observations ? En un mot, la comète n\'occupait-elle pas sur son orbite la place que lui assignaient les éphémérides précédemment établies, et, conséquemment, ne devait-elle pas rencontrer la terre au point et à la seconde indiqués ?
+
+C\'était toujours leur plus grande appréhension, et, n\'ayant que les affirmations de Palmyrin Rosette pour baser leurs espérances, ils avaient lieu de tout craindre, en le voyant si contrarié.
+
+C\'est qu\'en effet, le professeur devenait peu à peu le plus malheureux des astronomes. Évidemment, ses calculs ne devaient pas être d\'accord avec ses observations, et un homme tel que lui ne pouvait pas éprouver de plus vif désappointement. En somme, toutes les fois qu\'il redescendait à son cabinet, aux trois quarts gelé par une station trop longue au bout de sa lunette, il éprouvait un véritable accès de fureur.
+
+S\'il eût été permis à l\'un de ses semblables de l\'approcher en ce moment, voici ce qu\'il l\'aurait entendu se répéter à lui-même :
+
+« Malédiction ! Qu\'est-ce que cela veut dire ? Que fait-elle là ? Elle n\'est pas à la place que mes calculs lui donnent ! La misérable ! Elle est en retard ! Ou Newton est un fou, ou elle est folle ! Tout cela est contraire aux lois de la gravitation universelle ! Que diable ! Je n\'ai pu me tromper ! Mes observations sont justes, mes calculs aussi ! Ah ! Satanée coquine ! »
+
+Et Palmyrin Rosette se prenait la tête à deux mains, et il s\'arrachait les cheveux, qui ne foisonnaient cependant pas sur son occiput.
+
+Et toujours, toujours le même résultat : un désaccord constant et inexplicable entre le calcul et l\'observation.
+
+« Voyons, se disait-il, est-ce qu\'il y aurait un dérangement dans la mécanique céleste ? Non, ce n\'est pas possible ! C\'est moi qui me trompe ! Et pourtant\... Pourtant\... »
+
+Vraiment, Palmyrin Rosette eût maigri à la peine, s\'il lui eût été possible de maigrir.
+
+Enfin, s\'il était désappointé, on était inquiet autour de lui, mais c\'était ce dont il se préoccupait le moins.
+
+Cependant, cet état de choses devait avoir un terme.
+
+Un jour, le 12 octobre, Ben-Zouf, qui rôdait autour de la grande salle de Nina-Ruche, dans laquelle le professeur se trouvait en ce moment, l\'entendit pousser un cri retentissant.
+
+Ben-Zouf courut à lui.
+
+« Vous vous êtes fait mal, sans doute ? lui demanda-t-il du ton dont il aurait dit : Comment vous portez-vous ?
+
+--- Eurêka ! Te dis-je, eurêka ! » répondit Palmyrin Rosette, qui trépignait comme un fou.
+
+Il y avait dans son transport à la fois du contentement et de la rage. « Eurêka ? Redit Ben-Zouf.
+
+--- Oui, eurêka ! Sais-tu ce que cela veut dire ?
+
+--- Non.
+
+--- Eh bien, va-t\'en au diable ! »
+
+« Heureusement, pensa l\'ordonnance, que lorsqu\'il ne veut pas répondre, M. Rosette y met au moins des formes ! »
+
+« Mon capitaine, dit-il, il y a du nouveau.
+
+--- Qu\'est-ce donc ?
+
+--- Le savant\... Eh bien ! Il a « eurêké\... ».
+
+--- Il a trouvé ! s\'écria le capitaine Servadac. Mais qu\'a-t-il trouvé ? -- Cela, je ne le sais pas.
+
+--- Eh ! C\'est ce qu\'il faudrait précisément savoir ! »
+
+Et le capitaine Servadac fut plus inquiet qu\'il ne l\'avait jamais été. Cependant, Palmyrin Rosette redescendait vers son cabinet de travail et se répétait à lui-même :
+
+« Oui, c\'est cela\... Ce ne peut être que cela ! Ah ! Le misérable ! Si cela est, il le payera cher ! Mais voudra-t-il avouer ? Jamais ! Il lui faudrait rendre gorge ! Eh bien ! Je ruserai\... Et nous verrons ! »
+
+C\'était à n\'y rien comprendre, mais ce qui fut manifeste, c\'est que, depuis ce jour, Palmyrin Rosette changea sa manière d\'être vis-à-vis de maître Isac Hakhabut. Jusqu\'alors, il l\'avait toujours ou évité ou malmené. Il fut désormais tout autre à son égard.
+
+Qui dut être étonné ? Ce fut certainement maître Isac, peu accoutumé à de pareilles avances. Il voyait le professeur descendre fréquemment à son obscure boutique. Palmyrin Rosette s\'intéressait à lui, à sa personne, à ses affaires. Il lui demandait s\'il avait bien vendu ses marchandises, quel bénéfice il en était résulté pour sa caisse, s\'il avait pu profiter d\'une occasion qui ne se représenterait peut-être jamais, etc., etc., et tout cela avec l\'intention, qu\'il dissimulait à grand-peine, de l\'étrangler net.
+
+Isac Hakhabut, défiant comme un vieux renard, ne répondait que fort évasivement. Cette modification subite des manières du professeur à son égard était bien faite pour l\'étonner.
+
+Il se demandait si Palmyrin Rosette ne songeait pas à lui emprunter de l\'argent.
+
+Or, on le sait, Isac Hakhabut, en principe, ne se refusait pas à prêter, à un taux parfaitement usuraire d\'ailleurs. Il comptait même sur ce genre d\'opérations pour faire valoir son bien. Mais il ne voulait prêter que sur solide signature, et -- il faut bien l\'avouer -- il ne voyait que le comte Timascheff, riche seigneur russe, avec lequel il pût se risquer. Le capitaine Servadac devait être gueux comme un Gascon ! Quant au professeur, qui aurait jamais l\'idée de prêter de l\'argent à un professeur ! Aussi, maître Isac se tenait-il serré.
+
+D\'autre part, le juif allait être contraint à faire de son argent un emploi aussi restreint que possible, mais sur lequel il n\'avait pas compté.
+
+En effet, à cette époque, il avait vendu aux Galliens presque tous les articles alimentaires qui composaient sa cargaison. Il n\'avait pas eu la sagesse de réserver quelques produits pour sa consommation particulière. Entre autres choses, le café lui manquait. Et le café, si parcimonieusement qu\'on en use, « quand il n\'y en a plus, il n\'y en a plus », eût dit Ben-Zouf.
+
+Il arrivait donc que maître Isac était privé d\'une boisson dont il ne pouvait se passer, et force lui fut de recourir aux réserves du magasin général. Donc, après de longues hésitations, il se dit qu\'après tout la réserve était commune aux Galliens sans distinction, qu\'il y avait les mêmes droits qu\'un autre, et il alla trouver Ben-Zouf.
+
+« Monsieur Ben-Zouf, dit-il de son ton le plus aimable, j\'aurais une petite demande à vous adresser.
+
+--- Parle, Gobseck, répondit Ben-Zouf.
+
+--- J\'aurais besoin de prendre à la réserve une livre de café pour mon usage personnel.
+
+--- Une livre de café ! répondit Ben-Zouf. Comment ! Tu demandes une livre de café ?
+
+--- Oui, monsieur Ben-Zouf.
+
+--- Oh ! Oh ! Voilà qui est grave !
+
+--- Est-ce qu\'il n\'y en a plus ?
+
+--- Si, encore une centaine de kilos.
+
+--- Eh bien ?
+
+--- Eh bien, vieux, répondit Ben-Zouf en secouant la tête d\'une façon inquiétante, je ne sais pas si je peux te donner cela !
+
+--- Donnez, monsieur Ben-Zouf, dit Isac Hakhabut, donnez, et mon coeur en sera tout réjoui !
+
+--- La réjouissance de ton coeur m\'est superlativement indifférente ! -- Cependant, vous ne refuseriez pas, si un autre que moi\...
+
+--- Ah ! Voilà ! Voilà ! C\'est que tu n\'es pas un autre, toi !
+
+--- Eh bien, monsieur Ben-Zouf ?
+
+--- Eh bien, je vais en référer à Son Excellence le gouverneur général. -- Oh ! Monsieur Ben-Zouf, je ne doute pas que dans sa justice\...
+
+--- Au contraire, vieux, c\'est sa justice qui me fait craindre pour toi ! »
+
+Et l\'ordonnance laissa Isac Hakhabut sur cette réflexion vraiment peu consolante.
+
+Précisément, Palmyrin Rosette, toujours aux aguets, était arrivé pendant que ces paroles s\'échangeaient entre Ben-Zouf et Isac. L\'occasion lui parut bonne pour tenter l\'aventure, et il entra aussi en matière.
+
+« Tiens, maître Isac, dit-il, vous avez besoin de café ?
+
+--- Oui\... Monsieur le professeur, répondit Isac Hakhabut.
+
+--- Vous avez donc tout vendu ?
+
+--- Hélas ! J\'ai commis cette faute !
+
+--- Diable ! C\'est que le café vous est nécessaire ! Oui ! Oui ! Cela réchauffe le sang !
+
+--- Sans doute\... Et dans ce trou noir, je ne puis pas m\'en passer !
+
+--- Eh bien, maître Isac, on va vous en donner une quantité suffisante pour votre consommation.
+
+--- N\'est-ce pas, monsieur le professeur\... Et, quoique je l\'aie vendu, ce café, j\'ai droit comme un autre d\'en prendre pour mon usage !
+
+--- Certainement\... Maître Isac\... Certainement ! Et vous en faudra-t-il une grande quantité ?
+
+--- Une livre seulement ! Je le ménage avec tant de soin ! Cela me durera longtemps !
+
+--- Et comment pèsera-t-on ce café ? demanda Palmyrin Rosette, qui, malgré lui, accentua légèrement cette phrase.
+
+--- Avec mon peson ! » murmura le juif.
+
+Et Palmyrin Rosette crut surprendre comme un soupir qui s\'échappait de la poitrine de maître Isac.
+
+« Oui\... Répliqua-t-il\... Avec le peson ! Il n\'y a pas d\'autre balance ici ? -- Non ! répondit Isac, qui regrettait peut-être son soupir.
+
+--- Eh ! Eh ! Maître Isac ! Ce sera avantageux ! Pour une livre de café, on va vous en donner sept !
+
+--- Oui\... Sept ! C\'est bien cela ! »
+
+Le professeur regardait son homme, il le dévisageait.
+
+Il voulait lui faire une question\... Il n\'osait, pensant, avec raison, qu\'Isac ne lui dirait pas la vérité, qu\'il voulait à tout prix connaître.
+
+Cependant, ne pouvant plus contenir son impatience, il allait parler, lorsque Ben-Zouf revint.
+
+« Eh bien ? demanda vivement Isac Hakhabut.
+
+--- Eh bien, le gouverneur ne veut pas\... répondit Ben-Zouf.
+
+--- Il ne veut pas qu\'on me donne du café ! s\'écria Isac.
+
+--- Non, mais il veut bien qu\'on t\'en vende.
+
+--- M\'en vendre, mein Gott !
+
+--- Oui, et cela est juste, puisque tu as ramassé tout l\'argent de la colonie. Allons, voyons la couleur de tes pistoles !
+
+--- Me forcer à acheter, quand un autre\...
+
+--- Je t\'ai déjà dit que tu n\'étais pas un autre ! Achètes-tu, oui ou non ? -- Miséricorde !
+
+--- Réponds, ou je ferme la boutique ! »
+
+Isac savait bien qu\'il ne fallait pas plaisanter avec Ben-Zouf.
+
+« Allons\... J\'achèterai, dit-il.
+
+--- Bon.
+
+--- Mais à quel prix ?
+
+--- Le prix auquel tu as vendu. On ne t\'écorchera pas ! Ta peau n\'en vaut pas la peine ! »
+
+Isac Hakhabut avait mis la main à la poche et y faisait remuer quelques pièces d\'argent.
+
+Le professeur était de plus en plus attentif et semblait guetter les paroles à la bouche d\'Isac.
+
+« Combien, dit celui-ci, me ferez-vous payer une livre de café ? -- Dix francs, répondit Ben-Zouf.
+
+C\'est le prix courant à la Terre-Chaude. Mais qu\'est-ce que cela peut te faire, puisque, après notre retour à la terre, l\'or n\'aura plus de valeur.
+
+--- L\'or ne plus avoir de valeur ! répondit Isac. Est-ce que cela peut arriver, monsieur Ben-Zouf ?
+
+--- Tu le verras.
+
+--- L\'Éternel me vienne en aide ! Dix francs, une livre de café.
+
+--- Dix francs. Est-ce fini ? »
+
+Isac Hakhabut tira alors une pièce d\'or, il la regarda à la lumière de la lampe, il la baisa presque du bout des lèvres.
+
+« Et vous allez peser avec mon peson ? demanda-t-il d\'un ton si plaintif qu\'il en était suspect.
+
+--- Et avec quoi veux-tu que je pèse ? » répondit Ben-Zouf.
+
+Puis, prenant le peson, il suspendit un plateau à son crochet et versa ce qu\'il fallait de café pour que l\'aiguille marquât une livre, -- soit sept en réalité.
+
+Isac Hakhabut suivait des yeux l\'opération.
+
+« Voilà ! dit Ben-Zouf.
+
+--- L\'aiguille est-elle bien rendue au point ? demanda le négociant, en se penchant sur le cercle gradué de l\'instrument.
+
+--- Oui donc, vieux Jonas !
+
+--- Poussez-la un peu du doigt, monsieur Ben-Zouf !
+
+--- Et pourquoi cela ?
+
+--- Parce que\... Parce que\... Murmura Isac Hakhabut, parce que mon peson n\'est peut-être pas\... Tout à fait\... Juste ! »
+
+Ces mots étaient à peine achevés, que Palmyrin Rosette sautait à la gorge d\'Isac.
+
+Il le secouait, il l\'étranglait.
+
+« Canaille ! criait-il.
+
+--- Au secours ! à moi ! » répondait Isac Hakhabut.
+
+La lutte continuait. Il est vrai que Ben-Zouf se gardait bien d\'intervenir. Au contraire, il excitait les combattants, il éclatait de rire. Pour lui, en vérité, l\'un ne valait pas mieux que l\'autre.
+
+Mais, au bruit de la bataille, le capitaine Servadac, le comte Timascheff, le lieutenant Procope vinrent voir ce qui se passait.
+
+On sépara Isac et le professeur.
+
+« Mais qu\'y a-t-il ? demanda Hector Servadac.
+
+--- Il y a, répondit Palmyrin Rosette, il y a que ce sacripant nous a donné un peson faux, un peson qui accuse un poids plus fort que le poids réel ! -- Est-ce vrai, Isac ?
+
+--- Monsieur le gouverneur\... Oui\... Non ! répondit-il\... Oui !
+
+--- Il y a que ce voleur vendait à faux poids, reprit le professeur avec une fureur croissante, et que, lorsque j\'ai pesé ma comète avec son instrument, j\'ai obtenu un poids supérieur à celui qu\'elle a réellement.
+
+--- Est-ce vrai ?
+
+--- Vraiment\... Je ne sais ! Marmottait Isac Hakhabut.
+
+--- Il y a enfin que j\'ai pris cette fausse masse pour base de mes nouveaux calculs, que ceux-ci ont été en désaccord avec mes observations, et que j\'ai dû croire qu\'elle n\'était plus à sa place !
+
+--- Mais qui\... Elle ? Gallia ?
+
+--- Eh non ! Nérina, pardieu ! Notre lune !
+
+--- Mais Gallia ?
+
+--- Eh ! Gallia est toujours où elle doit être ! répondit Palmyrin Rosette.
+
+Elle va directement à la terre, et nous avec ! Et aussi ce maudit Isac ! Que Dieu confonde ! »
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 16 -- Dans lequel le capitaine Servadac et Ben-Zouf partent et reviennent comme ils étaient partis]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941626 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-16-dans-lequel-le-capitaine-servadac-et-ben-zouf-partent-et-reviennent-comme-ils-étaient-partis .calibre171 .sigil_not_in_toc}
+
+Cela était vrai. Depuis qu\'il avait entrepris son honnête commerce de cabotage, Isac Hakhabut vendait à faux poids. L\'homme étant connu, cela n\'étonnera personne. Mais le jour où de vendeur il était devenu acheteur, son improbité s\'était retournée contre lui. Le principal instrument de sa fortune était ce peson, faux d\'un quart, comme cela fut reconnu, -- ce qui permit au professeur de reprendre ses calculs, en les rétablissant sur une base juste.
+
+Lorsque, sur la terre, ce peson marquait un poids d\'un kilogramme, en réalité l\'objet ne pesait que sept cent cinquante grammes. Donc, au poids qu\'il avait indiqué pour Gallia, il fallait retrancher un quart. On comprend donc que les calculs du professeur, se basant sur une masse de la comète trop forte d\'un quart, ne pouvaient s\'accorder avec les positions vraies de Nérina, puisque c\'était la masse de Gallia qui l\'influençait.
+
+Palmyrin Rosette, satisfait d\'avoir consciencieusement rossé Isac Hakhabut, se remit aussitôt à la besogne pour en finir avec Nérina. Combien, après cette scène, Isac Hakhabut fut bafoué, cela se comprend ! Ben-Zouf ne cessait de lui répéter qu\'il serait poursuivi pour vente à faux poids, que son affaire s\'instruisait, et qu\'il serait traduit en police correctionnelle.
+
+« Mais où et quand ? demandait-il.
+
+--- Sur la terre, à notre retour, vieux coquin ! » répondait gracieusement B en-Zouf.
+
+L\'affreux bonhomme dut se confiner dans son trou obscur, et ne se laissa plus voir que le moins possible.
+
+Deux mois et demi séparaient encore les Galliens du jour où ils espéraient rencontrer la terre.
+
+Depuis le 7 octobre, la comète était rentrée dans la zone des planètes télescopiques, là même où elle avait capté Nérina.
+
+Au 1er novembre, la moitié de cette zone dans laquelle gravitent ces astéroïdes, dont l\'origine est due probablement à l\'éclatement de quelque planète qui gravitait entre Mars et Jupiter, avait été heureusement traversée. Pendant ce mois, Gallia allait parcourir un arc de quarante millions de lieues sur son orbite, en se rapprochant jusqu\'à soixante-dix-huit millions de lieues du soleil.
+
+La température redevenait supportable, -- environ dix à douze degrés au-dessous de zéro. Cependant, aucun symptôme de dégel ne se manifestait encore. La surface de la mer restait immuablement congelée, et les deux bâtiments, juchés sur leur piédestal de glace, surplombaient l\'abîme.
+
+Ce fut alors que la question des Anglais relégués sur l\'îlot de Gibraltar fut remise sur le tapis. On ne doutait pas qu\'ils n\'eussent impunément traversé les extrêmes froids de l\'hiver gallien.
+
+Le capitaine Servadac traita cette question à un point de vue qui faisait le plus grand honneur à sa générosité. Il dit que, malgré leur mauvais accueil lors de la visite de la *Dobryna*, il convenait de se remettre en communication avec eux, pour les mettre au courant de tout ce qu\'ils ignoraient sans doute. Le retour à la terre, qui ne serait, après tout, que le résultat d\'une nouvelle collision, offrait des dangers extrêmes. Il fallait donc en prévenir ces Anglais et les engager même à venir braver ces dangers en commun.
+
+Le comte Timascheff et le lieutenant Procope partagèrent absolument l\'avis du capitaine Servadac.
+
+Il y avait là une question d\'humanité qui ne pouvait les laisser indifférents. Mais comment arriver, à cette époque, jusqu\'à l\'îlot de Gibraltar ?
+
+Par mer évidemment, c\'est-à-dire en profitant de l\'appui solide que sa surface glacée présentait encore.
+
+C\'était, d\'ailleurs, la seule manière de voyager d\'une île à l\'autre, car, le dégel venu, aucun autre genre de communication ne serait possible. En effet, on ne pouvait plus compter ni sur la goélette, ni sur la tartane. Quant à la chaloupe à vapeur, l\'utiliser à cet effet, c\'eût été consommer quelques tonnes du charbon qui avait été précieusement mis en réserve, pour le cas où les colons devraient retourner à l\'île Gourbi.
+
+Il y avait bien le youyou, qui avait été déjà transformé en traîneau à voile. On sait dans quelles conditions de rapidité et de sécurité il avait accompli le trajet de la Terre-Chaude à Formentera.
+
+Mais il lui fallait le vent, pour se mouvoir, et le vent ne se faisait plus sentir à la surface de Gallia. Peut-être après le dégel, avec les vapeurs que développerait la température estivale, de nouveaux troubles se produiraient-ils dans l\'atmosphère gallienne ? On devait même le craindre. Mais alors le calme était absolu, et le youyou ne pouvait se rendre à l\'îlot de Gibraltar.
+
+Restait donc la possibilité de faire la route à pied ou plutôt à patins. La distance était considérable, -- cent lieues environ. Pouvait-on tenter de la franchir dans ces conditions ?
+
+Le capitaine Servadac s\'offrit à cette tâche. Vingt-cinq à trente lieues par jour, soit environ deux lieues à l\'heure, cela n\'était pas pour embarrasser un homme rompu à l\'exercice du patinage.
+
+En huit jours, il pouvait donc être revenu à la Terre-Chaude, après avoir visité Gibraltar. Une boussole pour se diriger, une certaine quantité de viande froide, un petit réchaud à esprit-de-vin pour faire du café, il n\'en demandait pas davantage, et cette entreprise, un peu hasardée, allait bien à son esprit aventureux.
+
+Le comte Timascheff, le lieutenant Procope insistèrent ou pour partir à sa place, ou pour l\'accompagner. Mais le capitaine Servadac les remercia. En cas de malheur, il fallait que le comte et le lieutenant fussent à la Terre-Chaude. Sans eux, que deviendraient leurs compagnons au moment du retour ?
+
+Le comte Timascheff dut céder. Le capitaine Servadac ne voulut accepter qu\'un seul compagnon, son fidèle Ben-Zouf. Il lui demanda donc si la chose lui allait.
+
+« Si ça me va, nom d\'une butte ! s\'écria Ben-Zouf. Si ça me va, mon capitaine ! Une pareille occasion de se dégourdir les jambes ! Et puis, croyez-vous que je vous aurais laissé partir seul ! »
+
+Le départ fut décidé pour le lendemain 2 novembre. Certainement, le désir d\'être utile aux Anglais, le besoin de remplir un devoir d\'humanité était le premier mobile auquel obéissait le capitaine Servadac. Mais peut-être une autre pensée avait-elle germé dans son cerveau de Gascon. Il ne l\'avait encore communiquée à personne, et, sans doute, il n\'en voulait rien dire au comte Timascheff.
+
+Quoi qu\'il en soit, Ben-Zouf comprit qu\'il y avait « quelque autre machinette », lorsque, la veille du départ, son capitaine lui dit :
+
+« Ben-Zouf, est-ce que tu ne trouverais pas dans le magasin général de quoi faire un drapeau tricolore ?
+
+--- Oui, mon capitaine, répondit Ben-Zouf.
+
+--- Eh bien, fais ce drapeau sans qu\'on te voie, mets-le dans ton sac et emporte-le. »
+
+Ben-Zouf n\'en demanda pas davantage et obéit.
+
+Maintenant, quel était le projet du capitaine Servadac, et pourquoi ne s\'en ouvrait-il pas à ses compagnons ?
+
+Avant de le dire, il convient de noter ici un certain phénomène psychologique, qui, pour ne pas appartenir à la catégorie des phénomènes célestes, n\'en était pas moins très naturel, -- étant donné les faiblesses de l\'humanité.
+
+Depuis que Gallia se rapprochait de la terre, peut-être le comte Timascheff et le capitaine Servadac, par un mouvement opposé, tendaient-ils à s\'écarter l\'un de l\'autre. Il était possible que cela se fît presque à leur insu. Le souvenir de leur ancienne rivalité, si complètement oubliée pendant ces vingt-deux mois d\'une existence commune, revenait peu à peu à leur esprit, et de leur esprit à leur coeur. En se retrouvant sur le globe terrestre, ces compagnons d\'aventure ne redeviendraient-ils pas les rivaux d\'autrefois ? Pour avoir été Gallien, on n\'en est pas moins homme. Mme de L\... était peut-être libre encore, -- et, même, c\'eût été lui faire injure que d\'en douter !
+
+Enfin, de tout cela, volontairement ou non, il était résulté une certaine froideur entre le comte et le capitaine. On a pu remarquer, d\'ailleurs, qu\'il n\'y avait jamais eu entre eux une réelle intimité, mais seulement cette amitié qui devait résulter des circonstances dans lesquelles ils se trouvaient.
+
+Ceci dit, voici quel était le projet du capitaine Servadac, -- projet qui eût peut-être créé entre le comte Timascheff et lui une rivalité nouvelle. C\'est pourquoi il avait voulu le tenir secret.
+
+Ce projet -- il faut en convenir -- était bien digne du cerveau fantaisiste dans lequel il avait pris naissance.
+
+On sait que les Anglais, rivés à leur roc, avaient continué d\'occuper l\'îlot de Gibraltar pour le compte de l\'Angleterre.
+
+Ils avaient eu raison, si ce poste revenait à la terre dans de bonnes conditions. Au moins, l\'occupation ne saurait leur en être disputée.
+
+Or, en face de Gibraltar se dressait l\'îlot de Ceuta. Avant le choc, Ceuta appartenait aux Espagnols et commandait l\'un des côtés du détroit. Mais Ceuta, abandonnée, revenait au premier occupant. Donc, se rendre au rocher de Ceuta, en prendre possession au nom de la France, y planter le pavillon français, voilà ce qui parut tout indiqué au capitaine Servadac.
+
+« Qui sait, se disait-il, si Ceuta n\'arrivera pas à bon port sur la terre et ne commandera pas quelque importante Méditerranée ? Eh bien, le pavillon français, planté sur ce roc, justifiera les prétentions de la France ! »
+
+Et voilà pourquoi, sans en rien dire, le capitaine Servadac et son ordonnance Ben-Zouf partirent pour la conquête.
+
+On conviendra, d\'ailleurs, que Ben-Zouf était bien fait pour comprendre son capitaine. Conquérir un morceau de rocher à la France ! Faire une niche aux Anglais ! C\'était son affaire !
+
+Ce fut, après le départ, au pied de la falaise, lorsque, les adieux terminés, les deux conquérants se trouvèrent seuls, que Ben-Zouf eut connaissance des projets de son capitaine.
+
+Et alors il sembla que les vieux refrains de régiment lui revinssent à la mémoire, car, d\'une voix superbe, il se mit à chanter :
+
+
+Le soleil en se levant
+
+Nous fich\' des rayons obliques !
+
+Vlan ! Du bataillon d\'Afrique,
+
+Vlan ! Les Zéphyrs en avant !
+
+
+Le capitaine Servadac et Ben-Zouf, chaudement vêtus, l\'ordonnance ayant le sac au dos et portant le petit matériel du voyage, tous deux les patins aux pieds, se lancèrent sur l\'immense surface blanche et perdirent bientôt de vue les hauteurs de la Terre-Chaude.
+
+Le voyage n\'offrit aucun incident. Le temps du parcours fut divisé par quelques haltes, pendant lesquelles repos et nourriture étaient pris en commun. La température redevenait supportable, même pendant la nuit, et trois jours seulement après leur départ, le 5 novembre, les deux héros arrivaient à quelques kilomètres de l\'îlot de Ceuta.
+
+Ben-Zouf était bouillant. S\'il eût fallu donner un assaut, le brave soldat ne demandait qu\'à se former en colonne, et « même en carré » pour repousser la cavalerie ennemie.
+
+On était au matin. La direction rectiligne avait été sévèrement relevée à la boussole et suivie exactement depuis le départ. Le rocher de Ceuta apparaissait à cinq ou six kilomètres, au milieu de l\'irradiation solaire, sur l\'horizon occidental.
+
+Les deux chercheurs d\'aventure avaient hâte de mettre le pied sur ce roc. Tout à coup, à une distance de trois kilomètres environ, Ben-Zouf, qui avait une vue très perçante, s\'arrêta et dit :
+
+« Mon capitaine, voyez donc !
+
+--- Qu\'y a-t-il, Ben-Zouf ?
+
+--- Quelque chose qui remue sur le rocher.
+
+--- Avançons », répondit le capitaine Servadac. Deux kilomètres furent franchis en quelques minutes.
+
+Le capitaine Servadac et Ben-Zouf, modérant leur vitesse, s\'arrêtèrent de nouveau.
+
+« Mon capitaine.
+
+--- Eh bien, Ben-Zouf ?
+
+--- Il y a positivement un monsieur quelconque sur Ceuta, et qui nous fait de grands gestes.
+
+Il a l\'air de se détirer les bras comme un homme qui se réveille après avoir trop dormi.
+
+--- Mordioux ! s\'écria le capitaine Servadac, est-ce que nous arriverions trop tard ? »
+
+Tous deux avancèrent encore, et bientôt Ben-Zouf de s\'écrier :
+
+« Ah ! Mon capitaine, c\'est un télégraphe ! »
+
+C\'était, en effet, un télégraphe, semblable à ceux des sémaphores, qui fonctionnait sur le rocher de Ceuta.
+
+« Mordioux ! s\'écria le capitaine, mais s\'il y a là un télégraphe, c\'est qu\'on l\'y a planté !
+
+--- À moins, dit Ben-Zouf, que sur Gallia il ne pousse des télégraphes en guise d\'arbres !
+
+--- Et s\'il gesticule, c\'est que quelqu\'un le met en mouvement !
+
+--- Pardieu ! »
+
+Hector Servadac, très désappointé, regarda dans le nord.
+
+Là, à la limite de l\'horizon, s\'élevait le rocher de Gibraltar, et il sembla à Ben-Zouf, comme à lui, qu\'un second télégraphe, installé au sommet de l\'îlot, répondait aux interpellations du premier.
+
+« Ils ont occupé Ceuta, s\'écria le capitaine Servadac, et notre arrivée est maintenant signalée à Gibraltar !
+
+--- Alors, mon capitaine ?
+
+--- Alors, Ben-Zouf, il faut rengainer notre projet de conquête et faire contre fortune bon coeur !
+
+--- Cependant, mon capitaine, s\'ils ne sont que cinq ou six Anglais à défendre Ceuta ?
+
+--- Non, Ben-Zouf, répondit le capitaine Servadac, nous avons été prévenus, et, à moins que mes arguments ne les décident à nous céder la place, il n\'y a rien à faire. »
+
+Les déconfits Hector Servadac et Ben-Zouf étaient arrivés au pied même du rocher. En ce moment, une sentinelle en jaillit, comme si elle eût été pressée par un ressort.
+
+« Qui vive ?
+
+--- Amis ! France !
+
+--- Angleterre ! »
+
+Tels furent les mots échangés tout d\'abord. Alors quatre hommes parurent sur la partie supérieure de l\'îlot.
+
+« Que voulez-vous ? demanda l\'un de ces hommes, qui appartenaient à la garnison de Gibraltar.
+
+--- Je désire parler à votre chef, répondit le capitaine Servadac.
+
+--- Le commandant de Ceuta ?
+
+--- Le commandant de Ceuta, puisque Ceuta a déjà un commandant. -- Je vais le prévenir », répondit le soldat anglais.
+
+Quelques instants après, le commandant de Ceuta, en tenue, s\'avançait jusqu\'aux premières roches de son îlot.
+
+C\'était le major Oliphant en personne.
+
+Il n\'y avait plus de doute possible. Cette idée qu\'avait le capitaine Servadac d\'occuper Ceuta, les Anglais l\'avaient eue, mais ils l\'avaient exécutée avant lui. Ce rocher occupé, ils y creusèrent un poste qui fut solidement casematé. Vivres et combustible y furent transportés, dans le canot du commandant de Gibraltar, avant que la mer eût été solidifiée par le froid. Une épaisse fumée qui sortait du roc même prouvait que l\'on avait dû faire bon feu pendant l\'hiver gallien et que la garnison n\'avait pas souffert de ses rigueurs. Et, en effet, ces soldats anglais présentaient un embonpoint rassurant, et, quoiqu\'il n\'en voulût peut-être pas convenir, le major Oliphant avait légèrement engraissé.
+
+Du reste, les Anglais de Ceuta n\'étaient pas trop isolés, puisque quatre lieues au plus les séparaient de Gibraltar. Soit en traversant l\'ancien détroit, soit en faisant jouer le télégraphe, ils restaient en communication constante.
+
+Il faut même ajouter que le brigadier Murphy et le major Oliphant n\'avaient point interrompu leur partie d\'échecs. Leurs coups longuement préparés, ils se les transmettaient par le télégraphe.
+
+En cela, les deux honorables officiers imitaient ces deux sociétés américaines qui, en 1846, malgré pluie et tempête, jouèrent « télégraphiquement » une célèbre partie d\'échecs entre Washington et Baltimore.
+
+Inutile d\'ajouter qu\'entre le brigadier Murphy et le major Oliphant, il s\'agissait toujours de la même partie commencée lors de la visite du capitaine Servadac à Gibraltar.
+
+Cependant, le major attendait froidement ce que les deux étrangers voulaient de lui.
+
+« Le major Oliphant, je crois ? dit le capitaine Servadac en saluant.
+
+--- Le major Oliphant, gouverneur de Ceuta », répondit l\'officier, qui ajouta : « À qui ai-je l\'honneur de parler ?
+
+--- Au capitaine Servadac, gouverneur général de la Terre-Chaude. -- Ah ! Fort bien, répondit le major.
+
+--- Monsieur, reprit alors Hector Servadac, voulez-vous me permettre d\'être légèrement surpris de vous voir installé en qualité de commandant sur ce qui reste d\'une ancienne propriété de l\'Espagne ?
+
+--- Je vous le permets, capitaine.
+
+--- Oserais-je vous demander de quel droit ?
+
+--- Du droit de premier occupant.
+
+--- C\'est au mieux, major Oliphant.
+
+Mais ne pensez-vous pas que les Espagnols, qui sont devenus les hôtes de la Terre-Chaude, pourraient réclamer avec quelque raison ?
+
+--- Je ne le pense pas, capitaine Servadac.
+
+--- Et pourquoi, s\'il vous plaît ?
+
+--- Parce que ce sont ces Espagnols qui ont cédé ce rocher de Ceuta en toute propriété à l\'Angleterre.
+
+--- Par contrat, major Oliphant ?
+
+--- Par contrat en bonne et due forme.
+
+--- Ah ! Vraiment ?
+
+--- Et ils ont même reçu en or anglais, capitaine Servadac, le prix de cette importante cession.
+
+--- Voilà donc, s\'écria Ben-Zouf, pourquoi Negrete et ses compagnons avaient tant d\'argent dans leur poche ! »
+
+En effet, les choses s\'étaient passées comme le disait le major Oliphant. Les deux officiers, on se le rappelle, avaient secrètement fait une visite à Ceuta, lorsque les Espagnols y étaient encore. De là cette cession, facile à obtenir, de l\'îlot au profit de l\'Angleterre.
+
+Donc, l\'argument sur lequel comptait un peu le capitaine Servadac tombait de lui-même. Donc, déconvenue complète du conquérant et de son chef d\'état-major. Aussi se garda-t-il d\'insister ni de laisser soupçonner ses projets.
+
+« Puis-je savoir, reprit alors le major Oliphant, ce qui me vaut l\'honneur de votre visite ?
+
+--- Major Oliphant, répondit le capitaine Servadac, je suis venu pour rendre service à vos compagnons et à vous.
+
+--- Ah ! fit le major du ton d\'un homme qui ne croit avoir besoin des services de personne.
+
+--- Peut-être, major Oliphant, n\'êtes-vous pas au courant de ce qui s\'est passé, et ignorez-vous que les rochers de Ceuta et de Gibraltar courent le monde solaire à la surface d\'une comète ?
+
+--- Une comète ? » répéta le major avec un sourire de parfaite incrédulité.
+
+En quelques mots, le capitaine Servadac fit connaître les résultats de la rencontre de la terre et Gallia, -- ce qui ne fit pas même sourciller l\'officier anglais. Puis, il ajouta que presque toutes les chances étaient pour un retour au globe terrestre, et qu\'il conviendrait peut-être que les habitants de Gallia réunissent leurs efforts pour parer aux dangers de la nouvelle collision.
+
+« Donc, major Oliphant, si votre petite garnison et celle de Gibraltar veulent émigrer à la Terre-Chaude ?
+
+--- Je ne saurais trop vous remercier, capitaine Servadac, répondit froidement le major Oliphant, mais nous ne pouvons pas abandonner notre poste.
+
+--- Et pourquoi ?
+
+--- Nous n\'avons pas d\'ordre de notre gouvernement, et le pli que nous avons destiné à l\'amiral Fairfax attend toujours le passage de la malle.
+
+--- Mais je vous répète que nous ne sommes plus sur le globe terrestre, et qu\'avant deux mois la comète aura de nouveau rencontré la terre !
+
+--- Cela ne m\'étonne pas, capitaine Servadac, car l\'Angleterre a dû tout faire pour l\'attirer à elle ! »
+
+Il était évident que le major ne croyait pas un mot de ce que lui racontait le capitaine.
+
+« À votre aise ! reprit celui-ci. Vous voulez garder obstinément ces deux postes de Ceuta et de Gibraltar ?
+
+--- Évidemment, capitaine Servadac, puisqu\'ils commandent l\'entrée de la Méditerranée.
+
+--- Oh ! Il n\'y aura peut-être plus de Méditerranée, major Oliphant !
+
+--- Il y aura toujours une Méditerranée, si cela convient à l\'Angleterre ! -- Mais pardonnez-moi, capitaine Servadac.
+
+Le brigadier Murphy m\'envoie par le télégraphe un coup redoutable. Vous permettez\... »
+
+Le capitaine Servadac, tordant sa moustache à l\'arracher, rendit au major Oliphant le salut que celui-ci venait de lui adresser. Les soldats anglais rentrèrent dans leur casemate, et les deux conquérants se retrouvèrent seuls au pied des roches.
+
+« Eh bien, Ben-Zouf ?
+
+--- Eh bien, mon capitaine ! Sans vous commander, une belle fichue campagne que nous avons faite là !
+
+--- Allons-nous-en, Ben-Zouf.
+
+--- Allons-nous-en, mon capitaine », répondit Ben-Zouf, qui ne songeait plus à chanter le refrain des Zéphyrs d\'Afrique.
+
+Et ils s\'en retournèrent, comme ils étaient venus, sans avoir eu l\'occasion de déployer leur drapeau.
+
+Aucun incident ne signala leur retour, et, le 9 novembre, ils remettaient le pied sur le littoral de la Terre-Chaude.
+
+Il faut ajouter qu\'ils arrivèrent pour assister à une belle colère de Palmyrin Rosette ! Et, franchement, il faut avouer qu\'il y avait de quoi !
+
+On se rappelle que le professeur avait repris la série de ses observations et de ses calculs sur Nérina. Or, il venait de les terminer et tenait enfin tous les éléments de son satellite !
+
+Mais Nérina, qui aurait dû reparaître la veille, n\'était pas revenue sur l\'horizon de Gallia. Captée sans doute par quelque astéroïde plus puissant, elle s\'était échappée en traversant la zone des planètes télescopiques !
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 17 -- Qui traite de la grande question du retour à la terre et de la proposition hardie qui fut faite par le lieutenant Procope]{.pcalibre lang="X-NONE"}]{#_Toc342941627 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-17-qui-traite-de-la-grande-question-du-retour-à-la-terre-et-de-la-proposition-hardie-qui-fut-faite-par-le-lieutenant-procope .calibre171 .sigil_not_in_toc}
+
+À son retour, Hector Servadac fit connaître au comte Timascheff le résultat de sa visite aux Anglais. Il ne lui cacha pas que Ceuta avait été vendu par les Espagnols, qui, d\'ailleurs, n\'avaient aucun droit de le vendre, et il ne tut que ses projets personnels.
+
+Il fut donc convenu que, puisque les Anglais ne voulaient pas venir à la Terre-Chaude, on se passerait de leur concours. Ils étaient prévenus. À eux de s\'en tirer comme ils l\'entendraient.
+
+Restait donc à traiter cette grave question de la nouvelle rencontre qui devait se produire entre la comète et le sphéroïde terrestre.
+
+En principe, il fallait regarder comme un véritable miracle que, lors du premier choc, le capitaine Servadac, ses compagnons, les animaux, en un mot tous les êtres enlevés à la terre, eussent survécu. Cela tenait sans doute à ce que le mouvement s\'était lentement modifié par suite de circonstances inconnues. Si la terre comptait quelques victimes déjà, on le saurait plus tard. En tout cas, un fait certain, c\'est que nul de ceux qui avaient été emportés, aussi bien à l\'île Gourbi qu\'à Gibraltar, à Ceuta, à Madalena et à Formentera, n\'avait personnellement souffert de la collision.
+
+En serait-il de même au retour ? Il n\'y fallait pas compter, très probablement.
+
+Ce fut dans la journée du 10 novembre que se traita cette importante question. Le comte Timascheff, le capitaine Servadac et le lieutenant Procope se réunirent dans cette excavation qui leur servait de salle commune. Ben-Zouf fut naturellement admis à la séance. Quant à Palmyrin Rosette, régulièrement convoqué, il avait refusé de venir, cette question ne l\'intéressant en aucune manière.
+
+Depuis la disparition de sa chère Nérina, il ne pouvait se consoler. Menacé de perdre sa comète, comme il avait perdu son satellite, il désirait qu\'on le laissât tranquille. Ce qu\'on fit.
+
+Le capitaine Servadac et le comte Timascheff, de plus en plus froids l\'un pour l\'autre, ne laissèrent rien paraître de leurs secrètes pensées et discutèrent la question dans l\'intérêt de tous.
+
+Le capitaine Servadac prit d\'abord la parole en ces termes :
+
+« Messieurs, dit-il, nous voici au 10 novembre. Si les calculs de mon ex-professeur sont justes -- et ils doivent l\'être -- c\'est donc exactement dans cinquante et un jours qu\'une nouvelle rencontre s\'opérera entre la comète et la terre. En prévision de cette éventualité, avons-nous quelque précaution à prendre ?
+
+--- Évidemment, capitaine, répondit le comte Timascheff ; mais est-il en notre pouvoir d\'en prendre, et ne sommes-nous pas absolument à la merci de la Providence ?
+
+--- Elle ne défend pas de s\'aider, monsieur le comte, reprit le capitaine Servadac. Au contraire.
+
+--- Avez-vous quelque idée de ce que l\'on peut faire, capitaine Servadac ? -- Aucune, en vérité.
+
+--- Comment, messieurs, dit alors Ben-Zouf, des savants comme vous, sauf le respect que je vous dois, ne sont pas capables de diriger cette satanée comète où ils voudront et comme ils le voudront ?
+
+--- D\'abord, nous ne sommes pas des savants, Ben-Zouf, répondit le capitaine Servadac, et, le fussions-nous, nous n\'y pourrions rien. Vois si Palmyrin Rosette, qui, lui, est un savant\...
+
+--- Mal embouché, dit Ben-Zouf.
+
+--- Soit, mais savant, peut empêcher sa Gallia de retourner à la terre ! -- Mais à quoi sert la science alors ?
+
+--- À savoir, la plupart du temps, qu\'on ne sait pas encore tout ! répondit le comte Timascheff.
+
+--- Messieurs, dit le lieutenant Procope, il est certain que, dans ce nouveau choc, divers dangers nous menacent. Si vous le voulez bien, je vais les énumérer, et nous verrons s\'il est possible de les combattre, ou, tout au moins, d\'en atténuer les effets.
+
+--- Parle, Procope », répondit le comte Timascheff.
+
+Tous causaient si tranquillement de ces choses, qu\'on eût dit vraiment qu\'elles ne les regardaient pas.
+
+« Messieurs, reprit le lieutenant Procope, il faut d\'abord se demander de quelle façon pourra se produire cette nouvelle rencontre entre la comète et le globe terrestre. Nous verrons ensuite ce qu\'il y a à craindre ou à espérer dans chacun des cas possibles.
+
+--- Rien de plus logique, répondit le capitaine Servadac ; mais n\'oublions pas que les deux astres se dirigent l\'un vers l\'autre, et que leur vitesse, au moment du choc, sera de quatre-vingt-dix mille lieues à l\'heure !
+
+--- Deux jolis trains ! se permit d\'ajouter Ben-Zouf.
+
+--- Voyons donc comment s\'effectuera le choc, reprit le lieutenant Procope. Les deux astres se rencontreront ou obliquement ou normalement. Dans le premier cas, il peut arriver que Gallia ne fasse qu\'effleurer la terre, comme la première fois, après en avoir arraché encore quelques morceaux, et qu\'elle retourne graviter dans l\'espace. Mais son orbite serait sans doute dérangée, et nous aurions peu de chances, si nous avions survécu, de jamais revoir nos semblables.
+
+--- Ce qui ferait l\'affaire de M. Palmyrin Rosette, mais non la nôtre, fit observer le judicieux Ben-Zouf.
+
+--- Laissons donc de côté cette hypothèse, répondit le comte Timascheff. Nous en connaissons suffisamment les avantages et les désavantages. Arrivons au choc direct, c\'est-à-dire au cas où, après avoir heurté la terre, Gallia y resterait attachée.
+
+--- Comme une verrue sur une figure, dit Ben-Zouf.
+
+--- Silence, Ben-Zouf, répondit Hector Servadac.
+
+--- Oui, mon capitaine.
+
+--- Voyons donc, reprit le lieutenant Procope, quelles sont les hypothèses que présente un choc direct. Avant tout, il faut admettre que la masse de la terre étant de beaucoup supérieure à celle de Gallia, sa vitesse ne sera pas retardée dans cette rencontre et qu\'elle emportera la comète avec elle.
+
+--- Cela est admis, répondit le capitaine Servadac.
+
+--- Eh bien, messieurs, dans l\'hypothèse d\'un choc direct, ou Gallia accostera la terre par la partie de sa surface que nous occupons à l\'équateur, ou par la partie située à nos antipodes, ou, enfin, par l\'un ou l\'autre de ses pôles. Or, dans ces divers cas, les chances sont pour que pas un des êtres vivants qu\'elle porte n\'y puisse survivre.
+
+--- Expliquez-vous, lieutenant, dit le capitaine Servadac.
+
+--- Si nous sommes, au moment de la rencontre, à la partie heurtante de l\'équateur, nous serons écrasés.
+
+--- Cela va de soi, répondit Ben-Zouf.
+
+--- Si nous sommes aux antipodes de cette partie, outre la certitude d\'être écrasés encore, puisque la vitesse qui nous animera sera subitement anéantie -- ce qui équivaudra à un choc -- nous avons encore la certitude d\'être asphyxiés.
+
+En effet, l\'atmosphère gallienne ira se mêler à l\'atmosphère terrestre, et il n\'y aura plus d\'air respirable sur le sommet de cette montagne, haute de cent lieues, que formera Gallia sur la terre.
+
+--- Et si Gallia heurte la terre par l\'un ou l\'autre de ses pôles ? demanda le comte Timascheff.
+
+--- Dans ce cas, répondit le lieutenant Procope, nous serons inévitablement projetés et brisés dans une chute épouvantable.
+
+--- Très bien, dit Ben-Zouf.
+
+--- J\'ajoute, au cas impossible où aucune de ces hypothèses ne se produirait, que nous serons infailliblement brûlés.
+
+--- Brûlés ? dit Hector Servadac.
+
+--- Oui, car, lorsque la vitesse de Gallia, venant à être anéantie par l\'obstacle, se transformera en chaleur, la comète sera en tout ou en partie incendiée sous l\'influence d\'une température qui s\'élèvera à quelques milliers de degrés !
+
+Tout ce que disait le lieutenant Procope était rigoureusement exact. Ses auditeurs le regardaient et écoutaient, sans être autrement étonnés, le développement de ces différentes hypothèses.
+
+« Mais, monsieur Procope, dit Ben-Zouf, une question. Si Gallia tombe dans la mer ?
+
+--- Quelque profonds que soient l\'Atlantique ou le Pacifique, répondit le lieutenant Procope -- et leur profondeur ne dépasse pas quelques lieues -- le coussin d\'eau sera toujours insuffisant pour amortir le choc. Donc, tous les effets que j\'ai indiqués tout à l\'heure se reproduiraient\...
+
+--- Et même avec la noyade en plus ! répondit Ben-Zouf.
+
+--- Ainsi, messieurs, dit le capitaine Servadac, brisés, noyés, écrasés, asphyxiés ou rôtis, tel est le sort qui nous attend, quelle que soit la manière dont la rencontre se fera !
+
+Oui, capitaine Servadac, répondit sans hésiter le lieutenant Procope.
+
+--- Eh bien, dit Ben-Zouf, puisqu\'il en est ainsi, je ne vois absolument qu\'une chose à faire !
+
+--- Laquelle ? demanda Hector Servadac.
+
+--- C\'est de quitter Gallia avant le choc.
+
+--- Et le moyen ?
+
+--- Oh ! Le moyen est bien simple ! répondit tranquillement Ben-Zouf. Il n\'y en a pas !
+
+--- Peut-être ! » dit le lieutenant Procope.
+
+Tous les regards se portèrent sur le lieutenant, qui, la tête dans les mains, réfléchissait à quelque projet audacieux.
+
+« Peut-être, répéta-t-il, et, si extravagant que mon plan puisse vous paraître, je crois qu\'il faudra l\'exécuter.
+
+--- Parle, Procope », répondit le comte Timascheff.
+
+Le lieutenant resta, pendant quelques instants encore, plongé dans ses réflexions. Puis : « Ben-Zouf, reprit-il, a indiqué le seul parti qu\'il y eût à prendre : quitter Gallia avant le choc.
+
+--- Est-ce donc possible ? demanda le comte Timascheff.
+
+--- Oui\... Peut-être\... Oui !
+
+--- Et comment ?
+
+--- Au moyen d\'un ballon !
+
+--- Un ballon ! s\'écria le capitaine Servadac. Mais c\'est bien usé, votre ballon ! Même dans les romans, on n\'ose plus s\'en servir !
+
+--- Veuillez m\'écouter, messieurs, reprit le lieutenant Procope, en fronçant légèrement le sourcil. À la condition de connaître exactement l\'instant où s\'effectuera le choc, nous pouvons, une heure auparavant, nous enlever dans l\'atmosphère de Gallia.
+
+Cette atmosphère nous entraînera nécessairement avec sa vitesse acquise ; mais, avant la rencontre, elle pourra se confondre avec l\'atmosphère terrestre, et il est possible que, par une sorte de glissement, le ballon passe de l\'une à l\'autre, en évitant le choc direct, et qu\'il se maintienne en l\'air, pendant que la collision se produira.
+
+--- Bien, Procope, répondit le comte Timascheff, nous te comprenons\... Et ce que tu as dit là, nous le ferons !
+
+--- Sur cent chances, reprit le lieutenant Procope, nous en avons quatre-vingt-dix-neuf contre nous !
+
+--- Quatre-vingt dix-neuf !
+
+--- Au moins, car il est certain qu\'au moment où son mouvement de translation s\'arrêtera, le ballon sera brûlé.
+
+--- Lui aussi ? s\'écria Ben-Zouf.
+
+--- Lui aussi bien que la comète, répondit Procope\... À moins que dans cette fusion entre les deux atmosphères\... Je ne sais trop\... Il me serait difficile de dire\... Mais mieux vaut, ce me semble, au moment du choc, avoir quitté le sol de Gallia.
+
+--- Oui ! Oui ! dit le capitaine Servadac. N\'y eût-il qu\'une chance bonne sur cent mille, nous la courrons !
+
+--- Mais nous n\'avons pas d\'hydrogène pour gonfler un ballon\... Dit le comte Timascheff.
+
+--- L\'air chaud nous suffira, répondit Procope, car il ne sera pas nécessaire de rester plus d\'une heure dans l\'air.
+
+--- Bien, dit le capitaine Servadac\... Une montgolfière\... C\'est primitif et plus facile à fabriquer\... Mais l\'enveloppe ?
+
+--- Nous la taillerons dans les voiles de la *Dobryna*, qui sont en toile légère et résistante\...
+
+--- Bien parlé, Procope, répondit le comte Timascheff.
+
+Tu as vraiment réponse à tout.
+
+--- Hurrah ! Bravo ! » cria Ben-Zouf, pour conclure.
+
+C\'était, en vérité, un plan hardi que venait de proposer le lieutenant Procope. Toutefois, la perte des colons étant assurée en toute autre hypothèse, il fallait tenter l\'aventure et résolument. Pour cela, il importait de connaître exactement, non seulement l\'heure, mais la minute, mais, s\'il était possible, la seconde à laquelle la collision se produirait.
+
+Le capitaine Servadac se chargea de le demander à Palmyrin Rosette, en prenant toutes sortes de ménagements. Donc, dès cette époque, sous la direction du lieutenant, on commença la construction de la montgolfière. Elle devait être d\'assez grande dimension pour enlever tous les habitants de la Terre-Chaude, au nombre de vingt-trois, -- car, après leur refus, il n\'y avait plus à se préoccuper des Anglais de Gibraltar et de Ceuta.
+
+En outre, le lieutenant Procope résolut d\'accroître ses chances en se donnant la possibilité de planer plus longtemps dans l\'atmosphère, après le choc, si le ballon avait résisté. Il se pouvait faire qu\'il eût à chercher un endroit convenable pour atterrir, et il ne fallait pas que son véhicule lui manquât. De là, cette résolution qu\'il prit d\'emporter une certaine quantité de combustible, herbe ou paille sèche, pour réchauffer l\'air intérieur de la montgolfière. C\'est ainsi que procédaient autrefois les premiers aérostiers.
+
+Les voiles de la *Dobryna* avaient été emmagasinées à Nina-Ruche. Elles étaient faites d\'un tissu très serré, qu\'il serait facile de rendre plus étanche encore au moyen d\'un vernis. Tous ces ingrédients se trouvaient dans la cargaison de la tartane, et par conséquent à la disposition du lieutenant.
+
+Celui-ci traça avec soin le gabarit des bandes à découper. Ce travail se fit dans de bonnes conditions, et tout le monde s\'employa à la couture de ces bandes, -- tous, y compris la petite Nina. Les matelots russes, très exercés à ce genre d\'ouvrage, montrèrent aux Espagnols comment ils devaient s\'y prendre, et le nouvel atelier ne chôma pas.
+
+On dit tous, -- mais en exceptant le juif, dont personne ne regretta l\'absence, et Palmyrin Rosette, qui ne voulait seulement pas savoir que l\'on construisît une montgolfière !
+
+Un mois se passa dans ces travaux. Le capitaine Servadac n\'avait pas encore trouvé l\'occasion de poser à son ex-professeur la question relative à la nouvelle rencontre des deux astres. Palmyrin Rosette était inabordable. Des jours se passaient sans qu\'on l\'aperçût. La température étant redevenue presque supportable pendant le jour, il se confinait dans son observatoire, dont il avait repris possession, et il n\'y laissait pénétrer personne. À une première ouverture du capitaine Servadac, il avait fort mal répondu. Plus que jamais désespéré de revenir à la terre, il ne voulait pas se préoccuper des périls du retour, ni rien faire pour le salut commun.
+
+Et, cependant, c\'était une chose essentielle que de connaître avec une extrême exactitude cet instant où les deux astres se réuniraient l\'un à l\'autre avec une vitesse de vingt-sept lieues à la seconde.
+
+Le capitaine Servadac dut donc patienter, et il patienta.
+
+Cependant, Gallia continuait à se rapprocher progressivement du soleil. Le disque terrestre grossissait visiblement aux yeux des Galliens. La comète, pendant le mois de novembre, avait franchi cinquante-neuf millions de lieues, et, au 1er décembre, elle ne s\'était plus trouvée qu\'à soixante-dix-huit millions de lieues du soleil.
+
+La température se relevait considérablement et provoqua la débâcle avec le dégel.
+
+Ce fut un magnifique spectacle que celui de cette mer qui se disloquait et se dissolvait. On entendit cette « grande voix des glaces », comme disent les baleiniers. Sur les pentes du volcan et du littoral, les premiers filets d\'eau serpentèrent capricieusement. Des torrents, puis des cascades s\'improvisèrent en quelques jours. Les neiges des hauteurs fondaient de toutes parts.
+
+En même temps, les vapeurs commencèrent à s\'élever sur l\'horizon. Peu à peu des nuages se formèrent et se déplacèrent rapidement sous l\'action des vents, qui s\'étaient tus pendant le long hiver gallien. On devait compter sur de prochains troubles atmosphériques, mais, en somme, c\'était la vie qui revenait avec la chaleur et la lumière à la surface de la comète.
+
+Toutefois, deux accidents prévus se produisirent alors et amenèrent la destruction de la marine gallienne.
+
+Au moment de la débâcle, la goélette et la tartane étaient encore élevées de cent pieds au-dessus du niveau de la mer. Leur énorme piédestal avait légèrement fléchi et s\'inclinait avec le dégel. Sa base, minée par les eaux plus chaudes, ainsi que cela arrive aux icebergs de la mer Arctique, menaçait de lui manquer. Il était impossible de sauver les deux bâtiments, et c\'était à la montgolfière de les remplacer.
+
+Ce fut pendant la nuit du 12 au 13 décembre que la débâcle s\'accomplit. Par suite d\'une rupture d\'équilibre, le massif de glace culbuta tout d\'un bloc. C\'en était fait de la *Hansa* et de la *Dobryna*, qui se brisèrent sur les récifs du littoral.
+
+Ce malheur, qu\'ils attendaient, qu\'ils ne pouvaient empêcher, ne laissa pas d\'impressionner douloureusement les colons.
+
+On eût dit que quelque chose de la terre venait de leur manquer.
+
+Dire ce que furent les lamentations d\'Isac Hakhabut devant cette destruction instantanée de sa tartane, les malédictions qu\'il lança contre la mauvaise race, c\'est impossible. Il accusa le capitaine Servadac et les siens. Si on ne l\'avait pas obligé à conduire la *Hansa* à cette crique de la Terre-Chaude, si on l\'eût laissée au port de l\'île Gourbi, tout cela ne serait pas arrivé ! On avait agi contre sa volonté, on était responsable, et, de retour à la terre, il saurait bien actionner ceux qui lui avaient causé un tel dommage !
+
+« Mordioux ! s\'écria le capitaine Servadac, taisez-vous, maître Isac, ou je vous fais mettre aux fers ! »
+
+Isac Hakhabut se tut et retourna dans son trou.
+
+Le 14 décembre la montgolfière fut achevée. Soigneusement cousue et vernie, elle était d\'une solidité remarquable. Le filet avait été fabriqué avec les légers cordages de la *Dobryna*. La nacelle, faite de claies d\'osier qui formaient les compartiments de cale à bord de la *Hansa*, était suffisante à contenir vingt-trois personnes. Il ne s\'agissait, après tout, que d\'une courte ascension, -- le temps de se glisser avec l\'atmosphère de Gallia dans l\'atmosphère terrestre. On ne devait pas regarder à ses aises.
+
+Restait donc toujours cette question d\'heure, de minute et de seconde, sur laquelle le rébarbatif, l\'entêté Palmyrin Rosette ne s\'était pas encore prononcé.
+
+À cette époque, Gallia recoupa l\'orbite de Mars, qui se trouvait à une distance de cinquante-six millions de lieues environ. Il n\'y avait donc rien à craindre.
+
+Cependant, ce jour-là, 15 décembre, pendant la nuit, les Galliens purent croire que leur dernière heure était arrivée.
+
+Une sorte de tremblement de « terre » se produisit. Le volcan s\'agita comme s\'il eût été secoué par quelque convulsion souterraine. Le capitaine Servadac et ses compagnons crurent que la comète se disloquait, et ils quittèrent en toute hâte le massif ébranlé.
+
+En même temps, des cris se firent entendre dans l\'observatoire, et l\'on vit apparaître sur les roches l\'infortuné professeur, un morceau de sa lunette brisée à la main.
+
+Mais on ne s\'occupa pas de le plaindre. Dans cette sombre nuit, un second satellite parut graviter autour de Gallia.
+
+C\'était un morceau même de la comète !
+
+Sous l\'action d\'une expansion intérieure, elle s\'était dédoublée, ainsi qu\'avait fait autrefois la comète Gambart. Un énorme fragment, détaché d\'elle-même, avait été lancé dans l\'espace, et il emportait avec lui les Anglais de Ceuta et les Anglais de Gibraltar !
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 18 -- Dans lequel on verra que les galliens se préparent à contempler d\'un peu haut l\'ensemble de leur astéroïde]{.pcalibre lang="X-NONE"}]{#_Toc342941628 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-18-dans-lequel-on-verra-que-les-galliens-se-préparent-à-contempler-dun-peu-haut-lensemble-de-leur-astéroïde .calibre171 .sigil_not_in_toc}
+
+Quelles pouvaient être les conséquences de ce grave événement au point de vue de Gallia ? Le capitaine Servadac et ses compagnons n\'osaient encore répondre à cette question.
+
+Le soleil revint promptement sur l\'horizon, et d\'autant plus promptement que le dédoublement avait tout d\'abord produit ce résultat : si le sens du mouvement de rotation de Gallia n\'était pas modifié, si la comète se mouvait toujours sur son axe de l\'orient à l\'occident, la durée de cette rotation diurne avait diminué de moitié. L\'intervalle entre deux levers du soleil n\'était plus que de six heures au lieu de douze. Six heures après avoir paru sur l\'horizon, l\'astre radieux se couchait sur l\'horizon opposé.
+
+« Mordioux ! Avait dit le capitaine Servadac, cela nous fait une année de deux mille huit cents jours !
+
+--- Il n\'y aura jamais assez de saints pour ce calendrier-là ! » avait répondu B en-Zouf.
+
+Et de fait, si Palmyrin Rosette voulait réapproprier son calendrier à la nouvelle durée des jours galliens, il en viendrait à parler du 238 juin ou du 325 décembre !
+
+Quant à ce morceau de Gallia qui emportait les Anglais et Gibraltar, il fut manifestement visible qu\'il ne gravitait pas autour de la comète. Il s\'en éloignait, au contraire. Mais avait-il entraîné avec lui une portion quelconque de la mer et de l\'atmosphère galliennes ? Se trouvait-il dans des conditions d\'habitabilité suffisantes ? Et, en dernier compte, reviendrait-il jamais à la terre ?
+
+On le saurait plus tard.
+
+Quelles étaient les conséquences du dédoublement sur la marche de Gallia ? Voilà ce que le comte Timascheff, le capitaine Servadac et le lieutenant Procope s\'étaient tout d\'abord demandé.
+
+Ils avaient d\'abord senti un accroissement de leurs forces musculaires et constaté une nouvelle diminution de la pesanteur. La masse de Gallia ayant diminué dans une proportion notable, sa vitesse n\'en serait-elle pas modifiée, et ne pouvait-on craindre qu\'un retard ou une avance dans sa révolution ne lui fissent manquer la terre ?
+
+C\'eût été là un irréparable malheur !
+
+Mais la vitesse de Gallia avait-elle varié, si peu que ce fût ? Le lieutenant Procope ne le pensait pas. Toutefois il n\'osait se prononcer, n\'ayant pas des connaissances suffisantes en ces matières.
+
+Seul, Palmyrin Rosette pouvait répondre à cette question. Il fallait donc, d\'une manière ou d\'une autre, par la persuasion ou par la violence, l\'obliger à parler, et à dire en même temps quelle était l\'heure précise à laquelle la rencontre aurait lieu.
+
+Tout d\'abord, pendant les jours suivants, on put constater que le professeur était d\'une humeur massacrante. Était-ce la perte de sa fameuse lunette, ou ne pouvait-on en conclure ceci : c\'est que le dédoublement n\'avait point altéré la vitesse de Gallia, et que, conséquemment, elle rencontrerait la terre au moment précis. En effet, si, par suite du dédoublement, la comète eût avancé ou retardé, si le retour eût été compromis, la satisfaction de Palmyrin Rosette aurait été telle qu\'il n\'eût pu la contenir. Puisque sa joie ne débordait pas, c\'est qu\'il n\'avait pas sujet d\'être joyeux, -- au moins de ce chef.
+
+Le capitaine Servadac et ses compagnons tablèrent donc sur cette remarque, mais cela ne suffisait pas. Il fallait arracher son secret à ce hérisson.
+
+Enfin, le capitaine Servadac y parvint.
+
+Voici dans quelles circonstances :
+
+C\'était le 18 décembre. Palmyrin Rosette, exaspéré, venait de soutenir une violente discussion avec Ben-Zouf. Celui-ci avait insulté le professeur en la personne de sa comète ! Un bel astre, ma foi, qui se disloquait comme un joujou d\'enfant, qui crevait comme une outre, qui se fendait comme une noix sèche ! Autant vivre sur un obus, sur une bombe, dont la mèche est allumée ! Etc. Enfin, on imagine aisément ce que Ben-Zouf avait pu broder sur ce thème. Les deux interlocuteurs s\'étaient réciproquement jeté, l\'un Gallia, l\'autre Montmartre, à la tête.
+
+Le hasard fit que le capitaine Servadac intervint au plus chaud de la discussion. Fût-ce une inspiration d\'en haut ? Mais il se dit que puisque la douceur ne réussissait pas avec Palmyrin Rosette, peut-être la violence agirait-elle plus efficacement, et il prit le parti de Ben-Zouf.
+
+Colère du professeur, qui se traduisit instantanément par les paroles les plus aigres.
+
+Colère, mais colère feinte, du capitaine Servadac, qui finit par dire :
+
+« Monsieur le professeur, vous avez une liberté de langage qui ne me convient pas et que je suis résolu à ne plus supporter ! Vous ne vous souvenez pas assez que vous parlez au gouverneur général de Gallia !
+
+--- Et vous, riposta l\'irascible astronome, vous oubliez beaucoup trop que vous répondez à son propriétaire !
+
+--- Il n\'importe, monsieur ! Vos droits de propriété sont, après tout, très contestables !
+
+--- Contestables ?
+
+--- Et puisqu\'il nous est impossible, maintenant, de revenir à la terre, vous vous conformerez désormais aux lois qui régissent Gallia !
+
+--- Ah ! Vraiment ! répondit Palmyrin Rosette, je devrai me soumettre à l\'avenir !
+
+--- Parfaitement.
+
+--- Maintenant surtout que Gallia ne doit pas revenir à la terre ?
+
+--- Et que, par conséquent, nous sommes destinés à y vivre éternellement, répondit le capitaine Servadac.
+
+--- Et pourquoi Gallia ne doit-elle plus revenir à la terre ? demanda le professeur avec l\'accent du plus profond mépris.
+
+--- Parce que depuis qu\'elle s\'est dédoublée, répondit le capitaine Servadac, sa masse a diminué, et que, par conséquent, un changement a dû se produire dans sa vitesse.
+
+--- Et qui a dit cela ?
+
+--- Moi, tout le monde !
+
+--- Eh bien, capitaine Servadac, tout le monde et vous, vous êtes des\... -- Monsieur Rosette !
+
+--- Des ignorants, des ânes bâtés, qui ne connaissez rien à la mécanique céleste !
+
+--- Prenez garde !
+
+--- Ni à la physique la plus élémentaire\...
+
+--- Monsieur !
+
+--- Ah ! Mauvais élève ! reprit le professeur, dont la colère atteignait au paroxysme. Je n\'ai point oublié qu\'autrefois vous déshonoriez ma classe ! -- C\'en est trop !
+
+--- Que vous étiez la honte de Charlemagne !
+
+--- Vous vous tairez, sinon\...
+
+--- Non, je ne me tairai pas, et vous m\'écouterez, tout capitaine que vous êtes ! Vraiment ! Les beaux physiciens ! Parce que la masse de Gallia a diminué, ils se figurent que cela a pu modifier sa vitesse tangentielle ! Comme si cette vitesse ne dépendait pas uniquement de sa vitesse primordiale combinée avec l\'attraction solaire ! Comme si les perturbations ne s\'obtenaient pas sans qu\'on tînt compte des masses des astres troublés ! Est-ce qu\'on connaît la masse des comètes ?
+
+Non ! Est-ce qu\'on calcule leurs perturbations ? Oui ! Ah ! Vous me faites pitié ! »
+
+Le professeur s\'emportait. Ben-Zouf, prenant la colère du capitaine Servadac au sérieux, lui dit :
+
+« Voulez-vous que je le casse en deux, mon capitaine, que je le dédouble comme sa fichue comète ?
+
+--- Eh bien, touchez-moi seulement ! s\'écria Palmyrin Rosette en se redressant de toute sa petite taille.
+
+--- Monsieur, répliqua vivement le capitaine Servadac, je saurai vous mettre à la raison !
+
+--- Et moi, vous traduire pour menaces et voies de fait devant les tribunaux compétents !
+
+--- Les tribunaux de Gallia ?
+
+--- Non, monsieur le capitaine, mais ceux de la terre !
+
+--- Allons donc ! La terre est loin ! Repartit le capitaine Servadac.
+
+--- Si loin qu\'elle soit, s\'écria Palmyrin Rosette, emporté au-delà de toute mesure, nous n\'en couperons pas moins son orbite au noeud ascendant, dans la nuit du 31 décembre au 1er janvier, et nous y arriverons à deux heures quarante-sept minutes trente-cinq secondes et six dixièmes du matin !
+
+--- Mon cher professeur, répondit le capitaine Servadac avec un salut gracieux, je ne vous en demandais pas davantage ! »
+
+Et il quitta Palmyrin Rosette, absolument interloqué, auquel Ben-Zouf crut devoir adresser un salut non moins gracieux que celui de son capitaine. Hector Servadac et ses compagnons savaient enfin ce qu\'ils avaient tant intérêt à savoir. À deux heures quarante-sept minutes trente-cinq secondes et six dixièmes du matin s\'effectuerait la rencontre.
+
+Donc, encore quinze jours terrestres, soit trente-deux jours galliens de l\'ancien calendrier, soit soixante-quatre du nouveau !
+
+Cependant, les préparatifs de départ s\'accomplissaient avec une ardeur sans pareille. C\'était pour tous une hâte d\'avoir quitté Gallia. La montgolfière du lieutenant Procope semblait être un moyen assuré de rallier le globe terrestre. Se glisser avec l\'atmosphère gallienne dans l\'atmosphère terrestre, cela paraissait être la chose la plus facile du monde. On oubliait les mille dangers de cette situation sans précédent dans les voyages aérostatiques ! Rien n\'était plus naturel ! Et, pourtant, le lieutenant Procope répétait avec raison que la montgolfière, brusquement arrêtée dans son mouvement de translation, serait brûlée avec tous ceux qu\'elle porterait, -- à moins de miracle. Le capitaine Servadac se montrait, à dessein, enthousiasmé. Quant à Ben-Zouf, il avait toujours voulu faire une promenade en ballon. Il était donc au comble de ses voeux.
+
+Le comte Timascheff, plus froid, et le lieutenant Procope, plus réservé, envisageaient seuls tout ce que cette tentative offrait de dangers. Mais ils étaient prêts à tout.
+
+À cette époque, la mer, délivrée de ses glaçons, était redevenue praticable. La chaloupe à vapeur fut mise en état, et, avec ce qui restait de charbon, on fit plusieurs voyages à l\'île Gourbi.
+
+Le capitaine Servadac, Procope et quelques Russes furent du premier voyage. Ils retrouvèrent l\'île, le gourbi, le poste, respectés par ce long hiver. Des ruisseaux coulaient à la surface du sol. Les oiseaux, ayant quitté la Terre-Chaude à tire-d\'aile, étaient revenus à ce bout de terre fertile, où ils revoyaient la verdure des prairies et des arbres. Des plantes nouvelles apparaissaient sous l\'influence de cette chaleur équatoriale des jours de trois heures.
+
+Le soleil leur versait ses rayons perpendiculaires avec une extraordinaire intensité. C\'était l\'été brûlant, succédant presque inopinément à l\'hiver.
+
+Ce fut à l\'île Gourbi que l\'on fit la récolte de l\'herbe et de la paille qui devaient servir au gonflement de la montgolfière. Si cet énorme appareil n\'eût pas été si encombrant, peut-être l\'aurait-on transporté par mer à l\'île Gourbi. Mais il parut préférable de s\'enlever de la Terre-Chaude et d\'y apporter le combustible destiné à opérer la raréfaction de l\'air.
+
+Déjà, pour les besoins journaliers, on brûlait le bois provenant des débris des deux navires. Lorsqu\'il fut question d\'utiliser ainsi les bordages de la tartane, Isac Hakhabut voulut s\'y opposer. Mais Ben-Zouf lui fit entendre qu\'on lui ferait payer cinquante mille francs sa place dans la nacelle, s\'il s\'avisait seulement d\'ouvrir la bouche.
+
+Isac Hakhabut soupira et se tut.
+
+Le 25 décembre arriva. Tous les préparatifs de départ étaient terminés. On fêta la Noël comme on l\'avait fêtée un an auparavant, mais avec un plus vif sentiment religieux. Quant au prochain jour de l\'an, c\'était sur terre que tous ces braves gens comptaient bien le célébrer, et Ben-Zouf alla jusqu\'à promettre de belles étrennes au jeune Pablo et à la petite fille.
+
+« Voyez-vous, leur dit-il, c\'est comme si vous les teniez ! »
+
+Bien que cela soit peut-être difficile à admettre, à mesure que le moment suprême approchait, le capitaine Servadac et le comte Timascheff pensaient à toute autre chose qu\'aux dangers de l\'atterrissage. La froideur qu\'ils se témoignaient n\'était point feinte.
+
+Ces deux années qu\'ils venaient de passer ensemble loin de la terre, c\'était pour eux comme un rêve oublié, et ils allaient se retrouver sur le terrain de la réalité, en face l\'un de l\'autre. Une image charmante se plaçait entre eux et les empêchait de se voir comme autrefois.
+
+Et c\'est alors que vint au capitaine Servadac la pensée d\'achever ce fameux rondeau, dont le dernier quatrain était resté inachevé. Quelques vers encore, et ce délicieux petit poème serait complet. C\'était un poète que Gallia avait enlevé à la terre, ce serait un poète qu\'elle lui rendrait !
+
+Et, entre-temps, le capitaine Servadac repassait toutes ses malencontreuses rimes dans sa tête.
+
+Quant aux autres habitants de la colonie, le comte Timascheff et le lieutenant Procope avaient hâte de revoir la terre, et les Russes n\'avaient qu\'une pensée : suivre leur maître partout où il lui plairait de les mener.
+
+Les Espagnols, eux, s\'étaient si bien trouvés sur Gallia, qu\'ils y auraient volontiers passé le reste de leurs jours. Mais enfin Negrete et les siens ne reverraient pas les campagnes de l\'Andalousie sans quelque plaisir.
+
+Pour Pablo et Nina, ils étaient enchantés de revenir avec tous leurs amis, mais à la condition de ne plus jamais se quitter.
+
+Restait donc un seul mécontent, le rageur Palmyrin Rosette. Il ne décolérait pas. Il jurait qu\'il ne s\'embarquerait pas dans la nacelle. Non ! Il prétendait ne pas abandonner sa comète. Il continuait jour et nuit ses observations astronomiques. Ah ! Combien sa regrettable lunette lui faisait défaut ! Voilà que Gallia allait pénétrer dans cette étroite zone des étoiles filantes ! N\'y avait-il pas là des phénomènes à observer, quelque découverte à faire ?
+
+Palmyrin Rosette, désespéré, employa alors un moyen héroïque en augmentant la pupille de ses yeux, afin de remplacer tant soit peu la puissance optique de sa lunette. Il se soumit à l\'action de la belladone, ingrédient qu\'il emprunta à la pharmacie de Nina-Ruche, et alors il regarda, il regarda à se rendre aveugle ! Mais, bien qu\'il eût ainsi accru l\'intensité de la lumière qui se peignait sur sa rétine, il ne vit rien, il ne découvrit rien ! Les derniers jours se passèrent dans une surexcitation fébrile dont personne ne fut exempt. Le lieutenant Procope surveillait les derniers détails. Les deux bas-mâts de la goélette avaient été plantés sur la grève et servaient de support à l\'énorme montgolfière, non encore gonflée, mais revêtue du réseau de son filet. La nacelle était là, suffisante à contenir ses passagers. Quelques outres, attachées à ses montants, devaient lui permettre de surnager un certain temps, pour le cas où la montgolfière atterrirait en mer, près d\'un littoral. Évidemment, si elle tombait en plein Océan, elle coulerait bientôt avec tous ceux qu\'elle portait, à moins que quelque navire ne se trouvât à point pour les recueillir.
+
+Les 26, 27, 28, 29 et 30 décembre s\'écoulèrent. Il n\'y avait plus que quarante-huit heures terrestres à passer sur Gallia.
+
+Le 31 décembre arriva. Encore vingt-quatre heures, et la montgolfière, enlevée par l\'air chaud raréfié dans ses flancs, planerait dans l\'atmosphère gallienne. Il est vrai que cette atmosphère était moins dense que celle de la terre ; mais il faut considérer aussi que l\'attraction étant moindre, l\'appareil serait moins lourd à enlever.
+
+Gallia se trouvait alors à quarante millions de lieues du soleil, distance un peu supérieure à celle qui sépare le soleil de la terre.
+
+Elle s\'avançait avec une excessive vitesse vers l\'orbite terrestre qu\'elle allait couper à son noeud ascendant, précisément au point de l\'écliptique qu\'occuperait le sphéroïde.
+
+Quant à la distance qui séparait la comète de la terre, elle n\'était plus que de deux millions de lieues. Or, les deux astres marchant l\'un vers l\'autre, cette distance allait être franchie à raison de quatre-vingt-sept mille lieues à l\'heure. Gallia en faisant cinquante-sept mille, et la terre vingt-neuf mille environ.
+
+Enfin, à deux heures du matin, les Galliens se préparèrent à partir. La rencontre allait s\'effectuer dans quarante-sept minutes et trente-cinq secondes.
+
+Par suite de la modification du mouvement de rotation de Gallia sur son axe, il faisait jour alors, -- jour aussi sur ce côté du globe terrestre que la comète allait heurter.
+
+Depuis une heure, le gonflement de la montgolfière était complet. Il avait parfaitement réussi. L\'énorme appareil, se balançant entre les mâts, était prêt à partir. La nacelle, accrochée au filet, n\'attendait que ses passagers. Gallia n\'était plus qu\'à soixante-quinze mille lieues de la terre.
+
+Isac Hakhabut, le premier, prit place dans la nacelle.
+
+Mais, à ce moment, le capitaine Servadac remarqua qu\'une ceinture, énormément gonflée, ceignait la taille du juif.
+
+« Qu\'est cela ? demanda-t-il.
+
+--- Ça, monsieur le gouverneur, répondit Isac Hakhabut, c\'est ma modeste fortune que j\'emporte avec moi !
+
+--- Et que pèse-t-elle, votre modeste fortune ?
+
+--- Oh ! Une trentaine de kilos seulement.
+
+--- Trente kilos, et notre montgolfière n\'a que la force ascensionnelle suffisante pour nous enlever !
+
+Débarrassez-vous, maître Isac, de cet inutile fardeau.
+
+--- Mais, monsieur le gouverneur\...
+
+--- Inutile, vous dis-je, puisque nous ne pouvons surcharger ainsi la nacelle ! -- Dieu de l\'univers ! s\'écria Isac, toute ma fortune, tout mon bien, si péniblement amassé !
+
+--- Eh ! Maître Isac, vous savez bien que votre or n\'aura plus aucune valeur sur la terre, puisque Gallia vaut deux cent quarante-six sextillions ! -- Mais, monseigneur, par pitié !
+
+--- Allons, Mathathias, dit alors Ben-Zouf, délivre-nous de ta présence ou de ton or, -- à ton choix ! »
+
+Et le malheureux Isac dut se délester de son énorme ceinture, au milieu de lamentations et d\'objurgations dont on n\'essayera même pas de donner une idée.
+
+Quant à Palmyrin Rosette, ce fut une bien autre affaire. Le savant rageur prétendait ne pas quitter le noyau de sa comète. C\'était l\'arracher de son domaine ! D\'ailleurs, cette montgolfière, c\'était un appareil absurdement imaginé ! Le passage d\'une atmosphère à l\'autre ne pourrait s\'opérer sans que le ballon flambât comme une simple feuille de papier ! Il y avait moins de danger à rester sur Gallia, et dans le cas où, par impossible, Gallia ne ferait qu\'effleurer la terre, au moins Palmyrin Rosette continuerait à graviter avec elle ! Enfin, mille raisons accompagnées d\'imprécations furibondes ou grotesques, -- telles que menaces d\'accabler de pensums l\'élève Servadac.
+
+Quoi qu\'il en soit, le professeur fut introduit le second dans la nacelle, mais garrotté et maintenu par deux robustes matelots.
+
+Le capitaine Servadac, bien déterminé à ne point le laisser sur Gallia, l\'avait embarqué de cette façon un peu vive.
+
+Il avait fallu abandonner les deux chevaux et la chèvre de Nina ! Ce fut un crève-coeur pour le capitaine, Ben-Zouf et la petite fille, mais on ne pouvait les prendre. Seul de tous les animaux, le pigeon de Nina avait une place réservée. Qui sait, d\'ailleurs, si ce pigeon ne servirait pas de messager entre les passagers de la nacelle et quelque point de la surface terrestre ?
+
+Le comte Timascheff et le lieutenant Procope s\'embarquèrent sur une invitation du capitaine.
+
+Celui-ci foulait encore le sol gallien avec son fidèle Ben-Zouf.
+
+« Allons, Ben-Zouf, à ton tour, dit-il.
+
+--- Après vous, mon capitaine !
+
+--- Non. Je dois rester le dernier à bord, comme un commandant qui est forcé d\'abandonner son navire !
+
+--- Cependant\...
+
+--- Fais, te dis-je.
+
+--- Par obéissance, alors ! » répondit Ben-Zouf.
+
+Ben-Zouf enjamba le bord de la nacelle. Le capitaine Servadac y prit place après lui.
+
+Les derniers liens furent alors coupés, et la montgolfière s\'éleva majestueusement dans l\'atmosphère.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 19 -- Dans lequel on chiffre, minute par minute, les sensations et impressions des passagers de la nacelle]{.pcalibre lang="X-NONE"}]{#_Toc342941629 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-19-dans-lequel-on-chiffre-minute-par-minute-les-sensations-et-impressions-des-passagers-de-la-nacelle .calibre171 .sigil_not_in_toc}
+
+La montgolfière atteignit une hauteur de deux mille cinq cents mètres. Le lieutenant Procope résolut de la maintenir dans cette zone. Un foyer en fil de fer, suspendu à l\'appendice inférieur de l\'appareil et chargé d\'herbe sèche, pouvait être allumé facilement et conserver l\'air intérieur au degré de raréfaction voulue pour que la montgolfière ne s\'abaissât pas.
+
+Les passagers de la nacelle regardèrent sous eux, autour d\'eux, au-dessus d\'eux.
+
+Au-dessous s\'étendait une large partie de la mer Gallienne, qui semblait former un bassin concave. Dans le nord, un point isolé, c\'était l\'île Gourbi. En vain eût-on cherché, dans l\'ouest, les îlots de Gibraltar et de Ceuta. Ils avaient disparu.
+
+Au sud se dressait le volcan, dominant le littoral et le vaste territoire de la Terre-Chaude. Cette presqu\'île se raccordait au continent, qui encadrait la mer Gallienne. Partout cet étrange aspect, cette contexture lamelleuse, alors irisée sous les rayons solaires. Partout cette matière minérale du tellurure d\'or, qui semblait uniquement constituer la charpente de la comète, le noyau dur de Gallia.
+
+Autour de la nacelle, au-dessus de l\'horizon, qui semblait s\'être relevé avec le mouvement ascensionnel de la montgolfière, le ciel se développait avec une extrême pureté. Mais vers le nord-ouest, en opposition avec le soleil, gravitait un astre nouveau, moins qu\'un astre, moins qu\'un astéroïde, -- ce que serait une sorte de bolide. C\'était le fragment qu\'une force intérieure avait rejeté des flancs de Gallia. Cet énorme bloc s\'éloignait suivant une nouvelle trajectoire, et sa distance se mesurait alors par plusieurs milliers de lieues.
+
+Il était peu visible, d\'ailleurs ; mais, la nuit venue, il se fût montré comme un point lumineux dans l\'espace.
+
+Enfin, au-dessus de la nacelle, un peu obliquement, apparaissait le disque terrestre dans toute sa splendeur. Il semblait se précipiter sur Gallia et occultait une portion considérable du ciel.
+
+Ce disque, splendidement éclairé, éblouissait le regard. La distance était déjà trop courte, relativement, pour qu\'il fût possible d\'en distinguer à la fois les deux pôles. Gallia s\'en trouvait moitié plus rapprochée que n\'en est la lune à sa distance moyenne, qui diminuait avec chaque minute dans une énorme proportion. Diverses taches brillaient à sa surface, les unes avec éclat, c\'étaient les continents, les autres, plus sombres, par cela même qu\'elles absorbaient les rayons solaires, c\'étaient les océans. Au-dessus se déplaçaient lentement de grandes bandes blanches, que l\'on sentait obscures sur leur face opposée : c\'étaient les nuages répandus dans l\'atmosphère terrestre.
+
+Mais bientôt, avec une telle vitesse de vingt-neuf lieues à la seconde, l\'aspect un peu vague du disque terrestre se dessina plus nettement. Les vastes cordons littoraux se détachèrent, les reliefs s\'accentuèrent. Montagnes et plaines ne se laissèrent plus confondre. La carte plate s\'accidenta, et il semblait aux observateurs de la nacelle qu\'ils fussent penchés sur une carte en relief.
+
+À deux heures vingt-sept minutes du matin, la comète n\'était pas à trente mille lieues du sphéroïde terrestre. Les deux astres volaient l\'un vers l\'autre. À deux heures trente-sept, quinze mille lieues restaient encore à franchir.
+
+Les grandes lignes du disque se distinguaient nettement alors, et trois cris échappèrent au lieutenant Procope, au comte Timascheff et au capitaine Servadac :
+
+« L\'Europe !
+
+--- La Russie !
+
+--- La France ! »
+
+Et ils ne se trompaient pas. La terre tournait vers Gallia cette face où s\'étalait le continent européen, en plein midi. La configuration de chaque pays était aisément reconnaissable.
+
+Les passagers de la nacelle regardaient avec une vive émotion cette terre prête à les absorber. Ils ne songeaient qu\'à atterrir et non plus aux dangers de l\'atterrissement. Ils allaient enfin rentrer dans cette humanité qu\'ils avaient cru ne jamais revoir.
+
+Oui, c\'était bien l\'Europe qui s\'étalait visiblement sous leurs yeux ! Ils voyaient ses divers états avec la configuration bizarre que la nature ou les conventions internationales leur ont donnée.
+
+L\'Angleterre, une lady qui marche vers l\'est, dans sa robe aux plis tourmentés et sa tête coiffée d\'îlots et d\'îles.
+
+La Suède et la Norvège, un lion magnifique, développant son échine de montagnes et se précipitant sur l\'Europe du sein des contrées hyperboréennes.
+
+La Russie, un énorme ours polaire, la tête tournée vers le continent asiatique, la patte gauche appuyée sur la Turquie, la patte droite sur le Caucase.
+
+L\'Autriche, un gros chat pelotonné sur lui-même et dormant d\'un sommeil agité.
+
+L\'Espagne, déployée comme un pavillon au bout de l\'Europe et dont le Portugal semble former le yacht.
+
+La Turquie, un coq qui se rebiffe, se cramponnant d\'une griffe au littoral asiatique, de l\'autre étreignant la Grèce.
+
+L\'Italie, une botte élégante et fine qui semble jongler avec la Sicile, la Sardaigne et la Corse.
+
+La Prusse, une hache formidable profondément enfoncée dans l\'empire allemand et dont le tranchant effleure la France.
+
+La France enfin, un torse vigoureux, avec Paris au coeur.
+
+Oui, tout cela se voyait, se sentait. L\'émotion était dans la poitrine de tous. Et cependant une note comique éclata au milieu de cette impression générale.
+
+« Montmartre ! » s\'écria Ben-Zouf.
+
+Et il n\'aurait pas fallu soutenir à l\'ordonnance du capitaine Servadac qu\'il ne pouvait apercevoir de si loin sa butte favorite !
+
+Quant à Palmyrin Rosette, la tête penchée hors de la nacelle, il n\'avait de regards que pour cette abandonnée Gallia, qui flottait à deux mille cinq cents mètres au-dessous de lui. Il ne voulait même pas voir cette terre qui le rappelait à elle, et il n\'observait que sa comète, vivement éclairée dans l\'irradiation générale de l\'espace.
+
+Le lieutenant Procope, son chronomètre à la main, comptait les minutes et les secondes. Le foyer, de temps en temps ravivé par son ordre, maintenait la montgolfière dans la zone convenable.
+
+Cependant, on parlait peu dans la nacelle. Le capitaine Servadac, le comte Timascheff observaient avidement la terre. La montgolfière, par rapport à elle, se trouvait un peu sur le côté, mais en arrière de Gallia, c\'est-à-dire que la comète devait précéder dans sa chute l\'appareil aérostatique, -- circonstance favorable, puisque celui-ci, en se glissant dans l\'atmosphère terrestre, n\'aurait pas à effectuer un revirement bout pour bout.
+
+Mais où tomberait-il ?
+
+Serait-ce sur un continent ? Et, dans ce cas, ce continent offrirait-il quelques ressources ? Les communications seraient-elles faciles avec une portion habitée du globe ?
+
+Serait-ce sur un océan ? Et, dans ce cas, pouvait-on compter sur le miracle d\'un navire, venant sauver les naufragés en mer ?
+
+Que de périls de toutes parts, et le comte Timascheff n\'avait-il pas eu raison de dire que ses compagnons et lui étaient absolument dans la main de Dieu ?
+
+« Deux heures quarante-deux minutes », dit le lieutenant Procope au milieu du silence général.
+
+Cinq minutes trente-cinq secondes six dixièmes encore, et les deux astres se heurteraient ! Ils étaient à moins de huit mille lieues l\'un de l\'autre.
+
+Le lieutenant Procope observa alors que la comète suivait une direction un peu oblique à la terre. Les deux mobiles ne couraient pas sur la même ligne. Cependant, on devait croire qu\'il y aurait arrêt subit et complet de la comète, et non pas un simple effleurement, comme cela s\'était effectué deux ans auparavant. Si Gallia ne choquait pas normalement le globe terrestre, néanmoins, semblait-il, « elle s\'y collerait vivement », dit B en-Zouf.
+
+Enfin, si aucun des passagers de la nacelle ne devait survivre à cette rencontre, si la montgolfière, prise dans les remous atmosphériques au moment où se fusionneraient les deux atmosphères, était déchirée et précipitée sur le sol, si aucun de ces Galliens ne devait revenir parmi ses semblables, tout souvenir d\'eux-mêmes, de leur passage sur la comète, de leur pérégrination dans le monde solaire, allait-il donc être à jamais anéanti ?
+
+Non ! Le capitaine Servadac eut une idée. Il déchira une feuille de son carnet. Sur cette feuille, il inscrivit le nom de la comète, celui des parcelles enlevées au globe terrestre, les noms de ses compagnons, et le tout, il le signa du sien.
+
+Puis il demanda à Nina le pigeon voyageur qu\'elle tenait pressé sur sa poitrine.
+
+Après l\'avoir baisé tendrement, la petite fille donna son pigeon, sans hésiter.
+
+Le capitaine Servadac prit l\'oiseau, lui attacha au cou sa notice, et il le lança dans l\'espace.
+
+Le pigeon descendit en tournoyant dans l\'atmosphère gallienne, et se tint dans une zone moins élevée que la montgolfière.
+
+Encore deux minutes, et environ trois mille deux cents lieues ! Les deux astres allaient s\'aborder avec une vitesse trois fois plus grande que celle qui anime la terre le long de l\'écliptique.
+
+Inutile d\'ajouter que les passagers de la nacelle ne sentaient rien de cette effroyable vitesse, et que leur appareil semblait rester absolument immobile au milieu de l\'atmosphère qui l\'entraînait.
+
+« Deux heures quarante-six minutes », dit le lieutenant Procope.
+
+La distance était réduite à dix-sept cents lieues. La terre semblait se creuser comme un vaste entonnoir au-dessous de la comète. On eût dit qu\'elle s\'ouvrait pour la recevoir !
+
+« Deux heures quarante-sept minutes », dit encore une fois le lieutenant Procope.
+
+Plus que trente-cinq secondes six dixièmes, et une vitesse de deux cent soixante-dix lieues par seconde !
+
+Enfin, une sorte de frémissement se fit entendre. C\'était l\'air gallien que soutirait la terre, et avec lui la montgolfière, allongée à faire croire qu\'elle allait se rompre !
+
+Tous s\'étaient cramponnés aux rebords de la nacelle, épouvantés, effarés\... Alors les deux atmosphères se confondirent. Un énorme amas de nuages se forma. Des vapeurs s\'accumulèrent. Les passagers de la nacelle ne virent plus rien ni au-dessus ni au-dessous d\'eux. Il leur sembla qu\'une flamme immense les enveloppait, que le point d\'appui manquait sous leurs pieds, et sans savoir comment, sans pouvoir l\'expliquer, ils se retrouvèrent sur le sol terrestre.
+
+C\'était dans un évanouissement qu\'ils avaient quitté le globe, c\'était dans un évanouissement qu\'ils y revenaient !
+
+Quant au ballon, plus de vestige !
+
+En même temps, Gallia fuyait obliquement par la tangente, et, contre toute prévision, après avoir effleuré seulement le globe terrestre, elle disparaissait dans l\'est du monde.
+
+
+]{.calibre20}
+
+
+HECTOR SERVADAC
+
+Deuxième Partie
+
+
+]{.calibre20}
+
+### [[Chapitre 20 -- Qui, contrairement à toutes les règles du roman, ne se termine pas par le mariage du héros]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941630 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-20-qui-contrairement-à-toutes-les-règles-du-roman-ne-se-termine-pas-par-le-mariage-du-héros .calibre171 .sigil_not_in_toc}
+
+« Ah ! Mon capitaine, l\'Algérie !
+
+--- Et Mostaganem, Ben-Zouf ! »
+
+Telles furent les deux exclamations qui s\'échappèrent à la fois de la bouche du capitaine Servadac et de celle de son ordonnance, dès que leurs compagnons et eux eurent repris connaissance.
+
+Par un miracle, impossible à expliquer comme tous les miracles, ils étaient sains et saufs.
+
+« Mostaganem ! L\'Algérie ! » avaient dit le capitaine Servadac et son ordonnance. Et ils ne pouvaient se tromper, ayant été pendant plusieurs années en garnison dans cette partie de la province.
+
+Ils revenaient donc presque à l\'endroit d\'où ils étaient partis, après un voyage de deux ans à travers le monde solaire !
+
+Un hasard étonnant -- est-ce bien un hasard, puisque Gallia et la terre se rencontraient à la même seconde sur le même point de l\'écliptique ? -- les ramenait presque à leur point de départ.
+
+Ils n\'étaient pas à deux kilomètres de Mostaganem !
+
+Une demi-heure plus tard, le capitaine Servadac et tous ses compagnons faisaient leur entrée dans la ville.
+
+Ce qui dut leur paraître surprenant, c\'est que tout paraissait être calme à la surface de la terre. La population algérienne vaquait tranquillement à ses occupations ordinaires. Les animaux, nullement troublés, paissaient l\'herbe un peu humide de la rosée de janvier. Il devait être environ huit heures du matin. Le soleil se levait sur son horizon accoutumé. Non seulement il ne semblait pas que rien d\'anormal se fût accompli sur le globe terrestre, mais aussi que rien d\'anormal n\'eût été attendu par ses habitants.
+
+« Ah çà ! dit le capitaine Servadac, ils n\'étaient donc pas prévenus de l\'arrivée de la comète ?
+
+--- Faut le penser, mon capitaine, répondit Ben-Zouf. Et moi qui comptais sur une entrée triomphale ! »
+
+Bien évidemment, le choc d\'une comète n\'était pas attendu. Autrement, la panique eût été extraordinaire en toutes les parties du globe, et ses habitants se seraient crus plus près de la fin du monde qu\'en l\'an 1000 !
+
+À la porte de Mascara, le capitaine Servadac rencontra précisément ses deux camarades, le commandant du 2e tirailleurs et le capitaine du 8e d\'artillerie. Il tomba littéralement dans leurs bras.
+
+« Vous, Servadac ! s\'écria le commandant.
+
+--- Moi-même !
+
+--- Et d\'où venez-vous, mon pauvre ami, après cette inexplicable absence ?
+
+--- Je vous le dirais bien, mon commandant, mais si je vous le disais, vous ne me croiriez pas !
+
+--- Cependant\...
+
+--- Bah ! Mes amis ! Serrez la main à un camarade qui ne vous a point oubliés, et mettons que je n\'ai fait qu\'un rêve ! »
+
+Et Hector Servadac, quoi qu\'on fît, ne voulut pas en dire davantage. Toutefois, une question fut encore adressée par lui aux deux officiers : « Et Mme de\... ? »
+
+Le commandant de tirailleurs, qui comprit, ne le laissa pas achever.
+
+« Mariée, remariée, mon cher ! dit-il. Que voulez-vous ? Les absents ont toujours tort\...
+
+--- Oui ! répondit le capitaine Servadac, tort d\'aller courir pendant deux ans dans le pays des chimères ! »
+
+Puis, se retournant vers le comte Timascheff :
+
+« Mordioux ! Monsieur le comte, dit-il, vous avez entendu ! En vérité, je suis enchanté de ne point avoir à me battre avec vous.
+
+--- Et moi, capitaine, je suis heureux de pouvoir, sans arrière-pensée, vous serrer cordialement la main !
+
+--- Ce qui me va aussi, murmura Hector Servadac, c\'est de ne pas avoir à finir mon horrible rondeau ! »
+
+Et les deux rivaux, qui n\'avaient plus aucune raison d\'être en rivalité, scellèrent, en se donnant la main, une amitié que rien ne devait jamais rompre.
+
+Le comte Timascheff, d\'accord avec son compagnon, fut aussi réservé que lui sur les événements extraordinaires dont ils avaient été témoins, et dont les plus inexplicables étaient leur départ et leur arrivée. Ce qui leur paraissait absolument inexplicable, c\'est que tout était à sa place sur le littoral méditerranéen.
+
+Décidément, mieux valait se taire.
+
+Le lendemain, la petite colonie se séparait. Les Russes retournèrent en Russie avec le comte Timascheff et le lieutenant Procope, les Espagnols en Espagne, où la générosité du comte devait les mettre pour jamais à l\'abri du besoin. Tous ces braves gens ne se quittèrent pas sans s\'être prodigué les marques de la plus sincère amitié.
+
+En ce qui concerne Isac Hakhabut, ruiné par la perte de la *Hansa*, ruiné par l\'abandon qu\'il avait dû faire de son or et de son argent, il disparut. La vérité oblige à avouer que personne ne le réclama.
+
+« Le vieux coquin, dit un jour Ben-Zouf, il doit s\'exhiber en Amérique comme un revenant du monde solaire ! »
+
+Il reste à parler de Palmyrin Rosette.
+
+Celui-là, aucune considération, on le croira sans peine, n\'avait pu le faire taire ! Donc, il avait parlé !
+
+On lui nia sa comète, qu\'aucun astronome n\'avait jamais aperçue sur l\'horizon terrestre. Elle ne fut point inscrite au catalogue de l\'Annuaire. À quel point atteignit alors la rage de l\'irascible professeur, c\'est à peine si l\'on peut l\'imaginer. Deux ans après son retour, il fit paraître un volumineux mémoire qui contenait, avec les éléments de Gallia, le récit des propres aventures de Palmyrin Rosette.
+
+Alors, les avis se partagèrent dans l\'Europe savante. Les uns, en grand nombre, furent contre. Les autres, en petit nombre, furent pour.
+
+Une réponse à ce mémoire -- et c\'était probablement la meilleure que l\'on pût faire -- réduisit tout le travail de Palmyrin Rosette à de justes mesures, en l\'intitulant : Histoire d\'une hypothèse.
+
+Cette impertinence porta à son comble la colère du professeur, qui prétendit alors avoir revu, gravitant dans l\'espace, non seulement Gallia, mais le fragment de la comète qui emportait treize Anglais dans les infinis de l\'univers sidéral ! Jamais il ne devait se consoler de ne pas être leur compagnon de voyage !
+
+Enfin, qu\'ils eussent ou non réellement accompli cette exploration invraisemblable du monde solaire, Hector Servadac et Ben-Zouf restèrent plus que jamais, l\'un le capitaine, l\'autre l\'ordonnance, que rien ne pouvait séparer.
+
+Un jour, ils se promenaient sur la butte Montmartre, et, bien certains de ne point être entendus, ils causaient de leurs aventures.
+
+« Ce n\'est peut-être pas vrai, tout de même ! disait Ben-Zouf.
+
+--- Mordioux ! Je finirai par le croire ! » répondit le capitaine Servadac. Quant à Pablo et à Nina, adoptés, l\'un par le comte Timascheff, l\'autre par le capitaine Servadac, ils furent élevés et instruits sous leur direction.
+
+Un beau jour, le colonel Servadac, dont les cheveux commençaient à grisonner, maria le jeune Espagnol, devenu un beau garçon, avec la petite Italienne, devenue une belle jeune fille. Le comte Timascheff avait voulu apporter lui-même la dot de Nina.
+
+Et cela fait, les deux jeunes époux n\'en furent pas moins heureux, pour n\'avoir point été l\'Adam et l\'Ève d\'un nouveau monde.

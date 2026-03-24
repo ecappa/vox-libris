@@ -1,0 +1,933 @@
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB"}
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image015.jpg){.calibre47}]{.calibre22}
+
+## []{#_Toc368941768 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941337 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940906 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940475 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940044 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939613 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939182 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938751 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938320 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937889 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937458 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937027 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936596 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936165 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935734 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935303 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934872 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934441 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934010 .pcalibre .calibre2 .pcalibre1}[Deuxième partie]{#_Toc368933579 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_178 .calibre29}
+
+
+::: WordSection
+*[
+]{.calibre12}*
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Deuxième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941769 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941338 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940907 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940476 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940045 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939614 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939183 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938752 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938321 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937890 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937459 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937028 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936597 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936166 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935735 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935304 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934873 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934442 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934011 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368933580 .pcalibre .calibre2 .pcalibre1} {#i .calibre59 .sigil_not_in_toc}
+
+
+La propriété des Grégoire, la Piolaine, se trouvait à deux kilomètres de Montsou, vers l\'est, sur la route de Joiselle. C\'était une grande maison carrée, sans style, bâtie au commencement du siècle dernier. Des vastes terres qui en dépendaient d\'abord, il ne restait qu\'une trentaine d\'hectares, clos de murs, d\'un facile entretien. On citait surtout le verger et le potager, célèbres par leurs fruits et leurs légumes, les plus beaux du pays. D\'ailleurs, le parc manquait, un petit bois en tenait lieu. L\'avenue de vieux tilleuls, une voûte de feuillage de trois cents mètres, plantée de la grille au perron, était une des curiosités de cette plaine rase, où l\'on comptait les grands arbres, de Marchiennes à Beaugnies.
+
+Ce matin-là, les Grégoire s\'étaient levés à huit heures. D\'habitude, ils ne bougeaient guère qu\'une heure plus tard, dormant beaucoup, avec passion ; mais la tempête de la nuit les avait énervés. Et, pendant que son mari était allé voir tout de suite si le vent n\'avait pas fait de dégâts, Mme Grégoire venait de descendre à la cuisine, en pantoufles et en peignoir de flanelle. Courte, grasse, âgée déjà de cinquante-huit ans, elle gardait une grosse figure poupine et étonnée, sous la blancheur éclatante de ses cheveux.
+
+« Mélanie, dit-elle à la cuisinière, si vous faisiez la brioche ce matin, puisque la pâte est prête. Mademoiselle ne se lèvera pas avant une demi-heure, et elle en mangerait avec son chocolat\... Hein ! ce serait une surprise. »
+
+La cuisinière, vieille femme maigre qui les servait depuis trente ans, se mit à rire.
+
+« Ça, c\'est vrai, la surprise serait fameuse\... Mon fourneau est allumé, le four doit être chaud ; et puis, Honorine va m\'aider un peu. »
+
+Honorine, une fille d\'une vingtaine d\'années, recueillie enfant et élevée à la maison, servait maintenant de femme de chambre. Pour tout personnel, outre ces deux femmes, il n\'y avait que le cocher, Francis, chargé des gros ouvrages. Un jardinier et une jardinière s\'occupaient des légumes, des fruits, des fleurs et de la basse-cour. Et, comme le service était patriarcal, d\'une douceur familière, ce petit monde vivait en bonne amitié.
+
+Mme Grégoire, qui avait médité dans son lit la surprise de la brioche, resta pour voir mettre la pâte au four. La cuisine était immense, et on la devinait la pièce importante, à la propreté extrême, à l\'arsenal des casseroles, des ustensiles, des pots qui l\'emplissaient. Cela sentait bon la bonne nourriture. Des provisions débordaient des râteliers et des armoires.
+
+« Et qu\'elle soit bien dorée, n\'est-ce pas ? » recommanda Mme Grégoire en passant dans la salle à manger.
+
+Malgré le calorifère qui chauffait toute la maison, un feu de houille égayait cette salle. Du reste, il n\'y avait aucun luxe : la grande table, les chaises, un buffet d\'acajou ; et, seuls, deux fauteuils profonds trahissaient l\'amour du bien-être, les longues digestions heureuses. On n\'allait jamais au salon, on demeurait là, en famille.
+
+Justement, M. Grégoire rentrait, vêtu d\'un gros veston de futaine, rose lui aussi pour ses soixante ans, avec de grands traits honnêtes et bons, dans la neige de ses cheveux bouclés. Il avait vu le cocher et le jardinier : aucun dégât important, rien qu\'un tuyau de cheminée abattu. Chaque matin, il aimait à donner un coup d\'œil à la Piolaine, qui n\'était pas assez grande pour lui causer des soucis, et dont il tirait tous les bonheurs du propriétaire.
+
+« Et Cécile ? demanda-t-il, elle ne se lève donc pas, aujourd\'hui ?
+
+--- Je n\'y comprends rien, répondit sa femme. Il me semblait l\'avoir entendue remuer. »
+
+Le couvert était mis, trois bols sur la nappe blanche. On envoya Honorine voir ce que devenait mademoiselle. Mais elle redescendit aussitôt, retenant des rires, étouffant sa voix, comme si elle eût parlé en haut, dans la chambre.
+
+« Oh ! si monsieur et madame voyaient mademoiselle !\... Elle dort, oh ! elle dort, ainsi qu\'un Jésus\... On n\'a pas idée de ça, c\'est un plaisir à regarder. »
+
+Le père et la mère échangeaient des regards attendris. Il dit en souriant :
+
+« Viens-tu voir ?
+
+--- Cette pauvre mignonne ! murmura-t-elle. J\'y vais. »
+
+Et ils montèrent ensemble. La chambre était la seule luxueuse de la maison, tendue de soie bleue, garnie de meubles laqués, blancs à filets bleus, un caprice d\'enfant gâtée satisfait par les parents. Dans les blancheurs vagues du lit, sous le demi-jour qui tombait de l\'écartement d\'un rideau, la jeune fille dormait, une joue appuyée sur son bras nu. Elle n\'était pas jolie, trop saine, trop bien portante, mûre à dix-huit ans ; mais elle avait une chair superbe, une fraîcheur de lait, avec ses cheveux châtains, sa face ronde au petit nez volontaire, noyé entre les joues. La couverture avait glissé, et elle respirait si doucement, que son haleine ne soulevait même pas sa gorge déjà lourde.
+
+« Ce maudit vent l\'aura empêchée de fermer les yeux », dit la mère doucement.
+
+Le père, d\'un geste, lui imposa silence. Tous les deux se penchaient, regardaient avec adoration, dans sa nudité de vierge, cette fille si longtemps désirée, qu\'ils avaient eue sur le tard, lorsqu\'ils ne l\'espéraient plus. Ils la voyaient parfaite, point trop grasse, jamais assez bien nourrie. Et elle dormait toujours, sans les sentir près d\'elle, leur visage contre le sien. Pourtant, une onde légère troubla sa face immobile. Ils tremblèrent qu\'elle ne s\'éveillât, ils s\'en allèrent sur la pointe des pieds.
+
+« Chut ! dit M. Grégoire à la porte. Si elle n\'a pas dormi, il faut la laisser dormir.
+
+--- Tant qu\'elle voudra, la mignonne, appuya Mme Grégoire. Nous attendrons. »
+
+Ils descendirent, s\'installèrent dans les fauteuils de la salle à manger ; tandis que les bonnes, riant du gros sommeil de mademoiselle, tenaient sans grogner le chocolat sur le fourneau. Lui avait pris un journal ; elle, tricotait un grand couvre-pied de laine. Il faisait très chaud, pas un bruit ne venait de la maison muette.
+
+La fortune des Grégoire, quarante mille francs de ren-tes environ, était tout entière dans une action des mines de Montsou. Ils en racontaient avec complaisance l\'origine, qui partait de la création même de la Compagnie.
+
+Vers le commencement du dernier siècle, un coup de folie s\'était déclaré, de Lille à Valenciennes, pour la recherche de la houille. Les succès des concessionnaires, qui devaient plus tard former la Compagnie d\'Anzin, avaient exalté toutes les têtes. Dans chaque commune, on sondait le sol ; et les sociétés se créaient, et les concessions poussaient en une nuit. Mais, parmi les entêtés de l\'époque, le baron Desrumaux avait certainement laissé la mémoire de l\'intelligence la plus héroïque. Pendant quarante années, il s\'était débattu sans faiblir, au milieu de continuels obstacles : premières recherches infructueuses, fosses nouvelles abandonnées au bout de longs mois de travail, éboulements qui comblaient les trous, inondations subites qui noyaient les ouvriers, centaines de mille francs jetés dans la terre ; puis, les tracas de l\'administration, les paniques des actionnaires, la lutte avec les seigneurs terriens, résolus à ne pas reconnaître les concessions royales, si l\'on refusait de traiter d\'abord avec eux. Il venait enfin de fonder la société Desrumaux, Fauquenois et Cie, pour exploiter la concession de Montsou, et les fosses commençaient à donner de faibles bénéfices, lorsque deux concessions voisines, celle de Cougny, appartenant au comte de Cougny, et celle de Joiselle, appartenant à la société Cornille enard, avaient failli l\'écraser sous le terrible assaut de leur concurrence. Heureusement, le 25 août 1760, un traité intervenait entre les trois concessions et les réunissait en une seule. La Compagnie des mines de Montsou était créée, telle qu\'elle existe encore aujourd\'hui. Pour la répartition, on avait divisé, d\'après l\'étalon de la monnaie du temps, la propriété totale en vingt-quatre sous, dont chacun se subdivisait en douze deniers, ce qui faisait deux cent quatre-vingt-huit deniers ; et, comme le denier était de dix mille francs, le capital représentait une somme de près de trois millions. Desrumaux, agonisant, mais vainqueur, avait eu, dans le partage, six sous et trois deniers.
+
+En ces années-là, le baron possédait la Piolaine, d\'où dépendaient trois cents hectares, et il avait à son service, comme régisseur, Honoré Grégoire, un garçon de la Picardie, l\'arrière-grand-père de Léon Grégoire, père de Cécile. Lors du traité de Montsou, Honoré, qui cachait dans un bas une cinquantaine de mille francs d\'économie, céda en tremblant à la foi inébranlable de son maître. Il sortit dix mille livres de beaux écus, il prit un denier, avec la terreur de voler ses enfants de cette somme. Son fils Eugène toucha en effet des dividendes fort minces ; et, comme il s\'était mis bourgeois et qu\'il avait eu la sottise de manger les quarante autres mille francs de l\'héritage paternel dans une association désastreuse, il vécut assez chichement. Mais les intérêts du denier montaient peu à peu, la fortune commença avec Félicien, qui put réaliser un rêve dont son grand-père, l\'ancien régisseur, avait bercé son enfance : l\'achat de la Piolaine démembrée, qu\'il eut comme bien national, pour une somme dérisoire. Cependant, les années qui suivirent furent mauvaises, il fallut attendre le dénouement des catastrophes révolutionnaires, puis la chute sanglante de Napoléon. Et ce fut Léon Grégoire qui bénéficia, dans une progression stupéfiante, du placement timide et inquiet de son bisaïeul. Ces dix pauvres mille francs grossissaient, s\'élargissaient, avec la prospérité de la Compagnie. Dès 1820, ils rapportaient cent pour cent, dix mille francs. En 1844, ils en produisaient vingt mille ; en 1850, quarante. Il y avait deux ans enfin, le dividende était monté au chiffre prodigieux de cinquante mille francs : la valeur du denier, coté à la Bourse de Lille un million, avait centuplé en un siècle.
+
+M. Grégoire, auquel on conseillait de vendre, lorsque ce cours d\'un million fut atteint, s\'y était refusé, de son air souriant et paterne. Six mois plus tard, une crise industrielle éclatait, le denier retombait à six cent mille francs. Mais il souriait toujours, il ne regrettait rien, car les Grégoire avaient maintenant une foi obstinée en leur mine. Ça remonterait, Dieu n\'était pas si solide. Puis, à cette croyance religieuse, se mêlait une profonde gratitude pour une valeur, qui, depuis un siècle, nourrissait la famille à ne rien faire. C\'était comme une divinité à eux, que leur égoïsme entourait d\'un culte, la bienfaitrice du foyer, les berçant dans leur grand lit de paresse, les engraissant à leur table gourmande. De père en fils, cela durait : pourquoi risquer de mécontenter le sort, en doutant de lui ? Et il y avait, au fond de leur fidélité, une terreur superstitieuse, la crainte que le million du denier ne se fût brusquement fondu, s\'ils l\'avaient réalisé et mis dans un tiroir. Ils le voyaient plus à l\'abri dans la terre, d\'où un peuple de mineurs, des générations d\'affamés l\'extrayaient pour eux, un peu chaque jour, selon leurs besoins.
+
+Du reste, les bonheurs pleuvaient sur cette maison. M. Grégoire, très jeune, avait épousé la fille d\'un pharmacien de Marchiennes, une demoiselle laide, sans un sou, qu\'il adorait et qui lui avait tout rendu, en félicité. Elle s\'était enfermée dans son ménage, extasiée devant son mari, n\'ayant d\'autre volonté que la sienne ; jamais des goûts différents ne les séparaient, un même idéal de bien-être confondait leurs désirs ; et ils vivaient ainsi depuis quarante ans, de tendresse et de petits soins réciproques. C\'était une existence réglée, les quarante mille francs mangés sans bruit, les économies dépensées pour Cécile, dont la naissance tardive avait un instant bouleversé le budget. Aujourd\'hui encore, ils contentaient chacun de ses caprices : un second cheval, deux autres voitures, des toilettes venues de Paris. Mais ils goûtaient là une joie de plus, ils ne trouvaient rien de trop beau pour leur fille, avec une telle horreur personnelle de l\'étalage, qu\'ils avaient gardé les modes de leur jeunesse. Toute dépense qui ne profitait pas leur semblait stupide.
+
+Brusquement, la porte s\'ouvrit, et une voix forte cria :
+
+« Eh bien, quoi donc, on déjeune sans moi ! »
+
+C\'était Cécile, au saut du lit, les yeux gonflés de sommeil. Elle avait simplement relevé ses cheveux et passé un peignoir de laine blanche.
+
+« Mais non, dit la mère, tu vois qu\'on t\'attendait\... Hein ? ce vent a dû t\'empêcher de dormir, pauvre mignonne ! »
+
+La jeune fille la regarda, très surprise.
+
+« Il a fait du vent ?\... Je n\'en sais rien, je n\'ai pas bougé de la nuit. »
+
+Alors, cela leur sembla drôle, tous les trois se mirent à rire ; et les bonnes, qui apportaient le déjeuner, éclatèrent aussi, tellement l\'idée que mademoiselle avait dormi d\'un trait ses douze heures égayait la maison. La vue de la brioche acheva d\'épanouir les visages.
+
+« Comment ! elle est donc cuite ? répétait Cécile. En voilà une attrape qu\'on me fait !\... C\'est ça qui va être bon, tout chaud, dans le chocolat ! »
+
+Ils s\'attablaient enfin, le chocolat fumait dans les bols, on ne parla longtemps que de la brioche. Mélanie et Honorine restaient, donnaient des détails sur la cuisson, les regardaient se bourrer, les lèvres grasses, en disant que c\'était un plaisir de faire un gâteau, quand on voyait les maîtres le manger si volontiers.
+
+Mais les chiens aboyèrent violemment, on crut qu\'ils annonçaient la maîtresse de piano, qui venait de Marchiennes le lundi et le vendredi. Il venait aussi un professeur de littérature. Toute l\'instruction de la jeune fille s\'était ainsi faite à la Piolaine, dans une ignorance heureuse, dans des caprices d\'enfant, jetant le livre par la fenêtre, dès qu\'une question l\'ennuyait.
+
+« C\'est monsieur Deneulin », dit Honorine en rentrant.
+
+Derrière elle, Deneulin, un cousin de M. Grégoire, parut sans façon, le verbe haut, le geste vif, avec une allure d\'ancien officier de cavalerie. Bien qu\'il eût dépassé la cinquantaine, ses cheveux coupés ras et ses grosses moustaches étaient d\'un noir d\'encre.
+
+« Oui, c\'est moi, bonjour\... Ne vous dérangez donc pas ! »
+
+Il s\'était assis, pendant que la famille s\'exclamait. Elle finit par se remettre à son chocolat.
+
+« Est-ce que tu as quelque chose à me dire ? demanda M. Grégoire.
+
+--- Non, rien du tout, se hâta de répondre Deneulin. Je suis sorti à cheval pour me dérouiller un peu, et comme je passais devant votre porte, j\'ai voulu vous donner un petit bonjour. »
+
+Cécile le questionna sur Jeanne et sur Lucie, ses filles. Elles allaient parfaitement, la première ne lâchait plus la peinture, tandis que l\'autre, l\'aînée, cultivait sa voix au piano, du matin au soir. Et il y avait un tremblement léger dans sa voix, un malaise qu\'il dissimulait, sous les éclats de sa gaieté.
+
+M. Grégoire reprit :
+
+« Et tout marche-t-il bien, à la fosse ?
+
+--- Dame ! je suis bousculé avec les camarades, par cette saleté de crise\... Ah ! nous payons les années prospères ! On a trop bâti d\'usines, trop construit de voies ferrées, trop immobilisé de capitaux en vue d\'une production formidable. Et, aujourd\'hui, l\'argent dort, on n\'en trouve plus pour faire fonctionner tout ça\... Heureusement, rien n\'est désespéré, je m\'en tirerai quand même. »
+
+Comme son cousin, il avait eu en héritage un denier des mines de Montsou. Mais lui, ingénieur entreprenant, tourmenté du besoin d\'une royale fortune, s\'était hâté de vendre, lorsque le denier avait atteint le million. Depuis des mois, il mûrissait un plan. Sa femme tenait d\'un oncle la petite concession de Vandame, où il n\'y avait d\'ouvertes que deux fosses, Jean-Bart et Gaston-Marie, dans un tel état d\'abandon, avec un matériel si défectueux, que l\'exploitation en couvrait à peine les frais. Or, il rêvait de réparet Jean-Bart, d\'en renouveler la machine et d\'élargir le puits afin de pouvoir descendre davantage, en ne gardant Gaston-Marie que pour l\'épuisement. On devait, disait-il, trouver là de l\'or à la pelle. L\'idée était juste. Seulement, le million y avait passé et cette damnée crise industrielle éclatait au moment où de gros bénéfices allaient lui donner raison. Du reste, mauvais administrateur, d\'une bonté brusque avec ses ouvriers, il se laissait piller depuis la mort de sa femme, lâchant aussi la bride à ses filles, dont l\'aînée parlait d\'entrer au théâtre, et dont la cadette s\'était déjà fait refuser trois paysages au Salon, toutes deux rieuses dans la débâcle, et chez lesquelles la misère menaçante révélait de très fines ménagères.
+
+« Vois-tu, Léon, continua-t-il, la voix hésitante, tu as eu tort de ne pas vendre en même temps que moi. Maintenant, tout dégringole, tu peux courir\... Et si tu m\'avais confié ton argent, tu aurais vu ce que nous aurions fait à Vandame, dans notre mine ! »
+
+M. Grégoire achevait son chocolat, sans hâte. Il répondit paisiblement :
+
+« Jamais !\... Tu sais bien que je ne veux pas spéculer. Je vis tranquille, ce serait trop bête de me casser la tête avec des soucis d\'affaires. Et quant à Montsou, ça peut continuer à baisser, nous en aurons toujours notre suffisance. Il ne faut pas être si gourmand, que diable ! Puis, écoute, c\'est toi qui te mordras les doigts un jour, car Montsou remontera, les enfants des enfants de Cécile en tireront encore leur pain blanc. »
+
+Deneulin l\'écoutait avec un sourire gêné.
+
+« Alors, murmura-t-il, si je te disais de mettre cent mille francs dans mon affaire, tu refuserais ? »
+
+Mais, devant les faces inquiètes des Grégoire, il regretta d\'être allé si vite, il renvoya son idée d\'emprunt à plus tard, la réservant pour un cas désespéré.
+
+« Oh ! je n\'en suis pas là ! C\'est une plaisanterie\... Mon Dieu ! tu as peut-être raison : l\'argent que vous gagnent les autres est celui dont on engraisse le plus sûrement. »
+
+On changea d\'entretien. Cécile revint sur ses cousines, dont les goûts la préoccupaient, tout en la choquant. Mme Grégoire promit de mener sa fille voir ces chères petites, dès le premier jour de soleil. Cependant, M. Grégoire, l\'air distrait, n\'était pas à la conversation. Il ajouta tout haut :
+
+« Moi, si j\'étais à ta place, je ne m\'entêterais pas davantage, je traiterais avec Montsou\... Ils en ont une belle envie, tu retrouverais ton argent. »
+
+Il faisait allusion à la vieille haine qui existait entre la concession de Montsou et celle de Vandame. Malgré la faible importance de cette dernière, sa puissante voisine enrageait de voir, enclavée dans ses soixante-sept communes, cette lieue carrée qui ne lui appartenait pas ; et, après avoir essayé vainement de la tuer, elle complotait de l\'acheter à bas prix, lorsqu\'elle râlerait. La guerre continuait sans trêve, chaque exploitation arrêtait ses galeries à deux cents mètres les unes des autres, c\'était un duel au dernier sang, bien que les directeurs et les ingénieurs eussent entre eux des relations polies.
+
+Les yeux de Deneulin avaient flambé.
+
+« Jamais ! cria-t-il à son tour. Tant que je serai vivant, Montsou n\'aura pas Vandame\... J\'ai dîné jeudi chez Hennebeau, et je l\'ai bien vu tourner autour de moi. Déjà, l\'automne dernier, quand les gros bonnets sont venus à la Régie, ils m\'ont fait toutes sortes de mamours\... Oui, oui, je les connais, ces marquis et ces ducs, ces généraux et ces ministres ! des brigands qui vous enlèveraient jusqu\'à votre chemise, à la corne d\'un bois ! »
+
+Il ne tarissait plus. D\'ailleurs, M. Grégoire ne défendait pas la Régie de Montsou, les six régisseurs institués par le traité de 1760, qui gouvernaient despotiquement la Compagnie, et dont les cinq survivants, à chaque décès, choisissaient le nouveau membre parmi les actionnaires puissants et riches. L\'opinion du propriétaire de la Piolaine, de goûts si raisonnables, était que ces messieurs manquaient parfois de mesure, dans leur amour exagéré de l\'argent.
+
+Mélanie était venue desservir la table. Dehors, les chiens se remirent à aboyer, et Honorine se dirigeait vers la porte, lorsque Cécile, que la chaleur et la nourriture étouffaient, quitta la table.
+
+« Non, laisse, ça doit être pour ma leçon. »
+
+Deneulin, lui aussi, s\'était levé. Il regarda sortir la jeune fille, il demanda en souriant :
+
+« Eh bien, et ce mariage avec le petit Négrel ?
+
+--- Il n\'y a rien de fait, dit Mme Grégoire. Une idée en l\'air\... Il faut réfléchir.
+
+--- Sans doute, continua-t-il avec un rire de gaillardise. Je crois que le neveu et la tante\... Ce qui me renverse, c\'est que ce soit Mme Hennebeau qui se jette ainsi au cou de Cécile. »
+
+Mais M. Grégoire s\'indigna. Une dame si distinguée, et de quatorze ans plus âgée que le jeune homme ! C\'était monstrueux, il n\'aimait pas qu\'on plaisantât sur des sujets pareils. Deneulin, riant toujours, lui serra la main et partit.
+
+« Ce n\'est pas encore ça, dit Cécile qui revenait. C\'est cette femme avec ses deux enfants, tu sais, maman, la femme de mineur que nous avons rencontrée\... Faut-il les faire entrer ici ? »
+
+On hésita. Étaient-ils très sales ? Non pas trop, et ils laisseraient leurs sabots sur le perron. Déjà le père et la mère s\'étaient allongés au fond des grands fauteuils. Ils y digéraient. La crainte de changer d\'air acheva de les décider.
+
+« Faites entrer, Honorine. »
+
+Alors, la Maheude et ses petits entrèrent, glacés, affamés, saisis d\'un effarement peureux, en se voyant dans cette salle où il faisait si chaud, et qui sentait si bon la brioche.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Deuxième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941770 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941339 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940908 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940477 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940046 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939615 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939184 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938753 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938322 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937891 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937460 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937029 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936598 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936167 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935736 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935305 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934874 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934443 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934012 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368933581 .pcalibre .calibre2 .pcalibre1} {#ii .calibre59 .sigil_not_in_toc}
+
+
+Dans la chambre, restée close, les persiennes avaient laissé glisser peu à peu des barres grises de jour, dont l\'éventail se déployait au plafond ; et l\'air enfermé s\'alourdissait, tous continuaient leur somme de la nuit : Lénore et Henri aux bras l\'un de l\'autre, Alzire la tête renversée, appuyée sur sa bosse ; tandis que le père Bonnemort, tenant à lui seul le lit de Zacharie et danlin, ronflait, la bouche ouverte. Pas un souffle ne venait du cabinet, où la Maheude s\'était rendormie en faisant téter Estelle, la gorge coulée de côté, sa fille en travers du ventre, gorgée de lait, assommée elle aussi, et s\'étouffant dans la chair molle des seins.
+
+Le coucou, en bas, sonna six heures. On entendit, le long des façades du coron, des bruits de portes, puis des claquements de sabots, sur le pavé des trottoirs : c\'étaient les cribleuses qui s\'en allaient à la fosse. Et le silence retomba jusqu\'à sept heures. Alors, des persiennes se rabattirent, des bâillements et des toux vinrent à travers les murs. Longtemps, un moulin à café grinça, sans que personne s\'éveillât encore dans la chambre.
+
+Mais, brusquement, un tapage de gifles et de hurlements, au loin, fit se dresser Alzire. Elle eut conscience de l\'heure, elle courut pieds nus secouer sa mère.
+
+« Maman ! maman ! il est tard. Toi qui as une course\... Prends garde ! tu vas écraser Estelle. »
+
+Et elle sauva l\'enfant, à demi étouffée sous la coulée énorme des seins.
+
+« Sacré bon sort ! bégayait la Maheude, en se frottant les yeux, on est si échiné qu\'on dormirait tout le jour\... Habille Lénore et Henri, je les emmène ; et tu garderas Estelle, je ne veux pas la traîner, crainte qu\'elle ne prenne du mal, par ce temps de chien. »
+
+Elle se lavait à la hâte, elle passa un vieux jupon bleu, son plus propre, et un caraco de laine grise, auquel elle avait posé deux pièces la veille.
+
+« Et de la soupe, sacré bon sort ! » murmura-t-elle de nouveau.
+
+Pendant que sa mère descendait, bousculant tout, Alzire retourna dans la chambre, où elle emporta Estelle qui s\'était mise à hurler. Mais elle était habituée aux rages de la petite, elle avait, à huit ans, des ruses tendres de femme, pour la calmer et la distraire. Doucement, elle la coucha dans son lit encore chaud, elle la rendormit en lui donnant à sucer un doigt. Il était temps, car un autre vacarme éclatait ; et elle dut mettre aussitôt la paix entre Lénore et Henri, qui s\'éveillaient enfin. Ces enfants ne s\'entendaient guère, ne se prenaient gentiment au cou que lorsqu\'ils dormaient. La fille, âgée de six ans, tombait dès son lever sur le garçon, son cadet de deux années, qui recevait les gifles sans les rendre. Tous deux avaient la même tête trop grosse et comme soufflée, ébouriffée de cheveux jaunes. Il fallut qu\'Alzire tirât sa sœur par les jambes, en la menaçant de lui enlever la peau du derrière. Puis, ce furent des trépignements pour le débarbouillage, et à chaque vêtement qu\'elle leur passait. On évitait d\'ouvrir les persiennes, afin de ne pas troubler le sommeil du père Bonnemort. Il continuait à ronfler, dans l\'affreux charivari des enfants.
+
+« C\'est prêt ! y êtes-vous, là-haut ? » cria la Maheude.
+
+Elle avait rabattu les volets, secoué le feu, remis du charbon. Son espoir était que le vieux n\'eût pas englouti toute la soupe. Mais elle trouva le poêlon torché, elle fit cuire une poignée de vermicelle, qu\'elle tenait en réserve depuis trois jours. On l\'avalerait à l\'eau, sans beurre ; il ne devait rien rester de la lichette de la veille ; et elle fut surprise de voir que Catherine, en préparant les briquets, avait fait le miracle d\'en laisser gros comme une noix. Seulement, cette fois, le buffet était bien vide : rien, pas une croûte, pas un fond de provision, pas un os à ronger. Qu\'allaient-ils devenir, si Maigrat s\'entêtait à leur couper le crédit, et si les bourgeois de la Piolaine ne lui donnaient pas cent sous ? Quand les hommes et la fille reviendraient de la fosse, il faudrait pourtant manger ; car on n\'avait pas encore inventé de vivre sans manger, malheureusement.
+
+« Descendez-vous, à la fin ! cria-t-elle en se fâchant. Je devrais être partie. »
+
+Lorsque Alzire et les enfants furent là, elle partagea le vermicelle dans trois petites assiettes. Elle, disait-elle, n\'avait pas faim. Bien que Catherine eût déjà passé de l\'eau sur le marc de la veille, elle en remit une seconde fois et avala deux grandes chopes d\'un café tellement clair qu\'il ressemblait à de l\'eau de rouille. Ça la soutiendrait tout de même.
+
+« Écoute, répétait-elle à Alzire, tu laisseras dormir ton grand-père, tu veilleras bien à ce que Estelle ne se casse pas la tête, et si elle se réveillait, si elle gueulait trop, tiens ! voici un morceau de sucre, tu le ferais fondre, tu lui en donnerais des cuillerées\... Je sais que tu es raisonnable, que tu ne le mangeras pas.
+
+--- Et l\'école, maman ?
+
+--- L\'école, eh bien, ce sera pour un autre jour\... J\'ai besoin de toi.
+
+--- Et la soupe, veux-tu que je la fasse, si tu rentres tard ?
+
+--- La soupe, la soupe\... Non, attends-moi. »
+
+Alzire, d\'une intelligence précoce de fillette infirme, savait très bien faire la soupe. Elle dut comprendre, n\'insista point. Maintenant, le coron entier était réveillé, des bandes d\'enfants s\'en allaient à l\'école, avec le bruit traînard de leurs galoches. Huit heures sonnèrent, un murmure croissant de bavardages montait à gauche, chez la Levaque. La journée des femmes commençait, autour des cafetières, les poings sur les hanches, les langues tournant sans repos, comme les meules d\'un moulin. Une tête flétrie, aux grosses lèvres, au nez écrasé, vint s\'appuyer contre une vitre de la fenêtre, en criant :
+
+« Y a du nouveau, écoute donc !
+
+--- Non, non, plus tard ! répondit la Maheude. J\'ai une course. »
+
+Et, de peur de succomber à l\'offre d\'un verre de café chaud, elle bourra Lénore et Henri, elle partit avec eux. En haut, le père Bonnemort ronflait toujours, d\'un ronflement rythmé qui berçait la maison.
+
+Dehors, la Maheude s\'étonna de voir que le vent ne soufflait plus. C\'était un dégel brusque, le ciel couleur de terre, les murs gluants d\'une humidité verdâtre, les routes empoissées de boue, une boue spéciale au pays du charbon, noire comme de la suie délayée, épaisse et collante à y laisser ses sabots. Tout de suite, elle dut gifler Lénore, parce que la petite s\'amusait à ramasser la crotte sur ses galoches, ainsi que sur le bout d\'une pelle. En quittant le coron, elle avait longé le terri et suivi le chemin du canal, coupant pour raccourcir par des rues défoncées, au milieu de terrains vagues, fermés de palissades moussues. Des hangars se succédaient, de longs bâtiments d\'usine, de hautes cheminées crachant de la suie, salissant cette campagne ravagée de faubourg industriel. Derrière un bouquet de peupliers, la vieille fosse Réquillart montrait l\'écroulement de son beffroi, dont les grosses charpentes restaient seules debout. Et, tournant à droite, la Maheude se trouva sur la grande route.
+
+« Attends ! attends, sale cochon ! cria-t-elle, je vais te faire rouler des boulettes ! »
+
+Maintenant, c\'était Henri qui avait pris une poignée de boue et qui la pétrissait. Les deux enfants, giflés sans préférence, rentrèrent dans l\'ordre, en louchant pour voir les patards qu\'ils faisaient au milieu des tas. Ils pataugeaient, déjà éreintés de leurs efforts pour décoller leurs semelles, à chaque enjambée.
+
+Du côté de Marchiennes, la route déroulait ses deux lieues de pavé, qui filaient droit, comme un ruban trempé de cambouis, entre les terres rougeâtres. Mais, de l\'autre côté, elle descendait en lacet au travers de Montsou, bâti sur la pente d\'une large ondulation de la plaine. Ces routes du Nord, tirées au cordeau entre des villes manufacturières, allant avec des courbes douces, des montées lentes, se bâtissent peu à peu, tendent à ne faire d\'un département qu\'une cité travailleuse. Les petites maisons de briques, peinturlurées pour égayer le climat, les unes jaunes, les autres bleues, d\'autres noires, celles-ci sans doute afin d\'arriver tout de suite au noir final, dévalaient à droite et à gauche, en serpentant jusqu\'au bas de la pente. Quelques grands pavillons à deux étages, des habitations de chefs d\'usines, trouaient la ligne pressée des étroites façades. Une église, également en briques, ressemblait à un nouveau modèle de haut fourneau, avec son clocher carré, sali déjà par les poussières volantes du charbon. Et, parmi les sucreries, les corderies, les minoteries, ce qui dominait, c\'étaient les bals, les estaminets, les débits de bière, si nombreux que, sur mille maisons, il y avait plus de cinq cents cabarets.
+
+Comme elle approchait des Chantiers de la Compagnie, une vaste série de magasins et d\'ateliers, la Maheude se décida à prendre Henri et Lénore par la main, l\'un à droite, l\'autre à gauche. Au-delà, se trouvait l\'hôtel du directeur, M. Hennebeau, une sorte de vaste chalet séparé de la route par une grille, suivi d\'un jardin où végétaient des arbres maigres. Justement, une voiture était arrêtée devant la porte, un monsieur décoré et une dame en manteau de fourrure, quelque visite débarquée de Paris à la gare de Marchiennes ; car Mme Hennebeau, qui parut dans le demi-jour du vestibule, poussa une exclamation de surprise et de joie.
+
+« Marchez donc, traînards ! » gronda la Maheude, en tirant les deux petits, qui s\'abandonnaient dans la boue.
+
+Elle arrivait chez Maigrat, elle était tout émotionnée. Maigrat habitait à côté même du directeur, un simple mur séparait l\'hôtel de sa petite maison ; et il y avait là un entrepôt, un long bâtiment qui s\'ouvrait sur la route en une boutique sans devanture. Il y tenait de tout, de l\'épicerie, de la charcuterie, de la fruiterie, y vendait du pain, de la bière, des casseroles. Ancien surveillant au Voreux, il avait débuté par une étroite cantine ; puis, grâce à la protection de ses chefs, son commerce s\'était élargi, tuant peu à peu le détail de Montsou. Il centralisait les marchandises, la clientèle considérable des corons lui permettait de vendre moins cher et de faire des crédits plus grands. D\'ailleurs, il était resté dans la main de la Compagnie, qui lui avait bâti sa petite maison et son magasin.
+
+« Me voici encore, monsieur Maigrat », dit la Maheude d\'un air humble, en le trouvant justement debout devant sa porte.
+
+Il la regarda sans répondre. Il était gros, froid et poli, et il se piquait de ne jamais revenir sur une décision.
+
+« Voyons, vous ne me renverrez pas comme hier. Faut que nous mangions du pain d\'ici à samedi\... Bien sûr, nous vous devons soixante francs depuis deux ans. »
+
+Elle s\'expliquait, en courtes phrases pénibles. C\'était une vieille dette, contractée pendant la dernière grève. Vingt fois, ils avaient promis de s\'acquitter, mais ils ne le pouvaient pas, ils ne parvenaient pas à lui donner quarante sous par quinzaine. Avec ça, un malheur lui était arrivé l\'avant-veille, elle avait dû payer vingt francs à un cordonnier, qui menaçait de les faire saisir. Et voilà pourquoi ils se trouvaient sans un sou. Autrement, ils seraient allés jusqu\'au samedi, comme les camarades.
+
+Maigrat, le ventre tendu, les bras croisés, répondait non de la tête, à chaque supplication.
+
+« Rien que deux pains, monsieur Maigrat. Je suis raisonnable, je ne demande pas du café\... Rien que deux pains de trois livres par jour.
+
+--- Non ! » cria-t-il enfin, de toute sa force.
+
+Sa femme avait paru, une créature chétive qui passait les journées sur un registre, sans même oser lever la tête. Elle s\'esquiva, effrayée de voir cette malheureuse tourner vers elle des yeux d\'ardente prière. On racontait qu\'elle cédait le lit conjugal aux herscheuses de la clientèle. C\'était un fait connu : quand un mineur voulait une prolongation de crédit, il n\'avait qu\'à envoyer sa fille ou sa femme, laides ou belles, pourvu qu\'elles fussent complaisantes.
+
+La Maheude, qui suppliait toujours Maigrat du regard, se sentit gênée, sous la clarté pâle des petits yeux dont il la déshabillait. Ça la mit en colère, elle aurait encore compris, avant d\'avoir eu sept enfants, quand elle était jeune. Et elle partit, elle tira violemment Lénore et Henri, en train de ramasser des coquilles de noix, jetées au ruisseau, et qu\'ils visitaient.
+
+« Ça ne vous portera pas chance, monsieur Maigrat, rappelez-vous ! »
+
+Maintenant, il ne lui restait que les bourgeois de la Piolaine. Si ceux-là ne lâchaient pas cent sous, on pouvait tous se coucher et crever. Elle avait pris à gauche le chemin de Joiselle. La Régie était là, dans l\'angle de la route, un véritable palais de briques, où les gros messieurs de Paris, et des princes, et des généraux, et des personnages du gouvernement, venaient chaque automne donner de grands dîners. Elle, tout en marchant, dépensait déjà les cent sous : d\'abord du pain, puis du café ; ensuite, un quart de beurre, un boisseau de pommes de terre, pour la soupe du matin et la ratatouille du soir ; enfin, peut-être un peu de fromage de cochon, car le père avait besoin de viande.
+
+Le curé de Montsou, l\'abbé Joire, passait en retroussant sa soutane, avec des délicatesses de gros chat bien nourri, qui craint de mouiller sa robe. Il était doux, il affectait de ne s\'occuper de rien, pour ne fâcher ni les ouvriers ni les patrons.
+
+« Bonjour, monsieur le curé. »
+
+Il ne s\'arrêta pas, sourit aux enfants, et la laissa plantée au milieu de la route. Elle n\'avait point de religion, mais elle s\'était imaginé brusquement que ce prêtre allait lui donner quelque chose.
+
+Et la course recommença, dans la boue noire et collante. Il y avait encore deux kilomètres, les petits se faisaient tirer davantage, ne s\'amusant plus, consternés. À droite et à gauche du chemin, se déroulaient les mêmes terrains vagues clos de palissades moussues, les mêmes corps de fabriques, salis de fumée, hérissés de cheminées hautes. Puis, en plein champ, les terres plates s\'étalèrent, immenses, pareilles à un océan de mottes brunes, sans la mâture d\'un arbre, jusqu\'à la ligne violâtre de la forêt de Vandame.
+
+« Porte-moi, maman. »
+
+Elle les porta l\'un après l\'autre. Des flaques trouaient la chaussée, elle se retroussait, avec la peur d\'arriver trop sale. Trois fois, elle faillit tomber, tant ce sacré pavé était gras. Et, comme ils débouchaient enfin devant le perron, deux chiens énormes se jetèrent sur eux, en aboyant si fort, que les petits hurlaient de peur. Il avait fallu que le cocher prît un fouet.
+
+« Laissez vos sabots, entrez », répétait Honorine.
+
+Dans la salle à manger, la mère et les enfants se tinrent immobiles, étourdis par la brusque chaleur, très gênés des regards de ce vieux monsieur et de cette vieille dame, qui s\'allongeaient dans leurs fauteuils.
+
+« Ma fille, dit cette dernière, remplis ton petit office. »
+
+Les Grégoire chargeaient Cécile de leurs aumônes. Cela rentrait dans leur idée d\'une belle éducation. Il fallait être charitable, ils disaient eux-mêmes que leur maison était la maison du bon Dieu. Du reste, ils se flattaient de faire la charité avec intelligence, travaillés de la continuelle crainte d\'être trompés et d\'encourager le vice. Ainsi, ils ne donnaient jamais d\'argent, jamais ! pas dix sous, pas deux sous, car c\'était un fait connu, dès qu\'un pauvre avait deux sous, il les buvait. Leurs aumônes étaient donc toujours en nature, surtout en vêtements chauds, distribués pendant l\'hiver aux enfants indigents.
+
+« Oh ! les pauvres mignons ! s\'écria Cécile, sont-ils pâlots d\'être allés au froid !\... Honorine, va donc chercher le paquet, dans l\'armoire. »
+
+Les bonnes, elles aussi, regardaient ces misérables, avec l\'apitoiement et la pointe d\'inquiétude de filles qui n\'étaient pas en peine de leur dîner. Pendant que la femme de chambre montait, la cuisinière s\'oubliait, reposait le reste de la brioche sur la table, pour demeurer là, les mains ballantes.
+
+« Justement, continuait Cécile, j\'ai encore deux robes de laine et des fichus\... Vous allez voir, ils auront chaud, les pauvres mignons ! »
+
+La Maheude, alors, retrouva sa langue, bégayant :
+
+« Merci bien, mademoiselle\... Vous êtes tous bien bons\... »
+
+Des larmes lui avaient empli les yeux, elle se croyait sûre des cent sous, elle se préoccupait seulement de la façon dont elle les demanderait, si on ne les lui offrait pas. La femme de chambre ne reparaissait plus, il y eut un moment de silence embarrassé. Dans les jupes de leur mère, les petits ouvraient de grands yeux et contemplaient la brioche.
+
+« Vous n\'avez que ces deux-là ? demanda Mme Grégoire, pour rompre le silence.
+
+--- Oh ! madame, j\'en ai sept. »
+
+M. Grégoire, qui s\'était remis à lire son journal, eut un sursaut indigné.
+
+« Sept enfants, mais pourquoi ? bon Dieu !
+
+--- C\'est imprudent », murmura la vieille dame.
+
+La Maheude eut un geste vague d\'excuse. Que voulez-vous ? on n\'y songeait point, ça poussait naturellement. Et puis, quand ça grandissait, ça rapportait, ça faisait aller la maison. Ainsi, chez eux, ils auraient vécu, s\'ils n\'avaient pas eu le grand-père qui devenait tout raide, et si, dans le tas, deux de ses garçons et sa fille aînée seulement avaient l\'âge de descendre à la fosse. Fallait quand même nourrir les petits qui ne fichaient rien.
+
+« Alors, reprit Mme Grégoire, vous travaillez depuis longtemps aux mines ? »
+
+Un rire muet éclaira le visage blême de la Maheude.
+
+« Ah ! oui, ah ! oui\... Moi, je suis descendue jusqu\'à vingt ans. Le médecin a dit que j\'y resterais, lorsque j\'ai accouché la seconde fois, parce que, paraît-il, ça me dérangeait des choses dans les os. D\'ailleurs, c\'est à ce moment que je me suis mariée, et j\'avais assez de besogne à la maison\... Mais, du côté de mon mari, voyez-vous, ils sont là-dedans depuis des éternités. Ça remonte au grand-père du grand-père, enfin on ne sait pas, tout au commencement, quand on a donné le premier coup de pioche là-bas, à Réquillart. »
+
+Rêveur, M. Grégoire regardait cette femme et ces enfants pitoyables, avec leur chair de cire, leurs cheveux décolorés, la dégénérescence qui les rapetissait, rongés d\'anémie, d\'une laideur triste de meurt-de-faim. Un nouveau silence s\'était fait, on n\'entendait plus que la houille brûler en lâchant un jet de gaz. La salle moite avait cet air alourdi de bien-être, dont s\'endorment les coins de bonheur bourgeois.
+
+« Que fait-elle donc ? s\'écria Cécile, impatientée. Mélanie, monte lui dire que le paquet est en bas de l\'armoire, à gauche. »
+
+Cependant, M. Grégoire acheva tout haut les réflexions que lui inspirait la vue de ces affamés.
+
+« On a du mal en ce monde, c\'est bien vrai ; mais, ma brave femme, il faut dire aussi que les ouvriers ne sont guère sages\... Ainsi, au lieu de mettre des sous de côté comme nos paysans, les mineurs boivent, font des dettes, finissent par n\'avoir plus de quoi nourrir leur famille.
+
+--- Monsieur a raison, répondit posément la Maheude. On n\'est pas toujours dans la bonne route. C\'est ce que je répète aux vauriens, quand ils se plaignent\... Moi, je suis bien tombée, mon mari ne boit pas. Tout de même, les dimanches de noce, il en prend des fois de trop ; mais ça ne va jamais plus loin. La chose est d\'autant plus gentille de sa part, qu\'avant notre mariage, il buvait en vrai cochon, sauf votre respect\... Et voyez, pourtant, ça ne nous avance pas à grand-chose, qu\'il soit raisonnable. Il y a des jours, comme aujourd\'hui, où vous retourneriez bien tous les tiroirs de la maison, sans en faire tomber un liard. »
+
+Elle voulait leur donner l\'idée de la pièce de cent sous, elle continua de sa voix molle, expliquant la dette fatale, timide d\'abord, bientôt élargie et dévorante. On payait régulièrement pendant des quinzaines. Mais, un jour, on se mettait en retard, et c\'était fini, ça ne se rattrapait jamais plus. Le trou se creusait, les hommes se dégoûtaient du travail, qui ne leur permettait seulement pas de s\'acquitter. Va te faire fiche ! on était dans le pétrin jusqu\'à la mort. Du reste, il fallait tout comprendre : un charbonnier avait besoin d\'une chope pour balayer les poussières. Ça commençait par là, puis il ne sortait plus du cabaret, quand arrivaient les embêtements. Peut-être bien, sans se plaindre de personne, que les ouvriers tout de même ne gagnaient point assez.
+
+« Je croyais, dit Mme Grégoire, que la Compagnie vous donnait le loyer et le chauffage. »
+
+La Maheude eut un coup d\'œil oblique sur la houille flambante de la cheminée.
+
+« Oui, oui, on nous donne du charbon, pas trop fameux, mais qui brûle pourtant\... Quant au loyer, il n\'est que de six francs par mois : ça n\'a l\'air de rien, et souvent c\'est joliment dur à payer\... Ainsi, aujourd\'hui, moi, on me couperait en morceaux, qu\'on ne me tirerait pas deux sous. Où il n\'y a rien, il n\'y a rien. »
+
+Le monsieur et la dame se taisaient, douillettement allongés, peu à peu ennuyés et pris de malaise, devant l\'étalage de cette misère. Elle craignit de les avoir blessés, elle ajouta de son air juste et calme de femme pratique :
+
+« Oh ! ce n\'est pas pour me plaindre. Les choses sont ainsi, il faut les accepter ; d\'autant plus que nous aurions beau nous débattre, nous ne changerions sans doute rien\... Le mieux encore, n\'est-ce pas ? monsieur et madame, c\'est de tâcher de faire honnêtement ses affaires, dans l\'endroit où le bon Dieu vous a mis. »
+
+M. Grégoire l\'approuva beaucoup.
+
+« Avec de tels sentiments, ma brave femme, on est au-dessus de l\'infortune. »
+
+Honorine et Mélanie apportaient enfin le paquet. Ce fut Cécile qui le déballa et qui sortit les deux robes. Elle y joignit des fichus, même des bas et des mitaines. Tout cela irait à merveille, elle se hâtait, faisait envelopper par les bonnes les vêtements choisis ; car sa maîtresse de piano venait d\'arriver, et elle poussait la mère et les enfants vers la porte.
+
+« Nous sommes bien à court, bégaya la Maheude, si nous avions une pièce de cent sous seulement\... »
+
+La phrase s\'étrangla, car les Maheu étaient fiers et ne mendiaient point. Cécile, inquiète, regarda son père ; mais celui-ci refusa nettement, d\'un air de devoir.
+
+« Non, ce n\'est pas dans nos habitudes. Nous ne pouvons pas. »
+
+Alors, la jeune fille, émue de la figure bouleversée de la mère, voulut combler les enfants. Ils regardaient toujours fixement la brioche, elle en coupa deux parts, qu\'elle leur distribua.
+
+« Tenez ! c\'est pour vous. »
+
+Puis, elle les reprit, demanda un vieux journal.
+
+« Attendez, vous partagerez avec vos frères et vos sœurs. »
+
+Et, sous les regards attendris de ses parents, elle acheva de les pousser dehors. Les pauvres mioches, qui n\'avaient pas de pain, s\'en allèrent, en tenant cette brioche respectueusement, dans leurs menottes gourdes de froid.
+
+La Maheude tirait ses enfants sur le pavé, ne voyait plus ni les champs déserts, ni la boue noire, ni le grand ciel livide qui tournait. Lorsqu\'elle retraversa Montsou, elle entra résolument chez Maigrat et le supplia si fort, qu\'elle finit par emporter deux pains, du café, du beurre, et même sa pièce de cent sous, car l\'homme prêtait aussi à la petite semaine. Ce n\'était pas d\'elle qu\'il voulait, c\'était de Catherine : elle le comprit, quand il lui recommanda d\'envoyer sa fille chercher les provisions. On verrait ça. Catherine le giflerait, s\'il lui soufflait de trop près sous le nez.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Deuxième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941340 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940909 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940478 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940047 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939616 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939185 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938754 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938323 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937892 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937461 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937030 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936599 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936168 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935737 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935306 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934875 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934444 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934013 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368933582 .pcalibre .calibre2 .pcalibre1} {#iii .calibre59 .sigil_not_in_toc}
+
+
+Onze heures sonnaient à la petite église du coron des Deux-Cent-Quarante, une chapelle de briques, où l\'abbé Joire venait dire la messe, le dimanche. À côté, dans l\'école, également en briques, on entendait les voix ânonnantes des enfants, malgré les fenêtres fermées au froid du dehors. Les larges voies, divisées en petits jardins adossés, restaient désertes, entre les quatre grands corps de maisons uniformes ; et ces jardins, ravagés par l\'hiver, étalaient la tristesse de leur terre marneuse, que bossuaient et salissaient les derniers légumes. On faisait la soupe, les cheminées fumaient, une femme apparaissait de loin en loin le long des façades, ouvrait une porte, disparaissait. D\'un bout à l\'autre, sur le trottoir pavé, les tuyaux de descente s\'égouttaient dans des tonneaux, bien qu\'il ne plût pas, tant le ciel gris était chargé d\'humidité. Et ce village, bâti d\'un coup au milieu du vaste plateau, bordé de ses routes noires comme d\'un liséré de deuil, n\'avait d\'autre gaieté que les bandes régulières de ses tuiles rouges, sans cesse lavées par les averses.
+
+Quand la Maheude rentra, elle fit un détour pour aller acheter des pommes de terre, chez la femme d\'un surveillant, qui en avait encore de sa récolte. Derrière un rideau de peupliers malingres, les seuls arbres de ces terrains plats, se trouvait un groupe de constructions isolées, des maisons quatre par quatre, entourées de leurs jardins. Comme la Compagnie réservait aux porions ce nouvel essai, les ouvriers avaient surnommé ce coin du hameau le coron des Bas-de-Soie ; de même qu\'ils appelaient leur propre coron Paie-tes-Dettes, par une ironie bonne enfant de leur misère.
+
+« Ouf ! nous y voilà », dit la Maheude chargée de paquets, en poussant chez eux Lénore et Henri, boueux, les jambes mortes.
+
+Devant le feu, Estelle hurlait, bercée dans les bras d\'Alzire. Celle-ci, n\'ayant plus de sucre, ne sachant comment la faire taire, s\'était décidée à feindre de lui donner le sein. Ce simulacre, souvent, réussissait. Mais, cette fois, elle avait beau écarter sa robe, lui coller la bouche sur sa poitrine maigre d\'infirme de huit ans, l\'enfant s\'enrageait de mordre la peau et de n\'en rien tirer.
+
+« Passe-la-moi, cria la mère, dès qu\'elle se trouva débarrassée. Elle ne nous laissera pas dire un mot. »
+
+Lorsqu\'elle eut sorti de son corsage un sein lourd comme une outre, et que la braillarde se fut pendue au goulot, brusquement muette, on put enfin causer. Du reste, tout allait bien, la petite ménagère avait entretenu le feu, balayé, rangé la salle. Et, dans le silence, on entendait en haut ronfler le grand-père, du même ronflement rythmé, qui ne s\'était pas arrêté un instant.
+
+« En voilà des choses ! murmura Alzire, en souriant aux provisions. Si tu veux, maman, je ferai la soupe. »
+
+La table était encombrée : un paquet de vêtements, deux pains, des pommes de terre, du beurre, du café, de la chicorée et une demi-livre de fromage de cochon.
+
+« Oh ! la soupe ! dit la Maheude d\'un air de fatigue, il faudrait aller cueillir de l\'oseille et arracher des poireaux\... Non, j\'en ferai ensuite pour les hommes\... Mets bouillir des pommes de terre, nous les mangerons avec un peu de beurre\... Et du café, hein ? n\'oublie pas le café ! »
+
+Mais, tout d\'un coup, l\'idée de la brioche lui revint. Elle regarda les mains vides de Lénore et d\'Henri, qui se battaient par terre, déjà reposés et gaillards. Est-ce que ces gourmands n\'avaient pas, en chemin, mangé sournoisement la brioche ! Elle les gifla, pendant qu\'Alzire, qui mettait la marmite au feu, tâchait de l\'apaiser.
+
+« Laisse-les, maman. Si c\'est pour moi, tu sais que ça m\'est égal, la brioche. Ils avaient faim, d\'être allés si loin à pied. »
+
+Midi sonnèrent, on entendit les galoches des gamins qui sortaient de l\'école. Les pommes de terre étaient cuites, le café épaissi d\'une bonne moitié de chicorée, passait dans le filtre, avec un bruit chantant de grosses gouttes. Un coin de la table fut débarrassé ; mais la mère seule y mangea, les trois enfants se contentèrent de leurs genoux ; et, tout le temps, le petit garçon, qui était d\'une voracité muette, se tourna sans rien dire vers le fromage de cochon, dont le papier gras le surexcitait.
+
+La Maheude buvait son café à petits coups, les deux mains autour du verre pour les réchauffer, lorsque le père Bonnemort descendit. D\'habitude, il se levait plus tard, son déjeuner l\'attendait sur le feu. Mais, ce jour-là, il se mit à grogner, parce qu\'il n\'y avait point de soupe. Puis, quand sa bru lui eut dit qu\'on ne faisait pas toujours comme on voulait, il mangea ses pommes de terre en silence. De temps à autre, il se levait, allait cracher dans les cendres, par propreté ; et, tassé ensuite sur sa chaise, il roulait la nourriture au fond de sa bouche, la tête basse, les yeux éteints.
+
+« Ah ! j\'ai oublié, maman, dit Alzire, la voisine est venue. »
+
+Sa mère l\'interrompit.
+
+« Elle m\'embête ! »
+
+C\'était une sourde rancune contre la Levaque, qui avait pleuré misère, la veille, pour ne rien lui prêter ; et elle la savait justement à son aise, en ce moment-là, le logeur Bouteloup ayant avancé sa quinzaine. Dans le coron, on ne se prêtait guère de ménage à ménage.
+
+« Tiens, tu me fais songer, reprit la Maheude, enveloppe donc un moulin de café\... Je le reporterai à la Pierronne, à qui je le dois d\'avant-hier. »
+
+Et, quand sa fille eut préparé le paquet, elle ajouta qu\'elle rentrerait tout de suite mettre la soupe des hommes sur le feu. Puis, elle sortit avec Estelle dans les bras, laissant le vieux Bonnemort broyer lentement ses pommes de terre, tandis que Lénore et Henri se battaient pour manger les pelures tombées.
+
+La Maheude, au lieu de faire le tour, coupa tout droit, à travers les jardins, de peur que la Levaque ne l\'appelât. Justement, son jardin s\'adossait à celui des Pierron ; et il y avait, dans le treillage délabré qui les séparait, un trou par lequel on voisinait. Le puits commun était là, desservant quatre ménages. À côté, derrière un bouquet de lilas chétifs, se trouvait le carin, une remise basse, pleine de vieux outils, et où l\'on élevait, un à un, les lapins qu\'on mangeait les jours de fête. Une heure sonna, c\'était l\'heure du café, pas une âme ne se montrait aux portes ni aux fenêtres. Seul, un ouvrier de la coupe à terre, en attendant la descente, bêchait son coin de légumes, sans lever la tête. Mais, comme la Maheude arrivait en face, à l\'autre corps de bâtiment, elle fut surprise de voir paraître, devant l\'église, un monsieur et deux dames. Elle s\'arrêta une seconde, elle les reconnut : c\'était Mme Hennebeau, qui faisait visiter le coron à ses invités, le monsieur décoré et la dame en manteau de fourrure.
+
+« Oh ! pourquoi as-tu pris cette peine ? s\'écria la Pierronne, lorsque la Maheude lui eut rendu son café. Ça ne pressait pas. »
+
+Elle avait vingt-huit ans, elle passait pour la jolie femme du coron, brune, le front bas, les yeux grands, la bouche étroite : et coquette avec ça, d\'une propreté de chatte, la gorge restée belle, car elle n\'avait pas eu d\'enfant. Sa mère, la Brûlé, veuve d\'un haveur mort à la mine, après avoir envoyé sa fille travailler dans une fabrique, en jurant qu\'elle n\'épouserait jamais un charbonnier, ne décolérait plus, depuis que celle-ci s\'était mariée sur le tard avec Pierron, un veuf encore, qui avait une gamine de huit ans. Cependant, le ménage vivait très heureux, au milieu des bavardages, des histoires qui couraient sur les complaisances du mari et sur les amants de la femme : pas une dette, deux fois de la viande par semaine, une maison si nettement tenue, qu\'on se serait miré dans les casseroles. Pour surcroît de chance, grâce à des protections, la Compagnie l\'avait autorisée à vendre des bonbons et des biscuits, dont elle étalait les bocaux sur deux planches, derrière les vitres de la fenêtre. C\'étaient six ou sept sous de gain par jour, quelquefois douze le dimanche. Et, dans ce bonheur, il n\'y avait que la mère Brûlé qui hurlât avec son enragement de vieille révolutionnaire, ayant à venger la mort de son homme contre les patrons, et que la petite Lydie qui empochât en gifles fréquentes les vivacités de la famille.
+
+« Comme elle est grosse déjà ! reprit la Pierronne, en faisant des risettes à Estelle.
+
+--- Ah ! le mal que ça donne, ne m\'en parle pas ! dit la Maheude. Tu es heureuse de n\'en pas avoir. Au moins, tu peux tenir propre. »
+
+Bien que, chez elle, tout fût en ordre, et qu\'elle lavât chaque samedi, elle jetait un coup d\'œil de ménagère jalouse sur cette salle si claire, où il y avait même de la coquetterie, des vases dorés sur le buffet, une glace, trois gravures encadrées.
+
+Cependant, la Pierronne était en train de boire seule son café, tout son monde se trouvant à la fosse.
+
+« Tu vas en prendre un verre avec moi, dit-elle.
+
+--- Non, merci, je sors d\'avaler le mien.
+
+--- Qu\'est-ce que ça fait ? »
+
+En effet, ça ne faisait rien. Et toutes deux burent lentement. Entre les bocaux de biscuits et de bonbons, leurs regards s\'étaient arrêtés sur les maisons d\'en face, qui alignaient, aux fenêtres, leurs petits rideaux, dont le plus ou le moins de blancheur disait les vertus des ménagères. Ceux des Levaque étaient très sales, de véritables torchons, qui semblaient avoir essuyé le cul des marmites.
+
+« S\'il est possible de vivre dans une pareille ordure ! » murmura la Pierronne.
+
+Alors, la Maheude partit et ne s\'arrêta plus. Ah ! si elle avait eu un logeur comme ce Bouteloup, c\'était elle qui aurait voulu faire marcher son ménage ! Quand on savait s\'y prendre, un logeur devenait une excellente affaire. Seulement, il ne fallait pas coucher avec. Et puis, le mari buvait, battait sa femme, courait les chanteuses des cafés-concerts de Montsou.
+
+La Pierronne prit un air profondément dégoûté. Ces chanteuses, ça donnait toutes les maladies. Il y en avait une, à Joiselle, qui avait empoisonné une fosse.
+
+« Ce qui m\'étonne, c\'est que tu aies laissé aller ton fils avec leur fille.
+
+--- Ah ! oui, empêche donc ça !\... Leur jardin est contre le nôtre. L\'été, Zacharie était toujours avec Philomène derrière les lilas, et ils ne se gênaient guère sur le carin, on ne pouvait tirer de l\'eau au puits sans les surprendre. »
+
+C\'était la commune histoire des promiscuités du coron, les garçons et les filles pourrissant ensemble, se jetant à cul, comme ils disaient, sur la toiture basse et en pente du carin, dès la nuit tombée. Toutes les herscheuses faisaient là leur premier enfant, quand elles ne prenaient pas la peine d\'aller le faire à Réquillart ou dans les blés. Ça ne tirait pas à conséquence, on se mariait ensuite, les mères seules se fâchaient, lorsque les garçons commençaient trop tôt, car un garçon qui se mariait ne rapportait plus à la famille.
+
+« À ta place, j\'aimerais mieux en finir, reprit la Pierronne sagement. Ton Zacharie l\'a déjà emplie deux fois, et ils iront plus loin se coller\... De toute façon, l\'argent est fichu. »
+
+La Maheude, furieuse, étendit les mains.
+
+« Écoute ça : je les maudis, s\'ils se collent\... Est-ce que Zacharie ne nous doit pas du respect ? Il nous a coûté, n\'est-ce pas ? eh bien, il faut qu\'il nous rende, avant de s\'embarrasser d\'une femme\... qu\'est-ce que nous deviendrions, dis ? si nos enfants travaillaient tout de suite pour les autres ? Autant crever alors ! »
+
+Cependant, elle se calma.
+
+« Je parle en général, on verra plus tard\... Il est joliment fort, ton café : tu mets ce qu\'il faut. »
+
+Et, après un quart d\'heure d\'autres histoires, elle se sauva, criant que la soupe de ses hommes n\'était pas faite. Dehors, les enfants retournaient à l\'école, quelques femmes se montraient sur les portes, regardaient Mme Hennebeau, qui longeait une des façades, en expliquant du doigt le coron à ses invités. Cette visite commençait à remuer le village. L\'homme de la coupe à terre s\'arrêta un moment de bêcher, deux poules inquiètes s\'effarouchèrent dans les jardins.
+
+Comme la Maheude rentrait, elle buta dans la Levaque, qui était sortie pour sauter au passage sur le docteur Vanderhaghen, un médecin de la Compagnie, petit homme pressé, écrasé de besogne, qui donnait ses consultations en courant.
+
+« Monsieur, disait-elle, je ne dors plus, j\'ai mal partout\... Faudrait en causer cependant. »
+
+Il les tutoyait toutes, il répondit sans s\'arrêter :
+
+« Fiche-moi la paix ! tu bois trop de café.
+
+--- Et mon mari, monsieur, dit à son tour la Maheude, vous deviez venir le voir\... Il a toujours ses douleurs aux jambes.
+
+--- C\'est toi qui l\'esquintes, fiche-moi la paix ! »
+
+Les deux femmes restèrent plantées, regardant fuir le dos du docteur.
+
+« Entre donc, reprit la Levaque, quand elle eut échangé avec sa voisine un haussement d\'épaules désespéré. Tu sais qu\'il y a du nouveau\... Et tu prendras bien un peu de café. Il est tout frais. »
+
+La Maheude, qui se débattait, fut sans force. Allons ! une goutte tout de même, pour ne pas la désobliger. Et elle entra.
+
+La salle était d\'une saleté noire, le carreau et les murs tachés de graisse, le buffet et la table poissés de crasse ; et une puanteur de ménage mal tenu prenait à la gorge. Près du feu, les deux coudes sur la table, le nez enfoncé dans son assiette, Bouteloup, jeune encore pour ses trente-cinq ans, achevait un restant de bouilli, avec sa carrure épaisse de gros garçon placide ; tandis que, debout contre lui, le petit Achille, le premier né de Philomène, qui entrait dans ses trois ans déjà, le regardait de l\'air suppliant et muet d\'une bête gourmande. Le logeur, très tendre sous une grande barbe brune, lui fourrait de temps à autre un morceau de sa viande au fond de la bouche.
+
+« Attends que je le sucre », disait la Levaque, en mettant la cassonnade d\'avance dans la cafetière.
+
+Elle, plus vieille que lui de six ans, était affreuse, usée, la gorge sur le ventre et le ventre sur les cuisses, avec un mufle aplati aux poils grisâtres, toujours dépeignée. Il l\'avait prise naturellement, sans l\'éplucher davantage que sa soupe, où il trouvait des cheveux, et que son lit, dont les draps servaient trois mois. Elle entrait dans la pension, le mari aimait à répéter que les bons comptes font les bons amis.
+
+« Alors, c\'était pour te dire, continua-t-elle, qu\'on a vu hier soir la Pierronne rôder du côté des Bas-de-Soie. Le monsieur que tu sais l\'attendait derrière Rasseneur, et ils ont filé ensemble le long du canal\... Hein ? c\'est du propre, une femme mariée !
+
+--- Dame ! dit la Maheude. Pierron avant de l\'épouser donnait des lapins au porion, maintenant ça lui coûte moins cher de prêter sa femme. »
+
+Bouteloup éclata d\'un rire énorme et jeta une mie de pain saucée dans la bouche d\'Achille. Les deux femmes achevaient de se soulager sur le compte de la Pierronne, une coquette pas plus belle qu\'une autre, mais toujours occupée à se visiter les trous de la peau, à se laver, à se mettre de la pommade. Enfin, ça regardait le mari, s\'il aimait ce pain-là. Il y avait des hommes si ambitieux qu\'ils auraient torché les chefs, pour les entendre seulement dire merci. Et elles ne furent interrompues que par l\'arrivée d\'une voisine qui rapportait une mioche de neuf mois, Désirée, la dernière de Philomène : celle-ci, déjeunant au criblage, s\'entendait pour qu\'on lui amenât là-bas sa petite, et elle la faisait téter, assise un instant dans le charbon.
+
+« La mienne, je ne peux pas la quitter une minute, elle gueule tout de suite », dit la Maheude en regardant Estelle, qui s\'était endormie sur ses bras.
+
+Mais elle ne réussit point à éviter la mise en demeure qu\'elle lisait depuis un moment dans les yeux de la Levaque.
+
+« Dis donc, il faudrait pourtant songer à en finir. » D\'abord, les deux mères, sans avoir besoin d\'en causer, étaient tombées d\'accord pour ne pas conclure le mariage.
+
+Si la mère de Zacharie voulait toucher le plus longtemps possible les quinzaines de son fils, la mère de Philomène s\'emportait à l\'idée d\'abandonner celles de sa fille. Rien ne pressait, la seconde avait même préféré garder le petit, tant qu\'il y avait eu un seul enfant ; mais, depuis que celui-ci, grandissant, mangeait du pain, et qu\'un autre était venu, elle se trouvait en perte, elle poussait furieusement au mariage, en femme qui n\'entend pas y mettre du sien.
+
+« Zacharie a tiré au sort, continua-t-elle, plus rien n\'arrête\... Voyons, à quand ?
+
+--- Remettons ça aux beaux jours, répondit la Maheude gênée. C\'est ennuyeux, ces affaires ! Comme s\'ils n\'auraient pas pu attendre d\'être mariés, pour aller ensemble !\... Parole d\'honneur, tiens ! j\'étranglerais Catherine, si j\'apprenais qu\'elle ait fait la bêtise. »
+
+La Levaque haussa les épaules.
+
+« Laisse donc, elle y passera comme les autres ! »
+
+Bouteloup, avec la tranquillité d\'un homme qui est chez lui, fouilla le buffet, cherchant le pain. Des légumes pour la soupe de Levaque, des pommes de terre et des poireaux, traînaient sur un coin de la table, à moitié pelurés, repris et abandonnés dix fois, au milieu des continuels commérages. La femme venait cependant de s\'y remettre, lorsqu\'elle les lâcha de nouveau, pour se planter devant la fenêtre.
+
+« Qu\'est-ce que c\'est que ça\... Tiens ! c\'est Mme Hennebeau avec des gens. Les voilà qui entrent chez la Pierronne. »
+
+Du coup, toutes deux retombèrent sur la Pierronne. Oh ! ça ne manquait jamais, dès que la Compagnie faisait visiter le coron à des gens, on les conduisait droit chez celle-là, parce que c\'était propre. Sans doute qu\'on ne leur racontait pas les histoires avec le maître porion. On peut bien être propre, quand on a des amoureux qui gagnent trois mille francs, logés, chauffés, sans compter les cadeaux. Si c\'était propre dessus, ce n\'était guère propre dessous. Et, tout le temps que les visiteurs restèrent en face, elles en dégoisèrent.
+
+« Les voilà qui sortent, dit enfin la Levaque. Ils font le tour\... Regarde donc, ma chère, je crois qu\'ils vont chez toi. »
+
+La Maheude fut prise de peur. Qui sait si Alzire avait donné un coup d\'éponge à la table ? Et sa soupe, à elle aussi, qui n\'était pas prête ! Elle balbutia un « au revoir », elle se sauva, filant, rentrant, sans un coup d\'œil de côté.
+
+Mais tout reluisait. Alzire, très sérieuse, un torchon devant elle, s\'était mise à faire la soupe, en voyant que sa mère ne revenait pas. Elle avait arraché les derniers poireaux du jardin, cueilli de l\'oseille, et elle nettoyait précisément les légumes, pendant que, sur le feu, dans un grand chaudron, chauffait l\'eau pour le bain des hommes, quand ils allaient rentrer. Henri et Lénore étaient sages par hasard, très occupés à déchirer un vieil almanach. Le père Bonnemort fumait silencieusement sa pipe.
+
+Comme la Maheude soufflait, Mme Hennebeau frappa.
+
+« Vous permettez, n\'est-ce pas ? ma brave femme. »
+
+Grande, blonde, un peu alourdie dans la maturité superbe de la quarantaine, elle souriait avec un effort d\'affabilité, sans laisser trop paraître la crainte de tacher sa toilette de soie bronze, drapée d\'une mante de velours noir.
+
+« Entrez, entrez, répétait-elle à ses invités. Nous ne gênons personne\... Hein ? est-ce propre encore ? et cette brave femme a sept enfants ! Tous nos ménages sont comme ça\... Je vous expliquais que la Compagnie leur loue la maison six francs par mois. Une grande salle au rez-de-chaussée, deux chambres en haut, une cave et un jardin. »
+
+Le monsieur décoré et la dame en manteau de fourrure, débarqués le matin du train de Paris, ouvraient des yeux vagues, avaient sur la face l\'ahurissement de ces choses brusques, qui les dépaysaient.
+
+« Et un jardin, répéta la dame. Mais on y vivrait, c\'est charmant !
+
+--- Nous leur donnons du charbon plus qu\'ils n\'en brûlent, continuait Mme Hennebeau. Un médecin les visite deux fois par semaine ; et, quand ils sont vieux, ils reçoivent des pensions, bien qu\'on ne fasse aucune retenue sur les salaires.
+
+--- Une Thébaïde ! un vrai pays de Cocagne ! » murmura le monsieur, ravi.
+
+La Maheude s\'était précipitée pour offrir des chaises. Ces dames refusèrent. Déjà Mme Hennebeau se lassait, heureuse un instant de se distraire à ce rôle de montreur de bêtes, dans l\'ennui de son exil, mais tout de suite répugnée par l\'odeur fade de misère, malgré la propreté choisie des maisons où elle se risquait. Du reste, elle ne répétait que des bouts de phrase entendus, sans jamais s\'inquiéter davantage de ce peuple d\'ouvriers besognant et souffrant près d\'elle.
+
+« Les beaux enfants ! » murmura la dame, qui les trouvait affreux, avec leurs têtes trop grosses, embroussaillées de cheveux couleur de paille.
+
+Et la Maheude dut dire leur âge, on lui adressa aussi des questions sur Estelle, par politesse. Respectueusement, le père Bonnemort avait retiré sa pipe de la bouche ; mais il n\'en restait pas moins un sujet d\'inquiétude, si ravagé par ses quarante années de fond, les jambes raides, la carcasse démolie, la face terreuse ; et, comme un violent accès de toux le prenait, il préféra sortir pour cracher dehors, dans l\'idée que son crachat noir allait gêner le monde.
+
+Alzire eut tout le succès. Quelle jolie petite ménagère, avec son torchon ! On complimenta la mère d\'avoir une petite fille déjà si entendue pour son âge. Et personne ne parlait de la bosse, des regards d\'une compassion pleine de malaise revenaient toujours vers le pauvre être infirme.
+
+« Maintenant, conclut Mme Hennebeau, si l\'on vous interroge sur nos corons, à Paris, vous pourrez répondre\... Jamais plus de bruit que ça, mœurs patriarcales, tous heureux et bien portants comme vous voyez, un endroit où vous devriez venir vous refaire un peu, à cause du bon air et de la tranquillité.
+
+--- C\'est merveilleux, merveilleux ! » cria le monsieur, dans un élan final d\'enthousiasme.
+
+Ils sortirent de l\'air enchanté dont on sort d\'une baraque de phénomènes, et la Maheude qui les accompagnait demeura sur le seuil, pendant qu\'ils repartaient doucement, en causant très haut. Les rues s\'étaient peuplées, ils devaient traverser des groupes de femmes, attirées par le bruit de leur visite, qu\'elles colportaient de maison en maison.
+
+Justement, devant sa porte, la Levaque avait arrêté la Pierronne, accourue en curieuse. Toutes deux affectaient une surprise mauvaise. Eh bien, quoi donc, ces gens voulaient y coucher, chez les Maheu ? Ce n\'était pourtant pas si drôle.
+
+« Toujours sans le sou, avec ce qu\'ils gagnent ! Dame ! quand on a des vices !
+
+--- Je viens d\'apprendre qu\'elle est allée ce matin mendier chez les bourgeois de la Piolaine, et Maigrat qui leur avait refusé du pain, lui en a donné\... On sait comment il se paie, Maigrat.
+
+--- Sur elle, oh ! non ! faudrait du courage\... C\'est sur Catherine qu\'il en prend.
+
+--- Ah ! écoute donc, est-ce qu\'elle n\'a pas eu le toupet tout à l\'heure de me dire qu\'elle étranglerait Catherine, si elle y passait !\... Comme si le grand Chaval, il y a beau temps, ne l\'avait pas mise à cul sur le carin !
+
+--- Chut !\... Voici le monde. »
+
+Alors, la Levaque et la Pierronne, l\'air paisible, sans curiosité impolie, s\'étaient contentées de guetter sortir les visiteurs, du coin de l\'œil. Puis, elles avaient appelé vivement d\'un signe la Maheude, qui promenait encore Estelle sur ses bras. Et toutes trois, immobiles, regardaient s\'éloigner les dos bien vêtus de Mme Hennebeau et de ses invités. Lorsque ceux-ci furent à une trentaine de pas, les commérages reprirent, avec un redoublement de violence.
+
+« Elles en ont pour de l\'argent sur la peau, ça vaut plus cher qu\'elles, peut-être !
+
+--- Ah ! sûr\... Je ne connais pas l\'autre, mais celle d\'ici, je n\'en donnerais pas quatre sous, si grosse qu\'elle soit. On raconte des histoires\...
+
+--- Hein ? quelles histoires ?
+
+--- Elle aurait des hommes donc !\... D\'abord, l\'ingénieur\...
+
+--- Ce petiot maigre !\... Oh ! il est trop menu, elle le perdrait dans les draps.
+
+--- Qu\'est-ce que ça te fiche, si ça l\'amuse ?\... Moi, je n\'ai pas confiance, quand je vois une dame qui prend des mines dégoûtées et qui n\'a jamais l\'air de se plaire où elle est\... Regarde donc comme elle tourne son derrière, avec l\'air de nous mépriser toutes. Est-ce que c\'est propre ? »
+
+Les promeneurs s\'en allaient du même pas ralenti, causant toujours, lorsqu\'une calèche vint s\'arrêter sur la route, devant l\'église. Un monsieur d\'environ quarante-huit ans en descendit, serré dans une redingote noire, très brun de peau, le visage autoritaire et correct.
+
+« Le mari ! murmura la Levaque, baissant la voix comme s\'il avait pu l\'entendre, saisie de la crainte hiérarchique que le directeur inspirait à ses dix mille ouvriers. C\'est pourtant vrai qu\'il a une tête de cocu, cet homme ! »
+
+Maintenant, le coron entier était dehors. La curiosité des femmes montait, les groupes se rapprochaient, se fondaient en une foule ; tandis que des bandes de marmaille mal mouchée traînaient sur les trottoirs, bouche béante. On vit un instant la tête pâle de l\'instituteur qui se haussait, lui aussi, derrière la haie de l\'école. Au milieu des jardins, l\'homme en train de bêcher restait le pied sur sa bêche, les yeux arrondis. Et le murmure des commérages s\'enflait peu à peu avec un bruit de crécelles, pareil à un coup de vent dans des feuilles sèches.
+
+C\'était surtout devant la porte de la Levaque que le rassemblement avait grossi. Deux femmes s\'étaient avancées, puis dix, puis vingt. Prudemment, la Pierronne se taisait, à présent qu\'il y avait trop d\'oreilles. La Maheude, une des plus raisonnables, se contentait aussi de regarder ; et, pour calmer Estelle réveillée et hurlant, elle avait tranquillement sorti au grand jour sa mamelle de bonne bête nourricière, qui pendait, roulante, comme allongée par la source continue de son lait. Quand M. Hennebeau eut fait asseoir les dames au fond de la voiture, qui fila du côté de Marchiennes, il y eut une explosion dernière de voix bavardes, toutes les femmes gesticulaient, se parlaient dans le visage, au milieu d\'un tumulte de fourmilière en révolution.
+
+Mais trois heures sonnèrent. Les ouvriers de la coupe à terre étaient partis, Bouteloup et les autres. Brusquement, au détour de l\'église, parurent les premiers charbonniers qui revenaient de la fosse, le visage noir, les vêtements trempés, croisant les bras et gonflant le dos. Alors, il se produisit une débandade parmi les femmes, toutes couraient, toutes rentraient chez elles, dans un effarement de ménagères que trop de café et trop de cancans avaient mises en faute. Et l\'on n\'entendait plus que ce cri inquiet, gros de querelles :
+
+« Ah ! mon Dieu ! et ma soupe ! et ma soupe qui n\'est pas prête ! »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Deuxième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941772 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940910 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940479 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940048 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939617 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939186 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938755 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938324 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937893 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937462 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937031 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936600 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936169 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935738 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935307 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934876 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934445 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934014 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368933583 .pcalibre .calibre2 .pcalibre1} {#iv .calibre59 .sigil_not_in_toc}
+
+
+Lorsque Maheu rentra, après avoir laissé Étienne chez Rasseneur, il trouva Catherine, Zacharie et Jeanlin attablés, qui achevaient leur soupe. Au retour de la fosse, on avait si faim, qu\'on mangeait dans ses vêtements humides, avant même de se débarbouiller ; et personne ne s\'attendait, la table restait mise du matin au soir, toujours il y en avait un là, avalant sa portion, au hasard des exigences du travail.
+
+Dès la porte, Maheu aperçut les provisions. Il ne dit rien, mais son visage inquiet s\'éclaira. Toute la matinée, le vide du buffet, la maison sans café et sans beurre, l\'avait tracassé, lui était revenue en élancements douloureux, pendant qu\'il tapait à la veine, suffoqué au fond de la taille. Comment la femme aurait-elle fait ? et qu\'allait-on devenir, si elle était rentrée les mains vides ? Puis, voilà qu\'il y avait de tout. Elle lui conterait ça plus tard. Il riait d\'aise.
+
+Déjà Catherine et Jeanlin s\'étaient levés, prenant leur café debout ; tandis que Zacharie, mal rempli par sa soupe, se coupait une large tartine de pain, qu\'il couvrait de beurre. Il voyait bien le fromage de cochon sur une assiette ; mais il n\'y touchait pas, la viande était pour le père, quand il n\'y en avait que pour un. Tous venaient de faire descendre leur soupe d\'une grande lampée d\'eau fraîche, la bonne boisson claire des fins de quinzaine.
+
+« Je n\'ai pas de bière, dit la Maheude, lorsque le père se fut attablé à son tour. J\'ai voulu garder un peu d\'argent\... Mais, si tu en désires, la petite peut courir en prendre une pinte. »
+
+Il la regardait, épanoui. Comment ? elle avait aussi de l\'argent !
+
+« Non, non, dit-il. J\'ai bu une chope, ça va bien. »
+
+Et Maheu se mit à engloutir, par lentes cuillerées, la pâtée de pain, de pommes de terre, de poireaux et d\'oseille, enfaîtéedans la jatte qui lui servait d\'assiette. La Maheude, sans lâcher Estelle, aidait Alzire à ce qu\'il ne manquât de rien, poussait près de lui le beurre et la charcuterie, remettait au feu son café pour qu\'il fût bien chaud.
+
+Cependant, à côté du feu, le lavage commençait, dans une moitié de tonneau, transformée en baquet. Catherine, qui passait la première, l\'avait empli d\'eau tiède ; et elle se déshabillait tranquillement, ôtait son béguin, sa veste, sa culotte, jusqu\'à sa chemise, habituée à cela depuis l\'âge de huit ans, ayant grandi sans y voir du mal. Elle se tourna seulement, le ventre au feu, puis se frotta vigoureusement avec du savon noir. Personne ne la regardait, Lénore et Henri eux-mêmes n\'avaient plus la curiosité de voir comment elle était faite. Quand elle fut propre, elle monta toute nue l\'escalier, laissant sa chemise mouillée et ses autres vêtements, en tas, sur le carreau. Mais une querelle éclatait entre les deux frères. Jeanlin s\'était hâté de sauter dans le baquet, sous le prétexte que Zacharie mangeait encore ; et celui-ci le bousculait, réclamait son tour, criant que s\'il était assez gentil pour permettre à Catherine de se tremper d\'abord, il ne voulait pas avoir la rinçure des galopins, d\'autant plus que, lorsque celui-ci avait passé dans l\'eau, on pouvait en remplir les encriers de l\'école. Ils finirent par se laver ensemble, tournés également vers le feu, et ils s\'entraidèrent même, ils se frottèrent le dos. Puis, comme leur sœur, ils disparurent dans l\'escalier, tout nus.
+
+« En font-ils un gâchis ! murmurait la Maheude, en prenant par terre les vêtements pour les mettre sécher. Alzire, éponge un peu, hein ! »
+
+Mais un tapage, de l\'autre côté du mur, lui coupa la parole. C\'étaient des jurons d\'homme, des pleurs de femme, tout un piétinement de bataille, avec des coups sourds qui sonnaient comme des heurts de courge vide.
+
+« La Levaque reçoit sa danse, constata paisiblement Maheu, en train de racler le fond de sa jatte avec la cuiller. C\'est drôle, Bouteloup prétendait que la soupe était prête.
+
+--- Ah ! oui, prête ! dit la Maheude, j\'ai vu les légumes sur la table, pas même épluchés. »
+
+Les cris redoublaient, il y eut une poussée terrible qui ébranla le mur, puis un grand silence tomba. Alors, le mineur, en avalant une dernière cuillerée, conclut d\'un air de calme justice :
+
+« Si la soupe n\'est pas prête, ça se comprend. »
+
+Et, après avoir bu un plein verre d\'eau, il attaqua le fromage de cochon. Il en coupait des morceaux carrés, qu\'il piquait de la pointe de son couteau et qu\'il mangeait sur son pain, sans fourchette. On ne parlait pas, quand le père mangeait. Lui-même avait la faim silencieuse, il ne reconnaissait point la charcuterie habituelle de Maigrat, ça devait venir d\'ailleurs ; pourtant, il n\'adressait aucune question à sa femme. Il demanda seulement si le vieux dormait toujours, là-haut. Non, le grand-père était déjà sorti, pour son tour de promenade accoutumé. Et le silence recommença.
+
+Mais l\'odeur de la viande avait fait lever les têtes de Lénore et d\'Henri, qui s\'amusaient par terre à dessiner des ruisseaux avec l\'eau répandue. Tous deux vinrent se planter près du père, le petit en avant. Leurs yeux suivaient chaque morceau, le regardaient pleins d\'espoir partir de l\'assiette, et le voyaient d\'un air consterné s\'engouffrer dans la bouche. À la longue, le père remarqua le désir gourmand qui les pâlissait et leur mouillait les lèvres.
+
+« Est-ce que les enfants en ont eu ? » demanda-t-il.
+
+Et, comme sa femme hésitait :
+
+« Tu sais, je n\'aime pas ces injustices. Ça m\'ôte l\'appétit, quand ils sont là, autour de moi, à mendier un morceau.
+
+--- Mais oui, ils en ont eu ! s\'écria-t-elle, en colère. Ah ! bien ! si tu les écoutes, tu peux leur donner ta part et celle des autres, ils s\'empliront jusqu\'à crever\... N\'est-ce pas, Alzire, que nous avons tous mangé du fromage ?
+
+--- Bien sûr, maman », répondit la petite bossue, qui, dans ces circonstances-là, mentait avec un aplomb de grande personne.
+
+Lénore et Henri restaient immobiles de saisissement, révoltés d\'une pareille menterie, eux qu\'on fouettait, s\'ils ne disaient pas la vérité. Leurs petits cœurs se gonflaient, et ils avaient une grosse envie de protester, de dire qu\'ils n\'étaient pas là, eux, lorsque les autres en avaient mangé.
+
+« Allez-vous-en donc ! répétait la mère, en les chassant à l\'autre bout de la salle. Vous devriez rougir d\'être toujours dans l\'assiette de votre père. Et, s\'il était le seul à en avoir, est-ce qu\'il ne travaille pas, lui ? tandis que vous autres, tas de vauriens, vous ne savez encore que dépenser. Ah ! oui, et plus que vous n\'êtes gros ! »
+
+Maheu les rappela. Il assit Lénore sur sa cuisse gauche, Henri sur sa cuisse droite ; puis, il acheva le fromage de cochon, en faisant la dînette avec eux. Chacun sa part, il leur coupait des petits morceaux. Les enfants, ravis, dévoraient.
+
+Quand il eut fini, il dit à sa femme :
+
+« Non, ne me sers pas mon café. Je vais me laver d\'abord\... Et donne-moi un coup de main pour jeter cette eau sale. »
+
+Ils empoignèrent les anses du baquet, et ils le vidaient dans le ruisseau, devant la porte, lorsquanlin descendit, avec des vêtements secs, une culotte et une blouse de laine trop grandes, lasses de déteindre sur le dos de son frère. En le voyant filer sournoisement par la porte ouverte, sa mère l\'arrêta.
+
+« Où vas-tu ?
+
+--- Là.
+
+--- Où, là ?\... Écoute, tu vas aller cueillir une salade de pissenlits pour ce soir. Hein ! tu m\'entends ! si tu ne rapportes pas une salade, tu auras affaire à moi.
+
+--- Bon ! bon ! »
+
+Jeanlin partit, les mains dans les poches, traînant ses sabots, roulant ses reins maigres d\'avorton de dix ans, comme un vieux mineur. À son tour, Zacharie descendait, plus soigné, le torse pris dans un tricot de laine noire à raies bleues. Son père lui cria de ne pas rentrer tard, et il sortit en hochant la tête, la pipe aux dents, sans répondre.
+
+De nouveau, le baquet était plein d\'eau tiède. Maheu, lentement, enlevait déjà sa veste. Sur un coup d\'œil, Alzire emmena Lénore et Henri jouer dehors. Le père n\'aimait pas se laver en famille, comme cela se pratiquait dans beaucoup d\'autres maisons du coron. Du reste, il ne blâmait personne, il disait simplement que c\'était bon pour les enfants, de barboter ensemble.
+
+« Que fais-tu donc là-haut ? cria la Maheude à travers l\'escalier.
+
+--- Je raccommode ma robe, que j\'ai déchirée hier, répondit Catherine.
+
+--- C\'est bien\... Ne descends pas, ton père se lave. »
+
+Alors, Maheu et la Maheude restèrent seuls. Celle-ci s\'était décidée à poser sur une chaise Estelle, qui, par miracle, se trouvant bien près du feu, ne hurlait pas et tournait vers ses parents des yeux vagues de petit être sans pensée. Lui, tout nu, accroupi devant le baquet, y avait d\'abord plongé sa tête, frottée de ce savon noir dont l\'usage séculaire décolore et jaunit les cheveux de la race. Ensuite, il entra dans l\'eau, s\'enduisit la poitrine, le ventre, les bras, les cuisses, se les racla énergiquement des deux poings. Debout, sa femme le regardait.
+
+« Dis donc, commença-t-elle, j\'ai vu ton œil, quand tu es arrivé\... Tu te tourmentais, hein ? Ça t\'a déridé, ces provisions\... Imagine-toi que les bourgeois de la Piolaine ne m\'ont pas fichu un sou. Oh ! ils sont aimables, ils ont habillé les petits, et j\'avais honte de les supplier, car ça me reste en travers, quand je demande. »
+
+Elle s\'interrompit un instant, pour caler Estelle sur la chaise, crainte d\'une culbute. Le père continuait à s\'user la peau, sans hâter d\'une question cette histoire qui l\'intéressait, attendant patiemment de comprendre.
+
+« Faut te dire que Maigrat m\'avait refusé, oh ! raide ! comme on flanque un chien dehors\... Tu vois si j\'étais à la noce ! Ça tient chaud, des vêtements de laine, mais ça ne vous met rien dans le ventre, pas vrai ? »
+
+Il leva la tête, toujours muet. Rien à la Piolaine, rien chez Maigrat : alors, quoi ? Mais, comme à l\'ordinaire, elle venait de retrousser ses manches, pour lui laver le dos et les parties qu\'il lui était mal commode d\'atteindre. D\'ailleurs, il aimait qu\'elle le savonnât, qu\'elle le frottât partout, à se casser les poignets. Elle prit du savon, elle lui laboura les épaules, tandis qu\'il se raidissait, afin de tenir le coup.
+
+« Donc, je suis retournée chez Maigrat, je lui en ai dit, ah ! je lui en ai dit\... Et qu\'il ne fallait pas avoir de cœur, et qu\'il lui arriverait du mal, s\'il y avait une justice\... Ça l\'ennuyait, il tournait les yeux, il aurait bien voulu filer\... »
+
+Du dos, elle était descendue aux fesses ; et, lancée, elle poussait ailleurs, dans les plis, ne laissant pas une place du corps sans y passer, le faisant reluire comme ses trois casseroles, les samedis de grand nettoyage. Seulement, elle suait à ce terrible va-et-vient des bras, toute secouée elle-même, si essoufflée, que ses paroles s\'étranglaient.
+
+« Enfin, il m\'a appelée vieux crampon\... Nous aurons du pain jusqu\'à samedi, et le plus beau, c\'est qu\'il m\'a prêté cent sous\... J\'ai encore pris chez lui le beurre, le café, la chicorée, j\'allais même prendre la charcuterie et les pommes de terre, quand j\'ai vu qu\'il grognait\... Sept sous de fromage de cochon, dix-huit sous de pommes de terre, il me reste trois francs soixante-quinze pour un ragoût et un pot-au-feu\... Hein ? je crois que je n\'ai pas perdu ma matinée. »
+
+Maintenant, elle l\'essuyait, le tamponnait avec un torchon, aux endroits où ça ne voulait pas sécher. Lui, heureux, sans songer au lendemain de la dette, éclatait d\'un gros rire et l\'empoignait à pleins bras.
+
+« Laisse donc, bête ! tu es trempé, tu me mouilles\... Seulement, je crains que Maigrat n\'ait des idées\... »
+
+Elle allait parler de Catherine, elle s\'arrêta. À quoi bon inquiéter le père ? Ça ferait des histoires à n\'en plus finir.
+
+« Quelles idées ? demanda-t-il.
+
+--- Des idées de nous voler, donc ! Faudra que Catherine épluche joliment la note. »
+
+Il l\'empoigna de nouveau, et cette fois ne la lâcha plus. Toujours le bain finissait ainsi, elle le ragaillardissait à le frotter si fort, puis à lui passer partout des linges, qui lui chatouillaient les poils des bras et de la poitrine. D\'ailleurs, c\'était également chez les camarades du coron l\'heure des bêtises, où l\'on plantait plus d\'enfants qu\'on n\'en voulait. La nuit, on avait sur le dos la famille. Il la poussait vers la table, goguenardanten brave homme qui jouit du seul bon moment de la journée, appelant ça prendre son dessert, et un dessert qui ne coûtait rien. Elle, avec sa taille et sa gorge roulantes, se débattait un peu, pour rire.
+
+« Es-tu bête, mon Dieu ! es-tu bête ! Et Estelle qui nous regarde ! attends que je lui tourne la tête.
+
+--- Ah ! ouiche ! à trois mois, est-ce que ça comprend ? »
+
+Lorsqu\'il se fut relevé, Maheu passa simplement une culotte sèche. Son plaisir, quand il était propre et qu\'il avait rigolé avec sa femme, était de rester un moment le torse nu. Sur sa peau blanche, d\'une blancheur de fille anémique, les éraflures, les entailles du charbon, laissaient des tatouages, des « greffes », comme disent les mineurs ; et il s\'en montrait fier, il étalait ses gros bras, sa poitrine large, d\'un luisant de marbre veiné de bleu. En été, tous les mineurs se mettaient ainsi sur les portes. Il y alla même un instant, malgré le temps humide, cria un mot salé à un camarade, le poitrail également nu, au-delà des jardins. D\'autres parurent. Et les enfants, qui traînaient sur les trottoirs, levaient la tête, riaient eux aussi à la joie de toute cette chair lasse de travailleurs, mise au grand air.
+
+En buvant son café, sans passer encore une chemise, Maheu conta à sa femme la colère de l\'ingénieur, pour le boisage. Il était calmé, détendu, et il écouta avec un hochement d\'approbation les sages conseils de la Maheude, qui montrait un grand bon sens dans ces affaires-là. Toujours elle lui répétait qu\'on ne gagnait rien à se buter contre la Compagnie. Elle lui parla ensuite de la visite de Mme Hennebeau. Sans le dire, tous deux en étaient fiers.
+
+« Est-ce qu\'on peut descendre ? demanda Catherine du haut de l\'escalier.
+
+--- Oui, oui, ton père se sèche. »
+
+La jeune fille avait sa robe des dimanches, une vieille robe de popeline gros bleu, pâlie et usée déjà dans les plis. Elle était coiffée d\'un bonnet de tulle noir, tout simple.
+
+« Tiens ! tu t\'es habillée\... Où vas-tu donc ?
+
+--- Je vais à Montsou acheter un ruban pour mon bonnet\... J\'ai retiré le vieux, il était trop sale.
+
+--- Tu as donc de l\'argent, toi ?
+
+--- Non, c\'est Mouquette qui a promis de me prêter dix sous. »
+
+La mère la laissa partir. Mais, à la porte, elle la rappela.
+
+« Écoute, ne va pas l\'acheter chez Maigrat, ton ruban\... il te volerait et il croirait que nous roulons sur l\'or. »
+
+Le père, qui s\'était accroupi devant le feu, pour sécher plus vite sa nuque et ses aisselles, se contenta d\'ajouter :
+
+« Tâche de ne pas traîner la nuit sur les routes. »
+
+Maheu, l\'après-midi, travailla dans son jardin. Déjà il y avait semé des pommes de terre, des haricots, des pois ; et il tenait en jauge, depuis la veille, du plant de choux et de laitue, qu\'il se mit à repiquer. Ce coin de jardin les fournissait de légumes, sauf de pommes de terre, dont ils n\'avaient jamais assez. Du reste, lui s\'entendait très bien à la culture, et obtenait même des artichauts, ce qui était traité de pose par les voisins. Comme il préparait sa planche, Levaque justement vint fumer une pipe dans son carré à lui, en regardant des romaines que Bouteloup avait plantées le matin ; car, sans le courage du logeur à bêcher, il n\'aurait guère poussé là que des orties. Et la conversation s\'engagea par-dessus le treillage. Levaque, délassé et excité d\'avoir tapé sur sa femme, tâcha vainement d\'entraîner Maheu chez Rasseneur. Voyons, est-ce qu\'une chope l\'effrayait ? On ferait une partie de quilles, on flânerait un instant avec les camarades, puis on rentrerait dîner. C\'était la vie, après la sortie de la fosse. Sans doute il n\'y avait pas de mal à cela, mais Maheu s\'entêtait, s\'il ne repiquait pas ses laitues, elles seraient fanées le lendemain. Au fond, il refusait par sagesse, ne voulant point demander un liard à sa femme sur le reste des cent sous.
+
+Cinq heures sonnaient, lorsque la Pierronne vint savoir si c\'était avec Jeanlin que sa Lydie avait filé. Levaque répondit que ça devait être quelque chose comme ça, car Bébert, lui aussi, avait disparu ; et ces galopins gourgandinaient toujours ensemble. Quand Maheu les eut tranquillisés, en parlant de la salade de pissenlits, lui et le camarade se mirent à attaquer la jeune femme, avec une crudité de bons diables. Elle s\'en fâchait, mais ne s\'en allait pas, chatouillée au fond par les gros mots, qui la faisaient crier, les mains au ventre. Il arriva à son secours une femme maigre, dont la colère bégayante ressemblait à un gloussement de poule. D\'autres, au loin, sur les portes, s\'effarouchaient de confiance. Maintenant, l\'école était fermée, toute la marmaille traînait, c\'était un grouillement de petits êtres piaulant, se roulant, se battant ; tandis que les pères, qui n\'étaient pas à l\'estaminet, restaient par groupes de trois ou quatre, accroupis sur leurs talons comme au fond de la mine, fumant des pipes avec des paroles rares, à l\'abri d\'un mur. La Pierronne partit furieuse, lorsque Levaque voulut tâter si elle avait la cuisse ferme ; et il se décida lui-même à se rendre seul chez Rasseneur, pendant que Maheu plantait toujours.
+
+Le jour baissa brusquement, la Maheude alluma la lampe, irritée de ce que ni la fille ni les garçons ne rentraient. Elle l\'aurait parié : jamais on ne parvenait à faire ensemble l\'unique repas où l\'on aurait pu être tous autour de la table. Puis, c\'était la salade de pissenlits qu\'elle attendait. Qu\'est-ce qu\'il pouvait cueillir à cette heure, dans ce noir de four, le bougre d\'enfant ! Une salade accompagnerait si bien la ratatouille qu\'elle laissait mijoter sur le feu, des pommes de terre, des poireaux, de l\'oseille, fricassés avec de l\'oignon frit ! La maison entière le sentait, l\'oignon frit, cette bonne odeur qui rancit vite et qui pénètre les briques des corons d\'un empoisonnement tel, qu\'on les flaire de loin dans la campagne, à ce violent fumet de cuisine pauvre.
+
+Maheu, quand il quitta le jardin, à la nuit tombée, s\'assoupit tout de suite sur une chaise, la tête contre la muraille. Dès qu\'il s\'asseyait, le soir, il dormait. Le coucou sonnait sept heures, Henri et Lénore venaient de casser une assiette en s\'obstinant à aider Alzire, qui mettait le couvert, lorsque le père Bonnemort rentra le premier, pressé de dîner et de retourner à la fosse. Alors, la Maheude réveilla Maheu.
+
+« Mangeons, tant pis !\... Ils sont assez grands pour retrouver la maison. L\'embêtant, c\'est la salade ! »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[GERMINAL]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Deuxième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941773 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941342 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940911 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940480 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940049 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939618 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939187 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938756 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938325 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937894 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937463 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937032 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936601 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936170 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935739 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935308 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934877 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934446 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934015 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368933584 .pcalibre .calibre2 .pcalibre1} {#v .calibre59 .sigil_not_in_toc}
+
+
+Chez Rasseneur, après avoir mangé une soupe, Étienne, remonté dans l\'étroite chambre qu\'il allait occuper sous le toit, en face du Voreux, était tombé sur son lit, tout vêtu, assommé de fatigue. En deux jours, il n\'avait pas dormi quatre heures. Quand il s\'éveilla, au crépuscule, il resta étourdi un instant, sans reconnaître le lieu où il se trouvait ; et il éprouvait un tel malaise, une telle pesanteur de tête, qu\'il se mit péniblement debout, avec l\'idée de prendre l\'air, avant de dîner et de se coucher pour la nuit.
+
+Dehors, le temps était de plus en plus doux, le ciel de suie se cuivrait, chargé d\'une de ces longues pluies du Nord, dont on sentait l\'approche dans la tiédeur humide de l\'air. La nuit venait par grandes fumées, noyant les lointains perdus de la plaine. Sur cette mer immense de terres rougeâtres, le ciel bas semblait se fondre en noire poussière, sans un souffle de vent à cette heure, qui animât les ténèbres. C\'était d\'une tristesse blafarde et morte d\'ensevelissement.
+
+Étienne marcha devant lui, au hasard, n\'ayant d\'autre but que de secouer sa fièvre. Lorsqu\'il passa devant le Voreux, assombri déjà au fond de son trou, et dont pas une lanterne ne luisait encore, il s\'arrêta un moment, pour voir la sortie des ouvriers à la journée. Sans doute six heures sonnaient, des moulineurs, des chargeurs à l\'accrochage, des palefreniers s\'en allaient par bandes, mêlés aux filles du criblage, vagues et rieuses dans l\'ombre.
+
+D\'abord, ce furent la Brûlé et son gendre Pierron. Elle le querellait, parce qu\'il ne l\'avait pas soutenue, dans une contestation avec un surveillant, pour son compte de pierres.
+
+« Oh ! sacrée chiffe, va ! s\'il est permis d\'être un homme et de s\'aplatir comme ça devant un de ces salops qui nous mangent ! »
+
+Pierron la suivait paisiblement, sans répondre. Il finit par dire :
+
+« Fallait peut-être sauter sur le chef. Merci ! pour avoir des ennuis !
+
+--- Tends le derrière, alors ! cria-t-elle. Ah ! nom de Dieu ! si ma fille m\'avait écoutée !\... Ça ne suffit donc pas qu\'ils m\'aient tué le père, tu voudrais peut-être que je dise merci. Non, vois-tu, j\'aurai leur peau ! »
+
+Les voix se perdirent, Étienne la regarda disparaître, avec son nez d\'aigle, ses cheveux blancs envolés, ses longs bras maigres qui gesticulaient furieusement. Mais, derrière lui, la conversation de deux jeunes gens lui fit prêter l\'oreille. Il avait reconnu Zacharie, qui attendait là, et que son ami Mouquet venait d\'aborder.
+
+« Arrives-tu ? demanda celui-ci. Nous mangeons une tartine puis nous filons au Volcan.
+
+--- Tout à l\'heure, j\'ai affaire.
+
+--- Quoi donc ? »
+
+Le moulineur se tourna et aperçut Philomène qui sortait du criblage. Il crut comprendre.
+
+« Ah ! bon, c\'est ça\... Alors, je pars devant.
+
+--- Oui, je te rattraperai. »
+
+Mouquet, en s\'en allant, se rencontra avec son père, le vieux Mouque, qui sortait aussi du Voreux ; et les deux hommes se dirent simplement bonsoir, le fils prit la grande route, tandis que le père filait le long du canal.
+
+Déjà, Zacharie poussait Philomène dans ce même chemin écarté, malgré sa résistance. Elle était pressée, une autre fois ; et ils se disputaient tous deux, en vieux ménage. Ça n\'avait rien de drôle, de ne se voir que dehors, surtout l\'hiver, lorsque la terre est mouillée et qu\'on n\'a pas les blés pour se coucher dedans.
+
+« Mais non, ce n\'est pas ça, murmura-t-il impatienté. J\'ai à te dire une chose. »
+
+Il la tenait à la taille, il l\'emmenait doucement. Puis, lorsqu\'ils furent dans l\'ombre du terri, il voulut savoir si elle avait de l\'argent.
+
+« Pour quoi faire ? » demanda-t-elle.
+
+Lui, alors, s\'embrouilla, parla d\'une dette de deux francs qui allait désespérer sa famille.
+
+« Tais-toi donc !\... J\'ai vu Mouquet, tu vas encore au Volcan, où il y a ces sales femmes de chanteuses. »
+
+Il se défendit, tapa sur sa poitrine, donna sa parole d\'honneur. Puis, comme elle haussait les épaules, il dit brusquement :
+
+« Viens avec nous, si ça t\'amuse\... Tu vois que tu ne me déranges pas. Pour ce que j\'en veux faire, des chanteuses !\... Viens-tu ?
+
+--- Et le petit ? répondit-elle. Est-ce qu\'on peut remuer, avec un enfant qui crie toujours ?\... Laisse-moi rentrer, je parie qu\'ils ne s\'entendent plus, à la maison. »
+
+Mais il la retint, il la supplia. Voyons, c\'était pour ne pas avoir l\'air bête devant Mouquet, auquel il avait toujours promis. Un homme ne pouvait pas, tous les soirs, se coucher comme les poules. Vaincue, elle avait retroussé une basque de son caraco, elle coupait de l\'ongle le fil et tirait des pièces de dix sous d\'un coin de la bordure. De crainte d\'être volée par sa mère, elle cachait là le gain des heures qu\'elle faisait en plus, à la fosse.
+
+\[*édité par Arv. ed., 8 bis rue d\'Assas Paris*\]
+
+« J\'en ai cinq, tu vois, dit-elle. Je veux bien t\'en donner trois\... Seulement, il faut me jurer que tu vas décider ta mère à nous marier. En voilà assez, de cette vie en l\'air ! Avec ça, maman me reproche toutes les bouchées que je mange\... Jure, jure d\'abord. »
+
+Elle parlait de sa voix molle de grande fille maladive, sans passion, simplement lasse de son existence. Lui, jura, cria que c\'était une chose promise, sacrée ; puis, lorsqu\'il tint les trois pièces, il la baisa, la chatouilla, la fit rire, et il aurait poussé les choses jusqu\'au bout, dans ce coin du terri qui était la chambre d\'hiver de leur vieux ménage, si elle n\'avait répété que non, que ça ne lui causerait aucun plaisir. Elle retourna au coron toute seule, pendant qu\'il coupait à travers champs, pour rejoindre son camarade.
+
+Étienne, machinalement, les avait suivis de loin, sans comprendre, croyant à un simple rendez-vous. Les filles étaient précoces, aux fosses ; et il se rappelait les ouvrières de Lille, qu\'il attendait derrière les fabriques, ces bandes de filles gâtées dès quatorze ans, dans les abandons de la misère. Mais une autre rencontre le surprit davantage. Il s\'arrêta.
+
+C\'était, en bas du terri, dans un creux où de grosses pierres avaient glissé, le petianlin qui rabrouait violemment Lydie et Bébert, assis l\'une à sa droite, l\'autre à sa gauche.
+
+« Hein ? vous dites ?\... Je vas ajouter une gifle pour chacun, moi, si vous réclamez\... Qui est-ce qui a eu l\'idée, voyons ! »
+
+En effet, Jeanlin avait eu une idée. Après s\'être, pendant une heure, le long du canal, roulé dans les prés en cueillant des pissenlits avec les deux autres, il venait de songer, devant le tas de salade, qu\'on ne mangerait jamais tout ça chez lui ; et, au lieu de rentrer au coron, il était allé à Montsou, gardant Bébert pour faire le guet, poussant Lydie à sonner chez les bourgeois, où elle offrait les pissenlits. Il disait, expérimenté déjà, que les filles vendaient ce qu\'elles voulaient. Dans l\'ardeur du négoce, le tas entier y avait passé ; mais la gamine avait fait onze sous. Et, maintenant, les mains nettes, tous trois partageaient le gain.
+
+« C\'est injuste ! déclara Bébert. Faut diviser en trois\... Si tu gardes sept sous, nous n\'en aurons plus que deux chacun.
+
+--- De quoi, injuste ? répliquanlin furieux. J\'en ai cueilli davantage, d\'abord ! »
+
+L\'autre d\'ordinaire se soumettait, avec une admiration craintive, une crédulité qui le rendait continuellement victime. Plus âgé et plus fort, il se laissait même gifler. Mais, cette fois, l\'idée de tout cet argent l\'excitait à la résistance.
+
+« N\'est-ce pas ? Lydie, il nous vole\... S\'il ne partage pas, nous le dirons à sa mère. »
+
+Du coup, Jeanlin lui mit le poing sous le nez.
+
+« Répète un peu. C\'est moi qui irai dire chez vous que vous avez vendu la salade à maman\... Et puis, bougre de bête, est-ce que je puis diviser onze sous en trois ? essaie pour voir, toi qui es malin\... Voilà chacun vos deux sous. Dépêchez-vous de les prendre ou je les recolle dans ma poche. »
+
+Dompté, Bébert accepta les deux sous. Lydie, tremblante, n\'avait rien dit, car elle éprouvait, devananlin, une peur et une tendresse de petite femme battue. Comme il lui tendait les deux sous, elle avança la main avec un rire soumis. Mais il se ravisa brusquement.
+
+« Hein ? qu\'est-ce que tu vas fiche de tout ça ?\... Ta mère te le chipera bien sûr, si tu ne sais pas le cacher\... Vaut mieux que je te le garde. Quand tu auras besoin d\'argent, tu m\'en demanderas. »
+
+Et les neuf sous disparurent. Pour lui fermer la bouche, il l\'avait empoignée en riant, il se roulait avec elle sur le terri. C\'était sa petite femme, ils essayaient ensemble, dans les coins noirs, l\'amour qu\'ils entendaient et qu\'ils voyaient chez eux, derrière les cloisons, par les fentes des portes. Ils savaient tout, mais ils ne pouvaient guère, trop jeunes, tâtonnant, jouant, pendant des heures, à des jeux de petits chiens vicieux. Lui appelait ça « faire papa et maman » ; et, quand il l\'emmenait, elle galopait, elle se laissait prendre avec le tremblement délicieux de l\'instinct, souvent fâchée, mais cédant toujours dans l\'attente de quelque chose qui ne venait point.
+
+Comme Bébert n\'était pas admis à ces parties-là, et qu\'il recevait une bourrade, dès qu\'il voulait tâter de Lydie, il restait gêné, travaillé de colère et de malaise, quand les deux autres s\'amusaient, ce dont ils ne se gênaient nullement en sa présence. Aussi n\'avait-il qu\'une idée, les effrayer, les déranger, en leur criant qu\'on les voyait.
+
+« C\'est foutu, v\'là un homme qui regarde ! »
+
+Cette fois, il ne mentait pas, c\'était Étienne qui se décidait à continuer son chemin. Les enfants bondirent, se sauvèrent, et il passa, tournant le terri, suivant le canal, amusé de la belle peur de ces polissons. Sans doute, c\'était trop tôt à leur âge ; mais quoi ? Ils en voyaient tant, ils en entendaient de si raides, qu\'il aurait fallu les attacher, pour les tenir. Au fond cependant, Étienne devenait triste.
+
+Cent pas plus loin, il tomba encore sur des couples. Il arrivait à Réquillart, et là, autour de la vieille fosse en ruine, toutes les filles de Montsou, rôdaient avec leurs amoureux. C\'était le rendez-vous commun, le coin écarté et désert, où les herscheuses venaient faire leur premier enfant, quand elles n\'osaient se risquer sur le carin. Les palissades rompues ouvraient à chacun l\'ancien carreau, changé en un terrain vague, obstrué par les débris de deux hangars qui s\'étaient écroulés, et par les carcasses des grands chevalets restés debout. Des berlines hors d\'usage traînaient, d\'anciens bois à moitié pourris entassaient des meules ; tandis qu\'une végétation drue reconquérait ce coin de terre, s\'étalait en herbe épaisse, jaillissait en jeunes arbres déjà forts. Aussi chaque fille s\'y trouvait-elle chez elle, il y avait des trous perdus pour toutes, les galants les culbutaient sur les poutres, derrière les bois, dans les berlines. On se logeait quand même, coudes à coudes, sans s\'occuper des voisins. Et il semblait que ce fût, autour de la machine éteinte, près ce puits las de dégorger de la houille, une revanche de la création, le libre amour qui, sous le coup de fouet de l\'instinct, plantait des enfants dans les ventres de ces filles, à peine femmes.
+
+Pourtant, un gardien habitait là, le vieux Mouque, auquel la Compagnie abandonnait, presque sous le beffroi détruit, deux pièces, que la chute attendue des dernières charpentes menaçait d\'un continuel écrasement. Il avait même dû étayer une partie du plafond ; et il y vivait très bien, en famille, lui et Mouquet dans une chambre, la Mouquette dans l\'autre. Comme les fenêtres n\'avaient plus une seule vitre, il s\'était décidé à les boucher en clouant des planches : on ne voyait pas clair, mais il faisait chaud. Du reste, ce gardien ne gardait rien, allait soigner ses chevaux au Voreux, ne s\'occupait jamais des ruines de Réquillart, dont on conservait seulement le puits pour servir de cheminée à un foyer, qui aérait la fosse voisine.
+
+Et c\'était ainsi que le père Mouque achevait de vieillir, au milieu des amours. Dès dix ans, la Mouquette avait fait la culbute dans tous les coins des décombres, non en galopine effarouchée et encore verte comme Lydie, mais en fille déjà grasse, bonne pour des garçons barbus. Le père n\'avait rien à dire, car elle se montrait respectueuse, jamais elle n\'introduisait un galant chez lui. Puis, il était habitué à ces accidents-là. Quand il se rendait au Voreux ou qu\'il en revenait, chaque fois qu\'il sortait de son trou, il ne pouvait risquer un pied, sans le mettre sur un couple, dans l\'herbe ; et c\'était pis, s\'il voulait ramasser du bois pour sa soupe, ou chercher des glaiteronspour son lapin, à l\'autre bout du clos : alors il voyait se lever, un à un, les nez gourmands de toutes les filles de Montsou, tandis qu\'il devait se méfier de ne pas buter contre les jambes, tendues au ras des sentiers. D\'ailleurs, peu à peu, ces rencontres-là n\'avaient plus dérangé personne, ni lui qui veillait simplement à ne pas tomber, ni les filles qu\'il laissait achever leur affaire, s\'éloignant à petits pas discrets, en brave homme paisible devant les choses de la nature. Seulement, de même qu\'elles le connaissaient à cette heure, lui avait également fini par les connaître, ainsi que l\'on connaît les pies polissonnes qui se débauchent dans les poiriers des jardins. Ah ! cette jeunesse, comme elle en prenait, comme elle se bourrait ! Parfois, il hochait le menton avec des regrets silencieux, en se détournant des gaillardes bruyantes, soufflant trop haut, au fond des ténèbres. Une seule chose lui causait de l\'humeur : deux amoureux avaient pris la mauvaise habitude de s\'embrasser contre le mur de sa chambre. Ce n\'était pas que ça l\'empêchât de dormir, mais ils poussaient si fort, qu\'à la longue ils dégradaient le mur.
+
+Chaque soir, le vieux Mouque recevait la visite de son ami, le père Bonnemort, qui, régulièrement, avant son dîner, faisait la même promenade. Les deux anciens ne se parlaient guère, échangeaient à peine dix paroles, pendant la demi-heure qu\'ils passaient ensemble. Mais cela les égayait, d\'être ainsi, de songer à de vieilles choses, qu\'ils remâchaient en commun, sans avoir besoin d\'en causer. À Réquillart, ils s\'asseyaient sur une poutre, côte à côte, lâchaient un mot, puis partaient pour leurs rêvasseries, le nez vers la terre. Sans doute, ils redevenaient jeunes. Autour d\'eux, des galants troussaient leurs amoureuses, des baisers et des rires chuchotaient, une odeur chaude de filles montait, dans la fraîcheur des herbes écrasées. C\'était déjà derrière la fosse, quarante-trois ans plus tôt, que le père Bonnemort avait pris sa femme, une herscheuse si chétive, qu\'il la posait sur une berline, pour l\'embrasser à l\'aise. Ah ! il y avait beau temps ! Et les deux vieux, branlant la tête, se quittaient enfin, souvent même sans se dire bonsoir.
+
+Ce soir-là, toutefois, comme Étienne arrivait, le père Bonnemort, qui se levait de la poutre, pour retourner au coron, disait à Mouque :
+
+« Bonne nuit, vieux !\... Dis donc, tu as connu la Roussie ? »
+
+Mouque resta un instant muet, dodelina des épaules, puis, en rentrant dans sa maison :
+
+« Bonne nuit, bonne nuit, vieux ! »
+
+Étienne, à son tour, vint s\'asseoir sur la poutre. Sa tristesse augmentait, sans qu\'il sût pourquoi. Le vieil homme, dont il regardait disparaître le dos, lui rappelait son arrivée du matin, le flot de paroles que l\'énervement du vent avait arrachées à ce silencieux. Que de misère ! et toutes ces filles, éreintées de fatigue, qui étaient encore assez bêtes, le soir, pour fabriquer des petits, de la chair à travail et à souffrance ! Jamais ça ne finirait, si elles s\'emplissaient toujours de meurt-de-faim. Est-ce qu\'elles n\'auraient pas dû plutôt se boucher le ventre, serrer les cuisses, ainsi qu\'à l\'approche du malheur ? Peut-être ne remuait-il confusément ces idées moroses que dans l\'ennui d\'être seul, lorsque les autres, à cette heure, s\'en allaient deux à deux prendre du plaisir. Le temps mou l\'étouffait un peu, des gouttes de pluie, rares encore, tombaient sur ses mains fiévreuses. Oui, toutes y passaient, c\'était plus fort que la raison.
+
+
+En quittant le coron des Deux-Cent-Quarante, Catherine était allée à Montsou par le pavé. Depuis l\'âge de dix ans, depuis qu\'elle gagnait sa vie à la fosse, elle courait ainsi le pays toute seule, dans la complète liberté des familles de houilleurs ; et, si aucun homme ne l\'avait eue, à quinze ans, c\'était grâce à l\'éveil tardif de sa puberté, dont elle attendait encore la crise. Quand elle fut devant les Chantiers de la Compagnie, elle traversa la rue et entra chez une blanchisseuse, où elle était certaine de trouver la Mouquette ; car celle-ci vivait là, avec des femmes qui se payaient des tournées de café, du matin au soir. Mais elle eut un chagrin, la Mouquette, précisément, avait régalé à son tour, si bien qu\'elle ne put lui prêter les dix sous promis. Pour la consoler, on lui offrit vainement un verre de café tout chaud. Elle ne voulut même pas que sa camarade empruntât à une autre femme. Une pensée d\'économie lui était venue, une sorte de crainte superstitieuse, la certitude que, si elle l\'achetait maintenant, ce ruban lui porterait malheur.
+
+Elle se hâta de reprendre le chemin du coron, et elle était aux dernières maisons de Montsou, lorsqu\'un homme, sur la porte de l\'estaminet Piquette, l\'appela.
+
+« Eh ! Catherine, où cours-tu si vite ? »
+
+C\'était le grand Chaval. Elle fut contrariée, non qu\'il lui déplût, mais parce qu\'elle n\'était pas en train de rire.
+
+« Entre donc boire quelque chose\... Un petit verre de doux, veux-tu ? »
+
+Gentiment, elle refusa : la nuit allait tomber, on l\'attendait chez elle. Lui, s\'était avancé, la suppliait à voix basse, au milieu de la rue. Son idée, depuis longtemps, était de la décider à monter dans la chambre qu\'il occupait au premier étage de l\'estaminet Piquette, une belle chambre qui avait un grand lit, pour un ménage. Il lui faisait donc peur, qu\'elle refusait toujours ? Elle, bonne fille, riait, disait qu\'elle monterait la semaine où les enfants ne poussent pas. Puis, d\'une chose à une autre, elle en arriva, sans savoir comment, à parler du ruban bleu qu\'elle n\'avait pu acheter.
+
+« Mais je vais t\'en payer un, moi ! » cria-t-il.
+
+Elle rougit, sentant qu\'elle ferait bien de refuser encore, travaillée au fond du gros désir d\'avoir son ruban. L\'idée d\'un emprunt lui revint, elle finit par accepter, à la condition qu\'elle lui rendrait ce qu\'il dépenserait pour elle. Cela les fit plaisanter de nouveau : il fut convenu que, si elle ne couchait pas avec lui, elle lui rendrait l\'argent. Mais il y eut une autre difficulté, quand il parla d\'aller chez Maigrat.
+
+« Non, pas chez Maigrat, maman me l\'a défendu.
+
+--- Laisse donc, est-ce qu\'on a besoin de dire où l\'on va !\... C\'est lui qui tient les plus beaux rubans de Montsou ! »
+
+Lorsque Maigrat vit entrer dans sa boutique le grand Chaval et Catherine, comme deux galants qui achètent leur cadeau de noces, il devint très rouge, il montra les pièces de ruban bleu avec la rage d\'un homme dont on se moque. Puis, les jeunes gens servis, il se planta sur la porte pour les regarder s\'éloigner dans le crépuscule ; et, comme sa femme venait d\'une voix timide lui demander un renseignement, il tomba sur elle, l\'injuria, cria qu\'il ferait se repentir un jour le sale monde qui manquait de reconnaissance, lorsque tous auraient dû être par terre, à lui lécher les pieds.
+
+Sur la route, le grand Chaval accompagnait Catherine. Il marchait près d\'elle, les bras ballants ; seulement, il la poussait de la hanche, il la conduisait, sans en avoir l\'air. Elle s\'aperçut tout d\'un coup qu\'il lui avait fait quitter le pavé et qu\'ils s\'engageaient ensemble dans l\'étroit chemin de Réquillart. Mais elle n\'eut pas le temps de se fâcher : déjà, il la tenait à la taille, il l\'étourdissait d\'une caresse de mots continue. Était-elle bête, d\'avoir peur ! est-ce qu\'il voulait du mal à un petit mignon comme elle, aussi douce que de la soie, si tendre qu\'il l\'aurait mangée ? Et il lui soufflait derrière l\'oreille, dans le cou, il lui faisait passer un frisson sur toute la peau du corps. Elle, étouffée, ne trouvait rien à répondre. C\'était vrai, qu\'il semblait l\'aimer. Le samedi soir, après avoir éteint la chandelle, elle s\'était justement demandé ce qu\'il arriverait, s\'il la prenait ainsi ; puis, en s\'endormant, elle avait rêvé qu\'elle ne disait plus non, toute lâche de plaisir. Pourquoi donc, à la même idée, aujourd\'hui, éprouvait-elle une répugnance et comme un regret ? Pendant qu\'il lui chatouillait la nuque avec ses moustaches, si doucement, qu\'elle en fermait les yeux, l\'ombre d\'un autre homme, du garçon entrevu le matin, passait dans le noir de ses paupières closes.
+
+Brusquement, Catherine regarda autour d\'elle. Chaval l\'avait conduite dans les décombres de Réquillart, et elle eut un recul frissonnant devant les ténèbres du hangar effondré.
+
+« Oh ! non, oh ! non, murmura-t-elle, je t\'en prie, laisse-moi ! »
+
+La peur du mâle l\'affolait, cette peur qui raidit les muscles dans un instinct de défense, même lorsque les filles veulent bien, et qu\'elles sentent l\'approche conquérante de l\'homme. Sa virginité, qui n\'avait rien à apprendre pourtant, s\'épouvantait, comme à la menace d\'un coup, d\'une blessure dont elle redoutait la douleur encore inconnue.
+
+« Non, non, je ne veux pas ! Je te dis que je suis trop jeune\... Vrai ! plus tard, quand je serai faite au moins. »
+
+Il grogna sourdement :
+
+« Bête ! rien à craindre alors\... Qu\'est-ce que ça te fiche ? »
+
+Mais il ne parla pas davantage. Il l\'avait empoignée solidement, il la jetait sous le hangar. Et elle tomba à la renverse sur les vieux cordages, elle cessa de se défendre, subissant le mâle avant l\'âge, avec cette soumission héréditaire, qui, dès l\'enfance, culbutait en plein vent les filles de sa race. Ses bégaiements effrayés s\'éteignirent, on n\'entendit plus que le souffle ardent de l\'homme.
+
+Étienne, cependant, avait écouté, sans bouger. Encore une qui faisait le saut ! Et, maintenant qu\'il avait vu la comédie, il se leva, envahi d\'un malaise, d\'une sorte d\'excitation jalouse où montait de la colère. Il ne se gênait plus, il enjambait les poutres, car ces deux-là étaient bien trop occupés à cette heure, pour se déranger. Aussi fut-il surpris, lorsqu\'il eut fait une centaine de pas sur la route, de voir, en se tournant, qu\'ils étaient debout déjà et qu\'ils paraissaient, comme lui, revenir vers le coron. L\'homme avait repris la fille à la taille, la serrant d\'un air de reconnaissance, lui parlant toujours dans le cou ; et c\'était elle qui semblait pressée, qui voulait rentrer vite, l\'air fâché surtout du retard.
+
+Alors, Étienne fut tourmenté d\'une envie, celle de voir leurs figures. C\'était imbécile, il hâta le pas pour ne point y céder. Mais ses pieds se ralentissaient d\'eux-mêmes, il finit, au premier réverbère, par se cacher dans l\'ombre. Une stupeur le cloua, lorsqu\'il reconnut au passage Catherine et le grand Chaval. Il hésitait d\'abord : était-ce bien elle, cette jeune fille en robe gros bleu, avec ce bonnet ? était-ce le galopin qu\'il avait vu en culotte, la tête serrée dans le béguin de toile ? Voilà pourquoi elle avait pu le frôler, sans qu\'il la devinât. Mais il ne doutait plus, il venait de retrouver ses yeux, la limpidité verdâtre de cette eau de source, si claire et si profonde. Quelle catin ! et il éprouvait un furieux besoin de se venger d\'elle, sans motif, en la méprisant. D\'ailleurs, ça ne lui allait pas d\'être en fille : elle était affreuse.
+
+Lentement, Catherine et Chaval étaient passés. Ils ne se savaient point guettés de la sorte, lui la retenait pour la baiser derrière l\'oreille, tandis qu\'elle recommençait à s\'attarder sous les caresses, qui la faisaient rire. Resté en arrière, Étienne était bien obligé de les suivre, irrité de ce qu\'ils barraient le chemin, assistant quand même à ces choses dont la vue l\'exaspérait. C\'était donc vrai, ce qu\'elle lui avait juré le matin : elle n\'était encore la maîtresse de personne ; et lui qui ne l\'avait pas crue, qui s\'était privé d\'elle pour ne pas faire comme l\'autre ! et lui qui venait de se la laisser prendre sous le nez, qui avait poussé la bêtise jusqu\'à s\'égayer salement à les voir ! Cela le rendait fou, il serrait les poings, il aurait mangé cet homme dans un de ces besoins de tuer où il voyait rouge.
+
+Pendant une demi-heure, la promenade dura. Lorsque Chaval et Catherine approchèrent du Voreux, ils ralentirent encore leur marche, ils s\'arrêtèrent deux fois au bord du canal, trois fois le long du terri, très gais maintenant, s\'amusant à de petits jeux tendres. Étienne devait s\'arrêter lui aussi, faire les mêmes stations, de peur d\'être aperçu. Il s\'efforçait de n\'avoir plus qu\'un regret brutal : ça lui apprendrait à ménager les filles, par bonne éducation. Puis, après le Voreux, libre enfin d\'aller dîner chez Rasseneur, il continua de les suivre, il les accompagna au coron, demeura là, debout dans l\'ombre, pendant un quart d\'heure, à attendre que Chaval laissât Catherine rentrer chez elle. Et, lorsqu\'il fut bien sûr qu\'ils n\'étaient plus ensemble, il marcha de nouveau, il poussa très loin sur la route de Marchiennes, piétinant, ne songeant à rien, trop étouffé et trop triste pour s\'enfermer dans une chambre.
+
+
+Chez Rasseneur, dans la salle éclairée, un machineur et deux ouvriers du jour buvaient des chopes. Mais, avant de rentrer, Étienne s\'arrêta, jeta un dernier regard aux ténèbres. Il retrouvait la même immensité noire que le matin, lorsqu\'il était arrivé par le grand vent. Devant lui, le Voreux s\'accroupissait de son air de bête mauvaise, vague, piqué de quelques lueurs de lanterne. Les trois brasiers du terri brûlaient en l\'air, pareils à des lunes sanglantes, détachant par instants les silhouettes démesurées du père Bonnemort et de son cheval jaune. Et, au-delà, dans la plaine rase, l\'ombre avait tout submergé, Montsou, Marchiennes, la forêt de Vandame, la vaste mer de betteraves et de blé, où ne luisaient plus, comme des phares lointains, que les feux bleus des hauts fourneaux et les feux rouges des fours à coke. Peu à peu, la nuit se noyait, la pluie tombait maintenant, lente, continue, abîmant ce néant au fond de son ruissellement monotone ; tandis qu\'une seule voix s\'entendait encore, la respiration grosse et lente de la machine d\'épuisement, qui jour et nuit soufflait.

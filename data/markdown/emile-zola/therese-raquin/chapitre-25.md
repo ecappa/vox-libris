@@ -1,0 +1,91 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778549 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778211 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777873 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777535 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777197 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776521 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776183 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775845 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775507 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775169 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774831 .pcalibre .calibre3 .pcalibre1}[XXV]{#_Toc368774493 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_39 .calibre25}
+
+[Au bout de quatre mois, Laurent songea à retirer les bénéfices qu\'il s\'était promis de son mariage. Il aurait abandonné sa femme et se serait enfui devant le spectre de Camille, trois jours après la noce, si son intérêt ne l\'eût pas cloué dans la boutique du passage. Il acceptait ses nuits de terreur, il restait au milieu des angoisses qui l\'étouffaient, pour ne pas perdre les profits de son crime. En quittant Thérèse, il retombait dans la misère, il était forcé de conserver son emploi ; en demeurant auprès d\'elle, il pouvait au contraire contenter ses appétits de paresse, vivre grassement, sans rien faire, sur les rentes que Mme Raquin avait mises au nom de sa femme. Il est à croire qu\'il se serait sauvé avec les quarante mille francs, s\'il avait pu les réaliser ; mais la vieille mercière, conseillée par Michaud, avait eu la prudence de sauvegarder dans le contrat les intérêts de sa nièce. Laurent se trouvait ainsi attaché à Thérèse par un lien puissant. En dédommagement de ses nuits atroces, il voulut au moins se faire entretenir dans une oisiveté heureuse, bien nourri, chaudement vêtu, ayant en poche l\'argent nécessaire pour contenter ses caprices. À ce prix seul, il consentait à coucher avec le cadavre du noyé.]{.calibre11}
+
+
+[Il fut donc décidé que l\'artiste louerait un atelier et qu\'il toucherait cent francs par mois pour les divers frais qu\'il aurait à faire. Le budget de la famille fut ainsi réglé : les bénéfices réalisés dans le commerce de mercerie payeraient le loyer de la boutique et de l\'appartement, et suffiraient presque aux dépenses journalières du ménage ; Laurent prendrait le loyer de son atelier et ses cent francs par mois sur les deux mille et quelques cents francs de rente ; le reste de ces rentes serait appliqué aux besoins communs. De cette façon, on n\'entamerait pas le capital. Thérèse se tranquillisa un peu. Elle fit jurer à son mari de ne jamais dépasser la somme qui lui était allouée. D\'ailleurs, elle se disait que Laurent ne pouvait s\'emparer des quarante mille francs sans avoir sa signature, et elle se promettait bien de ne signer aucun papier.]{.calibre11}
+
+[Dès le lendemain, Laurent loua, vers le bas de la rue Mazarine, un petit atelier qu\'il convoitait depuis un mois. Il ne voulait pas quitter son emploi sans avoir un refuge pour passer tranquillement ses journées, loin de Thérèse. Au bout de la quinzaine, il fit ses adieux à ses collègues. Grivet fut stupéfait de son départ. Un jeune homme, disait-il, qui avait devant lui un si bel avenir, un jeune homme qui en était arrivé, en quatre années, au chiffre d\'appointements que lui, Grivet, avait mis vingt ans à atteindre ! Laurent le stupéfia encore davantage en lui disant qu\'il allait se remettre tout entier à la peinture.]{.calibre11}
+
+[Enfin l\'artiste s\'installa dans son atelier. Cet atelier était une sorte de grenier carré, long et large d\'environ cinq ou six mètres ; le plafond s\'inclinait brusquement, en pente raide, percé d\'une large fenêtre qui laissait tomber une lumière blanche et crue sur le plancher et sur les murs noirâtres. Les bruits de la rue ne montaient pas jusqu\'à ces hauteurs. La pièce, silencieuse, blafarde, s\'ouvrant en haut sur le ciel, ressemblait à un trou, à un caveau creusé dans une argile grise. Laurent meubla ce caveau tant bien que mal ; il y apporta deux chaises dépaillées, une table qu\'il appuya contre un mur pour qu\'elle ne se laissât pas glisser à terre, un vieux buffet de cuisine, sa boîte à couleurs et son ancien chevalet ; tout le luxe du lieu consista en un vaste divan qu\'il acheta trente francs chez un brocanteur.]{.calibre11}
+
+[Il resta quinze jours sans songer seulement à toucher à ses pinceaux. Il arrivait entre huit et neuf heures, fumait, se couchait sur le divan, attendait midi, heureux d\'être au matin et d\'avoir encore devant lui de longues heures de jour. À midi, il allait déjeuner, puis il se hâtait de revenir, pour être seul, pour ne plus voir le visage pâle de Thérèse. Alors il digérait, il dormait, il se vautrait jusqu\'au soir. Son atelier était un lieu de paix où il ne tremblait pas. Un jour sa femme lui demanda à visiter son cher refuge. Il refusa, et comme, malgré son refus, elle vint frapper à sa porte, il n\'ouvrit pas ; il lui dit le soir qu\'il avait passé la journée au musée du Louvre. Il craignait que Thérèse n\'introduisît avec elle le spectre de Camille.]{.calibre11}
+
+[L\'oisiveté finit par lui peser. Il acheta une toile et des couleurs, il se mit à l\'œuvre. N\'ayant pas assez d\'argent pour payer des modèles, il résolut de peindre au gré de sa fantaisie, sans se soucier de la nature. Il entreprit une tête d\'homme.]{.calibre11}
+
+[D\'ailleurs, il ne se cloîtra plus autant ; il travailla pendant deux ou trois heures chaque matin et employa ses après-midi à flâner ici et là, dans Paris et dans la banlieue. Ce fut en rentrant d\'une de ces longues promenades qu\'il rencontra, devant l\'Institut, son ancien ami de collège, qui avait obtenu un joli succès de camaraderie au dernier Salon.]{.calibre11}
+
+[--- Comment, c\'est toi ! s\'écria le peintre. Ah ! mon pauvre Laurent, je ne t\'aurais jamais reconnu. Tu as maigri.]{.calibre11}
+
+[--- Je me suis marié, répondit Laurent d\'un ton embarrassé.]{.calibre11}
+
+[--- Marié, toi ! Ça ne m\'étonne plus de te voir tout drôle... Et que fais-tu maintenant ?]{.calibre11}
+
+[--- J\'ai loué un petit atelier ; je peins un peu, le matin.]{.calibre11}
+
+[Laurent conta son mariage en quelques mots ; puis il exposa ses projets d\'avenir d\'une voix fiévreuse. Son ami le regardait d\'un air étonné qui le troublait et l\'inquiétait. La vérité était que le peintre ne retrouvait pas dans le mari de Thérèse le garçon épais et commun qu\'il avait connu autrefois. Il lui semblait que Laurent prenait des allures distinguées ; le visage s\'était aminci et avait des pâleurs de bon goût, le corps entier se tenait plus digne et plus souple.]{.calibre11}
+
+[--- Mais tu deviens joli garçon, ne put s\'empêcher de s\'écrier l\'artiste, tu as une tenue d\'ambassadeur. C\'est du dernier chic. À quelle école es-tu donc ?]{.calibre11}
+
+[L\'examen qu\'il subissait pesait beaucoup à Laurent. Il n\'osait s\'éloigner d\'une façon brusque.]{.calibre11}
+
+[--- Veux-tu monter un instant à mon atelier ? demanda-t-il enfin à son ami, qui ne le quittait pas.]{.calibre11}
+
+[--- Volontiers, répondit celui-ci.]{.calibre11}
+
+[Le peintre, ne se rendant pas compte des changements qu\'il observait, était désireux de visiter l\'atelier de son ancien camarade. Certes, il ne montait pas cinq étages pour voir les nouvelles œuvres de Laurent, qui allaient sûrement lui donner des nausées ; il avait la seule envie de contenter sa curiosité.]{.calibre11}
+
+[Quand il fut monté et qu\'il eut jeté un coup d\'œil sur les toiles accrochées aux murs, son étonnement redoubla. Il y avait là cinq études, deux têtes de femme et trois têtes d\'homme, peintes avec une véritable énergie ; l\'allure en était grasse et solide, chaque morceau s\'enlevait par taches magnifiques sur les fonds d\'un gris clair. L\'artiste s\'approcha vivement, et, stupéfait, ne cherchant même pas à cacher sa surprise :]{.calibre11}
+
+[--- C\'est toi qui as fait cela ? demanda-t-il à Laurent.]{.calibre11}
+
+[--- Oui, répondit celui-ci. Ce sont des esquisses qui me serviront pour un grand tableau que je prépare.]{.calibre11}
+
+[--- Voyons, pas de blague, tu es vraiment l\'auteur de ces machines-là ?]{.calibre11}
+
+[--- Eh ! oui. Pourquoi n\'en serais-je pas l\'auteur ?]{.calibre11}
+
+[Le peintre n\'osa répondre : « Parce que ces toiles sont d\'un artiste, et que tu n\'as jamais été qu\'un ignoble maçon. » Il resta longtemps en silence devant les études. Certes, ces études étaient gauches, mais elles avaient une étrangeté, un caractère si puissant qu\'elles annonçaient un sens artistique des plus développés. On eût dit de la peinture vécue. Jamais l\'ami de Laurent n\'avait vu des ébauches si pleines de hautes promesses. Quand il eut bien examiné les toiles, il se tourna vers l\'auteur :]{.calibre11}
+
+[--- Là, franchement, lui dit-il, je ne t\'aurais pas cru capable de peindre ainsi. Où diable as-tu appris à avoir du talent ? Ça ne s\'apprend pas d\'ordinaire.]{.calibre11}
+
+[Et il considérait Laurent, dont la voix lui semblait plus douce, dont chaque geste avait une sorte d\'élégance. Il ne pouvait deviner l\'effroyable secousse qui avait changé cet homme, en développant en lui des nerfs de femme, des sensations aiguës et délicates. Sans doute un phénomène étrange s\'était accompli dans l\'organisme du meurtrier de Camille. Il est difficile à l\'analyse de pénétrer à de telles profondeurs. Laurent était peut-être devenu artiste comme il était devenu peureux, à la suite du grand détraquement qui avait bouleversé sa chair et son esprit. Auparavant, il étouffait sous le poids lourd de son sang, il restait aveuglé par l\'épaisse vapeur de santé qui l\'entourait ; maintenant, maigri, frissonnant, il avait la verve inquiète, les sensations vives et poignantes des tempéraments nerveux. Dans la vie de terreur qu\'il menait, sa pensée délirait et montait jusqu\'à l\'extase du génie ; la maladie en quelque sorte morale, la névrose dont tout son être était secoué, développait en lui un sens artistique d\'une lucidité étrange ; depuis qu\'il avait tué, sa chair s\'était comme allégée, son cerveau éperdu lui semblait immense, et, dans ce brusque agrandissement de sa pensée, il voyait passer des créations exquises, des rêveries de poète. Et c\'est ainsi que ses gestes avaient pris une distinction subite, c\'est ainsi que ses œuvres étaient belles, rendues tout d\'un coup personnelles et vivantes.]{.calibre11}
+
+[Son ami n\'essaya pas davantage de s\'expliquer la naissance de cet artiste. Il s\'en alla avec son étonnement. Avant de partir, il regarda encore les toiles et dit à Laurent :]{.calibre11}
+
+[--- Je n\'ai qu\'un reproche à te faire, c\'est que toutes tes études ont un air de famille. Ces cinq têtes se ressemblent. Les femmes elles-mêmes prennent je ne sais quelle allure violente qui leur donne l\'air d\'hommes déguisés... Tu comprends, si tu veux faire un tableau avec ces ébauches-là, il faudra changer quelques-unes des physionomies ; tes personnages ne peuvent pas être tous frères, cela ferait rire.]{.calibre11}
+
+[Il sortit de l\'atelier, et ajouta sur le carré, en riant :]{.calibre11}
+
+[--- Vrai, mon vieux, ça me fait plaisir de t\'avoir vu. Maintenant je vais croire aux miracles... Bon Dieu ! es-tu comme il faut !]{.calibre11}
+
+[Il descendit. Laurent rentra dans l\'atelier, vivement troublé. Lorsque son ami lui avait fait l\'observation que toutes ses têtes d\'étude avaient un air de famille, il s\'était brusquement tourné pour cacher sa pâleur. C\'est que déjà cette ressemblance fatale l\'avait frappé. Il revint lentement se placer devant les toiles ; à mesure qu\'il les contemplait, qu\'il passait de l\'une à l\'autre, une sueur glacée lui mouillait le dos.]{.calibre11}
+
+[--- Il a raison, murmura-t-il, ils se ressemblent tous... Ils ressemblent à Camille.]{.calibre11}
+
+[Il se recula, il s\'assit sur le divan, sans pouvoir détacher les yeux des têtes d\'étude. La première était une face de vieillard, avec une longue barbe blanche ; sous cette barbe blanche, l\'artiste devinait le menton maigre de Camille. La seconde représentait une jeune fille blonde, et cette jeune fille le regardait avec les yeux bleus de sa victime. Les trois autres figures avaient chacune quelque trait du noyé. On eût dit Camille grimé en vieillard, en jeune fille, prenant le déguisement qu\'il plaisait au peintre de lui donner, mais gardant toujours le caractère général de sa physionomie. Il existait une autre ressemblance terrible entre ces têtes : elles paraissaient souffrantes et terrifiées, elles étaient comme écrasées sous le même sentiment d\'horreur. Chacune avait un léger pli à gauche de la bouche, qui tirait les lèvres et les faisait grimacer. Ce pli, que Laurent se rappela avoir vu sur la face convulsionnée du noyé, les frappait d\'un signe d\'ignoble parenté.]{.calibre11}
+
+[Laurent comprit qu\'il avait trop regardé Camille à la Morgue. L\'image du cadavre s\'était gravée profondément en lui. Maintenant, sa main, sans qu\'il en eût conscience, traçait toujours les lignes de ce visage atroce dont le souvenir le suivait partout.]{.calibre11}
+
+[Peu à peu, le peintre, qui se renversait sur le divan, crut voir les figures s\'animer. Et il eut cinq Camille devant lui, cinq Camille que ses propres doigts avaient puissamment créés, et qui, par une étrangeté effrayante, prenaient tous les âges et tous les sexes. Il se leva, il lacéra les toiles et les jeta dehors. Il se disait qu\'il mourrait d\'effroi dans son atelier, s\'il le peuplait lui-même des portraits de sa victime.]{.calibre11}
+
+[Une crainte venait de le prendre : il redoutait de ne pouvoir plus dessiner une tête, sans dessiner celle du noyé. Il voulut savoir tout de suite s\'il était maître de sa main. Il posa une toile blanche sur son chevalet ; puis, avec un bout de fusain, il indiqua une figure en quelques traits. La figure ressemblait à Camille. Laurent effaça brusquement cette esquisse et en tenta une autre. Pendant une heure, il se débattit contre la fatalité qui poussait ses doigts. À chaque nouvel essai, il revenait à la tête du noyé. Il avait beau tendre sa volonté, éviter les lignes qu\'il connaissait si bien ; malgré lui, il traçait ces lignes, il obéissait à ses muscles, à ses nerfs révoltés. Il avait d\'abord jeté les croquis rapidement ; il s\'appliqua ensuite à conduire le fusain avec lenteur. Le résultat fut le même : Camille, grimaçant et douloureux, apparaissait sans cesse sur la toile. L\'artiste esquissa successivement les têtes les plus diverses, des têtes d\'anges, de vierges avec des auréoles, de guerriers romains coiffés de leur casque, d\'enfants blonds et roses, de vieux bandits couturés de cicatrices ; toujours, toujours le noyé renaissait, il était tour à tour ange, vierge, guerrier, enfant et bandit. Alors Laurent se jeta dans la caricature, il exagéra les traits, il fit des profils monstrueux, il inventa des têtes grotesques, et il ne réussit qu\'à rendre plus horribles les portraits frappants de sa victime. Il finit par dessiner des animaux, des chiens et des chats ; les chiens et les chats ressemblaient vaguement à Camille.]{.calibre11}
+
+[Une rage sourde s\'était emparée de Laurent. Il creva la toile d\'un coup de poing, en songeant avec désespoir à son grand tableau. Maintenant il n\'y fallait plus penser ; il sentait bien que, désormais, il ne dessinerait plus que la tête de Camille, et, comme le lui avait dit son ami, des figures qui se ressembleraient toutes feraient rire. Il s\'imaginait ce qu\'aurait été son œuvre ; il voyait sur les épaules de ses personnages, des hommes et des femmes, la face blafarde et épouvantée du noyé ; l\'étrange spectacle qu\'il évoquait ainsi lui parut d\'un ridicule atroce et l\'exaspéra.]{.calibre11}
+
+[Ainsi il n\'oserait plus travailler, il redouterait toujours de ressusciter sa victime au moindre coup de pinceau. S\'il voulait vivre paisible dans son atelier, il devrait ne jamais y peindre. Cette pensée que ses doigts avaient la faculté fatale et inconsciente de reproduire sans cesse le portrait de Camille lui fit regarder sa main avec terreur. Il lui semblait que cette main ne lui appartenait plus.]{.calibre11}

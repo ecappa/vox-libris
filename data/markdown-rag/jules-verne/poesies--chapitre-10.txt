@@ -1,0 +1,60 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 10"
+slug_section: "chapitre-10"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 10 -- J'aime ces doux oiseaux...
+J'aime ces doux oiseaux, qui promènent dans l'air
+Leur vie et leur amour, et plus prompts que l'éclair,
+Qui s'envolent ensemble !
+J'aime la fleur des champs, que l'on cueille au matin,
+Et que le soir, au bal, on pose sur son sein
+Qui d'enivrement tremble !
+
+J'aime les tourbillons des danses, des plaisirs,
+Les fêtes, la toilette, et les tendres désirs
+Qui s'éveillent dans l'âme !
+J'aime l'ange gardien qui dirige mes pas,
+Qui me presse la main, et me donne tout bas
+Pour les maux un dictame !
+
+J'aime du triste saule, au soir muet du jour,
+La tête chaude encor, pleine d'ombre et d'amour,
+Qui se penche et qui pense !
+J'aime la main de Dieu, laissant sur notre coeur
+Tomber en souriant cette amoureuse fleur
+Qu'on nomme l'espérance !
+
+J'aime le doux orchestre, en larmes, gémissant
+Qui verse sur mon âme un langoureux accent,
+Une triste harmonie !
+J'aime seule écouter le langage des cieux
+Qui parlent à la terre, et l'emplissent de feux
+De soleil et de vie.
+
+J'aime aux bords de la mer, regardant le ciel bleu,
+Qui renferme en son sein la puissance de Dieu,
+M'asseoir toute pensive !
+J'aime à suivre parfois en des rêves dorés
+Mon âme qui va perdre en des flots azurés
+Sa pensée inactive !
+
+J'aime l'effort secret du coeur, qui doucement
+S'agite, la pensée au doux tressaillement,
+Que l'on sent en soi-même !
+Mieux que l'arbre, l'oiseau, la fleur qui plaît aux yeux,
+Le saule tout en pleurs, l'espérance des Cieux...
+J'aime celui qui m'aime.

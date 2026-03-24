@@ -1,0 +1,165 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5978 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[JACQUES DAMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5979 .calibre35}
+
+## []{#_Toc368832981 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832707 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832433 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832159 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831885 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831611 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831337 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831063 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830789 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830515 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830241 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829967 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829693 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829419 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829145 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828871 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828597 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828323 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368828049 .pcalibre .calibre3 .pcalibre1} {#ii .calibre43}
+
+
+À Nouméa, Damour se conduisait bien. Il avait trouvé du travail, on lui faisait espérer sa grâce.
+
+C'était un homme très doux, qui aimait à jouer avec les enfants. Il ne s'occupait plus de politique, fréquentait peu ses compagnons, vivait solitaire ; on ne pouvait lui reprocher que de boire de loin en loin, et encore avait-il l'ivresse bonne enfant, pleurant à chaudes larmes, allant se coucher de lui-même. Sa grâce paraissait donc certaine, lorsqu'un jour il disparut. On fut stupéfait d'apprendre qu'il s'était évadé avec quatre de ses compagnons.
+
+Depuis deux ans, il avait reçu plusieurs lettres de Félicie, d'abord régulières, bientôt plus rares et sans suite. Lui-même écrivait assez souvent. Trois mois se passèrent sans nouvelles. Alors, un désespoir l'avait pris, devant cette grâce qu'il lui faudrait peut-être attendre deux années encore ; et il avait tout risqué, dans une de ces heures de fièvre dont on se repent le lendemain. Une semaine plus tard, on trouva sur la côte, à quelques lieues, une barque brisée et les cadavres de trois des fugitifs, nus et décomposés déjà, parmi lesquels des témoins affirmèrent qu'ils reconnaissaient Damour.
+
+C'étaient la même taille et la même barbe. Après une enquête sommaire, les formalités eurent lieu, un acte de décès fut dressé, puis envoyé en France sur la demande de la veuve, que l'Administration avait avertie. Toute la presse s'occupa de l'aventure, un récit très dramatique de l'évasion et de son dénouement tragique passa dans les journaux du monde entier.
+
+Cependant, Damour vivait. On l'avait confondu avec un de ses compagnons, et cela d'une façon d'autant plus surprenante que les deux hommes ne se ressemblaient pas. Tous deux, simplement, portaient leur barbe longue. Damour et le quatrième évadé, qui avait survécu comme par miracle, se séparèrent, dès qu'ils furent arrivés sur une terre anglaise ; ils ne se revirent jamais, sans doute l'autre mourut de la fièvre jaune, qui faillit emporter Damour lui-même. Sa première pensée avait été de prévenir Félicie par une lettre. Mais un journal étant tombé entre ses mains, il y trouva le récit de son évasion et la nouvelle de sa mort. Dès ce moment, une lettre lui parut imprudente ; on pouvait l'intercepter, la lire, arriver ainsi à la vérité. Ne valait-il pas mieux rester mort pour tout le monde ?
+
+Personne ne s'inquiéterait plus de lui, il rentrerait librement en France, il attendrait l'amnistie pour se faire reconnaître. Et ce fut alors qu'une terrible attaque de fièvre jaune le retint pendant des semaines, dans un hôpital perdu.
+
+Lorsque Damour entra en convalescence, il éprouva une paresse invincible. Pendant plusieurs mois, il resta très faible encore et sans volonté. La fièvre l'avait comme vidé de tous ses désirs anciens.
+
+Il ne souhaitait rien, il se demandait à quoi bon.
+
+Les images de Félicie et de Louise s'étaient effacées. Il les voyait bien toujours, mais très loin, dans un brouillard, où il hésitait parfois à les reconnaître. Sans doute, dès qu'il serait fort, il partirait pour les rejoindre. Puis, quand il fut enfin debout, un autre plan l'occupa tout entier. Avant d'aller retrouver sa femme et sa fille, il rêva de gagner une fortune. Que ferait-il à Paris ? Il crèverait de faim, il serait obligé de se remettre à son étau, et peut-être même ne trouverait-il plus de travail, car il se sentait terriblement vieilli. Au contraire, s'il passait en Amérique, en quelques mois il amasserait une centaine de mille francs, chiffre modeste auquel il s'arrêtait, au milieu des histoires prodigieuses de millions dont bourdonnaient ses oreilles.
+
+Dans une mine d'or qu'on lui indiquait, tous les hommes, jusqu'aux plus humbles terrassiers, roulaient carrosse au bout de six mois. Et il arrangeait déjà sa vie : il rentrait en France avec ses cent mille francs, achetait une petite maison du côté de Vincennes, vivait là de trois ou quatre mille francs de rente, entre Félicie et Louise, oublié, heureux, débarrassé de la politique. Un mois plus tard, Damour était en Amérique.
+
+Alors, commença une existence trouble qui le roula au hasard, dans un flot d'aventures à la fois étranges et vulgaires. Il connut toutes les misères, il toucha à toutes les fortunes. Trois fois, il crut avoir enfin ses cent mille francs ; mais tout coulait entre ses doigts, on le volait, il se dépouillait lui-même dans un dernier effort. En somme, il souffrit, travailla beaucoup, et resta sans une chemise.
+
+Après des courses aux quatre points du monde, les événements le jetèrent en Angleterre. De là, il tomba à Bruxelles, à la frontière même de la France. Seulement, il ne songeait plus à y entrer. Dès son arrivée en Amérique, il avait fini par écrire à Félicie.
+
+Trois lettres étant restées sans réponse, il en était réduit aux suppositions : ou l'on interceptait ses lettres, ou sa femme était morte, ou elle avait elle-même quitté Paris. À un an de distance, il fit encore une tentative inutile. Pour ne pas se vendre, si l'on ouvrait ses lettres, il écrivait sous un nom supposé, entretenant Félicie d'une affaire imaginaire, comptant bien qu'elle reconnaîtrait son écriture et qu'elle comprendrait. Ce grand silence avait comme endormi ses souvenirs. Il était mort, il n'avait personne au monde, plus rien n'importait. Pendant près d'un an, il travailla dans une mine de charbon, sous terre, ne voyant plus le soleil, absolument supprimé, mangeant et dormant, sans rien désirer au-delà.
+
+Un soir, dans un cabaret, il entendit un homme dire que l'amnistie venait d'être votée et que tous les communards rentraient. Cela l'éveilla. Il reçut une secousse, il éprouva un besoin de partir avec les autres, d'aller revoir là-bas la rue où il avait logé. Ce fut d'abord une simple poussée instinctive.
+
+Puis, dans le wagon qui le ramenait, sa tête travailla, il songea qu'il pouvait maintenant reprendre sa place au soleil, s'il parvenait à découvrir Félicie et Louise. Des espoirs lui remontaient au coeur ; il était libre, il les chercherait ouvertement ; et il finissait par croire qu'il allait les retrouver bien tranquilles, dans leur logement de la rue des Envierges, la nappe mise, comme si elles l'avaient attendu. Tout s'expliquerait, quelque malentendu très simple. Il irait à sa mairie, se nommerait, et le ménage recommencerait sa vie d'autrefois.
+
+À Paris, la gare du Nord était pleine d'une foule tumultueuse. Des acclamations s'élevèrent, dès que les voyageurs parurent, un enthousiasme fou, des bras qui agitaient des chapeaux, des bouches ouvertes qui hurlaient un nom. Damour eut peur un instant : il ne comprenait pas, il s'imaginait que tout ce monde était venu là pour le huer au passage. Puis, il reconnut le nom qu'on acclamait, celui d'un membre de la Commune qui se trouvait justement dans le même train, un contumace illustre auquel le peuple faisait une ovation. Damour le vit passer, très engraissé, l'oeil humide, souriant, ému de cet accueil. Quand le héros fut monté dans un fiacre, la foule parla de dételer le cheval. On s'écrasait, le flot humain s'engouffra dans la rue La Fayette, une mer de têtes, au-dessus desquelles on aperçut longtemps le fiacre rouler lentement, comme un char de triomphe. Et Damour, bousculé, écrasé, eut beaucoup de peine à gagner les boulevards extérieurs. Personne ne faisait attention à lui. Toutes ses souffrances, Versailles, la traversée, Nouméa, lui revinrent, dans un hoquet d'amertume.
+
+Mais, sur les boulevards extérieurs, un attendrissement le prit. Il oublia tout, il lui semblait qu'il venait de reporter du travail dans Paris, et qu'il rentrait tranquillement rue des Envierges. Dix années de son existence se comblaient, si pleines et si confuses, qu'elles lui semblaient, derrière lui, n'être plus que le simple prolongement du trottoir.
+
+Pourtant, il éprouvait quelque étonnement, dans ces habitudes d'autrefois où il rentrait avec tant d'aisance. Les boulevards extérieurs devaient être plus larges ; il s'arrêta pour lire des enseignes, surpris de les voir là. Ce n'était pas la joie franche de poser le pied sur ce coin de terre regretté ; c'était un mélange de tendresse, où chantaient des refrains de romance, et d'inquiétude sourde, l'inquiétude de l'inconnu, devant ces vieilles choses connues qu'il retrouvait. Son trouble grandit encore, lorsqu'il approcha de la rue des Envierges. Il se sentait mollir, il avait des envies de ne pas aller plus loin, comme si une catastrophe l'attendait. Pourquoi revenir ? Qu'allait-il faire là ?
+
+Enfin, rue des Envierges, il passa trois fois devant la maison, sans pouvoir entrer. En face, la boutique du charbonnier avait disparu ; c'était maintenant une boutique de fruitière ; et la femme qui était sur la porte lui sembla si bien portante, si carrément chez elle, qu'il n'osa pas l'interroger, comme il en avait eu l'idée d'abord. Il préféra risquer tout, en marchant droit à la loge de la concierge. Que de fois il avait ainsi tourné à gauche, au bout de l'allée, et frappé au petit carreau !
+
+--- Mme Damour, s'il vous plaît ?
+
+--- Connais pas\... Nous n'avons pas ça ici.
+
+Il était resté immobile. À la place de la concierge d'autrefois, une femme énorme, il avait devant lui une petite femme sèche, hargneuse, qui le regardait d'un air soupçonneux. Il reprit :
+
+--- Mme Damour demeurait au fond, il y a dix ans.
+
+--- Dix ans ! Cria la concierge. Ah ! Bien ! Il a passé de l'eau sous les ponts !\... Nous ne sommes ici que du mois de janvier.
+
+--- Mme Damour a peut-être laissé son adresse.
+
+--- Non. Connais pas.
+
+Et, comme il s'entêtait, elle se fâcha, elle menaça d'appeler son mari.
+
+--- Ah ! çà, finirez-vous de moucharder dans la maison !\... Il y a un tas de gens qui s'introduisent\...
+
+Il rougit et se retira en balbutiant, honteux de son pantalon effiloqué et de sa vieille blouse sale.
+
+Sur le trottoir, il s'en alla, la tête basse ; puis, il revint, car il ne pouvait se décider à partir ainsi.
+
+C'était comme un adieu éternel qui le déchirait.
+
+On aurait pitié de lui, on lui donnerait quelque renseignement. Et il levait les yeux, regardait les fenêtres, examinait les boutiques, cherchant à se reconnaître. Dans ces maisons pauvres où les congés tombent dru comme grêle, dix années avaient suffi pour changer presque tous les locataires. D'ailleurs, une prudence lui restait, mêlée de honte, une sorte de sauvagerie effrayée, qui le faisait trembler à l'idée d'être reconnu. Comme il redescendait la rue, il aperçut enfin des figures de connaissance, la marchande de tabac, un épicier, une blanchisseuse, la boulangère où ils se fournissaient autrefois. Alors, pendant un quart d'heure, il hésita, se promena devant les boutiques, en se demandant dans laquelle il oserait entrer, pris d'une sueur, tellement il souffrait du combat qui se livrait en lui. Ce fut le coeur défaillant qu'il se décida pour la boulangère, une femme endormie, toujours blanche comme si elle sortait d'un sac de farine. Elle le regarda et ne bougea pas de son comptoir. Certainement, elle ne le reconnaissait pas, avec sa peau hâlée, son crâne nu, cuit par les grands soleils, sa longue barbe dure qui lui mangeait la moitié du visage. Cela lui rendit quelque hardiesse, et en payant un pain d'un sou, il se hasarda à demander :
+
+--- Est-ce que vous n'avez pas, parmi vos clientes, une femme avec une petite fille ?\... Mme Damour ?
+
+La boulangère resta songeuse ; puis, de sa voix molle :
+
+--- Ah ! Oui, autrefois, c'est possible\... Mais il y a longtemps. Je ne sais plus\... On voit tant de monde !
+
+Il dut se contenter de cette réponse. Les jours suivants, il revint, plus hardi, questionnant les gens ; mais partout il trouva la même indifférence, le même oubli, avec des renseignements contradictoires qui l'égaraient davantage. En somme, il paraissait certain que Félicie avait quitté le quartier environ deux ans après son départ pour Nouméa, au moment même où il s'évadait. Et personne ne connaissait son adresse, les uns parlaient du Gros-Caillou, les autres de Bercy. On ne se souvenait même plus de la petite Louise. C'était fini, il s'assit un soir sur un banc du boulevard extérieur et se mit à pleurer, en se disant qu'il ne chercherait pas davantage. Qu'allait-il devenir ? Paris lui semblait vide. Les quelques sous qui lui avaient permis de rentrer en France s'épuisaient. Un instant, il résolut de retourner en Belgique dans sa mine de charbon, où il faisait si noir et où il avait vécu dans un souvenir, heureux comme une bête, dans l'écrasement du sommeil de la terre. Pourtant, il resta, et il resta misérable, affamé, sans pouvoir se procurer du travail. Partout on le repoussait, on le trouvait trop vieux. Il n'avait que cinquante-cinq ans ; mais on lui en donnait soixante-dix, dans le décharnement de ses dix années de souffrance. Il rôdait comme un loup, il allait voir les chantiers des monuments brûlés par la Commune, cherchait les besognes que l'on confie aux enfants et aux infirmes. Un tailleur de pierre qui travaillait à l'Hôtel de Ville promettait de lui faire avoir la garde de leurs outils ; mais cette promesse tardait à se réaliser, et il crevait de faim.
+
+Un jour que, sur le pont Notre-Dame, il regardait couler l'eau avec le vertige des pauvres que le suicide attire, il s'arracha violemment du parapet et, dans ce mouvement, faillit renverser un passant, un grand gaillard en blouse blanche, qui se mit à l'injurier.
+
+--- Sacrée brute !
+
+Mais Damour était demeuré béant, les yeux fixés sur l'homme.
+
+--- Berru ! Cria-t-il enfin.
+
+C'était Berru en effet, Berru qui n'avait changé qu'à son avantage, la mine fleurie, l'air plus jeune.
+
+Depuis son retour, Damour avait souvent songé à lui ; mais où trouver le camarade qui déménageait de garni tous les quinze jours ? Cependant le peintre écarquillait les yeux, et quand l'autre se fut nommé, la voix tremblante, il refusa de le croire.
+
+--- Pas possible ! Quelle blague !
+
+Pourtant il finit par le reconnaître, avec des exclamations qui commençaient à ameuter le trottoir.
+
+--- Mais tu étais mort !\... Tu sais, si je m'attendais à celle-là ! On ne se fiche pas du monde de la sorte\... Voyons, voyons, est-ce bien vrai que tu es vivant ?
+
+Damour parlait bas, le suppliant de se taire.
+
+Berru, qui trouvait ça très farce au fond, finit par le prendre sous le bras et l'emmena chez un marchand de vin de la rue Saint-Martin. Et il l'accablait de questions, il voulait savoir.
+
+--- Tout à l'heure, dit Damour, quand ils furent attablés dans un cabinet. Avant tout, et ma femme ?
+
+Berru le regarda d'un air stupéfait.
+
+--- Comment, ta femme ?
+
+--- Oui, où est-elle ? Sais-tu son adresse ?
+
+La stupéfaction du peintre augmentait. Il dit lentement :
+
+--- Sans doute, je sais son adresse\... Mais toi tu ne sais donc pas l'histoire ?
+
+--- Quoi ? Quelle histoire ?
+
+Alors, Berru éclata.
+
+--- Ah ! Celle-là est plus forte, par exemple ! Comment ! Tu ne sais rien ?\... Mais ta femme est remariée, mon vieux !
+
+Damour, qui tenait son verre, le reposa sur la table, pris d'un tel tremblement, que le vin coulait entre ses doigts. Il les essuyait à sa blouse, et répétait d'une voix sourde :
+
+--- Qu'est-ce que tu dis ? Remariée, remariée\... Tu es sûr ?
+
+--- Parbleu ! Tu étais mort, elle s'est remariée ; ça n'a rien d'étonnant\... Seulement, c'est drôle, parce que voilà que tu ressuscites.
+
+Et, pendant que le pauvre homme restait pâle, les lèvres balbutiantes, le peintre lui donna des détails. Félicie, maintenant, était très heureuse.
+
+Elle avait épousé un boucher de la rue des Moines, aux Batignolles, un veuf dont elle conduisait joliment les affaires. Sagnard, le boucher s'appelait Sagnard, était un gros homme de soixante ans, mais parfaitement conservé. À l'angle de la rue Nollet, la boutique, une des mieux achalandées du quartier, avait des grilles peintes en rouge, avec des têtes de boeuf dorées, aux deux coins de l'enseigne.
+
+--- Alors, qu'est-ce que tu vas faire ? répétait Berru, après chaque détail.
+
+Le malheureux, que la description de la boutique étourdissait, répondait d'un geste vague de la main. Il fallait voir.
+
+--- Et Louise ? demanda-t-il tout d'un coup.
+
+--- La petite ? Ah ! Je ne sais pas\... Ils l'auront mise quelque part pour s'en débarrasser, car je ne l'ai pas vue avec eux\... C'est vrai, ça, ils pourraient toujours te rendre l'enfant, puisqu'ils n'en font rien. Seulement, qu'est-ce que tu deviendrais, avec une gaillarde de vingt ans, toi qui n'as pas l'air d'être à la noce ? Hein ? Sans te blesser, on peut bien dire qu'on te donnerait deux sous dans la rue.
+
+Damour avait baissé la tête, étranglé, ne trouvant plus un mot. Berru commanda un second litre et voulut le consoler.
+
+--- Voyons, que diable ! Puisque tu es en vie, rigole un peu. Tout n'est pas perdu, ça s'arrangera\... Que vas-tu faire ?
+
+Et les deux hommes s'enfoncèrent dans une discussion interminable, où les mêmes arguments revenaient sans cesse. Ce que le peintre ne disait pas, c'était que, tout de suite après le départ du déporté, il avait tâché de se mettre avec Félicie, dont les fortes épaules le séduisaient. Aussi gardait-il contre elle une sourde rancune de ce qu'elle lui avait préféré le boucher Sagnard, à cause de sa fortune sans doute. Quand il eut fait venir un troisième litre, il cria :
+
+--- Moi, à ta place, j'irais chez eux, et je m'installerais, et je flanquerais le Sagnard à la porte, s'il m'embêtait\... Tu es le maître, après tout. La loi est pour toi.
+
+Peu à peu, Damour se grisait, le vin faisait monter des flammes à ses joues blêmes. Il répétait qu'il faudrait voir. Mais Berru le poussait toujours, lui tapait sur les épaules, en lui demandant s'il était un homme. Bien sûr qu'il était un homme ; et il l'avait tant aimée, cette femme ! Il l'aimait encore à mettre le feu à Paris, pour la ravoir. Eh bien ! Alors, qu'est-ce qu'il attendait ? Puisqu'elle était à lui, il n'avait qu'à la reprendre.
+
+Les deux hommes, très gris, se parlaient violemment dans le nez.
+
+--- J'y vais ! dit tout d'un coup Damour en se mettant péniblement debout.
+
+--- À la bonne heure ! C'était trop lâche ! Cria Berru. J'y vais avec toi.
+
+Et ils partirent pour les Batignolles.

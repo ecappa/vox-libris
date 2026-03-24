@@ -1,0 +1,146 @@
+### [[Chapitre 2 -- La première loi]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942853 .pcalibre2 .pcalibre1} {#chapitre-2-la-première-loi .calibre171 .sigil_not_in_toc}
+
+La famille Ceroni, composée du père, Lazare, de la mère, Tullia, et d\'une fille, Graziella, était originaire du Piémont. Dix-sept ans auparavant, Lazare, alors âgé de vingt-cinq ans, et Tullia, de six ans plus jeune, avaient associé leurs deux misères. Hors soi-même, ni l\'un ni l\'autre ne possédait rien, mais ils s\'aimaient, et un amour honnête est une force qui aide à supporter, parfois à vaincre, les difficultés de la vie.
+
+Il n\'en fut malheureusement pas ainsi pour le ménage Ceroni. L\'homme, entraîné par de mauvaises fréquentations, ne tarda pas à faire connaissance avec l\'alcool, que des cabarets innombrables ont, au nom de la liberté, le droit d\'offrir, comme un appât, à la multitude des déshérités. En peu de temps, il tomba dans l\'ivrognerie, et son ivresse de plus en plus fréquente se fit, par degrés, sombre, puis colère, puis cruelle, puis féroce. Alors, presque chaque jour, il y eut des scènes atroces, dont les voisins perçurent les éclats. Injuriée, battue, meurtrie, martyrisée, Tullia gravit le calvaire, sur les flancs duquel tant de malheureuses se sont douloureusement traînées avant elle et se traîneront à son exemple.
+
+Certes, elle aurait pu, elle aurait dû peut-être quitter cet homme transformé en bête fauve. Elle n\'en fit rien pourtant. Elle était de ces femmes qui ne se reprennent jamais, quelque martyre qui leur soit imposé, quand une fois elles se sont données. Au point de vue de l\'intérêt matériel et tangible, de tels caractères méritent assurément l\'épithète d\'absurdes, mais ils ont aussi quelque chose d\'admirable, et par eux il nous est donné de concevoir quelle peut être la beauté du sacrifice et quelle hauteur morale est capable d\'atteindre la créature humaine.
+
+C\'est dans cet enfer que grandit Graziella. Dès ses plus jeunes ans, elle vit son père ivre et sa mère battue, elle assista aux scènes quotidiennes, elle entendit le torrent d\'injures qui sortaient de la bouche de Lazare, comme les immondices d\'un égout. À un âge où les petites filles ne pensent encore qu\'au jeu, elle entra de cette manière en contact avec les réalités de la vie et fut astreinte à une âpre lutte de tous les instants.
+
+À seize ans, Graziella était une jeune fille sérieuse, armée, par sa volonté forte, contre les douleurs de l\'existence, dont elle avait eu la précoce expérience. D\'ailleurs, quelle que fût sa cruauté, jamais l\'avenir ne dépasserait en horreur le passé ! Physiquement, elle était grande, maigre et brune. Sans beauté proprement dite, son plus grand charme résidait dans ses yeux et dans l\'expression intelligente de son visage.
+
+La conduite de Lazare Ceroni avait porté ses fruits naturels, et la gêne était bientôt entrée dans la maison. Il ne saurait en être autrement. Boire, cela coûte, et, pendant qu\'on boit, on ne gagne rien. Double dépense. Graduellement, la gêne devint pauvreté, et la pauvreté misère noire. On suivit alors le chemin que suivent tous les dégénérés. On changea de pays, dans l\'espoir d\'un sort meilleur sous d\'autres cieux. C\'est ainsi que, d\'exode en exode, la famille Ceroni, ayant traversé la France, l\'Océan, l\'Amérique, avait échoué à San Francisco. Le voyage avait duré quinze ans ! À San Francisco, le dénuement en arriva à ce point que Lazare ouvrit les yeux et prit conscience de son oeuvre de destruction. Prêtant enfin l\'oreille aux supplications de sa femme, pour la première fois depuis tant d\'années, il promit de s\'amender.
+
+Il avait tenu parole. En six mois, grâce à son assiduité à l\'ouvrage et à la suppression du cabaret, l\'aisance était revenue et l\'on avait pu réunir cette grosse somme de cinq cents francs exigée par la Société de colonisation de la baie de Lagoa. Tullia recommençait à croire à la possibilité du bonheur, lorsque le naufrage du Jonathan et l\'oisiveté qui en était la conséquence inévitable étaient venus remettre tout en question.
+
+Pour tuer ces longues heures d\'inaction, Lazare s\'était lié avec d\'autres émigrants, et, bien entendu, ses sympathies l\'avaient porté vers ses pareils. Ceux-ci, également accablés par l\'ennui et inconsolables d\'être privés de leurs excès habituels n\'auraient eu garde de manquer l\'occasion que leur fournissait le départ de celui que tout le monde, sans même s\'en rendre compte, considérait comme le chef. À peine le Kaw-djer éloigné avec ses compagnons, cette bande peu recommandable s\'était approprié un des barils de rhum sauvés du Jonathan et une orgie en règle en était résultée. Par entraînement, et aussi par lâcheté devant son vice réveillé, Lazare avait imité les autres et ne s\'était décidé à regagner la tente où l\'attendaient en pleurant sa femme et sa fille, que les jambes molles et la raison perdue.
+
+Dès son entrée, l\'inévitable scène commença. Prétextant d\'abord que le repas n\'était pas prêt, il s\'irrita, quand ce repas lui eut été servi, de la tristesse des deux femmes et, s\'excitant lui-même, en arriva rapidement aux plus effroyables injures.
+
+Graziella, immobile et glacée, regardait avec épouvante cet être avili qui était son père. En elle, la honte la disputait au chagrin. Mais, de Tullia, qui ne connaissait que la douleur, le coeur ulcéré creva. Eh quoi ! Tous ses espoirs une fois de plus à vau-l\'eau, la retombée dans l\'enfer !... Des larmes jaillirent de ses yeux, noyèrent son visage flétri. Il n\'en fallut pas plus pour déchaîner la tempête.
+
+« J\'vas t\'aider à fondre, moi ! » cria Lazare devenu furieux.
+
+Il saisit sa femme à la gorge, tandis que Graziella s\'efforçait d\'arracher la malheureuse à l\'étreinte meurtrière.
+
+Drame silencieux. À part la voix sourde de Lazare, qui continuait à proférer des injures, il se déroulait sans bruit. Ni Graziella, ni sa mère n\'appelaient à leur aide. Qu\'un père martyrise sa fille, qu\'un mari assassine sa femme, ce sont des tares honteuses qu\'il faut cacher à tous, fût-ce au prix de la vie. Dans un moment où son bourreau relâchait son étreinte, la douleur cependant arracha à Tullia le cri rauque que le Kaw-djer avait entendu. Cette plainte involontaire mit au comble la fureur du dément. Ses doigts se refermèrent plus violemment.
+
+Tout à coup, une main de fer broya son épaule. Contraint de lâcher prise, il alla rouler de l\'autre côté de la tente.
+
+« De quoi ?... De quoi ?... balbutia-t-il.
+
+--- Silence ! » ordonna une voix impérieuse.
+
+L\'ivrogne ne se le fit pas répéter. Son excitation subitement éteinte, il chut, comme dans un trou, dans un sommeil de plomb.
+
+Le Kaw-djer s\'était penché sur la femme évanouie et s\'empressait à la secourir. Halg, Rhodes et Hartlepool, entrés derrière lui, contemplaient la scène avec émotion.
+
+Tullia enfin ouvrit les yeux. En apercevant des visages étrangers, elle comprit sur-le-champ ce qui s\'était passé. Sa première pensée fut d\'excuser celui dont la brutalité venait de se manifester de si abominable manière.
+
+« Merci, monsieur, dit-elle en se soulevant. Ce n\'était rien... C\'est fini, maintenant... Suis-je sotte de m\'être ainsi effrayée !
+
+--- On le serait à moins ! s\'écria le Kaw-djer.
+
+--- Pas du tout, répliqua vivement Tullia. Lazare n\'est pas méchant... Il voulait plaisanter...
+
+--- Est-ce qu\'il lui arrive souvent de plaisanter ainsi ? demanda le Kaw-djer.
+
+--- Jamais, monsieur, jamais ! affirma Tullia. Lazare est un bon mari... De plus brave garçon, il n\'y en a pas...
+
+--- C\'est faux », interrompit une voix décidée.
+
+Le Kaw-djer et ses compagnons se retournèrent. Ils aperçurent Graziella qu\'ils n\'avaient pas distinguée jusqu\'ici dans la pénombre de la tente, à peine éclairée par la lueur jaunâtre d\'un fanal.
+
+« Qui êtes-vous, mon enfant ? interrogea le Kaw-djer.
+
+--- Sa fille, répondit Graziella en montrant l\'ivrogne dont le bruit ne troublait pas le ronflement sonore. Quelque honte que j\'en éprouve, il faut que je le dise pour qu\'on me croie et qu\'on vienne en aide à ma pauvre maman.
+
+--- Graziella !... implora Tullia en joignant les mains.
+
+--- Je dirai tout, affirma la jeune fille avec force. C\'est la première fois que nous trouvons des défenseurs. Je ne les laisserai pas partir sans avoir fait appel à leur pitié.
+
+--- Parlez, mon enfant, dit le Kaw-djer avec bonté, et comptez sur nous pour vous secourir et vous défendre. »
+
+Ainsi encouragée, Graziella, d\'une voix haletante, raconta la vie de sa mère. Elle ne cacha rien. Elle dit la sublime tendresse de Tullia et de quel prix on l\'avait payée. Elle dit l\'avilissement de son père. Elle le montra traînant sa femme par les cheveux, la rouant de coups, la piétinant avec rage. Elle évoqua les jours de misère, sans vêtements, sans feu, sans pain, parfois sans domicile, glorifiant sa mère martyrisée, dont l\'héroïque douceur, au milieu de si cruelles épreuves, ne s\'était jamais démentie.
+
+En écoutant l\'épouvantable récit, celle-ci pleurait doucement. À la voix de sa fille, les tortures subies sortaient de l\'ombre du passé et semblaient, pour mieux broyer son coeur, redevenir présentes, toutes à la fois. Sous leur poids accumulé, Tullia fléchissait. Elle s\'abandonnait. La force lui manquait enfin pour défendre et protéger le bourreau.
+
+« Vous avez bien fait de parler, mon enfant, dit le Kaw-djer d\'une voix émue, quand Graziella eut achevé son récit. Soyez certaine que nous ne vous abandonnerons pas et que nous viendrons en aide à votre mère. Pour ce soir, elle n\'a besoin que de repos. Qu\'elle s\'efforce donc de dormir et qu\'elle espère en un avenir meilleur. »
+
+Lorsqu\'ils se retrouvèrent au dehors, le Kaw-djer, Harry Rhodes et Hartlepool se regardèrent un instant en silence. Était-il possible qu\'un homme en arrivât à ce degré d\'ignominie ! Puis, ayant d\'une large aspiration dilaté leur poitrine oppressée, ils allaient se mettre en marche, quand le premier s\'aperçut que la petite troupe comptait un membre de moins. Halg n\'était plus avec eux.
+
+Supposant que le jeune homme était resté dans la tente de la famille Ceroni, le Kaw-djer y entra de nouveau. Halg était bien là, en effet, si absorbé qu\'il n\'avait pas remarqué le départ de ses compagnons et qu\'il ne remarqua pas davantage le retour de l\'un d\'eux. Debout contre la paroi de toile, il regardait Graziella, et son visage, en même temps que la pitié, exprimait avec éloquence un véritable ravissement. À quelques pas, Graziella, les yeux baissés, se prêtait à cette contemplation avec une sorte de complaisance. Les deux jeunes gens ne parlaient pas. Après ces violentes secousses, ils laissaient leurs coeurs s\'ouvrir silencieusement à de plus douces émotions.
+
+Le Kaw-djer sourit.
+
+« Halg !... » appela-t-il à demi-voix.
+
+Le jeune homme tressaillit et, sans se faire prier, sortit de la tente. On se mit en route aussitôt.
+
+Les quatre excursionnistes marchaient en silence, chacun suivant le fil de sa pensée. Le Kaw-djer, les sourcils froncés, réfléchissait à ce qu\'il venait de voir et d\'entendre. Le plus grand service à rendre à ces deux femmes serait évidemment de sevrer d\'alcool leur tortionnaire. Était-ce réalisable ? Assurément, et même sans difficulté notable, l\'alcool étant inconnu sur l\'île Hoste, hormis celui provenant du Jonathan et déposé sur la grève avec le reste de la cargaison. Il suffirait donc d\'une ou deux sentinelles...
+
+Soit ! Mais qui les placerait, ces sentinelles ? Qui oserait donner des ordres et formuler des interdictions ? Qui s\'arrogerait le droit de limiter d\'une manière quelconque la liberté de ses semblables et de substituer son initiative à la leur ? C\'était faire acte de chef, cela, et il n\'existait pas de chef sur l\'île Hoste.
+
+Allons donc !... En puissance tout au moins, un chef y existait, au contraire. Et qui était-il, sinon celui qui, seul, avait sauvé les autres d\'une mort certaine ; qui, seul, avait l\'expérience de cette contrée déserte ; qui, seul, possédait à un degré supérieur à tous intelligence, savoir et caractère ?
+
+C\'eût été lâcheté de se mentir à soi-même. Le Kaw-djer ne pouvait l\'ignorer, c\'est vers lui que cette population misérable tournait ses regards attentifs, c\'est entre ses mains qu\'elle avait remis l\'exercice de l\'autorité collective, c\'est de lui qu\'elle attendait, confiante, secours, conseils et décisions. Qu\'il le voulût ou non, il ne pouvait échapper à la responsabilité que cette confiance impliquait. Qu\'il le voulût ou non, le chef, désigné par la force des choses et par le consentement tacite de l\'immense majorité des naufragés, c\'était lui.
+
+Eh quoi ! Lui, le libertaire, l\'homme incapable de supporter aucune contrainte, il était dans le cas d\'en imposer aux autres, et des lois devaient être édictées par celui qui rejetait toutes les lois ! Suprême ironie, c\'était l\'apôtre anarchiste, l\'adepte de la formule fameuse : « Ni Dieu, ni maître », qu\'on transformait en maître ; c\'est à lui qu\'on attribuait cette autorité dont son âme haïssait le principe avec tant de sauvage fureur !
+
+Fallait-il accepter l\'odieuse épreuve ? Ne valait-il pas mieux s\'enfuir loin de ces êtres aux âmes d\'esclave ?...
+
+Mais alors, que deviendraient-ils, livrés à eux-mêmes ? De combien de souffrances le déserteur ne serait-il pas responsable ? Si on a le droit de chérir des abstractions, il n\'est pas digne du nom d\'homme, celui qui, pour l\'amour d\'elles, ferme les yeux devant les réalités de la vie, nie l\'évidence et ne peut se résoudre à sacrifier son orgueil pour atténuer la misère humaine. Quelque certaines que paraissent des théories, il est grand d\'en faire table rase, lorsqu\'il est démontré que le bien des autres l\'exige.
+
+Or, démonstration pouvait-elle être plus nette et plus claire ? N\'avait-on pas constaté, ce soir-même, de nombreux cas d\'ivresse, sans parler de ceux, plus nombreux encore peut-être, qui demeuraient ignorés ? Devait-on tolérer dans cette foule paisible un tel abus de l\'alcool, au risque d\'y provoquer des altercations, des rixes, voire des meurtres ? Les effets du poison, d\'ailleurs, ne s\'étaient-ils pas déjà fait sentir ? N\'en avait-on pas, chez les Ceroni, constaté les ravages ?
+
+On approchait de la tente habitée par la famille Rhodes, on allait se séparer, que le Kaw-djer hésitait toujours. Mais il n\'était pas homme à fuir les responsabilités. Au dernier moment, quelque douleur qu\'il en dût éprouver, sa résolution fut prise. Il se tourna vers Hartlepool.
+
+« Croyez-vous pouvoir compter sur la fidélité de l\'équipage du Jonathan ? demanda-t-il.
+
+--- À l\'exception de Kennedy et de Sirdey, le cuisinier, j\'en réponds, dit Hartlepool.
+
+--- De combien d\'hommes disposez-vous ?
+
+--- De quinze hommes, moi compris.
+
+--- Les quatorze autres vous obéiront ?
+
+--- Assurément.
+
+--- Et vous ?
+
+--- Moi ?...
+
+--- Y a-t-il quelqu\'un ici dont vous soyez disposé à reconnaître l\'autorité ?
+
+--- Mais... vous, monsieur... naturellement, répondit Hartlepool, comme si la chose était évidente.
+
+--- Pourquoi ?
+
+--- Dame ! Monsieur... fit Hartlepool embarrassé. Enfin, il faut bien, ici comme ailleurs, que les gens aient un chef. Cela va de soi, que diable !
+
+--- Et pourquoi serais-je le chef ?
+
+--- Il n\'y en a pas d\'autre », dit Hartlepool, en ponctuant de ses bras ouverts son irréfutable argument.
+
+La réponse était péremptoire, en effet. Il n\'y avait rien à répliquer.
+
+Après un nouvel instant de silence, le Kaw-djer prononça d\'une voix ferme :
+
+« À partir de ce soir, vous ferez garder le matériel débarqué du Jonathan. Vos hommes se relaieront deux par deux et ne laisseront approcher personne. Ils surveilleront l\'alcool avec une attention particulière.
+
+--- Bien, monsieur, répondit simplement Hartlepool. Ce sera fait dans cinq minutes.
+
+--- Bonsoir », dit le Kaw-djer qui s\'éloigna à grands pas, mécontent de lui-même et des autres.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Deuxième partie
+
+
+]{.calibre20}

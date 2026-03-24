@@ -1,0 +1,74 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 07"
+slug_section: "chapitre-07"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Impuissance de la critique
+Seulement, il faut s'entendre. Je donnerai ici ma façon de voir personnelle, et je m'en tiendrai à une vérité de M. de la Palisse. Ces belles vérités de M. de la Palisse ont pour elles d'être l'évidence même et de n'entrer dans la pratique de personne. Tout le monde les accepte comme des bêtises qui vont de soi ; mais ils sont rares, ceux dont le cerveau s'accommode des bonnes grosses naïvetés, nettes et simples. Donc, selon moi, la critique se trouve impuissante, toutes les fois que, par hypocrisie ou sottise, elle reste dans l'erreur ; au contraire, elle devient une arme terrible, dès qu'elle fait la lumière sur une œuvre ou un homme, dis qu'elle constate ce qui est, avec une rigueur scientifique.
+
+C'est ce que je veux démontrer aujourd'hui.
+
+Voyez ce qui se passe dans nos journaux. Nous avons toute une bande d'écrivains médiocres, que la critique couvre d'éloges. Il y a unanimité sur leur compte, on les déclare sympathiques, et dès lors il est entendu qu'on encouragera leur petit commerce avec des sourires paternels.
+
+Cela s'explique très bien. Les médiocres, d'abord, ne gênent personne ; on peut les pousser sans craindre d'être jamais bousculé par eux. Puis, ce sont d'ordinaire d'aimables hommes, très souples, distribuant des poignées de mains, ayant trop besoin de tout le monde pour courir le risque de se créer un seul ennemi. Il est donc fort naturel que la critique se montre tolérante pour des auteurs qui font métier d'être inoffensifs et de vire en bons compagnons.
+
+Aussi est-ce chose réglée. Quand un de ces médiocres fait jouer une pièce ou publie un roman, on peut prévoir à l'avance le jugement de la critique. Il y a des clichés tout prêts. On parle du talent honnête de l'auteur, du grand succès de l'œuvre ; et cela sans discussion aucune. Un critique qui s'aviserait de protester, étonnerait et indignerait ses confrères. À quoi bon ? n'est-il pas convenu que l'auteur a du talent, ne le dit-on pas dans tous les journaux, depuis des années ? Il est inutile et dangereux de changer les choses établies.
+
+Maintenant, je ne prétends pas que tous les critiques soient des imbéciles. Beaucoup savent parfaitement à quoi s'en tenir. Au fond, ils ont souvent peu d'estime pour l'écrivain dont ils font un grand éloge. Mais, que voulez-vous ! il y a tant de circonstances à ménager ! On est camarade, on appartient au même journal, on dîne dans les mêmes maisons : sans compter qu'il s'agit parfois de soutenir un coreligionnaire politique. Ajoutez la volonté de ne pas troubler sa vie, en remuant des questions qui intéressent très peu de monde et en affichant la sotte prétention de dire la vérité, lorsque tout le monde l'enguirlande pour la mieux cacher. Rien ne semble plus facile que de dire la vérité : pourtant c'est là une besogne très rude, puisque si peu de gens osent y risquer la paix de leur existence.
+
+Il semblerait donc que les médiocres bons enfants, soutenus par toute la presse, qui tambourine leurs succès et jette des matelas sous leurs chutes, devraient être les écrivains les plus aimés du public. Si la critique avait par elle-même la moindre puissance, il est évident qu'elle imposerait les médiocres, en faisant acheter leurs livres et en emplissant les salles où se jouent leurs pièces, mais pas du tout, c'est ici que nous constatons une première fois l'impuissance absolue de la critique, lorsqu'elle ment.
+
+Elle a beau enfler ses louanges, s'entendre d'un bout de la presse à l'autre pour duper les lecteurs et les spectateurs ; même ceux-ci, cédant d'abord à cette pression, ont beau faire, dans les premiers temps, un semblant de succès à l'œuvre : bientôt la vérité éclate avec une force invincible. La presse continue à applaudir ; mais l'opinion s'est fixée, silencieuse, inexpugnable. Elle peut mettre vingt ans à triompher au grand jour, elle n'en existe pas moins dès lors, et elle ne cessera plus d'agir pour la victoire du vrai.
+
+De là vient, sous les mensonges de la réclame, l'insuccès réel, irrémédiable, des médiocres. En somme, leurs livres ne se vendent pas, leurs pièces ne font pas d'argent. Tout le tapage des critiques amis se meurt dans un silence glacé. Du jour au lendemain, l'oubli se fait. C'est que le public se désintéresse, et seul le public donne la gloire. Telle est donc, dans ce premier cas, l'impuissance de la critique, impuissance radicale à donner du talent aux gens qui n'en ont pas, impuissance à faire vivre des œuvres sans vie, qui tombent tout de suite au néant.
+
+Passons à un autre cas, moins fréquent, mais décisif.
+
+Voici à présent un écrivain qui se produit avec un tempérament original et fort. L'accent personnel de ses œuvres déroute et inquiète : cela, ne ressemblant à rien, paraît monstrueux. En outre, cet écrivain est un solitaire ; il vit en dehors des camaraderies, sans songer à se ménager des amis dans la presse. Parfois même, passionné de vérité ; il lui arrive de juger ses confrères avec une franchise trop rude. Quelle va être l'attitude de la critique, à l'égard de cet écrivain ?
+
+Mon Dieu ! c'est une vieille histoire. Tous les grands écrivains y ont passé, Corneille, avec *le Cid*, Molière avec *Tartufe*, Racine avec *Phèdre*, Balzac avec ses romans, Hugo avec ses premières poésies et ses drames. L'attitude de la critique a été et sera éternellement la même.
+
+C'est un effarement. D'abord, pourquoi cet écrivain pense-t-il et exprime-t-il d'une façon autre que tout le monde ? Cela fait sauter les gens, les tire désagréablement de leurs sensations habituelles. Puis, il se permet des audaces abominables, il va au fond du cadavre humain, il ose dire tout ce qui est ; et l'indignation arrive contre un homme qui ne garde pas les convenances des médiocres. Enfin, s'il pousse la prétention jusqu'à ne pas se laisser égorger sans crier ; si, comme Corneille, il défend son *Cid* en écrasant les impuissants qui l'attaquent, c'est un haro universel, une levée générale de boucliers, au milieu d'un vacarme affreux.
+
+Alors, toute la critique emboîte le pas et marche au solitaire. De même que, tout à l'heure, elle s'entendait pour couvrir les médiocres de ses pâles fleurs, des formules clichées de son admiration ; de même, pour abattre l'écrivain original, elle emploiera les éternels lieux communs, qu'elle se passe de main en main, sans les renouveler jamais. Dès qu'un tempérament littéraire paraît, la presse, dérangée et inquiète, l'exécute sans étude, sans analyse aucune, en trois ou quatre phrases ; et, à partir de ce moment, le ton est donné, chacun à la file répète les trois ou quatre phrases, pas un n'a l'idée de revenir aux documents et d'avoir une opinion par lui-même. C'est une grêle d'injures, toujours semblables, un galop de troupeau tombant à la file dans le même trou. La bêtise du Paris spirituel s'en mêle, des mots très fins circulent, le coup de folie devient navrant.
+
+Sous ce furieux assaut de toute la presse, quel est le sort de l'écrivain ? Le pauvre homme doit être écrasé, n'est-ce pas ? Songez qu'il a tout le monde contre lui, les gens d'esprit comme les imbéciles. On le blâme pour ce qu'il écrit et pour ce qu'il n'écrit pas ; on lui prête les intentions les plus saugrenues et les plus honteuses ; on le juge en l'air, d'après le mannequin qu'on s'est fait, sans jamais le lire ; on l'égorge avec les légendes absurdes qui circulent sur ses œuvres et sur lui-même. C'est évidemment un homme perdu ; il ne saurait sortir en vie d'un tel massacre. Eh bien, nullement : l'écrivain reste souriant et debout. À chaque nouvelle volée de projectiles, de pavés et de poignées de fange, on est stupéfait de le voir gai et fort sous le soleil, sans rien de cassé, sans même rien de sali.
+
+Que se passe-t-il donc ? Mon Dieu ! une chose bien simple. C'est que pas une des armes de la critique ne porte, parce que par une ne vise logiquement l'écrivain. Elles passent toutes à droite, à gauche, ou plutôt elles tombent dans la boue, à ses pieds. Il ne suffit pas d'accuser un homme des forfaits les plus épouvantables ; encore faut-il que cet homme ait commis ces forfaits, pour qu'il soit un gredin. Or, la critique se montre d'une bien grande naïveté, quand elle semble croire qu'il lui suffira de nier le talent d'un homme, pour que cet homme n'ait réellement pas de talent. Les faits la démentent, et le public finit toujours par obéir aux faits.
+
+Ainsi, nouvelle impuissance de la critique, dans ce second cas. Si elle ment, si elle ne rend pas à un écrivain la justice qui lui est due, elle se suicide elle-même, elle perd toute son autorité sur les lecteurs. Dès lors, elle tombe dans le mépris, elle n'est plus que du tapage dont profitent ceux mêmes qu'elle veut étrangler.
+
+Tels sont les faits. Impuissance de la critique à faire d'un auteur médiocre un auteur de génie ; impuissance tout aussi grande à faire d'un auteur de génie un auteur médiocre. Dès qu'on se trompe ou qu'on veut tromper, on n'a plus aucun pouvoir. La conclusion est aisée : seule, la critique qui dit la vérité, toute la vérité, prend une puissance énorme et décisive.
+
+Vous avez un écrivain à juger. N'écoutez pas ce qu'on a pu écrire sur lui, ne tenez pas compte de l'opinion courante. Lisez ses œuvres avec soin, en prenant des notes ; tâchez de connaître son tempérament, ses habitudes, ses goûts. Et, quand vous aurez épuisé les documents, faites l'anatomie de l'homme et des œuvres, constatez ce qui est. Cela suffit. Votre étude restera, si vous avez tout dit, parce que les faits restent forcément.
+
+Et c'est ici qu'apparaît la puissance terrible de la critique. Vous pouvez être le seul de votre avis ; si vous avez mis le doigt sur une vérité, si vous avez porté un jugement juste, rien ne saurait l'effacer, ni les hommes, ni les siècles. Cela est, cela restera ainsi. Nous ne sommes plus là dans la fantaisie des chroniqueurs, dans les partis pris des critiques graves et effarouchés, dans les calembours des reporters : nous sommes dans le vrai, et l'on peut huer, se fâcher, remuer la boue pour troubler l'eau, le vrai demeure inébranlable et victorieux.
+
+Je n'entre pas dans les nécessités du journalisme. Des garçons de beaucoup d'esprit prennent le soin de compter avec leurs lecteurs. Ils prétendent connaître leur public. Pour garder leur influence sur lui, pour soigner leur succès, ils s'arrangent de façon à le flatter, en disant comme lui, ou du moins en le ménageant dans ses goûts. De là viennent des attaques ou des éloges qui nous surprennent parfois, nous qui sommes dans la coulisse. Nous nous étonnons que tel critique, homme de bon sens et d'aimable scepticisme, ait pu écrire des pages étranges, où nous ne retrouvons rien de lui. L'explication est simple : le gaillard a voulu faire plaisir aux abonnés de son journal.
+
+Eh bien, j'estime que les abonnés ne lui en savent pas gré. Ces complaisances finissent toujours par tourner mal. Il ne faut pas croire le public avide de mensonges. Les vérités le bousculent, et il arrive qu'il proteste et s'emporte d'abord ; mais laissez-le réfléchir, les vérités s'imposent et le ravissent. Personnellement, je m'imagine que les lecteurs aiment à être remués, dans le train-train quotidien de leurs idées ; cela les passionne, les instruit, les pousse en avant. Et c'est pourquoi je n'ai jamais hésité à dire tout ce que je pense, même lorsque je me doute que beaucoup de mes lecteurs ne pensent pas comme moi. Je crois agir en honnête homme et même en homme habile.
+
+Oui, le mot est lâché : c'est être au fond très habile que de dire toujours la vérité. D'abord, on ne sait pas combien cela est commode. Partez avec cette idée : « Jamais je ne mentirai », et aussitôt votre route va tout droit ; aucune incohérence, aucune contradiction à redouter. Puis, le succès est quand même au bout. Cela est mathématique. Le savoir, l'esprit, la souplesse, demandent une culture pour réussir. La vérité triomphe par sa propre force. Écrivez une page vraie, elle est éternelle.
+
+Voilà ce que dit M. de la Palisse, et ce que tout le monde trouvera d'une évidence bête. Le malheur est qu'il faut, à chaque instant, démontrer cette évidence.
+
+Ah ! le triste spectacle que nous offre journellement la presse, avec sa critique de mensonge et de radicale impuissance ! C'est un drame dont la critique acclame la première représentation et qui tombe misérablement devant le public. C'est une lecture faite à grand tapage dans un salon littéraire, accueillie avec un enthousiasme de commande, que les lecteurs ne comprennent plus, quand ils ont l'œuvre entre les mains. C'est le poème d'un grand poète vieilli, que tout le monde trouve illisible, mais que tout le monde met au rang des anciens chefs-d'œuvre à la stupéfaction des quelques naïfs de bonne foi. C'est ainsi, à chaque heure, des compromis, des complaisances, des injustices qui salissent la critique et qui la font choir dans le dégoût des honnêtes gens.
+
+Comment voulez-vous que le public vous écoute et vous respecte, s'il est obligé de casser ainsi chacun de vos jugements ? Vous célébrez les œuvres qui l'ennuient, vous assommez celles qui le passionnent. Vous vous mettez à deux ou trois douzaines pour étrangler les hommes de mérite, tandis que vous cherchez à imposer la nullité des hommes médiocres. Et vous vous démentez les uns les autres, et vous n'avez personnellement aucune base, aucune méthode solide, et vous cédez à toutes les influences, individuelles, mondaines, politiques ! Voilà pourquoi la critique est impuissante, voilà pourquoi vos articles ne peuvent rien pour le succès ni pour l'insuccès des œuvres. Ce sont des feuilles sèches que le vent emporte.
+
+La critique n'a d'action que dans la vérité. Une œuvre est inférieure : elle la tue en le constatant, sur des preuves. Une œuvre est grande : elle la consacre, en établissant le comment et le pourquoi de ses qualités. Si elle sort de cette besogne de franchise, la critique n'est plus qu'une prostituée qui se vend ou qui se donne aux caprices des passants.

@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "COMMENT ON MEURT",
+  "slug": "comment-on-meurt",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1202,
+      "spine_end_exclusive": 1203,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_212.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1203,
+      "spine_end_exclusive": 1204,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_213.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1204,
+      "spine_end_exclusive": 1205,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_214.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1205,
+      "spine_end_exclusive": 1206,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_215.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1206,
+      "spine_end_exclusive": 1207,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_216.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1207,
+      "spine_end_exclusive": 1209,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_217.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_218.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/comment-on-meurt/Zola4_image017.jpg"
+  ]
+}

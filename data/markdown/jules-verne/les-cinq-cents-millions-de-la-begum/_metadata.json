@@ -1,0 +1,231 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES CINQ CENTS MILLIONS DE LA BÉGUM",
+  "slug": "les-cinq-cents-millions-de-la-begum",
+  "nombre_chapitres": 20,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Où Mr. Sharp fait son entrée",
+      "slug": "chapitre-1-ou-mr-sharp-fait-son-entree",
+      "is_part": false,
+      "spine_start": 838,
+      "spine_end_exclusive": 839,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_069.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Deux copains",
+      "slug": "chapitre-2-deux-copains",
+      "is_part": false,
+      "spine_start": 839,
+      "spine_end_exclusive": 840,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_070.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Un fait divers",
+      "slug": "chapitre-3-un-fait-divers",
+      "is_part": false,
+      "spine_start": 840,
+      "spine_end_exclusive": 841,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_071.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Part à deux",
+      "slug": "chapitre-4-part-a-deux",
+      "is_part": false,
+      "spine_start": 841,
+      "spine_end_exclusive": 842,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_072.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – La cité de l'acier",
+      "slug": "chapitre-5-la-cite-de-lacier",
+      "is_part": false,
+      "spine_start": 842,
+      "spine_end_exclusive": 843,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_073.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Le puits Albrecht",
+      "slug": "chapitre-6-le-puits-albrecht",
+      "is_part": false,
+      "spine_start": 843,
+      "spine_end_exclusive": 844,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_074.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Le bloc central",
+      "slug": "chapitre-7-le-bloc-central",
+      "is_part": false,
+      "spine_start": 844,
+      "spine_end_exclusive": 845,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_075.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – La caverne du dragon",
+      "slug": "chapitre-8-la-caverne-du-dragon",
+      "is_part": false,
+      "spine_start": 845,
+      "spine_end_exclusive": 846,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_076.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – « P. P. C. »",
+      "slug": "chapitre-9-p-p-c",
+      "is_part": false,
+      "spine_start": 846,
+      "spine_end_exclusive": 847,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_077.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Un article de l'« Unsere Centurie », revue allemande",
+      "slug": "chapitre-10-un-article-de-l-unsere-centurie-revue-allemande",
+      "is_part": false,
+      "spine_start": 847,
+      "spine_end_exclusive": 848,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_078.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Un dîner chez le docteur Sarrasin",
+      "slug": "chapitre-11-un-diner-chez-le-docteur-sarrasin",
+      "is_part": false,
+      "spine_start": 848,
+      "spine_end_exclusive": 849,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_079.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Le conseil",
+      "slug": "chapitre-12-le-conseil",
+      "is_part": false,
+      "spine_start": 849,
+      "spine_end_exclusive": 850,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_080.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Marcel Bruckmann au professeur Schultze, Stahlstadt",
+      "slug": "chapitre-13-marcel-bruckmann-au-professeur-schultze-stahlstadt",
+      "is_part": false,
+      "spine_start": 850,
+      "spine_end_exclusive": 851,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_081.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Branle-bas de combat",
+      "slug": "chapitre-14-branle-bas-de-combat",
+      "is_part": false,
+      "spine_start": 851,
+      "spine_end_exclusive": 852,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_082.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – La bourse de San Francisco",
+      "slug": "chapitre-15-la-bourse-de-san-francisco",
+      "is_part": false,
+      "spine_start": 852,
+      "spine_end_exclusive": 853,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_083.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Deux français contre une ville",
+      "slug": "chapitre-16-deux-francais-contre-une-ville",
+      "is_part": false,
+      "spine_start": 853,
+      "spine_end_exclusive": 854,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_084.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Explications à coups de fusil",
+      "slug": "chapitre-17-explications-a-coups-de-fusil",
+      "is_part": false,
+      "spine_start": 854,
+      "spine_end_exclusive": 855,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_085.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – L'amande du noyau",
+      "slug": "chapitre-18-lamande-du-noyau",
+      "is_part": false,
+      "spine_start": 855,
+      "spine_end_exclusive": 856,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_086.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Une affaire de famille",
+      "slug": "chapitre-19-une-affaire-de-famille",
+      "is_part": false,
+      "spine_start": 856,
+      "spine_end_exclusive": 857,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_087.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Conclusion",
+      "slug": "chapitre-20-conclusion",
+      "is_part": false,
+      "spine_start": 857,
+      "spine_end_exclusive": 858,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_088.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

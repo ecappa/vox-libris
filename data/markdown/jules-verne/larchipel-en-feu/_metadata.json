@@ -1,0 +1,176 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'ARCHIPEL EN FEU",
+  "slug": "larchipel-en-feu",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Navire au large",
+      "slug": "chapitre-1-navire-au-large",
+      "is_part": false,
+      "spine_start": 1093,
+      "spine_end_exclusive": 1094,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_703.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – En face l'un de l'autre",
+      "slug": "chapitre-2-en-face-lun-de-lautre",
+      "is_part": false,
+      "spine_start": 1094,
+      "spine_end_exclusive": 1095,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_704.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Grecs contre Turcs",
+      "slug": "chapitre-3-grecs-contre-turcs",
+      "is_part": false,
+      "spine_start": 1095,
+      "spine_end_exclusive": 1096,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_705.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Triste maison d'un riche",
+      "slug": "chapitre-4-triste-maison-dun-riche",
+      "is_part": false,
+      "spine_start": 1096,
+      "spine_end_exclusive": 1097,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_706.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – La côte messénienne",
+      "slug": "chapitre-5-la-cote-messenienne",
+      "is_part": false,
+      "spine_start": 1097,
+      "spine_end_exclusive": 1098,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_707.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Sus aux pirates de l'archipel !",
+      "slug": "chapitre-6-sus-aux-pirates-de-larchipel",
+      "is_part": false,
+      "spine_start": 1098,
+      "spine_end_exclusive": 1099,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_708.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – L'inattendu",
+      "slug": "chapitre-7-linattendu",
+      "is_part": false,
+      "spine_start": 1099,
+      "spine_end_exclusive": 1100,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_709.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Vingt millions en jeu",
+      "slug": "chapitre-8-vingt-millions-en-jeu",
+      "is_part": false,
+      "spine_start": 1100,
+      "spine_end_exclusive": 1101,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_710.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – L'archipel en feu",
+      "slug": "chapitre-9-larchipel-en-feu",
+      "is_part": false,
+      "spine_start": 1101,
+      "spine_end_exclusive": 1102,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_711.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Campagne dans l'archipel",
+      "slug": "chapitre-10-campagne-dans-larchipel",
+      "is_part": false,
+      "spine_start": 1102,
+      "spine_end_exclusive": 1103,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_712.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Signaux sans réponse",
+      "slug": "chapitre-11-signaux-sans-reponse",
+      "is_part": false,
+      "spine_start": 1103,
+      "spine_end_exclusive": 1104,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_713.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Une enchère à Scarpanto",
+      "slug": "chapitre-12-une-enchere-a-scarpanto",
+      "is_part": false,
+      "spine_start": 1104,
+      "spine_end_exclusive": 1105,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_714.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – À bord de la « Syphanta »",
+      "slug": "chapitre-13-a-bord-de-la-syphanta",
+      "is_part": false,
+      "spine_start": 1105,
+      "spine_end_exclusive": 1106,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_715.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Sacratif",
+      "slug": "chapitre-14-sacratif",
+      "is_part": false,
+      "spine_start": 1106,
+      "spine_end_exclusive": 1107,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_716.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Dénouement",
+      "slug": "chapitre-15-denouement",
+      "is_part": false,
+      "spine_start": 1107,
+      "spine_end_exclusive": 1108,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_717.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

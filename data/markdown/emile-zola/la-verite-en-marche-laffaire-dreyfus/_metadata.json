@@ -1,0 +1,233 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA VÉRITÉ EN MARCHE (L’AFFAIRE DREYFUS)",
+  "slug": "la-verite-en-marche-laffaire-dreyfus",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1856,
+      "spine_end_exclusive": 1857,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_557.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Exergue",
+      "slug": "exergue",
+      "spine_start": 1857,
+      "spine_end_exclusive": 1858,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_558.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 1858,
+      "spine_end_exclusive": 1859,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_559.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "M. Scheurer-Kestner",
+      "slug": "m-scheurer-kestner",
+      "spine_start": 1859,
+      "spine_end_exclusive": 1862,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_560.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_561.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_562.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le syndicat",
+      "slug": "le-syndicat",
+      "spine_start": 1862,
+      "spine_end_exclusive": 1864,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_563.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_564.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Procès-verbal",
+      "slug": "proces-verbal",
+      "spine_start": 1864,
+      "spine_end_exclusive": 1866,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_565.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_566.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à la jeunesse",
+      "slug": "lettre-a-la-jeunesse",
+      "spine_start": 1866,
+      "spine_end_exclusive": 1868,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_567.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_568.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à la France",
+      "slug": "lettre-a-la-france",
+      "spine_start": 1868,
+      "spine_end_exclusive": 1870,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_569.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_570.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à M. Félix Faure, président de la République",
+      "slug": "lettre-a-m-felix-faure-president-de-la-republique",
+      "spine_start": 1870,
+      "spine_end_exclusive": 1874,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_571.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_572.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_573.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_574.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Déclaration au jury",
+      "slug": "declaration-au-jury",
+      "spine_start": 1874,
+      "spine_end_exclusive": 1876,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_575.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_576.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à M. Brisson, président du Conseil des ministres",
+      "slug": "lettre-a-m-brisson-president-du-conseil-des-ministres",
+      "spine_start": 1876,
+      "spine_end_exclusive": 1879,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_577.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_578.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_579.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Justice",
+      "slug": "justice",
+      "spine_start": 1879,
+      "spine_end_exclusive": 1881,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_580.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_581.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le cinquième acte",
+      "slug": "le-cinquieme-acte",
+      "spine_start": 1881,
+      "spine_end_exclusive": 1883,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_582.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_583.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à Madame Alfred Dreyfus",
+      "slug": "lettre-a-madame-alfred-dreyfus",
+      "spine_start": 1883,
+      "spine_end_exclusive": 1886,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_584.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_585.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_586.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre au Sénat",
+      "slug": "lettre-au-senat",
+      "spine_start": 1886,
+      "spine_end_exclusive": 1888,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_587.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_588.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à M. Loubet, président de la République",
+      "slug": "lettre-a-m-loubet-president-de-la-republique",
+      "spine_start": 1888,
+      "spine_end_exclusive": 1891,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_589.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_590.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_591.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Mon père",
+      "slug": "mon-pere",
+      "spine_start": 1891,
+      "spine_end_exclusive": 1893,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_592.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_593.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "François Zola",
+      "slug": "francois-zola",
+      "spine_start": 1893,
+      "spine_end_exclusive": 1897,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_594.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_595.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_596.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_597.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Conclusion[32]",
+      "slug": "conclusion32",
+      "spine_start": 1897,
+      "spine_end_exclusive": 1899,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_598.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_599.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image091.jpg",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image092.png",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image093.jpg",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image094.jpg",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image095.jpg",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image096.jpg",
+    "images/emile-zola/la-verite-en-marche-laffaire-dreyfus/Zola5_image097.jpg"
+  ]
+}

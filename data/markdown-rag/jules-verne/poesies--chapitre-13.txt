@@ -1,0 +1,35 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 13"
+slug_section: "chapitre-13"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 13 -- Le Génie
+*Sonnet.*
+
+Comme un pur stalactite, oeuvre de la nature,
+Le génie incompris apparaît à nos yeux.
+Il est là, dans l'endroit où l'ont placé les Cieux,
+Et d'eux seuls, il reçoit sa vie et sa structure.
+Jamais la main de l'homme assez audacieuse
+Ne le pourra créer, car son essence est pure,
+Et le Dieu tout-puissant le fit à sa figure ;
+Le mortel pauvre et laid, pourrait-il faire mieux ?
+Il ne se taille pas, ce diamant bizarre,
+Et de quelques couleurs dont l'azur le chamarre,
+Qu'il reste tel qu'il est, que le fit l'éternel !
+Si l'on veut corriger le brillant stalactite,
+Ce n'est plus aussitôt qu'un caillou sans mérite,
+Qui ne réfléchit plus les étoiles du ciel.

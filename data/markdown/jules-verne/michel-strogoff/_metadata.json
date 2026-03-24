@@ -1,0 +1,121 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MICHEL STROGOFF",
+  "slug": "michel-strogoff",
+  "nombre_chapitres": 38,
+  "structure": [
+    {
+      "title": "Personnages",
+      "slug": "personnages",
+      "is_part": false,
+      "spine_start": 2343,
+      "spine_end_exclusive": 2344,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_318.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte I",
+      "slug": "acte-i",
+      "is_part": false,
+      "spine_start": 2344,
+      "spine_end_exclusive": 2353,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_319.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_320.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_321.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_322.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_323.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_324.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_325.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_326.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_327.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte II",
+      "slug": "acte-ii",
+      "is_part": false,
+      "spine_start": 2353,
+      "spine_end_exclusive": 2370,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_328.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_329.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_330.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_331.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_332.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_333.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_334.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_335.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_336.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_337.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_338.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_339.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_340.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_341.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_342.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_343.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_344.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte III",
+      "slug": "acte-iii",
+      "is_part": false,
+      "spine_start": 2370,
+      "spine_end_exclusive": 2378,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_345.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_346.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_347.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_348.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_349.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_350.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_351.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_352.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte IV",
+      "slug": "acte-iv",
+      "is_part": false,
+      "spine_start": 2378,
+      "spine_end_exclusive": 2385,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_353.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_354.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_355.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_356.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_357.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_358.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_359.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte V",
+      "slug": "acte-v",
+      "is_part": false,
+      "spine_start": 2385,
+      "spine_end_exclusive": 2393,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_361.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_362.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_363.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_364.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_365.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_366.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_367.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_368.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

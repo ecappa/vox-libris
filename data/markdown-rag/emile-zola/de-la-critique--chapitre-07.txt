@@ -1,0 +1,52 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "DE LA CRITIQUE"
+slug_oeuvre: "de-la-critique"
+section: "Chapitre 07"
+slug_section: "chapitre-07"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+DE LA CRITIQUE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Un prix de Rome littéraire
+Il vient de se produire un étrange projet, celui de fonder un prix de Rome littéraire. Certes, ce projet n'a heureusement aucune chance d'être réalisé, et il serait inutile de le discuter, s'il n'était un symptôme delà laide maladie que nous avons en France d'être protégés et encouragés par l'État.
+
+Les gamins de huit ans ont des croix de fer blanc sur la poitrine. Plus tard, on les inscrit au tableau d'honneur, on les comble de bons points. Plus tard, à leur entrée dans la vie, on les promène de concours en concours, et les diplômes tombent sur eux, drus comme les feuilles en automne. Ce n'est point fini, les médailles, les litres, les croix de tous les métaux continuent de pleuvoir. On est timbré, scellé, apostille. On porte sur chaque membre le visa de l'administration, déclarant en bonne forme que vous avez du génie. On devient un colis dûment enregistré pour la gloire. Quel enfantillage, et comme il est plus sain d'être seul et libre, avec sa poitrine nue au grand soleil !
+
+Ainsi, voilà les écrivains qui n'étaient point trop protégés. Ils n'avaient pas de concours, seule à Académie se permettait de distribuer à des dames et à des hommes tranquilles quelques prix timides. Ils ne sentaient point la tutelle de l'État, comme les peintres et les sculpteurs par exemple, qui dépendent absolument de l'administration. De là, une jalousie énorme. Nous voulons des chaînes, nous aussi ! Notre liberté nous gêne, nous ne savons pas en faire des chefs-d'œuvre, et nous tendons les mains pour qu'on nous garrotte. Les artistes sont trop gourmands de garder toutes les entraves pour eux. Nous entamerons des polémiques, nous ferons des condoléances s'il est nécessaire, mais nous exigeons quand même notre coin de cachot.
+
+Songez donc ! les peintres et les sculpteurs ont une école où des professeurs leur enseignent le beau patenté. Ils passent leur jeunesse au milieu des concours. Ensuite, un jury les admet ou ne les admet pas à la publicité. Chaque année, ils composent, et les premiers ont des médailles. Quand les médailles sont épuisées, il y a des récompenses exceptionnelles. Voilà une carrière enviable, au moins ! Les élèves forts y goûtent toutes les jouissances possibles. Parlez-moi de cette façon de comprendre une existence d'artiste et comprenez combien la vie d'un écrivain est grise à côté ! Le pauvre homme n'a pas la moindre médaille pour s'égayer. Son ménage en reste tout chagrin.
+
+Pour le moment, on ne demande pas encore des médailles, on serait satisfait, si l'État voulait simplement fonder un prix de Rome littéraire. Ce prix consisterait, comme le prix de Rome de peinture, en une certaine rente qu'on servait pendant quatre années au lauréat. Naturellement, il serait décerné à la suite d'un concours, et le lauréat serait tenu de fournir chaque année un travail quelconque, pour prouver qu'il ne mange pas l'argent de l'administration avec des duchesses. Voilà le projet en gros. Resterait à fixer le genre de la composition. Serait-ce un roman, une étude historique, un poème ? On a parlé, je crois, d'une comédie ou d'un drame en vers. Cela restreint singulièrement le prix de Rome littéraire, qui devient en réalité un prix de Rome dramatique. Je soupçonne les inventeurs du projet d'avoir des tragédies de jeunesse dans leurs tiroirs. Mais, vraiment, ils n'ont pas dû voir tout le côté comique de l'invention.
+
+Quand le prix de Rome a été créé, il s'agissait avant tout de fournira déjeunes artistes l'occasion de faire un séjour dans la ville que l'on regardait alors comme le tabernacle de l'art. Le voyage coûtait fort cher ; d'autre part, on voulait assurer aux lauréats un local, des relations, une direction artistique ; enfin, l'école avait un drapeau et entendait former des soldats pour le défendre. Toutes ces raisons expliquent la fondation.
+
+Mais, dans les lettres, à quoi rimerait un pareil prix ? Il ne peut venir à la pensée de personne d'envoyer les lauréats littéraires dans une ville quelconque ; ils devront rester à Paris, dans ce Paris qui attire toutes les intelligences. Je comprendrais à la rigueur les grandes villes de province fondant des prix de Paris. D'un autre côté, les écrivains n'ont aucun frais matériel. Avec une main de papier, trois sous d'encre et un sou de plumes, on écrit un chef-d'œuvre. Enfin, il n'y a plus une littérature d'État, dont on veuille défendre le drapeau. Les deux cas sont donc complètement différents, et je ne saisis pas quels rapports on a pu voir entre eux.
+
+La seule raison qu'on ait donnée, c'est que le prix de Rome littéraire remédierait à de grands désespoirs et à de grands découragements. Et l'on a parlé d Hégésippe Moreau, de tous les poètes delà légende qui sont morts à l'hôpital, de misère et de génie rentré. Alors, il faut s'entendre. S'il s'agit de servir une rente à un jeune écrivain pauvre, il faudra poser en principe que seuls les jeunes écrivains pauvres auront le droit de concourir. Le maire et le commissaire du quartier délivreront un certificat d'indigence, qu'on devra déposer au secrétariat avec les autres pièces. En effet, les lauréats qui auraient seulement douze cents francs de rente, une petite pension de leur famille, commettraient une très vilaine action, en venant, à mérite égal, disputer le prix au meurt-de-faim, La pauvreté du candidat pèsera plus que son mérite dans la balance du jury.
+
+Si l'on écarte cette raison sentimentale, on ne saurait citer aucun autre argument sérieux en faveur de la fondation. Mais ce n'est point tout, lors même qu'on aurait pour le prix de Rome littéraire les mêmes arguments qui ont décidé la création du prix de Home de peinture, il serait prudent, avant de se lancer dans une seconde tentative, de se demander si la première a donné de bons résultats.
+
+Aujourd'hui, on peut nettement établir le rôle de notre école de Rome, dans l'art de ce siècle. Ce rôle a été complètement nul Certes, un grand artiste qui irait à Rome en reviendrait sans doute avec son génie. Seulement, Rome est si peu nécessaire à nos peintres que les plus grands d'entre eux, Eugène Delacroix, Courbet, Théodore Rousseau, Millet, Corot et toute notre grande école de paysagistes, n'y ont point passé. De cette pépinière qui devait être fertile en maîtres, il n'est guère sorti que des médiocrités. Le large mouvement de l'art au dix-neuvième siècle s'est fait en dehors et à côté de la serre chaude administrative.
+
+Cela est si vrai, l'école de Rome est aujourd'hui tellement inutile et dévoyée, que les élèves y vivent dans l'anarchie absolue des doctrines. Chaque année, à l'exposition des envois, on peut constater le tohubohu des personnalités. L'École de Rome n'a même plus son entêtement esthétique. Autant envoyer les lauréats à Pontoise, ils seront plus près de la vie moderne. D'ailleurs, leur séjour en Italie est une chose agréable. Il fêle peut-être un peu leur jugement, mais un peintre médiocre de plus ou de moins, cela ne lire pas à conséquence. Quant au génie qui s'égarerait là, il s'en tirerait toujours. Mon avis est donc que notre école de Rome n'est ni nuisible ni utile.
+
+Ainsi, l'expérience est laide, à quoi bon la recommencer en littérature ? Il est entendu que l'art et les lettres ne gagnent rien à être patronnés et pensionnés. Cela ne sert qu'à entretenir la médiocrité. Un écrivain médiocre est déjà gênant par lui-même ; s'il était patenté, il deviendrait dangereux. Nous sommes trop mangés par les faiseurs de phrases, pour qu'on ouvre une école de rhétorique. Le jour où l'on fonderait le prix de Rome littéraire, je sais bien ce qui se passerait : il n'irait pas à la pauvreté, il n'irait pas au talent original, il irait aux esprits moyens et souples, qui savent cueillir toutes les fleurs du chemin. À quoi bon encourager ces messieurs qui n'ont déjà que trop de courage ?
+
+J'ai une théorie un peu barbare en ces matières : c'est que la force est tout, dans la bataille des lettres. Malheur aux faibles ! Ceux qui tombent ont tort de tomber, et c'est tant pis si on les écrase. Ils n'avaient qu'à savoir se tenir debout. Chaque fois qu'un débutant échoue, qu'un vainqueur de la veille est vaincu, je conclus qu'il portait en lui le germe de sa défaite. La victoire est aux reins solides, et cela est juste. Le talent doit être fort ; s'il n'est pas fort, il n'est plus le talent, et il mérite que la vérité se fasse sur son compte. Quand on arrive dans l'art, il faut se dire ces choses virilement, pour savoir se conduire en homme dans la chute ou dans le succès.
+
+Je trouve, par exemple, qu'on abuse étrangement d'Hégésippe Moreau, de Chatterton et des autres. Hégésippe Moreau était un médiocre poète. Sa grande habileté a été de mourir comme il est mort. S'il avait vécu, personne peut-être ne saurait son nom. On peut plaindre les pauvres diables que l'ambition littéraire tue dans les mansardes ; mais il est naïf de regretter leur talent. C'est un crime que d'entretenir l'orgueil des médiocres. L'écrivain qui apporte un monde, accouche toujours de ce monde.
+
+J'ai parlé en commençant de ce vilain besoin de protection que nous avons en France. On s'appuie d'une main sur les dames, de l'autre sur les corps constitués ; on monte ainsi, peu à peu, l'échelle des succès aimables ; on commence par les diplômes et les prix académiques, on finit par les croix et les titres. Pour gravir cette échelle, il suffit d'avoir l'échine souple et de savoir contenter tout le monde ; un salut à droite et un salut à gauche ; une tirade sur la morale de temps à autre ; surtout un choix de phrases qui ne puissent fâcher personne.
+
+Ah ! que le mépris est meilleur ! Mépriser toutes ces convenances, ne sentir aucun de ses besoins de la vanité, c'est peut-être la force suprême, dans notre métier d'écrivain. On est seul, on ne relève que de son talent. Une œuvre est bonne, et on l'écrit, parce qu'on veut l'écrire. Nulle considération ne déterminera le changement d'une phrase. Pourquoi un changement, dès qu'on a renoncé à toutes les récompenses ? La grande jouissance est de vouloir et de créer. On va devant soi, jusqu'au bout de sa volonté, Et c'est la seule roule qui mène à des chefs-d'œuvre.

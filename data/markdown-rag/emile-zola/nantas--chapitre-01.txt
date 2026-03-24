@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NANTAS"
+slug_oeuvre: "nantas"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+NANTAS
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+*Nantas* est une nouvelle d'Émile Zola publiée en 1878. Elle raconte la vie d'un jeune Marseillais ambitieux, Nantas, « monté » à Paris, après la mort de ses parents.

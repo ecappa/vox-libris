@@ -1,0 +1,275 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'ÉTOILE DU SUD",
+  "slug": "letoile-du-sud",
+  "nombre_chapitres": 24,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Renversants, ces Français !",
+      "slug": "chapitre-1-renversants-ces-francais",
+      "is_part": false,
+      "spine_start": 1067,
+      "spine_end_exclusive": 1068,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_678.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Aux champs des diamants",
+      "slug": "chapitre-2-aux-champs-des-diamants",
+      "is_part": false,
+      "spine_start": 1068,
+      "spine_end_exclusive": 1069,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_679.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Un peu de science, enseignée de bonne amitié",
+      "slug": "chapitre-3-un-peu-de-science-enseignee-de-bonne-amitie",
+      "is_part": false,
+      "spine_start": 1069,
+      "spine_end_exclusive": 1070,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_680.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Vandergaart-Kopje",
+      "slug": "chapitre-4-vandergaart-kopje",
+      "is_part": false,
+      "spine_start": 1070,
+      "spine_end_exclusive": 1071,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_681.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Première exploitation",
+      "slug": "chapitre-5-premiere-exploitation",
+      "is_part": false,
+      "spine_start": 1071,
+      "spine_end_exclusive": 1072,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_682.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Moeurs du camp",
+      "slug": "chapitre-6-moeurs-du-camp",
+      "is_part": false,
+      "spine_start": 1072,
+      "spine_end_exclusive": 1073,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_683.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – L'éboulement",
+      "slug": "chapitre-7-leboulement",
+      "is_part": false,
+      "spine_start": 1073,
+      "spine_end_exclusive": 1074,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_684.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – La grande expérience",
+      "slug": "chapitre-8-la-grande-experience",
+      "is_part": false,
+      "spine_start": 1074,
+      "spine_end_exclusive": 1075,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_685.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Une surprise",
+      "slug": "chapitre-9-une-surprise",
+      "is_part": false,
+      "spine_start": 1075,
+      "spine_end_exclusive": 1076,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0001.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Où John Watkins réfléchit",
+      "slug": "chapitre-10-ou-john-watkins-reflechit",
+      "is_part": false,
+      "spine_start": 1076,
+      "spine_end_exclusive": 1077,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_686.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – L'Étoile du Sud",
+      "slug": "chapitre-11-letoile-du-sud",
+      "is_part": false,
+      "spine_start": 1077,
+      "spine_end_exclusive": 1078,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_687.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Préparatifs de départ",
+      "slug": "chapitre-12-preparatifs-de-depart",
+      "is_part": false,
+      "spine_start": 1078,
+      "spine_end_exclusive": 1079,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_688.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – À travers le Transvaal",
+      "slug": "chapitre-13-a-travers-le-transvaal",
+      "is_part": false,
+      "spine_start": 1079,
+      "spine_end_exclusive": 1080,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_689.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Au nord du Limpopo",
+      "slug": "chapitre-14-au-nord-du-limpopo",
+      "is_part": false,
+      "spine_start": 1080,
+      "spine_end_exclusive": 1081,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_690.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – UN COMPLOT",
+      "slug": "chapitre-15-un-complot",
+      "is_part": false,
+      "spine_start": 1081,
+      "spine_end_exclusive": 1082,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_691.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Trahison",
+      "slug": "chapitre-16-trahison",
+      "is_part": false,
+      "spine_start": 1082,
+      "spine_end_exclusive": 1083,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_692.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Un steeple-chase africain",
+      "slug": "chapitre-17-un-steeple-chase-africain",
+      "is_part": false,
+      "spine_start": 1083,
+      "spine_end_exclusive": 1084,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_693.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – L'autruche qui parle",
+      "slug": "chapitre-18-lautruche-qui-parle",
+      "is_part": false,
+      "spine_start": 1084,
+      "spine_end_exclusive": 1085,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_694.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – La grotte merveilleuse",
+      "slug": "chapitre-19-la-grotte-merveilleuse",
+      "is_part": false,
+      "spine_start": 1085,
+      "spine_end_exclusive": 1086,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_695.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Le retour",
+      "slug": "chapitre-20-le-retour",
+      "is_part": false,
+      "spine_start": 1086,
+      "spine_end_exclusive": 1087,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_696.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Justice vénitienne",
+      "slug": "chapitre-21-justice-venitienne",
+      "is_part": false,
+      "spine_start": 1087,
+      "spine_end_exclusive": 1088,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_697.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Une mine d'un nouveau genre",
+      "slug": "chapitre-22-une-mine-dun-nouveau-genre",
+      "is_part": false,
+      "spine_start": 1088,
+      "spine_end_exclusive": 1089,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_698.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – La statue du commandeur",
+      "slug": "chapitre-23-la-statue-du-commandeur",
+      "is_part": false,
+      "spine_start": 1089,
+      "spine_end_exclusive": 1090,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_699.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24 – Une étoile qui file !",
+      "slug": "chapitre-24-une-etoile-qui-file",
+      "is_part": false,
+      "spine_start": 1090,
+      "spine_end_exclusive": 1091,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_700.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

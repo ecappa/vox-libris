@@ -1,0 +1,206 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LE VOEU D'UNE MORTE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778563 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778225 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777887 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777549 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777211 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776535 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776197 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775859 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775521 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775183 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774845 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368774507 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_52 .calibre25}
+
+[Vers le matin, Daniel remonta dans sa chambre.]{.calibre11}
+
+[Ce grand garçon de dix-huit ans avait le coeur d'un enfant. Les circonstances particulières dans lesquelles il se trouvait, avaient exalté ses facultés aimantes. Il se rendait ridicule de jeunesse de dévouement et d'affection.]{.calibre11}
+
+[On a compris qu'il était l'orphelin dont parlait Le Sémaphore. Blanche de Rionne, la jeune protectrice inconnue, le fit élever et lorsqu'il eut grandi, le mit au lycée de Marseille. Elle ne se montra d'ailleurs à lui que rarement, elle voulut qu'il la connût à peine, et qu'il n'eût, pour ainsi dire, à remercier que la Providence. Quand elle se maria, elle ne parla même pas à M. De Rionne de son enfant adoptif. C'était là une de ses bonnes oeuvres secrètes qu'elle cachait.]{.calibre11}
+
+[Au lycée, les attitudes gauches de Daniel, sa timidité d'orphelin lui attirèrent les plaisanteries de ses camarades. Il fut profondément blessé de ce rôle de paria. Ses allures en devinrent plus maladroites. Il resta solitaire, et son âme garda ainsi des innocences. Il échappa à ces premières leçons du vice que les petits hommes de quinze ans se donnent entre eux. Il ignorait tout, ne savait pas un mot de la vie.]{.calibre11}
+
+[Dans cette solitude que sa gaucherie lui créait, il s'était pris d'un amour ardent pour le travail. Son intelligence vive et passionnée qui aurait dû en faire un poète, le poussa, par une apparente contradiction, vers l'étude des sciences. C'est qu'il y avait en lui un désir immense de vérité.]{.calibre11}
+
+[Il goûtait des joies profondes à vivre dans le monde exact des chiffres, à chercher le vrai, pas à pas et sûrement, à se reposer dans une solution définitive et complète. Il faisait ainsi de la poésie à sa façon.]{.calibre11}
+
+[Il se replia sur lui-même. Sa nature et les circonstances le conduisirent à une vie contemplative. Il était à l'aise dans la science car il n'y trouvait pas les hommes, il n'y trouvait pas ses camarades, qui riaient de ses cheveux jaunes. Toute société humaine l'effrayait, il préférait vivre plus haut, dans la spéculation pure dans la vérité absolue. Là, il poétisait à son aise, il n'était plus embarrassé de sa personne gauche. Ces savants, ces vieux enfants aux allures timides, que l'on rencontre dans les rues, sont parfois de grands poètes.]{.calibre11}
+
+[Raillé par ses compagnons, vivant dans une tension d'esprit incessante, Daniel mit ses tendresses au plus profond de son être. Il n'avait à aimer en ce monde que cette mère inconnue qui veillait sur lui, et il l'aimait avec toute la fougue des passions uniques. À côté du mathématicien poète, il y avait en lui un amant passionné, un coeur d'autant plus ardent à se donner qu'on le repoussait.]{.calibre11}
+
+[Daniel avait donc grandi dans l'adoration de la bonne fée qui lui faisait une existence si douce. L'ombre où elle se tenait la lui rendait encore plus sainte. Il connaissait son visage pour l'avoir entrevu deux ou trois fois, et il en parlait comme d'une chose merveilleuse et sacrée.]{.calibre11}
+
+[Un jour, comme il venait de quitter le lycée, on lui dit que Mme de Rionne le mandait à Paris, près d'elle. Il faillit perdre la tête. Il allait pouvoir la contempler, la remercier, l'aimer à son aise. Le rêve extravagant de sa jeunesse se réalisait : la bonne fée, la sainte, la Providence l'admettait dans le ciel où elle vivait.]{.calibre11}
+
+[Il partit en toute hâte.]{.calibre11}
+
+[Il arriva, et il trouva Mme de Rionne dans son lit, mourante. Pendant huit jours, chaque soir, il descendit de la chambre qu'il occupait dans l'hôtel, il vint la regarder de loin, et il pleura. Il attendit ainsi le terrible dénouement, ivre de douleur, ne comprenant pas comment il se faisait que les saintes fussent mortelles.]{.calibre11}
+
+[Puis, il avait enfin pu s'agenouiller et jurer à la mourante que se dernier voeu serait accompli.]{.calibre11}
+
+[Il passa la nuit près du cadavre, en compagnie du prêtre et d'une gardienne. M. De Rionne était resté agenouillé pendant une heure ensuite, il s'était discrètement retiré.]{.calibre11}
+
+[Tandis que le prêtre priait et que la gardienne sommeillait dans un fauteuil, Daniel avait songé, les yeux secs, ne pouvant plus pleurer. Il se sentait accablé, il avait comme un grand poids dans la tête. C'était un état doux, sans amertume, comparable à cet assoupissement léger qui précède le sommeil. Il ne voyait pas nettement les objets, sa pensée lui échappait par instants. Pendant près de dix heures, une seule idée lui emplit ainsi le cerveau : il se disait que Blanche était morte, et que désormais la petite Jeanne serait la sainte qu'il aimerait, pour laquelle il se dévouerait.]{.calibre11}
+
+[Mais, sans qu'il en eût conscience, pendant cette longue nuit funèbre, il grandissait en courage, il devenait un homme. La scène terrible à laquelle il venait d'assister, le désespoir qui l'avait profondément secoué, toute cette éducation forte de la souffrance tuait-il en lui l'enfant peureux. Dans son accablement, il sentait vaguement ce travail de la douleur, il s'abandonnait à cette force qui le transformait, mûrissant en quelques heures son coeur et son intelligence.]{.calibre11}
+
+[Le matin, lorsqu'il rentra dans sa chambre, il était un homme ivre qui ne reconnaît pas son logis.]{.calibre11}
+
+[Cette chambre, étroite et longue, située sous les toits, avait une fenêtre mansardée qui s'ouvrait en plein ciel. De là, on apercevait ainsi qu'un lac de verdure, les cimes des arbres de l'Esplanade et, plus loin, à gauche, on voyait les hauteurs de Passy. La fenêtre était restée ouverte, une lumière claire emplissait la chambre.]{.calibre11}
+
+[Il faisait presque froid.]{.calibre11}
+
+[Daniel s'assit sur le bord de son lit. Il tombait de fatigue, et ne songea même pas à se coucher. Il resta ainsi longtemps, s'oubliant à regarder les meubles, se demandant parfois ce qu'il faisait là, et brusquement, se rappelant tout. Parfois, il écoutait, il était étonné de ne pas s'entendre pleurer.]{.calibre11}
+
+[Il se mit à la fenêtre. L'air lui fit du bien. Aucun bruit ne montait de l'hôtel. Il y avait, en bas, dans le petit jardin, des gens qui se hâtaient silencieusement. Sur le boulevard, les voitures roulaient, comme si la nuit n'eût rien amené de douloureux. Paris s'éveillait lentement, et un soleil pâle blanchissait les feuilles hautes.]{.calibre11}
+
+[Cette joie du ciel, cette indifférence de la ville attristèrent profondément Daniel. Il put pleurer encore. Ce fut là une crise salutaire qui allégea sa tête. Il demeura à la fenêtre, dans l'air frais, cherchant à réfléchir à ce qu'il allait faire.]{.calibre11}
+
+[Puis, il comprit qu'il ne trouverait rien de raisonnable, et il voulut s'occuper mécaniquement. Il déplaça différents objets fouilla dans sa malle, en retira des effets qu'il y remit ensuite. Sa tête le faisait moins souffrir.]{.calibre11}
+
+[Quand la nuit vint, il fut tout surpris. Il eût juré que le jour se levait à peine. Il était resté enfermé, vivant dans une pensée unique et cette longue journée de souffrance lui avait paru toute courte.]{.calibre11}
+
+[Il sortit, essaya de manger, puis voulut voir une fois encore Mme de Rionne. Il ne put entrer dans la chambre mortuaire. Alors il remonta chez lui et s'endormit d'un sommeil lourd, qui le tint comme écrasé jusqu'au lendemain, très tard.]{.calibre11}
+
+[Quand il s'éveilla, il entendit un murmure discret de voix. C'était le convoi qui allait partir. Il s'habilla en toute hâte et descendit.]{.calibre11}
+
+[Dans l'escalier, il rencontra le cercueil, que quatre hommes emportaient avec peine, et qui se plaignait sourdement à chaque heurt.]{.calibre11}
+
+[À la sortie, il y eut quelque désordre sur le boulevard. L'assistance était nombreuse, le cortège ne s'organisa que lentement.]{.calibre11}
+
+[M. De Rionne se plaça en tête, accompagné de son beau-frère. Sa soeur, une jeune femme qui promenait un regard clair sur là foule, monta dans une voiture.]{.calibre11}
+
+[Immédiatement derrière M. De Rionne, venaient les familiers de l'hôtel et les domestiques. Daniel s'était mis au milieu de ces derniers.]{.calibre11}
+
+[Puis, le reste des assistants suivait par groupes, en file irrégulière.]{.calibre11}
+
+[On arriva ainsi à Sainte-Clotilde, cette église mondaine entourée de fleurs et de verdure. La nef s'emplit, les chants commencèrent.]{.calibre11}
+
+[Daniel s'agenouilla dans un coin, près d'une chapelle. Il était calme maintenant, et il put prier. Mais il ne sut pas suivre les oraisons des prêtres ; ses lèvres restèrent muettes, sa prière ne fut qu'un élan continu et passionné de son coeur.]{.calibre11}
+
+[À un moment, sa tête tourna, et il dut sortir. Ces odeurs de cire ces longues tentures noires coupées de croix blanches ces plaintes des chantres pesaient sur lui et l'étouffaient. Dehors, il se promena lentement dans les allées sablées du petit parterre qui entoure l'église. Il s'arrêtait, par instants, il regardait les massifs de verdure, son coeur continuait son ardente prière.]{.calibre11}
+
+[Lorsque le convoi reprit sa marche, il vint se placer de nouveau parmi les domestiques. Le cortège gagna les boulevards et se dirigea vers le cimetière du Montparnasse.]{.calibre11}
+
+[La matinée était douce, le jeune soleil verdissait les premières feuilles des grands ormes. L'air limpide et frais donnait une netteté singulière aux horizons. On eût dit que les pluies de l'hiver avaient lavé la terre avec soin, et qu'elle rayonnait maintenant de fraîcheur et de propreté.]{.calibre11}
+
+[Les gens qui suivaient le corps de Mme de Rionne, dans cette gaie matinée, avaient oublié, pour la plupart, qu'ils assistaient à un enterrement. On voyait des sourires sur les visages. On eût dit des promeneurs qui s'attardaient au soleil et qui jouissaient des douceurs de la saison.]{.calibre11}
+
+[Le cortège s'avançait lentement, par groupes plus irréguliers, et on entendait les bruits inégaux des pas et le murmure croissant des conversations. Chacun causait avec son voisin de ses petites affaires, chacun s'animait peu à peu, respirant à l'aise, heureux. Daniel, les regards à terre, la tête nue, dans une douleur muette, songeait à cette mère qu'il venait de perdre, il évoquait les souvenirs de sa jeunesse, il se rappelait les plus minces détails de la nuit de mort ; et c'était là une rêverie triste et profonde où son coeur se perdait.]{.calibre11}
+
+[Et ses oreilles, malgré lui, entendaient ce que les domestiques disaient. Les paroles arrivaient jusqu'à son intelligence, brutales et nettes. Il ne voulait point écouter, et pas un mot ne lui échappait. Tandis que son pauvre être saignait, tandis qu'il se donnait tout entier au désespoir de l'adieu suprême, il était, pour ainsi dire, de moitié dans les conversations cyniques des valets de chambre et des cochers.]{.calibre11}
+
+[Derrière lui, se trouvaient deux domestiques qui discouraient avec animation. L'un tenait pour Monsieur, l'autre pour Madame.]{.calibre11}
+
+[« Bah ! disait ce dernier, la pauvre femme a bien fait de mourir. Elle doit être heureuse dans sa boîte. Monsieur lui rendait la vie dure.]{.calibre11}
+
+[--- Qu'en sais-tu ? répondait le premier, elle souriait toujours. Son mari ne la battait pas. Elle était fière et se posait en victime pour faire souffrir les autres.]{.calibre11}
+
+[--- Je sais ce que je sais. Je l'ai vue pleurer, cela faisait peine à voir. Son mari ne la battait pas, c'est vrai, mais il avait des maîtresses ; et, vois-tu, elle est sûrement morte de ce qu'il ne l'aimait plus.]{.calibre11}
+
+[--- S'il s'en allait, c'est qu'elle l'ennuyait. Elle n'était pas amusante, Madame. Je ne pourrais pas vivre avec une femme comme ça : toute petite et si sérieuse, qu'elle paraissait très grande. C'est elle, je parie, qui a fait répandre le bruit que Monsieur avait des maîtresses\... Est-ce que tu les as vues, toi, ces maîtresses ?]{.calibre11}
+
+[--- J'en ai vu une. Je lui ai remis une lettre. Une chipie blonde toute chiffonnée, dont je n'aurais pas voulu pour deux sous, tant elle était maigre. Elle m'a ri au nez, elle m'a donné des tapes dans le dos en me tutoyant, et c'est ce qui m'a fait comprendre ce qu'elle était. Puis, elle m'a dit pour toute réponse : "N'oublie pas de recommander à ton maître de ne plus m'envoyer ta bête de figure." »]{.calibre11}
+
+[L'autre domestique se mit à ricaner. Il trouvait sans doute sa chipie blonde très amusante.]{.calibre11}
+
+[« Eh bien ! Après tout, où est le mal ? reprit-il. Les gens riches, c'est fait pour avoir des maîtresses. Chez mes derniers maîtres, comme le mari sortait trop souvent, la femme avait pris un amant et toute la maison vivait contente. Pourquoi Madame, au lieu de mourir, n'en a-t-elle pas fait autant ?]{.calibre11}
+
+[--- Ça ne plaît pas à tout le monde.]{.calibre11}
+
+[--- Moi, je n'aurais pas pu aimer Madame.]{.calibre11}
+
+[--- Moi, je crois que je l'aurais aimée. Elle était très douce et avait une figure qui me revenait. En voilà une maîtresse autrement jolie que la blonde de Monsieur ! »]{.calibre11}
+
+[Daniel ne put en entendre davantage. Il se retourna brusquement et son visage irrité effraya les causeurs, qui parlèrent d'autre chose. Mais le jeune homme avait aperçu, à son côté, la face froide de Louis, le valet de chambre. Lui seul conservait une attitude décente. Il avait certainement entendu la conversation des deux domestiques et il était resté digne, les lèvres plissées légèrement par son rire mystérieux.]{.calibre11}
+
+[Daniel reprit ses tristes rêveries. Il pensait maintenant aux souffrances cachées dont Mme de Rionne lui avait parlé, et il commençait à comprendre ces souffrances. Les paroles qu'il venait d'entendre lui expliquaient ce que son innocence d'enfant lui avait rendu obscur. Et il baissait la tête, il rougissait de ces infamies, comme s'il les eût commises lui-même. Il se disait que la morte devait s'indigner dans sa bière.]{.calibre11}
+
+[Ce qui le navrait, c'était l'outrageuse liberté de parole de ces hommes. Le corps était à peine froid, on le portait en terre, et il y avait là des gens qui semblaient se plaire à le salir. Rien ne fut cruel pour lui comme de recevoir sa première leçon de vice à l'enterrement de sa bonne sainte.]{.calibre11}
+
+[Comme il pensait à ces choses, le convoi entra dans le cimetière. La famille de Rionne avait un tombeau en marbre qui simulait une chapelle gothique. Ce tombeau se trouvait placé dans un endroit où les monuments se touchaient presque, ne laissant entre eux que d'étroits sentiers.]{.calibre11}
+
+[L'assistance était loin d'être aussi nombreuse qu'à l'église. Ceux qui avaient eu le courage de venir jusque-là firent le cercle, parmi les tombes.]{.calibre11}
+
+[M. De Rionne s'approcha, et les prêtres récitèrent les dernières prières. Puis, on descendit le corps dans le caveau. Le triste mari avait éclaté en sanglots, à la vue de la petite chapelle gothique. Tout enfant, il y avait conduit son père et sa mère, et elle était restée pour lui un objet d'épouvante, auquel il songeait dans ses heures noires. Il savait que ce serait là que son corps viendrait pourrir, pensée qui lui en rendait la vue terrible.]{.calibre11}
+
+[Il eut un soupir de soulagement, lorsqu'il fut remonté en voiture. Cette funèbre cérémonie était donc finie, il allait enfin pouvoir oublier. On ne s'avoue pas ces pensées-là, mais elles sont au fond des coeurs lâches.]{.calibre11}
+
+[Les assistants s'étaient retirés, et Daniel se tenait encore debout devant le tombeau. Il voulait rester le dernier, pour être seul avec la chère morte et lui faire ses adieux, sans que la foule fût entre elle et lui. Il demeura longtemps muet, causant en lui avec l'âme de l'ange envolé.]{.calibre11}
+
+[Puis, il quitta le cimetière et rentra à l'hôtel. Il crut remarquer que le concierge le regardait d'un air singulier. On eût dit qu'il hésitait à le laisser entrer, et qu'il était sur le point de lui demander son nom, comme s'il se fût agi d'un inconnu.]{.calibre11}
+
+[Dans le petit jardin, situé entre la grille et l'hôtel, les domestiques, encore en vêtements noirs, causaient entre eux, réunis devant les écuries. Un palefrenier, qui n'avait pas assisté à l'enterrement, lavait une voiture avec une grosse éponge.]{.calibre11}
+
+[Daniel, qui, par timidité, évitait de passer par la grande allée sablée, fit un détour et s'avança vers le groupe que formaient les domestiques. À sa vue, la conversation s'arrêta brusquement, et il vit tous les regards se tourner vers lui. De méchants sourires s'étalaient sur ces faces épaisses. Ces gens ricanaient et se montraient le pauvre garçon, qui se prit à rougir sans savoir pourquoi.]{.calibre11}
+
+[À mesure qu'il s'approchait, il devinait dans le groupe une hostilité. Les deux hommes auxquels ses regards irrités avaient imposé silence, pendant l'enterrement, étaient là, au milieu de leurs camarades, et parlaient à demi-voix, excitant les autres. Au silence subit qui s'était fait, succédèrent des paroles prononcées à haute voix, sur un ton agressif.]{.calibre11}
+
+[Daniel, rouge de honte, s'arrêta, se demandant s'il ne retournerai pas en arrière. Puis, la pensée de Mme de Rionne lui vint, il marcha bravement en avant. Comme il passait, il entendit des rires ironiques, et des phrases cruelles vinrent le souffleter au visage. Chacun disait son mot.]{.calibre11}
+
+[« Voyez donc le beau page que Madame avait là !]{.calibre11}
+
+[--- Et cela a reçu de l'éducation ! Tandis que nous travaillons comme des nègres, ce va-nu-pieds vit sans rien faire.]{.calibre11}
+
+[--- Oui, il nous a fallu servir ce monsieur. Mais tout ça va finir.]{.calibre11}
+
+[--- À la porte, le mendiant ! »]{.calibre11}
+
+[Et, comme Daniel se trouvait devant l'homme qui lavait la voiture :]{.calibre11}
+
+[« Hé ! Camarade, cria cet homme, viens donc me donner un coup de main. »]{.calibre11}
+
+[Tout le groupe éclata de rire.]{.calibre11}
+
+[Daniel avait passé, frémissant. Ces hommes lui rappelaient ses compagnons de collège qui l'insultaient. Il se sentait abandonné comme autrefois, et il avait hâte de se réfugier dans la solitude. Sa sensibilité délicate était brisée par les paroles grossières de ces malheureux, qui, comptant sur l'impunité, satisfaisaient leurs basses rancunes.]{.calibre11}
+
+[Puis, l'indignation le prit, il revint et regarda les insolents en face. Ceux-ci eurent peur d'être allés trop loin, ils se turent, un peu embarrassés, prêts à ramper, s'il l'eût fallu.]{.calibre11}
+
+[Le jeune homme les tint ainsi silencieux, sous ses regards clairs et droits. Il reprit ensuite sa marche, et, se sentant presque défaillir, après cette minute d'énergie, il monta lentement l'escalier.]{.calibre11}
+
+[Au second étage, il rencontra M. De Rionne qui descendait. Il se rangea contre le mur. Le maître de la maison, qui le connaissait à peine, le regarda en se demandant ce que venait faire chez lui cet étrange garçon.]{.calibre11}
+
+[Daniel ne se méprit pas sur ce regard. Il en comprit l'interrogation muette, et, s'il ne parla pas, c'est que sa langue s'était collée à son palais, et que d'ailleurs il ne trouvait rien à dire.]{.calibre11}
+
+[M. De Rionne, qui paraissait fort troublé lui-même, ne s'arrêta pas, et Daniel se hâta de monter dans sa chambre.]{.calibre11}
+
+[Là, il se dit une vérité désolante : c'est qu'il ne pouvait rester dans l'hôtel.]{.calibre11}
+
+[Il n'avait pas songé à cela, cette pensée de départ lui fut très pénible. Il eut un rire triste en songeant que, décidément, il était bien naïf. Sa chère mère n'étant plus là, il devait être forcément jeté à la porte, s'il ne consentait à sortir de bonne grâce. Là-bas dans le jardin, il entendait encore les rires des domestiques, et une sueur froide lui mouillait les tempes. Il résolut de s'en aller tout de suite.]{.calibre11}
+
+[Songeur, il s'était assis. Il ne pensait pas à lui, il ne se demandait pas où il coucherait le soir, ni ce qu'il ferait le lendemain. Cela lui importait peu. Il avait toute l'insouciance brave de la jeunesse. Ne connaissant pas la vie, il se proposait d'aller en avant, toujours tout droit.]{.calibre11}
+
+[Mais il pensait à Jeanne, et se demandait amèrement de quel secours il lui serait, lorsqu'il aurait quitté l'hôtel. La nécessité le poussait dehors, tandis que le voeu de la morte semblait le retenir là, dans l'injure et dans la bassesse. Puis, il comprit que cela ne pouvait être : Mme de Rionne lui avait ordonné de marcher la tête haute, digne toujours. C'était elle qui lui ordonnait de partir.]{.calibre11}
+
+[Il devait s'en aller avant tout, et il chercherait ensuite les moyens d'accomplir sa tâche.]{.calibre11}
+
+[Alors, il se leva. Sa malle était ouverte, laissant voir des effets et du linge qu'il n'avait point encore eu le temps de mettre dans les armoires. La table était chargée de livres et de papiers ; et, sur un coin de la cheminée, se trouvait une bourse contenant quelque argent.]{.calibre11}
+
+[Il ne dérangea rien, ne prit rien. Les paroles des domestiques emplissaient encore ses oreilles : tous ces objets lui parurent ne pas lui appartenir. Il aurait cru commettre un vol en emportant la moindre chose.]{.calibre11}
+
+[Il sortit tranquillement, ne gardant que les vêtements qu'il avait sur lui. Il laissa la clef dans la serrure.]{.calibre11}
+
+[Comme il traversait le jardin, il aperçut la petite Jeanne, jouant sur le sable, et il ne put résister au désir de l'embrasser avant de partir. L'enfant eut peur et recula.]{.calibre11}
+
+[Alors, il lui demanda si elle le reconnaissait. Elle ne répondit pas, le regardant. Cette figure étrange qui lui souriait l'étonnait profondément, et elle cherchait sans doute à se souvenir. Puis, comme cela l'inquiétait, elle fit mine de se lever pour se sauver au plus vite.]{.calibre11}
+
+[Daniel la retint doucement.]{.calibre11}
+
+[« Puisque vous ne me reconnaissez pas, lui dit-il, regardez-moi bien. Sachez que je vous aime beaucoup, et que vous me rendrez très heureux en m'aimant un peu. Je veux être votre ami. »]{.calibre11}
+
+[Jeanne n'entendait guère ce langage grave, mais la tendresse de la voix l'avait rassurée. Elle se mit à rire.]{.calibre11}
+
+[« Il faudra toujours me reconnaître maintenant, continua Daniel en riant aussi. Je vais m'en aller, mais je reviendrai, je vous conterai mille belles choses, si vous avez été sage\... Voulez-vous m'embrasser, comme vous embrassiez votre mère ? »]{.calibre11}
+
+[Il se pencha. Mais la petite, en entendant parler de sa mère, se mit à pleurer. Elle repoussa Daniel avec une colère enfantine, et appela :]{.calibre11}
+
+[« Maman ! Maman ! » de toute la force de ses sanglots.]{.calibre11}
+
+[Le pauvre garçon demeura interdit. Comme une servante sortait de la maison, il s'éloigna, navré de quitter ainsi l'enfant au bonheur de laquelle il allait vouer sa vie entière.]{.calibre11}
+
+[Et il se trouva dans la rue, dénué de tout, ayant à accomplir une lourde tâche. Sa tendresse et son dévouement seuls le soutenaient.]{.calibre11}
+
+[Il était quatre heures du soir.]{.calibre11}

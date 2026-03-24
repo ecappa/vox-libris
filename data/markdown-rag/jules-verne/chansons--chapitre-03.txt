@@ -1,0 +1,56 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "CHANSONS"
+slug_oeuvre: "chansons"
+section: "Chapitre 03"
+slug_section: "chapitre-03"
+type: "chapitre"
+---
+
+]
+
+CHANSONS
+
+Table des chansons
+
+]
+
+## Berceuse
+Rien de plus beau dans le monde
+Et de plus pur sous le soleil,
+Cher enfant, que ton sommeil ;
+Tu penches ta tête blonde
+Et, fermant tes jolis yeux,
+Tu dors d'un air gracieux.
+Mais quel tableau dont on garde
+Un souvenir frais et doux.
+Quand ta mère te regarde
+Sommeiller sur ses genoux !
+Comme au nid tutélaire
+Du petit oiseau
+Dors enfant, dors, dors,
+Dans ce berceau,
+Formé des deux bras de ta mère.
+C'est un berceau qui te berce.
+Si quelque ennui passager
+Trouble ton sommeil léger,
+Les pleurs, qu'à ton âge on verse,
+Aussitôt sont apaisés
+Avec ses tendres baisers.
+Ce berceau n'a pas de housse,
+De dentelles, de rideaux
+Mais il sait d'une voix douce
+Chanter de charmants dodos.
+Comme au nid tutélaire...
+Puis son visage fidèle
+Guette tes moindres désirs
+Et sourit à tes plaisirs
+Et la soif entrouvre-t-elle
+Ta lèvre rose un instant,
+Un pur breuvage t'attend !
+Là, ton enfance se passe
+Sous le regard maternel
+On te nourrit, on t'embrasse,
+Dans ce berceau naturel.
+Comme au nid tutélaire...

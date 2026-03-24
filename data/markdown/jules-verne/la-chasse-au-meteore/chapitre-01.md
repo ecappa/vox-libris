@@ -1,0 +1,265 @@
+]{.calibre20}
+
+
+LA CHASSE AU MÉTÉORE
+
+
+]{.calibre20}
+
+## [[Chapitre 1 -- Dans lequel le juge John Proth remplit un des plus agréables devoirs de sa charge avant de retourner à son jardin.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942803 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_110 .calibre21}
+
+Il n\'y a aucun motif pour cacher aux lecteurs que la ville dans laquelle commence cette histoire singulière est située en Virginie, États-Unis d\'Amérique. S\'ils le veulent bien, nous appellerons cette ville Whaston, et nous la placerons dans le district oriental, sur la rive droite du Potomac ; mais il nous paraît inutile de préciser davantage les coordonnées de cette cité, que l\'on chercherait inutilement, même sur les meilleures cartes de l\'Union.
+
+Cette année-là, le 12 mars, dans la matinée, ceux des habitants de Whaston qui traversèrent Exeter street au moment convenable purent apercevoir un élégant cavalier monter et descendre la rue, qui est en forte pente, au petit pas de son cheval, puis finalement s\'arrêter sur la place de la Constitution, à peu près au centre de la ville.
+
+Ce cavalier, de pur type yankee, type qui n\'est point exempt d\'une originale distinction, ne devait pas avoir plus de trente ans. Il était d\'une taille au-dessus de la moyenne, de belle et robuste complexion, de figure régulière, brun par les cheveux et châtain par la barbe dont la pointe allongeait son visage aux lèvres soigneusement rasées. Un ample manteau le recouvrait jusqu\'aux jambes et s\'arrondissait sur la croupe du cheval. Il maniait sa monture assez fringante avec autant d\'adresse que de fermeté. Tout, dans son attitude, indiquait l\'homme d\'action, l\'homme résolu et aussi l\'homme de premier mouvement. Il ne devait jamais osciller entre le désir et la crainte, ce qui est le fait d\'un caractère hésitant. Enfin, un observateur eût constaté que son impatience naturelle ne se dissimulait qu\'imparfaitement sous une apparence de froideur.
+
+Pourquoi ce cavalier était-il céans dans une ville où nul ne le connaissait, où nul ne l\'avait jamais vu ?
+
+Se bornait-il à la traverser, ou comptait-il y rester quelque temps ? Pour trouver un hôtel, il n\'aurait eu, dans ce dernier cas, que l\'embarras du choix. On peut citer Whaston sous ce rapport. En aucun autre centre des États-Unis ou d\'ailleurs, voyageur ne rencontrerait meilleur accueil, meilleur service, meilleure table, confort aussi complet à des prix aussi modérés. Il est vraiment déplorable que les cartes indiquent avec tant d\'imprécision une ville pourvue de tels avantages.
+
+Non, cet étranger ne semblait point en disposition de séjourner à Whaston, et les engageants sourires des hôteliers n\'auraient sans doute aucune prise sur lui. L\'air absorbé, indifférent à ce qui l\'entourait, il suivait la chaussée qui dessine la périphérie de la place de la Constitution, dont un vaste terre-plein occupe le centre, sans même soupçonner qu\'il excitât la curiosité publique.
+
+Et Dieu sait pourtant si elle était excitée, la curiosité publique ! Depuis que le cavalier était apparu, patrons et gens de service échangeaient, sur le pas des portes, ces propos ou d\'autres analogues :
+
+« Par où est-il arrivé ?
+
+--- Par Exeter street.
+
+--- Et d\'où venait-il ?
+
+--- Il est entré, à ce qu\'on dit, par le faubourg de Wilcox.
+
+--- Voilà bien une demi-heure que son cheval fait le tour de la place. -- C\'est qu\'il attend quelqu\'un.
+
+--- Probable. Et même avec une certaine impatience.
+
+--- Il ne cesse de regarder du côté d\'Exeter street.
+
+--- C\'est par là qu\'on arrivera.
+
+--- Qui ça, « on » ?
+
+Il ou elle ?
+
+--- Eh ! Eh ! Il a ma foi bonne tournure !
+
+--- Un rendez-vous alors ?
+
+--- Oui, un rendez-vous\... Mais non dans le sens où vous l\'entendez. -- Qu\'en savez-vous ?
+
+--- Voilà trois fois que cet étranger s\'arrête devant la porte de Mr John Proth\...
+
+--- Or, comme Mr John Proth est juge à Whaston\...
+
+--- C\'est que ce personnage a quelque procès\...
+
+--- Et que son adversaire est en retard.
+
+--- Vous avez raison.
+
+--- Bon ! Le juge Proth les aura conciliés et réconciliés en un tour de main ! -- C\'est un habile homme.
+
+--- Et un brave homme aussi. »
+
+En vérité, il était possible que ce fût là le vrai motif de la présence de ce cavalier à Whaston. En effet, à plusieurs reprises, il avait fait halte, sans mettre pied à terre, devant la maison de Mr John Proth. Il en regardait la porte, il en regardait les fenêtres, puis il restait immobile, comme s\'il eût attendu que quelqu\'un parût sur le seuil, jusqu\'au moment où son cheval, qui piaffait d\'impatience, le contraignait à repartir.
+
+Or, comme il s\'arrêtait là une fois de plus, voici que la porte s\'ouvrit toute grande, et qu\'un homme se montra sur le palier du petit perron donnant accès au trottoir.
+
+À peine l\'étranger eut-il aperçu cet homme :
+
+« Mr John Proth, je suppose ? dit-il en soulevant son chapeau. -- Lui-même, répondit le juge.
+
+--- Une simple question qui n\'exigera qu\'un oui ou un non de votre part. -- Faites, monsieur.
+
+--- Quelqu\'un serait-il déjà venu, ce matin, vous demander Mr Seth Stanfort ?
+
+--- Pas que je sache.
+
+--- Merci. »
+
+Ce mot prononcé, son chapeau soulevé une seconde fois, le cavalier rendit la main et remonta au petit trot Exeter street.
+
+Maintenant -- ce fut l\'avis général -- il n\'y avait plus à douter que cet inconnu eût affaire à Mr John Proth. À la manière dont il venait de formuler sa question, il était lui-même Seth Stanfort, présent le premier à un rendez-vous convenu. Mais un autre problème tout aussi palpitant se posait. L\'heure dudit rendez-vous était-elle passée, et le cavalier inconnu allait-il quitter la ville pour n\'y plus revenir ?
+
+On le croira sans difficulté, puisque nous sommes en Amérique, c\'est-à-dire chez le peuple le plus parieur qui soit en ce bas monde, des paris s\'établirent touchant le retour prochain ou le départ définitif de l\'étranger. Quelques enjeux d\'un demi-dollar, ou même de cinq ou six cents, entre le personnel des hôtels et les curieux arrêtés sur la place, pas davantage, mais enfin enjeux qui seraient bel et bien payés par les perdants, et encaissés par les gagnants, tous gens des plus honorables. Quant au juge John Proth, il s\'était borné à suivre des yeux le cavalier qui remontait vers le faubourg de Wilcox. C\'était un philosophe, le juge John Proth, un sage magistrat, qui ne comptait pas moins de cinquante ans de sagesse et de philosophie, bien qu\'il ne fût âgé que d\'un demi-siècle, -- façon de dire qu\'en venant au monde, il était déjà philosophe et sage. Ajoutez à cela que, en sa qualité de célibataire, -- preuve incontestable de sagesse, -- il n\'avait jamais eu sa vie troublée par aucun souci, ce qui, on en conviendra, facilite grandement la pratique de la philosophie.
+
+Né à Whaston, il n\'avait, même en sa première jeunesse, que peu ou pas quitté Whaston, et il était aussi considéré qu\'aimé de ses justiciables qui le savaient dépourvu de toute ambition.
+
+Un sens droit le guidait. Il se montrait toujours indulgent aux faiblesses et parfois aux fautes d\'autrui. Arranger les affaires évoquées devant lui, renvoyer réconciliés les adversaires qui se présentaient à son modeste tribunal, arrondir les angles, huiler les rouages, adoucir les heurts inhérents à tout ordre social, si perfectionné qu\'il puisse être, c\'est ainsi qu\'il comprenait sa mission.
+
+John Proth jouissait d\'une certaine aisance. S\'il remplissait ces fonctions de juge, c\'était par goût, et il ne songeait point à monter à de plus hautes juridictions. Il aimait la tranquillité pour lui et pour les autres. Il considérait les hommes comme des voisins d\'existence avec lesquels on a tout intérêt à vivre en bons termes. Il se levait tôt et se couchait tôt. S\'il lisait quelques auteurs favoris de l\'Ancien et du Nouveau Monde, il se contentait d\'un brave et honnête journal de la ville, le Whaston News, où les annonces tenaient plus de place que la politique. Chaque jour, une promenade d\'une heure ou deux, pendant laquelle les chapeaux s\'usaient à le saluer, ce qui l\'obligeait pour son compte à renouveler le sien tous les trois mois. En dehors de ces promenades, sauf le temps consacré à l\'exercice de sa profession, il restait dans sa demeure paisible et confortable, et cultivait les fleurs de son jardin, qui le récompensaient de ses soins en le charmant par leurs fraîches couleurs, en lui prodiguant leurs suaves parfums.
+
+Ce caractère tracé en quelques lignes, le portrait de Mr John Proth étant placé dans son vrai cadre, on comprendra que ledit juge ne fût pas autrement préoccupé de la question posée par l\'étranger.
+
+Si celui-ci, au lieu de s\'adresser au maître de la maison, eût interrogé sa vieille servante Kate, peut-être bien que Kate eût voulu en savoir davantage. Elle aurait insisté sur ce Seth Stanfort, demandé ce qu\'il faudrait dire dans le cas où l\'on viendrait s\'enquérir de sa personne. Et sans doute même il n\'aurait pas déplu à la digne Kate d\'apprendre si l\'étranger devait ou non, soit dans la matinée, soit dans l\'après-midi revenir à la maison de Mr John Proth.
+
+Mr John Proth, lui, ne se fût pas pardonné ces curiosités, ces indiscrétions, excusables chez sa servante, puis parce qu\'elle appartenait au sexe féminin. Non, Mr John Proth ne s\'aperçut même pas que l\'arrivée, la présence, puis le départ de l\'étranger avaient été remarqués par les badauds de la place, et, après avoir refermé sa porte, il retourna donner à boire aux roses, aux iris, aux géraniums, aux résédas de son jardin.
+
+Les curieux ne l\'imitèrent point et restèrent en observation.
+
+Cependant, le cavalier s\'était avancé jusqu\'à l\'extrémité d\'Exeter street, qui dominait le côté ouest de la ville. Parvenu au faubourg de Wilcox, que cette rue réunit au centre de Whaston, il arrêta son cheval, et, sans quitter la selle, regarda tout autour de lui. De ce point, son regard pouvait s\'étendre à un bon mille aux environs, et suivre la route sinueuse descendant pendant trois milles jusqu\'à la bourgade de Steel, qui, au-delà du Potomac, profilait ses clochers sur l\'horizon. En vain son regard parcourait-il cette route. Il n\'y découvrait sans doute pas ce qu\'il cherchait. De là de vifs mouvements d\'impatience qui se transmirent au cheval, dont il fallut réprimer les piaffements.
+
+Dix minutes s\'écoulèrent, puis le cavalier, reprenant au petit pas Exeter street, se dirigea pour la cinquième fois vers la place.
+
+« Après tout, se répétait-il, non sans consulter sa montre, il n\'y a pas encore de retard\...
+
+Ce n\'est que pour dix heures sept, et il est à peine neuf heures et demie\... La distance qui sépare Whaston de Steel, d\'où elle doit venir, est égale à celle qui sépare Whaston de Brial, d\'où je suis venu, et peut être franchie en moins de vingt minutes\... La route est belle, le temps est sec, et je ne sache pas que le pont ait été emporté par une crue du fleuve\... Il n\'y aura donc ni empêchement, ni obstacle\... Dans ces conditions, si elle manque au rendez-vous, c\'est qu\'elle le voudra bien\... D\'ailleurs, l\'exactitude consiste à être là juste à l\'heure, et non à faire trop tôt acte de présence\... En réalité, c\'est moi qui suis inexact, puisque je l\'aurai devancée plus qu\'il ne convient à un homme méthodique\... Il est vrai, même à défaut de tout autre sentiment, la politesse me commandait d\'arriver le premier au rendez-vous ! »
+
+Ce monologue se poursuivit tout le temps que l\'étranger redescendit Exeter street, et il ne prit fin qu\'au moment où les sabots du cheval frappèrent de nouveau le macadam de la place.
+
+Décidément, ceux qui avaient parié pour le retour de l\'étranger gagnaient leur pari. Aussi, lorsque celui-ci passa le long des hôtels, lui firent-ils bon visage, tandis que les perdants ne le saluaient que par des haussements d\'épaules.
+
+Dix heures sonnèrent enfin à l\'horloge municipale. Son cheval arrêté, l\'étranger compta les dix coups et s\'assura que l\'horloge marchait en parfait accord avec la montre qu\'il tira de son gousset.
+
+Il ne s\'en fallait plus que de sept minutes pour que l\'heure du rendez-vous fût atteinte, puis aussitôt dépassée.
+
+Seth Stanfort revint à l\'entrée d\'Exeter street.
+
+Visiblement, ni sa monture ni lui ne pouvaient se tenir au repos.
+
+Un public assez nombreux animait alors cette rue. De ceux qui la montaient, Seth Stanfort ne se préoccupait en aucune façon. Toute son attention allait à ceux qui la descendaient, et son regard les saisissait dès qu\'ils se montraient au sommet de la pente. Exeter street est assez longue pour qu\'un piéton mette une dizaine de minutes à la parcourir, mais il n\'en faut que trois ou quatre pour une voiture marchant rapidement ou pour un cheval au trot.
+
+Or, ce n\'était point aux piétons que notre cavalier avait affaire. Il ne les voyait même pas. Son plus intime ami eût passé à pied près de lui, qu\'il ne l\'aurait pas aperçu. La personne attendue ne pouvait arriver qu\'à cheval ou en voiture.
+
+Mais arriverait-elle à l\'heure dite ? Il ne s\'en fallait plus que de trois minutes, juste le temps nécessaire pour descendre Exeter street, et aucun véhicule ne se montrait en haut de la rue, ni motocycle, ni bicyclette, non plus qu\'une automobile qui, en faisant du quatre-vingts à l\'heure, eût devancé encore l\'instant du rendez-vous.
+
+Seth Stanfort lança un dernier coup d\'oeil dans Exeter street. Ce fut un vif éclair qui jaillit de sa prunelle, tandis qu\'il murmurait sur un ton d\'inébranlable résolution :
+
+« Si elle n\'est point ici à dix heures sept, je n\'épouse pas. »
+
+Comme une réponse à cette déclaration, le galop d\'un cheval se fit entendre à ce moment vers le haut de la rue. L\'animal, une bête superbe, était monté par une jeune femme qui le maniait avec autant de grâce que de sûreté. Les passants s\'écartaient devant lui, et bien certainement il ne trouverait aucun obstacle jusqu\'à la place.
+
+Seth Stanfort reconnut celle qu\'il attendait.
+
+Son visage redevint impassible. Il ne prononça pas une seule parole, ne fit pas un geste. Après avoir rassemblé son cheval, il se rendit d\'un pas tranquille devant la maison du juge.
+
+Cela fut bien pour intriguer derechef les curieux, qui se rapprochèrent, sans que l\'étranger leur prêtât la moindre attention.
+
+Quelques secondes plus tard, la cavalière débouchait sur la place, et son cheval blanc d\'écume s\'arrêtait à deux pas de la porte.
+
+L\'étranger se découvrit et dit :
+
+[« Je salue miss Arcadia Walker\...]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+--- Et moi Mr Seth Stanfort », répondit Arcadia Walker, en s\'inclinant d\'un mouvement gracieux.
+
+On peut nous en croire, les indigènes ne perdaient pas de vue ce couple qui leur était absolument inconnu. Et ils disaient entre eux :
+
+« S\'ils sont venus pour un procès, il est à désirer que ce procès s\'arrange au profit de tous deux.
+
+--- Il s\'arrangera, ou Mr Proth ne serait pas l\'habile homme qu\'il est !
+
+--- Et si ni l\'un ni l\'autre ne sont mariés, le mieux serait que cela finît par un mariage ! »
+
+Ainsi allaient les langues, ainsi s\'échangeaient les propos.
+
+Mais ni Seth Stanfort ni miss Arcadia Walker ne semblaient se préoccuper de la curiosité plutôt gênante dont ils étaient l\'objet.
+
+Seth Stanfort se préparait à descendre de cheval pour frapper à la porte de Mr John Proth, lorsque cette porte s\'ouvrit.
+
+Mr John Proth apparut sur le seuil, et la vieille servante Kate, cette fois, se montra derrière lui.
+
+Ils avaient entendu un piétinement de chevaux devant la maison et, celui-là quittant son jardin, celle-ci quittant sa cuisine, voulu savoir ce qui se passait.
+
+Seth Stanfort resta donc en selle, et, s\'adressant au magistrat :
+
+« Monsieur le juge John Proth, dit-il, je suis Mr Seth Stanfort, de Boston, Massachusetts.
+
+--- Très heureux de faire votre connaissance, Mr Seth Stanfort !
+
+--- Et voici miss Arcadia Walker, de Trenton, New-Jersey.
+
+--- Très honoré de me trouver en présence de miss Arcadia Walker ! »
+
+Et Mr John Proth, après avoir observé l\'étranger, reporta toute son attention sur l\'étrangère.
+
+Miss Arcadia Walker étant une charmante personne, on nous saura gré d\'en donner un rapide crayon. Son âge, vingt-quatre ans ; ses yeux, d\'un bleu pâle ; ses cheveux, d\'un châtain foncé ; son teint, d\'une fraîcheur que le hâle du grand air altérait à peine ; ses dents, d\'une blancheur et d\'une régularité parfaites ; sa taille, un peu supérieure à la moyenne ; sa tournure, ravissante ; sa démarche, d\'une rare élégance, souple et nerveuse à la fois. Sous l\'amazone dont elle était revêtue, elle se prêtait gracieusement aux mouvements de son cheval, qui piaffait à l\'exemple de celui de Seth Stanfort. Ses mains finement gantées jouaient avec les rênes, et un connaisseur eût deviné en elle une habile écuyère. Toute sa personne était empreinte d\'une extrême distinction, avec un « je ne sais quoi » de particulier à la haute classe de l\'Union, ce que l\'on pourrait appeler l\'aristocratie américaine, si ce mot ne jurait pas avec les instincts démocratiques des natifs du Nouveau Monde.
+
+Miss Arcadia Walker, originaire du New-Jersey, n\'ayant plus que des parents éloignés, libre de ses actions, indépendante par sa fortune, douée de l\'esprit aventureux des jeunes Américaines, menait une existence conforme à ses goûts.
+
+Voyageant depuis plusieurs années déjà, ayant visité les principales contrées de l\'Europe, elle était au courant de ce qui se faisait et se disait à Paris, à Londres, à Berlin, à Vienne ou à Rome. Et, ce qu\'elle avait entendu ou vu au cours de ses incessantes pérégrinations, elle pouvait en parler avec des Français, des Anglais, des Allemands, des Italiens dans leur propre langue. C\'était une personne instruite, dont l\'éducation, dirigée par un tuteur aujourd\'hui disparu de ce monde, avait été particulièrement soignée. La pratique des affaires ne lui manquait même pas, et elle faisait preuve dans l\'administration de sa fortune d\'une remarquable entente de ses intérêts.
+
+Ce qui vient d\'être dit de miss Arcadia Walker se fût appliqué symétriquement -- c\'est le mot juste -- à Mr Seth Stanfort. Libre aussi, riche aussi, aimant aussi les voyages, ayant couru le monde entier, il ne résidait guère à Boston, sa ville natale. L\'hiver, il était l\'hôte de l\'Ancien Continent et des grandes capitales, où il avait souvent rencontré son aventureuse compatriote. L\'été, il revenait dans son pays d\'origine, vers les plages où se réunissent en famille les Yankees opulents. Là, miss Arcadia Walker et lui s\'étaient encore retrouvés.
+
+Les mêmes goûts avaient peu à peu rapproché ces deux êtres jeunes et vaillants, que les curieux et surtout les curieuses de la place estimaient si bien faits l\'un pour l\'autre. Et, en vérité, tous deux avides de voyages, tous deux ayant hâte de se transporter là où quelque incident de la vie politique ou militaire excitait l\'attention publique, comment ne se seraient-ils pas convenus ? On ne saurait donc s\'étonner que Mr Seth Stanfort et miss Arcadia Walker en fussent peu à peu venus à l\'idée d\'unir leurs existences, ce qui ne changerait rien à leurs habitudes.
+
+Ce ne seraient plus deux bâtiments marchant de conserve, mais un seul et, on peut le croire, supérieurement construit, gréé, aménagé pour courir toutes les mers du globe.
+
+Non ! Ce n\'était point un procès, une discussion, le règlement de quelque affaire, qui amenait Seth Stanfort et miss Arcadia Walker devant le juge de cette ville. Non ! Après avoir rempli toutes les formalités légales devant les autorités compétentes du Massachusetts et du New-Jersey, ils s\'étaient donné rendez-vous à Whaston, ce jour même, 12 mars, à cette heure même, dix heures sept, pour accomplir un acte qui, au dire des amateurs, est le plus important de la vie humaine.
+
+La présentation de Mr Seth Stanfort et de miss Arcadia Walker au juge ayant été faite ainsi qu\'il vient d\'être rapporté, Mr John Proth n\'eut plus qu\'à demander au voyageur et à la voyageuse pour quel motif ils comparaissaient devant lui.
+
+« Seth Stanfort désire devenir le mari de miss Arcadia Walker, répondit l\'un.
+
+--- Et miss Arcadia Walker désire devenir la femme de Mr Seth Stanfort », ajouta l\'autre.
+
+Le magistrat s\'inclina en disant :
+
+« Je suis à votre disposition, Mr Stanfort, et à la vôtre, miss Arcadia Walker. »
+
+Les deux jeunes gens s\'inclinèrent à leur tour.
+
+« Quand vous conviendra-t-il qu\'il soit procédé à ce mariage ? reprit Mr John Proth.
+
+--- Immédiatement\... Si vous êtes libre, répondit Seth Stanfort.
+
+--- Car nous quitterons Whaston dès que je serai Mrs Stanfort », déclara miss Arcadia Walker.
+
+Mr John Proth indiqua, par son attitude, combien lui, et toute la cité avec lui, regrettaient de ne pouvoir garder plus longtemps dans les murs de Whaston ce couple charmant, qui honorait en ce moment la ville de sa présence.
+
+Puis il ajouta :
+
+« Je suis entièrement à vos ordres », en reculant de quelques pas, afin de dégager la porte.
+
+Mais Mr Seth Stanfort l\'arrêta du geste.
+
+« Est-il bien nécessaire, demanda-t-il, que miss Arcadia et moi nous descendions de cheval ? »
+
+Mr John Proth réfléchit un instant.
+
+« Aucunement, affirma-t-il. On peut se marier à cheval aussi bien qu\'à pied. »
+
+Il eût été difficile de rencontrer un magistrat plus accommodant, même en cet original pays d\'Amérique.
+
+« Une seule question, reprit Mr John Proth. Toutes les formalités imposées par la loi sont-elles remplies ?
+
+--- Elles le sont », répondit Seth Stanfort.
+
+Et il tendit au juge un double permis en bonne et due forme, qui avait été rédigé par les greffes de Boston et de Trenton, après acquittement des droits de licence.
+
+Mr John Proth prit les papiers, mit sur son nez des lunettes à monture d\'or, et lut attentivement ces pièces régulièrement légalisées et revêtues du timbre officiel.
+
+« Ces papiers sont en règle, dit-il, et je suis prêt à vous délivrer le certificat de mariage. »
+
+Qu\'on ne soit pas étonné si les curieux, dont le nombre s\'était accru, se pressaient autour du couple, comme autant de témoins d\'une union célébrée dans des conditions qui paraîtraient un peu extraordinaires en tout autre pays. Mais ce n\'était ni pour gêner les deux fiancés, ni pour leur déplaire. Mr John Proth remonta alors les premières marches de son perron, et, d\'une voix qui fut entendue de tous, il dit :
+
+« Mr Seth Stanfort, vous consentez à prendre pour femme miss Arcadia Walker ?
+
+--- Oui.
+
+--- Miss Arcadia Walker, vous consentez à prendre pour mari Mr Seth Stanfort ?
+
+--- Oui. »
+
+Le magistrat se recueillit pendant quelques secondes, et, sérieux comme un photographe au moment du sacramentel : « ne bougeons plus ! » prononça :
+
+« Au nom de la loi, Mr Seth Stanfort, de Boston, et miss Arcadia Walker, de Trenton, je vous déclare unis par le mariage. »
+
+Les deux époux se rapprochèrent et se prirent la main, comme pour sceller l\'acte qu\'ils venaient d\'accomplir.
+
+Puis chacun d\'eux présenta au juge un billet de cinq cents dollars. « Pour honoraires, dit Mr Seth Stanfort.
+
+--- Pour les pauvres », dit Mrs Arcadia Stanfort.
+
+Et tous deux, après s\'être inclinés devant le juge, rendirent les rênes à leurs chevaux, qui s\'élancèrent dans la direction du faubourg de Wilcox.
+
+« Ah bien ! Ah bien ! fit Kate, paralysée à ce point par la surprise, qu\'elle en était exceptionnellement restée dix minutes sans parler.
+
+--- Qu\'est-ce à dire, Kate ? » interrogea Mr John Proth.
+
+La vieille Kate lâcha le coin de son tablier qu\'elle tordait depuis un instant comme un cordier de profession.
+
+« M\'est avis, dit-elle, qu\'ils sont fous, ces gens-là, monsieur le juge.
+
+--- Sans doute, vénérable Kate, sans doute, approuva Mr John Proth en saisissant de nouveau son pacifique arrosoir. Mais quoi d\'étonnant à cela ? Ceux qui se marient ne sont-ils pas toujours un peu fous ? »

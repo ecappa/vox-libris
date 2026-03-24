@@ -1,0 +1,204 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "POT-BOUILLE",
+  "slug": "pot-bouille",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 216,
+      "spine_end_exclusive": 217,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_215.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 217,
+      "spine_end_exclusive": 218,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_216.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 218,
+      "spine_end_exclusive": 219,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_217.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 219,
+      "spine_end_exclusive": 220,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_218.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 220,
+      "spine_end_exclusive": 221,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_219.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 221,
+      "spine_end_exclusive": 222,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_220.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 222,
+      "spine_end_exclusive": 223,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_221.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 223,
+      "spine_end_exclusive": 224,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_222.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 224,
+      "spine_end_exclusive": 225,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_223.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 225,
+      "spine_end_exclusive": 226,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_224.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 226,
+      "spine_end_exclusive": 227,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_225.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 227,
+      "spine_end_exclusive": 228,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_226.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 228,
+      "spine_end_exclusive": 229,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_227.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 229,
+      "spine_end_exclusive": 230,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_228.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 230,
+      "spine_end_exclusive": 231,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_229.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XV",
+      "slug": "xv",
+      "spine_start": 231,
+      "spine_end_exclusive": 232,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_230.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVI",
+      "slug": "xvi",
+      "spine_start": 232,
+      "spine_end_exclusive": 233,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_231.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVII",
+      "slug": "xvii",
+      "spine_start": 233,
+      "spine_end_exclusive": 234,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_232.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVIII",
+      "slug": "xviii",
+      "spine_start": 234,
+      "spine_end_exclusive": 236,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_233.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_234.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/pot-bouille/Zola1_image026.jpg"
+  ]
+}

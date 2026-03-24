@@ -1,0 +1,122 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE BOUTON DE ROSE",
+  "slug": "le-bouton-de-rose",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 937,
+      "spine_end_exclusive": 938,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_099.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 938,
+      "spine_end_exclusive": 939,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_100.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Personnages",
+      "slug": "personnages",
+      "spine_start": 939,
+      "spine_end_exclusive": 941,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_101.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_102.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte I",
+      "slug": "acte-i",
+      "spine_start": 941,
+      "spine_end_exclusive": 956,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_103.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_104.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_105.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_106.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_107.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_108.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_109.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_110.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_111.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_112.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_113.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_114.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_115.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_116.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_117.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte II",
+      "slug": "acte-ii",
+      "spine_start": 956,
+      "spine_end_exclusive": 975,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_118.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_119.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_120.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_121.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_122.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_123.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_124.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_125.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_126.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_127.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_128.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_129.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_130.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_131.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_132.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_133.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_134.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_135.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_136.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte III",
+      "slug": "acte-iii",
+      "spine_start": 975,
+      "spine_end_exclusive": 990,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_137.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_138.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_139.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_140.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_141.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_142.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_143.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_144.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_145.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_146.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_147.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_148.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_149.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_150.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_151.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-bouton-de-rose/Zola3_image014.jpg",
+    "images/emile-zola/le-bouton-de-rose/Zola3_image015.jpg",
+    "images/emile-zola/le-bouton-de-rose/Zola3_image016.jpg"
+  ]
+}

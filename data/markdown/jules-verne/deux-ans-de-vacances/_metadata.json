@@ -1,0 +1,352 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "DEUX ANS DE VACANCES",
+  "slug": "deux-ans-de-vacances",
+  "nombre_chapitres": 31,
+  "structure": [
+    {
+      "title": "Préface de l'auteur",
+      "slug": "preface-de-lauteur",
+      "is_part": false,
+      "spine_start": 1269,
+      "spine_end_exclusive": 1270,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_325.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 1270,
+      "spine_end_exclusive": 1271,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_326.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 1271,
+      "spine_end_exclusive": 1272,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_328.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 1272,
+      "spine_end_exclusive": 1273,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_330.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 1273,
+      "spine_end_exclusive": 1274,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_332.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 1274,
+      "spine_end_exclusive": 1275,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_334.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 1275,
+      "spine_end_exclusive": 1276,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_336.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 1276,
+      "spine_end_exclusive": 1277,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_338.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 1277,
+      "spine_end_exclusive": 1278,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_340.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 1278,
+      "spine_end_exclusive": 1279,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_342.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 1279,
+      "spine_end_exclusive": 1280,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_344.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 1280,
+      "spine_end_exclusive": 1281,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_346.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 1281,
+      "spine_end_exclusive": 1282,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_348.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 1282,
+      "spine_end_exclusive": 1283,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_350.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 1283,
+      "spine_end_exclusive": 1284,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_352.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 1284,
+      "spine_end_exclusive": 1285,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_354.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16",
+      "slug": "chapitre-16",
+      "is_part": false,
+      "spine_start": 1285,
+      "spine_end_exclusive": 1286,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_356.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17",
+      "slug": "chapitre-17",
+      "is_part": false,
+      "spine_start": 1286,
+      "spine_end_exclusive": 1287,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_358.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18",
+      "slug": "chapitre-18",
+      "is_part": false,
+      "spine_start": 1287,
+      "spine_end_exclusive": 1288,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_360.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19",
+      "slug": "chapitre-19",
+      "is_part": false,
+      "spine_start": 1288,
+      "spine_end_exclusive": 1289,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_362.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20",
+      "slug": "chapitre-20",
+      "is_part": false,
+      "spine_start": 1289,
+      "spine_end_exclusive": 1290,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_364.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21",
+      "slug": "chapitre-21",
+      "is_part": false,
+      "spine_start": 1290,
+      "spine_end_exclusive": 1291,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_366.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22",
+      "slug": "chapitre-22",
+      "is_part": false,
+      "spine_start": 1291,
+      "spine_end_exclusive": 1292,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_368.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23",
+      "slug": "chapitre-23",
+      "is_part": false,
+      "spine_start": 1292,
+      "spine_end_exclusive": 1293,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_370.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24",
+      "slug": "chapitre-24",
+      "is_part": false,
+      "spine_start": 1293,
+      "spine_end_exclusive": 1294,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_372.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25",
+      "slug": "chapitre-25",
+      "is_part": false,
+      "spine_start": 1294,
+      "spine_end_exclusive": 1295,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_374.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26",
+      "slug": "chapitre-26",
+      "is_part": false,
+      "spine_start": 1295,
+      "spine_end_exclusive": 1296,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_376.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27",
+      "slug": "chapitre-27",
+      "is_part": false,
+      "spine_start": 1296,
+      "spine_end_exclusive": 1297,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_378.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28",
+      "slug": "chapitre-28",
+      "is_part": false,
+      "spine_start": 1297,
+      "spine_end_exclusive": 1298,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_380.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 29",
+      "slug": "chapitre-29",
+      "is_part": false,
+      "spine_start": 1298,
+      "spine_end_exclusive": 1299,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_382.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 30",
+      "slug": "chapitre-30",
+      "is_part": false,
+      "spine_start": 1299,
+      "spine_end_exclusive": 1300,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_384.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

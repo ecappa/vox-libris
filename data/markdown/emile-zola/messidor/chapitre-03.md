@@ -1,0 +1,326 @@
+::: WordSection
+*[
+]{.calibre40}*
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909139 .pcalibre .calibre2 .pcalibre1}[Acte II]{#_Toc368909079 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_22 .calibre33}
+
+!{#Image644 .calibre54}
+
+Décor de Messidor
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909140 .pcalibre .calibre2 .pcalibre1}[Scène I]{#_Toc368909080 .pcalibre .calibre2 .pcalibre1} {#scène-i .calibre42 .sigil_not_in_toc}
+
+
+GUILLAUME
+
+**
+GUILLAUME**, *posant à terre un sac de semence qu\'il apporte sur l\'épaule.*
+L\'automne est venu, les dernières feuilles volent au souffle humide du vent, et voici novembre, avec ses brames, qui ramène l\'époque des grandes semailles. Âh ! si la pluie tombait, si la terre enfin, épaissie et forte, se gonflait de vie !
+Demain, au lever du soleil, je serai là, j\'ensemencerai une fois encore ce champ de cailloux, cette terre stérile que mon travail s\'entête à féconder\... Et que de peine toujours ! et quel besoin d\'éternel espoir !
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909141 .pcalibre .calibre2 .pcalibre1}[Scène II]{#_Toc368909081 .pcalibre .calibre2 .pcalibre1} {#scène-ii .calibre42 .sigil_not_in_toc}
+
+
+GUILLAUME, LE BERGER
+
+[
+**LE BERGER**.
+Salut, Guillaume !
+**GUILLAUME**.
+Ah ! c\'est toi, berger ! Te voilà descendu de la montagne.
+**LE BERGER**.
+Oui, je suis rentré ce matin, avec les bêtes, au village. Là-haut, sur les sommets, le vent devient dur, la tempête souffle déjà des rafales de neige. Et les troupeaux, sous la rudesse du ciel, ne trouveraient plus leur vie ; et leur gardien les a ramenés dans les étables.
+**GUILLAUME**.
+Heureux de rentrer, lui aussi, n\'est-ce pas ?
+**LE BERGER**.
+Oh ! non. On est bien, là-haut, tout seul avec les bétes, pendant des jours et des jours, à ne parler avec personne, à respirer un air que personne ne respire.
+**GUILLAUME**.
+Mais tu ne fais rien, ne t\'ennuies-tu pas ?
+**LE BERGER**.
+Jamais ! Je conduis mon troupeau, je regarde à mes pieds se dérouler les plaines sans bornes, je regarde au-dessus de ma tête, à l'infini, les nuages passer ; et c\'est un rêve, une besogne que jamais je n\'épuise.
+Puis, quand je redescends, quelles tristesses parmi vous ! Tout va mal ici. Depuis ce matin, je n\'entends que des plaintes et des colères. La misère a grandi, la faim est venue, la révolte va gronder. N\'est-ce point dans cette clairière que les hommes se sont donné rendez-vous, pour causer et s\'entendre ?
+**GUILLAUME**.
+Oui, tout à l\'heure, à la nuit, nous devons nous réunir. Mathias a eu cette idée.
+**LE BERGER**
+Ah ! lamentable troupeau, toujours souffrant et affamé, toujours en lutte pour la vie ! On m\'a dit que, chez la Dorothée, qui se meurt, l\'enfant n\'avait pas mangé depuis hier\... (Uéicnc paraît danslefond.) Et, tiens ! voici la demoiselle de l\'usine qui se rend chez la pauvre femme\... Le rendez-vous est dans cette clairière. Je reviendrai.]{lang="EN-US"}
+
+[(Il s\'en va. --- Hélène, en voyant que Guillaume reste seul, s\'est arrêtée.)]{lang="EN-US"}
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909142 .pcalibre .calibre2 .pcalibre1}[Scène III]{#_Toc368909082 .pcalibre .calibre2 .pcalibre1} {#scène-iii .calibre42 .sigil_not_in_toc}
+
+[
+GUILLAUME, HÉLÈNE]{lang="EN-US"}
+
+**GUILLAUME**, *à part.*
+Elle, ô mon Dieu ! elle que je n\'ose plus aborder, depuis l'affreuse accusation !
+**HÉLÈNE**, *à part.*
+Ah ! la misère d\'être riche ! le doute affreux qui ronge tout ! L\'aimer comme je l\'aime, et ne pas savoir si, sans ma fortune, il m\'aimerait !\... *(Doucement.)*Guillaume\...
+**GUILLAUME**, *sans l\'entendre, à part.*
+Son père aurait tué le mien. Non, non ! c\'est un cauchemar atroce !
+**HÉLÈNE**, *doucement.*
+Guillaume\...
+**GUILLAUME**.
+Elle m\'appelle, rien ne doit, rien ne peut nous séparer\... *(Il la rejoint.)* Hélène\..., Hélène\..., Hélène\...
+**HÉLÈNE**.
+Qu\'avez-vous ? pourquoi vous écartez-vous, depuis le jour où la soif m\'a forcée d\'entrer dans votre demeure ?
+**GUILLAUME**.
+Mais rien ! je n\'ai rien, je vous le jure ! Des mauvais rêves, des choses qu\'on ne peut même dire\... Plus rien n\'existe, et nous voilà, et il n\'y a que nous deux !
+**HÉLÈNE**, *souriant, répétant.*
+Il n\'y a que nous deux !
+**GUILLAUME**.
+Te souviens-tu, Hélène ? Autrefois, à seize ans, nous allions en camarades, au milieu des roches, manger des myrtilles en juillet et des mûres en septembre. Ah ! les grands festins, où nos bouches rieuses se rencontraient, mordant au même fruit, dans un baiser !
+**HÉLÈNE**.
+Un jour que nous avions trouvé des framboises, nous avons dressé la table sur une pierre blanche. Et ce fut ce jour-là, après avoir bu à la source, que nous nous sommes embrassés, en nous jurant de nous aimer toujours.
+**GUILLAUME**.
+Toujours, toujours ! Il n\'est par le monde qu\'une femme.
+**HÉLÈNE**.
+Il n\'est qu\'un homme par le monde.
+**GUILLAUME**.
+Avec toi seule, je serai fort, je serai bon, je serai grand.
+**HÉLÈNE**.
+Toi seul feras de moi l\'épouse heureuse, la mère féconde.
+**GUILLAUME**.
+Oui, cela doit être pour que l\'éternelle vie triomphe.
+**HÉLÈNE**.
+Et pour que l'amour donne sa vivante moisson de bonheur.
+**GUILLAUME**, *la prenant dans tes bras.*
+Ah ! chère épouse, je t\'aime depuis que mon coeur bat, je t\'aime parce que tu es l\'unique, la prédestinée, l\'adorée, je t\'aime pour que naissent de nous d\'autres amours et d\'autres joies, éternellement !
+**HÉLÈNE**, *passionnée.*
+Je t\'aime, cher époux, ah ! je t\'aime de tout mon être qui s\'est créé de loi, je t\'aime afin que tu m\'aimes plus encore et que je vive, je t\'aime comme je respire, de toute ma santé et de tout mon espoir !
+
+*(Ils se baisent au visage, puis se séparent.)*
+**GUILLAUME**.
+Il faut en finir, il faut nous marier.
+**HÉLÈNE**, *sortant comme d'un rêve.\*
+Nous marier... Oui..., oui, nous marier.
+**GUILLAUME**.
+J'irai, je parlerai, il faudra bien qu'on nous marie.
+**
+HÉLÈNE**, *gagnée par le doute et l'angoisse.***\**
+Nous marier, nous marier... Tous sont venus déjà. Tous se coudoient, se ruent à ma porte, veulent aussi se marier.**
+GUILLAUME**.
+Ils n'aiment que ton or... Moi, je t'aime.
+**HÉLÈNE**.
+Tu m'aimes, tu m'aimes... *(Éclatant en larmes)* Ah ! cet or est maudit, qui me gâte jusqu'à mon amour !
+*(Véronique paraît dans le fond et écoute)*
+**
+GUILLAUME**, *frémissant.***\**
+Mais tu sais que c'est toi seule que je veux, toi pauvre, toi les mains vides et douces, telle que te voilà... Tu ne doutes pas de moi ?**
+HÉLÈNE**, *désespérée, en proie au doute.***\**
+Si, je doute de toi, comme je doute des autres... Est-ce que je puis savoir, lorsque je ne rencontre que cupidité et que mensonge ?**
+GUILLAUME**, *éperdu.*
+Hélène, vous doutez de moi !
+**
+HÉLÈNE**.
+L\'or nous sépare\... Moi riche, vous pauvre, ah ! quelle serait peut-être notre souffrance un jour !
+**
+GUILLAUME**, *dans un cri.*
+Et c\'est fini, alors, fini, ô Dieu de bonté, ô Dieu de douleur !
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909143 .pcalibre .calibre2 .pcalibre1}[Scène IV]{#_Toc368909083 .pcalibre .calibre2 .pcalibre1} {#scène-iv .calibre42 .sigil_not_in_toc}
+
+
+GUILLAUME, HÉLÈNE, VÉRONIQUE
+
+**VÉRONIQUE**, *s\'avançant.*
+Mon fils, tu m\'as désobéi. Tu as oublié la mort affreuse de ton père, et c\'est la punition\... Vas-tu la vouloir encore, lorsqu\'elle ne veut plus de toi ?
+**HÉLÈNE**, *à demi-voix, défaillante.*
+Ne pas vouloir de lui, ô Seigneur !
+**GUILLAUME**.
+Vous entendez, Hélène\... C\'est notre malheur à tous deux, que vous faites.
+**HÉLÈNE**, *désespérée.*
+Vous me torturez. J\'ai l\'âme pleine de combats et d\'amertume\... Laissez-moi. Je vais chez une pauvre femme mourante. L\'or n\'a que cette divine consolation, il fait de la bonté, il soulage. *(Elle s\'éloigne.)*
+**GUILLAUME**, *la retenant.*
+Hélène, par pitié, donnez-moi un espoir.
+**HÉLÈNE**.
+Priez Dieu que je sois pauvre ! *(Elle s\'en va.)*
+**GUILLAUME**.
+Oh ! mère, j\'en mourrai ! *(Il se laisse tomber aux pieds de sa mère, qui s\'est assise sur un tronc d\'arbre abattu.)*
+**VÉRONIQUE**.
+Mon pauvre enfant !\... C\'est le sang de ton père qui vous sépare.
+**GUILLAUME**, *sangIotant.*
+Non, non ! je l'aime trop, je souffre trop, je ne puis renoncer à elle. Ah ! si vous saviez comme mon triste coeur se déchire !\... Elle est à moi, je la veux, et pour l'avoir je bouleverserais le monde !
+*(Il reste près de sa mère, sur le tronc d\'arbre. Mathias entre, suivi d\'un flot d\'ouvriers et d\'ouvrières. La nuit se fait peu à peu.)*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909144 .pcalibre .calibre2 .pcalibre1}[Scène V]{#_Toc368909084 .pcalibre .calibre2 .pcalibre1} {#scène-v .calibre42 .sigil_not_in_toc}
+
+GUILLAUME, VÉRONIQUE, MATHIAS, LE BERGER, OUVRIERS et OUVRIÈRES
+
+**MATHIAS**.
+Camarades ! camarades !\... C\'est dans cette clairière que le rendez-vous est donné. Arrivez, arrivez tous, tous ! les hommes, les femmes, les enfants ! Et, quand tous les travailleurs du pays seront là, on pourra causer !
+*(Par groupes, les ouvriers arrivent toujours. La scène finit par s\'emplir d\'une grande foule, dans les demi-ténèbres.)*
+**VÉRONIQUE**, *à Mathias, qui s\'est approché.*
+A quoi bon déranger ces pauvres gens ? Est-ce que Dieu ne suffit pas ?
+**MATHIAS**, *ricanant.*
+Dieu ou le Diable, j\'aime mieux l\'aider\... *(à Guillaume.)* Vas-tu donc rester à l\'écart ? Il faut que tu parles.
+**GUILLAUME**.
+Non, laisse-moi. Mon malheur passe celui des pauvres qui ont faim. Et que m\'importe la misère des autres !
+**MATHIAS**, *debout sur un tronc d\'arbre abattu, retenant sa voix.*
+Camarades !\... Ici, nous sommes chez nous, parmi ces vieux arbres que nos pères ont vu grandir. Et j'ai voulu que la nuit fût tombée. La forêt sommeille, l\'ombre nous cache à tous les yeux. Baissons la voix, pour que les oiseaux de nuit eux-mêmes ne puissent nous entendre.
+**LA FOULE**, *voix diverses, étouffées.*
+Oui, oui, parle, nous t\'écoutons\... Il faut en finir, la misère est trop grande.
+**MATHIAS**, *continuant de même.*
+La misère, elle est partout. Je l'ai vue dans les villes et je la retrouve ici\... Tenez ! elle vient encore de faire une victime. Depuis hier, la Dorothée agonisait. Et elle est morte\... Écoutez ! *(On entend le glas de la cloche, qui, dès lors, continue.)*
+**LA FOULE**, *les voix toujours étouffées.*
+Ah ! une encore, une des nôtres qui s\'en va\... Non, non ! c\'est trop, il faut en finir !
+**MATHIAS**, *continuant de même.*
+Eh bien ! vous savez où est le coupable. Gaspard, en créant son usine, a ruiné tout le pays. Et c\'est l\'usine qui est le monstre dévorant.
+**LA FOULE**, *les voix s\'élèvent peu à peu.*
+Il parle bien, il dit vrai\... L\'usine a tari le torrent, ne nous a laissé que les cailloux\... Justice ! justice !
+**MATHIAS**.
+Silence, silence !\... A quoi bon donner l'éveil au maître qui dort ?\... Doucement, parlez doucement.
+(Peu à peu, le cri de la foule s\'éteint en un grondement désespéré.)
+**LE BERGER**, *sur le tronc d\'arbre.*
+Mes amis, mes amis\... *(Il obtient le silence.)* Je suis le gardien et le solitaire. Je redescends de très loin, de très haut, avec mes bêtes. Et je ne comprends pas, et je redoute la colère brusque qui vous emporte\... La souffrance, ah ! grand Dieu ! elle est éternelle comme le monde, et il faut la combattre d\'un coeur vaillant d\'homme juste\... *(Montrant Mathias.)* Mais pourquoi donc écoutez-vous celui-ci, qui n\'est plus des nôtres, qui nous rapporte des villes lointaines d\'abominables rancunes ?
+**LA FOULE**, *grondements épars.*
+C\'est vrai, c\'est vrai\... Il a disparu pendant cinq ans, il nous trompe peut-être\... Assez, assez ! Qu\'il se taise !
+**MATHIAS**, *à Guillaume, amèrement.*
+Tu les entends, ils me renient\... Laisseras-tu triompher ton ennemi ?
+**GUILLAUME**, *se levant.*
+Ah ! tu as raison ! c\'est l\'or qui exaspère tous les maux !\... *(Il monte sur une roche. La lune, qui s\'est levée, l\'éclaire d\'une grande clarté pâle.)* Mes amis, vous me connaissez, moi !
+**LA FOULE**.
+Oui, oui ! Nous t\'aimons tous. Parle, nous t\'obéirons.
+**GUILLAUME**, *exalté.*
+C\'est la passion de l\'or qui nous a tous changés en loups, les dévorants, les affamés, les misérables gens que nous sommes\... Rappelez-vous, le pays vivait dans le travail, dans la tendresse et dans la joie ; et, depuis que Gaspard a voulu être le plus riche, le seul riche, il n\'y a que haine, que souffrance et que larmes\... Prenez donc des bâtons, et que l'usine soit détruite, et que la poussière en soit semée aux quatre vents du ciel !
+**VÉRONIQUE**, *au milieu.*
+Non, non, patientez ! Vous ne pouvez rien, le destin seul est le maître.
+Vous le savez, pourtant, la source de l'or est là-bas, au fond de la montagne, tombant des petites mains de l\'Enfant Jésus, en éternelle pluie. Et vos pères vous l'ont conté, tout croulera, l\'or disparaîtra, le jour où un être humain pénétrera dans la cathédrale d\'or.
+Patientez donc. Toute cette nuit, je vais gravir les rocs, descendre dans les gouffres. Et je la chercherai, je la trouverai, et tout croulera, l\'or disparaîtra, et il n\'y aura plus d\'or ! *(Elle traverse la foule, se perd au loin, parmi les rochers, sous la lune.)*
+**GUILLAUME**, *à la foule.*
+Nous autres, mes amis, nous agirons. Toujours patienter, toujours supplier, ce serait lâche\... Nous ferons justice.
+**LA FOULE**, *violemment, à toute voix.*
+Oui, oui ! avec toi, quand tu voudras, où tu voudras ! Justice ! justice !
+**MATHIAS**, *les apaisant.*
+Plus bas, plus bas, doucement ! Ne réveillez pas le maître\...On marchera, quand l'occasion sera propice\... Allez, maintenant, dispersons-nous\... Allez.
+*(La foule s'est peu à peu calmée, et elle s\'écoule avec lenteur, dans un dernier murmure. Guillaume reste seul.)*
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+[MESSIDOR]{lang="EN-GB"}
+
+ACTE II
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909145 .pcalibre .calibre2 .pcalibre1}[Scène VI]{#_Toc368909085 .pcalibre .calibre2 .pcalibre1} {#scène-vi .calibre42 .sigil_not_in_toc}
+
+
+GUILLAUME
+
+**GUILLAUME**.
+Mon âme est pleine de trouble et de violence. Je souffrais tant, j\'ai cédé à la juste colère. 0 ma pauvre âme, calme-toi ! La nuit est si belle et si pure, la lune silencieuse est d\'une si tranquille douceur ! On dirait le plein jour, une aube nouvelle de paix et d\'espoir.
+Ah ! le jeune espoir, l\'espoir invincible et renaissant I Pourquoi donc ne pas compter encore sur la force éternelle de la vie ? Et pourquoi, puisque la lune est si claire, attendre le soleil ? La semence est là, les labours de novembre sont prêts. *(Il reprend le sac de blé et sème à grands gestes.)*
+Semence auguste, blé nourrisseur, va, va, vole de mes mains et couvre la terre. Comme la poussière même de la vie, vole, vole, emplis le sillon de ta fécondité. Tu es l\'inconnu de demain, qui sait le triomphe que tu réserves à l\'effort de mon travail ? Pendant tout un hiver, la terre froide dormira. Et elle couvera ton inconnu, ô divine semence, blé qui nourris les hommes ! Et peut-être pousseras-tu en une moisson débordante, au soleil d\'avril, dans le printemps triomphal !
+
+(Rideau,)

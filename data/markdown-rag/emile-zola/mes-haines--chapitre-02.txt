@@ -1,0 +1,64 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MES HAINES"
+slug_oeuvre: "mes-haines"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+MES HAINES
+
+Liste des études biographiques et critiques
+
+!]
+
+## Préface d'Émile Zola
+1(../Text/Zola5_split_599.htm#_ftn1)
+
+La haine est sainte. Elle est l'indignation des cœurs forts et puissants, le dédain militant de ceux que fâchent la médiocrité et la sottise. Haïr c'est aimer, c'est sentir son âme chaude et généreuse, c'est vivre largement du mépris des choses honteuses et bêtes.
+
+La haine soulage, la haine fait justice, la haine grandit.
+
+Je me suis senti plus jeune et plus courageux après chacune de mes révoltes contre les platitudes de mon âge. J'ai fait de la haine et de la fierté mes deux hôtesses ; je me suis plu à m'isoler, et, dans mon isolement, à haïr ce qui blessait le juste et le vrai.
+
+Si je vaux quelque chose aujourd'hui, c'est que je suis seul et que je hais.
+
+!
+
+Je hais les gens nuls et impuissants ; ils me gênent. Ils ont brûlé mon sang et brisé mes nerfs. Je ne sais rien de plus irritant que ces brutes qui se dandinent sur leurs deux pieds, comme des oies, avec leurs yeux ronds et leur bouche béante. Je n'ai pu faire deux pas dans la vie sans rencontrer trois imbéciles, et c'est pourquoi je suis triste. La grande route en est pleine, la foule est faite de sots qui vous arrêtent au passage pour vous baver leur médiocrité à la face. Ils marchent, ils parlent, et toute leur personne, gestes et voix, me blesse à ce point que je préfère, comme Stendhal, un scélérat à un crétin. Je le demande, que pouvons-nous faire de ces gens-là ; les voici sur nos bras, en ces temps de luttes et de marches forcées. Au sortir du vieux monde, nous nous hâtons vers un monde nouveau. Ils se pendent à nos bras, ils se jettent dans nos jambes, avec des rires niais, d'absurdes sentences ; ils nous rendent les sentiers glissants et pénibles. Nous avons beau nous secouer, ils nous pressent, nous étouffent, s'attachent à nous. Eh quoi I nous en sommes à cet âge où les chemins de fer et le télégraphe électrique nous emportent, chair et esprit, à l'infini et à l'absolu, à cet âge grave et inquiet où l'esprit humain est en enfantement d'une vérité nouvelle, et il y a là des hommes de néant et de sottise qui nient le présent, croupissent dans la mare étroite et nauséabonde de leur banalité. Les horizons s'élargissent, la lumière monte et emplit le ciel. Eux, ils s'enfoncent à plaisir dans la fange tiède où leur ventre digère avec une voluptueuse lenteur ; ils bouchent leurs yeux de hiboux que la clarté offense, ils crient qu'on les trouble et qu'ils ne peuvent plus faire leurs grasses matinées en ruminant à l'aise le foin qu'ils broient à pleine mâchoire au râtelier de la bêtise commune. Qu'on nous donne des fous, nous en ferons quelque chose ; les fous pensent ; ils ont chacun quelque idée trop tendue qui a brisé le ressort de leur intelligence ; ce sont là des malades de l'esprit et du cœur, de pauvres âmes toutes pleines de vie et de force. Je veux les écouter, car j'espère toujours que dans le chaos de leurs pensées va luire une vérité suprême. Mais, pour l'amour de Dieu, qu'on tue les sots et les médiocres, les impuissants et les crétins, qu'il y ait des lois pour nous débarrasser de ces gens qui abusent de leur aveuglement pour dire qu'il fait nuit. Il est temps que les hommes de courage et d'énergie aient leur 93 : l'insolente royauté des médiocres a lassé le monde, les médiocres doivent être jetés en masse à la place de Grève.
+
+Je les hais.
+
+!
+
+Je hais les hommes qui se parquent dans une idée personnelle, qui vont en troupeau, se pressant les uns contre les autres, baissant la tête vers la terre pour ne pas voir la grande lueur du ciel. Chaque troupeau a son dieu, son fétiche, sur l'autel duquel il immole la grande vérité humaine. Ils sont ainsi plusieurs centaines dans Paris, vingt à trente dans chaque coin, ayant une tribune du haut de laquelle ils haranguent solennellement le peuple. Ils vont leur petit bonhomme de chemin, marchant avec gravité en pleine platitude, poussant des cris de désespérance dès qu'on les trouble dans leur fanatisme puéril. Vous tous qui les connaissez, mes amis, poètes et romanciers, savants et simples curieux, vous qui êtes allés frapper à la porte de ces gens graves s'enfermant pour tailler leurs ongles, osez dire avec moi, tout haut, afin que la foule vous entende, qu'ils vous ont jeté hors de leur petite église, en bedeaux peureux et intolérants. Dites qu'ils vous ont raillé de votre inexpérience, l'expérience étant de nier toute vérité qui n'est pas leur erreur. Racontez l'histoire de votre premier article, lorsque vous êtes venu avec votre prose honnête et convaincue vous heurter contre cette réponse : « Vous louez un homme de talent qui, ne pouvant avoir de talent pour nous, ne doit en avoir pour personne. » Le beau spectacle que nous offre ce Paris intelligent et juste ! Il y a, là-haut ou là-bas, dans une sphère lointaine assurément, une vérité une et absolue qui régit les mondes et nous pousse à l'avenir. Il y a ici cent vérités qui se heurtent et se brisent, cent écoles qui s'injurient, cent troupeaux qui bêlent en refusant d'avancer. Les uns regrettent un passé qui ne peut revenir, les autres rêvent un avenir qui ne viendra jamais ; ceux qui songent au présent, en parlent comme d'une éternité. Chaque religion a ses prêtres, chaque prêtre a ses aveugles et ses eunuques. De la réalité, point de souci ; une simple guerre civile, une bataille de gamins se mitraillant à coups de boules de neige, une immense farce dont le passé et l'avenir, Dieu et l'homme, le mensonge et la sottise, sont les pantins complaisants et grotesques. Où sont, je le demande, les hommes libres, ceux qui vivent tout haut, qui n'enferment pas leur pensée dans le cercle étroit d'un dogme et qui marchent franchement vers la lumière, sans craindre de se démentir demain, n'ayant souci que du juste et du vrai ? Où sont les hommes qui ne font pas partie des claques assermentées, qui n'applaudissent pas, sur un signe de leur chef, Dieu ou le prince, le peuple ou bien l'aristocratie ? Où sont les-hommes qui vivent seuls, loin des troupeaux humains, qui accueillent toute grande chose, ayant le mépris des coteries et l'amour de la libre pensée ? Lorsque ces hommes parlent, les gens graves et bêtes se fâchent et les accablent de leur masse ; puis ils rentrent dans-leur digestion, ils sont solennels, ils se prouvent victorieusement entre eux qu'ils sont tous des imbéciles.
+
+Je les hais.
+
+!
+
+Je hais les railleurs malsains, les petits jeunes gens-qui ricanent, ne pouvant imiter la pesante gravité de leurs papas. Il y a des éclats de rire plus vides encore que les silences diplomatiques. Nous avons, en cet âge anxieux, une gaieté nerveuse et pleine d'angoisse qui m'irrite douloureusement, comme les sons d'une lime promenée entre les dents d'une scie. Eh ! taisez-vous, vous tous qui prenez à tâche d'amuser le public, vous ne savez plus rire, vous riez aigre à agacer les dents. Vos plaisanteries sont navrantes ; vos allures légères ont la grâce des poses de disloqués ; vos sauts périlleux sont de grotesques culbutes dans lesquelles vous vous étalez piteusement. Ne voyez-vous pas que nous ne sommes point en train de plaisanter. Regardez, vous pleurez vous-mêmes. À quoi bon vous forcer, vous battre les flancs pour trouver drôle ce qui est sinistre. Ce n'est point ainsi qu'on riait autrefois, lorsqu'on pouvait encore rire. Aujourd'hui, la joie est un spasme, la gaieté une folie qui secoue. Nos rieurs, ceux qui ont une réputation de belle humeur, sont des gens funèbres qui prennent n'importe quel fait, n'importe quel homme dans la main, et le pressent jusqu'à ce qu'il éclate, en enfants méchants qui ne jouent jamais aussi bien avec leurs jouets que lorsqu'ils les brisent. Nos gaietés sont celles des gens qui se tiennent les côtes, quand ils voient un passant tomber et se casser un membre. On rit de tout, lorsqu'il n'y a pas le plus petit mot pour rire. Aussi sommes-nous un peuple très gai ; nous rions de nos grands hommes et de nos scélérats, de Dieu et du diable, des autres et de nous-mêmes. Il y a, à Paris, toute une armée qui tient en éveil l'hilarité publique ; la farce consiste à être bête gaiement, comme d'autres sont bêtes solennellement. Moi, je regrette qu'il y ait tant d'hommes d'esprit et si peu d'hommes de vérité et de libre justice. Chaque fois que je vois un garçon honnête se mettre à rire, pour le plus grand plaisir du public, je le plains, je regrette qu'il ne soit pas assez riche pour vivre sans rien faire, sans se tenir ainsi les côtes indécemment. Mais je n'ai pas de plainte pour ceux qui n'ont que des rires, n'ayant point de larmes.
+
+Je les hais.
+
+!
+
+Je hais les sots qui font les dédaigneux, les impuissants qui crient que notre art et notre littérature, meurent de leur belle mort. Ce sont les cerveaux les plus vides, les cœurs les plus secs, les gens enterrés dans le passé, qui feuillettent avec mépris les œuvres vivantes et tout enfiévrées de notre âge, et les déclarent nulles et étroites. Moi, je vois autrement. Je n'ai guère souci de beauté ni de perfection. Je me moque des grands siècles. Je n'ai souci que de vie, de lutte, de fièvre. Je suis à l'aise parmi notre génération. Il me semble que l'artiste ne peut souhaiter un autre milieu, une autre époque. Il n'y a plus de maîtres, plus d'écoles. Nous sommes en pleine anarchie, et chacun de nous est un rebelle qui pense pour lui, qui crée et se bat pour lui. L'heure est haletante, pleine d'anxiété : on attend ceux qui frapperont le plus fort et le plus juste, dont les poings seront assez puissants pour fermer la bouche des autres, et il y a au fond de chaque nouveau lutteur une vague espérance d'être ce dictateur, ce tyran de demain. Puis, quel horizon large I Gomme nous sentons tressaillir en nous les vérités de l'avenir î Si nous balbutions, c'est que nous avons trop de choses à dire. Nous sommes au seuil d'un siècle de science et de réalité, et nous chancelons, par instants, comme des hommes-ivres, devant la grande lueur qui se lève en face de nous. Mais nous travaillons, nous préparons la besogne de nos fils, nous en sommes à l'heure de la démolition, lorsqu'une poussière de plâtre emplit l'air et que les décombres tombent avec fracas. Demain l'édifice sera reconstruit. Nous aurons eu les joies cuisantes, l'angoisse douce et amère de l'enfantement ; nous aurons eu les œuvres passionnées, les cris libres de la vérité, tous les vices et toutes les vertus des grands siècles à leur berceau. Que les aveugles nient nos efforts, qu'ils voient dans nos luttes les convulsions de l'agonie, lorsque ces luttes sont les premiers-bégayements de la naissance. Ce sont des aveugles.
+
+Je les hais.
+
+!
+
+Je les hais.
+
+!
+
+Et maintenant vous savez quelles sont mes amours, mes belles amours de jeunesse.
+
+Paris, 1866.

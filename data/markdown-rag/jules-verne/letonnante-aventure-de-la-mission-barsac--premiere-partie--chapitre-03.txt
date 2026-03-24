@@ -1,0 +1,452 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC"
+slug_oeuvre: "letonnante-aventure-de-la-mission-barsac"
+section: "Premiere Partie"
+slug_section: "premiere-partie"
+chapitre: "Chapitre 03"
+slug_chapitre: "chapitre-03"
+type: "chapitre"
+---
+
+### Chapitre 3 -- Lord Buxton Glenor
+Au moment où débute ce récit, il y avait bien des années que Lord Buxton ne sortait plus, il y avait bien des années que la porte du château de Glenor qu'il habitait, au coeur de l'Angleterre, près de la petite ville d'Uttoxeter, ne s'était plus ouverte devant aucun visiteur, que les fenêtres de ses appartements particuliers étaient demeurées obstinément fermées. La claustration de lord Buxton était complète, absolue, depuis le drame qui avait terni l'honneur de sa famille, souillé son nom, brisé sa vie.
+
+Plus de soixante ans avant les événements qui viennent d'être relatés, lord Buxton, frais émoulu de l'École militaire, entrait dans la ronde humaine par la grande porte, car il tenait de ses aïeux fortune, honneur immaculé, et la gloire.
+
+L'histoire des Buxton se confond, en effet, avec l'histoire même de l'Angleterre, au profit de laquelle coula si souvent leur sang généreux. À une époque où le mot de patrie n'avait pas encore acquis la valeur qu'une longue vie nationale lui a donnée, l'idée en était déjà profondément gravée dans le coeur des hommes de cette famille qui, venue avec les conquérants normands, n'avait jamais vécu que pour l'épée, et par l'épée mise au service de son pays. Au cours des siècles, pas une défaillance, n'avait diminué l'éclat de son nom, jamais une tache n'avait éclaboussé son blason.
+
+Edward Alan Buxton était le digne descendant de cette lignée de preux. À l'imitation de ses ancêtres, il n'imaginait d'autre but à la vie que le culte farouche de l'honneur et l'amour passionné de la patrie. Si l'atavisme, l'hérédité, de quelque nom que l'on veuille désigner ce mystérieux phénomène qui fait les fils semblables aux pères, n'avaient pas suffi à lui suggérer ces principes, l'éducation les lui eût inculqués.
+
+L'histoire anglaise, pleine de la gloire de ses ancêtres, lui eût nécessairement inspiré le désir de faire aussi bien, sinon mieux qu'eux.
+
+À vingt-deux ans, il avait épousé une jeune fille appartenant à l'une des meilleures familles d'Angleterre, dont il eut une fille après un an de mariage. Ce fut une déception pour Edward Buxton, qui attendit impatiemment la naissance d'un second enfant.
+
+Il l'attendit pendant vingt ans. Ce fut seulement après ce long intervalle que lady Buxton, dont la santé avait été gravement altérée par sa première maternité, lui donna le fils tant désiré, qui reçut le prénom de George, tandis que, presque en même temps, sa fille, récemment mariée à un Français, M. De Saint-Bérain, mettait au monde un garçon qui fut appelé Agénor, lequel Agénor devait, quarante ans plus tard, se présenter au député Barsac de la manière que l'on sait.
+
+Cinq ans s'écoulèrent encore, et lord Glenor eut un second fils, Lewis Robert, que le destin devait, à trente-cinq ans de là, si fâcheusement mêler au drame de la Central Bank par lequel s'est ouvert ce récit.
+
+Ce grand bonheur, avoir un second fils, c'est-à-dire un second continuateur du nom, fut accompagné du plus affreux des malheurs. La naissance de ce fils coûta la vie à sa mère, et lord Buxton vit disparaître à jamais celle qui, pendant plus d'un quart de siècle, avait été sa compagne.
+
+Frappé d'une manière aussi rude, lord Buxton chancela sous le coup. Déprimé, découragé, il renonça à toute ambition, et, bien que relativement jeune encore, il quitta la marine où il servait depuis sa sortie de l'école, et dont il était à la veille d'atteindre les plus hauts grades.
+
+Longtemps, à la suite de ce grand malheur, il vécut replié sur lui-même, puis, le temps ayant adouci son immense douleur, il essaya, après neuf ans de solitude, de reconstituer son foyer détruit, en épousant la veuve d'un de ses compagnons d'armes, Marguerite Ferney, qui lui apportait en mariage, pour toute fortune, un fils, William, alors âgé de seize ans.
+
+Mais le sort avait décidé que lord Glenor vieillirait seul, et qu'il arriverait seul au terme du voyage. Quelques années plus tard, il lui naissait un quatrième enfant, une fille qui reçut le nom de Jane, et il était veuf pour la seconde fois.
+
+Lord Glenor avait alors dépassé la soixantaine. À cet âge, il ne pouvait songer à refaire sa vie. Si cruellement, si opiniâtrement frappé dans ses plus chères affections, il se consacra exclusivement à son devoir de père. Si sa première fille, Mme de Saint-Bérain, avait depuis longtemps échappé à sa direction, il lui restait quatre enfants, dont le plus âgé avait à peine vingt ans, que les deux mortes lui avaient laissés, car, dans son coeur, il ne séparait pas William Ferney des deux garçons et de la fille de son sang.
+
+Mais la destinée n'avait pas épuisé sa rigueur, et lord Glenor devait connaître encore des douleurs auprès desquelles celles qu'il avait subies jusque-là lui paraîtraient bien légères.
+
+Les premières amertumes que lui réservait l'avenir lui vinrent précisément de William Ferney, ce fils de la morte, qu'il chérissait comme s'il eût été le sien. Sournois, hargneux, hypocrite, le jeune homme ne répondit pas à la tendresse qu'on lui témoignait et demeura isolé au milieu de cette famille qui lui ouvrait si largement sa maison et son coeur. Il resta insensible à toutes les preuves d'affection qu'on lui donna.
+
+Bien au contraire, plus on s'intéressait à lui, plus il se retirait farouchement, plus on lui manifestait d'amitié, plus il semblait haïr ceux qui l'entouraient. L'envie, une envie exaspérée, une envie furieuse, dévorait le coeur de William Ferney.
+
+Ce sentiment si méprisable, il l'avait éprouvé le premier jour où il était entré avec sa mère dans le château de Glenor. La comparaison s'était aussitôt imposée à son esprit du sort qui attendait les deux fils de celui-ci, et de son sort à lui, William Ferney. Dès lors, il conçut une haine violente pour George et pour Lewis, ces héritiers de lord Buxton, qui seraient riches un jour, tandis que resterait pauvre le descendant déshérité de Marguerite Ferney.
+
+Sa haine grandit encore, quand naquit Jane, sa demi-soeur par le sang, qui aurait part, elle aussi, un jour, à cette fortune dont il serait exclu, ou dont il ne recevrait, par charité, qu'une infime partie. Elle fut portée au paroxysme lorsque sa mère mourut et que disparut ainsi le seul être qui eût chance de trouver le chemin de ce coeur ulcéré.
+
+Rien ne l'apaisa, ni l'amitié fraternelle des deux fils de lord Buxton, ni la paternelle sollicitude de celui-ci. De jour en jour, l'envieux se retira davantage, se fit davantage une vie personnelle dont, seuls, des scandales successifs permirent de pénétrer le mystère. On apprit ainsi que William Ferney s'était lié avec les jeunes gens les plus tarés et qu'il avait choisi ses amis et ses compagnons de plaisir dans la partie la moins recommandable de la population de Londres.
+
+Le bruit de ses excès parvint aux oreilles de lord Buxton, qui s'épuisa vainement en inutiles remontrances. Bientôt ce furent des dettes, qu'il solda, tout d'abord, en souvenir de la morte, mais auxquelles son devoir lui imposa bientôt de mettre un terme.
+
+Ainsi réduit à la portion congrue, William Ferney ne changea rien à son genre de vie.
+
+On se demandait comment il se procurait les ressources nécessaires, quand fut présentée au château de Glenor une traite d'une valeur considérable et sur laquelle figurait la signature habilement imitée de lord Buxton.
+
+Celui-ci paya sans mot dire, mais, incapable de vivre en compagnie d'un faussaire, il fit comparaître le coupable devant lui et le chassa de sa présence, en lui garantissant toutefois une large pension.
+
+William Ferney écouta du même air narquois les reproches et les conseils, puis sans répondre un mot, sans même toucher la première mensualité de sa pension, il quitta le château de Glenor et disparut.
+
+Ce qu'il devint, lord Buxton l'ignorait au moment où débute ce récit. Jamais plus il n'avait entendu parler de lui, et peu à peu, au cours des années, ce souvenir pénible s'était atténué.
+
+Fort heureusement, ses vrais enfants lui donnaient autant de satisfaction que l'enfant étranger lui avait causé de soucis. En même temps que ce dernier partait pour ne plus revenir, l'aîné, George, continuait la glorieuse tradition de sa famille, sortait le premier de l'école d'Ascott et s'enrôlait dans l'armée, en quête d'aventures coloniales. Au grand regret de lord Buxton, son second fils, Lewis, montrait des goûts moins belliqueux, mais à tous autres égards, il demeurait digne de son affection. C'était un garçon grave, méthodique, un de ces caractères sérieux sur lesquels on est en droit de compter.
+
+Pendant les années qui suivirent le départ de William, tandis que s'effaçait par degrés le souvenir du transfuge, la vie des deux jeunes gens se développa suivant une courbe régulière et logique.
+
+Chez Lewis s'affirmait la vocation des affaires. Il entrait à la Central Bank, y était hautement apprécié et gravissait les degrés hiérarchiques de cet établissement colossal, dont on pronostiquait en général qu'il serait un jour le grand maître. Pendant ce temps, George, passant d'une colonie à l'autre, devenait une manière de héros et conquérait ses grades à la pointe de l'épée.
+
+Lord Buxton pensait donc en avoir fini avec le sort contraire, et, parvenu à la vieillesse, il n'y découvrait plus que d'heureuses perspectives, quand un malheur, plus affreux qu'aucun de ceux qui l'avaient déjà frappé, vint tout à coup l'accabler. Cette fois, ce n'était pas au coeur seulement qu'il était atteint, mais aussi dans l'honneur, dans ce pur honneur des Glenor dont le nom allait être à jamais flétri par la plus abominable des trahisons.
+
+Peut-être, malgré le temps écoulé, se souvient-on encore de ce drame terrible, dont le fils aîné de lord Glenor fut le triste héros.
+
+George Buxton, placé, au point de vue militaire, en position de disponibilité, était alors au service d'une grande compagnie d'exploration. Depuis deux ans, il sillonnait pour le compte de cette compagnie, à la tête de troupes à demi régulières qu'elle avait réunies, le territoire des Achantis, lorsqu'on apprit tout à coup que, se muant en chef de bande, il s'était mis en révolte ouverte contre son pays. À l'époque, la nouvelle en parvint avec la brutalité d'un coup de foudre. On connut en même temps la rébellion et son implacable châtiment. On connut à la fois la trahison du capitaine Buxton et de ses hommes transformés en aventuriers, leurs pillages, leurs exactions, les actes de cruauté dont ils s'étaient rendus coupables, et la répression suivant de près ce crime.
+
+Les journaux ont raconté le drame qui s'est alors déroulé.
+
+Ils en ont noté les péripéties. Ils ont montré la bande de rebelles pourchassée sans relâche et s'émiettant graduellement devant les soldats envoyés contre elle. Ils ont raconté comment le capitaine Buxton, refoulé avec quelques-uns de ses compagnons sur les territoires alors compris dans la zone d'influence française, avait été enfin rejoint près du village de Koubo, au pied des monts Hombori, et tué à la première décharge. Il n'est pas de hameau où l'on n'ait connu la mort du commandant de la troupe régulière anglaise terrassé par la fièvre pendant qu'il revenait à la côte, son triste devoir accompli, le massacre du chef révolté et de la majeure partie de ses complices, la dispersion des autres et l'anéantissement dans l'oeuf de l'abominable et chimérique entreprise. Si le châtiment coûtait cher, il était au moins complet et rapide.
+
+On se souvient de l'émotion qui secoua l'Angleterre quand elle apprit cette surprenante aventure. Puis l'émotion s'apaisa, et le linceul de l'oubli tomba lentement sur les morts.
+
+Approchant alors de soixante-quinze ans, lord Glenor reçut le coup comme parfois les grands arbres la foudre. Il arrive que le fluide les frappe à la cime, dévore leur coeur jusqu'aux racines, puis se perd dans la terre, ne laissant derrière lui qu'un colosse d'écorce, toujours debout, dont rien ne trahit la dévastation intérieure, mais vide en réalité, et que le premier vent un peu rude va renverser.
+
+Ainsi en fut-il pour le vieux marin. Frappé à la fois dans son amour passionné pour son fils, et dans son honneur plus cher encore, il ne fléchit pas sous le choc, et c'est à peine si la pâleur de son visage trahit sa douleur. Sans poser une question, sans prononcer une parole sur l'intolérable sujet, il s'enferma dans une solitude hautaine et dans l'orgueil du silence.
+
+C'est à partir de ce jour qu'on cessa de le voir, comme on en avait coutume, faire sa promenade quotidienne. C'est à partir de ce jour, que, dans sa maison fermée à tous, fût-ce à ses plus chers amis, il demeura claustré, presque immobile, muet, seul.
+
+Seul ? Non, pas entièrement. Trois êtres encore se relayaient auprès de lui, trouvant dans la vénération qu'il leur inspirait le courage de supporter cette existence effrayante avec une vivante statue, avec un spectre dont la personne physique avait gardé toute la vigueur de l'homme fait, mais qui s'était volontairement muré dans un éternel silence.
+
+C'était son second fils, d'abord, Lewis Robert Buxton qui, pas une semaine, ne manqua jamais de venir passer à Glenor le jour de liberté que lui laissaient ses fonctions à la Central Bank.
+
+C'était ensuite son petit-fils, Agénor de Saint-Bérain, qui tâchait d'égayer par sa bonhomie souriante ce logis lugubre comme un cloître.
+
+Lors de l'inconcevable trahison de George Buxton, Agénor de Saint-Bérain ressemblait déjà trait pour trait au crayon peu flatteur qu'on a esquissé de sa personne physique, mais, au moral, c'était, dès cette époque, un excellent garçon, serviable, obligeant, au coeur sensible, d'une loyauté à toute épreuve.
+
+Trois signes particuliers le distinguaient du reste des humains : une distraction poussée jusqu'à l'invraisemblance, une passion désordonnée -- et d'ailleurs bien malheureuse -- pour la pêche à la ligne, et par-dessus tout, une aversion farouche pour le sexe féminin.
+
+Possesseur d'une jolie fortune héritée de ses parents, morts tous les deux, et par conséquent indépendant, il avait quitté la France à la première nouvelle du drame qui frappait son grand-père, et s'était installé dans une villa voisine du château de Glenor, où il passait, d'ailleurs, la majeure partie de son temps.
+
+À sa villa attenait un jardin traversé par un cours d'eau, dans lequel Agénor plongeait ses lignes avec une ardeur aussi vive qu'inexplicable. Pourquoi mettre tant de passion à cet exercice, en effet, puisqu'il pensait régulièrement à autre chose et que tous les poissons du monde eussent pu « mordre » sans qu'il s'aperçût de la danse du bouchon ? Et quand bien même, au surplus, un barbillon, une ablette ou un goujon, plus entêté encore qu'il n'était distrait, serait venu se ferrer de lui-même, à quoi cela eût-il avancé le sensible Agénor, qui se fût empressé sans aucun doute de rejeter la bestiole à l'eau, peut-être même en lui adressant des excuses ?
+
+Un brave garçon, nous l'avons dit. Et quel célibataire endurci ! À qui voulait l'entendre, il affirmait son mépris pour les femmes. Il leur prêtait tous les défauts, tous les vices. « Trompeuses, perfides, menteuses, prodigues », proclamait-il d'ordinaire, sans préjudice d'autres épithètes insultantes dont il n'était jamais à court.
+
+Quand on lui conseillait de se marier :
+
+--- Moi ! s'écriait-il, m'unir à l'un de ces êtres infidèles et volages ! Et, si l'on insistait :
+
+--- Je ne croirai à l'amour d'une femme, déclarait-il sérieusement, que lorsque je l'aurai vue mourir de désespoir sur ma tombe.
+
+Cette condition étant irréalisable, il était à parier qu'Agénor resterait garçon.
+
+L'éloignement qu'il manifestait pour le beau sexe souffrait cependant une exception.
+
+La privilégiée était Jane Buxton, la dernière des enfants de lord Glenor, la tante d'Agénor, par conséquent, mais une tante de quinze à vingt ans plus jeune que lui, une tante qu'il avait connue toute petite, dont il avait guidé les premiers pas et dont il s'était institué le protecteur, lorsque le malheureux lord s'était retranché du monde. Il lui portait une tendresse véritablement paternelle, une affection profonde, que la jeune fille, d'ailleurs, lui rendait bien. En principe, c'était lui le mentor, mais, en fait, ce mentor faisait tout ce que voulait son disciple. Ils ne se quittaient guère. Ils sortaient ensemble, couraient les bois à pied ou à cheval, canotaient, chassaient, pratiquaient tous les sports, ce qui autorisait le vieux neveu à dire de sa jeune tante ainsi élevée en garçon : « Vous verrez que je finirai par en faire un homme ! »
+
+Jane Buxton était la troisième personne qui prodiguât ses soins au vieux lord, dont elle entourait la triste vieillesse d'une sollicitude quasi maternelle. Elle eût donné sa vie pour le voir sourire. Et cette idée : ramener un peu de bonheur dans l'âme ulcérée de son père, cette idée ne la quittait pas. C'était le but unique de toutes ses pensées, de tous ses actes.
+
+À l'époque du drame dans lequel son frère avait trouvé la mort, elle avait vu son père pleurer plus encore sur son nom flétri, sur son honneur outragé, que sur la fin misérable d'un fils frappé d'un juste châtiment. Elle, par contre, n'avait pas pleuré.
+
+Non pas qu'elle fût insensible à la perte d'un frère tendrement chéri et à la tache dont un tel crime souillait l'honneur de sa famille. Mais en même temps que la douleur, plus forte que la douleur, son coeur avait connu la révolte.
+
+Eh quoi ! Lewis et son père croyaient si aisément à la honte de George ! Sans contrôle, sans enquête personnelle, ils acceptaient comme démontrées des accusations venues des lointains d'outre-mer ! Qu'importaient les rapports officiels ? Contre ces rapports, contre l'évidence même, le passé de George protestait. Qu'il fût un traître, ce grand frère si droit, si bon, si pur, dont toute la vie attestait l'héroïsme et la loyauté, voilà qui était impossible ! Alors que tout le monde reniait le pauvre mort, elle, du moins, honorerait sa mémoire, et sa foi en lui ne pâlirait jamais.
+
+Cette première impression de Jane Buxton, le temps ne fit que la fortifier. À mesure que passaient les jours, plus ardente fut sa conviction de l'innocence de son frère, bien qu'elle ne pût l'étayer par aucune preuve. Le moment vint enfin -- ce fut plusieurs années après le drame -- où elle se hasarda à rompre pour la première fois le silence absolu que, par un accord tacite, tous les hôtes du château observaient sur la tragédie de Koubo.
+
+--- Mon oncle ? dit-elle ce jour-là, en manière d'interpellation, à Agénor de Saint-Bérain.
+
+Hors un cas, cependant.
+
+S'il advenait, par grand hasard, que cet oncle de convention donnât de justes motifs de plainte à sa pseudo-nièce, ou s'avisât de résister à sa volonté, voire à l'un de ses caprices, cette dernière revendiquait incontinent le rang auquel elle avait droit et signifiait à son « neveu » qu'il eût à faire preuve du respect dû à un ascendant.
+
+Connaissant à ce signe que les choses se gâtaient, le « neveu » s'empressait de filer doux en vue d'apaiser sa vénérable « tante ». De cette dualité d'appellations contradictoires résultaient parfois des dialogues assez savoureux.
+
+--- Mon oncle ? Interpella donc Jane, ce jour-là.
+
+--- Ma chérie ? répondit Agénor, alors absorbé dans la lecture d'un in-quarto consacré à l'art de la pêche à la ligne.
+
+--- Je voudrais vous parler de George.
+
+Agénor, surpris, abandonna son livre.
+
+--- De George ? répéta-t-il un peu troublé. De quel George ?
+
+--- De mon frère George, précisa Jane avec calme.
+
+Agénor était devenu tout pâle.
+
+--- Mais tu sais bien, objecta-t-il d'une voix tremblante, que ce sujet est interdit, que ce nom-là ne doit pas être prononcé ici.
+
+Jane rejeta l'objection d'un mouvement de tête.
+
+--- Il n'importe, dit-elle tranquillement. Parlez-moi de George, mon oncle. -- Et que veux-tu que je t'en dise ?
+
+--- Tout. L'histoire entière. Tout.
+
+--- Jamais de la vie !
+
+Jane fronça les sourcils.
+
+--- Mon neveu ! Fit-elle d'un ton menaçant.
+
+Il n'en fallut pas davantage.
+
+--- Voilà ! Voilà ! Balbutia Agénor, qui se mit à raconter la triste histoire qui lui était demandée.
+
+Il la raconta d'un bout à l'autre, sans rien omettre.
+
+Jane l'écouta en silence, et, quand il eut terminé, elle ne posa pas d'autres questions. Agénor crut en avoir fini, et poussa un soupir de soulagement.
+
+Il se trompait. Quelques jours plus tard, Jane revint à la charge.
+
+--- Mon oncle ? Interpella-t-elle de nouveau.
+
+--- Ma chérie ? répondit derechef Agénor.
+
+--- Si George, pourtant, n'était pas coupable ?
+
+Agénor crut avoir mal entendu.
+
+--- Pas coupable ! répéta-t-il. Hélas ! Ma pauvre enfant, il n'y a aucun doute. La trahison et la mort du malheureux George sont des faits historiques, dont les preuves abondent.
+
+--- Lesquelles ? interrogea Jane.
+
+Agénor recommença son récit. Il cita les articles des journaux, les rapports officiels contre lesquels nul n'avait protesté. Il invoqua enfin l'absence du coupable, ce qui était une forte preuve de la réalité de sa mort.
+
+--- De sa mort, soit, objecta Jane, mais de sa trahison ?
+
+--- L'une est la conséquence de l'autre, répondit Agénor confondu par tant d'obstination.
+
+L'obstination de la jeune fille était encore plus grande qu'il ne le supposait. Fréquemment, à compter de ce jour, elle revint sur ce pénible sujet, harcelant Agénor de questions renaissantes, desquelles il était facile de conclure qu'elle conservait sa foi intacte dans l'innocence de son frère.
+
+Sur ce point, toutefois, Agénor était irréductible. En réponse aux meilleurs arguments, il se contentait de hocher la tête avec mélancolie, en homme qui veut éviter une discussion inutile, mais Jane sentait bien que son opinion n'était pas ébranlée.
+
+Il en fut ainsi jusqu'au jour où elle se décida à faire acte d'autorité. -- Mon oncle ? dit-elle encore, ce jour-là.
+
+--- Ma chérie ? répondit comme de coutume Agénor.
+
+--- J'ai beaucoup réfléchi, mon oncle, et mon avis est décidément que George est innocent du crime affreux dont on l'accuse.
+
+--- Pourtant, ma chérie... Commença Agénor.
+
+--- Il n'y a pas de pourtant, trancha Jane péremptoirement. George est innocent, mon oncle.
+
+--- Cependant...
+
+Jane se redressa, les narines frémissantes.
+
+--- Je vous dis, mon neveu, prononça-t-elle d'un ton sec, que mon frère George est innocent.
+
+Agénor s'effondra.
+
+--- Il l'est, ma tante, reconnut-il humblement.
+
+Dès lors, l'innocence de George fut un fait acquis, et Agénor de Saint-Bérain ne se permit plus de la contester. Au surplus, les affirmations de Jane n'étaient pas sans avoir eu quelque influence sur son esprit. S'il ne possédait pas encore la belle certitude de celle-ci dans l'innocence du capitaine révolté, du moins sa conviction de la réalité du crime était-elle ébranlée.
+
+Pendant les années suivantes, les pensées de Jane continuèrent à évoluer dans le sens de cette ardente foi plus sentimentale que raisonnée. Avoir gagné un partisan à la cause qu'elle soutenait, c'était quelque chose assurément, mais peu de chose. À quoi bon proclamer l'innocence de son frère, si l'on n'était pas en état de la prouver ? Et, ces preuves, comment les réunir ?
+
+À force d'y rêver, elle crut en avoir trouvé le moyen.
+
+--- Il est bien entendu, n'est-ce pas, dit-elle un beau jour à Agénor, que George est innocent du crime dont on l'accuse.
+
+--- Oui, ma chérie, répondit Agénor qui, d'ailleurs, ne se sentait plus très assuré du contraire.
+
+--- Il était trop intelligent, continua Jane, pour commettre cette sottise, trop fier pour s'avilir ainsi. Il aimait trop son pays pour le trahir.
+
+--- C'est évident.
+
+--- Nous avons vécu côte à côte. Je connaissais ses pensées comme les miennes. Il n'avait d'autre culte que l'honneur, d'autre amour que celui qu'il portait à notre père, d'autre ambition que la gloire de sa patrie. Et vous voudriez qu'il eût conçu le projet de trahir, de se déshonorer dans une entreprise de flibustier, en couvrant ainsi de honte lui et sa famille ? dites ! Vous voudriez, Agénor ?
+
+--- Moi ! Mais je ne veux rien, ma tante, protesta Agénor, qui considéra comme prudent d'adopter avant d'y être invité ce vocable respectueux.
+
+--- C'est que vous êtes là, à me regarder avec vos gros yeux ronds, comme si vous ne m'aviez jamais vue ! Vous savez bien pourtant qu'un aussi abominable dessein ne pouvait naître dans son cerveau ! Si vous savez, dites-le donc !
+
+--- Je le dis, ma tante, je le dis.
+
+--- Ce n'est pas malheureux ! Quant à ceux qui ont inventé cette légende de toutes pièces, ce sont des misérables !
+
+--- Des bandits !
+
+--- Qu'on devrait envoyer au bagne !
+
+--- Ou pendre !
+
+--- Avec les journalistes qui ont répandu ces nouvelles mensongères, et ont ainsi causé notre désespoir et notre honte !
+
+--- Oui, tous les journalistes ! Qu'on les pende ! Qu'on les fusille ! -- Vous êtes donc enfin convaincu ?
+
+--- Absolument !
+
+--- D'ailleurs, je voudrais bien voir que vous fussiez d'un autre avis que le mien sur ce sujet !
+
+--- Je n'aurais garde...
+
+--- À la bonne heure ! Sans quoi, vous me connaissez, je vous chasserais de ma présence et ne vous reverrais de ma vie.
+
+--- Le ciel m'en préserve ! s'écria le pauvre Agénor, tout à fait ému par une aussi terrible menace.
+
+Jane fit une pause et regarda sa victime du coin de l'oeil. Sans doute, elle la jugea à point, car elle mit une sourdine à sa violence moins sincère que calculée, et reprit d'un ton plus doux :
+
+--- Il ne suffit pas que, vous et moi, nous soyons convaincus de l'innocence de George. Il faudrait pouvoir en donner la preuve, vous en conviendrez, mon cher oncle.
+
+À cette appellation, le visage d'Agénor s'éclaira. L'orage était passé décidément.
+
+--- C'est évident, dit-il en poussant un soupir de soulagement.
+
+--- Sans quoi, nous aurons beau crier sur les toits que George n'est pas coupable, personne ne nous croira.
+
+--- Ce n'est que trop certain, ma pauvre chérie.
+
+--- Quand mon père, lui-même -- son père ! -- accueille comme vérités certains des bruits dont on ignore l'origine, quand il se meurt de chagrin et de honte sous nos yeux, sans avoir contrôlé ces racontars abominables, quand il ne s'écrie pas, en entendant accuser son fils : « Vous mentez ! George est incapable d'un pareil crime ! », comment pourrions-nous convaincre les étrangers, sans leur donner les preuves indéniables de l'innocence de mon frère ?
+
+--- C'est clair comme le jour, approuva Agénor en se grattant le menton. Mais voilà... Ces preuves... Où les trouver ?
+
+--- Pas ici, bien sûr...
+
+Jane fit une pause puis ajouta à demi-voix :
+
+--- Ailleurs peut-être.
+
+--- Ailleurs ? Où donc, ma chère enfant ?
+
+--- Où le drame se serait passé. À Koubo.
+
+--- À Koubo !
+
+--- Oui, à Koubo. On y trouverait d'abord la tombe de George, puisque c'est là qu'il est mort, d'après ce qu'on raconte et, s'il l'est en effet, on verrait de quelle manière il est mort. Ensuite, on chercherait, on trouverait des survivants du drame. La troupe que George commandait était nombreuse. Il est impossible que tout le monde ait disparu. Ces témoins, on les interrogerait, et par eux on connaîtrait la vérité.
+
+Le visage de Jane s'était illuminé, à mesure qu'elle parlait. Sa voix frémissait d'un enthousiasme contenu.
+
+--- Tu as raison, fillette, s'écria Agénor tombant ingénument dans le piège. Jane reprit son air mutin.
+
+--- Eh bien ! dit-elle, puisque j'ai raison, il faut y aller.
+
+--- Où ça ? demanda Agénor abasourdi.
+
+--- Mais... À Koubo, mon oncle.
+
+--- À Koubo ! Et qui diable veux-tu envoyer à Koubo ?
+
+Jane noua ses deux bras au cou d'Agénor.
+
+--- Vous, mon bon oncle, glissa-t-elle d'une voix douce.
+
+--- Moi !
+
+Agénor s'était dégagé.
+
+Cette fois, il était sérieusement en colère.
+
+--- Tu es folle ? protesta-t-il, tout en faisant mine de s'éloigner.
+
+--- Pas si folle, répliqua Jane en lui barrant le passage. Pourquoi, s'il vous plaît, n'iriez-vous pas à Koubo ? N'aimez-vous pas les voyages ?
+
+--- Je les exècre. Prendre un train à heure fixe, c'est au-dessus de mes forces. -- Et la pêche, vous l'exécrez aussi, n'est-il pas vrai ?
+
+--- La pêche ? Je ne vois pas...
+
+--- Que diriez-vous d'une friture pêchée dans le Niger ? Voilà qui ne serait pas banal ! Dans le Niger, où les goujons sont gros comme des requins, où les ablettes ressemblent à des thons ! Et cela ne vous tenterait pas ! -- Je ne dis pas... Cependant...
+
+--- Tout en pêchant, vous feriez votre enquête, vous interrogeriez les indigènes...
+
+--- En quelle langue ? interrompit railleusement Agénor. Je ne sache pas que ces cocos-là parlent anglais.
+
+--- C'est pourquoi, dit Jane sans avoir l'air d'y toucher, mieux vaudra les interroger en bambara.
+
+--- En bambara ? Est-ce que je sais le bambara, moi.
+
+--- Aussi allez-vous l'apprendre.
+
+--- À mon âge ?
+
+--- Je l'ai bien appris, moi qui suis votre tante !
+
+--- Toi ! Tu parles bambara ?
+
+--- Sans doute. Écoutez plutôt : Dji lokho a bé na.
+
+--- Quel est ce charabia ?
+
+--- Cela veut dire : « J'ai soif ».
+
+Et : I dou, nono i mita.
+
+--- J'avoue que... Nono... Mita...
+
+--- Cela signifie : « Entre, tu boiras du lait ». Et : *Koukho bé na, Kounou ouarara uté a man doumouni*. Ne cherchez pas. Traduction : « J'ai très faim, je n'ai pas mangé depuis hier soir ».
+
+--- Et il faudrait apprendre ça ?...
+
+--- Ça et autre chose, et même sans perdre de temps, car le jour du départ approche.
+
+--- Comment, le jour du départ ?... Mais je ne pars pas, moi ! En voilà une idée !... Non, mais, je ne me vois pas taillant une bavette avec tes sauvages. Jane parut renoncer à le convaincre.
+
+--- Alors, j'irai seule, dit-elle tristement.
+
+--- Seule !... Bégaya Agénor ahuri. Tu veux donc aller...
+
+--- À Koubo ? Parfaitement.
+
+--- À quinze cents kilomètres de la côte !
+
+--- À dix-huit cents, mon oncle.
+
+--- Affronter les plus grands dangers ! Et cela toute seule !
+
+--- Il le faut bien, puisque vous ne voulez pas venir avec moi, répliqua Jane d'un ton sec.
+
+--- C'est de la folie ! De l'aberration mentale ! Du *delirium tremens* ! s'écria Agénor, qui ne vit d'autre moyen que de s'enfuir en claquant la porte.
+
+Mais quand le lendemain, il voulut voir Jane, celle-ci lui fit répondre qu'elle ne recevait pas, et il en fut de même les jours suivants. Agénor n'était pas de la force à ce jeu. En quatre jours, il dut amener son pavillon. Au surplus, comme chaque fois que sa jeune tante désirait quelque chose, il en était arrivé graduellement à être de son avis.
+
+Ce voyage, jugé d'abord insensé, il l'estimait le lendemain possible à la rigueur, très faisable le troisième jour, extrêmement facile le quatrième. C'est pourquoi il ne s'était pas écoulé quatre fois vingt-quatre heures, qu'il faisait amende honorable, confessait son erreur et se déclarait prêt à partir. Jane eut la générosité de ne pas tenir rigueur.
+
+--- Apprenez d'abord la langue du pays, dit-elle en l'embrassant sur les deux joues.
+
+Dès lors, on ne vit plus Agénor que piochant consciencieusement sa grammaire bambara.
+
+Avant de se mettre en route, cependant, Jane devait s'assurer le consentement de son père. Ce consentement, elle l'obtint plus facilement qu'elle n'eût osé l'espérer. À peine lui avait-elle fait part, sans entrer dans aucun détail, de son intention d'entreprendre un voyage, que celui-ci acquiesça du geste, pour se replonger aussitôt dans sa morne tristesse. L'avait-il même écoutée ? De toute évidence, rien ne l'intéressait plus ici-bas.
+
+En règle de ce côté, Jane et Agénor commencèrent les préparatifs de leur expédition. Ils ignoraient à ce moment quel appui allait leur donner la mission Barsac. Ils agirent donc comme s'ils devaient entreprendre seuls et avec leurs seules ressources cette folle randonnée de trois à quatre mille kilomètres.
+
+Depuis plusieurs années, Jane avait soigneusement étudié la géographie des contrées qu'elle aurait à traverser. Les ouvrages de Flatters, du docteur Barth, du capitaine Binger, du colonel Monteil l'avaient exactement renseignée sur cette région et sur ses habitants.
+
+Elle avait appris ainsi que, si elle tentait une exploration à main armée, c'est-à-dire en s'entourant d'une troupe imposante de trois ou quatre cents volontaires, qu'il lui faudrait armer, nourrir et payer, elle serait entraînée d'abord à des dépenses considérables, et qu'elle se heurterait ensuite à des peuplades guerrières qui s'opposeraient par la force à un passage demandé par la force. Elle se verrait donc obligée de combattre pour atteindre son but, en admettant même qu'elle pût l'atteindre.
+
+Le capitaine Binger déclare que, si les indigènes le veulent, ils empêcheront toujours une expédition de passer, soit en l'attaquant, soit en faisant le vide devant elle et en la forçant ainsi à rétrograder faute de vivres.
+
+Jane, très frappée par cette remarque, avait donc décidé de tenter une exploration pacifique. Peu d'armes visibles, quelques hommes dévoués et sûrs, et le nerf de la guerre représenté ici, non seulement par de l'argent, mais aussi par des cadeaux destinés aux chefs des villages et à leurs administrés.
+
+Après avoir fait confectionner des vêtements en toile pour la saison sèche, et en grosse laine pour la saison des pluies, Jane et Agénor les disposèrent dans des malles légères, dont ils réduisirent le nombre au strict nécessaire. Puis ils firent emballer les cadeaux destinés aux naturels : mauvais fusils hors d'usage, étoffes imprimées, voyantes, bariolées, foulards de soie et de coton, perles en verroterie, aiguilles, épingles, mercerie, articles de Paris, galons, boutons, crayons, etc., en somme la pacotille d'un bazar.
+
+Ils emportaient encore avec eux une petite pharmacie, des armes, des longues-vues, des boussoles, des toiles de campement, quelques livres, des vocabulaires, les cartes les plus récentes, une batterie de cuisine, divers ustensiles de toilette, du thé, des vivres, en un mot une véritable cargaison, choisie avec discernement, d'objets indispensables pour un long séjour dans la brousse loin de tout centre de ravitaillement.
+
+Enfin un étui de métal, dont le nickel étincelait au soleil, contenait un choix de cannes à pêche, de lignes et d'hameçons, en quantité suffisante pour équiper une demi-douzaine de pêcheurs. Cela, c'était le bagage particulier d'Agénor.
+
+La tante et le neveu, ou l'oncle et la nièce, comme on voudra, étaient convenus de se rendre à Liverpool, d'où ils s'embarqueraient sur un navire de la White Star Line, *The Ceres*, pour la côte d'Afrique. Leur première intention était de partir de la Gambie anglaise. Mais, ayant appris, pendant une relâche à Saint-Louis, qu'une mission française était attendue à Conakry, et qu'elle devait suivre un itinéraire analogue au leur, ils résolurent de se joindre aux compatriotes de Saint-Bérain.
+
+Et pourtant, c'était surtout pour lui qu'elle tentait cette aventure pleine de dangers et de fatigues. C'était pour rendre un peu de joie à cette âme désolée, qu'elle allait s'efforcer de réhabiliter le nom, d'effacer la boue qui avait jailli sur le blason.
+
+L'heure du départ approchant, Jane fit demander à son père la permission de lui faire ses adieux.
+
+Elle fut introduite, ainsi qu'Agénor, dans la chambre du vieillard. Celui-ci était assis près d'une haute fenêtre qui donnait sur la campagne. Son regard fixe semblait perdu dans le lointain, comme s'il s'attendait à voir paraître quelqu'un. Qui cela ? George, son fils, George le traître ?
+
+En entendant sa fille entrer, il tourna doucement la tête, et son oeil éteint s'éclaira. Mais ce ne fut qu'une lueur. La paupière retomba ; le visage reprit son impassibilité coutumière.
+
+--- Adieu, mon père, murmura Jane en retenant ses larmes.
+
+Lord Glenor ne répondit pas. Se soulevant sur son fauteuil, il tendit la main à la jeune fille, puis l'attirant doucement contre sa poitrine, lui mit un baiser sur le front.
+
+De peur d'éclater en sanglots, Jane s'arracha à l'étreinte et s'enfuit en courant.
+
+Le vieillard saisit alors la main de M. De Saint-Bérain, la lui serra avec force, et, comme pour réclamer sa protection, montra du geste la porte par laquelle Jane venait de disparaître.
+
+--- Comptez sur moi, balbutia Agénor.
+
+Aussitôt, lord Buxton reprit sa position première, et son regard se perdit de nouveau dans la campagne, tandis que Saint-Bérain se retirait tout ému. Une voiture attendait les voyageurs dans la cour du château, pour les conduire à la gare d'Uttoxeter, distante d'environ deux miles.
+
+--- Où va-t-on ? demanda, en y montant, l'incorrigible Agénor, qui, encore troublé de la visite qu'il venait de faire, ne savait plus du tout pourquoi on quittait Glenor.
+
+Jane se contenta de hausser les épaules.
+
+On partit.
+
+Mais à peine avait-on fait cinq cents mètres que M. De Saint-Bérain manifesta soudain une agitation extraordinaire. Il ne pouvait parler, il suffoquait.
+
+--- Mes lignes ! Mes lignes ! s'écria-t-il enfin d'une voix déchirante.
+
+Il fallut retourner au château chercher les fameuses lignes que le distrait avait oubliées, et l'on perdit ainsi un bon quart d'heure. Quand on arriva à la station, l'express était en gare. Les voyageurs eurent tout juste le temps d'y monter, ce qui fit dire à Agénor, non sans une certaine vanité :
+
+--- C'est exactement la deuxième fois de ma vie que je ne rate pas mon train. Jane ne put s'empêcher de sourire à travers ses larmes, qu'elle laissait maintenant couler librement.
+
+Ainsi commença ce voyage qui ménageait aux deux explorateurs des surprises dont ils étaient bien loin de se douter. Jane l'aurait-elle entrepris, si elle avait su ce qui devait se passer en son absence ? Aurait-elle quitté son malheureux père, si elle avait pu soupçonner quel coup allait encore le frapper, tandis qu'elle risquait sa vie pour le sauver du désespoir ?
+
+Mais rien ne pouvait faire prévoir à Jane la tragédie qui devait se dérouler dans les bureaux de la Central Bank, non plus que l'accusation infamante dont son frère Lewis devait être l'objet, et, croyant servir son père, elle l'abandonna au moment même où son secours lui eût été le plus nécessaire. Apportée par un domestique trop zélé, la nouvelle de la disparition de Lewis Robert Buxton parvint à lord Glenor dans la matinée qui suivit le crime de Old Broad Street, c'est-à-dire le 1er décembre.
+
+Le choc eut la brutalité d'un coup de massue. Ce descendant sans tache d'une longue suite de héros, ce farouche desservant du culte de l'honneur, apprit en un instant que, de ses deux fils, l'un était un traître et l'autre un voleur.
+
+Le malheureux vieillard poussa un gémissement étouffé, porta les mains à sa gorge et tomba comme une masse sur le parquet.
+
+On s'empressa autour de lui. On le releva. On lui prodigua des soins, jusqu'à ce qu'il rouvrit les yeux.
+
+Le regard de ces yeux devait être désormais le seul signe que la vie n'eût point abandonné son coeur martyrisé. S'il vivait, son corps frappé de paralysie était condamné à une éternelle immobilité. Mais sans doute n'était-ce point encore assez pour épuiser la cruauté du sort. Dans ce corps à jamais immobile, le cerveau était demeuré lucide. Insensible, muet, inerte, lord Buxton pensait !
+
+Or, par suite de la différence de longitude, c'est au moment où son père s'écroulait inanimé, que Jane Buxton, aidée par le capitaine Marcenay, mettait le pied à l'étrier, et, franchissant le pont qui relie Conakry au continent, commençait réellement son voyage et faisait les premiers pas dans les ténèbres de la mystérieuse Afrique.
+
+]
+
+L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+]

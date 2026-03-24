@@ -1,0 +1,70 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 28"
+slug_section: "chapitre-28"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Émile de Girardin
+Il est peut-être à la fois trop tard et trop tôt pour parler aujourd'hui d'Émile de Girardin : trop tard pour une oraison funèbre, trop tôt pour un jugement définitif.
+
+Je me risquerai pourtant, car mon intention est moins de m'occuper de l'homme et de son œuvre, que d'étudier à propos de lui les rapports de la politique et de la littérature. Il a été un exemple bien typique, dans cette question qui me passionne. Une fois de plus, je reviens donc sur ce sujet, puisque l'actualité m'apporte des arguments décisifs.
+
+Songez un instant à la carrière politique d'Émile de Girardin. Quelle somme énorme de travail, quelle continuité d'efforts, quelle vie pleine, donnée tout entière aux affaires publiques ! Et, si l'on songe ensuite à l'inutilité pratique de tant de besogne, on demeure stupéfait ; car Émile de Girardin n'est jamais parvenu â monter au pouvoir, et l'on peut même affirmer qu'il n'a jamais eu la moindre influence directe dans le gouvernement du pays.
+
+Nos hommes politiques expliquent d'une phrase hi singulière anomalie de cet esprit si actif, qui a passé son existence à diriger les divers régimes, du haut de ses journaux, et dont tous les régimes se sont méfiés, au point de ne pas lui confier seulement une situation de garde champêtre. Ils disent : « Émile de Girardin n'était d'aucun parti. " Et cela explique tout, en effet : lorsqu'on n'est pas l'homme d'un parti en politique, on a beau aimer la vérité, la chercher et la vouloir en tout, on doit se résigner à ne l'imposer jamais, écrasé à droite et à gauche sous les différentes sectes qui jurent être les seules à la détenir.
+
+Au fond, Émile de Girardin a été le premier opportuniste. Il n'admettait que les faits ; tout régime existant lui était bon, car, disait-il, il vaut mieux améliorer que changer sans cesse. C'était presque déjà la conception d'une politique scientifique, basée sur la race, le milieu et les circonstances historiques. De là, les apparentes variations qu'on lui a tant reprochées : il poursuivait les mêmes émancipations sociales à travers tous les gouvernements, utilisant la République comme il avait utilisé la Royauté et l'Empire. Certes, il risquait souvent des utopies, et souvent aussi les faits donnaient tort à ses tentatives. Mais il n'en demeurait pas moins très logique avec lui-même.
+
+Tel a été son crime : il était seul, il ne s'appuyait sur aucune bande. Les monarchistes le regardaient comme un traître, les républicains ne pouvaient oublier ses campagnes contre eux. Dès lors, il ne lui était plus permis ni d'avoir raison, ni d'avoir tort. Avoir tort en tas, à plusieurs centaines de mille, parlez-moi de ça ! On est un parti, on est idiot à son aise, on attend son tour pour reprendre à sa façon les bêtises du parti qu'on remplace. Mais apporter une personnalité indépendante, émettre des idées en dehors des formules, aller en solitaire vers le vrai, sans ménager les ambitions ni les sottises d'un état-major, c'est ne vouloir jamais être quelque chose dans le plus éphémère des gouvernements, pas même ministre de l'instruction publique.
+
+!
+
+Eh oui ! en politique, on n'arrive à rien, on ne gouverne pas sans un parti. Émile de Girardin s'est trompé radicalement, s'il a cru que l'intelligence suffisait. En face de ce mort d'hier, dont l'activité a continuellement échoué, mettez donc les vivants d'aujourd'hui, qui réussissent si aisément sans rien faire. Leur triomphe est de ne pas avoir d'idées, car dès lors on ne se défie pas d'eux. Puis, ce sont des gens à ne point sortir leurs opinions à tous propos : ils ont épousé un parti, ils en défendent les crimes et les platitudes, ils sont prêts à le suivre jusque dans le sang et dans la boue, tout en étant parfois assez intelligents pour savoir à quoi s'en tenir. Voilà des hommes de gouvernement ! voilà des gaillards qui ont l'art de mettre les peuples en coupes réglées !
+
+Toute la misère de la politique est là. Si Émile de Girardin a souffert de son ambition déçue, c'est uniquement sa faute. Il a pris la politique de trop haut, dans la spéculation des idées : on est lapidé à faire ce métier, et l'on n'obtient pas mêmes des croix pour ses amis. Pour que la politique soit d'un bon rendement, il faut en tirer tout le pouvoir qu'on peut et avoir des créatures affamées à placer ; il faut régner sur un petit peuple de fanatiques, d'innocents et de malins qui ont intérêt à la toute-puissance du patron : il faut subordonner la vérité absolue à l'intérêt du parti, être imbécile à l'occasion, abdiquer ouvertement sa personnalité, accepter les mots d'ordre de la discipline. Dès lors, on vit du parti et on le fait vivre, on devient l'associé d'une exploitation quelconque, on a sa chapelle et son culte, on est en passe d'être dieu.
+
+Ne me parlez donc pas d'Émile de Girardin en politique ! C'était un enfant, malgré sa réputation d'habileté ; c'était un philosophe, un littérateur !
+
+Mais il faut insister, car le cas est vraiment trop joli.
+
+À tour de rôle, Émile de Girardin, qui n'était d'aucun parti, a été choyé et gâté par tous les partis. Quand il se rentait utile grâce à son grand talent, on le baisait tendrement sur les deux joues. Sous Louis-Philippe, dans plusieurs occasions, il a été de la sorte l'enfant chéri. En 1870, lorsqu'il soutenait le ministère Ollivier, l'Empire souriait et lui promettait le Sénat. Enfin, lors de sa furieuse campagne contre le 16 Mai, notre République, brusquement séduite, trouvait des chatteries de jeune femme pour ce vieillard ; et il a même dû à ce retour des républicains d'être enterré décemment.
+
+La bonne comédie ! Un parti le choyait tant qu'il se battait pour lui. Puis, si les faits, si les besoins de ce qu'il croyait être la vérité, le poussaient à défendre les intérêts d'un autre parti, c'étaient des huées dans la première bande, tandis que cet autre parti, qui l'injuriait la veille, le comblait à son tour de compliments. Dès lors, on comprend l'étonnante quantité de boue que lui a value son obstination d'indépendance, car il a eu successivement toutes les sectes politiques contre lui ; et trois ou quatre le salissaient à la fois, lorsqu'une seule s'occupait à lui essuyer hypocritement, sur le visage, ses crachats de la veille.
+
+Mais, dites-moi, que pensez-vous, en ces occasions, de la moralité des partis ? Émile de Girardin est, par son talent de polémiste, une force considérable ; ils le savent, ils en usent quand ils peuvent, quittes à la nier et à la qualifier abominablement, dès que leurs voisins en profitent à leur tour. Il y a mieux : toutes les fois qu'un parti, aidé par Émile de Girardin, arrive au pouvoir, il se hâte de le payer d'ingratitude, en le laissant à l'écart ; il s'est bien servi de lui ; mais, au lendemain de la victoire, il le traite en soldat suspect et compromettant. Pensez donc ! un homme qui est seul, qui a des idées à lui, qui se bat en enragé ! Et, chez les hommes politiques à principes, perce un mépris pour ce vaillant qui fait le coup de feu dans tous les camps, dès que la passion l'emporte.
+
+Farceurs ! ce n'était guère propre, ce que vous faisiez là. On n'accepte pas de ces coups d'épaule, quand on est résolu à ne pas les payer. Encore un de ces calculs peu moraux des hommes de gouvernement : ils emploient tous les outils, quittes à jeter ensuite ceux qui leur paraissent indignes ; ce qui, à leur manque complet de scrupules, ajoute une forte dose d'ingratitude. La politique est le cloaque où croupissent toutes les vilenies et toutes les lâchetés humaines.
+
+Et remarquez qu'Émile de Girardin, s'il n'avait pas de parti derrière lui, avait un public considérable. Quand il prenait un journal, brusquement la vente montait de cinquante à soixante mille exemplaires. Les hommes politiques ne pouvaient donc le traiter en rêveur solitaire, car beaucoup des plus importants d'entre eux, qui ont la bouche pleine de leur mandat, sont loin de s'appuyer sur une pareille foule. N'importe, il n'était qu'un journaliste : on le trouvait bon pour agir sur le pays, dans les crises graves ; mais, quant à le regarder comme pouvant représenter le pays, c'était une autre affaire. On ne représente pas le pays, lorsqu'on exprime la moyenne du bon sens de la nation, ce que pensent les braves gens qui restent chez eux. Pour le représenter, il faut être d'une bande, d'une minorité enrôlée sous un drapeau, et ne plus parler qu'au nom de cette poignée d'hommes.
+
+Je veux en arriver à ceci.
+
+Quand on est bâti comme Émile de Girardin, quand on a une personnalité, quand on entend marcher seul, à sa guise, on ne fait pas de la politique, on fait de la littérature. Dès lors, plus de honteux compromis, plus de mensonges imposés, plus de troupeau marchant sous le fouet de la discipline. L'écrivain est d'autant plus grand qu'il s'est dégagé davantage.
+
+Mais c'est ici le malheur d'Émile de Girardin : il a fait de la politique avec un tempérament d'écrivain, et je crois qu'on ne saurait le juger d'une phrase plus nette ni plus précise. Tout son cas découle de cette dualité de nature. Il ne laissera absolument rien, parce qu'en politique il a travaillé en philosophe, en utopiste, en simple virtuose de la polémique, et parce que dans les lettres il n'a vu uniquement que le côté social, dédaigneux de l'art et du mouvement des idées.
+
+Prenez sa grande création, celle à laquelle son nom restera attaché, cette presse politique à quarante francs, qui aujourd'hui règne sur l'opinion. Affiche-t-elle un assez beau mépris de la littérature ? Nourrit-elle le public d'une nourriture assez indigeste ? toujours de la politique, de la première page aux annonces ! Un homme qui a enfanté une pareille fille, si vide et si bruyante, encombrant l'esprit français d'une matière si grossière, n'aimait certainement pas les lettres, et soyez certain qu'il en portera la peine par un oubli rapide.
+
+Le plus singulier est que, pour lancer la *Presse*, autrefois, Émile de Girardin crut devoir utiliser la littérature. La spéculation était basée sur l'engouement du public, alors dans tout son feu, pour les romans-feuilletons. D'autre part, il a compté les écrivains célèbres de l'époque parmi ses collaborateurs. Mais les choses avaient bien changé quelques années plus tard. Sans doute, le succès étant venu, il s'imagina que la littérature, employée par lui à titre d'amorce, n'avait plus aucune raison d'être. Il ne conserva dans son amitié aucun des grands écrivains de 1830, et il ne chercha point à s'attacher les nouveaux écrivains qui grandissaient. Du moment que ses journaux marchaient sans littérature, il en paraissait enchanté : c'était un bon débarras, on allait donc pouvoir politiquailler jusqu'au ramollissement complet des lecteurs.
+
+Et c'est alors que poussèrent les journaux d'Émile de Girardin que ma génération a connus. J'avoue rester béant devant eux, comme un âne devant un tournebroche. Je ne les comprends pas, je ne parviens pas à m'imaginer comment des cerveaux français peuvent quotidiennement faire leur nourriture, et pour beaucoup leur nourriture unique, de ces feuilles où ils ne trouvent d'un bout à l'autre que de la politique, accompagnée parfois d'un peu de basse littérature ; et encore quelle politique ! un piétinement sur place, des douzaines d'articles filandreux à la file sur des questions infimes, du remplissage continuel pour combler les vides de la semaine, un effroyable, déluge de phrases n'apportant rien, tombant dans le vide à chaque numéro. Le pis est que, les journaux d'Émile de Girardin étant réputés pour être très bien faits, tous les nouveaux politiciens les imitent. De là, notre presse politique actuelle, que je déclare illisible, quand on a le cœur à gauche et qu'on ne nourrit pas l'ambition de devenir sous-préfet.
+
+J'osai dire mon sentiment à Émile de Girardin lui-même, un soir que je m'étais rencontré avec lui, dans une maison amie. Je ne l'avais pas revu depuis 1865, époque où il désira me connaître, après avoir lu un chaud plaidoyer signé de mon nom, en faveur de sa pièce : *les Deux Sœurs*. Il parut très surpris. Est-ce que réellement la littérature intéressait encore quelqu'un ? Ses abonnés ne lui en demandaient pas ; alors, à quoi bon leur en donner ? et, comme j'ajoutais que la passion des lettres est au moins aussi puissante que la passion de la politique, qu'on pouvait remuer les foules avec le seul mouvement littéraire, il eut un sourire de doute. Il était alors, je crois, dans le scrutin de liste, et il n'y avait au monde que le scrutin de liste. Le théâtre seul l'intéressait ; encore le considérait-il comme une tribune et rêvait-il d'y porter simplement ses batailles de polémiste.
+
+Je le répète pour conclure, la littérature se vengera de ce dédain sur sa mémoire. Le vent qui, chaque soir, emportait ses articles, emportera toute son œuvre.
+
+Et quel dommage ! car il y avait, dans cet homme, une personnalité superbe, une indépendance rare, un grand courage intellectuel, le plus beau des courages. C'est bien en cela qu'il était trop haut pour réussir dans les œuvres basses de la politique ; mais il y est trop descendu et il y restera étouffé, comme dans un tas de boue, sans jamais avoir eu les bénéfices de sa déchéance.

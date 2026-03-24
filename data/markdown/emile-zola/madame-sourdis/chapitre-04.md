@@ -1,0 +1,93 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5836 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[MADAME SOURDIS]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5837 .calibre35}
+
+## []{#_Toc368832902 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832628 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832354 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832080 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831806 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831532 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831258 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830984 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830710 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830436 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830162 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829888 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829614 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829340 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829066 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828792 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828518 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828244 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368827970 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Le lendemain, Ferdinand fut obligé de sortir après le déjeuner. Lorsqu'il revint, deux heures plus tard, et qu'il se fut absorbé comme à son habitude devant sa toile, il eut une légère exclamation.
+
+« Tiens, on a donc touché à mon tableau ! »
+
+À gauche, on avait terminé un coin du ciel et un bouquet de feuillages. Adèle, penchée sur sa table, s'appliquant à une de ses aquarelles, ne répondit pas tout de suite.
+
+« Qui est-ce qui s'est permis de faire ça ? reprit-il plus étonné que fâché. Est-ce que Rennequin est venu ?
+
+--- Non, dit enfin Adèle sans lever la tête. C'est moi qui me suis amusée\... C'est dans les fonds, ça n'a pas d'importance. »
+
+Ferdinand se mit à rire d'un rire gêné.
+
+« Tu collabores donc, maintenant ? Le ton est très juste, seulement il y a là une lumière qu'il faut atténuer.
+
+--- Où donc ? demanda-t-elle en quittant sa table. Ah ! Oui, cette branche. »
+
+Elle avait pris un pinceau et elle fit la correction. Lui, la regardait. Au bout d'un silence, il se remit à lui donner des conseils, comme à une élève, tandis qu'elle continuait le ciel. Sans qu'une explication plus nette eût lieu, il fut entendu qu'elle se chargerait de finir les fonds. Le temps pressait, il fallait se hâter. Et il mentait, il se disait malade, ce qu'elle acceptait d'un air naturel.
+
+« Puisque je suis malade, répétait-il à chaque instant, ton aide me soulagera beaucoup\... Les fonds n'ont pas d'importance. »
+
+Dès lors, il s'habitua à la voir devant son chevalet. De temps à autre, il quittait le canapé, s'approchait en bâillant, jugeait d'un mot sa besogne, parfois lui faisait recommencer un morceau. Il était très raide comme professeur. Le second jour, se disant de plus en plus souffrant, il avait décidé qu'elle avancerait d'abord les fonds, avant qu'il terminât lui-même les premiers plans ; cela, d'après lui, devait faciliter le travail ; on verrait plus clair, on irait plus vite. Et ce fut toute une semaine de paresse absolue, de longs sommeils sur le canapé, pendant que sa femme, silencieuse, passait la journée debout devant le tableau. Ensuite, il se secoua, il attaqua les premiers plans. Mais il la garda près de lui ; et, quand il s'impatientait, elle le calmait, elle achevait les détails qu'il lui indiquait. Souvent, elle le renvoyait, en lui conseillant d'aller prendre l'air dans le jardin du Luxembourg. Puisqu'il n'était pas bien portant, il devait se ménager ; ça ne lui valait rien de s'échauffer la tête ainsi ; et elle se faisait très affectueuse. Puis, restée seule, elle se dépêchait, travaillait avec une obstination de femme, ne se gênant pas pour pousser les premiers plans le plus possible. Lui, en était à une telle lassitude, qu'il ne s'apercevait pas de la besogne faite en son absence, ou du moins il n'en parlait pas, il semblait croire que son tableau avançait tout seul. En quinze jours, Le Lac fut terminé. Mais Adèle elle-même n'était pas contente. Elle sentait bien que quelque chose manquait. Lorsque Ferdinand, soulagé, déclarait le tableau très bien, elle restait froide et hochait la tête.
+
+« Que veux-tu donc ? disait-il avec colère. Nous ne pouvons pas nous tuer là-dessus. »
+
+Ce qu'elle voulait, c'était qu'il signât le tableau de sa personnalité. Et, par des miracles de patience et de volonté, elle lui en donna l'énergie. Pendant une semaine encore, elle le tourmenta, elle l'enflamma. Il ne sortait plus, elle le chauffait de ses caresses, le grisait de ses admirations. Puis, quand elle le sentait vibrant, elle lui mettait les pinceaux à la main et le tenait des heures devant le tableau, à causer, à discuter, à le jeter dans une excitation qui lui rendait sa force. Et ce fut ainsi qu'il retravailla la toile, qu'il revint sur le travail d'Adèle, en lui donnant les vigueurs de touche et les notes originales qui manquaient. C'était peu de chose et ce fut tout. L'oeuvre vivait maintenant.
+
+La joie de la jeune femme fut grande. L'avenir de nouveau était souriant. Elle aiderait son mari, puisque les longs travaux le fatiguaient. Ce serait une mission plus intime, dont les bonheurs secrets l'emplissaient d'espoir. Mais, en plaisantant, elle lui fit jurer de ne pas révéler sa part de travail ; ça ne valait pas la peine, ça la gênerait. Ferdinand promit en s'étonnant. Il n'avait pas de jalousie artistique contre Adèle, il répétait partout qu'elle savait son métier de peintre beaucoup mieux que lui, ce qui était vrai.
+
+Quand Rennequin vint voir Le Lac, il resta longtemps silencieux. Puis, très sincèrement, il fit de grands compliments à son jeune ami.
+
+« C'est à coup sûr plus complet que La Promenade, dit-il, les fonds ont une légèreté et une finesse incroyables et les premiers plans s'enlèvent avec beaucoup de vigueur\... Oui, oui, très bien, très original\... »
+
+Il était visiblement étonné, mais il ne parla pas de la véritable cause de sa surprise. Ce diable de Ferdinand le déroutait, car jamais il ne l'aurait cru si habile, et il trouvait dans le tableau quelque chose de nouveau qu'il n'attendait pas. Pourtant, sans le dire, il préférait La Promenade, certainement plus lâchée, plus rude, mais plus personnelle. Dans Le Lac, le talent s'était affermi et élargi, et l'oeuvre toutefois le séduisait moins, parce qu'il y sentait un équilibre plus banal, un commencement au joli et à l'entortillé. Cela ne l'empêcha pas de s'en aller, en répétant :
+
+« Étonnant, mon cher\... Vous allez avoir un succès fou. »
+
+Et il avait prédit juste. Le succès du Lac fut encore plus grand que celui de La Promenade. Les femmes surtout se pâmèrent. Cela était exquis. Les voitures filant dans le soleil avec l'éclair de leurs roues, les petites figures en toilette, des taches claires qui s'enlevaient au milieu des verdures du Bois, charmèrent les visiteurs qui regardent de la peinture comme on regarde de l'orfèvrerie. Et les gens les plus sévères, ceux qui exigent de la force et de la logique dans une oeuvre d'art, étaient pris, eux aussi, par un métier savant, une entente très grande de l'effet, des qualités de facture rares. Mais ce qui dominait, ce qui achevait la conquête du grand public, c'était la grâce un peu mièvre de la personnalité. Tous les critiques furent d'accord pour déclarer que Ferdinand Sourdis était en progrès. Un seul, mais un homme brutal, qui se faisait exécrer par sa façon tranquille de dire la vérité, osa écrire que, si le peintre continuait à compliquer et à amollir sa facture, il ne lui donnait pas cinq ans pour gâter les précieux dons de son originalité.
+
+Rue d'Assas, on était bien heureux. Ce n'était plus le coup de surprise du premier succès, mais comme une consécration définitive, un classement parmi les maîtres du jour. En outre, la fortune arrivait, des commandes se produisaient de tous côtés, les quelques bouts de toile que le peintre avait chez lui furent disputés à coups de billets de banque ; et il fallut se mettre au travail.
+
+Adèle garda toute sa tête, dans cette fortune. Elle n'était pas avare, mais elle avait été élevée à cette école de l'économie provinciale, qui connaît le prix de l'argent, comme on dit. Aussi se montra-t-elle sévère et tint-elle la main à ce que Ferdinand ne manquât jamais aux engagements qu'il prenait. Elle inscrivait les commandes, veillait aux livraisons, plaçait l'argent. Et son action, surtout, s'exerçait sur son mari, qu'elle menait à coups de férule.
+
+Elle avait réglé sa vie, tant d'heures de travail par jour, puis des récréations. Jamais d'ailleurs elle ne se fâchait, c'était toujours la même femme silencieuse et digne ; mais il s'était si mal conduit, il lui avait laissé prendre une telle autorité, que, maintenant, il tremblait devant elle. Certainement, elle lui rendit alors le plus grand service ; car, sans cette volonté qui le maintenait, il se serait abandonné, il n'aurait pas produit les oeuvres qu'il donna pendant plusieurs années. Elle était le meilleur de sa force, son guide et son soutien. Sans doute, cette crainte qu'elle lui inspirait ne l'empêchait pas de retomber parfois dans ses anciens désordres ; comme elle ne satisfaisait pas ses vices, il s'échappait, courait les basses débauches, revenait malade, hébété pour trois ou quatre jours. Mais, chaque fois, c'était une arme nouvelle qu'il lui donnait, elle montrait un mépris plus haut, l'écrasait de ses regards froids, et pendant une semaine alors il ne quittait plus son chevalet. Elle souffrait trop comme femme, lorsqu'il la trahissait, pour désirer une de ces escapades, qui le lui ramenaient si repentant et si obéissant. Cependant, quand elle voyait la crise se déclarer, lorsqu'elle le sentait travaillé de désirs, les yeux pâles, les gestes fiévreux, elle éprouvait une hâte furieuse à ce que la rue le lui rendît souple et inerte, comme une pâte molle qu'elle travaillait à sa guise, de ses mains courtes de femme volontaire et sans beauté. Elle se savait peu plaisante, avec son teint plombé, sa peau dure et ses gros os ; et elle se vengeait sourdement sur ce joli homme, qui redevenait à elle, quand les belles filles l'avaient anéanti. D'ailleurs, Ferdinand vieillissait vite ; des rhumatismes l'avaient pris ; à quarante ans, des excès de toutes sortes faisaient déjà de lui un vieillard. L'âge allait forcément le calmer.
+
+Dès Le Lac, ce fut une chose convenue, le mari et la femme travaillèrent ensemble. Ils s'en cachaient encore, il est vrai ; mais, les portes fermées, ils se mettaient au même tableau, poussaient la besogne en commun. Ferdinand, le talent mâle, restait l'inspirateur, le constructeur ; c'était lui qui choisissait les sujets et qui les jetait d'un trait large, en établissant chaque partie. Puis, pour l'exécution, il cédait la place à Adèle, au talent femelle, en se réservant toutefois la facture de certains morceaux de vigueur. Dans les premiers temps, il gardait pour lui la grosse part ; il tenait à honneur de ne se faire aider par sa femme que pour les coins, les épisodes ; mais sa faiblesse s'aggravait, il était de jour en jour moins courageux à la besogne, et il s'abandonna, il laissa Adèle l'envahir. À chaque oeuvre nouvelle, elle collabora davantage, par la force des choses, sans qu'elle-même eût le plan arrêté de substituer ainsi son travail à celui de son mari. Ce qu'elle voulait, c'était d'abord que ce nom de Sourdis, qui était le sien, ne fit pas faillite à la gloire, c'était de maintenir au sommet cette célébrité, qui avait été tout son rêve de jeune fille laide et cloîtrée ; ensuite, ce qu'elle voulait, c'était de ne pas manquer de parole aux acheteurs, de livrer les tableaux aux jours promis, en commerçante honnête qui n'a qu'une parole. Et alors elle se trouvait bien obligée de terminer en hâte la besogne, de boucher tous les trous laissés par Ferdinand, de finir les toiles, lorsqu'elle le voyait s'enrager d'impuissance, les doigts tremblants, incapables de tenir un pinceau. Jamais d'ailleurs elle ne triomphait, elle affectait de rester l'élève, de se borner à une pure besogne de manoeuvre, sous ses ordres. Elle le respectait encore comme artiste, elle l'admirait réellement, avertie par son instinct qu'il restait jusque-là le mâle, malgré sa déchéance. Sans lui, elle n'aurait pu faire de si larges toiles.
+
+Rennequin, dont le ménage se cachait comme des autres peintres, suivait avec une surprise croissante la lente substitution de ce tempérament femelle à ce tempérament mâle, sans pouvoir comprendre. Pour lui, Ferdinand n'était pas précisément dans une mauvaise voie, puisqu'il produisait et qu'il se soutenait ; mais il se développait dans un sens de facture qu'il n'avait pas semblé apporter d'abord. Son premier tableau, La Promenade, était plein d'une personnalité vive et spirituelle, qui, peu à peu, avait disparu dans les oeuvres suivantes, qui maintenant se noyait au milieu d'une coulée de pâte molle et fluide, très agréable à l'oeil, mais de plus en plus banale. Pourtant, c'était la même main, ou du moins Rennequin l'aurait juré, tant Adèle, avec son adresse, avait pris la facture de son mari. Elle avait ce génie de démonter le métier des autres et de s'y glisser. D'autre part, les tableaux de Ferdinand prenaient une odeur vague de puritanisme, une correction bourgeoise qui blessait le vieux maître. Lui qui avait salué dans son jeune ami un talent libre, il était irrité de ses raideurs nouvelles, du certain air pudibond et pincé qu'affectait maintenant sa peinture. Un soir, dans une réunion d'artistes, il s'emporta, en criant :
+
+« Ce diable de Sourdis tourne au calotin\... Avez-vous vu sa dernière toile ? Il n'a donc pas de sang dans les veines, ce bougre-là ! Les filles l'ont vidé. Eh ! Oui, c'est l'éternelle histoire, on se laisse manger le cerveau par quelque bête de femme\... Vous ne savez pas ce qui m'embête, moi ? C'est qu'il fasse toujours bien. Parfaitement ! Vous avez beau rire ! Je m'étais imaginé que, s'il tournait mal, il finirait dans un gâchis absolu, vous savez, un gâchis superbe d'homme foudroyé. Et pas du tout, il semble avoir trouvé une mécanique qui se règle de jour en jour et qui le mène à faire plat, couramment\... C'est désastreux. Il est fini, il est incapable du mauvais. »
+
+On était habitué aux sorties paradoxales de Rennequin, et l'on s'égaya. Mais lui se comprenait ; et, comme il aimait Ferdinand, il éprouvait une réelle tristesse.
+
+Le lendemain, il se rendit rue d'Assas. Trouvant la clé sur la porte, et s'étant permis d'entrer sans frapper, il resta stupéfait. Ferdinand n'y était pas. Devant un chevalet, Adèle terminait vivement un tableau dont les journaux s'occupaient déjà. Elle était si absorbée qu'elle n'avait pas entendu la porte s'ouvrir, ne se doutant pas d'ailleurs que la bonne venait, en rentrant, d'oublier sa clé dans la serrure. Et Rennequin, immobile, put la regarder une grande minute. Elle abattait la besogne avec une sûreté de main qui indiquait une grande pratique. Elle avait sa facture adroite, courante, cette mécanique bien réglée dont justement il parlait ta veille. Tout d'un coup, il comprit, et son saisissement fut tel, il sentit si bien son indiscrétion, qu'il essaya de sortir pour frapper. Mais, brusquement, Adèle tourna la tête.
+
+« Tiens ! C'est vous, cria-t-elle. Vous étiez là, comment êtes-vous entré ? »
+
+Et elle devint très rouge. Rennequin, embarrassé lui-même, répondit qu'il arrivait à peine. Puis, il eut conscience que, s'il ne parlait pas de ce qu'il venait de voir, la situation serait plus gênante encore.
+
+« Hein ? La besogne presse, dit-il de son air le plus bonhomme. Tu donnes un petit coup de main à Ferdinand. »
+
+Elle avait repris sa pâleur de cire. Elle répondit tranquillement :
+
+« Oui, ce tableau devrait être livré depuis lundi, et comme Ferdinand a eu ses douleurs\... Oh ! Quelques glacis sans importance. »
+
+Mais elle ne s'abusait pas, on ne pouvait tromper un homme comme Rennequin. Pourtant, elle restait immobile, sa palette et ses pinceaux aux mains. Alors, il dut lui dire :
+
+« Il ne faut pas que je te gêne. Continue. »
+
+Elle le regarda fixement quelques secondes. Enfin, elle se décida. Maintenant, il savait tout, à quoi bon feindre davantage ? Et, comme elle avait formellement promis le tableau pour le soir, elle se remit à la besogne, abattant l'ouvrage avec une carrure toute masculine. Il s'était assis et suivait son travail, lorsque Ferdinand rentra. D'abord, il éprouva un saisissement, à trouver ainsi Rennequin installé derrière Adèle, et la regardant faire son tableau. Mais il paraissait très las, incapable d'un sentiment fort. Il vint se laisser tomber près du vieux maître, en poussant le soupir d'un homme qui n'a plus qu'un besoin de sommeil. Puis, un silence régna, il ne sentait pas la nécessité d'expliquer les choses. C'était ainsi, il n'en souffrait pas. Au bout d'un instant il se pencha seulement vers Rennequin, tandis qu'Adèle, haussée sur les pieds, sabrait largement son ciel de grands coups de lumière ; et il lui dit, avec un véritable orgueil :
+
+« Vous savez, mon cher, elle est plus forte que moi !\... Oh ! Un métier ! Une facture ! »
+
+Lorsque Rennequin descendit l'escalier, remué, hors de lui, il parla tout haut, dans le silence.
+
+« Encore un de nettoyé !\... Elle l'empêchera de descendre trop bas, mais jamais elle ne le laissera s'élever très haut. Il est foutu ! »

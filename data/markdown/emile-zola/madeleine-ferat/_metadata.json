@@ -1,0 +1,155 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MADELEINE FÉRAT",
+  "slug": "madeleine-ferat",
+  "nombre_chapitres": 13,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 534,
+      "spine_end_exclusive": 536,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_059.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_060.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 536,
+      "spine_end_exclusive": 537,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_061.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 537,
+      "spine_end_exclusive": 538,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_062.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 538,
+      "spine_end_exclusive": 539,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_063.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 539,
+      "spine_end_exclusive": 540,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_064.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 540,
+      "spine_end_exclusive": 541,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_065.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 541,
+      "spine_end_exclusive": 542,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_066.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 542,
+      "spine_end_exclusive": 543,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_067.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 543,
+      "spine_end_exclusive": 544,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_068.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 544,
+      "spine_end_exclusive": 545,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_069.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 545,
+      "spine_end_exclusive": 546,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_070.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 546,
+      "spine_end_exclusive": 547,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_071.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 547,
+      "spine_end_exclusive": 548,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_072.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 548,
+      "spine_end_exclusive": 550,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_073.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_074.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/madeleine-ferat/Zola2_image008.jpg"
+  ]
+}

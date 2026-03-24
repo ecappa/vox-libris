@@ -1,0 +1,191 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "DÉCOUVERTE DE LA TERRE",
+  "slug": "decouverte-de-la-terre",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Avertissement",
+      "slug": "avertissement",
+      "is_part": false,
+      "spine_start": 2473,
+      "spine_end_exclusive": 2474,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_409.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre premier – Voyageurs célèbres avant l'ère chrétienne",
+      "slug": "chapitre-premier-voyageurs-celebres-avant-lere-chretienne",
+      "is_part": false,
+      "spine_start": 2474,
+      "spine_end_exclusive": 2475,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_410.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre II – Voyageurs célèbres du premier au neuvième siècle",
+      "slug": "chapitre-ii-voyageurs-celebres-du-premier-au-neuvieme-siecle",
+      "is_part": false,
+      "spine_start": 2475,
+      "spine_end_exclusive": 2476,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_411.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre III – Voyageurs célèbres du dixième au treizième siècle",
+      "slug": "chapitre-iii-voyageurs-celebres-du-dixieme-au-treizieme-siecle",
+      "is_part": false,
+      "spine_start": 2476,
+      "spine_end_exclusive": 2477,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_412.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre IV – Marco Polo (1253-1324).",
+      "slug": "chapitre-iv-marco-polo-1253-1324",
+      "is_part": false,
+      "spine_start": 2477,
+      "spine_end_exclusive": 2481,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_413.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_414.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_415.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_416.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre V – Ibn Batuta (1328-1353).",
+      "slug": "chapitre-v-ibn-batuta-1328-1353",
+      "is_part": false,
+      "spine_start": 2481,
+      "spine_end_exclusive": 2482,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_417.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VI – Jean de Béthencourt (1339-1425).",
+      "slug": "chapitre-vi-jean-de-bethencourt-1339-1425",
+      "is_part": false,
+      "spine_start": 2482,
+      "spine_end_exclusive": 2484,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_418.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_419.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VII – Christophe Colomb (1436-1506).",
+      "slug": "chapitre-vii-christophe-colomb-1436-1506",
+      "is_part": false,
+      "spine_start": 2484,
+      "spine_end_exclusive": 2489,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_420.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_421.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_422.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_423.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_424.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VIII – La conquête de l'Inde et du pays des épices",
+      "slug": "chapitre-viii-la-conquete-de-linde-et-du-pays-des-epices",
+      "is_part": false,
+      "spine_start": 2489,
+      "spine_end_exclusive": 2491,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_425.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_426.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre premier – Les Conquistadores de l'Amérique centrale",
+      "slug": "chapitre-premier-les-conquistadores-de-lamerique-centrale",
+      "is_part": false,
+      "spine_start": 2491,
+      "spine_end_exclusive": 2494,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0007.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0008.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0009.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre II – Premier voyage autour du monde",
+      "slug": "chapitre-ii-premier-voyage-autour-du-monde",
+      "is_part": false,
+      "spine_start": 2494,
+      "spine_end_exclusive": 2495,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0010.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre III – Les expéditions polaires et la recherche au passage du Nord-Ouest",
+      "slug": "chapitre-iii-les-expeditions-polaires-et-la-recherche-au-passage-du-nord-ouest",
+      "is_part": false,
+      "spine_start": 2495,
+      "spine_end_exclusive": 2497,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0011.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0012.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre IV – Les voyages d’aventures et la guerre de course",
+      "slug": "chapitre-iv-les-voyages-daventures-et-la-guerre-de-course",
+      "is_part": false,
+      "spine_start": 2497,
+      "spine_end_exclusive": 2498,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0013.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre V – Missionnaires et colons. Commerçants et touristes",
+      "slug": "chapitre-v-missionnaires-et-colons-commercants-et-touristes",
+      "is_part": false,
+      "spine_start": 2498,
+      "spine_end_exclusive": 2500,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0014.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0015.xhtml"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre VI",
+      "slug": "chapitre-vi",
+      "is_part": false,
+      "spine_start": 2500,
+      "spine_end_exclusive": 2503,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0016.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Section0017.xhtml",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_429.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

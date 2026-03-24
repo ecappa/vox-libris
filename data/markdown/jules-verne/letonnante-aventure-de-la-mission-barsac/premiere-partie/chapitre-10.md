@@ -1,0 +1,336 @@
+### [[Chapitre 10 -- La nouvelle escorte]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942910 .pcalibre2 .pcalibre1} {#chapitre-10-la-nouvelle-escorte .calibre171 .sigil_not_in_toc}
+
+(Carnet de notes d\'Amédée Florence.)
+
+
+*Même jour, le soir.* -- Non, je n\'aimerais pas me trouver avec eux au coin d\'un bois, et pourtant j\'y suis, ou plutôt je suis avec eux en pleine brousse, ce qui est pire, infiniment. Aussi la situation est-elle, à mes yeux, remplie de charme. Avoir conscience qu\'on court un danger, un vrai, et ne pas connaître ce danger ; avoir l\'intelligence tendue pour deviner ce qu\'on vous cache, l\'oeil et l\'oreille aux aguets pour parer le coup qu\'on pressent, sans savoir d\'où il viendra, rien de plus « excitant ». C\'est pendant ces heures-là qu\'on vit d\'une manière vraiment intensive, et ces sensations dégottent joliment le plaisir d\'un café-crème sur la terrasse du Napolitain.
+
+Allons ! Voilà que je m\'emballe, selon ma coutume. En me montrant des bandits, alors que nous avons affaire, sans doute, à des tirailleurs très ordinaires et très quelconques, mon imagination ne me jouerait-elle pas un mauvais tour ? Et la lettre, la lettre authentique du colonel Saint-Auban, qu\'est-ce que j\'en fais ?
+
+Ce qu\'on voudra. La lettre du colonel Saint-Auban me gêne, je l\'accorde, mais rien ne peut prévaloir contre l\'impression que me causent notre nouvelle escorte et son commandant.
+
+Et d\'abord, cet officier, ces sous-officiers, ces soldats sont-ils des « militaires » ? Pour les Noirs, on ne peut savoir. Ces nègres se ressemblent tous. Pour l\'officier, on est tenté de répondre oui. Par contre, on répond non sans hésiter en ce qui concerne les deux sergents. Des tirailleurs, ces têtes-là ? À d\'autres ! Nul besoin d\'être phrénologiste, physiognomoniste, ni tout autre savant en iste, pour lire sur ces faces-là : inquiétude de la bête traquée, goût des plaisirs grossiers, impulsivité sans contrôle, violence et cruauté.
+
+Charmant portrait !
+
+Ce qui m\'a frappé en premier lieu n\'est qu\'un détail, mais c\'est ce détail qui a ouvert le robinet de mes cogitations. N\'est-il pas bizarre, en effet, que ces hommes, sous-officiers compris, soient couverts de poussière, ainsi qu\'il sied à des gens courant après nous depuis quinze jours, et que leur chef soit frais comme s\'il sortait d\'une boîte ? Car il est frais, et même à un point invraisemblable. Linge blanc, chaussures brillantes, moustache cirée, c\'est tout à fait un joli garçon. Et sa tenue ? On dirait que le lieutenant Lacour va passer une revue. Il est d\'« ordonnance » de la tête aux pieds. Rien ne lui manque, pas un bouton, pas un fil, jusqu\'à son pantalon qui a le pli marchand ! On n\'a pas souvent l\'occasion, dans la brousse, d\'admirer une telle élégance. Cet uniforme-là crie à qui veut l\'entendre qu\'on ne l\'a jamais mis, qu\'il est tout neuf, et celui qui le porte, dans son désir d\'avoir l\'air « officier », me semble avoir dépassé les limites de la vraisemblance.
+
+Pour être si pimpant pendant que ses subordonnés sont aussi poussiéreux, le lieutenant Lacour ne nous donnait donc pas la chasse avec eux ?
+
+Les deux sergents sont, au contraire, abondamment sales, mais, s\'ils n\'ont pas l\'élégance exagérée de leur officier, ils pèchent, à mon avis, par l\'excès opposé. Leurs uniformes ( ?) semblent venir du « décrochez-moi ça ». Ils sont en loques. Leurs pantalons sont beaucoup trop courts et largement rapiécés, et aucun numéro, aucun signe quelconque n\'indique leur régiment. J\'ai peine à croire qu\'on entretienne aussi mal des soldats français, fussent-ils des engagés à court terme. Autre remarque plus difficile à traduire : il m\'apparaît que les propriétaires de ces vieux uniformes n\'ont pas l\'habitude de les porter.
+
+Sans que je puisse expliquer très bien pourquoi, ils n\'ont pas l\'air d\'être « chez eux » dans leurs vêtements.
+
+Telle est la liste complète de mes remarques et observations. On trouvera peut-être que c\'est maigre et que j\'ai grandement tort de me laisser influencer par des particularités insignifiantes, qui s\'expliquent peut-être le plus simplement du monde ? Je ne dis pas non, car je ne suis pas loin d\'avoir moi-même cette opinion. En cherchant à préciser, pour les noter sur ce carnet, les raisons de ma méfiance, je suis le premier à les trouver bien faibles. Mais c\'est aussi que cette méfiance est surtout instinctive, et cela, je ne peux le rendre avec des mots.
+
+Quoi qu\'il en soit, je n\'ai rien à ajouter à ce qui précède. Pour la discipline, notamment, rien à dire. Même, elle serait plutôt trop stricte, à mon idée.
+
+Les sentinelles sont à leur poste et se relèvent régulièrement. La tenue générale est parfaite, trop parfaite peut-être.
+
+L\'escorte se divise nettement en trois groupes qui ne fraient aucunement avec le surplus du convoi. Le premier comprend les vingt tirailleurs soudanais. En dehors de leurs heures de garde, ils ne se quittent pas, et, chose incroyable quand il s\'agit de Noirs, ils parlent à peine. Ils font leur popote en silence, ou ils dorment. On ne les entend pas. Ils obéissent au doigt et à l\'oeil à leurs sous-officiers, qu\'ils paraissent beaucoup redouter. Il semblerait, en somme, que ces vingt nègres sont très tristes et qu\'ils ont peur.
+
+Le deuxième groupe réunit les sous-officiers. Ceux-ci causent, mais exclusivement ensemble, et toujours à mi-voix. Malgré mon oreille de reporter, je n\'ai pu, jusqu\'ici, saisir au vol que peu de mots sans importance.
+
+Le troisième et dernier groupe est composé du lieutenant Lacour tout seul. Ce lieutenant Lacour est un homme de petite taille, qui me fait l\'effet d\'être un monsieur pas commode. Il a des yeux bleu pâle, des yeux d\'acier, comme on dit, qui n\'expriment pas précisément une bienveillance universelle. Pas bavard, et sauvage avec ça. De tout l\'après-midi, je ne l\'ai vu sortir de sa tente que deux fois, et uniquement pour inspecter ses hommes. Cette opération n\'est pas variée. En apercevant leur chef, les tirailleurs se lèvent et se mettent en ligne. Le lieutenant, raide comme un piquet, passe devant eux, tandis que son regard glacé les parcourt de la tête aux pieds, puis il disparaît chez lui, sans avoir adressé la parole à personne. En mettant tout au mieux, j\'ose dire que cet élégant officier ne sera pas, du moins, un joyeux compagnon.
+
+De toute la journée, je n\'ai pas aperçu Mlle Mornas.
+
+Ni Tchoumouki non plus, ce qui fait que j\'ai toujours mon article en poche.
+
+
+*15 février.* -- Au réveil, ce matin, je ne constate aucun préparatif de départ. Je m\'informe auprès de Tongané, lequel m\'apprend que nous ne bougerons pas de toute la journée. Après le repos d\'hier, cette halte me paraît étrange. Le hasard me fait croiser le lieutenant Lacour, toujours aussi raide et d\'une aussi impeccable élégance. Je l\'aborde, et lui demande la raison de cet arrêt supplémentaire.
+
+--- Ordre de M. Barsac, me répond-il laconiquement.
+
+Quatre mots, après lesquels il fait le salut militaire et pivote sur ses talons.
+
+Le lieutenant Lacour n\'est pas ce qu\'on appelle un brillant causeur. Pourquoi le chef de la mission nous fait-il ainsi marquer le pas ? Renoncerait-il à poursuivre le voyage avec cette escorte réduite des quatre cinquièmes ? Cela m\'intrigue.
+
+Cela m\'inquiète aussi, puisque cette décision mettrait le point final à un reportage que je pressens être sur le point de devenir sensationnel. Précisément, vers dix heures, j\'aperçois M. Barsac. Il se promène à grands pas, les mains derrière le dos, les yeux vers le sol, et n\'a pas l\'air de bonne humeur. Le moment n\'est peut-être pas très bien choisi pour lui demander quels sont ses projets. Cette considération ne m\'arrête pas, et je risque l\'interview.
+
+M. Barsac ne se fâche pas. Il s\'arrête, et me regarde un bon moment en silence. Enfin, il me dit :
+
+--- Il y a quelques jours, monsieur Florence, vous m\'avez déjà posé la même question. Je ne vous ai pas répondu. Je vous répondrai aujourd\'hui que je ne sais pas moi-même quelle réponse je dois faire.
+
+--- Vous n\'avez donc pris encore aucune décision, monsieur le député ? -- Aucune. Je réfléchis, je tâtonne, je pèse le pour et le contre\...
+
+Nouveau silence, puis, tout à coup :
+
+--- Mais, au fait, s\'écrie M. Barsac, pourquoi n\'examinerions-nous pas la question ensemble ? Vous êtes un garçon pratique et plein de bon sens. (Merci bien, monsieur Barsac.) Vous me donnerez votre avis.
+
+Je m\'incline.
+
+--- À vos ordres, monsieur le député.
+
+--- Examinons d\'abord, reprend M. Barsac, si ce voyage peut être continué sans imprudence ; en d\'autres termes, s\'il est possible.
+
+Je suggère :
+
+--- Peut-être vaudrait-il mieux examiner d\'abord s\'il est utile.
+
+--- Du tout, réplique M. Barsac, son utilité est certaine.
+
+Un homme étonné, c\'est moi. Cependant, M. Barsac poursuit.
+
+--- Donc, ce voyage est-il faisable ? Voilà le problème. Hier encore, il ne se posait même pas, car, jusqu\'ici, aucun incident vraiment sérieux n\'avait marqué notre route. C\'est bien votre opinion, n\'est-ce pas ?
+
+--- Tout à fait.
+
+--- Le premier incident qui ait une réelle gravité, c\'est le changement inopiné de notre escorte et sa réduction à vingt hommes. Vingt hommes sont-ils capables d\'assurer notre sécurité au milieu de cette population nègre ? Je me le demande.
+
+--- Ainsi posée, dis-je, la question ne comporte qu\'une réponse affirmative. Il me paraît certain que vingt hommes sont largement suffisants, si nous ne rencontrons que des nègres pour adversaires. D\'autres explorateurs ont fait des voyages plus longs que le nôtre avec une escorte moindre, ou même absolument sans escorte. Mais\...
+
+--- Je sais ce que vous allez dire, interrompt M. Barsac. Vous allez parler du mystérieux inconnu qui paraît mécontent de nous voir dans ce pays. Je n\'ai pas caché mon sentiment à cet égard, et tout le monde m\'a approuvé. Rien de nouveau n\'est survenu depuis. Donc, inutile d\'y revenir, selon moi.
+
+Je réplique.
+
+--- Veuillez m\'excuser, monsieur le député, mais je crois qu\'il y a eu du nouveau, au contraire.
+
+--- Bah ! fait M. Barsac, surpris. Du nouveau qu\'on m\'aurait caché, alors. Expliquez-vous.
+
+Ainsi mis au pied du mur, je ne laisse pas d\'être très embarrassé.
+
+Mes remarques, qui me semblaient si importantes, et leurs conséquences, que je jugeais si fortement déduites, lorsque j\'examinais les unes et les autres en moi-même, m\'apparaissent, maintenant qu\'il me faut les exprimer à haute voix, encore plus insignifiantes et plus arbitraires qu\'au moment où j\'ai dû les préciser par écrit.
+
+Cependant, puisque j\'ai sottement engagé le doigt dans l\'engrenage -- c\'était mon devoir, au surplus -- il faut bien m\'exécuter.
+
+Je m\'exécute. Je communique à M. Barsac mes observations sur notre escorte et sur l\'officier qui la commande, et, sous forme de conclusion, je formule timidement l\'hypothèse que, si ces gens-là ne sont pas de véritables soldats, ils pourraient bien être à la solde de l\'ennemi inconnu que nous n\'avons pas voulu prendre au tragique jusqu\'ici.
+
+En entendant ces énormités, M. Barsac se met à rire.
+
+--- C\'est du roman ! s\'écrie-t-il. Vous me paraissez avoir, monsieur Florence, une brillante imagination. Elle vous sera fort utile, s\'il vous plaît jamais d\'aborder le théâtre, mais je vous conseille de vous en méfier dans la vie réelle.
+
+--- Cependant\... Dis-je, piqué.
+
+--- Il n\'y a pas de cependant. Il y a des faits. L\'ordre écrit, d\'abord\... -- Il peut être faux.
+
+--- Non, réplique M. Barsac, puisque le capitaine Marcenay l\'a estimé véritable et qu\'il a obéi sans hésiter.
+
+--- Il a pu être volé\...
+
+--- Encore du roman ! Comment, je vous prie, se serait-on substitué à la véritable escorte ? Il aurait fallu, dans cette hypothèse, tenir prête une troupe assez nombreuse pour, premièrement, détruire les soldats authentiques jusqu\'au dernier, jusqu\'au dernier, vous entendez bien, et, deuxièmement, afin d\'être d\'accord avec l\'ordre dont on se serait emparé, leur substituer un faux détachement absolument identique, et cela longtemps à l\'avance, à un moment où personne ne pouvait savoir quelle serait la composition de la nouvelle escorte, ni même que cette escorte dût être jamais envoyée par le colonel Saint-Auban.
+
+Aucun des hommes du lieutenant Lacour n\'étant blessé, cette troupe aurait dû être très nombreuse, car vous n\'admettez pas, je pense, que les soldats véritables se seraient laissés massacrer sans se défendre. Et vous voudriez que la présence d\'une bande aussi importante n\'eût pas été remarquée, que le bruit d\'un pareil combat ne fût pas parvenu jusqu\'à nous, alors que les nouvelles, dans la brousse, se transmettent de village en village avec la rapidité du télégraphe ? Voilà à quelles impossibilités on se heurte, quand on lâche la bride à son imagination !
+
+M. Barsac a raison. L\'ordre n\'a pas été volé. Il continue :
+
+--- Quant à l\'impression que vous ont faite les hommes et leurs chefs, sur quoi repose-t-elle ? En quoi ces tirailleurs, que vous apercevez d\'ici, diffèrent-ils de tous les tirailleurs noirs ?
+
+Je regarde comme j\'y suis invité, et je suis forcé de reconnaître que M. Barsac a encore raison. Où donc avais-je l\'esprit, hier soir ? Je me suis suggestionné moi-même. Ces nègres-là sont pareils à tous les nègres.
+
+M. Barsac a conscience de son avantage. Il reprend avec plus d\'assurance (et Dieu sait pourtant si c\'est l\'assurance qui lui manque !) :
+
+--- Passons aux sous-officiers. Qu\'est-ce que vous leur trouvez de particulier ? Ils sont très sales, c\'est vrai, mais pas plus que certains sergents du capitaine Marcenay. On ne peut pas, en campagne, être très pointilleux sur le chapitre des uniformes.
+
+C\'est parler d\'or.
+
+Je glisse timidement, car je suis réellement ébranlé :
+
+--- Le lieutenant Lacour, cependant\...
+
+--- Oh ! Il est d\'une correction extraordinaire, s\'écrire M. Barsac en souriant. C\'est évidemment un homme très soigné de sa personne et très porté sur l\'article toilette. Ce n\'est pas un crime.
+
+Non, ce n\'en est pas un. Je fais un dernier effort, et j\'insinue :
+
+--- Tout de même, un uniforme tout battant neuf, c\'est bizarre !
+
+--- Parce que l\'autre est dans la cantine du lieutenant, explique M. Barsac qui a réponse à tout. Comme il était couvert de poussière, M. Lacour a voulu se mettre en grande tenue avant de se présenter devant moi.
+
+M. Barsac a l\'air de trouver cette préoccupation très naturelle. Après tout, c\'est peut-être moi qui ne me rends pas exactement compte de l\'importance du chef de la mission.
+
+--- D\'ailleurs, j\'ai longuement causé avec le lieutenant Lacour, hier, au cours de l\'après-midi\...
+
+(Pendant que j\'écrivais mes notes, probablement.)
+
+---\... C\'est un homme charmant, malgré ses goûts d\'élégance exagérés, je vous le concède. Poli, bien élevé, déférent, respectueux même\...
+
+Ici, M. Barsac se rengorge.
+
+---\... Respectueux même, j\'ai trouvé en lui une relation très agréable et un subordonné très souple.
+
+Je demande :
+
+--- Le lieutenant Lacour ne voit-il, pour sa part, aucun inconvénient à poursuivre notre voyage dans ces conditions ?
+
+--- Aucun.
+
+--- Vous hésitiez, cependant, monsieur le député.
+
+--- Je n\'hésite plus, déclare M. Barsac, qui s\'est convaincu lui-même en parlant. Nous partirons demain.
+
+J\'interroge :
+
+--- Sans même examiner l\'utilité du voyage, après en avoir établi la possibilité ?
+
+L\'ironie discrète de ma question passe inaperçue.
+
+--- À quoi bon ? répond M. Barsac. Ce voyage n\'est pas seulement utile, il est nécessaire.
+
+Je répète, sans comprendre :
+
+--- Nécessaire ?
+
+Tout à fait de bonne humeur, M. Barsac me prend familièrement le bras, et, sur le ton de la confidence, il m\'explique :
+
+--- Entre nous, mon cher, je veux bien vous accorder que, depuis un certain temps déjà, les Noirs que nous rencontrons sont loin d\'être assez dégrossis pour qu\'on puisse en faire des électeurs. Je vous accorderai encore, si vous m\'en pressez, que nous n\'avons aucune chance d\'être plus heureux, tant que nous tournerons le dos à la côte. Mais, ce que je vous dis à vous, je ne le dirai pas à la tribune de la Chambre. Or, si nous terminons ce voyage, les choses se passeront de la manière suivante : Baudrières et moi, nous déposerons un rapport dont les conclusions seront diamétralement opposées. Ces rapports seront renvoyés à une commission. Là, ou nous nous ferons de mutuelles concessions, et l\'on accordera l\'électorat à quelques nègres en bordure de l\'océan, ce qui constituera une victoire à mon actif, ou nous ne ferons aucune concession, et l\'affaire sera enterrée. Au bout de huit jours, on n\'y pensera plus, et personne ne saura si les faits m\'ont donné tort ou raison. Dans les deux cas, rien ne s\'opposera à ce que Baudrières ou moi, selon le vent, nous ayons un jour ou l\'autre le portefeuille des Colonies.
+
+Que je revienne, au contraire, sans avoir accompli ma mission jusqu\'au bout, ce sera proclamer moi-même que je me suis fourvoyé, mes ennemis crieront à tue-tête que je ne suis qu\'une vieille ganache, et je serai définitivement coulé.
+
+M. Barsac fait une petite pause, puis il conclut par cette pensée profonde :
+
+--- N\'oubliez jamais cette vérité, monsieur Florence : un homme politique peut se tromper. Cela n\'a aucune importance. S\'il reconnaît son erreur, il est perdu.
+
+Je savoure la maxime et je m\'en vais content. Je suis très content, en effet, car je connais maintenant les raisons de chacun.
+
+En quittant M. Barsac, je tombe en arrêt sur le carnet de M. Poncin, que celui-ci a, par hasard, oublié sur un pliant. Mes instincts de journaliste prennent le pas sur ma bonne éducation, et j\'ouvre délibérément le carnet. Il y a trop longtemps qu\'il m\'intrigue. Il y a trop longtemps que je me demande ce que notre silencieux compagnon peut bien y écrire du matin au soir. Je vais enfin le savoir.
+
+Hélas ! Je suis puni de ma curiosité. Je n\'aperçois qu\'un hérissement de chiffres et de lettres embrouillés à plaisir et totalement incompréhensibles. Ce ne sont que des « p. J. 0,0009 », des « p. K. C. 135,08 » des « M.76,18 », et ainsi de suite.
+
+Un mystère de plus ! Pourquoi cette écriture secrète ? M. Poncin aurait-il donc quelque chose à cacher ? Trahirait-il, lui aussi ?
+
+Allons, encore une marotte. Il faudra soigner ça. Quelle idée de suspecter ce brave homme ! Je lui fais trop d\'honneur, car, je peux bien le dire à ce carnet sur lequel j\'écris pour moi seul, il n\'est pas fort, M. Poncin.
+
+Mais on est journaliste ou on ne l\'est pas. À tout hasard, je copie des exemples de ces hiéroglyphes choisis parmi ceux qui reviennent presque quotidiennement. J\'obtiens :
+
+
+5 D. V. T. 7. H. 3306. M.472,28. F 1895. P. V. 1895 : 7 = 270,71. K. C. 122. P. K. C. 3306 : 122 = 27,09. P. T. 27,09 X 54,600 = 1 479114. 16 F. V. T. 81. H. 12 085. M.149,19. F. 6654. P. V. 6654 : 81 = 82,15. K c. 1401. P. K. C. 12 085 : 1401 = 8,62. P. T. 8,62 X 54600 = 470 652.
+
+
+Je remets le carnet en place, et je me sauve avec mon butin. Ça servira peut-être. On ne sait jamais.
+
+Dans l\'après-midi, promenade. Je me fais accompagner par Tongané, qui prend le cheval de Tchoumouki, meilleur que le sien. Nous allons dans la campagne au petit trot. Au bout de cinq minutes, Tongané, que la langue démange, me dit *ex abrupto* :
+
+--- Y en a bon Tchoumouki partir. Tchoumouki sale nègre. Lui trahir.
+
+En voilà bien d\'une autre ! Comment ! Tchoumouki nous trahissait, lui aussi ? Je comprends que c\'est le moment de me documenter. Je fais l\'étonné.
+
+--- C\'est Moriliré que tu veux dire.
+
+--- Y en a pas bon Moriliré, prononce énergiquement Tongané. Mais Tchoumouki même chose Moriliré. Dire nègres : « Y a pas bon marcher. » Donner beaucoup *dolo toubab* (eau-de-vie), beaucoup argent, beaucoup or. De l\'or entre les mains de Moriliré et de Tchoumouki ? C\'est invraisemblable.
+
+--- Tu veux dire qu\'ils donnaient des cauries aux nègres, pour s\'en faire bien voir ?
+
+--- Pas cauries, insiste Tongané.
+
+Beaucoup or.
+
+Et il ajoute ce détail, qui me renverse :
+
+--- Beaucoup or *english*.
+
+--- Tu connais donc l\'or anglais, Tongané ?
+
+--- *Ioo,* me répond le Noir. Moi Achanti. Moi connaître *livchterlignes*.
+
+Je comprends que Tongané, par ce vocable singulier, nomme à sa manière les livres sterling. Le mot est drôle. J\'ai tenté l\'orthographe phonétique pour le transcrire, mais, dans la bouche de Tongané, c\'est mieux. Toutefois, je n\'ai pas envie de rire, en ce moment. De l\'or -- et de l\'or anglais ! -- entre les mains de Tchoumouki et de Moriliré !\... Je suis confondu. Bien entendu, je n\'en laisse rien paraître, et j\'ai l\'air de n\'attacher aucune importance au renseignement.
+
+--- Tu es un brave garçon, Tongané, dis-je à mon compagnon, et, puisque tu connais si bien les *livchterlignes*, prends cette petite pièce d\'or à l\'effigie de la République française.
+
+--- Y a bon République ! Crie, au comble de la joie, Tongané, qui fait sauter en l\'air la pièce que je lui offre, la rattrape au vol et l\'insinue dans une des fontes de la selle.
+
+Son visage exprime aussitôt de l\'étonnement, et, de la cavité dans laquelle il l\'a introduite, sa main retire un gros rouleau de papier, objet peu courant chez les nègres, en effet. Je pousse un cri, et j\'arrache à Tongané ce rouleau que j\'ai parfaitement reconnu.
+
+Mes articles ! Ce sont mes articles ! Mes articles si remarquables restés dans les fontes de ce coquin de Tchoumouki ! Je vérifie. Hélas ! Ils y sont bien tous, à compter du cinquième inclusivement.
+
+Combien sévèrement ne doit-on pas me juger à l\'*Expansion française* ! Je suis déshonoré, à jamais perdu de réputation !
+
+Tandis que je roule ces tristes pensées, nous continuons à nous éloigner au petit trot de nos chevaux. Nous devons être à six kilomètres du camp environ, lorsque je m\'arrête soudainement. Je viens de découvrir quelque chose de curieux.
+
+C\'est, presque en bordure du chemin, un espace large de six à sept mètres, long de cinquante à peu près, tracé au milieu de la brousse. Dans cet espace, les hautes herbes sont couchées, écrasées, beaucoup même sont coupées net comme aurait pu le faire une faux gigantesque. Or, et c\'est cela surtout qui a attiré mon attention, dans la partie ainsi dénudée, on distingue nettement deux ornières parallèles, semblables à celles que nous avons remarquées près de Kankan, c\'est-à-dire profondes de huit à dix centimètres à l\'une de leurs extrémités et s\'effaçant insensiblement à l\'autre bout. Cette fois, le côté profond est à l\'est.
+
+Je fais malgré moi un rapprochement entre cette couple d\'ornières et le bourdonnement entendu l\'autre soir. À Kankan aussi, nous l\'avions entendu, le bourdonnement étrange, avant de constater sur le sol ces inexplicables traces.
+
+Quel rapport y a-t-il entre ces deux phénomènes -- bourdonnement, couple d\'ornières -- et le *kéniélala* de Kankan ? Je n\'en vois pas. Pourtant, ce rapport doit exister, puisque, tandis que je considère ces énigmatiques sillons, mon subconscient évoque de lui-même la vilaine figure du sorcier nègre. Et voilà que cette vérité m\'apparaît soudain que, des quatre prédictions de ce farceur, la troisième, après les deux premières, vient de se réaliser !
+
+Alors, seul avec mon noir compagnon dans cette immensité, déserte, un frisson -- le second, en comptant celui d\'hier -- me parcourt de la nuque au talon, et, pendant un instant, songeant au mystère qui m\'entoure, j\'ai peur. C\'est exquis, surtout dans de pareilles conditions. Malheureusement, ça ne dure pas, car je ne suis pas très bien organisé pour la peur. Mon point faible, à moi, c\'est la curiosité. Aussi, tandis que nous revenons, je ressasse à satiété les irritants problèmes qui me sont posés et m\'entête à en poursuivre la solution. Cet exercice m\'absorbe tellement que je ne vois plus rien autour de moi.
+
+En arrivant au camp, je sursaute. Tongané, sans aucun préambule, m\'a dit tout à coup :
+
+--- *Toulatigui* (lieutenant) y a pas bon. Sale tête singe.
+
+Je réponds sans même y penser, ce qui est mon excuse :
+
+--- Tu parles !\...
+
+
+*17 février.* -- Forte étape aujourd\'hui, et plus forte encore hier. Cinquante kilomètres dans ces deux jours. Tchoumouki n\'a pas reparu -- la canaille ! On s\'en aperçoit. Sous la direction unique de Tongané, nos âniers et porteurs font merveille, et marchent avec le maximum d\'entrain dont ils sont capables.
+
+Pendant ces deux jours, les craintes que j\'avais conçues se sont atténuées, je le confesse. L\'escorte a fait correctement son métier, qui, d\'ailleurs, n\'est pas difficile. Les vingt hommes, en deux files, encadrent le convoi, comme l\'encadraient ceux du capitaine Marcenay. Je remarque seulement qu\'ils n\'échangent pas, avec notre personnel noir, ces facéties de même couleur dont leurs prédécesseurs n\'étaient pas avares. Cela fait honneur, en somme, à leur discipline.
+
+Les deux sous-officiers restent en général à l\'arrière-garde, quand ils ne parcourent pas la ligne des tirailleurs.
+
+Ils ne parlent à personne, sauf à leurs hommes, auxquels ils adressent, de temps à autre, des ordres brefs aussitôt exécutés. Il faut reconnaître que, si notre escorte est peu nombreuse, elle est du moins fortement commandée. Le lieutenant Lacour se tient en tête, à peu près à la place qu\'occupait le capitaine Marcenay, à côté de M. Barsac. Je remarque que Mlle Mornas a rétrogradé de quelques rangs. Elle est avec Saint-Bérain, derrière le docteur Châtonnay et M. Poncin. Mlle Mornas n\'a pas l\'air de priser beaucoup la société du lieutenant.
+
+Rien à dire sur le compte de celui-ci, cependant. S\'il parle peu, il agit. Il est certain que son attitude énergique n\'est pas étrangère au résultat très satisfaisant de ces deux journées de marche.
+
+Non, rien à dire. Et pourtant\...
+
+Mais ce doit être chez moi une idée fixe. Le mystère que je sens autour de nous, les faits bizarres que j\'ai constatés m\'ont sans doute troublé la cervelle, et je suis enclin, trop enclin sans doute à voir la trahison partout. Quoi qu\'il en soit, voici ce qui motive ma restriction.
+
+C\'était ce matin, vers neuf heures. Nous traversons alors un petit hameau de quelques feux complètement désert, quand nous entendons des gémissements sortir de l\'une des cases. Sur l\'ordre de M. Barsac, le convoi s\'arrête, et le docteur Châtonnay, accompagné du lieutenant Lacour et de deux tirailleurs, pénètre dans la case d\'où partent les plaintes. Bien entendu, la presse, c\'est-à-dire moi, y pénètre avec eux.
+
+Dans la pièce où nous entrons, un triste spectacle frappe nos regards.
+
+Il y a deux morts et un blessé. Chose affreuse, les deux cadavres, un homme et une femme, sont abominablement mutilés. Qui a tué et blessé ces pauvres gens ? Qui s\'est rendu coupable de ces atroces mutilations ?
+
+Le docteur Châtonnay s\'occupe d\'abord du blessé. Comme il fait trop noir dans la case, les tirailleurs le portent au-dehors sur son ordre. C\'est un assez vieux nègre. Il est atteint à l\'épaule, et la blessure est terrible. Les os de la clavicule sont à nu. Je me demande quelle arme a pu causer de tels ravages.
+
+Le docteur nettoie la plaie et en extrait de multiples fragments de plomb. Il rapproche ensuite les chairs, les recoud et panse soigneusement la blessure, à l\'aide de bandes que lui passe le lieutenant Lacour. Tant que dure l\'opération, le patient ne cesse de faire entendre de lamentables gémissements. Il semble moins souffrir lorsque le pansement est terminé.
+
+Mais le docteur paraît soucieux. Il entre une seconde fois dans la case, examine les deux cadavres, et, quand il sort, il est plus soucieux encore. Il s\'approche du blessé, qu\'il interroge par l\'intermédiaire de Tongané.
+
+Du récit de ce pauvre nègre, il résulte que, six jours plus tôt, le 11, par conséquent, soit trois jours avant notre changement d\'escorte, le petit hameau a été attaqué par une troupe de Noirs commandé par deux Blancs. Les habitants se sont alors sauvés dans la brousse, à l\'exception de l\'homme et de la femme dont nous avons trouvé les cadavres, lesquels n\'ont pas eu le temps de se mettre à l\'abri. Le blessé était avec les autres. Malheureusement, pendant qu\'il fuyait, une balle l\'a frappé à l\'épaule. Il a eu, néanmoins, la force de se cacher dans la brousse, et a ainsi échappé à ses agresseurs.
+
+Lorsque ceux-ci se furent éloignés, ses compagnons l\'ont rapporté au village, mais tout le monde a de nouveau pris la fuite, quand on a vu arriver une autre troupe, et précisément du côté par lequel la première s\'était éloignée.
+
+Tel est ce récit qui ne laisse pas de nous inquiéter. Il ne peut nous être agréable, en effet, d\'apprendre qu\'une bande de malfaiteurs court le pays. C\'est même une vraie chance que nous n\'ayons pas eu affaire à elle, puisque, d\'après le blessé, elle allait à notre rencontre.
+
+Cependant, le pauvre diable exprime d\'une manière touchante sa reconnaissance au docteur Châtonnay, quand il se tait tout à coup, tandis que ses yeux expriment une profonde terreur et se fixent sur quelque chose ou quelqu\'un qui est derrière nous. Nous nous retournons, et nous trouvons face à face avec un des deux sous-officiers de notre escorte. C\'est la vue de cet homme qui a causé au nègre tant d\'épouvante.
+
+Le sous-officier, d\'ailleurs, n\'a pas l\'air ému. Il s\'émeut, toutefois, quand les yeux glacés du lieutenant Lacour lui lancent un regard terrible où se lisent à dose égale reproche et menace. Je surprends au passage ce regard que je ne m\'explique pas. Le sergent se touche alors le front, de manière à nous faire entendre que le blessé délire, et va rejoindre ses hommes.
+
+Nous revenons auprès de notre malade. Mais le charme est rompu. Il nous regarde avec terreur et il est impossible d\'en tirer une parole. On le transporte donc dans sa case, et nous repartons, assez rassurés sur son sort, au surplus, car le docteur Châtonnay affirme qu\'il guérira.
+
+Je ne sais à quoi pensent mes compagnons.
+
+Pour ma part, je creuse, tout en marchant, ce nouveau problème offert à ma sagacité : Pourquoi le vieux nègre a-t-il manifesté pareille frayeur ? Pourquoi, alors qu\'il n\'avait fait nulle attention au lieutenant Lacour, cette frayeur a-t-elle été provoquée, sans aucun doute possible, par la vue de l\'un de nos sergents ?
+
+À ce problème nulle solution, pour changer. Toutes ces énigmes insolubles que le hasard nous pose, cela finit par être agaçant à la fin.
+
+Ce soir, assez tard, nous avons dressé nos tentes auprès d\'un autre petit village du nom de Kadou. Nous sommes fort tristes d\'y être arrivés, car c\'est à Kadou que Mlle Mornas et Saint-Bérain vont nous quitter. Tandis que nous continuerons tout droit vers Ouagadougou et le Niger, ils remonteront au nord, avec Gao et ce même Niger comme objectif.
+
+Il est inutile de dire que nous avons fait tout au monde pour les décider à renoncer à ce projet insensé. Ainsi qu\'on pouvait le présumer, nos efforts ont été vains. J\'ose prévoir que la future moitié du capitaine Marcenay ne sera pas des plus maniables. Quand Mlle Mornas a quelque chose dans la tête, le diable ne l\'en ferait pas démordre.
+
+En désespoir de cause, on a demandé du renfort au lieutenant Lacour, et on l\'a prié de montrer, à son tour, à notre compagne quelle folie elle était sur le point de commettre. Je suis convaincu qu\'il aurait plaidé en pure perte, mais il n\'a pas pris cette peine. Le lieutenant Lacour n\'a pas prononcé une parole. Il a fait un geste évasif, et il a souri, d\'un sourire que j\'ai trouvé drôle, je ne saurais dire exactement pourquoi.
+
+Donc, on a fait halte auprès de Kadou.
+
+Au moment où je vais me retirer sous ma toile particulière, le docteur Châtonnay me retient. Il me dit :
+
+--- Une chose dont je désire vous informer, monsieur Florence, c\'est que les balles qui ont frappé les nègres de ce matin étaient des balles explosives. Et il s\'en va, sans attendre ma réponse.
+
+Bon ! Encore un mystère ! Des balles explosives, maintenant ! Qui peut user de pareilles armes ? Comment même de telles armes peuvent-elles exister dans cette contrée ?
+
+Deux questions de plus à ajouter à ma collection qui s\'enrichit sans cesse. Par contre, c\'est ma collection de réponses qui n\'augmente pas !
+
+
+*18 février.* -- Dernière nouvelle du jour, sans commentaire : notre escorte est partie. Je dis bien : partie.
+
+J\'insiste, parce que ce n\'est pas croyable, et je répète : l\'escorte est partie. Au réveil, il y a de cela trois ou quatre heures, nous ne l\'avons plus trouvée. Elle s\'était évaporée, volatilisée pendant la nuit, et, avec elle, tous les porteurs et tous les âniers sans exception.
+
+On a compris ? Le lieutenant Lacour, ses deux sergents et ses vingt hommes ne sont pas allés faire un peu de footing matinal, pour revenir à l\'heure du déjeuner. Ils sont partis, dé-fi-ni-ti-ve-ment par-tis.
+
+Nous voici seuls dans la brousse, avec nos chevaux, nos armes personnelles, trente-six ânes, cinq jours de vivres, et Tongané.
+
+Ah ! Je voulais des aventures !
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+
+]{.calibre20}

@@ -1,0 +1,32 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "A MADAME LA GÉNÉRALE LUCOTTE"
+slug_oeuvre: "a-madame-la-generale-lucotte"
+type: "oeuvre-complete"
+---
+
+# A MADAME LA GÉNÉRALE LUCOTTE
+(1814)
+
+Victor Hugo
+
+POÉSIES
+
+Pour le 1er janvier 1814
+
+Madame, en ce jour si beau
+Qui vous annonce un an nouveau,
+Je vous souhaite de bonnes années,
+Des jours de soie et d'or filés,
+Et surtout en votre vieillesse
+De bons enfants et des richesses.
+Ainsi, madame, pour en finir,
+C'est avec bien du plaisir
+Que je vous présente en ce jour
+Et mon hommage et mon amour.
+Par son serviteur,
+
+VICTOR HUGO.
+
+(Écrit en 1814)

@@ -1,0 +1,34 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA CONFESSION DE CLAUDE"
+slug_oeuvre: "la-confession-de-claude"
+section: "Chapitre 09"
+slug_section: "chapitre-09"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LA CONFESSION DE CLAUDE
+
+Liste des romans
+
+ !
+
+## VIII
+Oui, je pense comme vous, je veux encore espérer, je veux faire de cette union fatale une source de nobles aspirations.
+
+Autrefois, lorsque notre pensée s'arrêtait sur ces malheureuses filles, ce n'était qu'avec miséricorde et pitié. Nous rêvions la sainte tâche de la rédemption. Nous demandions à Dieu de nous envoyer une âme morte pour la lui rendre jeune et blanche de notre amour.
+
+La foi de nos seize ans devait faire croire et s'incliner les pécheresses.
+
+Alors nous étions Didier pardonnant à la Marion et l'avouant pour épouse au pied de l'échafaud. Nous grandissions la courtisane de la hauteur de nos tendresses.
+
+Eh bien ! Aujourd'hui, je puis être Didier. Marion est là, tout aussi impure que le jour où il lui pardonna ; sa robe dénouée de nouveau demande une main qui la referme ; son front pâli réclame un souffle pur qui lui rende la rougeur de sa jeunesse. Ce que nous souhaitions dans notre sainte folie, je l'ai trouvé sans le chercher.
+
+Puisque Laurence est venue à moi, je veux, au lieu de me souiller à la flétrissure de son coeur, lui donner la virginité du mien. Je serai prêtre, je relèverai la femme tombée et je pardonnerai.
+
+Qui sait, frères, c'est peut-être une suprême épreuve que Dieu m'envoie. Peut-être veut-il, en me chargeant d'une âme, connaître toute la puissance de la mienne. Il me réserve la tâche des forts et ne craint pas de m'unir au vice. Je vais être digne de son choix.

@@ -1,0 +1,2204 @@
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image015.jpg){.calibre47}]{.calibre22}
+
+## []{#_Toc368941923 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941492 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941061 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940630 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940199 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939768 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939337 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938906 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938475 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938044 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937613 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937182 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936751 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936320 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935889 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935458 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935027 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934596 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934165 .pcalibre .calibre2 .pcalibre1}[Troisième partie]{#_Toc368933734 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_248 .calibre29}
+
+
+::: WordSection
+*[
+]{.calibre12}*
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941924 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941493 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941062 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940631 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940200 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939769 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939338 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938907 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938476 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938045 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937614 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937183 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936752 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936321 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935890 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935459 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935028 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934597 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934166 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368933735 .pcalibre .calibre2 .pcalibre1} {#i .calibre59 .sigil_not_in_toc}
+
+
+Pendant l'interminable journée de la bataille, Silvine, du coteau de Remilly, où était bâtie la petite ferme du père Fouchard, n'avait cessé de regarder vers Sedan, dans le tonnerre et la fumée des canons, toute frissonnante à la pensée d'Honoré. Et, le lendemain, son inquiétude augmenta encore, accrue par l'impossibilité de se procurer des nouvelles exactes, au milieu des Prussiens qui gardaient les routes, refusant de répondre, ne sachant du reste rien eux-mêmes. Le clair soleil de la veille avait disparu, des averses étaient tombées, qui attristaient la vallée d'un jour livide.
+
+Vers le soir, le père Fouchard, tourmenté également dans son mutisme voulu, ne pensant guère à son fils, mais anxieux de savoir comment le malheur des autres allait tourner pour lui, était sur le pas de sa porte à voir venir les événements, lorsqu'il remarqua un grand gaillard en blouse, qui, depuis un instant, rôdait le long de la route, l'air embarrassé de sa personne. Sa surprise fut si forte, en le reconnaissant, qu'il l'appela tout haut, malgré trois Prussiens qui passaient.
+
+« Comment ! c'est toi, Prosper ? »
+
+D'un geste énergique, le chasseur d'Afrique lui ferma la bouche. Puis, s'approchant, à demi-voix :
+
+« Oui, c'est moi. J'en ai assez de me battre pour rien, et j'ai filé\... Dites donc, père Fouchard, vous n'avez pas besoin d'un garçon de ferme ? »
+
+Le vieux, du coup, avait retrouvé toute sa prudence. Justement, il cherchait quelqu'un. Mais c'était inutile à dire.
+
+« Un garçon, ma foi, non ! pas dans ce moment\... Entre tout de même boire un verre. Je ne vais pas, bien sûr, te laisser en peine sur la route. »
+
+Dans la salle, Silvine mettait la soupe au feu, tandis que le petit Charlot se pendait à ses jupes, jouant et riant. D'abord, elle ne reconnut pas Prosper, qui pourtant avait déjà servi avec elle, autrefois ; et ce ne fut qu'en apportant deux verres et une bouteille de vin, qu'elle le dévisagea. Elle eut un cri, elle ne pensa qu'à Honoré.
+
+« Ah ! vous en venez, n'est-ce pas ?\... Est-ce qu'Honoré va bien ? »
+
+Prosper allait répondre, ensuite il hésita. Depuis deux jours, il vivait dans un rêve, parmi une violente succession de choses vagues, qui ne lui laissaient aucun souvenir précis. Sans doute, il croyait bien avoir vu Honoré mort renversé sur un canon ; mais il ne l'aurait plus affirmé ; et à quoi bon désoler le monde, quand on n'est pas certain ?
+
+« Honoré, murmura-t-il, je ne sais pas\..., je ne puis pas dire\... »
+
+Elle le regardait fixement, elle insista.
+
+« Alors, vous ne l'avez pas vu ? »
+
+D'un geste lent, il agita les mains, avec un hochement de tête.
+
+« Si vous croyez qu'on peut savoir ! Il y a eu tant de choses, tant de choses ! De toute cette sacrée bataille, tenez ! je ne serais pas fichu d'en conter long comme ça\... Non ! pas même les endroits par où j'ai passé\... On est comme des idiots, ma parole ! »
+
+Et, après avoir avalé un verre de vin, il resta morne, les yeux perdus, là-bas, dans les ténèbres de sa mémoire.
+
+« Tout ce que je me rappelle, c'est que la nuit déjà tombait, au moment où j'ai repris connaissance\... Lorsque j'avais culbuté, en chargeant, le soleil était très haut. Depuis des heures, je devais être là, la jambe droite écrasée sous mon vieux Zéphir, qui, lui, avait reçu une balle en plein poitrail\... Je vous assure que ça n'avait rien de gai, cette position-là, des tas de camarades morts, et pas un chat de vivant, et l'idée que j'allais crever moi aussi, si personne ne venait me ramasser\... Doucement, j'avais tâché de dégager ma hanche ; mais impossible, Zéphir pesait bien comme les cinq cent mille diables. Il était chaud encore. Je le caressais, je l'appelais, avec des mots gentils. Et c'est ça, voyez-vous, que jamais je n'oublierai : il a rouvert les yeux, il a fait un effort pour relever sa pauvre tête, qui traînait par terre, à côté de la mienne. Alors, nous avons causé : "Mon pauvre vieux, que je lui ai dit, ce n'est pas pour te le reprocher, mais tu veux donc me voir claquer avec toi, que tu me tiens si fort ?" Naturellement, il n'a pas répondu oui. Ça n'empêche que j'ai lu dans son regard trouble la grosse peine qu'il avait de me quitter. Et je ne sais pas comment ça s'est fait, s'il l'a voulu ou si ça n'a été qu'une convulsion, mais il a eu une brusque secousse qui l'a jeté de côté. J'ai pu me mettre debout, ah ! dans un sacré état, la jambe lourde comme du plomb\... N'importe, j'ai pris la tête de Zéphir entre mes bras, en continuant à lui dire des choses, tout ce qui me venait du cœur, que c'était un bon cheval, que je l'aimais bien, que je me souviendrais toujours de lui. Il m'écoutait, il paraissait si content ! Puis, il a eu encore une secousse, et il est mort, avec ses grands yeux vides, qui ne m'avaient pas quitté\... Tout de même, c'est drôle, et l'on ne me croira pas : la vérité pure est pourtant qu'il avait dans les yeux de grosses larmes\... Mon pauvre Zéphir, il pleurait comme un homme\... »
+
+Étranglé de chagrin, Prosper dut s'interrompre, pleurant encore lui-même. Il avala un nouveau verre de vin, il continua son histoire, en phrases coupées, incomplètes. La nuit se faisait davantage, il n'y avait plus qu'un rouge rayon de lumière, au ras du champ de bataille, projetant à l'infini l'ombre immense des chevaux morts. Lui, sans doute, était resté longtemps près du sien, incapable de s'éloigner, avec sa jambe lourde. Puis, une brusque épouvante l'avait fait marcher quand même, le besoin de ne pas être seul, de se retrouver avec des camarades, pour avoir moins peur. Ainsi, de partout, des fossés, des broussailles, de tous les coins perdus, les blessés oubliés se traînaient, tâchaient de se rejoindre, faisaient des groupes à quatre ou cinq, des petites sociétés, où il était moins dur de râler ensemble et de mourir. Ce fut ainsi que, dans le bois de la Garenne, il tomba sur deux soldats du 43e, qui n'avaient pas une égratignure, mais qui étaient là, terrés comme des lièvres, attendant la nuit. Quand ils surent qu'il connaissait les chemins, ils lui dirent leur idée : filer en Belgique, gagner la frontière à travers bois, avant le jour. Il refusa d'abord de les conduire, il aurait préféré gagner tout de suite Remilly, certain d'y trouver un refuge ; seulement, où se procurer une blouse et un pantalon ? Sans compter que, du bois de la Garenne à Remilly, d'un bord de la vallée à l'autre, il ne fallait point espérer traverser les nombreuses lignes prussiennes. Aussi finit-il par consentir à servir de guide aux deux camarades. Sa jambe s'était échauffée, ils eurent la chance de se faire donner un pain dans une ferme. Neuf heures sonnèrent à un clocher lointain, comme ils se remettaient en route. Le seul grand danger qu'ils coururent, ce fut à la Chapelle, où ils se jetèrent au beau milieu d'un poste ennemi, qui prit les armes et tira dans les ténèbres, tandis que, se glissant à plat ventre, galopant à quatre pattes, ils regagnaient les taillis, sous le sifflement des balles. Dès lors, ils ne quittèrent plus les bois, l'oreille aux aguets, les mains tâtonnantes. Au détour d'un sentier, ils rampèrent, ils sautèrent aux épaules d'une sentinelle perdue, dont ils ouvrirent la gorge d'un coup de couteau. Ensuite, les chemins furent libres, ils continuèrent en riant et en sifflant. Et, vers trois heures du matin, ils arrivèrent dans un petit village belge, chez un fermier brave homme, qui, réveillé, leur ouvrit tout de suite sa grange, où ils dormirent profondément sur des bottes de foin.
+
+Le soleil était déjà haut lorsque Prosper se réveilla. En ouvrant les yeux, tandis que les camarades ronflaient encore, il aperçut leur hôte, en train d'atteler un cheval à une grande carriole, chargée de pains, de riz, de café, de sucre, toutes sortes de provisions, cachées sous des sacs de charbon de bois ; et il apprit que le brave homme avait en France, à Raucourt, deux filles mariées, auxquelles il allait porter ces provisions, les sachant dans un dénuement complet, à la suite du passage des Bavarois. Dès le matin, il s'était procuré le sauf-conduit nécessaire. Tout de suite, Prosper fut saisi d'un désir fou, s'asseoir lui aussi sur le banc de la carriole, retourner là-bas, dans le coin de terre, dont la nostalgie l'angoissait déjà. Rien n'était plus simple, il descendrait à Remilly, que le fermier se trouvait forcé de traverser. Et ce fut arrangé en trois minutes, on lui prêta le pantalon et la blouse tant souhaités, le fermier le donna partout comme son garçon ; de sorte que, vers six heures, il débarqua devant l'église, après n'avoir été arrêté que deux ou trois fois par des postes allemands.
+
+« Non, j'en avais assez ! répéta Prosper, après un silence. Encore si l'on avait tiré de nous quelque chose de bon, comme là-bas, en Afrique ! Mais aller à gauche pour revenir à droite, sentir qu'on ne sert absolument à rien, ça finit par ne pas être une existence\... Et puis, maintenant, mon pauvre Zéphir est mort, je serais tout seul, je n'ai plus qu'à me remettre à la terre. N'est-ce pas ? ça vaudra mieux que d'être prisonnier chez les Prussiens\... Vous avez des chevaux, père Fouchard, vous verrez si je les aime et si je les soigne ! »
+
+L\'œil du vieux avait brillé. Il trinqua encore, il conclut sans hâte :
+
+« Mon Dieu ! puisque ça te rend service, je veux bien tout de même, je te prends\... Mais, quant aux gages, faudra n'en parler que lorsque la guerre sera finie, car je n'ai vraiment besoin de personne, et les temps sont trop durs. »
+
+Silvine, qui était restée assise, avec Charlot sur les genoux, n'avait pas quitté Prosper des yeux. Lorsqu'elle le vit se lever, pour se rendre tout de suite à l'écurie et faire la connaissance des bêtes, elle demanda de nouveau :
+
+« Alors, vous n'avez pas vu Honoré ? »
+
+Cette question qui revenait si brusquement, le fit tressaillir, comme si elle éclairait d'une lumière subite un coin obscur de sa mémoire. Il hésita encore, se décida pourtant.
+
+« Écoutez, je n'ai pas voulu vous faire de la peine tout à l'heure, mais je crois bien qu'Honoré est resté là-bas.
+
+--- Comment, resté ?
+
+--- Oui, je crois que les Prussiens lui ont fait son affaire\... Je l'ai vu à moitié renversé sur un canon, la tête droite, avec un trou sous le cœur. »
+
+Il y eut un silence. Silvine avait blêmi affreusement, tandis que le père Fouchard, saisi, remettait sur la table son verre, où il avait achevé de vider la bouteille.
+
+« Vous en êtes bien sûr ? reprit-elle d'une voix étranglée.
+
+--- Dame ! aussi sûr qu'on peut l'être d'une chose qu'on a vue\... C'était sur un petit monticule, à côté de trois arbres, et il me semble que j'irais, les yeux fermés. »
+
+En elle, c'était un écroulement. Ce garçon qui lui avait pardonné, qui s'était lié d'une promesse, qu'elle devait épouser, dès qu'il rentrerait du service, la campagne finie ! Et on le lui avait tué, il était là-bas, avec un trou sous le cœur ! Jamais elle n'avait senti qu'elle l'aimait si fort, tellement un besoin de le revoir, de l'avoir malgré tout à elle, même dans la terre, la soulevait, la jetait hors de sa passivité habituelle.
+
+Elle posa rudement Charlot et elle s'écria :
+
+« Bon ! je ne croirai ça que lorsque j'aurai vu, moi aussi\... Puisque vous savez où c'est, vous allez m'y conduire. Et, si c'est vrai, si nous le retrouvons, nous le ramènerons. »
+
+Des larmes l'étouffaient, elle s'affaissa sur la table, secouée de longs sanglots, pendant que le petit, stupéfait d'avoir été bousculé par sa mère, éclatait aussi en pleurs. Elle le reprit, le serra contre elle, avec des paroles éperdues, bégayées.
+
+« Mon pauvre enfant ! mon pauvre enfant ! »
+
+Le père Fouchard restait consterné. Il aimait tout de même son fils, à sa manière. Des souvenirs anciens durent lui revenir, de très loin, du temps où sa femme vivait, où Honoré allait encore à l\'école ; et deux grosses larmes parurent également dans ses yeux rouges, coulèrent le long du cuir tanné de ses joues. Depuis plus de dix ans, il n'avait pas pleuré. Des jurons lui échappaient, il finissait par se fâcher de ce fils qui était à lui, qu'il ne verrait plus jamais pourtant.
+
+« Nom de Dieu ! c'est vexant, de n'avoir qu'un garçon, et qu'on vous le prenne ! »
+
+Mais, quand le calme fut un peu revenu, Fouchard fut très ennuyé d'entendre que Silvine parlait toujours d'aller chercher le corps d'Honoré, là-bas. Elle s'obstinait, sans cris maintenant, dans un silence désespéré et invincible ; et il ne la reconnaissait plus, elle si docile, faisant toutes les besognes en fille résignée : ses grands yeux de soumission qui suffisaient à la beauté de son visage avaient pris une décision farouche, tandis que son front restait pâle, sous le flot de ses épais cheveux bruns. Elle venait d'arracher un fichu rouge qu'elle avait aux épaules, elle s'était mise toute en noir, comme une veuve. Vainement, il lui représenta la difficulté des recherches, les dangers qu'elle pouvait courir, le peu d'espoir qu'il y avait de retrouver le corps. Elle cessait même de répondre, il voyait bien qu'elle partirait seule, qu'elle ferait quelque folie, s'il ne s'en occupait pas, ce qui l'inquiétait plus encore, à cause des complications où cela pouvait le jeter avec les autorités prussiennes. Aussi finit-il par se décider à se rendre chez le maire de Remilly, qui était un peu son cousin, et à eux deux ils arrangèrent une histoire : Silvine fut donnée pour la veuve véritable d'Honoré, Prosper devint son frère ; de sorte que le colonel bavarois, installé en bas du village, à l'hôtel de la Croix-de-Malte, voulut bien délivrer un laissez-passer pour le frère et la sœur, les autorisant à ramener le corps du mari, s'ils le découvraient. La nuit était venue, tout ce qu'on put obtenir de la jeune femme, ce fut qu'elle attendrait le jour pour se mettre en marche.
+
+Le lendemain, jamais Fouchard ne voulut laisser atteler un de ses chevaux, dans la crainte de ne pas le revoir. Qui lui disait que les Prussiens ne confisqueraient pas la bête et la voiture ? Enfin, il consentit de mauvaise grâce à prêter l'âne, un petit âne gris, dont l'étroite charrette était encore assez grande pour contenir un mort. Longuement, il donna des instructions à Prosper, qui avait bien dormi, mais que la pensée de l'expédition rendait soucieux, maintenant que, reposé, il tâchait de se souvenir. À la dernière minute, Silvine alla chercher la couverture de son propre lit, qu'elle plia au fond de la charrette. Et, comme elle partait, elle revint en courant embrasser Charlot.
+
+« Père Fouchard, je vous le confie, veillez bien à ce qu'il ne joue pas avec les allumettes.
+
+--- Oui, oui ! sois tranquille ! »
+
+Les préparatifs avaient traîné, il était près de sept heures, lorsque Silvine et Prosper, derrière l'étroite charrette que le petit âne gris tirait, la tête basse, descendirent les pentes raides de Remilly. Il avait plu abondamment pendant la nuit, les chemins se trouvaient changés en fleuves de boue ; et de grandes nuées livides couraient dans le ciel, d'une tristesse morne.
+
+Prosper, voulant couper au plus court, avait résolu de traverser Sedan. Mais, avant Pont-Maugis, un poste prussien arrêta la charrette, la retint pendant plus d'une heure ; et, lorsque le laissez-passer eut circulé entre les mains de quatre ou cinq chefs, l'âne put reprendre sa marche, à la condition de faire le grand tour par Bazeilles, en s'engageant à gauche dans un chemin de traverse. Aucune raison ne fut donnée, sans doute craignait-on d'encombrer la ville davantage. Quand Silvine passa la Meuse sur le pont du chemin de fer, ce pont funeste qu'on n'avait pas fait sauter et qui du reste avait coûté si cher aux Bavarois, elle aperçut le cadavre d'un artilleur descendant d'un air de flânerie, au fil de l'eau. Une touffe d'herbe l'accrocha, il demeura un instant immobile, puis il tourna sur lui-même, il repartit.
+
+Dans Bazeilles, que l'âne traversa au pas, d'un bout à l'autre, c'était la destruction, tout ce que la guerre peut faire d'abominables ruines, quand elle passe, dévastatrice, en furieux ouragan. Déjà, on avait relevé les morts, il n'y avait plus sur le pavé du village un seul cadavre ; et la pluie lavait le sang, des flaques restaient rouges, avec des débris louches, des lambeaux où l'on croyait reconnaître encore des cheveux. Mais l'effroi qui serrait les cœurs, venait des décombres, de ce Bazeilles si riant trois jours plus tôt, avec ses gaies maisons au milieu de ses jardins, à cette heure effondré, anéanti, ne montrant que des pans de muraille noircis par les flammes. L'église brûlait toujours, un vaste bûcher de poutres fumantes, au milieu de la place, d'où s'élevait continuellement une grosse colonne de fumée noire, élargie au ciel en un panache de deuil. Des rues entières avaient disparu, plus rien d'un côté ni de l'autre, rien que des tas de moellons calcinés bordant les ruisseaux, dans un gâchis de suie et de cendre, une boue d'encre épaisse noyant tout. Aux quatre coins des carrefours, les maisons d'angle se trouvaient rasées, comme emportées par le vent de feu qui avait soufflé là. D'autres avaient moins souffert, une restait debout, isolée, tandis que celles de gauche et de droite semblaient hachées par la mitraille, dressant leurs carcasses pareilles à des squelettes vides. Et une insupportable odeur s'exhalait, la nausée de l'incendie, l'âcreté du pétrole surtout, versé à flots sur les parquets. Puis, c'était aussi la désolation muette de ce qu'on avait essayé de sauver, des pauvres meubles jetés par les fenêtres, écrasés sur le trottoir, les tables infirmes aux jambes cassées, les armoires aux flancs ouverts, à la poitrine fendue, du linge qui traînait, déchiré, souillé, toutes les tristes miettes du pillage en train de se fondre sous la pluie. Par une façade béante, à travers des planchers écroulés, on apercevait une pendule intacte, sur une cheminée, tout en haut d'un mur.
+
+« Ah ! les cochons ! » grognait Prosper, en qui le sang du soldat qu'il était encore l'avant-veille, s'échauffait, à voir une abomination semblable.
+
+Il serrait les poings, il fallut que Silvine, très pâle, le calmât du regard, à chaque factionnaire qu'ils rencontraient le long de la route. Les Bavarois avaient en effet posé des sentinelles près des maisons qui brûlaient encore ; et ces hommes, le fusil chargé, la baïonnette au canon, semblaient garder les incendies, pour que la flamme achevât son œuvre. D'un geste menaçant, d'un cri guttural, quand on s'entêtait, ils en écartaient les simples curieux, les intéressés aussi qui rôdaient aux alentours. Des groupes d'habitants, à distance, restaient muets, avec des frémissements de rage contenus. Une femme, toute jeune, les cheveux épars, la robe souillée de boue, s'obstinait devant le tas fumant d'une petite maison, dont elle voulait fouiller les braises ardentes, malgré le factionnaire qui en défendait l'approche. On disait que cette femme avait eu son enfant brûlé dans cette maison. Et, tout d'un coup, comme le Bavarois l'écartait d'une main brutale, elle se retourna, elle lui vomit à la face son furieux désespoir, des injures de sang et de fange, des mots immondes qui la soulageaient un peu, enfin. Il devait ne pas comprendre, il la regardait, inquiet, reculant. Trois camarades accoururent, le délivrèrent de la femme, qu'ils emmenèrent, hurlante. Devant les décombres d'une autre maison, un homme et deux fillettes, tous les trois tombés sur le sol de fatigue et de misère, sanglotaient, ne sachant où aller, ayant vu là s'envoler en cendre tout ce qu'ils possédaient. Mais une patrouille passa, qui dissipa les curieux, et la route redevint déserte, avec les seules sentinelles, mornes et dures, veillant d'un œil oblique à faire respecter leur consigne scélérate.
+
+« Les cochons, les cochons ! répéta Prosper sourdement. Ça ferait plaisir d'en étrangler un ou deux. »
+
+Silvine, de nouveau, le fit taire. Elle frissonna. Dans une remise épargnée par le feu, un chien, enfermé, oublié depuis deux jours, hurlait d'une plainte continue, si lamentable, qu'une terreur traversa le ciel bas, d'où une petite pluie grise venait de se mettre à tomber. Et ce fut à ce moment, devant le parc de Montivilliers, qu'ils firent une rencontre. Trois grands tombereaux étaient là, à la file, chargés de morts, de ces tombereaux de la salubrité, que l'on emplit à la pelle, le long des rues, chaque matin, de la desserte de la veille ; et, de même, on venait de les emplir de cadavres, les arrêtant à chaque corps que l'on y jetait, repartant avec le gros bruit des roues pour s'arrêter plus loin, parcourant Bazeilles entier, jusqu'à ce que le tas débordât. Ils attendaient, immobiles sur la route, qu'on les conduisît à la décharge publique, au charnier voisin. Des pieds sortaient, dressés en l'air. Une tête retombait, à demi arrachée. Lorsque les trois tombereaux, de nouveau, s'ébranlèrent, cahotant dans les flaques, une main livide qui pendait, très longue, vint frotter contre une roue ; et la main peu à peu s'usait, écorchée, mangée jusqu'à l'os.
+
+Dans le village de Balan, la pluie cessa. Prosper décida Silvine à manger un morceau de pain qu'il avait eu la précaution d'emporter. Il était déjà onze heures. Mais, comme ils arrivaient près de Sedan, un poste prussien les arrêta encore ; et, cette fois, ce fut terrible, l'officier s'emportait, refusait même de rendre le laissez-passer, qu'il déclarait faux, en un français très correct, d'ailleurs. Des soldats, sur son ordre, avaient poussé l'âne et la petite charrette sous un hangar. Que faire ? comment continuer la route ? Silvine, qui se désespérait, eut alors une idée, en songeant au cousin Dubreuil, ce parent du père Fouchard, qu'elle connaissait et dont la propriété, l'Ermitage, se trouvait à quelques cent pas, en haut des ruelles dominant le faubourg. Peut-être l'écouterait-on, lui, un bourgeois. Elle emmena Prosper, puisqu'on les laissait libres, à la condition de garder la charrette. Ils coururent, ils trouvèrent la grille de l'Ermitage grande ouverte. Et, de loin, comme ils s'engageaient dans l'allée des ormes séculaires, un spectacle qu'ils aperçurent les étonna beaucoup.
+
+« Fichtre ! dit Prosper, en voilà qui se la coulent douce ! »
+
+
+« Comment peuvent-ils encore être là ? murmurait Prosper, de plus en plus stupéfié, à mesure qu'il avançait. Les bougres, ils se fichent donc des Prussiens ? »
+
+Mais Silvine, dont les yeux se dilataient, jeta un cri, eut un brusque geste d'horreur. Les soldats ne bougeaient pas, ils étaient morts. Les deux zouaves, raidis, les mains tordues, n'avaient plus de visage, le nez arraché, les yeux sautés des orbites. Le rire de celui qui se tenait le ventre venait de ce qu'une balle lui avait fendu les lèvres, en lui cassant les dents. Et cela était vraiment atroce, ces misérables qui causaient, dans leurs attitudes cassées de mannequins, les regards vitreux, les bouches ouvertes, tous glacés, immobiles à jamais. S'étaient-ils traînés à cette place, vivants encore, pour mourir ensemble ? Étaient-ce plutôt les Prussiens qui avaient fait la farce de les ramasser, puis de les asseoir, en rond, par une moquerie de la vieille gaieté française ?
+
+« Drôle de rigolade tout de même ! » reprit Prosper, pâlissant.
+
+Et, regardant les autres morts, en travers de l'allée, au pied des arbres, dans les pelouses, cette trentaine de braves parmi lesquels le corps du lieutenant Rochas gisait, troué de blessures, enveloppé du drapeau, il ajouta d'un air sérieux de grand respect :
+
+« On s'est joliment bûché par ici ! Ça m'étonnerait, si nous y trouvions le bourgeois que vous cherchez. »
+
+Déjà, Silvine entrait dans la maison, dont les fenêtres et les portes défoncées bâillaient à l'air humide. En effet, il n'y avait évidemment là personne, les maîtres devaient être partis avant la bataille. Puis, comme elle s'entêtait et qu'elle pénétrait dans la cuisine, elle laissa de nouveau échapper un cri d'effroi. Sous l'évier, deux corps avaient roulé, un zouave, un bel homme à barbe noire, et un Prussien énorme, les cheveux rouges, tous les deux enlacés furieusement. Les dents de l'un étaient entrées dans la joue de l'autre, les bras raidis n'avaient pas lâché prise, faisant encore craquer les colonnes vertébrales rompues, nouant les deux corps d'un tel nœud d'éternelle rage, qu'il allait falloir les enterrer ensemble.
+
+Alors, Prosper se hâta d'emmener Silvine, puisqu'ils n'avaient rien à faire dans cette maison ouverte, habitée par la mort. Et, lorsque, désespérés, ils furent revenus au poste qui avait retenu l'âne et la charrette, ils eurent la chance de trouver, avec l'officier si rude, un général, en train de visiter le champ de bataille. Celui-ci voulut prendre connaissance du laissez-passer, puis il le rendit à Silvine, il eut un geste de pitié, pour dire qu'on laissât aller cette pauvre femme, avec son âne, en quête du corps de son mari. Sans attendre, suivis de l'étroite charrette, elle et son compagnon remontèrent vers le Fond de Givonne, obéissant à la défense nouvelle qui leur était faite de traverser Sedan.
+
+Ensuite, ils tournèrent à gauche, pour gagner le plateau d'Illy, par la route qui traverse le bois de la Garenne. Mais, là encore, ils furent attardés, ils crurent vingt fois qu'ils ne pourraient franchir le bois, tellement les obstacles se multipliaient. À chaque pas, des arbres coupés par les obus, abattus tels que des géants, barraient la route. C'était la forêt bombardée, au travers de laquelle la canonnade avait tranché des existences séculaires, comme au travers d'un carré de la vieille garde, d'une solidité immobile de vétérans. De toutes parts, des troncs gisaient, dénudés, troués, fendus, ainsi que des poitrines ; et cette destruction, ce massacre de branches pleurant leur sève, avait l'épouvante navrée d'un champ de bataille humain. Puis, c'étaient aussi des cadavres, des soldats tombés fraternellement avec les arbres. Un lieutenant, la bouche sanglante, avait encore les deux mains enfoncées dans la terre, arrachant des poignées d'herbe. Plus loin, un capitaine était mort sur le ventre, la tête soulevée, en train de hurler sa douleur. D'autres semblaient dormir parmi les broussailles, tandis qu'un zouave dont la ceinture bleue s'était enflammée, avait la barbe et les cheveux grillés complètement. Et il fallut, à plusieurs reprises, le long de cet étroit chemin forestier, écarter un corps pour que l'âne pût continuer sa route.
+
+Tout d'un coup, dans un petit vallon, l'horreur cessa. Sans doute, la bataille avait passé ailleurs, sans toucher à ce coin de nature délicieux. Pas un arbre n'était effleuré, pas une blessure n'avait saigné sur la mousse. Un ruisseau coulait parmi des lentilles d'eau, le sentier qui le suivait était ombragé de grands hêtres. C'était d'un charme pénétrant, d'une paix adorable, cette fraîcheur des eaux vives, ce silence frissonnant des verdures.
+
+Prosper avait arrêté l'âne, pour le faire boire au ruisseau.
+
+« Ah ! qu'on est bien ici ! » dit-il, dans un cri involontaire de soulagement.
+
+D'un œil étonné, Silvine regarda autour d'elle, inquiète de se sentir, elle aussi, délassée et heureuse. Pourquoi donc le bonheur si paisible de ce coin perdu, lorsque, à l'entour, il n'y avait que deuil et souffrance ? Elle eut un geste désespéré de hâte.
+
+« Vite, vite, allons !\... Où est-ce ? où êtes-vous certain d'avoir vu Honoré ? »
+
+Et, à cinquante pas de là, comme ils débouchaient enfin sur le plateau d'Illy, la plaine rase se déroula brusquement devant eux. Cette fois, c'était le vrai champ de bataille, les terrains nus s'étalant jusqu'à l'horizon, sous le grand ciel blafard, d'où ruisselaient de continuelles averses. Les morts n'y étaient pas entassés, tous les Prussiens déjà avaient dû être ensevelis, car il n'en restait pas un, parmi les cadavres épars des Français, semés le long des routes, dans les chaumes, au fond des creux, selon les hasards de la lutte. Contre une haie, le premier qu'ils rencontrèrent était un sergent, un homme superbe, jeune et fort, qui semblait sourire de ses lèvres entrouvertes, le visage calme. Mais, cent pas plus loin, en travers de la route, ils en virent un autre, mutilé affreusement, la tête à demi emportée, les épaules couvertes des éclaboussures de la cervelle. Puis, après les corps isolés, çà et là, il y avait de petits groupes, ils en aperçurent sept à la file, le genou en terre, l'arme à l'épaule, frappés comme ils tiraient ; tandis que, près d'eux, un sous-officier était tombé aussi, dans l'attitude du commandement. La route ensuite filait le long d'un étroit ravin, et ce fut là que l'horreur les reprit, en face de cette sorte de fossé où toute une compagnie semblait avoir culbuté, sous la mitraille : des cadavres l'emplissaient, un écroulement, une dégringolade d'hommes, enchevêtrés, cassés, dont les mains tordues avaient écorché la terre jaune, sans pouvoir se retenir. Et un vol noir de corbeaux s'envola avec des croassements ; et, déjà, des essaims de mouches bourdonnaient au-dessus des corps, revenaient obstinément, par milliers, boire le sang frais des blessures.
+
+« Où est-ce donc ? » répéta Silvine.
+
+Ils longeaient alors une terre labourée entièrement couverte de sacs. Quelque régiment avait dû se débarrasser là, serré de trop près, dans un coup de panique. Les débris dont le sol était semé disaient les épisodes de la lutte. Dans un champ de betteraves, des képis épars, semblables à de larges coquelicots, des lambeaux d'uniformes, des épaulettes, des ceinturons, racontaient un contact farouche, un des rares corps à corps du formidable duel d'artillerie qui avait duré douze heures. Mais, surtout, ce qu'on heurtait à chaque pas, c'étaient des débris d'armes, des sabres, des baïonnettes, des chassepots, en si grand nombre, qu'ils semblaient être une végétation de la terre, une moisson qui aurait poussé, en un jour abominable. Des gamelles, des bidons également jonchaient les chemins, tout ce qui s'était échappé des sacs éventrés, du riz, des brosses, des cartouches. Et les terres se succédaient au travers d'une dévastation immense, les clôtures arrachées, les arbres comme brûlés dans un incendie, le sol lui-même creusé par les obus, piétiné, durci sous le galop des foules, si ravagé, qu'il paraissait devoir rester à jamais stérile. La pluie noyait tout de son humidité blafarde, une odeur se dégageait, persistante, cette odeur des champs de bataille qui sentent la paille fermentée, le drap brûlé, un mélange de pourriture et de poudre.
+
+Silvine, lasse de ces champs de mort, où elle croyait marcher depuis des lieues, regardait autour d'elle, avec une angoisse croissante.
+
+« Où est-ce ? où est-ce donc ? »
+
+Mais Prosper ne répondait pas, devenu inquiet. Lui, ce qui le bouleversait, plus encore que les cadavres des camarades, c'étaient les corps des chevaux, les pauvres chevaux sur le flanc, qu'on rencontrait en grand nombre. Il y en avait vraiment de lamentables, dans des attitudes affreuses, la tête arrachée, les flancs crevés laissant couler les entrailles. Beaucoup, sur le dos, le ventre énorme, dressaient en l'air leurs quatre jambes raidies, pareilles à des pieux de détresse. La plaine sans bornes en était bossuée. Quelques-uns n'étaient pas morts, après une agonie de deux jours ; et ils levaient au moindre bruit leur tête souffrante, la balançaient à droite, à gauche, la laissaient retomber ; tandis que d'autres, immobiles, jetaient par instants un grand cri, cette plainte du cheval mourant, si particulière, si effroyablement douloureuse, que l'air en tremblait. Et Prosper, le cœur meurtri, songeait à Zéphir, avec l'idée qu'il allait peut-être le revoir.
+
+Brusquement, il sentit le sol frémir sous le galop d'une charge enragée. Il se retourna, il n'eut que le temps de crier à sa compagne :
+
+« Les chevaux, les chevaux !\... Jetez-vous derrière ce mur ! »
+
+Du haut d'une pente voisine, une centaine de chevaux, libres, sans cavaliers, quelques-uns encore portant tout un paquetage, dévalaient, roulaient vers eux, d\'un train d\'enfer. C\'étaient les bêtes perdues, restées sur le champ de bataille, qui se réunissaient ainsi en troupe, par un instinct. Sans foin ni avoine, depuis l'avant-veille, elles avaient tondu l'herbe rare, entamé les haies, rongé l'écorce des arbres. Et, quand la faim les cinglait au ventre comme à coups d'éperon, elles partaient toutes ensemble d'un galop fou, elles chargeaient au travers de la campagne vide et muette, écrasant les morts, achevant les blessés.
+
+La trombe approchait, Silvine n'eut que le temps de tirer l'âne et la charrette à l'abri du petit mur.
+
+« Mon Dieu ! ils vont tout briser ! »
+
+Mais les chevaux avaient sauté l'obstacle, il n'y eut qu'un roulement de foudre, et déjà ils galopaient de l'autre côté, s'engouffrant dans un chemin creux, jusqu'à la corne d'un bois, derrière lequel ils disparurent.
+
+Lorsque Silvine eut ramené l'âne dans le chemin, elle exigea que Prosper lui répondît.
+
+« Voyons, où est-ce ? »
+
+Lui, debout, jetait des regards aux quatre coins de l'horizon.
+
+« Il y avait trois arbres, il faut que je retrouve les trois arbres\... Ah ! dame ! on ne voit pas très clair, quand on se bat, et ce n'est guère commode de savoir ensuite les chemins qu'on a pris ! »
+
+Puis, apercevant du monde à sa gauche, deux hommes et une femme, il eut l'idée de les questionner. Mais, à son approche, la femme s'enfuit, les hommes l'écartèrent du geste, menaçants ; et il en vit d'autres, et tous l'évitaient, filaient entre les broussailles, comme des bêtes rampantes et sournoises, vêtus sordidement, d'une saleté sans nom, avec des faces louches de bandits. Alors, en remarquant que les morts, derrière ce vilain monde, n'avaient plus de souliers, les pieds nus et blêmes, il finit par comprendre que c'étaient là de ces rôdeurs qui suivaient les armées allemandes, des détrousseurs de cadavres, toute une basse juiverie de proie, venue à la suite de l'invasion. Un grand maigre fila devant lui en galopant, les épaules chargées d'un sac, les poches sonnantes des montres et des pièces blanches volées dans les goussets.
+
+Pourtant, un garçon de treize à quatorze ans laissa Prosper l'approcher, et comme celui-ci, en reconnaissant un Français, le couvrait d'injures, ce garçon protesta. Quoi donc ! est-ce qu'on ne pouvait plus gagner sa vie ? Il ramassait les chassepots, on lui donnait cinq sous par chassepot qu'il retrouvait. Le matin, ayant fui de son village, le ventre vide depuis la veille, il s'était laissé embaucher par un entrepreneur luxembourgeois, qui avait traité avec les Prussiens, pour cette récolte des fusils sur le champ de bataille. Ceux-ci, en effet, craignaient que les armes, si elles étaient recueillies par les paysans de la frontière, ne fussent portées en Belgique, pour rentrer de là en France. Et toute une nuée de pauvres diables étaient à la chasse des fusils, cherchant des cinq sous, fouillant les herbes, pareils à ces femmes qui, la taille ployée, vont cueillir des pissenlits dans les prés.
+
+« Fichue besogne ! grogna Prosper.
+
+--- Dame ! faut bien manger, répondit le garçon. Je ne vole personne. »
+
+Puis, comme il n'était pas du pays et qu'il ne pouvait donner aucun renseignement, il se contenta de montrer de la main une petite ferme voisine, où il avait vu du monde.
+
+Prosper le remerciait et s'éloignait pour rejoindre Silvine, lorsqu'il aperçut un chassepot à moitié enterré dans un sillon. D'abord, il se garda bien de l'indiquer. Et, brusquement, il revint, il cria comme malgré lui :
+
+« Tiens ! il y en a un là, ça te fera cinq sous de plus ! »
+
+Silvine, en approchant de la ferme, remarqua d'autres paysans, en train de creuser à la pioche de longues tranchées. Mais ceux-là étaient sous les ordres directs d'officiers prussiens, qui, une simple badine aux doigts, raides et muets, surveillaient l'ouvrage. On avait ainsi réquisitionné les habitants des villages pour enterrer les morts, dans la crainte que le temps pluvieux ne hâtât la décomposition. Deux chariots de cadavres étaient là, une équipe les déchargeait, les couchait rapidement côte à côte, en un rang pressé, sans les fouiller ni même les regarder au visage ; tandis que trois hommes, armés de grandes pelles, suivaient, recouvraient le rang d'une couche de terre si mince, que déjà, sous les averses, des gerçures fendillaient le sol. Avant quinze jours, tant ce travail était hâtif, la peste soufflerait par toutes ces fentes. Et Silvine ne put s'empêcher de s'arrêter au bord de la fosse, de les dévisager, à mesure qu'on les apportait, ces misérables morts. Elle frémissait d'une horrible crainte, avec l'idée, à chaque visage sanglant, qu'elle reconnaissait Honoré. N'était-ce pas ce malheureux dont l'œil gauche manquait ? ou celui-ci peut-être qui avait les mâchoires fendues ? Si elle ne se hâtait pas de le découvrir, sur ce plateau vague et sans fin, certainement qu'on allait le lui prendre et l'enfouir dans le tas, parmi les autres.
+
+Aussi courut-elle pour rejoindre Prosper, qui avait marché jusqu'à la porte de la ferme, avec l'âne.
+
+« Mon Dieu ! où est-ce donc ?\... Demandez, interrogez ! »
+
+Dans la ferme, il n'y avait que des Prussiens, en compagnie d'une servante et de son enfant, revenus des bois, où ils avaient failli mourir de faim et de soif. C\'était un coin de patriarcale bonhomie, d'honnête repos, après les fatigues des jours précédents. Des soldats brossaient soigneusement leurs uniformes, étendus sur les cordes à sécher le linge. Un autre achevait une habile reprise à son pantalon, tandis que le cuisinier du poste, au milieu de la cour, avait allumé un grand feu, sur lequel bouillait la soupe, une grosse marmite y exhalait une bonne odeur de choux et de lard. Déjà, la conquête s'organisait avec une tranquillité, une discipline parfaites. On aurait dit des bourgeois rentrés chez eux, fumant leurs longues pipes. Sur un banc, à la porte, un gros homme roux avait pris dans ses bras l'enfant de la servante, un bambin de cinq à six ans ; et il le faisait sauter, il lui disait en allemand des mots de caresse, très amusé de voir l'enfant rire de cette langue étrangère, aux rudes syllabes, qu'il ne comprenait pas.
+
+Tout de suite, Prosper tourna le dos, dans la crainte de quelque nouvelle mésaventure. Mais ces Prussiens-là étaient décidément du brave monde. Ils souriaient au petit âne, ils ne se dérangèrent même pas pour demander à voir le laissez-passer.
+
+Alors, ce fut une marche folle. Entre deux nuages, le soleil apparut un instant, déjà bas sur l'horizon. Est-ce que la nuit allait tomber et les surprendre, dans ce charnier sans fin ? Une nouvelle averse noya le soleil, il ne resta autour d'eux que l'infini blafard de la pluie, une poussière d'eau qui effaçait tout, les routes, les champs, les arbres. Lui, ne savait plus, était perdu, et il l'avoua. À leur suite, l'âne trottait du même train, la tête basse, traînant la petite charrette de son pas résigné de bête docile. Ils montèrent au nord, ils revinrent vers Sedan. Toute direction leur échappait, ils rebroussèrent chemin à deux reprises, en s'apercevant qu'ils passaient par les mêmes endroits. Sans doute, ils tournaient en cercle, et ils finirent, désespérés, épuisés, par s'arrêter à l'angle de trois routes, flagellés de pluie, sans force pour chercher davantage.
+
+Mais des plaintes les surprirent, ils poussèrent jusqu'à une petite maison isolée, sur leur gauche, où ils trouvèrent deux blessés, au fond d'une chambre. Les portes étaient grandes ouvertes ; et, depuis deux jours qu'ils grelottaient la fièvre, sans être pansés seulement, ceux-ci n'avaient vu personne, pas une âme. La soif surtout les dévorait, au milieu du ruissellement des averses qui battaient les vitres. Ils ne pouvaient bouger, ils jetèrent tout de suite le cri : « À boire, à boire ! », ce cri d'avidité douloureuse, dont les blessés poursuivent les passants, au moindre bruit de pas qui les tire de leur somnolence.
+
+Lorsque Silvine leur eut apporté de l'eau, Prosper qui, dans le plus maltraité, avait reconnu un camarade, un chasseur d'Afrique de son régiment, comprit qu'on ne devait pourtant pas être loin des terrains où la division Margueritte avait chargé. Le blessé finit par avoir un geste vague : oui, c'était par là, en tournant à gauche, après avoir passé un grand champ de luzerne. Et, sans attendre, Silvine voulut repartir, avec ce renseignement. Elle venait d'appeler, au secours des deux blessés, une équipe qui passait, ramassant les morts. Elle avait déjà repris la bride de l'âne, elle le traînait par les terres glissantes, avec la hâte d'être là-bas, au-delà des luzernes.
+
+Prosper, brusquement s'arrêta.
+
+« Ça doit être par ici. Tenez ! à droite, voilà les trois arbres\... Voyez-vous la trace des roues ? Là-bas, il y a un caisson brisé\... Enfin, nous y sommes ! »
+
+Frémissante, Silvine s'était précipitée, et elle regardait au visage deux morts, deux artilleurs tombés sur le bord du chemin.
+
+« Mais il n'y est pas, il n'y est pas !\... Vous aurez mal vu\... Oui ! une idée comme ça, une idée fausse qui vous aura passé par les yeux ! »
+
+Peu à peu, un espoir fou, une joie délirante l'envahissait.
+
+« Si vous vous étiez trompé, s'il vivait ! Et bien sûr qu'il vit, puisqu'il n'est pas là ! »
+
+Tout à coup, elle jeta un cri sourd. Elle venait de se retourner, elle se trouvait sur l'emplacement même de la batterie. C\'était effroyable, le sol bouleversé comme par un tremblement de terre, des débris traînant partout, des morts renversés en tous sens, dans d'atroces postures, les bras tordus, les jambes repliées, la tête déjetée, hurlant de leur bouche aux dents blanches, grande ouverte. Un brigadier était mort, les deux mains sur les paupières, en une crispation épouvantée, comme pour ne pas voir. Des pièces d'or, qu'un lieutenant portait dans une ceinture, avaient coulé avec son sang, éparses parmi ses entrailles. L\'un sur l'autre, le ménage, Adolphe le conducteur et le pointeur Louis, avec leurs yeux sortis des orbites, restaient farouchement embrassés, mariés jusque dans la mort. Et c'était enfin Honoré, couché sur sa pièce bancale, ainsi que sur un lit d'honneur, foudroyé au flanc et à l'épaule, la face intacte et belle de colère, regardant toujours, là-bas, vers les batteries prussiennes.
+
+« Oh ! mon ami, sanglota Silvine, mon ami\... »
+
+
+Mais, entre les doigts crispés d'Honoré, elle aperçut un papier, taché de sang. Alors, elle s'inquiéta, tâcha d'avoir ce papier, à petites secousses. Le mort ne voulait pas le rendre, le retenait, si étroitement, qu'on ne l'aurait arraché qu'en morceaux. C\'était la lettre qu'elle lui avait écrite, la lettre gardée par lui entre sa peau et sa chemise, serrée ainsi comme pour un adieu, dans la convulsion dernière de l'agonie. Et lorsqu'elle l'eut reconnue, elle fut pénétrée d'une joie profonde, au milieu de sa douleur, toute bouleversée de voir qu'il était mort en pensant à elle. Ah ! certes, oui ! elle la lui laisserait, la chère lettre ! elle ne la reprendrait pas, puisqu'il tenait si obstinément à l'emporter dans la terre. Une nouvelle crise de larmes la soulagea, des larmes tièdes et douces maintenant. Elle s'était relevée, elle lui baisait les mains, elle lui baisa le front, en ne répétant toujours que ce mot d'infinie caresse :
+
+« Mon ami\..., mon ami\... »
+
+Cependant, le soleil baissait, Prosper était allé chercher la couverture. Et tous deux, avec une pieuse lenteur, soulevèrent le corps d'Honoré, le couchèrent sur cette couverture, étalée par terre ; puis, après l'avoir enveloppé, ils le portèrent dans la charrette. La pluie menaçait de reprendre, ils se remettaient en marche, avec l'âne, petit cortège morne, au travers de la plaine scélérate, lorsqu'un lointain roulement de foudre se fit entendre.
+
+Prosper, de nouveau, cria :
+
+« Les chevaux ! les chevaux ! »
+
+C\'était encore une charge des chevaux errants, libres et affamés. Ils arrivaient cette fois par un vaste chaume plat, en une masse profonde, les crinières au vent, les naseaux couverts d'écume ; et un rayon oblique du rouge soleil projetait à l'autre bout du plateau le vol frénétique de leur course. Tout de suite, Silvine s'était jetée devant la charrette, les deux bras en l'air, comme pour les arrêter, d'un geste de furieuse épouvante. Heureusement, ils dévièrent à gauche, détournés par une pente du terrain. Ils auraient tout broyé. La terre tremblait, leurs sabots lancèrent une pluie de cailloux, une grêle de mitraille qui blessa l'âne à la tête. Et ils disparurent, au fond d'un ravin.
+
+« C\'est la faim qui les galope, dit Prosper. Pauvres bêtes ! »
+
+Silvine, après avoir bandé l'oreille de l'âne avec son mouchoir, venait de reprendre la bride. Et le petit cortège lugubre retraversa le plateau, en sens contraire, pour refaire les deux lieues qui le séparaient de Remilly. À chaque pas, Prosper s'arrêtait, regardait les chevaux morts, le cœur gros de s'éloigner ainsi, sans avoir revu Zéphir.
+
+Un peu au-dessous du bois de la Garenne, comme ils tournaient à gauche, pour reprendre la route du matin, un poste allemand exigea leur laissez-passer. Et, au lieu de les écarter de Sedan, ce poste-ci leur ordonna de passer par la ville, sous peine d'être arrêtés. Il n'y avait pas à répondre, c'étaient les ordres nouveaux. D'ailleurs, leur retour allait en être raccourci de deux kilomètres, et ils en étaient heureux, brisés de fatigue.
+
+Mais, dans Sedan, leur marche fut singulièrement entravée. Dès qu'ils eurent franchi les fortifications, une puanteur les enveloppa, un lit de fumier leur monta aux genoux. C\'était la ville immonde, un cloaque où, depuis trois jours, s'entassaient les déjections et les excréments de cent mille hommes. Toutes sortes de détritus avaient épaissi cette litière humaine, de la paille, du foin, que faisait fermenter le crottin des bêtes. Et, surtout, les carcasses des chevaux, abattus et dépecés en pleins carrefours empoisonnaient l'air. Les entrailles se pourrissaient au soleil, les têtes, les os traînaient sur le pavé, grouillants de mouches. Certainement, la peste allait souffler, si l'on ne se hâtait pas de balayer à l'égout cette couche d'effroyable ordure, qui, rue du Ménil, rue Maqua, même sur la place Turenne, atteignait jusqu'à vingt centimètres. Des affiches blanches du reste, posées par les autorités prussiennes, réquisitionnaient les habitants pour le lendemain, ordonnant à tous, quels qu'ils fussent, ouvriers, marchands, bourgeois, magistrats, de se mettre à la besogne, armés de balais et de pelles, sous la menace des peines les plus sévères, si la ville n'était pas propre le soir ; et, déjà, l'on pouvait voir, devant sa porte, le président du tribunal qui raclait le pavé, jetant les immondices dans une brouette, avec une pelle à feu.
+
+Silvine et Prosper, qui avaient pris par la Grande-Rue, ne purent avancer qu'à petits pas, au milieu de cette boue fétide. Puis, toute une agitation emplissait la ville, leur barrait le chemin à chaque minute. C\'était le moment où les Prussiens fouillaient les maisons, pour en faire sortir les soldats cachés, qui s'obstinaient à ne pas se rendre. La veille, lorsque, vers deux heures, le général de Wimpffen était revenu du château de Bellevue, après y avoir signé la capitulation, le bruit avait circulé tout de suite que l'armée prisonnière allait être enfermée dans la presqu'île d'Iges, en attendant qu'on organisât des convois pour la conduire en Allemagne. Quelques rares officiers comptaient profiter de la clause qui les faisait libres, à la condition de s'engager par écrit à ne plus servir. Seul, un général, disait-on, le général Bourgain-Desfeuilles, prétextant ses rhumatismes, venait de prendre cet engagement ; et, le matin même, des huées avaient salué son départ, quand il était monté en voiture, devant l'hôtel de la Croix-d'Or. Depuis le petit jour, le désarmement s'opérait, les soldats devaient défiler sur la place Turenne, pour jeter chacun ses armes, les fusils, les baïonnettes, au tas qui grandissait, pareil à un écroulement de ferraille, dans un angle de la place. Il y avait là un détachement prussien, commandé par un jeune officier, un grand garçon pâle, en tunique bleu ciel, coiffé d'une toque à plume de coq, qui surveillait ce désarmement, d'un air de correction hautaine, les mains gantées de blanc. Un zouave ayant, d'un mouvement de révolte, refusé son chassepot, l'officier l'avait fait emmener, en disant, sans le moindre accent : « Qu\'on me fusille cet homme-là ! » Les autres, mornes, continuaient à défiler, jetaient leurs fusils d'un geste mécanique, dans leur hâte d'en finir. Mais combien, déjà, étaient désarmés, ceux dont les chassepots traînaient là-bas, par la campagne ! Et combien, depuis la veille, se cachaient, faisaient le rêve de disparaître, au milieu de l'inexprimable confusion ! Les maisons, envahies, en restaient pleines, de ces entêtés qui ne répondaient pas, qui se terraient dans les coins. Les patrouilles allemandes, fouillant la ville, en trouvaient de blottis jusque sous des meubles. Et, comme beaucoup, même découverts, s'obstinaient à ne pas sortir des caves, elles s'étaient décidées à tirer des coups de feu par les soupiraux. C\'était une chasse à l'homme, toute une battue abominable.
+
+Au pont de Meuse, l'âne fut arrêté par un encombrement de foule. Le chef du poste qui gardait le pont, méfiant, croyant à quelque commerce de pain ou de viande, voulut s'assurer du contenu de la charrette ; et, lorsqu'il eut écarté la couverture, il regarda un instant le cadavre, d'un air saisi ; puis, d'un geste, il livra le passage. Mais on ne pouvait toujours pas avancer, l'encombrement augmentait, c'était un des premiers convois de prisonniers, qu'un détachement prussien conduisait à la presqu'île d'Iges. Le troupeau ne cessait pas, des hommes se bousculaient, se marchaient sur les talons, dans leurs uniformes en lambeaux, la tête basse, les regards obliques, avec le dos rond et les bras ballants des vaincus qui n'ont même plus de couteau pour s'ouvrir la gorge. La voix rude de leur gardien les poussait comme à coups de fouet, au travers de la débandade silencieuse, où l'on n'entendait que le clapotement des gros souliers dans la boue épaisse. Une ondée venait de tomber encore, et rien n'était plus lamentable, sous la pluie, que ce troupeau de soldats déchus, pareils aux vagabonds et aux mendiants des grandes routes.
+
+Brusquement, Prosper, dont le cœur de vieux chasseur d'Afrique battait à se rompre, de rage étouffée, poussa du coude Silvine, en lui montrant deux soldats qui passaient. Il avait reconnu Maurice et Jean, emmenés avec les camarades, marchant fraternellement côte à côte ; et, la petite charrette, enfin, ayant repris sa marche derrière le convoi, il put les suivre du regard jusqu'au faubourg de Torcy, sur cette route plate qui conduit à Iges au milieu des jardins et des cultures maraîchères.
+
+« Ah ! murmura Silvine, les yeux vers le corps d'Honoré, bouleversée de ce qu'elle voyait, les morts peut-être sont plus heureux ! »
+
+La nuit, qui les surprit à Wadelincourt, était noire depuis longtemps, lorsqu'ils rentrèrent à Remilly. Devant le cadavre de son fils, le père Fouchard resta stupéfait, car il était convaincu qu'on ne le retrouverait pas. Lui, venait d'occuper sa journée à conclure une bonne affaire. Les chevaux des officiers, volés sur le champ de bataille, se vendaient couramment vingt francs pièce ; et il en avait acheté trois pour quarante-cinq francs.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941925 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941494 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941063 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940632 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940201 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939770 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939339 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938908 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938477 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938046 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937615 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937184 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936753 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936322 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935891 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935460 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935029 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934598 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934167 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368933736 .pcalibre .calibre2 .pcalibre1} {#ii .calibre59 .sigil_not_in_toc}
+
+
+Au moment où la colonne de prisonniers sortait de Torcy, il y eut une telle bousculade, que Maurice fut séparé de Jean. Il eut beau courir ensuite, il s'égara davantage. Et, lorsqu'il arriva enfin au pont, jeté sur le canal qui coupe la presqu'île d'Iges à sa base, il se trouva mêlé à des chasseurs d'Afrique, il ne put rejoindre son régiment.
+
+Deux canons, tournés vers l'intérieur de la presqu'île, défendaient le passage du pont. Tout de suite après le canal, dans une maison bourgeoise, l'état-major prussien avait installé un poste, sous les ordres d'un commandant chargé de la réception et de la garde des prisonniers. Du reste, les formalités étaient brèves, on comptait simplement comme des moutons les hommes qui entraient, au petit bonheur de la cohue, sans trop s'inquiéter des uniformes ni des numéros ; et les troupeaux s'engouffraient, allaient camper où les poussait le hasard des routes.
+
+Maurice crut pouvoir s'adresser à un officier bavarois, qui fumait, tranquillement assis à califourchon sur une chaise.
+
+« Le 106e de ligne, monsieur, par où faut-il passer ? »
+
+L\'officier, par exception, ne comprenait-il pas le français ? s'amusa-t-il à égarer un pauvre diable de soldat ? Il eut un sourire, il leva la main, fit le signe d'aller tout droit.
+
+Bien que Maurice fût du pays, il n'était jamais venu dans la presqu'île, il marcha dès lors à la découverte, comme jeté par un coup de vent au fond d'une île lointaine. D'abord, à gauche, il longea la Tour à Glaire, une belle propriété, dont le petit parc avait un charme infini, ainsi planté sur le bord de la Meuse. La route suivait ensuite la rivière, qui coulait à droite, au bas de hautes berges escarpées. Peu à peu, elle montait avec de lents circuits, pour contourner le monticule qui occupait le milieu de la presqu'île ; et il y avait là d'anciennes carrières, des excavations, où se perdaient d'étroits sentiers. Plus loin, au fil de l'eau, se trouvait un moulin. Puis, la route obliquait, redescendait jusqu'au village d'Iges, bâti sur la pente, et qu'un bac reliait à l'autre rive, devant la filature de Saint-Albert. Enfin, des terres labourées, des prairies s'élargissaient, toute une étendue de vastes terrains plats et sans arbres, qu'enfermait la boucle arrondie de la rivière. Vainement, Maurice avait fouillé des yeux le versant accidenté du coteau : il ne voyait là que de la cavalerie et de l'artillerie, en train de s'installer. Il questionna de nouveau, s'adressa à un brigadier de chasseurs d'Afrique, qui ne savait rien. La nuit commençait à se faire, il s'assit un instant sur une borne de la route, les jambes lasses.
+
+Alors, dans le brusque désespoir qui le saisissait, il aperçut, en face, de l'autre côté de la Meuse, les champs maudits où il s'était battu l'avant-veille. C\'était, sous le jour finissant de cette journée de pluie, une évocation livide, le morne déroulement d'un horizon noyé de boue. Le défilé de Saint-Albert, l'étroit chemin par lequel les Prussiens étaient venus, filait le long de la boucle, jusqu'à un éboulis blanchâtre de carrières. Au-delà de la montée du Seugnon, moutonnaient les cimes du bois de la Falizette. Mais, droit devant lui, un peu sur la gauche, c'était surtout Saint-Menges, dont le chemin descendant aboutissait au bac ; c'était le mamelon du Hattoy au milieu, Illy très loin, au fond, Fleigneux enfoncé derrière un pli de terrain, Floing plus rapproché, à droite. Il reconnaissait le champ dans lequel il avait attendu des heures, couché parmi les choux, le plateau que l'artillerie de réserve avait essayé de défendre, la crête où il avait vu Honoré mourir sur sa pièce fracassée. Et l'abomination du désastre renaissait, l'abreuvait de souffrance et de dégoût, jusqu'au vomissement.
+
+Cependant, la crainte d'être surpris par la nuit noire, lui fit reprendre ses recherches. Peut-être le 106e campait-il dans les parties basses, au-delà du village. Il n'y découvrit que des rôdeurs, il se décida à faire le tour de la presqu'île, en suivant la boucle. Comme il traversait un champ de pommes de terre, il eut la précaution d'en déterrer quelques pieds et de s'emplir les poches : elles n'étaient pas mûres encore, mais il n'avait pas autre chose, Jean ayant voulu, pour comble de malchance, se charger des deux pains que Delaherche leur avait remis, au départ. Ce qui le frappait maintenant, c'était la quantité considérable de chevaux qu'il rencontrait, parmi les terres nues dont la pente douce descendait du monticule central à la Meuse, vers Donchery. Pourquoi avoir amené toutes ces bêtes ? comment allait-on les nourrir ? Et la nuit noire s'était faite, lorsqu'il atteignit un petit bois, au bord de l'eau, dans lequel il fut surpris de trouver les cent-gardes de l'escorte de l'empereur, installés déjà, se séchant devant de grands feux. Ces messieurs, ainsi campés à l'écart, avaient de bonnes tentes, des marmites qui bouillaient, une vache attachée à un arbre. Tout de suite, il sentit qu'on le regardait de travers, dans son lamentable abandon de fantassin en lambeaux, couvert de boue. Pourtant, on lui permit de faire cuire ses pommes de terre sous la cendre, et il se retira au pied d'un arbre, à une centaine de mètres, pour les manger. Il ne pleuvait plus, le ciel s'était découvert, des étoiles luisaient très vives, au fond des ténèbres bleues. Alors, il comprit qu'il passerait la nuit là, quitte à continuer ses recherches, le lendemain matin. Il était brisé de fatigue, l'arbre le protégerait toujours un peu, si la pluie recommençait.
+
+Mais il ne put s'endormir, hanté par la pensée de cette prison vaste, ouverte au plein air de la nuit, dans laquelle il se sentait enfermé. Les Prussiens avaient eu une idée d'une intelligence vraiment singulière, en poussant là les quatre-vingt mille hommes qui restaient de l'armée de Châlons. La presqu'île pouvait mesurer une lieue de long sur un kilomètre et demi de large, de quoi parquer à l'aise l'immense troupeau débandé des vaincus. Et il se rendait parfaitement compte de l'eau ininterrompue qui les entourait, la boucle de la Meuse, sur trois côtés, puis le canal de dérivation à la base, unissant les deux lits rapprochés de la rivière. Là seulement, se trouvait une porte, le pont, que les deux canons défendaient. Aussi rien n'allait-il être plus facile que de garder ce camp, malgré son étendue. Déjà, il avait remarqué, à l'autre bord, le cordon des sentinelles allemandes, un soldat tous les cinquante pas, planté près de l'eau, avec l'ordre de tirer sur tout homme qui tenterait de s'échapper à la nage. Des uhlans galopaient derrière, reliaient les différents postes ; tandis que, plus loin, éparses dans la vaste campagne, on aurait pu compter les lignes noires des régiments prussiens, une triple enceinte vivante et mouvante qui murait l'armée prisonnière.
+
+Maintenant, d'ailleurs, les yeux grands ouverts par l'insomnie, Maurice ne voyait plus que les ténèbres, où s'allumaient les feux des bivouacs. Pourtant, au-delà du ruban pâle de la Meuse, il distinguait encore les silhouettes immobiles des sentinelles. Sous la clarté des étoiles, elles restaient droites et noires ; et, à des intervalles réguliers, leur cri guttural lui arrivait, un cri de veille menaçante qui se perdait au loin dans le gros bouillonnement de la rivière. Tout le cauchemar de l'avant-veille renaissait en lui à ces dures syllabes étrangères traversant une belle nuit étoilée de France, tout ce qu'il avait revu une heure plus tôt, le plateau d'Illy encore encombré de morts, cette banlieue scélérate de Sedan où venait de crouler un monde. La tête appuyée contre une racine, dans l'humidité de cette lisière de bois, il retomba au désespoir qui l'avait saisi la veille, sur le canapé de Delaherche ; et ce qui, aggravant les souffrances de son orgueil, le torturait maintenant, c'était la question du lendemain, le besoin de mesurer la chute, de savoir au milieu de quelles ruines ce monde d'hier avait croulé. Puisque l'empereur avait rendu son épée au roi Guillaume, cette abominable guerre n'était-elle pas finie ? Mais il se rappelait ce que lui avaient répondu deux soldats bavarois, qui conduisaient les prisonniers à Iges : « Nous tous en France, nous tous à Paris ! » Dans son demi-sommeil, il eut la vision brusque de ce qui se passait, l'Empire balayé, emporté, sous le coup de l'exécration universelle, la République proclamée au milieu d'une explosion de fièvre patriotique, tandis que la légende de 92 faisait défiler des ombres, les soldats de la levée en masse, les armées de volontaires purgeant de l'étranger le sol de la patrie. Et tout se confondait dans sa pauvre tête malade, les exigences des vainqueurs, l'âpreté de la conquête, l'obstination des vaincus à donner jusqu'à leur dernière goutte de sang, la captivité pour les quatre-vingt mille hommes qui étaient là, cette presqu'île d'abord, les forteresses de l'Allemagne ensuite, pendant des semaines, des mois, des années peut-être. Tout craquait, s'effondrait, à jamais, au fond d'un malheur sans bornes.
+
+Le cri des sentinelles, grandi peu à peu, éclata devant lui, alla se perdre au loin. Il s'était réveillé, il se retournait sur la terre dure, lorsqu'un coup de feu déchira le grand silence. Un râle de mort, tout de suite, avait traversé la nuit noire ; et il y eut un éclaboussement d'eau, la courte lutte d'un corps qui coule à pic. Sans doute quelque malheureux qui venait de recevoir une balle en pleine poitrine, comme il tentait de se sauver, en passant la Meuse à la nage.
+
+Le lendemain, dès le lever du soleil, Maurice fut debout. Le ciel restait clair, il avait une hâte de rejoindran et les camarades de la compagnie. Un instant, il eut l'idée de fouiller à nouveau l'intérieur de la presqu'île ; puis, il résolut d'en achever le tour. Et, comme il se retrouvait au bord du canal, il aperçut les débris du 106e, un millier d'hommes campés sur la berge, que protégeait seule une file maigre de peupliers. La veille, s'il avait tourné à gauche, au lieu de marcher droit devant lui, il aurait rattrapé tout de suite son régiment. Presque tous les régiments de ligne s'étaient entassés là, le long de cette berge qui va de la Tour à Glaire au château de Villette, une autre propriété bourgeoise, entourée de quelques masures, du côté de Donchery ; tous bivouaquaient près du pont, près de l'issue unique, dans cet instinct de la liberté qui fait s'écraser les grands troupeaux, au seuil des bergeries, contre la porte.
+
+Jean eut un cri de joie.
+
+« Ah ! c'est toi enfin ! je t\'ai cru dans la rivière ! »
+
+Il était là, avec ce qui restait de l'escouade, Pache et Lapoulle, Loubet et Chouteau. Ceux-ci, après avoir dormi sous une porte de Sedan, s'étaient trouvés réunis de nouveau par le grand coup de balai. Dans la compagnie, d'ailleurs, ils n'avaient plus d'autre chef que le caporal, la mort ayant fauché le sergent Sapin, le lieutenant Rochas et le capitaine Beaudoin. Et, bien que les vainqueurs eussent aboli les grades, en décidant que les prisonniers ne devaient obéissance qu'aux officiers allemands, tous les quatre ne s'en étaient pas moins serrés autour de lui, le sachant prudent et expérimenté, bon à suivre dans les circonstances difficiles. Aussi, ce matin-là, la concorde et la belle humeur régnaient-elles, malgré la bêtise des uns et la mauvaise tête des autres. Pour la nuit, d'abord, il leur avait trouvé un endroit à peu près sec, entre deux rigoles, où ils s'étaient allongés, n'ayant plus, à eux tous, qu'une toile. Ensuite, il venait de se procurer du bois et une marmite, dans laquelle Loubet leur avait fait du café, dont la bonne chaleur les ragaillardissait. La pluie ne tombait plus, la journée s'annonçait superbe, on avait encore un peu de biscuit et de lard ; et puis, comme disait Chouteau, ça faisait plaisir, de ne plus obéir à personne, de flâner à sa fantaisie. On avait beau être enfermé, il y avait de la place. Du reste, dans deux ou trois jours, on serait parti. Si bien que cette première journée, la journée du 4, qui était un dimanche, se passa gaiement.
+
+Maurice lui-même, raffermi depuis qu'il avait rejoint les camarades, ne souffrit guère que des musiques prussiennes qui jouèrent tout l\'après-midi, de l'autre côté du canal. Vers le soir, il y eut des chœurs. On voyait, au-delà du cordon des sentinelles, les soldats se promenant par petits groupes, chantant d'une voix lente et haute, pour célébrer le dimanche.
+
+« Ah ! ces musiques ! finit par crier Maurice exaspéré. Elles m'entrent dans la peau ! »
+
+Moins nerveux, Jean haussa les épaules.
+
+« Dame ! ils ont des raisons pour être contents. Et puis, peut-être qu'ils croient nous distraire\... La journée n'a pas été mauvaise, ne nous plaignons pas. »
+
+Mais, à la tombée du jour, la pluie recommença. C\'était un désastre. Quelques soldats avaient envahi les rares maisons abandonnées de la presqu'île. Quelques autres étaient parvenus à dresser des tentes. Le plus grand nombre, sans abri d'aucune sorte, sans couverture même, durent passer la nuit, au plein air, sous cette pluie diluvienne.
+
+Vers une heure du matin, Maurice que la fatigue avait assoupi, se réveilla au milieu d'un véritable lac. Les rigoles, enflées par les averses, venaient de déborder, submergeant le terrain où il s'était étendu. Chouteau et Loubet juraient de colère, tandis que Pache secouait Lapoulle, qui dormait quand même à poings fermés, dans cette noyade. Alors, Jean, ayant songé aux peupliers plantés le long du canal, courut s'y abriter, avec ses hommes, qui achevèrent là cette nuit affreuse, à demi ployés, le dos contre l'écorce, les jambes ramenées sous eux, pour les garer des grosses gouttes.
+
+Et la journée du lendemain, et la journée du surlendemain, furent vraiment abominables, sous les continuelles ondées, si drues et si fréquentes, que les vêtements n'avaient pas le temps de sécher sur le corps. La famine commençait, il ne restait plus un biscuit, plus de lard ni de café. Pendant ces deux jours, le lundi et le mardi, on vécut de pommes de terre volées dans les champs voisins ; et encore, vers la fin du deuxième jour, se faisaient-elles si rares, que les soldats ayant de l'argent les achetaient jusqu'à cinq sous pièce. Des clairons sonnaient bien à la distribution, le caporal s'était même hâté de se rendre devant un grand hangar de la Tour à Glaire, où le bruit courait qu'on délivrait des rations de pain. Mais, une première fois, il avait attendu là, pendant trois heures, inutilement ; puis, une seconde, il s'était pris de querelle avec un Bavarois. Si les officiers français ne pouvaient rien, dans l'impuissance où ils étaient d'agir, l'état-major allemand avait-il donc parqué l'armée vaincue sous la pluie, avec l'intention de la laisser crever de faim ? Pas une précaution ne semblait avoir été prise, pas un effort n'était fait pour nourrir les quatre-vingt mille hommes dont l'agonie commençait, dans cet enfer effroyable que les soldats allaient nommer le Camp de la Misère, un nom de détresse dont les plus braves devaient garder le frisson.
+
+Au retour de ses longues stations inutiles devant le hangar, Jean, malgré son calme habituel, s'emportait.
+
+« Est-ce qu'ils se fichent de nous à sonner quand il n'y a rien ? Du tonnerre de Dieu si je me dérange encore ! »
+
+Pourtant, au moindre appel, il se hâtait de nouveau. C\'était inhumain, ces sonneries réglementaires ; et elles avaient un autre effet, qui crevait le cœur de Maurice. Chaque fois que sonnaient les clairons, les chevaux français, abandonnés et libres de l'autre côté du canal, accouraient, se jetaient dans l'eau pour rejoindre leurs régiments, affolés par ces fanfares connues qui leur arrivaient ainsi que des coups d'éperon. Mais, épuisés, entraînés, bien peu atteignaient la berge. Ils se débattaient, lamentables, se noyaient en si grand nombre, que leurs corps déjà, enflés et surnageant, encombraient le canal. Quant à ceux qui abordaient, ils étaient comme pris de folie, galopaient, se perdaient au travers des champs vides de la presqu'île.
+
+« Encore de la viande pour les corbeaux ! disait douloureusement Maurice, qui se rappelait la quantité inquiétante de chevaux, rencontrée par lui. Si nous restons encore quelques jours, nous allons tous nous dévorer\... Ah ! les pauvres bêtes ! »
+
+La nuit du mardi au mercredi fut surtout terrible. Et Jean qui commençait à s'inquiéter sérieusement de l'état fébrile de Maurice, l'obligea à s'envelopper dans un lambeau de couverture, qu'ils avaient acheté dix francs à un zouave ; tandis que lui, dans sa capote trempée comme une éponge, recevait le déluge qui ne cessa point, cette nuit-là. Sous les peupliers, la position devenait intenable : un fleuve de boue coulait, la terre gorgée gardait l'eau en flaques profondes. Le pis était qu'on avait l'estomac vide, le repas du soir ayant consisté en deux betteraves pour les six hommes, qu'ils n'avaient même pu faire cuire, faute de bois sec, et dont la fraîcheur sucrée s'était changée bientôt en une intolérable sensation de brûlure. Sans compter que la dysenterie se déclarait, causée par la fatigue, la mauvaise nourriture, l'humidité persistante. À plus de dix reprises, Jean, adossé contre le tronc du même arbre, les jambes sous l'eau, avait allongé la main, pour tâter si Maurice ne s'était pas découvert, dans l'agitation de son sommeil. Depuis que, sur le plateau d'Illy, son compagnon l'avait sauvé des Prussiens, en l'emportant entre ses bras, il payait sa dette au centuple. C\'était, sans qu'il le raisonnât, le don entier de sa personne, l'oubli total de lui-même pour l'amour de l'autre ; et cela obscur et vivace, chez ce paysan resté près de la terre, qui ne trouvait pas de mots pour exprimer ce qu'il sentait. Déjà, il s'était retiré les morceaux de la bouche, comme disaient les hommes de l'escouade ; maintenant, il aurait donné sa peau pour en revêtir l'autre, lui abriter les épaules, lui réchauffer les pieds. Et, au milieu du sauvage égoïsme qui les entourait, de ce coin d'humanité souffrante dont la faim enrageait les appétits, il devait peut-être à cette complète abnégation de lui-même ce bénéfice imprévu de conserver sa tranquille humeur et sa belle santé ; car lui seul, solide encore, ne perdait pas trop la tête.
+
+Aussi, après cette nuit affreuse, Jean mit-il à exécution une idée qui le hantait.
+
+« Écoute, mon petit, puisqu'on ne nous donne rien à manger et qu'on nous oublie dans ce sacré trou, faut pourtant se remuer un peu, si l'on ne veut pas crever comme des chiens\... As-tu encore des jambes ? »
+
+Heureusement, le soleil avait reparu, et Maurice en était tout réchauffé.
+
+« Mais oui, j'ai des jambes !
+
+--- Alors, nous allons partir à la découverte\... Nous avons de l'argent, c'est bien le diable si nous ne trouvons pas quelque chose à acheter. Et ne nous embarrassons pas des autres, ils ne sont pas assez gentils, qu'ils se débrouillent ! »
+
+En effet, Loubet et Chouteau le révoltaient par leur égoïsme sournois, volant ce qu'ils pouvaient, ne partageant jamais avec les camarades ; de même qu'il n'y avait rien à tirer de bon de Lapoulle, la brute, ni de Pache, le cafard.
+
+Tous les deux donc, Jean et Maurice, s'en allèrent par le chemin que ce dernier avait suivi déjà, le long de la Meuse. Le parc de la Tour à Glaire et la maison d'habitation étaient dévastés, pillés, les pelouses ravinées comme par un orage, les arbres abattus, les bâtiments envahis. Une foule en guenilles, des soldats couverts de boue, les joues creuses, les yeux luisants de fièvre, y campaient en bohémiens, vivaient en loups dans les chambres souillées, n'osant sortir, de peur de perdre leur place pour la nuit. Et, plus loin, sur les pentes, ils traversèrent la cavalerie et l'artillerie, si correctes jusque-là, déchues elles aussi, se désorganisant sous cette torture de la faim, qui affolait les chevaux et jetait les hommes à travers champs, en bandes dévastatrices. À droite, ils virent, devant le moulin, une queue interminable d'artilleurs et de chasseurs d'Afrique défilant avec lenteur : le meunier leur vendait de la farine, deux poignées dans leur mouchoir pour un franc. Mais la crainte de trop attendre les fit passer outre, avec l'espoir de trouver mieux, dans le village d'Iges ; et ce fut une consternation, lorsqu'ils l'eurent visité, nu et morne, pareil à un village d'Algérie, après un passage de sauterelles : plus une miette de vivres, ni pain, ni légumes, ni viande, les misérables maisons comme raclées avec les ongles. On disait que le général Lebrun était descendu chez le maire. Vainement, il s'était efforcé d'organiser un service de bons, payables après la campagne, de façon à faciliter l'approvisionnement des troupes. Il n'y avait plus rien, l'argent devenait inutile. La veille encore, on payait un biscuit deux francs, une bouteille de vin sept francs, un petit verre d'eau-de-vie vingt sous, une pipe de tabac dix sous. Et, maintenant, les officiers devaient garder la maison du général, ainsi que les masures voisines, le sabre au poing, car de continuelles bandes de rôdeurs enfonçaient les portes, volaient jusqu'à l'huile des lampes pour la boire.
+
+Trois zouaves appelèrent Maurice et Jean. À cinq, on ferait de la besogne.
+
+« Venez donc\... Y a des chevaux qui claquent, et si on avait seulement du bois sec\... »
+
+Puis, ils se ruèrent sur une maison de paysan, cassèrent les portes des armoires, arrachèrent le chaume de la toiture. Des officiers qui arrivaient au pas de course, en les menaçant de leurs revolvers, les mirent en fuite.
+
+Jean, quand il vit les quelques habitants restés à Iges aussi misérables et affamés que les soldats, regretta d'avoir dédaigné la farine, au moulin.
+
+« Faut retourner, peut-être qu'il y en a encore. »
+
+Mais Maurice commençait à être si las, si épuisé d'inanition, que Jean le laissa dans un trou des carrières, assis sur une roche, en face du large horizon de Sedan. Lui, après une queue de trois quarts d'heure, revint enfin avec un torchon plein de farine. Et ils ne trouvèrent rien autre chose que de la manger ainsi, à poignées. Ce n'était pas mauvais, ça ne sentait rien, un goût fade de pâte. Pourtant, ce déjeuner les réconforta un peu. Ils eurent même la chance de trouver, dans la roche, un réservoir naturel d'eau de pluie, assez pure, auquel ils se désaltérèrent avec délices.
+
+Puis, comman proposait de rester là l'après-midi, Maurice eut un geste violent.
+
+« Non, non, pas là !\... J'en tomberais malade, d'avoir ça longtemps sous les yeux\... »
+
+De sa main tremblante, il indiquait l'horizon immense, le Hattoy, les plateaux de Floing et d'Illy, le bois de la Garenne, ces champs exécrables du massacre et de la défaite.
+
+« Tout à l'heure, pendant que je t'attendais, j'ai dû me décider à tourner le dos, car j'aurais fini par hurler de rage, oui ! hurler comme un chien qu'on exaspère\... Tu ne peux t'imaginer le mal que ça me fait, ça me rend fou ! »
+
+Jean le regardait étonné de cet orgueil saignant, inquiet de surprendre de nouveau dans ses yeux cet égarement de folie qu'il avait remarqué déjà. Il affecta de plaisanter.
+
+« Bon ! c'est facile, nous allons changer de pays. »
+
+Alors, ils errèrent jusqu'à la fin du jour, au hasard des sentiers. Ils visitèrent la partie plate de la presqu'île, dans l'espérance d'y trouver des pommes de terre encore ; mais les artilleurs, ayant pris les charrues, avaient retourné les champs, glanant, ramassant tout. Ils revinrent sur leurs pas, ils traversèrent de nouveau les foules désœuvrées et mourantes, des soldats promenant leur faim, semant le sol de leurs corps engourdis, tombés d'épuisement par centaines, au grand soleil. Eux-mêmes, à chaque heure, succombaient, devaient s'asseoir. Puis, une sourde exaspération les remettait debout, ils recommençaient à rôder, comme aiguillonnés par l'instinct de l'animal qui cherche sa nourriture. Cela semblait durer depuis des mois, et les minutes coulaient pourtant, rapides. Dans l'intérieur des terres, du côté de Donchery, ils eurent peur des chevaux, ils durent s'abriter derrière un mur, ils restèrent là longtemps, à bout de forces, regardant de leurs yeux vagues ces galops de bêtes folles passer sur le ciel rouge du couchant.
+
+Ainsi que Maurice l'avait prévu, les milliers de chevaux emprisonnés avec l'armée, et qu'on ne pouvait nourrir, étaient un danger qui croissait de jour en jour. D'abord, ils avaient mangé l'écorce des arbres, ensuite, ils s'étaient attaqués aux treillages, aux palissades, à toutes les planches qu'ils rencontraient, et maintenant, ils se dévoraient entre eux. On les voyait se jeter les uns sur les autres, pour s'arracher les crins de la queue, qu'ils mâchaient furieusement, au milieu d'un flot d'écume. Mais, la nuit surtout, ils devenaient terribles, comme si l'obscurité les eût hantés de cauchemars. Ils se réunissaient, se ruaient sur les rares tentes debout, attirés par la paille. Vainement, les hommes, pour les écarter, avaient allumé de grands feux, qui semblaient les exciter davantage. Leurs hennissements étaient si lamentables, si effrayants, qu'on aurait dit des rugissements de bêtes fauves. On les chassait, ils revenaient plus nombreux et plus féroces. Et, à chaque instant, dans les ténèbres, on entendait le long cri d'agonie de quelque soldat perdu que l'enragé galop venait d'écraser.
+
+Le soleil était encore sur l'horizon, lorsquan et Maurice, en route pour retourner au campement, eurent la surprise de rencontrer les quatre hommes de l'escouade terrés dans un fossé, ayant l'air de comploter là quelque mauvais coup. Loubet, tout de suite les appela, et Chouteau leur dit :
+
+« C\'est par rapport au dîner de ce soir\... Nous allons crever, voici trente-six heures que nous ne nous sommes rien mis dans le ventre\... Alors, comme il y a des chevaux, et que ce n'est pas mauvais, la viande des chevaux\...
+
+--- N'est-ce pas ? caporal, vous en êtes, continua Loubet, parce que plus nous serons, mieux ça vaudra, avec une si grosse bête\... Tenez ! il y en a un, là-bas, que nous guettons depuis une heure, ce grand rouge qui a l'air malade. Ce sera plus facile de l'achever. »
+
+Et il montrait un cheval que la faim venait d'abattre, au bord d'un champ ravagé de betteraves. Tombé sur le flanc, il relevait par moments la tête, promenait ses yeux mornes, avec un grand souffle triste.
+
+« Ah ! comme c'est long ! grogna Lapoulle, que son gros appétit torturait. Je vais l'assommer, voulez-vous ? »
+
+Mais Loubet l'arrêta. Merci ! pour se faire une sale histoire avec les Prussiens, qui avaient défendu, sous peine de mort, de tuer un seul cheval, dans la crainte que la carcasse abandonnée n'engendrât la peste\... Il fallait attendre la nuit close. Et c'était pourquoi, tous les quatre, ils étaient dans le fossé, à guetter, les yeux luisants, ne quittant pas la bête.
+
+« Caporal, demanda Pache, d'une voix un peu tremblante, vous qui avez de l'idée, si vous pouviez le tuer sans lui faire du mal. »
+
+D'un geste de révolte, Jean refusa la cruelle besogne. Cette pauvre bête agonisante, oh ! non, non ! Son premier mouvement venait d'être de fuir, d'emmener Maurice, pour ne prendre part ni l'un ni l'autre à l'affreuse boucherie. Mais, en voyant son compagnon si pâle, il se gronda ensuite de sa sensibilité. Après tout, mon Dieu ! les bêtes, c'était fait pour nourrir les gens. On ne pouvait pas se laisser mourir de faim, quand il y avait là de la viande. Et il fut content de voir Maurice se ragaillardir un peu à l'espoir qu'on dînerait, il dit lui-même de son air de bonne humeur :
+
+« Ma foi, non, je n'ai pas d'idée, et s'il faut le tuer, sans lui faire du mal\...
+
+--- Oh ! moi, je m'en fiche, interrompit Lapoulle. Vous allez voir ! »
+
+Quand les deux nouveaux venus se furent assis dans le fossé, l'attente recommença. De temps à autre, un des hommes se levait, s'assurait que le cheval était bien toujours là, tendant le cou vers les souffles frais de la Meuse, vers le soleil couchant, pour en boire encore toute la vie. Puis, enfin, lorsque le crépuscule vint lentement, les six furent debout, dans ce guet sauvage, impatients de la nuit si paresseuse, regardant de toutes parts, avec une inquiétude effarée, si personne ne les voyait.
+
+« Ah ! zut ! cria Chouteau, c'est le moment ! »
+
+La campagne restait claire, d'une clarté louche d'entre chien et loup. Et Lapoulle courut le premier, suivi des cinq autres. Il avait pris dans le fossé une grosse pierre ronde, il se rua sur le cheval, se mit à lui défoncer le crâne, de ses deux bras raidis, comme avec une massue. Mais, dès le second coup, le cheval fit un effort pour se remettre debout. Chouteau et Loubet s'étaient jetés en travers de ses jambes, tâchaient de le maintenir, criaient aux autres de les aider. Il hennissait d'une voix presque humaine, éperdue et douloureuse, se débattait, les aurait cassés comme verre, s'il n'avait pas été déjà à demi mort d'inanition. Cependant, sa tête remuait trop, les coups ne portaient plus, Lapoulle ne pouvait le finir.
+
+« Nom de Dieu ! qu'il a les os durs !\... Tenez-le donc, que je le crève ! »
+
+Jean et Maurice, glacés, n'entendaient pas les appels de Chouteau, restaient les bras ballants, sans se décider à intervenir.
+
+Et Pache, brusquement, dans un élan instinctif de religieuse pitié, tomba sur la terre à deux genoux, joignit les mains, se mit à bégayer des prières, comme on en dit au chevet des agonisants.
+
+« Seigneur, prenez pitié de lui\... »
+
+Une fois encore, Lapoulle frappa à faux, n'enleva qu'une oreille au misérable cheval, qui se renversa, avec un grand cri.
+
+« Attends, attends ! gronda Chouteau. Il faut en finir, il nous ferait pincer\... Ne le lâche pas, Loubet ! »
+
+Dans sa poche, il venait de prendre son couteau, un petit couteau dont la lame n'était guère plus longue que le doigt. Et, vautré sur le corps de la bête, un bras passé à son cou, il enfonça cette lame, fouilla dans cette chair vivante, tailla des morceaux jusqu'à ce qu'il eût trouvé et tranché l'artère. D'un bond, il s'était jeté de côté, le sang jaillissait, se dégorgeait comme du canon d'une fontaine, tandis que les pieds s'agitaient et que de grands frissons convulsifs couraient sur la peau. Il fallut près de cinq minutes au cheval pour mourir. Ses grands yeux élargis, pleins d'une épouvante triste, s'étaient fixés sur les hommes hagards qui attendaient qu'il fût mort. Ils se troublèrent et s'éteignirent.
+
+« Mon Dieu, bégayait Pache toujours à genoux, secourez-le, ayez-le en votre sainte garde\... »
+
+Ensuite, quand il ne remua plus, ce fut un gros embarras, pour en tirer un bon morceau. Loubet, qui avait fait tous les métiers, indiquait bien comment il fallait s'y prendre, si l'on voulait avoir le filet. Mais, boucher maladroit, n'ayant d'ailleurs que le petit couteau, il se perdit dans cette chair toute chaude, encore palpitante de vie. Et Lapoulle, impatient, s'étant mis à l'aider en ouvrant le ventre, sans nécessité aucune, le carnage devint abominable. Une hâte féroce dans le sang et les entrailles répandues, des loups qui fouillaient à pleins crocs la carcasse d'une proie.
+
+« Je ne sais pas bien quel morceau ça peut être, dit enfin Loubet en se relevant, les bras chargés d'un lambeau énorme de viande. Mais voilà tout de même de quoi nous en mettre par-dessus les yeux. »
+
+Jean et Maurice, saisis d'horreur, avaient détourné la tête. Cependant, la faim les pressait, ils suivirent la bande, quand elle galopa, pour ne point se faire surprendre près d'un cheval entamé. Chouteau venait de faire une trouvaille, trois grosses betteraves, oubliées, qu'il emportait. Loubet, pour se décharger les bras, avait jeté la viande sur les épaules de Lapoulle ; tandis que Pache portait la marmite de l'escouade, qu'ils traînaient avec eux, en cas de chasse heureuse. Et les six galopaient, galopaient, sans reprendre haleine, comme poursuivis.
+
+Tout d'un coup, Loubet arrêta les autres.
+
+« C\'est bête, faudrait savoir où nous allons faire cuire ça. »
+
+Jean, qui se calmait, proposa les carrières. Elles n'étaient pas à plus de trois cents mètres, il y avait là des trous cachés, où l'on pouvait allumer du feu, sans être vu. Mais, quand ils y furent, toutes sortes de difficultés se présentèrent. D'abord, la question du bois ; et heureusement qu'ils découvrirent la brouette d'un cantonnier, dont Lapoulle fendit les planches, à coups de talon. Ensuite, ce fut l'eau potable qui manquait absolument. Dans la journée, le grand soleil avait séché les petits réservoirs naturels d'eau de pluie. Il existait bien une pompe, mais elle était trop loin, au château de la Tour à Glaire, et l'on y faisait queue jusqu'à minuit, heureux encore lorsqu'un camarade, dans la bousculade, ne renversait pas du coude votre gamelle. Quant aux quelques puits du voisinage, ils étaient taris depuis deux jours, on n'en tirait plus que de la boue. Restait seulement l'eau de la Meuse, dont la berge se trouvait de l'autre côté de la route.
+
+« J'y vas avec la marmite », proposan.
+
+Tous se récrièrent.
+
+« Ah ! non ! nous ne voulons pas être empoisonnés, c'est plein de morts ! »
+
+La Meuse, en effet, roulait des cadavres d'hommes et de chevaux. On en voyait, à chaque minute, passer, le ventre ballonné, déjà verdâtres, en décomposition. Beaucoup s'étaient arrêtés dans les herbes, sur les bords, empestant l'air, agités par le courant d'un frémissement continu. Et presque tous les soldats qui avaient bu de cette eau abominable, s'étaient trouvés pris de nausées et de dysenterie, à la suite d'affreuses coliques.
+
+Il fallait se résigner pourtant. Maurice expliqua que l'eau, après avoir bouilli, ne serait plus dangereuse.
+
+« Alors, j'y vas », répétan, qui emmena Lapoulle.
+
+Lorsque la marmite fut enfin au feu, pleine d'eau, avec la viande dedans, la nuit noire était venue. Loubet avait épluché les betteraves, pour les faire cuire dans le bouillon, un vrai fricot de l'autre monde, comme il disait ; et tous activaient la flamme, en poussant sous la marmite les débris de la brouette. Leurs grandes ombres dansaient bizarrement, au fond de ce trou de roches. Puis, il leur devint impossible d'attendre davantage, ils se jetèrent sur le bouillon immonde, ils se partagèrent la viande avec leurs doigts égarés et tremblants, sans prendre le temps d'employer le couteau. Mais, malgré eux, leur cœur se soulevait. Ils souffraient surtout du manque de sel, leur estomac se refusait à garder cette bouillie fade de betteraves, ces morceaux de chair à moitié cuite, gluante, d'un goût d'argile. Presque tout de suite, des vomissements se déclarèrent. Pache ne put continuer, Chouteau et Loubet injurièrent cette satanée rosse de cheval, qu'ils avaient eu tant de peine à mettre en pot-au-feu, et qui leur fichait la colique. Seul, Lapoulle dîna copieusement ; mais il faillit en crever, la nuit, lorsqu'il fut retourné avec les trois autres, sous les peupliers du canal, pour y dormir.
+
+En chemin, Maurice, sans une parole, saisissant le bras de Jean, l'avait entraîné par un sentier de traverse. Les camarades lui causaient une sorte de dégoût furieux, il venait de faire un projet, celui d'aller coucher dans le petit bois, où il avait passé la première nuit. C\'était une bonne idée, que Jean approuva beaucoup, lorsqu'il se fut allongé sur le sol en pente, très sec, abrité par d'épais feuillages. Ils y restèrent jusqu'au grand jour, ils y dormirent même d'un profond sommeil, ce qui leur rendit quelque force.
+
+Le lendemain était un jeudi. Mais ils ne savaient plus comment ils vivaient, ils furent simplement heureux de ce que le beau temps semblait se rétablir. Jean décida Maurice, malgré sa répugnance, à retourner au bord du canal, pour voir si leur régiment ne devait pas partir ce jour-là. Chaque jour, maintenant, il y avait des départs de prisonniers, des colonnes de mille à douze cents hommes qu'on dirigeait sur les forteresses de l'Allemagne. L\'avant-veille, ils avaient vu, devant le poste prussien, un convoi d'officiers et de généraux qui allaient, à Pont-à-Mousson, prendre le chemin de fer. C\'était, chez tous, une fièvre, une furieuse envie de quitter cet effroyable Camp de la Misère. Ah ! si leur tour pouvait être venu ! Et, quand ils retrouvèrent le 106e toujours campé sur la berge, dans le désordre croissant de tant de souffrances, ils en eurent un véritable désespoir.
+
+Pourtant, ce jour-là, Jean et Maurice crurent qu'ils mangeraient. Depuis le matin, tout un commerce s'était établi entre les prisonniers et les Bavarois, par-dessus le canal : on leur jetait de l'argent dans un mouchoir, et ils renvoyaient le mouchoir avec du gros pain bis ou du tabac grossier, à peine sec. Même des soldats qui n'avaient pas d'argent, étaient arrivés à faire des affaires, en leur lançant des gants blancs d'ordonnance, dont ils semblaient friands. Pendant deux heures, le long du canal, ce moyen barbare d'échange fit voler les paquets. Mais, Maurice ayant envoyé une pièce de cent sous dans sa cravate, le Bavarois qui lui renvoyait un pain, le jeta de telle sorte, soit maladresse, soit farce méchante, que le pain tomba à l'eau. Alors, parmi les Allemands, ce furent des rires énormes. Deux fois, Maurice s'entêta, et deux fois le pain fit un plongeon. Puis, attirés par les rires, des officiers accoururent, qui défendirent à leurs hommes de rien vendre aux prisonniers, sous peine de punitions sévères. Le commerce cessa, Jean dut calmer Maurice qui montrait les deux poings à ces voleurs, en leur criant de lui renvoyer ses pièces de cent sous.
+
+La journée, malgré son grand soleil, fut terrible encore. Il y eut deux alertes, deux appels de clairon, qui firent courian devant le hangar, où les distributions étaient censées avoir lieu. Mais, les deux fois, il ne reçut que des coups de coude, dans la bousculade. Les Prussiens, si remarquablement organisés, continuaient à montrer une incurie brutale à l'égard de l'armée vaincue. Sur les réclamations des généraux Douay et Lebrun, ils avaient bien fait amener quelques moutons, ainsi que des voitures de pains ; seulement, les précautions étaient si mal prises, que les moutons se trouvaient enlevés, les voitures pillées, dès le pont, de sorte que les troupes campées à plus de cent mètres, ne recevaient toujours rien. Il n'y avait guère que les rôdeurs, les détrousseurs de convois, qui mangeaient. Aussan, comprenant le truc, comme il disait, finit-il par amener Maurice près du pont, pour guetter eux aussi la nourriture.
+
+Il était quatre heures déjà, ils n'avaient rien mangé encore, par ce beau jeudi ensoleillé, lorsqu'ils eurent la joie, tout d'un coup, d'apercevoir Delaherche. Quelques bourgeois de Sedan obtenaient ainsi, à grand-peine, l'autorisation d'aller voir les prisonniers, auxquels ils portaient des provisions ; et Maurice, plusieurs fois déjà, avait dit sa surprise de n'avoir aucune nouvelle de sa sœur. Dès qu'ils reconnurent de loin Delaherche, chargé d'un panier, ayant un pain sous chaque bras, ils se ruèrent ; mais ils arrivèrent encore trop tard, une telle poussée s'était produite, que le panier et un des pains venaient d'y rester, enlevés, disparus, sans que le fabricant de drap eût pu lui-même se rendre compte de cet arrachement.
+
+« Ah ! mes pauvres amis ! » balbutia-t-il, stupéfait, bouleversé, lui qui arrivait le sourire aux lèvres, l'air bonhomme et pas fier, dans son désir de popularité.
+
+Jean s'était emparé du dernier pain, le défendait ; et, tandis que Maurice et lui, assis au bord de la route, le dévoraient à grosses bouchées, Delaherche donnait des nouvelles. Sa femme, Dieu merci ! allait très bien. Seulement, il avait des inquiétudes pour le colonel, qui était tombé dans un grand accablement, bien que sa mère continuât à lui tenir compagnie du matin au soir.
+
+« Et ma sœur ? demanda Maurice.
+
+--- Votre sœur, c'est vrai !\... Elle m'accompagnait, c'était elle qui portait les deux pains. Seulement, elle a dû rester là-bas, de l'autre côté du canal. Jamais le poste n'a consenti à la laisser passer\... Vous savez que les Prussiens ont rigoureusement interdit aux femmes l'entrée de la presqu'île. »
+
+Alors, il parla d'Henriette, de ses tentatives vaines pour voir son frère et lui venir en aide. Un hasard l'avait mise, dans Sedan, face à face avec le cousin Gunther, le capitaine de la garde prussienne. Il passait de son air sec et dur, en affectant de ne pas la reconnaître. Elle-même, le cœur soulevé, comme devant un des assassins de son mari, avait d'abord hâté le pas. Puis, dans un brusque revirement, qu'elle ne s'expliquait point, elle était revenue, lui avait tout dit, la mort de Weiss, d'une voix rude de reproche. Et il n'avait eu qu'un geste vague, en apprenant cette mort affreuse d'un parent : c'était le sort de la guerre, lui aussi aurait pu être tué. Sur son visage de soldat, à peine un frémissement avait-il couru. Ensuite, lorsqu'elle lui avait parlé de son frère prisonnier, en le suppliant d'intervenir, pour qu'elle pût le voir, il s'était refusé à toute démarche. La consigne était formelle, il parlait de la volonté allemande comme d'une religion. En le quittant, elle avait eu la sensation nette qu'il se croyait en France comme un justicier, avec l'intolérance et la morgue de l'ennemi héréditaire, grandi dans la haine de la race qu'il châtiait.
+
+« Enfin, conclut Delaherche, vous aurez toujours mangé, ce soir ; et ce qui me désespère, c'est que je crains bien de ne pouvoir obtenir une autre permission. »
+
+Il leur demanda s'ils n'avaient pas de commission à lui donner, il se chargea obligeamment de lettres écrites au crayon, que d'autres soldats lui confièrent, car on avait vu des Bavarois allumer leur pipe, en riant, avec les lettres qu'ils avaient promis de faire parvenir.
+
+Puis, comme Maurice ean l'accompagnaient jusqu'au pont, Delaherche s'écria :
+
+« Mais, tenez ! la voici là-bas, Henriette !\... Vous la voyez bien qui agite son mouchoir. »
+
+Au-delà de la ligne des sentinelles, en effet, parmi la foule, on distinguait une petite figure mince, un point blanc qui palpitait dans le soleil. Et tous deux, très émus, les yeux humides, levèrent les bras, répondirent d'un furieux branle de la main.
+
+Ce fut le lendemain, un vendredi, que Maurice passa la plus abominable des journées. Pourtant, après une nouvelle nuit tranquille dans le petit bois, il avait eu la chance de manger encore du pain, Jean ayant découvert au château de Villette, une femme qui en vendait, à dix francs la livre. Mais, ce jour-là, ils assistèrent à une effrayante scène, dont le cauchemar les hanta longtemps.
+
+La veille, Chouteau avait remarqué que Pache ne se plaignait plus, l'air étourdi et content, comme un homme qui aurait dîné à sa faim. Tout de suite, il eut l'idée que le sournois devait avoir une cachette quelque part, d'autant plus que, ce matin-là, il venait de le voir s'éloigner pendant près d'une heure, puis reparaître, avec un sourire en dessous, la bouche pleine. Sûrement, une aubaine lui était tombée, des provisions ramassées dans quelque bagarre. Et Chouteau exaspérait Loubet et Lapoulle, ce dernier surtout. Hein ? quel sale individu, s'il avait à manger, de ne pas partager avec les camarades !
+
+« Vous ne savez pas, ce soir, nous allons le suivre. Nous verrons s'il ose s'emplir tout seul, quand de pauvres bougres crèvent à côté de lui.
+
+--- Oui, oui ! c'est ça, nous le suivrons ! répéta violemment Lapoulle. Nous verrons bien ! »
+
+Il serrait les poings, le seul espoir de manger enfin le rendait fou. Son gros appétit le torturait plus que les autres, son tourment devenait tel, qu'il avait essayé de mâcher de l'herbe. Depuis l'avant-veille, depuis la nuit où la viande de cheval aux betteraves lui avait donné une dysenterie affreuse, il était à jeun, si maladroit de son grand corps, malgré sa force, que, dans la bousculade du pillage des vivres, il n'attrapait jamais rien. Il aurait payé de son sang une livre de pain.
+
+Comme la nuit tombait, Pache se glissa parmi les arbres de la Tour à Glaire, et les trois autres, prudemment, filèrent derrière lui.
+
+« Faut pas qu'il se doute, répétait Chouteau. Méfiez-vous, s'il se retourne. »
+
+
+« Nom de Dieu de cafard ! hurla Lapoulle, voilà donc pourquoi tu te caches !\... Tu vas me donner ça, c'est ma part ! »
+
+Donner son pain, pourquoi donc ? Si chétif qu'il fût, une colère le redressa, tandis qu'il serrait le morceau de toutes ses forces sur son cœur. Lui aussi avait faim.
+
+« Fiche-moi la paix, entends-tu ! c'est à moi ! »
+
+Puis, devant le poing levé de Lapoulle, il prit sa course, galopant, dévalant des carrières dans les terres nues, du côté de Donchery. Les trois autres le poursuivaient, haletants, à toutes jambes. Mais il gagnait du terrain, plus léger, pris d'une telle peur, si entêté à garder son bien, qu'il semblait emporté par le vent. Il avait franchi près d'un kilomètre, il approchait du petit bois, au bord de l'eau, lorsqu'il rencontran et Maurice qui revenaient à leur gîte de la nuit. Au passage, il leur jeta un cri de détresse, tandis que ceux-ci, étonnés de cette chasse à l'homme, dont l'enragé galop passait devant eux, restaient plantés au bord d'un champ. Et ce fut ainsi qu'ils virent tout.
+
+Le malheur voulut que Pache, butant contre une pierre, s'abattît. Déjà les trois autres arrivaient, jurant, hurlant, fouettés par la course, pareils à des loups lâchés sur une proie.
+
+« Donne ça, nom de Dieu ! cria Lapoulle, ou je te fais ton affaire ! »
+
+Et il levait de nouveau le poing, lorsque Chouteau lui passa, grand ouvert, le couteau mince, qui lui avait servi à saigner le cheval.
+
+« Tiens ! le couteau ! »
+
+Maian s'était précipité, pour empêcher un malheur, perdant la tête lui aussi, parlant de les fourrer tous au bloc ; ce qui le fit traiter par Loubet de Prussien, avec un mauvais rire, puisqu'il n'y avait plus de chefs et que les Prussiens seuls commandaient.
+
+« Tonnerre de Dieu ! répétait Lapoulle, veux-tu me donner ça ! »
+
+Malgré la terreur dont il était blême, Pache serra davantage le pain contre sa poitrine, dans son obstination de paysan affamé qui ne lâche rien de ce qui est à lui. « Non ! »
+
+« Non ! »
+
+Alors, ce fut fini, la brute lui planta le couteau dans la gorge, si violemment, que le misérable ne cria même pas. Ses bras se détendirent, le morceau de pain roula par terre, dans le sang qui avait jailli.
+
+Devant ce meurtre imbécile et fou, Maurice, immobile jusque-là, parut lui-même être pris brusquement de folie. Il menaçait les trois hommes du geste, il les traitait d'assassins, avec une telle véhémence, que tout son corps en tremblait. Mais Lapoulle ne semblait même pas l'entendre. Resté par terre, accroupi près du corps, il dévorait le pain, éclaboussé de gouttes rouges ; il avait un air de stupidité farouche, comme étourdi par le gros bruit de ses mâchoires, tandis que Chouteau et Loubet, à le voir si terrible dans son assouvissement, n'osaient pas même lui réclamer leur part.
+
+La nuit était complètement venue, une nuit claire, au beau ciel étoilé ; et Maurice et Jean, qui avaient gagné leur petit bois, ne virent bientôt plus que Lapoulle, rôdant le long de la Meuse. Les deux autres avaient disparu, retournés sans doute au bord du canal, inquiets de ce corps qu'ils laissaient derrière eux. Lui, au contraire, semblait craindre d'aller là-bas, rejoindre les camarades. Après l'étourdissement du meurtre, alourdi par la digestion du gros morceau de pain avalé trop vite, il était évidemment saisi d'une angoisse, qui le faisait s'agiter, n'osant reprendre la route que barrait le cadavre, piétinant sans fin sur la berge, d'un pas vacillant d'irrésolution. Le remords s'éveillait-il, au fond de cette âme obscure ? ou bien n'était-ce que la terreur d'être découvert ? Il allait et venait ainsi qu'une bête devant les barreaux de sa cage, avec un besoin subit et grandissant de fuir, un besoin douloureux comme un mal physique, dont il sentait qu'il mourrait, s'il ne le contentait pas. Au galop, au galop, il lui fallait sortir tout de suite de cette prison où il venait de tuer. Pourtant, il s'affaissa, il resta longtemps vautré parmi les herbes de la rive.
+
+Dans sa révolte, Maurice, lui aussi, disait an :
+
+« Écoute, je ne puis plus rester. Je t'assure que je vais devenir fou\... Ça m'étonne que le corps ait résisté, je ne me porte pas trop mal. Mais la tête déménage, oui ! elle déménage, c'est certain. Si tu me laisses encore un jour dans cet enfer, je suis perdu\... Je t'en prie, partons, partons tout de suite ! »
+
+Et il se mit à lui expliquer des plans extravagants d'évasion. Ils allaient traverser la Meuse à la nage, se jeter sur les sentinelles, les étrangler avec un bout de corde qu'il avait dans sa poche ; ou encore ils les assommeraient à coups de pierre ; ou encore ils les achèteraient à prix d'argent, revêtiraient leurs uniformes, pour franchir les lignes prussiennes.
+
+« Mon petit, tais-toi ! répétaian désespéré, ça me fait peur de t'entendre dire des bêtises. Est-ce que c'est raisonnable, est-ce que c'est possible, tout ça ?\... Demain, nous verrons. Tais-toi ! »
+
+Lui, bien qu'il eût également le cœur abreuvé de colère et de dégoût, gardait son bon sens, dans l'affaiblissement de la faim, parmi les cauchemars de cette vie qui touchait le fond de la misère humaine. Et, comme son compagnon s'affolait davantage, voulait se jeter à la Meuse, il dut le retenir, le violenter même, les yeux pleins de larmes, suppliant et grondant. Puis, tout d'un coup :
+
+« Tiens ! regarde ! »
+
+Un clapotement d'eau venait de se faire entendre. Ils virent Lapoulle, qui s'était décidé à se laisser glisser dans la rivière, après avoir enlevé sa capote, pour qu'elle ne gênât pas ses mouvements ; et la tache de sa chemise faisait une blancheur très visible, au fil du courant mouvant et noir. Il nageait, il remontait doucement, guettant sans doute le point où il pourrait aborder ; tandis que, sur l'autre berge, on distinguait très bien les minces silhouettes des sentinelles immobiles. Déchirant la nuit, il y eut un brusque éclair, un coup de feu qui alla rouler jusqu'aux roches de Montimont. L\'eau, simplement, bouillonna, comme sous le choc de deux rames affolées qui l'auraient battue. Et ce fut tout, le corps de Lapoulle, la tache blanche se mit à descendre, abandonnée et molle dans le courant.
+
+Le lendemain, un samedi, dès l'aube, Jean ramena Maurice au campement du 106e, avec le nouvel espoir qu'on partirait ce jour-là. Mais il n'y avait pas d'ordre, le régiment semblait comme oublié. Beaucoup étaient partis, la presqu'île se vidait, et ceux qu'on laissait là tombaient à une maladie noire. Depuis huit grands jours, la démence germait et montait dans cet enfer. La cessation des pluies, le lourd soleil de plomb n'avait fait que changer le supplice. Des chaleurs excessives achevaient d'épuiser les hommes, donnaient aux cas de dysenterie un caractère épidémique inquiétant. Les déjections, les excréments de toute cette armée malade empoisonnaient l'air d'émanations infectes. On ne pouvait plus longer la Meuse ni le canal, tellement la puanteur des chevaux et des soldats noyés, pourrissant parmi les herbes, était forte. Et, dans les champs, les chevaux morts d'inanition se décomposaient, soufflaient si violemment la peste, que les Prussiens, qui commençaient à craindre pour eux, avaient apporté des pioches et des pelles, en forçant les prisonniers à enterrer les corps.
+
+Ce samedi-là, d'ailleurs, la disette cessa. Comme on était moins nombreux et que des vivres arrivaient de toutes parts, on passa d'un coup de l'extrême dénuement à l'abondance la plus large. On eut à volonté du pain, de la viande, du vin même, on mangea du lever au coucher du soleil, à en mourir. La nuit tomba, qu'on mangeait encore, et l'on mangea jusqu'au lendemain matin. Beaucoup en crevèrent.
+
+Pendant la journée, Jean n'avait eu que la préoccupation de surveiller Maurice, qu'il sentait capable de toutes les extravagances. Il avait bu, il parlait de souffleter un officier allemand, pour qu'on l'emmenât. Et, le soir, Jean, ayant découvert, dans les dépendances de la Tour à Glaire un coin de cave libre, il crut sage d'y venir coucher avec son compagnon, qu'une bonne nuit calmerait peut-être. Mais ce fut la nuit la plus affreuse de leur séjour, une nuit d'épouvantement, durant laquelle ils ne purent fermer les yeux. D'autres soldats emplissaient la cave, deux étaient allongés dans le même coin, qui se mouraient, vidés par la dysenterie ; et, dès que l'obscurité fut complète, ils ne cessèrent plus, des plaintes sourdes, des cris inarticulés, une agonie dont le râle allait en grandissant. Au fond des ténèbres, ce râle prenait une telle abomination, que les autres hommes couchés à côté, voulant dormir, se fâchaient, criaient aux mourants de se taire. Ceux-ci n'entendaient pas, le râle continuait, revenait, emportait tout ; pendant que, du dehors, arrivait la clameur d'ivresse des camarades qui mangeaient encore, sans pouvoir se rassasier.
+
+Alors, la détresse commença pour Maurice. Il avait tâché de fuir cette plainte d'horrible douleur qui lui mettait à la peau une sueur d'angoisse ; mais, comme il se levait, à tâtons, il avait marché sur des membres, il était retombé par terre, muré avec ces mourants. Et il n'essayait même plus de s'échapper. Tout l'effroyable désastre s'évoquait, depuis le départ de Reims, jusqu'à l'écrasement de Sedan. Il lui semblait que la passion de l'armée de Châlons s'achevait seulement cette nuit-là, dans la nuit d'encre de cette cave, où râlaient deux soldats, qui empêchaient les camarades de dormir. L\'armée de la désespérance, le troupeau expiatoire, envoyé en holocauste, avait payé les fautes de tous du flot rouge de son sang, à chacune de ses stations. Et, maintenant, égorgée sans gloire, couverte de crachats, elle tombait au martyre, sous ce châtiment qu'elle n'avait pas mérité si rude. C\'était trop, il en était soulevé de colère, affamé de justice, dans un besoin brûlant de se venger du destin.
+
+Lorsque l'aube parut, l'un des soldats était mort, l'autre râlait toujours.
+
+« Allons, viens, mon petit, dian avec douceur. Nous allons prendre l'air, ça vaudra mieux. »
+
+Mais, dehors, par la belle matinée déjà chaude, lorsque tous deux eurent suivi la berge et se trouvèrent près du village d'Iges, Maurice s'exalta davantage, le poing tendu, là-bas, vers le vaste horizon ensoleillé du champ de bataille, le plateau d'Illy en face, Saint-Menges à gauche, le bois de la Garenne à droite.
+
+« Non, non ! je ne peux plus, je ne peux plus voir ça ! C\'est d'avoir ça devant moi qui me troue le cœur et me fend le crâne\... Emmène-moi, emmène-moi tout de suite ! »
+
+Ce jour-là était encore un dimanche, des volées de cloches venaient de Sedan, tandis qu'on entendait déjà au loin une musique allemande. Mais le 106e n\'avait toujours pas d'ordre, ean, effrayé du délire croissant de Maurice, se décida à tenter un moyen qu'il mûrissait depuis la veille. Devant le poste prussien, sur la route, un départ se préparait, celui d'un autre régiment, le 5e de ligne. Une grande confusion régnait dans la colonne, dont un officier, parlant mal le français, n'arrivait pas à faire le recensement. Et, tous deux alors, ayant arraché de leur uniforme le collet et les boutons, pour n'être pas trahis par le numéro, filèrent au milieu de la cohue, passèrent le pont, se trouvèrent dehors. Sans doute, Chouteau et Loubet avaient eu la même idée, car ils les aperçurent derrière eux, avec leurs regards inquiets d'assassins.
+
+Ah ! quel soulagement, à cette première minute heureuse ! Dehors, il semblait que ce fût une résurrection, la lumière vivante, l'air sans bornes, le réveil fleuri de toutes les espérances. Quel que pût être leur malheur à présent, ils ne le redoutaient plus, ils en riaient, au sortir de cet effrayant cauchemar du Camp de la Misère.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941926 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941495 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941064 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940633 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940202 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939340 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938909 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938478 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938047 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937616 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937185 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936754 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936323 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935892 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935461 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935030 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934599 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934168 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368933737 .pcalibre .calibre2 .pcalibre1} {#iii .calibre59 .sigil_not_in_toc}
+
+
+Pour la dernière fois, le matian et Maurice venaient d'entendre les sonneries si gaies des clairons français ; et ils marchaient maintenant, en route pour l'Allemagne, parmi les troupeaux des prisonniers, que précédaient et suivaient des pelotons de soldats prussiens, tandis que d'autres les surveillaient, à gauche et à droite, la baïonnette au fusil. On n'entendait plus, à chaque poste, que les trompettes allemandes, aux notes aigres et tristes.
+
+Maurice fut heureux de constater que la colonne tournait à gauche et qu'elle traverserait Sedan. Peut-être aurait-il la chance d'apercevoir une fois encore sa sœur Henriette. Mais les cinq kilomètres qui séparaient la presqu'île d'Iges de la ville, suffirent pour gâter sa joie de se sentir hors du cloaque, où il avait agonisé pendant neuf jours. C\'était un autre supplice, ce convoi pitoyable de prisonniers, des soldats sans armes, les mains ballantes, menés comme des moutons, dans un piétinement hâtif et peureux. Vêtus de loques, souillés d'avoir été abandonnés dans leur ordure, amaigris par un jeûne d'une grande semaine, ils ne ressemblaient plus qu'à des vagabonds, des rôdeurs louches, que des gendarmes auraient ramassés par les routes, d'un coup de filet. Dès le faubourg de Torcy, comme des hommes s'arrêtaient et que des femmes se mettaient sur les portes, d'un air de sombre commisération, un flot de honte étouffa Maurice, il baissa la tête, la bouche amère.
+
+Jean, d'esprit pratique et de peau plus dure, ne songeait qu'à leur sottise, de n'avoir pas emporté chacun un pain. Dans l'effarement de leur départ, ils s'en étaient même allés à jeun ; et la faim, une fois encore, leur cassait les jambes. D'autres prisonniers devaient être dans le même cas, car plusieurs tendaient de l'argent, suppliaient qu\'on leur vendît quelque chose. Il y en avait un, très grand, l'air très malade, qui agitait une pièce d'or, l'offrant au bout de son long bras, par-dessus la tête des soldats de l'escorte, avec le désespoir de ne rien trouver à acheter. Et ce fut alors que Jean, qui guettait, aperçut de loin, devant une boulangerie, une douzaine de pains en tas. Tout de suite, avant les autres, il jeta cent sous, voulut prendre deux de ces pains. Puis, comme le Prussien qui se trouvait près de lui, le repoussait brutalement, il s'entêta à ramasser au moins sa pièce. Mais, déjà, le capitaine, auquel la surveillance de la colonne était confiée, un petit chauve, de figure insolente, accourait. Il leva suan la crosse de son revolver, il jura qu\'il fendrait la tête au premier qui oserait bouger. Et tous avaient plié les épaules, baissé les yeux, tandis que la marche continuait, avec le sourd roulement des pieds, dans cette soumission frémissante du troupeau.
+
+« Oh ! le gifler, celui-là ! murmura ardemment Maurice, le gifler, lui casser les dents d'un revers de main ! »
+
+Dès lors, la vue de ce capitaine, de cette méprisante figure à gifles, lui devint insupportable. D'ailleurs, on entrait dans Sedan, on passait sur le pont de Meuse ; et les scènes de brutalité se renouvelaient, se multipliaient. Une femme, une mère sans doute, qui voulait embrasser un sergent tout jeune, venait d'être écartée d'un coup de crosse, si violemment, qu'elle en était tombée à terre. Sur la place Turenne, ce furent des bourgeois qu'on bouscula, parce qu'ils jetaient des provisions aux prisonniers. Dans la Grande-Rue, un de ceux-ci, ayant glissé en prenant une bouteille qu'une dame lui offrait, fut relevé à coups de botte. Sedan, qui depuis huit jours voyait ainsi passer ce misérable bétail de la défaite, conduit au bâton, ne s'y accoutumait pas, était agité, à chaque défilé nouveau, d'une fièvre sourde de pitié et de révolte.
+
+Cependant, Jean, lui aussi, pensait à Henriette ; et brusquement, l'idée de Delaherche lui vint. Il poussa du coude son ami.
+
+« Hein ? tout à l'heure, ouvre l'œil, si nous passons dans la rue ! »
+
+En effet, dès qu'ils entrèrent dans la rue Maqua, ils aperçurent de loin plusieurs têtes, penchées à une des fenêtres monumentales de la fabrique. Puis, ils reconnurent Delaherche et sa femme Gilberte, accoudés, ayant, derrière eux, debout, la haute figure sévère de Mme Delaherche. Ils avaient des pains, le fabricant les lançait aux affamés qui tendaient des mains tremblantes, implorantes.
+
+Maurice, tout de suite, avait remarqué que sa sœur n'était pas là ; tandis que Jean, inquiet de voir les pains voler, craignit qu'il n'en restât pas un pour eux. Il agita le bras, criant :
+
+« À nous ! à nous ! »
+
+Ce fut, chez les Delaherche, une surprise presque joyeuse. Leur visage, pâli de pitié, s'éclaira, tandis que des gestes, heureux de la rencontre, leur échappaient. Et Gilberte tint à jeter elle-même le dernier pain dans les bras de Jean, ce qu'elle fit avec une si aimable maladresse, qu'elle en éclata d'un joli rire.
+
+Ne pouvant s'arrêter, Maurice se retourna, demandant à la volée, d'un ton inquiet d'interrogation :
+
+« Et Henriette ? Henriette ? »
+
+Alors, Delaherche répondit par une longue phrase. Mais sa voix se perdit, au milieu du roulement des pieds. Il dut comprendre que le jeune homme ne l'avait pas entendu, car il multiplia les signes, il en répéta un surtout, là-bas, vers le sud. Déjà, la colonne s'engageait dans la rue du Ménil, la façade de la fabrique disparut, avec les trois têtes qui se penchaient, tandis qu'une main agitait un mouchoir.
+
+« Qu'est-ce qu'il a dit ? » demandan.
+
+Maurice, tourmenté, regardait en arrière, vainement.
+
+« Je ne sais pas, je n'ai pas compris\... Me voilà dans l'inquiétude, tant que je n'aurai pas de nouvelles. »
+
+Et le piétinement continuait, les Prussiens hâtaient encore la marche avec leur brutalité de vainqueurs, le troupeau sortit de Sedan par la porte du Ménil, allongé en une file étroite qui galopait, comme dans la peur des chiens.
+
+Lorsqu'ils traversèrent Bazeilles, Jean et Maurice songèrent à Weiss, cherchèrent les cendres de la petite maison, si vaillamment défendue. On leur avait conté, au Camp de la Misère, la dévastation du village, les incendies, les massacres ; et ce qu'ils voyaient dépassait les abominations rêvées. Après douze jours, les tas de décombres fumaient encore. Des murs croulants s'étaient abattus, il ne restait pas dix maisons intactes. Mais ce qui les consola un peu, ce fut de rencontrer des brouettes, des charrettes pleines de casques et de fusils bavarois, ramassés après la lutte. Cette preuve qu'on en avait tué beaucoup, de ces égorgeurs et de ces incendiaires, les soulageait.
+
+C\'était à Douzy que devait avoir lieu la grande halte, pour permettre aux hommes de déjeuner. On n'y arriva point sans souffrance. Très vite, les prisonniers se fatiguaient, épuisés par leur jeûne. Ceux qui, la veille, s'étaient gorgés de nourriture, avaient des vertiges, alourdis, les jambes cassées ; car cette gloutonnerie, loin de réparer leurs forces perdues, n'avait fait que les affaiblir davantage. Aussi, lorsqu'on s'arrêta dans un pré, à gauche du village, les malheureux se laissèrent-ils tomber sur l'herbe, sans courage pour manger. Le vin manquait, des femmes charitables qui voulurent s'approcher avec des bouteilles, furent chassées par les sentinelles. Une d'elles, prise de peur, tomba, se démit le pied ; et il y eut des cris, des larmes, toute une scène révoltante, pendant que les Prussiens, qui avaient confisqué les bouteilles, les buvaient. Cette tendresse pitoyable des paysans pour les pauvres soldats emmenés en captivité, se manifestait ainsi à chaque pas, tandis qu'on les disait d'une rudesse farouche envers les généraux. À Douzy même, quelques jours auparavant, les habitants avaient hué un convoi de généraux qui se rendaient, sur parole, à Pont-à-Mousson. Les routes n'étaient pas sûres pour les officiers : des hommes en blouse, des soldats évadés, des déserteurs peut-être, sautaient sur eux avec des fourches, voulaient les massacrer, ainsi que des lâches et des vendus, dans cette légende de la trahison, qui, vingt ans plus tard, devait encore vouer à l'exécration de ces campagnes tous les chefs ayant porté l'épaulette.
+
+Maurice ean mangèrent la moitié de leur pain, qu'ils eurent la chance d'arroser de quelques gorgées d'eau-de-vie, un brave fermier étant parvenu à emplir leur gourde. Mais, ce qui fut terrible ensuite, ce fut de se remettre en route. On devait coucher à Mouzon, et bien que l'étape se trouvât courte, l'effort à faire paraissait excessif. Les hommes ne purent se relever sans crier, tellement leurs membres las se raidissaient au moindre repos. Beaucoup, dont les pieds saignaient, se déchaussèrent, pour continuer la marche. La dysenterie les ravageait toujours, il en tomba un, dès le premier kilomètre, qu'on dut pousser contre un talus. Deux autres, plus loin, s'affaissèrent au pied d'une haie, où une vieille femme ne les ramassa que le soir. Tous chancelaient, en s'appuyant sur des cannes, que les Prussiens, par dérision peut-être, leur avaient permis de couper, à la lisière d'un petit bois. Ce n'était plus qu'une débandade de gueux, couverts de plaies, hâves et sans souffle. Et les violences se renouvelaient, ceux qui s'écartaient, même pour quelque besoin naturel, étaient ramenés à coups de bâton. À la queue, le peloton formant l'escorte avait l'ordre de pousser les traînards, la baïonnette dans les reins. Un sergent ayant refusé d'aller plus loin, le capitaine commanda à deux hommes de le prendre sous les bras, de le traîner, jusqu'à ce que le misérable consentît à marcher de nouveau. Et c'était surtout le supplice, cette figure à gifles, ce petit officier chauve, qui abusait de ce qu'il parlait très correctement le français, pour injurier les prisonniers dans leur langue, en phrases sèches et cinglantes comme des coups de cravache.
+
+« Oh ! répétait rageusement Maurice, le tenir, celui-là, et lui tirer tout son sang, goutte à goutte ! »
+
+Il était à bout de forces, plus malade encore de colère rentrée que d'épuisement. Tout l'exaspérait, jusqu'à ces sonneries aigres des trompettes prussiennes, qui l'auraient fait hurler comme une bête, dans l'énervement de sa chair. Jamais il n'arriverait à la fin du cruel voyage, sans se faire casser la tête. Déjà, lorsqu'on traversait le moindre des hameaux, il souffrait affreusement, en voyant les femmes qui le regardaient d'un air de grande pitié. Que serait-ce, quand on entrerait en Allemagne, que les populations des villes se bousculeraient, pour l'accueillir, au passage, d'un rire insultant ? Et il évoquait les wagons à bestiaux où l'on allait les entasser, les dégoûts et les tortures de la route, la triste existence des forteresses, sous le ciel d'hiver, chargé de neige. Non, non ! plutôt la mort tout de suite, plutôt risquer de laisser sa peau au détour d'un chemin, sur la terre de France, que de pourrir là-bas, au fond d'une casemate noire, pendant des mois peut-être !
+
+« Écoute, dit-il tout bas an, qui marchait près de lui, nous allons attendre de passer le long d'un bois, et d'un saut nous filerons parmi les arbres\... La frontière belge n'est pas loin, nous trouverons bien quelqu'un pour nous y conduire. »
+
+Jean eut un frémissement, d'esprit plus net et plus froid, malgré la révolte qui finissait par le faire rêver aussi d'évasion.
+
+« Es-tu fou ! ils tireront, nous y resterons tous les deux. »
+
+Mais, d'un geste, Maurice disait qu'il y avait des chances pour qu'on les manquât, et puis, après tout, que, s'ils y restaient, ce serait tant pis !
+
+« Bon ! continuan, mais qu'est-ce que nous deviendrons, ensuite, avec nos uniformes ? Tu vois bien que la campagne est pleine de postes prussiens. Il faudrait au moins d'autres vêtements\... C\'est trop dangereux, mon petit, jamais je ne te laisserai faire une pareille folie. »
+
+Et il dut le retenir, il lui avait pris le bras, il le serrait contre lui, comme s'ils se fussent soutenus mutuellement, pendant qu'il continuait à le calmer, de son air bourru et tendre.
+
+Derrière leur dos, à ce moment, des voix chuchotantes leur firent tourner la tête. C\'étaient Chouteau et Loubet, partis le matin, en même temps qu'eux, de la presqu'île d'Iges, et qu'ils avaient évités jusque-là. Maintenant, les deux gaillards marchaient sur leurs talons. Chouteau devait avoir entendu les paroles de Maurice, son plan de fuite au travers d'un taillis, car il le reprenait pour son compte. Il murmurait dans leur cou :
+
+« Dites donc, nous en sommes. C\'est une riche idée, de foutre le camp. Déjà, des camarades sont partis, nous n'allons bien sûr pas nous laisser traîner comme des chiens jusque dans le pays à ces cochons\... Hein ? à nous quatre, ça va-t-il, de prendre un courant d'air ? »
+
+Maurice s'enfiévrait de nouveau, ean dut se retourner, pour dire au tentateur :
+
+« Si tu es pressé, cours devant\... Qu'est-ce que tu espères donc ? »
+
+Devant le clair regard du caporal, Chouteau se troubla un peu. Il lâcha la raison vraie de son insistance.
+
+« Dame ! si nous sommes quatre, ça sera plus commode\... Y en aura toujours bien un ou deux qui passeront. »
+
+Alors, d'un signe énergique de la tête, Jean refusa tout à fait. Il se méfiait du monsieur, comme il disait, il craignait quelque traîtrise. Et il lui fallut employer toute son autorité sur Maurice, pour l'empêcher de céder, car une occasion se présentait justement, on longeait un petit bois très touffu, qu'un champ obstrué de broussailles séparait seul de la route. Traverser ce champ au galop, disparaître dans le fourré, n'était-ce pas le salut ?
+
+Jusque-là, Loubet n'avait rien dit. Son nez inquiet flairait le vent, ses yeux vifs de garçon adroit guettaient la minute favorable, dans sa résolution bien arrêtée de ne pas aller moisir en Allemagne. Il devait se fier à ses jambes et à sa malignité, qui l'avaient toujours tiré d'affaire. Et, brusquement, il se décida.
+
+« Ah ! zut ! j'en ai assez, je file ! »
+
+D'un bond, il s'était jeté dans le champ voisin, lorsque Chouteau l'imita, galopant à son côté. Tout de suite, deux Prussiens de l'escorte se mirent à leur poursuite, sans qu'aucun autre songeât à les arrêter d'une balle. Et la scène fut si brève, qu'on ne put d'abord s'en rendre compte. Loubet, faisant des crochets parmi les broussailles, allait s'échapper sûrement, tandis que Chouteau, moins agile, était sur le point d'être pris. Mais, d'un suprême effort, celui-ci regagna du terrain, se jeta entre les jambes du camarade, qu'il culbuta ; et, pendant que les deux Prussiens se précipitaient sur l'homme à terre, pour le maintenir, l'autre sauta dans le bois, disparut. Quelques coups de feu partirent, on se souvenait des fusils. Il y eut même, parmi les arbres, une tentative de battue, inutile.
+
+À terre, cependant, les deux soldats assommaient Loubet. Hors de lui, le capitaine s'était précipité, parlant de faire un exemple ; et, devant cet encouragement, les coups de pied, les coups de crosse continuaient de pleuvoir, si bien que, lorsqu'on releva le malheureux, il avait un bras cassé et la tête fendue. Il expira avant d'arriver à Mouzon, dans la petite charrette d'un paysan, qui avait bien voulu le prendre.
+
+« Tu vois », se contenta de murmurer Jean à l'oreille de Maurice.
+
+D'un regard, là-bas, vers le bois impénétrable, tous deux disaient leur colère contre le bandit qui galopait, libre maintenant ; tandis qu'ils finissaient par se sentir pleins de pitié pour le pauvre diable, sa victime, un fricoteur qui ne valait sûrement pas cher, mais tout de même un garçon gai, débrouillard et pas bête. Voilà comment il se faisait que, si malin qu'on fût, on se laissait tout de même manger un jour !
+
+À Mouzon, malgré cette leçon terrible, Maurice fut de nouveau hanté par son idée fixe de fuir. On était arrivé dans un tel état de lassitude, que les Prussiens durent aider les prisonniers, pour dresser les quelques tentes mises à leur disposition. Le campement se trouvait, près de la ville, dans un terrain bas et marécageux ; et le pis était qu'un autre convoi y ayant campé la veille, le sol disparaissait sous l'ordure : un véritable cloaque, d'une saleté immonde. Il fallut, pour se protéger, étaler à terre de larges pierres plates, qu'on eut la chance de découvrir près de là. La soirée, d'ailleurs, fut moins dure, la surveillance des Prussiens se relâchait un peu, depuis que le capitaine avait disparu, installé sans doute dans quelque auberge. D'abord, les sentinelles tolérèrent que des enfants jetassent aux prisonniers des fruits, des pommes et des poires, par-dessus leurs têtes. Ensuite, elles laissèrent les habitants du voisinage envahir le campement, de sorte qu'il y eut bientôt une foule de marchands improvisés, des hommes et des femmes qui débitaient du pain, du vin, même des cigares. Tous ceux qui avaient de l'argent, mangèrent, burent, fumèrent. Sous le pâle crépuscule, cela mettait comme un coin de marché forain, d'une bruyante animation.
+
+Mais, derrière leur tente, Maurice s'exaltait, répétait an :
+
+« Je ne peux plus, je filerai dès que la nuit va être noire\... Demain, nous nous éloignerons de la frontière, il ne sera plus temps.
+
+--- Eh bien ! filons, finit par diran, à bout de résistance, cédant lui aussi à cette hantise de la fuite. Nous le verrons, si nous y laissons la peau. »
+
+Seulement, il dévisagea dès lors les vendeurs, autour de lui. Des camarades venaient de se procurer des blouses et des pantalons, le bruit courait que des habitants charitables avaient créé de véritables magasins de vêtements, pour faciliter les évasions de prisonniers. Et, presque tout de suite, son attention fut attirée par une belle fille, une grande blonde de seize ans, aux yeux superbes, qui tenait à son bras trois pains dans un panier. Elle ne criait pas sa marchandise comme les autres, elle avait un sourire engageant et inquiet, la démarche hésitante. Lui, la regarda fixement, et leurs regards se rencontrèrent, restèrent un instant l'un dans l'autre. Alors, elle s'approcha, avec son sourire embarrassé de belle fille qui s'offrait.
+
+« Voulez-vous du pain ? »
+
+Il ne répondit pas, l'interrogea d'un petit signe. Puis, comme elle disait oui, de la tête, il se hasarda, à voix très basse.
+
+« Il y a des vêtements ?
+
+--- Oui, sous les pains. »
+
+Et, très haut, elle se décida à crier sa marchandise : « Du pain ! du pain ! qui achète du pain ? » Mais, quand Maurice voulut lui glisser vingt francs, elle retira la main d'un geste brusque, elle se sauva, après leur avoir laissé le panier. Ils la virent pourtant qui se retournait encore, qui leur jetait le rire tendre et ému de ses beaux yeux.
+
+Lorsqu'ils eurent le panier, Jean et Maurice tombèrent dans un trouble extrême. Ils s'étaient écartés de leur tente, et jamais ils ne purent la retrouver, tellement ils s'effaraient. Où se mettre ? comment changer de vêtements ? Ce panier, que Jean portait d'un air gauche, il leur semblait que tout le monde le fouillait des yeux, en voyait au grand jour le contenu. Enfin, ils se décidèrent, entrèrent dans la première tente vide, où, éperdument, ils passèrent chacun un pantalon et une blouse, après avoir remis sous les pains leurs effets d'uniforme. Et ils abandonnèrent le tout. Mais ils n'avaient trouvé qu'une casquette de laine, donan avait forcé Maurice à se coiffer. Lui, nu-tête, exagérant le péril, se croyait perdu. Aussi, s'attardait-il en quête d'une coiffure quelconque, lorsque l'idée lui vint d'acheter son chapeau à un vieil homme très sale qui vendait des cigares.
+
+« À trois sous pièce, à cinq sous les deux, les cigares de Bruxelles ! »
+
+Depuis la bataille de Sedan, il n'y avait plus de douane, tout le flot belge entrait librement ; et le vieil homme en guenilles venait de réaliser de très beaux bénéfices, ce qui ne l'empêcha pas d'avoir de grosses prétentions, lorsqu'il eut compris pourquoi l'on voulait acheter son chapeau, un feutre graisseux, troué de part en part. Il ne le lâcha que contre deux pièces de cent sous, en geignant qu'il allait sûrement s'enrhumer.
+
+Jean, d'ailleurs, venait d'avoir une autre idée, celle de lui acheter aussi son fonds de magasin, les trois douzaines de cigares qu'il promenait encore. Et, sans attendre, le chapeau enfoncé sur les yeux, il cria, d'une voix traînante :
+
+« À trois sous les deux, à trois sous les deux, les cigares de Bruxelles ! »
+
+Cette fois, c'était le salut. Il fit signe à Maurice de le précéder. Celui-ci avait eu la chance de ramasser par terre un parapluie ; et, comme il tombait quelques gouttes d'eau, il l'ouvrit tranquillement, pour traverser la ligne des sentinelles.
+
+« À trois sous les deux, à trois sous les deux, les cigares de Bruxelles ! »
+
+En quelques minutes, Jean fut débarrassé de sa marchandise. On se pressait, on riait : en voilà donc un qui était raisonnable, qui ne volait pas le pauvre monde ! Attirés par le bon marché, des Prussiens s'approchèrent aussi, et il dut faire du commerce avec eux. Il avait manœuvré de façon à franchir l'enceinte gardée, il vendit ses deux derniers cigares à un gros sergent barbu, qui ne parlait pas un mot de français.
+
+« Ne marche donc pas si vite, sacré bon Dieu ! répétaian dans le dos de Maurice. Tu vas nous faire reprendre. »
+
+Leurs jambes, malgré eux, les emportaient. Il leur fallut un effort immense pour s'arrêter un instant à l'angle de deux routes, parmi des groupes qui stationnaient devant une auberge. Des bourgeois causaient là, l'air paisible, avec des soldats allemands ; et ils affectèrent d'écouter, ils risquèrent même quelques mots, sur la pluie qui pourrait bien se remettre à tomber toute la nuit. Un homme, un monsieur gras, qui les regardait avec persistance, les faisait trembler. Puis, comme il souriait, d'un air très bon, ils se risquèrent, tout bas.
+
+« Monsieur, le chemin pour aller en Belgique est-il gardé ?
+
+--- Oui, mais traversez d'abord ce bois, puis prenez à gauche, à travers champs. »
+
+Dans le bois, dans le grand silence noir des arbres immobiles, quand ils n'entendirent plus rien, que plus rien ne remua et qu'ils se crurent sauvés, une émotion extraordinaire les jeta aux bras l'un de l'autre. Maurice pleurait à gros sanglots, tandis que des larmes lentes ruisselaient sur les joues de Jean. C\'était la détente de leur long tourment, la joie de se dire que la douleur allait peut-être avoir pitié d'eux. Et ils se serraient d'une étreinte éperdue, dans la fraternité de tout ce qu'ils venaient de souffrir ensemble ; et le baiser qu'ils échangèrent alors leur parut le plus doux et le plus fort de leur vie, un baiser tel qu'ils n'en recevraient jamais d'une femme, l'immortelle amitié, l'absolue certitude que leurs deux cœurs n'en faisaient plus qu'un, pour toujours.
+
+« Mon petit, reprit Jean d'une voix tremblante, quand ils se furent dégagés, c'est déjà très bon d'être ici, mais nous ne sommes pas au bout\... Faudrait s'orienter un peu. »
+
+Maurice, bien qu'il ne connût pas ce point de la frontière, jura qu'il suffisait de marcher devant soi. Tous deux alors, l'un derrière l'autre, se glissèrent, filèrent avec précaution, jusqu'à la lisière des taillis. Là, se rappelant l'indication du bourgeois obligeant, ils voulurent tourner à gauche, pour couper à travers des chaumes. Mais, comme ils rencontraient une route, bordée de peupliers, ils aperçurent le feu d'un poste prussien, qui barrait le passage. La baïonnette d'une sentinelle luisait, des soldats achevaient leur soupe en causant. Et ils rebroussèrent chemin, se rejetèrent au fond du bois, avec la terreur d'être poursuivis. Ils croyaient entendre des voix, des pas, ils battirent ainsi les fourrés pendant près d'une heure, perdant toute direction, tournant sur eux-mêmes, emportés parfois dans un galop, comme des bêtes fuyant sous les broussailles, parfois immobiles, suant l'angoisse, devant des chênes immobiles qu'ils prenaient pour des Prussiens. Enfin, ils débouchèrent de nouveau sur le chemin bordé de peupliers, à dix pas de la sentinelle, près des soldats, en train de se chauffer tranquillement.
+
+« Pas de chance ! gronda Maurice, c'est un bois enchanté. »
+
+Mais, cette fois, on les avait entendus. Des branches s'étaient cassées, des pierres roulaient. Et, comme au qui-vive de la sentinelle, ils se mirent à galoper, sans répondre, le poste prit les armes, des coups de feu partirent, criblant de balles le taillis.
+
+« Nom de Dieu ! » jura d'une voix sourdan, qui retint un cri de douleur.
+
+Il venait de recevoir dans le mollet gauche un coup de fouet, dont la violence l'avait culbuté contre un arbre.
+
+« Touché ? demanda Maurice, anxieux.
+
+--- Oui, à la jambe, c'est foutu ! »
+
+Tous deux écoutaient encore, haletants, avec l'épouvante d'entendre un tumulte de poursuite, sur leurs talons. Mais les coups de feu avaient cessé, et rien ne bougeait plus, dans le grand silence frissonnant qui retombait. Le poste, évidemment, ne se souciait pas de s'engager parmi les arbres.
+
+Jean, qui s'efforçait de se remettre debout, étouffa une plainte. Et Maurice le soutint.
+
+« Tu ne peux plus marcher ?
+
+--- Je crois bien que non ! »
+
+Une colère l'envahit, lui si calme. Il serrait les poings, il se serait battu.
+
+« Ah ! bon Dieu de bon Dieu ! si ce n'est pas une malchance ! se laisser abîmer la patte, lorsqu'on a tant besoin de courir ! Ma parole, c'est à se ficher au fumier !\... File tout seul, toi ! »
+
+Gaiement, Maurice se contenta de répondre :
+
+« Tu es bête ! »
+
+Il lui avait pris le bras, il l'aidait, tous les deux ayant la hâte de s'éloigner. Au bout de quelques pas, faits péniblement, d'un héroïque effort, ils s'arrêtèrent, de nouveau inquiets, en apercevant devant eux une maison, une sorte de petite ferme, à la lisière du bois. Pas une lumière ne luisait aux fenêtres, la porte de la cour était grande ouverte, sur le bâtiment vide et noir. Et, quand ils se furent enhardis jusqu'à pénétrer dans cette cour, ils s'étonnèrent d'y trouver un cheval tout sellé, sans que rien indiquât pourquoi ni comment il était là. Peut-être le maître allait-il revenir, peut-être gisait-il derrière quelque buisson, la tête trouée. Jamais ils ne le surent.
+
+Mais un projet brusque était né chez Maurice, qui en parut tout ragaillardi.
+
+« Écoute, la frontière est trop loin, et puis, décidément, il faudrait un guide\... Tandis que, si nous allions à Remilly, chez l'oncle Fouchard, je serais certain de t'y conduire les yeux fermés, tellement je connais les moindres chemins de traverse\... Hein ? c'est une idée, je vais te hisser sur ce cheval, et l'oncle Fouchard nous prendra bien toujours. »
+
+D'abord, il voulut lui examiner la jambe. Il y avait deux trous, la balle devait être ressortie après avoir cassé le tibia. L\'hémorragie était faible, il se contenta de bander fortement le mollet avec son mouchoir.
+
+« File donc tout seul ! répétaian.
+
+--- Tais-toi, tu es bête ! »
+
+Lorsquan fut solidement installé sur la selle, Maurice prit la bride du cheval, et l'on partit. Il devait être près de onze heures, il comptait bien faire en trois heures le trajet, même si l'on ne marchait qu'au pas. Mais la pensée d'une difficulté imprévue le désespéra un instant : comment allaient-ils traverser la Meuse, pour passer sur la rive gauche ? Le pont de Mouzon était certainement gardé. Enfin, il se rappela qu'il y avait un bac, en aval, à Villers ; et, au petit bonheur, comptant que la chance leur serait enfin favorable, il se dirigea vers ce village, à travers les prairies et les labours de la rive droite. Tout se présenta assez bien d'abord, ils n'eurent qu'à éviter une patrouille de cavalerie, ils restèrent près d'un quart d'heure immobiles, dans l'ombre d'un mur. La pluie s'était remise à tomber, la marche devenait seulement très pénible pour lui, forcé de piétiner parmi les terres détrempées, à côté du cheval, heureusement un brave homme de cheval, fort docile. À Villers, la chance fut en effet pour eux : le bac, qui venait justement à cette heure de nuit, de passer un officier bavarois, put les prendre tout de suite, les déposer sur l'autre rive, sans encombre. Et les dangers, les fatigues terribles ne commencèrent qu'au village, où ils faillirent rester entre les mains des sentinelles, échelonnées tout le long de la route de Remilly. De nouveau, ils se rejetèrent dans les champs, au hasard des petits chemins creux, des sentiers étroits, à peine frayés. Les moindres obstacles les obligeaient à des détours énormes. Ils franchissaient les haies et les fossés, s'ouvraient un passage au cœur des taillis impénétrables. Jean, pris par la fièvre, sous la pluie fine, s'était affaissé en travers de la selle, à moitié évanoui, cramponné des deux mains à la crinière du cheval ; tandis que Maurice, qui avait passé la bride dans son bras droit, devait lui soutenir les jambes, pour qu'il ne glissât pas. Pendant plus d'une lieue, pendant près de deux heures encore, cette marche épuisante s'éternisa, au milieu des cahots, des glissements brusques, des pertes d'équilibre, dans lesquelles, à chaque instant, la bête et les deux hommes manquaient de s'effondrer. Ils n'étaient plus qu'un convoi d'extrême misère, couverts de boue, le cheval tremblant sur les pieds, l'homme qu'il portait inerte, comme expiré dans un dernier hoquet, l'autre, éperdu, hagard, allant toujours, par l'unique effort de sa charité fraternelle. Le jour se levait, il pouvait être cinq heures, lorsqu'ils arrivèrent enfin à Remilly.
+
+Dans la cour de sa petite ferme, qui dominait le village, au sortir du défilé d'Haraucourt, le père Fouchard chargeait sa carriole de deux moutons tués la veille. La vue de son neveu, dans un si triste équipage, le bouscula à un tel point, qu'il s'écria brutalement, après les premières explications :
+
+« Que je vous garde, toi et ton ami ?\... Pour avoir des histoires avec les Prussiens, ah ! non, par exemple ! J'aimerais mieux crever tout de suite ! »
+
+Pourtant, il n'osa empêcher Maurice et Prosper de descendran de cheval et de l'allonger sur la grande table de la cuisine. Silvine courut chercher son propre traversin, qu'elle glissa sous la tête du blessé, toujours évanoui. Mais le vieux grondait, exaspéré de voir cet homme sur sa table, disant qu'il y était fort mal, demandant pourquoi on ne le portait pas tout de suite à l'ambulance, puisqu'on avait la chance d'avoir une ambulance à Remilly, près de l'église, dans l'ancienne maison d'école, un reste de couvent, où se trouvait une grande salle très commode.
+
+« À l'ambulance ! se récria Maurice à son tour, pour que les Prussiens l'envoient en Allemagne, après sa guérison, puisque tout blessé leur appartient !\... Est-ce que vous vous fichez de moi, l'oncle ? Je ne l'ai pas amené jusqu'ici pour le leur rendre. »
+
+Les choses se gâtaient, l'oncle parlait de les flanquer à la porte, lorsque le nom d'Henriette fut prononcé.
+
+« Comment, Henriette ? » demanda le jeune homme.
+
+Et il finit par savoir que sa sœur était à Remilly depuis l'avant-veille, si mortellement triste de son deuil, que le séjour de Sedan, où elle avait vécu heureuse, lui était devenu intolérable. Une rencontre avec le docteur Dalichamp, de Raucourt, qu'elle connaissait, l'avait décidée à venir s'installer chez le père Fouchard, dans une petite chambre, pour se donner tout entière aux blessés de l'ambulance voisine. Cela seul, disait-elle, la distrairait. Elle payait sa pension, elle était, à la ferme, la source de mille douceurs qui la faisaient regarder par le vieux d'un œil de complaisance. Quand il gagnait, c'était toujours beau.
+
+« Ah ! ma sœur est ici ! répétait Maurice. C\'est donc ça que M. Delaherche voulait me dire, avec son grand geste que je ne comprenais pas !\... Eh bien ! si elle est ici, ça va tout seul, nous restons. »
+
+Tout de suite, il voulut aller lui-même, malgré sa fatigue, la chercher à l'ambulance, où elle avait passé la nuit ; tandis que l'oncle se fâchait maintenant de ne pouvoir filer avec sa carriole et ses deux moutons, pour son commerce de boucher ambulant, au travers des villages, tant que cette sacrée affaire de blessé qui lui tombait sur les bras, ne serait pas finie.
+
+Lorsque Maurice ramena Henriette, ils surprirent le père Fouchard en train d'examiner soigneusement le cheval, que Prosper venait de conduire à l'écurie. Une bête fatiguée, mais diablement solide, et qui lui plaisait ! En riant, le jeune homme dit qu'il lui en faisait cadeau. Henriette, de son côté, le prit à part, lui expliqua que Jean paierait, qu'elle-même se chargeait de lui, qu'elle le soignerait dans la petite chambre, derrière l'étable, où certes pas un Prussien n'irait le chercher. Et le père Fouchard, maussade, mal convaincu encore qu'il trouverait au fond de tout ça un vrai bénéfice, finit cependant par monter dans sa carriole et par s'en aller, en la laissant libre d'agir à sa guise.
+
+Alors, en quelques minutes, aidée de Silvine et de Prosper, Henriette organisa la chambre, y fit porter Jean, que l'on coucha dans un lit tout frais, sans qu'il donnât d'autres signes de vie que des balbutiements vagues. Il ouvrait les yeux, regardait, ne semblait voir personne. Maurice achevait de boire un verre de vin et de manger un reste de viande, tout d'un coup anéanti, dans la détente de sa fatigue, lorsque le docteur Dalichamp arriva, comme tous les matins, pour sa visite à l'ambulance ; et le jeune homme trouva encore la force de le suivre, avec sa sœur, au chevet du blessé, anxieux de savoir.
+
+Le docteur était un homme court, à la grosse tête ronde, dont le collier de barbe et les cheveux grisonnaient. Son visage coloré s'était durci, pareil à ceux des paysans, dans sa continuelle vie au grand air, toujours en marche pour le soulagement de quelque souffrance ; tandis que ses yeux vifs, son nez têtu, ses lèvres bonnes disaient son existence entière de brave homme charitable, un peu braque parfois, médecin sans génie, dont une longue pratique avait fait un excellent guérisseur.
+
+Lorsqu'il eut examinan, toujours assoupi, il murmura :
+
+« Je crains bien que l'amputation ne devienne nécessaire. »
+
+Ce fut un chagrin pour Maurice et Henriette. Pourtant, il ajouta :
+
+« Peut-être pourra-t-on lui conserver sa jambe, mais il faudra de grands soins, et ce sera très long\... En ce moment, il est sous le coup d'une telle dépression physique et morale, que l'unique chose à faire est de le laisser dormir\... Nous verrons demain. »
+
+Puis, quand il l'eut pansé, il s'intéressa à Maurice, qu'il avait connu enfant, autrefois.
+
+« Et vous, mon brave, vous seriez mieux dans un lit que sur cette chaise. »
+
+Comme s'il n'entendait pas, le jeune homme regardait fixement devant lui, les yeux perdus. Dans l'ivresse de sa fatigue, une fièvre remontait, une surexcitation nerveuse extraordinaire, toutes les souffrances, toutes les révoltes amassées depuis le commencement de la campagne. La vue de son ami agonisant, le sentiment de sa propre défaite, nu, sans armes, bon à rien, la pensée que tant d'héroïques efforts avaient abouti à une pareille détresse, le jetaient dans un besoin frénétique de rébellion contre le destin. Enfin, il parla.
+
+« Non, non ! ce n'est pas fini, non ! il faut que je m'en aille\... Non ! puisque lui, maintenant, en a pour des semaines, pour des mois peut-être, à être là, je ne puis pas rester, je veux m'en aller tout de suite\... N\'est-ce pas, docteur ? vous m'aiderez, vous me donnerez bien les moyens de m'échapper et de rentrer à Paris. »
+
+Tremblante, Henriette l'avait saisi entre ses bras.
+
+« Que dis-tu ? affaibli comme tu l'es, ayant tant souffert ! mais je te garde, jamais je ne te permettrai de partir !\... Est-ce que tu n'as pas payé ta dette ? Songe à moi aussi, que tu laisserais seule, et qui n'ai plus que toi désormais. »
+
+Leurs larmes se confondirent. Ils s'embrassèrent éperdument, dans leur adoration, cette tendresse des jumeaux, plus étroite, comme venue de par-delà la naissance. Mais il s'exaltait davantage.
+
+« Je t'assure, il faut que je parte\... On m'attend, je mourrais d'angoisse, si je ne partais pas\... Tu ne peux t'imaginer ce qui bouillonne en moi, à l'idée de me tenir tranquille. Je te dis que ça ne peut pas finir ainsi, qu'il faut nous venger, contre qui, contre quoi ? ah ! je ne sais pas, mais nous venger enfin de tant de malheur, pour que nous ayons encore le courage de vivre ! »
+
+D'un signe, le docteur Dalichamp qui suivait la scène avec un vif intérêt, empêcha Henriette de répondre. Quand Maurice aurait dormi, il serait sans doute plus calme ; et il dormit toute la journée, toute la nuit suivante, pendant plus de vingt heures, sans remuer un doigt. Seulement, à son réveil, le lendemain matin, sa résolution de partir reparut, inébranlable. Il n'avait plus la fièvre, il était sombre, inquiet, pressé d'échapper à toutes les tentations de calme qu'il sentait autour de lui. Sa sœur en larmes comprit qu'elle ne devait pas insister. Et le docteur Dalichamp, lors de sa visite, promit de faciliter la fuite, grâce aux papiers d'un aide ambulancier qui venait de mourir à Raucourt. Maurice prendrait la blouse grise, le brassard à croix rouge, et il passerait par la Belgique, pour se rabattre ensuite sur Paris, qui était ouvert encore.
+
+Ce jour-là, il ne quitta pas la ferme, se cachant, attendant la nuit. Il ouvrit à peine la bouche, il tenta seulement d'emmener Prosper.
+
+« Dites donc, ça ne vous tente pas de retourner voir les Prussiens ? »
+
+L\'ancien chasseur d'Afrique, qui achevait une tartine de fromage, leva son couteau en l'air.
+
+« Ah ! pour ce qu'on nous les a montrés, ça ne vaut guère la peine !\... Puisque ça n'est plus bon à rien, la cavalerie, qu'à se faire tuer quand tout est fini, pourquoi voulez-vous que je retourne là-bas ?\... Ma foi, non ! ils m'ont trop embêté, à ne rien me faire faire de propre ! »
+
+Il y eut un silence, et il reprit, sans doute pour étouffer le malaise de son cœur de soldat :
+
+« Puis, il y a trop de travail ici, maintenant. Voilà les grands labours qui viennent, ensuite ce seront les semailles. Faut aussi songer à la terre, n'est-ce pas ? parce que ça va bien de se battre, mais qu'est-ce qu'on deviendrait, si l'on ne labourait plus ?\... Vous comprenez, je ne peux pas lâcher l'ouvrage. Ce n'est pas que le père Fouchard soit raisonnable, car je me doute que je ne verrai guère la couleur de son argent ; mais les bêtes commencent à m'aimer, et ma foi ! ce matin, pendant que j'étais, là-haut, dans la pièce du Vieux-Clos, je regardais au loin ce sacré Sedan, je me sentais quand même tout réconforté, d'être tout seul, au grand soleil, avec mes bêtes, à pousser ma charrue ! »
+
+Dès la nuit tombée, le docteur Dalichamp fut là, avec son cabriolet. Il voulait lui-même conduire Maurice jusqu'à la frontière. Le père Fouchard, content d'en voir filer au moins un, descendit faire le guet sur la route, pour être certain qu'aucune patrouille ne rôdait ; tandis que Silvine achevait de recoudre la vieille blouse d'ambulancier, garnie, sur la manche, du brassard à croix rouge. Avant de partir, le docteur, qui examina de nouveau la jambe de Jean, ne put encore promettre de la lui conserver. Le blessé était toujours dans une somnolence invincible, ne reconnaissant personne, ne parlant pas. Et Maurice allait s'éloigner, sans lui avoir dit adieu, lorsque, s'étant penché pour l'embrasser, il le vit ouvrir les yeux très grands, les lèvres remuantes, parlant d'une voix faible.
+
+« Tu t'en vas ? »
+
+Puis, comme on s'étonnait :
+
+« Oui, je vous ai entendus, pendant que je ne pouvais pas bouger\... Alors, prends tout l'argent. Fouille dans la poche de mon pantalon. »
+
+Sur l'argent du trésor, qu'ils avaient partagé, il leur restait à peu près à chacun deux cents francs.
+
+« L\'argent ! se récria Maurice, mais tu en as plus besoin que moi, qui ai mes deux jambes ! Avec deux cents francs, j'ai de quoi rentrer à Paris, et pour me faire casser la tête ensuite, ça ne me coûtera rien\... Au revoir tout de même, mon vieux, et merci de ce que tu as fait de raisonnable et de bon, car, sans toi, je serais sûrement resté au bord de quelque champ, comme un chien crevé. »
+
+D'un geste, Jean le fit taire.
+
+« Tu ne me dois rien, nous sommes quittes\... C\'est moi que les Prussiens auraient ramassé, là-bas, si tu ne m'avais pas emporté sur ton dos. Et, hier encore, tu m'as arraché de leurs pattes\... Tu as payé deux fois, ce serait à mon tour de donner ma vie\... Ah ! que je vais être inquiet de n'être plus avec toi ! »
+
+Sa voix tremblait, des larmes parurent dans ses yeux.
+
+« Embrasse-moi, mon petit. »
+
+Et ils se baisèrent, et comme dans le bois, la veille, il y avait, au fond de ce baiser, la fraternité des dangers courus ensemble, ces quelques semaines d'héroïque vie commune qui les avaient unis, plus étroitement que des années d'ordinaire amitié n'auraient pu le faire. Les jours sans pain, les nuits sans sommeil, les fatigues excessives, la mort toujours présente, passaient dans leur attendrissement. Est-ce que jamais deux cœurs peuvent se reprendre, quand le don de soi-même les a de la sorte fondus l'un dans l'autre ? Mais le baiser, échangé sous les ténèbres des arbres, était plein de l'espoir nouveau que la fuite leur ouvrait ; tandis que ce baiser, à cette heure, restait frissonnant des angoisses de l'adieu. Se reverrait-on, un jour ? et comment, dans quelles circonstances de douleur ou de joie ?
+
+Déjà, le docteur Dalichamp, remonté dans son cabriolet, appelait Maurice. Celui-ci, de toute son âme, embrassa enfin sa sœur Henriette, qui le regardait avec des larmes silencieuses, très pâle sous ses noirs vêtements de veuve.
+
+« C\'est mon frère que je te confie\... Soigne-le bien, aime-le comme je l'aime ! »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941927 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941496 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941065 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940634 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940203 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939772 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938910 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938479 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938048 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937617 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937186 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936755 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936324 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935893 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935462 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935031 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934600 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934169 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368933738 .pcalibre .calibre2 .pcalibre1} {#iv .calibre59 .sigil_not_in_toc}
+
+
+La chambre était une grande pièce carrelée, badigeonnée simplement à la chaux, qui avait autrefois servi de fruitier. On y sentait encore la bonne odeur des pommes et des poires ; et, pour tout meuble, il y avait là un lit de fer, une table de bois blanc et deux chaises, sans compter une vieille armoire en noyer, aux flancs immenses, où tenait tout un monde. Mais le calme y était d'une douceur profonde, on n'entendait que les bruits sourds de l'étable voisine, des coups affaiblis de sabots, des meuglements de bêtes. Par la fenêtre, tournée au midi, le clair soleil entrait. On voyait seulement un bout de coteau, un champ de blé que bordait un petit bois. Et cette chambre close, mystérieuse, était si bien cachée à tous les yeux, que personne au monde ne pouvait en soupçonner là l'existence.
+
+Tout de suite, Henriette régla les choses : il fut entendu que, pour éviter les soupçons, elle seule et le docteur pénétreraient auprès de Jean. Jamais Silvine ne devait entrer, sans qu'elle l'appelât. De grand matin, le ménage était fait par les deux femmes ; puis, la journée entière, la porte restait comme murée. La nuit, si le blessé avait eu besoin de quelqu'un, il n'aurait eu qu'à taper au mur, car la pièce occupée par Henriette était voisine. Et ce fut ainsi que Jean se trouva brusquement séparé du monde, après des semaines de cohue violente, ne voyant plus que cette jeune femme si douce, dont le pas léger ne faisait aucun bruit. Il la revoyait telle qu'il l'avait vue, là-bas, à Sedan, pour la première fois, pareille à une apparition, avec sa bouche un peu grande, ses traits menus, ses beaux cheveux d'avoine mûre, s'occupant de lui d'un air d'infinie bonté.
+
+Les premiers jours, la fièvre du blessé fut si intense, qu'Henriette ne le quitta guère. Chaque matin, en passant, le docteur Dalichamp entrait, sous le prétexte de la prendre, pour se rendre avec elle à l'ambulance ; et il examinaian, le pansait. La balle, après avoir cassé le tibia, étant ressortie, il s'étonnait du mauvais aspect de la plaie, il craignait que la présence d'une esquille, introuvable pourtant sous la sonde, ne l'obligeât à une résection de l'os. Il en avait causé avec Jean ; mais celui-ci, à la pensée d'un raccourcissement de la jambe, qui l'aurait rendu boiteux, s'était révolté : non, non ! il préférait mourir que de rester infirme. Et le docteur, laissant la blessure en observation, se contentait donc de la panser avec de la charpie imbibée d'huile d'olive et d'acide phénique, après avoir placé au fond de la plaie un drain, un tube de caoutchouc, pour l'écoulement du pus. Seulement, il l'avait averti que, s'il n'intervenait pas, la guérison pourrait être extrêmement longue. Dès la seconde semaine, cependant, la fièvre diminua, l'état devint meilleur, à la condition d'une immobilité complète.
+
+Et l'intimité de Jean et d'Henriette, alors, se trouva réglée. Des habitudes leur vinrent, il leur semblait qu'ils n'avaient jamais vécu autrement, qu'ils devaient toujours vivre ainsi. Elle passait avec lui toutes les heures qu'elle ne donnait pas à l'ambulance, veillait à ce qu'il bût, à ce qu'il mangeât régulièrement, l'aidait à se retourner, d'une force de poignet qu'on n'aurait pas soupçonnée dans ses bras minces. Parfois ils causaient ensemble, le plus souvent ils ne disaient rien, surtout dans les commencements. Mais jamais ils n'avaient l'air de s'ennuyer, c'était une vie très douce, au fond de ce grand repos, lui tout massacré encore de la bataille, elle en robe de deuil, le cœur broyé par la perte qu'elle venait de faire. D'abord, il avait éprouvé quelque gêne, car il sentait bien qu'elle était au-dessus de lui, presque une dame, tandis qu'il n'avait jamais été qu'un paysan et qu'un soldat. À peine savait-il lire et écrire. Puis, il s'était rassuré un peu, en voyant qu'elle le traitait sans fierté, comme son égal, ce qui l'avait enhardi à se montrer ce qu'il était, intelligent à sa manière, à force de tranquille raison. D'ailleurs, lui-même s'étonnait d'avoir la sensation de s'être aminci, allégé, avec des idées nouvelles : était-ce l'abominable vie qu'il menait depuis deux mois ? il sortait affiné de tant de souffrances physiques et morales. Mais ce qui acheva de le conquérir, ce fut de comprendre qu'elle n'en savait pas beaucoup plus que lui. Toute jeune, après la mort de sa mère, devenue la cendrillon, la petite ménagère ayant la charge de ses trois hommes, comme elle disait, son grand-père, son père et son frère, elle n'avait pas eu le temps d'apprendre. La lecture, l'écriture, un peu d'orthographe et de calcul, il ne fallait point lui en demander davantage. Et elle ne l'intimidait encore, elle ne lui apparaissait bien au-dessus de toutes les autres, que parce qu'il la savait d'une bonté supérieure, d'un courage extraordinaire, sous son apparence de petite femme effacée qui se plaisait aux menus soins de la vie.
+
+Ils s'entendirent tout de suite, en causant de Maurice. Si elle se dévouait ainsi, c'était pour l'ami, pour le frère de Maurice, le brave homme secourable envers qui elle payait à son tour une dette de son cœur. Elle était pleine de gratitude, d'une affection qui grandissait, à mesure qu'elle le connaissait mieux, simple et sage, de cerveau solide ; et lui, qu'elle soignait comme un enfant, contractait une dette d'infinie reconnaissance, lui aurait baisé les mains, pour chaque tasse de bouillon qu'elle lui donnait. Entre eux, ce lien de tendre sympathie allait en se resserrant chaque jour, dans cette solitude profonde où ils vivaient, agités des mêmes peines. Quand ils avaient épuisé les souvenirs, les détails qu'elle lui demandait sans se lasser sur leur douloureuse marche de Reims à Sedan, la même question revenait toujours : que faisait Maurice à cette heure ? pourquoi n'écrivait-il pas ? Paris était-il donc complètement investi, qu'ils ne recevaient plus de nouvelles ? Ils n'avaient encore eu de lui qu'une lettre, datée de Rouen, trois jours après son départ, dans laquelle il expliquait, en quelques lignes, comment il venait de débarquer dans cette ville, à la suite d'un large détour, pour atteindre Paris. Et plus rien depuis une semaine, l'absolu silence.
+
+Le matin, lorsque le docteur Dalichamp avait pansé le blessé, il aimait à s'oublier là, pendant quelques minutes. Même il revenait parfois le soir, s'attardait davantage ; et il était ainsi le seul lien avec le monde, ce vaste monde du dehors, si bouleversé de catastrophes. Les nouvelles n'entraient que par lui, il avait un cœur ardent de patriote qui débordait de colère et de chagrin, à chaque défaite. Aussi ne parlait-il guère que de la marche envahissante des Prussiens, dont le flot, depuis Sedan, s'étendait peu à peu sur toute la France, comme une marée noire. Chaque jour apportait son deuil, et il restait accablé sur l'une des deux chaises, contre le lit, il disait la situation de plus en plus grave, avec des gestes tremblants. Souvent, il avait les poches bourrées de journaux belges, qu'il laissait. À des semaines de distance, l'écho de chaque désastre arrivait ainsi au fond de cette chambre perdue, rapprochant encore, dans une commune angoisse, les deux pauvres êtres souffrants qui s'y trouvaient renfermés.
+
+Et ce fut de la sorte qu'Henriette, dans de vieux journaux, lut an les événements de Metz, les grandes batailles héroïques qui avaient recommencé par trois fois, à un jour de distance. Elles dataient de cinq semaines déjà, mais il les ignorait encore, il les écoutait, le cœur serré de retrouver là-bas les misères et les défaites dont il avait souffert. Dans le silence frissonnant de la pièce, pendant qu'Henriette, de sa voix un peu chantante d'écolière appliquée, détachait nettement chaque phrase, l'histoire lamentable se déroulait. Après Frœschwiller, après Spickeren, au moment où le 1er corps, écrasé, entraînait le 5e dans sa déroute, les autres corps, échelonnés de Metz à Bitche, hésitaient, refluaient dans la consternation de ces désastres, finissaient par se concentrer en avant du camp retranché, sur la rive droite de la Moselle. Mais quel temps précieux perdu, au lieu de hâter, vers Paris, une retraite qui allait devenir si difficile ! L\'empereur avait dû céder le commandement au maréchal Bazaine, dont on attendait la victoire. Alors, le 14, c'était Borny, l'armée attaquée au moment où elle se décidait enfin à passer sur la rive gauche, ayant contre elle deux armées allemandes, celle de Steinmetz immobile en face du camp retranché qu'elle menaçait, celle de Frédéric-Charles qui avait franchi le fleuve en amont et qui remontait le long de la rive gauche, pour couper Bazaine du reste de la France, Borny dont les premiers coups de feu n'avaient éclaté qu'à trois heures du soir, Borny, cette victoire sans lendemain, qui laissa les corps français maîtres de leurs positions, mais qui les immobilisa, à cheval sur la Moselle, pendant que le mouvement tournant de la deuxième armée allemande s'achevait. Puis, le 16, c'était Rezonville, tous les corps enfin sur la rive gauche, le 3e et le 4e seulement en arrière, attardés dans l'effroyable encombrement qui se produisait au carrefour des routes d'Étain et de Mars-la-Tour, l'attaque audacieuse de la cavalerie et de l'artillerie prussiennes coupant ces routes dès le matin, la bataille lente et confuse que, jusqu'à deux heures, Bazaine aurait pu gagner, n'ayant qu'une poignée d'hommes à culbuter devant lui, et qu'il avait fini par perdre, dans son inexplicable crainte d'être coupé de Metz, la bataille immense, couvrant des lieues de coteaux et de plaines, où les Français attaqués de front et de flanc, avaient fait des prodiges pour ne pas marcher en avant, laissant à l'en-nemi le temps de se concentrer, travaillant d'eux-mêmes au plan prussien qui était de les faire rétrograder de l'autre côté du fleuve. Le 18 enfin, après le retour devant le camp retranché, c'était Saint-Privat, la lutte suprême, un front d'attaque de treize kilomètres, deux cent mille Allemands, avec sept cents canons, contre cent vingt mille Français, n'ayant que cinq cents pièces, les Allemands la face tournée vers l'Allemagne, les Français, vers la France, comme si les envahisseurs étaient devenus les envahis, dans le singulier pivotement qui venait de se produire, la plus effrayante mêlée à partir de deux heures, la garde prussienne repoussée, hachée, Bazaine longtemps victorieux, fort de son aile gauche inébranlable, jusqu'au moment, vers le soir, où l'aile droite, plus faible, avait dû abandonner Saint-Privat, au milieu d'un horrible carnage, entraînant avec elle toute l'armée, battue, rejetée sous Metz, enserrée désormais dans un cercle de fer.
+
+À chaque instant, pendant qu'Henriette lisait, Jean l'interrompait pour dire :
+
+« Ah bien ! nous autres qui, depuis Reims, attendions Bazaine ! »
+
+La dépêche du maréchal, datée du 19, après Saint-Privat, dans laquelle il parlait de reprendre son mouvement de retraite, par Montmédy, cette dépêche qui avait décidé la marche en avant de l'armée de Châlons, ne paraissait être que le rapport d'un général battu, désireux d'atténuer sa défaite ; et plus tard, le 29 seulement, lorsque la nouvelle de cette approche d'une armée de secours lui était parvenue, au travers des lignes prussiennes, il avait bien tenté un dernier effort, sur la rive droite, à Noiseville, mais si mollement, que, le 1er septembre, le jour même où l'armée de Châlons était écrasée à Sedan, celle de Metz se repliait, définitivement paralysée, morte pour la France. Le maréchal, qui, jusque-là, avait pu n'être qu'un capitaine médiocre, négligeant de passer lorsque les routes restaient ouvertes, véritablement barré ensuite par des forces supérieures, allait devenir maintenant, sous l'empire de préoccupations politiques, un conspirateur et un traître.
+
+Mais, dans les journaux que le docteur Dalichamp apportait, Bazaine restait le grand homme, le brave soldat, dont la France attendait encore son salut. Et Jean se faisait relire des passages, pour bien comprendre comment la troisième armée allemande, avec le prince royal de Prusse, avait pu les poursuivre, tandis que la première et la deuxième bloquaient Metz, toutes les deux si fortes en hommes et en canons, qu'il était devenu possible d'y puiser et d'en détacher cette quatrième armée, qui, sous les ordres du prince royal de Saxe, avait achevé le désastre de Sedan. Puis, renseigné enfin, sur ce lit de douleur où le clouait sa blessure, il se forçait quand même à l'espoir.
+
+« C\'est donc ça que nous n'avons pas été les plus forts !\... N'importe, on donne les chiffres : Bazaine a cent cinquante mille hommes, trois cent mille fusils, plus de cinq cents canons ; et bien sûr qu'il leur ménage un sacré coup de sa façon. »
+
+Henriette hochait la tête, se rangeait à son avis, pour ne pas l'assombrir davantage. Elle se perdait au milieu de ces vastes mouvements de troupes, mais elle sentait le malheur inévitable. Sa voix restait claire, elle aurait lu ainsi pendant des heures, simplement heureuse de l'amuser. Parfois, pourtant, à un récit de massacre, elle bégayait, les yeux emplis d'un brusque flot de larmes. Sans doute, elle venait de penser à son mari foudroyé là-bas, poussé du pied par l'officier bavarois, contre le mur.
+
+« Si ça vous fait trop de peine, disaian surpris, il ne faut plus me lire les batailles. »
+
+Mais elle se remettait tout de suite, très douce et complaisante.
+
+« Non, non, pardonnez-moi, je vous assure que ça me fait plaisir aussi. »
+
+Un soir des premiers jours d'octobre, comme un vent furieux soufflait au-dehors, elle revint de l'ambulance, elle entra dans la chambre, très émue, en disant :
+
+« Une lettre de Maurice ! c'est le docteur qui vient de me la remettre. »
+
+Chaque matin, tous deux s'étaient inquiétés davantage, de ce que le jeune homme ne donnait aucun signe d'existence ; et surtout, depuis une grande semaine que le bruit courait du complet investissement de Paris, ils désespéraient de recevoir des nouvelles, anxieux, se demandant ce qu'il avait pu devenir, après avoir quitté Rouen. Maintenant, ce silence leur était expliqué, la lettre qu'il avait adressée de Paris au docteur Dalichamp, le 18, le jour même où partaient les derniers trains pour le Havre, venait de faire un détour énorme et n'arrivait que par miracle, après s'être égarée vingt fois en route.
+
+« Ah ! le cher petit ! s'écrian, tout heureux. Lisez-moi ça bien vite. »
+
+Le vent redoublait de violence, la fenêtre craquait comme sous des coups de bélier. Et Henriette, ayant apporté la lampe sur la table, contre le lit, se mit à lire, si près de Jean, que leurs cheveux se touchaient. Il faisait là très doux, très bon, dans cette chambre si calme, au milieu de la tempête du dehors.
+
+C\'était une longue lettre de huit pages, dans laquelle Maurice, d'abord, expliquait comment, dès son arrivée, le 16, il avait eu la chance de se faire engager dans un régiment de ligne, dont on complétait l'effectif. Ensuite, il revenait sur les faits, il racontait avec une fièvre extraordinaire ce qu'il avait appris, les événements de ce mois terrible, Paris calmé après la stupeur douloureuse de Wissembourg et de Frœschwiller, se reprenant à l'espoir d'une revanche, retombant dans des illusions nouvelles, la légende victorieuse de l'armée, le commandement de Bazaine, la levée en masse, des victoires imaginaires, des hécatombes de Prussiens que les ministres eux-mêmes racontaient à la tribune. Et, tout d'un coup, il disait comment la foudre, une seconde fois, venait d'éclater sur Paris, le 3 septembre : les espérances broyées, la ville ignorante, confiante, abattue sous cet écrasement du destin, les cris de : Déchéance ! déchéance ! retentissant dès le soir sur les boulevards, la courte et lugubre séance de nuit où Jules Favre avait lu la proposition de cette déchéance réclamée par le peuple. Puis, le lendemain, c'était le 4 septembre, l'effondrement d'un monde, le second Empire emporté dans la débâcle de ses vices et de ses fautes, le peuple entier par les rues, un torrent d'un demi-million d'hommes emplissant la place de la Concorde, au grand soleil de ce beau dimanche, roulant jusqu'aux grilles du Corps législatif que barraient à peine une poignée de soldats, la crosse en l'air, défonçant les portes, envahissant la salle des séances, d'où Jules Favre, Gambetta et d'autres députés de la gauche allaient partir pour proclamer la République à l'Hôtel de Ville, tandis que, sur la place Saint-Germain-l'Auxerrois, une petite porte du Louvre s'entrouvrait, donnait passage à l'impératrice régente, vêtue de noir, accompagnée d'une seule amie, toutes les deux tremblantes, fuyantes, blotties au fond du fiacre de rencontre qui les cahotait loin des Tuileries, au travers desquelles, maintenant, coulait la foule. Ce même jour, Napoléon III avait quitté l'auberge de Bouillon où il venait de passer la première nuit d'exil, en route pour Wilhelmshoehe.
+
+D'un air grave, Jean interrompit Henriette.
+
+« Alors, à cette heure, nous sommes en République ?\... Tant mieux si ça nous aide à battre les Prussiens ! »
+
+Mais il branlait la tête, on lui avait toujours fait peur de la République, lorsqu'il était paysan. Et puis, devant l'ennemi, ça ne lui semblait guère bon, de n'être pas d'accord. Enfin, il fallait bien qu'il vînt autre chose, puisque l'Empire était pourri décidément, et que personne n'en voulait plus.
+
+Henriette acheva la lettre, qui finissait en signalant l'approche des Allemands. Le 13, le jour même où une délégation du gouvernement de la Défense nationale s'installait à Tours, on les avait vus, à l'est de Paris, s'avancer jusqu'à Lagny. Le 14 et le 15, ils étaient aux portes, à Créteil et à Joinville-le-Pont. Mais, le 18, le matin où il avait écrit, Maurice ne paraissait pas croire encore à la possibilité d'investir Paris complètement, repris d'une belle confiance, regardant le siège comme une tentative insolente et hasardée qui échouerait avant trois semaines, comptant sur les armées de secours que la province allait sûrement envoyer, sans parler de l'armée de Metz, en marche déjà, par Verdun et Reims. Et les anneaux de la ceinture de fer s'étaient rejoints, avaient bouclé Paris, et Paris maintenant, séparé du monde, n'était plus que la prison géante de deux millions de vivants, d'où ne venait qu'un silence de mort.
+
+« Ah ! mon Dieu ! murmura Henriette oppressée, combien de temps tout cela durera-t-il, et le reverrons-nous jamais ! »
+
+Une rafale plia les arbres, au loin, fit gémir les vieilles charpentes de la ferme. Si l'hiver devait être dur, quelles souffrances pour les pauvres soldats, sans feu, sans pain, qui se battraient dans la neige !
+
+« Bah ! concluan, elle est très gentille, sa lettre, et ça fait plaisir d'avoir des nouvelles\... Il ne faut jamais désespérer. »
+
+Alors, jour à jour, le mois d'octobre s'écoula, des cieux gris et tristes, où le vent ne cessait que pour ramener bientôt des vols plus sombres de nuages. La plaie de Jean se cicatrisait avec une lenteur infinie, le drain ne donnait toujours pas le pus louable, qui aurait permis au docteur de l'enlever ; et le blessé s'était beaucoup affaibli, s'obstinant à refuser toute opération, dans sa peur de rester infirme. Une attente résignée, que parfois coupaient des anxiétés brusques, sans cause précise, semblait à présent endormir la petite chambre perdue, au fond de laquelle les nouvelles n'arrivaient que lointaines, vagues, comme au réveil d'un cauchemar. L\'abominable guerre, les massacres, les désastres, continuaient là-bas, quelque part, sans qu'on sût jamais la vérité vraie, sans qu'on entendît autre chose que la grande clameur sourde de la patrie égorgée. Et le vent emportait les feuilles sous le ciel livide, et il y avait de longs silences profonds, dans la campagne nue, où ne passaient que les croassements des corbeaux, annonçant un hiver rigoureux.
+
+Un des sujets de conversation était devenu l'ambulance, dont Henriette ne sortait guère que pour tenir compagnie an. Le soir, quand elle était de retour, il la questionnait, connaissait chacun de ses blessés, voulait savoir ceux qui mouraient, ceux qui guérissaient ; et elle-même, sur ces choses dont son cœur était plein, ne tarissait pas, racontait ses journées jusque dans leurs infimes détails.
+
+« Ah ! répétait-elle toujours, les pauvres enfants, les pauvres enfants ! »
+
+Ce n'était plus, en pleine bataille, l'ambulance où coulait le sang frais, où les amputations se faisaient dans les chairs saines et rouges. C\'était l'ambulance tombée à la pourriture d'hôpital, sentant la fièvre et la mort, toute moite des lentes convalescences, des agonies interminables. Le docteur Dalichamp avait eu les plus grandes peines à se procurer les lits, les matelas, les draps nécessaires ; et, chaque jour encore, l'entretien de ses malades, le pain, la viande, les légumes secs, sans parler des bandes, des compresses, des appareils, l'obligeait à des miracles. Les Prussiens établis à l'hôpital militaire de Sedan lui ayant tout refusé, même du chloroforme, il faisait tout venir de Belgique. Pourtant, il avait accueilli les blessés allemands aussi bien que les blessés français, il soignait surtout une douzaine de Bavarois, ramassés à Bazeilles. Ces hommes ennemis, qui s'étaient rués les uns à la gorge des autres, gisaient maintenant côte à côte, dans la bonne entente de leurs communes souffrances. Et quel séjour d'épouvante et de misère, ces deux longues salles de l'ancienne école de Remilly, qui contenaient une cinquantaine de lits chacune, sous la grande clarté pâle des hautes fenêtres !
+
+Dix jours après la bataille, on avait encore amené des blessés, oubliés, retrouvés dans les coins. Quatre étaient restés dans une maison vide de Balan, sans aucun soin médical, vivant on ne savait comment, grâce à la charité de quelque voisin sans doute ; et leurs blessures fourmillaient de vers, ils étaient morts, empoisonnés par ces plaies immondes. C\'était une purulence que rien ne pouvait combattre, qui soufflait et vidait des rangées de lits. Dès la porte, une odeur de nécrose prenait à la gorge. Les drains suppuraient, laissaient tomber goutte à goutte le pus fétide. Souvent, il fallait rouvrir les chairs, en extraire encore des esquilles ignorées. Puis, des abcès se déclaraient, des flux qui allaient crever plus loin. Épuisés, amaigris, la face terreuse, les misérables enduraient toutes les tortures. Les uns, abattus, sans souffle, passaient leurs journées sur le dos, les paupières closes et noires, ainsi que des cadavres à demi décomposés déjà. Les autres, sans sommeil, agités d'une insomnie inquiète, trempés d'abondantes sueurs, s'exaltaient, comme si la catastrophe les eût frappés de folie. Et, qu'ils fussent violents ou calmes, quand le frisson de la fièvre infectieuse les gagnait, c'était la fin, le poison triomphant, volant des uns aux autres, les emportant tous dans le même flot de pourriture victorieuse.
+
+Mais il y avait surtout la salle des damnés, de ceux qui étaient frappés de dysenterie, de typhus, de variole. Beaucoup avaient la variole noire. Ils se remuaient, criaient dans un délire incessant, se dressaient sur leur lit, debout comme des spectres. D'autres, touchés aux poumons, se mouraient de pneumonie, avec des toux affreuses. D'autres, qui hurlaient, n'étaient soulagés que sous le filet d'eau froide, dont on rafraîchissait continuellement leurs blessures. C\'était l'heure attendue, l'heure du pansement, qui seule amenait un peu de calme, aérait les lits, délassait les corps raidis à la longue dans la même position. Et c'était aussi l'heure redoutée, car pas un jour ne se passait, sans que le docteur, en examinant les plaies, eût le chagrin de remarquer sur la peau de quelque pauvre diable des points bleuâtres, les taches de la gangrène envahissante. L\'opération avait lieu le lendemain. Encore un bout de jambe ou de bras coupé. Parfois même, la gangrène montait plus haut, il fallait recommencer jusqu'à ce qu'on eût rogné tout le membre. Puis, l'homme entier y passait, il avait le corps envahi par les plaques livides du typhus, il fallait l'emmener, vacillant, ivre et hagard, dans la salle des damnés, où il succombait, la chair morte déjà et sentant le cadavre, avant l'agonie.
+
+Chaque soir, à son retour, Henriette répondait aux questions de Jean, la voix tremblante de la même émotion :
+
+« Ah ! les pauvres enfants, les pauvres enfants ! »
+
+Et c'étaient des détails toujours semblables, les quotidiens tourments de cet enfer. On avait désarticulé une épaule, tranché un pied, procédé à la résection d'un humérus ; mais la gangrène ou l'infection purulente pardonnerait-elle ? Ou bien, on venait encore d'en enterrer un, le plus souvent un Français, parfois un Allemand. Il était rare qu'une journée s'achevât sans qu'une bière furtive, faite à la hâte de quatre planches, sortît de l'ambulance au crépuscule, accompagnée d'un seul infirmier, souvent de la jeune femme elle-même, pour qu'un homme ne fût pas enfoui comme un chien. Dans le petit cimetière de Remilly, on avait ouvert deux tranchées, et ils dormaient tous côte à côte, les Allemands à gauche, les Français à droite, réconciliés dans la terre.
+
+Jean, sans les avoir jamais vus, finissait par s'intéresser à certains blessés. Il demandait de leurs nouvelles.
+
+« Et "Pauvre enfant", comment va-t-il aujourd'hui ? »
+
+C\'était un petit troupier, un soldat du 5e de ligne, engagé volontaire, qui n'avait pas vingt ans. Le surnom de « Pauvre enfant » lui était resté, parce que, sans cesse, il répétait ces mots en parlant de lui ; et, comme, un jour, on lui en demandait la raison, il avait répondu que c'était sa mère qui l'appelait toujours ainsi. Pauvre enfant, en effet, car il se mourait d'une pleurésie, déterminée par une blessure au flanc gauche.
+
+« Ah ! le cher garçon, disait Henriette, qui s'était prise pour lui d'une affection maternelle, il ne va pas bien, il a toussé toute la journée\... Ça me fend le cœur, de l'entendre.
+
+--- Et votre ours, votre Gutmann ? reprenaian, avec un faible sourire. Le docteur a-t-il meilleur espoir ?
+
+--- Oui, peut-être le sauvera-t-on. Mais il souffre horriblement. »
+
+Bien que la pitié fût grande, tous deux ne pouvaient parler de Gutmann sans une sorte de gaieté attendrie. Lorsque la jeune femme était entrée à l'ambulance, le premier jour, elle avait eu le saisissement de reconnaître, dans ce soldat bavarois, l'homme à la barbe et aux cheveux rouges, aux gros yeux bleus, au large nez carré, qui l'avait emportée entre ses bras, à Bazeilles, pendant qu'on fusillait son mari. Lui, également, la reconnut ; mais il ne pouvait parler, une balle, entrée par la nuque, lui avait enlevé la moitié de la langue. Et, après deux jours d'un recul d'horreur, d'un involontaire frisson, chaque fois qu'elle s'approchait de son lit, elle fut conquise par les regards désespérés et très doux dont il la suivait. N'était-ce donc plus le monstre, au poil éclaboussé de sang, aux prunelles chavirées de rage, qui la hantait d'un affreux souvenir ? Il lui fallait un effort pour le retrouver maintenant chez ce malheureux, l'air si bonhomme, si docile, au milieu de ses atroces souffrances. Son cas, peu fréquent, cette infirmité brusque, touchait l'ambulance entière. On n'était même pas bien sûr qu'il se nommât Gutmann, on l'appelait ainsi, parce que l'unique son qu'il arrivait à proférer était un grognement de deux syllabes qui faisait à peu près ce nom. Sur tout le reste, on croyait seulement savoir qu'il était marié et qu'il avait des enfants. Il devait comprendre quelques mots de français, il répondait parfois d'un signe violent de la tête. Marié ? oui, oui ! Des enfants ? oui, oui ! Son attendrissement, un jour, à voir de la farine, avait encore fait supposer qu'il pouvait être meunier. Et rien autre. Où était-il le moulin ? Dans quel lointain village de la Bavière pleuraient-ils à cette heure, les enfants et la femme ? Allait-il donc mourir, inconnu, sans nom, laissant les siens, là-bas, dans une éternelle attente ?
+
+« Aujourd'hui, raconta un soir Henriette an, Gutmann m'a envoyé des baisers\... Je ne lui donne plus à boire, je ne lui rends plus le moindre service, sans qu'il porte les doigts à ses lèvres, dans un geste fervent de reconnaissance\... Il ne faut pas sourire, c'est trop terrible, que d'être ainsi comme enterré, avant l'heure. »
+
+Cependant, vers la fin d'octobre, Jean alla mieux. Le docteur consentit à enlever le drain, bien qu'il restât soucieux ; et la plaie parut pourtant se cicatriser assez vite. Déjà, le convalescent se levait, passait des heures à marcher dans la chambre, à s'asseoir devant la fenêtre, attristé par le vol des nuages. Puis, il s'ennuya, il parla de s'occuper à quelque chose, de se rendre utile dans la ferme. Un de ses malaises secrets était la question d'argent, car il pensait bien que ses deux cents francs avaient dû être dépensés, depuis six grandes semaines. Pour que le père Fouchard continuât à lui faire bonne mine, il fallait donc qu'Henriette payât. Cette pensée lui devenait pénible, il n'osait s'en expliquer avec elle, et il éprouva un véritable soulagement, lorsqu'il fut convenu qu'on le donnerait comme un nouveau garçon, chargé, avec Silvine, des soins intérieurs, pendant que Prosper s'occupait de la culture, au-dehors.
+
+Malgré l'abomination des temps, un garçon de plus n'était pas de trop, chez le père Fouchard, dont les affaires prospéraient. Tandis que râlait le pays entier, saigné aux quatre membres, il avait trouvé le moyen d'élargir tellement son commerce de boucher ambulant, qu'il abattait à cette heure le triple et le quadruple de bêtes. On racontait comment, dès le 31 août, il avait fait des marchés superbes avec les Prussiens. Lui, qui, le 30, défendait sa porte contre les soldats du 7e corps, le fusil au poing, refusant de leur vendre une miche, leur criant que la maison était vide, s'était établi marchand de tout, le 31, à l'apparition du premier soldat ennemi, avait déterré de ses caves des provisions extraordinaires, ramené des trous inconnus, où il les avait cachés, de véritables troupeaux. Et, depuis ce jour, il était un des plus gros fournisseurs de viande des armées allemandes, étonnant d'adresse pour placer sa marchandise et se la faire payer, entre deux réquisitions. Les autres souffraient de l'exigence parfois brutale des vainqueurs : lui n'avait pas encore fourni un boisseau de farine, un hectolitre de vin, un quartier de bœuf, sans trouver au bout du bel argent sonnant. On en causait bien, dans Remilly, on trouvait cela vilain de la part d'un homme qui venait de perdre à la guerre son fils, dont il ne visitait point la tombe, que Silvine seule entretenait. Mais, tout de même, on le respectait, de s'enrichir, quand les plus malins y laissaient leur peau. Et lui, goguenard, haussait les épaules, grognait, avec sa carrure têtue :
+
+« Patriote, patriote, je le suis plus qu'eux tous !\... C\'est donc être patriote que de foutre gratis aux Prussiens de la nourriture, par-dessus la tête ? Moi, je leur fais tout payer\... On verra, on verra ça, plus tard ! »
+
+Jean, dès le second jour, resta longtemps debout, et les sourdes craintes du docteur se réalisèrent : la plaie s'était rouverte, une inflammation considérable fit enfler la jambe, il dut reprendre le lit. Dalichamp finit par soupçonner la présence d'une esquille, que l'effort des deux journées d'exercice avait achevé de détacher. Il la chercha, fut assez heureux pour l'extraire. Mais cela n'alla pas sans une secousse, une fièvre violente, qui épuisèrenan de nouveau. Jamais encore, il n'était tombé à un pareil état de faiblesse. Et Henriette reprit sa place de garde fidèle, dans la chambre, que l'hiver attristait et glaçait. On était aux premiers jours de novembre, le vent d'est avait apporté déjà une bourrasque de neige, il faisait très froid, entre les quatre murs vides, sur le carreau nu. Comme il n'y avait pas de cheminée, ils se décidèrent à faire mettre un poêle, dont le ronflement égaya leur solitude.
+
+
+Un matin, le docteur arriva bouleversé, les mains tremblantes. Il tira un journal belge de sa poche, le jeta sur le lit, en s'écriant :
+
+« Ah ! mes amis, la France est morte, Bazaine vient de trahir ! »
+
+Jean, adossé contre deux oreillers, somnolent, se réveilla. « Comment, de trahir ?
+
+--- Oui, il a livré Metz et l'armée. C\'est le coup de Sedan qui recommence, et cette fois c'est le reste de notre chair et de notre sang. »
+
+Puis, reprenant le journal, lisant :
+
+« Cent cinquante mille prisonniers, cent cinquante-trois aigles et drapeaux, cinq cent quarante et un canons de campagne, soixante-seize mitrailleuses, huit cents canons de forteresse, trois cent mille fusils, deux mille voitures d'équipages militaires, du matériel pour quatre-vingt-cinq batteries\... »
+
+Et il continua, donnant les détails : le maréchal Bazaine, enfermé dans Metz avec l'armée, réduit à l'impuissance, ne faisant aucun effort pour rompre le cercle de fer qui l'enserrait ; ses rapports suivis avec le prince Frédéric-Charles, ses troubles et hésitantes combinaisons politiques, son ambition de jouer un rôle décisif qu'il ne semblait pas avoir bien déterminé lui-même ; puis, toute la complication des pourparlers, des envois d'émissaires, louches et menteurs, à M. de Bismarck, au roi Guillaume, à l'impératrice régente, qui, finalement, devait refuser de traiter avec l'ennemi, sur les bases d'une cession de territoire ; et la catastrophe inéluctable, le destin achevant son œuvre, la famine dans Metz, la capitulation forcée, les chefs et les soldats réduits à accepter les dures conditions des vainqueurs. La France n'avait plus d'armée.
+
+« Nom de Dieu ! jura sourdemenan, qui ne comprenait pas tout, mais pour qui, jusque-là, Bazaine était resté le grand capitaine, l'unique sauveur possible. Alors, quoi, qu'est-ce qu'on va faire ? qu'est-ce qu'ils deviennent, à Paris ? »
+
+Le docteur, justement, passait aux nouvelles de Paris, qui étaient désastreuses. Il fit remarquer que le journal portait la date du 5 novembre. La reddition de Metz était du 27 octobre, et la nouvelle n'en avait été connue à Paris que le 30. Après les échecs subis déjà à Chevilly, à Bagneux, à la Malmaison, après le combat et la perte du Bourget, cette nouvelle avait éclaté en coup de foudre, au milieu de la population désespérée, irritée de la faiblesse et de l'impuissance du gouvernement de la Défense nationale. Aussi, le lendemain, le 31 octobre, toute une insurrection avait-elle grondé, une foule immense s'étouffant sur la place de l'Hôtel-de-Ville, envahissant les salles, retenant prisonniers les membres du gouvernement, que la garde nationale avait enfin délivrés, dans la crainte de voir triompher les révolutionnaires qui réclamaient la Commune. Et le journal belge ajoutait les réflexions les plus insultantes pour le grand Paris, que la guerre civile déchirait, au moment où l'ennemi était aux portes. N'était-ce pas la décomposition finale, la flaque de boue et de sang où allait s'effondrer un monde ?
+
+« C\'est bien vrai, murmura Jean tout pâle, on ne se cogne pas, quand les Prussiens sont là ! »
+
+Henriette, qui n'avait rien dit encore, évitant d'ouvrir la bouche, dans ces choses de la politique, ne put retenir un cri. Elle ne pensait qu'à son frère.
+
+« Mon Dieu ! pourvu que Maurice, qui a mauvaise tête, ne se mêle pas à toutes ces histoires ! »
+
+Il y eut un silence, et le docteur, ardent patriote, reprit :
+
+« N'importe, s'il n'y a plus de soldats, il en poussera d'autres. Metz s'est rendu. Paris lui-même peut se rendre, la France ne finira pas\... Oui, comme disent nos paysans, le coffre est bon, et nous vivrons quand même ! »
+
+Mais on voyait qu'il se forçait à l'espérance. Il parla de la nouvelle armée qui se formait sur la Loire, et dont les débuts, du côté d'Arthenay, n'avaient pas été très heureux : elle allait s'aguerrir, elle marcherait au secours de Paris. Il était surtout enfiévré par les proclamations de Gambetta, parti en ballon de Paris le 7 octobre, dès le surlendemain installé à Tours, appelant tous les citoyens sous les armes, parlant un langage si mâle et si sage à la fois, que le pays entier se donnait à cette dictature de salut public. Et n'était-il pas question de former une autre armée dans le Nord, une autre armée dans l'Est, de faire sortir des soldats de terre, par la seule force de la foi ? C\'était le réveil de la province, l'indomptable volonté de créer tout ce qui manquait, de lutter jusqu'au dernier sou et jusqu'à la dernière goutte de sang.
+
+« Bah ! conclut le docteur, en se levant pour partir, j'ai souvent condamné des malades qui étaient debout huit jours plus tard. »
+
+Jean eut un sourire.
+
+« Docteur, guérissez-moi vite, que j'aille là-bas reprendre mon poste. »
+
+Cependant, Henriette et lui gardèrent une grande tristesse de ces mauvaises nouvelles. Il y eut, le soir même, une rafale de neige, et le lendemain, lorsque Henriette, toute frissonnante, rentra de l'ambulance, elle annonça que Gutmann était mort. Ce grand froid décimait les blessés, vidait les rangées de lits. Le misérable muet, la bouche amputée de sa langue, avait râlé deux jours. Pendant les dernières heures, elle était restée à son chevet, tant il la regardait d'un regard suppliant. Il lui parlait de ses yeux en larmes, il lui disait peut-être son vrai nom, le nom du village lointain, dans lequel une femme et des enfants l'attendaient. Et il s'en était allé inconnu, en lui envoyant, de ses doigts tâtonnants, un dernier baiser, comme pour la remercier encore de ses bons soins. Elle fut seule à l'accompagner au cimetière, où la terre gelée, cette lourde terre étrangère, tomba sourdement sur son cercueil de sapin, avec des paquets de neige.
+
+Puis, de nouveau, le lendemain, Henriette dit à son retour :
+
+« "Pauvre enfant" est mort. »
+
+Pour celui-ci, elle était en pleurs.
+
+« Si vous l'aviez vu, dans son délire ! Il m'appelait : Maman ! maman ! et il me tendait des bras si tendres, que j'ai dû le prendre sur mes genoux\... Ah ! le malheureux, la souffrance l'avait tellement diminué qu'il ne pesait pas plus lourd qu'un petit garçon\... Et je l'ai bercé pour qu'il mourût content, oui ! je l'ai bercé, moi qu'il appelait sa mère et qui n'avais que quelques années de plus que lui\... Il pleurait, je ne pouvais me retenir de pleurer moi-même, et je pleure encore\... »
+
+Elle suffoquait, elle dut s'interrompre.
+
+« Quand il est mort, il a balbutié à plusieurs reprises ces mots dont il se surnommait : Pauvre enfant, pauvre enfant\... Oh, oui, certes, de pauvres enfants, tous ces braves garçons, quelques-uns si jeunes, dont votre abominable guerre emporte les membres et qu'elle fait tant souffrir, avant de les coucher dans la terre ! »
+
+Chaque jour, maintenant, Henriette rentrait de la sorte, bouleversée par quelque agonie, et cette souffrance des autres les rapprochait encore, pendant les tristes heures qu'ils vivaient si seuls, au fond de la grande chambre paisible. Heures bien douces pourtant, car la tendresse était venue, une tendresse qu'ils croyaient fraternelle, entre leurs deux cœurs qui avaient peu à peu appris à se connaître. Lui, d'un esprit si réfléchi, s'était haussé, dans leur intimité continue ; et elle, à le voir bon et raisonnable, ne songeait même plus qu'il était un humble, ayant conduit la charrue avant de porter le sac. Ils s'entendaient très bien, ils faisaient un excellent ménage, comme disait Silvine, avec son sourire grave. Aucune gêne d'ailleurs n'était née entre eux, elle continuait à lui soigner sa jambe, sans que jamais leurs regards clairs se fussent détournés. Toujours en noir, dans ses vêtements de veuve, elle semblait avoir cessé d'être une femme.
+
+Jean, toutefois, durant les longs après-midi où il se retrouvait seul, ne pouvait s'empêcher de songer. Ce qu'il éprouvait pour elle, c'était une reconnaissance infinie, une sorte de respect dévot, qui lui aurait fait écarter, comme sacrilège, toute pensée d'amour. Et, cependant, il se disait que, s'il avait eu une femme comme celle-là, si tendre, si douce, si active, la vie serait devenue une véritable existence de paradis. Son malheur, les années mauvaises qu'il avait passées à Rognes, le désastre de son mariage, la mort violente de sa femme, tout ce passé lui revenait dans un regret de tendresse, dans un espoir vague, à peine formulé, de tenter encore le bonheur. Il fermait les yeux, il laissait un demi-sommeil le reprendre, et alors il se voyait confusément à Remilly, remarié, propriétaire d'un champ qui suffisait à nourrir un ménage de braves gens sans ambition. Cela était si léger, que cela n'existait pas, n'existerait certainement jamais. Il ne se croyait plus capable que d'amitié, il n'aimait ainsi Henriette que parce qu'il était le frère de Maurice. Puis, ce rêve indéterminé de mariage avait fini par être comme une consolation, une de ces imaginations qu'on sait irréalisables et dont on caresse ses heures de tristesse.
+
+Henriette, elle, n'en était pas même effleurée. Au lendemain du drame atroce de Bazeilles, son cœur restait meurtri ; et, s'il y entrait un soulagement, une tendresse nouvelle, ce ne pouvait être qu'à son insu : tout un de ces sourds cheminements de la graine qui germe, sans que rien, au regard, révèle le travail caché. Elle ignorait jusqu'au plaisir qu'elle avait fini par prendre à rester des heures près du lit de Jean, à lui lire ces journaux, qui ne leur apportaient pourtant que du chagrin. Jamais sa main, en rencontrant la sienne, n'avait eu même une tiédeur ; jamais l'idée du lendemain ne l'avait laissée rêveuse, avec le souhait d'être aimée encore. Pourtant, elle n'oubliait, elle n'était consolée que dans cette chambre. Quand elle se trouvait là, s'occupant avec sa douceur active, son cœur se calmait, il lui semblait que son frère reviendrait prochainement, que tout s'arrangerait très bien, qu'on finirait par être tous heureux, en ne se quittant plus. Et elle en parlait sans trouble, tellement il lui paraissait naturel que les choses fussent ainsi, sans qu'il lui vînt à la pensée de s'interroger davantage, dans le don chaste et ignoré de tout son cœur.
+
+Mais, un après-midi, comme elle se rendait à l'ambulance, la terreur qui la glaça, en apercevant dans la cuisine un capitaine prussien et deux autres officiers, lui fit comprendre la grande affection qu'elle éprouvait pour Jean. Ces hommes, évidemment, avaient appris la présence du blessé à la ferme, et ils venaient le réclamer : c'était le départ inévitable, la captivité en Allemagne, au fond de quelque forteresse. Elle écouta, tremblante, le cœur battant à grands coups.
+
+Le capitaine, un gros homme qui parlait français, faisait de violents reproches au père Fouchard.
+
+« Ça ne peut pas durer, vous vous fichez de nous\... Je suis venu moi-même pour vous avertir que, si le cas se reproduit, je vous en rendrai responsable, oui ! je saurai prendre des mesures ! »
+
+Très tranquille, le vieux affectait l'ahurissement, comme s'il n'avait pas compris, les mains ballantes.
+
+« Comment ça, monsieur, comment ça ?
+
+--- Ah ! ne m'échauffez pas les oreilles, vous savez très bien que les trois vaches que vous nous avez vendues dimanche étaient pourries\... Parfaitement, pourries, enfin malades, crevées de maladie infecte, car elles ont empoisonné mes hommes, et il y en a deux qui doivent en être morts à l'heure qu'il est. »
+
+Du coup, Fouchard joua la révolte, l'indignation.
+
+« Pourries, mes vaches ! de la si belle viande, de la viande que l'on donnerait à une accouchée, pour lui refaire des forces ! »
+
+Et il larmoya, se tapa sur la poitrine, cria qu'il était honnête, qu'il aimerait mieux se couper de sa propre chair, à lui, que d'en vendre de la mauvaise. Depuis trente ans, on le connaissait, personne au monde ne pouvait dire qu'il n'avait pas eu son poids, en bonne qualité.
+
+« Elles étaient saines comme l'œil, monsieur, et si vos soldats ont eu la colique, c'est peut-être qu'ils en ont trop mangé ; à moins que des malfaiteurs n'aient mis de la drogue dans la marmite\... »
+
+Il l'étourdissait ainsi d'un flot de paroles, d'hypothèses si saugrenues, que le capitaine, hors de lui, finit par couper court.
+
+« En voilà assez ! Vous êtes averti, prenez garde !\... Et il y a autre chose, nous vous soupçonnons, dans ce village, de faire tous bon accueil aux francs-tireurs des bois de Dieulet, qui nous ont encore tué une sentinelle avant-hier\... Entendez-vous, prenez garde ! »
+
+Quand les Prussiens furent partis, le père Fouchard haussa les épaules avec un ricanement d'infini dédain. Des bêtes crevées, bien sûr qu'il leur en vendait, il ne leur faisait manger que de ça ! Toutes les charognes que les paysans lui apportaient, ce qui mourait de maladie et ce qu'il ramassait dans les fossés, est-ce que ce n'était pas bon pour ces sales bougres ?
+
+Il cligna un œil, il murmura d'un air de triomphe goguenard, en se tournant vers Henriette rassurée :
+
+« Dis donc, petite, quand on pense qu'il y a des gens qui racontent, comme ça, que je ne suis pas patriote !\... Hein ? qu'ils en fassent autant, qu'ils leur foutent donc de la carne, et qu'ils empochent leurs sous\... Pas patriote ! mais, nom de Dieu ! j'en aurai plus tué avec mes vaches malades que bien des soldats avec leurs chassepots ! »
+
+Jean, lorsqu'il sut l'histoire, s'inquiéta pourtant. Si les autorités allemandes se doutaient que les habitants de Remilly accueillaient les francs-tireurs des bois de Dieulet, elles pouvaient d'une heure à l'autre faire des perquisitions et le découvrir. L\'idée de compromettre ses hôtes, de causer le moindre ennui à Henriette, lui était insupportable. Mais elle le supplia, elle obtint qu'il resterait quelques jours encore, car sa blessure se cicatrisait lentement, il n'avait pas les jambes assez solides pour rejoindre un des régiments en campagne, dans le Nord ou sur la Loire.
+
+Et ce furent alors, jusqu'au milieu de décembre, les journées les plus frissonnantes, les plus navrées de leur solitude. Le froid était devenu si intense, que le poêle n'arrivait pas à chauffer la grande pièce nue. Quand ils regardaient par la fenêtre la neige épaisse qui couvrait le sol, ils songeaient à Maurice, enseveli, là-bas, dans ce Paris glacé et mort, dont ils n'avaient aucune nouvelle certaine. Toujours, les mêmes questions revenaient : que faisait-il, pourquoi ne donnait-il aucun signe de vie ? Ils n'osaient se dire leurs affreuses craintes, une blessure, une maladie, la mort peut-être. Les quelques renseignements vagues qui continuaient à leur parvenir par les journaux, n'étaient point faits pour les rassurer. Après de prétendues sorties heureuses, démenties sans cesse, le bruit avait couru d'une grande victoire, remportée le 2 décembre, à Champigny, par le général Ducrot ; mais ils surent ensuite que, dès le lendemain, abandonnant les positions conquises, il s'était vu forcé de repasser la Marne. C'était, à chaque heure, Paris étranglé d'un lien plus étroit, la famine commençante, la réquisition des pommes de terre après celle des bêtes à cornes, le gaz refusé aux particuliers, bientôt les rues noires, sillonnées par le vol rouge des obus. Et tous deux ne se chauffaient plus, ne mangeaient plus, sans être hantés par l'image de Maurice et de ces deux millions de vivants, enfermés dans cette tombe géante.
+
+De toutes parts, d'ailleurs, du Nord comme du Centre, les nouvelles s'aggravaient. Dans le Nord, le 22e corps d'armée, formé de gardes mobiles, de compagnies de dépôt, de soldats et d'officiers échappés aux désastres de Sedan et de Metz, avait dû abandonner Amiens, pour se retirer du côté d'Arras ; et, à son tour, Rouen venait de tomber entre les mains de l\'ennemi, sans que cette poignée d'hommes, débandés, démoralisés, l'eussent défendu sérieusement. Dans le Centre, la victoire de Coulmiers, remportée le 9 novembre par l'armée de la Loire, avait fait naître d'ardentes espérances : Orléans réoccupé, les Bavarois en fuite, la marche par Étampes, la délivrance prochaine de Paris. Mais, le 5 décembre, le prince Frédéric-Charles reprenait Orléans, coupait en deux l'armée de la Loire, dont trois corps se repliaient sur Vierzon et Bourges, tandis que deux autres, sous les ordres du général Chanzy, reculaient jusqu'au Mans, dans une retraite héroïque, toute une semaine de marches et de combats. Les Prussiens étaient partout, à Dijon comme à Dieppe, au Mans comme à Vierzon. Puis c'était, presque chaque matin, le lointain fracas de quelque place forte qui capitulait sous les obus. Dès le 28 septembre, Strasbourg avait succombé, après quarante-six jours de siège et trente-sept de bombardement, les murs hachés, les monuments criblés par près de deux cent mille projectiles. Déjà, la citadelle de Laon avait sauté, Toul s'était rendu ; et venait ensuite le défilé sombre : Soissons avec ses cent vingt-huit canons, Verdun qui en comptait cent trente-six, Neufbrisach cent, La Fère soixante-dix, Montmédy soixante-cinq. Thionville était en flammes, Phalsbourg n'ouvrait ses portes que dans sa douzième semaine de furieuse résistance. Il semblait que la France entière brûlât, s'effondrât, au milieu de l'enragée canonnade.
+
+Un matin que Jean voulait absolument partir, Hen-riette lui prit les mains, le retint d'une étreinte désespérée.
+
+« Non, non ! je vous en supplie, ne me laissez pas seule\... Vous êtes trop faible, attendez quelques jours, rien que quelques jours encore\... Je promets de vous laisser partir, quand le docteur dira que vous êtes assez fort pour retourner vous battre. »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941928 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941497 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941066 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940635 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940204 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939773 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939342 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938911 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938480 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938049 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937618 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937187 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936756 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936325 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935894 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935463 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935032 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934601 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934170 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368933739 .pcalibre .calibre2 .pcalibre1} {#v .calibre59 .sigil_not_in_toc}
+
+
+Par cette soirée glaciale de décembre, Silvine et Prosper se trouvaient seuls, avec Charlot, dans la grande cuisine de la ferme, elle cousant, lui en train de se fabriquer un beau fouet. Il était sept heures, on avait dîné à six, sans attendre le père Fouchard, qui devait s'être attardé à Raucourt, où la viande manquait ; et Henriette, dont c'était, cette nuit-là, le tour de veillée, à l'ambulance, venait de partir en recommandant bien à Silvine de ne pas se coucher, sans aller garnir de charbon le poêle de Jean.
+
+Dehors, le ciel était très noir, sur la neige blanche. Pas un bruit ne venait du village enseveli, on n'entendait dans la salle que le couteau de Prosper, très appliqué à orner de losanges et de rosaces le manche de cornouiller. Par moments, il s'arrêtait, il regardait Charlot, dont la grosse tête blonde vacillait, prise de sommeil. L\'enfant ayant fini par s'endormir, il sembla que le silence augmentait encore. Doucement, la mère avait écarté la chandelle, pour que son petit n'en eût pas la clarté sur les paupières ; puis, cousant toujours, elle était tombée dans une rêverie profonde.
+
+Et ce fut alors, après avoir encore hésité, que Prosper se décida :
+
+« Écoutez donc, Silvine, j'ai quelque chose à vous dire\... Oui, j'ai attendu d'être seul avec vous\... »
+
+Inquiète déjà, elle avait levé les yeux.
+
+« Voici la chose\... Pardonnez-moi de vous faire de la peine, mais il vaut mieux que vous soyez prévenue\... J'ai vu ce matin, à Remilly, au coin de l'église, j'ai vu Goliath, comme je vous vois en ce moment, oh ! en plein, il n'y a pas d\'erreur ! »
+
+Elle devint toute blême, les mains tremblantes, ne trouvant à bégayer qu'une plainte sourde.
+
+« Mon Dieu ! mon Dieu ! »
+
+Prosper continua en phrases prudentes, raconta ce qu'il avait appris dans la journée, en questionnant les uns et les autres. Personne ne doutait plus que Goliath fût un espion, qui s'était installé autrefois dans le pays pour en connaître les routes, les ressources, les moindres façons d'être. On rappelait son séjour à la ferme du père Fouchard, la façon brusque dont il en était parti, les places qu'il avait faites ensuite, du côté de Beaumont et de Raucourt. Et, maintenant, le voilà qui était revenu, occupant à la commandanture de Sedan une situation indéterminée, parcourant de nouveau les villages, comme chargé de dénoncer les uns, de taxer les autres, de veiller au bon fonctionnement des réquisitions dont on écrasait les habitants. Ce matin-là, il avait terrorisé Remilly, au sujet d'une livraison de farine, incomplète et trop lente.
+
+« Vous êtes prévenue, répéta Prosper en finissant, et vous saurez, comme ça, ce que vous aurez à faire, quand il viendra ici\... »
+
+Elle l'interrompit, d'un cri de terreur.
+
+« Vous croyez qu'il viendra ?
+
+--- Dame ! ça me semble indiqué\... Il faudrait qu'il ne fût guère curieux, puisqu'il n'a jamais vu le petit, tout en sachant qu'il existe\... Et, en outre, il y a vous, pas plus laide que ça, qui êtes bonne à revoir. »
+
+Mais, d'un geste de supplication, elle le fit taire. Réveillé par le bruit, Charlot avait levé la tête. Les yeux vagues, comme au sortir d'un rêve, il se rappela l'injure que lui avait apprise quelque farceur du village, il déclara de son air grave de petit bonhomme de trois ans :
+
+« Cochons, les Prussiens ! »
+
+Sa mère, follement, le prit dans ses bras, l'assit sur ses genoux. Ah ! le pauvre être, sa joie et son désespoir, qu'elle aimait de toute son âme et qu'elle ne pouvait regarder sans pleurer, ce fils de sa chair qu'elle souffrait d'entendre appeler méchamment le Prussien par les gamins de son âge, lorsqu'ils jouaient avec lui sur la route ! Elle le baisa, comme pour lui rentrer les paroles dans la bouche.
+
+« Qui est-ce qui t'a appris de vilains mots ? C\'est défendu, il ne faut pas les répéter, mon chéri. »
+
+Alors, avec l'obstination des enfants, Charlot, étouffant de rire, se hâta de recommencer :
+
+« Cochons, les Prussiens ! »
+
+Puis, voyant sa mère éclater en larmes, il se mit à pleurer lui aussi, pendu à son cou. Mon Dieu ! de quel malheur nouveau était-elle donc menacée ? N'était-ce point assez d'avoir perdu, avec Honoré, le seul espoir de sa vie, la certitude d'oublier et d'être heureuse encore ? Il fallait que l'autre homme ressuscitât, pour achever son malheur.
+
+« Allons, murmura-t-elle, viens dormir, mon chéri. Je t'aime bien tout de même, car tu ne sais pas la peine que tu me fais. »
+
+Et elle laissa un instant seul Prosper, qui, pour ne pas la gêner en la regardant, avait affecté de se remettre à sculpter soigneusement le manche de son fouet.
+
+Mais, avant d'aller coucher Charlot, Silvine le menait d'habitude dire bonsoir an, avec qui l'enfant était grand ami. Ce soir-là, comme elle entrait, sa chandelle à la main, elle aperçut le blessé assis sur son séant, les yeux grands ouverts au milieu des ténèbres. Tiens, il ne dormait donc pas ? Ma foi, non ! il rêvassait à toutes sortes de choses, seul dans le silence de cette nuit d'hiver. Et, pendant qu'elle bourrait le poêle de charbon, il joua un instant avec Charlot, qui se roulait sur le lit, ainsi qu'un jeune chat. Il connaissait l'histoire de Silvine, il avait de l'amitié pour cette fille brave et soumise, si éprouvée par le malheur, en deuil du seul homme qu'elle eût aimé, n'ayant gardé d'autre consolation que ce pauvre petit, dont la naissance restait son tourment. Aussi, lorsque, le poêle couvert, elle s'approcha pour le lui reprendre des bras, remarqua-t-il, à ses yeux rouges, qu'elle avait pleuré. Quoi donc ? on venait encore de lui faire du souci ? Mais elle ne voulut pas répondre : plus tard, elle lui dirait ça, si ça en valait la peine. Mon Dieu ! est-ce que l'existence, pour elle, maintenant, n'était pas un continuel chagrin ?
+
+Enfin, Silvine emportait Charlot, quand un bruit de pas et de voix se fit entendre, dans la cour de la ferme. Et Jean, surpris, écoutait.
+
+« Qu'y a-t-il donc ? Ce n'est point le père Fouchard qui rentre, je n'ai pas entendu les roues de la carriole. »
+
+Du fond de sa chambre écartée, il avait fini par se rendre ainsi compte de la vie intérieure de la ferme, dont les moindres rumeurs lui étaient devenues familières. L\'oreille tendue, il reprit tout de suite :
+
+« Ah ! oui, ce sont ces hommes, les francs-tireurs des bois de Dieulet, qui viennent aux provisions.
+
+--- Vite ! murmura Silvine en s'en allant et en le laissant de nouveau dans l'obscurité, il faut que je me dépêche, pour qu'ils aient leurs pains. »
+
+En effet, des poings tapaient à la porte de la cuisine, et Prosper, ennuyé d'être seul, hésitait, parlementait. Quand le maître n'était pas là, il n'aimait guère ouvrir, par crainte des dégâts dont on l'aurait rendu responsable. Mais il eut la chance que, justement, à cette minute, la carriole du père Fouchard dévala par la route en pente, avec le trot assourdi du cheval dans la neige. Et ce fut le vieux qui reçut les hommes.
+
+« Ah ! bon ! c'est vous trois\... Qu'est-ce que vous m'apportez, sur cette brouette ? »
+
+Sambuc, avec sa maigreur de bandit, enfoncé dans une blouse de laine bleue, trop large, ne l'entendit même pas, exaspéré contre Prosper, son honnête homme de frère, comme il disait, qui se décidait seulement à ouvrir la porte.
+
+« Dis donc, toi ! est-ce que tu nous prends pour des mendiants, à nous laisser dehors par un temps pareil ? »
+
+Mais, tandis que Prosper, très calme, haussant les épaules sans répondre, faisait rentrer le cheval et la carriole, ce fut de nouveau le père Fouchard qui intervint, penché sur la brouette.
+
+« Alors, c'est deux moutons crevés que vous m'apportez\... Ça va bien qu'il gèle, sans quoi ils ne sentiraient guère bon. »
+
+Cabasse et Ducat, les deux lieutenants de Sambuc, qui l'accompagnaient dans toutes ses expéditions, se récrièrent.
+
+« Oh ! dit le premier, avec sa vivacité criarde de Provençal, ils n'ont pas plus de trois jours\... C\'est des bêtes mortes à la ferme des Raffins, où il y a un sale coup de maladie sur les animaux.
+
+--- *Procumbit humi bos* », déclama l'autre, l'ancien huissier que son goût trop vif pour les petites filles avait déclassé et qui aimait à citer du latin.
+
+D'un hochement de tête, le père Fouchard continuait à déprécier la marchandise, qu'il affectait de trouver trop avancée. Et il conclut, en entrant dans la cuisine avec les trois hommes :
+
+« Enfin, il faudra qu'ils s'en contentent\... Ça va bien qu'à Raucourt ils n'ont plus une côtelette. Quand on a faim, n'est-ce pas ? on mange de tout. »
+
+Et, ravi au fond, il appela Silvine qui revenait de coucher Charlot.
+
+« Donne des verres, nous allons boire un coup à la crevaison de Bismarck. »
+
+Fouchard entretenait ainsi de bonnes relations avec les francs-tireurs des bois de Dieulet, qui, depuis bientôt trois mois, sortaient au crépuscule de leurs taillis impénétrables, rôdaient par les routes, tuaient et dévalisaient les Prussiens qu'ils pouvaient surprendre, se rabattaient sur les fermes, rançonnaient les paysans, quand le gibier ennemi venait à manquer. Ils étaient la terreur des vil-lages, d'autant plus qu'à chaque convoi attaqué, à chaque sentinelle égorgée, les autorités allemandes se vengeaient sur les bourgs voisins, qu'ils accusaient de connivence, les frappant d'amendes, emmenant les maires prisonniers, brûlant les chaumières. Et, si les paysans, malgré la bonne envie qu'ils en avaient, ne livraient pas Sambuc et sa bande, c'était simplement par crainte de recevoir quelque balle, au détour d'un sentier, dans le cas où le coup n'aurait pas réussi.
+
+Lui, Fouchard, avait eu l'extraordinaire idée de faire du commerce avec eux. Battant le pays en tous sens, aussi bien les fossés que les étables, ils étaient devenus ses pourvoyeurs de bêtes crevées. Pas un bœuf ni un mouton ne mourait, dans un rayon de trois lieues, sans qu'ils vinssent l'enlever, de nuit, pour le lui apporter. Et il les payait en provisions, en pains surtout, des fournées de pains que Silvine cuisait exprès. D'ailleurs, s'il ne les aimait guère, il avait une admiration secrète pour les francs-tireurs, des gaillards adroits qui faisaient leurs affaires en se fichant du monde ; et, bien qu'il tirât une fortune de ses marchés avec les Prussiens, il riait en dedans, d'un rire de sauvage, quand il apprenait qu'on venait encore d'en trouver un, au bord d'une route, la gorge ouverte.
+
+« À votre santé ! » reprit-il en trinquant avec les trois hommes.
+
+Puis, se torchant les lèvres d'un revers de main :
+
+« Dites donc, ils en ont fait une histoire, pour ces deux uhlans qu'ils ont ramassé sans tête, près de Villecourt\... Vous savez que Villecourt brûle depuis hier : une sentence, comme ils disent, qu'ils ont portée contre le village, pour le punir de vous avoir accueillis\... Faut être prudents, vous savez, et ne pas revenir tout de suite. On vous portera le pain là-bas. »
+
+Sambuc ricanait violemment, en haussant les épaules. Ah, ouiche ! les Prussiens pouvaient courir ! Et, tout d'un coup, il se fâcha, tapa du poing sur la table.
+
+« Tonnerre de Dieu ! les uhlans, c'est gentil, mais c'est l'autre que je voudrais bien tenir entre quatrez-yeux, vous le connaissez bien, l'autre, l'espion, celui qui a servi chez vous\...
+
+--- Goliath », dit le père Fouchard.
+
+Toute saisie, Silvine, qui venait de reprendre sa couture, s'arrêta, écoutant.
+
+« C\'est ça, Goliath !\... Ah ! le brigand, il connaît les bois de Dieulet comme ma poche, il est capable de nous faire pincer, un de ces matins ; d'autant plus qu'il s'est vanté, aujourd'hui, à la Croix de Malte, de nous régler notre compte avant huit jours\... Un sale bougre qui a pour sûr conduit les Bavarois, la veille de Beaumont, n'est-ce pas ? vous autres !
+
+--- Aussi vrai que voilà une chandelle qui nous éclaire, confirma Cabasse.
+
+--- *Per amica silentia lunae* », ajouta Ducat, dont les citations s'égaraient parfois.
+
+Mais Sambuc, d'un nouveau coup de poing, ébranlait la table.
+
+« Il est jugé, il est condamné, le brigand !\... Si vous savez un jour par où il doit passer, prévenez-moi donc, et sa tête ira rejoindre celle des uhlans dans la Meuse, ah ! tonnerre de Dieu, oui, je vous en réponds ! »
+
+Il y eut un silence. Silvine les regardait, les yeux fixes, très pâle.
+
+« Tout ça, c'est des choses dont on ne doit pas causer, reprit prudemment le père Fouchard. À votre santé, et bonsoir ! »
+
+Ils achevèrent la seconde bouteille. Prosper, étant revenu de l'écurie, donna un coup de main, pour charger, en travers de la brouette, à la place des deux moutons morts, les pains que Silvine avait mis dans un sac. Mais il ne répondit même pas, il tourna le dos, quand son frère et les deux autres s'en allèrent, disparurent avec la brouette, dans la neige, en répétant :
+
+« Bien le bonsoir, au plaisir ! »
+
+Le lendemain, après le déjeuner, comme le père Fouchard se trouvait seul, il vit entrer Goliath en personne, grand, gros, le visage rose, avec son tranquille sourire. S\'il éprouva un saisissement, à cette brusque apparition, il n'en laissa rien paraître. Il clignait les paupières, tandis que l'autre s'avançait et lui serrait rondement la main.
+
+« Bonjour, père Fouchard. »
+
+Alors, seulement, il sembla le reconnaître. « Tiens ! c'est toi, mon garçon\... Oh ! tu as encore forci. Comme te voilà gras ! »
+
+Et il le dévisageait, vêtu d'une sorte de capote en gros drap bleu, coiffé d'une casquette de même étoffe, l'air cossu et content de lui. Du reste, il n'avait aucun accent, parlait avec la lenteur empâtée des paysans du pays.
+
+« Mais oui, c'est moi, père Fouchard\... Je n'ai pas voulu revenir par ici, sans vous dire un petit bonjour. »
+
+Le vieux restait méfiant. Qu'est-ce qu'il venait faire, celui-là ? Avait-il su la visite des francs-tireurs à la ferme, la veille ? Il fallait voir. Tout de même, comme il se présentait poliment, le mieux était de lui rendre sa politesse.
+
+« Eh bien, mon garçon, puisque tu es si gentil, nous boirons un coup. »
+
+Il prit la peine d'aller chercher deux verres et une bouteille. Tout ce vin bu lui saignait le cœur, mais il fallait savoir offrir, dans les affaires. Et la scène de la soirée recommença, ils trinquèrent avec les mêmes gestes, les mêmes paroles.
+
+« À votre santé, père Fouchard.
+
+--- À la tienne, mon garçon. »
+
+Puis, Goliath, complaisamment, s'oublia. Il regardait autour de lui, en homme qui a du plaisir à se rappeler les choses anciennes. Il ne parla pourtant point du passé, pas plus que du présent, d'ailleurs. La conversation roula sur le grand froid qui allait gêner les travaux de la campagne ; heureusement que la neige avait du bon, ça tuait les insectes. À peine eut-il une expression de vague chagrin, en faisant allusion à la haine sourde, au mépris épouvanté qu'on lui avait témoignés dans les autres maisons de Remilly. N'est-ce pas ? chacun est de son pays, c'est tout simple qu'on serve son pays comme on l'entend. Mais, en France, il y avait des choses sur lesquelles on avait de drôles d'idées. Et le vieux le regardait, l'écoutait, si raisonnable, si conciliant, avec sa large figure gaie, en se disant que ce brave homme-là n'était sûrement pas venu dans de mauvaises intentions.
+
+« Alors, vous êtes donc tout seul aujourd'hui, père Fouchard ?
+
+--- Oh ! non, Silvine est là-bas qui donne à manger aux vaches\... Est-ce que tu veux la voir, Silvine ? »
+
+Goliath se mit à rire.
+
+« Ma foi, oui\... Je vais vous dire ça franchement, c'est pour Silvine que je suis venu. »
+
+Du coup, le père Fouchard se leva, soulagé, criant à pleine voix :
+
+« Silvine ! Silvine !\... Il y a quelqu'un pour toi ! »
+
+Et il s'en alla, sans crainte désormais, puisque la fille était là pour protéger la maison. Quand ça tient un homme si longtemps, après des années, il est fichu.
+
+Lorsque Silvine entra, elle ne fut pas surprise de trouver Goliath, qui était resté assis et qui la regardait avec son bon sourire, un peu gêné pourtant. Elle l'attendait, elle s'arrêta simplement après avoir franchi le seuil, dans un raidissement de tout son être. Et Charlot qui la rejoignait en courant, se jeta dans ses jupes, étonné d'apercevoir un homme qu'il ne connaissait pas.
+
+Il y eut un silence, un embarras de quelques secondes.
+
+« Alors, c'est le petit ? finit par demander Goliath, de sa voix conciliante.
+
+--- Oui », répondit Silvine, durement.
+
+Le silence recommença. Il était parti au septième mois de sa grossesse, il savait bien qu'il avait un enfant, mais il le voyait pour la première fois. Aussi voulut-il s'expliquer, en garçon de sens pratique qui est convaincu d'avoir de bonnes raisons.
+
+« Voyons, Silvine, je comprends bien que tu m'as gardé de la rancune. Ce n'est pourtant pas très juste\... Si je suis parti, et si je t'ai fait cette grosse peine, tu aurais dû te dire que c'était peut-être parce que je n'étais pas mon maître. Quand on a des chefs, on doit leur obéir, n'est-ce pas ? Ils m'auraient envoyé à cent lieues, à pied, que j'aurais fait le chemin. Et, naturellement, je ne pouvais pas parler : ça m'a assez crevé le cœur, de m'en aller ainsi, sans te souhaiter le bonsoir\... Aujourd'hui, mon Dieu ! je ne te raconterai pas que j'étais certain de revenir. Cependant, j'y comptais bien, et, tu le vois, me revoilà\... »
+
+Elle avait détourné la tête, elle regardait la neige de la cour, par la fenêtre, comme résolue à ne pas entendre. Lui, que ce mépris, ce silence obstiné troublaient, interrompit ses explications, pour dire :
+
+« Sais-tu que tu as encore embelli ! »
+
+En effet, elle était très belle, dans sa pâleur, avec ses grands yeux superbes qui éclairaient tout son visage. Ses lourds cheveux noirs la coiffaient comme d'un casque de deuil éternel.
+
+« Sois gentille, voyons ! Tu devrais sentir que je ne te veux pas de mal\... Si je ne t'aimais plus, je ne serais pas revenu, bien sûr\... Puisque me revoilà et que tout s'arrange, nous allons nous revoir, n'est-ce pas ? »
+
+D'un mouvement brusque, elle s'était reculée, et le regardant en face :
+
+« Jamais !
+
+--- Pourquoi jamais ? est-ce que tu n'es pas ma femme, est-ce que cet enfant n'est pas à nous ? »
+
+Elle ne le quittait pas des yeux, elle parla lentement.
+
+« Écoutez ! il vaut mieux en finir tout de suite\... Vous avez connu Honoré, je l'aimais, je n'ai toujours aimé que lui. Et il est mort, vous me l'avez tué, là-bas\... Jamais plus je ne serai à vous. Jamais ! »
+
+Elle avait levé la main, elle en faisait le serment, d'une telle voix de haine, qu'il resta un moment interdit, cessant de la tutoyer, murmurant :
+
+« Oui, je savais, Honoré est mort. C\'était un très gentil garçon. Seulement, que voulez-vous ? il y en a d'autres qui sont morts, c'est la guerre\... Et puis, il me semblait que, du moment où il était mort, il n'y avait plus d'obstacle ; car, enfin, Silvine, laissez-moi vous le rappeler, je n'ai pas été brutal, vous avez consenti\... »
+
+Mais il n'acheva pas, tellement il la vit bouleversée, les mains au visage, prête à se déchirer elle-même.
+
+« Oh ! c'est bien ça, oui ! c'est bien ça qui me rend folle. Pourquoi ai-je consenti, puisque je ne vous aimais point ?\... Je ne puis pas me souvenir, j'étais si triste, si malade du départ d'Honoré, et ç'a été peut-être parce que vous me parliez de lui et que vous aviez l'air de l'aimer\... Mon Dieu ! que de nuits j'ai passées à pleurer toutes les larmes de mon corps, en songeant à ça ! C\'est abominable d'avoir fait une chose qu'on ne voulait pas faire, sans pouvoir s'expliquer ensuite pourquoi on l'a faite\... Et il m'avait pardonné, il m'avait dit que, si ces cochons de Prussiens ne le tuaient pas, il m'épouserait tout de même, quand il rentrerait du service\... Et vous croyez que je vais retourner avec vous ? Ah ! tenez ! sous le couteau, je dirai non, non, jamais ! »
+
+Cette fois, Goliath s'assombrit. Il l'avait connue soumise, il la sentait inébranlable, d'une résolution farouche. Tout bon enfant qu'il fût, il la voulait même par la force, maintenant qu'il était le maître ; et, s'il n'imposait pas sa volonté violemment, c'était par une prudence innée, un instinct de ruse et de patience. Ce colosse, aux gros poings, n'aimait pas les coups. Aussi songea-t-il à un autre moyen de la soumettre.
+
+« Bon ! puisque vous ne voulez pas de moi, je vais prendre le petit.
+
+--- Comment, le petit ? »
+
+Charlot, oublié, était resté dans les jupes de sa mère, se retenant pour ne pas éclater en sanglots, au milieu de la querelle. Et Goliath, qui avait enfin quitté sa chaise, s'approcha.
+
+« N'est-ce pas ? tu es mon petit à moi, un petit Prussien\... Viens, que je t'emmène ! »
+
+Mais, déjà, Silvine, frémissante, l'avait saisi dans ses bras, le serrait contre sa poitrine.
+
+« Lui, un Prussien, non ! un Français, né en France !
+
+--- Un Français, regardez-le donc, regardez-moi donc ! C\'est tout mon portrait. Est-ce qu'il vous ressemble, à vous ? »
+
+Elle vit alors seulement ce grand gaillard blond, à la barbe et aux cheveux frisés, à l'épaisse face rose, dont les gros yeux bleus luisaient d'un éclat de faïence. Et c'était bien vrai, le petit avait la même tignasse jaune, les mêmes joues, les mêmes yeux clairs, toute la race de là-bas en lui. Elle-même se sentait autre, avec les mèches de ses cheveux noirs, qui glissaient de son chignon sur son épaule, dans son désordre.
+
+« Je l'ai fait, il est à moi ! reprit-elle furieusement. Un Français qui ne saura jamais un mot de votre sale allemand, oui ! un Français qui ira un jour vous tuer tous, pour venger ceux que vous avez tués ! »
+
+Charlot s'était mis à pleurer et à crier, cramponné à son cou.
+
+« Maman, maman ! j'ai peur, emmène-moi ! »
+
+Alors, Goliath, qui ne voulait sans doute pas de scandale, recula, se contenta de déclarer, en reprenant le tutoiement d'une voix dure :
+
+« Retiens bien ce que je vais te dire, Silvine\... Je sais tout ce qui se passe ici. Vous recevez les francs-tireurs des bois de Dieulet, ce Sambuc qui est le frère de votre garçon de ferme, un bandit que vous fournissez de pain. Et je sais que ce garçon, ce Prosper, est un chasseur d'Afrique, un déserteur, qui nous appartient ; et je sais encore que vous cachez un blessé, un autre soldat qu'un mot de moi ferait conduire en Allemagne, dans une forteresse\... Hein ? tu le vois, je suis bien renseigné\... »
+
+Elle l\'écoutait maintenant, muette, terrifiée, tandis que Charlot répétait dans son cou, de sa petite voix bégayante :
+
+« Oh, maman, maman, emmène-moi, j'ai peur !
+
+--- Eh bien ! reprit Goliath, je ne suis certainement pas méchant, et je n'aime guère les querelles, tu peux le dire ; mais je te jure que je les ferai tous arrêter, le père Fouchard et les autres, si tu ne me reçois pas dans ta chambre, lundi prochain\... Et je prendrai le petit, je l'enverrai là-bas à ma mère qui sera très contente de l'avoir ; car, du moment que tu veux rompre, il est à moi\... N'est-ce pas ? tu entends bien, je n'aurai qu'à venir et à l'emporter, lorsqu'il n'y aura plus personne ici. Je suis le maître, je fais ce qui me plaît\... Que décides-tu, voyons ? »
+
+Mais elle ne répondait pas, elle serrait l'enfant plus fort, comme si elle eût craint qu'on ne le lui arrachât tout de suite ; et, dans ses grands yeux, montait une exécration épouvantée.
+
+« C\'est bon, je t'accorde trois jours pour réfléchir\... Tu laisseras ouverte la fenêtre de ta chambre, qui donne sur le verger\... Si lundi soir, à sept heures, je ne trouve pas ouverte la fenêtre, je fais, le lendemain, arrêter tout ton monde, et je reviens prendre le petit\... Au revoir, Silvine ! »
+
+Il partit tranquillement, elle resta plantée à la même place, la tête bourdonnante d'idées si grosses, si terribles, qu'elle en était comme imbécile. Et, pendant la journée entière, ce fut ainsi une tempête en elle. D'abord, elle eut l'instinctive pensée d'emporter son enfant dans ses bras, de s'en aller droit devant elle, n'importe où ; seulement, que devenir dès que la nuit tomberait, comment gagner sa vie pour lui et pour elle ? sans compter que les Prussiens qui battaient les routes, l'arrêteraient, la ramèneraient peut-être. Puis, le projet lui vint de parler an, d'avertir Prosper et le père Fouchard lui-même ; et, de nouveau, elle hésita, elle recula : était-elle assez sûre de l'amitié des gens, pour avoir la certitude qu'on ne la sacrifierait pas à la tranquillité de tous ? Non, non ! elle ne dirait rien à personne, elle seule se tirerait du danger, puisque seule elle l'avait fait, par l'entêtement de son refus. Mais qu'imaginer, mon Dieu ! de quelle façon empêcher le malheur ? car son honnêteté se révoltait, elle ne se serait pardonné de la vie, si, par sa faute, il était arrivé des catastrophes à tant de monde, an surtout, qui se montrait si gentil pour Charlot.
+
+Les heures se passèrent, la journée du lendemain s'écoula, sans qu'elle eût rien trouvé. Elle vaquait comme d'ordinaire à sa besogne, balayait la cuisine, soignait les vaches, faisait la soupe. Et, dans son absolu silence, l'effrayant silence qu'elle continuait à garder, ce qui montait et l'empoisonnait davantage d'heure en heure, c'était sa haine contre Goliath. Il était son péché, sa damnation. Sans lui, elle aurait attendu Honoré, et Honoré vivrait, et elle serait heureuse. De quel ton il avait fait savoir qu'il était le maître ! D'ailleurs, c'était la vérité, il n'y avait plus de gendarmes, plus de juges à qui s'adresser, la force seule avait raison. Oh ! être la plus forte, le prendre quand il viendrait, lui qui parlait de prendre les autres ! En elle, il n'y avait que l'enfant, qui était sa chair. Ce père de hasard ne comptait pas, n'avait jamais compté. Elle n'était pas épouse, elle ne se sentait soulevée que d'une colère, d'une rancune de vaincue, quand elle pensait à lui. Plutôt que de le lui donner, elle aurait tué l'enfant, elle se serait tuée ensuite. Et elle le lui avait bien dit, cet enfant qu'il lui avait fait comme un cadeau de haine, elle l'aurait voulu grand déjà, capable de la défendre, elle le voyait plus tard, avec un fusil, leur trouant la peau à tous, là-bas. Ah ! oui, un Français de plus, un Français tueur de Prussiens !
+
+Cependant, il ne lui restait qu'un jour, elle devait prendre un parti. Dès la première minute, une idée atroce avait bien passé, au travers du bouleversement de sa pauvre tête malade : avertir les francs-tireurs, donner à Sambuc le renseignement qu'il attendait. Mais l'idée était restée fuyante, imprécise, et elle l'avait écartée, comme monstrueuse, ne souffrant même pas la discussion : cet homme, après tout, n'était-il pas le père de son enfant ? elle ne pouvait le faire assassiner. Puis, l'idée était revenue, peu à peu enveloppante, pressante ; et, maintenant, elle s'imposait, de toute la force victorieuse de sa simplicité et de son absolu. Goliath mort, Jean, Prosper, le père Fouchard, n'avaient plus rien à craindre. Elle-même gardait Charlot, que jamais plus personne ne lui disputerait. Et c'était encore autre chose, une chose profonde, ignorée d'elle, qui montait du fond de son être : le besoin d'en finir, d'effacer la paternité en supprimant le père, la joie sauvage de se dire qu'elle en sortirait comme amputée de sa faute, mère et seule maîtresse de l'enfant, sans partage avec un mâle. Tout un jour encore, elle roula ce projet, n'ayant plus l'énergie de le repousser, ramenée quand même aux détails du guet-apens, prévoyant, combinant les moindres faits. C\'était, à cette heure, l'idée fixe, l'idée qui a planté son clou, qu'on cesse de raisonner ; et, lorsqu'elle finit par agir, par obéir à cette poussée de l'inévitable, elle marcha comme dans un rêve, sous la volonté d'une autre, de quelqu'un qu'elle n'avait jamais connu en elle.
+
+Le dimanche, le père Fouchard, inquiet, avait fait savoir aux francs-tireurs qu'on leur porterait leur sac de pains dans les carrières de Boisville, un coin très solitaire, à deux kilomètres ; et, Prosper se trouvant occupé, ce fut Silvine qu'il envoya, avec la brouette. N\'était-ce point le sort qui décidait ? Elle vit là un arrêt du destin, elle parla, donna le rendez-vous à Sambuc pour le lendemain soir, d'une voix nette, sans fièvre, comme si elle n'avait pu faire autrement. Le lendemain, il y eut encore des signes, des preuves certaines que les gens, que les choses mêmes voulaient le meurtre. D'abord, ce fut le père Fouchard, appelé brusquement à Raucourt, qui laissa l'ordre de dîner sans lui, prévoyant qu'il ne rentrerait guère avant huit heures. Ensuite, Henriette, dont le tour de veillée, à l'ambulance, ne revenait que le mardi, reçut l'avis, très tard, qu'elle aurait à remplacer le soir la personne de service, indisposée. Et, comman ne quittait point sa chambre, quels que fussent les bruits, il ne restait donc que Prosper, dont on pouvait craindre l'intervention. Lui, n'était pas pour qu'on égorgeât ainsi un homme, à plusieurs. Mais, quand il vit arriver son frère avec ses deux lieutenants, le dégoût qu'il avait de ce vilain monde s'ajouta à son exécration des Prussiens ; sûrement qu'il n'allait pas en sauver un, de ces sales bougres, même si on lui faisait son affaire d'une façon malpropre ; et il aima mieux se coucher, enfoncer sa tête dans le traversin, pour ne pas entendre et n'être pas tenté de se conduire en soldat.
+
+Il était sept heures moins un quart, et Charlot s'entêtait à ne point dormir. D'habitude, dès qu'il avait mangé sa soupe, il tombait, la tête sur la table.
+
+« Voyons, dors, mon chéri, répétait Silvine, qui l'avait porté dans la chambre d'Henriette, tu vois comme tu es bien, sur le grand dodo à bonne amie ! »
+
+Mais l'enfant, égayé justement par cette aubaine, gigotait, riait à s'étouffer.
+
+« Non, non\... Reste, petite mère\... joue, petite mère\... »
+
+Elle patientait, elle se montrait très douce, répétant avec des caresses :
+
+« Fais dodo, mon chéri\... Fais dodo, pour me faire plaisir. »
+
+Et l'enfant finit par s'endormir, le rire aux lèvres. Elle n'avait pas pris la peine de le déshabiller, elle le couvrit chaudement et s'en alla, sans l'enfermer à clef, tellement, d'ordinaire, il dormait d'un gros sommeil.
+
+Jamais Silvine ne s'était sentie si calme, d'esprit si net et si vif. Elle avait une promptitude de décision, une légèreté de mouvement, comme dégagée de son corps, agissant sous cette impulsion de l'autre, qu'elle ne connaissait point. Déjà, elle venait d'introduire Sambuc, avec Cabasse et Ducat, en leur recommandant la plus grande prudence ; et elle les conduisit dans sa chambre, elle les posta à droite et à gauche de la fenêtre, qu'elle ouvrit, malgré le grand froid. Les ténèbres étaient profondes, la pièce ne se trouvait faiblement éclairée que par le reflet de la neige. Un silence de mort venait de la campagne, des minutes interminables s'écoulèrent. Enfin, à un petit bruit de pas qui s'approchaient, Silvine s'en alla, retourna s'asseoir dans la cuisine, où elle attendit, immobile, ses grands yeux fixés sur la flamme de la chandelle.
+
+Et ce fut encore très long, Goliath rôda autour de la ferme, avant de se risquer. Il croyait bien connaître la jeune femme, aussi avait-il osé venir, simplement avec un revolver à sa ceinture. Mais un malaise l'avertissait, il poussa entièrement la fenêtre, allongea la tête, en appelant doucement :
+
+« Silvine ! Silvine ! »
+
+Puisqu'il trouvait la fenêtre ouverte, c'était donc qu'elle avait réfléchi et qu'elle consentait. Cela lui causait un gros plaisir, bien qu'il eût préféré la voir là, l'accueillant, le rassurant. Sans doute, le père Fouchard venait de la rappeler, quelque besogne à finir. Il éleva un peu la voix.
+
+« Silvine ! Silvine ! »
+
+Rien ne répondait, pas un souffle. Et il enjamba l'appui, il entra, avec l'idée de se fourrer dans le lit, de l'attendre sous les couvertures, tant il faisait froid.
+
+Tout d'un coup, il y eut une furieuse bousculade, des piétinements, des glissements, au milieu de jurons étouffés et de râles. Sambuc et les deux autres s'étaient rués sur Goliath ; et, malgré leur nombre, ils n'arrivaient pas à maîtriser le colosse, dont le danger décuplait les forces. Dans les ténèbres, on entendait les craquements des membres, l'effort haletant des étreintes. Heureusement, le revolver était tombé. Une voix, celle de Cabasse, bégaya, étranglée : « Les cordes, les cordes ! » tandis que Ducat passait à Sambuc le paquet de cordes dont ils avaient eu la précaution de se pourvoir. Alors, ce fut une opération sauvage, faite à coups de pied, à coups de poing, les jambes attachées, d'abord, puis les bras liés aux flancs, puis le corps tout entier ficelé à tâtons, au hasard des soubresauts, avec un tel luxe de tours et de nœuds, que l'homme était comme pris en un filet dont les mailles lui entraient dans la chair. Il continuait de crier, la voix de Ducat répétait : « Ferme donc ta gueule ! » Les cris cessèrent. Cabasse avait noué brutalement sur la bouche un vieux mouchoir bleu. Enfin, ils soufflèrent, ils l'emportèrent ainsi qu'un paquet dans la cuisine, où ils l'allongèrent sur la grande table, à côté de la chandelle.
+
+« Ah ! le salop de Prussien, jura Sambuc en s'épongeant le front, nous a-t-il donné du mal !\... Dites, Silvine, allumez donc une seconde chandelle, pour qu'on le voie en plein, ce nom de Dieu de cochon-là ! »
+
+Les yeux élargis dans sa face pâle, Silvine s'était levée. Elle ne prononça pas une parole, elle alluma une chandelle, qu'elle vint poser de l'autre côté de la tête de Goliath, qui apparut, vivement éclairée, comme entre deux cierges. Et leurs regards à ce moment, se rencontrèrent : il la suppliait, éperdu, envahi par la peur ; mais elle ne parut pas comprendre, elle se recula jusqu'au buffet, resta là debout, de son air têtu et glacé.
+
+« Le bougre m'a mangé la moitié d'un doigt, gronda Cabasse dont la main saignait. Faut que je lui casse quelque chose ! »
+
+Déjà, il levait le revolver qu'il avait ramassé, lorsque Sambuc le désarma.
+
+« Non, non ! pas de bêtises !\... Nous ne sommes pas des brigands, nous autres, nous sommes des juges\... Entends-tu, salop de Prussien, nous allons te juger ; et n'aie pas peur, nous respectons les droits de la défense\... Ce n'est pas toi qui te défendras, parce que toi, si nous t'enlevions ta muselière, tu nous casserais les oreilles. Mais, tout à l'heure, je te donnerai un avocat, et un fameux ! »
+
+Il alla chercher trois chaises, les aligna, composa ce qu'il appelait le tribunal, lui au milieu, flanqué à droite et à gauche de ses deux lieutenants. Tous trois s'assirent, et il se releva, parla avec une lenteur goguenarde, qui peu à peu s'élargit, s'enfla d'une colère vengeresse.
+
+« Moi, je suis à la fois le président et l'accusateur public. Ce n'est pas très correct, mais nous ne sommes pas assez de monde\... Donc, je t\'accuse d'être venu nous moucharder en France, payant ainsi par la plus sale trahison le pain mangé à nos tables. Car c'est toi la cause première du désastre, toi le traître qui, après le combat de Nouart, as conduit les Bavarois jusqu'à Beaumont, pendant la nuit, au travers des bois de Dieulet. Il fallait un homme qui eût longtemps habité le pays, pour connaître ainsi les moindres sentiers ; et notre conviction est faite, on t'a rencontré guidant l'artillerie par les chemins abominables, changés en fleuves de boue, où l'on a dû atteler huit chevaux à chaque pièce. Quand on revoit ces chemins, c'est à ne pas croire, on se demande comment un corps d'armée a pu passer par là\... Sans toi, sans ton crime de t'être gobergé chez nous et de nous avoir vendus, la surprise de Beaumont n'aurait pas eu lieu, nous ne serions pas allés à Sedan, peut-être aurions-nous fini par vous rosser ! Et je ne parle pas du métier dégoûtant que tu continues à faire, du toupet avec lequel tu as reparu ici, triomphant, dénonçant et faisant trembler le pauvre monde\... Tu es la plus ignoble des canailles, je demande la peine de mort. »
+
+Un silence régna. Il s'était assis de nouveau, il dit enfin :
+
+« Je nomme d'office Ducat pour te défendre\... Il a été huissier, il serait allé très loin, sans ses passions. Tu vois que je ne te refuse rien et que nous sommes gentils. »
+
+Goliath, qui ne pouvait remuer un doigt, tourna les yeux vers son défenseur improvisé. Il n'avait plus que les yeux de vivants, des yeux de supplication ardente, sous le front livide, que trempait une sueur d'angoisse, à grosses gouttes, malgré le froid.
+
+« Messieurs, plaida Ducat en se levant, mon client est en effet la plus infecte des canailles, et je n'accepterais pas de le défendre, si je n'avais à faire remarquer, pour son excuse, qu'ils sont tous comme ça dans son pays\... Regardez-le, vous voyez bien, à ses yeux, qu'il est très étonné. Il ne comprend pas son crime. En France, nous ne touchons nos espions qu'avec des pincettes ; tandis que, là-bas, l'espionnage est une carrière très honorée, une façon méritoire de servir son pays\... Je me permettrai même de dire, messieurs, qu'ils n'ont peut-être pas tort. Nos nobles sentiments nous font honneur, mais le pis est qu'ils nous ont fait battre. Si j'ose m'exprimer ainsi, *quos vult perdere Jupiter dementat*\... Vous apprécierez, messieurs. »
+
+Et il se rassit, tandis que Sambuc reprenait :
+
+« Et toi, Cabasse, n'as-tu rien à dire contre ou pour l'accusé ?
+
+--- J'ai à dire, cria le Provençal, que c'est bien des histoires pour régler son compte à ce bougre-là\... J'ai eu pas mal d'ennuis dans mon existence ; mais je n'aime pas qu'on plaisante avec les choses de la justice, ça porte malheur\... À mort ! à mort ! »
+
+Solennellement, Sambuc se remit debout.
+
+« Ainsi, tel est bien votre arrêt à tous les deux\... La mort ?
+
+--- Oui, oui ! la mort ! »
+
+Les chaises furent repoussées, il s'approcha de Goliath, en disant :
+
+« C\'est jugé, tu vas mourir. »
+
+Les deux chandelles brûlaient, la mèche haute, comme des cierges, à droite et à gauche du visage décomposé de Goliath. Il faisait, pour crier grâce, pour hurler les mots dont il étouffait, un tel effort, que le mouchoir bleu, sur sa bouche, se trempait d'écume ; et c'était terrible, cet homme réduit au silence, muet déjà comme un cadavre, qui allait mourir avec ce flot d'explications et de prières dans la gorge.
+
+Cabasse armait le revolver.
+
+« Faut-il lui casser la gueule ? demanda-t-il.
+
+--- Ah ! non, non ! cria Sambuc, il serait trop content. »
+
+Et, revenant vers Goliath :
+
+« Tu n'es pas un soldat, tu ne mérites pas l'honneur de t'en aller avec une balle dans la tête\... Non ! tu vas crever comme un sale cochon d'espion que tu es. »
+
+Il se retourna, il demanda poliment :
+
+« Silvine, sans vous commander, je voudrais bien avoir un baquet. »
+
+Pendant la scène du jugement, Silvine n'avait pas bougé. Elle attendait, la face rigide, absente d'elle-même, toute dans l'idée fixe qui la poussait depuis deux jours. Et, quand on lui demanda un baquet, elle obéit simplement, elle disparut une minute dans le cellier voisin, puis revint avec le grand baquet où elle lavait le linge de Charlot.
+
+« Tenez ! posez-le sous la table, au bord. »
+
+Elle le posa, et comme elle se relevait, ses yeux de nouveau rencontrèrent ceux de Goliath. Ce fut, dans le regard du misérable, une supplication dernière, une révolte aussi de l'homme qui ne voulait pas mourir. Mais, en ce moment, il n'y avait plus en elle rien de la femme, rien que la volonté de cette mort, attendue comme une délivrance. Elle recula encore jusqu'au buffet, elle resta.
+
+Sambuc, qui avait ouvert le tiroir de la table, venait d'y prendre un large couteau de cuisine, celui avec lequel on coupait le lard.
+
+« Donc, puisque tu es un cochon, je vas te saigner comme un cochon. »
+
+Et il ne se pressa pas, discuta avec Cabasse et Ducat, pour que l'égorgement se fît d'une manière convenable. Même il y eut une querelle, parce que Cabasse disait que dans son pays, en Provence, on saignait les cochons la tête en bas, tandis que Ducat se récriait, indigné, estimant cette méthode barbare et incommode.
+
+« Avancez-le bien au bord de la table, au-dessus du baquet, pour ne pas faire des taches. »
+
+Ils l'avancèrent, et Sambuc procéda tranquillement, proprement. D'un seul coup du grand couteau, il ouvrit la gorge, en travers. Tout de suite, de la carotide tranchée, le sang se mit à couler dans le baquet, avec un petit bruit de fontaine. Il avait ménagé la blessure, à peine quelques gouttes jaillirent-elles, sous la poussée du cœur. Si la mort en fut plus lente, on n'en vit même pas les convulsions, car les cordes étaient solides, l'immobilité du corps resta complète. Pas une secousse et pas un râle. On ne put suivre l'agonie que sur le visage, sur ce masque labouré par l'épouvante, d'où le sang se retirait goutte à goutte, la peau décolorée, d'une blancheur de linge. Et les yeux se vidaient, eux aussi. Ils se troublèrent et s'éteignirent.
+
+« Dites donc, Silvine, faudra tout de même une éponge. »
+
+Mais elle ne répondit pas, les bras ramenés contre sa poitrine, dans un geste inconscient, clouée au carreau, serrée à la gorge comme par un collier de fer. Elle regardait. Puis, tout d'un coup, elle s'aperçut que Charlot était là, pendu à ses jupes. Sans doute, il s'était réveillé, il avait pu ouvrir les portes ; et personne ne l'avait vu entrer à petits pas, en enfant curieux. Depuis combien de temps se trouvait-il ainsi, caché à demi derrière sa mère ? Lui aussi regardait. De ses gros yeux bleus, sous sa tignasse jaune, il regardait couler le sang, la petite fontaine rouge qui emplissait le baquet peu à peu. Cela l'amusait peut-être. N'avait-il pas compris d'abord ? fut-il ensuite effleuré par un souffle de l'horrible, eut-il une instinctive conscience de l'abomination à laquelle il assistait ? Il jeta un cri brusque, éperdu.
+
+« Oh ! maman, oh ! maman, j'ai peur, emmène-moi ! »
+
+Et Silvine en reçut une secousse, dont la violence l'ébranla toute. C\'était trop, un écroulement se faisait en elle, l'horreur à la fin emportait cette force, cette exaltation de l'idée fixe qui la tenait debout depuis deux jours. La femme renaissait, elle éclata en larmes, elle eut un geste fou, en soulevant Charlot, en le serrant éperdument sur son cœur. Et elle se sauva avec lui, d'un galop terrifié, ne pouvant plus entendre, ne pouvant plus voir, n'ayant plus que le besoin d'aller s'anéantir n'importe où, dans le premier trou caché où elle tomberait.
+
+À cette minute, Jean se décidait à ouvrir doucement sa porte. Bien qu'il ne s'inquiétât jamais des bruits de la ferme, il finissait par être surpris des allées et venues, des éclats de voix qu'il entendait. Et ce fut chez lui, dans sa chambre calme, que Silvine vint s'abattre, échevelée, sanglotante, secouée d'une telle crise de détresse, qu'il ne put saisir d'abord ses paroles bégayées, coupées entre ses dents. Toujours elle répétait le même geste comme pour écarter l'atroce vision. Enfin, il comprit, il vit à son tour le guet-apens, l'égorgement, la mère debout, le petit dans ses jupes, en face du père saigné à la gorge, dont le sang coulait ; et il en restait glacé, son cœur de paysan et de soldat chaviré d'angoisse. Ah ! la guerre, l'abominable guerre qui changeait tout ce pauvre monde en bêtes féroces, qui semait ces haines affreuses, le fils éclaboussé par le sang du père, perpétuant la querelle des races, grandissant plus tard dans l'exécration de cette famille paternelle, qu'il irait peut-être un jour exterminer ! Des semences scélérates pour d'effroyables moissons !
+
+Tombée sur une chaise, couvrant de baisers égarés Charlot qui pleurait à son cou, Silvine répétait à l'infini la même phrase, le cri de son cœur saignant.
+
+« Ah ! mon pauvre petit, on ne dira plus que tu es un Prussien !\... Ah ! mon pauvre petit, on ne dira plus que tu es un Prussien ! »
+
+Dans la cuisine, le père Fouchard venait d'arriver. Il avait tapé en maître, on s'était décidé à lui ouvrir. Et, en vérité, il avait eu une peu agréable surprise, en trouvant ce mort sur sa table, avec le baquet plein de sang dessous. Naturellement, d'une nature peu endurante, il s'était fâché.
+
+« Dites donc, espèces de salops que vous êtes, est-ce que vous n'auriez pas pu faire vos saletés dehors ? Hein ! vous prenez donc ma maison pour un fumier, que vous venez y gâter les meubles, avec des coups pareils ? »
+
+Puis, comme Sambuc s'excusait, expliquait les choses, le vieux continua, gagné par la peur, s'irritant davantage :
+
+« Et qu'est-ce que vous voulez que j'en foute, moi, de votre mort ? Croyez-vous que c'est gentil, de coller comme ça un mort chez quelqu'un, sans se demander ce qu'il en fera ?\... Une supposition qu'une patrouille entre, je serais propre ! Vous vous en fichez, vous autres, vous ne vous êtes pas demandé si je n'y laisserais pas la peau\... Eh bien, nom de Dieu, vous aurez affaire à moi, si vous n'emportez pas votre mort tout de suite ! Vous entendez, prenez-le par la tête, par les pattes, par ce que vous voudrez, mais que ça ne traîne pas et qu'il n'en reste pas seulement un cheveu dans trois minutes d'ici ! »
+
+Enfin, Sambuc obtint du père Fouchard un sac, bien que le cœur de ce dernier saignât de donner encore quelque chose. Il le choisit parmi les plus mauvais, en disant qu'un sac troué, c'était trop bon pour un Prussien. Mais Cabasse et Ducat eurent toutes les peines du monde à faire entrer Goliath dans ce sac : le corps était trop gros, trop long, et les pieds dépassèrent. Puis, on le sortit, on le chargea sur la brouette qui servait à charrier le pain.
+
+« Je vous donne ma parole d'honneur, déclara Sambuc, que nous allons le foutre à la Meuse !
+
+--- Surtout, insista Fouchard, collez-lui deux bons cailloux aux pattes, que le bougre ne remonte pas ! »
+
+Et, dans la nuit très noire, sur la neige pâle, le petit cortège s'en alla, disparut, sans autre bruit qu'un léger cri plaintif de la brouette.
+
+Sambuc jura toujours sur la tête de son père qu'il avait bien mis les deux bons cailloux aux pattes. Pourtant, le corps remonta, les Prussiens le découvrirent trois jours plus tard, à Pont-Maugis, dans de grandes herbes, et leur fureur fut extrême, lorsqu'ils eurent tiré du sac ce mort, saigné au cou comme un pourceau. Il y eut des menaces terribles, des vexations, des perquisitions. Sans doute, quelques habitants durent trop causer, car on vint un soir arrêter le maire de Remilly et le père Fouchard, coupables d'entretenir de bons rapports avec les francs-tireurs, qu'on accusait d'avoir fait le coup. Et le père Fouchard, dans cette circonstance extrême, fut vraiment très beau, avec son impassibilité de vieux paysan qui connaissait la force invincible du calme et du silence. Il marcha, sans s'effarer, sans même demander d'explications. On allait bien voir. Dans le pays, on disait tout bas qu'il avait déjà tiré des Prussiens une grosse fortune, des sacs d'écus enfouis quelque part, un à un, à mesure qu'il les gagnait.
+
+Henriette, quand elle connut toutes ces histoires, fut terriblement inquiète. De nouveau, redoutant de compromettre ses hôtes, Jean voulait partir, bien que le docteur le trouvât trop faible encore ; et elle tenait à ce qu'il attendît une quinzaine de jours, envahie elle-même d'un redoublement de tristesse, devant la nécessité prochaine de la séparation. Lors de l'arrestation du père Fouchard, Jean avait pu s'échapper, en se cachant au fond de la grange ; mais ne restait-il pas en danger d'être pris et emmené d'une heure à l'autre, dans le cas possible de nouvelles recherches ? D'ailleurs, elle tremblait aussi sur le sort de l'oncle. Elle résolut donc d'aller un matin, à Sedan, voir les Delaherche, qui logeaient chez eux, affirmait-on, un officier prussien très puissant.
+
+« Silvine, dit-elle en partant, soignez bien notre malade, donnez-lui son bouillon à midi et sa potion à quatre heures. »
+
+La servante, toute à ses besognes accoutumées, était redevenue la fille courageuse et soumise, dirigeant la ferme maintenant, en l'absence du maître, pendant que Charlot sautait et riait autour d'elle.
+
+« N\'ayez pas peur, madame, il ne lui manquera rien. Je suis là pour le dorloter. »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941929 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941498 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941067 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940636 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940205 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939774 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939343 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938912 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938481 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938050 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937619 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937188 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936757 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936326 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935895 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935464 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935033 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934602 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934171 .pcalibre .calibre2 .pcalibre1}[VI]{#_Toc368933740 .pcalibre .calibre2 .pcalibre1} {#vi .calibre59 .sigil_not_in_toc}
+
+
+À Sedan, rue Maqua, chez les Delaherche, la vie avait repris, après les terribles secousses de la bataille et de la capitulation ; et, depuis bientôt quatre mois, les jours suivaient les jours, sous le morne écrasement de l'occupation prussienne.
+
+Mais un coin des vastes bâtiments de la fabrique, surtout, restait clos, comme inhabité : c'était, sur la rue, à l'extrémité des appartements de maître, la chambre que le colonel de Vineuil habitait toujours. Tandis que les autres fenêtres s'ouvraient, laissaient passer tout un va-et-vient, tout un bruit de vie, celles de cette pièce semblaient mortes, avec leurs persiennes obstinément fermées. Le colonel s'était plaint de ses yeux, dont la grande lumière avivait les souffrances, disait-il ; et l'on ne savait s'il mentait, on entretenait près de lui une lampe, nuit et jour, pour le contenter. Pendant deux longs mois il avait dû garder le lit, bien que le major Bouroche n'eût diagnostiqué qu'une fêlure de la cheville : la plaie ne se fermait pas, toutes sortes de complications étaient survenues. Maintenant, il se levait, mais dans un tel accablement moral, en proie à un mal indéfini, si têtu, si envahissant, qu'il vivait ses journées étendu sur une chaise longue, devant un grand feu de bois. Il maigrissait, devenait une ombre, sans que le médecin qui le soignait, très surpris, pût trouver une lésion, la cause de cette mort lente. Ainsi qu'une flamme, il s'éteignait.
+
+Et Mme Delaherche, la mère, s'était enfermée avec lui, dès le lendemain de l'occupation. Sans doute ils avaient dû s'entendre, en quelques mots, une fois pour toutes, sur leur formel désir de se cloîtrer ensemble au fond de cette pièce, tant que des Prussiens logeraient dans la maison. Beaucoup y avaient passé deux ou trois nuits, un capitaine, M. de Gartlauben, y couchait encore, à demeure. Du reste, jamais plus ni le colonel ni la vieille dame n'avaient reparlé de ces choses. Malgré ses soixante-dix-huit ans, elle se levait dès l'aube, venait s'installer dans un fauteuil, en face de son ami, à l'autre coin de la cheminée ; et, sous la lumière immobile de la lampe, elle se mettait à tricoter des bas pour les petits pauvres, tandis que lui, les yeux fixés sur les tisons, ne faisait jamais rien, ne semblait vivre et mourir que d'une pensée, dans une stupeur croissante. Ils n'échangeaient sûrement pas vingt paroles en une journée, il l'avait arrêtée du geste, chaque fois que, sans le vouloir, elle qui allait et venait par la maison, laissait échapper quelque nouvelle du dehors ; de sorte que, désormais, il ne pénétrait plus rien là de la vie extérieure, et que rien n'était entré du siège de Paris, des défaites de la Loire, des quotidiennes douleurs de l'invasion. Mais, dans cette tombe volontaire, le colonel avait beau refuser la lumière du jour, se boucher les deux oreilles, tout l'effroyable désastre, tout le deuil mortel devait lui arriver par les fentes, avec l'air qu'il respirait ; car, d'heure en heure, il était comme empoisonné quand même, il se mourait davantage.
+
+Pendant ce temps, au très grand jour, lui, et dans son besoin de vivre, Delaherche s'agitait, tâchait de rouvrir sa fabrique. Il n'avait pu encore que remettre en marche quelques métiers, au milieu du désarroi des ouvriers et des clients. Alors, afin d'occuper ses tristes loisirs, il lui était venu une idée, celle de dresser un inventaire total de sa maison et d'y étudier certains perfectionnements, depuis longtemps rêvés. Justement, il avait sous la main, pour l'aider dans ce travail, un jeune homme, échoué chez lui à la suite de la bataille, le fils d'un de ses clients. Edmond Lagarde, grandi à Passy, dans la petite boutique de nouveautés de son père, sergent au 5e de ligne, à peine âgé de vingt-trois ans, et n'en paraissant guère que dix-huit, avait fait le coup de feu en héros, avec un tel acharnement, qu'il était rentré, le bras gauche cassé par une des dernières balles, vers cinq heures, à la porte du Ménil ; et Delaherche, depuis qu'on avait évacué les blessés de ses hangars, le gardait, par bonhomie. C\'était de la sorte qu'Edmond faisait partie de la famille, mangeant, couchant, vivant là, guéri à cette heure, servant de secrétaire au fabricant de drap, en attendant de pouvoir rentrer à Paris. Grâce à la protection de ce dernier, et sur sa formelle promesse de ne pas fuir, les autorités prussiennes le laissaient tranquille. Il était blond, avec des yeux bleus, joli comme une femme, d'ailleurs d'une timidité si délicate, qu'il rougissait au moindre mot. Sa mère l'avait élevé, s'était saignée, mettant à payer ses années de collège les bénéfices de leur étroit commerce. Et il adorait Paris, et il le regrettait passionnément devant Gilberte, ce Chérubin blessé, que la jeune femme avait soigné en camarade.
+
+Enfin, la maison se trouvait encore augmentée du nouvel hôte, M. de Gartlauben, capitaine de la landwehr, dont le régiment avait remplacé à Sedan les troupes actives. Malgré son grade modeste, c'était là un puissant personnage, car il avait pour oncle le gouverneur général installé à Reims, qui exerçait sur toute la région un pouvoir absolu. Lui aussi se piquait d'aimer Paris, de l'avoir habité, de n'en ignorer ni les politesses ni les raffinements ; et, en effet, il affectait toute une correction d'homme bien élevé, cachant sous ce vernis sa rudesse native. Toujours sanglé dans son uniforme, il était grand et gros, mentant sur son âge, désespéré de ses quarante-cinq ans. Avec plus d'intelligence, il aurait pu être terrible ; mais sa vanité outrée le mettait dans une continuelle satisfaction, car jamais il n'en venait à croire qu'on pouvait se moquer de lui.
+
+Plus tard, il fut pour Delaherche un véritable sauveur. Mais, dans les premiers temps, après la capitulation, quelles lamentables journées ! Sedan, envahi, peuplé de soldats allemands, tremblait, craignait le pillage. Puis, les troupes victorieuses refluèrent vers la vallée de la Seine, il ne resta qu'une garnison, et la ville tomba à une paix morte de nécropole : les maisons toujours closes, les boutiques fermées, les rues désertes dès le crépuscule, avec les pas lourds et les cris rauques des patrouilles. Aucun journal, aucune lettre n'arrivait plus. C\'était le cachot muré, la brusque amputation, dans l'ignorance et l'angoisse des désastres nouveaux dont on sentait l'approche. Pour comble de misère, la disette devenait menaçante. Un matin, on s'était réveillé sans pain, sans viande, le pays ruiné, comme mangé par un vol de sauterelles, depuis une semaine que des centaines de mille hommes y roulaient leur flot débordé. La ville ne possédait plus que pour deux jours de vivres, et l'on avait dû s'adresser à la Belgique, tout venait maintenant de la terre voisine, à travers la frontière ouverte, d\'où la douane avait disparu, emportée elle aussi dans la catastrophe. Enfin, c'étaient les vexations continuelles, la lutte qui recommençait chaque matin, entre la commandanture prussienne installée à la sous-préfecture, et le conseil municipal siégeant en permanence à l'hôtel de ville. Ce dernier, héroïque dans sa résistance administrative, avait beau discuter, ne céder que pied à pied, les habitants succombaient sous les exigences toujours croissantes, sous la fantaisie et la fréquence excessive des réquisitions.
+
+D'abord, Delaherche souffrit beaucoup des soldats et des officiers qu'il eut à loger. Toutes les nationalités défilaient chez lui, la pipe aux dents. Chaque jour, il tombait sur la ville, à l'improviste, deux mille hommes, trois mille hommes, des fantassins, des cavaliers, des artilleurs ; et, bien que ces hommes n'eussent droit qu'au toit et au feu, il fallait souvent courir, se procurer des provisions. Les chambres où ils séjournaient restaient d'une saleté repoussante. Souvent, les officiers rentraient ivres, se rendaient plus insupportables que leurs soldats. Pourtant, la discipline les tenait, si impérieuse, que les faits de violence et de pillage étaient rares. Dans tout Sedan, on ne citait que deux femmes outragées. Ce fut plus tard seulement, lorsque Paris résista, qu'ils firent sentir rudement leur domination, exaspérés de voir que la lutte s'éternisait, inquiets de l'attitude de la province, craignant toujours le soulèvement en masse, cette guerre de loups que leur avaient déclarée les francs-tireurs.
+
+Delaherche venait justement de loger un commandant de cuirassiers, qui couchait avec ses bottes, et qui, en partant, avait laissé de l'ordure jusque sur la cheminée, lorsque, dans la seconde quinzaine de septembre, le capitaine de Gartlauben tomba chez lui, un soir de pluie diluvienne. La première heure fut assez rude. Il parlait haut, exigeait la plus belle chambre, faisait sonner son sabre sur les marches de l'escalier. Mais, ayant aperçu Gilberte, il devint correct, s'enferma, passa d'un air raide, en saluant poliment. Il était très adulé, car on n'ignorait pas qu'un mot de lui au colonel, qui commandait à Sedan, suffisait pour faire adoucir une réquisition ou relâcher un homme. Récemment, son oncle, le gouverneur général, à Reims, avait lancé une proclamation froidement féroce, décrétant l'état de siège et punissant de la peine de mort toute personne qui servirait l'ennemi, soit comme espion, soit en égarant les troupes allemandes qu'elles seraient chargées de conduire, soit en détruisant les ponts et les canons, en endommageant les lignes télégraphiques et les chemins de fer. L\'ennemi, c'étaient les Français ; et le cœur des habitants bondissait, en lisant la grande affiche blanche, collée à la porte de la commandanture, qui leur faisait un crime de leur angoisse et de leurs vœux. Il était si dur déjà d'apprendre les nouvelles victoires des armées allemandes par les hourras de la garnison ! Chaque jour amenait ainsi son deuil, les soldats allumaient de grands feux, chantaient, se grisaient, la nuit entière, tandis que les habitants, forcés désormais de rentrer à neuf heures, écoutaient du fond de leurs maisons noires, éperdus d'incertitude, devinant un nouveau malheur. Ce fut même dans une de ces circonstances, vers le milieu d'octobre, que M. de Gartlauben fit, pour la première fois, preuve de quelque délicatesse. Depuis le matin, Sedan renaissait à l'espérance, le bruit courait d'un grand succès de l'armée de la Loire, en marche pour délivrer Paris. Mais, tant de fois déjà, les meilleures nouvelles s'étaient changées en messagères de désastres ! Et, dès le soir, en effet, on apprenait que l'armée bavaroise s'était emparée d'Orléans. Rue Maqua, dans une maison qui faisait face à la fabrique, des soldats braillèrent si fort, que le capitaine, ayant vu Gilberte très émue, alla les faire taire, en trouvant lui-même ce tapage déplacé.
+
+Le mois s'écoula, M. de Gartlauben fut encore amené à rendre quelques petits services. Les autorités prussiennes avaient réorganisé les services administratifs, on venait d'installer un sous-préfet allemand, ce qui n'empêchait pas d'ailleurs les vexations de continuer, bien que celui-ci se montrât relativement raisonnable. Dans les continuelles difficultés qui renaissaient entre la commandanture et le conseil municipal, une des plus fréquentes était la réquisition des voitures ; et toute une grosse affaire éclata, un matin que Delaherche n'avait pu envoyer, devant la sous-préfecture, sa calèche attelée de deux chevaux : le maire fut un moment arrêté, lui-même serait allé le rejoindre à la citadelle, sans M. de Gartlauben, qui apaisa, d'une simple démarche, cette grande colère. Un autre jour, son intervention fit accorder un sursis à la ville, condamnée à payer trente mille francs d'amende, pour la punir des prétendus retards apportés à la reconstruction du pont de Villette, un pont détruit par les Prussiens, toute une déplorable histoire qui ruina et bouleversa Sedan. Mais ce fut surtout après la reddition de Metz que Delaherche dut une véritable reconnaissance à son hôte. L\'affreuse nouvelle avait été pour les habitants comme un coup de foudre, l'anéantissement de leurs derniers espoirs ; et, dès la semaine suivante, des passages écrasants de troupes s'étaient de nouveau produits, le torrent d'hommes descendu de Metz, l'armée du prince Frédéric-Charles se dirigeant sur la Loire, celle du général Manteuffel marchant sur Amiens et sur Rouen, d'autres corps allant renforcer les assiégeants, autour de Paris. Pendant plusieurs jours, les maisons regorgèrent de soldats, les boulangeries et les boucheries furent balayées jusqu'à la dernière miette, jusqu'au dernier os, le pavé des rues garda une odeur de suint, comme après le passage des grands troupeaux migrateurs. Seule, la fabrique de la rue Maqua n'eut pas à souffrir de ce débordement de bétail humain, préservée par une main amie, désignée simplement pour héberger quelques chefs de bonne éducation.
+
+Aussi Delaherche finit-il par se départir de son attitude froide. Les familles bourgeoises s'étaient enfermées au fond de leurs appartements, évitant tout rapport avec les officiers qu'elles logeaient. Mais lui, agité de son continuel besoin de parler, de plaire, de jouir de la vie, souffrait beaucoup de ce rôle de vaincu boudeur. Sa grande maison silencieuse et glacée, où chacun vivait à part, dans une raideur de rancune, lui pesait terriblement aux épaules. Aussi commença-t-il, un jour, par arrêter M. de Gartlauben dans l'escalier, pour le remercier de ses services. Et, peu à peu, l'habitude fut prise, les deux hommes échangèrent quelques paroles, quand ils se rencontrèrent ; de sorte qu'un soir le capitaine prussien se trouva assis, dans le cabinet du fabricant, au coin de la cheminée où brûlaient d'énormes bûches de chêne, fumant un cigare, causant en ami des nouvelles récentes. Pendant les premiers quinze jours, Gilberte ne parut pas, il affecta d'ignorer son existence, bien qu'au moindre bruit il tournât vivement les yeux vers la porte de la chambre voisine. Il semblait vouloir faire oublier sa situation de vainqueur, se montrait d'esprit dégagé et large, plaisantait volontiers certaines réquisitions qui prêtaient à rire. Ainsi, un jour qu'on avait réquisitionné un cercueil et un bandage, ce bandage et ce cercueil l'amusèrent beaucoup. Pour le reste, le charbon de terre, l'huile, le lait, le sucre, le beurre, le pain, la viande, sans compter des vêtements, des poêles, des lampes, enfin tout ce qui se mange et tout ce qui sert à la vie quotidienne, il avait un haussement d'épaules : mon Dieu ! que voulez-vous ? c'était vexatoire sans doute, il convenait même qu'on demandait trop ; seulement, c'était la guerre, il fallait bien vivre en pays ennemi. Delaherche qu'irritaient ces réquisitions incessantes, gardait son franc-parler, les épluchait chaque soir, comme s'il eût examiné le livre de sa cuisine. Pourtant, ils n'eurent qu'une discussion vive, au sujet de la contribution d'un million, dont le préfet prussien de Rethel venait de frapper le département des Ardennes, sous le prétexte de compenser les pertes causées à l'Allemagne par les vaisseaux de guerre français et par l'expulsion des Allemands domiciliés en France. Dans la répartition, Sedan devait payer quarante-deux mille francs. Et il s'épuisa à faire comprendre à son hôte que cela était inique, que la situation de la ville se trouvait exceptionnelle, qu'elle avait déjà trop souffert pour être ainsi frappée. D'ailleurs, tous deux sortaient plus intimes de ces explications, lui enchanté de s'être étourdi du flot de sa parole, le Prussien content d'avoir fait preuve d'une urbanité toute parisienne.
+
+Un soir, de son air gai d'étourderie, Gilberte entra. Elle s'arrêta, en jouant la surprise. M. de Gartlauben s'était levé, et il eut la discrétion de se retirer presque tout de suite. Mais, le lendemain, il trouva Gilberte installée, il reprit sa place au coin du feu. Alors, commencèrent des soirées charmantes, que l'on passait dans ce cabinet de travail, et non dans le salon, ce qui établissait une distinction subtile. Même, plus tard, lorsque la jeune femme eut consenti à faire de la musique à son hôte, qui l'adorait, elle se rendait seule dans le salon voisin, en laissant simplement la porte ouverte. Par ce rude hiver, les vieux chênes des Ardennes brûlaient à grande flamme, au fond de la haute cheminée, on prenait vers dix heures une tasse de thé, on causait dans la bonne chaleur de la vaste pièce. Et M. de Gartlauben était visiblement tombé amoureux fou de cette jeune femme si rieuse, qui coquetait avec lui comme elle faisait autrefois, à Charleville, avec les amis du capitaine Beaudoin. Il se soignait davantage, se montrait d'une galanterie outrée, se contentait de la moindre faveur, tourmenté de l'unique souci de n'être pas pris pour un barbare, un soldat grossier violentant les femmes.
+
+Et la vie se trouva ainsi comme dédoublée, dans la vaste maison noire de la rue Maqua. Tandis qu'aux repas, Edmond, avec sa jolie figure de chérubin blessé, répondait par monosyllabes au bavardage ininterrompu de Delaherche, en rougissant dès que Gilberte le priait de lui passer le sel, tandis que le soir M. de Gartlauben, les yeux pâmés, assis dans le cabinet de travail, écoutait une sonate de Mozart que la jeune femme jouait pour lui au fond du salon, la pièce voisine où vivaient le colonel de Vineuil et Mme Delaherche restait silencieuse, les persiennes closes, la lampe éternellement allumée, ainsi qu'un tombeau éclairé par un cierge. Décembre avait enseveli la ville sous la neige, les nouvelles désespérées s'y étouffaient dans le grand froid. Après la défaite du général Ducrot à Champigny, après la perte d'Orléans, il ne restait plus qu'un sombre espoir, celui que la terre de France devînt la terre vengeresse, la terre exterminatrice, dévorant les vainqueurs. Que la neige tombât donc à flocons plus épais, que le sol se fendît sous les morsures de la gelée, pour que l'Allemagne entière y trouvât son tombeau ! Et une angoisse nouvelle serrait le cœur de Mme Delaherche. Une nuit que son fils était absent, appelé en Belgique par ses affaires, elle avait entendu, en passant devant la chambre de Gilberte, un léger bruit de voix, des baisers étouffés, mêlés de rires. Saisie, elle était rentrée chez elle, dans l'épouvante de l'abomination qu'elle soupçonnait : ce ne pouvait être que le Prussien qui se trouvait là, elle croyait bien avoir remarqué déjà des regards d'intelligence, elle restait écrasée sous cette honte dernière. Ah ! cette femme que son fils avait amenée malgré elle, dans la maison, cette femme de plaisir, à qui elle avait déjà pardonné une fois, en ne parlant pas, après la mort du capitaine Beaudoin ! Et cela recommençait, et c'était cette fois la pire infamie ! Qu'allait-elle faire ? une telle monstruosité ne pouvait continuer sous son toit. Le deuil de la réclusion où elle vivait en était accru, elle avait des journées d'affreux combat. Les jours où elle rentrait chez le colonel, plus sombre, muette pendant des heures, avec des larmes dans les yeux, il la regardait, il s'imaginait que la France venait de subir une défaite de plus.
+
+Ce fut à ce moment qu'Henriette tomba un matin rue Maqua, pour intéresser les Delaherche au sort de l'oncle Fouchard. Elle avait entendu parler avec des sourires de l'influence toute-puissante que Gilberte possédait sur M. de Gartlauben. Aussi resta-t-elle un peu gênée, devant Mme Delaherche, qu'elle rencontra la première, dans l'escalier, remontant chez le colonel, et à qui elle crut devoir expliquer le but de sa visite.
+
+« Oh ! madame, que vous seriez bonne d'intervenir !\... Mon oncle est dans une position terrible, on parle de l'envoyer en Allemagne. »
+
+La vieille dame, qui l'aimait pourtant, eut un geste de colère.
+
+« Mais, ma chère enfant, je n'ai aucun pouvoir\... Il ne faut pas s'adresser à moi\... »
+
+Puis, malgré l'émotion où elle la voyait :
+
+« Vous arrivez très mal, mon fils part ce soir pour Bruxelles\... D'ailleurs, il est comme moi, sans puissance aucune\... Adressez-vous donc à ma belle-fille, qui peut tout. »
+
+Et elle laissa Henriette interdite, convaincue maintenant qu'elle tombait dans un drame de famille. Depuis la veille, Mme Delaherche avait pris la résolution de tout dire à son fils, avant le départ de celui-ci pour la Belgique, où il allait traiter un achat important de houille, dans l'espoir de remettre en marche les métiers de sa fabrique. Jamais elle ne tolérerait que l'abomination recommençât, à côté d'elle, pendant cette nouvelle absence. Elle attendait donc pour parler d'être certaine qu'il ne renverrait pas son départ à un autre jour, comme il le faisait depuis une semaine. C\'était l'écroulement de la maison, le Prussien chassé, la femme elle aussi jetée à la rue, son nom affiché ignominieusement contre les murs, ainsi qu'on avait menacé de le faire, pour toute Française qui se livrerait à un Allemand.
+
+Lorsque Gilberte aperçut Henriette, elle poussa un cri de joie.
+
+« Ah ! que je suis heureuse de te voir !\... Il me semble qu'il y a si longtemps, et l'on vieillit si vite, au milieu de ces vilaines histoires ! »
+
+Elle l'avait entraînée dans sa chambre, elle la fit asseoir sur la chaise longue, se serra contre elle.
+
+« Voyons, tu vas déjeuner avec nous\... Mais, auparavant, causons. Tu dois avoir tant de choses à me dire !\... Je sais que tu es sans nouvelles de ton frère. Hein ? ce pauvre Maurice, comme je le plains, dans ce Paris sans gaz, sans bois, sans pain peut-être !\... Et ce garçon que tu soignes, l'ami de ton frère ? Tu vois qu'on m'a déjà fait des bavardages\... Est-ce que c'est pour lui que tu viens ? »
+
+Henriette tardait à répondre, prise d'un grand trouble intérieur. N'était-ce pas, au fond, pour Jean qu'elle venait, pour être certaine que, l'oncle relâché, on n'inquiéterait plus son cher malade ? Cela l'avait emplie de confusion, d'entendre Gilberte parler de lui, et elle n'osait plus dire le motif véritable de sa visite, la conscience désormais souffrante, répugnant à employer l'influence louche qu'elle lui croyait.
+
+« Alors, répéta Gilberte, d'un air de malignité, c'est pour ce garçon que tu as besoin de nous ? »
+
+Et, comme Henriette, acculée, parlait enfin de l'arrestation du père Fouchard :
+
+« Mais, c'est vrai ! suis-je assez sotte ! moi qui en causais encore ce matin !\... Oh ! ma chère, tu as bien fait de venir, il faut s'occuper de ton oncle tout de suite, parce que les derniers renseignements que j'ai eus ne sont pas bons. Ils veulent faire un exemple.
+
+--- Oui, j'ai songé à vous autres, continua Henriette d'une voix hésitante. J'ai pensé que tu me donnerais un bon conseil, que tu pourrais peut-être agir\... »
+
+La jeune femme eut un bel éclat de rire.
+
+« Es-tu bête, je vais faire relâcher ton oncle avant trois jours !\... On ne t'a donc pas dit que j'ai ici, dans la maison, un capitaine prussien qui fait tout ce que je veux ?\... Tu entends, ma chère, il n'a rien à me refuser ! »
+
+Et elle riait plus fort, simplement écervelée dans son triomphe de coquette, tenant les deux mains de son amie, qu'elle caressait, et qui ne trouvait pas de remerciements, pleine de malaise, tourmentée de la crainte que ce ne fût là un aveu. Quelle sérénité, quelle gaieté fraîche pourtant !
+
+« Laisse-moi faire, je te renverrai contente ce soir. »
+
+Lorsqu'on passa dans la salle à manger, Henriette resta surprise de la délicate beauté d'Edmond, qu'elle ne connaissait pas. Il la ravissait comme une jolie chose. Était-ce possible que ce garçon se fût battu et qu'on eût osé lui casser le bras ? La légende de sa grande bravoure achevait de le rendre charmant, et Delaherche, qui avait accueilli Henriette en homme heureux de voir une figure nouvelle, ne cessa, pendant qu'on servait des côtelettes et des pommes de terre en robe de chambre, de faire l'éloge de son secrétaire, aussi actif et bien élevé qu'il était beau. Le déjeuner, ainsi à quatre, dans la salle à manger bien chaude, prit le tour d'une intimité délicieuse.
+
+« Et c'est pour nous intéresser au sort du père Fouchard que vous êtes venue ? reprit le fabricant. Ça m'ennuie beaucoup d'être forcé de partir ce soir\... Mais ma femme va vous arranger ça, elle est irrésistible, elle obtient tout ce qu'elle veut. »
+
+Il riait, il disait ces choses avec une bonhomie parfaite, simplement flatté de ce pouvoir dont il tirait lui-même quelque orgueil. Puis, brusquement :
+
+« À propos, ma chère, Edmond ne t'a pas dit sa trouvaille ?
+
+--- Non, quelle trouvaille ? » demanda gaiement Gilberte, en tournant vers le jeune sergent ses jolis yeux de caresse.
+
+Mais celui-ci rougissait, comme sous l'excès du plaisir, chaque fois qu'une femme le regardait de la sorte.
+
+« Mon Dieu ! madame, il ne s'agit simplement que de la vieille dentelle, que vous regrettiez de ne pas avoir, pour garnir votre peignoir mauve\... J'ai eu hier la chance de découvrir cinq mètres d'ancien point de Bruges, vraiment très beau, et à bon compte. La marchande viendra vous les montrer tout à l'heure. »
+
+Elle fut ravie, elle l'aurait embrassé.
+
+« Oh ! que vous êtes gentil, je vous récompenserai ! »
+
+Puis, comme on servait encore une terrine de foie gras, achetée en Belgique, la conversation tourna, s'arrêta un instant au poisson de la Meuse qui mourait empoisonné, finit par tomber sur le danger de peste qui menaçait Sedan, au prochain dégel. En novembre, des cas d'épidémie s'étaient déjà déclarés. On avait eu beau, après la bataille, dépenser six mille francs pour balayer la ville, brûler en tas les sacs, les gibernes, tous les débris louches : les campagnes environnantes n'en soufflaient pas moins des odeurs nauséabondes, à la moindre humidité, tellement elles étaient gorgées de cadavres, à peine enfouis, mal recouverts de quelques centimètres de terre. Partout, des tombes bossuaient les champs, le sol se fendait sous la poussée intérieure, la putréfaction suintait et s'exhalait. Et l'on venait, les jours précédents, de découvrir un autre foyer d'infection, la Meuse, d'où l'on avait pourtant retiré déjà plus de douze cents corps de chevaux. L\'opinion générale était qu'il n'y restait plus un cadavre humain, lorsqu'un garde champêtre, en regardant avec attention, à plus de deux mètres de profondeur, avait aperçu sous l'eau des blancheurs, qu'on aurait pris pour des pierres : c'étaient des lits de cadavres, des corps éventrés que le ballonnement, rendu impossible, n'avait pu ramener à la surface. Depuis près de quatre mois, ils séjournaient là, dans cette eau, parmi les herbes. Les coups de croc ramenaient des bras, des jambes, des têtes. Rien que la force du courant détachait et emportait parfois une main. L\'eau se troublait, de grosses bulles de gaz montaient, crevaient à la surface, empestant l'air d'une odeur infecte.
+
+« Cela va bien qu'il gèle, fit remarquer Delaherche. Mais, dès que la neige disparaîtra, il va falloir procéder à des recherches, désinfecter tout ça, autrement nous y resterions tous. »
+
+Et, sa femme l'ayant supplié en riant de passer à des sujets plus propres, pendant qu'on mangeait, il conclut simplement :
+
+« Dame ! voilà le poisson de la Meuse compromis pour longtemps. »
+
+Mais on avait fini, on servait le café, quand la femme de chambre annonça que M. de Gartlauben demandait la faveur d'entrer un instant. Ce fut un émoi, car il n'était jamais venu à cette heure, en plein jour. Tout de suite, Delaherche avait dit de l'introduire, voyant là une circonstance heureuse qui allait permettre de lui présenter Henriette. Et le capitaine, lorsqu'il aperçut une autre jeune femme, outra encore sa politesse. Il accepta même une tasse de café, qu'il buvait sans sucre, comme il avait vu beaucoup de personnes le boire, à Paris. D'ailleurs, s'il avait insisté pour être reçu, c'était uniquement dans le désir d'apprendre tout de suite à madame qu'il venait d'obtenir la grâce d'un de ses protégés, un malheureux ouvrier de la fabrique, emprisonné à la suite d'une rixe avec un soldat prussien.
+
+Alors, Gilberte profita de l'occasion pour parler du père Fouchard.
+
+« Capitaine, je vous présente une de mes plus chères amies\... Elle désire se mettre sous votre protection, elle est la nièce du fermier qu'on a arrêté à Remilly, vous savez bien, à la suite de cette histoire de francs-tireurs.
+
+--- Ah ! oui, l'affaire de l'espion, le malheureux qu'on a trouvé dans un sac\... Oh ! c'est grave, très grave ! je crains bien de ne rien pouvoir.
+
+--- Capitaine, vous me feriez tant de plaisir ! »
+
+Elle le regardait de ses yeux de caresse, il eut une satisfaction béate, s'inclina d'un air de galante obéissance. Tout ce qu'elle voudrait !
+
+« Monsieur, je vous en serai bien reconnaissante », articula avec peine Henriette, prise d'un insurmontable malaise, à la pensée soudaine de son mari, de son pauvre Weiss, fusillé là-bas, à Bazeilles.
+
+Mais Edmond, qui s'en était allé discrètement, dès l'arrivée du capitaine, venait de reparaître, pour dire un mot à l'oreille de Gilberte. Elle se leva avec vivacité, conta l'histoire de la dentelle, que la marchande apportait ; et elle suivit le jeune homme, en s'excusant. Alors, restée seule en compagnie des deux hommes, Henriette put s'isoler, assise dans une embrasure de la fenêtre, tandis qu'ils continuaient de causer très haut.
+
+« Capitaine, vous accepterez bien un petit verre\... Voyez-vous, je ne me gêne pas, je vous dis tout ce que je pense, parce que je connais la largeur de votre esprit. Eh bien, je vous assure que votre préfet a tort de vouloir saigner encore la ville de ces quarante-deux mille francs\... Songez donc au total de nos sacrifices, depuis le commencement. D'abord, à la veille de la bataille, toute une armée française, épuisée, affamée. Ensuite, vous autres, qui aviez les dents longues aussi. Rien que les passages de ces troupes, les réquisitions, les réparations, les dépenses de toute sorte nous ont coûté un million et demi. Mettez-en autant pour les ruines occasionnées par la bataille, les destructions, les incendies : ça fait trois millions. Enfin, j'évalue bien à deux millions la perte éprouvée par l'industrie et le commerce\... Hein ? qu'est-ce que vous en dites ? nous voilà au chiffre de cinq millions, pour une ville de treize mille habitants ! Et vous nous demandez encore quarante-deux mille francs de contribution, je ne sais sous quel prétexte ! est-ce que c'est juste, est-ce que c'est raisonnable ? »
+
+M. de Gartlauben hochait la tête, se contentait de répondre :
+
+« Que voulez-vous ? c'est la guerre, c'est la guerre ! »
+
+Et l'attente se prolongeait, les oreilles d'Henriette bourdonnaient, toutes sortes de vagues et tristes pensées l'assoupissaient à demi, dans l'embrasure de la fenêtre, pendant que Delaherche donnait sa parole d'honneur que jamais Sedan n'aurait pu faire face à la crise, dans le manque total de numéraire, sans l'heureuse création d'une monnaie fiduciaire locale, du papier-monnaie de la Caisse du Crédit industriel, qui avait sauvé la ville d'un désastre financier.
+
+« Capitaine, vous reprendrez bien un petit verre de cognac. »
+
+Et il sauta à un autre sujet.
+
+« Ce n'est pas la France qui a fait la guerre, c'est l'Empire\... Ah ! l'empereur m'a bien trompé. Tout est fini avec lui, nous nous laisserions démembrer plutôt\... Tenez ! un seul homme a vu clair en juillet, oui ! M. Thiers, dont le voyage actuel, au travers des capitales de l'Europe, est encore un grand acte de sagesse et de patriotisme. Tous les vœux des gens raisonnables l'accompagnent, puisse-t-il réussir ! »
+
+D'un geste, il acheva sa pensée, car il eût jugé malséant, devant un Prussien, même sympathique, d'exprimer un désir de paix. Mais ce désir, il était ardemment en lui, comme au fond de toute l'ancienne bourgeoisie plébiscitaire et conservatrice. On allait être à bout de sang et d'argent, il fallait se rendre ; et une sourde rancune contre Paris qui s'entêtait dans sa résistance, montait de toutes les provinces occupées. Aussi conclut-il à voix basse, faisant allusion aux proclamations enflammées de Gambetta :
+
+« Non, non ! nous ne pouvons pas être avec les fous furieux. Ça devient du massacre\... Moi, je suis avec M. Thiers, qui veut les élections ; et, quant à leur République, mon Dieu ! ce n'est pas elle qui me gêne, on la gardera s'il le faut, en attendant mieux. »
+
+Très poliment, M. de Gartlauben continuait à hocher la tête d'un air d'approbation, en répétant :
+
+« Sans doute, sans doute\... »
+
+Henriette, dont le malaise avait grandi, ne put rester davantage. C\'était, en elle, une irritation sans cause précise, un besoin de ne plus être là ; et elle se leva doucement, elle sortit, à la recherche de Gilberte, qui se faisait si longtemps attendre.
+
+Mais, comme elle entrait dans la chambre à coucher, elle resta stupéfaite, en apercevant, étendue sur la chaise longue, son amie en larmes, bouleversée par une émotion extraordinaire.
+
+« Eh bien ! quoi donc ? que t'arrive-t-il ? »
+
+Les pleurs de la jeune femme redoublèrent, elle se refusait à parler, envahie maintenant d'une confusion qui lui jetait tout le sang de son cœur au visage. Et, enfin, balbutiante, se cachant dans les bras grands ouverts, tendus vers elle :
+
+« Oh ! ma chérie, si tu savais\... Jamais je n'oserais te dire\... Et pourtant je n'ai que toi, tu peux seule me donner peut-être un bon conseil\... »
+
+Elle eut un frémissement, elle bégaya davantage.
+
+« J'étais avec Edmond\... Alors, à l'instant, Mme Delaherche vient de me surprendre\...
+
+--- Comment, de te surprendre ?
+
+--- Oui, nous étions là, il me tenait, il m'embrassait\... »
+
+Et, baisant Henriette, la serrant dans ses bras tremblants, elle lui dit tout.
+
+« Oh ! ma chérie, ne me juge pas trop mal, ça me ferait tant de peine !\... Je sais bien, je t'avais juré que ça ne recommencerait jamais. Mais tu as vu Edmond, il est si brave, et il est si joli ! Puis, songe donc, ce pauvre jeune homme, blessé, malade, loin de sa mère ! Avec ça, il n'a jamais été riche, on a tout mangé chez lui, pour le faire instruire\... Je t'assure, je n'ai pas pu refuser. »
+
+Henriette l'écoutait, effarée, ne revenant pas de sa surprise.
+
+« Comment ! c'était avec le petit sergent !\... Mais, ma chère, tout le monde te croit la maîtresse du Prussien ! »
+
+Du coup, Gilberte se releva, s'essuya les yeux, protestant.
+
+« La maîtresse du Prussien\... Ah ! non, par exemple ! Il est affreux, il me répugne\... Pour qui me prend-on ? comment peut-on me croire capable d'une pareille infamie ? Non, non, jamais ! j'aimerais mieux mourir ! »
+
+Dans sa révolte, elle était devenue grave, d'une beauté douloureuse et irritée qui la transfigurait. Et, brusquement, sa gaieté coquette, son insoucieuse légèreté revinrent, au milieu d'un invincible rire.
+
+« Ça, c'est vrai, je m'amuse de lui. Il m'adore, et je n'ai qu'à le regarder, pour qu'il obéisse\... Si tu savais comme c'est drôle, de se moquer ainsi de ce gros homme, qui a toujours l'air de croire qu'on va enfin le récompenser !
+
+--- Mais c'est un jeu très dangereux, dit sérieusement Henriette.
+
+--- Crois-tu ? qu'est-ce que je risque ? Lorsqu'il s'apercevra qu'il ne doit compter sur rien, il ne pourra que se fâcher et s'en aller\... Et puis, non ! jamais il ne s'en apercevra ! Tu ne connais pas l'homme, il est de ceux avec lesquels les femmes vont aussi loin qu'elles veulent, sans danger. Pour ça, vois-tu, j'ai un sens qui m'a toujours avertie. Il a bien trop de vanité, jamais il n'admettra que je me sois moquée de lui\... Et tout ce que je lui permettrai, ce sera d'emporter mon souvenir, avec la consolation de se dire qu'il a agi correctement, en galant homme qui a longtemps habité Paris. »
+
+Elle s'égayait, elle ajouta :
+
+« En attendant, il va faire remettre en liberté l'oncle Fouchard, et il n'aura pour sa peine qu'une tasse de thé, sucrée de ma main. »
+
+Mais, tout d'un coup, elle revint à ses craintes, à l'effroi d'avoir été surprise. Des larmes reparurent au bord de ses paupières.
+
+« Mon Dieu ! et Mme Delaherche ?\... Que va-t-il se passer ? Elle ne m'aime guère, elle est capable de tout dire à mon mari. »
+
+Henriette avait fini par se remettre. Elle essuya les yeux de son amie, elle la força de réparer le désordre de ses vêtements.
+
+« Écoute, ma chère, je n'ai pas la force de te gronder, et pourtant tu sais si je te blâme ! Mais on m'avait fait une telle peur avec ton Prussien, j'ai redouté des choses si laides, que l'autre histoire, ma foi ! est un soulagement\... Calme-toi, tout peut s'arranger. »
+
+C\'était fort sage, d'autant plus que Delaherche, presque aussitôt, entra avec sa mère. Il expliqua qu'il venait d'envoyer chercher la voiture qui devait le conduire en Belgique, décidé à prendre le train pour Bruxelles, le soir même. Il voulait donc faire ses adieux à sa femme. Puis, se tournant vers Henriette :
+
+« Soyez tranquille, M. de Gartlauben, en me quittant, m'a promis de s'occuper de votre oncle ; et, quand je ne serai plus là, ma femme fera le reste. »
+
+Depuis que Mme Delaherche était entrée, Gilberte ne la quittait pas des yeux, le cœur serré d'angoisse. Allait-elle parler, dire ce qu'elle venait de voir, empêcher son fils de partir ? La vieille dame, silencieuse, avait, dès la porte, fixé, elle aussi, les regards sur sa belle-fille. Dans son rigorisme, elle éprouvait sans doute le soulagement qui avait rendu Henriette tolérante. Mon Dieu ! puisque c'était avec ce jeune homme, ce Français qui s'était battu si bravement, ne devait-elle pas pardonner, comme elle avait pardonné déjà pour le capitaine Beaudoin ? Ses yeux s'adoucirent, elle détourna la tête. Son fils pouvait s'absenter, Edmond protégerait Gilberte contre le Prussien. Elle eut même un faible sourire, elle qui ne s'était pas égayée depuis la bonne nouvelle de Coulmiers.
+
+« Au revoir, dit-elle en embrassant Delaherche. Fais tes affaires et reviens-nous vite. »
+
+Et elle s'en alla, elle rentra lentement, de l'autre côté du palier, dans la chambre murée, où le colonel, de son air de stupeur, regardait l'ombre, en dehors du pâle rond de clarté qui tombait de la lampe.
+
+Le soir même, Henriette retourna à Remilly ; et, trois jours plus tard, elle eut la joie de voir, un matin, le père Fouchard rentrer à la ferme tranquillement, comme s'il revenait à pied de conclure un marché dans le voisinage. Il s'assit, il mangea un morceau de pain, avec du fromage. Puis, à toutes les questions, il répondit sans hâte, de l'air d'un homme qui n'avait jamais eu peur. Pourquoi donc l'aurait-on retenu ? il n'avait rien fait de mal. Ce n'était pas lui qui avait tué le Prussien, n'est-ce pas ? Alors, il s'était contenté de dire aux autorités : « Cherchez, moi je ne sais rien. » Et il avait bien fallu le lâcher, ainsi que le maire, puisqu'on n'avait pas de preuves contre eux. Mais ses yeux de paysan rusé et goguenard luisaient, dans sa joie muette d'avoir roulé tous ces sales bougres, dont il commençait à avoir assez, à présent qu'ils le chicanaient sur la qualité de sa viande.
+
+Décembre s'acheva, Jean voulut partir. Maintenant, sa jambe était solide, le docteur déclarait qu'il pouvait aller se battre. Et ce fut, pour Henriette, une grande peine, qu'elle s'efforça de cacher. Depuis la désastreuse bataille de Champigny, aucune nouvelle de Paris ne leur était venue. Ils savaient simplement que le régiment de Maurice, exposé à un feu terrible, avait perdu beaucoup d'hommes. Puis, toujours ce grand silence, aucune lettre, jamais la moindre ligne pour eux, lorsqu'ils savaient que des familles de Raucourt et de Sedan avaient reçu des dépêches, par des voies détournées. Peut-être le pigeon qui portait les nouvelles si ardemment attendues, avait-il rencontré quelque épervier vorace ; ou peut-être était-il tombé, à la lisière d'un bois, traversé par la balle d'un Prussien. Mais, surtout, ce qui les hantait, c'était la crainte que Maurice ne fût mort. Ce silence de la grande ville, là-bas, muette sous l'étreinte de l'investissement, était devenu, dans l'angoisse de leur attente, un silence de tombe. Ils avaient perdu l'espoir de rien apprendre, et, lorsquan exprima sa volonté formelle de partir, Henriette n'eut que cette plainte sourde :
+
+« Mon Dieu ! c'est donc fini, je vais donc rester seule ! »
+
+Le désir de Jean était d'aller rejoindre l'armée du Nord, que le général Faidherbe venait de reconstituer. Depuis que le corps du général de Manteuffel avait poussé jusqu'à Dieppe, cette armée défendait trois départements séparés du reste de la France, le Nord, le Pas-de-Calais et la Somme ; et le projet de Jean, d'une exécution facile, était simplement de gagner Bouillon, puis de faire le tour par la Belgique. Il savait qu'on achevait de former le 23e corps, avec tous les anciens soldats de Sedan et de Metz qu'on pouvait rallier. Il entendait dire que le général Faidherbe reprenait l'offensive, et il fixa définitivement son départ au dimanche suivant, lorsqu'il apprit la bataille de Pont-Noyelle, cette bataille au résultat indécis, que les Français avaient failli gagner.
+
+Ce fut encore le docteur Dalichamp qui offrit de le conduire à Bouillon, dans son cabriolet. Il était d'un courage, d'une bonté inépuisables. À Raucourt, que ravageait le typhus, apporté par les Bavarois, il avait des malades dans toutes les maisons, en dehors des deux ambulances qu'il visitait, celle de Raucourt même et celle de Remilly. Son ardent patriotisme, son besoin de protester contre les inutiles violences, l'avaient deux fois fait arrêter puis relâcher par les Prussiens. Aussi riait-il d'un bon rire, le matin où il arriva avec sa voiture pour prendran, heureux de faire échapper un autre de ces vaincus de Sedan, tout ce pauvre et brave monde, comme il disait, qu'il soignait, qu'il aidait de sa bourse. Jean, qui souffrait de la question d'argent, sachant Henriette pauvre, avait accepté les cinquante francs que le docteur lui offrait pour son voyage.
+
+Le père Fouchard, pour les adieux, fit bien les choses. Il envoya Silvine chercher deux bouteilles de vin, il voulut que tout le monde bût un verre à l'extermination des Allemands. Lui, gros monsieur désormais, tenait son magot, caché quelque part ; et, tranquille depuis que les francs-tireurs des bois de Dieulet avaient disparu, traqués comme des fauves, il n'avait plus que le désir de jouir de la paix prochaine, lorsqu'elle serait conclue. Même, dans un accès de générosité, il venait de donner des gages à Prosper, pour l'attacher à la ferme, que le garçon, d'ailleurs, n'avait pas l'envie de quitter. Il trinqua avec Prosper, il voulut trinquer aussi avec Silvine, dont il avait eu un instant l'idée de faire sa femme, tant il la voyait sage, tout entière à sa besogne ; mais à quoi bon ? il sentait bien qu'elle ne se dérangerait plus, qu'elle serait encore là, lorsque Charlot, grandi, partirait comme soldat à son tour. Et, quand il eut trinqué avec le docteur, avec Henriette, avec Jean, il s'écria :
+
+« À la santé de tous ! que chacun fasse son affaire et ne se porte pas plus mal que moi ! »
+
+Henriette avait absolument voulu accompagner Jean jusqu'à Sedan. Il était en bourgeois, avec un paletot et un chapeau rond prêtés par le docteur. Ce jour-là, le soleil luisait sur la neige, par le grand froid terrible. On ne devait que traverser la ville ; mais, lorsquan sut que son colonel était toujours chez les Delaherche, une grande envie lui vint d'aller le saluer ; et, en même temps, il remercierait le fabricant de ses bontés. Ce fut sa dernière douleur, dans cette ville de désastre et de deuil. Comme ils arrivaient à la fabrique de la rue Maqua, une fin tragique y bouleversait la maison. Gilberte s'effarait, Mme Delaherche pleurait de grosses larmes silencieuses, tandis que son fils, remonté de ses ateliers, où le travail avait un peu repris, poussait des exclamations de surprise. On venait de trouver le colonel, sur le parquet de sa chambre, tombé comme une masse, mort. L\'éternelle lampe brûlait seule, dans la pièce close. Appelé en hâte, un médecin n'avait pas compris, ne découvrant aucune cause probable, ni anévrisme, ni congestion. Le colonel était mort, foudroyé, sans qu'on sût d'où était venue la foudre ; et, le lendemain seulement, on ramassa un morceau de vieux journal, qui avait servi de couverture à un livre, et où se trouvait le récit de la reddition de Metz.
+
+« Ma chère, dit Gilberte à Henriette, M. de Gartlauben, tout à l'heure, en descendant l'escalier, a ôté son chapeau devant la porte de la pièce où repose le corps de mon oncle\... C\'est Edmond qui l'a vu, et, n'est-ce pas ? c'est un homme décidément très bien. »
+
+Jamais encoran n'avait embrassé Henriette. Avant de remonter dans le cabriolet, avec le docteur, il voulut la remercier de ses bons soins, de l'avoir soigné et aimé comme un frère. Mais il ne trouva pas les mots, il ouvrit les bras, il l'embrassa en sanglotant. Elle était éperdue, elle lui rendit son baiser. Quand le cheval partit, il se retourna, leurs mains s'agitèrent, tandis qu'ils répétaient d'une voix bégayante :
+
+« Adieu ! adieu ! »
+
+Cette nuit-là, Henriette, rentrée à Remilly, était de service à l'ambulance. Pendant sa longue veille, elle fut encore prise d'une affreuse crise de larmes, et elle pleura, elle pleura infiniment, en étouffant sa peine entre ses deux mains jointes.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941930 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941499 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941068 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940637 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940206 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939775 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939344 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938913 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938482 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938051 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937620 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937189 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936758 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936327 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935896 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935465 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935034 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934603 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934172 .pcalibre .calibre2 .pcalibre1}[VII]{#_Toc368933741 .pcalibre .calibre2 .pcalibre1} {#vii .calibre59 .sigil_not_in_toc}
+
+
+Au lendemain de Sedan, les deux armées allemandes s'étaient remises à rouler leurs flots d'hommes vers Paris, l'armée de la Meuse arrivait au nord par la vallée de la Marne, tandis que l'armée du prince royal de Prusse, après avoir passé la Seine à Villeneuve-Saint-Georges, se dirigeait sur Versailles, en contournant la ville au sud. Et, ce tiède matin de septembre, quand le général Ducrot, auquel on avait confié le 14e corps, à peine formé, résolut d'attaquer cette dernière, pendant sa marche de flanc, Maurice qui campait dans les bois, à gauche de Meudon, avec son nouveau régiment, le 115e, ne reçut l'ordre de marcher que lorsque le désastre était déjà certain. Quelques obus avaient suffi, une effroyable panique s'était déclarée dans un bataillon de zouaves composé de recrues, le reste des troupes venait d'être emporté, au milieu d'une débandade telle, que ce galop de déroute ne s'arrêta que derrière les remparts, dans Paris, où l'alarme fut immense. Toutes les positions en avant des forts du sud étaient perdues ; et, le soir même, le dernier fil qui reliait la ville à la France, le télégraphe du chemin de fer de l'Ouest, fut coupé. Paris était séparé du monde.
+
+Ce fut, pour Maurice, une soirée d'affreuse tristesse. Si les Allemands avaient osé, ils auraient campé la nuit sur la place du Carrousel. Mais c'étaient des gens d'absolue prudence, résolus à un siège classique, ayant réglé déjà les points exacts de l'investissement, le cordon de l'armée de la Meuse au nord, de Croissy à la Marne, en passant par Épinay, l'autre cordon de la troisième armée au midi, de Chennevières à Châtillon et à Bougival, pendant que le grand quartier prussien, le roi Guillaume, M. de Bismarck et le général de Moltke régnaient à Versailles. Ce blocus géant, auquel on ne croyait pas, était un fait accompli. Cette ville, avec son enceinte bastionnée de huit lieues et demie de tour, avec ses quinze forts et ses six redoutes détachées, allait se trouver comme en prison. Et l'armée de défense ne comptait que le 13e corps, sauvé et ramené par le général Vinoy, le 14e en voie de formation, confié au général Ducrot, réunissant à eux deux un effectif de quatre-vingt mille soldats, auxquels il fallait ajouter les quatorze mille hommes de la marine, les quinze mille des corps francs, les cent quinze mille de la garde mobile, sans parler des trois cent mille gardes nationaux, répartis dans les neuf secteurs des remparts. S\'il y avait là tout un peuple, les soldats aguerris et disciplinés manquaient. On équipait les hommes, on les exerçait, Paris n'était plus qu'un immense camp retranché. Les préparatifs de défense s'enfiévraient d'heure en heure, les routes coupées, les maisons de la zone militaire rasées, les deux cents canons de gros calibre et les deux mille cinq cents autres pièces utilisées, d'autres canons fondus, tout un arsenal sortant du sol, sous le grand effort patriotique du ministre Dorian. Après la rupture des négociations de Ferrières, lorsque Jules Favre eut fait connaître les exigences de M. de Bismarck, la cession de l'Alsace, la garnison de Strasbourg prisonnière, trois milliards d'indemnité, un cri de colère s'éleva, la continuation de la guerre, la résistance fut acclamée, comme une condition indispensable à la vie de la France. Même sans espoir de vaincre, Paris devait se défendre, pour que la patrie vécût.
+
+Un dimanche de la fin septembre, Maurice fut envoyé en corvée, à l'autre bout de la ville, et les rues qu'il suivit, les places qu'il traversa, l'emplirent d'une nouvelle espérance. Depuis la déroute de Châtillon, il lui semblait que les cœurs s'étaient haussés pour la grande besogne. Ah ! ce Paris qu'il avait connu si âpre à jouir, si près des dernières fautes, il le retrouvait simple, d'une bravoure gaie, ayant accepté tous les sacrifices. On ne rencontrait que des uniformes, les plus désintéressés portaient un képi de garde national. Comme une horloge géante dont le ressort éclate, la vie sociale s'était arrêtée brusquement, l'industrie, le commerce, les affaires ; et il ne restait qu'une passion, la volonté de vaincre, l'unique sujet dont on parlait, qui enflammait les cœurs et les têtes, dans les réunions publiques, pendant les veillées des corps de garde, parmi les continuels attroupements de foule barrant les trottoirs. Ainsi mises en commun, les illusions emportaient les âmes, une tension jetait ce peuple au danger des folies généreuses. C\'était déjà toute une crise de nervosité maladive qui se déclarait, une épidémique fièvre exagérant la peur comme la confiance, lâchant la bête humaine débridée, au moindre souffle. Et Maurice assista, rue des Martyrs, à une scène qui le passionna : tout un assaut, une bande furieuse se ruant contre une maison dont on avait vu une des fenêtres hautes, la nuit entière, éclairée d'une vive clarté de lampe, un évident signal aux Prussiens de Bellevue, par-dessus Paris. Des bourgeois hantés vivaient sur leurs toits, pour surveiller les environs. La veille, on avait voulu noyer dans le bassin des Tuileries un misérable qui consultait un plan de la ville ouvert sur un banc.
+
+Cette maladie du soupçon, Maurice, autrefois d'esprit dégagé, venait de la contracter lui aussi, dans l'ébranlement de tout ce qu'il avait cru jusque-là. Il ne désespérait plus, comme au soir de la panique de Châtillon, anxieux de savoir si l'armée française retrouverait jamais la virilité de se battre : la sortie du 30 septembre sur l'Hay et Chevilly, celle du 13 octobre où les mobiles avaient enlevé Bagneux, enfin celle du 21 octobre, dans laquelle son régiment s'était emparé un instant du parc de la Malmaison, lui avaient rendu toute sa foi, cette flamme de l'espoir qu'une étincelle suffisait à rallumer et qui le consumait. Si les Prussiens l'avaient arrêtée sur tous les points, l'armée ne s'en était pas moins bravement battue, elle pouvait vaincre encore. Mais la souffrance de Maurice venait de ce grand Paris, qui sautait de l'illusion extrême au pire découragement, hanté par la peur de la trahison, dans son besoin de victoire. Est-ce qu'après l'empereur et le maréchal de Mac-Mahon, le général Trochu, le général Ducrot n'allaient pas être les chefs médiocres, les ouvriers inconscients de la défaite ? Le même mouvement qui avait emporté l'Empire, menaçait d'emporter le gouvernement de la Défense nationale, toute une impatience des violents à prendre le pouvoir, pour sauver la France. Déjà, Jules Favre et les autres membres étaient plus impopulaires que les anciens ministres tombés de Napoléon III. Puisqu'ils ne voulaient pas battre les Prussiens, ils n'avaient qu'à céder la place à d'autres, aux révolutionnaires certains de vaincre, en décrétant la levée en masse, en accueillant les inventeurs qui offraient de miner la banlieue ou d'anéantir l'ennemi sous une pluie nouvelle de feu grégeois.
+
+À la veille du 31 octobre, Maurice fut ainsi ravagé par ce mal de la défiance et du rêve. Il acceptait maintenant des imaginations dont il aurait souri autrefois. Pourquoi pas ? est-ce que l'imbécillité et le crime n'étaient pas sans bornes ? est-ce que le miracle ne devenait pas possible, au milieu des catastrophes qui bouleversaient le monde ? Il avait toute une longue rancune amassée, depuis l'heure où il avait appris Frœschwiller, là-bas, devant Mulhouse ; il saignait de Sedan, ainsi que d'une plaie vive, toujours irritée, que le moindre revers suffisait à rouvrir ; il gardait l\'ébranlement de chacune des défaites, le corps appauvri, la tête affaiblie par une si longue suite de jours sans pain, de nuits sans sommeil, jeté dans l'effarement de cette existence de cauchemars, ne sachant même plus s'il vivait ; et l'idée que tant de souffrances aboutiraient à une catastrophe nouvelle, irrémédiable, l'affolait, faisait de ce lettré un être d'instinct, retourné à l'enfance, sans cesse emporté par l'émotion du moment. Tout, la destruction, l'extermination plutôt que de donner un sou de la fortune, un pouce du territoire de la France ! En lui, s'achevait l'évolution qui, sous le coup des premières batailles perdues, avait détruit la légende napoléonienne, le bonapartisme sentimental qu'il devait aux récits épiques de son grand-père. Déjà même, il n'en était plus à la république théorique et sage, il versait dans les violences révolutionnaires, croyait à la nécessité de la terreur, pour balayer les incapables et les traîtres en train d'égorger la patrie. Aussi, le 31 octobre, fut-il de cœur avec les émeutiers, lorsque les nouvelles désastreuses se succédèrent coup sur coup : la perte du Bourget, si vaillamment conquis par les volontaires de la Presse, dans la nuit du 27 au 28 ; l'arrivée de M. Thiers à Versailles, de retour de son voyage au travers des capitales de l'Europe, d'où il revenait, disait-on, pour traiter au nom de Napoléon III ; enfin, la reddition de Metz, dont il apportait l'effroyable certitude, au milieu des bruits vagues qui couraient déjà, le dernier coup de massue, un autre Sedan, d'une honte plus grande. Et, le lendemain, quand il apprit les événements de l'Hôtel de Ville, les émeutiers vainqueurs un instant, les membres du gouvernement de la Défense nationale prisonniers jusqu'à quatre heures du matin, sauvés seulement alors par un revirement de la population, exaspérée contre eux d'abord, inquiète ensuite, à la pensée de l'insurrection victorieuse, il regretta cet avortement, cette Commune, d'où le salut serait venu peut-être, l'appel aux armes, la patrie en danger, tous les classiques souvenirs d'un peuple libre qui ne veut pas mourir. M. Thiers n'osa même pas entrer dans Paris, et l'on fut sur le point d'illuminer, après la rupture des négociations.
+
+Alors, le mois de novembre se passa dans une impatience fiévreuse. De petits combats eurent lieu, auxquels Maurice ne prit aucune part. Il bivouaquait maintenant du côté de Saint-Ouen, il s'échappait à chaque occasion, dévoré d'un continuel besoin de nouvelles. Comme lui, Paris attendait, anxieux. L\'élection des maires semblait avoir apaisé les passions politiques ; mais presque tous les élus appartenaient aux partis extrêmes, il y avait là, pour l'avenir, un symptôme redoutable. Et ce que Paris attendait, dans cette accalmie, c'était la grande sortie tant réclamée, la victoire, la délivrance. Cela, de nouveau, ne faisait aucun doute : on culbuterait les Prussiens, on leur passerait sur le ventre. Des préparatifs étaient faits dans la presqu'île de Gennevilliers, le point jugé le plus favorable pour une trouée. Puis, un matin, on eut la joie folle des bonnes nouvelles de Coulmiers, Orléans repris, l'armée de la Loire en marche, déjà campée à Étampes, disait-on. Tout fut changé, il ne s'agissait plus que d'aller lui donner la main, de l'autre côté de la Marne. On avait réorganisé les forces militaires, créé trois armées, l'une composée des bataillons de la garde nationale, sous les ordres du général Clément Thomas, l'autre formée des 13e et 14e corps, augmentée des meilleurs éléments pris un peu partout, que le général Ducrot devait conduire à la grande attaque, l'autre enfin, la troisième, l'armée de réserve, faite uniquement de garde mobile et confiée au général Vinoy. Et une foi absolue soulevait Maurice, quand, le 28 novembre, il vint coucher dans le bois de Vincennes, avec le 115e. Les trois corps de la deuxième armée étaient là, on racontait que le rendez-vous donné à l'armée de la Loire, était pour le lendemain, à Fontainebleau. Puis, tout de suite, ce furent les malchances, les fautes habituelles, une crue subite qui empêcha de jeter les ponts de bateaux, des ordres fâcheux qui attardèrent les mouvements. La nuit suivante, le 115e, un des premiers, passa la rivière ; et, dès dix heures, sous un feu effroyable, Maurice pénétra dans le village de Champigny. Il était comme fou, son chassepot lui brûlait les doigts, malgré le froid terrible. Son unique vouloir, depuis qu'il marchait, était d'aller ainsi en avant, toujours, jusqu'à ce qu'on eût rejoint les camarades de la province, là-bas. Mais, en face de Champigny et de Bry, l'armée venait de se heurter contre les murs des parcs de Cœuilly et de Villiers, des murs d'un demi-kilomètre, dont les Prussiens avaient fait des forteresses imprenables. C\'était la borne, où tous les courages échouèrent. Dès lors, il n'y eut plus qu'hésitation et recul, le 3e corps s'était attardé, le 1er et le 2e, immobilisés déjà, défendirent deux jours Champigny, qu'ils durent abandonner dans la nuit du 2 décembre, après leur stérile victoire. Cette nuit-là, toute l'armée revint camper sous les arbres du bois de Vincennes, blancs de givre ; et Maurice, les pieds morts, la face contre la terre glacée, pleura.
+
+Ah ! les mornes et tristes journées, après l'avortement de cet immense effort ! La grande sortie, préparée depuis si longtemps, la poussée irrésistible qui devait délivrer Paris, venait d'échouer ; et, trois jours plus tard, une lettre du général de Moltke annonçait que l'armée de la Loire, battue, avait de nouveau abandonné Orléans. C\'était le cercle qui se resserrait plus étroit, impossible désormais à rompre. Mais Paris, dans sa fièvre de désespoir, semblait trouver des forces nouvelles de résistance. Les menaces de famine commen-çaient. Dès le milieu d'octobre, on avait rationné la viande. En décembre, il ne restait pas une bête des grands troupeaux de bœufs et de moutons lâchés au travers du Bois de Boulogne, dans la poussière de leur piétinement continu, et l'on s'était mis à abattre les chevaux. Les provisions, plus tard les réquisitions de farine et de blé devaient donner quatre mois de pain. Quand les farines s'étaient épuisées, il avait fallu construire des moulins dans les gares. Le combustible aussi manquait, on le réservait pour moudre les grains, cuire le pain, fabriquer les armes. Et Paris, sans gaz, éclairé par de rares lampes à pétrole, Paris grelottant sous son manteau de glace, Paris à qui on rationnait son pain noir et sa viande de cheval, espérait quand même, parlait de Faidherbe au Nord, de Chanzy sur la Loire, de Bourbaki dans l'Est, comme si quelque prodige allait les amener victorieux sous les murs. Devant les boulangeries et les boucheries, les longues queues qui attendaient, dans la neige, s'égayaient encore parfois, à la nouvelle de grandes victoires imaginaires. Après l'abattement de chaque défaite, l'illusion tenace renaissait, flambait plus haute, parmi cette foule hallucinée de souffrance et de faim. Sur la place du Château-d'Eau, un soldat ayant parlé de se rendre, les passants avaient failli le massacrer. Tandis que l'armée, à bout de courage et sentant venir la fin, demandait la paix, la population réclamait encore la sortie en masse, la sortie torrentielle, le peuple entier, les femmes, les enfants eux-mêmes, se ruant sur les Prussiens, en un fleuve débordé qui renverse et emporte tout.
+
+Et Maurice s'isolait de ses camarades, avait une haine grandissante contre son métier de soldat, qui le parquait à l'abri du Mont-Valérien, oisif et inutile. Aussi faisait-il naître les occasions, s'échappant avec plus de hâte pour venir dans ce Paris, où était son cœur. Il ne se trouvait à l'aise qu'au milieu de la foule, il voulait se forcer à espérer comme elle. Souvent, il allait voir partir les ballons, qui, tous les deux jours, s'enlevaient de la gare du Nord, emportant des pigeons voyageurs et des dépêches. Dans le triste ciel d'hiver, les ballons montaient, disparaissaient ; et les cœurs se serraient d'angoisse, lorsque le vent les poussait vers l'Allemagne. Beaucoup devaient s'être perdus. Lui-même avait écrit deux fois à sa sœur Henriette, sans savoir si elle recevait ses lettres. Le souvenir de sa sœur, le souvenir de Jean, étaient si reculés, là-bas, au fond de ce vaste monde d'où rien n'arrivait plus, qu'il songeait rarement à eux, comme à des affections laissées dans une autre existence. Son être était trop plein de la continuelle tempête d'abattement et d'exaltation où il vivait. Puis, dès les premiers jours de janvier, ce fut une autre colère qui le souleva, celle du bombardement des quartiers de la rive gauche. Il avait fini par attribuer à des raisons d'humanité les retards des Prussiens, dus simplement à des difficultés d'installation. Maintenant qu'un obus avait tué deux petites filles au Val-de-Grâce, il était plein d'un mépris furieux contre ces barbares qui assassinaient les enfants, qui menaçaient de brûler les musées et les bibliothèques. D'ailleurs, après les premiers jours d'effroi, Paris reprenait sous les bombes sa vie d'héroïque entêtement.
+
+Depuis l'échec de Champigny, il n'y avait plus eu qu'une nouvelle tentative malheureuse, du côté du Bourget ; et, le soir où, sous le feu des grosses pièces battant les forts, le plateau d'Avron dut être évacué, Maurice partagea l'irritation dont la violence gagna toute la ville. Le souffle d'impopularité croissante qui menaçait d'emporter le général Trochu et le gouvernement de la Défense nationale, en fut accru, au point de les forcer à tenter un suprême et inutile effort. Pourquoi refusaient-ils de mener au feu les trois cent mille gardes nationaux, qui ne cessaient de s'offrir, de réclamer leur part au danger ? C\'était la sortie torrentielle qu'on exigeait depuis le premier jour, Paris rompant ses digues, noyant les Prussiens sous le flot colossal de son peuple. Il fallut bien céder à ce vœu de bravoure, malgré la certitude d'une nouvelle défaite ; mais, pour restreindre le massacre, on se contenta d'employer, avec l'armée active, les cinquante-neuf bataillons de la garde nationale mobilisée. Et, la veille du 19 janvier, ce fut comme une fête : une foule énorme, sur les boulevards et dans les Champs-Élysées, regarda défiler les régiments, qui, musique en tête, chantaient des chants patriotiques. Des enfants, des femmes les accompagnaient, des hommes montaient sur les bancs pour leur crier des souhaits enflammés de victoire. Puis, le lendemain, la population entière se porta vers l'Arc de Triomphe, une folie d'espoir l'envahit, lorsque, le matin, arriva la nouvelle de l'occupation de Montretout. Des récits épiques couraient sur l'élan irrésistible de la garde nationale, les Prussiens étaient culbutés, Versailles allait être pris avant le soir. Aussi quel effondrement, à la nuit tombante, quand l'échec inévitable fut connu ! Tandis que la colonne de gauche occupait Montretout, celle du centre, qui avait franchi le mur du parc de Buzenval, se brisait contre un second mur intérieur. Le dégel était venu, une petite pluie persistante avait détrempé les routes, et les canons, ces canons fondus à l'aide des souscriptions, dans lesquels Paris avait mis de son âme, ne purent arriver. À droite, la colonne du général Ducrot, engagée trop tard, restait en arrière. On était au bout de l'effort, le général Trochu dut donner l'ordre d'une retraite générale. On abandonna Montretout, on abandonna Saint-Cloud, que les Prussiens incendièrent. Et, dès que la nuit fut noire, il n'y eut plus, à l'horizon de Paris, que cet incendie immense.
+
+Cette fois, Maurice lui-même sentit que c'était la fin. Durant quatre heures, sous le terrible feu des retranchements prussiens, il était resté dans le parc de Buzenval, avec des gardes nationaux ; et, les jours suivants, quand il fut rentré, il exalta leur courage. La garde nationale s'était, en effet, bravement conduite. Dès lors, la défaite ne venait-elle pas forcément de l'imbécillité et de la trahison des chefs ? Rue de Rivoli, il rencontra des attroupements qui criaient : « À bas Trochu ! vive la Commune ! » C\'était le réveil de la passion révolutionnaire, une nouvelle poussée d'opinion, si inquiétante, que le gouvernement de la Défense nationale, pour ne pas être emporté, crut devoir forcer le général Trochu à se démettre, et le remplaça par le général Vinoy. Ce jour même, dans une réunion publique de Belleville, où il était entré, Maurice entendit réclamer de nouveau l'attaque en masse. L\'idée était folle, il le savait, et son cœur battit pourtant, devant cette obstination à vaincre. Quand tout est fini, ne reste-t-il pas à tenter le miracle ? La nuit entière, il rêva de prodiges.
+
+Huit longs jours encore s'écoulèrent. Paris agonisait, sans une plainte. Les boutiques ne s'ouvraient plus, les rares passants ne rencontraient plus de voitures, dans les rues désertes. On avait mangé quarante mille chevaux, on en était arrivé à payer très cher les chiens, les chats et les rats. Depuis que le blé manquait, le pain, fait de riz et d'avoine, était un pain noir, visqueux, d'une digestion difficile ; et, pour en obtenir les trois cents grammes du rationnement, les queues interminables, devant les boulangeries, devenaient mortelles. Ah ! ces douloureuses stations du siège, ces pauvres femmes grelottantes sous les averses, les pieds dans la boue glacée, toute la misère héroïque de la grande ville qui ne voulait pas se rendre ! La mortalité avait triplé, les théâtres étaient transformés en ambulances. Dès la nuit, les anciens quartiers luxueux tombaient à une paix morne, à des ténèbres profondes, pareils à des faubourgs de cité maudite, ravagée par la peste. Et, dans ce silence, dans cette obscurité, on n'entendait que le fracas continu du bombardement, on ne voyait que les éclairs des canons, qui embrasaient le ciel d'hiver.
+
+Tout d'un coup, le 28 janvier, Paris sut que, depuis l'avant-veille, Jules Favre traitait avec M. de Bismarck, pour obtenir un armistice ; et, en même temps, il apprenait qu'il n'y avait plus que dix jours de pain, à peine le temps de ravitailler la ville. C\'était la capitulation brutale qui s'imposait. Paris, morne, dans la stupeur de la vérité qu'on lui disait enfin, laissa faire. Ce même jour, à minuit, le dernier coup de canon fut tiré. Puis, le 29, lorsque les Allemands eurent occupé les forts, Maurice revint camper, avec le 115e, du côté de Montrouge, en dedans des fortifications. Et alors commença pour lui une existence vague, pleine de paresse et de fièvre. La discipline s'était fort relâchée, les soldats se débandaient, attendaient en flânant d'être renvoyés chez eux. Mais lui restait éperdu, d'une nervosité ombrageuse, d'une inquiétude qui se tournait en exaspération, au moindre heurt. Il lisait avidement les journaux révolutionnaires, et cet armistice de trois semaines, uniquement conclu pour permettre à la France de nommer une Assemblée qui déciderait de la paix, lui semblait un piège, une trahison dernière. Même si Paris se trouvait forcé de capituler, il était, avec Gambetta, pour la continuation de la guerre sur la Loire et dans le Nord. Le désastre de l'armée de l'Est, oubliée, forcée de passer en Suisse, l'enragea. Ensuite, ce furent les élections qui achevèrent de l'affoler : c'était bien ce qu'il avait prévu, la province poltronne, irritée de la résistance de Paris, voulant la paix quand même, ramenant la monarchie, sous les canons encore braqués des Prussiens. Après les premières séances de Bordeaux, Thiers, élu dans vingt-six départements, acclamé chef du pouvoir exécutif, devint à ses yeux le monstre, l'homme de tous les mensonges et de tous les crimes. Et il ne décoléra plus, cette paix conclue par une Assemblée monarchique lui paraissait le comble de la honte, il délirait à la seule idée des dures conditions, l'indemnité des cinq milliards, Metz livrée, l'Alsace abandonnée, l'or et le sang de la France coulant par cette plaie, ouverte à son flanc, inguérissable.
+
+Alors, dans les derniers jours de février, Maurice se décida à déserter. Un article du traité disait que les soldats campés à Paris seraient désarmés et renvoyés chez eux. Il n'attendit pas, il lui semblait que son cœur serait arraché, s'il quittait le pavé de ce Paris glorieux, que la faim seule avait pu réduire ; et il disparut, il loua, rue des Orties, en haut de la butte des Moulins, dans une maison à six étages, une étroite chambre meublée, une sorte de belvédère, d'où l'on voyait la mer sans bornes des toitures, depuis les Tuileries jusqu'à la Bastille. Un ancien camarade de la Faculté de droit lui avait prêté cent francs. D'ailleurs, dès qu'il fut installé, il se fit inscrire dans un bataillon de la garde nationale, et les trente sous de la paie devaient lui suffire. La pensée d'une existence tranquille, égoïste, en province, lui faisait horreur. Même les lettres qu'il recevait de sa sœur Henriette, à laquelle il avait écrit dès le lendemain de l'armistice, le fâchaient, avec leurs supplications, leur désir ardent de le voir venir se reposer à Remilly. Il refusait, il irait plus tard, lorsque les Prussiens ne seraient plus là.
+
+Et la vie de Maurice vagabonda, oisive, dans une fièvre grandissante. Il ne souffrait plus de la faim, il avait dévoré le premier pain blanc avec délices. Paris, alcoolisé, où n'avait manqué ni l'eau-de-vie ni le vin, vivait grassement à cette heure, tombait à une ivrognerie continue. Mais c'était la prison toujours, les portes gardées par les Allemands, une complication de forma-lités qui empêchait de sortir. La vie sociale n'avait pas repris, aucun travail, aucune affaire encore ; et il y avait là tout un peuple dans l'attente, ne faisant rien, finissant de se détraquer, au clair soleil du printemps naissant. Pendant le siège, au moins, le service militaire fatiguait les membres, occupait la tête ; tandis que, maintenant, la population avait glissé d'un coup à une vie d'absolue paresse, dans l'isolement où elle demeurait du monde entier. Lui, comme les autres, flânait du matin au soir, respirait l'air vicié par tous les germes de folie qui, depuis des mois, montaient de la foule. La liberté illimitée, dont on jouissait, achevait de tout détruire. Il lisait les journaux, fréquentait les réunions publiques, haussait parfois les épaules aux âneries trop fortes, rentrait quand même le cerveau hanté de violences, prêt aux actes désespérés, pour la défense de ce qu'il croyait être la vérité et la justice. Et, de sa petite chambre, d'où il dominait la ville, il faisait encore des rêves de victoire, il se disait qu'on pouvait sauver la France, sauver la République, tant que la paix ne serait pas signée.
+
+Le 1er mars, les Prussiens devaient entrer dans Paris, et un long cri d'exécration et de colère sortait de tous les cœurs. Maurice n'assistait plus à une réunion publique, sans entendre accuser l'Assemblée, Thiers, les hommes du 4 Septembre, de cette honte suprême, qu'ils n'avaient pas voulu épargner à la grande ville héroïque. Lui-même, un soir, s'emporta jusqu'à prendre la parole, pour crier que Paris entier devait aller mourir aux remparts, plutôt que de laisser pénétrer un seul Prussien. Dans cette population, détraquée par des mois d'angoisse et de famine, tombée désormais à une oisiveté pleine de cauchemars, ravagée de soupçons, devant les fantômes qu'elle se créait, l'insurrection poussait ainsi naturellement, s'organisait au plein jour. C\'était une de ces crises morales, qu'on a pu observer à la suite de tous les grands sièges, l'excès du patriotisme déçu, qui, après avoir vainement enflammé les âmes, se change en un aveugle besoin de vengeance et de destruction. Le Comité central, que les délégués de la garde nationale avaient élu, venait de protester contre toute tentative de désarmement. Une grande manifestation se produisit, sur la place de la Bastille, des drapeaux rouges, des discours de flamme, un concours immense de foule, le meurtre d'un misérable agent de police, lié sur une planche, jeté dans le canal, achevé à coups de pierre. Et, deux jours plus tard, dans la nuit du 26 février, Maurice, réveillé par le rappel et le tocsin, vit passer sur le boulevard des Batignolles des bandes d'hommes et de femmes qui traînaient des canons, s'attela lui-même à une pièce avec vingt autres, en entendant dire que le peuple était allé prendre ces canons, place Wagram, pour que l'Assemblée ne les livrât pas aux Prussiens. Il y en avait cent soixante-dix, les attelages manquaient, le peuple les tira avec des cordes, les poussa avec les poings, les monta jusqu'au sommet de Montmartre, dans un élan farouche de horde barbare qui sauve ses dieux. Lorsque, le 1er mars, les Prussiens durent se contenter d'occuper pendant un jour le quartier des Champs-Élysées, parqués dans des barrières, ainsi qu'un troupeau de vainqueurs inquiets, Paris lugubre ne bougea pas, les rues désertes, les maisons closes, la ville entière morte, voilée de l'immense crêpe de son deuil.
+
+
+Ah ! cette journée du 18 mars, de quelle exaltation décisive elle souleva Maurice ! Plus tard, il ne put se souvenir nettement de ce qu'il avait dit, de ce qu'il avait fait. D'abord, il se revoyait galopant, furieux de la surprise militaire qu'on avait tentée avant le jour, pour désarmer Paris, en reprenant les canons de Montmartre. Depuis deux jours, Thiers, arrivé de Bordeaux, méditait évidemment ce coup de force, afin que l'Assemblée pût sans crainte proclamer la monarchie, à Versailles. Puis, il se revoyait, à Montmartre même, vers neuf heures, enflammé par les récits de victoire qu'on lui faisait, l'arrivée furtive de la troupe, l'heureux retard des attelages qui avait permis aux gardes nationaux de prendre les armes, les soldats n'osant tirer sur les femmes et les enfants, mettant la crosse en l'air, fraternisant avec le peuple. Puis, il se revoyait courant Paris, comprenant dès midi que Paris appartenait à la Commune, sans même qu'il y eût de bataille : Thiers et les ministres en fuite du ministère des Affaires étrangères où ils s'étaient réunis, tout le gouvernement en déroute sur Versailles, les trente mille hommes de troupes emmenés à la hâte, laissant plus de cinq mille des leurs, au travers des rues. Puis, vers cinq heures et demie, à un angle du boulevard extérieur, il se revoyait au milieu d'un groupe de forcenés, écoutant sans indignation le récit abominable du meurtre des généraux Lecomte et Clément Thomas. Ah ! des généraux ! il se rappelait ceux de Sedan, des jouisseurs et des incapables ! un de plus, un de moins, ça n'importait guère ! Et le reste de la journée s'achevait dans la même exaltation, qui déformait pour lui toutes choses, une insurrection que les pavés eux-mêmes semblaient avoir voulue, grandie et d'un coup maîtresse dans la fatalité imprévue de son triomphe, livrant enfin à dix heures du soir l'Hôtel de Ville aux membres du Comité central, étonnés d'y être.
+
+Mais un souvenir, pourtant, restait très net dans la mémoire de Maurice : sa rencontre brusque avec Jean. Depuis trois jours, ce dernier se trouvait à Paris, où il était arrivé sans un sou, hâve encore, épuisé par la fièvre de deux mois qui l'avait retenu au fond d'un hôpital de Bruxelles ; et, tout de suite, ayant retrouvé un ancien capitaine du 106e, le capitaine Ravaud, il s'était fait engager dans la nouvelle compagnie du 124e, que celui-ci commandait. Il y avait repris ses galons de caporal, il venait, ce soir-là, de quitter justement la caserne du Prince-Eugène le dernier, avec son escouade, pour gagner la rive gauche, où toute l'armée avait reçu l'ordre de se concentrer, lorsque, sur le boulevard Saint-Martin, un flot de foule arrêta ses hommes. On criait, on parlait de les désarmer. Très calme, il répondait qu'on lui fichât la paix, que tout ça ne le regardait pas, qu'il voulait simplement obéir à sa consigne, sans faire de mal à personne. Mais il y eut un cri de surprise, Maurice qui s'était approché, se jetait à son cou, l'embrassait fraternellement.
+
+« Comment, c'est toi !\... Ma sœur m'a écrit\... Moi qui voulais, ce matin, aller te demander aux bureaux de la guerre ! »
+
+De grosses larmes de joie avaient troublé les yeux de Jean.
+
+« Ah ! mon pauvre petit, que je suis content de te revoir !\... Moi aussi, je t'ai cherché ; mais où aller te prendre, dans cette grande gueuse de ville ? »
+
+La foule grondait toujours, et Maurice se retourna.
+
+« Citoyens, laissez-moi donc leur parler ! Ce sont de braves gens, je réponds d'eux. »
+
+Il prit les deux mains de son ami, et à voix plus basse :
+
+« N'est-ce pas, tu restes avec nous ? »
+
+Le visage de Jean exprima une surprise profonde.
+
+« Avec vous, comment ça ? »
+
+Puis, un instant, il l'écouta s'irriter contre le gouvernement, contre l'armée, rappeler tout ce qu'on avait souffert, expliquer qu'on allait enfin être les maîtres, punir les incapables et les lâches, sauver la République. Et, à mesure qu'il s'efforçait de le comprendre, sa calme figure de paysan illettré s'assombrissait d'un chagrin croissant.
+
+« Ah ! non, non ! mon petit, je ne reste pas, si c'est pour cette belle besogne\... Mon capitaine m'a dit d'aller à Vaugirard, avec mes hommes, et j'y vais. Quand le tonnerre de Dieu y serait, j'irais tout de même. C\'est naturel, tu dois sentir ça. »
+
+Il s'était mis à rire, plein de simplicité. Il ajouta :
+
+« C\'est toi qui vas venir avec nous. »
+
+Mais, d'un geste de furieuse révolte, Maurice lui avait lâché les mains. Et tous deux restèrent quelques secondes face à face, l'un dans l'exaspération du coup de démence qui emportait Paris entier, ce mal venu de loin, des ferments mauvais du dernier règne, l'autre fort de son bon sens et de son ignorance, sain encore d'avoir poussé à part, dans la terre du travail et de l'épargne. Tous les deux étaient frères pourtant, un lien solide les attachait, et ce fut un arrachement, lorsque, soudain, une bousculade qui se produisit, les sépara.
+
+« Au revoir, Maurice !
+
+--- Au revoir, Jean ! »
+
+C\'était un régiment, le 79e, dont la masse compacte, débouchant d'une rue voisine, venait de rejeter la foule sur les trottoirs. Il y eut de nouveaux cris, mais on n'osa pas barrer la chaussée aux soldats, que les officiers entraînaient. Et la petite escouade du 124e ainsi dégagée, put suivre, sans être retenue davantage.
+
+« Au revoir, Jean !
+
+--- Au revoir, Maurice ! »
+
+De la main, ils se saluaient encore, cédant à la fatalité violente de cette séparation, restant quand même le cœur plein l'un de l'autre.
+
+Les jours suivants, Maurice oublia d'abord, au milieu des événements extraordinaires qui se précipitaient. Le 19, Paris s'était réveillé sans gouvernement, plus surpris qu'effrayé d'apprendre le coup de panique qui venait d'emporter à Versailles, pendant la nuit, l'armée, les services publics, les ministres ; et, comme le temps était superbe, par ce beau dimanche de mars, Paris descendit tranquillement dans les rues regarder les barricades. Une grande affiche blanche du Comité central, convoquant le peuple pour des élections communales, semblait très sage. On s'étonnait simplement de la voir signée par des noms profondément inconnus. À cette aube de la Commune, Paris était contre Versailles, dans la rancune de ce qu'il avait souffert et dans les soupçons qui le hantaient. C\'était, d'ailleurs, l'anarchie absolue, la lutte des maires et du Comité central, les inutiles efforts de conciliation tentés par les premiers, tandis que l'autre, peu sûr encore d'avoir pour lui toute la garde nationale fédérée, continuait à ne revendiquer modestement que les libertés municipales. Les coups de feu tirés contre la manifestation pacifique de la place Vendôme, les quelques victimes dont le sang avait rougi le pavé, jetèrent, au travers de la ville, le premier frisson de terreur. Et, pendant que l'insurrection triomphante s'emparait définitivement de tous les ministères et de toutes les administrations publiques, la colère et la peur étaient grandes à Versailles, le gouvernement se pressait de réunir des forces militaires suffisantes, pour repousser une attaque qu'il sentait prochaine. Les meilleures troupes des armées du Nord et de la Loire étaient appelées en hâte, une dizaine de jours avaient suffi pour réunir près de quatre-vingt mille hommes, et la confiance revenait si rapide, que, dès le 2 avril, deux divisions, ouvrant les hostilités enlevèrent aux fédérés Puteaux et Courbevoie.
+
+Ce fut le lendemain seulement que Maurice, parti avec son bataillon à la conquête de Versailles, revit se dresser, dans la fièvre de ses souvenirs, la figure triste de Jean, lui criant au revoir. L\'attaque des Versaillais avait stupéfié et indigné la garde nationale. Trois colonnes, une cinquantaine de mille hommes, s'étaient rués dès le matin, par Bougival et par Meudon, pour s'emparer de l'Assemblée monarchiste et de Thiers l'assassin. C\'était la sortie torrentielle, si ardemment exigée pendant le siège, et Maurice se demandait où il allait revoian, si ce n'était pas là-bas, parmi les morts du champ de bataille. Mais la déroute fut trop prompte, son bataillon atteignait à peine le plateau des Bergères, sur la route de Rueil, lorsque, tout d'un coup, des obus, lancés du Mont-Valérien, tombèrent dans les rangs. Il y eut une stupeur, les uns croyaient que le fort était occupé par des camarades, les autres racontaient que le commandant avait pris l'engagement de ne pas tirer. Et une terreur folle s'empara des hommes, les bataillons se débandèrent, rentrèrent au galop dans Paris, tandis que la tête de la colonne, prise par un mouvement tournant du général Vinoy, allait se faire massacrer dans Rueil.
+
+Alors, Maurice, échappé à la tuerie, tout frémissant de s'être battu, n'avait plus eu que de la haine contre ce prétendu gouvernement d'ordre et de légalité, qui, écrasé à chaque rencontre par les Prussiens, retrouvait seulement du courage pour vaincre Paris. Et les armées allemandes étaient encore là, de Saint-Denis à Charenton, assistant à ce beau spectacle de l'effondrement d'un peuple ! Aussi, dans la crise sombre de destruction qui l'envahissait, approuva-t-il les premières mesures violentes, la construction de barricades barrant les rues et les places, l'arrestation des otages, l'archevêque, des prêtres, d'anciens fonctionnaires. Déjà, de part et d'autre, les atrocités commençaient : Versailles fusillait les prisonniers, Paris décrétait que, pour la tête d'un de ses combattants, il ferait tomber trois têtes d\'otages ; et le peu de raison qui restait à Maurice, après tant de secousses et de ruines, s'en allait au vent de fureur soufflant de partout. La Commune lui apparaissait comme une vengeresse des hontes endurées, comme une libératrice apportant le fer qui ampute, le feu qui purifie. Cela n'était pas très clair dans son esprit, le lettré en lui évoquait simplement des souvenirs classiques, des villes libres et triomphantes, des fédérations de riches provinces imposant leur loi au monde. Si Paris l'emportait, il le voyait, dans une gloire, reconstituant une France de justice et de liberté, réorganisant une société nouvelle, après avoir balayé les débris pourris de l'ancienne. À la vérité, après les élections, les noms des membres de la Commune l'avaient un peu surpris par l'extraordinaire mélange de modérés, de révolutionnaires, de socialistes de toutes sectes, à qui la grande œuvre se trouvait confiée. Il connaissait plusieurs de ces hommes, il les jugeait d'une grande médiocrité. Les meilleurs n'allaient-ils pas se heurter, s'annihiler, dans la confusion des idées qu'ils représen-taient ? Mais, le jour où la Commune fut solennellement constituée, sur la place de l\'Hôtel-de-Ville, pendant que le canon tonnait et que les trophées de drapeaux rouges claquaient au vent, il avait voulu tout oublier, soulevé de nouveau par un espoir sans bornes. Et l'illusion recommençait, dans la crise aiguë du mal à son paroxysme, au milieu des mensonges des uns et de la foi exaltée des autres.
+
+Pendant tout le mois d'avril, Maurice fit le coup de feu, du côté de Neuilly. Le printemps hâtif fleurissait les lilas, on se battait au milieu de la verdure tendre des jardins ; et des gardes nationaux rentraient le soir avec des bouquets au bout de leur fusil. Maintenant, les troupes réunies à Versailles étaient si nombreuses, qu'on avait pu en former deux armées, l'une de première ligne, sous les ordres du maréchal de Mac-Mahon, l'autre de réserve, commandée par le général Vinoy. Quant à la Commune, elle avait pour elle près de cent mille gardes nationaux mobilisés et presque autant de sédentaires ; mais cinquante mille au plus se battaient réellement. Et, chaque jour, le plan d'attaque des Versaillais s'indiquait davantage : après Neuilly, ils avaient occupé le château de Bécon, puis Asnières, simplement pour resserrer la ligne de l'investissement ; car ils comptaient entrer par le Point-du-Jour, dès qu'ils pourraient y forcer le rempart, sous les feux convergents du Mont-Valérien et du fort d'Issy. Le Mont-Valérien était à eux, tous leurs efforts tendaient à s'emparer du fort d'Issy, qu'ils attaquaient, en utilisant les anciens travaux des Prussiens. Depuis le milieu d'avril, la fusillade, la canonnade ne cessaient plus. À Levallois, à Neuilly, c'était un combat incessant, un feu de tirailleurs de toutes les minutes, le jour et la nuit. De grosses pièces, montées sur des wagons blindés, évoluaient le long du chemin de fer de ceinture, tiraient sur Asnières, par-dessus Levallois. Mais à Vanves, à Issy surtout, le bombardement faisait rage, toutes les vitres de Paris en tremblaient, comme aux journées les plus rudes du siège. Et, le 9 mai, lorsque, après une première alerte, le fort d'Issy tomba définitivement aux mains de l'armée de Versailles, ce fut pour la Commune la défaite certaine, un coup de panique qui la jeta aux pires résolutions.
+
+
+Et, lorsque Maurice se jeta à ce rêve fou, ce fut par un sourd mécontentement contre la Commune elle-même. Il désespérait des hommes, il la sentait incapable, tiraillée par trop d'éléments contraires, s'exaspérant, devenant incohérente et imbécile, à mesure qu'elle était menacée davantage. De toutes les réformes sociales qu'elle avait promises, elle n'avait pu en réaliser une seule, et il était certain qu'elle ne laisserait derrière elle aucune œuvre durable. Mais son grand mal surtout venait des rivalités qui la déchiraient, du soupçon rongeur dans lequel vivait chacun de ses membres. Beaucoup déjà, les modérés, les inquiets, n'assistaient plus aux séances. Les autres agissaient sous le fouet des événements, tremblaient devant une dictature possible, en étaient à l'heure où les groupes des Assemblées révolutionnaires s'exterminent entre eux, pour sauver la patrie. Après Cluseret, après Dombrowski, Rossel allait devenir suspect. Delescluze, nommé délégué civil à la guerre, ne pouvait rien lui-même, malgré sa grande autorité. Et le grand effort social entrevu s'éparpillait, avortait ainsi, dans l'isolement qui s'élargissait d'heure en heure autour de ces hommes frappés d'impuissance, réduits aux coups de désespoir.
+
+Dans Paris, la terreur montait. Paris, irrité d'abord contre Versailles, frissonnant des souffrances du siège, se détachait maintenant de la Commune. L\'enrôlement forcé, le décret qui incorporait tous les hommes au-dessous de quarante ans, avait irrité les gens calmes et déterminé une fuite en masse : on s'en allait, par Saint-Denis, sous des déguisements, avec de faux papiers alsaciens, on descendait dans le fossé des fortifications, à l'aide de cordes et d'échelles, pendant les nuits noires. Depuis longtemps, les bourgeois riches étaient partis. Aucune fabrique, aucune usine n'avait rouvert ses portes. Pas de commerce, pas de travail, l'existence d'oisiveté continuait, dans l'attente anxieuse de l'inévitable dénouement. Et le peuple ne vivait toujours que de la solde des gardes nationaux, ces trente sous que payaient maintenant les millions réquisitionnés à la Banque, les trente sous pour lesquels beaucoup se battaient, une des causes au fond et la raison d'être de l'émeute. Des quartiers entiers s'étaient vidés, les boutiques closes, les façades mortes. Sous le grand soleil de l'admirable mois de mai, dans les rues désertes, on ne rencontrait plus que la pompe farouche des enterrements de fédérés, tués à l'ennemi, des convois sans prêtres, des corbillards couverts de drapeaux rouges, suivis de foules portant des bouquets d'immortelles. Les églises, fermées, se transformaient chaque soir en salles de club. Les seuls journaux révolutionnaires paraissaient, on avait supprimé tous les autres. C\'était Paris détruit, ce grand et malheureux Paris qui gardait, contre l'Assemblée, sa répulsion de capitale républicaine, et chez lequel grandissait à présent la terreur de la Commune, l'impatience d'en être délivré, au milieu des effrayantes histoires qui couraient, des arrestations quotidiennes d'otages, des tonneaux de poudre descendus dans les égouts, où, disait-on, veillaient des hommes avec des torches, attendant un signal.
+
+Maurice, alors, qui n'avait jamais bu, se trouva pris et comme noyé, dans le coup de l'ivresse générale. Il lui arrivait, maintenant, lorsqu'il était de service à quelque poste avancé, ou bien lorsqu'il passait la nuit au corps de garde, d'accepter un petit verre de cognac. S\'il en prenait un second, il s'exaltait, parmi les souffles d'alcool qui lui passaient sur la face. C\'était l'épidémie envahissante, la soûlerie chronique, léguée par le premier siège, aggravée par le second, cette population sans pain, ayant de l'eau-de-vie et du vin à pleins tonneaux, et qui s'était saturée, délirante désormais à la moindre goutte. Pour la première fois de sa vie, le 21 mai, un dimanche, Maurice rentra ivre, vers le soir, rue des Orties, où il couchait de temps à autre. Il avait passé la journée à Neuilly encore, faisant le coup de feu, buvant avec les camarades, dans l'espoir de combattre l'immense fatigue qui l'accablait. Puis, la tête perdue, à bout de force, il était venu se jeter sur le lit de sa petite chambre, ramené par l'instinct, car jamais il ne se rappela comment il était rentré. Et, le lendemain seulement, le soleil était déjà haut, lorsque des bruits de tocsins, de tambours et de clairons le réveillèrent. La veille, au Point-du-Jour, les Versaillais, trouvant une porte abandonnée, étaient entrés librement dans Paris.
+
+Dès qu'il fut descendu, habillé à la hâte, le fusil en bandoulière, un groupe effaré de camarades, rencontré à la mairie de l'arrondissement, lui conta les faits de la soirée et de la nuit, au milieu d'une confusion telle, qu'il lui fut d'abord difficile de comprendre. Depuis dix jours que le fort d'Issy et la grande batterie de Montretout, aidés par le Mont-Valérien, battaient le rempart, la porte de Saint-Cloud était devenue intenable ; et l'assaut allait être donné le lendemain, lorsqu'un passant, vers cinq heures, voyant que personne ne gardait plus la porte, avait simplement appelé du geste les gardes de tranchée, qui se trouvaient à peine à cinquante mètres. Sans attendre, deux compagnies du 37e de ligne étaient entrées. Puis, derrière elles, tout le 4e corps, commandé par le général Douay, avait suivi. Pendant la nuit entière, des troupes avaient coulé, d'un flot ininterrompu. À sept heures, la division Vergé descendait vers le pont de Grenelle et poussait jusqu'au Trocadéro. À neuf heures, le général Clinchant prenait Passy et la Muette. À trois heures du matin, le 1er corps campait dans le Bois de Boulogne ; tandis que, vers le même moment, la division Bruat passait la Seine, pour enlever la porte de Sèvres et faciliter l'entrée du 2e corps, qui, sous les ordres du général de Cissey, devait occuper le quartier de Grenelle, une heure plus tard. C\'était ainsi que, le 22 au matin, l'armée de Versailles était maîtresse du Trocadéro et de la Muette, sur la rive droite, de Grenelle, sur la rive gauche ; et cela, au milieu de la stupeur, de la colère et du désarroi de la Commune, criant déjà à la trahison, éperdue à l'idée de l'écrasement inévitable.
+
+Ce fut le premier sentiment de Maurice, quand il eut compris : la fin était venue, il n'y avait qu'à se faire tuer. Mais le tocsin sonnait à la volée, les tambours battaient plus fort, des femmes et jusqu'à des enfants travaillaient aux barricades, les rues s'emplissaient de la fièvre des bataillons, réunis à la hâte, courant à leur poste de combat. Et, dès midi, l'éternel espoir renaissait au cœur des soldats exaltés de la Commune, résolus à vaincre, en constatant que les Versaillais n'avaient presque pas bougé. Cette armée, qu'ils avaient craint de voir aux Tuileries en deux heures, opérait avec une prudence extraordinaire, instruite par ses défaites, exagérant la tactique que les Prussiens lui avaient si durement apprise. À l'Hôtel de Ville, le Comité de salut public et Delescluze, délégué à la guerre, organisaient, dirigeaient la défense. On racontait qu'ils avaient repoussé dédaigneusement une suprême tentative de conciliation. Cela enflammait les courages, le triomphe de Paris redevenait certain, de toutes parts la résistance allait être farouche, comme l'attaque devait être implacable, dans la haine grossie de mensonges et d'atrocités, qui brûlait au cœur des deux armées. Et, cette journée, Maurice la passa du côté du Champ de Mars et des Invalides, à se replier lentement, de rue en rue, en lâchant des coups de feu. Il n'avait pu retrouver son bataillon, il se battait avec des camarades inconnus, emmené par eux sur la rive gauche, sans même y avoir pris garde. Vers quatre heures, ils défendirent une barricade qui fermait la rue de l'Université, à sa sortie sur l\'Esplanade ; et ils ne l'abandonnèrent qu'au crépuscule, lorsqu'ils surent que la division Bruat, filant le long du quai, s'était emparée du Corps législatif. Ils avaient failli être pris, ils gagnèrent la rue de Lille à grand-peine, grâce à un large détour par la rue Saint-Dominique et la rue de Bellechasse. Quand la nuit tomba, l'armée de Versailles occupait une ligne qui partait de la porte de Vanves, passait par le Corps législatif, le palais de l'Élysée, l'église Saint-Augustin, la gare Saint-Lazare, et aboutissait à la porte d'Asnières.
+
+Le lendemain, le 23, un mardi printanier de clair et chaud soleil, fut pour Maurice le jour terrible. Les quelques centaines de fédérés, dont il faisait partie et où il y avait des hommes de plusieurs bataillons, tenaient encore tout le quartier, du quai à la rue Saint-Dominique. Mais la plupart avaient bivouaqué rue de Lille, dans les jardins des grands hôtels qui se trouvaient là. Lui-même s'était endormi profondément, sur une pelouse, à côté du palais de la Légion d\'honneur. Dès le matin, il croyait que les troupes débusqueraient du Corps législatif, pour les refouler derrière les fortes barricades de la rue du Bac. Les heures pourtant se passèrent, sans que l'attaque se produisît. On n'échangeait toujours que des balles perdues, d'un bout des rues à l'autre. C\'était le plan de Versailles qui se développait avec une lenteur prudente, la résolution bien arrêtée de ne pas se heurter de front à la formidable forteresse que les insurgés avaient faite de la terrasse des Tuileries, l'adoption d'un double cheminement, à gauche et à droite, le long des remparts, de manière à s'emparer d'abord de Montmartre et de l'Observatoire, pour se rabattre ensuite et prendre les quartiers du centre dans un immense coup de filet. Vers deux heures, Maurice entendit raconter que le drapeau tricolore flottait sur Montmartre : attaquée par trois corps d'armée à la fois, qui avaient lancé leurs bataillons sur la butte, au nord et à l'ouest, par les rues Lepic, des Saules et du Mont-Cenis, la grande batterie du Moulin de la Galette venait d'être prise ; et les vainqueurs refluaient sur Paris, emportaient la place Saint-Georges, Notre-Dame-de-Lorette, la mairie de la rue Drouot, le nouvel Opéra ; pendant que, sur la rive gauche, le mouvement de conversion, parti du cimetière Montparnasse, gagnait la place d\'Enfer et le Marché aux chevaux. Une stupeur, de la rage et de l'effroi accueillaient ces nouvelles, ces progrès si rapides de l'armée. Eh quoi ! Montmartre enlevé en deux heures, Montmartre, la citadelle glorieuse et imprenable de l'insurrection ! Maurice s'aperçut bien que les rangs s'éclaircissaient, des camarades tremblants filaient sans bruit, allaient se laver les mains, mettre une blouse, dans la terreur des représailles. Le bruit courait qu'on serait tourné par la Croix-Rouge, dont l'attaque se préparait. Déjà les barricades des rues Martignac et de Bellechasse étaient prises, on commençait à voir les pantalons rouges au bout de la rue de Lille. Et il ne resta bientôt que les convaincus, les acharnés, Maurice et une cinquantaine d'autres, décidés à mourir, après en avoir tué le plus possible, de ces Versaillais qui traitaient les fédérés en bandits, qui fusillaient les prisonniers en arrière de la ligne de bataille. Depuis la veille, l'exécrable haine avait grandi, c'était l\'extermination entre ces révoltés mourant pour leur rêve et cette armée toute fumante de passions réactionnaires, exaspérée d'avoir à se battre encore.
+
+Vers cinq heures, comme Maurice et les camarades se repliaient décidément derrière les barricades de la rue du Bac, descendant de porte en porte la rue de Lille, en tirant toujours, il vit tout d'un coup une grosse fumée noire sortir par une fenêtre ouverte du palais de la Légion d'honneur. C\'était le premier incendie allumé dans Paris ; et, sous le coup de furieuse démence qui l'emportait, il en eut une joie farouche. L\'heure avait sonné, que la ville entière flambât donc comme un bûcher immense, que le feu purifiât le monde ! Mais une apparition brusque l'étonna : cinq ou six hommes venaient de sortir précipitamment du palais, ayant à leur tête un grand gaillard, dans lequel il reconnut Chouteau, son ancien camarade d'escouade du 106e. Il l'avait aperçu déjà avec un képi galonné, après le 18 mars, il le retrouvait monté en grade, ayant des galons partout, attaché à l'état-major de quelque général qui ne se battait pas. Une histoire lui revint, qu'on lui avait contée : ce Chouteau installé au palais de la Légion d'honneur, vivant là en compagnie d'une maîtresse dans une bombance continuelle, s'allongeant avec ses bottes au milieu des grands lits somptueux, cassant les glaces à coups de revolver, pour rire. Même on assurait que sa maîtresse, sous le prétexte d'aller faire son marché aux Halles, partait chaque matin en voiture de gala, déménageant des ballots de linge volé, des pendules et jusqu'à des meubles. Et Maurice, à le voir courir avec ses hommes, tenant encore à la main un bidon de pétrole, éprouva un malaise, un doute affreux où il sentit vaciller toute sa foi. L\'œuvre terrible pouvait donc être mauvaise, qu'un tel homme en était l'ouvrier ?
+
+Des heures encore s'écoulèrent, il ne se battait plus que dans la détresse, ne retrouvant en lui, debout, que la sombre volonté de mourir. S\'il s'était trompé, qu'il payât au moins l'erreur de son sang ! La barricade qui fermait la rue de Lille, à la hauteur de la rue du Bac, était très forte, faite de sacs et de tonneaux de terre, précédée d'un fossé profond. Il la défendait avec une douzaine à peine d'autres fédérés, tous à demi couchés, tuant à coup sûr chaque soldat qui se montrait. Lui, jusqu'à la nuit tombante, ne bougea pas, épuisa ses cartouches, silencieux, dans l'entêtement de son désespoir. Il regardait grossir les grandes fumées du palais de la Légion d'honneur, que le vent rabattait au milieu de la rue, sans qu'on pût encore voir les flammes, sous le jour finissant. Un autre incendie avait éclaté dans un hôtel voisin. Et, brusquement, un camarade vint l'avertir que les soldats, n'osant prendre la barricade de front, étaient en train de cheminer à travers les jardins et les maisons, trouant les murs à coups de pioche. C\'était la fin, ils pouvaient déboucher là, d'un instant à l'autre. Et, en effet, un coup de feu plongeant étant parti d'une fenêtre, il revit Chouteau et ses hommes qui montaient frénétiquement, à droite et à gauche, dans les maisons d'angle, avec leur pétrole et des torches. Une demi-heure plus tard, sous le ciel devenu noir, tout le carrefour flambait ; pendant que lui, toujours couché derrière les tonneaux et les sacs, profitait de l'intense clarté pour abattre les soldats imprudents qui se risquaient dans l'enfilade de la rue, hors des portes.
+
+Combien de temps Maurice tira-t-il encore ? Il n'avait plus conscience du temps ni des lieux. Il pouvait être neuf heures, dix heures peut-être. L\'exécrable besogne qu'il faisait l'étouffait maintenant d'une nausée, ainsi qu'un vin immonde qui revient dans l'ivresse. Autour de lui, les maisons en flammes commençaient à l'envelopper d'une chaleur insupportable, d'un air brûlant d'asphyxie. Le carrefour, avec ses tas de pavés qui le fermaient, était devenu un camp retranché, défendu par les incendies, sous une pluie de tisons. N'étaient-ce pas les ordres ? incendier les quartiers en abandonnant les barricades, arrêter les troupes par une ligne dévorante de brasiers, brûler Paris à mesure qu'on le rendrait. Et, déjà, il sentait bien que les maisons de la rue du Bac ne brûlaient pas seules. Derrière son dos, il voyait le ciel s'embraser d'une immense lueur rouge, il entendait un grondement lointain, comme si toute la ville s'allumait. À droite, le long de la Seine, d'autres incendies géants devaient éclater. Depuis longtemps, il avait vu disparaître Chouteau, fuyant les balles. Les plus acharnés de ses camarades filaient eux-mêmes un à un, épouvantés par l'idée d'être tournés d'un moment à l'autre. Enfin, il restait seul, allongé entre deux sacs de terre, ne pensant qu'à tirer toujours, lorsque les soldats, qui avaient cheminé à travers les cours et les jardins, débouchèrent par une maison de la rue du Bac, et se rabattirent.
+
+Dans l'exaltation de cette lutte suprême, il y avait deux grands jours que Maurice n'avait pas songé an. Et Jean non plus, depuis qu'il était entré dans Paris avec son régiment, dont on avait renforcé la division Bruat, ne s'était pas, une seule minute, souvenu de Maurice. La veille, il avait fait le coup de feu au Champ de Mars et sur l'esplanade des Invalides. Puis, ce jour-là, il n'avait quitté la place du Palais-Bourbon que vers midi, pour enlever les barricades du quartier, jusqu'à la rue des Saints-Pères. Lui, si calme, s'était peu à peu exaspéré, dans cette guerre fratricide, au milieu de camarades dont l'ardent désir était de se reposer enfin, après tant de mois de fatigue. Les prisonniers, qu'on ramenait d'Allemagne et qu'on incorporait, ne dérageaient pas contre Paris ; et il y avait encore les récits des abominations de la Commune, qui le jetaient hors de lui, en blessant son respect de la propriété et son besoin d'ordre. Il était resté le fond même de la nation, le paysan sage, désireux de paix, pour qu'on recommençât à travailler, à gagner, à se refaire du sang. Mais surtout, dans cette colère grandissante, qui emportait jusqu'à ses plus tendres préoccupations, les incendies étaient venus l'affoler. Brûler les maisons, brûler les palais, parce qu'on n'était pas les plus forts, ah ça, non, par exemple ! Il n'y avait que des bandits capables d'un coup pareil. Et lui dont les exécutions sommaires, la veille, avaient serré le cœur, ne s'appartenait plus, farouche, les yeux hors de la tête, tapant, hurlant.
+
+Violemment, Jean déboucha dans la rue du Bac, avec les quelques hommes de son escouade. D'abord, il ne vit personne, il crut que la barricade venait d'être évacuée. Puis, là-bas, entre deux sacs de terre, il aperçut un communard qui remuait, qui épaulait, tirant encore dans la rue de Lille. Et ce fut sous la poussée furieuse du destin, il courut, il cloua l'homme sur la barricade, d'un coup de baïonnette.
+
+Maurice n'avait pas eu le temps de se retourner. Il jeta un cri, il releva la tête. Les incendies les éclairaient d'une aveuglante clarté.
+
+« Oh ! Jean, mon vieux Jean, est-ce toi ? »
+
+Mourir, il le voulait, il en avait l'enragée impatience. Mais mourir de la main de son frère, c'était trop, cela lui gâtait la mort, en l'empoisonnant d'une abominable amertume.
+
+« Est-ce donc toi, Jean, mon vieux Jean ? »
+
+Foudroyé, dégrisé, Jean le regardait. Ils étaient seuls, les autres soldats s'étaient déjà mis à la poursuite des fuyards. Autour d'eux, les incendies flambaient plus haut, les fenêtres vomissaient de grandes flammes rouges, tandis qu'on entendait, à l'intérieur, l'écroulement embrasé des plafonds. Ean s'abattit près de Maurice, sanglotant, le tâtant, tâchant de le soulever, pour voir s'il ne pourrait pas le sauver encore.
+
+« Oh ! mon petit, mon pauvre petit ! »
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA DÉBÂCLE]{lang="EN-GB"}
+
+Troisième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941931 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941500 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941069 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940638 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940207 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939776 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939345 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938914 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938483 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938052 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937621 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937190 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936759 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936328 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935897 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935466 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935035 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934604 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934173 .pcalibre .calibre2 .pcalibre1}[VIII]{#_Toc368933742 .pcalibre .calibre2 .pcalibre1} {#viii .calibre59 .sigil_not_in_toc}
+
+
+Lorsque le train qui arrivait de Sedan, après des retards sans nombre, finit par entrer dans la gare de Saint-Denis, vers neuf heures, une grande clarté rouge éclairait déjà le ciel, au sud, comme si tout Paris se fût embrasé. À mesure que la nuit s'était faite, cette lueur avait grandi ; et, peu à peu, elle gagnait l'horizon entier, ensanglantant un vol de petits nuages qui se noyaient, vers l'est, au fond des ténèbres accrues.
+
+Henriette, la première, sauta du wagon, inquiète de ces reflets d'incendie, que les voyageurs avaient aperçus, au travers des champs noirs, par les portières du train en marche. D'ailleurs, des soldats prussiens, qui venaient d'occuper militairement la gare, forçaient tout le monde à descendre, tandis que deux d'entre eux, sur le quai d'arrivée, criaient en un rauque français :
+
+« Paris brûle\... On ne va pas plus loin, tout le monde descend\... Paris brûle, Paris brûle\... »
+
+Ce fut, pour Henriette, une angoisse terrible. Mon Dieu ! arrivait-elle donc trop tard ? Maurice n'ayant pas répondu à ses deux dernières lettres, elle avait éprouvé de si mortelles inquiétudes, aux nouvelles de Paris, de plus en plus alarmantes, qu'elle s'était décidée brusquement à quitter Remilly. Depuis des mois, chez l'oncle Fouchard, elle s'attristait ; les troupes d'occupation, à mesure que Paris avait prolongé sa résistance, étaient devenues plus exigeantes et plus dures ; et, maintenant que les régiments, un à un, rentraient en Allemagne, de continuels passages épuisaient de nouveau les campagnes et les villes. Le matin, comme elle se levait au petit jour, pour aller prendre le chemin de fer à Sedan, elle avait vu la cour de la ferme pleine d'un flot de cavaliers, qui avaient dormi là, couchés pêle-mêle, enveloppés dans leurs manteaux. Ils étaient si nombreux, qu'ils couvraient la terre. Puis, à un brusque appel de clairon, tous s'étaient dressés, silencieux, drapés à longs plis, si serrés les uns contre les autres, qu'elle avait cru assister à la résurrection d'un champ de bataille, sous l'éclat des trompettes du jugement dernier. Et elle retrouvait encore des Prussiens à Saint-Denis, et c'étaient eux qui jetaient ce cri, qui la bouleversait :
+
+« Tout le monde descend, on ne va pas plus loin\... Paris brûle, Paris brûle\... »
+
+Éperdue, Henriette se précipita, avec sa petite valise, demanda des renseignements. On se battait depuis deux jours dans Paris, la ligne ferrée était coupée, les Prussiens restaient en observation. Mais elle voulait passer quand même, elle avisa sur le quai le capitaine qui commandait la compagnie occupant la gare, elle courut à lui.
+
+« Monsieur, je vais rejoindre mon frère dont je suis affreusement inquiète. Je vous en supplie, donnez-moi le moyen de continuer ma route. »
+
+Elle s'arrêta, surprise, en reconnaissant le capitaine, dont un bec de gaz venait d'éclairer le visage.
+
+« C\'est vous, Otto\... Oh ! soyez bon, puisque le hasard nous remet une fois encore face à face. »
+
+Otto Gunther, le cousin, était toujours serré correctement dans son uniforme de capitaine de la garde. Il avait son air sec de bel officier bien tenu. Et lui ne reconnaissait pas cette femme mince, l'air chétif, avec ses pâles cheveux blonds, son joli visage doux, cachés sous le crêpe de son chapeau. Ce fut seulement à la clarté grave et droite de ses yeux, qu'il finit par se souvenir. Il eut simplement un petit geste.
+
+« Vous savez que j'ai un frère soldat, continuait ardemment Henriette. Il est resté dans Paris, j'ai peur qu'il ne se soit mêlé à toute cette horrible lutte\... Je vous en supplie, Otto, donnez-moi le moyen de continuer ma route. »
+
+Alors, il se décida à parler.
+
+« Mais je vous assure que je ne puis rien\... Depuis hier, les trains ne circulent plus, je crois qu'on a enlevé des rails, du côté des remparts. Et je n'ai à ma disposition ni voiture, ni cheval, ni homme pour vous conduire. »
+
+Elle le regardait, elle ne bégayait plus que des plaintes sourdes, dans son chagrin de le trouver si froid, si résolu à ne pas lui venir en aide.
+
+« Oh ! mon Dieu, vous ne voulez rien faire\... Oh ! mon Dieu, à qui vais-je m'adresser ? »
+
+Ces Prussiens qui étaient les maîtres tout-puissants, qui, d'un mot auraient bouleversé la ville, réquisitionné cent voitures, fait sortir des écuries mille chevaux ! Et il refusait de son air hautain de vainqueur dont la loi était de ne jamais intervenir dans les affaires des vaincus, les jugeant sans doute malpropres, salissantes pour sa gloire toute fraîche.
+
+« Enfin, reprit Henriette, en tâchant de se calmer, vous savez au moins ce qui se passe, vous pouvez bien me le dire. »
+
+Il eut un sourire mince, à peine sensible.
+
+« Paris brûle\... Tenez ! venez par ici, on voit parfaitement. »
+
+Et il marcha devant elle, il sortit de la station, alla le long des rails pendant une centaine de pas, pour atteindre une passerelle de fer, construite en travers de la voie. Quand ils eurent gravi l'étroit escalier et qu'ils se trouvèrent en haut, appuyés à la rampe, l'immense plaine rase se déroula, par-dessus un talus.
+
+« Vous voyez, Paris brûle\... »
+
+Il pouvait être neuf heures et demie. La lueur rouge, qui incendiait le ciel, grandissait toujours. À l'est, le vol de petits nuages ensanglantés s'était perdu, il ne restait au zénith qu'un tas d'encre, où se reflétaient les flammes lointaines. Maintenant, toute la ligne de l'horizon était en feu ; mais, par endroits, on distinguait des foyers plus intenses, des gerbes d'un pourpre vif, dont le jaillissement continu rayait les ténèbres, au milieu des grandes fumées volantes. Et l'on aurait dit que les incendies marchaient, que quelque forêt géante s'allumait là-bas, d'arbre en arbre, que la terre elle-même allait flamber, embrasée par ce colossal bûcher de Paris.
+
+« Tenez ! expliqua Otto, c'est Montmartre, cette bosse que l'on voit se détacher en noir sur le fond rouge\... À gauche, à la Villette, à Belleville, rien ne brûle encore. Le feu a dû être mis dans les beaux quartiers, et ça gagne, ça gagne\... Regardez donc ! à droite, voilà un autre incendie qui se déclare ! On aperçoit les flammes, tout un bouillonnement de flammes, d'où monte une vapeur ardente\... Et d'autres, d'autres encore, partout ! »
+
+Il ne criait pas, il ne s'exaltait pas, et l'énormité de sa joie tranquille terrifiait Henriette. Ah ! ces Prussiens qui voyaient ça ! Elle le sentait insultant par son calme, par son demi-sourire, comme s'il avait prévu et attendu depuis longtemps ce désastre sans exemple. Enfin, Paris brûlait, Paris dont les obus allemands n'avaient pu qu'écorner les gouttières ! Toutes ses rancunes se trouvaient satisfaites, il semblait vengé de la longueur démesurée du siège, des froids terribles, des difficultés sans cesse renaissantes, dont l'Allemagne gardait encore l'irritation. Dans l'orgueil du triomphe, les provinces conquises, l'indemnité des cinq milliards, rien ne valait ce spectacle de Paris détruit, frappé de folie furieuse, s'incendiant lui-même et s'envolant en fumée, par cette claire nuit de printemps.
+
+« Ah ! c'était certain, ajouta-t-il à voix plus basse. De la grande besogne ! »
+
+Une douleur croissante serrait le cœur d'Henriette, à l'étouffer, devant l'immensité de la catastrophe. Pendant quelques minutes, son malheur personnel disparut, emporté dans cette expiation de tout un peuple. La pensée du feu dévorant des vies humaines, la vue de la ville embrasée à l'horizon, jetant la lueur d'enfer des capitales maudites et foudroyées, lui arrachaient des cris involontaires. Elle joignit les mains, elle demanda :
+
+« Qu'avons-nous donc fait, mon Dieu ! pour être punis de la sorte ? »
+
+Déjà, Otto levait le bras, dans un geste d'apostrophe. Il allait parler, avec la véhémence de ce froid et dur protestantisme militaire qui citait des versets de la Bible. Mais un regard sur la jeune femme, dont il venait de rencontrer les beaux yeux de clarté et de raison, l'arrêta. Et, d'ailleurs, son geste avait suffi, il avait dit sa haine de race, sa conviction d'être en France le justicier, envoyé par le Dieu des armées pour châtier un peuple pervers. Paris brûlait en punition de ses siècles de vie mauvaise, du long amas de ses crimes et de ses débauches. De nouveau, les Germains sauveraient le monde, balaieraient les dernières poussières de la corruption latine.
+
+Il laissa retomber son bras, il dit simplement :
+
+
+Tous deux se turent, un silence épouvanté régna. En effet, des crues subites de flammes montaient sans cesse, débordaient dans le ciel, en ruissellements de fournaise. À chaque minute, la mer de feu élargissait sa ligne d'infini, une houle incandescente d'où s'exhalaient maintenant des fumées qui amassaient, au-dessus de la ville, une immense nuée de cuivre sombre ; et un léger vent devait la pousser, elle s'en allait lentement à travers la nuit noire, barrant la voûte de son averse scélérate de cendre et de suie.
+
+Henriette eut un tressaillement, sembla sortir d'un cauchemar, et, reprise par l'angoisse où la jetait la pensée de son frère, elle se fit une dernière fois suppliante.
+
+« Alors, vous ne pouvez rien pour moi, vous refusez de m'aider à entrer dans Paris ? »
+
+D'un nouveau geste, Otto parut vouloir balayer l'horizon.
+
+« À quoi bon ? puisque, demain, il n'y aura plus là-bas que des décombres ! »
+
+Et ce fut tout, elle descendit de la passerelle, sans dire même un adieu, fuyant avec sa petite valise ; tandis que lui resta longtemps encore là-haut, immobile et mince, sanglé dans son uniforme, noyé de nuit, s'emplissant les yeux de la monstrueuse fête que lui donnait le spectacle de la Babylone en flammes.
+
+Comme Henriette sortait de la gare, elle eut la chance de tomber sur une grosse dame qui faisait marché avec un voiturier, pour qu'il la conduisît immédiatement à Paris, rue de Richelieu ; et elle la pria tant, avec des larmes si touchantes que celle-ci finit par consentir à l'emmener. Le voiturier, un petit homme noir, fouetta son cheval, n'ouvrit pas la bouche de tout le trajet. Mais la grosse dame ne tarissait pas, racontait comment, ayant quitté sa boutique l'avant-veille, après l'avoir fermée, elle avait eu le tort d'y laisser des valeurs, cachées dans un mur. Aussi, depuis deux heures que la ville flambait, n'était-elle plus obsédée que d'une idée unique, celle de retourner là-bas, de reprendre son bien, même au travers du feu. À la barrière, il n'y avait qu'un poste somnolent, la voiture passa sans trop de difficulté, d'autant plus que la dame mentait, racontait qu'elle était allée chercher sa nièce pour soigner, à elles deux, son mari blessé par les Versaillais. Les grands obstacles commencèrent dans les rues, des barricades barraient la chaussée à chaque instant, il fallait faire de continuels détours. Enfin, au boulevard Poissonnière, le voiturier déclara qu'il n'irait pas plus loin. Et les deux femmes durent continuer à pied, par la rue du Sentier, la rue deûneurs et tout le quartier de la Bourse. À mesure qu'elles s'étaient approchées des fortifications, le ciel incendié les avait éclairées d'une clarté de plein jour. Maintenant, elles étaient surprises du calme désert de cette partie de la ville, où ne parvenait que la palpitation d'un grondement lointain. Dès la Bourse, pourtant, des coups de feu leur arrivèrent, il leur fallut se glisser le long des maisons. Rue de Richelieu, quand elle eut retrouvé sa boutique intacte, ce fut la grosse dame, ravie, qui tint absolument à mettre sa compagne dans son chemin : rue du Hasard, rue Sainte-Anne, enfin rue des Orties. Des fédérés, dont le bataillon occupait encore la rue Sainte-Anne, voulurent un moment les empêcher de passer. Enfin, il était quatre heures, il faisait jour, lorsque Henriette, épuisée d'émotions et de fatigue, trouva grande ouverte la vieille maison de la rue des Orties. Et, après avoir monté l'étroit escalier sombre, elle dut prendre, derrière une porte, une échelle qui conduisait sur les toits.
+
+Maurice, à la barricade de la rue du Bac, entre les deux sacs de terre, avait pu se relever sur les genoux, et une espérance s'était emparée de Jean, qui croyait l'avoir cloué au sol.
+
+« Oh ! mon petit, est-ce que tu vis encore ? est-ce que j'aurai cette chance, sale brute que je suis ?\... Attends, laisse-moi voir. »
+
+Il examina la blessure avec précaution, à la clarté vive des incendies. La baïonnette avait traversé le bras, près de l'épaule droite ; et le pis était qu'elle avait pénétré ensuite entre deux côtes, intéressant sans doute le poumon. Pourtant, le blessé respirait sans trop de difficulté. Son bras seul pendait, inerte.
+
+« Mon pauvre vieux, ne te désespère donc pas ! Je suis content tout de même, j'aime mieux en finir\... Tu avais assez fait pour moi, car il y a longtemps, sans toi, que j'aurais crevé ainsi, au bord d'un chemin. »
+
+Mais, à l'entendre dire ces choses, Jean était repris d'une violente douleur.
+
+« Veux-tu te taire ! Tu m'as sauvé deux fois des pattes des Prussiens. Nous étions quittes, c'était à mon tour de donner ma vie, et je te massacre\... Ah ! tonnerre de Dieu ! j'étais donc soûl, que je ne t'ai pas reconnu, oui ! soûl comme un cochon, d'avoir déjà trop bu de sang ! »
+
+Des larmes avaient jailli de ses yeux, au souvenir de leur séparation, là-bas, à Remilly, lorsqu'ils s'étaient quittés en se demandant si l'on se reverrait un jour, et comment, dans quelles circonstances de douleur ou de joie. Ça ne servait donc à rien d'avoir passé ensemble des jours sans pain, des nuits sans sommeil, avec la mort toujours présente ? C\'était donc pour les amener à cette abomination, à ce fratricide monstrueux et imbécile, que leurs cœurs s'étaient fondus l'un dans l'autre, pendant ces quelques semaines d'héroïque vie commune ? Non, non ! il se révoltait.
+
+« Laisse-moi faire, mon petit, il faut que je te sauve. »
+
+D'abord, il devait l'emmener de là, car la troupe achevait les blessés. La chance voulait qu'ils fussent seuls, il s'agissait de ne pas perdre une minute. Vivement, à l'aide de son couteau, il fendit la manche, enleva ensuite l'uniforme entier. Du sang coulait, il se hâta de bander le bras solidement, avec des lambeaux arrachés de la doublure. Ensuite, il tamponna la plaie du torse, attacha le bras par-dessus. Il avait heureusement un bout de corde, il serra avec force ce pansement barbare, qui offrait l'avantage d'immobiliser tout le côté atteint et d'empêcher l'hémorragie.
+
+« Peux-tu marcher ?
+
+--- Oui, je crois. »
+
+Mais il n'osait l'emmener ainsi, en manches de chemise. Une brusque inspiration le fit courir dans une rue voisine, où il avait vu un soldat mort, et il revint avec une capote et un képi. Il lui jeta la capote sur les épaules, l'aida à passer son bras valide, dans la manche gauche. Puis, quand il l'eut coiffé du képi :
+
+« Là, tu es des nôtres\... Où allons-nous ? »
+
+C\'était le grand embarras. Tout de suite, dans son réveil d'espoir et de courage, l'angoisse revint. Où trouver un abri assez sûr ? les maisons étaient fouillées, on fusillait tous les communards pris les armes à la main. Et, d'ailleurs, ni l'un ni l'autre ne connaissait quelqu'un dans ce quartier, pas une âme à qui demander asile, pas une cachette où disparaître.
+
+« Le mieux encore, ce serait chez moi, dit Maurice. La maison est à l'écart, personne au monde n'y viendra\... Mais c'est de l'autre côté de l'eau, rue des Orties. »
+
+Jean, désespéré, irrésolu, mâchait de sourds jurons.
+
+« Nom de Dieu ! Comment faire ? »
+
+Il ne fallait pas songer à filer par le pont Royal, que les incendies éclairaient d'une éclatante lumière de plein soleil. À chaque instant, des coups de feu partaient des deux rives. D'ailleurs, on se serait heurté aux Tuileries en flammes, au Louvre barricadé, gardé, comme à une barrière infranchissable.
+
+« Alors, c'est foutu, pas moyen de passer ! » déclaran, qui avait habité Paris pendant six mois, au retour de la campagne d'Italie.
+
+Brusquement, une idée lui vint. S\'il y avait des barques, au bas du pont Royal, comme autrefois, on allait pouvoir tenter le coup. Ce serait très long, dangereux, pas commode ; mais on n'avait pas le choix, et il fallait se décider vite.
+
+« Écoute, mon petit, filons toujours d'ici, ce n'est pas sain\... Moi, je raconterai à mon lieutenant que des communards m'ont pris et que je me suis échappé. »
+
+Il l'avait saisi par son bras valide, il le soutint, l'aida à franchir le bout de la rue du Bac, au milieu des maisons qui flambaient maintenant de haut en bas, comme des torches démesurées. Une pluie de tisons ardents tombait sur eux, la chaleur était si intense, que tout le poil de leur face grillait. Puis, quand ils débouchèrent sur le quai, ils restèrent comme aveuglés un instant, sous l'effrayante clarté des incendies, brûlant en gerbes immenses, aux deux bords de la Seine.
+
+« Ce n'est pas les chandelles qui manquent », grognan, ennuyé de ce plein jour.
+
+Et il ne se sentit un peu en sûreté que lorsqu'il eut fait descendre à Maurice l'escalier de la berge, à gauche du pont Royal, en aval. Là, sous le bouquet de grands arbres, au bord de l'eau, ils étaient cachés. Pendant près d'un quart d'heure, des ombres noires qui s'agitaient en face, sur l'autre quai, les inquiétèrent. Il y eut des coups de feu, on entendit un grand cri, puis un plongeon, avec un brusque rejaillissement d'écume. Le pont était évidemment gardé.
+
+« Si nous passions la nuit dans cette baraque ? demanda Maurice, en montrant un bureau en planches de la navigation.
+
+--- Ah ! ouiche ! pour être pincés demain matin ! »
+
+Jean avait toujours son idée. Il venait bien de trouver là toute une flottille de petites barques. Mais elles étaient enchaînées, comment en détacher une, dégager les rames ? Enfin, il découvrit une vieille paire de rames, il put forcer un cadenas, mal fermé sans doute ; et, tout de suite, lorsqu'il eut couché Maurice à l'avant du canot, il s'abandonna avec prudence au fil du courant, longeant le bord, dans l'ombre des bains froids et des péniches. Ni l'un ni l'autre ne parlaient plus, épouvantés de l'exécrable spectacle qui se déroulait. À mesure qu'ils descendaient la rivière, l'horreur semblait grandir, dans le recul de l'horizon. Quand ils furent au pont de Solférino, ils virent d'un regard les deux quais en flammes.
+
+À gauche, c'étaient les Tuileries qui brûlaient. Dès la tombée de la nuit, les communards avaient mis le feu aux deux bouts du palais, au pavillon de Flore et au pavillon de Marsan ; et, rapidement, le feu gagnait le pavillon de l'Horloge, au centre, où était préparée toute une mine, des tonneaux de poudre entassés dans la salle des Maréchaux. En ce moment, les bâtiments intermédiaires jetaient, par leurs fenêtres crevées, des tourbillons de fumée rousse que traversaient de longues flammèches bleues. Les toits s'embrasaient, gercés de lézardes ardentes, s'entrouvrant, comme une terre volcanique, sous la poussée du brasier intérieur. Mais, surtout, le pavillon de Flore, allumé le premier, flambait, du rez-de-chaussée aux vastes combles, dans un ronflement formidable. Le pétrole, dont on avait enduit le parquet et les tentures, donnait aux flammes une intensité telle, qu'on voyait les fers des balcons se tordre et que les hautes cheminées monumentales éclataient, avec leurs grands soleils sculptés, d'un rouge de braise.
+
+Puis, à droite, c'était d'abord le palais de la Légion d'honneur, incendié à cinq heures du soir, qui brûlait depuis près de sept heures, et qui se consumait en une large flambée de bûcher dont tout le bois s'achèverait d'un coup. Ensuite c'était le palais du Conseil d\'État, l'incendie immense, le plus énorme, le plus effroyable, le cube de pierre géant aux deux étages de portiques, vomissant des flammes. Les quatre bâtiments, qui entouraient la grande cour intérieure, avaient pris feu à la fois ; et, là, le pétrole, versé à pleines tonnes dans les quatre escaliers, aux quatre angles, avait ruisselé, roulant le long des marches des torrents de l'enfer. Sur la façade du bord de l'eau, la ligne nette de l'attique se détachait en une rampe noircie, au milieu des langues rouges qui en léchaient les bords ; tandis que les colonnades, les entablements, les frises, les sculptures apparaissaient avec une puissance de relief extraordinaire, dans un aveuglant reflet de fournaise. Il y avait surtout là un branle, une force du feu si terrible, que le colossal monument en était comme soulevé, tremblant et grondant sur ses fondations, ne gardant que la carcasse de ses murs épais, sous cette violence d'éruption qui projetait au ciel le zinc de ses toitures. Ensuite, c'était, à côté, la caserne d'Orsay dont tout un pan brûlait, en une colonne haute et blanche, pareille à une tour de lumière. Et c'était enfin, derrière, d'autres incendies encore, les sept maisons de la rue du Bac, les vingt-deux maisons de la rue de Lille, embrasant l'horizon, détachant les flammes sur d'autres flammes, en une mer sanglante et sans fin.
+
+Jean, étranglé, murmura :
+
+« Ce n'est pas Dieu possible ! la rivière va prendre feu. »
+
+La barque, en effet, semblait portée par un fleuve de braise. Sous les reflets dansants de ces foyers immenses, on aurait cru que la Seine roulait des charbons ardents. De brusques éclairs rouges y couraient, dans un grand froissement de tisons jaunes. Et ils descendaient toujours lentement, au fil de cette eau incendiée, entre les palais en flammes, ainsi que dans une rue démesurée de ville maudite, brûlant aux deux bords d'une chaussée de lave en fusion.
+
+« Ah ! dit à son tour Maurice, repris de folie devant cette destruction qu'il avait voulue, que tout flambe donc et que tout saute ! »
+
+Mais, d'un geste terrifié, Jean le fit taire, comme s'il avait craint qu'un tel blasphème ne leur portât malheur. Était-ce possible qu'un garçon qu'il aimait tant, si instruit, si délicat, en fût arrivé à des idées pareilles ? Et il ramait plus fort, car il avait dépassé le pont de Solférino, il se trouvait maintenant dans un large espace découvert. La clarté devenait telle, que la rivière était éclairée comme par le soleil de midi, tombant d'aplomb, sans une ombre. On distinguait les moindres détails avec une précision singulière, les moires du courant, les tas de graviers des berges, les petits arbres des quais. Surtout, les ponts apparaissaient, d'une blancheur éclatante, si nets, qu'on en aurait compté les pierres ; et l'on aurait dit, d'un incendie à l'autre, de minces passerelles intactes, au-dessus de cette eau braisillante. Par moments, au milieu de la clameur grondante et continue, de brusques craquements se faisaient entendre. Des rafales de suie tombaient, le vent apportait des odeurs empestées. Et l'épouvantement, c'était que Paris, les autres quartiers lointains, là-bas, au fond de la trouée de la Seine, n'existaient plus. À droite, à gauche, la violence des incendies éblouissait, creusait au-delà un abîme noir. On ne voyait plus qu'une énormité ténébreuse, un néant, comme si Paris tout entier, gagné par le feu, fût dévoré, eût déjà disparu dans une éternelle nuit. Et le ciel aussi était mort, les flammes montaient si haut, qu'elles éteignaient les étoiles.
+
+Maurice, que le délire de la fièvre soulevait, eut un rire de fou.
+
+« Une belle fête au Conseil d'État et aux Tuileries\... On a illuminé les façades, les lustres étincellent, les femmes dansent\... Ah ! dansez, dansez donc, dans vos cotillons qui fument, avec vos chignons qui flamboient\... »
+
+De son bras valide, il évoquait les galas de Gomorrhe et de Sodome, les musiques, les fleurs, les jouissances monstrueuses, les palais crevant de telles débauches, éclairant l'abomination des nudités d'un tel luxe de bougies, qu'ils s'étaient incendiés eux-mêmes. Soudain, il y eut un fracas épouvantable. C\'était, aux Tuileries, le feu, venu des deux bouts, qui atteignait la salle des Maréchaux. Les tonneaux de poudre s\'enflammaient, le pavillon de l'Horloge sautait, avec une violence de poudrière. Une gerbe immense monta, un panache qui emplit le ciel noir, le bouquet flamboyant de l'effroyable fête.
+
+
+Jean, bégayant, le supplia de nouveau, en phrases éperdues. Non, non ! il ne fallait point vouloir le mal ! Si c'était la destruction de tout, eux-mêmes allaient donc périr ? Et il n'avait plus qu'une hâte, aborder, échapper au terrible spectacle. Pourtant, il eut la prudence de dépasser encore le pont de la Concorde, de façon à ne débarquer que sur la berge du quai de la Conférence, après le coude de la Seine. Et, à ce moment critique, au lieu de laisser aller le canot, il perdit quelques minutes à l'amarrer solidement, dans son respect instinctif du bien des autres. Son plan était de gagner la rue des Orties, par la place de la Concorde et la rue Saint-Honoré. Après avoir fait asseoir Maurice sur la berge, il monta seul l'escalier du quai, il fut repris d'inquiétude, en comprenant quelle peine ils auraient à franchir les obstacles entassés là. C\'était l'imprenable forteresse de la Commune, la terrasse des Tuileries armée de canons, les rues Royale, Saint-Florentin et de Rivoli barrées par de hautes barricades, solidement construites ; et cela expliquait la tactique de l'armée de Versailles, dont les lignes, cette nuit-là, formaient un immense angle rentrant, le sommet à la place de la Concorde, les deux extrémités, l'une, sur la rive droite, à la gare des marchandises de la Compagnie du Nord, l'autre, sur la rive gauche, à un bastion des remparts, près de la porte d'Arcueil. Mais le jour allait naître, les communards avaient évacué les Tuileries et les barricades, la troupe venait de s'emparer du quartier, au milieu d'autres incendies, douze autres maisons qui brûlaient depuis neuf heures du soir, au carrefour de la rue Saint-Honoré et de la rue Royale.
+
+En bas, lorsquan fut redescendu sur la berge, il trouva Maurice somnolent, comme hébété après sa crise de surexcitation.
+
+« Ça ne va pas être facile\... Au moins, pourras-tu marcher encore, mon petit ?
+
+--- Oui, oui, ne t'inquiète pas. J'arriverai toujours, mort ou vivant. »
+
+Et il eut surtout de la peine à monter l'escalier de pierre. Puis, en haut, sur le quai, il marcha lentement, au bras de son compagnon, d'un pas de somnambule. Bien que le jour ne se levât pas encore, le reflet des incendies voisins éclairait la vaste place d'une aube livide. Ils en traversèrent la solitude, le cœur serré de cette morne dévastation. Aux deux bouts, de l'autre côté du pont et à l'extrémité de la rue Royale, on distinguait confusément les fantômes du Palais-Bourbon et de la Madeleine, labourés par la canonnade. La terrasse des Tuileries, battue en brèche, s'était en partie écroulée. Sur la place même, des balles avaient troué le bronze des fontaines, le tronc géant de la statue de Lille gisait par terre, coupé en deux par un obus, tandis que la statue de Strasbourg, à côté, voilée de crêpe, semblait porter le deuil de tant de ruines. Et il y avait là, près de l'obélisque intact, dans une tranchée, un tuyau à gaz, fendu par quelque coup de pioche, qu'un hasard avait allumé et qui lâchait, avec un bruit strident, un long jet de flamme.
+
+Jean évita la barricade qui fermait la rue Royale, entre le ministère de la Marine et le Garde-Meuble, sauvés du feu. Il entendait, derrière les sacs et les tonneaux de terre dont elle était faite, de grosses voix de soldats. En avant, un fossé la défendait, plein d'eau croupie, où nageait un cadavre de fédéré ; et, par une brèche, on apercevait les maisons du carrefour Saint-Honoré, qui achevaient de brûler, malgré les pompes venues de la banlieue, dont on distinguait le ronflement. À droite et à gauche, les petits arbres, les kiosques des marchandes de journaux, étaient brisés, criblés de mitraille. De grands cris s'élevaient, les pompiers venaient de découvrir, dans une cave, sept locataires d'une des maisons, à moitié carbonisés.
+
+Bien que la barricade, barrant la rue Saint-Florentin et la rue de Rivoli, parût plus formidable encore, avec ses hautes constructions savantes, Jean avait eu l'instinct d'y sentir le passage moins dangereux. Elle était en effet complètement évacuée, sans que la troupe eût encore osé l'occuper. Des canons y dormaient, dans un lourd abandon. Pas une âme derrière cet invincible rempart, rien qu'un chien errant qui se sauva. Mais, comman se hâtait, dans la rue Saint-Florentin, soutenant Maurice affaibli, ce qu'il craignait arriva, ils se heurtèrent contre toute une compagnie du 88e de ligne, qui avait tourné la barricade.
+
+« Mon capitaine, expliqua-t-il, c'est un camarade que ces brigands viennent de blesser, et que je conduis à l'ambulance. »
+
+La capote, jetée sur les épaules de Maurice, le sauva, et le cœur de Jean sautait à se rompre, pendant qu'ils descendaient enfin ensemble la rue Saint-Honoré. Le jour pointait à peine, des coups de feu partaient des rues transversales, car on se battait encore dans tout le quartier. Ce fut un miracle, s'ils purent atteindre la rue des Frondeurs, sans faire d'autre mauvaise rencontre. Ils n'allaient plus que très lentement, ces trois ou quatre cents mètres à parcourir semblèrent interminables. Puis, rue des Frondeurs, ils tombèrent dans un poste de communards ; mais ceux-ci, effrayés, croyant à l'arrivée de tout un régiment, prirent la fuite. Et il ne restait qu'un bout de la rue d'Argenteuil à suivre, pour être rue des Orties.
+
+Ah ! cette rue des Orties, avec quelle fièvre d'impatiencan la souhaitait, depuis quatre grandes heures ! Lorsqu'ils y entrèrent, ce fut une délivrance. Elle était noire, déserte, silencieuse, comme à cent lieues de la bataille. La maison, une vieille et étroite maison sans concierge, dormait d'un sommeil de mort.
+
+« J\'ai les clefs dans ma poche, bégaya Maurice. La grande est celle de la rue, la petite, celle de ma chambre, tout en haut. »
+
+Et il succomba, il s'évanouit, entre les bras de Jean, dont l'inquiétude et l'embarras furent extrêmes. Il en oublia de refermer la porte de la rue, et dut le monter à tâtons, dans cet escalier inconnu, en évitant les chocs, de peur d'amener du monde. Puis, en haut, il se perdit, il lui fallut poser le blessé sur une marche, chercher la porte, à l'aide d'allumettes qu'il avait heureusement ; et ce fut seulement lorsqu'il l'eut trouvée, qu'il redescendit le prendre. Enfin, il le coucha sur le petit lit de fer, en face de la fenêtre, dominant Paris, qu'il ouvrit toute large, dans un besoin de grand air et de lumière. Le jour naissait, il tomba devant le lit, sanglotant, assommé et sans force, sous le réveil de cette affreuse pensée qu'il avait tué son ami.
+
+Des minutes durent s'écouler, il fut à peine surpris, en apercevant soudain Henriette. Rien n'était plus naturel, son frère était mourant, elle arrivait. Il ne l'avait pas même vue entrer, peut-être se trouvait-elle là depuis des heures. Maintenant, affaissé sur une chaise, il la regardait stupidement s'agiter, sous le coup de mortelle douleur qui l'avait frappée, à la vue de son frère sans connaissance, couvert de sang. Il finit par avoir un souvenir, il demanda :
+
+« Dites donc, vous avez refermé la porte de la rue ? »
+
+Bouleversée, elle répondit affirmativement, d'un signe de tête ; et, comme elle venait enfin de lui donner ses deux mains, dans un besoin d'affection et de secours, il reprit :
+
+« Vous savez, c'est moi qui l'ai tué\... »
+
+Elle ne comprenait pas, elle ne le croyait pas. Il sentait les deux petites mains rester calmes dans les siennes.
+
+« C\'est moi qui l'ai tué\... Oui, là-bas, sur une barricade\... Il se battait d'un côté, moi de l'autre\... »
+
+Les petites mains se mirent à trembler.
+
+« On était comme des hommes soûls, on ne savait plus ce qu\'on faisait\... C\'est moi qui l\'ai tué\... »
+
+
+« Oh ! je le guérirai, il faut que je le guérisse maintenant ! »
+
+Pendant ses longues veillées à l'ambulance de Remilly, elle était devenue très experte à soigner, à panser les blessures. Et elle voulut tout de suite examiner celles de son frère, qu'elle déshabilla, sans le tirer de son évanouissement. Mais, quand elle défit le pansement sommaire imaginé par Jean, il s'agita, il eut un faible cri, en ouvrant de grands yeux de fièvre. Tout de suite, d'ailleurs, il la reconnut, il sourit.
+
+« Tu es donc là ? Ah ! que je suis content de te voir avant de mourir ! »
+
+Elle le fit taire, d'un beau geste de confiance.
+
+« Mourir ! mais je ne veux pas ! je veux que tu vives !\... Ne parle plus, laisse-moi faire ! »
+
+Cependant, lorsque Henriette eut examiné le bras traversé, les côtes atteintes, elle s'assombrit, ses yeux se troublèrent. Vivement, elle prenait possession de la chambre, parvenait à trouver un peu d'huile, déchirait de vieilles chemises pour en faire des bandes, tandis que Jean descendait chercher une cruche d'eau. Il n\'ouvrait plus la bouche, il la regarda laver les blessures, les panser adroitement, incapable de l'aider, anéanti, depuis qu'elle était là. Quand elle eut fini, voyant son inquiétude, il offrit pourtant de se mettre en quête d'un médecin. Mais elle avait toute son intelligence nette : non, non ! pas le premier médecin venu, qui livrerait peut-être son frère ! Il fallait un homme sûr, on pouvait attendre quelques heures. Enfin, comman parlait de s'en aller, pour rejoindre son régiment, il fut entendu que, dès qu'il lui serait possible de s'échapper, il reviendrait, en tâchant de ramener un chirurgien avec lui.
+
+Il ne partit pas encore, il semblait ne pouvoir se résoudre à quitter cette chambre, toute pleine du malheur qu'il avait fait. Après avoir été refermée un instant, la fenêtre venait d'être ouverte de nouveau. Et, de son lit, la tête haute, le blessé regardait, tandis que les deux autres avaient, eux aussi, les regards perdus au loin, dans le lourd silence qui avait fini par les accabler.
+
+De cette hauteur de la butte des Moulins, toute une grande moitié de Paris s'étendait sous eux, d'abord les quartiers du centre, du faubourg Saint-Honoré jusqu'à la Bastille, puis le cours entier de la Seine, avec le pullulement lointain de la rive gauche, une mer de toitures, de cimes d'arbres, de clochers, de dômes et de tours. Le jour grandissait, l'abominable nuit, une des plus affreuses de l'histoire, était finie. Mais, dans la pure clarté du soleil levant, sous le ciel rose, les incendies continuaient. En face, on apercevait les Tuileries qui brûlaient toujours, la caserne d'Orsay, les palais du Conseil d'État et de la Légion d'Honneur, dont les flammes, pâlies par la pleine lumière, donnaient au ciel un grand frisson. Même, au-delà des maisons de la rue de Lille et de la rue du Bac, d'autres maisons devaient flamber, car des colonnes de flammèches montaient du carrefour de la Croix-Rouge, et plus loin encore, de la rue Vavin et de la rue Notre-Dame-des-Champs. Sur la droite, tout près, s'achevaient les incendies de la rue Saint-Honoré, tandis que, sur la gauche, au Palais-Royal et au nouveau Louvre avortaient des feux tardifs, mis vers le matin. Mais, surtout, ce qu'ils ne s'expliquèrent pas d'abord, c'était une grosse fumée noire que le vent d'ouest poussait jusque sous la fenêtre. Depuis trois heures du matin, le ministère des Finances brûlait, sans flammes hautes, se consumait en épais tourbillons de suie, tellement le prodigieux amas de paperasses s'étouffait, sous les plafonds bas, dans ces constructions de plâtre. Et, s'il n'y avait plus là, au-dessus du réveil de la grande ville, l'impression tragique de la nuit, l'épouvante d'une destruction totale, la Seine roulant des braises, Paris allumé aux quatre bouts, une tristesse désespérée et morne passait sur les quartiers épargnés, avec cette épaisse fumée continue, dont le nuage s'élargissait toujours. Bientôt le soleil, qui s'était levé limpide, en fut caché ; et il ne resta que ce deuil, dans le ciel fauve.
+
+Maurice, que le délire devait reprendre, murmura, avec un geste lent qui embrassait l'horizon sans bornes :
+
+« Est-ce que tout brûle ? Ah ! que c'est long ! »
+
+Des larmes étaient montées aux yeux d'Henriette, comme si son malheur s'était accru encore de ces désastres immenses, où avait trempé son frère. Et Jean, qui n'osa ni lui reprendre la main, ni embrasser son ami, partit alors d'un air fou.
+
+« Au revoir, à tout à l'heure ! »
+
+Il ne put revenir que le soir, vers huit heures, après la nuit tombée. Malgré sa grande inquiétude, il était heureux : son régiment, qui ne se battait plus, venait de passer en seconde ligne, et avait reçu l'ordre de garder le quartier ; de sorte que, bivouaquant avec sa compagnie sur la place du Carrousel, il espérait pouvoir monter, chaque soir, prendre des nouvelles du blessé. Et il ne revenait pas seul, un hasard lui avait fait rencontrer l'ancien major du 106e, qu'il amenait dans un coup de désespoir, n'ayant pu trouver un autre médecin, en se disant que, tout de même, ce terrible homme, à tête de lion, était un brave homme.
+
+Quand Bouroche, qui ne savait pour quel blessé ce soldat suppliant le dérangeait, et qui grognait d'être monté si haut, eut compris qu'il avait sous les yeux un communard, il entra d'abord dans une violente colère.
+
+« Tonnerre de Dieu ! est-ce que vous vous fichez de moi ?\... Des brigands qui sont las de voler, d'assassiner et d'incendier !\... Son affaire est claire, à votre bandit, et je me charge de le faire guérir, oui ! avec trois balles dans la tête ! »
+
+Mais la vue d'Henriette, si pâle dans sa robe noire, avec ses beaux cheveux blonds dénoués, le calma brusquement.
+
+« C\'est mon frère, monsieur le major, et c'est un de vos soldats de Sedan. »
+
+Il ne répondit pas, débanda les plaies, les examina en silence, tira des fioles de sa poche et refit un pansement, en montrant à la jeune femme comment on devait s'y prendre. Puis, de sa voix rude, il demanda tout à coup au blessé :
+
+« Pourquoi t'es-tu mis du côté des gredins, pourquoi as-tu fait une saleté pareille ? »
+
+Maurice, les yeux luisants, le regardait depuis qu'il était là, sans ouvrir la bouche. Il répondit ardemment, dans sa fièvre :
+
+« Parce qu'il y a trop de souffrance, trop d'iniquité et trop de honte ! »
+
+Alors, Bouroche eut un grand geste, comme pour dire qu'on allait loin, quand on entrait dans ces idées-là. Il fut sur le point de parler encore, finit par se taire. Et il partit, en ajoutant simplement :
+
+« Je reviendrai. »
+
+Sur le palier, il déclara à Henriette qu'il n'osait répondre de rien. Le poumon était touché sérieusement, une hémorragie pouvait se produire, qui foudroierait le blessé.
+
+Lorsque Henriette rentra, elle s'efforça de sourire, malgré le coup qu'elle venait de recevoir en plein cœur. Est-ce qu'elle ne le sauverait pas, est-ce qu'elle n'allait pas empêcher cette affreuse chose, leur éternelle séparation à tous les trois, qui étaient là réunis encore, dans leur ardent souhait de vie ? De la journée, elle n'avait pas quitté cette chambre, une vieille voisine s'était chargée obligeamment de ses commissions. Et elle revint reprendre sa place, près du lit, sur une chaise.
+
+Mais, cédant à son excitation fiévreuse, Maurice questionnaian, voulait savoir. Celui-ci ne disait pas tout, évitait de conter l'enragée colère qui montait contre la Commune agonisante, dans Paris délivré. On était déjà au mercredi. Depuis le dimanche soir, depuis deux grands jours, les habitants avaient vécu au fond de leurs caves, suant la peur ; et, le mercredi matin, lorsqu'ils avaient pu se hasarder, le spectacle des rues défoncées, les débris, le sang, les effroyables incendies surtout, venaient de les jeter à une exaspération vengeresse. Le châtiment allait être immense. On fouillait les maisons, on jetait aux pelotons des exécutions sommaires le flot suspect des hommes et des femmes qu'on ramassait. Dès six heures du soir, ce jour-là, l'armée de Versailles était maîtresse de la moitié de Paris, du parc de Montsouris à la gare du Nord, en passant par les grandes voies. Et les derniers membres de la Commune, une vingtaine, avaient dû se réfugier boulevard Voltaire, à la mairie du XIe arrondissement.
+
+Un silence se fit, Maurice murmura, les yeux au loin sur la ville, par la fenêtre ouverte à l'air tiède de la nuit :
+
+« Enfin, ça continue, Paris brûle ! »
+
+C\'était vrai, les flammes avaient reparu, dès la tombée du jour ; et, de nouveau, le ciel s'empourprait d'une lueur scélérate. Dans l'après-midi, lorsque la poudrière du Luxembourg avait sauté avec un fracas épouvantable, le bruit s'était répandu que le Panthéon venait de crouler au fond des catacombes. Toute la journée d'ailleurs, les incendies de la veille avaient continué, le palais du Conseil d'État et les Tuileries brûlaient, le ministère des Finances fumait à gros tourbillons. Dix fois, il avait fallu fermer la fenêtre, sous la menace d'une nuée de papillons noirs, des vols incessants de papiers brûlés, que la violence du feu emportait au ciel, d'où ils retombaient en pluie fine ; et Paris entier en fut couvert, et l'on en ramassa jusqu'en Normandie, à vingt lieues. Puis, maintenant, ce n'étaient pas seulement les quartiers de l'ouest et du sud qui flambaient, les maisons de la rue Royale, celles du carrefour de la Croix-Rouge et de la rue Notre-Dame-des-Champs. Tout l'est de la ville semblait en flammes, l'immense brasier de l'Hôtel de Ville barrait l'horizon d'un bûcher géant. Et il y avait encore là, allumés comme des torches, le Théâtre-Lyrique, la mairie du IVe arrondissement, plus de trente maisons des rues voisines ; sans compter le théâtre de la Porte-Saint-Martin, au nord, qui rougeoyait à l'écart, ainsi qu'une meule, au fond des champs ténébreux. Des vengeances particulières s'exerçaient, peut-être aussi des calculs criminels s'acharnaient-ils à détruire certains dossiers. Il n'était même plus question de se défendre, d'arrêter par le feu les troupes victorieuses. Seule, la démence soufflait, le Palais de Justice, l'Hôtel-Dieu, Notre-Dame venaient d'être sauvés, au petit bonheur du hasard. Détruire pour détruire, ensevelir la vieille humanité pourrie sous les cendres d'un monde, dans l'espoir qu'une société nouvelle repousserait heureuse et candide, en plein paradis terrestre des primitives légendes !
+
+« Ah ! la guerre, l'exécrable guerre ! » dit à demi-voix Henriette, en face de cette cité de ruines, de souffrances et d'agonie.
+
+N'était-ce pas, en effet, l'acte dernier et fatal, la folie du sang qui avait germé sur les champs de défaite de Sedan et de Metz, l'épidémie de destruction née du siège de Paris, la crise suprême d'une nation en danger de mort, au milieu des tueries et des écroulements ?
+
+Mais Maurice, sans quitter des yeux les quartiers qui brûlaient, là-bas, bégaya lentement, avec peine :
+
+« Non, non, ne maudis pas la guerre\... Elle est bonne, elle fait son œuvre\... »
+
+Jean l'interrompit d'un cri de haine et de remords.
+
+« Sacré bon Dieu ! quand je te vois là, et quand c'est par ma faute\... Ne la défends plus, c'est une sale chose que la guerre ! »
+
+Le blessé eut un geste vague.
+
+« Oh ! moi, qu'est-ce que ça fait ? il y en a bien d'autres !\... C\'est peut-être nécessaire, cette saignée. La guerre, c'est la vie qui ne peut pas être sans la mort. »
+
+Et les yeux de Maurice se fermèrent, dans la fatigue de l'effort que lui avaient coûté ces quelques mots. D'un signe, Henriette avait prian de ne pas discuter. Toute une protestation la soulevait elle-même, sa colère contre la souffrance humaine, malgré son calme de femme frêle et si brave, avec ses regards limpides où revivait l'âme héroïque du grand-père, le héros des légendes napoléoniennes.
+
+Deux jours se passèrent, le jeudi et le vendredi, au milieu des mêmes incendies et des mêmes massacres. Le fracas du canon ne cessait pas ; les batteries de Montmartre, dont l'armée de Versailles s'était emparée, canonnaient sans relâche celles que les fédérés avaient installées à Belleville et au Père-Lachaise ; et ces dernières tiraient au hasard sur Paris : des obus étaient tombés rue de Richelieu et à la place Vendôme. Le 25 au soir, toute la rive gauche était entre les mains des troupes. Mais, sur la rive droite, les barricades de la place du Château-d\'Eau et de la place de la Bastille tenaient toujours. Il y avait là deux véritables forteresses que défendait un feu terrible, incessant. Au crépuscule, dans la débandade des derniers membres de la Commune, Delescluze avait pris sa canne, et il était venu, d'un pas de promenade, tranquillement, jusqu'à la barricade qui fermait le boulevard Voltaire, pour y tomber foudroyé, en héros. Le lendemain, le 26, dès l'aube, le Château-d'Eau et la Bastille furent emportés, les communards n'occupèrent plus que la Villette, Belleville et Charonne, de moins en moins nombreux, réduits à la poignée de braves qui voulaient mourir. Et, pendant deux jours, ils devaient résister encore et se battre, furieusement.
+
+Le vendredi soir, comman s'échappait de la place du Carrousel, pour retourner rue des Orties, il assista, au bas de la rue de Richelieu, à une exécution sommaire, dont il resta bouleversé. Depuis l'avant-veille, deux cours martiales fonctionnaient, la première au Luxembourg, la seconde au théâtre du Châtelet. Les condamnés de l'une étaient passés par les armes dans le jardin, tandis que l'on traînait ceux de l'autre jusqu'à la caserne Lobau, où des pelotons en permanence les fusillaient, dans la cour intérieure, presque à bout portant. Ce fut là surtout que la boucherie devint effroyable : des hommes, des enfants, condamnés sur un indice, les mains noires de poudre, les pieds simplement chaussés de souliers d'ordonnance ; des innocents dénoncés à faux, victimes de vengeances particulières, hurlant des explications, sans pouvoir se faire écouter ; des troupeaux jetés pêle-mêle sous les canons des fusils, tant de misérables à la fois, qu'il n'y avait pas des balles pour tous, et qu'il fallait achever les blessés à coups de crosse. Le sang ruisselait, des tombereaux emportaient les cadavres, du matin au soir. Et, par la ville conquise, au hasard des brusques affolements de rage vengeresse, d'autres exécutions se faisaient, devant les barricades, contre les murs des rues désertes, sur les marches des monuments. C\'était ainsi que Jean venait de voir des habitants du quartier amenant une femme et deux hommes au poste qui gardait le Théâtre-Français. Les bourgeois se montraient plus féroces que les soldats, les journaux qui avaient reparu poussaient à l'extermination. Toute une foule violente s'acharnait contre la femme surtout, une de ces pétroleuses dont la peur hantait les imaginations hallucinées, qu'on accusait de rôder le soir, de se glisser le long des habitations riches, pour lancer des bidons de pétrole enflammé dans les caves. On venait, criait-on, de surprendre celle-là, accroupie devant un soupirail de la rue Sainte-Anne. Et, malgré ses protestations et ses sanglots, on la jeta, avec les deux hommes, au fond d'une tranchée de barricade qu'on n'avait pas comblée encore, on les fusilla dans ce trou de terre noire, comme des loups pris au piège. Des promeneurs regardaient, une dame s'était arrêtée avec son mari, tandis qu'un mitron, qui portait une tourte dans le voisinage, sifflait un air de chasse.
+
+Jean se hâtait de gagner la rue des Orties, le cœur glacé, quand il eut un brusque souvenir. N'était-ce pas Chouteau, l'ancien soldat de son escouade, qu'il venait de voir, sous l'honnête blouse blanche d'un ouvrier, assistant à l'exécution, avec des gestes approbateurs ? Et il savait le rôle du bandit, traître, voleur et assassin ! Un instant, il fut sur le point de retourner là-bas, de le dénoncer, de le faire fusiller sur les corps des trois autres. Ah ! cette tristesse, les plus coupables échappant au châtiment, promenant leur impunité au soleil, tandis que des innocents pourrissent dans la terre !
+
+Henriette, au bruit des pas qui montaient, était sortie sur le palier.
+
+« Soyez prudent, il est aujourd'hui dans un état de surexcitation extraordinaire\... Le major est revenu, il m'a désespérée. »
+
+En effet, Bouroche avait hoché la tête, en ne pouvant rien promettre encore. Peut-être, tout de même, la jeunesse du blessé triompherait-elle des accidents qu'il redoutait.
+
+« Ah ! c'est toi, dit fiévreusement Maurice an, dès qu'il l'aperçut. Je t'attendais, qu'est-ce qu'il se passe, où en est-on ? »
+
+Et, le dos contre son oreiller, en face de la fenêtre qu'il avait forcé sa sœur à ouvrir, montrant la ville redevenue noire qu'un nouveau reflet de fournaise éclairait :
+
+« Hein ? ça recommence, Paris brûle, Paris brûle tout entier cette fois ! »
+
+Dès le coucher du soleil, l'incendie du Grenier d'Abondance avait enflammé les quartiers lointains, en haut de la coulée de la Seine. Aux Tuileries, au Conseil d'État, les plafonds devaient crouler, activant le brasier des poutres qui se consumaient, car des foyers partiels s'étaient rallumés, des flammèches et des étincelles montaient par moments. Beaucoup des maisons qu'on croyait éteintes, se remettaient ainsi à flamber. Depuis trois jours, l'ombre ne pouvait se faire, sans que la ville parût reprendre feu, comme si les ténèbres eussent soufflé sur les tisons rouges encore, les ravivant, les semant aux quatre coins de l'horizon. Ah ! cette ville d'enfer qui rougeoyait dès le crépuscule, allumée pour toute une semaine, éclairant de ses torches monstrueuses les nuits de la semaine sanglante ! Et, cette nuit-là, quand les docks de la Villette brûlèrent, la clarté fut si vive sur la cité immense, qu'on put la croire réellement incendiée par tous les bouts, cette fois, envahie et noyée sous les flammes. Dans le ciel saignant, les quartiers rouges, à l'infini, roulaient le flot de leurs toitures de braise.
+
+« C\'est la fin, répéta Maurice, Paris brûle ! »
+
+Il s'excitait avec ces mots, redits à vingt reprises, dans un besoin fébrile de parler, après la lourde somnolence qui l'avait tenu presque muet, pendant trois jours. Mais un bruit de larmes étouffées lui fit tourner la tête.
+
+« Comment, petite sœur, c'est toi, si brave !\... Tu pleures parce que je vais mourir\... »
+
+Elle l'interrompit, en se récriant :
+
+« Mais tu ne mourras pas !
+
+--- Si, si, ça vaut mieux, il le faut\... Ah ! va, ce n'est pas grand-chose de bon qui s'en ira avec moi. Avant la guerre, je t'ai fait tant de peine, j'ai coûté si cher à ton cœur et à ta bourse !\... Toutes ces sottises, toutes ces folies que j'ai commises, et qui auraient mal fini, qui sait ? la prison, le ruisseau\... »
+
+De nouveau, elle lui coupait la parole, violemment.
+
+« Tais-toi ! tais-toi !\... Tu as tout racheté ! »
+
+Il se tut, songea un instant.
+
+« Quand je serai mort, oui ! peut-être\... Ah ! mon vieuan, tu nous as tout de même rendu à tous un fier service, quand tu m'as allongé ton coup de baïonnette. »
+
+Mais lui aussi, les yeux gros de larmes, protestait.
+
+« Ne dis pas ça ! tu veux donc que je me casse la tête contre un mur ! »
+
+Ardemment, Maurice continua :
+
+« Rappelle-toi donc ce que tu m'as dit, le lendemain de Sedan, quand tu prétendais que ce n'était pas mauvais, parfois, de recevoir une bonne gifle\... Et tu ajoutais que, lorsqu'on avait de la pourriture quelque part, un membre gâté, ça valait mieux de le voir par terre, abattu d'un coup de hache, que d'en crever comme d'un choléra\... J'ai songé souvent à cette parole, depuis que je me suis trouvé seul, enfermé dans ce Paris de démence et de misère\... Eh bien ! c'est moi qui suis le membre gâté que tu as abattu\... »
+
+Son exaltation grandissait, il n'écoutait même plus les supplications d'Henriette et de Jean, terrifiés. Et il continuait, dans une fièvre chaude, abondante en symboles, en images éclatantes. C\'était la partie saine de la France, la raisonnable, la pondérée, la paysanne, celle qui était restée le plus près de la terre, qui supprimait la partie folle, exaspérée, gâtée par l'Empire, détraquée de rêveries et de jouissances ; et il lui avait ainsi fallu couper dans sa chair même, avec un arrachement de tout l'être, sans trop savoir ce qu'elle faisait. Mais le bain de sang était nécessaire, et de sang français, l'abominable holocauste, le sacrifice vivant, au milieu du feu purificateur. Désormais, le calvaire était monté jusqu'à la plus terrifiante des agonies, la nation crucifiée expiait ses fautes et allait renaître.
+
+« Mon vieuan, tu es le simple et le solide\... Va, va ! prends la pioche, prends la truelle ! et retourne le champ, et rebâtis la maison !\... Moi, tu as bien fait de m'abattre, puisque j'étais l'ulcère collé à tes os ! »
+
+Il délira encore, il voulut se lever, s'accouder à la fenêtre.
+
+« Paris brûle, rien ne restera\... Ah ! cette flamme qui emporte tout, qui guérit tout, je l'ai voulue, oui ! elle fait la bonne besogne\... Laissez-moi descendre, laissez-moi achever l'œuvre d'humanité et de liberté\... »
+
+Jean eut toutes les peines du monde à le remettre au lit, tandis qu'Henriette, en larmes, lui parlait de leur enfance, le suppliait de se calmer, au nom de leur adoration. Et, sur Paris immense, le reflet de braise avait encore grandi, la mer de flammes semblait gagner les lointains ténébreux de l'horizon, le ciel était comme la voûte d'un four géant, chauffé au rouge clair. Et, dans cette clarté fauve des incendies, les grosses fumées du ministère des Finances, qui brûlait obstinément depuis l'avant-veille, sans une flamme, passaient toujours en une sombre et lente nuée de deuil.
+
+Le lendemain, le samedi, une amélioration brusque se déclara dans l'état de Maurice : il était beaucoup plus calme, la fièvre avait diminué ; et ce fut une grande joie pour Jean, lorsqu'il trouva Henriette souriante, reprenant le rêve de leur intimité à trois, dans un avenir de bonheur encore possible, qu'elle ne voulait pas préciser. Est-ce que le destin allait faire grâce ? Elle passait les nuits, elle ne bougeait pas de cette chambre, où sa douceur active de cendrillon, ses soins légers et silencieux mettaient comme une caresse continue. Et, ce soir-là, Jean s'oublia près de ses amis avec un plaisir étonné et tremblant. Dans la journée, les troupes avaient pris Belleville et les Buttes-Chaumont. Il n'y avait plus que le cimetière du Père-Lachaise, transformé en un camp retranché, qui résistât. Tout lui semblait fini, il affirmait même qu'on ne fusillait plus personne. Il parla simplement des troupeaux de prisonniers qu'on dirigeait sur Versailles. Le matin, le long du quai, il en avait rencontré un, des hommes en blouse, en paletot, en manches de chemise, des femmes de tout âge, les unes avec des masques creusés de furies, les autres dans la fleur de leur jeunesse, des enfants âgés de quinze ans à peine, tout un flot roulant de misère et de révolte, que les soldats poussaient sous le clair soleil, et que les bourgeois de Versailles, disait-on, accueillaient avec des huées, à coups de canne et d'ombrelle.
+
+Mais, le dimanche, Jean fut épouvanté. C\'était le dernier jour de l'exécrable semaine. Dès le triomphal lever du soleil, par cette limpide et chaude matinée de jour de fête, il sentit passer le frisson de l'agonie suprême. On venait d'apprendre seulement les massacres répétés des otages, l'archevêque, le curé de la Madeleine et d'autres fusillés, le mercredi, à la Roquette, les dominicains d'Arcueil tirés à la course, comme des lièvres, le jeudi, des prêtres encore et des gendarmes au nombre de quarante-sept foudroyés à bout portant, au secteur de la rue Haxo, le vendredi ; et une fureur de représailles s'était rallumée, les troupes exécutaient en masse les derniers prisonniers qu'elles faisaient. Pendant tout ce beau dimanche, les feux de peloton ne cessèrent pas, dans la cour de la caserne Lobau, pleine de râles, de sang et de fumée. À la Roquette, deux cent vingt-sept misérables, ramassés au hasard du coup de filet, furent mitraillés en tas, hachés par les balles. Au Père-Lachaise, bombardé depuis quatre jours, emporté enfin tombe par tombe, on en jeta cent quarante-huit contre un mur, dont le plâtre ruissela de grandes larmes rouges ; et trois d'entre eux, blessés, s'étant échappés, on les reprit, on les acheva. Combien de braves gens pour un gredin, parmi les douze mille malheureux à qui la Commune avait coûté la vie ! L\'ordre de cesser les exécutions, était, disait-on, venu de Versailles. Mais l'on tuait quand même, Thiers devait rester le légendaire assassin de Paris, dans sa gloire pure de libérateur du territoire ; tandis que le maréchal de Mac-Mahon, le vaincu de Frœschwiller, dont une proclamation couvrait les murs, annonçant la victoire, n'était plus que le vainqueur du Père-Lachaise. Et Paris ensoleillé, endimanché, paraissait en fête, une foule énorme encombrait les rues reconquises, des promeneurs allaient d'un air de flânerie heureuse voir les décombres fumants des incendies, des mères tenant à la main des enfants rieurs, s'arrêtaient, écoutaient un instant avec intérêt les fusillades assourdies de la caserne Lobau.
+
+Le dimanche soir, au déclin du jour, lorsquan monta le sombre escalier de la maison, rue des Orties, un affreux pressentiment lui serrait le cœur. Il entra, et tout de suite il vit l'inévitable fin, Maurice mort sur le petit lit, étouffé par l'hémorragie que Bouroche redoutait. L\'adieu rouge du soleil glissait par la fenêtre ouverte, deux bougies brûlaient déjà sur la table, au chevet du lit. Et Henriette, à genoux dans ses vêtements de veuve qu'elle n'avait pas quittés, pleurait en silence.
+
+Au bruit, elle leva la tête, elle eut un frisson, à voir entrer Jean. Lui, éperdu, allait se précipiter, prendre ses mains, mêler d'une étreinte sa douleur à la sienne. Mais il sentit les petites mains tremblantes, tout l'être frémissant et révolté qui se reculait, qui s'arrachait, à jamais. N'était-ce pas fini entre eux, maintenant ? La tombe de Maurice les séparait, sans fond. Et lui aussi ne put que tomber à genoux, en sanglotant tout bas.
+
+Pourtant, au bout d'un silence, Henriette parla :
+
+« Je tournais le dos, je tenais un bol de bouillon, quand il a jeté un cri\... Je n'ai eu que le temps d'accourir, et il est mort, en m'appelant, en vous appelant, vous aussi, dans un flot de sang\... »
+
+Son frère, mon Dieu ! son Maurice adoré par-delà la naissance, qui était un autre elle-même, qu'elle avait élevé, sauvé ! son unique tendresse, depuis qu'elle avait vu, à Bazeilles, contre un mur, le corps de son pauvre Weiss troué de balles ! La guerre achevait donc de lui prendre tout son cœur, elle resterait donc seule au monde, veuve et dépareillée, sans personne qui l'aimerait !
+
+« Ah ! bon sang ! crian dans un sanglot, c'est ma faute !\... Mon cher petit pour qui j\'aurais donné ma peau, et que je vais massacrer comme une brute !\... Qu'allons-nous devenir ? Me pardonnerez-vous jamais ? »
+
+Et, à cette minute, leurs yeux se rencontrèrent, et ils restèrent bouleversés de ce qu'ils pouvaient enfin y lire nettement. Le passé s'évoquait, la chambre perdue de Remilly, où ils avaient vécu des jours si tristes et si doux. Lui, retrouvait son rêve, d'abord inconscient, ensuite à peine formulé : la vie là-bas, un mariage, une petite maison, la culture d'un champ qui suffirait à nourrir un ménage de braves gens modestes. Maintenant, c'était un désir ardent, une certitude aiguë qu'avec une femme comme elle, si tendre, si active, si brave, la vie serait devenue une véritable existence de paradis. Et elle, qui autrefois n'était pas même effleurée par ce rêve dans le don chaste et ignoré de son cœur, voyait clair à présent, comprenait tout d'un coup. Ce mariage lointain, elle-même l'avait voulu alors, sans le savoir. La graine qui germait avait cheminé sourdement, elle l'aimait d'amour, ce garçon près duquel elle n'avait d'abord été que consolée. Et leurs regards se disaient cela, et ils ne s'aimaient ouvertement, à cette heure, que pour l'adieu éternel. Il fallait encore cet affreux sacrifice, l'arrachement dernier, leur bonheur possible la veille s'écroulant aujourd'hui avec le reste, s'en allant avec le flot de sang qui venait d'emporter leur frère.
+
+Jean se releva, d'un long et pénible effort des genoux.
+
+« Adieu ! »
+
+Sur le carreau, Henriette restait immobile.
+
+« Adieu ! »
+
+Maian s'était approché du corps de Maurice. Il le regarda, avec son grand front qui semblait plus grand, sa longue face mince, ses yeux vides, jadis un peu fous, où la folie s'était éteinte. Il aurait bien voulu l'embrasser, son cher petit, comme il l'avait nommé tant de fois, et il n'osa pas. Il se voyait couvert de son sang, il reculait devant l'horreur du destin. Ah ! quelle mort, sous l'effondrement de tout un monde ! Au dernier jour, sous les derniers débris de la Commune expirante, il avait donc fallu cette victime de plus ! Le pauvre être s'en était allé, affamé de justice, dans la suprême convulsion du grand rêve noir qu'il avait fait, cette grandiose et monstrueuse conception de la vieille société détruite, de Paris brûlé, du champ retourné et purifié, pour qu'il y poussât l'idylle d'un nouvel âge d'or.
+
+Jean, plein d'angoisse, se retourna vers Paris. À cette fin si claire d'un beau dimanche, le soleil oblique, au ras de l'horizon, éclairait la ville immense d'une ardente lueur rouge. On aurait dit un soleil de sang, sur une mer sans borne. Les vitres des milliers de fenêtres braisillaient, comme attisées sous des soufflets invisibles ; les toitures s'embrasaient, telles que des lits de charbons ; les pans de murailles jaunes, les hauts monuments, couleur de rouille, flambaient avec les pétillements de brusques feux de fagots, dans l'air du soir. Et n'était-ce pas la gerbe finale, le gigantesque bouquet de pourpre, Paris entier brûlant ainsi qu'une fascine géante, une antique forêt sèche, s'envolant au ciel d'un coup, en un vol de flammèches et d'étincelles ? Les incendies continuaient, de grosses fumées rousses montaient toujours, on entendait une rumeur énorme, peut-être les derniers râles des fusillés, à la caserne Lobau, peut-être la joie des femmes et le rire des enfants, dînant dehors après l'heureuse promenade, assis aux portes des marchands de vin. Des maisons et des édifices saccagés, des rues éventrées, de tant de ruines et de tant de souffrances, la vie grondait encore, au milieu du flamboiement de ce royal coucher d'astre, dans lequel Paris achevait de se consumer en braise.
+
+
+Dans un sanglot, Jean répéta :
+
+« Adieu ! »
+
+Henriette ne releva pas la tête, la face cachée entre ses deux mains jointes.
+
+« Adieu ! »
+
+Le champ ravagé était en friche, la maison brûlée était par terre ; et Jean, le plus humble et le plus douloureux, s'en alla, marchant à l'avenir, à la grande et rude besogne de toute une France à refaire.
+
+
+::: WordSection
+[
+]{.calibre64}

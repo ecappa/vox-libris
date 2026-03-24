@@ -1,0 +1,33 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 23"
+slug_section: "chapitre-23"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 23 -- Affaire Praslin
+Un crime sans pareil vient défrayer la terre
+De ses affreux détails, lugubre vérité !
+La France, son théâtre, épanchant sa colère
+Sur ce forfait tout plein de sang, de lâcheté !
+Un grand ! un pair ! un duc ! scélérat, adultère,
+A, par sa concubine à ce meurtre excité,
+Tué sa femme pure, et de neuf enfants mère ;
+Que sa punition soit dans l'éternité !
+O France ! tu t'émeus ! tu gémis sur ce crime,
+Tu maudis l'assassin, tu pleures sa victime,
+Invoquant contre lui du ciel la juste loi !
+Et tu ne t'émeus pas, pour châtier toi-même,
+Ton vil gouvernement qui te joue et blasphème !
+Qui tua son épouse, et c'est la bonne foi !

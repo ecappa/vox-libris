@@ -1,0 +1,164 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "SON EXCELLENCE EUGÈNE ROUGON",
+  "slug": "son-excellence-eugene-rougon",
+  "nombre_chapitres": 14,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 128,
+      "spine_end_exclusive": 129,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_127.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 129,
+      "spine_end_exclusive": 130,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 130,
+      "spine_end_exclusive": 131,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_129.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 131,
+      "spine_end_exclusive": 132,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_130.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 132,
+      "spine_end_exclusive": 133,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_131.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 133,
+      "spine_end_exclusive": 134,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_132.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 134,
+      "spine_end_exclusive": 135,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_133.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 135,
+      "spine_end_exclusive": 136,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_134.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 136,
+      "spine_end_exclusive": 137,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_135.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 137,
+      "spine_end_exclusive": 138,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_136.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 138,
+      "spine_end_exclusive": 139,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_137.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 139,
+      "spine_end_exclusive": 140,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_138.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 140,
+      "spine_end_exclusive": 141,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_139.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 141,
+      "spine_end_exclusive": 142,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_140.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 142,
+      "spine_end_exclusive": 144,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_141.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_142.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/son-excellence-eugene-rougon/Zola1_image022.jpg"
+  ]
+}

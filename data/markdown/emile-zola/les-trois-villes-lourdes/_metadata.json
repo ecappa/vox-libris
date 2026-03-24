@@ -1,0 +1,99 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES TROIS VILLES : LOURDES",
+  "slug": "les-trois-villes-lourdes",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 666,
+      "spine_end_exclusive": 667,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_191.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première journée",
+      "slug": "premiere-journee",
+      "spine_start": 667,
+      "spine_end_exclusive": 673,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_192.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_193.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_194.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_195.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_196.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_197.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième journée",
+      "slug": "deuxieme-journee",
+      "spine_start": 673,
+      "spine_end_exclusive": 679,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_198.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_199.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_200.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_201.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_202.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_203.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième journée",
+      "slug": "troisieme-journee",
+      "spine_start": 679,
+      "spine_end_exclusive": 685,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_204.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_205.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_206.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_207.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_208.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_209.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Quatrième journée",
+      "slug": "quatrieme-journee",
+      "spine_start": 685,
+      "spine_end_exclusive": 691,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_210.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_211.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_212.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_213.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_214.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_215.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Cinquième journée",
+      "slug": "cinquieme-journee",
+      "spine_start": 691,
+      "spine_end_exclusive": 698,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_216.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_217.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_218.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_219.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_220.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_221.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_222.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-trois-villes-lourdes/Zola2_image012.jpg"
+  ]
+}

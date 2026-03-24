@@ -1,0 +1,122 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ÉMILE ZOLA : SA VIE – SON OEUVRE",
+  "slug": "emile-zola-sa-vie-son-oeuvre",
+  "nombre_chapitres": 10,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 2397,
+      "spine_end_exclusive": 2398,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_022.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre de Zola à l'auteur",
+      "slug": "lettre-de-zola-a-lauteur",
+      "spine_start": 2398,
+      "spine_end_exclusive": 2399,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_023.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 2399,
+      "spine_end_exclusive": 2400,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_024.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I – (1840-1861)",
+      "slug": "i-1840-1861",
+      "spine_start": 2400,
+      "spine_end_exclusive": 2401,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_025.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II – (1862-1867)",
+      "slug": "ii-1862-1867",
+      "spine_start": 2401,
+      "spine_end_exclusive": 2402,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_026.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III – (1868-1871)",
+      "slug": "iii-1868-1871",
+      "spine_start": 2402,
+      "spine_end_exclusive": 2403,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV – (1872-1886)",
+      "slug": "iv-1872-1886",
+      "spine_start": 2403,
+      "spine_end_exclusive": 2404,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_028.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V – (1887-1892)",
+      "slug": "v-1887-1892",
+      "spine_start": 2404,
+      "spine_end_exclusive": 2405,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_029.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI – (1893-1897)",
+      "slug": "vi-1893-1897",
+      "spine_start": 2405,
+      "spine_end_exclusive": 2406,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_030.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII – (1898-1902)",
+      "slug": "vii-1898-1902",
+      "spine_start": 2406,
+      "spine_end_exclusive": 2407,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_031.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII – (1902)",
+      "slug": "viii-1902",
+      "spine_start": 2407,
+      "spine_end_exclusive": 2409,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_032.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_033.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

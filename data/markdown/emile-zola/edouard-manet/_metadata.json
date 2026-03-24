@@ -1,0 +1,62 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ÉDOUARD MANET",
+  "slug": "edouard-manet",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1382,
+      "spine_end_exclusive": 1383,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_082.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Introduction d’Émile Zola",
+      "slug": "introduction-demile-zola",
+      "spine_start": 1383,
+      "spine_end_exclusive": 1384,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_083.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I – L’homme et l'artiste",
+      "slug": "i-lhomme-et-lartiste",
+      "spine_start": 1384,
+      "spine_end_exclusive": 1385,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_084.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II – Les oeuvres",
+      "slug": "ii-les-oeuvres",
+      "spine_start": 1385,
+      "spine_end_exclusive": 1386,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_085.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III – Le public",
+      "slug": "iii-le-public",
+      "spine_start": 1386,
+      "spine_end_exclusive": 1388,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_086.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_087.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

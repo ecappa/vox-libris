@@ -1,0 +1,911 @@
+::: WordSection
+[
+]{.calibre44}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre28} [!{.calibre29}]{.calibre28}
+
+## []{#_Toc368911226 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910740 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910254 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909768 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909282 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908796 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908310 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907824 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907338 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906852 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906366 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905880 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905394 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904908 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904422 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903936 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903450 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902964 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902478 .pcalibre .calibre2 .pcalibre1}[]{#_Table_des_matières_1 .pcalibre .calibre2 .pcalibre1}Table des matières {#calibre_toc_41 .calibre30}
+
+!{#Image5710 .calibre31}
+
+[[Présentation]{.calibre32}](../Text/Zola5_split_066.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[À mon ami Paul Cézanne]{.calibre32}](../Text/Zola5_split_067.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Le jury]{.calibre32}](../Text/Zola5_split_068.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Le jury (suite)]{.calibre32}](../Text/Zola5_split_069.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Le moment artistique]{.calibre32}](../Text/Zola5_split_070.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[M. Manet]{.calibre32}](../Text/Zola5_split_071.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Les réalistes du Salon]{.calibre32}](../Text/Zola5_split_074.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Les chutes]{.calibre32}](../Text/Zola5_split_075.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Adieux d'un critique d'art]{.calibre32}](../Text/Zola5_split_076.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Appendice à Mon Salon]{.calibre32}](../Text/Zola5_split_078.htm){.pcalibre .calibre2 .pcalibre1}
+
+
+---
+
+::: WordSection
+[
+]{.calibre44}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911227 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910741 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910255 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909769 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909283 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908797 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908311 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907825 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907339 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906853 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906367 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905881 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905395 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904909 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904423 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903937 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903451 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902965 .pcalibre .calibre2 .pcalibre1}[Présentation]{#_Toc368902479 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_42 .calibre30}
+
+*Mon Salon* est un recueil d'articles de critiques d'art qui ont été spécialement écrit pour le journal *L'événement*. Ils y parurent initialement sous forme de feuilletons du 1er au 26 septembre 1866.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911228 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910742 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910256 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909770 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909284 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908798 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908312 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907826 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907340 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906854 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906368 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905882 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905396 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904910 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904424 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903938 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903452 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902966 .pcalibre .calibre2 .pcalibre1}[À mon ami Paul Cézanne]{#_Toc368902480 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_43 .calibre30}
+
+J\'éprouve une joie profonde, mon ami, à m'entretenir seul à seul avec toi. Tu ne saurais croire combien j\'ai souffert pendant cette querelle que je viens d\'avoir avec la foule, avec des inconnus ; je me sentais si peu compris, je devinais une telle haine autour de moi, que souvent le découragement me faisait tomber la plume de la main.
+
+Je puis aujourd\'hui me donner la volupté intime d\'une de ces bonnes causeries que nous avons depuis dix ans ensemble. C\'est pour toi seul que j\'écris ces quelques pages, je sais que tu les liras avec ton cœur, et que, demain, tu m\'aimeras plus affectueusement.
+
+Imagine-toi que nous sommes seuls, dans quelque coin perdu, en dehors de toute lutte, et que nous causons en vieux amis qui se connaissent jusqu\'au cœur et qui se comprennent sur un simple regard
+
+Il y a dix ans que nous parlons arts et littérature. Nous avons souvent habité ensemble, --- te souviens-tu ? --- et souvent le jour nous a surpris discutant encore, fouillant le passé, interrogeant le présent, tâchant de trouver la vérité et de nous créer une religion infaillible et complète. Nous avons remué des tas effroyables d\'idées, nous avons examiné et rejeté tous les systèmes, et, après un si rude labeur, nous nous sommes dit qu\'en dehors de la vie puissante et individuelle, il n\'y avait que mensonge et sottise.
+
+Heureux ceux qui ont des souvenirs ! Je te vois dans ma vie comme ce pâle jeune homme dont parle Musset. Tu es toute ma jeunesse ; je te retrouve mêlé à chacune de mes joies, à chacune de mes souffrances. Nos esprits, dans leur fraternité, se sont développés côte à côte. Aujourd\'hui, au jour du début, nous avons foi en nous, parce que nous avons pénétré nos cœurs et nos chairs.
+
+Nous vivions dans notre ombre, isolés, peu sociables, nous plaisant dans nos pensées. Nous nous sentions perdus au milieu de la foule complaisante et légère. Nous cherchions des hommes en toutes choses, nous voulions dans chaque œuvre, tableau ou poème, trouver un accent personnel. Nous affirmions que les maîtres, les génies, sont des créateurs qui, chacun, ont créé un monde de toutes pièces, et nous refusions les disciples, les impuissants, ceux dont le métier est de voler çà et là quelques bribes d\'originalité.
+
+Sais-tu que nous étions des révolutionnaires sans le savoir ? Je viens de pouvoir dire tout haut ce que nous avons dit tout bas pendant dix ans. Le bruit de la querelle est allé jusqu\'à toi, n\'est-ce pas ? et tu as vu le bel accueil que l\'on a fait à nos chères pensées. Ah ! les pauvres garçons, qui vivaient sainement en pleine Provence, sous le large soleil, et qui couvaient une telle folie et une telle mauvaise foi !
+
+Car, --- tu l\'ignorais sans doute, --- je suis un homme de mauvaise foi. Le public a déjà commandé plusieurs douzaines de camisoles de force pour me conduire à Charenton. Je ne loue que mes parents et mes amis, je suis un idiot et un méchant, je cherche le scandale.
+
+Cela fait pitié, mon ami, et cela est fort triste. L\'histoire sera donc toujours la même ? Il faudra donc toujours parler comme les autres, ou se taire ? Te rappelles-tu nos longues conversations ? Nous disions que la moindre vérité nouvelle ne pouvait se montrer sans exciter des colères et des huées. Et voilà qu\'on me siffle et qu\'on m\'injurie à mon tour.
+
+Vous autres peintres, vous êtes bien plus irritables que nous autres écrivains. J\'ai dit franchement mon avis sur les médiocres et les mauvais livres, et le monde littéraire a accepté mes arrêts sans trop se fâcher. Mais les artistes ont la peau plus tendre. Je n\'ai pu poser le doigt sur eux sans qu\'ils se mettent à crier de douleur. Il y a eu émeute. Certains bons gardons me plaignent et s\'inquiètent des haines que je me suis attirées ; ils craignent, je crois, qu\'on ne m\'égorge dans quelque carrefour.
+
+Et pourtant je n\'ai dit que mon opinion, tout naïvement. Je crois avoir été bien moins révolutionnaire qu\'un critique d\'art de ma connaissance qui affirmait dernièrement à ses trois cent mille lecteurs que M. Baudry était le premier peintre de l\'époque. Jamais je n\'ai formulé une pareille monstruosité. Un instant, j\'ai craint pour ce critique d\'art, j\'ai tremblé qu\'on n\'allât l\'assassiner dans son lit pour le punir d\'un tel excès de zèle. On m\'apprend qu\'il se porte à ravir. Il paraît qu\'il y a des services qu\'on peut rendre et des vérités qu\'on ne peut dire.
+
+Donc, la campagne est finie, et, pour le public, je suis vaincu. On applaudit et on fait des gorges chaudes.
+
+Je n\'ai pas voulu enlever son jouet à la foule, et je publie « Mon Salon ». Dans quinze jours, le bruit sera apaisé, il ne restera aux plus ardents qu\'une idée vague de mes articles. C\'est alors que, dans les esprits, je grandirai encore en ridicule et en mauvaise foi. Les pièces ne seront plus sous les yeux des rieurs, le vent aura emporté les feuilles volantes de l'Événement, et on me fera dire ce que je n\'ai pas dit, on racontera de grosses sottises que je n\'ai jamais formulées. Je ne veux pas que cela soit, et c\'est pourquoi je réunis les articles que j\'ai donnés à *l'Événement* sous le pseudonyme de Claude. Je souhaite que « Mon Salon » demeure ce qu\'il est, ce que le public lui-même a voulu qu\'il fût.
+
+Ce sont là les pages maculées et déchirées d\'une étude que je n\'ai pu compléter. Je les donne pour ce qu\'elles sont, des lambeaux d\'analyse et de critique. Ce n\'est pas une œuvre que je livre aux lecteurs, c\'est en quelque sorte les pièces d\'un procès.
+
+L\'histoire est excellente, mon ami. Pour rien au monde, je ne voudrais anéantir ces feuillets ; ils ne valent pas grand-chose en eux-mêmes, mais ils ont été, pour ainsi dire, la pierre de touche contre laquelle j\'ai essayé le public. Nous savons maintenant combien nos chères pensées sont impopulaires.
+
+Puis, il me plaît d\'étaler une seconde fois mes idées. J\'ai foi en elles, je sais que dans quelques années j\'aurai raison pour tout le monde. Je ne crains pas qu\'on me les jette à la face plus tard.
+
+Émile ZOLA.
+
+Paris, 20 mai 1866.
+
+
+---
+
+::: WordSection
+**[
+]{.calibre41}**
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911229 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910743 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910257 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909285 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908799 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908313 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907827 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906855 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906369 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905883 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905397 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904911 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904425 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903939 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903453 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902967 .pcalibre .calibre2 .pcalibre1}[Le jury]{#_Toc368902481 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_44 .calibre30}
+
+27 avril.
+
+
+Le Salon de 1866 n\'ouvrira que le 1er mai, et ce jour-là seulement il me sera permis de juger mes justiciables.
+
+Mais, avant de juger les artistes admis, il me semble bon de juger les juges. Vous savez qu\'en France nous sommes pleins de prudence ; nous ne hasardons point un pas sans un passeport dûment signé et contresigné, et, lorsque nous permettons à un homme de faire la culbute en public, il faut auparavant qu\'il ait été examiné tout au long par des hommes autorisés.
+
+Donc, comme les libres manifestations de l\'art pourraient occasionner des malheurs imprévus et irréparables, on place à la porte du sanctuaire un corps de garde, une sorte d\'octroi de l\'idéal, chargé de sonder les paquets et d\'expulser toute marchandise frauduleuse qui tenterait de s\'introduire dans le temple.
+
+Qu\'on me permette une comparaison, un peu hasardée peut-être. Imaginez que le Salon est un immense ragoût artistique, qui nous est servi tous les ans. Chaque peintre, chaque sculpteur envoie son morceau. Or, comme nous avons l\'estomac délicat, on a cru prudent de nommer toute une troupe de cuisiniers pour accommoder ces victuailles de goûts et d\'aspects si divers. On a craint les indigestions, et on a dit aux gardiens de la santé publique :
+
+« Voici les éléments d\'un mets excellent ; ménagez le poivre, car le poivre échauffe ; mettez de l\'eau dans le vin, car la France est une grande nation qui ne peut perdre la tête. »
+
+Il me semble, dès lors, que les cuisiniers jouent le grand rôle. Puisqu\'on nous assaisonne notre admiration et qu\'on nous mâche nos opinions, nous avons le droit de nous occuper avant tout de ces hommes complaisants qui veulent bien veiller à ce que nous ne nous gorgions pas comme des gloutons d\'une nourriture de mauvaise qualité. Quand vous mangez un beefsteak, est-ce que vous vous inquiétez du bœuf ? Vous ne songez qu\'à remercier ou à maudire le marmiton qui vous le sert trop ou pas assez saignant.
+
+Il est donc bien entendu que le Salon n\'est pas l\'expression entière et complète de l\'art français en l\'an de grâce 1866, mais qu\'il est à coup sûr une sorte de ragoût préparé et fricassé par vingt-huit cuisiniers nommés tout exprès pour cette besogne délicate.
+
+Un salon, de nos jours, n\'est pas l\'œuvre des artistes, il est l\'œuvre d\'un jury. Donc, je m\'occupe avant tout du jury, l\'auteur de ces longues salles froides et blafardes dans lesquelles s\'étalent, sous la lumière crue, toutes les médiocrités timides et toutes les réputations volées.
+
+Naguère, c\'était l\'Académie des beaux-arts qui passait le tablier blanc et qui mettait la main à la pâte. À cette époque, le Salon était un mets gras et solide, toujours le même. On savait à l\'avance quel courage il fallait apporter pour avaler ces morceaux classiques, ces boulettes épaisses, mollement arrondies, et qui vous étouffaient lentement et sûrement.
+
+La vieille Académie, cuisinière de fondation, avait ses recettes à elle, dont elle ne s\'écartait jamais ; elle s\'arrangeait de façon, quels que fussent les tempéraments et les époques, à servir le même plat au public. Le bon public, qui étouffait, finit par se plaindre ; il demanda grâce, il voulut qu\'on lui servît des mets plus relevés, plus légers, plus appétissants au goût et à la vue.
+
+Vous vous rappelez les lamentations de cette vieille cuisinière d\'Académie. On lui enlevait la casserole dans laquelle elle avait fait sauter deux ou trois générations d\'artistes. On la laissa geindre et on confia la queue de la poêle à d\'autres gâte-sauces.
+
+C\'est ici qu\'éclate le sens pratique que nous avons de la liberté et de la justice. Les artistes se plaignant de la coterie académique, il fut décidé qu\'ils choisiraient leur jury eux-mêmes. Dès lors, ils n\'auraient plus à se fâcher, s\'ils se donnaient des juges sévères et personnels. Telle fut la décision prise.
+
+Mais vous vous imaginez peut-être que tous les peintres et tous les sculpteurs, tous les graveurs et tous les architectes, furent appelés à voter. On voit bien que vous aimez votre pays d\'un amour aveugle. Hélas ! la vérité est triste, mais je dois confesser que ceux-là seuls nomment le jury, qui justement n\'ont pas besoin du jury. Vous et moi, qui avons dans notre poche une ou deux médailles, il nous est permis d\'élire un tel ou un tel, dont nous nous soucions peu d\'ailleurs, car il n\'a pas le droit de regarder nos toiles, reçues à l\'avance. Mais ce pauvre hère, jeté à la porte du Salon pendant cinq ou six années consécutives, n\'a pas même la permission de choisir ses juges, et est obligé de subir ceux que nous lui imposons par indifférence ou par camaraderie.
+
+Je désire insister sur ce point. Le jury n\'est pas nommé par le suffrage universel, mais par un vote restreint auquel peuvent seulement prendre part les artistes exemptés de tout jugement à la suite de certaines récompenses. Quelles sont donc les garanties pour ceux qui n\'ont pas de médailles à montrer ? Comment ! on crée un jury ayant charge d\'examiner et d\'accepter les œuvres des jeunes artistes, et on fait nommer ce jury par ceux qui n\'en ont plus besoin ! Ceux qu\'il faut appeler au vote, ce sont les inconnus, les travailleurs cachés, pour qu\'ils puissent tenter de constituer un tribunal qui les comprendra et qui les admettra enfin aux regards de la foule.
+
+C\'est toujours une misérable histoire, je vous assure, que l\'histoire d\'un vote. L\'art n\'a rien à faire ici ; nous sommes en pleine misère et en pleine sottise humaines. Vous devinez déjà ce qui arrive et ce qui arrivera chaque année. Tantôt ce sera la coterie de ce monsieur, et tantôt la coterie de cet autre monsieur, qui réussiront. Nous n\'avons plus un corps stable, comme l\'Académie ; nous avons un grand nombre d\'artistes qui peuvent être réunis de mille façons, de manière à former des tribunaux féroces, ayant les opinions les plus contraires et les plus implacables.
+
+Une année, le Salon sera tout en vert ; une autre année, tout en bleu ; et dans trois ans, nous le verrons peut-être tout en rose. Le public qui n\'est pas à l\'office, qui n\'assiste pas à la cuisson, acceptera ces divers Salons, comme les expressions exactes des moments artistiques. Il ne saura pas que c\'est uniquement tel peintre qui a fait l\'Exposition entière ; il ira là de bonne foi et avalera la bouchée, croyant s\'ingurgiter tout l\'art de l\'année.
+
+Il faut rétablir énergiquement les choses dans leur réalité. Il faut dire à ces juges, qui vont au palais de l\'Industrie défendre parfois une idée mesquine et personnelle, que les Expositions ont été créées pour donner largement de la publicité aux travailleurs sérieux. Tous les contribuables paient, et les questions d\'écoles et de systèmes ne doivent pas ouvrir la porte pour les uns et la fermer pour les autres.
+
+Je ne sais comment ces juges comprennent leur mission. Ils se moquent de la vérité et de la justice, vraiment. Pour moi, un Salon n\'est jamais que la constatation du mouvement artistique ; la France entière, ceux qui voient blanc et ceux qui voient noir, envoient leurs toiles pour dire au public : « Nous en sommes là, l\'esprit marche et nous marchons ; voici les vérités que nous croyons avoir acquises depuis un an. » Or, il est des hommes qu\'on place entre les artistes et le public. De leur autorité toute-puissante, ils ne montrent que le tiers, que le quart de la vérité ; ils amputent l\'art et n\'en présentent à la foule que le cadavre mutilé.
+
+Qu\'ils le sachent, ils ne sont là que pour rejeter la médiocrité et la nullité. Il leur est défendu de toucher aux choses vivantes et individuelles. Qu\'ils refusent, s\'ils le veulent, --- ils en ont d\'ailleurs la mission, --- les académies des pensionnaires, les élèves abâtardis de maîtres bâtards, mais, par grâce, qu\'ils acceptent avec respect les artistes libres, ceux qui vivent en dehors, qui cherchent ailleurs et plus loin les réalités âpres et fortes de la nature.
+
+Voulez-vous savoir comment on a procédé à l\'élection du jury de cette année ? Un cercle de peintres, m\'a-t-on dit, a rédigé une liste qu\'on a fait imprimer et circuler dans les ateliers des artistes votants. La liste a passé tout entière.
+
+Je vous le demande, où est l\'intérêt de l\'art parmi ces intérêts personnels ? Quelles garanties a-t-on données aux jeunes travailleurs ? On semble avoir tout fait pour eux, on déclare qu\'ils se montrent bien difficiles, s\'ils ne sont pas contents. C\'est une plaisanterie, n\'est-ce pas ? Mais la question est sérieuse, et il serait temps de prendre un parti.
+
+Je préfère qu\'on reprenne cette bonne vieille cuisinière d\'Académie. Avec elle, on n\'est pas sujet aux surprises ; elle est constante dans ses haines et dans ses amitiés. Maintenant, avec ces juges élus par la camaraderie, on ne sait plus à quel saint se vouer. Si j\'étais peintre nécessiteux, mon grand souci serait de deviner qui je pourrais bien avoir pour juge, afin de peindre selon ses goûts.
+
+On vient de refuser, entre autres, MM. Manet et Brigot, dont les toiles avaient été reçues les années précédentes. Évidemment, ces artistes ne peuvent avoir beaucoup démérité, et je sais même que leurs derniers tableaux sont meilleurs. Comment alors expliquer ce refus ?
+
+Il me semble, en bonne logique, que si un peintre a été jugé digne aujourd\'hui de montrer ses œuvres au public, on ne peut pas couvrir ses toiles demain.
+
+C\'est pourtant cette bévue que vient de commettre le jury. Pourquoi ? Je vous l\'expliquerai.
+
+Vous imaginez-vous cette guerre civile entre artistes, se proscrivant les uns les autres ; les puissants d\'aujourd\'hui mettraient à la porte les puissants d\'hier ; ce serait un tohu-bohu effroyable d\'ambitions et de haines, une sorte de petite Rome au temps de Sylla et de Marins. Et nous, bon public, qui avons droit aux œuvres de tous les artistes, nous n\'aurions jamais que les œuvres de la faction triomphante. vérité, ô justice !
+
+Jamais l\'Académie ne s\'est déjugée de la sorte. Elle tenait les gens pendant des années à la porte, mais elle ne les chassait pas de nouveau après les avoir fait entrer.
+
+Dieu me préserve de rappeler trop fort l\'Académie. Le mal est préférable au pire, voilà tout.
+
+Je ne veux pas même choisir des juges et désigner certains artistes comme devant être des jurés impartiaux. MM. Manet et Brigot refuseraient sans doute MM. Breton et Brion, de même que ceux-ci ont refusé ceux-là. L\'homme a ses sympathies et ses antipathies, qu\'il ne peut vaincre. Or, il s\'agit ici de vérité et de justice.
+
+Qu\'on crée donc un jury, il n\'importe lequel. Plus il commettra d\'erreurs et plus il manquera sa sauce, plus je rirai. Croyez-vous que ces hommes ne me donnent pas un spectacle réjouissant ? Ils défendent leur petite chapelle avec mille finesses de sacristains qui m\'amusent énormément. Mais qu\'on rétablisse alors ce qu\'on a appelé le Salon des Refusés. Je supplie tous mes confrères de se joindre à moi, je voudrais grossir ma voix, avoir toute puissance pour obtenir la réouverture de ces salles où le public allait juger, à son tour, et les juges et les condamnés. Là, pour le moment, est le seul moyen de contenter tout le monde. Les artistes refusés n\'ont pas encore retiré leurs œuvres ; qu\'on se hâte de planter des clous et d\'accrocher leurs tableaux quelque part.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911230 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910744 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910258 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909772 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909286 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908800 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908314 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907828 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907342 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906856 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906370 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905884 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905398 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904912 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904426 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903940 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903454 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902968 .pcalibre .calibre2 .pcalibre1}[Le jury (suite)]{#_Toc368902482 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_45 .calibre30}
+
+30 avril.
+
+
+De tous côtés on me somme de m\'expliquer, on me demande avec instance de citer les noms des artistes de mérite qui ont été refusés par le jury.
+
+Le public sera donc toujours le bon public. Il est évident que les artistes mis à la porte du Salon ne sont encore que les peintres célèbres de demain, et je ne pourrais donner ici que des noms inconnus de mes lecteurs. Je me plains justement de ces étranges jugements qui condamnent à l\'obscurité, pendant de longues années, des garçons sérieux ayant le seul tort de ne pas penser comme leurs confrères. Il faut se dire que toutes les personnalités, Delacroix et les autres, nous ont été longtemps cachées par les décisions de certaines coteries. Je ne voudrais pas que cela se renouvelât, et j\'écris justement ces articles pour exiger que les artistes qui seront à coup sûr les maîtres de demain ne soient pas les persécutés d\'aujourd\'hui.
+
+J\'affirme carrément que le jury qui a fonctionné cette année a jugé d\'après un parti pris. Tout un côté de l\'art français, à notre époque, nous a été volontairement voilé. J\'ai nommé MM. Manet et Brigot, car ceux-là sont déjà connus ; je pourrais en citer vingt autres appartenant au même mouvement artistique. C\'est dire que le jury n\'a pas voulu des toiles fortes et vivantes, des études faites en pleine vie et en pleine réalité.
+
+Je sais bien que les rieurs ne vont pas être de mon côté. On aime beaucoup à rire en France, et je vous jure que je vais rire encore plus fort que les autres. Rira bien qui rira le dernier.
+
+Eh oui ! je me constitue le défenseur de la réalité. J\'avoue tranquillement que je vais admirer M. Manet, je déclare que je fais peu de cas de toute la poudre de riz de M. Cabanel et que je préfère les senteurs âpres et saines de la nature vraie. D\'ailleurs, chacun de mes jugements viendra en son temps. Je me contente de constater ici, et personne n\'osera me démentir, que le mouvement qu\'on a désigné sous le nom de réalisme ne sera pas représenté au Salon.
+
+Je sais bien qu\'il y aura Courbet. Mais Courbet, paraît-il, a passé à l\'ennemi. On serait allé chez lui en ambassade, car le maître d\'Ornans est un terrible tapageur qu\'on craint d\'offenser, et on lui aurait offert des titres et des honneurs s\'il voulait bien renier ses disciples. On parle de la grande médaille ou même de la croix. Le lendemain, Courbet se rendait chez M. Brigot, son élève, et lui déclarait vertement qu\'il « n\'avait pas la philosophie de sa peinture ». La philosophie de la peinture de Courbet ! pauvre cher maître, le livre de Proudhon vous a donné une indigestion de démocratie. Par grâce, restez le premier peintre de l\'époque, ne devenez ni moraliste ni socialiste.
+
+D\'ailleurs, qu\'importent aujourd\'hui mes sympathies ! Moi, public, je me plains d\'être lésé dans ma liberté d\'opinion ; moi, public, je suis irrité de ce qu\'on ne me donne pas dans son entier le moment artistique ; moi, public, j\'exige qu\'on ne me cache rien, j\'intente justement et légalement un procès aux artistes qui, avec parti pris, ont chassé du Salon tout un groupe de leurs confrères.
+
+Toute assemblée, toute réunion d\'hommes nommée dans le but de prendre des décisions quelconques, n\'est pas une machine simple, ne tournant que dans un sens et n\'obéissant qu\'à un seul ressort. Il y a une étude délicate à faire pour expliquer chaque mouvement, chaque tour de roue. Le vulgaire ne voit qu\'un simple résultat obtenu ; l\'observateur aperçoit les tiraillements, les soubresauts qui secouent la machine.
+
+Voulez-vous que nous remontions la machine et que nous la fassions fonctionner un peu ? Prenons délicatement les roues, les petites et les grandes, celles qui tournent à gauche et celles qui tournent à droite. Ajustons-les et regardons le travail produit. La machine grince par instants, certaines pièces s\'obstinent à aller selon leur bon plaisir ; mais, en somme, le tout marche convenablement. Si toutes les roues ne tournent pas, poussées par le même ressort, elles arrivent à s\'engrener les unes dans les autres et à travailler en commun à la même besogne.
+
+Il y a les bons garçons qui refusent et qui reçoivent avec indifférence ; il y a les gens arrivés qui sont en dehors des luttes ; il y a les artistes du passé qui tiennent à leurs croyances, qui nient toutes les tentatives nouvelles ; il y a enfin les artistes du présent, ceux dont la petite manière a un petit succès et qui tiennent ce succès entre leurs dents, en grondant et en menaçant tout confrère qui s\'approche.
+
+Le résultat obtenu, vous le connaissez : ce sont ces salles si vides et si mornes, que nous visiterons ensemble. Je sais bien que je ne puis faire au jury un crime de notre pauvreté artistique. Mais je puis lui demander compte de tous les artistes audacieux qu\'il décourage.
+
+On reçoit les médiocrités. On couvre les murs de toiles honnêtes et parfaitement nulles. De haut en bas, de long en large, vous pouvez regarder : pas un tableau qui choque, pas un tableau qui attire. On a débarbouillé l\'art, on l\'a peigné avec soin ; c\'est un brave bourgeois en pantoufles et en chemise blanche.
+
+Ajoutez à ces toiles honnêtes signées de noms inconnus, les tableaux exempts de tout examen. Ceux-là sont l\'œuvre des peintres que j\'aurai à étudier et à discuter.
+
+Voilà le Salon, toujours le même.
+
+Cette année, le jury a eu des besoins de propreté encore plus vifs. Il a trouvé que l\'année dernière le balai de l\'idéal avait oublié quelques brins de paille sur le parquet. Il a voulu faire place nette, et il a mis à la porte les réalistes, gens qui sont accusés de ne pas se laver les mains. Les belles dames visiteront le Salon en grandes toilettes : tout y sera propre et clair comme un miroir. On pourra se coiffer dans les toiles.
+
+Eh bien ! je suis heureux de terminer cet article en disant aux jurés qu\'ils sont de mauvais douaniers. L\'ennemi est dans la place, je les en avertis. Je ne parle pas des quelques bons tableaux qu\'ils ont reçus par inadvertance. Je veux dire tout simplement que M. Brigot, contre lequel on a pris les plus grandes précautions, aura pourtant deux études au salon. Cherchez bien, elles sont dans les B, quoique signées d\'un autre nom.
+
+Ainsi, jeunes artistes, si vous désirez être reçus l'année prochaine, ne prenez pas le pseudonyme de Brigot, prenez celui de Barbanchu. Vous êtes certains d\'être acceptés à l\'unanimité. Il paraît décidément que c\'est une simple affaire de nom.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911231 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910745 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910259 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909773 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909287 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908801 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908315 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907829 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907343 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906857 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906371 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905885 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905399 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904913 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904427 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903941 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903455 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902969 .pcalibre .calibre2 .pcalibre1}[Le moment artistique]{#_Toc368902483 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_46 .calibre30}
+
+4 mai.
+
+
+J'aurais dû peut-être, avant de porter le plus mince jugement, expliquer catégoriquement quelles sont mes façons de voir en art, quelle est mon esthétique. Je sais que les bouts d\'opinion que j\'ai été forcé de donner, d\'une manière incidente, ont blessé les idées reçues, et qu\'on m\'en veut pour ces affirmations carrées que rien ne paraissait établir.
+
+J\'ai ma petite théorie comme un autre, et, comme un autre, je crois que ma théorie est la seule vraie. Au risque de n\'être pas amusant, je vais donc poser cette théorie. Mes tendresses et mes haines en découleront tout naturellement.
+
+Pour le public, --- et je ne prends pas ici ce mot en mauvaise part, --- pour le public, une œuvre d\'art, un tableau, est une suave chose qui émeut le coeur d\'une façon douce ou terrible ; c\'est un massacre, lorsque les victimes pantelantes gémissent et se traînent sous les fusils qui les menacent ; ou c\'est encore une délicieuse jeune fille, toute de neige, qui rêve au clair de lune, appuyée sur un fût de colonne. Je veux dire que la foule voit dans une toile un sujet qui la saisit à la gorge ou au coeur, et qu\'elle ne demande pas autre chose à l\'artiste qu\'une larme ou qu\'un sourire.
+
+Pour moi, --- pour beaucoup de gens, je veux l\'espérer, --- une œuvre d\'art est, au contraire, une personnalité, une individualité.
+
+Ce que je demande à l\'artiste, ce n\'est pas de me donner de tendres visions ou des cauchemars effroyables ; c\'est de se livrer lui-même, coeur et chair, c\'est d\'affirmer hautement un esprit puissant et particulier, une nature qui saisisse largement la nature en sa main et la plante tout debout devant nous, telle qu\'il la voit. En un mot, j\'ai le plus profond dédain pour les petites habiletés, pour les flatteries intéressées, pour ce que l\'étude a pu apprendre et ce qu\'un travail acharné a rendu familier, pour tous les coups de théâtre historiques de ce monsieur et pour toutes les rêveries parfumées de cet autre monsieur. Mais, j\'ai la plus profonde admiration pour les œuvres individuelles, pour celles qui sortent d\'un jet d\'une main vigoureuse et unique.
+
+Il ne s\'agit donc plus ici de plaire ou de ne pas plaire, il s\'agit d\'être soi, de montrer son coeur à nu de formuler énergiquement une individualité.
+
+Je ne suis pour aucune école, parce que je suis pour la vérité humaine, qui exclut toute coterie et tout système. Le mot « art » me déplaît ; il contient en lui je ne sais quelles idées d\'arrangements nécessaires, d\'idéal absolu. Faire de l\'art, n\'est-ce pas faire quelque chose qui est en dehors de l\'homme et de la nature ? Je veux qu\'on fasse de la vie, moi ; je veux qu\'on soif vivant, qu\'on crée à nouveau, en dehors de tout, selon ses propres yeux et son propre tempérament. Ce que je cherche avant tout dans un tableau, c\'est un homme et non pas un tableau.
+
+Il y a, selon moi, deux éléments dans une œuvre : l'élément réel, qui est la nature, et l\'élément individuel, qui est l\'homme. L\'élément réel, la nature, est fixe, toujours le même ; il demeure égal pour tout le monde ; je dirais qu'il peut servir de commune mesure pour toutes les œuvres produites, si j\'admettais qu\'il puisse y avoir une commune mesure.
+
+L\'élément individuel, au contraire, l\'homme, est variable à l\'infini : autant d'\'œuvres et autant d\'esprits différents ; si le tempérament n\'existait pas, tous les tableaux devraient-être forcément de simples photographies.
+
+Donc, une œuvre d\'art n\'est jamais que la combinaison d\'un homme, élément variable, et de la nature, élément fixe. Le mot « réaliste » ne signifie rien pour moi, qui déclare subordonner le réel au tempérament. Faites vrai, j\'applaudis ; mais surtout faites individuel et vivant, et j\'applaudis plus fort. Si vous sortez de ce raisonnement, vous êtes forcé de nier le passé et de créer des définitions que vous serez forcé d\'élargir chaque année.
+
+Car c\'est une autre bonne plaisanterie de croire qu\'il y a, en fait de beauté artistique, une vérité absolue et éternelle. La vérité une et complète n\'est pas faite pour nous qui confectionnons chaque matin une vérité que nous usons chaque soir. Comme toute chose, l\'art est un produit humain, une sécrétion humaine ; c\'est notre corps qui sue la beauté de nos œuvres. Notre corps change selon les climats et selon les mœurs, et la sécrétion change donc également.
+
+C\'est dire que l\'œuvre de demain ne saurait être celle d\'aujourd\'hui ; vous ne pouvez formuler aucune règle, ni donner aucun précepte ; il faut vous abandonner bravement à votre nature et ne pas chercher à vous mentir. Est-ce que vous avez peur de parler votre langue, que vous cherchez à épeler péniblement des langues mortes !
+
+Ma volonté énergique est celle-ci : --- Je ne veux pas des œuvres d\'écoliers faites sur des modèles fournis par les maîtres. Ces œuvres me rappellent les pages d\'écriture que je traçais étant enfant, d\'après les pages lithographiées ouvertes devant moi. Je ne veux pas des retours au passé, des prétendues résurrections, des tableaux peints suivant un idéal formé de morceaux d\'idéal qu\'on a ramassés dans tous les temps. Je ne veux pas de tout ce qui n\'est point vie, tempérament, réalité !
+
+Et, maintenant, je vous en supplie, ayez pitié de moi. Songez à tout ce qu\'a dû souffrir hier un tempérament bâti comme le mien, égaré dans la vaste et morne nullité du Salon. Franchement, j\'ai eu un moment la pensée de lâcher la besogne, prévoyant trop de sévérité.
+
+Mais ce n\'est point les artistes que je vais blesser dans leurs croyances, ce sont eux qui viennent de me blesser bien plus vivement dans les miennes ! Mes lecteurs comprennent-ils ma position, se disent-ils : « Voilà un pauvre diable qui est tout écoeuré, et qui retient ses nausées pour garder la décence qu\'il doit au public ? »
+
+Jamais je n\'ai vu un tel amas de médiocrités. Il y a là deux mille tableaux, et il n\'y a pas dix hommes. Sur ces deux mille toiles, douze ou quinze vous parlent un langage humain ; les autres vous content des niaiseries de parfumeurs. Suis-je trop sévère ? Je ne fais pourtant que dire tout haut ce que les autres pensent tout bas.
+
+Je ne nie pas notre époque, au moins. J\'ai foi en elle, je sais qu\'elle cherche et qu\'elle travaille. Nous sommes dans un temps de luttes et de fièvres, nous avons nos talents et nos génies. Mais je ne veux pas qu\'on confonde les médiocres et les puissants, je crois qu\'il est bon de ne point avoir cette indulgence indifférente qui donne un mot d\'éloge à tout le monde, et qui, par là même, ne loue personne.
+
+Notre époque est celle-ci. Nous sommes civilisés, nous avons des boudoirs et des salons ; le badigeon est bon pour les petites gens, il faut des peintures sur les murs des riches. Et alors a été créée toute une corporation d\'ouvriers qui achèvent la besogne commencée par les maçons. Il faut beaucoup de peintres, comme vous pensez, et on est obligé de les élèvera la brochette, en masse. On leur donne, d\'ailleurs, les meilleurs conseils pour plaire et ne pas blesser les goûts du temps.
+
+Ajoutez à cela l\'esprit de l\'art moderne. En présence de l\'envahissement de la science et de l\'industrie, les artistes, par réaction, se sont jetés dans le rêve, dans un ciel de pacotille, tout de clinquant et de papier de soie. Allez donc voir si les maîtres de la Renaissance songeaient aux adorables petits riens devant lesquels nous nous pâmons ; ils étaient de puissantes natures qui peignaient en pleine vie. Nous autres, nous sommes nerveux et inquiets ; il y a beaucoup de la femme en nous, et nous nous sentons si faibles et si usés que la santé plantureuse nous déplaît. Parlez-moi des sentimentalités et des mièvreries !
+
+Nos artistes sont des poètes. C\'est là une grave injure pour des gens qui n\'ont pas même charge de penser, mais je la maintiens. Voyez le Salon : ce ne sont que strophes et madrigaux. Celui-ci rime une ode à la Pologne, cet autre une ode à Cléopâtre ; il y en a un qui chante sur le mode de Tibulle et un autre qui tâche de souffler dans la grande trompette de Lucrèce. Je ne parle pas des hymnes guerriers, ni des élégies, ni des chansons grivoises, ni des fables.
+
+Quel charivari !
+
+Par grâce, peignez, puisque vous êtes peintres, ne chantez pas. Voici de la chair, voici de la lumière ; faites un Adam qui soit votre création. Vous devez être des faiseurs d\'hommes, et non pas des faiseurs d\'ombres. Mais je sais que dans un boudoir un homme tout nu est peu convenable. C\'est pour cela que vous peignez de grands pantins grotesques qui ne sont pas plus indécents et pas plus vivants que les poupées en peau rose des petites filles.
+
+Le talent procède autrement, voyez-vous. Regardez les quelques toiles remarquables du Salon. Elles font un trou dans la muraille, elles sont presque déplaisantes, elles crient dans le murmure adouci de leurs voisines. Les peintres qui commettent de pareilles œuvres, sont en dehors de la corporation des badigeonneurs élégants dont j\'ai parlé. Ils sont peu nombreux, ils vivent d\'eux-mêmes, en dehors de toute école.
+
+Je l\'ai déjà dit, on ne peut accuser le jury de la médiocrité de nos peintres. Mais, puisqu\'il croit avoir charge d\'être sévère, pourquoi ne nous épargne-t-il pas la vue de toutes ces niaiseries ? Si vous n\'admettez que les talents, une salle de trois mètres carrés suffira.
+
+Ai-je été si révolutionnaire, en regrettant les quelques tempéraments qui ne figurent pas au Salon ? Nous ne sommes pas si riches en individualités, pour refuser celles qui se produisent. D\'ailleurs, je le sais, les tempéraments ne meurent pas d\'un refus. Je défends leur cause, parce qu\'elle me semble juste ; mais, au fond, je suis bien tranquille sur l\'état de santé du talent. Nos pères ont ri de Courbet, et voilà que nous nous extasions devant lui ; nous rions de Manet, et ce seront nos fils qui s\'extasieront en face de ses toiles.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911232 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910746 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910260 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909774 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909288 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908802 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908316 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907830 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907344 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906858 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906372 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905886 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905400 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904914 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904428 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903942 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903456 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902970 .pcalibre .calibre2 .pcalibre1}[M. Manet]{#_Toc368902484 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_47 .calibre30}
+
+
+::: WordSection
+**[
+]{.calibre61}**
+
+!{#Image785 .calibre68}
+
+
+::: WordSection
+**[
+]{.calibre42 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}**
+
+7 mai.
+
+
+Si nous aimons à rire, en France, nous avons, à l\'occasion, une exquise courtoisie et un tact parfait. Nous respectons les persécutés, nous défendons de toute notre puissance la cause des hommes qui luttent seuls contre une foule.
+
+Je viens, aujourd\'hui, tendre une main sympathique à l\'artiste qu\'un groupe de ses confrères a mis à la porte du Salon. Si je n\'avais pour le louer sans réserve la grande admiration que fait naître en moi son talent, j\'aurais encore la position qu\'on lui a créée de paria, de peintre impopulaire et grotesque.
+
+Avant de parler de ceux que tout le monde peut voir, de ceux qui étalent leur médiocrité en pleine lumière, je me fais un devoir de consacrer la plus large place possible à celui dont on a volontairement écarté les œuvres, et que l\'on n\'a pas jugé digne de figurer parmi quinze cents à deux mille impuissants qui ont été reçus à bras ouverts.
+
+Et je lui dis : « Consolez-vous. On vous a mis à part, et vous méritez de vivre à part. Vous ne pensez pas comme tous ces gens-là, vous peignez selon votre cœur et selon votre chair, vous êtes une personnalité qui s\'affirme carrément. Vos toiles sont mal à l\'aise parmi les niaiseries et les sentimentalités du temps. Restez dans votre atelier. C\'est là que je vais vous chercher et vous admirer. »
+
+Je m\'expliquerai le plus nettement possible sur M. Manet. Je neveux point qu\'il y ait de malentendu entre le public et moi. Je n\'admets pas et je n\'admettrai jamais qu\'un jury ait eu le pouvoir de défendre à la foule la vue d\'une des individualités les plus vivantes de notre époque. Comme mes sympathies sont en dehors du Salon, je n\'y entrerai que lorsque j\'aurai contenté ailleurs mes besoins d\'admiration.
+
+Il paraît que je suis le premier à louer sans restriction M. Manet. C\'est que je me soucie peu de toutes ces peintures de boudoir, de ces images coloriées, de ces misérables toiles où je ne trouve rien de vivant. J\'ai déjà déclaré que le tempérament seul m\'intéressait.
+
+On m\'aborde dans les rues, et on me dit : « Ce n\'est pas sérieux, n\'est-ce pas ? Vous débutez à peine, vous voulez couper la queue de votre chien. Mais, puisqu\'on ne vous voit pas, rions un peu ensemble du haut comique du *Dîner sur l'herbe*, de l'*Olympia*, du *Joueur de fifre*. »
+
+Ainsi nous en sommes à ce point en art, nous n\'avons plus même la liberté de nos admirations. Voilà que je passe pour un garçon qui se ment à lui-même par calcul. Et mon crime est de vouloir enfin dire la vérité sur un artiste qu\'on feint de ne pas comprendre et qu\'on chasse comme un lépreux du petit monde des peintres.
+
+L\'opinion de la majorité sur M. Manet est celle-ci : M. Manet est un jeune rapin qui s\'enferme pour fumer et boire avec des galopins de son âge. Alors, lorsqu\'on a vidé des tonnes de bière, le rapin décide qu\'il va peindre des caricatures et les exposer pour que la foule se moque de lui et retienne son nom. Il se met à l\'œuvre, il fait des choses inouïes, il se tient lui-même les côtes devant son tableau, il ne rêve que de se moquer du public et de se faire une réputation d\'homme grotesque.
+
+Bonnes gens !
+
+Je puis placer ici une anecdote qui rend admirablement le sentiment de la foule. Un jour, M. Manet et un littérateur très connu étaient assis devant un café des boulevards. Arrive un journaliste auquel le littérateur présente le jeune maître. « M. Manet, » dit-il. Le journaliste se hausse sur ses pieds, cherche à droite, cherche à gauche ; puis il finit par apercevoir devant lui l\'artiste, modestement assis et tenant une toute petite place. « Ah ! pardon, s\'écrie-t-il, je vous croyais colossal, et je cherchais partout un visage grimaçant et patibulaire. »
+
+Voilà tout le public.
+
+Les artistes eux-mêmes, les confrères, ceux qui devraient voir clair dans la question, n\'osent se décider. Les uns, je parle des sots, rient sans regarder, font des gorges chaudes sur ces toiles fortes et convaincues. Les autres parlent de talent incomplet, de brutalités voulues, de violences systématiques. En somme, ils laissent plaisanter le public, sans songer seulement à lui dire : « Ne riez pas si fort, si vous ne voulez passer pour des imbéciles. Il n\'y a pas le plus petit mot pour rire dans tout ceci. Il n\'y a qu\'un artiste sincère, qui obéit à sa nature, qui cherche le vrai avec fièvre, qui se donne entier et qui n\'a aucune de nos lâchetés. »
+
+Puisque personne dit cela, je vais le dire, moi, je vais le crier. Je suis tellement certain que M. Manet sera un des maîtres de demain, que je croirais conclure une bonne affaire, si j\'avais de la fortune, en achetant aujourd\'hui toutes ses toiles. Dans cinquante ans, elles se vendront quinze et vingt fois plus cher, et c\'est alors que certains tableaux de quarante mille francs ne vaudront pas quarante francs.
+
+Il ne faut pourtant pas avoir beaucoup d\'intelligence pour prophétiser de pareils événements.
+
+On a d\'un côté des succès de mode, des succès de salons et de coteries ; on a des artistes qui se créent une petite spécialité, qui exploitent un des goûts passagers du public ; on a des messieurs rêveurs et élégants qui, du bout de leurs pinceaux, peignent des images mauvais teint que quelques gouttes de pluie effaceraient.
+
+D\'un autre côté, au contraire, on a un homme s\'attaquant directement à la nature, ayant remis en question l\'art entier, cherchant à créer de lui-même et à ne rien cacher de sa personnalité. Est-ce que vous croyez que des tableaux peints d\'une main puissante et convaincue ne sont pas plus solides que de ridicules gravures d\'Épinal ?
+
+Nous irons rire, si vous le voulez, devant les gens qui se moquent d\'eux-mêmes et du public, en exposant sans honte des toiles qui ont perdu leur valeur première depuis qu\'elles sont barbouillées de jaune et de rouge. Si la foule avait reçu une forte éducation artistique, si elle savait admirer seulement les talents individuels et nouveaux, je vous assure que le Salon serait un lieu de réjouissance publique, car les visiteurs ne pourraient parcourir deux salles sans se rendre malades de gaieté. Ce qu\'il y a de prodigieusement comique à l\'Exposition, ce sont toutes ces œuvres banales et impudentes qui s\'étalent, montrant leur misère et leur sottise.
+
+Pour un observateur désintéressé, c\'était un spectacle navrant que ces attroupements bêtes devant les toiles de M. Manet. J\'ai entendu là bien des platitudes. Je me disais : « Serons-nous donc toujours si enfants, et nous croirons-nous donc toujours obligés de tenir boutique d\'esprit ? Voilà des individus qui rient, la bouche ouverte, sans savoir pourquoi, parce qu\'ils sont blessés dans leurs habitudes et dans leurs croyances. Ils trouvent cela drôle, et ils rient. Ils rient comme un bossu rirait d\'un autre homme, parce que cet homme n\'aurait pas de bosse. »
+
+Je ne suis allé qu\'une fois dans l\'atelier de M. Manet. L\'artiste est de taille moyenne, plutôt petite que grande ; blond de cheveux et de visage légèrement coloré, il paraît avoir une trentaine d\'années ; l\'œil vif et intelligent, la bouche mobile, un peu railleuse par instants ; la face entière, irrégulière et expressive, a je ne sais quelle expression de finesse et d\'énergie. Au demeurant, l\'homme, dans ses gestes et dans sa voix, a la plus grande modestie et la plus grande douceur.
+
+Celui que la foule traite de rapin gouailleur vit retiré, en famille. Il est marié et a l\'existence réglée d\'un bourgeois. Il travaille d\'ailleurs avec acharnement, cherchant toujours, étudiant la nature, s\'interrogeant et marchant dans sa voie.
+
+Nous avons causé ensemble de l\'attitude du public à son égard. Il n\'en plaisante pas, mais il n\'en paraît pas non plus découragé. Il a foi en lui ; il laisse passer tranquillement sur sa tête la tempête des rires, certain que les applaudissements viendront.
+
+J\'étais enfin en face d\'un lutteur convaincu, en face d\'un homme impopulaire qui ne tremblait pas devant le public, qui ne cherchait pas à apprivoiser la bête, qui s\'essayait plutôt à la dompter, à lui imposer son tempérament.
+
+C\'est dans cet atelier que j'ai compris complètement M. Manet. Je l\'avais aimé d\'instinct ; dès lors, j\'ai pénétré son talent, ce talent que je vais tâcher d\'analyser. Au Salon, ses toiles criaient sous la lumière crue, au milieu des images à un sou qu\'on avait collées au mur autour d\'elles. Je les voyais enfin à part, ainsi que tout tableau doit être vu, dans le lieu même où elles avaient été peintes.
+
+Le talent de M. Manet est fait de simplicité et de justesse. Sans doute, devant la nature incroyable de certains de mes confrères, il se sera décidé à interroger la réalité, seul à seul ; il aura refusé toute la science acquise, toute l\'expérience ancienne, il aura voulu prendre l\'art au commencement, c\'est-à-dire à l\'observation exacte des objets.
+
+Il s\'est donc mis courageusement en face d\'un sujet, il a vu ce sujet par larges taches, par oppositions vigoureuses, et il a peint chaque chose telle qu\'il la voyait. Qui ose parler ici de calcul mesquin, qui ose accuser un artiste consciencieux de se moquer de l\'art et de lui-même ? Il faudrait punir les railleurs, car ils insultent un homme qui sera une de nos gloires, et ils l\'insultent misérablement, riant de lui qui ne daigne même pas rire d\'eux. Je vous assure que vos grimaces et que vos ricanements l\'inquiètent peu.
+
+J\'ai revu le *Dîner sur l'herbe*, ce chef-d\'œuvre exposé au Salon des Refusés, et je défie nos peintres en vogue de nous donner un horizon plus large et plus empli d'air et de lumière. Oui, vous riez encore, parce que les ciels violets de M. Nazon vous ont gâtés. Il y a ici une nature bien bâtie qui doit vous déplaire. Puis nous n\'avons ni la Cléopâtre en plâtre de M. Gérôme, ni les jolies personnes roses et blanches de M. Dubuffe. Nous ne trouvons malheureusement là que des personnages de tous les jours, qui ont le tort d\'avoir des muscles et des os, comme tout le monde. Je comprends votre désappointement et votre gaieté, en face de cette toile ; il aurait fallu chatouiller votre regard avec des images de boîtes à gants.
+
+J\'ai revu également l'*Olympia*, qui a le défaut grave de ressembler à beaucoup de demoiselles que vous connaissez. Puis, n\'est-ce pas ? quelle étrange manie que de peindre autrement que les autres ! Si, au moins, M. Manet avait emprunté la houppe à poudre de riz de M. Cabanel et s\'il avait un peu fardé les joues et les seins d\'Olympia, la jeune fille aurait été présentable. Il y a là aussi un chat qui a bien amusé le public. Il est vrai que ce chat est d\'un haut comique, n\'est-ce pas ? et qu\'il faut être insensé pour avoir mis un chat dans ce tableau. Un chat, vous imaginez-vous cela ? Un chat noir, qui plus est. C\'est très drôle... O mes pauvres concitoyens, avouez que vous avez l\'esprit facile. Le chat légendaire d\'Olympia est un indice certain du but que vous vous proposez en vous rendant au Salon. Vous allez y chercher des chats, avouez-le, et vous n\'avez pas perdu votre journée lorsque vous trouvez un chat noir qui vous égaye.
+
+Mais l\'œuvre que je préfère est certainement le *Joueur de fifre*, toile refusée cette année. Sur un fond gris et lumineux, se détache le jeune musicien, en petite tenue, pantalon rouge et bonnet de police. Il souffle dans son instrument, se présentant de face. J\'ai dit plus haut que le talent de M. Manet était fait de justesse et de simplicité, me souvenant surtout de l\'impression que m\'a laissée cette toile. Je ne crois pas qu\'il soit possible d\'obtenir un effet plus puissant avec des moyens moins compliqués.
+
+Le tempérament de M. Manet est un tempérament sec, emportant le morceau. Il arrête vivement ses figures, il ne recule pas devant les brusqueries de la nature, il rend dans leur vigueur les différents objets se détachant les uns sur les autres. Tout son être le porte à voir par taches, par morceaux simples et énergiques. On peut dire de lui qu\'il se contente de chercher des tons justes et de les juxtaposer ensuite sur une toile. Il arrive que la toile se couvre ainsi d\'une peinture solide et forte. Je retrouve dans le tableau un homme qui a la curiosité du vrai et qui tire de lui un monde vivant d\'une vie particulière et puissante.
+
+Vous savez quel effet produisent les toiles de M. Manet au Salon. Elles crèvent le mur, tout simplement. Tout autour d\'elles s\'étalent les douceurs des confiseurs artistiques à la mode, les arbres en sucre candi et les maisons en croûte de pâté, les bons hommes en pain d\'épices et les bonnes femmes faites de crème à la vanille. La boutique de bonbons devient plus rose et plus douce, et les toiles vivantes de l\'artiste semblent prendre une certaine amertume au milieu de ce fleuve de lait. Aussi, faut-il voir les grimaces des grands enfants qui passent dans la salle. Jamais vous ne leur ferez avaler pour deux sous de véritable chair, ayant la réalité de la vie ; mais ils se gorgent comme des malheureux de toutes les sucreries écœurantes qu\'on leur sert.
+
+Ne regardez plus les tableaux voisins. Regardez les personnes vivantes qui sont dans la salle. Étudiez les oppositions de leurs corps sur le parquet et sur les murs. Puis, regardez les toiles de M. Manet : vous verrez que là est la vérité et la puissance. Regardez maintenant les autres toiles, celles qui sourient bêtement autour de vous : vous éclatez de rire, n\'est-ce pas ?
+
+La place de M. Manet est marquée au Louvre, comme celle de Courbet, comme celle de tout artiste d\'un tempérament original et fort. D\'ailleurs, il n'y a pas la moindre ressemblance entre Courbet et M. Manet, et ces artistes, s\'ils sont logiques, doivent se nier l\'un l\'autre. C\'est justement parce qu\'ils n\'ont rien de semblable qu\'ils peuvent vivre chacun d\'une vie particulière.
+
+Je n\'ai pas de parallèle à établir entre eux, j\'obéis à ma façon de voir en ne mesurant pas les artistes d\'après un idéal absolu et en n\'acceptant que les individualités uniques, celles qui s\'affirment dans la vérité et dans la puissance.
+
+Je connais la réponse : « Vous prenez l\'étrangeté pour l\'originalité, vous admettez donc qu\'il suffit de faire autrement que les autres pour faire bien. » Allez dans l\'atelier de M. Manet, messieurs ; puis revenez dans le vôtre et tâchez de faire ce qu\'il fait, amusez-vous à imiter ce peintre qui, selon vous, a pris en fermage l\'hilarité publique. Vous verrez alors qu\'il n\'est pas si facile de faire rire le monde.
+
+J\'ai tâché de rendre à M. Manet la place qui lui appartient, une des premières. On rira peut-être du panégyriste comme on a ri du peintre. Un jour, nous serons vengés tous deux. Il y a une vérité éternelle qui me soutient en critique : c\'est que les tempéraments seuls vivent et dominent les âges. Il est impossible, --- impossible, entendez-vous, --- que M. Manet n\'ait pas son jour de triomphe, et qu\'il n\'écrase pas les médiocrités timides qui l\'entourent.
+
+Ceux qui doivent trembler, ce sont les faiseurs, les hommes qui ont volé un semblant d\'originalité aux maîtres du passé ; ce sont ceux qui calligraphient des arbres et des personnages, qui ne savent ni ce qu\'ils sont ni ce que sont ceux dont ils rient. Ceux-là seront les morts de demain ; il y en a qui sont morts depuis dix ans, lorsqu\'on les enterre, et qui se survivent en criant qu\'on offense la dignité de l\'art si l\'on introduit une toile vivante dans cette grande fosse commune du Salon.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911233 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910747 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910261 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909775 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909289 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908803 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908317 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907831 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907345 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906859 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906373 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905887 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905401 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904915 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904429 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903943 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903457 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902971 .pcalibre .calibre2 .pcalibre1}[Les réalistes du Salon]{#_Toc368902485 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_48 .calibre30}
+
+11 mai
+
+
+Je serais désespéré si mes lecteurs croyaient un instant que je suis ici le porte-drapeau d\'une école Ce serait bien mal me comprendre que de faire de moi un réaliste quand même, un homme enrégimenté dans un parti.
+
+Je suis de mon parti, du parti de la vie et de la vérité, voilà tout. J\'ai quelque ressemblance avec Diogène, qui cherchait un homme ; moi, en art, je cherche aussi des hommes, des tempéraments nouveaux et puissants.
+
+Je me moque du réalisme, en ce sens que ce mot ne représente rien de bien précis pour moi. Si vous entendez par ce terme la nécessité où sont les peintres d\'étudier et de rendre la nature vraie, il est hors de doute que tous les artistes doivent être des réalistes. Peindre des rêves est un jeu d\'enfant et de femme ; les hommes ont charge de peindre des réalités.
+
+Ils prennent la nature et ils la rendent, ils la rendent vue à travers leurs tempéraments particuliers. Chaque artiste va nous donner ainsi un monde différent, et j\'accepterai volontiers tous ces divers mondes, pourvu que chacun d\'eux soit l\'expression vivante d\'un tempérament. J\'admire les mondes de Delacroix et de Courbet. Devant cette déclaration, on ne saurait, je crois, me parquer dans aucune école.
+
+Seulement, voici ce qu\'il arrive en nos temps d\'analyse psychologique et physiologique. Le vent est à la science ; nous sommes poussés, malgré nous, vers l\'étude exacte des faits et des choses. Aussi, toutes les fortes individualités qui se révèlent, s\'affirment-elles dans le sens de la vérité. Le mouvement de l\'époque est certainement réaliste, ou plutôt positiviste. Je suis donc forcé d\'admirer des hommes qui paraissent avoir quelque parenté entre eux, la parenté de l\'heure à laquelle ils vivent.
+
+Mais qu\'il naisse demain un génie autre, un esprit qui réagira, qui nous donnera avec puissance une terre nouvelle, la sienne, je lui promets mes applaudissements. Je ne saurais trop le répéter, je cherche des hommes et non des mannequins, des hommes de chair et d\'os, se confessant à nous, et non des menteurs qui n\'ont que du son dans le ventre.
+
+On m\'écrit que je loue « la peinture de l\'avenir ». Je ne sais ce que peut signifier cette expression. Je crois que chaque génie naît indépendant et qu\'il ne laisse pas de disciples. La peinture de l\'avenir m\'inquiète peu ; elle sera ce que la feront les artistes et les sociétés de demain.
+
+Le grand épouvantail, croyez-le, ce n\'est pas le réalisme, c\'est le tempérament. Tout homme qui ne ressemble pas aux autres, devient par là même un objet de défiance. Dès que la foule ne comprend plus, elle rit. Il faut toute une éducation pour faire accepter le génie. L\'histoire de la littérature et de l\'art est une sorts de martyrologe qui conte les huées dont on a couvert chacune des manifestations nouvelles de l'esprit humain.
+
+Il y a des réalistes au Salon, --- je ne dis plus des tempéraments, --- il y a des artistes qui prétendent donner la nature vraie, avec toutes ses crudités et toutes ses violences.
+
+Pour bien établir que je me moque de l\'observation plus ou moins exacte, lorsqu\'il n\'y a pas une individualité puissante qui fasse vivre le tableau, je vais d\'abord dire mon opinion toute nue sur MM. Monet, Ribot, Vollon, Bonvin et Roybet.
+
+Je mets MM. Courbet et Millet à part, désirant leur consacrer une étude particulière.
+
+J\'avoue que la toile qui m\'a le plus longtemps arrêté est la *Camille*, de M. Monet. C'est là une peinture énergique et vivante. Je venais de parcourir ces salles si froides et si vides, las de ne rencontrer aucun talent nouveau, lorsque j\'ai aperçu cette jeune femme, traînant sa longue robe et s\'enfonçant dans le mur, comme s\'il y avait eu un trou. Vous ne sauriez croire combien il est bon d\'admirer un peu lorsqu\'on est fatigué de rire et de hausser les épaules.
+
+Je ne connais pas M. Monet, je crois même que jamais auparavant je n\'avais regardé attentivement une de ses toiles. Il me semble cependant que je suis un de ses vieux amis. Et cela parce que son tableau me conte toute une histoire d\'énergie et de vérité.
+
+Eh oui ! voilà un tempérament, voilà un homme dans la foule de ces eunuques. Regardez les toiles voisines, et voyez quelle piteuse mine elles font à côté de cette fenêtre ouverte sur la nature. Ici, il y a plus qu\'un réaliste, il y a un interprète délicat et fort qui a su rendre chaque détail sans tomber dans la sécheresse.
+
+Voyez la robe. Elle est souple et solide. Elle traîne mollement, elle vit, elle dit tout haut qui est cette femme. Ce n\'est pas là une robe de poupée, un de ces chiffons de mousseline dont on habille les rêves ; C'est de la bonne soie, qui serait trop lourde sur les crèmes fouettées de M. Dubuffe.
+
+Vous voulez des réalistes, des tempéraments, m\'a-t-on écrit, prenez M. Ribot. Je nie que M. Ribot ait un tempérament qui lui appartienne, et je nie qu\'il rende la nature dans sa vérité.
+
+La vérité d\'abord. Regardez cette grande toile : Jésus est au milieu des docteurs, dans un coin du temple ; il y a de larges ombres ; des lumières s\'étalent par plaques blafardes. Où est le sang ? où est la vie ? Ça, de la réalité ! Mais les têtes de cet enfant et de ces hommes sont creuses ; il n\'y a pas un os dans ces chairs flasques et bouffies. Ce n\'est pas parce que les types sont vulgaires, n\'est-ce pas, que vous voulez me donner ce tableau pour une œuvre réelle ? J\'appelle réelle, une œuvre qui vit, une œuvre dont les personnages puissent se mouvoir et parler. Ici, je ne vois que des créatures mortes, toutes pâles et toutes dissoutes.
+
+Qu\'importe la vérité ! ai-je dit, si le mensonge est commis par un tempérament particulier et puissant. Alors, M. Ribot doit avoir tout ce qu\'il faut pour me plaire. Ces lumières blanchâtres, ces ombres sales sont de simples partis-pris ; l\'artiste a imposé son individualité à la nature, et il a créé de toutes pièces ce monde blafard. Le malheur est qu\'il n\'a rien créé du tout ; son monde existe depuis bien longtemps. C\'est un monde espagnol à peine francisé. Non seulement l\'œuvre n\'est pas vraie, ne vit pas, mais de plus n\'est pas une expression nouvelle du génie humain.
+
+M. Ribot n\'a rien ajouté à l\'art, il n\'a pas dit son mot propre, il ne nous a pas révélé un cœur et une chair. C\'est ici un tempérament inutile, une rencontre malheureuse, si l\'on veut. Certes, je préfère cette puissance fausse, cette individualité de contrebande, aux désolantes gentillesses dont j\'aurai à parler. Mais tout au fond de moi, j\'entends une voix qui me crie : « Prends garde ! celui-là est perfide ; il paraît énergique et vrai ; va jusqu\'aux moelles, tu trouveras le mensonge et le néant. »
+
+Le réalisme, pour bien des personnes, --- pour M. Vollon, par exemple, --- consiste dans le choix d\'un sujet vulgaire. Cette année, M. Vollon a été réaliste, en représentant une servante dans sa cuisine. La bonne grosse fille revient du marché, et a déposé à terre ses provisions. Elle est vêtue d\'une jupe rouge et s\'appuie au mur, montrant ses bras hâlés et sa figure épaisse.
+
+Moi, je ne vois rien de réel là-dedans, car cette servante est en bois, et elle est si bien collée au mur, que rien ne pourrait l\'en détacher. Les objets se comportent autrement dans la nature, sous la large lumière. Les cuisines sont pleines d\'air d\'habitude, et chaque chose n\'y prend pas ainsi une couleur cuite et rissolée. Puis, dans les intérieurs, les oppositions, les taches sont vigoureuses, bien qu\'adoucies, tout ne s\'en vient pas sur un même plan. La vérité est plus brutale, plus énergique que cela.
+
+Peignez des roses, mais peignez-les vivantes, si vous vous dites réaliste.
+
+M. Bonvin me paraît être également un amant platonique de la vérité. Ses sujets sont pris dans la vie réelle, mais la façon dont il traite les réalités pourrait tout aussi bien être employée pour traiter les rêves de certains peintres en vogue. Il y a je ne sais quelle sécheresse et quelle petitesse dans l\'exécution quitte toute vie au personnage.
+
+La *Grand'maman* que M. Bonvin expose, est une bonne vieille tenant une Bible sur ses genoux et humant son café, qu\'on lui apporte. La face m\'a paru tendue et grimaçante ; elle est trop détaillée ; le regard se perd dans ces rides rendues avec amour, et préférerait un visage d\'un seul morceau, bâti solidement. L\'effet s\'éparpille, la tête ne s'élève pas puissamment sur le fond.
+
+Avant l\'ouverture du Salon, on a fait quelque bruit autour de la toile de M. Roybet, *Un Fou sous Henri III*. On parlait d\'une personnalité fortement accusée, d\'un réalisme large. J\'ai vu la toile, et je n\'ai pas compris ces applaudissements donnés à l\'avance. C\'est là de la peinture honnête, plus solide assurément que celle de M. Hamon, mais d\'une énergie fort modérée.
+
+La personnalité annoncée ne s\'est pas révélée à mes regards.
+
+Le fou, tout de rouge habillé, tient en laisse deux dogues qui ont l\'air de deux bons enfants ; il rit, montrant les dents, et on dirait, à le voir, un satyre habillé.
+
+Le sujet importe peu d\'ailleurs, et le pis est que je trouve ces chiens, surtout cet homme, traités d\'une façon petite. Ici encore les détails dominent l\'ensemble ; les étoffes manquent de souplesse, les mains du personnage ressemblent à deux palettes de bois, et la face paraît ciselée avec soin.
+
+Je ne sens pas la chair, dans tout ceci, et si j\'éprouve quelque sympathie, c\'est pour les deux dogues qui sont plantés beaucoup plus carrément que leur maître.
+
+Voilà donc les quelques réalistes du Salon. Je puis en omettre ; mais, en tous cas, j\'ai nommé et étudié les principaux. J\'ai voulu simplement, je le répète, faire comprendre que je ne me parque dans aucune école, et que je demande uniquement à l\'artiste d\'être personnel et puissant.
+
+J\'ai tenu à être d\'autant plus sévère que je craignais d\'avoir été mal compris. Je n\'ai aucune sympathie pour la charge du tempérament, --- qu\'on me passe ce mot, --- et je n\'accepte que les individualités vraiment individuelles et nettement accusées. Toute école me déplaît, car une école est la négation même de la liberté de création humaine. Dans une école il y a un homme, le maître ; les disciples sont forcément des imitateurs.
+
+Donc pas plus de réalisme que d\'autre chose. De la vérité, si l'on veut, de la vie, mais surtout des chairs et des cœurs différents interprétant différemment la nature. La définition d\'une œuvre d\'art saurait être autre chose que celle-ci : *Une œuvre d\'art est un coin de la création vu à travers un tempérament*[^[^[\[16\]]{.calibre39 lang="EN-US"}^]{.calibre4 .sgc-2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}^](../Text/Zola5_split_599.htm#_ftn16){#_ftnref16 .pcalibre .pcalibre1 .calibre35 .sgc-3}*.*
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911234 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910748 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910262 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909776 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909290 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908804 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908318 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907832 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907346 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906860 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906374 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905888 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905402 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904916 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904430 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903944 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903458 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902972 .pcalibre .calibre2 .pcalibre1}[Les chutes]{#_Toc368902486 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_49 .calibre30}
+
+15 mai.
+
+
+Il y a, en ce moment, une excellente comédie qui se joue, au Salon, en face des tableaux de Courbet. Ce que je trouve de plus curieux à étudier, même au point de vue de l\'art, ce ne sont pas toujours les artistes, ce sont souvent les visiteurs qui par un seul mot, par un simple geste, avouent naïvement où nous en sommes en matière artistique. Il est bon parfois d\'interroger la foule.
+
+Cette année, il est admis que les toiles de Courbet sont charmantes. On trouve son paysage exquis et son étude de femme très convenable. J\'ai vu s\'extasier des personnes qui, jusqu\'ici, s\'étaient montrées très dures pour le maître d\'Ornans. Voilà qui m\'a mis en défiance. J\'aime à m\'expliquer les choses, et je n\'ai pas compris tout de suite ce brusque saut de l\'opinion publique.
+
+Mais tout a été expliqué, lorsque j\'ai regardé les toiles de plus près. Je l\'ai dit, la grande ennemie, c\'est la personnalité, l\'impression étrange d\'une nature individuelle. Un tableau est d\'autant plus goûté qu\'il est moins personnel. Courbet, cette année, a arrondi les angles trop rudes de son génie ; il a fait patte de velours, et voilà la foule charmée qui le trouve semblable à tout le monde et qui applaudit, satisfaite de voir enfin le maître à ses pieds.
+
+Je ne le cache pas, j\'éprouve une intime volupté à pénétrer les secrets ressorts d\'une organisation quelconque. J\'ai plus souci de la vie que de l\'art. Je m\'amuse énormément à étudier les grands courants humains qui traversent les foules et qui les jettent hors de leurs lits. Rien ne m\'a paru plus curieux que ce fait d\'un esprit puissant, admiré justement le jour où il a perdu quelque chose de sa puissance.
+
+J\'admire Courbet, et je le prouverai tout à l\'heure Mais, je vous prie, reportez-vous à cette époque où il peignait la *Baigneuse* et le *Convoi d\'Ornans*, et dites-moi si ces deux toiles magistrales ne sont pas autrement fortes que les deux délicieuses choses de cette année. Et pourtant, au temps de la *Baigneuse* et du *Convoi d\'Ornans*, Courbet prêtait à rire, Courbet était lapidé par le public scandalisé. Aujourd\'hui, personne ne rit, personne ne jette des pierres. Courbet a rentré ses serres d\'aigle, il ne s\'est pas livré entier, et tout le monde bat des mains, tout le monde lui décerne des couronnes.
+
+Je n\'ose formuler une règle qui s\'impose forcément à moi : c\'est que l\'admiration de la foule est toujours en raison indirecte du génie individuel. Vous êtes d\'autant plus admiré et compris, que vous êtes plus ordinaire.
+
+C\'est là un aveu grave que me fait la foule. J\'ai le plus grand respect pour le public ; mais si je n\'ai pas la prétention de le conduire, j\'ai au moins le droit de l\'étudier.
+
+Puisque je le vois aller aux tempéraments affadis, aux esprits complaisants, je mets en doute ses jugements, et je songe que je n\'ai pas eu un tort aussi grand qu\'on veut bien le dire, en admirant un paria, un lépreux de l\'art.
+
+Et comme je ne veux pas qu\'on se méprenne sur les sentiments d\'admiration profonde que j\'éprouve pour Courbet, je dis ici ce que j\'ai déjà dit ailleurs, il y a un an, lors de l\'apparition du livre de Proudhon.
+
+Mon Courbet, à moi, est simplement une personnalité. Le peintre a commencé par imiter les Flamands et certains maîtres de la Renaissance ; mais sa nature se révoltait, et il se sentait entraîné par toute sa chair, --- par toute sa chair, entendez-vous ? --- vers le monde matériel qui l\'entourait, les femmes grasses et les hommes puissants, les campagnes plantureuses et largement fécondes. Trapu et vigoureux, il avait l\'âpre désir de serrer entre ses bras la nature vraie ; il voulait peindre en pleine viande et en plein terreau.
+
+La jeune génération, je parle des jeunes gens de vingt à vingt-cinq ans, ne connaît presque pas Courbet. Il m\'a été donné de voir rue Hautefeuille, dans l\'atelier du maître, pendant une de ses absences, certains de ses premiers tableaux. Je me suis étonné, et je n\'ai pas trouvé le plus petit mot pour rire dans ces toiles graves et fortes dont on m\'avait fait des monstres. Je m\'attendais à des caricatures, à une fantaisie folle et grotesque, et j\'étais devant une peinture serrée et large, d\'un fini et d\'une franchise extrêmes.
+
+Les types étaient vrais, sans être vulgaires ; les chairs, fermes et souples, vivaient puissamment ; les fonds s\'emplissaient d\'air et donnaient aux figures une vigueur étonnante. La coloration, un peu sourde, a une harmonie presque douce, tandis que la justesse des tons et l\'ampleur du métier établissent les plans et font que chaque détail a un relief étrange. En fermant les yeux, je revois ces toiles énergiques, d\'une seule masse, bâties à chaux et à sable, réelles jusqu\'à la vérité. Courbet appartient à la famille des faiseurs de chair.
+
+Certes, je ne puis être accusé de mesurer l'éloge au maître. Je l\'aime dans sa puissance et sa personnalité.
+
+Il m'est permis de lui montrer la foule qui se groupe autour de ses toiles et de lui dire :
+
+--- Prenez garde, voilà que vous passez dans l\'admiration publique. Je sais bien qu\'un jour votre apothéose viendra. Mais, à votre place, je me fâcherais de me voir accepté juste à l\'heure où ma main aurait faibli, où je n\'aurais pas fouillé au fond de moi pour me donner dans ma nature, sans ménagement ni concessions.
+
+Je ne nie point que la *Femme au perroquet* ne soit une solide peinture, très travaillée et très nette ; je ne nie point que la Remise des chevreuils n\'ait un grand charme, beaucoup de vie ; mais il manque à ces toiles le je ne sais quoi de puissant et de voulu qui est Courbet tout entier. Il y a douceur et sourire ; Courbet, pour l\'écraser d\'un mot, a fait du joli !
+
+On parle de la grande médaille. Si j\'étais Courbet, je ne voudrais pas, pour la *Femme au perroquet*, d\'une récompense suprême qu\'on a refusée à la *Curée* et aux *Casseurs de pierre*. J\'exigerais qu\'il fût bien dit qu\'on m\'accepte dans mon génie et non dans mes gentillesses. Il y aurait pour moi je ne sais quelle pensée triste dans cette consécration donnée à deux de mes œuvres que je ne reconnaîtrais pas comme les filles saines et fortes de mon esprit.
+
+Il y a encore deux autres artistes au Salon sur lesquels j\'ai pleuré, MM. Millet et Théodore Rousseau. Tous deux ont été et seront encore, je me plais à le croire, des individualités pour lesquels je me sens la plus vive admiration. Et je les retrouve ayant perdu la fermeté de leurs mains et l\'excellence de leurs yeux.
+
+Je me souviens des premières peintures que j\'ai vues de M. Millet. Les horizons s\'étendaient larges et libres ; il y avait sur la toile comme un souffle de la terre. Une, deux figures au plus, puis quelques grandes lignes de terrain, et voilà qu\'on avait la campagne ouverte devant soi, dans sa poésie vraie, dans sa poésie qui n\'est faite que de réalité.
+
+Mais je parle en poète, et les peintres, je le sais, n\'aiment pas cela.
+
+S\'il faut parler métier, j\'ajouterai que la peinture de M. Millet était grasse et solide, que les différentes taches avaient une grande vigueur et une grande justesse. L\'artiste procédait par morceaux simples, comme tous les peintres vraiment peintres.
+
+Cette année je me suis trouvé devant une peinture molle et indécise. On dirait que l\'artiste a peint sur papier buvard et que l\'huile s\'est étendue. Les objets semblent s\'écraser dans les fonds. C\'est là une peinture à la cire qu\'on a chauffée et dont les diverses couleurs se sont fondues les unes dans les autres.
+
+Je ne sens pas la réalité dans ce paysage. Nous sommes au bout d\'un hameau, et, brusquement, l\'horizon s\'élargit. Un arbre se dresse seul dans cette immensité. On devine derrière cet arbre tout le ciel. Eh bien ! je le répète, la peinture manque de vigueur et de simplicité, les tons s\'effacent et se mêlent, et, du coup, le ciel devient petit et l\'arbre paraît collé aux nuages.
+
+Hélas ! l\'histoire est la même pour M. Théodore Rousseau, peut-être même est-elle plus triste encore.
+
+En sortant du Salon, j\'ai voulu retourner voir le paysage que l\'artiste a au Musée du Luxembourg. Vous rappelez-vous cet arbre puissamment tordu, se détachant en noir sur le rouge sombre d\'un coucher de soleil ? Il y a des vaches dans l\'herbe. L\'œuvre est profonde et tourmentée. Ce n\'est peut-être pas là une nature bien vraie, mais ce sont des arbres, des vaches et des cieux interprétés par un esprit vigoureux qui nous a communiqué en un langage étrange les sensations poignantes que la campagne faisait naître en lui.
+
+Et je me suis demandé comment M. Théodore Rousseau pouvait en être arrivé au travail de patience dans lequel il se complaît aujourd\'hui. Voyez ses paysages du Salon. Les feuilles et les cailloux sont comptés, les tableaux paraissent peints avec de petits bâtons qui auraient collé la couleur goutte à goutte sur la toile. L\'interprétation n\'a plus aucune largeur. Tout devient forcément petit. Le tempérament disparaît devant cette lente minutie ; l\'œil du peintre ne saisit pas l'horizon dans sa largeur, et la main ne peut rendre l\'impression reçue et traduite par le tempérament. C\'est pourquoi je ne sens rien de vivant dans cette peinture ; lorsque je demande à M. Théodore Rousseau de saisir en sa main, comme il l\'a fait jadis, un morceau de la campagne, il s\'amuse à émietter la campagne et à me la présenter en poussière.
+
+Tout son passé lui crie : Faites large, faites puissant, faites vivant.
+
+Il me prend un scrupule. Le titre de cet article est bien dur. Je suis obligé de juger aujourd\'hui, peut-être trop sévèrement, des artistes que j\'aime et que j\'admire. Un simple fait me servira d\'excuse.
+
+Après la publication de mon article sur M. Manet, j\'ai rencontré un de mes amis auquel je communiquai mon impression toute franche sur les toiles dont je viens de parler.
+
+--- Ne dites jamais cela, s\'est-il écrié, vous frappez sur vos frères ; il faut se constituer en bande, en coterie, et défendre quand même son parti. Vous levez le drapeau de la personnalité. Louez tous les gens personnels, dussiez-vous mentir.
+
+C\'est pourquoi je me suis hâté d\'écrire ces lignes.
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911235 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910749 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910263 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909777 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909291 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908805 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908319 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907833 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907347 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906861 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906375 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905889 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905403 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904917 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904431 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903945 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903459 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902973 .pcalibre .calibre2 .pcalibre1}[Adieux d'un critique d'art]{#_Toc368902487 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_50 .calibre30}
+
+20 mai.
+
+
+J\'ai encore droit à deux articles. Je préfère n\'en faire qu\'un. Dans mon idée première, Mon Salon devait comprendre seize à dix-huit articles. Puisque, d\'après la volonté toute-puissante du peuple, je n\'ai pas l\'espace nécessaire pour développer nettement mes pensées, je crois bon de terminer brusquement et de tirer ma révérence au public.
+
+Au fond, je suis enchanté. Imaginez un médecin qui ignore où est la plaie et qui, posant çà et là ses doigts sur le corps du moribond, l\'entend tout à coup crier de terreur et d\'angoisse. Je m\'avoue tout bas que j\'ai touché juste, puisqu\'on se fâche. Peu m\'importe si vous ne voulez pas guérir. Je sais maintenant où est la blessure.
+
+Je ne prenais qu\'un médiocre plaisir à tourmenter les gens. Je sentais toute ma dureté envers des artistes qui travaillent et qui ont acquis, à grand-peine, une réputation fragile que le moindre heurt briserait. Lorsque je faisais mon examen de conscience, je m\'accusais vertement de troubler dans leur quiétude d\'excellents hommes qui paraissent s\'être imposé le labeur pénible de contenter tout le monde.
+
+J\'abandonne volontiers les notes que je suis allé prendre sur M. Fromentin et sur M. Nazon, sur M. Dubuffe et sur M. Gérome. J\'avais toute une campagne en tête, je m\'étais plu à aiguiser mes armes pour les rendre plus tranchantes. Et je vous jure que c\'est avec une volupté intime que je jette là toute ma ferraille.
+
+Je ne parlerai point de M. Fromentin et de la sauce épicée dont il assaisonne la peinture. Ce peintre nous a donné un Orient qui, par un rare prodige, a de la couleur sans avoir de la lumière. Je sais d\'ailleurs que M. Fromentin est le dieu du jour ; je m\'évite la peine de lui demander des arbres et des cieux plus vivants, et surtout de réclamer de lui une saine et forte originalité, au lieu de ce faux tempérament de coloriste qui rappelle Delacroix comme les devants de cheminée rappellent les toiles de Véronèse.
+
+Je n\'aurai aucune querelle à chercher à M. Nazon et aux décors en carton qu\'il nous donne pour de vraies campagnes ; ne vous semble-t-il pas, --- entre nous, --- que c\'est ici une apothéose de féerie, lorsque les feux de Bengale sont allumés, et que des lueurs jaunes et rouges donnent à chaque objet une apparence morte ?
+
+Quant à MM. Gérome et Dubuffe, je suis excessivement satisfait de ne pas avoir à parler de leur talent. Je le répète, je suis fort sensible au fond, et je n\'aime pas à faire du chagrin aux gens. La mode de M. Gérome baisse ; M. Dubuffe a dû prendre une peine terrible, dont il sera peu récompensé. Je suis heureux de n\'avoir pas le temps de dire tout cela.
+
+Je regrette une chose : c\'est de ne pouvoir accorder une large place à trois paysagistes que j\'aime : MM. Corot, Daubigny et Pissaro. Mais il m\'est permis de leur donner une bonne poignée de main, --- la poignée de main de l\'adieu.
+
+Si M. Corot consentait à tuer une fois pour toutes les nymphes dont il peuple ses bois, et à les remplacer par des paysannes, je l\'aimerais outre mesure.
+
+Je sais qu\'à ces feuillages légers, à cette aurore humide et souriante, il faut des créatures diaphanes, des rêves habillés de vapeurs. Aussi suis-je tenté parfois de demander au maître une nature plus humaine, plus vigoureuse. Cette année, il a exposé des études peintes sans doute dans l\'atelier. Je préfère mille fois une pochade, une esquisse faite par lui en pleins champs, face à face avec la réalité puissante.
+
+Demandez à M. Daubigny quels sont les tableaux qu\'il vend le mieux. Il vous répondra que ce sont justement ceux qu\'il estime le moins. On veut de la vérité adoucie, de la nature propre et lavée avec soin, des horizons fuyants et rêveurs. Mais que le maître peigne avec vigueur la terre forte, le ciel profond, les arbres et les flots puissants, et le public trouve cela bien laid, bien grossier. Cette année, M. Daubigny a contenté la foule sans trop se mentir à lui-même. Je crois savoir d\'ailleurs que ce sont là d\'anciennes toiles.
+
+M. Pissaro est un inconnu, dont personne ne parlera sans doute. Je me fais un devoir de lui serrer vigoureusement la main, avant de partir. Merci, monsieur, votre paysage m\'a reposé une bonne demi-heure, lors de mon voyage dans le grand désert du Salon. Je sais que vous avez été admis à grand-peine, et je vous en fais mon sincère compliment. D\'ailleurs, vous devez savoir que vous ne plaisez à personne, et qu\'on trouve votre tableau trop nu, trop noir. Aussi pourquoi diable avez-vous l\'insigne maladresse de peindre solidement et d\'étudier franchement la nature !
+
+Voyez donc : vous choisissez un temps d\'hiver ; vous avez là un simple bout d\'avenue, puis un coteau au fond, des champs vides jusqu\'à l\'horizon. Pas le moindre régal pour les yeux. Une peinture austère et grave, un souci extrême de la vérité et de la justesse, une volonté âpre et forte. Vous êtes un grand maladroit, monsieur, --- vous êtes un artiste que j\'aime.
+
+Donc, je n\'ai plus le loisir de louer ceux-ci et de blâmer ceux-là. Je fais mes paquets à la hâte, sans regarder si je n\'oublie pas quelque chose. Les artistes que j\'aurais attaqués n'ont pas besoin de me remercier, et je fais mes excuses à ceux dont j\'aurais dit du bien.
+
+Savez-vous que ma besogne commençait à devenir fatigante ? On mettait tant de bonne foi à ne pas me comprendre, on discutait mes opinions avec une naïveté si aveugle, que je devais, dans chacun de mes articles, rétablir mon point de départ et faire voir que j\'obéissais logiquement à une idée première et invincible.
+
+J\'ai dit : « Ce que je cherche surtout dans un tableau, c\'est un homme et non pas un tableau. » Et encore : « L\'art est composé de deux éléments : la nature, qui est l\'élément fixe, et l\'homme, qui est l\'élément variable ; faites vrai, j\'applaudis ; faites individuel, j\'applaudis plus fort. » Et encore : « J\'ai plus souci de la vie que de l\'art. »
+
+Devant de telles déclarations, je croyais qu\'on allait comprendre mon attitude. J\'affirmais que la personnalité seule faisait vivre une œuvre, je cherchais des hommes, persuadé que toute toile qui ne contient pas un tempérament, est une toile morte. Ne vous êtes-vous jamais demandé dans quels galetas allaient dormir ces milliers de tableaux qui passent par le Palais de l\'Industrie ?
+
+Je me moque bien de l\'École française ! Je n\'ai pas de traditions, moi ; je ne discute pas un pan de draperie, l\'attitude d\'un membre, l\'expression d\'une physionomie. Je ne saisis pas ce qu\'on entend par un défaut ou par une qualité. Je crois qu\'une œuvre de maître est un tout qui se tient, une expression d\'un cœur et d\'une chair. Vous ne pouvez rien changer ; vous ne pouvez que constater, étudier une face du génie humain, une expression humaine.
+
+Mon éloge de M. Manet a tout gâté. On prétend que je suis le prêtre d\'une nouvelle religion. De quelle religion, je vous prie ? De celle qui a pour dieux tous les talents indépendants et personnels ? Oui, je suis de la religion des libres manifestations de l\'homme ; oui, je ne m\'embarrasse pas des mille restrictions de la critique, et je vais droit à la vie et à la vérité ; oui, je donnerais mille œuvres habiles et médiocres, pour une œuvre, même mauvaise, dans laquelle je croirais reconnaître un accent nouveau et puissant.
+
+J\'ai défendu M. Manet, comme je défendrai dans ma vie toute individualité franche qui sera attaquée. Je serai toujours du parti des vaincus. Il y a une lutte évidente entre les tempéraments indomptables et la foule. Je suis pour les tempéraments, et j\'attaque la foule.
+
+Ainsi mon procès est jugé, et je suis condamné.
+
+J\'ai commis l\'énormité de ne pas admirer M. Dubuffe après avoir admiré Courbet, l\'énormité d\'obéir à une logique implacable.
+
+J\'ai eu la naïveté coupable de ne pouvoir avaler sans écœurement les fadeurs de l\'époque, et d\'exiger de la puissance et de l\'originalité dans une œuvre.
+
+J\'ai blasphémé en affirmant que toute l\'histoire artistique est là pour prouver que les tempéraments seuls dominent les âges, et que les toiles qui nous restent sont des toiles vécues et senties.
+
+J\'ai commis l'horrible sacrilège de toucher d\'une façon peu respectueuse aux petites réputations du jour et de leur prédire une mort prochaine, un néant vaste et éternel.
+
+J\'ai été hérétique en démolissant toutes les maigres religions des coteries et en posant fermement la grande religion artistique, celle qui dit à chaque peintre : « Ouvre tes yeux, voici la nature ; ouvre ton cœur, voici la vie. »
+
+J\'ai montré une ignorance crasse, parce que je n\'ai pas partagé les opinions des critiques assermentés et que j\'ai négligé de parler du raccourci de ce torse, du modelé de ce ventre, du dessin et de la couleur, des écoles et des préceptes.
+
+Je me suis conduit en malhonnête homme, en marchant droit au but, sans songer aux pauvres diables que je pouvais écraser en chemin. Je voulais la vérité, et j\'ai eu tort de blesser les gens pour aller jusqu\'à elle.
+
+En un mot, j\'ai fait preuve de cruauté, de sottise, d\'ignorance, je me suis rendu coupable de sacrilège et d\'hérésie, parce que, las de mensonge et de médiocrité, j\'ai cherché des hommes dans la foule de ces eunuques.
+
+Et voilà pourquoi je suis condamné !
+
+
+::: WordSection
+[
+]{.calibre44}
+
+
+[[Liste des études biographiques et critiques]{.calibre18}](../Text/Zola5_split_000.htm){.pcalibre .pcalibre1}[
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911236 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910750 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910264 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909778 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909292 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908806 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908320 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907834 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907348 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906862 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906376 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905890 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905404 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904918 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904432 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903946 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903460 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902974 .pcalibre .calibre2 .pcalibre1}[Appendice à Mon Salon]{#_Toc368902488 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_51 .calibre30}
+
+Je publie ici trois lettres prises au hasard parmi celles que M. de Villemessant a reçues, au sujet de mes articles. Je tiens à constater quelle a été l'attitude de certains lecteurs à mon égard, et devant quelles protestations j'ai dû me retirer.
+
+Ces lettres ne sauraient m'atteindre. Il me plaît de les étaler largement pour montrer le bienveillant accueil que Ton fait souvent à la franchise et à la bonne foi. L'histoire est curieuse, n'est-ce pas ? Je dis naïvement ce que je pense, j'affirme mes croyances, je crois faire une œuvre de justice et de vérité, et voilà des hommes qui écrivent les lettres qu\'ion va lire, parce qu\'ils ne pensent pas comme moi.
+
+D\'ailleurs, je ne veux ni commenter, ni discuter de pareilles pièces. Je ne veux que les joindre à ce petit volume, pour qu\'elles vivent autant qu\'il vivra.
+
+Voici ces lettres.
+
+
+::: WordSection
+[
+]{.calibre44}
+
+7 mai.
+
+Monsieur,
+
+En lisant ce matin le numéro de voire Journal, je me suis demandé si vous en aviez encore la direction, car j\'ai toujours remarqué que vous aviez des égards pour vos abonnés.
+
+Il n\'en est pas de même aujourd\'hui, et j\'ai rarement lu un article où l\'auteur se moquât de ses lecteurs avec l\'aplomb de celui qui signe Claude dans votre journal.
+
+Je ne sais quel lien de parenté ou d\'amitié lie ce rédacteur avec M. Manet, mais en vérité, c\'est abuser étrangement de la patience de son public et se jouer impertinemment de lui, que de déclarer ce barbouilleur le premier peintre de l\'époque.
+
+C\'est de plus une mauvaise action d\'injurier les peintres les plus aimés du public, pour faire de ces injures un piédestal au misérable croûton dont on veut faire un artiste.
+
+La mission qu\'il me semblait que vous vous étiez proposée, en créant nos divers journaux, était d\'éclairer vos lecteurs en les amusant, et c\'est ce qui en a fait le succès ; mais encore (quelques articles dans le goût de celui que je vous signale, et je ne doute pas que bon nombre de vos lecteurs intelligents (et quoi qu\'en pense M. Claude, il y en a encore quelques-uns) ne renonce à un journal qui les traite ainsi en imbéciles et en crétins.
+
+Je suis convaincu, monsieur, que cet article a passé sans que vous en ayez eu connaissance, vous avez trop de bon goût et d\'affection pour vos abonnés, pour en avoir autorisé l\'impression.
+
+Il est bien d\'avoir, comme vous le dites souvent, une tribune, où toutes les idées et les opinions puissent se produire, mais encore faut-il un frein au dévergondage de l\'esprit et de la mauvaise foi.
+
+J\'espère, monsieur, que vous ne verrez dans cette lettre, que l\'expression de sympathie qui m\'attache à vos publications et à mon désir qu\'elles ne dégénèrent pas, en donnant asile à des œuvres aussi insensées.
+
+[Recevez, monsieur, etc.]{lang="EN-US"}
+
+!{#Image786 .calibre69}
+
+10 mai.
+
+Monsieur le directeur,
+
+Votre M. Claude est exaspérant ; --- pas de théories, pas de connaissances esthétiques, pas de critique raisonnée ; --- un enthousiasme dans le vide et des injures, c\'est trop et trop peu.
+
+Une seule qualité de M. Manet motive ces admirations querelleuses, --- il a du tempérament ! Qu\'est-ce que le tempérament en peinture sans le dessin, la couleur, le goût et la composition ? Ce tempérament équivaut à la vapeur qui pousse une machine. --- Si la machine est mauvaise et désemparée, la vapeur se perd sans pouvoir lui donner d\'impulsion.
+
+M. Claude appelle poliment idiots ceux qui rient devant les tableaux de M. Manet. --- Mais pourquoi M. Manet ne se contente-t-il pas d\'être médiocre ? Pourquoi est-il vulgaire et grotesque ? Pourquoi ses figures maculées semblent-elles sortir d\'un sac de charbon ? On regarde avec pitié la laideur involontaire ; comment ne pas rire de la laideur prétentieuse ?
+
+Que les Allemands qui ne voient pas avec les yeux du corps, mais avec de nébuleuses rêveries, gardent leur sérieux devant une composition burlesque pour y chercher je ne sais quelle philosophie mystérieuse ; cela est possible, quoique invraisemblable devant le chat de M Manet. Mais en France, on voit vite et droit, on voit ce qui est et non ce qui devrait être, et jamais un système n\'arrêtera notre vieux rire gaulois devant une réalisation absurde.
+
+De grâce, monsieur le directeur, épargnez à vos nombreux lecteurs une plus longue torture morale avec votre M. Claude, --- ou le désabonnement qui est une réalité, commencera bien vile.
+
+Un abonné bourgeois quoique artiste.
+
+!{#Image787 .calibre69}
+
+21 mai
+
+Monsieur,
+
+Je suis ici l'organe de plusieurs de vos lecteurs, en venant vous remercier de l\'impartialité dont vous avez fait preuve dans l'*Événement*, au sujet de M. Claude. Voilà de la vraie et bonne justice. Cela nous console un peu des articles que nous avons eu à subir.
+
+Aujourd\'hui nous sommes prévenus que l'*Événement* n\'accepte pas le rôle de vulgarisateur de l\'art en blouse, qu\'il sait mettre sous les yeux de ses lecteurs les pièces du procès qui doit se juger entre le talent quel qu\'il soit et à quelque genre qu\'il appartienne, classique ou non, styliste ou non styliste, et les infirmes et les impuissants qui veulent glorifier leurs infirmités, nous savons enfin que ces critiques de basse littérature ont leurs raisons pour tympaniser les artistes de bas étage et nous connaissons ces raisons. *Similia similibus.*
+
+Il n\'en est pas moins pénible de voir traiter avec un cynisme révoltant les artistes qui ont fait honneur au pays, et d\'entendre des messieurs pousser l'inconvenance jusqu\'à la gageure, en voulant nous imposer les turpitudes de leurs camarades.
+
+Je pense donc qu\'il appartient à vous, M. de Villemessant qui êtes un homme de progrès, de relever un peu la critique en la confiant désormais à des mains lavées. Le moyen de relever les arts est avant tout de relever, d\'ennoblir, de *ingentilir*, comme disent les Italiens, la critique et de la rendre sérieuse. Renvoyez-moi ces rédacteurs là au *Hanneton* ou à la *Lune*, Les opinions sont libres, mais les expressions ne le sont pas, partout du moins.
+
+Je sais bien, pardonnez-moi cette petite disgression, que notre époque est une époque rassasiée, et que les tableaux qui ne sont que bons, se font tellement vulgariser par la production, que nous ne leur accordons pas toujours l\'attention qu\'ils méritent : de là cette recherche du nouveau à outrance. Mais parce que le bon a vieilli, est-ce une raison pour le remplacer par le mauvais ? Et puis est-ce bien du nouveau que ces prétendus rénovateurs nous donnent ? Quoi (je parle ici de ceux qui ont du talent), quoi, dis-je, parce que ces messieurs sont entrés tout vifs dans la peau des maîtres espagnols, qu\'ils en imitent à s\'y méprendre les noirs et les salissures produites par le temps et l\'action chimique, ils se posent en inventeurs et en peintres de l\'avenir.
+
+Mais tout ce qu\'ils nous servent là est archi vieux, et à tout prendre ce n\'est que la piquette de Velasquez et de Ribeyra. Et puis, nulle invention, point d\'idéal, ni même d\'idée, toujours, toujours le môme bonhomme. Voyez Bonvin (qui a pourtant du talent, Thérésa en a aussi), voici quarante ans qu\'il refait le même petit tableau, un porteur d\'eau, ou une cuisinière.
+
+Je crois qu\'il existe, dans les lettres comme dans les arts, une certaine franc-maçonnerie entre les pauvres diables des deux côtés, qui, sous prétexte de les démocratiser, s\'efforcent de rabaisser tout au niveau de leur ignorance et de leur incapacité. Ils tentent, et pour cause, de jeter de la déconsidération sur les fortes études des grands auteurs et des grands maîtres. Pour eux, tout homme instruit est un fort en thème, expression qui, par parenthèse, est familière à ceux qui ne sont forts en rien.
+
+Vous me pardonnerez, monsieur, la perte de temps que je vous cause, je n\'ai pas la prétention de vous apprendre ce que vous savez aussi bien que moi ; mon but est de vous montrer que le public se préoccupe un peu de ces questions.
+
+J\'ai l\'honneur d\'être, monsieur, avec une parfaite considération votre très humble serviteur.
+
+[A. P., peintre.]{lang="EN-US"}
+
+!{#Image788 .calibre70}
+
+Il m'est bien permis maintenant d'imprimer trois autres lettres qui m\'ont été adressées. Puisque j\'ai publié les injures, je dois publier les éloges.
+
+!{#Image789 .calibre70}
+
+14 mai.
+
+Monsieur,
+
+Lorsque j\'ai lu, dans l'*Événement* du 4 mai, l'exposé succinct de votre esthétique, j\'ai éprouvé un grand désir de vous féliciter. Enfin, me disais-je, voici un écrivain qui parle de l\'art d\'une façon émue et violente, comme il convient et comme il est difficile de le faire, dans ces temps d\'écœurement général et de pratique sans âme et sans idée !
+
+Après l\'article d\'hier de voire spirituel directeur, je ne puis me dispenser de me joindre à cette minorité qui vous apprécie, et je viens vous crier : Courage !
+
+Vous vous êtes placé, j\'en ai la conviction, sur le seul terrain où l\'art, qui se meurt, puisse retrouver des germes de vie. N\'est-ce pas. Monsieur, un signe du temps, que de voir la majorité des artistes s\'étonner et rire de propositions aussi élémentaires que celles que l'on vous reproche, et les traiter d\'hérésies et d\'excentricités de parade ?
+
+Ce que vous dites avec tant de raison et avec une si grande justesse d\'expression sur l'œuvre d\'art, dont *l'élément réel est la nature* et *l'élément individuel, l\'homme*, constitue, en peu de mots, un critérium de jugement, qui arrêterait les rieurs, s\'ils pouvaient se voir eux-mêmes, et comprendre ce qui les sépare à jamais des maîtres, dont ils ne comprennent plus ni la constitution ni la virtualité.
+
+Qu\'est-ce donc que le Concert champêtre du Louvre, sinon un tempérament admirable et exclusif qui s\'empare de la nature et la force à chanter l\'air qu\'affectionne Giorgione ?
+
+Qu\'est-ce que l\'Antiope du Corrège ? Que vous font ici les récits de la fable ? que vous importent le Satyre ou Jupiter ? N'êtes-vous pas saisi d\'abord par une individualité violente et persuadée qui s\'affirme et vous crie : Corrège ?
+
+Et Paul Véronèse et Vélasquez, Ribeyra, Titien, Tintoret ? Tous, sauf les peintres de pratique de la décadence, que sont-ils autre chose que des artistes émus qui forcent la nature à passer à travers le crible exclusif de leur impression propre ?
+
+Il serait facile de démontrer cette vérité fondamentale, que vous ayez émise d\'une façon hardie et originale, même avec l\'œuvre de Raphaël, bien plus humain qu\'on ne le pense généralement, avec Michel-Ange, dont le rêve se solidifie et s\'incarne dans une sorte de cauchemar des énergies de la nature.
+
+Oui, Monsieur, vous avez raison : « Faites vrai, j\'applaudis, dites-vous ; mais surtout faites individuel et vivant, j\'applaudis plus fort. »
+
+Voilà d\'excellentes paroles qu\'il est triste de voir bafouer par des sots qui croient que par cela seul qu\'on fait de la peinture habile avec le modèle, on est forcément interprète personnel et sincère de la nature.
+
+Aveugles, qui ne voient pas que messieurs tels et tels, que je ne nomme pas et que vous connaissez bien, tous admis par la foule comme les chefs de file de l'art moderne, sont, la plupart, dépourvus de toute personnalité ; qu\'ils sont tous cousins et de même sang, et que pas un d\'eux n'obéit à la voix d\'un tempérament absolu et indomptable. Ce sont des peintres de décadence ; et encore, quelle décadence ! Si c\'était celle du Carrache, de Carle Maratte et des Josépins !
+
+Le dernier peintre français, passionné, vivant et individuel, a été Eugène Delacroix.
+
+Que n\'a-t-on pas dit et que ne dit-on pas d\'absurde sur ce grand homme ! On lui a reproché, entre autres choses, de n\'avoir pas fait d\'élèves. Je crois, comme vous le dites en très bons termes, que *chaque génie naît indépendant et, ne laisse pas de disciples.*
+
+Delacroix n\'en était pas moins l\'unique et dernier chaînon se rattachant par Géricault, Gros, David (autre incompris). Poussin, Lesueur, aux individualités vivantes et personnelles qui ont constitué l\'art du seizième siècle.
+
+On en a fait une individualité isolée et sans tradition ! Et voilà où nous en sommes !
+
+Maintenant, il est évident que l\'art est à la recherche plus que jamais de la violente réalité.
+
+Le dégoût justifié de la mièvrerie et des fadeurs d\'une pratique qui va s\'énervant de plus en plus et tend chaque jour à disparaître sous l'ennui général du public, pousse quelques rares gens de cœur vers les rugosités âpres et les laides mais virginales impressions que peut fournir la nature.
+
+Je les comprends et j\'ai applaudi, quant à moi, dès le Salon des Refusés, aux sincères et énergiques efforts de M. Manet et de quelques autres. Cet artiste est loin de m\'avoir fait rire ; il m\'a fait espérer beaucoup.
+
+Courage, donc, Monsieur, votre irritation et vos aspirations émanent d\'une noble source ; j\'en suis, pour ce qui me concerne, certain.
+
+La tâche va donc se partager, on l'a voulu, entre vous et M. Pelloquet, qui, à l\'époque du Salon des Refusés, prit avec une volonté et un talent dont il faut lui savoir gré, la défense de la liberté dans l\'art. Il nous prédit, à cette époque, la maîtrise future de M. Briguiboul ; cet artiste a bien trompé son prophète.
+
+Votre critique se trompera moins, j\'en suis sûr ; elle est extrême, elle a raison de l\'être, et vos principes s\'opposent à ce qu\'elle soit autre.
+
+Si une personnalité ne s\'affirme pas d\'une façon nette et vivante, vous êtes forcé de vous taire ou de rejeter l\'œuvre et l\'auteur dans la foule énorme et discipliné des faiseurs dont vous ne pouvez parler qu\'en les critiquant. Armé de ce critérium, il vous restera évidemment peu à dire, mais vous n\'aurez pas rendu à l\'art moderne ce cruel service de faire de la critique inintelligente, éclectique et fusionnée.
+
+Cette critique peut se vanter d\'être au moins autant que la contagion académique, une des causes qui ont contribué à pourrir sur plante l\'art européen et l\'art français en particulier.
+
+Veuillez recevoir, monsieur, l\'assurance de ma considération la plus distinguée,
+
+[Évariste de VALERNE.]{lang="EN-US"}
+
+!{#Image790 .calibre69}
+
+3 mai.
+
+Monsieur,
+
+C\'est vraiment curieux de résumer l'inconséquence qui dirige le monde artiste depuis dix-huit ans.
+
+En 1848, exposition libre ; --- en 1849, jury nommé à l\'élection par tous les artistes exposants ; --- après -1851, jury composé d\'une commission de membres de l'Institut nommés par l\'Empereur. Plus tard, exaspération des artistes, *dont les murmures montent jusqu\'aux pieds du trône*. Alors on revient au jury électif, mais élu seulement par l'aristocratie artistique des décorés et médaillés, avec adjonction d\'un quart de membres *amateurs* nommés par l\'administration. *Création du salon des refusés* (idée neuve et juste, mais ce n\'est pas fini, hélas !). Deux ans après, suppression de l\'exposition des *refusés*, qui taquinait le jury et l\'administration ; car si on faisait grand bruit des tableaux ridicules, il y avait toujours un certain nombre d\'œuvres que le public eut voulu voir dans les admis, et comme le grand principe d\'autorité n\'aime pas le contrôle, on a dit aux *refusés :* « Venez chercher vos tableaux. » Enfin, maintenant, on revient aux vieilles traditions de sévérités exagérées, jusqu\'à ce que nous revenions aux expositions libres.
+
+Quel gâchis ! et quand *dégagerons-nous l'inconnu*, comme disait Proudhon.
+
+En attendant, voici ce qu\'il y a de plus rationnel :
+
+Premièrement : Le jury doit être nommé par *tous les exposants*, car, comme vous le dites avec raison dans votre article du 27 avril, il est absurde que le jury soit élu précisément par ceux qui sont en dehors de son action. La nomination du jury n\'a d\'importance que pour ceux qui peuvent être refusés ; eux seuls doivent donc désigner les artistes qui leur sont sympathiques et dont ils sont résignés à supporter le jugement.
+
+Secondement : Tous nos jurys jusqu\'à présent ont *mal compris* leur mandat et *outrepassé leurs pouvoirs*. Que leur demande-t-on ? Ce n\'est pas de rejeter les œuvres obscènes ou politiques ; l\'administration se chargera très bien de ce soin. On leur demande simplement d\'éloigner de l\'Exposition les tableaux ou sculptures qui, par leur trop grande infériorité, compromettraient *la dignité* du Salon. Aussitôt qu\'un artiste est arrivé à la position de membre du jury, il n\'y voit qu\'une occasion de satisfaire ses antipathies et ses rancunes. Le *réaliste* exclue le *fantaisiste*, qui exclue *l*e *primitif* qui exclue le *coloriste*, etc. Les membres du jury ne doivent pas perdre de vue qu\'il leur faut faire abstraction complète de leurs goûts et de leurs systèmes personnels. Comme le jury de cour d\'assises, ils doivent se prononcer *sans haine et sans crainte*. Le président devrait, avant d\'exclure une œuvre, dire : « Messieurs, en votre âme et conscience, *ce tableau est-il assez mauvais, assez ridicule pour compromettre la dignité de l\'Exposition*, » et les jurés répondre avec conscience et gravité, car c\'est peut-être *un arrêt de mort* qu\'ils prononcent.
+
+Troisièmement : Que font *les amateurs* dans le jury du salon ? Ils n\'y font qu\'user de leur influence en faveur des idées étroites et bourgeoises. N\'aimant que deux ou trois maîtres anciens ou modernes, ils sont hostiles à toutes les nouveautés et tentatives hardies ou originales. Leur pouvoir sur leurs collègues-artistes est considérable. Les sommités artistiques, impitoyables entre elles, sont très souples vis à vis des grands seigneurs. On me pariait d\'un noble et riche amateur faisant partie du jury, qui, à chaque tableau un peu étrange qu\'on lui présentait, disait : « *En voilà encore un que je n\'achèterai jamais pour ma galerie !* » Les collègues-artistes qui avaient, eux, la prétention d\'orner la galerie de monseigneur, disaient : « *Certainement ! certainement !* » et le tableau était exclu.
+
+À un point de vue élevé, l\'exposition des Beaux-arts est une exhibition faite pour montrer le niveau de l\'art et les nouvelles voies que les chercheurs ont découvertes. Les amateurs n\'y comprennent rien. Ils ne se risquent à couvrir un tableau de billets de banque, que lorsque le monde artiste a fait les réputations ; car l\'amateur riche, ne s\'y connaissant pas, n\'ose risquer son argent sur une signature inconnue. Il veut montrer avec orgueil un Decamps ou un Marilhat, lorsqu\'on se les arrache dans les ventes publiques ; mais il n\'aurait pas donné cent sous de ces mêmes tableaux avant la réputation de leurs auteurs.
+
+C\'est pourquoi je suis pour les expositions *libres*, car le jury, consciencieux, conciliant, bienveillant, juste, mais pas sévère, est impossible à former avec des artistes. Je dis plus, je ne comprendrai jamais que des artistes qui, eux aussi, ont mangé de la *vache enragée*, puissent accepter ce rôle de bourreaux, et jeter leurs confrères, souvent leurs anciens camarades, dans la misère et le découragement.
+
+[Antoine TIMON.]{lang="EN-US"}
+
+!{#Image791 .calibre69}
+
+20 mai.
+
+Monsieur,
+
+Je lis à l\'instant l\'article de l'*Événemen*t par lequel vous terminez la revue du Salon de cette année, et je vous écris sous l'impression de l'émotion ressentie. C\'est mon excuse.
+
+Ah monsieur ! quelle tâche vous vous êtes donnée ! Montrer à chacun ses verrues, placer l'art au-dessus des considérations de coterie, d\'écoles et de personnes, fronder les préjugés établis, les idées reçues, parler avec sa conscience et jeter le cri d\'alarme !\... Vous passeriez votre existence à le chercher que vous ne trouveriez pas de moyen plus simple et plus prompt pour vous faire un vaste cortège d\'ennemis !
+
+D\'où sortez-vous donc, monsieur ? Par ces temps de critique bénigne, par ces temps de tolérance apathique, il est curieux vraiment de voir un homme assez audacieux pour s\'opposer, tout seul, à l\'irruption profane du *médiocre* et du *maniéré* dans l\'enceinte sacrée du *beau* et du *vrai.*
+
+C\'est curieux, mais c\'est un beau spectacle. Encore meurtri par les coups reçus dans la lutte, vous vous écriez : « Je suis condamné ! » Oui sans doute, vous seriez condamné si vous aviez pour juge cette foule de Panurge pour qui tout est beau, pour qui tout est bien, et que la moindre secousse imprimée à sa torpeur plonge dans des terreurs paniques ; mais vous avez pour vous les gens qui pensent qu\'il nous faut sortir à tout prix du marasme littéraire et artistique dans lequel nous végétons.
+
+Monsieur, je ne suis encore qu\'un inconnu, mais je sers la même cause que vous et je regrette l\'obscurité qui m\'empêche de vous serrer la main.
+
+Maurice C.
+
+
+::: WordSection
+[
+]{.calibre44}
+
+
+[[Liste des études biographiques et critiques]{.calibre18}](../Text/Zola5_split_000.htm){.pcalibre .pcalibre1}[

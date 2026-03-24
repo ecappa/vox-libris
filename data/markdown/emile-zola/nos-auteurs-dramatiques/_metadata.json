@@ -1,0 +1,285 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NOS AUTEURS DRAMATIQUES",
+  "slug": "nos-auteurs-dramatiques",
+  "nombre_chapitres": 17,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1511,
+      "spine_end_exclusive": 1512,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_211.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Théâtre classique",
+      "slug": "theatre-classique",
+      "spine_start": 1512,
+      "spine_end_exclusive": 1520,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_212.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_213.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_214.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_215.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_216.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_217.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_218.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_219.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Victor Hugo",
+      "slug": "victor-hugo",
+      "spine_start": 1520,
+      "spine_end_exclusive": 1528,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_220.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_221.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_222.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_223.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_224.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_225.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_226.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_227.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Émile Augier",
+      "slug": "emile-augier",
+      "spine_start": 1528,
+      "spine_end_exclusive": 1533,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_228.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_229.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_230.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_231.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_232.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alexandre Dumas Fils",
+      "slug": "alexandre-dumas-fils",
+      "spine_start": 1533,
+      "spine_end_exclusive": 1543,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_233.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_234.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_235.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_236.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_237.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_238.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_239.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_240.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_241.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_242.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Victorien Sardou",
+      "slug": "victorien-sardou",
+      "spine_start": 1543,
+      "spine_end_exclusive": 1553,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_243.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_244.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_245.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_246.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_247.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_248.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_249.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_250.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_251.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_252.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Eugène Labiche",
+      "slug": "eugene-labiche",
+      "spine_start": 1553,
+      "spine_end_exclusive": 1557,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_253.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_254.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_255.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_256.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Meilhac et Halévy",
+      "slug": "meilhac-et-halevy",
+      "spine_start": 1557,
+      "spine_end_exclusive": 1565,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_257.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_258.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_259.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_260.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_261.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_262.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_263.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_264.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Edmond Gondinet",
+      "slug": "edmond-gondinet",
+      "spine_start": 1565,
+      "spine_end_exclusive": 1571,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_265.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_266.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_267.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_268.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_269.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_270.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Édouard Pailleron",
+      "slug": "edouard-pailleron",
+      "spine_start": 1571,
+      "spine_end_exclusive": 1575,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_271.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_272.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_273.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_274.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Adolphe d’Ennery",
+      "slug": "adolphe-dennery",
+      "spine_start": 1575,
+      "spine_end_exclusive": 1580,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_275.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_276.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_277.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_278.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_279.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Théodore Barrière",
+      "slug": "theodore-barriere",
+      "spine_start": 1580,
+      "spine_end_exclusive": 1582,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_280.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_281.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Octave Feuillet",
+      "slug": "octave-feuillet",
+      "spine_start": 1582,
+      "spine_end_exclusive": 1585,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_282.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_283.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_284.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "George Sand",
+      "slug": "george-sand",
+      "spine_start": 1585,
+      "spine_end_exclusive": 1589,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_285.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_286.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_287.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_288.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Théodore de Banville",
+      "slug": "theodore-de-banville",
+      "spine_start": 1589,
+      "spine_end_exclusive": 1593,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_289.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_290.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_291.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_292.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Edmond et Jules de Goncourt",
+      "slug": "edmond-et-jules-de-goncourt",
+      "spine_start": 1593,
+      "spine_end_exclusive": 1596,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_293.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_294.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_295.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alphonse Daudet",
+      "slug": "alphonse-daudet",
+      "spine_start": 1596,
+      "spine_end_exclusive": 1599,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_296.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_297.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_298.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Erckmann et Chatrian",
+      "slug": "erckmann-et-chatrian",
+      "spine_start": 1599,
+      "spine_end_exclusive": 1604,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_299.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_300.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_301.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_303.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_304.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image038.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image039.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image040.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image041.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image042.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image043.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image044.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image045.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image046.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image047.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image048.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image049.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image050.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image051.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image052.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image053.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image054.jpg",
+    "images/emile-zola/nos-auteurs-dramatiques/Zola5_image055.jpg"
+  ]
+}

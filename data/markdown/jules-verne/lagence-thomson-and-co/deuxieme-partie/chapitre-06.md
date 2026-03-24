@@ -1,0 +1,196 @@
+### []{#_Toc343185876 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176032 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173571 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171110 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168649 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163727 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161266 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158805 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149535 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147074 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144611 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142150 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139689 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137227 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134766 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132305 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129843 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127382 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124918 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122457 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119996 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117542 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115079 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112618 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110157 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106413 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103951 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101488 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099063 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096594 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094132 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091654 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089191 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086729 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084266 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081804 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079343 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076880 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074417 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071951 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043991 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039095 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036730 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034365 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032000 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028444 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026079 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023714 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021348 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018982 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016617 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014252 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011885 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009520 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007155 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004790 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002425 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000060 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997695 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995330 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992965 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990600 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988235 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985868 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983503 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981138 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978773 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 6 -- Un accident qui arrive à point]{.pcalibre lang="X-NONE"}]{#_Toc342942792 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6-un-accident-qui-arrive-à-point .calibre171 .sigil_not_in_toc}
+
+Le 11 mai, à dix heures du matin, le Seamew quitta le port d\'Orotava. Le programme fixait ce départ au 7, à six heures du matin. Mais, ayant déjà un retard de quatre jours, Thompson n\'avait vu aucun inconvénient à l\'augmenter de quatre heures. De fait, cela n\'avait guère d\'importance au moment où l\'on s\'engageait sur la route du retour, et il restait ainsi loisible aux passagers de prolonger un repos réparateur.
+
+Thompson, on le voit, en revenait au système des aimables procédés. Maintenant que chaque tour d\'hélice allait le rapprocher du quai de la Tamise, il jugeait avantageux d\'amadouer par la douceur des souscripteurs dont plusieurs étaient devenus ses ennemis. En sept jours de traversée, un homme adroit est capable de faire bien des choses, de retourner bien du monde. Et d\'ailleurs, à quoi désormais lui eût servi la froideur ? Il n\'y aurait plus de relâche, et, à bord du Seamew, il n\'était pas à craindre qu\'aucun ennui nouveau se présentât.
+
+La délicate attention de leur administrateur fut appréciée des passagers. Tous firent grasse matinée ce jour-là. Pas un n\'avait encore quitté sa cabine quand le Seamew appareilla.
+
+Autre délicate attention, le capitaine, sur l\'ordre de Thompson, avait commencé un voyage de circumnavigation : avant de mettre le cap sur l\'Angleterre, on passerait entre Ténériffe et Gomère, puis on contournerait l\'île de Fer, ce qui constituerait une promenade charmante. On remonterait ensuite vers Palma, à portée de laquelle on serait, il est vrai, pendant la nuit. Mais c\'était là un insignifiant détail, le plus exigeant ne pouvant obliger Thompson à ralentir la course du soleil. Après cette revue finale de l\'archipel des Canaries, les passagers, en se réveillant le lendemain, auraient un plus vif plaisir en trouvant devant eux la mer libre.
+
+Conformément à ce programme revu et corrigé, le Seamew longeait à la vitesse réglementaire de ses douze noeuds la côte ouest de Ténériffe, quand la cloche sonna le déjeuner.
+
+Les convives en furent clairsemés. Raison de fatigue ou autre, un grand nombre d\'entre eux restèrent confinés dans leurs cabines.
+
+La descente du Pic avait cependant été plus rapide et plus facile que la montée. Seuls, les conquérants de la crête suprême avaient eu à vaincre quelques difficultés. Si, jusqu\'à Alta Vista, il ne s\'était agi que d\'une véritable glissade sur le sol incliné, ils avaient dû, à partir de ce point, remonter sur leurs mules et suivre de nouveau le sentier en lacet plus inquiétant encore à descendre que pénible à monter. Une fois parvenus au cirque de Las Canadas, le retour s\'était montré simplement pareil à l\'aller, et, finalement, les huit intrépides s\'étaient retrouvés en excellente santé vers sept heures du soir à bord du Seamew.
+
+Que ces huit touristes eussent besoin de repos, cela se comprenait. Mais les autres auraient dû être tout à fait remis après deux nuits entières de sommeil.
+
+Le capitaine Pip les avait vus, l\'avant-veille, regagner successivement le bord. Avant midi, les premiers étaient arrivés, puis les autres avaient suivi, espacés jusqu\'à Piperboom, venu le dernier à sept heures du soir, sans autre mal qu\'un appétit dévorant.
+
+Les vides ne manquaient pas cependant parmi ces inconstants voyageurs. C\'est que la fatigue se mesure moins au travail accompli qu\'à l\'effort. Tous souffraient plus ou moins d\'un mal particulier. L\'un avait une courbature, l\'autre une ophtalmie causée par la blanche steppe de Las Canadas, le troisième un gros rhume apporté par le vent glacial de la montagne.
+
+Maux peu graves en somme, puisque avant une heure ces invalides commencèrent à sortir de leur retraite, au moment où le Seamew doublait la pointe Teno, en laquelle, à l\'ouest, se termine l\'île de Ténériffe.
+
+À peu de distance, Gomère apparaissait. Le Seamew s\'en rapprocha rapidement et suivit le rivage à moins de trois milles
+
+Vers deux heures, on passa au large de Saint-Sébastien, capitale de l\'île, bourg de médiocre importance, mais grand par les souvenirs qu\'il évoque. C\'est de ce point que, le 7 septembre 1492, Christophe Colomb s\'élança définitivement dans l\'inconnu. Trente-quatre jours plus tard, l\'immortel voyageur découvrait l\'Amérique.
+
+Quelques battements d\'hélice, et l\'île de Fer apparaissait à son tour, séparée de Gomère par un détroit de vingt-deux milles, que le Seamew mit deux heures à franchir.
+
+Il était quatre heures et demie, quand on commença à côtoyer cette île, la plus méridionale de l\'archipel. Située environ par 28° 30\' de latitude nord et 20° de longitude ouest, elle n\'a aucune importance commerciale, et ne doit sa célébrité relative qu\'à une particularité géographique : pendant longtemps son méridien fut adopté comme origine de tous les autres, et la longitude des divers points du monde s\'exprima en degrés à l\'est ou à l\'ouest de l\'île de Fer.
+
+Heureusement pour les passagers du Seamew, cette île offre à la curiosité du voyageur d\'autres attractions que cet intérêt un peu spécial. Son aspect particulièrement terrible et sauvage expliquait le détour imposé par Thompson à son navire. Moins élevée que Ténériffe, que Palma, que la Grande-Canarie même, cette sentinelle avancée de l\'archipel est d\'un abord plus rébarbatif que ces terres pourtant déjà assez peu accueillantes. De toutes parts, une falaise la borde, s\'élevant verticalement à plus de mille mètres de hauteur au-dessus des flots et la rend à peu près inaccessible. Pas une fissure, pas une crique dans cette muraille d\'airain.
+
+Les insulaires, dans l\'impossibilité de séjourner sur les rivages, ont dû s\'établir en grande majorité dans l\'intérieur. Ils y vivent séparés du reste du monde, peu de navires se souciant d\'affronter les récifs semés au large de l\'île, les courants violents et les vents dangereux qui l\'entourent et rendent dans ces parages la navigation des plus difficiles.
+
+Ces vents et ces courants n\'étaient pas pour inquiéter un navire à vapeur. Le Seamew put donc suivre imperturbablement cette côte désolée, dont pas une maison, pas un arbre ne vint, durant trois heures, égayer la sauvage majesté.
+
+Dans le nord-est, le pic de Ténériffe, par-dessus l\'île de Gomère, se dressait tout embrumé de nuées, montrant aux passagers le point que bien peu d\'entre eux avaient réussi à atteindre. Vers six heures et demie il disparut, caché derrière le cap Restinga que doublait le Seamew. Tous les regards saluèrent alors pour la dernière fois le mont prodigieux que l\'on ne devait plus revoir, tandis que le capitaine faisait mettre progressivement la route au nord. On s\'engageait définitivement sur le chemin du retour.
+
+À sept heures, la table se retrouva au complet, Thompson présidant régulièrement, le capitaine en face de lui, les passagers à leurs places habituelles. La mer était douce, le menu confortable, tout conspirait pour que ce repas inaugurât l\'ère de la réconciliation. Il débuta mal cependant au milieu d\'un silence menaçant.
+
+Entre Alice et Robert particulièrement une gêne existait, évidente. Sur le sommet du Teyde, ils en avaient à la fois dit trop et trop peu, et ni l\'un ni l\'autre n\'osait reprendre l\'entretien. Robert, auquel ses vacances désormais illimitées ne fournissaient plus de prétextes à disparaître, avait toute l\'après-midi gardé un obstiné silence, tandis qu\'Alice était demeurée rêveuse. Roger, qui les observait du coin de l\'oeil, fut désagréablement surpris du résultat de sa diplomatie.
+
+« En voilà, des amoureux ! » se disait-il ironiquement.
+
+Pourtant leur trouble était patent, quand Dolly et lui étaient arrivés au sommet du Pic. Il ne pouvait s\'illusionner à cet égard. Mais le retrait actuel n\'était pas moins certain, et Roger en concluait avec dépit qu\'il avait un peu trop tôt interrompu le tête-à-tête.
+
+Bien qu\'ils n\'eussent pas les mêmes raisons, les autres touristes s\'étaient mis d\'eux-mêmes au diapason. Une sourde contrainte enveloppait le bâtiment tout entier.
+
+Que Jack Lindsay fût sombre, quoi d\'étonnant à cela ? N\'était-ce pas son état ordinaire ? Seul, à l\'écart, il ressassait avec rage les incidents de la veille. Que s\'était-il passé, lorsque, malgré sa haine, il avait dû, vaincu, s\'arrêter à mi-route ? Non content de le deviner trop aisément, il aurait voulu voir et savoir.
+
+Des colères le prenaient. Ah ! S\'il avait pu d\'un seul coup éventrer ce maudit navire ! Avec quelle joie il eût précipité ses compagnons et soi-même dans les flots, pourvu qu\'il eût le plaisir d\'y faire périr en même temps sa belle-soeur et son exécrable sauveur !
+
+Mais, si la méchante humeur de Jack s\'expliquait facilement, d\'où venait la tristesse des autres ? Pourquoi, au cours de l\'après-midi, ne s\'étaient-ils pas réunis en groupes comme au début du voyage ? Pourquoi n\'avaient-ils pas échangé leurs impressions en longeant cette rébarbative île de Fer, au lieu de rester isolés et silencieux ?
+
+C\'est qu\'ils avaient perdu le plus nécessaire des biens : l\'espoir, qui peut au besoin remplacer tous les autres. Jusque-là, l\'avenir leur avait fait supporter le présent. Il était possible qu\'une excursion réussie, un hôtel confortable, une promenade agréable, vinssent compenser une excursion manquée, un hôtel honteux, une promenade éreintante. Aujourd\'hui, le livre était clos. Le voyage terminé ne réservait plus aucune surprise aux voyageurs. Et c\'est pourquoi ceux-ci passaient leur temps à récapituler en eux-mêmes les ennuis dont ils avaient souffert ; et c\'est pourquoi, leur mécontentement porté à son comble par leur dernière désillusion, ils gardaient le silence, par honte réciproque de s\'être laissé prendre à ce traquenard.
+
+Ce silence persistant, Saunders en jouissait profondément. Il y sentait l\'électricité latente. Incontestablement, l\'orage couvait. À lui de le faire éclater. Il en cherchait l\'occasion favorable. Le hasard la lui fournit.
+
+Il avait déjà risqué plusieurs pointes désagréables sans rencontrer d\'écho, quand ses yeux fureteurs découvrirent le vide de deux places voisines ordinairement occupées.
+
+« Deux des intelligents passagers qui nous ont brûlé la politesse à Las Palmas », songea-t-il tout d\'abord.
+
+Mais un examen plus attentif le convainquit de son erreur. Les places inoccupées étaient celles du jeune ménage, qui, suivant sa coutume, avait débarqué dès l\'arrivée à Santa-Cruz.
+
+Saunders fit aussitôt sa remarque à haute voix et s\'informa des passagers absents. Personne ne les avait vus.
+
+« Ils sont souffrants, peut-être, dit Thompson.
+
+--- Pourquoi seraient-ils malades ? répliqua hargneusement Saunders. Ils n\'étaient pas avec vous hier.
+
+--- Où voulez-vous qu\'ils soient ? Objecta Thompson avec mansuétude.
+
+--- Le sais-je, moi ? répondit Saunders. Vous les aurez oubliés à Ténériffe sans doute. » Saunders avait dit cela comme autre chose. Quant à Thompson, il haussa les épaules. « Comment voulez-vous qu\'on les ait oubliés ? N\'avaient-ils pas un programme ! » À ces mots, le baronnet intervint.
+
+« Un programme, en effet, dit-il d\'un air pincé, qui annonce que le Seamew partira le 4 juin, et non le 7, de Santa-Cruz, et non d\'Orotava. Si c\'est sur le programme que vous comptez !
+
+--- Ils ont dû être informés du changement, répondit Thompson. Et d\'ailleurs, rien n\'est plus simple que d\'aller frapper à la porte de leur cabine. »
+
+Deux minutes plus tard, Mr. Roastbeaf annonçait que la chambre était vide. Les jeunes mariés avaient incontestablement disparu.
+
+Malgré son ordinaire aplomb, Thompson avait légèrement pâli ; l\'affaire cette fois était grave. Encaisser des gens le prix d\'un voyage, puis les semer tranquillement en route, nul doute que les tribunaux anglais appréciassent fort mal cette fantaisie.
+
+« Il n\'y a qu\'un moyen, dit-il après un instant de réflexion. Si ces messieurs le veulent bien, nous allons retourner à Santa-Cruz de Ténériffe. Grâce au détour que nous avons fait, cela ne nous écartera guère de notre route, et dès demain matin\... »
+
+Un tollé général lui coupa la parole. Tous les passagers parlaient à la fois. Allonger d\'une nuit, d\'une heure même, un voyage en la compagnie de l\'administrateur général, jamais ! Décidément, l\'étincelle avait jailli, l\'orage éclatait. Quant à la foudre, Saunders se chargeait de la décider à tomber.
+
+À lui tout seul, il parlait plus haut que les autres. Il gesticulait avec un formidable bruit de bielles rouillées.
+
+« Nous arrêter ! S\'exclamait-il. Parbleu ! Est-ce notre faute, si vous oubliez vos passagers comme un mouchoir de poche ? Vous vous arrangerez avec ceux-là. Nous aurions à parcourir un trop long chemin, s\'il nous fallait aller chercher tout ce que vous avez oublié en cours de route, vos engagements, par exemple, que vous avez égarés un peu partout, aux Canaries, aux Açores, à Madère ! Nous les retrouverons à Londres ! » ajouta-t-il d\'une voix terrible, en frappant à tour de bras sur son carnet.
+
+Thompson se leva, et quitta la table.
+
+« Vous me parlez, monsieur, d\'un ton qui ne saurait me convenir, dit-il en s\'efforçant de prendre une attitude pleine de dignité. Souffrez donc que je brise là et que je me retire. »
+
+Que les injures eussent entamé l\'épiderme de Thompson, cela en vérité était fort douteux. Sa peau, normale au demeurant, se faisait cuirasse pour ce genre de piqûres. Mais il avait jugé déplorable l\'effet de cette algarade, au moment où la conciliation devenait le premier de ses besoins. Mieux valait laisser renaître le calme. Il reprendrait alors son oeuvre de paix, et quelques bons dîners suffiraient à lui ramener ses souscripteurs.
+
+Il connaissait mal son ennemi. Saunders le suivit pas à pas sur le spardeck où il s\'était réfugié, et, derrière Saunders, tous les passagers sans exception, les uns irrités, les autres seulement amusés, comme Roger et les Américaines, mais tous, au demeurant, approuvant l\'esprit sinon la forme de la diatribe de Saunders.
+
+« Oui, monsieur, reprit ce dernier, en cernant dans un coin le malheureux administrateur général, et en lui mettant son carnet sous le nez, nous les retrouverons à Londres, vos engagements, et les tribunaux estimeront à leur valeur vos excellentes plaisanteries. J\'établirai mon compte. Je prouverai que vous m\'avez contraint par votre ladrerie à dépenser de ma poche, en sus du prix de ma place, une somme totale de vingt-sept livres sterling neuf shillings, et cinq pence (six cent quatre-vingt-six francs quatre-vingt) qui aurait dû y rester. Je leur raconterai la noyade de Mrs. Lindsay, l\'avalanche de Saint-Michel, le déjeuner de Horta, le rhumatisme de Sir Hamilton, le lumbago de Mr. Blockhead\...
+
+--- Permettez ! Permettez ! Réclama faiblement Blockhead.
+
+---\... Et les hôtels infects, et toutes nos excursions, toutes nos promenades si bien organisées, sans oublier la dernière, cette ascension insensée au pic de Ténériffe, dont la plupart de vos passagers sont revenus malades, et dont les plus persévérants n\'ont rapporté que des puces !
+
+--- Bravo, bravo ! Crièrent tous les auditeurs d\'une voix étranglée par un rire de vengeance.
+
+--- Parfaitement, monsieur, continua Saunders lancé à fond de train, je ferai tout cela. Mais, en attendant, je ne vous mâcherai pas la vérité : nous avons été volés, monsieur, je ne vous l\'envoie pas dire. »
+
+La scène prenait décidément une mauvaise tournure. À la violence de son adversaire, aux mots employés, Thompson comprit qu\'il se devait de protester. Il protesta.
+
+« En vérité, monsieur, dit-il, voilà qui est intolérable. Puisque vous devez, dites-vous, vous adresser aux tribunaux, veuillez donc attendre qu\'ils aient prononcé, et m\'épargner des scènes dans le genre de celle-ci. Depuis le départ, je n\'ai eu d\'affaires qu\'avec vous. Si vous n\'étiez pas là, tout le monde se déclarerait content. Que me voulez-vous donc ? Je ne vous connais pas, moi, après tout, monsieur Saunders !
+
+--- Vous me connaissez parfaitement, au contraire, répliqua Saunders.
+
+--- Moi ?
+
+--- Vous. »
+
+L\'irréconciliable passager se planta en face de l\'administrateur général.
+
+« Mon nom n\'est pas Saunders, dit-il nettement.
+
+--- Bah ! fit Thompson étonné en regardant son ennemi.
+
+--- Mon nom est Baker, monsieur, cria celui-ci en levant son long bras vers le ciel.
+
+--- Baker !
+
+--- Oui, monsieur, Baker, directeur d\'une agence de voyages, sans aucun rapport avec la vôtre, je m\'en flatte. »
+
+Rien n\'avait fait prévoir ce coup de théâtre. Après avoir poussé une exclamation de surprise, les passagers se taisaient, les yeux fixés sur Baker, qui attendait dans une pose agressive l\'effet de sa révélation.
+
+Cette révélation, qui, dans l\'esprit de son auteur, aurait dû assommer Thompson, avait au contraire paru le mettre à son aise.
+
+« Baker ! répéta-t-il railleusement. Tout s\'explique ! Quand je pense que j\'accordais quelque attention à vos récriminations incessantes ! Mais c\'est tout simplement de la vulgaire concurrence ! »
+
+Et Thompson agita sa main avec une dédaigneuse insouciance. Il ne l\'agita pas longtemps. Baker -- on lui conservera désormais son nom véritable -- avait pris une mine vraiment féroce qui glaça la gaieté naissante de l\'imprudent administrateur général.
+
+« Ici, prononça Baker froidement, je suis un passager comme les autres, et j\'ai comme les autres le droit de me dire volé.
+
+--- Mais pourquoi y êtes-vous, ici ? Objecta Thompson exaspéré. Qui vous forçait d\'y venir ?
+
+--- Ah çà ! répondit Baker, pensez-vous donc que nous allons nous laisser tranquillement ruiner ? Pourquoi je suis ici ? Pour voir. Et j\'ai vu. Je sais maintenant ce que cachent les rabais insensés que font les farceurs de votre espèce. Puis, j\'ai compté sur un autre plaisir. Vous connaissez sans doute l\'histoire de cet Anglais qui suivait un dompteur dans l\'espoir de voir ses fauves le dévorer ? Eh bien ! Moi, c\'est absolument la même chose. »
+
+Thompson fit la grimace.
+
+« Il n\'y a qu\'une différence entre l\'Anglais et moi, c\'est que j\'ai envie d\'y mettre personnellement la dent ! Si je ne me retenais, savez-vous bien que je vous boxerais, monsieur ? »
+
+Ce fut autour des deux champions un tonnerre de bravos. Excité par ces clameurs, Baker prit la position classique et fit un pas en avant.
+
+Thompson, lui, aurait bien voulu en faire un en arrière. Mais le moyen de percer la barrière humaine qui le cernait de toutes parts ?
+
+« Messieurs ! Messieurs ! » priait-il en vain.
+
+Et Baker, qui avançait toujours, allait peut-être passer de la parole à l\'action\...
+
+Tout à coup, une violente commotion ébranla le navire, et un sifflement assourdissant retentit dans la machine.
+
+Tous, y compris les belligérants, demeurèrent frappés de stupéfaction. Au sifflement, des cris de détresse s\'étaient mêlés, et par le capot et les manches à air de la machine une vapeur épaisse s\'élevait. L\'hélice stoppa.
+
+Que s\'était-il passé ?
+
+Le capitaine Pip, le premier, s\'était précipité à l\'endroit du péril. Il allait enjamber l\'échelle de fer conduisant à la machinerie, quand un chauffeur sauta sur le pont et s\'enfuit en criant. Un autre le suivit, puis un autre, tous par bonheur sains et saufs.
+
+Il en manquait encore un pourtant. Mais on le vit apparaître soutenu, porté plutôt par Mr. Bishop. Celui-là paraissait bien malade. Grièvement brûlé par tout le corps, il poussait des gémissements lamentables.
+
+Lorsque l\'homme fut étendu sur le pont, hors d\'atteinte de la vapeur qui continuait à fuser à grand bruit, Mr. Bishop se redressa, et l\'on put voir qu\'il avait été, lui aussi, profondément brûlé à la poitrine et au visage. Il ne paraissait pas toutefois y faire attention, et, se tournant vers le capitaine, il attendit ses questions.
+
+« Qu\'y a-t-il, monsieur ? demanda celui-ci d\'une voix calme.
+
+--- Un accident. Je vous l\'ai dit, commandant, on ne fait pas du neuf avec du vieux. La chaudière a cédé, vers la base heureusement, et a noyé les feux.
+
+--- L\'accident est-il réparable ?
+
+--- Non, commandant.
+
+--- C\'est bien, monsieur, dit le capitaine Pip qui, tandis que les passagers sous la direction de Mr. Flyship s\'empressaient auprès des deux blessés, remonta à son banc de quart et commanda de sa voix ordinaire : À larguer la grand-voile ! À larguer le grand foc ! À larguer tout ! »
+
+Puis, ayant jeté un coup d\'oeil sur Mr. Bishop et le chauffeur qu\'on transportait évanouis dans les cabines, il se tourna vers Artimon, qu\'aucun événement ne pouvait éloigner de son poste réglementaire.
+
+Le capitaine regarda Artimon, et Artimon regarda le capitaine. Ce regard sympathique échangé, le premier loucha de la manière réservée aux plus mémorables circonstances, et, ayant craché dans la mer avec circonspection :
+
+« Par la barbe de ma mère, master, dit-il enfin, nous sommes dans une péripétie, monsieur ! »
+
+
+]{.calibre20}
+
+
+L\'AGENCE THOMSON AND CO
+
+Deuxième partie
+
+
+]{.calibre20}

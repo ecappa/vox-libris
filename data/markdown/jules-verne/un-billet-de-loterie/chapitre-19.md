@@ -1,0 +1,257 @@
+]{.calibre20}
+
+
+UN BILLET DE LOTERIE
+
+
+]{.calibre20}
+
+## [[Chapitre 19]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942033 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_458 .calibre21}
+
+Quelle affluence en cette grande salle de l\'Université de Christiania, où allait s\'effectuer le tirage de la loterie -- et même dans les cours, puisque la grande salle ne pouvait suffire à tant de monde -- et jusque dans les rues avoisinantes, puisque les cours étaient encore trop petites pour contenir tout ce populaire !
+
+Certes, ce dimanche 15 juillet, ce n\'est pas à leur calme qu\'on eût pu reconnaître ces Norvégiens si étrangement surexcités. Quant à cette surexcitation, était-elle due à l\'intérêt qui s\'attachait à ce tirage, ou provenait-elle de la haute température de cette journée d\'été ? Peut-être intérêt et chaleur y contribuaient-ils ? En tout cas, ce n\'était pas l\'absorption de ces fruits rafraîchissants, de ces multers, dont il se fait une si grande consommation en Scandinavie, qui eût pu la refroidir !
+
+Le tirage devait commencer à trois heures précises. Il y avait cent lots, divisés en trois séries : 1° quatre-vingt-dix lots de cent à mille marks, d\'une valeur totale de quarante-cinq mille marks ; 2° neuf lots de mille à neuf mille marks, également d\'une valeur totale de quarante-cinq mille marks ; 3° un lot de cent mille marks.
+
+Contrairement à ce qui se fait ordinairement dans les loteries de ce genre, le grand effet avait été réservé pour la fin. Ce ne devait pas être au premier numéro sortant que serait attribué le gros lot, ce serait au dernier, c\'est-à-dire, au centième. De là, une succession d\'impressions, d\'émotions, de battements de coeur, qui irait toujours croissant. Il va de soi que tout numéro, ayant gagné une fois, ne pouvait gagner une seconde, et serait annulé, s\'il venait à ressortir des urnes.
+
+Tout cela était connu du public.
+
+Il n\'y avait plus qu\'à attendre l\'heure fixée. Mais, pour tromper les longueurs de l\'attente, on causait, et, le plus souvent, de la touchante situation de Hulda Hansen. Vraiment, si elle eût encore possédé le billet de Ole Kamp, chacun aurait fait des voeux pour elle -- après soi, bien entendu ! À ce moment, quelques personnes avaient déjà connaissance de la dépêche publiée par le Morgen-Blad. Elles en parlèrent à leurs voisins. On sut bientôt, dans toute l\'assistance, que les recherches de l\'aviso n\'avaient point abouti. Ainsi donc, il fallait renoncer à retrouver même une épave du Viken. Pas un homme de l\'équipage n\'avait survécu au naufrage ! Hulda ne reverrait jamais son fiancé !
+
+Un incident vint détourner les esprits. Le bruit se répandit que Sandgoïst s\'était décidé à quitter Drammen, et quelques-uns prétendaient l\'avoir vu dans les rues de Christiania. Se serait-il donc hasardé à venir dans la salle ! S\'il en était ainsi, ce mauvais homme devait s\'attendre à un déchaînement formidable contre sa personne ! Lui ! Assister au tirage de la loterie ! Mais, c\'était tellement improbable que ce n\'était pas possible. En somme, fausse alerte, rien de plus.
+
+Vers deux heures un quart, il se produisit un certain mouvement dans la foule.
+
+C\'était le professeur Sylvius Hog qui se présentait à la porte de l\'Université. On savait quelle part il avait prise à toute cette affaire, et comment après avoir été sauvé par les enfants de dame Hansen, il essayait de payer sa dette.
+
+Aussitôt les rangs de s\'ouvrir. Un murmure flatteur, auquel Sylvius Hog répondit par d\'aimables inclinations de tête, se propagea à travers l\'assistance et ne tarda pas à se changer en acclamations.
+
+Mais le professeur n\'était pas seul.
+
+Lorsque les plus rapprochés se reculèrent pour lui faire place, on vit qu\'il avait une jeune fille au bras, tandis qu\'un jeune homme les suivait tous deux.
+
+Un jeune homme, une jeune fille ! Il y eut là une sorte de secousse électrique. La même pensée jaillit de tous ces cerveaux comme l\'étincelle d\'autant d\'accumulateurs.
+
+--- Hulda ! Hulda Hansen !
+
+Tel fut le nom qui s\'échappa de toutes les bouches.
+
+Oui ! C\'était Hulda, émue à ne pouvoir se soutenir. Elle fût tombée, sans le bras de Sylvius Hog. Mais il la tenait bien, la touchante héroïne de cette fête à laquelle manquait Ole Kamp ! Combien elle eût préféré rester dans sa petite chambre de Dal ! Quel besoin elle éprouvait de se soustraire à toute cette curiosité, si sympathique qu\'elle pût être ! Mais Sylvius Hog avait voulu qu\'elle vînt : elle était venue.
+
+--- Place ! Place ! criait-on de toutes parts.
+
+Et on se rangeait devant Sylvius Hog, devant Hulda, devant Joël. Que de mains s\'allongèrent pour saisir leurs mains ! Que de bonnes et accueillantes paroles sur leur passage ! Et comme Sylvius Hog approuvait toutes ces démonstrations !
+
+--- Oui ! C\'est elle, mes amis ! C\'est ma petite Hulda que j\'ai ramenée de Dal ! disait-il.
+
+Puis, se retournant :
+
+--- Et c\'est Joël, son brave frère !
+
+Et il ajoutait :
+
+--- Mais, surtout, ne me les étouffez pas !
+
+Et, pendant que les mains de Joël répondaient à toutes les pressions, celles du professeur, moins vigoureuses, étaient brisées par tant d\'étreintes.
+
+En même temps, son oeil brillait, quoique une petite larme d\'émotion se fût glissée sous sa paupière. Mais -- phénomène digne de l\'attention des ophtalmologistes -- cette petite larme était comme lumineuse.
+
+Il fallut un bon quart d\'heure pour traverser les cours de l\'Université, gagner la grande salle, atteindre les chaises qui avaient été réservées au professeur. Enfin, cela fut fait, non sans quelque peine. Sylvius Hog prit place entre Hulda et Joël.
+
+À deux heures et demie, une porte s\'ouvrit derrière l\'estrade, au fond de la salle. Le président du bureau apparut, digne, sérieux, ayant cet air dominateur, ce port de tête spécial à tout homme appelé à une présidence quelconque. Deux assesseurs le suivaient, non moins graves. Puis, on vit entrer six petites filles enrubannées, fleuries, toutes blondes aux yeux bleus, avec des mains un peu rouges, dans lesquelles on reconnaissait visiblement ces mains de l\'innocence, prédestinées au tirage des loteries.
+
+Cette entrée fut accueillie par un brouhaha, qui témoignait d\'abord du plaisir qu\'on éprouvait à voir les directeurs de la loterie de Christiania, ensuite de l\'impatience qu\'ils avaient provoquée en ne paraissant pas plus tôt sur l\'estrade.
+
+S\'il y avait six petites filles, c\'est qu\'il y avait six urnes, disposées sur une table, et desquelles six numéros devaient sortir à chaque tirage.
+
+Ces six urnes contenaient chacune les dix numéros 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, représentant les unités, dizaines, centaines, mille, dizaines de mille et centaines de mille du nombre million. S\'il n\'y avait pas de septième urne pour la colonne du million, c\'est que, d\'après ce mode de tirage, il est convenu que si les six zéros sortent à la fois, ils représentent le nombre million -- ce qui répartit également les chances sur tous les numéros.
+
+En outre, on avait décidé que les numéros seraient successivement extraits des urnes en commençant par celle qui était à la gauche du public. Le nombre gagnant se formerait ainsi sous les yeux des spectateurs, d\'abord par le chiffre de la colonne des centaines de mille, puis des dizaines de mille, et ainsi de suite jusqu\'à la colonne des unités. Grâce à cette convention, on juge avec quelle émotion chacun verrait s\'accroître ses chances, après la sortie de chaque chiffre.
+
+À trois heures sonnant, le président fit un signe de la main et déclara la séance ouverte.
+
+Le long murmure qui accueillit cette déclaration dura pendant quelques minutes, après lesquelles un certain silence s\'établit.
+
+Le président se leva alors. Très ému, il prononça le petit discours de circonstance, dans lequel il parut regretter qu\'il n\'y eût pas un gros lot pour chaque billet. Puis, il ordonna de procéder au tirage de la première série. Elle comprenait, on le sait, quatre-vingt-dix lots, ce qui allait exiger un certain temps.
+
+Les six petites filles commencèrent donc à fonctionner avec une régularité automatique, sans que la patience du public se lassât un seul instant. Il est vrai, l\'importance des lots croissant avec chaque tirage, l\'émotion croissait aussi, et personne ne songeait à quitter sa place, pas même ceux dont les numéros sortis n\'avaient plus rien à prétendre.
+
+Cela dura une heure, sans qu\'il se produisit d\'incident. Ce que l\'on put observer, toutefois, c\'est que le numéro 9672 n\'était pas encore sorti -- ce qui lui eût enlevé toutes chances de gagner le lot de cent mille marks.
+
+--- Voilà qui est de bon augure pour ce Sandgoïst ! dit un des voisins du professeur.
+
+--- Bah ! Il serait bien étonnant que le gros lot lui échût ! répondait un autre, bien qu\'il ait un fameux numéro !
+
+--- En effet, un fameux ! répondit Sylvius Hog. Mais ne me demandez pas pourquoi ! Je ne serais pas capable de vous le dire !
+
+Alors commença le tirage de la deuxième série, qui comprenait neuf lots. Cela allait devenir tout à fait intéressant, le quatre-vingt-onzième étant de mille marks, le quatre-vingt-douzième de deux mille, et ainsi de suite jusqu\'au quatre-vingt-dix-neuvième, lequel était de neuf mille. La troisième série, on ne l\'a pas oublié, se composait uniquement du gros lot. Le numéro 72521 gagna un lot de cinq mille marks. Ce billet était celui d\'un brave marinier du port, qui fut acclamé par toute l\'assistance et supporta très dignement ces acclamations.
+
+Un autre numéro, le 823752, gagna six mille marks. Et quelle fut la joie de Sylvius Hog, lorsque Joël lui apprit qu\'il appartenait à la charmante Siegfrid, de B amble !
+
+Mais alors il se produisit un incident, et tout le public éprouva une émotion qui se traduisit par des murmures. Lorsqu\'on tira le quatre-vingt-dix-septième lot -- celui de sept mille marks -- on put croire un instant que Sandgoïst allait être favorisé par le sort, au moins pour ce lot.
+
+En effet, le numéro qui le gagna fut le 9627. Il ne s\'en était fallu que de quarante-cinq points que ce ne fût celui d\'Ole Kamp !
+
+Les deux tirages suivants donnèrent des numéros très éloignés : 775 et 76287.
+
+La deuxième série était close. Il ne restait plus à tirer que le dernier lot de cent mille marks.
+
+En ce moment, l\'agitation des spectateurs devint extraordinaire, et il serait assez difficile d\'en reproduire l\'intensité.
+
+Ce fut d\'abord un long murmure, qui se propagea de la grande salle dans les cours et jusque dans les rues.
+
+Quelques minutes se passèrent même, sans qu\'il parvînt à se calmer. Cependant le decrescendo se fit peu à peu, et un profond silence le suivit. On eût dit que toute l\'assistance était figée. Il y avait dans ce calme une certaine quantité de stupeur -- qu\'on nous permette cette comparaison -- de cette stupeur qu\'on éprouve au moment où un condamné paraît sur la place de l\'exécution. Mais, cette fois, le patient, encore inconnu, n\'était condamné qu\'à gagner cent mille marks, non à perdre la tête, à moins qu\'il ne la perdit de joie.
+
+Joël, les bras croisés, regardait vaguement devant lui, étant le moins émotionné peut-être de toute cette foule.
+
+Hulda, assise, comme repliée en elle-même, ne songeait qu\'à son pauvre Ole. Elle le cherchait instinctivement du regard, comme s\'il eût dû apparaître au dernier moment !
+
+Sylvius Hog, lui\... Mais il faut renoncer à dépeindre l\'état dans lequel se trouvait Sylvius Hog.
+
+--- Tirage du lot de cent mille marks ! dit le président.
+
+Quelle voix ! Elle semblait venir des entrailles de cet homme solennel. Cela tenait à ce qu\'il avait plusieurs billets, qui, n\'étant pas encore sortis, pouvaient prétendre au gros lot.
+
+La première petite fille tira un numéro de l\'urne de gauche et le montra à l\'assemblée.
+
+--- Zéro ! dit le président.
+
+Ce zéro ne fit pas un très grand effet. Il semblait vraiment qu\'on s\'attendît à le voir apparaître.
+
+--- Zéro ! dit le président, en proclamant le chiffre tiré par la seconde petite fille.
+
+Deux zéros ! On observa que les chances s\'accroissaient notablement pour tous les numéros compris entre un et neuf mille neuf cent quatre-vingt-dix-neuf.
+
+Or, le billet de Ole Kamp -- qu\'on ne l\'oublie pas -- portait le numéro 9672. Chose singulière, Sylvius Hog commença à s\'agiter sur sa chaise, comme si elle eût été prise de roulis.
+
+--- Neuf ! dit le président, en annonçant le chiffre que la troisième petite fille venait d\'extraire de la troisième urne.
+
+Neuf ! C\'était le premier chiffre du billet de Ole Kamp !
+
+--- Six ! dit le président.
+
+Et, en effet, la quatrième fillette présentait un six à tous les regards braqués sur elle, comme autant de pistolets chargés, ce qui l\'intimidait visiblement. Les chances de gagner étaient maintenant de une sur cent pour tous les numéros compris entre un et quatre-vingt-dix-neuf.
+
+Est-ce que le billet de Ole Kamp allait faire tomber cette somme de cent mille marks dans la poche de ce misérable Sandgoïst ? Vraiment, ce serait à faire douter de Dieu !
+
+La cinquième petite fille plongea sa main dans l\'urne et tira le cinquième chiffre.
+
+--- Sept ! dit le président d\'une voix si étranglée qu\'on l\'entendit à peine, même des premiers rangs.
+
+Mais, si on n\'entendait pas, on voyait, et, à ce moment, les cinq fillettes tendaient les chiffres suivants aux yeux du public :
+
+00967
+
+Le numéro gagnant serait nécessairement compris entre 9670 et 9679. Il avait donc maintenant une chance sur dix.
+
+La stupeur était à son comble.
+
+Sylvius Hog, debout, avait saisi la main de Hulda Hansen.
+
+Tous les regards se portaient sur la pauvre fille. En sacrifiant le dernier souvenir de son fiancé, avait-elle donc sacrifié la fortune que Ole Kamp avait rêvée pour elle et pour lui ?
+
+La sixième fillette eut quelque peine à introduire sa main dans l\'urne. Elle tremblait, la petiote ! Enfin le numéro parut.
+
+--- Deux ! s\'écria le président.
+
+Et il retomba sur sa chaise, à demi suffoqué par l\'émotion.
+
+--- Neuf mille six cent soixante-douze ! Proclama un des assesseurs d\'une voix retentissante.
+
+C\'était le numéro du billet de Ole Kamp, maintenant en la possession de Sandgoïst ! Tout le monde le savait, et personne n\'ignorait dans quelles conditions l\'usurier l\'avait acquis ! Aussi un profond silence se fit-il, au lieu du tonnerre de hurrahs dont eût retenti toute la salle de l\'Université, si le billet eût toujours été entre les mains de Hulda Hansen.
+
+Et maintenant, ce coquin de Sandgoïst allait-il donc apparaître, son billet à la main, pour en toucher le prix ?
+
+--- Le numéro neuf mille six cent soixante-douze gagne le lot de cent mille marks ! répéta l\'assesseur. Qui le réclame ?
+
+--- Moi !
+
+Était-ce l\'usurier de Drammen qui venait de jeter ce mot ?
+
+Non ! C\'était un jeune homme -- un jeune homme à la figure pâle, portant, sur ses traits comme dans toute sa personne, les marques de longues souffrances, mais vivant, bien vivant !
+
+À cette voix, Hulda s\'était levée, elle avait poussé un cri, qui avait été entendu de tous.
+
+Puis, elle s\'était affaissée\...
+
+Mais ce jeune homme venait de fendre la foule, et ce fut lui qui reçut dans ses bras la jeune fille sans connaissance\...
+
+C\'était Ole Kamp !
+
+Oui ! C\'était Ole Kamp. Ole Kamp qui avait survécu, comme par miracle, au naufrage du Viken.
+
+Et, si le Telegraf ne l\'avait pas ramené en Europe, c\'est qu\'il n\'était plus alors dans les parages visités par l\'aviso.
+
+Et, s\'il n\'y était plus, c\'est que, à cette époque, il faisait déjà route pour Christiania sur le navire qui le rapatriait.
+
+Voilà ce que racontait Sylvius Hog. Voilà ce qu\'il répétait à qui voulait l\'entendre. Et tous l\'écoutaient, on peut le croire ! Voilà ce qu\'il narrait avec un véritable accent de triomphateur. Et ses voisins le redisaient à ceux qui n\'avaient pas le bonheur d\'être près de lui. Et cela se transmettait de groupe en groupe jusqu\'au public du dehors, entassé dans les cours et les rues avoisinantes.
+
+En quelques instants, tout Christiania savait, à la fois, que le jeune naufragé du Viken était de retour et qu\'il avait gagné le gros lot de la loterie des Écoles.
+
+Et il fallait bien que ce fût Sylvius Hog qui racontât toute cette histoire. Ole ne l\'aurait pu, car Joël le serrait dans ses bras à l\'étouffer, tandis que Hulda revenait à elle.
+
+--- Hulda ! Chère Hulda ! disait Ole. Oui ! Moi\... Ton fiancé\... Et bientôt ton mari !
+
+--- Dès demain, mes enfants, dès demain ! s\'écria Sylvius Hog. Nous partirons ce soir même pour Dal. Et, si cela ne s\'est jamais vu, on verra un professeur de législation, un député au Storthing, danser à une noce comme le plus découplé des gars du Telemark !
+
+Mais comment Sylvius Hog connaissait-il l\'histoire de Ole Kamp ? Tout simplement par la dernière lettre que la Marine lui avait adressée à Dal.
+
+En effet, cette lettre -- la dernière qu\'il eût reçue et dont il n\'avait parlé à personne -- en renfermait une seconde, datée de Christiansand. Cette seconde lettre lui apprenait ceci : le brick danois Génius, capitaine Kroman, venait de relâcher à Christiansand, ayant à son bord les survivants du Viken, entre autres le jeune maître Ole Kamp, et, trois jours après, il devait arriver à Christiania.
+
+La lettre de la Marine ajoutait que ces naufragés avaient tellement souffert qu\'ils étaient encore dans un extrême état de faiblesse. C\'est pourquoi Sylvius Hog n\'avait rien voulu dire à Hulda du retour de son fiancé. Aussi, dans sa réponse, avait-il demandé le plus profond secret sur ce retour, secret qui avait été soigneusement gardé vis-à-vis du public.
+
+Si l\'aviso Telegraf n\'avait retrouvé ni aucune épave ni aucun survivant du Viken, cela est facile à expliquer.
+
+Pendant une violente tempête, le Viken, à demi désemparé, avait été forcé de fuir dans le nord-ouest, lorsqu\'il se trouvait à deux cents milles au sud de l\'Islande. Durant la nuit du 3 au 4 mai -- nuit de rafales -- il vint se heurter contre un de ces énormes icebergs en dérive, qui sortaient des mers du Groënland. La collision fut terrible, et si terrible que, cinq minutes après, le Viken allait couler à pic.
+
+C\'est alors que Ole avait écrit ce document. Il avait tracé sur ce billet de loterie un dernier adieu à sa fiancée ; puis, il l\'avait jeté à la mer, après l\'avoir enfermé dans une bouteille.
+
+Mais la plupart des hommes de l\'équipage du Viken, y compris le capitaine, avaient péri au moment de la collision. Seuls, Ole Kamp et quatre de ses camarades purent sauter sur un débris de l\'iceberg, au moment où s\'engloutissait le Viken.
+
+Pourtant, leur mort n\'eût été que retardée, si cette épouvantable bourrasque n\'eût poussé le banc de glace dans le nord-ouest. Deux jours après, épuisés, mourant de faim, les cinq survivants du naufrage étaient jetés sur la côte sud du Groënland, côte déserte, où ils vécurent à la grâce de Dieu.
+
+Là, s\'ils n\'étaient secourus sous quelques jours, c\'en était fait d\'eux. Comment auraient-ils eu la force de regagner les pêcheries ou les établissements danois de la baie de Baffin, sur l\'autre littoral ?
+
+C\'est alors que le brick Génius, qui avait été rejeté hors de sa route par la tempête, vint à passer. Les naufragés lui firent des signaux. Ils furent recueillis.
+
+Ils étaient sauvés.
+
+Toutefois, le Génius, arrêté par les vents contraires, éprouva de grands retards dans cette traversée relativement courte du Groënland à la Norvège.
+
+C\'est ce qui explique comment il n\'arriva à Christiansand que le 12 juillet, et à Christiania que dans la matinée du 15.
+
+Or, c\'était ce matin même que Sylvius Hog était allé à bord. Là, il avait trouvé Ole encore bien faible. Il lui avait dit tout ce qui s\'était passé depuis sa dernière lettre, datée de Saint-Pierre-Miquelon\... Puis, il l\'avait emmené à sa demeure, après avoir demandé quelques heures de secret à l\'équipage du Génius\... On sait le reste.
+
+Il fut alors convenu que Ole Kamp viendrait assister au tirage de la loterie. En aurait-il la force ?
+
+Oui ! La force ne lui manquerait pas, puisque Hulda serait là ! Mais avait-il donc encore un intérêt pour lui, ce tirage ? Oui, cent fois oui ! Intérêt pour lui comme pour sa fiancée !
+
+En effet, Sylvius Hog avait réussi à retirer le billet des mains de Sandgoïst. Il l\'avait racheté pour le prix que l\'usurier de Drammen avait payé à dame Hansen. Et Sandgoïst avait été trop heureux de s\'en défaire, maintenant que les surenchères ne se produisaient plus.
+
+--- Mon brave Ole, avait dit Sylvius Hog, en lui remettant le billet, ce n\'est point une chance de gain, bien improbable en somme, que j\'ai voulu rendre à Hulda, c\'est le dernier adieu que vous lui avez adressé au moment où vous croyiez périr !
+
+Eh bien ! Il faut avouer qu\'il avait été bien inspiré, le professeur Sylvius Hog, et mieux que ce Sandgoïst, qui faillit se briser la tête contre un mur, quand il apprit le résultat du tirage !
+
+Maintenant, il y avait cent mille marks dans la maison de Dal ! Oui ! Cent mille marks bien au complet, car Sylvius Hog ne voulut jamais être remboursé de ce qu\'il avait payé pour racheter le billet de Ole Kamp. C\'était la dot qu\'il était trop heureux d\'offrir, le jour de son mariage, à sa petite Hulda !
+
+Peut-être trouvera-t-on quelque peu étonnant que ce numéro 9672, sur lequel l\'attention avait été si vivement attirée, fût précisément sorti au tirage du gros lot.
+
+Oui, on en conviendra, c\'est étonnant, mais ce n\'était pas impossible, et, en tout cas, cela est.
+
+Sylvius Hog, Ole, Joël et Hulda quittèrent Christiania le soir même. Le retour se fit par Bamble, car il fallait remettre à Siegfrid le montant du lot qu\'elle avait gagné. En repassant devant la petite église d\'Hitterdal, Hulda se rappela les tristes pensées qui l\'obsédaient deux jours avant ; mais la vue de Ole la ramena bien vite à l\'heureuse réalité.
+
+Par saint Olaf ! Que Hulda était donc jolie sous sa couronne rayonnante, quand, quatre jours après, elle quitta la petite chapelle de Dal au bras de son mari Ole Kamp !
+
+Et, ensuite, quelle cérémonie, dont le retentissement fut immense jusque dans les derniers gaards du Telemark ! Et quelle joie chez tous, la jolie fille d\'honneur Siegfrid, son père, le fermier Hemlboë, son futur Joël, et aussi dame Hansen que ne hantait plus le spectre de Sandgoïst !
+
+Peut-être se demandera-t-on si tous ces amis, tous ces invités, MM. Help frères, Fils de l\'Aîné, et tant d\'autres, étaient venus pour assister au bonheur des jeunes mariés, ou pour voir danser Sylvius Hog, professeur de législation et député au Storthing. Question. En tout cas, il dansa très dignement, et, après avoir ouvert le bal avec sa chère Hulda, il le finit avec la charmante Siegfrid.
+
+Le lendemain, salué par les hurrahs de toute la vallée du Vestfjorddal, il partait, non sans avoir formellement promis de revenir pour le mariage de Joël, qui fut célébré quelques semaines plus tard, à l\'extrême joie des contractants.
+
+Cette fois, le professeur ouvrit le bal avec la charmante Siegfrid, et il le finit avec sa chère Hulda. Et, depuis lors, Sylvius Hog ne dansa plus. Que de bonheur accumulé maintenant dans cette maison de Dal, qui avait été si durement éprouvée. Sans doute, c\'était un peu l\'oeuvre de Sylvius Hog, mais il ne voulait point en convenir et répétait toujours :
+
+--- Bon ! C\'est encore moi qui redois quelque chose aux enfants de dame Hansen !
+
+Quant au fameux billet, il avait été rendu à Ole Kamp, après le tirage de la loterie. Maintenant, il figure à la place d\'honneur, au milieu d\'un petit cadre de bois, dans la grande salle de l\'auberge de Dal. Mais, ce que l\'on voit, ce n\'est point le recto du billet où est inscrit le fameux numéro 9672, c\'est le dernier adieu, écrit au verso, que le naufragé Ole Kamp adressait à sa fiancée Hulda Hansen.

@@ -1,0 +1,141 @@
+]{.calibre20}
+
+
+ROMAN
+
+L\'ÉPAVE DU CYNTHIA
+
+
+]{.calibre20}
+
+## [[Chapitre 3 -- Les idées de maaster Hersebom]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943060 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_168 .calibre21}
+
+Le lendemain matin, le docteur Schwaryencrona finissait de déjeuner avec son gérant, après une inspection complète de l\'usine, quand il vit entrer un personnage dans lequel il eut d\'abord quelque peine à reconnaître maaster Hersebom.
+
+Revêtu de son costume de cérémonie, de son grand gilet brodé, de sa redingote fourrée, coiffé de son haut chapeau tromblon, le pêcheur différait déjà beaucoup de ce qu\'il était sous sa veste de travail. Mais ce qui achevait de le changer, c\'était l\'air profondément triste et humilié de sa physionomie. Il avait les yeux rouges et semblait n\'avoir pas dormi de la nuit.
+
+Tel était effectivement son cas. Maaster Hersebom, qui jusqu\'à ce jour n\'avait jamais eu le moindre remords de conscience, venait de passer sur son matelas de cuir de bien tristes heures ! Vers le matin, il avait échangé les plus douloureuses réflexions avec dame Katrina, qui, elle non plus, n\'avait pas fermé l\'oeil.
+
+« Femme, je pense à ce que nous a dit le docteur ! S\'était-il écrié au bout de plusieurs heures d\'insomnie.
+
+--- J\'y pense aussi depuis qu\'il est parti, avait répondu la digne ménagère.
+
+--- M\'est avis qu\'il y a une part de vrai dans tout cela, et que nous avons peut-être été plus égoïstes que nous ne pensions ! Qui sait si le petit n\'a pas droit à quelque grande fortune dont il est privé par notre négligence ?... Qui sait s\'il n\'est pas pleuré depuis douze ans par une famille qui pourrait à juste titre nous accuser de n\'avoir rien tenté pour le lui rendre ?
+
+--- C\'est précisément ce que je me répète, répondit Katrina en soupirant. Si sa mère vit, la pauvre femme, quel affreux chagrin ça doit être pour elle de croire son enfant noyé !... Je me mets à sa place, et je suppose que nous ayons ainsi perdu notre Otto !... Jamais nous ne nous serions consolés !
+
+--- La mère n\'est pas encore tout ce qui m\'inquiète, car, selon toute apparence, elle est morte, reprit Hersebom après un silence entrecoupé de part et d\'autre de nouveaux soupirs. Comment supposer qu\'un enfant de cet âge voyageât sans elle ou qu\'il pût être attaché sur une bouée et livré seul aux hasards de l\'Océan, si elle avait encore été vivante ?...
+
+--- C\'est vrai... mais qu\'en savons-nous, après tout ?... Peut-être qu\'elle aussi a échappé par miracle !
+
+--- Et peut-être même lui a-t-on pris son enfant !... C\'est une idée qui m\'est venue parfois, reprit Hersebom. Qui nous dit qu\'on n\'avait pas intérêt à le faire disparaître ? L\'exposer ainsi sur une bouée est un procédé si extraordinaire, que toutes les suppositions sont possibles... Et, dans ce cas, nous nous serions faits les complices d\'un crime, nous en aurions favorisé le succès !... N\'est-ce pas horrible à penser ?...
+
+--- Qui nous aurait dit chose pareille, à nous qui croyions si bien faire oeuvre de charité en adoptant le pauvret ?
+
+--- Oh ! C\'est clair, nous n\'y avons pas apporté malice ! Nous l\'avons nourri, élevé de notre mieux ! N\'empêche que nous avons agi fort étourdiment et que le petit sera peut-être en droit de nous le reprocher un jour !...
+
+--- Pour cela, ce n\'est pas à craindre, j\'en suis sûre ! Mais c\'est déjà trop d\'avoir nous-mêmes quelque chose à nous reprocher !
+
+--- Est-ce étrange que la même action, regardée d\'un point de vue différent, puisse être jugée de manières si opposées ! Jamais je n\'aurais seulement imaginé chose pareille !... Et il a suffi de quelques mots du docteur pour nous mettre la cervelle à l\'envers ! »
+
+Ainsi devisaient les braves gens.
+
+Le résultat de cet échange de leurs réflexions nocturnes, c\'est que maaster Hersebom vint consulter le docteur Schwaryencrona sur ce qu\'il était possible de faire pour réparer l\'erreur passée.
+
+Celui-ci ne crut pas d\'abord devoir revenir sur ce qui s\'était dit la veille. Il accueillit le pêcheur avec bienveillance, causa avec lui du temps et des prix du poisson, mais feignit de prendre sa démarche pour une simple visite de politesse.
+
+Cela ne faisait pas du tout l\'affaire de maaster Hersebom, qui commença par tourner autour du sujet de ses préoccupations, parla de l\'école de M. Malarius, et se décida enfin à se jeter en pleine eau.
+
+« Monsieur le docteur, dit-il en prenant son parti, ma femme et moi nous avons pensé toute la nuit à ce que vous nous avez dit hier soir au sujet du petit... Nous n\'avions jamais cru lui faire tort en l\'élevant comme notre enfant !... Mais vous avez changé notre opinion, et je voudrais savoir ce que vous nous conseillez pour ne plus pêcher par ignorance... Pensez-vous qu\'il soit encore temps de rechercher la famille d\'Erik ?
+
+--- Il n\'est jamais trop tard pour faire son devoir, répondit le docteur, -- quoique, à coup sûr, la tâche soit aujourd\'hui bien plus compliquée qu\'elle ne l\'aurait été au premier moment... Voulez-vous me la confier ? Je m\'en chargerai avec plaisir, et je vous promets de m\'en acquitter avec toute l\'activité désirable -- à une condition, toutefois : c\'est que vous me confierez en même temps l\'enfant, pour l\'emmener à Stockholm... »
+
+Un coup de massue, tombant sur la tête de maaster Hersebom, ne l\'aurait pas étourdi davantage. Il pâlit et se troubla visiblement.
+
+« Vous confier Erik... l\'envoyer à Stockholm ?... Et pourquoi donc, monsieur le docteur, demanda-t-il d\'une voix altérée.
+
+--- Je vais vous le dire...Ce qui a attiré mon attention sur cet enfant, en même temps que les caractères physiques par lesquels il se distingue à première vue de ses condisciples, c\'est sa vive intelligence, sa vocation marquée pour les hautes études. Avant de savoir par suite de quels hasards il était venu s\'échouer à Noroë, je m\'étais dit que ce serait un meurtre de laisser un garçon si bien doué dans une école de village, même sous un maître comme Malarius, -- car il n\'y trouve rien de ce qui pourrait aider au développement de ses facultés exceptionnelles, ni musées, ni collections scientifiques, ni bibliothèques, ni émules dignes de lui... C\'est ce qui m\'a conduit à m\'enquérir d\'Erik, à demander quelle était son histoire. Avant de la connaître, j\'avais déjà le plus vif désir de procurer à cet enfant les avantages d\'une éducation complète... Vous comprendrez donc aisément qu\'une fois en possession des renseignements que vous m\'avez donnés, je me sois d\'autant plus attaché à ce projet. Et ce n\'est pas la mission dont je suis disposé à me charger en sa faveur qui peut m\'en détourner... Je n\'ai pas à vous rappeler, maaster Hersebom, qu\'évidemment votre fils adoptif appartient à une famille riche et distiguée. Voulez-vous que je m\'expose, si je la retrouve, à lui rendre un enfant élevé au village et dépourvu de cette éducation sans laquelle il serait déplacé dans son nouveau milieu ?... Ce ne serait pas raisonnable, vous avez trop de bon sens pour ne pas le comprendre... »
+
+Maaster Hersebom baissait la tête. Sans qu\'il s\'en aperçût, deux grosses larmes coulaient sur ses joues hâlées.
+
+« Mais alors, dit-il, ce serait une séparation définitive !... Avant même de savoir si le petit retrouvera une autre famille, il faudrait le chasser de la maison !... C\'est trop me demander, monsieur le docteur, trop demander à ma femme !... L\'enfant est heureux chez nous !... Pourquoi ne pas l\'y laisser -- au moins tant qu\'il ne sera pas sûr d\'un sort plus brillant ?
+
+--- Heureux !... Qui vous dit qu\'il le sera plus tard ?... Qui vous répond que, devenu grand, il ne regrettera pas d\'avoir été sauvé ! Intelligent, supérieur comme il sera peut-être, il étouffera dans la vie que vous pouvez lui faire à Noroë, mon cher Hersebom !...
+
+--- Ma foi, monsieur le docteur, cette vie que vous dédaignez est assez bonne pour nous !... Pourquoi pas aussi pour le petit ?
+
+--- Je ne la dédaigne pas ! s\'écria le savant avec chaleur. Personne plus que moi n\'admire et n\'honore le travail ! Croyez-vous donc, maître Hersebom, que je puisse oublier d\'où je suis sorti !... Mon père et mon grand-père étaient des pêcheurs tout comme vous ! Et c\'est justement parce qu\'ils ont eu la prévoyance de me donner de l\'éducation que j\'apprécie ce bienfait à sa valeur et que je voudrais l\'assurer à un enfant qui le mérite !... Son intérêt seul me guide, croyez-le bien...
+
+--- Eh ! Que sais-je, moi ?... Erik sera bien avancé quand vous aurez fait de lui un " monsieur ", qui ne saura pas se servir de ses bras !... Et si vous ne retrouvez pas sa famille, comme c\'est plus que probable, après douze années, nous aurons préparé une belle besogne !... Allez, monsieur le docteur, c\'est une brave vie que celle de l\'homme de mer, et qui en vaut bien une autre !... Un bon bateau sous ses pieds, la bise fraîche dans ses cheveux et quatre ou cinq douzaines de morues aubout de ses lignes de fond, un pêcheur norvégien ne craint rien et ne doit rien à personne !... Vous dites qu\'Erik ne serait pas heureux de cette vie ? Permettez-moi de croire le contraire ! Je le connais bien, l\'enfant !... Il aime les livres ; mais, par-dessus tout, il aime la mer ! On dirait qu\'il se ressent d\'avoir été bercé par elle, et tous les musées du monde ne le consoleraient pas d\'en être loin !
+
+--- Mais nous avons aussi la mer à Stockholm, dit en souriant le docteur, ému malgré lui de cette affectueuse résistance.
+
+--- Enfin, reprit le pêcheur en se croisant les bras, que voulez-vous, décidément ? Que proposez-vous, monsieur le docteur ?
+
+--- Là !... vous voyez bien qu\'après tout vous sentez la nécessité de faire quelque chose ?... Eh bien, voici ma proposition. Erik a douze ans, bientôt treize, et paraît être un enfant exceptionnellement bien doué. Peu importe d\'où il vient... Laissons de côté cette question d\'origine... Il mérite qu\'on lui donne les moyens de développer et d\'utiliser ses facultés : voilà ce qui nous occupe pour le présent. Moi, je suis riche et je n\'ai pas d\'enfants. Je me charge de lui fournir ces moyens, de lui donner les meilleurs maîtres et toutes les facultés possibles pour profiter de leurs leçons... L\'expérience dure deux ans... Dans cet intervalle, je me suis mis en campagne, j\'ai fait des recherches, inséré des annonces dans les journaux, remué ciel et terre pour découvrir les parents de l\'enfant !... Si je n\'y arrive pas en deux ans, c\'est que je n\'y arriverai jamais !... Les parents sont-ils retrouvés ? Ils décident naturellement de tout ce qu\'il convient de faire !... Dans le cas contraire, je vous renvoie Erik !... Il a quinze ans, il a vu le monde !... L\'heure est arrivée de lui dire la vérité sur sa naissance ; il peut, avec nos conseils, et sur les jugements motivés de ses maîtres, se décider en pleine connaissance de cause sur la voie à suivre !... Veut-il être pêcheur, ce n\'est pas moi qui m\'y opposerai !... Veut-il poursuivre ses études, c\'est vraisemblablement qu\'il en sera digne, et je m\'engage à les lui faire achever, à lui ouvrir la profession de son choix !... Est-ce que tout cela ne vous semble pas raisonnable ?
+
+--- Plus que raisonnable !... C\'est la sagesse même qui parle par votre bouche, monsieur le docteur ! s\'écria maaster Hersebom vaincu dans ses derniers retranchements. Ce que c\'est pourtant que d\'avoir étudié ! reprit-il en secouant la tête. On a beau jeu avec les ignorants !... Le difficile maintenant sera de répéter tout ça à ma femme !... Ce serait bientôt que vous emmèneriez le petit ?...
+
+--- Demain !... Je ne puis pas retarder d\'un seul jour ma rentrée à Stockholm. »
+
+Maaster Hersebom poussa un soupir, qui ressemblait à un sanglot.
+
+« Demain... c\'est bientôt !... dit-il. Enfin ! Ce qui sera sera !... Je vais en causer avec ma femme...
+
+--- C\'est cela. Consultez aussi M. Malarius. Vous verrez qu\'il est de mon avis.
+
+--- Oh ! Je m\'en doute bien un peu », répliqua le pêcheur avec un sourire attristé.
+
+Il serra la main que lui tendait M. Schwaryencrona et s\'en alla tout songeur.
+
+Le soir, avant l\'heure du dîner, le docteur se dirigea de nouveau vers la demeure de maaster Hersebom. Il trouva la famille réunie autour du foyer, comme la veille, mais non plus dans les mêmes sentiments de quiétude et de bonheur. Le père était assis assez loin du feu, silencieux, les mains oisives. Katrina, les yeux pleins de larmes, tenait serrées dans les siennes les mains d\'Erik, qui, les joues animées par l\'espoir de ses destinées nouvelles et le regard assombri par le chagrin de quitter tout ce qu\'il aimait, ne savait trop à quel sentiment il devait laisser prendre le dessus. La petite Vanda cachait sa tête sur les genoux du pêcheur. On ne voyait d\'elle que les longues nattes d\'un blond argenté, qui tombaient lourdement sur ses épaules frêles et gracieuses. Otto, vivement ému lui aussi de cette séparation imminente, se tenait immobile auprès de son frère adoptif.
+
+« Comme vous voilà sombres et désolés !... s\'écria le docteur en s\'arrêtant au seuil. Erik serait au moment de partir pour l\'expédition la plus lointaine et la plus périlleuse que vous ne pourriez en témoigner plus de chagrin !... Il n\'y a vraiment pas de quoi, je vous assure, mes bons amis ! Stockholm n\'est pas aux antipodes, et l\'enfant ne vous quitte pas pour toujours ! Il pourra vous écrire et je ne doute pas qu\'il ne le fasse souvent ! Son cas est celui de tous les garçons qui s\'en vont au collège. Dans deux ans, il vous reviendra grand et fort instruit, accompli de tout point ! Y a-t-il là si grand sujet de se désoler ?... Sérieusement, ce n\'est pas raisonnable ! »
+
+Katrina s\'était levée avec la dignité native des paysannes du Nord.
+
+« Herr Doktor, Dieu m\'est témoin que je vous suis profondément reconnaissante de ce que vous faites pour notre Erik, dit-elle. Il ne faut pas nous en vouloir si son départ nous attriste. Hersebom m\'a expliqué que c\'est une séparation nécessaire. Je me soumets. N\'exigez pas que ce soit sans regrets !
+
+--- Mère, s\'écria Erik, je ne partirai pas, si cela vous fait trop de peine !
+
+--- Non, mon enfant, reprit la digne femme en le serrant dans ses bras. L\'éducation est un bienfait que nous n\'avons pas le droit de refuser pour toi !... Va, mon fils, remercie monsieur le docteur, qui veut te l\'assurer, et prouve-lui toujours par ton application à l\'étude que tu apprécies ses grandes bontés !
+
+--- Voyons, voyons ! dit le docteur, dont les lunettes semblaient se voiler d\'un singulier nuage, est-ce que vous voulez m\'attendrir, moi aussi ?... Parlons plutôt de choses pratiques, cela vaudra mieux. Vous avez bien compris, n\'est-ce pas, qu\'il s\'agit de partir demain matin à la première heure, et tout sera prêt ? Quand je dis tout, ce n\'est pas qu\'un bien grand trousseau soit nécessaire. Nous n\'allons en traîneau que jusqu\'à Bergen, où nous prendrons le chemin de fer. Erik n\'a besoin que d\'un peu de linge et trouvera à Stockholm ce qui lui sera nécessaire...
+
+--- Tout sera prêt, répondit simplement dame Hersebom. Vanda, ajouta-t-elle avec la courtoisie norvégienne, monsieur le docteur est encore debout ! »
+
+La fillette s\'empressa de pousser vers M. Schwaryencrona un grand fauteuil de chêne verni.
+
+« Je m\'en vais, déclara le docteur. Malarius m\'attend pour dîner... Eh bien, " flicka " (jeune fille), reprit-il en posant sa main sur la tête blonde de l\'enfant, vous m\'en voulez donc beaucoup de vous prendre votre frère ?
+
+--- Non, monsieur le docteur, répondit gravement Vanda. Erik sera plus heureux là-bas. Il n\'était pas fait pour rester au village !
+
+--- Et vous, ma petite, serez-vous malheureuse sans lui ?
+
+--- La plage sera déserte, répliqua l\'enfant avec douceur. Les mouettes le chercheront sans le trouver. Les petites vagues bleues s\'étonneront de ne plus le voir, et la maison me semblera vide ! Mais Erik sera content, parce qu\'il aura des livres et qu\'il deviendra savant.
+
+--- Et sa brave petite soeur se réjouira de son bonheur, n\'est-ce pas, mon enfant ? dit le docteur en mettant un baiser sur le front de la fillette. Et elle sera fière de lui quand il reviendra !... Allons, voilà une affaire réglée ! Il faut que je me sauve au plus vite ! À demain !
+
+--- Monsieur le docteur, murmura timidement Vanda, je voudrais, moi aussi, vous demander une faveur.
+
+--- Parlez, flicka !
+
+--- Vous partez en traîneau, avez-vous dit ? Je voudrais, avec la permission de mon père et de maman, que vous me laissiez vous conduire jusqu\'au premier relais.
+
+--- Ah !... ah !... c\'est que j\'avais déjà arrêté à cet effet Regnild, la fille de mon gérant !
+
+--- Je le sais, et d\'elle-même. Mais elle consent à me céder sa place, si vous daignez l\'autoriser.
+
+--- Eh bien, dans ce cas, il ne vous reste qu\'à obtenir la permission de papa et de maman.
+
+--- Je l\'ai.
+
+--- Vous avez donc la mienne, chère enfant », dit le docteur en s\'en allant.
+
+Le lendemain matin, quand le grand traîneau s\'arrêta devant la maison Hersebom, la petite Vanda, selon sa demande, tenait les rênes, assise sur le siège. Elle allait conduire jusqu\'au village voisin, où le docteur louerait un autre cheval et une autre fillette, et ainsi de suite jusqu\'à Bergen. Ce cocher d\'une nouvelle espèce n\'eût pas manqué d\'étonner un étranger ; mais telle est la coutume en Suède et en Norvège. Les hommes croiraient perdre leur temps en remplissant ces fonctions, et il n\'est pas rare de confier à des enfants de dix à douze ans de lourds attelages qu\'ils savent manier avec une aisance consommée.
+
+Le docteur était déjà installé dans le fond du véhicule, et bien emmitouflé dans ses fourrures. Erik prit place à côté de Vanda, après avoir tendrement embrassé son père et son frère, qui se contentèrent de lui exprimer par leur tristesse muette le chagrin que leur causait son départ, puis la bonne Katrina qui fut plus expansive.
+
+« Adieu, mon fils ! disait-elle au milieu de ses larmes. N\'oublie jamais ce que t\'ont appris tes pauvres parents ! Soit honnête et brave ! Ne mens jamais ! Travaille de ton mieux ! Protège toujours ceux qui sont plus faibles que toi ! Et si tu ne trouves pas le bonheur que tu mérites, reviens le chercher auprès de nous. »
+
+Vanda toucha le cheval, qui partit au grand trot, en faisant sonner ses clochettes. L\'air était froid et la route dure comme du verre. Tout près de l\'horizon, un soleil pâle jetait son manteau d\'or sur le paysage neigeux. En quelques minutes, Noroë s\'effaça dans le lointain.

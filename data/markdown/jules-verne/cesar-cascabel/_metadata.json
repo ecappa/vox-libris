@@ -1,0 +1,63 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "CÉSAR CASCABEL",
+  "slug": "cesar-cascabel",
+  "nombre_chapitres": 31,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1357,
+      "spine_end_exclusive": 1373,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_963.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_964.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_965.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_966.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_967.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_968.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_969.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_970.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_971.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_972.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_973.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_974.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_975.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_976.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_977.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_978.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 1373,
+      "spine_end_exclusive": 1389,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_979.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_980.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_981.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_982.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_983.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_984.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_985.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_986.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_987.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_988.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_989.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_990.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_991.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_992.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_993.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_994.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

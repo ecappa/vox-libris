@@ -1,0 +1,57 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "THÉRÈSE RAQUIN (POLÉMIQUES)",
+  "slug": "therese-raquin-polemiques",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1389,
+      "spine_end_exclusive": 1390,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_089.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L’article de Ferragus, dans « Le Figaro », 23 janvier 1868 : « La littérature putride »",
+      "slug": "larticle-de-ferragus-dans-le-figaro-23-janvier-1868-la-litterature-putride",
+      "spine_start": 1390,
+      "spine_end_exclusive": 1391,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_090.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La réponse de Zola dans « Le Figaro », 31 janvier 1868",
+      "slug": "la-reponse-de-zola-dans-le-figaro-31-janvier-1868",
+      "spine_start": 1391,
+      "spine_end_exclusive": 1392,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_091.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de « Thérèse Raquin »",
+      "slug": "un-echange-de-lettres-entre-sainte-beuve-et-emile-zola-a-propos-de-therese-raquin",
+      "spine_start": 1392,
+      "spine_end_exclusive": 1396,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_092.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_093.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_094.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_095.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/therese-raquin-polemiques/Zola5_image028.jpg",
+    "images/emile-zola/therese-raquin-polemiques/Zola5_image029.jpg"
+  ]
+}

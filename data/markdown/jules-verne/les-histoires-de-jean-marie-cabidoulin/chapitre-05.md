@@ -1,0 +1,234 @@
+]{.calibre20}
+
+
+LES HISTOIRES DE JEAN-MARIE CABIDOULIN
+
+
+]{.calibre20}
+
+## [[Chapitre 5 -- Baie Marguerite]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942587 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_16 .calibre21}
+
+
+Toutefois, le Saint-Enoch ayant déjà sa demi-cargaison d\'huile, il était probable que les occasions ne lui manqueraient pas d\'y ajouter quelques centaines de barils. Mais si le navire anglais rencontré n\'avait pas, comme on le supposait, commencé sa campagne ; si comme on le supposait également, il comptait débuter dans la baie Marguerite, il était probable, vu l\'époque déjà avancée, qu\'il n\'y pourrait faire son plein chargement.
+
+La côte américaine fut relevée le 13 mai, à la hauteur du Tropique. Dès les premières heures, on eut connaissance du cap Saint-Lucas, à l\'extrémité sud de cette presqu\'île de la Vieille-Californie qui borde l\'étroit golfe de ce nom, dont la rive opposée forme le littoral de la Sonora mexicaine.
+
+En prolongeant cette côte, le Saint-Enoch passa devant plusieurs îles uniquement habitées par des cabris, des loups marins, des oiseaux de mer en bandes innombrables. La pirogue envoyée à terre avec M. Heurtaux, qui était bon chasseur, ne revint pas vide. Les loups marins, on les dépouilla pour conserver la peau ; les cabris on les dépeça pour en retirer la chair, qui, au point de vue comestible, est de qualité excellente.
+
+En continuant de remonter le littoral, à petite distance, servi par une légère brise du sud-ouest, le Saint-Enoch laissa sur bâbord la baie de la Tortue.
+
+À l\'extrémité de cette baie, on aperçut au mouillage un certain nombre de bâtiments qui devaient chasser aux éléphants de mer.
+
+Le 7 mai, à sept heures du soir, le capitaine Bourcart se trouvait à l\'ouvert de la baie Marguerite, dans laquelle il comptait jeter l\'ancre. Par mesure de prudence, la nuit ne devant pas tarder à venir, il fit mettre cap au large et louvoya sous petits bords, de sorte que le lendemain, dès le lever du soleil, il était de retour à l\'entrée de la passe.
+
+Le courant descendait alors contre le vent, ce qui produisait un clapotis comparable à celui des bas-fonds. On pouvait craindre que l\'eau n\'y fût pas assez profonde. Aussi M. Bourcart envoya-t-il deux pirogues avec des lignes de sonde afin d\'effectuer un brassiage exact. Il fut rassuré, d\'ailleurs, lorsque les sondes accusèrent une moyenne de quinze à vingt brasses. Le navire s\'engagea donc à travers la passe, et il eut bientôt donné dans la baie Marguerite.
+
+Les vigies n\'avaient point revu le trois-mâts anglais. Peut-être, après tout, ce navire cherchait-il d\'autres lieux plus fréquentés par les souffleurs. Personne ne regretta de ne plus marcher de conserve avec lui.
+
+Comme la baie est embarrassée de bancs de sable, le Saint-Enoch n\'avança pas sans d\'extrêmes précautions. Sans doute, M. Bourcart avait déjà visité cette baie ; mais, les bancs étant sujets à se déplacer, il importait de reconnaître la direction du chenal. Aussi vint-il mouiller au milieu d\'une petite anse très abritée.
+
+Dès que les voiles furent serrées, l\'ancre envoyée par le fond, les trois pirogues de bâbord se rendirent à terre, afin de rapporter des palourdes, excellents coquillages en abondance sur les rochers et les grèves.
+
+Du reste, ces parages fourmillent de poissons de plusieurs espèces, mulets, saumons, vieilles et autres. Ni les loups marins ni les tortues n\'y font défaut, les requins pas davantage. On peut aussi se procurer facilement du bois dans les épaisses forêts qui bordent la mer.
+
+La baie Marguerite mesure de trente à trente-cinq milles, soit une douzaine de lieues. Pour y naviguer sans avarie, il est nécessaire de suivre sur toute sa longueur un chenal qui, par endroits, n\'a pas plus de quarante à cinquante mètres de large entre les bancs ou les roches.
+
+Afin d\'assurer sa route, le capitaine Bourcart fit ramasser quelques gros cailloux auxquels une corde fut amarrée par un bout, tandis que l\'autre se rattachait à un baril bien fermé. C\'étaient autant de bouées que les hommes placèrent de chaque côté du chenal afin d\'en indiquer les sinuosités.
+
+Il ne fallut pas moins de quatre jours, le jusant obligeant à mouiller deux fois par vingt-quatre heures, pour atteindre une lagune profonde d\'au moins deux lieues.
+
+Pendant ces arrêts, M. Heurtaux, accompagné des deux lieutenants, prenait terre et allait chasser aux environs. Ils tuèrent plusieurs couples de cabris et aussi quelques chacals, fort nombreux dans les bois du voisinage. Pendant ce temps, les matelots faisaient provision d\'huîtres très savoureuses et se livraient à la pêche.
+
+Enfin, le 11 mai, dans l\'après-midi, le Saint-Enoch atteignit son mouillage définitif.
+
+L\'emplacement de ce mouillage occupait à trois encâblures du fond une crique que des buttes boisées dominaient dans sa partie nord. Des autres rives plates, toutes en grèves sablonneuses, se détachaient deux langues de terre arrondies, semées de roches noirâtres d\'un grain très dur.
+
+Cette crique s\'ouvrait dans le littoral ouest de la lagune, et il y restait toujours assez d\'eau, même à mer basse, pour que le bâtiment n\'eût pas à craindre d\'échouer. Au surplus, ainsi que dans ces mers du Pacifique, les marées n\'étaient pas très fortes. Ni en pleine ni en nouvelle lune, elles ne donnaient une différence de plus de deux brasses et demie entre le plus haut du flot et le plus bas du jusant.
+
+Cet emplacement avait été heureusement choisi. L\'équipage n\'aurait point à s\'éloigner pour faire du bois. Un ruisseau, qui sinuait entre les buttes, formait une aiguade à laquelle il serait facile de s\'approvisionner d\'eau douce.
+
+Il va de soi que le Saint-Enoch ne s\'était pas mis là à poste fixe. Lorsque les embarcations seraient amenées sur une baleine, soit à travers la lagune, soit en dehors, il aurait vite fait d\'appareiller pour appuyer la chasse, si le vent soufflait du bon côté.
+
+Quarante-huit heures après son arrivée, un trois-mâts se montra à quatre milles au large. L\'équipage reconnut sans peine le navire anglais. Ainsi qu\'on l\'apprit par la suite, c\'était le Repton, de Belfast, capitaine King, second Strok, qui venait commencer sa campagne dans la baie Marguerite. Ce bâtiment ne cherchait point à prendre son mouillage dans la crique où se trouvait le Saint-Enoch. Il se dirigeait, au contraire, vers le fond de la lagune et laissa tomber son ancre près du rivage. Comme il n\'était distant que de deux milles et demi, on ne devait pas le perdre de vue.
+
+Et, cette fois, le pavillon français ne le salua pas à son passage.
+
+Quant aux autres bâtiments de nationalité américaine, ils croisaient sur les divers parages de la baie Marguerite, et on en pouvait tirer cette conclusion que les souffleurs ne l\'avaient point définitivement quittée.
+
+Dès le premier jour, en attendant que l\'occasion s\'offrît d\'amener les pirogues, maître Cabidoulin, le charpentier Ferut et le forgeron Thomas, accompagnés de quelques matelots, vinrent s\'installer à la lisière de la forêt, afin d\'abattre des arbres. Il était urgent de renouveler la provision de bois, tant pour les besoins de la cuisine que pour alimenter le fourneau de la cabousse. C\'est là un travail de grande importance que ne négligent jamais les capitaines baleiniers. Ce travail allait être favorisé, bien que la chaleur fût déjà forte. On ne saurait s\'en étonner, puisque la baie Marguerite est à peu près traversée par le vingt-cinquième parallèle, et, dans l\'hémisphère septentrional, cette latitude est celle du nord de l\'Inde et de l\'Afrique.
+
+Le 25 mai, une heure avant le coucher du soleil, le harponneur Kardek, qui se tenait dans les barres du mât de misaine, aperçut plusieurs cétacés à deux milles de la crique, sans doute à la recherche de hauts-fonds convenables pour les baleineaux.
+
+Il fut donc décidé que, le lendemain, dès la première heure, les pirogues seraient parées et, probablement, les autres navires prendraient aussi leurs dispositions pour la pêche.
+
+Ce soir-là, lorsque M. Filhiol demanda au capitaine Bourcart si cette pêche s\'effectuerait dans les mêmes conditions qu\'à la Nouvelle-Zélande, il en reçut cette réponse :
+
+« Pas tout à fait, mon cher docteur, et il convient d\'avoir plus de circonspection\... Ici, nous aurons affaire à des femelles qui, si elles donnent plus d\'huile que les mâles, sont plus redoutables\... Lorsque l\'une d\'elles s\'aperçoit qu\'on veut les poursuivre, elle ne tarde pas à prendre la fuite, et, non seulement elle quitte la baie pour n\'y plus revenir de toute la saison, mais elle entraîne les autres\...
+
+Allez donc les retrouver au large à travers le Pacifique.
+
+--- Et lorsqu\'elles sont suivies de leur baleineau, capitaine ?
+
+--- C\'est alors, dit M. Bourcart, que les pirogues ont toute facilité de réussir\... La baleine, qui prend part aux ébats du petit, est sans défiance\... On peut l\'approcher à portée de louchet et la blesser aux nageoires\... Si le harpon l\'a manquée, il suffit de se lancer à sa poursuite, dût-on s\'y entêter pendant plusieurs heures\... En effet, le baleineau retarde sa marche, il se fatigue, il s\'épuise\... Or, comme la mère ne veut pas l\'abandonner, il y a chance de se trouver dans de bonnes conditions pour la piquer\...
+
+--- Capitaine, ne disiez-vous pas que ces femelles sont plus dangereuses que les mâles ?
+
+--- Oui, monsieur Filhiol, et il convient que le harponneur fasse grande attention à ne point blesser le baleineau\... La mère deviendrait furieuse et ferait grand dégât, se jetant sur les pirogues, les frappant à coups de queue, les mettant en pièces\... De là de très graves accidents\... Aussi, après une campagne de pêche dans la baie Marguerite, n\'est-il pas rare de rencontrer nombreux débris d\'embarcations, et plus d\'un homme a payé de sa vie l\'imprudence ou la maladresse du harponneur ! »
+
+Avant sept heures du matin, l\'équipage était prêt à donner la chasse aux cétacés aperçus la veille. Sans compter les harpons, lances et louchets, le capitaine Bourcart, le second, les deux lieutenants s\'étaient munis de fusils lance-bombe, toujours employés avec avantage lorsqu\'il s\'agit de capturer ce genre de baleine.
+
+À un demi-mille de la crique se montrait une femelle avec son petit, et les pirogues hissèrent leurs voiles afin de l\'accoster sans éveiller son attention. Naturellement, Romain Allotte avait pris l\'avance, et il arriva le premier à sept brasses de l\'animal.
+
+Celui-ci, qui se préparait à sonder, devait apercevoir la pirogue.
+
+Aussitôt Ducrest brandit son harpon et le lança avec une telle force qu\'il s\'enfonça jusqu\'à la douille.
+
+À cet instant rejoignirent les trois autres pirogues, prêtes à tourner la baleine afin de l\'amarrer. Mais, par une fatalité qui n\'est point rare, le harpon se rompit, et, suivie de son baleineau, elle prit la fuite.
+
+Ce fut alors un acharnement extraordinaire. Le cétacé précédait les embarcations de soixante à quatre-vingts brasses. Son souffle -- de la vapeur d\'eau condensée en pluie fine -- s\'élevait à huit ou dix mètres, et, comme il soufflait blanc, c\'est qu\'il n\'avait pas été mortellement blessé.
+
+Cependant les matelots souquaient ferme sur leurs avirons. Pendant deux heures, il fut impossible d\'être à portée de lancer le harpon. Peut-être eût-on pu frapper le baleineau, si le capitaine ne s\'y fût opposé par prudence.
+
+Le docteur Filhiol, désireux de ne rien perdre des détails de cette pêche, avait pris place à l\'arrière dans l\'embarcation de M. Bourcart. Lui aussi partageait l\'ardeur qui animait ses compagnons et exprimait sa crainte qu\'ils ne fussent épuisés avant d\'avoir rejoint l\'animal.
+
+En effet, la baleine se dérobait avec rapidité, plongeant et reparaissant après quelques minutes. Elle ne s\'était pas très éloignée de la crique -- trois à quatre milles -- et s\'en rapprochait maintenant. Il semblait même que sa vitesse devait se ralentir, puisque le baleineau ne restait pas en arrière.
+
+Vers onze heures et demie, un second harpon fut jeté de l\'embarcation de M. Heurtaux.
+
+Cette fois, on n\'eut que peu de ligne à filer. Les autres pirogues rallièrent, non sans se défier des coups de queue. Dès qu\'elles l\'eurent attaqué avec le louchet et la lance, l\'animal souffla le sang et expira à la surface de la mer, tandis que le baleineau disparaissait sous les eaux.
+
+Le courant étant favorable, la baleine fut aisément remorquée à bord du Saint-Enoch, où M. Bourcart fit disposer les apparaux pour la virer dans l\'après-midi.
+
+Le lendemain vint à bord un Espagnol, qui demandait à parler au capitaine. C\'était un de ces hommes désignés sous le nom de carcassiers, et auxquels on abandonne le gras qui reste à l\'intérieur des carcasses.
+
+Lorsqu\'il eut examiné la baleine suspendue au flanc du navire, il dit :
+
+« C\'est vraiment l\'une des plus grosses qui aient été pêchées dans la baie Marguerite depuis trois mois\...
+
+--- Est-ce que la saison a été bonne ? interrogea M. Bourcart.
+
+--- Assez médiocre, répondit l\'Espagnol, et je n\'ai eu qu\'une demi-douzaine de carcasses à travailler\... Aussi je vous prie de me céder celle-ci\...
+
+--- Volontiers. »
+
+Pendant les quarante-huit heures qui suivirent, l\'Espagnol demeura à bord et assista à toutes les opérations nécessitées par la fonte du gras. Cette baleine ne donna pas moins de cent vingt-cinq barils d\'huile d\'excellente qualité. Quant à sa carcasse, l\'Espagnol la fit conduire à son établissement, situé sur le littoral de la lagune, deux milles au-delà de la crique.
+
+Lorsqu\'il fut parti, le docteur Filhiol dit au capitaine :
+
+« Savez-vous, monsieur Bourcart, ce que cet homme retire des débris d\'une baleine ?
+
+--- Quelques jarres d\'huile, tout au plus, docteur\...
+
+--- Détrompez-vous, et je tiens de lui-même que le dépeçage procure parfois une quinzaine de barils\...
+
+--- Une quinzaine, monsieur Filhiol ! Eh bien ! C\'est la dernière fois que j\'y aurai été pris, et, dorénavant, nous carcasserons nous-mêmes ! »
+
+Le Saint-Enoch séjourna jusqu\'au 17 juin dans la baie Marguerite afin de compléter son chargement.
+
+Pendant ce temps, l\'équipage put amarrer plusieurs baleines, entre autres des mâles très difficiles, sinon très dangereux à piquer tant ils se montraient farouches.
+
+L\'un d\'eux fut capturé par le lieutenant Coquebert à l\'entrée de la baie. Il ne fallut pas moins d\'un jour et d\'une nuit pour l\'amener dans la crique. Pendant la durée du courant contraire, les pirogues mouillaient sur l\'animal avec de petites ancres et les hommes dormaient en attendant le renversement de la marée.
+
+Il va sans dire que les autres navires se livraient également à la poursuite des cétacés jusqu\'aux extrêmes limites de la baie. Les Américains, plus particulièrement, furent assez satisfaits de leur campagne.
+
+Le capitaine de l\'un de ces bâtiments, l\'Iwing, de San-Diego, vint rendre visite à M. Bourcart à bord du Saint-Enoch.
+
+« Capitaine, lui dit-il après avoir échangé quelques compliments, je vois que vous avez réussi à souhait sur les côtes de la Nouvelle-Zélande\...
+
+--- En effet, reprit M. Bourcart, et j\'espère achever ici ma campagne\... Cela me permettra de retourner en Europe plus tôt que je ne comptais et d\'arriver au Havre avant trois mois\...
+
+--- Je vous en félicite, capitaine, mais, puisque la chance vous favorise, pourquoi revenir directement au Havre ?
+
+--- Que voulez-vous dire ?
+
+--- J\'entends que vous pourriez placer avantageusement votre cargaison, sans abandonner les mers du Pacifique. Cela vous permettrait de recommencer la pêche aux îles Kouriles ou dans la mer d\'Okhotsk, précisément pendant les mois favorables\...
+
+--- Expliquez-vous, monsieur\... Où pourrais-je vendre ma cargaison ? -- À Vancouver.
+
+--- À Vancouver ?
+
+--- Oui\... Sur le marché de Victoria. En ce moment, l\'huile est très demandée par des maisons américaines et vous livreriez à des prix très avantageux.
+
+--- Ma foi, répondit M. Bourcart, c\'est une idée, et sans doute une excellente idée\... Je vous remercie du renseignement, capitaine, et il est probable que je le mettrai à profit. »
+
+L\'île de Vancouver, située dans les eaux américaines à la hauteur de la Colombie anglaise, n\'est qu\'à vingt-cinq degrés environ au nord de la baie Marguerite. Par bon vent, le Saint-Enoch pouvait l\'atteindre en une quinzaine de jours.
+
+Décidément la fortune souriait à M. Bourcart. Jean-Marie Cabidoulin en serait pour ses histoires et ses prophéties de malheur. Après la campagne de la Nouvelle-Zélande et de la baie Marguerite, la campagne des îles Kouriles et de la mer d\'Okhotsk, tout cela dans la même année !
+
+C\'est, du reste, à Vancouver que se fussent rendus les baleiniers américains, et probablement aussi le Repton, s\'ils avaient eu leur plein, puisque les cours étaient très en hausse.
+
+Lorsque M. Bourcart demanda au capitaine de l\'Iwing s\'il avait eu quelques rapports avec ce Repton, la réponse fut négative.
+
+Le navire anglais se tenait toujours à l\'écart, et peut-être ne saluait-il pas plus le pavillon étoilé des États-Unis qu\'il ne saluait le pavillon tricolore.
+
+À plusieurs reprises, cependant, il advint que la poursuite des cétacés dans la lagune ou au milieu de la baie, mit en présence les pirogues anglaises et les pirogues françaises. Du reste elles n\'étaient pas amenées sur la même baleine, -- ce qui aurait pu provoquer des contestations, ainsi que cela arrive parfois. Et, certainement, dans la disposition d\'esprit où l\'on se trouvait de part et d\'autre, les contestations auraient pu mal tourner. Aussi M. Bourcart ne cessait-il de recommander à ses hommes d\'éviter tout contact avec l\'équipage du Repton, soit en mer, lorsqu\'ils croisaient sur les mêmes parages, soit à terre, lorsque les embarcations allaient faire du bois ou pêcher entre les roches.
+
+En somme, on ne savait pas si le Repton réussissait ou non, et pour tout dire, on ne s\'en inquiétait guère. Le Saint-Enoch l\'avait rencontré dans sa traversée entre la Nouvelle-Zélande et la côte américaine. Quand il aurait quitté la baie, il ne le reverrait sans doute plus au cours de cette campagne. Avant le départ, un cachalot fut encore signalé à trois milles en dehors de la lagune. C\'était le plus gros que l\'on eût jamais rencontré, et, cette fois, les embarcations du Repton se mirent en chasse, tardivement, il est vrai. Afin de ne point donner l\'éveil à ce cachalot, la pirogue du lieutenant Allotte, filant par jolie petite brise, manoeuvra de manière à ne point effaroucher l\'animal. Toutefois, quand on fut à bonne portée, celui-ci sonda et on dut attendre qu\'il remontât à la surface de la mer.
+
+Trente-cinq minutes s\'étant écoulées à partir de son dernier plongeon, il resterait donc à peu près le même temps sous l\'eau, et il n\'y eut qu\'à le guetter.
+
+Son apparition s\'effectua dans le temps prévu, à sept ou huit encâblures de la pirogue, qui se lança de toute sa vitesse.
+
+Le harponneur Ducrest était debout sur le tillac, Romain Allotte tenait son louchet à la main. Mais, en ce moment, le cachalot sentant le danger, battit la mer avec une telle violence qu\'une lame remplit à moitié l\'embarcation. Comme le harpon l\'avait atteint à droite, sous la nageoire pectorale, l\'animal s\'enfonça et la ligne dut lui être filée avec une telle rapidité qu\'il fallut l\'arroser pour qu\'elle ne prît pas feu. Lorsqu\'il reparut, il soufflait le sang et quelques coups de lance l\'achevèrent sans trop de peine.
+
+Donc la besogne fut terminée avant l\'arrivée des pirogues anglaises, qui n\'eurent plus qu\'à retourner au Repton.
+
+Après la fonte du gras, maître Cabidoulin porta au compte de ce cachalot quatre-vingts barils d\'huile.
+
+L\'appareillage avait été fixé au 17 juin. M. Bourcart, se conformant à l\'avis du capitaine américain, allait faire voile pour l\'île de Vancouver.
+
+Le Saint-Enoch possédait alors dix-sept cents barils d\'huile et cinq mille kilogrammes de fanons. Lorsqu\'il les aurait livrés à Victoria, le capitaine n\'hésiterait pas à entreprendre une seconde campagne dans le nord-est du Pacifique. Cent cinquante jours s\'étaient écoulés depuis son départ du Havre, et la relâche à la baie Marguerite avait duré du 9 mai au 19 juin. Sa coque et son gréement se trouvaient en bon état, et, à Vancouver, il pourrait refaire ses approvisionnements.
+
+La surveille du départ, une occasion se présenta pour l\'équipage d\'entrer en communication avec les hommes du Repton.
+
+Voici dans quelles circonstances.
+
+Les pirogues du second et du lieutenant Coquebert, envoyées à terre, devaient rapporter un reste du bois abattu et faire de l\'eau à l\'aiguade.
+
+MM\. Heurtaux, Coquebert et ses matelots étaient déjà sur la grève, lorsque l\'un d\'eux s\'écria : « Baleine ! Baleine ! »
+
+En effet, une femelle de forte taille, accompagnée de son baleineau, passait à un demi-mille de la crique en gagnant vers le fond de la baie.
+
+Certes, il y eut unanime regret de ne pouvoir lui donner la chasse. Mais les deux pirogues, commandées pour un autre service n\'étaient pas en état, n\'ayant ni harpon ni ligne. Il en était de même à bord du Saint-Enoch, qui, ses garants dégarnis, son matériel de virage démonté, se tenait prêt à lever l\'ancre.
+
+Or, au détour de l\'une des pointes de la crique, deux embarcations apparurent.
+
+C\'étaient les pirogues du Repton, qui poursuivaient la baleine signalée. Comme elles se rapprochaient dans l\'intention de prendre l\'animal à revers, on ne les perdrait pas de vue.
+
+Elles s\'avançaient, sans bruit, séparées par la distance d\'un bon mille, l\'une étant partie bien après l\'autre. La première venait de mettre son pavillon à l\'arrière pour annoncer qu\'elle se préparait à attaquer. Quant au Repton, il attendait, sous petite voilure, à trois milles dans l\'est.
+
+MM\. Heurtaux, Coquebert et leurs hommes gravirent une butte en arrière du ruisseau, d\'où le regard pouvait s\'étendre sur toute la lagune.
+
+Il était deux heures et demie, quand le harponneur de la première embarcation se vit à bonne portée.
+
+La baleine, qui jouait avec son petit, ne l\'avait pas encore aperçu, lorsque le harpon traversa l\'air.
+
+Certes, les Anglais n\'ignoraient point qu\'il est dangereux d\'attaquer un baleineau. Or, c\'est celui-ci qui, en passant le long de la pirogue, reçut le coup de harpon à la lippe.
+
+Il était mortellement touché, et, après quelques convulsions, il resta immobile à la surface de la mer. Comme le manche du harpon se redressait, il avait, au dire des matelots, l\'air de fumer sa pipe, la poussière liquide qui s\'échappait de sa bouche imitant à s\'y méprendre la fumée du tabac.
+
+La baleine fut prise alors d\'un accès de fureur. Sa queue battait l\'eau, qui rejaillissait comme une trombe. Elle se précipita sur la pirogue. Les hommes eurent beau scier pour revenir en arrière, ils ne purent éviter son attaque. En vain essayèrent-ils de la frapper avec le louchet et les lances, en vain l\'officier déchargeait-il sur elle le fusil lance-bombe\...
+
+La seconde embarcation, se trouvant encore à trois cents toises sous le vent, ne pouvait arriver en temps utile au secours de la première.
+
+Celle-ci, qui venait d\'être atteinte d\'un formidable coup de queue, coula immédiatement avec les matelots qui la montaient. Si quelques-uns d\'entre eux reparaissaient, en admettant qu\'ils ne fussent que blessés, qui sait si l\'autre embarcation pourrait les recueillir ?
+
+« Embarque\... Embarque ! » cria M. Heurtaux, en faisant signe au lieutenant de le suivre.
+
+Leurs hommes, voyant des gens en danger de périr, bien qu\'ils appartinssent à l\'équipage du Repton, n\'hésitèrent pas à leur porter secours. En quelques instants, tous eurent descendu la butte, traversé la grève, largué les amarres, et les pirogues, vigoureusement enlevées par les avirons, sortirent de la crique.
+
+À l\'endroit où la baleine se débattait toujours avec rage, des neuf hommes précipités sous les eaux, sept seulement venaient de remonter à la surface. Deux manquaient.
+
+Quant à la baleine, après s\'être dirigée vers le baleineau, que le courant avait entraîné à une encâblure sous le vent, elle disparut dans les profondeurs de la lagune.
+
+Le second et le lieutenant étaient prêts à embarquer quelques-uns des Anglais, lorsque l\'officier du Repton, qui venait d\'arriver, cria d\'une voix très dépitée :
+
+« Au large ! Nous n\'avons besoin de personne ! Au large ! »
+
+Et, qu\'on n\'en doute pas, s\'il regrettait la mort de deux de ses hommes, cet officier ne regrettait pas moins d\'avoir manqué cette magnifique proie. Lorsque MM. Heurtaux et Allotte furent de retour à bord, ils racontèrent au capitaine Bourcart et au docteur Filhiol comment les choses s\'étaient passées.
+
+M. Bourcart les félicita de s\'être portés au secours de l\'embarcation du Repton, et, quand il connut la réponse de l\'officier :
+
+« Allons, dit-il, nous ne nous étions pas trompés\... C\'étaient bien des Anglais\... Et ils sont bien anglais\...
+
+--- Pour sûr, déclara le maître d\'équipage, mais du diable s\'il est permis de l\'être à ce point-là ! »

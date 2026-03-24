@@ -1,0 +1,215 @@
+]{.calibre20}
+
+
+ROMAN
+
+L\'ÉPAVE DU CYNTHIA
+
+
+]{.calibre20}
+
+## [[Chapitre 2 -- Chez un pêcheur de Noroë]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943059 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_167 .calibre21}
+
+La maison de maaster Hersebom, comme toutes celles de Noroë, est couverte d\'un toit de gazon et construite en énormes troncs de sapin sur le vieux plan scandinave : deux grandes pièces séparées par une allée médiane, conduisant au hangar où s\'abritent les canots, les outils de pêche et les tas de dorsels ou petites morues de Norvège et d\'Islande, qu\'on roule après dessèchement pour les livrer au commerce sous le nom de « rondfish » (poisson rond) et de « stock-fish » (poisson sur bâtons).
+
+Chacune des deux salles sert à la fois de parloir et de chambre à coucher. Des espèces de tiroirs ménagés dans les murs de bois renferment la literie, composée de matelas et de couvertures de peaux qu\'on exhibe seulement pour la nuit. Cet arrangement -- autant que la couleur claire des panneaux et la gaieté de la haute cheminée, placée dans un coin, où brûle toujours un grand feu de bois -- donne aux plus humbles demeures un air de propreté et de luxe domestique inconnu aux paysans de l\'Europe méridionale.
+
+Ce soir-là, toute la famille était réunie autour du foyer, où mijotait une colossale marmite contenant un mélange de « sildesalat » ou hareng fumé, de saumon et de pommes de terre. Maaster Hersebom, assis dans un haut fauteuil de bois, faisait du filet, selon son habitude invariable, quand il ne se trouvait pas à la mer ou au séchoir. C\'était un rude marin, au teint brûlé par les bises polaires, aux cheveux grisonnants déjà, quoiqu\'il fût encore dans la force de l\'âge. Son fils Otto, un grand garçon de quatorze ans, qui lui ressemblait de tout point et paraissait destiné à devenir, lui aussi, un pêcheur émérite, était pour le présent fort occupé à pénétrer les mystères de la règle de trois, en couvrant de chiffres une petite ardoise, d\'une grosse patte qui avait l\'air de se connaître beaucoup mieux au maniement de l\'aviron. Erik, penché sur la table à manger, était plongé dans la lecture d\'un gros livre d\'histoire, prêté par M. Malarius. Tout près de lui, Katrina Hersebom, la bonne femme, filait paisiblement à son rouet -- tandis que la petite Vanda, une blondine de dix à douze ans, assise sur un escabeau, tricotait avec ardeur un gros bas de laine rouge. À ses pieds, un grand chien d\'un blanc jaune, à la fourrure aussi épaisse que celle d\'un mouton, dormait couché en rond.
+
+Depuis une heure au moins le silence n\'avait pas été rompu, et la lampe de cuivre, alimentée d\'huile de poisson, éclairait paisiblement de ses quatre becs tous les détails de ce tranquille intérieur.
+
+Pour dire la vérité, ce silence devait peser à dame Katrina, qui, depuis quelques instants, manifestait par divers symptômes le besoin de se délier la langue.
+
+Enfin, elle n\'y tint plus.
+
+« Voilà bien assez de travail pour ce soir, dit-elle. Il est temps de mettre la table et de souper. »
+
+Sans un mot de protestation, Erik, prenant son gros livre, alla s\'établir plus près de la cheminée, tandis que Vanda, après avoir déposé son tricot, se dirigea vers le buffet et se mit en devoir de prendre assiettes et cuillers.
+
+« Et tu disais, Otto, reprit la fileuse, que notre Erik a bien répondu tantôt à M. Le docteur ?
+
+--- Bien répondu ? s\'écria Otto avec enthousiasme. Il a parlé comme un livre, voilà la vérité ! Je ne sais où il allait chercher tout ce qu\'il savait... Plus le docteur demandait, plus il en avait à dire !... Et les mots venaient, venaient ! C\'est M. Malarius qui était content !
+
+--- Et moi aussi j\'étais contente, dit gravement Vanda.
+
+--- Oh ! Nous l\'étions tous, bien entendu ! Si vous aviez vu, mère, comme tout le monde écoutait bouche béante !... Nous n\'avions qu\'une peur, c\'est que notre tour arrivât d\'être interrogés !... Mais lui, il n\'avait pas peur, il répondait au docteur comme il aurait fait à notre maître !
+
+--- Tiens ! M. Malarius vaut bien le docteur, je pense, et il est certes aussi savant que n\'importe qui ! » dit Erik, que ces éloges à bout portant semblaient gêner.
+
+Le vieux pêcheur approuva d\'un sourire.
+
+« Tu as raison, petit, dit-il sans arrêter le travail de ses mains calleuses. M. Malarius en remontrerait, s\'il le voulait, à tous les docteurs de la ville !... Et au moins il ne se sert pas de la science, celui-là, pour ruiner le pauvre monde !
+
+--- Le docteur Schwaryencrona a ruiné quelqu\'un ? demanda curieusement Erik.
+
+--- Heu !... heu !... S\'il ne l\'a pas fait, ce n\'est pas de sa faute !... Moi qui vous parle, croyez-vous que j\'aie vu avec plaisir s\'élever cette usine, qui fume là-haut au bord du fjord ?... La mère pourra vous dire qu\'autrefois nous récoltions nous-mêmes notre huile, et nous la vendions fort bien à Bergen, pour cent cinquante et jusqu\'à deux cents *kroner* par an... Maintenant c\'est fini ! Personne ne veut plus de l\'huile brune, ou l\'on en donne si peu qu\'à peine cela vaut-il de faire le voyage ! Il faut se contenter de vendre les foies à l\'usine, et Dieu sait si le gérant du docteur s\'arrange pour les obtenir à bas prix !... C\'est à peine si j\'en tire quarante-cinq kroner, en me donnant trois fois plus de mal que jadis ! Eh bien !... je dis que ce n\'est pas juste et que le docteur ferait mieux de soigner ses malades à Stockholm que de venir ici faire notre métier et nous prendre notre gagne-pain ! »
+
+Sur ces mots amers, le silence se fit. On n\'entendit pendant quelques instants que le cliquetis des assiettes remuées par Vanda, tandis que sa mère vidait le contenu de la marmite sur un énorme plat de terre vernie.
+
+Erik réflechissait profondément à ce que venait de dire maaster Hersebom. Des objections se présentaient tumultueusement à son esprit ; comme il était la candeur même, il ne put s\'empêcher de les formuler.
+
+« Il me semble que vous avez raison de regretter les profits d\'autrefois, père, dit-il, mais qu\'il n\'est pas tout à fait juste d\'accuser le docteur Schwaryencrona de les avoir diminués ! Est-ce que son huile ne vaut pas mieux que l\'huile de ménage ?
+
+--- Heu !... heu !... Elle est plus claire, voilà tout... Elle ne sent pas la résine comme la nôtre, à ce qu\'ils disent !... Et c\'est pourquoi toutes les mijaurées de la ville la préfèrent, sans doute ! Mais du diable si elle fait plus de bien aux poumons des malades que notre bonne vieille huile d\'autrefois !...
+
+--- Enfin, pour une raison ou pour une autre, on la prend de préférence ! Et comme c\'est un médicament très salutaire, il est essentiel que le public éprouve le moins de dégoût possible à s\'en servir. Dès lors, si un médecin trouve le moyen de diminuer ce dégoût en modifiant le mode de fabrication, n\'est-ce pas son devoir d\'appliquer sa découverte ? »
+
+Maaster Hersebom se grattait l\'oreille.
+
+« Sans doute, dit-il comme à regret, c\'est peut-être son devoir de médecin. Mais ce n\'est pas une raison pour empêcher les pauvres pêcheurs de gagner leur vie...
+
+--- Je croyais que l\'usine du docteur en occupait trois cents tandis qu\'il n\'y en avait pas vingt à Noroë au temps dont vous parlez, objecta timidement Erik.
+
+--- Eh justement ! C\'est pourquoi le métier ne vaut plus rien ! s\'écria Hersebom.
+
+--- Allons ! Le souper est servi, mettez-vous à table ! » dit alors dame Katrina, qui voyait la discussion s\'échauffer plus qu\'il ne lui plaisait.
+
+Erik, comprenant qu\'une plus longue insistance serait déplacée, ne répliqua rien à l\'argument de maaster Hersebom et prit sa place habituelle à côté de Vanda.
+
+« Le docteur et M. Malarius se tutoient, ils sont donc amis d\'enfance ? demanda-t-il pour changer le cours de la conversation.
+
+--- Sans doute, répondit le pêcheur en se mettant à table. Ils sont tous deux nés à Noroë, et je me rappelle encore le temps où ils jouaient sur la place de l\'école, quoiqu\'ils soient mes aînés de quelque dix ans. M. Malarius était le fils du médecin d\'alors, et le docteur celui d\'un simple pêcheur. Mais il a fait du chemin depuis cette époque ! On dit qu\'il est riche à millions aujourd\'hui et qu\'il habite à Stockholm un véritable palais !... Oh ! L\'instruction est une belle chose ! »
+
+Sur cet aphorisme, le brave homme s\'apprêtait à planter sa cuiller dans le plat de poisson et de pommes de terre fumantes, quand un coup frappé à la porte arrêta net ce mouvement.
+
+« Peut-on entrer, maître Hersebom ? » criait dans le couloir une voix forte et bien timbrée.
+
+Et, sans attendre la permission, celui-là même dont on venait de parler pénétra dans la salle, apportant avec lui une grande bouffée d\'air glacé.
+
+« Monsieur le docteur Schwaryencrona ! s\'écrièrent les trois enfants, tandis que le père et la mère se levaient avec empressement.
+
+--- Mon cher Hersebom, dit le savant en prenant la main du pêcheur dans les siennes, nous ne nous sommes pas vus depuis de longues années ; mais je n\'ai pas perdu le souvenir de votre excellent père, et j\'ai pensé que je pouvais me présenter chez vous en ami d\'enfance ! »
+
+Le digne homme, un peu gêné sans doute par le souvenir des accusations qu\'il avait si récemment dirigées contre son visiteur, ne savait trop comment répondre à ces paroles. Il se contenta donc de rendre sa poignée de main au docteur avec un sourire de cordiale bienvenue, tandis que sa bonne femme courait au plus pressé.
+
+« Vite, Otto, Erik, aidez monsieur le docteur à ôter sa pelisse, et toi, Vanda, un couvert de plus ! disait-elle, hospitalière comme toutes les ménagères norvégiennes. Monsieur le docteur nous fera bien la faveur de manger un morceau avec nous ?
+
+--- Ma foi, ce ne serait pas de refus, croyez-le bien, si j\'avais le moindre appétit, car voilà un plat de saumon fort tentant !... Mais il n\'y a pas une heure que j\'ai soupé avec mon ami Malarius, et je ne serais certes pas venu sitôt si j\'avais cru vous trouver encore à table !... Si vous voulez me faire grand plaisir, vous reprendrez vos places et vous fonctionnerez comme si je n\'étais pas là.
+
+--- Oh ! Monsieur le docteur, implora la bonne femme, vous accepterez au moins quelques " snorgas " et une tasse de thé ?
+
+--- Va pour la tasse de thé, mais à une condition, c\'est que vous dînerez d\'abord », répondit le docteur en s\'installant dans le grand fauteuil qui lui tendait les bras.
+
+Aussitôt Vanda mit discrètement la bouilloire sur le feu et disparut comme un sylphe dans la salle voisine, tandis que toute la famille, comprenant avec une courtoisie native qu\'elle désobligerait son hôte en insistant, se remettait en devoir d\'attaquer les vivres.
+
+En deux minutes le docteur se fut mis à l\'aise. Tout en tisonnant dans la cheminée et se rôtissant les jambes à la flambée de bois sec que Katrina venait d\'y jeter avant de se remettre à table, il causait du vieux temps, des anciens qui avaient disparu, de ceux qui restaient, des changements qui s\'étaient opérés dans le pays et à Bergen même. Il se trouvait tout à fait chez lui, et, chose plus remarquable, il avait déjà réussi à remettre maaster Hersebom dans son assiette -- quand Vanda rentra avec un plateau de bois chargé de soucoupes et le présenta si gentiment qu\'il n\'y eut plus moyen de résister.
+
+C\'étaient les fameux « snorgas » de Norvège, -- aiguillettes de renne fumé, filets de harengs au poivre rouge, minces tranches de pain noir, fromage pimenté et autres condiments farouches qu\'on mange à toute heure pour s\'ouvrir l\'appétit.
+
+Ceux-là répondaient si bien à leur destination que le docteur, qui en avait goûté par complaisance, se trouva en état de faire honneur aux confitures de mûres sauvages, qui étaient la gloire spéciale de dame Katrina, et fut pris d\'une soif que sept à huit tasses de thé sans sucre suffirent à peine à apaiser.
+
+Maaster Hersebom produisit alors une jarre d\'excellent « schïedam » qui lui venait d\'un acheteur hollandais. Puis, le souper se trouvant terminé, le docteur accepta de la main de son hôte une énorme pipe qu\'il bourra et fuma à la satisfaction générale.
+
+Inutile de dire qu\'à cette phase des opérations, la glace était depuis longtemps rompue et que le docteur semblait avoir toujours fait partie de la famille. On riait, on bavardait, on était les meilleurs amis du monde, quand dix heures sonnèrent à la vieille horloge de bois verni.
+
+« Çà, mes bons amis, voilà qu\'il se fait tard ! dit alors le docteur. Si vous voulez bien maintenant envoyer les enfants au lit, nous causerons d\'affaires sérieuses. »
+
+Sur un signe de Katrina, Otto, Erik, Vanda, souhaitèrent immédiatement le bonsoir à tous et se retirèrent.
+
+« Vous devez vous demander pourquoi je suis venu ? reprit le docteur, après un instant de silence, en fixant son regard pénétrant sur maaster Hersebom.
+
+--- Mon hôte est toujours le bienvenu, répondit sentencieusement le pêcheur.
+
+--- Oui, je sais, je sais que l\'hospitalité ne se perd pas à Noroë !... Mais enfin, vous vous êtes certainement dit déjà que je dois avoir un motif pour avoir quitté ce soir la compagnie de mon vieil ami Malarius, et m\'être ainsi présenté chez vous !... Je gage que dame Hersebom n\'est pas sans avoir quelque soupçon de ce motif.
+
+--- Nous le saurons, quand vous nous l\'aurez fait connaître, répliqua diplomatiquement la bonne femme.
+
+--- Allons ! fit le docteur avec un soupir, puisque vous ne voulez pas m\'aider, il faut que j\'arrive tout seul au fait !... Votre fils Erik est un enfant des plus remarquables, maaster Hersebom.
+
+--- Je ne me plains pas de lui, répondit le pêcheur.
+
+--- Il est singulièrement intelligent et instruit pour son âge, poursuivit le docteur. Je l\'ai interrogé aujourd\'hui à l\'école, et j\'ai été vivement frappé des facultés peu ordinaires de travail et de réflexion que cet examen m\'a révélées en lui !... J\'ai été frappé aussi, quand j\'ai su son nom, de voir comme il vous ressemble peu de visage et comme il ressemble peu aux enfants du pays ! »
+
+Le pêcheur et sa femme restaient immobiles et silencieux.
+
+« Bref, reprit le savant avec une certaine impatience, cet enfant ne m\'intéresse pas seulement, -- il m\'intrigue. J\'ai causé de lui avec Malarius, j\'ai appris qu\'il n\'est pas votre fils, qu\'un naufrage l\'a jeté sur nos côtes, que vous l\'avez recueilli, élevé et adopté jusqu\'au point de lui donner votre nom ! Tout cela est vrai, n\'est-ce pas ?
+
+--- Oui, monsieur le docteur, répondit gravement Hersebom.
+
+--- S\'il n\'est pas notre fils par le sang, il l\'est par le coeur et par l\'affection ! s\'écria Katrina, l\'oeil humide et la lèvre frémissante. Entre lui et notre Otto ou notre Vanda, nous ne faisons point de différence ! Nous n\'avons jamais songé seulement à nous rappeler qu\'il y en eût une !
+
+--- Ces sentiments vous font honneur à tous deux, dit le docteur, ému de l\'agitation de la brave femme. Mais je vous en prie, mes amis, contez-moi toute l\'histoire de l\'enfant. Je suis venu pour la savoir, et je ne lui veux que du bien, je vous l\'assure. »
+
+Le pêcheur, se grattant l\'oreille, parut hésiter un instant. Mais, voyant que le docteur attendait son récit avec impatience, il finit par se décider à parler.
+
+« Les choses sont bien ainsi qu\'on vous les a contées, et l\'enfant n\'est pas notre fils, dit-il comme à regret. Voilà bientôt douze ans de cela, j\'étais allé pêcher au-delà de l\'îlot, qui masque l\'entrée du fjord vers la haute mer !... Vous savez qu\'il repose sur un banc de sable et que la morue y est abondante !... Après une assez bonne journée, je relevais mes dernières lignes et j\'allais hisser ma voile, quand je vis flotter sur les eaux, au soleil couchant, à environ un mille de distance, quelque chose de blanc qui attira mon attention. La mer était belle, et rien ne me pressait de rentrer au logis. Au lieu de mettre le cap sur Noroë, j\'eus la curiosité de gouverner sur cette chose blanche et de voir ce que c\'était. En dix minutes je l\'avais rejointe. L\'objet qui flottait ainsi, porté vers la côte par la marée montante, était un petit berceau d\'osier, enveloppé d\'une housse de mousseline et bien attaché sur une bouée. Je m\'en rapprochai jusqu\'à portée de la main avec une émotion que vous pouvez comprendre ; je saisis la bouée, je la tirai de l\'eau, et j\'aperçus alors dans le berceau un pauvre bébé de sept à huit mois, qui dormait à poings fermés ! Il était bien un peu pâlot et froid, mais paraissait n\'avoir pas trop souffert de son aventureux voyage, s\'il fallait en juger par la vigueur avec laquelle il se mit à brailler en s\'éveillant, aussitôt qu\'il ne se sentit plus bercé par les vagues. Nous avions déjà notre Otto, et je savais comment se gouvernent ces moutards. Je m\'empressai donc de faire une poupée avec un bout de chiffon, de la tremper dans un peu d\'eau coupée de brandevin[[\[1\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn1054){#_ftnref1054 .pcalibre2 .pcalibre1} et de la lui donner à sucer !... Il se calma tout de suite et parut accepter ce cordial avec un véritable plaisir. Mais j\'avais comme une idée qu\'il ne s\'en contenterait pas longtemps. Aussi n\'eus-je rien de plus pressé que de rentrer à Noroë. J\'avais, bien entendu, détaché le berceau, et je l\'avais déposé à mes pieds dans le fond du bateau. Tout en tenant l\'écoute de ma voile, je regardais le pauvre petit être, et je me demandais d\'où il pouvait bien venir. D\'un navire naufragé, sans nul doute ! La mer avait été très mauvaise dans la nuit, le vent avait soufflé en ouragan, et les désastres avaient dû se compter par douzaines. Mais par quel concours de circonstances cet enfant avait-il échappé au sort de ceux qui avaient charge de lui ? Comment avait-on pu songer à l\'attacher sur une bouée ? Depuis combien d\'heures flottait-il ainsi sur la cime des vagues ? Qu\'étaient devenus son père, sa mère, ceux qui l\'aimaient ? Autant de questions qui devaient toujours rester sans réponse, car, cette réponse, le pauvre bébé ne pouvait pas la donner ! Bref, une demi-heure plus tard, j\'étais au logis et je remettais ma trouvaille à Katrina ! Nous possédions alors une vache, qui fut immédiatement donnée pour nourrice au petit. Il était si gentil, si souriant, si rose, quand il se fut bien gavé du lait et réchauffé à la chaleur du feu, que, ma foi, nous nous mîmes tout de suite à l\'aimer comme s\'il avait été à nous !... Et puis voilà !... Nous l\'avons gardé, nous l\'avons élevé, et nous n\'avons jamais fait de différence entre lui et nos deux enfants !... Pas vrai, femme ?... ajouta maaster Hersebom en se tournant vers Katrina.
+
+--- Bien sûr, le pauvre petit ! répondit la ménagère en s\'essuyant les yeux, que ces souvenirs remplissaient de larmes. Et c\'est bien notre enfant, aussi, puisque nous l\'avons adopté !... Je ne sais pas pourquoi M. Malarius est allé dire le contraire ! »
+
+Et la brave femme, sincèrement indignée, se remit à tourner son rouet avec énergie.
+
+« C\'est vrai ! Appuya Hersebom. Est-ce que cela regarde personne autre que nous ?
+
+--- À coup sûr, répliqua le docteur du ton le plus conciliant ; mais il ne faut pas accuser Malarius d\'indiscrétion. C\'est moi qui ai été frappé de la physionomie de l\'enfant et qui ai demandé confidentiellement au maître de me dire son histoire. Malarius ne m\'a pas laissé ignorer qu\'Erik se croyait votre fils, que tout le monde à Noroë avait oublié comment il l\'était devenu. Aussi, vous voyez que j\'ai eu soin de ne pas parler devant le garçon et que j\'ai commencé par l\'envoyer au lit, comme son frère et sa soeur... Vous dites qu\'il pouvait être âgé de sept à huit mois quand vous l\'avez recueilli ?
+
+--- À peu près ! Il avait déjà quatre dents, le brigand, et je vous assure qu\'il n\'a pas été longtemps avant de s\'en servir ! dit Hersebom en riant.
+
+--- Oh ! C\'était un enfant superbe ! reprit vivement Katrina, blanc, ferme, bien râblé !... Et des bras, et des jambes !... Il fallait voir...
+
+--- Comment était-il vêtu ? » demanda le docteur Schwaryencrona.
+
+Hersebom ne répondit pas, mais sa femme montra moins de discrétion.
+
+« Comme un petit prince ! s\'écria-t-elle. Figurez-vous, monsieur le docteur, une robe de piqué toute garnie de dentelles, une pelisse doublée de satin, comme le fils du roi ne pourrait pas en avoir de plus belle, un petit bonnet plissé, une capote de velours blanc !... Tout ce qu\'il y a de plus beau !... Du reste, vous pouvez en juger, car j\'ai tout gardé intact. Vous pensez bien que nous ne nous sommes pas amusés à habiller le bébé de cette toilette !... Je lui mettais tout uniment les petites robes d\'Otto, que j\'avais conservées, et qui ont servi plus tard pour Vanda !... Mais son trousseau est là, et je vais vous le montrer. »
+
+Tout en parlant, la digne femme s\'était agenouillée devant un grand coffre de chêne à serrure antique, en avait levé le couvercle, et elle cherchait activement dans un des compartiments.
+
+Elle en tira un à un tous les vêtements annoncés, qu\'elle déploya avec orgueil sous les yeux du docteur, et aussi les langes d\'une grande finesse, un magnifique bavoir orné de dentelles, un petit couvre-pieds de soie, des chaussons de laine blanche. Toutes les pièces étaient marquées d\'un chiffre élégamment brodé aux initiales E. D., comme le docteur le vit d\'un coup d\'oeil.
+
+« E. D... Est-ce pour cela que vous avez donné à l\'enfant le nom d\'Erik ?
+
+--- Précisément, répondit Katrina que cette exhibition mettait visiblement en joie, tandis qu\'elle semblait assombrir le visage de son mari. Et voici le plus beau, ce qu\'il avait autour du cou !... » ajouta-t-elle en tirant de la cachette un hochet d\'or et de corail rose, suspendu à une petite chaînette.
+
+Les initiales E. D. S\'y retrouvaient entourées d\'une devise latine : *Semper idem*.
+
+« Nous avions pensé d\'abord que c\'était le nom du bébé, reprit-elle en voyant le docteur déchiffrer cette devise ; mais M. Malarius nous a appris que cela voulait dire : " Toujours le même. " »
+
+--- M. Malarius vous a dit la vérité, répondit le docteur à ce qui était évidemment une question indirecte. Il est clair que l\'enfant appartenait à une famille riche et distinguée, ajouta-t-il, tandis que Katrina replaçait le trousseau dans son coffre. Vous n\'avez aucune idée du pays d\'où il pouvait venir ?
+
+--- Comment voulez-vous savoir rien de pareil ? répliqua Hersebom, puisque c\'est en mer que j\'ai fait la trouvaille !
+
+--- Oui, mais le berceau était attaché sur une bouée, m\'avez-vous dit, et c\'est l\'usage, dans toutes les marines, d\'inscrire sur les bouées le nom du navire auquel elles appartiennent ! riposta le docteur en fixant de nouveau ses yeux pénétrants sur ceux du marin.
+
+--- Sans doute, répondit celui-ci en baissant la tête.
+
+--- Eh bien, cette bouée, quel nom portait-elle ?
+
+--- Dame, monsieur le docteur, je ne suis pas savant, moi !... Je sais bien lire un peu ma propre langue, mais les langues étrangères, bonsoir !... Et puis, il y a si longtemps de cela !
+
+--- Cependant, vous devez vous rappeler à peu près !... Et sans doute vous avez montré cette bouée, comme le reste, à M. Malarius ?... Voyons, maaster Hersebom, un petit effort. Le nom inscrit sur la bouée n\'était-il pas *Cynthia* ?
+
+--- Je crois bien que c\'était quelque chose dans ce genre, répondit vaguement le pêcheur.
+
+--- C\'est un nom étranger !... De quel pays, à votre jugement, maaster Hersebom ?
+
+--- Est-ce que je sais, moi !... Est-ce que je connais tous ces pays du diable ?... Est-ce que je suis jamais sorti des parages de Noroë et de Bergen, si ce n\'est une fois ou deux pour aller pêcher sur la côte d\'Islande et du Groenland ? répliqua le bonhomme d\'un ton de plus en plus bourru.
+
+--- Je croirais assez volontiers que c\'est un nom anglais ou allemand, dit le docteur, sans s\'arrêter à cette nuance. Ce serait facile à décider d\'après la forme des lettres, si je voyais la bouée. Vous ne l\'avez pas conservée ?
+
+--- Ma foi, non ! Il y a beau temps qu\'elle est brûlée ! s\'écria triomphalement Hersebom.
+
+--- D\'après les souvenirs de Malarius, les lettres étaient romaines, dit le docteur comme se parlant à lui-même, et le chiffre du linge l\'est certainement. Il est donc probable que le *Cynthia* n\'était pas un navire allemand. Je penche pour un navire anglais... N\'est-ce pas votre avis, maaster Hersebom ?
+
+--- Ah bien ! Voilà de quoi je m\'inquiète peu ! répliqua le pêcheur. Qu\'il fût engliche, ou russe, ou patagon, c\'est le cadet de mes soucis !... Il y a beau temps, selon toute apparence, qu\'il a dit son secret à l\'Océan, par trois ou quatre mille mètres de fond ! »
+
+On aurait véritablement pu croire que maaster Hersebom était ravi de savoir ce secret aussi bas au-dessous du niveau des mers.
+
+« Enfin, vous n\'êtes pas sans avoir tenté quelques efforts pour retrouver la famille de l\'enfant ? dit le docteur, dont les lunettes semblèrent à ce moment briller d\'une profonde ironie. Vous aurez écrit au gouverneur de Bergen, fait insérer une annonce dans les journaux ?
+
+--- Moi ! s\'écria le pêcheur, je n\'ai rien fait de pareil !... Dieu sait d\'où venait le bébé, et qui s\'en inquiétait ?... Est-ce que j\'avais le moyen de dépenser de l\'argent pour retrouver des gens qui se souciaient fort peu de lui ?... Mettez-vous à ma place, monsieur le docteur... Je ne suis pas millionnaire, moi !... Bien sûr, quand nous aurions dépensé tout notre avoir, nous n\'aurions rien découvert !... On a fait de son mieux, on a élevé le petit comme son propre fils, on l\'a aimé, choyé...
+
+--- Plus encore que les deux autres, s\'il est possible !... interrompit Katrina en s\'essuyant les yeux du coin de son tablier, car, si nous avons quelque chose ànous reprocher, c\'est peut-être de lui avoir donné une trop grande part de notre tendresse !
+
+--- Dame Hersebom, vous ne me ferez pas cette injure de supposer que vos bontés pour le pauvre petit naufragé m\'inspirent un autre sentiment que la plus vive admiration ! s\'écria le docteur. Non, vous ne pensez pas une chose pareille !... Mais si vous voulez que je parle avec une entière franchise, je crois que cette tendresse même vous a aveuglés sur votre devoir ! Ce dernier étant avant tout de rechercher la famille de l\'enfant dans la mesure de vos forces ! »
+
+Il y eut un grand silence.
+
+« C\'est possible ! dit enfin Hersebom qui avait courbé la tête sous ce reproche. Mais ce qui est fait est fait ! Maintenant notre Erik est bien à nous, et je ne tiens pas du tout à lui parler de ces vieilles histoires.
+
+--- Soyez sans crainte, ce n\'est pas moi qui trahirai votre confiance ! répliqua le docteur en se levant. Il se fait tard... Je vais vous quitter, mes bons amis, et je vous souhaite une bonne nuit -- une nuit sans remords », ajouta-t-il gravement.
+
+Sur quoi il endossa sa pelisse fourrée, et, sans vouloir accepter l\'offre du pêcheur qui insistait pour le reconduire, il serra cordialement la main de ses hôtes et s\'en alla vers l\'usine.
+
+Hersebom resta un instant sur le seuil, le regardant s\'éloigner à la clarté de la lune.
+
+« Diable d\'homme ! » murmura-t-il entre ses dents, quand il se décida enfin à refermer la porte.

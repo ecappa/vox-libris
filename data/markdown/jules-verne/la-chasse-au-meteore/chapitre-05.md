@@ -1,0 +1,163 @@
+]{.calibre20}
+
+
+LA CHASSE AU MÉTÉORE
+
+
+]{.calibre20}
+
+## [[Chapitre 5 -- Dans lequel, malgré leur acharnement, Mr Dean Forsyth et le Dr Hudelson n\'ont que par les journaux des nouvelles de leur météore.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942807 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_114 .calibre21}
+
+Aux deux lettres ci-dessus, envoyées avec recommandation et sous triple cachet à l\'adresse des directeurs de l\'Observatoire de Pittsburg et de l\'Observatoire de Cincinnati, la réponse consisterait en un simple accusé de réception avec avis du classement desdites lettres. Les intéressés n\'en demandaient pas davantage. Tous deux comptaient bien retrouver le bolide à brève échéance. Que l\'astéroïde eût été se perdre dans les profondeurs du ciel assez loin pour échapper à l\'attraction terrestre, et, par conséquent, qu\'il ne dût jamais réapparaître en vue du monde sublunaire, ils se refusaient à l\'admettre. Non, soumis à des lois formelles, il reviendrait sur l\'horizon de Whaston ; on pourrait le saisir au passage, le signaler de nouveau, déterminer ses coordonnées, et il figurerait sur les cartes célestes, baptisé du glorieux nom de son inventeur.
+
+Mais quel était cet inventeur ? Point éminemment délicat, qui n\'eût pas laissé d\'embarrasser la justice même de Salomon. Au jour de la réapparition du bolide, ils seraient deux à revendiquer cette conquête. Si Francis Gordon et Jenny Hudelson avaient connu les dangers de la situation, ils eussent bien certainement supplié le ciel de faire en sorte que leur mariage fût conclu avant le retour de ce malencontreux météore. Et, non moins certainement, Mrs Hudelson, Loo, Mitz et tous les amis des deux familles se seraient joints de tout coeur à leur prière.
+
+Mais personne ne savait rien, et, malgré la préoccupation croissante des deux rivaux, préoccupation que l\'on constatait sans pouvoir l\'expliquer, aucun habitant de la maison de Moriss street, sauf le docteur Hudelson, ne s\'inquiétait de ce qui se passait dans les profondeurs du firmament.
+
+Des préoccupations, nul n\'en avait ; des occupations, oui, et de nombreuses. Visites et compliments à recevoir et à rendre, faire-part et invitations à envoyer, préparatifs du mariage et choix des cadeaux de noce, tout cela, d\'après la petite Loo, était comparable aux douze travaux d\'Hercule, et il n\'y avait pas une heure à perdre.
+
+« Quand on marie sa première fille, c\'est une grosse affaire, disait-elle. On n\'a pas l\'habitude. Pour la seconde fille, c\'est plus simple : l\'habitude est prise, et il n\'y a aucun oubli à craindre. Ainsi, pour moi, cela ira tout seul.
+
+--- Eh quoi ! répondait Francis Gordon, mademoiselle Loo songerait déjà au mariage ? Pourrait-on savoir quel est le fortuné mortel\...
+
+--- Occupez-vous d\'épouser ma soeur, ripostait la fillette. C\'est une occupation qui réclame tout votre temps. Et ne vous mêlez pas de ce qui me regarde ! »
+
+Comme elle l\'avait promis, Mrs Hudelson se rendit à la maison de Lambeth street. Quant au docteur, c\'eût été folie de compter sur lui.
+
+« Ce que vous ferez sera bien fait, Mrs Hudelson, et je m\'en rapporte à vous, avait-il répondu à la proposition d\'aller visiter la future demeure du jeune ménage. D\'ailleurs, cela regarde surtout Francis et Jenny.
+
+--- Voyons, papa, dit Loo, est-ce que vous ne comptez pas descendre de votre donjon le jour de la noce ?
+
+--- Mais si, Loo, si.
+
+--- Et vous montrer à Saint-Andrew, votre fille au bras ?
+
+--- Mais si, Loo, si.
+
+--- Avec votre habit noir et votre gilet blanc, votre pantalon noir et votre cravate blanche ?
+
+--- Mais si, Loo, si.
+
+--- Et ne consentirez-vous pas à oublier vos planètes pour écouter le discours que le révérend O\'Garth prononcera avec beaucoup d\'émotion ?
+
+--- Si, Loo, si. Mais nous n\'en sommes pas encore là ! Et, puisque le ciel est pur aujourd\'hui, ce qui est assez rare, partez sans moi. »
+
+Mrs Hudelson, Jenny, Loo et Francis Gordon laissèrent donc le docteur manoeuvrer sa lunette et son télescope, tandis que Mr Dean Forsyth, il n\'en faut pas douter, manoeuvrait pareillement ses instruments dans la tour d\'Elisabeth street. Cette double obstination aurait-elle sa récompense, et le météore une première fois aperçu passerait-il une seconde fois devant l\'objectif des appareils ?
+
+Pour aller à la maison de Lambeth street, les quatre promeneurs descendirent Moriss street et traversèrent la place de la Constitution, où ils reçurent au passage le salut de l\'aimable juge John Proth. Puis ils remontèrent Exeter street, tout comme l\'avait fait, quelques jours avant, Seth Stanfort attendant Arcadia Walker, et arrivèrent dans Lambeth street. La maison était des plus agréables, bien disposée suivant les règles du confort moderne. Par derrière, un cabinet de travail et une salle à manger donnaient sur le jardin, de quelques acres seulement, mais ombragé de beaux hêtres et égayé par des corbeilles où commençaient à s\'épanouir les premières fleurs du printemps. Offices et cuisines dans le sous-sol à la mode anglo-saxonne.
+
+Le premier étage valait le rez-de-chaussée, et Jenny ne put que féliciter son fiancé d\'avoir découvert cette jolie résidence, une sorte de villa d\'un si charmant aspect.
+
+Mrs Hudelson partageait l\'avis de sa fille et assurait qu\'on n\'aurait pu trouver mieux dans n\'importe quel autre quartier de Whaston.
+
+Cette flatteuse appréciation parut plus justifiée encore quand on fut parvenu au dernier étage de la maison.
+
+Là, bordée par une balustrade, régnait une vaste terrasse, d\'où l\'oeil embrassait un panorama splendide. On pouvait remonter et descendre le cours du Potomac, et apercevoir, au-delà, cette bourgade de Steel, d\'où miss Arcadia Walker était partie pour rejoindre Seth Stanfort.
+
+La ville entière apparaissait avec les clochers de ses églises, les hautes toitures des édifices publics, les verdoyants sommets de ses arbres.
+
+« Voici la place de la Constitution, dit Jenny, en s\'aidant d\'une lorgnette dont, sur le conseil de Francis, on s\'était muni\... Voici Moriss street\... Je vois notre maison, avec le donjon et le pavillon qui flotte au vent ! Tiens ! Il y a quelqu\'un sur le donjon.
+
+--- Papa ! Formula Loo sans hésitation.
+
+--- Ce ne peut être que lui, déclara Mrs Hudelson.
+
+--- C\'est bien lui, affirma la fillette, qui, sans plus de façon, s\'était emparée de la lorgnette. Je le reconnais\... Il manoeuvre sa lunette\... Et vous verrez qu\'il n\'aura pas la pensée de la diriger de notre côté ! Ah ! Si nous étions dans la lune !
+
+--- Puisque vous apercevez votre maison, mademoiselle Loo, interrompit Francis, peut-être pourrez-vous voir celle de mon oncle ?
+
+--- Oui, répondit la fillette, mais laissez-moi chercher\... Je la reconnaîtrai facilement avec sa tour\... Ce doit être de ce côté\... Attendez\... Bon ! La voilà ! Je la tiens. »
+
+Loo ne se trompait pas. C\'était bien la maison de Mr Dean Forsyth.
+
+« Il y a quelqu\'un sur la tour\... reprit-elle après une minute d\'attention. -- Mon oncle, assurément, répondit Francis.
+
+--- Il n\'est pas seul.
+
+--- C\'est Omicron qui est avec lui.
+
+--- Et il ne faut pas demander ce qu\'ils font, ajouta Mrs Hudelson.
+
+--- Ils font ce que fait mon père », dit, avec une nuance de tristesse, Jenny, à qui la rivalité latente de Mr Dean Forsyth et de Mr Hudelson causait toujours un peu d\'inquiétude.
+
+La visite achevée, et Loo ayant une dernière fois affirmé sa complète satisfaction, Mrs Hudelson, ses deux filles et Francis Gordon revinrent à la maison de Moriss street. Dès le lendemain, on passerait bail avec le propriétaire de la villa et l\'on s\'occuperait de l\'ameublement, de manière à être prêt pour le 15 mai.
+
+Pendant ce temps, Mr Dean Forsyth et le docteur Hudelson ne perdraient pas une heure de leur côté. Ce qu\'allait leur coûter de fatigue physique et morale, d\'observations prolongées par les jours clairs et les nuits sereines, la recherche de leur bolide qui s\'obstinait à ne pas reparaître au-dessus de l\'horizon !
+
+Jusqu\'ici, en dépit de leur assiduité, les deux astronomes en étaient pour leurs peines. Ni pendant le jour, ni pendant la nuit, le météore n\'avait pu être saisi à son passage en vue de Whaston.
+
+« Y passera-t-il seulement ? Soupirait parfois Dean Forsyth après une longue pose à l\'oculaire de son télescope.
+
+--- Il passera, répondait Omicron avec un imperturbable aplomb. Je dirai même : il passe.
+
+--- Alors, pourquoi ne le voyons-nous pas ?
+
+--- Parce qu\'il n\'est pas visible.
+
+--- Désolant ? Soupirait derechef Dean Forsyth. Mais enfin, s\'il est invisible pour nous, il doit l\'être pour tout le monde\... À Whaston, tout au moins.
+
+--- C\'est absolument certain », affirmait Omicron.
+
+Ainsi raisonnaient le maître et le serviteur, et ces propos qu\'ils échangeaient, on les prononçait sous forme de monologue chez le docteur Hudelson non moins désespéré de son insuccès.
+
+Tous deux avaient reçu, des observatoires de Pittsburg et de Cincinnati, réponse à leur lettre. On avait pris bonne note de la communication relative à l\'apparition d\'un bolide à la date du 16 mars dans la partie septentrionale de l\'horizon de Whaston. On ajoutait que, jusqu\'ici, il avait été impossible de retrouver ce bolide, mais que, s\'il était aperçu de nouveau, Mr Dean Forsyth et le docteur Sydney Hudelson en seraient aussitôt avisés.
+
+Bien entendu, les observatoires avaient répondu séparément, sans savoir que les deux astronomes amateurs s\'attribuaient chacun l\'honneur de cette découverte et en revendiquaient la priorité.
+
+Depuis que cette réponse était arrivée, la tour d\'Elisabeth street et le donjon de Moriss street eussent pu se dispenser de poursuivre leurs fatigantes recherches. Les observatoires possédaient des instruments à la fois plus puissants et plus précis, et, si le météore n\'était pas une masse errante, s\'il suivait une orbite fermée, s\'il revenait enfin dans les conditions où il avait été déjà observé, les lunettes et les télescopes de Pittsburg et de Cincinnati sauraient bien le saisir au passage. Mr Dean Forsyth et Mr Sydney Hudelson auraient donc sagement fait de s\'en remettre aux savants de ces deux établissements renommés.
+
+Mais Mr Dean Forsyth et Mr Sydney Hudelson étaient des astronomes et non des sages. C\'est pourquoi ils s\'attachèrent à poursuivre leur oeuvre. Ils apportèrent même à cette poursuite une ardeur toujours grandissante. Sans qu\'ils se fussent rien dit de leurs préoccupations, ils avaient le pressentiment qu\'ils chassaient tous les deux un unique gibier, et la crainte d\'être devancé ne leur laissait pas un moment de répit.
+
+La jalousie les mordait au coeur, et les relations des deux familles se ressentaient de leur état d\'esprit.
+
+En vérité, il y avait lieu d\'être inquiet. Leurs soupçons prenant chaque jour plus de corps, Mr Dean Forsyth et le docteur Hudelson, jadis si intimes, ne mettaient plus le pied l\'un chez l\'autre.
+
+Quelle situation pénible pour les deux fiancés ! Ceux-ci se voyaient pourtant chaque jour, car enfin la porte de la maison de Moriss street n\'était point interdite à Francis Gordon. Mrs Hudelson lui témoignait toujours la même confiance et la même amitié ; mais il sentait bien que le docteur ne supportait pas sa présence sans une gêne visible. C\'était bien autre chose quand on parlait de Mr Dean Forsyth devant Sydney Hudelson. Le docteur devenait tout pâle, puis tout rouge, ses yeux lançaient des éclairs vite éteints par la retombée des paupières, et ces regrettables symptômes, révélateurs d\'une réciproque antipathie, on les constatait identiques chez Mr Dean Forsyth.
+
+Mrs Hudelson avait vainement essayé de connaître la cause de ce refroidissement, plus encore, de l\'aversion que les deux anciens amis éprouvaient l\'un pour l\'autre. Son mari s\'était borné à répondre :
+
+« Inutile : tu ne comprendrais pas\... Mais je ne me serais pas attendu à un tel procédé de la part de Forsyth ! »
+
+Quel procédé ? Impossible d\'obtenir une explication. Loo elle-même, Loo l\'enfant gâtée à qui tout était permis, ne savait rien.
+
+Elle avait bien proposé d\'aller relancer Mr Forsyth jusque dans sa tour, mais Francis l\'en avait dissuadée.
+
+« Non, je n\'aurais jamais cru Hudelson capable d\'une pareille conduite à mon égard ! » telle est sans doute la seule réponse, qu\'à l\'instar du docteur, l\'oncle de Francis aurait consenti à formuler.
+
+La preuve en était faite par la manière dont Mr Dean Forsyth avait reçu Mitz, qui se risquait à l\'interroger.
+
+« Mêlez-vous de ce qui vous regarde ! » lui avait-on signifié d\'un ton sec. Au moment que Mr Dean Forsyth osait parler ainsi à la redoutable Mitz, c\'est que la situation était grave en effet.
+
+Quant à Mitz, elle en était demeurée estomaquée, pour employer sa forte image, et elle assurait qu\'elle avait dû, pour ne pas répondre à une telle insolence, se mordre la langue jusqu\'à l\'os. En ce qui concerne son maître, son opinion était nette, et elle n\'en faisait pas mystère. Pour elle, Mr Forsyth était fou, ce qu\'elle expliquait le plus naturellement du monde par les positions incommodes qu\'il était forcé de prendre pour regarder dans ses instruments, spécialement lorsque certaines observations près du zénith l\'obligeaient à renverser la tête. Mitz supposait que, dans cette posture, Mr Forsyth s\'était rompu quelque chose dans la colonne cérébrale.
+
+Il n\'est pas, toutefois, de secret si bien caché qui ne transpire. On apprit enfin ce dont il s\'agissait par une indiscrétion d\'Omicron. Son maître avait découvert un bolide extraordinaire et redoutait que la même découverte n\'eût été faite par le docteur Hudelson.
+
+Voilà donc quelle était la cause de cette brouille ridicule ! Un météore ! Un bolide, un aréolithe, une étoile filante, une pierre, une grosse pierre si l\'on veut, mais une pierre après tout, un simple caillou, contre lequel risquait de se briser le char nuptial de Francis et de Jenny !
+
+Aussi, Loo ne se gênait-elle pas pour envoyer « au diable les météores et, avec eux, toute la mécanique céleste ! »
+
+Le temps s\'écoulait cependant\...
+
+Jour par jour, le mois de mars recula, céda la place au mois d\'avril. On arriverait bientôt à la date fixée pour le mariage. Mais ne surviendrait-il rien auparavant ? Jusqu\'ici, cette déplorable rivalité ne reposait que sur des suppositions, sur des hypothèses. Que se passerait-il si quelque événement imprévu la rendait officielle et certaine, si un choc jetait les deux rivaux l\'un contre l\'autre ?
+
+Ces craintes trop raisonnables n\'avaient pas interrompu les préparatifs du mariage. Tout serait prêt, même la belle robe de miss Loo.
+
+La première quinzaine d\'avril s\'écoula dans des conditions atmosphériques abominables : de la pluie, du vent, un ciel empâté de gros nuages qui se succédaient sans discontinuer. Ne se montrèrent, ni le soleil qui décrivait alors une courbe assez élevée au-dessus de l\'horizon, ni la lune presque pleine et qui aurait dû illuminer l\'espace de ses rayons, ni, a fortiori, l\'introuvable météore.
+
+Mrs Hudelson, Jenny et Francis Gordon ne songeaient pas à se plaindre de l\'impossibilité de faire aucune observation astronomique. Et jamais Loo, qui détestait le vent et la pluie, ne s\'était autant réjouie d\'un ciel bleu qu\'elle ne l\'était par la persistance du mauvais temps.
+
+« Qu\'il dure au moins jusqu\'à la noce, répétait-elle, et que pendant trois semaines encore on ne voie ni le soleil, ni la lune, ni la plus minuscule étoile ! »
+
+En dépit des voeux de Loo, cette situation prit fin et les conditions atmosphériques se modifièrent dans la nuit du 15 au 16 avril. Une brise du Nord chassa toutes les vapeurs, et le ciel recouvra sa complète sérénité.
+
+Mr Dean Forsyth de sa tour, le docteur Hudelson de son donjon, se remirent à fouiller le firmament au-dessus de Whaston, depuis l\'horizon jusqu\'au zénith.
+
+Le météore repassa-t-il devant leurs lunettes ? On serait fondé à n\'en rien croire, si l\'on en jugeait par leurs mines rébarbatives. Leur égale mauvaise humeur prouvait un double et pareil échec. Et, en vérité, cette opinion serait la bonne. Non, Mr Sydney Hudelson n\'avait rien vu dans l\'immensité du ciel, et Mr Dean Forsyth pas davantage. N\'avaient-ils donc eu décidément affaire qu\'à un météore errant échappé pour toujours à l\'attraction terrestre ?
+
+Une note, parue dans les journaux du 19 avril, vint les fixer à cet égard. Cette note, rédigée par l\'Observatoire de Boston, était ainsi conçue :
+
+« Avant-hier vendredi 17 avril, à neuf heures dix-neuf minutes et neuf secondes du soir, un bolide de merveilleuse grosseur a traversé les airs dans la partie ouest du ciel avec une rapidité vertigineuse.
+
+« Circonstance des plus singulières et de nature à flatter l\'amour-propre de la ville de Whaston, il semblerait que ce météore aurait été découvert le même jour et à la même heure par deux de ses plus éminents citoyens.
+
+« D\'après l\'Observatoire de Pittsburg, ce bolide serait, en effet, celui que lui a signalé à la date du 24 mars Mr Dean Forsyth, et, d\'après l\'Observatoire de Cincinnati, celui que lui a signalé, à la même date, le docteur Sydney Hudelson. Or, MM. Dean Forsyth et Sydney Hudelson habitent tous deux Whaston, où ils sont très honorablement connus. »

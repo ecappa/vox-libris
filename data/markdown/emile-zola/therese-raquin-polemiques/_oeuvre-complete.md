@@ -1,0 +1,308 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB"}
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre28} [!{.calibre29}]{.calibre28}
+
+## []{#_Toc368911244 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910758 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910272 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909786 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909300 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908814 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908328 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907842 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907356 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906870 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906384 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905898 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905412 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904926 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904440 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903954 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903468 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902982 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902496 .pcalibre .calibre2 .pcalibre1}[]{#_Table_des_matières_3 .pcalibre .calibre2 .pcalibre1}Table des matières {#calibre_toc_57 .calibre30}
+
+!{#Image5712 .calibre31}
+
+[[L'article de Ferragus, dans « Le Figaro », 23 janvier 1868 : « La littérature putride »]{.calibre32}](../Text/Zola5_split_090.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[La réponse de Zola dans « Le Figaro », 31 janvier 1868]{.calibre32}](../Text/Zola5_split_091.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de « Thérèse Raquin »]{.calibre32}](../Text/Zola5_split_092.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[La lettre de Sainte-Beuve à Émile Zola, 10 juin 1868]{.calibre32}](../Text/Zola5_split_093.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[La réponse de Zola à Sainte-Beuve, 13 juillet 1868]{.calibre32}](../Text/Zola5_split_094.htm){.pcalibre .calibre2 .pcalibre1}
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911245 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910759 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910273 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909787 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909301 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908815 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908329 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907843 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907357 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906871 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906385 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905899 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905413 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904927 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904441 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903955 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903469 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902983 .pcalibre .calibre2 .pcalibre1}[L'article de Ferragus, dans « Le Figaro », 23 janvier 1868 : « La littérature putride »]{#_Toc368902497 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_58 .calibre30}
+
+Il s'est établi depuis quelques années une école monstrueuse de romanciers, qui prétend substituer l'éloquence du charnier à l'éloquence de la chair, qui fait appel aux curiosités les plus chirurgicales, qui groupe les pestiférés pour nous en faire admirer les marbrures, qui s'inspire directement du choléra, son maître, et qui fait jaillir le pus de la conscience.
+
+Les dalles de la morgue ont remplacé le sopha de Crébillon ; Manon Lescaut est devenue une cuisinière sordide, quittant le graillon pour la boue des trottoirs, Faublas a besoin d'assassiner et de voir pourrir ses victimes pour rêver d'amour ; ou bien, cravachant les dames du meilleur monde, lui qui n'a rien lu, il met les livres du marquis de Sade en action.
+
+Germinie Lacerteux, Thérèse Raquin, La Comtesse de Chalis, bien d'autres romans qui ne valent pas l'honneur d'être nommés (car je ne me dissimule pas que je fais une réclame à ceux-ci) vont prouver ce que j'avance.
+
+Je ne mets pas en cause les intentions ; elles sont bonnes ; mais je tiens à démontrer que dans une époque à ce point blasée, pervertie, assoupie, malade, les volontés les meilleures se fourvoient et veulent corriger par des moyens qui corrompent. On cherche le succès pour avoir des auditeurs, et on met à sa porte des linges hideux en guise de drapeaux pour attirer les passants.
+
+J'estime les écrivains dont je vais piétiner les oeuvres ; ils croient à la régénération sociale ; mais en faisant leur petit tas de boue, ils s'y mirent, avant de le balayer ; ils veulent qu'on le flaire et que chacun s'y mire à son tour ; ils ont la coquetterie de leur besogne et ils oublient l'égout, en retenant l'ordure au dehors.
+
+Je dois, en bonne conscience, faire une exception pour M. Feydeau. Ce n'est que faute d'un peu d'esprit qu'il dépasse la mesure ; mais je louerais beaucoup plus son dernier roman, qui a des parties excellentes, si l'auteur n'avait l'habitude de ne laisser rien à dire à ses lecteurs, en fait de compliments, et si je ne me souvenais de La fille aux yeux d'or. Quoi qu'il en soit, M. Feydeau a voulu, voyant les moeurs de son temps, écrire à son tour Les Liaisons dangereuses. Il est parti d'un point de vue austère ; il flétrit sans ambages les belles façons des grandes dames ; il a dépeint avec une sûreté de coloris incontestable le portrait de son héroïne ; mais il n'a pu se garer du défaut commun. C'est un Joseph Prudhomme faisandé. En deux ou trois endroits il souligne trop, et on peut lui appliquer ce moyen de comparaison qui condamne les autres romanciers trivialistes : il lui serait impossible de mettre son héroïne au théâtre.
+
+Remarquez bien que c'est la pierre de touche. Balzac, le sublime fumier sur lequel poussent tous ces champignons-là, a amassé dans Mme Marneffe toutes les corruptions, toutes les infamies ; et pourtant comme il n'a jamais mis Mme Marneffe dans une position grotesque ou triviale que son image pût faire rire ou soulever le goût, on a représenté Mme Marneffe sur un théâtre. Je vous défie d'y mettre la comtesse de Chalis ! Je vous défie d'y laisser passer Germinie Lacerteux, Thérèse Raquin, tous ces fantômes impossibles qui suintent la mort, sans avoir respiré la vie, qui ne sont que des cauchemars de la réalité.
+
+Le second reproche que j'adresserai à cette littérature violente, c'est qu'elle se croit bien malicieuse et qu'elle est bien naïve : elle n'est qu'un trompe-l'oeil.
+
+Il est plus facile de faire un roman brutal, plein de sanie, de crimes et de prostitutions, que d'écrire un roman contenu, mesuré, moiré, indiquant les hontes sans les découvrir, émouvant sans écoeurer. Le beau procédé que celui d'étaler des chairs meurtries ! Les pourritures sont à la portée de tout le monde, et ne manquent jamais leur effet. Le plus niais des réalistes, en décrivant platement le vieux Montfaucon, donnerait des nausées à toute une génération.
+
+Attacher par le dégoût, plaire par l'horrible, c'est un procédé qui malheureusement répond à un instinct humain, mais à l'instinct le plus bas, le moins avouable, le plus universel, le plus bestial. Les foules qui courent à la guillotine, ou qui se pressent à la morgue, sont-elles le public qu'il faille séduire, encourager, maintenir dans le culte des épouvantes et des purulences ?
+
+La chasteté, la candeur, l'amour dans ses héroïsmes, la haine dans ses hypocrisies, la vérité de la vie, après tout, ne se montrent pas sans vernis, coûtent plus de travail, exigent plus d'observation et profitent davantage au lecteur. Je ne prétends pas restreindre le domaine de l'écrivain. Tout, jusqu'à l'épiderme, lui appartient : arracher la peau, ce n'est plus de l'observation, c'est de la chirurgie ; et si une fois par hasard un écorché peut être indispensable à la démonstration psychologique, l'écorché mis en système n'est plus que de la folie et de la dépravation.
+
+Je disais que toutes ces imaginations malsaines étaient des imaginations pauvres ou paresseuses. Je n'ai besoin que de citer les procédés pour le prouver. Elles vivent d'imitation. Madame Bovary, Fanny, L'Affaire Clémenceau, ont l'empreinte d'un talent original et personnel ; aussi ces trois livres supérieurs sont-ils restés les types que l'on imite, que l'on parodie, que l'on allonge en les faisant grimacer. Combiner l'élément judiciaire avec l'élément pornographique, voilà tout le fonds de la science. Mystère et hystérie ! Voilà la devise.
+
+Il y a un piège, d'ailleurs, dans ces deux mots : les tribunaux sont un lieu commun de péripéties variées et faciles, et, à une époque d'énervement, comme on n'a plus le secret de la passion, on la remplace par des spasmes maladifs ; c'est aussi bruyant, et c'est plus commode.
+
+Ceci expliqué, je dois avouer le motif spécial de ma colère. Ma curiosité a glissé ces jours-ci dans une flaque de boue et de sang qui s'appelle Thérèse Raquin, et dont l'auteur, M. Zola, passe pour un jeune homme de talent. Je sais, du moins, qu'il vise avec ardeur à la renommée. Enthousiaste des crudités, il a publié déjà La Confession de Claude qui était l'idylle d'un étudiant et d'une prostituée ; il voit la femme comme M. Manet la peint, couleur de boue avec des maquillages roses. Intolérant pour la critique, il l'exerce lui-même avec intolérance, et à l'âge où l'on ne sait encore que suivre son désir, il intitule ses prétendues études littéraires : Mes Haines !
+
+Je ne sais si M. Zola a la force d'écrire un livre fin, délicat, substantiel et décent. Il faut de la volonté, de l'esprit, des idées et du style pour renoncer aux violences ; mais je puis déjà indiquer à l'auteur de Thérèse Raquin une conversion.
+
+M. Jules Claretie avait écrit, lui aussi, son livre de frénésie amoureuse et assassine ; mais il s'est dégoûté du genre après son propre succès, et il a demandé à l'histoire des tragédies plus vraies, des passions plus héroïques et non moins terribles. On meurt beaucoup dans ses Derniers Montagnards, mais avec un cri d'espérance et d'amour pour la liberté ! La rage n'y est pas ménagée mais celle-là rend doux et tolérant !
+
+Quant à Thérèse Raquin, c'est le résidu de toutes les horreurs publiées précédemment. On y a égoutté tout le sang et toutes les infamies : c'est le baquet de la mère Bancal.
+
+Le sujet est simple, d'ailleurs, le remords physique de deux amants qui tuent le mari pour être plus libres de le tromper, mais qui, ce mari tué (il s'appelait Camille), n'osent plus s'étreindre, car voici, selon l'auteur, le supplice délicat qui les attend : « Ils poussèrent un cri et se pressèrent davantage afin de ne pas laisser entre leur chair de place pour le noyé. Et ils sentaient toujours des lambeaux de Camille qui s'écrasaient ignoblement entre eux, glaçant leur peau par endroits, tandis que le reste de leur corps brûlait. »
+
+A la fin, ne parvenant pas à écraser suffisamment le noyé dans leurs baisers, ils se mordent, se font horreur, et se tuent ensemble de désespoir de ne pouvoir se tuer réciproquement.
+
+Si je disais à l'auteur que son idée est immorale, il bondirait, car la description du remords passe généralement pour un spectacle moralisateur ; mais si le remords se bornait toujours à des impressions physiques, à des répugnances charnelles, il ne serait plus qu'une révolte du tempérament, et il ne serait pas le remords. Ce qui fait la puissance et le triomphe du bien, c'est que même la chair assouvie, la passion satisfaite, il s'éveille et brûle dans le cerveau. Une tempête sous un crâne est un spectacle sublime : une tempête dans les reins est un spectacle ignoble.
+
+La première fois que Thérèse aperçoit l'homme qu'elle doit aimer, voici comment s'annonce la sympathie : « La nature sanguine de ce garçon, sa voix pleine, ses rires gras, les senteurs âcres et puissantes qui s'échappaient de lui troublaient la jeune femme et la jetaient dans une sorte d'angoisse nerveuse. »
+
+O Roméo ! ô Juliette ! Quel flair subtil et prompt aviez-vous pour vous aimer si vite ? Thérèse est une femme qui a besoin d'un amant. D'un autre côté, Laurent, son complice, se décide à noyer le mari après une promenade où il subit la tentation suivante : « Il sifflait, il poussait du pied les cailloux, et par moments il regardait avec des yeux fauves les balancements des hanches de sa maîtresse. »
+
+Comment ne pas assassiner ce pauvre Camille, cet être maladif et gluant, dont le nom rime avec camomille, après une telle excitation ?
+
+On jette le mari à l'eau. A partir de ce moment, Laurent fréquente la morgue jusqu'à ce que son noyé soit admis à l'exposition. L'auteur profite de l'occasion pour nous décrire les voluptés de la morgue et ses amateurs.
+
+Laurent s'y délecte à voir les femmes assassinées. Un jour il s'éprend du cadavre d'une fille qui s'est pendue ; il est vrai que le corps de celle-ci, « frais et gras, blanchissait avec des douceurs de teinte d'une grande délicatesse... Laurent la regarda longtemps, promenant ses regards sur la chair, absorbé dans une sorte de désir peureux. »
+
+Les dames du monde vont à la morgue, paraît-il ; une d'elles y tombe en contemplation devant le corps robuste d'un maçon. « La dame -- dit l'auteur -- l'examinait, le retournait, le pesait, s'absorbait dans le spectacle de cet homme. Elle leva un coin de sa voilette, regarda encore puis s'en alla. »
+
+Quant aux gamins, « c'est à la morgue que les jeunes voyous ont leur première maîtresse. »
+
+Comme ma lettre peut être lue après déjeuner, je passe sur la description de la jolie pourriture de Camille. On y sent grouiller les vers.
+
+Une fois le noyé bien enterré, les amants se marient. C'est ici que commence leur supplice.
+
+Je ne suis pas injuste et je reconnais que certaines parties de cette analyse des sensations de deux assassins sont bien observées. La nuit de ces noces hideuses est un tableau frappant. Je ne blâme pas systématiquement les notes criardes, les coups de pinceau violents et violets ; je me plains qu'ils soient seuls et sans mélange ; ce qui fait le tort de ce livre pouvait en être le mérite.
+
+Mais la monotonie de l'ignoble est la pire des monotonies. Il semble, pour rester dans les comparaisons de ce livre, qu'on soit étendu sous le robinet d'un des lits de la morgue, et jusqu'à la dernière page, on sent couler, tomber goutte à goutte sur soi cette eau faite pour délayer des cadavres.
+
+Les deux époux, de fureur en fureur, de dépravations en dépravations, en viennent à se battre, à vouloir se dénoncer. Thérèse se prostitue, et Laurent, « dont la chair est morte », regrette de ne pouvoir en faire autant.
+
+Enfin, un jour, ces deux forçats de la morgue tombent épuisés, empoisonnés, l'un sur l'autre, devant le fauteuil de la vieille mère paralytique de Camille Raquin, qui jouit intérieurement de ce châtiment par lequel son fils est vengé.
+
+Ce livre résume trop fidèlement toutes les putridités de la littérature contemporaine pour ne pas soulever un peu de colère. Je n'aurais rien dit d'une fantaisie individuelle, mais à cause de la contagion il y va de toutes nos lectures. Forçons les romanciers à prouver leur talent autrement que par des emprunts aux tribunaux et à la voirie.
+
+A la vente de ce pacha qui vient de liquider sa galerie tout comme un Européen, M. Courbet représentait le dernier mot de la volupté dans les arts par un tableau qu'on laissait voir, et par un autre suspendu dans un cabinet de toilette qu'on montrait seulement aux dames indiscrètes et aux amateurs. Toute la honte de l'école est là dans ces deux toiles, comme elle est d'ailleurs dans les romans : la débauche lassée et l'anatomie crue. C'est bien peint, c'est d'une réalité incontestable, mais c'est horriblement bête.
+
+Quand la littérature dont j'ai parlé voudra une enseigne, elle se fera faire par M. Courbet une copie de ces deux toiles. Le tableau possible attirera les chalands à la porte ; l'autre sera dans le sanctuaire, comme la muse, le génie, l'oracle.
+
+Ferragus
+
+
+---
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911246 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910760 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910274 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909788 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909302 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908816 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908330 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907844 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907358 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906872 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906386 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905900 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905414 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904928 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904442 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903956 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903470 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902984 .pcalibre .calibre2 .pcalibre1}[La réponse de Zola dans « Le Figaro », 31 janvier 1868]{#_Toc368902498 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_59 .calibre30}
+
+Vous êtes chef des Dévorants, monsieur, et vous m'avez dévoré en toute conscience ! Je vous jure que j'aurais eu la bonté d'âme de me laisser manger sans me plaindre, si vous vous étiez contenté du misérable morceau que je pouvais offrir personnellement à votre furieux appétit. Mais vous attaquez toutes mes croyances, vous mordez MM. De Goncourt que j'aime et que j'admire, vous écrivez un réquisitoire contre une école littéraire qui a produit des oeuvres vivantes et fortes. J'ai droit de réponse, n'est-ce pas ? Non pour me défendre, moi chétif, mais pour défendre la cause de la vérité.
+
+C'est entendu, je me mets à part, je ne me rappelle plus même que je suis l'auteur de Thérèse Raquin. Vous avez parlé de charnier, de pus, de choléra, je vais parler à mon tour des réalités humaines, des enseignements terribles de la vie.
+
+Je vous avoue, monsieur, que je vous aurais répondu tout de suite si je n'avais éprouvé un scrupule bête. J'aime à savoir à qui je m'adresse, votre masque me gêne. J'ai peur de vous dire des choses désagréables sans le vouloir. Oh ! Je me suis creusé la tête. J'ai épelé votre article, fouillant chaque mot, cherchant une personnalité connue au fond de vos phrases. Je déclare humblement que mes recherches ont été vaines. Votre style a un débraillé violent qui m'a dérouté. Quant à vos opinions, elles sont dans une moyenne honnête ne portant pas de signature individuelle.
+
+On m'a bien cité quelques noms : mais, vraiment, monsieur, si vous êtes un de ceux que l'on m'a nommés, il est à croire que le masque vous a donné le langage bruyant et lâché de nos bals publics. Quand on a le visage couvert, on peut se permettre l'engueulement classique, surtout en un temps de carnaval. Je me plais à penser que, dans un salon, vous dévorez les gens avec plus de douceur.
+
+Donc, monsieur, je n'ai pu vous reconnaître. J'essaie de répondre posément et sagement à un inconnu déguisé en Matamore qui, en se rendant un samedi à l'Opéra, a rencontré un groupe de littérateurs, et qui a voulu les effrayer en faisant la grosse voix.
+
+Vous avez émis, monsieur, une étrange théorie qui inaugure une esthétique toute nouvelle. Vous prétendez que si un personnage de roman ne peut être mis au théâtre, ce personnage est monstrueux, impossible, en dehors du vrai. Je prends note de cette incroyable façon de juger deux genres de littérature si différents : le roman, cadre souple, s'élargissant pour toutes les vérités et toutes les audaces, et la pièce de théâtre qui vit surtout de conventions et de restrictions.
+
+Certes non, on ne pourrait mettre Germinie Lacerteux sur les planches où gambade Mlle Schneider. Cette « cuisinière sordide », selon votre expression, effaroucherait le public qui se pâme devant les minauderies poissardes de la Grande-Duchesse. Oh ! Le public de nos jours est un public intelligent, délicat et honnête : Molière l'ennuie ; il applaudit la musique de mirliton de MM. Offenbach et Hervé ; il encourage les niaiseries folles des parades modernes. Évidemment, ce public-là sifflerait Germinie Lacerteux, coupable d'avoir du sang et des nerfs comme tout le monde.
+
+Et pourtant je jurerais qu'un faiseur se chargerait de la lui imposer. Il s'agirait simplement de transformer Germinie en une cuisinière délaissée par son sapeur, qui se lamente et va se faire périr. Au dénouement, pour ne pas troubler la digestion du public, le sapeur viendrait rendre la vie à sa payse. Thérésa serait superbe dans un pareil rôle, et l'on irait à la centième représentation, n'est-ce pas ?
+
+Sans plaisanter davantage, monsieur, comment n'avez-vous pas compris que notre théâtre se meurt, que la scène française tend à devenir un tremplin pour les paillasses et les sauteuses ? Et vous voulez, avant d'accepter et d'admirer les personnages d'un roman, les faire rebondir sur ce tremplin et savoir s'ils exécutent la cabriole des poupées applaudies ! Mais ne voyez-vous pas qu'en France on ne va au théâtre que pour digérer en paix. Demandez aux auteurs dramatiques de quelque talent les rages qu'ils ont parfois contre ce public pudibond et borné, qui ne veut absolument que des pantins, qui refuse les vérités âpres de la vie. Nos foules demandent de beaux mensonges, des sentiments tout faits, des situations clichées ; elles descendent souvent jusqu'aux indécences, mais elles ne montent jamais jusqu'aux réalités.
+
+Lisez l'Histoire de la littérature anglaise de M. Taine, et vous verrez ce qu'on peut oser sur la scène chez un peuple auquel son tempérament permet d'assister au spectacle réel de nos passions. Vycherley et Swift n'auraient pas hésité à mettre Germinie au théâtre. Nous autres, nous préférons les vaudevillistes gais ou funèbres : Scribe sera toujours le maître de la scène française.
+
+Ah ! Monsieur, si le théâtre se meurt, laissez vivre le roman. Ne mettez pas le romancier sous le joug du public. Accordez lui le droit de fouiller l'humanité à son aise, et ne déclarez pas ses créations monstrueuses, parce que les spectateurs, qui ont lu les Mémoires d'une femme de chambre, se prétendent révoltés par le spectacle d'une vérité humaine qui passe.
+
+Vous ne comprenez que le nu de mademoiselle\*\*\*. C'est plastique, dites-vous. Les charmes de mademoiselle\*\*\* n'avaient pas besoin de cette réclame, je crois ; mais je suis heureux de savoir comment vous comprenez la chair.
+
+Ainsi, monsieur, il ne vous déplairait pas trop que Germinie Lacerteux fût en maillot, pourvu qu'elle eût les jambes bien faites. Je commence à soupçonner ce qu'il vous faut ; une peau soyeuse, des contours fermes et arrondis, une gaze transparente voilant à peine des trésors de volupté.
+
+Le malheur est que Germinie n'est pas en maillot, la pauvre femme ; il n'est même pas certain qu'elle ait les jambes bien faites. Puis elle sent le graillon ; elle ne vaut pas mademoiselle\*\*\*, en un mot. C'est une misérable proie pour le plaisir, tel que vous paraissez l'entendre. Elle a encore un défaut immense : c'est qu'elle ne s'est pas vendue dès l'âge de seize ans ; elle a grandi dans des pensées d'honneur, dans des répugnances invincibles pour le vice, et elle n'a roulé au fond de l'égout que poussée par les faits, poussée par ses nerfs et son sang. Que voulez-vous ? Germinie n'est pas une courtisane ; Germinie est une malheureuse que les fatalités de son tempérament ont jetée à la honte. Toutes les femmes ne sont pas « plastiques ».
+
+Vous restez à fleur de peau, monsieur, tandis que les romanciers analystes ne craignent pas de pénétrer dans les chairs. C'est moins voluptueux, et moins agréable, je le sais ; les tableaux vivants, les apothéoses de féerie sont excellents pour procurer des rêves amoureux : la vue d'une salle d'amphithéâtre est au contraire écoeurante pour ceux qui n'ont pas l'amour austère de la vérité. Je crains bien que nous ne nous entendions pas. Je trouve fort indécente l'exhibition de certaines actrices, et je n'éprouve qu'une douleur émue en face des plaies intérieures du corps humain.
+
+S'il est possible, ayez un instant la curiosité du mécanisme de la vie, oubliez l'épiderme satiné de telle ou telle dame, demandez-vous quel tas de boue est caché au fond de cette peau rose dont le spectacle contente vos faciles désirs. Vous comprendrez alors qu'il a pu se rencontrer des écrivains qui ont fouillé courageusement la fange humaine. La vérité, comme le feu, purifie tout. Il y a des gens qui emmènent le soir des filles et qui les renvoient le lendemain matin après s'être assurés si elles ont la taille mince et les bras forts ; il y en a d'autres qui préfèrent étudier les drames intérieurs de la femme, qui ne touchent à la chair que pour en expliquer les fatalités.
+
+D'ailleurs, monsieur, je vous l'accorde, on doit fouiller la boue aussi peu que possible. J'aime comme vous les oeuvres simples et propres, lorsqu'elles sont fortes et vraies en même temps. Mais je comprends tout, je fais la part de la fièvre, je m'attache surtout dans un roman à la marche logique des faits, à la vie des personnages ; j'admire Germinie Lacerteux, moins dans les pages brutales du livre que dans l'analyse exacte des personnages et des faits. Vous déclarez l'oeuvre putride parce que certains tableaux vous ont choqué ; c'est là de l'intolérance.
+
+Passez outre, et dites-moi si les auteurs n'ont pas créé des personnes vivantes, au lieu des poupées mécaniques que l'on rencontre dans les romans de M. Feuillet par exemple.
+
+Je vous avertis que je suis de l'avis de Stendhal. Je crois qu'un romancier doit d'abord écrire ses oeuvres pour lui : le souci du public vient ensuite.
+
+Le roman n'est pas comme l'auteur dramatique, il ne dépend pas de la foule. Si vous voulez, nous appellerons Germinie Lacerteux un traité de physiologie, nous le mettrons dans une bibliothèque médicale, nous recommanderons aux jeunes filles et aux gens délicats de ne jamais le lire. Tout cela n'empêchera pas que Germinie Lacerteux ne soit un livre des plus remarquables.
+
+Vous dites qu'il est facile de travailler dans l'horrible. Oui et non. Il est facile -- et vous l'avez prouvé -- d'écrire une page violente, sans y mettre autre chose que de la violence ; mais il n'est plus aussi facile d'avoir une fièvre toute personnelle, et d'employer l'activité que vous donne cette fièvre, à observer et à sentir la vie. Demandez à M. Claretie s'il renie ses premiers livres, comme vous paraissez le dire. Quant à moi, je ne pense pas qu'il renonce à l'étude de la vie moderne, et je crois qu'il y reviendra tôt ou tard avec un égal amour pour la réalité.
+
+Les Derniers Montagnards, un beau livre que je viens de lire, ne sont qu'une ode en l'honneur de l'héroïsme et de l'amour patriotique. Au-dessous des ses folies généreuses, la nature humaine a ses misères de tous les jours, qui sont moins consolantes, mais aussi intéressantes à étudier.
+
+D'ailleurs, ne tremblez pas, monsieur. La « littérature putride » ne nourrit pas ses auteurs. Le public n'aime pas les vérités, il veut des mensonges pour son argent. Vous accusez presque MM. De Goncourt d'être « trivialistes », uniquement pour être lus. Eh ! Bon Dieu ! Vous ne savez donc pas qu'on a vendu trente mille exemplaires de Monsieur de Camors, et que Germinie Lacerteux n'en est qu'à sa seconde édition.
+
+Croyez-moi, monsieur, laissez en paix les romanciers consciencieux. S'il vous faut dévorer quelqu'un, dévorez nos petits musiciens, nos petits faiseurs de parades, ceux qui font vivre le public de platitudes.
+
+Un dernier mot. J'ai évité de parler de moi. Permettez-moi pourtant de vous dire que, si j'ai été parfois intolérant, comme vous me le reprochez, jamais je n'ai écrit un article qui pût écoeurer et faire rougir mes lectrices. Je vous défie de trouver dans la collection de L'Événement, une seule phrase signée de mon nom que vous ne puissiez mettre sous les yeux d'une jeune fille.
+
+Quand j'écris un livre, j'écris pour moi comme je l'entends ; mais, quand j'écris dans un journal, je le fais de façon à pouvoir être lu de tout le monde.
+
+Si j'avais une fille, monsieur, après avoir jeté un coup d'oeil sur le numéro du Figaro où se trouve votre lettre, j'aurais brûlé ce numéro.
+
+Émile Zola
+
+
+---
+
+::: WordSection
+[
+]{.calibre44}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin-polemiques/Zola5_image028.jpg){.calibre71}]{.calibre19}[
+
+[ÉTUDES BIOGRAPHIQUES ET CRITIQUES]{.calibre19}
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{.calibre72}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre18} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin-polemiques/Zola5_image029.jpg){.calibre74}]{.calibre18}
+
+## []{#_Toc368911247 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910761 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910275 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909789 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909303 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908817 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908331 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907845 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907359 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906873 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906387 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905901 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905415 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904929 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904443 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903957 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903471 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902985 .pcalibre .calibre2 .pcalibre1}[Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de « Thérèse Raquin »]{#_Toc368902499 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_60 .calibre30}
+
+
+::: WordSection
+*[
+]{.calibre36}*
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB"}
+
+Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de Thérèse Raquin
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911248 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910762 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910276 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909790 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909304 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908818 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908332 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907846 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907360 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906874 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906388 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905902 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905416 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904930 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904444 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903958 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903472 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902986 .pcalibre .calibre2 .pcalibre1}[La lettre de Sainte-Beuve à Émile Zola, 10 juin 1868]{#_Toc368902500 .pcalibre .calibre2 .pcalibre1} {#la-lettre-de-sainte-beuve-à-émile-zola-10-juin-1868 .calibre46 .sigil_not_in_toc}
+
+
+Cher Monsieur,
+
+Je ne sais si je vous enverrai cette lettre, car je ne me sens aucun droit de critique privée sur Thérèse Raquin, et il me faudra bien une troisième sommation pour que je vous obéisse.
+
+Votre oeuvre est remarquable, consciencieuse, et, à certains égards même, elle peut faire époque dans l'histoire du roman contemporain.
+
+Selon moi, cependant, elle dépasse les limites, elle sort des conditions de l'art à quelque point de vue qu'on l'envisage ; et, en réduisant l'art à n'être que la seule et simple vérité, elle me paraît hors de cette vérité.
+
+Et tout d'abord, vous prenez une épigraphe que rien ne justifie dans le roman. Si le vice et la vertu ne sont que des produits comme le vitriol et le sucre, il s'ensuivrait qu'un crime expliqué et motivé comme celui que vous exposez n'est pas chose si miraculeuse et si monstrueuse, et on se demande dès lors pourquoi tout cet appareil de remords qui n'est qu'une transformation et une transposition du remords moral ordinaire, du remords chrétien, et une sorte d'enfer retourné.
+
+Dès les premières pages, vous décrivez le passage du Pont-Neuf : je connais ce passage autant que personne et par toutes les raisons qu'un jeune homme a pu avoir d'y rôder. Eh bien ! Ce n'est pas vrai, c'est fantastique de description : c'est comme la rue Soli, de Balzac. Le passage est plat, banal, laid, surtout étroit, mais il n'a pas toute cette noirceur profonde et ces teintes à la Rembrandt que vous lui prêtez. C'est là une manière aussi d'être infidèle.
+
+Vos personnages d'ailleurs, si vous les avez faits exprès plats et vulgaires (excepté la jeune femme qui a quelque chose d'algérien) sont ressemblants, bien présentés, analysés en conscience, copiés avec probité. A vrai dire, si peu idéaliste que je sois, je me demande bien si le crayon ou la plume ont nécessairement pour objet de choisir des objets vulgaires, sans nul agrément (je me le suis même demandé déjà au sujet de Germinie Lacerteux de mes amis les Goncourt) ; je me suis persuadé qu'un peu d'agréable, un peu de touchant, n'est point entièrement inutile, ne fût-ce que sur un point ou deux, dans un tableau même qu'on veut faire parfaitement triste et terne. Mais enfin je passe. Il y a un endroit où je trouve particulièrement du talent, au sens de l'invention : c'est dans la hardiesse des rendez-vous : la page sur le chat, sur ce qu'il pourrait dire, est charmante et cela ne rentre plus dans la copie pure et simple.
+
+Je trouve encore un grand talent d'analyse et de vraisemblance (le genre admis) dans les scènes préparatoires de la noyade, et dans celles qui suivent immédiatement.
+
+Mais là je m'arrête, et le roman me semble faire fausse route. Je prétends qu'ici vous manquez à l'observation ou à la divination. C'est fait de tête et non d'après nature. Et, en effet, les passions sont féroces. Une fois déchaînées, tant qu'elles ne sont pas assouvies, elles n'ont pas de cesse. Si Clytemnestre et Egisthe, s'aimant à la fureur, n'avaient pu se posséder complètement qu'à côté du cadavre tout chaud et saignant d'Agamemnon, le cadavre d'Agamemnon ne les aurait pas gênés, au moins pour les premières nuits. Aussi je ne comprends rien à vos amants, à leurs remords et à leur refroidissement subit, avant d'être arrivés à leurs fins. Ah ! Plus tard, je ne dis pas. Quand la passion principale est satisfaite, on réfléchit, on voit les inconvénients : le chapitre des remords commence...
+
+Vous voyez mes objections, cher Monsieur. Ce qui ne m'aveugle pas sur le mérite technique et d'exécution de bien des pages. Je désirerais seulement que le mot de vautrer se rencontrât moins souvent, et que cet autre mot brutal, qui reparaît sans cesse, ne vînt pas accuser la note dominante, qui n'a nullement besoin de ce rappel pour ne pas se laisser oublier.
+
+Vous avez fait un acte hardi : vous avez bravé dans cette oeuvre et le public et aussi la critique. Ne vous étonnez pas de certaines colères ; le combat est engagé ; votre nom y est signalé : de tels conflits se terminent, quand un auteur de talent le veut bien, par un autre ouvrage, également hardi, mais un peu détendu, où le public et la critique croient voir une concession à leur gré, et tout finit par un de ces traités de paix qui consacrent une réputation de plus.
+
+Tout à vous.
+
+Sainte-Beuve P.S. -- Voici un aphorisme moral qui, selon moi, atteint votre roman par le milieu : « Une passion, une fois déchaînée, ne s'éteint point, ne se coupe point brusquement par le remords, comme la fièvre par la quinine, avant de s'être assouvie. »
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[THÉRÈSE RAQUIN (POLÉMIQUES)]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Un échange de lettres entre Sainte-Beuve et Émile Zola, à propos de Thérèse Raquin
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911249 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910763 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910277 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909791 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909305 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908819 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908333 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907847 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907361 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906875 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906389 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905903 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905417 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904931 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904445 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903959 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903473 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902987 .pcalibre .calibre2 .pcalibre1}[La réponse de Zola à Sainte-Beuve, 13 juillet 1868]{#_Toc368902501 .pcalibre .calibre2 .pcalibre1} {#la-réponse-de-zola-à-sainte-beuve-13-juillet-1868 .calibre46 .sigil_not_in_toc}
+
+
+Paris, 13 juillet 1868.
+
+
+Monsieur et cher maître,
+
+Si je me suis permis d'insister pour avoir votre opinion sur Thérèse Raquin, c'est que je savais à l'avance combien votre critique serait juste et sympathique. Les jeunes gens comme moi ont tout à gagner à connaître le jugement de leurs illustres aînés sur leur compte. J'accepte vos critiques avec plus de reconnaissance encore que vos éloges.
+
+Permettez-moi, cependant, de me défendre contre un de vos blâmes. Vous me dites que j'ai menti à la vérité en ne jetant pas Laurent et Thérèse dans les bras l'un de l'autre, le lendemain du meurtre. Si j'ai cru devoir les séparer, leur donner des répugnances et des lassitudes, c'est que je n'ai pas voulu peindre une passion tragique, âpre, insatiable. Lorsqu'ils tuent, ils sont déjà presque dégoûtés l'un de l'autre. Leur crime est une fatalité à laquelle ils ne peuvent échapper. Ils éprouvent comme un affaissement après l'assassinat, comme une paix d'être débarrassés d'un effort trop violent pour leur nature. Je ne sais si je m'exprime clairement. Mes héros n'ont que des instincts ; plus tard, quand ils se marient après une année d'indifférence, ils obéissent aux conséquences des faits. A la vérité, ils ne s'aiment jamais, dans le sens français et italien du mot. Le jour où Laurent jette Thérèse sur le carreau, il a à peine des désirs ; toujours cette femme le troublera ; quand il la possèdera tout à fait, elle achèvera de détraquer son être. Le drame est surtout physiologique. Le meurtre est pour ces tempéraments une crise aiguë, qui les laisse hébétés et comme étrangers. D'ailleurs, lorsqu'ils tuent, ils ne tuent déjà plus pour se posséder ; je crois que tout acte violent, dans des natures lâches et vulgaires, s'accomplit mécaniquement et amène un oubli presque complet des causes et du but. Ils tuent parce qu'ils se sont promis de tuer et ils s'épousent plus tard parce que leur mariage est un résultat nécessaire du meurtre. S'ils tardent pendant plus d'une année, c'est qu'à la vérité ils ne s'aiment pas, c'est qu'ils sont secoués et écoeurés, c'est qu'ils ne se retrouvent plus eux-mêmes, et qu'ils ont besoin d'un long temps pour éprouver de nouveau le désir de leurs étreintes. Ôtez-leur la passion tragique, faites-en des brutes, et vous comprendrez leurs crises et leurs affaissements. Je sais bien que tout cela est très particulier, très exceptionnel ; je l'ai voulu ainsi, à la suite de certaines observations et de certaines intuitions que je crois vraies.
+
+Me pardonnez-vous, Monsieur et cher maître, d'avoir cherché à me défendre, bien mal sans doute, au courant de la plume. Vous avez mille fois raison : je sais bien qu'il me faut écrire une autre oeuvre, mieux équilibrée, plus vraie et plus étudiée. Le malheur est que ma plume est mon seul gagne-pain, et que je ne puis travailler aux ouvrages que je rêve. La lutte est rude pour moi. Quand je serai assez connu, quand le livre pourra me faire vivre, quand il me sera permis de quitter le journalisme pour lequel je ne suis pas fait, alors seulement je me mettrai sérieusement à la besogne.
+
+Vous m'avez donné quelques espérances, et je vous remercie mille fois.
+
+Veuillez me croire, Monsieur et cher maître, votre tout reconnaissant et tout dévoué.
+
+
+::: WordSection
+[
+]{.calibre44}
+
+
+[[Liste des études biographiques et critiques]{.calibre18}](../Text/Zola5_split_000.htm){.pcalibre .pcalibre1}[

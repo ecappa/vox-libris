@@ -1,0 +1,76 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 03"
+slug_section: "chapitre-03"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Les trente-six Républiques
+Ainsi, me voilà parjure et renégat. J'ai trahi la République.
+
+Un seul mot. Laquelle ?
+
+Il faut s'entendre, n'est-ce pas ? Car, lorsqu'on trahit quelque chose sans le vouloir, on aime à chercher ce qu'on a bien pu trahir.
+
+Je suis très perplexe. Serait-ce la République de M. Gambetta que j'ai trahie, cette République optimiste et satisfaite, qui jouit de sa victoire et répond béatement de l'avenir, au milieu des secousses quotidiennes dont le pays s'exaspère peu à peu ?
+
+Serait-ce plutôt la République de M. Henri Rochefort, qui déclare imbécile et infâme la République de M. Gambetta, et qui, chaque matin, mange u la fourchette une tranche grillée du dictateur, en jurant que nous allons à tous les abîmes ?
+
+Ou bien encore serait-ce la République de M. Clemenceau que j'aurais vendue pour de forts appointements dans ce journal ? La République de M. Clemenceau dévore aussi la République de M. Gambetta, tout en étant secrètement furieuse contre la République de M. Rochefort, dont les drôleries amusantes ont coupé net tout succès aux formules sévères.
+
+Je me tâte, je descends dans les nuances, je me demande si je n'aurais pas fait mon mauvais coup contre la République de l'officieux M. Hébrard, une mixture de protestantisme et de libéralisme à l'usage de la bourgeoisie prudente ? ou peut-être contre la République de M. About, un autre officieux, qui est une preuve bien fâcheuse du danger que court le talent d'un romancier à rêver une fortune politique ?
+
+Mais, j'y songe ! ne serait-ce pas contre la République de M. Victor Hugo, le baiser universel des peuples, la fin des guerres, Hernani en pourpoint abricot bénissant le monde, tout le rêve superbe et innocent d'un bon vieillard ? À moins que ce ne soit contre la République de celui-ci, la République de celui-là ou la République de cet autre, car il y en a tant, de ces Républiques, que je me lasserais à les dénombrer sans espoir de pousser jamais jusqu'au bout mon examen de conscience.
+
+Grand Dieu ! quel est mon tourment : comment arriver à connaître ma faute, afin d'en faire publiquement pénitence ? Il est vrai que je commence à soupçonner une chose : c'est que j'ai peut-être bien trahi toutes ces Républiques-là. Voici qui me consolerait et qui me rendrait quelque estime pour, moi-même. Trahir la République, après l'avoir aimée et tout en l'aimant encore, ce serait d'un vilain monsieur ; mais trahir les Républiques d'un tas d'ambitieux, diable ! cela change la question, et il n'y a plus là que la campagne courageuse d'un homme las et indigné, qui, décidé à ne rien accepter d'aucun gouvernement, peut se donner la joie rare de dire tout haut ce qu'il pense.
+
+Eh quoi ! voilà des gaillards qui s'exterminent entre eux, qui se jettent leurs Républiques à la tête comme des coups de massue, et il ne me sera pas permis, à moi qui passe tranquillement, de rire que leurs Républiques, casse-tête ou poignard, ne me plaisent pas du tout ! Ils trouveront très patriotique de s'égorger mutuellement devant l'Europe assemblée, et ils crieront à la trahison, si un brave homme, exaspéré par leur tapage, tombe sur eux tous pour les séparer ou pour les conduire au poste ! Ils prendront, chacun dans son coin, le droit de mettre en poudre la République du voisin, au profit d'une République toute personnelle ; puis, si un nouveau venu, par amour de la propreté et de la logique, veut donner un coup de balai général, les renvoyer dos à dos, en se contentant de dire en face à toute la bande les vérités dont ils s'accablent les uns les autres, ils se tourneront en masse contre ce nouveau venu et voudront le supprimer, parce qu'il est seul et qu'il a du bon sens !
+
+En vérité, soyons de bonne foi. Est-ce que j'écrirai jamais, contre la République de M. Gambetta, les diatribes violentes de M. Henri Rochefort ? Est-ce que je me permettrai jamais, contre la République de M. Henri Rochefort les insinuations perfides des journaux de M. Gambetta ? Si je voulais être inconvenant, je n'aurais qu'à reproduire les injures que ces bons républicains échangent. Tous traîtres alors ! Tous tapent sur la République, quand elle n'est pas leur République. Eh bien ! n'ai-je pas dès lors le droit de taper sur leurs Républiques, si cela me plaît, du moment que leurs Républiques ne sont pas ma République ?
+
+À la fin, je m'insurge. Comment ! ces gens auront chacun une République à l'usage de ses goûts et de ses ambitions, une jolie petite République bien cultivée, grassement fertile comme une ferme en Reauce ; et je ne pourrai pas honnêtement avoir aussi ma République, une République qui soit bien à moi, et dont je ferai ce qu'il me plaira ! Cela, par hasard, me serait-il défendu, parce que je ne suis ni député, ni ministre, ni Président ? Pour avoir sa République à soi, faut-il déposer chez le commissaire de son quartier un papier où l'on s'engage à ambitionner au moins une place de garde champêtre ? Est-il absolument nécessaire de compromettre le pays, de rêver des révolutions et des guerres, et ne saurait-on être un brave homme de républicain, sans vouloir mettre la France dans sa poche ?
+
+Mon Dieu : je sais bien que je suis très ridicule. Imaginez-vous que je voudrais une République des supériorités ; moins de gâchis, moins de petits hommes et des appétits moins gros. Je voudrais encore que l'ambition de certains personnages nous laissât enfin respirer, après dix ans de secousses ; je voudrais jouir de notre République actuelle, sans être bousculé tous les trois mois, pour de simples questions de personnes, et lorsque la France n'a rien à y gagner. En un mot, je voudrais qu'on établît scientifiquement la nation sur la base solide du gouvernement républicain, après avoir déterminé ses besoins, d'après la race, l'histoire et le milieu contemporain.
+
+C'est là une République d'une telle drôlerie, que mes frères et amis, pour me l'avoir entendu réclamer une fois, s'en tiennent encore les côtes, au bout de deux années de plaisanteries et de ricanements. Comment ? monsieur, vous ne voulez pas de portefeuille, et vous vous occupez de ces choses ? Vous apportez une solution dans laquelle vous ne seriez rien, pas même Président ? Mais, c'est le comble de la démence ! Commencez par être député, jetez-vous dans les discussions les plus passionnantes, de façon à entraver les affaires ; brouillez tout, afin d'être ministre, et quand vous serez ministre, tenez la France à la gorge pour garder votre portefeuille : puis, comme vous n'auriez plus aucune raison d'être, si le calme renaissait, arrangez-vous de façon que nous vivions toujours sur un pied de guerre à l'intérieur. Voilà, monsieur, la République dont on ne rit pas.
+
+Je les connais, les boutiques républicaines, où l'on m'accuse de n'être pas resté.
+
+Il y a la boutique républicaine opportuniste. Maison grave, et où il est défendu de rire, car les fortes têtes du parti ont compris que, pour avoir tous les badauds de France, il fallait lutter d'ennui solennel avec les antiques organes des gouvernements déchus. On y épluche soigneusement les articles des rédacteurs, on y fait la guerre aux virgules qui ne seraient pas parfaitement orthodoxes. Certes, on peut y assommer les intransigeants de toutes les nuances, pourvu que ce soit en prose compacte ; mais il y est défendu, sous peine de mort, de toucher au maître, au dieu et à la ribambelle de ses saints, dont l'espèce est extraordinairement nombreuse et variée.
+
+Il y a la boutique républicaine intransigeante. Là, permission entière de mettre en compote le dieu et son paradis ; même obligation absolue de le faire au moins trois fois par semaine, ce qui dégénère en corvée désagréable. L'allure y est plus libre, débraillée même. Seulement, on jure, avant d'entrer, de s'agenouiller chaque matin devant le peuple et de le déclarer très grand, très beau, très bon, la perfection et l'immensité même. C'est une religion, une de ces idoles hindoues aux mille bras dont il faut baiser toutes les mains. Je connais des garçons d''esprit qui sont devenus enragés à pratiquer cette religion.
+
+Il y a la boutique républicaine romantique. Un autre bon dieu y trône sur un piédestal de granit. Des hommes d'armes l'entourent, des malins qui vivent de lui comme des brahmanes de leur temple. Ceux-là ont simplifié les choses : ils n'acceptent dans leur comptoir que des commis plus médiocres qu'eux, de façon à rester les seuls forts devant le public. D'ailleurs, ils exigent, aux pieds de leur bon dieu, un tel aplatissement, que tout garçon de quelque fierté se révolte et les lâche. L'époque actuelle les déborde, ils ont pris une tactique de silence qui, après avoir été très habile, devient désastreuse, car on les oublie. Au fond, je crois qu'ils demandent uniquement à achever leur grosse fortune.
+
+Il y a la boutique républicaine doctrinaire. On y vend des sièges au Sénat et des fauteuils à l'Académie. Mais il faut être bien sage. En littérature, le gris est y de rigueur ; une traduction de quelque roman anglais illisible y réussira toujours beaucoup plus qu'une de nos œuvres vivantes. En politique, on y réalise des miracles d'équilibre, on a la prétention d'y représenter cette excellente bourgeoisie française, qui flotte de la révolution à la réaction, sans savoir exactement ce qu'elle veut, si ce n'est de gagner de l'argent, quand elle n'en a pas, et de le garder, quand elle en a. Au fond, je soupçonne les doctrinaires d'être, sauf peut-être quelques rares convaincus, d'aimables sceptiques qui ont mis en coupe l'éternelle jobarderie de notre belle France.
+
+Il y a la boutique républicaine pédagogique. Gare les coups de férule ! Il en pleut dans tous les articles de ces pions devenus journalistes. Ce sont des coupeurs de cheveux en quatre, des hommes très fins, si fins qu'on ne les voit plus à l'œil nu. Ils n'ont pas de génie, parce que cela manque de goût. Le meilleur d'entre eux a, heureusement pour lui, un tempérament moins délicat, ce qui lui permet d'être quelqu'un. Le pis est qu'en entrant là, on est obligé d'épouser toutes sortes d'opinions plus ou moins légères à porter, et de professer publiquement que le patron de l'endroit a encore un talent qui, hélas ! me semble être resté enseveli sous les décombres de l'Empire.
+
+Je ne parle pas des autres boutiques, des succursales républicaines, où règnent des dieux plus petits, et où l'on vend des opinions plus avariées. Derrière, il y a toujours ou un financier ou un homme politique qu'il faut encenser. La vérité n'y est permise que lorsqu'elle ne gêne ni les actionnaires ni les fermiers d'annonces. Quand on y a égorgé les adversaires de l'homme qui paye, et présenté cet homme, souvent imbécile, comme l'unique sauveur possible de la France, on peut d'ailleurs y défendre toutes les libertés.
+
+Eh bien ! j'avais une vieille idée dans un coin de ma cervelle, une idée folle de poète, qui était de dire un beau jour la vérité à tout le monde. Je sais bien que c'est malhonnête et incongru, mais que voulez-vous ? on ne se refait pas. S'il me plaisait d'écrire ce que je pense sur les opportunistes, j'avoue qu'il m'était dur d'acheter ce droit en m'interdisant de m'exprimer avec la même liberté sur les intransigeants. Et ainsi de suite, je n'aurais pu trouver une seule maison républicaine qui tolérât ma campagne. C'est ainsi que, pour contenter ma vieille idée, j'ai accepté l'hospitalité large du *Figaro*, à la suite de circonstances que je n'ai pas provoquées et que j'ai dû subir. Toute l'histoire de ma grande trahison est là.
+
+Mais que pensez-vous de ce traître qui lâche la République juste à l'heure où la République commence à donner des dividendes ? Hein ! quel affamé, quel homme de lucre et de pillage. Pourquoi ne dit-on pas que j'ai médité mon coup, que depuis dix ans je projette de m'en aller dès que les autres se mettraient à remplir leurs poches ?
+
+Vous voyez d'ici le calcul. Chaque matin, des républicains, qui ne trahissent pas, ceux-là, font queue à la porte des ministères et attendent les rations comme des pauvres à la porte d'un couvent. On se rue, on se pousse à l'assaut des places. C'est l'heure mauvaise où la conscience des hommes les plus honnêtes fléchit sous la fièvre chaude de l'ambition. De toutes parts, des transfuges arrivent ; on renie l'Empire. On crache sur la Monarchie, parce que la République est là, les mains ouvertes, disposant clés fortunes. Et c'est alors que le fameux traître, pour le seul plaisir de dire la vérité, abandonne sa légitime part du butin et s'expose de gaieté de cœur aux injures et aux calomnies de la bande triomphante. Voilà un rusé gaillard qui mérite d'être pendu !
+
+Aussi faut-il voir leurs airs effarés. Quelle faute ! Lorsque tant de gens feraient tout pour effacer d'un trait leur passé de réactionnaires, on ne comprend pas qu'un républicain quitte la table dès le potage. Cela ne peut être qu'un méchant homme, et son manque d'appétit devient une grave insulte pour tous ceux qui ont faim. Puis, il y a les naïfs qui m'accusent de manquer de reconnaissance, moi que les républicains auraient fait ce que je suis. La bonne histoire ! Quand donc les républicains, je parle du tas, ont-ils compris quelque chose à la littérature ? et que peut attendre de leur part un libre esprit, si ce n'est une persécution en règle ? J'ai mon grenier plein de leurs injures.
+
+Au demeurant, je n'ai pris aucun engagement, et comme on ne m'a rien donné, je ne dois rien. Puis la querelle est plus haute, je ne la rapetisse pas à mon humble personnalité. Dans notre époque de trouble, il est bon que des hommes de courage se lèvent et qu'ils disent ce qu'ils pensent. Si, au milieu de beaucoup d'erreur, ils propagent une seule vérité, ils auront bien mérité de la patrie.
+
+Il est une vérité qu'il faut dire aujourd'hui sur les hommes qui nous gouvernent. Je vois que leur ambition a besoin de la France, mais je ne vois pas du tout que la France éprouve le moindre besoin de leur ambition.
+
+Et, s'ils m'accusent encore de trahir la République, je leur dirai de s'entendre d'abord et de fonder la République. On ne peut trahir ce qui n'existe pas. Quant à leurs trente-six Républiques, elles se massacrent trop gaillardement entre elles, pour qu'un passant ne leur donne pas à toutes le coup de grâce, par charité.

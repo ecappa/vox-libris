@@ -1,0 +1,63 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5932 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LA MORT D'OLIVIER BÉCAILLE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5933 .calibre35}
+
+## []{#_Toc368832958 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832684 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832410 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832136 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831862 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831588 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831314 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831040 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830766 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830492 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830218 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829944 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829670 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829396 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829122 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828848 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828574 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828300 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368828026 .pcalibre .calibre3 .pcalibre1} {#i .calibre43}
+
+
+C\'est un samedi, à six heures du matin que je suis mort après trois jours de maladie. Ma pauvre femme fouillait depuis un instant dans la malle, où elle cherchait du linge.
+
+Lorsqu\'elle s\'est relevée et qu\'elle m\'a vu rigide, les yeux ouverts, sans un souffle, elle est accourue, croyant à un évanouissement, me touchant les mains, se penchant sur mon visage. Puis, la terreur l\'a prise ; et, affolée elle a bégayé, en éclatant en larmes :
+
+--- Mon Dieu ! Mon Dieu ! Il est mort !
+
+J\'entendais tout, mais les sons affaiblis semblaient venir de très loin. Seul, mon oeil gauche percevait encore une lueur confuse, une lumière blanchâtre où les objets se fondaient ; l\'oeil droit se trouvait complètement paralysé.
+
+C\'était une syncope de mon être entier comme un coup de foudre qui m\'avait anéanti. Ma volonté était morte, plus une fibre de ma chair ne m\'obéissait. Et, dans ce néant, au−dessus de mes membres inertes, la pensée seule demeurait, lente et paresseuse, mais d\'une netteté parfaite. Ma pauvre Marguerite pleurait, tombée à genoux devant le lit, répétant d\'une voix déchirée :
+
+--- Il est mort, mon Dieu ! Il est mort !
+
+Était−ce donc la mort, ce singulier état de torpeur, cette chair frappée d\'immobilité, tandis que l\'intelligence fonctionnait toujours ? Était−ce mon âme qui s\'attardait ainsi dans mon crâne, avant de prendre son vol ? Depuis mon enfance, j\'étais sujet à des crises nerveuses. Deux fois, tout jeune, des fièvres aiguës avaient failli m\'emporter. Puis, autour de moi, on s\'était habitué à me voir maladif ; et moi−même j\'avais défendu à Marguerite d\'aller chercher un médecin, lorsque je m\'étais couché le matin de notre arrivée à Paris, dans cet hôtel meublé de la rue Dauphine. Un peu de repos suffirait, c\'était la fatigue du voyage qui me courbaturait ainsi. Pourtant, je me sentais plein d\'une angoisse affreuse. Nous avions quitté brusquement notre province, très pauvres, ayant à peine de quoi attendre les appointements de mon premier mois, dans l\'administration où je m\'étais assuré une place. Et voilà qu\'une crise subite m\'emportait !
+
+Était−ce bien la mort ? Je m\'étais imaginé une nuit plus noire, un silence plus lourd. Tout petit, j\'avais déjà peur de mourir. Comme j\'étais débile et que les gens me caressaient avec compassion, je pensais constamment que je ne vivrais pas, qu\'on m\'enterrerait de bonne heure. Et cette pensée de la terre me causait une épouvante, à laquelle je ne pouvais m\'habituer, bien qu\'elle me hantât nuit et jour. En grandissant, j\'avais gardé cette idée fixe. Parfois, après des journées de réflexion, je croyais avoir vaincu ma peur. Eh bien !
+
+On mourait, c\'était fini ; tout le monde mourait un jour ; rien ne devait être plus commode ni meilleur. J\'arrivais presque à être gai, je regardais la mort en face. Puis, un frisson brusque me glaçait, me rendait à mon vertige, comme si une main géante m\'eût balancé au−dessus d\'un gouffre noir.
+
+C\'était la pensée de la terre qui revenait et emportait mes raisonnements. Que de fois, la nuit, je me suis réveillé en sursaut, ne sachant quel souffle avait passé sur mon sommeil, joignant les mains avec désespoir, balbutiant : " Mon Dieu ! Mon Dieu ! Il faut mourir ! " Une anxiété me serrait la poitrine, la nécessité de la mort me paraissait plus abominable, dans l\'étourdissement du réveil. Je ne me rendormais qu\'avec peine, le sommeil m\'inquiétait, tellement il ressemblait à la mort. Si j\'allais dormir toujours ! Si je fermais les yeux pour ne les rouvrir jamais !
+
+J\'ignore si d\'autres ont souffert ce tourment. Il a désolé ma vie. La mort s\'est dressée entre moi et tout ce que j\'ai aimé. Je me souviens des plus heureux instants que j\'ai passés avec Marguerite. Dans les premiers mois de notre mariage, lorsqu\'elle dormait la nuit à mon côté, lorsque, je songeais à elle en faisant des rêves d\'avenir, sans cesse l\'attente d\'une séparation fatale gâtait mes joies, détruisait mes espoirs. Il faudrait nous quitter, peut−être demain, peut−être dans une heure. Un immense découragement me prenait, je me demandais à quoi bon le bonheur d\'être ensemble, puisqu\'il devait aboutir à un déchirement si cruel. Alors, mon imagination se plaisait dans le deuil. Qui partirait le premier, elle ou moi ? Et l\'une ou l\'autre alternative m\'attendrissait aux larmes, en déroulant le tableau de nos vies brisées. Aux meilleures époques de mon existence, j\'ai eu ainsi des mélancolies soudaines que personne ne comprenait. Lorsqu\'il m\'arrivait une bonne chance, on s\'étonnait de me voir sombre. C\'était que tout d\'un coup, l\'idée de mon néant avait traversé ma joie. Le terrible : "À quoi bon ?" sonnait comme un glas à mes oreilles.
+
+Mais le pis de ce tourment, c\'est qu\'on l\'endure dans une honte secrète. On n\'ose dire son mal à personne. Souvent le mari et la femme, couchés côte à côte, doivent frissonner du même frisson, quand la lumière est éteinte ; et ni l\'un ni l\'autre ne parle, car on ne parle pas de la mort, pas plus qu\'on ne prononce certains mots obscènes. On a peur d\'elle jusqu\'à ne point la nommer, on la cache comme on cache son sexe.
+
+Je réfléchissais à ces choses, pendant que ma chère Marguerite continuait à sangloter. Cela me faisait grand peine de ne savoir comment calmer son chagrin, en lui disant que je ne souffrais pas. Si la mort n\'était que cet évanouissement de la chair, en vérité j\'avais eu tort de la tant redouter. C\'était un bien−être égoïste, un repos dans lequel j\'oubliais mes soucis. Ma mémoire surtout avait pris une vivacité extraordinaire. Rapidement, mon existence entière passait devant moi, ainsi qu\'un spectacle auquel, je me sentais désormais étranger. Sensation étrange et curieuse qui m\'amusait : on aurait dit une voix lointaine qui me racontait mon histoire.
+
+Il y avait un coin de campagne, près de Guérande, sur la route de Piriac, dont le souvenir me poursuivait. La route tourne, un petit bois de pins descend à la débandade une pente rocheuse. Lorsque j\'avais sept ans, j\'allais là avec mon père, dans une maison à demi écroulée, manger des crêpes chez les parents de Marguerite, des paludiers qui vivaient déjà péniblement des salines voisines. Puis, je me rappelais le collège de Nantes où j\'avais grandi, dans l\'ennui des vieux murs, avec le continuel désir du large horizon de Guérande, les marais salants à perte de vue, au bas de la ville, et la mer immense, étalée sous le ciel. Là, un trou noir se creusait : mon père mourait, j\'entrais à l\'administration de l\'hôpital comme employé, je commençais une vie monotone, ayant pour unique joie mes visites du dimanche à la vieille maison de la route de Piriac. Les choses y marchaient de mal en pis, car les salines ne rapportaient presque plus rien, et le pays tombait à une grande misère. Marguerite n\'était encore qu\'une enfant. Elle m\'aimait, parce que, je la promenais dans une brouette. Mais, plus tard, le matin où je la demandai en mariage, je compris, à son geste effrayé, qu\'elle me trouvait affreux. Les parents me l\'avaient donnée tout de suite ; ça les débarrassait. Elle, soumise, n\'avait pas dit non. Quand elle se fut habituée à l\'idée d\'être ma femme, elle ne partit plus trop ennuyée. Le jour du mariage, à Guérande, je me souviens qu\'il pleuvait à torrents ; et, quand nous rentrâmes, elle dut se mettre en jupon, car sa robe était trempée.
+
+Voilà toute ma jeunesse. Nous avons vécu quelque temps là−bas. Puis, un jour, en rentrant, je surpris ma femme pleurant à chaudes larmes. Elle s\'ennuyait, elle voulait partir. Au bout de six mois, j\'avais des économies, faites sou à sou, à l\'aide de travaux supplémentaires ; et, comme un ancien ami de ma famille s\'était occupé de lui trouver une place à Paris, j\'emmenai la chère enfant, pour qu\'elle ne pleurât plus. En chemin de fer, elle riait. La nuit, la banquette des troisièmes classes étant très dure, je la pris sur mes genoux, afin qu\'elle pût dormir mollement.
+
+C\'était là le passé. Et, à cette heure, je venais de mourir sur cette couche étroite d\'hôtel meublé, tandis que ma femme, tombée à genoux sur le carreau, se lamentait. La tache blanche que percevait mon oeil gauche pâlissait peu à peu ; mais je me rappelais très nettement la chambre. À gauche, était la commode ; à droite, la cheminée, au milieu de laquelle une pendule détraquée, sans balancier, marquait dix heures six minutes. La fenêtre s\'ouvrait sur la rue Dauphine, noire et profonde. Tout Paris passait là, et dans un tel vacarme, que j\'entendais les vitres trembler. Nous ne connaissions personne à Paris. Comme nous avions pressé notre départ, on ne m\'attendait que le lundi suivant à mon administration. Depuis que j\'avais dû prendre le lit, c\'était une étrange sensation que cet emprisonnement dans cette chambre, où le voyage venait de nous jeter, encore effarés de quinze heures de chemin de fer étourdis du tumulte des rues. Ma femme m\'avait soigné avec sa douceur souriante ; mais je sentais combien elle était troublée. De temps à autre, elle s\'approchait de la fenêtre, donnait un coup d\'oeil à la rue, puis revenait toute pâle, effrayée par ce grand Paris dont elle ne connaissait pas une pierre et qui grondait si terriblement. Et qu\'allait elle faire, si je ne me réveillais plus ? Qu\'allait−elle devenir dans cette ville immense, seule, sans un soutien, ignorante de tout ?
+
+Marguerite avait pris une de mes mains qui pendait, inerte au bord du lit ; et elle la baisait, et elle répétait follement :
+
+--- Olivier, réponds−moi\... Mon Dieu ! Il est mort ! Il est mort !
+
+La mort n\'était donc pas le néant, puisque j\'entendais et que je raisonnais. Seul, le néant m\'avait terrifié, depuis mon enfance. Je ne m\'imaginais pas la disparition de mon être, la suppression totale de ce que j\'étais ; et cela pour toujours, pendant des siècles et des siècles encore, sans que jamais mon existence pût recommencer. Je frissonnais parfois, lorsque je trouvais dans un journal une date future du siècle prochain : je ne vivrais certainement plus à cette date, et cette année d\'un avenir que je ne verrais pas, où je ne serais pas, m\'emplissait d\'angoisse. N\'étais−je pas le monde, et tout ne croulerait−il pas, lorsque je m\'en irais ?
+
+Rêver de la vie dans la mort, tel avait toujours été mon espoir. Mais ce n\'était pas la mort sans doute. J\'allais certainement me réveiller tout à l\'heure. Oui, tout à l\'heure, je me pencherais et je saisirais Marguerite entre mes bras, pour sécher ses larmes. Quelle joie de nous retrouver ! Et comme nous nous aimerions davantage ! Je prendrais encore deux jours de repos, puis j\'irais à mon administration. Une vie nouvelle commencerait pour nous, plus heureuse, plus large. Seulement, je n\'avais pas de hâte. Tout à l\'heure, j\'étais trop accablé. Marguerite avait tort de se désespérer ainsi, car je ne me sentais pas la force de tourner la tête sur l\'oreiller pour lui sourire. Tout à l\'heure, lorsqu\'elle dirait de nouveau :
+
+--- Il est mort ! Mon Dieu ! Il est mort !
+
+Je l\'embrasserais, je murmurerais très bas, afin de ne pas l\'effrayer :
+
+--- Mais non, chère enfant. Je dormais. Tu vois bien que je vis et que je t\'aime.

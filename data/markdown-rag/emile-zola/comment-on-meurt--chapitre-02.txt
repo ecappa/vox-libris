@@ -1,0 +1,98 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "COMMENT ON MEURT"
+slug_oeuvre: "comment-on-meurt"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+COMMENT ON MEURT
+
+[Liste des contes et nouvelles
+
+!
+
+## II
+Madame Guérard est veuve. Son mari, qu'elle a perdu depuis huit ans, était magistrat. Elle appartient à la haute bourgeoisie et possède une fortune de deux millions. Elle a trois enfants, trois fils, qui, à la mort de leur père, ont hérité chacun de cinq cent mille francs. Mais ces fils, dans cette famille sévère, froide et guindée, ont poussé comme des rejetons sauvages, avec des appétits et des fêlures venus on ne sait d'où. En quelques années, ils ont mangé leurs cinq cent mille francs. L'aîné, Charles, s'est passionné pour la mécanique et a gâché un argent fou en inventions extraordinaires. Le second, Georges, s'est laissé dévorer par les femmes. Le troisième, Maurice, a été volé par un ami, avec lequel il a entrepris de bâtir un théâtre. Aujourd'hui, les trois fils sont à la charge de la mère, qui veut bien les nourrir et les loger, mais qui garde sur elle par prudence les clefs des armoires.
+
+Tout ce monde habite un vaste appartement de la rue de Turenne, au Marais. Madame Guérard a soixante-huit ans. Avec l'âge, les manies sont venues. Elle exige, chez elle, une tranquillité et une propreté de cloître. Elle est avare, compte les morceaux de sucre, serre elle-même les bouteilles entamées, donne le linge et la vaisselle au fur et à mesure des besoins du service. Ses fils sans doute l'aiment beaucoup, et elle a gardé sur eux, malgré leurs trente ans et leurs sottises, une autorité absolue. Mais, quand elle se voit seule au milieu de ces trois grands diables, elle a des inquiétudes sourdes, elle craint toujours des demandes d'argent, qu'elle ne saurait comment repousser. Aussi a-t-elle eu soin de mettre sa fortune en propriétés foncières : elle possède trois maisons dans Paris et des terrains du côté de Vincennes. Ces propriétés lui donnent le plus grand mal ; seulement, elle est tranquille, elle trouve des excuses pour ne pas donner de grosses sommes à la fois.
+
+Charles, Georges et Maurice, d'ailleurs, grugent la maison le plus qu'ils peuvent. Ils campent là, se disputant les morceaux, se reprochant mutuellement leur grosse faim. La mort de leur mère les enrichira de nouveau ; ils le savent, et le prétexte leur semble suffisant pour attendre sans rien faire. Bien qu'ils n'en causent jamais, leur continuelle préoccupation est de savoir comment le partage aura lieu ; s'ils ne s'entendent pas, il faudra vendre, ce qui est toujours une opération ruineuse. Et ils songent à ces choses sans aucun mauvais désir, uniquement parce qu'il faut tout prévoir. Ils sont gais, bons enfants, d'une honnêteté moyenne ; comme tout le monde, ils souhaitent que leur mère vive le plus longtemps possible. Elle ne les gêne pas. Ils attendent, voilà tout.
+
+Un soir, en sortant de table, madame Guérard est prise d'un malaise. Ses fils la forcent de se coucher, et ils la laissent avec sa femme de chambre, lorsqu'elle leur assure qu'elle est mieux, qu'elle a seulement une grosse migraine. Mais, le lendemain, l'état de la vieille dame a empiré, le médecin de la famille, inquiet, demande une consultation. Madame Guérard est en grand danger. Alors, pendant huit jours, un drame se joue autour du lit de la mourante.
+
+Son premier soin, lorsqu'elle s'est vue clouée dans sa chambre par la maladie, a été de se faire donner toutes les clefs et de les cacher sous son oreiller. Elle veut, de son lit, gouverner encore, protéger ses armoires contre le gaspillage. Des luttes se livrent en elle, des doutes la déchirent. Elle ne se décide qu'après de longues hésitations. Ses trois fils sont là, et elle les étudie de ses yeux vagues, elle attend une bonne inspiration.
+
+Un jour, c'est dans Georges qu'elle a confiance. Elle lui fait signe d'approcher, elle lui dit à demi-voix :
+
+--- Tiens, voilà la clef du buffet, prends le sucre... Tu refermeras bien et tu me rapporteras la clef.
+
+Un autre jour, elle se défie de Georges, elle le suit du regard, dès qu'il bouge, comme si elle craignait de lui voir glisser les bibelots de la cheminée dans ses poches. Elle appelle Charles, lui confie une clef à son tour, en murmurant :
+
+--- La femme de chambre va aller avec toi. Tu la regarderas prendre des draps et tu refermeras toi-même.
+
+Dans son agonie, c'est là son supplice : ne plus pouvoir veiller aux dépenses de la maison. Elle se souvient des folies de ses enfants, elle les sait paresseux, gros mangeurs, le crâne fêlé, les mains ouvertes. Depuis longtemps, elle n'a plus d'estime pour eux, qui n'ont réalisé aucun de ses rêves, qui blessent ses habitudes d'économie et de rigidité. L'affection seule surnage et pardonne. Au fond de ses yeux suppliants, on lit qu'elle leur demande en grâce d'attendre qu'elle ne soit plus là, avant de vider ses tiroirs et de se partager son bien. Ce partage, devant elle, serait une torture pour son avarice expirante.
+
+Cependant, Charles, Georges et Maurice se montrent très bons. Ils s'entendent, de façon à ce qu'un d'eux soit toujours près de leur mère. Une sincère affection paraît dans leurs moindres soins. Mais, forcément, ils apportent avec eux les insouciances du dehors, l'odeur du cigare qu'ils ont fumé, la préoccupation des nouvelles qui courent la ville. Et l'égoïsme de la malade souffre de n'être pas tout pour ses enfants, à son heure dernière. Puis, lorsqu'elle s'affaiblit, ses méfiances mettent une gêne croissante entre les jeunes gens et elle. S'ils ne songeaient pas à la fortune dont ils vont hériter, elle leur donnerait la pensée de cet argent, par la manière dont elle le défend jusqu'au dernier souffle. Elle les regarde d'un air si aigu, avec des craintes si claires, qu'ils détournent la tête. Alors, elle croit qu'ils guettent son agonie ; et, en vérité, ils y pensent, ils sont ramenés continuellement à cette idée, par l'interrogation muette de ses regards. C'est elle qui fait pousser en eux la cupidité. Quand elle en surprend un rêveur, la face pâle, elle lui dit :
+
+--- Viens près de moi... À quoi réfléchis-tu ?
+
+--- À rien, mère.
+
+Mais il a eu un sursaut. Elle hoche lentement la tête, elle ajoute :
+
+--- Je vous donne bien du souci, mes enfants. Allez, ne vous tourmentez pas, je ne serai bientôt plus là.
+
+Ils l'entourent, ils lui jurent qu'ils l'aiment et qu'ils la sauveront. Elle répond que non, d'un signe entêté ; elle s'enfonce davantage dans sa défiance. C'est une agonie affreuse, empoisonnée par l'argent.
+
+La maladie dure trois semaines. Il y a déjà eu cinq consultations, on a fait venir les plus grandes célébrités médicales. La femme de chambre aide les fils de madame à la soigner ; et, malgré les précautions, un peu de désordre s'est mis dans l'appartement. Tout espoir est perdu, le médecin annonce que, d'une heure à l'autre, la malade peut succomber.
+
+Alors, un matin que ses fils la croient endormie, ils causent entre eux, près d'une fenêtre, d'une difficulté qui se présente. On est au 15 juillet, elle avait l'habitude de toucher elle-même les loyers de ses maisons, et ils sont fort embarrassés, ne sachant comment faire rentrer cet argent. Déjà, les concierges ont demandé des ordres. Dans l'état de faiblesse où elle est, ils ne peuvent lui parler d'affaires. Cependant, si une catastrophe arrivait, ils auraient besoin des loyers, pour parer à certains frais personnels.
+
+--- Mon Dieu ! dit Charles à demi voix, je vais, si vous le voulez, me présenter chez les locataires... Ils comprendront la situation, ils paieront.
+
+Mais Georges et Maurice paraissent peu goûter ce moyen. Eux aussi, sont devenus défiants.
+
+--- Nous pourrions t'accompagner, dit le premier. Nous avons tous les trois des dépenses à faire.
+
+--- Eh bien ! Je vous remettrai l'argent... Vous ne me croyez pas capable de me sauver avec, bien sûr !
+
+--- Non, mais il est bon que nous soyons ensemble. Ce sera plus régulier.
+
+Et ils se regardent, avec des yeux où luisent déjà les colères et les rancunes du partage. La succession est ouverte, chacun veut s'assurer la part la plus large. Charles reprend brusquement, en continuant tout haut les réflexions que ses frères font tout bas :
+
+--- Écoutez, nous vendrons, ça vaudra mieux... Si nous nous querellons aujourd'hui, nous nous mangerons demain.
+
+Mais un râle leur fait vivement tourner la tête. Leur mère s'est soulevée, blanche, les yeux hagards, le corps secoué d'un frisson. Elle a entendu, elle tend ses bras maigres, elle répète d'une voix épouvantée :
+
+--- Mes enfants... mes enfants...
+
+Et une convulsion la rejette sur l'oreiller, elle meurt dans la pensée abominable que ses fils la volent.
+
+Tous les trois, terrifiés, sont tombés à genoux devant le lit. Ils baisent les mains de la morte, ils lui ferment les yeux avec des sanglots. À ce moment, leur enfance leur revient au coeur, et ils ne sont plus que des orphelins. Mais cette mort affreuse reste au fond d'eux, comme un remords et comme une haine.
+
+La toilette de la morte est faite par la femme de chambre. On envoie chercher une religieuse pour veiller le corps. Pendant ce temps, les trois fils sont en courses ; ils vont déclarer le décès, commander les lettres de faire-part, régler la cérémonie funèbre. La nuit, ils se relaient et veillent chacun à son tour avec la religieuse. Dans la chambre, dont les rideaux sont tirés, la morte est restée étendue au milieu du lit, la tête roide, les mains croisées, un crucifix d'argent sur la poitrine. À côté d'elle, brûle un cierge. Un brin de buis trempe au bord d'un vase plein d'eau bénite. Et la veillée s'achève dans le frisson du matin. La religieuse demande du lait chaud, parce qu'elle n'est pas à son aise.
+
+Une heure avant le convoi, l'escalier s'emplit de monde. La porte cochère est tendue de draperies noires, à frange d'argent. C'est là que le cercueil est exposé, comme au fond d'une étroite chapelle, entouré de cierges, recouvert de couronnes et de bouquets. Chaque personne qui entre prend un goupillon dans un bénitier, au pied de la bière, et asperge le corps. À onze heures, le convoi se met en marche. Les fils de la défunte conduisent le deuil. Derrière eux, on reconnaît des magistrats, quelques grands industriels, toute une bourgeoisie grave et importante, qui marche à pas comptés, avec des regards obliques sur les curieux arrêtés le long des trottoirs. Il y a, au bout du cortège, douze voitures de deuil. On les compte, on les remarque beaucoup dans le quartier.
+
+Cependant, les assistants s'apitoyent sur Charles, Georges et Maurice, en habit, gantés de noir, qui marchent derrière le cercueil, la tête basse, le visage rougi de larmes. Du reste, il n'y a qu'un cri : ils enterrent leur mère d'une façon très convenable. Le corbillard est de troisième classe, on calcule qu'ils en auront pour plusieurs milliers de francs. Un vieux notaire dit avec un fin sourire :
+
+--- Si madame Guérard avait payé elle-même son convoi, elle aurait économisé six voitures.
+
+À l'église, la porte est tendue, les orgues jouent, l'absoute est donnée par le curé de la paroisse. Puis, quand les assistants ont défilé devant le corps, ils trouvent à l'entrée de la nef les trois fils rangés sur une seule file, placés là pour recevoir les poignées de main des assistants qui ne peuvent aller jusqu'au cimetière. Pendant dix minutes, ils ont le bras tendu, ils serrent des mains sans même reconnaître les gens, mordant leurs lèvres, rentrant leurs larmes. Et c'est un grand soulagement pour eux, lorsque l'église est vide et qu'ils reprennent leur marche lente derrière le corbillard.
+
+Le caveau de famille des Guérard est au cimetière du Père-Lachaise. Beaucoup de personnes restent à pied, d'autres montent dans les voitures de deuil. Le cortège traverse la place de la Bastille et suit la rue de la Roquette. Des passants lèvent les yeux, se découvrent. C'est un convoi riche, que les ouvriers de ce quartier populeux regardent passer, en mangeant des saucisses dans des morceaux de pain fendus.
+
+En arrivant au cimetière, le convoi tourne à gauche et se trouve tout de suite devant le tombeau : un petit monument, une chapelle gothique, qui porte sur son fronton ces mots gravés en noir : Famille Guérard. La porte en fonte découpée, grande ouverte, laisse apercevoir la table d'un autel, où des cierges brûlent. Autour du monument, d'autres constructions dans le même goût s'alignent et forment des rues ; on dirait la devanture d'un marchand de meubles, avec des armoires, des commodes, des secrétaires, fraîchement terminés et rangés symétriquement à l'étalage. Les assistants sont distraits, occupés de cette architecture, cherchant un peu d'ombre sous les arbres de l'allée voisine. Une dame s'est éloignée pour admirer un rosier magnifique, un bouquet fleuri et odorant, qui a poussé sur une tombe.
+
+Cependant, le cercueil a été descendu. Un prêtre dit les dernières prières, tandis que les fossoyeurs, en veste bleue, attendent à quelques pas. Les trois fils sanglotent, les yeux fixés sur le caveau béant, dont on a enlevé la dalle ; c'est là, dans cette ombre fraîche, qu'ils viendront dormir à leur tour. Des amis les emmènent, quand les fossoyeurs s'approchent.
+
+Et, deux jours plus tard, chez le notaire de leur mère, ils discutent, les dents serrées, les yeux secs, avec un emportement d'ennemis décidés à ne pas céder sur un centime. Leur intérêt serait d'attendre, de ne pas hâter la vente des propriétés. Mais ils se jettent leurs vérités à la face : Charles mangerait tout avec ses inventions ; Georges doit avoir quelque fille qui le plume ; Maurice est certainement encore dans une spéculation folle, où il engloutirait leurs capitaux. Vainement, le notaire essaye de leur faire conclure un arrangement à l'amiable. Ils se séparent, en menaçant de s'envoyer du papier timbré.
+
+C'est la morte qui se réveille en eux, avec son avarice et ses terreurs d'être volée. Quand l'argent empoisonne la mort, il ne sort de la mort que de la colère. On se bat sur les cercueils.

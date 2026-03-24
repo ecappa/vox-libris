@@ -1,0 +1,198 @@
+### [[Chapitre 13 -- Une « journée »]{lang="X-NONE"}]{#_Toc342942876 .pcalibre2 .pcalibre1} {#chapitre-13-une-journée .calibre171 .sigil_not_in_toc}
+
+Non seulement l\'égarement des Hosteliens avait presque entièrement supprimé la production de l\'île, mais encore une population quintuplée devait vivre sur les stocks à peu près épuisés. Aussi la misère fut-elle atroce pendant l\'hiver de 1893. Les cinq mois qu\'il dura, le Kaw-djer accomplit une tâche formidable. Il lui fallut résoudre au jour le jour des difficultés sans cesse renaissantes, venir au secours des affamés, soigner les innombrables malades, être, en un mot, partout à la fois. En constatant cette indomptable énergie et ce dévouement inaltérable, les Libériens furent frappés d\'admiration et écrasés de remords. Voilà comment se vengeait celui qui avait renoncé, on le savait maintenant, à une si merveilleuse existence pour partager leur vie de misère, et qu\'ils avaient pourtant si lâchement renié !
+
+Malgré tous les efforts du Kaw-djer, c\'est à grand-peine qu\'on put se procurer le strict nécessaire à Libéria. Que devait-ce être dans les campagnes ? Que devait-ce être surtout aux placers, où s\'entassaient des milliers d\'hommes qui n\'avaient sûrement pris aucune mesure pour combattre un climat dont ils ignoraient les rigueurs ?
+
+Il était trop tard pour réparer leur imprévoyance. Ils étaient bloqués par les neiges et ne pouvaient plus compter que sur les ressources de leurs alentours les plus proches. Ces ressources, tant de bouches affamées les auraient épuisées en quelques jours.
+
+Ainsi qu\'on l\'apprit plus tard, quelques-uns réussirent cependant à vaincre tous les obstacles et s\'avancèrent parfois fort loin à travers l\'île. Entre eux et plusieurs fermiers, il y eut des batailles sanglantes. La férocité humaine dépassait celle de la nature. L\'hiver avait diminué, mais non tari le flot de sang qui rougissait la terre.
+
+Toutefois, peu nombreux furent ceux qui bravèrent à la fois, dans ces incursions audacieuses, l\'hostilité des hommes et celle des choses. Comment vécurent les autres ? Tout ce qu\'on en devait jamais savoir, c\'est que beaucoup étaient morts de froid et de faim. Quant à la manière dont leurs compagnons plus heureux avaient assuré leur existence, cela demeura toujours un mystère.
+
+Mais le Kaw-djer n\'avait pas besoin de connaître les choses dans le détail pour concevoir de quelles tortures ces misérables étaient la proie. Il devinait leur désespoir et comprenait que ce désespoir se changerait en fureur aux premiers rayons du printemps. C\'est alors que le danger deviendrait réellement menaçant. Les routes rendues libres par la fonte des neiges, cette populace affamée se répandrait de tous côtés et mettrait l\'île au saccage...
+
+Deux jours après le dégel, on apprit, en effet, que la concession de la Franco-English Gold Mining Company, que dirigeaient le Français Maurice Reynaud et l\'Anglais Alexander Smith, avait été attaquée par une bande de forcenés. Mais, ainsi qu\'ils l\'avaient dit au Kaw-djer, les deux jeunes gens avaient su se défendre eux-mêmes. Réunissant leurs ouvriers, au nombre déjà de plusieurs centaines, ils avaient repoussé les assaillants, non sans leur infliger des pertes sérieuses.
+
+Quelques jours après, on reçut la nouvelle d\'une série de crimes commis dans la région du Nord. Des fermes avaient été pillées, et les propriétaires chassés de chez eux, ou même parfois assommés purement et simplement. Si on laissait faire ces bandits, il ne leur faudrait pas un mois pour dévaster l\'île entière. Il était temps d\'agir.
+
+La situation était infiniment meilleure que celle de l\'année précédente. Si le printemps avait déterminé de violents remous dans la foule éparse des aventuriers, il n\'avait eu aucune influence sur la manière d\'être des Hosteliens. Cette fois, la leçon était suffisante. À l\'exception de la centaine d\'égarés qui s\'étaient obstinés à demeurer aux placers et qui sans doute avaient péri à l\'heure actuelle, la population de Libéria n\'avait pas diminué d\'une unité. Personne n\'avait eu la pensée d\'entamer une troisième campagne de prospection. Pour quelques rares colons servis par un hasard favorable, la plupart étaient revenus ruinés, leur santé compromise, leur avenir à jamais perdu. Et encore, des modestes fortunes récoltées sur les placers, la plus grande part avait été dissipée, ainsi que cela arrive fatalement, dans les cabarets, dans les tripots de bas étage, où les détonations des revolvers se mêlaient aux hurlements des joueurs. Tous se rendaient compte de leur folie et nul n\'avait envie de recommencer l\'expérience.
+
+Le Kaw-djer disposait donc de la milice au complet. Mille hommes enrégimentés, disciplinés, obéissant à des chefs reconnus, c\'est une force sérieuse, et, bien que les adversaires fussent vingt fois plus nombreux, il ne doutait pas de les mettre à la raison. Quelques jours de patience, afin de laisser aux routes détrempées par la fonte des neiges le temps de sécher un peu, et des colonnes sillonneraient l\'île, la balayeraient de bout en bout des aventuriers qui l\'infestaient...
+
+Ceux-ci le devancèrent. Ce furent eux qui provoquèrent la tragédie rapide et terrible qui décida du sort de l\'île.
+
+Le 3 novembre, alors que les chemins étaient encore transformés en marécages, des Hosteliens de la campagne, accourus au galop de leurs chevaux, avertirent le Kaw-djer qu\'une colonne, forte d\'un millier de chercheurs d\'or, marchait contre la ville. Les intentions de ces hommes, on les ignorait, mais elles ne devaient pas être pacifiques, à en juger par leur attitude et par leurs cris menaçants.
+
+Le Kaw-djer prit ses mesures en conséquence. Par son ordre, la milice fut rassemblée devant le gouvernement et barra les rues qui débouchaient sur la place. Puis on attendit les événements.
+
+La colonne annoncée atteignit vers la fin du jour Libéria, où l\'écho de ses chants et de ses cris l\'avait précédée. Les prospecteurs, qui croyaient surprendre, eurent au contraire la surprise de se heurter à la milice hostelienne rangée en bataille, et leur élan en fut brisé. Ils s\'arrêtèrent interdits. Au lieu d\'agir à l\'improviste, comme tel était leur projet, voilà qu\'ils étaient obligés de parlementer !D\'abord, ils discutèrent entre eux à grand renfort de gestes et de cris, puis ceux qui se trouvaient en tête firent connaître à Hartlepool qu\'ils désiraient parler au gouverneur. Leur requête transmise de proche en proche obtint un accueil favorable. Le Kaw-djer consentait à recevoir dix délégués.
+
+Ces dix délégués, il fallut les désigner, ce qui motiva une recrudescence de discussions et de clameurs. Enfin ils se présentèrent devant le front de la milice qui ouvrit ses rangs pour les laisser passer. Le mouvement, sur un bref commandement d\'Hartlepool, fut exécuté avec une perfection remarquable. De vieux soldats n\'eussent pas mieux fait. Les délégués des prospecteurs en furent impressionnés. Ils le furent plus encore, quand, sur un nouveau commandement de son chef, la milice, manoeuvrant avec une égale sûreté, referma ses rangs derrière eux.
+
+Le Kaw-djer se tenait debout au centre de la place, dans l\'espace restant libre en arrière des troupes. Tandis que les délégués se dirigeaient vers lui, on put les contempler à loisir. Vus de près, leur aspect n\'était pas rassurant. Grands, les épaules larges, ils paraissaient robustes, bien que les privations de l\'hiver les eussent amaigris. Pour la plupart vêtus de cuir dont une épaisse couche de crasse uniformisait la couleur première, ils avaient des chevelures hirsutes et des barbes touffues qui faisaient ressembler leurs visages à des mufles de fauves. Au fond de leurs orbites caves luisaient des yeux de loups, et ils serraient les poings en marchant.
+
+Le Kaw-djer demeura immobile, sans avancer d\'un pas au-devant d\'eux, et, quand ils furent arrivés près de lui, il attendit tranquillement qu\'ils lui fissent connaître le but de leur démarche.
+
+Mais les délégués des prospecteurs ne se pressaient pas de parler. Ils s\'étaient découverts instinctivement en abordant le Kaw-djer, et, rangés en demi-cercle autour de lui, ils se dandinaient gauchement d\'une jambe sur l\'autre. Leur apparence farouche était trompeuse. Ils semblaient, au contraire, assez petits garçons et fort embarrassés de leur personne, en se voyant isolés de leurs camarades, dans la solitude de cette vaste place, devant cet homme qui les dominait de la tête, à l\'attitude grave et froide, et dont la majesté leur en imposait.
+
+Enfin, leur trouble s\'atténua, ils retrouvèrent leur langue et l\'un d\'eux prit la parole.
+
+« Gouverneur, dit-il, nous venons au nom de nos camarades... »
+
+L\'orateur, intimidé, s\'interrompit. Le Kaw-djer ne fit rien pour l\'aider à renouer le fil de son discours. Le prospecteur reprit :
+
+« Nos camarades nous ont envoyés... »
+
+Nouvel arrêt de l\'orateur et pareil mutisme du Kaw-djer.
+
+« Enfin, nous sommes leurs délégués, quoi ! Expliqua un autre aventurier impatient de ces hésitations.
+
+--- Je sais, dit le Kaw-djer froidement. Après ? »
+
+Les délégués furent interloqués. Eux qui pensaient faire trembler !... Voilà comment on les redoutait !... Il y eut encore un silence. Puis un troisième prospecteur, remarquable par l\'ampleur de sa barbe inculte, réunit tout son courage et entra dans le vif de la question.
+
+« Après ?... Il y a, après, que nous avons à nous plaindre. Voilà ce qu\'il y a, après.
+
+--- De quoi ?
+
+--- De tout. Nous ne pouvons pas nous en tirer, tant on nous montre ici de mauvais vouloir. »
+
+Quelque sérieuse que fût la situation, le Kaw-djer ne put s\'empêcher d\'être intérieurement égayé par la plaisante ironie d\'une telle récrimination dans la bouche d\'un des envahisseurs de l\'île Hoste.
+
+« Est-ce tout ? demanda-t-il.
+
+--- Non, répondit le troisième prospecteur, qui possédait décidément la langue la mieux pendue. On voudrait aussi, nous autres, que les claims ne soient pas à qui veut les prendre. Il faut se battre pour les avoir. Les gentlemen -- l\'aventurier, un Américain de l\'Ouest, employa ce mot le plus sérieusement du monde -- préféreraient des concessions, comme ça se fait partout... Ce serait plus... officiel, ajouta-t-il après un moment de réflexion avec une conviction divertissante.
+
+--- Est-ce tout ? répéta le Kaw-djer.
+
+--- Savoir !... répondit le prospecteur à la grande barbe. Mais, avant de passer à autre chose, les gentlemen voudraient une réponse au sujet des concessions.
+
+--- Non, dit le Kaw-djer.
+
+--- Non ?....
+
+--- La réponse est : non », précisa le Kaw-djer.
+
+Les délégués relevèrent la tête avec ensemble. Des lueurs mauvaises commencèrent à passer dans leurs yeux.
+
+« Pourquoi ? demanda l\'un de ceux qui n\'avaient pas encore parlé. Il faut une raison aux gentlemen. »
+
+Le Kaw-djer garda le silence. Vraiment ! Ils étaient osés de lui demander ses raisons. Ne les connaissait-on pas ? La loi, que personne n\'avait respectée, ne fixait-elle pas un prix pour la délivrance des concessions ? Bien plus ! Cette loi connue de tous ne réservait-elle pas ces concessions aux Hosteliens, et n\'interdisait-elle pas à ces gens qui l\'avaient audacieusement bravée le territoire hostelien ?
+
+« Pourquoi ? » répéta le prospecteur en constatant que sa question restait sans effet.
+
+Puis, la seconde interrogation n\'ayant pas plus de succès que la première, il y répondit lui-même.
+
+« La loi ?... dit-il. Eh ! On la connaît, la loi... Mais on n\'a qu\'à nous naturaliser... La terre est à tout le monde, et nous sommes des hommes comme les autres, peut-être ! »
+
+Jadis, le Kaw-djer ne se fût pas exprimé différemment. Mais ses idées étaient bien changées maintenant, et il ne comprenait plus ce langage. Non, la terre n\'est pas à tout le monde. Elle appartient à ceux qui la défrichent, la cultivent, à ceux dont le travail opiniâtre la transforme en mère nourricière et oblige le sol à tisser le tapis doré des moissons.
+
+« Et puis, reprit le prospecteur barbu, si on parle de loi, il faudrait voir d\'abord à la respecter, la loi. Quand ceux qui la fabriquent s\'en moquent, qu\'est-ce que feront les autres, je le demande ? On est le 3 novembre. Pourquoi qu\'il n\'y a pas eu d\'élection le 1er, puisque le gouvernement a fini son temps ? »
+
+Cette remarque inattendue surprit le Kaw-djer. Qui avait pu renseigner aussi bien ce mineur ? Kennedy, sans doute, qu\'on n\'avait pas revu à Libéria. L\'observation était juste, au surplus. La période qu\'il avait fixée quand il s\'était volontairement soumis aux suffrages des électeurs était expirée, en effet, et, aux termes de la loi autrefois promulguée par lui-même, on aurait dû procéder deux jours plus tôt à une nouvelle élection. S\'il s\'en était dispensé, c\'est qu\'il n\'avait pas jugé opportun de compliquer encore une situation déjà si troublée, pour respecter une simple formalité, le renouvellement de son mandat étant absolument certain. Mais, d\'ailleurs, en quoi cela regardait-il des gens qui n\'étaient ni éligibles, ni électeurs ?
+
+Cependant, le chercheur d\'or, enhardi par le calme du Kaw-djer, continuait sur un ton plus assuré :
+
+« Les gentlemen réclament cette élection, et ils veulent que leurs voix comptent. Leurs voix valent celles des autres, pas vrai ? Pourquoi qu\'il y en aurait cinq mille qui feraient la loi à vingt ? Ça n\'est pas juste... »
+
+L\'aventurier fit une pause et attendit inutilement la réponse du Kaw-djer. Embarrassé par ce silence persistant, et désireux de faire comprendre que sa mission était terminée, il conclut :
+
+« Et voilà !
+
+--- Est-ce tout ? interrogea pour la troisième fois le Kaw-djer.
+
+--- Oui... répondit le délégué. C\'est tout, sans être tout... Enfin, c\'est tout pour le moment. »
+
+Le Kaw-djer, regardant bien en face les dix hommes attentifs, déclara d\'un ton froid :
+
+« Voici ma réponse : Vous êtes ici malgré nous. Je vous donne vingt-quatre heures pour vous soumettre tous sans condition. Passé ce délai, j\'aviserai. »
+
+Il fit un signe. Hartlepool et une vingtaine d\'hommes accoururent.
+
+« Hartlepool, dit-il, veuillez reconduire ces messieurs hors des rangs. »
+
+Les délégués étaient stupéfaits. Quelque assurés qu\'ils fussent de leur force, ce calme glacial les déconcertait. Encadrés par les Hosteliens, ils s\'éloignèrent docilement.
+
+Par exemple, quand ils furent réunis à ceux qu\'ils désignaient sous le nom générique de « gentlemen », le ton changea. Tandis qu\'ils rendaient compte de leur mission, leur colère, jusque-là dominée, éclata sans contrainte, et, pour exprimer leur indignation, ils trouvèrent une quantité suffisante de paroles irritées et de jurons sonores.
+
+Cette éloquence spéciale eut de l\'écho dans la foule, et bientôt un concert de vociférations apprit au Kaw-djer qu\'on connaissait sa réponse. Cette agitation fut longue à se calmer. La nuit la diminua sans l\'apaiser entièrement. Jusqu\'au matin, l\'ombre fut pleine de cris furieux. Si on ne voyait plus les mineurs, on les entendait. Évidemment ils s\'entêtaient dans leur entreprise et campaient en plein air.
+
+La milice fit comme eux. Se relayant par quarts, elle veilla toute la nuit, l\'arme au pied.
+
+La colonne ne s\'était pas retirée, en effet. À l\'aube, les rues apparurent noires de monde. Bon nombre de prospecteurs, lassés par cette nuit d\'attente, s\'étaient couchés sur le sol. Mais tous furent debout au premier rayon du jour, et le vacarme de la veille reprit de plus belle.
+
+Dans les rues dont ils occupaient la chaussée, les maisons étaient soigneusement closes. Personne ne se risquait au dehors. Si, d\'un premier étage, un Hostelien plus curieux risquait un coup d\'oeil par l\'entrebâillement des volets, un ouragan de huées l\'obligeait aussitôt à les refermer en hâte.
+
+Le début de la matinée fut relativement calme. Les aventuriers ne semblaient pas être d\'accord sur ce qu\'il convenait de faire et discutaient avec animation. À mesure que le temps s\'écoulait, leur nombre augmentait. Autant qu\'on en pouvait juger, il s\'élevait maintenant à quatre ou cinq mille. Des émissaires envoyés pendant la nuit avaient battu le rappel dans la campagne et ramené du renfort. Les prospecteurs de la région du Golden Creek avaient eu le temps d\'arriver, mais non pas ceux qui travaillaient dans les montagnes du centre ou à la pointe du Nord-Ouest, et dont le voyage, en admettant qu\'ils dussent venir, exigerait un ou plusieurs jours selon leur éloignement.
+
+Leurs compagnons qui avaient déjà envahi la ville eussent sagement fait de les attendre. Quand ils seraient dix ou quinze mille, la situation déjà si grave de Libéria deviendrait presque désespérée.
+
+Mais ces cerveaux brûlés, incapables de résister à la violence de leurs passions, n\'avaient jamais la patience d\'attendre. Plus la matinée s\'avança, plus leur agitation grandit. Sous le coup de fouet de la fatigue et des excitations répétées des orateurs en plein vent, la foule s\'énervait à vue d\'oeil.
+
+Vers onze heures, un élan général la jeta tout à coup sur la milice hostelienne. Celle-ci se hérissa immédiatement de baïonnettes. Les assaillants reculèrent précipitamment, s\'efforçant de vaincre la poussée de ceux qui se trouvaient en queue. Afin d\'éviter des malheurs involontaires, le Kaw-djer fit reculer sa troupe, qui se replia en bon ordre et alla prendre position devant le gouvernement. Les rues aboutissant à la place furent ainsi dégagées. Les mineurs, se trompant sur le sens de ce mouvement, poussèrent une assourdissante clameur de victoire.
+
+L\'espace rendu libre par la retraite de la milice hostelienne fut en un instant rempli d\'une foule grouillante. Cette foule ne tarda pas à reconnaître son erreur. Non, elle n\'était pas victorieuse encore. La milice intacte lui barrait toujours le passage. Si les mille hommes dont elle était formée, modelant leur attitude sur celle de leur chef, gardaient, impassibles, l\'arme au pied, ils n\'en disposaient pas moins de la foudre. Leurs mille fusils, des carabines américaines, que beaucoup de prospecteurs connaissaient bien, auxquelles un magasin assure une réserve de sept cartouches, étaient capables de tirer en moins d\'une minute leurs sept mille coups, qui seraient, dans ce cas, tirés à bout portant. Il y avait là de quoi faire réfléchir les plus braves.
+
+Mais les aventuriers n\'étaient plus dans un état d\'esprit leur permettant la réflexion. Ils s\'excitaient, se grisaient les uns les autres. Leur grand nombre leur donnant confiance, ils cessèrent de craindre cette troupe dont l\'immobilité leur parut de la faiblesse. Le moment vint où ce qui leur restait de raison fut définitivement aboli.
+
+Le spectacle était tragique. À la périphérie de la place, une foule hurlante et débraillée, criant de ses milliers de bouches des mots que personne n\'entendait, tendant ses milliers de poings en des gestes de menace. À trente mètres d\'elle, lui faisant face, la milice hostelienne rangée en bon ordre le long de la façade du gouvernement, ses hommes conservant une immobilité de statue.
+
+Derrière la milice, le Kaw-djer, seul, debout sur le dernier degré du perron qui donnait accès au gouvernement, contemplant d\'un air soucieux ce tableau mouvementé, et cherchant un moyen de dénouer pacifiquement une situation dont il comprenait toute la gravité.
+
+Il était une heure de l\'après-midi quand des injures directes commencèrent à partir de la foule enfiévrée. Les Hosteliens, contenus par leur chef, n\'y répondirent pas.
+
+Au premier rang de leurs insulteurs, ils pouvaient voir une figure de connaissance. Les révoltés avaient poussé en avant Kennedy, dont les conseils insidieux n\'étaient pas sans avoir contribué à les engager dans cette aventure. C\'est par lui qu\'ils connaissaient la loi relative aux élections, c\'est lui qui leur avait suggéré de réclamer la qualité de citoyens et d\'électeurs, en leur affirmant que le Kaw-djer, abandonné de tout le monde, n\'aurait pas la force de leur résister. La réalité se montrait différente. Ils se heurtaient à mille fusils, et il semblait juste que celui qui les avait menés là fût exposé aux coups.
+
+L\'ancien matelot, qui avait voulu se venger, était le mauvais marchand de cette affaire. Il n\'avait plus sa jactance de nabab. Pâle, tremblant, il n\'en menait pas large, comme on dit familièrement.
+
+La foule perdant de plus en plus la tête, les injures ne suffirent bientôt plus à satisfaire sa colère grandissante, et il fallut passer aux actes. Des volées de pierres commencèrent à s\'abattre sur la milice impassible. Les choses prenaient décidément une mauvaise tournure.
+
+Pendant une heure, cette pluie meurtrière tomba. Plusieurs hommes furent blessés et deux d\'entre eux durent quitter le rang. Une pierre atteignit au front le Kaw-djer lui-même. Il chancela, mais se redressant d\'un énergique effort, il essuya paisiblement le sang qui rougissait son visage et reprit son attitude d\'observateur.
+
+Après une heure de cet exercice qui ne pouvait mener à rien, les assaillants parurent se lasser. Les projectiles devinrent moins nombreux, et on sentait qu\'ils allaient cesser de pleuvoir, quand une énorme clameur jaillit tout à coup de la foule. Qu\'était-il arrivé ? Le Kaw-djer se haussant sur la pointe des pieds, s\'efforça vainement de voir dans les rues avoisinantes. Il ne put y réussir. Au loin, les remous de la foule semblaient plus violents, voilà tout, sans qu\'il fût possible d\'en discerner la cause.
+
+On ne devait pas tarder à la connaître. Quelques minutes plus tard, trois prospecteurs taillés en hercule, s\'ouvrant un passage à coups de coude, venaient se placer en avant de leurs compagnons, comme s\'ils eussent voulu montrer qu\'ils se riaient des balles. Ils ne les craignaient plus, en effet, car ils portaient devant eux, en guise de boucliers, des otages qui les protégeaient contre elles.
+
+Les assaillants avaient eu une idée diabolique. Ayant enfoncé la porte d\'une maison, ils s\'étaient emparés de ses habitants, deux jeunes femmes, deux soeurs, qui y vivaient seules avec un petit enfant, le mari de l\'une d\'elles étant mort au cours de l\'hiver précédent. Deux mineurs avaient saisi les femmes, un autre l\'enfant, et, chacun avec son fardeau, ils bravaient maintenant le Kaw-djer et sa milice. Qui oserait tirer, alors les premiers coups seraient pour ces créatures innocentes ?
+
+Les deux femmes, terrorisées, s\'abandonnaient sans résistance. Quant au bébé, qu\'une sorte de brute gigantesque tenait à bout de bras comme pour l\'offrir en holocauste, il riait.
+
+Cela dépassait en horreur tout ce que le Kaw-djer eût été capable d\'imaginer. L\'atroce aventure fit trembler cet homme si fort. Il eut peur. Il pâlit.
+
+C\'était l\'heure pourtant des décisions promptes. Il fallait prendre d\'urgence une résolution. Déjà les mineurs, poussant des vociférations furieuses, avaient fait un pas.
+
+Leur affolement était tel qu\'il leur fut impossible d\'attendre d\'en arriver au corps à corps, dans lequel la supériorité du nombre leur eût assuré la victoire. Ils étaient à vingt mètres de la milice figée dans son attitude de marbre, quand des détonations éclatèrent. Les revolvers faisaient parler la poudre. Un Hostelien tomba.
+
+L\'hésitation n\'était plus de mise. Dans moins d\'une minute on serait débordé, et toute la population de Libéria, hommes, femmes et enfants, serait massacrée sans recours.
+
+« En joue !... » commanda le Kaw-djer qui devint plus pâle encore.
+
+La milice obéit avec la précision d\'un exercice d\'entraînement. Ensemble, les crosses se haussèrent aux épaules, et les canons se dirigèrent menaçants, vers la foule.
+
+Mais celle-ci était désormais trop affolée pour que la crainte pût l\'arrêter. De nouveaux coups de revolvers résonnèrent. Trois autres miliciens furent atteints. Ivre, déchaînée, la foule n\'était plus qu\'à dix pas. « Feu ! » commanda le Kaw-djer d\'une voix rauque. Par leur calme héroïque au milieu de cette longue tourmente, ses hommes venaient de le payer en une fois de tout ce qu\'il avait fait pour eux. On était quitte. Mais, s\'ils avaient puisé dans la reconnaissance et dans l\'affection qu\'il leur inspirait la force de se conduire en soldats, ils n\'étaient pas des soldats après tout. Dès qu\'ils eurent pressé la gâchette, l\'affolement les gagna à leur tour. Ils ne tirèrent pas un coup, ils les tirèrent tous. Ce fut le roulement de tonnerre. En trois secondes, les carabines crachèrent leurs sept mille balles. Puis, un silence énorme tomba...
+
+Les hommes de la milice regardaient, hébétés. Au loin, des fuyards disparaissaient. Devant eux, il n\'y avait plus personne. La place était déserte.
+
+Déserte ?... Oui, sauf cet amoncellement, cette montagne de cadavres d\'où ruisselait un torrent de sang ! Combien y en avait-il ?... Mille ?... Quinze cents ?... Davantage ?... On ne savait.
+
+Au bas de ce tas hideux, à côté de Kennedy, mort, les deux jeunes femmes étaient tombées. L\'une une balle dans l\'épaule, était morte ou évanouie. L\'autre se releva sans blessure et courut, affolée, frappée d\'épouvante. L\'enfant était là, lui aussi, parmi les morts, dans le sang. Mais -- c\'était un miracle ! -- il n\'avait rien, et, fort amusé par ce jeu inconnu, il continuait à rire de tout son coeur...
+
+Le Kaw-djer, en proie à une effroyable douleur, avait caché son visage entre ses mains pour fuir l\'horrible spectacle. Un instant, il demeura prostré, puis, lentement, il redressa la tête.
+
+D\'un même mouvement, les Hosteliens se tournèrent vers lui et le regardèrent en silence.
+
+Lui n\'eut pas un regard pour eux. Immobile, il contemplait le sinistre charnier, et, sur la face ravagée, vieillie de dix ans, de grosses larmes coulaient goutte à goutte.
+
+Le Kaw-djer, désespérément, pleurait.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

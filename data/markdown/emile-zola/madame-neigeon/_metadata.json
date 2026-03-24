@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MADAME NEIGEON",
+  "slug": "madame-neigeon",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1269,
+      "spine_end_exclusive": 1270,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_279.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1270,
+      "spine_end_exclusive": 1271,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_280.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1271,
+      "spine_end_exclusive": 1272,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_281.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1272,
+      "spine_end_exclusive": 1273,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_282.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1273,
+      "spine_end_exclusive": 1274,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_283.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1274,
+      "spine_end_exclusive": 1276,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_284.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_285.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/madame-neigeon/Zola4_image024.jpg"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ZOLA",
+  "slug": "zola",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 2411,
+      "spine_end_exclusive": 2412,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_036.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Introduction",
+      "slug": "introduction",
+      "spine_start": 2412,
+      "spine_end_exclusive": 2413,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_037.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 2413,
+      "spine_end_exclusive": 2414,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_038.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 2414,
+      "spine_end_exclusive": 2415,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 2415,
+      "spine_end_exclusive": 2416,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_040.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 2416,
+      "spine_end_exclusive": 2419,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_041.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_042.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_043.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/zola/Zola9_image012.jpg"
+  ]
+}

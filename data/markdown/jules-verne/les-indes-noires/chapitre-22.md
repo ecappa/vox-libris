@@ -1,0 +1,37 @@
+]{.calibre20}
+
+
+LES INDES NOIRES
+
+
+]{.calibre20}
+
+## []{#_Toc349730768 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730421 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729878 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729493 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728950 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728565 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728022 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727435 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727050 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726507 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726122 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725775 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725428 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725081 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349724734 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 22 -- La légende du vieux Silfax]{#_Toc349724191 .pcalibre .pcalibre4 .pcalibre3} {#calibre_toc_110 .calibre21}
+
+Six mois après ces événements, le mariage, si étrangement interrompu, d'Harry Ford et de Nell, se célébrait dans la chapelle de Saint-Gilles. Après que le révérend Hobson eut béni leur union, les jeunes époux, encore vêtus de noir, rentrèrent au cottage.
+
+James Starr et Simon Ford, désormais exempts de toute inquiétude, présidèrent joyeusement à la fête qui suivit la cérémonie et se prolongea jusqu'au lendemain.
+
+Ce fut dans ces mémorables circonstances que Jack Ryan, revêtu de son costume de piper, après avoir gonflé d'air l'outre de sa cornemuse, obtint ce triple résultat de jouer, de chanter et de danser tout à la fois, aux applaudissements de toute l'assemblée.
+
+Et, le lendemain, les travaux du jour et du fond recommencèrent, sous la direction de l'ingénieur James Starr.
+
+Harry et Nell furent heureux, il est superflu de le dire. Ces deux cœurs, tant éprouvés, trouvèrent dans leur union le bonheur qu'ils méritaient.
+
+Quant à Simon Ford, l'overman honoraire de la Nouvelle-Aberfoyle, il comptait bien vivre assez pour célébrer sa cinquantaine avec la bonne Madge, qui ne demandait pas mieux, d'ailleurs.
+
+« Et après celle-là, pourquoi pas une autre ? disait Jack Ryan. Deux cinquantaines, ce ne serait pas trop pour vous, monsieur Simon !
+
+--- Tu as raison, mon garçon, répondit tranquillement le vieil overman. Qu'y aurait-il d'étonnant à ce que sous le climat de la Nouvelle-Aberfoyle, dans ce milieu qui ne connaît pas les intempéries du dehors, on devînt deux fois centenaire ? »
+
+Les habitants de Coal-city devaient-ils jamais assister à cette seconde cérémonie ? L'avenir le dira.
+
+En tout cas, un oiseau, qui semblait devoir atteindre une longévité extraordinaire, c'était le harfang du vieux Silfax. Il hantait toujours le sombre domaine. Mais après la mort du vieillard, bien que Nell eût essayé de le retenir, il s'était enfui au bout de quelques jours. Outre que la société des hommes ne lui plaisait décidément pas plus qu'à son ancien maître, il semblait qu'il eût gardé une sorte de rancune particulière à Harry, et que cet oiseau jaloux eût toujours reconnu et détesté en lui le premier ravisseur de Nell, celui à qui il l'avait disputée en vain dans l'ascension du gouffre.
+
+Depuis ce temps, Nell ne le revoyait qu'à de longs intervalles, planant au-dessus du lac Malcolm.
+
+Voulait-il revoir son amie d'autrefois ? Voulait-il plonger ses regards pénétrants jusqu'au fond de l'abîme où s'était englouti Silfax ?
+
+Les deux versions furent admises, car le harfang devint légendaire, et il inspira à Jack Ryan plus d'une fantastique histoire.
+
+C\'est grâce à ce joyeux compagnon qu'on chante encore dans les veillées écossaises la légende de l'oiseau du vieux Silfax, l'ancien pénitent des houillères d'Aberfoyle.

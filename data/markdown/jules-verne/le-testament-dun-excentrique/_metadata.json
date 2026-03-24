@@ -1,0 +1,61 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE TESTAMENT D'UN EXCENTRIQUE",
+  "slug": "le-testament-dun-excentrique",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1677,
+      "spine_end_exclusive": 1692,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_223.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_224.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_225.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_226.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_227.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_228.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_229.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_230.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_231.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_232.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_233.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_234.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_235.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_236.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_237.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Seconde partie",
+      "slug": "seconde-partie",
+      "is_part": false,
+      "spine_start": 1692,
+      "spine_end_exclusive": 1707,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_238.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_239.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_240.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_241.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_242.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_243.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_244.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_245.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_246.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_247.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_248.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_249.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_250.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_251.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_253.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

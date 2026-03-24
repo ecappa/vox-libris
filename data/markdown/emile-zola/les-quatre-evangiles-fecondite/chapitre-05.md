@@ -1,0 +1,1306 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778806 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778468 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778130 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777792 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777454 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776778 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776440 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776102 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775764 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775426 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775088 .pcalibre .calibre3 .pcalibre1}[Livre cinquième]{#_Toc368774750 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_155 .calibre25}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+[Livre cinquième]{.calibre55}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778807 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778469 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778131 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777793 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777455 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776779 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776441 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776103 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775765 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775427 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775089 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368774751 .pcalibre .calibre3 .pcalibre1} {#i .calibre47 .sigil_not_in_toc}
+
+[La vie, lentement, reprit à l'usine, dans le grand deuil. Sous le coup terrible qui l'écrasait, Beauchêne ne sortit plus, resta les premières semaines au foyer, comme anéanti sans désir. Il paraissait corrigé, ne mentant plus, ne prétextant plus de continuels voyages d'affaires pour assouvir au-dehors les brusques fringales de femmes dont l'âge exaspérait chez lui le besoin. Et il s'était remis au travail, il s'occupait de sa maison, descendait de nouveau chaque matin dans les ateliers, aidé de Blaise, un lieutenant dévoué, actif, sur lequel il se déchargeait chaque jour davantage des besognes trop lourdes. Mais, surtout, ce qui frappait les intimes, c'était le rapprochement du ménage, Constance aux petits soins pour son mari, Beauchêne ne quittant plus sa femme, tous les deux très d'accord, vivant à l'écart dans leur hôtel fermé, comme drapé de noir, où n'étaient reçus que les parents.]{.calibre11}
+
+[Chez Constance, au lendemain de l'horrible douleur, de cette perte soudaine de Maurice qui la laissait amputée et saignante, il y avait eu la sensation affreuse d'une infirme dont un membre a été tranché. Elle n'était plus entière, elle éprouvait une honte à se sentir défigurée, amoindrie. Et, dans son regret, où sanglotait sa tendresse déçue, il entrait aussi une révolte exaspérée d'orgueil, tellement elle souffrait de sa diminution, depuis qu'elle n'était plus mère, qu'elle n'avait plus là, près d'elle, le dauphin pour prendre l'empire. Elle qui s'était obstinée à ce fils unique, dans le désir qu'il fût le seul maître de la fortune, le roi tout-puissant de demain ! L'imbécile mort le lui avait volé, et la maison lui semblait moins à elle, l'usine lui échappait, maintenant surtout que ce Blaise s'y trouvait installé, avec sa femme, son enfant, toute cette fécondité pullulante des Froment envahisseurs. Elle ne se pardonnait pas de les y avoir accueillis, logés, elle ne brûlait plus que de la passion de se défendre, de ressusciter son fils, d'avoir un fils encore, afin de reconquérir son bien, sa place, sa royauté. Sans doute, elle avait adoré Maurice, elle n'avait même jamais aimé que lui, d'une froideur d'épouse simplement résignée aux caresses conjugales. Mais son amour maternel, jusque-là sans éclat, muet et profond, se rallumait à présent d'une brusque flambée de fièvre, où s'embrasait tout son être. Cette maternité violente, exigeante, qu'elle avait comme pervertie en la mettant sur un seul, elle en sentait désormais le continuel tourment. Elle était la mère dupée, volée, la mère à qui l'on a pris son enfant, qui le veut, qui en veut un autre, dont rien n'apaisera plus l'ardente soif, d'aimer, si elle n'est pas mère encore. Pour son coeur, pour son orgueil, pour sa chair comme pour son ambition, un enfant, il lui fallait un enfant. Et c'était pourquoi, sans calcul, même d'instinct, elle s'était rapprochée de son mari.]{.calibre11}
+
+[Dans le deuil de la maison close, des vêtements noirs, il y eut un renouveau de lune de miel. Ils ne fraudaient plus, tous deux attendirent, pleins de confiance d'abord. Constance avait à peine quarante et un ans. Beauchêne, de six ans plus âgé, affectait la certitude d'un gaillard solide, capable encore de peupler un monde. On ne les voyait plus qu'ensemble. Ils se couchaient tôt. Pendant six mois, ils eurent une existence réglée, étroite, dans laquelle on les sentait d'accord, mettant toute leur bonne volonté, toute leur puissance à réussir l'oeuvre commune. Mais l'enfant désiré, attendu, ne vint pas. Et six mois encore se passèrent, et dès lors il sembla que la bonne entente se rompait, que des inquiétudes, des reproches, des colères devaient commencer à troubler l'alcôve, car Beauchêne s'échappait de nouveau parfois, pour prendre l'air, disait-il, tandis que Constance, les yeux rouges, fiévreuse, restait seule au foyer.]{.calibre11}
+
+[Un jour que Mathieu était venu rendre visite à sa belle-fille Charlotte, et qu'il s'oubliait, dans le jardin, à jouer avec la petite Berthe, grimpée sur ses genoux, il fut surpris de voir descendre Constance, qui devait l'avoir aperçu des fenêtres de l'hôtel voisin. Elle finit par l'emmener sous un prétexte, elle le garda près d'un quart d'heure, sans se décider à parler. Puis, brusquement :]{.calibre11}
+
+[« Mon cher Mathieu, excusez-moi de vous entretenir d'une chose qui ne peut que nous être pénible... Il y a bientôt quinze ans déjà, mon mari a eu, je le sais, un enfant, d'une ouvrière de l'usine. Et je sais aussi que, dans cette circonstance, vous lui avez rendu le service d'être son intermédiaire, de vous occuper de cette fille et de son enfant, un garçon, n'est-ce pas ? »]{.calibre11}
+
+[Elle attendit une réponse. Mais Mathieu, stupéfait de la voir si bien renseignée, ne comprenant pas pourquoi, après tant d'années, elle s'adressait à lui, au sujet de cette histoire fâcheuse, n'eut qu'un geste, où se trahirent sa surprise et son inquiétude.]{.calibre11}
+
+[« Oh ! reprit-elle, je ne vous fais aucun reproche, je suis convaincue que votre rôle, là-dedans, a été tout amical, même affectueux pour moi dans la crainte de quelque scandale qui aurait pu m'atteindre. D'ailleurs, vous le pensez bien, je ne récrimine pas sur une trahison si ancienne. Mon désir est simplement d'être renseignée. Longtemps je n'ai pas voulu approfondir les dénonciations qui m'ont mise au courant. Aujourd'hui, cette chose me revient, m'obsède, et il est bien naturel que je m'adresse à vous, car je n'en ai jamais soufflé mot à mon mari, je croirais très mauvais pour notre tranquillité de lui arracher une confession, des détails, toute l'irréparable faute. Enfin, ce qui achève de me décider, c'est le souvenir de notre rencontre, le jour où j'ai accompagné Mme Angelin chez la sage femme de la rue de Miromesnil, et où je vous ai aperçu, avec cette fille, qui avait de nouveau un enfant au bras... Vous l'avez donc revue, vous devez savoir ce qu'elle devient, si son premier enfant vit encore, et, dans ce cas, où il est, ce qu'il fait. »]{.calibre11}
+
+[Il ne répondit toujours pas. La fièvre dont il la voyait peu à peu brûler le mettait en garde, lui faisait chercher le motif d'une si étrange démarche, de la part de cette femme si fière, si discrète d'habitude. Que se passait-il donc ? Pourquoi s'efforçait-elle de ramener à des confidences, dont il ne pouvait prévoir les résultats ? Puis, comme elle le dévisageait, le fouillait de ses yeux aigus, il chercha de bonnes paroles évasives.]{.calibre11}
+
+[« Vous m'embarrassez beaucoup. Et, d'ailleurs, je ne sais rien qui puisse vous intéresser... Pour votre mari, pour vous plus encore à quoi vous servirait de remuer ce passé lointain ?... Croyez-moi oubliez ce qu'on a pu vous dire, vous qui avez tant de raison tant de sagesse... »]{.calibre11}
+
+[Elle l'interrompit, elle lui saisit les mains, les garda dans les siennes, d'une étreinte chaude et tremblante. Jamais elle n'avait eu ce geste, d'une passion qui s'oubliait, qui se livrait.]{.calibre11}
+
+[« Mais je vous répète que personne n'a rien à craindre de moi ni mon mari, ni cette fille, ni l'enfant. Comprenez donc ! Je suis seulement tourmentée, je souffre de ne pas savoir, oui ! Il me semble que je serai plus tranquille, dès que je saurai. C'est pour moi que je vous interroge, pour mon repos... Ah ! Si je vous disais, si je vous disais ! »]{.calibre11}
+
+[Il commençait à deviner bien des choses, elle n'avait pas besoin de tout lui dire. Déjà, le rapprochement du ménage le renseignait il s'était douté, au lendemain de la mort de Maurice, du désir ardent qu'ils avaient de le remplacer, des efforts qu'ils faisaient pour avoir un fils encore. Et, depuis un an que ce fils ne venait pas, il avait pu suivre leur déception, leur tristesse croissante, la colère enfin, les amertumes et les querelles, où leur impuissance les jetait. Puis, voilà qu'il assistait, chez l'épouse vieillie, à cette crise de jalousie singulière, cette hantise de l'enfant que son mari ne lui faisait pas maintenant, qu'il avait fait à cette fille autrefois. La femme ne comptait plus, elle avait su cette fille belle, fraîche, de chair adorable, autant qu'elle-même était sèche, jaune glacée avant l'âge ; et elle n'avait pas un mot d'amoureuse blessée. C'était la mère seule qui souffrait en elle, c'était l'enfant qu'elle jalousait d'un coeur éperdu. Elle ne pouvait le chasser de son souvenir, il revenait sans cesse comme une moquerie, comme une insulte chaque fois qu'elle constatait l'inutilité de son attente, la débâcle d'une espérance nouvelle. Et, chaque mois, la désillusion s'aggravait, elle rêvait plus passionnément de l'enfant de l'autre, elle le voulait, elle s'irritait à se demander où il était, ce qu'il était devenu et s'il se portait bien, et s'il ressemblait à son père.]{.calibre11}
+
+[« Je vous assure, mon cher Mathieu, reprit-elle, que vous ferez une bonne oeuvre en me répondant... Vit-il ? dites-moi seulement s'il vit. Mais ne me mentez pas... S'il était mort, je crois qu'il me laisserait plus calme. Et grand Dieu ! Je ne lui souhaite pourtant pas de mal ! »]{.calibre11}
+
+[Alors, Mathieu, qu'elle finissait par toucher beaucoup, lui dit la vérité toute simple.]{.calibre11}
+
+[« Puisque vous insistez, au nom de votre repos, puisque ceci doit rester entre nous, sans que votre ménage ait à en souffrir, je ne vois pas de mal à vous confier ce que je sais ; et, je le répète, ce que je sais est peu de chose... L'enfant a été mis, sous mes yeux, aux Enfants-Assistés. Depuis, la mère, n'en ayant jamais demandé, n'en a jamais eu de nouvelles. Je n'ai pas besoin d'ajouter que votre mari est également dans une ignorance profonde, car il a toujours refusé de s'occuper de cet enfant... Vit-il encore ? Où est-il ? C'est donc ce que je ne puis vous dire. Il faudrait faire toute une enquête. Cependant, si vous voulez mon opinion, il y a de grandes probabilités pour qu'il soit mort, tant la mortalité est grande sur ces pauvres petits êtres. »]{.calibre11}
+
+[Elle le regardait fixement.]{.calibre11}
+
+[« Vous me dites bien la vérité, vous ne me cachez rien ? »]{.calibre11}
+
+[Et, comme il protestait :]{.calibre11}
+
+[« Oui, oui, j'ai confiance en vous... Alors, il serait mort, c'est votre pensée ? Ah ! Tous ces enfants qui meurent, quand il y a des femmes qui seraient si heureuses d'en sauver un, d'en avoir un à elles !... Enfin, si ce n'est pas une certitude, c'est tout de même un renseignement. Merci. »]{.calibre11}
+
+[Pendant les mois qui suivirent, Mathieu se retrouva plusieurs fois seul avec Constance ; mais elle ne revint jamais sur ce sujet. Elle semblait ignorer de nouveau, vouloir oublier, par un effort d'énergie. Pourtant, il la sentait hantée toujours, et il n'était point difficile de deviner que les rapports du ménage se gâtaient davantage, à mesure que les époux perdaient l'espoir d'avoir un enfant, cet espoir qui, seul, les avait rapprochés. S'ils gardaient encore devant le monde leur attitude de bonne entente, des faits disaient la lente désunion, la rupture nouvelle, s'aggravant de semaine en semaine. Beauchêne avait repris presque complètement sa vie au-dehors, en homme harassé, irrité des corvées conjugales, si peu douces, d'autant moins agréables, qu'elles restaient parfaitement inutiles. Constance luttait quand même, le retenait, d'une âpreté de guerrière qui se trahissait dans ce regard de possession dont elle l'enveloppait, résolue à ne le rejeter que vide et mort. Était-ce donc possible, en étaient-ils à l'impuissance des Angelin ? Tout ce qu'elle avait pressenti, redouté, allait-il se réaliser, faire choir son ménage au vide affreux où elle voyait sombrer le ménage de son amie ? Cette idée d'impuissance l'exaspérait, la rendait honteuse, comme d'une tare, d'une déchéance. Elle ne l'acceptait pas pour elle. Son mari peut-être, car il s'était prodigué, usé partout. Et il y eut une heure furieuse où la querelle d'alcôve éclata, où ils s'accusèrent mutuellement de la stérilité qui les désolait, dans la colère enfin débordante de leurs vaines étreintes.]{.calibre11}
+
+[Beauchêne déclarait que ça se soignait. Mais qui consulter ?]{.calibre11}
+
+[Quand il nomma Boutan, Constance protesta d'abord, car elle le redoutait, elle craignait de le voir triompher, avec ses théories qu'elle avait si longtemps combattues. Puis, elle céda, d'une pruderie toujours en éveil, ne consentant encore à se laisser examiner que par l'accoucheur qui la connaissait.]{.calibre11}
+
+[Le matin où Boutan fut appelé, il trouva les époux dans le petit salon jaune, qu'il connaissait bien, pour y être venu tant de fois en visite, lors de l'enfance maladive de Maurice. Tout de suite, les portes soigneusement fermées, Beauchêne voulut le prendre sur le ton de la plaisanterie, afin d'esquiver l'embarras des premières explications. Il amena Boutan devant sa femme debout, très pâle, très grave.]{.calibre11}
+
+[« Docteur, voici une dame qui désire redevenir une jeune mariée... Elle veut un enfant, et il faut que vous lui disiez comment ça se fait. »]{.calibre11}
+
+[Le bon docteur se prêta volontiers au jeu. Il avait sa grosse face de brave homme, son doux regard, sans qu'il parût triompher le moins du monde d'une catastrophe, prévue par lui depuis longtemps. Il se contenta de rire avec gaieté.]{.calibre11}
+
+[« Un enfant, c'est parfait ! Mais vous savez aussi bien que moi comment on s'y prend.]{.calibre11}
+
+[--- Ma foi, non, docteur ! reprit Beauchêne, de son air gaillard. Du moins, nous l'avons oublié, car voici bientôt un an que nous faisons tout ce qu'il faut pour en avoir un, et le cher petit s'entête à ne pas venir. »]{.calibre11}
+
+[Il eut le tort d'ajouter, sans attendre, dans le vaniteux besoin de sauver de la défaite sa responsabilité de bon mâle :]{.calibre11}
+
+[« Je crois bien qu'il y a quelque chose de détraqué chez la maman, et si nous avons recours à vous, c'est pour vous prier de voir et de raccommoder ça. »]{.calibre11}
+
+[Blessée du tour qu'il donnait à la consultation, le sang brusquement au visage, Constance, muette jusque-là, intervint, d'un ton de colère.]{.calibre11}
+
+[« Pourquoi m'accuses-tu ? En sais-tu quelque chose ?... Docteur, selon moi, c'est le père que vous aurez raison d'examiner et de soigner.]{.calibre11}
+
+[--- Voyons, chère amie, je n'ai pas voulu te faire de la peine.]{.calibre11}
+
+[--- De la peine, ah ! Grand Dieu, qu'importe ! Je pleure maintenant les journées entières... Mais je ne veux pas que tu commences par jeter sur moi toute la cause de notre chagrin. Et, puisque tu m'y pousses, je suis bien forcée de prévenir le docteur, pour qu'il sache au moins à quoi s'en tenir sur ton compte ».]{.calibre11}
+
+[Vainement, Beauchêne tenta de la calmer. Elle s'affolait, perdait toute mesure.]{.calibre11}
+
+[« Le mari que tu as été, le mari que tu es encore, penses-tu donc que je le connaisse seulement d'aujourd'hui ? Ah ! Pauvre homme, j'ai toujours été au courant de ton abominable existence ! »]{.calibre11}
+
+[Il voulut l'interrompre, lui prendre les mains, inquiet de la crise qu'il sentait venir.]{.calibre11}
+
+[« Tais-toi ! C'est stupide, à quoi bon tout ça ?]{.calibre11}
+
+[--- Ne me touche pas, tu me fais horreur ! Est-ce parce que le docteur est là ? Mais tu me l'as dit toi-même, un médecin est un confesseur, on lui avoue tout, on lui montre tout. D'ailleurs, t'imagines-tu qu'il ne sache pas, lui aussi, ton affreuse conduite ? Tout le monde la sait... Quand je pense que, pendant plus de vingt années, tu as pu croire à mon aveuglement, à ma bêtise ! Et cela, parce que je me taisais ! »]{.calibre11}
+
+[Elle s'était plantée devant lui, petite, noire, rageuse. C'était vrai, elle avait eu vingt ans la force héroïque de se taire. Non seulement elle n'avait jamais, devant le monde, laissé voir des soupçons, des colères, une attitude de femme délaissée, irritée ; mais elle s'était même abstenue de tout reproche, de tout changement d'humeur, dans le secret de l'alcôve. L'orgueil, la dignité la tenaient ainsi debout, méprisante et muette. Puis, que lui importait le père indigne, qu'elle n'aimait pas, dont les caresses trop rudes avaient fini par la blesser, lui répugner ! N'avait-elle pas son fils, le dieu, en qui elle s'était réfugiée, qui était devenu sa vie, sa joie, sa gloire ? Elle serait morte sans daigner se plaindre ; et, pour qu'elle rompît son long silence, il fallait que le destin eût passé lui arrachant l'enfant qui faisait son héroïsme, la laissant vide, désemparée, en proie aux tempêtes. Alors, cette silencieuse éclatait, tout sortait, la débâcle roulait les trahison de vingt années, son mépris, son dégoût, ce qu'elle avait caché et qui l'étouffait depuis si longtemps.]{.calibre11}
+
+[« Mais, pauvre homme, je me suis doutée que tu courais, tout de suite, pas trois mois après notre mariage. Oh ! Ce n'était pas grave, simplement de petites infidélités, celles que les femme intelligentes tolèrent... Seulement, ça s'est gâté bientôt, tu t'es mis à me mentir avec impudence, toujours un mensonge t'a forcé de m'en faire un autre. Et tu es tombé à la rue, aux dernières des filles, tu m'es revenu, la nuit, pendant que je dormais, ivre parfois, empoisonné de vice ignoble... Ne dis pas non, ne cherche pas un mensonge encore ! Tu vois bien que je sais tout !]{.calibre11}
+
+[Et elle marchait sur lui, l'acculait, sans lui laisser placer une parole.]{.calibre11}
+
+[« Alors, cet enfant que tu ne peux plus me faire, tu es allé le faire au-dehors, à toutes les filles qui ont bien voulu. La première venue, la passante du trottoir en avait un, si le coeur lui en disait. Tu jetais ça au vent, pour ton plaisir, et ça pouvait pousser, tant pis ! Des enfants, mais tu dois en avoir partout ! Où sont-ils ? Où sont-ils donc ?... Quoi ! Tu ris, tu n'as pas eu d'enfant ? Eh bien ! Et celui de cette Norine, de cette ouvrière, que tu as été assez bas de ramasser ici, près de moi, dans ton usine ? N'as-tu pas payé pour les couches, n'as-tu pas fait porter le petit aux Enfants-Assistés ? Ne mens donc plus, puisque tu vois bien que je sais tout ! Et où est-il encore, celui-là ? Où est-il, dis-moi ? »]{.calibre11}
+
+[Beauchêne ne plaisantait plus, blême, les lèvres tremblantes. Il avait d'abord imploré du regard l'aide de Boutan, qui s'était simplement assis, d'un air d'attente. À combien de scènes semblables, et de plus grossières, et de plus dangereuses, le docteur avait-il assisté, en confident naturel de ces drames secrets, que déterminent les fraudes ! Aussi s'était-il donné pour règle de laisser parler la colère des gens, ayant acquis l'expérience que c'était la seule occasion de tirer d'eux des renseignements vrais car ils mentaient toujours, dès qu'ils étaient de sang-froid.]{.calibre11}
+
+[« Ma chère amie, finit par répondre Beauchêne, en jouant la douleur, tu es vraiment sans pitié, veux-tu donc nous achever l'un et l'autre ? Si j'ai commis des fautes, crois bien que je les pleure amèrement... Mais, enfin, il ne faudrait pas pourtant m'accabler, mettre tout notre malheur à ma charge. Tu me reproches d'avoir couru, n'est-ce donc pas que tu m'as laissé courir ?... C'est un peu ta faute.]{.calibre11}
+
+[--- Comment, ma faute !]{.calibre11}
+
+[--- Certainement... Tu l'avoues toi-même, tu fermais les yeux, tu tolérais mon égarement. Ne pouvais-tu donc me retenir ? Qui te dit que des remontrances, des tendresses de ta part ne m'auraient pas corrigé ?... Vois-tu, un homme qui ne trouve pas chez lui la femme aimable, dévouée, dont il a besoin pour vivre, surtout un homme caressant comme moi, a souvent quelque excuse, lorsqu'il se dérange... C'est ta faute.]{.calibre11}
+
+[--- Ma faute ! Est-ce que je me suis jamais refusée ?]{.calibre11}
+
+[--- Oh ! Il y a une façon de se refuser en se donnant. Ça ne se discute pas, ça se sent, cette chose-là... Enfin, puisque tu me forces à être brutal, une femme est malvenue de reprocher des maîtresses à son mari, quand elle n'a pas su faire ce qu'il fallait pour le garder tout à elle. Je ne suis pas un ange. Tu devais te livrer, m'exiger, t'arranger pour que je n'aie pas en tête d'autre idée de plaisir. »]{.calibre11}
+
+[Elle l'écoutait, indignée, hors d'elle.]{.calibre11}
+
+[« Mais c'est immonde, ce que tu me dis là ! Alors, c'est parce que tu n'avais pas assez de plaisir avec ta femme, que tu es allé en demander à toutes les filles des rues ? Et quel plaisir ? Est-ce que je sais, est-ce que je n'ai pas rempli mon devoir ? Reproche-moi d'avoir été honnête, d'avoir été propre, de n'avoir pas été une de ces misérables qui ont fait de toi l'être dégradé, imbécile et impuissant que tu es devenu. »]{.calibre11}
+
+[Il l'interrompit d'un geste violent, la face cravachée par ce reproche d'impuissance, sur le point de soulager la répulsion que lui avaient toujours causée sa maigreur, sa peau sèche, son teint de plomb. Une telle femme, « cet os », si maladroite à l'amour, si froide, qu'elle ne s'était jamais réchauffée dans ses bras, sans un rire, sans un bonheur, avait-elle le droit de lui jeter tant de reproches au visage ?]{.calibre11}
+
+[« Eh bien ! Bats-moi maintenant, s'écria-t-elle, ce sera le comble !... Et si ça ne se passait pas à ton idée, si tu désirais autre chose, pourquoi ne t'expliquais-tu pas ? Nous ne voulions pas d'enfant, nous étions bien forcés de prendre les précautions nécessaires. C'est toi, d'ailleurs, qui me les avais apprises, je n'ai jamais fait que ce que tu m'as dit de faire... Tu ne vas pas prétendre que tu voulais un enfant ?]{.calibre11}
+
+[--- Non, et pourtant il y aurait encore beaucoup à dire là-dessus.]{.calibre11}
+
+[--- Comment ! Tu voulais un enfant ?]{.calibre11}
+
+[--- Si je n'en voulais pas un, je n'étais pas, en tout cas, sans cesse en éveil, à surveiller les moindres caresses, à ne songer éperdument qu'aux suites possibles d'un oubli. Dans ces conditions, il vaut mieux se tourner le dos... Voyons, ma chère amie, rappelle-toi, de grâce ! Est-ce que, vingt fois, je ne me serais pas laissé aller, si tu ne m'avais pas retenu ? »]{.calibre11}
+
+[Cette dernière affirmation acheva de la rendre folle.]{.calibre11}
+
+[« Tu mens, tu mens encore !... Oh ! Je comprends, tu veux faire croire que c'est moi la coupable, la seule coupable, si nous n'avons pas aujourd'hui un autre fils, qui prendrait la place vide de notre pauvre Maurice. Oui ! Tu es assez lâche pour en jeter sur moi toute la responsabilité... Mon Dieu ! Notre pauvre Maurice ! N'est-ce pas parce que nous le voulions riche, heureux, triomphant, que nous sommes dans un tel chagrin aujourd'hui ? Si nous avons péché, c'est par excès de tendresse, par adoration. Et tu disais comme moi, et tu as toujours agi comme moi ! »]{.calibre11}
+
+[Il ne céda point, fort maintenant de ne pas mentir.]{.calibre11}
+
+[« Comme toi, non ! Je te répète que tu n'aurais eu qu'à ne pas faire le gendarme, et ça y était... Puis, je ne sais ce que tu manigançais, tu prenais des précautions de ton côté.]{.calibre11}
+
+[--- Moi ! Moi !]{.calibre11}
+
+[--- Parfaitement ! Tu me l'as même laissé entendre un soir. Tu te méfiais et tu t'arrangeais, dans les cas d'une brusque folie de ma part... Enfin, je sais bien ce que les femmes sont capables de se fourrer, je ne suis pas né d'hier. » Elle s'était dressée, elle cherchait le coup de massue pour l'écraser. Mais un souvenir aigu lui revint, il disait vrai cette fois, elle se rappelait comment, sans le mettre dans le secret, elle avait jadis, par un luxe de prudence, barré la route aux grossesses possibles, sur le conseil d'une amie, dont le mari rêvait d'enfants nombreux, et qui n'en voulait point. Ce souvenir la bouleversa, la déchira d'un remords éperdu, dans la pensée que, ces nuits-là, elle aurait eu un second enfant peut-être ; et elle l'avait tué, elle en était punie à cette heure, seule au monde, le coeur arraché, avec sa maternité vide et saignante ! Trop orgueilleuse pour consentir à un aveu, elle finit par trembler, par bégayer.]{.calibre11}
+
+[« Tu me rends folle... Vous voyez, docteur, que notre maison est un enfer à présent... Excusez-moi, je ne peux plus, je ne peux plus ! »]{.calibre11}
+
+[Et elle s'en alla, elle fit claquer les portes, on l'entendit s'enfermer dans sa chambre, à double tour.]{.calibre11}
+
+[Au bout d'un silence, Beauchêne, qui s'était mis à se promener de long en large, s'approcha de Boutan, pour lui dire, en haussant les épaules :]{.calibre11}
+
+[« Elles sont toutes pareilles, ça ne pouvait pas finir autrement. J'ai eu tort de rester là, j'aurais dû filer, ne pas assister à la consultation... Enfin, vous reviendrez, mon pauvre docteur. Vous la verrez seule, ça vaudra mieux. » Puis, de son air d'homme heureux de vivre, qu'il avait déjà retrouvé :]{.calibre11}
+
+[« Elle est convaincue que c'est moi, l'impuissant, et elle vous appelle surtout pour que vous lui donniez raison. Je n'ai pas de méchanceté, je vous demande même de dire comme elle, si cela doit la calmer et ramener un peu la paix dans le ménage... Mais entre nous, et vous le savez mieux que moi, c'est elle qui est malade. »]{.calibre11}
+
+[C'était, en effet, l'opinion de Boutan. Il connaissait bien le cas, il le rencontrait constamment dans sa clientèle. Pourtant, il questionna Beauchêne, bien qu'il n'eût guère besoin des confidences du mari fraudeur. Les fraudes restaient les grandes désorganisatrices, même lorsqu'elles prenaient une sorte de caractère normal, dans les prudes alcôves bourgeoises. Par leur fréquence, par les secousses dont elles ébranlaient l'organisme, elles déterminaient les pires ravages, elles amenaient des occlusions chroniques. Le docteur en soupçonnait une, surtout depuis qu'il avait soigné Constance pour une inflammation locale. Et la stérilité devait en être l'inguérissable résultat.]{.calibre11}
+
+[« Je ne veux plus m'en mêler, vous prendrez un nouveau rendez-vous avec elle, répéta Beauchêne, en le reconduisant. Et guérissez-la, ça ne doit pas être impossible, car elle a raison de dire qu'elle est presque toute neuve, qu'elle n'a pas commis d'excès, elle. Vous le savez, d'ailleurs, je ne crois pas à votre théorie, qu'il faut faire toujours des enfants, pour en faire un quand on le veut... Si l'on ne triche pas, la vie n'est plus possible.]{.calibre11}
+
+[--- Que diriez-vous, répondit le docteur, d'un monsieur qui aurait un pommier dont il arracherait les fleurs, à chaque renouveau, et qui s'étonnerait, plus tard, de ne pas le voir produire des pommes ?... Vous avez brutalisé l'arbre, il est infécond. »]{.calibre11}
+
+[Lorsque, le surlendemain, Boutan eut examiné Constance, il se confirma dans son diagnostic, tout en ne pouvant le formuler qu'à titre d'hypothèse infiniment probable, car ces sources de la vie sont si obscures, qu'il est impossible d'y lire en pleine certitude. Il se montra très prudent, très sobre de paroles, ne voulant pas la jeter d'un coup au complet désespoir. Un instant, il eut même l'air d'accueillir ses récriminations sur son mari, que les désordres les fatigues de sales amours avaient pu briser, user avant l'âge. En tout cas, elle était bien forcée de mettre son unique espérance de fécondité en cet homme, solide encore, malgré le gaspillage de son existence. Et il finit par lui faire admettre, chez elle, un dérangement d'organe, des troubles qu'il allait soigner, guérir sans doute. Ce serait évidemment très long, il faudrait avoir de la patience. Lui-même espéra d'abord s'être trompé, se trouver simplement devant un état congestif, dont il serait vainqueur par une médication opiniâtre. Un jour pourtant, comme il laissait échapper le mot grave d'occlusion, elle s'effara, il dut rattraper le terme. Et des mois s'écoulèrent, des soins qu'il lui donnait deux fois par semaine, tout un traitement religieusement suivi dans une attente anxieuse qui, chaque mois, aboutissait à la même déception, à des crises grandissantes d'affreux découragement.]{.calibre11}
+
+[Un moment devait venir où Constance n'aurait plus confiance en ce docteur dont la science ne pouvait même pas la rendre mère. Elle le trouva trop doux, de médication trop prudente, de moyens trop corrects. Puis, elle le sentait évasif, elle devinait qu'il l'endormait avec des promesses sans cesse reculées, convaincu au fond de l'inutilité de tous les efforts. Et elle résolut de tenter autre chose, elle se mit dans les mains de Mme Bourdieu, à la suite d'une visite, où celle-ci, après l'avoir examinée, se récria, s'engagea formellement à la guérison, en expliquant que le cas de Mme Angelin était bien différent, un cas d'abus, de délais destructifs, de perversion lente de l'organe. Alors, un nouveau régime, une nouvelle attente commencèrent. Pendant des mois encore, elle alla rue de Miromesnil, elle se soumit aux soins les plus rudes, aux pratiques les plus douloureuses. Mais rien ne venait toujours, la nature si longtemps dupée se refusait à lui refaire une fertilité, elle retomba dans l'angoisse de sa maternité morte, brisée par les continuelles alternatives d'espoir et de désespoir. Et ce fut l'affolement, la course aux empiriques, les journaux lus chaque matin pour y trouver l'annonce d'un remède, l'adresse de quelque officine louche, où l'on trafiquait sur les mères stériles, comme on spéculait dans d'autres sur les mères trop fécondes. Un soir, elle se rendit chez la Rouche, qui avait joint à sa spécialité des mort-nés la vente d'une drogue infaillible contre la stérilité chronique supprimant ou donnant ainsi des enfants, selon le désir des clientes. Désormais, cette bourgeoise prude, qui refusait de se montrer même à son accoucheur, fréquentait des cliniques de charlatans, provoquait d'incessantes visites, se serait dénudée sur une place publique, si la foi lui était venue qu'une grossesse miraculeuse lui tomberait du ciel. Elle en arrivait à l'idée fixe, à un enragement de volonté contrecarrée, de tendresse inassouvie, si douloureux, que son mari parfois la crut folle, la nuit, en la voyant mordre son oreiller, pour ne pas hurler à la mort. Et, lorsqu'elle eut tout essayé, tout épuisé, jusqu'aux saisons d'eaux et aux neuvaines, aux cierges brûlés devant des Vierges propices, elle ne voulut pas encore s'avouer vaincue, elle s'entêta longtemps dans l'attente d'un prodige, elle s'acharna, jura qu'elle violenterait le destin.]{.calibre11}
+
+[Beauchêne était fort ennuyé. Elle ne l'accusait plus d'impuissance, elle le gardait, fermait les portes, le voulait tout à elle, dans l'idée que chacune de ses trahisons, maintenant, lui volerait un peu de son espoir. Et cela sans tendresse, d'une main rude, d'un air de commandement, où il y avait toujours pour lui le même mépris, le même dégoût. Elle l'acceptait, l'exigeait, comme les drogues nauséabondes qu'elle consentait à prendre, si répugnée souvent, qu'elle l'aurait chassé, renvoyé à son ordure coutumière, avec un soupir de soulagement immense. Elle le martyrisait aussi en ne lui parlant que de l'enfant voulu, attendu, rêvant tout haut répétant à satiété ce qu'elle faisait, ce qu'elle espérait. Puis, à chaque mécompte, c'étaient des querelles infernales, le flot des anciens reproches, les bâtards inconnus jetés à sa face ; et cette déconvenue amère revenait comme un glas, son succès de mâle avec les autres femmes, lorsque rien avec elle ne réussissait. Était-ce donc que l'un et l'autre se neutralisaient, qu'ils n'étaient pas faits pour s'appareiller ? Peut-être, un moment, songea-t-elle à un adultère de simple expérience, torturée par cette idée que là se trouvait l'unique façon de savoir si, vraiment, la stérilité venait d'elle. Mais elle ne pouvait s'y résoudre, tout son être protestait, se révoltait, son tempérament, son éducation. Et ce dernier doute, ce point qui devait rester à jamais obscur, acheva de l'exaspérer, en empoisonnant son tourment.]{.calibre11}
+
+[Depuis près de deux années, Constance luttait ainsi, lorsqu'il lui vint un espoir encore, l'idée d'une partie suprême. Elle avait reçu les confidences de Sérafine, qui s'était rapprochée de sa famille, si fréquemment malade à présent, si lasse, si vieillie qu'elle s'oubliait volontiers au foyer des autres, dans la terreur de se retrouver seule chez elle. En l'écoutant raconter, avec une amertume affreuse, les opérations de Gaude, le chirurgien illustre, Constance s'était dit qu'un homme capable d'accomplir de tels miracles pour empêcher les enfants de naître devait aussi pouvoir les faire éclore, sous ses doigts de magicien. Elle avait toujours en tête le mot de Boutan, l'occlusion, qui la ravageait, éveillait en elle une idée d'obstacle, de route obstruée et close. Mais cela dépendait de la chirurgie, pourquoi ne s'adresserait-elle pas à Gaude ? Elle ne voulut même pas consulter de nouveau le docteur, son plan fut d'aller à Gaude tout droit, afin qu'on ne la décourageât pas, en discutant l'utilité de sa visite. Seulement, lorsqu'elle supplia Sérafine de l'accompagner chez le terrible opérateur, celle-ci refusa furieusement, déclarant qu'elle ne pourrait le revoir sans lui arracher un peu de son abominable chair d'homme destructeur de la femme, tueur du désir. Et Constance, qui parut abandonner son projet, s'exalta, attendit l'heure du courage, pour faire seule, en grand secret, la démarche.]{.calibre11}
+
+[Un jour que Sérafine revenait justement de chez les Beauchêne, elle rencontra Mathieu, l'emmena chez elle, tant elle l'apitoya. C'était un besoin qu'elle lui avait témoigné dix fois, un très ancien besoin de l'avoir pour confident, de se soulager en lui confessant le désastre de sa vie, qu'elle ne pouvait dire à personne. Lui, l'amant d'autrefois, l'ami de vingt ans, l'entendrait.]{.calibre11}
+
+[« Ah ! Mon ami, je ne vis plus, excusez-moi si vous trouvez ici tout à l'abandon », lui dit-elle, en l'introduisant dans son rez-de-chaussée de la rue de Marignan, autrefois si discrètement, si voluptueusement tenu.]{.calibre11}
+
+[Il en fut très frappé. Sans doute elle n'y recevait plus les mystérieuses visites pour lesquelles l'appartement semblait avoir été fait. Les pièces closes, aux lourdes tentures, aux épais tapis, semblaient envahies de poussière et de froid, comme mortes. Mais surtout il reconnut à peine le petit salon préféré, sans fenêtres apparentes, d'un silence de tombe, où il se souvenait d'avoir été reçu en plein jour, aux lueurs adoucies de deux candélabres. Il en avait emporté le parfum troublant, il se rappelait la crise de désir fou qui avait failli l'y ramener, un soir d'ivresse. Et ce salon n'était plus le même, une fenêtre sans rideau l'éclairait d'une lumière livide, il apparaissait glacé, usé, dans un désordre honteux.]{.calibre11}
+
+[« Ah ! Mon ami, répéta Sérafine, asseyez-vous comme vous pourrez. Je n'ai plus de chez-moi, je ne rentre ici que pour y agoniser de regrets et de colère. »]{.calibre11}
+
+[Elle retira ses gants, elle ôta son chapeau et sa voilette. Et il regardait, telle qu'elle lui était apparue déjà, lors de leurs quelque rencontres, mais saisi d'un véritable effroi, à la voir de près, à l'étudier dans son inquiétante déchéance. Il l'évoquait quelques années plus tôt, à trente-cinq ans, avec son insolente beauté rousse, sa haute taille de conquête, sa chevelure de soleil, sa gorge, ses épaules impudiques, sans une flétrissure. Quel vent terrible l'avait donc détruite, pour la vieillir brusquement ainsi, d'un néant de spectre, comme si la mort avait déjà passé, et qu'il vît se lever là, devant lui, le squelette décharné de la femme triomphante qu'il avait connue ! Elle avait cent ans.]{.calibre11}
+
+[« Oui, vous me regardez encore, vous ne pouvez pas le croire. C'est comme moi, lorsque je m'aperçois dans une glace, j'ai peur... Aussi, vous le voyez, j'ai voilé toutes les glaces, ici, tant je tremble à l'idée de rencontrer mon fantôme. »]{.calibre11}
+
+[Il s'était assis sur un canapé très bas, elle vint se mettre à son côté, lui prit les mains amicalement, entre ses doigts amaigris.]{.calibre11}
+
+[« Hein ? Vous ne craignez plus que je vous violente, me voilà trop vieille, et je puis tout vous dire... Mon histoire, vous la savez bien. C'est vrai, je n'étais pas née pour être mère, ni même épouse. J'ai eu deux fausses couches, je ne les ai jamais regrettées. Quant à mon mari, je ne l'ai pas pleuré davantage, c'était un fou dangereux. Ensuite, veuve, j'étais libre de vivre à ma guise n'est-ce pas ? On ne peut me reprocher aucun scandale, j'ai gardé mon rang, j'ai fait ce qu'il m'a plu, les portes fermées... Une créature d'amour, uniquement de beauté, de volupté, oui, voilà bien ce que j'ai rêvé d'être, de toute ma force, de tout le désir dont je brûlais. Et c'est vrai encore, je vous ai menti autrefois lorsque je vous ai raconté que j'étais malade, afin d'expliquer l'opération à laquelle je feignais de me résigner. D'ailleurs, vous ne devez pas avoir été ma dupe, c'était trop clair... Ah ! J'avoue ! J'ai cédé à cette folie d'être la maîtresse de mon plaisir, de le prendre comme je voudrais, autant que je voudrais, sans être continuellement inquiétée, empêchée par la crainte imbécile de l'enfant. Et je me suis fait opérer pour être à part, libérée de la nature, supérieure ainsi qu'une chair divine, hors de la loi. Et je n'ai eu que la faim de connaître où peut monter la jouissance humaine, dans toutes les étreintes, impunément... J'avoue, j'avoue ! J'ai beau être foudroyée, je recommencerais demain si l'expérience était à refaire, je ne résisterais pas au besoin de tenter encore l'infini du plaisir. »]{.calibre11}
+
+[Ce cri, qui lui échappait, l'avait à demi soulevée, dans une sorte d'exaltation farouche. Elle continua, elle osa dire son triomphe, au lendemain de l'opération, lorsqu'elle avait senti d'abord ses désirs croître, sous les blessures irritées du fer. C'était bien la nature battue, le spasme décuplé, l'accueil fait sans danger à tous les amants. Puis, la lente déchéance avait commencé, une sénilité précoce, dont les symptômes, un à un, se déclaraient. Elle n'était plus femme, il semblait que le sexe, amputé, emportait avec lui tout ce qui faisait sa grâce, sa gloire de femme. Puisqu'elle ne pouvait plus être ni épouse, ni mère, à quoi bon la beauté conquérante des épouses et des mères ? Ses cheveux tombèrent, elle vit ses dents jaunir et s'ébranler. Il survint aussi une faiblesse progressive de la vue, tandis que des bourdonnements d'oreille, presque incessants, l'affolaient. Mais ce dont elle s'épouvanta le plus, ce fut de cet amaigrissement qui la desséchait, la décharnait, balafrée de rides, la peau dure, jaunie, cassante comme un parchemin. Et elle eut un geste affreux, dans son impudeur de femme agonisante.]{.calibre11}
+
+[« Oh ! Vous ne voyez pas tout, mon ami... Tenez ! Regardez ! »]{.calibre11}
+
+[Et, des deux mains, elle ouvrit, elle arracha son corsage. Sa gorge, ses épaules apparurent, tout le désastre de sa beauté détruite, tout le deuil effroyable de sa chair, autrefois si chaude, si odorante, si éclatante, aujourd'hui crevassée, vidée, tel qu'un fruit trop mûr qui tombe et se gâte. C'était le saccage de sa nudité secrète, la défaite à jamais de l'amour. Et ses deux mains tremblèrent d'une honte enragée, quand elle se recouvrit peureusement, pour cacher cette vieillesse hâtive, ainsi qu'un ulcère immonde, qui l'aurait rongée.]{.calibre11}
+
+[« Alors, mon ami, que faire ? Mes mains elles-mêmes ne me semblent plus être à moi, je ne sais plus à quoi les occuper. Il ne me reste qu'une envie, dormir toujours, dormir sans rêves. Mais, dès que je m'assoupis, j'ai des cauchemars affreux. Je passe mes nuits comme mes jours, à me traîner de chaise en chaise, dans une exaspération de continuelle colère, qui achève de me rendre la vie intolérable... Et tout cela, ce n'est rien. La vieillesse, la ruine de mon corps, je l'accepterais. Si ce Gaude n'avait fait que hâter mes rides, l'inévitable flétrissure, je pourrais lui pardonner en me disant qu'il faut bien payer toute chose. Ce qui me rend folle, c'est qu'il a tué en moi la sensation, tué le plaisir, la seule raison que j'avais de vivre. Et ça, voyez-vous, mon ami, c'est le crime, c'est la plus abominable des tortures. »]{.calibre11}
+
+[Elle s'était levée, elle marchait maintenant devant lui, dans une audace croissante de paroles, ravagée d'une telle souffrance, que l'ignominie de sa confession en arrivait à une sauvage grandeur. Et elle donnait les détails crus, comme si un homme ne l'avait pas écoutée, et il en tremblait d'un effroi pitoyable, sans en être blessé, tant son cri de furieuse impuissance disait la misère humaine. Ah ! Qu'elle les enviait, les autres opérées, celles qui, en perdant tout, avaient perdu le désir, cette Euphrasie Moineaud, par exemple, si anéantie, la chair froide ! Elles n'étaient plus que des choses, elles pouvaient vivre, comme cette petite Cécile, cette vierge qui n'avait jamais rien connu, qui ne connaîtrait jamais rien. Mais elle, misérable, agonisait de la sensation morte, elle en qui le désir irrité, inassouvi, brûlait toujours, et qui n'arrivait plus à le contenter. S'imaginait-on ce diabolique supplice, n'étreindre que du néant, mâcher à vide le plaisir, ne plus l'atteindre, quel que fût l'effort, l'enragement à le poursuivre. De la fatigue, des crises nerveuses dont elle sortait brisée, oui ! Mais du plaisir, jamais, jamais plus ! Et c'était son besoin de plaisir sans fin, de plaisir libre, impuni, qui l'avait décidée à cette opération imbécile, dont son plaisir était mort ! L'atroce ironie de cela, ces représailles vengeresses de la nature dupée, cette idée qu'elle avait assassiné la volupté en amputant la femme, la jetait dans une fureur sombre. Elle ! Grand Dieu ! Elle, la curieuse qui, à quinze ans, s'était livrée ! Elle, dont le mariage n'avait été qu'une débauche ! Elle, dont les débordements de veuve avaient roulé tant d'amants, jusqu'aux passants des rues ! Elle, la jouisseuse effrénée, sans conscience ni morale, finir ainsi, par l'impuissance absolue du spasme ! Dans le vent qui l'avait flétrie, elle croyait entendre passer une grande voix, qui criait : « Plus d'enfant, mais plus de joie charnelle ! » Et cette joie perdue, elle la pleurait en éternelle affamée, rôdeuse inassouvie, au travers de ce petit salon poussiéreux et glacé maintenant, où jadis elle avait connu tant d'heures délirantes, noyée d'ombre chaude, ivre d'odeurs.]{.calibre11}
+
+[Elle s'arrêta brusquement devant Mathieu.]{.calibre11}
+
+[« Vous savez que j'en deviendrai folle... On dit que nous sommes plus de vingt mille châtrées à Paris. Cela doit faire un joli peuple. Je voudrais les connaître toutes, je les mènerais toutes chez Gaude, et la conversation serait drôle, n'est-ce pas ? »]{.calibre11}
+
+[Puis, se laissant de nouveau tomber sur le canapé, près de lui :]{.calibre11}
+
+[« Oh ! Ce Gaude ! Vous ai-je dit que Constance m'a suppliée de la conduire à sa consultation, dans l'espoir qu'il lui ferait faire un enfant ?... Cette pauvre Constance, je la crois aussi détraquée que moi, tellement elle s'enrage à son idée de remplacer son Maurice. Elle m'a prise pour confidente, elle me raconte des choses extraordinaires, jamais je n'ai battu Paris plus éperdument, même dans mes heures de pire folie. Il faut, en vérité, que ce désir d'être mère soit aussi violent, aussi dévastateur que l'autre désir, le grand désir, le mien... Et n'importe ! C'est encore moi qui souffre le plus. Sans doute, elle lutte avec désespoir, elle essaie tout. Mais si je vous contais, moi ! L'horrible bataille que j'ai menée, en quête du plaisir perdu ! J'ai tenté l'infamie, je suis descendue aux étreintes abominables. Et rien, et jamais rien, le grand froid de la mort, même sous les brutalités... Un enfant ! Elle veut un enfant ! ça se remplace, on prend un petit chien ! Mais cette nécessité vitale de contenter le désir ! Est-ce qu'on peut vivre sans nourrir le corps ? Est-ce qu'on peut vivre sans que la chair ait sa flambée de joie ? Et c'est moi la torturée, la crucifiée, car il n'est pas d'autre souffrance ! »]{.calibre11}
+
+[Des sanglots la suffoquèrent. Mathieu lui reprit les mains, pour la calmer, bouleversé lui-même par cette clameur de détresse. Jamais il n'en avait entendu de plus douloureuse, arrachée du plus profond de l'être. Et il resta frissonnant, devant cette figure farouche du désir qui veut être infécond, et qui en meurt.]{.calibre11}
+
+[Tous deux causaient encore, lorsqu'une visite inattendue stupéfia Sérafine. C'était Constance qui s'était décidée, qui sortait justement de chez Gaude. Jamais elle ne venait ainsi, à pareille heure, rue de Marignan. Mais frappée au coeur par les paroles du chirurgien, la tête perdue, elle s'était, dehors, trouvée si seule, elle avait éprouvé un tel besoin de parler, de se soulager, qu'elle accourait là, inconsciente, toute à sa passion.]{.calibre11}
+
+[Dès la porte, elle parla fiévreusement, sans s'étonner, sans se préoccuper de la présence de Mathieu.]{.calibre11}
+
+[« Ah ! Ma chère, j'avais peur de ne pas vous rencontrer... Vous savez ce qu'il vient de me dire, votre Gaude : « Madame, je ne tiens pas l'enfant sur commande. » Et il riait, et il était fort, et il était beau !... Ah ! Le vilain homme !]{.calibre11}
+
+[--- Je vous avais prévenue, fit remarquer Sérafine. Il s'est moqué de vous, j'en étais sûre. L'enfant sur commande, non certes ! Puisqu'il le décommande ! »]{.calibre11}
+
+[Constance les jambes molles, s'était assise sur le canapé, à la place que quittait sa belle-soeur. Alors, elle conta toute sa visite, elle expliqua comment elle avait quand même obtenu de Gaude qu'il l'examinât. Et son désespoir venait de la brutalité tranquille avec laquelle il lui avait déclaré que jamais plus elle n'aurait d'enfant. Sa condamnation était formelle, des charlatans pouvaient seuls l'exploiter, en la leurrant de mensonges. Pour lui, l'occlusion des trompes, à la suite d'inflammations successives devenues chroniques, ne faisait pas de doute. Et c'était fini, et il avait laissé voir une sorte de surprise amusée de la douleur où il la plongeait, lui donnant à entendre qu'une grossesse tardive à son âge, était un désastre. Tant d'autres, parmi les dame ses clientes, se seraient montrées si heureuses de la bonne nouvelle ! Par centaines, il les avait châtrées, et il continuait à les châtrer par centaines, dans sa gaieté sonnante de bel opérateur, convaincu, comme il le disait parfois, que ses petits couteaux travaillaient à la richesse, à la joie du monde.]{.calibre11}
+
+[« Il ment, il ment ! Cria furieusement Sérafine. C'est un assassin, et c'est ma joie qu'il a tuée !]{.calibre11}
+
+[--- Quand je suis sortie de chez lui, acheva Constance, j'ai cru que j'allais tomber dans l'escalier... N'importe ! Il a eu raison d'être brutal. Maintenant, je sais, c'est fini, bien fini, à jamais ! »]{.calibre11}
+
+[Et des sanglots, à son tour, l'étouffèrent. Longuement, Constance pleura sa maternité, à la place où Sérafine avait pleuré son plaisir ; tandis que Mathieu, maintenant, les regardait aux bras l'une de l'autre, la prude et l'impure, la mère et l'amante, rapprochées, confondues, dans le même désespoir d'impuissance.]{.calibre11}
+
+[Lorsque Constance quitta sa belle-soeur, elle pria Mathieu de lui offrir le bras, pour la reconduire. Elle avait renvoyé sa voiture, elle étouffait, elle voulait marcher. Et lui, bientôt, comprit dans quel but secret elle venait, saisissant l'occasion, de l'emmener ainsi.]{.calibre11}
+
+[« Mon cher cousin, lui dit-elle brusquement, dès qu'ils furent sur les quais déserts, marchant à petits pas, pardonnez-moi de revenir sur un sujet pénible, mais je souffre trop, ce dernier coup m'achève... L'enfant de mon mari, l'enfant qu'il a eu de cette fille, me hante, me torture l'esprit et le coeur. Voulez-vous me rendre un grand service ? Faites l'enquête dont vous m'avez parlé, tâchez de me savoir s'il est vivant ou s'il est mort... Quand je saurai, il me semble que la paix me reviendra. »]{.calibre11}
+
+[Surpris, Mathieu fut sur le point de répondre que cet enfant retrouvé ne lui donnerait pas l'enfant qu'elle se désespérait de plus pouvoir faire. Il avait bien deviné l'angoisse où elle agonisait en voyant Blaise prendre à l'usine la place de Maurice, surtout depuis que Beauchêne, retournant à son vice, se déchargeait sur lui de la maison, lui abandonnait chaque jour une autorité plus large. Le jeune ménage fructifiait, Charlotte venait d'accoucher encore, cette fois d'un garçon, et quel nouveau foyer de fécondité envahissante, quelle menace d'usurpation prochaine, maintenant qu'elle-même, stérile, n'aurait jamais plus d'héritier légitime, le dauphin tant caressé, pour barrer la route à la conquête étrangère ! Sans pénétrer le singulier sentiment auquel elle cédait, il pensa qu'elle désirait le sonder simplement, voir s'il n'était pas derrière son fils Blaise, à mener le complot de spoliation. Peut-être allait-il s'inquiéter, refuser de faire toutes recherches. Et cela le décida, dans sa croyance aux seules forces vivantes, en dehors des bas calculs ambitieux.]{.calibre11}
+
+[« Je suis à votre disposition, ma cousine. Il suffit que vous attendiez d'une telle enquête un peu de soulagement. Et, si cet enfant vit, faudra-t-il vous l'amener ?]{.calibre11}
+
+[--- Oh ! Non, oh ! Non, je ne demande pas cela ! »]{.calibre11}
+
+[Puis, d'une voix bégayante, avec un geste égaré :]{.calibre11}
+
+[« Je ne sais pas ce que je demande, je souffre à en mourir ! »]{.calibre11}
+
+[Elle ne mentait pas, elle n'avait aucun projet arrêté, sous la tempête qui la ravageait. Songeait-elle à cet héritier possible ? Irait-elle jamais, dans sa haine contre le conquérant du dehors, jusqu'à l'accepter, malgré l'injure, malgré sa révolte de femme, son horreur bourgeoise de la bâtardise, souillée de basse débauche ? S'il n'était pas d'elle pourtant, il était du sang de son mari. Et, peut-être déjà, l'idée de l'empire à sauver, de l'usine à remettre entre les mains de l'héritier, la grandissait-elle, au-dessus de ses préjugés et de ses rancunes. Mais ce n'était encore là qu'un ouragan de sensations confuses, et il n'y avait toujours, en son être, que cette tourmente éperdue de la mère qui n'a plus d'enfant, qui n'en aura jamais plus, qui en est à vouloir retrouver l'enfant d'une autre, torturée du rêve fou de le faire un peu sien.]{.calibre11}
+
+[« Dois-je mettre Beauchêne au courant de mes recherches ? demanda Mathieu.]{.calibre11}
+
+[--- Faites comme il vous plaira. Cela vaudrait mieux pourtant.]{.calibre11}
+
+[Le soir même, Constance rompit rudement avec son mari. Elle le chassa du lit conjugal, elle le chassa de la chambre. Puisqu'elle le voyait perdu, incapable désormais de diriger l'usine, puisqu'en n'attendait plus de lui l'enfant, elle pouvait donc lui cracher tout le mépris, tout le dégoût qu'elle avait de son étreinte, depuis tant d'années. Il y avait, pour elle, un sentiment si vif de délivrance dans cette idée de n'être plus touchée par cet homme, qu'elle eut une heure de joie vengeresse, à lui dire sa nausée, combien il lui avait répugné toujours, avec son odeur de débauche. Et il eu peur, il s'en alla coucher dehors, tellement elle lui parut grande et redoutable, toute grêle et noire qu'elle était, lorsqu'elle lui cria qu'elle ne le retenait plus, qu'il pouvait retourner à son ordure, y rester librement, s'y noyer. C'était la logique en marche, l'inévitable désorganisation qui s'achevait, d'abord les fraudes nécessitées par l'égoïste orgueil de l'argent, l'exutoire d'un peu de vice toléré aux appétits mal satisfaits du mari, puis la déchéance lente de l'homme intelligent, du travailleur tombé à la crapule du plaisir, puis enfin, après la mort du fils unique, la débâcle du ménage, la mère devenue stérile, le père chassé par elle, roulant au gâtisme final. Et la vie continuait.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+[Livre cinquième]{.calibre55}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778808 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778470 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778132 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777794 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777456 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776780 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776442 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776104 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775766 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775428 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775090 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368774752 .pcalibre .calibre3 .pcalibre1} {#ii .calibre47 .sigil_not_in_toc}
+
+[Lorsque Mathieu commença ses recherches discrètes, la première idée qu'il eut, même avant de consulter Beauchêne, fut de s'adresser directement à la maison des Enfants-Assistés. Si l'enfant était mort, comme il le pensait, cela enterrait l'affaire. Il se rappelait heureusement les moindres détails, le double prénom Alexandre-Honoré, la date exacte du dépôt, tous les petits faits du jour où il avait accompagné la Couteau en fiacre. Et, quand il eut été reçu par le directeur de la maison, qu'il lui eut expliqué le motif vrai de son enquête, en se nommant, il fut surpris de la prompte et nette réponse : Alexandre-Honoré, mis en nourrice à Rougemont, chez la femme Loiseau, après avoir gardé les vaches, puis essayé l'état de serrurier, était depuis trois mois en apprentissage chez un charron, le sieur Montoir, à Saint-Pierre, un hameau voisin. L'enfant vivait, avait quinze ans, et ce fut tout, il ne put avoir aucun renseignement autre, ni sur les conditions physiques, ni sur la moralité.]{.calibre11}
+
+[Dans la rue, Mathieu, un peu étourdi, se souvint que la Couteau lui avait dit, en effet, d'après une infirmière, que l'enfant allait être envoyé à Rougemont. Toujours, il l'y avait vu mort, emporté par la rafale qui décimait les nouveau-nés, couché dans le muet cimetière de village que pavaient les petits Parisiens. Le retrouver ainsi, sauvé du massacre, était une surprise de la destinée, une vague angoisse au coeur, comme une crainte de pires catastrophes. Mais, puisque l'enfant vivait, et qu'il savait maintenant où le chercher, il fut pris d'un scrupule, il sentit la nécessité de prévenir Beauchêne, avant de pousser son enquête plus loin. Cela devenait grave, il ne croyait plus pouvoir agir sans l'autorisation du père.]{.calibre11}
+
+[Immédiatement, avant de rentrer à Chantebled, Mathieu se rendit à l'usine, où il eut la chance de rencontrer le patron, qu'une absence de Blaise clouait à son bureau. Aussi l'y trouva-t-il très maussade, bâillant, soufflant, à moitié endormi. Trois heures sonnaient, et il ne digérait plus, disait-il, lorsqu'il ne sortait pas après son déjeuner. La vérité était que, depuis sa rupture avec sa femme, il donnait ses après-midi entiers à une fille de brasserie qu'il venait de mettre dans ses meubles.]{.calibre11}
+
+[« Ah ! Mon bon ami, soupira-t-il en s'étirant, j'ai décidément le sang qui s'épaissit. Il faut que je me remue. Sans ça, j'y laisserai la peau. »]{.calibre11}
+
+[Mais il se réveilla, quand Mathieu, très nettement, lui eut expliqué le motif de sa visite. D'abord, il ne comprit pas, tant l'histoire lui paraissait extraordinaire, imbécile.]{.calibre11}
+
+[« Quoi ? Qu'est-ce que vous dites ? C'est ma femme qui vous a parlé de cet enfant ? C'est elle qui a la belle idée de vouloir qu'on se renseigne, qu'on le cherche ? » Sa grosse figure congestionnée se décomposait, il bégayait, outré de colère. Et, lorsqu'il sut la mission décisive dont elle avait chargé le cousin, il éclata.]{.calibre11}
+
+[« Elle est folle ! Je vous dis qu'elle est folle furieuse ! A-t-on jamais vu des imaginations pareilles ? Chaque matin, c'est une nouvelle invention, une torture, pour me faire perdre la tête. »]{.calibre11}
+
+[Tranquillement, Mathieu finit par conclure.]{.calibre11}
+
+[« Je reviens donc des Enfants-Assistés, où j'ai su que l'enfant vivait. J'ai l'adresse... Maintenant, que dois-je faire ? »]{.calibre11}
+
+[Ce fut le coup de massue. Beauchêne, exaspéré, serra les poings, leva les deux bras.]{.calibre11}
+
+[« Ah ! Bien ! Nous voilà propres !... Mais, tonnerre de Dieu ! Qu'a-t-elle donc à m'embêter avec cet enfant ? Il n'est pas d'elle, qu'elle nous fiche la paix, à l'enfant et à moi ! Ça me regarde, les enfants que j'ai pu faire. Je vous demande un peu si c'est convenable, que ma femme vous fasse courir après eux. Et puis, quoi ? Vous n'allez pas le lui amener, j'espère ? Qu'en ferions-nous, de ce petit paysan, qui a peut-être tous les vices ? Le voyez-vous entre nous deux... Je vous dis qu'elle est folle, folle, folle ! »]{.calibre11}
+
+[Il s'était mis à marcher rageusement. Tout d'un coup, il s'arrêta.]{.calibre11}
+
+[« Mon cher, vous allez me faire un plaisir, c'est de lui dire qu'il est mort. » Mais il devint pâle, il recula. Constance, sur le seuil de la porte, venait d'entendre. Depuis quelque temps, elle rôdait ainsi par les bureaux de l'usine, sans bruit, apparaissant partout à la fois, comme si elle eût voulu exercer une surveillance. Un instant, devant l'embarras des deux hommes, elle resta silencieuse. Ensuite, sans même s'adresser à son mari, elle demanda simplement :]{.calibre11}
+
+[« Il vit, n'est-ce pas ? »]{.calibre11}
+
+[Mathieu ne pouvait que dire la vérité. Il répondit d'un signe affirmatif. Et Beauchêne, désespéré, tenta un dernier effort.]{.calibre11}
+
+[« Voyons, ma chère amie, sois raisonnable. Je le disais à l'instant, nous ne savons même pas ce qu'il vaut, ce petit. Tu ne vas pas troubler notre vie à plaisir. »]{.calibre11}
+
+[Sèche et froide, elle le regardait d'un air dur. Elle lui tourna le dos, elle exigea le nom de l'enfant, les noms du charron et du hameau.]{.calibre11}
+
+[« Bon ! Vous dites Alexandre-Honoré, chez le charron Montoir, à Saint-Pierre, près de Rougemont, dans le Calvados... Eh ! Bien, mon ami, rendez-moi le service de continuer vos recherches, tâchez de m'avoir des renseignements précis sur les habitudes et le caractère de cet enfant. Soyez prudent, n'est-ce pas ? Ne nommez personne... Merci déjà, merci de tout ce que vous faites pour moi ! »]{.calibre11}
+
+[Et elle s'en alla, sans autre explication, sans même dire à son mari ses projets, peut-être si confus encore, qu'elle les ignorait elle-même. Lui, sous cet écrasant mépris, s'était calmé. Pourquoi aurait-il gâté sa vie d'égoïste jouissance, en tenant tête à la folle qu'il avait désormais chez lui ? Il en était quitte pour prendre son chapeau et s'en aller dehors, à son plaisir coutumier. Aussi finit-il par hausser ses lourdes épaules.]{.calibre11}
+
+[« Après tout, qu'elle le ramasse, ce n'est pas moi qui aurait la bêtise... Obéissez-lui, mon cher, poursuivez vos recherches, contentez-la. Peut-être me fichera-t-elle la paix... Et j'en ai assez aujourd'hui, bonsoir ! Je sors. »]{.calibre11}
+
+[La première pensée de Mathieu fut, pour se renseigner sur Rougemont de s'adresser à la Couteau, s'il la retrouvait. Elle était discrète par métier, il suffirait d'acheter son silence. Déjà le lendemain, il projetait d'aller aux nouvelles, rue de Miromesnil chez Mme Bourdieu, lorsque l'idée lui vint d'une autre piste, qui lui parut plus sûre. Après être longtemps resté sans voir les Séguin, à la suite de la cession totale de Chantebled, il venait de renouer avec eux, dans des circonstances particulières, et il avait eu la surprise de retrouver, près de Valentine, l'ancienne femme de chambre Céleste, autrefois congédiée, rentrée en grâce depuis quelques mois. Ses souvenirs s'éveillaient, il décida que par Céleste, il arriverait directement à la Couteau.]{.calibre11}
+
+[C'était toute une heureuse aventure que ce lien nouveau qui se nouait entre les Séguin et les Froment. Ambroise, le cadet des deux jumeaux, qui allait avoir vingt et un ans, était entré dès sa sortie du lycée, à dix-huit ans, chez un oncle de Séguin, Thomas du Hordel, un des commissionnaires en marchandises les plus riches de Paris. Depuis trois années, le vieillard fort âgé, solide encore, dirigeant toujours sa maison avec une flamme de jeunesse, s'était pris d'une tendresse peu à peu croissante pour ce garçon admirablement doué, en qui s'embrasait le génie du commerce. Il n'avait eu que deux filles, l'une morte de bonne heure, l'autre mariée à un fou, qui s'était logé une balle dans la tête, en la laissant détraquée elle-même, sans enfant. Ainsi s'expliquait l'intérêt passionné de grand-père que du Hordel témoignait à cet Ambroise, cette merveille qui lui tombait du ciel, le plus beau des Froment, le teint clair, de grands yeux noirs des cheveux bruns naturellement frisés, surtout d'une finesse d'une élégance parfaite. Mais ce qui plus encore l'avait séduit c'était l'extraordinaire esprit d'entreprise du jeune homme, les quatre langues vivantes qu'il parlait comme en se jouant, la maîtrise évidente qu'il apporterait un jour dans la conduite dune maison dont le commerce s'étendait sur les cinq parties du monde. Tout jeune, parmi ses frères et ses soeurs, il était déjà le plus hardi, le séduisant, l'envahissant. Les autres pouvaient être meilleurs, il régnait en joli gamin ambitieux et gourmand le futur homme de joie et de conquête. Et c'était bien cela, le vieux du Hordel conquis en quelques mois, par son charme de victorieuse intelligence, de même qu'il devait conquérir plus tard tout ce qu'il lui plairait de soumettre à sa fortune, les gens comme les choses. Sa force était de plaire et d'agir, de la grâce dans le plus acharné des labeurs.]{.calibre11}
+
+[Vers ce temps, il y eut un rapprochement entre Séguin et son oncle qui ne remettait plus les pieds dans l'hôtel de l'avenue d'Antin, depuis que la démence y soufflait... Et ce fut d'ailleurs à la suite de tout un drame tenu secret, que l'apparente réconciliation se produisit. Endetté maintenant, lâché par Nora qui sentait venir la ruine, tombé entre les mains pires de filles voraces, Séguin avait fini par commettre, aux courses, une de ces indélicatesses qu'on appelle des vols, dans le monde des honnêtes gens. Averti, du Hordel était accouru, avait payé, pour éviter l'effroyable scandale, si bouleversé de l'extraordinaire gâchis où il retrouvait la maison de son neveu, autrefois prospère, qu'il en avait éprouvé un cuisant remords, comme s'il s'était senti un peu responsable de ce qui s'y passait, depuis qu'il avait résolu de s'en écarter, par égoïsme, désireux de ne pas troubler sa paix. Mais surtout son coeur venait d'être pris par sa petite-nièce Andrée, une délicieuse enfant de dix-huit ans bientôt, bonne à marier, qui aurait suffi désormais à le retenir là, tant il était navré du dangereux abandon où il la voyait. Le père achevait de traîner sa vie au-dehors. La mère, Valentine, sortait à peine d'une crise affreuse, sa rupture définitive avec Santerre, qui, las de subir les charges du mariage sans en avoir les bénéfices, s'était décidé à épouser une vieille dame fort riche, fin logique de cet exploiteur rusé de la femme, l'âme la plus basse et la plus goulue, derrière sa pose de lettré pessimiste monnayant la sottise d'une société en décomposition. Éperdue, Valentine, à quarante-trois ans, tremblant de n'être plus aimée, s'était donnée davantage à la religion, où elle semblait avoir trouvé des consolations presque immédiates, dans la compagnie d'hommes discrets. Maintenant, elle aussi disparaissait les journées entières, on la disait la collaboratrice active du vieux comte de Navarède, président d'une oeuvre de propagande catholique. Sorti de Saint-Cyr depuis trois mois, Gaston était à l'École de Saumur, dans un si beau feu de la carrière militaire, qu'il parlait déjà de rester garçon, un officier ne devant avoir d'autre amour, d'autre femme légitime, que son épée. Lucie, à dix-neuf ans, était entrée enfin chez les ursulines, où elle devait prendre le voile, ravie de consommer le sacrifice de son corps dont le dégoût l'affolait, toute à l'exaltation mystique d'être stérile, sans sexe ni chair. Et, dans le grand hôtel vide, d'où le père, la mère, le frère, la soeur étaient partis, il ne restait que la douce et adorable Andrée, sous la menace des folies qui soufflaient là, au milieu d'une telle détresse, que l'oncle du Hordel, envahi d'une tendresse pitoyable, avait conçu la solide idée de lui donner Ambroise, le futur conquérant, pour mari.]{.calibre11}
+
+[Ce fut alors que la rentrée de Céleste dans la maison hâta ce projet de mariage. Huit ans déjà s'étaient écoulés, depuis que Valentine avait dû congédier la femme de chambre, enceinte une troisième fois, impuissante désormais à dissimuler sa taille épaissie. Et, pendant ces huit années, dégoûtée de servir, Céleste s'était essayée à des métiers louches, dont elle ne parlait pas : d'abord, vendeuse vague de layettes à bas prix pour les filles en couches, ce qui, en lui permettant de s'introduire chez les sages-femmes, la faisait la confidente, la commissionnaire, l'entremetteuse, parfois payée grassement ; puis, d'une façon plus directe, employée à tout faire d'une maison close, de compagnie avec la Couteau, qui amenait de Normandie, parmi ses lots de nourrices des paysannes jeunes, jolies et complaisantes. Mais, la maison ayant eu des malheurs, Céleste avait disparu, après s'être sauvée d'une descente de police, en sautant par une fenêtre. Là, se creusait une lacune de dix-huit mois, comme si elle eût sombré dans une nuit totale. On la retrouvait enfin à Rougemont, son pays, malade, très misérable, allant en journée pour vivre, peu à peu rétablie, nippée, grâce à la protection du curé, que sa dévotion extrême avait conquis.]{.calibre11}
+
+[Et ce fut là qu'elle dut projeter sa rentrée chez les Séguin, tenue au courant de ce qui s'y passait par la Couteau, qui était restée en rapport avec Mme Menoux, la petite mercière voisine. Au lendemain de sa rupture avec Santerre, un jour de furieux désespoir où elle venait une fois de plus de congédier d'un coup tous ses domestiques, Valentine la vit tomber chez elle, si repentante, l'air si dévoué, si sérieux, qu'elle en fut touchée. Quand elle lui rappela sa faute, elle la fit pleurer, en lui demandant de jurer devant Dieu de ne jamais se laisser reprendre ; car Céleste se confessait, communiait à présent, apportait même du curé de Rougemont un certificat de piété profonde et de haute moralité. Ce certificat acheva de décider Valentine, qui comprit quelle aide précieuse elle allait avoir en cette fille, dans son horreur croissante à vivre chez elle, lasse des tracas de la maison. C'était bien sur cet abandon du pouvoir entre ses mains que Céleste comptait. Deux mois plus tard, elle avait, en favorisant l'excès de ses pratiques religieuses, achevé de pousser Lucie au couvent. Gaston n'apparaissait plus que les jours de permission. Andrée restait donc seule au logis, gênante encore, empêchant par sa présence le grand pillage rêvé. Et la femme de chambre était ainsi devenue l'ouvrière la plus active du mariage de Mademoiselle.]{.calibre11}
+
+[Ambroise, d'ailleurs, avait conquis Andrée, dans son universelle conquête. Depuis un an déjà, elle le rencontrait chez l'oncle du Hordel, avant que celui-ci eût l'idée de les marier. C'était une grande enfant très douce, un petit mouton blond, comme l'appelait sa mère. Ce beau jeune homme souriant, si tendre pour elle, était devenu sa pensée, un espoir où elle aimait à se réfugier, lorsqu'elle souffrait trop de solitude et d'abandon. Elle n'était plus battue par son frère, mais elle avait senti croître le malaise de la famille détruite, elle se savait mise en péril par tout ce qui l'entourait de honteux et de louche, sans qu'elle en eût la nette conscience. Aussi, lorsque son oncle, rêvant son oeuvre de salut, l'avait questionnée prudemment sur le mariage, sur Ambroise, s'était-elle jetée dans ses bras, avec des grosses larmes de gratitude et d'aveu. Valentine, pressentie, témoigna d'abord quelque surprise : un fils des Froment ? Ils leur avaient pris Chantebled, voulaient-ils donc leur prendre encore l'une de leurs filles ? Puis, elle ne trouva aucune objection raisonnable, dans la débâcle de fortune où s'effondrait la maison. Jamais elle n'avait aimé Andrée, qu'elle accusait sa nourrice, la Catiche, d'avoir faite sienne, de son lait de bête de ferme. Ainsi qu'elle le disait souvent, ce mouton là, si docile, d'un charme si attendri, n'était pas une Séguin. Tout en ayant l'air de défendre l'enfant, Céleste aigrissait la mère contre elle, lui inspirait le désir qu'un prompt mariage en débarrassât son existence, donnée à d'autres passions. Et du Hordel, après avoir longuement causé avec Mathieu, qui promit son consentement, n'avait plus donc qu'à s'assurer celui de Séguin avant que les parents fissent la demande officielle. Mais il n'était pas facile de trouver Séguin dans des conditions convenables. De semaines furent perdues, on dut calmer Ambroise, devenu très amoureux, averti sans doute, par son génie envahisseur, du futur royaume que cette enfant, si aimante et si simple, lui apportait discrètement, dans un pli de sa robe.]{.calibre11}
+
+[Un jour que Mathieu passait avenue d'Antin, il eut l'idée d'entrer, désireux de savoir si Séguin avait reparu, depuis un brusque départ, une disparition inexpliquée, en Italie, croyait-on. Puis comme il se trouvait seul avec Céleste, l'occasion lui parut excellente pour retrouver la Couteau. Il causa donc un instant, il finit par demander des nouvelles de la meneuse, ayant un ami disait-il, qui cherchait une bonne nourrice.]{.calibre11}
+
+[« Vous tombez bien, répondit obligeamment la femme de chambre, la Couteau doit ramener aujourd'hui un enfant chez notre petite voisine, Mme Menoux. Quatre heures vont sonner, et c'est justement l'heure où elle a promis d'être là... Vous savez, Mme Menoux, la troisième boutique, dans la première rue, en tournant à gauche. »]{.calibre11}
+
+[Puis, elle s'excusa de ne pouvoir l'y conduire.]{.calibre11}
+
+[« Je suis seule à la maison. On n'a toujours pas de nouvelles de Monsieur. Le mercredi, Madame préside sa séance de l'oeuvre, et Mlle Andrée vient d'être emmenée par son oncle, pour une promenade, je crois. »]{.calibre11}
+
+[Mathieu se hâta de se rendre chez Mme Menoux. De loin, sur le seuil de la boutique, il aperçut la mercière, encore réduite par l'âge, redevenue à quarante ans d'une maigreur de fillette, le visage effilé en lame mince. Elle était comme brûlée d'activité muette, elle s'acharnait depuis vingt années à vendre ses deux sous de fil et ses trois sous d'aiguilles, sans jamais faire fortune, heureuse simplement d'ajouter chaque mois son pauvre gain aux appointements de son mari, pour lui donner des douceurs. Ses rhumatismes allaient sans doute le forcer à quitter sa place du musée, que deviendraient-ils avec les quelques centaines de francs de la retraite, si elle ne continuait pas son commerce ? Mais, ils n'avaient pas eu de chance : la mort de leur premier enfant, la naissance tardive du second, certes passionnément accueilli, mais tout de même bien lourd à leurs épaules, maintenant surtout qu'elle avait dû se décider à le reprendre. Et Mathieu la trouvait ainsi dans la grosse émotion de l'attente, sur le seuil de la boutique, les regards au loin, guettant le coin de l'avenue.]{.calibre11}
+
+[« C'est Céleste qui vous envoie, monsieur... Non, la Couteau n'est pas encore là. Mais j'en suis étonnée, je l'attends d'une minute à l'autre... Si vous voulez bien, monsieur, prendre la peine d'entrer et de vous asseoir. » Il refusa l'unique chaise qui barrait l'étroit couloir, où trois clientes avaient peine à se tenir debout. Derrière une cloison vitrée, on apercevait, au fond, la pièce obscure dans laquelle vivait le ménage, à la fois cuisine, salle à manger et chambre à coucher, ne prenant un peu d'air que sur une cour humide, pareille à un regard d'égout.]{.calibre11}
+
+[« Vous voyez, monsieur, nous n'avons guère de place. Seulement, nous ne payons que huit cents francs, et où trouverions-nous une boutique, à ce prix-là ? Sans compter que, depuis vingt ans bientôt, ma petite clientèle est faite dans le quartier... Oh ! Moi, je ne me plains pas, je ne suis pas grosse, il y a toujours assez d'espace pour moi. Et, comme mon mari ne rentre que le soir, il s'installe à fumer sa pipe dans son fauteuil, il ne souffre pas trop. Je le gâte le plus que je peux, il est assez raisonnable pour ne pas en demander davantage... Mais, avec un enfant, ça devient impossible. »]{.calibre11}
+
+[Le souvenir de son premier garçon, de son petit Pierre, lui revint, lui emplit les yeux de larmes.]{.calibre11}
+
+[« Tenez ! Monsieur, il y a dix ans de cela. Je vois encore la Couteau me ramener le petit, comme elle va, tout à l'heure, me ramener l'autre. On me racontait tant d'histoires, et le bon air de Rougemont, et la vie saine des enfants, et les joues rouges du mien, que je l'y avais laissé jusqu'à l'âge de cinq ans, désolée de ne pas avoir ici de place pour lui.]{.calibre11}
+
+[Les cadeaux que la nourrice a tirés de moi, tout l'argent que j'ai donné, non ! Vous ne pouvez pas vous en faire une idée, c'était la ruine. Et puis, brusquement je n'ai eu que le temps de le faire revenir, on m'a rendu un enfant si maigre, si blême, si faible, comme s'il n'avait jamais de sa vie mangé du bon pain. Deux mois plus tard, il mourait dans mes bras... Le père en a fait une maladie, monsieur, et, si nous n'avions pas eu de la tendresse l'un pour l'autre, je crois bien que nous serions allés tous les deux nous jeter à l'eau. » Elle retourna, fiévreuse, les yeux mal essuyés, sur le seuil de la boutique, jeta de nouveau, vers l'avenue, son regard passionné d'attente. Et, lorsqu'elle revint, n'ayant rien vu :]{.calibre11}
+
+[« Alors, vous comprenez notre émotion, il y a deux ans, lorsque je suis accouchée d'un garçon encore, à trente-sept ans passés. Nous en étions fous de joie, comme des jeunes mariés. Mais, tout de même, quel souci, quels embarras ! Il a bien fallu l'envoyer aussi en nourrice, puisque nous ne pouvions pas le garder avec nous. Même après avoir juré qu'il n'irait pas à Rougemont, nous avons fini par nous dire que nous connaissions l'endroit, qu'il ne serait pas plus mal là qu'ailleurs. Seulement, je l'ai mis chez la Vimeux ne voulant plus entendre parler de la Loiseau, qui m'avait rendu mon Pierre dans un si bel état. Et, cette fois quand le petit a eu deux ans, je n'ai pas écouté les belles offres, les belles promesses, j'ai voulu qu'on me le ramenât, sans même savoir où je vais le loger... Je l'attends depuis une heure, et je tremble, tant j'ai peur toujours de quelque catastrophe. »]{.calibre11}
+
+[Elle ne pouvait plus rester dans la boutique, elle se tint à la porte, le cou tendu, les yeux fixés là-bas, au coin de la rue. Soudain elle eut un cri profond.]{.calibre11}
+
+[« Ah ! Les voilà ! »]{.calibre11}
+
+[Sans hâte, l'air maussade et harassé, la Couteau entra, mit l'enfant endormi sur les bras de Mme Menoux, en disant :]{.calibre11}
+
+[« Je vous réponds qu'il pèse son poids, votre Georges. Celui-là, vous ne direz pas qu'on vous le rend à l'état de squelette. »]{.calibre11}
+
+[Frémissante, les jambes cassées par la joie, la mère avait dû s'asseoir, gardant le petit sur les genoux, le baisant, l'examinant, ayant hâte de voir s'il se portait bien, s'il vivrait. Il avait une grosse face un peu pâle, il semblait fort, l'air empâté. Mais, lorsqu'elle l'eut démailloté, de ses mains que l'inquiétude agitait, elle lui trouva les jambes et les bras petits, le ventre fort.]{.calibre11}
+
+[« Il a le ventre bien gros, murmura-t-elle, cessant de rire assombrie d'une nouvelle crainte.]{.calibre11}
+
+[--- Plaignez-vous donc ! Cria la Couteau. L'autre était maigre, celui-ci va être trop gras... Jamais les mères ne sont contentes. »]{.calibre11}
+
+[Du premier coup d'oeil, Mathieu avait reconnu un de ces enfants nourris de soupe, bourrés par économie de pain et d'eau, victimes désignées à tous les détraquements d'estomac de la petite enfance. Et, devant ce pauvre être, l'effroyable Rougemont, avec son massacre quotidien d'innocents, se dressait dans sa mémoire, tel qu'on le lui avait conté jadis. C'était la Loiseau, d'une saleté répugnante, que les nourrissons y pourrissaient sur un fumier ; c'était la Vimeux n'achetant jamais une goutte de lait, ramassant les croûtes du village, faisant la pâtée au son pour ses pensionnaires, comme pour des porcs ; c'était la Gavette toujours aux champs, les confiant à la garde d'un vieux paralytique, qui en laissait parfois tomber un dans le feu ; c'était la Cauchois qui se contentait de les attacher dans leurs berceaux, n'ayant personne pour les surveiller, les abandonnant en compagnie des poules, dont la bande entrait leur piquer les yeux, mangés par les mouches. Et les coups de mortalité passaient, les assassinats en masse, les portes grandes ouvertes sur une file de berceaux, afin de faire plus vite de la place aux nouveaux paquets expédiés de Paris. Pourtant, tous ne mouraient pas, puisque celui-ci, au moins revenait. Mais, quand on les ramenait vivants, la plupart rapportaient en eux un peu de la mort de là-bas, et il y avait là encore une hécatombe, payée au dieu monstrueux de l'égoïsme social.]{.calibre11}
+
+[« Je n'en puis plus, je m'assois, reprit la Couteau, en s'installant sur l'étroite banquette, derrière le comptoir. Ah ! Quel métier ! Et dire qu'on nous reçoit toujours mal, comme si nous étions des sans-coeur, des criminelles et des voleuses ! »]{.calibre11}
+
+[Elle aussi s'était desséchée, la face hâlée, tannée, telle qu'un bec d'oiseau. Mais elle avait gardé ses yeux vifs, aiguises d'une cruauté rageuse. Sans doute elle ne s'enrichissait pas assez vite, car elle continua ses lamentations, se plaignant du métier, de l'avarice croissante des parents, des exigences de l'Administration, de la guerre qu'on déclarait de toutes parts aux meneuses. C'était un métier perdu, il fallait qu'elle fût abandonnée de Dieu pour le continuer à quarante-cinq ans, sans avoir mis encore des rentes de côté.]{.calibre11}
+
+[« J'y laisserai la peau, je n'y trouverai jusqu'à la fin que peu d'argent, avec beaucoup de mauvaises paroles. Vous voyez l'injustice, je vous rapporte un enfant superbe, et vous n'avez pas l'air content... Vrai, c'est à dégoûter de bien faire ! »]{.calibre11}
+
+[Peut-être aussi sa plainte n'était-elle destinée qu'à tirer de la mercière le plus gros cadeau possible. Celle-ci en fut troublée. L'enfant, sorti de sa somnolence, s'était mis à pleurer très fort. On lui fit avaler un peu de lait tiède. Et, quand on eut réglé les comptes, la meneuse se radoucit, en voyant qu'elle aurait dix francs de pourboire.]{.calibre11}
+
+[Puis, comme elle allait prendre congé :]{.calibre11}
+
+[« Monsieur vous attendait pour une affaire », dit Mme Menoux en montrant Mathieu.]{.calibre11}
+
+[La Couteau reconnaissait parfaitement le monsieur, qu'elle n'avait pourtant pas revu depuis des années. Mais elle ne s'était même pas tournée vers lui, elle le savait mêlé à trop de choses, pour n'être pas d'une absolue discrétion, profitable à ses propres intérêts. Aussi se contenta-t-elle de dire :]{.calibre11}
+
+[« Si monsieur veut bien m'expliquer ce dont il s'agit, je suis toute à son service.]{.calibre11}
+
+[--- Je vais vous accompagner, répondit Mathieu. Nous causerons en marchant.]{.calibre11}
+
+[--- C'est parfait, ça m'arrange, car je suis un peu pressée. »]{.calibre11}
+
+[Dehors, il résolut de ne pas ruser avec elle. Le mieux était de lui dire nettement ce qu'il voulait, puis de la payer, pour acheter son silence. Dès les premiers mots, elle comprit. Elle se rappelait parfaitement l'enfant de Norine, bien qu'elle en eût porté des douzaines aux Enfants-Assistés ; mais les circonstances particulières, les paroles échangées, la course en voiture, lui étaient restées dans la mémoire. D'ailleurs, cet enfant, elle l'avait retrouvé cinq jours plus tard à Rougemont, elle se souvenait même que son amie, l'infirmière, était venue le placer chez la Loiseau. Seulement, elle ne s'en était plus occupée, elle le croyait mort, emporté avec tant d'autres. Et, lorsqu'elle entendit parler du hameau de Saint-Pierre, du charron Montoir, de cet Alexandre-Honoré, âgé de quinze ans, qui devait se trouver là, comme apprenti, elle parut très surprise.]{.calibre11}
+
+[« Oh ! Monsieur, vous devez vous tromper. Je connais bien Montoir, à Saint-Pierre. En effet, il a chez lui un enfant de l'Administration, de l'âge que vous dites. Mais celui-là vient de chez la Cauchois, il s'agit d'un grand garçon roux nommé Richard, amené quelques jours avant l'autre. J'ai su qui était la mère, et tenez ! Vous l'avez vue comme moi : c'est l'Anglaise, cette Amy qui se trouvait chez Mme Bourdieu, une habituée de la maison, où elle est revenue trois fois, à ce qu'on m'a raconté... Ce rougeaud-là n'est sûrement pas l'enfant de votre Norine. Alexandre-Honoré était brun.]{.calibre11}
+
+[--- Alors, dit Mathieu, c'est qu'il y a un autre apprenti chez le charron. Mes renseignements sont précis, je les tiens de source officielle. » La Couteau, perplexe, eut un geste d'ignorance, se rendit tout de suite.]{.calibre11}
+
+[« C'est bien possible, il y a peut-être deux apprentis chez Montoir. La maison est forte, et comme voilà des mois que je ne suis pas allée à Saint-Pierre, je n'affirme rien... Enfin, que désirez-vous de moi, monsieur ? »]{.calibre11}
+
+[Très clairement, il lui donna sa mission. Elle prendrait sur l'enfant les renseignements les plus précis, sa santé, son caractère, sa conduite, si l'instituteur avait toujours été content de lui, si son patron se montrait également satisfait, en un mot une enquête complète. Mais, surtout, elle devait la mener de façon que personne ne s'en doutât, ni l'enfant, ni les gens de l'entourage. L'absolu secret.]{.calibre11}
+
+[« Tout cela est facile, monsieur. Je comprends parfaitement, vous pouvez vous fier à moi... Il me faudra un peu de temps, le mieux est que je vous apporte de vive voix le résultat de mes recherches, dans quinze jours, lors de mon prochain voyage à Paris... Et, si vous le voulez bien, vous me trouverez d'aujourd'hui en quinze, à deux heures, dans le bureau de la maison Broquette, rue Roquépine. J'y suis comme chez moi, et c'est une tombe. »]{.calibre11}
+
+[Quelques jours plus tard, comme Mathieu était à l'usine, avec son fils Blaise, il fut aperçu par Constance, qui l'appela, le questionna si directement, qu'il dut lui apprendre ce qu'il avait fait, où en était l'enquête dont elle l'avait chargé. Puis, quand elle sut le rendez-vous pris avec la Couteau, pour le mercredi de la semaine suivante, elle dit de sa voix résolue :]{.calibre11}
+
+[« Venez me chercher, je veux interroger moi-même cette femme... J'ai besoin d'une certitude. »]{.calibre11}
+
+[Rue Roquépine, la maison Broquette, après quinze ans, était restée la même, avec cette unique différence que, Mme Broquette étant morte, sa fille Herminie lui avait succédé.]{.calibre11}
+
+[D'abord, la perte brusque de cette dame blonde, si digne, la prestance renseigne décorative, morale et bourgeoise de l'établissement avait paru sensible. Mais il s'était trouvé qu'Herminie, bourrée de romans, longue, exsangue, promenant d'un air de langueur sa virginité fade, au milieu du lait débordant des nourrices, était aussi d'une représentation distinguée, flatteuse pour la clientèle. À trente ans déjà, elle ne s'était pas encore mariée, sans désirs comme dégoûtée par toutes ces filles à grosse gorge, les bras chargés d'enfants pleurards. Et, d'ailleurs, le père, M. Broquette malgré ses soixante-cinq ans sonnés, restait secrètement l'âme toute-puissante et remuante de la maison, faisant la police intérieure, instruisant les nourrices nouvelles ainsi que des recrues, le nez et la main partout, dans un continuel galop au travers des trois étages de son vague et louche hôtel garni.]{.calibre11}
+
+[La Couteau attendait Mathieu, sous le porche. En apercevant Constance, qu'elle ne connaissait pas, qu'elle n'avait jamais vue, elle parut surprise. Quelle était donc cette dame, qu'avait-elle à voir dans l'affaire ? Du reste, elle éteignit tout de suite la curiosité vive dont ses yeux avaient flambé. Et, comme Herminie, avec une distinction nonchalante, occupait le bureau, où elle déballait un lot de nourrices devant deux messieurs, la meneuse fit entrer son monde dans le réfectoire, alors vide, empoisonné par une horrible odeur de graillon.]{.calibre11}
+
+[« Excusez-moi, monsieur et madame, il n'y a pas d'autre coin libre. La maison regorge. »]{.calibre11}
+
+[Puis, elle promena ses regards aigus de Mathieu à Constance, préférant être interrogée, puisqu'il y avait une personne nouvelle dans le secret.]{.calibre11}
+
+[« Vous pouvez parler librement... Avez-vous fait les recherches dont je vous ai chargée ?]{.calibre11}
+
+[--- Parfaitement, monsieur. Tout est fait et bien fait, je crois. --- Alors, dites-nous le résultat... Je vous répète que vous pouvez parler devant madame.]{.calibre11}
+
+[--- Oh ! Monsieur, ce ne sera pas long... Vous étiez dans la vérité, il y avait bien deux apprentis chez Montoir, le charron de Saint-Pierre, et l'un d'eux était en effet Alexandre-Honoré l'enfant de la jolie blonde, celui que nous avons conduit ensemble de là-bas. Il s'y trouvait depuis deux mois à peine, après avoir essayé de trois ou quatre autres métiers, ce qui explique mon ignorance ! Seulement, de même qu'il n'est resté nulle part, voici trois semaines qu'il en a filé... »]{.calibre11}
+
+[Constance l'interrompit, ne pouvant retenir un cri d'inquiétude.]{.calibre11}
+
+[« Comment, filé ?]{.calibre11}
+
+[--- Oui, madame. Je veux dire qu'il s'est sauvé, et cette fois on est même certain qu'il a tout à fait quitté le pays, car il a disparu en emportant trois cents francs à Montoir, son patron. »]{.calibre11}
+
+[Sa petite voix sèche sonna, comme si elle donnait un coup de hache. Bien qu'elle ne comprît rien à la brusque pâleur, à l'émotion désespérée de cette dame, il sembla qu'elle y prenait une jouissance cruelle.]{.calibre11}
+
+[« Êtes-vous sûre de vos renseignements ? reprit Constance, qui se débattait. Ce ne sont là peut-être que des cancans de village.]{.calibre11}
+
+[--- Des cancans, madame, non ! Quand j'ai accepté de m'occuper d'une affaire, moi, je suis sérieuse... J'ai vu les gendarmes. Ils ont battu tout le pays, il est certain qu'Alexandre-Honoré n'a pas laissé son adresse, en partant avec les trois cents francs. Il court encore. Ça, voyez-vous, j'en donne ma main à couper. »]{.calibre11}
+
+[C'était bien, pour Constance, le coup de hache : cet enfant qu'elle croyait avoir retrouvé, dont elle rêvait, sur la tête duquel elle bâtissait tant de projets de revanche, inavouables, inavoués encore, et qui, brusquement, lui échappait, retombait dans son louche inconnu. Elle en restait bouleversée comme devant un acharnement du sort, une défaite nouvelle, irréparable. Et ce fut elle qui continua l'interrogatoire.]{.calibre11}
+
+[« Vous n'avez pas vu que les gendarmes, on vous avait chargée de questionner tout le monde.]{.calibre11}
+
+[--- C'est bien ce que j'ai fait, madame. J'ai vu l'instituteur, j'ai causé avec les autres patrons, chez qui l'enfant avait passé. Tous m'ont dit qu'il ne valait pas grand-chose, l'instituteur s'en souvient comme d'un menteur et d'un brutal. Enfin, le voilà voleur, ça le complète... Moi, que voulez-vous ? Je ne puis pas dire autre chose, puisque c'est la vérité que vous avez voulu connaître. »]{.calibre11}
+
+[Elle insistait, en voyant grandir la souffrance de cette dame. Et quelle étrange souffrance, les coups au coeur que lui portait chacune de ces accusations, comme si l'enfant de son mari, dans le désastre de sa stérilité, était devenu un peu de sa propre chair ! Elle finit par faire taire la meneuse.]{.calibre11}
+
+[« Merci. L'enfant n'est plus à Rougemont, c'est tout ce que nous désirions savoir. »]{.calibre11}
+
+[Alors, la Couteau se tourna vers Mathieu, continuant, voulant lui en donner pour son argent.]{.calibre11}
+
+[« J'ai aussi fait bavarder l'autre apprenti, le fils de l'Anglaise, Richard, vous vous souvenez bien, ce grand garçon roux dont je vous ai parlé. Encore un à qui je ne donnerais pas le bon Dieu sans confession. Mais, pour sûr, il ne sait pas où a filé son camarade...]{.calibre11}
+
+[Les gendarmes croient qu'Alexandre est à Paris. »]{.calibre11}
+
+[À son tour, Mathieu la remercia, lui mit dans la main un billet de cinquante francs, ce qui la rendit muette, souriante, obséquieuse d'une discrétion de tombe, selon son mot favori. Et, comme trois nourrices entraient, étalant de la charcuterie, tandis qu'on entendait M. Broquette, dans la cuisine, laver furieusement à la brosse les mains d'une quatrième, pour lui apprendre comment on se décrottait du fumier natal, Constance se hâta de suivre son compagnon, le coeur soulevé d'une nausée de dégoût. Mais, sur le trottoir, elle s'arrêta, ne remonta pas tout de suite dans sa voiture, pensive, hantée de nouveau par le dernier mot qu'elle emportait.]{.calibre11}
+
+[« Vous avez entendu, ce malheureux enfant serait à Paris.]{.calibre11}
+
+[--- C'est probable, tous viennent échouer là. »]{.calibre11}
+
+[Elle se tut encore, parut réfléchir, hésiter, enfin se décida la voix un peu tremblante.]{.calibre11}
+
+[« Et la mère, mon ami, vous savez où elle demeure. Ne m'avez-vous pas dit que vous vous étiez occupé d'elle ?]{.calibre11}
+
+[--- En effet.]{.calibre11}
+
+[--- Alors, écoutez... Et surtout ne vous étonnez pas, mon ami plaignez-moi plutôt, car je souffre vraiment beaucoup... Une idée vient de m'envahir, je m'imagine que, si l'enfant est à Paris, il a pu y retrouver sa mère, et qu'il est peut-être chez elle, ou qu'elle sait du moins où il loge... Non, non ! Ne me dites pas que c'est impossible. Tout est possible. »]{.calibre11}
+
+[Surpris, ému de la voir céder à de telles imaginations, elle si calme, il ne voulut pas l'agiter davantage, il promit de se renseigner. Mais elle ne montait toujours pas dans la voiture, elle regardait fixement le trottoir. Et, quand elle leva les yeux, elle le supplia, gênée, très humble.]{.calibre11}
+
+[« Vous ne savez pas ce que nous devrions faire ?... Excusez-moi. C'est un service que jamais je n'oublierai. Si je pouvais me calmer un peu, en sachant tout de suite... Eh bien ! Nous allons aller immédiatement chez cette fille. Oh ! Je ne monterai pas, moi, vous monterez seul, pendant que je vous attendrai dans la voiture au coin de la rue... Et peut-être aurez-vous des nouvelles. »]{.calibre11}
+
+[C'était fou. Il éprouva d'abord le besoin de le lui démontrer. Puis, en la regardant, elle lui apparut si misérable d'abandon, si douloureuse d'inavouable torture, qu'il consentit sans une parole, d'un geste de pitoyable bienveillance. Et la voiture les emporta.]{.calibre11}
+
+[La grande chambre où Norine et Cécile avaient installé leur commun ménage, se trouvait à Grenelle, au bout de la rue de la Fédération près du Champ-de-Mars. Elles y étaient depuis six ans bientôt, elles y avaient eu, dans les commencements, beaucoup de tracas et de misère. Mais l'enfant qu'elles avaient à nourrir, à sauver les avait sauvées elles-mêmes. La mère qui sommeillait en Norine, s'était éveillée passionnément pour ce petit être, depuis qu'elle lui avait donné le sein, le faisant de sa chair, le veillant, le baisant ; et c'était merveille de voir comment Cécile, dans son désespoir de vierge à jamais stérile, l'avait adopté, le regardait elle aussi comme sien. L'enfant avait deux mères, uniquement occupées de lui. Si Norine, les premiers mois, s'était rebutée souvent de passer ses jours à coller des petites boîtes, si même des idées de fuite lui étaient venues, elle avait toujours été retenue par les deux bras frêles qui se nouaient à son cou. Maintenant, elle était calmée, raisonnable, travailleuse, devenue très adroite à ces légers travaux de cartonnage, que Cécile lui avait enseignés. Et il fallait les voir toutes deux, très unies, très gaies, vivant sans homme comme au couvent, assises les journées entières aux deux côtés de leur petite table, avec le cher enfant entre elles, qui était leur unique raison de vivre, de travailler et d'être heureuses.]{.calibre11}
+
+[Les deux soeurs n'avaient fait qu'une grande amie, Mme Angelin. Justement, cette dernière, comme dame déléguée de l'Assistance publique, chargée d'un quartier de Grenelle, avait eu Norine parmi les pensionnées qu'elle devait inspecter. Prise de tendresse pour ce gentil ménage des deux mères, ainsi qu'elle les nommait, elle avait réussi à maintenir sur la tête de l'enfant la petite rente mensuelle de trente francs, pendant trois années. Puis, à trois ans, elle lui avait fait obtenir l'assistance scolaire, sans compter les continuels cadeaux qu'elle apportait, des effets, du linge, même de l'argent, des sommes assez fortes qu'elle récoltait chez des personnes charitables, en dehors de l'Administration, et qu'elle distribuait ainsi entre les mères pauvres les plus méritantes. Maintenant encore, elle venait parfois, aimait à passer là une heure, dans ce coin de tranquille besogne, égayée par les rires et les jeux de l'enfant. Elle y était loin du monde, elle y souffrait moins de sa maternité détruite. Et Norine lui baisait les mains en disant que, sans elle, jamais le ménage des deux mères n'aurait pu vivre.]{.calibre11}
+
+[Lorsque Mathieu parut, il y eut des cris de joie. Lui aussi était un ami, un sauveur, celui qui, en louant et en meublant la grande chambre, avait fondé le ménage. Elle était très propre, cette grande chambre, très coquettement arrangée avec ses rideaux blancs, très égayée aussi par les deux larges fenêtres, qui laissait entrer la nappe d'or du soleil à son déclin. Norine et Cécile, devant leur table, travaillaient, découpaient, collaient ; et le petit lui-même, rentré de l'école, assis entre elles sur une haute chaise, maniait gravement une paire de ciseaux, en croyant qu'il les aidait.]{.calibre11}
+
+[« Ah ! C'est vous, ah ! Que vous êtes gentil de venir nous voir ! Voici cinq jours que personne n'est venu. Oh ! Nous ne nous en plaignons pas. Nous sommes si contentes, toutes seules !... Depuis qu'elle a épousé un employé, Irma nous dédaigne. Euphrasie ne descend plus son escalier. Victor demeure au diable avec sa femme. Et, quant à ce vaurien d'Alfred, il ne monte ici que pour voir s'il n'y a rien à voler... Maman est venue, il y a cinq jour nous dire que papa, la veille, avait failli être tué à l'usine. Pauvre maman ! Elle est si lasse, qu'il lui sera bientôt impossible de mettre un pied devant l'autre. »]{.calibre11}
+
+[Pendant qu'elles parlaient toutes les deux à la fois, se coupait vivement la parole, reprenant, achevant la phrase, Mathieu regardait Norine, qui, dans cette vie régulière et calme, retrouvait à trente-six ans, une fraîcheur apaisée, une pleine maturité de fruit superbe, doré de soleil. Et Cécile elle-même, si mince, restée fillette à jamais, avait pris de la force, l'énergique amour dans un corps d'enfant.]{.calibre11}
+
+[Cette dernière jeta brusquement une exclamation de terreur.]{.calibre11}
+
+[« Mais il s'est blessé, le malheureux ! »]{.calibre11}
+
+[Et elle arracha les ciseaux des mains du petit, qui, une goutte de sang au bout d'un doigt, riait.]{.calibre11}
+
+[« Ah ! Mon Dieu ! murmura Norine toute pâle, j'ai cru qu'il s'était fendu la main. »]{.calibre11}
+
+[Un instant, Mathieu se demanda s'il était bien utile de remplir jusqu'au bout son étrange mission. Puis, il lui parut bon de prévenir au moins la jeune femme, qu'il voyait là si paisible, dans la vie de travail qu'elle avait fini par se faire. Et il procéda prudemment, ne lâcha la vérité que peu à peu. Pourtant, il vint un moment où, après lui avoir rappelé la naissance d'Alexandre-Honoré, il dut lui dire que cet enfant vivait.]{.calibre11}
+
+[Elle le regarda, bouleversée.]{.calibre11}
+
+[« Il vit, il vit !... Pourquoi me dites-vous cela ? J'étais si tranquille de ne pas savoir !]{.calibre11}
+
+[--- Sans doute, mais il vaut mieux que vous sachiez. On m'a même assuré que l'enfant devait être à Paris, et je me demandais s'il ne vous avait pas retrouvée, s'il n'était pas venu vous voir. »]{.calibre11}
+
+[Alors, elle s'affola complètement.]{.calibre11}
+
+[« Comment, venu me voir !... Personne n'est venu me voir... Et vous pensez qu'il pourrait venir ? Mais je ne veux pas ! Mais j'en perdrais la tête ! Un grand garçon de quinze ans, qui me tomberait comme ça, que je ne connais pas, que je n'aime pas !... Oh ! Non, oh ! Non, empêchez-le, je ne veux pas, je ne veux pas ! »]{.calibre11}
+
+[Elle s'était mise à fondre en larmes, elle avait saisi d'un geste éperdu le petit qui se trouvait près d'elle, et elle le serrait sur sa poitrine, comme pour le défendre contre l'autre, l'inconnu, l'étranger, dont la résurrection menaçait de lui voler un peu de sa place.]{.calibre11}
+
+[« Non, non ! Je n'ai qu'un enfant, je n'en aime qu'un, je ne veux pas de l'autre, jamais, jamais ! »]{.calibre11}
+
+[Très émue, Cécile s'était levée, désirant lui faire entendre raison. S'il venait pourtant, comment le mettre à la porte ? Et elle aussi pleurait déjà leur bonheur, malgré sa pitié inquiète pour l'abandonner. Il fallut que Mathieu les rassurât, en leur jurant qu'une pareille visite lui semblait tout à fait improbable. Sans leur conter l'histoire vraie, il dit la disparition de l'enfant, l'ignorance où il devait être du nom même de sa mère. Et, quand il les quitta, les deux soeurs collaient de nouveau leurs petites boîtes, soulagées, riant au gamin, à qui elles avaient rendu les ciseaux, pour qu'il découpât des bonshommes.]{.calibre11}
+
+[En bas, au coin de la rue, Constance, dans une mortelle impatience, allongeait la tête en dehors de la voiture, guettant de loin la porte.]{.calibre11}
+
+[« Eh bien ? demanda-t-elle, frémissante, dès que Mathieu fut près d'elle.]{.calibre11}
+
+[--- Eh bien ! La mère ne sait rien, n'a vu personne, c'était certain à l'avance. »]{.calibre11}
+
+[Elle plia les épaules, comme sous un écroulement suprême tandis que sa face blême se décomposait.]{.calibre11}
+
+[« C'était certain, vous avez raison. Mais on espère toujours. »]{.calibre11}
+
+[Et, avec un geste d'anéantissement :]{.calibre11}
+
+[« Maintenant, c'est fini, tout casse entre mes doigts, mon dernier rêve est mort. »]{.calibre11}
+
+[Mathieu, qui lui avait serré la main, attendait qu'elle donnât une adresse, pour la transmettre au cocher. Mais elle restait égarée, ne semblait plus savoir elle-même où elle allait. Puis comme elle lui demandait s'il voulait qu'elle le mît quelque part, il dit qu'il se rendait chez les Séguin. Et, sans doute par terreur de se retrouver tout de suite seule, elle eut alors l'idée de faire une visite à Valentine, se souvenant qu'elle ne l'avait pas vue depuis longtemps.]{.calibre11}
+
+[« Montez, nous irons ensemble avenue d'Antin. »]{.calibre11}
+
+[La voiture roula, un lourd silence se fit, ils n'avaient pas une parole à échanger. Pourtant, comme ils arrivaient, elle dit encore, amèrement :]{.calibre11}
+
+[« Vous donnerez à mon mari la bonne nouvelle, vous lui annoncerez que l'enfant a disparu. Ah ! Quel soulagement pour lui ! »]{.calibre11}
+
+[En allant chez les Séguin, Mathieu espérait y trouver toute la famille réunie. Huit jours auparavant, Séguin étant enfin revenu, on ne savait d'où, la demande officielle de la main d'Andrée avait pu lui être faite, et il s'était montré charmant, à la suite d'un entretien avec l'oncle du Hordel. On avait même tout de suite fixé la date du mariage, le reculant un peu, l'attardant jusqu'au mois de mai, parce qu'à cette époque les Froment devaient aussi marier leur fille aînée, Rose : ce serait délicieux, on ferait les deux mariages le même jour, à Chantebled. Et, dès ce moment Ambroise, accepté comme fiancé, ravi, put venir chaque soir vers cinq heures, faire sa cour. C'était pourquoi Mathieu comptait bien se rencontrer là avec toute la famille.]{.calibre11}
+
+[Mais, lorsque Constance demanda Valentine, un valet lui dit que Madame était sortie. Et, lorsque Mathieu demanda Séguin, le valet lui répondit que Monsieur n'était pas là non plus. Il n'y avait en haut que Mlle Andrée, avec son fiancé. Les deux visiteurs montèrent.]{.calibre11}
+
+[« Comment ! On vous laisse tout seuls ? cria Mathieu, en les apercevant assis côte à côte, sur un étroit canapé, au fond de la vaste salle du premier étage.]{.calibre11}
+
+[--- Mais oui, nous sommes tout seuls dans la maison, répondit Andrée avec un beau rire. Nous sommes bien contents. »]{.calibre11}
+
+[Ils étaient adorables, ainsi serrés l'un contre l'autre, elle si douce, si tendrement jolie, lui d'un charme d'homme fort, dont la grâce surtout avait vaincu. Ils s'étaient plaisamment donné le bras, tout en restant assis, comme s'ils allaient se lever, pour entreprendre ainsi, au bras l'un de l'autre, leur long voyage.]{.calibre11}
+
+[« Céleste est là, au moins ?]{.calibre11}
+
+[--- Non, pas même Céleste ! Elle a disparu, nous ne savons pas ou elle est. »]{.calibre11}
+
+[Et de rire, et d'être gais comme des oiseaux libres et jaseurs, lâchés dans la fraîche solitude d'une forêt !]{.calibre11}
+
+[« Mais enfin que faites-vous là, tout seuls ?]{.calibre11}
+
+[--- Oh ! Nous ne nous ennuyons pas, nous avons tant de choses à faire ! D'abord, nous causons. Ensuite, nous nous regardons. Et ça dure, et jamais on n'en verrait la fin ! »]{.calibre11}
+
+[Constance les admirait, le coeur saignant. Ah ! Tant de grâce, tant de santé, et tant d'espoir ! Tandis que, chez elle, le vent de stérilité avait tout brûlé, tout anéanti, la race féconde de ces Froment pullulerait donc, s'élargirait donc toujours ? Car c'était une conquête encore, ces deux enfants laissés de la sorte libres de s'aimer, seuls désormais dans cet hôtel luxueux, dont ils seraient demain les maîtres.]{.calibre11}
+
+[« Ne mariez-vous pas aussi votre fille aînée ? demanda-t-elle. --- Oui, Rose, répondit gaiement Mathieu. En mai prochain, grande fête à Chantebled ! Il faudra que vous veniez tous. »]{.calibre11}
+
+[C'était bien cela, la force du nombre, la victoire de la vie, Chantebled conquis sur les Séguin, leur hôtel envahi bientôt par Ambroise, l'usine elle-même à moitié tombée aux mains de Blaise.]{.calibre11}
+
+[« Nous irons, dit-elle frémissante. Et que votre bonne chance continue, c'est ce que je vous souhaite ! »]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+[Livre cinquième]{.calibre55}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778809 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778471 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778133 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777795 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777457 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776781 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776443 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776105 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775767 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775429 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775091 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368774753 .pcalibre .calibre3 .pcalibre1} {#iii .calibre47 .sigil_not_in_toc}
+
+[Rose, dans l'allégresse du double mariage qui allait être comme le sacre glorieux de Chantebled, avait eu l'idée d'y réunir toute la famille, un dimanche, dix jours avant la cérémonie. Dès le matin, elle irait avec son fiancé, suivie de la famille entière, chercher à la gare de Janville l'autre couple, Ambroise et Andrée, qu'on amènerait triomphalement à la ferme, pour y déjeuner. Ce serait une répétition, expliquait-elle en riant de son beau rire : on s'entendrait, on arrêterait ensemble le programme du grand jour. Et elle était si heureuse de son idée, et elle se promettait une telle joie de cette première fête, que Mathieu et Marianne, qui l'adoraient, consentirent.]{.calibre11}
+
+[Ce mariage de Rose achevait le bonheur de la maison, telle que la floraison suprême d'une longue prospérité. Elle était la plus jolie des filles, les cheveux bruns, le teint doré, avec sa figure ronde et fraîche, ses yeux de gaieté, sa bouche de charme. Et d'une douceur toujours égale, d'un rire toujours sonnant, l'âme même de cette grande ferme vivante, dont elle semblait être la bonne fée, la chanson victorieuse. Mais le choix de son fiancé avait surtout montré toute la raison, toute l'énergique tendresse de son coeur, sous cette continuelle belle humeur qui la faisait chanter du matin au soir. Depuis huit ans, Mathieu avait engagé le fils d'un petit cultivateur voisin, Frédéric Berthaud, un solide garçon, qui s'était passionné pour les travaux créateurs de Chantebled, s'y instruisant, y montrant un esprit d'une activité et d'une intelligence rares. Il n'avait d'ailleurs aucune fortune, Rose, grandie près de lui, le savait l'aide préféré de son père ; et, dès son retour du service, comme il rentrait à la ferme, elle avait très simplement provoqué son aveu, se sentant aimée. Elle fixait son destin, elle était résolue à ne pas quitter ses parents, à rester dans cette ferme où son bonheur avait tenu jusque-là. Ni Mathieu ni Marianne ne furent surpris. Émus aux larmes, ils avaient approuvé un choix où entrait tant de sage affection pour eux. Le lien de famille se trouvait comme resserré, et il n'y avait eu que plus de joie encore dans la maison.]{.calibre11}
+
+[Tout fut donc réglé. Il était convenu que, ce dimanche-là, par le train de dix heures, Ambroise amènerait à Janville sa fiancée Andrée, accompagnée de sa mère, Mme Séguin. Et, dès huit heures, Rose eut à combattre, pour que toute la famille fût du cortège qui se rendrait à la gare, au-devant des fiancés.]{.calibre11}
+
+[« Voyons, mon enfant, c'est fou, disait doucement Marianne. Il faut bien que quelqu'un reste ici. Je garderai Nicolas, les enfants de cinq ans n'ont pas besoin de courir les chemins. Je garderai aussi Gervais et Claire... Emmène tous les autres, je veux bien, et ton père vous conduira. »]{.calibre11}
+
+[Mais Rose, au milieu de ses grands rires, tenait bon, ne voulait rien lâcher de son idée plaisante, qui l'égayait tant.]{.calibre11}
+
+[« Non, non ! Maman, tu viendras, et tous viendront, c'est promis... Comprends donc qu'Ambroise et Andrée, c'est, comme dans les contes, le royal couple d'un empire voisin. Mon frère Ambroise, ayant obtenu la main d'une princesse étrangère l'amène pour nous la présenter... Alors, naturellement, afin de leur faire les honneurs de notre empire, à nous, Frédéric et moi nous allons à leur rencontre, accompagnés de toute la cour. Vous êtes la cour, vous ne pouvez pas faire autrement que de venir... Hein ? Quelle pompe, quel spectacle, dans la campagne, quand nous nous déroulerons, au retour ! »]{.calibre11}
+
+[Marianne, que cette gaieté débordante gagnait, finit par rire et par céder.]{.calibre11}
+
+[« Voici l'ordre et la marche, reprit Rose. Oh ! J'ai tout organisé, tu vas voir... Frédéric et moi, nous irons à bicyclette, c'est plus moderne. Nous emmènerons, à bicyclette aussi, mes suivantes, mes trois petites soeurs, Louise, Madeleine, Marguerite, onze, neuf et sept ans : ça fera l'escalier derrière moi, un joli effet. Et nous pouvons encore accepter à bicyclette mon frère Grégoire, un page de treize ans, fermant l'escorte de nos augustes personnes... Tout le reste de la cour s'empile dans le char, je veux dire dans le grand break de famille, où l'on tient huit. Toi, la reine mère tu pourras garder Nicolas, ton dernier rejeton, sur les genoux. Papa, lui, n'aura que sa royauté de chef de dynastie à porter dignement. Et mon frère Gervais, jeune hercule de dix-sept ans, conduira, ayant près de lui, sur la banquette, ma soeur Claire, dont les quinze ans fleurissent en haute sagesse... Quant aux deux aînés, aux illustres jumeaux, les puissants seigneurs Blaise et Denis, nous les prendrons à Janville, chez Mme Desvignes puisqu'ils nous y attendent. »]{.calibre11}
+
+[Elle triompha, elle dansa, chanta, en tapant des mains.]{.calibre11}
+
+[« Ah ! Pour un beau cortège, je crois que voilà un beau cortège ! »]{.calibre11}
+
+[Une telle hâte joyeuse la pressait, qu'elle fit partir tout son monde beaucoup trop tôt et qu'on fut à Janville, dès neuf heures et demie. Mais il s'agissait d'y prendre le reste de la famille.]{.calibre11}
+
+[La maison où Mme Desvignes s'était réfugiée, après la mort de son mari, et qu'elle occupait depuis douze ans déjà, en y vivant des petites rentes sauvées du désastre, très paisible, très retirée, tout entière à l'éducation de ses deux filles, se trouvait sur la route, la première du village. Depuis huit jours, sa fille aînée, Charlotte, que Blaise avait épousée, était venue s'y installer pour un mois, avec ses deux enfants Berthe et Christophe, qui avaient besoin de grand air ; et, la veille au soir, Blaise lui-même les y avait rejoints, lâchant l'usine jusqu'au lundi, ravi de passer avec eux la journée du dimanche.]{.calibre11}
+
+[C'était une joie pour la cadette, Marthe, lorsque la grande soeur revenait vivre ainsi quelques semaines dans l'ancien nid, amenant les bébés, retrouvant sa chambre de jeune fille, où l'on mettait deux berceaux. Les jeux et les rires d'autrefois recommençaient, la bonne Mme Desvignes ne rêvait plus, dans sa fierté d'être grand-mère, que d'achever sa tâche, si prudemment menée, en mariant Marthe à son tour. Et la vérité était qu'on avait pu croire un instant qu'il y aurait trois mariages à Chantebled, au lieu de deux. Denis, qui, au sortir de son école spéciale, s'était lancé dans de nouvelles études techniques, couchait souvent à la ferme, voyait presque tous les dimanches Marthe, de même âge que Rose, les deux inséparables ainsi qu'on les nommait, et la jeune fille, blonde et jolie comme sa soeur Charlotte mais d'une intelligence plus pratique, d'une raison plus froide, l'avait séduit, au point de le décider à l'épouser, même sans dot, depuis qu'il avait découvert en elle les qualités des compagnes solides, celles qui aident aux grandes fortunes. Seulement, dans leurs causeries d'amoureux, tous deux étaient si sages, si pleins d'une sereine confiance, qu'ils n'éprouvaient aucune hâte, lui surtout, très méthodique, désireux de ne pas risquer le bonheur d'une femme, avant de pouvoir lui offrir une situation certaine. Et voilà comment ils avaient, d'eux-mêmes, ajourné leur mariage, résistant avec de paisibles sourires, aux assauts passionnés de Rose, que l'idée des trois noces à la fois exaltait. Denis n'en continuait pas moins ses tendres visites chez Mme Desvignes, qui le recevait comme un fils, confiante et prudente, elle aussi. Ce matin-là, il était même parti de la ferme, dès sept heures, en disant qu'il allait surprendre Blaise en famille, au saut du lit, de sorte qu'on devait également le retrouver à Janville.]{.calibre11}
+
+[Justement, la fête de Janville tombait ce dimanche, le deuxième de mai. Devant la gare, la Grand-Place était envahie par des chevaux de bois, des guinguettes volantes, des baraques et des tirs. Pendant la nuit, des ondées orageuses avaient lavé le ciel, il était d'un bleu pur, avec un soleil flamboyant, trop chaud pour la saison. Aussi, du monde était déjà là, tous les badauds du pays, des bandes d'enfants, des paysans d'alentour pressés de voir. Et ce fut au milieu de cette foule que la famille tomba, les bicyclistes d'abord, le break ensuite, puis la queue qu'on avait prise à l'entrée du village.]{.calibre11}
+
+[« Nous produisons notre petit effet », dit Rose, en sautant de sa machine.]{.calibre11}
+
+[C'était incontestable. Les premières années, Janville tout entier s'était montré dur pour les Froment, ces bourgeois venus on ne savait d'où, qui avaient l'outrecuidance de vouloir faire pousser du blé où ne poussaient que des pierres, depuis des siècles. Puis, le miracle, l'extraordinaire victoire, en blessant les vanités, avait longtemps encore exaspéré les haines. Mais tout s'use, on ne tient pas rancune au succès, les gens qui s'enrichissent finissent toujours par avoir raison. Et maintenant, Janville souriait avec complaisance de cette famille pullulante qui avait grandi là, oubliant que chaque enfant de plus, autrefois, était un nouveau scandale pour les commères. D'ailleurs, comment résister à la force heureuse, à la gaieté de cette invasion, lorsque, comme par ce dimanche de fête, la famille entière arrivait au galop, conquérait les routes, les rues et les places ? Le père et la mère, onze enfants, dont six garçons et cinq filles, plus deux petits-enfants déjà, ça faisait quinze. Les deux aînés, les jumeaux, avaient vingt-quatre ans, si semblables encore, que les gens parfois les confondaient, bien qu'ils ne fussent plus tout à fait pareils, comme jadis dans leur berceau, où il leur fallait ouvrir les yeux pour qu'on les reconnût, Blaise les ayant gris, Denis les ayant noirs. Le plus jeune, Nicolas, à l'autre bout, n'avait que cinq ans, un délicieux gamin, un petit homme précoce, d'une énergie, d'un courage qui semblait drôle. Et, des deux grands frères à ce petit, les huit autres s'étageaient, de deux ans en deux ans : Ambroise, le mari séducteur de demain, en marche pour toutes les conquêtes ; Rose, si éclatante de vie, à la veille également d'être femme, d'être mère ; Gervais, au front carré, aux membres de lutteur, qui bientôt livrerait le bon combat de la grande culture ; Claire, silencieuse, laborieuse, sans beauté, un coeur solide, une tête sage de ménagère ; Grégoire, l'écolier indiscipliné, la volonté toujours en éveil, battant les buissons, cherchant l'aventure ; les trois dernières fillettes enfin, Louise la bonne grosse fille, Madeleine la délicate et la rêveuse, Marguerite la moins jolie, la plus tendre. Et, lorsque, derrière le père et la mère, les onze débouchaient à la file, lorsqu'ils étaient suivis de Berthe et de Christophe, ceux de l'autre génération déjà, ça faisait une vraie queue de monde, comme ce beau dimanche, au travers de la Grand-Place de Janville, emplie de la population en fête. Et c'était irrésistible, même ceux qui gardaient en travers la prodigieuse création de Chantebled, s'égayaient, s'amusaient de les voir galoper de la sorte, envahir le pays où ils tombaient, tant ils apportaient avec eux de santé, de joie et de puissance, comme si la terre elle-même, en son débordement de vie, les eût enfantés à profusion, pour les éternels espoirs de demain.]{.calibre11}
+
+[« Que ceux qui sont davantage se montrent ! reprit gaiement Rose. On se comptera.]{.calibre11}
+
+[--- Tais-toi, voyons ! dit Marianne, qui, descendue de la voiture, venait de poser Nicolas à terre. Tu finiras par nous faire huer.]{.calibre11}
+
+[--- Huer ! Mais ils nous admirent tous, regarde-les !... Est-ce drôle, maman, que tu ne sois pas plus orgueilleuse de toi et de nous !]{.calibre11}
+
+[--- J'en suis tellement orgueilleuse, que je crains d'humilier les autres. »]{.calibre11}
+
+[Tous se mirent à rire. Et Mathieu, près de Marianne, était très fier, lui aussi, bien qu'il gardât sa bonhomie tranquille, lorsqu'il se trouvait de la sorte, en public, au milieu du bataillon sacré, comme il nommait plaisamment ses fils et ses filles. La bonne Mme Desvignes, souriante, en faisait également partie, depuis que sa fille Charlotte, en attendant que Marthe à son tour s'y employât, continuait l'oeuvre de vie, donnait des soldats au bataillon toujours grandissant, qui finirait par devenir une armée. Ce n'était qu'un commencement encore, on verrait plus tard s'élargir sans cesse, pulluler sans fin la race victorieuse, les petits-fils, les fils des petits-fils. On serait cinquante, on serait cent, on serait deux cents, pour le bonheur et pour la beauté du monde. Et, dans l'ébahissement, dans l'indulgence amusée de Janville, autour de cette famille féconde, il entrait certainement l'inconsciente admiration de la force et de la santé qui créent les grands peuples.]{.calibre11}
+
+[« D'ailleurs, nous n'avons plus que des amis, fit remarquer Mathieu. Tous nous aiment.]{.calibre11}
+
+[--- Oh ! Tous ! murmura Rose. Regarde donc les Lepailleur, là devant cette baraque. »]{.calibre11}
+
+[En effet, les Lepailleur étaient là, le père, la mère, Antonin, Thérèse. Afin de ne pas voir les Froment, ils affectaient de s'intéresser à un jeu de tourniquet, chargé de porcelaines violemment peintes. Du reste, ils ne les saluaient plus, ils avaient profité d'une légère discussion pour rompre, dans leur rage impuissante de tant de prospérités ininterrompues. Lepailleur considérait la création de Chantebled comme une insulte personnelle, car il n'oubliait pas ses goguenardises, ses défis, au sujet de ces landes où l'on devait ne jamais récolter que des cailloux. Et, quand il eut bien examiné les porcelaines, l'idée lui vint d'être insolent, il se retourna, il regarda de ses yeux fixes la famille, qui, débarquée trop tôt, ayant un grand quart d'heure à tuer, avant l'arrivée du train, défilait gaiement au milieu de la fête.]{.calibre11}
+
+[L'exécrable humeur du meunier, depuis deux mois, s'aggravait de la rentrée à Janville de son fils Antonin, dans des conditions déplorables. Le garçon, parti un matin à la conquête de Paris, installé par ses parents pleins d'une aveugle confiance en sa belle écriture, était resté quatre ans chez maître Rousselet, petit clerc, d'un esprit lourd, d'une paresse insigne. Il n'avait pas fait un progrès, il ne s'était lancé, peu à peu, que dans une noce facile, d'abord la tentation du café, de la fille qui passe, puis la pente fatale, l'alcool, le jeu, les amours crapuleuses. Paris conquis, c'étaient les bas plaisirs, rêvés au village, réalisés sans mesure, avec une voracité gloutonne. Tout son argent y passait, l'argent qu'il tirait de sa mère par de continuelles promesses de victoire, dont elle acceptait le mensonge dévotement, d'une foi totale devant lui, comme devant un bon Dieu. Puis, il finit par y laisser sa santé, il devint si maigre, si jaune, perdant ses cheveux à vingt-trois ans, que sa mère, prise de peur, le ramena un soir, en déclarant qu'il travaillait trop et qu'elle ne lui permettrait pas de se tuer ainsi. On le sut plus tard, Me Rousselet l'avait simplement mis à la porte. Mais cette retraite nécessaire, ce désastreux retour au bercail, n'alla pas sans faire grogner Lepailleur, qui commençait à comprendre. S'il ne se fâchait pas encore ouvertement, c'était par orgueil, pour ne pas avouer son mécompte, le doute où il tombait du bel avenir d'Antonin. Les portes closes, il se vengeait sur sa femme, la poursuivait de querelles affreuses, depuis qu'il avait découvert ses continuels envois d'argent ; et elle lui tenait tête, admirant son garçon comme elle l'avait admiré lui-même autrefois, sacrifiant le père au fils, maintenant que l'instruction plus grande de celui-ci la stupéfiait davantage ; de sorte que le désaccord se mettait dans le ménage, né justement de leur tentative d'avoir pour héritier un monsieur, un Parisien, qui les avait gonflés d'un si vaniteux espoir. Antonin, lui, ricanait, haussait les épaules, promenait au soleil sa laide maladie, en attendant d'être assez fort pour retourner à son vice.]{.calibre11}
+
+[Lorsque les Froment passèrent, ce fut un beau spectacle de voir les Lepailleur raidis, les mangeant des yeux. Le père tordit la bouche comme pour se moquer, la mère eut un hochement de bravade. Debout, les mains dans ses poches, le garçon parut lamentable, avec sa tête déjà chauve, son dos qui se voûtait, la ruine blême où sombrait sa jeunesse. Et ils cherchaient tous les trois ce qu'ils pourraient bien trouver de désagréable, lorsqu'une occasion se présenta.]{.calibre11}
+
+[« Eh bien ! Où donc est Thérèse ? Glapit tout d'un coup la Lepailleur. Elle était là, qu'est-elle encore devenue ? Je ne veux pas qu'elle me quitte, quand il y a tout ce monde. »]{.calibre11}
+
+[En effet, Thérèse avait disparu depuis un instant. Elle venait d'entrer dans sa dixième année, elle était jolie comme un coeur, une petite blonde déjà grasse, avec des cheveux fous, des yeux noirs qui luisaient, pareils à des chandelles. On se l'imaginait toute rose, toute dorée, poudrée à blanc, dans la farine du moulin. Mais elle se montrait terrible, d'une vivacité, d'une décision à faire frémir, s'échappant et disparaissant pendant des heures, pour battre les buissons, en quête d'oiseaux, de fleurs, de fruits sauvages. Et, si sa mère s'effarait ainsi, courant à sa recherche, lorsque les Froment passaient, c'était que, l'autre semaine, elle avait constaté un grand scandale. Le rêve passionné de Thérèse était d'avoir une bicyclette, surtout depuis que ses parents la lui refusaient avec obstination, déclarant ces machines-là bonnes pour les bourgeois, pas convenables pour les filles honnêtes. Or, un après-midi qu'elle s'en était allée par les champs, à sa coutume, sa mère qui revenait du marché, l'avait aperçue sur un bout de route déserte, en compagnie du petit Grégoire Froment, un autre rôdeur de buissons, un coureur de son espèce, avec lequel elle se retrouvait souvent de la sorte, dans des coins connus d'eux seuls. Ils faisaient bien la paire, on ne voyait qu'eux deux s'égayant, galopant, par les sentes, sous les feuilles, le long des ruisseaux. Et l'abomination, ce jour-là, était que Grégoire, ayant installé Thérèse d'aplomb sur sa bicyclette la tenait à la taille, d'un bras ferme, courant près d'elle, l'aidant à rouler. Enfin, une vraie leçon que le petit gueux lui donnait et que la petite gueuse recevait de tout son coeur ; et des rires, et des tapes, et des joujoux de gamins qui pouvaient très mal tourner. Aussi, lorsqu'elle était revenue, le soir, Thérèse avait-elle reçu deux maîtresses gifles.]{.calibre11}
+
+[« Mais où a-t-elle passé, cette sacrée coureuse ? Continuait à crier la Lepailleur. On ne peut pas la quitter des yeux, sans qu'elle file. »]{.calibre11}
+
+[Antonin, ayant allongé la tête derrière la baraque aux porcelaines, revint en traînant la jambe, les mains toujours dans les poches, avec son ricanement vicieux.]{.calibre11}
+
+[« Regarde donc là, maman. Ça chauffe. »]{.calibre11}
+
+[Et, derrière la baraque, la mère surprit encore Thérèse et Grégoire ensemble. Lui tenait d'une main sa bicyclette, dont il devait expliquer le mécanisme ; tandis qu'elle, figée d'admiration et de convoitise, regardait la machine de ses yeux de péché. Elle ne put résister au désir, il la soulevait toute rieuse dans ses bras de petit homme, pour l'asseoir une minute sur la selle, lorsque la terrible voix de la mère éclata.]{.calibre11}
+
+[« Sacrée gueuse, qu'est-ce que tu fais là encore ? Veux-tu bien vite revenir, ou je vas te régler ton compte ! »]{.calibre11}
+
+[Mathieu, qui s'était aperçu de la scène, rappela Grégoire, lui aussi, sévèrement.]{.calibre11}
+
+[« Va mettre ta machine avec les autres, et tu sais ce que je t'ai déjà défendu, ne recommence pas. »]{.calibre11}
+
+[C'était la guerre. Lepailleur, impudent, gronda des menaces avec des mots ignobles, que les brusques accords d'un orgue de Barbarie couvrirent. Et les deux familles se séparèrent s'éloignèrent au milieu de la foule endimanchée, dont le flot grandissait.]{.calibre11}
+
+[« Mon Dieu ! Ce train n'arrivera donc pas ! reprit Rose, qui, dans son impatience joyeuse, se tournait à chaque instant vers l'horloge de la petite gare, au fond de la place. Encore dix minutes, qu'est-ce que nous pourrions bien faire ? »]{.calibre11}
+
+[Justement, elle s'était arrêtée devant un homme, debout au coin d'un trottoir, en train de vendre des écrevisses, un plein panier d'écrevisses, grouillant à ses pieds. Elles venaient sûrement des sources de l'Yeuse, à trois lieues de là : des écrevisses pas grosses, mais excellentes, qu'elle connaissait bien, pour en avoir elle-même pêché parfois quelques-unes, le long du ruisseau. Une idée de gourmandise lui vint, qui était aussi une idée de jeu.]{.calibre11}
+
+[« Oh ! Maman, nous allons lui acheter tout son panier... Tu comprends, c'est pour le festin de bienvenue, c'est notre cadeau au royal couple que nous attendons. On ne dira pas que Nos Majestés ne font pas bien les choses, quand elles attendent des Majestés voisines... Et c'est moi qui vais les faire cuire en rentrant, vous verrez si je les réussis ! »]{.calibre11}
+
+[Alors, on la plaisanta, et les parents cédèrent à cette grande enfant, qui ne savait plus, dans son bonheur, à quel amusement se dépenser, tant la vie lui semblait en fête. Mais, comme elle s'entêtait à vouloir compter les écrevisses, en manière de distraction, ce fut une rude affaire ; car elle fut pincée par quelques-unes, elle les lâcha, avec de petits cris, et voilà que, le panier s'étant renversé, toutes galopèrent. Les garçons, les fillettes se jetèrent à leur poursuite, il y eut une chasse en règle, même les gens sérieux de la famille finirent par s'en mêler. Et c'était si drôle, si gai, si bon enfant, de les entendre rire, de les voir s'exciter à cette poursuite, les grands comme les petits, toute la nichée heureuse, que Janville s'amassa de nouveau, prenant sa part de l'amusement plein de bienveillance.]{.calibre11}
+
+[Soudain, il y eut au loin un grondement de roues, un train siffla.]{.calibre11}
+
+[« Ah ! Mon Dieu ! Les voilà ! dit Rose effarée. Vite ! Vite ! Nous allons manquer la réception ! »]{.calibre11}
+
+[Et ce fut une bousculade, on paya l'homme, on n'eut que le temps de fermer le panier et de le porter dans la voiture. Déjà, toute la famille courait, envahissait l'étroite gare, pour se ranger en bon ordre sur le quai de débarquement.]{.calibre11}
+
+[« Non, non ! Pas comme ça, répétait Rose, en replaçant son monde. Vous n'observez pas les préséances. La reine mère avec le roi son époux, puis les princes par rang de taille. Frédéric va se mettre à ma droite. Nous sommes les fiancés... Et, vous savez c'est moi qui fais le compliment. »]{.calibre11}
+
+[Le train s'arrêtait. Lorsque Ambroise et Andrée descendirent, ils furent d'abord stupéfaits que tout le monde fût ainsi venu les attendre, en rang, d'un air de solennité. Mais, Rose s'étant mise à leur adresser un petit discours pompeux, traitant la fiancée en princesse lointaine qu'elle avait charge de saluer, au seuil des États de son père, le couple finit par rire, voulut bien continuer la plaisanterie, en répondant sur le même ton. Les employés de la gare regardaient, écoutaient, bouche béante. Ce fut d'une bonne folie, ils étaient tous ravis de se montrer si enfants, par cette chaude matinée de mai.]{.calibre11}
+
+[Cependant, Marianne eut une exclamation de surprise.]{.calibre11}
+
+[« Comment ! Mme Séguin n'est pas venue avec vous ? Elle avait tant promis ! »]{.calibre11}
+
+[En effet, derrière Ambroise et Andrée, Céleste seule, la femme de chambre, venait de descendre du train. Et elle expliqua les choses.]{.calibre11}
+
+[« Madame m'a chargée de dire qu'elle était vraiment au désespoir. Hier encore, elle espérait bien tenir sa promesse. Seulement, elle a reçu, dans la soirée, la visite de M. De Navarède, qui préside, aujourd'hui dimanche, une conférence donnée par l'oeuvre, et il a été naturellement impossible à Madame de ne pas y assister. Alors, Madame s'est fiée à moi pour vous amener les jeunes gens. Vous voyez que tout va bien, les voilà à bon port. »]{.calibre11}
+
+[Au fond, personne ne regrettait Valentine, que la campagne attristait. Et Mathieu résuma l'opinion générale, en exprimant un regret poli.]{.calibre11}
+
+[« Enfin, vous lui direz combien elle nous a manqué... En route maintenant ! »]{.calibre11}
+
+[Mais Céleste, de nouveau, intervint.]{.calibre11}
+
+[« Pardon, monsieur je ne reste pas avec vous... Non, Madame m'a bien recommandé de revenir tout de suite auprès d'elle, car elle a besoin de moi pour l'habiller. Et puis, elle s'ennuie trop seule... Il y a un train pour Paris à dix heures un quart, n'est-ce pas ? Je vais le prendre. Puis, ce soir, je serai ici dès huit heures je ramènerai Mademoiselle... Nous avons réglé tout ça sur un indicateur des trains. À ce soir, monsieur.]{.calibre11}
+
+[« À ce soir, c'est chose entendue. »]{.calibre11}
+
+[Et, laissant la femme de chambre dans la petite gare déserte, tous sortirent, se retrouvèrent sur la place du village, où attendaient le break et les bicyclettes.]{.calibre11}
+
+[« Nous voilà au grand complet, cria Rose. Enfin, la vraie fête commence... Laissez-moi organiser le cortège pour la rentrée triomphale au château de nos pères.]{.calibre11}
+
+[--- Je crains bien, dit Marianne, que ton cortège ne soit trempé. Vois là-bas cette averse qui arrive. »]{.calibre11}
+
+[Depuis un instant, le ciel, si pur, était envahi par une grande nuée livide, qui montait de l'ouest, flagellée d'un vent de bourrasque. C'était comme une suite des violentes ondées orageuses de la nuit précédente.]{.calibre11}
+
+[« La pluie ! Nous nous en moquons bien ! Répondit superbement la jeune fille. Jamais elle n'osera tomber avant que nous soyons chez nous. »]{.calibre11}
+
+[Et elle plaça son monde, avec une autorité comique, selon l'ordre arrêté depuis huit jours dans sa tête. Et le cortège s'ébranla, traversa Janville émerveillé, au milieu des sourires de toutes les commères qui accouraient sur les portes, se déroula le long de la route blanche, à travers les champs fertiles, faisant lever des bandes d'alouettes, dont la claire chanson montait au ciel. Ce fut vraiment magnifique.]{.calibre11}
+
+[En tête, Rose et Frédéric, le couple, filaient à bicyclette, côte à côte, ouvrant la marche nuptiale, d'une majestueuse allure. Derrière eux, les trois demoiselles d'apparat, les trois soeurs cadettes, Louise, Madeleine et Marguerite, s'étageaient de la plus grande à la plus petite, sur des machines faites à leur taille ; et, coiffées de bérets, avec leurs chevelures dans le dos, flottantes au vent de la course, elles étaient adorables, un vol d'hirondelles messagères qui rasaient le sol, porteuses de bonnes nouvelles. Quant au page Grégoire, toujours emballé, à pleines pédales, il ne se conduisait pas très bien, s'oubliait parfois jusqu'à vouloir dépasser le royal couple tenant la tête, ce qui lui attirait de sévères objurgations, tant qu'il n'était pas rentré dans le devoir, à son rang de déférence et de modestie. Seulement, les trois demoiselles d'apparat s'étant mises à chanter la complainte de Cendrillon, en marche pour le palais du Prince Charmant, le royal couple avait daigné trouver d'un aimable effet ce chant de circonstance, malgré l'étiquette. Et Rose, et Frédéric, et Grégoire aussi, tous avaient fini par le chanter, à pleine voix. Et cette chanson, dans la vaste campagne sereine, faisait la plus belle musique du monde.]{.calibre11}
+
+[Puis, à quelque distance, venait le char, le bon vieux break familial, bondé maintenant. Selon le programme arrêté, Gervais conduisait, ayant Claire à sa gauche, sur la banquette de cuir. Les deux forts chevaux allaient de leur train bonhomme, malgré les coups de fouet qu'il faisait claquer allègrement au-dessus de leurs oreilles, désireux de faire lui aussi de la musique. À l'intérieur, pour les six places, on était sept, en comptant trois gamins qui tout de même tenaient leur coin, tant ils se démenaient. C'était d'abord Ambroise et Andrée, les fiancés qu'on honorait de cette glorieuse bienvenue, assis en face l'un de l'autre. Ensuite, c'étaient également face à face, les hauts seigneurs du pays, Mathieu et Marianne, laquelle gardait sur les genoux le petit Nicolas, le dernier prince de la lignée qui braillait comme un petit âne, parce qu'il avait de la joie. Enfin, les deux dernières places se trouvaient occupées par la petite-fille et le petit-fils des hauts seigneurs, Mlle Berthe et M. Christophe, incapables encore d'une longue course à pied. Et le char s'avançait en grande pompe, bien que, dans la crainte de la pluie prochaine, on en eût déjà tiré à demi les rideaux de grosse toile blanche, ce qui le faisait ressembler, de loin, à quelque charrette de meunier.]{.calibre11}
+
+[Puis, derrière encore, en guise d'arrière-garde, marchait à pied un groupe formé de Blaise et de Denis, de Mme Desvignes et de ses deux filles, Charlotte et Marthe. Ils avaient absolument refusé de prendre une voiture, ils trouvaient très agréable de faire, en se promenant, les deux kilomètres qui séparaient Chantebled de Janville. S'il pleuvait, ils se réfugieraient bien quelque part.]{.calibre11}
+
+[D'ailleurs, Rose l'avait déclaré : c'était parfait, il fallait une suite à pied, pour que le cortège eût tout le développement, toute la signification désirable : ces cinq-là faisaient la foule, l'immense concours de peuple qui suivait ses souverains, en les acclamant. Ou bien encore ils étaient la garde nécessaire, les aînés, les hommes d'armes qui veillaient, en queue, afin de déjouer l'attaque possible de quelque voisin félon. Le malheur advint que, la bonne Mme Desvignes ne marchant pas vite, l'arrière-garde se trouva vite distancée, à ce point qu'elle ne forma bientôt plus, au loin, qu'un très petit groupe perdu.]{.calibre11}
+
+[Mais cela ne déconcertait pas Rose, dont les mécomptes redoublaient le grand rire. Au premier coude de la route, elle se retourna sur sa selle ; et, lorsqu'elle vit son arrière-garde à plus de trois cents mètres, elle se récria d'admiration.]{.calibre11}
+
+[« Oh ! Regardez donc, Frédéric. Quel cortège interminable ! En tenons-nous une place ! Ça s'allonge, ça s'allonge toujours, et la campagne ne va pas être assez longue. »]{.calibre11}
+
+[Et, comme les trois demoiselles d'apparat, ainsi que le page, se permettaient de gouailler :]{.calibre11}
+
+[« Dites donc, vous autres, si vous étiez respectueux... Comptez donc un peu, pour voir ! Nous sommes six à l'avant-garde, n'est-ce pas ? Dans le char, ils sont neuf, ça fait quinze ! Ajoutez les cinq de l'arrière-garde, ça fait vingt... On vous en donnera des familles pareilles ! Les lapins qui nous regardent passer sont muets de stupeur et d'humiliation. »]{.calibre11}
+
+[Et de rire, et de reprendre tous à la fois la complainte de Cendrillon, en marche pour le palais du Prince Charmant.]{.calibre11}
+
+[Ce fut au pont de l'Yeuse que les premières gouttes de pluie commencèrent à tomber, des gouttes larges. La nuée livide, que poussait un vent terrible, galopait au ciel, l'emplissait d'une clameur de tempête. Et, presque tout de suite, les gouttes s'élargirent encore, se multiplièrent, fouettées par une si violente rafale que l'eau ruissela, s'abattit brusquement en paquets, comme si quelque formidable écluse se rompait là-haut. On ne voyait plus à vingt mètres devant soi. En deux minutes, la route déborda telle qu'un lit de torrent.]{.calibre11}
+
+[Alors, dans le cortège, il y eut un sauve-qui-peut. On ne sut que plus tard la chance heureuse de l'arrière-garde, qui, surprise près de la maison d'un paysan, s'y réfugia, en toute tranquillité. Ceux du break, simplement, fermèrent les rideaux, puis firent halte à l'abri d'un arbre, au bord du chemin, par crainte de quelque effarement des chevaux, sous une averse pareille. Ils crièrent aux bicyclistes, qui tenaient la tête, de s'arrêter eux aussi, de ne pas être assez fous pour s'entêter à recevoir un tel déluge, et leur voix se perdit dans le grondement de l'eau. Pourtant, ce fut le sage parti que prirent les fillettes et le page, en s'abritant derrière une haie épaisse, avec leurs machines. Mais, devant eux, le couple des fiancés, éperdument, continua.]{.calibre11}
+
+[Frédéric, le plus raisonnable des deux, avait eu le bon sens de dire :]{.calibre11}
+
+[« Ce n'est pas prudent, ce que nous faisons là. Je vous en prie, arrêtons-nous comme les autres. »]{.calibre11}
+
+[Et il s'était attiré cette réponse de Rose, excitée, emportée dans sa fièvre heureuse, comme insensible au cinglement de la pluie :]{.calibre11}
+
+[« Bah ! Maintenant, nous sommes trempés. C'est en nous arrêtant, que nous prendrions du mal... Filons ! Filons ! En trois minutes nous sommes chez nous, et nous nous moquerons de tous ces traînards, quand ils arriveront dans un grand quart d'heure. »]{.calibre11}
+
+[Ils venaient de franchir le pont de l'Yeuse, ils volaient côte à côte, bien que la route se fît dure, une montée d'un bon kilomètre, entre les hauts peupliers.]{.calibre11}
+
+[« Je vous assure que nous avons tort, répéta-t-il. On me grondera, on aura raison.]{.calibre11}
+
+[--- Ah ! Bien ! Cria-t-elle, moi qui m'amuse tant ! C'est très drôle, ce bain à bicyclette !... Laissez-moi, si vous ne m'aimez pas assez pour me suivre. »]{.calibre11}
+
+[Il la suivit, se serra contre elle, tâcha de la protéger un peu contre la pluie oblique. Et ce fut une course éperdue, une course démente, ce couple ainsi lié, dont les coudes se touchaient, filant à une vitesse folle, comme soulevé, emporté par toute cette eau galopante, hurlante, qui faisait rage. Il semblait que l'orage les charriât avec son tonnerre. Au moment où ils sautaient de machine, dans la cour de la ferme, l'averse cessa tout d'un coup, le ciel redevint bleu.]{.calibre11}
+
+[Rose riait follement, très rouge, essoufflée, mouillée à un tel point, que ses vêtements, ses cheveux, ses mains ruisselaient, une fée des sources qui aurait renversé son urne sur elle.]{.calibre11}
+
+[« Hein ? La fête est complète !... Ça n'empêche pas que nous arrivons les premiers. »]{.calibre11}
+
+[Elle se sauva, monta se peigner et changer de robe. Mais ce qu'elle n'avoua pas, ce fut qu'elle ne prit pas même la peine de mettre du linge sec, pour gagner quelques minutes, dans la hâte où elle était de préparer la cuisson des écrevisses. Avant que toute la famille arrivât, elle voulait que l'eau fût sur le feu, avec le vin blanc, les carottes, les épices du court-bouillon. Et elle allait, et elle venait, activant la flamme, emplissant la cuisine de son allègre activité, en bonne ménagère heureuse de montrer son savoir ; tandis que son fiancé, redescendu, lui aussi, la suivait des yeux, d'un air d'admiration béate.]{.calibre11}
+
+[Enfin, lorsque la famille entière fut là, ceux du break, et même les gens à pied, il y eut une explication assez vive, car le père et la mère se fâchaient, tellement cette course sous l'orage les avait inquiétés.]{.calibre11}
+
+[« Ma fille, répétait Marianne, ça manque de tout bon sens... Au moins as-tu bien changé de linge ?]{.calibre11}
+
+[--- Mais oui ! Mais oui ! Répondit Rose. Où sont les écrevisses ? »]{.calibre11}
+
+[De son côté, Mathieu sermonnait Frédéric.]{.calibre11}
+
+[« Vous pouviez vous casser le cou, sans compter que ce n'est guère bon de recevoir toute cette eau froide, lorsqu'on a chaud. Vous auriez dû l'arrêter.]{.calibre11}
+
+[--- Dame ! Elle a voulu filer quand même, et moi, vous savez, quand elle veut quelque chose, je n'ai pas la force de ne pas le vouloir. »]{.calibre11}
+
+[Ce fut Rose qui, gentiment, mit fin aux reproches.]{.calibre11}
+
+[« Voyons, voyons, assez de gronderies, j'ai eu tort... Et personne qui me ferait un compliment sur mon court-bouillon ! Avez-vous jamais vu des écrevisses sur le feu, qui sentissent aussi bon que celles-là ? »]{.calibre11}
+
+[Le déjeuner fut d'une gaieté débordante. Comme on était vingt et qu'on désirait faire une vraie répétition des noces, on avait mis la table dans une grande salle, voisine de l'ordinaire salle à manger. Elle était nue encore ; mais, tout le temps du déjeuner on ne parla que de la façon dont on comptait l'embellir, avec des arbustes, des guirlandes de feuillages, des touffes de fleurs. Au dessert, on fit même apporter une échelle, pour tracer sur les murs les grandes lignes de la décoration.]{.calibre11}
+
+[Depuis un instant, Rose, si bavarde jusque-là, se taisait. Elle avait pourtant mangé de grand appétit. Mais, sous sa lourde chevelure, mouillée encore, elle n'avait plus le sang au visage, elle était devenue d'une pâleur de cire. Et, comme elle voulait monter elle-même à l'échelle, pour indiquer un motif d'ornement, elle trébucha, elle eut une brusque syncope. Vivement, on l'avait installée sur une chaise, tout le monde s'effarait... Pendant quelques minutes, elle resta sans connaissance. Puis, quand elle revint à elle, une sorte d'angoisse la tint encore un instant étouffée, muette, sans paraître comprendre ce qui s'était passé. Mathieu et Marianne bouleversés, la pressaient de questions, voulaient savoir. Évidemment, elle devait avoir pris froid, c'était le beau résultat de cette course imbécile. Pourtant, la jeune fille se remettait, souriait de nouveau ; et elle expliqua qu'elle ne souffrait pas, qu'elle avait senti tout d'un coup comme un gros pavé sur sa poitrine, mais que ça s'était ensuite fondu, qu'elle respirait mieux En effet elle fut bientôt debout, elle acheva de donner ses idées pour la décoration de la salle, si bien qu'on finit par se rassurer et que l'après-midi se passa joyeusement à tirer des plans, à faire les plus beaux projets du monde. Au dîner, on mangea peu, tant on avait fêté les écrevisses, le matin. Puis, dès neuf heures, dès que Céleste fut revenue chercher Andrée, on se sépara. Ambroise retournait le soir même à Paris. Blaise et Denis devaient prendre le premier train, le lendemain, à sept heures. Et Rose, en accompagnant Mme Desvignes et ses filles, jusque sur la route, leur criait encore dans la nuit des au revoir, des à bientôt, toute vibrante de la gaieté dernière de ce rendez-vous que la famille se donnait, pour les prochaines noces heureuses.]{.calibre11}
+
+[Cependant, ni Mathieu ni Marianne ne se couchèrent tout de suite. Sans vouloir même en causer entre eux, ils trouvaient Rose singulière, les yeux troubles, l'air ivre. Elle avait de nouveau trébuché en rentrant, ils la décidèrent à se mettre au lit, bien qu'elle se plaignît seulement d'un peu de suffocation. Puis, lorsqu'elle se fut retirée dans sa chambre, qui était voisine de la leur, ils attendirent, la mère alla plusieurs fois s'assurer qu'elle était bien couverte, qu'elle s'endormait tranquillement, pendant que le père veillait, inquiet et rêveur sous la lampe. Enfin, elle dormit, et tous deux alors, après avoir laissé la porte de communication ouverte, s'entretinrent un instant à demi-voix, voulant se tranquilliser : ce ne serait rien, une bonne nuit suffirait. Ils se couchèrent à leur tour, toute la ferme fit silence, anéantie de sommeil, jusqu'au premier chant du coq. Mais, vers quatre heures, avant l'aube, une brusque plainte sourde, étouffée : « Maman ! Maman ! » éveilla les époux, les jeta sur le parquet, pieds nus, frissonnants, tâtonnants, en quête de la bougie. C'était Rose qui étouffait, qui se débattait contre une nouvelle crise, d'une violence extrême. Pour la seconde fois, après quelques minutes, elle reprit connaissance, elle parut soulagée, et les parents, dans leur angoisse pourtant si vive, préférèrent n'appeler personne, attendirent le jour. Leur terreur, surtout, venait de ce qu'ils trouvaient leur fille méconnaissable, la face gonflée, décomposée, comme si quelque puissance mauvaise la leur changeait, la leur volait, en une seule nuit. Elle s'était pourtant rendormie, d'un air d'accablement. Et ils ne bougeaient plus, de peur de troubler ce repos, et ils veillaient, ils attendaient, en écoutant la ferme revivre, à mesure que grandissait le jour. Les heures sonnèrent, cinq heures, six heures. Vers sept heures moins vingt, Mathieu, apercevant dans la cour Denis qui devait rentrer à Paris par le train de sept heures, descendit en hâte lui dire de passer chez Boutan, pour le supplier d'accourir sans perdre une minute. Et, après le départ de son fils, il était remonté près de Marianne, ne voulant encore appeler ni même prévenir personne, lorsqu'une troisième crise se produisit. Et, cette fois, ce fut la foudre.]{.calibre11}
+
+[Rose s'était soulevée, les bras ouverts, la bouche élargie, en jetant sa plainte.]{.calibre11}
+
+[« Maman ! Maman ! »]{.calibre11}
+
+[Puis, dans une révolte, dans une dernière flambée de vie, elle sauta de sa couche, voulut marcher, alla jusqu'à la fenêtre, que le soleil levant embrasait. Un instant, elle s'y appuya, les jambes nues, les épaules nues, d'une nudité pure de vierge, avec ses lourds cheveux dénoués, qui la couvraient d'un royal manteau. Jamais elle n'avait paru plus belle, plus éclatante de force et d'amour.]{.calibre11}
+
+[« Oh ! Que je souffre ! C'est fini, je vais mourir. »]{.calibre11}
+
+[Le père s'était précipité, la mère la soutenait, l'enveloppait de ses deux bras, comme d'une invincible armure, pour la défendre contre tout péril.]{.calibre11}
+
+[« Tais-toi, malheureuse enfant ! Ce n'est rien, c'est une crise encore qui va se calmer... Recouche-toi, de grâce ! Ton vieil ami Boutan est en route, demain tu seras debout.]{.calibre11}
+
+[--- Non, non ! Je vais mourir, c'est fini ! »]{.calibre11}
+
+[Elle tomba dans leurs bras, ils n'eurent que le temps de la recoucher. Et ce fut la foudre, elle mourut sans un mot, sans un regard, en quelques minutes, d'une congestion pulmonaire.]{.calibre11}
+
+[La foudre imbécile, la faux aveugle qui, d'un coup, sabre tout le printemps. Cela fut si brutal, si violemment inattendu, que la stupeur, d'abord, l'emporta sur le désespoir. Aux cris de Marianne et de Mathieu, la ferme entière accourut, s'emplit de la rumeur affreuse, puis tomba au grand silence de la mort, toute besogne toute vie ayant cessé. Et ils étaient là, effarés, écrasés, les autres enfants : le petit Nicolas qui ne comprenait pas encore, Grégoire, le page de la veille ; les trois demoiselles d'apparat, Louise, Madeleine et Marguerite ; les plus grands, les plus frappés, Claire et Gervais. Mais il y en avait d'autres par les chemins, les aînés Blaise, Denis, Ambroise, qui roulaient vers Paris à ce moment même, ignorant l'imprévu, l'effroyable coup de hache qui s'abattait sur la famille. Où la nouvelle terrible les rattraperait-elle ? Dans quelle cruelle détresse reviendraient-ils ? Et ce médecin qui allait accourir ! Et, tout d'un coup, au milieu de la confusion terrifiée des premières minutes, éclatèrent les cris de Frédéric, le fiancé, hurlant son désastre. Il devenait fou, il voulait se tuer, en disant qu'il était l'assassin, qu'il aurait dû empêcher Rose de rentrer sous l'orage. On l'écarta, il fallut l'emmener de la ferme, dans la crainte de quelque nouveau malheur. Sa subite démence avait rompu les coeurs, les sanglots coulèrent, il y eut une lamentation des misérables parents, des frères, des soeurs, de tout Chantebled foudroyé, que la mort, pour la première fois, visitait.]{.calibre11}
+
+[Rose, grand Dieu ! Sur ce lit de deuil, blanche, froide morte ! La plus jolie, la plus gaie, la plus aimée ! Celle devant qui tous les autres étaient en admiration, en fierté, en amour ! Et cela dans un tel espoir de longue vie et de solide bonheur, dix jours avant le mariage, le lendemain même de cette belle journée de gaieté folle, ou elle avait tant plaisanté, tant ri ! On la revoyait si vivante si adorable, avec ses imaginations de grande enfant heureuse, ses réceptions princières, son royal cortège. Les deux prochains mariages, célébrés ensemble, c'était comme la floraison même du bonheur constant, la longue prospérité de la famille épanouie en une suprême joie. Jusque-là, sans doute, on avait peiné souvent, pleuré parfois ; mais on s'était serré, consolé, les uns contre les autres ; pas un encore n'avait manqué, le soir, à la bonne embrassade qui guérissait de tout. Et voilà que la meilleure partait, la mort venait dire qu'il n'y avait de joie absolue pour personne, que les plus vaillants, les plus heureux ne triomphaient jamais dans la plénitude de leur espérance. La vie n'était pas sans la mort. En une fois, ils payaient leur dette de misère humaine, d'autant plus chèrement, qu'ils s'étaient taillé une plus large part de vie, créant beaucoup pour vivre beaucoup. Lorsque tout germe, tout pousse autour de soi, lorsqu'on a voulu la fécondité sans réserve, l'oeuvre d'enfantement continu, quel rappel atroce à l'éternel gouffre obscur, dans lequel s'élabore le monde, le jour où le malheur s'abat, creuse la première fosse, emporte un être cher ! C'est la brusque cassure, l'arrachement des espoirs qui semblaient sans fin, la stupeur qu'on ne puisse vivre et s'aimer toujours.]{.calibre11}
+
+[Ah ! Les deux terribles journées qui suivirent, la ferme morte elle aussi, sans autre bruit que le souffle du bétail, la famille entière accourue, anéantie de cruelle attente, brûlée de larmes, tant que le pauvre corps resta là, sous une moisson de fleurs ! Et il y eut cette aggravation de cruauté que, la veille des obsèques le corps, mis en bière, fut descendu dans la salle où l'on avait déjeuné si joyeusement en discutant la façon magnifique dont on la décorerait, pour la grande fête des deux noces. Ce fut là que se fit la dernière veillée funèbre, et il n'y avait pas d'arbuste verts, pas de guirlandes de feuillages, quatre cierges brillaient seuls, des roses blanches se fanaient, cueillies du matin. Ni la mère ni le père ne voulurent se coucher pendant cette nuit suprême. Ils restèrent côte à côte près de l'enfant que la terre leur reprenait. Ils la revoyaient toute petite, à seize mois, dès leur premier séjour à Chantebled, dans l'ancien pavillon de chasse, lorsqu'elle venait d'être sevrée et qu'ils allaient la recouvrir la nuit. Ils la revoyaient, plus tard, à Paris, si petite encore, accourant le matin, grimpant, envahissant leur lit mis au saccage, avec des rires de conquête. Ils la revoyaient surtout grandie, embellie, à mesure que Chantebled s'agrandissait, comme si elle s'était épanouie elle-même de toute la santé, de toute la beauté de cette terre devenue fertile. Et elle n'était plus, et, quand cette pensée leur revenait qu'ils ne la reverraient jamais plus, leurs mains se cherchaient, se nouaient d'une étreinte affreuse, tandis que, d'une même plaie, de leurs deux coeurs écrasés ensemble, il leur semblait que toute leur vie, que tous leurs jours futurs coulaient au néant. Désormais, la brèche était faite, est-ce que les autres bonheurs n'allaient pas suivre, emportés à leur tour ? Et les dix autres enfants avaient beau être là, depuis le petit de cinq ans jusqu'aux deux aînés de vingt-quatre ans, vêtus de noir, en larmes, autour de la soeur endormie, ainsi qu'un douloureux bataillon qui lui aurait rendu les honneurs funèbres : ni le père ni la mère ne les voyaient plus, ne les comptaient plus, le coeur déchiré, arraché par la perte de celle qui partait, qui emportait de leur chair. Et, dans la grande salle nue, que les quatre cierges éclairaient mal, l'aube se leva sur cette veillée de mort, ce dernier adieu de toute la famille.]{.calibre11}
+
+[Puis, ce fut encore la douleur du convoi se déroulant par la route blanche, entre les hauts peupliers, au milieu des blés verts, cette route que Rose avait si follement montée sous l'orage. Tous les parents, tous les amis étaient venus, tout le pays avait apporte son émotion d'une mort si foudroyante. Aussi le cortège, cette fois, s'allongeait-il réellement au loin, derrière le char drapé de blanc, comme fleuri, dans le clair soleil, d'un buisson de roses blanches. La famille entière avait voulu mener le deuil, la mère elle-même, ainsi que les soeurs, ayant déclaré qu'elles ne quitteraient la chère morte qu'au bord de la fosse. Ensuite, marchaient les intimes, les Beauchêne, les Séguin. Mais, dans leurs larmes, ni Mathieu ni Marianne, brisés de fatigue, anéantis de souffrance ne reconnaissaient plus les gens. Ils se souvinrent, seulement le lendemain, qu'ils avaient dû voir Morange, sans être certain pourtant que ce fût bien Morange, ce monsieur silencieux, effacé, entrevu comme une ombre, qui leur avait serré les mains, en pleurant. Et ce fut de même, dans une sorte de rêve horrible, que Mathieu se rappela la maigre figure, le profil sec de Constance s'approchant de lui, au cimetière, après la descente du corps, et lui disant de vagues bonnes paroles, tandis qu'il avait cru voir flamber ses yeux d'un triomphe abominable.]{.calibre11}
+
+[Qu'avait-elle dit ? Il ne savait plus. Des paroles correctes naturellement, de même que son attitude était celle d'une parente affligée. Mais un souvenir brûlant lui revenait, d'autres paroles qu'elle avait prononcées, le jour où elle avait promis d'assister aux deux noces, en lui souhaitant, d'une bouche amère, que la bonne chance de Chantebled continuât. Et ils étaient donc foudroyés à leur tour, ces Froment si féconds, si prospères ! Et c'était peut-être leur bonne chance finie à jamais ! Il en garda un long frisson, ébranlé dans sa foi en l'avenir, hanté par la peur de voir la prospérité, la fécondité s'interrompre et se perdre, maintenant que la brèche était ouverte.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+[Livre cinquième]{.calibre55}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778810 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778472 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778134 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777796 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777458 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776782 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776444 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776106 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775768 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775430 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775092 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368774754 .pcalibre .calibre3 .pcalibre1} {#iv .calibre47 .sigil_not_in_toc}
+
+[Un an plus tard, Ambroise et Andrée baptisaient leur premier enfant, un garçon, le petit Léonce. Ils s'étaient mariés six semaines après la mort de Rose, dans l'intimité, sans fête. Et ce baptême allait être la première heureuse occasion de sortie, pour Mathieu et Marianne, encore en deuil, mal remis de la terrible secousse. D'ailleurs, il était décidé qu'après la cérémonie, on déjeunerait simplement chez le jeune ménage, et que chacun retournerait ensuite à ses affaires. Toute la famille ne pouvant venir, il n'y aurait là, en dehors du grand-père et de la grand-mère, que les deux aînés, Denis et Blaise, ce dernier avec sa femme Charlotte. Beauchêne, le parrain, avait choisi Mme Séguin pour commère, car la pauvre Constance, comme il le disait, frissonnait à la seule pensée de toucher un enfant, depuis la mort de leur Maurice. Elle avait pourtant accepté d'être du déjeuner, auquel Séguin s'était excusé de ne pouvoir prendre part. Et, de cette façon, on était encore dix, de quoi emplir la petite salle à manger, dans l'appartement modeste que le ménage occupait rue La Boétie, en attendant la fortune prochaine.]{.calibre11}
+
+[Ce fut une matinée d'une grande douceur. Mathieu et Marianne qui, même pour cette réjouissance, n'avaient pas voulu quitter leurs vêtements noirs, finirent par s'égayer tendrement, devant le berceau de ce petit-fils, dont la venue leur apportait comme un renouveau d'espoir. Au début de l'hiver, un autre deuil avait frappé la famille. Blaise avait perdu son petit Christophe, à deux ans et demi, victime du croup. Mais, par une sorte de compensation, Charlotte se trouvait de nouveau enceinte, de quatre mois déjà, et la douleur des premiers jours s'était changée en une attente émue. Puis, l'étroit appartement sentait bon, tout parfumé de la grâce blonde d'Andrée, tout ensoleillé du charme victorieux d'Ambroise, un couple de beaux amoureux qui s'adoraient, qui partaient bravement, au bras l'un de l'autre, à la conquête du monde. Et il y eut, en outre, pendant le déjeuner, le gros appétit les gros rires de Beauchêne, le compère, très occupé de sa commère Valentine, plaisantant, lui faisant une cour outrée, dont elle s'amusait elle-même, si mince à quarante-cinq ans, qu'elle jouait, encore les jeunes filles, bien qu'elle fût grand-mère, elle aussi. Seule, Constance restait grave, ne daignant sourire que d'un léger pli de ses lèvres minces, tandis que, par moments, une ombre d'atroce souffrance passait sur sa face séchée, lorsque son regard se promenait autour de cette table réjouie, d'où se levait, malgré les deuils récents, une force nouvelle d'invincible avenir.]{.calibre11}
+
+[Vers trois heures, Blaise quitta la table, sans vouloir que Beauchêne reprît de la chartreuse.]{.calibre11}
+
+[« C'est vrai, mes enfants, il a raison, finit par dire celui-ci, docile. On est très bien chez vous, mais il faut absolument que nous rentrions à l'usine. Et nous allons vous enlever Denis, nous avons besoin de ses lumières pour toute une grosse histoire de construction... Voilà comme nous sommes, nous autres. Nous ne boudons pas contre le devoir. »]{.calibre11}
+
+[Constance s'était également levée.]{.calibre11}
+
+[« La voiture doit être en bas, est-ce que tu la prends ?]{.calibre11}
+
+[--- Non, non, nous irons à pied, ça nous débarbouillera un peu la tête. »]{.calibre11}
+
+[Le temps était couvert, et, comme le jour baissait de plus en plus, Ambroise, qui s'était approché de la fenêtre, cria :]{.calibre11}
+
+[« Vous allez être mouillés.]{.calibre11}
+
+[--- Bah ! ça menace depuis ce matin, nous aurons bien le temps d'arriver jusqu'à l'usine. »]{.calibre11}
+
+[Il fut entendu que Constance prendrait Charlotte, dans la voiture, pour la mettre chez elle, à la porte du petit pavillon. Rien ne pressait Valentine, elle rentrerait tranquillement avenue d'Antin, à deux pas, dès que le temps se serait éclairci. Et quant à Marianne, quant à Mathieu, ils venaient de céder aux tendres supplications d'Andrée, ils voulaient bien dîner là, passer la journée entière, de façon à ne regagner Chantebled que par le dernier train. Ce serait la fête complète, le jeune ménage en était ravi, dansait et tapait des mains.]{.calibre11}
+
+[Mais le départ des autres fut égayé encore par un incident, une erreur de Constance, qui parut très comique, dans la joie dernière du plantureux déjeuner. Elle s'était tournée vers Denis, elle lui demanda tranquillement, en le regardant de ses yeux pâles :]{.calibre11}
+
+[« Blaise, mon ami, donnez-moi donc mon boa, que j'ai du laisser dans l'antichambre. »]{.calibre11}
+
+[Tout le monde se mit à rire, sans qu'elle en comprît la cause. Et ce fut avec la même tranquillité qu'elle remercia Denis, lorsqu'il lui apporta l'objet.]{.calibre11}
+
+[« Merci, Blaise, vous êtes très aimable. »]{.calibre11}
+
+[Alors, ce fut une explosion, on étouffait, tellement sa paisible assurance semblait drôle. Quoi donc ? Qu'avaient-ils tous à se moquer de la sorte ? Elle finit par soupçonner sa méprise, elle regarda plus attentivement le jeune homme.]{.calibre11}
+
+[« Ah ! Oui, ce n'est pas Blaise, c'est Denis... Que voulez-vous ? Moi, je les confonds toujours, surtout depuis qu'ils portent la barbe taillée de même. »]{.calibre11}
+
+[Obligeamment, pour corriger ce que de tels rires pouvaient avoir d'un peu railleur, Marianne rappela l'anecdote, si connue dans la famille, qu'elle-même, lorsqu'ils étaient petits et qu'ils dormaient ensemble, les réveillait, pour les reconnaître, à la couleur différente de leurs yeux. Puis, les autres, Beauchêne, Valentine s'en mêlèrent, racontèrent chacun les incroyables circonstances dans lesquelles ils avaient confondu les deux jumeaux tant leur ressemblance, certains jours, sous certains éclairages devenait complète. Et ce fut au milieu de cette gaie animation qu'on se sépara, après avoir échangé toutes sortes d'embrassades et de poignées de main.]{.calibre11}
+
+[Dans la voiture qui les ramenait, Constance n'adressa que de rares paroles à Charlotte, en prétextant une violente migraine que le déjeuner, trop prolongé, venait d'accroître. L'air las, les yeux clos à demi, elle songeait. Au lendemain de la mort de Rose lorsque le petit Christophe s'en était allé lui aussi, élargissant la plaie ouverte au coeur des Froment, elle avait eu comme une résurrection d'espoir. Une fièvre s'était déclarée, où elle crut reconnaître un réveil de tout son être. Des flots de sang lui montaient au visage, des frissons brûlaient sa chair, elle passa des nuits troublées de désirs, elle qui n'en avait jamais eu. Était-ce donc, grand Dieu ! Sa fécondité, sa maternité qui revenait ? Parfois n'arrive-t-il pas ainsi que, déjà dépouillés, certains arbres robustes, par de beaux automnes, se recouvrent de feuilles et de fleurs ? Alors, il y eut, chez elle, une allégresse folle. À mesure qu'elle s'était éloignée du jour affreux où Gaude lui avait brutalement dit qu'elle n'aurait plus d'enfant, elle avait douté davantage de sa parole de praticien, ne pouvant admettre sa propre impuissance, préférant croire à l'erreur d'un autre, toujours possible, si autorisé qu'il fût. Et c'était bien cela, Gaude avait dû se tromper. Elle écouta la vie battre en ses veines, elle se mit à suivre avec passion cette crise de son sang, ces brûlures, ces angoisses, qu'elle ne s'expliquait pas, qu'elle pensait être un renouveau tardif de son sexe. Une nuit même, comme elle entendait rentrer son mari, elle fut sur le point de se lever, de l'appeler dans sa couche éperdue, prise de la certitude de l'enfant. Puis, des douleurs graves survinrent, Boutan dut être consulté, et ce fut un écroulement encore, le coup de massue, lorsqu'il constata simplement un précoce retour d'âge, à quarante-six ans à peine, en laissant entendre que les fraudes avaient pu le hâter. Cette fois, l'arbre de vie était bien mort, rien désormais ne pousserait plus de la branche desséchée, d'où elle venait de voir tomber les dernières fleurs de sang.]{.calibre11}
+
+[Depuis deux mois, Constance mâchait ainsi sourdement sa rage de n'être plus une femme. Et, le matin, pendant ce baptême, et maintenant dans cette voiture, près de cette jeune femme enceinte, c'était sa déchéance inavouée encore, tenue secrète comme un mal honteux, qui empoisonnait son rire, qui la rendait jaune et mauvaise, capable des pires méchancetés. L'enfant qu'elle avait perdu, l'enfant qu'elle ne pouvait plus avoir, cette maternité longtemps contentée dans le calme, aujourd'hui dupée, inassouvie, la jetait à une véritable perversion morbide, où passaient des souhaits de monstrueuse rancune, qu'elle n'osait se dire à elle-même. Elle accusait le monde entier, et les événements, et les hommes, de s'entendre pour l'écraser. Son mari était le plus lâche, le plus imbécile des traîtres, car il la trahissait, en laissant aller, davantage chaque jour, un peu de l'usine à ce Blaise, dont la femme, si elle perdait un fils, en faisait tout de suite un autre. Elle s'irritait de voir ce mari si gai, si heureux, depuis qu'elle l'avait abandonné à ses basses jouissances du dehors, sans rien lui demander du devoir conjugal, pas même la présence. Il gardait son air de supériorité victorieuse, déclarant qu'il n'avait pas changé ; et c'était vrai, le patron actif d'autrefois avait beau être devenu le rôdeur sénile, en marche pour la paralysie générale, il n'était toujours que l'égoïste pratique tirant de sa vie la plus grande somme de jouissance possible. Il suivait sa pente, il n'adoptait Blaise que dans son ravissement d'avoir rencontré un garçon intelligent, travailleur, qui lui évitait des soucis devenus trop lourds à ses épaules lasses, tout en lui gagnant encore l'argent de ses plaisirs. Constance savait qu'un projet d'association allait intervenir, son mari devait même avoir touché déjà une forte somme pour boucher des trous qu'il lui cachait, des opérations ineptes, des dettes ignobles. Et, les yeux clos, pendant que la voiture roulait, elle achevait de s'empoisonner de ces choses, elle en aurait crié de fureur, en se jetant sur cette jeune femme, cette Charlotte qui était près d'elle, l'épouse aimée, la mère féconde, pour la gifler et lui déchirer le visage.]{.calibre11}
+
+[Puis, l'idée de Denis lui revint. Pourquoi l'emmenait-on à l'usine ? Allait-il la voler aussi, celui-là ? Elle savait pourtant que, sans situation encore, il avait refusé de s'adjoindre à son frère, estimant qu'il n'y avait point la place pour deux. Il possédait des connaissances techniques très étendues en mécanique, il l'ambitionnait la direction de quelque vaste chantier de construction ; et c'étaient même ces connaissances qui faisaient de lui un conseiller précieux, lorsque l'usine avait à établir le modèle nouveau de quelque importante machine agricole. Mais elle l'écarta pourtant, il ne comptait pas dans ses craintes, puisqu'il n'était chez elle que le passant d'une heure, qui, le lendemain peut-être, s'installerait à l'autre bout de la France. La pensée de Blaise était revenue, obsédante, étouffante, et elle eut tout d'un coup l'inspiration que, si elle se hâtait de rentrer, avant que les trois hommes fussent là, elle pourrait voir Morange seul dans son bureau, le faire causer, savoir bien des choses. Évidemment, lui, le comptable, connaissait le traité d'association, même si ce traité n'était qu'à l'état de projet. Et elle se passionna, brûla dès lors d'être arrivée, certaine d'obtenir les confidences de Morange, dont elle croyait pouvoir disposer à sa guise.]{.calibre11}
+
+[Comme la voiture filait sur le pont d'Iéna, elle regarda par la portière.]{.calibre11}
+
+[« Mon Dieu ! Que cette voiture est lente !... S'il pouvait pleuvoir cela me soulagerait peut-être un peu la tête. »]{.calibre11}
+
+[Elle songeait qu'une violente averse lui donnerait plus de temps, en arrêtant les trois hommes sous quelque porte cochère. Et, devant l'usine enfin, elle fit arrêter, sans même reconduire sa compagne jusqu'au pavillon.]{.calibre11}
+
+[« Ma chère, vous m'excusez, n'est-ce pas ? Vous n'avez qu'à tourner le coin de la rue.]{.calibre11}
+
+[Charlotte, souriante, affectueuse, lui prit la main, la garda quelques secondes dans la sienne, lorsqu'elles furent toutes deux descendues.]{.calibre11}
+
+[« Sans doute, et merci mille fois. Vous êtes trop aimable... Et veuillez prévenir mon mari que vous m'avez mise à bon port, car il s'inquiète aisément, depuis que me revoilà intéressante. »]{.calibre11}
+
+[Il fallut que Constance sourît à son tour, promît de faire la commission, avec de nouveaux témoignages de tendre amitié.]{.calibre11}
+
+[« Au revoir à demain.]{.calibre11}
+
+[--- Oui, oui, à demain, au revoir. »]{.calibre11}
+
+[Il y avait dix-huit ans déjà que Morange avait perdu sa femme Valérie, neuf ans que sa fille Reine était morte. Et il semblait toujours au lendemain de ces catastrophes, dans les vêtements noirs qu'il avait gardés, dans la vie qu'il menait à l'écart, se cloîtrant, ne disant plus que les paroles indispensables. Il était d'ailleurs redevenu le bon employé modèle, le comptable correct méticuleux, toujours à l'heure, comme cloué sur le fauteuil de bureau, où, depuis bientôt trente ans, il s'asseyait chaque matin ; car ses deux femmes, ainsi qu'il appelait passionnément ses chères disparues, avaient emporté avec elles sa volonté, son ambition tout ce qu'il s'était un instant efforcé de rêver pour elles de conquête, de haute fortune, de vie luxueuse, triomphante. Lui, si seul désormais, retombé à sa faiblesse, à sa timidité d'enfant ne souhaitait pour mourir que ce coin d'ombre habituel, cette besogne obscure dont il recommençait l'effort chaque jour, en bête de manège tournant sa roue. Mais on le soupçonnait d'avoir chez lui, dans cet appartement du boulevard de Grenelle qu'il s'obstinait à ne point quitter, une vie de mystère, toute une existence de maniaque, tenue secrète, en jaloux inquiet. La bonne avait l'ordre de ne laisser entrer personne. Du reste, elle-même ne savait rien. S'il lui abandonnait la salle à manger et le salon, il ne tolérait pas qu'elle mît le pied dans sa chambre, l'ancienne chambre conjugale, ni dans la chambre de Reine, où lui seul entrait. Il s'y enfermait pour les nettoyages, sans qu'on sût au juste quels soins il pouvait y prendre. C'étaient comme des sanctuaires sacrés, redoutables dont il était l'unique prêtre, en dévot fervent qui assumait tout le culte. Vainement, la bonne avait tenté d'y jeter un coup d'oeil ; vainement, lorsqu'il y vivait ses journées libres elle collait l'oreille à la porte : elle ne voyait rien, n'entendait rien. Pas une âme n'aurait pu dire les reliques que contenaient ces chapelles, ni de quelles pratiques religieuses il les honorait. Une autre raison de surprise était sa chiche vie d'avare dont il aggravait de plus en plus la rudesse, n'ayant comme frais que les seize cents francs du loyer, les gages de la bonne, les quelques sous par jour qu'elle avait grand-peine à lui tirer, pour la nourriture et l'entretien. Il était arrivé au chiffre de huit mille francs d'appointements, il n'en dépensait pas la moitié, à coup sûr. Où passaient ses grosses économies dont il refusait de jouir ? Dans que trou caché les enfouissait-il ? Pour quelle passion secrète, pour quel rêve de tendresse folle ? Et il était très doux, très propre, la barbe très soignée, maintenant toute blanche, et il venait à son bureau avec un petit sourire, sans que rien, chez cet homme si régulier, si méthodique, révélât l'effondrement intérieur, tout ce que le désastre avait laissé de cendre et d'incendie mal éteint.]{.calibre11}
+
+[Un lien s'était peu à peu noué entre Constance et Morange. Lorsqu'elle l'avait vu revenir à l'usine, après la mort de sa fille, dévasté, elle s'était prise pour lui d'une pitié profonde, dans laquelle confusément, entrait une sourde inquiétude personnelle. Son Maurice devait vivre cinq ans encore, mais elle était hantée déjà, elle ne pouvait rencontrer Morange sans qu'un petit frisson glaçât la chair : c'était celui qui avait perdu son enfant unique.]{.calibre11}
+
+[Grand Dieu ! Une telle catastrophe était donc possible ? Puis ; quand, frappée elle-même, elle avait connu l'horrible détresse, la brusque plaie béante, inguérissable, elle s'était rapprochée de ce frère en douleur, l'accueillant, le traitant avec une bienveillance qu'elle ne montrait pour personne. Parfois, elle l'invitait à venir passer la soirée, et tous deux causaient, souvent même ne disaient rien, mettaient leur misère en commun, dans leur silence. Elle avait profité plus tard de cette intimité pour être, grâce à lui, au courant des choses de l'usine, dont son mari évitait de lui parler. Depuis surtout qu'elle soupçonnait ce dernier de gestion mauvaise, de fautes, de dettes, elle tâchait de faire du comptable un confident, un espion même, qui l'aidât à prendre le plus possible d'une direction qu'elle sentait compromise. Et c'était pourquoi elle se hâtait tant de rentrer à l'usine, ce jour-là, saisissant l'occasion d'y être seule avec Morange, certaine de le forcer aux confidences, en l'absence des patrons.]{.calibre11}
+
+[À peine prit-elle le temps d'ôter ses gants et son chapeau. Elle le trouva dans son bureau étroit, assis à sa place immuable, penché sur l'éternel registre, grand ouvert devant lui.]{.calibre11}
+
+[« Tiens ! dit-il étonné, c'est donc fini déjà, ce baptême ? »]{.calibre11}
+
+[Tout de suite, elle conta les choses en les arrangeant, pour servir de transition.]{.calibre11}
+
+[« Mais oui. C'est-à-dire que je suis revenue, moi, parce que j'avais un mal de tête fou. Les autres sont restés là-bas... Alors, comme nous voilà seuls ici, j'ai pensé que ça me ferait du bien de causer un peu avec vous, mon ami. Vous savez à quel point je vous estime... Ah ! Je ne suis pas heureuse, pas heureuse ! »]{.calibre11}
+
+[Elle était tombée sur une chaise, suffoquée par les larmes qu'elle contenait depuis si longtemps, devant le bonheur des autres. Bouleversé de la voir ainsi, sans force lui-même, il voulait appeler la femme de chambre, dans la crainte qu'elle ne se trouvât mal. Mais elle l'en empêcha.]{.calibre11}
+
+[« Je n'ai plus que vous, mon ami... Tout le monde m'abandonne tout le monde est contre moi. Je le sens bien, on me ruine, on travaille à ma perte, comme si je n'avais déjà pas tout perdu, en perdant mon enfant... Et, puisque vous me restez seul, vous qui savez ma torture, vous qui n'avez plus de fille, soyez avec moi de grâce ! dites-moi la vérité. Au moins, je pourrai me défendre. »]{.calibre11}
+
+[En l'entendant parler de sa fille, il s'était mis à pleurer avec elle. Et elle pouvait le questionner maintenant, il répondrait, dirait tout, anéanti dans cette douleur commune qu'elle venait d'évoquer. Il lui apprit donc qu'en effet un traité allait intervenir entre Blaise et Beauchêne ; mais ce n'était pas précisément une association. Beauchêne, ayant prélevé des sommes considérables sur la caisse de l'usine, pour des dépenses inavouables, tout un chantage, disait-on, la mère d'une fillette qui parlait des assises, avait dû se confier à Blaise, au lieutenant dont les mains actives menaient la maison, en le chargeant de lui trouver un prêteur, et c'était alors que le jeune homme avait lui-même prêté l'argent, sans doute un argent que Mathieu Froment, son père, avançait, heureux de le mettre ainsi dans l'usine, au nom de son fils. Aujourd'hui, pour régulariser la situation, on avait simplement résolu de diviser la propriété de la maison en six parts, afin de céder à Blaise une de ces parts, en remboursement. Celui-ci devenait donc propriétaire pour un sixième, si toutefois Beauchêne ne rachetait pas ce sixième, dans de certains délais. Le pire danger était qu'au lieu de se libérer, il ne succombât désormais à la tentation de vendre une à une les autres parts, sur la pente de gaspillages et de sottises où il roulait.]{.calibre11}
+
+[Constance avait écouté, frémissante, toute pâle.]{.calibre11}
+
+[« C'est signé, ça ?]{.calibre11}
+
+[--- Non, pas encore. Mais les pièces sont prêtes, on signera ces jours-ci. D'ailleurs, c'est une solution raisonnable, et qui s'impose. »]{.calibre11}
+
+[Mais elle n'était évidemment pas de cet avis, soulevée de révolte, cherchant de toutes les forces de son être l'obstacle, ce qu'elle pourrait inventer d'irréparable pour empêcher sa ruine, sa honte.]{.calibre11}
+
+[« Mon Dieu ! Que faire ? Comment agir ? »]{.calibre11}
+
+[Puis, dans sa rage de ne rien trouver, d'être impuissante, ce cri lui échappa :]{.calibre11}
+
+[« Ah ! Ce misérable Blaise ! »]{.calibre11}
+
+[Le bon Morange en fut tout ému. Il n'avait pas compris encore. Aussi, tranquillement, s'efforça-t-il de la calmer, en lui expliquant que Blaise était un brave coeur, que dans cette circonstance il s'était montré parfait, s'employant à étouffer le scandale, se montrant même très désintéressé. Et, comme elle s'était mise debout, satisfaite de savoir, désireuse de n'être pas trouvée là par les trois hommes, qui rentraient à pied, le comptable se leva, lui aussi, l'accompagna le long de la galerie qu'elle devait suivre pour retourner à son appartement.]{.calibre11}
+
+[« Je vous en donne ma parole d'honneur, madame, ce jeune homme n'a fait aucun vilain calcul... Toutes les pièces me passent par les mains, personne n'est mieux renseigné que moi... Et, si j'avais eu quelque doute d'une machination, j'aurais eu le courage de reconnaître vos bontés en vous prévenant. »]{.calibre11}
+
+[Elle ne l'écoutait plus, tâchait de se débarrasser de lui. À ce moment, la violente averse, longtemps menaçante, s'abattait, fouettait furieusement les vitres. Le ciel s'était obscurci d'une nuée si noire, qu'il faisait presque nuit, bien qu'il fût quatre heures à peine. Et cette idée lui vint : les trois hommes, sous un tel déluge, allaient prendre une voiture. Elle hâta le pas, toujours suivie du comptable.]{.calibre11}
+
+[« Tenez ! Un exemple, continua-t-il. Lorsqu'il s'est agi de rédiger le traité... »]{.calibre11}
+
+[Tout d'un coup, il s'interrompit, eut une exclamation rauque, en l'arrêtant, en la rejetant en arrière, d'un geste d'épouvante.]{.calibre11}
+
+[« Prenez garde ! »]{.calibre11}
+
+[Sous leurs pas, s'ouvrait un abîme. Il y avait là, au bout de la galerie, avant le corridor qui servait de communication avec l'hôtel, un monte-charge d'une grande puissance, actionné par la vapeur, destiné à descendre les grosses pièces aux ateliers d'emballage. D'ailleurs, on ne l'utilisait que certains jours. Habituellement, l'énorme trappe restait fermée ; et, quand l'appareil fonctionnait, un homme, un gardien spécial se tenait là, veillant, réglant la besogne.]{.calibre11}
+
+[« Prenez garde ! Prenez garde ! » répétait Morange, glacé, affolé.]{.calibre11}
+
+[La trappe était descendue, l'immense trou s'enfonçait, béant. Pas une barrière, rien qui pût les avertir, qui les eût empêchés de faire le terrible saut. La pluie claquait toujours sur les vitres, l'obscurité devenait si complète dans la galerie, qu'ils y marchaient de confiance, sans rien voir devant eux. Et un pas de plus, ils étaient précipités. C'était miracle que le comptable se fût inquiété de cet épaississement d'ombre, de ce gouffre qu'il avait plutôt senti qu'aperçu, le sachant là.]{.calibre11}
+
+[Cependant, Constance, ne comprenant pas encore, voulait se dégager de l'étreinte éperdue de Morange.]{.calibre11}
+
+[« Mais voyez donc ! » cria-t-il.]{.calibre11}
+
+[Et il se pencha, et il la força de se pencher au-dessus du trou. Cela s'enfonçait dans les sous-sols, à trois étages, tel qu'un puits de ténèbres. Un souffle humide de cave s'exhalait, on distinguait à peine des profils vagues de grosses ferrures. Seule, tout en bas, une lanterne brûlait, une clarté lointaine, comme pour mieux montrer la profondeur et l'horreur du gouffre. Et ils s'écartèrent pâlissant.]{.calibre11}
+
+[Maintenant, Morange se fâchait.]{.calibre11}
+
+[« C'est idiot ! Qu'est-ce qu'ils font ? Pourquoi n'obéissent-ils pas au règlement ?... D'habitude, il y a un homme là, un homme exprès, qui ne doit pas quitter son poste, tant que la trappe n'est pas remontée... Où est-il ? Qu'est-ce qu'il fiche, celui-là ? »]{.calibre11}
+
+[Il retourna près du trou, il y jeta un furieux appel.]{.calibre11}
+
+[« Bonnard ! »]{.calibre11}
+
+[Rien ne répondit, le trou restait sans fond, noir et vide. Ce silence l'enragea.]{.calibre11}
+
+[« Bonnard ! Bonnard ! »]{.calibre11}
+
+[Et toujours rien, pas un bruit, l'humide souffle des ténèbres montait seul, comme du lourd silence d'une tombe. Alors, il prit un parti violent.]{.calibre11}
+
+[« Je vais descendre, il faut que je trouve Bonnard... Nous voyez-vous, là-bas, au fond ?... Non, non ! On ne peut accepter ça. Et puis, je veux qu'il la ferme, sa trappe, ou bien qu'il reprenne son poste... Qu'est-ce qu'il fiche ? Où peut-il être ? »]{.calibre11}
+
+[Déjà, il s'était engagé dans un petit escalier tournant, qui desservait tous les étages, le long du monte-charge, lorsqu'il cria encore, d'une voix peu à peu perdue :]{.calibre11}
+
+[« Je vous en prie, madame, attendez-moi, restez là, pour avertir si quelqu'un passait. »]{.calibre11}
+
+[Constance était seule. Le roulement sourd de l'averse continuait contre les vitres, mais un peu de jour livide renaissait, sous la rafale qui emportait la nuée. Et voilà que, dans cette pâle lumière Blaise apparut, au bout de la galerie. Il rentrait, il venait de laisser un instant les deux autres, pour descendre aux ateliers, en quête d'un renseignement, dont ils avaient besoin. Préoccupé, tout à l'oeuvre qui le reprenait, il s'avançait la tête un peu basse d'un pas tranquille. Et, quand elle le vit apparaître, elle eut seulement au coeur la cuisson de la rancune, la colère avivée de ce qu'elle avait appris ce traité qu'on signerait le lendemain et qui la dépouillerait. C'était l'ennemi, chez elle, contre elle, qu'un soulèvement de tout son être aurait voulu exterminer, jeter dehors, ainsi qu'un usurpateur de ruse et de mensonge.]{.calibre11}
+
+[Il avançait. Elle se trouvait dans l'ombre épaisse, près du mur, de sorte qu'il ne pouvait la voir. Mais elle, à mesure qu'il approchait doucement, le voyait avec une netteté singulière, baigné de clarté grise. Jamais elle n'avait senti à ce point la puissance de son front, l'intelligence de ses yeux, la volonté ferme de sa bouche. Et, brusquement, le fait la frappa d'une fulgurante certitude : il marchait vers le trou sans l'apercevoir, il allait sûrement y culbuter, à moins qu'elle ne l'arrêtât au passage. Tout à l'heure, comme lui, elle était venue de là-bas, elle y serait tombée, si une main amie ne l'avait retenue ; et elle avait encore l'affreux frisson dans les veines, elle voyait toujours l'humide gouffre noir, avec la petite lanterne, au fond. L'effroyable chose s'évoqua, se précisa : le sol qui manque sous les pieds, la chute dans un grand cri, l'écrasement.]{.calibre11}
+
+[Il avançait. Certes, une telle chose était impossible, elle l'empêcherait, puisqu'un petit geste de la main devait suffire. Quand il serait là, devant elle, n'aurait-elle pas toujours le temps d'allonger le bras ? Cependant, d'un coin obscur de son être, une voix très claire, très froide, montait, disait de brèves paroles, qu'elle entendait comme si des trompettes les eussent sonnées à ses oreilles. Lui mort, c'était fini, jamais il n'aurait l'usine. Elle qui, passionnément, se désespérait de ne pouvoir imaginer un obstacle, n'avait qu'à laisser faire le hasard secourable. Et la voix disait cela, répétait cela, d'une insistance aiguë, sans rien ajouter d'autre. Après, il n'y avait rien. Après, il n'y avait qu'un homme broyé, supprimé, un trou de ténèbres éclaboussé de sang, où elle ne voyait plus, ne prévoyait plus, ne raisonnait plus. Que se passerait-il le lendemain ? Elle ne voulait rien en savoir, il n'y avait même pas de lendemain. Et ce n'était que le fait brutal, immédiat, qu'exigeait la voix impérieuse. Lui mort, c'était fini, jamais il n'aurait l'usine.]{.calibre11}
+
+[Il avançait. En elle, ce fut alors un effrayant combat. Combien dura-t-il ? Des journées, des années ? À peine quelques secondes sans doute. Elle était toujours résolue à l'arrêter au passage, certaine qu'elle allait vaincre l'atroce pensée, quand viendrait l'instant du geste décisif. Mais cette pensée pourtant l'envahissait, se matérialisait dans sa chair, comme un besoin physique, la soif, la faim. Elle avait faim de cela, elle en souffrait, prise d'une de ces fringales qui font le crime, le passant dépouillé, égorgé, au coin d'une rue. Il lui semblait que, si elle ne pouvait s'assouvir, elle allait y laisser sa propre vie. Une passion brûlante, un désir fou de l'anéantissement de cet homme la submergeait, à mesure qu'elle le voyait se rapprocher. Elle le voyait mieux, elle en était exaspérée. Son front, ses yeux, sa bouche, la torturaient d'une exécration. Un autre pas, un pas encore, puis un autre, et il serait devant elle. Encore un pas, et elle allongeait déjà la main prête à l'arrêter, lorsqu'il la toucherait.]{.calibre11}
+
+[Il avançait. Que se passa-t-il donc, grand Dieu ? Quand il fut là, si songeur, qu'il la frôla sans la sentir, elle devint de pierre. Sa main était glacée, elle ne put la soulever, trop pesante à son bras. Un grand frisson froid l'avait prise, dans le brasier de sa fièvre l'immobilisant, la stupéfiant, tandis qu'une clameur montée d'elle-même, l'assourdissait. Tout débat fut emporté, le besoin de cette mort restait dévorant, invincible, sous l'impérieuse obstination de la voix intérieure, qui l'empêchait de vouloir et d'agir. Il serait mort, il n'aurait pas l'usine. Et, rigide, rasée contre le mur, sans un souffle, elle ne l'arrêta pas. Elle entendit sa respiration légère, elle vit son profil, puis sa nuque. Il était passé. Encore un pas, encore un pas. Si pourtant elle avait jeté un appel, elle pouvait de nouveau, à cette dernière seconde changer le destin. Elle crut en avoir l'intention, mais elle serrait les dents à les casser. Et ce fut un pas encore, de cette tranquille marche confiante sur un sol ami, sans même un regard, tout à la préoccupation du travail. Et le sol manqua, et il y eut un grand cri terrible, le vent brusque de la chute, l'écrasement sourd, au fond, dans les ténèbres.]{.calibre11}
+
+[Constance ne bougeait pas. Un moment, elle resta pétrifiée écoutant toujours, attendant encore. Mais rien ne montait du gouffre qu'un profond silence. Elle entendait seulement la pluie cingler les vitres, avec une rage nouvelle. Alors, elle s'enfuit, enfila le couloir, rentra dans son salon. Là, elle se retrouva, elle s'interrogea. Avait-elle donc voulu cette abominable chose ? Non, sa volonté n'y était pour rien. Certainement, sa volonté s'était trouvée comme paralysée, empêchée d'agir. Si la chose avait pu se faire, la chose venait de se faire en dehors d'elle, car sûrement elle était absente. Le mot, la puissance du mot, la rassura. Elle s'y raccrocha, le répéta. C'était bien cela, oui, oui ! Elle était absente. Sa vie entière se déroulait sans une faute, sans une action mauvaise. Jamais elle n'avait péché, pas une méchanceté coupable jusqu'à ce jour, ne pesait même à sa conscience. Honnête femme, elle était restée digne, au milieu des débordements de son mari. Mère passionnée, elle montait son calvaire, depuis la mort de son fils. Et ce souvenir de Maurice, seul, la tira un instant de sa sécheresse, l'étrangla d'un commencement de larmes, comme si sa démence était là, l'explication du crime qu'elle cherchait en vain. Un vertige la reprenait, son fils mort, l'autre maître à sa place, toute cette passion pervertie de l'enfant unique, du petit prince dépossédé, toute cette rage empoisonnée, fermentant, la détraquant, l'affolant jusqu'au meurtre. Cette végétation monstrueuse, en elle, avait-elle donc gagné le cerveau ? Un flot de sang suffit pour obscurcir une conscience. Mais elle s'entêtait à rester absente, elle renfonça ses larmes, demeura glacée. Aucun remords ne lui vint. C'était fait, c'était bien ainsi. Il fallait que cela fût. Elle ne l'avait pas poussé, il était tombé tout seul. Si elle ne s'était pas trouvée là, il serait tombé de même. Alors, puisqu'elle n'y était pas, que son cerveau, que son coeur n'y étaient pas, ça ne la regardait pas. Et le mot renaissait toujours, l'absolvait, chantait la victoire : il était mort, il n'aurait pas l'usine.]{.calibre11}
+
+[Cependant, debout au milieu du salon, l'oreille tendue, Constance écoutait. Pourquoi donc n'entendait-elle rien ? Comme ils étaient lents à descendre le ramasser ! Anxieuse, le tumulte qu'elle attendait, l'effroi grandissant qui monterait de l'usine, les gros pas, les grosses voix, lui faisaient retenir son souffle, frémissante aux moindres bruits épars. Mais le calme était sans fin, il ne montait que du silence. Des minutes s'écoulèrent encore, elle fut heureuse de la paix tiède de son salon. C'était comme un asile d'honnêteté bourgeoise, de luxueuse dignité, où elle se sentait protégée, sauvée. Des objets intimes, un flacon de poche orné d'une opale, un couteau à papier d'argent bruni, laissé dans un livre, la rassurèrent complètement. Elle les retrouvait, elle était surprise, émue, de les voir comme s'ils avaient pris un sens nouveau. Puis, elle eut un petit frisson, elle s'aperçut que ses mains étaient glacées. Doucement, elle les frotta, elle voulut les réchauffer un peu. Pourquoi donc, maintenant, éprouvait-elle une si grande lassitude ? Il lui semblait rentrer d'une longue marche, revenir de quelque accident, des coups qu'on lui avait donnés, qui l'auraient meurtrie. D'ailleurs, c'était, en elle, une sorte de somnolence repue, quelque nourriture dont elle se serait trop rassasiée, après avoir eu trop faim. Quand son mari rentrait du vice, elle l'avait vu ainsi parfois, la chair à ce point satisfaite, qu'il dormait debout, enfin calmé, sans désir ni regret. Elle, de même, ne désirait plus rien, dans la fatigue qui l'engourdissait, étonnée seulement d'elle ne savait quoi, gardant une stupeur des choses. Pourtant, elle s'était remise à écouter, en se disant que, si cet effrayant silence continuait, elle allait s'asseoir, fermer les yeux, dormir. Et, très loin encore, il lui sembla percevoir un bruit léger, à peine un souffle. Qu'était-ce donc ? Non, rien encore. Peut-être avait-elle rêvé cet affreux cauchemar, l'homme en marche, le gouffre, le grand cri terrible. Peut-être n'y avait-il rien de tout cela, puisqu'elle n'entendait rien. D'en bas, la clameur serait montée, en une vague grandissante, tandis qu'un galop éperdu, à travers l'escalier et les couloirs, lui aurait apporté la nouvelle. Puis, de nouveau, elle perçut le petit bruit, très lointain, qui se rapprochait pourtant. Ce n'était point une foule, à peine un pas isolé, sans doute le pas d'un promeneur sur le quai. Mais non, cela sortait de l'usine, très distinct maintenant, d'abord gravissant des marches, puis filant le long d'un corridor. Et les pas se précipitèrent, et une respiration haletante se fit entendre, si tragique, qu'elle sentit enfin l'horrible chose venir. La porte s'ouvrit violemment.]{.calibre11}
+
+[Ce fut Morange qui entra. Il était seul, bouleversé, la face blême, la parole bégayante.]{.calibre11}
+
+[« Il respire encore, mais il a le crâne défoncé, c'est fini.]{.calibre11}
+
+[--- Qu'avez-vous ? demanda-t-elle. Qu'arrive-t-il ? »]{.calibre11}
+
+[Béant, il la regarda. Il était monté en courant, pour lui demander une explication, tant sa pauvre tête se perdait, devant une catastrophe qui confondait toutes ses idées. L'apparente ignorance, la tranquillité où il la retrouvait, achevaient de l'égarer.]{.calibre11}
+
+[« Mais, cria-t-il, je vous ai laissée près de la trappe.]{.calibre11}
+
+[--- Près de la trappe, oui. Vous êtes descendu et moi je suis rentrée ici directement.]{.calibre11}
+
+[--- Mais, reprit-il avec une violence désespérée, avant de descendre, je vous ai priée de m'attendre là, de garder le trou pour que personne ne tombe.]{.calibre11}
+
+[--- Ah ! çà, non ! Vous ne m'avez rien dit, ou, du moins, je n'ai rien entendu, je n'ai rien compris de pareil. »]{.calibre11}
+
+[Terrifié, il continuait à la regarder dans les yeux. Elle mentait sûrement. Elle avait beau être très calme, il entendait trembler sa voix. Puis, c'était l'évidence, elle devait être encore là, puisqu'il n'avait pas même eu le temps de descendre. Tout d'un coup, il se rappela leur conversation, les questions posées par elle, son cri de haine contre celui qu'on avait ramassé sanglant, au fond du gouffre. Le pauvre homme, sous le vent d'horreur qui le glaçait, ne trouva que cette phrase :]{.calibre11}
+
+[« Eh bien ! Madame, derrière votre dos, ce pauvre Blaise est venu et s'est brisé le crâne. »]{.calibre11}
+
+[Elle fut parfaite, leva des mains frémissantes, dit d'une voix entrecoupée :]{.calibre11}
+
+[« Mon Dieu ! Mon Dieu ! Quel effroyable malheur ! »]{.calibre11}
+
+[Mais, à ce moment, une rumeur grandissait dans la maison. La porte du salon était restée ouverte, et l'on entendait s'approcher des voix, des pas, une foule de plus en plus prochaine et grondante. Il y eut, le long de l'escalier, des ordres donnés, des efforts sourds, des poitrines qui reprenaient haleine, toute l'approche d'un fardeau embarrassant, porté avec douceur.]{.calibre11}
+
+[« On me le monte donc ! dit Constance pâlissante, en un cri involontaire qui aurait achevé de renseigner le comptable. On me l'apporte ici ! »]{.calibre11}
+
+[Ce ne fut pas Morange qui répondit, comme hébété sous le coup de hache. Brusquement, Beauchêne avait paru, précédant le corps, livide, décomposé lui aussi, tant cette soudaine visite de la mort le ravageait de peur, dans son besoin de vie heureuse.]{.calibre11}
+
+[« Ma chère, Morange t'a dit l'épouvantable catastrophe... Heureusement que Denis était là, pour les responsabilités, devant la famille... Et c'est Denis justement, comme nous allions porter le malheureux chez lui, au pavillon, qui s'y est opposé, en criant que nous tuerions sa femme, si nous lui ramenions son mari mourant, dans l'état de grossesse où elle est... Alors, n'est-ce pas ? Il n'y avait qu'à le faire monter ici. »]{.calibre11}
+
+[Il la quitta, avec des gestes éperdus, retourna sur le palier, où on entendit sa voix grelottante qui reprenait :]{.calibre11}
+
+[« Doucement, doucement... Méfiez-vous de la rampe. »]{.calibre11}
+
+[Le convoi lugubre entra dans le salon. On avait couché Blaise fracassé sur une civière garnie d'un matelas. Denis, d'une pâleur de linge, suivait, soutenant l'oreiller où posait la tête de son frère, les yeux clos, un filet de sang au front ; tandis que quatre hommes, quatre ouvriers de l'usine, étaient aux brancards. Les gros souliers écrasaient le tapis, des meubles frêles furent bousculés, pour ouvrir un passage, dans cette invasion d'horreur et d'effroi.]{.calibre11}
+
+[Beauchêne, qui continuait à commander la manoeuvre, eut une idée, au milieu de son effarement.]{.calibre11}
+
+[« Non, non, ne le laissez pas là... Il y a un lit, dans la chambre d'à côté... Nous allons le soulever doucement avec le matelas, et nous poserons le tout sur le lit. » C'était la chambre de Maurice, c'était le lit où Maurice était mort, et que Constance, par dévotion maternelle, avait gardé intact, consacrant la pièce à la mémoire de son fils, telle qu'il l'avait quittée. Mais que dire ? Comment empêcher que ce Blaise n'y mourût à son tour, tué par elle ?]{.calibre11}
+
+[L'abomination de cela, le destin vengeur qui voulait ce sacrilège, l'emplit d'une telle révolte, qu'elle en fut comme fouettée, tenue debout, au moment où elle sentait le parquet fuir, un vertige l'abattre. Et elle se montra extraordinaire de force, de volonté, d'insolent courage. Quand le blessé passa devant elle, son petit corps maigre se raidit, sembla grandir. Elle le regarda, elle n'eut, dans sa face jaune, immobile, qu'un battement des paupières, qu'un tic nerveux involontaire, au coin gauche de sa bouche, qui la lui tira en une légère grimace. Et ce fut tout, et elle fut de nouveau parfaite de geste, de voix, faisant et disant le nécessaire, sans se prodiguer, l'air saisi simplement par la soudaineté de la catastrophe.]{.calibre11}
+
+[Dans la chambre, cependant, la manoeuvre venait d'être exécutée, et les porteurs, bouleversés, se retiraient. Tout de suite, en bas, dès l'accident, on avait dit au père Moineaud de sauter dans une voiture de courir chez Boutan, pour le ramener, avec un chirurgien, s'il en pouvait trouver un, en route.]{.calibre11}
+
+[« Je l'aime mieux là que dans le sous-sol, tout de même, répétait machinalement Beauchêne, devant le lit. Il respire toujours, tenez ! Voyez en ce moment, c'est très sensible... Qui sait ? Boutan va peut-être le tirer d'affaire. »]{.calibre11}
+
+[Mais Denis ne se faisait point d'illusion. Il avait pris, dans ses mains, une des mains molles et froides de son frère, et il la sentait bien redevenir une chose, comme brisée elle-même, arrachée de la vie, dans la chute. Un instant encore, il resta là, contre ce lit de deuil, immobile, avec l'espoir fou que son étreinte donnerait au mourant un peu du sang de son coeur. Ce sang, ne leur était pas commun ? Leur fraternité jumelle ne l'avait-elle pas bu à la même source ? C'était la moitié de lui qui allait mourir. En bas, après un cri d'affreuse détresse, il n'avait plus rien dit. Et, tout d'un coup, il parla.]{.calibre11}
+
+[« Il faut aller chez Ambroise prévenir ma mère et mon père.]{.calibre11}
+
+[Puisqu'il respire encore, ils arriveront assez tôt pour l'embrasser peut-être.]{.calibre11}
+
+[--- Veux-tu que je coure les chercher ? Offrit complaisamment Beauchêne.]{.calibre11}
+
+[--- Non, non ! Merci, j'avais d'abord voulu vous demander ce service, mais j'ai réfléchi, il n'y a que moi qui puisse dire à maman l'horrible chose... Qu'on attende aussi pour Charlotte. Nous verrons tout à l'heure, quand je serai revenu... Et que la mort veuille bien patienter un peu, pour que je le retrouve, mon pauvre frère ! » Il s'était penché, il baisa Blaise immobile, les yeux clos, qui respirait toujours d'un petit souffle. Ensuite, éperdument, il lui baisa encore la main, il partit.]{.calibre11}
+
+[Constance s'occupait, appelait la femme de chambre, désireuse d'avoir de l'eau tiède, afin de laver le front ensanglanté du mourant. On ne pouvait songer à lui retirer sa jaquette, on se contenta de l'arranger le plus proprement possible, en attendant le médecin. Et, pendant ces apprêts, Beauchêne revint à l'accident, le discuta de nouveau, obsédé, hors de lui.]{.calibre11}
+
+[« Comprend-on ça ! Faut-il qu'il y ait des fatalités imbéciles !... En bas, une courroie de transmission qui se déplace, qui empêche le mécanicien de faire remonter la trappe. En haut, Bonnard qui se fâche, qui appelle, qui se décide à descendre, furieux, en voyant qu'on ne lui répond pas. Et puis, Morange qui arrive, qui se fâche aussi, qui descend à son tour, exaspéré d'appeler Bonnard sans recevoir de réponse. Et, alors, Blaise qui arrive, qui tombe... Ce pauvre Bonnard ! Il sanglote, il voulait se tuer, quand il a vu son chef-d'oeuvre. »]{.calibre11}
+
+[Tout d'un coup, il s'interrompit, pour demander à Constance :]{.calibre11}
+
+[« Dis donc, et toi, là-dedans ?... Morange m'a dit qu'il t'avait laissée en haut, près de la trappe. »]{.calibre11}
+
+[Elle était debout devant lui, en plein dans le jour de la fenêtre. Elle n'eut que son battement, que son petit tic nerveux qui tordit légèrement le coin gauche de sa bouche.]{.calibre11}
+
+[« Moi, mais j'avais pris le corridor, j'étais rentrée tout de suite ici... Morange le sait bien. »]{.calibre11}
+
+[Depuis un instant, Morange, les jambes cassées, anéanti, s'était laissé tomber sur une chaise. Incapable d'aider en rien, il se taisait, il attendait la fin des choses. Quand il entendit Constance mentir avec cette tranquillité, il la regarda. C'était elle, l'assassine, il n'en doutait plus. Et il eut, à cette seconde, le besoin de le dire, de le crier tout haut.]{.calibre11}
+
+[« Tiens ! Avait repris Beauchêne, il croyait t'avoir priée de ne pas t'éloigner, de rester là, en faction.]{.calibre11}
+
+[--- En tout cas, pas un mot ne m'en est parvenu, répondit-elle sèchement. Voyons, s'il m'avait demandé cela, est-ce que j'aurais bougé ? »]{.calibre11}
+
+[Et, se tournant vers le comptable, elle osa le regarder à son tour, de ses yeux pâles.]{.calibre11}
+
+[« Rappelez vous, Morange... Vous êtes descendu comme un fou, vous ne m'avez rien dit, et j'ai continué mon chemin. »]{.calibre11}
+
+[Sous ces yeux pâles, qui entraient dans les siens, d'une dureté d'acier, il fut pris d'une véritable peur. Toute sa faiblesse revenait, sa lâcheté de coeur tendre et docile. Pouvait-il l'accuser d'un forfait si atroce ? Il vit les suites inacceptables. Puis, lui-même ne savait plus, sa pauvre tête de maniaque se perdait. Il bégaya :]{.calibre11}
+
+[« C'est bien possible, j'aurai cru parler... Enfin, c'est ainsi, puisque ça ne peut pas être autrement. »]{.calibre11}
+
+[Il retomba dans son silence, avec un geste d'immense lassitude. C'était la complicité voulue, acceptée. Un instant, il eut le désir de se lever, pour voir si Blaise respirait toujours. Puis, il n'osa pas. Dans la pièce, une grande paix s'était faite.]{.calibre11}
+
+[Ah ! Quelle angoisse, quelle torture, dans le fiacre, lorsque Denis ramena Mathieu et Marianne ! Il ne leur avait parlé d'abord que d'un accident, une chute assez grave. Mais, à mesure que la voiture roulait, il s'était affolé lui-même, pleurant, avouant, devant leurs questions désespérées. Et, quand ils arrivèrent enfin à l'usine, ils n'eurent plus de doute, leur enfant était mort. On venait d'y arrêter le travail, ils se rappelèrent leur visite, au lendemain de la mort de Maurice. C'était dans la même immobilité, dans le même silence de tombe qu'ils rentraient. Toute la vie grondante avait cessé d'un coup, les machines refroidies et muettes, les ateliers assombris et déserts. Plus un bruit, plus une âme, plus un souffle de cette vapeur qui était comme l'haleine même de la maison. Le chef était mort, elle était morte. Puis, leur effroi s'accrut, lorsqu'ils passèrent de l'usine à l'hôtel, au milieu de cette absolue solitude, la galerie ensommeillée, l'escalier frissonnant, toutes les portes ouvertes, en haut, ainsi qu'en une demeure inhabitée, abandonnée depuis longtemps. Dans l'antichambre, ils ne rencontrèrent pas un domestique. Et c'était bien le même drame de mort soudaine qu'ils recommençaient, qu'ils revivaient, mais c'était leur fils, cette fois, qu'ils allaient trouver dans la même chambre, sur le même lit, glacé, pâle et sans vie.]{.calibre11}
+
+[Blaise venait d'expirer. Boutan était là, au chevet, tenant la main inanimée, où la dernière pulsation du sang s'éteignait. Et, quand il vit entrer Mathieu et Marianne, qui, d'instinct, avaient franchi le salon en désordre, s'étaient précipités dans cette chambre dont ils reconnaissaient l'odeur de néant, il ne put que murmurer, les yeux pleins de grosses larmes :]{.calibre11}
+
+[« Mes pauvres amis, embrassez-le, vous aurez encore un peu de son dernier souffle. »]{.calibre11}
+
+[Le petit souffle cessait à peine, et la pauvre mère, le pauvre père s'étaient rués, baisant ces lèvres d'où s'exhalait le frisson de vie, sanglotant, criant leur détresse. Leur Blaise était mort. Comme Rose, à une année de distance, il était mort brusquement, le jour d'une fête. La plaie de leur coeur, encore mal fermée, se rouvrait, en un déchirement tragique. Dans leur long bonheur, c'était le second rappel terrible à la misère humaine, c'était le second coup de hache qui s'abattait, en pleine poussée de la famille saine et heureuse. Et leur effroi grandissait : n'avaient-ils pas fini de payer au malheur leur dette amassée ? était-ce donc la destruction lente qui arrivait maintenant, coup à coup ? Déjà, depuis le départ de leur Rose au milieu des fleurs, ils avaient eu cette crainte de voir la prospérité, la fécondité s'interrompre et se perdre, à présent que la brèche était ouverte. Et, par cette brèche saignante, voilà que leur Blaise aujourd'hui s'en allait affreusement, comme broyé, sous une colère jalouse du destin. Et, demain peut-être, quel autre de leurs enfants serait arraché de leur chair commune, pour payer à son tour la rançon de leur joie et de leur beauté ?]{.calibre11}
+
+[Longtemps, Mathieu et Marianne sanglotèrent, tombés à genoux devant le lit. Constance se tenait à quelques pas, muette, d'un air de désolation frissonnante. Depuis un instant, Beauchêne comme pour combattre cette peur de la mort qui le faisait grelotter, s'était assis à l'ancien petit bureau de Maurice, laissé dans le salon, en pieux souvenir, et s'efforçait de rédiger un avis aux ouvriers, les avertissant que l'usine resterait fermée jusqu'au lendemain des obsèques. Vainement, il cherchait les mots, lorsqu'il aperçut Denis qui sortait de la chambre, ayant pleuré toutes ses larmes et mis tout son coeur dans un dernier baiser à son frère. Il l'appela, sembla vouloir le distraire, en se faisant aider.]{.calibre11}
+
+[« Tiens ! Mets-toi là, continue. »]{.calibre11}
+
+[Et Constance, qui entrait, elle aussi, entendit le mot. C'était le mot que son mari avait prononcé, en faisant asseoir Blaise à ce même bureau de Maurice, autrefois, le jour où il lui avait donné la place du pauvre enfant, dont le corps était encore sur le lit dans la pièce voisine. Et elle eut un recul, une épouvante, à voir Denis écrivant, assis à ce bureau. N'était-ce point Blaise ressuscité ? Ainsi qu'elle avait confondu les deux jumeaux, ce même après-midi, au sortir du gai déjeuner de baptême, elle revoyait là Blaise dans Denis, si pareils l'un à l'autre, que les parents ne les avaient longtemps distingués qu'à la couleur différente de leurs yeux. C'était Blaise qui revenait, qui reprenait sa place, qui aurait l'usine, bien qu'elle l'eût tué. Elle s'était trompée, il avait beau être mort, il aurait l'usine. Elle en avait tué un, de ces Froment, mais il en renaissait un autre. Quand un mourait, un autre bouchait la brèche. Et son crime lui apparut alors d'une telle inutilité, d'une telle stupidité, qu'elle en restait abêtie, le poil de sa nuque hérissé, suant la peur, reculant comme devant un spectre.]{.calibre11}
+
+[« C'est un avis pour les ouvriers, répétait Beauchêne. Nous le collerons à la porte. »]{.calibre11}
+
+[Elle voulut être brave, s'approcha, dit à son mari :]{.calibre11}
+
+[« Fais donc cela toi-même. Pourquoi, en un tel moment donnes-tu cette peine à Blaise ? »]{.calibre11}
+
+[Elle avait dit Blaise, son horreur froide la reprit. Inconsciemment, elle s'était entendue, là-bas, dans l'antichambre. « Blaise ou ai-je donc mis mon boa ? » Et c'était Denis qui le lui avait apporté. À quoi bon avoir tué Blaise, puisque Denis était là ? Quand la mort fauche un de ces soldats de la vie, il y en a toujours un autre, pour prendre la place de combat restée vide.]{.calibre11}
+
+[Mais une dernière défaite l'attendait. Marianne et Mathieu reparurent, tandis que Morange, saisi d'un besoin d'agitation, allait et venait, piétinait de son air hébété, dans le désarroi des douleurs atroces, des choses sans nom qui achevaient de détraquer son crâne étroit de pauvre homme.]{.calibre11}
+
+[« Je vais descendre, bégaya Marianne, tâchant d'essuyer ses larmes, s'efforçant de se tenir debout. Je veux voir Charlotte, la préparer, lui dire le malheur... Moi seule saurai trouver les mots, pour qu'elle n'en meure pas, avec le pauvre petit qu'elle porte. »]{.calibre11}
+
+[Plein d'inquiétude, dans son bouleversement, Mathieu la retenait, désireux de lui éviter cette épreuve nouvelle.]{.calibre11}
+
+[« Non, je t'en prie. Denis descendra, ou bien j'irai moi-même. »]{.calibre11}
+
+[Avec une obstination douce, elle marchait toujours vers l'escalier.]{.calibre11}
+
+[« Il n'y a que moi pour lui dire des choses, je t'assure. J'aurai la force. »]{.calibre11}
+
+[Et, tout d'un coup, elle défaillit, elle eut une syncope. Il fallut la coucher sur un canapé du salon. Puis, comme elle revenait à elle, toute blanche, la face convulsée, elle fut prise de vomissements terribles, une crise dont la violence lui arrachait les entrailles...]{.calibre11}
+
+[Alors, en voyant Constance qui s'empressait d'un air d'inquiète sollicitude, sonnant sa femme de chambre, se faisant apporter sa petite pharmacie, Mathieu avoua la vérité, que le ménage n'avait point dite encore.]{.calibre11}
+
+[« Elle est enceinte, oui ! De quatre mois, de la même époque que Charlotte. À son âge, à quarante-trois ans, elle en est un peu confuse, nous n'en parlions pas... Ah ! La chère femme, si vaillante, elle qui voulait éviter un coup trop violent à sa belle-fille, pourvu qu'elle n'y succombe pas elle-même ! »]{.calibre11}
+
+[Enceinte, grand Dieu ! Constance avait reçu la nouvelle, comme le coup de massue qui achève la déroute. Alors, si elle laissait Denis se tuer maintenant, un autre Froment poussait encore, qui le remplacerait ? Et toujours un autre, et toujours un autre, à l'infini ! C'était un pullulement de force, de vie intarissable, contre lequel toute lutte devenait impossible. Dans sa stupeur que la brèche, aussitôt ouverte, fût réparée ainsi, elle sentit la misérable impuissance, le néant de sa stérilité. Et elle fut vaincue, prise d'une terreur sacrée, comme balayée elle-même, emportée par le débordement victorieux de cette fécondité sans fin.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES QUATRE ÉVANGILES : FÉCONDITÉ]{.calibre51}
+
+[Livre cinquième]{.calibre55}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778811 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778473 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778135 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777797 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777459 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776783 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776445 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776107 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775769 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775431 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775093 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368774755 .pcalibre .calibre3 .pcalibre1} {#v .calibre47 .sigil_not_in_toc}
+
+[Il y eut fête à Chantebled, quatorze mois plus tard. Denis, qui avait pris à l'usine la succession de Blaise, épousait Marthe Desvignes. Et, dans le deuil si douloureux de la maison, c'était le premier sourire, comme le clair, le tiède soleil de printemps, après le rude hiver. Mathieu et Marianne, jusque-là endoloris, vêtus de noir, s'égayaient d'une émotion tendre, devant cet éternel recommencement de la vie. La mère avait bien voulu mettre une robe moins sombre, le père s'était résigné à ne pas retarder davantage un mariage résolu depuis des mois, que toutes les circonstances nécessitaient. Il y avait plus de deux ans déjà que Rose dormait dans le petit cimetière de Janville, plus d'un an que Blaise était venu l'y rejoindre, sous des fleurs toujours fraîches. Et le souvenir des chers morts, visités de tous, restés vivants au fond de tous les coeurs, allait être de la fête, à la place familiale qui leur était réservée, comme s'ils eussent décidé eux-mêmes, avec les parents, que l'heure des noces était sonnée, pour que leur regret n'entravât pas plus longtemps la joie de s'accroître et de créer encore.]{.calibre11}
+
+[Cette installation de Denis à l'usine s'était faite naturellement. S'il n'y était pas entré, dès sa sortie de l'école spéciale où il avait passé trois ans, c'était que la situation se trouvait alors prise par son frère. Toutes ses études techniques l'y destinaient, il y fut du matin au soir à sa vraie place, il n'eut qu'à occuper l'ancien pavillon, d'où Charlotte s'était enfuie, avec sa petite Berthe dans l'épouvante de la catastrophe, pour se réfugier à Chantebled. En outre, cette entrée de Denis arrangeait la grosse affaire de l'argent prêté à Beauchêne, que devait rembourser une part, un sixième de la propriété de l'usine. L'argent venant de la famille, le frère simplement se substituait au frère, signait le traité que l'autre aurait signé ; et il voulut cependant, par une honnêteté délicate, qu'on prélevât sur les bénéfices une pension pour Charlotte, la veuve. Ces choses s'étaient réglées en huit jours sans discussion possible, sous la logique des faits. Étourdie, écrasée, Constance n'avait même pu entrer en lutte, réduite au silence par son mari, qui lui répétait : « Que veux-tu que je fasse ? Il me faut un aide, autant Denis qu'un étranger ; et puis, je lui rachèterai cette part avant un an, je le flanquerai dehors, s'il m'embête ! » Et elle se taisait, pour ne pas lui jeter son ignominie au visage, dans son désespoir de sentir les murs de la maison morceau à morceau, crouler sur elle.]{.calibre11}
+
+[Ce fut alors que Denis pensa l'heure venue de réaliser le projet de mariage qu'il avait arrêté si longtemps à l'avance avec Marthe Desvignes. Cette soeur cadette de Charlotte, cette inséparable amie de Rose, l'attendait depuis trois ans bientôt, de son clair sourire, de son air de tendre sagesse. Ils s'étaient connus enfants, ils avaient échangé des serments, par tous les sentiers perdus de Janville ; mais ils s'étaient dit qu'ils ne hâteraient rien, que le bonheur de toute l'existence valait bien qu'on patientât d'avoir l'âge et la force de fonder sérieusement une famille. On s'étonna fort qu'un garçon d'un si grand avenir, dans une position déjà superbe, à vingt-six ans, s'obstinât de la sorte à épouser une fille qui ne lui apportait pas un sou. Mathieu et Marianne souriaient, consentaient, sachant les bonnes raisons de leur fils. Il ne voulait pas d'une fille riche qui lui aurait coûté plus cher que sa dot, il était ravi d'avoir découvert une femme jolie, très saine, très raisonnable, adroite et sensée, qui serait la compagne, l'aide et la consolation de chaque heure. Avec elle, il ne redoutait pas de surprise, il l'avait étudiée : elle était à la fois le charme, la sagesse, la bonté, tout l'unique bonheur solide d'un ménage. Et lui aussi était très bon, très sage, trop sage, disait-on, et elle le savait, se mettait en route à son bras, heureuse, certaine qu'ils iraient ensemble du même pas tranquille, jusqu'au bout de la vie, sous ce limpide et divin soleil de la raison dans l'amour. La veille du mariage, on fit de gros préparatifs à Chantebled. Pourtant, la fête devait rester intime, à cause du deuil récent. En dehors de la famille, on n'avait invité que les Séguin et les Beauchêne ; encore ces derniers étaient-ils des cousins.]{.calibre11}
+
+[On ne serait guère plus d'une vingtaine, et il n'y aurait qu'un déjeuner. Mais on avait le désir d'être tendres, d'être beaux, et chacun s'ingéniait à trouver quelque tendresse, quelque beauté nouvelle, comme pour resserrer davantage le lien étroit des coeurs. Aussi s'occupait-on de la table, de l'endroit où elle serait dressée, de la façon dont on l'ornerait. Ces premiers jours de juillet étaient si ensoleillés, si chauds, qu'on décida tout de suite de dresser la table dehors, sous les arbres. Il y avait là un emplacement délicieux, devant l'ancien rendez-vous de chasse, le pavillon primitif, habité par les parents autrefois, dès leur arrivée à Janville. C'était comme le nid même de la famille, le foyer d'où elle avait ensuite rayonné sur tout le pays voisin. Ce pavillon, qui finissait par tomber en ruine, Mathieu venait de le faire réparer et élargir, dans la pensée de s'y retirer avec Marianne, en ne gardant près d'eux que Charlotte et ses enfants, lorsqu'il abandonnera prochainement la ferme à son fils Gervais, heureux de vivre de bonne heure en patriarche, en roi descendu du trône, encore obéi pour la sagesse de ses conseils. Et, remplaçant l'ancien jardin inculte, toute une pelouse s'étendait là, un grand carré d'herbe fraîche, que d'admirables arbres, des ormes et des charmes, entouraient, tels qu'un peuple de grands et bienveillants amis. Ces arbres, il les avait plantés, il les avait vus grandir, ils étaient un peu de sa chair. Mais son véritable enfant bien-aimé, le préféré de son coeur, était, au milieu de la pelouse, un chêne déjà fort, âgé de vingt ans bientôt, dont il avait mis la tige frêle en terre, aidé de Marianne, qui tenait le plant, tandis que lui manoeuvrait la bêche, le jour où ils avaient fondé leur domaine de Chantebled. Leur oeuvre même avait poussé, s'était étendue avec les branches, comme si le sang de leur effort remontait en un flot croissant de sève, à chaque printemps nouveau. Et il y avait encore, près de ce chêne, qui était ainsi de leur robuste famille, un bassin d'eau vivante, alimenté par les sources du plateau qu'ils avaient captées, et dont le petit bruit cristallin entretenait là une perpétuelle allégresse.]{.calibre11}
+
+[La veille du mariage, ce fut donc là qu'il y eut conseil. Mathieu et Marianne étaient venus les premiers, pour voir les préparatifs à faire, et ils y trouvèrent Charlotte, un album sur les genoux, qui achevait un rapide croquis du grand chêne.]{.calibre11}
+
+[« Quoi donc, une surprise ? »]{.calibre11}
+
+[Elle souriait, gênée, un peu confuse.]{.calibre11}
+
+[« Oui, oui, une surprise, vous verrez. »]{.calibre11}
+
+[Puis, elle leur avoua que, depuis quinze jours, elle décorait, à l'aquarelle, des menus pour le déjeuner des noces. Et son idée gentille et tendre était de n'avoir mis que des jeux d'enfants, des têtes d'enfants, toute la poussée des enfants de la famille dont elle avait pu prendre les ressemblances sur d'anciennes photographies. Son croquis du grand chêne allait servir de fond aux deux derniers venus, le petit Benjamin et le petit Guillaume.]{.calibre11}
+
+[Mathieu et Marianne s'émerveillèrent, ravis, attendris par ce défilé, cette galopade de museaux roses, qu'ils reconnaissaient parfaitement au passage. C'étaient les deux jumeaux dans leur berceau encore, aux bras l'un de l'autre ; c'était Rose elle-même, la chère disparue, en petite chemise, c'était Ambroise, c'était Gervais, nus au grand air, luttant sur l'herbe ; c'était Grégoire, c'était Nicolas, en école buissonnière, dénichant des pies, c'était Claire, c'étaient les trois autres filles, Louise, Madeleine, Marguerite, lâchées par la ferme, se querellant avec les poules, sautant à califourchon sur les chevaux. Mais ce qui toucha surtout Marianne, ce fut son dernier, Benjamin, qui avait tout juste neuf mois, et que Charlotte avait mis, sous le chêne, dans une même petite voiture, avec son fils à elle, son Guillaume, exactement du même âge, né huit jours plus tard.]{.calibre11}
+
+[« L'oncle et le neveu, dit Mathieu en plaisantant. N'importe ! L'oncle est tout de même l'ancêtre, il a une semaine de plus. »]{.calibre11}
+
+[Des larmes douces étaient montées aux yeux de Marianne, dans son sourire. L'aquarelle tremblait un peu entre ses mains heureuses.]{.calibre11}
+
+[« Les chers trésors ! Mon cher fils, mon cher petit-fils ! Et me voilà une fois de plus mère et grand-mère, avec ces chers petits êtres !... Ah ! Ces deux-là sont la consolation suprême, ils ont pansé la blessure, nous leur devons d'avoir repris espoir et courage ! »]{.calibre11}
+
+[Et c'était vrai. Quel deuil, quelle tristesse, les premiers temps, lorsque Charlotte, quittant l'usine, s'était réfugiée à la ferme ! Enceinte de quatre mois, comme Marianne, elle avait failli mourir du tragique accident qui venait d'emporter Blaise. Son premier adoucissement fut de voir que sa fillette, Berthe, un peu chétive à Paris, retrouvait de bonnes joues roses, au grand air de Chantebled. D'ailleurs, elle avait fixé sa vie, elle vieillirait là, en la paix de cette maison hospitalière, se donnant toute à ses deux enfants, bien heureuse de cette grand-mère, de ce grand-père si tendres, qui l'aideraient, la soutiendraient. Toujours elle s'était montrée un peu en dehors de l'existence, d'un charme de rêveuse n'ayant que le besoin d'aimer, d'être aimée. Elle se reprit doucement à vivre, quand elle fut installée avec ses beaux-parents, dans l'ancien pavillon que Mathieu aménageait pour eux trois.]{.calibre11}
+
+
+[« Prenez garde, cachez vos aquarelles, dit Mathieu. Voici Gervais et Claire qui viennent pour la table. »]{.calibre11}
+
+[À dix-neuf ans, Gervais était un colosse, le plus grand, le plus fort de la famille, avec des cheveux noirs, courts et frisés, de vastes yeux clairs, une face pleine, taillée à larges pans. Mathieu l'appelait par plaisanterie « le fils de Cybèle », ce qui faisait sourire Marianne, au souvenir de la nuit où elle l'avait conçu, dans un frisson des germes, lorsque tout Chantebled sommeillait encore, à la veille d'être enfanté. Il était resté le préféré du père, le fils de la terre fertile, celui qu'il élevait dans l'amour du domaine, dans la passion de la culture intelligente, conquérante, afin qu'il pût continuer l'oeuvre, un jour. Déjà, il se déchargeait sur lui d'une partie des travaux, il n'attendait que de l'avoir marié, pour lui laisser la direction de la ferme entière. Et, volontiers, il rêvait de lui adjoindre Claire, lorsqu'elle-même aurait épousé quelque brave et solide garçon, qui prendrait sa part de la besogne. Deux hommes qui s'entendraient bien, ce n'était pas de trop, dans une exploitation dont l'importance grandissait chaque jour. Depuis que sa mère allaitait de nouveau, Claire la suppléait, gaillarde elle aussi à dix-sept ans, sans beauté, mais d'une santé vigoureuse. Elle s'occupait surtout de la cuisine et du ménage, tenait également les comptes, fille de tête, d'une stricte économie, dont la plaisantaient les prodigues de la famille.]{.calibre11}
+
+[« Alors, c'est là qu'on mettra la table, dit Gervais. Il faut que je fasse faucher la pelouse. »]{.calibre11}
+
+[De son côté, Claire s'inquiétait du nombre des convives, du couvert qu'il lui faudrait dresser. Et, comme Gervais avait appelé Frédéric pour qu'il donnât un coup de faux, tous trois discutèrent les dispositions à prendre. Après la mort de Rose, Frédéric, son fiancé, n'ayant pu quitter la ferme, avait continué son travail près de Gervais, dont il était devenu le camarade, l'aide le plus actif, le plus intelligent. Depuis quelques mois, Mathieu et Marianne s'étaient aperçus que le garçon tournait autour de Claire, comme si, à défaut de l'aînée, il voulait bien de la cadette moins belle, mais solide et bonne ménagère. D'abord, ils en avaient éprouvé une tristesse : pouvait-on oublier leur chère enfant ?]{.calibre11}
+
+[Ensuite, un attendrissement leur était venu, la pensée que le lien de la famille serait resserré encore, que le coeur de ce garçon n'irait point aimer autre part, leur resterait acquis, en leur devenant deux fois cher. Et ils fermaient les yeux, ils souriaient trouvant en Frédéric le beau-frère associé dont Gervais avait besoin, attendant que Claire fût d'âge à être mariée.]{.calibre11}
+
+[Mais, comme la question de la table était réglée, il y eut sous le chêne, à travers l'herbe haute, une brusque invasion, des jupes volantes, des chevelures dénouées dans le soleil.]{.calibre11}
+
+[« Oh ! Criait Louise, il n'y a pas de roses ! »]{.calibre11}
+
+[--- Non ! Répétait Madeleine, pas une rose blanche !]{.calibre11}
+
+[--- Et, confirmait Marguerite, nous avons visité tous les rosiers. Pas une blanche, rien que des rouges ! »]{.calibre11}
+
+[Treize ans, onze ans et neuf ans. Louise, forte et gaie, semblait déjà une petite femme. Madeleine, fluette, jolie, passait des heures à son piano, les yeux noyés de rêve.]{.calibre11}
+
+
+[« Moi, je sais où il y en a, des roses blanches, et des belles !]{.calibre11}
+
+[--- Où donc ? demanda Mathieu.]{.calibre11}
+
+[--- Mais au Moulin après la roue, dans le petit clos. Trois gros rosiers qui en sont tout blancs. Des roses comme des choux. »]{.calibre11}
+
+[Puis, il rougit, se troubla, lorsque son père le regarda d'un air de sévérité, en lui disant :]{.calibre11}
+
+[« Comment ! Tu rôdes encore autour du Moulin. Je te l'avais absolument défendu... Et, pour savoir qu'il y a des roses blanches dans le clos, tu es entré ?]{.calibre11}
+
+[--- Non, j'ai regardé par-dessus le mur.]{.calibre11}
+
+[--- Tu es monté sur le mur, c'est complet. Tu veux donc me faire avoir des ennuis avec ces Lepailleur, qui sont décidément de sottes et méchantes gens ?... En vérité, mon garçon, tu as le diable dans le corps. »]{.calibre11}
+
+[Ce que Grégoire ne disait pas, c'était qu'il allait retrouver dans le clos Thérèse, la petite meunière, la blondine rose, au museau si drôlement enfariné, dont les treize ans étaient eux aussi terriblement aventureux. Leurs jeux, d'ailleurs, restaient encore des jeux de gamins, en toute innocence. Mais il y avait, au fond du clos, sous des pommiers, un endroit délicieux, où l'on s'amusait bien, à causer et à rire.]{.calibre11}
+
+[« Entends-tu ! Répéta Mathieu, je ne veux pas que tu retournes jouer avec Thérèse. Elle est très gentille, la chère enfant. Seulement, c'est une maison où tu ne dois pas aller... Il paraît qu'on s'y bat, maintenant. »]{.calibre11}
+
+[C'était vrai. Lorsque Antonin s'était cru guéri du vilain mal dont causaient les commères de Janville, le regret de Paris l'avait tourmenté, il avait tout fait pour retourner y reprendre sa belle existence de paresse et de fête. D'abord, Lepailleur, désabusé, irrité d'être dupe, s'y était opposé violemment. Mais que faire, aux champs, de ce gaillard qu'il avait élevé lui-même dans la haine de la terre, dans le mépris du vieux moulin, à moitié pourri ?]{.calibre11}
+
+[Puis, il avait désormais contre lui la mère, en admiration béate devant la science de son garçon, d'une foi têtue, certaine que cette fois il finirait par avoir une bonne place. Et le père avait dû céder, Antonin s'achevait à Paris, petit employé chez un commerçant de la rue du Mail. Seulement, la querelle s'aggravait dans le ménage, surtout lorsque Lepailleur soupçonnait sa femme de le voler pour envoyer de l'argent à son grand fainéant de fils.]{.calibre11}
+
+[Du pont de l'Yeuse, certains jours, on entendait voler les jurons et les gifles. Et là, encore, c'était la famille détruite de la force et du bonheur gâchés.]{.calibre11}
+
+[Mathieu continuait, soulevé d'une véritable colère.]{.calibre11}
+
+[« Des gens qui avaient tout pour être heureux ! On n'est pas bête à ce point, on ne veut pas sa propre misère avec une telle obstination... Leur idée d'un fils unique, par gloriole d'en faire un monsieur, ah ! La réussite est belle, ils en sont contents aujourd'hui !... C'est comme sa haine de la terre, sa culture de routine, son entêtement à laisser stériles les landes qu'il refuse de me céder, sans doute pour protester contre le succès de nos défrichements, s'imagine-t-on quelque chose de plus bassement stupide !... Et c'est comme son moulin encore, qu'il regarde, par sottise et paresse, tomber en ruine. Autrefois, il avait au moins une raison il disait que, le pays ayant presque renoncé au blé, les paysans ne lui apportaient plus de quoi faire tourner ses meules. Mais aujourd'hui que, grâce à nous, le blé déborde, est-ce qu'il n'aurait pas dû jeter par terre la vieille roue, pour la remplacer par une bonne machine à vapeur ?... Ah ! Si j'étais à sa place, il y aurait déjà là un moulin tout neuf, reconstruit, élargi, utilisant les eaux de l'Yeuse, se reliant à la gare de Janville par une voie qui ne coûterait pas cher à établir ! »]{.calibre11}
+
+[Grégoire écoutait, heureux que l'orage se fût détourné. Et Marianne, voyant ses trois filles désolées de n'avoir point de roses blanches, les consola.]{.calibre11}
+
+[« Pour la table, vous cueillerez demain matin les moins rouges, les roses pâles, et ça sera tout de même très bien. »]{.calibre11}
+
+[Alors, Mathieu se calma, fit rire les enfants en concluant gaiement :]{.calibre11}
+
+[« Cueillez donc aussi les roses rouges, mettez les plus rouges. C'est le sang de la vie. »]{.calibre11}
+
+[Cependant, Marianne et Charlotte s'attardaient à causer de tous ces apprêts, lorsque des petits pieds encore accoururent dans l'herbe. Nicolas, fier de ses sept ans, amenait par la main sa nièce Berthe, une grande fille de six ans. Ils s'entendaient très bien ensemble. Ce jour-là, ils étaient restés près du berceau de Benjamin et de Guillaume, dans la maison, jouant au ménage, disant que les deux enfants étaient leurs bébés. Mais voilà que, se réveillant les deux enfants avaient crié la faim. Alors, ayant pris peur Nicolas et Berthe s'étaient mis à galoper, pour venir chercher les deux mères.]{.calibre11}
+
+[« Maman ! Appela Nicolas, c'est Benjamin qui te demande. Il a soif.]{.calibre11}
+
+[--- Maman, maman ! Répéta Berthe, c'est Guillaume qui a soif. Viens vite, ça presse. »]{.calibre11}
+
+[Marianne et Charlotte s'égayèrent. C'était vrai, pourtant, que ce mariage du lendemain leur avait fait oublier les chers mignons.]{.calibre11}
+
+[Et elles se hâtèrent de rentrer, car l'heure de la tétée était venue.]{.calibre11}
+
+[Ah ! Le lendemain, ces noces heureuses, dans quelle intimité tendre elles se firent ! On ne fut que vingt et un à table, sous le grand chêne, au milieu de la pelouse, entourée des charmes et des ormes amis, telle qu'une discrète salle de verdure. Toute la famille se trouvait là, d'abord tous ceux de la ferme, puis Denis, le marié, qu'on voyait rarement, cloué à l'usine, puis Ambroise et sa femme Andrée, qui avaient amené leur petit Léonce, de visite rare, eux aussi, dans les nécessités de vie active où Paris les tenait. Et c'était une joie, ce retour au nid familial des oiseaux envolés déjà, ce bonheur de pouvoir se réunir au grand complet, malgré la dispersion continuelle de l'existence. En dehors, il n'y avait que les parents invités, Beauchêne et Constance, Séguin et Valentine, sans compter naturellement Mme Desvignes, la mère de Marthe, la mariée. On était vingt et un à la table, mais il y en avait trois autres, les tout-petits, la petite table : Léonce qu'on venait de sevrer, à quinze mois, Benjamin et Guillaume encore au sein ; et, pour qu'ils fussent de la fête, on avait approché leurs voitures, ils tenaient tout de même leur place. Ça faisait donc vingt-quatre, un compte rond, les deux douzaines. La table, fleurie de roses, embaumait, à l'ombre fraîche, sous la pluie du soleil d'été qui la criblait d'or, au travers des feuillages. Un triomphal ciel de juillet tendait, d'un bout de l'horizon à l'autre, une prodigieuse tente d'azur. Et la robe blanche de Marthe, les robes claires des petites et des grandes filles, ces toilettes gaies, ces belles santés de jeunesse, semblaient être la floraison même de ce coin verdoyant de bonheur. On mangea joyeusement, on finit par trinquer à la campagnarde, en souhaitant toutes les prospérités au jeune ménage, ainsi qu'aux personnes présentes.]{.calibre11}
+
+[Alors, pendant que les servantes enlevaient le couvert, Séguin, qui affectait de s'intéresser à l'élevage, voulut que Mathieu lui montrât ses étables. Il n'avait fait que causer chevaux pendant le déjeuner, il désirait voir surtout des paires de forts chevaux de labour, dont son hôte lui vantait la qualité d'extraordinaire vigueur. Et il détermina Beauchêne à être de la visite. Puis, comme les trois hommes partaient, Constance et Valentine, désoeuvrées, curieuses de cette ferme dont le pullulement si prompt restait pour elles une stupeur, eurent l'idée de les suivre, laissant sous les arbres le reste de la famille s'installer, dans la paix rieuse du bel après-midi de fête.]{.calibre11}
+
+[Les étables et les écuries se trouvaient sur la droite. Mais, pour s'y rendre, il fallait traverser la vaste cour, d'où l'on découvrait le domaine entier. Et il y eut là une halte, un brusque arrêt d'admiration, tant la grandeur de l'oeuvre accomplie éclatait sous le soleil. Ils avaient connu cette terre embroussaillée, desséchée, stérile, ils la revoyaient roulant une mer de blé, couverte de moissons dont le flot montait davantage, à chaque saison nouvelle. Là-haut, sur l'ancien plateau marécageux, c'était une telle fertilité dans les terreaux amassés par les siècles, qu'on ne fumait pas encore. Ensuite, à droite, à gauche, les pentes autrefois sablonneuses s'étendaient verdoyantes, engraissées aujourd'hui par les sources qui les trempaient d'une fécondité sans cesse accrue.]{.calibre11}
+
+[Et les bois eux-mêmes, au loin, aménagés, aérés de larges clairières, semblaient déborder de plus de sève, comme si toute la vie décuplée, autour d'eux, les eût gonflés d'un redoublement de force et de puissance. C'était cette force, c'était cette puissance qui montaient du domaine entier, l'oeuvre de vie enfantée, créée, le travail de l'homme engrossant la terre stérile, l'accouchant des richesses nourricières, pour une humanité élargie, conquérante du monde.]{.calibre11}
+
+[Il y eut un long silence. Séguin dit simplement de sa petite voix sèche, avec un ricanement que sa ruine personnelle aiguisait d'amertume :]{.calibre11}
+
+[« Vous avez fait une bonne affaire. Jamais je n'aurais cru ça. »]{.calibre11}
+
+[Puis, on se remit en marche. Mais, dans les étables, dans la vacherie, dans la bergerie, cette sensation de force et de puissance s'accrut encore. La création continuait, une création vivante, les vaches, les moutons, les poules, les lapins, tout ce qui grouillait là, tout ce qui pullulait en une éclosion continue. Chaque année l'arche s'emplissait, se faisait trop petite, nécessitait d'autres parcs, d'autres bâtiments. La vie augmentait la vie, on marchait au milieu d'un peuple en perpétuelles couches, partout des couvées, des nichées qui lâchaient de nouveaux vols, de nouveaux troupeaux tandis que, derrière, les germes se multipliaient, l'enfantement recommençait, d'un flot débordé, montant toujours. Là encore, c'était la richesse conquérante de l'inépuisable fécondité.]{.calibre11}
+
+[Dans les écuries, Séguin admira beaucoup les paires de forts chevaux, avec des mots de connaisseur. Ensuite, il revint sur l'élevage, il cita un de ses amis qui obtenait, par certains croisements, des résultats extraordinaires. Et, revenant à ses idées anciennes, il ajouta, en manière d'explication :]{.calibre11}
+
+[« Oh ! Pour les bêtes, j'accepte le Croissez et multipliez, lorsque c'est nous, les éleveurs, qui, par besoin ou par curiosité tenons la chandelle. »]{.calibre11}
+
+[Il ricana, trouva son mot très drôle. Puis, comme Valentine et Constance, muettes, un peu répugnées de toute cette fermentation odorante de vie, revenaient lentement sur leurs pas, il déblatéra contre le siècle, recommença ses vieilles théories, sans autre transition. Peut-être une sourde rancune jalouse le poussait-elle à protester contre la victoire de la vie, que clamait la ferme entière. La dépopulation, ah ! Certes, elle ne marchait pas assez vite ! Ce Paris qui voulait mourir, il y mettait vraiment le temps ! Tout de même, il notait certains bons symptômes, car la banqueroute s'aggravait partout, dans la science, dans la politique, dans les lettres et les arts eux-mêmes. La liberté était déjà morte. La démocratie en exaspérant les instincts d'ambition, en déchaînant la lutte des classes pour le pouvoir, aboutissait au rapide effondrement social. Il n'y avait plus que la populace, les humbles, les pauvres, qui faisaient encore des enfants, par stupidité, sur leur fumier d'ignorance et de misère. Quant à l'élite, aux intelligents, aux riches, ils enfantaient de moins en moins, ce qui permettait d'espérer, avant l'heureux anéantissement final, une dernière période de civilisation acceptable, lorsqu'on serait entre soi, très peu, quelques hommes et quelques femmes, parvenus au raffinement suprême, ne vivant plus que d'odeurs, ne jouissant plus que de souffles. Mais il se disait dégoûté, certain maintenant de ne pas voir cette époque trop lente à venir.]{.calibre11}
+
+[« Encore, si le christianisme, revenant à la foi première condamnait la femme, comme impure, diabolique et néfaste, on irait revivre la vie sainte au désert, on en finirait plus vite. Ce qui m'enrage, c'est ce catholicisme politique, qui, pour vivre lui-même, règle et tolère l'ignominie du mariage, en couvrant ainsi l'ordure et le crime d'enfanter... Dieu merci ! Si j'ai péché moi-même, si j'ai mis au monde des malheureux de plus, j'ai la douceur de croire qu'ils rachèteront ma faute, en restant eux-mêmes inféconds. Gaston dit qu'il ne se mariera pas, qu'un officier ne doit avoir d'autre femme que son épée ; et, quant à Lucie, depuis le jour où elle a prononcé ses voeux, aux ursulines, je suis bien tranquille... Ma race est morte, c'est ma joie. »]{.calibre11}
+
+[Mathieu écoutait en souriant. Il connaissait ce pessimisme littéraire. Autrefois, de tels arguments, la civilisation en lutte avec la natalité, l'infécondité relative des plus intelligents, des plus forts, l'avaient troublé. Mais, dès le moment où il avait lutté pour l'amour, la simple joie d'agir lui était devenue une foi, une certitude de bien faire. Aussi se contenta-t-il de dire, un peu méchamment :]{.calibre11}
+
+[« Eh bien ! Et votre Andrée, avec son petit Léonce ?]{.calibre11}
+
+[--- Oh ! Andrée ! » répondit Séguin, en faisant un geste, qui la rejetait, comme n'étant pas sienne.]{.calibre11}
+
+[Valentine s'était arrêtée, levant les yeux, le regardant fixement. Depuis qu'ils menaient leur vie chacun de son côté, sans rien de commun, elle ne tolérait plus sa brutalité folle, ses anciennes crises de jalousie, pareilles à des coups de démence. Dans l'engloutissement de leur fortune, elle le tenait aussi, par la crainte de certains règlements de comptes.]{.calibre11}
+
+[« Oui, accorda-t-il, il y a Andrée. Mais les filles, ça ne comptent pas. »]{.calibre11}
+
+[On recommençait à marcher, lorsque Beauchêne, qui s'était contenté, jusque-là, de souffler, de mâchonner son cigare, dans la réserve que lui imposait sur la question son affreux drame personnel, ne put se taire davantage, oublieux, reconquis à l'extraordinaire inconscience qui le remettait toujours d'aplomb, supérieur, victorieux quand même. Il parla carrément, très haut.]{.calibre11}
+
+[« Je ne suis pas de l'école de Séguin. Tout de même, il dit des choses justes... Cette question de la natalité, vous n'avez pas idée comme elle me passionne encore. Je puis me vanter de la connaître à fond. Eh bien ! Il est évident que Mathieu avait raison, on n'a pas le droit de pondre des enfants à l'infini, sans s'inquiéter de savoir d'abord comment on les nourrira... Si les pauvres crèvent de faim, c'est leur faute, ce n'est pas la nôtre, car ce n'est pas nous, bien sûr, qui allons engrosser leurs femmes. »]{.calibre11}
+
+[Il éclata d'un rire énorme. Et il continua, sortit la conférence qu'il faisait d'habitude sur la question. Seules, les classes dirigeantes étaient raisonnables, en se restreignant. Un pays ne pouvait produire qu'une quantité dé terminée de subsistance, de sorte qu'il se trouvait par là même astreint à une quantité déterminée de population. De là, les coups de misère, lorsque les pauvres s'amusaient trop sur leurs grabats. On accusait la mauvaise distribution de la richesse ; mais c'était fou d'espérer une cité utopique, où il n'y aurait plus de patrons, rien que des frères, des travailleurs égaux, se partageant, comme un gâteau de fête, le bonheur universel. Alors, la faute en était donc certainement à l'imprévoyance des misérables, bien qu'il reconnût, avec une brutale franchise, la nécessité où les patrons se trouvaient d'utiliser ce trop d'enfants, pour embaucher au rabais les ouvriers nécessaires.]{.calibre11}
+
+[Et, se grisant, perdant tout souvenir, dans l'infatuation vaniteuse et têtue de ses idées, il en arriva bruyamment à son cas.]{.calibre11}
+
+[« On nous dit que nous ne sommes pas des patriotes, parce que nous n'avons pas des queues de mioches derrière nous. C'est stupide, chacun sert la patrie à sa façon. Si les pauvres bougres lui donnent des soldats, nous autres nous lui donnons nos capitaux, l'effort de notre industrie et de notre commerce... Enfin, n'est-ce pas ? Chacun connaît ses affaires. La patrie sera bien avancée, quand nous nous serons ruinés à faire pour elle des enfants, qui nous casseront les bras, nous empêcheront de nous enrichir, détruiront derrière nous les oeuvres créées, en se les partageant ! Avec nos lois, avec nos moeurs, il n'y a de solide fortune que pour le fils unique... Eh, mon Dieu ! Oui, il s'impose, le fils unique, il est la seule sagesse, le seul bonheur possible. »]{.calibre11}
+
+[Cela devenait si pénible, si douloureux, que tous, pris de gêne, se taisaient. Lui triomphait, croyant les convaincre.]{.calibre11}
+
+[« Ainsi, moi... »]{.calibre11}
+
+[Constance l'interrompit. Elle avait marché d'abord la tête basse sous ce flot de paroles qui l'accablaient, la rendaient honteuse, comme sous une aggravation de sa défaite. Et elle venait de relever la face, où coulaient deux grosses larmes.]{.calibre11}
+
+[« Alexandre !]{.calibre11}
+
+[--- Quoi donc, ma chère ? »]{.calibre11}
+
+[Il ne comprenait pas encore. Puis, en la voyant pleurer, il finit par être pris d'un trouble, dans sa belle assurance. Il regarda les autres, voulut avoir le dernier mot.]{.calibre11}
+
+[« Ah ! Oui, notre pauvre enfant... Mais les cas particuliers n'ont rien à voir dans la théorie, les idées restent les idées. »]{.calibre11}
+
+[Il y eut un lourd silence, on se retrouvait d'ailleurs près de la pelouse, où la famille était restée. Et, depuis un instant, Mathieu ; songeait à Morange, qu'il avait invité, mais qui s'était excusé comme pris de terreur devant cette joie des autres, inquiet aussi d'un tel voyage, d'une absence pendant laquelle il redoutait toutes sortes d'attentats contre le mystérieux sanctuaire de son culte. Se serait-il également obstiné dans ses idées d'autrefois, Morange ? Aurait-il encore défendu la théorie de l'enfant unique, l'exécrable calcul d'ambition qui lui avait coûté sa femme et fille ? Et sa figure éperdue passait, blême, sous l'orage trop rude pour son pauvre crâne de médiocre, et il piétinait d'un pas de maniaque, il marchait à quelque fin énigmatique, guetté par la démence. Mais la vision lugubre disparut, la pelouse s'étendait de nouveau sous le joyeux soleil, offrant, dans son cadre de grands arbres, un tel tableau de santé heureuse, de beauté triomphante que Mathieu rompit le silence de deuil, en criant malgré lui :]{.calibre11}
+
+[« Voyez donc, voyez donc ! Est-ce gai, est-ce délicieux ces chères femmes, ces chers enfants, dans toute cette verdure ! On devrait peindre cela, pour apprendre aux gens combien il est sain et beau de vivre. »]{.calibre11}
+
+[Sur la pelouse, on n'avait pas perdu le temps, depuis que les Beauchêne et les Séguin s'en étaient allés visiter les étables. D'abord, il y avait eu un partage des menus, orné par Charlotte de si délicates aquarelles. La surprise, au déjeuner, les avait tous ravis, de bons rires couraient encore devant cette débandade de têtes d'enfants, une descendance de mère Gigogne assez nombreuse pour qu'on en décorât des services de table entiers. Puis, pendant que les servantes enlevaient le couvert, Grégoire eut un gros succès en offrant à la mariée un bouquet d'admirables roses blanches, qu'il tira d'un buisson voisin, où il l'avait tenu caché jusque-là. Sans doute il guettait une absence de son père. C'étaient les roses du moulin, il avait dû saccager les rosiers du clos, aidé de Thérèse. Marianne, sentant l'horreur de la faute, voulut le gronder. Mais quelles roses blanches superbes, grosses comme des choux, ainsi qu'il le disait ! Et il avait raison, il pouvait triompher, ses roses étaient les seules roses blanches, qu'il avait conquises, en gamin coureur et chevaleresque, capable de sauter des murs, de séduire des fillettes, pour fleurir de blanc une mariée.]{.calibre11}
+
+[« Elles sont trop belles, déclara-t-il avec assurance, papa ne me dira rien. »]{.calibre11}
+
+[Cela fit rire, et il y eut toute une émotion nouvelle. Benjamin et Guillaume, qui s'étaient réveillés, criaient la faim. Ainsi qu'on le fit remarquer gaiement, leur tour était bien venu. Puisque la grande table avait déjeuné d'un si bel appétit, rien n'était plus juste qu'on servît à son tour la petite table. Et comme on se trouvait en famille, cela fut fait bonnement, sans embarras. Marianne, assise à l'ombre du grand chêne, prit Benjamin sur ses genoux, se dégrafa, lui donna le sein de son air riant et grave ; tandis que, près d'elle à sa droite, Charlotte, avec la même sérénité, faisait de même, dévorée par Guillaume, qui était très goulu ; et à sa gauche, Andrée vint également s'asseoir, son petit Léonce aux bras, ne tétant plus, sevré depuis huit jours, mais désireux de caresse, heureux contré cette gorge tiède où il avait jusque-là vécu. La conversation était tombée sur l'allaitement. Ambroise raconta comment sa femme, Andrée, avait la conviction de ne pouvoir nourrir, de n'avoir pas de lait, si bien que, sans lui, elle n'aurait pas même essayé ; puis le lait était venu tout de même, elle avait parfaitement nourri. Il y avait certainement qu'à vouloir.]{.calibre11}
+
+[« C'est vrai, ce qu'il raconte, dit Andrée en riant. J'avais une terreur de nourrir, toutes mes amies me disaient que ce n'était pas possible. D'abord, ça m'a semblé dur, et maintenant je suis si heureuse ! »]{.calibre11}
+
+[Elle donna un gros baiser à Léonce. Alors, la mariée, Marthe, eut un involontaire cri du coeur, qui redoubla la gaieté.]{.calibre11}
+
+[« Tu entends, maman ! Je ne suis pas si forte que ma soeur Charlotte, qui nourrit déjà son troisième. Mais ça ne fait rien, je nourrirai. »]{.calibre11}
+
+[Ce fut à ce moment, au milieu des rires, dont la rougeur brusque de Marthe augmentait l'éclat, que les Beauchêne et les Séguin reparurent, avec Mathieu. Ils s'arrêtèrent, frappés du délicieux, du puissant tableau. Dans le cadre des grands arbres, sous le chêne patriarcal, comme née de la même terre grasse, parmi l'herbe drue, toute la famille était là, d'une poussée vigoureuse, en un groupe triomphant de joie, de force et de beauté. Gervais et Claire, toujours actifs, s'occupaient avec Frédéric de hâter les servantes, qui n'en finissaient pas d'apporter le café sur la table desservie. Les trois filles, qui se faisaient aider par le chevalier Grégoire, imaginaient une nouvelle décoration de cette table, perdus tous quatre dans un monceau de fleurs, des roses thé, des roses tendres, des roses rouges. À quelques pas, les mariés, Denis et Marthe, causaient à demi-voix, tandis que la mère, Mme Desvignes, les écoutait en silence, avec un discret sourire, d'une infinie douceur. Et c'était au milieu que Marianne rayonnante allaitait son douzième enfant, la chair blanche, fraîche encore, belle toujours de sa sérénité forte, de sa volonté saine, riant à son Benjamin qui la buvait toute une fois de plus, accueillant sur son autre genou Nicolas, l'avant-dernier, jaloux de se garder cette place. Et ses deux brus ne semblaient être qu'un prolongement d'elle-même, Andrée à sa gauche, qu'Ambroise était venu rejoindre pour taquiner son petit Léonce, Charlotte à sa droite, avec ses deux enfants, Guillaume au sein, Berthe dans ses jupes. La foi en la vie avait germé là en une prospérité, en une richesse sans cesse accrue et débordante, toute la souveraine floraison de la fécondité heureuse.]{.calibre11}
+
+[Séguin, s'adressant à Marianne, plaisanta.]{.calibre11}
+
+[« Alors, ce petit monsieur est le quatorzième que vous nourrissez ? »]{.calibre11}
+
+[Gaiement, elle se mit à rire elle-même.]{.calibre11}
+
+[« Non, il ne faut pas mentir... Ça m'en ferait bien quatorze, mais j'ai eu deux fausses couches. J'en aurai nourri douze, voilà le chiffre exact. »]{.calibre11}
+
+[Beauchêne, qui retrouvait sa carrure, ne put s'empêcher d'intervenir encore.]{.calibre11}
+
+[« Enfin, la douzaine. C'est fou !]{.calibre11}
+
+[--- Je suis bien de cet avis, dit à son tour Mathieu, en s'égayant lui aussi. Si ce n'est pas fou, c'est vraiment désordonné... Quand nous sommes seuls, ma femme et moi, nous nous avouons que nous sommes allés un peu loin. D'ailleurs, nous ne pensons pas que tous devraient suivre notre exemple, oh non !... Mais, baste ! Par le temps qui court, on peut sans crainte dépasser la mesure. Trop, c'est à peine assez. Si nous avons exagéré l'exemple, notre pauvre pays s'en trouverait bien, le jour où notre folie deviendrait contagieuse... Et il n'y a qu'une chose à redouter, c'est que la sagesse ne l'emporte. »]{.calibre11}
+
+[Marianne écoutait, en souriant toujours, tandis que des larmes montaient à ses yeux. Une tristesse attendrie l'envahissait, la blessure encore saignante de son coeur s'était rouverte, au milieu de la joie rare de voir là, réunis autour d'elle, les enfants nés de sa chair, nourris de son lait.]{.calibre11}
+
+[« Oui, murmura-t-elle d'une voix tremblante, cela m'en ferait douze, mais je n'en ai plus que dix. Deux déjà dorment là-bas, dans la terre où ils nous attendent. »]{.calibre11}
+
+[Et cette évocation, faite par la mère, du petit cimetière de Janville, si paisible, de la tombe de famille, dans laquelle, l'un après l'autre, tous les enfants espéraient bien se coucher côte à côte, fut sans effroi, prit une douceur de bonne promesse, au milieu de ces noces rieuses. Le cher souvenir des deux disparus restait vivant, et tous en gardaient une gravité tendre, même dans la gaieté, maintenant que des mois avaient déjà pansé la plaie. N'était-ce point la vie qu'on ne pouvait accepter sans la mort ? Chacun venait faire sa part de besogne, puis allait, sa journée finie, retrouver les aînés dans l'éternel sommeil, où se réalisait la grande fraternité humaine.]{.calibre11}
+
+[Mais, devant ce Beauchêne et ce Séguin qui plaisantaient, tout un flot de paroles montait aux lèvres de Mathieu, il aurait voulu leur répondre, triompher des théories menteuses qu'ils osaient soutenir encore, dans leur défaite. La crainte de la terre trop peuplée, de trop de vie amenant la famine, n'était-ce point imbécile ? On n'avait qu'à faire comme lui, à créer les subsistances nécessaires, chaque fois qu'on mettait un enfant au monde, et il aurait montré Chantebled, son oeuvre, le blé poussant sous le soleil, à mesure que poussaient les hommes. Certes, on n'accuserait pas ses enfants d'être venus manger la part des autres, puisque chacun d'eux était né avec son pain. Des millions de nouveaux êtres pouvaient naître, la terre était grande, plus des deux tiers restaient à défricher, à ensemencer, il y avait là une fertilité sans fin pour notre humanité sans limites. Puis, est-ce que toutes les civilisations, tous les progrès ne s'étaient pas produits sous la poussée du nombre ? Seule, l'imprévoyance des pauvres avait jeté les foules révolutionnaires à la conquête de la vérité, de la justice, du bonheur. Chaque jour encore, le torrent humain nécessiterait plus de bonté, plus d'équité, la logique répartition des richesses par des justes lois réglant le travail universel. Et, s'il était vrai que la civilisation fût un frein à la natalité trop grande, ce phénomène précisément pouvait faire espérer l'équilibre final dans le lointain des siècles, lorsque la terre, entièrement peuplée serait devenue assez sage pour vivre dans une sorte d'immobilité divine. Mais il n'y avait là d'ailleurs qu'une spéculation pure devant les nécessités du moment, les nations à refaire, à élargir sans cesse, en attendant la définitive fédération humaine. Et c'était bien l'exemple brave, l'exemple nécessaire, que Marianne et lui donnaient, pour changer les moeurs, et l'idée de morale, et l'idée de beauté.]{.calibre11}
+
+[Déjà, Mathieu ouvrait les lèvres. Tout d'un coup, il sentit l'inutilité de la discussion, devant l'admirable tableau, cette mère entourée d'une telle floraison de vigoureux enfants, allaitant un enfant encore, sous le grand chêne planté par elle. Bravement, elle faisait sa besogne, le monde à continuer, à créer sans fin. Elle était la beauté souveraine.]{.calibre11}
+
+[Et il ne trouva qu'une chose utile et suffisante, ce fut de l'embrasser solidement, devant toute la noce.]{.calibre11}
+
+[« Tiens ! Chère femme, tu es la plus belle, et tu es la meilleure. Que toutes fassent comme toi ! »]{.calibre11}
+
+[Alors, Marianne l'ayant aussi glorieusement embrassé, il y eut une acclamation, une tempête de bons rires. Tous deux étaient des héros qui avaient mené leur existence dans un grand mouvement d'héroïsme, grâce à leur foi en la vie, grâce à leur volonté d'agir, à leur puissance d'aimer. Et Constance le sentit enfin, comprenant la force conquérante de la fécondité, voyant déjà les Froment maîtres de l'usine par Denis, maîtres de l'hôtel des Séguin par Ambroise, maîtres de toute la contrée par leurs autres enfants. C'était le nombre, c'était la victoire. Et, réduite, consumée d'une tendresse qu'elle ne pouvait plus contenter, se rassasiant de l'amertume de sa défaite, tout en espérant encore quelque abominable revanche du destin, elle se détourna pour cacher les deux grosses larmes ardentes qui brûlaient ses joues desséchées, elle qui ne pleurait jamais.]{.calibre11}
+
+[Benjamin et Guillaume tétaient toujours, en petits hommes goulus que rien ne dérangeait de leur repas. Marianne venait de changer le premier de sein. Charlotte surveillait l'autre, pour qu'il ne la mordît pas trop fort. Si l'on avait moins ri, on aurait entendu le ruissellement du lait, ce petit ruisseau dans le torrent de la sève qui soulevait la terre, qui faisait frémir les grands arbres, au puissant soleil de juillet. De toutes parts, la vie féconde charriait les germes, créait, enfantait, nourrissait. Et, pour l'éternelle oeuvre de vie, l'éternel fleuve de lait coulait par le monde.]{.calibre11}

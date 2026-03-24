@@ -1,0 +1,62 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MIRIFIQUES AVENTURES DE MAÎTRE ANTIFER",
+  "slug": "mirifiques-aventures-de-maitre-antifer",
+  "nombre_chapitres": 17,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1508,
+      "spine_end_exclusive": 1524,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_057.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_058.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_059.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_060.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_061.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_062.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_063.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_064.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_065.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_066.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_067.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_068.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_069.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_070.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_071.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_072.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Seconde partie",
+      "slug": "seconde-partie",
+      "is_part": false,
+      "spine_start": 1524,
+      "spine_end_exclusive": 1539,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_073.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_074.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_075.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_076.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_077.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_078.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_079.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_080.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_081.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_082.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_083.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_084.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_085.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_086.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_087.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

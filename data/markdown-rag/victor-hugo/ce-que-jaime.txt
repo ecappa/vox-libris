@@ -1,0 +1,31 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "CE QUE J’AIME"
+slug_oeuvre: "ce-que-jaime"
+type: "oeuvre-complete"
+---
+
+# CE QUE J'AIME
+VERS FAITS À UN DESSERT
+
+(1820)
+
+Victor Hugo
+
+POÉSIES
+
+D'attraits ravissants pourvue,
+Seule, elle réunit tout ;
+Ses appâts charment la vue,
+Et chacun vante son goût.
+Sa peau, veloutée et fraîche,
+Joint toujours la rose au lys :
+Ce pourrait être Phyllis,
+Si ce n'était une pêche.
+
+Publié dans Le Conservateur littéraire
+
+sous le nom de V. D'AUVERNEY (Pseudonyme),
+
+le 17 juin 1820

@@ -1,0 +1,16 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "POÉSIES DIVERSES:"
+slug_oeuvre: "poesies-diverses"
+type: "oeuvre-complete"
+---
+
+# POÉSIES DIVERSES
+Ces poèmes faisaient partie des « Odes et poésies diverses » (1822). Ils ont ensuite été retirés des versions ultérieures. On ne les retrouve donc pas dans Odes et Ballades, titre sous lequel les Odes ont été publiés à partir de 1826.
+
+RAYMOND D'ASCOLI
+
+IDYLLE
+
+LES DERNIERS BARDES

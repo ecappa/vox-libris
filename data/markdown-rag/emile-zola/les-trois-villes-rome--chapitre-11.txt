@@ -1,0 +1,530 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LES TROIS VILLES : ROME"
+slug_oeuvre: "les-trois-villes-rome"
+section: "Chapitre 11"
+slug_section: "chapitre-11"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LES TROIS VILLES : ROME
+
+Liste des romans
+
+ !
+
+## XI
+Bien qu'il sût ne pouvoir se présenter chez le cardinal Sanguinetti que vers onze heures, Pierre, qui avait pris un train matinal, descendit dès neuf heures à la petite gare de Frascati. Déjà, il y était venu, en un de ses jours d'oisiveté forcée ; il avait fait l'excursion classique de ces Châteaux romains, qui vont de Frascati à Rocca di Papa, et de Rocca di Papa au mont Cave ; et il était charmé, il se promettait deux heures de promenade apaisante, sur ces premiers coteaux des monts Albains, où Frascati est bâti, parmi les roseaux, les oliviers et les vignes, dominant l'immense mer rousse de la Campagne, comme du haut d'un promontoire, jusqu'à Rome lointaine qui blanchit, telle qu'un îlot de marbre, à six grandes lieues.
+
+Ah ! Ce Frascati, sur son mamelon verdoyant, au pied des hauteurs boisées de Tusculum, avec sa terrasse fameuse d'où l'on a la plus belle vue du monde, avec ses anciennes villas patriciennes aux fières et élégantes façades Renaissance, aux parcs magnifiques toujours verts, plantés de cyprès, de pins et de chênes ! C'était une douceur, une joie, une séduction dont il ne se serait jamais lassé. Et, depuis plus d'une heure, il errait délicieusement par les routes bordées d'antiques oliviers noueux, par les chemins couverts, qu'ombrageaient les grands arbres des propriétés voisines, par les sentiers odorants, au bout desquels, à chaque coude, la Campagne se déroulait à l'infini, lorsqu'il fit une rencontre imprévue, qui le contraria d'abord.
+
+Il était redescendu près de la gare, dans les terrains bas, d'anciennes vignes où tout un mouvement de constructions nouvelles s'était produit depuis quelques années, et il fut surpris de voir une victoria, très correctement attelée de deux chevaux, qui venait de Rome, s'arrêter près de lui, et de s'entendre appeler par son nom.
+
+« Comment ! Monsieur l'abbé Froment, vous ici en promenade, de si bonne heure ! »
+
+Alors, il reconnut le comte Prada qui, étant descendu, laissa la voiture vide achever la route, tandis qu'il faisait à pied les deux ou trois derniers cents mètres, à côté du jeune prêtre. Après une cordiale poignée de main, il expliqua son goût.
+
+« Oui, je me sers rarement du chemin de fer, je viens en voiture. Ça promène mes chevaux... Vous savez que j'ai des intérêts par ici, toute une affaire de constructions, qui malheureusement ne va pas très bien. Et c'est pourquoi, malgré la saison avancée, je suis encore forcé d'y venir plus souvent que je ne voudrais. »
+
+Pierre, en effet, savait cette histoire. Les Boccanera avaient dû vendre la villa somptueuse, bâtie là par un cardinal, leur ancêtre sur les plans de Jacques de La Porte, dans la seconde moitié du seizième siècle : une demeure d'été royale, d'admirables ombrages des charmilles, des bassins, des cascades, surtout une terrasse célèbre entre toutes celles du pays, qui s'avançait comme un cap au-dessus de la Campagne romaine, dont l'immensité sans fin va des montagnes de la Sabine aux sables de la Méditerranée. Et dans le partage, Benedetta tenait de sa mère de vastes champs de vignes, en bas de Frascati, qu'elle avait apportés en dot à Prada, au moment où la folie de la pierre soufflait de Rome sur les provinces. Aussi Prada avait-il eu l'idée de construire là tout un quartier de villas bourgeoises, dans le goût de celles qui encombrent la banlieue de Paris. Mais peu d'acheteurs s'étaient présentés, l'effondrement financier était survenu, et il liquidait péniblement cette affaire fâcheuse, après en avoir désintéressé sa femme, dès leur séparation.
+
+« Et puis, continua-t-il, avec une voiture, on arrive, on part, quand on veut, tandis qu'on est esclave des heures du chemin de fer. Ainsi, j'ai ce matin rendez-vous avec des entrepreneurs, des experts, des avocats, et je ne sais le temps qu'ils vont me prendre... Un merveilleux pays, n'est-ce pas ? Dont nous avons raison d'être fiers, à Rome. J'ai beau y avoir en ce moment des ennuis, je ne puis m'y retrouver, sans que mon coeur batte de joie. »
+
+Ce qu'il ne disait pas, c'était que son amie comme il la nommait, Lisbeth Kauffmann, venait de passer l'été dans une des villas neuves, où elle avait installé son atelier de délicieuse artiste, visité par toute la colonie étrangère, qui tolérait l'irrégularité de sa situation, depuis la mort de son mari, grâce à sa gaieté et à sa peinture, juste assez pour être libre. On avait fini même par accepter sa grossesse, et elle était rentrée à Rome dès le milieu de novembre, pour y accoucher d'un gros garçon, dont la venue avait rallumé, dans les salons blancs et dans les salons noirs, les commérages passionnés sur le divorce imminent de Benedetta et de Prada. L'amour de ce dernier pour Frascati était sûrement fait de ses tendres souvenirs et de la grande joie d'orgueil où le jetait cette naissance d'un fils.
+
+Pierre, qui gardait en sa présence une gêne, comme une sorte de malaise, dans sa haine instinctive des hommes d'argent et de proie, voulut pourtant répondre à son amabilité parfaite, en lui demandant des nouvelles de son père, le vieil Orlando, le héros de la conquête.
+
+« Oh ! à part les jambes, il se porte à merveille, il vivra cent ans. Ce pauvre père ! J'aurais été si heureux de l'installer dans une de ces petites maisons, cet été ! Mais jamais il n'a voulu, il s'entête à ne pas quitter Rome, comme s'il craignait qu'on ne la lui reprît, pendant son absence. »
+
+Il éclata d'un beau rire, s'égayant tout seul à plaisanter ainsi l'âge héroïque et démodé de l'indépendance. Puis, il ajouta :
+
+« Il me parlait encore de vous hier, monsieur l'abbé. Il s'étonne de ne pas vous avoir revu. »
+
+Cela chagrina Pierre, car il s'était mis à aimer Orlando d'une tendresse respectueuse. Deux fois, depuis la première visite, il était retourné le saluer ; et, à chaque fois, le vieillard avait refusé de causer de Rome, tant que son jeune ami n'aurait pas tout vu, tout senti, tout compris. Plus tard, il serait temps, lorsque l'un et l'autre pourraient conclure.
+
+« Je vous en prie, s'écria Pierre, veuillez lui dire que je ne l'oublie pas et que si ma visite se fait attendre, c'est que je désire le satisfaire. Mais je ne partirai pas sans aller lui dire combien j'ai été touché de son accueil. »
+
+Tous deux continuaient à marcher lentement, par la route montante, au milieu des quelques villas nouvelles, dont plusieurs n'étaient même pas achevées. Et, lorsque Prada sut que le prêtre était venu pour se présenter chez le cardinal Sanguinetti, il eut un nouveau rire, son rire de loup aimable, qui découvrait ses dents blanches.
+
+« C'est vrai, il est ici, depuis que le pape est souffrant... Ah ! Vous allez le trouver dans un bel état de fièvre !
+
+--- Pourquoi donc ?
+
+--- Mais parce que les nouvelles de la santé du Saint-Père ne sont pas bonnes, ce matin. Quand j'ai quitté Rome, le bruit courait qu'il avait passé une nuit affreuse. »
+
+Il s'était arrêté à un coude de la route, devant une antique chapelle, une petite église, d'une grâce solitaire et triste, à la lisière d'un bois d'oliviers. Et, tout à côté, se trouvait une masure tombant en ruine, l'ancienne cure sans doute, d'où sortait un prêtre, grand noueux, la face épaisse et terreuse, qui, d'un double tour de clé ferma rudement la porte, avant de s'éloigner.
+
+« Tenez ! reprit railleusement le comte, en voici un dont le coeur doit battre aussi bien fort, et qui monte sûrement chez votre cardinal aux nouvelles. »
+
+Pierre surpris, avait regardé le prêtre.
+
+« Je le connais, dit-il. C'est lui, si je ne me trompe, que j'ai vu le lendemain de mon arrivée, chez le cardinal Boccanera, auquel il apportait un panier de figues, en venant lui demander un bon certificat pour son jeune frère, qu'une violence, un coup de couteau, je crois, avait fait mettre en prison, certificat d'ailleurs que le cardinal lui a refusé absolument.
+
+--- C'est lui-même, n'en doutez pas, car il a été autrefois un familier de la villa Boccanera, où son jeune frère était jardinier. Aujourd'hui, il est le client, la créature du cardinal Sanguinetti... Ah ! Une figure curieuse, que ce Santobono, comme vous n'en avez pas en France, je suppose ! Il vit tout seul, dans ce logis qui croule, il dessert cette très vieille chapelle de Sainte-Marie-des-Champs où l'on ne vient pas entendre la messe trois fois par année. Oui, une véritable sinécure, qui lui permet de vivre, avec son millier de francs de traitement, en paysan philosophe, cultivant le jardin assez vaste, que vous voyez là, entouré de grands murs. »
+
+En effet, le clos s'étendait sur la pente, derrière la cure, fermé soigneusement de toutes parts, comme un refuge farouche où les regards eux-mêmes ne pénétraient pas. Et l'on n'apercevait, par-dessus la muraille de gauche, qu'un superbe figuier, un figuier géant, dont les feuilles hautes se découpaient en noir sur le ciel clair.
+
+Prada s'était remis à marcher, et il continuait à parler de Santobono, qui l'intéressait évidemment. Un prêtre patriote, un garibaldien. Né à Nemi, dans ce coin resté sauvage des monts Albains il était du peuple, encore près de la terre, mais il avait étudié, il savait assez d'histoire pour connaître la grandeur passée de Rome et pour rêver le rétablissement de l'Empire romain, au profit de la jeune Italie. Et il s'était mis à croire passionnément qu'un grand pape seul pouvait réaliser ce rêve, en s'emparant du pouvoir, puis en conquérant toutes les autres nations. Quoi de plus simple puisque le pape commandait à des millions de catholiques ? Est-ce que la moitié de l'Europe n'était pas à lui ? La France, l'Espagne l'Autriche céderaient, dès qu'elles le verraient puissant, dictant des lois au monde. Quant à l'Allemagne et à l'Angleterre, à toutes les nations protestantes, elles seraient inévitablement conquises, la papauté étant l'unique digue qu'on pût opposer à l'erreur, qui devait un jour se briser contre elle. Politiquement, il s'était malgré ça déclaré en faveur de l'Allemagne, dans la pensée que la France avait besoin d'être écrasée, pour se jeter entre les bras du Saint-Père. Et les contradictions, les imaginations folles se heurtaient ainsi dans cette tête fumeuse, où les idées brûlaient, tournaient vite à la violence, sous la rudesse primitive de la race : un barbare de l'Évangile, un ami des humbles et des souffrants, qui était de la famille des sectaires exaltés, capables des grandes vertus et des grands crimes.
+
+« Oui, conclut Prada, il s'est donné au cardinal Sanguinetti, parce qu'il a vu en lui le grand pape possible, le pape de demain, qui doit faire de Rome l'unique capitale des peuples. Et cela ne va pas, non plus, sans quelque ambition plus basse, celle, par exemple, de conquérir un titre de chanoine, ou celle encore de se faire aider dans les petits désagréments de l'existence, comme le jour où il a eu besoin de tirer son frère d'embarras. On met sa chance sur un cardinal, ainsi qu'on nourrit un terne à la loterie : si le cardinal sort pape, on gagne une fortune... C'est pourquoi vous le voyez là-bas marcher à si longues enjambées, dans la hâte de savoir si Léon XIII va mourir et si son terne sortira avec Sanguinetti coiffant la tiare. »
+
+Intéressé et pris d'inquiétude, Pierre demanda :
+
+« Croyez-vous donc le pape malade à ce point ? »
+
+Le comte sourit, leva les deux bras.
+
+« Ah ! Est-ce qu'on sait ? Ils sont tous malades, quand ils ont intérêt à l'être. Mais je le crois vraiment indisposé, un dérangement d'entrailles, dit-on ; et, à son âge, la moindre indisposition peut devenir fatale. »
+
+Quelques pas furent faits en silence ; puis, de nouveau, le prêtre posa une question.
+
+« Alors, si le Saint-Siège se trouvait libre, le cardinal Sanguinetti aurait de grandes chances ?
+
+En terminant, Prada se mit à rire de nouveau, montrant ses dents blanches, peu faites pour lâcher la proie.
+
+« Vous voyez que nous avons à bien nous défendre, car il s'agit de nous jeter dehors. Heureusement qu'il y a, à tout cela, de petits empêchements. Mais de tels rêves n'en ont pas moins une action énorme sur certaines cervelles exaltées, comme celle de ce Santobono par exemple ; et, tenez ! En voilà un que Sanguinetti mènerait loin, d'un mot, s'il voulait... Ah ! Il a de bonnes jambes ! Regardez-le donc là-haut, il est arrivé, il entre dans le petit palais du cardinal cette villa toute blanche qui a des balcons sculptés. »
+
+En effet, on apercevait le petit palais, une des premières maisons de Frascati, construction moderne, de style Renaissance, et dont les fenêtres s'ouvraient sur l'immensité de la Campagne romaine.
+
+Il était onze heures, et comme Pierre prenait congé du comte pour monter faire lui-même sa visite, celui-ci garda un instant sa main dans la sienne.
+
+« Vous ne savez pas, si vous étiez très gentil, eh bien ! Vous déjeuneriez avec moi... Voulez-vous ? Dès que vous serez libre venez me rejoindre à ce restaurant, là, cette façade rose. Moi, en une heure, j'aurai réglé mes affaires, et je serai ravi de ne pas manger seul. »
+
+D'abord, Pierre refusa, se défendit ; mais il n'avait aucune excuse possible ; et il dut se rendre enfin, cédant malgré lui au charme réel de Prada. Dès qu'ils se furent séparés, il n'eut qu'à monter une rue, pour se trouver à la porte du cardinal. Ce dernier était d'un abord très facile, par un besoin naturel d'expansion, par un calcul aussi de jouer à l'homme populaire. À Frascati surtout, ses portes s'ouvraient à deux battants, même devant les plus humbles soutanes. Le jeune prêtre fut donc introduit tout de suite, un peu étonné de cet accueil, en se souvenant de la mauvaise humeur du domestique de Rome, qui lui avait déconseillé le voyage, Son Eminence n'aimant pas à être dérangée, quand elle était souffrante. À la vérité, il n'était guère question de maladie, car tout souriait, tout luisait dans cette aimable villa, inondée de soleil. Le salon d'attentes où l'on venait de le laisser seul, meublé d'un affreux meuble de velours rouge, n'avait ni luxe ni confort ; mais il était égayé par la plus belle lumière du monde, et il donnait sur cette extraordinaire Campagne, si plate, si nue, d'une beauté sans égale, toute de rêve, dans le continuel mirage du passé. Aussi, en attendant d'être reçu, alla-t-il se planter à une des fenêtres, grande ouverte sur un balcon, émerveillé, parcourant des yeux la mer sans fin des herbages, jusqu'aux blancheurs lointaines de Rome, que dominait le dôme de Saint-Pierre, une petite tache étincelante, à peine large comme l'ongle du petit doigt.
+
+Il s'oubliait là, lorsque le bruit d'une conversation, dont les mots lui arrivaient très nets, le surprit. Il se pencha, il finit par comprendre que c'était Son Eminence elle-même, debout sur le balcon voisin, qui causait avec un prêtre, dont il voyait seulement un bout de soutane. Tout de suite, d'ailleurs, il avait reconnu Santobono. Son premier mouvement fut de se retirer, par discrétion ; et puis, les paroles qu'il entendit le retinrent.
+
+« Nous allons savoir dans un instant, disait Son Eminence de sa voix grasse. J'ai envoyé Eufemio à Rome, je n'ai de confiance qu'en lui. Et voici le train qui le ramène. »
+
+En effet, un train arrivait par la plaine vaste, petit encore, tel qu'un jouet d'enfant. Ce devait être pour le guetter que Sanguinetti était venu s'accouder à la balustrade du balcon. Et il restait là, les yeux sur Rome, au loin.
+
+Santobono prononça passionnément quelques mots, que Pierre entendit mal. Mais, tout de suite, le cardinal reprit, distinctement :
+
+« Oui, oui, mon cher, une catastrophe serait un grand malheur. Ah ! Que Dieu nous conserve longtemps encore Sa Sainteté... »
+
+Il s'arrêta, et comme il n'était pas hypocrite, il compléta sa pensée :
+
+« Du moins qu'il nous la conserve en ce moment, car l'heure est mauvaise, je suis dans l'angoisse la plus affreuse, les partisans de l'Antéchrist ont gagné beaucoup de terrain dans ces derniers temps. »
+
+Un cri échappa à Santobono.
+
+« Oh ! Votre Eminence agira, triomphera !
+
+--- Moi, mon cher ! Mais que voulez-vous que je fasse ? Je ne suis qu'à la disposition de mes amis, de ceux qui croiront en moi, uniquement pour la victoire du Saint-Siège. C'est eux qui doivent agir, travailler chacun dans ses moyens à barrer la route aux méchants, de manière à ce que les bons réussissent... Ah ! Si l'Antéchrist règne... »
+
+Ce mot d'Antéchrist, qui revenait ainsi, troublait beaucoup Pierre. Tout d'un coup, il se souvint de ce que lui avait dit le comte : l'Antéchrist, c'était le cardinal Boccanera.
+
+« Mon cher, songez à cela : l'Antéchrist au Vatican, consommant la ruine de la religion par son orgueil implacable, sa volonté de fer, sa sombre folie du néant ; car il n'y a plus à en douter, il est la bête de mort annoncée par les prophéties, celle qui menace de tout engloutir avec elle, dans sa furieuse course aux ténèbres de l'abîme. Je le connais, il ne rêve qu'obstination et qu'effondrement, il prendra les piliers du temple et les ébranlera pour s'abîmer sous les décombres, lui et la catholicité entière. Je ne lui donne pas six mois, sans qu'il soit chassé de Rome, fâché avec toutes les nations, exécré de l'Italie, traînant par le monde le fantôme errant du dernier pape. »
+
+Un grognement sourd, un juron étouffé de Santobono accueillit cette effroyable prédiction. Mais le train était arrivé en gare et, parmi les quelques voyageurs qui venaient d'en descendre, Pierre distinguait un petit abbé, dont la soutane battait les cuisses, tant il marchait vite.
+
+C'était l'abbé Eufemio, le secrétaire du cardinal. Quand il eut aperçu celui-ci au balcon, il lâcha tout respect humain, il se mit à courir, pour gravir la rue en pente.
+
+« Ah ! Voici Eufemio ! S'écria Son Eminence, frémissante d'anxiété. Nous allons savoir, nous allons savoir enfin ! »
+
+Le secrétaire s'était engouffré sous la porte, et il dut monter si vivement, que Pierre, presque aussitôt, le vit traverser hors d'haleine le salon d'attente, où il se trouvait, puis disparaître dans le cabinet du cardinal. Celui-ci avait quitté le balcon pour aller à la rencontre de son messager ; mais il y revint, au milieu de questions, d'exclamations, de tout un tumulte, causé par les mauvaises nouvelles.
+
+« Alors, c'est bien vrai, la nuit a été mauvaise, Sa Sainteté n'a pas dormi un instant... Des coliques, vous a-t-on raconté ? Mais, à son âge, rien n'est plus grave, ça peut l'emporter en deux heures... Et les médecins, que disent-ils ? »
+
+La réponse ne parvint pas à Pierre. Seulement, il comprit en entendant le cardinal reprendre :
+
+« Oh ! Les médecins, ils ne savent jamais. D'ailleurs, quand ils ne veulent plus parler, c'est que la mort n'est pas loin... Mon Dieu ! Quel malheur, si la catastrophe ne peut être reculée de quelques jours ! »
+
+Il se tut, et Pierre le sentit, les yeux de nouveau sur Rome, là-bas, regardant de toute son angoisse ambitieuse le dôme de Saint-Pierre, la petite tache étincelante, à peine grande comme l'ongle du petit doigt au milieu de l'immense plaine rousse. Quel trouble, quelle agitation, si le pape était mort ! Et il aurait voulu n'avoir qu'à étendre le bras pour prendre dans le creux de sa main la Ville Eternelle, la Ville sacrée, qui ne tenait pas plus de place, à l'horizon, qu'un tas de gravier, jeté là par la pelle d'un enfant. Déjà, il rêvait du conclave, lorsque les dais des autres cardinaux s'abattraient, et que le sien, immobile, souverain, le couronnerait de pourpre.
+
+« Mais vous avez raison, mon cher, s'écria-t-il en s'adressant à Santobono, il faut agir, c'est pour le salut de l'Église... Et puis, il n'est pas possible que le Ciel ne soit pas avec nous, qui voulons uniquement son triomphe. S'il le faut, au moment suprême, il saura bien foudroyer l'Antéchrist. »
+
+Alors, pour la première fois, Pierre entendit nettement Santobono, qui disait d'une voix rude, avec une sorte de sauvage décision :
+
+« Oh ! Si le Ciel tarde, on l'aidera ! »
+
+Puis, ce fut tout, il ne saisit plus qu'un murmure confus. Le balcon était vide, et son attente recommença, dans le salon ensoleillé, d'une gaieté calme et délicieuse. Brusquement, la porte du cabinet de travail s'ouvrit toute grande, un domestique l'introduisit, et il fut étonné de trouver le cardinal seul, sans avoir vu sortir les deux prêtres, qui s'en étaient allés par une autre porte.
+
+Dans la vive lumière blonde, le cardinal était debout près d'une fenêtre, avec sa face colorée au nez fort, aux grosses lèvres, son air de jeunesse trapue et vigoureuse, malgré ses soixante ans. Il avait repris le sourire paternel dont il accueillait les plus humbles, par bonne politique. Et, tout de suite, dès que Pierre se fut incliné et eut baisé l'anneau, il lui indiqua une chaise.
+
+« Asseyez-vous, cher fils, asseyez-vous... Voyons, vous venez pour cette malheureuse affaire de votre livre. Je suis bien heureux, bien heureux d'en causer avec vous. »
+
+Lui-même avait pris une chaise, devant cette fenêtre ouverte sur Rome, dont il semblait ne pouvoir s'éloigner. Le prêtre s'aperçut qu'il ne l'écoutait guère, les yeux de nouveau là-bas, vers la proie si chaudement désirée, pendant qu'il s'excusait d'être venu le troubler dans son repos. Pourtant, l'apparence d'aimable attention était parfaite, il s'émerveilla de la volonté que cet homme devait avoir, pour paraître si calme, si dévoué aux affaires des autres, lorsqu'un tel vent de tempête soufflait en lui.
+
+« Votre Eminence daignera donc me pardonner...
+
+--- Mais vous avez bien fait de venir, puisque ma santé chancelante me retient ici... Je vais un peu mieux, d'ailleurs, et il est très naturel que vous désiriez me fournir des explications, défendre votre oeuvre, éclairer mon jugement. Même je m'étonnais de ne pas vous avoir encore vu, car je sais que votre foi est grande et que vous n'épargnez pas vos démarches pour convertir vos juges... Parlez, cher fils, je vous écoute, de toute la bonne joie que j'aurais à vous absoudre. »
+
+Et Pierre se laissa prendre à ces bienveillantes paroles. Un espoir lui revint, celui de gagner à sa cause le préfet de l'Index, tout-puissant. Il le jugeait déjà d'une intelligence rare, d'une cordialité exquise, cet ancien nonce qui avait appris, à Bruxelles d'abord, puis à Vienne, l'art mondain de renvoyer ravis, les gens qu'il bernait, en leur promettant tout, sans leur rien accorder. Aussi retrouva-t-il une fois encore sa flamme d'apôtre, pour exposer ses idées sur la Rome de demain, la Rome qu'il rêvait, de nouveau maîtresse du monde, si elle revenait au christianisme de Jésus, dans l'ardent amour des petits et des humbles.
+
+Sanguinetti souriait, hochait doucement la tête, s'exclamait de ravissement.
+
+« Très bien, très bien ! C'est parfait... Ah ! Je pense comme vous cher fils ! On ne peut mieux dire... Mais c'est l'évidence même, vous êtes là avec tous les bons esprits. »
+
+Puis, tout le côté poésie le touchait profondément, disait-il. Il aimait à passer, comme Léon XIII, par rivalité sans doute, pour un latiniste des plus distingués, et il avait voué à Virgile une tendresse spéciale et sans bornes.
+
+« Je sais, je sais, votre page sur le printemps qui revient, consolant les pauvres que l'hiver a glacés, oh ! Je l'ai relue trois fois ! Et vous doutez-vous que vous êtes plein de tournures latines ? J'ai noté chez vous plus de cinquante expressions qu'on retrouverait dans les églogues. Un charme, votre livre, un vrai charme ! »
+
+Comme il n'était point sot, et qu'il sentait là, dans ce petit prêtre une grande intelligence, il finissait par s'intéresser, non pas à lui, mais au profit quelconque qu'il y avait peut-être à tirer de lui. C'était, dans sa fièvre d'intrigues, sa continuelle préoccupation, tirer des autres, des créatures que Dieu lui envoyait, tout ce qu'elles lui apportaient d'utile à son propre triomphe. Et il se détournait un instant de Rome, il regardait en face son interlocuteur, l'écoutait parler, en se demandant à quoi il pourrait bien l'employer, tout de suite, dans la crise qu'il traversait, ou plus tard, quand il serait pape. Mais le prêtre commit encore une fois la faute d'attaquer le pouvoir temporel de l'Église et de prononcer les mots malencontreux de religion nouvelle.
+
+D'un geste, le cardinal l'arrêta, toujours souriant, sans rien perdre de son amabilité, bien que sa résolution, prise depuis longtemps, fût dès lors confirmée et définitive.
+
+« Certainement, cher fils, vous avez raison sur bien des points, et je suis souvent avec vous, oh ! Tout à fait... Seulement, voyons, vous ignorez sans doute que je suis ici le protecteur de Lourdes. Alors, après la page que vous avez écrite sur la Grotte, comment voulez-vous que je me prononce pour vous, contre les pères ? »
+
+Pierre fut atterré par ce fait, qu'il ignorait en effet. Personne n'avait eu la précaution de l'avertir. À Rome, les oeuvres catholiques du monde entier ont chacune pour protecteur un cardinal, désigné par le Saint-Père, chargé de la représenter et de la défendre au besoin.
+
+« Ces bons pères ! Continua doucement Sanguinetti, vous leur avez fait beaucoup de peine, et vraiment nous avons les mains liées, nous ne pouvons augmenter leur chagrin davantage... Si vous saviez le nombre de messes qu'ils nous envoient ! Sans eux, je connais plus d'un de nos pauvres prêtres qui mourrait de faim. »
+
+Il n'y avait qu'à s'incliner. Pierre se heurtait une fois de plus à cette question d'argent, à la nécessité où se trouvait le Saint-Siège d'assurer son budget, bon an mal an. C'était toujours le servage du pape, que la perte de Rome avait libéré du souci de régner, mais que sa gratitude forcée pour les aumônes reçues, clouait quand même à la terre. Les besoins étaient si grands, que l'argent régnait, était la puissance souveraine, devant laquelle tout pliait en cour de Rome.
+
+Sanguinetti se leva pour donner congé au visiteur.
+
+« Mais, cher fils, reprit-il avec effusion, ne vous désespérez pas. Je n'ai d'ailleurs que ma voix, je vous promets de tenir compte des excellentes explications que vous venez de me fournir.. Et qui sait ? Si Dieu est avec vous, il vous sauvera, même malgré nous ! »
+
+C'était son ordinaire tactique, il avait pour principe de ne jamais pousser personne à bout, en renvoyant les gens sans espoir. À quoi bon dire à celui-ci que la condamnation de son livre était chose faite et que le seul parti prudent serait de le désavouer ? Il n'y avait qu'un sauvage, comme Boccanera, pour souffler la colère sur les âmes de feu et les jeter à la rébellion.
+
+« Espérez, espérez ! » répéta-t-il avec son sourire, en ayant l'air de sous-entendre une foule de choses heureuses, qu'il ne pouvait dire.
+
+Pierre, profondément touché, se sentit renaître. Il oubliait même la conversation qu'il avait surprise, cette âpreté d'ambition cette rage sourde contre le rival redouté. Et puis, chez les puissants, l'intelligence ne pouvait-elle tenir lieu de coeur ? Si celui-ci était pape un jour, et s'il avait compris, ne serait-il pas peut-être le pape attendu, acceptant la tâche de réorganiser l'Église des États-Unis d'Europe, maîtresse spirituelle du monde ? Il le remercia avec émotion, s'inclina et le laissa à son rêve, debout devant cette fenêtre grande ouverte, d'où Rome lui apparaissait au loin toute précieuse et luisante comme un joyau, telle la tiare d'or et de pierreries, dans le resplendissement du soleil d'automne.
+
+Il était près d'une heure, lorsque Pierre et le comte Prada purent enfin déjeuner, à une des petites tables du restaurant, où ils s'étaient donné rendez-vous. Leurs affaires les avaient retardés l'un et l'autre. Mais le comte paraissait fort gai, ayant réglé à son avantage des questions fâcheuses, et le prêtre lui-même, repris d'espérance, s'abandonnait, se laissait délicieusement vivre dans la douceur de ce dernier beau jour. Aussi le déjeuner fut-il charmant, au milieu de la grande salle claire, peinte en bleu et en rose, absolument déserte à cette époque de l'année. Des Amours volaient au plafond, des paysages rappelant de loin les Châteaux romains décoraient les murs. Et ils mangèrent des choses fraîches, ils burent de ce vin de Frascati, qui a un goût brûlé de terroir, comme si les anciens volcans avaient laissé à la terre un peu de leur flamme.
+
+Longuement, la conversation roula sur les monts Albains, dont la grâce farouche domine si heureusement la plate Campagne romaine, pour le plaisir des yeux. Pierre, qui avait fait la classique excursion en voiture, de Frascati à Nemi, était resté sous le charme ; et il en parlait encore avec feu. C'était d'abord l'adorable chemin de Frascati à Albano, montant et descendant au flanc des collines plantées de roseaux de vignes et d'oliviers, parmi lesquels s'ouvraient de continuelles échappées sur l'immensité houleuse de la Campagne. À gauche, le village de Rocca di Papa, en amphithéâtre, blanchissait sur un mamelon, au-dessous du mont Cave, couronné de grands arbres séculaires. De ce point de la route lorsqu'on se retournait vers Frascati, on apercevait, très haut, à la lisière d'un bois de pins, les ruines lointaines de Tusculum, de grandes ruines rousses, cuites par des siècles de soleil, et d'où la vue sans bornes devait être admirable. Puis, on traversait Marino, à la grande rue en pente, à la vaste église, au vieux palais noirci et à demi mangé des Colonna. Puis, après un bois de chênes verts, on longeait le lac d'Albano, spectacle unique au monde : les ruines d'Albe la Longue en face, de l'autre côté des eaux immobiles, clair miroir ; le mont Cave à gauche, avec Rocca di Papa et Palazzuola ; et Castel Gandolfo à droite, dominant le lac, comme du haut d'une falaise. Dans le cratère éteint, ainsi qu'au fond d'une coupe de verdure géante, le lac dormait, lourd et mort, une nappe de métal fondu, que le soleil moirait d'or d'un côté, tandis que l'autre moitié, dans l'ombre, était noire. Et la route montait ensuite, jusqu'à Castel Gandolfo, perché sur son rocher, tel qu'un oiseau blanc, entre le lac et la mer, toujours rafraîchi par une brise, même aux heures les plus brûlantes de l'été, autrefois célèbre par sa villa des papes, où Pie IX aimait à vivre des journées d'indolence, où Léon XIII n'est jamais venu. Et la route descendait ensuite ; et les chênes verts recommençaient, des chênes verts fameux par leur énormité, une double rangée de colosses, de monstres aux membres tordus, deux ou trois fois centenaires ; et l'on arrivait enfin à Albano, une petite ville moins nettoyée, moins modernisée que Frascati, un coin de terroir qui a gardé un peu de son odeur d'ancienne sauvagerie ; et c'était encore Ariccia, avec le palais Chigi, des coteaux couverts de forêts, des ponts enjambant des gorges débordantes d'ombrager ; et c'était encore Genzano, c'était encore Nemi, de plus en plus reculés et farouches, perdus au milieu des rocs et des arbres.
+
+Ah ! Ce Nemi, quel souvenir ineffaçable Pierre en avait gardé, ce Nemi au bord de son lac, ce Nemi délicieux de loin, d'une apparition si charmeresse, évocatrice des anciennes légendes, des villes fées nées dans la verdure du mystère des eaux, et d'une saleté repoussante quand on l'aborde enfin, croulant de partout, dominé encore par la tour des Orsini, comme par le génie mauvais des anciens âges, qui semble y maintenir les moeurs féroces, les passions violentes et les coups de couteau ! Il était de là, ce Santobono dont le frère avait tué, et qui lui-même semblait brûler d'une flamme meurtrière, avec ses yeux de crime, luisants tels que des braises. Et le lac, le lac rond comme une lune éteinte, tombée là dans ce fond de cratère, cette coupe plus profonde et plus étroite qu'au lac d'Albano, couverte d'arbres d'une vigueur et d'une densité prodigieuses ! Les pins, les ormes, les saules, en un flot vert de branches qui s'écrasent, descendent jusqu'à la rive. Cette fécondité formidable naît des continuelles vapeurs d'eau qui se dégagent, sous l'action torride du soleil, dont les rayons s'amassent dans ce creux, en un foyer de fournaise. C'est une humidité chaude et lourde, les allées des jardins environnants se verdissent de mousses, des brouillards épais emplissent souvent le matin l'immense coupe d'une vapeur blanche, comme d'un lait fumeux de sorcière, aux louches maléfices. Et Pierre se souvenait bien de son malaise, devant ce lac où paraissent dormir des atrocités anciennes, toute une religion mystérieuse d'abominables pratiques au milieu de l'admirable décor. Il l'avait vu, à l'approche du soir dans l'ombre de sa ceinture de forêts, tel qu'une plaque de métal terni, noir et argent, d'une immobilité pesante ; et cette eau très claire, mais si profonde, cette eau déserte, sans une barque, cette eau morte, auguste et sépulcrale, lui avait laissé une indicible tristesse, une mélancolie à en mourir, la désespérance des grands ruts solitaires, la terre et les eaux gonflées de la douleur muette des germes, inquiétantes de fécondité. Ah ! Ces bords noirs qui s'enfonçaient, ce lac morne et noir qui gisait, là-bas, au fond !
+
+Le comte Prada s'était mis à rire de cette impression.
+
+« Oui, oui, c'est vrai, le lac de Nemi n'est pas gai tous les jours. Je l'ai vu, par des temps gris, couleur de plomb ; et les grands soleils, tout en l'éclairant, ne l'animent guère. Pour mon compte je sais que je périrais d'ennui, s'il me fallait vivre en face de cette eau toute nue. Mais il a pour lui les poètes et les femmes romanesques, celles qui adorent les grandes amours passionnées, aux dénouements tragiques. »
+
+Puis, comme les deux convives s'étaient levés de table, pour aller prendre le café sur une terrasse, la conversation changea.
+
+« Est-ce que, ce soir, reprit le comte, vous comptez vous rendre à la réception du prince Buongiovanni ? Ce sera, pour un étranger, un spectacle curieux, que je vous conseille de ne pas manquer.
+
+--- Oui, j'ai une invitation, répondit Pierre. C'est un de mes amis, M. Narcisse Habert, un attaché de notre ambassade, qui me l'a procurée et qui, du reste, doit m'y conduire. »
+
+En effet, il devait y avoir, le soir même, une fête au palais Buongiovanni, sur le Corso, un de ces rares galas comme il ne s'en donne que deux ou trois par hiver. On racontait que celui-ci dépasserait tout en magnificence, car il avait lieu à l'occasion des fiançailles de Celia, la petite princesse. Brusquement, le prince après avoir giflé sa fille, disait-on, et avoir lui-même couru des risques sérieux d'apoplexie, dans une crise d'effroyable colère venait de céder devant le tranquille et doux entêtement de la jeune fille, en consentant à son mariage avec le lieutenant Attilio, le fils du ministre Sacco ; et tous les salons de Rome, le monde blanc aussi bien que le monde noir, en étaient bouleversés.
+
+Le comte Prada s'égayait de nouveau.
+
+Il s'interrompit, pour reprendre aussitôt :
+
+« Dites donc, il est déjà deux heures et demie, vous n'aurez plus un train avant cinq heures. Et vous ne savez pas ce que vous devriez faire ? Ce serait de rentrer à Rome avec moi, en voiture. »
+
+Mais Pierre se récriait.
+
+« Non, non, merci mille fois ! Je dîne avec mon ami Narcisse, je ne puis m'attarder.
+
+--- Eh ! Vous ne vous attarderez pas, au contraire ! Nous allons partir à trois heures, nous serons à Rome avant cinq heures... Il n'y a pas de promenade plus délicieuse à faire, quand le jour tombe, et, voyons ! Je vous promets un admirable coucher de soleil. »
+
+Il fut si pressant que le prêtre dut accepter, gagné décidément par tant d'amabilité et de belle humeur. Ils passèrent encore une heure fort agréable, à causer de Rome, de l'Italie, de la France. Ils étaient remontés un instant dans Frascati, où le comte voulait revoir un entrepreneur. Et, comme trois heures sonnaient, ils partirent enfin, mollement bercés côte à côte, sur les coussins de la victoria, au trot léger des deux chevaux. C'était délicieux, en effet, ce retour à Rome, au travers de l'immense Campagne nue, sous le grand ciel limpide, par cette fin exquise de la plus douce des journées d'automne.
+
+Mais d'abord, à grande allure, la victoria dut descendre les pentes de Frascati, entre de continuels champs de vignes et des bois d'oliviers. La route pavée tournait, peu fréquentée : à peine quelques paysans en vieux chapeaux de feutre noir, un mulet blanc, une carriole attelée d'un âne ; c'était seulement le dimanche que les débits de vin se peuplaient et que les artisans à leur aise venaient manger le chevreau dans les bastides d'alentour. On passa devant une fontaine monumentale, à un coude du chemin. Tout un troupeau de moutons défila, barra un instant le passage. Et, toujours, au fond des lentes ondulations de l'immense Campagne rousse, Rome lointaine apparaissait dans les vapeurs violettes du soir, semblait s'enfoncer peu à peu, à mesure que la voiture descendait davantage. Il vint un moment où elle ne fut plus, au ras de l'horizon, qu'une mince raie grise, à peine étoilée de blanc par quelques façades ensoleillées. Puis, elle s'abîma en terre, elle se noya sous la houle des champs infinis.
+
+Maintenant, la victoria roulait en plaine, laissant derrière elle les monts Albains, tandis qu'à droite, à gauche, en face, commençait la mer des prairies et des chaumes. Et ce fut alors que le comte, s'étant penché, s'écria :
+
+« Tenez ! Voyez donc en avant, là-bas, notre homme de ce matin le Santobono en personne... Hein ? Quel gaillard, comme il marche ! Mes chevaux ont peine à le rattraper. »
+
+Pierre se pencha à son tour. C'était bien le curé de Sainte-Marie-des-Champs, grand et noueux, comme taillé à coups de serpe, dans sa longue soutane noire. Sous la fine lumière, le clair soleil blond qui l'inondait, il faisait une dure tache d'encre ; et il allait d'un tel pas, régulier et rude, qu'il ressemblait au destin en marche. Au bout de son bras droit pendait quelque chose, un objet qu'on distinguait mal.
+
+Quand la voiture eut fini par l'atteindre, Prada donna l'ordre au cocher de ralentir, et il engagea la conversation.
+
+« Bonjour, l'abbé ! Vous allez bien ?
+
+--- Très bien, monsieur le comte. Mille grâces !
+
+--- Et où courez-vous donc si gaillardement ?
+
+--- Monsieur le comte, je vais à Rome.
+
+--- Comment, à Rome ? Si tard !
+
+--- Oh ! J'y serai presque aussi tôt que vous. La route ne me fait pas peur, et c'est de l'argent vite gagné. »
+
+Il ne perdait pas une enjambée, tournant à peine la tête, allongeant le pas, le long des roues ; si bien que Prada, mis en joie par la rencontre, dit tout bas à Pierre :
+
+« Attendez, il nous amusera. »
+
+Puis à voix haute :
+
+« Puisque vous allez à Rome, l'abbé, montez donc, il y a une place pour vous. »
+
+Immédiatement, sans se faire prier davantage, Santobono accepta.
+
+« Je veux bien, mille grâces !... Ça vaut encore mieux de ne point user ses souliers. »
+
+Les chevaux étaient repartis à un trot plus vif, la voiture roulait sur la belle route plate.
+
+« Alors, vous allez à Rome ? reprit le comte, pour faire causer le curé.
+
+--- Oui, oui, je vais porter à Son Eminence Révérendissime le cardinal Boccanera ces quelques figues, les dernières de la saison, dont j'avais promis de lui faire le petit cadeau. »
+
+Il avait posé sur ses genoux le panier, qu'il tenait soigneusement entre ses grosses mains noueuses, ainsi qu'une chose fragile et rare.
+
+« Ah ! Les figues fameuses de votre figuier ! C'est vrai, elles sont tout miel... Mais débarrassez-vous donc, vous n'allez pas les garder sur vos genoux jusqu'à Rome. Donnez-les-moi, je vais les mettre dans la capote. »
+
+Il s'agita, les défendit, ne voulut absolument pas s'en séparer.
+
+« Mille grâces ! Mille grâces !... Elles ne me gênent pas du tout elles sont très bien là, et je suis sûr de cette façon qu'il ne leur arrivera pas d'accident. »
+
+Cette passion de Santobono pour les fruits de son jardin amusait beaucoup Prada, qui poussait le coude de Pierre. Il demanda de nouveau :
+
+« Et le cardinal les aime, vos figues ?
+
+--- Oh ! Monsieur le comte, Son Eminence daigne les adorer. Autrefois, lorsqu'elle passait l'été à la villa, elle ne voulait pas en manger d'un autre arbre. Alors, vous comprenez, ça ne me coûte guère de lui faire plaisir, du moment que je connais son goût. »
+
+Mais il avait jeté sur Pierre un regard si aigu, que le comte sentit la nécessité de les présenter l'un à l'autre.
+
+« Monsieur l'abbé Froment est justement descendu au palais Boccanera, où il loge depuis trois mois.
+
+--- Je sais, je sais, dit avec tranquillité Santobono. J'ai vu M. L'abbé chez Son Eminence un jour où, déjà, j'étais allé porter des figues. Seulement, elles étaient moins mûres. Celles-ci sont parfaites. »
+
+Il eut un regard de complaisance sur le petit panier, qu'il parut serrer plus étroitement entre ses doigts énormes, couverts de poils fauves. Et il se fit un silence, tandis que la Campagne se déroulait sans fin, aux deux bords. Les maisons avaient disparu depuis longtemps, pas un mur, pas un arbre, rien que les ondulations vastes, dont l'approche de l'hiver commençait à verdir les herbes maigres et rases. Une tour, une ruine à demi écroulée, qui apparut à gauche, prit tout à coup une importance extraordinaire, droite dans le ciel limpide, au-dessus de la ligne plate, illimitée de l'horizon. Puis, à droite, dans un grand parc, fermé de pieux, se montrèrent de lointaines silhouettes de boeufs et de chevaux, d'autres boeufs, attelés encore, rentraient lentement du labour, sous les piqûres de l'aiguillon, tandis qu'un fermier, lancé au galop d'un petit cheval rouge, achevait de donner son coup d'oeil du soir, à travers les terres labourées. La route par moments se peuplait. Un biroccino, très légère voiture à deux grandes roues, avec un simple siège posé sur l'essieu, venait de filer comme le vent. De temps à autre, la victoria dépassait un carrettino, la charrette basse, dans laquelle le paysan, abrité sous une sorte de tente aux couleurs vives, apportait à Rome le vin, les légumes, les fruits des Châteaux romains. On entendait de loin les clochettes grêles des chevaux, s'en allant d'eux-mêmes, par le chemin bien connu, pendant que le paysan d'ordinaire dormait à poings fermés. Des femmes rentraient par groupes de trois ou quatre, la jupe relevée, les cheveux nus et noirs, avec des fichus écarlates. Et la route se vidait ensuite et le désert se faisait de plus en plus, sans un passant sans une bête, pendant des kilomètres, sous le ciel rond et infini, où descendait le soleil oblique, là-bas, au bout de cette mer vide, d'une monotonie grandiose et triste.
+
+« Et le pape, l'abbé ? demanda soudain Prada ; est-il mort ? »
+
+Santobono ne s'effara même pas.
+
+« J'espère bien, dit-il simplement, que Sa Sainteté a encore de longs jours à vivre, pour le triomphe de l'Église.
+
+--- Alors, vous avez eu de bonnes nouvelles, ce matin, chez votre évêque, le cardinal Sanguinetti ? »
+
+Cette fois, le curé ne put réprimer un léger tressaillement. On l'avait donc vu ? Lui, dans sa hâte, n'avait pas remarqué ces deux passants, qui venaient derrière son dos, sur la route.
+
+« Oh ! Répondit-il, en se remettant tout de suite, on ne sait jamais au juste si les nouvelles sont bonnes ou mauvaises... Il paraît que Sa Sainteté a passé une assez pénible nuit, et je fais des voeux pour que la nuit prochaine soit meilleure. »
+
+Un instant, il sembla se recueillir, puis, il ajouta :
+
+« Si, d'ailleurs, Dieu croyait l'heure venue de rappeler à lui Sa Sainteté, il ne laisserait pas son troupeau sans pasteur, il aurait déjà choisi et marqué le souverain pontife de demain. »
+
+Cette belle réponse accrut encore la joie de Prada.
+
+« Vraiment, l'abbé, vous êtes extraordinaire... Alors, vous pensez que les papes se font ainsi par la grâce de Dieu ? Le pape de demain est nommé là-haut, n'est-ce pas ? Et il attend, simplement. Je m'imaginais, moi, que les hommes se mêlaient un peu de l'affaire... Mais peut-être savez-vous déjà quel est le cardinal élu d'avance par la faveur divine ! »
+
+Et il continua ses plaisanteries faciles d'incroyant, qui laissaient du reste le prêtre dans un calme parfait. Ce dernier finit même par rire, lui aussi, lorsque le comte, faisant allusion à l'ancienne passion que le peuple joueur de Rome mettait, lors de chaque conclave, à parier sur l'élu probable, lui dit qu'il y aurait là, pour lui, une fortune à gagner, s'il était dans le secret de Dieu. Puis, il fut question des trois soutanes blanches, de trois grandeurs différentes qui attendaient dans une armoire du Vatican, toujours prêtes serait-ce cette fois la petite, la grande, ou la moyenne qu'on emploierait ? À la moindre maladie sérieuse du pape régnant, c était ainsi une émotion extraordinaire, un réveil aigu de toutes les ambitions, de toutes les intrigues, à ce point que, non seulement dans le monde noir, mais encore dans la ville entière, il n'y avait plus d'autre curiosité, d'autre entretien, d'autre occupation, que pour discuter les titres des cardinaux et pour prédire celui qui l'emporterait.
+
+« Voyons, voyons, reprit Prada, puisque vous savez, vous, je veux absolument que vous me disiez... Sera-ce le cardinal Moretta ? »
+
+Santobono, malgré son évidente volonté de rester digne et désintéressé, en bon prêtre pieux, se passionnait peu à peu, cédait à sa flamme intérieure. Et cet interrogatoire l'acheva, il ne put se contenir davantage.
+
+« Moretta, allons donc ! Il est vendu à toute l'Europe !
+
+--- Sera-ce le cardinal Bartolini ?
+
+--- Vous n'y pensez pas !... Bartolini ! Mais il s'est usé à tout vouloir et à ne jamais rien obtenir !
+
+--- Alors, sera-ce le cardinal Dozio ?
+
+--- Dozio, Dozio ! Ah ! Si Dozio l'emportait, ce serait à désespérer de notre sainte Église, car il n'y a pas d'esprit plus bas ni plus méchant ! »
+
+Prada leva les mains, comme s'il était à bout de candidats sérieux. Il mettait un malin plaisir à ne pas nommer le cardinal Sanguinetti, le candidat certain du curé, pour exaspérer celui-ci davantage. Puis, soudain, il parut avoir trouvé, il s'écria gaiement :
+
+« Ah ! J'y suis, je connais votre homme... Le cardinal Boccanera ! »
+
+Du coup, Santobono fut touché en plein coeur, dans sa rancune, dans sa foi de patriote. Déjà, sa bouche terrible s'ouvrait, il allait crier non, non ! De toute sa force. Mais il parvint à retenir le cri, réduit au silence, avec son cadeau sur les genoux, ce petit panier de figues, que ses deux mains serrèrent, à le briser ; et l'effort qu'il dut faire, le laissa si frémissant, qu'il fut forcé d'attendre, avant de répondre d'une voix calmée :
+
+« Son Eminence Révérendissime le cardinal Boccanera est un saint homme, digne du trône, et je craindrais seulement qu'il n'apportât la guerre, dans sa haine contre notre Italie nouvelle. »
+
+Mais Prada voulut aggraver la blessure.
+
+« Enfin, celui-ci, vous l'acceptez, vous l'aimez trop pour ne pas vous réjouir de ses chances. Et je crois que, cette fois, nous sommes dans le vrai, car tout le monde est convaincu que le conclave n'en peut nommer un autre... Allons, il est très grand, ce sera la grande soutane blanche qui servira.
+
+--- La grande soutane, la grande soutane, gronda Santobono sourdement et comme malgré lui, à moins pourtant... »
+
+Il n'acheva pas, de nouveau vainqueur de sa passion. Et Pierre, qui écoutait en silence, s'émerveilla, car il se rappelait la conversation qu'il avait surprise, chez le cardinal Sanguinetti. Evidemment, les figues n'étaient qu'un prétexte pour forcer la porte du palais Boccanera, où quelque familier, l'abbé Paparelli sans doute, pouvait seul donner des renseignements certains à son ancien camarade. Mais quel empire cet exalté avait sur lui-même, dans les mouvements les plus désordonnés de son âme !
+
+Aux deux côtés de la route, la Campagne continuait à dérouler à l'infini ses nappes d'herbe, et Prada regardait sans voir, devenu sérieux et songeur. Il acheva tout haut ses réflexions.
+
+« Vous savez ce qu'on dira, l'abbé, s'il meurt cette fois... Ça ne sent guère bon, ce brusque malaise, ces coliques, ces nouvelles qu'on cache... Oui, oui, le poison, comme pour les autres. »
+
+Pierre eut un sursaut de stupeur. Le pape empoisonné !
+
+« Comment ! Le poison, encore ! » cria-t-il.
+
+Santobono, la face devenue immobile, impénétrable, ne répondit pas. Mais Prada hocha la tête, et la conversation ne fut plus qu'entre lui et le jeune prêtre.
+
+« Eh ! Oui, le poison, encore... À Rome, la peur en est restée vivace et très grande. Dès qu'une mort y paraît inexplicable, trop prompte ou accompagnée de circonstances tragiques, la première pensée est unanime, tout le monde crie au poison, et remarquez qu'il n'est pas de ville, je crois, où les morts subites soient plus fréquentes, je ne sais au juste pour quelles causes, les fièvres, dit-on... Oui, oui, le poison avec toute sa légende, le poison qui tue comme la foudre et ne laisse pas de trace, la fameuse recette léguée d'âge en âge, sous les empereurs et sous les papes, et jusqu'à nos jours de bourgeoise démocratie. »
+
+Il finissait par sourire pourtant, un peu sceptique lui-même, dans sa terreur sourde, de race et d'éducation. Et il citait des faits. Les dames romaines se débarrassaient de leurs maris ou de leurs amants, en employant le venin d'un crapaud rouge. Plus pratique, Locuste s'adressait aux plantes, faisait bouillir une plante qui devait être l'aconit. Après les Borgia, la Toffana vendait, à Naples, dans des fioles décorées de l'image de saint Nicolas de Bari, une eau célèbre, à base d'arsenic sans doute. Et c'étaient encore des histoires extraordinaires, des épingles à la piqûre foudroyante, une coupe de vin qu'on empoisonnait en y effeuillant une rose, une bécasse qu'un couteau préparé partageait en deux et dont la moitié contaminée tuait l'un des deux convives.
+
+« Moi qui vous parle, j'ai eu, dans ma jeunesse, un ami dont la fiancée, à l'église, le jour du mariage, est tombée morte pour avoir simplement respiré un bouquet de fleurs... Alors, pourquoi ne voulez-vous pas que la fameuse recette se soit réellement transmise et reste connue de quelques initiés ?
+
+--- Mais, dit Pierre, parce que la chimie a fait trop de progrès. Si les anciens croyaient à des poisons mystérieux, c'était qu'ils manquaient de tout moyen d'analyse. Aujourd'hui, la drogue des Borgia mènerait droit en cour d'assises le naïf qui s'en servirait. Ce sont des contes à dormir debout, et c'est à peine si les bonnes gens les tolèrent encore dans les romans-feuilletons.
+
+--- Je veux bien, reprit le comte, avec son sourire gêné. Vous avez sans doute raison... Seulement, allez donc dire cela, tenez ! à votre hôte, au cardinal Boccanera, qui a tenu dans ses bras un vieil ami à lui, tendrement aimé, monsignore Gallo, mort l'été dernier, en deux heures.
+
+--- En deux heures, une congestion cérébrale suffit, et un anévrisme tue même en deux minutes.
+
+--- C'est vrai, mais demandez-lui ce qu'il a pensé devant les longs frissons, la face qui se plombait, les yeux qui se creusaient, ce masque d'épouvante où il ne retrouvait plus rien de son ami. Il en a la conviction absolue, monsignore Gallo a été empoisonné parce qu'il était son confident le plus cher, son conseiller toujours écouté, dont les sages avis étaient des garants de victoire. »
+
+L'ahurissement de Pierre avait grandi. Il s'adressa directement à Santobono, qui achevait de le troubler par son impassibilité irritante.
+
+« C'est imbécile, c'est effroyable, et vous aussi, monsieur le curé, vous croyez à ces affreuses histoires ? »
+
+Pas un poil du prêtre ne bougea. Il ne desserra pas ses grosses lèvres violentes, il ne détourna pas ses yeux de flamme noire, qu'il tenait fixés sur Prada. Celui-ci, d'ailleurs, continuait à donner des exemples. Et monsignore Nazzarelli, qu'on avait trouvé dans son lit, réduit et calciné comme un charbon ! Et monsignore Brando, frappé à Saint-Pierre même, pendant les vêpres, mort dans la sacristie, vêtu de ses habits sacerdotaux !
+
+« Ah ! Mon Dieu ! Soupira Pierre, vous m'en direz tant, que je finirai par trembler, moi aussi, et par ne plus oser manger que des oeufs à la coque, dans votre terrible Rome ! »
+
+Cette boutade les égaya un instant, le comte et lui. Et c'était vrai, une terrible Rome se dégageait de leur conversation, la ville éternelle du crime, du poignard et du poison, où, depuis plus de deux mille ans, depuis le premier mur bâti, la rage du pouvoir, l'appétit furieux de posséder et de jouir, avait armé les mains, ensanglanté le pavé, jeté des victimes au Tibre ou dans la terre. Assassinats et empoisonnements sous les empereurs, empoisonnements et assassinats sous les papes, le même flot d'abominations roulait les morts sur ce sol tragique, dans la gloire souveraine du soleil.
+
+« N'importe, reprit le comte, ceux qui prennent leurs précautions n'ont peut-être pas tort. On dit que plus d'un cardinal frissonne et se méfie. J'en sais un qui ne mange rien que des viandes achetées et préparées par son cuisinier. Et, quant au pape, s'il a des inquiétudes... »
+
+Pierre eut un nouveau cri de stupeur.
+
+« Comment, le pape lui-même ! Le pape a la crainte du poison !
+
+--- Eh oui ! Mon cher abbé, on le prétend du moins. Il est certainement des jours où il se voit le premier menacé. Ne savez-vous pas que l'ancienne croyance, à Rome, est qu'un pape ne doit pas vivre trop vieux, et que, lorsqu'il s'entête à ne pas mourir à temps, on l'aide ? Sa place est naturellement au Ciel, dès qu'un pape tombe en enfance, devient une gêne, même un danger pour l'Église par sa sénilité. Les choses, d'ailleurs, sont faites très proprement, le moindre rhume est le prétexte décent pour qu'il ne s'oublie pas davantage sur le trône de Saint-Pierre. »
+
+À ce propos, il ajouta de curieux détails. Un prélat, disait-on, voulant calmer les craintes de Sa Sainteté, avait imaginé tout un système de précautions, entre autres une petite voiture cadenassée pour les provisions destinées à la table pontificale, très frugale du reste. Mais cette voiture était restée à l'état de simple projet.
+
+« Et puis, quoi ? finit-il par conclure en riant, il faut bien mourir un jour, surtout lorsque c'est pour le bien de l'Église... N'est-ce pas, l'abbé ? »
+
+Depuis un instant, Santobono, dans son immobilité, avait baissé les regards, comme s'il eût examiné sans fin le petit panier de figues, qu'il tenait sur ses genoux avec tant de précautions, tel qu'un saint sacrement. Interpellé d'une façon si directe et si vive, il ne put éviter de relever les yeux. Mais il ne sortit pas de son grand silence, il se contenta d'incliner longuement la tête.
+
+« N'est-ce pas, l'abbé, répéta Prada, que c'est Dieu seul, et non le poison, qui fait mourir ?... On raconte que telle a été la dernière parole du pauvre monsignore Gallo, quand il a expiré dans les bras de son ami, le cardinal Boccanera. »
+
+Une seconde fois, sans parler, Santobono inclina la tête. Et tous trois se turent, songeurs.
+
+La voiture roulait, roulait sans cesse par l'immensité nue de la Campagne. Toute droite, la route paraissait aller à l'infini. À mesure que le soleil descendait vers l'horizon, des jeux d'ombre et de lumière marquaient davantage les vastes ondulations des terrains, qui se succédaient ainsi, d'un vert-rose et d'un gris violâtre, jusqu'aux bords lointains du ciel. Le long de la route, à droite, à gauche, il n'y avait toujours que de grands chardons séchés, des fenouils géants aux ombelles jaunes. Puis, ce fut encore, à un moment, un attelage de quatre boeufs, attardés dans un labour, s'enlevant en noir sur l'air pâle, d'une extraordinaire grandeur, au milieu de la morne solitude. Plus loin, des moutons en tas, dont le vent apportait l'âpre odeur de suint, tachaient de brun les herbes reverdies ; tandis qu'un chien, parfois, aboyait, seule voix distincte, dans le sourd frisson de ce désert silencieux, où semblait régner la paix souveraine des morts. Mais il y eut un chant léger, des alouettes s'envolaient, une d'elles monta très haut, tout en haut du ciel d'or limpide. Et, en face, au fond de ce ciel pur, cristal limpide, Rome de plus en plus grandissait, avec ses tours et ses dômes, ainsi qu'une ville de marbre blanc, qui naîtrait d'un mirage parmi les verdures d'un jardin enchanté.
+
+« Matteo, cria Prada à son cocher, arrête-nous à l'Osteria Remaria. »
+
+Et, s'adressant à ses compagnons :
+
+« Je vous prie de m'excuser, je vais voir s'il n'y a pas des oeufs frais pour mon père. Il les adore. »
+
+On arrivait, et la voiture s'arrêta. C'était, au bord même de la route, une sorte d'auberge primitive, au nom sonore et fier : Antica Osteria Romana, simple relais pour les charretiers, où les chasseurs seuls se hasardaient à boire une carafe de vin blanc, en mangeant une omelette et un morceau de jambon. Pourtant, le dimanche parfois, le petit peuple de Rome poussait jusque-là, venait s'y réjouir. Mais, en semaine, dans l'immense Campagne, nue, des journées s'écoulaient, sans qu'une âme y entrât. Déjà le comte sautait lestement de la voiture, en disant :
+
+« J'en ai pour une minute, je reviens tout de suite. »
+
+L'osteria ne se composait que d'une longue construction basse à un seul étage, et l'on montait à cet étage par un escalier extérieur fait de grosses pierres, que les grands soleils avaient cuites. Toute la bâtisse, d'ailleurs, était fruste, couleur de vieil or. Il y avait au rez-de-chaussée, une salle commune, une remise, une écurie des hangars. À côté, près d'un bouquet de pins parasols, l'arbre unique qui poussait dans le sol ingrat, se trouvait une tonnelle en roseaux, sous laquelle étaient rangées cinq ou six tables de bois, équarries à coups de hache. Et, comme fond à ce coin de vie pauvre et morne, se dressait, derrière, un fragment d'aqueduc antique dont les arches béantes sur le vide, écroulées à demi, coupaient seules la ligne plate de l'horizon sans bornes.
+
+Mais le comte revint brusquement sur ses pas.
+
+« Dites donc, l'abbé, vous accepterez bien un verre de vin blanc. Je sais que vous êtes un peu vigneron, et il y a ici un petit vin qu'il faut connaître. »
+
+Santobono, sans se faire prier, tranquillement, descendit à son tour.
+
+« Oh ! Je le connais, je le connais. C'est un vin de Marino, qu'on récolte dans une terre plus maigre que nos terres de Frascati. »
+
+Et, comme il ne lâchait toujours pas son panier de figues, l'emportant avec lui, le comte s'impatienta.
+
+« Voyons, vous n'en avez pas besoin, laissez-le donc dans la voiture ! »
+
+Le curé ne répondit pas, marcha devant, tandis que Pierre se décidait aussi à descendre curieux de voir une osteria, une de ces guinguettes du petit peuple, dont on lui avait parlé.
+
+Prada était connu, tout de suite une vieille femme s'était montrée, grande, sèche d'allure royale dans sa misérable jupe. La dernière fois, elle avait fini par trouver une demi-douzaine d'oeufs frais ; et, cette fois, elle allait voir, sans rien promettre d'avance ; car elle ne savait jamais, les poules pondaient au hasard, dans tous les coins.
+
+« Bon, bon ! Voyez cela, on va nous servir une carafe de vin blanc. »
+
+Tous trois entrèrent dans la salle commune. La nuit y était déjà noire. Bien que la saison chaude fût passée, on y entendait, dès le seuil, le ronflement sourd du vol des mouches. Une odeur âcre de vin aigrelet et d'huile rance prenait à la gorge. Et, dès que leurs yeux se furent un peu accoutumés, ils purent distinguer la vaste pièce, noircie, empuantie, meublée simplement de bancs et de tables, en gros bois, à peine raboté. Elle semblait vide, tellement le silence y était absolu, sous le vol des mouches. Il y avait pourtant là deux hommes, deux passants, immobiles et muets, devant leurs verres pleins. Sur une chaise basse, près de la porte, dans le peu de jour qui entrait, la fille de la maison, une maigre fille jaune, tremblait de fièvre, les deux mains serrées entre les genoux, oisive.
+
+En sentant le malaise de Pierre, le comte proposa de se faire servir dehors.
+
+« Nous serons beaucoup mieux, il fait si doux ! »
+
+Et la fille, pendant que la mère cherchait les oeufs et que le père, sous un hangar voisin, raccommodait une roue, dut se lever en grelottant, pour porter la carafe de vin et les trois verres sur une des tables de la tonnelle. Elle empocha les six sous de la carafe, elle retourna s'asseoir, sans une parole, l'air maussade d'avoir été forcée de faire un tel voyage.
+
+Gaiement, lorsque tous trois se furent attablés, Prada emplit les verres, malgré les supplications de Pierre, incapable, disait-il, de boire ainsi du vin entre ses repas.
+
+« Bah ! Bah ! Vous trinquerez toujours... N'est-ce pas, l'abbé, qu'il est amusant, ce petit vin ?... Voyons, à la santé du pape, puisqu'il est souffrant ! »
+
+« Mon Dieu ! Qu'on est bien ! murmura Pierre gagné par ce charme. Et quel désert d'éternel repos, pour y oublier le reste du monde ! »
+
+Mais Prada, qui avait vidé la carafe, en remplissant de nouveau le verre du curé, s'amusait fort, sans rien dire, d'une aventure, qu'il fut d'abord seul à remarquer. Il avertit le jeune prêtre d'un coup d'oeil de gaie complicité ; et, dès lors, tous deux en suivirent les péripéties dramatiques. Quelques poules maigres erraient autour d'eux, dans l'herbe roussie, en quête des sauterelles. Or, une de ces poules, une petite poule noire, fine et luisante, d'une grande effronterie, ayant aperçu le panier de figues, par terre, s'en approchait avec hardiesse. Pourtant, quand elle fut tout près, elle prit peur, recula. Elle raidissait le cou, tournait la tête, dardait la braise de son oeil rond. Enfin, la passion fut la plus forte ; et, comme une figue se montrait entre deux feuilles, elle s'avança sans hâte, en levant les pattes très haut ; et, brusquement, elle allongea un grand coup de bec, elle troua la figue, qui saigna.
+
+Prada, heureux comme un enfant, put lâcher l'éclat de rire qu'il avait contenu à grand-peine.
+
+« Attention ! L'abbé, gare à vos figues ! »
+
+Justement, Santobono achevait son second verre, la tête renversée, les yeux au ciel, dans une béate satisfaction. Il eut un sursaut, regarda, comprit en voyant la poule. Et ce fut tout un éclat de colère, de grands gestes, des invectives terribles. Mais la poule, qui donnait à ce moment un autre coup de bec, ne lâcha pas, piqua la figue, l'emporta, les ailes battantes, si prompte et si comique, que Prada et Pierre lui-même rirent aux larmes, devant la fureur impuissante de Santobono, qui la poursuivit un instant en la menaçant du poing.
+
+« Voilà ce que c'est que de ne pas avoir laissé le panier dans la voiture, dit le comte. Si je ne vous avais pas prévenu, la poule mangeait tout. »
+
+Sans répondre, grondant encore de sourdes imprécations, le curé avait posé le panier sur la table ; et il souleva les feuilles rangea de nouveau les figues avec art, pour combler le trou ; puis les feuilles replacées, le mal réparé, il se calma.
+
+Il était temps de repartir, le soleil s'abaissait à l'horizon, la nuit était proche. Aussi le comte finit-il par s'impatienter.
+
+« Eh bien ! Et ces oeufs ! »
+
+Et, ne voyant pas revenir la femme, il se mit à sa recherche. Il entra dans l'écurie, visita ensuite la remise. La femme ne s'y trouvait point. Alors, il passa derrière la maison, pour jeter un coup d'oeil sous les hangars. Mais, là, tout d'un coup, une chose inattendue l'arrêta net. Par terre, la petite poule noire gisait foudroyée, morte. Elle n'avait au bec qu'un mince flot de sang violâtre, et qui coulait encore.
+
+D'abord, il ne fut qu'étonné. Il se baissa, la toucha. Elle était tiède, souple et molle telle qu'un chiffon. Sans doute un coup de sang. Puis, aussitôt, il devint affreusement pâle, la vérité l'envahissait, le glaçait. Comme dans un éclair, il évoquait Léon XIII malade, Santobono courant aux nouvelles chez le cardinal Sanguinetti, partant ensuite pour Rome faire cadeau du panier de figues au cardinal Boccanera. Et il se rappelait la conversation depuis Frascati, la mort éventuelle du pape, les candidats possibles à la tiare, les histoires légendaires de poison qui terrorisaient encore les alentours du Vatican, et il revoyait le curé avec son petit panier sur les genoux, plein de soins paternels ; et il revoyait la petite poule noire piquant dans le panier, se sauvant avec une figue au bec. La petite poule était là, morte, foudroyée.
+
+Sa conviction fut immédiate, absolue. Mais il n'eut pas même le temps de se demander ce qu'il allait faire. Une voix, derrière lui, se récriait.
+
+« Tiens ! C'est la petite poule, qu'a-t-elle donc ? » C'était Pierre qui, laissant remonter Santobono en voiture avait fait, lui aussi, le tour de la maison, pour regarder de plus près le fragment d'aqueduc, à demi écroulé parmi les pins parasols.
+
+Prada, frémissant comme s'il était le coupable, répondit par un mensonge, sans l'avoir prémédité, cédant à une sorte d'instinct.
+
+« Mais elle est morte... Imaginez-vous qu'il y a eu bataille. Au moment où j'arrivais, cette autre poule que vous apercevez là-bas, s'est jetée sur celle-ci pour avoir la figue qu'elle tenait encore, et lui a, d'un coup de bec, défoncé le crâne... Vous voyez bien, le sang coule. »
+
+Pourquoi disait-il ces choses ? Il s'étonnait lui-même en les inventant. Voulait-il donc rester maître de la situation, n'être avec personne dans l'abominable confidence, pour agir ensuite à son gré ? C'était à la fois une gêne honteuse devant un étranger, un goût personnel de la violence qui mêlait de l'admiration à sa révolte d'honnête homme, un sourd besoin d'examiner la chose au point de vue de son intérêt personnel, avant de prendre un parti. Honnête homme, il l'était, il n'allait sûrement pas laisser empoisonner les gens.
+
+Pierre, pitoyable aux bêtes, regardait la poule avec la petite émotion que lui causait la brusque suppression de toute vie. Et il accepta très naturellement l'histoire.
+
+« Ah ! Ces poules, elles sont entre elles d'une férocité imbécile que les hommes ont à peine égalée ! J'avais un poulailler chez moi, et une d'elles ne pouvait se blesser à la patte, sans que toutes les autres, en voyant perler le sang, vinssent la piquer et la manger jusqu'à l'os. »
+
+Tout de suite, Prada s'éloigna, et, justement, la femme le cherchait de son côté, pour lui remettre quatre oeufs, qu'elle avait dénichés à grand-peine, dans les coins de la maison. Il se hâta de les payer, rappela Pierre qui s'attardait.
+
+« Dépêchons, dépêchons ! Maintenant, nous ne serons plus à Rome qu'à la nuit noire. »
+
+Dans la voiture, ils retrouvèrent Santobono, qui attendait tranquillement. Il avait repris sa place sur le strapontin, l'échine fortement appuyée contre le siège du cocher, ses grandes jambes ramenées sous lui ; et il tenait de nouveau, sur ses genoux, le petit panier de figues, si coquettement arrangé, qu'il protégeait de ses grosses mains noueuses, comme une chose rare et fragile, que le moindre cahot des roues aurait pu endommager. Sa soutane faisait une grande tache sombre. Dans sa face épaisse et terreuse de paysan resté près de la sauvage terre, mal dégrossi par ses quelques années d'études théologiques, ses yeux seuls semblaient vivre, d'une flamme noire, dévorante de passion.
+
+En l'apercevant si carrément installé, si calme, Prada avait eu un petit frisson. Puis, dès que la victoria se fut remise à rouler, par la route toute droite et sans fin :
+
+« Eh bien ! L'abbé, voilà un coup de vin qui va nous protéger du mauvais air. Si le pape pouvait faire comme nous, ça le guérirait sûrement de ses coliques. »
+
+Mais Santobono, pour toute réponse, ne lâcha qu'un sourd grondement. Il ne voulait plus parler, il s'enferma dans un absolu silence, comme envahi par la nuit lente qui tombait. Et Prada se tut à son tour, les yeux fixés sur lui, en se demandant ce qu'il allait faire.
+
+La route tournait puis la voiture roula, roula encore, sur une chaussée interminable, dont le pavé blanc semblait filer à l'infini, d'un trait. Maintenant, cette blancheur de la route prenait une sorte de lumière, déroulait un ruban de neige, tandis que la Campagne immense, aux deux bords, se noyait peu à peu d'une ombre fine. Dans les creux des vastes ondulations, les ténèbre s'amassaient, une marée violâtre semblait s'en épandre, recouvrant partout de son flot l'herbe rase, élargissant la plaine à perte de vue telle qu'une mer déteinte. Tout se confondait, ce n'était plus que la houle indistincte et neutre, d'un bout de l'horizon à l'autre. Et le désert s'était vidé encore, une dernière charrette indolente venait de passer, un dernier tintement de clochettes claires s'éteignait au loin ; plus un passant, plus une bête, la mort des couleurs et des sons, toute vie tombant au sommeil, à la paix sereine du néant. À droite, des fragments d'aqueduc continuaient à se montrer de place en place, pareils à des tronçons de mille-pattes géants, que la faux des siècles aurait coupés ; puis, ce fut, à gauche, une nouvelle tour, dont la haute ruine sombre barra le ciel d'un pieu noir ; et d'autres morceaux d'aqueduc franchirent la route prirent de ce côté une valeur démesurée, en se détachant sur le coucher du soleil. Ah ! L'heure unique, l'heure du crépuscule dans la Campagne romaine, quand tout s'y noie et s'y résume, l'heure de l'immensité nue, de l'infini dans la simplicité ! Il n'y a rien, rien que la ligne ronde et plate de l'horizon, rien que la tache d'une ruine, isolée, debout, et ce rien est d'une majesté, d'une grandeur souveraines.
+
+Mais le soleil se couchait, là-bas, à gauche, vers la mer. Dans le ciel limpide, il descendait, tel qu'un globe de braise, d'un rouge aveuglant. Il plongea lentement derrière l'horizon, et il n'y eut d'autres nuages que quelques vapeurs d'incendié, comme si la mer lointaine eût bouillonné soudain, sous la flamme de cette royale visite. Tout de suite, quand il eut disparu, ce coin du ciel s'empourpra d'une mare de sang, tandis que la Campagne devenait grise. Il n'y avait plus, au bout de la plaine décolorée, que ce lac de pourpre, dont on voyait le brasier peu à peu mourir, derrière les arches noires des aqueducs ; et, de l'autre côté, les autres arches éparses, restées roses, s'enlevaient en clair sur le ciel couleur d'étain. Puis, les vapeurs d'incendié se dissipèrent, le couchant finit par s'éteindre, dans une grande mélancolie farouche. Au firmament apaisé, devenu de cendre bleue, les étoiles s'allumaient une à une, pendant que les lumières de Rome encore lointaine, au ras de l'horizon, en face, scintillaient pareilles à des phares.
+
+Et Prada, dans le silence songeur de ses deux compagnons, au milieu de l'infinie tristesse du soir, envahi lui-même d'une détresse indicible, continuait à se questionner, à se demander ce qu'il allait faire. Ses yeux n'avaient pas quitté Santobono, dont la figure se noyait de nuit, mais si tranquille, abandonnant son grand corps au balancement de la voiture. Il se répétait qu'il ne pouvait laisser empoisonner ainsi les gens. Les figues étaient sûrement destinées au cardinal Boccanera, et peu lui importait en somme un cardinal de plus ou de moins, un pape possible dont l'action historique future était difficile à prévoir. Dans son âpre conception de conquérant, tout à la lutte pour la vie, le mieux lui avait toujours semblé de laisser faire le destin, sans compter qu'il ne voyait aucun mal à ce que le prêtre mangeât le prêtre, ce qui égayait son athéisme. Il songea aussi qu'il pouvait être dangereux d'intervenir dans cette abominable affaire, au fond des basses intrigues, louches et insondables, du monde noir. Mais le cardinal n'était pas seul au palais Boccanera : les figues ne pouvaient-elles se tromper d'adresse, aller à d'autres personnes, qu'on ne voulait pas atteindre ? Cette idée de révoltant hasard, maintenant, le hantait. Et, sans qu'il voulût y arrêter sa pensée, les visages de Benedetta et de Dario s'étaient dressés devant lui, revenaient malgré son effort pour ne pas les voir, s'imposaient. Si Benedetta, si Dario mangeaient de ces fruits ? Benedetta, il l'écarta tout de suite, car il savait qu'elle faisait table à part avec sa tante, qu'il n'y avait rien de commun entre les deux cuisines. Mais Dario déjeunait chaque jour avec son oncle. Un instant, il vit Dario pris d'un spasme, tomber entre les bras du cardinal, comme le pauvre monsignore Gallo, la face grise, les yeux creux, foudroyé en deux heures.
+
+Non, non ! Cela était affreux, il ne pouvait permettre une abomination pareille. Alors, son parti fut arrêté. Il allait attendre que la nuit fût complète ; et, tout simplement, il prendrait le panier sur les genoux du curé, il le jetterait à la volée dans quelque trou d'ombre, sans dire un mot. Le curé comprendrait. L'autre, le jeune prêtre, ne s'apercevrait peut-être pas de l'aventure. D'ailleurs, peu importait, car il était bien décidé à ne pas même expliquer son acte. Et il se sentit tout à fait calmé, lorsque l'idée lui vint de jeter le panier, au moment où la voiture passerait sous la porte Furba, quelques kilomètres avant Rome. Dans les ténèbres de la porte, ce serait très bien, on ne pourrait rien voir.
+
+« Nous nous sommes attardés, nous ne serons guère à Rome avant six heures, reprit-il tout haut, en se tournant vers Pierre. Mais vous aurez le temps d'aller vous habiller et de rejoindre votre ami. »
+
+Et, sans attendre la réponse, il s'adressa à Santobono :
+
+« Vos figues arriveront bien tard.
+
+--- Oh ! dit le curé, Son Eminence reçoit jusqu'à huit heures Et puis, ce n'est pas pour ce soir, les figues ! On ne mange pas de figues le soir. Ce sera pour demain matin. »
+
+Il retomba dans son silence, il ne parla plus.
+
+« Pour demain matin, oui, oui ! Sans doute, répéta Prada. Et le cardinal pourra vraiment s'en régaler, si personne ne l'aide. »
+
+Pierre, étourdiment, donna alors une nouvelle qu'il savait.
+
+« Il sera sans doute seul à les manger, car son neveu, le prince Dario, a dû partir aujourd'hui pour Naples, un petit voyage de convalescence, après l'accident qui l'a tenu au lit pendant un grand mois. »
+
+Brusquement, il s'arrêta, en songeant à qui il parlait. Mais le comte avait remarqué sa gêne.
+
+« Allez, allez, mon cher monsieur Froment, vous ne me faites aucune peine. C'est déjà très ancien... Et il est parti, ce jeune homme, dites-vous ?
+
+--- Oui, à moins qu'il n'ait remis son départ. Je m'attends à ne pas le retrouver au palais. »
+
+Pendant un instant, on n'entendit plus, de nouveau, que le roulement continu des roues. Et Prada se taisait, repris de trouble, rendu au malaise de son incertitude. Si pourtant Dario n'était pas là, de quoi allait-il se mêler ? Toutes ces réflexions lui fatiguaient le crâne, et il finit par penser tout haut.
+
+Sa voix était devenue un peu rauque, on sentait la vieille blessure se rouvrir et saigner, la plaie faite à son orgueil d'homme par cette femme qui était sienne et qui s'était refusée, en se réservant pour un autre. Son amie Lisbeth avait eu beau lui donner un enfant, l'accusation d'impuissance, l'outrage à sa virilité, renaissait sans cesse, lui gonflait le coeur d'aveugles colères. Il eut un violent et brusque frisson, comme si tout un grand souffle glacé lui eût traversé la chair ; et, détournant l'entretien, il ajouta tout à coup :
+
+« Il ne fait vraiment pas chaud, ce soir... Voici l'heure mauvaise, à Rome, l'heure de la tombée du jour, où l'on empoigne très bien une bonne fièvre, si l'on ne se méfie pas... Tenez ! Ramenez la couverture sur vos jambes, enveloppez-vous soigneusement. »
+
+Puis, comme on approchait de la porte Furba, le silence se fit encore, plus lourd, pareil au sommeil invincible qui endormait la Campagne, submergée dans la nuit. Enfin, la porte apparut, à la clarté des étoiles vives. Et elle n'était autre qu'une arcade de l'Aqua Felice sous laquelle passait la route. Ce débris d'aqueduc semblait, de foin, barrer le passage de sa masse énorme de vieux murs à demi écroulés. Ensuite, l'arche géante, toute noire d'ombrer se creusait, telle qu'un porche béant. Et l'on passait en pleines ténèbres, dans le roulement plus sonore des roues.
+
+Lorsqu'on fut de l'autre côté, Santobono avait toujours sur les genoux le petit panier de figues, et Prada le regardait, bouleversé, se demandant par quelle subite paralysie de ses deux mains, il ne l'avait pas saisi, jeté aux ténèbres. Cependant, il y était décidé encore, quelques secondes avant de pénétrer sous la voûte. Il l'avait même regardé une dernière fois, pour bien calculer le mouvement qu'il aurait à faire. Que venait-il donc de se passer en lui ? Et il se sentait en proie à une indécision grandissante, incapable désormais de vouloir un acte définitif, ayant le besoin d'attendre, dans l'idée sourde de se satisfaire pleinement et avant tout. Pourquoi se serait-il pressé maintenant, puisque Dario était sans doute parti et puisque ces figues ne seraient sûrement pas mangées avant le lendemain ? Le soir même, il devait apprendre si la congrégation du Concile avait annulé son mariage, il saurait jusqu'à quel point la justice de Dieu était vénale et mensongère. Certes, il ne laisserait empoisonner personne, pas même le cardinal Boccanera, dont l'existence, cependant, lui importait si peu. Mais, depuis le départ de Frascati, n'était-ce pas le destin en marche que ce petit panier ? Ne cédait-il pas à une jouissance d'absolu pouvoir, en se disant qu'il était le maître de l'arrêter ou de lui permettre d'aller jusqu'au bout de son oeuvre de mort ? Et, d'ailleurs, il s'abandonnait à la plus obscure des luttes, il ne raisonnait pas, les mains liées au point de ne pouvoir agir autrement, convaincu qu'il irait glisser une lettre d'avertissement dans la boîte aux lettres du palais, avant de se mettre au lit, tout en étant heureux de penser que, si pourtant il avait intérêt à ne pas le faire, il ne le ferait pas.
+
+Alors, le reste de la route s'acheva, au milieu de ce silence las, dans le frisson du soir, qui semblait avoir glacé les trois hommes. Vainement, le comte, pour échapper au combat de ses réflexions, revint sur le gala des Buongiovanni, donnant des détails, décrivant les splendeurs auxquelles on allait assister : ses paroles tombaient rares, gênées et distraites. Puis, il s'efforça de réconforter Pierre, de le rendre à son espoir, en lui reparlant du cardinal Sanguinetti, si aimable, si plein de promesses ; et, bien que le jeune prêtre rentrât très heureux, dans l'idée que son livre n'était pas condamné encore et qu'il triompherait peut-être, si on l'aidait, il répondit à peine, tout à sa rêverie. Santobono ne parla pas, ne bougea pas, comme disparu, noir dans la nuit noire. Et les lumières de Rome s'étaient multipliées, des maisons avaient reparu, à droite, à gauche d'abord espacées largement, peu à peu ininterrompues. C'était le faubourg, des champs de roseaux encore, des haies vives, des oliviers dont la tête dépassait les longs murs de clôture, de grands portails aux piliers surmontés de vases, enfin la ville, avec ses rangées de petites maisons grises, de commerces pauvres, de cabarets borgnes, d'où sortaient parfois des cris et des bruits de bataille.
+
+Prada voulut absolument conduire ses compagnons rue Giulia, à cinquante mètres du palais.
+
+« Cela ne me gêne pas, et d'aucune façon, je vous assure... Voyons, vous ne pouvez achever la route à pied, pressés comme vous l'êtes ! »
+
+Déjà, la rue Giulia dormait dans sa paix séculaire, absolument déserte, d'une mélancolie d'abandon, avec la double file morne de ses becs de gaz. Et, dès qu'il fut descendu de voiture, Santobono n'attendit pas Pierre, qui, d'ailleurs, passait toujours par la petite porte, sur la ruelle latérale.
+
+« Au revoir, l'abbé.
+
+--- Au revoir, monsieur le comte. Mille grâces ! » Alors, tous deux purent le suivre du regard jusqu'au palais Boccanera, dont la vieille porte monumentale, noire d'ombre, était encore grande ouverte. Un instant, ils virent sa haute taille rugueuse qui barrait cette ombre. Puis, il entra, il s'engouffra avec son petit panier, portant le destin.

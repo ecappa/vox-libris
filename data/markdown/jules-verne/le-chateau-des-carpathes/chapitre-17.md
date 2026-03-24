@@ -1,0 +1,45 @@
+]{.calibre20}
+
+
+LE CHÂTEAU DES CARPATHES
+
+
+]{.calibre20}
+
+## []{#_Toc349730855 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730508 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730059 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729580 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729131 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728652 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728203 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727616 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727137 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726688 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726209 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725862 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725515 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725168 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349724821 .pcalibre .pcalibre4 .pcalibre3}[Chapitre 17]{#_Toc349724372 .pcalibre .pcalibre4 .pcalibre3} {#calibre_toc_192 .calibre21}
+
+On ne l'a point oublié, en se reportant à la conversation du baron et de Orfanik, l'explosion ne devait détruire le château qu'après le départ de Rodolphe de Gortz. Or, au moment où cette explosion s'était produite, il était impossible que le baron eût eu le temps de s'enfuir par le tunnel sur la route du col. Dans l'emportement de la douleur, dans la folie du désespoir, n'ayant plus conscience de ce qu'il faisait, Rodolphe de Gortz avait-il provoqué une catastrophe immédiate dont il devait avoir été la première victime ? Après les incompréhensibles paroles qui lui étaient échappées, au moment où la balle de Rotzko venait de briser la boîte qu'il emportait, avait-il voulu s'ensevelir sous les ruines du burg ?
+
+!{#Image13 .calibre541}
+
+En tout cas, il fut très heureux que les agents, surpris par le coup de fusil de Rotzko, se trouvassent encore à une certaine distance, lorsque l'explosion ébranla le massif. C\'est à peine si quelques-uns furent atteints par les débris qui tombèrent au pied du plateau d'Orgall. Seuls, Rotzko et le forestier étaient alors au bas de la courtine, et, en vérité, ce fut miracle qu'ils n'eussent pas été écrasés sous cette pluie de pierres.
+
+L\'explosion avait donc produit son effet, lorsque Rotzko, Nic Deck et les agents parvinrent, sans trop de peine, à franchir l'enceinte, en remontant le fossé, qui avait été à demi comblé par le renversement des murailles.
+
+Cinquante pas au-delà de la courtine, un corps fut relevé au milieu des décombres, à la base du donjon.
+
+C\'était celui de Rodolphe de Gortz. Quelques anciens du pays --- entre autres maître Koltz --- le reconnurent sans hésitation.
+
+Quant à Rotzko et à Nic Deck, ils ne songeaient qu'à retrouver le jeune comte. Puisque Franz n'avait pas reparu dans les délais convenus entre son soldat et lui, c'est qu'il n'avait pu s'échapper du château.
+
+Mais Rotzko n'osait espérer qu'il eût survécu, qu'il ne fût pas une victime de la catastrophe ; aussi, pleurait-il à grosses larmes, et Nic Deck ne savait comment le calmer.
+
+Cependant, après une demi-heure de recherches, le jeune comte fut retrouvé au premier étage du donjon, sous un arcboutement de la muraille, qui l'avait empêché d'être écrasé.
+
+« Mon Maître\... mon pauvre maître\...
+
+--- Monsieur le comte\... »
+
+Ce furent les premières paroles que prononcèrent Rotzko et Nic Deck, lorsqu'ils se penchèrent sur Franz. Ils devaient le croire mort, il n'était qu'évanoui.
+
+Franz rouvrit les yeux ; mais son regard sans fixité ne semblait ni reconnaître Rotzko ni l'entendre.
+
+Nic Deck, qui avait soulevé le jeune comte dans ses bras, lui parla encore ; il ne fit aucune réponse.
+
+Ces derniers mots du chant de la Stilla s'échappaient seuls de sa bouche :
+
+
+*Innamorata\... Voglio morire\...*
+
+
+Franz de Télek était fou.

@@ -1,0 +1,119 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "THÉRÈSE RAQUIN",
+  "slug": "therese-raquin",
+  "nombre_chapitres": 37,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 843,
+      "spine_end_exclusive": 846,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_005.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_006.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Personnages",
+      "slug": "personnages",
+      "spine_start": 846,
+      "spine_end_exclusive": 847,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte I",
+      "slug": "acte-i",
+      "spine_start": 847,
+      "spine_end_exclusive": 860,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_009.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_010.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_011.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_012.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_013.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_014.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_015.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_016.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_017.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_018.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_019.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_020.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_021.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte II",
+      "slug": "acte-ii",
+      "spine_start": 860,
+      "spine_end_exclusive": 867,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_022.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_023.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_024.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_025.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_026.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_027.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_028.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte III",
+      "slug": "acte-iii",
+      "spine_start": 867,
+      "spine_end_exclusive": 874,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_029.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_030.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_031.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_032.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_033.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_034.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_035.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte IV",
+      "slug": "acte-iv",
+      "spine_start": 874,
+      "spine_end_exclusive": 882,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_036.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_037.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_038.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_039.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_040.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_041.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_042.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_043.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/therese-raquin/Zola2_image001.jpg",
+    "images/emile-zola/therese-raquin/Zola2_image002.jpg",
+    "images/emile-zola/therese-raquin/Zola2_image004.jpg",
+    "images/emile-zola/therese-raquin/Zola2_image005.png",
+    "images/emile-zola/therese-raquin/Zola2_image006.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image001.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image002.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image005.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image006.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image007.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image008.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image009.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image010.jpg",
+    "images/emile-zola/therese-raquin/Zola3_image011.jpg"
+  ]
+}

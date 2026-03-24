@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "POUR UNE NUIT D’AMOUR",
+  "slug": "pour-une-nuit-damour",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1211,
+      "spine_end_exclusive": 1212,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_221.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1212,
+      "spine_end_exclusive": 1213,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_222.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1213,
+      "spine_end_exclusive": 1214,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_223.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1214,
+      "spine_end_exclusive": 1215,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_224.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1215,
+      "spine_end_exclusive": 1216,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_225.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1216,
+      "spine_end_exclusive": 1218,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_226.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_227.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/pour-une-nuit-damour/Zola4_image018.jpg"
+  ]
+}

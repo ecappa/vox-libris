@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA MORT D’OLIVIER BÉCAILLE"
+slug_oeuvre: "la-mort-dolivier-becaille"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA MORT D'OLIVIER BÉCAILLE
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+La mort d'Olivier Bécaille est une nouvelle d'Émile Zola parue pour la première fois en 1884. Olivier Bécaille y raconte sa mort.

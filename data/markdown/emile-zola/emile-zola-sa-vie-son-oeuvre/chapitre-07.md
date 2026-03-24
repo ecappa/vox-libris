@@ -1,0 +1,599 @@
+::: WordSection
+[
+]{.calibre38}
+
+[]{#_Toc368331814 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368333950 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368336086 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368338222 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368340358 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368342496 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368344632 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368346768 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368348904 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368351040 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368353176 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368355312 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368357448 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368359584 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368361720 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368363856 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368365992 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368368128 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368370264 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368372400 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368374536 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368377604 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368379740 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368381876 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368384012 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368386148 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368388284 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368390420 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368392562 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368394698 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368396834 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368398970 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368401106 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368403242 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368405378 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368407514 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368409634 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368411770 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368413906 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368416042 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368418178 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368420314 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368422450 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368424586 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368426722 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368428858 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368430994 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368433130 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368435266 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368437402 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368439538 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368441674 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368443810 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368445946 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368448082 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368450218 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368452354 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368454490 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368456626 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368458762 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368460898 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368463034 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368465170 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368467306 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368469442 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368471578 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368473714 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368475850 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368477986 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368480122 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368482258 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368484394 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368486530 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368488666 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368490802 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368492938 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368495074 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368497210 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368499346 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368501482 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368503618 .pcalibre .calibre2 .pcalibre1}[!{.calibre30}]{.calibre29}[
+
+[ANNEXES]{.calibre29 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+[ÉMILE ZOLA: SA VIE, SON OEUVRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[Liste des annexes](../Text/Zola9_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre31 .calibre32 .sgc-1 lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre30}]{.calibre34}
+
+## []{#_Toc368920039 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368919954 .pcalibre .calibre2 .pcalibre1}[V -- (1887-1892)]{#_Toc368919918 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_27 .calibre35}
+
+*LA TERRE.* -- *LE MANIFESTE DES CINQ.* -- *LA BÊTE HUMAINE.* -- *LA DÉBÂCLE.* -- *LE DOCTEUR PASCAL.*
+
+
+*La Terre* fut publiée en 1887.
+
+C\'est, avec *l'Assommoir*, le livre de Zola qui a soulevé le plus de protestations ; une surtout fut retentissante, celle des « Cinq » qu\'on trouvera plus loin. Des critiques passionnées se produisirent, à l\'apparition de ce roman, qui n\'étaient pas toujours injustes. Là aussi, la trivialité du style choqua et motiva les haut-le-coeur. Les personnages de *la Terre*, comme ceux de *l'Assommoir*, s\'expriment en des termes crus qu\'ils ponctuent à la façon du père Duchesne. Peut-être le paysan n\'emploie-t-il pas couramment un vocabulaire aussi épicé. Il m\'a semblé, parmi les rustiques que j\'ai rencontrés, que, sauf dans la colère, au cabaret, ou aux champs avec des animaux rétifs ou vagabonds, le langage du cultivateur était plutôt réservé ; les phrases sont incorrectes, mais sans gros mots. L\'antique soumission au seigneur, aux gens du roi, aux propriétaires, a transmis aux gens de la terre cette modération du verbe.
+
+L\'auteur, en usant de verbes gros et de termes souvent orduriers, a voulu éveiller en nous l\'idée de la grossièreté paysanne. Ce n\'est pas la sténographie du discours qu\'on tient aux champs, ni la reproduction comme au phonographe des propos qu\'échangent les campagnards, mais seulement un procédé de rhétorique, un artifice d\'écrivain, destinés à nous donner la perception mentale des allures, du tour d\'esprit, de la pensée des rustiques. Et cette rhétorique rurale heurta, comme la faubourienne dans *l'Assommoir*, les oreilles sensibles et les esprits délicats. Mais ce qui nuisit le plus à *la Terre* dans l\'opinion générale, ce fut le personnage de Jésus-Christ. D\'abord le choix du nom semblait un défi à des sentiments, en somme respectables, et comme une bravade inutile.
+
+On peut être libre-penseur, anticlérical militant, ou athée convaincu, toute la gamme de l\'irréligion, sans pour cela tourner en dérision le nom des fondateurs de croyances. Bouddha, le Christ, Mahomet, Luther, Calvin peuvent être maudits, combattus, critiqués et dépouillés par la science de tout caractère surnaturel, mais, par leur génie, par leur action sur l\'humanité, et, pour quelques-uns, en considération des outrages et des supplices que leurs contemporains leur infligèrent, ils ont droit à une certaine déférence de la part des générations. On peut les nier, les proscrire de l\'enseignement et les bannir de la cité, mais poliment. Ce sobriquet de Jésus-Christ est, il est vrai, assez courant dans les campagnes. On le donne volontiers aux compagnons ayant de longs cheveux roulés, couleur acajou, le nez droit et la barbe blonde foncée, en pointe, d\'après l\'imagerie populaire des descentes de croix, bien que, dans la réalité, le Christ, étant né à Bethléem, d\'origine judéo-syrienne, dût avoir, comme tous ses compatriotes, les cheveux noirs, le teint bronzé, l\'aspect d\'un Arabe moderne. Zola assurément a rencontré un rustre barbu répondant à ce signalement légendaire et gratifié de ce surnom. Ce n\'était pas un motif suffisant pour l\'introduire dans son livre. Ce paysan se fût appelé Nicolas où Jean-Pierre, que le tableau de la vie rurale aurait eu le même coloris, la même vraisemblance.
+
+Mais, en passant condamnation sur ce nom fâcheusement choisi, il est difficile d\'admirer, au point de vue purement littéraire et naturaliste, la conception de ce Jésus-Christ, personnage flatueux. Il est véritablement un trop puissant Éole. L\'auteur semble l\'avoir pourvu, après coup, de ce talent spécial qu\'un monstrueux histrion a fait, tout un hiver, applaudir du public parisien.
+
+Le pétomane, dont Zola se fait le Barnum, ne révèle sa vocation qu\'à la page 314 du volume. Jusque là rien ne faisait prévoir ce déchaînement de sonorités intestinales. On avait, jusqu\'à ce point du récit, plusieurs fois aperçu, mais non entendu, le musical paysan ; toujours il s\'était retenu. Chez le notaire Baillehache, au marché, dans les scènes de partage et de chicane, il avait gardé un silence de bonne compagnie. Tout à coup il se lâche. L\'idée de faire pétarader Jésus-Christ dans son oeuvre a dû venir à Zola, non pas en écoutant le rossignol dans les arbres de Médan, mais probablement en regardant pousser les rames de haricots de son jardin.
+
+Étrangement, ce Jésus-Christ et ses sonorités fournissent à Zola le thème lyrique, le leitmotiv où sa virtuosité se manifeste, qu\'il a placé dans chacun de ses romans : ainsi se développent la marche des fromages du *Ventre de Paris*, le festin impérial de *la Curée,* les orages sur Paris de *la Page d'Amour*, la culbute réitérée des herscheuses dans les galeries et par les fossés de *Germinal* ; *la Terre* a la symphonie des crépitements.
+
+Rarement Zola a montré un lyrisme plus excessif. Cette constatation, souvent répétée dans ces pages, de son exubérante imagination, de sa méridionale, on pourrait dire marseillaise exagération, se trouve ici démontrée, sans atténuation.
+
+Zola ne s\'est pas contenté de pourvoir son tempétueux Jésus-Christ des outres d\'Éole, il l\'a aussi armé de la foudre de Jupiter tonnant. Quand le maigre huissier Vineux se présente à lui, porteur de pièces, prêt à signifier un acte du greffe, Jésus-Christ résiste et s\'arme.
+
+Comme autrefois les seigneurs insoumis, accueillant du haut de leurs tours à créneaux par une détonation, plus bruyante que meurtrière, des lourdes bombardes cerclées de cuivre, débuts de l\'artillerie, la sommation au nom du roi, le rebelle se dresse, épique, arrogant, intrépide. Les hostilités commencent. Jésus-Christ lève, à sa façon, l\'étendard de la révolte. Il se contente de lever la cuisse. Ici je cite :
+
+Pan ! il en fit *claquer un* d\'une telle sonorité que, terrifié par la détonation, Vineux s\'étala de nouveau. (L\'huissier avait déjà été foudroyé par un premier bombardement.) Cette fois son chapeau noir avait roulé parmi les cailloux. Il le suivit, le ramassa, courut plus fort. Derrière lui les coups de feu continuaient. Pan ! Pan ! sans un arrêt ; une vraie fusillade au milieu de grands rires qui achevaient de le rendre imbécile. Lancé sur la pente ainsi qu\'un insecte sauteur, il était à cent pas déjà que les échos du vallon répétaient encore la canonnade de Jésus-Christ. Toute la campagne en était pleine, et il y en eut un dernier formidable, lorsque l\'huissier, rapetissé à la taille d\'une fourmi, là-bas, disparut dans Rogues\...
+
+Ce passage, avec l\'elliptique incorrection du Un absolu, est caractéristique. Quelle lentille que cet oeil de Zola, quel tympan multiplicateur aussi ! Comme sa prunelle de myope grossissait les objets !
+
+Quelle puissance d\'acoustique avait son oreille ! Cette canonnade de son Jésus-Christ fait songer à Valmy ; c\'est excessif. L\'auteur a certainement vu trop énorme, et entendu trop fort.
+
+J\'ai signalé cette outrance dans un article de *l'Écho de Paris* au moment de l\'apparition du livre, en 1887. On me pardonnera de me citer moi-même, car cet article me valut une intéressante lettre de Zola, qu\'on trouvera ci-après, et suscita de nombreux commentaires dans la presse :
+
+L\'auteur, disais-je en examinant le cas de son Jésus-Christ, a traité l\'infirmité de son rustre, comme Camoëns décrivant l\'ouragan des Luciades, comme Virgile sa tempête de l\'Énéide. Le naturalisme est ici fort loin de la nature. Il est arrivé à plus d\'un, sans doute, par mégarde, faiblesse ou sans-gêne, de laisser échapper une détonation, comme ce Jésus-Christ, mais qui donc, eût-il tous les huissiers de France et de Navarre à ses trousses, eût pensé, à l\'aide de cette artillerie que chacun porte en soi, mettre en fuite le plus poltron de ces corbeaux, ou même effrayer les moineaux pépiant dans les brandes !
+
+J\'ajoutai cette critique, à laquelle Zola voulut répondre plus spécialement :
+
+La Terre est pleine de ces morceaux hyperboliques.
+
+Ce sont, il est vrai, des tableaux d\'une large poésie : les semailles, la pousse du blé, l\'envahissement de la Beauce par la marée verte, la grêle, la moisson. Zola évoque Hésiode. Il chante les Travaux et les Jours de notre temps. Je ne le chicanerai point sur des détails inexacts. Qu\'importe qu\'il ait fait pousser la vigne en Beauce, et donné à ses villages et à ses villageois du plat pays central, des noms méridionaux ou montagnards comme Rogues, Fouan, Hourdequin.
+
+Le défaut de ce roman, c\'est d\'être un poème géorgique trop touffu, trop chargé d\'ornements. Il y a aussi abus du « culbutage ». Le paysan, rompu par les travaux de la journée, ne songe guère le soir à des exercices amoureux. Il mange la soupe, se couche et ronfle aussitôt. Le dimanche soir, ou les lendemains de fête, passe encore, mais en semaine il n\'a ni le désir, ni le temps d\'aimer. Vénus aime des corps reposés.
+
+Zola a mal vu le paysan électeur, politicien, agent électoral, ou candidat. Ses scènes de candidature sont faibles. Il n\'a pas su tirer tout le parti désirable de l\'âpre lutte des paysans pour les fonctions municipales. L\'écharpe est la rivale du lopin de terre dans les convoitises rustiques. Balzac, dans ses *Paysans*, a également négligé, mais avec raison, la passion politique rurale. De son temps, les paysans n\'étaient point électeurs, mais l\'abolition du cens, et le suffrage universel ont excité les ambitions et les rivalités paysannes.
+
+Enfin, une dernière critique, les époux Charles, tenanciers honoraires d\'une maison hospitalière, admis, considérés, sont trop poussés à la charge.
+
+Malgré ces défauts et ces exagérations qui, par instant, semblent des gageures, *la Terre* est une oeuvre puissante, et qui peut soulever des critiques, des indignations même, plus ou moins sincères, mais dont la maîtrise est incontestable comme le talent de l\'auteur.
+
+Je reçus, le jour même de la publication de cet article, la lettre suivante de l\'auteur de *la Terre*, qui ne figure point dans le 2e volume de la *Correspondance* d\'Émile Zola, tout récemment paru.
+
+Paris, 27 novembre 87.
+
+Mon cher Lepelletier,
+
+Merci mille fois de votre article, qui me fait grand plaisir ; car il comprend et il explique au moins. Mais que de choses j\'aurais à vous dire, à vous qui êtes un ami !
+
+Il y a de la vigne à la lisière de la Beauce, les vignobles de Montigny, près desquels j\'ai placé Rogues, sont superbes. Tous les noms que j\'ai employés, sauf celui de Rogues, sont beaucerons. Il n\'est pas vrai que la fatigue soit contraire à Vénus : demandez aux physiologistes. Si vous croyez que les paysans ne reproduisent que le dimanche et le lundi, je vous dirai d\'y aller voir. La lutte politique dans les villages n\'est point aussi âpre, ouvertement, que vous le pensez : tout s\'y passe en manoeuvres sourdes. Mes Charles sont copiés sur nature ; et puis, c\'est vrai, eux et Jésus-Christ sont la fantaisie du livre. Est-ce qu\'à l\'ironie de la phrase vous n\'avez pas compris que je me moquais ?
+
+La vérité est que l\'oeuvre est déjà trop touffue et qu\'il y manque pourtant beaucoup de choses. C\'est un danger de vouloir tout mettre, d\'autant plus qu\'on ne met jamais tout. Du reste, c\'est là l\'arrière-plan, car mon premier plan n\'est fait que des Fouan, de Françoise et de Lise : la terre, l\'amour, l\'argent.
+
+Merci encore, et bien cordialement à vous.
+
+ÉMILE ZOLA.
+
+Je n\'argumenterai pas, dans ce livre, contre Zola qui n\'est plus là, pour de nouveau expliquer et réfuter. Sa lettre est intéressante et fournit un excellent plaidoyer. J\'avais sans doute, dans mon article, traité deux personnages épisodiques du drame rustique, en premiers rôles. Mais l\'auteur n\'avait-il pas tellement grandi leur stature et si fortement accentué leurs tics et leurs tares qu\'ils arrivaient à dominer : ils masquaient les autres acteurs, comme ce marquis de comédie, campé sur la scène au premier plan, qui, de son large dos, aux trois quarts du parterre, cachait les comédiens, et puis comme ce Jésus-Christ vous assourdissait !
+
+La Terre, malgré les exagérations et les brutalités signalées, est un livre impressionnant, et pas aussi pessimiste qu\'on l\'a dit. C\'est un tableau sombre et dur de la vie rurale, mais les modèles vivants sont-ils gracieux et sémillants ! Les animaux à face humaine de La Bruyère sont reconnaissables dans leurs descendants, bien que modifiés, atténués, par le suffrage universel, l\'instruction obligatoire, les journaux et le régiment. Les personnages de Zola ne sont pas des monstres façonnés à plaisir, et pour effrayer les gens. Ils sont très humains, très vraisemblables. Ils sont fréquents dans la réalité, les accidents criminels, comme le meurtre de Françoise et l\'étranglement du père Fouan, roi Lear paysan à qui manque une Cordélia ; il se produit aussi d\'analogues scélératesses dans les milieux les plus urbains. Les actes et les pensées de ces boeufs de labour, comme Zola les a reproduits, sont acceptables et normaux.
+
+Ils peinent sans grande satisfaction autre que le travail et l\'économie, avec l\'espoir de l\'agrandissement, de l\'acquisition. Ils portent le faix des impôts, proportionnellement le plus lourd, le plus inégal. Ils fournissent le plus fort contingent aux casernes, en temps de paix ; à la guerre, c\'est eux qui offrent la plus large cible aux mousqueteries. Régulièrement, patiemment, avec une précision astronomique, selon le cours des saisons, ils ensemencent, ils cultivent, ils moissonnent, et c\'est grâce à eux que la vie ordinaire est possible. Quand le paysan, comme on l\'a vu sous *la Terre*ur et durant les invasions, cesse de féconder la glèbe ou d\'approvisionner les villes, l\'horloge sociale semble s\'être arrêtée, et tout un pays est terriblement désheuré. Les campagnards vivent dans une angoisse perpétuelle, les yeux tour à tour abaissés anxieusement vers la récolte qui pousse, ou sondant avec terreur le ciel où l\'orage gronde. Ils maudissent et craignent à toute heure la pluie, la sécheresse, le vent, la grêle, les inondations, les insectes voraces, les maladies sur les végétaux, les épizooties dévastant les étables. Ils ignorent les plus délicates jouissances humaines, les sensations d\'art, la conversation légère et gaie, les impressions de la nature ; ils passent leur existence au milieu des plus admirables paysages, sans en être émus ; ils sont comme des sourds, si par hasard de la bonne musique résonne à leur portée ; devant un beau tableau, ils sont aveugles ; leur cerveau semble toute matière brute. L\'amour, ils ne le connaissent que sous la forme du rut ; ils l\'éprouvent et le manifestent comme nos premiers parents, les ancêtres des cavernes et des huttes lacustres, se ruant sur les femelles après s\'être battus pour leur possession.
+
+Seulement, ils aiment la terre, c\'est leur joie, leur force, leur vertu, leur vie aussi, cette terre, mère souvent marâtre, fille fréquemment ingrate ; le jour où ils ne l\'aimeraient plus et des craintes à notre époque peuvent être conçues à cet égard, le jour où ils abandonneraient cette terre, qui est pour eux à la fois la mère, l\'enfant, l\'épouse et la maîtresse, le jour de misère et de désastre arrivé, où ils la laisseraient s\'épuiser dans une stérilité prolongée, c\'est alors qu\'il faudrait maudire le paysan, et le traiter en être méprisable et odieux. Jusque-là il convient de l\'admirer, de le plaindre aussi. Ses vices ne nuisent guère qu\'à lui, et ses mâles vertus profitent à tous. Ce n\'est pas le paysan qui a décrété la République, mais c\'est grâce à lui qu\'elle a pu durer. L\'avenir socialiste, qui s\'ouvre devant nous, ce sera l\'oeuvre pacifique, et la récompense légitime aussi, des hommes de la terre.
+
+Le roman de *la Terre* eut une répercussion inattendue dans le monde littéraire.
+
+Des jeunes gens, alors débutants, et dont les noms sont devenus connus :
+
+J.-H. Rosny, Lucien Descaves, Paul Margueritte, Gustave Guiches, sous la conduite de Paul Bonnetain, alors rédacteur assez important au *Figaro*, lancèrent dans ce journal une singulière excommunication de Zola. Paul Bonnetain, l\'auteur de *Charlot s'amuse*, reprochant à l\'auteur de *Germinal* sa « Mouquette », c\'était bouffon et cynique. Bonnetain est mort, fonctionnaire à la Côte d\'Ivoire, mais les quatre autres membres de cette congrégation de l\'Index vivent encore ; ils ont acquis, les uns du talent, les autres de la renommée.
+
+Ils doivent regretter leur escapade de jeunesse.
+
+Voici ce qu\'ils fulminèrent contre Zola, en tête du *Figaro*.
+
+À ÉMILE ZOLA
+
+Naguère encore Émile Zola pouvait écrire, sans soulever de récriminations sérieuses, qu\'il avait avec lui la jeunesse littéraire.
+
+Trop peu d\'années s\'étaient écoulées depuis l\'apparition de *l'Assommoir*, depuis les fortes polémiques qui avaient consolidé les assises du Naturalisme, pour que la génération montante songeât à la révolte. Ceux-là mêmes que lassait plus particulièrement la répétition énervante des clichés, se souvenaient trop de la trouée impétueuse faite par le grand écrivain, de la déroute des romantiques.
+
+On l\'avait vu si fort, si superbement entêté, si crâne, que notre génération malade presque tout entière de la volonté, l\'avait aimé rien que pour cette force, cette persévérance, cette crânerie. Même les Pairs, même les Précurseurs, les Maîtres originaux, qui avaient préparé de longue main la bataille, prenaient patience, en reconnaissance des services passés.
+
+Cependant, dès le lendemain de *l'Assommoir*, de lourdes fautes avaient été commises. Il avait semblé aux jeunes que le Maître, après avoir donné le branle, lâchait pied à l\'exemple de ces généraux de révolution dont le ventre a des exigences que le cerveau encourage.
+
+On espérait mieux que de coucher sur le champ de bataille ; on attendait la suite de l\'élan, on espérait de la belle vie infusée au livre, au théâtre, bouleversant les caducités de l\'Art.
+
+Lui, cependant, allait creusant son sillon ; il allait, sans lassitude, et la jeunesse le suivait, l\'accompagnait de ses bravos, de sa sympathie si douce aux plus stoïques ; il allait, et les plus vieux et les plus sagaces fermaient dès lors les yeux, voulaient s\'illusionner, ne pas voir la charrue du Maître s\'embourber dans l\'ordure. Certes, la surprise fut pénible de voir Zola déserter, émigrer à Médan, consacrant les efforts-légers à cette époque-qu\'eût demandés un organe de lutte et d\'affermissement, à des satisfactions d\'un ordre infiniment moins esthétique. N\'importe ! la jeunesse voulait pardonner la désertion physique de l\'homme. Mais une désertion plus terrible se manifestait déjà : la trahison de l\'écrivain devant son oeuvre.
+
+Zola, en effet, parjurait chaque jour davantage son programme.
+
+Incroyablement paresseux à l\'expérimentation *personnelle*, armé de documents de pacotille, ramassés par des tiers, plein d\'une enflure hugolique, d\'autant plus énervante qu\'il prêchait âprement la simplicité, croulant dans des rabâchages et des clichés perpétuels, il déconcertait les plus enthousiastes de ses disciples.
+
+Puis, les moins perspicaces avaient fini par s\'apercevoir du ridicule de cette soi-disant *Histoire Naturelle et Sociale d'une famille sous le Second Empire*, de la fragilité du fil héréditaire, de l\'enfantillage du fameux arbre généalogique, de l\'ignorance, médicale et scientifique, profonde du Maître.
+
+N\'importe, on se refusait, même dans l\'intimité, à constater carrément les mécomptes. On avait des : « Peut-être aurait-il dû\... », des « Ne trouvez-vous pas qu\'un peu moins de\... », toutes les timides observations de lévites déçus, qui voudraient bien ne pas aller jusqu\'au bout de leur désillusion. Il était dur de lâcher le drapeau !
+
+Et les plus hardis n\'allaient qu\'à chuchoter qu\'après tout Zola n\'était pas le naturalisme et qu\'on n\'inventait pas l\'étude de la vie réelle, après Balzac, Stendhal, Flaubert et les Goncourt ; mais personne n\'osait l\'écrire, cette hérésie.
+
+Pourtant, incoercible, l\'écoeurement s\'élargissait, surtout devant l\'exagération croissante des indécences, de la terminologie malpropre des Rougon-Macquart. En vain, excusait-on tout par ce principe émis dans une préface de *Thérèse Raquin* :
+
+« Je ne sais si mon roman est moral ou immoral ; j\'avoue que je ne me suis jamais inquiété de le rendre plus ou moins chaste. Ce que je sais, c\'est que je n\'ai jamais songé à y mettre les saletés qu\'y découvrent les gens moraux ; c\'est que j\'en ai décrit chaque scène, même les plus fiévreuses, avec la seule curiosité du savant. »
+
+On ne demandait pas mieux que de croire, et même quelques jeunes avaient, par le besoin d\'exaspérer le bourgeois, exagéré la curiosité du savant. Mais il devenait impossible de se payer d\'arguments : la sensation nette, irrésistible, venait à chacun, devant telle page des Rougon, non plus d\'une brutalité de document, mais d\'un violent parti pris d\'obscénité.
+
+Alors, tandis que les uns attribuaient la chose à une maladie des bas organes de l\'écrivain, à des manies de moine solitaire, les autres y voulaient voir le développement *inconscient* d\'une boulimie de vente, une habileté instinctive du romancier, percevant que le gros de son succès d\'éditions dépendait de ce fait, que « les imbéciles achètent les Rougon-Macquart, entraînés, non pas tant par leur qualité littéraire, que par la réputation de pornographie que la *vox populi* y a attachée. »
+
+Or, il est bien vrai que Zola semble excessivement préoccupé (et ceux d\'entre nous qui l\'ont entendu causer ne l\'ignorent pas) de la question de vente ; mais il est notoire aussi, qu\'il a vécu de bonne heure à l\'écart et qu\'il a exagéré la continence, d\'abord par nécessité, ensuite par principe. Jeune, il fut très pauvre, très timide, et la femme, qu\'il n\'a point connue à l\'âge où l\'on doit la connaître, le hante d\'une vision évidemment fausse. Puis, le trouble d\'équilibre qui résulte de sa maladie rénale contribue sans doute à l\'inquiéter outre mesure de certaines fonctions, le pousse à grossir leur importance. Peut-être Charcot, Moreau (de Tours) et ces médecins de la Salpêtrière qui nous firent voir leurs coprolaliques pourraient-ils déterminer les symptômes de son mal\... Et, à ces mobiles morbides, ne faut-il pas ajouter l\'inquiétude, si fréquemment observée chez les misogynes, de même que chez les tout jeunes gens, qu\'on ne nie leur compétence en matière d\'amour ?\...
+
+Quoi qu\'il en soit, jusqu\'en ces derniers temps encore, on se montrait indulgent ; les rumeurs craintives s\'apaisaient devant une promesse : *la Terre*. Volontiers espérait-on la lutte du grand littérateur avec quelque haut problème, et qu\'il se résoudrait à abandonner un sol épuisé. On aimait se représenter Zola vivant parmi les paysans, amassant des documents personnels, intimes, analysant patiemment des tempéraments de ruraux, recommençant enfin le superbe travail de *l'Assommoir*.
+
+L\'espoir d\'un chef-d\'oeuvre tenait tout le monde en silence. Certes, le sujet simple et large promettait des révélations curieuses.
+
+La Terre a paru. La déception a été profonde et douloureuse. Non seulement l\'observation est superficielle, les trucs démodés, la narration commune et dépourvue de caractéristiques, mais la note ordurière est exacerbée encore, descendue à des saletés si basses que, par instants, on se croirait devant un recueil de scatologie : le Maître est descendu au fond de l\'immondice.
+
+Eh bien ! cela termine l\'aventure. Nous répudions énergiquement cette imposture de la littérature véridique, cet effort vers la gauloiserie mixte d\'un cerveau en mal de succès. Nous répudions ces bonshommes de rhétorique zoliste, ces silhouettes énormes, surhumaines et *bis*cornues, dénuées de complication, jetées brutalement, en masses lourdes, dans des milieux aperçus au hasard des portières d\'express.
+
+De cette dernière oeuvre du grand cerveau qui lança *l\'Assommoir* sur le monde, de cette Terre bâtarde, nous nous éloignons résolument, mais non sans tristesse. Il nous poigne de repousser l\'homme que nous avons trop fervemment aimé.
+
+Notre protestation est le cri de probité, le dictamen de conscience de jeunes hommes soucieux de défendre leurs oeuvres,-bonnes ou mauvaises,-contre une assimilation possible aux aberrations du Maître. Volontiers nous eussions attendu encore, mais désormais le temps n\'est plus à nous : demain il serait trop tard. Nous sommes persuadés que *la Terre* n\'est pas la défaillance éphémère du grand homme, mais le reliquat de compte d\'une série de chutes, l\'irrémédiable dépravation morbide d\'un chaste.
+
+Nous n\'attendons pas de lendemain aux Rougon : nous imaginons trop bien ce que vont être les romans sur les *Chemins de fer*, sur l\'*Armée* ; le fameux arbre généalogique tend ses bras d\'infirme sans fruits désormais !
+
+Maintenant, qu\'il soit bien dit une fois de plus que, dans cette protestation, aucune hostilité ne nous anime. Il nous aurait été doux de voir le grand homme poursuivre paisiblement sa carrière.
+
+La décadence même de son talent n\'est pas le motif qui nous guide, c\'est l\'anomalie compromettante de cette décadence. Il est des compromissions impossibles : le titre de naturaliste, spontanément accolé à tout livre puisé dans la réalité, ne peut plus nous convenir.
+
+Nous ferions bravement face à toute persécution pour défendre une cause juste ; nous refusons de participer à une dégénérescence inavouable.
+
+C\'est le malheur des hommes qui représentent une doctrine, qu\'il devient impossible de les épargner le jour où ils compromettent cette doctrine. Puis, que ne pourrait-on dire à Zola, qui a donné tant d\'exemples de franchise, même brutale ? N\'a-t-il pas chanté le *struggle for life*, et le *struggle* sous sa forme niaise, incompatible avec les instincts d\'une haute race, le *struggle* autorisant les attaques violentes ? « Je suis une force », criait-il, écrasant amis et ennemis, bouchant aux survenants la brèche qu\'il avait lui-même ouverte.
+
+Pour nous, nous repoussons l\'idée d\'irrespect, pleins d\'admiration pour le talent immense qu\'a souvent déployé l\'homme. Mais est-ce notre faute si la formule célèbre : « un coin de nature vu à travers un tempérament » se transforme, à l\'égard de Zola, en « un coin de nature vu à travers un *sensorium morbide* », et si nous avons le devoir de porter la hache dans ses oeuvres ? Il faut que le jugement public fasse balle sur *la Terre*, et ne s\'éparpille pas, en décharge de petit plomb, sur les livres sincères de demain.
+
+Il est nécessaire que, de toute la force de notre jeunesse laborieuse, de toute la loyauté de notre conscience artistique, nous adoptions une tenue et une dignité, en face d\'une littérature sans noblesse, que nous protestions au nom d\'ambitions saines et viriles, au nom de notre culte, de notre amour profond, de notre suprême respect pour l\'Art !
+
+PAUL BONNETAIN, J.-H. ROSNY, LUCIEN DESGAVES, PAUL MARGUERITTE, GUSTAVE GUICHES.
+
+\* \* \* \* \*
+
+C\'était une réclame imprévue autant qu\'audacieuse, ce manifeste. Enchantés de la publicité du *Figaro* que leur offrait le téméraire Bonnetain, les quatre exorcistes ne se rendirent pas compte de la singularité, et aussi de la naïveté de leur anathème. Il leur était permis individuellement, dans des articles isolés, de blâmer, de critiquer Zola. Ils eussent alors fait chorus avec les pompiers des salons et les prudhommes de la presse. Ils se montraient rétrogrades et amis du poncif, mais ils ne s\'affirmaient pas comme des étourneaux voletant à l\'aventure, et se brisant le bec sur l\'armature solide d\'un phare éblouissant.
+
+Ces écoliers tapageurs étaient extraordinaires aussi en donnant à leur opinion la forme d\'un manifeste, d\'une déclaration de principes, presque d\'un programme de parti. Ils semblaient parler au public, au nom de toute la littérature française. On remarquera deux des griefs principaux : Zola avait le tort d\'habiter la campagne, et de vendre beaucoup d\'éditions ! Et puis, n\'est-ce pas à pouffer, cette protestation « au nom d\'ambitions saines et viriles », rédigée par l\'onaniste Bonnetain, et quel rire doit s\'emparer aujourd\'hui de Descaves ou de Rosny, quand ils se souviennent qu\'ils ont contresigné « la tenue et la dignité » de la littérature de *Charlot s'amuse*.
+
+Ce qu\'il y avait de plus cocasse dans l\'excommunication, c\'est que les cinq n\'étaient pas du tout de l\'église de Médan. Ils n\'avaient pas été admis à l\'honneur et à la gloire des fameuses soirées. Ils procédaient comme les sociétaires du club des pieds humides, qui décréteraient que tel membre du Jockey devrait être exclu comme indigne et malpropre. Si les « zolistes », le groupe des Provençaux amis de la première heure, Baille, Cézanne, Marius Roux, si les peintres et les romanciers célèbres qui, dès l\'apparition des Rougon-Macquart, firent une escorte d\'honneur à l\'auteur, Manet, Guillemet, Alphonse Daudet, avaient refusé de frayer désormais avec le pornographe de *la Terre*, si enfin les disciples mêmes, les cinq de Médan, les vrais Cinq ceux-là, Maupassant, Huysmans, Hennique, Céard, Paul Alexis, avaient renié leur maître, abandonné leur ami, la condamnation aurait pu paraître injuste, absurde, mais ceux qui l\'eussent prononcée n\'auraient pu être récusés, comme incompétents. Leur juridiction eût été abominable, mais régulière.
+
+Ces justiciers eussent paru des ingrats, mais non des réclamistes prétentieux, un peu cyniques. Ces cinq écrivains, alors peu connus, car ils venaient seulement de publier leur premier livre, sans grand éclat, sauf le Charlot qu\'on sait, expulsant Zola de la littérature au nom de la morale outragée, c\'était vraiment raide, et le fait, comme bizarrerie, mérite d\'être conservé.
+
+Émile Zola accepta, avec philosophie, ce sévère et ridicule verdict. Comme un journaliste lui demandait ce qu\'il pensait de l\'excommunication, il répondit avec la tranquillité de l\'archevêque de Paris, à qui des membres de l\'armée du salut auraient lancé l\'anathème et refusé la communion :
+
+-Je ne sais, dit-il au rédacteur du Gil-Blas venu l\'interviewer à Médan, ce qu\'on pense, à Paris, de cette protestation, qui m\'a valu un grand nombre de lettres très bienveillantes de la part de confrères ; mais je sais que, pour ma part, j\'en ai été stupéfié.
+
+Je ne connais pas ces jeunes gens\... Ils ne font pas partie de mon entourage ; ils ne se sont jamais assis à ma table ; ils ne sont donc pas mes amis. Enfin, s\'ils sont mes disciples,-je ne cherche point à en faire,-c\'est bien à mon insu.
+
+Mais, n\'étant ni mes amis, ni mes disciples, pourquoi me répudient-ils ? La situation est originale, il faut en convenir. C\'est le cas d\'une femme avec qui vous n\'auriez aucune relation, et qui vous écrirait : « J\'en ai trop de vous, séparons-nous ! » Eh bien ! la position est analogue\...
+
+Ah ! si des amis m\'avaient tenu un tel langage !\... Si Maupassant, Huysmans, Céard, m\'avaient parlé de la sorte, j\'avoue que j\'eusse été quelque peu estomaqué. Mais la déclaration de ces messieurs ne saurait me produire un tel effet ! Je n\'y répondrai du reste absolument rien, et cette détermination se trouve fortifiée par les conseils qui m\'ont été donnés de toutes parts.
+
+Il écrivit à J.-K. Huysmans, le 21 août 1887 :
+
+Tout cela est comique et sale. Vous savez ma philosophie au sujet des injures. Plus je vais et plus j\'ai soif d\'impopularité et de solitude\...
+
+À Alphonse Daudet, qui avait été indiqué, à tort, comme ayant sinon inspiré, au moins approuvé le manifeste des Cinq, il écrivit :
+
+Mais jamais, mon cher Daudet, jamais je n\'ai cru que vous ayez eu connaissance de l\'extraordinaire manifeste des Cinq\... le stupéfiant, c\'est que de victime, vous m\'avez fait coupable, et qu\'au lieu de m\'envoyer une poignée de main, vous avez failli rompre avec moi.
+
+Avouons que cela dépassait un peu la mesure\...
+
+Zola dédaigna donc de répliquer ou de réfuter. Mais on a répondu pour lui. Pour donner idée de la vivacité de la polémique d\'alors, et, en choisissant entre vingt ripostes, également vigoureuses, au factum des Cinq, je citerai un passage du très virulent mais très juste réquisitoire, qu\'en guise de plaidoyer Henri Bauer publia. Cet article vengeur parut dans le *Réveil*, organe littéraire dont j\'avais la direction, et où, on s\'en souvient peut-être, Paul Verlaine oublié, calomnié, ou repoussé, fut accueilli, reparut à la publicité ; là il donna des tableaux et des fantaisies, sous la rubrique :
+
+« Paris vivant », qui, après dix ans de silence, firent de nouveau prononcer son nom, bientôt retentissant et glorieux.
+
+Dans ce journal, très artiste, où Alphonse Daudet publia *Sapho*, et Guy de Maupassant plusieurs nouvelles inédites, parmi lesquelles *les Soeurs Rondolli,* et où Paul Bonnetain avait débuté, Henry Bauer s\'exprima ainsi, avec cette franchise brutale qui lui valut en maintes circonstances beaucoup d\'ennemis, mais qui caractérisait son talent sincère et indépendant :
+
+Tant pis pour Bonnetain ! Tant pis pour Descaves ! Vous avez fait là, mes garçons, une vilaine besogne qui se retournera contre vous-mêmes.
+
+Vous avez oublié que le peu que vous êtes, vous le lui devez ; vous n\'existez que par lui. Tout, votre forme, votre style, votre vocabulaire, vos images, vos idées procèdent de son oeuvre, et vos pattes de mouches sont frottées à sa griffe. Vous êtes bien jeunes pour être ingrats. Apprenez, mes petits, que toute la littérature contemporaine a pris son essor dans ces *Rougon-Macquart* » ridicules ».
+
+Vous mordez les talons du père qui vous a tous engendrés et vous essayez d\'ameuter le Philistin contre votre créateur, gare à la mâchoire d\'âne !
+
+La correction était infligée de main de maître. Les quatre, car l\'instigateur de la réclame cherchée disparut bientôt, ont depuis fait oublier cette incartade de jeunesse à force d\'oeuvres estimables.
+
+L\'un des signataires devait d\'ailleurs, par la suite, faire des excuses publiques qui honorent également celui qui les formulait si spontanément et celui qui les acceptait avec une généreuse effusion.
+
+M. Paul Margueritte écrivit à Zola, au moment de la publication de *la Débâcle*, la lettre suivante :
+
+9 mars 1892.
+
+Cher monsieur Zola,
+
+C\'est avec émotion que je vois la division Margueritte et le nom de mon père jouer un rôle dans *la Débâcle*. Je pressens que vous serez sympathique aux efforts perdus de cette belle cavalerie et à la mort de son chef, sacrifié avec tant d\'autres, à *Sedan*.
+
+Laissez-moi saisir cette occasion-je n\'en pourrai trouver une meilleure-pour me décharger auprès de vous, en toute franchise, d\'un regret qui me pèse depuis longtemps. En m\'associant, il y a quelques années, à ce manifeste contre vous, j\'ai commis une mauvaise action dont mon extrême jeunesse m\'empêcha alors de comprendre la portée, mais dont j\'ai eu quelque honte depuis, lorsque j\'ai mieux compris le respect qu\'on se doit, d\'homme à homme, et que je devais surtout, moi débutant de lettres et fils de soldat, à une vie d\'écrasant labeur, de fier combat et d\'exemple, comme la vôtre.
+
+Il y a longtemps, cher monsieur Zola, que je voulais vous écrire cela.
+
+En tardant, je n\'ai fait que prolonger mes regrets et la conscience de mes torts. Voudrez-vous bien accepter ces excuses aussi franchement et complètement que je vous les offre ?
+
+PAUL MARGUERITTE
+
+Cette lettre, à laquelle Zola a cordialement répondu, a été publiée dans le 2e volume de la *Correspondance*.
+
+La Bête Humaine, publiée en 1890, c\'est le roman sur les *Chemins de fer*, que Zola avait depuis longtemps projeté d\'écrire. C\'est l\'ouvrage le plus dramatique de la série des Rougon-Macquart, un roman criminel, avec des péripéties feuilletonesques. De plus, rappelant des crimes sensationnels : tels que l\'assassinat du président Poinsot, en wagon, par l\'introuvable Jud, le meurtre également impuni du préfet Barême, et la vengeance d\'un perruquier méridional égorgeant un prêtre, par qui sa femme déclarait avoir été séduite avant son mariage. Ce roman a paru en 1890.
+
+Zola a déclaré « avoir eu une peur terrible qu\'il ne fût pris pour une fantaisie sadique ».
+
+Voici les grandes lignes de ce roman, qu\'il est surprenant qu\'un émule de Busnach n\'ait pas encore transporté à la scène :
+
+Le sous-chef de gare Roubaud, passionné, brutal et jaloux, a épousé une jolie fille, élevée en demoiselle, la protégée du président Grandmorin.
+
+Le mari adore sa femme. La jeune Séverine, un nom bien littéraire pour une petite campagnarde devenue l\'épouse d\'un employé, se laisse passivement aimer. Le ménage est heureux, paisible, honnête. Tout à coup l\'accident surgit, sans lequel il n\'y aurait pas de roman. Roubaud découvre que sa femme l\'a trompé, oh ! avant son mariage. Le président Grandmorin, un satyre en robe rouge, a caressé, frotté, pollué Séverine, à l\'âge où la fleur conjugale charmante n\'était encore qu\'en bouton. Puis il l\'a mariée à un brave homme d\'employé, après lui avoir passé une bague au doigt, en souvenir des bons moments écoulés dans ses tentatives séniles, au fond de la solitude propice de la Croix de Maufras, son domaine.
+
+La scène de l\'aveu surpris est une des plus poignantes du livre. Roubaud a interrogé sa femme sur la provenance de la bague, un serpent d\'or à petite tête de ru*bis*. Sottement, inconsciemment, Séverine a répondu que c\'était un cadeau du président, un cadeau ancien, à l\'occasion de ses seize ans.
+
+Roubaud s\'étonne de cette réponse. L\'explication, simple et vraisemblable, lui semble suspecte, parce que différée.
+
+« Tu m\'avais toujours dit, murmure-t-il, soupçonneux, que c\'était ta mère qui t\'avait laissé cette bague ?\... » Et cette interrogation engendre aussitôt la défiance. Séverine avait donc menti ? Pourquoi cachait-elle l\'origine de la bague ? Était-ce mal faire que recevoir ce cadeau ? Quoi d\'insolite en ce don du président, qui avait protégé le ménage, et doté la fillette ? Séverine s\'enferre dans son mensonge. Elle soutient que jamais elle n\'a parlé de sa mère à propos de cette bague.
+
+Son insistance étrange et l\'embarras de ses dénégations, achèvent d\'initier le mari. Il devient très pâle, ses traits se décomposent horriblement. Il jure, menace, et, les poings levés, marchant sur elle finit par crier : « Nom de dieu de garce ! tu as couché avec\... couché avec ! » Et il la presse d\'avouer, menaçant de l\'éventrer. La malheureuse, lasse et terrifiée, se décide enfin à laisser échapper l\'aveu : « Eh bien, oui, c\'est vrai, laissez-moi m\'en aller !\... »
+
+La fureur du mari, ses brutalités, ses soufflements de fauve, ses questions pressantes, ses investigations douloureuses, les détails qu\'il réclame, les torturantes et minutieuses circonstances qu\'il exige, tout cela rythmé sourdement par le tapotement affaibli du piano des voisins d\'en dessous, présente un tableau dramatique d\'une intensité excessive.
+
+Les accablements, les sursauts, les préoccupations du lendemain, les hantises du passé, les prostrations et les énergies soudaines, se succédant en son âme désespérée, achèvent ce tableau tourmenté d\'un bonheur de mari naufrageant, avec le raccrochement désespéré de la vengeance entrevue. Roubaud crèvera l\'homme. Il a son couteau sous la main, ce couteau fouillera la bedaine polissonne du président et, avec le sang qu\'il en tirera, lavera la tache. C\'est la farouche hantise des maris espagnols, des justiciers domestiques de Calderon, impitoyables médecins de leur honneur.
+
+Pour réaliser cette saignée, qui doit, pense-t-il, guérir son honneur blessé et nettoyer la souillure, Roubaud se sert du moyen violent dont usa, au théâtre, le duc de Guise pour contraindre la duchesse à faire venir Saint-Mégrin : il commande à sa femme de donner rendez-vous au président.
+
+Ce chaud lapin fourré d\'hermine est à Paris. Il s\'agit de l\'attirer dans l\'express du soir, là on lui fera son affaire. Séverine résiste. Elle ne veut pas donner ce rendez-vous de mort. Alors, [\... cessant de parler, il lui prit la main, une petite main frêle d\'enfant, la serra dans sa poigne de fer, d\'une pression continue d\'étau, jusqu\'à la broyer. C\'était sa volonté qui lui entrait ainsi dans la chair, avec la douleur. Elle jeta un cri, et tout se brisait en elle, tout se livrait. L\'ignorante qu\'elle était restée, dans sa douceur passive, ne pouvait qu\'obéir. Instrument d\'amour, instrument de mort.]{.sgc-2}
+
+Elle écrit donc, et voilà le président déjà à peu près sûr d\'avoir son compte réglé à bref délai.
+
+Cet aveu surpris, à propos d\'une bague que Séverine portait continuellement à son doigt, qui ne devait par conséquent éveiller chez son mari ni questions, ni soupçon, cet homme découvrant qu\'il a été cocu avant le mariage, et aussitôt combinant avec une dextérité d\'assassin émérite, dans ses moindres détails, la vengeance qu\'il projette, la contrainte mécanique à laquelle il a recours pour décider sa femme à devenir sa complice, tout cet ensemble dramatique est certainement entaché d\'invraisemblance, mais il ne faut pas oublier que nous sommes en plein feuilleton criminel, et que les personnages sont des impulsifs, des inconscients, des êtres anormaux placés dans des circonstances exceptionnelles, de véritables héros de roman judiciaire.
+
+Le crime est rendu avec une grande abondance d\'effets d\'horreur, et tout se passe dans les conditions ordinaires de ces tableaux farouches destinés à être affichés, peinturlurés, sur les murailles, afin d\'attirer la clientèle de l\'Ambigu. Le train file à toute vitesse, et l\'heure du crime est proche. Naturellement, un témoin est là, embusqué dans l\'ombre. Comme le solitaire fameux de d\'Arlincourt, il voit tout, il entend tout, ce gaillard ayant bons yeux, bonnes oreilles, posté à point nommé, dans la nuit, sur le parcours de la ligne du Havre, au poteau kilométrique 153, juste à la minute où l\'on balance, par la portière entr\'ouverte d\'un wagon de première, le corps de la victime :
+
+*Jacques* vit d\'abord la gueule noire du tunnel s\'éclairer, ainsi que la bouche d\'un four, où des fagots s\'embrasent. Puis, dans le fracas qu\'elle apportait, ce fut la machine qui en jaillit avec l\'éblouissement de son gros oeil rond, la lanterne d\'avant, dont l\'incendie troua la campagne, allumant au loin les rails d\'une double ligne de flamme. Mais c\'était une apparition en coup de foudre. Tout de suite les wagons se succédèrent ; les petites vitres carrées des portières, violemment éclairées, firent défiler les compartiments pleins de voyageurs, dans un tel vertige de vitesse que l\'oeil doutait ensuite des images entrevues. Et *Jacques*, très distinctement, à ce quart précis de seconde, aperçut, par les glaces flambantes d\'un coupé, un homme qui en tenait un autre renversé sur la banquette, et qui lui plantait un couteau dans la gorge, tandis qu\'une masse noire, peut-être une troisième personne, peut-être un écroulement de bagages, pesait de tout son poids sur les jambes convulsives de l\'assassiné.
+
+Le tableau est saisissant. La vision intense. Nous ne chicanerons pas sur la difficulté que peut rencontrer un observateur, placé « devant la haie d\'un chemin de fer, juste à la sortie du souterrain, en face d\'un pré, » c\'est-à-dire dans un lieu bas, ou tout au moins de plain-pied, à découvrir, par une portière de wagon, un homme maintenu renversé sur une banquette.
+
+Ce corps se trouve au-dessous de la ligne visuelle, et masqué par l\'épaisseur du panneau n\'ayant qu\'un petit carreau comme chacun sait, il est donc à peu près invisible du dehors. Si l\'on s\'arrêtait à ces détails de vraisemblance, il serait difficile de faire constater, par les personnages nécessaires au dénouement, les péripéties d\'un assassinat, dans les romans-feuilletons. L\'essentiel est que l\'effet d\'horreur cherché ait été trouvé. Il l\'a été. Ici, comme dans les scènes subséquentes de l\'enquête judiciaire, Zola s\'est révélé, en ce genre pour lui nouveau, expert.
+
+À l\'action criminelle, se juxtaposent un drame passionnel et une sorte de synthèse psychologique des théories de Cesare Lombroso, sur l\'« Uomo deliquente », l\'homme criminel, la bête humaine, le sauvage primitif, l\'anthropoïde cultivé, le quadrupède redressé. Roubaud échappe à la justice. On soupçonne un carrier nommé Cabuche, être inquiétant d\'allures, bouc-émissaire des crimes mystérieux dans la contrée, une ressource pour la justice dans l\'embarras. Mais quelqu\'un peut témoigner de la vérité, *Jacques*, l\'homme qui a vu. Roubaud devient l\'ami de *Jacques*. Il ne peut se séparer de lui. Il en fait son commensal, son intime, et lui jette sa femme dans les bras. En même temps, une sorte de démon de la perversité le pousse à fréquenter le commissaire de police.
+
+Le souvenir de Raskolnikof de *Crime* *et Châtiment* se dresse ici. Zola, toutefois, n\'a pas cru devoir pousser, aussi loin que le romancier russe, cet irrésistible besoin du coupable de se rapprocher de ceux qui peuvent surprendre et punir son crime. Dostoïewsky a tiré de puissants effets de cette poussée folle et nuisible de la conscience. Zola n\'a fait que l\'indiquer. En revanche, il a développé largement les amours de Séverine et de *Jacques*.
+
+Un fou, un monstre, ce *Jacques*. Plus terrible que ce maniaque, jugé il y a quelques années, qui s\'amusait à piquer les jolies passantes avec un stylet, ou que le bijoutier, dont les plaisirs amoureux consistaient à transformer en pelotes à épingles les seins martyrisés des malheureuses qu\'il entraînait, en leur jetant des billets de banque pour panser leurs plaies. Ce sadique *Jacques* a, devant les femmes, les tentations meurtrières que Papavoine manifestait en face de la chair moite et blanche des petits garçons. Il ne veut pas abuser des belles, mais il meurt d\'envie de les égorger. Il rêve des voluptés non pareilles, à l\'idée de plonger une lame dans le corps de sa maîtresse. Parfois, il lui prend aussi l\'envie de tuer la première femme rencontrée. Il suit même une passante, en chemin de fer, dans ce but, s\'installe avec elle dans un compartiment, et ne renonce au plaisir promis que par suite de l\'entrée d\'une dame, une gêneuse, qui dérange la partie de meurtre projetée. Il se dédommage bientôt en assassinant Séverine, sans avoir, Antony de cabanon, l\'excuse de la résistance.
+
+Ce goût du sang, cette appétence du meurtre pour le meurtre, ne sont que d\'inexplicables déviations de la raison humaine. Toutes les considérations des criminologues fatalistes de l\'école italienne ne pourront ôter à ces monstres le caractère, heureusement exceptionnel, qui les signale au médecin, encore plus qu\'au juge. Ils ne semblent guère intéressants pour le romancier, pour l\'artiste. Ce sont des impulsifs, des inconscients, et ils relèvent surtout de l\'aliéniste.
+
+Zola tente de raisonner ainsi la folie de son maniaque : comme à d\'autres il suffit, pour se sentir le sang en feu et les nerfs tendus, de surprendre moulant la jambe, un bas noir ou violet, *Jacques* éprouve le rut du meurtre devant toute peau nue.
+
+Un soir, il jouait avec une gamine, la fillette d\'une parente, sa cadette de deux ans ; elle était tombée, il avait vu ses jambes, et il s\'était rué. L\'année suivante, il se souvenait d\'avoir aiguisé un couteau pour l\'enfoncer dans le cou d\'une autre, une petite blonde qu\'il voyait chaque matin passer devant sa porte. Celle-ci avait un cou très gras, très rose, où il choisissait déjà sa place, un signe brun sous l\'oreille\...
+
+Musset décrit ces tentations-là, mais moins sanglantes, quand, au théâtre Français « où l\'on ne jouait que Molière », il découvrait « un cou blanc délicat qui se plie, et de la neige effacerait l\'éclat ». *Jacques*, lui, au théâtre, éprouve la furieuse envie d\'éventrer une jeune femme, une nouvelle mariée assise près de lui, qui rit très fort. Et la question se pose alors :
+
+Puisqu\'il ne les connaissait pas, quelle fureur pouvait-il avoir contre elles ? Car, chaque fois, c\'était comme une nouvelle crise de rage aveugle, une soif toujours renaissante de venger des offenses très anciennes dont il avait perdu l\'exacte mémoire. Cela venait-il donc de si loin, du mal que les femmes avaient fait à sa race, de la rancune amassée de mâle en mâle depuis la première tromperie, au bord des cavernes ?
+
+C\'est peut-être faire remonter un peu loin la vengeance préhistorique, et les défenseurs de Philippe, de Menesclou, de Soleilland et autres aliénés, grands tueurs de femmes et de fillettes, n\'ont jamais essayé de plaider l\'atavisme.
+
+Cette théorie de la Bête Humaine n\'a d\'ailleurs qu\'un intérêt pathologique secondaire : *Jacques*, Roubaud, Séverine, Pecqueux, le Chauffeur, tous les personnages du livre, jusqu\'au président Grandmorin, dont on n\'entrevoit que la silhouette posthume, sont des monstres en dehors de l\'humanité, une véritable ménagerie de fauves, que Zola promène dans son oeuvre. C\'est un peu de la littérature de cirque.
+
+Comme dans tous les livres de l\'auteur du *Ventre de Paris*, il y a dans la Bête Humaine, une chose, un morceau de matière, qui vivifiée par le souffle de l\'écrivain, se dresse, s\'anime, vit et palpite, comme un être.
+
+Zola est un admirable Pygmalion dans ces animations de Galatées, faites de la terre des mines, du liquide brûlant des alambics, des monceaux de légumes ou des charretées de fleurs des halles. La Lison, la machine de *Jacques* a une âme, une existence, des aventures, et elle connaît les fins tragiques.
+
+*Jacques*, d\'une pâleur de mort, vit tout, comprit tout : le fardier en travers, la machine lancée, l\'épouvantable choc, tout cela avec une netteté si aiguë qu\'il distingua jusqu\'au grain des deux pierres, tandis qu\'il avait déjà dans les os la secousse de l\'écrasement.
+
+C\'était l\'inévitable\... Au milieu de cet affreux sifflement de détresse qui déchirait l\'air, la Lison n\'obéissait pas, allait quand même, à peine ralentie. Elle n\'était plus la docile d\'autrefois, depuis qu\'elle avait perdu dans la neige sa bonne vaporisation, son démarrage si aisé, devenue quinteuse et revêche maintenant, en femme vieillie dont un coup de froid a détruit la poitrine\...
+
+Cette machine, ainsi personnifiée, cette Lison que *Jacques* avait aimée, soignée, couvée, jalousée, comme une maîtresse, sans avoir jamais eu l\'idée de l\'éventrer celle-là, nous assistons à son agonie, la seule mort touchante de ce livre plein de meurtres, aux pages éclaboussées du sang des plaies, et où l\'on ne voit que cervelles écrabouillées, ventres ouverts et carotides tranchées :
+
+La Lison, éventrée, culbutait à gauche, par-dessus le fardier, tandis que les pierres fendues volaient en éclats comme sous un coup de mine, et que, des cinq chevaux, quatre roulés, traînés, étaient tués net.
+
+La Lison est vraiment le personnage sympathique du livre. Pauvre Lison !
+
+Son meurtre était de longue main préparé. Au commencement de l\'ouvrage, déjà, un fardier s\'était embarrassé sur la voie, et Flore, la jalouse Flore qui fait dérailler le convoi pour se venger, s\'était essayée, en retenant des chevaux rétifs. La machine, décrite, détaillée, ayant l\'importance d\'un premier rôle, et quelques pages sur les rivalités d\'employés, se disputant un logement, ou s\'espionnant les uns les autres, font souvenir que le puissant auteur de la Bête Humaine, avant tout ce carnage, a décrit le comptoir formidable du père Colombe, la ruche ouvrière de la rue de la Goutte d\'Or, la truculente obésité des halles, le puits dantesque du Voreux.
+
+La Bête Humaine n\'est pas le meilleur roman de Zola. Je l\'ai analysé, pour indiquer la féconde variété du maître, et pour prouver qu\'il aurait pu, malgré l\'insuccès de son début à Marseille, rivaliser avec les feuilletonistes populaires, ceux qui seuls semblent susceptibles de capter l\'attention des foules.
+
+Il y a de nombreuses descriptions, très artistes, dans ce roman rouge.
+
+La rouge est la couleur de la vie. Il donne l\'impression de la force et aussi de l\'horreur, et, en fermant ce livre rude, on se souvient, avec Baudelaire, que le charme de l\'horreur n\'enivre que les forts.
+
+\* \* \* \* \*
+
+La Débâcle a paru en 1892. C\'est peut-être le livre de Zola qui a suscité le plus de polémiques, inspiré le plus de sottes injures, celui aussi qui a été le moins compris, le plus calomnié. C\'est son plus beau livre.
+
+Zola a été, sans raison, accusé d\'avoir écrit un ouvrage anti-patriotique.
+
+Pourquoi ? Parce qu\'il n\'a pas montré les soldats de son pays, irrésistiblement victorieux, ou du moins toujours héroïques, toujours debout sur la brèche, toujours grands dans la défaite ? Lui était-il permis de refaire l\'histoire, et, pour flatter l\'orgueil national, devait-il rééditer des légendes, plutôt périlleuses ?
+
+Disons d\'abord que l\'on ne peut maintenant connaître les causes exactes de l\'immense désastre, ni apprécier, pour ainsi dire scientifiquement et physiologiquement, l\'effondrement de *Sedan*. Nous sommes beaucoup trop près du sinistre. Ce n\'est pas quand le sol frémit encore qu\'on peut, avec sérénité, étudier les origines d\'une commotion sismique. Les survivants de la catastrophe, au nombre desquels était Zola, ont gardé l\'ébranlement dans les nerfs de la secousse, et cela fait trembler les mains tenant la plume, comme l\'instrument vacillerait entre les doigts du savant penché sur le cratère fumant, grondant, après l\'éruption. Il faut laisser à la brûlante terre le temps de se refroidir, pour en reconstituer les éléments, avant et pendant la conflagration.
+
+Malgré la conscience avec laquelle Zola s\'est documenté, et la patience dont il a usé pour se renseigner, auprès des hommes compétents, auprès des acteurs et des témoins contemporains, on ne saurait lui demander d\'avoir d\'une façon infaillible précisé, dans *la Débâcle*, les explications de l\'inattendue et déraisonnable déroute. L\'imprévoyance des chefs militaires, le désordre de l\'administration, la rivalité des généraux, la disproportion des forces en présence, l\'armement inférieur, la préparation militaire insuffisante, la maladie de l\'empereur, commandant en chef, et sa faiblesse comme général d\'armées, voilà sans doute des causes incontestées de la défaite.
+
+Il en est d\'autres. Parmi les facteurs importants de notre désarroi, il faut indiquer les mouvements de troupes inutiles ou fâcheux, les marches sans but, les contre-marches sans raisons, et aussi la lenteur des premières opérations. Le Français est combattant d\'avant-garde. L\'offensive est sa meilleure tactique. Il se bat vaillamment sur son territoire, mais alors il ne compte plus sur la victoire. C\'est sur le sol ennemi qu\'il reprend tous ses avantages. Il nous était facile, au lendemain de la parade de Sarrebrück, de franchir la frontière et de porter la guerre en Allemagne. Pourquoi s\'est-on arrêté, et quelle raison stratégique raisonnable donner de cette halte, l\'arme au pied, qui a émasculé les courages, désorganisé les armées, et permis à l\'ennemi de rassembler toutes ses forces, puis d\'envelopper nos troupes, moins nombreuses ? On croit savoir qu\'une illusion diplomatique dicta cet atermoiement, qui fut mortel. On comptait, dans les conseils du gouvernement, sur une intervention de l\'Autriche, désireuse de prendre sa revanche de Sadowa, et aussi sur une alliance de l\'Italie, acquittant la dette de reconnaissance de 1859. L\'Autriche, affaiblie et craintive, se soumettant à l\'abaissement que Richelieu et Napoléon avaient tant poursuivi, que Bismarck avait pu réaliser, se soumit à la Prusse, ne bougea pas. L\'Italie se rangea du côté qu\'elle devinait devoir être le plus fort. Victor-Emmanuel, notre ami de Magenta, le caporal de grenadiers de Palestro, apprenant la défaite de Wissembourg, au spectacle, dit à sa maîtresse, la belle marquise : « Je l\'ai échappé belle ! j\'allais envoyer cent mille hommes à Napoléon ! » La France demeura seule, et elle avait perdu un temps inestimable à attendre le secours italien, à hésiter à envahir l\'Allemagne par le sud, de peur de jeter l\'empereur d\'Autriche dans les bras de son bon frère Guillaume.
+
+Il y était déjà.
+
+Zola a indiqué tout cela. La Débâcle a fourni le maximum de vérité qu\'on peut connaître et divulguer, à une époque contemporaine.
+
+Il existe toute une légende sur la guerre de 1870. Zola très nettement en a dissipé, en partie, les brumes.
+
+Ainsi, c\'est un lieu commun que de prétendre que nous ayons succombé sous l\'amas du nombre. Ceci est un préjugé militaire. Les énormes armées n\'ont jamais la victoire assurée. Les foules militaires, terribles dans le succès, sont lamentables lors de la défaite. Elles sont surtout disposées aux formidables paniques. Ce sont les petites armées, qui ont presque toujours remporté les grandes victoires, et auxquelles la retraite est aisée et le retour offensif possible.
+
+Les généraux, a-t-on dit aussi, étaient jaloux les uns des autres, vieillis, ramollis, incapables. Est-ce que les vainqueurs étaient dans une posture meilleure ? Le major général de Moltke était-il un jouvenceau ? croit-on que ces feld-maréchaux, ces généraux, ces colonels de l\'armée allemande furent tous des héros robustes, intelligents, des troupiers indomptables ? Recrutés exclusivement dans la noblesse, devant leurs grades et leurs parchemins à la naissance, à la fortune plutôt qu\'au mérite et à l\'étude, pas très instruits, sauf quelques-uns, tous prétentieux, arrogants, présomptueux et mondains, ils n\'avaient aucune supériorité indiquée, et l\'on devait les supposer moins exercés que nos officiers, qui avaient fait leurs preuves en Afrique, en Crimée, en Italie, en Chine, au Mexique. Et puis, est-ce que les généraux de la Révolution étaient tous des stratégistes et des tacticiens de premier ordre ? Pas un général de la République, excepté Bonaparte, n\'était de taille à lutter, sur l\'échiquier des batailles, avec l\'archiduc Charles, le plus grand homme de guerre de son temps.
+
+Nos chefs improvisés, d\'anciens sergents promus généraux, Lannes, Murat, Marceau, Bernadotte, Brune, Junot, Davoust, ont prouvé par leurs victoires qu\'on pouvait gagner des batailles, en sortant d\'une étude de procureur comme Pichegru, ou de la boutique d\'une fruitière comme Hoche.
+
+Nos troupes, ajoute-t-on, étaient insuffisamment armées, mal équipées, pas entraînées et déplorablement approvisionnées ?
+
+Est-ce que les soldats de l\'an II étaient plus favorisés ? Ils se battaient sans jamais avoir fait l\'exercice. Quelques-uns n\'avaient pas de fusils, et ce n\'étaient pas seulement les boutons de guêtre qui manquaient aux fameux bataillons de la Moselle, en sabots !
+
+En réalité, toutes les grandes batailles de la Révolution ont été gagnées par des gardes nationaux ou à peu près. Ces volontaires, dit-on, et on a cherché à rabaisser leur mérite, avaient d\'admirables cadres de l\'ancien régime ; c\'est possible, mais les régiments de 1870 étaient aussi parfaitement encadrés.
+
+Ces soldats improvisés de la République, ces vainqueurs dmmapes et de Fleurus avaient ce qui manquait aux vieilles troupes de Napoléon III : la foi ! Elle déplace, prétendait-on autrefois, les montagnes, aujourd\'hui elle avance ou recule les frontières.
+
+C\'est ce défaut d\'élan, de confiance, ce manque d\'espoir et cette fuite de volonté, que Zola a parfaitement saisi et rendu dans sa synthèse imparfaite de l\'invasion de 70. Les premières pages du livre sont peut-être les meilleures.
+
+Le harassement, la courte haleine et le manque de nerfs de cette cohue désordonnée, battue sans s\'être battue, qu\'il nous montre, jetant sacs et fusils aux orties, ces soldats geignant, traînant, mauvais desservants de l\'autel de la patrie, blasphémant en face du drapeau, et apostats de la religion et du devoir, sur la route de Belfort à Dannemarie, sont historiques, dans le sens prudhommesque du mot. J\'ai eu le bonheur de ne pas faire nombre dans cette traînée d\'éclopés, de réclameurs et de pleurnichards. Mon corps, le 13e, sous les ordres de Vinoy, a échappé à la ratière. Il est rentré à Paris de Mézières, tambours battants, drapeaux déployés. Nous avons eu cependant le contre-coup de la panique, et la répercussion de la débandade. En route, çà et là, comme un essaim qui part, nous avons recueilli des évadés du sac où la Prusse avait fourré, d\'un tour de main, ce qui était la veille l\'armée française.
+
+L\'esprit de ces hommes, ramassés comme des ivrognes un lendemain de fête, était déplorable. Ils ont contaminé beaucoup des nôtres, ces avariés de l\'indiscipline ! C\'est le moral qui était pis que tout, dans l\'armée désarticulée d\'alors.
+
+Zola est narrateur exact quand il raconte la démoralisation suprême, l\'empereur traversant, somnambule du rêve confus qui s\'achevait en cauchemar, les villages encombrés, les routes trop étroites, les plaines crayeuses et gluantes où l\'on enfonçait, et traînant avec soi l\'ironie pesante de sa vaisselle d\'argent, de ses seaux à rafraîchir le Champagne, de ses chambellans importants, et de sa valetaille obstruante et bourdonnante. Le romancier historien a raison d\'attribuer une grand part dans la déroute, à cette voix impérieuse, venue de Paris, qui lui ordonnait de marcher sur l\'Est, aveuglement, follement, bêtement, jusqu\'à ce qu\'il s\'abattît, carcan fourbu, pour essayer de sauver la carrosserie de l\'état dynastique qu\'il remorquait. La Débâcle commença par en haut.
+
+Mais là n\'est pas encore toute l\'explication de nos malheurs. L\'histoire implacable, et impartiale aussi, dira un jour que la France a été violée parce qu\'elle s\'est laissé faire, parce qu\'elle n\'a pas serré les jambes, et mordu l\'agresseur, ainsi que doit se comporter la fille qui ne veut pas qu\'on la prenne. Civils et militaires ont été au-dessous de la tâche, au-dessous du devoir. Je ne parle pas seulement des traîtres avérés, comme Bazaine, ou des nullités comme Mac-Mahon. La masse du pays, soldats, caporaux, capitaines, ingénieurs, maires, propriétaires, cabaretiers, paysans, tout le monde, selon son grade, a sa part dans la défaite. Ils ont pu se montrer héroïques individuellement, se sacrifier ici et là, faire leur devoir, pékins ou troupiers, et avoir leur part de sacrifice et leur couronne de martyrs. Mais, considérée dans son ensemble, prise en bloc, jugée d\'ensemble et de haut, cette masse énorme ne s\'est pas défendue. Elle pouvait tout arrêter, tout écraser, en résistant, en demeurant dense et ferme : elle s\'est effritée, elle s\'est étiolée, au premier choc ; avant même ! Elle a accepté l\'invasion avec un fatalisme tout musulman. Les vivres, les lits, les boissons, l\'argent, les égards même, et les bonnes filles aussi, ont été mis en réserve sur le passage de nos hommes en débandade pour les Prussiens. On les attendait. Dans certains villages, on pensait, avec espoir, qu\'ils apportaient la paix, et peut-être le roi, derrière leurs caissons ; dans d\'autres, on se disait avec satisfaction qu\'ils payaient bien les denrées, les verres de vin, et que leur présence faisait « aller » le commerce.
+
+Avec l\'intensité de sa vision qui lui a permis, ayant visité quelques heures une mine, d\'en tracer un ineffaçable tableau, l\'auteur de *Germinal* a merveilleusement rendu ce tableau de la lâcheté et de la cupidité paysannes, au contact de l\'ennemi. Son père Fouchard, se barricadant et braquant son fusil sur ses compatriotes affamés, résume le rustre des départements envahis. Ah ! si l\'on avait seulement fusillé quelques douzaines de maires et de commerçants de la Moselle, de la Meurthe et des Ardennes, d\'abord, en attendant, puis ceux des environs de Paris, et en même temps, si l\'on avait, tous les matins, fait fonctionner le peloton d\'exécution pour les généraux coupables d\'être vaincus, pour les officiers trop disposés à prévoir la défaite, pour les mauvais soldats qui se plaignaient sans cesse, et jetaient la panique dans les rangs, dans la nation tout entière, la France n\'eût pas été éventrée du premier coup.
+
+Non ! en dépit de quelques magnifiques résistances isolées, on ne s\'est pas défendu, on n\'a pas été « vendu », comme le criaient les lâches et comme le répètent encore aujourd\'hui les imbéciles, on s\'est livré. On a dit aux ennemis : Donnez-vous donc la peine d\'entrer !
+
+Et ils nous ont écoutés. Oh ! avec hésitation, avec crainte même. On ne s\'aventure qu\'avec circonspection dans l\'antre du lion, même quand il est blessé, au fond de son trou cerné, et qu\'il semble n\'avoir plus ni dents ni griffes. Jusqu\'au jour de l\'insulte suprême, la parade, au seuil de Paris, du Ier mars, les vainqueurs ont redouté un réveil, qui ne vint pas.
+
+La bête était endormie pour longtemps. Elle dort encore.
+
+Il y eut sans doute, et cela sauva l\'honneur, protégea la façade, des héroïsmes individuels surprenants et des dévouements locaux admirables.
+
+Ces sacrifices exceptionnels ne sauraient faire contre-poids à la défaillance à peu près universelle. Certes on a raison de glorifier la résistance de Châteaudun. Mais en réfléchissant, n\'y a-t-il pas quelque honte en cet exemple unique, et s\'il y avait eu cent Châteaudun en France, ne devrait-on pas estimer cette défense multipliée comme toute simple et logique ? Encore doit-on considérer que les habitants mêmes de la ville indomptable estimèrent inutile et désastreuse l\'héroïque obstination d\'une poignée de francs-tireurs parisiens, sous le commandement d\'un Polonais, Lipowski. Ces lascars mal vus, et secrètement désavoués, parvinrent à barrer la cité malgré ses citoyens. C\'est par un abus de la force, une émeute de patriotes, venus on ne savait d\'où, que les notables n\'ont pu ouvrir les barricades, à la première sommation des Prussiens. Si toutes les villes, tous les villages, sur le passage des envahisseurs, avec ou sans le concours des habitants plus soucieux de la sauvegarde de leurs immeubles, de leurs boutiques, de leurs écus, que du salut de la France, eussent été transformés en redoutes, et défendus comme la sous-préfecture beauceronne, il aurait fallu six mois, un an peut-être, aux vainqueurs pour arriver jusqu\'à Châteaudun même, et la face des choses eût probablement changé. Il est bien difficile de conquérir un pays qui n\'accepte pas d\'avance la conquête. Napoléon, malgré son génie et ses invincibles grognards, en fit l\'expérience devant Saragosse.
+
+Tous ces grands et douloureux épisodes de l\'invasion de 1870 ont été brossés avec une vigueur et une sincérité intenses par Zola, et sa fresque émouvante de *la Débâcle* demeure jusqu\'à présent, à côté de morceaux fort estimables, comme *le Désastre*, des frères Margueritte, et de superbes et réconfortants récits, comme *les Feuilles de route*, de Paul Déroulède, le meilleur et le plus véridique de nos tableaux d\'histoire contemporaine.
+
+Avec son procédé de synthèse ordinaire, Zola a résumé en quelques personnages typiques l\'âme des foules. Maurice Levasseur, dont j\'aurais personnellement mauvaise grâce à contester la vraisemblance-ayant été avocat, volontaire, et caporal, comme lui en 1870,-personnifie *le Patriote* que les événements ballottent et qui se sent, atome impuissant, emporté dans le tourbillon des faits. Jean, le rustique vaillant, débrouillard et doux, c\'est le soldat résigné, qui marche dans le sillon de la gloire ou de la défaite, de son même pas de boeuf résistant qui s\'en va aux champs. Weiss, pacifique et raisonnable, raisonneur aussi, comptable à lunettes, qui, exaspéré, finit par prendre un fusil, joue sa vie en partisan, et meurt en héros, se dresse, figure exceptionnelle, sympathique, admirable. Zola, dans les pages qui racontent le dévouement de ce civil à la patrie, sa résolution superbe et son exécution en présence de sa femme, qui se cramponne désespérément à lui, a donné une note émue et profondément attristante. Malheureusement, ce bon citoyen, ce grand et obscur patriote est un peu une figure romanesque. Mes camarades et moi, nous avons plutôt rencontré Fouchard et Delaherche, par le hasard des routes.
+
+Le personnage le mieux composé, le plus vrai, le plus humain, et qui vous va au coeur, n\'est-ce pas cette brute valeureuse de lieutenant Rochas ? Voilà un soldat ! Il ne veut pas douter un jour. Il ne permet pas qu\'on suppose un instant que des Français puissent ne pas être vainqueurs, et toujours ! Il est glorieux, il est vantard, il est bruyant, insupportable et sublime. Même quand les canons des fusils s\'abaissent de toutes parts sur sa poitrine, il se croit victorieux. Il le serait, s\'il n\'était pas seul de sa foi. Il témoigne bien d\'une certaine surprise à voir la façon nouvelle de se combattre. Il se sent vaguement tombé dans un piège. Son âme, plus haute que la fortune, résiste. Ce Don Quichotte de l\'honneur français, qu\'on peut railler, et que Zola n\'épargne pas, lorsqu\'il nous le montre toujours prêt à conquérir le monde, un vieux refrain de victoire aux lèvres, entre sa belle et une bouteille de vin, nous soulage de l\'oppression issue du spectacle de tous ces gens qui s\'évanouissent, ou qui demandent grâce. Au milieu de tous ces fuyards, Rochas s\'obstine à vouloir marcher en avant. Seul il se tient debout quand les autres se jettent à plat ventre. Dans le spasme final, du fond de Givonne, il crie encore : « Courage, mes enfants, la victoire est là-bas ! » Sa fin est émouvante, et c\'est le passage qu\'il convient de citer :
+
+D\'un geste prompt cependant, il avait repris le drapeau. C\'était sa pensée dernière, le cacher pour que les Prussiens ne l\'eussent pas. Mais bien que la hampe fût rompue, elle s\'embarrassa dans ses jambes, il faillit tomber. Des balles sifflaient, il sentit la mort, il arracha la soie du drapeau, la déchira, cherchant à l\'anéantir. Et ce fut à ce moment que, frappé au cou, à la poitrine, aux jambes, il s\'affaissa parmi ces lambeaux tricolores comme vêtu d\'eux\...
+
+Avec lui finissait une légende.
+
+Pauvre brave Rochas ! il console, il repose de ces Choutreau et de ces Loubet, encore un nom malencontreusement choisi, comme celui du pétomane de *la Terre*, que Zola a si impitoyablement dessinés. L\'auteur de *la Débâcle* croit que la légende est finie avec le brave lieutenant. Elle renaîtra, et d\'autres Rochas reprendront la tradition absurde, extravagante, stupide peut-être, mais grande et profitable, des héros humbles dont l\'enthousiasme est la force et le sacrifice le bonheur. C\'est avec des Rochas, beaucoup de Rochas s\'obstinant à croire au succès quand même, et du plus profond de l\'abîme saluant l\'espérance, que les générations à venir éviteront les débâcles futures. Au *de profundis* des lâches et des traîtres opposons l\'*alléluia* des croyants et des braves. Au moins, tant qu\'il sera besoin d\'avoir des braves, de compter sur eux, et d\'appeler, autour du drapeau menacé, ceux qui croient encore à ce vieux symbole de la Patrie.
+
+Il est possible que l\'avenir meilleur, plus raisonnable, plus pacifié, nous réserve la surprise de l\'accord universel. Ce rêve est encore improbable, sans apparaître impossible, irréalisable. Les Etats-Unis d\'Europe ne sont qu\'une chimère temporaire. Il fut une époque où les Bourguignons étaient des Prussiens pour les Parisiens. Mais il faudrait commencer par le commencement : la restitution à la France de son territoire, et la substitution de la République sociale et fraternelle aux empires et aux républiques autoritaires et fanatiques du monde actuel. En attendant que cette utopie, nullement fantastique ni éternelle, soit la réalité de demain, il est prudent de conserver chez nous de la graine de ces toqués de Rochas, et de méditer, en relisant *la Débâcle*, sur les causes de la défaite de 1870, sur les moyens d\'en éviter le recommencement.
+
+Comme au mois de mars 1908, lorsqu\'il fut question de transférer les restes de Zola au Panthéon, et qu\'on discuta les crédits à cet effet, comme après cette cérémonie, *la Débâcle* provoqua, lors de sa publication, des protestations diverses. Toutes aussi injustifiées. L\'une d\'elles attira surtout l\'attention. Elle provenait d\'un officier allemand, le capitaine Tanera, qui assistait, faisant partie du grand état-major, à la bataille de *Sedan*.
+
+Ce vainqueur bénévole, et réclamiste, se permit de prendre la défense des soldats français qu\'il estimait insultés par Zola.
+
+Toute la bande des aboyeurs anti-zolistes, parmi lesquels se retrouvent d\'ailleurs actuellement les thuriféraires les plus agenouillés devant l\'auteur de *J'Accuse,* fit chorus avec le francophile prussien.
+
+Un journal, qui depuis sollicita l\'honneur de reproduire en feuilleton *la Débâcle*, inséra ceci :
+
+C\'est un acte de mauvais français, que M. Zola a accompli en écrivant *la Débâcle*, un allemand vient de le lui rappeler et de lui infliger une leçon de patriotisme, en rendant aux vaillants soldats, qui sont morts pour la France, l\'hommage que M. Zola aurait dû leur décerner.
+
+Ce capitaine Tanera, dont on faisait le vengeur de l\'honneur français, le gardien de notre drapeau, avait prétendu que l\'auteur de *la Débâcle* avait fabriqué les faits, et sali une armée qui avait été malheureuse, mais qui, ayant combattu avec courage, n\'avait pas perdu son honneur dans la défaite.
+
+Le capitaine, qui falsifiait, beaucoup plus que Zola, les faits, les textes du moins, car nulle part, dans *la Débâcle*, on ne pouvait lire que l\'armée, prise dans son ensemble, avait été déshonorée parce qu\'elle avait été vaincue, ajoutait, avec une affectation de hautaine commisération à notre égard :
+
+Je ne veux pas chercher à savoir si, en écrivant un tel livre, M. Zola a nui à la France, ou s\'il l\'a servie ; dans tous les cas, il lui manque une qualité : le respect du malheur.
+
+En ce sens\... nous sommes, nous autres sauvages, de toutes autres gens.
+
+J\'espère que vous ne m\'en voudrez pas d\'avoir aussi crûment dit mon opinion. C\'est celle d\'un homme qui connaît mieux que M. Zola l\'armée de Mac-Mahon, car il l\'a combattue, tandis que M. Zola ne l\'a vue que de sa table, à travers des lunettes brouillées par le parti pris.
+
+Il ne faudrait pas, en exaltant ce capitaine bavarois pour écraser Zola, perdre tout bon sens, et être dupe d\'un soi-disant accès de générosité de la part d\'un vainqueur, devenu compatissant. Entre parenthèses, ce capitaine si bon pour la France, au coeur si tendre qu\'il déplore nos défaites, en accusant Zola de les exagérer, commandait à Bazeilles. Il est un de ceux qui brûlèrent une ville coupable d\'avoir abrité des braves résolus à défendre contre l\'envahisseur, maison par maison, le sol de la patrie. Il présida la fusillade sommaire de femmes, de vieillards, d\'adolescents, pour les punir d\'avoir eu des frères, des fils, des maris, qui avaient fait le coup de feu contre les troupes régulières de S.M. Guillaume, sans avoir été revêtus auparavant de l\'uniforme admis, qui autorise l\'usage des armes contre les bandits qui viennent tuer, piller et brûler chez vous.
+
+Ce capitaine, qui protégeait, en 1892, l\'armée française contre les coups que, paraît-il, lui portait Zola, de son cabinet de travail, avec les yeux troublés, disait-il, par de mauvaises lunettes, avait commandé à ses hommes, sans doute des amis de la France comme lui, d\'arroser de pétrole les habitations de Bazeilles, et d\'en faire des torches, à la lueur desquelles on fusillerait plus commodément les prisonniers.
+
+Voilà le champion de l\'honneur français. Toute la presse reproduisit avec admiration le réquisitoire du Bavarois. On célébra à l\'envi la magnanimité de cet ennemi chevaleresque, rendant un public hommage à ceux qu\'il avait battus, les qualifiant tous de redoutables adversaires, et ne voulant voir parmi ces vaincus que des héros.
+
+La presse fut-elle donc dupe de cet accès de générosité ? Ne vit-on pas, dans cet éloge des Français, ce qu\'il y avait réellement, un hyperbolique hommage aux Allemands ? En grandissant les vaincus, le Bavarois haussait encore les victorieux, dont il était. L\'armée française était, il le proclamait, la première du monde. Eh bien ? et l\'armée allemande ? Évidemment, elle devait encore être placée au-dessus, hors concours. En contestant les infériorités, les paniques, les divagations des troupes en marche, l\'esprit d\'indiscipline et de démoralisation des adversaires, l\'officier allemand affirmait sa supériorité et celle de ses hommes, il établissait l\'incontestable super-excellence de ceux qui avaient fini par avoir raison d\'une armée aussi bien organisée, aussi admirablement commandée, aussi parfaitement approvisionnée, et aussi capable et résistante que l\'était l\'armée de Mac-Mahon.
+
+Puisqu\'ils avaient pu triompher de combattants aussi formidablement préparés pour la victoire, les Allemands devenaient, selon l\'expression de leur philosophe Nietzsche, des sur-soldats.
+
+Le capitaine Tanera, en louangeant la France, ne faisait donc que le panégyrique de l\'Allemagne. Il portait à la seconde puissance sa patrie, en donnant à la nôtre la valeur d\'une unité. Il proclamait enfin, en reconnaissant la supériorité relative des races latines, l\'absolue supériorité des races germaniques. Ce Bavarois se moquait de nous avec ses compliments. Il nous faisait très grands, pour se montrer plus grand que nous, puisque nous étions à terre, et qu\'il nous piétinait. La France, haute encore, mais assommée, faisait un piédestal géant à la géante Germania. Nos journalistes, surtout pour faire pièce à l\'auteur de *la Débâcle*, prirent pour argent comptant les grosses flatteries du capitaine allemand.
+
+Zola répondit à ce malin Bavarois. Dans le *Figaro*, qui avait, le premier, publié la lettre du capitaine Tanera, parut la réplique.
+
+Plusieurs questions techniques et de détail avaient été discutées par le capitaine, Zola opposa ses documents, ses renseignements, sa sincérité :
+
+J\'espère, écrivit-il, qu\'on me fait au moins l\'honneur de croire que, pour tous les faits militaires, je me suis adressé aux sources. Après la défaite, chaque chef de corps, voulant s\'innocenter, a publié ou fait publier une relation détaillée de ses opérations. Nous avons eu ainsi les livres des généraux Ducrot, Wimpffen, Lebrun, et, si le général Douai s\'est abstenu, c\'est qu\'un de ses aides de camp, le prince Bibesco, a écrit sur les mouvements du 7e corps un ouvrage extrêmement remarquable, dont je me suis beaucoup servi.
+
+Ayant ainsi justifié ses affirmations d\'ordre stratégique, et cité ses auteurs, Zola, animé d\'une grande et légitime indignation, proteste contre la naïveté avec laquelle, dans la presse française, on a paru accueillir les hypocrites éloges d\'un officier allemand, brûleur de maisons et tueur de femmes, à Bazeilles.
+
+Il faudrait vraiment être bien nigaud pour accepter, dit alors Zola, de tels éloges, derrière lesquels se cache un soufflet si insultant à la patrie française ! Eh bien ! non, il n\'est pas vrai que tout le monde ait fait son devoir. L\'histoire a ouvert son enquête, la vérité maintenant est connue et doit se dire. Oui, il y a eu des soldats qui, dans l\'affolement de la défaite, ont jeté leurs armes ; oui, nos généraux, si braves qu\'ils fussent, se sont presque tous montrés des ignorants et des incapables ; oui, nos régiments ont crié la faim, se sont toujours battus un contre trois, ont été menés à la bataille comme on mène des troupeaux à la boucherie ; oui, la campagne a été une immense faute, dont la responsabilité retombe sur la nation entière, et il faut la considérer aujourd\'hui comme une terrible épreuve nécessaire, que la nation a traversée, dans le sang et dans les larmes, pour se régénérer.
+
+Voilà ce qu\'il faut dire, voilà ce qui est un véritable soulagement pour la France. C\'est le cri même du patriotisme intelligent et conscient de lui-même. Nous avons besoin que la faute soit avouée et payée, que la confession soit faite, pour sauver de la catastrophe notre fierté, et notre espoir dans la victoire future. Et, quant aux capitaines bavarois, il faut qu\'ils soient bien persuadés que la France vaincue par eux n\'est pas la France d\'aujourd\'hui, mais une France démoralisée, éperdue, sans vivres, sans chefs, et pourtant si redoutable encore que, partout, elle n\'a succombé que sous le nombre, et dans les surprises.
+
+J\'imagine qu\'au lendemain de la guerre le capitaine Tanera n\'aurait point osé écrire sa lettre. Bazeilles était alors une telle tache de sang, avait soulevé dans le monde entier un tel cri d\'exécration que les Bavarois eux-mêmes n\'aimaient point à rappeler leur victoire.
+
+Mais le capitaine dit qu\'il était à Bazeilles, et il m\'aurait peut-être suffi de lui répondre que, dès lors, il n\'était pas placé du bon côté pour juger mon livre, et décider si j\'avais fait, avec *la Débâcle*, une besogne utile ou nuisible à la France.
+
+Car, par le fait de cette polémique extravagante, me voilà forcé de défendre mon oeuvre française, mon patriotisme français, contre un des égorgeurs, un des incendiaires de Bazeilles.
+
+Voilà le langage d\'un patriote et d\'un bon Français. C\'est aussi la voix même de la raison et de la vérité que fait entendre ici Zola. Ceux qui l\'accusent d\'avoir attaqué, affaibli l\'armée avec son livre, n\'ont pas lu *la Débâcle* ou bien ils n\'ont pas voulu en comprendre l\'esprit, ni la portée. Ce n\'est pas avec cette page d\'histoire que le défenseur de Dreyfus peut être accusé, avec justice, d\'avoir porté atteinte à l\'armée, diminué l\'esprit militaire, et abattu les courages. Ces reproches sont faux, et il ne faut pas mêler *la Débâcle* à l\'affaire Dreyfus.
+
+Zola a expliqué, à propos des attaques du capitaine Tanera, qu\'il avait cru devoir ne pas imiter ceux de ses devanciers qui, dans les tableaux de batailles, supprimaient les défaillances, et ne peignaient que les héroïsmes. L\'homme, avec ses misères et ses faiblesses, devait se retrouver partout le même, et le champ de bataille ne pouvait faire exception.
+
+La légende du troupier français, éternellement et comme fatalement invincible, lui avait semblé belle, mais exécrable. Elle était la cause première de nos effroyables désastres. La nécessité de tout dire s\'est imposée à lui. D\'où son livre impartial et implacable.
+
+Il concluait par cet éloquent appel à la sincérité, que les plus ardents patriotes ne peuvent qu\'approuver :
+
+La guerre est désormais une chose assez grave, assez terrible pour qu\'on ne mente point avec elle. Je suis de ceux qui la croient inévitable, qui la jugent bonne souvent, dans notre état social.
+
+Mais quelle extrémité affreuse, et à laquelle il ne faut se résigner que lorsque l\'existence même de la patrie est en jeu ! Je n\'ai rien caché, j\'ai voulu montrer comment une nation comme la nôtre, après tant de victoires, avait pu être misérablement battue ; et j\'ai voulu montrer aussi de quelle basse-fosse nous nous étions relevés en vingt ans, et dans quel bain de sang un peuple fort pouvait se régénérer.
+
+Ma conviction profonde est que, si le mensonge faussement patriotique recommençait, si nous nous abusions de nouveau sur les autres, et sur nous-mêmes, nous serions battus encore. Voilà la guerre inévitable dans son horreur, acceptons-la et soyons prêts à vaincre.
+
+Quel patriote pourrait désapprouver ce langage ferme et sage ? Les lignes qui terminent cet admirable et patriotique manifeste sont d\'une douceur infinie, et d\'une émotion si humaine, qu\'on ne saurait les lire sans que tout l\'être ne vibre à l\'unisson de l\'écrivain :
+
+Ah ! cette armée de Châlons que j\'ai suivie dans son calvaire, avec une telle angoisse, avec une telle passion de tendresse souffrante ! Est-ce que chacune de mes pages n\'est pas une palme que j\'ai jetée sur les tombes ignorées des plus humbles de nos soldats ? Est-ce que je ne l\'ai pas montrée comme le bouc émissaire, chargée des iniquités de la nation, expiant les fautes de tous, donnant son sang et jusqu\'à son honneur, pour le salut de la Patrie ? Nier ma tendresse, nier ma pitié, nier mon culte en larmes, c\'est nier l\'éclatante lumière du soleil.
+
+Qui donc a écrit que *la Débâcle* était l\'épopée des humbles, des petits ? Oui, c\'est bien cela. Je n\'ai pas épargné les chefs, ceux contre lesquels, autour de *Sedan*, monte encore le cri d\'exécration des villages. Mais les petits, les humbles, ceux qui ont marché pieds nus, qui se sont fait tuer le ventre vide, ah ! ceux-là, je crois avoir dit assez leurs souffrances, leur héroïsme obscur, le monument d\'éternel hommage que la nation leur doit dans la défaite.
+
+Qui donc pourrait prétendre que de tels sentiments sont ceux d\'un calomniateur systématique de l\'armée ? Des défenseurs du livre attaqué et faussement commenté se levèrent, et Zola fut compris et approuvé par des hommes dont le patriotisme, et même le militarisme, étaient avérés.
+
+Le *Figaro* publia, à la suite des discussions allumées par l\'incendiaire de Bazeilles, une lettre intéressante du colonel en retraite Henri de Ponchalon.
+
+Cet officier supérieur disait :
+
+Voulez-vous permettre à un combattant de l\'armée de Châlons de vous adresser quelques réflexions au sujet de votre réponse au capitaine bavarois Tanera ! Je ne suis pas étonné que ce capitaine ait critiqué votre livre ; il est dans son rôle. Les Allemands ont toujours affecté de grossir les difficultés qu\'ils ont rencontrées : c\'est ainsi qu\'ils ont soutenu que le maréchal Bazaine avait rempli tout son devoir !
+
+Oui, « la vérité doit se dire » ; cette vérité n\'est-elle pas le meilleur garant de l\'avenir ? Ce n\'est pas avec des illusions que nous ferons revivre les gloires militaires du passé.
+
+Oui, nous avons eu des généraux ignorants, incapables ; j\'en ai connu qui ne savaient pas lire une carte ! Mais, tout en reconnaissant le sentiment patriotique dont vous êtes inspiré, je dois dire que vous avez généralisé ce qui n\'était qu\'une exception.
+
+Quant aux autres officiers, si ceux que vous avez dépeints ont pu exister, ils n\'étaient, eux aussi, qu\'une exception. Entre le capitaine Baudoin et le lieutenant Rochas, il y avait place pour l\'officier intelligent, instruit, énergique, tout à fait à la hauteur de ses fonctions.
+
+Si vous n\'avez pas épargné les chefs, avez-vous, comme vous le prétendez, rendu complètement justice aux soldats ?
+
+Vous affirmez que, dans l\'affolement de la défaite, il y a eu des soldats qui ont jeté leurs armes. Je puis certifier que, dans le 1er corps (corps Ducrot), ce fait ne s\'est jamais produit, ni à Wissembourg, ni à Froeschwiller, ni à *Sedan*.
+
+Émile Zola répondit au colonel de Ponchalon :
+
+Paris, 18 octobre 1892.
+
+Monsieur,
+
+Permettez-moi de répéter que je n\'ai nié ni le sentiment du devoir ni l\'esprit de sacrifice de l\'armée de Châlons. Entre le capitaine Baudoin et le lieutenant Rochas, il y a le colonel de Vineuil.
+
+Après les mauvaises nouvelles de Froeschwiller, des soldats du 7e corps, qui n\'avaient pas combattu, ont jeté leurs armes. Je n\'aurais pas affirmé un fait pareil sans l\'appuyer sur des documents certains. Et puis, encore un coup, c\'est notre force et notre grandeur aujourd\'hui de tout confesser.
+
+Je vous réponds, Monsieur, parce que vous paraissez croire, comme moi, à la nécessité bienfaisante de la vérité, et je vous prie d\'agréer l\'assurance de mes sentiments distingués.
+
+ÉMILE ZOLA.
+
+Mais la plus précise et la plus énergique défense de l\'auteur et du livre, pour ceux qui ne se donnent pas la peine de lire et qui acceptent et colportent des jugements tout faits, la plus décisive réfutation des allégations de ceux qui soutenaient que *la Débâcle* était une oeuvre anti-patriotique, émane de M. Alfred Duquet.
+
+Personne ne contestera la compétence de l\'excellent historien de la guerre de 1870. Il est un des patriotes actifs les plus autorisés.
+
+M. Alfred Duquet, quelques jours après la mort de Zola, écrivait ces lignes, que devront méditer tous ceux qui parlent avec ignorance, parti pris et mauvaise foi de *la Débâcle* :
+
+Comment comprendre les imprécations avec lesquelles fut accueilli l\'un des meilleurs romans de Zola, *la Débâcle* ? Comment accepter ces accusations de « traîner l\'armée dans la boue », alors qu\'il avait peint l\'exact tableau de cette fatale époque ?
+
+Non, après avoir relu *la Débâcle*, j\'y vois bien peu de tableaux à retoucher, bien peu de jugements à réformer, et j\'y trouve des descriptions superbes. Dimanche, à l\'heure où l\'éloquence de M. Chaumié coulait sur le cercueil, pareille à la froide pluie de la veille, je parcourais les lettres de Zola, quand il préparait son roman militaire. Je me rappelais ses arrivées subites à mon cabinet, pour me demander des renseignements, et, surtout, mes stations prolongées rue de Bruxelles, où, penché au-dessus des cartes, je répondais à ses questions stratégiques et tactiques.
+
+Eh bien, je dois l\'avouer, il ne me parut guidé que par le désir de dire vrai sur les hommes et sur les choses, et je ne pus saisir en lui la moindre haine de l\'armée. Il comprenait les questions avec une rapidité surprenante et, toujours, s\'arrêtait à la solution juste.
+
+Aussi bien, ce livre affreux enseigne que, sans la discipline, on ne saurait vaincre : « Si chaque soldat se met à blâmer ses chefs et à donner son avis, on ne va pas loin pour sûr. » Il flétrit Chouteau le « pervertisseur, le mauvais ouvrier de Montmartre, le peintre en bâtiments, flâneur et noceur, ayant mal digéré les bouts de discours entendus dans les réunions publiques, mêlant des âneries révoltantes aux grands principes d\'égalité et de liberté ». Et, encore : « Malheur à qui s\'arrête dans l\'effort continu des nations, la victoire est à ceux qui marchent à l\'avant-garde, aux plus savants, aux plus sains, aux plus forts ! » Et, enfin : « Jean était du vieux sol obstiné, du pays de la raison, du travail et de l\'épargne. »
+
+Au point de vue technique, Zola reconnaît que la marche de Châlons sur Metz était pratique le 19 août, possible, mais aventureuse le 23, « un acte de pure démence » le 27. Et comme il s\'élève contre le stupide abandon des collines dominant *Sedan*, aux environs de Saint-Menges, Givonne, Daigny, La Moncelle ! À propos de la retraite vers Mézières, prescrite le 1er septembre à huit heures du matin par Ducrot,-qui n\'avait cessé de critiquer tout et tous, et qui, mis au pied du mur, se montrait au-dessous de tout et de tous,-je vois encore Zola me désignant, du doigt, sur une carte prussienne où étaient notées les positions de tous les corps d\'armée, le défilé de Saint-Albert, et me disant :
+
+-Mais Ducrot, avant de donner ses ordres, n\'avait donc pas envoyé un cavalier pour savoir si les Allemands ne se trouveraient point à Vrigne-aux-Bois ?
+
+Non, *la Débâcle* n\'est pas un mauvais livre, car on ne saurait guérir une plaie sans la voir, sans la sonder ; c\'est une oeuvre forte et saine. Il faut être juste envers tout le monde, même envers ceux qui vous ont fait le plus de mal.
+
+Cette calme et impartiale apologie de l\'auteur de *la Débâcle*, cette mise au point de ses sentiments sur l\'armée, cette infirmation de tant d\'arrêts injustes et injustifiés de la presse, répercutés dans l\'opinion, paraissait dans la Patrie, organe de la *Ligue des Patriotes*, et dont le directeur Émile Massard est en même temps le rédacteur en chef de l\'Écho de l\'*Armée*, journal non seulement patriote, mais militariste, étant pour l\'Armée ce que *la Croix* est pour l\'Église, et celui qui signait cette loyale déclaration, M. Alfred Duquet, était l\'adversaire politique de Zola et un violent anti-dreyfusard.
+
+Pour tout lecteur de bonne foi, et non aveuglé par la passion de parti, l\'affaire de *la Débâcle* est jugée définitivement. C\'est un livre d\'histoire sévère, où les nôtres ne sont pas flattés, sans doute, mais où les ennemis sont dénoncés et flétris dans leurs actions atroces, où l\'historien a cherché et su trouver presque partout la vérité. Toute vérité n\'est pas bonne à dire, affirme la sagesse des nations. Dans un salon, c\'est possible, c\'est prudent surtout, mais l\'histoire ne doit connaître ni la politesse ni l\'hypocrisie.
+
+Pour achever de faire toute la lumière sur les ténèbres que l\'hostilité et l\'indignation envers Zola, homme de parti, ont projetées sur Zola écrivain, l\'historien su*bis*sant injustement la réprobation de certaines consciences qui visait le défenseur de Dreyfus, je reproduirai, magnifique profession de foi bien française et bien patriote, la déclaration qui terminait un article magistral, intitulé *Sedan,* paru dans le *Figaro* du 1er septembre 1891, c\'est-à-dire un an avant l\'apparition de *la Débâcle* :
+
+
+Personne, certainement, ne souhaite la guerre. Ce serait un souhait exécrable, et ce que nous avons enterré avec nos morts, à *Sedan*, c\'est la légende de notre humeur batailleuse, cette légende qui représentait le troupier français partant à la conquête des royaumes voisins, pour rien, pour le plaisir. Avec les armes nouvelles, la guerre est devenue une effrayante chose, qu\'il faudra bien subir encore, mais à laquelle on ne se résignera plus que dans l\'angoisse, après avoir fait tout au monde pour l\'éviter. Aujourd\'hui, des nécessités impérieuses, absolues, peuvent seules jeter une nation contre une autre.
+
+
+La guerre, mais c\'est la vie même ! Rien n\'existe dans la nature, ne naît, ne grandit, ne se multiplie que par un combat. Il faut manger et être mangé pour que le monde vive. Et seules, les nations guerrières ont prospéré ; une nation meurt dès qu\'elle désarme.
+
+La guerre, c\'est l\'école de la discipline, du sacrifice, du courage, ce sont les muscles exercés, les âmes raffermies, la fraternité devant le péril, la santé et la force.
+
+Il faut l\'attendre, gravement. Désormais, nous n\'avons plus à la craindre.
+
+Zola disant : « La guerre, mais c\'est la vie même ! Elle est inévitable ! Il faut s\'y préparer et désormais nous n\'avons plus à craindre ! » est-il un organisateur de la déroute ? Mais jamais apôtre de la Revanche n\'a tenu langage plus net, plus persuasif, plus chauvin aussi. La dernière phrase est une reproduction, avec moins de latinité, du coeur « léger », le cri de l\'âme exempte d\'inquiétudes après la décision, le coeur intrépide, expression choisie, mais déplacée, si rudement reprochée à Émile Ollivier.
+
+Toutes les sottises, toutes les malveillances, toutes les déclamations mensongères de ceux, qui, pour atteindre le Zola de Dreyfus, injurièrent et maltraitèrent le Zola de *la Débâcle*, ne prévaudront pas contre la vérité, contre l\'évidence. L\'auteur a d\'avance bouclé toutes ces mâchoires hurlantes avec cette affirmation, que Paul Déroulède a certainement dite avant lui, et que je voudrais voir inscrite sur tous les tableaux appendus aux murs de nos écoles primaires :
+
+« Seules les nations guerrières ont prospéré, une « nation meurt dès qu\'elle désarme ! »
+
+Zola a également expliqué les sentiments qui l\'animaient en écrivant *la Débâcle*, dans une lettre, adressée à M. Victor Simond, directeur du Radical, le jour où commençait, dans ce journal, la publication de cet ouvrage.
+
+Cette lettre ne figure pas dans la *Correspondance* de Zola qui vient d\'être publiée :
+
+Mon cher Directeur,
+
+Vous allez publier *la Débâcle* et vous me demandez quelques lignes de préface.
+
+D\'ordinaire, je veux que mes oeuvres se défendent d\'elles-mêmes et je ne puis que témoigner ma satisfaction en voyant celle-ci publiée dans un grand journal populaire qui la fera pénétrer dans « les couches profondes de la démocratie ».
+
+Le peuple la jugera, et elle sera pour lui, je l\'espère, une leçon utile. Il y trouvera ce qu\'elle contient réellement : l\'histoire vraie de nos désastres, les causes qui ont fait que la France, après tant de victoires, a été misérablement battue, l\'effroyable nécessité de ce bain de sang, d\'où nous sommes sortis régénérés et grandis.
+
+Malheur aux peuples qui s\'endorment dans la vanité et la mollesse ! La puissance est à ceux qui travaillent et qui osent regarder la vérité en face.
+
+Cordialement à vous.
+
+ÉMILE ZOLA.
+
+19 octobre 1892.
+
+\* \* \* \* \*
+
+Forcément, dans cette étude, qui ne saurait dépasser les limites normales d\'un ouvrage de librairie, j\'ai dû analyser sommairement, ou me contenter d\'indiquer, certains livres de Zola. Je n\'ai pu accorder à chaque roman la même part d\'examen et de critique, mais les observations et les remarques d\'un ordre général, faites sur toutes les oeuvres étudiées en ces pages, peuvent s\'appliquer à celles qui sont mentionnées seulement.
+
+Le dernier livre de la série des *Rougon-Macquart*est *le Docteur Pascal*.
+
+Ce docteur est l\'ultime rameau du fameux arbre généalogique, que Zola prit tant de peine à greffer, à émonder, et à décrire.
+
+Ce n\'est pas que Zola fût à court de Rougons et dépourvu de Macquarts.
+
+Encore moins se trouvait-il à bout de souffle, vidé de sève, et ne pouvant plus faire vivre et palpiter de nids dans les branches épuisées de son arbre, sur le point d\'être sec. Il avait d\'autres projets. Il écrivait, dès 1889, à Georges Charpentier :
+
+Je suis pris du désir furieux de terminer au plus tôt ma série des Rougon-Macquart. Cela est possible, mais il faut que je bûche ferme\...
+
+Ah ! mon ami, si je n\'avais que trente ans, vous verriez ce que je ferais. J\'étonnerais le monde !\...
+
+Il devait faire succéder aux *Rougon-Macquart*les Trois Villes, et les Quatre *Évangiles*. Mais il commençait à être las de ce monde de personnages à porter, à remuer. La fatigue, ou plutôt l\'ennui, lui venaient au milieu de cet enchevêtrement de collatéraux, qui faisait ressembler son travail de romancier à une besogne de clerc de notaire élaborant une liquidation compliquée. Ah ! que cette famille prolifique lui donnait de mal pour établir, physiologiquement et socialement, sa répartition successorale. Il lui a fallu l\'attention méticuleuse d\'un archiviste-paléographe pour ne pas commettre d\'erreur dans les noms, prénoms, âges, degrés de parenté, et faits d\'alliance de tous ces Rougon et de tous ces Macquart, nomades et divers, dont pas un n\'exerçait le même métier, presque tous séparés d\'avec leurs parents, et dispersés aux quatre coins de la société, ainsi que les héritiers Rennepont dans *le Juif-Errant* d\'Eugène Sue.
+
+Enfin, il s\'affranchit de cette servitude de l\'hérédité, dont il avait d\'abord puisé l\'idée dans l\'ouvrage du docteur Lucas. Il devait toutefois y revenir, mais incidemment, dans ses ouvrages subséquents, comme lorsqu\'il fait figurer, dans ses Trois Villes et dans ses Trois *Évangiles*, les Froment, « ayant le front en forme de tour ».
+
+Il affirmait, en prenant pour directrice, dans la construction de son vaste monument, la théorie de l\'hérédité, sa conception du *Roman Expérimental*. Il proclamait la nécessité de faire de la science l\'auxiliaire ou plutôt la tutrice de l\'imagination. En même temps, il bénéficiait d\'un procédé de composition commode, abrégeant des descriptions de personnages et dispensant de créer et de combiner, chaque fois qu\'il commençait un livre, toute une série de types nouveaux. Il évitait des redites en faisant passer et repasser du premier plan au second ses acteurs, et il usait du système qui avait avantageusement servi à Balzac pour sa Comédie Humaine.
+
+Une différence toutefois est à signaler. Balzac, en conservant et en distribuant, à travers toutes les scènes de sa Comédie aux cent actes divers, les personnages déjà vus et présentés au lecteur, se préoccupait avant tout de donner l\'apparence de la vie sociale à son monde imaginaire ; il voulait, comme il l\'a dit lui-même, faire concurrence à l\'état-civil.
+
+Dans la vie réelle, tous les contemporains se retrouvent et se coudoient, mêlés à une existence commune, et ils sont en perpétuel contact. Nos passions, nos vices, nos plaisirs, nos devoirs, nos besoins tournent dans un même cercle synchronique : dans tout drame, dans toute comédie dont nous sommes tour à tour les héros, se retrouvent, indifférents à l\'action, mais présents, les comparses sociaux.
+
+Nous entraînons avec nous dans notre course, bonne, méchante, laborieuse, inféconde, criminelle, honnête, sublime ou vulgaire, tout un choeur de satellites contemporains : gens de loi, médecins, prêtres, bureaucrates, commerçants, artistes, filles, actrices, mères de famille, enfants et vieillards. C\'est pourquoi, avec son puissant génie reconstitutif de la réalité, Balzac a eu grand soin de faire escorter ses premiers rôles par des utilités, telles qu\'on les rencontre forcément sur les planches de la société. S\'il avait besoin d\'un avoué, il prenait Derville ou Desroches ; ses banquiers étaient invariablement Nucingen ou du Tillet ; lui fallait-il un club d\'élégants jeunes hommes, il faisait signe à de Marsay, à Maxime de Trailles, à Félix ou à Charles de Vandenesse ; la presse intervenait avec Andoche Finot ; Lousteau, Émile Blondet ; la littérature était représentée par d\'Arthez, Nathan, Claude Vignon, Camille Maupin. Tout un personnel social obéissait ainsi à la pensée du maître pour les besoins de l\'optique du livre. Mais de ces êtres fictifs, passant et repassant dans l\'oeuvre, c\'était le caractère professionnel, la fonction, le rouage social qui était requis et montré principalement.
+
+Zola, avec ses Rougon-Macquart, a voulu autre chose : c\'est le type humain, avec ses différences provenant du milieu et du caractère physiologique, c\'est le tempérament et la constitution physique, les vertus et les vices, les tares et les dégénérescences de certains représentants de l\'humanité, dans une période d\'années allant du coup d\'État de 1851, origine de la fortune des Rougon, à la débâcle de 1870-71, chute de l\'empire et époque de la naissance du dernier rejeton de la famille, « enfant inconnu, le Messie de demain peut-être », qu\'il a promenés à travers ces vingt volumes d\'aventures individuelles et de tableaux collectifs.
+
+Il a relié entre eux tous les héros de ses livres pour prouver que, s\'ils étaient tels qu\'il nous les décrivait, cela provenait de ce fait accidentel, que leur aïeule, Adélaïde Fouque, mariée à Pierre Rougon, puis devenue maîtresse de « ce gueux de Macquart », était atteinte d\'aliénation mentale.
+
+On ne voit pas bien l\'intérêt que cette consanguinité peut présenter. S\'il s\'agissait de prouver que la folie est héréditaire, ce qui est souvent vérifié, fallait-il se donner la peine de tant écrire ? Tous les personnages de la série de Zola ne sont pas des aliénés. Presque tous ont des bizarreries, des violences, des nervosités, quelques-uns sont criminels, d\'autres su*bis*sent des excitations sensuelles irrésistibles, et leurs existences sont bouleversées par des passions coupées d\'événements tragiques ou douloureux-mais ont-ils besoin d\'être, pour cela, des Rougon ou des Macquart ? Sans descendre d\'Adélaïde Fouque, beaucoup de familles et d\'individus isolés ressemblent à tous ces produits de la folle des Tulettes. On n\'écrit pas non plus de romans avec des personnages insignifiants, à qui rien n\'est arrivé et ne peut arriver. Donc il fallait nécessairement qu\'à chacun de ces Rougon et de ces Macquart un intérêt s\'attachât, qu\'ils fussent des sujets d\'étude, que leur existence présentât des particularités méritant d\'être examinées et décrites.
+
+Ils devaient tous êtres des « héros ».
+
+Zola a donc exagéré l\'importance de l\'hérédité, dans son oeuvre.
+
+Remarquons, au point de vue du relief, de l\'intensité de la vie des principaux personnages de la série, que les plus intéressants, ceux qui s\'imposent à l\'esprit du lecteur, et demeureront vivaces dans la mémoire n\'ont aucun caractère héréditaire : Coupeau, le formidable alcoolique, Souvarine, le Slave farouche, Jésus-Christ, le rustre venteux, Albine, l\'Ève sauvage du Paradou, Miette, qui tentait le drapeau des insurgés avec son enthousiaste ferveur de porte-bannière de la confrérie de Marie, tous ces types inoubliés et inoubliables sont en dehors de la fameuse généalogie, et bien d\'autres que je néglige. Ceux qui en font partie, comme Aristide Saccard, Lantier, Nana, Gervaise, n\'avaient pas besoin de cette filiation pour être ceux qu\'ils sont, et pour justifier l\'attention des hommes.
+
+Le Docteur Pascal, lui-même, est si peu le congénère des *Rougon-Macquart*qu\'il se classe à part, se servant, pour expliquer sa dissemblance, son isolement dans la famille, de l\'exception prévue par les savants, prudente réserve que Lucas a décrite sous le nom d\'innéité.
+
+L\'innéité, c\'est la porte ouverte à la délivrance de l\'être enfermé dans la fatalité du cercle héréditaire. Pascal Rougon est donc un étranger dans cette famille de déséquilibrés. C\'est un évadé de l\'atavisme morbide. Il aime la science, cultive la vertu et vit à la campagne. Le philosophe sensible et vertueux du siècle dernier. Il n\'a pas le sens pratique des choses, ni un goût excessif pour le tran-tran du travail vulgaire. Il néglige sa clientèle, et consciencieusement élabore des recherches sur l\'hérédité, qui se résument dans la confection d\'un arbre généalogique, s\'ajoutant à des notes biographiques, sur chacun des membres de la famille.
+
+Sa mère, Félicité Rougon, veut prendre ces dossiers pour les détruire, car elle juge fâcheuses pour la réputation de la tribu les fiches qu\'ils renferment. Elle réussit, à la mort du docteur, à capter et à brûler ce casier médical, sauf l\'arbre, réfractaire au feu, et que Zola devait par la suite débiter en volumes in-18.
+
+Le Docteur Pascal a, chez lui, à la Souléiade, une jeune nièce, Clotilde, qui l\'appelle maître, et à qui il a enseigné bien des choses, sauf une qu\'elle apprend toute seule : l\'amour.
+
+Et ici, débarrassé de l\'obsession héréditaire, l\'auteur entre dans le beau, dans le puissant. Comment, après des brouilles et des accès de religiosité, l\'oncle et la nièce, maître et disciple, deviennent-ils amants, époux, c\'est ce que Zola a décrit, on devrait dire chanté, avec un lyrisme et une virtuosité extraordinaires. Zola, dans ce cantique, redevient le grand poète de *la Faute de l'abbé Mouret* et de *la Page d'Amour*. Il a su éviter ce qu\'il pouvait y avoir de choquant en cette sorte d\'inceste entre oncle et nièce ; il n\'a pas donné à ces amours d\'un pédagogue et de son élève le caractère un peu ridicule des ébats de la pédante Héloïse avec Abailard, le beau professeur ; enfin, il a su nous émouvoir, et en écartant la raillerie, avec le tableau d\'un vieillard, « dont la barbe est d\'argent comme un ruisseau d\'avril », faisant l\'amour avec une belle fille dont les cheveux sont des épis d\'or. Il est parvenu à faire accepter cette union, qu\'on qualifie dans la société de disproportionnée, et qui évoque l\'image de cornes plaisantes poussant au front du barbon. Les amours séniles, qui d\'ordinaire provoquent le rire, ici, poussent aux larmes.
+
+Nous voilà loin d\'Arnolphe et de sa bécasse d\'Agnès ; Zola rivalise avec Hugo, qui voyait de la flamme dans l\'oeil des jeunes gens, mais dans l\'oeil des vieillards contemplait de la lumière.
+
+L\'épisode touchant de Ruth et de Booz est reproduit à la Souléiade. Mais les amours bibliques ne connurent pas l\'un des facteurs permanents de la souffrance des amants modernes : l\'argent ! Poètes et romanciers oublient trop souvent, dans leurs fictions, le rôle du dieu de la machine, l\'intervention de cet Argent qui domine tout. Dans ce livre, il change l\'idylle en tragédie. Ruiné, le docteur est obligé de se séparer de sa Clotilde. Pour la soustraire à la pauvreté, il l\'envoie à Paris, et il meurt de cette séparation. Clotilde revient, trop tard, pour embrasser une dernière fois celui qu\'elle avait réchauffé de sa jeunesse et rajeuni de son amour.
+
+La mort du docteur Pascal est une page superbe. Il tombe comme un soldat de la science, comptant les pulsations qui se ralentissent en son coeur engorgé, calculant les minutes de souffle qui lui restent, et se relevant dans un suprême accès d\'énergie scientifique, pour consigner de ses mains défaillantes l\'heure de sa fin, à la place qu\'il s\'était réservée au centre du tableau généalogique des Rougon-Macquart.
+
+Toute cette fin passionnelle, avec l\'analyse délicate des sentiments qui animent Clotilde et Pascal, est admirable. Des tableaux comme Zola sait les brosser : la combustion de l\'oncle Macquart, la mort du petit fin-de-race Charles, la nuit d\'orage où Pascal rudoie Clotilde et la mate, la dînette dans la maison affamée, et l\'alcôve entrevue, où, comme Abigaïl ranimant le vieux roi David, la jeune fille offre au vieil amant l\'eau de jouvence de sa beauté, font de ce dernier livre de la série un chef-d\'oeuvre d\'émotion intime et de passion, sinon chaste, du moins honnête.
+
+Le Docteur Pascal est à placer à côté de *la Page d'Amour*, c\'est-à-dire au tout premier rang des ouvrages de Zola.
+
+Une lumière édénique éclaire cette idylle moderne. Quelques-uns, parmi ceux qui ont l\'âge du docteur Pascal, regretteront peut-être qu\'ils soient si lointains et si fabuleux, malgré la belle histoire contée par Zola, ces temps d\'amour où les patriarches à barbe blanche, en faisant la sieste dans leurs foins, trouvaient à leur réveil, allongée auprès d\'eux, timide, aimante et docile, quelque Moabite au sein nu, offrant l\'amour et tendant sa coupe de jeunesse, pour que le vieillard puisse étancher sa soif encore vive, et raviver son être au contact d\'une chair brûlante sous le dais nuptial du ciel, ayant pour lampe astrale la faucille d\'or, négligemment jetée par le moissonneur de l\'éternel été, dans le champ des étoiles.

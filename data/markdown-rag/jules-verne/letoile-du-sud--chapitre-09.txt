@@ -1,0 +1,13 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTOILE DU SUD"
+slug_oeuvre: "letoile-du-sud"
+section: "Chapitre 09"
+slug_section: "chapitre-09"
+type: "chapitre"
+---
+
+# ! VOYAGE AU CENTRE DE LA TERRE
+(1864)
+Jules Verne

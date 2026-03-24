@@ -1,0 +1,38 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Préface
+Je réunis, dans ce volume, les articles que j'ai donnés au *Figaro*, pendant ma campagne d'une année. Pourtant, on ne les y trouvera pas tous, car j'ai cru devoir mettre à part les pures fantaisies, les airs de flûte que je jouais entre deux batailles, et que je réserve pour un autre recueil. Je publie les seuls articles de polémique.
+
+Aujourd'hui, me voilà dans la retraite. Depuis quatre mois, j'ai quitté la presse, et je compte bien n'y point rentrer, sans vouloir toutefois m'engager à cela par un serment solennel. C'est un état de bien-être profond, ce désintéressement de l'actualité, cette paix de l'esprit appliqué tout entier à une œuvre unique, surtout au sortir de seize années de journalisme militant. Il me semble qu'un peu de paix se fait déjà sur mes livres et sur mon nom, un peu de justice aussi. Sans doute, lorsqu'on ne m'apercevra plus à travers les colères de la lutte, qu'on verra simplement en moi le travailleur enfermé dans l'effort solitaire de son œuvre, la légende imbécile de mon orgueil et de ma cruauté tombera devant les faits.
+
+En quittant la critique, j'ai voulu mettre sous les yeux du public les faits, c'est-à-dire les études de toutes sortes que j'ai écrites depuis 1865, un peu au hasard des journaux. Ce sont là les seuls documents sur lesquels on devra juger un jour le polémiste en moi, l'homme de croyance et de combat. J'ai donc recueilli ces études, je les ai groupées en volumes ; aujourd'hui, voici le dernier, qui porte à sept le nombre de ces volumes : *Mes Haines*, *le Roman expérimental*, *les Romanciers naturalistes*, *Documents littéraires*, *le Naturalisme au théâtre*, *Nos Auteurs dramatiques*, *Une Campagne*. Tout est là, je n'ai pas retranché une page, même parmi celles qui ont soulevé le plus de clameurs. Si des esprits impartiaux se décident à instruire mon procès, la besogne devient donc pour eux très facile. Qu'ils lisent et qu'ils prononcent. Les terribles pièces sont entre leurs mains : ils ont mes crimes, dont les bâcleurs de copie s'indignent ou se moquent depuis seize ans.
+
+J'ai un orgueil, je l'avoue : c'est, depuis seize ans, d'avoir gardé les mêmes croyances littéraires, d'être allé tout droit mon chemin, en tâchant simplement de l'élargir sans cesse davantage. Jamais je ne me suis dérobé, ni à droite, ni à gauche. Je n'ai pas une ligne à effacer, pas une opinion à regretter, pas une conclusion à reprendre. On ne trouvera, dans mes sept volumes de critique, que le développement continu, et seulement de plus en plus appuyé, de la même idée. L'homme qui, l'année dernière, à quarante-un ans, publiait les articles d'*Une Campagne*, est encore celui qui, à vingt-cinq ans, écrivait *Mes Haines*. La méthode est restée la même, et le but, et la foi. Ce n'est pas à moi de décider si j'ai fait quelque lumière, mais je puis constater que j'ai toujours voulu la lumière par les mêmes moyens, et dans le même besoin de vérité.
+
+On découvrira cela un jour. Je dors tranquille. Comme je l'ai dit ailleurs, je n'ai jamais voulu être que le soldat le plus convaincu du vrai. Sans doute, on a pu confondre le romancier et le critique ; on a vu dans mes études un plaidoyer personnel, lorsque j'étais beaucoup plus modestement le porte-drapeau d'un groupe, ou mieux encore le greffier d'une période littéraire. Mais, je le répète, avec le recul des années, tout se mettra en sa place. On séparera le critique du romancier ; on établira qu'il a cherché la vérité passionnément, à l'aide des méthodes scientifiques, souvent contre ses propres œuvres ; on le suivra dans son évolution, appliquant les mêmes formules à la littérature, à l'art, à la politique ; on le verra enfin obéir à l'impulsion du siècle, partir de l'insurrection romantique pour arriver au mouvement naturaliste, à un désir d'ordre et de paix dans les lettres, à une nouvelle période classique, retrouvant, sur le terrain de plus en plus solide des sciences, la grandeur simple du génie national. On m'a reproché ma passion. C'est vrai, je suis un passionné, et j'ai dû être injuste souvent. Ma faute est là, même si ma passion est haute, dégagée de toutes les vilenies qu'on lui prête. Mais, je l'avoue encore, je ne donnerais pas ma passion pour la veulerie complaisante et le misérable aplatissement des autres. N'est-ce donc rien, la passion qui flambe, la passion qui tient le cœur chaud ? Ah ! vivre indigné, vivre enragé contre les talents mensongers, contre les réputations volées, contre la médiocrité universelle ! Ne pouvoir lire un journal sans pâlir de colère ! Se sentir la continuelle et irrésistible nécessité de crier tout haut ce qu'on pense, surtout lorsqu'on est le seul à le penser, et quitte à gâter les joies de sa vie ! Voilà quelle a été ma passion, j'en suis tout ensanglanté, mais je l'aime, et si je vaux quelque chose, c'est par elle, par elle seule !
+
+D'ailleurs, elle est la grande force. Malgré les erreurs que j'ai pu commettre, on a entendu ma voix, parce que j'étais convaincu et que j'étais passionné. Dans notre effroyable charivari contemporain, j'ai réussi à me faire écouter, parfois. Refusez-moi tout, discutez et niez : je n'en ai pas moins rendu à la littérature le service de la dégager un moment de ce tas lourd et bête de politique, sous lequel elle râle, enterrée vivante. Quand je n'aurais servi qu'à cela, quand je me serais simplement produit pour allumer des querelles littéraires, pour me faire accabler d'injures, pour tirer les lettres de leur somnolence par ma bataille, eh bien ! j'estime que tous les écrivains, les jeunes surtout, devraient m'en garder un peu de reconnaissance. On vit au moins, lorsqu'on se bat. La passion appelle la passion. Que notre querelle littéraire disparaisse, et vous verrez la masse informe de la politique retomber et s'étaler plus odieusement dans les journaux, tout boucher, tout écraser, au point qu'il faudra un jour y faire des fouilles, pour retrouver les os d'un romancier impénitent ou les cheveux du dernier poète !
+
+Donc, je me retire égoïstement dans mon coin, un peu écœuré, je le confesse, et je n'ai plus qu'un souhait à faire : c'est qu'il nous vienne des critiques passionnés pour qu'on les injurie et qu'ils nous tiennent en haleine. Le désir de la vérité ne suffit pas, dans nos temps troublés ; il en faut la passion, qui exagère, mais qui s'impose. Allons ! où est le jeune écrivain qui nous sauvera de cette commère braillarde de la politique, qui parlera aussi liant qu'elle, qui plantera dans les décombres le drapeau noble de la littérature, si rudement, que la France oubliera au moins pour un jour les torchons sales des partis !
+
+ÉMILE ZOLA.
+
+Médan, 15 janvier 1882.

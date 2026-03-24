@@ -1,0 +1,359 @@
+### [[Chapitre 3 -- Un despote]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942916 .pcalibre2 .pcalibre1} {#chapitre-3-un-despote .calibre171 .sigil_not_in_toc}
+
+(Carnet de notes d\'Amédée Florence.)
+
+
+*26 mars.* -- Me voici donc en prison. Après avoir joué les Mazeppa, je joue les Silvio Pellico.
+
+Comme je viens de le coucher sur ces tablettes, c\'est avant-hier, un peu avant midi, que nous avons été incarcérés. En ce qui me concerne, j\'ai été empoigné par trois moricauds qui m\'ont fait monter, non sans brutalité, un escalier, puis suivre un corridor sombre, aboutissant à une longue galerie, sur laquelle donnent nos cellules. Aux deux bouts de cette galerie, facile à surveiller, sont placées des sentinelles. Il est douteux que nous puissions nous échapper par là.
+
+On m\'introduit dans une pièce éclairée par un vitrail doublé d\'une grille de fer, placé à quatre mètres au-dessus de ma tête, et on referme la porte sur moi à triple verrou. Je reste seul en compagnie de mes pensées, qui ne sont pas couleur de rose.
+
+La cellule est vaste et bien aérée. Elle contient une table avec ce qu\'il faut pour écrire, une chaise, un lit qui paraît propre et des ustensiles de toilette. Une ampoule électrique est fixée au plafond. En somme, la paille humide des cachots est assez confortable, et j\'estimerais cette chambre d\'étudiant fort suffisante, si j\'étais libre.
+
+Je m\'assieds, j\'allume une cigarette et j\'attends -- quoi ? Les événements, tout en réfléchissant aux charmes de voyages.
+
+Deux heures plus tard, je suis tiré de ma méditation par le bruit de ma porte qu\'on ouvre. Les verrous grincent, la serrure craque, l\'huis s\'entrebâille, et j\'aperçois\...
+
+Je vous le donne en mille. J\'aperçois Tchoumouki, qui a disparu depuis le jour où, pour la troisième fois, j\'ai entendu le mystérieux ronflement dont je connais maintenant la cause. Il ne manque pas d\'un certain toupet. Oser se présenter devant moi, après la manière dont il a traité mes articles !
+
+Tchoumouki s\'attend, d\'ailleurs, à un accueil plutôt frais. Avant de pénétrer dans ma cellule, il y jette d\'abord un regard et examine prudemment le terrain. Bien lui en prend.
+
+--- Ah ! Te voilà, triple fripon ! dis-je, en m\'élançant à sa rencontre, dans l\'intention de lui infliger la correction qu\'il mérite.
+
+Mais je me heurte à la porte, que le traître a vivement refermée. Tant mieux, après tout. Quand je m\'offrirais le plaisir de lui allonger les oreilles, à quoi cela m\'avancerait-il, sinon à compliquer encore ma situation, qui n\'est déjà pas si drôle ?
+
+Tchoumouki devine-t-il cette réflexion pacifique ? C\'est à croire, car la porte s\'entrebâille une seconde fois, et donne de nouveau passage à la tignasse crépue du coquin. Oh ! Il peut entrer, maintenant. J\'ai repris ma place\... et mon calme.
+
+Je répète, mais d\'un ton où ne gronde plus aucune menace :
+
+--- Ah ! Te voilà, triple fripon ! Que viens-tu faire ici ?
+
+--- Moi y en a domestique, répond, avec un regard en dessous, Tchoumouki, qui ouvre la porte toute grande.
+
+Dans le couloir, il y a deux autres nègres portant des victuailles que Tchoumouki dépose sur ma table. À cette vue, l\'eau me vient à la bouche, et je m\'aperçois que je meurs de faim.
+
+Cela n\'a rien d\'étonnant ; je suis à jeun, et il est au moins deux heures de l\'après-midi.
+
+Rejetant tout autre souci, je fais honneur au repas, respectueusement servi par Tchoumouki, que j\'interroge, et qui ne se fait nullement prier pour répondre à mes questions. D\'après lui, je suis l\'hôte -- très involontaire ! -- d\'un puissant roi, S. M. Harry Killer -- un bien vilain nom, entre nous -- et on m\'a conduit dans une ville extraordinaire, où « y en a beaucoup maisons grandes » et « beaucoup manières toubab », c\'est-à-dire remplie d\'inventions européennes. Je n\'ai pas de peine à l\'en croire, après l\'expérience des prodigieuses machines volantes dont je suis encore tout ébaubi.
+
+Je continue mon enquête. Ce serait donc le roi en question qui l\'aurait placé, lui, Tchoumouki, sur le chemin de Mlle Mornas, afin que celle-ci le prît pour guide, de même qu\'on choisit malgré soi la « carte forcée » d\'un prestidigitateur ?
+
+Tchoumouki m\'affirme que non, et qu\'il s\'est engagé sans arrière-pensée. Il soutient même que son engagement n\'est nullement rompu et qu\'il se considère comme étant au service de Mlle Mornas et de Saint-Bérain pendant tout le temps que ses patrons resteront en Afrique. Tchoumouki se moquerait-il de moi ? Je le regarde. Non, il parle sérieusement, ce qui est, d\'ailleurs, beaucoup plus comique.
+
+Il prétend avoir été entraîné par Moriliré, lequel était bien, lui, à la solde du monarque qui nous retient prisonniers. Non content de le couvrir d\'or, Moriliré lui aurait décrit, paraît-il, dans les termes les plus dithyrambiques, la puissance et la générosité de cet Harry Killer, que Tchoumouki n\'a jamais vu, du reste, et il aurait promis à celui-ci une vie large et facile.
+
+Telles sont les raisons pour lesquelles Tchoumouki aurait tourné casaque. Quand je lui demande s\'il sait ce qu\'est devenu son ancien camarade Tongané, sa vilaine figure prend une expression féroce, il se passe la main sur le cou, et fait :
+
+--- Couic !
+
+Mes conjectures étaient donc exactes. Le pauvre Tongané est bien mort. Tchoumouki achève ses confidences. Le ronflement que j\'ai entendu le jour de sa disparition provenait d\'une machine volante qui amenait le lieutenant Lacour, ou plutôt le capitaine Edward Rufus, dont les hommes étaient venus à notre rencontre, par la voie terrestre, sous le commandement de deux sous-officiers, en mettant à sac, pour se distraire, les villages qui se trouvaient sur leur passage. Ce sont les patins de cette machine volante qui ont creusé dans la brousse, au moment de l\'atterrissage, les ornières que j\'ai remarquées le lendemain, au cours de ma promenade avec Tongané. Ainsi s\'expliquent le délabrement des soldats et l\'impeccable élégance de l\'officier, ainsi s\'expliquent la terreur du nègre blessé par une balle explosible, en reconnaissant l\'un des assaillants de son village, et son indifférence pour le soi-disant lieutenant qu\'il n\'avait jamais vu. Quant à lui, Tchoumouki, il a été emmené par la même machine revenant à son port d\'attache, ici, c\'est-à-dire\...
+
+Tchoumouki prononce un nom qu\'il écorche terriblement. Au prix d\'une longue attention, je discerne enfin qu\'il a l\'intention de dire « Blackland », mot composé anglais dont la traduction littérale est Terre noire. Le nom est plausible. Nous serions donc à Blackland, ville merveilleuse, au dire de Tchoumouki, bien qu\'absolument inconnue des plus avisés géographes.
+
+Tandis que le nègre me donne ces renseignements, je réfléchis.
+
+Puisqu\'il a trahi par intérêt, pourquoi l\'intérêt ne le ferait-il pas trahir ses nouveaux maîtres ? Je fais aussitôt à Tchoumouki des ouvertures dans ce sens, et je parle d\'une grosse somme, qui lui suffirait à passer sa vie entière dans une position toute naturelle, mais il hoche la tête, en homme qui ne voit pas la possibilité de gagner la timbale.
+
+--- Y en a pas moyen partir, me dit-il. Ici, y en a beaucoup soldats, beaucoup « manières toubab », beaucoup grands murs.
+
+
+Le repas terminé, Tchoumouki se retire et ma journée s\'achève dans la solitude.
+
+Le soir venu, il me sert à dîner (cuisine très suffisante, en somme), puis, au moment où ma montre marque neuf heures et quelques minutes, extinction subite de l\'ampoule électrique. Je me couche à tâtons.
+
+Après une nuit excellente, comme je l\'ai dit, je me lève, le 25 mars, et rédige les notes portant cette date où sont relatées les péripéties de notre enlèvement. Je ne vois personne, à l\'exception de Tchoumouki, qui me sert régulièrement mes repas. Le soir, instruit par l\'expérience, je me couche plus tôt. J\'ai lieu de m\'en applaudir. À la même heure que la veille, l\'électricité s\'éteint. C\'est évidemment la règle de la maison.
+
+Deuxième nuit excellente, et me voici de nouveau, ce matin, 26 mars, frais et dispos, mais hélas ! Toujours prisonnier.
+
+Cette situation est absurde, car, enfin, que nous veut-on ? Quand verrai-je seulement quelqu\'un à qui je puisse le demander ?
+
+
+*Même jour, dans la soirée.* -- Mes voeux ont été exaucés. Nous avons vu S. M. Harry Killer, et notre situation a subi des changements importants depuis cette entrevue, dont je suis encore tout ému, tout tremblant.
+
+Il pouvait être trois heures de l\'après-midi, quand ma porte s\'est ouverte. Cette fois, ce n\'était pas Tchoumouki qui se trouvait derrière, mais une autre de nos anciennes connaissances, Moriliré, pour ne pas le nommer. Moriliré est accompagné d\'une vingtaine de nègres qu\'il paraît commander. Au milieu de cette troupe, j\'aperçois mes compagnons, y compris miss Buxton-Mornas, mais non compris Saint-Bérain, toujours dans l\'impossibilité de remuer, à ce que me dit sa jeune tante. Je me joins à eux, pensant que notre dernière heure est venue et qu\'on nous conduit au poteau d\'exécution.
+
+Il n\'en est rien. Nous suivons une série de couloirs, et nous arrivons enfin à une pièce assez vaste, dans laquelle nous entrons, tandis que notre escorte s\'arrête sur le seuil.
+
+La pièce est exclusivement meublée d\'un fauteuil en fibres de palmier et d\'une table, sur laquelle reposent un verre et une bouteille à demi pleine, d\'où nous parvient une odeur d\'alcool. Le fauteuil est derrière la table, et, dans le fauteuil, un homme est assis. Nos yeux convergent vers cet homme. Il en vaut la peine.
+
+S. M. Harry Killer doit avoir de quarante à quarante-cinq ans, bien que, par certains côtés, il puisse paraître plus âgé. Autant qu\'on en peut juger, il est de haute taille, et sa carrure, ses mains énormes, ses membres épais et musclés, indiquent une vigueur peu commune, pour ne pas dire herculéenne.
+
+Mais c\'est la tête surtout qui retient l\'attention.
+
+Le visage est glabre, d\'un caractère complexe, puissant et vil à la fois. Une chevelure inculte et grisonnante la couronne, une véritable crinière qui semble brouillée avec le peigne depuis un temps immémorial. Le front dénudé est vaste et exprime l\'intelligence, mais les maxillaires accusés, le menton lourd et carré indiquent des passions grossières et violentes. Les joues, fortement bronzées, aux pommettes saillantes, se creusent, puis s\'affaissent en deux lobes alourdis. Elles sont parsemées de boutons presque sanglants à force d\'être rouges. La bouche est lippue, la lèvre inférieure, un peu pendante, découvrant de fortes dents saines, mais jaunes et mal entretenues. Les yeux, profondément enfoncés dans les orbites, que surmontent des sourcils en broussailles, sont d\'un éclat extraordinaire, et même, par instants, insoutenable. Le personnage n\'est certes point banal. Tous les appétits, tous les vices, toutes les audaces, il les a sûrement. Hideux, oui, mais redoutable.
+
+Sa Majesté est vêtue d\'une sorte de complet de chasse en toile grise, culotte courte, leggings et vareuse, le tout crasseux et couvert de taches. Sur la table, elle a déposé un large chapeau de feutre, auprès duquel repose sa main droite qu\'agite un perpétuel tremblement.
+
+Du coin de l\'oeil, le docteur Châtonnay me désigne cette main trémulante. J\'entends ce que le docteur veut dire : c\'est un alcoolique, sinon même un ivrogne, que nous avons devant nous.
+
+Longtemps, cet individu nous considère en silence. Ses yeux vont de l\'un à l\'autre et nous passent en revue successivement. Nous attendons avec patience son bon plaisir.
+
+--- Vous êtes six, à ce qu\'on m\'a dit, prononce-t-il enfin, en français, avec un fort accent anglais, d\'une voix au timbre grave, mais éraillée.
+
+Je n\'en vois que cinq. Pourquoi ?
+
+--- L\'un de nous est malade, à la suite des souffrances que vos hommes lui ont fait endurer, répond M. Barsac.
+
+Nouvel instant de silence, puis notre interlocuteur se redresse brusquement et demande ex abrupto :
+
+--- Qu\'êtes-vous venus faire chez moi ?
+
+La question est si inattendue que nous avons tous envie de rire, malgré la gravité de la situation. Parbleu ! Si nous sommes chez lui, c\'est bien malgré nous !
+
+Il reprend, avec une expression menaçante :
+
+--- Espionner, sans doute !
+
+--- Pardon, monsieur\... commence M. Barsac.
+
+Mais l\'autre l\'interrompt. En proie à une subite fureur, il frappe du poing sur la table et dit d\'une voix tonnante :
+
+--- On m\'appelle maître.
+
+Alors, M. Barsac est superbe. Orateur toujours et quand même, il se redresse, met la main gauche sur son coeur, et, balayant l\'espace d\'un large mouvement de sa dextre :
+
+--- Depuis l\'an 1789, les Français n\'ont plus de maître, monsieur, déclare-t-il avec emphase.
+
+Partout ailleurs, elle prêterait à rire, je vous l\'accorde, l\'apostrophe un peu « pompier » de M. Barsac, mais dans les circonstances présentes, en face de cette espèce de bête fauve, elle a sa noblesse, je vous en donne mon billet. Elle signifie que nous ne consentirons jamais à nous humilier devant cet aventurier alcoolique. Nous approuvons tous l\'orateur, jusqu\'à M. Poncin, qui s\'écrie, au comble de l\'enthousiasme :
+
+--- Privez l\'homme de son indépendance, vous lui ôtez sa liberté ! Brave M. Poncin ! Toutefois, l\'intention est bonne.
+
+À l\'énoncé de cette proposition par trop indiscutable, Harry Killer a haussé les épaules, puis il a recommencé à nous examiner successivement, comme s\'il ne nous avait pas encore vus. Ses yeux passent de l\'un à l\'autre avec une rapidité extraordinaire. Ils s\'arrêtent enfin à M. Barsac, sur lequel ils dardent leur regard le plus terrible. M. Barsac ne bronche pas. Mes compliments. Cet enfant du Midi n\'a pas que de la faconde. Il a aussi du courage et de la dignité. Notre chef de mission monte à pas de géant dans mon estime.
+
+Harry Killer réussit à se dominer, ce qui ne doit pas lui arriver tous les jours, et demande brusquement, avec un calme aussi subit que sa colère a été soudaine :
+
+--- Parlez-vous anglais ?
+
+--- Oui, répond M. Barsac.
+
+--- Et vos compagnons ?
+
+--- Également.
+
+--- Bien, approuve Harry Killer, qui, du même ton rogomme, répète aussitôt en anglais :
+
+--- Qu\'êtes-vous venus faire chez moi ?
+
+La réponse est trop facile.
+
+--- C\'est à nous de vous poser la question, réplique M. Barsac, et de vous demander de quel droit vous nous y retenez par la force.
+
+--- De celui que je prends, tranche Harry Killer, remonté d\'un seul bond aux extrêmes limites de la violence. Moi vivant, personne n\'approchera de mon empire.
+
+Son empire ?\... Comprends pas.
+
+Harry Killer s\'est levé. S\'adressant plus spécialement à M. Barsac, dont l\'attitude continue à être très crâne, il poursuit d\'une voix furieuse, en martelant la table de son énorme poing :
+
+--- Oui, oui, je sais que vos compatriotes sont à Tombouctou et gagnent sans cesse vers l\'aval du Niger, mais qu\'ils s\'arrêtent, ou sinon ! Et voilà maintenant qu\'ils osent envoyer des espions par terre jusqu\'au fleuve ! Je les briserai, vos espions, comme je brise ce verre !
+
+Et, joignant le geste à la parole, Harry Killer brise effectivement le verre, qui se fracasse sur le sol en mille morceaux.
+
+--- Un verre !\... hurle-t-il, en se tournant vers la porte.
+
+Soulevé par une incroyable fureur, littéralement enragé, car un peu d\'écume suinte aux commissures de ses lèvres crispées, il fait mal à voir en ce moment. Sa mâchoire inférieure, projetée en avant, lui donne l\'air d\'une bête féroce, son visage est cramoisi, ses yeux sont injectés de sang.
+
+Un des gardes noirs s\'est empressé d\'obéir. Sans s\'occuper de lui, l\'énergumène, s\'appuyant sur la table que ses mains pétrissent violemment, se penche de nouveau vers M. Barsac toujours impassible, et lui crie, les yeux dans les yeux :
+
+--- Ne vous ai-je pas assez prévenus, cependant ? L\'histoire du doung-kono, inventée par mon ordre, vous a donné un premier avertissement. C\'est moi qui ai placé sur votre route ce diseur de bonne aventure, dont, par votre faute, les prédictions se sont réalisées. C\'est moi qui vous ai fourni votre guide, mon esclave Moriliré, qui, à Sikasso, a essayé, une dernière fois, de vous arrêter. Tout a été inutile. En vain, je vous ai privés de votre escorte, en vain je vous ai affamés, vous vous êtes obstinés à marcher vers le Niger\...
+
+Eh bien ! Vous l\'avez atteint, le Niger, vous l\'avez même franchi, et vous savez ce que vous vouliez savoir\... Vous voilà bien avancés ! Comment ferez-vous pour raconter ce que vous avez vu à ceux qui vous paient ?
+
+En proie à une agitation désordonnée, Harry Killer se promène maintenant à grands pas. Pour moi, aucun doute, c\'est un fou. Soudain, il s\'arrête, l\'esprit traversé d\'une idée subite.
+
+--- Mais, au fait, demande-t-il à M. Barsac, avec un calme surprenant, votre destination régulière n\'était-elle pas Saye ?
+
+--- Oui, répondit M. Barsac.
+
+--- Pour quelles raisons, dans ce cas, avez-vous suivi une direction tout autre ? Qu\'alliez-vous faire à Koubo ?
+
+Harry Killer accompagne cette dernière question d\'un coup d\'oeil perçant, tandis que nous échangeons des regards embarrassés. La question est gênante, en effet, puisque nous sommes convenus de ne pas prononcer le nom de miss Buxton. Heureusement, M. Barsac trouve une réponse plausible.
+
+--- Abandonnés par notre escorte, nous nous dirigions sur Tombouctou, dit-il.
+
+--- Pourquoi pas sur Sikasso ? C\'était beaucoup moins loin.
+
+--- Nous avons cru mieux faire en allant à Tombouctou.
+
+--- Hum ! fait d\'un air indécis Harry Killer, qui reprend après un court silence : Votre intention n\'était donc pas d\'aller dans l\'Est, jusqu\'au Niger ?
+
+--- Non, affirme M. Barsac.
+
+--- Si j\'avais pu le deviner, nous apprend Harry Killer, vous ne seriez pas ici aujourd\'hui.
+
+La bonne farce !\... [Comme s\'il avait pris la peine de nous le demander !\...]{style="font-size: 1em; text-indent: 20pt;"}
+
+Je profite d\'un nouveau silence, qui succède à la réflexion saugrenue d\'Harry Killer, pour prendre la parole à mon tour. Je suis un garçon extrêmement logique, moi qui vous parle. Tout ce qui n\'est pas logique me choque. Cela me fait l\'effet d\'une armoire en désordre. Or, dans cette histoire, il y a un point qui me tarabuste. J\'interviens donc, et :
+
+--- Pardon, mon cher monsieur, dis-je avec une exquise politesse, je serais curieux de savoir pourquoi vous avez pris la peine de nous y amener, au lieu de nous occire tout simplement. Votre capitaine Edward Rufus et ses hommes avaient la partie belle, puisque nous étions sans méfiance, et c\'était encore le meilleur moyen de vous débarrasser de nous.
+
+Harry Killer a froncé les sourcils et me regarde avec mépris. Quel est ce pygmée qui ose lui adresser la parole ? Il daigne cependant me répondre :
+
+--- Pour éviter l\'enquête des autorités françaises, que le massacre d\'une mission n\'eût pas manqué de provoquer.
+
+Je suis en partie satisfait. Pas tout à fait cependant. J\'objecte :
+
+--- Il me semble que notre disparition aura le même résultat.
+
+--- Évidemment, reconnaît Harry Killer, qui, pour l\'instant, fait preuve d\'un grand bon sens. Aussi aurais-je préféré vous voir renoncer à votre voyage. C\'est votre entêtement seul qui m\'a forcé à vous amener ici.
+
+L\'adversaire me tend la perche. Il faut se hâter de la saisir.
+
+--- Tout peut encore s\'arranger, dis-je. Puisque vous savez maintenant que nous ne voulions nullement aller jusqu\'au Niger, vous n\'avez qu\'à nous faire déposer où vous nous avez pris, et ainsi il ne sera plus question\...
+
+--- Pour que vous alliez raconter partout ce que vous avez appris ?
+
+Pour que vous révéliez l\'existence de cette ville ignorée du monde entier ? interrompit violemment Harry Killer. Non, il est trop tard. Qui entre à Blackland n\'en sort jamais plus.
+
+Qu\'il s\'époumone tant qu\'il voudra. Moi, je commence à être habitué à ses bourrasques. Je ne me trouble donc pas, et j\'insiste :
+
+--- Alors l\'enquête aura lieu ?
+
+--- Probablement, répond Harry Killer, dont l\'aiguille barométrique est déjà revenue au beau fixe, mais ma position sera meilleure. Si je suis découvert, et s\'il faut enfin combattre, j\'aurai du moins quelque chose de plus que si vous étiez morts.
+
+--- Quoi donc ?
+
+--- Des otages.
+
+Très fort, ce potentat. Il a tout à fait raison. Mais j\'ai eu raison, moi aussi, de l\'interviewer, puisqu\'il résulte de ses réponses qu\'il n\'a pas l\'intention de nous faire passer de vie à trépas. C\'est toujours agréable à apprendre.
+
+Harry Killer a repris place derrière la table, dans son fauteuil. C\'est un individu déconcertant. Le voici, maintenant, parfaitement calme et maître de soi.
+
+--- Précisons la situation, dit-il d\'un ton glacial qui est pour nous une nouveauté. Vous êtes à Blackland, et vous n\'en sortirez plus, ni les uns, ni les autres. Quant à votre existence, elle sera ce que vous la ferez vous-mêmes. Je n\'ai de compte à rendre à personne. Je peux vous maintenir en prison ou vous supprimer, si cela me plaît, comme je peux vous laisser la liberté dont je jouis moi-même dans les limites de l\'empire. Encore ce mot. C\'est à se tordre.
+
+--- Cela dépend de vous, continue Harry Killer, en s\'adressant plus particulièrement à M. Barsac qu\'il considère décidément comme notre chef de file. Vous serez pour moi des otages ou\...
+
+Harry Killer fait une pose. M. Barsac le regarde avec un étonnement que je conçois. Que pourrions-nous bien être ?
+
+--- Ou des collaborateurs, achève froidement Harry Killer.
+
+Dire que la proposition d\'Harry Killer nous étonne serait faible. Nous en sommes positivement « épatés ».
+
+Cependant, il poursuit avec la même froideur :
+
+--- Il ne faudrait pas croire que je m\'illusionne sur la marche progressive des troupes françaises. Si l\'on ignore encore mon existence, on la connaîtra forcément un jour ou l\'autre. Ce jour-là, il faudra se battre ou négocier. Ne pensez pas que je redoute la bataille. Je suis en état de me défendre, mais la guerre n\'est pas la seule solution possible. La colonisation de la boucle du Niger suffira à occuper la France pendant de longues années. Quel intérêt aurait-elle à courir le risque d\'une défaite pour progresser malgré moi dans l\'Est, à travers un océan de sable que je suis en train de transformer en plaines fertiles ? Des négociations bien conduites pourraient donc aboutir à une alliance\...
+
+Il ne doute de rien, le particulier ! Il sue la vanité par tous les pores. Non mais, voit-on la République française s\'alliant à ce tyranneau pustuleux ?
+
+--- Avec vous !\... s\'exclame avec ahurissement M. Barsac traduisant la pensée de tous.
+
+Il n\'en faut pas plus pour déchaîner la tempête. Au fait, le calme durait depuis trop longtemps. Ça commençait à devenir monotone.
+
+--- Vous ne m\'en trouvez peut-être pas digne ? Rugit Harry Killer, les yeux étincelants, en martelant de nouveau sa table qui n\'en peut mais.
+
+Ou bien vous espérez m\'échapper ?\... C\'est que vous ignorez ma puissance. Il se lève, et achève d\'une voix où gronde la menace :
+
+--- Vous allez la connaître !
+
+À son appel, les gardes sont entrés. On s\'empare de nous, on nous entraîne. Nous montons d\'interminables escaliers, puis on nous fait traverser au pas de course une vaste terrasse, à laquelle succèdent d\'autres escaliers. Nous débouchons enfin sur la plate-forme d\'une tour, où Harry Killer ne tarde pas à nous rejoindre.
+
+Cet homme est variable comme l\'onde. Avec lui, pas de demi-mesure. Il passe sans transition d\'une fureur folle à un calme glacial, et réciproquement. Pour l\'instant, il ne reste aucune trace de sa dernière colère.
+
+--- Vous êtes ici à quarante mètres de hauteur, nous dit-il du ton d\'un cicérone expliquant un point de vue. L\'horizon est donc distant de vingt-trois kilomètres environ. Vous pouvez constater, cependant, que, si loin que portent vos regards, le désert qui nous entoure a fait place à une campagne fertile. L\'empire dont je suis le chef aurait donc, au minimum, plus de seize cents kilomètres carrés. Il en a trois mille, en réalité. Telle est l\'oeuvre accomplie en dix ans.
+
+Harry Killer s\'interrompt un instant. Quand il a suffisamment joui dans son orgueil, légitime cette fois après tout, il reprend :
+
+--- Si quelqu\'un tentait de pénétrer sur cette étendue de trois mille kilomètres carrés ou essayait d\'en sortir, je serais immédiatement prévenu par un triple rang de postes établis en plein désert, et que le téléphone relie à ce palais\... Voilà donc l\'explication des oasis et des poteaux télégraphiques que j\'ai vus avant-hier matin.
+
+Mais écoutons Harry Killer, qui, nous montrant une sorte de lanterneau de verre, comparable à celui d\'un phare, bien que de dimensions plus importantes, élevé au milieu de la plate-forme, continue sur le même ton : -- N\'en serait-il pas ainsi, que personne ne pourrait encore franchir malgré moi une zone de protection large d\'un kilomètre, située à cinq kilomètres des murailles de Blackland, que les rayons de puissants projecteurs parcourent pendant la nuit. Grâce à sa disposition optique, cet instrument, qui a reçu le nom de cycloscope, redresse suivant la verticale cette bande de terrain circulaire, dont le veilleur, qui se trouve au centre de l\'appareil, a constamment sous les yeux tous les points énormément grossis. Entrez dans le cycloscope, je vous y autorise, et rendez-vous compte par vous-mêmes.
+
+Notre curiosité vivement excitée, nous profitons de la permission, et nous pénétrons dans le lanterneau par une porte faite d\'une énorme lentille jouant sur des charnières. À peine y sommes-nous enfermés, que le monde extérieur change d\'aspect à nos yeux. De quelque côté qu\'ils se portent, nous n\'apercevons d\'abord qu\'une muraille verticale, qu\'un réseau de traits noirs divisé en une multitude de petits carrés distincts. Cette muraille, dont la base est séparée de nous par un abîme de ténèbres, et dont le sommet nous paraît s\'élever à une hauteur prodigieuse, semble faite d\'une sorte de lumière laiteuse. Toutefois, nous ne tardons pas à constater que sa couleur est loin d\'être uniforme, mais qu\'elle est, au contraire, la résultante d\'une infinité de taches de tonalités différentes, aux contours assez indécis. Un instant d\'attention nous montre que ces taches sont, les unes, des arbres, les autres, des champs ou des chemins, d\'autres encore, des hommes en train de travailler la terre, le tout suffisamment grossi pour être reconnu sans effort.
+
+--- Vous voyez ces nègres, dit Harry Killer, en nous désignant deux des taches en question, que sépare un grand intervalle. Admettons qu\'ils aient l\'idée de s\'enfuir. Ce ne serait pas long.
+
+Tout en parlant, il a saisi un transmetteur téléphonique.
+
+--- Cent onzième cercle ; rayon quinze cent vingt-huit, dit-il. Puis, s\'emparant d\'un autre transmetteur, il ajoute :
+
+--- Quatorzième cercle. Rayon six mille quatre cent deux. Enfin, se tournant vers nous :
+
+--- Regardez bien, nous recommande-t-il.
+
+Après quelques instants d\'attente, pendant lesquels il ne survient rien de particulier, l\'une des taches est masquée tout à coup par un nuage de fumée. Quand la fumée s\'est dissipée, la tache a disparu.
+
+--- Qu\'est devenu l\'homme qui travaillait là ? demande Mlle Mornas d\'une voix étranglée par l\'émotion.
+
+--- Il est mort, répondit froidement Harry Killer.
+
+--- Mort ! Nous écrions-nous. Vous avez tué sans raison ce malheureux ! -- Rassurez-vous, ce n\'est qu\'un nègre, explique Harry Killer avec une parfaite simplicité. Marchandise sans valeur. Quand il n\'y en a plus, il y en a encore. Celui-ci a été démoli par une torpille aérienne. C\'est une sorte de fusée qui porte jusqu\'à vingt-cinq kilomètres, et dont vous avez pu apprécier la rapidité et la précision.
+
+Pendant que nous écoutons ces explications, autant du moins que nous le permet le trouble que nous cause une aussi abominable cruauté, quelque chose est entré dans notre champ visuel, s\'est élevé rapidement le long de la muraille laiteuse, et la seconde tache a disparu à son tour.
+
+--- Et cet homme ? interroge Mlle Mornas, haletante.
+
+Est-il mort, lui aussi ?
+
+--- Non, répond Harry Killer, celui-là est vivant. Vous allez le voir dans un instant.
+
+Il sort, entouré de sa garde qui nous pousse au-dehors. Nous voici de nouveau sur la plate-forme de la tour. Nous regardons autour de nous, et, à quelque distance, nous voyons accourir, avec la vitesse d\'un météore, un appareil semblable à celui qui nous a transportés ici. Suspendu au-dessous du plateau inférieur, nous distinguons un objet qui se balance.
+
+--- Voici le planeur, dit Harry Killer, qui nous apprend ainsi le nom de la machine volante. Dans moins d\'une minute, vous saurez s\'il est possible d\'entrer ici ou d\'en sortir malgré moi.
+
+Le planeur s\'approche rapidement, en effet. Il grossit à vue d\'oeil\... Nous frissonnons soudain : l\'objet qui oscille au-dessous de lui, c\'est un nègre, qu\'une espèce de tenaille géante a saisi par le milieu du corps.
+
+Le planeur s\'approche encore\... Il passe au-dessus de la tour\... Horreur ! La tenaille s\'est ouverte, et le malheureux nègre est venu s\'écraser à nos pieds. Hors de sa tête broyée, la cervelle a jailli de toutes parts, et nous sommes éclaboussés de sang.
+
+Un cri d\'indignation est sorti de nos poitrines. Mais Mlle Mornas ne se contente pas de crier, elle agit. Les yeux étincelants, pâle, les lèvres exsangues, elle bouscule ses gardiens surpris et se précipite sur Harry Killer.
+
+--- Lâche ! Misérable assassin ! lui crie-t-elle en plein visage, tandis que ses petites mains se nouent à la gorge du bandit.
+
+Celui-ci s\'est dégagé sans effort, et nous tremblons pour l\'audacieuse.
+
+Hélas ! Nous ne pourrions lui porter secours. Les gardes se sont emparés de nous et nous maintiennent à demi renversés.
+
+Heureusement, il ne semble pas que le despote ait, pour le moment du moins, l\'intention de punir notre courageuse compagne, que deux hommes ont entraînée en arrière. Si sa bouche a un rictus cruel, quelque chose comme une expression de plaisir passe dans ses yeux, qu\'il tient fixés sur la jeune fille encore toute frémissante.
+
+--- Eh ! Eh ! fait-il, d\'un ton assez bonhomme, elle a du sang, la pouliche. Puis, repoussant du pied les restes du misérable nègre :
+
+--- Ça !\... dit-il. Il ne faut pas vous émouvoir pour si peu, ma petite.
+
+Il descend, on nous entraîne à sa suite, et on nous ramène dans cette salle, si richement meublée d\'une table et d\'un unique siège, que j\'appellerai désormais pour cette raison la salle du Trône. Harry Killer prend place sur ledit trône et nous regarde.
+
+Quand je dis qu\'il nous regarde ! À la vérité, il ne fait attention qu\'à Mlle Mornas. Il tient, fixés sur elle, ses yeux effrayants, dans lesquels s\'allume peu à peu une lueur mauvaise.
+
+--- Vous connaissez maintenant mon pouvoir, dit-il enfin, et je vous ai prouvé que mes offres ne sont pas à dédaigner. Je les renouvelle pour la dernière fois. On m\'a dit qu\'il y avait parmi vous un député, un médecin, un journaliste et deux imbéciles\...
+
+Pour M. Poncin, soit ! Mais pour le pauvre Saint-Bérain, quelle injustice !
+
+--- Le député négociera, le cas échéant, avec la France, je construirai un hôpital pour le médecin, le journaliste entrera au *Blackland\'s Thunder*, et je verrai à utiliser les deux autres.
+
+Reste la petite. Elle me plaît\... Je l\'épouse.
+
+On pense si nous tombons des nues, en entendant cette conclusion inattendue. Mais, avec un fou !
+
+--- Rien de tout cela ne se réalisera, répond M. Barsac avec fermeté. Les crimes abominables dont vous nous avez rendu témoins ne nous ont pas ébranlés, au contraire. Nous subirons la force autant qu\'il le faudra, mais nous ne serons jamais, quoi qu\'il arrive, que vos prisonniers ou vos victimes. Quant à Mlle Mornas\...
+
+--- Ah ! C\'est Mornas, qu\'elle s\'appelle, ma future femme ? interrompit Harry Killer.
+
+--- Que je m\'appelle Mornas ou autrement, s\'écrie notre compagne absolument folle de colère, sachez que je vous considère comme une bête féroce, comme un être abject et repoussant, et que je tiens votre proposition pour l\'injure la plus vile, la plus honteuse, la plus\...
+
+La voix s\'étrangle dans la gorge de Mlle Mornas, qui éclate en sanglots convulsifs. Quant à Harry Killer, il se contente de rire. Le vent est à la clémence, décidément.
+
+--- C\'est bon\... C\'est bon ! dit-il. Rien ne presse. Je vous donne à tous un mois de réflexion.
+
+Mais le baromètre a baissé soudain, et c\'est la fin du beau temps. Il se redresse, et, s\'adressant aux gardes :
+
+--- Qu\'on les emmène ! Crie-t-il d\'une voix tonnante.
+
+M. Barsac résiste un instant aux gardes qui l\'entraînent. Il interpelle Harry Killer.
+
+--- Et, dans un mois, que ferez-vous de nous ? lui demande-t-il.
+
+Déjà, le vent a tourné.
+
+Le despote ne s\'occupe plus de nous, et sa main tremblante élève vers sa bouche une rasade d\'alcool qu\'il vient de se verser. À la question de M.
+
+Barsac, il éloigne le verre de ses lèvres, puis, sans donner aucune marque de colère :
+
+--- Je ne sais trop\... dit-il d\'un ton indécis, en levant les yeux au plafond. Peut-être bien que je vous ferai pendre\...
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}

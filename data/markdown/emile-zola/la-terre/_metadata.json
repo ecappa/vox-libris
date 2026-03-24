@@ -1,0 +1,104 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA TERRE",
+  "slug": "la-terre",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 338,
+      "spine_end_exclusive": 339,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_337.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "spine_start": 339,
+      "spine_end_exclusive": 345,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_338.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_339.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_340.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_341.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_342.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_343.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "spine_start": 345,
+      "spine_end_exclusive": 353,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_344.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_345.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_346.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_347.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_348.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_349.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_350.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_351.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "spine_start": 353,
+      "spine_end_exclusive": 360,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_352.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_353.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_354.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_355.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_356.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_357.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_358.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Quatrième partie",
+      "slug": "quatrieme-partie",
+      "spine_start": 360,
+      "spine_end_exclusive": 367,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_359.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_360.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_361.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_362.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_363.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_364.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_365.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Cinquième partie",
+      "slug": "cinquieme-partie",
+      "spine_start": 367,
+      "spine_end_exclusive": 375,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_366.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_367.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_368.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_369.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_370.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_371.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_372.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_373.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-terre/Zola1_image031.jpg"
+  ]
+}

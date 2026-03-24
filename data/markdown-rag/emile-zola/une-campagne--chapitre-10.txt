@@ -1,0 +1,82 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "UNE CAMPAGNE"
+slug_oeuvre: "une-campagne"
+section: "Chapitre 10"
+slug_section: "chapitre-10"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+UNE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## Une statue pour Balzac
+Balzac est mort en août 1850. Et Paris ingrat, à une époque où les statues poussent en une nuit sur le pavé, comme, des champignons, n'a point encore songé à honorer le grand romancier du siècle, un des plus illustres enfants de la France. Pas même un buste sur une de nos maigres fontaines, pas même une plaque de marbre rappelant une date de sa vie. On lui a fait l'aumône d'une rue, et c'est tout.
+
+Le puissant créateur de ce monde qui se nomme *la Comédie humaine* aura eu pour destinée d'être méconnu et traqué, même dans la terre. Ses contemporains l'écrasèrent sous toutes les médiocrités de son temps. Il faut lire, dans sa correspondance, son cri d'amère douleur, lorsque la presse et le public lui préféraient un Frédéric Soulié ou un Eugène Sue. Ses livres se vendaient à peine, ce ne fut que très tard qu'il obtint un succès de feuilleton, avec *les Parents pauvres*. Dans sa bataille quotidienne contre la dette, il en était réduit à un travail hâtif, mal rétribué, qui le clouait d'un bout de l'année a l'autre devant sa table de travail. Et, je le répète, aucune consolation, pas un de ses rêves de luxe satisfait, toute la critique le traînant dans la boue.
+
+On peut dire qu'il tomba à la veille du succès, lorsque son mariage allait enfin lui permettre de travailler à ses heures. En 49, il écrivait de Russie à sa sœur qu'il n'était encore arrivé à rien, qu'il avait sa position à faire : aveu terrible et navrant, dans la bouche de ce grand écrivain, dont toute l'œuvre était déjà publiée.
+
+Et comparez un instant à cette existence, celle de Victor Hugo. Balzac est seul, sans chapelle, sans dévots, sans ambitions voisines pour le pousser et le défendre ; il lutte dans un grenier, souvent assiégé par le doute, ayant besoin de tout l'orgueil solitaire qu'on lui a reproché, pour se tenir debout. Victor Hugo marche, précédé de trompettes sonnant des fanfares, suivi par une queue qui l'encense et l'acclame. Que de fois Balzac a dû regarder passer le cortège de ces braillards, le cœur gros de sa supériorité !
+
+Comparez même sa vie à celle d'Alexandre Dumas. Ici, la production était également formidable et les créanciers attendaient aussi à la porte les feuilles toutes fraîches ; mais quelle production heureuse et facile, au milieu d'une popularité souriante : Dumas, satisfaisant tous ses caprices, jetant l'argent dans des fantaisies princières, n'a jamais eu un doute sur son œuvre et a pu se croire le roi du roman, en abandonnant à Hugo l'empire de la poésie. L'Europe le dévorait et l'applaudissait ; il suffisait de son nom pour enrichir les journaux ; et, certes, si jamais un romancier lui donna de l'inquiétude, ce ne fut pas Balzac, ce fut Eugène Sue.
+
+Je sais bien que cette injustice imbécile des contemporains est réparée de nos jours. La bande roman tique de Victor Hugo s'est éclaircie ; et, pendant que le poète vieilli voit son école débandée et agonisante, toute une génération de vigoureux romanciers a poussé sur la tombe de Balzac. Le siècle reste à Balzac, le roman est son domaine, il y règne en maître absolu ; tandis que, d'autre part, Alexandre Dumas ne nous semble plus qu'un amuseur, dont les petits-fils ont sombré dans la pure fabrication, avec Ponson du Terrail et les feuilletonistes actuels, que je ne veux pas nommer. Il faut mesurer un écrivain à l'école qu'il laisse et à son action sur l'intelligence générale de son siècle.
+
+Aujourd'hui, voilà donc Balzac très grand, le plus grand. Écoutez le retentissement de son nom et voyez avec quelle puissance son œuvre s'est emparée de nous tous. Et rien ! pas un buste, pas une plaque de marbre ! La postérité lui marchande une statue, comme ses contemporains lui marchandaient du talent. Singulier sort du génie, même lorsqu'il a triomphé et qu'il est reconnu, d'être sacrifié à la simple verve, à cet esprit amuseur, aisé à comprendre et d'une digestion facile pour tout le monde !
+
+Je songeais à ces choses, en apprenant qu'on allait élever une statue à Alexandre Dumas. Le conseil municipal a donné un des plus larges emplacements de Paris, un comité a été formé, des articles excellents et très émus ont paru ici même. Tout cela est bon. Mais Balzac !
+
+M'est-il permis, à mon tour, de traiter cette question, avec mon indépendance habituelle ? Le *Figaro* est une tribune ouverte, et l'on veut bien y tolérer depuis quelque temps mes façons de voir. Je tâcherai, d'ailleurs, de ne blesser personne.
+
+Au lendemain de la mort d'Alexandre Dumas, il y a dix ans, on songea, m'a-t-on dit, à faire une édition définitive de ses œuvres complètes, une de ces éditions qui sont comme le monument de bronze d'un grand écrivain. Mais, après une première étude, on dut y renoncer. Outre la quantité effroyable de prose laissée par Dumas, outre la difficulté qu'on aurait eue à démêler ce qui lui appartenait en propre de ce qui appartenait à ses collaborateurs, on reconnut sans doute que les meilleurs de ses romans n'avaient pas assez de consistance pour supporter la publication solennelle d'une édition définitive. Ces romans ont amusé toute une époque, il est possible qu'ils amusent encore quelques personnes aujourd'hui, mais il est certain qu'ils iront prochainement rejoindre les romans de la Calprenède et de mademoiselle de Scudéry.
+
+L'idée d'une édition complète abandonnée forcément, le projet d'une statue devait tôt ou tard se produire. Je le guettais, je trouve même que le fait prévu s'est fait attendre. Paris est un « gobeur », qui a besoin d'être diverti. Il faut songer que Dumas a été son enfant gâté, pendant près d'un demi-siècle. Paris était à l'aise avec lui, riait de ses mots, lui tapait sur le ventre, gardait la reconnaissance du gros rire dont il l'emplissait. Ajoutez l'engouement de la presse pour un esprit sans profondeur, mais d'une verve intarissable. On adore toujours les gens qui ne vous forcent pas à penser, qui ne vous heurtent pas par un tempérament trop personnel, et dont l'heureuse nature vous entretient dans un doux état d'hilarité.
+
+Tenez ! un exemple. Dernièrement, meurt un petit journaliste de quelque esprit, Xavier Aubryet. Il avait beaucoup souffert, paraît-il, et sa longue agonie méritait une larme. Mais il appartenait au groupe des amuseurs, à la franc-maçonnerie des « blagueurs » parisiens ; et voilà toute la presse partie, et voilà des lamentations comme on n'en a certainement pas poussé à la mort de Balzac. Pendant quinze jours, l'étranger a pu croire que notre littérature venait de faire une perte irréparable. On nous assassine encore des mots drôles de Xavier Aubryet, qui ne sont pas drôles du tout. Pure affaire d'engouement.
+
+Eh bien ! décuplez cet engouement, élevez-le à la plus forte puissance, et vous comprendrez comment Paris peut être pris de l'impérieux besoin d'élever une statue à Alexandre Dumas, lorsqu'il n'a jamais songé une seconde à en élever une à Balzac. Je suis même certain que ma réclamation va étonner bien du monde. Une statue à Balzac, mais pourquoi faire ? En voilà une idée ! Il n'était pas drôle, il n'amuse pas, et même il s'est parfois montré très grossier pour les journalistes. Puis, c'est un homme de génie, il a le temps d'attendre ; il obtiendra bien sa statue tout seul ; tandis qu'il faut se hâter de couler en bronze les amuseurs, si l'on veut que le temps ne les mette pas en poussière.
+
+Il y a encore une raison qui explique la statue d'Alexandre Dumas ; et c'est à mes yeux la raison décisive. On érige cette statue à M. Alexandre Dumas fils dans la personne de son père. Supposez Dumas mort, sans laisser derrière lui un fils qui est devenu la coqueluche de Paris, et Paris ne penserait pas plus à lui qu'il ne pense à Balzac. Je propose, non une statue, ce qui n'est pas suffisant, mais un groupe, le grand Dumas conduisant par la main le petit Dumas âgé de sept ans, tous les deux en bronze.
+
+O Paris, Ville-Lumière, comme t'a nommée le poète, ou plus simplement, comme nous t'appelons nous-mêmes, ville de toutes les intelligences et de toutes les vérités, as-tu bien songé à cela ? Le jour où tu éprouves le besoin d'honorer le roman, de mettre en face de Molière, le génie de ton théâtre, en face de Voltaire, le génie de ta raison et de ton esprit, un prince littéraire d'une taille égale, le génie même de ton roman moderne, tu vas choisir un producteur qui certes a eu sa gloire, mais qui a sombré dans la production et que notre génération ne lit déjà plus !
+
+Eh quoi ! il n'y a pas sur tes places un seul romancier en bronze ou en marbre, et le premier qu'il nous faudra saluer, ce sera un simple conteur où nous ne retrouvons rien de nous, rien de notre art, rien de notre philosophie, rien de notre avenir. Serait-ce un essai du suffrage universel en matière de statue, car le peuple, les illettrés et les badauds voteraient sans doute ; mais je doute que les délicats et les artistes donnent leurs voix.
+
+Mettons même pour un instant Balzac à part. Pourquoi ne prends-tu pas Stendhal ? Il est moins populaire que Dumas, ayant eu plus de génie. Celui-là est un esprit supérieur. Il a laissé des études profondes, qui, au lieu de vieillir, grandissent et s'élargissent chaque jour. Jamais il ne deviendrait un embarras sur une de tes places, car il durera autant que la littérature française.
+
+Pourquoi ne prends-tu pas Gustave Flaubert ? Dire que nous allons, à grand'peine, obtenir pour lui un buste à Rouen, sur une fontaine, lorsque toi, Paris, tu élèveras une statue monumentale à Alexandre Dumas, au centre d'un de tes quartiers les plus riches. L'auteur des *Trois Mousquetaires* traité en roi, et l'auteur de *Madame Bovary* relégué mesquinement en province, comme une gloire de département ! Tous les cœurs littéraires bondissent à cette idée.
+
+Et si tu dédaignes les romanciers, si tu n'en trouves pas d'assez hauts, pourquoi ne prends-tu pas un historien, Michelet par exemple ? Celui-là aussi attend son marbre. Prosateur, il a été un de nos plus grands poètes. Je sais bien que c'est à lui qu'on attribue cette phrase : « Dumas est une force de la nature », phrase obscure comme il les aimait parfois. Cette force est-elle le vent qui passe à grand vacarme et qui tombe ? Dans ce cas, nous serions d'accord.
+
+Puis, voici tes poètes, ô Paris ingrat ! S'il te faut des gloires littéraires, où est la statue de Musset, ce grand poète du siècle, le plus humain et le plus vivant ? où celle de Théophile Gautier, cet artiste parfait, qui valait dans son petit doigt tout Alexandre Dumas, comme écrivain ? où celle de Baudelaire, cet esprit rare et personnel, dont l'unique volume de vers pèsera plus, dans la balance de la postérité, que les cinq cents volumes de l'auteur de *Monte-Cristo* ?
+
+Et les peintres, tu les oublies donc également ? Je n'en vois pas un seul sur tes places publiques. Ni Ingres qui fut un grand dessinateur, ni Delacroix qui fut un grand peintre, tous deux superbes de conviction, et qui sont morts de la passion de leur art. Et Courbet, le dernier de nos maîtres, le plus sain et le plus fort, celui qui eut un jour l'idée bête de vouloir renverser la colonne ? Tu as manqué d'esprit, ô Paris, en ne lui élevant pas une statue, le lendemain de sa mort !
+
+Préfères-tu un musicien ? Prends Berlioz que tu as sifflé, tant qu'il a vécu, et que tu acclames comme un génie, maintenant qu'il dort dans la terre ? Aimes-tu mieux un savant ? Prends Claude Bernard, dont les grands travaux ont montré que la méthode expérimentale est l'outil même du siècle. Et si décidément tu revenais à la littérature et qu'il te fallût un critique, prends Sainte-Beuve, qui ferait encore bonne figure sur un piédestal, car il a aimé la vérité avec ferveur et parfois il a même osé la dire.
+
+Mais vois-tu, ô Paris, les étrangers s'arrêter devant la statue d'Alexandre Dumas et, ne trouvant dans tes murs que ce romancier de bronze, s'écrier : « Voilà donc le plus grand de leurs romanciers ! » Eh bien ! non, eh bien ! non, cela n'est pas vrai ! Il y en a dix avant lui. Je demande que tout au moins tu mettes sur le socle les raisons de ton engouement : A Alexandre Dumas, parce qu'il était bon enfant, parce qu'il nous a amusés, parce qu'il est le père d'Alexandre Dumas fils.
+
+J'imagine qu'un matin Balzac quitte la froide terre et qu'en visitant ce Paris qu'il a tant aimé, il aperçoive tout d'un coup un gigantesque Alexandre Dumas de bronze, au milieu d'une vaste place ? Quelles ne seraient pas sa surprise et son amertume ? « Eh ! quoi, c'est lui qui est là-haut, ce n'est pas moi ! » Tel serait le cri de son cœur.
+
+Voici ce qu'il écrivait à la comtesse Hanska, le 21 décembre 1844 : « Je comprends, chère comtesse, que vous ayez été choquée des *Mousquetaires*, vous si instruite, et sachant surtout à fond l'histoire de France, non seulement au point de vue officiel, mais jusqu'aux moindres détails intimes des petits cabinets du roi et du petit couvert de la reine. On est vraiment fâché d'avoir lu cela, rien n'en reste que le dégoût pour soi-même d'avoir ainsi gaspillé son temps. »
+
+Est-il besoin de mettre aujourd'hui face à face l'auteur de *la Comédie humaine* et celui des *Trois Mousquetaires*, pour faire à chacun sa part dans notre littérature ? Il ne s'agit plus d'auteurs vivants, sur le compte desquels les passions du jour peuvent égarer. Tout le monde est d'accord, Balzac est le maître indiscuté du roman contemporain. M. H. Taine, dans la belle étude qu'il a écrite sur lui, a dû, pour trouver un homme à sa taille, remonter jusqu'à Shakespeare. Oui, notre Shakespeare français, ce n'est pas Victor Hugo, dont les figures sont de pures imaginations, toutes coulées dans le même moule ; c'est Balzac, qui a créé un monde, ainsi que le grand tragique anglais. Eux deux seuls ont tiré de leur cerveau des centaines de créatures distinctes, ayant chacune sa vie propre : et leurs œuvres sont ainsi restées des magasins de documents humains, les plus vastes que l'on connaisse.
+
+Si l'on veut savoir le fond de ma pensée, je dirais que je suis d'avis de n'élever de statue à personne. Pour les écrivains surtout, les œuvres sont là qui suffisent comme monument. Si vous laissez des œuvres grandes, à quoi bon une statue qui paraîtra toujours plus petite ? et si vos œuvres sont médiocres, si vos flatteurs pensent les hausser en mettant un bronze dessus, ce bronze, trop grand pour vous, vous rapetissera encore devant les générations. Seulement, lorsqu'on dresse des statues, encore faut-il qu'on les dresse avec quelque logique et quelque justice.
+
+Nous ne repoussons pas Alexandre Dumas. Nous demandons simplement que Balzac passe le premier. C'est de l'équité littéraire, rien de plus. Une Académie peut être injuste ; une grande ville comme Paris ne saurait l'être.
+
+Et c'est uniquement ici l'appel d'un écrivain, d'un fils dévoué de Balzac, qui n'a entre les mains aucun moyen d'exécution et qui laisse à d'autres toute la besogne matérielle. Qu'on cherche des journaux, qu'on forme un comité, qu'on obtienne du Conseil municipal un emplacement, le plus large et le plus central qu'on pourra trouver. Il me suffira d'avoir rétabli les rangs et empêché une œuvre de suprême injustice.
+
+Je m'inscris pour mille francs.
+
+Je donnerai cent francs pour la statue d'Alexandre Dumas, lorsque j'aurai donné mille francs pour la statue de Balzac.

@@ -1,0 +1,82 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ESQUISSES PARISIENNES",
+  "slug": "esquisses-parisiennes",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1059,
+      "spine_end_exclusive": 1060,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_069.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La vierge au cirage",
+      "slug": "la-vierge-au-cirage",
+      "spine_start": 1060,
+      "spine_end_exclusive": 1067,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_070.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_071.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_072.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_073.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_074.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_075.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_076.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les vieilles aux yeux bleus",
+      "slug": "les-vieilles-aux-yeux-bleus",
+      "spine_start": 1067,
+      "spine_end_exclusive": 1074,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_077.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_078.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_079.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_080.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_081.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_082.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_083.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les repoussoirs",
+      "slug": "les-repoussoirs",
+      "spine_start": 1074,
+      "spine_end_exclusive": 1081,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_084.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_085.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_086.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_087.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_088.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_089.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_090.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L’amour sous les toits",
+      "slug": "lamour-sous-les-toits",
+      "spine_start": 1081,
+      "spine_end_exclusive": 1083,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_091.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_092.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/esquisses-parisiennes/Zola4_image010.jpg"
+  ]
+}

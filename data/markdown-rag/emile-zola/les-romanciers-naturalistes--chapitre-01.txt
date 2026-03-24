@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LES ROMANCIERS NATURALISTES"
+slug_oeuvre: "les-romanciers-naturalistes"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+LES ROMANCIERS NATURALISTES
+
+Liste des études biographiques et critiques
+
+] !
+
+## Préface
+Ce sont encore ici des études qui ont paru d'abord en Russie, dans le *Messager de l'Europe*, Seulement, je les ai écrites avec une pensée d'ensemble. Mon projet était, en les réunissant un jour en un volume, de donner une histoire du roman naturaliste, étudié dans les chefs qui en ont successivement apporté et modifié la formule.
+
+On se souvient peut-être du vacarme que souleva mon étude sur les romanciers contemporains. Aujourd'hui seulement, elle y prend son vrai sens, sa valeur exacte. Elle n'est, après les autres études, qu'une suite de notes rapides, destinées à rendre mon travail complet. J'espère qu'on voudra bien comprendre.
+
+Il me reste à m'excuser de donner sur Balzac une étude absolument indigne de lui. Ce n'est là qu'une compilation faite à l'aide de sa *Correspondance*. Je comptais reprendre ce travail, l'élargir en étudiant plus particulièrement en lui le romancier. Mais, comme le temps et le courage m'ont manqué, comme d'autre part je ne puis décapiter mon livre en omettant Balzac, je me décide à publier les pages que j'ai sous la main, pour qu'elles marquent au moins, à notre tête, au sommet, la glorieuse place du père de notre roman naturaliste.
+
+Émile ZOLA.

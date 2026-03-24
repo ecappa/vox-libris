@@ -1,0 +1,154 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "CHANSONS",
+  "slug": "chansons",
+  "nombre_chapitres": 13,
+  "structure": [
+    {
+      "title": "Au printemps",
+      "slug": "au-printemps",
+      "is_part": false,
+      "spine_start": 2437,
+      "spine_end_exclusive": 2438,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Souvenirs d'Écosse",
+      "slug": "souvenirs-decosse",
+      "is_part": false,
+      "spine_start": 2438,
+      "spine_end_exclusive": 2439,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Berceuse",
+      "slug": "berceuse",
+      "is_part": false,
+      "spine_start": 2439,
+      "spine_end_exclusive": 2440,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_006.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chanson turque",
+      "slug": "chanson-turque",
+      "is_part": false,
+      "spine_start": 2440,
+      "spine_end_exclusive": 2441,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chanson groënlandaise",
+      "slug": "chanson-groenlandaise",
+      "is_part": false,
+      "spine_start": 2441,
+      "spine_end_exclusive": 2442,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Tout simplement",
+      "slug": "tout-simplement",
+      "is_part": false,
+      "spine_start": 2442,
+      "spine_end_exclusive": 2443,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Daphné",
+      "slug": "daphne",
+      "is_part": false,
+      "spine_start": 2443,
+      "spine_end_exclusive": 2444,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les deux troupeaux",
+      "slug": "les-deux-troupeaux",
+      "is_part": false,
+      "spine_start": 2444,
+      "spine_end_exclusive": 2445,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La douce attente",
+      "slug": "la-douce-attente",
+      "is_part": false,
+      "spine_start": 2445,
+      "spine_end_exclusive": 2446,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "En avant les zouaves!",
+      "slug": "en-avant-les-zouaves",
+      "is_part": false,
+      "spine_start": 2446,
+      "spine_end_exclusive": 2447,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les gabiers",
+      "slug": "les-gabiers",
+      "is_part": false,
+      "spine_start": 2447,
+      "spine_end_exclusive": 2448,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La tankadère",
+      "slug": "la-tankadere",
+      "is_part": false,
+      "spine_start": 2448,
+      "spine_end_exclusive": 2449,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Notre étoile",
+      "slug": "notre-etoile",
+      "is_part": false,
+      "spine_start": 2449,
+      "spine_end_exclusive": 2450,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneAjout20131602_split_016.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

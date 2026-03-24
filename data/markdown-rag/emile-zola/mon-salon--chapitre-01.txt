@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MON SALON"
+slug_oeuvre: "mon-salon"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+MON SALON
+
+Liste des études biographiques et critiques
+
+] !
+
+## Présentation
+*Mon Salon* est un recueil d'articles de critiques d'art qui ont été spécialement écrit pour le journal *L'événement*. Ils y parurent initialement sous forme de feuilletons du 1er au 26 septembre 1866.

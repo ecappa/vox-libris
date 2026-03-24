@@ -1,0 +1,574 @@
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909117 .pcalibre .calibre2 .pcalibre1}[Paolo (fragments)]{#_Toc368909057 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_18 .calibre33}
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909118 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368909058 .pcalibre .calibre2 .pcalibre1} {#i .calibre42 .sigil_not_in_toc}
+
+La foule, à deux genoux devant la Vierge sainte,
+Priait dévotement en regardant le ciel.
+Les vitraux pâlissaient et les feux de l\'autel
+N\'éclairaient qu\'à demi les piliers de l\'enceinte.
+On était à ce mois où tout rit dans les champs,
+Où la terre s\'éveille aux baisers du printemps
+Et se pare de fleurs, comme la jeune fille
+Qui met tous ses bijoux pour un premier quadrille ;
+Mois des jeunes amours où la vierge, le soir,
+Troublée et ne pouvant chasser sa rêverie,
+Vient par besoin d\'aimer s\'adresser à Marie,
+S\'enivrer des parfums que jette l\'encensoir,
+Et, comme à quelque amant, prodiguer dans sa fièvre
+A son froid crucifix les baisers de sa lèvre.
+Filles, filles de Dieu, dans l\'ombre des arceaux,
+Quand, pâles sous la bure, à genoux et tremblantes,
+Vous frappez de vos fronts les dalles des tombeaux ;
+Quand l\'orgue gronde et jette aux voûtes frémissantes
+Ses sanglots, ses soupirs, ses mille voix d\'airain ;
+Quand l\'autel est en feu, que le parfum s\'élève,
+Que monte un chant d\'amour dans le temple divin,
+Et, que les yeux noyés, voyant comme en un rêve,
+Vous vous courbez encore, sur l\'ivoire des croix
+La lèvre palpitante et la bouche sans voix :
+Dites, oh ! dites-moi, vous les pudiques nonnes,
+A qui s\'adresse donc ce long embrassement ?
+Pour qui donc ont pâli vos fronts sous vos couronnes ?
+Et qui cherchent vos mains, fluettes et mignonnes,
+Que paraissent brûler les baisers d\'un amant ?
+Pendant un mois entier, de pâles jeunes filles
+S\'agenouillent ainsi devant cet humble autel ;
+Et, craignant leurs vingt ans dans les sombres charmilles,
+Elles viennent aimer sous les regards du ciel.
+Elles sont toutes là, nombreuses et pressées,
+Dans le coin le plus noir du vaste monument,
+En extase et laissant échapper par moment,
+Un cantique d\'amour sous les voûtes glacées.
+Et l\'on dirait alors, aux échos des piliers,
+Ouïr sur leurs tombeaux les anciens chevaliers,
+Les dames, les varlets, secouant leur poussière,
+Dans leurs versets mourants répondre aux saints de pierre.
+Se retournant parfois, ses grands yeux effarés,
+Une vierge se penche, écoute ces murmures,
+Ce chant confus qui sort des chapelles obscures,
+Ces roulements lointains dans les parvis sacrés,
+Et cherche à distinguer si ces clameurs étranges
+Sont les cris des démons ou les lyres des anges.
+Mais la faible lueur qui tombe du flambeau
+N\'éclaire que l\'autel. Aux colonnes gothiques,
+Elle jette soudain des reflets fantastiques,
+Dans l\'ombre fait blanchir le marbre d\'un tombeau,
+Et, venant i jouer sous les sombres portiques,
+Semble les agiter comme un mouvant rideau.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909119 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368909059 .pcalibre .calibre2 .pcalibre1} {#ii .calibre42 .sigil_not_in_toc}
+
+Dis-moi, que fais-tu là, t\'éloignant des flambeaux,
+Forme noire, immobile, appuyée à ces grilles ?
+Est-ce toi qui te plais à pousser ces sanglots,
+Afin d\'épouvanter les folles jeunes filles ?
+Serais-tu Gabriel ou bien l\'Ange déchu ?
+Viens-tu donc pour prier ou, de ta main maudite,
+Voler la coupe sainte et le lin du lévite ?
+Dans cet angle, oh ! dis-moi, fantôme, que fais-tu ?
+Mais c\'est toi, mon Paolo, mon enfant, mon doux frère ;
+Toi, le fils de cet âge, et qui dans la poussière
+N\'incline pas ton front que le doute pâlit ;
+Toi, non l\'Ange du mal, non l\'Ange de lumière,
+Mais l\'homme faible et bon, si grand et si petit !
+Enfant, l\'église est froide et la pierre est humide
+Pour celui qui s\'arrête à l\'autel sans prier ;
+Et la voûte n\'est plus que l\'image du vide,
+Dès qu\'on doute du Dieu qui l\'emplit en entier.
+Enfant, tu ne crois plus à l\'auguste mystère :
+Il fait froid, il fait noir ; viens, la brise est légère,
+Et, parfumé de fleurs, je connais un sentier.
+--- Non, non, me réponds-tu, cette voûte étincelle.
+Je me sens pénétrer d\'une sainte chaleur,
+Et, pour monter aux cieux, je sens battre mon aile :
+Tout est flamme, parfum et chanson dans mon cœur.
+Vois-tu la blonde enfant, parmi toutes ces vierges,
+Celle qui, radieuse, a croisé les deux mains ;
+Vois-tu, sur son beau front, la lumière des cierges
+Se jouer et former l\'auréole des saints.
+Oh ! sois ma Beatrix, vierge aux pudiques voiles ;
+Descends, viens d\'ici-bas arracher ton amant ;
+Et, le front couronné de rayons et d\'étoiles,
+Quittons ce vil limon pour le bleu firmament.
+Dans notre élan sacré, montons, montons encore !
+Dépassons les soleils, atteignons l\'infini !
+Qu\'en toi de plus en plus l\'amour qui te dévore
+Resplendisse, et qu\'au seuil de l\'éternelle aurore,
+Tu me jettes à Dieu, palpitant, ébloui ! ---
+Reste donc, ô Paolo, sous les divins portiques.
+Tu peux prier ici, prier à deux genoux ;
+Et ton encens à Dieu semblera le plus doux.
+Arrière le soudard, sur les dalles antiques,
+Qui, riant, fait sonner son bruyant éperon,
+Qui jette effrontément à ces vierges pudiques
+Ses obscènes lazzi, ses rires de démon !
+Arrière le damné, le cavalier infâme,
+Ivre, qui se trompant, prend la maison de Dieu
+Pour l\'ignoble boudoir de quelque mauvais lieu,
+Et vient traîner son corps dans le temple de l\'âme !
+Mais toi, mon doux enfant, qui dans l\'ombre ne veux
+Que l\'adorer de loin, toi dont l\'âme est si pure,
+Dont le doigt n\'oserait toucher sa chevelure,
+Oh ! demeure : les saints chanteront dans les cieux.
+Car, vois-tu, le Seigneur, non pas ce Dieu colère
+Qu\'un prêtre sans l\'enfer ne saurait nous montrer,
+Mais le Dieu de bonté, le Seigneur notre père,
+Doit sourire en voyant deux enfants s\'adorer.
+La chapelle pâlit et le dernier cantique
+A cessé de vibrer dans l\'église gothique.
+La vierge, se signant une dernière fois,
+Du chapelet bénit vient de baiser la croix ;
+Et, lente, dans la nuit, la pieuse assemblée
+S\'éloigne à pas discrets, en silence et voilée.
+Paolo qui, du regard, caressait doucement
+La fille aux cheveux blonds, Paolo le tendre amant,
+Lorsqu\'il vit se lever sa chère bien-aimée
+Et qu\'elle vint à lui, légère et parfumée,
+Se blottit, plein d\'effroi, derrière un vieux tombeau,
+Et ramena sur lui les plis de son manteau.
+Certes, le pauvre enfant fut mort, si son amante
+Eut su qu\'il était là, dans l\'ombre palpitant ;
+Mais, vague, elle passa, comme une ombre flottante,
+En l\'effleurant au pied de son long vêtement.
+Et l\'amant tressaillit et, courbé sur les dalles,
+Il adora le sol qu\'avaient touché ses pas.
+Voyant à la lueur des lampes sépulcrales
+Une rosé échappée à ses mains virginales,
+Il la vola, guettant pour qu\'on ne le vit pas.
+Puis, il l\'entra dans l\'ombre où, se cachant encore,
+Il baisa cette fleur, craintif et frémissant ;
+Et, réveillant l\'écho de la voûte sonore,
+Pour revoir son amante il s\'enfuit en courant
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909120 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368909060 .pcalibre .calibre2 .pcalibre1} {#iii .calibre42 .sigil_not_in_toc}
+
+Depuis deux ans, Paolo suivait ainsi Marie ;
+Depuis bientôt deux ans, le soleil le trouvait
+À la porte du vieil hôtel où la chérie,
+Dans son repos d\'enfant, souriante, rêvait ;
+Et l\'étoile du soir, dans quelque recoin sombre,
+Le surprenait encore, caché, rêvant dans l\'ombre,
+Les yeux sur la fenêtre où, vague, par moment,
+Une l\'orme aux longs plis glissait confusément.
+Il s\'était fait son chien ; il restait des journées
+À l\'attendre, pour voir flotter sur ses cheveux
+Du ruban de velours le noeud capricieux ;
+Et, derrière un vieux mur, ces heures fortunées,
+Paolo pour son salut ne les eut pas données.
+Puis, dès qu\'il l\'avait vue, il tâchait de savoir
+À quelle heure, en quels lieux, il pourrait la revoir,
+Pourtant, nul ne savait pourquoi, sous la charmille,
+Paolo restait rêveur jusqu\'à la fin du jour.
+Il était si prudent, le doux coureur de fille,
+Que Marie elle-même ignorait son amour.
+Non, jamais le regard de la blonde madone,
+Ce long regard songeur, ne s\'était un instant
+Doucement reposé sur le front de l\'enfant.
+Jamais, sous les bandeaux, son oreille mignonne,
+Dans l\'ombre des maisons, le soir n\'avait surpris
+De lointains bruits de pas sur la dalle affaiblis.
+Jamais son jeune sein, en se gonflant plus vite,
+Pour un chant, un bouquet, ce beau sein qui palpite,
+N\'avait dit à son cœur, dans un doux battement,
+Qu\'auprès d\'elle toujours frémissait un amant.
+0 vierge de seize ans, frêle bouton de rose,
+0 fleur humide encore des baisers de la nuit,
+Dont pour le vent d\'été la feuille reste close
+Et reçois sans frémir le papillon qui fuit !
+Tu ne vois pas briller, quand tu tournes la tête,
+Ce long regard d\'amour qui cherche en vain le tien ;
+Tu n\'entends pas ces mots que, frissonnant, répète
+Ce grand jeune homme pâle au débile maintien.
+Et pourtant si c\'était le bonheur de ta vie
+Que tes yeux et ta main venaient de dédaigner ;
+Si nul tressaillement n\'avait fait deviner
+A ton cœur que dans l\'ombre, était l\'âme choisie ;
+Si, tout près de fleurir, l\'herbe allait se faner\...
+Oh ! pour tes pleurs futurs, enfants, qu\'on te pardonne !
+À peine as-tu seize ans, et ton front chaque soir
+Ne connaît qu\'un baiser que ta mère te donne ;
+L\'amour n\'a pas encore embelli ta couronne :
+Tu fus méchante et folle, enfant, sans le savoir.
+Bien des fois cependant, sur sa tête brûlante.
+Paolo laissant courir le souffle de minuit,
+Sans pouvoir apaiser sa fièvre dévorante,
+S\'asseyait et pleurait comme un enfant maudit.
+Hélas ! pauvre rêveur, la vision s\'efface.
+La lumière n\'est plus, les feuilles ont jauni ;
+Et les souffles du nord dispersent dans l\'espace
+Les parfums de la fleur et les chansons du nid.
+Tu n\'es plus dans les champs, mais sur la dalle nue,
+Posant parfois la tête aux bornes de la rue.
+Tu n\'es plus au désert, dans les herbes perdu.
+Entends-tu ces cris sourds ? dans la fange, vois-tu,
+Affreuses, se traîner ces femmes en guenilles,
+Êtres sans nom, jadis rieuses jeunes filles ?
+Vois-tu ces noirs ruisseaux, sources d\'impureté,
+Qui ne sauraient croupir que dans une cité ?\...
+C\'était un songe, enfant. Marie est sur sa couche,
+Et son ange gardien veille encore au chevet.
+Ce doux titre d\'amant, ce n\'était pas sa bouche
+Qui tantôt sur les fleurs tout bas te le donnait.
+Nul songe ne la berce en lui disant : Je t\'aime.
+Ne t\'ayant jamais vu, souriante, elle dort\...
+--- Oh ! non, murmura-t-il, je ne lui dirai pas,
+Que dans chaque sentier je la suis pas à pas.
+Jour de Dieu ! si mon ange allait perdre ses ailes !
+S\'il n\'était pas celui qu\'il me fallait aimer !
+Au lieu de tout bénir, si j\'allais blasphémer,
+Prostituer mon corps, ces guenilles mortelles,
+Et sentir en pleurant mon âme se fermer !
+Si les pleurs des vieillards sur leurs amours passées
+Étaient des pleurs qu\'arrache un amer souvenir !
+S\'il était vrai qu\'un jour les âmes sont lassées
+Et que l\'amour s\'apaise ainsi qu\'un vil désir !
+Mais peut-être jamais ma lèvre sur sa lèvre
+Ne la ferait trembler d\'une amoureuse fièvre.
+Peut-être elle fuirait, comme un lutin railleur,
+Ou passerait, superbe et le front sans rougeur.
+Peut-être elle rirait\... Oh ! le rire, le rire !
+Vent maudit qui soufflette et qui glace le sang,
+Arrête sur la lèvre un mot qu\'on allait dire,
+Passe, fait chanceler et fuir en pâlissant !
+Oh ! le rire moqueur de celle qu\'on adore,
+Que tout semble écouter et jeter aux échos,
+Que dans la solitude on croit trouver encore,
+Railleur autour de soi, sous la roche sonore,
+Derrière le vieux chêne et parmi les roseaux !
+--- Je blasphème peut-être, ô ma sainte madone !
+Toi mon ange si pur, hélas ! je te soupçonne,
+Je t\'accuse d\'avoir un cœur méchant et fier.
+Oh ! ne m\'écoute pas, mon amie, et pardonne :
+Vois-tu, je suis enfant de ce siècle de fer ?
+Oui, je doute de tout : de la mère penchée
+Sur le bord du berceau, gardant son nourrisson ;
+De la source limpide ou la fange est cachée
+Peut-être sous les fleurs qui parent le gazon.
+Je doute des lambris suspendus sur ma tête ;
+Je doute du plancher qui se trouve sous moi,
+Des fleurs et des parfums, du ciel pur d\'une fête
+Du Christ au Golgotha, de sa divine loi :
+Je doute de moi-même et je doute de toi !
+Je t\'ai rêvée, enfant, si céleste et si belle,
+Que la moindre souillure à ton blanc vêtement
+Me semblerait, hélas ! une tache éternelle ;
+Et de ton piédestal, ainsi qu\'un marbre frêle,
+A mes pieds tu viendrais te briser en tombant.
+Reste parmi tes fleurs, reste avec l\'auréole
+Qui, dans ma longue extase, orne ton front serein.
+Qu\'importe pour t\'aimer une vaine parole,
+Une étreinte, un regard ; laissons la vierge folle
+Prostituer ses yeux, ses lèvres et sa main.
+Je t\'aime ainsi, cachant ma joie et ma souffrance ;
+Je t\'aime belle, chaste, ignorant mon amour ;
+Je t\'aime et t\'aimerai, saintement, en silence,
+Dès l\'aurore rêvant jusqu\'à la fin du jour.
+C\'est maintenant, Don Juan, à toi que je m\'adresse.
+Ne fus-tu pas ce fou qui, du Nord au Midi,
+Superbe et désolé, traîna derrière lui,
+Comme un roi son manteau, sa fougueuse tendresse ?
+De cette pourpre usée et tombant en haillons,
+Qui jeta des lambeaux sur chaque épaule nue,
+Drapa de son amour la première venue,
+Prêtresse de l\'orgie ou vierge aux cheveux blonds ?
+Ne fus-tu pas ce fou qui, la gorge brûlante,
+Au festin d\'ici-bas vint un jour s\'attabler,
+Sur chaque verre d\'or posant sa lèvre ardente,
+Les boire tour à tour sans cesser de brider ?
+Son oeil la caressait, lorsque, vermeille et pleine,
+Scintillait près de lui la coupe du voisin.
+Il la volait, après avoir vidé la sienne,
+Avide, tarissait la liqueur d\'une baleine,
+Et vers d\'autres bientôt il allongeait la main.
+Hélas ! c\'est qu\'il cherchait un nectar que la terre
+Ne peut comme le ciel verser à son enfant.
+Au fond il découvrait toujours la lie amère
+Et, brisant de dégoût le vase sur la pierre,
+II s\'élançait encore, espérant et buvant.
+Tant qu\'il put avancer, il marcha dans la vie,
+Étouffant chaque fleur sous le baiser d\'un jour,
+Laissant derrière lui l\'herbe jaune et flétrie ;
+Et sa gorge en mourant, râla, dans l\'agonie,
+Dans un dernier blasphème un dernier cri d\'amour !
+Ah ! sublime rêveur, chercheur infatigable,
+Qui, te heurtant toujours à la réalité,
+Qui toujours bâtissant sur une mer de sable
+Et voyant chaque soir l\'édifice emporté,
+Te remettais à l\'œuvre et, de tes mains tremblantes,
+Soutenais vainement les murailles croulantes !
+Toi qu\'une vision ne pouvait contenter,
+Qui, sous des traits humains voulait aimer cet ange
+Que, vague, te montrait ta rêverie étrange,
+Et vivre dans les cieux avant que d\'y monter !
+Oh ! dis-moi, bien souvent, dans ta course insensée,
+N\'as-tu pas regretté la vierge aux pas tremblants,
+Qui, le front sous les fleurs et la tête baissée,
+Dans ton sentier de mousse un jour était passée,
+Alors que dans tes yeux rayonnaient tes seize ans ?
+N\'as-tu pas regretté cette heure chaste et pure
+Où ton premier amour, comme un encens divin,
+S\'échappait de ton cœur, empêchant la souillure
+De monter jusqu\'à toi des égouts du chemin ?
+Ces temps de sainte peur où ton âme ignorante
+Ne cherchait pas encore un mutuel amour,
+Où tu voyais en rêve une vierge riante
+Et, naïf, adorais comme une seule amante
+Le songe de la nuit et la femme du jour ?
+Ah ! s\'il t\'était permis de revivre une vie,
+Si tu brisais du front la dalle du tombeau,
+Si, Dieu le désirant, tes seize ans de nouveau
+Mettaient un frais sourire à ta lèvre pâlie ;
+Toi le hardi Don Juan, toi le larron d\'honneur,
+Le héros des balcons, des échelles de soie,
+Qui, s\'il l\'eût bien voulu, du trône du Seigneur,
+Convoitant une vierge, eut arraché sa proie :
+Ne l\'aimerais-tu pas, cette timide enfant ?
+N\'irais-tu pas trembler, blotti sur son passage,
+Puis, quand elle aurait fui, te cacher le visage
+Pour la revoir encore, souriant et pleurant ?
+Dis ? ne voudrais-tu pas l\'adorer en silence,
+Lui laisser ignorer ton nom et ton amour,
+En avare garder cette ardente souffrance
+Que l\'on souffre la nuit dans l\'attente du jour ?
+Tu resterais sans voix devant cette madone ;
+Oui, tu préférerais ce beau songe doré,
+Toi qui sus quel limon la réalité donne,
+Qui, pour avoir tenté, mourus désespéré.
+Tu l\'aimerais, Don Juan, mon amante inconnue,
+Toujours, et sans vouloir que son corps fut souillé,
+Sans chercher à mêler, sur sa poitrine nue,
+Dans un baiser son âme à ton âme éperdue :
+Tu l\'aimerais, Don Juan, près d\'elle agenouillé !
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909121 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368909061 .pcalibre .calibre2 .pcalibre1} {#iv .calibre42 .sigil_not_in_toc}
+
+C\'est auprès d\'un rempart, noirci, rongé de lierres,
+Dont le vent chaque jour ébranle quelques pierres,
+Dans un recoin perdu de l\'antique cité,
+Où les lézards craintifs glissent en liberté.
+De vieux hôtels verdis, des dalles ébréchées,
+Des colonnes gisant, dans les herbes couchées ;
+Un silence que rompt de loin en loin les pas
+D\'un passant égaré.
+Cette sombre masure
+Dont les vieux murs ont peine à porter la toiture,
+Depuis quelque cent ans qui se dresse là-bas,
+Sur le bord d\'un ruisseau, dans la ronce et l\'ortie,
+Est la noire demeure où sommeille Marie.
+Les cieux sont étoilés et, des prochains sillons,
+Vient avec ce parfum le sauge et d\'églantine
+Qui s\'élève des bois quand le soleil décline,
+Le chant continuel et strident des grillons.
+Voici minuit qui sonne à l\'église voisine.
+Le son pleure, s\'éteint : le silence est profond.
+Comme un divin flambeau, derrière la colline,
+La lune lentement montre son pâle front..
+Ces lieux tristes le jour, tristes comme la plaine
+Que vient de dévaster l\'orageux aquilon,
+À cette heure de nuit, de lumière incertaine,
+De silence et de paix, ont la sainte beauté
+Des marbres des tombeaux dans leur tranquillité.
+Paolo, resté caché parmi de vieilles dalles,
+S\'approche enfin du seuil aux marches inégales,
+Lentement et craignant qu\'un regard curieux
+Ne le guette dans l\'ombre et ne lise en ses yeux.
+Il se couche à demi, comme le chien fidèle
+Qui garde le sommeil de son maître adoré,
+Il se couche en travers sur la porte de celle
+Dont même pour l\'amour le repos est sacré.
+Ses regards sont rêveurs ; la fraîcheur est si douée,
+Le ciel si lumineux, le pavé si désert !
+Derrière le rempart, comme un lointain concert,
+Chante une voix d\'oiseau gazouillant dans la mousse.
+Tranquillité sacrée, es-tu pas le bonheur ?
+Calme, pâle clarté, chant voilé de la lyre,
+Êtes-vous pas le ciel, vous qui faites sourire
+Cet enfant amoureux courbant son front rêveur ?
+Longtemps, il demeura sur cette dure pierre,
+Plongeant ses doigts fiévreux dans le froid du gazon ;
+Longtemps, le même rêve à sa longue paupière
+Mit une douée larme, une larme de mère
+Aux premiers pas tremblants que fait son nourrisson.
+Quel était donc ce rêve ? et pourquoi ce sourire ?
+On ne sait. Il resta des heures sans rien dire.
+Puis, il saisit le seuil de ses bras convulsifs,
+Et baisa la poussière où les pas de Marie
+S\'étaient la veille empreints, tout petits et craintifs.
+D\'une pointe de fer, sur la dalle noircie,
+Paolo se mit ensuite à graver quelques mots.
+Il travailla longtemps, jusqu\'aux clartés naissantes,
+Au fond de ce désert, ou des brises errantes
+Dans l\'ombre soupiraient leurs amoureux sanglots.
+Et, lorsqu\'il se leva, qu\'aux rayons de la lune
+Il vit les mots blanchir sur cette marche brune ;
+Lorsqu\'il put épeler, d\'un ton tremblant et doux,
+Au seuil du vieux logis ce qu\'il venait d\'écrire,
+Il entendit l\'écho lentement le redire.
+--- Je t\'aime ! --- Et, sur le seuil, il fléchit les genoux.
+Oh ! Seigneur, Dieu puissant, créateur de ces mondes
+Qu\'enflamma ton baleine, éclatantes lueurs ;
+Toi qui, d\'un simple geste, animes et fécondes
+Nos ténébreux néants, nos poussières immondes,
+Qui tiras du limon de saints adorateurs !
+Toi, le sublime Artiste, amant de l\'harmonie,
+Créant des univers qui les créa parfaits,
+Qui depuis la forêt à la gerbe fleurie,
+Depuis le noir torrent à la goutte de pluie,
+Dans un ordre divin répandis tes bienfaits !
+Toi, le Seigneur d\'amour, de vie et d\'espérance,
+Qui ne dus pas jeter, en un jour de malheur,
+Sur des êtres mortels l\'immortelle souffrance,
+Et lancer loin de toi, dans la carrière immense,
+Le monde, sans prêter l\'oreille à sa douleur !
+Maître, toi qui voulus que cette créature,
+Dont le front a gardé l\'empreinte de ta main,
+Sous ton souffle marchant dans ta sainte nature,
+Rencontrât sous ses pas des tapis de verdure,
+Pour reposer ses pieds des ronces du chemin !
+A l\'homme triste et seul, toi qui donnas la femme,
+Qui secouas sur eux ton céleste flambeau,
+D\'une pure étincelle, échappée à sa flamme,
+Qui fis jaillir l\'amour, et qui leur mis dans l\'âme
+En même temps le bon et le juste et le beau !
+Qui cachas sous les fleurs les sanglantes épines,
+Qui par pitié pour nous, dans ta sainte bonté,
+Nous montras ce rayon des voluptés divines,
+Et voulus que l\'amant, dans nos temps de ruines,
+Fût le dernier croyant de ta divinité !
+Oh ! mon père, merci ! Laisse courber la tête
+A l\'enfant qui jamais ne la courbe au saint lieu ;
+Laisse le chant d\'amour que ma lèvre te jette,
+Monter jusqu\'à tes pieds, comme un hymne de fête
+Laisse-moi reconnaître et mon âme et mon Dieu !
+Oui, je bénis ta droite, à genoux je t\'adore.
+Je me prosterne au sein de ta création.
+Mon âme est immortelle, un Dieu la fit éclore :
+Le feu qui me dévore
+Ne saurait s\'échapper d\'un infâme limon !
+Cet amour qui me brûle est la flamme divine
+Qui depuis six mille ans régit cet univers.
+Sur les chants d\'ici-bas, c\'est le chant qui domine,
+Et mon âme devine
+Un puissant Créateur dans ces divins concerts !
+Oui, je te reconnais, toi qui mis dans mon être
+Ce feu pur dont l\'ardeur me rapproche de toi.
+Je ne maudirai plus le jour qui m\'a vu naître,
+Et je veux, ô mon Maître,
+Comme un timide enfant me courber sous ta loi !
+Je m\'incline devant ta sainte Providence,
+Je comprends les parfums, les chants et la clarté,
+Et je comprends en toi la suprême puissance,
+L\'éternelle clémence,
+Pour verser à nos coeurs l\'éternelle beauté !
+Oui, si tu lis nos corps d\'eau saumâtre et de fange,
+Tu voulus partager ton haleine avec nous ;
+Car je me sens ici mener un songe étrange
+Et vouloir comme un ange
+Monter avec Marie au ciel, à tes genoux !
+Je sens que cette haleine est une âme immortelle.
+Que la terre n\'est pas son bien-aimé séjour,
+Que, jointe à l\'âme soeur, l\'éternité l\'appelle,
+Et qu\'il faut qu\'un coup d\'aile
+Nous emporte à tes pieds pour nous donner l\'amour !
+Ah ! pour l\'éternité qu\'errantes dans les nues,
+Nos âmes, se mêlant dans un baiser de feu,
+Sans les honteux désirs de nos chairs éperdues,
+Dans la bière étendues,
+Aiment de ton amour, ô mère de mon Dieu !
+
+1860\.
+
+
+::: WordSection
+*[
+]{.calibre44}*
+
+
+[[Liste des oeuvres poétiques et lyriques]{.calibre28}](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}[

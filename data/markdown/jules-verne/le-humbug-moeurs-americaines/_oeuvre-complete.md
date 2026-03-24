@@ -1,0 +1,479 @@
+# []{#_Toc343186103 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343181181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178720 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176259 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173798 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171337 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168876 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343159032 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149762 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147301 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144838 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142377 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139916 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137454 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134993 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132532 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343130070 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127609 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343125145 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122684 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343120223 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117769 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115306 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112845 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110384 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343108045 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106640 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343104178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101715 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099290 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096821 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094359 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091881 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089418 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086956 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343082031 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079570 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343077107 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074644 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343072178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343044218 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343041879 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343040621 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039313 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036948 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034583 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032218 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343029970 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028662 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026297 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023932 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021566 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343019200 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016835 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014470 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343012103 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009738 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007373 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343005008 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002643 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000278 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997913 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995548 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342993183 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990818 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988453 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342986086 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983721 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981356 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978991 .pcalibre .pcalibre2 .pcalibre1}[!{#Image270 .calibre16} LE HUMBUG -- MOEURS AMÉRICAINES]{#_Toc342943010 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_11 .calibre6}
+
+::: MsoToc1
+
+------------------------------------------------------------------------
+
+(1867)
+Jules Verne
+Nouvelles
+
+::: MsoToc
+
+------------------------------------------------------------------------
+
+
+(Cette boutade inédite a été écrite vers 1863.)
+
+
+Au mois de mars 1863, je m\'embarquai sur le steamboat le *Kentucky*, qui fait le service entre New York et Albany.
+
+À cette époque de l\'année, des arrivages considérables provoquaient entre les deux villes un grand mouvement commercial, qui n\'avait, d\'ailleurs, rien de très exceptionnel. Les négociants de New York entretiennent, en effet, par leurs correspondants, des relations incessantes avec les provinces les plus éloignées et répandent ainsi les produits de l\'Ancien Monde, en même temps qu\'ils exportent à l\'étranger les marchandises de provenance nationale.
+
+Mon départ pour Albany m\'était une nouvelle occasion d\'admirer l\'activité de New York. De tous côtés affluaient les voyageurs, les uns gourmandant les porteurs de leurs nombreux bagages, les autres seuls, comme de véritables touristes anglais, dont la garde-robe tient dans un sac imperceptible. On se précipitait, chacun se hâtant de retenir sa place à bord du paquebot, que la spéculation douait d\'une élasticité tout américaine.
+
+Déjà deux premiers coups de la cloche avaient porté l\'effroi parmi les retardataires. L\'embarcadère pliait sous le poids des derniers arrivants, qui sont, en général et partout, des gens dont le voyage ne peut se remettre sans notable préjudice. Cependant cette foule finit par se caser. Paquets et voyageurs s\'empilèrent, s\'emboîtèrent. La flamme grondait dans les tubes de la chaudière, le pont du *Kentucky* frémissait. Le soleil, s\'efforçant de percer la brume du matin, réchauffait un peu cette atmosphère de mars, qui vous oblige à relever le collet de votre habit, à emprisonner vos mains dans vos poches, tout en disant : il fera beau aujourd\'hui.
+
+Comme mon voyage n\'était point un voyage d\'affaires, comme mon portemanteau suffisait à contenir tout mon nécessaire et mon superflu, comme mon esprit ne se préoccupait ni de spéculations à tenter, ni de marchés à surveiller, je flânais à travers mes pensées, m\'en remettant au hasard, cet ami intime des touristes, du soin de rencontrer en route quelque sujet de plaisir et de distraction, quand j\'aperçus à trois pas de moi Mrs. Melvil, qui souriait de l\'air le plus charmant du monde.
+
+« Quoi ! Vous, Mistress, m\'écriai-je avec une surprise, que ma joie seule pouvait égaler, vous affrontez les dangers et la foule d\'un steamboat de l\'Hudson !
+
+--- Sans doute, cher monsieur, me répondit Mrs. Melvil en me donnant la main à la façon anglaise. D\'ailleurs, je ne suis pas seule ; ma vieille et bonne Arsinoé m\'accompagne. »
+
+Elle me montra, assise sur un ballot de laine, sa fidèle négresse qui la considérait avec attendrissement. Le mot attendrissement mériterait d\'être souligné dans cette circonstance, car il n\'y a que les domestiques noirs qui sachent regarder ainsi.
+
+« Quelque secours et quelque appui que puisse vous prêter Arsinoé, Mistress, dis-je, je m\'estime heureux du droit qui m\'appartient d\'être votre protecteur pendant cette traversée.
+
+--- Si c\'est un droit, me répondit-elle en riant, je ne vous en aurai aucune obligation. Mais comment se fait-il que je vous trouve ici ? D\'après ce que vous nous aviez dit, vous ne deviez faire ce voyage que dans quelques jours. Pourquoi ne nous avez-vous pas parlé de votre départ hier ?
+
+--- Je n\'en savais rien, répliquai-je. Je me suis décidé à partir pour Albany uniquement parce que la cloche du paquebot m\'a tiré de mon sommeil à six heures du matin. Vous voyez à quoi cela tient. Si je ne m\'étais réveillé qu\'à sept heures, j\'aurais peut-être pris la route de Philadelphie ! Mais vous-mêmes, Mistress, vous paraissiez hier soir la femme la plus sédentaire qui fût au monde.
+
+--- Sans doute ! Aussi ne voyez-vous point ici Mrs. Melvil, mais seulement le premier commis d\'Henri Melvil, négociant-armateur de New York, allant surveiller l\'arrivée d\'un chargement à Albany.
+
+Vous ne comprenez pas cela, vous, l\'habitant des pays trop civilisés du vieux monde ! Mon mari ne pouvant quitter New York ce matin, je vais le remplacer. Je vous prie de croire que les livres n\'en seront pas moins bien tenus, ni les additions moins exactes.
+
+--- Je suis décidé à ne plus m\'étonner de rien, m\'écriai-je. Cependant, si pareille chose se passait en France, si les femmes faisaient les affaires de leurs maris, les maris ne tarderaient pas à faire celles de leurs femmes. Ce seraient eux qui joueraient du piano, découperaient des fleurs, broderaient des paires de bretelles\...
+
+--- Vous ne flattez pas beaucoup vos compatriotes, répliqua Mrs. Melvil en riant.
+
+--- Au contraire ! Puisque je suppose que leurs femmes leur brodent des bretelles. »
+
+En ce moment, le troisième coup de la cloche se fit entendre. Les derniers voyageurs se précipitèrent sur le pont du *Kentucky*, au milieu des cris des marins, qui s\'armaient de longues gaffes pour éloigner le bateau du quai. J\'offris mon bras à Mrs. Melvil et la conduisis un peu plus à l\'arrière, où la foule était moins compacte.
+
+« Je vous ai donné des lettres de recommandation pour Albany\... Commença-t-elle.
+
+--- Sans doute. Désirez-vous que je vous en remercie une millième fois ?
+
+--- Non certainement, car elles vous deviennent complètement inutiles. Comme je me rends auprès de mon père, à qui elles sont adressées, vous me permettrez, non plus seulement de vous présenter, mais bien de vous offrir l\'hospitalité en son nom ?
+
+--- [J\'avais donc raison, dis-je, de compter sur le hasard pour faire un voyage]{.calibre543} charmant.
+
+Et cependant, vous et moi, nous avons failli ne pas partir.
+
+--- Pourquoi cela ?
+
+--- Un certain voyageur, amateur de ces excentricités dont les Anglais avaient l\'exclusif privilège avant la découverte de l\'Amérique, voulait retenir pour lui seul le *Kentucky* tout entier.
+
+--- C\'est donc un fils des Indes orientales, qui voyage avec une suite d\'éléphants et de bayadères ?
+
+--- Ma foi non ! J\'assistais à son débat avec le capitaine qui repoussait sa demande, et je n\'ai vu aucun éléphant se mêler à la conversation. Cet [original semblait un gros homme fort réjoui, qui tenait à avoir ses coudées]{.calibre543} franches, voilà tout\... Hé mais ! C\'est lui, Mistress ! Je le reconnais\... Apercevez-vous ce voyageur qui accourt sur le quai avec force gesticulations et clameurs ? Il va nous retarder encore, car le steamboat commence à quitter le bord. »
+
+Un homme de taille moyenne, avec une tête énorme, ornée de deux buissons ardents de favoris rouges, vêtu d\'une longue redingote à double collet, et coiffe d\'un chapeau de gaucho à larges bords, arrivait, en effet, tout essoufflé sur le débarcadère, dont le pont volant venait d\'être retiré. Il [gesticulait, il se démenait, il criait, sans se préoccuper des rires de la foule]{.calibre543} amassée autour de lui.
+
+« Ohé ! Du *Kentucky* ! Mille diables ! Ma place est retenue, enregistrée, payée, et on me laisse à terre ! Mille diables ! Capitaine, je vous rends responsable devant le Grand-Juge et ses assesseurs.
+
+--- Tant pis pour les retardataires ! s\'écria le capitaine en montant sur l\'un des tambours. Il nous faut arriver à heure fixe, et la marée commence à perdre. --- [Mille diables ! Hurla de nouveau le gros homme, j\'obtiendrai cent mille]{.calibre543} dollars et plus de dommages-intérêts contre vous !
+
+Boby, s\'écria-t-il, en se retournant vers l\'un des deux noirs qui l\'accompagnaient, occupe-toi des bagages et cours à l\'hôtel, tandis que Dacopa démarrera quelque canot pour rejoindre ce damné *Kentucky*.
+
+--- C\'est inutile, cria le capitaine, qui ordonna de larguer la dernière amarre. -- Hardi ! Dacopa ! » fit le gros homme, en encourageant son Nègre.
+
+Celui-ci s\'empara du câble au moment où le paquebot l\'entraînait et en tourna vivement le bout sur l\'un des organaux du quai. En même temps, l\'obstiné voyageur se précipita dans une embarcation aux applaudissements de la foule, et, en quelques coups de godille, atteignit l\'escalier du *Kentucky*. Il s\'élança sur le pont, courut au capitaine et l\'interpella vigoureusement, faisant à lui seul autant de bruit que dix hommes et parlant avec plus de volubilité que vingt commères. Le capitaine, ne pouvant placer un quart d\'argument et voyant du reste que le voyageur avait fait acte de possession, résolut de ne plus s\'en inquiéter. Il reprit son porte-voix et se dirigea vers la machine. Au moment où il allait donner le signal du départ, le gros homme revint sur lui, en s\'écriant :
+
+« Et mes colis, mille diables ?
+
+--- Comment ! Vos colis ! riposta le capitaine. Seraient-ce eux, par hasard, qui arrivent ? »
+
+Des murmures éclatèrent parmi les voyageurs que ce nouveau retard impatientait.
+
+« À qui en veut-on ? s\'écria l\'intrépide passager. Ne suis-je pas un libre citoyen des États-Unis d\'Amérique ? Je m\'appelle Augustus Hopkins, et si ce nom ne vous en dit pas assez\... »
+
+J\'ignore si ce nom jouissait d\'une influence réelle sur la masse des spectateurs. Quoi qu\'il en soit, le capitaine du *Kentucky* fut forcé d\'accoster pour embarquer les bagages d\'Augustus Hopkins, libre citoyen des États-Unis d\'Amérique.
+
+« Il faut avouer, dis-je à Mrs. Melvil, que voilà un singulier homme.
+
+--- Moins singulier que ses colis », me répondit-elle, en me montrant deux camions qui amenaient à l\'embarcadère deux énormes caisses de vingt pieds de haut, recouvertes de toiles cirées et ficelées au moyen d\'un inextricable réseau de cordes et de noeuds. Le haut et le bas étaient indiqués en lettres rouges, et le mot « fragile », inscrit en caractères d\'un pied, faisait trembler à cent pas à la ronde les représentants des administrations responsables.
+
+Malgré les grognements provoqués par l\'apparition de ces colis monstres, le sieur Hopkins fit tant, des pieds, des mains, de la tête et des poumons, qu\'ils furent déposés sur le pont, après des peines et des retards considérables. Enfin le *Kentucky* put quitter le quai, et remonta l\'Hudson au milieu des navires de toutes sortes qui le sillonnaient.
+
+Les deux Noirs d\'Augustus Hopkins s\'étaient installés à poste fixe auprès des caisses de leur maître. Celles-ci avaient le privilège d\'exciter au plus haut point la curiosité des passagers. La plupart se pressaient aux alentours, en se laissant aller à toutes les suppositions excentriques que peut fournir une imagination d\'outremer. Mrs. Melvil elle-même semblait s\'en préoccuper vivement, tandis que, en ma qualité de Français, je mettais tous mes soins à feindre l\'indifférence la plus complète.
+
+« Quel singulier homme vous faites ! me dit Mrs. Melvil.
+
+[Vous ne vous inquiétez pas du contenu de ces deux monuments. Pour mon]{.calibre543} compte, la curiosité me dévore.
+
+--- Je vous avouerai, répondis-je, que tout ceci m\'intéresse peu. En voyant arriver ces deux immensités, j\'ai fait tout de suite les suppositions les plus hasardées. Ou elles contiennent une maison à cinq étages avec ses locataires, me suis-je dit, ou elles ne renferment rien du tout. Or, dans ces deux cas, qui sont les plus bizarres qu\'on puisse imaginer, je n\'éprouverais pas une surprise extraordinaire. Cependant, Mistress, si vous le désirez, je vais recueillir quelques renseignements que je vous transmettrai.
+
+--- Volontiers, me répondit-elle, et, pendant votre absence, je vérifierai ces bordereaux\... »
+
+[Je laissai ma singulière compagne de voyage repasser ses additions avec la]{.calibre543} rapidité des caissiers de la Banque de New York, lesquels, dit-on, n\'ont qu\'à jeter un coup d\'oeil sur une colonne de chiffres pour en connaître immédiatement le total.
+
+Tout en songeant à cette organisation bizarre, à cette dualité de l\'existence chez ces charmantes femmes américaines, je me dirigeai vers celui qui servait de cible à tous les regards, de sujets à toutes les conversations. Quoique ses deux caisses dérobassent complètement à la vue l\'avant du navire et le cours de l\'Hudson, le timonier dirigeait le steamboat avec une confiance absolue, sans se préoccuper des obstacles. Pourtant, ils devaient être nombreux, car jamais fleuves, sans en excepter la Tamise, ne furent sillonnés par plus de bâtiments que ceux des États-Unis. À une époque où la France ne comptait en douane que douze à treize mille navires, où l\'Angleterre atteignait un chiffre de quarante mille, les États-Unis en comptaient déjà soixante mille, parmi lesquels deux mille bateaux à vapeur allaient troubler les flots de toutes les mers du monde.
+
+On peut juger, par ces nombres, du mouvement commercial et s\'expliquer aussi les fréquents accidents dont les fleuves américains sont le théâtre.
+
+Il est vrai que ces catastrophes, ces rencontres, ces naufrages, sont de peu d\'importance aux yeux de ces hardis négociants. C\'est même une activité nouvelle donnée aux sociétés d\'assurances, qui feraient de bien mauvaises affaires, si leurs primes n\'étaient pas exorbitantes. À poids et à volume égaux, un homme, en Amérique, a moins de valeur et d\'importance qu\'un sac de charbon de terre ou qu\'une balle de café.
+
+Peut-être les Américains ont-ils raison, mais, moi, comme j\'aurais donné [toutes les mines de houille et tous les champs de caféiers du globe pour ma]{.calibre543} petite personne française ! Or, je n\'étais pas sans inquiétude sur l\'issue de notre voyage à toute vapeur à travers une multitude d\'obstacles.
+
+Augustus Hopkins ne semblait pas partager mes craintes. Il devait être de ces gens qui sautent, déraillent, sombrent, plutôt que de manquer une [affaire. En tout cas, il ne se préoccupait nullement de la beauté des rives de]{.calibre543} l\'Hudson, qui s\'enfuyaient rapidement vers la mer. Entre New York, le point de départ, et Albany, le point d\'arrivée, il n\'y avait pour lui que dix-huit heures de temps perdu. Les délicieuses stations de la rive, les bourgs groupés d\'une façon pittoresque, les bois jetés çà et là dans la campagne comme des bouquets au pied d\'une prima donna, le cours animé d\'un fleuve magnifique, les premières émanations du printemps, rien ne pouvait tirer cet homme de ses préoccupations spéculatives. Il allait et venait d\'un bout à l\'autre du *Kentucky*, en marmottant des phrases inachevées, ou bien, s\'asseyant précipitamment sur un ballot de marchandises, il retirait de l\'une de ses nombreuses poches un large et épais portefeuille bourré de papiers de mille sortes.
+
+Je crus même voir qu\'il étalait à dessein cette collection de toutes les paperasses de la bureaucratie commerciale. Il furetait avidement dans une correspondance énorme et déployait des lettres datées de tous les pays, stigmatisées par les timbres de tous les bureaux de poste du monde, et dont il parcourait les lignes serrées avec un acharnement fort remarquable et, je crois, fort remarqué.
+
+Il me parut donc impossible de m\'adresser à lui pour apprendre quelque chose. En vain plusieurs curieux avaient voulu faire jaser les deux Noirs mis en faction auprès des caisses mystérieuses ; ces deux enfants de l\'Afrique avaient gardé un mutisme absolu, en contradiction avec leur loquacité habituelle.
+
+Je me disposais donc à retourner auprès de Mrs. Melvil, et à lui rapporter mes impressions personnelles, quand je me trouvai dans un groupe au centre duquel pérorait le capitaine du *Kentucky*. Il était question d\'Hopkins.
+
+« Je vous le répète, disait le capitaine, cet original n\'en fait jamais d\'autres. Voilà dix fois qu\'il remonte l\'Hudson, de New York à Albany, voilà dix [fois qu\'il s\'arrange pour arriver en retard, voilà dix fois qu\'il transporte des]{.calibre543} chargements pareils. Qu\'est-ce que tout cela devient ? Je l\'ignore. Le bruit court que Mr. Hopkins monte une grande entreprise à quelques lieues d\'Albany, et que, de toutes les parties du monde, on lui expédie des marchandises inconnues.
+
+--- Ce doit être un des principaux agents de la Compagnie des Indes, dit l\'un des assistants, qui vient fonder un comptoir en Amérique.
+
+--- Ou plutôt un riche propriétaire de placers californiens, répondit un autre. Il doit y avoir sous jeu quelque fourniture\...
+
+--- Ou quelque adjudication que l\'on pourrait soumissionner, riposta un troisième. Le *New York Herald* semblait le faire pressentir ces jours derniers.
+
+--- Nous ne tarderons pas, reprit un quatrième, à voir émettre les actions [d\'une nouvelle compagnie au capital de cinq cents millions. Je m\'inscris le]{.calibre543} premier pour cent actions de mille dollars.
+
+--- Pourquoi le premier ? répliqua quelqu\'un. Auriez-vous déjà des promesses dans cette affaire ? Moi, je suis tout prêt à verser le montant de deux cents actions, et davantage au besoin.
+
+--- S\'il en reste après moi ! s\'écria de loin quelqu\'un dont je ne pus apercevoir la figure. C\'est évidemment de l\'établissement d\'un chemin de fer d\'Albany à San Francisco qu\'il s\'agit, et le banquier qui en sera l\'adjudicataire est mon meilleur ami.
+
+--- Que parlez-vous de chemin de fer ! Ce Mr. Hopkins vient installer un câble électrique à travers le lac Ontario, et ces grandes caisses contiennent des lieues de fils et de gutta percha.
+
+--- À travers le lac Ontario ! Mais c\'est une affaire d\'or ! Où est ce gentleman ? s\'écrièrent plusieurs négociants pris du démon de la spéculation. Mr. Hopkins voudra bien nous exposer son entreprise. À moi les premières actions !
+
+--- À moi, s\'il vous plaît, Mr. Hopkins !
+
+--- Non, à moi !
+
+--- Non, à moi ! J\'offre mille dollars de prime ! »
+
+[Les demandes, les réponses se croisaient, et la confusion devenait générale.]{.calibre543} Bien que la spéculation ne me tentât pas, je suivis le groupe d\'agioteurs qui se dirigeaient vers le héros du *Kentucky*. Hopkins fut bientôt entouré d\'une foule compacte sur laquelle il ne daigna même pas lever les yeux. De longues files de chiffres, des nombres qui possédaient d\'imposantes suites [de zéros, s\'allongeaient sur son vaste portefeuille. Les quatre opérations de]{.calibre543} l\'arithmétique pullulaient sous son crayon. Les millions s\'échappaient de ses lèvres avec la rapidité d\'un torrent ; il semblait en proie à la frénésie des calculs. Le silence s\'établit autour de lui, en dépit des orages soulevés dans toutes ces têtes américaines par la passion du commerce.
+
+Enfin, après une opération monstre, dans laquelle maître Augustus Hopkins écrasa trois fois son crayon sur un 1 majestueux qui commandait une armée de huit zéros magnifiques, il prononça ces deux mots sacramentels :
+
+« Cent millions. »
+
+Puis il replia rapidement ses papiers dans son terrible portefeuille et tira de sa poche une montre ornée d\'un double rang de perles fines.
+
+« Neuf heures ! Déjà neuf heures ! s\'écria-t-il. Ce maudit bateau ne marche donc pas ! Le capitaine ? Où est le capitaine ? »
+
+Ce disant, Hopkins traversa brusquement le triple rang de la foule qui l\'assiégeait, et aperçut le capitaine penché sur l\'écoutille de la machine, d\'où celui-ci donnait quelques ordres au mécanicien.
+
+« Savez-vous, capitaine, fit-il avec importance, savez-vous qu\'un retard de dix minutes peut me faire manquer une affaire considérable ?
+
+--- À qui parlez-vous de retard, répondit le capitaine stupéfait d\'un pareil reproche, quand vous seul en êtes la cause ?
+
+--- Si vous ne vous étiez pas entêté à me laisser à terre, riposta Hopkins, en élevant la voix à un diapason supérieur, vous n\'auriez pas perdu un temps qui vaut cher à cette époque de l\'année.
+
+--- [Et si, vous et vos caisses, vous aviez pris la précaution d\'arriver à l\'heure,]{.calibre543} répliqua le capitaine irrité, nous eussions pu profiter de la marée montante, et nous serions de trois bons milles plus loin.
+
+--- [Je n\'entre point dans ces considérations. Je dois être avant minuit à l\'hôtel]{.calibre543} Washington, à Albany, et, si j\'arrive après minuit, il vaudrait mieux pour moi n\'avoir pas quitté New York. Je vous préviens que, dans ce cas, j\'attaquerai votre administration et vous en dommages-intérêts.
+
+--- Vous me laisserez en repos, peut-être ! s\'écria le capitaine qui commençait à se fâcher.
+
+--- Non, certainement, tant que votre pusillanimité et vos économies de combustible me mettront en danger de perdre dix fortunes ! Allons ! Chauffeurs, quatre ou cinq bonnes pelletées de charbon dans vos [fourneaux, et vous, mécanicien, mettez-moi le pied sur la soupape de votre]{.calibre543} chaudière, pour que nous regagnions le temps perdu ! »
+
+Et Hopkins jeta dans la chambre de la machine une bourse où brillaient quelques dollars.
+
+Le capitaine entra dans une violente colère, mais notre enragé voyageur trouva moyen de crier plus haut et plus longtemps que lui. Quant à moi, je m\'éloignai rapidement du lieu du conflit, sachant que cette recommandation faite au mécanicien de charger la soupape, pour augmenter la pression de la vapeur et accélérer la marche du navire, ne tendait à rien moins qu\'à faire éclater la chaudière.
+
+Il est inutile de dire que nos compagnons de voyage trouvèrent l\'expédient tout simple.
+
+Aussi n\'en parlai-je pas à Mrs. Melvil, qui eût ri aux larmes de mes craintes chimériques.
+
+Quand je la rejoignis, ses vastes calculs étaient terminés, et les soucis commerciaux ne plissaient plus son front charmant.
+
+« Vous avez quitté le négociant, dit-elle, et vous retrouvez la femme du monde. Vous pouvez donc l\'entretenir de ce qui vous plaira, lui parler art, sentiment, poésie\...
+
+--- Parler d\'art, m\'écriai-je, de rêves et de poésie, après ce que j\'ai vu, ce que j\'ai entendu ! Non, non ! Je suis tout imprégné d\'un esprit mercantile, je n\'entends plus que le son des dollars et je suis ébloui par leur éclat splendide. Je ne vois plus dans ce beau fleuve qu\'une route très commode pour les marchandises, dans ces rives charmantes qu\'un chemin de halage, dans ces jolis bourgs qu\'une série de magasins à sucre et à coton, et je songe sérieusement à jeter un barrage sur l\'Hudson et à utiliser ses eaux pour faire tourner un moulin à café !
+
+--- Eh mais ! Moulin à café à part, c\'est une idée, cela !
+
+--- Pourquoi, s\'il vous plaît, n\'aurais-je pas des idées comme un autre ?
+
+--- Vous avez donc été piqué par le taon de l\'industrie ? demanda Mrs. Melvil en riant.
+
+--- Jugez-en vous-même, » répondis-je.
+
+Je lui racontai les diverses scènes dont j\'avais été témoin. Elle écouta mon récit gravement, comme il convient à toute intelligence américaine, et se mît à réfléchir. Une Parisienne ne m\'en aurait pas laissé dire la moitié.
+
+« Eh bien, Mistress, que pensez-vous de cet Hopkins ?
+
+--- Cet homme, me répondit-elle, peut être un grand génie spéculateur qui fonde une entreprise gigantesque, ou tout bonnement un montreur d\'ours de la dernière foire de Baltimore. »
+
+Je me mis à rire et la conversation s\'aiguilla vers d\'autres sujets.
+
+Notre voyage se termina sans nouveaux incidents, si ce n\'est qu\'Hopkins faillit jeter une de ses immenses caisses à l\'eau, en voulant la déplacer malgré le capitaine. La discussion qui suivit lui servit encore à proclamer l\'importance de ses affaires et la valeur de ses colis. Il déjeuna et dîna comme un homme qui n\'a pas pour but de réparer ses forces, mais bien de dépenser le plus d\'argent possible. Enfin, lorsque nous arrivâmes à destination, il n\'était pas un voyageur qui ne fût disposé à raconter des merveilles de ce personnage extraordinaire.
+
+Le *Kentucky* accosta le quai d\'Albany avant l\'heure fatale de minuit. J\'offris mon bras à Mrs. Melvil, tout en m\'estimant heureux d\'être débarqué sain et sauf, tandis que maître Augustus Hopkins, après avoir fait enlever à grand bruit ses deux caisses merveilleuses, entrait triomphalement, suivi d\'une foule considérable, à l\'hôtel Washington.
+
+Je fus reçu par Mr. Francis Wilson, père de Mrs. Melvil, avec cette grâce et cette franchise qui ajoutent tant de prix à l\'hospitalité. Malgré mes défaites, je fus obligé d\'accepter une jolie chambre bleue dans la demeure de l\'honorable négociant. Je ne puis donner le nom d\'hôtel à cette maison immense, dont les spacieux appartements paraissent sans importance auprès des vastes magasins où regorgent les marchandises de tous les pays. Un monde d\'employés, d\'ouvriers, de commis, de manoeuvres, fourmille dans cette véritable cité, dont les maisons de commerce du Havre et de Bordeaux ne donnent qu\'une imparfaite idée. Malgré les occupations de tout genre du maître de la maison, je fus traité comme un évêque, et je n\'eus pas même besoin de demander, voire de désirer.
+
+Au surplus, le service était fait par des Noirs, et, quand une fois on a été servi par des Noirs, on ne peut plus l\'être que par soi-même.
+
+Le lendemain, je me promenai dans la délicieuse ville d\'Albany dont le nom seul m\'avait toujours charmé. J\'y retrouvai toute l\'activité de New York. Pareil mouvement d\'affaires, égale multiplicité des intérêts. La soif [de gain des gens de commerce, leur ardeur au travail, leur besoin d\'extraire]{.calibre543} l\'argent par tous les procédés que l\'industrie ou la spéculation découvre, [n\'ont pas chez les commerçants du Nouveau-Monde l\'aspect répulsif qu\'ils]{.calibre543} produisent parfois chez leurs collègues d\'outre-mer. Il y a dans leur manière d\'agir une certaine grandeur très sympathique. On conçoit que ces gens-là aient besoin de beaucoup gagner, parce qu\'ils dépensent de même. À l\'heure des repas, qui furent ordonnés avec luxe, et pendant la soirée, la conversation, d\'abord générale, ne tarda pas à se spécialiser. On en vint à causer de la ville, de ses plaisirs, de son théâtre. Mr. Wilson me sembla très au courant de ces amusements mondains, mais il me parut aussi Américain qu\'on peut l\'être, quand nous en arrivâmes à parler de ces excentricités de villes entières, dont on s\'est fort occupé en Europe.
+
+« Vous faites allusion, me dit Mr. Wilson, à notre attitude à l\'égard de la célèbre Lola Montès ?
+
+--- Sans doute, répondis-je. Il n\'y a que les Américains qui aient pu prendre au sérieux la comtesse de Lansfeld.
+
+--- Nous la prenions au sérieux, répondit Mr. Wilson, parce qu\'elle agissait sérieusement, de même que nous n\'accordons aucune importance aux affaires les plus graves, lorsqu\'elles sont traitées légèrement.
+
+--- Ce qui vous choque sans doute, dit Mrs. Melvil d\'un ton moqueur, c\'est que Lola Montès, entre autres choses, ait visité nos pensionnats de jeunes filles ?
+
+--- [J\'avouerai franchement, répondis-je, que le fait m\'a paru bizarre, car cette]{.calibre543} charmante danseuse n\'est pas un exemple à proposer aux jeunes filles.
+
+--- Nos jeunes filles, répliqua Mr. Wilson, sont élevées d\'une façon plus indépendante que les vôtres. Quand Lola Montès visita leurs pensionnats, ce ne fut ni la danseuse de Paris, ni la comtesse de Lansfeld de Bavière, qui s\'y présenta, mais une femme célèbre dont la vue ne pouvait être que très agréable. Il n\'en résulta aucune fâcheuse conséquence pour les enfants qui l\'observaient avec curiosité. C\'était une fête, un plaisir, une distraction, voilà tout. Où est le mal dans tout cela ?
+
+--- Le mal est que ces ovations extraordinaires gâtent les grands artistes. Ils ne seront plus possibles, quand ils reviendront de leurs tournées aux États-Unis.
+
+--- Ont-ils donc eu à se plaindre ? demanda Mr. Wilson vivement.
+
+--- Au contraire, répondis-je, mais comment Jenny Lind, par exemple, pourra-t-elle se trouver honorée d\'une hospitalité européenne, quand, ici, elle voit les hommes les plus recommandables s\'atteler à sa voiture au milieu des fêtes publiques ? Quelle réclame vaudra jamais la célèbre fondation des hôpitaux faite par son impresario ?
+
+--- Vous parlez comme un jaloux, riposta Mrs. Melvil. Vous en voulez à cette éminente artiste de n\'avoir jamais consenti à se faire entendre à Paris. -- Non, certainement, Mistress, et d\'ailleurs je ne lui conseille pas d\'y venir, car elle n\'y rencontrerait pas l\'accueil que vous lui avez fait ici.
+
+--- Vous y perdez, dit Mr. Wilson.
+
+--- Moins qu\'elle-même, selon moi.
+
+--- Vous y perdez au moins des hôpitaux », dit en riant Mrs. Melvil.
+
+La discussion se prolongea sur un ton enjoué. Au bout de quelques instants, Mr. Wilson me dit :
+
+« Puisque ces exhibitions et ces réclames vous intéressent, vous tombez à merveille. Demain a lieu l\'adjudication des premiers billets pour le concert de Mme Sontag.
+
+--- Une adjudication, ni plus ni moins que s\'il s\'agissait d\'un chemin de fer ?
+
+--- Sans doute, et l\'acquéreur qui s\'est posé jusqu\'ici avec les plus audacieuses prétentions est tout simplement un honnête chapelier d\'Albany.
+
+--- C\'est donc un mélomane, demandais-je.
+
+--- Lui ! Ce John Turner ! Il déteste la musique. C\'est pour lui le plus désagréable des bruits.
+
+--- Alors, quel est son but ?
+
+--- Se bien poser dans l\'esprit du public. C\'est de la réclame. On parlera de lui, non seulement dans la ville, mais dans toutes les provinces de l\'Union, en Amérique comme en Europe, et on lui achètera des chapeaux, et il en expédiera des pacotilles, et il en fournira le monde entier !
+
+--- Pas possible !
+
+--- Vous verrez ça demain, et si vous avez besoin d\'un chapeau\... -- Je n\'en achèterai pas chez lui ! Ils doivent être détestables.
+
+--- Ah ! L\'enragé Parisien ! » s\'écria Mrs. Melvil en se levant.
+
+Je pris congé de mes hôtes, et j\'allai rêver de ces étrangetés américaines.
+
+Le lendemain, j\'assistai à l\'adjudication du fameux premier billet pour le concert de Mme Sontag, avec un sérieux qui eût fait honneur au plus flegmatique habitant de l\'Union.
+
+Le chapelier John Turner, le héros de cette nouvelle excentricité, attirait [tous les regards. Ses amis l\'abordaient et le complimentaient comme s\'il eût]{.calibre543} sauvé l\'indépendance de son pays. D\'autres l\'encourageaient. Il s\'établit des [paris sur sa chance et sur celle de plusieurs concurrents au même honneur.]{.calibre543} L\'enchère commença. Le premier billet monta rapidement de quatre dollars à deux et trois cents. John Turner se considérait comme assuré d\'enchérir le dernier. Il n\'ajoutait jamais qu\'une faible somme au prix fixé par ses adversaires, car il suffisait à ce brave homme de l\'emporter d\'un seul dollar, et il comptait en consacrer, s\'il le fallait, un millier à l\'acquisition de cette précieuse place. Les nombres trois, quatre, cinq et six cents se succédèrent avec assez de rapidité. L\'assistance était surexcitée au plus haut point, et des grognements approbateurs saluaient chaque enchérisseur un peu audacieux. Ce premier billet avait un prix infini aux yeux de tous, et on s\'inquiétait fort peu des autres. En un mot, c\'était une affaire d\'honneur.
+
+Tout à coup, un hurrah plus prolongé que les autres retentit. Le chapelier s\'était écrié d\'une voix forte :
+
+« Mille dollars !
+
+--- Mille dollars, répétait l\'agent du contrôle. Personne ne met rien au-dessus ? Mille dollars le premier billet du concert ! Personne ne dit mot ? »
+
+Pendant le silence qui séparait ces diverses exclamations, on sentait un sourd frémissement courir dans la salle. J\'étais impressionné en dépit de moi-même. Turner, certain de son triomphe, promenait un regard satisfait sur ses admirateurs. Il tenait à la main une liasse de billets de l\'une des six cents banques des États-Unis, et les agitait, tandis que ces mots retentissaient encore une fois :
+
+« Mille dollars !
+
+--- Trois mille dollars ! cria une voix qui me fit tourner la tête.
+
+--- Hurrah ! s\'écria la salle enthousiasmée.
+
+--- Trois mille dollars », répéta l\'agent.
+
+Devant un pareil acquéreur, le chapelier avait baissé la tête et s\'était enfui, inaperçu au milieu de l\'enthousiasme universel.
+
+« Adjugé à trois mille dollars ! » dit l\'agent.
+
+Je vis alors s\'avancer Augustus Hopkins en personne, le libre citoyen des États-Unis d\'Amérique. Évidemment, il passait à l\'état d\'homme célèbre, et il ne restait plus qu\'à composer des hymnes en son honneur.
+
+Je m\'échappai difficilement de la salle, et c\'est à grand-peine que je parvins à me frayer un chemin parmi les dix mille personnes qui attendaient à la porte le triomphant acquéreur. Dès qu\'il parut, des acclamations le saluèrent. Pour la seconde fois depuis la veille, il fut reconduit à l\'hôtel Washington par la population très emballée. Cependant, il saluait d\'un air à la fois modeste et superbe, et, le soir, à la demande générale, il parut au grand balcon de l\'hôtel, applaudi par une foule en délire.
+
+« Eh bien, qu\'en pensez-vous ? Me dit Mr. Wilson, quand, après le dîner, je le mis au courant des incidents de la journée.
+
+--- Je pense qu\'en ma qualité de Français et de Parisien, Mme Sontag mettra très gracieusement une place à ma disposition, sans que j\'aie besoin de la payer une quinzaine de mille francs.
+
+--- [Je le pense aussi, me répondit Mr. Wilson, mais, si ce Mr. Hopkins est un]{.calibre543} homme habile, ces trois mille dollars peuvent lui en rapporter cent mille. Un homme qui est parvenu à son degré d\'excentricité n\'a qu\'à se baisser pour ramasser des millions.
+
+--- Que peut-il être, cet Hopkins ? » demanda Mrs. Melvil.
+
+C\'est ce que la ville d\'Albany tout entière se demandait en même temps. Les événements se chargèrent de répondre. Quelques jours plus tard, en effet, de nouvelles caisses de forme et de dimension encore plus extraordinaires arrivèrent par le steamboat de New York. L\'une d\'entre elles, qui avaient l\'aspect d\'une maison, s\'engagea imprudemment, ou prudemment, comme on voudra, dans une des rues étroites des faubourgs [d\'Albany. Bientôt, elle ne put avancer, et il lui fallut demeurer là, immobile]{.calibre543} comme un quartier de roche. Pendant vingt-quatre heures, toute la population de la ville se porta sur le théâtre de l\'événement. Hopkins profitait de ces attroupements pour faire des speechs éblouissants. Il tonnait contre les architectes ignares de l\'endroit et ne parlait de rien moins que de faire changer l\'alignement des rues de la ville pour donner passage à ses colis.
+
+Il devint évident bientôt qu\'il fallait opter entre deux partis, ou démolir la caisse dont le contenu piquait la curiosité, ou abattre la masure qui lui faisait obstacle. Les curieux d\'Albany auraient sans doute préféré le premier parti, mais Hopkins ne l\'entendait pas ainsi. Les choses cependant [ne pouvaient demeurer en cet état. La circulation était interrompue dans le]{.calibre543} quartier, et la police menaçait de faire procéder juridiquement à la démolition de la damnée caisse. Hopkins trancha la difficulté en achetant la maison qui le gênait, puis il la fit abattre.
+
+Je laisse à penser si ce dernier trait le plaça au plus haut point de la célébrité. Son nom et son histoire circulèrent dans tous les salons. Il ne fut question que de lui au Cercle des Indépendants et au Cercle de l\'Union. De nouveaux paris s\'établirent dans les cafés d\'Albany sur les projets de cet homme mystérieux. Les journaux se livrèrent aux suppositions les plus hasardées, qui détournèrent momentanément l\'attention publique de difficultés survenues entre Cuba et les États-Unis. Je crois même qu\'un duel eut lieu entre un négociant et un officier de la ville, et que le champion d\'Hopkins triompha en cette occasion.
+
+Aussi, lorsque eut lieu le concert de Mme Sontag, auquel j\'assistais d\'une façon moins bruyante que notre héros, celui-ci faillit par sa présence changer le but de la réunion.
+
+Enfin le mystère fut expliqué, et bientôt Augustus Hopkins ne chercha plus à le dissimuler. Cet homme était tout simplement un entrepreneur qui venait fonder une sorte d\'Exposition universelle aux environs d\'Albany. Il tentait pour son propre compte une de ces entreprises colossales, dont jusqu\'ici les gouvernements s\'étaient réservé le monopole.
+
+Dans ce but, il avait acheté, à trois lieues d\'Albany, une immense plaine inculte. Sur ce terrain abandonné ne s\'élevaient plus que les ruines du fort William, qui protégeait autrefois les comptoirs anglais sur la frontière du Canada. Hopkins s\'occupait déjà d\'embrigader des ouvriers pour commencer ses travaux gigantesques. Ses immenses caisses renfermaient sans doute des outils, des machines, en vue de ses constructions.
+
+Dès que cette nouvelle se répandit à la Bourse d\'Albany, les négociants s\'en préoccupèrent au plus haut point. Chacun d\'eux chercha à s\'entendre avec le grand entrepreneur pour lui arracher des promesses d\'actions.
+
+Mais Hopkins répondait évasivement à toutes les demandes. Cela n\'empêcha pas un cours fictif de s\'établir pour ces actions imaginaires, et l\'affaire commença dès lors à prendre une extension énorme.
+
+« Cet homme, me dit un jour Mr. Wilson, est un spéculateur très habile. J\'ignore s\'il est millionnaire ou gueux, car il faut être Job ou Rothschild pour tenter de telles entreprises, mais il fera certainement une immense fortune.
+
+--- Je ne sais plus que croire, mon cher Mr. Wilson, ni lequel des deux admirer, de l\'homme qui ose de semblables affaires, ou du pays qui les soutient et les préconise, sans en demander davantage.
+
+--- C\'est ainsi que l\'on réussit, mon cher monsieur.
+
+--- Ou qu\'on se ruine, répondis-je.
+
+--- Eh bien, répliqua Mr. Wilson, sachez qu\'en Amérique une faillite enrichit tout le monde et ne ruine personne. »
+
+Je ne pouvais avoir raison contre Mr. Wilson que par les faits eux-mêmes. Aussi, j\'attendis impatiemment le résultat de ces manoeuvres et de ces [réclames qui m\'intéressaient au plus haut point. Je recueillais les moindres]{.calibre543} nouvelles sur l\'entreprise d\'Augustus Hopkins, et je lisais les journaux qui nous en entretenaient chaque jour. Un premier départ d\'ouvriers avait eu lieu, et les ruines du fort William commençaient à disparaître. Il n\'était plus question que de ces travaux dont le but excitait un véritable enthousiasme. Les propositions arrivaient de tous côtés, de New York comme d\'Albany, de Boston et de Baltimore. Les « musical instruments », les «  daguerreotype pictures », les « abdominal supporters », les « centrifugal pumps », les « squave pianos » s\'inscrivaient pour figurer aux meilleures places, et l\'imagination américaine allait toujours bon train.
+
+On assura qu\'autour de l\'Exposition s\'élèverait une ville tout entière. On prêtait à Augustus Hopkins le projet de fonder une cité rivale de la Nouvelle-Orléans et de lui donner son nom. On ajouta bientôt que cette ville, fortifiée bien entendu à cause de sa proximité de la frontière, ne tarderait pas à devenir la capitale des États-Unis ! Etc.
+
+Pendant que ces exagérations couraient et se multipliaient dans les [cerveaux, le héros du mouvement demeurait à peu près silencieux. Il venait]{.calibre543} régulièrement à la Bourse d\'Albany, s\'enquérait des affaires, prenait note des arrivages, mais il n\'ouvrait pas la bouche sur ses vastes desseins. On s\'étonnait même qu\'un homme de sa force ne fit aucune publicité proprement dite. Peut-être dédaignait-il ces moyens ordinaires de lancer une entreprise et s\'en remettait-il à son propre mérite.
+
+Or, les choses en étaient à ce point, quand un beau matin le New York Herald inséra dans ses colonnes la nouvelle suivante :
+
+« Chacun sait que les travaux de l\'Exposition universelle d\'Albany avancent avec rapidité. Déjà les ruines du vieux fort William ont disparu, et les fondations de merveilleux monuments se creusent au milieu de l\'enthousiasme général. L\'autre jour, la pioche d\'un ouvrier a mis à découvert les restes d\'un squelette énorme évidemment enfoui depuis des milliers d\'années. Empressons-nous d\'ajouter que cette découverte ne retardera en rien les travaux qui doivent donner aux États-Unis d\'Amérique une huitième merveille du monde. »
+
+J\'accordai à ces quelques lignes l\'indifférente attention due aux innombrables faits divers qui pullulent dans les journaux américains.
+
+Je ne me doutais pas du parti qu\'on en devait tirer plus tard. Il est vrai que cette découverte prit dans la bouche d\'Augustus Hopkins une importance extraordinaire. Autant il avait montré de réserve à s\'expliquer sur ses projets ultérieurs relativement à sa grande entreprise, autant il fut prodigue de discours, de narrations, de réflexions, de déductions, sur l\'exhumation de ce prodigieux squelette. On eût dit qu\'il rattachait à cette trouvaille tous ses plans de fortune et de spéculation.
+
+Il paraît, du reste, que cette trouvaille était véritablement miraculeuse. Les fouilles étaient pratiquées, suivant les ordres d\'Hopkins, de façon à rencontrer l\'autre extrémité du fossile gigantesque, et trois jours de travail opiniâtre n\'amenaient encore aucun résultat. On ne pouvait donc prévoir jusqu\'où allaient ses dimensions surprenantes, quand Hopkins, qui faisait exécuter lui-même de profondes excavations à deux cents pieds des premières, aperçut enfin le bout de cette carcasse cyclopéenne. La nouvelle [s\'en répandit aussitôt avec une rapidité électrique, et ce fait unique dans les]{.calibre543} annales de la géologie prit le caractère d\'un événement mondial.
+
+Avec leur humeur impressionnable, exagérante et mobile, les Américains ne tardèrent pas à répandre la nouvelle, dont ils accrurent l\'importance à plaisir. On se demanda d\'où pouvaient provenir ces vastes débris, ce qu\'il fallait conclure de leur existence dans le sol indigène, et des études furent entreprises à ce sujet par l\'Albany Institute.
+
+Cette question, je l\'avoue, m\'intéressait autrement que les splendeurs futures du Palais de l\'Industrie et les spéculations excentriques du Nouveau-Monde.
+
+Je me mis à l\'affût des plus petits incidents de l\'affaire. Ce ne fut pas difficile, car les journaux la traitèrent sous toutes les formes possibles. Je fus d\'ailleurs assez heureux pour en apprendre le détail du citoyen Hopkins lui-même.
+
+Depuis son apparition dans la cité d\'Albany, cet homme extraordinaire avait été recherché par la meilleure société de la ville. Aux États-Unis où la classe noble est la classe commerçante, il était tout naturel qu\'un si hardi spéculateur fût reçu avec les honneurs dus à son rang. Aussi fut-il accueilli dans les cercles, dans les thés de famille, avec un empressement fort caractéristique. Un soir, je le rencontrai dans le salon de Mr. Wilson. Naturellement, on ne s\'entretenait que du fait du jour, et d\'ailleurs, Mr. Hopkins allait de lui-même au-devant de toutes les interrogations.
+
+Il nous fit une description intéressante, profonde, érudite, et pourtant spirituelle, de sa découverte, de la manière dont elle s\'était produite et de ses conséquences incalculables. Il laissa en même temps entrevoir qu\'il méditait d\'en tirer un parti spéculatif.
+
+« Seulement, nous dit-il, nos travaux sont momentanément arrêtés, car, entre les premières et les dernières fouilles qui ont mis à découvert les extrémités de ce squelette, s\'étend une certaine quantité de terrain, sur lequel s\'élèvent déjà quelques-unes de mes constructions nouvelles.
+
+--- Mais êtes-vous certain, lui demanda-t-on, que les deux extrémités de l\'animal se rejoignent sous cette portion inexplorée du sol ?
+
+--- Cela ne peut faire le moindre doute, répondit Hopkins avec assurance.
+
+À en juger par les fragments osseux que nous avons déterrés, cet animal doit avoir des proportions gigantesques et dépassera de beaucoup la taille du fameux mastodonte découvert autrefois dans la vallée de l\'Ohio.
+
+--- Vous croyez ! s\'écria un certain Mr. Cornut, espèce de naturaliste qui faisait de la science comme ses compatriotes font du commerce.
+
+--- [J\'en suis certain, répondit Hopkins. Par sa structure, ce monstre appartient]{.calibre543} évidemment à l\'ordre des pachydermes, car il possède tous les caractères si bien décrits par M. De Humboldt.
+
+--- Quel malheur, m\'écriai-je, qu\'on ne puisse le déterrer tout entier ! -- Et qui nous en empêche ? demanda vivement le Cornut.
+
+--- Mais\... Ces constructions nouvellement élevées\... »
+
+À peine avais-je énoncé cette énormité qui me semblait, à moi, tomber sous le sens, que je me vis le centre d\'un cercle de sourires dédaigneux. Il paraissait très simple à ces braves négociants de tout abattre, voire un [monument, pour déterrer un contemporain du déluge. Personne ne fut donc surpris d\'entendre Hopkins dire qu\'il avait déjà donné des ordres à ce sujet.]{.calibre543} Chacun l\'en félicita du fond du coeur, et trouva que le hasard avait raison de favoriser les hommes entreprenants et audacieux. Pour mon compte, je [le complimentai sincèrement, et je m\'engageai à visiter l\'un des premiers sa]{.calibre543} merveilleuse découverte. Je lui promis même de me rendre à Exhibition Parc, dénomination déjà tombée dans le domaine public, mais il me pria d\'attendre que les fouilles fussent complètement terminées, car on ne pouvait juger encore de l\'énormité du fossile.
+
+Quatre jours après, le *New York Herald* donnait des détails nouveaux sur le monstrueux squelette.
+
+Ce n\'était la carcasse, ni d\'un mammouth, ni d\'un mastodonte, ni d\'un mégathérium, ni d\'un ptérodactyle, ni d\'un plésiausaure, car tous les noms étranges de la paléontologie furent invoqués par antiphrase. Les débris susmentionnés appartiennent tous à la troisième, au plus à la deuxième [époque géologique, tandis que les fouilles dirigées par Hopkins avaient été]{.calibre543} poussées jusqu\'aux terrains primitifs qui constituent l\'écorce du globe, et dans lequel aucun fossile n\'avait été découvert jusqu\'alors. Cet étalage de science, auquel les négociants des États-Unis ne comprirent pas grand-chose, fit un effet considérable. Qu\'en conclure, sinon que ce monstre, n\'étant ni un mollusque, ni un pachyderme, ni un rongeur, ni un ruminant, ni un carnassier, ni un mammifère amphibie, était un homme ? Et cet homme, un géant de plus de quarante mètres de haut ! On ne pouvait donc plus nier l\'existence d\'une race titanesque antérieure à la nôtre. Si le fait était vrai, et tout le monde l\'acceptait comme tel, les théories géologiques les mieux assises devaient être changées, puisqu\'on retrouvait des fossiles bien au-dessous des dépôts diluviens, ce qui indiquait qu\'ils avaient été enfouis à une époque antérieure au déluge.
+
+L\'article du *New York Herald* produisit une immense sensation. Le texte [en fut reproduit par tous les journaux d\'Amérique. Ce sujet de conversation]{.calibre543} devint à l\'ordre du jour, et les plus jolies bouches du Nouveau-Monde prononcèrent les vocables les plus rébarbatifs de la science. De grandes discussions s\'ouvrirent. On déduisit de la découverte les conséquences les plus honorables pour le sol de l\'Amérique, qu\'on sacra berceau du genre humain au détriment de l\'Asie. Dans les congrès et les Académies, on prouva jusqu\'à l\'évidence que l\'Amérique, peuplée dès les premiers jours du monde, avait été le point de départ des migrations successives.
+
+Le Nouveau Continent enlevait au Vieux Monde les honneurs de l\'antiquité. Des mémoires volumineux, inspirés par une ambition patriotique, furent écrits sur cette question si grave. Enfin une réunion de savants, dont le procès-verbal fut publié et commenté par tous les organes de la Presse américaine, prouva, clair comme le jour, que le Paradis terrestre, bordé par la Pennsylvanie, la Virginie et le lac Érié, occupait jadis l\'étendue actuelle de la province d\'Ohio.
+
+[J\'avoue que toutes ces rêveries me séduisirent au plus haut point. Je voyais]{.calibre543} Adam et Ève commandant à des troupeaux de bêtes féroces, qui n\'étaient plus une fiction en Amérique comme sur les bords de l\'Euphrate, où l\'on n\'en trouve pas le moindre vestige. Le serpent tentateur prenait dans ma pensée la forme du constrictor ou du crotale. Mais, ce qui m\'étonnait le plus, c\'est qu\'on ajoutait foi à cette découverte avec une obéissance et un laisser-aller merveilleux. Il ne venait à personne l\'idée que le fameux squelette pouvait être un puff, un bluff, un humbug, comme disent les Américains, et pas un de ces savants si enthousiastes ne songeait à voir de ses propres yeux le miracle qui mettait sa cervelle en ébullition. Je fis part de cette remarque à Mrs. Melvil.
+
+« À quoi bon se déranger ? Me dit-elle. Nous verrons notre cher monstre lorsqu\'il sera temps. Quant à sa structure et son aspect, on les connaît, car on ne ferait pas un mille dans l\'Amérique tout entière sans le retrouver reproduit sous les formes les plus ingénieuses. »
+
+C\'est bien là, en effet, qu\'éclatait le génie du spéculateur. Autant Augustus Hopkins s\'était montré réservé pour lancer l\'affaire de l\'Exposition, autant [il déployait d\'ardeur, d\'invention, d\'imagination pour poser son miraculeux]{.calibre543} squelette dans l\'esprit de ses compatriotes.
+
+Tout lui était permis, du reste, depuis que ses originalités avaient attiré sur lui l\'attention publique.
+
+Bientôt les murs de la ville furent couverts d\'immenses affiches multicolores qui reproduisaient le monstre sous les aspects les plus variés. Hopkins épuisa toutes les formules connues dans le genre affiche. Il employa les couleurs les plus saisissantes. Il tapissa de ces affiches les murailles, les parapets des quais, les troncs d\'arbres des promenades. Dans les unes, les lignes étaient tracées diagonalement. Dans les autres, la réclame s\'étalait en lettres monstrueuses, peintes à la brosse, qui forçaient l\'attention du passant. Des hommes se promenaient dans toutes les rues, vêtus de blouses et de paletots qui représentaient le squelette. Le soir, des transparents immenses le projetaient en noir sur un fond de lumière. Hopkins ne se contenta pas de ces moyens de publicité ordinaires en Amérique. Les affiches et les quatrièmes pages des journaux ne lui [suffisaient plus. Il fit un véritable cours de « squeletologie », dans lequel il]{.calibre543} invoqua les Cuvier, les Blumenbach, les Backland, les Link, les Stemberg, les Brongnart, et cent autres ayant écrit sur la paléontologie. Ses cours furent suivis et applaudis à ce point que deux personnes furent un jour écrasées à la porte.
+
+Il va sans dire que maître Hopkins leur fit des funérailles magnifiques, et que les bannières du cortège mortuaire reproduisirent encore les formes inévitables du fossile à la mode.
+
+Tous ces moyens étaient excellents pour la ville même d\'Albany et pour ses environs, mais il importait de lancer l\'affaire dans l\'Amérique entière. Mr. Lumley, en Angleterre, lors des débuts de Jenny Lind, proposa aux marchands de savon de leur fournir leurs moules, à la condition que ces moules porteraient en creux le portrait de l\'illustre prima donna, ce qui fut accepté et produisit des résultats excellents, puisqu\'on se lavait les mains avec les traits de l\'éminente cantatrice. Hopkins se servit d\'un moyen analogue. Suivant des traités, passés avec les fabricants, les étoffes d\'habillement offrirent au bon goût des acheteurs l\'image de l\'être préhistorique. Le fond des chapeaux en fut revêtu. Jusqu\'aux assiettes, qui reçurent l\'empreinte de l\'étourdissant phénomène ! J\'en passe et des meilleurs. Il était impossible de l\'éviter. S\'habillait-on, se coiffait-on, dînait-on, c\'était toujours dans son intéressante compagnie.
+
+L\'effet de cette publicité à haute pression fut immense. Aussi, lorsque le journal, le tambour, les trompettes, les décharges de mousqueterie, annoncèrent que le miracle serait prochainement livré à l\'admiration du public, ce fut un hourra universel. On s\'occupa dès lors de préparer une salle immense pour contenir, disait la réclame. « non pas les spectateurs enthousiastes dont le nombre serait infini, mais le squelette de l\'un de ces géants que la fable accuse d\'avoir voulu escalader le ciel ».
+
+Je devais quitter Albany dans quelques jours. Je regrettais vivement que mon séjour ne pût se prolonger assez pour me permettre d\'assister à l\'inauguration de ce spectacle unique. D\'un autre côté, ne voulant pas partir sans en avoir au moins vu quelque chose, je résolus de me rendre en secret à Exhibition Parc.
+
+Un matin, mon fusil sur l\'épaule, je me dirigeai de ce côté.
+
+Je marchai pendant trois heures environ vers le Nord, sans avoir pu obtenir de renseignements précis touchant le but que je désirais atteindre. Cependant, à force de chercher l\'emplacement de l\'ancien fort William, j\'arrivai, après avoir fait cinq ou six milles, au terme de mon voyage.
+
+J\'étais au milieu d\'une immense plaine, dont une faible partie avait été bouleversée par quelques travaux récents mais de peu d\'importance. Un espace considérable était hermétiquement fermé par une palissade. J\'ignorais si elle délimitait l\'emplacement de l\'Exposition, mais ce fait me fut confirmé par un chasseur de castors que je rencontrai aux environs, et qui se dirigeait sur la frontière du Canada.
+
+« C\'est bien ici, me dit-il, mais je ne sais ce qu\'on y prépare, car, ce matin, j\'y ai entendu pas mal de coups de carabine\... »
+
+Je le remerciai et je continuai mes recherches.
+
+[Je ne voyais pas la moindre trace de travaux au-dehors. Un silence complet]{.calibre543} régnait sur cette plaine inculte, à laquelle des constructions gigantesques devaient donner la vie et le mouvement.
+
+Ne pouvant satisfaire ma curiosité sans pénétrer dans l\'enceinte, je résolus d\'en faire le tour pour voir si je ne découvrirais pas quelque moyen d\'accès. Je marchai longtemps sans apercevoir l\'apparence d\'une porte. Assez désappointé, j\'en arrivai à ne plus demander au ciel qu\'une fente, un simple trou pour y appliquer mon oeil, quand, à un angle de la clôture, j\'aperçus des planches et des poteaux renversés.
+
+Je n\'hésitai pas à m\'introduire dans l\'enclos. Je foulai alors un terrain dévasté. Des quartiers de roche que la poudre avait arrachés gisaient çà et là.
+
+Des monticules de terre accidentaient le sol, pareils aux vagues d\'une mer agitée. J\'arrivai enfin sur les bords d\'une excavation profonde, au fond de laquelle gisait une grande quantité d\'ossements.
+
+[J\'avais donc devant les yeux l\'objet de tant de bruit, de tant de réclames. Ce]{.calibre543} spectacle n\'avait rien de curieux assurément. C\'était un amoncellement de fragments osseux de toutes sortes, brisés en mille pièces. La cassure de quelques-uns paraissait même toute récente. Je n\'y reconnaissais pas les parties les plus importantes du squelette humain, qui d\'après les dimensions annoncées auraient dû être établies sur une échelle monstrueuse. Sans beaucoup d\'efforts d\'imagination, je pouvais me croire dans une fabrique de noir animal, et voilà tout !
+
+Je demeurais très confus, comme on peut le croire. Je m\'imaginais même être le jouet d\'une erreur, quand j\'aperçus sur un talus fortement labouré par des empreintes de pas quelques gouttes de sang. En suivant ces traces, j\'arrivai à l\'ouverture, où de nouvelles taches de sang, auxquelles je n\'avais pas pris garde en entrant, me frappèrent tout à coup. À côté de ces taches, un fragment de papier noirci par la poudre, et qui provenait sans doute de la bourre d\'une arme à feu, attira mon attention. Tout cela concordait avec ce que m\'avait dit le chasseur de castors.
+
+Je ramassai le fragment de papier. Non sans peine, je déchiffrai quelques-uns des mots qui y étaient tracés. C\'était un mémoire de [fourniture faite à Mr. Augustus Hopkins par un certain Mr. Barckley. Rien]{.calibre543} n\'indiquait la nature des objets fournis, mais de nouveaux fragments, que je trouvais épars çà et là, me firent comprendre de quoi il s\'agissait.
+
+[Si mon désappointement fut grand, je ne pus, en revanche, maîtriser un rire]{.calibre543} inextinguible. J\'étais bien en présence du géant et de son squelette, mais d\'un squelette composé de parties fort hétérogènes, qui avaient jadis vécu sous le nom de buffles, de génisses, de boeufs et de vaches dans les plaines du *Kentucky*. Mr. Barckley était tout simplement un boucher de New York, qui avait livré d\'immenses fournitures d\'os au célèbre Mr. Augustus Hopkins ! Ces fossiles-là n\'avaient certainement jamais entassé Pelion sur Ossa pour escalader l\'Olympe ! Leurs restes ne se trouvaient en ce lieu que par les soins de l\'illustre puffiste, qui s\'attendait à les découvrir par hasard, en creusant les fondations de palais qui ne devaient jamais exister !
+
+J\'en étais là de mes réflexions et de mon hilarité, qui eût été plus sincère, si, comme mes hôtes eux-mêmes, je n\'eusse pas été la victime de cet incroyable humbug, quand des cris de joie éclatèrent au-dehors. J\'accourus sur la brèche, et j\'aperçus maître Augustus Hopkins en personne, qui accourait, la carabine à la main, en faisant de grandes démonstrations de plaisir. Je me dirigeai vers lui. Il ne sembla nullement inquiet de me voir sur le théâtre de ses exploits.
+
+[« Victoire ! Victoire ! » s\'écria-t-il.]{.calibre543}
+
+Les deux Nègres Bobby et Dacopa marchaient à une certaine distance derrière lui. Quant à moi, instruit par l\'expérience, je me mis sur mes gardes, pensant que l\'audacieux mystificateur allait me prendre pour plastron.
+
+« Je suis heureux, me dit-il, d\'avoir un témoin de ce qui m\'arrive. Vous voyez un homme qui revient de la chasse au tigre.
+
+--- De la chasse au tigre ! répétai-je, décidé à ne pas en croire un mot.
+
+--- Et au tigre rouge, ajouta-t-il, autrement dit le couguar, qui jouit d\'une assez belle renommée de cruauté. Le diable d\'animal a pénétré dans mon enclos, comme vous pouvez le constater. Il a brisé ces barrières, qui jusqu\'ici avaient résisté à la curiosité générale, et il a mis en pièces mon merveilleux squelette. Aussitôt prévenu, je n\'ai pas hésité à le poursuivre jusqu\'à la mort. Je l\'ai rencontré à trois milles d\'ici dans un fourré ; je l\'ai regardé ; il a fixé sur moi ses deux yeux fauves. Il s\'est élancé d\'un bond qu\'il n\'a pu achever qu\'en se retournant sur lui-même, car je l\'ai abattu d\'une balle au défaut de l\'épaule. C\'est le premier coup de fusil que j\'aie tiré de ma vie, mais, mille diables ! Il me fera quelque honneur, et je ne le donnerais pas pour un milliard de dollars !
+
+« Voici les millions qui vont revenir », pensai-je.
+
+En ce moment, les deux Noirs arrivaient, traînant effectivement le cadavre d\'un tigre rouge de grande taille, animal à peu près inconnu dans cette partie de l\'Amérique. Son pelage était d\'un fauve uniforme, ses oreilles noires, et l\'extrémité de sa queue noire également. Je ne m\'occupai pas de savoir si Hopkins l\'avait tué, ou s\'il lui avait été fourni convenablement mort, voire empaillé, par un Barckley quelconque, car je fus frappé de la légèreté et de l\'indifférence avec laquelle mon spéculateur parlait de son squelette. Et pourtant, il était clair que toute cette affaire lui coûtait alors plus de cent mille francs !
+
+Ne voulant pas lui faire savoir que le hasard m\'avait rendu maître du secret de ses mystifications -- il eût été capable d\'en rendre grâce à la Providence -- je lui dis simplement :
+
+« Comment allez-vous sortir de cette impasse ?
+
+--- Parbleu ! me répondit-il, de quelle impasse parlez-vous ? Quoique je fasse maintenant, je réussirai.
+
+Une brute a détruit le merveilleux fossile qui eût fait l\'admiration du monde entier, car il était absolument unique, mais elle n\'a pas détruit mon prestige, mon influence, et je garde le bénéfice de ma position d\'homme célèbre.
+
+--- Mais comment vous en tirerez-vous vis-à-vis du public enthousiaste et impatient ? demandai-je gravement.
+
+--- En lui disant la vérité, rien que la vérité.
+
+--- La vérité ! m\'écriai-je, désireux de savoir ce qu\'il entendait par ce mot.
+
+--- Sans doute, expliqua-t-il le plus tranquillement du monde. N\'est-il pas vrai que cet animal a pénétré dans mon enceinte ? N\'est-il pas vrai qu\'il a mis en pièces ces merveilleux ossements que j\'avais eu tant de peine à extraire ? N\'est-il pas vrai que je l\'ai poursuivi et tué ? »
+
+« Voilà, pensai-je, une foule de choses dont je ne jurerais pas. »
+
+« Le public, continua-t-il, ne peut élever ses prétentions au-delà, puisqu\'il connaîtra toute l\'affaire. J\'y gagnerai même une réputation de bravoure, et je ne vois plus guère quel genre de célébrité il me manquera.
+
+--- Mais que vous donnera la célébrité ?
+
+--- La fortune, si je sais en jouer. À l\'homme connu, tous les espoirs sont permis. Il peut tout oser, tout entreprendre. Si Washington avait voulu montrer des veaux à deux têtes, après la capitulation de York Town, il eût évidemment gagné beaucoup d\'argent.
+
+--- C\'est possible, répondis-je sérieusement.
+
+--- C\'est certain, répliqua Augustus Hopkins. Aussi ne suis-je embarrassé que du choix du sujet à montrer, à lancer, à exhiber.
+
+--- Oui, dis-je, le choix est difficile.
+
+Les ténors sont bien usés, les danseuses ont fait leur temps, et ce qui leur reste de jambes est hors de prix ; les frères Siamois ont vécu, et les [phoques demeurent muets en dépit des professeurs distingués qui font leur]{.calibre543} éducation.
+
+--- [Je ne m\'adresserai pas à de semblables merveilles. Quelque usés, éreintés,]{.calibre543} morts, muets que soient les phoques, les Siamois, les danseuses et les ténors, ils sont encore trop bons pour un homme comme moi, qui vaut tant par lui-même ! Je pense donc avoir le plaisir de vous voir à Paris, mon cher monsieur !
+
+--- Compteriez-vous trouver à Paris, lui demandai-je, cet objet de peu de valeur qui doit s\'illustrer par votre propre mérite ?
+
+--- Peut-être, répondit-il sérieusement. Si je mets la main sur quelque fille de portière qui n\'ait jamais pu être reçue au Conservatoire, j\'en ferai la plus grande cantatrice des deux Amériques ! »
+
+[Sur ce propos, nous nous saluâmes et je revins à Albany. Le jour même, la]{.calibre543} terrible nouvelle éclatait. Hopkins fut considéré comme un homme ruiné. Des souscriptions considérables s\'ouvrirent en sa faveur. Chacun alla juger à Exhibition Parc de l\'étendue du désastre, ce qui rapporta pas mal de dollars au spéculateur. Il vendit un prix fou la peau du couguar qui l\'avait [ruiné si à propos et conserva sa réputation d\'homme le plus entreprenant du]{.calibre543} Nouveau-Monde. Pour moi, je revins à New York, puis en France, laissant les États-Unis riches sans le savoir d\'un superbe humbug de plus. Mais ils n\'en sont plus à les compter ! J\'en rapportais cette conclusion que l\'avenir des artistes sans talent, des chanteurs sans gosier, des danseurs sans jarret et des sauteurs sans corde, serait bien affreux, si Christophe Colomb n\'avait pas découvert l\'Amérique.

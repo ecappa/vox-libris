@@ -1,0 +1,493 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/les-chansons-des-rues-et-des-bois/00546.jpg){.calibre10} ]{.calibre2} LA VOIX DE GUERNESEY]{.calibre_55} {#filepos19261888 .calibre_}
+
+[[Victor Hugo à Garibaldi]{.bold}]{.calibre_37}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1867)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[POÉSIES]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+[[![voix de guernesey1](../../../images/victor-hugo/la-voix-de-guernesey/00550.jpg){.calibre3}]{.calibre4}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2823 .calibre_57}
+
+::: calibre_19
+
+
+[]{.calibre_10}
+
+> [[[[[Dédicace]{.calibre9}]{.underline}]{.calibre_4}](index_split_2260.html#filepos19266326)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_2261.html#filepos19267450)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_2262.html#filepos19272059)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_2263.html#filepos19275629)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_2264.html#filepos19279153)]{.calibre_10}
+
+> [[[[[V]{.calibre9}]{.underline}]{.calibre_4}](index_split_2265.html#filepos19283176)]{.calibre_10}
+
+> [[[[[VI]{.calibre9}]{.underline}]{.calibre_4}](index_split_2266.html#filepos19285694)]{.calibre_10}
+
+> [[[[[VII]{.calibre9}]{.underline}]{.calibre_4}](index_split_2267.html#filepos19287392)]{.calibre_10}
+
+> [[[[[VIII]{.calibre9}]{.underline}]{.calibre_4}](index_split_2268.html#filepos19291492)]{.calibre_10}
+
+[ ]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Dédicace]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2825 .calibre_57}
+
+::: calibre_19
+
+
+[]{.calibre_7}
+
+[À GARIBALDI]{.calibre_10}
+
+[[
+Un français c'est la France, un romain contient Rome]{.italic}]{.calibre_10}
+
+[[Et ce qui brise un peuple avorte aux pieds d'un homme.]{.italic}]{.calibre_10}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2827 .calibre_57}
+
+::: calibre_19
+
+
+[
+Ces jeunes gens, ces fils de Brutus, de Camille,
+De Thraséas combien étaient-ils ? quatre mille.
+Combien sont morts ? six cents. Six cents ! comptez, voyez.
+Une dispersion de membres foudroyés,
+Des bras rompus, des yeux troués et noirs, des ventres
+Où fouillent en hurlant les loups sortis des antres,
+De la chair mitraillée au milieu des buissons,
+C'est là tout ce qui reste, après les trahisons,
+Après le piège, après les guet-apens infâmes,
+Hélas, de ces grands coeurs et de ces grandes âmes !
+Voyez. On les a tous fauchés d'un coup de faux.
+Leur crime ? ils voulaient Rome et ses arcs triomphaux ;
+Ils défendaient l'honneur et le droit, ces chimères.
+Venez, reconnaissez vos enfants, venez, mères !
+Car pour qui l'allaita, l'homme est toujours l'enfant.
+Tenez ; ce front hagard, qu'une balle ouvre et fend,
+C'est humble tête blonde où jadis, pauvre femme,
+Tu voyais rayonner l'aurore et poindre l'âme ;
+Ces lèvres, dont l'écume a souillé le gazon,
+O nourrice, après toi bégayaient ta chanson ;
+Cette main froide, auprès de ces paupières closes,
+A fait jaillir ton lait sous ses petits doigts roses ;
+Voici le premier-né ; voici le dernier-né.
+O d'espérance éteinte amas infortuné !
+Pleurs profonds ! ils vivaient ; ils réclamaient leur Tibre ;
+Etre jeune n'est pas complet sans être libre ;
+Ils voulaient voir leur aigle immense s'envoler ;
+Ils voulaient affranchir, réparer, consoler ;
+Chacun portait en soi, pieuse idolâtrie,
+Le total des affronts soufferts par la patrie ;
+Ils savaient tout compter, tout, hors les ennemis ;
+Beaux, vaillants, jeunes, morts ! Adieux, nos doux amis,
+Les heures de lumière et d'amour sont passées,
+Vous n'effeuillerez plus avec vos fiancées
+L'humble étoile des prés qui rayonne et fleurit\...
+Que de sang sur ce prêtre, ô pâle Jésus-Christ !
+Pontife élu que l'ange a touché de sa palme,
+A qui Dieu commanda de tenir, doux et calme,
+Son évangile ouvert sur le monde orphelin,
+O frère universel à la robe de lin,
+A demi dans la chaire, à demi dans la tombe,
+Serviteur de l'agneau, gardien de la colombe,
+Qui des cieux dans ta main portes le lys tremblant,
+Homme près de ta fin, car ton front est tout blanc
+Et le vent du sépulcre en tes cheveux se joue,
+Vicaire de celui qui tendait l'autre joue,
+A cette heure, ô semeur des pardons infinis,
+Ce qui plaît à ton coeur et ce que tu bénis
+Sur notre sombre terre où l'âme humaine lutte,
+C'est un fusil tuant douze hommes par minute !
+Jules deux reparaît sous ma mitre de fer.
+La papauté féroce avoue enfin l'enfer.
+Certes, l'outil du meurtre a bien rempli sa tâche ;
+Ces rois ! leur foudre est traitre et leur tonnerre est lâche.
+Avoir été trop grands, Français, c'est importun :
+Jadis un contre dix, aujourd'hui dix contre un.
+France, on te déshonore, on te traîne, on te lie,
+Et l'on te force à mettre au bagne l'Italie.
+Voilà ce qu'on te fait, colosse en proie aux mains !
+Un ruisseau fumant coule au flanc des Apennins.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2829 .calibre_57}
+
+::: calibre_19
+
+
+[
+O sinistre vieillard, te voilà responsable
+Du vautour déterrant un crâne dans le sable,
+Et du croassement lugubre des corbeaux !
+Emplissez désormais ses visions, tombeaux,
+Paysages hideux où rôdent les belettes,
+Silhouettes d'oiseaux perchés sur des squelettes !
+S'il dort, apparais-lui, champ de bataille noir !
+Les canons sont tout chauds ; ils ont fait leur devoir ;
+La mitraille invoquée a tenu sa promesse ;
+C'est fait. Les morts sont morts. Maintenant dis ta messe.
+Prends dans tes doigts l'hostie en t'essuyant un peu,
+Car il ne faudrait pas mettre du sang à Dieu !
+Du reste tout est bien. La France n'est pas fière ;
+Le roi de Prusse a ri ; le denier de Saint-Pierre
+Prospère, et l'Irlandais donne son dernier sou ;
+Le peuple cède et met en terre le genou ;
+De peur qu'on ne le fauche ; il plie, étant de l'herbe ;
+On reprend Frosinone et l'on rentre à Viterbe ;
+Le czar a commandé son service divin ;
+Partout où quelque mort blêmit dans un ravin,
+Le rat joyeux le ronge en tremblant qu'il ne bouge ;
+Ici la terre est noire ; ici la plaine est rouge ;
+Garibaldi n'est plus qu'un vain nom immortel ;
+Comme Léonidas, comme Guillaume Tell ;
+Le pape, à la Sixtine, au Gésu, chez les Carmes,
+Met tous ses diamants ; tendre ; il répand des larmes
+De joie ; il est très doux ; il parle du succès
+De ses armes ; du sang versé, des bons Français,
+Des quantités de plomb que la bombarde jette,
+Modestement, les yeux baissés, comme un poète
+Se fait un peu prier pour réciter ses vers.
+De convois de blessés les chemins sont couverts.
+Partout rit la victoire.
+Utilité des traîtres.
+Dans les perles, la soie et l'or, parmi tes reîtres
+Qu'hier, du doigt, aux champs de meurtre, tu guidais,
+Pape, assis, sur ton trône et siégeant, sous ton dais,
+Coiffé de ta tiare aux trois couronnes, prêtre,
+Tu verras quelque jour au Vatican peut-être
+Entrer un homme triste et de haillons vêtu,
+Un pauvre, un inconnu. Tu lui diras : ― Qu'es-tu,
+Passant ? que me veux-tu ? sors-tu de quelque geôle ?
+Pourquoi voit-on ces brins de laine à ton épaule ?
+― Une brebis était tout à l'heure dessus,
+Répondra-t-il. Je viens de loin. Je suis Jésus.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2831 .calibre_57}
+
+::: calibre_19
+
+
+[
+Une chaîne au héros ! une corde à l'apôtre !
+John Brown, Garibaldi, passez l'un après l'autre.
+Quel est ce prisonnier ? c'est le libérateur.
+Sur la terre, en tous lieux, du pôle à l'équateur ;
+L'iniquité prévaut, règne, triomphe, et mène
+De force aux lâchetés la conscience humaine.
+O prodiges de honte ! étranges impudeurs !
+On accepte un soufflet par des ambassadeurs.
+On jette aux fers celui qui nous a fait l'aumône.
+― Tu sais, je t'ai blâmé de lui donner ce trône !―
+On était gentilhomme, on devient alguazil.
+Débiteur d'un royaume, on paie avec l'exil.
+Pourquoi pas ? on est vil. C'est qu'on en reçoit l'ordre.
+Rampons. Lécher le maître est plus sûr que le mordre.
+D'ailleurs tout est logique. Où sont les contresens ?
+La gloire a le cachot, mais le crime a l'encens ;
+De quoi vous plaignez-vous ? l'infâme étant l'auguste,
+Le vrai doit être faux, et la balance est juste.
+On dit au soldat : frappe ! il doit frapper. La mort
+Est la servante sombre aux ordres du plus fort.
+Et puis, l'aigle peut bien venir en aide au cygne !
+Mitrailler est le dogme et croire est la consigne.
+Qu'est pour nous le soldat ? du fer sur un valet.
+Le pape veut avoir son Sadowa ; qu'il l'ait.
+Quoi donc ? en viendra-t-on dans le siècle où nous sommes,
+A mettre en question le vieux droit qu'ont les hommes
+D'obéir à leur prince et de s'entretuer ?
+Au prétendu progrès pourquoi s'évertuer
+Quand l'humble populace est surtout coutumière ?
+La masse a plus de calme ayant moins de lumière.
+Tous les grands intérêts des peuples, l'échafaud,
+La guerre, le budget, l'ignorance qu'il faut,
+Courent moins de dangers et sont en équilibre
+Sur l'homme garrotté mieux que sur l'homme libre.
+L'homme libre se meut et cause un tremblement.
+Un Garibaldi peut tout rompre à tout moment ;
+Il entraîne après lui la foule, qui déserte
+Et passe à l'idéal. C'est grave. On comprend, certes,
+Que la société, sur qui veillent les cours,
+Doit trembler et frémir et crier au secours,
+Tant qu'un héros n'est pas mis hors d'état de nuire.
+Le phare aux yeux de l'ombre est coupable de luire.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2833 .calibre_57}
+
+::: calibre_19
+
+
+[[
+]{.calibre29} Votre Garibaldi n'a pas trouvé le joint.
+Ça, le but de tout homme ici-bas n'est-il point
+De tâcher d'être dupe aussi peu que possible ?
+Jouir est bon. La vie est un tir à la cible.
+Le scrupule en haillons grelotte ; je le plains.
+Rien n'a plus de vertu que les coffres-forts pleins.
+Il est de l'intérêt de tous qu'on ait des princes
+Qui fassent refluer leur or dans les provinces ;
+C'est pour cela qu'un roi doit être riche ; avoir
+Une liste civile énorme est son devoir ;
+Le pape, qu'on voudrait confiner dans les astres,
+Est un roi comme un autre. Il a besoin de piastres,
+Que diable ! l'opulence est le droit du saint lieu ;
+Il faut dorer le pape afin de prouver Dieu ;
+N'avoir pas une pierre où reposer sa tête
+Est bon pour Jésus-Christ. La loque est déshonnête.
+Voyons la question par le côté moral.
+Le but du colonel est d'être général,
+Le but du maréchal est d'être connétable !
+Avant tout, mon paiement. Mettons cartes sur table.
+Un renégat a tort tant qu'il n'est pas muchir ;
+Alors il a raison. S'arrondir, s'enrichir,
+Tout est là. Regardez, nous prenons les Hanovres.
+Et quant à ces bandits qui veulent rester pauvres,
+Ils sont les ennemis publics. Sus ! hors la loi !
+Ils donnent le mauvais exemple. Coffrez-moi
+Ce gueux, qui, dictateur, n'a rien mis dans sa poche.
+On se heurte, au battant lorsqu'on touche à la cloche,
+Et lorsqu'on touche au prêtre on se heurte au soudard.
+Morbleu, la papauté n'est pas un objet d'art !
+Par le sabre-en Espagne, en Prusse par la schlague,
+Par la censure en France, on modère, on élague
+L'excès de rêverie et de tendance au droit,
+Le peuple est pour le, prince un soulier fort étroit ;
+L'élargir en l'usant aux marches militaires
+Est utile : Un pontife, en ses sermons austères
+Sait rattacher au ciel nos lois, qu'on nomme abus,
+Et le knout en latin s'appelle Syllabus.
+L'ordre est tout. Le fusil Chassepot est suave.
+Le progrès est béni ; dans quoi ? dans le zouave ;
+Les boulets sont bénis dans leurs coups ; le chacal
+Est béni dans sa faim, s'il est pontifical.
+Nous trouvons excellent, quant à nous, que le pape
+Rie au nez de ce siècle inepte, écrase, frappe ;
+Et, du moment qu'on veut lui prendre son argent,
+Se fasse carrément recruteur et sergent,
+Pousse à la guerre, et crie : à mort quiconque est libre !
+Qu'il recommande au prône, un obus de calibre,
+Qu'il dise, en achevant sa prière ; Égorgez !
+Envoie aux combattants force fourgons chargés ;
+De la poudre, du plomb, du fer, et ravitaille
+L'extermination sur les champs de bataille !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2835 .calibre_57}
+
+::: calibre_19
+
+
+[[
+]{.calibre29} Qu'il aille donc ! qu'il aille, emportant son mandat,
+Ce chevalier errant des peuples, ce soldat,
+Ce paladin, ce preux de l'idéal ! qu'il parte.
+Nous, les proscrits d'Athènes, à ce proscrit de Sparte,
+Ouvrons nos seuils ; qu'il soit notre hôte maintenant ;
+Qu'en notre maison sombre il entre rayonnant.
+Oui, viens, chacun de nous, frère à l'âme meurtrie,
+Veut avec son exil te faire une patrie !
+Viens, assieds-toi chez ceux qui n'ont plus de foyer.
+Viens, toi qu'on a pu vaincre et qu'on n'a pu ployer !
+Nous chercherons quel est le nom de l'espérance ;
+Nous dirons : Italie ! et tu répondras : France !
+Et nous regarderons, car le soir fait rêver,
+En attendant les droits, les astres se lever.
+L'amour du genre humain se double d'une haine
+Égale au poids du joug, au froid noir de la chaîne,
+Aux mensonges du prêtre, aux cruautés du roi.
+Nous sommes rugissants et terribles. Pourquoi ?
+Parce que nous aimons. Toutes ces humbles têtes,
+Nous voulons les voir croître et nous sommes des bêtes
+Dans l'antre, et nous avons les peuples pour petits.
+Jetés au même écueil, mais non pas engloutis,
+Frère, nous nous dirons tous les deux notre histoire ;
+Tu me raconteras Palerme et ta victoire,
+Je te dirai Paris, sa chute, et nos sanglots,
+Et nous lirons ensemble Homère au bord des flots.
+Puis, tu continueras ta marche âpre et hardie.
+Et, là-bas, la lueur deviendra l'incendie.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VI]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2837 .calibre_57}
+
+::: calibre_19
+
+
+[
+Ah ! race italienne, il était ton appui !
+Ah ! vous auriez eu Rome, ô peuples, grâce à lui,
+Grâce au bras du guerrier, grâce au coeur du prophète.
+D'abord il l'eût donnée, ensuite il l'eût refaite.
+Oui, calme, ayant en lui de la grandeur assez
+Pour s'ajouter sans trouble aux héros trépassés,
+Il eût reforgé Rome ; il eût mêlé l'exemple
+Du vieux sépulcre avec l'exemple du vieux temple,
+Il eût mêlé Turin ; Pise, Albe, Velletri,
+Le Capitole avec le Vésuve, et pétri
+L'âme de Juvénal avec l'âme du Dante ;
+Il eût trempé d'airain la fibre indépendante ;
+Il vous eût des titans montré les fiers chemins.
+Pleurez, Italiens ! il vous eût faits Romains.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VII]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2839 .calibre_57}
+
+::: calibre_19
+
+
+[
+Le crime est consommé. Qui l'a commis ? ce pape ?
+Non. Ce roi ? non. Le glaive à leur bras faible échappe.
+Qui donc et le coupable alors ? Lui. L'homme obscur,
+Celui qui s'embusqua derrière notre mur ;
+Le fils du Sinon grec et du Judas biblique ;
+Celui qui, souriant, guetta la république,
+Son serment sur le front, son poignard à la main.
+Il est parmi vous, rois, ô groupe à peine humain,
+Un homme que l'éclair de temps en temps regarde.
+Ce condamné, qui triple 'autour de lui sa garde,
+Perd sa peine. Son tour approche. Quand ? bientôt.
+C'est pourquoi l'on entend un grondement là haut.
+L'ombre est sur vos palais, ô rois. La nuit l'apporte.
+Tel que l'exécuteur frappant à votre porte,
+Le tonnerre demande à parler à quelqu'un.
+Et cependant l'odeur des morts, affreux parfum
+Qui se mêle à l'encens, des Tedeums superbes,
+Monte du fond des bois, du fond des prés pleins d'herbes,
+Des steppes, des marais, des vallons, en tous lieux !
+Au fatal boulevard de Paris oublieux,
+Au Mexique, en Pologne, en Crète où la nuit tombe,
+En Italie, on sent un miasme de tombe,
+Comme si, sur ce globe et sous le firmament,
+Étant dans sa saison d'épanouissement,
+Vaste mancenillier de la terre en démence,
+Le carnage vermeil ouvrait sa fleur immense.
+Partout des égorgés ! des massacrés partout !
+Le cadavre est à terre et l'idée est debout.
+Ils gisent étendus dans les plaines farouches.
+L'appel aux armes flotte au-dessus de leurs bouches.
+On les dirait semés. Ils le sont. Le sillon
+Se nomme Liberté. ― La mort est l'aquilon,
+Et les morts glorieux sont la graine sublime
+Qu'elle disperse au loin sur l'avenir, abîme.
+Germez, héros ! et vous, cadavres, pourrissez.
+Fais ton oeuvre, ô mystère ! épars, nus, hérissés,
+Béants, montrant au ciel leurs bras coupés qui pendent,
+Tous ces exterminés, immobiles attendent.
+Et tandis que les rois, joyeux et désastreux,
+Font une fête auguste et triomphale entre eux,
+Tandis que leur Olympe abonde, au fond des nues,
+En fanfare, en festins, en joie, en gorges nues,
+Rit, chante, et, sur nos fronts, montre aux hommes contents
+Une fraternité de czars et de sultans,
+De son côté, là-bas, au désert, sous la bisé,
+Dans l'ombre avec la mort le vautour fraternise ;
+Les bêtes du sépulcre ont leur vil rendez-vous ;
+Le freux, la louche orfraie, et le pygargue roux,
+L'âpre autour, les milans, féroces hirondelles,
+Volent droit aux charniers, et tous, à tire d'ailes,
+Se hâtent vers les morts, et ces rauques oiseaux
+S'abattent, l'un mordant la chair, l'autre les os,
+Et, criant, s'appelant, le feu sous les paupières,
+Viennent boire le sang qui coule entre les pierres.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VIII]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_2841 .calibre_57}
+
+::: calibre_19
+
+
+[
+O peuple, noir dormeur, quand t'éveilleras-tu ?
+Rester couché sied mal à qui fut abattu.
+Tu dors, avec ton sang sur les mains, et, stigmate
+Que t'a laissé l'abjecte et dure casemate,
+La marque d'une corde autour de tes poignets.
+Qu'as-tu fait de ton âme, ô toi qui t'indignais !
+L'empire est une cave, et toutes les espèces
+De nuit te tiennent pris sous leurs brumes épaisses.
+Tu dors, oubliant tout, ta grandeur, son complot,
+La liberté, le droit, ces lumières d'en haut ;
+Tu fermes les yeux, lourd, gisant sous d'affreux voiles,
+Sans souci de l'affront que tu fais aux étoiles !
+Allons, remue. Allons, mets-toi sur ton séant.
+Qu'on voie enfin bouger le torse du géant.
+La longueur du sommeil devient ignominie.
+Es-tu las ? es-tu sourd ? es-tu mort ? Je le nie.
+N'as-tu pas conscience en ton accablement
+Que l'opprobre s'accroît de moment en moment ?
+N'entends-tu pas qu'on marche au-dessus de ta tête ?
+Ce sont les rois. Ils font le mal. Ils sont en fête.
+Tu dors sur ce fumier, toi qui fus citoyen !
+Te voilà devenu bête de somme. Eh bien,
+L'âne se lève, et brait ; le boeuf se dresse et beugle.
+Cherche donc dans la nuit puisqu'on t'a fait aveugle !
+O toi qui fus si grand, debout ! car il est tard.
+Dans cette obscurité l'on peut mettre au hasard
+La main sur de la honte ou bien sur de la gloire ;
+Étends le bras le long de la muraille noire ;
+L'inattendu dans l'ombre ici peut se cacher ;
+Tu parviendras peut-être à trouver, à toucher,
+A saisir une épée entre tes poings funèbres,
+Dans le tâtonnement farouche des ténèbres \![[\[watermark:9782368410165\]]{.calibre_31}]{.italic}
+]{.calibre4}
+
+[[[
+]{.calibre_31}]{.italic}]{.calibre4}
+
+[[Hauteville-House, novembre 1867.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+[[]{.italic}]{.calibre_3}
+
+[[
+]{.bold}]{.calibre_12}
+
+
+[[![separateur](../../../images/victor-hugo/les-derniers-bardes/00436.jpg){.calibre3}]{.bold}]{.calibre_12}

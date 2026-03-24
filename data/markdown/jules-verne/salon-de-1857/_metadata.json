@@ -1,0 +1,100 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "SALON DE 1857",
+  "slug": "salon-de-1857",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Article préliminaire",
+      "slug": "article-preliminaire",
+      "is_part": false,
+      "spine_start": 2452,
+      "spine_end_exclusive": 2453,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_400.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Premier article",
+      "slug": "premier-article",
+      "is_part": false,
+      "spine_start": 2453,
+      "spine_end_exclusive": 2454,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_401.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième article",
+      "slug": "deuxieme-article",
+      "is_part": false,
+      "spine_start": 2454,
+      "spine_end_exclusive": 2455,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_402.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième article",
+      "slug": "troisieme-article",
+      "is_part": false,
+      "spine_start": 2455,
+      "spine_end_exclusive": 2456,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_403.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Quatrième article",
+      "slug": "quatrieme-article",
+      "is_part": false,
+      "spine_start": 2456,
+      "spine_end_exclusive": 2457,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_404.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Cinquième article",
+      "slug": "cinquieme-article",
+      "is_part": false,
+      "spine_start": 2457,
+      "spine_end_exclusive": 2458,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_405.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Sixième article",
+      "slug": "sixieme-article",
+      "is_part": false,
+      "spine_start": 2458,
+      "spine_end_exclusive": 2459,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_406.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/salon-de-1857/imageVerneIV10.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV11.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV12.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV13.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV14.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV4.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV5.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV6.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV7.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV8.jpg",
+    "images/jules-verne/salon-de-1857/imageVerneIV9.jpg"
+  ]
+}

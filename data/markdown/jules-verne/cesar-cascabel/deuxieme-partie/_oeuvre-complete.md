@@ -1,0 +1,3278 @@
+## [[ Deuxième partie]{.pcalibre lang="X-NONE"}]{#_Toc342942208 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_559 .calibre21}
+
+!{.calibre22}
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 1.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b1 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-1. .calibre171 .sigil_not_in_toc}
+
+C\'est une passe assez étroite, ce canal de Behring, par lequel communique la mer de ce nom avec l\'océan Arctique. Disposé comme le détroit du Pas-de-Calais entre la Manche et la mer du Nord, il a la même orientation sur une largeur triple. On ne compte que six à sept lieues depuis le cap Griz-Nez de la côte française jusqu\'au South-Foreland de la côte anglaise, une vingtaine de lieues séparent Numana de Port-Clarence.
+
+Aussi, après avoir quitté son dernier lieu de séjour en Amérique, la *Belle-Roulotte* se dirigeait-elle vers ce port de Numana, le point le plus rapproché du littoral asiatique.
+
+Sans doute, un itinéraire, qui aurait coupé obliquement la mer de Behring, eût permis à César Cascabel de cheminer sur un parallèle moins élevé et sensiblement au-dessous du Cercle Polaire. Dans ce cas, la direction eût été relevée au sud-ouest, en pointant vers l\'île Saint-Laurent -- île assez importante, habitée par de nombreuses tribus d\'Esquimaux, non moins hospitaliers que les indigènes de Port-Clarence ; puis, au-delà du golfe de l\'Anadyr, la petite troupe aurait accosté le cap Navarin, pour s\'aventurer à travers les territoires de la Sibérie méridionale. Mais c\'eût été allonger la partie du voyage qui se faisait par mer, ou plutôt à la surface d\'un ice-field, et par conséquent s\'exposer sur un plus long parcours aux dangers que présentent les champs de glace. On comprend que la famille Cascabel devait avoir hâte de se trouver en terre ferme. Il convenait dès lors de ne modifier en rien les dispositions du premier plan, qui consistait à faire route ver Numana, en se réservant de relâcher à l\'îlot Diomède, situé au milieu du détroit, îlot aussi solide sur sa base rocheuse que n\'importe quel point du continent.
+
+Si M. Serge avait eu un navire à bord duquel la petite caravane se serait embarquée avec son matériel, c\'est un itinéraire différent qu\'il aurait suivi. En quittant Port-Clarence, le bâtiment eût fait voile plus au sud sur l\'île de Behring, lieu d\'hivernage très fréquenté des phoques et autres mammifères marins ; puis, de là, il eût gagné un des ports du Kamtchatka, et peut-être même Petropavlovsk, la capitale de ce gouvernement. Mais, faute de navire, il fallait prendre au plus court, afin de mettre pied sur le continent asiatique.
+
+Le détroit de Behring n\'accuse pas de très grandes profondeurs. Par suite des exhaussements géologiques, qui ont été observés depuis la période glaciaire, il pourrait même arriver que, dans un avenir très éloigné, la jonction s\'opérât sur ce point entre l\'Asie et l\'Amérique. Ce serait alors le pont rêvé par M. Casbabel, ou plus exactement une chaussée praticable aux voyageurs. Mais, utile à ceux-ci, elle serait extrêmement dommageable aux navigateurs, et spécialement aux baleiniers, puisqu\'elle leur fermerait l\'accès des mers arctiques. Il faudrait en ce cas qu\'un nouveau Lesseps vînt couper ces isthme et rétablir les choses dans leur état primitif. Aux héritiers de nos arrière-petit-neveux il reviendra de se préoccuper de cette éventualité.
+
+En sondant les diverses parties du détroit, les hydrographes ont pu constater que le chenal le plus profond était celui qui longe le littoral d\'Asie, près de la presqu\'île des Tchouktches. Là circule le courant froid, descendu du nord, tandis que le courant chaud remonte à travers la passe moins accusée, qui est limitrophe de la côte américaine.
+
+C\'est au nord de cette presqu\'île, près de l\'île de Kolioutchin, dans la baie de ce nom, que, douze ans plus tard, le navire de Nordenskjöld, *la Véga*, après avoir découvert le passage du Nord-Est, allait être immobilisé par les glaces pendant un laps de neuf mois, du 26 septembre 1878 au 15 juillet 1879.
+
+La famille Cascabel était donc partie à la date du 21 octobre dans d\'assez bonnes conditions. Il faisait un froid vif et sec. La tourmente de neige s\'était apaisée, le vent avait molli, en halant le nord d\'un quart. Le ciel était tendu de gris mat, uniformément. À peine si l\'on sentait le soleil derrière ce voile de brumes, que ses rayons, très affaiblis par leur obliquité, ne parvenaient pas à percer. À midi, au maximum de sa culmination, il ne s\'élevait que de trois ou quatre degrés au-dessus de l\'horizon du sud.
+
+Une très sage mesure avait été prise d\'un commun accord avant le départ de Port-Clarence : on ne devait point faire route pendant l\'obscurité. Çà et là, l\'ice-field présentait de larges crevasses et, dans l\'impossibilité de les éviter, faute de les voir, il aurait pu se produire quelque catastrophe. Il était convenu que, dès que la portée du regard se limiterait à une centaine de pas seulement, la *Belle-Roulotte* ferait halte. Mieux valait mettre quinze jours à franchir les vingt lieues du détroit que de se risquer en aveugles, lorsque la clarté ne serait plus suffisante.
+
+La neige, qui n\'avait cessé de tomber pendant vingt-quatre heures, en formant un tapis assez épais, s\'était cristallisée sous l\'action du froid. Cette couche rendait la locomotion moins pénible à la surface de l\'ice-field. S\'il ne neigeait plus, la traversée du détroit serait facile. Cependant il était à craindre qu\'à la rencontre des deux courants froid et chaud, qui se contrariaient pour prendre chacun un chenal différent, les glaçons, heurtés pendant leur dérive, ne se fussent accumulés les uns sur les autres. Cela étant, la route s\'allongerait de nombreux détours.
+
+Il a été dit que Cornélia, Kayette et Napoléone avaient pris place dans la voiture. Afin de l\'alléger autant que possible, les hommes devaient faire le trajet à pied.
+
+Selon l\'ordre de marche adopté, Jean était, comme éclaireur, chargé de reconnaître l\'état de l\'ice-field ; on pouvait se fier à lui. Il était muni d\'une boussole et, bien qu\'il ne lui fût guère possible de prendre des points de repère très exacts, il se dirigeait vers l\'ouest avec une précision suffisante.
+
+A la tête de l\'attelage se tenait Clou, prêt à soutenir ou à relever Vermout et Gladiator, s\'ils faisaient un faux pas ; mais la solidité de leurs jambes était assurée par la ferrure à glace de leurs sabots. D\'ailleurs, cette surface ne présentait aucune aspérité contre laquelle ils eussent pu buter.
+
+Près de la voiture, M. Serge et César Cascabel, les lunettes aux yeux, bien encapuchonnés ainsi que leurs compagnons, cheminaient en causant.
+
+Quant au jeune Sandre, il eût été malaisé de lui assigner une place ou tout au moins de l\'y maintenir. Il allait, venait, courait, gambadait comme les deux chiens, et même se donnait le plaisir de longues glissades. Toutefois, son père ne lui avait point permis de chausser les raquettes esquimaudes, et c\'est bien cela qui le chagrinait.
+
+« Avec ces patins-là, on aurait traversé le détroit en quelques heures !
+
+--- À quoi bon, répondit M. Cascabel, puisque nos chevaux ne savent pas patiner !
+
+--- Faudra que je leur apprenne ! » répondit le gamin en faisant une culbute.
+
+Entre-temps, Cornélia, Kayette et Napoléone s\'occupaient de la cuisine, et une légère fumée de bon augure sortait du petit tuyau de tôle. Si elles ne souffraient point du froid à l\'intérieur des compartiments hermétiquement clos, il fallait songer à ceux qui étaient dehors. Et c\'est ce qu\'elles faisaient, en tenant toujours prêtes quelques chaudes tasses de thé, additionnées de cette eau-de-vie russe, cette vodka, qui ranimerait un mort !
+
+En ce qui est des chevaux, leur nourriture était assurée au moyen de ces bottes d\'herbe sèche, fournies par les Esquimaux de Port-Clarence, qui devaient suffire pour la traversée du détroit. Wagram et Marengo avaient en abondance de la chair d\'élan dont ils se montraient satisfaits.
+
+Au surplus, l\'ice-field n\'était pas aussi dépourvu de gibier qu\'on pourrait le croire. Dans leurs courses, les deux chiens faisaient lever des milliers de ptarmigans, de guillemots et autres volatiles spéciaux aux régions polaires. Ces volatiles, apprêtés avec soin et débarrassés de leur goût huileux, peuvent encore fournir un manger acceptable. Mais, comme rien n\'eût été plus inutile que de les abattre, puisque l\'office de Cornélia était amplement garnie, il fut décidé que les fusils de M. Serge et de Jean resteraient au repos pendant le voyage de Port-Clarence à Numana.
+
+Quant aux amphibies, phoques et autres congénères marins, très nombreux en ces parages, on n\'en vit pas un seul pendant le premier jour du voyage.
+
+Si le départ s\'était fait gaiement, M. Cascabel et ses compagnons ne tardèrent pas à ressentir l\'indéfinissable impression de tristesse qui se dégage de ces plaines sans horizon, de ces surfaces blanches à perte de vue. Vers onze heures, ils ne voyaient déjà plus les hautes roches de Port-Clarence, pas même les sommets du cap du Prince-de-Galles, évanouis dans l\'estompe des lointaines vapeurs. Aucun objet n\'eût été visible à la distance d\'une demi-lieue et, par conséquent, bien du temps se passerait avant qu\'on découvrît les hauteurs du cap oriental de la presqu\'île des Tchouktches. Ces hauteurs, cependant, eussent offert un excellent point de repère pour les voyageurs.
+
+L\'îlot Diomède, situé à peu près au milieu du détroit, n\'est dominé par aucune tumescence rocheuse. Comme sa masse émerge à peine du niveau de la mer, on ne le reconnaîtrait guère qu\'au moment où les roues crieraient sur son sol rocailleux en écrasant la couche de neige. En somme, sa boussole à la main, Jean dirigeait sans trop de peine la *Belle-Roulotte* et, si elle n\'allait pas vite, du moins s\'avançait-elle en toute sécurité.
+
+Chemin faisant, M. Serge et César Cascabel causaient volontiers de leur situation présente. Cette traversée du détroit, qui avait paru chose simple avant le départ, qui paraîtrait non moins simple après l\'arrivée, ne laissait pas de sembler fort périlleuse maintenant qu\'on y était engagé.
+
+« C\'est tout de même assez raide ce que nous avons tenté là ! dit M. Cascabel.
+
+--- Sans doute, répondit M. Serge. Franchir le détroit de Behring avec une lourde voiture, voilà une idée qui ne serait pas venue à tout le monde !
+
+--- Je le crois bien, monsieur Serge ! Que voulez-vous ? Lorsque l\'on est mis dans la tête de rentrer au pays, il n\'y a rien qui puisse vous retenir ! Ah ! S\'il ne s\'agissait que d\'aller pendant des centaines de lieues à travers le Far West ou la Sibérie, cela ne me préoccuperait même pas !... On marche sur un terrain solide, qui ne risque pas de s\'entrouvrir sous vos pieds !... Tandis que vingt lieues de mer glacée à parcourir avec un attelage, un matériel, et tout ce qui s\'ensuit !... Diantre ! Je voudrais bien que ce fût fait !... Nous en aurions fini avec le plus difficile, ou tout au moins avec le plus dangereux du voyage !
+
+--- En effet, mon cher Cascabel, surtout si la *Belle-Roulotte*, au-delà du détroit, peut atteindre rapidement les territoires de la Sibérie méridionale. Essayer de suivre le littoral pendant les grands froids de l\'hiver, ce serait très imprudent. Aussi, dès que nous serons à Numana, nous aurons à couper vers le sud-ouest, afin de choisir un bon lieu d\'hivernage dans une des bourgades que nous rencontrerons.
+
+--- C\'est notre projet ! Mais vous devez connaître le pays, monsieur Serge ?
+
+--- Je ne connais que la région comprise entre Iakoutsk et Okhotsk, pour l\'avoir traversée après mon évasion. Quant à la route qui va de la frontière d\'Europe à Iakoutsk, je n\'ai conservé que le souvenir de ces épouvantables fatigues, dont les convois de prisonniers sont jour et nuit accablés ! Quelles souffrances !... Je ne les souhaiterais pas à mon plus mortel ennemi !
+
+--- Monsieur Serge, avez-vous perdu tout espoir de rentrer dans votre pays, j\'entends en toute liberté, et le gouvernement ne vous permettra-t-il pas d\'y revenir ?...
+
+--- Il faudrait pour cela, répondit M. Serge, que le Czar proclamât une amnistie qui s\'étendrait au comte Narkine, comme à tous les patriotes condamnés avec lui. Des circonstances politiques se présenteront-elles, qui rendront cette détermination possible ?... Qui sait, mon cher Cascabel !
+
+--- C\'est pourtant triste de vivre en exil !... Il semble que l\'on ait été chassé de sa propre maison...
+
+--- Oui !... loin de tous ceux qu\'on aime !... Et mon père, si âgé déjà... et que je voudrais revoir....
+
+--- Vous le reverrez, monsieur Serge ! Croyez-en un vieux coureur de foire, qui a souvent prédit l\'avenir en disant la bonne aventure ! Vous ferez votre entrée à Perm\'avec nous !... Est-ce que vous n\'appartenez pas à la troupe Cascabel ?... Il faudra même que je vous apprenne quelques tours d\'escamotage -- cela peut servir à l\'occasion -- sans compter celui que nous jouerons à la police moscovite en lui passant sous le nez ! »
+
+Et César Cascabel ne put s\'empêcher de s\'esclaffer de rire. Songez donc ! Le comte Narkine, un grand seigneur russe, soulevant des poids, jonglant avec des bouteilles, donnant la réplique aux clowns -- et en faisant recette !
+
+Vers trois heures de l\'après-midi, la *Belle-Roulotte* dut s\'arrêter. Bien qu\'il ne fît pas nuit encore, une épaisse brume amoindrissait le champ de vue. Aussi, après être revenu en arrière, Jean conseilla-t-il de faire halte. Se diriger dans ces conditions devenait extrêmement incertain.
+
+D\'ailleurs, ainsi que M. Serge l\'avait prévu, cette partie du détroit, parcourue par le courant du chenal de l\'est, laissait les aspérités de l\'ice-field, les inégalités des glaçons, saillir sous la neige. Le véhicule éprouvait des heurts violents. Les chevaux buttaient presque à chaque pas. Une demi-journée de marche avait suffi pour leur occasionner de très grandes fatigues.
+
+En somme, c\'étaient deux lieues au plus que la petite caravane avait franchies pendant cette première étape.
+
+Dès que l\'attelage se fut arrêté, Cornélia et Napoléone descendirent -- soigneusement emmitouflées, des pieds à la tête, à cause de la brusque transition d\'une température intérieure de dix degrés au-dessus de zéro à une température extérieure de dix degrés au-dessous. Quant à Kayette, habituée à ces âpretés de l\'hiver alaskien, elle n\'avait guère songé à s\'envelopper de ses chaudes fourrures.
+
+« Il faut te couvrir mieux que cela, Kayette ! lui dit Jean. Tu risques de t\'enrhumer !
+
+--- Oh ! fit-elle, je ne crains pas le froid, et on y est accoutumé dans la vallée du Youkon !
+
+--- N\'importe, Kayette !
+
+--- Jean a raison, dit M. Cascabel en intervenant. Va t\'envelopper d\'une bonne couverture, ma petite caille. D\'ailleurs, je te préviens que si tu t\'enrhumes, c\'est moi qui me charge de te guérir, et cela sera terrible !... J\'irai, s\'il le faut, jusqu\'à te couper la tête pour t\'empêcher d\'éternuer !... »
+
+Devant une pareille menace, la jeune Indienne n\'avait qu\'à obéir, et c\'est ce qu\'elle fit.
+
+Puis, chacun s\'occupa d\'organiser la halte. Ce fut très simple, en somme. Pas de bois à couper dans la forêt, faute de forêt, pas de foyer à allumer, faute de combustible, pas même d\'herbe à recueillir pour le repas des animaux. La *Belle-Roulotte* était là, offrant à ses hôtes son confort habituel, sa bonne température, ses couchettes toutes dressées, sa table toute servie, son hospitalité permanente.
+
+Il ne fut nécessaire que de pourvoir à la nourriture de Vermout et de Gladiator avec une portion de fourrage apporté de Port-Clarence. Cela fait, on enveloppa les deux chevaux d\'épaisses couvertures, et ils n\'eurent plus qu\'à se reposer jusqu\'au lendemain. Le perroquet dans sa cage, le singe dans sa banne, ne furent point oubliés, non plus que les deux chiens, très friands de cette viande sèche dont ils se nourrissaient à belles dents.
+
+Enfin, après avoir pris soin des bêtes, M. Serge et ses compagnons soupèrent ou, ce qui est plus juste, vu l\'heure peu avancée, dînèrent de bon appétit.
+
+« Eh !... Eh !... s\'écria M. Cascabel, c\'est peut-être la première fois que des Français font un repas aussi bien servi au milieu du détroit de Behring !
+
+--- C\'est probable, répondit M. Serge. Mais, avant trois ou quatre jours, je compte que nous pourrons nous retrouver à table -- en terme ferme cette fois !
+
+--- À Numana ?... demanda Cornélia.
+
+--- Non, sur l\'îlot Diomède, où nous séjournerons un jour ou deux. Notre attelage va si lentement qu\'il faudra une semaine au moins pour atteindre le littoral asiatique. »
+
+Le repas achevé, bien qu\'il ne fût que cinq heures du soir, personne ne refusa d\'aller prendre du repos. Toute une longue nuit à rester étendu sous les couvertures d\'une bonne couchette, cela n\'est pas à dédaigner, après une pénible marche à travers un champ de glace. M. Cascabel ne jugea même pas qu\'il fût nécessaire de veiller à la sécurité du campement. Pas de mauvaises rencontres à craindre en pareil désert. D\'ailleurs les chiens feraient bonne garde, et signaleraient les rôdeurs -- s\'il s\'en trouvait -- qui s\'approcheraient de la *Belle-Roulotte*.
+
+Cependant, à deux ou trois reprises, M. Serge se releva afin d\'observer l\'état de l\'ice-field qu\'un brusque changement de température pouvait toujours modifier : de ses préoccupations c\'était peut-être la plus grave. Rien n\'était changé à l\'apparence du temps, et une petite brise de nord-est glissait à la surface du détroit.
+
+Le lendemain, le voyage se continua dans les mêmes conditions. Il n\'y eut point de difficultés, à proprement parler, sinon de la fatigue. Trois lieues furent enlevées jusqu\'à l\'heure du repos, et les dispositions prises comme elles l\'avaient été la veille.
+
+Le jour suivant -- 23 octobre -- il ne fut pas possible de partir avant neuf heures du matin et, même à ce moment, c\'est à peine s\'il faisait jour.
+
+M. Serge constata que le froid était moins vif. Quelques nuages s\'accumulaient en désordre à l\'horizon vers le sud-est. Le thermomètre indiquait une certaine tendance à remonter, et ces parages commençaient à être envahis par les pressions faibles.
+
+« Je n\'aime pas cela, Jean ! dit M. Serge. Tant que nous serons engagés sur l\'ice-field, nous ne devons pas nous plaindre, si le froid vient à s\'accentuer. Malheureusement, le baromètre se met à baisser avec le vent qui tourne à l\'aval. Ce que nous avons le plus à redouter, c\'est un relèvement de la température. Surveille bien l\'état de l\'ice-field, Jean, ne néglige aucun indice, et n\'hésite pas à revenir en arrière pour nous prévenir !
+
+--- Comptez sur moi, Monsieur Serge ! »
+
+Évidemment, dès le mois prochain et jusqu\'au milieu d\'avril, les modifications que redoutait M. Serge n\'auraient pu se produire. L\'hiver serait alors franchement établi. Mais, comme il avait été tardif cette année, ses débuts étaient marqués par des alternatives de froid et de dégel, qui pouvaient amener la dislocation partielle du champ de glace. Oui ! Mieux eût valu subir des températures de vingt-cinq à trente degrés au-dessous de zéro pendant cette traversée du détroit.
+
+On partit avec un demi-jour seulement. Les faibles rayons du soleil, très obliquement projetés, ne parvenaient pas à percer l\'épaisse ouate des brumes. En outre, le ciel commençait à se rayer jusqu\'au zénith de nuages bas et longs, que le vent poussait assez rapidement vers le nord.
+
+Jean, en tête, observait avec soin la couche de neige, un peu ramollie depuis la veille, et qui cédait à chaque pas sous les pieds de l\'attelage. Néanmoins une étape de deux lieues environ put être faite, et la nuit ne fut marquée par aucun incident.
+
+Le lendemain -- 24 octobre -- départ à dix heures. Vives inquiétudes de M. Serge, quand il eut constaté un nouveau relèvement de la température -- phénomène vraiment anormal à cette époque de l\'année et sous cette latitude.
+
+Le froid étant moins vif, Cornélia, Napoléone et Kayette voulurent suivre à pied. Chaussées de bottes esquimaudes, elles marchaient assez allégrement. Tous avaient abrité leurs yeux derrière une paire de lunettes indiennes, et s\'habituaient à regarder par l\'étroite fente percée dans l\'oeillère. Cela faisait toujours la joie de ce gamin de Sandre, qui, sans se soucier de fatigue, gambadait comme un jeune chevreau.
+
+En réalité, la voiture n\'avançait pas rapidement. Ses roues entraient profondément dans les amas de neige -- ce qui rendait le tirage très pénible. Lorsque leur jante rencontrait les boursouflures et les arêtes rugueuses des glaçons, il se produisait des chocs que l\'on ne pouvait éviter. Parfois aussi, d\'énormes blocs, entassés les uns sur les autres, barraient le chemin, et obligeaient à faire de longs crochets pour les tourner. Mais ceci n\'était qu\'un allongement de la route, et on devait s\'estimer heureux qu\'elle fût coupée par des tumescences plutôt que par des crevasses. Au moins, la solidité de l\'ice-field n\'était pas compromise.
+
+En attendant, le thermomètre continuait à remonter et le baromètre à baisser avec une régulière lenteur. M. Serge était de plus en plus anxieux. Un peu avant midi, les femmes durent reprendre leur place dans la voiture. La neige se mit à tomber abondamment, par petits flocons transparents, comme si elle eût été sur le point de se résoudre en eau. On eût dit une averse de légères plumes blanches, que des milliers d\'oiseaux auraient secouées à travers l\'espace.
+
+César Cascabel offrit à M. Serge de s\'abriter dans la *Belle-Roulotte*, mais celui-ci refusa. Ce que supportaient ses compagnons, ne pouvait-il de même le supporter ? Cette chute de neige à demi fondue l\'inquiétait au dernier point ; en se liquéfiant, elle finirait par provoquer la désagrégation de l\'ice-field. Il fallait au plus tôt trouver refuge sur l\'inébranlable base de l\'îlot Diomède.
+
+Et pourtant, la prudence commandait de ne s\'avancer qu\'avec une extrême précaution. Aussi M. Serge se décida-t-il à rejoindre Jean à une centaine de pas en avant de l\'attelage, tandis que M. Cascabel et Clou restaient à la tête des chevaux, dont le pied manquait fréquemment. Qu\'un accident arrivât au véhicule, et il n\'y aurait plus d\'autre alternative que de l\'abandonner en plein champ de glace -- c\'eût été une perte irréparable.
+
+Tandis qu\'il marchait près de Jean, M. Serge, muni de sa lorgnette, essayait de fouiller cet horizon de l\'ouest, embrumé sous les tourbillons. La portée de la vue était extrêmement limitée. On n\'allait plus qu\'à l\'estime et, certainement, M. Serge aurait donné le signal d\'arrêt, si la solidité du champ ne lui eût paru très gravement attaquée.
+
+« Coûte que coûte, dit-il, il faut que nous arrivions aujourd\'hui même à l\'îlot Diomède, quitte à y demeurer jusqu\'à la prochaine reprise du froid !
+
+--- À quelle distance pensez-vous que nous en soyons ? demanda Jean.
+
+--- À une lieue et demie environ, Jean. Puisqu\'il nous reste encore deux heures de jour, ou plutôt de cette demi-clarté qui permet de nous maintenir en direction, faisons tous nos efforts pour arriver avant que l\'obscurité soit complète.
+
+--- Monsieur Serge, voulez-vous que je me porte en avant, afin de reconnaître la position de l\'îlot ?...
+
+--- Non, Jean, non ! Tu risquerais de t\'égarer au milieu de cette tourmente, et ce serait une bien autre complication ! Tâchons de nous guider sur la boussole, car si nous dépassions l\'îlot Diomède soit au-dessus, soit au-dessous, je ne sais ce que nous deviendrions...
+
+--- Entendez-vous, monsieur Serge ? » s\'écria Jean, qui venait de se baisser.
+
+M. Serge l\'imita et put constater que de sourds craquements, reproduisant le bruit du verre qui se brise, couraient à travers l\'ice-field. Était-ce l\'indice, sinon d\'une débâcle, du moins d\'une désagrégation partielle ? Malgré cela, aucune fissure n\'en étoilait la surface, si loin que la vue pût s\'étendre.
+
+La situation était devenue extrêmement périlleuse. À passer la nuit dans ces conditions, les voyageurs risquaient d\'être victimes de quelque catastrophe. L\'îlot Diomède, c\'était le seul refuge qui leur fût offert, et il fallait y aborder à tout prix. Combien M. Serge dut regretter de ne pas avoir patienté quelques jours de plus à Port-Clarence !
+
+Jean et lui revinrent près de l\'attelage, et M. Cascabel fut mis au courant de la situation. Il n\'y avait pas lieu d\'en faire connaître aux femmes les conséquences. C\'eût été les effrayer inutilement. On décida donc de les laisser dans la voiture, et chacun se mit aux roues pour soulager les chevaux éreintés, à demi fourbus, dont le poil suait sous les rafales.
+
+Vers deux heures, la tombée de la neige diminua sensiblement. Elle se réduisit bientôt à quelques flocons épars que la brise faisait tourbillonner dans l\'air. Il devint alors plus facile de conserver une direction efficace. On poussa vigoureusement l\'attelage. M. Serge était bien résolu à ne point s\'arrêter, tant que la *Belle-Roulotte* ne reposerait pas sur les roches de l\'îlot Diomède.
+
+D\'après ses calculs, cet îlot ne devait plus être maintenant qu\'à une demi-lieue vers l\'ouest et, en donnant un bon coup de collier, peut-être suffirait-il d\'une heure pour en accoster la grève.
+
+Par malheur, la clarté, déjà si douteuse, ne tarda pas à s\'affaiblir, au point d\'être réduite à une vague réverbération. Était-on ou non en bonne route, et fallait-il continuer à marcher dans ce sens ?... Comment le vérifier ?
+
+En ce moment, les deux chiens firent entendre de vifs aboiements. Signalaient-ils l\'approche d\'un danger ? N\'avaient-ils pas éventé quelque bande d\'Esquimaux ou de Tchouktches, de passage à travers le détroit ? Dans ce cas, M. Serge n\'hésiterait pas à réclamer l\'assistance de ces indigènes et, tout au moins, il chercherait à être fixé sur la position exacte de l\'îlot.
+
+En même temps, une des petites fenêtres de la voiture venait de s\'ouvrir, et on entendit Cornélia demander pourquoi Wagram et Marengo aboyaient de la sorte.
+
+Réponse lui fut faite qu\'on ne savait encore, mais qu\'il n\'y avait pas lieu de s\'alarmer.
+
+« Faut-il descendre ?... ajouta-t-elle.
+
+--- Non, Cornélia ! répondit M. Cascabel. Les fillettes et toi, vous êtes bien où vous êtes !... Restez-y !
+
+--- Mais si les chiens ont senti quelque animal... un ours, par exemple ?....
+
+--- Eh bien, ils nous le diront ! D\'ailleurs, tiens les fusils prêts ! Surtout, défense de descendre !
+
+--- Refermez votre fenêtre, madame Cascabel, dit M. Serge. Il n\'y a pas une minute à perdre !... Nous nous remettons en route à l\'instant ! »
+
+L\'attelage, qui s\'était arrêté aux premiers aboiements des chiens, reprit sa pénible marche.
+
+Pendant une demi-heure, la *Belle Roulotte* put s\'avancer un peu plus vite, car la surface de l\'ice-field était moins rugueuse. Les chevaux, véritablement surmenés, la tête basse, le jarret détendu, tiraient de tout leur courage. On sentait que c\'était là un dernier effort, et qu\'ils ne tarderaient pas à s\'abattre, si cet effort devait se prolonger.
+
+A peine faisait-il jour. Ce qui restait de lumière diffuse à travers l\'espace semblait plutôt venir de la surface du champ que de la clarté des hautes zones.
+
+Et les deux chiens qui ne cessaient d\'aboyer, courant en avant, s\'arrêtant le museau en l\'air, la queue droite et immobile, puis revenant auprès de l\'attelage !
+
+« Il y a certainement quelque chose d\'extraordinaire ! fit observer M. Cascabel.
+
+--- Il y a l\'îlot Diomède ! » s\'écria Jean.
+
+Et il montrait un amas de roche, qui s\'arrondissait confusément à quelques centaines de pas vers l\'ouest.
+
+Et la preuve que Jean ne se trompait pas, c\'est que cet amas était tacheté de points noirs, dont la couleur ressortait en vigueur sur la blancheur des glaçons.
+
+« En effet, ce doit être l\'îlot, dit M. Serge.
+
+--- Est-ce que je ne les vois pas remuer, ces points noirs ? s\'écria M. Cascabel.
+
+--- Remuer ?...
+
+--- Oui !
+
+--- Ce sont, sans doute, plusieurs milliers de phoques qui ont cherché refuge sur l\'îlot....
+
+--- Plusieurs milliers de phoques ? répondit M. Cascabel.
+
+--- Ah ! Monsieur patron, s\'écria Clou-de-Girofle, quel coup de fortune, si nous pouvions nous en emparer pour les montrer à la foire !
+
+--- Et s\'ils disaient « papa ! » ajouta Sandre.
+
+N\'était-ce pas le cri du coeur d\'un jeune saltimbanque !
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b2 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-2. .calibre171 .sigil_not_in_toc}
+
+La *Belle-Roulotte* était enfin sur la terre ferme, n\'ayant plus à redouter que le champ de glace s\'effondrât. On imagine aisément combien la famille Cascabel devait apprécier l\'avantage de sentir un sol inébranlable sous ses pieds.
+
+L\'obscurité s\'était faite alors. Les mêmes dispositions que la veille furent prises pour le campement, cinq ou six cents pas à l\'intérieur de l\'îlot Diomède. Puis, on s\'occupa des bêtes, et ensuite des « gens d\'esprit », selon l\'expression de César Cascabel.
+
+Du reste, il ne faisait pas froid précisément. La colonne thermométrique n\'indiquait plus que quatre degré au-dessous de zéro. Peu important, en réalité. Pendant la durée de cette halte, il n\'y aurait rien à craindre du relèvement de la température. On attendrait qu\'une température plus basse eût rendu définitive la solidification de l\'ice-field. L\'hiver ne pouvait tarder à s\'établir dans toute sa rigueur.
+
+La nuit étant complète, M. Serge remit au lendemain l\'exploration qu\'il voulait faire de l\'îlot. En premier lieu, on ne songea qu\'à prendre les meilleures dispositions en ce qui concernait l\'attelage, auquel il fallait bonne nourriture et bon repos, car les chevaux étaient exténués. Puis, le souper servi, chacun vint en réclamer sa part, ayant hâte de s\'étendre sur sa couchette, après de si rudes fatigues.
+
+La *Belle-Roulotte* fut bientôt plongée dans le sommeil et, cette nuit-là, Cornélia ne rêva ni de débâcles ni de gouffres, où s\'engloutissait sa maison roulante.
+
+Le lendemain -- 25 octobre -- dès que la clarté du jour fut suffisante, M. Serge, César Cascabel et ses deux fils vinrent reconnaître l\'état de l\'îlot.
+
+Ce qui les surprit tout d\'abord, ce fut l\'incroyable quantité de ces phoques, connus sous le nom d\'otaries à fourrure, qui s\'y étaient réfugiés.
+
+Effectivement, c\'est dans cette portion de la mer de Behring, limitée au sud par le cinquantième degré de latitude septentrionale, que ces animaux se rencontrent peut-être en masses plus considérables.
+
+En examinant la carte, on ne manquera pas d\'être frappé de la configuration que présentent les deux côtes américaine et asiatique et surtout de leur ressemblance. En regard l\'une de l\'autre, c\'est le même profil, qui se dessine assez nettement : la terre du Prince-de-Galles fait pendant à la presqu\'île des Tchouktches ; le golfe de Norton fait pendant au golfe de l\'Anadyr\', l\'extrémité de la presqu\'île alaskienne se courbe comme la presqu\'île du Kamtchatka, et le tout est fermé par le chapelet des îles Aléoutiennes. On ne peut en conclure, pourtant, que l\'Amérique ait été brusquement séparée de l\'Asie par quelque convulsion de l\'époque préhistorique, laquelle aurait ouvert le détroit de Behring, car ce ne sont point les angles saillants d\'un littoral qui correspondent aux angles rentrants de l\'autre.
+
+Iles nombreuses au milieu de ces parages : Saint-Laurent, déjà citée, Nunivak, sur le littoral américain, Karaghinskii, sur le littoral asiatique ; puis, non loin des rivages du Kamtchatka, l\'île Behring, accostée de la petite île de Cuivre et, à peu de distance des rivages alaskiens, les îles Pribilov. La ressemblance des côtes est donc complétée par une disposition identique des archipels.
+
+Or, précisément, ces îles Pribilov et l\'île de Behring servent plus spécialement de résidence aux colonies de phoques qui fréquentent cette mer. C\'est par millions que l\'on peut les y compter. Aussi est-ce le rendez-vous des chasseurs de profession d\'otaries et de loutres de mer, ces dernières, très nombreuses il y a moins d\'un siècle, maintenant raréfiées par une destruction à outrance.
+
+Quant aux otaries -- nom générique sous lequel on comprend les lions de mer, les vaches de mer, les ours de mer -- elles s\'y agglomèrent par troupes innombrables, et la race ne semble pas en devoir jamais s\'éteindre. Et cependant, tant que dure la saison chaude, quelle chasse on leur donne ! Sans trêve ni merci, les pêcheurs les relancent jusque dans les « rookeries », ces sortes de parcs, où se groupent les familles. Ce sont surtout les adultes qui sont impitoyablement traqués, et ces animaux finiraient par disparaître, n\'était leur fécondité extraordinaire.
+
+Calcul fait, depuis l\'année 1867 jusqu\'à l\'année 1880, trois cent quatre-vingt-huit mille neuf cent quatre-vingt-deux otaries ont été détruites rien que dans les réserves de l\'île de Behring. Sur les îles Pribilov, pendant un siècle, c\'est un stock de trois millions cinq cent mille peaux qu\'ont recueilli les pêcheurs alaskiens et, annuellement encore, ils n\'en fournissent pas moins de cent mille.
+
+Et combien n\'en reste-t-il pas sur les autres îles de la mer de Behring ! M. Serge et ses compagnons pouvaient en juger d\'après ce qu\'ils voyaient à l\'îlot Diomède. Toute la grève était couverte d\'un fourmillement de phoques, massés les uns près des autres, et rien n\'apparaissait du tapis de neige sur lequel ils reposaient.
+
+Toutefois, si on les regardait, eux aussi regardaient ces visiteurs de l\'îlot. Immobiles, inquiets, peut-être irrités de cette prise de possession de leur domaine, ils ne cherchaient point à fuir et faisaient parfois entendre une sorte de bêlement prolongé, où l\'on sentait une certaine colère. Puis, se redressant, ils agitaient vivement leurs pattes, ou plutôt leurs nageoires, déployées en forme d\'éventail.
+
+Ah ! Si, comme l\'avait souhaité le jeune Sandre, ces milliers de phoques eussent été doués du don de parole, quel tonnerre de « papas » serait sorti de leurs lèvres à moustaches !
+
+Il va sans dire que ni M. Serge ni Jean ne songeaient à donner la chasse à cette armée d\'amphibies. Et pourtant, il y avait là une fortune de « fourrures sur pied », disait M. Cascabel. Mais c\'eût été un massacre inutile et même dangereux. Ces animaux, redoutables par leur nombre, auraient pu rendre très périlleuse la situation de la *Belle-Roulotte*. Aussi M. Serge recommanda-t-il la plus extrême prudence.
+
+Et maintenant, la présence de ces phoques sur l\'îlot ne contenait-elle pas une indication qu\'il convenait de ne point négliger ? N\'y avait-il pas lieu de se demander pourquoi ces animaux s\'étaient réfugiés sur cet amoncellement de roches, qui ne leur offrait aucune ressource ?
+
+Il y eut à ce sujet une très sérieuse discussion à laquelle prirent part M. Serge, César Cascabel et son fils aîné. Ils s\'étaient portés sur la partie centrale de l\'îlot, tandis que les femmes s\'occupaient du ménage, laissant à Clou et à Sandre le soin de pourvoir aux besoins des animaux.
+
+Ce fut M. Serge qui provoqua cette discussion en disant :
+
+« Mes amis, il s\'agit de savoir s\'il ne vaut pas mieux abandonner l\'îlot Diomède, dès que l\'attelage sera reposé, que d\'y prolonger notre halte !...
+
+--- Monsieur Serge, répondit César Cascabel, je pense qu\'il ne faut point s\'attarder à jouer les Robinsons suisses sur ce rocher !... Je vous l\'avoue, j\'ai hâte de sentir sous mon talon un morceau de la côte sibérienne !
+
+--- Je le comprends, père, reprit Jean, et pourtant il ne convient pas non plus de s\'exposer comme nous l\'avons fait en nous lançant à travers le détroit. Sans cet îlot, que serions-nous devenus ? Il y a encore une dizaine de lieues jusqu\'à Numana...
+
+--- Eh bien, Jean, en donnant quelques bons coups de collier, on pourrait enlever cela en deux ou trois étapes...
+
+--- Ce serait difficile, répondit Jean, même si l\'état de l\'ice-field le permettait !
+
+--- Je pense que Jean a raison, fit observer M. Serge. Que nous ayons hâte d\'avoir traversé le détroit, cela va de soi ; mais, puisque la température s\'est adoucie d\'une façon si imprévue, il me semble qu\'il ne serait guère prudent de quitter la terre ferme. Nous sommes partis trop tôt de Port-Clarence, tâchons de ne pas partir trop tôt de l\'îlot Diomède ! Ce qui est certain, c\'est que le détroit n\'est pas pris avec solidité sur toute son étendue...
+
+--- Et de là viennent ces craquements que j\'entendais hier soir, ajouta Jean. Ils sont, c\'est évident, dus à l\'insuffisante agrégation des glaces...
+
+--- Oui, cela est une preuve, répondit M. Serge, et il y en a aussi une autre...
+
+--- Laquelle ?... demanda Jean.
+
+--- Celle-ci qui me paraît non moins probante : c\'est la présence de ces milliers de phoques que leur instinct a poussés à envahir l\'îlot Diomède. Sans doute, après avoir quitté les hauts parages de cette mer, ces animaux se dirigeaient vers l\'île de Behring ou les îles Aléoutiennes, quand ils ont prévu quelque trouble prochain. Ils auront senti qu\'il ne fallait pas rester sur l\'ice-field. Est-ce une dislocation qui se prépare sous l\'influence de la température, ou bien va-t-il se produire quelque phénomène sous-marin, qui rompra le champ de glace ? Je ne sais. Mais, si nous sommes pressés de gagner la côte sibérienne, ces amphibies ne doivent pas être mois pressés de gagner leurs rookeries de l\'île Behring ou des îles Pribilov, et, puisqu\'ils se sont arrêtés sur l\'îlot Diomède, c\'est qu\'ils ont eu de très sérieuses raisons pour le faire.
+
+--- Et alors quel est votre avis, monsieur Serge ?... demanda M. Cascabel.
+
+--- Mon avis est de demeurer ici, tant que les phoques ne nous auront pas indiqué, en partant eux-mêmes, qu\'il n\'y a pas de danger à se remettre en route.
+
+--- Diable !... Voilà un satané contretemps !
+
+--- Il n\'est pas bien grave, père, répondit Jean, et souhaitons de n\'en jamais éprouver qui le soient davantage !
+
+--- D\'ailleurs, cet état de choses ne saurait durer, ajouta M. Serge. Si peu précoce que soit l\'hiver, cette année, nous voilà bientôt à la fin d\'octobre, et, quoique le thermomètre ne marque en ce moment que zéro, il peut tomber d\'un jour à l\'autre d\'une vingtaine de degrés. Que le vent vienne à sauter au nord, l\'ice-field sera aussi solide qu\'un continent. Donc, mon avis très réfléchi est d\'attendre, si rien ne nous oblige à partir. »
+
+C\'était prudent, à tout le moins. Aussi fut-il décidé que la *Belle-Roulotte* séjournerait sur l\'îlot Diomède, aussi longtemps que le passage du détroit ne serait pas assuré par un froid intense.
+
+Pendant cette journée, M. Serge et Jean visitèrent en partie cette base granitique qui leur offrait toute sécurité. L\'îlot mesurait trois kilomètres de circonférence. Même l\'été, il devait être absolument aride. Un entassement de roches, rien de plus. Néanmoins, il eût suffi à recevoir les piles du fameux pont de Behring que réclamait Mme Cascabel, si jamais les ingénieurs russes et américains songeaient à réunir deux continents -- contrairement à ce que fait si volontiers M. De Lesseps.
+
+Tout en se promenant, les visiteurs prenaient bien garde d\'effrayer les phoques. Et pourtant, il était visible que la présence d\'êtres humains maintenait ces animaux dans un état de surexcitation au moins singulier. Il y avait de grand mâles, qui poussaient des cris rauques, en rassemblant autour d\'eux leurs familles, très nombreuses pour la plupart, car ils sont polygames, et quarante à cinquante adultes ne reconnaissent qu\'un seul père.
+
+Ces dispositions peu amicales ne laissèrent pas de préoccuper M. Serge, surtout lorsqu\'il eut remarqué une certaine propension de ces amphibies à se porter vers le campement. Isolément, ils n\'étaient point à redouter ; mais il serait difficile, impossible même de résister à de telles masses, si leur humeur les poussait à chasser les intrus qui étaient venus leur disputer la possession de l\'îlot Diomède. Jean fut également très frappé de cette particularité, et M. Serge et lui revinrent assez alarmés.
+
+La journée s\'acheva sans incident, si ce n\'est que la brise, qui soufflait du sud-est, tourna au coup de vent. Manifestement, il se préparait quelque grosse tempête, peut-être une de ces bourrasques arctiques, dont la durée excède plusieurs jours, -- ce qu\'indiquait une brusque baisse de la colonne barométrique, tombée à soixante-douze centimètres.
+
+La nuit s\'annonçait donc très mal. Et, par surcroît, dès que tous eurent pris place dans les compartiments de la *Belle-Roulotte*, des hurlements, sur la nature desquels il n\'y avait pas à se méprendre, accrurent le fracas des rafales. Les phoques avaient gagné du côté du véhicule et commençaient à le déborder. Les chevaux hennissaient de peur, craignant d\'être attaqués par ces bandes, contre lesquelles Wagram et Marengo aboyaient avec une rage inutile. Il fallut se relever, s\'élancer au dehors, ramener Vermout et Gladiator, afin de veiller sur eux. Les revolvers et les fusils furent chargés. Toutefois M. Serge recommanda de ne s\'en servir qu\'à la dernière extrémité.
+
+La nuit était noire. Comme on ne pouvait rien voir au milieu de cette profonde obscurité, les fanaux furent allumés. En rayonnant, leurs faisceaux permirent d\'apercevoir des milliers de phoques, entourant la *Belle-Roulotte*, et, qui, sans doute, n\'attendaient que le jour pour l\'assaillir.
+
+« S\'ils nous attaquent, toute résistance sera impossible, dit M. Serge, et nous risquerions d\'être accablés !
+
+--- Que faire alors ?... dit Jean.
+
+--- Il faut partir !
+
+--- Quand ?... demanda M. Cascabel.
+
+--- À l\'instant ! » répondit M. Serge.
+
+Devant ce danger, très grave assurément, M. Serge avait-il raison de vouloir quitter l\'îlot ? Oui, et c\'était le seul parti à prendre. Très probablement, les phoques ne voulaient que chasser les êtres qui s\'étaient régugiés sur leur domaine, et ils ne s\'acharneraient pas à les poursuivre à travers l\'ice-field. Quant à tenter de les disperser par la force, c\'eût été plus qu\'imprudent. Que pouvaient des fusils et des revolvers contre ces milliers d\'animaux ?
+
+Les chevaux furent attelés, les femmes remontèrent dans leurs compartiments, et les hommes, prêts à la défensive, se placèrent de chaque côté du véhicule, qui commença à redescendre vers l\'ouest.
+
+La nuit était tellement épaisse que c\'est à peine si les fanaux parvenaient à éclairer le champ sur une vingtaine de pas. En même temps, la bourrasque se déchaînait avec plus de furie. Il ne neigeait pas, et les flocons, qui papillonnaient dans l\'air, étaient ceux que le vent arrachait à la surface de l\'ice-field.
+
+Et encore si la solidification eût été complète ! Or, il n\'en était rien. On sentait les glaçons s\'entrouvrir au milieu de craquements prolongés. Il se produisait des fissures par lesquelles l\'eau de la mer jaillissait en gerbe. M. Serge et ses compagnons allèrent ainsi pendant une heure, ayant à chaque instant cette crainte que le champ de glace se brisât sous leurs pieds. Suivre une direction exacte devenait impraticable, quoique Jean essayât de la relever tant bien que mal sur l\'aiguille de la boussole. Par bonheur, à marcher vers l\'ouest, il n\'en était plus comme de l\'îlot Diomède, que l\'on avait pu craindre de dépasser soit au nord, soit au sud sans l\'avoir reconnu. La côte sibérienne s\'étendait à une dizaine de lieues sur les trois quarts de l\'horizon, et on ne pouvait la manquer.
+
+Mais il fallait y arriver, et la première condition, c\'était que la *Belle-Roulotte* ne s\'engloutît pas dans les profondeurs de la mer de Behring !
+
+Cependant, si ce danger était le plus à redouter, il n\'était pas le seul. À chaque instant, prise d\'écharpe par cette rafale du sud-est, la voiture risquait d\'être culbutée. Par prudence, il avait même fallu en faire descendre Cornélia, Napoléone et Kayette. MM. Serge et Cascabel, Jean, Sandre et Clou se cramponnaient aux roues, luttaient pour la retenir contre le vent. On comprend quel peu de chemin devaient accomplir les chevaux dans ces conditions, alors qu\'ils sentaient le sol fuir sous leurs pieds.
+
+Vers cinq heures et demie du matin -- 26 octobre -- au milieu de ténèbres aussi profondes que celles qui baignent les espaces interstellaires, on fut obligé de s\'arrêter. L\'attelage ne pouvait plus avancer. Des dénivellations agitaient la surface du champ, soulevé par cette houle que la bourrasque chassait des parages inférieurs de la mer de Behring.
+
+« Comment nous tirer de là ?... dit Jean. -- Il faut retourner à l\'îlot ! s\'écria Cornélia, qui ne parvenait pas à calmer l\'épouvante de Napoléone.
+
+--- Ce n\'est plus possible maintenant ! répondit M. Serge.
+
+--- Et pourquoi ?... répliqua M. Cascabel. J\'aime encore mieux me battre contre des phoques que de...
+
+--- Je vous répète qu\'il nous est maintenant interdit de retourner à l\'îlot ! affirma M. Serge. Il faudrait marcher contre la rafale, et notre voiture ne pourrait résister ! Elle sera démolie, si ne elle fuit pas devant la tourmente !...
+
+--- Pourvu que nous ne soyons pas obligés de l\'abandonner !... dit Jean.
+
+--- L\'abandonner ! s\'écria M. Cascabel. Et que deviendrions-nous sans notre *Belle-Roulotte* !....
+
+--- Nous ferons tout pour ne point en être réduits là ! répondit M. Serge. Oui !... cette voiture, c\'est notre salut, et nous essaierons de la sauver à tout prix...
+
+--- Ainsi il n\'est pas possible de revenir en arrière ?... demanda M. Cascabel.
+
+--- Non, et il faut continuer d\'aller en avant ! répondit M. Serge. Du courage, du sang-froid, et nous finirons bien par atteindre Numana ! »
+
+Ces paroles eurent pour effet de ranimer tout le monde. Il était trop évident que le vent empêchait le retour vers l\'îlot Diomède. Il soufflait du sud-est avec une telle impétuosité que ni bêtes ni gens n\'eussent réussi à marcher contre lui. La *Belle-Roulotte* ne pouvait même plus demeurer stationnaire. Rien qu\'en essayant de résister au déplacement de l\'air, elle eût été chavirée.
+
+Le jour s\'était à demi fait vers dix heures -- un jour blafard et brumeux. Les nuages, bas et déchiquetés, semblaient traîner des lambeaux de vapeur à travers le détroit, qu\'ils balayaient furieusement. Dans le tourbillon des neiges, de petits éclats de glace, détachés du banc, volaient comme une mitraille de grêlons. En des conditions si pénibles, on ne fit qu\'une demi-lieue pendant une heure et demie, car il fallait éviter les flaques d\'eau et contourner les glaçons accumulés sur l\'ice-field. Au-dessous, la houle du large lui imprimait de rudes oscillations, une sorte de roulis qui provoquait des craquements continus.
+
+Soudain, vers midi trois quarts, une violente secousse se produisit. Un réseau de fissures étoila largement le champ en rayonnant autour du véhicule... Une crevasse, mesurant trente pieds de diamètre, s\'était ouverte sous les pieds de l\'attelage.
+
+Sur un cri de M. Serge, ses compagnons s\'arrêtèrent à quelques pas de cette crevasse.
+
+« Nos chevaux !... Nos chevaux !... s\'écria Jean. Père, sauvons nos chevaux !... »
+
+Il était trop tard. La glace ayant fléchi, les deux malheureuses bêtes venaient de disparaître. Si le timon ainsi que les traits ne se fussent rompus, la *Belle-Roulotte* eût été également entraînée dans les profondeurs de la mer.
+
+« Nos pauvres bêtes ! » s\'écria M. Cascabel, désespéré.
+
+Oui ! Ces vieux amis du saltimbanque, qui avaient couru le monde à sa suite, ces fidèles compagnons, qui avaient si longtemps partagé son existence foraine, étaient engloutis ! De grosses larmes mouillèrent les yeux de M. Cascabel, de sa femme et de ses enfants...
+
+« En arrière !... en arrière ! » avait crié M. Serge.
+
+Et, en se mettant aux roues de la voiture, on parvint non sans peine à l\'éloigner de cette crevasse, qui s\'élargissait avec les oscillations du champ. Elle recula ainsi d\'une vingtaine de pieds, en dehors du cercle de dislocation.
+
+La situation n\'en était pas moins très compromise. Que faire à présent ? Abandonner la *Belle-Roulotte* au milieu du détroit, puis revenir la chercher avec un attelage de rennes, après avoir gagné Numana ?... Il semblait bien qu\'il n\'y eût pas d\'autre parti à prendre.
+
+Tout à coup, Jean de s\'écrier :
+
+« Monsieur Serge, monsieur Serge !... Regardez !... Nous sommes en dérive !...
+
+--- En dérive ?... »
+
+Ce n\'était que trop vrai !
+
+A n\'en pas douter, une débâcle générale venait de mettre les glaces en mouvement entre les deux rives du détroit. Les secousses de la tempête, jointes au relèvement de la température, avaient brisé le champ, insuffisamment cimenté dans sa partie médiane. De larges passes s\'étaient ouvertes vers le nord par suite du déplacement des glaçons, dont les uns s\'étaient engagés sur l\'ice-field, et les autres dessous. Cela permettait à l\'îlot flottant, qui portait le véhicule, de dériver sous l\'impulsion de l\'ouragan. Quelques icebergs, immobilisés, étaient autant de points de repère, d\'après lesquels M. Serge put relever le sens de la dérive.
+
+On voit dans quelle mesure s\'était aggravée la situation, déjà si inquiétante depuis la perte de l\'attelage. Il n\'était plus possible de gagner Numana, même en abandonnant la voiture. Ce n\'était plus des crevasses que l\'on aurait pu tourner, c\'étaient des passes multiples qu\'il n\'y avait aucun moyen de franchir, et dont l\'orientation changeait suivant les caprices de la houle. Et puis, ce glaçon qui entraînait la *Belle-Roulotte*, et dont il n\'y avait pas à enrayer la marche, combien de temps résisterait-il au choc des lames, qui venaient se briser sur ses bords ?
+
+Non ! Il n\'y avait rien à faire ! Tenter de se diriger, de manière à rallier le littoral sibérien, cela était au-dessus des forces humaines. Le bloc flottant irait ainsi tant qu\'un obstacle ne l\'arrêterait pas, et qui sait si cet obstacle ne serait pas la banquise même aux extrêmes limites de la mer Polaire !
+
+Vers deux heures de l\'après-midi, au milieu de l\'assombrissement qu\'accroissaient les traînées de brouillard, secouées dans l\'espace, l\'obscurité était déjà suffisante pour limiter la vue dans un très court rayon. Abrités et tournés du côté qui regardait le nord, M. Serge et ses compagnons demeuraient silencieux. Qu\'auraient-ils pu dire puisqu\'il n\'y avait rien à tenter ? Cornélia, Kayette et Napoléone, enveloppées de couvertures, se blottissaient étroitement les unes contre les autres. Le jeune Sandre, plus surpris qu\'inquiet, sifflotait un air. Clou s\'occupait de remettre en ordre les objets déplacés par la secousse à l\'intérieur des compartiments. Si M. Serge et Jean avaient conservé leur sang-froid, il n\'en était pas ainsi de M. Cascabel, qui s\'accusait d\'avoir entraîné tout son monde dans une pareille aventure.
+
+Tout d\'abord il importait de bien se rendre compte de la situation. On ne l\'a point oublié, deux courants se propagent en sens inverse à travers le détroit de Behring. L\'un descend au sud, l\'autre remonte au nord. Le premier est le courant du Kamtchatka, le second est le courant du détroit de Behring. Si le glaçon, chargé du personnel et du matériel de la *Belle-Roulotte*, était saisi par le premier, il serait inévitablement ramené, et il y avait des chances pour qu\'il atterrît à la côte sibérienne. Si, au contraire, il tombait dans l\'attraction du second, il serait repoussé vers les parages de la mer Glaciale, où ni continent ni groupe d\'îles ne pourraient l\'arrêter.
+
+Par malheur, à mesure que l\'ouragan prenait plus de force, il halait le sud. Au fond de cet entonnoir formé par le détroit, se faisait un appel d\'air dont on ne saurait imaginer la violence, en même temps que le vent déviait peu à peu de sa première direction.
+
+C\'est ce que M. Serge et Jean avaient pu constater. Aussi voyaient-ils que toute chance leur échappait d\'être pris par le courant du Kamtchatka. Relevée à la boussole, la dérive inclinait vers le nord. Y avait-il donc lieu d\'espérer que le glaçon serait porté jusqu\'à la presqu\'île du Prince-de-Galles, sur la côte de l\'Alaska, en vue de Port-Clarence ? C\'eût été un dénouement vraiment providentiel aux éventualités de cette dérive. Mais le détroit s\'évase par un angle si ouvert, entre le cap Oriental et le cap du Prince-de-Galles, qu\'il eût été imprudent de s\'abandonner à cet espoir.
+
+La place devenait presque intenable à la surface du glaçon, où personne ne pouvait rester debout, tant la tourmente faisait rage. Jean, qui voulut aller observer l\'état de la mer à sa partie antérieure, fut renversé, et, sans l\'intervention de M. Serge, il aurait été précipité dans les flots.
+
+Quelle nuit passèrent ces malheureux -- ou plutôt ces naufragés, car ils étaient là comme les survivants d\'un naufrage ! Quelles transes à chaque instant ! Des icebergs, de masse considérable, venaient parfois heurter leur îlot flottant, avec de tels craquements et de telles secousses qu\'il menaçait de se disloquer. De lourds paquets de mer passaient à sa surface, le submergeant comme s\'il se fût enfoncé dans l\'abîme. Tous étaient transis sous ces froides douches, que le vent pulvérisait au-dessus de leur tête. Ils ne seraient parvenus à les éviter qu\'en rentrant dans la voiture ; mais elle chancelait sous les coups de rafale, et ni M. Serge ni M. Cascabel n\'osaient conseiller d\'y chercher refuge.
+
+D\'interminables heures s\'écoulèrent ainsi. Cependant les passes devenaient de plus en plus larges, la dérive s\'opérait avec moins de chocs. Le glaçon s\'était-il détaché de la portion étranglée du détroit, dont l\'ouverture s\'évasait à quelques lieues de là sur la mer Glaciale ? Avait-il atteint les parages situés au-dessus du Cercle polaire ? Le courant de Behring l\'avait-il, en définitive, emporté sur le courant du Kamtchatka ? Dans ce cas, si les côtes de l\'Amérique ne l\'arrêtaient pas, n\'était-il pas à craindre qu\'il fut entraîné jusqu\'au pied de l\'énorme banquise ?
+
+Combien le jour tardait à venir ! -- ce jour qui permettrait sans doute de reconnaître exactement la situation. Les pauvres femmes priaient... Leur salut ne pouvait plus venir que de Dieu.
+
+Le jour parut enfin -- 27 octobre. Il n\'amena aucun apaisement des troubles atmosphériques. Il sembla même que la furie de la tempête redoublait avec le lever du soleil.
+
+M. Serge et Jean, la boussole à la main, interrogèrent l\'horizon : En vain cherchèrent-ils à découvrir quelque haute terre dans la direction de l\'est et de l\'ouest...
+
+Le glaçon -- cela n\'était que trop certain -- avait dérivé vers le nord sous l\'action du courant de Behring.
+
+Comme on le pense, cette tempête avait causé aux habitants de Port-Clarence les plus vives inquiétudes sur le sort de la famille Cascabel. Mais comment auraient-ils pu lui porter secours, puisque la débâcle interdisait toute communication entre les deux rives du détroit ?...
+
+Il en fut de même au port de Numana, où les deux agents russes, qui avaient passé quarante-huit heures avant elle, avaient annoncé le départ de la *Belle-Roulotte*. En réalité, s\'ils éprouvèrent quelque anxiété pour ceux qui l\'accompagnaient, ce ne fut point par sympathie. On sait qu\'ils attendaient le comte Narkine sur la côte sibérienne, où ils comptaient s\'emparer de sa personne... et il était probable que le comte Narkine avait péri dans ce désastre avec toute la famille Cascabel.
+
+Et, trois jours après, il n\'y eut plus lieu d\'en douter, lorsque le courant eut rejeté deux cadavres de chevaux dans une petite crique du littoral. C\'étaient ceux de Vermout et Gladiator, qui composaient l\'unique attelage des saltimbanques.
+
+« Ma foi, dit l\'un des agents, nous avons bien fait de traverser le détroit avant notre homme !...
+
+--- Oui, répondit l\'autre, mais ce qui est fâcheux, c\'est d\'avoir manqué une si belle affaire ! »
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b4 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-3. .calibre171 .sigil_not_in_toc}
+
+On connait maintenant quelle était la situation des naufragés à la date du 27 octobre. Auraient-ils pu se faire illusion sur leur sort, garder le plus frêle espoir ?... En dérive à travers le détroit de Behring, leur dernière chance eût été d\'être attirés par le courant du sud, puis ramenés à la côte asiatique... C\'était le courant du nord qui les entraînait au large !
+
+Une fois engagé à travers la mer Glaciale, que deviendrait le glaçon, s\'il ne se dissolvait pas, s\'il résistait aux chocs ? Irait-il se perdre sur quelque terre arctique ? Poussé par les vents d\'est qui dominaient alors, pendant des centaines de lieues, ne serait-il pas jeté sur les écueils du Spitzberg ou de la Nouvelle-Zemble ? Dans ce dernier cas, bien que ce ne pût être qu\'au prix d\'effroyables fatigues, les naufragés parviendraient-ils à regagner le continent ?
+
+C\'est aux conséquences de cette dernière hypothèse que songeait M. Serge. Il en causait avec M. Cascabel et Jean, tout en fouillant du regard l\'horizon perdu au milieu des brumes.
+
+« Mes amis, dit-il, nous sommes, sans nul doute, en grand péril, puisque le glaçon peut à chaque instant se rompre, et qu\'il nous est impossible de l\'abandonner...
+
+--- Est-ce là le plus grand danger qui nous menace ? demande M. Cascabel.
+
+--- Pour le moment, oui ! répondit M. Serge, mais, avec la reprise du froid, ce danger diminuera et finira même par disparaître. Or, à cette époque et sous cette latitude, il est impossible que le relèvement de la température se maintienne au-delà de quelques jours.
+
+--- Vous avez raison, monsieur Serge, dit Jean. Seulement, si le glaçon résiste... où ira-t-il ?
+
+--- À mon avis, ce ne sera jamais très loin, et il ne tardera pas à se souder à quelque ice-field. Alors, dès que la mer sera définitivement prise, nous essaierons de gagner le continent, afin de reprendre notre ancien itinéraire...
+
+--- Et comment remplacerons-nous notre attelage englouti ? s\'écria M. Cascabel. Ah ! Mes pauvres bêtes ! Mes pauvres bêtes !... Monsieur Serge, ces braves serviteurs, ils faisaient partie de la famille, et c\'est ma faute si... »
+
+M. Cascabel ne pouvait se consoler. Son chagrin débordait. Il s\'accusait d\'avoir causé cette catastrophe. Des chevaux traverser une mer, est-ce que cela s\'était jamais vu ?... Et il pensait plus à eux peut-être qu\'aux embarras qu\'entraînait leur disparition.
+
+« Oui ! C\'est un irréparable malheur dans les conditions où nous a mis cette débâcle, dit M. Serge. Que nous autres, hommes, nous puissions supporter les privations, les fatigues qui résulteront de cette perte, soit ! Mais Mme Cascabel, mais Kayette, Napoléone, presque des enfants, comment feront-elles, lorsque nous aurons abandonné la *Belle-Roulotte*...
+
+--- L\'abandonner !... s\'écria M. Cascabel.
+
+--- Il le faudra bien, père !
+
+--- Vraiment, dit M. Cascabel, en se menaçant de son propre poing, c\'était tenter Dieu que d\'entreprendre un tel voyage !... Suivre une pareille route pour revenir en Europe !
+
+--- Ne vous laissez pas abattre, mon ami, répondit M. Serge. Envisageons le danger sans faiblir. C\'est le plus sûr moyen de le surmonter !
+
+--- Voyons, père, ajouta Jean, ce qui est fait est fait, et nous avons tous été d\'accord pour le faire. Ne t\'accuse donc pas d\'avoir été trop imprudent, et retrouve ton énergie d\'autrefois. »
+
+Mais, malgré ces encouragements, M. Cascabel était accablé, et sa confiance en lui-même, sa philosophie naturelle, avaient reçu un rude coup.
+
+En attendant, M. Serge cherchait, par tous les moyens à sa disposition, boussole consultée, points de repères reconnus, à se rendre compte de la direction du courant. C\'est même à ce genre d\'observations qu\'il consacra les quelques heures de jour dont s\'éclairait l\'horizon.
+
+Ce travail n\'était pas facile, car les points de repère se modifiaient sans cesse. Du reste, au-delà du détroit, la mer paraissait être libre sur une vaste étendue. On le voyait avec cette température anormale, jamais l\'ice-field arctique n\'avait été complètement formé. S\'il en avait eu l\'apparence pendant quelques jours, c\'est que les glaçons, qui descendaient du nord ou remontaient du sud sous l\'influence des deux courants, s\'étaient réunis les uns aux autres dans cette portion de mer étranglée entre les deux continents.
+
+Comme résultat de ses opérations multipliées, M. Serge crut pouvoir affirmer que la direction suivie était très sensiblement indiquée vers le nord-ouest. Cela tenait sans doute à ce que le courant de Behring, s\'infléchissant vers le littoral sibérien, après avoir repoussé le courant du Kamtchatka, s\'arrondissait au sortir du détroit de Behring par un large crochet que sous-tendait le parallèle du Cercle polaire.
+
+En même temps, M. Serge put constater que le vent, très furieux toujours, soufflait du sud-est en plein. S\'il avait halé le sud un instant, c\'est que la disposition des côtes avait modifié sa direction générale qu\'il venait de recouvrer au large.
+
+Dès que cet état de choses eut été reconnu, M. Serge rejoignit César Cascabel, et il ne lui cacha point que rien de plus heureux n\'aurait pu se produire dans ces circonstances. Cette bonne nouvelle rendit un peu de calme au chef de la famille.
+
+« Oui, répondit-il, c\'est quelque chose que d\'aller précisément du côté où l\'on voulait !... Mais quel détour nous aurons fait, Seigneur Dieu, quel détour ! »
+
+Les naufragés s\'occupèrent alors de s\'installer le mieux possible, comme si leur séjour sur cet îlot en dérive devait durer longtemps. Avant tout, il fut décidé que l\'on continuerait à se loger dans la *Belle-Roulotte*, moins exposée à être renversée, puisqu\'elle cédait à la poussée de l\'ouragan.
+
+Cornélia, Kayette et Napoléone purent reprendre place à l\'intérieur et s\'occuper de la cuisine, qui avait été absolument négligée depuis vingt-quatre heures. Le repas fut bientôt prêt, on se mit à table et, si les joyeux propos habituels n\'assaisonnèrent pas ce dîner, du moins réconforta-t-il les convives, si durement éprouvés depuis leur départ de l\'îlot Diomède !
+
+La journée prit fin dans ces conditions. Les rafales ne cessaient de se déchaîner avec une effroyable violence. L\'espace s\'animait de grands vols d\'oiseaux, pétrels, ptarmigans et autres, si justement nommés oiseaux des tempêtes.
+
+Le lendemain et les jours suivants, 28, 29, 30 et 31 octobre, n\'apportèrent aucun changement. Le vent, se gardant à l\'est, ne modifia point l\'état de l\'atmosphère.
+
+M. Serge avait soigneusement relevé la forme et l\'étendue du glaçon. C\'était une sorte de trapèze irrégulier, long de trois cent cinquante à quatre cents pieds, large d\'une centaine. Ce trapèze, qui émergeait sur ses arêtes d\'une bonne demi-toise, se renflait légèrement vers l\'intérieur. Nulle fissure à sa surface, bien que de sourds craquements courussent parfois à travers sa masse. Il ne semblait donc pas que sa solidité eût été -- jusqu\'ici du moins -- compromise par l\'assaut des lames et de la bourrasque.
+
+Non sans grands efforts, la *Belle-Roulotte* avait été ramenée au centre. Là, les cordes et les piquets de la tente, qui servaient aux représentations foraines, l\'assujettissaient si fortement, qu\'elle ne risquait plus d\'être chavirée.
+
+Ce qu\'il y avait de plus alarmant, c\'étaient les chocs, dus à de soudaines rencontres avec d\'énormes icebergs, qui se déplaçaient sous des vitesses inégales, suivant qu\'ils obéissaient aux courants ou qu\'ils tournoyaient au milieu des remous. Quelques-uns, mesurant parfois quinze à vingt pieds de hauteur, avaient l\'air de se précipiter comme à un abordage. On les apercevait de loin, on les voyait venir, et comment serait-on parvenu à éviter leur brutal contact ? Il y en avait qui culbutaient avec fracas, lorsque le déplacement du centre de gravité en modifiait l\'équilibre ; mais, lorsqu\'ils se heurtaient, ces collisions étaient extrêmement redoutables. La secousse était souvent telle que, sans certaines précautions prises à temps, tout eût été brisé à l\'intérieur de la voiture. On était toujours sous la menace d\'une dislocation possible et soudaine. Aussi, dès que l\'approche de quelque gros bloc était signalée, M. Serge et ses compagnons se réunissaient autour de la *Belle-Roulotte*, se cramponnant les uns aux autres. Jean cherchait à se rapprocher de Kayette. De tous les risques, le plus épouvantable eût été de se voir entraînés séparément sur les morceaux brisés du glaçon. D\'ailleurs, il offrait moins de sécurité sur ses bords que dans sa partie centrale, où son épaisseur était plus considérable.
+
+Pendant la nuit, MM. Serge et Cascabel, Jean et Clou veillèrent tour à tour. Ils mettaient tous leurs soins à s\'y reconnaître au milieu de cette obscurité profonde, hantée d\'énormes formes blanches, qui se mouvaient comme des fantômes. Bien que l\'espace fût empli de brumes, fouettées par l\'interminable bourrasque, la lune, très basse à l\'horizon, l\'imprégnait d\'une lumière blafarde, et les icebergs pouvaient être aperçus à une certaine distance. Au cri de celui qui veillait, tout le monde était sur pied, en attendant le résultat du choc.
+
+Souvent la direction de l\'iceberg se modifiait, et il passait à contre-bord ; mais, quelquefois, il y avait rencontre, et la secousse cassait les cordes, arrachait les piquets de la *Belle-Roulotte*. C\'était à croire que tout allait être brisé ; il fallait s\'estimer heureux d\'avoir résisté à la collision.
+
+Et la température qui ne cessait d\'être anormale ! Et cette mer, qui n\'était pas prise pendant la première semaine de novembre ! Et ces parages qui restaient navigables, à peu de degrés au-dessus du Cercle polaire ! C\'était vraiment une bien mauvaise chance ! Et encore si quelque baleinier, attardé dans sa campagne de pêche, fût passé en vue, on lui aurait fait des signaux, on aurait attiré son attention par des coups de feu ! Après avoir recueilli les naufragés, il les aurait ramenés dans un des ports du littoral américain, à Victoria, à San-Francisco, à San-Diego, ou sur la côte sibérienne, à Petropavlovsk, à Okhotsk... Mais non ! Pas un navire ! Rien que des icebergs en mouvement ! Rien que l\'immense mer déserte, que limitait au nord l\'infranchissable banquise !
+
+Très heureusement, à moins d\'une prolongation invraisemblable de cette anomalie climatérique, la question des aliments n\'était pas pour inquiéter, dût la dérive se prolonger pendant quelques semaines. En prévision d\'un long cheminement à travers les territoires asiatiques, où il serait malaisé de se procurer des vivres, on avait fait ample provision de conserves, de farine, de riz, de graisse, etc. Il n\'y avait plus même, hélas ! à se préoccuper de la nourriture de l\'attelage. Et, il faut bien le dire, si Vermout et Gladiator eussent survécu à la débâcle, comment eût-il été possible de subvenir à leurs besoins ?
+
+Pendant les 2, 3, 4, 5 et 6 novembre, rien de nouveau, si ce n\'est que le vent montrait une tendance à se calmer en remontant un peu vers le nord. C\'est à peine si le jour durait deux heures -- ce qui ajoutait encore à l\'horreur de la situation. Malgré les observations incessantes de M. Serge, il devenait très difficile de contrôler la dérive, et, faute de pouvoir la pointer sur la carte, on ne savait plus où l\'on était.
+
+Cependant, le 7, un point de repère put être relevé, reconnu, puis fixé avec une certaine exactitude.
+
+Ce jour-là, vers onze heures, au moment où les vagues rayons du jour imprégnaient l\'espace, M. Serge et Jean, accompagnés de Kayette, venaient de se rendre à l\'avant du glaçon. Il y avait dans le matériel forain une longue-vue assez bonne, qui servait à Clou, lorsqu\'il montrait aux badauds l\'équateur, figuré par un fil tendu sur l\'objectif, et les habitants de la Lune, représentés par des insectes introduits dans le tube. Après avoir nettoyé soigneusement cette longue-vue, Jean l\'avait emportée, et, l\'oculaire aux yeux, il cherchait à reconnaître s\'il n\'y avait pas de terre au large.
+
+Or, depuis quelques instants, il examinait très attentivement l\'horizon, lorsque Kayette, tendant la main vers le nord, dit :
+
+« Je crois, monsieur Serge, que j\'aperçois là-bas... Est-ce que ce n\'est pas une montagne ?...
+
+--- Une montagne ?... répondit Jean. Non !... Ce n\'est probablement qu\'un iceberg ! »Et il braqua la longue-vue vers le point indiqué par la jeune Indienne.
+
+« Kayette a raison ! » dit-il presque aussitôt.
+
+Et il donna l\'instrument à M. Serge, qui le dirigea à son tour du côté signalé.
+
+« Oui ! dit-il. C\'est même une montagne assez haute !... Kayette ne s\'est point trompée ! »
+
+Après une nouvelle observation, il fut constaté qu\'une terre devait se trouver dans la direction du nord, à une distance de cinq ou six lieues à peu près.
+
+C\'était là un fait d\'une extrême importance.
+
+« Pour qu\'un terre soit dominée par une montagne aussi élevée, fit observer Jean, il lui faut une étendue considérable...
+
+--- C\'est vrai, Jean, répondit M. Serge, et, lorsque nous serons rentrés à la *Belle-Roulotte*, nous tâcherons d\'en retrouver la position sur la carte. Cela nous permettrait de relever exactement notre situation.
+
+--- Jean... on dirait qu\'une fumée s\'échappe de cette montagne ! dit alors Kayette.
+
+--- Ce serait donc un volcan ?... répliqua M. Serge.
+
+--- Oui !... oui !... ajouta Jean, qui avait appliqué la longue-vue à son oeil. On voit très bien une fumée... »
+
+Mais déjà le jour commençait à s\'éteindre, et, même avec le grossissement de l\'oculaire, les linéaments de la montagne s\'effacèrent peu à peu.
+
+Une heure plus tard, à la vérité, lorsque l\'obscurité fut presque complète, de vives lueurs apparurent dans la direction qui avait été relevée au moyen d\'une ligne tracée sur la neige.
+
+« Allons consulter la carte », dit M. Serge.
+
+Et tous trois retournèrent au campement.
+
+Jean chercha dans l\'atlas la carte qui représentait l\'ensemble des régions boréales au-delà du détroit de Behring, et voici ce qui fut établi.
+
+Puisque M. Serge avait déjà reconnu, d\'une part, que le courant, après avoir remonté au nord, s\'infléchissait vers le nord-ouest à une cinquantaine de lieues en dehors du détroit, et, d\'autre part, que le glaçon suivait cette direction depuis quelques jours, il s\'agissait de chercher s\'il se trouvait des terres en vue dans le nord-ouest. Précisément, à une vingtaine de lieues du continent, la carte indiquait le gisement d\'une grande île que les géographes désignent sous le nom d\'île Wrangel, dont les contours ne sont qu\'à peine déterminés sur sa partie septentrionale. Il était très probable, d\'ailleurs, que le glaçon ne l\'accosterait pas, si le courant continuait à l\'entraîner à travers le large bras de mer qui la sépare de la côte sibérienne.
+
+M. Serge n\'eut aucun doute sur l\'identité de l\'île Wrangel. En effet, entre les deux caps que projette sa côté méridionale, le cap Hawan et le cap Thomas, elle est dominée par un volcan en activité, marqué sur les cartes récentes. Ce ne pouvait être que le volcan aperçu par Kayette et dont la lueur était devenue distincte à la chute du jour.
+
+Il fut d\'après cela facile de reconnaître la route suivie par le glaçon depuis sa sortie du détroit de Behring. Après avoir contourné la côte, il avait doublé le cap Serdtse-Kamen, la baie Kolioutchin, le promontoire de Wankarem, le cap Nord ; puis il s\'était engagé à travers le canal de Long, qui sépare l\'île Wrangel du littoral de la province des Tchouktches.
+
+Vers quels parages le glaçon serait-il entraîné, lorsque le courant l\'aurait rejeté hors du canal de Long ? Il était impossible de le prévoir. Ce qui devait préoccuper plus particulièrement M. Serge, c\'est que, du côté du nord, la carte ne mentionne aucune autre terre. La banquise s\'étend sur cet immense espace, dont le centre est formé par le pôle même.
+
+La seule chance de salut à laquelle on pût se rattacher désormais, c\'était que la mer se congelât en entier sous l\'action d\'un froid plus intense -- ce qui ne pouvait tarder, ce qui aurait dû se produire depuis plusieurs semaines déjà. Alors la dérive s\'arrêterait sur les bords de l\'ice-field, et, en redescendant vers le sud, les naufragés pourraient tenter d\'atteindre le continent sibérien. Il est vrai, la nécessité s\'imposant d\'abandonner la *Belle-Roulotte*, faute d\'attelage, comment feraient-ils, s\'ils avaient un long trajet à parcourir ?
+
+Cependant, quoique le vent se tînt toujours à l\'est, il soufflait, sinon en tempête, du moins avec violence. Mais, dans ces détestables parages, de longues lames déferlantes couraient à grand fracas, et venaient battre l\'arête du bloc flottant ; puis, rejaillissant au choc, elles le couvraient en grand, comme le pont d\'un navire en cape courante et provoquaient des secousses telles que le glaçon s\'ébranlait jusque dans sa partie centrale, à faire craindre qu\'il ne s\'entrouvrît tout à coup. En outre, ces énormes paquets de mer, projetés jusqu\'à la *Belle-Roulotte*, menaçaient d\'entraîner tous ceux qui étaient dehors.
+
+Aussi, sur le conseil de M. Serge, quelques précautions furent-elles prises. D\'abondantes neiges étant tombées pendant la première semaine de novembre, il était facile de construire une sorte de digue à l\'arrière du glaçon, afin de le protéger contre les lames qui venaient le plus communément de ce côté. Tout le monde se mit à l\'oeuvre, et, lorsque la neige, convenablement piétinée et battue, se fut durcie sur une hauteur et une épaisseur de quatre à cinq pieds, elle présenta un obstacle aux coups de mer, dont les embruns seuls passèrent par-dessus sa crête. C\'était comme une sorte de bastingage élevé à la poupe d\'un bâtiment désemparé.
+
+Pendant ce travail il arriva que Sandre et Napoléone se lancèrent quelques boules de neige et même ne les épargnèrent pas au dos de Clou-de-Girofle. Mais, bien que ce ne fût pas le cas de s\'amuser, M. Cascabel ne gronda pas d\'une voix trop sévère, excepté un certain jour, où une boule, se trompant d\'adresse, vint s\'appliquer sur le chapeau de M. Serge.
+
+« Quel est le fichu maladroit ?... s\'écria M. Cascabel.
+
+--- C\'est moi, père ! répondit la petite Napoléone, toute décontenancée..
+
+--- Fichue maladroite alors ! reprit M. Cascabel. Vous excuserez, monsieur Serge, cette gamine...
+
+--- Eh ! Laissez-la faire, ami Cascabel ! répondit M. Serge. Qu\'elle vienne m\'embrasser, et il n\'y paraîtra plus ! »
+
+Ce qui fut fait.
+
+Non seulement une digue avait été construite à la partie postérieure du glaçon, mais bientôt la *Belle-Roulotte* fut entourée d\'une espèce de rempart de glace, qui devait la protéger d\'une façon encore plus efficace, tandis que ses roues, enfoncées jusqu\'au moyeu, lui assuraient une immobilité absolue. Ce rempart montait jusqu\'à la hauteur de sa galerie supérieure ; mais un étroit couloir ménagé à l\'intérieur, permettait de circuler autour. On eût dit un navire en hivernage au milieu des icebergs, et dont la coque est défendue par une cuirasse de neige contre le froid et les bourrasques. Si le glaçon ne s\'effondrait pas, les naufragés n\'avaient plus rien à craindre des coups de mer, et, dans ces conditions, peut-être serait-il possible d\'attendre le moment où l\'hiver arctique aurait définitivement pris possession de ces parages hyperboréens.
+
+Mais alors, ce moment venu, il faudrait partir pour regagner le continent ! Il faudrait quitter cette maison roulante, qui avait promené ses hôtes à travers tout le Nouveau-Monde ! Il faudrait délaisser ce solide et sûr abri de la famille ! Abandonnée au milieu des glaces de la mer Polaire, la *Belle-Roulotte* disparaîtrait dans les débâcles de la saison chaude !
+
+Et lorsque M. Cascabel songeait à cela, lui, si philosophe, si enclin à prendre les choses par leur bon côté, il levait les mains au ciel, il maudissait la malchance, il s\'accusait de tous ces désastres, oubliant qu\'ils étaient dus à ces coquins qui l\'avaient volé dans les gorges de la sierra Nevada, et auxquels la responsabilité de cette situation incombait tout entière.
+
+En vain Cornélia essayait-elle de l\'arracher à ses sombres pensées, par de bonnes paroles d\'abord, par de violentes objurgations ensuite ! En vain ses enfants et Clou lui-même réclamaient-ils leur part dans les conséquences de ces funestes décisions ! En vain répétaient-ils que ce projet de voyage avait eu l\'assentiment de toute la famille ! En vain M. Serge, en vain la « petite caille » cherchaient-ils à consoler l\'inconsolable César !... Il se refusait à rien entendre.
+
+« Tu n\'es donc plus un homme ?... lui dit un jour Cornélia, en le secouant d\'importance.
+
+--- Pas tant que toi, en tout cas ! » répondit-il, tandis qu\'il reprenait son équilibre, quelque peu compromis par cette admonestation conjugale.
+
+Au fond, Mme Cascabel était pleine d\'inquiétude pour l\'avenir ; mais elle sentait la nécessité de réagir contre l\'abattement de son mari, si résistant jadis aux coups de la mauvaise fortune.
+
+Cependant la question de nourriture commençait à préoccuper M. Serge. Tout d\'abord il importait que l\'alimentation fût assurée jusqu\'au jour où il serait possible de faire route à travers l\'ice-field, puis aussi jusqu\'au jour où la *Belle-Roulotte* aurait atteint la côte sibérienne. Inutile de compter sur la chasse, à une époque où les bandes d\'oiseaux de mer ne passeraient plus que rarement au milieu des brumes. La prudence, par suite, conseillait de se rationner, en prévision d\'un trajet dont la durée pouvait être longue.
+
+Ce fut dans ces conditions que le glaçon, irrésistiblement entraîné par les courants, arriva à la hauteur des îles d\'Anjou, situées au nord du littoral asiatique.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b4 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4. .calibre171 .sigil_not_in_toc}
+
+C\'était en s\'en rapportant à l\'estime que M. Serge croyait être à la hauteur de ce groupe d\'îles. Autant que possible, dans chacune de ses observations quotidiennes, il avait tenu compte de la dérive, évaluée à une quinzaine de lieues par vingt-quatre heures en moyenne.
+
+Cet archipel, qu\'il ne put apercevoir, est situé, d\'après l\'indication des cartes, par 150° de longitude et 75° de latitude, soit à une centaine de lieues du continent.
+
+M. Serge ne se trompait pas. À la date du 16 novembre, le glaçon se trouvait au sud des îles d\'Anjou. Mais à quelle distance ? Même en utilisant les instruments dont se servent d\'habitude les navigateurs, elle n\'aurait pu être relevée, ne fût-ce qu\'approximativement. Avec le soleil, dont le disque ne se montrait que pendant quelques minutes à travers les brumes de l\'horizon, l\'observation n\'eût donné aucun résultat. On était dès lors entré dans la longue nuit des régions polaires.
+
+Maintenant, le temps était détestable, bien que le froid tendît à s\'accentuer. La colonne thermométrique oscillait un peu au-dessous du zéro centigrade. Or, cette température n\'était pas encore assez basse pour opérer la soudure des icebergs, épars à la surface du bassin arctique ; par conséquent, aucun obstacle ne pouvait enrayer la dérive du glaçon.
+
+Cependant, entre les échancrures de ses bords, il se formait déjà de ces solidifications partielles, auxquelles les hiverneurs donnent le nom de « bay-ices », quand elles prennent naissance au fond des étroites criques d\'une côte. M. Serge, aidé de Jean, ne cessait de surveiller ces formations, qui ne tarderaient pas à s\'étendre à toute la surface de la mer. La période glaciale serait alors dans sa plénitude, et la situation des naufragés se modifierait « en mieux » -- ils l\'espéraient du moins.
+
+Durant la dernière quinzaine de novembre, la neige ne cessa de tomber avec une abondance extraordinaire.
+
+Chassée par les rafales, elle s\'accumula en masses épaisses contre le rempart établi autour de la *Belle-Roulotte*, et l\'eut bientôt exhaussé notablement.
+
+En somme, cette agglomération ne présentait aucun danger, et même, mieux protégée contre le froid, la famille Cascabel y trouverait avantage. Cornélia pourrait, en effet, économiser le pétrole, le réserver en entier pour les besoins de la cuisine. Cela était à prendre en sérieuse considération ; lorsque ce liquide minéral serait épuisé, comment le remplacerait-on ?
+
+Circonstance heureuse d\'ailleurs, la température restait supportable à l\'intérieur des compartiments -- trois ou quatre degrés au-dessus de zéro. Elle remonta même, lorsque la *Belle-Roulotte* fut ensevelie sous la masse des neiges. En ces conditions, ce n\'était pas la chaleur qui risquait de manquer, c\'était plutôt l\'air, auquel tout accès allait être interdit.
+
+Il y eut alors lieu de procéder à un déblayage, et chacun eut sa part de cette fatigante besogne.
+
+M. Serge commença par faire dégager le couloir qui avait été réservé en dedans du rempart. Puis, un passage fut ménagé afin d\'assurer une libre issue au-dehors. On prit soin que l\'axe de ce passage fût orienté vers l\'ouest. Sans cette précaution, il aurait été obstrué par les chasse-neige de l\'est.
+
+Tout danger n\'était pas écarté, cependant, ainsi qu\'on le verra bientôt.
+
+Il va sans dire que les naufragés ne quittaient la *Belle-Roulotte* ni jour ni nuit. Ils y trouvaient un sûr abri contre la tourmente, contre le froid qui tendait à s\'accroître, ainsi que l\'indiquait l\'abaissement lent et continu du thermomètre.
+
+Néanmoins, M. Serge et Jean ne négligeaient point de faire leurs observations chaque jour, au moment où de vagues lueurs coloraient cet horizon, sous lequel le soleil continuerait à décliner jusqu\'au solstice du 21 décembre. Et toujours cet espoir déçu, d\'apercevoir quelque baleinier hivernant dans ces parages, ou cherchant à regagner un port du détroit de Behring ! Toujours cet espoir trompé, de voir le glaçon définitivement figé à quelque ice-field qui se raccorderait au littoral sibérien ! Puis, tous deux, rentrés au campement, ils essayaient de reporter sur la carte la direction présumée de leur dérive.
+
+Il a été dit que la chasse avait cessé de fournir du gibier frais à l\'office de la *Belle-Roulotte*, depuis son départ de Port-Clarence. Qu\'aurait pu faire Cornélia de ces oiseaux de mer, dont il est difficile d\'enlever le goût huileux ? En dépit de ses talents culinaires, ptarmigans et pétrels eussent été mal reçus des convives. Aussi Jean se dispensait-il de dépenser son plomb et sa poudre contre ces volatiles d\'origine par trop arctique. Toutefois, lorsque son service l\'appelait au-dehors, il ne négligeait point de prendre son fusil, et, un jour, dans l\'après-midi du 26 novembre, il eut l\'occasion de s\'en servir. En effet, le bruit d\'une détonation arriva au campement, et presque aussitôt la voix de Jean qui appelait à son aide se fit entendre.
+
+Cela ne laissa pas de causer une certaine surprise, mêlée d\'inquiétude, MM. Serge et Cascabel, Sandre et Clou, suivis des deux chiens, s\'élancèrent au-dehors.
+
+« Accourez !... Accourez !... » criait Jean. Et, en même temps, il allait et venait comme s\'il eut voulu couper la retraite à quelque animal.
+
+« Qu\'y a-t-il ? demanda M. Cascabel.
+
+--- Il y a que j\'ai blessé un phoque, et qu\'il va nous échapper, si nous lui laissons gagner la mer ! »
+
+C\'était bien un amphibie de grande taille, blessé à la poitrine, qui rougissait la neige de son sang. Et, sans nul doute, il aurait réussi à se dérober, n\'eût été l\'arrivée de M. Serge et de ses compagnons. Clou se jeta bravement sur l\'animal, qui avait renversé le jeune Sandre d\'un premier coup de queue. Le phoque fut maîtrisé, non sans peine, et Jean, lui appliquant le canon de son fusil sur la tête, lui fit sauter la cervelle.
+
+Ce n\'était pas là un fameux gibier pour les convives habituels de Cornélia, mais c\'était du moins une importante réserve de chair pour Wagram et Marengo. Si les deux chiens avaient possédé le don de la parole, ils auraient remercié Jean de leur avoir procuré cette bonne aubaine.
+
+« Et, au fait, pourquoi les animaux ne parlent-ils pas ? dit à ce propos M. Cascabel, lorsque tout le monde fut installé pour dîner.
+
+--- Par cette raison très simple qu\'ils ne sont pas assez intelligents pour parler, répondit M. Serge..
+
+--- Penseriez-vous donc, demanda Jean, que le défaut de parole est dû à un défaut d\'intelligence ?
+
+--- Oui, certes, mon cher Jean, du moins chez les animaux supérieurs. Ainsi le chien possède un larynx identique à celui de l\'homme. Il pourrait donc parler, et, s\'il ne le fait pas, c\'est que son intelligence n\'est pas assez développée pour qu\'il puisse exprimer ses impressions par la parole. »
+
+Thèse au moins discutable que soutenait là M. Serge, mais qu\'admettent quelques physiologistes modernes.
+
+Il convient de noter qu\'une modification se produisait peu à peu dans l\'esprit de M. Cascabel. Bien qu\'il se reprochât toujours d\'être responsable de cette situation, sa philosophie reprenait le dessus. Habitué à se tirer des plus mauvaises passes, il ne pouvait croire que sa bonne étoile se fût éteinte... Non ! Un peu obscurcie seulement. Jusqu\'alors, d\'ailleurs, la famille Cascabel n\'avait pas été très éprouvée par les souffrances physiques. Il est vrai que si les dangers s\'aggravaient, comme il y avait lieu de le redouter, peut-être son moral en serait-il atteint ?
+
+Aussi, en prévision de l\'avenir, M. Serge ne cessait-il d\'encourager tout ce petit monde. Pendant les longues heures inoccupées, assis à la table sous la clarté de la lampe, il causait, il instruisait, il racontait les diverses particularités de ses voyages en Europe et en Amérique. Jean et Kayette, l\'un près de l\'autre, l\'écoutaient avec grand profit et, à leurs questions, il répondait toujours par quelque réplique instructive. Pour conclure, s\'autorisant de son expérience, il en arrivait à dire :
+
+« Voyez-vous, mes amis, il n\'y a pas à désespérer. C\'est un solide glaçon qui nous porte, et il ne se brisera plus maintenant que voilà les froids régulièrement établis. Remarquez, en outre, qu\'il se dirige du côté où nous voulions aller, et que nous voyageons sans fatigue, comme si nous étions sur un navire. Un peu de patience, et nous arriverons à bon port.
+
+--- Et qui de nous désespère, s\'il vous plait ? lui répondit ce jour-là M. Cascabel. Lequel se permet de désespérer, monsieur Serge ? Celui qui désespérera sans ma permission, je le mettrai au pain sec !
+
+--- Il n\'y a pas de pain ! riposta ce gamin de Sandre.
+
+--- Eh bien, au biscuit sec alors, et sans compter qu\'il sera privé de sortie !
+
+--- On ne peut pas sortir ! fit observer Clou-de-Girofle.
+
+--- Assez !... J\'ai dit ! »
+
+Pendant la dernière semaine de novembre, la chute des neiges avait pris des proportions fabuleuses. La masse des flocons était telle qu\'il avait fallu renoncer à mettre le pied au-dehors -- ce qui occasionna une grave catastrophe.
+
+Le 30, de grand matin, au moment où il se réveillait, Clou fut surpris de la difficulté qu\'il éprouvait à respirer, comme si l\'air eût été impropre au jeu des poumons.
+
+Les autres dormaient encore dans leurs compartiments d\'un sommeil lourd et pénible, à faire croire qu\'ils subissaient un commencement de suffocation.
+
+Clou voulut ouvrir la porte de l\'avant-train, afin de renouveler l\'air... Il ne put y parvenir.
+
+« Eh là ! Monsieur patron ! » cria-t-il d\'une voix si puissante qu\'il réveilla toute la *Belle-Roulotte*.
+
+Aussitôt M. Serge, M. Cascabel, ses deux fils, se relevèrent, et Jean de s\'écrier :
+
+« On étouffe ici !... Il faut ouvrir la porte !
+
+--- Je n\'ai pas pu... répondit Clou.
+
+--- Les volets alors ?... »
+
+Mais comme ces volets se rabattaient à l\'extérieur, ils résistèrent également.
+
+En quelques minutes, la porte fut démontée, et l\'on comprit pourquoi il avait été impossible de l\'ouvrir.
+
+Le couloir ménagé autour de la *Belle-Roulotte* était rempli par la masse des neiges que la rafale y avait accumulée, et non seulement ce couloir, mais aussi le passage qui établissait une communication à travers le rempart de glace.
+
+« Est-ce que le vent a changé ?... demanda M. Cascabel.
+
+--- Ce n\'est pas probable, répondit M. Serge. Il ne serait pas tombé tant de neige, s\'il avait remonté à l\'ouest...
+
+--- Il faut alors que le glaçon ait tourné sur lui-même, fit observer Jean.
+
+--- Oui... cela doit être, répliqua M. Serge. Avisons d\'abord au plus pressé... Il s\'agit de ne pas se laisser asphyxier, faute d\'air respirable ! »
+
+Et aussitôt, Jean et Clou, armés d\'une pioche et d\'une pelle, se mirent à la besogne, afin de déblayer le couloir. Rude travail, en vérité, car la neige durcie le comblait tout entier et devait même recouvrir la *Belle-Roulotte*.
+
+Pour opérer rapidement, il fallut se relayer les uns les autres. Comme on ne pouvait rejeter la neige au-dehors, il fut nécessaire de la rentrer dans le premier compartiment d\'où, sous l\'action de la température interne, réduite presque immédiatement en eau, elle s\'écoulait au-dehors.
+
+Une heure après, la pioche n\'avait pas encore percé la masse compacte du couloir. Il était impossible de sortir, impossible d\'aérer l\'intérieur de la voiture, et la respiration y devenait de plus en plus embarrassée par manque d\'oxygène et excès d\'acide carbonique.
+
+Tous, haletants, cherchaient en vain quelque bouffée d\'air pur dans cette atmosphère presque irrespirable. Kayette et Napoléone se sentaient prises d\'étouffement. Très visiblement, c\'était Mme Cascabel qui semblait le plus en danger. Kayette, dominant son malaise, essayait de lui donner des soins. Ce qu\'il aurait fallu pouvoir faire, c\'eût été d\'ouvrir une des fenêtres afin de renouveler l\'air et, on l\'a vu, les volets étaient extérieurement maintenus par la neige comme l\'avait été la porte.
+
+« Courage !... courage ! répétait M. Serge. Nous avons déjà gagné six pieds à travers le massif... La couche ne doit plus être épaisse maintenant ! »
+
+Non ! Elle ne devait plus l\'être, si la neige avait cessé de tomber... Mais peut-être tombait-elle encore !
+
+Jean eut alors l\'idée de pratiquer une trouée à travers la couche qui formait plafond au-dessus du couloir -- couche moins considérable peut-être et probablement moins dure.
+
+En effet, ce travail put être fait dans de meilleures conditions, et, une demi-heure après -- il n\'était que temps ! -- la trouée donnait accès à l\'air extérieur.
+
+Ce fut un soulagement immédiat pour tous les hôtes de la *Belle-Roulotte*.
+
+« Ah ! Que c\'est bon ! s\'écria la petite Napoléone en respirant à pleine gorgée.
+
+--- Oui ! répondit Sandre, qui se pourléchait. C\'est même meilleur que des confitures ! »
+
+Il se passa quelques minutes avant que Cornélia se fût remise d\'un commencement d\'asphyxie tellement sérieuse qu\'elle avait été sur le point de perdre connaissance.
+
+Le trou ayant été élargi, les hommes se glissèrent jusqu\'à la crête du rempart de glace. Il ne neigeait plus, mais tout était blanc jusqu\'aux dernières limites du regard. La *Belle-Roulotte* avait entièrement disparu sous cet amoncellement qui formait une énorme bosse au milieu du bloc flottant.
+
+En consultant la boussole, M. Serge put constater que le vent soufflait toujours de l\'est, et que le glaçon avait fait un demi-tour sur lui-même -- ce qui avait changé son orientation cap pour cap. C\'est ce qui avait produit à travers le passage cet encombrement de neiges.
+
+Le thermomètre, en plein air, n\'indiquait que six degrés au-dessous de zéro, et la mer était libre, autant qu\'on en pouvait juger au milieu d\'une obscurité presque complète. Il convient d\'observer, d\'ailleurs, que si le glaçon avait fait un demi-tour, après avoir été saisi par quelque remous sans doute, il n\'avait jamais cessé de dériver vers l\'ouest.
+
+Aussi, dans le but d\'obvier à cette éventualité, qui entraînerait des conséquences si déplorables, M. Serge crut devoir recourir à une nouvelle précaution. Sur son avis, on creusa à travers le rempart un second couloir à l\'opposé du premier. Quelle que fût l\'orientation du glaçon, il y aurait toujours communication avec le dehors. Donc plus à craindre que l\'air fît défaut à l\'intérieur.
+
+« Tout de même, dit M. Cascabel, pour un fichu pays, c\'est un fichu pays !... À peine est-il bon pour des phoques, et son climat ne vaut pas le climat normand !
+
+--- J\'en conviens volontiers, répondit M. Serge. Mais que voulez-vous, il faut le prendre comme il est !...
+
+--- Parbleu ! Je le prends... monsieur Serge, je le prends... mais en horreur ! »
+
+Non, brave Cascabel, ce n\'est pas le climat de la Normandie, ni même celui de la Suède, de la Norvège, de la Finlande, pendant leur saison d\'hiver ! C\'est le climat des pôles, avec sa nuit de quatre mois, ses rafales hurlantes, le poudroiement continu des neiges, et le voile épais de ses brumes qui le laissent sans horizon !
+
+Et que d\'inquiétudes il y avait à entrevoir pour l\'avenir ! Après la dérive, lorsque le glaçon serait immobilisé, lorsque la mer ne formerait plus qu\'un immense ice-field, à quel parti s\'arrêterait-on ? Abandonner la *Belle-Roulotte*, franchir sans elle quelques centaines de lieues jusqu\'au littoral sibérien, cela était vraiment effroyable, quand on y songeait ! Aussi M. Serge se demandait-il s\'il ne serait pas à propos d\'hiverner à l\'endroit même où s\'arrêterait le bloc flottant, de garder jusqu\'au retour de la belle saison l\'abri de cette maison roulante, qui ne roulerait plus jamais sans doute. Oui ! À la rigueur, passer la période des grands froids en ces conditions n\'eût pas été impossible ! Mais, avant le relèvement de la température, avant la débâcle de la mer Arctique, il faudrait avoir quitté le lieu d\'hivernage, il faudrait avoir traversé le champ de glace, qui ne tarderait pas à se dissoudre !
+
+Les naufragés n\'en étaient pas là, du reste, et il serait temps d\'aviser, lorsque l\'hiver prendrait fin. Il y aurait à tenir compte de la distance à laquelle on se trouverait du continent asiatique, en admettant qu\'il y eût quelque moyen de l\'estimer. M. Serge espérait que cette distance ne serait pas très considérable, puisque le glaçon avait, invariablement, suivi la direction de l\'ouest, après avoir doublé les caps Kekourni, Chelagski, Baranov, et dépassé le détroit de Long et le golfe de la Kolyma.
+
+Que ne s\'était-il arrêté à l\'entrée de cette baie ! De là, il eût été facile encore de rejoindre la province des Ioukaghirs, dans laquelle Kabatchkova, Nijnie-Kolimsk et autres bourgades auraient accueuilli les naufragés. Un attelage de rennes aurait pu être conduit jusqu\'au lieu d\'hivernage et ramener la *Belle-Roulotte* sur le continent. Mais étant donné la vitesse de la dérive, M. Serge comprenait bien que cette baie avait dû être laissée en arrière, et aussi les embouchures de la Tchoukotskia et de l\'Alazéïa. Pour l\'arrêter, la carte n\'offrait plus que le barrage de ces archipels connus sous la dénomination d\'îles d\'Anjou, îles Liakhov, îles de Long. Et, sur ces îles, inhabitées pour la plupart, comment trouverait-on les ressources nécessaires à un rapatriement du personnel et du matériel ? Cela vaudrait mieux, pourtant, que d\'aller se perdre dans les extrêmes parages des régions polaires !
+
+Le mois de novembre venait de finir. Il y avait trente-neuf jours que la famille Cascabel avait quitté Port-Clarence pour s\'aventurer à travers le détroit de Behring. Sans la rupture de l\'ice-field, elle eût pris terre à Numana depuis cinq semaines déjà. Et, maintenant, arrivée dans les provinces méridionales de la Sibérie, quelque bourgade lui aurait offert un refuge assuré contre les dangers de l\'hiver arctique.
+
+Cependant la dérive ne pouvait durer longtemps. Le froid s\'accentuait graduellement, et le thermomètre descendait sans oscillations. Examen fait de l\'îlot de glace. M. Serge put constater qu\'il s\'accroissait chaque jour par l\'adjonction des morceaux d\'icebergs, au milieu desquels il se frayait un passage. Sa surface s\'était élargie d\'un tiers, et même, dans la nuit du 30 novembre au 1 décembre, un énorme bloc vint se souder à lui par l\'arrière. La base de ce bloc plongeait assez profondément sous les eaux et le courant lui imprimait une vitesse supérieure, il en résulta que le glaçon dut faire un demi-tour et le suivit, comme s\'il eut été à sa remorque.
+
+Avec les froids plus vifs et plus secs, le ciel s\'était complètement rasséréné. Le vent soufflait maintenant du nord-est -- circonstance heureuse, puisqu\'il portait à la côte sibérienne. Les étoiles étincelantes du ciel arctique éclairaient ces longues nuits polaires, et, fréquemment, des aurores boréales inondaient l\'espace de leurs lumineuses efflorescences, disposées comme les feuillets d\'un éventail. Le regard s\'étendait jusqu\'à l\'extrême horizon, limité par les premiers échelons de la banquise. Sur le fond moins assombri, cette chaîne de glaces éternelles dessinait ses crêtes vives, ses croupes arrondies, la forêt de ses pics et de ses aiguilles. C\'était un émerveillement, et les naufragés en oubliaient un instant leur situation si critique, en admirant ces phénomènes cosmiques, particuliers aux régions hyperboréennes.
+
+La dérive avait diminué de vitesse, depuis le changement de vent, et c\'était le courant seul qui la produisait désormais. Il était donc probable que le glaçon ne serait pas entraîné très loin vers l\'ouest, car la mer se prenait dans les intervalles des icebergs. Jusqu\'ici, il est vrai, cette « young ice », comme disent les baleiniers, cédait au moindre choc. Les blocs, dispersés au large, ne laissant entre eux que d\'étroites passes, le glaçon se heurtait parfois à des masses considérables ; mais, après une immobilité de quelques heures, il se remettait en route. Néanmoins, il fallait prévoir un arrêt très prochain, qui durerait pendant tout l\'hivernage.
+
+Le 3 décembre, vers midi, M. Serge et Jean s\'étaient rendus sur l\'avant du glaçon. Kayette, Napoléone et Sandre les avaient accompagnés, étroitement enveloppés de fourrures, car le froid était vif. Vers le sud, c\'est à peine si une légère lueur indiquait que le soleil passait au méridien. L\'incertaine clarté qui flottait à travers l\'espace était due sans doute à quelque lointaine aurore boréale.
+
+L\'attention était vivement sollicitée alors par les mouvements des icebergs, leurs formes bizarres, les chocs qui se produisaient et aussi les culbutes de quelques blocs dont la base, rongée en dessous, ne pouvait plus assurer l\'équilibre.
+
+Soudain, l\'iceberg, qui s\'était soudé deux jours avant, oscilla, fut culbuté, et dans sa chute, brisa le bord du glaçon qu\'il inonda d\'une énorme lame.
+
+Tous s\'étaient reculés précipitamment ; mais, presque aussitôt, des cris retentirent :
+
+« À moi !... À moi !... Jean ! »
+
+C\'était Kayette... Elle se trouvait sur le fragment qui venait d\'être détaché par le choc, et elle était emportée.
+
+« Kayette !... Kayette ! » s\'écria Jean.
+
+Mais ce morceau de glace, pris par un courant latéral, s\'éloignait en longeant l\'arête du glaçon, alors immobilisé par un remous. Encore quelques instants, et Kayette aurait disparu au milieu du flottement des icebergs.
+
+« Kayette !... Kayette !... criait Jean..
+
+--- Jean... Jean ! » répéta une dernière fois la jeune Indienne.
+
+En entendant ces cris, M. Cascabel et Cornélia venaient d\'accourir... Ils étaient là, terrifiés près de M. Serge, qui ne savait que faire pour sauver la malheureuse enfant.
+
+En ce moment, le bloc de glace s\'étant rapproché à une distance de cinq ou six pieds, Jean, s\'élançant d\'un bond avant qu\'on eût pu le retenir, retomba près de Kayette.
+
+« Mon fils !... Mon fils !... » s\'écria Mme Cascabel.
+
+Les secourir était impossible. En sautant, Jean avait repoussé le glaçon qui portait Kayette... Tous deux ne tardèrent pas à disparaître entre les icebergs, et bientôt même on cessa d\'entendre leurs cris qui se perdaient dans l\'espace.
+
+Après de longues heures d\'attente, l\'obscurité étant devenue complète, M. Serge, M. Cascabel, Cornélia, leurs enfants durent revenir au campement. Quelle nuit ces pauvres gens passèrent à errer autour de la *Belle-Roulotte*, tandis que les chiens aboyaient lamentablement ! Jean et Kayette, entraînés, sans abri, sans nourriture... perdus ! Cornélia ne cessait de pleurer, Sandre et Napoléone mêlaient leurs larmes aux siennes. M. Cascabel, abattu par ce nouveau coup, ne prononçait que des paroles incohérentes, s\'accusant de tous les malheurs qu\'il avait attirés sur sa famille. Et quelle consolation M. Serge aurait-il pu leur apporter, puisque lui-même était inconsolable !
+
+Le lendemain -- 4 décembre -- vers huit heures du matin, le glaçon, sortant du remous qui l\'avait retenu toute la nuit, s\'était remis en marche. Sa direction était celle qu\'avaient suivie Jean et Kayette, mais avec dix-huit heures d\'avance, et il fallait renoncer à tout espoir de les rejoindre ou de les retrouver. Trop de dangers les menaçaient, d\'ailleurs, pour qu\'ils pussent s\'en tirer sains et saufs, le froid qui devenait très intense, la faim qu\'ils ne pourraient apaiser, la rencontre des icebergs, dont le moindre les eût écrasés sur son passage !...
+
+Mieux vaut renoncer à peindre la douleur de ces malheureux Cascabel ! Malgré l\'abaissement de la température, ils n\'avaient pas voulu rentrer dans leurs chambres, appelant Jean, appelant Kayette, qui ne pouvaient les entendre...
+
+La journée s\'écoula sans que la situation se fût modifiée ; puis, la nuit vint, et M. Serge exigea que le père, la mère, les enfants se missent à l\'abri dans la *Belle-Roulotte*, où nul ne put trouver un instant de sommeil.
+
+Soudain, vers trois heures du matin, un choc effroyable ébranla le véhicule, et si violemment qu\'il faillit être culbuté. D\'où provenait ce choc ?... Était-ce quelque énorme iceberg qui avait heurté et peut-être rompu le glaçon ?...
+
+M. Serge s\'élança au dehors.
+
+Un reflet d\'aurore boréale éclairait l\'espace, et il était impossible d\'apercevoir les objets dans un rayon d\'une demi-lieue autour du campement.
+
+La première pensée de M. Serge fut de porter son regard en toutes directions...
+
+Ni Jean ni Kayette n\'étaient en vue.
+
+Quant au choc, il était dû à ce que le glaçon s\'était heurté contre l\'ice-field. Grâce à un nouveau refroidissement de la température -- près de vingt degrés au-dessous du zéro centrigrade -- la mer s\'était entièrement solidifiée à sa surface. Là, où tout était en mouvement la veille, il n\'y avait plus que l\'immobilité. La dérive avait cessé après ce dernier choc.
+
+M. Serge rentra aussitôt, et fit connaître à la famille l\'arrêt définitif du glaçon.
+
+« Ainsi, toute la mer est glacée devant nous ? demanda M. Cascabel. -- Oui, répondit M. Serge, devant nous, derrière nous et autour de nous !
+
+--- Eh bien ! Allons à la recherche de Jean et de Kayette !... Il n\'y a pas un instant à perdre...
+
+--- Partons ! », répondit M. Serge.
+
+Cornélia et Napoléone ne voulant pas rester à la *Belle-Roulotte*, celle-ci fut laissée à la garde de Clou, et tous partirent, précédés des deux chiens, qui furetaient à la surface de l\'ice-field.
+
+On marcha d\'un bon pas sur cette neige dure comme du granit, et dans la direction de l\'ouest. Si Wagram et Marengo tombaient sur les traces de leur jeune maître, ils sauraient bien les reconnaître. Mais, une demi-heure après, ils n\'avaient encore rien trouvé. Il fallut s\'arrêter alors, car on s\'essoufflait vite par cette température si basse que l\'air semblait être gelé.
+
+L\'ice-field, qui s\'étendait à perte de vue vers le nord, le sud et l\'est, était borné à l\'ouest par quelques hauteurs, qui n\'avaient point la forme ordinaire des icebergs. Peut-être étaient-ce les linéaments du littoral, d\'un continent ou d\'une île.
+
+En ce moment, les chiens aboyèrent avec violence et se précipitèrent vers un mamelon blanchâtre, sur lequel se détachaient un certain nombre de points noirs.
+
+On se remit en marche, pressant le pas, et bientôt Sandre remarqua que ces points étaient des êtres humains, et que deux d\'entre eux faisaient des signes...
+
+« Jean !... Kayette ! » s\'écria-t-il, en s\'élançant à la suite de Wagram et de Marengo.
+
+C\'étaient Kayette et Jean, sains et saufs...
+
+Ils n\'étaient pas seuls. Un groupe d\'indigènes les entourait, et ces indigènes, c\'étaient les habitants des îles Liakhov.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b5 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-5. .calibre171 .sigil_not_in_toc}
+
+Il y a dans les parages de la mer Arctique trois archipels, désignés sous le nom général de la Nouvelle-Sibérie, qui comprennent les îles de Long, les îles d\'Anjou, les îles Liakhov. Ce dernier, le plus rapproché du continent asiatique, est formé par un groupe d\'îles situé entre les 73° et 75° de latitude nord, et les 135° et 140° de longitude est, sur une étendue de quarante-neuf mille kilomètres carrés. Parmi les principales, on peut citer les îles Kotelnii, Blinii, Malii et Bielkov.
+
+Territoires arides, pas d\'arbres, pas de productions du sol, à peine une végétation rudimentaire pendant les quelques semaines d\'été, rien que des os de cétacés et de mammouths, agglomérés depuis la période de formation géologique, du bois fossile, en très grande quantité -- tels sont ces archipels de la Nouvelle-Sibérie.
+
+Les îles Liakhov ont été découvertes dans les premières années du XVIII siècle.
+
+C\'était sur Kotelnii, la plus importante et la plus méridonale du groupe, à quatre cents kilomètres environ du continent, que le personnel de la *Belle-Roulotte* était venu prendre pied, après une dérive de quarante jours, après un parcours de six à sept cents lieues. Au sud-ouest, sur le littoral sibérien, s\'ouvrait la vaste baie de la Lena, large échancrure par laquelles les eaux de ce fleuve, l\'un des plus considérables d\'Asie septentrionale, se précipitent dans la mer Arctique.
+
+On le voit, cet archipel des Liakhov, c\'est l\'*ultima Thule* des régions polaires à cette longitude. Au-delà, jusqu\'à l\'infranchissable limite de la banquise, les navigateurs n\'ont reconnu aucune terre. Quinze degrés plus haut, c\'est le pôle nord.
+
+Les naufragés avaient donc été jetés sur les confins du monde, bien que ce fut à une latitude moins élevée que celles du Spitzberg et des territoires septentrionaux de l\'Amérique.
+
+En somme, si la famille Cascabel avait fait route plus au nord que le comportait son premier itinéraire, elle s\'était constamment rapprochée de la Russie d\'Europe. Ces centaines de lieues, franchies depuis Port-Clarence, lui avaient occasionné moins de fatigues que de dangers. Une dérive, faite dans ces conditions, c\'était autant de chemin d\'épargné à travers des régions presque impraticables pendant l\'hiver. Et peut-être n\'y aurait-il pas eu lieu de se plaindre, si, par une dernière malchance, M. Serge et ses compagnons ne fussent tombés entre les mains de ces indigènes des Liakhov. Obtiendraient-ils leur liberté ou pourraient-ils la recouvrer par la fuite ? C\'était douteux. En tout cas, ils ne tarderaient pas à le savoir, et, lorsqu\'ils seraient fixés à cet égard, il serait temps de prendre un parti suivant les circonstances.
+
+L\'île Kotelnii est habitée par une tribu d\'origine finnoise, comptant deux cent cinquante à trois cents âmes, hommes, femmes et enfants. Ces indigènes, d\'aspect répugnant, sont des moins civilisés entre ces peuplades du littoral, Tchouktches, Ioukaghirs et Samoyèdes. Leur idolâtrie passe toute croyance, en dépit du dévouement des frères Moraves, qui n\'ont jamais pu triompher des superstitions de ces néo-Sibériens, ni de leurs instincts de pillards et de voleurs.
+
+La principale industrie de l\'archipel des Liakhov, c\'est la pêche des cétacés, qui fréquentent en grand nombre ces parages de la mer Arctique, et la chasse aux phoques, presque aussi abondants qu\'à l\'île de Behring pendant la saison chaude.
+
+L\'hiver est très dur sous cette latitude de la Nouvelle-Sibérie. Les indigènes habitent ou plutôt se terrent au fond de trous obscurs, creusés sous l\'amas des neiges. Ces trous sont quelquefois divisés en chambres, où il n\'est pas difficile de maintenir une assez haute température. Ce qu\'on brûle, c\'est ce bois fossile, qui peut être comparé à la houille, et dont ces îles possèdent des gisements considérables, sans compter les ossements de cétacés, employés également comme combustible. Une ouverture, percée dans le toit de ces troglodytes, sert d\'issue à la fumée de leurs foyers très primitifs. Aussi, à première vue, le sol semble-t-il émettre des vapeurs comme il s\'en échappe des solfatares.
+
+Quant à la nourriture des indigènes, c\'est principalement la chair de renne qui en forme la base. Ces ruminants sont parqués sur les îlots et les îles de l\'archipel en troupes considérables. En outre, les élans entrent pour une part dans l\'alimentation, de même que le poisson séché, dont on fait de grandes provisions avant l\'hiver. Il résulte de là que les néo-Sibériens n\'ont point à craindre d\'être éprouvés par la famine.
+
+Un chef régnait alors sur le groupe des Liakhov. Il se nommait Tchou-Tchouk, et jouissait d\'un pouvoir incontesté sur ses sujets. Soumis au régime de la monarchie absolue, ces indigènes diffèrent essentiellement des Esquimaux de l\'Amérique russe, qui vivent dans une sorte d\'égalité républicaine. Et ils s\'en éloignent au point de vue du bien-être, avec leurs moeurs sauvages, leurs coutumes inhospitalières, dont les baleiniers ont souvent à se plaindre. Oui ! On ne les regretterait que trop, les braves gens de Port-Clarence !
+
+Il est certain que la famille Cascabel n\'aurait pu tomber plus mal. Après la catastrophe du détroit de Behring, aller précisément atterrir sur l\'archipel des Liakhov et s\'y trouver en contact avec des tribus si peu sociables, c\'était vraiment dépasser les bornes de la mauvaise chance.
+
+Aussi M. Cascabel ne cachait-il point son désappointement, en se voyant entouré d\'une centaine de naturels, hurlant, gesticulant, menaçant même les naufragés, que les hasards de ce voyage avaient mis en leur pouvoir. » Eh ! À qui en veulent-ils, ces singes ? s\'écria-t-il, après avoir repoussé ceux qui le serraient de trop près.
+
+--- À nous, père ! répondit Jean.
+
+--- Drôle de façon d\'accueillir les visiteurs !... Est-ce qu\'ils auraient envie de nous manger ?...
+
+--- Non, mais très probablement ils ont l\'intention de nous retenir prisonniers dans leur île !
+
+--- Prisonniers ?...
+
+--- Oui, comme ils ont déjà fait de deux matelots, qui sont arrivés avant nous !... » Jean n\'eut pas le loisir de donner des explications plus complètes. Une douzaine d\'indigènes venaient de saisir M. Serge et ses compagnons. Il fallut, bon gré mal gré, les suivre vers le village de Tourkev, autrement dit la capitale de l\'archipel.
+
+Pendant ce temps, une vingtaine d\'autres se dirigeaient du côté de la *Belle-Roulotte*, d\'où s\'échappait une petite fumée qu\'un reste de jour permettait d\'apercevoir dans l\'est.
+
+Un quart d\'heure après, les prisonniers avaient atteint Tourkev, et ils étaient introduits à l\'intérieur d\'une vaste excavation creusée sous la neige.
+
+« La prison de l\'endroit, sans doute ! » fit observer M. Cascabel, dès qu\'on les eut laissés seuls autour d\'un foyer allumé au centre de ce réduit.
+
+Et d\'abord, il fallut que Jean et Kayette fissent le récit de leurs aventures. Le morceau de glace qui les portait avait suivi la direction de l\'ouest, après avoir disparu derrière les blocs en dérive... Jean tenait la jeune Indienne dans ses bras, craignant qu\'elle ne fût renversée par les chocs... Ils n\'avaient pas de vivres, ils allaient être sans abri pendant de longues heures, mais du moins ils étaient ensemble... Blottis l\'un contre l\'autre, peut-être ne sentiraient-ils ni le froid ni la faim... La nuit vint... S\'ils ne pouvaient se voir, ils pouvaient s\'entendre... Les heures s\'écoulèrent dans des transes continuelles, avec la peur d\'être engloutis... Puis les pâles rayons du jour reparurent, au moment où ils venaient de se heurter contre l\'ice-field... Jean et Kayette s\'aventurèrent à travers l\'immense champ de glace, ils marchèrent longtemps et, arrivés à l\'île Kotelnii, ils tombèrent entre les mains des indigènes.
+
+« Et tu dis, Jean, demanda M. Serge, qu\'il y a d\'autres naufragés qui sont leurs prisonniers...
+
+--- Oui, monsieur Serge, répondit Jean.
+
+--- Vous les avez vus ?...
+
+--- Non, monsieur Serge, dit Kayette, mais j\'ai pu comprendre ces indigènes, car ils parlent le russe, et ils ont fait allusion à deux matelots, qui sont retenus dans leur village. »
+
+En effet, le langage des tribus septentrionales de la Sibérie est celui de la Russie, et M. Serge pourrait s\'expliquer avec les habitants des Liakhov. Mais qu\'espérer de ces pillards, qui, repoussés des provinces assez peuplées à l\'embouchure des fleuves, se sont réfugiés au fond de ces archipels de la Nouvelle-Sibérie, où ils n\'ont rien à craindre de l\'administration moscovite.
+
+Cependant M. Cascabel ne décolérait pas depuis qu\'il n\'avait plus la liberté d\'aller et venir. Il se disait, non sans raison, que la *Belle-Roulotte* serait découverte, pillée par ces coquins, détruite peut-être. En vérité, ce n\'était pas la peine d\'avoir échappé à la débâcle du détroit de Behring pour venir s\'échouer entre les mains de cette « vermine polaire ! ».
+
+« Voyons, César, lui dit Cornélia, calme-toi !... Cela ne sert à rien de s\'emporter !... En somme, il pouvait nous arriver de pires malheurs !
+
+--- Pires... Cornélia ?
+
+--- Sans doute, César ! Que dirais-tu si nous n\'avions pas retrouvé Jean et Kayette ? Eh bien ! Ils sont là tous les deux, et nous sommes vivants, tous vivants !... Songe aux dangers que nous avons courus, et auxquels nous avons échappé... que c\'est un miracle !... Je pense donc qu\'au lieu de se mettre en colère, il faut remercier la Providence....
+
+--- Et je la remercie, Cornélia, je la remercie du fond du coeur ! Il m\'est pourtant bien permis de maudire le diable, qui nous a jetés entre les griffes de ces gueux-là !... Ils ressemblent plutôt à des bêtes qu\'à des créatures humaines ! »
+
+Et il avait raison, M. Cascabel, mais Cornélia n\'avait pas tort. Pas un des hôtes de la *Belle-Roulotte* ne manquait à l\'appel. Tels ils avaient quitté Port-Clarence, tels ils se retrouvaient dans ce village de Tourkev.
+
+« Oui... au fond d\'un trou de putois ou de taupes ! murmura M. Cascabel. Une fosse, dont des ours un peu bien léchés ne voudraient pas pour leur tanière !
+
+--- Tiens... et Clou ? » s\'écria Sandre.
+
+Au fait, qu\'était-il devenu, ce brave garçon ? On l\'avait laissé à la garde de la *Belle-Roulotte*. Avait-il, au risque de sa vie, essayé de défendre le bien de son maître ?... Était-il maintenant au pouvoir de ces sauvages ?
+
+Et, après que Sandre eut rappelé Clou-de-Girofle au souvenir de la famille :
+
+« Et Jako !... dit Cornélia.
+
+--- Et John Bull !... dit Napoléone.
+
+--- Et nos chiens ?... » ajouta Jean.
+
+Il va de soi que les inquiétudes se portaient principalement sur Clou-de-Girofle. Le singe, le perroquet, Wagram et Marengo ne venaient qu\'en seconde ligne.
+
+En ce moment, un tumulte se fit entendre au-dehors. C\'était un mélange d\'objurgations, auxquelles se joignaient les aboiements des deux chiens. Presque aussitôt, l\'orifice qui donnait accès dans l\'excavation s\'ouvrit brusquement. Wagram et Marengo firent irruption, et, après eux, parut Clou-de-Girofle.
+
+« Me voici, monsieur patron, s\'écria le pauvre diable, à moins que ce ne soit pas moi... car je ne sais plus où j\'en suis !
+
+--- Tu es précisément où nous en sommes ! répliqua M ; Cascabel, en lui tendant la main..
+
+--- Et la *Belle-Roulotte* ?... demanda vivement Cornélia.
+
+--- La *Belle-Roulotte* ?... répondit Clou. Eh bien, ces gentlemen l\'ont découverte sous la neige, ils s\'y sont attelés comme des bêtes, et ils l\'ont conduite à leur village.
+
+--- Et Jako ?... dit Cornélia.
+
+--- Jako aussi.
+
+--- Et John Bull ?... ajouta Napoléone.
+
+--- John Bull, tout de même ! »
+
+En somme, puisque la famille Cascabel était retenue à Tourkev, mieux valait que la maison roulante y fût aussi, bien qu\'elle fût menacée de pillage.
+
+Cependant la faim commençait à se faire sentir, et il ne semblait pas que les indigènes eussent le souci de nourrir leurs prisonniers. Fort heureusement, le prévoyant Clou avait eu la précaution de garnir ses poches. Il en tira quelques boîtes de conserve, qui devaient suffire aux premiers repas. Puis, roulé dans sa fourrure, chacun dormit tant bien que mal au milieu d\'une atmosphère que la fumée du foyer rendait presque irrespirable.
+
+Le lendemain -- 6 décembre -- M. Serge et ses compagnons furent extraits de leur réduit, et c\'est avec un inexprimable soulagement qu\'ils se refirent à l\'air du dehors, bien que le froid fût extrêmement vif.
+
+On les amena devant le chef.
+
+Ce personnage, de physionomie rusée, de mine peu engageante, occupait une sorte d\'habitation souterraine, plus vaste et plus confortable que les taudis de ses sujets. Cette cabane était creusée au pied d\'un gros morne rocheux, encapuchonné de neige, dont le sommet représentait assez exactement une tête d\'ours.
+
+Tchou-Tchouk pouvait être âgé d\'une cinquantaine d\'années. Sa face glabre, allumée de petits yeux vifs comme des braises, était pour ainsi dire animalisée, si l\'on peut se servir de cette expression, par les crocs aigus qui soulevaient ses lèvres. Assis sur un tas de fourrures, vêtu de peaux de rennes, chaussé de bottes en cuir de phoque, coiffé d\'un capuchon de pelleterie, il dodelinait lentement de la tête.
+
+« A-t-il assez l\'air d\'un vieux roublard ! » murmura M. Cascabel.
+
+A ses côtés se tenaient deux ou trois notables de la tribu. Au-dehors attendaient une cinquantaine d\'indigènes, à peu près vêtus de la même façon que leur chef, et dont on ne pouvait reconnaître le sexe sous ces vêtements identiques que portent les hommes et les femmes de la Nouvelle-Sibérie.
+
+Et, tout d\'abord, Tchou-Tchouk, s\'adressant à M. Serge, dont il avait, sans doute, deviné la nationalité, lui dit en un langage russe très compréhensible :
+
+« Qui êtes vous ?...
+
+--- Un sujet du Czar ! répondit M. Serge, pensant que ce titre impérial imposerait peut-être à ce souverain d\'archipel.
+
+--- Et ceux là ?... reprit Tchou-Tchouk, qui désignait les membres de la famille Cascabel.
+
+--- Des Français ! répondit M. Serge.
+
+--- Des Français ?... » répéta le chef.
+
+Et il semblait qu\'il n\'avait jamais entendu parler d\'un peuple ou d\'une peuplade de ce nom.
+
+« Eh bien, oui !... des Français... des Français... de France, canaille ! » s\'écria M. Cascabel.
+
+Mais il dit cela dans sa propre langue, et avec la liberté de parole d\'un homme qui est sûr de ne point être compris.
+
+« Et celle-là ?... demanda Tchou-Tchouk, en montrant Kayette, car il ne lui avait point échappé que la jeune fille devait être de race étrangère.
+
+--- Une Indienne ! » répondit M. Serge.
+
+Et alors une conversation assez animée s\'engagea entre Tchou-Tchouk et lui -- conversation dont M. Serge traduisait les principaux passages à la famille Cascabel.
+
+En définitive, le résultat de cet entretien fut que les naufragés devaient se considérer prisonniers et qu\'ils resteraient sur l\'île Kotelnii, tant qu\'ils n\'auraient pas payé en bon argent russe une rançon de trois mille roubles. » Et où veut-il que nous les prenions, ce fils de la Grande Ourse ! s\'écria M. Cascabel. Les gueux ont dû voler tout ce qui restait de votre argent, monsieur Serge !... »
+
+Tchou-Tchouk fit un signe, et les prisonniers furent reconduits au-dehors. Ils étaient autorisés à se promener dans le village, à la condition de ne point s\'éloigner, et, dès le premier jour, ils purent reconnaître qu\'on les surveillait de très près. À cette époque, d\'ailleurs, en plein hiver, il leur eût été impossible de s\'enfuir pour gagner le continent.
+
+M. Serge et ses compagnons s\'étaient aussitôt rendus à la *Belle-Roulotte*. Là, se pressaient un grand nombre d\'indigènes, en extase devant John Bull, qui les gratifiait de ses meilleures grimaces. N\'ayant jamais vu de singes, ils se figuraient, sans doute, que ce quadrumane à poil roux faisait partie de la race humaine.
+
+« Ils en sont bien, eux ! fit observer Cornélia.
+
+--- Oui... mais ils la déshonorent ! » répondit M. Cascabel.
+
+Puis, réfléchissant :
+
+« J\'ai même eu tort, ajouta-t-il, de dire que ces sauvages étaient des singes ! Ils leur sont inférieurs à tous égards, et je t\'en demande pardon, mon petit John Bull ! »
+
+Et John Bull de répondre en faisant la culbute. Mais, lorsqu\'un des indigènes voulut lui prendre la main, il le mordit jusqu\'au sang.
+
+[« Bravo, John Bull !... Mords-les !...]{lang="FRE"} Mords-les et ferme ! » s\'écria Sandre.
+
+Toutefois, cela eût peut-être mal fini pour le singe, et il aurait pu payer cher son coup de dent, si l\'attention des naturels n\'eut été attirée par l\'apparition de Jako, dont la cage avait été ouverte, et qui se promenait en se balançant sur ses pattes.
+
+Pas plus que les singes, les perroquets n\'étaient connus dans ces archipels de la Nouvelle-Sibérie. Jamais personne n\'y avait vu un volatile de cette espèce, avec les vives couleurs de son plumage, ses yeux ronds en forme de bésicles, et son bec recourbé comme un croc.
+
+Et puis, quel effet Jako produisit, lorsque quelques mots, nettement articulés, sortirent de son bec ! Tout le répertoire du loquace animal y passa -- à l\'extrême stupéfaction des indigènes. Un oiseau qui parlait !... Et, superstitieux comme ils l\'étaient, les voilà qui se jettent à terre, aussi épouvantés que si des paroles se fussent échappées de la bouche de leurs divinités. Et M. Cascabel, qui s\'amusait à exciter son perroquet :
+
+« Va, Jako ! s\'écriait-il, en lui faisant des agaceries. Ne te gêne pas, Jako, et dis-leur flûte à ces imbéciles ! »
+
+Et Jako disait flûte -- un de ses mots favoris. Et il le disait avec un tel éclat de fanfare, que les indigènes finirent par décamper, en donnant des marques de la plus vive terreur. En dépit de ses inquiétudes, « ce qu\'elle riait, la famille ! » ainsi qu\'eût dit son illustre chef.
+
+« Allons !... allons ! reprit-il, en retrouvant un peu de sa bonne humeur, ce sera bien le diable, si nous n\'arrivons pas à ficher dedans ce troupeau de brutes ! »
+
+Les prisonniers étaient restés seuls, et puisqu\'il semblait que Tchou-Tchouk laissait la *Belle-Roulotte* à leur disposition, ils n\'avaient rien de mieux à faire qu\'à réintégrer leur demeure habituelle. Sans doute, ces néo-Sibériens la trouvaient très inférieure à leurs trous creusés sous la neige.
+
+A vrai dire, le véhicule n\'avait été dépouillé que de certains objets sans importance, mais aussi de ce qui restait d\'argent à M. Serge, -- argent que César Cascabel se promettait bien de ne pas abandonner même sous forme de rançon. En attendant, c\'était une heureuse chance que de retrouver le salon, la salle à manger, les chambres de la *Belle-Roulotte*, au lieu d\'habiter les infectes tanières de Tourkev. Rien n\'y manquait. La literie, les ustensiles, les provisions de conserves, paraît-il, n\'avaient point eu l\'heur de plaire à messieurs et mesdames les indigènes. S\'il fallait hiverner, en guettant l\'occasion de s\'échapper de l\'île Kotelnii, eh bien ! C\'est là que se passerait l\'hivernage.
+
+Entre-temps, puisqu\'on leur laissait entière liberté d\'aller et de venir, M. Serge et ses compagnons résolurent de se mettre en rapport avec les deux matelots qu\'un naufrage avait dû jeter sur l\'archipel des Liakhov. Peut-être pourraient-ils se concerter avec eux pour tromper la vigilance de Tchou-Tchouk et s\'enfuir, lorsque les circonstances seraient favorables.
+
+Le reste de la journée fut employé à remettre tout en ordre à l\'intérieur de la *Belle-Roulotte*. Grosse besogne, et ce que Cornélia se fit de mauvais sang, elle, la minutieuse ménagère ! Il y eut là de quoi occuper Kayette, Napoléone et Clou-de-Girofle pendant le reste de la journée.
+
+Il est à noter en passant, que, depuis qu\'il était résolu à jouer un bon tour à Sa Majesté Tchou-Tchouk, M. Cascabel avait recouvré toute sa bonne humeur d\'autrefois, si compromise par les derniers coups du sort.
+
+Le lendemain, M. Serge et lui allèrent à la recherche des deux matelots ; Ceux-ci, très probablement, jouissaient de la même liberté qu\'on leur laissait à eux-mêmes. En effet, ils n\'étaient point emprisonnés, et ce fut à la porte du réduit qu\'ils occupaient à l\'extrémité du village, que la rencontre se fit, sans provoquer aucune opposition de la part des indigènes.
+
+Ces matelots, âgés l\'un de trente-cinq ans, l\'autre de quarante, étaient d\'origine moscovite. Les traits tirés, la figure famélique, leurs vêtements de marins enveloppés de pelleteries en lambeaux, éprouvés par la faim non moins que par le froid, la figure à peine reconnaissable, sous une épaisse chevelure et une barbe en désordre, ils avaient l\'air fort misérables. C\'étaient cependant des hommes solides, vigoureusement constitués, et qui, à l\'occasion, pourraient donner un bon coup de main. Toutefois, il ne parut pas qu\'ils fussent très désireux de se lier avec ces étrangers dont ils avaient appris l\'arrivée sur l\'île Kotelnii. Et, pourtant, l\'identité de situation, un désir commun d\'en sortir en s\'aidant les uns les autres, auraient dû les rapprocher de la famille Cascabel.
+
+M. Serge interrogea ces deux hommes en russe. Le plus âgé déclara s\'appeler Ortik et le plus jeune Kirschef. Après une certaine hésitation, ils se décidèrent à raconter leur histoire.
+
+
+--- À quelle époque ? demanda M. Serge.
+
+--- Il y a deux mois !
+
+--- Et quel accueil vous a-t-on fait ?...
+
+--- Le même qu\'à vous, sans doute, répondit Ortik. Nous sommes prisonniers de Tchou-Tchouk, et il ne nous relâchera que contre rançon...
+
+--- Et où la prendre ? » reprit Kirschef.
+
+Puis, d\'un ton assez brusque, Ortik ajouta :
+
+« À moins que vous n\'ayez de l\'argent... pour vous et pour nous... car nous sommes compatriotes, je pense ?...
+
+--- En effet, répondit M. Serge, mais l\'argent que nous possédions a été volé par les indigènes, et nous sommes aussi dénués de ressources que vous pouvez l\'être !
+
+--- Tant pis ! » répliqua Ortik.
+
+Tous deux donnèrent alors quelques détails sur leur manière de vivre. C\'était cette cavité, étroite et obscure, qui leur servait de demeure, et on leur laissait une certaine liberté tout en les surveillant. Leurs vêtements étaient en lambeaux, ils n\'avaient d\'autre nourriture que la nourriture habituelle des indigènes, et c\'est à peine si cela leur suffisait. Ils pensaient, du reste, que la surveillance deviendrait beaucoup plus sévère au retour de la belle saison, lorsqu\'une évasion serait possible.
+
+« Comme il suffira de s\'emparer d\'un canot de pêche pour passer sur le continent, il est certain que les indigènes se défieront davantage, et peut-être nous enfermeront-ils ?...
+
+--- Mais la belle saison, répondit M. Serge, elle ne viendra pas avant quatre ou cinq mois, et rester prisonnier jusque-là...
+
+--- Avez-vous donc un moyen de vous échapper ?... demanda vivement Ortik..
+
+--- Non, pour l\'instant, répondit M. Serge. En attendant, il est tout naturel que nous cherchions à nous entraider. Vous paraissez avoir beaucoup souffert, mes amis, et si nous pouvons vous être utiles... »
+
+Les deux matelots remercièrent M. Serge, sans montrer trop d\'empressement. Si, de temps à autre, il voulait leur procurer une nourriture un peu meilleure, ils lui en seraient reconnaissants. Ils n\'en demandaient pas davantage, à moins qu\'on ne voulût leur faire don de quelques couvertures. Quant à demeurer ensemble, non ! Ils préféraient habiter leur trou, tout en promettant d\'aller rendre visite à la famille.
+
+M. Serge et M. Cascabel -- qui avait saisi quelques mots de cette conversation -- prirent congé des deux matelots. Bien que ces hommes eussent une physionomie peu sympathique, ce n\'était pas une raison pour ne point leur venir en aide. Des naufragés se doivent entre eux secours et assistance. On les soulagerait donc dans la mesure du possible, et, s\'il se présentait quelque occasion de s\'enfuir, M. Serge ne les abandonnerait pas. C\'étaient des compatriotes à lui... C\'étaient des hommes comme lui !
+
+Quinze jours s\'écoulèrent, pendant lesquels on se fit graduellement aux exigences de cette nouvelle situation. Chaque matin, obligation de comparaître devant le souverain indigène et de subir ses instances au sujet de la rançon qu\'il exigeait. Il s\'emportait, faisait des menaces, attestait ses idoles... Ce n\'était pas pour lui, c\'était pour elles qu\'il réclamait le tribut de la délivrance.
+
+« Vieux fourbe ! » s\'écriait M. Cascabel. Commence donc par rendre l\'argent !... On verra après ! »
+
+En somme, l\'avenir ne laissait pas d\'être inquiétant. On pouvait toujours craindre qu\'il ne voulût mettre ses menaces à exécution, ce Tchou-Tchouk, ou plutôt ce « Chou-Chou », comme l\'appelait M. Cascabel, bien que ce petit nom d\'amitié « lui allât comme un chapeau de bergère à un English à cheveux jaunes ! »
+
+Et toujours, il s\'ingéniait pour trouver le moyen de lui jouer un tour de sa façon. Lequel ?... Il cherchait et ne trouvait pas. Aussi, se demandait-il si son sac n\'était pas vide, et, par son sac, il entendait sa cervelle. En vérité, l\'homme qui s\'était permis d\'avoir cette belle idée, aussi hardie que regrettable, de revenir d\'Amérique en Europe par le chemin de l\'Asie, n\'avait que trop de raisons de se dire qu\'il n\'était plus qu\'une bête !
+
+« Mais non, César, mais non ! lui répétait Cornélia. Tu finiras par imaginer quelque bon truc !... Ça t\'arrivera au moment où tu y penseras le moins !
+
+--- Tu le crois ?...
+
+--- J\'en suis sûre ! »
+
+N\'était-ce pas touchant de voir l\'imperturbable confiance que Mme Cascabel gardait dans le génie de son mari, en dépit de son malencontreux projet de voyage !
+
+Du reste, M. Serge était là pour leur donner du coeur à tous. Et pourtant, les tentatives qu\'il faisait dans le but d\'amener Tchou-Tchouk à se relâcher de ses prétentions n\'obtenaient aucun succès. Au surplus, il n\'y avait pas lieu de se montrer trop impatient. Alors même que le chef indigène eût consenti à lui rendre la liberté, la famille Cascabel n\'aurait pu quitter l\'île Kotelnii en plein coeur de l\'hiver, par une température qui oscillait entre trente et quarante degrés au-dessous de zéro.
+
+Le 25 décembre étant arrivé, Cornélia voulut que la Noël fût célébrée avec quelque éclat. L\'éclat, ce serait tout simplement d\'offrir à ses convives un dîner plus soigné, plus abondant que d\'habitude, et où les conserves devaient faire tous les frais. En outre, comme elle ne manquait ni de farine, ni de riz, ni de sucre, l\'excellente ménagère mit tous ses soins à confectionner un gâteau gigantesque, dont le succès était assuré d\'avance.
+
+Les deux matelots russes furent invités à ce repas, et ils se rendirent à l\'invitation. C\'était la première fois qu\'ils pénétraient à l\'intérieur de la *Belle-Roulotte*.
+
+Dès que l\'un d\'eux eut parlé -- celui qui se nommait Kirschef, -- le son de la voix de cet homme frappa Kayette. Il lui semblait que cette voix ne lui était pas inconnue. Dire où elle avait pu l\'entendre, cela lui eût été impossible.
+
+D\'ailleurs, ni Cornélia, ni Napoléone, ni Clou lui-même ne se sentirent attirés par ces deux hommes, qui semblaient gênés en présence de leurs semblables.
+
+Vers la fin du repas, sur la demande d\'Ortik, M. Serge fut amené à raconter les aventures de la famille Cascabel dans la province alaskienne. Il dit comment il avait été recueilli par elle à demi-mort, après la tentative d\'assassinat commise sur sa personne par des complices de la bande Karnof.
+
+Si leur figure eût été en pleine lumière, on eût pu voir ces deux matelots échanger un singulier regard, au moment où il fut question du crime. Mais ce détail passa inaperçu, et, après avoir pris leur bonne part du gâteau, qui fut largement arrosé de vodka, Ortik et Kirschef quittèrent la *Belle-Roulotte*.
+
+A peine étaient-ils au dehors que l\'un disait :
+
+« En voilà, une rencontre !... C\'est le Russe que nous avons attaqué sur la frontière, et que cette damnée Indienne nous a empêchés d\'achever...
+
+--- Et de voler ! répliqua l\'autre.
+
+--- Oui !... ces milliers de roubles qui sont maintenant entre les mains de Tchou-Tchouk ! »
+
+Ainsi, les deux prétendus matelots étaient des malfaiteurs qui faisaient partie de cette bande Karnof, dont les forfaits avaient jeté l\'épouvante dans tout l\'Ouest-Amérique. À la suite de leur coup manqué contre M. Serge, qu\'ils n\'avaient pu dévisager au milieu de l\'obscurité, ils étaient parvenus à regagner Port-Clarence. Puis, quelques jours plus tard, au moyen d\'une barque volée par eux, ils avaient essayé de traverser le détroit de Behring ; mais, entraînés par les courants, après avoir failli cent fois périr, ils étaient venus s\'échouer sur la principale île de l\'archipel des Liakhov, où ils avaient été faits prisonniers par les indigènes.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b6 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6. .calibre171 .sigil_not_in_toc}
+
+Telle était la situation de M. Serge et de ses compagnons de voyage à la date du 1 janvier 1868. Déjà très alarmante par cela qu\'ils étaient prisonniers des néo-Sibériens de l\'archipel Liakhov, elle se compliquait encore de la présence d\'Ortik et de Kirschef. Qui sait si ces deux scélérats ne chercheraient pas à tirer profit de cette rencontre si inattendue ? Heureusement, ils ignoraient que le voyageur, attaqué par eux sur la frontière alaskienne, fût le comte Narkine, un condamné politique évadé de la forteresse d\'Iakoutsk, que M. Serge fût ce fugitif, qui cherchait à rentrer en Russie en se mêlant au personnel d\'une troupe foraine. S\'ils l\'avaient su, ils n\'auraient certainement pas hésité à se servir de ce secret, à faire du chantage vis-à-vis du comte Narkine, à le livrer même aux autorités moscovites, en échange d\'une grâce ou d\'une prime consentie en leur faveur. Mais ne pouvait-on craindre que le hasard révélât un secret dont les époux Cascabel avaient seuls connaissance ?
+
+Du reste, Olrik et Kirschef continuaient à vivre isolément, bien qu\'ils fussent très décidés, le cas échéant, à joindre leurs efforts à ceux de M. Serge pour recouvrer leur liberté.
+
+Ce qui n\'était que trop évident, c\'est qu\'il n\'y avait rien à tenter pendant cette période hivernale de l\'année polaire. Le froid était devenu excessif, au point que l\'air humide, rejeté par la respiration, se transformait en neige. Le thermomètre descendait parfois à quarante degrés au-dessous du zéro centigrade. Même avec des temps calmes, il aurait été impossible de supporter une telle température. Cornélia et Napoléone n\'osaient plus sortir de la *Belle-Roulotte* et, d\'ailleurs, on les en eût empêchés. Aussi, combien ces journées sans soleil, ou plutôt ces nuits de près de vingt-quatre heures, leur paraissaient interminables !
+
+Kayette, il est vrai, habituée aux hivers du Nord-Amérique, ne craignait pas de braver le froid du dehors. C\'est également ce que faisaient les femmes indigènes. Elles vaquaient à leurs travaux habituels, vêtues d\'une double robe de peau de renne, enveloppées du palsk de fourrure, chaussées de bas en pelleterie et de mocassins en cuir de phoque, coiffées d\'un bonnet garni de peau de chien. On ne leur voyait même pas le bout du nez -- ce qui n\'était pas à regretter, semblait-il.
+
+M. Serge, M. Cascabel, ses deux fils et Clou-de-Girofle, étroitement serrés dans leurs fourrures, faisaient quotidiennement la visite obligatoire à Tchou-Tchouk, ainsi que les deux matelots russes, auxquels on avait procuré de chaudes couvertures.
+
+En somme, les habitants de la Nouvelle-Sibérie n\'hésitent point à sortir, quelque temps qu\'il fasse. Ils chassent à la surface des longues plaines, durcie par le froid, se désaltérant de neige, se nourrissant de la chair des animaux qu\'ils tuent en route. Leurs traîneaux, très légers, fabriqués avec les maxilaires, les côtes et les fanons de baleine, sont montés sur des patins ou raquettes qu\'ils garnissent d\'une couche de glace en les arrosant au moment du départ. Ils ont pour attelage des équipages de rennes, qui leur rendent d\'excellents services. Quant à leurs chiens, de race samoyède, ils ressemblent à des loups, dont ils ont d\'ailleurs la férocité ; ils sont hauts sur pattes, et doublés d\'une épaisse fourrure noire et blanche ou jaune et brune.
+
+Lorsque les néo-Sibériens voyagent à pied, ils chaussent la longue raquette, le « ski », autrement dit le patin à neige, avec lequel ils franchissent rapidement de vastes espaces, sur le bord des détroits qui séparent les diverses îles de l\'archipel, en suivant les « tundras », bandes de terre le plus ordinairement formées sur la lisière des rivages arctiques.
+
+Les indigènes des Liakhov sont très inférieurs aux Esquimaux de l\'Amérique septentrionale pour la fabrication des armes. Arcs et flèches, voilà tout ce qui constitue leur arsenal offensif et défensif. Pour engins de pêche, ils possèdent des harpons, avec lesquels ils attaquent la baleine, et des filets qu\'ils tendent sous les « grundis », sortes de glaces de fond, où les phoques se laissent prendre. Ils font aussi usage de lances et de couteaux dans leurs luttes contre les morses -- ce qui n\'est pas sans quelque danger, car ces animaux sont des mammifères redoutables.
+
+Mais le fauve, dont ils ont surtout à appréhender la rencontre ou l\'attaque, c\'est l\'ours blanc, que les froids intenses de l\'hiver, la nécessité de se procurer un peu de nourriture après de longs jours de jeûne, poussent quelquefois jusqu\'aux villages de l\'archipel. Il faut le reconnaître, là, ces indigènes font preuve de bravoure ; ils ne fuient pas devant le puissant animal dont l\'abstinence accroît la férocité ; ils se jettent sur lui, résolument, le couteau à la main, et la lutte finit le plus souvent à leur avantage.
+
+A plusieurs reprises, en effet, la famille Cascabel fut témoin d\'une agression de ce genre, dans laquelle l\'ours polaire, après avoir grièvement blessé plusieurs hommes, ne tarda pas à succomber sous le nombre. Toute la tribu accourut alors, et le village fut en fête. Quelle aubaine que cette chair d\'ours -- excellente, paraît-il, pour des estomacs sibériens ! Les meilleurs morceaux allèrent, comme de juste, figurer sur la table ou plutôt dans l\'écuelle de Tchou-Tchouk. Quant à ses très humbles sujets, ils eurent chacun une petite part de ce qu\'il voulut bien leur laisser. De là, une occasion de se livrer à des libations prolongées, qui amenèrent l\'ivresse générale -- ivresse produite par l\'absorption d\'une liqueur composée avec les jeunes pousses de salix et de rhodiola, les sucs de l\'airelle rouge et ces baies jaunes de marais, dont on fait une abondante récolte pendant les quelques semaines de la saison chaude.
+
+En réalité, les ours sont rares dans ces archipels, et il n\'y a pas à compter sur ce gibier, dont la capture ne laisse pas d\'être fort périlleuse. Aussi la viande de renne forme-t-elle le fond de l\'alimentation indigène, et les femmes préparent avec le sang de l\'animal une soupe qui n\'excita jamais chez les Cascabel qu\'un invincible répugnance.
+
+Si l\'on demande comment les rennes peuvent vivre pendant l\'hiver, on répondra simplement que ces animaux ne sont point gênés de découvrir leur nourriture végétale même sous l\'épaisse couche des neiges. D\'ailleurs, d\'énormes provisions de fourrage sont récoltées avant les premiers froids, et cela suffit à l\'alimentation des milliers de ruminants que renferment les territoires de la Nouvelle-Sibérie.
+
+« Des milliers !... Et dire qu\'une vingtaine, sans plus, feraient si bien notre affaire ! » répétait M. Cascabel, en se demandant de quelle façon il parviendrait à remplacer son attelage.
+
+Il est à propos, ici, d\'insister sur ce fait, que les habitants des îles Liakhov sont non seulement idolâtres, mais extrêmement superstitieux, qu\'ils rapportent tout à leurs divinités, et obéissent en aveugles aux idoles fabriquées de leurs propres mains. Cette idolâtrie passe toute croyance, et, entre tous, le grand chef Tchou-Tchouk pratiquait sa religion avec un fanatisme que ses sujets partageaient volontiers.
+
+Chaque jour, Tchou-Tchouk se rendait à une sorte de temple, ou plutôt de lieu sacré, nommé le Vorspük, c\'est-à-dire « la grotte aux prières ». Les divinités, représentées par de simples poteaux de bois peinturluré, étaient rangées au fond d\'une excavation rocheuse, dans laquelle les indigènes se prosternaient tour à tour. Ils ne poussaient point l\'intolérance jusqu\'à interdire aux étrangers de s\'approcher du Vorspük ; au contraire, ils les invitaient à venir. Aussi M. Serge et ses compagnons purent-ils satisfaire leur curiosité en visitant les idoles néo-sibériennes.
+
+A l\'extrémité de chacun de ces poteaux grimaçaient de hideuses têtes de volatiles, yeux ronds et rouges, becs formidables largement ouverts, crêtes osseuses qui se recourbaient en cornes. Les fidèles venaient s\'étendre au pied de ces poteaux, ils y collaient leurs oreilles, ils faisaient leurs prières et, bien que le dieu ne leur eût jamais répondu, ils s\'en allaient avec la persuasion d\'avoir entendu sa réponse -- réponse généralement conforme à la secrète pensée de l\'adorateur. Lorsqu\'il s\'agissait d\'une question relative à quelque nouveau tribut que Tchou-Tchouk voulait imposer à ses sujets, ce roublard ne manquait pas d\'obtenir l\'approbation céleste, et pas un de ses sujets n\'eût résisté à un ordre venu de si haut.
+
+Un jour de chaque semaine, il y avait une cérémonie religieuse plus importante, en ce sens que les indigènes s\'y rendaient en grande pompe. Qu\'il fit un froid intense, que le chasse-neige se déchaînât avec une violence de coups de faux, lancés au ras du sol, personne n\'hésitait à suivre Tchou-Tchouk au Vorspük. Et, depuis l\'arrivée de la *Belle-Roulotte*, sait-on comment hommes et femmes s\'accoutraient pour ces solennités ? Avec les oripeaux volés à la famille, qu\'ils portaient par-dessus leurs vêtements, les maillots déteints de M. Cascabel, les jupes défraîchies de Cornélia, les casaques de leurs enfants, le casque à panache de Clou-de-Girofle ! Et le piston dans lequel l\'un soufflait à perdre haleine, le trombone dont l\'autre tirait des sons invraisemblables, et le tambour, la grosse caisse, tous ces instruments d\'un orchestre forain, qui contribuaient par leur assourdissant vacarme à l\'éclat de la fête !
+
+C\'est alors que M. Cascabel hurlait contre ces coquins, contre ces voleurs, qui se permettaient d\'user ses costumes, qui risquaient de désarticuler son trombone, de fausser son piston, de crever sa grosse caisse !
+
+« Canailles !... Canailles ! » répétait-il, et M. Serge lui-même ne parvenait pas à le calmer.
+
+
+En revanche, M. Cascabel avait voulu lui apprendre plusieurs tours de passe-passe, et d\'escamotage -- pour son plaisir, disait-il. Mais, en réalité, cela pourrait servir à M. Serge, s\'il devait jamais jouer au naturel le rôle de saltimbanque, afin de mieux tromper la police moscovite. Quant à Jean, il s\'occupait de compléter l\'instruction de la jeune Indienne. L\'élève s\'exerçait à lire et à écrire sous la direction de son jeune professeur. Kayette avait une si vive intelligence, et Jean montrait tant de zèle pour la développer ! Était-il donc dit que ce brave garçon, si passionné pour l\'étude, si heureusement doué, ne serait jamais qu\'un pauvre forain, qu\'il ne parviendrait pas à s\'élever dans l\'ordre social ? Mais, cela, c\'était le secret de l\'avenir, et quel avenir était réservé à cette famille, au pouvoir d\'une tribu sauvage, sur les dernières limites du monde connu ?
+
+En effet, les exigences de Tchou-Tchouk ne paraissaient pas devoir se modifier. Ses prisonniers, il ne les relâcherait point sans rançon, et il ne semblait guère qu\'un secours pût leur venir du dehors. Quant à l\'argent réclamé par ce rapace souverain des Liakhov, comment arriverait-on à se le procurer ?
+
+Il est vrai, les Cascabel possédaient un trésor -- sans le savoir. C\'était la pépite, la fameuse pépite du jeune Sandre -- du moins le gamin n\'avait aucun doute au sujet de sa valeur. Lorsque personne ne le voyait, il la tirait de sa cachette, il la contemplait, il la frottait, il la polissait. Certes, il n\'eût point hésité à la sacrifier pour désintéresser Tchou-Tchouk et racheter sa famille. Mais un morceau d\'or, sous cette forme et cette apparence de caillou, jamais le « Chou-Chou » de son père n\'eût voulu l\'accepter pour de l\'argent comptant. Aussi, Sandre s\'en tenait-il à son idée d\'attendre le retour en Europe, et là, il saurait bien changer sa pépite contre du bon or monnayé, qui remplacerait avantageusement les dollars volés en Amérique !
+
+Rien de mieux, en somme, si ce retour en Europe pouvait jamais être effectué. Or, il n\'y avait pas apparence qu\'il fût proche ! Et c\'est bien ce dont se préoccupaient les deux malfaiteurs, que la mauvaise fortune avait jetés sur le chemin de la famille Cascabel.
+
+Un jour -- 23 janvier ---, Ortik se présenta à la *Belle-Roulotte*, afin de s\'entretenir avec M. Serge, Jean et son père, à propos de leur rapatriement. En réalité, son but était de savoir ce que les prisonniers comptaient faire pour le cas où Tchou-Tchouk leur permettrait de quitter l\'île Kotelnii.
+
+Et tout d\'abord :
+
+« Monsieur Serge, demanda-t-il, lorsque vous êtes parti de Port-Clarence, votre intention était-elle d\'hiverner en Sibérie ?
+
+--- Oui, répondit M. Serge, il était convenu que nous chercherions à atteindre quelque bourgade, où nous séjournerions jusqu\'à la belle saison. Pourquoi me demandez-vous cela, Ortik ?
+
+--- Parce que je désirerais savoir si vous songez à reprendre votre premier itinéraire, en admettant que ces maudit indigènes vous rendent la liberté...
+
+--- Non point, répliqua M. Serge, car ce serait allonger inutilement une route déjà longue. Il serait préférable, suivant moi, de prendre direction sur la frontière russe, afin de gagner l\'une des passes de l\'Oural...
+
+--- Dans le nord de la chaîne, alors ?...
+
+--- Sans doute, puisque ce serait le chemin le plus court que nous suivrions à travers la steppe.
+
+--- Et votre voiture, monsieur Serge ? reprit Ortik. Est-ce que vous la laisseriez ici ?... »
+
+M. Cascabel avait évidemment compris la question, car il se hâta de répondre :
+
+« Laisser la *Belle-Roulotte !* ... Non, certes, si je puis me procurer un attelage, et avant peu... j\'espère bien...
+
+--- Avez-vous une idée ?... demanda M. Serge.
+
+--- Pas l\'ombre ; mais Cornélia ne cesse de me répéter qu\'il m\'en viendra une, et Cornélia ne s\'est jamais trompée ! Voilà une femme supérieure, et qui me connaît bien, monsieur Serge ! »
+
+Toujours le même, cet étonnant César Cascabel, toujours confiant dans son étoile, et ne pouvant s\'imaginer que quatre Français et trois Russes ne viendraient pas à bout d\'un Tchou-Tchouk !
+
+M. Serge avait fait connaître à Ortik l\'opinion de M. Cascabel sur la question de la *Belle-Roulotte*.
+
+« Cependant, pour emmener votre voiture, reprit le matelot russe, qui tenait, paraît-il, à insister sur ce point, il vous faudra un attelage de rennes...
+
+--- Comme vous dites.
+
+--- Et vous pensez que Tchou-Tchouk vous le fournira ?...
+
+--- Je pense que M. Cascabel trouvera le moyen de l\'y obliger.
+
+--- Et alors vous essayerez de rejoindre la côte sibérienne en traversant l\'ice-field ?....
+
+--- Parfaitement !
+
+--- En ce cas, monsieur Serge, il serait nécessaire de partir avant la débâcle des glaces, c\'est-à-dire avant trois mois...
+
+--- Évidemment.
+
+--- Et comment ?...
+
+--- Peut-être les indigènes consentiront-ils à nous laisser partir ?...
+
+--- Je ne le crois pas, puisqu\'il est impossible de leur payer rançon. »
+
+M. Cascabel, à qui la réponse d\'Ortik venait d\'être rapportée, répondit aussitôt :
+
+« À moins que ces imbéciles n\'y soient forcés !
+
+--- Forcés... Par qui ? demanda Jean.
+
+--- Par les circonstances !
+
+--- Les circonstances, père ?
+
+--- Oui ! Tout est là... Les circonstances, mon fils, les circonstances ! »
+
+Et il se grattait la tête à s\'arracher les cheveux, sans parvenir à en extraire une idée.
+
+« Voyons, mes amis, dit M. Serge, l\'essentiel est de prévoir le cas où les indigènes refuseraient de nous rendre la liberté. Est-ce que nous n\'essayerons pas de nous passer de leur consentement ?
+
+--- Nous essayerons, monsieur Serge, répondit Jean. Mais nous serons contraints d\'abandonner notre *Belle-Roulotte* !
+
+--- Ne parle pas ainsi, Jean !... s\'écria M. Cascabel. Ne parle pas ainsi, tu me brises le coeur !...
+
+--- Réfléchis, père !
+
+--- Non !... La *Belle-Roulotte*, c\'est notre maison qui marche !... C\'est le toit sous lequel tu aurais pu naître, mon fils !... L\'abandonner à la merci de ces amphibies, de ces... !
+
+--- Mon cher Cascabel, reprit M. Serge, nous ferons tout ce qui dépendra de nous pour décider les indigènes à nous rendre la liberté. Mais, comme toutes les probabilités sont pour qu\'ils s\'y refusent, une évasion sera notre seule ressource. Eh bien, si nous parvenons à tromper la surveillance de Tchou-Tchouk, nous ne pourrons le faire qu\'en abandonnant...
+
+--- La maison des Cascabel ! s\'écria le chef de la famille, qui semblait faire rouler les *r*, bien qu\'il n\'y en eût pas un seul dans ces quatre mots.
+
+--- Père, reprit Jean, il y aurait peut-être un autre moyen de salut, qui arrangerait les choses....
+
+--- Et lequel ?
+
+--- Pourquoi l\'un de nous ne tenterait-il pas de s\'enfuir, afin de gagner le continent et de prévenir les autorités russes ?... Monsieur Serge, je m\'offre volontiers...
+
+--- Cela... jamais ! dit vivement M. Cascabel.
+
+--- Non... ne le faites pas ! » répondit non moins vivement Ortik, lorsque M. Serge lui eut fait connaître la proposition de Jean.
+
+M. Cascabel et le matelot s\'étaient trouvés d\'accord à ce sujet ; mais, si l\'un ne songeait qu\'au danger que courrait le comte Narkine, en ayant affaire à l\'administration moscovite, l\'autre ne se souciait aucunement de se trouver en présence de ses agents.
+
+Du reste, M. Serge répondit en envisageant la proposition de Jean à un autre point de vue :
+
+« Je te reconnais bien là, mon brave garçon, dit-il, et je te remercie de l\'offre que tu fais de te dévouer pour nous ! Mais ton dévouement ne pourrait aboutir. Vouloir, en plein hiver arctique, s\'aventurer à travers l\'ice-field, franchir les cent lieues qui séparent l\'île Kotelnii du continent, ce serait folie ! Tu périrais en route, mon pauvre garçon ! Non ! Mes amis, ne nous séparons pas, et, si nous parvenons d\'une façon ou d\'une autre à quitter l\'archipel des Liakhov, nous le quitterons tous ensemble !
+
+--- Voilà qui est bien dit, ajouta M. Cascabel, et je veux que Jean me promette de ne rien entreprendre sans ma permission...
+
+--- Et quand je dis que nous partirons tous ensemble, reprit M. Serge, en s\'adressant à Ortik, j\'entends par là que Kirschef et vous, vous nous suivrez tous deux... Nous ne vous laisserons pas entre les mains des indigènes.
+
+--- Je vous remercie, monsieur Serge, répondit Ortik, et Kirschef et moi, nous saurons être utiles pendant ce voyage à travers la Sibérie. En ce moment, il n\'y a rien à tenter. Mais il importe que nous soyons prêts à fuir avant la débâcle, dès que les grands froids auront cessé. »
+
+Et cela dit, Ortik se retira.
+
+« Oui, reprit alors M. Serge, il faudra être prêts...
+
+--- Nous le serons ! affirma M. Cascabel. Que ferons-nous pour cela ?... Je veux bien que le loup me croque, si je m\'en doute ! »
+
+En effet, de quelle façon pourrait-on prendre congé de Tchou-Tchouk avec ou sans son assentiment, c\'était la préoccupation, ou, pour mieux dire, la question à l\'ordre du jour. Tromper la vigilance des indigènes, cela était au moins très difficile ! Amener Tchou-Tchouk à meilleure composition, il n\'y fallait guère compter ! Il n\'y avait donc qu\'un moyen : c\'était de « le mettre dedans » ainsi que le répétait vingt fois par jour M. Cascabel.
+
+Oui ! C\'est bien à cela à quoi il s\'appliquait ! Mais il eut beau « se décarcasser la caboche », selon une de ses expressions favorites, le mois de janvier s\'acheva, sans qu\'il eût encore rien trouvé au fond de son sac !
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b7 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7. .calibre171 .sigil_not_in_toc}
+
+Ils furent rudes, les débuts de février -- ce mois pendant lequel le froid, sous cette latitude, arrive à congeler le mercure des thermomètres ! Certes, on est encore loin des températures de l\'espace interstellaire, de ces deux cent soixante-treize degrés au-dessous de zéro qui immobilisent les molécules des corps en constituant l\'état solide absolu. Et pourtant, on eût pu croire que les molécules de l\'air ne glissaient plus les unes sur les autres, que l\'atmosphère était comme solidifiée. Cet air que l\'on respirait, il brûlait comme du feu. L\'abaissement de la colonne thermométrique était tel que les hôtes de la *Belle-Roulotte* durent se résoudre à n\'en plus sortir. Le ciel se montrait d\'une extrême pureté, et les constellations y brillaient avec une netteté incomparable, à laisser croire que le regard atteignait les dernières profondeurs de la voûte céleste. Quant à la clarté du jour, vers midi, ce n\'était qu\'un mélange blafard d\'aube et de crépuscule.
+
+Cependant les indigènes n\'hésitaient point, par habitude, à braver ces conditions climatériques. Mais quelles précautions ils prenaient pour que leurs pieds, leurs mains, leurs nez, ne fussent pas frappés d\'une congélation subite ! Le corps enveloppé de peaux de rennes, la tête encapuchonnée, on ne voyait plus rien de leurs personnes. C\'étaient des paquets de fourrures qui marchaient. Et pourquoi s\'aventuraient-ils ainsi hors de leurs demeures ? C\'était par ordre de Tchou-Tchouk. Ne fallait-il pas s\'assurer si les prisonniers, qui ne pouvaient plus faire leur visite quotidienne, ne lui avaient point faussé compagnie ? Précaution superflue par un temps pareil !
+
+« Bien le bonsoir, espèces d\'amphibies ! Leur criait de chez lui M. Cascabel, lorsqu\'il les apercevait à travers les petites fenêtres dont il avait déglacé intérieurement les vitres. Il faut que ces animaux aient du sang de phoque dans les veines !... Ils vont et viennent là ou d\'honnêtes gens seraient gelés en cinq minutes ! »
+
+En somme, dans les compartiments de la *Belle-Roulotte* hermétiquement clos, la température se maintenait à un degré supportable. La chaleur du fourneau de la cuisine, chauffé avec le bois fossile -- ce qui permettait d\'économiser la provision de pétrole -- se communiquait à toutes les chambres, qu\'il fallait même aérer de temps à autre. Mais alors, à peine la porte de l\'avant-train était-elle ouverte, que toute matière liquide se gelait instantanément à l\'intérieur. Il n\'y avait pas moins de quarante degrés de différence entre le dedans et le dehors, -- ce que M. Serge aurait constaté, si les thermomètres n\'eussent pas été volés par les indigènes.
+
+
+Il y eut bien encore quelques violents à-coups de froid, qui modifiaient brusquement l\'état de l\'atmosphère. Néanmoins, vers le milieu du mois, la moyenne thermométrique n\'était plus que d\'une vingtaine de degrés au-dessous de zéro.
+
+M. Serge, M. Cascabel, Jean, Sandre et Clou-de-Girofle se hasardèrent donc à remettre le pied au-dehors, en prenant les plus minutieuses précautions pour empêcher la transition d\'être trop brutale. Au point de vue de l\'hygiène, c\'était là le plus grand danger qu\'ils pussent courir.
+
+Les environs du campement avaient entièrement disparu sous le même tapis blanc, et il était impossible de reconnaître les dénivellations du sol. Et ce n\'était pas par manque de clarté, car, pendant deux heures, l\'horizon du sud fut coloré d\'une lueur blafarde, un reflet de rayons sans chaleur, qui s\'accentuerait avec l\'approche de l\'équinoxe du printemps. On put donc entreprendre quelques promenades, et, tout d\'abord, sur l\'injonction formelle de Tchou-Tchouk, il y eut lieu de se rendre à sa demeure.
+
+Rien n\'était changé aux dispositions de ce têtu d\'indigène. Les prisonniers furent même avisés d\'avoir à se procurer une rançon de trois mille roubles dans le plus bref délai, ou Tchou-Tchouk verrait ce qu\'il aurait à faire.
+
+« Abominable gueux !... lui répondit M. Cascabel, dans ce pur français que Sa Majesté ne pouvait comprendre. Oui !... Triple bête !... Quadruple brute !... Roi des idiots !... »
+
+Il est vrai, ces qualificatifs, qui s\'appliquaient si justement au chef des Liakhov, n\'avançaient guère les choses. Et, ce qui était grave, c\'est que Tchou-Tchouk menaçait d\'en arriver à des mesures de rigueur.
+
+C\'est alors que, sous l\'empire d\'une fureur concentrée, M. Cascabel eut une inspiration de génie -- ce qui ne saurait surprendre de la part d\'un homme si extraordinairement débrouillard.
+
+« Nom d\'un phoque ! s\'écria-t-il un beau matin, si cette farce, cette bonne farce pouvait réussir !... Et pourquoi pas ?... avec de pareilles cruches ! »
+
+Bien que cette phrase lui eût échappé, M. Cascabel crut devoir garder son secret. Il n\'en voulut rien dire à personne -- pas même à M. Serge, pas même à Cornélia.
+
+Cependant, paraît-il, une des conditions indispensables à la réussite de son projet, c\'était qu\'il pût parler distinctement la langue russe, dont se servent toutes les peuplades de la Sibérie septentrionale. En sorte que, tandis que Kayette se perfectionnait dans l\'étude du français sous la direction de son ami Jean, M. Cascabel entreprit de se perfectionner dans l\'étude du russe sous la direction de son ami Serge. Et aurait-il pu trouver un professeur plus dévoué ?
+
+Il s\'ensuit que le 16 février, tandis qu\'il se promenait avec M. Serge autour de la *Belle-Roulotte*, il lui fit part de son désir d\'apprendre sa langue plus à fond.
+
+« Voyez-vous, dit-il, puisque nous allons en Russie, il me sera fort utile de parler le russe, et je ne serai point embarrassé pendant mon séjour à Perm\'et à Nijni.
+
+--- D\'accord, mon cher Cascabel, répondit M. Serge. Pourtant, avec ce que vous savez déjà de notre langue, vous pourriez presque vous tirer d\'affaire !
+
+--- Non, monsieur Serge, non ! Si je saisis à peu près ce qu\'on me dit, je ne sais pas me faire comprendre, et c\'est à cela que je voudrais arriver.
+
+--- Comme il vous plaira.
+
+--- Et d\'ailleurs, monsieur Serge, cela fera toujours passer le temps ! »
+
+En somme, la proposition de M. Cascabel n\'avait rien de surprenant, et personne ne s\'en montra surpris.
+
+Le voilà donc piochant son russe avec M. Serge, travaillant deux ou trois heures par jour -- moins au point de vue grammatical que pour la prononciation. C\'est même à cela qu\'il avait l\'air de tenir plus particulièrement.
+
+Or, si les Russes parlent très aisément la langue française, et sans rien garder de leur accent d\'origine, il est moins facile à des Français de parler la langue russe. Aussi se figurerait-on difficilement les soins que prit M. Cascabel, les efforts d\'articulation auxquels il se livra, les éclats de voix dont il remplit la *Belle-Roulotte*, afin d\'arriver à la perfection.
+
+Et vraiment, avec ses dispositions naturelles pour le polyglottisme, il fit des progrès qui émerveillèrent son personnel.
+
+Puis, sa leçon terminée, il s\'en allait sur la grève, et là, certain de n\'être entendu de personne, il s\'exerçait à prononcer diverses phrases d\'une voix retentissante, dont il variait les intonations, en faisant vibrer les *r* à la manière des Russes. Et Dieu sait si, dans l\'exercice de sa profession de saltimbanque, il avait contracté l\'habitude de ces vibrations !
+
+Quelquefois, il rencontrait Ortik et Kirschef et, comme les deux matelots ne savaient pas un mot de français, il s\'entretenait avec eux dans leur langue, s\'assurant ainsi qu\'il commençait à se faire très suffisamment comprendre.
+
+Du reste, ces deux hommes venaient plus fréquemment à la *Belle-Roulotte*. Kayette, toujours impressionnée par la voix de Kirschef, cherchait à retrouver dans son souvenir en quelle occasion elle avait pu l\'entendre...
+
+Entre Ortik et M. Serge, la conversation, à laquelle se mêlait maintenant M. Cascabel, portait invariablement sur les moyens de quitter l\'île, et on n\'arrivait à rien de pratique.
+
+« Il y a une chance de nous rapatrier, à laquelle nous n\'avons point songé, et qui pourrait se présenter, dit un jour Ortik.
+
+--- Laquelle ?... demanda M. Serge.
+
+--- Lorsque la mer Polaire est redevenue libre, répondit le matelot, il n\'est pas rare que les baleiniers passent en vue de l\'archipel des Liakhov. Dans ce cas, n\'y aurait-il pas moyen de faire des signaux, et d\'attirer quelque navire ?...
+
+--- Ce serait exposer son équipage à devenir prisonnier de Tchou-Tchouk comme nous le sommes, et sans aucun profit pour notre délivrance, répondit M. Serge. Cet équipage ne serait pas en force et tomberait entre les mains des indigènes...
+
+--- D\'ailleurs, reprit M. Cascabel, la mer ne sera pas libre avant trois mois, et jamais ma patience n\'ira jusque-là !... »
+
+Il ajouta, après un instant de réflexion :
+
+« Et puis, si nous parvenions à prendre passage sur un baleinier, même avec le consentement de ce vieux brave homme de Chou-Chou, nous serions forcés d\'abandonner la *Belle-Roulotte*...
+
+--- C\'est un abandon auquel il faudra bien nous résigner, sans doute ! fit observer M. Serge.
+
+--- Nous résigner ! s\'écria M. Cascabel. Allons donc !
+
+--- Est-ce que vous auriez trouvé un expédient ?...
+
+--- Eh ! Eh ! »
+
+M. Cascabel n\'en dit pas davantage. Mais quel sourire erra sur ses lèvres, quel éclair illumina son regard !
+
+Aussi, lorsqu\'elle connut cette réponse de son mari, Cornélia fut-elle amenée à dire :
+
+« César a certainement imaginé quelque chose !... Quoi ?... je n\'en sais rien ! Après tout, on doit s\'y attendre avec un pareil homme !
+
+--- Père est plus fin que monsieur Tchou-Tchouk ! répondit la petite Napoléone.
+
+--- Avez-vous remarqué, fit observer Sandre, qu\'il a pris l\'habitude de l\'appeler : vieux brave homme !... Un petit nom d\'amitié !
+
+--- À moins que ce soit tout le contraire !... » répliqua Clou-de-Girofle.
+
+Pendant la seconde quinzaine de février, le relèvement de la température suivit son cours d\'une façon très sensible. Grâce au vent qui soufflait du sud, quelques courants moins froids se propageaient à travers l\'atmosphère.
+
+Il n\'y avait donc pas de temps à perdre. Après avoir été aux prises avec la débâcle dans le détroit de Behring, grâce à la tardiveté de l\'hiver, c\'eût été le comble de la malchance de se trouver exposé aux mêmes dangers, par suite de la précocité du printemps. En effet, si le projet de M. Cascabel réussissait, s\'il décidait Tchou-Tchouk à le laisser partir lui, son personnel et son matériel, il fallait que ce départ s\'effectuât alors que l\'ice-field, uniformément solidifié, s\'étendrait entre l\'archipel des Liakhov et la côté sibérienne.
+
+Un bon attelage de rennes pourrait accomplir cette partie du voyage dans des conditions relativement favorables, et sans que les voyageurs eussent rien à craindre d\'une nouvelle dislocation du champ de glaces.
+
+« Dites-moi, mon cher Cascabel, demanda un jour M. Serge, vous espérez donc que ce vieux coquin de Tchou-Tchouk vous fournira les rennes dont vous avez besoin pour traîner notre voiture jusqu\'au continent ?
+
+--- Monsieur Serge, répondit gravement M. Cascabel. Chou-Chou n\'est point un vieux coquin. C\'est même un digne et excellent homme ! S\'il consent à nous laisser partir, il nous permettra d\'emmener la *Belle-Roulotte*, s\'il nous le permet, il ne pourra faire moins que de nous offrir une vingtaine de rennes, une cinquantaine, une centaine, un millier -- si je l\'exige !
+
+--- Vous le tenez donc ?...
+
+--- Si je tiens mon Chou-Chou ?... C\'est comme si j\'avais le bout de son nez entre mes doigts, monsieur Serge !... Et quand je tiens, moi, je tiens ferme ! »
+
+Toujours cette attitude d\'un homme sûr de lui, et toujours son sourire de satisfaction ! Et même, ce jour-là, après avoir appuyé son index et son médium sur ses lèvres à demi avancées, il envoya un baiser à l\'adresse de Sa Majesté indigène. Mais M. Serge, comprenant qu\'il désirait garder une absolue réserve sur ses projets, n\'eut pas le mauvais goût d\'insister pour les connaître.
+
+Cependant, grâce à l\'adoucissement de la température, les sujets de Tchou-Tchouk commençaient à reprendre leurs occupations habituelles, chasse aux oiseaux, pêche aux phoques qui reparaissaient à la surface de l\'ice-field. En même temps, les cérémonies religieuses, interrompues par les grands froids, ramenaient les fidèles à la grotte des idoles.
+
+C\'était le vendredi de chaque semaine que le concours de toute la tribu leur donnait le plus d\'éclat. Les vendredis, paraît-il, sont les dimanches de la Nouvelle-Sibérie. Or, le vendredi 29 -- cette année 1868 était bissextile -- allait provoquer une procession générale des indigènes.
+
+La veille au soir, M. Cascabel se contenta simplement de dire, au moment de se coucher :
+
+« Demain, tenons-nous prêts pour la cérémonie du Vorspük, en compagnie de notre ami Chou-Chou...
+
+--- Quoi ?... tu veux, César ?... répondit Cornélia.
+
+--- Je veux ! »
+
+Que signifiait cette proposition si catégoriquement formulée ? Est-ce que M. Cascabel espérait amadouer le souverain des Liakhov en prenant part à ses adorations superstitieuses ? Certainement, Tchou-Tchouk aurait vu d\'un bon oeil que ses prisonniers eussent rendu hommage aux divinités du pays. Mais les adorer, embrasser la religion indigène, c\'était autre chose, et il était peu probable que M. Cascabel allât jusqu\'à l\'apostasie pour séduire Sa Majesté néo-sibérienne !... Fi donc !
+
+Quoi qu\'il en soit, le lendemain, au lever du jour, toute la tribu était en mouvement. Temps magnifique, température qui se chiffrait par une dizaine de degrés seulement au-dessous de zéro. Et puis, il y avait déjà quatre à cinq heures de clarté diurne, avec un avant-goût des rayons solaires, dont la pointe se glissait au-dessus de l\'horizon.
+
+Les habitants étaient sortis de leurs taupinières. Hommes, femmes, enfants, vieillards, adultes, avaient revêtu leur plus bel accoutrement, houppelandes de peaux de phoque, palsk de peaux de renne, toutes fourrures dehors. C\'était un étalage sans pareil de pelleteries à poils blancs ou noirs, de bonnets brodés de perles fausses, de plastrons à dispositions coloriées, de lanières de cuir serrées autour du front, de pendants d\'oreilles, de bracelets, de bijoux sculptés en os de morses, suspendus au cartilage du nez.
+
+Et pourtant, cela n\'avait pas semblé suffisant pour une telle solennité ; quelques-uns des notables de la tribu avaient jugé à propos de se parer avec plus de richesse encore, et c\'étaient les divers objets volés à la *Belle-Roulotte* qui faisaient les frais de cette ornementation.
+
+En effet, sans parler des costumes de saltimbanque à oripeaux et fanfreluches dont ils s\'étaient revêtus, des chapeaux de clown et des casques à la Mangin dont ils étaient coiffés, les uns portaient en bandoulière une corde à laquelle pendaient les anneaux qui servaient aux exercices de jongleur, les autres balançaient à leur ceinture un chapelet de boules et d\'haltères ; enfin le grand chef, Tchou-Tchouk, étalait pompeusement sur son torse un baromètre anéroïde, comme la décoration d\'un ordre fraîchement créé par le souverain de la Nouvelle-Sibérie.
+
+Et les instruments de l\'orchestre forain qui mêlaient leurs notes dans un épouvantable concert, un vacarme charivarique, le piston rivalisant avec le trombone, le tambour donnant la réplique à la grosse caisse !
+
+Cornélia était non moins furieuse que ses enfants d\'entendre de si assourdissantes cacophonies. Tous eussent volontiers sifflé ces artistes qui jouaient « comme des phoques ! » de l\'avis de Clou-de-Girofle.
+
+Eh bien ! -- c\'était à ne pas le croire -- M. Cascabel souriait à ces barbares exécutants ; il ne leur ménageait ni ses compliments ni ses hurrahs, il battait des mains, criant bravo !... bravo !... et répétait :
+
+« Vraiment ces braves gens m\'étonnent !... Ils sont particulièrement doués pour la musique, et, s\'ils veulent s\'engager dans ma troupe, je leur garantis de grands succès à la foire de Perm\'en attendant celle de Saint-Cloud ! »
+
+Cependant, au milieu de cet horrible tumulte, la procession se déroulait à travers le village, en se dirigeant vers le lieu sacré, où les idoles attendaient l\'hommage de leurs fidèles. Tchou-Tchouk marchait en tête. M. Serge et M. Cascabel, puis la famille et les deux matelots russes venaient immédiatement derrière lui, escortés de toute la population de Tourkef.
+
+Le cortège s\'arrêta devant l\'évidement rocheux au fond duquel se dressaient les divinités indigènes, drapées de fourrures superbes et ornées de peintures qui avaient été rafraîchies pour la circonstance.
+
+Alors Tchou-Tchouk entra dans le Vorspük, les mains levées, et, après avoir incliné trois fois la tête, il s\'accroupit sur un tapis de peaux de rennes étendu sur le sol. C\'était la manière de s\'agenouiller dans le pays.
+
+M. Serge et ses compagnons s\'empressèrent d\'imiter le souverain, et l\'assistance se prosterna derrière eux.
+
+Après que le silence se fut religieusement établi, Tchou-Tchouk, d\'un ton de prédicateur anglican, adressa quelques paroles moitié chantées, moitié murmurées, aux trois idoles, superbes dans leur magnificence hiératique...
+
+Soudain, une voix lui répond, -- une voix puissante, bien timbrée, qui se fait entendre jusqu\'au coin le plus reculé de la grotte.
+
+O prodige ! Cette voix sort du bec de l\'une des divinités, celle de droite, et voici ce qu\'elle dit en langue russe :
+
+« Ani sviati, éti inostrantsi, katori ote zapada prichli ! Zatchiéme ti ikhe zaderjivaièche ! »
+
+Ce qui signifie :
+
+« Ces étrangers, qui sont venus de l\'Occident, sont sacrés ! Pourquoi les retiens-tu ? »
+
+Après ces mots, que tous les fidèles entendirent distinctement, il se produisit une stupéfaction générale.
+
+C\'était la première fois que les dieux de la Nouvelle-Sibérie daignaient converser avec leurs adorateurs.
+
+Et alors une seconde voix, plus accentuée -- une voix de commandement ---, s\'échappe du bec de l\'idole plantée à gauche, et dit en vibrant :
+
+*« Ya tébié prikajou étikhe arestantof otpoustite. Tvoïe narode doljèn dlia nikhe samoïe bolchoïé ouvajénié imiéte i nime vernoute vsié vièchtchi katori ou nikhe bouili vziati. Ya tébié prikajou ime oblékhtchite vozvrachtchénié na sibirski bérèg. »* Trois phrases qui peuvent se traduire ainsi, et dont les injonctions s\'adressent bien à Tchou-Tchouk :
+
+« Ordre à toi de mettre ces prisonniers en liberté ! Ordre à ton peuple d\'avoir pour eux les plus grands égards, de leur rendre tous les objets dont ils ont été dépouillés ! Ordre de leur faciliter le retour à la côte sibérienne ! »
+
+Ce ne fut plus de la stupéfaction, cette fois, ce fut de l\'épouvante. Tchou-Tchouk s\'était redressé sur ses genoux tremblants, l\'oeil hagard, la bouche béante, les doigts écartés, dans le paroxysme de l\'hébétement. Les indigènes s\'étaient à demi relevés, ils ne savaient s\'ils devaient se prosterner ou prendre la fuite !
+
+Enfin la troisième divinité, celle du milieu, prend la parole à son tour. Mais que sa voix est terrible, pleine de colère, grosse de menaces ! Et avec quelle vigueur tragique elle articule les syllabes, et les fait gronder comme les roulements de la foudre !
+
+Or, voici les paroles qu\'elle prononça, en visant directement Sa Majesté néo-sibérienne :
+
+*« Yesli ti tak nié sdiélaïèche v\'étote sami diéne, kogda éti sviati tchéloviéki boudoute jélate, boud tvoï narode jertvoï nébiesnovo gnièva ! »*C\'est-à-dire :
+
+« Si ce n\'est pas fait le jour où ces hommes sacrés le voudront, que ta tribu soit vouée à la colère céleste ! »
+
+A ce moment, roi et sujets râlaient de terreur, immobiles sur le sol comme autant de cadavres, tandis que M. Cascabel, élevant ses deux bras vers les idoles dans un acte de reconnaissance, les remerciait de leur divine intervention.
+
+Et, pendant ce temps, ses compagnons de se tenir les côtes pour ne pas éclater de rire.
+
+Une simple scène de ventriloquie, voilà ce que cet homme prodigieux, cet artiste incomparable, avait imaginé pour forcer la main à son « brave homme de Chou-Chou ! »
+
+Et, en vérité, il n\'en fallait pas davantage pour se jouer de ces superstitieux indigènes ! « Les hommes venus de l\'Occident -- quelle admirable qualification trouvée par M. Cascabel ! ---, les hommes venus de l\'Occident sont sacrés !... Pourquoi Tchou-Tchouk les retient-il ? »
+
+Eh bien, non ! Tchou-Tchouk ne les retiendrait pas ! Il les laisserait partir dès qu\'ils en manifesteraient l\'intention, et les indigènes auraient pour eux les égards dus à des voyageurs si visiblement protégés du ciel !
+
+Et, tandis qu\'Ortik et Kirschef, qui ne savaient rien des talents de M. Cascabel en ventriloquie, ne cachaient point leur profonde stupéfaction, Clou répétait enthousiasmé :
+
+« Quel génie que monsieur mon patron !... Quel cerveau !... Quel homme !... à moins que...
+
+--- À moins que ce ne soit un dieu ! » répliqua Cornélia en s\'inclinant devant son mari.
+
+Le tour était joué. Il avait réussi, grâce à l\'extraordinaire crédulité de ces tribus de la Nouvelle-Sibérie, qui dépasse tout ce qu\'on peut imaginer. C\'est ce qu\'avait judicieusement observé M. Cascabel, c\'est ce que lui avait donné cette idée d\'exercer ses talents de ventriloque au profit du salut commun.
+
+Il va sans dire que ses compagnons et lui furent reconduits au campement avec tous les honneurs acquis à leur qualité d\'hommes sacrés. Tchou-Tchouk se confondait en salutations et compliments, dans lesquels entrait une forte dose de crainte et de respect. Il n\'était pas éloigné de confondre dans la même adoration la famille Cascabel et les idoles de Kotelnii. Et, en somme, comment cette population de Tourkef, si ignorante, aurait-elle pu supposer qu\'elle avait été le jouet d\'un mystificateur ? Pas de doute, c\'étaient bien les divinités du Vorspük qui avaient fait entendre leurs voix redoutables ! C\'était bien de leur bec, muet jusqu\'alors, qu\'étaient sortis ces ordres proférés en bon langage russe ! Et, d\'ailleurs, n\'y avait-il pas un précédent ? Est-ce que le perroquet Jako ne parlait pas, lui aussi ? Est-ce que les indigènes ne s\'étaient pas émerveillés des mots qui s\'échappaient de ce bec ? Eh bien, ce qu\'un oiseau faisait, pourquoi des dieux à tête de volatiles n\'auraient-ils pas été capables de le faire ?
+
+A dater de ce jour, M. Serge, César Cascabel et sa famille, ainsi que les deux marins qui furent réclamés par leur compatriote, purent se considérer comme libres. La saison d\'hiver était déjà avancée, et la température tendait à devenir supportable. Aussi les naufragés résolurent-ils de ne point tarder davantage à quitter l\'archipel des Liakhov. Non pas qu\'un revirement dans les dispositions des indigènes fut à craindre ! Ils étaient bien trop « emballés » pour cela ! Maintenant, M. Cascabel était au mieux avec son ami Chou-Chou, lequel lui eût ciré ses bottes, s\'il l\'avait voulu ! Il va de soi que ce brave homme s\'était empressé de faire restituer tous les objets volés à la *Belle-Roulotte*. Lui-même, après s\'être agenouillé, avait remis à César Cascabel le baromètre qu\'il portait en sautoir, et César Cascabel avait daigné lui tendre une main que Tchou-Tchouk avait religieusement baisée, -- cette main qu\'il croyait capable de lancer la foudre et de déchaîner les tempêtes !
+
+Bref, à la date du 8 mars, les préparatifs de départ étaient achevés. M. Cascabel ayant demandé vingt rennes pour traîner sa voiture, Tchou-Tchouk s\'était empressé de lui en offrir une centaine -- ce dont son nouvel ami le remercia en se tenant au chiffre susdit. Il n\'exigea en plus que la quantité de fourrage nécessaire à nourrir son attelage pendant la traversée de l\'ice-field.
+
+Ce jour-là, dans la matinée, M. Serge, la famille Cascabel et les deux marins russes prirent congé des indigènes de Tourkef. Toute la tribu s\'était réunie pour assister au départ de ses hôtes, et leur présenter ses souhaits de bon voyage.
+
+Le « cher Chou-Chou » était là, au premier rang, confit dans un attendrissement très sincère. M. Cascabel alla vers lui et, après lui avoir tapoté le ventre, il se contenta de prononcer ces simples mots en français :
+
+« Adieu, vieille bête ! »
+
+Mais cette tape familière allait grandir encore Sa Majesté dans l\'esprit de ses sujets.
+
+Dix jours plus tard, le 18 mars, ayant traversé sans danger ni fatigues l\'ice-field qui réunissait l\'archipel des Liakhov à la côte sibérienne, la *Belle-Roulotte* arriva sur le littoral, à l\'embouchure de la Lena.
+
+Après tant d\'incidents et d\'accidents, de dangers et d\'aventures depuis leur départ de Port-Clarence, M. Serge et ses compagnons avaient enfin mis le pied sur le continent asiatique.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b8 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-8. .calibre171 .sigil_not_in_toc}
+
+L\'itinéraire primitif, tel qu\'il devait être suivi depuis le détroit de Behring jusqu\'à la frontière d\'Europe, avait été nécessairement modifié par ce détour de la dérive et l\'abordage aux archipels de la Nouvelle-Sibérie. Il ne fallait plus songer maintenant à traverser l\'Asie russe dans sa partie méridionale. D\'ailleurs, la belle saison ne tarderait pas à améliorer les conditions climatériques, et il n\'y aurait pas lieu d\'hiverner dans quelque bourgade. On peut même dire que ces derniers évènements s\'étaient dénoués d\'une façon aussi favorable que merveilleuse.
+
+A présent, ce qu\'il s\'agissait d\'étudier, c\'était la direction qu\'il conviendrait de prendre pour atteindre par le plus court la frontière des monts Oural entre la Russie asiatique et la Russie d\'Europe. C\'est ce que comptait faire M. Serge, avant de lever le campement qui venait d\'être établi sur le littoral.
+
+Le temps était calme et clair. La durée du jour, en pleine période équinoxiale, dépassait onze heures, et s\'accroissait encore de la clarté des crépuscules, très allongée sur les territoires coupés par le soixante-dixième parallèle.
+
+La petite caravane se composait actuellement de dix personnes, depuis que Kirschef et Ortik en faisaient partie. Bien que la sympathie ne fût pas très étroite entre leurs compagnons et eux, les deux matelots russes étaient devenus les commensaux de la *Belle-Roulotte*, ils y prenaient leurs repas à la table commune, ils devaient même y coucher, tant que la température ne leur permettrait pas de passer la nuit au dehors.
+
+En effet, la moyenne thermométrique se tenait encore à quelques degrés au-dessous de zéro -- ce qu\'il était facile de reconnaître, puisque l\'obligeant Tchou-Tchouk avait rendu le thermomètre à son légitime propriétaire. Tout le territoire disparaissait à perte de vue sous une immense nappe blanche, que le soleil d\'avril ne tarderait pas à dissoudre. Sur cette neige durcie, comme sur la plaine herbeuse des steppes, l\'attelage de rennes suffirait aisément à traîner le lourd véhicule.
+
+Quant à la nourriture des animaux, c\'était l\'approvisionnement fourni par les indigènes qui y avait pourvu depuis le départ de Kotelnii jusqu\'à l\'arrivée sur la baie de la Léna. Désormais, avec la mousse qu\'ils savent déterrer sous la neige, avec les feuilles des arbrisseaux dont le sol sibérien est semé, les rennes pourvoiraient d\'eux-mêmes à leur propre alimentation. Il faut reconnaître aussi que, pendant cette traversée de l\'ice-field, le nouvel attelage s\'était montré fort docile, et Clou-de-Girofle n\'avait eu aucune peine à le diriger.
+
+La nourriture des voyageurs n\'était pas moins assurée par le stock de conserves, farine, graisse, riz, thé, biscuits, eau-de-vie, que possédait encore la *Belle-Roulotte*. Cornélia disposait en outre d\'une certaine quantité de beurre iakoute, emballé dans de petites caisses de bouleau, qui avait été offert par l\'ami Chou-Chou à l\'ami Cascabel. Il y aurait lieu, cependant, de renouveler la provision de pétrole, dès qu\'on pourrait le faire dans quelque bourgade sibérienne. La chasse, d\'ailleurs, ne tarderait pas à procurer de la venaison fraîche, et, chemin faisant, M. Serge et Jean auraient maintes fois l\'occasion d\'utiliser leur adresse au profit de la cuisine.
+
+On devait compter également sur le concours des deux matelots russes. Ils affirmaient que la région septentrionale de la Sibérie leur était en partie connue et, semblait-il, il n\'y aurait qu\'avantage à les prendre pour guides.
+
+Ceci fut l\'objet de la conversation, qui, ce jour-là, se tint au campement.
+
+« Puisque vous avez déjà parcouru cette contrée, dit M. Serge en s\'adressant à Ortik, c\'est vous qui nous dirigerez...
+
+--- C\'est bien le moins, répondit Ortik, puisque nous avons été délivrés grâce à M. Cascabel.
+
+--- Grâce à moi ?... Non point, répondit M. Cascabel, mais grâce à mon ventre, auquel la nature a donné le don de la parole ! C\'est à lui qu\'il faut adresser vos remerciements !
+
+--- Ortik, demanda M. Serge, quel itinéraire conseillez-vous de suivre en quittant la baie de la Lena ?
+
+--- Le plus court, si vous le voulez bien, monsieur Serge. S\'il a l\'inconvénient de laisser à l\'écart les principales villes des districts, situés plus au sud, il nous permettra de marcher directement sur la chaîne de l\'Oural. D\'ailleurs, il ne manque pas de villages sur la route, où vous pourrez vous ravitailler, et même séjourner, si cela est nécessaire.
+
+--- À quoi bon ? répondit M. Cascabel en interrompant Ortik. Nous n\'avons que faire dans un village. Ce qui importe, c\'est de ne point s\'attarder et d\'allonger le pas. Je ne pense pas que le pays soit dangereux à traverser ?...
+
+--- En aucune façon, répondit Ortik.
+
+--- Et puis, nous sommes en force, et malheur aux coquins qui voudraient s\'attaquer à la *Belle-Roulotte* !... Ils ne s\'en tireraient pas à bon compte !
+
+--- Soyez tranquille, monsieur Cascabel, il n\'y rien à craindre ! » répondit Kirschef.
+
+On l\'a remarqué, ce Kirschef ne parlait que très rarement. Peu sociable, d\'humeur sombre et taciturne, il laissait son camarade prendre part aux conversations. Ortik était évidemment plus intelligent que lui, et même d\'une intelligence réelle -- ce que M. Serge avait été plusieurs fois en mesure de constater.
+
+En somme, l\'itinéraire que proposait Ortik était de nature à satisfaire. Tourner les villes importantes, où l\'on se serait exposé à rencontrer des postes militaires, c\'était ce qui devait convenir au comte Narkine, en même temps que cela convenait aux deux prétendus matelots. Qu\'il dût être difficile d\'éviter les centres populeux, surtout aux approches de la frontière, cela était à prévoir, et il y aurait alors lieu de prendre certaines précautions. Jusque-là, les villages de la steppe n\'offriraient que peu de dangers sous ce rapport.
+
+Ce plan de voyage une fois adopté en principe, il n\'y eut plus qu\'à reconnaître les diverses provinces qu\'il faudrait couper obliquement entre le cours de la Lena et l\'Oural.
+
+Jean chercha donc dans son atlas la carte de la Sibérie septentrionale. M. Serge fit alors une étude approfondie de ces territoires, où les fleuves sibériens, au lieu de favoriser les itinéraires qui se dirigent de l\'est à l\'ouest, leur opposent plutôt de sérieux obstacles. Et voici ce qui fut arrêté :
+
+Traverser le pays des Iakoutes, où les villages sont clairsemés, en se dirigeant vers le sud-ouest.
+
+Passer ainsi du bassin de la Léna au bassin de l\'Anabar, puis à celui de la Khatanga, puis à celui de l\'Ienisseï, puis à celui de l\'Obi, ce qui se chiffrait par un cours de sept cent cinquante lieues environ.
+
+Franchir le bassin de l\'Obi jusqu\'aux montagnes de l\'Oural, qui forment la frontière de la Russie d\'Europe, sur un trajet de cent vingt-cinq lieues.
+
+Enfin, de l\'Oural à Perm\', cheminer pendant une centaine de lieues vers le sud-ouest.
+
+Au total : mille lieues en chiffres ronds.
+
+S\'il ne se présentait aucun retard sur la route, s\'il y avait pas nécessité de s\'arrêter dans quelque bourgade, le voyage pouvait être accompli en moins de quatre mois. En effet, de sept à huit lieues par jour, ce n\'était pas trop demander à l\'attelage de rennes et, dans ces conditions, la *Belle-Roulotte* arriverait à Perm\', ensuite à Nijni, au milieu de juillet, c\'est-à-dire à l\'époque où la célèbre foire serait dans tout son éclat.
+
+« Nous accompagnerez-vous jusqu\'à Perm\' ?... demanda M. Serge à Ortik.
+
+--- Ce n\'est pas probable, répondit le marin. Après avoir passé la frontière, notre projet est de faire route sur Saint-Pétersbourg pour gagner Riga.
+
+--- Soit, dit M. Cascabel, mais commençons par arriver à la frontière ! »
+
+Il avait été convenu que la halte durerait vingt-quatre heures, dès qu\'on aurait mis pied sur le continent -- halte bien justifiée après ce rapide passage de l\'ice-field. Ce jour-là fut donc donné au repos.
+
+La Lena se jette dans le golfe de ce nom à travers un capricieux réseau d\'embouchures que séparent une infinité de canaux et de passes. C\'est après un parcours de quinze cents lieues que ce beau fleuve, accru d\'un grand nombre de tributaires, vient se perdre dans les profondeurs de la mer Arctique. Son bassin n\'est pas estimé à moins de cinq millions d\'hectares.
+
+La carte ayant été mûrement examinée, M. Serge pensa qu\'il conviendrait tout d\'abord de suivre les contours de la baie, de manière à éviter les bouches multiples de la Lena. Bien que ses eaux fussent encore glacées, il eût été très pénible de s\'aventurer au milieu de ce dédale. L\'embâcle, accumulé par l\'hiver, y formait de monstrueux encombrements de blocs, dominé par de véritables icebergs d\'aspect très pittoresque, mais difficiles à tourner.
+
+Au-delà de la baie, c\'était le commencement de l\'immense steppe à peine accidentée de quelques dunes, et sur laquelle le voyage s\'effectuerait aisément.
+
+Évidemment Ortik et Kirschef étaient habitués à voyager sous ces hautes latitudes. Leurs compagnons avaient déjà pu l\'observer pendant la traversée de l\'ice-field depuis l\'archipel des Liakhov jusqu\'à la côte de Sibérie. Les deux marins savaient organiser un campement, construire au besoin quelque solide hutte de glace. Ils connaissaient le moyen employé par les pêcheurs du littoral, qui consiste à faire absorber l\'humidité contenue dans les vêtements en les enfouissant sous la neige ; ils n\'hésitaient pas, lorsqu\'il s\'agissait de distinguer les blocs produits par la congélation de l\'eau salée des blocs dus à la congélation de l\'eau douce ; enfin ils étaient au courant des divers procédés de marche, familiers aux voyageurs des contrées arctiques.
+
+Du reste, ce soir-là, après le souper, la conversation porta sur la géographie de la Sibérie septentrionale, et Ortik fut amené à dire en quelles conditions Kirschef et lui avaient parcouru cette contrée.
+
+Lorsque M. Serge lui eut demandé :
+
+« Comment se fait-il que, vous autres marins, vous ayez eu l\'occasion de visiter ces territoires ?
+
+--- Monsieur Serge, répondit-il, il y a deux ans, Kirschef, une dizaine de matelots et moi, nous étions au port d\'Arkhangelsk, attendant un embarquement à bord des baleiniers, lorsque nous avons été requis pour le sauvetage d\'un navire, qui était en détresse au milieu des glaces dans le nord de l\'embouchure de la Lena. Eh bien, c\'est en allant d\'Arkhangelsk à cette baie que nous avons suivi la côte septentrionale de la Sibérie. Quand nous avons eu rejoint le *Vremia*, nous sommes parvenus à le renflouer, et c\'est sur ce bâtiment que nous avons fait la pêche. Mais, comme je vous l\'ai dit, il a péri pendant cette campagne avec son équipage, auquel nous avons seul survécu, mon compagnon et moi. Et alors, la tempête a poussé notre embarcation sur l\'archipel des Liakhov, où vous nous avez trouvé.
+
+--- Et vous n\'avez jamais voyagé dans les provinces de l\'Alaska ? demanda Kayette, qui, on le sait, parlait et comprenait le russe.
+
+--- L\'Alaska ?... répondit Ortik. Est-ce que ce n\'est pas en Amérique, ce pays-là ?
+
+--- Oui, dit M. Serge. C\'est un pays situé dans le nord-ouest du nouveau continent, le pays de Kayette... Est-ce que vos campagnes de pêche vous ont poussé jusque-là ?...
+
+--- Nous ne connaissons pas ce pays, répondit Ortik d\'un ton très naturel.
+
+--- Et nous n\'avons jamais dépassé le détroit de Behring », ajouta Kirschef.
+
+La voix de cet homme fit encore sur la jeune Indienne son effet accoutumé, sans qu\'elle parvînt à se rappeler où elle avait pu l\'entendre. Pourtant, ce ne pouvait être que dans les provinces alaskiennes, puisqu\'elle ne les avait jamais quittées.
+
+Aussi, après la réponse si explicite d\'Ortik et de Kirschef, Kayette, avec la réserve habituelle à sa race, ne chercha-t-elle pas à poser de nouvelles questions. Néanmoins, une prévention lui restait dans l\'esprit, et même une défiance instinctive envers les deux matelots.
+
+Pendant ces vingt-quatre heures de halte, les rennes avaient pu prendre tout le repos qui leur était nécessaire. Bien qu\'ils eussent les pieds de devant entravés de cordes, cela ne les empêchait pas de vaguer autour du campement, où ils broutaient les arbustes, déterraient les mousses enfouies sous la neige.
+
+Le 20 mars, la petite caravane partit à huit heures du matin. Temps sec et clair avec vent chassant du nord-est. À perte de vue, la steppe toute blanche et suffisamment durcie encore pour que le véhicule pût y rouler facilement. Les rennes étaient attelés quatre par quatre au moyen d\'un système de traits bien combiné. Ils s\'avançaient ainsi sur cinq rangs, guidés d\'un côté par Ortik, de l\'autre par Clou-de-Girofle.
+
+On voyagea ainsi pendant six jours, sans avoir fait aucune rencontre qui mérite d\'être mentionnée. Le plus souvent MM. Serge et Cascabel, Jean et Sandre, allaient à pied jusqu\'à la halte du soir, et, quelquefois, Cornélia, Napoléone et Kayette les accompagnaient, lorsqu\'elles n\'avaient pas à s\'occuper du ménage.
+
+Chaque matinée, la *Belle-Roulotte* faisait environ un « koes », mesure sibérienne qui vaut vingt verstes, soit deux lieues et demie environ. Pendant l\'après-midi, elle en gagnait autant dans l\'ouest -- ce qui donnait cinq bonnes lieues pour la journée.
+
+Le 29 mars, après avoir franchi le petit fleuve Olenëk sur la glace, M. Serge et ses compagnons atteignirent la bourgade de Maksimova, à quarante-deux lieues dans le sud-ouest du golfe de Lena.
+
+Il n\'y avait aucun inconvénient à ce que M. Serge s\'arrêtât vingt-quatre heures dans cette bourgade, perdue à l\'extrémité de la steppe septentrionale. Là, point de capitaine-gouverneur, point de poste militaire occupé par des Cosaques. Dès lors, rien à craindre pour le comte Narkine.
+
+On était en plein pays des Iakoutes, et la famille Cascabel reçut un excellent accueil chez les habitants de Maksimova.
+
+Ce pays, montagneux et forestier dans les régions de l\'est et du sud, n\'offre sur sa partie nord que de vastes plaines rases, égayées çà et là de quelques massifs d\'arbres, dont la saison chaude allait prochainement développer la verdure. Le produit de la fenaison y est extrêmement abondant. Cela tient à ce que, si l\'hiver est très froid dans la Sibérie hyperboréenne, la température s\'y montre excessive pendant les mois d\'été.
+
+Là prospère une population de cent mille Iakoutes, qui suivent les pratiques du rite russe. Gens pieux, hospitaliers, de bonnes moeurs, ils sont très reconnaissants des bienfaits qu\'ils reçoivent de la Providence, et très résignés, lorsqu\'elle les éprouve trop durement.
+
+Pendant ce trajet de la baie de la Lena à la bourgade, on avait rencontré un certain nombre de Sibériens nomades. C\'étaient des hommes solides, stature moyenne, visage plat, yeux noirs, épaisse chevelure, figure imberbe. Les mêmes types se retrouvèrent à Maksimova, dont les habitants sont sociables, pacifiques, intelligents, laborieux, et ne se laissent pas duper facilement.
+
+Ceux de ces Iakoutes qui mènent la vie errante, toujours à cheval et toujours armés, sont propriétaires des nombreux troupeaux répandus à travers la steppe. Ceux qui vivent sédentairement dans les villages ou les bourgades s\'adonnent plus particulièrement à la pêche, en exploitant les eaux poissonneuses des mille cours d\'eau que le grand fleuve absorbe à son passage.
+
+Néanmoins, si ces Iakoutes sont doués de toutes les vertus publiques et privées, il faut reconnaître qu\'ils abusent trop volontiers du tabac, et -- ce qui est plus grave -- du brandevin et autres liqueurs alcooliques.
+
+« Ils sont pourtant excusables dans une certaine mesure, fit observer Jean. Pendant trois mois, ils n\'ont que de l\'eau à boire et de l\'écorce de pin à manger.
+
+--- Ne voulez-vous pas dire de la croûte de pain, monsieur Jean ? demanda Clou-de-Girofle.
+
+--- Non, de l\'écorce de pin. Aussi, après de telles privations, un peu d\'excès est-il pardonnable ! »
+
+Tandis que les nomades habitent des yourtes, sortes de tentes de forme conique en étoffe blanche, les sédentaires occupent des maisons de bois, bâties au goût et à la convenance de chacun. Ces maisons, soigneusement tenues, sont coiffées de toits très raides, dont la pente favorise la fusion des neiges sous les rayons du soleil d\'avril. Aussi cette bourgade de Maksimova présente-t-elle un riant aspect. Les hommes sont d\'un type agréable, l\'air franc, le regard clair, la physionomie empreinte de quelque fierté. Les femmes paraissent gracieuses et assez jolies, quoique tatouées au visage. Très réservées, très sévères sous le rapport des moeurs, elles ne se laissent jamais voir ni pieds nus ni tête nue.
+
+La famille fut très cordialement accueillie par les chefs iakoutes, qui sont compris sous la désignation de « kinoes », et par les anciens, les « starsynas », c\'est-à-dire les notables du pays. Ces braves gens se disputèrent l\'honneur de l\'héberger et de la nourrir à leurs frais. Mais, après les avoir remerciés, Cornélia ne voulut faire d\'acquisitions qu\'en payant, entre autres, une provision de pétrole, qui devait assurer pour quelque temps l\'alimentation du fourneau de cuisine.
+
+D\'ailleurs, comme toujours, la *Belle-Roulotte* avait produit son effet. Jamais une voiture de saltimbanques ne s\'était présentée en ce pays. Nombre de Iakoutes des deux sexes lui rendirent visite, et il n\'y eut point lieu de s\'en repentir. En cette province, il est rare qu\'un vol soit commis -- même au détriment des étrangers. Et, si cela arrive, la punition suit immédiatement la faute. Lorsque le crime a été reconnu, le voleur est battu de verges publiquement. Puis, après le châtiment physique, le châtiment moral : flétri pour toute son existence, il est privé de ses droits civiques et ne peut plus recouvrer le nom « d\'honnête homme ».
+
+Le 3 avril, les voyageurs arrivèrent sur les bords de l\'Oden, petite rivière qui se jette dans le golfe d\'Anabar, après un cours de cinquante lieues.
+
+Le temps, très favorable jusqu\'alors, commença à subir quelques modifications. Bientôt survinrent des pluies abondantes, dont le premier effet fut de provoquer la fonte des neiges. Cela dura huit jours, pendant lesquels la voiture eut à se tirer des embourbements, et même de certains enlisements très dangereux, lorsqu\'elle traversait des surfaces marécageuses. Ainsi s\'annonçait le printemps de ces hautes latitudes, avec une moyenne de température, qui se tenait à deux ou trois degrés au-dessus de zéro.
+
+Ce trajet occasionna de grandes fatigues. Mais il n\'y eut qu\'à se féliciter du concours des deux matelots russes, qui se montrèrent très dévoués et très serviables.
+
+Le 8 avril, la *Belle-Roulotte* vint s\'arrêter sur la rive droite du fleuve Anabar, après avoir franchi une quarantaine de lieues depuis Maksimova.
+
+Il était encore temps de passer ce cours d\'eau sur la glace, bien que la débâcle commençât déjà à se produire en aval. On entendait le fracas des blocs, que le courant entraînait bruyamment vers le golfe. Une semaine plus tard, il eût fallu trouver quelque gué praticable, -- ce qui n\'aurait pas été facile, car les crues se manifestent rapidement avec la fusion des neiges.
+
+Déjà la steppe, redevenue verdoyante, se tapissait d\'une herbe nouvelle, qui plaisait à l\'attelage. Les arbrisseaux bourgeonnaient. Avant trois semaines, les premières feuilles auraient fait éclater les boutons de leurs branches. La vie végétale ranimait aussi le maigre squelette des arbres, réduits à l\'état de bois sec par les froids de l\'hiver.
+
+Çà et là, quelques groupes de bouleaux et de mélèzes se pliaient avec plus de souplesse au souffle de la brise. Toute cette nature hyperboréenne se revivifiait à la chaleur du soleil.
+
+Les provinces de la Sibérie asiatique sont d\'autant moins désertes qu\'elles s\'éloignent du littoral. Parfois, la petite troupe rencontrait un percepteur, qui s\'en allait réclamer le tribut de village en village. On s\'arrêtait alors, on échangeait quelques paroles avec ce fonctionnaire ambulant, on lui offrait un verre de vodka qu\'il acceptait volontiers. Puis, on se séparait avec des souhaits de bon voyage.
+
+Un certain jour, la *Belle-Roulotte* fut croisée par un convoi de prisonniers. Ces malheureux, condamnés à faire bouillir le sel, étaient conduits jusqu\'aux limites orientales de la Sibérie, et la troupe de Cosaques qui les escortait ne leur ménageait guère les mauvais traitements. Il va sans dire que la présence de M. Serge ne donna lieu à aucune observation de la part du chef de l\'escorte ; mais Kayette, toujours en méfiance vis-à-vis des matelots russes, crut remarquer qu\'ils cherchèrent à ne point attirer sur eux l\'attention des Cosaques.
+
+
+Quel contraste avec l\'aspect si monotone de la steppe ! C\'était comme une oasis au milieu des sables du Sahara. Que l\'on s\'imagine une nappe d\'eau limpide, circonscrite dans une ceinture d\'arbres à feuilles persistantes, des pins et des sapins, des bouquets d\'arbrisseaux, égayés de leur nouvelle verdure, airelles à baies pourpres, camarines noires, groseilliers rougeâtres, églantiers que le printemps couronnait de fleurs naissantes.
+
+Sous le couvert des fourrés assez épais, qui se massaient à l\'est et à l\'ouest du lac, Wagram et Marengo ne seraient pas en peine de dépister quelque gibier de poil ou de plume, si M. Cascabel leur permettait d\'y fureter pendant un couple d\'heures.
+
+Et d\'ailleurs, à la surface de ce lac, des oies, des canards, des cygnes, nageaient par bandes nombreuses. Dans l\'air, passaient à tire-d\'aile des couples de grues et de cigognes, au vol allongé, qui venaient des régions centrales de l\'Asie. On eût volontiers battu des mains à cet attrayant spectacle.
+
+Sur la proposition de M. Serge, il fut décidé que l\'on ferait une halte de quarante-huit heures. Le campement fut disposé à la pointe du lac, sous l\'abri de grands sapins, dont la cime débordait au-dessus des eaux.
+
+Puis, les chasseurs de la troupe, suivis de Wagram, prirent leurs fusils, après avoir promis de ne pas trop s\'éloigner. Il ne s\'était pas écoulé un quart d\'heure que des détonations se faisaient entendre.
+
+Pendant ce temps, M. Cascabel et Sandre, Ortik et Kirschef, résolurent de tenter la fortune, en pêchant sur les bords du lac. Leurs engins se réduisaient à quelques lignes, munies d\'hameçons, qu\'ils avaient achetées aux indigènes de Port-Clarence. Et que faut-il de plus à des pêcheurs dignes de ce grand art, lorsqu\'ils ont assez d\'intelligence pour lutter avec les ruses d\'un poisson, et assez de patience pour attendre qu\'il daigne mordre à leur appât !
+
+En réalité, cette dernière qualité eût été inutile ce jour-là. À peine les hameçons se furent-ils enfoncés par des fonds convenables, que les flottes s\'agitèrent à la surface des eaux. Les poissons étaient si abondants le long des rives, qu\'en une demi-journée, on en eût pu prendre de quoi faire maigre pendant tout un carême. C\'était une joie pour le jeune Sandre. Aussi, lorsque Napoléone l\'eut rejoint et lui demanda à tenir la ligne à son tour, il ne voulut point y consentir. De là, dispute et intervention de Cornélia. D\'ailleurs, la pêche lui ayant paru suffisante, elle ordonna aux enfants comme au père de ramasser leurs engins, et lorsque Mme Cascabel ordonnait, il n\'y avait plus qu\'à obéir.
+
+Deux heures après, M. Serge et son ami Jean revenaient avec Wagram, qui se faisait un peu tirer l\'oreille -- au vrai et au figuré -- car il regrettait d\'abandonner ces taillis giboyeux.
+
+Les chasseurs n\'avaient pas été moins heureux que les pêcheurs. Aussi, pendant quelques jours, le menu des repas allait-il être non moins varié qu\'agréable. Ce seraient les poissons du lac Iege qui en feraient les frais, et surtout l\'excellent gibier, particulier à ces territoires de la haute Sibérie.
+
+Entre autres, les chasseurs avaient rapporté un chapelet de ces « karallys », qui se groupent en compagnies, et aussi quelques couples de ces « dikoutas », volatiles stupides, plus petits que les gélinottes de bois, et dont la chair est très savoureuse.
+
+On se figure aisément quel bon dîner fut servi ce jour-là. La table avait été mise sous les arbres, et aucun des convives ne s\'aperçut qu\'il faisait peut-être un peu froid pour festiner en plein air. Cornélia s\'était surpassée dans la préparation des poissons grillés et du gibier rôti. Comme la réserve de farine avait été renouvelée au dernier village, ainsi que la provision de beurre iakoute, qu\'on ne s\'étonne pas si le gâteau habituel, doré et croustillant, fit son apparition au dessert. Chacun but quelques bons coups de brandevin, grâce à certains flacons que les habitants de Maksimova avaient consenti à vendre, et cette journée s\'acheva sans que rien n\'en eût troublé les heureux loisirs.
+
+C\'était à croire, vraiment, que le temps des épreuves était passé, et que ce fameux voyage s\'accomplirait à l\'honneur et au profit de la famille Cascabel !
+
+Le lendemain, ce fut encore jour de repos, dont l\'attelage profita pour se repaître consciencieusement.
+
+Le 21 avril, la *Belle-Roulotte* repartit à six heures du matin, et trois jours après, atteignait la limite occidentale du pays des Iakoutes.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b9 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-9. .calibre171 .sigil_not_in_toc}
+
+Il importe de revenir sur la situation de ces deux Russes qu\'une mauvaise chance avait réunis à la famille Cascabel.
+
+On pourrait croire que, reconnaissants de l\'accueil qu\'ils avaient reçu, Ortik et Kirschef étaient revenus à des idées meilleures. Il n\'en était rien. Ces misérables, dont le passé comptait déjà tant de forfaits avec la bande de Karnof, ne songeaient qu\'à en commettre de nouveaux. Ce qu\'ils voulaient, c\'était s\'emparer de la *Belle-Roulotte* et aussi de l\'argent restitué par Tchou-Tchouk ; puis, une fois rentrés en Russie sous l\'habit de saltimbanques, y recommencer leur existence criminelle. Or, pour mettre ces projets à exécution, ils auraient d\'abord à se débarrasser de leurs compagnons de voyage, de ces braves gens auxquels ils devaient la liberté, et, cela, ils n\'hésiteraient pas à le faire.
+
+Mais, ce projet, ils n\'auraient pu l\'exécuter à eux seuls. C\'est pour cette raison qu\'ils se dirigeaient vers une des passes de l\'Oural, fréquentée par des malfaiteurs, leurs anciens complices, et là ils comptaient recruter autant de bandits qu\'il serait nécessaire pour attaquer le personnel de la *Belle-Roulotte*.
+
+Et qui aurait pu les soupçonner de cet abominable complot ? Ils affectaient de se rendre utiles, et personne n\'avait jamais eu un reproche à leur adresser. S\'ils n\'inspiraient point la sympathie, ils n\'inspiraient pas la défiance -- sauf à Kayette, qui conservait toujours des doutes à leur égard. Un instant, elle avait eu la pensée que c\'était pendant cette nuit où M. Serge fut attaqué sur la frontière alaskienne qu\'elle avait entendu la voix de ce Kirschef. Mais comment admettre que les auteurs de ce crime fussent précisément les deux marins qu\'on avait retrouvés à douze cents lieues de là, sur l\'une des îles de l\'archipel Liakhov ? Aussi, tout en les observant, Kayette se gardait-elle de rien dire de ses soupçons trop invraisemblables.
+
+Et maintenant, voici ce qu\'il convient de noter : c\'est que si Ortik et Kirschef étaient suspects à la jeune Indienne, eux-mêmes trouvaient singulière la situation de M. Serge. Après avoir été dangereusement blessé sur la frontière de l\'Alaska, il avait été transporté à Sitka et soigné par la famille Cascabel. Jusque-là rien que de très naturel. Mais, une fois guéri, pourquoi n\'était-il pas resté à Sitka ? Pourquoi avait-il suivi ces saltimbanques jusqu\'à Port-Clarence ? Pourquoi les accompagnait-il à travers la Sibérie ? C\'était à tout le moins étrange, cette présence d\'un Russe au milieu d\'une troupe foraine.
+
+Aussi, un jour, Ortik, avait-il dit à Kirschef :
+
+« Est-ce que, par hasard, ce M. Serge chercherait à rentrer en Russie, en prenant ses précautions pour ne pas être reconnu ?... Eh ! Peut-être y aurait-il à tirer parti et profit de cette circonstance ?... Ayons l\'oeil ouvert ! »
+
+Et, sans qu\'il pût s\'en douter, le comte Narkine était espionné par Ortik, qui espérait surprendre son secret.
+
+Le 23 avril, au sortir du pays iakoute, l\'attelage s\'engagea sur le territoire des Ostiaks. Ces Sibériens forment une peuplade assez misérable, peu civilisée, bien que cette partie de la Sibérie renferme quelques riches districts -- entre autres celui de Berëzovo.
+
+Lorsque la *Belle-Roulotte* traversait un des villages de ce district, on pouvait observer combien ils différaient des pittoresques et séduisantes bourgades iakoutes ! Des huttes infectes, à peine propres au logement des animaux, et à l\'intérieur desquelles il est presque impossible de respirer, et quelle atmosphère !
+
+Où imaginerait-on, d\'ailleurs, des êtres plus répugnants que ces indigènes, dont Jean put dire, en citant un passage de la géographie générale qui les concernait : « Les Ostiaks de la haute Sibérie portent un double vêtement pour se préserver du froid : une couche de crasse et une peau de renne par-dessus ! »
+
+Quant à leur nourriture, elle se compose presque uniquement de poisson à demi cru et de viande à laquelle ils ne font jamais subir aucune cuisson.
+
+Cependant, ce qui est habituel aux nomades, dont les troupeaux sont dispersés sur la steppe, ne l\'est pas à ce degré, lorsqu\'il s\'agit des habitants des principales bourgades. Aussi, au bourg de Starokhantaskii, les voyageurs trouvèrent-ils une population un peu plus présentables, quoique peu hospitalière et mal accueillante envers les étrangers.
+
+Les femmes, tatouées de dessins bleuâtres, portaient le « vakocham », sorte de voile rouge, garni de bandes bleues, le jupon à couleurs voyantes, le corset de nuance plus claire, dont la défectueuse coupe leur déforme la taille, disposé au-dessus d\'une large ceinture ornée de grelots, qui sonnent à chaque mouvement comme le harnachement d\'une mule espagnole.
+
+Quant aux hommes, pendant l\'hiver -- et quelques-uns étaient encore vêtus de la sorte -- ils ressemblent à des bêtes, étant recouverts d\'un vêtement de peau dont le poil est tourné en dehors. Leur tête disparaît sous le capuchon du « maltza » et du « parka », où sont ménagées des fentes pour les yeux, la bouche et les oreilles, impossible de rien voir des traits de leur visage -- ce qui n\'est pas regrettable probablement.
+
+Chemin faisant, la *Belle-Roulotte* rencontra quelquefois plusieurs de ces traîneaux appelés « narkes ». Attelés de trois rennes au moyen d\'une simple courroie qui passe sous le ventre de ces animaux et d\'une seule guide qui se rattache à leurs cornes, ces narkes peuvent faire de sept à huit lieues, sans que l\'attelage ait besoin de reprendre haleine.
+
+Il ne fallait pas songer à obtenir un tel effort des rennes qui traînaient la voiture. Il n\'y avait pas lieu de se plaindre cependant : ils rendaient de très grands services. Et, à ce propos, comme M. Serge dit un jour qu\'il serait peut-être prudent de les remplacer par des chevaux, dès que l\'on pourrait s\'en procurer :
+
+« Les remplacer ?... répondit M. Cascabel. Et pourquoi, s\'il vous plait ? Croyez-vous donc que ceux-ci n\'auront pas la force de nous mener jusqu\'en Russie ?
+
+--- Si nous nous dirigions vers la Russie septentrionale, répondit M. Serge, je ne m\'en préoccuperais pas, mais la Russie centrale, c\'est autre chose. Ces animaux ne supportent que très difficilement la chaleur, elle les épuise et les rend incapables de tout travail. Aussi, vers la fin d\'avril, voit-on de nombreuses troupes de rennes regagner les territoires du nord, et principalement les hauts plateaux de l\'Oural, toujours couverts de neiges.
+
+--- Eh bien ! Nous nous déciderons, monsieur Serge, lorsque nous aurons atteint la frontière. Et, vraiment, nous séparer de cet attelage sera un grand sacrifice ! Jugez un peu de l\'effet, si j\'arrivais en pleine foire de Perm\'avec vingt rennes, attelés au char de la famille Cascabel !... Quel effet, et quelle réclame !
+
+--- Ce serait évidemment magnifique, répondit M. Serge en souriant.
+
+--- Triomphal !... Dites triomphal !... Et, à ce propos, ajouta M. Cascabel, il est bien convenu, n\'est-ce pas, que le comte Narkine fait partie de ma troupe, et qu\'au besoin, il ne refusera point de travailler devant le public ?...
+
+--- C\'est convenu.
+
+--- Alors ne négligez pas vos leçons d\'escamotage, monsieur Serge. Comme on croit que vous apprenez pour votre plaisir, ni mes enfants ni les deux matelots ne peuvent s\'en étonner. Eh !... savez-vous que vous êtes déjà très adroit !
+
+--- Comment ne le serais-je pas, ami Cascabel, avec un professeur tel que vous !
+
+--- Demande bien pardon, monsieur Serge, mais je vous assure que vous avez des dispositions naturelles très remarquables !... Avec un peu d\'habitude, vous deviendriez un jongleur hors ligne, et je suis sûr que vous feriez recette ! »
+
+Le 6 mai, arrivée de la *Belle-Roulotte* sur le bord de l\'Ienisseï, à une centaine de lieues du lac Iege.
+
+L\'Ienisseï est un des principaux fleuves du continent sibérien, et il se jette à travers le golfe de ce nom, qui s\'ouvre sur le soixante-dixième parallèle, dans la mer Arctique.
+
+A cette époque, il ne restait plus un seul glaçon à la surface de ce large fleuve. Un grand bac à voitures et à voyageurs, qui établissait la communication entre ses deux rives, permit à la petite caravane, matériel et personnel, de passer, non sans s\'être acquittée d\'un assez fort péage.
+
+La steppe recommençait au-delà avec ses interminables horizons. À plusieurs reprises, on put observer des groupes d\'Ostiaks, qui accomplissaient leurs devoirs religieux. Bien que la plupart aient été baptisés, la religion chrétienne n\'a que peu d\'empire sur eux, et ils sont encore à se prosterner devant les images païennes des Shaïtans. Ce sont des idoles à figures humaines, taillées dans de gros blocs de bois, et dont chaque maison, chaque hutte même, possède un petit modèle, ornée d\'une croix de cuivre.
+
+Il paraît que les prêtres ostiaks, les Scha-mans, retirent un fort beau profit de cette religion en partie double, sans compter qu\'ils exercent une grande influence sur ces fanatiques, à la fois chrétiens et idolâtres. On ne saurait croire avec quelle conviction ces possédés se débattent en présence des idoles, et à quelles contorsions d\'épileptiques ils se livrent !
+
+Et, la première fois que l\'on rencontra une demi-douzaine de ces énergumènes, ne voilà-t-il pas le jeune Sandre qui s\'avise de les imiter, marchant sur les mains, se déhanchant, se repliant en arrière, cabriolant comme un clown, et terminant cet exercice par une série de sauts de carpe.
+
+Ce qui amena son père à faire cette réflexion :
+
+« Je vois, enfant, que tu n\'as rien perdu de ta souplesse !... C\'est très bien !... Mais ne nous négligeons pas !... Pensons à la foire de Perm\' !... Il y va de l\'honneur de la famille Cascabel ! »
+
+En somme, le voyage s\'était accompli sans trop de fatigues depuis que la *Belle-Roulotte* avait quitté l\'embouchure de la Lena. Parfois, elle avait à contourner d\'épaisses forêts de pins et de bouleaux, qui variaient la monotonie de ces plaines et à travers lesquelles elle n\'eût point trouvé passage.
+
+En somme, le pays était presque désert. On faisait des lieues sans rencontrer un hameau ni une ferme. La densité de la population de cette contrée est extrêmement faible, et le district de Berëzovo, qui est le plus riche, ne compte que quinze mille habitants sur une superficie de trois mille kilomètres. En revanche, et peut-être pour cette raison, le gibier pullule dans la campagne.
+
+M. Serge et Jean purent donc se livrer à toute leur ardeur pour la chasse, en même temps qu\'ils approvisionnaient l\'office de Mme Cascabel. Le plus souvent, Ortik les accompagnait et faisait preuve d\'une remarquable adresse. Les lièvres, c\'est par milliers qu\'ils courent la steppe, sans parler du gibier de plume, dont les bandes sont innombrables. Il y avait aussi des élans, des daims, des rennes sauvages, même des sangliers de grande taille, bêtes très redoutables que les chasseurs s\'abstinrent prudemment de débucher.
+
+Quant aux oiseaux, c\'étaient des canards, des plongeons, des oies, des grives, des gélinottes de bruyère, des poules de coudrier, des cigognes, des perdrix blanches. Un choix à faire, comme on le voit ! Aussi, lorsque le coup de fusil s\'était égaré sur quelque gibier peu comestible, Cornélia l\'abandonnait-elle aux deux chiens, qui s\'en accommodaient volontiers.
+
+De cette abondance de venaison fraîche, il résultait donc que l\'on faisait bonne chère -- trop bonne même. Ce qui amenait M. Cascabel à prêcher la sobriété à ses artistes.
+
+« Enfants, prenez garde d\'engraisser !... répétait-il ! La graisse, c\'est la ruine des articulations !... C\'est le fléau de l\'acrobate !... Vous mangez trop !... Que diable, de la modération !... Sandre, il me semble que tu commences à prendre du ventre !... Fi donc !... À ton âge !... Tu n\'es pas honteux !
+
+--- Père, je t\'assure...
+
+--- N\'assure rien !... J\'ai bonne envie de te mesurer tous les soirs, et si je trouve du bedon, je te le ferai rentrer dans l\'estomac ! C\'est comme Clou !... Il engraisse à vue d\'oeil !
+
+--- Moi, monsieur patron ?...
+
+--- Oui, toi, et il ne convient point qu\'un paillasse soit gras... surtout quand il se nomme Clou !... Tu finiras par t\'arrondir comme un muid de bière...
+
+--- À moins que je ne tourne à l\'échalas sur mes vieux jours ! » répondit Clou en serrant sa ceinture.
+
+La *Belle-Roulotte* eut bientôt à passer le Taz, qui verse ses eaux dans le golfe de l\'Ienisseï ; à peu près au point où l\'itinéraire venait couper le Cercle polaire arctique pour pénétrer sur la zone tempérée. On voit par quelle oblique il s\'était dirigé vers le sud-ouest depuis le départ de l\'archipel des Liakhov.
+
+A ce propos, M. Serge, toujours très écouté, crut devoir expliquer à son auditoire habituel ce qu\'était ce Cercle polaire, au-delà duquel le soleil, pendant l\'été, ne s\'élève jamais à plus de vingt-trois degrés au-dessus de l\'horizon.
+
+Jean, ayant déjà quelques notions de cosmographie, comprit l\'explication qui fut donnée par M. Serge. Mais M. Cascabel eut beau tendre tous les ressorts de son intelligence, il ne parvint pas à s\'imaginer ce qu\'était ce Cercle polaire.
+
+« En fait de cercles, dit-il, je ne connais que les cerceaux à travers lesquels s\'élancent les écuyers et les écuyères ! Après tout, ce n\'est pas une raison pour ne point arroser celui-là ! »
+
+Et le Cercle polaire fut arrosé d\'une bonne bouteille de brandevin, comme les marins arrosent la Ligne, à bord des bâtiments qui passent d\'un hémisphère à l\'autre.
+
+La traversée du Taz ne s\'opéra pas sans quelques difficultés. Aucun bac n\'assurait la communication entre les deux rives de ce petit fleuve, et il fallut trouver un passage guéable -- ce qui demanda quelques heures. Les deux Russes montrèrent beaucoup de zèle, et, à plusieurs reprises, ils durent se mettre dans l\'eau jusqu\'à la ceinture, afin de dégraver les roues du véhicule.
+
+Ce transbordement se fit avec moins de peine, le 16 mai, lorsque la *Belle-Roulotte* eut à se transporter de l\'autre côté du Pour, étroite rivière qui n\'est ni rapide ni profonde.
+
+Au commencement de juin, la chaleur était devenue excessive -- ce qui semble toujours anormal, quand il s\'agit de pays aussi élevés en latitude. Pendant la dernière quinzaine de ce mois, le thermomètre marquait de vingt-cinq à trente degrés. Comme l\'ombre manquait absolument à la steppe, M. Serge et ses compagnons furent très accablés par cette température. La nuit même n\'adoucissait guère les ardeurs du jour, car, à cette époque, c\'est à peine si le soleil disparaît sous l\'horizon de ces longues plaines. Après l\'avoir effleuré presque au nord, son disque, chauffé à blanc, se relève aussitôt pour reprendre sa course diurne.
+
+« Hein !... ce maudit soleil ! répétait Cornélia en s\'épongeant la figure. Quelle bouche de four !... Et, encore, si c\'était pendant l\'hiver !
+
+--- Si c\'était pendant l\'hiver, répondit M. Serge, l\'hiver serait l\'été.
+
+--- Juste ! répliqua M. Cascabel. Mais, ce qui me paraît mal combiné, c\'est que nous n\'ayons pas un seul morceau de glace pour nous rafraîchir, après en avoir eu plus qu\'il ne fallait pendant des mois entiers !
+
+--- Voyons, ami Cascabel, si nous avions de la glace, c\'est qu\'il ferait froid, et s\'il faisait froid...
+
+--- Il ne ferait pas chaud !... Toujours très juste...
+
+--- À moins qu\'il ne fît entre les deux ! Crut devoir ajouter Clou-de-Girofle.
+
+--- De plus en plus juste ! répondit M. Cascabel. Il fait une crâne chaleur tout de même ! »
+
+Néanmoins, les chasseurs n\'avaient point abandonné leurs chasses. Seulement, ils se mettaient en campagne de grand matin et n\'avaient point à le regretter. Il y eut même, certain jour, un beau coup de fusil dont tout l\'honneur revint à Jean. En effet, l\'animal qu\'il avait abattu ne fut pas rapporté sans peine. C\'était une bête à poil court et roussâtre par-devant, après avoir été gris pendant la période hivernale. Sur son dos courait une raie jaune comme une raie mulassière. Ses longues cornes se recourbaient gracieusement au-dessus de sa tête, ce qui indiquait un mâle de cette espèce de ruminants. » Voilà un beau renne ! s\'écria Sandre.
+
+--- Oh ! dit Napoléone d\'un ton de reproche à son frère aîné, pourquoi as-tu tué un renne ?...
+
+--- Pour le manger, petite soeur !
+
+--- Moi qui les aime tant !
+
+--- Eh bien, puisque tu les aimes tant, reprit Sandre, tu pourras te régaler, car il y en aura pour tout le monde.
+
+--- Console-toi, ma mignonne ! dit M. Serge. Cette bête-là n\'est point un renne.
+
+--- Qu\'est-ce donc ?... demanda Napoléone.
+
+--- C\'est un argali. »
+
+M. Serge ne se trompait point, et ces animaux, qui habitent les montagnes pendant l\'hiver et la plaine pendant l\'été, ne sont à vrai dire que d\'énormes moutons.
+
+« Eh bien, Cornélia, fit observer M. Cascabel, puisque c\'est un mouton, tu nous feras cuire ses côtelettes sur le gril ! »
+
+Ce qui fut fait, et, comme la chair de l\'argali est extrêmement savoureuse, il est probable que, ce jour-là, le ventre de César Cascabel lui-même prit un peu plus d\'embonpoint qu\'il ne convenait aux exigences de sa profession.
+
+A partir de ce point, ce fut un long trajet au milieu d\'un pays presque aride que la *Belle-Roulotte* eut à faire pour gagner le cours de l\'Obi. Les villages ostiaks étaient de plus en plus rares, et c\'est à peine si l\'on rencontrait quelques groupes de nomades, émigrant vers les provinces de l\'est. D\'ailleurs, ce n\'était pas sans raison que M. Serge cherchait à traverser les parties les moins peuplées du district. Il convenait d\'éviter l\'importante ville de Berëzovo, située un peu au-delà de l\'Obi.
+
+Encadrée d\'une magnifique forêt de cèdres, étagée sur une colline abrupte, dominée par les clochers de ses deux églises, arrosées par la Sosva, que sillonnent incessamment les embarcations et les navires de commerce, cette cité, avec ses deux cents maisons, est le centre d\'un marché très suivi, où s\'agglomèrent les produits de la Sibérie septentrionale.
+
+Il est bien évident que l\'arrivée de la *Belle-Roulotte* à Berëzovo n\'aurait pu qu\'exciter la curiosité publique, et la police aurait regardé d\'un peu près la famille Cascabel. Mieux valait donc éviter Berëzovo et même le district de ce nom. Les gendarmes sont les gendarmes, et, surtout quand ils sont cosaques, il est plus prudent de ne rien avoir à démêler avec eux.
+
+Mais, à ce propos, Ortik et Kirschef observèrent très bien qu\'il ne convenait pas à M. Serge de passer par Berëzovo. Aussi cela les confirma-t-il dans la pensée que ce Russe cherchait à rentrer secrètement en Russie.
+
+Ce fut pendant la seconde semaine de juin que l\'itinéraire subit une légère modification, afin de prendre au nord du district de Berëzovo. Ce n\'était, au surplus, qu\'un allongement d\'une dizaine de lieues, et, le 16 juin, la petite caravane, après avoir descendu le long d\'un grand fleuve, campa sur sa rive droite.
+
+Ce fleuve, c\'était l\'Obi.
+
+La *Belle-Roulotte* avait franchi cent quatre-vingt lieues environ depuis le bassin du Pour. Elle ne se trouvait plus maintenant qu\'à une centaine de lieues de la frontière européenne. La chaîne de l\'Oural, qui se dresse entre ces deux parties du monde, ne tarderait pas à fermer l\'horizon.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b10 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10. .calibre171 .sigil_not_in_toc}
+
+L\'Obi, puissant fleuve, alimenté par les eaux de l\'Oural à l\'ouest, et d\'abondants tributaires à l\'est, se déroule sur une longueur de quatre mille cinq cents kilomètres, et son bassin ne comprend pas moins de trois cent trente millions d\'hectares.
+
+Géographiquement, l\'Obi aurait pu servir de limites naturelles entre l\'Asie et l\'Europe, si les monts Oural ne se fussent élevés un peu à l\'orient de son cours. À partir du soixantième degré de latitude, le fleuve et la montagne se développent presque parallèlement. Et, tandis que l\'Obi va se jeter dans le vaste golfe de ce nom, l\'Oural plonge ses dernières ramifications aux profondeurs de la mer de Kara.
+
+M. Serge et ses compagnons, arrêtés près de sa rive droite, observaient le cours du fleuve, d\'où émergent de nombreux îlots, largement ombragés de saules. Au pied des berges, les plantes aquatiques balançaient leurs lames acérées, empanachées de fleurs fraîches. En amont et en aval, quantité d\'embarcations parcouraient ces eaux limpides et fraîches, purifiées par leur passage à travers le filtre des montagnes qui leur ont donné naissance.
+
+Le service de la batellerie étant régulièrement organisé, la *Belle-Roulotte* put aisément atteindre sur sa rive gauche la bourgade de Mouji.
+
+Cette bourgade, à vrai dire, n\'est qu\'un village, et ne présentait aucun danger pour la sécurité du comte Narkine, puisqu\'elle ne servait pas de poste militaire. Cependant, il convenait de se mettre en règle, puisqu\'on était à la veille d\'atteindre la base de l\'Oural, et que l\'administration russe exige l\'exhibition des papiers de tout voyageur venant du dehors. Aussi M. Cascabel résolut-il de faire régulariser les siens par le maire de Mouji. Cela fait, M. Serge, étant compris dans le personnel de sa troupe, parviendrait à franchir la frontière de l\'empire moscovite, sans éveiller les soupçons de la police.
+
+Pourquoi fallait-il qu\'un déplorable hasard eut compromis ce plan d\'une exécution si facile ? Pourquoi Ortik et Kirschef étaient-ils là, décidés à le faire échouer ? Pourquoi allaient-ils diriger la *Belle-Roulotte* par les plus dangereuses passes de l\'Oural, où ils ne tarderaient pas à se retrouver avec des bandes de malfaiteurs, leurs anciens complices ?
+
+Mais M. Cascabel, ne pouvant ni prévoir ce dénouement ni rien faire pour l\'empêcher, ne cessait de s\'applaudir d\'avoir mené à bonne fin sa téméraire entreprise. Maintenant qu\'ils avaient franchi tout l\'Ouest-Amérique, toute l\'Asie septentrionale, il n\'était plus qu\'à une centaine de lieues des frontières de l\'Europe ! Sa femme, ses enfants, en parfaite santé, ne ressentaient rien des fatigues de ce long itinéraire. Si M. Cascabel avait vu son énergie faiblir, lors de la catastrophe du détroit de Behring et pendant la dérive sur la mer Glaciale, du moins avait-il su échapper à ces imbéciles des îles Liakhov, qui avaient mis la *Belle-Roulotte* à même de continuer son voyage dans les régions du continent.
+
+« Décidément, Dieu fait d\'ordinaire bien ce qu\'il fait ! » répétait-il volontiers.
+
+M. Serge et ses compagnons avaient résolu de séjourner vingt-quatre heures à ce village de Mouji, où les habitants leur firent un excellent accueil.
+
+Cependant M. Cascabel reçut la visite du gorodintschy, -- le maire de l\'endroit. Ce personnage, quelque peu méfiant à l\'égard des étrangers, regarda comme un devoir d\'interroger le chef de la famille. Celui-ci n\'hésita pas à lui présenter ses papiers, où M. Serge était porté comme l\'un des artistes de la troupe foraine.
+
+De voir l\'un de ses compatriotes au milieu de saltimbanques français, cela ne laissa pas de surprendre l\'honorable fonctionnaire, à qui il n\'avait pu échapper que M. Serge était d\'origine moscovite. Il en fit l\'observation.
+
+Mais M. Cascabel lui fit alors remarquer que, s\'il y avait un Russe parmi eux, il avait aussi un Américain en la personne de Clou-de-Girofle, et une Indienne en la personne de Kayette. Il ne s\'inquiétait que du talent des artistes, jamais de leur nationalité. Il ajouta que ces artistes seraient trop heureux si « monsieur le maire -- jamais César Cascabel n\'aurait pu prononcer le mot gorodintschy ---, si monsieur le maire voulait leur permettre de travailler en sa présence ! »
+
+Voilà qui fit un extrême plaisir audit maire, lequel accepta la proposition de M. Cascabel et lui promit de viser ses papiers après la représentation.
+
+Quant à Ortik et Kirschef, ayant été désignés comme deux naufragés russes en cours de rapatriement, il n\'y eut aucune difficulté à leur égard.
+
+Il s\'ensuit donc que, le soir même, toute la troupe se rendit à la demeure du gorodintschy.
+
+C\'était une assez vaste maison, peinte d\'un beau ton jaune, en souvenir d\'Alexandre I, qui affectionnait cette couleur. Aux murs du salon était suspendue une image de la Vierge, accompagnée des portraits de quelques saints moscovites, ayant fort bon air dans leur cadre d\'étoffe argentée. Des bancs et escabeaux servaient de siège au maire, à sa femme et à ses trois filles. Une demi-douzaine de notables avaient été invités à partager les plaisirs de cette soirée, tandis que les simples contribuables de Mouji, pressés autour de la maison, se contentaient de regarder par les fenêtres.
+
+La famille Cascabel fut reçue avec beaucoup d\'égards. Elle commença ses exercices, et on ne s\'aperçut pas trop qu\'ils eussent été négligés depuis quelques semaines. Les dislocations du jeune Sandre furent très appréciées, et aussi la grâce de Napoléone, qui, n\'ayant point une corde raide à sa disposition, se contenta d\'exécuter un pas de circonstance. Dans le jeu des bouteilles, des assiettes, des anneaux et des boules, Jean émerveilla toute l\'assistance. Après quoi, M. Cascabel, dans son travail de force, se montra digne mari de Cornélia, qui obtint un véritable succès en portant deux notables à bras tendu.
+
+Quant à M. Serge, il s\'acquitta très adroitement de quelques tours de cartes et d\'escamotage que son habile professeur lui avait appris, -- non sans raison, on le voit. Aucun doute dès lors ne pouvait naître dans l\'esprit du maire sur la réalité de l\'engagement de ce Russe dans la troupe foraine.
+
+Des confitures, des gâteaux aux raisins de Corinthe, du thé excellent, furent ensuite servis à la ronde. Puis, la soirée ayant pris fin, le gorodintschy visa sans hésitation les papiers que lui présenta M. Cascabel. La *Belle-Roulotte* était maintenant en règle vis-à-vis des autorités moscovites.
+
+Il faut noter aussi que ce maire, qui jouissait d\'une certaine aisance, crut devoir offrir à M. Cascabel une vingtaine de roubles pour le prix de sa représentation.
+
+M. Cascabel eut d\'abord l\'idée de refuser cette rémunération ; mais, de la part d\'un directeur de troupe ambulante, cela aurait peut-être eu lieu de surprendre.
+
+« Vingt roubles, c\'est vingt roubles, après tout ! » se dit-il.
+
+Et, non sans s\'être confondu en remerciements, il empocha sa recette.
+
+La journée du lendemain fut consacrée au repos. Il y avait quelques acquisitions à faire, farine, riz, beurre et boissons diverses, que Cornélia put se procurer à des prix modérés. Quant à l\'approvisionnement de conserves, il ne fallait pas songer à le renouveler dans ce village ; mais le gibier ne devait pas manquer entre le cours de l\'Obi et la frontière d\'Europe.
+
+Avant midi, ces emplettes étaient terminées. L\'heure venue, on dîna assez joyeusement, bien que Jean et Kayette eussent le coeur serré. Ne voyaient-ils pas s\'approcher le moment de la séparation ?...
+
+En effet, que ferait M. Serge, quand il aurait revu le prince Narkine, son père ? Ne pouvant rester en Russie, repartirait-il pour l\'Amérique, ou resterait-il en Europe ? On le comprend, cela ne laissait pas de préoccuper M. Cascabel. Il aurait voulu savoir à quoi s\'en tenir à ce sujet. Aussi, ce jour-là, après le dîner, prit-il le parti de demander à M. Serge s\'il lui conviendrait de « venir faire un tour » aux environs du village. M. Serge, voyant que M. Cascabel désirait lui parler en secret, s\'empressa d\'accepter.
+
+Quant aux deux matelots, ils prirent congé de la famille, non sans avoir annoncé leur intention d\'achever cette journée dans une des tavernes de Mouji.
+
+M. Serge et M. Cascabel quittèrent donc la *Belle-Roulotte*, firent quelques centaines de pas, et vinrent s\'asseoir à la lisière d\'un petit bois en dehors du village.
+
+« Monsieur Serge, dit alors M. Cascabel, si je vous ai prié de m\'accompagner, c\'est que je voulais me trouver seul avec vous... Je désire vous parler de votre situation...
+
+--- De ma situation, mon ami ?
+
+--- Oui, monsieur Serge, ou plutôt de ce à quoi elle vous obligera lorsque vous serez en Russie !...
+
+--- En Russie ?...
+
+--- Je ne me trompe point, n\'est-il pas vrai, en disant que nous aurons franchi l\'Oural dans une dizaine de jours, et que, huit jours plus tard, nous serons arrivés à Perm\' ?
+
+--- Cela me paraît probable, si aucun obstacle ne nous arrête, répondit M. Serge.
+
+--- Des obstacles !... Il n\'y aura pas d\'obstacles !... reprit M. Cascabel. Vous passerez la frontière sans l\'ombre d\'une difficulté ! Nos papiers sont en règle, vous faites partie de ma troupe, et personne ne pourrait imaginer que l\'un de mes artistes est le comte Narkine !....
+
+--- En effet, mon ami, puisque Mme Cascabel et vous étiez seuls à connaître ce secret et qu\'il a été gardé...
+
+--- Autant que si, ma femme et moi, nous l\'avions emporté dans la tombe ! répondit M. Cascabel avec beaucoup de dignité. Et maintenant, monsieur Serge, serais-je indiscret en vous demandant ce que vous comptez faire, lorsque la *Belle-Roulotte* aura fait halte à Perm\'....
+
+--- Je me hâterai d\'aller au château de Walska pour revoir mon père ! répondit M. Serge. Ce sera une grande joie pour lui, une joie bien inattendue, car voilà treize mois que je n\'ai reçu de ses nouvelles, treize mois que je n\'ai pu lui écrire, et que doit-il en penser ?...
+
+--- Avez-vous l\'intention de prolonger votre séjour au château du prince Narkine ?
+
+--- Cela dépendra de circonstances que je ne saurais prévoir. Si ma présence est soupçonnée, peut-être serais-je forcé de quitter mon père !... Et pourtant... à son âge...
+
+--- Monsieur Serge, répondit M. Cascabel, je n\'ai point de conseils à vous donner... Mieux que personne vous savez comment vous devez agir... Mais je vous ferai observer que vous serez exposé à des dangers très sérieux, si vous restez en Russie !... Que vous soyez découvert, et il y va de votre vie...
+
+--- Je le sais, mon ami, comme je sais aussi que vous serez très menacés, vous et les vôtres, si la police apprenait que vous avez facilité ma rentrée sur le territoire moscovite !
+
+--- Oh !... nous !... Ça ne compte pas !...
+
+--- Si, mon cher Cascabel, et jamais je n\'oublierai ce que votre famille a accompli pour moi...
+
+--- Bien !... bien !... monsieur Serge !... Nous ne sommes pas venus ici pour échanger de belles phrases ! Voyons ! Il faut s\'entendre sur la résolution que vous comptez prendre à Perm\'...
+
+--- Rien de plus simple, répondit M. Serge. Puisque j\'appartiens à votre troupe, je resterai avec vous de manière à ne point provoquer les soupçons.
+
+--- Mais le prince Narkine ?...
+
+--- Le château de Walska n\'est qu\'à six verstes de la ville, et, chaque soir, après la représentation, il me sera facile de m\'y rendre sans être vu. Nos domestiques se feraient tuer plutôt que de trahir ou de compromettre leur maître. Je pourrai donc passer quelques heures près de mon père, et revenir à Perm\'avant le jour.
+
+--- À merveille, monsieur Serge, et tant que nous serons à Perm\', les choses marcheront toutes seules, je l\'espère ! Mais, lorsque la foire sera terminée, lorsque la *Belle-Roulotte* repartira pour Nijni, puis pour la France... »
+
+Évidemment, c\'était le point délicat. À quoi se déciderait le comte Narkine, lorsque la famille Cascabel aurait quitté Perm\' ?... Se cacherait-il au château de Walska ?... Resterait-il en Russie, au risque d\'être découvert ?... La question de M. Cascabel était précise.
+
+« Mon ami, lui répondit M. Serge, je me suis souvent demandé : Que ferai-je ?... Je n\'en sais rien, c\'est tout ce que je puis vous dire ! Ma conduite sera dictée par les circonstances...
+
+--- Voyons, reprit M. Cascabel, à supposer que vous soyez contraint de quitter le château de Walska, à supposer que vous ne puissiez demeurer en Russie, où votre liberté, votre existence même seraient menacées... je vous demanderai, monsieur Serge, si vous songeriez à retourner en Amérique...
+
+--- Je n\'ai formé aucun projet à cet égard, répondit le comte Narkine.
+
+--- Eh bien, monsieur Serge -- pardonnez-moi si j\'insiste ---, pourquoi ne viendriez-vous pas en France avec nous ?... En continuant de figurer dans ma troupe, vous pourriez sans danger atteindre la frontière russe occidentale !... Est-ce que ce ne serait pas le parti le plus sûr ?... Et puis, nous vous garderions quelque temps encore... et avec vous, notre chère petite Kayette... Oh ! Non pour vous l\'enlever !... Elle est... elle restera votre fille adoptive, et cela vaut un peu mieux que d\'être la soeur de Jean, de Sandre et de Napoléone, les enfants d\'un saltimbanque !
+
+--- Mon ami, répondit M. Serge, ne parlons pas de ce que nous réserve l\'avenir. Qui sait s\'il ne nous donnera pas satisfaction à tous ?... Occupons-nous du présent, c\'est l\'essentiel... Ce que je puis vous affirmer -- mais n\'en parlez à personne encore ---, c\'est que, s\'il me fallait quitter la Russie, je serais très heureux de me retirer en France, en attendant que quelque évènement politique vînt modifier ma situation... Et, puisque vous retournez dans votre pays...
+
+--- Bravo !... Nous y retournerons ensemble ! » répliqua M. Cascabel.
+
+Il avait pris la main de M. Serge, il la pressait, il la serrait, comme s\'il eût voulu la river à la sienne.
+
+Il rentrèrent ensemble au campement, où les deux matelots ne revinrent que le lendemain.
+
+L\'attelage partit dès les premières heures du jour, et se dirigea à peu près vers l\'ouest.
+
+Pendant les journées qui suivirent, la chaleur fut extrêmement forte. On sentait déjà les premières ondulations de la chaîne de l\'Oural, et, sur ce sol montant, les rennes éprouvaient de grandes fatigues, car la température les accablait. Peut-être eût-il mieux valu les remplacer par des chevaux ; mais M. Cascabel, on le sait, était féru de cette idée de faire une triomphale entrée à Perm\', avec une voiture à vingt rennes.
+
+Le 28 juin, après un parcours de soixante-dix lieues depuis le cours de l\'Obi, la *Belle-Roulotte* atteignit la petite bourgade de Verniky. Là, exhibition obligatoire des papiers -- formalité qui ne donna lieu à aucune observation. Puis, la voiture reprit sa direction vers la chaîne de l\'Oural, qui dressait à l\'horizon les sommets du Telpoes et du Nintchour, élevés à seize cents mètres. On n\'allait pas très vite, et pourtant il n\'y avait plus de temps à perdre, si la petite troupe voulait arriver à Perm\'au moment où la foire serait dans tout son éclat.
+
+Du reste, en prévision des représentations qu\'il comptait y donner, M. Cascabel exigeait maintenant que chacun « répétât » ses exercices. Il y avait à garder intacte la réputation des acrobates, gymnastes, équilibristes et clowns français en général, et de la famille Cascabel en particulier. Aussi obligeait-il ses artistes à s\'entraîner pendant les haltes du soir. Il n\'était pas jusqu\'à M. Serge qui ne travaillât à se perfectionner dans les tours de cartes et d\'escamotage, pour lesquels il montrait de réelles dispositions.
+
+« Quel forain vous auriez fait ! » ne cessait de lui répéter son professeur.
+
+Le 3 juillet, la *Belle-Roulotte* vint camper au centre d\'une clairière, encadrée de bouleaux, de pins, de mélèzes, que dominaient les cimes alpestres de l\'Oural.
+
+C\'était le lendemain que les voyageurs, guidés par Ortik et Kirschef, commenceraient à s\'engager à travers l\'une des passes de la chaîne, et ils prévoyaient, sinon de sérieuses fatigues, du moins de rudes étapes, tant que le plus haut point du col ne serait pas atteint.
+
+Comme cette partie de la frontière, ordinairement fréquentée par les contrebandiers ou les déserteurs, n\'était pas très sûre, il y aurait lieu de se tenir sur la défensive, et quelques mesures durent être prises à ce propos.
+
+Pendant la soirée, la conversation porta sur les difficultés que pouvait présenter la traversée de l\'Oural. Ortik assura que la passe indiquée par lui -- dite passe de la Petchora -- était une des plus praticables de la chaîne. Il la connaissait pour l\'avoir déjà franchie, lorsque Kirschef et lui s\'étaient rendus d\'Arkhangelsk à la mer Arctique pour y rejoindre le *Vremia*.
+
+Tandis que M. Serge et Ortik s\'entretenaient de ces choses, Cornélia, Napoléone et Kayette s\'occupaient du souper. Un bon quartier de daim rôtissait devant un feu allumé sous les arbres, à l\'entrée de la clairière, et une tarte au riz se nuançait de teintes dorées sur une plaque en contact avec des charbons ardents.
+
+« J\'espère que, ce soir, on ne se plaindra pas du menu ! dit l\'excellente ménagère.
+
+--- À moins que le rôti et le gâteau ne brûlent ! fit, bien entendu, observer Clou-de-Girofle.
+
+--- Et pourquoi brûleraient-ils, monsieur Clou, riposta Cornélia, si vous avez soin de tourner la broche de l\'un et de remuer la plaque de l\'autre ! »
+
+Et, dûment averti, Clou s\'installa au poste de confiance qui lui était assigné. Tandis que Wagram et Marengo rôdaient autour du foyer, John Bull se pourléchait en attendant sa part de cet excellent souper.
+
+Le moment venu, on se mit à table, et il n\'y eut que des éloges à faire de ce repas. Cornélia et son aide les reçurent avec une vive satisfaction.
+
+A l\'heure de se coucher, comme la température était encore élevée, M. Serge, César Cascabel et des deux fils, Clou et les deux matelots voulurent se contenter du lit que la clairière leur offrait à l\'abri des arbres. Dans ces conditions, d\'ailleurs, la surveillance serait plus facile.
+
+Il n\'y eut donc que Cornélia, Kayette et Napoléone, qui regagnèrent leurs couchettes à l\'intérieur de la *Belle-Roulotte*.
+
+Avec le crépuscule de juillet, dont la durée se prolonge indéfiniment sous ce soixante-sixième parallèle, il était plus de onze heures, lorsque la nuit fut à peu près close -- une nuit sans lune, semée d\'étoiles noyées dans les vapeurs des hautes zones.
+
+Étendus sur l\'herbe, et enveloppés chacun d\'une couverture, M. Serge et ses compagnons sentaient déjà leurs paupières appesanties par le premier sommeil, lorsque les deux chiens commençèrent à donner divers signes d\'agitation. Ils dressaient le museau, ils faisaient entendre de sourds grognements qui marquaient une extrême inquiétude.
+
+Jean se redressa le premier et jeta un regard autour de la clairière.
+
+Le foyer se mourait, et une profonde obscurité régnait sous l\'épais massif des arbres. Jean regarda plus attentivement, et crut voir des points mobiles, qui brillaient comme des braises. Wagram et Marengo aboyaient avec violence.
+
+« Alerte ! » s\'écria Jean, en se relevant d\'un bond, alerte ! »
+
+En un instant, les dormeurs furent sur pied.
+
+« Qu\'y a-t-il ?... demanda M. Cascabel.
+
+--- Vois... là... père ! répondit Jean, en montrant les points lumineux, maintenant immobilisés dans l\'ombre du taillis.
+
+--- Et qu\'est-ce donc ?...
+
+--- Des yeux de loups !
+
+--- Oui !... des loups !... répondit Ortik.
+
+--- Et même toute une bande ! ajouta M. Serge.
+
+--- Diable ! » fit M. Cascabel.
+
+Diable ! était sans doute insuffisant pour exprimer la gravité de la situation. Peut-être les loups étaient-ils là par centaines, réunis autour de la clairière, et ces carnassiers deviennent extrêmement redoutables lorsqu\'ils sont en grand nombre.
+
+En ce moment, Cornélia, Kayette et Napoléone apparurent à la porte de la *Belle-Roulotte*.
+
+« Eh bien, père ?... demanda la fillette.
+
+--- Ce n\'est rien, répondit M. Cascabel. De simples loups, qui se promènent à la belle étoile !... Restez dans vos chambres, et passez-nous nos armes pour les tenir en respect ! »
+
+Un instant après, fusils et revolvers étaient entre les mains de M. Serge et de ses compagnons.
+
+« Rappelez les chiens ! » dit-il.
+
+Wagram et Marengo, qui rôdaient sur la lisière du bois, revinrent à la voix de Jean, en proie à une fureur qu\'il n\'eût pas été facile de contenir.
+
+Une décharge générale fut faite alors dans la direction des points lumineux, et d\'effroyables hurlements indiquèrent que la plupart des coups avaient porté.
+
+Mais il fallait que le nombre des loups fût considérable, car le cercle se resserra, et une cinquantaine de ces animaux envahirent la clairière.
+
+« À la *Roulotte* !... À la *Roulotte* !... cria M. Serge. Nous allons être assaillis !... C\'est là seulement que nous pourrons nous défendre.
+
+--- Et les rennes ?... dit Jean.
+
+--- Nous ne pouvons rien pour les sauver ? »
+
+Il était trop tard, en effet. Déjà quelques-unes des bêtes de l\'attelage avaient été égorgées, tandis que les autres, après avoir brisé leurs entraves, s\'étaient enfuies à travers les profondeurs des bois.
+
+Sur l\'ordre de M. Serge, tous rentrèrent dans la voiture avec les deux chiens, et la porte de l\'avant-train fut refermée.
+
+Il était temps ! Au milieu des lueurs du crépuscule, on put voir les loups bondir autour de la *Belle-Roulotte* et sauter jusqu\'à la hauteur de ses fenêtres.
+
+« Que deviendrons-nous sans attelage ?... ne put s\'empêcher de dire Cornélia.
+
+--- Commençons par nous débarrasser de cette bande ! répondit M. Serge.
+
+--- Nous en viendrons à bout, que diable ! s\'écria M. Cascabel..
+
+--- Oui, à moins qu\'ils ne soient trop nombreux ! répliqua Ortik.
+
+--- Et si les munitions ne viennent pas à nous manquer ! ajouta Kirschef.
+
+--- En attendant, feu ! » cria M. Serge.
+
+Et alors, par les fenêtres entrouvertes, les fusils et les revolvers commencèrent l\'oeuvre de destruction. À la lueur des détonations, qui éclataient sur les deux flancs et l\'arrière de la voiture, on apercevait déjà une vingtaine de loups, frappés mortellement ou grièvement blessés, qui jonchaient le sol.
+
+Mais rien n\'arrêtait la rage de ces fauves, et il ne semblait pas que leur nombre fût diminué. Plusieurs centaines remplissaient maintenant la clairière, agitée de silhouettes mouvantes.
+
+Il y en avait qui se glissaient sous la voiture et essayaient d\'en briser les panneaux avec leurs griffes. D\'autres, après avoir sauté sur la banquette de l\'avant-train, menaçaient de défoncer la porte, qu\'il fallut barricader solidement. Quelques-uns même couraient sur la galerie supérieure, se penchaient jusqu\'aux fenêtres, les frappaient à coups de pattes, ne disparaissaient que lorsqu\'une balle les rejetait à terre.
+
+Napoléone, très effrayée, poussait des cris. La « peur du loup », si intense chez les enfants, n\'était alors que trop justifiée. Kayette, qui n\'avait rien perdu de son sang-froid, essayait en vain de calmer la petite fille. Il faut dire aussi que Mme Cascabel n\'était pas rassurée sur l\'issue de la lutte.
+
+En effet, si cela se prolongeait, la situation deviendrait de plus en plus périlleuse. Comment la *Belle-Roulotte* pourrait-elle résister à l\'assaut de ces innombrables loups ?... Et, si elle était renversée, n\'était-ce pas l\'égorgement inévitable de tous ceux qui y avaient cherché refuge ?
+
+Or, l\'affaire durait depuis une demi-heure environ, lorsque Kirschef s\'écria :
+
+« Les munitions vont manquer ! »
+
+Une vingtaine de cartouches, voilà tout ce qui restait pour le fonctionnement des fusils et des revolvers.
+
+« Ne tirons plus qu\'à coup sûr ! » dit M. Cascabel.
+
+A coup sûr ?... Mais tous les coups ne portaient-ils pas au milieu de cette masse d\'assaillants ? Seulement, les loups étaient plus nombreux que les balles ; ils se renouvelaient sans cesse, tandis que les armes à feu allaient être réduites à se taire !... Que devenir ?... Attendre le jour ?... Et si le jour ne mettait pas la bande en fuite ?...
+
+C\'est alors que M. Cascabel brandissant son revolver qui allait devenir inutile, s\'écria :
+
+« J\'ai une idée !
+
+--- Une idée ?... répondit M. Serge.
+
+--- Oui !... et une bonne !... Il s\'agit tout simplement de prendre un ou deux de ces coquins-là !
+
+--- Et comment ?... demanda Cornélia..
+
+--- Nous allons entrouvrir la porte avec précaution, et nous saisirons les deux premiers qui chercheront à s\'introduire dans le compartiment...
+
+--- Y pensez-vous, Cascabel ?
+
+--- Que risquons-nous, monsieur Serge ? Quelques morsures ?... Peuh ! J\'aime mieux être mordu qu\'étranglé !
+
+--- Soit !... Faisons, mais faisons vite ! » répondit M. Serge, sans trop savoir où M. Cascabel voulait en venir.
+
+Celui-ci, suivi d\'Ortik, de Clou et de Kirschef, vint se placer dans le premier compartiment, tandis que Jean et Sandre retenaient les deux chiens au fond du dernier, où les femmes avaient eu ordre de se tenir.
+
+Les meubles qui barraient la porte furent enlevés, et M. Cascabel l\'entrouvrit de manière à pouvoir la refermer rapidement.
+
+En ce moment, une douzaine de loups, accrochés à la banquette, cramponnés aux deux marchepieds, s\'acharnaient contre l\'avant de la voiture.
+
+Dès que la porte eut été quelque peu entrebâillée, un des loups se précipita à l\'intérieur et elle fut aussitôt refermée par Kirschef. M. Cascabel, aidé d\'Ortik, se jeta sur l\'animal et parvint à lui envelopper la tête d\'un morceau de toile dont il s\'était muni et qui fortement attaché à son cou.
+
+La porte se rouvrit de nouveau... Un second loup s\'introduisit et subit le même traitement que le premier. Ce n\'était pas sans peine que Clou, Ortik et Kirschef maintenaient ces bêtes vigoureuses et rageantes.
+
+« Surtout, ne les tuez pas, recommandait M. Cascabel, et tenez-les bien ! »
+
+Ne pas les tuer ?... Et qu\'en voulait-il donc faire ?... Les engager dans sa troupe pour la foire de Perm\' ?...
+
+Ce qu\'il en voulait faire, ce qu\'il en fit, ses compagnons ne tardèrent pas à le savoir.
+
+En effet, une flamme venait d\'éclairer le compartiment, qui retentit de hurlements et de cris de douleur. Puis, la porte ayant été réouverte fut refermée, après que les deux loups eurent été poussés dehors.
+
+Quel effet produisit leur apparition au milieu de la bande ! On en put d\'autant mieux juger, que la clairière s\'emplissait de lueurs mouvantes.
+
+Les deux loups avaient été arrosés de pétrole, auquel M. Cascabel avait mis le feu, et c\'est dans cet état qu\'ils se débattaient au milieu des assaillants.
+
+Eh bien ! Elle était fameuse, l\'idée de M. Cascabel, comme toutes celles qu\'enfantait le cerveau de cet homme prodigieux. Les loups, épouvantés, détalaient devant les deux bêtes en flamme. Et quels rugissements ils poussaient -- bien autrement effroyables que ceux qui avaient été entendus depuis le début de l\'attaque ! En vain, les deux pétrolés, aveuglés par leur capuchon de toile, cherchaient-ils à éteindre leur fourrure flambante ! En vain se roulaient-ils à terre et bondissaient-ils au milieu des autres fauves, ils brûlaient toujours !
+
+Finalement, la bande entière, prise de panique, dégagea les abords de la *Belle-Roulotte*, évacua la clairière, et disparut à travers les profondeurs du bois.
+
+Les hurlements ne tardèrent pas à décroître, et le silence se fit autour du campement.
+
+Par prudence, M. Serge recommanda d\'attendre les premières lueurs du jour, avant d\'aller opérer une reconnaissance aux environs de la *Belle-Roulotte*. Mais ses compagnons et lui n\'avaient plus à craindre une nouvelle agression. L\'ennemi s\'était dispersé... Il fuyait à toutes jambes !
+
+« Ah !... César !... s\'écria Cornélia, en se jetant dans les bras de son mari.
+
+--- Ah ! Mon ami !... dit M. Serge.
+
+--- Ah ! Père !... s\'écrièrent les enfants.
+
+--- Ah ! Monsieur patron !... gémit Clou.
+
+--- Eh bien !... quoi ?... Qu\'est-ce qui vous prend ?... répondit tranquillement M. Cascabel. Si on n\'était pas plus malin que des bêtes, ce ne serait pas la peine d\'être homme ! »
+
+La chaîne de l\'Oural mérite d\'attirer la visite des touristes autant, à tout le moins, que les Pyrénées et les Alpes. En tartare, le mot « oural » signifie « ceinture », et c\'est bien une ceinture qui se développe depuis la mer Caspienne jusqu\'à la mer Arctique, sur deux mille neuf cents kilomètres de longueur -- une ceinture, ornée de pierre précieuses, enrichie de métaux fins, or, argent, platine ---, une ceinture qui serre le vieux continent à la taille entre les limites de l\'Asie et de l\'Europe. Vaste système orographique, il verse ses eaux à travers les lits de l\'Oural, de la Kara, de la Petchora, de la Kama et nombre de tributaires, alimentés par la fusion des neiges. Superbe barrière de granit et de quartz, elle dresse ses aiguilles et ses pics à une altitude moyenne de deux mille trois cents mètres au-dessus du niveau océanique.
+
+« Voilà ce que l\'on peut véritablement appeler des montagnes russes ! dit assez plaisamment M. Cascabel. Seulement, ça ne dégringole pas tout seul, comme à la porte Maillot ou à la fête de Neuilly ! »
+
+En effet, cela ne devait pas « dégringoler tout seul » !
+
+Et, en premier lieu, pendant la traversée de la chaîne, il serait difficile d\'éviter ces bourgs, ces « zavodys », ces nombreux villages, dont la population doit son origine aux anciens ouvriers qui étaient
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b11 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11. .calibre171 .sigil_not_in_toc}
+
+La chaîne de l\'Oural mérite d\'attirer la visite des touristes autant, à tout le moins, que les Pyrénées et les Alpes. En tartare, le mot « oural » signifie « ceinture », et c\'est bien une ceinture qui se développe depuis la mer Caspienne jusqu\'à la mer Arctique, sur deux mille neuf cents kilomètres de longueur -- une ceinture, ornée de pierre précieuses, enrichie de métaux fins, or, argent, platine ---, une ceinture qui serre le vieux continent à la taille entre les limites de l\'Asie et de l\'Europe. Vaste système orographique, il verse ses eaux à travers les lits de l\'Oural, de la Kara, de la Petchora, de la Kama et nombre de tributaires, alimentés par la fusion des neiges. Superbe barrière de granit et de quartz, elle dresse ses aiguilles et ses pics à une altitude moyenne de deux mille trois cents mètres au-dessus du niveau océanique.
+
+« Voilà ce que l\'on peut véritablement appeler des montagnes russes ! dit assez plaisamment M. Cascabel. Seulement, ça ne dégringole pas tout seul, comme à la porte Maillot ou à la fête de Neuilly ! »
+
+En effet, cela ne devait pas « dégringoler tout seul » !
+
+Et, en premier lieu, pendant la traversée de la chaîne, il serait difficile d\'éviter ces bourgs, ces « zavodys », ces nombreux villages, dont la population doit son origine aux anciens ouvriers qui étaient occupés à l\'exploitation des mines. Toutefois, en franchissant ces défilés grandioses, la troupe de M. Cascabel n\'avait point à redouter les postes militaires, puisque ses papiers étaient en règle. Et même, si elle eût abordé les monts Oural dans leur partie médiane, elle n\'aurait pas hésité à suivre la belle route d\'Iekaterinbourg, l\'une des plus fréquentées de la chaîne, afin de déboucher sur le gouvernement de ce nom. Mais, puisque l\'itinéraire d\'Ortik l\'avait amenée plus au nord, mieux valait suivre la passe de la Petchora, et redescendre ensuite jusqu\'à Perm\'.
+
+C\'est ce qui allait être fait dès le lendemain.
+
+Lorsque le jour fut venu, on put constater combien la masse des assaillants avait été considérable. S\'ils étaient parvenus à forcer l\'intérieur de la *Belle-Roulotte*, pas un de ses hôtes n\'eût survécu au carnage.
+
+Une cinquantaine de loups étaient étendus sur le sol -- de ces loups de grande taille, si redoutables aux voyageurs engagés à travers la steppe. Les autres avaient pris la fuite, détalant comme s\'ils avaient eu le diable au corps -- métaphore absolument justifiée cette fois. Quant aux deux bêtes flambées, on les retrouva à quelque cents pas de la clairière.
+
+Et, maintenant, une question se posait : à l\'entrée de ce défilé de la Petchora, la *Belle-Roulotte* était fort éloignée de ces zavodys, qui sont rares sur le versant oriental de l\'Oural.
+
+« Comment ferons-nous ?... demanda Jean. Notre attelage de rennes est en fuite...
+
+--- S\'il n\'était qu\'en fuite, répondit M. Cascabel, il ne serait peut-être pas impossible de le retrouver ! Mais il est probable que nos rennes auront été dévorés !
+
+--- Pauvres bêtes ! dit Napoléone. Je les aimais comme j\'aimais Vermout et Gladiator...
+
+--- Qui auraient péri sous la dent des loups, s\'ils ne s\'étaient pas noyés là-bas ! ajouta Sandre.
+
+--- Oui !... C\'est bien ce qui leur serait arrivé !... dit M. Cascabel, en laissant échapper un gros soupir. Mais comment remplacer notre attelage ?...
+
+--- Je vais me rendre au plus prochain village, où je me procurerai des chevaux, en les payant un bon prix, répondit M. Serge. Si Ortik peut me servir de guide...
+
+--- Nous partirons quand vous voudrez, monsieur Serge, répondit Ortik.
+
+--- Évidemment, ajouta M. Cascabel, il n\'y a pas autre chose à faire. »
+
+Et c\'est ce qui eût été fait dès le jour même, si, à l\'étonnement général, on n\'eût vu paraître deux rennes sur le bord de la clairière, vers huit heures du matin.
+
+Ce fut Sandre qui les signala.
+
+« Père !... Père !... s\'écria-t-il. Les voilà !... Ils reviennent !...
+
+--- Vivants ?...
+
+--- En tout cas, ceux-là n\'ont pas l\'air d\'avoir été dévorés, puisqu\'ils marchent...
+
+--- À moins, répliqua Clou, qu\'il ne leur soit resté des jambes !...
+
+--- Ah ! Les bonnes bêtes !... s\'écria Napoléone. Il faut que je les embrasse ! »
+
+Et, après avoir couru vers les deux rennes, elle leur passa les bras autour du cou, et les embrassa de bon coeur.
+
+Mais deux rennes n\'auraient pas été capables de traîner la *Belle-Roulotte*. Par bonheur, plusieurs autres se montrèrent à la lisière du bois. Une heure plus tard, il y en avait quatorze sur les vingt, qui étaient venus de l\'archipel des Liakhov.
+
+« Vivent les rennes ! » s\'écria ce gamin de Sandre, sans que ce cri n\'eût rien de monarchique, bien entendu.
+
+Il ne manquait plus que six de ces animaux. C\'étaient ceux que les loups avaient attaqué avant qu\'ils n\'eussent pu rompre leurs entraves, et dont on retrouva les restes aux abords de la clairière. Les quatorze autres avaient pris la fuite dès le début de l\'attaque, et c\'était l\'instinct qui les avait ramenés au campement.
+
+Si ces excellentes bêtes furent bien reçues, on l\'imaginera sans peine. Avec elles, le véhicule pourrait reprendre sa marche à travers le défilé de l\'Oural. Tout le monde pousserait aux roues, lorsque les pentes seraient trop raides, et M. Cascabel pourrait faire une entrée à grand effet sur la place de Perm\'.
+
+Ce qui l\'attristait, pourtant, c\'est que la *Belle-Roulotte* avait quelque peu perdu de sa splendeur d\'autrefois, avec ses flancs labourés par les dents des loups, ses panneaux égratignés par les ongles de ces farouches carnassiers. Avant cette agression, déteinte par les rafales, dédorée par les intempéries, usée par les fatigues d\'un pareil voyage, elle était déjà presque méconnaissable. L\'écusson des Cascabel s\'était à demi effacé sous le fouet des chasse-neige. Quel coup de brosse et de pinceau il faudrait pour lui rendre son premier lustre ! En attendant, les plus vigoureux nettoyages de Cornélia et de Clou n\'y pouvaient rien.
+
+A dix heures, les rennes furent attelés, et l\'on se remit en marche. Comme la passe montait sensiblement, les hommes suivirent à pied.
+
+Le temps était beau, et la chaleur assez supportable en cette partie élevée de la chaîne. Mais que de fois il fallut venir en aide à l\'attelage, dégager les roues enlisées jusqu\'au moyeu au fond des ornières. À chaque tournant trop brusque du col, il y avait nécessité de soutenir la *Belle-Roulotte*, qui menaçait de donner de l\'avant-train ou de l\'arrière-train contre l\'angle des roches.
+
+Ces défilés de l\'Oural ne sont point l\'oeuvre de l\'homme. C\'est la seule nature qui a frayé un passage aux eaux de la chaîne à travers ces sinueux écartements. Une petite rivière, affluent de la Sosva, descendait en coulant vers l\'est. Parfois, son lit s\'élargissait au point de ne plus laisser qu\'un étroit sentier en zigzag. Ici, les talus s\'élevaient presque à pic, découvrant la charpente rocheuse, très visible sous le rideau des mousses et des plantes lapidaires. Là, les flancs, s\'allongeant en pentes douces, étaient hérissés d\'arbres, pins et sapins, bouleaux et mélèzes, et autres essences des contrées septentrionales de l\'Europe. Et, au lointain, perdues dans les nuages, se profilaient les crêtes neigeuses qui alimentaient les torrents de ce système orographique.
+
+Pendant cette première journée, la petite troupe ne rencontra personne, tandis qu\'elle suivait cette passe, évidemment peu fréquentée. Ortik et Kirschef paraissaient assez bien la connaître. À deux ou trois reprises, cependant, ils semblèrent hésiter, là où plusieurs ramifications divergeaient à travers le massif. Ils s\'arrêtaient alors, ils s\'entretenaient à voix basse -- ce qui ne pouvait paraître suspect, puisque personne n\'avait le plus léger motif de suspecter leur bonne foi.
+
+Pourtant, Kayette ne cessait de les observer, sans qu\'ils pussent s\'en apercevoir. Ces conversations secrètes, certains coups d\'oeil qu\'ils échangeaient excitaient de plus en plus sa méfiance. Eux, d\'ailleurs, étaient loin de se douter que la jeune Indienne eût quelque motif de les tenir en suspicion.
+
+Le soir venu, M. Serge choisit un lieu de halte sur le bord de la petite rivière. Le repas achevé, M. Cascabel, Kirschef et Clou-de-Girofle s\'imposèrent la tâche de veiller à tour de rôle par mesure de prudence. Ils eurent quelque mérite à ne point s\'endormir à leur poste, après les fatigues de cette journée et les insomnies de la nuit précédente.
+
+Le lendemain, reprise de la marche en remontant le défilé, qui s\'élevait et se rétrécissait à la fois. Mêmes difficultés que la veille, exigeant les mêmes efforts. Résultat : de deux à trois lieues seulement pendant vingt-quatre heures. Mais cela était prévu pour le passage de l\'Oural et compris dans les retards de l\'itinéraire.
+
+Certes, M. Serge et son ami Jean eurent plus d\'une fois la tentation de poursuivre quelque beau gibier à travers les gorges forestières qui s\'ouvraient sur le col. Entre les fourrés, on voyait passer des élans, des daims, des lièvres par bandes. Cornélia n\'aurait point fait fi de venaison fraîche. Mais, si le gibier abondait, les munitions, on le sait, avaient été totalement épuisées pendant l\'attaque des loups, et elles ne pourraient être renouvelées qu\'à la prochaine bourgade. Aussi, les fusils étaient-ils forcés de se taire, et Wagram, regardant son jeune maître, avait positivement l\'air de lui dire :
+
+« Ah çà !... on ne chasse donc plus ? »
+
+Et cependant, une circonstance se présenta, où l\'intervention des armes à feu eût été pleinement justifiée.
+
+Il était trois heures après-midi, la *Belle-Roulotte* suivait une berge rocailleuse, lorsqu\'un ours apparut de l\'autre côté du cours d\'eau. C\'était un animal de grande taille, qui fut signalé par les aboiements très significatifs des deux chiens. Dressé sur son arrière-train, il balançait son énorme tête et secouait sa fourrure brune, en regardant cheminer la petite caravane.
+
+Avait-il envie de l\'attaquer, cet ours ? Était-ce un regard de curiosité ou un regard de convoitise qu\'il jetait sur l\'attelage et ses conducteurs ?...
+
+Jean avait imposé silence à Wagram et à Marengo, jugeant inutile d\'exciter cette redoutable bête, puisqu\'on était désarmé. Pourquoi risquer de changer ses dispositions, pacifiques peut-être, en dispositions hostiles, alors qu\'il lui eût été facile de passer d\'une rive à l\'autre de la rivière ?
+
+Il arriva donc que l\'on se regarda tranquillement, comme des voyageurs qui se croisent sur une route, tandis que M. Cascabel se bornait à dire :
+
+« Quel dommage de ne pouvoir s\'emparer de ce superbe Martin de l\'Oural ! Quelle figure il ferait dans notre personnel ! »
+
+Mais il eût été difficile d\'offrir à cet ours un engagement dans la troupe. D\'ailleurs, préférant sans doute l\'existence forestière à l\'existence foraine, il se leva, remua une dernière fois sa grosse tête, et disparut en trottinant.
+
+Toutefois, comme un salut en vaut un autre, Sandre le gratifia d\'un coup de chapeau, auquel Jean eût volontiers substitué un coup de fusil.
+
+A six heures du soir, halte établie à peu près dans les mêmes conditions que la veille. Puis, le lendemain, départ dès cinq heures, et pénible journée de marche. Toujours beaucoup de fatigues, mais pas d\'accidents.
+
+Maintenant le plus rude était fait, puisque la *Belle-Roulotte* se trouvait au point culminant de la passe, au col même du défilé. Il ne restait plus qu\'à descendre, en suivant les pentes occidentales qui se dirigent vers l\'Europe.
+
+Ce soir-là -- 6 juillet ---, l\'attelage, très surmené, s\'arrêta près de l\'entrée d\'une gorge tortueuse, qu\'un bois épais flanquait sur la droite.
+
+La chaleur avait été étouffante pendant cette journée. Vers l\'est, de gros nuages, nettement coupés d\'une longue barre à leur partie inférieure, tranchaient avec les vapeurs livides de l\'horizon.
+
+« Nous allons avoir de l\'orage, dit Jean.
+
+--- C\'est fâcheux, répondit Ortik, car les orages sont quelquefois terribles dans l\'Oural.
+
+--- Eh bien, nous nous mettrons à l\'abri ! répondit M. Cascabel. J\'aime encore mieux l\'orage que les loups !
+
+--- Kayette, demanda Napoléone à la jeune Indienne, est-ce que tu as peur du tonnerre ?
+
+--- Non, ma chérie, répondit Kayette.
+
+--- Tu as raison, petite Kayette, ajouta Jean. Il ne faut point avoir peur.
+
+--- Tiens ! s\'écria Napoléone en haussant les épaules, quand on ne peut pas s\'en empêcher !...
+
+--- Oh !... la poltronne ! répliqua Sandre. Mais, nigaude, le tonnerre, ce n\'est qu\'un gros jeu de boules !
+
+--- Oui !... des boules de feu, qui vous tombent sur la tête, des fois ! » répliqua la fillette, en fermant les yeux devant un vif éclair.
+
+On se hâta d\'organiser le campement, afin que chacun pût se mettre à couvert avant l\'orage. Puis, après le soûper, il fut décidé que les hommes veilleraient tour à tour, comme les nuits précédentes.
+
+M. Serge allait se proposer, lorsque Ortik le prévint, en disant :
+
+« Voulez-vous que nous commencions la veillée, Kirschef et moi ?...
+
+--- Comme vous voudrez, répondit M. Serge. À minuit, je viendrai avec Jean vous relever.
+
+--- C\'est entendu, monsieur Serge », répondit Ortik.
+
+Cette proposition, si naturelle pourtant, parut suspecte à Kayette, et, sans trop s\'en rendre compte, elle eut le pressentiment qu\'elle cachait quelque machination.
+
+En ce moment, l\'orage commençait à se déchaîner avec une extrême violence. Les éclairs jetaient de grandes lueurs rapides à travers le dôme des arbres, et le tonnerre roulait dans l\'espace, en se multipliant aux échos de la montagne.
+
+Napoléone, pour mieux fermer les yeux et les oreilles, s\'était déjà blottie dans sa couchette. Chacun se hâta de regagner son lit, et, vers neuf heures, tout le monde était endormi à l\'intérieur de la *Belle-Roulotte*, en dépit des fracas de la foudre et du sifflement des rafales.
+
+Kayette seule ne dormait pas. Elle ne s\'était point déshabillée, et, bien que très fatiguée, n\'aurait pu trouver un instant de sommeil. Une profonde inquiétude l\'envahissait, lorsqu\'elle songeait que la sécurité de ses compagnons était confiée à la garde des deux matelots russes. Aussi, une heure après, voulant se rendre compte de ce qu\'ils faisaient, elle souleva le rideau de la petite fenêtre, au-dessus de sa couchette, et regarda à la lueur des éclairs.
+
+Ortik et Kirschef, qui causaient, venaient d\'interrompre leur conversation, et se dirigeaient vers l\'entrée de la gorge, où un homme se montrait en ce moment.
+
+Aussitôt Ortik fit signe à cet homme de ne pas s\'avancer davantage par crainte des chiens. Si Wagram et Marengo n\'avaient pas signalé son approche, c\'est que, par cette étouffante température d\'orage, ils avaient cherché un abri sous la *Belle-Roulotte*.
+
+Après avoir rejoint cet homme, Ortik et Kirschef échangèrent quelques paroles avec lui, et, dans l\'illumination d\'un éclair, Kayette vit qu\'ils le suivaient sous les arbres.
+
+Quel était cet homme, pourquoi les deux matelots s\'étaient-ils mis en rapport avec lui, c\'est ce qu\'il fallait à tout prix savoir.
+
+Kayette se glissa hors de sa couchette, et si doucement qu\'elle n\'éveilla personne. En passant près de Jean, elle l\'entendit prononcer son nom...Jean l\'avait-il vue ?...
+
+Non ! Jean rêvait... et rêvait d\'elle !
+
+Dès qu\'elle eut atteint la porte, Kayette l\'ouvrit avec précaution et la referma sans bruit.
+
+Dès qu\'elle fut dehors :
+
+« Allons », dit-elle.
+
+Elle n\'eut pas une hésitation, elle n\'éprouva pas une crainte. Et, pourtant, c\'était peut-être sa vie qu\'elle risquait, si elle était découverte !
+
+Kayette s\'engagea à travers le bois, dont les dessous s\'illuminaient comme d\'un reflet d\'incendie, lorsqu\'un large éclair déchirait les nuages. En rampant le long des fourrés, au milieu des hautes herbes, elle arriva derrière le tronc d\'un énorme mélèze. Un chuchotement de voix qu\'elle entendit à la distance d\'une vingtaine de pas, la fit s\'arrêter.
+
+Sept hommes étaient là. Ortik et Kirschef venaient de les rejoindre et ils étaient groupés sous les arbres.
+
+Et voici ce que Kayette surprit de la conversation de ces hommes suspects, qui s\'exprimaient en langue russe.
+
+« Ma foi, dit Ortik, j\'ai eu bien raison de prendre le défilé de la Petchora !... On est toujours sûr d\'y rencontrer d\'anciens camarades ! -- N\'est-ce pas, Rostof ? »
+
+Rostof était l\'homme qu\'Ortik et Kirschef avaient aperçu sur la lisière du bois.
+
+« Voilà deux jours, répondit Rostof, que nous suivons cette voiture, en ayant soin de ne point nous laisser voir ! Comme nous vous avions reconnus tous deux, Kirschef et toi, nous pensions qu\'il y aurait un bon coup à faire.
+
+--- Un... et peut-être deux ! répondit Ortik.
+
+--- Mais d\'où venez-vous ?... demanda Rostof.
+
+--- Du fond de l\'Amérique, où nous étions enrôlés dans la bande de Karnof.
+
+--- Et ces gens que vous accompagnez, qui sont-ils ?...
+
+--- Des saltimbanques français, une famille Cascabel, qui revient en Europe !... On vous contera plus tard nos aventures de voyage !... Allons au plus pressé !
+
+--- Ortik, demanda un des compagnons de Rostof, y a-t-il de l\'argent dans cette voiture ?
+
+--- Encore deux ou trois mille roubles.
+
+--- Et vous n\'avez pas encore pris congé de ces braves gens ! fit observer ironiquement Rostof.
+
+--- Non, car il s\'agit d\'une affaire bien autrement importante qu\'un méchant petit vol, et pour laquelle j\'avais besoin de quelque renfort !
+
+--- Et cette affaire ?...
+
+--- Écoutez-moi, les amis, reprit Ortik. Si Kirschef et moi, nous avons pu traverser la Sibérie sans courir de risques, et arriver sur la frontière russe, c\'est grâce à cette famille Cascabel. Mais, ce que nous avons fait dans ces conditions, un autre l\'a fait aussi, espérant qu\'on ne l\'irait pas chercher au milieu d\'une troupe de saltimbanques. C\'est un Russe, qui n\'a pas plus que nous le droit de rentrer en Russie, bien que ce soit pour d\'autres motifs, un condamné politique de grande naissance et de grande fortune. Or, son secret, qui n\'est connu que du sieur Cascabel et de sa femme, nous sommes parvenus à le découvrir...
+
+--- Et comment ?...
+
+--- Un soir, à Mouji, une conversation que nous avons entendue entre le Cascabel et le Russe !
+
+--- Et il s\'appelle ?...
+
+--- Monsieur Serge pour tout le monde. En réalité, c\'est le comte Narkine, et il y va de sa vie, s\'il est reconnu sur le territoire moscovite.
+
+--- Attendez donc ! dit Rostof. Ce comte Narkine, n\'est-ce pas le fils du prince Narkine, qui a été déporté en Sibérie, et dont l\'évasion a fait tant de bruit, il y a quelques années ?...
+
+--- Précisément, répondit Ortik. Eh bien ! Le comte Narkine a des millions, et je pense qu\'il n\'hésitera pas à nous en donner au moins un... sous la menace d\'être dénoncé !
+
+--- Bien imaginé, Ortik ! Mais pourquoi as-tu besoin de nous pour exécuter ce plan ? demanda Rostof.
+
+--- Parce qu\'il importe que Kirschef et moi n\'ayons pas paru dans cette première affaire, dans le cas où elle échouerait, afin de nous rattraper sur la seconde. Pour qu\'elle réussisse, pour que nous puissions nous emparer de l\'argent et de la voiture des Cascabel, il faut que nous restions les deux naufragés russes, qui leur doivent leur salut et leur rapatriement. Et alors, après nous être débarrassés de cette famille, nous pourrons courir les villes et les campagnes sans que la police s\'avise de venir nous chercher sous l\'habit de saltimbanques !
+
+--- Ortik, veux-tu que nous attaquions cette nuit même, que nous nous emparions du comte Narkine, que nous lui fassions savoir à quelles conditions on ne dénoncera point son retour en Russie ?....
+
+--- Patience... patience ! répondit Ortik. Puisque le comte Narkine a l\'intention de revenir à Perm\', afin d\'y revoir son père, mieux vaut le laisser arriver à Perm\'. Une fois là, il recevra un mot qui le priera -- affaire très pressante -- de se rendre à une entrevue, où vous aurez le plaisir de faire sa connaissance.
+
+--- Ainsi, rien à tenter maintenant ?...
+
+--- Rien, dit Ortik, mais faites en sorte de nous précéder, sans vous laisser voir, et de manière à être un peu avant nous au rendez-vous de Perm\'.
+
+--- C\'est convenu ! » répondit Rostof.
+
+Et ces malfaiteurs se séparèrent, n\'ayant aucun soupçon que leur conversation eût été surprise par Kayette.
+
+Ortik et Kirschef rentrèrent au campement, quelques instants après elle, persuadés que personne ne s\'était aperçu de leur absence.
+
+Maintenant Kayette connaissait le plan de ces misérables. En même temps, elle venait d\'apprendre que M. Serge était le comte Narkine, dont la vie était menacée comme celle de ses compagnons ! L\'incognito qui le couvrait allait être dévoilé, s\'il ne consentait à livrer une partie de sa fortune !
+
+Kayette, terrifiée de ce qu\'elle venait d\'entendre, fut quelques instants à se remettre. Résolue à déjouer les manoeuvres d\'Ortik, elle chercha comment elle pourrait y parvenir. Quelle nuit elle passa, en proie aux plus vives inquiétudes, se demandant si ce n\'était point un mauvais rêve qu\'elle avait fait !...
+
+Non ! C\'était bien une réalité.
+
+Et elle n\'en put douter, quand, le lendemain matin, Ortik dit à M. Cascabel :
+
+« Vous savez que Kirschef et moi, nous avions l\'intention de vous quitter de l\'autre côté de l\'Oural, afin de nous rendre à Riga. Mais nous avons réfléchi que mieux valait vous suivre jusqu\'à Perm\', où nous prierons le gouverneur de prendre des mesures pour notre rapatriement... Voulez-vous nous permettre de continuer le voyage avec vous ?....
+
+--- Avec plaisir, mes amis ! répondit M. Cascabel. Lorsqu\'on vient ensemble de si loin, il faut ne se séparer que le plus tard possible, et encore est-ce toujours trop tôt ! »
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b12 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12. .calibre171 .sigil_not_in_toc}
+
+Telle était l\'abominable machination qui se préparait contre le comte Narkine et la famille Cascabel ! Et cela au moment où, après tant de fatigues, tant de périls, ce long voyage allait si heureusement se terminer ! Deux ou trois jours encore, la chaîne de l\'Oural serait franchie et la *Belle-Roulotte* n\'aurait plus qu\'à descendre pendant une centaine de lieues vers le sud-ouest pour atteindre Perm\' !
+
+On le sait, César Cascabel avait formé le projet de séjourner quelque temps dans cette ville, afin que M. Serge eût toute facilité de se rendre au château de Walska, chaque nuit, et sans courir le risque d\'être reconnu. Puis, suivant les circonstances, il resterait au château paternel, ou il suivrait ses compagnons jusqu\'à Nijni... peut-être jusqu\'en France !
+
+Oui ! Mais dans le cas où M. Serge ne se déciderait pas à quitter Perm\', il faudrait donc se séparer de Kayette, qui y resterait avec lui !...
+
+Voilà ce que se répétait Jean, ce qui l\'accablait, ce qui lui déchirait le coeur. Et ce chagrin, si sincère, si profond, son père, sa mère, son frère et sa soeur le partageaient. Aucun d\'eux ne pouvait se faire à cette pensée de ne plus voir Kayette !
+
+Ce matin-là, Jean, plus désespéré que jamais, vint trouver la jeune Indienne, et, lorsqu\'il la vit pâle, défaite, les yeux rougis par l\'insomnie :
+
+« Qu\'as-tu, Kayette ? lui demanda-t-il.
+
+--- Je n\'ai rien, Jean ! répondit-elle.
+
+--- Si !... Tu es malade !... Tu n\'as pas dormi !... On dirait que tu as pleuré, petite Kayette !
+
+--- C\'est l\'orage d\'hier !... Je n\'ai pas pu fermer les yeux de toute la nuit !
+
+--- Ce voyage t\'aura bien fatiguée, n\'est-ce pas ?...
+
+--- Non, Jean !... Je suis forte !... Est-ce que je ne suis pas habituée à toutes les misères !... Cela passera !
+
+--- Qu\'as-tu, Kayette ?... Dis-le moi... je t\'en prie !...
+
+--- Je n\'ai rien, Jean ! »
+
+Et Jean n\'insista plus.
+
+En voyant ce pauvre garçon si malheureux, Kayette avait été sur le point de tout lui dire ! Cela l\'affligeait tant d\'avoir un secret pour lui ! Mais, le sachant si résolu, elle se disait qu\'il ne saurait pas se retenir, en présence de Kirschef et d\'Ortik. Il s\'emporterait peut-être !... Or, une imprudence pouvait coûter la vie au comte Narkine, et Kayette se tut.
+
+D\'ailleurs, après y avoir longuement réfléchi, elle résolut de faire connaître à M. Cascabel ce qu\'elle venait d\'apprendre. Mais il fallait qu\'elle pût se trouver seule avec lui, et, pendant la traversée de l\'Oural, ce serait difficile, car il importait que les deux Russes ne fussent point mis en défiance.
+
+Du reste, il n\'y avait pas de temps perdu, puisque ces misérables ne devaient rien tenter avant l\'arrivée de la famille à Perm\'. Leurs soupçons ne pouvaient être en éveil, tant que M. Cascabel et les siens continueraient d\'être pour eux ce qu\'ils avaient toujours été. Et même, lorsque M. Serge eut appris qu\'Ortik et Kirschef avaient manifesté l\'intention d\'aller jusqu\'à Perm\', il ne leur cacha point sa satisfaction.
+
+A six heures du matin -- 7 juillet -- la *Belle-Roulotte* se remit en route. Une heure après, on rencontrait les premières sources de la Petchora, dont ce défilé porte le nom. Devenu au-delà de la chaîne un des grands fleuves de la Russie septentrionale, ce cours d\'eau va se jeter dans la mer Arctique, après un parcours de treize cent cinquante kilomètres.
+
+A cette hauteur du col, la Petchora n\'était encore qu\'un torrent, lancé à travers un lit raviné et capricieux, au pied des massifs de sapins, de bouleaux et de mélèzes. Il suffirait d\'en suivre la rive gauche pour atteindre l\'issue de la passe. Tout en prenant certaines précautions sur les pentes trop raides, la descente devait s\'effectuer rapidement.
+
+Pendant cette journée, Kayette ne put trouver l\'occasion de parler en secret à M. Cascabel. D\'ailleurs, ainsi qu\'elle l\'observa, il n\'y avait plus de conversations à part entre les deux Russes, plus d\'absences suspectes aux heures de halte. Et pourquoi l\'eussent-ils fait, maintenant ? Leurs complices avaient certainement pris les devants, et c\'était au rendez-vous de Perm\'que se réunirait toute la bande.
+
+Le lendemain, bonne journée de marche. Le défilé, en s\'élargissant, se prêtait plus aisément au passage de la voiture. On entendait la Petchora, très encaissée entre ses rives, mugir sur son lit de roches. La passe, qui présentait déjà un aspect moins sauvage, était aussi moins déserte. On rencontrait des trafiquants, se rendant d\'Europe en Asie, le ballot sur l\'épaule, le bâton ferré à la main. Quelques bandes de mineurs, allant aux mines ou en revenant, échangeaient un bonjour avec les voyageurs. À l\'ouvert des gorges, apparaissaient quelques fermes, quelques villages, peu importants encore. Au sud, le Denejkin et le Kontchakov dominaient cette partie des monts Oural.
+
+Après une nuit de repos, la *Belle-Roulotte* arriva, vers midi, à l\'extrémité du défilé de la Petchora. La petite caravane avait enfin franchi la chaîne et mis le pied en Europe.
+
+Encore trois cent verstes -- une centaine de lieues -- et Perm\'compterait « une maison et une famille de plus dans ses murs ! » comme disait M. Cascabel.
+
+« Ouf !... ajouta-t-il. Une jolie trotte que nous avons faite là, mes amis !... Eh bien ! N\'avais-je pas raison ?... Tout chemin mène à Rome !... Au lieu d\'arriver en Russie par un côté, nous sommes arrivés par l\'autre, et qu\'importe, puisque la France n\'est pas loin ! »
+
+Et, pour peu qu\'on l\'eût pressé, l\'excellent homme aurait soutenu que l\'air du pays normand lui arrivait par-dessus toute l\'Europe, et qu\'il le reconnaissait à ses senteurs marines !
+
+Au sortir du défilé se trouvait un zavody, composé d\'une cinquantaine de maisons et de quelques centaines d\'habitants.
+
+Il fut décidé que l\'on s\'y reposerait jusqu\'au lendemain, afin d\'y renouveler certaines provisions -- entre autres, le thé et le sucre.
+
+En même temps, M. Serge et Jean purent se procurer du plomb, de la poudre, et renouveler les munitions, qui leur faisaient complètement défaut.
+
+Et lorsqu\'ils furent de retour :
+
+« En chasse, mon ami Jean ! s\'écria M. Serge. Nous ne reviendrons pas le carnier vide !... en chasse !...
+
+--- Si vous le voulez », répondit Jean, plutôt par devoir que par plaisir.
+
+Pauvre garçon ! La pensée d\'une séparation si prochaine lui faisait prendre toute chose en dégoût.
+
+« Nous accompagnez-vous, Ortik ? demanda M. Serge.
+
+--- Volontiers, répondit le matelot.
+
+--- Tâchez de me rapporter du bon gibier, recommanda Mme Cascabel, et je m\'engage à vous préparer un bon repas ! »
+
+Comme il n\'était que deux heures après midi, les chasseurs avaient le temps de fouiller les bois alentour. Et sous ces épais massifs, si le gibier ne venait pas de lui-même au-devant des coups de fusil, c\'est qu\'il y mettrait peu de complaisance.
+
+M. Serge, Jean et Ortik partirent donc, tandis que Kirschef et Clou s\'occupaient des soins à donner aux rennes. Ces animaux furent bientôt installés sous les arbres, dans un coin de prairie, où ils pouvaient brouter et ruminer à leur aise.
+
+Pendant ce temps, Cornélia revenait vers la *Belle-Roulotte*, où la besogne ne manquait pas, disant :
+
+« Allons, Napoléone !
+
+--- Me voici, mère.
+
+--- Et toi, Kayette ?...
+
+--- À l\'instant, madame Cascabel ! »
+
+Mais c\'était l\'occasion que cherchait Kayette de se trouver seule avec le chef de la famille.
+
+« Monsieur Cascabel ?... dit-elle, en allant vers lui.
+
+--- Ma petite caille ?
+
+--- Je voudrais vous parler.
+
+--- Me parler ?... -- Secrètement.
+
+--- Secrètement ? »
+
+Puis, mentalement, il se dit :
+
+« Que me veut-elle, ma petite Kayette ?... Serait-ce à propos de mon pauvre Jean ? »
+
+Tous deux se dirigèrent vers la gauche du zavody, laissant Cornélia occupée à la *Belle-Roulotte*.
+
+« Eh bien, ma chère fille, demanda M. Cascabel, que me veux-tu, et pourquoi ce mystère ?
+
+--- Monsieur Cascabel, répondit Kayette, voilà trois jours que je désire vous parler, sans que personne ne puisse nous entendre ni même s\'en apercevoir.
+
+--- C\'est donc bien grave, ce que tu as à me dire ?
+
+--- Monsieur Cascabel, je sais que M. Serge s\'appelle le comte Narkine !
+
+--- Hein !... Le comte Narkine !... s\'écria M. Cascabel. Tu sais ?... Et comment as-tu appris cela ?....
+
+--- Par des gens qui vous écoutaient pendant que vous causiez avec M. Serge... l\'autre soir... au village de Mouji !
+
+--- Est-il possible ?
+
+--- Et, comme à mon tour, je les ai entendus s\'entretenir du comte Narkine et de vous, sans qu\'ils s\'en doutent...
+
+--- Quels sont ces gens ?...
+
+--- Ortik et Kirschef !
+
+--- Quoi !... ils savent ?...
+
+--- Oui, monsieur Cascabel, et ils savent aussi que M. Serge est un condamné politique, qui rentre en Russie pour y revoir son père, le prince Narkine ! »
+
+M. Cascabel, stupéfait de ce que Kayette venait de lui apprendre, restait là, les bras ballants, la bouche ouverte. Puis, après avoir réfléchi :.
+
+--- Je regrette qu\'Ortik et Kirschef connaissent ce secret ! répondit-il. Mais, puisque le hasard le leur a livré, je suis sûr qu\'ils ne le trahiront pas !
+
+--- Ce n\'est point le hasard qui leur a fait connaître ce secret, dit Kayette, et ils le trahiront !
+
+--- Eux !... D\'honnêtes marins !...
+
+--- Monsieur Cascabel, reprit Kayette, le comte Narkine court les plus grands dangers !
+
+--- Hein ?
+
+--- Ortik et Kirschef sont deux malfaiteurs, qui appartenaient à la bande Karnof. Ce sont eux qui ont attaqué le comte Narkine sur la frontière alaskienne. Après s\'être embarqués à Port-Clarence pour passer en Sibérie, ils ont été jetés sur les îles Liakhov, où nous les avons rencontrés. Ce qu\'ils veulent du comte Narkine, dont la vie est en danger s\'il est reconnu sur le territoire russe, c\'est une partie de sa fortune, et, s\'il refuse, ils le dénonceront !... Alors M. Serge est perdu, et vous aussi peut-être !... »
+
+Tandis que M. Cascabel, accablé par cette révélation, gardait le silence, Kayette lui expliqua comment les deux matelots avaient toujours excité ses soupçons. Ce n\'était que trop vrai qu\'elle eût déjà entendu la voix de Kirschef... Maintenant, elle se souvenait... C\'était sur la frontière de l\'Alaska, au moment où les deux scélérats attaquaient le comte Narkine, sans savoir, d\'ailleurs, que ce fût un Russe réfugié en Amérique. Et alors, l\'une de ces dernières nuits, pendant qu\'ils étaient chargés de veiller sur le campement, Kayette les avait vus s\'éloigner avec un homme qui venait de les rejoindre, elle les avait suivis, elle avait assisté à un entretien entre eux et sept à huit de leurs anciens complices... Tous les projets d\'Ortik étaient dévoilés... Après avoir conduit la *Belle-Roulotte* à travers ce défilé de la Petchora, où il était certain de rencontrer nombre de bandits, il avait résolu de massacrer M. Serge et toute la famille Cascabel... Mais, depuis qu\'il avait appris que M. Serge était le comte Narkine, il s\'était dit qu\'il valait mieux le contraindre à verser une somme énorme sous peine d\'être dénoncé à la police moscovite... On attendrait qu\'il fût arrivé à Perm\'... Ni Ortik ni Kirschef ne paraîtraient dans cette affaire, afin de garder leur situation, pour le cas où elle échouerait... Ce seraient leurs compagnons qui préviendraient M. Serge par une lettre, lui demandant une entrevue, etc.
+
+M. Cascabel ne parvenait que très difficilement à contenir son indignation, pendant qu\'il écoutait le récit de Kayette. De pareils coquins, auxquels il avait rendu tant de services, qu\'il avait délivrés, nourris, rapatriés ?... Eh bien, c\'était là un joli cadeau, une belle restitution qu\'il faisait à l\'empire du Czar !... Si, encore, ils eussent été Anglais, il aurait moins de regret de les rendre à l\'Angleterre !... Ah ! Les misérables !... Ah ! Les gueux !
+
+« Et maintenant, monsieur Cascabel, demanda Kayette, qu\'allez-vous faire ?
+
+--- Ce que je vais faire ?... C\'est très simple, petite Kayette !... Je vais dénoncer Ortik et Kirschef au premier poste de Cosaques que nous rencontrerons, et ils seront pendus...
+
+--- Réfléchissez, monsieur Cascabel, reprit la jeune fille. Vous ne pouvez faire cela !
+
+--- Et pourquoi ?...
+
+--- Parce qu\'Ortik et Kirschef n\'hésiteront pas à dénoncer le comte Narkine, et, avec lui, ceux qui lui ont donné les moyens de rentrer en Russie !
+
+--- Au diable ce qui me concerne ! s\'écria M. Cascabel. S\'il n\'y avait que moi !... Mais, monsieur Serge, c\'est autre chose !... Tu as raison, Kayette, il faut réfléchir !... »
+
+Et, alors, très agité, très perplexe, il fit quelques pas, se frappant du poing la tête pour en dégager une idée... Puis, revenant vers la jeune fille :
+
+« Tu m\'as dit, demanda-t-il, que l\'intention d\'Ortik était d\'attendre notre arrivée à Perm\'pour faire agir ses complices ?...
+
+--- Oui, monsieur Cascabel, et il leur a bien recommandé de ne rien tenter auparavant ! Aussi, je pense qu\'il faut attendre et continuer le voyage...
+
+--- C\'est dur, cela, s\'écria M. Cascabel, c\'est bien dur !... Conserver ces coquins avec soi, les emmener à Perm\', ne cesser de leur serrer la main, et, de leur faire bon visage !... Ventre de mes ancêtres ! Il me prend des envies s\'aller les happer au collet, de les écraser... comme ça... comme ça ! »
+
+Et M. Cascabel, éloignant et rapprochant ses vigoureuses mains, comme s\'il eût tenu Ortik de l\'une et Kirschef de l\'autre, avait l\'air de jouer des cymbales dans un orchestre de foire.
+
+« Il faudra être maître de vous, monsieur Cascabel, reprit Kayette. Vous êtes censé ne rien savoir...
+
+--- Tu as raison, ma fille.
+
+--- Je vous demanderai seulement si vous jugerez à propos de prévenir M. Serge ?...
+
+--- Non... ma foi... non ! répondit M. Cascabel. Il me paraît plus sage de se taire !... Qu\'y pourrait-il, M. Serge ?... Rien !... Je suis là pour veiller sur lui... et je veillerai !... D\'ailleurs, je le connais !... Pour ne pas nous compromettre plus longtemps, il serait capable de tirer à gauche, quand nous irions à droite !... Non !... décidément, non !... Je me tairai !...
+
+--- Et ne direz-vous rien à Jean ?...
+
+--- À Jean... petite Kayette ?... Pas davantage !... Il est ardent !... Il ne pourrait se maîtriser en présence de ces deux abominables bandits !... Il n\'a pas le sang-froid de son père !... Il se laisserait aller !... Non !... pas plus à Jean qu\'à M. Serge !
+
+--- Et madame Cascabel, ne la mettrez-vous pas au courant ? dit encore Kayette.
+
+--- Madame Cascabel ?... Oh ! C\'est autre chose !... Une femme si supérieure, si capable de donner un bon conseil... et même un bon coup de main !... Je n\'ai jamais eu de secret pour elle, et puis elle sait comme moi que M. Serge est le comte Narkine... un fugitif...
+
+--- Alors, madame Cascabel ?....
+
+--- Oui ! Je lui parlerai !... À cette femme-là, on pourrait confier un secret d\'État !... Plutôt que de le trahir, elle se ferait couper la langue, et il n\'y a pas de plus gros sacrifice pour une femme !... Oui !... je lui parlerai !...
+
+--- Maintenant, retournons à la *Belle-Roulotte*, dit Kayette. Il ne faut pas que l\'on s\'aperçoive de notre absence...
+
+--- Tu as raison, petite Kayette, toujours raison !
+
+--- Surtout, monsieur Cascabel, contenez-vous devant Ortik et Kirschef !
+
+--- Ce sera difficile ; mais ne crains rien, on leur fera risette ! Ah ! Les brigands !... Nous être souillés à leur contact impur !... Voilà donc pourquoi ils m\'ont prévenu qu\'ils ne se rendraient pas directement à Riga !... Ils nous font l\'honneur de nous accompagner jusqu\'à Perm\' !... Les malandrins !... Les Papavoines !... Les Lacenaires !... Les Troppmans !... »
+
+Et M. Cascabel déroula toute la série des noms de scélérats fameux qui lui revinrent à la mémoire.
+
+« Monsieur Cascabel, fit observer Kayette, si c\'est ainsi que vous êtes maître de vous !...
+
+--- Non, petite Kayette, ne crains rien !... Me voilà soulagé !... Ça m\'étouffait !... Ça m\'étranglait !... Je serai calme !... Je le suis déjà !... Retournons à la *Belle-Roulotte* !... Canailles, va ! »
+
+Et tous deux reprirent le chemin du zavody. Ils ne parlaient plus... Ils étaient absorbés dans leurs réflexions !... Un si merveilleux voyage, sur le point de s\'achever, et qui était compromis par cet odieux complot !
+
+Au moment d\'arriver, M. Cascabel s\'arrêta.
+
+« Petite Kayette ? dit-il.
+
+--- Monsieur Cascabel.
+
+--- Décidément, je préfère ne rien dire à Cornélia !
+
+--- Et pourquoi ?...
+
+--- Que veux-tu !... J\'ai observé qu\'en général, une femme garde d\'autant mieux un secret qu\'elle ne le connaît pas !... Donc, que celui-ci reste entre nous !... »
+
+Un instant après, Kayette était rentrée à la *Belle-Roulotte*, et, en passant, M. Cascabel avait fait un geste amical à ce brave Kirschef, tandis qu\'il murmurait entre ses dents :
+
+« Quelle face de monstre !... »
+
+Et, deux heures plus tard, lorsque les chasseurs reparurent, Ortik reçut un chaleureux compliment de M. Cascabel, à propos du magnifique daim qu\'il rapportait sur ses épaules. De leur côté, M. Serge et Jean avaient abattu deux lièvres et quelques couples de perdrix. Cornélia put donc offrir à ses convives affamés un excellent dîner dont M. Cascabel prit largement sa part. En vérité, cet homme était « immense ! » Il ne laissait rien voir de ses préoccupations ! Il n\'avait pas même l\'air de se douter qu\'il eût deux assassins à sa table, deux scélérats dont les projets ultérieurs ne tendaient à rien moins qu\'à massacrer sa famille ! Oui ! Il fut de charmante humeur, d\'une gaieté communicative, et, lorsque Clou eut apporté une bonne bouteille, il but à la rentrée en Europe, à la rentrée en Russie, à la rentrée en France !
+
+Le lendemain -- 10 juillet -- l\'attelage prit direction sur Perm\'. Depuis le débouché de la passe, il était probable que le voyage s\'accomplirait sans difficultés et ne donnerait lieu à aucun incident. La *Belle-Roulotte* descendait la rive droite de la Vichera, qui longe la base de l\'Oural. Sur la route, des bourgs, des villages, des fermes, des habitants très hospitaliers, du gibier en abondance, et bon accueil partout. Le temps, quoique très chaud, était rafraîchi au souffle d\'une petite brise de nord-est. Les rennes marchaient gaillardement, en secouant leurs jolies têtes. D\'ailleurs, M. Serge leur avait adjoint deux chevaux de renfort, achetés au dernier zavody, et ils pouvaient enlever jusqu\'à dix lieues par jour.
+
+Vraiment, c\'était là un heureux début de la petite troupe sur le sol de la vieille Europe. Et M. Cascabel eût été de tous points satisfait, s\'il ne se fût dit qu\'il y ramenait deux coquins avec lui.
+
+« Et dire que leur bande nous suit comme des chacals suivent une caravane ! Allons, César Cascabel, il faudra encore jouer un bon tour à ces sacripants-là ! »
+
+C\'était bien fâcheux, en somme, que cette complication eût troublé un plan si habilement combiné ! Les papiers des Cascabel étaient en règle, M. Serge figurait dans son personnel, et les autorités russes le laissaient passer sans méfiance. Arrivé à Perm\', il aurait eu toute facilité pour se rendre au château de Walska. Après avoir embrassé le prince Narkine, après être demeuré quelques jours près de lui, il aurait pu traverser la Russie sous l\'habit de saltimbanque, et se réfugier en France, où toute sécurité lui était assurée. Et alors, plus de séparation !... Kayette et lui ne quitteraient pas la famille !... Et, plus tard, qui sait si ce pauvre Jean !... Ah ! Vraiment, c\'était peu que la potence pour les scélérats qui venaient compromettre un tel avenir ! Aussi, malgré lui, M. Cascabel se laissait-il aller à des emportements incompréhensibles pour ses compagnons.
+
+Et, lorsque Cornélia lui demandait :
+
+« César, qu\'as-tu donc ?
+
+--- Je n\'ai rien ! répondit-il.
+
+--- Alors pourquoi rages-tu ?...
+
+--- Je rage, Cornélia, parce que si je ne rageais pas, je deviendrais enragé ! »
+
+Et l\'excellente femme ne savait qu\'imaginer pour expliquer l\'attitude de son mari.
+
+Quatre jours s\'écoulèrent ; puis, à une soixantaine de lieues dans le sud-ouest de l\'Oural, la *Belle-Roulotte* atteignit la petite ville de Solikamsk.
+
+Sans doute, les complices d\'Ortik avaient dû l\'y devancer ; mais, par prudence, ni lui ni Kirschef ne cherchèrent à se mettre en rapport avec eux.
+
+Rostof et les autres étaient là, cependant, et ils allaient repartir dans la nuit, afin de gagner Perm\', située à une cinquantaine de lieues au sud. Et alors, rien ne pourrait empêcher l\'abominable projet de s\'accomplir.
+
+Le lendemain, dès l\'aube, on quitta Solikamsk, et, à la date du 17 juillet, la Koswa était franchie dans le bac de passage. En trois jours, s\'il ne se produisait aucun retard, la *Belle-Roulotte* serait arrivée à Perm\'. Là, devait commencer la série des représentations données par la famille Cascabel, avant de se rendre à la foire de Nijni. Du moins, tel était le programme de cette « tournée artistique ».
+
+Quant à M. Serge, il prendrait ses dispositions pour se rendre nuitamment au château de Walska.
+
+Que l\'on juge de son impatience, et aussi de l\'inquiétude bien légitime avec laquelle il parlait de ces choses avec son ami Cascabel ! Depuis qu\'il avait été sauvé, pendant les treize mois qu\'avait duré cet extraordinaire voyage de la frontière alaskienne à la frontière d\'Europe, il était sans nouvelles du prince Narkine. À l\'âge qu\'avait son père, ne pouvait-il tout craindre -- même de ne plus le retrouver ?...
+
+« Allons donc !... Allons donc, monsieur Serge ! répondait César Cascabel. Le prince Narkine se porte comme vous et moi, et même mieux !... Vous le savez, j\'aurais fait une excellente voyante !... Je lis dans le passé et dans l\'avenir !... Le prince Narkine vous attend... en belle et bonne santé... et vous le reverrez dans quelques jours !... »
+
+Et M. Cascabel n\'eût point hésité à jurer que les choses se passeraient de la sorte, n\'eût été la complication de ce gueux d\'Ortik.
+
+Et il se disait :
+
+« Je ne suis pas méchant, mais s\'il m\'était possible de lui scier le cou avec mes dents, je le ferais... et je croirais y mettre encore quelque modération ! »
+
+Cependant Kayette était de plus en plus alarmée à mesure que la *Belle-Roulotte* s\'approchait de Perm\'. À quel parti s\'arrêterait M. Cascabel ? Comment déjouerait-il les projets d\'Ortik, sans compromettre la sûreté de M. Serge ? Cela lui paraissait pour ainsi dire impossible. Aussi dissimulait-elle mal ses anxiétés, et Jean, qui n\'était pas dans le secret, souffrait horriblement à la voir si tourmentée, si abattue parfois !
+
+Dans la matinée du 20 juillet, la Kama fut franchie, et, vers cinq heures du soir, M. Serge et ses compagnons vinrent faire halte sur la grande place de Perm\', où des mesures furent prises pour une installation qui devait durer quelques jours.
+
+Une heure après, Ortik s\'était mis en communication avec ses complices, et Rostof écrivait une lettre qui devait parvenir à M. Serge -- lettre lui demandant une entrevue pour affaire pressante et lui assignant un rendez-vous dans un des cabarets de la ville. S\'il s\'abstenait de venir, on verrait à s\'assurer de sa personne, même en l\'arrêtant sur la route de Walska.
+
+A la nuit tombante, lorsque cette lettre fut apportée par Rostof, M. Serge était déjà parti pour le château de Walska. M. Cascabel, qui se trouvait seul à ce moment, crut devoir paraître très surpris de l\'arrivée de cette lettre. Mais il la prit en se chargeant de la remettre à son destinataire, et se garda d\'en rien dire à personne.
+
+L\'absence de M. Serge avait contrarié Ortik. Il aurait préféré que la tentative de chantage se fît avant l\'entrevue du prince et du comte Narkine. Mais il ne laissa rien paraître de sa contrariété et, pour mieux dissimuler, lorsqu\'il prit place à la table pour le souper, il se borna à dire :
+
+« Monsieur Serge n\'est donc pas là ?...
+
+--- Non, répondit M. Cascabel. Il fait une démarche à propos de nos représentations près des autorités de la ville !
+
+--- Et quand reviendra-t-il ?...
+
+--- Dans la soirée, sans doute ! »
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 13.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b13 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-13. .calibre171 .sigil_not_in_toc}
+
+Le gouvernement de Perm\'est achevalé sur l\'échine de l\'Oural, un pied en Asie, un pied en Europe. Il est délimité comme suit : le gouvernement de Vologda au nord-ouest, celui de Tobolsk à l\'est, celui de Viatka à l\'ouest, celui d\'Orenbourg au sud. Aussi, grâce à cette disposition, sa population est-elle curieusement mélangée de types asiatiques et européens.
+
+Perm, la capitale, est une ville de six mille habitants, située sur la Kama, et qui fait un important commerce de métaux. Ce n\'était qu\'un simple bourg, avant le XVIII siècle. Mais, après avoir été enrichi par la découverte d\'une mine de cuivre en 1723, le bourg fut déclaré ville en 1781.
+
+Justifie-t-elle au moins cette dernière qualification ? À peine, en vérité ! Point de monuments, des rues étroites et sales pour la plupart, des maisons peu confortables, des hôtels, dont il ne paraît pas que les voyageurs aient jamais imaginé de faire l\'éloge.
+
+En somme, la question d\'édilité importait peu à la famille Cascabel. Est-ce que sa maison roulante ne lui paraissait pas préférable à toute autre ? Elle ne l\'eût changée ni pour l\'hôtel Saint-Nicolas de New York, ni pour le Grand-Hôtel de Paris.
+
+« Pensez donc ! répétait-il. La *Belle-Roulotte* est venue de Sacramento à Perm\' !... Rien que cela, s\'il vous plait !... Montrez-moi donc un de vos hôtels de Paris, de Londres, de Vienne ou de New York, qui en ait jamais fait autant ! »
+
+Que voulez-vous répondre à des arguments de ce genre ?
+
+Donc, ce jour-là, Perm\'s\'était accrue d\'une maison, au beau milieu de sa grande place, avec l\'autorisation du gouverneur civil -- personnage dont les fonctions équivalent à celles de préfet d\'un département de la France. Ce personnage n\'avait rien trouvé de suspect dans les papiers concernant la troupe Cascabel.
+
+Dès l\'arrivée de la *Belle-Roulotte*, la curiosité s\'en était mêlée. Des saltimbanques français, qui venaient du fond de l\'Amérique, avec une voiture traînée par un attelage de rennes !... Aussi l\'habile directeur comptait-il tirer grand profit de l\'empressement du public.
+
+Précisément la foire de Perm\'battait son plein et devait durer quelques jours encore. Il y avait donc là quelques fructueuses recettes assurées. Mais il ne fallait pas perdre de temps, puisqu\'il s\'agissait de gagner -- à Perm\' d\'abord, à Nijni ensuite ---, l\'argent nécessaire au retour en France. Plus tard, on verrait. À la grâce de Dieu, qui, d\'ailleurs, s\'était toujours montré extrêmement gracieux pour la famille Cascabel.
+
+Il s\'ensuit donc que tout le monde fut sur pied de grand matin. Jean, Sandre, Clou et les deux matelots russes rivalisèrent de bonne volonté en s\'occupant des préparatifs de la représentation. Quant à M. Serge, il n\'était pas revenu comme il l\'avait promis -- ce qui contrariait vivement Ortik et ne laissait pas d\'inquiéter M. Cascabel.
+
+Dès la première heure, cette représentation avait été annoncée par l\'affiche que voici -- affiche écrite en russe et en gros caractères sous la dictée de M. Serge.
+
+FAMILLE CASCABEL TROUPE FRANÇAISE, RETOUR D\'AMÉRIQUE.
+
+GYMNASTIQUE, JONGLERIES, ÉQUILIBRISME, EXERCICES DE FORCE
+
+ET D\'ADRESSE, DANSES, GRÂCES ET SÉDUCTIONS
+
+M. CASCABEL, premier hercule en tout genre.
+
+Mme CASCABEL, première lutteuse en tout genre, grand prix au Concours international de Chicago.
+
+M. JEAN, équilibriste en tout genre.
+
+M. SANDRE, clown en tout genre.
+
+Mlle NAPOLÉONE, danseuse en tout genre.
+
+M. CLOU-DE-GIROFLE, paillasse en tout genre.
+
+JAKO, perroquet en tout genre.
+
+JOHN BULL, singe en tout genre.
+
+WAGRAM et MARENGO, chiens en tout genre.
+
+GRANDE ATTRACTION
+
+LES BRIGANDS DE LA FORÊT NOIRE
+
+pantomime avec fiançailles, mariage, surprises et dénouement.
+
+Immense succès consacré par trois mille cent soixante-dix-sept représentations en France et à l\'Étranger.
+
+NOTA : Il va sans dire que le langage parlé étant proscrit de cette pantomime et remplacé par des gestes en tout genre, ce chef-d\'oeuvre de l\'art dramatique peut être compris même des personnes atteintes d\'une regrettable surdité.
+
+Pour les facilités du public, on pourra entrer gratuitement. Les places ne seront perçues que lorsqu\'elles auront été occupées.
+
+Prix : 40 kopeks sans distinction.
+
+Habituellement, M. Cascabel donnait ses représentations en plein air, après avoir tendu une toile circulaire en avant de la *Belle-Roulotte*. Mais, il se trouvait que la grande Place de Perm\'possédait un cirque en planches, qui servait aux exercices des troupes équestres. Bien que cette bâtisse fût assez délabrée, laissant passer le vent et la pluie, elle était solide encore, et pouvait contenir deux cents à deux cent cinquante spectateurs.
+
+En somme, tel qu\'il était, ce cirque convenait mieux que la toile de M. Cascabel. Celui-ci demanda au maire l\'autorisation de l\'utiliser pendant son séjour dans la ville, et cette autorisation lui fut gracieusement accordée.
+
+Décidément, c\'étaient de braves gens, ces Russes -- bien qu\'il y eût parmi eux des Ortiks et autres bandits de cette espèce ! Et en quel pays ne s\'en trouve-t-il pas ! Quant au cirque de Perm\', il ne serait point déshonoré par les représentations qu\'allait y donner la troupe Cascabel. Son directeur ne regrettait qu\'une chose : c\'était que Sa Majesté le czar Alexandre II ne fût pas de passage en cette cité. Mais, comme il était à Saint-Pétersbourg, il eût été difficile qu\'il assistât à cette soirée d\'inauguration.
+
+Toutefois, une préoccupation de César Cascabel, c\'était que son personnel ne fût quelque peu rouillé en matière de culbutes, danses, tours de force et autres jeux. Les exercices, suspendus depuis l\'entrée de la *Belle-Roulotte* dans le défilé de l\'Oural, n\'avaient pas été repris pendant le reste du voyage. Bah ! De vrais artistes ne doivent-ils pas être toujours prêts à briller dans leur art ?
+
+Quant à leur pièce, il était inutile de la répéter. On l\'avait jouée si souvent -- et sans souffleur -- que cela n\'était pas pour préoccuper les chefs d\'emploi.
+
+Cependant Ortik avait quelque peine à ne point laisser voir l\'inquiétude que lui causait l\'absence prolongée de M. Serge. L\'entrevue de la veille n\'ayant pas eu lieu, il avait dû prévenir ses complices que l\'affaire était remise de vingt-quatre heures. Aussi se demandait-il pourquoi M. Serge n\'avait point reparu à Perm\', bien que M. Cascabel eût annoncé son retour dans la soirée ?... Était-ce parce qu\'il avait dû rester au château de Walska ? C\'était probable, car il n\'y avait pas de doute qu\'il y fut allé. Ortik aurait donc dû montrer moins d\'impatience. Mais il n\'était pas maître de lui, et il ne put se retenir de demander à M. Cascabel s\'il avait des nouvelles de M. Serge.
+
+« Aucune, répondit M. Cascabel.
+
+--- Je croyais, reprit Ortik, que vous attendiez M. Serge hier soir ?...
+
+--- En effet, répondit M. Cascabel, et il faut qu\'il ait eu quelque empêchement !... Ce serait bien fâcheux, s\'il ne pouvait assister à notre représentation !... Ce sera tout simplement merveilleux !... Vous verrez, Ortik !... »
+
+Si M. Cascabel parlait comme un homme qui n\'éprouve aucune inquiétude, au fond, il était inquiet et très sérieusement.
+
+La veille, après lui avoir promis d\'être de retour avant le jour, M. Serge était parti pour le château de Walska. Six verstes pour aller, six verstes pour revenir, ce n\'était rien ! Or, puisqu\'il n\'était pas revenu, trois hypothèses se présentaient : ou M. Serge avait été arrêté avant d\'arriver à Walska, ou il y était arrivé, mais l\'état du prince Narkine l\'avait retenu au château, ou, après être reparti dans la nuit, il avait été arrêté en route. Quant à supposer que les complices d\'Ortik fussent parvenus à l\'attirer dans quelque piège, ce n\'était pas admissible, et, à cette observation qui lui fut faite par Kayette, M. Cascabel répondit :
+
+« Non ! Ce coquin d\'Ortik ne serait pas tourmenté comme il semble l\'être !... Il ne m\'aurait pas demandé des nouvelles de M. Serge, si ses compagnons l\'avaient tenu entre leurs mains !... Ah ! Le gueux !... Tant que je ne l\'aurai pas vu grimacerau bout d\'une potence avec son ami Kirschef, il manquera quelque chose à mon bonheur en ce monde ! »
+
+M. Cascabel dissimulait donc assez mal ses anxiétés. Aussi, Cornélia, bien qu\'elle fût non moins alarmée que son mari, lui disait-elle :
+
+« Voyons, César, un peu de calme !... Tu t\'agites trop !... Il faut te faire une raison !
+
+--- On ne se fait pas une raison, Cornélia, on se sert de celle qu\'on possède, et on raisonne comme on peut ! Il est certain que M. Serge devrait être revenu à l\'heure qu\'il est, et que nous en sommes encore à l\'attendre !...
+
+--- Soit, César, mais personne ne peut soupçonner qu\'il est le comte Narkine.
+
+--- Non... personne, en vérité, personne... à moins que...
+
+--- Qu\'est-ce que cela signifie ?... À moins que ?... Voilà maintenant que tu te mets à parler comme Clou-de-Girofle !... Qu\'entends-tu par là ?... Il n\'y a que toi et moi à savoir le secret de M. Serge... Crois-tu donc que j\'aie pu le trahir ?...
+
+--- Toi, Cornélia, jamais !... Ni moi !...
+
+--- Eh bien, alors...
+
+--- Eh bien, il y a à Perm des gens qui ont été autrefois en rapport avec le comte Narkine et ils ont pu le reconnaître !... Cela doit paraître singulier qu\'il y ait un Russe dans notre troupe !... Enfin, Cornélia, il est possible que j\'exagère, mais l\'affection que j\'ai pour M. Serge ne me permet pas de rester tranquille !... Il faut que j\'aille, que je vienne...
+
+--- César, prend garde, à ton tour, d\'exciter les soupçons ! fit très judicieusement observer Cornélia. Et, surtout, ne va pas te compromettre en interrogeant mal à propos les gens et faire des demandes indiscrètes ! Je trouve comme toi que ce retard est fâcheux, et j\'aimerais mieux que M. Serge fût ici ! Pourtant, je ne mets pas les choses au pis, et je pense qu\'il aura été tout bonnement retenu au château de Walska, près du prince Narkine. À présent qu\'il fait plein jour, il n\'ose pas repartir, je le comprends, mais il reviendra dans la nuit prochaine. Ainsi, César, pas de bêtises ! Du sang-froid, et songe que tu vas jouer ce rôle de Fracassar, qui est l\'un des plus grands succès de ta carrière ! »
+
+On ne pouvait mieux raisonner que cette femme de tant de bon sens, et on ne s\'explique guère pourquoi son mari se refusait à lui faire connaître la vérité. Après tout, peut-être n\'avait-il pas tort. Qui sait si l\'impétueuse Cornélia eût pu se contenir en présence d\'Ortik et de Kirschef, lorsqu\'elle aurait su ce qu\'ils étaient et ce qu\'ils méditaient de faire !
+
+M. Cascabel se tut donc, et quitta la *Belle-Roulotte*, afin de surveiller les détails de son installation au cirque. De son côté, Cornélia, aidée de Kayette et de Napoléone, avait à passer en revue les costumes, les perruques, les accessoires, qui devaient servir à la représentation.
+
+Pendant ce temps, les deux Russes s\'occupaient, à les en croire, de régulariser leur situation comme matelots rapatriés -- ce qui nécessitait nombre de courses, pas et démarches.
+
+Tandis que M. Cascabel travaillait avec Clou, nettoyant les banquettes poussiéreuses du cirque, balayant la piste qui devait servir de théâtre, Jean et Sandre transportaient les divers objets et ustensiles indispensables pour les exercices de force et d\'adresse. Puis, cela fait, ils auraient à s\'occuper de ce que l\'imprésario appelait « ses décors entièrement neufs » et dans lesquels « ses artistes incomparables jouaient ce beau drame pantomimique des *Brigands de la Forêt Noire* ».
+
+Jean était plus triste que jamais. Il ignorait que M. Serge fût le comte Narkine, un condamné politique, qui ne pouvait rester dans son pays. Pour lui, M. Serge était un riche propriétaire foncier, rentré dans ses domaines, et qui revenait s\'y fixer avec sa fille adoptive. Combien sa douleur eût été adoucie, s\'il avait su que le séjour de l\'empire russe était interdit à M. Serge et qu\'il repartirait après avoir revu le prince Narkine, son père ; s\'il avait pu espérer que M. Serge chercherait refuge en France, et que Kayette y viendrait avec lui ! Dans ce cas, la séparation eût été reculée de quelques semaines, et c\'étaient quelques semaines à vivre encore l\'un près de l\'autre !
+
+« Oui ! se répétait Jean, M. Serge va rester à Perm\'... et Kayette y restera avec lui !... Dans quelques jours, nous serons repartis... et je ne la reverrai plus !... Chère petite Kayette, tu seras heureuse dans la maison de M. Serge... et pourtant !... »
+
+Cependant, vers neuf heures, M. Serge n\'avait pas encore reparu à la *Belle-Roulotte*. Il est vrai, ainsi que l\'avait fait observer Cornélia, il ne fallait plus l\'attendre que dans la nuit, ou tout au moins à une heure assez avancée pour qu\'il ne risquât pas d\'être reconnu sur la route.
+
+« Alors, se disait M. Cascabel, il ne pourra même pas assister à notre représentation !... Eh bien, tant mieux !... Je ne le regretterai point !... Elle sera jolie, cette représentation... pour les débuts de la famille Cascabel sur le théâtre de Perm\' !... Avec tous ces tracas, je perdrai mes moyens !... Je serai détestable dans ce rôle de Fracassar, moi qui emplissais si bien la peau du bonhomme !... Et Cornélia, qui, quoi qu\'elle en dise, sera dans ses petits souliers !... Et Jean, qui ne pense qu\'à sa petite Kayette !... Et Sandre et Napoléone, qui ont le coeur gros, en songeant qu\'ils vont se séparer d\'elle !... Ah ! Mes enfants, quelle veste nous allons endosser ce soir !... Je ne peux guère compter que sur Clou pour soutenir l\'honneur de la troupe ! »
+
+Et, comme M. Cascabel ne pouvait rester en place, il eut l\'idée d\'aller aux nouvelles. Dans une ville telle que Perm\', on sait rapidement tout ce qui se passe. Les Narkine étaient très connus dans le pays, très aimés aussi... Dans le cas où M. Serge serait tombé entre les mains de la police, le bruit de son arrestation se serait immédiatement répandu... Cette affaire ferait le sujet de tous les entretriens... Et même, le prisonnier serait déjà enfermé à la citadelle de Perm\'pour y être jugé !
+
+C\'est pourquoi M. Cascabel laissa Clou-de-Girofle s\'occuper de mettre le cirque en état. Puis il s\'en alla errer à travers la ville, le long de la Kama, où les bateliers vaquaient à leurs travaux habituels, dans le haut et le bas quartier, où la population ne paraissait point distraite de ses labeurs quotidiens. Il se mêla aux conversations... il écouta sans en avoir l\'air... Rien !... Rien qui eût rapport au comte Narkine !
+
+Cela ne suffisait point à le rassurer, il revint vers la route qui conduit de Perm au village de Walska, par laquelle la police aurait ramené M. Serge si elle se fût emparée de sa personne. Et, toutes les fois qu\'il apercevait au loin quelque groupe de passants, il se figurait que c\'était le prisonnier, escorté d\'un peloton de Cosaques !
+
+Dans le désarroi de ses idées, M. Cascabel ne songeait même plus à sa femme, à ses enfants, à lui-même, si compromis pour le cas où le comte Narkine aurait été arrêté ! En effet, il ne serait que trop facile aux autorités d\'apprendre dans quelles conditions M. Serge avait pu rentrer sur les territoires russes, et quels étaient les braves gens qui avaient favorisé son retour. Et cela pourrait coûter chez à la famille Cascabel !
+
+Bref, de ces diverses allées et venues de M. Cascabel, de ses stations prolongées sur la route de Walska, il résultat qu\'il ne se trouvait point au cirque lorsqu\'un homme vint demander à le voir, vers dix heures du matin.
+
+Clou-de-Girofle était seul à ce moment, se démenant au milieu d\'un nuage de poussière, qui flottait au-dessus de la piste. Il en sortit en apercevant cet homme qui était tout simplement un moujik. Clou ne connaissant pas plus la langue dudit moujik que ledit moujik ne connaissait la langue de Clou, il leur fut impossible de s\'entendre. Aussi Clou ne comprit-il pas un traître mot, lorsque son interlocuteur lui dit qu\'il désirait parler à son maître, et qu\'il était venu le trouver au cirque avant d\'aller à la *Belle-Roulotte*. Et alors le moujik fit ce qu\'il aurait dû faire tout d\'abord : il tendit une lettre à l\'adresse de M. Cascabel.
+
+Clou comprit, cette fois. Une lettre portant le nom fameux des Cascabel ne pouvait être destinée qu\'au chef de la famille... à moins que ce ne fût à Mme Cornélia, ou à M. Jean, ou à M. Sandre, ou à Mlle Napoléone.
+
+Aussi Clou prit-il la lettre, en faisant comprendre par un geste qu\'il se chargeait de la remettre à son patron. Puis, il congédia le moujik avec nombre de salutations, mais sans avoir pu savoir d\'où il venait et qui l\'avait envoyé.
+
+Un quart d\'heure après, au moment où Clou se disposait à retourner à la *Belle-Roulotte*, M. Cascabel parut à l\'entrée de la piste, plus énervé, plus anxieux que jamais.
+
+« Monsieur patron ? dit Clou.
+
+--- Eh bien ?...
+
+--- J\'ai reçu une lettre.
+
+--- Une lettre ?...
+
+--- Oui, une lettre qui vient d\'être apportée...
+
+--- Pour moi ?
+
+--- Pour vous.
+
+--- Par qui ?...
+
+--- Par un moujik.
+
+--- Un moujik ?...
+
+--- À moins que ce ne soit pas un moujik ! »
+
+M. Cascabel saisit la lettre que lui tendait Clou, et, après avoir reconnu l\'écriture de M. Serge sur l\'adresse, il devint si pâle que son fidèle serviteur s\'écria :
+
+« Monsieur patron, qu\'avez-vous ?...
+
+--- Rien ! »
+
+Que disait M. Serge dans cette lettre ?... Pourquoi écrivait-il à M. Cascabel ?... Évidemment, pour l\'informer des motifs qui l\'avaient empêché de revenir à Perm\'pendant la nuit !... Était-il donc en état d\'arrestation ?...
+
+M. Cascabel ouvrit la lettre, se frotta l\'oeil droit, puis l\'oeil gauche, et la lut d\'un trait.
+
+Quel cri lui échappa alors -- un de ces cris qui sortent des larynx à demi-étranglés ! La figure convulsée, les yeux blancs, la face paralysée par une contraction nerveuse, il essayait de parler et ne pouvait articuler un son !...
+
+Clou dut croire que son patron allait périr par suffocation, et il commençait à lui défaire sa cravate...M. Cascabel se releva d\'un bond, et sa chaise, repoussée d\'un pied vigoureux, alla retomber sur les dernières banquettes du cirque. Il tournait et retournait, il se démenait, et prestement il envoya le coup de pied traditionnel à Clou-de-Girofle, qui, n\'étant pas à la réplique cette fois, le reçut en plein à la place non moins traditionnelle... Son maître était-il donc devenu fou ?...
+
+« Eh ! Monsieur patron, s\'écria Clou, nous ne sommes pas à la parade !
+
+--- Si... nous y sommes, à la parade ! s\'écria M. Cascabel. Jamais nous n\'y avons tant été, à la parade, et à la grande parade des grrrands dimanches ! »
+
+Clou n\'avait qu\'à s\'incliner devant cette réponse -- ce qu\'il fit en se frottant les reins, car le coup de pied avait véritablement été un coup de pied des grrrands jours !
+
+Mais alors M. Cascabel, ayant repris son sang-froid, vint à lui et d\'un ton mystérieux :
+
+« Clou, tu es un garçon discret ?... dit-il.
+
+--- Certes, monsieur patron !... Je n\'ai jamais rien dit des secrets qui m\'étaient confiés... à moins que...
+
+--- Chut !... Assez !... Tu vois cette lettre ?
+
+--- La lettre du moujik ?...
+
+--- Elle-même !... S\'il arrive de dire à qui que ce soit que je l\'ai reçue...
+
+--- Bon !
+
+--- À Jean, à Sandre ou à Napoléone...
+
+--- Bien !
+
+--- Et surtout à Cornélia, mon épouse, je te jure que je te ferai empailler...
+
+--- Vivant ?...
+
+--- Vivant... pour que tu le sentes, imbécile ! »
+
+Et, devant cette menace, voilà que Clou se met à trembler de tous ses membres.
+
+Puis, M. Cascabel, le prenant par l\'épaule, lui murmura à l\'oreille d\'un ton de fatuité superbe et transcendante : « C\'est qu\'elle est jalouse, Cornélia !... Et vois-tu, Clou, on est bel homme ou on ne l\'est pas ! Une femme charmante... une princesse russe !... Tu comprends !... Elle m\'écrit !... Un rendez-vous !... Voilà qui ne t\'arrivera jamais... avec un nez comme le tien !
+
+--- Jamais, répondit Clou, à moins que... ».
+
+Mais, ce que cette restriction pouvait signifier dans la pensée de Clou, on n\'a jamais pu le savoir !
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 14.]{.pcalibre lang="X-NONE"}]{#_Toc342942196b14 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-14. .calibre171 .sigil_not_in_toc}
+
+La pièce qui portait ce titre aussi neuf qu\'alléchant : *Les Brigands de la Forêt Noire*, était une oeuvre remarquable. Faite selon les anciens préceptes de l\'art dramatique, elle reposait sur l\'unité de temps, d\'action et de lieu. Son introduction posait nettement les personnages, son noeud nouait vigoureusement l\'action, son dénouement la dénouait avec habileté, et, quoique prévu, ce dénouement n\'en produisait pas moins un effet très considérable. Il n\'y manquait même pas la « scène à faire » réclamée par le plus tenace des critiques modernes, et elle était bien faite.
+
+D\'ailleurs, il n\'aurait pas fallu demander à César Cascabel une de ces pièces au goût du jour, où tous les détails de la vie privée sont transportés sur le théâtre -- une de ces pièces dans lesquelles, si le crime ne triomphe pas, du moins la vertu n\'est pas suffisamment récompensée. Non ! À la dernière scène des *Brigands de la Forêt Noire*, l\'innocence était reconnue selon la formule, et la méchanceté était punie sous la forme la plus convenable. Les gendarmes apparaissaient au moment où tout semblait perdu, et lorsqu\'ils mettaient la main au collet du traître, la salle croulait sous les applaudissements.
+
+A n\'en pas douter, cette pièce eût été écrite d\'un style simple, ferme, personnel, respectueux de la grammaire, dégagé de ces néologismes prétentieux, de ces expressions documentaires, de ces mots réalistes de la nouvelle école -- si elle eût été écrite. Mais elle ne l\'était pas. Aussi cette pantomime pouvait-elle se jouer sur tous les théâtres comme sur tous les tréteaux des deux mondes. Immense avantage de ces pièces simplement mimées, sans parler des fautes grammaticales et autres, qui sont facilement évitées dans ce genre de littérature.
+
+On a dit plus haut : Il n\'aurait pas fallu demander à César Cascabel, etc. C\'est que César Cascabel, en effet, était l\'auteur de ce chef-d\'oeuvre forain. Chef-d\'oeuvre est le mot, puisque, tant dans l\'Ancien que dans le Nouveau Continent, il en était à sa trois mille cent soixante-dix-septième représentation. On ne connaît que *l\'Ours et la Sentinelle* du cirque Franconi -- le plus grand succès connu dans les annales dramatiques ---, qui ait dépassé ce chiffre. Mais, très certainement, la valeur littéraire de cette oeuvre olympique est inférieure à celle des *Brigands de la Forêt Noire*.
+
+D\'ailleurs, cette pièce avait été faite pour mettre en relief les talents spéciaux de la troupe Cascabel, talents si réels, si variés, que jamais un tel ensemble d\'artistes n\'avait été présenté au public par un directeur de troupe sédentaire ou ambulante.
+
+Les maîtres du drame contemporain ont très justement formulé ce principe : « Au théâtre, il faut toujours faire rire ou pleurer, ou l\'on bâille. » Eh bien ! Si tout l\'art du dramaturge est là, *les Brigands de la Forêt Noire* méritent cent fois cette qualification de chef-d\'oeuvre. On y rit aux larmes, et on y pleure -- aux larmes aussi. Il n\'y a pas une scène, ni une partie de scène, où le spectateur le plus indifférent éprouve le besoin d\'ouvrir la bouche pour bâiller. Et même, dans le cas où il serais pris d\'un bâillement, provenant de quelque digestion pénible, son bâillement se terminerait par un éclat de sanglots ou de rire.
+
+Comme toute pièce bien charpentée, celle-ci était claire, rapide, simplement conçue, simplement conduite. Les faits s\'y succédaient logiquement. C\'est au point qu\'on pouvait se demander « si ce n\'était pas arrivé ! »
+
+Qu\'on en juge par ce compte-rendu, que la plupart des critiques pourraient prendre pour modèle.
+
+C\'était l\'histoire très dramatisée de deux amoureux qui s\'adoraient. Pour la commodité du récit, sachez que Napoléone jouait la jeune fille et que Sandre jouait le jeune homme. Malheureusement, Sandre est pauvre, et la mère de Napoléone, la hautaine Cornélia, ne veut pas entendre parler de ce mariage.
+
+Ce qu\'il y a de tout à fait neuf, c\'est que ces amours sont contrariées par la présence d\'un grand dadais, Clou-de-Girofle, aussi riche d\'argent que pauvre d\'esprit, lequel est amoureux de Napoléone et veut l\'épouser. Et -- là peut-être éclate le génie inventif de l\'auteur -- la mère, qui tient aux écus, ne demande pas mieux que de lui donner sa fille.
+
+Il serait vraiment difficile d\'engager plus adroitement une action et de la rendre plus intéressante. Il va de soi que cet imbécile de Clou ne peut pas ouvrir la bouche sans dire une sottise. Il est ridicule de sa personne, mal dégauchi, avec un nez long de cela, qu\'il a l\'habitude de fourrer partout. Et, lorsqu\'il arrive avec ses cadeaux de noces, le singe John Bull, grimaçant à plein museau, et Jako, le perroquet -- le seul de tous les artistes qui parle dans la pièce ---, c\'est vraiment à se tordre.
+
+Cependant ces rires se taisent bientôt devant la profonde douleur des deux jeunes gens, qui ne peuvent se voir qu\'en secret, ce qu\'on appelle « à la dérobée ».
+
+Et précisément, on est arrivé au jour de ce mariage que Cornélia a imposé à sa fille. Napoléone a revêtu ses plus beaux atours, mais toute pleurante, toute désespérée ! Et c\'est vraiment odieux, de voir que cette jolie poulette est promise à cet affreux coq de village !
+
+Tout cela se joue sur la place de l\'église. La cloche sonne, les portes sont ouvertes, il n\'y a qu\'à entrer. Sandre est agenouillé sur les marches du portique !... Il faudra qu\'on lui passe sur le corps !... Rien n\'est plus poignant.
+
+Soudain -- et dans tout le répertoire dramatique de la Comédie-Française ou de l\'Ambigu, peut-être n\'y a-t-il jamais eu pareil coup de théâtre -- soudain un jeune militaire apparaît en faisant trembler la toile de fond. C\'est Jean, le propre frère de la malheureuse fiancée. Il revient de la guerre, où il a vaincu les ennemis -- ennemis qui peuvent varier suivant les pays où l\'on joue la pièce, des Anglais en Amérique, des Français en Allemagne, des Russes en Turquie, etc.
+
+Le brave et sympathique Jean est arrivé à propos. Il saura faire prévaloir sa volonté. Il a appris que Sandre aime Napoléone et que Napoléone aime Sandre. Aussi, après avoir repoussé Clou d\'un bras vigoureux, il le provoque, et ce niais est pris d\'une si belle peur qu\'il s\'empresse de renoncer au mariage.
+
+On voit combien ce drame est corsé, et comment les situations s\'y enchaînent !... Et ce n\'est pas fini.
+
+En effet, tandis que l\'on cherche Cornélia, à qui Clou veut rendre sa parole, un incident se produit... Cornélia a disparu !... On va, on vient !... Plus personne !
+
+Tout à coup, des cris se font entendre dans les profondeurs de la forêt voisine. Sandre reconnait la voix de Mme Cascabel, et, quoiqu\'il s\'agisse de sa future belle-mère, il n\'hésite pas... il vole à son secours... Évidemment, cette impérieuse dame a été enlevée par la bande de Fracassar, peut-être par Fracassar lui-même, le fameux chef des brigands de la Forêt Noire.
+
+Effectivement, c\'est ce qui est arrivé, et, tandis que Jean se tient près de sa soeur pour la protéger au besoin, Clou sonne la cloche et appelle au secours. Un coup de feu retentit... Le public est haletant, et il serait difficile d\'imaginer que l\'émotion puisse être jamais poussée plus loin au théâtre.
+
+C\'est alors que M. Cascabel, sous le costume calabrais du terrible Fracassar, paraît en scène, accompagné de ses complices, qui entraînent Cornélia, malgré sa résistance... Mais l\'héroïque jeune premier revient à la tête d\'une brigade de gendarmes, bottés jusqu\'à la ceinture... Sa belle-mère est délivrée, les brigands sont saisis, et l\'amoureux Sandre épouse sa fiancée Napoléone.
+
+Il convient d\'ajouter que, vu l\'insuffisance du personnel, les bandits d\'une part, les gendarmes de l\'autre, ne paraissent jamais sur la scène. C\'est Clou qui est chargé d\'imiter leurs différents cris dans la coulisse, il s\'en acquitte à faire illusion. Quant à M. Cascabel, il est réduit à se mettre lui-même les menottes. Mais, on ne saurait trop le répéter, l\'effet de ce dénouement, grâce à une figuration si clairement indiquée, est extraordinaire.
+
+Telle est cette pièce, sortie du puissant cerveau de César Cascabel, qui allait être représentée au cirque de Perm\'. Et, on ne peut en douter, elle y retrouverait son succès habituel, si les interprètes étaient à la hauteur de l\'oeuvre.
+
+Ils l\'étaient ordinairement, M. Cascabel très farouche, Cornélia très entichée de sa naissance et de sa fortune, Jean très chevaleresque, Sandre très sympathique, Napoléone très touchante. Les rôles, comme on dit, portaient les artistes. Mais, il faut le reconnaître, la famille n\'était pas précisément à la gaieté ce jour-là. Elle était fort triste et, certainement, une fois en scène, elle manquerait de verve. Les jeux de physionomie seraient incertains, les répliques de gestes n\'arriveraient pas avec la précision voulue... Peut-être les effets de larmes seraient-ils plus vrais, puisque chacun avait envie de pleurer, tandis que, pour les effets de rire, ce ne serait plus cela du tout !
+
+Et lorsque l\'on se mit à table au déjeuner de midi, en voyant inoccupée la place de M. Serge -- ce qui était comme un avant-goût de la prochaine séparation -- la tristesse s\'accrut encore... Personne n\'avait faim, personne n\'avait soif... C\'était navrant !
+
+Eh bien ! Il ne l\'entendait pas ainsi, le directeur de la troupe. Lui avait mangé comme quatre. Et, le repas achevé, il ne se gêna pas pour exprimer son mécontentement.
+
+« Ah çà ! s\'écria-t-il, est-ce que cela ne va pas finir ?... Je ne vois que des figures longues d\'une aune !... À commencer par toi, Cornélia, et à finir par toi, Napoléone !... Il n\'y a vraiment que Clou qui soit à peu près présentable !... Ventre du diable ! Ça ne me convient pas, enfants, mais pas du tout !... J\'entends que l\'on soit gai, et que l\'on joue gaiement, et qu\'on y mette du sien, et que ça passe la rampe, ou je me fichtre fâche ! »
+
+Et, lorsque M. Cascabel avait employé cette expression, qui lui appartenait en propre, personne n\'osait encourir les suites de sa colère. Il n\'y avait qu\'à obéir... on obéissait.
+
+D\'ailleurs, cet homme d\'un esprit si inventif avait eu une idée excellente, comme il lui en venait toujours dans des circonstances graves. Il avait résolu de compléter sa pièce, ou, plutôt, de renforcer sa mise en scène -- on va voir de quelle façon.
+
+Il a été dit que jusqu\'alors, par défaut de comparses, jamais les brigands ni les gendarmes ne s\'étaient montrés au public. Bien qu\'il représentât le brigandage à lui tout seul, M. Cascabel pensait, très justement, que la pièce ferait un plus grand effet, si la figuration était complète au dénouement.
+
+Aussi l\'idée lui était-elle venue d\'engager quelques comparses pour cette représentation. Et, au fait, n\'avait-il pas sous la main Ortik et Kirschef ? Pourquoi ces deux braves marins refuseraient-ils de remplir le rôle de brigands ?
+
+Donc, au moment de quitter la table, M. Cascabel, s\'adressant à Ortik, lui expliqua-t-il la situation, et finit par dire :
+
+« Vous conviendrait-il de prendre tous deux part à la représentation, comme figurants ?... Ça me rendrait un véritable service, mes amis !
+
+--- Très volontiers, répondit Ortik. Kirschef et moi, nous ne demandons pas mieux ! »
+
+Comme ils avaient intérêt à rester dans les meilleurs termes avec la famille Cascabel, on comprend qu\'ils se fussent empressés d\'agréer cette proposition.
+
+« Parfait, mes amis, parfait ! répondit M. Cascabel. Vous n\'aurez, d\'ailleurs, qu\'à paraître avec moi, au moment où j\'entre en scène, c\'est-à-dire au dénouement !... Vous ferez comme je ferai, les mêmes roulements d\'yeux, les mêmes gestes, les mêmes rugissements de rage !... Vous verrez, cela ira tout seul, et je vous garantis un succès prodigieux ! »
+
+Puis, après avoir réfléchi :
+
+« Mais j\'y pense, ajouta-t-il, à vous deux, vous ne ferez encore que deux brigands !... Ce n\'est pas assez !... Non !... C\'est toute une bande que Fracassar a sous ses ordres, et si je pouvais vous adjoindre cinq ou six autres bonshommes, l\'effet serait plus grand !... Est-ce que vous ne pourriez pas me racoler par la ville quelques gentilshommes sans ouvrage, à qui une bonne bouteille de vodka et un demi-rouble ne feraient pas peur ? »
+
+Après avoir jeté un coup d\'oeil à Kirschef, Ortik répondit :
+
+« Cela se peut, monsieur Cascabel. Hier, au cabaret, nous avons précisément fait connaissance avec une demi-douzaine de braves gens...
+
+--- Amenez-les, Ortik, amenez-les ce soir, et je réponds de mon dénouement !
+
+--- C\'est convenu, monsieur Cascabel.
+
+--- Parfait, mes amis !... Quelle représentation !... Quelle attraction pour le public ! »
+
+Et, lorsque les deux marins furent partis, M. Cascabel fut pris d\'une telle convulsion de rire que sa ceinture en cassa sur son ventre. Cornélia crut qu\'il allait passer dans une syncope.
+
+« César, il n\'est pas prudent de rire comme cela, après déjeuner ! lui dit-elle.
+
+--- Moi ?... rire, ma bonne ?... Mais je n\'en ai point envie !... Si je ris, c\'est sans m\'en apercevoir !... Au fond, je suis très triste !... Songe donc, il est une heure, et cet excellent M. Serge qui n\'est pas encore de retour !... Et il ne sera pas là pour débuter comme escamoteur dans la troupe !... Quelle guigne ! »
+
+Puis, tandis que Cornélia retournait à ses costumes, il sortit, afin de faire quelques courses qui lui paraissaient indispensables, se contenta-t-il de dire.
+
+La représentation devait commencer à quatre heures -- ce qui permettait d\'économiser l\'éclairage, lequel laissait à désirer au cirque de Perm\'. La jeune Napoléone n\'était-elle pas assez fraîche, d\'ailleurs, et sa mère elle-même, assez bien « conservée », pour affronter le grand jour ?
+
+On se figurerait difficilement l\'effet que l\'affiche de César Cascabel avait produit dans la ville, sans parler du tambour de Clou-de-Girofle, qui, une heure durant, alla battre à travers les rues ses ras et ses flas les plus extraordinaires. Il y avait de quoi réveiller toutes les Russies à la fois !
+
+Il s\'ensuivit qu\'à l\'heure dite, il y eut aux abords du cirque grande affluence de spectateurs : le gouverneur de Perm\'et sa famille, un certain nombre de fonctionnaires, des officiers de la citadelle, quelques gros négociants de l\'endroit, et aussi nombre de ces petits trafiquants, qui étaient venus à la foire, enfin un énorme concours de populaire.
+
+A la porte se démenaient les instrumentistes de la troupe, Sandre, Napoléone, Clou, avec piston, trombone, tambour, et aussi Cornélia, en maillot couleur chair et en jupe rose, qui faisait tonner sa grosse caisse. De là, un vacarme prodigieux, bien fait pour charmer des oreilles de moujiks.
+
+Puis, ces cris de César Cascabel, proférés en bon et intelligible russe :
+
+« Entrez !... Entrez, mesdames et messieurs !... C\'est quarante kopeks la place... sans distinction !... Entrez ! »
+
+Et, dès que messieurs et mesdames eurent pris place sur les banquettes du cirque, l\'orchestre s\'éclipsa, afin de reprendre son rôle dans le programme de la représentation.
+
+La première partie marcha parfaitement. La petite Napoléone sur la corde raide, le jeune Sandre dans ses dislocations de clown contorsionniste, les chiens savants, le singe John Bull et le perroquet Jako dans leurs réjouissantes scènes, M. et Mme Cascabel dans leurs exercices de force et d\'adresse, obtinrent un véritable succès. De ces vifs applaudissements, si légitimement dus à des artistes de premier ordre, Jean eut aussi sa part. Peut-être, ayant l\'esprit ailleurs, sa main hésita-t-elle, peut-être ses talents d\'équilibriste furent-ils un moment obscurcis ?... Mais cela ne fut perceptible que pour l\'oeil du maître, et le public ne s\'aperçut pas que le pauvre garçon n\'était pas tout à son affaire !
+
+Quant à la pyramide humaine, qui précéda l\'entracte, elle fut unanimement bissée.
+
+Au surplus, M. Cascabel avait été étourdissant de verve et de bonne humeur, en présentant ses artistes, en demandant pour eux des hurrahs bien mérités. Jamais cet homme supérieur n\'avait montré plus hautement tout ce qu\'une nature énergique peut prendre d\'empire sur elle-même. L\'honneur de la famille Cascabel était sauf. C\'est un nom que les descendants des Moscovites prononceraient toujours avec admiration et respect.
+
+Mais, si le public avait suivi avec intérêt cette partie du programme, avec quelle impatience il attendait la seconde ! Pendant l\'entracte, on ne parlait que de cela dans les couloirs.
+
+Après une suspension de dix minutes, qui avait permis aux spectateurs d\'aller prendre l\'air, la foule rentra, et pas une place ne resta inoccupée.
+
+Depuis une heure déjà, Ortik et Kirschef étaient revenus de leur tournée, ramenant une demi-douzaine de comparses. Comme on le devine, c\'étaient précisément ceux de leurs anciens compagnons qu\'ils avaient rencontrés dans le défilé de l\'Oural.
+
+M. Cascabel examina attentivement sa nouvelle figuration.
+
+« Bonnes têtes ! s\'écria-t-il. Bonnes faces !... Beaux torses !... L\'air un peu trop honnête peut-être pour remplir des rôles de brigands !... Enfin, avec des perruques hérissées et des barbes terribles, j\'en ferai quelque chose ! »
+
+
+Puis, Clou-de-Girofle frappa les trois coups.
+
+A ce moment, dans un théâtre bien machiné, le rideau se fût levé sur les derniers accords de l\'orchestre. S\'il ne se leva pas, cette fois, c\'est qu\'il n\'y a point de rideaux aux pistes de cirque, même quand elles servent de scène.
+
+Mais que l\'on ne s\'imagine pas qu\'il n\'y eût pas de décor, ou, du moins quelque apparence de décor. À gauche, une armoire, avec une croix peinte, figurait l\'église, ou plutôt la chapelle, dont le clocher devait être dans la coulisse ; au centre, se développait la place publique du village, naturellement représentée par la piste ; à droite, quelques arbustes en caisse, habilement disposés, donnaient une très suffisante idée de la Forêt Noire.
+
+La pièce commença au milieu d\'un profond silence. Que Napoléone était donc gentille avec sa petite jupe à raies, légèrement défraîchie, son joli bonnet posé comme une fleur sur sa chevelure blonde, et surtout son air si ingénu et si tendre ! Le premier amoureux Sandre, en justaucorps orange, déteint aux entournures, lui faisait la cour avec des gestes si passionnés, qu\'un dialogue n\'eût pas rendu ses répliques plus compréhensibles ! Et l\'entrée de Clou-de-Girogle, coiffé de sa perruque niaise, d\'un jaune ardent, monté sur de longues jambes qu\'il jetait de-ci de-là, son air bête et prétentieux, son nez à besicles, et le singe qui lui faisait des grimaces, et le perroquet dont les jacasseries étaient si spirituelles ! Impossible d\'être plus réussi que ce laruette de foire !
+
+Survient Cornélia, une femme qui sera terrible lorsqu\'elle sera belle-mère. Elle refuse à Sandre la main de Napoléone, et, pourtant, on sent qu\'un coeur bat sous ses oripeaux de grande dame du Moyen Age.
+
+Grand succès à l\'entrée de Jean, en carabinier italien. Il est bien triste, bien défait, le pauvre garçon ! Il a l\'air de penser à toute autre chose qu\'à son rôle ! Il aimerait mieux jouer celui de Sandre, et que Kayette fût sa fiancée, et qu\'il n\'y eût plus qu\'à la conduire à l\'église ! Et que d\'heures perdues, lorsqu\'il leur en restait si peu à passer ensemble !
+
+Cependant la situation dramatique était tellement forte qu\'elle emporta l\'acteur. Il eût été impossible de ne pas déployer un énorme talent dans un tel rôle. Songez donc ! Un frère qui revient de la guerre, vêtu en carabinier, et qui prend la défense de sa soeur contre les injonctions hautaines d\'une mère et les ridicules prétentions d\'un sot !
+
+Superbe, la scène de provocation entre Jean et Clou-de-Girofle ! Cet imbécile tremble de peur, au point que sa mâchoire grelotte, que son regard se trouble, et que son nez s\'allonge démesurément. On dirait la pointe d\'une épée qui, après lui avoir traversé la tête, sortirait par le milieu de sa face.
+
+Alors éclatent dans la coulisse des cris, bien nourris cette fois. Le jeune Sandre, emporté par son courage, et peut-être avec l\'idée de se faire tuer, car la vie lui est à charge, s\'élance dans les profondeurs de la forêt d\'arbres en caisse. On entend une lutte très violente à la cantonnade, et un coup de feu...
+
+Un instant après, voilà Fracassar, le chef des brigands, qui entre en scène. Il est effrayant avec son maillot rose presque blanc et sa barbe noire presque rousse. Toute la bande scélérate l\'accompagne en gesticulant. Au milieu des brigands, figurent Ortik et Kirschef, méconnaissables sous leur perruque et leur défroque. Cornélia, menacée dans son honneur, est saisie par le terrible chef. Sandre se précipite pour la défendre, et il semble bien que le dénouement ordinaire de la pièce va être compromis, ce jour-là, car la situation n\'est plus la même.
+
+En effet, lorsque M. Cascabel était seul à représenter toute la bande des brigands de la Forêt Noire, Jean, Sandre, leur mère, leur soeur, et aussi Clou-de-Girofle, avaient la partie belle pour le tenir en respect, en attendant l\'arrivée des gendarmes, qui étaient signalés au lointain dans la coulisse. Mais, cette fois, le chef Fracassar est à la tête de huit malfaiteurs en chair et en os, visibles, palpables, et dont il sera bien difficile d\'avoir raison... Il y avait donc lieu de se demander comment cela finirait, pour que la vraisemblance ne fût pas trop choquée...
+
+Soudain, un peloton de Cosaques fait irruption sur la piste. Voilà une entrée des plus inattendues...
+
+En vérité, M. Cascabel n\'a rien négligé pour donner à cette représentation un éclat extraordinaire, et sa figuration est au complet. Gendarmes ou Cosaques, c\'est tout un ! En un instant, Ortik, Kirschef, leurs six compagnons, sont terrassés, garottés, et d\'autant plus facilement que leur rôle les oblige à se laisser faire...
+
+Mais, tout à coup, voilà que des cris se font entendre :
+
+« Ah ! Pas moi, s\'il vous plaît, braves Cosaques !... Ceux-ci tant que vous voudrez !... Moi... je n\'en suis que pour rire ! »
+
+Et qui parle ainsi ?... C\'est Fracassar ou plutôt M. Cascabel, qui s\'est relevé, les mains libres, tandis que les figurants, dûment enchaînés, sont entre les mains de la police.
+
+Voilà quelle avait été la grande idée de César Cascabel ! Après avoir prié Ortik et ses complices de jouer le rôle des brigands, il s\'était mis en rapport avec les autorités de Perm\', en les prévenant qu\'il y aurait « un fameux coup à faire ! ». Cela explique comment un peloton de Cosaques était arrivé juste au dénouement de la pièce.
+
+Ah ! Il était réussi et bien réussi, ce fameux coup ! Ortik et les autres étaient bel et bien pincés par les agents de l\'autorité.
+
+Mais Ortik s\'est redressé, et, désignant M. Cascabel au chef des Cosaques :
+
+« Cet homme, dit-il, je vous le dénonce !... C\'est lui qui a fait rentrer en Russie un condamné politique !... Ah ! Tu m\'as livré, maudit saltimbanque, je te livre à mon tour !
+
+--- Livre, mon ami, répondit tranquillement M. Cascabel, en clignant de l\'oeil.
+
+--- Et le condamné, l\'évadé de la forteresse d\'Iakoust, qu\'il a ramené, c\'est le comte Narkine !
+
+--- Parfaitement, Ortik ! » Cornélia, ses enfants, et Kayette, qui venait d\'accourir, étaient atterrés !...
+
+En ce moment, un des spectateurs se lève... C\'est le comte Narkine !...
+
+« Le voilà ! dit Ortik.
+
+--- Oui ! Le comte Narkine ! répond M. Serge.
+
+--- Mais le comte Narkine amnistié ! » s\'écrie M. Cascabel, en partant d\'un superbe éclat de rire.
+
+Quel effet sur le public ! Toute cette réalité, mêlée aux fictions de la pièce, cela était de nature à troubler les plus fermes esprits ! Il n\'est même pas bien sûr qu\'une partie des spectateurs n\'ait pas cru que *les Brigands de la Forêt Noire* n\'avaient jamais eu d\'autre dénouement !
+
+Une courte explication suffira.
+
+
+C\'est alors que M. Cascabel avait eu la triomphante idée que l\'on sait, et qu\'il avait pris cette mesure pour livrer la bande d\'Ortik au dénouement de la pièce.
+
+Lorsque le public eut été mis au courant, ce fut un délire. Les hurrahs éclatèrent de toute parts, au moment où les Cosaques emmenaient Ortik et ses complices, lesquels, après avoir si longtemps joué le rôle de brigands au naturel, allaient enfin expier leurs crimes -- au naturel également.
+
+M. Serge fut aussitôt instruit de tout ce qui s\'était passé, comment Kayette avait découvert cette machination tramée contre lui et contre la famille Cascabel, comment la jeune Indienne avait risqué sa vie en se glissant à la suite des deux matelots russes pendant la nuit du 6 juillet, comment elle avait tout raconté à M. Cascabel, comment enfin celui-ci n\'avait rien voulu dire ni au comte Narkine, ni à sa femme...
+
+« Un secret pour moi, César, un secret ! dit Mme Cascabel d\'un ton de reproche.
+
+--- Le premier et le dernier, ma femme ! »
+
+Cornélia avait déjà pardonné à son mari, et, n\'y tenant plus, elle s\'écria :
+
+« Ah ! Monsieur Serge, il faut que je vous embrasse ! »
+
+Puis, toute confuse : « Excusez, monsieur le comte... dit-elle.
+
+--- Non... monsieur Serge pour vous, mes amis... toujours monsieur Serge !... Et pour toi aussi, ma fille ! » ajouta-t-il en ouvrant ses bras à Kayette.
+
+
+]{.calibre20}
+
+
+CÉSAR CASCABEL
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 15.]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942196b15 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-15. .calibre171 .sigil_not_in_toc}
+
+Il est fini, le voyage de M. Cascabel, et bien fini ! La *Belle-Roulotte* n\'a plus qu\'à traverser la Russie et l\'Allemagne pour mettre le pied en France, et le nord de la France pour rentrer au pays normand ! C\'est encore un long trajet, sans doute. Mais, comparé à ce parcours de deux mille huit cents lieues qu\'elle vient de faire, ce n\'est plus qu\'une promenade, une simple promenade -- « une course de fiacre ! » disait M. Cascabel.
+
+Oui ! Il est fini ce voyage et mieux terminé qu\'on aurait pu espérer, après tant d\'aventures ! Et jamais il n\'y eut de dénouement plus heureux -- pas même dans cette admirable pièce des *Brigands de la Forêt Noire*, qui s\'était cependant achevée à l\'immense satisfaction du public et des acteurs -- sauf Ortik et Kirschef. Ils furent en effet pendus quelques semaines plus tard, tandis que leurs complices étaient envoyés au fond de la Sibérie pour le reste de leurs jours.
+
+La question de séparation se présenta alors avec toutes ses tristes conséquences. Comment allait-elle se résoudre ?
+
+Eh bien ! Ce fut d\'une façon très simple.
+
+Le soir même, lorsque le personnel fut réuni à la *Belle-Roulotte*, le comte Narkine dit :
+
+« Mes amis, je sais tout ce que je vous dois, et je serais un ingrat si je l\'oubliais jamais !... Que puis-je faire pour vous ?... Mon coeur se serre à la pensée de nous séparer !... Voyons !... Vous conviendrait-il de demeurer en Russie, de vous fixer, de vivre sur le domaine de mon père ?... »
+
+M. Cascabel, qui ne s\'attendait pas à cette proposition, répondit après avoir réfléchi un instant :
+
+« Monsieur le comte Narkine...
+
+--- Appelez-moi monsieur Serge, dit le comte Narkine, jamais autrement !... Vous me ferez plaisir !
+
+--- Eh bien, monsieur Serge, ma famille et moi, nous sommes très touchés... L\'offre que vous nous faites, cela montre toute votre affection... Nous vous remercions bien !... Mais là-bas... vous savez... c\'est le pays...
+
+--- Je vous comprends ! répondit le comte Narkine. Oui !... je vous comprends... Et, puisque vous voulez retourner en France, dans votre Normandie, je serais heureux de savoir que vous êtes établis chez vous... dans une jolie maison de campagne... avec une ferme et quelques terres autour !... Là, vous pourriez vous reposer de vos longs voyages...
+
+--- Ne croyez point que nous soyons fatigués, monsieur Serge ! s\'écria M. Cascabel.
+
+--- Voyons, mon ami... parlez-moi franchement !... Tenez-vous beaucoup à votre état ?...
+
+--- Oui..., puisqu\'il nous fait vivre !...
+
+--- Vous ne voulez pas me comprendre, reprit le comte Narkine, et vous m\'affligez ! me refuserez-vous la satisfaction de faire quelque chose pour vous ?...
+
+--- Ne nous oubliez pas, monsieur Serge, répondit Cornélia, voilà tout ce que nous vous demandons, car nous ne vous oublierons jamais... ni vous... ni Kayette...
+
+--- Ma mère !... s\'écria la jeune fille.
+
+--- Je ne puis être ta mère, chère enfant !
+
+--- Pourquoi pas, madame Cascabel ? répondit M. Serge.
+
+--- Et comment ?...
+
+--- En la donnant pour femme à votre fils ! »
+
+Quel effet produisirent ces paroles du comte Narkine -- effet plus grand, à coup sûr, que tous ceux que M. Cascabel avait pu obtenir dans sa brillante carrière !
+
+Jean était fou de bonheur, il baisait les mains de M. Serge, qui pressait Kayette sur son coeur. Oui, elle serait la femme de Jean, et n\'en serait pas moins la fille adoptive du comte ! Et M. Serge le garderait près de lui, car il voulait l\'attacher à sa personne ! M. et Mme Cascabel auraient-ils jamais pu rêver un plus bel avenir pour leur fils ? Quant à accepter du comte Narkine autre chose que l\'assurance de son amitié, tous deux ne voulaient point y consentir. Ils avaient un bon métier, ils le continueraient...
+
+C\'est alors que le jeune Sandre s\'avança, et, la voix un peu émue, mais les yeux pleins de malice :
+
+« À quoi bon, père ?... Nous sommes riches, et nous n\'aurons plus besoin de travailler pour vivre ! »
+
+Et le gamin tirait triomphalement de sa poche la pépite qu\'il avait ramassée dans les forêts du Caribou.
+
+« Où as-tu trouvé cela ? » s\'écria M. Cascabel, qui avait pris la précieuse pierre.
+
+Sandre raconta ce qui s\'était passé.
+
+« Et tu ne nous en as rien dit ?... s\'écria Cornélia. Et tu as pu garder ce secret ?...
+
+--- Oui... mère, quoique ça n\'ait pas été sans peine !... Je voulais vous en faire la surprise, et ne vous apprendre que nous sommes riches qu\'après notre arrivée en France !
+
+--- Ah ! L\'adorable enfant ! s\'écria M. Cascabel. Eh bien, monsieur Serge, voilà une fortune qui arrive à propos !... Regardez !... C\'est bien une pépite !... C\'est bien de l\'or... et il n\'y aura qu\'à la changer... »
+
+Le comte Narkine avait pris le caillou, il l\'examinait avec attention, et, pour en apprécier la valeur, il le balançait dans sa main, il en observait les petits points brillants.
+
+« Oui, dit-il, c\'est bien de l\'or, et cela pèse au moins dix livres...
+
+--- Ce qui vaut ?... demanda M. Cascabel.
+
+--- Vingt mille roubles !
+
+--- Vingt mille roubles !....
+
+--- Mais... à la condition... de le changer... et de le changer... tout de suite !... Voyez... comme je fais ! »
+
+Et M. Serge, digne élève de M. Cascabel, fit un si habile tour d\'escamotage qu\'il substitua à la fameuse pépite un portefeuille, lequel se trouva entre les mains du jeune garçon.
+
+« En voilà un tour ! s\'écria M. Cascabel. Quand je vous disais que vous aviez d\'étonnantes dispositions...
+
+--- Qu\'y a-t-il dans ce portefeuille ?... demanda Cornélia.
+
+--- Le prix de la pépite !... Oh ! Rien de plus... mais rien de moins ! » répondit M. Serge.
+
+En effet, il s\'y trouvait un chèque de vingt mille roubles sur MM. Rothschild frères, de Paris.
+
+Que valait la pépite ? Était-ce un morceau d\'or ou un simple caillou que le jeune Sandre avait si consciencieusement rapporté de l\'Eldorado colombien ? Ce point n\'a jamais pu être éclairci. Quoi qu\'il en soit, il fallut bien que M. Cascabel en crût le comte Narkine sur parole, et s\'en rapportât à l\'amitié de M. Serge, dont il faisait plus de cas que de tout le trésor impérial de Sa Majesté le Czar !
+
+La famille Cascabel resta pendant un mois en Russie. Il n\'était plus question ni de la foire de Perm\'ni de la foire de Nijni. Le père, la mère, le frère, la soeur pouvaient-ils se dispenser d\'assister au mariage de Jean et de Kayette, qui fut célébré au château de Walska ? Il y eut grande cérémonie, et jamais jeunes époux ne furent entourés d\'un tel concours de gens heureux.
+
+« Hein, César !... dit Cornélia, au moment où elle sortait de la chapelle du château.
+
+--- C\'est bien ce que je me disais ! » répliqua M. Cascabel.
+
+Huit jours après, M. et Mme Cascabel, Sandre, Napoléone et Clou-de-Girofle -- qu\'il ne faut point oublier, car il fait véritablement partie de la famille -- prirent congé du comte Narkine. Ils firent route pour la France, mais en chemin de fer, emmenant la *Belle-Roulotte*, qui les suivit en grande vitesse, s\'il vous plaît !
+
+Le retour de M. Cascabel dans sa Normandie fut un évènement. Cornélia et lui devinrent gros propriétaires aux environs de Pontorson, avec de belles dots en perspective pour Sandre et Napoléone. Le comte Narkine, Jean, devenu son secrétaire, et Kayette, la plus heureuse des femmes, venaient les voir tous les ans, et s\'ils étaient reçus avec ivresse !... Le mot est d\'autant plus juste, que, ce jour-là, les gens de M. Cascabel y perdaient la raison.
+
+Tel est le récit fidèle de ce voyage que l\'on peut compter comme l\'un des plus surprenants de la collection des *Voyages extraordinaires*. Évidemment, tout cela finit bien !... Et comment pourrait-il en être autrement, puisqu\'il s\'agit de cette honnête famille Cascabel !

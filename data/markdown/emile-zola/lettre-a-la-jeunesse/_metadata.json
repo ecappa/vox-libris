@@ -1,0 +1,82 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LETTRE À LA JEUNESSE",
+  "slug": "lettre-a-la-jeunesse",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1407,
+      "spine_end_exclusive": 1408,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_107.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation de l’auteur",
+      "slug": "presentation-de-lauteur",
+      "spine_start": 1408,
+      "spine_end_exclusive": 1409,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_108.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1409,
+      "spine_end_exclusive": 1410,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_109.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1410,
+      "spine_end_exclusive": 1411,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_110.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1411,
+      "spine_end_exclusive": 1412,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_111.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1412,
+      "spine_end_exclusive": 1413,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_112.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1413,
+      "spine_end_exclusive": 1415,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_113.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_114.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

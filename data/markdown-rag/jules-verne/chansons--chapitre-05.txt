@@ -1,0 +1,49 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "CHANSONS"
+slug_oeuvre: "chansons"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+]
+
+CHANSONS
+
+Table des chansons
+
+]
+
+## Chanson groënlandaise
+Le ciel est noir
+Et le soleil se traine
+À peine.
+De désespoir
+Ma pauvre âme incertaine
+Est pleine.
+La blonde enfant se rit de mes tendres chansons
+Et sur son coeur l'hiver proméne ses glaçons.
+Chagrin extrême
+Pour mon amour !
+La nuit, le jour,
+Ma voix redit je t'aime, je t'aime, je t'aime !
+Ange rêvé,
+Ton amour, qui fait vivre,
+M'énivre
+Et j'ai bravé
+Pour te voir, pour te suivre
+Le givre.
+Hélas! Sous mes baisers et leur douce chaleur
+Je n'ai pu dissiper les neiges de ton coeur.
+Chagrin extrême ... etc.
+Ah! Que demain
+À tom âme convienne
+La mienne,
+Et que ma main
+Amoureusement tienne,
+La tienne.
+Le soleil brillera là haut dans nôtre ciel
+Et de ton coeur l'amour forcera le dégel.
+Chagrin extrême ... etc.

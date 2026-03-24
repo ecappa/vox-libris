@@ -1,0 +1,61 @@
+::::: WordSection
+# [!{#Image4409 .calibre9}]{.calibre8}[ ]{.calibre8} DISCOURS D'INAUGURATION DU BUSTE D'EMMANUEL GONZALES {#calibre_toc_2 .calibre1}
+
+::: MsoNormal1
+
+------------------------------------------------------------------------
+
+[1891]{.calibre13}
+
+Émile ZOLA
+
+ÉLOGES ET DISCOURS
+
+::: MsoNormal2
+
+------------------------------------------------------------------------
+
+[[[Liste des éloges et discours]{.calibre16 lang="FR"}](../Text/Zola6_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}[
+
+
+:::::
+
+
+::: WordSection
+[
+]{.calibre22}
+
+!{#Image1007 .calibre23}
+
+
+::: WordSection
+*[
+]{.calibre25}*
+
+25 octobre 1891
+
+
+MESSIEURS,
+
+Au nom de la Société des Gens de Lettres, je viens apporter un suprême hommage à Emmanuel Gonzalès qui, après avoir été un des fondateurs de cette Société, consacra à sa prospérité et à sa grandeur vingt-quatre ans de sa vie.
+
+Je ne veux point éluder un devoir que je suis heureux de remplir comme président actuel du Comité, en passant rapidement sur l'œuvre littéraire d'Emmanuel Gonzalès. Certes, le champ du roman s'est élargi, de nouvelles formules sont venues, la postérité a remis chacun à son rang. Mais, ce qu'il faut louer toujours, ce qui reste quand même honorable, c'est l'effort, c'est le travail, c'est la production, lorsqu'elle est saine et digne ; et je m'étonne parfois qu'en nos temps de démocratie l'écrivain producteur n'ait pas au moins l'estime de ceux qui exaltent l'ouvrier. D'ailleurs, n'est-ce donc rien que d'avoir amusé toute une époque ? Gonzalès appartient à l'âge héroïque des conteurs, à ces temps déjà fabuleux de la création du roman-feuilleton, lorsqu'il se distribua, sous les fenêtres des héroïnes, tant de coups d'épée. Ces belles imaginations ont passionné nos mères, et nous sommes certainement un peu faits de ces contes dont elles tournaient si fiévreusement les pages.
+
+Je me risquerai, messieurs, à un souvenir personnel. J'avais quatorze ans, et c'était pendant le choléra de 1854, au fond d'un bastidon perdu de la Provence, où ma famille s'était réfugiée. Là, pendant les trois mois de ces vacances forcées, j'ai dévoré tout un cabinet de lecture, que ma grand-mère, femme courageuse, allait me chercher à la ville, par paquets de quinze et vingt volumes. Tous les grands conteurs, les Dumas, les Eugène Sue, les Féval, les Elie Berthet, y passèrent. Eh bien ! messieurs, de tant d'œuvres englouties goulûment, une surnage encore dans ma mémoire en traits ineffaçables : *Les Frères de la Côte* d'Emmanuel Gonzalès. Ah ! *Les Frères de la Côte*, avec leurs aventures extraordinaires et poignantes, leur envolée folle au pays de l'imagination ! ils m'ont accompagné dans la vie, aussi vivants en moi que *Le Petit Poucet* et que *Le Robinson Suisse*. C'est beaucoup vraiment, que cette impression si vive, cette hantise laissée à toute une génération. Il y a là une force.
+
+Plus tard, j'ai connu Gonzalès, et je me souviendrai toujours de notre première rencontre chez un ami commun, le peintre Edouard Manet. Et quoi ? l'auteur des *Frères de la Côte* n'était pas un mythe ! il vivait, il descendait pour moi de sa légende. Et je trouvais l'homme le meilleur de la terre, d'une grande simplicité, d'une grande bonté. Il venait là avec ses deux filles, alors dans tout l'éclat de leur jeunesse et de leur beauté. Il devait mourir de la mort de l'aînée, entre les bras de la cadette en larmes. Mais alors, quelles bonnes causeries, dans l'atelier de la rue Saint-Pétersbourg, et comme ce romancier de cape et d'épée, au nom castillan, était d'une jolie humeur française, et comme il était plein de sens, de grâce et de bonhomie ! Permettrez-vous, messieurs, à l'incorrigible que je suis, de dire que la réalité vaut toujours mieux que ce qu'on imagine ?
+
+Mais, en dehors des opinions littéraires, il est une œuvre de Gonzalès dont nous lui sommes tous, sans distinction d'écoles, profondément reconnaissants ; et, cette œuvre, c'est notre Société elle-même ; car il en a été, pendant un quart de siècle, l'ouvrier le plus actif et le plus dévoué. Il avait fini par lui tout donner de son temps et de son intelligence, renonçant à produire, ne travaillant qu'à assurer la vie libre et heureuse des autres producteurs, ses confrères. Et, quoi qu'on en dise, l'œuvre est grande, qui sauvegarde les intérêts des écrivains et qui les groupe en une association de justice et de charité.
+
+Si Gonzalès et les autres fondateurs de la Société des Gens de Lettres revenaient, quelle stupeur serait la leur, de voir que l'on nous dispute encore le droit de vivre de nos œuvres ! Au temps de la fondation, il y avait beaucoup de pirates, les œuvres étaient volées, reproduites dans les journaux, sans que l'on consultât même les auteurs ; et ce fut alors que les écrivains, cédant au grand mouvement d'association qui est en train de transformer les peuples, eurent l'idée de se syndiquer pour se défendre, taxant les journaux, ne tolérant plus qu'on les volât. Eh ! oui, messieurs, en dehors de notre bonne confraternité, de nos avances et de nos dons, nous ne sommes qu'un syndicat d'intérêts. On nous reproche de ne songer qu'aux gros sous. Mon Dieu ! il ne faut pas avoir peur des mots, et c'est bien vrai : nous défendons les gros sous de nos membres, les gros sous que la femme et les enfants attendent parfois avec angoisse, les gros sous qui souvent ont empêché un homme de déchoir. Si l'écrivain est aujourd'hui un citoyen libre, indépendant, pouvant tout dire, c'est qu'il vit de sa plume. Et il est stupéfiant, lorsque le plus petit corps de métier est loué de se constituer en syndicat pour résister aux patrons, qu'on s'étonne de voir les écrivains s'associer, mettre en commun leur effort, tirer légitimement de leurs œuvres tout ce qu'elles peuvent donner.
+
+Messieurs, ceci n'est point une digression et je n'ai pas hésité à dire ces choses devant la tombe de Gonzalès, car s'il les entendait, elles le réjouiraient certainement. Ce que nous venons honorer en lui, c'est justement cet inépuisable dévouement qu'il a montré aux intérêts des écrivains, c'est le grand amour avec lequel il a travaillé pendant de si longues années à l'œuvre que nous continuons. Nous avons voulu que son image revécût dans ce beau buste de M. Marquès de Vasselot, et nous sommes heureux de saluer en lui, un de nos aînés, le plus laborieux et le plus loyal, un de ceux qui ont sûrement le plus fait pour la vraie dignité des lettres. Il restera comme une figure charmante et bonne, l'aimable romancier qui a amusé toute une génération, et l'infatigable administrateur qui a souvent assuré le pain de ses confrères.
+
+
+::: WordSection
+[
+]{.calibre27}
+
+FIN du DISCOURS D'INAUGURATION DU BUSTE D'EMMANUEL GONZALES
+
+[[Liste des éloges et discours]{.calibre28}](../Text/Zola6_split_000.htm){.pcalibre .pcalibre1}[

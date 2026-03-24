@@ -1,0 +1,99 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "UNE PAGE D'AMOUR",
+  "slug": "une-page-damour",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 164,
+      "spine_end_exclusive": 165,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_163.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "spine_start": 165,
+      "spine_end_exclusive": 171,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_164.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_165.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_166.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_167.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_168.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_169.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "spine_start": 171,
+      "spine_end_exclusive": 177,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_170.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_171.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_172.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_173.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_174.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_175.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "spine_start": 177,
+      "spine_end_exclusive": 183,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_176.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_177.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_178.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_179.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_180.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_181.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Quatrième partie",
+      "slug": "quatrieme-partie",
+      "spine_start": 183,
+      "spine_end_exclusive": 189,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_182.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_183.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_184.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_185.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_186.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_187.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Cinquième partie",
+      "slug": "cinquieme-partie",
+      "spine_start": 189,
+      "spine_end_exclusive": 196,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_188.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_189.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_190.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_191.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_192.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_193.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_194.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/une-page-damour/Zola1_image024.jpg"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA DÉBÂCLE",
+  "slug": "la-debacle",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 427,
+      "spine_end_exclusive": 428,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_426.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "spine_start": 428,
+      "spine_end_exclusive": 437,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_427.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_428.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_429.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_430.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_431.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_432.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_433.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_434.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_435.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "spine_start": 437,
+      "spine_end_exclusive": 446,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_436.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_437.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_438.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_439.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_440.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_441.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_442.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_443.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_444.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "spine_start": 446,
+      "spine_end_exclusive": 456,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_445.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_446.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_447.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_448.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_449.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_450.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_451.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_452.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_453.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_454.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-debacle/Zola1_image035.jpg"
+  ]
+}

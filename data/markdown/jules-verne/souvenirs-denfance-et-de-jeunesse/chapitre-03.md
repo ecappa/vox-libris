@@ -1,0 +1,18 @@
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+SOUVENIRS D\'ENFANCE ET DE JEUNESSE
+
+
+]{.calibre20}
+
+## III {#calibre_toc_8 .calibre21}
+
+
+A cette époque, on ne voyageait que peu ou pas. C\'était le temps des réverbères, des sous-pieds, de la garde nationale et du briquet fumade. Oui ! j\'ai vu naître les allumettes phosphoriques, les faux-cols, les manchettes, le papier à lettre, les timbres-poste, le pantalon à jambe libre, le paletot, le gibus, la bottine, le système métrique, les bateaux à vapeur de la Loire, dits « inexplosibles » parce qu\'ils sautaient un peu moins que les autres, les omnibus, les chemins de fer, les tramways, le gaz, l\'électricité, le télégraphe, le téléphone, le phonographe ! Je suis de la génération comprise entre ces deux génies, Stéphenson et Edison ! Et j\'assiste maintenant à ces étonnantes découvertes, à la tête desquelles marche l\'Amérique, avec ses hôtels mouvants, ses machines à tartines, ses trottoirs mobiles, ses journaux en pâte « feuilletée » imprimés à l\'encre de chocolat, qu\'on lit d\'abord et qu\'on mange ensuite !
+
+Je n\'avais pas dix ans, lorsque mon père acheta une propriété à l\'extrémité de la ville, à Chantenay, quel joli nom ! Elle était située sur un coteau qui domine la rive droite de la Loire. De ma chambrette, je voyais le fleuve se dérouler sur une étendue de deux à trois lieues, entre les prairies qu\'il inonde de ses grandes crues pendant l\'hiver. L\'été, il est vrai, l\'eau lui manque, et de son lit émergent des bandes d\'un beau sable jaune, tout un archipel d\'îlots changeants ! Les navires ne suivent pas sans peine ces étroites passes, bien qu\'elles soient balisées de pylônes noirâtres que je vois encore. Ah ! cette Loire, si l\'on ne peut la comparer à l\'Hudson, au Mississipi, au Saint Laurent, elle n\'en est pas moins un des grands fleuves de la France. Sans doute, ce ne serait qu\'une humble rivière en Amérique ! Mais l\'Amérique, ce n\'est point un état, c\'est un continent tout entier !
+
+Cependant, à voir passer tant de navires, le besoin de naviguer me dévorait. Je connaissais déjà les termes de marine, et je comprenais assez les manœuvres pour les suivre dans les romans maritimes de Fenimore Cooper, que je ne puis me lasser de relire avec admiration. L\'œil à l\'oculaire d\'un petit télescope j\'observais les navires, prêts à virer, larguant leurs focs et bordant leurs brigantines, changeant derrière puis devant. Mais, mon frère et moi, nous n\'avions pas encore tâté de la navigation, même fluviale !\... Cela vint enfin.

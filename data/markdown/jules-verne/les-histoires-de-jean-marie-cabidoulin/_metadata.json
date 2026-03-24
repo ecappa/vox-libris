@@ -1,0 +1,178 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES HISTOIRES DE JEAN-MARIE CABIDOULIN",
+  "slug": "les-histoires-de-jean-marie-cabidoulin",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Un départ retardé",
+      "slug": "chapitre-1-un-depart-retarde",
+      "is_part": false,
+      "spine_start": 1763,
+      "spine_end_exclusive": 1764,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_002.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Le « Saint-Enoch »",
+      "slug": "chapitre-2-le-saint-enoch",
+      "is_part": false,
+      "spine_start": 1764,
+      "spine_end_exclusive": 1765,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Sur la côte est de la Nouvelle-Zélande",
+      "slug": "chapitre-3-sur-la-cote-est-de-la-nouvelle-zelande",
+      "is_part": false,
+      "spine_start": 1765,
+      "spine_end_exclusive": 1766,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – À travers le Pacifique",
+      "slug": "chapitre-4-a-travers-le-pacifique",
+      "is_part": false,
+      "spine_start": 1766,
+      "spine_end_exclusive": 1767,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Baie Marguerite",
+      "slug": "chapitre-5-baie-marguerite",
+      "is_part": false,
+      "spine_start": 1767,
+      "spine_end_exclusive": 1768,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_006.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Vancouver",
+      "slug": "chapitre-6-vancouver",
+      "is_part": false,
+      "spine_start": 1768,
+      "spine_end_exclusive": 1769,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Seconde campagne",
+      "slug": "chapitre-7-seconde-campagne",
+      "is_part": false,
+      "spine_start": 1769,
+      "spine_end_exclusive": 1770,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – La mer d'Okhotsk",
+      "slug": "chapitre-8-la-mer-dokhotsk",
+      "is_part": false,
+      "spine_start": 1770,
+      "spine_end_exclusive": 1771,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Au Kamtchatka",
+      "slug": "chapitre-9-au-kamtchatka",
+      "is_part": false,
+      "spine_start": 1771,
+      "spine_end_exclusive": 1772,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Coup double",
+      "slug": "chapitre-10-coup-double",
+      "is_part": false,
+      "spine_start": 1772,
+      "spine_end_exclusive": 1773,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Entre Anglais et Français",
+      "slug": "chapitre-11-entre-anglais-et-francais",
+      "is_part": false,
+      "spine_start": 1773,
+      "spine_end_exclusive": 1774,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Échouage",
+      "slug": "chapitre-12-echouage",
+      "is_part": false,
+      "spine_start": 1774,
+      "spine_end_exclusive": 1775,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Un écueil qui remue",
+      "slug": "chapitre-13-un-ecueil-qui-remue",
+      "is_part": false,
+      "spine_start": 1775,
+      "spine_end_exclusive": 1776,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Vers le nord",
+      "slug": "chapitre-14-vers-le-nord",
+      "is_part": false,
+      "spine_start": 1776,
+      "spine_end_exclusive": 1777,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Dénouement",
+      "slug": "chapitre-15-denouement",
+      "is_part": false,
+      "spine_start": 1777,
+      "spine_end_exclusive": 1778,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_016.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/les-histoires-de-jean-marie-cabidoulin/imageVerneIIIb1.jpg"
+  ]
+}

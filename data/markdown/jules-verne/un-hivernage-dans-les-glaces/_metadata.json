@@ -1,0 +1,187 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "UN HIVERNAGE DANS LES GLACES",
+  "slug": "un-hivernage-dans-les-glaces",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Le pavillon noir",
+      "slug": "chapitre-1-le-pavillon-noir",
+      "is_part": false,
+      "spine_start": 2248,
+      "spine_end_exclusive": 2249,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_224.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Le projet de Jean Cornbutte",
+      "slug": "chapitre-2-le-projet-de-jean-cornbutte",
+      "is_part": false,
+      "spine_start": 2249,
+      "spine_end_exclusive": 2250,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_225.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Lueur d'espoir",
+      "slug": "chapitre-3-lueur-despoir",
+      "is_part": false,
+      "spine_start": 2250,
+      "spine_end_exclusive": 2251,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_226.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Dans les passes",
+      "slug": "chapitre-4-dans-les-passes",
+      "is_part": false,
+      "spine_start": 2251,
+      "spine_end_exclusive": 2252,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_227.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – L'île Liverpool",
+      "slug": "chapitre-5-lile-liverpool",
+      "is_part": false,
+      "spine_start": 2252,
+      "spine_end_exclusive": 2253,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_228.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Le tremblement de glaces",
+      "slug": "chapitre-6-le-tremblement-de-glaces",
+      "is_part": false,
+      "spine_start": 2253,
+      "spine_end_exclusive": 2254,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_229.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Les installations de l'hivernage",
+      "slug": "chapitre-7-les-installations-de-lhivernage",
+      "is_part": false,
+      "spine_start": 2254,
+      "spine_end_exclusive": 2255,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_230.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Plan d'explorations",
+      "slug": "chapitre-8-plan-dexplorations",
+      "is_part": false,
+      "spine_start": 2255,
+      "spine_end_exclusive": 2256,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_231.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – La maison de neige",
+      "slug": "chapitre-9-la-maison-de-neige",
+      "is_part": false,
+      "spine_start": 2256,
+      "spine_end_exclusive": 2257,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_232.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Enterrés vivants",
+      "slug": "chapitre-10-enterres-vivants",
+      "is_part": false,
+      "spine_start": 2257,
+      "spine_end_exclusive": 2258,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_233.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Un nuage de fumée",
+      "slug": "chapitre-11-un-nuage-de-fumee",
+      "is_part": false,
+      "spine_start": 2258,
+      "spine_end_exclusive": 2259,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_234.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Retour au navire",
+      "slug": "chapitre-12-retour-au-navire",
+      "is_part": false,
+      "spine_start": 2259,
+      "spine_end_exclusive": 2260,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_235.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Les deux rivaux",
+      "slug": "chapitre-13-les-deux-rivaux",
+      "is_part": false,
+      "spine_start": 2260,
+      "spine_end_exclusive": 2261,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_236.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Détresse",
+      "slug": "chapitre-14-detresse",
+      "is_part": false,
+      "spine_start": 2261,
+      "spine_end_exclusive": 2262,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_237.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Les ours blancs",
+      "slug": "chapitre-15-les-ours-blancs",
+      "is_part": false,
+      "spine_start": 2262,
+      "spine_end_exclusive": 2263,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_238.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Conclusion",
+      "slug": "chapitre-16-conclusion",
+      "is_part": false,
+      "spine_start": 2263,
+      "spine_end_exclusive": 2264,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_239.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

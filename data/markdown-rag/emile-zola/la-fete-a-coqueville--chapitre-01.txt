@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA FÊTE À COQUEVILLE"
+slug_oeuvre: "la-fete-a-coqueville"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA FÊTE À COQUEVILLE
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+La Fête à Coqueville est une nouvelle datée de 1879. Elle a été publiée pour la première fois en 1882.

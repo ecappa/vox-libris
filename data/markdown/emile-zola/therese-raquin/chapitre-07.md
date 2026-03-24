@@ -1,0 +1,98 @@
+::: WordSection
+[
+]{.calibre24}
+
+!{.calibre1}
+
+ROMANS
+
+THÉRÈSE RAQUIN
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778531 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778193 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777855 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777517 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777179 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776503 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776165 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775827 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775489 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775151 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774813 .pcalibre .calibre3 .pcalibre1}[VII]{#_Toc368774475 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_21 .calibre25}
+
+[Dès le commencement, les amants trouvèrent leur liaison nécessaire, fatale, toute naturelle. À leur première entrevue, ils se tutoyèrent, ils s\'embrassèrent, sans embarras, sans rougeur, comme si leur intimité eût daté de plusieurs années. Ils vivaient à l\'aise dans leur situation nouvelle, avec une tranquillité et une imprudence parfaites.]{.calibre11}
+
+[Ils fixèrent leurs rendez-vous. Thérèse ne pouvant sortir, il fut décidé que Laurent viendrait. La jeune femme lui expliqua, d\'une voix nette et assurée, le moyen qu\'elle avait trouvé. Les entrevues auraient lieu dans la chambre des époux. L\'amant passerait par l\'allée qui donnait sur le passage, et Thérèse lui ouvrirait la porte de l\'escalier. Pendant ce temps, Camille serait à son bureau, Mme Raquin, en bas, dans la boutique. C\'étaient là des coups d\'audace qui devaient réussir.]{.calibre11}
+
+[Laurent accepta. Il avait, dans sa prudence, une sorte de témérité brutale, la témérité d\'un homme qui a de gros poings. L\'air grave et calme de sa maîtresse l\'engagea à venir goûter d\'une passion si hardiment offerte. Il choisit un prétexte, il obtint de son chef un congé de deux heures, et il accourut au passage du Pont-Neuf.]{.calibre11}
+
+[Dès l\'entrée du passage, il éprouva des voluptés cuisantes. La marchande de bijoux faux était assise juste en face de la porte de l\'allée. Il lui fallut attendre qu\'elle fût occupée, qu\'une jeune ouvrière vînt acheter une bague ou des boucles d\'oreilles de cuivre. Alors, rapidement, il entra dans l\'allée ; il monta l\'escalier étroit et obscur, en s\'appuyant aux murs gras d\'humidité. Ses pieds heurtaient les marches de pierre ; au bruit de chaque heurt, il sentait une brûlure qui lui traversait la poitrine. Une porte s\'ouvrit. Sur le seuil, au milieu d\'une lueur blanche, il vit Thérèse en camisole, en jupon, tout éclatante, les cheveux fortement noués derrière la tête. Elle ferma la porte, elle se pendit à son cou. Il s\'échappait d\'elle une odeur tiède, une odeur de linge blanc et de chair fraîchement lavée.]{.calibre11}
+
+[Laurent, étonné, trouva sa maîtresse belle. Il n\'avait jamais vu cette femme. Thérèse, souple et forte, le serrait, renversant la tête en arrière, et, sur son visage, couraient des lumières ardentes, des sourires passionnés. Cette face d\'amante s\'était comme transfigurée ; elle avait un air fou et caressant ; les lèvres humides, les yeux luisants, elle rayonnait. La jeune femme, tordue et ondoyante, était belle d\'une beauté étrange, toute d\'emportement. On eût dit que sa figure venait de s\'éclairer en dedans, que des flammes s\'échappaient de sa chair. Et, autour d\'elle, son sang qui brûlait, ses nerfs qui se tendaient, jetaient ainsi des effluves chauds, un air pénétrant et âcre.]{.calibre11}
+
+[Au premier baiser, elle se révéla courtisane. Son corps inassouvi se jeta éperdument dans la volupté. Elle s\'éveillait comme d\'un songe, elle naissait à la passion. Elle passait des bras débiles de Camille dans les bras vigoureux de Laurent, et cette approche d\'un homme puissant lui donnait une brusque secousse qui la tirait du sommeil de la chair. Tous ses instincts de femme nerveuse éclatèrent avec une violence inouïe ; le sang de sa mère, ce sang africain qui brûlait ses veines, se mit à couler, à battre furieusement dans son corps maigre, presque vierge encore. Elle s\'étalait, elle s\'offrait avec une impudeur souveraine. Et, de la tête aux pieds, de longs frissons l\'agitaient.]{.calibre11}
+
+[Jamais Laurent n\'avait connu une pareille femme. Il resta surpris, mal à l\'aise. D\'ordinaire, ses maîtresses ne le recevaient pas avec une telle fougue ; il était accoutumé à des baisers froids et indifférents, à des amours lasses et rassasiées. Les sanglots, les crises de Thérèse l\'épouvantèrent presque, tout en irritant ses curiosités voluptueuses. Quand il quitta la jeune femme, il chancelait comme un homme ivre. Le lendemain, lorsque son calme sournois et prudent fut revenu, il se demanda s\'il retournerait auprès de cette amante dont les baisers lui donnaient la fièvre. Il décida d\'abord nettement qu\'il resterait chez lui. Puis il eut des lâchetés. Il voulait oublier, ne plus voir Thérèse dans sa nudité, dans ses caresses douces et brutales, et toujours elle était là, implacable, tendant les bras. La souffrance physique que lui causait ce spectacle devint intolérable.]{.calibre11}
+
+[Il céda, il prit un nouveau rendez-vous, il revint au passage du Pont-Neuf.]{.calibre11}
+
+[À partir de ce jour, Thérèse entra dans sa vie. Il ne l\'acceptait pas encore, mais il la subissait. Il avait des heures d\'effroi, des moments de prudence, et, en somme, cette liaison le secouait désagréablement ; mais ses peurs, ses malaises tombaient devant ses désirs. Les rendez-vous se suivirent, se multiplièrent.]{.calibre11}
+
+[Thérèse n\'avait pas de ces doutes. Elle se livrait sans ménagement, allant droit où la poussait sa passion. Cette femme, que les circonstances avaient pliée, et qui se redressait enfin, mettait à nu son être entier, expliquant sa vie.]{.calibre11}
+
+[Parfois elle passait ses bras au cou de Laurent, elle se traînait sur sa poitrine, et, d\'une voix encore haletante :]{.calibre11}
+
+[--- Oh ! si tu savais, disait-elle, combien j\'ai souffert ! J\'ai été élevée dans l\'humidité tiède de la chambre d\'un malade. Je couchais avec Camille ; la nuit, je m\'éloignais de lui, écœurée par l\'odeur fade qui sortait de son corps. Il était méchant et entêté ; il ne voulait pas prendre les médicaments que je refusais de partager avec lui ; pour plaire à ma tante, je devais boire de toutes les drogues. Je ne sais comment je ne suis pas morte... Ils m\'ont rendue laide, mon pauvre ami, ils m\'ont volé tout ce que j\'avais, et tu ne peux m\'aimer comme je t\'aime.]{.calibre11}
+
+[Elle pleurait, elle embrassait Laurent, elle continuait avec une haine sourde :]{.calibre11}
+
+[--- Je ne leur souhaite pas de mal. Ils m\'ont élevée, ils m\'ont recueillie et défendue contre la misère... Mais j\'aurais préféré l\'abandon à leur hospitalité. J\'avais des besoins cuisants de grand air ; toute petite, je rêvais de courir les chemins, les pieds nus dans la poussière, demandant l\'aumône, vivant en bohémienne. On m\'a dit que ma mère était fille d\'un chef de tribu, en Afrique ; j\'ai souvent songé à elle, j\'ai compris que je lui appartenais par le sang et les instincts, j\'aurais voulu ne la quitter jamais et traverser les sables, pendue à son dos... Ah ! quelle jeunesse ! J\'ai encore des dégoûts et des révoltes, lorsque je me rappelle les longues journées que j\'ai passées dans la chambre où râlait Camille. J\'étais accroupie devant le feu ; regardant stupidement bouillir les tisanes, sentant mes membres se roidir. Et je ne pouvais bouger, ma tante grondait quand je faisais du bruit... Plus tard, j\'ai goûté des joies profondes, dans la petite maison du bord de l\'eau ; mais j\'étais déjà abêtie, je savais à peine marcher, je tombais lorsque je courais. Puis on m\'a enterrée toute vive dans cette ignoble boutique.]{.calibre11}
+
+[Thérèse respirait fortement, elle serrait son amant à pleins bras, elle se vengeait, et ses narines minces et souples avaient de petits battements nerveux.]{.calibre11}
+
+[--- Tu ne saurais croire, reprenait-elle, combien ils m\'ont rendue mauvaise. Ils ont fait de moi une hypocrite et une menteuse... Ils m\'ont étouffée dans leur douceur bourgeoise, et je ne m\'explique pas comment il y a encore du sang dans mes veines... J\'ai baissé les yeux, j\'ai eu comme eux un visage morne et imbécile, j\'ai mené leur vie morte. Quand tu m\'as vue, n\'est-ce pas ? j\'avais l\'air d\'une bête. J\'étais grave, écrasée, abrutie. Je n\'espérais plus en rien, je songeais à me jeter un jour dans la Seine... Mais, avant cet affaissement, que de nuits de colère ! Là-bas, à Vernon, dans ma chambre froide, je mordais mon oreiller pour étouffer mes cris, je me battais, je me traitais de lâche. Mon sang me brûlait et je me serais déchiré le corps. À deux reprises, j\'ai voulu fuir, aller devant moi, au soleil ; le courage m\'a manqué, ils avaient fait de moi une brute docile avec leur bienveillance molle et leur tendresse écœurante. Alors j\'ai menti, j\'ai menti toujours. Je suis restée là toute douce, toute silencieuse, rêvant de frapper et de mordre.]{.calibre11}
+
+[La jeune femme s\'arrêtait, essuyant ses lèvres humides sur le cou de Laurent. Elle ajoutait, après un silence :]{.calibre11}
+
+[--- Je ne sais plus pourquoi j\'ai consenti à épouser Camille. Je n\'ai pas protesté, par une sorte d\'insouciance dédaigneuse. Cet enfant me faisait pitié. Lorsque je jouais avec lui, je sentais mes doigts s\'enfoncer dans ses membres comme dans de l\'argile. Je l\'ai pris, parce que ma tante me l\'offrait et que je comptais ne jamais me gêner pour lui... Et j\'ai retrouvé dans mon mari le petit garçon souffrant avec lequel j\'avais déjà couché à six ans. Il était aussi frêle, aussi plaintif, et il avait toujours cette odeur fade d\'enfant malade qui me répugnait tant jadis... Je te dis tout cela pour que tu ne sois pas jaloux... Une sorte de dégoût me montait à la gorge ; je me rappelais les drogues que j\'avais bues, et je m\'écartais, et je passais des nuits terribles... Mais toi, toi...]{.calibre11}
+
+[Et Thérèse se redressait, se pliait en arrière, les doigts pris dans les mains épaisses de Laurent, regardant ses larges épaules, son cou énorme...]{.calibre11}
+
+[--- Toi, je t\'aime, je t\'ai aimé le jour où Camille t\'a poussé dans la boutique... Tu ne m\'estimes peut-être pas, parce que je me suis livrée tout entière, en une fois... Vrai, je ne sais comment cela est arrivé. Je suis fière, je suis emportée. J\'aurais voulu te battre, le premier jour, quand tu m\'as embrassée et jetée par terre dans cette chambre... J\'ignore comment je t\'aimais ; je te haïssais plutôt. Ta vue m\'irritait, me faisait souffrir ; lorsque tu étais là, mes nerfs se tendaient à se rompre, ma tête se vidait, je voyais rouge. Oh ! que j\'ai souffert ! Et je cherchais cette souffrance, j\'attendais ta venue, je tournais autour de ta chaise, pour marcher dans ton haleine, pour traîner mes vêtements le long des tiens. Il me semblait que ton sang me jetait des bouffées de chaleur au passage, et c\'était cette sorte de nuée ardente, dans laquelle tu t\'enveloppais, qui m\'attirait et me retenait auprès de toi, malgré mes sourdes révoltes... Tu te souviens quand tu peignais ici : une force fatale me ramenait à ton côté, je respirais ton air avec des délices cruelles. Je comprenais que je paraissais quêter des baisers, j\'avais honte de mon esclavage, je sentais que j\'allais tomber si tu me touchais. Mais je cédais à mes lâchetés, je grelottais de froid en attendant que tu voulusses bien me prendre dans tes bras...]{.calibre11}
+
+[Alors Thérèse se taisait, frémissante, comme orgueilleuse et vengée. Elle tenait Laurent ivre sur sa poitrine, et, dans la chambre nue et glaciale, se passaient des scènes de passion ardentes, d\'une brutalité sinistre. Chaque nouveau rendez-vous amenait des crises plus fougueuses.]{.calibre11}
+
+[La jeune femme semblait se plaire à l\'audace et à l\'impudence. Elle n\'avait pas une hésitation, pas une peur. Elle se jetait dans l\'adultère avec une sorte de franchise énergique, bravant le péril, mettant une sortie de vanité à le braver. Quand son amant devait venir, pour toute précaution, elle prévenait sa tante qu\'elle montait se reposer ; et, quand il était là, elle marchait, parlait, agissait carrément, sans songer jamais à éviter le bruit. Parfois, dans les commencements, Laurent s\'effrayait.]{.calibre11}
+
+[--- Bon Dieu ! disait-il tout bas à Thérèse, ne fais donc pas tant de tapage. Mme Raquin va monter.]{.calibre11}
+
+[--- Bah ! répondait-elle en riant, tu trembles toujours... Elle est clouée derrière son comptoir ; que veux-tu qu\'elle vienne faire ici ? Elle aurait trop peur qu\'on ne la volât... Puis, après tout, qu\'elle monte, si elle veut. Tu te cacheras... Je me moque d\'elle. Je t\'aime.]{.calibre11}
+
+[Ces paroles ne rassuraient guère Laurent. La passion n\'avait pas encore endormi sa prudence sournoise de paysan. Bientôt, cependant, l\'habitude lui fit accepter, sans trop de terreur, les hardiesses de ces rendez-vous donnés en plein jour, dans la chambre de Camille, à deux pas de la vieille mercière. Sa maîtresse lui répétait que le danger épargne ceux qui l\'affrontent en face, et elle avait raison. Jamais les amants n\'auraient pu trouver un lieu plus sûr que cette pièce où personne ne serait venu les chercher. Ils y contentaient leur amour, dans une tranquillité incroyable.]{.calibre11}
+
+[Un jour, pourtant, Mme Raquin monta, craignant que sa nièce ne fût malade. Il y avait près de trois heures que la jeune femme était en haut. Elle poussait l\'audace jusqu\'à ne pas fermer au verrou la porte de la chambre qui donnait dans la salle à manger.]{.calibre11}
+
+[Lorsque Laurent entendit les pas lourds de la vieille mercière, montant l\'escalier de bois, il se troubla, il chercha fiévreusement son gilet, son chapeau. Thérèse se mit à rire de la singulière mine qu\'il faisait. Elle lui prit le bras avec force, le courba au pied du lit, dans un coin, et lui dit d\'une voix basse et calme :]{.calibre11}
+
+[--- Tiens-toi là... ne remue pas.]{.calibre11}
+
+[Elle jeta sur lui les vêtements d\'homme qui traînaient, et étendit sur le tout un jupon blanc qu\'elle avait retiré. Elle fit ces choses avec des gestes lestes et précis, sans rien perdre de sa tranquillité. Puis elle se coucha, échevelée, demi-nue, encore rouge et frissonnante.]{.calibre11}
+
+[Mme Raquin ouvrit doucement la porte et s\'approcha du lit en étouffant le bruit de ses pas. La jeune femme feignait de dormir. Laurent suait sous le jupon blanc.]{.calibre11}
+
+[--- Thérèse, demanda la mercière avec sollicitude, es-tu malade, ma fille ?]{.calibre11}
+
+[Thérèse ouvrit les yeux, bâilla, se retourna et répondit d\'une voix dolente qu\'elle avait une migraine atroce. Elle supplia sa tante de la laisser dormir. La vieille dame s\'en alla comme elle était venue, sans faire de bruit.]{.calibre11}
+
+[Les deux amants, riant en silence, s\'embrassèrent avec une violence passionnée.]{.calibre11}
+
+[--- Tu vois bien, dit Thérèse triomphante, que nous ne craignons rien ici... Tous ces gens-là sont aveugles : ils n\'aiment pas.]{.calibre11}
+
+[Un autre jour, la jeune femme eut une idée bizarre. Parfois, elle était comme folle, elle délirait.]{.calibre11}
+
+[Le chat tigré, François, était assis sur son derrière, au beau milieu de la chambre. Grave, immobile, il regardait de ses yeux ronds les deux amants. Il semblait les examiner avec soin, sans cligner des paupières, perdu dans une sorte d\'extase diabolique.]{.calibre11}
+
+[--- Regarde donc François, dit Thérèse à Laurent. On dirait qu\'il comprend et qu\'il va ce soir tout conter à Camille... Dis, ce serait drôle, s\'il se mettait à parler dans la boutique, un de ces jours ; il sait de belles histoires sur notre compte...]{.calibre11}
+
+[Cette idée, que François pourrait parler, amusa singulièrement la jeune femme. Laurent regarda les grands yeux verts du chat, et sentit un frisson lui courir sur la peau.]{.calibre11}
+
+[--- Voici comment il ferait, reprit Thérèse. Il se mettrait debout, et, me montrant d\'une patte, te montrant de l\'autre, il s\'écrierait : « Monsieur et Madame s\'embrassent très fort dans la chambre ; ils ne se sont pas méfiés de moi, mais comme leurs amours criminelles me dégoûtent, je vous prie de les faire mettre en prison tous les deux ; ils ne troubleront plus ma sieste. »]{.calibre11}
+
+[Thérèse plaisantait comme un enfant, elle mimait le chat, elle allongeait les mains en façon de griffes, elle donnait à ses épaules des ondulations félines. François, gardant une immobilité de pierre, la contemplait toujours ; ses yeux seuls paraissaient vivants ; et il y avait, dans les coins de sa gueule, deux plis profonds qui faisaient éclater de rire cette tête d\'animal empaillé.]{.calibre11}
+
+[Laurent se sentait froid aux os. Il trouva ridicule la plaisanterie de Thérèse. Il se leva et mit le chat à la porte. En réalité, il avait peur. Sa maîtresse ne le possédait pas encore entièrement ; il restait au fond de lui un peu de ce malaise qu\'il avait éprouvé sous les premiers baisers de la jeune femme.]{.calibre11}

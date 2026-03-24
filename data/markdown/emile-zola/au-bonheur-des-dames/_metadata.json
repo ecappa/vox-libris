@@ -1,0 +1,164 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "AU BONHEUR DES DAMES",
+  "slug": "au-bonheur-des-dames",
+  "nombre_chapitres": 14,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 238,
+      "spine_end_exclusive": 239,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_237.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 239,
+      "spine_end_exclusive": 240,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_238.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 240,
+      "spine_end_exclusive": 241,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_239.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 241,
+      "spine_end_exclusive": 242,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_240.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 242,
+      "spine_end_exclusive": 243,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_241.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 243,
+      "spine_end_exclusive": 244,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_242.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 244,
+      "spine_end_exclusive": 245,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_243.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 245,
+      "spine_end_exclusive": 246,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_244.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 246,
+      "spine_end_exclusive": 247,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_245.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 247,
+      "spine_end_exclusive": 248,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_246.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 248,
+      "spine_end_exclusive": 249,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_247.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 249,
+      "spine_end_exclusive": 250,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_248.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 250,
+      "spine_end_exclusive": 251,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_249.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 251,
+      "spine_end_exclusive": 252,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_250.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 252,
+      "spine_end_exclusive": 254,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_251.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_252.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/au-bonheur-des-dames/Zola1_image027.jpg"
+  ]
+}

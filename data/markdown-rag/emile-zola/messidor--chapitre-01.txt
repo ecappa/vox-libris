@@ -1,0 +1,42 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MESSIDOR"
+slug_oeuvre: "messidor"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+MESSIDOR
+
+Liste des oeuvres poétiques et lyriques
+
+] !
+
+## Personnages
+VÉRONIQUE
+HÉLÈNE
+GUILLAUME
+MATHIAS
+LE BERGER
+GASPARD
+LE PRÊTRE
+
+*Paysans et paysannes, ouvriers et ouvrières.* *Procession des Rogations*.
+
+!
+
+PERSONNAGES DU BALLET
+
+L'AMANTE
+LA REINE
+L'OR
+
+De nos jours, au pays de Bethmale (Ariège).
+
+!

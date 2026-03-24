@@ -1,0 +1,67 @@
+::::: WordSection
+# [!{#Image8 .calibre9}]{.calibre8}[ ]{.calibre8} ÉLOGE : OBSÈQUES D'ALPHONSE DAUDET {#calibre_toc_8 .calibre1}
+
+::: MsoNormal1
+
+------------------------------------------------------------------------
+
+[1897]{.calibre13}
+
+Émile ZOLA
+
+ÉLOGES ET DISCOURS
+
+::: MsoNormal2
+
+------------------------------------------------------------------------
+
+[[[Liste des éloges et discours]{.calibre16 lang="FR"}](../Text/Zola6_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}[
+
+
+:::::
+
+
+::: WordSection
+[
+]{.calibre22}
+
+!{#Image1019 .calibre37}
+
+
+::: WordSection
+*[
+]{.calibre25}*
+
+20 décembre 1897
+
+
+Mes mains sont pleines de couronnes, et j'ai des fleurs sans nombre à déposer sur ce tombeau où va dormir Alphonse Daudet, l'ami tendrement aimé, le grand écrivain, le grand romancier que pleure la patrie française.
+
+Ces fleurs-ci, les premières, ce sont celles de tous ceux qui l'ont connu, approché, qui ont vécu dans son intimité fraternelle. Et il en est qui viennent de loin, de plus de trente années d'amitié sans un nuage, sans une brouille ; il en est de moins lointaines, il en est de récentes, car il est allé sans cesse en conquérant les cœurs ; le flot de ceux qui l'ont aimé n'a fait que grossir, d'un bout à l'autre de son existence, comme pour lui faire jusqu'ici un royal cortège.
+
+Ces autres fleurs, ce sont ses lecteurs innombrables qui m'ont chargé de les donner. La gerbe en est immense, elle vient de l'admiration des hommes, de l'enthousiasme des adolescents dont l'intelligence s'ouvre à la vie, de la passion des femmes qui ont frissonné, qui ont pleuré sur tant de pages de pitié et de tendresse.
+
+Tout un peuple ravi est là, derrière moi, apportant son émotion, le remercîment de son âme élargie et enchantée.
+
+Et ces palmes, enfin, ces fleurs et ces verdures d'immortalité, ce sont ses pairs, les écrivains, qui les envoient, ce sont aussi tous ceux qui distribuent les récompenses en ce monde, les maîtres et les puissants, dont la charge est d'honorer la nation en rendant hommage aux grands hommes. Le talent, le génie n'a pas à être grandi ni par les honneurs ni par les académiciens. Le fêter même dans la mort n'est faire qu'une œuvre saine pour la gloire du peuple où il a brûlé comme un phare.
+
+
+Et c'est pourquoi il a été un créateur d'êtres, parce qu'il leur donnait le souffle, parce qu'il en faisait des vivants, s'agitant dans une atmosphère vivante. Il existe, par le monde, des enfants de lui, de vrais enfants de chair et d'os, nés de sa toute-puissance littéraire, que nous coudoyons sur les trottoirs, que nous reconnaissons en les appelant par leurs noms. Et il n'est pas, pour un romancier, de gloire plus grande, de triomphe plus éclatant et plus durable !
+
+Si j'ai été choisi pour rendre ici à Daudet un hommage que je voudrais absolu, définitif, dans un cri unique où je me donnerais tout entier, ce n'est pas seulement parce que je suis le compagnon, l'ami de tant d'années vécues côte à côte, c'est surtout parce que je suis un témoin, le dernier qui reste, celui qui peut dire ce que nous pensions de son œuvre, nous tous dont les œuvres ont grandi près de la sienne. Des rivaux, ah ! oui, car nous n'avions pas tous les mêmes idées, nous n'avons jamais été enrégimentés, mais de bons frères d'armes pourtant, voyant clair, faisant à chacun de nous sa part légitime de gloire. Et Daudet a toujours été pour nous l'esprit le plus libre, le plus dégagé des formules, le plus honnête devant les faits. Je l'ai déjà dit ailleurs, il a été le réaliste respectueux de la vérité moyenne, qu'il se contentait de vivifier du flot intarissable de sa pitié et de son ironie, lorsque nous étions, nous autres, des lyriques plus ou moins déguisés, issus du romantisme. Ce sera son éternel mérite, cet amour apitoyé des humbles, ce rire moqueur poursuivant les sots et les méchants, tant de bonté et tant de juste satire qui trempent chacun de ses livres d'une humanité frémissante.
+
+Dire ici sa vie, est-ce que chacun ne la connaît pas ? Parler de ses œuvres nombreuses, est-ce qu'elles ne sont pas dans toutes les mémoires ? Il a écrit vingt chefs-d'œuvre ; il y a dans *Sapho* une plainte de l'inextinguible passion qui clamera l'amour aussi longtemps que *Le Cantique des Cantiques* et que *Manon Lescaut*. Les pages du *Nabab*, de *Numa Roumestan*, des *Rois en exil*, sont d'admirables tableaux, des créations intenses, désormais impérissables dans notre littérature. Certains de ses contes surtout resteront d'absolues merveilles, d'une délicatesse de bijoux, d'une solidité de métal précieux, qui sûrement deviendront classiques, au sens de parfaits modèles. Et il arrive ce fait, lorsque la tombe s'ouvre, c'est que l'admiration a beau avoir été grande pour l'écrivain vivant, on s'aperçoit qu'on ne l'a point assez admiré ; on sent le besoin d'exalter l'écrivain mort. La perte est si grande, le vide tout d'un coup si béant, qu'aucun écrivain à naître ne semble devoir le combler.
+
+S'il me fallait assigner une place définitive à Daudet, je dirais qu'il a été au premier rang de la phalange sacrée qui a combattu le bon combat de la vérité dans cette seconde moitié du siècle. Ce sera la gloire de ce siècle d'avoir marché à la vérité par le labeur le plus colossal que jamais siècle ait accompli. Et Daudet a été avec nous tous parmi les plus braves et les plus hardi, car il ne faut pas s'y tromper, son œuvre, dans son charme, dans sa douceur, est une de celles qui ont jeté le plus haut le cri de pitié, le cri de justice. Elle fait partie, désormais, de la vaste enquête continuée par notre génération, elle restera comme un témoignage décisif, la suite solide et logique des documents sociaux que Stendhal et Balzac, que Flaubert et les Goncourt ont laissés.
+
+Et, puisque j'ai nommé ces grands aînés, me permettez-vous, mon cher Léon, vous que j'ai vu presque au berceau, vous, si jeune encore et déjà glorieux, me permettez-vous de rappeler un souvenir de votre petite enfance ? Votre imagination passionnée, s'éveillait déjà, et, lorsque le grand Flaubert, le noble Goncourt, de taille haute, d'allure conquérante, allaient s'asseoir chez vous à l'amicale et si douce table de famille, vous les regardiez de vos yeux d'enfant extasié, vous demandiez tout bas à votre père : « Ceux-là sont-ils donc des géants ? » Comme si des héros étaient débarqués là de quelque contrée lointaine et merveilleuse. Et c'étaient, en effet, des géants, de bons géants, ouvriers de vérité et de beauté, et ce sont ces géants que votre père est allé retrouver dans la tombe, aussi grand qu'eux, de même taille par la besogne accomplie, couché dans la même fraternité, dans la même gloire. Nous étions quatre frères, trois sont partis déjà et je reste seul.
+
+C'est vous que j'embrasse, mon cher Léon, pour moi et pour ceux qui ne sont plus ; c'est vous que je charge d'embrasser votre frère Lucien, votre sœur Edmée, de dire à votre admirable mère, la conseillère et l'inspiratrice, que ses larmes sont les nôtres, que toute cette immense foule accourue pleure ses larmes. Il n'y a, ici, que des cœurs serrés par l'angoisse. La patrie française a perdu une de ses gloires, et qu'il dorme donc enfin son bon sommeil d'immortalité, sous ses couronnes et sous les palmes, l'écrivain qui a tant travaillé, l'homme qui a tant souffert, mon frère deux fois sacré par le génie et par la douleur !
+
+
+::: WordSection
+[
+]{.calibre32}
+
+
+[[Liste des éloges et discours]{.calibre28}](../Text/Zola6_split_000.htm){.pcalibre .pcalibre1}[

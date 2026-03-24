@@ -1,0 +1,1284 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+[]{#_Toc368776704 .pcalibre .pcalibre1}[]{#_Toc368776366 .pcalibre .pcalibre1}[]{#_Toc368776028 .pcalibre .pcalibre1}[]{#_Toc368775690 .pcalibre .pcalibre1}[]{#_Toc368775352 .pcalibre .pcalibre1}[]{#_Toc368775014 .pcalibre .pcalibre1}[!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778732 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778394 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778056 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777718 .pcalibre .calibre3 .pcalibre1}[Livre I]{#_Toc368777380 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_128 .calibre25}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+[Livre I]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778733 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778395 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778057 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777719 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777381 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776705 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776367 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776029 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775691 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775353 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775015 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368774677 .pcalibre .calibre3 .pcalibre1} {#i .calibre47 .sigil_not_in_toc}
+
+
+[C'était, après deux mois de froid terrible, de neige et de glace, un Paris noyé sous un dégel morne et frissonnant. Du vaste ciel, couleur de plomb, tombait le deuil d'une brume épaisse. Tout l'est de la ville, les quartiers de misère et de travail, semblaient submergés dans des fumées roussâtres, où l'on devinait le souffle des chantiers et des usines ; tandis que, vers l'ouest, vers les quartiers de richesse et de jouissance, la débâcle du brouillard s'éclairait, n'était plus qu'un voile fin, immobile de vapeur. On devinait à peine la ligne ronde de l'horizon, le champ sans bornes des maisons apparaissait tel qu'un chaos de pierres, semé de mares stagnantes, qui emplissaient les creux d'une buée pâle, et sur lesquelles se détachaient les crêtes des édifices et des rues hautes, d'un noir de suie. Un Paris de mystère, voilé de nuées, comme enseveli sous la cendre de quelque désastre, disparu à demi déjà dans la souffrance et dans la honte de ce que son immensité cachait.]{.calibre11}
+
+[Pierre regardait, maigre et sombre, vêtu de sa soutane mince, lorsque l'abbé Rose, qui semblait s'être abrité derrière un pilier du porche, pour le guetter, vint à sa rencontre.]{.calibre11}
+
+[« Ah ! C'est vous enfin, mon cher enfant. J'ai quelque chose à vous demander. »]{.calibre11}
+
+[Il semblait gêné, inquiet. D'un regard méfiant, il s'assura que personne n'était là. Puis, comme si la solitude ne suffisait pas à la rassurer il l'emmena à quelque distance, dans la bise glaciale qui soufflait, et qu'il paraissait ne pas sentir.]{.calibre11}
+
+[« Voici, c'est un pauvre homme dont on m'a parlé, un ancien ouvrier peintre, un vieillard de soixante-dix ans, qui naturellement ne peut plus travailler, et qui est en train de mourir de faim, dans un taudis de la rue des Saules... Alors, mon cher enfant, j'ai songé à vous, j'ai pensé que vous consentiriez à lui porter ces trois francs de ma part, pour qu'il ait au moins du pain pendant quelques jours.]{.calibre11}
+
+[--- Mais pourquoi n'allez-vous pas lui faire votre aumône vous-même ? »]{.calibre11}
+
+[De nouveau, l'abbé Rose s'inquiéta, s'effara, avec des regards peureux et confus.]{.calibre11}
+
+[« Oh ! Non, oh ! Non, je ne peux plus, moi, après tous les ennuis qui me sont arrivés. Vous savez qu'on me surveille et qu'on me gronderait encore, si l'on me surprenait à donner ainsi, sans bien savoir à qui je donne. Il est vrai que, pour avoir ces trois francs, j'ai dû vendre quelque chose... Je vous en supplie, mon cher enfant, rendez-moi ce service. »]{.calibre11}
+
+[Le coeur serré, Pierre considérait le bon prêtre tout blanc, avec sa grosse bouche de bonté, ses yeux clairs d'enfant, dans sa face ronde et souriante. Et l'histoire de cet amant de la pauvreté lui revenait en un flot d'amertume, la disgrâce où il était tombé, pour sa candeur sublime de saint homme charitable. Son petit rez-de-chaussée de la rue de Charonne, dont il faisait un asile, où il recueillait toutes les misères de la rue, avait fini par devenir une cause de scandale. On y abusait de sa naïveté, de son innocence, et des abominations se passaient chez lui, sans qu'il les soupçonnât. Des filles y allaient, lorsqu'elles n'avaient pas trouvé d'hommes pour les emmener. D'infâmes rendez-vous s'y donnaient, toute une promiscuité monstrueuse. Enfin, une belle nuit, la police y avait fait une descente, pour y arrêter une fillette de treize ans, accusée d'infanticide. Très émue, l'autorité diocésaine avait forcé l'abbé Rose à fermer son asile, et l'avait déplacé de l'église Sainte-Marguerite, en l'envoyant à Saint-Pierre-de-Montmartre, où il avait retrouvé sa place de vicaire. Ce n'était pas une disgrâce, mais un simple éloignement. On l'avait grondé, on le surveillait, comme il le disait lui-même, et il était très honteux, très malheureux de ne pouvoir plus donner qu'en se cachant, tel qu'un prodigue écervelé qui rougit de ses fautes.]{.calibre11}
+
+[Pierre prit les trois francs.]{.calibre11}
+
+[« Je vous promets, mon ami, de faire votre commission, ah ! De tout mon coeur.]{.calibre11}
+
+[--- Allez-y après votre messe, n'est-ce pas ? Il s'appelle Laveuve, il habite la rue des Saules, une maison avec une cour, avant d'arriver à la rue Marcadet. Vous trouverez bien... Et si vous étiez gentil, vous viendriez me rendre compte de votre visite, ce soir vers cinq heures, à la Madeleine, où j'irai entendre la conférence de Mgr Martha. Il a été si bon pour moi !... N'y viendrez-vous pas l'entendre vous-même ? »]{.calibre11}
+
+[Pierre répondit d'un geste évasif. Mgr Martha, évêque de Persépolis, très puissant à l'archevêché, depuis qu'il s'était employé à décupler les souscriptions pour le Sacré-Coeur, en propagandiste vraiment génial, avait en effet soutenu l'abbé Rose ; et c'était lui qui avait obtenu qu'on le laissât à Paris, en le replaçant à Saint-Pierre-de-Montmartre.]{.calibre11}
+
+[« Je ne sais si je pourrai assister à la conférence, dit Pierre. En tout cas, j'irai sûrement vous y retrouver. »]{.calibre11}
+
+[La bise soufflait, un froid noir les pénétrait tous deux, sur ce sommet désert, dans le brouillard qui changeait la grande ville en un océan de brume. Mais un pas se fit entendre, et l'abbé Rose, repris de méfiance, vit un homme passer, très grand, très fort, chaussé en voisin de galoches, et la tête nue, d'épais cheveux blancs, coupés ras.]{.calibre11}
+
+[« N'est-ce point votre frère ? » demanda le vieux prêtre.]{.calibre11}
+
+[Pierre n'avait pas eu un mouvement. Il répondit d'une voix tranquille :]{.calibre11}
+
+[« C'est mon frère Guillaume, en effet. Je l'ai retrouvé, depuis que je viens parfois ici, au Sacré-Coeur. Il possède là, tout près, une maison qu'il habite depuis plus de vingt ans, je crois. Quand je le rencontre, nous nous serrons la main. Mais je ne suis pas même allé chez lui... Ah ! Tout est bien mort entre nous, rien ne nous est plus commun, des mondes nous séparent. »]{.calibre11}
+
+[Le sourire si tendre de l'abbé Rose reparut, et il eut un geste de la main, comme pour dire qu'il ne fallait jamais désespérer de l'amour. Guillaume Froment, un savant d'intelligence haute, un chimiste qui vivait à l'écart, en révolté, était maintenant son paroissien, et il devait rêver de le reconquérir à Dieu, lorsqu'il passait près de la maison qu'il occupait avec ses trois grands fils, bourdonnante de travail.]{.calibre11}
+
+[« Mais, mon cher enfant, reprit-il, je vous tiens là, dans ce froid noir, et vous n'avez pas chaud... Allez dire votre messe. À ce soir, à la Madeleine. »]{.calibre11}
+
+[Puis suppliant, s'assurant de nouveau que personne ne les écoutait, il ajouta de son air d'enfant toujours en faute :]{.calibre11}
+
+[« Et pas un mot à personne de ma petite commission. On dirait encore que je ne sais pas me conduire. »]{.calibre11}
+
+[Pierre le regarda s'éloigner dans la direction de la rue Cortot, où le vieux prêtre habitait un rez-de-chaussée humide, qu'un bout de jardin égayait. La cendre de désastre qui noyait Paris semblait s'épaissir, sous les rafales de la bise placée. Et il entra enfin dans la basilique, le coeur ravagé, débordant de l'amertume que venait d'y remuer cette histoire, cette banqueroute de la charité, l'ironie affreuse du saint homme puni pour avoir donné, se cachant pour donner toujours. Rien ne calma la cuisson de la blessure rouverte en lui, ni la paix tiède dans laquelle il pénétrait, ni la solennité muette du large et profond vaisseau, d'une nudité de pierres neuves, sans tableaux, sans décoration d'aucune sorte, la nef à demi barrée par la charpente qui bouchait la coupole du dôme encore en construction. À cette heure matinale, sous la lumière grise que laissaient tomber les hautes et minces baies, des messes de supplication étaient déjà dites à plusieurs autels, des cierges d'imploration brûlaient au fond de l'abside. Et il se hâta d'aller, à la sacristie, revêtir les vêtements sacrés, pour dire sa messe à la chapelle de Saint-Vincent-de-Paul.]{.calibre11}
+
+[Mais les souvenirs venaient d'être lâchés, Pierre n'était plus qu'à sa détresse, tandis que, machinalement, il accomplissait les rites, faisait les gestes professionnels. Depuis son retour de Rome, depuis trois ans, il vivait dans la pire angoisse où puisse tomber un homme. D'abord, pour retrouver la croyance perdue, il avait tenté une première expérience, il était allé à Lourdes chercher la foi naïve de l'enfant qui s'agenouille et qui prie, la primitive foi des peuples jeunes, courbés sous la terreur de leur ignorance ; et il s'était révolté davantage devant la glorification de l'absurde, la déchéance du sens commun, convaincu que le salut, la paix des hommes et des peuples d'aujourd'hui ne saurait être dans cet abandon puéril de la raison. Ensuite, repris du besoin d'aimer, tout en faisant la part intellectuelle de cette raison exigeante, il avait joué sa paix dernière dans une seconde expérience, il était allé à Rome voir si le catholicisme pouvait se renouveler, revenir à l'esprit du christianisme naissant, être la religion de la démocratie, la foi que le monde moderne, bouleversé, en danger de mort, attendait pour s'apaiser et vivre ; et il n'y avait trouvé que des décombres, que le tronc pourri d'un arbre incapable d'un nouveau printemps, il n'y avait entendu que le craquement suprême du vieil édifice social, près de crouler. C'était alors, rendu au doute immense, à la négation totale, qu'il était revenu à Paris, rappelé par l'abbé Rose, au nom de leurs pauvres, pour s'oublier, pour s'immoler, pour croire en eux, puisque eux seuls restaient, avec leurs effroyables souffrances ; et c'était alors qu'il s'était heurté, depuis trois ans, à cet effondrement, cette banqueroute de la bonté elle-même, la charité dérisoire, la charité inutile et bafouée.]{.calibre11}
+
+[Ces trois années, Pierre venait de les vivre dans une tourmente sans cesse accrue, où son être entier avait fini par sombrer. Sa foi était morte à jamais, son espérance même était morte d'utiliser la foi des foules pour le salut commun. Il niait tout, il n'attendait plus que la catastrophe finale, inévitable, la révolte, le massacre, l'incendie, qui devaient balayer un monde coupable et condamné. Prêtre sans croyance veillant sur la croyance des autres, faisant chastement, honnêtement son métier, dans la tristesse hautaine de n'avoir pu renoncer à son intelligence, comme il avait renoncé à sa chair d'amoureux et à son rêve de sauveur des peuples, il restait quand même debout, d'une grandeur solitaire et farouche. Et ce négateur désespéré, qui avait touché le fond du néant, gardait une attitude si haute et si grave, parfumée d'une bonté si pure, qu'il avait, dans sa paroisse de Neuilly, acquis la réputation d'un jeune saint, aimé de Dieu, dont la prière obtenait des miracles. Il était la règle, il n'avait plus que le geste du prêtre, sans l'âme immortelle, tel qu'un sépulcre vide où ne restait pas même la cendre de l'espoir ; et des femmes douloureuses, des paroissiennes en larmes l'adoraient, baisaient sa soutane, et c'était une mère torturée ayant un enfant au berceau en danger de mort, qui l'avait supplié de venir demander la guérison à Jésus, certaine que Jésus la lui accorderait, dans ce sanctuaire de Montmartre, où flambait le prodige de son coeur incendié d'amour.]{.calibre11}
+
+[Cependant, Pierre, revêtu des vêtements sacrés, avait gagné la chapelle de Saint-Vincent-de-Paul. Il y monta le degré de l'autel, il commença la messe ; et, quand il se retourna, les mains élargies, pour bénir, il apparut avec sa face creusée, sa bouche de douceur amincie d'amertume, ses yeux de tendresse devenus noirs de souffrance. Ce n'était plus le jeune prêtre au visage brûlé de fièvre tendre allant à Lourdes, au visage illuminé d'apôtre partant pour Rome. Sa double hérédité en éternelle lutte, son père dont il tenait la tour inexpugnable de son front, sa mère qui lui avait donné ses lèvres altérées d'amour, continuaient le combat, toute la bataille humaine du sentiment et de la raison, dans cette face aujourd'hui ravagée, où montait aux minutes d'oubli le chaos de la détresse intérieure. Les lèvres avouaient encore la soif inassouvie d'aimer de se donner et de vivre, qu'il croyait bien ne devoir plus contenter jamais, tandis que le front solide, la citadelle dont il souffrait s'entêtait à ne point se rendre, sous les assauts de l'erreur. Mais il se raidissait, cachait l'épouvante du vide où il se débattait, demeurait superbe, faisait les gestes, disait les paroles, souverainement. Et la mère qui était là, parmi les quelques femmes agenouillées la mère qui attendait de lui une intercession suprême qui le croyait en colloque avec Jésus pour le salut de son enfant, le voyait rayonner au travers de ses larmes, d'une beauté d'ange, messager des grâces divines.]{.calibre11}
+
+[Après l'offertoire, lorsque Pierre découvrit le calice, il se prit en dédain. L'ébranlement était trop profond, il pensait quand même à ces choses. Quel enfantillage, dans ses deux expériences à Lourdes et à Rome, quelle naïveté de pauvre être éperdu, dévoré du besoin d'aimer et de croire ! S'être imaginé que la science actuelle, en lui, allait s'accommoder avec la foi de l'An mille, et surtout avoir eu la sottise d'espérer que lui, petit prêtre, allait faire la leçon au pape, le déterminer à être un saint et à changer la face du monde ! Il en était plein de honte, comme on avait dû rire de lui ! Puis, c'était aussi son idée d'un schisme qui le faisait rougir. Il se revoyait à Rome, rêvant d'écrire un livre, où il se séparerait violemment du catholicisme, pour prêcher la religion nouvelle des démocraties, l'évangile épuré, humain et vivant.]{.calibre11}
+
+[Quelle ridicule folie ! Un schisme ! Il avait connu à Paris un abbé de grand coeur et de grand esprit, qui avait tenté de l'accomplir, ce fameux schisme annoncé, attendu. Ah ! Le pauvre homme, la triste et dérisoire besogne, au milieu de l'incrédulité universelle, de l'indifférence glacée des uns, des moqueries et des injures des autres ! Si Luther revenait de nos jours, il finirait à un cinquième des Batignolles, oublié et mourant de faim. Un schisme ne peut réussir dans un peuple qui ne croit plus, qui s'est désintéressé de l'Église, pour mettre ailleurs son espoir. C'était tout le catholicisme, c'était même tout le christianisme qui allait être emporté, car l'évangile, en dehors de quelques maximes morales, n'était plus un code social possible. Et cette certitude augmentait son tourment, les jours où la soutane pesait plus lourde à ses épaules où il finissait par se mépriser, de célébrer ainsi le mystère divin de cette messe, qui était devenue pour lui le geste d'une religion morte.]{.calibre11}
+
+[Pierre, qui avait empli le calice à demi du vin des burettes, se lava les mains et aperçut de nouveau la mère, avec son visage d'ardente supplication. Alors, il pensa que c'était pour elle, dans une pensée charitable d'homme lié par un serment, qu'il était resté prêtre, prêtre sans croyance nourrissant du pain de l'illusion la croyance des autres. Mais cette héroïque attitude, ce devoir hautain où il s'enfermait, n'allait plus pour lui sans une angoisse croissante. La simple probité ne lui commandait-elle pas de jeter la soutane, de retourner parmi les hommes ? Sa situation fausse, à certaines heures, l'emplissait du dégoût de son héroïsme inutile, et il se demandait de nouveau s'il n'était pas lâche et dangereux de laisser vivre les foules dans leur superstition. Certes, le mensonge d'un Dieu de justice et de vigilance, d'un paradis futur où étaient rachetées toutes les souffrances d'ici-bas, avait longtemps semblé nécessaire aux misères des pauvres hommes ; mais quel leurre, quelle exploitation tyrannique des peuples, et combien il serait plus viril d'opérer les peuples brutalement, en leur donnant le courage de vivre la vie réelle, même dans les larmes ! Déjà, s'ils se détournaient du christianisme, n'était-ce pas qu'ils avaient le besoin d'un idéal plus humain, d'une religion de santé et de joie, qui ne serait pas une religion de la mort ? Le jour où l'idée de charité croulerait le christianisme croulerait avec elle, car il était bâti sur la charité divine corrigeant l'injustice fatale, ouvrant les récompenses futures à qui aurait souffert en cette vie. Et elle croulait, les pauvres n'y croyaient plus, se fâchaient devant ce paradis menteur dont la promesse avait si longtemps entretenu leur patience, exigeaient qu'on ne les renvoyât pas au lendemain du tombeau, pour le règlement de leur part de bonheur. Un cri de justice montait de toutes les lèvres, la justice sur cette terre, la justice pour ceux qui ont faim, que l'aumône est lasse de secourir depuis dix-huit siècles d'évangile, et qui n'ont toujours pas de pain à manger.]{.calibre11}
+
+[Lorsque, les coudes sur la table de l'autel, Pierre eut vidé le calice, après y avoir brisé l'hostie, il se sentit tomber à une détresse plus grande. Ainsi donc, c'était une troisième expérience qui commençait pour lui, ce combat suprême de la justice contre la charité, où allaient se débattre son coeur et sa raison, dans ce grand Paris, si voilé de cendre, si plein d'un terrible inconnu ? Le besoin du divin luttait encore en lui contre l'intelligence dominatrice. Comment contenterait-on jamais, chez les foules, la soif du mystère ? En dehors de l'élite, la science suffirait-elle pour apaiser le désir, bercer la souffrance, rassasier le rêve ? Et qu'allait-il devenir lui-même, dans la banqueroute de cette charité qui, seule, depuis trois ans, le tenait debout, en occupant toutes ses heures en lui donnant l'illusion de se dévouer, d'être utile aux autres ? D'un coup, la terre manquait sous ses pieds, il n'entendait plus que le cri du peuple, du grand muet, demandant justice, grondant et menaçant de reprendre sa part, qu'on détenait par la force et la ruse. Plus rien ne pouvait retarder la catastrophe inévitable, la guerre fratricide des classes qui emporterait le vieux monde condamné à disparaître sous l'amas de ses crimes. À chaque heure il en attendait l'effondrement, Paris noyé de sang, Paris en flammes, dans une tristesse affreuse. Et son horreur de la violence le glaçait, il ne savait où prendre la croyance nouvelle qui devait conjurer le péril, ayant bien conscience que le problème social et religieux ne faisait qu'un, était seul en question dans l'effroyable et quotidien labeur de Paris, mais trop troublé lui-même, trop mis à l'écart par la prêtrise, trop déchiré de doute et d'impuissance, pour dire encore où était la vérité, la santé, la vie. Ah ! être sain, vivre, contenter enfin sa raison et son coeur, dans la paix, dans la besogne certaine, simplement honnête, que l'homme est venu accomplir sur la terre !]{.calibre11}
+
+[La messe était dite, et Pierre descendait de l'autel, quand la mère en larmes, près de laquelle il passait, saisit de ses mains tremblantes un coin de la chasuble et la baisa éperdument, comme on baise la relique du saint dont on attend le salut. Elle le remerciait du miracle qu'il avait dû faire, certaine de retrouver son enfant guéri. Il fut profondément ému de cet amour, de cette foi brûlante, malgré la brusque détresse qu'il éprouva plus affreuse, à n'être pas le ministre souverain que cette femme croyait, capable d'obtenir un sursis de la mort. Mais il la renvoyait consolée, raffermie, et ce fut d'un voeu ardent qu'il supplia la Force ignorée et consciente, s'il en existait une, de venir en aide à la pauvre créature. Puis, lorsqu'il se fut dévêtu, dans la sacristie, et qu'il se retrouva dehors, devant la basilique, fouetté par la bise d'hiver, un frisson mortel le reprit et le glaça, tandis qu'il regardait, au travers de la brume, si l'ouragan de colère et de justice n'avait pas balayé Paris, la catastrophe attendue qui devait l'engloutir un matin, en ne laissant, sous le ciel de plomb, que le marais empesté de ses décombres.]{.calibre11}
+
+[Tout de suite, Pierre voulut faire la commission de l'abbé Rose. Il suivit la rue de Norvins, sur la crête de Montmartre, gagna la rue des Saules, dont il descendit la pente raide, entre des murs moussus, de l'autre côté de Paris. Les trois francs qu'il tenait dans sa main, au fond de la poche de sa soutane, l'emplissaient à la fois d'une émotion attendrie et d'une sourde colère contre l'inutile charité. Mais, à mesure qu'il dévalait, par les raidillons, par les étages d'escaliers interminables, des coins de misère entrevus le reprenaient, une infinie pitié lui serrait le coeur. Il y avait là tout un quartier neuf en construction, le long des larges voies ouvertes, depuis les grands travaux du Sacré-Coeur. De hautes et bourgeoises maisons se dressaient déjà, au milieu des jardins éventrés, parmi des terrains vagues, entourés encore de palissades. Et avec leurs façades cossues, d'une blancheur neuve, elles ne faisaient que rendre plus sombres, plus lépreuses, les vieilles bâtisses branlantes restées debout, des guinguettes louches aux murs sang-de-boeuf, des cités de souffrance aux bâtiments noirs et souillés, où du bétail humain s'entassait. Ce jour-là, sous le ciel bas, la boue noyait le pavé défoncé par les charrois, le dégel trempait les murs d'une humidité glaciale, tandis qu'une tristesse atroce montait de tant de saleté et de souffrance.]{.calibre11}
+
+[Pierre, qui était allé jusqu'à la rue Marcadet, revint sur ses pas. Il entra, rue des Saules, certain de ne pas se tromper, dans la cour d'une sorte de caserne ou d'hôpital, que trois bâtiments irréguliers entouraient. Cette cour était un cloaque, où les ordures avaient dû s'amasser pendant les deux mois de terrible gelée, et tout fondait maintenant, une abominable odeur s'exhalait du lac de fange immonde. Les bâtiments croulaient à demi, des vestibules béants s'ouvraient comme des trous de cave, des taies de papier bariolaient les vitres crasseuses, des loques pendaient infâmes, telles que des drapeaux de mort. Au fond de l'échoppe qui servait de loge au concierge, Pierre n'aperçut qu'un homme infirme, roulé dans le lambeau sans nom d'une ancienne couverture de cheval.]{.calibre11}
+
+[« Vous avez ici un vieil ouvrier du nom de Laveuve. Quel escalier, quel étage ? »]{.calibre11}
+
+[L'homme ne répondit pas, arrondit des yeux inquiets d'idiot qui s'effare. Sans doute la concierge était dans le voisinage. Un instant, le prêtre attendit ; puis, apercevant une petite fille au fond de la cour, il se hasarda, traversa le cloaque sur la pointe des pieds.]{.calibre11}
+
+[« Mon enfant, connais-tu, dans la maison, un vieil ouvrier qui s'appelle Laveuve ? »]{.calibre11}
+
+[La petite fille, dont le maigre corps n'était vêtu que d'une robe de toile rose, en guenilles, grelottait, les mains couvertes d'engelures. Elle leva son fin visage, joli sous les morsures du froid.]{.calibre11}
+
+[« Laveuve, non, sais pas, sais pas... »]{.calibre11}
+
+[Et, de son geste inconscient de mendiante, elle tendit l'une de ses pauvres mains, gourdes et massacrées. Puis, lorsqu'il lui eut donné une petite pièce blanche, elle se mit à galoper, telle qu'une chèvre joyeuse, au travers de la boue, en chantant d'une voix aiguë :]{.calibre11}
+
+[« Sais pas, sais pas, sais pas... »]{.calibre11}
+
+[Il prit le parti de la suivre. Elle avait disparu dans un des vestibules béants, et il monta derrière elle un escalier sombre et fétide, aux marches à demi rompues, rendues si glissantes par des épluchures de légumes, qu'il dut s'aider de la corde graisseuse, grâce à laquelle on se hissait. Mais toutes les portes étaient closes, il frappa inutilement à plusieurs, il n'obtint à la dernière que des grognements étouffés, comme si quelque animal désespéré était enfermé là. Redescendu dans la cour, il hésita, puis s'engagea dans un autre escalier. Et, cette fois, il fut assourdi par des cris perçants, des cris d'enfant qu'on égorge. Il monta au bruit, il finit par se trouver devant une chambre grande ouverte, dans laquelle un enfant, laissé seul, attaché sur sa petite chaise, sans doute pour qu'il ne tombât pas, hurlait sans reprendre haleine. Il redescendit de nouveau, bouleversé, le sang glacé par tant de dénuement et d'abandon.]{.calibre11}
+
+[Mais une femme rentrait, rapportant trois pommes de terre dans son tablier ; et, comme il la questionnait, elle regarda sa soutane avec méfiance.]{.calibre11}
+
+[« Laveuve, Laveuve, je ne peux pas dire. Si la concierge était là, elle vous dirait peut-être... Vous comprenez, il y a cinq escaliers, on ne se connaît pas tous, et puis ça change si souvent... Voyez tout de même là, au fond. »]{.calibre11}
+
+[Cet escalier du fond était plus abominable que les autres, les marches déjetées, les murs gluants, comme trempés d'une sueur d'angoisse. À chaque palier, les plombs soufflaient une haleine de peste, et de chaque logement sortaient des plaintes, des querelles, un affreux dégoût de misère. Une porte battit, un homme apparut, traînant une femme par les cheveux, pendant que trois mioches pleuraient. À l'étage supérieur, ce fut, dans une pièce entrevue, la vision d'une fille chétive et toussant, la gorge flétrie déjà, qui promenait violemment un poupon, pour le faire taire, désespérée de n'avoir plus de lait. Puis, ce fut encore, dans un logement d'à côté, la vue poignante de trois êtres, à demi vêtus de haillons, sans sexe ni âge, qui, au milieu de la nudité absolue de la chambre, mangeaient gloutonnement, à la même terrine, une pâtée dont les chiens n'auraient pas voulu. Ils levèrent à peine la tête, grondèrent, ne répondirent pas aux questions.]{.calibre11}
+
+[Pierre allait redescendre, lorsque, tout en haut, à l'entrée d'un couloir, il tenta une dernière fois de frapper à une porte. Une femme ouvrit, dont les cheveux dépeignés grisonnaient déjà, bien qu'elle ne dût pas avoir plus de quarante ans, et ses lèvres pâlies, ses yeux meurtris, dans sa face jaune, exprimaient une lassitude extrême, un air d'effacement et de continuelle crainte, sous l'acharnée misère. Elle se troubla, à la vue de la soutane, elle balbutia, inquiète :]{.calibre11}
+
+[« Entrez, entrez, monsieur l'abbé. »]{.calibre11}
+
+[Mais un homme, que Pierre n'avait pas vu d'abord, un ouvrier d'une quarantaine d'années aussi, grand, maigre, chauve, un roux décoloré, les moustaches et la barbe rares, eut un geste de violence, la sourde menace de jeter le prêtre à la porte. Il se calma, s'assit près d'une table boiteuse, affecta de tourner le dos. Et, comme il y avait là encore une fillette blonde, de onze à douze ans, la figure longue et douce, avec cet air intelligent et un peu vieux que la grande misère donne aux enfants, il l'appela, la tint entre ses genoux, sans doute pour la protéger du contact de la soutane.]{.calibre11}
+
+[Pierre, le coeur serré par cet accueil, sentant le profond dénuement de cette famille, à la pièce nue et sans feu, à la détresse morne de ces trois êtres, se décida pourtant à poser sa question.]{.calibre11}
+
+[« Madame, vous ne connaissez pas dans la maison un vieil ouvrier du nom de Laveuve ? »]{.calibre11}
+
+[La femme, tremblante maintenant de l'avoir fait entrer, puisque cela paraissait déplaire à son homme, essaya d'arranger les choses, timidement.]{.calibre11}
+
+[« Laveuve, Laveuve, non... Dis, Salvat, tu entends ? Est-ce que tu connais, toi ? »]{.calibre11}
+
+[Salvat se contenta de hausser les épaules. Mais la petite fille ne put tenir sa langue.]{.calibre11}
+
+[« Écoute donc, maman Théodore... C'est peut-être le Philosophe.]{.calibre11}
+
+[--- Un ancien ouvrier peintre, continua Pierre, un vieillard malade, qui ne peut plus travailler. »]{.calibre11}
+
+[Mme Théodore, du coup, fut renseignée.]{.calibre11}
+
+[« Alors, c'est ça, c'est bien ça... Nous l'appelons le Philosophe, un surnom qu'on lui a donné dans le quartier. Tout de même, rien n'empêche qu'il ne s'appelle Laveuve. »]{.calibre11}
+
+[D'un de ses poings levés au plafond, vers le ciel, Salvat sembla protester contre l'abomination d'un monde et d'un Dieu qui laissaient crever de faim les vieux travailleurs, tels que des chevaux fourbus. Mais il ne parla pas, il retomba dans un silence sauvage et lourd dans la sorte de méditation affreuse où il se trouvait lorsque le prêtre avait paru. Il était mécanicien, et il regardait obstinément, posé sur la table, son sac à outils, un petit sac de cuir où quelque chose faisait bosse, une pièce à reporter sans doute. Il devait songer au long chômage, à sa recherche vaine d'un travail quelconque, pendant ces deux derniers mois de terrible hiver. Ou peut-être songeait-il aux représailles prochaines et sanglantes des meurt-de-faim dans la rêverie incendiaire qui allumait ses grands yeux bleus, singuliers, vagues et brûlants. Tout d'un coup, il s'aperçut que sa fille avait pris le sac, tâchait de l'ouvrir, pour voir. Il eut un frémissement, et enfin il parla, la bouche bonne et amère cédant à la brusque émotion qui le pâlissait.]{.calibre11}
+
+[« Céline, veux-tu bien laisser ça ! Je t'ai défendu de toucher aux outils. »]{.calibre11}
+
+[Il prit le sac, le déposa derrière lui, contre le mur, avec de grandes précautions.]{.calibre11}
+
+[« Alors, madame, demanda Pierre, ce Laveuve habite à cet étage ? »]{.calibre11}
+
+[Mme Théodore, d'un regard craintif, consulta Salvat. Elle n'était pas pour qu'on bousculât les curés, quand ils se donnaient la peine de venir, parce qu'il y avait parfois à gagner des sous avec eux. Et, lorsqu'elle comprit que Salvat, retombé dans sa noire rêverie, la laissait agir à sa guise, elle s'offrit tout de suite.]{.calibre11}
+
+[« Si monsieur l'abbé le veut bien, je vais le conduire. C'est justement au fond du corridor. Mais il faut savoir, parce qu'il y a encore des marches à monter. »]{.calibre11}
+
+[Céline, voyant là un amusement, s'échappa des genoux de son père, accompagna le prêtre, elle aussi. Et Salvat resta seul dans la chambre de pauvreté et de souffrance, d'injustice et de colère, sans feu, sans pain, hanté de son rêve ardent, les yeux de nouveau fixés sur le sac, comme s'il y avait eu là, avec les outils, la guérison du monde.]{.calibre11}
+
+[En effet, il fallut gravir quelques marches ; et, derrière Mme Théodore et Céline, Pierre se trouva dans une sorte d'étroit grenier, sous le toit, une soupente de quelques mètres carrés, où l'on ne pouvait se tenir debout. Le jour n'entrait que par une lucarne à tabatière ; mais, comme la neige bouchait la vitre, on dut laisser la porte grande ouverte, pour y voir clair. Ce qui entrait, c'était le dégel, la neige qui fondait et qui, goutte à goutte, coulait, inondait le carreau. Après ces longues semaines de froid intense, la noire humidité noyait tout de son frisson. Et là, sans une chaise, sans même un bout de planche, dans un coin du carreau nu, sur un tas de loques immondes, Laveuve gisait, tel qu'une bête à demi crevée parmi un tas d'ordures.]{.calibre11}
+
+[« Tenez ! dit Céline de sa voix chantante, le voilà, c'est le Philosophe ! »]{.calibre11}
+
+[Mme Théodore s'était penchée, pour écouter s'il vivait toujours.]{.calibre11}
+
+[« Oui, il respire, je crois qu'il dort. Oh ! S'il mangeait seulement tous les jours, il se porterait bien. Mais, que voulez-vous ? Il n'a plus personne, et quand on marche sur ses soixante-dix ans, le mieux serait d'aller se jeter à l'eau. Dans son métier de peintre en bâtiment, dès cinquante ans parfois, on ne peut plus travailler sur les échelles. Lui, d'abord, a trouvé des travaux de plain-pied à faire. Puis, il a eu la chance d'avoir des chantiers à garder. Et c'est fini, on l'a congédié de partout, voici deux mois qu'il est venu tomber dans ce coin, pour y mourir. Le propriétaire n'a point osé encore le jeter à la rue, bien que ce ne soit pas l'envie qui lui en manque... Nous autres, n'est-ce pas ? Nous lui apportons parfois un peu de vin, des croûtes. Mais, quand on n'a rien soi-même, comment voulez-vous qu'on donne à un autre ? »]{.calibre11}
+
+[Épouvanté, Pierre regardait cet effroyable reste, ce que cinquante années de travail et de misère, d'injustice sociale, avaient fait d'un homme. Il finissait par distinguer la tête blanche, usée, déprimée, déformée. Toute la débâcle du travail sans espoir sur une face humaine. La barbe inculte, embroussaillant les traits, l'air d'un vieux cheval qu'on ne tond plus, avec les mâchoires de travers, depuis que les dents étaient tombées. Des yeux vitreux, un nez qui sombrait dans la bouche. Et surtout cet aspect de bête déjetée par les fatigues du métier, éclopée, écroulée, bonne uniquement pour l'abattoir.]{.calibre11}
+
+[« Ah ! Le pauvre être ! murmura le prêtre frémissant. Et on le laisse mourir de faim, tout seul, sans une aide ! Et pas un hospice, pas un asile ne l'a recueilli !]{.calibre11}
+
+[--- Dame ! reprit Mme Théodore de sa voix dolente et résignée, les hôpitaux sont faits pour les malades, et il n'est pas malade, il s'achève simplement, à bout de forces. Puis, il n'est pas toujours commode, on est venu encore dernièrement, pour le mettre dans un asile ; mais il ne veut pas être enfermé, il répond grossièrement à ceux qui le questionnent, sans compter qu'il a la mauvaise réputation de boire et de mal parler des bourgeois... Ah ! Dieu merci, il sera délivré bientôt ! »]{.calibre11}
+
+[Pierre s'était penché, en voyant les yeux de Laveuve s'ouvrir tout grands, et il lui parla avec tendresse, il raconta qu'il venait de la part d'un ami lui apporter quelque argent, pour s'acheter ce dont il aurait le plus besoin. D'abord, à la vue de la soutane, le vieillard avait grondé de gros mots. Mais, tout de même, dans son extrême faiblesse, il gardait la goguenardise de l'ouvrier parisien.]{.calibre11}
+
+[« Je boirai volontiers un coup alors, dit-il d'une voix distincte, et avec un bout de pain, s'il y a de quoi, car voilà deux jours que je n'en connais plus le goût. »]{.calibre11}
+
+[Céline s'offrit, et Mme Théodore l'envoya chercher un pain et un litre de vin, avec l'argent de l'abbé Rose. Puis, en attendant, elle dit à Pierre comment Laveuve avait dû entrer à l'asile des Invalides du travail, une bonne oeuvre dont les dames patronnesses étaient présidées par la baronne Duvillard, mais l'enquête réglementaire avait abouti sans doute à un tel rapport, que l'affaire en était restée là.]{.calibre11}
+
+[« La baronne Duvillard, je la connais, je vais aller la voir aujourd'hui ! S'écria Pierre, dont le coeur saignait. Il est impossible qu'on laisse plus longtemps un homme dans une situation pareille. »]{.calibre11}
+
+[Et, comme Céline revenait avec le pain et le litre, ils installèrent à eux trois Laveuve, le remontèrent sur son tas de loques, le firent boire et manger, puis laissèrent près de lui le reste du vin et du pain un grand pain de quatre livres, en lui recommandant d'attendre pour le finir, s'il ne voulait pas étouffer.]{.calibre11}
+
+[« Monsieur l'abbé devrait me donner son adresse, dans le cas où j'aurais quelque chose à lui faire savoir », dit Mme Théodore lorsqu'elle se retrouva devant sa porte.]{.calibre11}
+
+[Pierre n'avait pas de carte de visite, et tous trois rentrèrent dans la chambre. Mais Salvat n'y était plus seul. Debout, il causait bas très vite, de très près, bouche à bouche, avec un jeune homme d'une vingtaine d'années. Celui-ci, fluet, brun, les cheveux taillés en brosse et la barbe naissante, avait des yeux clairs, un nez droit, des lèvres minces, dans une face pâle de vive intelligence, semée de quelques taches de rousseur. Sous sa jaquette usée, il grelottait, le front dur et têtu.]{.calibre11}
+
+[« C'est M. L'abbé qui veut me laisser son adresse, pour l'affaire du Philosophe », expliqua Mme Théodore doucement, contrariée de trouver là du monde.]{.calibre11}
+
+[Les deux hommes avaient regardé le prêtre, puis s'étaient regardés, l'air terrible. Brusquement, ils ne dirent plus un mot dans le froid de glace qui tombait du plafond.]{.calibre11}
+
+[Salvat, avec de nouvelles et grandes précautions, alla prendre son sac à outils, contre le mur.]{.calibre11}
+
+[« Alors, tu descends, tu vas encore chercher du travail ? »]{.calibre11}
+
+[Il ne répondit pas, il n'eut qu'un geste de colère, comme pour dire qu'il ne voulait plus du travail, puisque le travail, depuis si longtemps, n'avait plus voulu de lui.]{.calibre11}
+
+[« Tout de même, tâche de rapporter quelque chose, car tu sais qu'il n'y a rien... À quelle heure rentreras-tu ? »]{.calibre11}
+
+[D'un nouveau geste, il sembla répondre qu'il rentrerait quand il pourrait, jamais peut-être. Et, des larmes, malgré son effort d'héroïsme, étant montées à ses vagues yeux bleus, où brûlait une flamme, il saisit sa fille Céline, l'embrassa violemment, éperdument, puis s'en alla, son sac sous le bras, suivi de son jeune compagnon.]{.calibre11}
+
+[« Céline, reprit Mme Théodore, donne ton crayon à M. L'abbé, et tenez ! Monsieur, mettez-vous là, vous serez mieux pour écrire. »]{.calibre11}
+
+[Puis, lorsque Pierre se fut installé devant la table, sur la chaise que Salvat avait occupée :]{.calibre11}
+
+[« II n'est pas méchant, continua-t-elle pour excuser son homme de n'être guère poli, mais il a eu trop d'embêtements dans l'existence, ça l'a rendu un peu braque. C'est comme ce jeune homme que vous venez de voir, M. Victor Mathis, en voilà encore un qui n'est pas heureux, un jeune homme très bien élevé, très instruit, et dont la mère, une veuve, a juste de quoi manger du pain. Alors, on comprend, n'est-ce pas ? Que ça leur tourne sur la tête et qu'ils parlent de faire sauter tout le monde. Moi, ce ne sont pas mes idées, mais je leur pardonne, oh ! Bien volontiers. »]{.calibre11}
+
+[Troublé, intéressé par tout ce qu'il sentait d'inconnu et d'effrayant autour de lui, Pierre ne se hâta pas d'écrire l'adresse, écoutant, poussant aux confidences.]{.calibre11}
+
+[« Si vous saviez, monsieur l'abbé, ce pauvre Salvat ! Un enfant abandonné, sans père ni mère, qui a couru les chemins, qui a dû faire d'abord tous les métiers pour vivre. Puis, il est devenu mécanicien, et un très bon ouvrier, je vous assure, très adroit, très travailleur. Mais il avait déjà ses idées, il se querellait, voulait embaucher les camarades si bien qu'il ne pouvait rester nulle part. Enfin, à trente ans, il a fait la bêtise de partir pour l'Amérique avec un inventeur, qui l'a exploité là-bas, à ce point qu'au bout de six ans il est revenu malade et sans un sou... Il faut vous dire qu'il avait épousé ma soeur cadette, Léonie, et qu'elle était morte, avant son départ pour l'Amérique, en lui laissant la petite Céline âgée d'un an. Moi, j'étais alors avec mon mari Théodore Labitte, un maçon ; et ce n'est pas pour me vanter, mais j'avais beau me tuer les yeux à la couture, il me battait à me laisser morte sur le carreau. Il a fini par me planter là, en filant avec une jeunesse de vingt ans, ce qui m'a causé plus de plaisir que de peine... Et, naturellement, quand Salvat, à son retour d'Amérique, m'a retrouvée seule, avec sa petite Céline, qu'il m'avait confiée à son départ et qui m'appelait maman, nous nous sommes mis ensemble par la force des choses. Nous ne sommes pas mariés, mais, n'est-ce pas ? Monsieur l'abbé, c'est tout comme. »]{.calibre11}
+
+[Elle avait pourtant éprouvé une gêne, et elle reprit, pour montrer qu'elle n'était point sans parents convenables :]{.calibre11}
+
+[« Moi, je n'ai pas eu de chance, mais j'ai une autre soeur, Hortense, qui a épousé un employé, M. Chrétiennot, et qui habite un joli appartement du boulevard Rochechouart. Nous étions trois, d'un second lit, Hortense, la plus jeune, Léonie qui est morte, et moi, l'aînée, qui m'appelle Pauline... Et j'ai encore, du premier lit, un frère, Eugène Toussaint, plus âgé que moi de dix ans, mécanicien lui aussi, qui travaille depuis la guerre dans la même maison, l'usine Grandidier, à cent pas d'ici, rue Marcadet. Le malheur est qu'il a eu une attaque dernièrement... Moi, j'ai perdu les yeux je me les suis brûlés à travailler pendant des dix heures par jour à la couture. Maintenant, je ne puis seulement faire un raccommodage sans que des larmes m'aveuglent. J'ai cherché des ménages et je n'en trouve plus, la mauvaise chance s'acharne contre nous. Alors, voilà, nous manquons de tout, une misère noire, souvent des deux et trois jours sans manger, une vie de chien qui se nourrit au hasard de ce qu'il rencontre ; et, avec ça, ces deux derniers mois de gros froids qui nous ont gelés, à croire des fois, le matin, que nous ne nous réveillerions plus... Que voulez-vous ? Moi, je n'ai jamais été heureuse, battue d'abord, à présent finie, balayée dans un coin, vivant je ne sais même pas pourquoi. » Sa voix s'était mise à trembler, ses yeux rouges se mouillaient et Pierre la sentit ainsi pleurante dans l'existence, brave femme sans volonté, comme effacée déjà de la vie, en ménage sans amour, au hasard des événements.]{.calibre11}
+
+[« Oh ! Je ne me plains pas de Salvat, dit-elle encore. C'est un brave homme, il ne rêve que le bonheur de tous ; et il ne boit pas, il travaille quand il peut... Seulement, il est certain que, s'il s'occupait moins de politique, il travaillerait davantage. On ne peut discuter avec les camarades, aller dans les réunions, et être à l'atelier. Il est fautif en cela, c'est évident... Ça n'empêche qu'il a raison de se plaindre, on ne s'imagine pas un pareil acharnement du malheur, tout s'est abattu sur lui, tout l'a écrasé. Un saint lui-même en deviendrait fou, et l'on comprend qu'un pauvre, qu'un malchanceux finisse par en être enragé... Depuis deux mois, il n'a rencontré qu'un bon coeur, un savant, installé là-haut, sur la Butte M. Guillaume Froment, qui lui a donné quelque travail, de quoi avoir parfois de la soupe. »]{.calibre11}
+
+[Très surpris d'entendre le nom de son frère, Pierre voulut poser certaines questions ; puis, un sentiment singulier, un malaise de discrétion et de peur, le fit se taire. Il regarda Céline, qui avait écouté, debout devant lui, muette, de son air grave et chétif. Et Mme Théodore, en le voyant sourire à l'enfant, eut une dernière réflexion.]{.calibre11}
+
+[« Tenez ! C'est surtout l'idée de cette petite qui le jette hors de lui. Il l'adore, il tuerait tout le monde, quand il la voit se coucher sans souper. Elle est si gentille, elle apprenait si bien, à l'école communale ! Maintenant, elle n'a plus même de chemise pour y aller. »]{.calibre11}
+
+[Pierre, qui avait enfin écrit son adresse, glissa une pièce de cinq francs dans la main de la fillette ; et, désirant couper court aux remerciements, il se hâta de dire :]{.calibre11}
+
+[« Vous saurez où me trouver, si vous avez besoin de moi, pour Laveuve. Mais je vais m'occuper de son affaire dès cet après-midi et j'espère bien que, ce soir, on viendra le chercher. »]{.calibre11}
+
+[Mme Théodore n'écoutait pas, se confondait en bénédictions ; tandis que Céline, saisie de voir cent sous dans sa main, murmurait :]{.calibre11}
+
+[« Oh ! Ce pauvre papa, qui est parti à la chasse des sous ! Si l'on courait lui dire qu'il y a de quoi pour aujourd'hui ? »]{.calibre11}
+
+[Et le prêtre, déjà dans le couloir, entendit la femme répondre :]{.calibre11}
+
+[« Il est loin, s'il marche toujours. Il reviendra peut-être. »]{.calibre11}
+
+[Comme Pierre s'échappaient de l'affreuse et douloureuse maison, la tête bourdonnante, le coeur ravagé de tristesse, il eut l'étonnement de revoir Salvat et Victor Mathis, arrêtés et debout, dans un coin de la cour immonde, aux odeurs pestilentielles de cloaque. Ils étaient descendus continuer là l'entretien interrompu dans la chambre. Ils causaient de nouveau bas et très vite, bouche à bouche, tout à la violence dont leurs yeux brûlaient. Mais ils entendirent le bruit des pas, ils reconnurent l'abbé ; et soudainement froids et calmes, sans ajouter un mot, ils échangèrent une rude poignée de main. Victor remonta vers Montmartre. Salvat hésita, de l'air d'un homme qui consulte le destin. Puis, allant au hasard farouche, redressant sa taille maigrie de travailleur las et affamé, il tourna dans la rue Marcadet, marcha vers Paris, son sac à outils sous le bras.]{.calibre11}
+
+[Un instant, Pierre eut l'envie de courir, de lui crier que sa fillette le rappelait, en haut. Mais le même malaise l'avait repris, de la discrétion, de la peur, la sourde certitude que rien n'arrêterait la destinée. Et lui-même n'était plus calme, n'avait plus sa détresse glacée et désespérée du matin. En se retrouvant dans le brouillard frissonnant de la rue, il sentit sa fièvre, la flamme de charité que la vue de l'effroyable misère, toujours renaissante, venait de rallumer en lui. Non, non ! C'était trop de souffrance, il voulait lutter encore, sauver Laveuve, rendre un peu de joie à tant de pauvres gens. L'expérience nouvelle se posait avec ce Paris qu'il avait vu si voilé de cendre, si mystérieux et si troublant, sous la menace de l'inévitable justice. Et il rêvait d'un grand soleil de santé et de fécondité qui ferait de la ville l'immense champ de fertile moisson, où pousserait le monde meilleur de demain.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+[Livre I]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778734 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778396 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778058 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777720 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777382 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776706 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776368 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776030 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775692 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775354 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775016 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368774678 .pcalibre .calibre3 .pcalibre1} {#ii .calibre47 .sigil_not_in_toc}
+
+[Il y avait, ce matin-là, comme presque tous les jours, déjeuner intime chez les Duvillard, quelques amis qui s'invitaient plus qu'on ne les invitait. Et, dans la glaciale journée de dégel et de brume, le royal hôtel de la rue Godot-de-Mauroy, près du boulevard de la Madeleine, était fleuri des fleurs les plus rares, la passion de la baronne, qui changeait les hautes pièces somptueuses, encombrées de merveilles, en serres tièdes et odorantes, où le triste jour blême de Paris devenait une caresse d'une infinie douceur.]{.calibre11}
+
+[Les grands appartements de réception étaient au rez-de-chaussée sur la vaste cour, précédés d'un petit jardin d'hiver qui servait de vestibule vitré, et dans lequel deux laquais en livrée gros vert et or se tenaient constamment. Une célèbre galerie de tableaux, évaluée à des millions, occupait tout le côté nord. Et l'escalier d'honneur d'une richesse également fameuse montait à l'appartement occupé d'habitude par la famille, un grand salon rouge, un petit salon bleu et argent, un cabinet de travail aux murs recouverts de vieux cuirs, une salle à manger tendue de vert pâle, meublée à l'anglaise, sans compter les chambres à coucher, ni les cabinets de toilette. L'hôtel bâti sous Louis XIV, avait gardé toute une grandeur de noblesse comme conquis et asservi au goût jouisseur de la bourgeoisie triomphante, régnant depuis un siècle par la toute-puissance nouvelle de l'argent.]{.calibre11}
+
+[Midi n'était pas sonné, le baron Duvillard se trouva, contre son habitude, être le premier, en avance, dans le petit salon bleu et argent. C'était un homme de soixante ans, grand et solide, au nez fort, aux joues épaisses, à la bouche large, charnue, avec des dents de loup restées belles. Mais il était devenu chauve de bonne heure, il teignait ses rares cheveux, il se rasait complètement, depuis que sa barbe avait blanchi. Ses yeux gris disaient son audace, son rire sonnait sa conquête. Et toute sa face exprimait la possession de cette conquête, la royauté du maître sans scrupule, qui usait et abusait du pouvoir volé et gardé par sa caste.]{.calibre11}
+
+[Il fit quelques pas, s'arrêta, devant une merveilleuse corbeille d'orchidées, près de la fenêtre. Sur la cheminée, sur la table, des touffes de violettes embaumaient ; et il vint s'asseoir, s'allonger au fond d'un des fauteuils de satin bleu, lamé d'argent, dans l'assoupissement de ce parfum, du grand silence chaud qui semblait tomber des tentures. Il avait tiré un journal de sa poche, il se mit à relire un article, tandis que l'hôtel entier, autour de lui, évoquait sa fortune immense, son pouvoir devenu souverain, toute l'histoire du siècle qui avait fait de lui le maître. Son grand-père, Jérôme Duvillard, fils d'un petit avocat du Poitou, était venu à Paris comme clerc de notaire, en 1788, à l'âge de dix-huit ans ; et, très âpre, intelligent, affamé, il avait gagné les trois premiers millions, d'abord dans l'agio sur les biens nationaux, plus tard comme fournisseur des armées impériales. Son père, Grégoire Duvillard, le fils de Jérôme, né en 1805, le véritable grand homme de la famille celui qui avait régné le premier rue Godot-de-Mauroy, après que le roi Louis-Philippe lui eut concédé le titre de baron, restait un des héros de la finance moderne par ses gains scandaleux sous la monarchie de Juillet et sous le second Empire, dans tous les vols célèbres des spéculations, les mines, les chemins de fer, Suez. Et lui, Henri, né en 1836, ne s'était mis sérieusement aux affaires qu'à trente-cinq ans, au lendemain de la guerre, à la mort du baron Grégoire, mais avec une telle rage d'appétit, qu'il avait encore doublé la fortune en un quart de siècle. Il était le pourrisseur, le dévorateur, corrompant, engloutissant tout ce qu'il touchait ; et il était le tentateur aussi, l'acheteur des consciences à vendre, ayant compris les temps nouveaux, en face de la démocratie à son tour affamée et impatiente. Inférieur à son père et à son grand-père, ayant la tare du jouisseur, moins de la conquête, et plus de la curée ; mais un terrible homme tout de même, un triomphateur gras, opérant à coup sûr, ramenant des millions à chaque coup de râteau, traitant de plain-pied avec les gouvernements, pouvant mettre, sinon la France, du moins un ministère dans sa poche. En un siècle d'histoire, en trois générations, la royauté s'était incarnée en lui, déjà menacée, ébranlée par la tempête de demain. Et la figure, par moments, grandissait, débordait, devenait la bourgeoisie elle-même, qui, dans le partage de 89, a tout pris, qui s'est engraissé de tout, aux dépens du quatrième état, et qui ne veut rien rendre.]{.calibre11}
+
+[L'article que le baron relisait, dans un journal à un sou, l'intéressait. La Voix du peuple était une feuille de vacarme qui, sous le prétexte de défendre la justice et la morale outragées, lançait chaque matin un scandale nouveau, dans l'espoir de faire monter son tirage. Et, ce matin-là, en gros caractères, s'y étalait ce titre :]{.calibre11}
+
+[« L'affaire des Chemins de fer africains, un pot-de-vin de cinq millions, deux ministres vendus, trente députés et sénateurs compromis. »]{.calibre11}
+
+[Puis, dans un article, d'une violence odieuse, le rédacteur en chef, le fameux Sanier, annonçait qu'il possédait et qu'il publierait la liste des trente-deux parlementaires, dont le baron Duvillard avait acheté les voix, lors du vote des Chambres sur les Chemins de fer africains. Toute une histoire romanesque se mêlait à cela, les aventures d'un certain Hunter, que le baron avait employé comme rabatteur, et qui était en fuite. Très calme, le baron reprenait les phrases, pesait chaque mot ; et, bien qu'il fût seul, il haussa les épaules, en parlant à voix haute, dans la tranquille certitude d'un homme qui est couvert, trop puissant pour être inquiété.]{.calibre11}
+
+[« L'imbécile ! Il en sait encore moins qu'il n'en dit ! »]{.calibre11}
+
+[Mais, justement, un premier convive arrivait, un garçon de trente-quatre ans à peine, mis élégamment, joli homme brun, aux yeux rieurs, au nez fin, la barbe et les cheveux frisés, avec quelque chose d'étourdi, d'envolé dans l'allure, l'air d'un oiseau. Ce matin-là, par exception, il paraissait nerveux, inquiet, le sourire effaré.]{.calibre11}
+
+[« Ah ! C'est vous, Dutheil, dit le baron en se levant. Vous avez lu ? »]{.calibre11}
+
+[Et il lui montra La Voix du peuple, qu'il repliait, pour la remettre dans sa poche.]{.calibre11}
+
+[« Mais oui, j'ai lu. C'est insensé !... Comment Sanier a-t-il pu avoir la liste des noms ? Il y a donc eu quelque traître ? »]{.calibre11}
+
+[Le baron le regardait paisiblement, amusé de son angoisse secrète. Fils d'un notaire d'Angoulême, presque pauvre et très honnête, envoyé par cette ville à Paris comme député, fort jeune encore, grâce au bon renom de son père, il y faisait la fête, il avait repris sa vie de paresse et de plaisir d'autrefois, quand il y était étudiant, mais son aimable garçonnière de la rue de Surène, ses succès de joli homme dans le tourbillon de femmes où il vivait, lui coûtaient gros, et, gaiement, sans le moindre sens moral, il avait glissé déjà à tous les compromis, à toutes les déchéances, en homme léger et supérieur, en charmant garçon inconscient qui ne donnait aucune importance à ces sortes de vétilles.]{.calibre11}
+
+[« Bah ! dit enfin le baron, Sanier l'a-t-il seulement, la liste ? J'en doute, car il n'y a pas eu de liste, Hunter n'a pas commis la bêtise d'en dresser une... Et puis, quoi ? L'affaire est courante, il ne s'y est fait que ce qu'on a toujours fait dans les affaires semblables. »]{.calibre11}
+
+[Anxieux pour la première fois de sa vie, Dutheil l'écoutait, avec le besoin d'être rassuré.]{.calibre11}
+
+[« N'est-ce pas ? S'écria-t-il. C'est ce que je me suis dit, il n'y a pas dans tout cela un chat à fouetter. »]{.calibre11}
+
+[Il tâchait de retrouver son rire, et il ne savait plus au juste comment il avait pu toucher une dizaine de mille francs dans l'aventure, à titre de vague prêt, ou sous le prétexte d'une publicité fictive, car Hunter s'était montré très adroit pour ménager la pudeur des consciences, même des moins virginales.]{.calibre11}
+
+[« Pas un chat à fouetter, répéta Duvillard que la tête de Dutheil amusait décidément ; et, d'ailleurs, mon bon ami, c'est connu, les chats retombent toujours sur leurs pattes... Vous avez vu Silviane ?]{.calibre11}
+
+[--- Je sors de chez elle, je l'ai trouvée furieuse contre vous... Ce matin, elle a su que son affaire de la Comédie était dans l'eau. »]{.calibre11}
+
+[Brusquement, un flot de colère empourpra la face du baron. Lui si calme, si goguenard devant la menace du scandale des Chemins de fer africains, perdait pied, le sang en tempête, dès qu'il s'agissait de cette fille, la passion dernière, impérieuse de ses soixante ans.]{.calibre11}
+
+[« Comment, dans l'eau ! Mais, avant-hier encore, aux Beaux-Arts, on m'avait donné une promesse presque formelle ! »]{.calibre11}
+
+[C'était un caprice têtu de cette Silviane d'Aulnay, qui n'avait eu jusque-là, au théâtre, que des succès de beauté, et qui s'obstinait à entrer à la Comédie-Française, pour y débuter dans le rôle de Pauline, de Polyeucte, un rôle qu'elle étudiait avec acharnement depuis des mois. Cela semblait fou, tout Paris en riait, car la demoiselle avait une renommée de perversion abominable, tous les vices, tous les goûts. Mais elle, superbement, s'affichait, exigeait le rôle, certaine de vaincre.]{.calibre11}
+
+[« C'est le ministre qui n'a pas voulu », expliqua Dutheil.]{.calibre11}
+
+[Le baron étranglait.]{.calibre11}
+
+[« Le ministre, le ministre ! Ah ! Ce que je vais le faire sauter, ce ministre-là ! »]{.calibre11}
+
+[Il dut se taire, la baronne Duvillard entrait dans le petit salon. À quarante-six ans, elle était fort belle encore. Très blonde, grande, un peu engraissée seulement, des épaules et des bras restés admirables, toute une peau de soie sans une tare, elle n'avait que le visage qui s'abîmât, une flétrissure légère, des rougeurs envahissantes ; et c'était là son tourment, sa préoccupation de toutes les heures. Son origine juive se trahissait dans la face un peu longue, au charme étrange, aux yeux bleus d'une douceur voluptueuse. Indolente comme une esclave d'Orient, détestant se mouvoir, marcher, même parler, elle semblait faite pour le harem, en continuels soins de sa personne. Ce jour-là, elle était tout en blanc, une toilette de soie blanche, d'une délicieuse et éclatante simplicité.]{.calibre11}
+
+[L'air ravi, Dutheil la complimenta, lui baisa la main.]{.calibre11}
+
+[« Ah ! Madame, vous me remettez un peu de printemps dans l'âme. Paris est si noir, si boueux, ce matin ! »]{.calibre11}
+
+[Mais un second convive arrivait, un grand et bel homme de trente-cinq à trente-six ans, et le baron, que sa passion agitait, en profita pour s'échapper. Il emmena Dutheil dans son cabinet, qui était voisin, en disant :]{.calibre11}
+
+[« Venez donc, mon cher. J'ai encore un mot à vous dire sur l'affaire en question... M. De Quinsac va tenir un instant compagnie à ma femme. »]{.calibre11}
+
+[Et, dès qu'elle fut seule avec le nouveau venu, qui lui avait, lui aussi, baisé la main très respectueusement, elle le regarda en silence, longuement, tandis que ses beaux yeux tendres s'emplissaient de larmes. Dans le grand silence un peu gêné qui s'était fait, elle finit par dire très bas :]{.calibre11}
+
+[« Mon Gérard, que je suis heureuse de me trouver un moment seule avec vous ! Voici plus d'un mois que vous ne m'avez donné ce bonheur. »]{.calibre11}
+
+[La façon dont Henri Duvillard avait épousé la fille cadette de Justus Steinberger, le grand banquier juif, était toute une histoire restée légendaire. Comme les Rothschild, les Steinberger étaient au début plusieurs frères, quatre, Justus à Paris, les trois autres à Berlin, à Vienne, à Londres, ce qui donnait à leur secrète association un pouvoir formidable, une souveraineté internationale et toute-puissante sur les marchés financiers de l'Europe. Justus était cependant le moins riche des quatre, et il avait, dans le baron Grégoire, un redoutable adversaire, contre lequel il devait lutter, devant toutes les grandes proies. Et c'était à la suite d'une rencontre terrible entre eux, après l'âpre partage du butin, que l'idée profonde lui était venue de donner en mariage, comme épingles, Ève, sa fille cadette, au fils du baron, Henri. Jusque-là, celui-ci n'avait passé que pour un aimable garçon, homme de cheval, homme de club ; et le calcul de Justus était sans doute, à la mort du redouté baron, condamné déjà, de mettre la main sur la banque rivale, s'il ne restait en face de lui qu'un gendre facile à vaincre. Justement Henri s'était pris pour la beauté blonde d'Ève, alors éclatante, d'une violente passion. Il l'avait voulue, et le père, qui connaissait son fils, avait consenti, très amusé au fond de l'affaire exécrable que faisait Justus. Elle devint en effet désastreuse pour ce dernier, lorsque, chez Henri, succédant à son père, l'homme de proie apparut sous l'homme de plaisir, et qu'il se tailla sa grosse part, dans l'exploitation des appétits déchaînés de la démocratie bourgeoise, maîtresse enfin du pouvoir. Non seulement, Ève n'avait pas mangé Henri, devenu à son tour le banquier tout-puissant, le baron Duvillard, maître plus que jamais du marché, mais c'était le baron qui avait mangé Ève, qui l'avait dévorée en moins de quatre ans. Après lui avoir fait coup sur coup une fille et un garçon, il s'était brusquement éloigné d'elle, pendant sa dernière grossesse comme s'il en avait eu le dégoût, dans l'ardeur qu'il avait mise à la posséder, telle qu'un fruit dont on est rassasié et qu'on rejette. D'abord, elle était restée surprise et désolée de l'aventure, en apprenant qu'il retournait à sa vie de garçon et qu'il aimait ailleurs. Puis, sans récriminations d'aucune sorte, sans colère, sans même trop chercher à le reconquérir, elle avait de son côté pris un amant. Elle ne pouvait vivre sans être aimée, elle n'était née sûrement que pour être belle, plaire, passer les jours dans des bras d'adoration et de caresse. L'amant qu'elle avait choisi, à vingt-cinq ans, elle le garda pendant plus de quinze ans, elle lui fut parfaitement fidèle, comme elle aurait été fidèle à son mari. Et, lorsqu'il mourut, ce fut pour elle une grande tristesse, un véritable veuvage. Et, six mois plus tard, ayant rencontré le comte Gérard de Quinsac, elle ne put résister de nouveau à son besoin de tendresse, elle se donna.]{.calibre11}
+
+[« Mon bon Gérard, reprit-elle, de son air de maternité amoureuse, en voyant le jeune homme embarrassé, avez-vous donc été souffrant, me cachez-vous quelque contrariété ? »]{.calibre11}
+
+[Elle avait dix ans de plus que lui ; et, cette fois, c'était en désespérée qu'elle s'attachait à ce dernier amour, adorant ce beau garçon de tout son être révolté de vieillir, prête à lutter pour le garder quand même.]{.calibre11}
+
+[« Non, je ne vous cache rien, je vous assure, répondit le comte. Ma mère m'a beaucoup retenu, ces jours-ci. »]{.calibre11}
+
+[Elle continuait à le regarder avec une passion inquiète, le trouvant de si grande et de si noble mine, la face régulière, les moustaches et les cheveux bruns, toujours très soignés. Il appartenait à une des plus vieilles familles de France, il habitait avec sa mère, veuve, ruinée par un mari d'esprit aventureux, et qui gardait son rang, un rez-de-chaussée de la rue Saint-Dominique, où elle vivait d'une quinzaine de mille francs au plus. Lui, n'avait jamais rien fait, s'était contenté de son année de service obligatoire renonçant aux armes, ainsi qu'il renonçait à la carrière diplomatique, la seule qui lui fût dignement ouverte. Il passait ses jours dans cette oisiveté si occupée des jeunes hommes qui mènent l'existence de Paris. Et sa mère elle-même, d'une sévérité hautaine, semblait l'en excuser, comme si elle eût jugé que, sous une république, un homme de son sang devait, par protestation, se tenir à l'écart. Mais sans doute elle avait des raisons d'indulgence plus intimes, plus angoissantes. À sept ans, elle avait failli le perdre d'une fièvre cérébrale. À dix-huit, il s'était plaint du coeur, et les médecins recommandaient de le ménager en toutes choses. Derrière la noble façade de la race, cette grande taille, cette mine fière, elle savait donc quel était le mensonge. Il n'était que cendre, toujours menacé de la maladie et de l'écroulement. Au fond de sa virilité apparente, il n'y avait qu'un abandon de fille, un être faible et bon, capable de toutes les déchéances. C'était, pendant une visite faite avec sa mère, très pieuse, à l'asile des Invalides du travail, qu'il avait rencontré Ève pour la première fois. Elle l'avait pris en se donnant, il continuait à fréquenter chez elle, parce qu'il la trouvait désirable encore et qu'il ne savait comment la quitter ; et sa mère fermait les yeux sur cette liaison coupable, dans un monde qu'elle méprisait, comme elle les avait fermés déjà sur tant d'autres sottises, qu'elle lui pardonnait ainsi qu'à un enfant malade. Puis, Ève avait fait sa conquête par un acte qui venait de stupéfier le monde. Brusquement, on avait appris que Mgr Martha l'avait convertie au catholicisme. Ce qu'elle n'avait pas accordé au mari légitime, elle venait de le faire, afin de s'assurer à jamais l'amour d'un amant. Et tout Paris était encore ému de la magnificence déployée, à la Madeleine, pour le baptême de cette juive de quarante-cinq ans, dont la beauté et les larmes avaient bouleversé les coeurs.]{.calibre11}
+
+[Gérard restait flatté de cette grande tendresse touchante. Mais la lassitude venait, il avait tenté de rompre, en esquivant les rendez-vous ; et il comprenait bien ce qu'elle lui demandait, de ses yeux suppliants.]{.calibre11}
+
+[« Je vous assure, répéta-t-il faiblissant déjà, ma mère ne m'a pas laissé un jour. Naturellement, j'aurais été si heureux... »]{.calibre11}
+
+[Sans une parole, elle continuait de l'implorer, et des larmes parurent au bord de ses paupières. Depuis un grand mois, il ne l'avait plus reçue dans la petite chambre où ils se rencontraient, rue Matignon, au fond d'une cour. Et, bon et faible comme elle, désespéré de cette minute de solitude où on les avait laissés, il céda, incapable de se refuser davantage.]{.calibre11}
+
+[« Eh bien, cet après-midi, si vous voulez. À quatre heures, comme d'habitude. »]{.calibre11}
+
+[Il avait baissé la voix, mais un léger bruit lui fit tourner la tête, avec le tressaillement d'un homme pris en faute. C'était Camille, la fille de la baronne, qui entrait. Elle n'avait rien entendu, mais au sourire des deux amants, au frémissement même de l'air, elle venait de tout comprendre : un rendez-vous encore, là-bas, dans la rue qu'elle soupçonnait, et pour le jour même. Il y eut une gêne, un échange d'inquiets et mauvais regards.]{.calibre11}
+
+[Camille, à vingt-trois ans, était une petite personne très brune, à demi contrefaite, l'épaule gauche plus haute que la droite. Elle n'avait rien de son père, ni de sa mère : un de ces accidents imprévus, dans l'hérédité d'une famille, qui fait qu'on se demande d'où ils peuvent venir. Sa seule fierté était ses beaux yeux noirs et sa chevelure noire admirable, qui, dans sa petite taille, disait-elle, aurait suffi à la vêtir. Mais le nez était long, la face déviée à gauche, avec des traits heurtés et un menton pointu. La bouche fine, spirituelle, méchante, disait la rancune amassée, la colère perverse, qu'il y avait au fond de cette laide, enragée de l'être. Sûrement, la créature qu'elle exécrait le plus au monde était sa mère, cette amoureuse si peu mère, qui ne l'avait jamais aimée, ne s'était jamais occupée d'elle, après l'avoir dès le berceau abandonnée aux soins de servantes. De sorte qu'une véritable haine avait grandi entre ces deux femmes, muette et froide chez l'une, active et passionnée chez l'autre. La fille haïssait la mère parce qu'elle la trouvait belle et qu'elle l'accusait de ne pas l'avoir faite à son image, belle de cette beauté dont elle l'écrasait. Sa souffrance de chaque jour était de ne pas être désirée, de sentir tous les désirs aller encore à sa mère. Comme elle était d'une méchanceté amusante, on l'écoutait, on riait ; seulement, les regards de tous les hommes, même des plus jeunes, surtout des plus jeunes, retournaient ensuite à cette mère triomphante qui ne voulait pas vieillir. Et c'était alors qu'elle avait décidé, dans sa volonté féroce, de lui prendre son dernier amant, de se faire épouser par ce Gérard, dont la perte la tuerait sans doute. Grâce à ses cinq millions de dot, elle ne manquait pas d'épouseurs ; mais, peu flattée, elle avait coutume de dire, avec son rire mauvais : « Pardi ! Pour cinq millions, ils iraient en choisir une à la Salpêtrière. » Puis, elle s'était mise elle-même à aimer Gérard, qui se montrait gentil à l'égard de cette demi-infirme, par bonté d'âme. Il souffrait de la voir délaissée, il s'abandonnait peu à peu à la tendresse reconnaissante qu'elle lui témoignait, heureux, lui, bel homme, d'être le dieu, d'avoir cette esclave, et, dans sa tentative de rupture avec la mère, devenue lourde à ses bras, il entrait certainement la pensée de se laisser épouser par la fille, ce qui était en somme une fin très douce, bien qu'il ne l'avouât pas encore, honteux, gêné par son nom illustre, par toutes les complications, toutes les larmes qu'il prévoyait.]{.calibre11}
+
+[Le silence continua. Camille, de son regard aigu, meurtrier comme un couteau, avait dit à sa mère qu'elle savait ; puis, elle s'était plainte à Gérard, d'un autre regard douloureux. Et celui-ci, pour rétablir l'équilibre entre les deux femmes, ne trouva qu'un compliment.]{.calibre11}
+
+[« Bonjour, Camille... Ah ! Cette robe havane ! C'est étonnant comme les couleurs un peu sombres vous habillent ! » Camille jeta un coup d'oeil sur la robe blanche de sa mère, puis regarda sa robe foncée, qui laissait voir à peine son cou et ses poignets.]{.calibre11}
+
+[« Oui, répondit-elle en riant, je ne suis passable que lorsque je ne m'habille pas en jeune fille. »]{.calibre11}
+
+[Ève mal à l'aise, soucieuse de sentir grandir une rivalité, à laquelle elle ne voulait pas croire encore, changea la conversation.]{.calibre11}
+
+[« Est-ce que ton frère n'est pas là ?]{.calibre11}
+
+[--- Mais si, nous sommes descendus ensemble. »]{.calibre11}
+
+[Hyacinthe, qui entrait, serra la main de Gérard, d'un air de lassitude. Il avait vingt ans, il tenait de sa mère ses pâles cheveux blonds, sa face allongée d'orientale langueur, et de son père, ses yeux gris, sa bouche épaisse d'appétits sans scrupules. Écolier exécrable, il avait décidé de ne rien faire, dans un mépris égal de toutes les professions, et, gâté par son père, il s'intéressait à la poésie et à la musique, il vivait au milieu d'un monde extraordinaire d'artistes, de filles, de fous et de bandits, fanfaron lui-même de vices et de crimes, affectant l'horreur de la femme, professant les pires idées philosophiques et sociales, allant toujours aux plus extrêmes, tour à tour collectiviste, individualiste, anarchiste, pessimiste, symboliste, même sodomiste, sans cesser d'être catholique, par suprême bon ton. Au fond, il était simplement vide et un peu sot. En quatre générations, le sang vigoureux et affamé des Duvillard, après les trois belles bêtes de proie qu'il avait produites, tombait tout d'un coup, comme épuisé par l'assouvissement, à cet androgyne avorté, incapable même des grands attentats et des grandes débauches.]{.calibre11}
+
+[Camille, qui était trop intelligente pour ne pas sentir ce néant chez son frère, le plaisantait ; et elle reprit, en le regardant, pincé dans la longue redingote à plis, une résurrection romantique qu'il exagérait :]{.calibre11}
+
+[« Maman te demande, Hyacinthe... Viens donc lui montrer ta jupe. C'est toi qui serais joli en fille. »]{.calibre11}
+
+[Mais il s'esquiva, sans répondre. Il avait une peur sourde de sa soeur, son aînée, bien qu'ils vécussent dans une intimité de confidences perverses, se disant tout, essayant en vain de s'étonner l'un l'autre. Et il donna un regard de dédain à la corbeille merveilleuse d'orchidées, de mode usée, devenue bourgeoise. Il avait traversé les lis, il en était à la renoncule, la fleur de sang.]{.calibre11}
+
+[Les deux derniers convives attendus arrivèrent presque ensemble. Ce fut d'abord le juge d'instruction Amadieu, un intime de la maison, un petit homme de quarante-cinq ans, qu'une récente affaire anarchiste venait de mettre en évidence. Il avait une face plate et régulière de magistrat, à gros favoris blonds, qu'il tâchait de rendre aiguë, en se servant d'un monocle, derrière lequel son oeil pétillait. D'ailleurs, très mondain, il était de la nouvelle école psychologue distingué, auteur d'un livre en réponse aux abus de la physiologie criminaliste, d'une ambition tenace, amoureux de publicité, guettant toujours l'occasion des affaires retentissantes qui donnent la gloire. Enfin parut le général de Bozonnet, l'oncle maternel de Gérard, un vieillard grand et sec, au nez en bec d'aigle, que ses rhumatismes avaient forcé récemment à prendre sa retraite. Fait colonel après la guerre en récompense de sa belle conduite à Saint-Privat, il avait gardé à Napoléon III la foi jurée, malgré ses attaches profondément monarchistes. On lui passait, dans son monde, cette sorte de bonapartisme militaire, pour l'amertume qu'il mettait à accuser la République d'avoir tué l'armée. Et, brave homme, adorant sa soeur, Mme de Quinsac, il semblait surtout obéir à un désir secret de celle-ci, en acceptant les invitations de la baronne, comme pour rendre plus naturelle et plus excusable la continuelle présence chez elle de Gérard.]{.calibre11}
+
+[Mais le baron et Dutheil revenaient du cabinet, en riant très haut, d'un rire exagéré, sans doute afin de faire croire à la parfaite liberté de leur esprit. Et l'on passa dans la salle à manger, où brûlait un grand feu, dont les flammes joyeuses luisaient telles qu'un rayon de printemps, au milieu des fins meubles anglais d'acajou clair, chargés d'argenterie et de cristaux. La pièce, d'un vert mousse tendre, avait un charme discret sous le jour pâle, et la table, au centre, avec la richesse de son couvert et la blancheur de son linge, orné d'un point de Venise, semblait avoir miraculeusement fleuri, toute une floraison de grosses roses thé, d'admirables fleurs pour la saison, et d'un parfum délicieux.]{.calibre11}
+
+[La baronne fit asseoir le général à sa droite, Amadieu à sa gauche. Le baron prit à sa droite Dutheil, à sa gauche Gérard. Puis, les enfants se placèrent aux deux bouts, Camille entre Gérard et le général, Hyacinthe entre Dutheil et Amadieu. Et, tout de suite, dès les oeufs brouillés aux truffes, la conversation s'engagea, familière et gaie, cette conversation des déjeuners de Paris, où défilent les événements grands et petits de la veille et de la matinée, les vérités ainsi que les mensonges de tous les mondes, le scandale financier, l'aventure politique, le roman paru, la pièce jouée, les histoires qui ne peuvent se dire qu'à l'oreille, et qu'on raconte tout haut. Et, sous la légèreté de l'esprit qui se dépense, sous les rires qui sonnent souvent faux, chacun garde sa tourmente, sa débâcle intérieure, une détresse parfois qui va jusqu'à l'agonie.]{.calibre11}
+
+[Bravement, avec sa tranquille impudence habituelle, le baron parla le premier de l'article de La Voix du peuple.]{.calibre11}
+
+[« Dites donc, vous avez lu l'article de Sanier, ce matin. C'est un de ses bons, il a de la verve, mais quel fou dangereux ! »]{.calibre11}
+
+[Cela mit tout le monde à l'aise, car cet article aurait sûrement pesé sur le déjeuner, si personne n'en avait soufflé mot.]{.calibre11}
+
+[« Encore le Panama qui recommence ! Cria Dutheil. Ah ! Non, nous en avons assez !]{.calibre11}
+
+[--- L'affaire des Chemins de fer africains, reprit le baron, mais elle est claire comme de l'eau de roche ! Tous ceux que Sanier menace peuvent dormir bien tranquilles... Non, voyez-vous, c'est un coup pour jeter Barroux à bas de son ministère. Il y aura pour sûr tantôt une demande d'interpellation, vous allez voir le beau tapage.]{.calibre11}
+
+[--- Cette presse de diffamation et de scandale, dit posément Amadieu, est un dissolvant qui achèvera la France. Il faudrait des lois. »]{.calibre11}
+
+[Le général eut un geste de colère.]{.calibre11}
+
+[« Des lois, à quoi bon ? Puisqu'on n'a pas le courage de les appliquer ! »]{.calibre11}
+
+[Il y eut un silence. D'un pas discret, le maître d'hôtel présentait des rougets grillés. Le service silencieux, dans la douceur tiède et embaumée de la pièce, ne laissait pas même entendre un bruit de vaisselle. Et, sans qu'on sût comment, la conversation avait brusquement changé, une voix demanda :]{.calibre11}
+
+[« Alors, la reprise de la pièce est reculée ?]{.calibre11}
+
+[--- Oui, dit Gérard, j'ai su ce matin que Polyeucte ne passerait pas avant avril, au plus tôt. »]{.calibre11}
+
+[Camille, muette jusque-là, occupée du jeune homme, s'efforçant de le reconquérir, regarda sa mère et son père de ses yeux luisants. Il s'agissait de la reprise où Silviane s'entêtait à débuter. Mais le baron et la baronne gardèrent une sérénité parfaite, n'ayant plus depuis longtemps rien à ignorer l'un de l'autre. Ève était si heureuse du rendez-vous obtenu pour l'après-midi ! Elle songeait uniquement à ce bonheur, l'imagination déjà là-bas, dans le nid d'amour, tandis qu'elle souriait d'une façon inconsciente à ses convives. Et le baron était bien trop occupé de la nouvelle démarche qu'il comptait faire en tempête aux Beaux-Arts, pour emporter de haute lutte l'engagement. Il se contenta de dire :]{.calibre11}
+
+[« Comment voulez-vous qu'ils remontent les pièces, à la Comédie ? Ils n'ont plus de femmes.]{.calibre11}
+
+[--- Oh ! reprit simplement la baronne, hier, dans cette pièce du Vaudeville, Delphine Vignot avait une robe exquise, et il n'y a qu'elle pour savoir se coiffer. »]{.calibre11}
+
+[Alors, Dutheil raconta, en gazant un peu, à cause de Camille, l'aventure de Delphine et d'un sénateur bien connu. Puis, ce fut un autre scandale, la mort d'une amie de la maison, opérée trop brutalement par un chirurgien, affaire qui avait failli échouer entre les mains d'Amadieu ; et le général en profita, sans transition d'ailleurs, pour placer son amertume, sa sortie accoutumée contre l'organisation imbécile de l'armée actuelle. Le vieux bordeaux luisait comme un sang vermeil dans le fin cristal des verres, un filet de chevreuil aux truffes venait de mêler son fumet un peu âpre au parfum mourant des roses, lorsque des asperges apparurent, une primeur, si rare autrefois, et qui n'étonnait même plus.]{.calibre11}
+
+[« Maintenant, dit le baron avec un geste désenchanté, il y en a tout l'hiver.]{.calibre11}
+
+[--- Alors, demandait au même moment Gérard, c'est cet après-midi, la matinée de la princesse de Harth ? »]{.calibre11}
+
+[Camille vivement intervint.]{.calibre11}
+
+[« Oui, cet après-midi. Irez-vous ?]{.calibre11}
+
+[--- Non, je ne pense pas, je ne pourrai pas, répondit le jeune homme gêné.]{.calibre11}
+
+[--- Ah ! Cette petite princesse, s'écria Dutheil, elle est décidément toquée. Vous n'ignorez pas qu'elle se dit veuve. La vérité serait que son mari, un vrai prince, allié à une famille royale, et beau comme le jour, voyagerait par le monde en compagnie d'une cantatrice. Elle, avec sa tête de gamin vicieux, a préféré venir régner à Paris, dans cet hôtel de l'avenue Kléber, qui est bien l'arche la plus extraordinaire, où le cosmopolitisme pullule en pleine extravagance.]{.calibre11}
+
+[--- Taisez-vous, mauvaise langue, interrompit doucement la baronne. Ici, nous aimons beaucoup Rosemonde, qui est une charmante femme.]{.calibre11}
+
+[--- Mais certainement, reprit de nouveau Camille, elle nous a invités, et nous irons tantôt chez elle, n'est-ce pas, maman ? »]{.calibre11}
+
+[La baronne, pour ne pas répondre, affecta de n'avoir pas entendu pendant que Dutheil, qui paraissait très renseigné, continuait à s'égayer sur la princesse et sur la matinée qu'elle donnait, où elle devait produire des danseuses espagnoles, d'une mimique si lascive que tout Paris, averti, allait s'écraser chez elle. Et il ajouta :]{.calibre11}
+
+[« Vous savez qu'elle a lâché la peinture, elle s'occupe de chimie. C'est plein d'anarchistes, à présent, dans son salon... Il m'a semblé qu'elle vous poursuivait, mon cher Hyacinthe. »]{.calibre11}
+
+[Jusque-là, Hyacinthe n'avait pas desserré les lèvres, comme détaché de tout.]{.calibre11}
+
+[« Oh ! Elle m'assomme, daigna-t-il répondre. Si je vais à sa matinée, c'est dans l'espoir d'y rencontrer mon ami, le jeune lord Elson, qui m'a écrit de Londres pour m'y donner rendez-vous. J'avoue que c'est le seul salon où je trouve avec qui causer.]{.calibre11}
+
+[--- Ainsi, demanda ironiquement Amadieu, vous voilà passé à l'anarchie ? »]{.calibre11}
+
+[Imperturbable, de son air de haute élégance, Hyacinthe fit sa profession de foi.]{.calibre11}
+
+[« Mais monsieur, il me semble qu'en ces temps de bassesse et d'ignominie universelles, un homme de quelque distinction ne saurait être qu'anarchiste. »]{.calibre11}
+
+[Un rire courut autour de la table. On le gâtait beaucoup, on le trouvait très drôle. Son père surtout s'amusait à l'idée d'avoir, lui ! Un fils anarchiste ; et le général, dans ses heures de rancune, parlait de chambarder une société assez bête pour se laisser mener par quatre polissons. Seul, le juge d'instruction, qui était en train de se faire une spécialité des affaires anarchistes, lui tint tête, défendit la civilisation menacée, donna des détails terrifiants sur ce qu'il appelait l'armée de la dévastation et du massacre. Mais les autres convives continuaient de sourire, en mangeant d'un pâté de foie de canard vraiment délicieux, que passait le maître d'hôtel. Il y avait tant de misère, il fallait tout comprendre, les choses finiraient par s'arranger. Le baron lui-même déclara d'un air conciliant :]{.calibre11}
+
+[« C'est certain, on pourrait faire quelque chose. Quoi ? Personne ne le sait au juste. Les revendications sages, oh ! Je les accepte d'avance. Par exemple, améliorer le sort de l'ouvrier, créer de bonnes oeuvres, tenez ! Comme notre asile des Invalides du travail dont nous avons raison d'être fiers. Mais il ne faut pas qu'on nous demande l'impossible. »]{.calibre11}
+
+[Au dessert, il se fit un moment de brusque silence, comme si, dans le papotage des conversations, sous l'étourdissement du copieux déjeuner, la préoccupation, la détresse de chacun serrait de nouveau les coeurs, reparaissait sur les faces effarées. Et l'on vit renaître l'inconscience inquiète de Dutheil, menacé de délation, la colère anxieuse du baron, se demandant comment il allait pouvoir contenter Silviane. Cette fille était sa tare, à lui, si solide, si puissant, le mal secret qui finirait peut-être par le ronger et le détruire. Et l'on vit surtout passer l'affreux drame sur les visages de la baronne, de Camille et de Gérard, cette rivalité haineuse de la mère et de la fille, se disputant l'homme qu'elles aimaient. Les lames de vermeil pelaient délicatement les fruits, il y avait des grappes de raisin dorées, d'une admirable fraîcheur, et des sucreries, des gâteaux défilèrent, une infinité de friandises, où s'attardaient complaisamment les appétits repus.]{.calibre11}
+
+[Puis, comme on servait les rince-bouche, un valet vint se pencher à l'oreille de la baronne, qui répondit à demi-voix :]{.calibre11}
+
+[« Eh bien ! Faites-le entrer au salon. Je vais l'y retrouver. »]{.calibre11}
+
+[Et, plus haut, aux convives :]{.calibre11}
+
+[« C'est M. L'abbé Froment qui est là et qui insiste pour être reçu. Il ne nous gênera pas, je crois que vous le connaissez tous. Oh ! Un véritable saint, pour lequel j'ai beaucoup de sympathie ! »]{.calibre11}
+
+[On s'oublia quelques minutes encore autour de la table, et l'on quitta enfin la salle à manger, tout odorante des mets, des vins des fruits et des roses, toute chaude des grosses bûches qui étaient tombées en braise, dans la gaieté un peu en déroute des cristaux et de l'argenterie, sous le jour pâle et fin éclairant la débandade du couvert.]{.calibre11}
+
+[Au milieu du petit salon, bleu et argent, Pierre était resté debout. Il regrettait maintenant d'avoir insisté, en voyant, sur une table le plateau où le café et les liqueurs étaient servis. Puis, son embarras augmenta, lorsque les convives entrèrent un peu bruyamment, les yeux brillants et les joues roses. Mais sa flamme de charité s'était rallumée en lui si ardente, qu'il vainquit cette gêne. Et il ne lui resta que le sourd malaise d'apporter l'effroyable matinée de misère qu'il avait vécue, tant de noir et de froid, tant de saleté et de faim, dans cette richesse si claire, si tiède, si parfumée, débordante d'inutile et de superflu, au milieu de ces gens qui semblaient très gais d'avoir bien déjeuné.]{.calibre11}
+
+[Tout de suite, la baronne s'avança avec Gérard, car c'était par celui-ci, dont il connaissait la mère, que le prêtre avait été présenté aux Duvillard, à l'époque de la fameuse conversion. Et, comme il s'excusait de se présenter à cette heure :]{.calibre11}
+
+[« Mais vous êtes toujours le bienvenu, monsieur l'abbé... Vous permettez que je m'occupe de mes hôtes, je suis à vous dans un instant. »]{.calibre11}
+
+[Elle retourna près du plateau, pour servir le café et les liqueurs, aidée de sa fille. Gérard demeura, et justement il entretint Pierre, de l'asile des Invalides du travail, où tous deux s'étaient rencontrés récemment, à l'occasion d'une cérémonie, la pose de la première pierre d'un nouveau pavillon, que l'on bâtissait grâce au don superbe de cent mille francs, fait à l'oeuvre par le baron Duvillard. L'oeuvre ne comptait encore que quatre pavillons, et le projet primitif en prévoyait douze, sur le vaste terrain donné par la Ville, dans la presqu'île de Gennevilliers ; de sorte que la souscription restait ouverte et qu'il se menait un grand bruit de cet effort charitable, réponse retentissante et péremptoire aux mauvais esprits qui accusaient la bourgeoisie repue de ne rien faire pour les travailleurs. La vérité était qu'une magnifique chapelle, érigée au milieu du terrain, avait absorbé les deux tiers des fonds réunis. Des dames patronnesses, prises dans tous les mondes, Mme la baronne Duvillard, Mme la comtesse de Quinsac, Mme la princesse Rosemonde de Harth, vingt autres, avaient la charge de faire vivre l'oeuvre, à l'aide de quêtes et de ventes de charité. Mais, surtout, le succès était venu de l'heureuse idée d'avoir débarrassé ces dames des gros soucis de l'organisation, en choisissant pour administrateur général le rédacteur en chef du Globe, le député Fonsègue, un brasseur d'affaires prodigieux. Et Le Globe faisait une propagande continue, répondait aux attaques des révolutionnaires par l'inépuisable charité des classes dirigeantes ; et, lors des dernières élections, l'oeuvre avait ainsi servi d'arme électorale triomphante.]{.calibre11}
+
+[Camille se promenait, une petite tasse fumante à la main.]{.calibre11}
+
+[« Monsieur l'abbé, prenez-vous du café ?]{.calibre11}
+
+[--- Non, merci, mademoiselle.]{.calibre11}
+
+[--- Un petit verre de chartreuse alors ?]{.calibre11}
+
+[--- Non, merci. »]{.calibre11}
+
+[Et, tout le monde étant servi, la baronne revint, pour demander aimablement :]{.calibre11}
+
+[« Voyons, monsieur l'abbé, que désirez-vous de moi ? »]{.calibre11}
+
+[Pierre commença presque à voix basse, la gorge serrée, envahi d'une émotion qui lui faisait battre le coeur.]{.calibre11}
+
+[« Je viens, madame, m'adresser à votre grande bonté. J'ai vu, ce matin, dans une affreuse maison de la rue des Saules, derrière Montmartre, un spectacle qui m'a bouleversé l'âme... Vous n'avez point idée d'une pareille maison de misère et de souffrance, les familles sans feu, sans pain, les hommes réduits au chômage, les mères n'ayant plus de lait pour leurs nourrissons, les enfants à peine vêtus, toussant et grelottant... Et, parmi tant d'horreurs, j'ai vu la pire, la plus abominable, un vieil ouvrier terrassé par l'âge, mourant de faim, tombé sur un tas de loques, dans un réduit dont un chien ne voudrait pas. »]{.calibre11}
+
+[Il tâchait d'y mettre le plus de discrétion possible, épouvanté des mots qu'il disait, des choses qu'il racontait, dans ce milieu de grand luxe et de jouissance, devant ces heureux comblés des joies de ce monde ; car il sentait bien qu'il détonnait d'une façon discourtoise. Quelle étrange idée d'être venu à l'heure où l'on finit de déjeuner lorsque l'arôme du café brûlant caresse les digestions ravies ! Pourtant, il continuait, il finissait même par élever la voix, cédant à la révolte qui le soulevait peu à peu, allant jusqu'au bout de son récit terrible, nommant Laveuve, précisant l'injuste abandon, demandant au nom de la pitié humaine aide et secours. Et tous les convives s'étaient approchés pour l'écouter, il voyait devant lui le baron, et le général, et Dutheil, et Amadieu, qui buvaient à petites gorgées leur café, silencieux, sans un geste.]{.calibre11}
+
+[« Enfin, madame, conclut-il, j'ai pensé qu'on ne pouvait pas laisser une heure de plus ce vieil homme dans cette effroyable position, et que, des ce soir, vous auriez la grande bonté de le faire admettre a l'asile des Invalides du travail, où sa place me semble marquée tout naturellement. »]{.calibre11}
+
+[Des larmes avaient mouillé les beaux yeux d'Ève. Elle était consternée d'une si triste histoire, tombant dans la joie qu'elle se promettait pour l'après-midi. Très molle, sans initiative, trop occupée de sa personne, elle n'avait accepté la présidence du comité qu'à la condition de se décharger sur Fonsègue de tous les soucis administratifs.]{.calibre11}
+
+[« Ah ! Monsieur l'abbé, murmura-t-elle, vous me fendez le coeur. Mais je ne puis rien, rien du tout, je vous assure... Ce Laveuve, d'ailleurs, je crois bien que nous avons déjà examiné son affaire. Vous savez que, chez nous, les admissions sont entourées des garanties les plus sérieuses. On nomme un rapporteur qui doit nous renseigner... Et n'est-ce pas vous, monsieur Dutheil, qui vous étiez chargé de ce Laveuve ? »]{.calibre11}
+
+[Le député achevait un petit verre de chartreuse.]{.calibre11}
+
+[« Mais oui, c'est moi... Monsieur l'abbé, ce gaillard-là vous a joué une comédie. Il n'est pas malade du tout, et, si vous lui avez laissé de l'argent, il sera descendu le boire, derrière votre dos. Car il est toujours ivre, et avec ça l'esprit le plus exécrable, criant du matin au soir contre les bourgeois, disant que, s'il avait encore des bras, ce serait lui qui ferait sauter la boutique... D'ailleurs, il ne veut pas y entrer, à l'asile, une vraie prison où l'on est gardé par des béguines qui vous forcent à entendre la messe, un sale couvent dont on ferme les portes à neuf heures du soir ! Et il y en a tant comme cela, qui préfèrent leur liberté, avec le froid, la faim et la mort !... Que les Laveuve crèvent donc dans la rue, puisqu'ils refusent d'être avec nous, d'avoir chaud et de manger, dans nos asiles ! »]{.calibre11}
+
+[Le général et Amadieu approuvèrent d'un hochement de tête. Mais Duvillard se montrait plus généreux.]{.calibre11}
+
+[« Non, non, un homme est un homme, il faut le secourir malgré lui. »]{.calibre11}
+
+[Ève, tout à fait désespérée à l'idée qu'on allait lui prendre son après-midi, se débattit, trouva des raisons.]{.calibre11}
+
+[« Je vous assure que j'ai les mains absolument liées. M. L'abbé ne doute ni de mon coeur ni de mon zèle. Mais comment veut-on que je réunisse avant quelques jours le comité de ces dames, sans lequel je tiens formellement à ne prendre aucune décision, surtout dans une affaire déjà examinée et jugée ? »]{.calibre11}
+
+[Et, brusquement, elle eut une solution.]{.calibre11}
+
+[« Ce que je vous conseille de faire, monsieur l'abbé, c'est d'aller voir tout de suite M. Fonsègue, notre administrateur. Dans un cas pressant, il peut seul agir, car il sait que ces dames ont en lui une confiance sans bornes et qu'elles approuvent tout ce qu'il fait.]{.calibre11}
+
+[--- Vous trouverez Fonsègue à la Chambre, ajouta Dutheil en souriant ; seulement, la séance va être chaude, je doute que vous puissiez l'entretenir à l'aise. »]{.calibre11}
+
+[Pierre, dont le coeur s'était serré davantage, n'insista pas, tout de suite résolu à voir Fonsègue, à obtenir quand même avant le soir l'admission du misérable, dont l'atroce image le hantait. Et il resta là quelques minutes encore, retenu par Gérard, qui, obligeamment, lui indiquait le moyen de convaincre le député, en alléguant le mauvais effet d'une pareille histoire, si elle s'ébruitait dans les journaux révolutionnaires. D'ailleurs, les convives commençaient à partir. Le général, avant de se retirer, vint demander à son neveu s'il le verrait l'après-midi, chez sa mère, Mme de Quinsac, dont c'était le jour : question à laquelle le jeune homme se contenta de répondre d'un geste évasif, lorsqu'il s'aperçut qu'Ève et Camille le regardaient. Puis, ce fut le tour d'Amadieu, qui se sauva, en disant qu'une grave affaire le réclamait au Palais. Et bientôt Dutheil le suivit, pour se rendre à la Chambre.]{.calibre11}
+
+[« De quatre à cinq chez Silviane, n'est-ce pas ? lui dit le baron en le reconduisant. Venez m'y raconter ce qui se sera passé à la Chambre, à la suite de cet article odieux de Sanier. Il faut pourtant que je sache... Moi, j'irai aux Beaux-Arts, pour arranger l'affaire de la Comédie ; et puis, j'ai des courses, des entrepreneurs à voir, une grosse affaire de publicité à régler.]{.calibre11}
+
+[--- Entendu, de quatre à cinq, chez Silviane, comme d'habitude », dit le député, qui partit, repris d'un vague malaise, inquiet de la façon dont tournerait cette vilaine histoire des Chemins de fer africains.]{.calibre11}
+
+[Et tous déjà avaient oublié Laveuve, le misérable qui agonisait, et tous couraient à leurs soucis, à leurs passions, ressaisis par l'engrenage, retombés sous la meule, dans cette ruée de Paris dont la fièvre les charriait, les heurtait en une ardente bousculade, à qui arriverait le premier, en passant sur le corps des autres.]{.calibre11}
+
+[« Alors, maman, demanda Camille, qui continuait à dévisager sa mère et Gérard, tu vas nous mener à la matinée de la princesse ?]{.calibre11}
+
+[--- Tout à l'heure, oui... Seulement, je ne pourrai y rester avec vous, j'ai reçu ce matin une dépêche de Salmon, pour mon corsage, et il faut absolument que j'aille l'essayer, à quatre heures. »]{.calibre11}
+
+[La jeune fille fut certaine du mensonge, au léger tremblement de la voix.]{.calibre11}
+
+[« Tiens ! Je croyais que l'essayage n'était que pour demain... Alors, nous irons te reprendre chez Salmon, avec la voiture, en sortant de la matinée ?]{.calibre11}
+
+[--- Ah ! Pour cela, non, ma chère ! On ne sait jamais quand on est libre ; et, d'ailleurs, si j'ai un moment, je passerai chez la modiste. »]{.calibre11}
+
+[Une sourde rage fit monter une flamme meurtrière aux yeux noirs de Camille. Le rendez-vous était évident. Mais elle ne pouvait, elle n'osait pousser les choses plus loin, dans son besoin passionné d'inventer un obstacle. Elle avait vainement tenté d'implorer Gérard, qui détournait la tête, debout pour partir. Et Pierre, au courant de bien des choses, depuis qu'il fréquentait la maison, eut conscience, à les sentir si frémissants, de l'inavouable drame silencieux.]{.calibre11}
+
+[Allongé dans un fauteuil, achevant de croquer une perle d'éther, la seule liqueur qu'il se permit, Hyacinthe éleva la voix.]{.calibre11}
+
+[« Moi, vous savez que je vais à l'exposition du Lis. Tout Paris s'y écrase. Il y a surtout là un tableau, Le Viol d'une âme, qu'il faut absolument avoir vu.]{.calibre11}
+
+[--- Eh bien ! Mais, je ne refuse pas de vous y conduire, reprit la baronne. Avant d'aller chez la princesse, nous pouvons passer par cette exposition.]{.calibre11}
+
+[--- C'est cela, c'est cela ! » dit vivement Camille, qui plaisantait durement d'ordinaire les peintres symbolistes, mais qui devait projeter d'attarder sa mère, avec l'espoir encore de lui faire manquer le rendez-vous.]{.calibre11}
+
+[Puis, s'efforçant de sourire :]{.calibre11}
+
+[« Vous ne vous risquez pas au Lis avec nous, monsieur Gérard ?]{.calibre11}
+
+[--- Ma foi, non ! Répondit le comte, j'ai besoin de marcher. Je vais accompagner M. L'abbé Froment jusqu'à la Chambre. »]{.calibre11}
+
+[Et il prit congé de la mère et de la fille, en leur baisant la main à toutes deux. Pour attendre quatre heures, il venait de songer qu'il monterait un instant chez Silviane, où il avait ses petites entrées lui aussi, depuis qu'il y était resté un soir à coucher. Dans la cour vide et solennelle, il dit au prêtre :]{.calibre11}
+
+[« Ah ! ça fait du bien, de respirer un peu d'air froid. Ils chauffent trop, chez eux, et toutes ces fleurs portent à la tête. »]{.calibre11}
+
+[Pierre s'en allait étourdi la fièvre aux mains, les sens lourds de tout ce luxe, qu'il laissait là, comme le rêve d'un brûlant paradis embaumé, où ne vivaient que des élus. Son besoin nouveau de charité s'y était d'ailleurs exaspéré, il ne réfléchissait qu'au moyen d'obtenir de Fonsègue l'admission de Laveuve, sans écouter le comte qui lui parlait très tendrement de sa mère. Et, la porte de l'hôtel étant retombée, ils avaient fait quelques pas dans la rue, lorsque la conscience d'une brusque vision lui revint. N'avait-il pas vu, au bord du trottoir d'en face, regardant cette porte monumentale, close sur de si fabuleuses richesses, un ouvrier arrêté attendant, cherchant des yeux, dans lequel il avait cru reconnaîtra Salvat, avec son sac à outils, cet affamé parti le matin en quête de travail ? Vivement, il se retourna, inquiet d'une telle misère devant tant de possession et de jouissance. Mais l'ouvrier, dérangé dans sa contemplation, craignant peut-être aussi d'avoir été reconnu s'éloignait d'un pas traînard. Et, à ne plus l'apercevoir que de dos, Pierre hésita, finit par se dire qu'il s'était trompé.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+[Livre I]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778735 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778397 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778059 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777721 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777383 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776707 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776369 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776031 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775693 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775355 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775017 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368774679 .pcalibre .calibre3 .pcalibre1} {#iii .calibre47 .sigil_not_in_toc}
+
+[Quand l'abbé Froment voulut entrer au Palais-Bourbon, il réfléchit qu'il n'avait pas de carte ; et il allait se décider à faire demander simplement Fonsègue, bien qu'il ne fût pas connu de lui, lorsque, dans le vestibule, il aperçut Mège, le député collectiviste, avec lequel il s'était lié, autrefois, pendant ses journées de charité militante, à travers la misère du quartier de Charonne.]{.calibre11}
+
+[« Tiens ! Vous ici ? Vous ne venez pas nous évangéliser ?]{.calibre11}
+
+[--- Non, je viens voir M. Fonsègue pour une affaire pressée, un malheureux qui ne peut attendre.]{.calibre11}
+
+[--- Fonsègue, je ne sais pas s'il est arrivé... Attendez. »]{.calibre11}
+
+[Et, arrêtant un jeune homme qui passait, petit et brun, d'un air de souris fureteuse :]{.calibre11}
+
+[« Dites donc, Massot, voici M. L'abbé Froment qui désire parler tout de suite à votre patron.]{.calibre11}
+
+[--- Le patron, mais il n'est pas là. Je viens de le laisser au journal, où il en a encore pour un grand quart d'heure. Si monsieur l'abbé veut bien attendre, il le verra ici sûrement. »]{.calibre11}
+
+[Alors, Mège fit entrer Pierre dans la salle des pas perdus, vaste et froide, avec son Laocoon et sa Minerve de bronze, ses murs nus, que les hautes portes-fenêtres, donnant sur le jardin, éclairaient du pâle et triste jour d'hiver. Mais, en ce moment, elle était pleine et comme chauffée par toute une agitation fiévreuse, des groupes nombreux qui stationnaient, des allées et venues continuelles de gens qui s'empressaient, se lançaient au travers de la cohue. Il y avait là des députés surtout, des journalistes, de simples curieux. Et c'était un brouhaha grandissant, de sourdes et violentes conversations, des exclamations, des rires, au milieu d'une gesticulation passionnée.]{.calibre11}
+
+[Le retour de Mège, dans ce tumulte, parut y redoubler le bruit. Il était grand, d'une maigreur d'apôtre, assez mal soigné de sa personne, déjà vieux et usé pour ses quarante-cinq ans, avec des yeux de brûlante jeunesse, étincelants derrière les verres du binocle qui ne quittait jamais son nez mince, en bec d'oiseau. Et il avait toujours toussé, la parole déchirée et chaude, ne vivant que par l'âpre volonté de vivre, de réaliser le rêve de société future dont il était hanté. Fils d'un médecin pauvre d'une ville du Nord, tombé jeune sur le pavé de Paris, il avait vécu sous l'Empire de bas journalisme, de besognes ignorées, il s'était fait une première réputation d'orateur dans les réunions publiques, puis, après la guerre, devenu le chef du parti collectiviste par sa foi ardente, par l'extraordinaire activité de son tempérament de lutteur, il avait réussi enfin à entrer à la chambre ; et, très documenté, il s'y battait pour ses idées avec une volonté, une obstination farouche, en doctrinaire qui avait disposé du monde selon sa foi, réglant à l'avance, pièce à pièce, le dogme du collectivisme. Depuis qu'il émargeait comme député, les socialistes du dehors ne voyaient plus en lui qu'un rhéteur, un dictateur au fond, qui ne s'efforçait de refondre les hommes que pour les conquérir à sa croyance et les gouverner.]{.calibre11}
+
+[« Vous savez ce qui se passe ? demanda-t-il à Pierre. Hein ? Encore une propre aventure !... Que voulez-vous ? Nous sommes dans la boue jusqu'aux oreilles. »]{.calibre11}
+
+[Il s'était pris autrefois d'une véritable sympathie pour ce prêtre qu'il voyait si doux aux souffrants, si désireux d'une régénération sociale. Et le prêtre lui-même avait fini par s'intéresser à ce rêveur autoritaire, résolu à faire le bonheur des hommes malgré eux. Il le savait pauvre, cachant sa vie, vivant avec une femme et quatre enfants qu'il adorait.]{.calibre11}
+
+[« Vous pensez bien que je ne suis pas avec Sanier, reprit-il. Mais enfin, puisqu'il a parlé ce matin, en menaçant de publier la liste des noms de tous ceux qui ont touché, nous ne pouvons cependant pas avoir l'air d'être complices davantage. Voici longtemps déjà qu'on se doute des sales tripotages dont cette affaire louche des Chemins de fer africains a été l'occasion. Et le pis est que deux membres du cabinet actuel se trouvent visés ; car, il y a trois ans, lorsque les Chambres s'occupèrent de l'émission Duvillard, Barroux était à l'Intérieur et Monferrand aux Travaux publics. Maintenant que les voilà revenus, celui-ci à l'Intérieur, l'autre aux Finances, avec la présidence du Conseil, est-il possible de ne pas les forcer à nous : renseigner sur leurs agissements de jadis, dans leur intérêt même ?... Non, non ! Ils ne peuvent plus se taire, j'ai annoncé que j'allais les interpeller aujourd'hui même. »]{.calibre11}
+
+[C'était cette annonce d'une interpellation de Mège qui bouleversait ainsi les couloirs, à la suite du terrible article de La Voix du peuple. Et Pierre restait un peu effaré de toute cette histoire tombant dans sa préoccupation unique de sauver un misérable de la faim et de la mort. Aussi écoutait-il sans bien comprendre les explications passionnées du député socialiste, tandis que la rumeur grandissait et que des rires disaient l'étonnement de voir ce dernier en conversation avec un prêtre.]{.calibre11}
+
+[« Sont-ils bêtes ! murmura-t-il, plein de dédain. Est-ce qu'ils croient que je mange une soutane, chaque matin, à mon déjeuner ?... Je vous demande pardon, mon cher monsieur Froment. Tenez ! Asseyez-vous sur cette banquette, pour attendre Fonsègue. »]{.calibre11}
+
+[Lui-même se lança dans la tourmente, et Pierre comprit que le mieux, en effet, était de tranquillement s'asseoir. Le milieu le prenait, l'intéressait, il oubliait Laveuve pour se laisser envahir par la passion de la crise parlementaire, dans laquelle il se trouvait jeté. On sortait à peine de l'effroyable aventure du Panama, il en avait suivi le drame avec l'angoisse d'un homme qui attend chaque soir le coup de tocsin sonnant l'heure dernière de la vieille société en agonie. Et voilà qu'un petit Panama recommençait, un nouveau craquement de l'édifice pourri, l'aventure fréquente dans les parlements de tous les temps, pour toutes les grandes affaires d'argent, mais qui empruntait une gravité mortelle aux circonstances sociales où elle se produisait. Cette histoire des Chemins de fer africains, ce petit coin de boue remuée, exhalant d'inquiétantes odeurs, soulevant brusquement à la Chambre cette émotion, ces craintes, ces colères, ce n'était en somme qu'une occasion à bataille politique, un terrain où allaient s'exaspérer les appétits voraces des divers groupes, et il ne s'agissait, au fond, que de renverser un ministère pour le remplacer par un autre. Seulement, derrière ce rut, cette poussée continue des ambitions, quelle lamentable proie s'agitait, le peuple tout entier, dans sa misère et dans sa souffrance !]{.calibre11}
+
+[Pierre s'aperçut que Massot, le petit Massot comme on le nommait, s'était assis près de lui, sur la banquette. L'oeil éveillé, l'oreille ouverte, écoutant et enregistrant tout, se glissant partout de son air de furet, il n'était pas là comme chroniqueur parlementaire, il avait simplement flairé une grosse séance et il était venu voir s'il ne trouverait pas quelque article à glaner. Sans doute, ce prêtre perdu au milieu de cette cohue l'intéressait.]{.calibre11}
+
+[« Ayez un peu de patience, monsieur l'abbé, dit-il, avec une gaieté aimable de jeune monsieur qui se moquait de tout. Le patron ne peut manquer de venir, il sait que le four va chauffer ici... Vous n'êtes point un de ses électeurs de la Corrèze, n'est-ce pas ?]{.calibre11}
+
+[--- Non, non, je suis de Paris, je viens pour un pauvre homme que je voudrais faire entrer tout de suite à l'asile des Invalides du travail.]{.calibre11}
+
+[--- Ah ! Très bien. Moi aussi, je suis un enfant de Paris. »]{.calibre11}
+
+[Et il en riait. Un enfant de Paris, en effet : fils d'un pharmacien du quartier Saint-Denis, un ancien cancre du lycée Charlemagne, qui n'avait pas même fini ses études. Il avait tout raté, il s'était trouvé jeté dans la presse, vers dix-huit ans, à peine avec l'orthographe suffisante ; et, depuis douze ans déjà, comme il le disait, il roulait sa bosse à travers les mondes, confessant les uns, devinant les autres. Il avait tout vu, s'était dégoûté de tout, ne croyait plus aux grands hommes, disait qu'il n'y avait pas de vérité, vivait en paix de la méchanceté et de la sottise universelles. Il n'avait naturellement aucune ambition littéraire, il professait même le mépris raisonné de la littérature. Au demeurant, ce n'était point un sot, il écrivait n'importe quoi dans n'importe quel journal, sans conviction ni croyance aucune, affichant avec tranquillité ce droit qu'il avait de tout dire au public, à condition de l'amuser ou de le passionner.]{.calibre11}
+
+[« Alors, vous connaissez Mège, monsieur l'abbé ? Hein ? Quel bon type ! En voilà un grand enfant, un rêveur chimérique, dans la peau du plus terrible des sectaires ! Oh ! Je l'ai beaucoup pratiqué, je le possède à fond... Vous savez qu'il vit dans la perpétuelle certitude qu'avant six mois il aura mis la main sur le pouvoir et qu'il réalisera, du soir au matin, sa fameuse société collectiviste qui doit succéder à la société capitaliste, comme le jour succède à la nuit... Et, tenez ! Avec son interpellation d'aujourd'hui, le voici convaincu qu'il va renverser le cabinet Barroux pour hâter son tour. C'est son système, user ses adversaires. Que de fois je l'ai entendu faire son calcul, user celui-ci, user celui-là, puis cet autre, pour régner enfin ! Toujours dans six mois, au plus tard... Le malheur est que, sans cesse, il en pousse d'autres, et que son tour ne vient jamais. »]{.calibre11}
+
+[Le petit Massot s'égayait librement. Puis, il baissa un peu la voix.]{.calibre11}
+
+[« Et, Sanier, le connaissez-vous ? Non... Voyez-vous cet homme roux, à cou de taureau, qui a l'air d'un boucher... Là-bas, celui qui cause dans un petit groupe de redingotes râpées. »]{.calibre11}
+
+[Pierre l'aperçut enfin. Il avait de larges oreilles écartées, une bouche lippue, un nez fort, de gros yeux ternes, à fleur de tête.]{.calibre11}
+
+[« Celui-là aussi, je puis dire que je le possède à fond. J'ai été avec lui, à La Voix du peuple, avant d'être au Globe, avec Fonsègue.]{.calibre11}
+
+[Ce que personne ne sait au juste, c'est d'où il sort. Longtemps il a traîné dans les bas-fonds de la presse, journaliste sans éclat, enragé d'ambition et d'appétits. Vous vous rappelez peut-être son premier coup de tintamarre, cette affaire assez malpropre d'un nouveau Louis XVII, qu'il essaya de lancer et qui fit de lui l'extraordinaire royaliste qu'il est resté. Puis, il s'avisa d'épouser la cause du peuple, il afficha un socialisme catholique vengeur, dressant le procès de la libre pensée et de la République, dénonçant les abominations de l'époque, au nom de la justice et de la morale, pour les guérir. Il avait débuté par des portraits de financiers, un ramassis d'ignobles commérages, sans contrôle, sans preuves, qui auraient dû le conduire en police correctionnelle, et qui, réunis en volume, ont eu l'étourdissant succès que vous savez. Et il a continué et il continue dans La Voix du peuple, qu'il a lancée, au moment du Panama, à coups de délations et de scandales, et qui est aujourd'hui la bouche d'égout vomissant les ordures contemporaines, en inventant dès que le flot se tarit, pour l'unique besoin des grands tapages dont vivent son orgueil et sa caisse. »]{.calibre11}
+
+[Il ne se fâchait pas, le petit Massot, et il s'était remis à rire, ayant au fond, sous sa cruauté insouciante, du respect pour Sanier.]{.calibre11}
+
+[« Oh ! Un bandit, mais tout de même un homme fort ! Vous ne vous imaginez pas la vanité débordante du personnage. Dernièrement, vous avez vu qu'il s'est fait acclamer par la populace, car il joue au roi des Halles. Peut-être bien qu'il s'est pris lui-même à sa belle attitude de justicier et qu'il finit par croire qu'il sauve le peuple, qu'il aide à la vertu... Ce qui m'émerveille, moi, c'est sa fertilité dans la dénonciation et dans le scandale. Pas un matin ne se passe, sans qu'il découvre une horreur nouvelle, sans qu'il livre de nouveaux coupables à la haine des foules. Non ! Jamais le flot de boue ne s'épuise, il y ajoute sans cesse une moisson imprévue d'infamies, c'est un redoublement d'imaginations monstrueuses chaque fois que le public écoeuré donne des marques de lassitude... Et voyez-vous, monsieur l'abbé, c'est là qu'est le génie, car il sait parfaitement que le tirage monte dès qu'il lance, comme aujourd'hui la menace de tout dire, de publier les noms des vendus et des traîtres... Voilà sa vente assurée pour plusieurs jours. »]{.calibre11}
+
+[Pierre écoutait cette gaie parole qui se moquait, et il comprenait mieux des choses dont le sens exact, jusque-là, lui avait échappé. Il finit par lui poser des questions, surpris que tant de députés fussent ainsi dans les couloirs, lorsque la séance était ouverte. Ah ! La séance, on avait beau y discuter la plus grave des affaires, une loi d'intérêt général, tous les membres la désertaient, sous cette brusque nouvelle d'une interpellation qui pouvait emporter le ministère ! Et la passion qui s'agitait là, c'était la colère contenue, l'inquiétude grandissante des clients du ministère au pouvoir, craignant d'être délogés, d'avoir à céder la place à d'autres ; et c'était aussi l'espoir subit, la faim impatiente et vorace de tous ceux qui attendaient, les clients des ministères possibles du lendemain.]{.calibre11}
+
+[Massot montra Barroux, le chef du cabinet, qui avait pris les Finances, bien qu'il y fût dépaysé, pour rassurer l'opinion par son intégrité hautement reconnue, après la crise du Panama. Il causait à l'écart avec le ministre de l'instruction publique, le sénateur Taboureau, un vieil universitaire, l'air effacé et triste, très probe, mais d'une ignorance totale de Paris, qu'on était allé chercher au fond d'une faculté de province. Barroux était, lui, très décoratif, grand, avec une belle figure rasée, dont un nez trop petit gâtait la noblesse. À soixante ans, il avait des cheveux bouclés, d'un blanc de neige, qui achevaient de lui donner une majesté un peu théâtrale, dont il usait à la tribune. D'une vieille famille parisienne, riche, avocat, puis journaliste républicain sous l'Empire, il était arrivé au pouvoir avec Gambetta, honnête et romantique, tonitruant et un peu sot, mais très brave très droit, d'une foi restée ardente aux principes de la grande Révolution. Le jacobin en lui se démodait, il devenait un ancêtre, un des derniers soutiens de la République bourgeoise, dont commentaient à sourire les nouveaux venus, les jeunes politiques aux dents longues. Et, sous l'apparat de sa tenue, sous la pompe de son éloquence, il y avait un hésitant, un attendri, un bon homme qui pleurait en relisant les vers de Lamartine.]{.calibre11}
+
+[Ensuite, ce fut Monferrand, le ministre de l'Intérieur, qui passa et qui prit Barroux à part, pour lui glisser quelques mots dans l'oreille. Lui, au contraire, âgé de cinquante ans, était court et gros, l'air souriant et paterne, mais sa face ronde, un peu commune, entourée d'un collier de barbe brune encore, avait des dessous de vive intelligence. On sentait l'homme de gouvernement, des mains aptes aux rudes besognes, qui jamais ne lâchaient la proie. Ancien maire de Tulle, il venait de la Corrèze, où il possédait une grande propriété. C'était sûrement une force en marche, dont les observateurs suivaient avec inquiétude la montée constante. Il parlait simplement, avec une tranquillité, une puissance de conviction extraordinaires. Sans ambition apparente, d'ailleurs, il affectait un complet désintéressement, sous lequel grondaient les plus furieux appétits. Un voleur, écrivait Sanier, un assassin qui avait étranglé deux de ses tantes, pour hériter d'elles. En tout cas, un assassin qui n'était point vulgaire.]{.calibre11}
+
+[Et puis, ce fut encore un des personnages du drame qui allait se jouer, le député Vignon, dont l'entrée agita les groupes. Les deux ministres le regardèrent, tandis que lui, tout de suite très entouré, leur souriait de loin. Il n'avait pas trente-six ans, mince et de taille moyenne, très blond, avec une belle barbe blonde, qu'il soignait. Parisien, ayant fait un chemin rapide dans l'Administration, un moment préfet à Bordeaux, il était maintenant la jeunesse, l'avenir à la Chambre, ayant compris qu'il fallait en politique un nouveau personnel, pour accomplir les plus pressées des réformes indispensables ; et, très ambitieux, très intelligent, sachant beaucoup de choses, il avait un programme, dont il était parfaitement capable de tenter l'application, au moins en partie. Il ne montrait du reste aucune hâte, plein de prudence et de finesse, certain que son jour viendrait, fort de n'être encore compromis dans rien, ayant devant lui le libre espace. Au fond, il n'était qu'un administrateur de premier ordre, d'une éloquence nette et claire, dont le programme ne différait de celui de Barroux que par le rajeunissement des formules, bien qu'un ministère Vignon à la place d'un ministère Barroux apparût comme un événement considérable. Et c'était de Vignon que Sanier écrivait qu'il visait la présidence de la République, quitte à marcher dans le sang pour arriver à l'Élysée.]{.calibre11}
+
+[« Mon Dieu ! Expliquait Massot, il est très possible que, cette fois Sanier ne mente pas et qu'il ait trouvé une liste de noms sur un carnet de Hunter, qui serait tombé entre ses mains... Dans cette affaire des Chemins de fer africains, pour obtenir certains votes, je sais personnellement depuis longtemps que Hunter a été le racoleur de Duvillard. Mais si l'on veut comprendre, on doit d'abord établir de quelle manière il procédait, avec une adresse, une sorte de délicatesse aimable, qui sont loin des brutales corruptions, des marchandages salissants qu'on suppose. Il faut être Sanier pour imaginer un Parlement comme un marché ouvert, où toutes les consciences sont à vendre, où elles s'adjugent au plus offrant, avec impudence. Ah ! Que les choses se sont passées autrement, et qu'elles sont explicables, excusables même parfois !... Ainsi, l'article vise surtout Barroux et Monferrand, qui, sans y être nommés, y sont désignés de la façon la plus claire. Vous n'ignorez pas qu'au moment du vote Barroux était à l'Intérieur et Monferrand aux Travaux publics, de sorte que les voilà accusés d'être des ministres prévaricateurs, le plus noir des crimes sociaux. Je ne sais dans quelle combinaison politique Barroux a pu entrer, mais je jure bien qu'il n'a rien mis dans sa poche, car il est le plus honnête des hommes. Quant à Monferrand, c'est une autre affaire, il est homme à se faire sa part ; seulement, je serais très surpris s'il s'était mis dans un mauvais cas. Il est incapable d'une faute, surtout d'une faute bête, comme celle de toucher de l'argent, en en laissant traîner le reçu. » Il s'interrompit, il indiqua d'un mouvement de tête Dutheil, l'air fiévreux et souriant quand même, parmi un groupe qui venait de se former autour des deux ministres.]{.calibre11}
+
+[« Tenez ! Ce jeune homme là-bas, le joli brun qui a une barbe si triomphante.]{.calibre11}
+
+[--- Je le connais, dit Pierre.]{.calibre11}
+
+[--- Ah ! Vous connaissez Dutheil. Eh bien ! En voilà un qui a sûrement touché. Mais c'est un oiseau. Il nous est arrivé d'Angoulême pour mener la plus aimable des existences, et il n'a pas plus de conscience ni de scrupules que les gentils pinsons de son pays, toujours en fête d'amour. Ah ! Pour celui-là, l'argent de Hunter a été comme une manne qui lui était due, et il ne s'est pas même dit qu'il se salissait les doigts. Soyez sûr qu'il s'étonne qu'on puisse donner à ça la moindre importance. »]{.calibre11}
+
+[De nouveau, il désigna un député, dans le même groupe, un homme d'environ cinquante ans, malpropre, l'air éploré, d'une hauteur de perche, et la taille un peu courbée par le poids de sa tête, qu'il avait longue et chevaline. Ses cheveux jaunâtres, rares et plats ses moustaches tombantes, toute sa face noyée, éperdue, exprimait une continuelle détresse.]{.calibre11}
+
+[« Et Chaigneux, le connaissez-vous ? Non... Regardez-le, et demandez-vous s'il n'est pas tout naturel aussi que celui-ci ait touché... Il est débarqué d'Arras. Il avait là-bas une étude d'avoué. Lorsque sa circonscription l'a envoyé ici, il s'est laissé griser par la politique, il a tout vendu pour venir faire fortune à Paris, où il s'est installé avec sa femme et ses trois filles. Alors, vous vous imaginez son désarroi au milieu de ces quatre femmes, des femmes terribles, toujours dans les chiffons, les courses, les visites à recevoir et à rendre, sans compter la chasse aux épouseurs qui fuient. C'est la malchance acharnée, l'échec quotidien du pauvre homme médiocre qui a cru que sa situation de député allait lui faciliter les affaires, et qui s'y noie... Et vous ne voulez pas que Chaigneux ait touché, lui qui est toujours en souffrance d'un billet de cinq cents francs ! J'admets qu'il ne fût pas un malhonnête homme. Il l'est devenu, voilà tout. »]{.calibre11}
+
+[Massot était lancé, il continua ses portraits, la série qu'il avait un instant rêvé d'écrire, sous le titre de « Députés à vendre ». Les naïfs tombés dans la cuve, les exaspérés d'ambition, les âmes basses cédant à la tentation des tiroirs ouverts, les brasseurs d'affaires se grisant et perdant pied, à remuer de gros chiffres. Mais il reconnaissait volontiers qu'ils étaient relativement peu nombreux et que ces quelques brebis galeuses se retrouvaient dans tous les parlements du monde. Le nom de Sanier revint encore, il n'y avait que Sanier pour faire de nos Chambres des cavernes de voleurs.]{.calibre11}
+
+[Et Pierre, surtout, s'intéressait à la tourmente que la menace d'une crise ministérielle soulevait devant lui. Autour de Barroux et de Monferrand, il n'y avait pas que les Dutheil, que les Chaigneux pâles de sentir le sol trembler, se demandant s'ils n'iraient pas coucher le soir à Mazas. Tous leurs clients étaient là, tous ceux qui tenaient d'eux l'influence, les places, et qui allaient s'effondrer disparaître dans leur chute. Aussi fallait-il voir l'anxiété des regards, l'attente livide des figures, au milieu des conversations chuchotantes, des renseignements et des commérages qui couraient. Puis dans le groupe d'à côté, autour de Vignon très calme, souriant, c'était l'autre clientèle, celle qui attendait de monter à l'assaut du pouvoir, pour tenir enfin l'influence, les places. Les yeux y luisaient de convoitise, on y lisait une joie encore à l'état d'espérance, une surprise heureuse de l'occasion brusque qui se présentait. Aux questions trop directes de ses amis, Vignon évitait de répondre, affirmait seulement qu'il n'interviendrait pas. Et son plan était évidemment de laisser Mège interpeller, renverser le ministère, car il ne le craignait pas, et il n'aurait ensuite, croyait-il, qu'à ramasser les portefeuilles tombés.]{.calibre11}
+
+[« Ah ! Monferrand, disait le petit Massot, en voilà un gaillard qui prend le vent ! Je l'ai connu anticlérical, mangeant du prêtre, monsieur l'abbé, si vous me permettez de m'exprimer ainsi ; et ce n'est pas pour vous être agréable, mais je crois pouvoir vous annoncer qu'il s'est réconcilié avec Dieu... Du moins, on m'a conté que Mgr Martha, un grand convertisseur, ne le quitte plus. Cela fait plaisir par les temps nouveaux d'aujourd'hui, lorsque la science a fait banqueroute et que, de tous côtés, dans les arts, dans les lettres dans la société elle-même, la religion refleurit en un délicieux mysticisme. »]{.calibre11}
+
+[Il se moquait, comme toujours ; mais il avait dit cela d'un air si aimable, que le prêtre dut s'incliner. D'ailleurs, un grand mouvement s'était produit, des voix annonçaient que Mège montait à la tribune ; et ce fut une hâte générale, tous les députés rentrèrent dans la salle des séances, ne laissant que les curieux et quelques journalistes dans la salle des pas perdus.]{.calibre11}
+
+[« C'est étonnant, reprit Massot, que Fonsègue ne soit pas arrivé. Ça l'intéresse pourtant, ce qui se passe. Mais il est si malin, qu'il y a toujours une raison, quand il ne fait pas ce qu'un autre ferait.. Est-ce que vous le connaissez ? »]{.calibre11}
+
+[Et, sur la réponse négative de Pierre :]{.calibre11}
+
+[« Une tête et une vraie puissance, celui-là !... Oh ! J'en parle librement, je n'ai guère la bosse du respect, et mes patrons, n'est-ce pas ? C'est encore les pantins que je connais le mieux et que je démonte le plus volontiers... Fonsègue est, lui aussi, désigné clairement dans l'article de Sanier. Il est, d'ailleurs, le client ordinaire de Duvillard. Qu'il ait touché, cela ne fait aucun doute, car il touche dans tout.]{.calibre11}
+
+[Seulement, il est toujours couvert, il touche pour des raisons avouables, la publicité, les commissions permises. Et, si j'ai cru le voir troublé tout à l'heure, s'il tarde à être là comme pour établir un alibi moral, c'est donc qu'il aurait commis la première imprudence de sa vie. »]{.calibre11}
+
+[Il continua, il raconta tout Fonsègue, un Corrézien encore, qui s'était mortellement fâché avec Monferrand à la suite d'histoires inconnues, un ancien avocat de Tulle venu à Paris pour le conquérir et qui l'avait réellement conquis, grâce au grand journal du matin Le Globe, dont il était le fondateur et le directeur. Maintenant, il occupait, avenue du Bois-de-Boulogne, un luxueux hôtel, et pas une entreprise ne se lançait, sans qu'il s'y taillât royalement sa part. Il avait le génie des affaires, il se servait de son journal comme d'une force incalculable, pour régner en maître sur le marché. Mais quel esprit de conduite, quelle longue et adroite patience, avant d'arriver à son solide renom d'homme grave, gouvernant avec autorité le plus vertueux, le plus respecté des journaux ! Ne croyant au fond ni à Dieu ni à diable, il avait fait de ce journal le soutien de l'ordre, de la propriété et de la famille, républicain conservateur depuis qu'il y avait intérêt à l'être, mais resté religieux, d'un spiritualisme qui rassurait la bourgeoisie. Et, dans sa puissance acceptée, saluée, il avait une main au fond de tous les sacs.]{.calibre11}
+
+[« Hein ? Monsieur l'abbé, voyez où mène la presse. Voilà Sanier et Fonsègue, comparez-les un peu. En somme, ce sont des compères, ils ont chacun une arme, et ils s'en servent. Mais quelle différence dans les moyens et dans les résultats ! La feuille du premier est vraiment un égout, qui le roule, qui l'emporte lui-même au cloaque. Tandis que la feuille de l'autre est certainement du meilleur journalisme qu'on puisse faire, très soignée, très littéraire, un régal pour les gens délicats, un honneur pour l'homme qui la dirige... Et, grand Dieu ! Au fond, quelle identité dans la farce ! »]{.calibre11}
+
+[Massot éclata de rire, heureux de cette moquerie dernière. Puis, brusquement :]{.calibre11}
+
+[« Ah ! Voici Fonsègue enfin. »]{.calibre11}
+
+[Et il présenta le prêtre, très à l'aise, en riant encore.]{.calibre11}
+
+[« Monsieur l'abbé Froment, mon cher patron, qui vous attend depuis plus de vingt minutes... Moi, je vais voir un peu ce qui se passe là-dedans. Vous savez que Mège interpelle. »]{.calibre11}
+
+[Le nouveau venu eut une légère secousse.]{.calibre11}
+
+[« Il y a une interpellation... Bon, bon ! J'y vais. »]{.calibre11}
+
+[Pierre le regardait. Un petit homme d'une cinquantaine d'années, maigre et vif, resté jeune, avec toute sa barbe noire encore. Des yeux étincelants, une bouche perdue sous les moustaches et qu'on disait terrible. Avec cela, un air d'aimable compagnon, de l'esprit jusqu'au bout du petit nez pointu, un nez de chien de chasse toujours en quête.]{.calibre11}
+
+[« Monsieur l'abbé, en quoi puis-je vous être agréable ? »]{.calibre11}
+
+[Alors, Pierre, brièvement, présenta sa requête, conta sa visite du matin à Laveuve, donna tous les détails navrants, demanda l'admission immédiate du misérable à l'asile.]{.calibre11}
+
+[« Laveuve ? Mais est-ce que son affaire n'a pas été examinée ? C'est Dutheil qui nous a présenté un rapport là-dessus, et les faits nous ont paru tels, que nous n'avons pu voter l'admission. »]{.calibre11}
+
+[Le prêtre insista.]{.calibre11}
+
+[« Je vous assure, monsieur, que, si vous aviez été avec moi, ce matin, votre coeur se serait fendu de pitié. Il est révoltant qu'on laisse une heure de plus un vieillard dans cet effroyable abandon. Ce soir, il faut qu'il couche à l'asile. »]{.calibre11}
+
+[Fonsègue se récria.]{.calibre11}
+
+[« Oh ! Ce soir, c'est impossible, absolument impossible. Il y a toutes sortes de formalités indispensables. Et moi, d'ailleurs, je ne puis prendre seul une pareille décision, je n'ai pas ce pouvoir. Je ne suis que l'administrateur, je ne fais qu'exécuter les ordres du comité de nos dames patronnesses.]{.calibre11}
+
+[--- Mais monsieur, c'est justement Mme la baronne Duvillard qui m'a envoyé à vous, en m'affirmant que vous seul aviez l'autorité nécessaire pour décider une admission immédiate, dans un cas exceptionnel.]{.calibre11}
+
+[--- Ah ! C'est la baronne qui vous envoie, ah ! Que je la reconnais bien là, incapable de prendre un parti, trop soucieuse de sa paix pour accepter jamais une responsabilité !... Pourquoi veut-elle que ce soit moi qui aie des ennuis ? Non, non, monsieur l'abbé, je n'irai à coup sûr pas contre tous nos règlements, je ne donnerai pas un ordre qui me fâcherait peut-être avec toutes ces dames. Vous ne les connaissez pas elles deviennent terribles, dès qu'elles sont en séance. »]{.calibre11}
+
+[Il s'égayait, il se défendait d'un air de plaisanterie, très résolu, au fond, à ne rien faire. Et, brusquement, Dutheil reparut, se précipita, nu-tête, courant les couloirs pour racoler les absents, intéressés dans la grave discussion qui s'ouvrait.]{.calibre11}
+
+[« Comment, Fonsègue, vous êtes encore là ? Allez, allez vite à votre banc ! C'est grave. »]{.calibre11}
+
+[Et il disparut. Le député ne se hâta pourtant pas, comme si l'aventure louche qui passionnait la salle des séances ne pût le toucher en rien. Il souriait toujours, bien qu'un léger mouvement fébrile fit battre ses paupières.]{.calibre11}
+
+[« Excusez-moi, monsieur l'abbé, vous voyez que mes amis ont besoin de moi....Je vous répète que je ne puis absolument rien pour votre protégé. »]{.calibre11}
+
+[Mais Pierre ne voulut pas encore accepter cette réponse comme définitive.]{.calibre11}
+
+[« Non, non ! Monsieur, allez à vos affaires, je vais vous attendre ici... Ne prenez pas un parti, sans y réfléchir mûrement. On vous presse, je sens que vous ne m'écoutez pas avec assez de liberté. Tout à l'heure, quand vous reviendrez et que vous serez tout à moi, je suis certain que vous m'accorderez ce que je demande. »]{.calibre11}
+
+[Et, bien que Fonsègue, en s'éloignant, lui affirmât qu'il ne pouvait changer d'avis, il s'entêta il se rassit sur la banquette, quitte à y rester jusqu'au soir. La salle des pas perdus s'était presque complètement vidée, et elle apparaissait plus morne et plus froide, avec son Laocoon et sa Minerve, ses murs nus, d'une banalité de gare, où la bousculade du siècle passait, sans échauffer le haut plafond. Jamais clarté plus blême, plus indifférente, n'était entrée par les grandes portes-fenêtres, derrière lesquelles on apercevait le petit jardin endormi, avec ses maigres gazons d'hiver. Et pas un bruit n'arrivait des tempêtes de la séance voisine, il ne tombait du lourd monument qu'un silence de mort, dans un sourd frisson de détresse, venu de très loin sans doute, du pays entier.]{.calibre11}
+
+[C'était cela, maintenant, qui hantait la songerie de Pierre Toute la plaie ancienne, envenimée, s'étalait avec son poison, dans sa virulence. La lente pourriture parlementaire avait grandi, s'attaquait au corps social. Certes, au-dessus des basses intrigues, de la ruée des ambitions personnelles, il y avait bien la haute lutte supérieure des principes, l'histoire en marche, déblayant le passé, tâchant de faire dans l'avenir plus de vérité, plus de justice et de bonheur. Mais, en pratique, à ne voir que l'affreuse cuisine quotidienne, quel déchaînement d'appétits égoïstes, quel unique besoin d'étrangler le voisin et de triompher seul ! On ne trouvait là, entre les quelques groupes, qu'un incessant combat pour le pouvoir et pour les satisfactions qu'il donne. Gauche, droite, catholiques, républicains, socialistes, les vingt nuances des partis, n'étaient que les étiquettes qui classaient la même soif brûlante de gouverner, de dominer. Toutes les questions se rapetissaient à la seule question de savoir qui, de celui-ci, de celui-là ou de cet autre, aurait en sa main la France pour en jouir, pour en distribuer les faveurs à la clientèle de ses créatures. Et le pis était que les grandes batailles, les journées et les semaines perdues pour faire succéder celui-ci à celui-là, et cet autre à celui-ci, n'aboutissaient qu'au plus sot des piétinements sur place car tous les trois se valaient, et il n'y avait entre eux que de vagues différences, de sorte que le nouveau maître gâchait la même besogne que le précédent avait gâchée, forcément oublieux des programmes et des promesses, dès qu'il régnait.]{.calibre11}
+
+[Invinciblement, la songerie de Pierre retournait à Laveuse, qu'il avait un instant oublié, qui maintenant le reprenait, d'un frisson de colère et de mort. Ah ! Qu'importait au vieux misérable, crevant de faim sur ses haillons, que Mège renversât le ministère Barroux, et qu'un ministère Vignon arrivât au pouvoir ! À ce train, il faudrait cent ans, deux cents ans, pour qu'il y eût du pain dans les soupentes où râlent les éclopés du travail, les vieilles bêtes de somme fourbues. Et, derrière Laveuve, c'était toute la misère, tout le peuple des déshérités et des pauvres qui agonisaient, qui demandaient justice pendant que la Chambre, en grande séance, se passionnait pour savoir à qui la nation serait, et qui la dévorerait. La boue coulait à pleins bords, la plaie hideuse, saignante et dévorante, s'étalait impudemment, telle que le cancer qui ronge un organe, gagnant le coeur. Et quel dégoût, quelle nausée à ce spectacle et quel désir du couteau vengeur qui ferait de la santé et de la joie !]{.calibre11}
+
+[Pierre n'aurait pu dire depuis combien de temps il était enfoncé dans cette rêverie, lorsqu'un brouhaha, de nouveau, remplit la salle. Des gens revenaient, gesticulaient, formaient des groupes. Et il entendit brusquement le petit Massot qui s'écriait, à côté de lui :]{.calibre11}
+
+[« Il n'est pas par terre, mais il n'en vaut guère mieux. Je ne ficherais pas quatre sous de son existence. »]{.calibre11}
+
+[Il parlait du ministère. D'ailleurs, il conta la séance à un confrère qui arrivait. Mège avait très bien parlé, avec une fureur d'indignation extraordinaire contre la bourgeoisie pourrie et pourrisseuse ; mais, comme toujours, il avait dépassé le but, effrayant la Chambre par sa violence même. De sorte que, lorsque Barroux était monté à la tribune pour demander l'ajournement de l'interpellation à un mois, il n'avait eu qu'à s'indigner, très sincèrement du reste, plein d'une hautaine colère contre les infâmes campagnes que menait une certaine presse. Est-ce que les hontes du Panama allaient renaître ? Est-ce que la représentation nationale allait se laisser intimider par de nouvelles menaces de délation ? C'était la République elle-même que ses adversaires essayaient de noyer sous un flot d'abominations. Non, non ! L'heure était venue de se recueillir, de travailler en paix, sans permettre aux affamés de scandales de troubler la paix publique. Et la Chambre, impressionnée, craignant à la longue la lassitude des électeurs devant ce débordement continu d'ordures, avait ajourné l'interpellation à un mois. Seulement, quoique Vignon eût évité d'intervenir en prenant la parole, tout son groupe avait voté contre le ministère, si bien que la majorité obtenue par celui-ci n'était que de deux voix, une majorité dérisoire.]{.calibre11}
+
+[« Mais alors, demanda une voix à Massot, ils vont donner leur démission.]{.calibre11}
+
+[--- Oui, le bruit en court. Pourtant, Barroux est bien tenace... En tout cas, s'ils s'obstinent, ils seront par terre avant huit jours, d'autant plus que Sanier, furieux, déclare qu'il va publier demain la liste des noms. »]{.calibre11}
+
+[Et l'on vit passer, en effet, Barroux et Monferrand, qui se hâtaient, l'air affairé et soucieux, suivis de leurs clients inquiets. On disait que tout le cabinet était en train de se réunir, pour aviser et prendre un parti. Et ce fut ensuite Vignon qui reparut, au milieu d'un flot d'amis. Lui était radieux, d'une joie qu'il s'efforçait de cacher, calmant sa troupe, ne voulant pas chanter victoire trop tôt ; mais les yeux de la bande luisaient, toute une meute à l'heure prochaine de la curée. Et il n'était pas jusqu'à Mège qui ne triomphât. À deux voix près, il avait renversé le ministère. Encore un usé ! Et il userait celui de Vignon ! Et il gouvernerait enfin !]{.calibre11}
+
+[« Diable ! murmura le petit Massot, Chaigneux et Dutheil ont des mines de chiens battus. Et, tenez ! Il n'y a encore que le patron. Regardez-le, est-il beau, ce Fonsègue !... Bonsoir, je file. »]{.calibre11}
+
+[Il serra la main de son confrère, il ne voulut pas rester, bien que la séance continuât, une nouvelle question d'affaire, très importante, et qui se discutait devant les bancs vides.]{.calibre11}
+
+[Chaigneux était allé s'accouder près de la grande Minerve, de son air éploré, et jamais détresse besogneuse ne l'avait plié davantage, sous l'angoisse continue de sa malchance. Dutheil, lui, pérora quand même au centre d'un groupe, affectait une insouciance moqueuse ; mais un tic nerveux plissait son nez, tirait sa bouche, toute sa face de joli homme suait la peur. Et il n'y avait réellement que Fonsègue tranquille et brave, toujours le même, dans sa petite taille remuante, avec ses yeux étincelants d'esprit, voilés à peine d'une ombre de malaise.]{.calibre11}
+
+[Pierre s'était levé, pour renouveler sa demande. Mais Fonsègue le prévint, lui dit avec vivacité :]{.calibre11}
+
+[« Non, non, monsieur l'abbé, je vous répète que je refuse de prendre sur moi une telle infraction à nos règlements. Il y a eu rapport, et il y a chose jugée. Comment voulez-vous que je puisse passer outre ?]{.calibre11}
+
+[--- Monsieur, dit douloureusement le prêtre, il s'agit d'un vieillard qui a faim, qui a froid et qui va mourir, si l'on ne vient pas à son secours. »]{.calibre11}
+
+[D'un geste désespéré, le directeur du Globe sembla prendre les murs à témoin qu'il n'y pouvait rien. Sans doute craignait-il quelque mauvaise histoire pour son journal, où il avait abusé de l'oeuvre des Invalides du travail, comme arme électorale. Peut-être aussi la terreur secrète où la séance venait de le jeter, lui durcissait-elle le coeur.]{.calibre11}
+
+[« Je ne puis rien, je ne puis rien... Mais, naturellement, je ne demande pas mieux que vous me fassiez forcer la main par ces dames du comité. Vous avez déjà Mme la baronne Duvillard ayez-en d'autres. »]{.calibre11}
+
+[Résolu à lutter jusqu'au bout, Pierre vit là une suprême tentative.]{.calibre11}
+
+[« Je connais Mme la comtesse de Quinsac, je puis aller la voir tout de suite.]{.calibre11}
+
+[--- C'est cela ! Excellent, la comtesse de Quinsac ! Prenez une voiture et allez voir aussi Mme la princesse de Harth. Elle se remue beaucoup, elle devient très influente... Ayez l'approbation de ces dames, retournez chez la baronne à sept heures, obtenez d'elle une lettre qui me couvre, et venez alors me trouver au journal. À neuf heures, votre homme couchera à l'asile »]{.calibre11}
+
+[Il y mettait, maintenant, une sorte de rondeur joyeuse, n'ayant plus l'air de douter du succès, du moment qu'il ne risquait plus de se compromettre. Le prêtre fut repris d'un grand espoir.]{.calibre11}
+
+[« Ah ! Monsieur, je vous remercie, c'est une oeuvre de salut que vous allez faire.]{.calibre11}
+
+[--- Mais vous pensez bien que je ne demande pas mieux. Si nous pouvions, d'un mot, guérir la misère, empêcher la faim et la soif... Dépêchez-vous, vous n'avez pas une minute à perdre. »]{.calibre11}
+
+[Ils se serrèrent la main, et Pierre se hâta de sortir. Ce n'était point chose facile, les groupes avaient grandi, les colères et les angoisses de la séance refluaient là, en un tumulte trouble, de même qu'une pierre jetée au milieu d'une mare remue la vase du fond, fait remonter à la surface les décompositions cachées. Il dut jouer des coudes, s'ouvrir un passage au travers de cette cohue, de la lâcheté frissonnante des uns, de l'audace insolente des autres, des tares salissantes du plus grand nombre, dans l'inévitable contagion du milieu Mais il emportait un nouvel espoir, et il lui semblait que, s'il sauvait ce jour-là une vie, s'il faisait un heureux, ce serait le commencement du rachat, un peu de pardon sur les sottises et sur les fautes de ce monde politique, égoïste et dévorant.]{.calibre11}
+
+[Dans le vestibule, un dernier incident arrêta Pierre une minute encore. Il régnait une émotion, à la suite d'une querelle entre un homme et un huissier, qui l'avait empêché d'entrer, après avoir constaté que la carte qu'il présentait était une carte ancienne et dont on avait gratté la date. L'homme, d'abord brutal, n'avait pas insisté, comme saisi d'une timidité soudaine. Et Pierre eut la surprise de reconnaître, dans cet homme mal vêtu, Salvat, l'ouvrier mécanicien qu'il avait vu partir le matin en quête de travail. Cette fois, c'était bien lui, grand, maigre, ravagé, avec ses yeux de flamme et de rêve, incendiant sa face blême de meurt-de-faim. Il n'avait plus son sac à outils, son veston en loques était boutonné, gonflé sur le flanc gauche par une grosseur, sans doute quelque morceau de pain caché là. Et, repoussé par les huissiers, il se remit en marche, il prit le pont de la Concorde, lentement, au hasard, de l'air d'un homme qui ne sait où il va.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+[Livre I]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778736 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778398 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778060 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777722 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777384 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776708 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776370 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776032 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775694 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775356 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775018 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368774680 .pcalibre .calibre3 .pcalibre1} {#iv .calibre47 .sigil_not_in_toc}
+
+[Dans le vieux salon fané, un salon Louis XVI aux boiseries grises, Mme la comtesse de Quinsac était assise près de la cheminée, à sa place habituelle. Elle ressemblait singulièrement à son fils, la figure longue et noble, le menton un peu sévère, avec de beaux yeux encore, sous la neige des cheveux fins, coiffée à la mode surannée de sa jeunesse. Et, dans sa froideur hautaine, elle savait être aimable, d'une bonne grâce parfaite.]{.calibre11}
+
+[Elle reprit après un long silence, avec un petit geste de la main, en s'adressant au marquis de Morigny, assis à l'autre coin de la cheminée, où il occupait le même fauteuil depuis tant d'années :]{.calibre11}
+
+[« Ah ! Mon ami, vous avez bien raison, le bon Dieu nous a oubliés dans une abominable époque.]{.calibre11}
+
+[--- Oui, nous avons passé à côté du bonheur, dit-il lentement, et c'est votre faute, c'est sans doute la mienne aussi. »]{.calibre11}
+
+[Elle le fit taire d'un nouveau geste, avec un triste sourire. Et le silence retomba, pas un bruit ne venait de la rue, dans ce sombre rez-de-chaussée, au fond de la cour d'un vieil hôtel, situé rue Saint-Dominique, presque à l'angle de la rue de Bourgogne.]{.calibre11}
+
+[Le marquis était un vieillard de soixante-quinze ans, de neuf ans plus âgé que la comtesse. Petit et sec, il avait pourtant grand air, avec sa face rasée, aux profondes rides correctes. Il appartenait à une des plus antiques familles de France, et il restait un des derniers légitimistes sans espoir, très pur, très haut, gardant sa foi à la monarchie morte, dans l'écroulement de tout. Sa fortune, estimée encore à des millions, se trouvait comme immobilisée, par son refus de la faire fructifier, en la mettant au service des travaux du siècle. Et l'on savait qu'il avait aimé discrètement la comtesse, du vivant même de M. De Quinsac, et qu'il s'était offert, après la mort de celui-ci, lorsque la veuve, âgée au plus de quarante ans, était venue se réfugier dans cet humide rez-de-chaussée, avec une quinzaine de mille francs de rente, sauvés à grand-peine. Mais elle adorait son fils Gérard, alors dans sa dixième année, d'une santé délicate. Elle lui avait tout sacrifié, par une sorte de pudeur de mère, par une crainte superstitieuse de le perdre, si elle remettait une autre tendresse et un autre devoir dans sa vie. Et le marquis, qui s'était incliné, avait continué à l'adorer de toute son âme, lui faisant la cour comme au premier soir où il l'avait vue, empressé et discret après un quart de siècle de fidélité absolue. Il n'y avait rien eu entre eux, pas même un baiser.]{.calibre11}
+
+[À la voir si triste, il craignit de lui avoir déplu, il ajouta :]{.calibre11}
+
+[« Je vous aurais voulue plus heureuse, mais je n'ai pas su, et la faute n'en est sûrement qu'à moi... Est-ce que Gérard vous donnerait des inquiétudes ? »]{.calibre11}
+
+[Elle dit non de la tête. Puis, tout haut :]{.calibre11}
+
+[« Tant que les choses resteront où elles en sont, nous ne saurions nous en plaindre, mon ami, puisque nous les avons acceptées. »]{.calibre11}
+
+
+[« Vous savez, mon ami, que Gérard est si bon, reprit la comtesse. C'est ce qui fait sa force et sa faiblesse. Comment voulez-vous que je le gronde, quand il pleure avec moi ?... Il se lassera de cette femme. »]{.calibre11}
+
+[M. De Morigny hocha la tête.]{.calibre11}
+
+[« Elle est encore très belle... Et puis, il y a la fille. Ce serait plus grave, il l'épouserait.]{.calibre11}
+
+[--- Oh ! La fille, une infirme !]{.calibre11}
+
+[--- Oui, et vous entendez ce qu'on dirait : un Quinsac épousant un monstre pour ses millions. »]{.calibre11}
+
+[C'était leur terreur à tous deux. Ils n'ignoraient rien de ce qui se passait chez les Duvillard, l'amitié émue entre la disgraciée Camille et le beau Gérard, l'idylle attendrissante sous laquelle se cachait le plus atroce des drames. Et ils protestaient de toute leur indignation.]{.calibre11}
+
+[« Oh ! ça, non, non, jamais ! Déclara la comtesse. Mon fils dans cette famille, non ! Jamais je ne donnerai mon autorisation ! »]{.calibre11}
+
+[Justement le général de Bozonnet entra. Il adorait sa soeur, il venait lui tenir compagnie, les jours où elle recevait, car l'ancien cercle s'était peu à peu éclairci, ils n'étaient plus que quelques fidèles à se risquer dans ce salon gris et morne, où l'on se serait cru à des milliers de lieues du Paris actuel. Tout de suite, pour l'égayer, il conta qu'il venait de déjeuner chez les Duvillard, nomma les convives, dit que Gérard était là. Il savait qu'il faisait plaisir à sa soeur, en allant dans cette maison, dont il lui rapportait des nouvelles, qu'il décrassait un peu par le grand honneur de sa présence. Et lui ne s'y ennuyait pas, gagné au siècle depuis longtemps, très accommodant sur tout ce qui n'était pas l'art militaire.]{.calibre11}
+
+[« Cette pauvre petite Camille adore Gérard, dit-il. À table, elle le dévorait des yeux. »]{.calibre11}
+
+[Le marquis de Morigny intervint gravement.]{.calibre11}
+
+[« Là est le danger, un mariage serait une chose absolument monstrueuse, à tous les points de vue. »]{.calibre11}
+
+[Le général parut s'étonner.]{.calibre11}
+
+[« Pourquoi donc ? Elle n'est pas belle, mais si l'on n'épousait que les belles filles ! Et il y a aussi ses millions : notre cher enfant en serait quitte pour en faire un bon usage... Et puis, c'est vrai, il y a encore la liaison avec la mère. Mon Dieu ! L'aventure est si commune aujourd'hui ! »]{.calibre11}
+
+[Révolté, le marquis eut un geste de souverain dégoût. Pourquoi discuter, quand tout sombrait ? Que répondre à un Bozonnet, au dernier vivant de cette illustre famille, lorsqu'il en arrivait à excuser les moeurs infâmes de la République, après avoir renié son roi et servi l'Empire, en s'attachant d'une passion fidèle à la fortune, à la mémoire de César ? Mais la comtesse elle-même s'indignait.]{.calibre11}
+
+[« Oh ! Mon frère, que dites-vous ? Jamais je n'autoriserai un tel scandale. J'en faisais tout à l'heure le serment.]{.calibre11}
+
+[--- Ma soeur, ne jurez pas ! S'écria le général. Moi, je voudrais notre Gérard heureux, voilà tout. Et il faut bien convenir qu'il n'est pas bon à grand-chose. Qu'il ne se soit pas fait soldat, je le comprends, car c'est un métier aujourd'hui perdu. Mais qu'il ne soit pas entré dans la diplomatie, qu'il n'ait pas accepté une occupation quelconque, je le comprends moins. Sans doute il est beau de taper sur le temps actuel, de déclarer qu'un homme de notre monde ne saurait y faire une besogne propre. Seulement, il n'y a plus, au fond, que les paresseux qui disent cela. Et Gérard n'a qu'une excuse, son peu d'aptitude, son manque de volonté et de force. »]{.calibre11}
+
+[Des larmes étaient montées aux yeux de la mère. Elle tremblait toujours, elle savait bien le mensonge de la façade : un coup de froid aurait emporté son fils, tout grand et solide qu'il paraissait. Et n'y avait-il pas là le symbole de cette noblesse, d'apparence encore si haute et si fière, et qui, au fond, n'était que cendre ?]{.calibre11}
+
+[« Enfin, continua le général, il a trente-six ans, il retombe sans cesse à votre charge, et il faudra bien qu'il fasse une fin. »]{.calibre11}
+
+[Mais elle le fit taire, elle se tourna vers le marquis.]{.calibre11}
+
+[« Mon ami, n'est-ce pas ? Confions-nous à Dieu. Il est impossible qu'il ne vienne pas à mon aide, car je ne l'ai jamais offensé.]{.calibre11}
+
+[--- Jamais ! » répondit le marquis, en mettant dans ce simple mot toute sa peine, toute sa tendresse, tout son culte, pour cette femme qu'il adorait depuis tant d'années, sans qu'ils eussent péché ni l'un ni l'autre.]{.calibre11}
+
+[Un nouveau fidèle entrait, et la conversation changea. M. De Larombardière, vice-président à la cour, était un grand vieillard de soixante-cinq ans, maigre, chauve, rasé, ne portant que de minces favoris blancs ; et ses yeux gris, sa bouche pincée, très écartée du nez son menton carré et têtu, donnaient à sa longue face une grande austérité. Le désespoir de sa vie était qu'affligé d'un zézaiement un peu enfantin, il n'avait pu, dans la magistrature debout, remplir son mérite, car il se piquait d'être un grand orateur. Ce tourment secret le rendait morose. En lui s'incarnait la vieille France royaliste et boudeuse servant la République à contrecoeur, l'ancienne magistrature, sévère, fermée à toute évolution, à tout sens nouveau des choses et des êtres. Et, d'une petite noblesse de robe, légitimiste rallié à l'orléanisme, il se croyait l'homme de sagesse et de logique, dans ce salon, où il était très fier de rencontrer le marquis.]{.calibre11}
+
+[On causa des derniers événements. Les conversations politiques, d'ailleurs, s'épuisaient vite, se résumaient dans l'amère condamnation des hommes et des faits, tous les trois se trouvant d'accord sur les abominations du régime républicain. Ils n'étaient là que des ruines, les restes des vieux partis, réduits à l'impuissance presque absolue. Le marquis, lui, planait dans son intransigeance totale, fidèle à une morte, un des derniers de cette noblesse riche encore, haute et entêtée, qui mourait sur place. Le magistrat, qui avait au moins un prétendant, comptait sur un miracle, en démontrait la nécessité, si la France ne voulait tomber aux plus graves malheurs, à la disparition prochaine et complète. Et, quant au général, il ne regrettait des deux Empires que les grandes guerres, il laissait de côté le maigre espoir d'une restauration bonapartiste, pour déclarer qu'en ne s'en tenant pas aux armées impériales, qu'en décrétant le service obligatoire, la nation en armes, la République avait tué la guerre, et tué la patrie.]{.calibre11}
+
+[Lorsque le domestique vint demander à la comtesse si elle voulait bien recevoir M. L'abbé Froment, celle-ci parut un peu surprise.]{.calibre11}
+
+[« Que me veut-il ? Faites entrer. »]{.calibre11}
+
+[Elle était très pieuse, et elle l'avait connu dans des oeuvres de charité, touchée de son zèle, édifiée par le renom de jeune saint que lui faisaient ses paroissiennes de Neuilly.]{.calibre11}
+
+[Lui, tout à sa fièvre, se sentit intimidé, dès le seuil du salon. D'abord, il n'y distingua rien, il crut entrer dans un deuil, une ombre où des formes semblaient se fondre, où des voix chuchotaient. Puis, lorsqu'il eut reconnu les personnes qui étaient là, il fut dépaysé davantage, en les trouvant si lointaines et si tristes, si à l'écart du monde d'où il venait, où il retournait. Et, la comtesse l'ayant fait asseoir près d'elle, devant la cheminée, ce fut à voix basse qu'il lui conta l'histoire lamentable de Laveuve, en lui demandant son appui pour le faire entrer à l'asile des Invalides du travail.]{.calibre11}
+
+[« Ah ! Oui, cette oeuvre dont mon fils a désiré que je fusse... Mais, monsieur l'abbé, je n'ai jamais mis les pieds aux séances du comité. Comment voulez-vous que j'intervienne, n'ayant à coup sûr aucune influence ? »]{.calibre11}
+
+[De nouveau, les figures unies de Gérard et d'Ève venaient de se dresser devant elle, car la rencontre première des deux amants avait eu lieu à l'asile. Et déjà elle faiblissait, dans sa maternité toujours souffrante, bien qu'elle eût le regret d'avoir donné son nom pour une de ces entreprises charitables à grand tapage, dont elle réprouvait les abus intéressés.]{.calibre11}
+
+[« Madame, insista Pierre, il s'agit d'un pauvre vieillard qui meurt de faim. Ayez pitié, je vous en supplie. »]{.calibre11}
+
+[Bien que le prêtre eût parlé bas, le général s'approcha.]{.calibre11}
+
+[« C'est encore pour votre vieux révolutionnaire que vous courez. Vous n'avez donc pas réussi près de l'administrateur ?... Dame ! Il est difficile de s'attendrir sur des gaillards, qui, s'ils étaient les maîtres, nous balayeraient tous, comme ils disent. »]{.calibre11}
+
+[M. De Larombardière approuva d'un hochement du menton. Depuis quelque temps, il était hanté par le péril anarchiste.]{.calibre11}
+
+[Et Pierre recommença son plaidoyer, navré et frémissant. Il dit l'affreuse misère, les logis sans nourriture, les femmes et les enfants grelottant de froid, les pères battant le boueux Paris d'hiver, en quête d'un morceau de pain. Ce qu'il demandait, ce n'était qu'un mot sur une carte de visite, un mot bienveillant de la comtesse, qu'il porterait tout de suite à la baronne Duvillard, pour la décider à passer par-dessus les règlements. Et ses paroles, tremblantes de larmes étouffées, tombaient une à une, dans le salon morne, comme venues de très loin et se perdant dans un monde mort, sans écho désormais.]{.calibre11}
+
+[Mme de Quinsac se tourna vers M. De Morigny. Mais il semblait s'être désintéressé. Il regardait fixement le feu, de son air hautain d'étranger, indifférent aux choses et aux êtres, parmi lesquels une erreur des temps le forçait à vivre. Cependant, il releva la tête, en sentant sur lui ce regard de la femme adorée ; et leurs yeux se rencontrèrent, avec une infinie douceur, la douceur si triste de leur héroïque tendresse.]{.calibre11}
+
+[« Mon Dieu ! dit-elle, je sais vos mérites, monsieur l'abbé, et je ne veux pas me refuser à une de vos bonnes oeuvres. »]{.calibre11}
+
+[Elle quitta le salon un moment, elle y revint, tenant une carte, où elle avait écrit qu'elle était de tout son coeur avec M. L'abbé Froment, dans les démarches qu'il faisait. Et celui-ci la remercia, les mains frémissantes de gratitude, et il s'en alla ravi, comme s'il emportait un nouvel espoir de salut, en sortant de ce salon, où, derrière lui, un flot d'ombre et de silence sembla retomber, sur cette vieille dame et ses derniers fidèles, au coin de leur feu, tout un monde en train de disparaître.]{.calibre11}
+
+[Dehors, Pierre remonta allègrement dans son fiacre, après avoir donné l'adresse de la princesse de Harth, avenue Kléber. S'il obtenait de même une approbation de celle-ci, il ne doutait plus de réussir. Mais le pont de la Concorde était obstrué d'un tel encombrement, que le cheval dut aller au pas. Et, là, sur le trottoir, il revit Dutheil, qui, correct et charmant, le cigare aux lèvres, riait à la foule, dans son aimable insouciance d'oiseau, heureux de retrouver le pavé sec et le ciel bleu, au sortir de l'anxieuse séance de la Chambre. En l'apercevant si gai, si triomphant, il eut une inspiration brusque, il se dit qu'il devrait conquérir, mettre avec lui ce garçon, dont le rapport avait eu un effet si désastreux. Justement, la voiture ayant dû s'arrêter tout à fait, le député venait de le reconnaître et lui souriait.]{.calibre11}
+
+[« Où allez-vous donc, monsieur Dutheil ?]{.calibre11}
+
+[--- Mais à côté, aux Champs-Élysées.]{.calibre11}
+
+[--- Je passe par là, et comme je désire vous entretenir un instant, vous seriez bien aimable de prendre place près de moi. Je vous poserai où vous voudrez.]{.calibre11}
+
+[--- Très volontiers, monsieur l'abbé. Ça ne vous gêne pas que j'achève mon cigare ?]{.calibre11}
+
+[--- Oh ! Pas du tout. »]{.calibre11}
+
+[Le fiacre se dégagea, traversa la place, pour monter les Champs-Élysées. Et Pierre, songeant qu'il avait quelques minutes à peine, entreprit Dutheil sans tarder, prêt à lutter pour le convaincre. Il se souvenait de la sortie que le jeune homme avait faite contre Laveuve, chez le baron. Aussi fut-il étonné de l'entendre l'interrompre, pour dire gentiment, la mine ragaillardie par le clair soleil qui se remettait à luire :]{.calibre11}
+
+[« Ah ! Oui, votre vieil ivrogne ! Alors, vous n'avez donc pas arrangé son affaire, avec Fonsègue ? Et qu'est-ce que vous voulez ? Qu'on le fasse entrer là-bas aujourd'hui ?... Moi, vous savez, je ne m'y oppose pas.]{.calibre11}
+
+[--- Mais il y a votre rapport.]{.calibre11}
+
+[--- Mon rapport, oh ! Mon rapport, les questions changent selon les points de vue... Et, si vous y tenez, à votre Laveuve, je ne refuse pas de vous aider, moi ! »]{.calibre11}
+
+[Pierre le regardait, saisi, très heureux au fond. Il n'eut plus même besoin de parler.]{.calibre11}
+
+[« Vous avez mal pris l'affaire, continua Dutheil en se penchant, d'un air de confidence. Chez lui, c'est le baron qui est le maître, pour des raisons que vous sentez, que vous connaissez sans doute ; la baronne fait tout ce qu'il demande, sans même discuter ; et ce, matin, au lieu de vous lancer dans des courses inutiles, vous n'aviez qu'à vous faire appuyer par lui, d'autant plus qu'il paraissait dans d'excellentes dispositions. Aussitôt, elle aurait cédé. »]{.calibre11}
+
+[Il se mit à rire.]{.calibre11}
+
+[« Alors, vous ne savez pas ce que je vais faire ?... Eh bien ! Je vais gagner le baron à votre cause. Oui, je me rends précisément dans une maison où il est, une maison où l'on est certain de le trouver tous les jours, à cette heure-ci... »]{.calibre11}
+
+[Et il riait plus haut.]{.calibre11}
+
+[« Enfin la maison que vous n'ignorez peut-être pas non plus, monsieur l'abbé. Quand il est là, on est sûr qu'il ne refuse rien... Je vous promets de lui faire jurer que, ce soir, il exigera de sa femme l'admission de votre homme. Seulement, il sera un peu tard. »]{.calibre11}
+
+[Puis, soudain, frappé d'une idée :]{.calibre11}
+
+[« Mais pourquoi ne venez-vous pas avec moi ? Vous obtenez un mot du baron et tout de suite, sans perdre un minute, vous vous mettez à la recherche de la baronne... Ah ! Oui, la maison vous gêne un peu, je comprends. Voulez-vous n'y voir que le baron ? Vous l'attendrez dans un petit salon du bas, je vous l'y amènerai. »]{.calibre11}
+
+[Cette proposition acheva de l'égayer, tandis que Pierre, ahuri hésitait, à l'idée d'être introduit de la sorte chez Silviane d'Aulnay. Ce n'était guère sa place. Pourtant il serait allé chez le diable, et il y était allé parfois déjà, avec l'abbé Rose, dans l'espoir de soulager une misère.]{.calibre11}
+
+[Dutheil, qui se méprenait, baissa encore la voix, pour une suprême confidence.]{.calibre11}
+
+[« Vous savez qu'il a tout payé là-dedans. Oh ! Vous pouvez venir sans crainte.]{.calibre11}
+
+[--- Mais, certainement, je vais avec vous », dit le prêtre, qui ne put s'empêcher de sourire à son tour.]{.calibre11}
+
+[Le petit hôtel de Silviane d'Aulnay, très luxueux, d'un luxe délicat et un peu galant de temple, était situé avenue d'Antin, près de l'avenue des Champs-Élysées. La prêtresse de ce sanctuaire où les orfrois des vieilles dalmatiques luisaient sous le reflet mauve des vitraux, venait d'avoir vingt-cinq ans, petite et mince, d'une beauté brune adorable ; et tout Paris connaissait son délicieux visage de vierge, le doux ovale allongé, le nez fin, la bouche petite, avec des joues candides et un menton naïf, sous les bandeaux de ses cheveux noirs, qu'elle portait épais et lourds, cachant le front bas. La raison de sa célébrité était précisément cet air étonné et joli, cette infinie pureté de ses yeux bleus, toute cette innocence pudique, quand elle voulait, faisant contraste avec l'abominable fille qu'elle était au fond, de la perversité la plus monstrueuse, avouée, affichée, telle qu'il en pousse dans le terreau des grandes villes. On racontait sur ses goûts, sur ses fantaisies, des choses extraordinaires. Les uns la disaient fille d'une concierge, les autres d'un médecin. En tout cas, elle avait dû se faire une instruction et une éducation, car elle ne manquait, à l'occasion, ni d'esprit, ni de style, ni de tenue. Elle roulait dans les théâtres depuis dix ans, applaudie pour sa beauté, et elle avait même fini par obtenir de gentils succès, dans les rôles de jeunes filles très pures, de jeunes femmes aimantes et persécutées. Mais, depuis qu'il était question de son entrée à la Comédie-Française, pour y jouer le rôle de Pauline, dans Polyeucte, des gens s'indignaient, d'autres s'égayaient, tellement l'idée paraissait saugrenue, attentatoire à la majesté de la tragédie classique. Elle, tranquille et têtue voulait cette chose, et la voulait bien, certaine de l'obtenir, avec l'insolence de la fille à qui les hommes n'avaient jamais rien pu refuser.]{.calibre11}
+
+[Ce jour-là, dès trois heures, Gérard, qui ne savait comment tuer son temps, avant d'aller attendre Ève, rue Matignon, avait eu l'idée de monter patienter dans le voisinage, chez Silviane. Celle-ci était un ancien caprice, il était resté un des intimes du petit hôtel, il s'y oubliait même encore parfois, quand la jolie fille s'ennuyait. Mais il venait de la trouver furieuse, et il était là, en simple ami, allongé dans un des profonds fauteuils du salon vieil or, en train d'écouter sa plainte. Elle, debout, en toilette blanche, toute blanche, comme Ève était elle-même, au déjeuner, parlait avec passion, achevait de le convaincre, gagné à tant de jeunesse et de beauté, la comparant inconsciemment à l'autre, déjà las du rendez-vous qu'il attendait et envahi d'une telle paresse morale et physique, qu'il aurait préféré demeurer au fond de ce fauteuil.]{.calibre11}
+
+[« Tu entends, Gérard, s'écria-t-elle enfin, en s'oubliant jusqu'à le tutoyer, pas ça ! Je ne lui accorderai pas ça ! Tant qu'il ne m'apportera pas ma nomination. »]{.calibre11}
+
+[Le baron Duvillard entrait. Elle se fit tout de suite de glace, elle le reçut en jeune reine offensée, qui attend des explications ; tandis que lui, prévoyant l'orage, apportant d'ailleurs des nouvelles désastreuses, souriait, mal à l'aise. Elle était la tare, chez cet homme si solide et si puissant encore, dans le déclin de sa race. Elle était aussi le commencement de la justice et du châtiment, reprenant à mains pleines l'or amassé, vengeant par ses cruautés ceux qui avaient froid et faim. Et cela faisait pitié que de voir cet homme redouté, adulé, sous lequel les États tremblaient, pâlir là d'inquiétude, se plier très humble, retomber à l'enfance sénile et zézayante du désir.]{.calibre11}
+
+[« Ah ! Ma chère amie, si vous saviez comme j'ai couru ! Un tas d'affaires ennuyeuses, des entrepreneurs à voir, une grosse question de publicité à régler. J'ai cru que jamais je ne pourrais vous venir baiser la main »]{.calibre11}
+
+[Il la lui baisa, mais elle laissa retomber son bras froid et indifférent, elle se contentait de le regarder, attendant ce qu'il avait à lui dire, l'embarrassant à un tel point, qu'il suait, bégayait, ne trouvait plus les mots.]{.calibre11}
+
+[« Sans doute, je me suis aussi occupé de vous, je suis allé aux Beaux-Arts, où l'on m'avait fait une promesse formelle... Oh ! Ils sont toujours très chauds en votre faveur, aux Beaux-Arts !]{.calibre11}
+
+[Seulement, imaginez-vous, c'est cet imbécile de ministre, ce Taboureau, un vieux professeur de province, ignorant tout de notre Paris, qui s'est formellement opposé à votre nomination, en disant que, lui régnant, jamais vous ne débuteriez à la Comédie. »]{.calibre11}
+
+[Elle ne dit qu'un mot, toute droite et rigide.]{.calibre11}
+
+[« Alors ?]{.calibre11}
+
+[--- Eh bien ! Alors, ma chère amie, que voulez-vous que je fasse ? On ne peut pourtant pas renverser un ministère pour ce que vous jouiez Pauline.]{.calibre11}
+
+[--- Pourquoi pas ? »]{.calibre11}
+
+[Il affecta de rire, mais sa face se congestionnait, tout son grand corps s'agitait d'angoisse.]{.calibre11}
+
+[« Voyons, ma petite Silviane, ne vous entêtez pas. Vous êtes si gentille, quand vous voulez... Lâchez donc l'idée de ce début. Vous-même y risquez gros jeu, car quels seraient vos ennuis, si vous alliez échouer. Vous pleureriez toutes les larmes de votre corps... Et puis, vous pouvez me demander tant d'autres choses, que je serai si heureux de vous donner. Allons, là, tout de suite, faites un souhait, et je le réaliserai sur l'heure. »]{.calibre11}
+
+[En plaisantant, il cherchait à lui reprendre les mains. Mais elle se recula, très digne. Et elle le tutoya, comme elle avait tutoyé Gérard.]{.calibre11}
+
+[« Tu entends, mon cher, plus rien, pas ça ! Tant que je n'aurai pas joué Pauline. »]{.calibre11}
+
+[Il avait compris, c'était l'alcôve fermée, même les petits jeux, les petits baisers sur la nuque défendus ; et il la connaissait assez, pour savoir avec quelle rigueur elle le sèvrerait. Sa gorge étranglé ne laissa échapper qu'une sorte de grognement, tandis qu'il continuait à vouloir prendre la chose en plaisanterie.]{.calibre11}
+
+[« Est-elle méchante aujourd'hui ! reprit-il en se tournant vers Gérard Qu'est-ce que vous lui avez donc fait, pour que je la trouve dans un état pareil ? »]{.calibre11}
+
+[Mais le jeune homme, qui se tenait coi, par crainte des éclaboussures, resta mollement allongé, sans répondre.]{.calibre11}
+
+[Alors, la colère de Silviane déborda.]{.calibre11}
+
+[« Il m'a fait, qu'il m'a plainte d'être à la merci d'un homme tel que vous, si égoïste, si insensible aux injures dont on m'abreuve. Est-ce que vous ne devriez pas bondir d'indignation le premier ? Est-ce que vous n'auriez pas dû exiger mon entrée à la Comédie comme une réparation d'honneur ? Car, enfin, c'est un échec pour vous, et si l'on me juge indigne, vous êtes atteint en même temps que moi... Alors, une fille, n'est-ce pas ? dites tout de suite que je suis une fille, qu'on chasse des maisons qui se respectent ! »]{.calibre11}
+
+[Elle continua, en arriva aux gros mots, aux paroles abominables, qui finissaient toujours par repousser sur ses lèvres si pures, dans la colère. Vainement, le baron, sachant bien qu'une simple phrase de lui amènerait un dégorgement plus fangeux, implorait-il du regard l'intervention du comte. Celui-ci, dont le désir de paix les réconciliait parfois, ne bougeait pas, trop somnolent pour s'en mêler. Et, tout d'un coup, elle reprit le tutoiement, elle conclut, par son coup de hache, coupant toute faveur :]{.calibre11}
+
+[« Enfin, mon cher, arrange-toi, fais-moi débuter, ou plus rien, tu entends ! Pas même le bout de mon petit doigt !]{.calibre11}
+
+[--- Bon ! Bon ! murmura Duvillard, ricanant et désespéré, nous arrangerons cela. »]{.calibre11}
+
+[Mais, à ce moment, un domestique entra, disant que M. Dutheil était en bas et demandait M. Le baron dans le fumoir. Ce dernier fut surpris, car Dutheil d'ordinaire montait comme chez lui. Puis, il pensa que le député lui apportait sans doute, de la Chambre, des nouvelles graves, qu'il désirait lui apprendre tout de suite, à part. Et il suivit le domestique, laissant ensemble Gérard et Silviane.]{.calibre11}
+
+[Dans le fumoir, une pièce qui ouvrait directement sur le vestibule par une baie, dont la portière était relevée, Pierre, debout, attendait avec son compagnon, en regardant curieusement autour de lui. Ce qui le frappait, c'était le recueillement presque religieux de cette entrée, les lourdes draperies, les clartés mystiques des vitraux, les meubles anciens baignant dans une ombre de chapelle, aux parfums épars de myrrhe et d'encens. Très gai, Dutheil tapait du bout de sa canne, sur le divan bas, lit d'amour autant que lit de repos.]{.calibre11}
+
+[« Hein ? Elle est joliment meublée. Oh ! Une fille qui sait son affaire ! »]{.calibre11}
+
+[Le baron entrait, encore bouleversé, l'air inquiet. Et, sans même apercevoir le prêtre, il voulut savoir.]{.calibre11}
+
+[« Qu'ont-ils fait, là-bas ? Les nouvelles sont donc graves ?]{.calibre11}
+
+[--- Mège a interpellé, en demandant l'urgence, pour renverser Barroux. Vous voyez d'ici son discours.]{.calibre11}
+
+[--- Oui, oui ! Contre les bourgeois, contre moi, contre vous. C'est toujours le même... Et alors ?]{.calibre11}
+
+[--- Alors, ma foi, l'urgence n'a pas été votée, mais Barroux, malgré une très belle défense, n'a eu qu'une majorité de deux voix.]{.calibre11}
+
+[--- Deux voix, fichtre ! Il est par terre, c'est un ministère Vignon pour la semaine prochaine.]{.calibre11}
+
+[--- Tout le monde le disait dans les couloirs. »]{.calibre11}
+
+[Le baron, les sourcils froncés, comme s'il eût pesé ce qu'un tel événement pouvait apporter au monde de bon ou de mauvais, eut un geste mécontent.]{.calibre11}
+
+[« Un ministère Vignon... Diable ! Ce ne serait guère meilleur. Ces jeunes démocrates s'avisent de poser pour la vertu, et ce ne serait pas encore un ministère Vignon qui ferait entrer Silviane à la Comédie. »]{.calibre11}
+
+[Il n'avait d'abord rien vu d'autre, dans la catastrophe dont tremblait le monde politique. Aussi, le député ne put-il s'empêcher de laisser percer sa propre anxiété.]{.calibre11}
+
+[« Eh bien ! Et nous autres là-dedans, qu'est-ce que nous devenons ? »]{.calibre11}
+
+[Cette parole ramena Duvillard à la situation. Avec un nouveau geste, superbe cette fois, il dit sa belle et insolente confiance.]{.calibre11}
+
+[« Nous autres, mais nous restons ce que nous sommes, nous n'avons jamais été en péril, je pense ! Ah ! Je suis bien tranquille Sanier peut publier sa fameuse liste, dans le cas où cela l'amuserait. Si nous n'avons pas acheté depuis longtemps Sanier et sa liste c'est que Barroux est un parfait honnête homme, et que, moi je n'aime pas jeter mon argent par la fenêtre... Je vous répète que nous ne craignons rien. »]{.calibre11}
+
+[Puis, comme il reconnaissait enfin l'abbé Froment, resté dans l'ombre, Dutheil lui expliqua le service que celui-ci attendait de lui. Et, dans l'émotion où il se trouvait, le coeur encore meurtri par la rigueur de Silviane, il dut avoir le sourd espoir qu'une bonne action lui porterait chance, il consentit immédiatement à s'entremettre, pour l'admission de Laveuve. Ayant sorti de son carnet une carte de visite et un crayon, il s'approcha de la fenêtre.]{.calibre11}
+
+[« Mais tout ce que vous voudrez, monsieur l'abbé, je serai bien heureux d'être de moitié dans cette bonne oeuvre... Tenez ! Voici ce que j'écris. "Ma chère amie, faites donc ce que M. L'abbé Froment demande en faveur de ce malheureux, puisque notre ami Fonsègue n'attend qu'un mot de vous pour agir." »]{.calibre11}
+
+[À ce moment, Pierre, par la baie ouverte, aperçut Gérard que Silviane accompagnait, jusque dans le vestibule, calmée, curieuse sans doute de savoir ce que Dutheil venait faire. Et l'apparition de la jeune femme le frappa d'étonnement, tellement elle lui sembla simple et douce, dans sa candeur immaculée de vierge. Jamais, au jardin de l'innocence, il n'avait rêvé un lis d'une plus délicieuse et plus discrète floraison.]{.calibre11}
+
+[« Alors, continua Duvillard, si vous voulez remettre cette carte tout de suite à ma femme, il faut que vous alliez chez Mme la princesse de Harth, où il y a une matinée.]{.calibre11}
+
+[--- J'y allais, monsieur le baron.]{.calibre11}
+
+[--- Très bien... Vous y trouverez certainement ma femme, elle doit y conduire les enfants. »]{.calibre11}
+
+[Il s'interrompit, il venait aussi d'apercevoir Gérard, qu'il appela.]{.calibre11}
+
+[« Dites donc, Gérard, ma femme a bien dit qu'elle allait à cette matinée, vous êtes certain que M. L'abbé l'y trouvera ? »]{.calibre11}
+
+[Le jeune homme, qui se décidait à se rendre rue Matignon, pour y attendre Ève, répondit très naturellement :]{.calibre11}
+
+[« Si M. L'abbé se dépêche, je crois bien qu'il l'y trouvera, car elle doit y aller en effet, avant son essayage, chez Salmon. »]{.calibre11}
+
+[Et il baisa la main de Silviane, il s'en alla, de son air de bel homme indolent et sans malice, que le plaisir lui-même lassait.]{.calibre11}
+
+[Un peu gêné, Pierre dut se laisser présenter à la maîtresse de la maison par Duvillard. Il s'inclina en silence, tandis qu'elle, muette aussi, lui rendait son salut, avec une pudique réserve, un tact approprié à la circonstance, dont aucune ingénue n'était alors capable, même à la Comédie. Et, pendant que le baron accompagnait le prêtre jusqu'à la porte, elle rentra dans le salon avec Dutheil. À peine derrière une portière, il lui avait passé un bras à la taille, il voulait la baiser aux lèvres. Mais elle se défendait encore, elle le savait si peu sérieux, et puis il fallait auparavant qu'il se montrât gentil.]{.calibre11}
+
+[Lorsque Pierre, convaincu maintenant du succès, arriva devant l'hôtel de la princesse de Harth, avenue Kléber, toujours avec sa voiture, il retomba dans un grand embarras. L'avenue était obstruée d'équipages, amenés par la matinée musicale, et la porte de l'hôtel, garnie d'une sorte de tente de réception, aux lambrequins de velours rouge, lui parut inabordable, tellement le flot des arrivants s'y pressait. Comment allait-il pouvoir entrer ? Comment surtout, avec sa soutane, pourrait-il voir la princesse et demander à entretenir un instant la baronne Duvillard ? Dans sa fièvre, il n'avait point songé à ces difficultés. Et il prenait le parti de gagner la porte à pied, il se demandait de quelle façon il se glisserait parmi la foule, inaperçu, lorsqu'une voix joyeuse le fit se tourner.]{.calibre11}
+
+[« Eh ! Monsieur l'abbé, est-ce possible ? Voilà que je vous retrouve ici ! »]{.calibre11}
+
+[C'était le petit Massot. Lui allait partout, faisait dix spectacles en un jour, séance parlementaire, enterrement, mariage, fête ou deuil quelconque, lorsqu'il était en mal de chronique, ainsi qu'il disait.]{.calibre11}
+
+[« Comment ! Monsieur l'abbé, vous venez chez notre aimable princesse voir danser les Mauritaines ! »]{.calibre11}
+
+[Et il se moquait, car ces Mauritaines étaient une troupe de six danseuses espagnoles, qui faisaient alors courir tout Paris aux Folies-Bergères, par la sensualité brûlante de leurs déhanchements. Le ragoût était que ces filles réservaient pour les salons des danses plus libres encore, d'un tel abandon charnel, qu'on ne les aurait certainement pas autorisées dans un théâtre. Et le beau monde se ruait chez les maîtresses de maison hardies, les excentriques, les étrangères, telles que la princesse, qui ne reculaient devant aucune attraction.]{.calibre11}
+
+[Lorsque Pierre eut expliqué au petit Massot qu'il courait toujours pour la même affaire, celui-ci, très obligeant, offrit tout de suite de le piloter. Il connaissait le logis, il le fit passer par une porte de derrière, l'amena par un couloir dans un coin du vestibule, à rentrée même du grand salon. De hautes plantes vertes garnissaient ce vestibule, on était là à peu près caché.]{.calibre11}
+
+[« Ne bougez pas, mon cher abbé. Je vais, si je puis, vous déterrer la princesse. Et vous saurez si la baronne Duvillard est arrivée déjà. »]{.calibre11}
+
+[Ce qui surprenait Pierre, c'était l'hôtel entièrement clos, les fenêtres fermées, les moindres fentes bouchées pour que le jour n'entrât pas, et toutes les pièces flambant de lampes électriques dans une intensité surnaturelle de lumière. La chaleur était déjà très forte, des senteurs violentes de fleurs et de femmes alourdissaient l'air. Et il semblait à Pierre, aveuglé, étouffé, qu'il entrait dans l'au-delà luxurieux d'un de ces antres de la chair, tel que le Paris du plaisir en réalise le rêve. Maintenant, en se haussant sur la pointe des pieds, il distinguait, par la porte ouverte du salon, les dos des femmes déjà assises, des rangées de nuques blondes ou brunes. Sans doute, les Mauritaines dansaient une première fois. Il ne les voyait pas, mais il pouvait suivre l'ardeur lascive de leur danse, dans le frisson de toutes ces nuques, qui s'agitaient comme sous un grand vent. Puis, ce furent des rires une tempête de bravos, tout un tumulte pâmé.]{.calibre11}
+
+[« Impossible de mettre la main sur la princesse, il faut que vous attendiez un peu, revint dire Massot. J'ai rencontré Janzen, et il a promis de me l'amener... Vous ne connaissez pas Janzen ? »]{.calibre11}
+
+[Et il se mit à commérer, par métier et par plaisir. La princesse était une de ses bonnes amies. C'était lui qui avait rendu compte de sa première soirée, l'année d'auparavant, lorsqu'elle avait débuté dans cet hôtel, dès son installation à Paris. La vraie vérité sur son compte, il la connaissait, autant qu'on pouvait la connaître. Riche, elle l'était peut-être, car elle dépensait énormément. Mariée, elle avait dû l'être, et à un véritable prince ; sans doute ! Même l'était-elle encore, malgré son histoire de veuvage, car il semblait certain que son mari, d'une beauté d'archange, voyageait avec une cantatrice. Mais quant à être une bonne toquée, une folle, cela était hors de discussion, prouvé, éclatant. Très intelligente d'ailleurs, elle avait des sautes continuelles et brusques. Incapable d'un effort prolongé, elle allait d'une curiosité à une autre, sans se fixer jamais. Et c'était ainsi qu'après s'être occupée ardemment de peinture, elle venait de se passionner pour la chimie. À présent, elle se laissait envahir par la poésie.]{.calibre11}
+
+[« Alors, vous ne connaissez pas Janzen ?... C'est Janzen qui l'a jetée dans la chimie, dans l'étude des explosifs surtout ; car, pour elle, vous vous doutez bien que la chimie a l'unique intérêt d'être anarchique... Elle, je la crois vraiment autrichienne, bien qu'il faille en douter, dès qu'elle affirme une chose. Quant à Janzen, il se dit russe, mais il doit être allemand... Oh ! L'homme le plus discret, le plus énigmatique, sans logis, sans nom peut-être, un terrible monsieur au passé inconnu, à la vie ignorée. Personnellement, j'ai des preuves qui me font penser qu'il a participé à l'effroyable attentat de Barcelone. En tout cas, voici près d'un an que je le rencontre à Paris, surveillé sans doute par la police. Et rien ne m'ôtera de l'idée qu'il n'a consenti à être l'amant de notre toquée de princesse, que pour dépister les agents. Il affecte de vivre ici dans les fêtes, il y a introduit des gens extraordinaires, des anarchistes de toutes nationalités et de tous poils, tenez ! Un Raphanel, ce petit homme rond et gai, là-bas, un Français celui-là, dont les compagnons feront bien de se méfier ! Un Bergaz, un Espagnol, je crois, vague coulissier à la Bourse, dont l'épaisse bouche de jouisseur est si inquiétante ! Et d'autres, et des aventuriers, et des bandits, venus des quatre coins du monde !... Ah ! Les colonies étrangères, quelques beaux noms sans tache, quelques grandes fortunes réelles, et par-dessous quelle tourbe ! »]{.calibre11}
+
+[C'était le salon même de Rosemonde, des titres retentissants de vrais milliardaires, puis, dessous, le plus extravagant mélangé des mensonges et des bas-fonds internationaux. Et Pierre songeait à cet internationalisme, à ce cosmopolitisme, au vol d'étrangers qui, de plus en plus dense, s'abat sur Paris. Certainement, il y venait pour en jouir, comme à une ville d'aventures et de joie, et il le pourrissait un peu davantage. Était-ce donc nécessaire, cette décomposition des grandes cités qui ont gouverné le monde cet afflux de toutes les passions, de tous les désirs, de tous les assouvissements, ce terreau accumulé, apporté du globe entier, où s'épanouit en beauté et en intelligence la fleur de la civilisation ?]{.calibre11}
+
+[Mais Janzen arrivait, un grand garçon maigre d'une trentaine d'années, très blond, les yeux gris, pâles et durs, la barbe en pointe, les cheveux bouclés et longs, allongeant encore le visage blême, comme noyé de brume. Il parlait assez mal le français, à voix basse, sans un geste. Et il dit que la princesse était introuvable, il venait de la chercher partout. Peut-être, si quelqu'un lui avait déplu, était-elle montée s'enfermer dans sa chambre et se coucher, laissant ses invités s'amuser librement chez elle, à leur guise.]{.calibre11}
+
+[« Eh ! La voici ! » dit tout d'un coup Massot.]{.calibre11}
+
+[Rosemonde était là, en effet, dans le vestibule, guettant, comme si elle eût attendu quelqu'un. Petite, mince, plutôt étrange que jolie, avec son visage fin, aux yeux vert de mer, au nez léger et frémissant, à la bouche un peu forte et trop saignante, montrant d'admirables dents, elle avait ce jour-là une robe bleu de ciel pailletée d'argent, des bracelets d'argent, un cercle d'argent dans ses cheveux cendrés, dont la toison pleuvait en boucles, en frisons, en mèches folles, comme envolée sous un continuel coup de vent.]{.calibre11}
+
+[« Mais tout ce que vous voudrez ! Monsieur l'abbé, dit-elle à Pierre, dès qu'elle connut le motif de sa démarche. Si on ne vous le prend pas à notre asile, votre vieillard, envoyez-le-moi donc, je le prends, moi ! Je le coucherai ici quelque part. »]{.calibre11}
+
+[Elle restait agitée, regardait toujours la porte. Et, quand le prêtre lui demanda si Mme la baronne Duvillard était arrivée déjà :]{.calibre11}
+
+[« Eh ! Non, cria-t-elle. Vous m'en voyez toute surprise. Elle doit amener ses deux enfants... Hier, Hyacinthe m'a formellement promis de venir. »]{.calibre11}
+
+[Son nouveau caprice était là. Si la passion de la chimie, en elle, laissait place à un goût naissant pour la poésie décadente et symbolique, c'était qu'elle avait, un soir, en causant occultisme avec Hyacinthe, découvert en lui une extraordinaire beauté, la beauté astrale de l'âme voyageuse de Néron. Du moins, disait-elle, les signes étaient certains.]{.calibre11}
+
+[Brusquement, elle quitta Pierre.]{.calibre11}
+
+[« Ah ! Enfin », murmura-t-elle, soulagée, heureuse.]{.calibre11}
+
+[Et elle se précipita. Hyacinthe entrait avec sa soeur Camille. Mais, dès le seuil, il venait de rencontrer l'ami pour lequel il venait, le jeune lord Elson, un éphèbe languide et pâle, à la chevelure de fille ; et ce fut à peine s'il daigna remarquer l'accueil tendre de Rosemonde ; car il professait que la femme était une bête impure et basse, salissante pour l'intelligence comme pour le corps. Désolée de cette froideur, elle suivit les deux jeunes gens, elle rentra derrière eux dans la vivante odeur, dans l'aveuglante fournaise du salon.]{.calibre11}
+
+[Massot avait eu l'obligeance d'arrêter Camille, pour l'amener à Pierre, qui, dès les premiers mots, se désespéra.]{.calibre11}
+
+[« Comment ! Mademoiselle, madame votre mère ne vous a pas accompagnée jusqu'ici ? »]{.calibre11}
+
+[La jeune fille, vêtue, à son habitude, d'une robe sombre, bleu paon, était nerveuse, les yeux mauvais, la voix sifflante. Et, dans le redressement rageur de sa petite taille, sa difformité s'accusait davantage, l'épaule gauche plus haute que la droite.]{.calibre11}
+
+[« Non, elle n'a pas pu... Elle avait un essayage chez son couturier. Nous nous sommes attardés à l'exposition du Lis, elle nous a forcés de la mettre à la porte de Salmon, en nous rendant ici. »]{.calibre11}
+
+[C'était elle qui, habilement, avait fait traîner la visite, au Lis, espérant encore empêcher le rendez-vous de sa mère, rue Matignon. Et sa rage venait de l'aisance avec laquelle celle-ci s'était quand même débarrassée d'elle, grâce à ce mensonge d'un essayage.]{.calibre11}
+
+[« Mais, dit Pierre ingénument, si j'allais tout de suite chez ce Salmon, peut-être pourrais-je faire passer ma carte ? »]{.calibre11}
+
+[Elle eut un rire aigu, tant l'idée lui parut drôle.]{.calibre11}
+
+[« Oh ! Qui sait si vous l'y trouveriez ! Elle avait un autre rendez-vous pressé, elle y est sans doute déjà.]{.calibre11}
+
+[--- Alors, mon Dieu ! Je vais l'attendre ici. Elle viendra sûrement vous y chercher, n'est-ce pas ?]{.calibre11}
+
+[--- Nous chercher, oh ! Non, puisque je vous dis qu'elle a des affaires, un autre rendez-vous très important. La voiture doit nous ramener seuls, mon frère et moi. »]{.calibre11}
+
+[Et sa douloureuse ironie s'empoisonnait d'une amertume croissante. Il ne comprenait donc pas, ce prêtre, avec ses questions naïves, qui lui retournaient le couteau dans le coeur ! Il devait savoir pourtant, puisque tout le monde savait.]{.calibre11}
+
+[« Ah ! Que je suis contrarié, reprit-il, si chagrin, en effet, que les larmes lui en montaient aux yeux. C'est toujours pour ce pauvre vieil homme, dont je m'occupe depuis ce matin. J'ai un mot de monsieur votre père, et M. Gérard m'avait dit... »]{.calibre11}
+
+[Là, il se troubla, il vit clair tout d'un coup, dans la divine insouciance où il était du monde, l'esprit hanté de sa seule passion charitable.]{.calibre11}
+
+[« Oui, je viens de revoir monsieur votre père avec M. De Quinsac...]{.calibre11}
+
+[--- Je sais, je sais, dit-elle, de son air souffrant et railleur de fille qui n'ignorait rien. Eh bien ! Monsieur l'abbé, si vous êtes allé relancer papa, et si vous avez un mot de lui pour maman, il faudra que vous attendiez que maman ait fini son affaire... Elle est longue des fois. Vous pouvez venir à l'hôtel vers six heures, mais je doute que vous la trouviez, pour peu que son affaire la retienne. »]{.calibre11}
+
+[Ses yeux meurtriers luisaient, chacun de ses mots prenait une férocité de moquerie affreuse, ainsi que des couteaux dont elle aurait voulu trouer la gorge, si adorable encore, de sa mère. Jamais certainement elle ne l'avait exécrée à ce point, dans l'envie de sa beauté, de sa joie, du bonheur qu'elle goûtait à être aimée. Et son ironie, sortie de ses lèvres de vierge, devant ce prêtre innocent était comme un flot de boue cachée, dont elle cherchait à la noyer.]{.calibre11}
+
+[Mais Rosemonde revint, fébrile, dans son éternel coup de vent. Elle emmena Camille.]{.calibre11}
+
+[« Ah ! Ma chère, arrivez donc ! Elles sont extraordinaires, délicieuses, enivrantes ! »]{.calibre11}
+
+[Janzen et le petit Massot suivirent la princesse. Tous les hommes accouraient des pièces voisines, se bousculaient, s'engouffraient dans le salon, à la nouvelle que les Mauritaines venaient d'y reprendre leurs danses. Cette fois, ce devait être le galop dont chuchotait Paris, cette ruée frénétique où elles bondissaient, hennissaient comme des cavales, sous le fouet du grand rut ; car Pierre vit osciller et se tordre les rangées de têtes, les nuques blondes, les nuques brunes, sur lesquelles sembla passer un vent lourd. Fenêtres closes, l'incendie des lampes électriques allumait un brasier, fumant d'une odeur de chair. Et ce fut une pâmoison, des rires encore, des bravos, une volupté, une débauche qui débordait.]{.calibre11}
+
+[Lorsque Pierre se retrouva sur le trottoir, il resta un moment ahuri, les paupières battantes, étonné de retomber dans le plein jour. La demie de quatre heures allait sonner, il avait près de deux heures à attendre avant de se présenter à l'hôtel de la rue Godot-de-Mauroy. Qu'allait-il faire ? Il paya son cocher, préférant descendre à pied les Champs-Élysées, doucement, puisqu'il avait du temps à perdre. Cela, peut-être, calmerait la fièvre qui lui brûlait les mains, dans cette passion de charité qui, peu à peu, depuis le matin, l'avait envahi de nouveau, à mesure qu'il rencontrait des obstacles, sans cesse renaissants. Maintenant, il n'avait plus qu'une hâte, achever sa bonne oeuvre, qu'il croyait enfin certaine. Et il s'efforçait d'attarder son pas, de prendre une allure de promenade, le long de l'avenue magnifique, que le clair soleil venait de sécher et qu'une foule égayait, sous le ciel redevenu bleu, d'un bleu léger de printemps.]{.calibre11}
+
+[Près de deux heures à perdre, pendant que le misérable Laveuve, là-bas, sur ses loques, dans son taudis glacé, agonisait. De brusques révoltes, des flots d'irrésistible impatience, remontaient chez Pierre, le secouaient d'un besoin de courir, de trouver à l'instant la baronne Duvillard, pour obtenir d'elle l'ordre sauveur. Il se doutait bien qu'elle était par là, dans une de ces rues discrètes, et quel trouble en lui, quelle colère désolée d'avoir à attendre de la sorte, pour sauver une existence, qu'elle eût fini cette affaire, dont sa fille parlait avec des regards assassins ! Il lui semblait entendre un craquement formidable, la famille bourgeoise qui s'effondrait : le père chez une fille, la mère aux bras d'un amant, le frère et la soeur sachant tout, l'un glissant aux perversités imbéciles, l'autre enragée, rêvant de voler cet amant à sa mère pour en faire un mari. Et les équipages descendaient au grand trot la triomphale avenue, et la foule coulait avec son luxe le long des contre-allées, et tout ce monde était joyeux et superbe, sans paraître se douter qu'il y avait au bout, quelque part, un gouffre béant, où ils allaient tous culbuter et s'anéantir.]{.calibre11}
+
+[Comme Pierre arrivait à la hauteur du cirque d'Été, il eut la surprise de reconnaître de nouveau, sur un banc, Salvat. L'ouvrier devait être venu là s'échouer, après bien des recherches vaines, terrassé par la fatigue et la faim. Pourtant, sous son veston, on voyait toujours une bosse, le morceau de pain, sans doute, qu'il rapportait au logis. Et, adossé, les bras abandonnés, il regardait de ses yeux de rêve jouer de tout petits enfants, qui, devant lui, faisaient laborieusement des tas de sable, avec des pelles, puis qui, à coups de pied, les détruisaient. Ses paupières rougies se mouillaient, un sourire d'une infinie douceur était sur ses pauvres lèvres décolorées. Cette fois, Pierre, envahi d'une inquiétude voulut l'aborder, le questionner. Mais Salvat, méfiant, se leva, s'en alla du côté du cirque, dans lequel s'achevait un concert, et il rôda devant la porte de ce monument de fête, où deux mille heureux, entassés, écoutaient de la musique.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : PARIS]{lang="EN-GB"}
+
+[Livre I]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778737 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778399 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778061 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777723 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777385 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776709 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776371 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776033 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775695 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775357 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775019 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368774681 .pcalibre .calibre3 .pcalibre1} {#v .calibre47 .sigil_not_in_toc}
+
+[Comme il arrivait à la place de la Concorde, Pierre se rappela brusquement le rendez-vous que l'abbé Rose lui avait donné vers quatre heures, à la Madeleine, et qu'il oubliait, au milieu de la fièvre de ses démarches. Il était en retard, il hâta le pas heureux de ce rendez-vous qui allait l'occuper et le faire patienter.]{.calibre11}
+
+[Quand il entra dans l'église, il fut surpris d'y trouver la nuit tombée presque entièrement. Quelques cierges seuls brûlaient, de grandes ombres avaient envahi la nef, et, au milieu de ces demi-ténèbres, une voix très haute, très claire, parlait d'un flot continu sans qu'on distinguât d'abord rien autre chose du nombreux auditoire, que la masse pâle et confuse des têtes, immobiles d'attention. C'était Mgr Martha, qui, en chaire, achevait sa troisième conférence sur l'esprit nouveau. Les deux premières avaient eu un grand retentissement. Et tout Paris était là, des femmes du monde, des hommes politiques, des écrivains, séduits par l'art de l'orateur, une diction adroite et chaude, des gestes amples de grand comédien.]{.calibre11}
+
+[Pierre ne voulut pas troubler cette attention recueillie, ce silence frissonnant où sonnait seule la parole du prêtre. Et il attendit pour chercher l'abbé Rose, il se tint debout près d'un pilier. Un reste de jour, la lueur oblique et mourante d'une fenêtre éclairait justement le conférencier, grand et fort dans la blancheur de son surplis, à peine grisonnant, bien qu'il eût dépassé la cinquantaine. Il avait de beaux traits, des yeux noirs et vifs, un nez plein d'autorité, un menton surtout et une bouche du dessin le plus ferme. Mais ce qui frappait, ce qui gagnait les coeurs, c'était l'effort de sympathie, l'expression constante d'extrême amabilité, qui détendait et noyait l'impérieuse autorité du visage.]{.calibre11}
+
+[Autrefois, Pierre l'avait connu curé de Sainte-Clotilde. Il devait être d'origine italienne, né à Paris d'ailleurs, sorti de Saint-Sulpice avec les meilleures notes, esprit très intelligent, très ambitieux, d'une activité qui avait même commencé par inquiéter ses supérieurs. Puis, nommé évêque de Persépolis, il avait disparu, était allé passer cinq ans à Rome, dans des besognes restées obscures. Et, depuis son retour, il émerveillait Paris par son heureuse propagande, s'occupant des affaires les plus multiples, très aimé à l'archevêché, où il était devenu tout-puissant. Mais surtout il s'employait, avec une miraculeuse efficacité, à décupler les souscriptions pour l'achèvement de la basilique du Sacré-Coeur.]{.calibre11}
+
+[Rien ne lui coûtait, ni les voyages, ni les conférences, ni les quêtes, ni les démarches chez les ministres, et jusque chez les juifs et les francs-maçons. Dans les derniers temps, il avait encore élargi la sphère d'action où il opérait, il en était à réconcilier la science avec le catholicisme, à rallier toute la France chrétienne à la République, prêchant partout la politique de Léon XIII, pour le triomphe définitif de l'Église.]{.calibre11}
+
+[Malgré les avances de cet homme influent et aimable, Pierre ne l'aimait guère. Il ne lui gardait qu'une reconnaissance, celle d'avoir fait nommer le bon abbé Rose vicaire à Saint-Pierre-de-Montmartre, sans doute afin d'empêcher le scandale d'un vieux prêtre menacé d'être puni pour s'être montré trop charitable. Et, à le retrouver, à l'entendre ainsi, dans cette chaire retentissante de la Madeleine, poursuivant sa campagne de conquête, il venait de le revoir, chez les Duvillard, au printemps dernier, lorsqu'il y avait mené à bien, avec son ordinaire maîtrise, la conversion d'Ève au catholicisme, son plus beau triomphe. Le baptême avait eu lieu dans cette même église, une cérémonie d'une extraordinaire pompe, un véritable gala, donné au public de tous les grands événements parisiens. Gérard, agenouillé, était ému aux larmes ; tandis que le baron triomphait, en bon mari, heureux de voir la religion établir enfin l'harmonie parfaite en son ménage. On racontait, dans les groupes, que la famille d'Ève, le vieux Justus Steinberger, son père, n'était pas au fond trop fâché de l'aventure, ricanant, disant qu'il connaissait assez sa fille pour la souhaiter à son pire ennemi. En banque, il est des valeurs qu'on aime à voir escompter chez les rivaux. Sans doute, avec l'espoir entêté du triomphe de sa race, se consolant de l'échec de son premier calcul, se disait-il qu'une femme comme Ève était un bon dissolvant dans une famille chrétienne, dont l'action aiderait à faire tomber aux mains juives tout l'argent et toute la puissance.]{.calibre11}
+
+[Mais la vision disparut, la voix de Mgr Martha s'élevait avec une ampleur croissante, célébrant, au milieu du frémissement de l'auditoire, les bienfaits de l'esprit nouveau, qui allait enfin pacifier la France, lui rendre son rang et sa force. Est-ce que, de toutes parts, des signes certains n'annonçaient pas cette résurrection ? L'esprit nouveau, c'était le réveil de l'idéal, la protestation de l'âme contre le bas matérialisme, le triomphe du spiritualisme sur la littérature fangeuse ; c'était aussi la science acceptée, mais remise en sa place, réconciliée avec la foi, du moment qu'elle ne prétendait plus empiéter sur le domaine sacré de celle-ci ; et c'était encore la démocratie accueillie paternellement, la République légitimée, reconnue à son tour comme la bien-aimée fille de l'Église. Un souffle d'idylle passait, l'Église ouvrait son coeur à tous ses enfants, il n'y aurait plus que concorde et que joie, si le peuple, obéissant à l'esprit nouveau, se donnait au maître d'amour comme il s'était donné à ses rois, reconnaissait l'unique pouvoir de Dieu, souverain absolu des corps et des âmes.]{.calibre11}
+
+[Maintenant, Pierre écoutait avec attention, et il se demandait où il avait entendu déjà des paroles presque identiques. Et, brusquement, il se souvint, il croyait de nouveau entendre, à Rome, monsignore Nani, dans la dernière conversation qu'ils avaient eue ensemble. Il retrouvait là le rêve d'un pape démocrate lâchant les monarchies compromises, s'efforçant de conquérir le peuple. Puisque César était abattu, le pape ne pouvait-il réaliser l'ambition séculaire, être empereur et pontife, le Dieu souverain universel ? C'était le rêve que lui-même, dans sa naïveté humanitaire d'apôtre, avait fait autrefois, en écrivant sa Rome nouvelle et dont la Rome réelle l'avait si rudement guéri. Au fond, simple politique d'hypocrite mensonge, et rien de plus, cette politique de prêtre qui a les siècles pour elle, tenace, s'acharnant à la conquête avec une extraordinaire souplesse, résolue à profiter de tout. Et quelle évolution, l'Église venant à la science, aux démocraties, aux républiques, convaincue qu'elle les dévorera, si on lui en laisse le temps ! Ah ! Oui, l'esprit nouveau, l'antique esprit de domination qui sans cesse se renouvelle, toujours avec la même faim de vaincre et de posséder le monde !]{.calibre11}
+
+[Parmi l'auditoire, Pierre croyait reconnaître certains des députés qu'il avait vus à la Chambre. N'était-ce pas une créature de Monferrand, ce grand monsieur à la barbe blonde, qui écoutait d'un air dévot ? On disait que Monferrand, autrefois mangeur de prêtres, était à présent en coquetterie souriante avec le clergé. Toute une évolution sourde commençait dans les sacristies, des mots d'ordre venus de Rome couraient, il s'agissait de se rallier au gouvernement nouveau et de l'absorber en l'envahissant. La France était toujours la fille aînée de l'Église, la seule grande nation assez saine, assez forte, pour rétablir un jour le pape en sa royauté temporelle. Il fallait donc l'avoir à soi, elle méritait qu'on l'épousât, même républicaine. Dans cette lutte âpre d'ambitions, entre diplomates, l'évêque se servait du ministre, qui croyait avoir intérêt à s'appuyer sur l'évêque. Et qui des deux finirait par manger l'autre ? Et à quel rôle tombait la religion, arme électorale, appoint de voix dans les majorités, raison décisive et secrète pour obtenir ou pour conserver un portefeuille ! La divine charité était absente, une amertume noya le coeur de Pierre, au souvenir de la mort récente du cardinal Bergerot, le dernier des grands saints, des purs esprits de l'épiscopat français, où il ne semblait plus y avoir, désormais, que des intrigants et des sots.]{.calibre11}
+
+[Cependant, la conférence s'achevait. Mgr Martha, dans une chaude péroraison, qui évoquait la basilique du Sacré-Coeur, là-haut, sur le mont sacré des Martyrs, dominant Paris du symbole sauveur de la croix, montrait ce grand Paris redevenu chrétien, maître du monde, grâce à la toute-puissance morale que lui donnait le divin souffle de l'esprit nouveau. L'auditoire, ne pouvant applaudir, eut un murmure de ravissement approbateur, heureux de cette fin miraculeuse, qui rassurait les intérêts et les consciences. Puis Mgr Martha quitta noblement la chaire, pendant qu'un grand bruit de chaises troublait la paix noire de l'église, à peine éclairée par les quelques cierges, luisant tels que les premières étoiles au ciel crépusculaire. Tout un flot de foule, décombres vagues et chuchotantes, s'en alla. Seules, des femmes restèrent, agenouillées et priant.]{.calibre11}
+
+[Pierre, immobile, se haussait, cherchait à reconnaître l'abbé Rose, lorsqu'une main le toucha. C'était le vieux prêtre, qui l'avait aperçu de loin.]{.calibre11}
+
+[« J'étais là-bas, près de la chaire, et je vous ai bien vu, mon cher enfant. Seulement, j'ai préféré attendre, pour ne déranger personne... Quel beau discours, comme monseigneur a parlé ! »]{.calibre11}
+
+[Il paraissait en effet très ému. Mais c'était de la tristesse qui navrait sa bouche de bonté, ses yeux clairs d'enfant, dont le sourire d'habitude éclairait sa douce figure ronde, toute blanche.]{.calibre11}
+
+[« J'avais peur que vous ne repartiez sans m'avoir vu, car j'avais une chose à vous dire... Vous savez, ce pauvre vieil homme, près de qui je vous ai envoyé ce matin, et auquel je vous ai prié de vous intéresser... Eh bien ! En rentrant chez moi, j'ai trouvé une dame qui m'apporte parfois un peu d'argent pour mes pauvres. Alors, j'ai songé que les trois francs que je vous avais remis, étaient vraiment un trop maigre secours ; et, comme cette pensée me tourmentait, ainsi qu'un remords, je n'ai pas pu résister, je suis allé cet après-midi rue des Saules... »]{.calibre11}
+
+[Il baissait la voix par respect, afin de ne pas troubler le profond silence sépulcral de l'église. Une sourde honte aussi le rendait bégayant, la honte d'être retombé dans son péché de charité imprudente, aveugle, comme le lui reprochaient ses supérieurs. Il acheva très bas, frissonnant.]{.calibre11}
+
+[« Alors, mon enfant, imaginez-vous ma peine... J'avais cinq francs à remettre au pauvre homme, et je l'ai trouvé mort. »]{.calibre11}
+
+[Pierre frémit, dans une brusque secousse. Il ne voulait pas comprendre.]{.calibre11}
+
+[« Comment, mort ? Ce vieillard est mort, ce Laveuve est mort !]{.calibre11}
+
+[--- Oui, je l'ai trouvé mort, oh ! Dans quelle affreuse misère ! Tel qu'une vieille bête qui est allée finir sur un tas de loques, au fond d'un trou. Aucun voisin ne l'avait assisté, il s'était simplement tourné vers le mur. Et quelle nudité, quel froid ! Et quel abandon, quel déchirement pour un pauvre être de partir ainsi, sans une caresse ! Ah ! Mon coeur en a bondi, et il en saigne encore ! »]{.calibre11}
+
+[Dans son saisissement, Pierre n'eut d'abord qu'un geste de révolte contre l'imbécile cruauté sociale. Était-ce donc le pain, laissé près de ce malheureux, et que celui-ci avait achevé trop goulûment peut-être, après de longs jours d'abstinence ? N'était-ce pas plutôt le dénouement fatal d'une existence finie, usée par le travail et les privations ? Qu'importait, d'ailleurs, la cause ? La mort était venue, avait délivré le misérable.]{.calibre11}
+
+[« Ce n'est pas lui que je plains, murmura-t-il enfin, c'est nous autres, nous tous qui assistons à cela, qui sommes coupables de cette abomination. »]{.calibre11}
+
+[Mais, déjà, le bon abbé Rose se résignait, ne voulait que du pardon et de l'espérance.]{.calibre11}
+
+[« Non, non ! Mon enfant, la rébellion est mauvaise. Si nous sommes tous coupables nous ne pouvons qu'implorer Dieu, pour qu'il oublie nos fautes... Je vous avais donné rendez-vous ici, espérant une bonne nouvelle, et c'est moi qui viens vous y apprendre cette chose affreuse... Faisons pénitence, prions. »]{.calibre11}
+
+[Et il s'agenouilla sur les dalles, près du pilier, derrière les femmes qui étaient là en prière, noires, indistinctes dans l'ombre. Sa tête blanche s'était courbée, il s'humilia longuement.]{.calibre11}
+
+[Mais Pierre ne pouvait prier, tant la révolte grondait en lui. Il ne plia pas même les genoux, debout et frémissant. Son coeur était comme broyé, ses yeux ardents n'avaient pas une larme. Laveuve mort, là-bas, étendu sur son fumier de guenilles, les mains crispées, dans le désir têtu de se retenir à sa vie de torture pendant que lui, repris de sa flamme de charité, brûlé d'un zèle d'apôtre, battait Paris afin de lui trouver un lit propre et sauveur pour le soir ! Ah ! L'atroce ironie de cela ! Il devait être chez les Duvillard, dans le tiède salon bleu et argent, pendant que le vieil homme mourait ; et c'était pour ce misérable mort qu'il avait couru ensuite à la Chambre, chez Mme de Quinsac, chez cette Silviane et chez cette Rosemonde ; et c'était pour ce libéré de la vie, cet évadé de la misère, qu'il avait fatigué les gens, troublé les égoïsmes, inquiété la paix des uns, menacé les plaisirs des autres ! À quoi bon courir de la caverne parlementaire au froid salon où se glaçait la poussière du passé, aller de la débauche bourgeoise à l'extravagance cosmopolite, puisqu'on arrivait toujours trop tard, sauvant les gens quand ils étaient morts ? Quel ridicule, que de s'être laissé embraser de nouveau par cette flambée de charité, un dernier incendie dont il ne sentait plus en lui que la cendre ! Cette fois, il se crut mort lui-même, il n'était plus qu'un sépulcre vide.]{.calibre11}
+
+[Et tout cet affreux vide, ce néant qu'il avait éprouvé le matin au Sacré-Coeur, après sa messe, se creusait plus profond, désormais insondable. Avec la charité illusoire, inutile, l'évangile croulait, la fin du Livre était prochaine. Après des siècles d'obstinées tentatives, la rédemption par le Christ échouait, il fallait un autre salut au monde, en face du besoin exaspéré de justice qui montait des peuples dupés et misérables. Ils ne voulaient plus du paradis menteur dont on berçait depuis si longtemps l'iniquité sociale, ils exigeaient qu'on remît sur la terre la question du bonheur. Comment ? Par quel culte nouveau ? Par quelle entente houleuse entre le sentiment du divin et la nécessité d'honorer la vie, dans sa souveraineté et sa fécondité ? Là commençait l'angoisse, le problème torturant où il achevait de sombrer, lui prêtre, avec ses voeux d'homme chaste et de ministre de l'absurde, mis à l'écart des autres hommes.]{.calibre11}
+
+[Mais la constatation n'en était que plus redoutable : il cessa de croire à l'efficacité de l'aumône, être charitable ne suffisait pas, il s'agissait désormais d'être juste. Avant tout, être juste, et l'effrayante misère disparaîtrait, sans qu'il fût besoin d'être charitable. Certes, ce n'étaient pas les bons coeurs qui manquaient dans ce Paris douloureux, les oeuvres de charité y pullulaient comme les feuilles vertes aux premières tiédeurs du printemps.]{.calibre11}
+
+[Il y en avait pour tous les âges, pour tous les dangers, pour toutes les infortunes. On secourait les enfants, avant qu'ils fussent nés, en s'inquiétant des mères ; puis, venaient les crèches, les orphelinats, prodigués aux diverses classes ; puis, après s'être occupé de l'adulte, on suivait l'homme dans la vie, on s'empressait surtout dès qu'il vieillissait, multipliant les asiles, les hospices, les refuges. Et n'étaient encore toutes les mains tendues aux abandonnés, aux déshérités, aux criminels même, toutes sortes de ligues pour protéger les faibles, de sociétés pour prévenir les crimes, de maisons pour recueillir les repentirs. Propagation du bien, patronage, sauvetage, assistance, union, il aurait fallu des pages et des pages, si l'on avait voulu énumérer seulement cette extraordinaire végétation de la charité qui pousse entre les pavés de Paris, dans un bel élan, où la bonté d'âme se mêle à la vanité mondaine. Qu'importait d'ailleurs ? La charité rachetait, purifiait tout. Mais quel terrible argument, l'inutilité absolue, dérisoire, de cette charité ! Après tant de siècles de charité chrétienne, pas une plaie ne s'était fermée, la misère n'avait fait que grandir, que s'envenimer jusqu'à la rage. Le mal, aggravé sans cesse, arrivait à ne pouvoir être toléré un jour de plus, du moment que l'injustice sociale n'en était ni guérie, ni même diminuée. Et, du reste, ne suffisait-il pas qu'un vieillard mourût de froid et de faim, pour que s'effondrât l'échafaudage d'une société bâtie sur l'aumône ? Une seule victime, et cette société était condamnée.]{.calibre11}
+
+[Pierre sentit un tel flot d'amertume déborder en lui, qu'il ne put rester davantage dans cette église, où l'ombre lente continuait à pleuvoir, noyant les sanctuaires, les grands christs pâles, cloués sur les croix. Tout allait sombrer, et il n'entendait plus que le murmure mourant des prières, une plainte des femmes qui priaient là, agenouillées, disparues au fond des ténèbres.]{.calibre11}
+
+[Cependant, il hésitait à s'éloigner, sans dire un mot à l'abbé Rose, dont l'imploration de foi naïve s'en remettait au bon vouloir de l'invisible, pour la félicité et la paix des hommes. Il craignait de le déranger, il se décidait à partir, lorsque l'abbé, de lui-même, releva la tête.]{.calibre11}
+
+[« Ah ! Mon enfant, qu'il est difficile d'être bon, sagement ! Mgr Martha m'a encore grondé, et sans Dieu qui me pardonne, je tremblerais pour mon salut. »]{.calibre11}
+
+[Un instant, Pierre s'arrêta sous le portique de la Madeleine, en haut du vaste perron qui domine la place, par-dessus les grilles. Devant lui, il avait la rue Royale qui s'enfonçait, jusqu'aux étendues de la place de la Concorde, où s'érigeaient l'obélisque et les deux fontaines jaillissantes ; et, plus loin encore, la colonnade pâlie de la Chambre des députés fermait l'horizon. C'était une perspective d'une souveraine grandeur, sous le ciel clair, envahi par le lent crépuscule, qui élargissait les voies, reculait les monuments, leur donnait l'au-delà tremblant et envolé du rêve. Aucune ville au monde n'avait ce décor de faste chimérique et de grandiose magnificence, à l'heure vague où la nuit commençante apporte aux villes un air de songe, l'infini de l'immensité humaine.]{.calibre11}
+
+[Immobile, hésitant en face de ces espaces qui s'ouvraient, Pierre se demandait avec détresse où il allait maintenant, dans le brusque écroulement de tout ce qu'il avait passionnément voulu depuis le matin. Était-ce donc toujours à l'hôtel Duvillard qu'il se rendait, rue Godot-de-Mauroy ? Il ne savait plus. Puis, l'irritant souvenir revenait, avec sa cruelle ironie. À quoi bon, puisque Laveuve était mort ? À quoi bon tuer le temps, battre le pavé pour attendre six heures ? L'idée qu'il avait une demeure, que le plus simple était d'y rentrer, ne se présentait même pas à son esprit. Il lui semblait qu'une chose considérable lui restait à faire sans qu'il lui fût possible de dire laquelle. C'était partout et très loin, si confus, si pénible, qu'il n'y arriverait certainement jamais. Et, les pieds lourds, le crâne empli de tumulte, il descendit le perron, il s'entêta un moment à parcourir le marché aux fleurs un marché de fin d'hiver, où les premières azalées s'épanouissaient frileusement. Des femmes achetaient des violettes et des roses de Nice. Il les regarda, comme s'il se fût intéressé à ce luxe embaumé tendre et délicat. Puis, il en eut une soudaine horreur, et il s'en alla, il s'engagea sur les Boulevards.]{.calibre11}
+
+[Là, Pierre marcha devant lui, sans savoir où, sans savoir pourquoi. L'ombre qui tombait, le surprenait, ainsi qu'un phénomène inattendu. Il avait levé les yeux vers le ciel, il s'étonnait de le voir pâlir, très doux, rayé à l'infini par les minces tuyaux noirs des cheminées ; et c'était aussi pour lui une singularité que de découvrir, à tous les balcons, les grandes lettres d'or des enseignes, dans lesquelles se mourait le jour. Jamais il n'avait remarqué le bariolage des façades, les glaces peintes, les stores, les trophées, les affiches violentes, les magasins magnifiques, d'une indiscrétion de salons et d'alcôves, ouverts à la pleine lumière. Puis, sur la chaussée, le long des trottoirs, entre les colonnes et les kiosques, bleus, rouges, jaunes, quel encombrement, quelle cohue extraordinaire ! Les voitures roulaient avec un grondement de fleuve ; et, de toutes parts, la houle des fiacres était sillonnée par les manoeuvres lourdes des grands omnibus, semblables à d'éclatants vaisseaux de haut bord, tandis que le flot des piétons ruisselait sans cesse, des deux côtés, à l'infini, et jusque parmi les roues, dans une hâte conquérante de fourmilière en révolution. D'où sortait tout ce monde ? Où allaient toutes ces voitures ? Quelle stupeur et quelle angoisse !]{.calibre11}
+
+[Et Pierre marchait toujours devant lui, machinal, emporté par sa noire rêverie. La nuit venait, on allumait les premiers becs de gaz, c'était l'entre-chien-et-loup de Paris, l'heure où les ténèbres ne sont pas encore, où les globes électriques flamboient dans le jour qui va s'éteindre. De tous côtés, les étincelles des lampes luisaient, les magasins éclairaient leurs vitrines.]{.calibre11}
+
+[Bientôt, les Boulevards allaient charrier les étoiles vives des voitures, ainsi qu'une voie lactée en marche, entre les deux trottoirs incendiés par les lanternes, les rampes, les girandoles, un luxe aveuglant de plein soleil. Et, dans les cris des cochers, dans la bousculade des piétons, grondait la hâte dernière du Paris des affaires et des passions, la lutte sans merci pour l'amour et pour l'argent. La dure journée était faite, le Paris du plaisir s'illuminait, commençait la nuit de fête. Les cafés, les marchands de vin, les restaurants braisillaient, étalaient, derrière les hautes glaces sans tain, leurs comptoirs de métal clair, leurs petites tables blanches, la tentation des beaux fruits et des paniers d'huîtres, à leurs portes. Et ce Paris qui s'éveillait ainsi, aux premiers becs de gaz, était pris déjà d'une gaieté de jouissance, cédant à l'appétit déchaîné de tout ce qui s'achète.]{.calibre11}
+
+[Mais Pierre manqua d'être renversé. Un troupeau de crieurs débouchait, se lançait au travers de la foule, en criant les journaux du soir. Une nouvelle édition de La Voix du peuple, surtout, faisait un vacarme assourdissant, dominant le bruit des roues. Des voix rauques jetaient, reprenaient le cri, à intervalles réguliers : « Demandez La Voix du peuple, le nouveau scandale des Chemins de fer africains, l'échec du ministère, les trente-deux vendus de la Chambre et du Sénat ! » Et, sur les exemplaires du journal, agités comme des étendards, se lisaient ces titres, en caractères énormes. La foule continuait à galoper, sans prêter grande attention, habituée à cette boue, saturée d'infamie. Quelques hommes s'arrêtaient, achetaient le journal, pendant que des filles, descendues en quête d'un dîner, traînaient leurs jupes, attendaient l'amant de hasard, en interrogeant du coin de l'oeil la terrasse des cafés.]{.calibre11}
+
+[Et ce cri déshonorant des journaux, ce cri qui souillait et souffletait, semblait être le glas dernier de la journée, sonnant les funérailles de la nation, au début de la nuit de plaisir qui commençait.]{.calibre11}
+
+[Alors, Pierre se souvint une fois encore de sa matinée, de cette effrayante maison de la rue des Saules, où s'entassaient tant de misère et tant de souffrance. Il revit la cour fangeuse comme un cloaque, les escaliers nauséabonds, les logements sordides, glacés et nus des familles se disputant des pâtées dont n'auraient pas voulu les errants, des mères aux mamelles taries promenant des poupons qui hurlaient, des vieux tombés dans des coins ainsi que des bêtes, agonisant de faim dans l'ordure. Et puis, ce fut encore sa journée, la magnificence, la quiétude, la joie des salons qu'il avait traversés, tout l'éclat insolent du Paris financier, du Paris politique et mondain. Et il aboutissait enfin, au crépuscule, à ce Paris Gomorrhe, à ce Paris Sodome, s'allumant pour la nuit, pour les abominations de cette nuit complice, dont la cendre fine, peu à peu noyait l'océan des toitures. Et l'exécrable monstruosité de cela clamait sous le ciel pâle, où scintillaient les premières étoiles, pures et tremblantes.]{.calibre11}
+
+[Pierre eut un grand frisson devant cet amas des iniquités et des douleurs, tout ce qui se passait en bas dans la misère et dans le crime, tout ce qui se passait en haut dans la richesse et dans le vice. La bourgeoisie, au pouvoir, ne voulait rien lâcher de la souveraineté conquise, volée tout entière, tandis que le peuple, l'éternelle dupe, le grand muet, serrait les poings, grondait en réclamant sa légitime part. Et c'était cette injustice affreuse qui emplissait de colère l'ombre naissante. De quel nuage, aux flancs de ténèbres, la foudre allait-elle tomber ? Il l'attendait depuis des années déjà, cette foudre vengeresse que de sourds fracas annonçaient, de tous les points de l'horizon. S'il avait écrit un livre de candeur et d'espoir, s'il était allé innocemment à Rome, c'était pour en conjurer l'effroyable éclat. Mais toute espérance était morte en son coeur, il sentait la foudre inévitable, rien désormais ne pouvait retarder la catastrophe. Jamais encore il ne l'avait sentie si prochaine, dans l'impudence heureuse des uns, dans la détresse exaspérée des autres. Et elle s'amassait, et elle allait sûrement éclater au-dessus de ce Paris de rut et de bravade, qui, le soir venu, attisait sa fournaise.]{.calibre11}
+
+[Au moment où il arrivait à la place de l'Opéra, Pierre, brisé de fatigue, éperdu, leva les yeux. Où était-il donc ? Le coeur de la grande ville semblait battre là, dans la vaste étendue de ce carrefour, comme si le sang des quartiers lointains eût afflué de tous les côtés, par de triomphales avenues. Il regarda se perdre à l'horizon les trouées de l'avenue de l'Opéra, des rues du 4-Septembre et de la Paix, claires encore d'un reste de jour, déjà étoilées d'un fourmillement d'étincelles. Le boulevard traversait la place du torrent de sa circulation, où venaient se heurter les afflux des rues voisines, en de continuels remous, qui faisaient de ce point le gouffre le plus dangereux du monde. Vainement les gardiens de la paix tâchaient de mettre là quelque prudence, le flot des piétons débordait quand même, les roues s'enchevêtraient, les chevaux se cabraient, au milieu du bruit de marée humaine aussi haute, aussi incessante que la voix de tempête d'un océan. Puis, c'était la masse isolée de l'Opéra, peu à peu noyé d'ombre énorme et mystérieux, tel qu'un symbole, et dont l'Apollon porteur de lyre, tout en haut, gardait un dernier reflet de lumière dans le ciel blême. Et toutes les fenêtres des façades s'éclairaient, une allégresse naissait de ces milliers de lampes qui étincelaient une à une, un besoin de détente universelle, de libre assouvissement s'épandait avec l'ombre croissante, tandis que, de loin en loin, les globes électriques éclataient comme les lunes des nuits claires de Paris.]{.calibre11}
+
+[Pourquoi donc se trouvait-il là ? Pierre s'interrogeait, irrité et béant. Puisque Laveuve était mort, il n'avait qu'à rentrer chez lui, qu'à se terrer dans son coin, porte et fenêtres closes, comme un être désormais inutile, sans croyance, sans espérance, n'attendant plus que l'anéantissement final. La course était longue, de la place de l'Opéra à sa petite maison de Neuilly. Malgré l'écrasement de sa lassitude, il ne voulut point prendre de voiture, il revint sur ses pas, retourna vers la Madeleine, se replongea parmi la bousculade des trottoirs, au milieu de l'assourdissement de la chaussée, avec l'âpre désir d'aggraver sa plaie, de se saturer de révolte et de colère. N'était-il donc pas au coin de cette rue, au bout de ce boulevard, le gouffre attendu, où devait crouler ce monde pourri, dont il entendait craquer la vieille société, à chaque pas ?]{.calibre11}
+
+[Lorsqu'il voulut traverser la rue Scribe, un encombrement l'arrêta. Devant un café luxueux, deux grands diables, mal vêtus fort sales, criaient alternativement La Voix du peuple, les scandales, les vendus de la Chambre et du Sénat, d'une telle voix de cuivre fêlé, que les passants s'attroupaient. Et, là, il eut de nouveau la surprise de reconnaître Salvat, dans un homme hésitant, errant qui, après avoir écouté, s'était approché du grand café, pour regarder à travers les glaces. Cette fois, cette rencontre le frappa, l'emplit d'un soupçon, au point qu'il s'arrêta lui aussi, résolu à l'observer. Il ne pouvait croire qu'il allait le voir entrer, s'asseoir à une des petites tables, sous la gaieté tiède des lampes, lui d'aspect si misérable, avec ce morceau de pain qui faisait bosse sous le vieux veston en loques. Un instant, il attendit. Puis, il le vit simplement qui s'éloignait d'un pas brisé, ralenti, comme si le café, presque vide, ne lui eût pas convenu. Que cherchait-il donc où courait-il, depuis le matin, dans cette chasse solitaire et sauvage lancé de la sorte au travers du Paris de la richesse et de la joie avec sa faim qui lui battait les talons ? Il ne se traînait plus que difficilement, il paraissait à bout de volonté et d'énergie. L'air vaincu, il s'approcha d'un kiosque, s'adossa un moment. Et il se redressa, et il marcha encore, cherchant toujours.]{.calibre11}
+
+[Alors, un incident se produisit qui acheva d'émotionner Pierre. Un homme grand et fort, débouchant de la rue Caumartin, venait d'apercevoir et d'aborder Salvat. Et le prêtre, après une hésitation, reconnut son frère Guillaume, au moment où il serrait sans honte la main de l'ouvrier. C'était bien lui, avec ses épais cheveux taillés en brosse, d'une blancheur de neige, malgré ses quarante-sept ans à peine. Il avait gardé ses grosses moustaches très brunes, sans un fil d'argent, ce qui donnait toute une vie énergique à sa grande face, au front haut, en forme de tour. Il tenait de son père ce front de logique et de raison inexpugnables que Pierre avait lui aussi. Mais le bas du visage de l'aîné était plus solide, le nez plus fort, le menton carré, la bouche large, au dessin ferme. Une cicatrice pâle, une blessure ancienne balafrait la tempe gauche. Et cette physionomie très grave, rude et fermée, au premier aspect, s'éclairait d'une mâle bonté, lorsqu'un sourire découvrait les dents, restées très blanches.]{.calibre11}
+
+[Pierre se rappela ce que Mme Théodore lui avait conté le matin. Son frère Guillaume, touché de tant de misère, s'était arrangé pour occuper chez lui Salvat pendant quelques jours. Et cela expliquait l'air d'intérêt avec lequel il semblait le questionner, tandis que le mécanicien, l'air troublé de la rencontre, piétinait, comme ayant hâte de reprendre sa course dolente. Un moment, Guillaume parut s'apercevoir de ce trouble, des réponses sans doute embarrassées qu'il obtenait. Cependant, il quitta l'ouvrier. Mais, presque tout de suite, il se retourna, il le regarda s'éloigner de son allure harassée et têtue, au travers de la foule. Et les réflexions qu'il fit alors durent être bien graves et bien pressantes, car il se décida tout d'un coup à revenir sur ses pas, à le suivre de loin, comme pour s'assurer de la direction qu'il prenait.]{.calibre11}
+
+[Gagné par une inquiétude croissante, Pierre avait regardé la scène. L'attente nerveuse où il était d'un grand malheur indéterminé, le soupçon ou venaient de le jeter les rencontres successives, inexplicables de Salvat, la surprise de voir maintenant son frère mêlé à l'aventure, l'avaient envahi tout entier d'un besoin de savoir, d'assister, d'empêcher peut-être. Il n'hésita pas, lui-même suivit les deux hommes, prudemment.]{.calibre11}
+
+[Ce fut pour lui un émoi nouveau, lorsque Salvat, puis son frère Guillaume, tournèrent brusquement dans la rue Godot-de-Mauroy. Quel destin le ramenait dans cette rue, où il avait eu la hâte fiévreuse de revenir, d'où la mort de Laveuve l'avait seule écarté ? Et son saisissement grandit encore, lorsque, après l'avoir perdu un instant, il retrouva Salvat debout sur le trottoir, en face de l'hôtel Duvillard, à la place même où, le matin, il avait cru le reconnaître. Justement, la porte cochère de l'hôtel était grande ouverte, à la suite d'une réparation du pavé, sous le porche ; et, les ouvriers partis, ce vaste porche demeurait béant, empli par la nuit qui tombait. La rue étroite, à côté du boulevard étincelant, se noyait d'une ombre bleue, que les becs de gaz piquaient de rares étoiles. Des femmes passèrent, qui obligèrent Salvat à descendre du trottoir. Mais il y remonta, il alluma un bout de cigare, quelque reste ramassé sous les tables d'un café, et il reprit sa faction, immobile en face de l'hôtel, patientant.]{.calibre11}
+
+[Agité de pensées obscures, Pierre s'effrayait, se demandait s'il ne devait pas aborder cet homme. Ce qui l'arrêtait, c'était la présence de son frère, qu'il avait vu s'embusquer sous une porte voisine, guettant, prêt à intervenir lui aussi. Et il se contentait de ne pas perdre des yeux Salvat, toujours à l'affût, le regard sur le porche, ne le détournant, que pour le porter vers le boulevard comme s'il eût attendu quelqu'un ou quelque chose, qui devait arriver par là. En effet, le landau des Duvillard parut enfin avec son cocher et son valet de pied en livrée gros vert et or, un landau très correctement attelé de deux grands carrossiers superbes.]{.calibre11}
+
+[Contrairement à l'habitude, la voiture qui à cette heure ramenait la mère ou le père n'était occupée, ce soir-là, que par les deux enfants, Camille et Hyacinthe. Il revenait de la matinée de la princesse de Harth, et ils causaient librement, avec la tranquille impudeur dont ils essayaient de s'étonner.]{.calibre11}
+
+[« Les femmes me dégoûtent. Et leur odeur, ah ! La peste ! Et cette abomination de l'enfant qu'on risque toujours avec elles !]{.calibre11}
+
+[--- Bah ! Mon cher, elles valent bien ton George Elson, cette fille manquée. D'ailleurs, tu te vantes et tu as tort de ne pas t'arranger avec la princesse, puisqu'elle en meurt d'envie.]{.calibre11}
+
+[--- Ah ! La princesse, en voilà encore une qui m'assomme !]{.calibre11}
+
+[Hyacinthe en était à la négation des sexes, à la pose alanguie du renoncement universel. Mais Camille, frémissante, irritée, parlait dans une fièvre mauvaise. Après un silence, elle reprit :]{.calibre11}
+
+[« Tu sais que maman est là-bas, avec lui. »]{.calibre11}
+
+[Elle n'avait pas besoin de préciser davantage, son frère comprenait, car ils parlaient souvent de cette chose, en toute liberté.]{.calibre11}
+
+[« Son essayage chez Salmon, hein ? La bête histoire !... Elle a filé par l'autre porte, elle est avec lui.]{.calibre11}
+
+[--- Qu'est-ce que ça te fiche, qu'elle soit avec le bon ami Gérard ? » demanda paisiblement Hyacinthe.]{.calibre11}
+
+[Puis, en la sentant bondir sur la banquette :]{.calibre11}
+
+[« Tu l'aimes donc toujours, tu le veux ?]{.calibre11}
+
+[--- Oh ! Oui, je le veux, et je l'aurai ! »]{.calibre11}
+
+[Elle avait mis dans ce cri toute sa rage jalouse de fille laide, toute sa souffrance d'être délaissée de savoir sa mère si belle encore, en train de lui voler son plaisir.]{.calibre11}
+
+[« Tu l'auras, tu l'auras, reprit Hyacinthe, heureux de torturer un peu sa soeur, qu'il redoutait, tu l'auras, s'il veut bien se donner...]{.calibre11}
+
+[--- Il m'aime ! reprit furieusement Camille. Il est gentil avec moi, ça me suffit. »]{.calibre11}
+
+[Il eut peur de son regard noir, de ses petites mains d'infirme qui se crispaient comme des griffes. Puis, après un silence :]{.calibre11}
+
+[« Et papa, qu'est-ce qu'il dit ?]{.calibre11}
+
+[--- Oh ! Papa, pourvu que, de quatre à six, il soit chez l'autre. »]{.calibre11}
+
+[Hyacinthe se mit à rire. C'étaient ce qu'ils appelaient entre eux le petit goûter de papa.]{.calibre11}
+
+[Et Camille s'en égayait gentiment, excepté les jours où maman, elle aussi, goûtait dehors.]{.calibre11}
+
+[Le landau fermé était entré dans la rue, et il s'approchait au trot sonore des deux grands carrossiers. À cette minute, une petite blonde de seize à dix-huit ans, un trottin de modiste, qui avait au bras un large carton, traversa vivement, pour entrer sous la porte avant la voiture. Elle apportait un chapeau à la baronne, elle avait musé tout le long du boulevard, avec ses yeux d'un bleu de pervenche, son nez rose, sa bouche qui riait toujours, dans le plus adorable des petits visages qu'on pût voir. Et ce fut à ce moment, après un dernier coup d'oeil vers le landau, que Salvat, d'un bond, pénétra sous le porche. Presque aussitôt, il reparut, il jeta au ruisseau son bout de cigare allumé ; et, sans courir, il s'en alla, il s'effaça, au fond des ténèbres vagues de la rue.]{.calibre11}
+
+[Alors, que se passa-t-il ? Plus tard, Pierre se souvint qu'un camion du chemin de fer de l'Ouest s'était mis en travers, arrêtant, attardant une minute le landau, tandis que le trottin disparaissait sous la porte. Il avait vu, avec un serrement de coeur inexprimable son frère Guillaume s'élancer à son tour, entrer dans l'hôtel comme sous le coup d'une révélation, d'une certitude brusque. Lui, sans comprendre nettement, sentait l'approche de l'effroyable chose. Mais, voulant courir, voulant crier, il était cloué sur le trottoir, il avait la gorge serrée par une main de plomb. Soudainement, ce fut le grondement de la foudre, une explosion formidable, comme si la terre s'ouvrait, comme si l'hôtel foudroyé s'anéantissait. Toutes les vitres des maisons voisines éclatèrent tombèrent avec un bruit retentissant de grêle. Une flamme d'enfer avait embrasé un instant la rue, la poussière et la fumée furent telles, que les quelques passants aveuglés hurlèrent d'épouvante, dans le saisissement de cette fournaise où ils croyaient culbuter.]{.calibre11}
+
+[Et Pierre, alors, fut illuminé par cet éclair. Il revit la bombe gonflant le sac à outils, que le chômage faisait vide et inutile. Il la revit sous le veston en loques, cette bosse qu'il avait prise pour un morceau de pain ramassé contre une borne, rapporté au logis à la femme et à l'enfant. Après avoir couru, menacé tout le Paris heureux, elle venait de flamber là, d'éclater telle que le tonnerre à ce seuil de la bourgeoisie souveraine, maîtresse de l'or. Lui, à ce moment, ne pensa qu'à son frère Guillaume, se jeta sous ce porche où semblait s'être ouverte une bouche de volcan. Et, d'abord, il ne distingua rien, la fumée âcre noyait tout. Puis, il aperçut les murs fendus, l'étage supérieur éventré, le pavé défoncé, semé de décombres. Dehors, le landau qui allait entrer, n'avait rien eu, ni un cheval atteint, ni même la caisse éraflée par un projectile. Mais, étalée sur le dos, la jeune fille, le petit trottin blond et joli gisait, le ventre ouvert, avec son fin visage intact, les yeux clairs, le sourire étonné, dans le coup de foudre de la catastrophe ; tandis que, tombé près d'elle, le carton, dont le couvercle s'était détaché simplement, avait laissé rouler le chapeau, un chapeau rose très fragile, resté charmant en sa fleur.]{.calibre11}
+
+[Guillaume, par un prodige, était vivant, debout déjà. Seule, sa main gauche ruisselait de sang, des éclats qui lui avaient déchiré le poignet. Il avait eu les moustaches brûlées, et l'explosion, en le renversant, l'avait ébranlé et meurtri à un tel point, qu'il grelottait de tout son être, comme dans un grand froid. Pourtant il reconnut son frère, sans même s'étonner de le voir là, ainsi qu'il arrive après les désastres, où l'inexpliqué devient providentiel. Ce frère, perdu de vue depuis si longtemps, était là naturellement parce qu'il fallait qu'il y fût. Et il lui cria tout de suite, dans le frisson fou qui l'agitait :]{.calibre11}
+
+[« Emmène-moi, emmène-moi !... Chez toi, à Neuilly, oh ! Emmène-moi ! »]{.calibre11}
+
+[Puis, pour toute explication, parlant de Salvat :]{.calibre11}
+
+[« Je me doutais bien qu'il m'avait volé une cartouche, une seule heureusement, sans quoi le quartier aurait sauté... Ah ! Le malheureux ! Je n'ai pu arriver à temps pour mettre le pied sur la mèche. »]{.calibre11}
+
+[Avec une lucidité parfaite, telle que la donne parfois le danger, Pierre, sans parler, sans perdre une seconde, se souvint que l'hôtel avait une sortie par-derrière, rue Vignon. Il venait de comprendre le grave péril où son frère serait, s'il se trouvait mêlé à cette vicaire. Vivement, quand il l'eut emmené, dans l'ombre de la rue Vignon, il lui noua son mouchoir autour du poignet, qu'il lui fit cacher ensuite sous son veston, contre sa poitrine.]{.calibre11}
+
+[« Emmène-moi, répétait Guillaume hanté et grelottant, chez toi, à Neuilly... Pas chez moi.]{.calibre11}
+
+[--- Oui, oui, sois tranquille. Tiens ! Attends là un instant, je vais arrêter une voiture. »]{.calibre11}
+
+[Il l'avait ramené sur le boulevard, dans sa hâte de trouver un fiacre. Mais le tonnerre de l'explosion bouleversait le quartier, les chevaux se cabraient, des gens galopaient au hasard, pris de démence. Et des agents étaient accourus, une foule se ruait, encombrait déjà l'entrée de la rue Godot-de-Mauroy, noire comme un gouffre, les lumières s'étant toutes éteintes ; tandis que, sur le boulevard, un crieur de La Voix du peuple s'entêtait à clamer le nouveau scandale des Chemins de fer africains, les trente-deux vendus de la Chambre et du Sénat, la chute prochaine du ministère.]{.calibre11}
+
+[Pierre, enfin, arrêtait un fiacre, lorsqu'il entendit un passant qui courait, dire à un autre : « Le ministère, ah bien ! Voilà une bombe qui le raccommode ! »]{.calibre11}
+
+[Les deux frères montèrent dans la voiture, qui les emmena. Et au-dessus de Paris grondant, la nuit noire s'était faite, une nuit sans pardon où les étoiles sombraient, sous la brume de crimes et de colère montée des toitures. Le grand cri de justice passait, dans le bruit d'ailes terrifiant que Sodome et Gomorrhe avaient entendu venir, de toutes les ténèbres de l'horizon.]{.calibre11}

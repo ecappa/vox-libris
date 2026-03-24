@@ -1,0 +1,29 @@
+]{.calibre20}
+
+
+FRRITT FLACC
+
+
+]{.calibre20}
+
+## [[Chapitre 2]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942036 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_461 .calibre21}
+
+Froc ! Un coup discret a été frappé à la porte du Six-Quatre, percée dans l\'angle gauche de la rue Messaglière. C\'est une maison des plus confortables, si, toutefois, ce mot doit avoir court à Luktrop -- une des plus riches, si, de gagner bon an mal an quelques milliers de fretzers, constitue la richesse.
+
+Au froc a répondu un de ces aboiements sauvages, dans lesquels il y a du hurlement, -- ce qui serait l\'aboiement d\'un loup. Puis, une fenêtre à guillotine s\'ouvre au-dessus de la porte du Six-Quatre.
+
+« À tous les diables, les importuns ! » dit une voix de méchante et désagréable humeur.
+
+Une jeune fille, grelottant sous la pluie, enveloppée d\'une mauvaise cape, demande si le docteur Trifulgas est à la maison.
+
+« Il y est ou n\'y est pas, -- c\'est selon !
+
+--- Je viens pour mon père qui se meurt !
+
+--- Où se meurt-il ?
+
+--- Du côté de Val Karniou, à quatre kertses d\'ici.
+
+--- Et il se nomme ?
+
+--- Vort Kartif. »

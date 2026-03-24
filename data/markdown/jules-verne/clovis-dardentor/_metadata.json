@@ -1,0 +1,187 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "CLOVIS DARDENTOR",
+  "slug": "clovis-dardentor",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Dans lequel le principal personnage de cette histoire n'est pas présenté au lecteur",
+      "slug": "chapitre-1-dans-lequel-le-principal-personnage-de-cette-histoire-nest-pas-presente-au-lecteur",
+      "is_part": false,
+      "spine_start": 1591,
+      "spine_end_exclusive": 1592,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_140.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Dans lequel le principal personnage de cette histoire est décidément présenté au lecteur",
+      "slug": "chapitre-2-dans-lequel-le-principal-personnage-de-cette-histoire-est-decidement-presente-au-lecteur",
+      "is_part": false,
+      "spine_start": 1592,
+      "spine_end_exclusive": 1593,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_141.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Dans lequel l'aimable héros de cette histoire commence à se poser au premier plan",
+      "slug": "chapitre-3-dans-lequel-laimable-heros-de-cette-histoire-commence-a-se-poser-au-premier-plan",
+      "is_part": false,
+      "spine_start": 1593,
+      "spine_end_exclusive": 1594,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_142.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Dans lequel Clovis Dardentor dit des choses dont Jean Taconnat compte faire son profit",
+      "slug": "chapitre-4-dans-lequel-clovis-dardentor-dit-des-choses-dont-jean-taconnat-compte-faire-son-profit",
+      "is_part": false,
+      "spine_start": 1594,
+      "spine_end_exclusive": 1595,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_143.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Dans lequel Patrice continue à trouver que son maître manque parfois de distinction",
+      "slug": "chapitre-5-dans-lequel-patrice-continue-a-trouver-que-son-maitre-manque-parfois-de-distinction",
+      "is_part": false,
+      "spine_start": 1595,
+      "spine_end_exclusive": 1596,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_143_0001.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Où les incidents multiples de cette histoire se poursuivent à travers la ville de Palma",
+      "slug": "chapitre-6-ou-les-incidents-multiples-de-cette-histoire-se-poursuivent-a-travers-la-ville-de-palma",
+      "is_part": false,
+      "spine_start": 1596,
+      "spine_end_exclusive": 1597,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_144.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Dans lequel Clovis Dardentor revient du château de Bellver plus vite qu'il n'y est allé",
+      "slug": "chapitre-7-dans-lequel-clovis-dardentor-revient-du-chateau-de-bellver-plus-vite-quil-ny-est-alle",
+      "is_part": false,
+      "spine_start": 1597,
+      "spine_end_exclusive": 1598,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_145.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Dans lequel la famille Désirandelle vient prendre contact avec la famille Elissane",
+      "slug": "chapitre-8-dans-lequel-la-famille-desirandelle-vient-prendre-contact-avec-la-famille-elissane",
+      "is_part": false,
+      "spine_start": 1598,
+      "spine_end_exclusive": 1599,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_146.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Dans lequel le délai s'écoule sans résultat ni pour Marcel Lornans ni pour Jean Taconnat",
+      "slug": "chapitre-9-dans-lequel-le-delai-secoule-sans-resultat-ni-pour-marcel-lornans-ni-pour-jean-taconnat",
+      "is_part": false,
+      "spine_start": 1599,
+      "spine_end_exclusive": 1600,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_147.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Dans lequel s'offre une première et sérieuse occasion sur le chemin de fer d'Oran à Saïda",
+      "slug": "chapitre-10-dans-lequel-soffre-une-premiere-et-serieuse-occasion-sur-le-chemin-de-fer-doran-a-saida",
+      "is_part": false,
+      "spine_start": 1600,
+      "spine_end_exclusive": 1601,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_148.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Qui n'est qu'un chapitre préparatoire au chapitre suivant",
+      "slug": "chapitre-11-qui-nest-quun-chapitre-preparatoire-au-chapitre-suivant",
+      "is_part": false,
+      "spine_start": 1601,
+      "spine_end_exclusive": 1602,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_149.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Dans lequel la caravane quitte Saïda et arrive à Daya",
+      "slug": "chapitre-12-dans-lequel-la-caravane-quitte-saida-et-arrive-a-daya",
+      "is_part": false,
+      "spine_start": 1602,
+      "spine_end_exclusive": 1603,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_150.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Dans lequel la reconnaissance et le désappointement de Jean Taconnat se mélangent à dose égale",
+      "slug": "chapitre-13-dans-lequel-la-reconnaissance-et-le-desappointement-de-jean-taconnat-se-melangent-a-dose-egale",
+      "is_part": false,
+      "spine_start": 1603,
+      "spine_end_exclusive": 1604,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_151.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Dans lequel Tlemcen n'est pas visitée avec le soin que mérite cette charmante ville",
+      "slug": "chapitre-14-dans-lequel-tlemcen-nest-pas-visitee-avec-le-soin-que-merite-cette-charmante-ville",
+      "is_part": false,
+      "spine_start": 1604,
+      "spine_end_exclusive": 1605,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_152.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Dans lequel une des trois conditions imposées par l'article 345 du Code civil est enfin remplie",
+      "slug": "chapitre-15-dans-lequel-une-des-trois-conditions-imposees-par-larticle-345-du-code-civil-est-enfin-remplie",
+      "is_part": false,
+      "spine_start": 1605,
+      "spine_end_exclusive": 1606,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_153.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Dans lequel un dénouement convenable termine ce roman au gré de M. Clovis Dardentor",
+      "slug": "chapitre-16-dans-lequel-un-denouement-convenable-termine-ce-roman-au-gre-de-m-clovis-dardentor",
+      "is_part": false,
+      "spine_start": 1606,
+      "spine_end_exclusive": 1607,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_154.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

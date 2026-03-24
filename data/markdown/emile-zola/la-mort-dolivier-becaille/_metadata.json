@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA MORT D’OLIVIER BÉCAILLE",
+  "slug": "la-mort-dolivier-becaille",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1259,
+      "spine_end_exclusive": 1260,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_269.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1260,
+      "spine_end_exclusive": 1261,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_270.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1261,
+      "spine_end_exclusive": 1262,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_271.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1262,
+      "spine_end_exclusive": 1263,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_272.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1263,
+      "spine_end_exclusive": 1264,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_273.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1264,
+      "spine_end_exclusive": 1265,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_274.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1265,
+      "spine_end_exclusive": 1267,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_275.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_276.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-mort-dolivier-becaille/Zola4_image023.jpg"
+  ]
+}

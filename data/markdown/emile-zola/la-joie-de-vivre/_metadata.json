@@ -1,0 +1,134 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA JOIE DE VIVRE",
+  "slug": "la-joie-de-vivre",
+  "nombre_chapitres": 11,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 256,
+      "spine_end_exclusive": 257,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_255.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 257,
+      "spine_end_exclusive": 258,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_256.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 258,
+      "spine_end_exclusive": 259,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_257.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 259,
+      "spine_end_exclusive": 260,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_258.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 260,
+      "spine_end_exclusive": 261,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_259.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 261,
+      "spine_end_exclusive": 262,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_260.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 262,
+      "spine_end_exclusive": 263,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_261.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 263,
+      "spine_end_exclusive": 264,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_262.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 264,
+      "spine_end_exclusive": 265,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_263.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 265,
+      "spine_end_exclusive": 266,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_264.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 266,
+      "spine_end_exclusive": 267,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_265.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 267,
+      "spine_end_exclusive": 269,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_266.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_267.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-joie-de-vivre/Zola1_image028.jpg"
+  ]
+}

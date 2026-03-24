@@ -1,0 +1,62 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "NORD CONTRE SUD",
+  "slug": "nord-contre-sud",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1204,
+      "spine_end_exclusive": 1219,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_809.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_810.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_811.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_812.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_813.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_814.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_815.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_816.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_817.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_818.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_819.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_820.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_821.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_822.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_823.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Seconde partie",
+      "slug": "seconde-partie",
+      "is_part": false,
+      "spine_start": 1219,
+      "spine_end_exclusive": 1235,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_824.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_825.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_826.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_827.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_828.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_829.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_830.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_831.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_832.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_833.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_834.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_835.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_836.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_837.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_838.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_839.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

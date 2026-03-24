@@ -1,0 +1,144 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L'OEUVRE",
+  "slug": "loeuvre",
+  "nombre_chapitres": 12,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 322,
+      "spine_end_exclusive": 323,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_321.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 323,
+      "spine_end_exclusive": 324,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_322.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 324,
+      "spine_end_exclusive": 325,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_323.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 325,
+      "spine_end_exclusive": 326,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_324.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 326,
+      "spine_end_exclusive": 327,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_325.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 327,
+      "spine_end_exclusive": 328,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_326.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 328,
+      "spine_end_exclusive": 329,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_327.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 329,
+      "spine_end_exclusive": 330,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_328.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 330,
+      "spine_end_exclusive": 331,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_329.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 331,
+      "spine_end_exclusive": 332,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_330.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 332,
+      "spine_end_exclusive": 333,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_331.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 333,
+      "spine_end_exclusive": 334,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_332.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 334,
+      "spine_end_exclusive": 336,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_333.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_334.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/loeuvre/Zola1_image030.jpg"
+  ]
+}

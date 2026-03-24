@@ -1,0 +1,209 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NOUVELLE CAMPAGNE",
+  "slug": "nouvelle-campagne",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1833,
+      "spine_end_exclusive": 1834,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_534.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Avertissement",
+      "slug": "avertissement",
+      "spine_start": 1834,
+      "spine_end_exclusive": 1835,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_535.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'opportunisme de Léon XIII",
+      "slug": "lopportunisme-de-leon-xiii",
+      "spine_start": 1835,
+      "spine_end_exclusive": 1836,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_536.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La vertu de la république",
+      "slug": "la-vertu-de-la-republique",
+      "spine_start": 1836,
+      "spine_end_exclusive": 1837,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_537.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le solitaire",
+      "slug": "le-solitaire",
+      "spine_start": 1837,
+      "spine_end_exclusive": 1838,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_538.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "À la jeunesse",
+      "slug": "a-la-jeunesse",
+      "spine_start": 1838,
+      "spine_end_exclusive": 1839,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_539.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le crapaud",
+      "slug": "le-crapaud",
+      "spine_start": 1839,
+      "spine_end_exclusive": 1840,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_540.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'amour des bêtes",
+      "slug": "lamour-des-betes",
+      "spine_start": 1840,
+      "spine_end_exclusive": 1841,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_541.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La société des gens de lettres",
+      "slug": "la-societe-des-gens-de-lettres",
+      "spine_start": 1841,
+      "spine_end_exclusive": 1844,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_542.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_543.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_544.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La voyante",
+      "slug": "la-voyante",
+      "spine_start": 1844,
+      "spine_end_exclusive": 1845,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_545.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La propriété littéraire",
+      "slug": "la-propriete-litteraire",
+      "spine_start": 1845,
+      "spine_end_exclusive": 1846,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_546.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Peinture",
+      "slug": "peinture",
+      "spine_start": 1846,
+      "spine_end_exclusive": 1847,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_547.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'élite et la politique",
+      "slug": "lelite-et-la-politique",
+      "spine_start": 1847,
+      "spine_end_exclusive": 1848,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_548.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Pour les juifs",
+      "slug": "pour-les-juifs",
+      "spine_start": 1848,
+      "spine_end_exclusive": 1849,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_549.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Dépopulation",
+      "slug": "depopulation",
+      "spine_start": 1849,
+      "spine_end_exclusive": 1850,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_550.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Enfin couronné",
+      "slug": "enfin-couronne",
+      "spine_start": 1850,
+      "spine_end_exclusive": 1851,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_551.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les droits du romancier",
+      "slug": "les-droits-du-romancier",
+      "spine_start": 1851,
+      "spine_end_exclusive": 1852,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_552.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Auteurs et éditeurs",
+      "slug": "auteurs-et-editeurs",
+      "spine_start": 1852,
+      "spine_end_exclusive": 1853,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_553.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les droits du critique",
+      "slug": "les-droits-du-critique",
+      "spine_start": 1853,
+      "spine_end_exclusive": 1855,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_554.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_555.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nouvelle-campagne/Zola5_image087.jpg",
+    "images/emile-zola/nouvelle-campagne/Zola5_image088.jpg",
+    "images/emile-zola/nouvelle-campagne/Zola5_image089.jpg",
+    "images/emile-zola/nouvelle-campagne/Zola5_image090.jpg"
+  ]
+}

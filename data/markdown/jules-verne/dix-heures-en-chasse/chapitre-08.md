@@ -1,0 +1,21 @@
+]{.calibre20}
+
+
+DIX HEURES EN CHASSE
+
+
+]{.calibre20}
+
+## [[Chapitre 8]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342941872 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_365 .calibre21}
+
+Pendant que je me débrouillais ainsi avec ce malin Picard, les autres prenaient les devants. D\'ailleurs, ils m\'avaient très bien fait entendre qu\'on n\'était pas en sûreté dans le voisinage d\'un maladroit tel que moi, dont la plus vulgaire prudence commandait de s\'écarter.
+
+Brétignot lui-même, sévère mais injuste, m\'abandonnait, comme si j\'eusse été un jettatore, doué du mauvais œil. Tous disparurent bientôt derrière un petit bois, sur la gauche. S\'il faut le dire, je n\'en fus pas autrement fâché. Au moins, je ne serais responsable que de mes actes !
+
+J\'étais donc seul, au milieu de cette plaine qui n\'en finissait pas. Qu\'étais-je venu faire là, grand Dieu ! avec tout ce harnachement sur les épaules ! Pas un perdreau qui sollicitât mon coup de fusil ! Pas un « ieuvre », comme disent les paysans picards, dont j\'aurais pu suivre les « randonnées », un mot de l\'argot des chasseurs ! Au lieu d\'être tranquillement dans mon cabinet, à lire, à écrire, ou même à ne rien faire !
+
+J\'allais sans but. Je prenais les sentiers battus, de préférence aux terres labourées. Je m\'asseyais pendant dix minutes. Je marchais pendant vingt. Pas de maison dans un rayon de cinq kilomètres. Pas un clocher pointant au-dessus de l\'horizon. C\'était le désert. De temps en temps, un poteau menaçant les intrus de cette mystifiante inscription : *Chasse réservée*
+
+Réservée ? Pas au gibier, à coup sûr, puisqu\'il n\'y en avait point trace !
+
+Enfin, j\'allais toujours, rêvant, philosophant, le fusil en bandoulière, traînant la patte. À mon gré, le soleil ne s\'abaissait pas assez vite sur l\'horizon. Est-ce qu\'un nouveau Josué, suspendant les lois de la cosmographie, l\'avait arrêté dans sa course diurne pour le plus grand plaisir de mes enragés compagnons ? La nuit ne se ferait donc pas sur cette lamentable journée d\'ouverture ?

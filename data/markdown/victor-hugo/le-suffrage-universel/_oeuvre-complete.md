@@ -1,0 +1,290 @@
+[[
+]{.calibre_7}]{.bold}
+
+### [[[Le suffrage universel]{.calibre2}]{.bold1}]{.calibre_39} {#le-suffrage-universel .calibre_38}
+
+[Discours prononcé à l'Assemblée Nationale]{.calibre4}
+
+[Le 21 mai 1850
+![Assemblee_legislative_1851](../../../images/victor-hugo/le-suffrage-universel/00826.jpg){.calibre3}]{.calibre_10}
+
+[[[[[^\[10\]^]{.calibre_21}]{.underline}]{.calibre_4}](index_split_4951.html#filepos40609613){#filepos40482408}]{.calibre_10}
+
+[]{.calibre_10}
+
+[Présidence de M. Dupin]{.calibre_10}
+
+[\[\...\]
+[M le Président.]{.bold}
+La parole est à M. Victor Hugo.
+[M. Victor Hugo.]{.bold}
+Messieurs, la révolution de Février, et, pour ma part, puisqu'il y a des partis qui la disent vaincue, puisqu'en dehors de cette enceinte elle est calomniée, je saisirai toutes les occasions de la glorifier dans ce qu'elle a fait de magnanime et de beau\...
+[M. de Mornay.]{.bold}
+Vous avez glorifié de même la monarchie !
+[M. Victor Hugo.]{.bold}
+La révolution de Février avait eu deux admirables pensées : la première, je vous la rappelais l'autre jour, ce fut de pénétrer dans les profondeurs du monde politique et d'en arracher la peine de mort ; la seconde ce fut d'élever subitement les plus humbles régions du monde social au niveau des plus hautes, et d'y installer la souveraineté. C'était là, messieurs, une double et pacifique victoire du progrès qui, d'une part, relevait l'humanité ; qui d'autre part, constituait le peuple, qui emplissait de lumière à la fois le monde politique et le monde social, et qui les régénérait et les consolidait tous les deux en même temps, l'un par la clémence, l'autre par l'égalité. [(Approbation à gauche.)]{.italic}]{.calibre4}
+
+[Messieurs, le grand acte tout ensemble politique et chrétien par lequel la révolution de Février fit pénétrer son principe jusque dans les racines mêmes de l'ordre social, fut l'établissement du suffrage universel, fait immense, fait capital, événement considérable, qui introduisit dans l'État un élément nouveau, irrévocable et définitif.]{.calibre4}
+
+[Remarquez-en toute la portée. Certes ce fut une grande chose de reconnaître le droit de tous, de composer l'autorité universelle de la somme des libertés individuelles, de dissoudre ce qui restait des castes dans l'unité auguste d'une souveraineté commune et d'emplir du même peuple tous les compartiments du vieux moule social\... [(Hilarité prolongée à droite. --- Rumeurs et approbation à gauche.)]{.italic}]{.calibre4}
+
+[Certes cela fut grand, mais c'est surtout dans son action sur les classes qualifiées jusqu'alors classes inférieures qu'éclate l'efficacité du suffrage universel.]{.calibre4}
+
+[Messieurs, le côté efficace, j'insiste sur l'expression, du suffrage universel, le côté politique, le côté profond, ce ne fut pas de lever le bizarre interdit électoral qui pesait, sans qu'on pût deviner pourquoi (mais c'était la sagesse des grands hommes d'État de ce temps-là, qui sont, du reste, les mêmes que ceux de ce temps-ci\.... [(Rires approbatifs à gauche.)
+]{.italic} [Voix à droite.]{.bold}
+Vous étiez de ces grands hommes-là à la chambre des pairs !
+[M. Victor Hugo.]{.bold}
+\...Ce ne fut pas, dis-je, de lever ce bizarre interdit électoral qui pesait sur une partie de ce qu'on nommait la classe moyenne, et même de ce qu'on nommait la classe élevée, ce ne fut pas de restituer son droit à l'homme qui était avocat, médecin, lettré et qui n'était pas électeur, à l'homme qui était juré et qui n'était pas électeur, à l'homme qui était professeur, magistrat, membre de l'Institut, pair de France, et qui n'était pas électeur ; non ! Le côté efficace, politique, profond du suffrage universel, ce fut d'aller chercher dans les régions douloureuses de la société, dans les bas-fonds, comme on dit, l'être courbé sous le poids des négations sociales, l'être froissé qui, jusqu'alors n'avait eu d'autre espoir que la révolte, et de lui apporter l'espérance sous une autre forme, et de lui dire : Vote ! ne te bats plus ! [(Applaudissements sur quelques bancs de la gauche.)
+]{.italic} [Voix à droite.]{.bold}
+Il avait bien compris cela au mois de juin !
+[M. Victor Hugo.]{.bold}
+Ce fut de rendre sa part de souveraineté à celui qui, jusque-là, n'avait eu que sa part de souffrance ; ce fut d'aborder, dans ses ténèbres matérielles et morales, l'infortuné qui, dans l'extrémité de sa détresse, n'avait d'autre arme, d'autre ressource, d'autre défense que la violence, et de lui retirer la violence et de lui mettre dans les mains, à la place de la violence, le droit.]{.calibre4}
+
+[Oui, la grande sagesse de la révolution de Février, sa grande sagesse et en même temps sa grande justice, ce fut ce suffrage universel, qui non seulement confond et unit le bourgeois et le prolétaire dans l'exercice du même pouvoir souverain, mais qui, prenant pour base de la politique l'Évangile\...
+[M. Jules de Lasteyrie.]{.bold}
+Allons donc ! pas d'impiété !]{.calibre4}
+
+[M. le Président. Laissez discuter librement.
+[M. Victor Hugo.]{.bold}
+Ce fut, dis-je, le suffrage universel, qui va chercher dans l'accablement, dans le délaissement, dans l'abandon, l'homme de désespoir, et qui lui dit : Espère ! --- l'homme de colère et qui lui dit : Raisonne ! --- le pauvre, l'indigent, le malheureux, le déshérité, comme on l'appelle, et qui le sacre citoyen. [(Bravos à gauche.)]{.italic}]{.calibre4}
+
+[J'insiste, messieurs. Voyez comment ce qui est profondément juste est toujours, en même temps, profondément politique.]{.calibre4}
+
+[Dans un temps donné, après les premières crises et les premières agitations inséparables de toute grande commotion sociale, dans un temps donné, le suffrage universel, en attribuant aux classes souffrantes leur part légitime de puissance, leur donne nécessairement le calme : tout ce qui grandit l'homme l'apaise. Le suffrage universel dit à tous, et, quant à moi, je ne sache pas de plus admirable formule de la paix publique, le suffrage universel dit à tous : Soyez tranquilles, vous êtes souverains ! Il ajoute : Vous souffrez, eh bien, n'aggravez pas vos souffrances, n'aggravez pas les détresses publiques par la révolte ; vous souffrez, eh bien, vous allez travailler dès à présent au grand Oeuvre de la destruction de la misère par des hommes qui seront à vous, par des hommes en qui vous mettrez votre âme, et qui seront en quelque sorte votre main ; soyez tranquilles !]{.calibre4}
+
+[Puis, ceux qui seraient tentés d'être récalcitrants, il dit : Avez-vous voté ? Oui ! votre droit est épuisé ; tout est dit. Quand le vote a parlé, la souveraineté a prononcé. Une fraction ne peut pas et ne doit pas défaire ni refaire l'Oeuvre collective ; vous êtes citoyens, vous êtes libres ; votre heure reviendra, sachez l'attendre. En attendant, parlez, écrivez, discutez, contestez, enseignez, éclairez, éclairez-vous, éclairez les autres.
+[À gauche.]{.bold}
+Très bien ! Très bien !
+[M. Victor Hugo.]{.bold}
+Vous avez à vous aujourd'hui la vérité, demain la souveraineté ; vous êtes forts. Quoi ! deux modes d'action sont à votre disposition, le droit du souverain et le rôle du rebelle, et vous choisiriez le rôle du rebelle ! Ce serait une folie ! et ce serait un crime ! [(Très bien ! très bien !)]{.italic}]{.calibre4}
+
+[Voilà les conseils que donne aux classes souffrantes le suffrage universel.]{.calibre4}
+
+[Messieurs, dissoudre les animosités, désarmer les haines, faire tomber la cartouche des mains de la misère, relever l'homme injustement dégradé et assainir l'esprit malade parce qu'il y a de plus pur au monde, le sentiment du droit librement exercé ; reprendre à chacun le droit de force qui est le fait naturel, et lui rendre en échange la part de souveraineté qui est le fait social ; montrer aux souffrances une issue vers la lumière et vers le bien-être ; ajourner les échéances révolutionnaires et donner à la société avertie le temps de s'y préparer ; en un mot, inspirer aux masses cette patience forte qui fait les grands peuples, voilà l'Oeuvre du suffrage universel, Oeuvre éminemment sociale au point de vue de l'État, éminemment morale au point de vue de l'individu.]{.calibre4}
+
+[Et en effet, méditez ceci : Il y a un jour dans l'année où celui qui vous obéit se voit votre pareil, où celui qui vous sert se voit votre égal, où chaque citoyen, entrant dans la balance universelle, sent et vérifie, pour ainsi dire, la pesanteur spécifique du droit de cité, et où le plus petit fait équilibre au plus grand. [(Approbation à gauche. --- Rires ironiques à droite.)]{.italic}]{.calibre4}
+
+[Il y a dans l'année un jour où le manoeuvre, le journalier, l'homme qui porte des fardeaux, l'homme qui gagne son pain à la sueur de son front, juge le sénat, prend dans sa main durcie et ennoblie par le travail tous les pouvoirs, les ministres, les représentants, le Président de la République, et dit : La puissance, c'est moi ! [(Bravos et applaudissements à gauche.)]{.italic}]{.calibre4}
+
+[Il y a dans l'année un jour où le plus imperceptible citoyen participe à la vie immense du pays tout entier, où la plus étroite poitrine se dilate à l'air des grandes affaires publiques. [(Rires à droite.)]{.italic}]{.calibre4}
+
+[Il y a, dis-je, dans l'année un jour où le plus faible sent en lui la grandeur de la souveraineté nationale, où le plus humble sent en lui l'âme de la patrie !]{.calibre4}
+
+[Quel accroissement de dignité pour l'individu, et, par conséquent, de moralité ! Quelle satisfaction, et, par conséquent, quel apaisement ! Regardez l'ouvrier qui va au scrutin ; il y entre avec le front triste du prolétaire accablé, il en sort avec le regard d'un souverain. [(Applaudissements à gauche. --- Rires à droite. --- Agitation prolongée.)]{.italic}]{.calibre4}
+
+[Messieurs, il m'est impossible de ne pas faire remarquer une chose : c'est que cette nature d'interruptions, d'interruptions calculées et systématiques\... [(Vives dénégations à droite.)]{.italic}
+[A gauche.]{.bold}
+C'est vrai !
+[M. Charles Dain.]{.bold}
+Ajoutez : et indécentes !
+[M. Victor Hugo.]{.bold}
+\... Cette nature d'interruptions, qui n'a pas d'autre but que de déconcerter la pensée de l'orateur\... [(Nouvelles dénégations à droite.)
+]{.italic} [M. le Président.]{.bold}
+Vous savez bien qu'on n'y réussirait pas.
+[M. Victor Hugo.]{.bold}
+\... Cette nature d'interruptions, qui n'a pas d'autre but que de lui ôter la liberté d'esprit, ne pouvant lui ôter la liberté de la parole, n'est pas un jeu digne d'une grande Assemblée.
+[À gauche.]{.bold}
+Très bien ! très bien !
+[M. Victor Hugo.]{.bold}
+Quant à moi, en présence de ces interruptions, que je ne qualifie pas, que je laisse à l'opinion publique le soin d'apprécier\...
+[M. le Président.]{.bold}
+Vous n'avez pas été interrompu, je dois le constater.
+[M. Bac.]{.bold}
+L'Assemblée a manqué de dignité en interrompant comme elle l'a fait.]{.calibre4}
+
+[M. Victor Hugo. En présence de cette nature d'interruptions, dis-je, je mets le droit de l'orateur sous la sauvegarde de la vraie majorité, de la majorité des esprits honnêtes et justes, qui sont toujours, j'en suis convaincu, les plus nombreux dans l'Assemblée des élus d'un grand peuple.
+[Voix à droite.]{.bold}
+Il n'y a pas de doute !
+[M. Victor Hugo.]{.bold}
+
+[Eh bien, vous législateurs, chargés par la Providence de fermer les abîmes et non de les ouvrir, vous qui êtes venus ici loyalement pour consolider, et non pour ébranler, tous représentants de ce grand peuple de l'initiative et du progrès, vous hommes de sagesse et de raison qui, comprenez toute la sainteté de votre mission, et qui certes n'y faillirez pas\...
+[Une voix à droite.]{.bold}
+Non ! non !
+[M. Victor Hugo.]{.bold}
+Savez-vous ce que vient faire aujourd'hui cette loi fatale, cette loi aveugle qu'on ose si Imprudemment vous présenter ? Elle vient, je le dis avec un frémissement d'angoisse, je le dis avec l'anxiété douloureuse d'un bon citoyen épouvanté des périls où l'on précipite la patrie ; elle vient, cette loi, proposer aux représentants du peuple l'abolition du droit de suffrage pour les classes souffrantes, et, par conséquent, sans même se douter de ce qu'elle fait, on ne sait quel rétablissement impie du droit d'insurrection ! [(Murmures à droite. --- Approbation à gauche.)]{.italic} Voilà en deux mots la situation. Cette situation, permettez-moi de la caractériser devant vous en peu de mots, mais avec franchise.]{.calibre4}
+
+[Quoi ! après deux années d'épreuves et d'agitations inévitables, je vous le disais en commençant, inséparables de toutes les grandes commotions politiques ; le but était atteint. Quoi ! le mode de création pacifique du progrès était substitué, définitivement substitue au mode violent ; quoi ! Les impatiences et les colères avaient désarmé ; rechange du droit d'insurrection contre le droit de suffrage était consommé. L'homme des classes souffrantes avait accepté, il avait noblement et sagement accepté ; il s'était senti rehaussé par la confiance sociale ; ce nouveau citoyen, que j'appelle sans hésiter un souverain restauré, était entré dans la société avec une dignité sereine. Les jours d'élection étaient devenus pour le pays mieux que des jours de fête, c'étaient des jours de calme. [(Mouvement.)]{.italic} En présence de ce calme, le mouvement des affaires, des transactions, des intérêts, du luxe, des arts, du commerce, de l'industrie, avait repris (Exclamations à droite) ; les pulsations de la vie régulière revenaient.
+[Une voix à droite.]{.bold}
+Il n'y a pas un mot de vrai.
+[M. Victor Hugo.]{.bold}
+Un admirable résultat était obtenu ; un imposant traité de paix avait été signé entre ce qu'on appelle encore le haut et le bas de la société.]{.calibre4}
+
+[Et c'est là le moment que vous choisissez, vous ministres, pour tout remettre en question ! et ce traité signé, vous le déchirez ! et c'est précisément cet homme, le dernier sur l'échelle de vie, qui maintenant espérait remonter tranquillement et peu à peu, c'est ce pauvre, c'est ce malheureux autrefois redoutable, maintenant réconcilié, apaisé, confiant, fraternel ; c'est lui que votre loi va chercher ! Et pourquoi ? pour faire une chose indigne, insensée, impie, abominable, anarchique !\... [(Applaudissements à gauche)]{.italic} pour lui reprendre son bulletin d'électeur, pour l'arracher aux idées de concorde et de paix, et pour le rendre aux idées de violence ! Quoi ! le port était trouvé, et c'est vous qui recommencez les aventures ? Quoi ! le pacte était conclu, et c'est vous qui le violez !]{.calibre4}
+
+[Et pourquoi cette Violation ? Pourquoi cette agression en pleine paix ? Pourquoi cet emportement ? Pourquoi cet attentat ? pourquoi cette folie ? Pourquoi ! Je vais vous le dire : c'est parce qu'il a plu au peuple, après avoir nommé qui tous vouliez, ce que vous aviez trouvé fort bon\...
+[Une voix à droite.]{.bold}
+Vous, par exemple.
+[M. Victor Hugo.]{.bold}
+De nommer qui vous ne vouliez pas.
+[A gauche avec force.]{.bold}
+A l'ordre l'interrupteur ! [(Bruit.)]{.italic}
+[M. Bac.]{.bold} [À M. Victor Hugo.]{.italic}
+Méprisez l'interrupteur et n'y, répondez pas, c'est trop grossier.
+[Voix à l'extrême gauche.]{.bold}
+L'interrupteur a manqué à l'Assemblée ; monsieur le président, rappelez-le à l'ordre !
+[M. Le président.]{.bold}
+Vous faites vingt fois plus de bruit que cela ne mérite. [(C'est vrai !)
+]{.italic} [M. Victor Hugo.]{.bold}
+Pourquoi, dis-je, cette agression ? Pourquoi ? C'est, je le répète, parce qu'il a plu au peuple, après avoir nommé qui vous vouliez, ce que vous aviez trouvé fort bon, de nommer qui vous ne vouliez pas, ce que vous trouvez mauvais ; c'est parce qu'il est présumable qu'il a la hardiesse de changer d'avis sur votre compte depuis que vous êtes le pouvoir, et qu'il peut comparer les actes aux programmes, et ce qu'on a tenu avec ce qu'on avait promis ; c'est parce qu'il semble se permettre de ne pas admirer le Gouvernement comme il convient ; c'est parce qu'il ose user de son vote à sa fantaisie, ce peuple ; parce qu'il paraît avoir cette audace inouïe de s'imaginer qu'il est libre, et que, selon toute apparence, il lui passe par la tête cette autre idée étrange qu'il est souverain ; c'est, enfin, parce qu'il a l'insolence de vous donner un avis sous cette forme pacifique du scrutin, et de ne pas se prosterner purement et simplement à vos pieds. Là-dessus vous vous indignez, vous vous emportez ; vous déclarez la société en danger, vous vous écriez : Nous allons te punir, peuple ! nous allons te châtier, suffrage universel ! et comme ce maniaque de l'histoire, vous battez de verges l'Océan ! [(Applaudissements à gauche.)]{.italic}]{.calibre4}
+
+[Que l'Assemblée me permette de placer ici une observation qui, selon moi, éclaire d'un, jour vrai et rassurant toute cette grande question du suffrage universel, et qui, à mon avis du moins, ne devrait pas être perdue de vue durant tout le cours de ce débat.]{.calibre4}
+
+[Le Gouvernement veut restreindre, émonder, mutiler, amoindrir le suffrage universel. Y a-t-il bien réfléchi ? Messieurs les ministres, voyons, vous êtes-vous bien rendu compte, vous hommes politiques, hommes sérieux, vous êtes-vous bien rendu compte de ce que c'est que le suffrage universel ? J'entends le suffrage universel vrai, le suffrage universel sans restrictions, sans exclusions, sans défiances, comme la révolution de Février l'avait établi, comme le veulent et le comprennent tous les hommes de progrès.]{.calibre4}
+
+[Vous rendez-vous bien compte de ce que c'est ? Non ! Le rapport me répond : Nous n'en voulons pas ; c'est le mode de création de l'anarchie. Eh bien, c'est précisément tout le contraire, c'est le mode de création du pouvoir. Oui, et c'est là l'observation que je veux déposer dans vos esprits. Ce qui sort du suffrage universel c'est, sans nul doute, la liberté, mais c'est encore plus le pouvoir que la liberté. Le suffrage universel, au milieu de nos oscillations orageuses, crée un point fixe ; et ce point fixe, c'est la volonté nationale également manifestée, la volonté nationale, entendez-vous bien ? c'est-à-dire, l'ancre d'airain qui ne casse pas, et que viennent battre vainement tour à tour le flux des révolutions et le reflux des réactions. Voilà ce que fait le suffrage universel. [(Très bien ! très bien !)]{.italic} Eh bien, pour que le suffrage universel puisse créer ce point fixe, pour qu'il puisse dégager la volonté nationale dans sa plénitude souveraine, que faut-il qu'il soit ? Il faut qu'il n'ait absolument rien de contestable ; il faut qu'il soit bien réellement et bien complètement le suffrage universel ; il faut qu'il ne laisse personne, absolument personne en dehors du vote (mouvement à droite) ; il faut qu'il fasse de la cité la chose de tous, sans exception ; car, en pareille matière, remarquez le bien, faire une exception, c'est commettre une usurpation [(A gauche.]{.italic} [Très bien !)]{.italic} Il faut enfin que le suffrage universel ne laisse à qui que ce soit ce droit redoutable de dire à la société : Je ne te connais pas.]{.calibre4}
+
+[A ces conditions, le suffrage universel crée et dégage le pouvoir, un pouvoir qu'il met au service de l'ordre et de la société, un pouvoir immense, supérieur à tous les assauts, même les plus terribles ; un pouvoir qu'on peut attaquer, mais qu'on ne peut pas renverser, témoin le 15 mai, témoin le 23 juin ; un pouvoir qui est invincible parce qu'il pose sur le peuple, comme Antée parce qu'il pose sur la terre. [(Mouvements divers.)]{.italic}]{.calibre4}
+
+[Oui, grâce au suffrage universel, vous créez un pouvoir en qui se condense toute la force de la nation et pour lequel rien n'est impossible, si ce n'est de détruire son propre principe [(À gauche.]{.italic} [Très bien !),]{.italic} si ce n'est de tuer ce qui l'a engendré. [(Nouvelle approbation à gauche.)]{.italic} Grâce au suffrage universel, dans notre époque où flottent et s'écroulent toutes les fictions, vous trouvez le fond solide de la société. Quoi ! vous êtes embarrassés du suffrage universel, hommes d'État ! vous ne savez que faire du suffrage universel ! Mais, grand Dieu ! c'est le point d'appui, c'est l'inébranlable point d'appui qui suffirait à un Archimède politique pour soulever le monde ! [(Approbation à gauche. --- Rires ironiques à droite.)]{.italic}]{.calibre4}
+
+[Messieurs les ministres, quand vous voulez détruire le caractère intégral du suffrage universel, vous ne faites pas la guerre à l'anarchie, vous attaquez dans son principe, vous attaquez au coeur le pouvoir lui-même. Gomment ne voyez-vous pas cela ?]{.calibre4}
+
+[Tenez ! voulez-vous que je vous le dise ? vous ne savez pas vous-mêmes\...
+[Quelques voix à droite et au fond de la salle.]{.bold}
+Nous n'entendons rien, parlez en face. [(Murmures à gauche.)
+]{.italic} [Quelques voix à gauche.]{.bold}
+C'est indécent toutes ces interruptions !
+[M. le Président.]{.bold}
+N'appelez pas interruption ce qui est le désir d'entendre l'orateur ; on lui a dit de parler en face.
+[M. Victor Hugo.]{.bold}
+Je m'adressais à MM. les ministres, et c'est pour cela que je me tournais vers leur banc ; je prie l'Assemblée de ne pas oublier que ce que je vais dire s'adresse seulement aux hommes qui nous gouvernent.]{.calibre4}
+
+[Je disais aux ministres : Vous ne savez pas vous-mêmes ce que vous êtes et ce que vous faites. Vous vous croyez, de très bonne foi, des conservateurs, des reconstructeurs de la société, des organisateurs ; eh bien, vous êtes, à votre insu, naïvement, innocemment, des révolutionnaires [(Sourires à droite),]{.italic} et des révolutionnaires de la plus dangereuse espèce, des révolutionnaires, je le répète, de l'espèce naïve. [(Rires sur tous les bancs, mêlés d'applaudissements à gauche.)]{.italic}]{.calibre4}
+
+[Vous avez\... mon Dieu ! plusieurs d'entre vous l'ont prouvé\... ce talent merveilleux de faire des révolutions sans le voir, sans le vouloir, et sans le savoir ! en voulant faire autre chose.]{.calibre4}
+
+[Vous nous dites : Soyez tranquilles, et vous saisissez dans vos mains, sans vous douter de ce que cela pèse, la France, la société, le présent, l'avenir, la civilisation, et vous les laissez tomber sur le pavé par maladresse ! [(Mouvement.)]{.italic} Vous faites la guerre à l'abîme en vous y jetant tête baissée.]{.calibre4}
+
+[Eh bien, l'abîme ne se rouvrira pas, le peuple ne sortira pas de son calme. Le peuple calme, c'est l'avenir sauvé. Le peuple sait cela. [(A gauche : Très bien !)
+]{.italic} [M. Bac.]{.bold}
+C'est le suffrage universel consolidé malgré eux.
+[M. Victor Hugo.]{.bold}
+Oui, cette généreuse et intelligente population parisienne le sait, messieurs, et Paris donnera ce grand et instructif spectacle, que si le Gouvernement est témérairement agitateur, le peuple, lui, sera conservateur. [(Approbation à gauche.)]{.italic} Il a à conserver, en effet, ce peuple, non seulement l'avenir de la France, mais l'avenir de toutes les nations, [(Nouvelle approbation à gauche.)]{.italic} Il a à conserver le progrès humain dont la France est l'Ame, la démocratie dont la France est le foyer, et ce magnifique travail que la France fait et répand sur le monde, la civilisation par la liberté. Voilà ce qu'il a à conserver, et il le sait, et, quoi qu'on Hisse, il ne remuera pas. [(Vif assentiment à gauche.)]{.italic}]{.calibre4}
+
+[Lui qui a la souveraineté, il saura aussi avoir la majesté. Il attendra impassible que son jour, que le jour infaillible, que le jour légal se lève. Comme il le fait déjà depuis huit mois, aux provocations, quelles qu'elles soient, aux agressions quelles qu'elles soient, il opposera la formidable tranquillité de la force, et en attendant que l'Assemblée nationale les rejette et en fasse justice, il regardera, ce peuple, avec le sourire indigné et froid du dédain, vos pauvres petites lois de réaction [(On rit),]{.italic} si furieuses et si faibles, défier l'esprit du siècle, défier la démocratie, défier le bon sens public, et enfoncer leurs malheureux petits ongles dans le granit du suffrage universel ! [(Applaudissements à gauche.)]{.italic}]{.calibre4}
+
+[Messieurs, j'ai essayé de caractériser la situation ; avant de descendre de cette tribune, je vais essayer d'achever de caractériser la loi, et je le ferai en peu de mots.]{.calibre4}
+
+[Cette loi, comme brandon révolutionnaire, les hommes du progrès peuvent la redouter ; comme moyen électoral, ils la dédaignent.]{.calibre4}
+
+[Ce n'est pas que ce soit une loi mal faite, bien au contraire ; c'est une loi savante, tout inefficace qu'elle est, c'est une loi construite dans toutes les règles de l'art ; je lui rends justice, pas un détail qui ne soit une habileté.]{.calibre4}
+
+[Je vais vous en indiquer quelques-uns sommairement et vous faire juger de sa franchise.]{.calibre4}
+
+[A la place de la simple résidence, décrétée par l'Assemblée constituante, cette loi met sournoisement le domicile\... [(Réclamations au banc de la commission. --- Comment sournoisement ?)
+]{.italic} [M. Léon Faucher.]{.bold}
+C'est très ouvertement.
+[M. Victor Hugo.]{.bold}
+Vous savez très bien que la résidence et le domicile sont deux faits légaux très différents. Je continue : Où il y avait six mois, elle écrit trois années, et elle dit : C'est la même chose.
+[Au banc de la commission.]{.bold}
+Mais non, du tout.
+[M. Victor Hugo.]{.bold}
+A la place du principe de la permanence des listes, nécessaire à la sincérité de l'élection, elle met le principe de la permanence du domicile, attentatoire au droit de l'électeur. Sans en dire mot, elle biffe l'art. 104 du Code civil, qui n'exige pour la constatation du domicile qu'une simple déclaration, et elle remplace cet art. 104 par le cens indirectement rétabli, et à défaut du cens, par une sorte d'assujettissement électoral mal déguisé de l'ouvrier envers le patron, du serviteur envers le maître, du fils envers le père\... [(Exclamations.)
+]{.italic} [Voix à droite ironiquement.]{.bold}
+Quel malheur !
+[Voix à gauche.]{.bold}
+C'est l'antagonisme dans la famille !
+[M. Victor Hugo.]{.bold}
+Elle crée ainsi, imprudence mêlée à tant d'habileté, une sourde guerre entre le patron et l'ouvrier, entre le domestique et le maître, et, chose coupable, entre le père et le fils. [(Oh ! oh ! --- Allons donc ! allons donc !)
+]{.italic} [À l'extrême gauche.]{.bold}
+Oui ! oui ! C'est vrai ! c'est vrai !
+[M. Bac.]{.bold}
+C'est la guerre de famille organisée !
+[M. Victor Hugo.]{.bold}
+Ce droit de suffrage qui, j'ai essayé de vous le démontrer en commençant, fait partie de l'entité même du citoyen, ce droit de suffrage sans lequel le citoyen n'est pas, ce droit, qui fait plus que le suivre, qui s'incorpore à lui, qui naît avec lui pour ne mourir qu'avec lui, ce droit imperdable, inaliénable, essentiel, personnel, sacré, vivant\... [(Exclamations ironiques à droite.)]{.italic}]{.calibre4}
+
+[Le [Moniteur]{.italic} constatera que, sur ces paroles, on a ri de ce côté [(la droite).
+]{.italic} [A droite.]{.bold}
+Oui ! oui !
+[M. Taschereau.]{.bold}
+Nous le lui recommandons bien !
+[M. Mortimer Ternaux.]{.bold}
+Nous avons ri à la septième épithète !
+[M. Victor Hugo.]{.bold}
+Ce droit, dis-je, ce droit personnel, ce droit qui est en quelque sorte la chair et l'âme du citoyen et de l'homme même, votre loi l'ôte à l'homme et le transporte à quoi ? à la chose, à la chose inanimée, au logis, au numéro de la maison ! elle attache l'électeur à la glèbe. [(Vif assentiment à gauche. --- Dénégations et rires à droite.)]{.italic}]{.calibre4}
+
+[Que vous dirai-je encore ? Elle entreprend, cette loi, elle accomplit comme la chose au monde la plus simple cette énormité, de faire supprimer par le mandataire le titre du mandant ; elle chasse de la cité légale des classes entières de citoyens ; elle proscrit des professions libérales en masse, entre autres celle des artistes dramatiques\... [(Hilarité bruyante à droite.)
+]{.italic} [M. Taschereau.]{.bold}
+Tous les comédiens ne sont pas au théâtre.
+[M. Victor Hugo.]{.bold}
+Ici encore le [Moniteur]{.italic} constatera\...
+[A droite.]{.bold}
+Oui ! oui !
+[M. Victor Hugo.]{.bold}
+Ici encore le [Moniteur]{.italic} constatera [(Oui ! oui ! --- Bravos ironiques)]{.italic} que quand j'ai nommé toute une classe de citoyens, ce côté [(la droite)]{.italic} a ri.
+[A droite.]{.bold}
+Oui ! oui !
+[M. le Président.]{.bold}
+N'interrompez pas.
+[M. Emmanuel Arago.]{.bold}
+C'est l'excommunication politique.
+[M. Victor Hugo.]{.bold}
+Cette loi, dis-je, exclut du droit électoral des professions libérales en masse, et, entre autres, celle des artistes dramatiques, qui, pour l'exercice de leur art, sont contraints de changer de domicile à peu près tous les ans. [(Rumeurs diverses.)]{.italic}]{.calibre4}
+
+[Messieurs, je continue l'examen de la loi. Elle identifie, elle assimile à l'homme condamné pour délit commun, l'écrivain condamné pour certains délits de presse ; elle les confond tout doucement et tout béatement dans la même exclusion et dans la même indignité, de telle sorte que si Voltaire vivait\... ([Interruption prolongée.)
+]{.italic} [M. de Tinguy.]{.bold}
+Il aurait ri avec nous, Voltaire.
+[[Voix à gauche.]{.italic}]{.bold}
+Béranger ne serait pas électeur.
+[Autre voix.]{.bold}
+Ni Michel Chevalier non plus.
+[M. Victor Hugo.]{.bold}
+Je ne veux pas nommer des vivants, mais j'appelle votre attention sur ce nom, l'un des plus grands de la France et de toutes les nations ; si Voltaire vivait, le présent système, qui cache sous un masque d'austérité transparente son intolérance religieuse et son intolérance politique, ferait condamner certainement Voltaire, pour offense à la morale publique et religieuse.
+[A droite.]{.bold}[
+]{.italic} Mais oui !
+[
+Voix à droite.]{.bold}
+Il l'aurait bien mérité.
+[M. Victor Hugo.]{.bold}
+Oui, n'est-ce pas ? Eh bien, voici la conséquence de la loi acceptée par ce côté de l'Assemblée (La droite), vous auriez sur la liste d'indignité le repris de justice Voltaire. [(Agitation.)]{.italic} [
+]{.italic} [A droite.]{.bold}
+Pourquoi pas ?
+[M. Victor Hugo.]{.bold}
+Ce qui ferait grand plaisir à Loyola ! [(Long rire d'approbation à gauche.)]{.italic}]{.calibre4}
+
+[Messieurs, cette loi construit tout un système de formalités et de délais qui entraîne des déchéances ; elle est pleine de pièges et de trappes où se perdra le droit de trois millions d'hommes elle viole, ceci résume tout, elle viole ce qui est antérieur et supérieur à la constitution : la souveraineté de la nation ! [(Bravos à gauche.)]{.italic} Contrairement au texte formel de l'art. 25 de la constitution, elle attribue à une fraction du peuple l'exercice de la souveraineté qui n'appartient qu'à l'universalité du peuple ; elle fait gouverner féodalement trois millions d'exclus par six millions de privilégiés [(Nouvel assentiment à gauche) ;]{.italic} elle institue des ilotes, fait monstrueux ; Enfin, par une dernière hypocrisie qui est en même temps une suprême ironie, et qui complète admirablement le système des sincérités régnantes, lesquelles appellent les proscriptions romaines [amnistie,]{.italic} et la servitude de l'enseignement [liberté,]{.italic} cette loi continue de donner à ce suffrage restreint, à ce suffrage mutilé, à ce suffrage privilégié, à ce suffrage de domiciliés, le nom de suffrage universel ! Ainsi, ce que nous discutons en ce moment, ce que je discute à cette tribune, c'est la loi du suffrage universel ! Messieurs, certes, cette loi, je ne dirai pas, à Dieu ne plaise ! que c'est Tartufe qui Ta faite, mais j'affirme que c'est Escobar qui l'a baptisée. [(Acclamations et applaudissements répétés à gauche.)
+]{.italic} [A droite, ironiquement.]{.bold}
+Bis !
+[M. le Président.]{.bold}
+[Le Moniteur]{.italic} constatera aussi ces applaudissements.
+[M. Victor Hugo.]{.bold}
+Eh bien, avec toutes ces complications de finesses, avec tous ces enchevêtrements de pièges, avec tous ces entassements de ruses, avec tous ces échafaudages de combinaisons et d'expédients, savez-vous si jamais, par impossible\...
+[Au banc de la commission.]{.italic}
+Comment, par impossible ?
+[M. Victor Hugo.]{.bold}
+Si jamais, par impossible, cette loi est appliquée, quel en sera le résultat ?\... Néant ! oui, néant pour vous qui la faites !
+[A droite.]{.bold}
+Eh bien, alors ?
+[M. Victor Hugo.]{.bold}
+Ah ! si ce projet ne faisait pas courir à la paix publique d'immenses risques, je vous dirais : Eh, mon Dieu ! qu'on le vote ; son audace n'est égalée que par son impuissance ; il ne pourra rien et il ne fera rien. Les électeurs maintenus vengeront les électeurs supprimés ; la réaction aura recruté pour l'opposition ; comptez-y. Le souverain mutilé sera un souverain indigné.
+[[Voix à gauche.]{.italic}]{.bold}
+Très bien ! très bien !
+[M. Victor Hugo.]{.bold}
+Messieurs, je m'adresse aux hommes qui nous gouvernent, et je leur dis : Allez, faites, retranchez trois millions d'électeurs, retranchez-en quatre\...
+[M. Roger]{.bold} (du Nord).
+Retranchez-en cinq !
+[M. Victor Hugo.]{.bold}
+\...Retranchez huit millions sur neuf [(je vais plus vite que vous),]{.italic} le résultat sera pour vous le même, sinon plus décisif encore. Ce que vous ne retrancherez pas, ce sont vos fautes. [(A gauche.]{.italic} [C'est cela ! --- Très bien !)]{.italic} Ce que vous ne retrancherez pas, ce sont les contre sens de votre politique de compression ; ce que vous ne retrancherez j pas, c'est votre incapacité fatale, c'est votre ignorance du pays actuel, c'est l'antipathie qu'il vous inspire et l'antipathie ! que vous lui inspirez ! Ce que vous ne retrancherez pas, c'est le temps qui marche, c'est l'heure qui sonne, c'est la terre qui tourne, c'est le mouvement ascendant des idées, c'est la progression décroissante des préjugés, c'est l'écartement de plus en plus profond entre le siècle et vous, entre les jeunes générations et vous, entre l'esprit de liberté et vous, entre l'esprit de philosophie et vous ! [(Approbation à gauche.)]{.italic} Ce que vous ne retrancherez pas, c'est ce fait immense que pendant que vous allez d'un côté, la nation va de l'autre ; que ce qui est pour vous l'orient est pour elle le couchant, et que vous tournez le dos à l'avenir, tandis que ce grand peuple de France, la face tout inondée de lumière par l'aube de l'humanité nouvelle qui se lève, tourne le dos au passé ! [(Applaudissements à gauche. --- Rires à droite.)]{.italic}]{.calibre4}
+
+[Tenez, faites votre sacrifice ; que cela vous plaise ou non, le passé est le passé. Essayez de raccommoder ses vieux essieux et ses vieilles roues, attelez-y dix-sept hommes d'État, si vous voulez\... [(Rires et approbation à gauche)]{.italic} attelez-y dix-sept hommes d'État de renfort si vous voulez, traînez-le au grand jour du temps présent ; eh bien, quoi ! ce sera toujours le passé ! On verra mieux sa décrépitude, voilà tout. [(Nouveaux rires d'approbation à gauche) ;]{.italic}]{.calibre4}
+
+[Je me résume et je finis.
+[A droite.]{.bold}
+Ah ! ah !
+[M. Victor Hugo.]{.bold}
+Messieurs, cette loi est invalide, cette loi est nulle, cette loi est morte même avant d'être née, Et savez-vous ce qui la tue ? C'est qu'elle ment ; c'est Qu'elle est hypocrite dans le pays de la franchise, c'est qu'elle est déloyale dans le pays de l'honnêteté ; c'est qu'elle n'est pas vraie, c'est qu'elle n'est pas juste ; c'est qu'elle cherche en vain à créer une fausse justice et une fausse vérité sociales. Il n'y a pas deux justices et deux vérités ; il n'y a qu'une justice, celle qui sort de la conscience ; et il n'y a qu'une vérité, celle qui vient de Dieu.
+[À gauche.]{.bold}
+Très bien !
+[M. Victor Hugo.]{.bold}
+Savez-vous ce qui tue cette loi ? C'est qu'au moment où elle vient furtivement dérober le bulletin, voler la souveraineté dans la poche du faible et du pauvre\... [(Interruption à droite. --- Applaudissements à gauche.)
+]{.italic} [Voix diverses à droite.]{.bold}
+Vous répétez ce qu'a dit M. Lagrange ! --- Vous le volez !
+[M. Victor Hugo.]{.bold}
+\... Elle rencontre le regard sévère, le regard terrible de la probité nationale ! lumière foudroyante sous laquelle cette Oeuvre de ténèbres s'évanouit.]{.calibre4}
+
+[Tenez, prenez-en votre parti : au fond de la conscience de tout citoyen, du plus obscur comme du plus grand, au plus profond de l'âme\..., oui, j'accepte vos propres expressions\..., du dernier mendiant, du dernier vagabond, il y a un sentiment sublime, sacré, incorruptible, indestructible, éternel, le droit ! ce sentiment qui est l'élément même de la conscience humaine, ce sentiment que l'Écriture appelle la pierre de granit de la justice, le droit ! voilà le rocher sur lequel viennent échouer et se briser les iniquités, les hypocrisies, les mauvaises lois, les mauvais desseins, les mauvais gouvernements ; voilà l'obstacle cache, invisible, obscurément perdu au plus profond des esprits, mais incessamment présent et debout, auquel vous vous heurterez toujours, quoi que vous fassiez, et que vous n'userez jamais.]{.calibre4}
+
+[Je vous le dis, vous perdez vos peines ; vous ne le déracinerez pas, vous ne l'ébranlerez pas ; vous arracheriez plutôt l'écueil du fond de la mer que le droit du coeur du peuple !]{.calibre4}
+
+[Je vote contre le projet de loi. [(Vives marques d'approbation et applaudissements à gauche.--- L'orateur reçoit, en descendant de la tribune, les félicitations d'un grand nombre de représentants.)
+]{.italic} \[\...\]]{.calibre4}

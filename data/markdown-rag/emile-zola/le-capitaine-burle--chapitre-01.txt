@@ -1,0 +1,120 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE CAPITAINE BURLE"
+slug_oeuvre: "le-capitaine-burle"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LE CAPITAINE BURLE
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+Il était neuf heures. La petite ville de Vauchamp venait de se mettre au lit, muette et noire, sous une pluie glacée de novembre. Dans la rue des Récollets, une des rues les plus étroites, les plus désertes du quartier Saint-Jean, une fenêtre restait éclairée, au troisième étage d'une vieille maison, dont les gouttières rompues lâchaient des torrents d'eau. C'était madame Burle qui veillait devant un maigre feu de souches de vigne, pendant que son petit-fils Charles faisait ses devoirs, dans la clarté pâle de la lampe.
+
+L'appartement, loué cent soixante francs par an, se composait de quatre pièces énormes, qu'on ne parvenait pas à chauffer l'hiver. Madame Burle couchait dans la plus vaste ; son fils, le capitaine trésorier Burle, avait pris la chambre donnant sur la rue, près de la salle à manger ; et le petit Charles, avec son lit de fer, était perdu au fond d'un immense salon aux tentures moisies, qui ne servait pas. Les quelques meubles du capitaine et de sa mère, un mobilier Empire d'acajou massif, dont les continuels changements de garnison avaient bossué et arraché les cuivres, disparaissaient sous les hauts plafonds, d'où tombait comme une fine poussière de ténèbres. Le carreau, peint en rouge, froid et dur, glaçait les pieds ; et il n'y avait, devant les sièges, que des petits tapis usés, d'une pauvreté grelottante dans ce désert, où tous les vents soufflaient, par les portes et les fenêtres disjointes. Près de la cheminée, madame Burle était accoudée, au fond de son fauteuil de velours jaune, regardant fumer une dernière racine, de ces regards fixes et vides des vieilles gens qui revivent en eux-mêmes. Elle restait ainsi les journées entières, avec sa haute taille, sa longue figure grave dont les lèvres minces ne souriaient jamais. Veuve d'un colonel, mort à la veille de passer général, mère d'un capitaine, qu'elle avait accompagné jusque dans ses campagnes, elle gardait une raideur militaire, elle s'était fait des idées de devoir, d'honneur, de patriotisme, qui la tenaient rigide, comme séchée sous la rudesse de la discipline. Rarement une plainte lui échappait. Quand son fils était devenu veuf, après cinq ans de mariage, elle avait naturellement accepté l'éducation de Charles, avec la sévérité d'un sergent chargé d'instruire les recrues. Elle surveillait l'enfant, sans lui tolérer un caprice ni une irrégularité, le forçant à veiller jusqu'à minuit, et veillant elle-même, si les devoirs n'étaient pas faits. Charles, de tempérament délicat, grandissait très pâle sous cette règle implacable, la face éclairée par de beaux yeux, trop grands et trop clairs.
+
+Dans ses longs silences, madame Burle ne remuait jamais qu'une même idée : son fils avait trahi son espoir. Cela suffisait à l'occuper, lui faisait revivre sa vie, depuis la naissance du petit, qu'elle voyait atteindre les plus hauts grades, au milieu d'un fracas de gloire, jusqu'à cette existence étroite de garnison, ces journées mornes et toujours semblables, cette chute dans ce poste de capitaine-trésorier, dont il ne sortirait pas, et où il s'appesantissait. Pourtant, les débuts l'avaient gonflée d'orgueil ; un instant, elle put croire son rêve réalisé. Burle quittait à peine l'école de Saint-Cyr, lorsqu'il s'était distingué à la bataille de Solférino, en prenant, avec une poignée d'hommes, toute une batterie ennemie ; on le décora, les journaux parlèrent de son héroïsme, il fut connu pour un des soldats les plus braves de l'armée. Et, lentement, le héros engraissa, se noya dans sa chair, épais, heureux, détendu et lâche. En 1870, il n'était que capitaine ; fait prisonnier dans la première rencontre, il revint d'Allemagne furieux, jurant bien qu'on ne le reprendrait plus à se battre, trouvant ça trop bête ; et, comme il ne pouvait quitter l'armée, incapable d'un métier, il réussit à se faire nommer capitaine-trésorier, une niche, disait-il, où du moins on le laisserait crever tranquille. Ce jour-là, madame Burle avait senti un grand déchirement en elle. C'était fini, et elle n'avait plus quitté son attitude raidie, les dents serrées.
+
+Le vent s'engouffra dans la rue des Récollets, un flot de pluie vint battre rageusement les vitres. La vieille femme avait levé les yeux des souches de vigne qui s'éteignaient, pour s'assurer que Charles ne s'endormait pas sur sa version latine. Cet enfant de douze ans redevenait une espérance suprême, où se rattachait son besoin entêté de gloire. D'abord, elle l'avait détesté, de toute la haine qu'elle portait à sa mère, une petite ouvrière en dentelles, jolie, délicate, que le capitaine avait eu la bêtise d'épouser, ne pouvant en faire sa maîtresse, fou de désir. Puis, la mère morte, le père vautré dans son vice, madame Burle s'était remise à rêver devant le pauvre être souffreteux, qu'elle élevait à grand'peine. Elle le voulait fort, il serait le héros que Burle avait refusé d'être ; et, dans sa froideur sévère, elle le regardait pousser avec anxiété, lui tâtant les membres, lui enfonçant du courage dans le crâne. Peu à peu, aveuglée par sa passion, elle avait cru qu'elle tenait enfin l'homme de sa famille. L'enfant, de nature tendre et rêveuse, avait une horreur physique du métier des armes ; mais, comme sa grand'mère lui faisait une peur horrible, et qu'il était très doux, très obéissant, il répétait ce qu'elle disait, l'air résigné à être soldat un jour.
+
+Cependant, madame Burle remarqua que la version ne marchait guère. Charles, assourdi par le bruit de la tempête, dormait, la plume à la main, les yeux ouverts sur le papier. Alors, elle tapa de ses doigts secs le bord de la table ; et il fit un saut, il ouvrit son dictionnaire qu'il feuilleta fiévreusement. Toujours muette, la vieille femme rapprocha les souches, essaya de rallumer le feu, sans y parvenir.
+
+Au temps où elle croyait à son fils, elle s'était dépouillée, il lui avait mangé ses petites rentes, dans des passions qu'elle n'osait approfondir. À cette heure encore, il vidait la maison, tout coulait à la rue ; c'était la misère, les pièces nues, la cuisine froide. Jamais elle ne lui parlait de ces choses ; car, dans son respect de la discipline, il restait le maître. Seulement, elle était parfois prise d'un frisson à la pensée que Burle pourrait bien un jour commettre quelque sottise, qui empêcherait Charles d'entrer dans l'armée.
+
+Elle se levait pour aller chercher à la cuisine un sarment, lorsqu'une terrible bourrasque, qui s'abattit sur la maison, secoua les portes, arracha une persienne, rabattit l'eau des gouttières crevées, dont le torrent inonda les fenêtres. Et, dans ce vacarme, un coup de sonnette lui causa une surprise. Qui pouvait venir à une telle heure et par un temps pareil ? Burle ne rentrait plus que passé minuit, quand il rentrait. Elle ouvrit. Un officier parut, trempé, éclatant en jurons.
+
+--- Sacré nom de Dieu !... Ah ! Quel chien de temps !
+
+C'était le major Laguitte, un vieux brave qui avait servi sous le colonel Burle, au beau temps de madame Burle. Parti enfant de troupe, il était arrivé par sa bravoure, beaucoup plus que par son intelligence, au grade de chef de bataillon, lorsqu'une infirmité, un raccourcissement des muscles de la cuisse, à la suite d'une blessure, l'avait forcé d'accepter le poste de major. Il boitait même légèrement ; mais il n'aurait pas fallu le lui dire en face, car il refusait d'en convenir.
+
+--- C'est vous, major ? dit madame Burle, de plus en plus étonnée.
+
+--- Oui, nom de Dieu ! Grogna Laguitte, et il faut bougrement vous aimer pour courir les rues par cette sacrée pluie... C'est à ne pas mettre un curé dehors.
+
+Il se secouait, des mares coulaient de ses bottes sur le plancher. Puis, il regarda autour de lui.
+
+--- J'ai absolument besoin de voir Burle... Est-ce qu'il est déjà couché, ce fainéant ?
+
+--- Non, il n'est pas rentré, dit la vieille femme de sa voix dure.
+
+Le major parut exaspéré. Il s'emporta, criant :
+
+--- Comment ! Pas rentré ! Mais alors ils se sont fichus de moi, à son café, chez la Mélanie, vous savez bien !... J'arrive, et il y a une bonne qui me rit au nez, en me disant que le capitaine est allé se coucher. Ah ! Nom de Dieu ! Je sentais ça, j'avais envie de lui tirer les oreilles !
+
+Il se calma, il piétina dans la pièce, indécis, l'air bouleversé. Madame Burle le regardait fixement.
+
+--- C'est au capitaine lui-même que vous avez besoin de parler ? demanda-t-elle enfin.
+
+--- Oui, répondit-il.
+
+--- Et je ne puis lui répéter ce que vous avez à lui dire ?
+
+--- Non.
+
+Elle n'insista pas. Mais elle restait debout, elle regardait toujours le major, qui ne semblait pouvoir se décider à partir. À la fin, la colère le reprit.
+
+--- Tant pis ! Sacré nom !... Puisque je suis venu, il faut que vous sachiez... Ça vaut mieux peut-être.
+
+Et il s'assit devant la cheminée, allongeant ses bottes boueuses, comme si un feu clair avait flambé sur les chenets. Madame Burle allait reprendre sa place dans son fauteuil, lorsqu'elle s'aperçut que Charles, vaincu par la fatigue, venait de laisser tomber sa tête entre les pages ouvertes de son dictionnaire. L'entrée du major l'avait d'abord secoué ; puis, voyant qu'on ne s'occupait plus de lui, il n'avait pu résister au sommeil. Sa grand'mère se dirigeait vers la table, pour donner une tape sur ses mains frêles qui blanchissaient sous la lampe, lorsque Laguitte l'arrêta.
+
+--- Non, non, laissez, ce pauvre petit homme dormir... Ce n'est pas si drôle, il n'a pas besoin d'entendre.
+
+La vieille femme revint s'asseoir. Un silence régna. Tous deux se contemplaient.
+
+--- Eh bien ! ça y est ! dit enfin le major, en appuyant sa phrase d'un furieux mouvement du menton. Ce salaud de Burle a fait le coup !
+
+Madame Burle n'eut pas un tressaillement. Elle blêmissait, plus raide dans son fauteuil. L'autre continua :
+
+--- Je me méfiais bien... Je m'étais promis de vous en parler un jour. Burle dépensait trop, puis il avait un air idiot qui ne m'allait guère. Mais jamais je n'aurais cru... Ah ! Nom de Dieu ! Faut-il être bête pour faire des saletés pareilles !
+
+Et il s'allongeait des coups de poing féroces sur le genou, étranglé d'indignation. La vieille femme dut lui poser une question nette.
+
+--- Il a volé ?
+
+--- Vous ne pouvez vous imaginer la chose... N'est-ce pas ? Je ne vérifiais jamais, moi ! J'approuvais ses comptes, je donnais des signatures. Vous savez comment ça se passe, dans le conseil. Au moment de l'inspection seulement, à cause du colonel qui est un maniaque, je lui disais : « Mon vieux, veille à ta caisse, c'est moi qui en réponds. » Et j'étais bien tranquille... Pourtant, depuis un mois, comme il avait une si drôle de tête et qu'on me rapportait des choses pas propres, je mettais davantage mon nez dans ses registres, j'épluchais ses écritures. Tout m'avait l'air en ordre, c'était très bien tenu...
+
+Il s'arrêta, soulevé par une telle bouffée de fureur, qu'il dut se soulager tout de suite.
+
+--- Cré nom de Dieu ! Cré nom de Dieu !... Ce n'est pas sa coquinerie qui me lâche, c'est la façon dégoûtante dont il s'est conduit à mon égard. Il s'est foutu de moi, entendez-vous, madame Burle !... Cré nom de Dieu ! Est-ce qu'il me prend pour une vieille bête ?
+
+--- Alors, il a volé ? demanda de nouveau la mère.
+
+--- Ce soir, reprit le major un peu calmé, je sortais de table, lorsque Gagneux est venu... Vous connaissez Gagneux, le boucher qui est au coin de la place aux Herbes. Encore un sale coquin, celui-là, qui a eu l'adjudication de la viande et qui fait manger à nos hommes toutes les vaches crevées du département !... Bon ! Je le reçois comme un chien, quand il me découvre le pot aux roses. Ah ! C'est du propre ! Il paraît que Burle ne lui donnait jamais que des acomptes ; un mic-mac épouvantable, un embrouillamini de chiffres où le diable ne pourrait se reconnaître ; bref, Burle lui redoit deux mille francs, et le boucher parle d'aller tout dire au colonel, si on ne le paye pas... Le pis est que mon cochon de Burle, pour me flanquer dedans, me donnait chaque semaine un reçu faux, qu'il signait carrément du nom de Gagneux... À moi, à moi son vieil ami, une pareille farce ! Nom de Dieu de nom de Dieu !
+
+Le major se leva, lança les poings au plafond et se laissa retomber sur sa chaise. Madame Burle répéta encore :
+
+--- Il a volé, ça devait être.
+
+Puis, sans un mot de jugement et de condamnation sur son fils, elle ajouta simplement :
+
+--- Deux mille francs, mais nous ne les avons pas... Il y a peut-être trente francs ici.
+
+--- Je m'en doutais, dit Laguitte. Et vous savez où tout ça passe ? Chez la Mélanie, une sacrée roulure qui a rendu Burle complètement idiot... Oh ! Les femmes ! Je l'avais bien dit, qu'elles lui casseraient les reins ! Je ne sais pas comment il est fait, cet animal-là ! Il n'a que cinq ans de moins que moi, et il est encore enragé. Quel fichu tempérament !
+
+Il y eut un nouveau silence. Au dehors, la pluie redoublait, et l'on entendait, dans la petite ville endormie, le fracas des tuyaux de cheminée et des ardoises que l'ouragan écrasait sur le pavé des rues.
+
+--- Voyons, reprit le major en se mettant debout, ça n'arrange pas les affaires, de rester là... Vous êtes prévenue, je file.
+
+--- Quel parti prendre ? Où s'adresser ? murmurait la vieille femme.
+
+--- Ne vous désespérez pas, il faut voir... Si j'avais seulement ces deux mille francs ; mais vous savez que je ne suis pas riche.
+
+Il se tut, embarrassé. Lui, vieux garçon, sans femme, sans enfants, buvait scrupuleusement sa paye et perdait à l'écarté ce que le cognac et l'absinthe épargnaient. Avec cela, très honnête, par règle.
+
+--- N'importe ! Continua-t-il, quand il fut sur le seuil, je vais toujours aller relancer mon gredin chez sa donzelle. Je remuerai ciel et terre... Burle, le fils de Burle, condamné pour vol ! Allons donc ! Est-ce que c'est possible ! Ce serait la fin du monde. J'aimerais mieux faire sauter la ville... Et, tonnerre de Dieu ! Ne vous faites pas de peine. Tout ça, c'est encore plus vexant pour moi !
+
+Il lui donna une rude poignée de main, il disparut dans l'ombre de l'escalier, pendant qu'elle l'éclairait, en levant la lampe. Quand elle eut reposé cette lampe sur la table, dans le silence et la nudité de la vaste pièce, elle resta un instant immobile, devant Charles qui dormait toujours, le visage entre les feuillets du dictionnaire. C'était, avec de longs cheveux blonds, une tête pâle de fille. Et elle rêvait, et sur son visage durci et fermé un attendrissement parut ; mais ce ne fut qu'une rougeur passagère, le masque reprit tout de suite son entêtement de froide volonté. Elle appliqua une tape sèche sur la main du petit, en disant :
+
+--- Charles, ta version !
+
+L'enfant se réveilla, effaré, grelottant, et se remit à feuilleter rapidement le dictionnaire. À ce moment, le major Laguitte, qui refermait à la volée la porte de la rue, recevait sur la tête un tel paquet d'eau, tombé des gouttières, qu'on l'entendit jurer dans le vacarme de la tempête. Puis, il n'y eut plus, au milieu du roulement de l'averse, que le léger grincement de la plume de Charles sur le papier. Madame Burle avait repris sa place devant la cheminée, raidie, les yeux sur le feu mort, dans son idée fixe et dans son altitude de tous les soirs.

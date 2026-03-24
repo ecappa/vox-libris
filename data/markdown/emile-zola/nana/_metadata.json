@@ -1,0 +1,164 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NANA",
+  "slug": "nana",
+  "nombre_chapitres": 14,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 198,
+      "spine_end_exclusive": 199,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_197.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 199,
+      "spine_end_exclusive": 200,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_198.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 200,
+      "spine_end_exclusive": 201,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_199.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 201,
+      "spine_end_exclusive": 202,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_200.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 202,
+      "spine_end_exclusive": 203,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_201.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 203,
+      "spine_end_exclusive": 204,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_202.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 204,
+      "spine_end_exclusive": 205,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_203.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 205,
+      "spine_end_exclusive": 206,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_204.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 206,
+      "spine_end_exclusive": 207,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_205.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 207,
+      "spine_end_exclusive": 208,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_206.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 208,
+      "spine_end_exclusive": 209,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_207.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 209,
+      "spine_end_exclusive": 210,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_208.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 210,
+      "spine_end_exclusive": 211,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_209.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 211,
+      "spine_end_exclusive": 212,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_210.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 212,
+      "spine_end_exclusive": 214,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_211.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_212.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nana/Zola1_image025.jpg"
+  ]
+}

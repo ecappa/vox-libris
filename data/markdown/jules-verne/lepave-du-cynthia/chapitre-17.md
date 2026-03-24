@@ -1,0 +1,161 @@
+]{.calibre20}
+
+
+ROMAN
+
+L\'ÉPAVE DU CYNTHIA
+
+
+]{.calibre20}
+
+## [[Chapitre 17 -- *Enfin !*]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943074 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_182 .calibre21}
+
+La porte de la cabane était béante. Les quatre visiteurs y pénétrèrent et constatèrent d\'un coup d\'oeil que la chambre unique dont elle se composait avait été récemment habitée. Dans le foyer, formé de trois grosses pierres, les tisons éteints portaient cette cendre légère comme une ouate, qui ne tarde guère à être enlevée au moindre souffle. Le lit, formé d\'un cadre de bois sur lequel était tendu un hamac de matelot, portait encore l\'empreinte d\'un corps humain.
+
+Ce hamac, qu\'Erik examina à l\'instant, était marqué du timbre de la *Véga*.
+
+Sur une espèce de table formée d\'une omoplate fossile portée sur quatre fémurs, on voyait des miettes de biscuit de mer, un gobelet d\'étain, une cuiller de bois de fabrication suédoise.
+
+On se trouvait donc, à n\'en pas douter, dans la demeure de Patrick O\'Donoghan, et, selon toute apparence, il en était sorti depuis fort peu de temps.
+
+Était-ce pour quitter l\'île ? Était-ce au contraire pour la parcourir ? C\'est ce qu\'aucun indice ne révélait, et ce qu\'une exploration du pays pouvait seule faire connaître.
+
+Autour de l\'installation, des tranchées et des terres remuées portaient témoignage de travaux assez actifs. Sur une sorte de plateau, qui formait le sommet de la colline, une vingtaine de défenses d\'ivoire fossile, rangées en ligne, indiquait la nature de ces travaux. C\'étaient évidemment des fouilles destinées à exhumer ces restes des âges disparus. Les voyageurs s\'expliquèrent que les fouilles eussent été nécessaires, en constatant que les nombreux squelettes d\'éléphants ou de mammouths gisant à fleur de terre étaient tous privés de leur ivoire. Sans doute, les indigènes de la côte sibérienne n\'avaient pas attendu la visite de Patrick O\'Donoghan à l\'île Liakhov pour venir eux-mêmes en exploiter les richesses, et l\'Irlandais n\'avait à peu près rien trouvé de précieux à la surface du sol. Il s\'était donc vu réduit à le creuser pour exhumer l\'ivoire qui pouvait y être enfoui et dont la qualité semblait d\'ailleurs très inférieure.
+
+Or, le jeune médecin de la *Véga*, comme le propriétaire de l\'auberge du *Red-Anchor*, à New York, avait déclaré que la paresse était un des traits distinctifs de Patrick O\'Donoghan. Il semblait donc peu probable qu\'il se fût longtemps résigné à un travail ingrat et peu rémunérateur. Et il était parfaitement possible qu\'à la première occasion, il eût quitté l\'île Liakhov. Le seul espoir qu\'on eût encore de l\'y trouver, reposait sur le caractère très récent des indices relevés dans la cabane.
+
+Un sentier redescendait vers la côte par le versant opposé à celui que les explorateurs avaient gravi. Ils le suivirent et arrivèrent bientôt à un bas-fond, où la fonte des neiges avait formé une sorte de petit lac, séparé de la mer par une barrière de rochers. Le sentier suivait les bords de cette eau douce et, contournant la falaise, aboutissait à un véritable port naturel.
+
+Un traîneau était abandonné sur la grève, où l\'on voyait aussi la trace d\'un feu récent. Erik inspecta le rivage avec soin, mais sans trouver aucune marque laissée par une embarcation.
+
+Il revenait vers ses compagnons, quand il aperçut, au pied d\'un arbuste et tout près de l\'emplacement du feu, un objet de couleur rouge qu\'il ramassa aussitôt.
+
+Cet objet était une de ces boîtes de fer-blanc, extérieurement peintes en carmin, qui renferment de la conserve de boeuf, communément appelée « endaubage », et que tous les navires du monde emportent maintenant dans leur soute aux vivres. La trouvaille n\'avait rien d\'extraordinaire au premier abord, puisque Patrick O\'Donoghan avait été muni par la *Véga* de provisions de bouche. Mais ce qui parut significatif à Erik, c\'est que la boîte vide portait sur une étiquette imprimée le nom de « Martinez Domingo, Valparaiso ».
+
+« Tudor Brown est passé ici ! s\'écria-t-il aussitôt. On nous l\'a dit à bord de la *Véga*, son navire se trouvait à Valparaiso, quand il lui a télégraphié d\'aller l\'attendre à Vancouver !... D\'ailleurs, ce n\'est pas la *Véga* qui aurait pu laisser ici une boîte venue du Chili, et cette boîte est toute fraîche ! Il n\'y a pas trois jours, peut-être pas vingt-quatre heures, qu\'elle a été vidée ! »
+
+Le docteur Schwaryencrona et M. Bredejord hochaient la tête, comme s\'ils hésitaient à accepter une conclusion aussi formelle, quand Erik, qui tournait et retournait la boîte dans tous les sens, leur montra un détail de nature à lever tous les doutes : le mot *Albatros*, écrit au crayon sur le couvercle même, sans doute par le fournisseur qui avait livré l\'endaubage.
+
+« Tudor Brown est passé ici ! répéta Erik. Et pourquoi serait-il venu, sinon pour emmener Patrick O\'Donoghan ? Allons, l\'affaire est claire ! Il a débarqué dans cette crique ! Ses hommes l\'ont attendu en déjeunant autour du feu ! Il est monté chez l\'Irlandais, et, de gré ou de force, l\'a embarqué ! J\'en suis aussi certain que si je le voyais ! »
+
+En dépit de cette certitude, Erik voulut explorer les environs pour s\'assurer que Patrick O\'Donoghan ne s\'y trouvait pas. Mais une promenade d\'une heure suffit à le convaincre que le reste de l\'île était absolument inhabité. Il n\'y avait pas trace de sentier, pas le moindre vestige d\'être vivant. De tous côtés, des dunes et des vallées s\'étendant à perte de vue, sans aucune végétation, sans un oiseau, sans un insecte pour en animer la solitude. Et partout des ossements gigantesques, gisant sur le sol, comme si une armée de mammouths, de rhinocéros et d\'aurochs fût venue jadis, devant quelque effrayant cataclysme, se réfugier, pour y mourir, sur cette île perdue. Au dernier plan, derrière ces dunes et ces vallées, un rideau de hauteurs couvertes de neiges et de glaciers.
+
+« Partons ! dit le docteur Schwaryencrona. Il n\'y a rien à attendre d\'une exploration plus complète, et ce que nous voyons suffit à nous assurer qu\'il n\'aura guère fallu prier O\'Donoghan pour le décider à partir ! »
+
+Avant quatre heures, la baleinière avait regagné l\'*Alaska*, qui se remit en route.
+
+Erik ne se dissimulait pas que ses espérances venaient de recevoir un coup décisif. Tudor Brown ayant réussi à le gagner de vitesse, à visiter le premier l\'île Liakhov, et sans doute à emmener Patrick O\'Donoghan, il était désormais bien peu probable qu\'on arrivât jamais à le retrouver ! Un homme capable de faire tout ce qu\'il avait osé contre l\'*Alaska*, capable de déployer une énergie aussi farouche pour venir enlever l\'Irlandais en pareil lieu, ne serait assurément pas en peine d\'empêcher désormais qu\'on pût l\'atteindre. Le monde est grand, et toute l\'étendue des mers était ouverte à l\'*Albatros* ! Comment deviner vers quel point de la rose des vents il emportait O\'Donoghan et son secret ?
+
+Voilà ce que se disait le commandant de l\'*Alaska* en se promenant sur la dunette, après avoir donné l\'ordre de mettre le cap à l\'ouest. Et à ces pensées douloureuses se mêlaient quelques remords d\'avoir souffert que ses amis partageassent avec lui les dangers et les fatigues de cette inutile expédition ! Deux fois inutile, puisque Tudor Brown avait retrouvé Nordenskjöld avant l\'*Alaska*, comme il avait précédé l\'expédition suédoise à l\'île Liakhov ! On allait donc rentrer à Stockholm -- si l\'on y rentrait -- sans avoir atteint aucun des objets du voyage. C\'était en vérité trop de malchance !... Ah ! Du moins, que le retour servît à quelque chose et fût la contre-épreuve du voyage de la *Véga*. Que le passage nord-est restât consacré par une seconde expérience !... À tout prix il fallait atteindre le cap Tchéliouskine et le doubler de l\'est à l\'ouest ! À tout prix, il fallait revenir en Suède par la mer de Kara !
+
+C\'est donc vers ce redoutable cap Tchéliouskine, naguère encore réputé infranchissable, que l\'*Alaska* voguait maintenant à toute vapeur. L\'itinéraire qu\'il suivait n\'était pas exactement celui de la *Véga*, partie de l\'embouchure de la Lena, où elle avait relâché pour se rendre à l\'île Liakhov. Erik n\'avait aucune raison de redescendre à la côte sibérienne. Laissant à tribord les îles Stolbovoï et Semenovski, signalées le 4 août, il cingla droit à l\'ouest en suivant à peu près le 76 parallèle, et fit si bonne route qu\'en huit jours, il franchit trente-cinq degrés de longitude, du 140 au 150 à l\'est de Greenwich. À la vérité, ce ne fut pas sans brûler beaucoup de houille, car l\'*Alaska* avait presque constamment vent debout. Mais Erik pensait avec raison qu\'il fallait tout subordonner à la nécessité de sortir au plus tôt de ces dangereux parages. Une fois arrivé aux bouches de l\'Ienissei, on s\'arrangerait toujours pour faire du combustible.
+
+Le 14 août à midi, les observations solaires ne furent pas possibles, à cause d\'une brume épaisse qui voilait le ciel et l\'horizon. Mais, à l\'estime, on devait approcher du grand promontoire asiatique. Aussi Erik prescrivit-il la plus extrême vigilance, en même temps qu\'il faisait ralentir la marche du navire. Vers le soir, il donna même l\'ordre de stopper.
+
+Ces précautions n\'étaient pas inutiles. Le lendemain, au jour, en jetant la sonde, on ne trouva que trente brasses, et, une heure plus tard, la terre fut signalée. L\'*Alaska* louvoya jusqu\'à ce qu\'il fût en vue d\'une baie, dans laquelle il jeta l\'ancre.
+
+On résolut d\'attendre que les brumes se fussent dissipées pour aller à terre. Mais, les journées du 15 et du 16 s\'étant passées sans amener de résultat, Erik se décida à accoster, en compagnie de M. Bredejord, de M. Malarius et du docteur.
+
+Une reconnaissance sommaire leur montra alors que la baie où l\'*Alaska* était mouillé se trouvait placée à l\'extrême nord et entre les deux points du cap Tchéliouskine. Des deux côtés, les terres étaient assez basses vers la mer ; mais elles s\'élevaient graduellement en pente douce vers le sud, jusqu\'à des montagnes que le brouillard laissait par moments à découvert, et qui paraissaient toutes de trois à quatre cents mètres. Nulle part on n\'apercevait de neiges ni de glaces, si ce n\'est au bord même de la mer, où il y en avait une bande comme partout dans les régions arctiques. Le sol argileux était couvert d\'une abondante végétation de mousses, de gazons et de lichens. La côte s\'animait par la présence d\'un assez grand nombre d\'oies et de canards sauvages et d\'une douzaine de morses. Un ours blanc montrait sa fourrure sur une pointe de rocher. Au total, n\'eût été la brume qui couvrait tout de son manteau gris, l\'aspect général de ce fameux cap Tchéliouskine ou Severo n\'avait rien de particulièrement rébarbatif, rien surtout qui justifiât le triste renom qu\'il a gardé pendant des siècles.
+
+En avançant sur la pointe extrême à l\'ouest de la baie, les voyageurs aperçurent une sorte de monument qui en couronnait la hauteur, et s\'empressèrent naturellement de le visiter. Ils virent en approchant que c\'était un « cairn » ou amas de pierres, supportant une colonne de bois formée d\'une poutre.
+
+Cette colonne portait deux inscriptions. La première disait :
+
+*Le 19 août 1878, la* Véga*, partie de l\'Atlantique, a doublé le cap Tchéliouskine, en route vers le détroit de Behring*.
+
+La seconde :
+
+*Le 12 août 1879, l\'*Albatros*, venant du détroit de Behring, a doublé le cap Tchéliouskine, en route pour l\'Atlantique*.
+
+Ainsi là encore, Tudor Brown avait précédé l\'*Alaska* ! On était au 16 août !... Il y avait seulement quatre jours qu\'il avait tracé cette inscription !
+
+Elle prenait aux yeux d\'Erik un sens ironique et cruel, comme si elle lui avait dit : « Jusqu\'au bout tu seras déçu ! Jusqu\'au bout tu seras inutile !... Nordenskjöld aura fait l\'expérience, Tudor Brown la contre-épreuve ! Quant à toi, tu rentreras humilié et confus, sans avoir rien démontré, rien trouvé, ni appris ! »
+
+Il allait partir, sans ajouter un seul mot aux inscriptions de la colonne. Mais le docteur Schwaryencrona ne voulut pas entendre de cette oreille. Tirant un couteau de sa poche, il écrivit sur le fût de bois :
+
+*Le 16 août 1879, l\'*Alaska*, parti de Stockholm, venu par l\'Atlantique, la mer de Baffin, les détroits américains arctiques, la mer de Sibérie, a doublé le cap Tchéliouskine, en route pour achever le premier périple circumpolaire*.
+
+Étrange puissance des mots ! Cette simple phrase, en rappelant à Erik quel tour de force géographique il était en train d\'accomplir, presque sans y songer, suffit à lui rendre sa bonne humeur. C\'était bien vrai, après tout, que l\'*Alaska* allait avoir achevé le premier périple circumpolaire !... Avant lui, d\'autres voyageurs avaient franchi les détroits arctiques américains et reconnu le passage nord-ouest ! Avant lui, Nordenskjöld et Tudor Brown avaient doublé le cap Tchéliouskine et franchi le passage nord-est ! Mais ce que personne n\'avait fait encore, c\'était d\'aller d\'un passage à l\'autre, c\'était de décrire autour du pôle, par les mers arctiques, le cercle complet de 360 degrés. Or, il ne s\'en fallait plus guère que de 80, pour que l\'*Alaska* l\'eût achevé ! À la rigueur, ce pouvait être l\'affaire de dix jours de navigation.
+
+Cette perspective nouvelle rendit tant d\'ardeur à chacun, qu\'on ne songea plus qu\'au départ. Erik voulut pourtant attendre encore au lendemain pour voir si les brumes se dissiperaient. Mais le brouillard paraissait être la maladie chronique du cap Tchéliouskine, et, le jour s\'étant levé une fois de plus sans ramener le soleil, ordre fut donné de lever l\'ancre.
+
+Laissant au sud le golfe de Taïmyr, qui donne son nom à la grande péninsule sibérienne dont le cap Tchéliouskine n\'est que la pointe extrême, l\'*Alaska* se dirigea vers l\'ouest et navigua sans relâche pendant toute la journée et la nuit du 17. Le 18 au matin, on sortit enfin du brouillard pour entrer dans une atmosphère pure et ensoleillée. À midi, on put faire le point. Cette opération s\'achevait, quand la vigie signala une voile au sud-ouest.
+
+Une voile dans ces mers peu fréquentées était un phénomène trop extraordinaire pour ne pas obtenir une attention toute spéciale. Erik grimpa sans tarder au « nid de corbeau », et, lorgnette en main, examina longuement le navire qui venait de lui être signalé. Il lui parut bas sur l\'eau, gréé en schooner et muni d\'une cheminée, quoi qu\'il ne marchait pas présentement à la vapeur.
+
+En redescendant sur le pont, le jeune commandant était très pâle.
+
+« Cela m\'a tout l\'air d\'être l\'*Albatros* », dit-il au docteur.
+
+Puis, il donna l\'ordre de pousser les feux de la machine.
+
+En moins d\'un quart d\'heure, il fut visible qu\'on gagnait sur le navire, dont la coque se dessina à l\'oeil nu. Outre qu\'il allait à la voile avec une brise des plus faibles, sa direction formait avec celle de l\'*Alaska* un angle très aigu.
+
+Mais, soudain, un changement se produisit dans son allure. Une fumée épaisse jaillit de sa cheminée et forma derrière lui un long panache noir. Il allait maintenant à la vapeur et dans la même direction que l\'*Alaska*.
+
+« Plus de doute ! C\'est l\'*Albatros* ! » murmura Erik.
+
+Et il donna ordre au chef mécanicien d\'activer encore la marche. On filait déjà quatorze noeuds. Un quart d\'heure plus tard on en filait seize.
+
+Le navire qu\'on poursuivait n\'avait pu encore atteindre une pareille vitesse, car l\'*Alaska* continuait à gagner sur lui. En trente minutes, on en fut assez près pour distinguer les détails de sa mâture, son sillage, les hommes qui allaient et venaient dans ses manoeuvres ; -- enfin les moulures de son arrière et les lettres qui formaient ce nom : *Albatros*.
+
+Encore quelques minutes, et les deux navires ne furent plus séparés que par une distance de trois à quatre cents mètres. Alors le commandant de l\'*Alaska*, debout sur sa passerelle et muni d\'un porte-voix, héla l\'*Albatros* en anglais.
+
+« Ohé !... du navire !... Je désire parler à votre capitaine !... »
+
+Quelqu\'un monta à la passerelle de l\'*Albatros*. C\'était Tudor Brown.
+
+« Je suis propriétaire et capitaine de ce yacht, dit-il. Que me voulez-vous ?
+
+--- Je désire savoir si vous avez à votre bord Patrick O\'Donoghan.
+
+--- Patrick O\'Donoghan est à mon bord et va vous répondre en personne », répondit Tudor Brown.
+
+Sur un signe qu\'il fit, un homme le rejoignit sur la passerelle.
+
+« Voici Patrick O\'Donoghan, reprit le propriétaire de l\'*Albatros*. Que lui voulez-vous ? »
+
+Erik souhaitait cette entrevue depuis bien longtemps, il venait la chercher de bien loin, et pourtant, en se trouvant inopinément en présence de cet homme aux cheveux rouges, au nez écrasé, qui le regardait d\'un air soupçonneux, il se trouva pris au dépourvu et ne sut d\'abord que lui demander. Mais enfin, rassemblant ses idées et faisant un effort :
+
+« J\'aurais besoin de causer longuement et confidentiellement avec vous, dit-il. Depuis plusieurs années, je vous cherche, et c\'est pour vous trouver que je suis venu dans ces mers. Voulez-vous passer à mon bord ?
+
+--- Je ne vous connais pas et je suis bien où je suis, répondit l\'homme.
+
+--- Mais je vous connais, moi ! Je sais par M. Bowles, de New York, que vous vous êtes trouvé au naufrage du *Cynthia* et que vous lui avez parlé de « l\'enfant sur la bouée » ! Je suis cet enfant, et c\'est à ce sujet que je voudrais vous demander les détails qui sont en votre possession.
+
+--- Il faut donc les demander à un autre que moi, car je ne suis pas d\'humeur à les donner !
+
+--- Voulez-vous faire supposer qu\'ils ne sont pas à votre honneur ?
+
+--- Supposez ce qu\'il vous plaira, cela m\'est parfaitement indifférent ! » répliqua l\'autre.
+
+Erik était décidé à ne pas montrer d\'irritation.
+
+« Mieux vaudrait me dire de bon gré ce que j\'ai tant d\'intérêt à savoir, que vous exposer à vous le voir demander devant une cour de justice, ajouta-t-il froidement.
+
+--- Une cour de justice !... Il faudrait d\'abord pouvoir m\'y amener ! » riposta l\'homme.
+
+Ici Tudor Brown s\'interposa.
+
+« Vous voyez bien qu\'il ne tient pas à moi si vous n\'avez pas l\'explication que vous souhaitez, dit-il à Erik. Le mieux est donc d\'en rester là et de reprendre notre route, chacun de notre côté.
+
+--- Pourquoi chacun de notre côté !... Le plus simple n\'est-il pas de naviguer de conserve jusqu\'à ce que nous arrivions en pays civilisé, pour régler les affaires que nous pouvons avoir ensemble ? répondit le jeune commandant de l\'*Alaska*.
+
+--- Je ne me connais pas d\'affaires avec vous, et n\'ai besoin de la compagnie de personne ! » répliqua Tudor Brown en faisant mine de quitter la passerelle.
+
+Erik l\'arrêta d\'un signe.
+
+« Propriétaire de l\'*Albatros*, s\'écria-t-il, je suis porteur d\'une commission régulière de mon gouvernement, et à ce titre officier de police maritime !... Je vous invite à me donner communication immédiate de vos papiers !... »
+
+Tudor Brown ne répondit même pas et descendit de la passerelle avec l\'homme qu\'il y avait appelé.
+
+Erik attendit deux minutes, puis il reprit :
+
+« Propriétaire de l\'*Albatros*, je vous accuse d\'avoir tenté de faire naufrager mon navire sur la Basse-Froide de Sein, et je vous somme de venir vous expliquer sur cette accusation devant un tribunal maritime !... Faute par vous d\'obtempérer à cette sommation, mon devoir sera de vous y contraindre par la force !
+
+--- Essayez si le coeur vous en dit ! » cria Tudor Brown, en donnant l\'ordre de se remettre en marche.
+
+Pendant ce colloque, son navire avait insensiblement viré et s\'était mis à angle droit avec l\'avant de l\'*Alaska*. Soudain, l\'hélice entra en action et battit les eaux, qui blanchirent en bouillonnant. Un long coup de sifflet déchira les airs, et l\'*Albatros*, glissant sur les flots, partit à toute vapeur dans la direction du pôle Nord.
+
+Deux minutes plus tard, l\'*Alaska* s\'élançait à sa poursuite.

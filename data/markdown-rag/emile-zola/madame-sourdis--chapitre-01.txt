@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MADAME SOURDIS"
+slug_oeuvre: "madame-sourdis"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+MADAME SOURDIS
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+*Madame Sourdis* est paru pour la première fois en 1880 dans *Le Messager de l'Europe,* un journal de Saint-Pétersbourg. Ce récit retrace l'histoire, sur trois décennies, d'un couple d'artistes peintres.

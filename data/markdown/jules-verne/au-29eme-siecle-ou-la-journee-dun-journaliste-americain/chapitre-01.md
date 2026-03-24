@@ -1,0 +1,25 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+AU 29ème SIÈCLE OU LA JOURNÉE D\'UN JOURNALISTE AMÉRICAIN
+
+
+]{.calibre20}
+
+## [[Chapitre 1]{.pcalibre lang="X-NONE"}]{#_Toc342943012 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_120 .calibre21}
+
+Les hommes de ce XXIXe siècle vivent au milieu d\'une féerie continuelle, [sans avoir l\'air de s\'en douter. Blasés sur les merveilles, ils restent froids]{.calibre543} devant celles que le progrès leur apporte chaque jour. Tout leur semble naturel. S\'ils la comparaient au passé, ils apprécieraient mieux notre civilisation, et ils se rendraient compte du chemin parcouru. Combien leur apparaîtraient plus admirables nos cités modernes aux voies larges de cent mètres, aux maisons hautes de trois cents, à la température toujours égale, au ciel sillonné par des milliers d\'aéro-cars et d\'aéro-omnibus ! Auprès de ces villes, dont la population atteint parfois jusqu\'à dix millions d\'habitants, qu\'étaient ces villages, ces hameaux d\'il y a mille ans, ces Paris, ces Londres, ces Berlin, ces New York, bourgades mal aérées et boueuses, où circulaient des caisses cahotantes, traînées par des chevaux, -- ouï ! Des chevaux ! C\'est à ne pas le croire ! S\'ils se représentaient le défectueux fonctionnement des paquebots et des chemins de fer, leurs collisions fréquentes, leur lenteur aussi, quel prix les voyageurs n\'attacheraient-ils pas aux aéro-trains, et surtout à ces tubes pneumatiques, jetés à travers les océans, et dans lesquels on les transporte avec une vitesse de quinze cents kilomètres à l\'heure ? Enfin ne jouirait-on pas mieux du téléphone et du téléphote, en se disant que nos pères en étaient réduits à cet appareil antédiluvien qu\'ils appelaient le « télégraphe » ?
+
+Chose étrange ! Ces surprenantes transformations reposent sur des principes parfaitement connus de nos aïeux, qui n\'en tiraient, pour ainsi dire, aucun parti. En effet, la chaleur, la vapeur, l\'électricité, sont aussi vieilles que l\'homme. À la fin du XIXe siècle, les savants n\'affirmaient-ils pas déjà que la seule différence entre les forces physiques et chimiques réside dans un mode de vibration, propre à chacune d\'elles, des particules éthériques ?
+
+Puisqu\'on avait fait ce pas énorme de la parenté de toutes ces forces, il est vraiment inconcevable qu\'il ait fallu un temps si long pour arriver à déterminer chacun des modes de vibration qui les différencient. Il est extraordinaire, surtout, que le moyen de passer directement de l\'un à l\'autre et de les produire les uns sans les autres ait été découvert tout récemment.
+
+C\'est cependant ainsi que les choses se sont passées, et c\'est seulement en 2790, il y a cent ans, que le célèbre Oswald Nyer y est parvenu.
+
+Un véritable bienfaiteur de l\'humanité, ce grand homme ! Sa trouvaille de génie fut la mère de toutes les autres ! Une pléiade d\'inventeurs en naquit, aboutissant à notre extraordinaire James Jackson. C\'est à ce dernier que nous devons les nouveaux accumulateurs qui condensent, les uns la force contenue dans les rayons solaires, les autres l\'électricité emmagasinée au sein de notre globe, ceux-là, enfin, l\'énergie provenant d\'une source quelconque, chutes d\'eau, vents, rivières et fleuves, etc. C\'est de lui que nous vient également le transformateur qui, obéissant à l\'ordre d\'une simple manette, puise la force vive dans les accumulateurs et la rend à l\'espace, sous forme de chaleur, de lumière, d\'électricité, de puissance mécanique, après en avoir obtenu le travail désiré.
+
+Oui ! C\'est du jour où ces deux instruments furent imaginés que date véritablement le progrès.
+
+Ils ont donné à l\'homme une puissance à peu près infinie. Leurs applications ne se comptent plus. En atténuant les rigueurs de l\'hiver par la restitution du trop-plein des chaleurs estivales, ils ont révolutionné l\'agriculture. En fournissant la force motrice aux appareils de navigation aérienne, ils ont permis au commerce de prendre un magnifique essor. C\'est à eux que l\'on doit la production incessante de l\'électricité sans piles ni machines, la lumière sans combustion ni incandescence, et enfin cette intarissable source d\'énergie, qui a centuplé la production industrielle.

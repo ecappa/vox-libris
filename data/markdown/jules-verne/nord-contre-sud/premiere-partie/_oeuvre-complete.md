@@ -1,0 +1,2873 @@
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+
+]{.calibre20}
+
+## [[Première partie]{.pcalibre lang="X-NONE"}]{#_Toc342941955 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_415 .calibre21}
+
+### []{#_Toc343185100 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182639 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177717 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175256 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172795 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170334 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167873 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165412 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162951 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160490 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158029 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148759 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146298 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143835 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141374 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138913 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136451 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133990 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131529 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129067 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126606 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124142 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121681 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119220 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116766 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114303 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111842 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109381 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105637 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103175 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100712 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098287 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095818 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093356 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090878 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085953 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083490 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081028 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078567 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076104 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073641 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071175 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043215 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038347 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035982 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033617 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031252 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027696 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025331 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022966 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020600 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018234 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015869 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013504 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011137 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008772 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006407 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004042 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001677 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999312 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996947 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994582 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992217 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989852 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987487 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985120 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982755 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980390 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978025 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 1 -- À bord du steamboat « Shannon »]{.pcalibre lang="X-NONE"}]{#_Toc342942044 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-1-à-bord-du-steamboat-shannon .calibre171 .sigil_not_in_toc}
+
+La Floride, qui avait été annexée à la grande fédération américaine en 1819, fut érigée en État quelques années plus tard. Par cette annexion, le territoire de la République s\'accrut de soixante-sept mille milles carrés. Mais l\'astre floridien ne brille que d\'un éclat secondaire au firmament des trente-sept étoiles qui constellent le pavillon des États-Unis d\'Amérique.
+
+Ce n\'est qu\'une étroite et basse langue de terre, cette Floride. Son peu de largeur ne permet pas aux rivières qui l\'arrosent -- le Saint-John excepté -- d\'y acquérir quelque importance. Avec un relief si peu accusé, les cours d\'eau n\'ont pas la pente nécessaire pour y devenir rapides. Point de montagnes à sa surface. À peine quelques lignes de ces « bluffs » ou collines, si nombreux dans la région centrale et septentrionale de l\'Union. Quant à sa forme, on peut la comparer à une queue de castor qui trempe dans l\'Océan, entre l\'Atlantique à l\'est et le golfe du Mexique à l\'ouest.
+
+La Floride n\'a donc aucun voisin, si ce n\'est la Georgie dont la frontière, vers le nord, confine à la sienne. Cette frontière forme l\'isthme qui rattache la péninsule au continent.
+
+En somme, la Floride se présente comme une contrée à part, étrange même, avec ses habitants moitié Espagnols, moitié Américains, et ses Indiens Séminoles, bien différents de leurs congénères du Far-West. Si elle est aride, sablonneuse, presque toute bordée de dunes formées par les atterrissements successifs de l\'Atlantique sur le littoral du sud, sa fertilité est merveilleuse à la surface des plaines septentrionales. Son nom, elle le justifie à souhait. La flore y est superbe, puissante, d\'une exubérante variété.
+
+Cela tient, sans doute, à ce que cette portion du territoire est arrosée par le Saint-John. Ce fleuve s\'y déroule largement, du sud au nord, sur un parcours de deux cent cinquante milles, dont cent sept sont aisément navigables jusqu\'au lac Georges. La longueur, qui manque aux rivières transversales, ne lui fait point défaut, grâce à son orientation. De nombreux rios l\'enrichissent en s\'y mêlant au fond des criques multiples de ses deux rives. Le Saint-John est donc la principale artère du pays. Elle le vivifie de ses eaux -- ce sang qui coule dans les veines terrestres.
+
+Le 7 février 1862, le steamboat Shannon descendait le Saint-John. À quatre heures du soir, il devait faire escale au petit bourg de Picolata, après avoir desservi les stations supérieures du fleuve et les divers forts des comtés de Saint-Jean et de Putnam. Quelques milles au-delà, il allait entrer dans le comté de Duval, qui se développe jusqu\'au comté de Nassau, délimité par la rivière dont il a pris le nom. Picolata, par elle-même, n\'a pas grande importance ; mais ses alentours sont riches en plantations d\'indigo, en rizières, en champs de cotonniers et de cannes à sucre, en immenses cyprières. Aussi, les habitants n\'y manquent-ils point dans un assez large rayon. D\'ailleurs, sa situation lui vaut un mouvement relatif de marchandises et de voyageurs. C\'est le point d\'embarquement de Saint-Augustine, une des principales villes de la Floride orientale, située à quelque douze milles, sur cette partie du littoral océanien que défend la longue île d\'Anastasia. Un chemin presque droit met en communication le bourg et la ville.
+
+Ce jour-là, aux abords de l\'escale de Picolata, on eût compté un plus grand nombre de voyageurs qu\'à l\'ordinaire.
+
+Quelques rapides voitures, des « stages », sortes de véhicules à huit places, attelés de quatre ou six mules qui galopent comme des enragées sur cette route, à travers le marécage, les avaient amenés de Saint-Augustine. Il importait de ne point manquer le passage du steamboat, si l\'on ne voulait éprouver un retard d\'au moins quarante-huit heures, avant d\'avoir pu regagner les villes, bourgs, forts ou villages bâtis en aval. En effet, le Shannon ne dessert pas quotidiennement les deux rives du Saint-John, et, à cette époque, il était seul à faire le service de transport. Il faut donc être à Picolata, au moment où il y fait escale. Aussi, les voitures avaient-elles déposé, une heure avant, leur contingent de passagers.
+
+En ce moment, il s\'en trouvait une cinquantaine sur l\'appontement de Picolata. Ils attendaient, non sans causer avec une certaine animation. On eut pu remarquer qu\'ils se divisaient en deux groupes, peu enclins à se rapprocher l\'un de l\'autre. Était-ce donc quelque grave affaire d\'intérêt, quelque compétition politique, qui les avait attirés à Saint-Augustine ? En tout cas, on peut affirmer que l\'entente ne s\'était point faite entre eux.
+
+Venus en ennemis, ils s\'en retournaient de même. Cela ne se voyait que trop aux regards irrités qui s\'échangeaient, à la démarcation établie entre les deux groupes, à quelques paroles malsonnantes dont le sens provocateur semblait n\'échapper à personne.
+
+Cependant de longs sifflets venaient de percer l\'air en amont du fleuve. Bientôt le Shannon apparut au détour d\'un coude de la rive droite, un demi-mille au-dessus de Picolata. D\'épaisses volutes, s\'échappant de ses deux cheminées, couronnaient les grands arbres que le vent de mer agitait sur la rive opposée.
+
+Sa masse mouvante grossissait rapidement. La marée venait de renverser. Le courant de flot, qui avait retardé sa descente depuis trois ou quatre heures, la favorisait maintenant en ramenant les eaux du Saint-John vers son embouchure.
+
+Enfin la cloche se fit entendre. Les roues, contrebattant la surface du fleuve, arrêtèrent le Shannon, qui vint se ranger près de l\'appontement au rappel de ses amarres.
+
+L\'embarquement se fit aussitôt avec une certaine hâte. Un des groupes passa le premier à bord, sans que l\'autre groupe cherchât à le devancer. Cela tenait, sans doute, à ce que celui-ci attendait un ou plusieurs passagers en retard, qui risquaient de manquer le bateau, car deux ou trois hommes s\'en détachèrent pour aller jusqu\'au quai de Picolata, en un point où débouche la route de Saint-Augustine. De là, ils regardaient dans la direction de l\'est, en gens visiblement impatientés.
+
+Et ce n\'était pas sans raison, car le capitaine du Shannon, posté sur la passerelle, criait :
+
+« Embarquez ! Embarquez !
+
+--- Encore quelques minutes, répondit l\'un des individus du second groupe, qui était resté sur l\'appontement.
+
+--- Je ne puis attendre, messieurs.
+
+--- Quelques minutes !
+
+--- Non ! Pas une seule !
+
+--- Rien qu\'un instant !
+
+--- Impossible ! La marée descend, et je risquerais de ne plus trouver assez d\'eau sur la barre de Jacksonville !
+
+--- Et, d\'ailleurs, dit un des voyageurs, il n\'y a aucune raison pour que nous nous soumettions au caprice des retardataires ! »
+
+Celui qui avait fait cette observation était au nombre des personnes du premier groupe, installées déjà sur le rouf de l\'arrière du Shannon.
+
+« C\'est mon avis, monsieur Burbank, répondit le capitaine. Le service avant tout\... Allons, messieurs, embarquez, ou je vais donner l\'ordre de larguer les amarres ! »
+
+Déjà les mariniers se préparaient à repousser le steamboat au large de l\'appontement, pendant que des jets sonores s\'échappaient du sifflet à vapeur. Un cri arrêta la manoeuvre.
+
+« Voilà Texar ! Voilà Texar ! »
+
+Une voiture, lancée à fond de train, venait d\'apparaître au tournant du quai de Picolata. Les quatre mules, qui composaient l\'attelage, s\'arrêtèrent à la coupée de l\'appontement. Un homme en descendit. Ceux de ses compagnons, qui étaient allés jusqu\'à la route, le rejoignirent en courant. Puis, tous s\'embarquèrent.
+
+« Un instant de plus, Texar, et tu ne partais pas, ce qui eût été très contrariant ! dit l\'un d\'eux.
+
+--- Oui ! Tu n\'aurais pu, avant deux jours, être de retour à\... Où ? Nous le saurons quand tu voudras le dire ! ajouta un autre.
+
+--- Et si le capitaine eût écouté cet insolent James Burbank, reprit un troisième, le Shannon serait déjà à un bon quart de mille au-dessous de Picolata ! »
+
+Texar venait de monter sur le rouffle de l\'avant, accompagné de ses amis. Il se contenta de regarder James Burbank, dont il n\'était séparé que par la passerelle. S\'il ne prononça pas une parole, le regard qu\'il jeta eût suffi à faire comprendre qu\'il existait quelque haine implacable entre ces deux hommes.
+
+Quant à James Burbank, après avoir regardé Texar en face, il lui tourna le dos, et il alla s\'asseoir à l\'arrière du rouf, où les siens avaient déjà pris place.
+
+« Pas content, le Burbank ! dit un des compagnons de Texar.
+
+Cela se comprend. Il en a été pour ses frais de mensonges, et le recorder a fait justice de ses faux témoignages\...
+
+--- Mais non de sa personne, répondit Texar, et de cette justice-là, je m\'en charge ! »
+
+Cependant le Shannon avait largué ses amarres. L\'avant, écarté par de longues gaffes, prit alors le fil du courant. Puis, poussé par ses puissantes roues auxquelles la marée descendante venait en aide, il fila rapidement entre les rives du Saint-John.
+
+On sait ce que sont ces bateaux à vapeur, destinés à faire le service des fleuves américains. Véritables maisons à plusieurs étages, couronnés de larges terrasses, ils sont dominés par les deux cheminées de la chaufferie, placées en abord, et par les mâts de pavillon qui supportent la filière des tentes. Sur l\'Hudson comme sur le Mississipi, ces steamboats, sortes de palais maritimes, pourraient contenir la population de toute une bourgade. Il n\'en fallait pas tant pour les besoins du Saint-John et des cités floridiennes. Le Shannon n\'était qu\'un hôtel flottant, bien que, dans sa disposition intérieure et extérieure, il fût le similaire des Kentuky et des Dean Richmond.
+
+Le temps était magnifique. Le ciel très bleu se tachetait de quelques légères ouates de vapeur, éparpillées à l\'horizon. Sous cette latitude du trentième parallèle, le mois de février est presque aussi chaud dans le Nouveau-Monde qu\'il l\'est dans l\'Ancien, sur la limite des déserts du Sahara. Toutefois, une légère brise de mer tempérait ce que ce climat aurait pu avoir d\'excessif. Aussi la plupart des passagers du Shannon étaient-ils restés sur les roufs, afin d\'y respirer les vives senteurs que le vent apportait des forêts riveraines.
+
+Les obliques rayons du soleil ne pouvaient les atteindre derrière les baldaquins des tentes, agités comme des punkas indoues par la rapidité du steamboat.
+
+Texar et les cinq ou six compagnons qui s\'étaient embarqués avec lui avaient jugé bon de descendre dans un des box du dining-room. Là, en buveurs, le gosier fait aux fortes liqueurs des bars américains, ils vidaient des verres entiers de gin, de bitter et de Bourbon-whiskey. C\'étaient, en somme, des gens assez grossiers, peu comme il faut de tournure, rudes de propos, plus vêtus de cuir que de drap, habitués à vivre plutôt au milieu des forêts que dans les villes floridiennes. Texar paraissait avoir sur eux un droit de supériorité, dû, sans doute, à l\'énergie de son caractère non moins qu\'à l\'importance de sa situation ou de sa fortune. Aussi, puisque Texar ne parlait pas, ses séides restaient silencieux, et employaient à boire le temps qu\'ils ne passaient point à causer.
+
+Cependant Texar, après avoir parcouru d\'un oeil distrait un des journaux qui traînaient sur les tables du dining-room, venait de le rejeter, disant :
+
+« C\'est déjà vieux, tout cela !
+
+--- Je le crois bien ! répondit un de ses compagnons. Un numéro qui a trois jours de date !
+
+--- Et, en trois jours, il se passe tant de choses depuis qu\'on se bat à nos portes ! ajouta un autre.
+
+--- Où en est-on de la guerre ? demanda Texar.
+
+--- En ce qui nous concerne plus particulièrement, Texar, voici où on en est : le gouvernement fédéral, dit-on, s\'occupe de préparer une expédition contre la Floride.
+
+Par conséquent, il faut s\'attendre, sous peu, à une invasion des nordistes ! -- Est-ce certain ?
+
+--- Je ne sais, mais le bruit en a couru à Savannah, et on me l\'a confirmé à Saint-Augustine.
+
+--- Eh ! Qu\'ils viennent donc, ces fédéraux, puisqu\'ils ont la prétention de nous soumettre ! s\'écria Texar, en accentuant sa menace d\'un coup de poing, dont la violence fit sauter verres et bouteilles sur la table. Oui ! Qu\'ils viennent ! On verra si les propriétaires d\'esclaves de la Floride se laisseront dépouiller par ces voleurs d\'abolitionnistes ! »
+
+Cette réponse de Texar aurait appris deux choses à quiconque n\'eût pas été au courant des événements dont l\'Amérique était le théâtre à cette époque : d\'abord que la guerre de Sécession, déclarée, en fait, par le coup de canon tiré sur le fort Sumter, le 11 avril 1861, était alors dans sa période la plus aiguë, car elle s\'étendait presque aux dernières limites des états du Sud ; ensuite que Texar, partisan de l\'esclavage, faisait cause commune avec l\'immense majorité de la population des territoires à esclaves. Et précisément, à bord du Shannon, plusieurs représentants des deux partis se trouvaient en présence : d\'une part -- suivant les diverses appellations qui leur furent données pendant cette longue lutte -- des nordistes, anti-esclavagistes, abolitionnistes ou fédéraux ; de l\'autre, des sudistes, esclavagistes, sécessionnistes ou confédérés.
+
+Une heure après, Texar et les siens, plus que suffisamment abreuvés, se levèrent pour remonter sur le pont supérieur du Shannon. On avait déjà dépassé, du côté de la rive droite, la crique Trent et la crique des Six-Milles, qui introduisent les eaux du fleuve, l\'une, jusqu\'à la limite d\'une épaisse cyprière, l\'autre, jusqu\'aux vastes marais des Douze-Milles, dont le nom indique l\'étendue.
+
+Le steamboat naviguait alors entre deux bordures d\'arbres magnifiques, des tulipiers, des magnolias, des pins, des cyprès, des chênes-verts, des yuccas, et nombre d\'autres d\'une venue superbe, dont les troncs disparaissaient sous l\'inextricable fouillis des azalées et des serpentaires. Parfois, à l\'ouvert des criques par lesquelles s\'alimentent les plaines marécageuses des comtés de Saint-Jean et de Duval, une forte odeur de musc imprégnait l\'atmosphère. Elle ne venait point de ces arbustes, dont les émanations sont si pénétrantes sous ce climat, mais bien des alligators qui s\'enfuyaient sous les hautes herbes au bruyant passage du Shannon. Puis, c\'étaient des oiseaux de toutes sortes, des pics, des hérons, des jacamars, des butors, des pigeons à tête blanche, des orphées, des moqueurs, et cent autres, variés de forme et de plumage, tandis que l\'oiseau-chat reproduisait tous les bruits du dehors avec sa voix de ventriloque -- même ce cri du coq à fraise, sonore comme la note cuivrée d\'une trompette, dont le chant se fait entendre jusqu\'à la distance de quatre à cinq milles.
+
+Au moment où Texar franchissait la dernière marche du capot pour prendre place sur le rouf, une femme allait descendre dans l\'intérieur du salon. Elle recula dès qu\'elle se vit en face de cet homme. C\'était une métisse, au service de la famille Burbank. Son premier mouvement avait été celui d\'une invincible répulsion en se trouvant à l\'improviste devant cet ennemi déclaré de son maître. Sans s\'arrêter au mauvais regard que lui lança Texar, elle se rejeta de côté. Lui, haussant alors les épaules, se retourna vers ses compagnons.
+
+« Oui, c\'est Zermah, s\'écria-t-il, une des esclaves de ce James Burbank, qui prétend n\'être pas partisan de l\'esclavage ! »
+
+Zermah ne répondit rien.
+
+Lorsque l\'entrée du rouf fut libre, elle descendit au grand salon du Shannon, sans paraître attacher la moindre importance à ce propos.
+
+Quant à Texar, il se dirigea vers l\'avant du steamboat. Là, après avoir allumé un cigare, sans plus s\'occuper de ses compagnons qui l\'avaient suivi, il parut observer avec une certaine attention la rive gauche du Saint-John sur la lisière du comté de Putnam.
+
+Pendant ce temps, à l\'arrière du Shannon, on causait aussi des choses de la guerre. Après le départ de Zermah, James Burbank était resté seul avec les deux amis qui l\'avaient accompagné à Saint-Augustine. L\'un était son beau-frère, M. Edward Carrol, l\'autre un Floridien qui demeurait à Jacksonville, M. Walter Stannard. Eux aussi parlaient avec une certaine animation de la lutte sanglante, dont l\'issue était une question de vie ou de mort pour les États-Unis. Mais, on le verra, James Burbank, pour en juger les résultats, l\'appréciait autrement que Texar.
+
+« J\'ai hâte, dit-il, d\'être de retour à Camdless-Bay. Nous sommes partis depuis deux jours. Peut-être est-il arrivé quelques nouvelles de la guerre ? Peut-être Dupont et Sherman sont-ils déjà maîtres de Port-Royal et des îles de la Caroline du Sud ?
+
+--- En tout cas, cela ne peut tarder, répondit Edward Carrol, et je serais bien étonné si le président Lincoln ne songeait pas à pousser la guerre jusqu\'en Floride.
+
+--- Il ne sera pas trop tôt ! reprit James Burbank. Oui ! Il n\'est que temps d\'imposer les volontés de l\'Union à tous ces sudistes de la Georgie et de la Floride, qui se croient trop éloignés pour être jamais atteints ! Vous voyez à quel degré d\'insolence cela peut conduire des gens sans aveu comme ce Texar ! Il se sent soutenu par les esclavagistes du pays, il les excite contre nous, hommes du Nord, dont la situation, de plus en plus difficile, subit les contrecoups de la guerre !
+
+--- Tu as raison, James, reprit Edward Carrol. Il importe que la Floride rentre au plus tôt sous l\'autorité du gouvernement de Washington. Oui ! Il me tarde que l\'armée fédérale y vienne faire la loi, ou nous serons forcés d\'abandonner nos plantations.
+
+--- Ce ne peut plus être qu\'une question de jours, mon cher Burbank, répondit Walter Stannard. Avant-hier, lorsque j\'ai quitté Jacksonville, les esprits commençaient à s\'inquiéter des projets que l\'on prête au commodore Dupont de franchir les passes du Saint-John. Et cela a fourni un prétexte pour menacer ceux qui ne pensent point comme les partisans de l\'esclavage. Je crains bien que quelque émeute ne tarde pas à renverser les autorités de la ville au profit d\'individus de la pire espèce !
+
+--- Cela ne m\'étonne pas, répondit James Burbank. Aussi, devons-nous attendre de bien mauvais jours aux approches de l\'armée fédérale ! Mais il est impossible de les éviter.
+
+--- Que faire, d\'ailleurs ? reprit Walter Stannard. S\'il se trouve à Jacksonville et même en certains points de la Floride, quelques braves colons qui pensent comme nous sur cette question de l\'esclavage, ils ne sont pas assez nombreux pour pouvoir s\'opposer aux excès des sécessionnistes. Nous ne devons compter, pour notre sécurité, que sur l\'arrivée des fédéraux, et encore serait-il à souhaiter, si leur intervention est décidée, qu\'elle fût exécutée promptement.
+
+--- Oui ! Qu\'ils viennent donc, s\'écria James Burbank, et qu\'ils nous délivrent de ces mauvais drôles ! »
+
+On verra bientôt si les hommes du Nord, que leurs intérêts de famille ou de fortune obligeaient, pour vivre au milieu d\'une population esclavagiste, à se conformer aux usages du pays, étaient en droit de tenir ce langage et n\'avaient pas lieu de tout craindre.
+
+Ce que James Burbank et ses amis pensaient de la guerre était vrai.
+
+Le gouvernement fédéral préparait une expédition dans le but de soumettre la Floride. Il ne s\'agissait pas tant de s\'emparer de l\'État ou de l\'occuper militairement, que d\'en fermer toutes les passes aux contrebandiers, dont le métier consistait à forcer le blocus maritime, autant pour exporter les productions indigènes que pour introduire des armes et munitions. Aussi le Shannon ne se hasardait-il plus à desservir les côtes méridionales de la Georgie, qui étaient alors au pouvoir des généraux nordistes. Par prudence, il s\'arrêtait sur la frontière, un peu au-delà de l\'embouchure du Saint-John, vers le nord de l\'île Amelia, à ce port de Fernandina, d\'où part le chemin de fer de Cedar-Keys qui traverse obliquement la péninsule floridienne pour aboutir au golfe du Mexique. Plus haut que l\'île Amelia et le rio de Saint-Mary, le Shannon eût couru le risque d\'être capturé par les navires fédéraux, qui surveillaient incessamment cette portion du littoral.
+
+Il s\'en suit donc que les passagers du steamboat étaient principalement ceux des Floridiens que leurs affaires n\'obligeaient point à se rendre au-delà des frontières de la Floride. Tous demeuraient dans les villes, bourgs ou hameaux, bâtis sur les rives de Saint-John ou de ses affluents, et, pour la plupart, soit à Saint-Augustine, soit à Jacksonville. En ces diverses localités, ils pouvaient débarquer par les appontements placés aux escales, ou en se servant de ces estacades de bois, ces « piers », établis à la mode anglaise, qui les dispensaient de recourir aux embarcations du fleuve.
+
+L\'un des passagers du steamboat, cependant, allait l\'abandonner en pleine rivière. Son projet était, sans attendre que le Shannon se fût arrêté à l\'une des escales réglementaires, de débarquer sur un endroit de la rive, où il n\'y avait en vue ni un village quelconque ni une maison isolée, pas même une cabane de chasse ou de pêche.
+
+Ce passager était Texar.
+
+Vers six heures du soir, le Shannon lança trois aigus coups de sifflet. Ses roues furent presque aussitôt stoppées, et il se laissa descendre au courant, qui est très modéré sur cette partie du fleuve. Il se trouvait alors par le travers de la Crique-Noire.
+
+Cette crique est une profonde échancrure, évidée dans la rive gauche, au fond de laquelle se jette un petit rio sans nom, qui passe au pied du fort Heilman, presque à la limite des comtés de Putnam et de Duval. Son étroite ouverture disparaît tout entière sous une voûte de ramures épaisses, dont le feuillage s\'entremêle comme la trame d\'un tissu très serré. Cette sombre lagune est, pour ainsi dire, inconnue des gens du pays. Personne n\'a jamais tenté de s\'y introduire, et personne ne savait qu\'elle servît de demeure à ce Texar. Cela tient à ce que la rive du Saint-John, à l\'ouverture de la Crique-Noire, ne semble être interrompue en aucun point de ses berges. Aussi, avec la nuit qui tombait rapidement, fallait-il être un marinier très pratique de cette ténébreuse crique pour s\'y introduire dans une embarcation.
+
+Aux premiers coups de sifflet du Shannon, un cri avait répondu immédiatement -- par trois fois. La lueur d\'un feu, qui brillait entre les grandes herbes de la rive, s\'était mise en mouvement. Cela indiquait qu\'un canot s\'avançait pour accoster le steamboat.
+
+Ce n\'était qu\'un squif -- petite embarcation d\'écorce qu\'une simple pagaie suffit à diriger et à conduire. Bientôt ce squif ne fut plus qu\'à une demi-encablure du Shannon.
+
+Texar s\'avança alors vers la coupée du rouf de l\'avant, et, se faisant un porte-voix de sa main :
+
+« Aoh ? Héla-t-il.
+
+--- Aoh ! lui fut-il répondu.
+
+--- C\'est toi, Squambô ?
+
+--- Oui, maître !
+
+--- Accoste ! »
+
+Le squif accosta. À la clarté du fanal attaché au bout de son étrave, on put voir l\'homme qui la manoeuvrait. C\'était un Indien, noir de tignasse, nu jusqu\'à la ceinture, -- un homme solide, à en juger par le torse qu\'il montrait aux lueurs du fanal.
+
+À ce moment, Texar se retourna vers ses compagnons et leur serra la main en disant un « au revoir » significatif. Après avoir jeté un regard menaçant du côté de M. Burbank, il descendit l\'escalier, placé à l\'arrière du tambour de la roue de bâbord, et rejoignit l\'Indien Squambô. En quelques tours de roues, le steamboat se fut éloigné du squif, et personne à bord ne put soupçonner que la légère embarcation allait se perdre sous les obscurs fouillis de la rive.
+
+« Un coquin de moins à bord ! dit alors Edward Carrol, sans se préoccuper d\'être entendu des compagnons de Texar.
+
+--- Oui, répondit James Burbank, et, c\'est, en même temps, un dangereux malfaiteur. Pour moi, je n\'ai aucun doute à cet égard, bien que le misérable ait toujours su se tirer d\'affaire par ses alibis véritablement inexplicables !
+
+--- En tout cas, dit M. Stannard, si quelque crime est commis, cette nuit, aux environs de Jacksonville, on ne pourra pas l\'en accuser, puisqu\'il a quitté le Shannon !
+
+--- Je n\'en sais rien ! répliqua James Burbank. On me dirait qu\'on l\'a vu voler ou assassiner, au moment où nous parlons, à cinquante milles dans le nord de la Floride, que je n\'en serais pas autrement surpris ! Il est vrai, s\'il parvenait à prouver qu\'il n\'est pas l\'auteur de ce crime, cela ne me surprendrait pas davantage, après ce qui s\'est passé ! -- Mais, c\'est trop nous occuper de cet homme.
+
+Vous retournez à Jacksonville, Stannard ?
+
+--- Ce soir même.
+
+--- Votre fille vous y attend ?
+
+--- Oui, et j\'ai hâte de la rejoindre.
+
+--- Je le comprends, répondit James Burbank. Et quand comptez-vous nous rejoindre à Camdless-Bay ?
+
+--- Dans quelques jours.
+
+--- Venez donc le plus tôt que vous pourrez, mon cher Stannard. Vous le savez, nous sommes à la veille d\'événements très sérieux, qui s\'aggraveront encore à l\'approche des troupes fédérales. Aussi, je me demande si votre fille Alice et vous ne seriez pas plus en sûreté dans notre habitation de Castle-House qu\'au milieu de cette ville, où les sudistes sont capables de se porter à tous les excès !
+
+--- Bon ! Est-ce que je ne suis pas du Sud, mon cher Burbank ?
+
+--- Sans doute, Stannard, mais vous pensez et vous agissez comme si vous étiez du Nord ! »
+
+Une heure après, le Shannon, emporté par le jusant devenu de plus en plus rapide, dépassait le petit hameau de Mandarin, juché sur une verdoyante colline. Puis, cinq à six milles au-dessous, il s\'arrêtait près de la rive droite du fleuve. Là était établi un quai d\'embarquement que les navires peuvent accoster pour y prendre charge. Un peu au-dessus débordait un pier élégant, légère passerelle de bois, suspendue à la courbe de deux câbles de fer. C\'était le débarcadère de Camdless-Bay.
+
+À l\'extrémité du pier attendaient deux Noirs, munis de fanaux, car la nuit était déjà très sombre.
+
+James Burbank prit congé de M. Stannard, et, suivi d\'Edward Carrol, il s\'élança sur la passerelle.
+
+Derrière lui marchait la métisse Zermah, qui répondit de loin à une voix enfantine :
+
+« Me voilà, Dy ! me voilà !
+
+--- Et père ?
+
+--- Père aussi !
+
+Les fanaux s\'éloignèrent, et le Shannon reprit sa marche, en obliquant vers la rive gauche. Trois milles au-delà de Camdless-Bay, de l\'autre côté du fleuve, il s\'arrêtait à l\'appontement de Jacksonville, afin de mettre à terre le plus grand nombre de ses passagers.
+
+Là, Walter Stannard débarqua en même temps que trois ou quatre de ces gens, dont Texar s\'était séparé, une heure et demie avant, lorsque l\'Indien était venu le prendre avec le squif. Il ne restait plus qu\'une demi-douzaine de voyageurs à bord du steamboat, les uns à destination de Pablo, petit bourg, bâti près du phare qui s\'élève à l\'entrée des bouches du Saint-John, les autres à destination de l\'île Talbot, située au large de l\'ouverture des passes de ce nom, les derniers, enfin, à destination du port de Fernandina. Le Shannon continua donc à battre les eaux du fleuve, dont il put franchir la barre sans accidents. Une heure après, il avait disparu au tournant de la crique Trout, où le Saint-John mêle ses lames déjà houleuses à la houle de l\'Océan.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185101 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182640 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177718 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175257 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172796 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170335 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167874 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165413 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162952 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158030 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148760 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146299 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143836 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141375 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138914 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136452 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133991 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131530 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129068 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126607 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124143 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121682 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119221 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116767 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114304 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111843 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109382 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105638 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103176 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100713 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098288 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095819 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093357 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090879 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088416 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081029 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078568 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076105 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071176 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043216 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038348 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035983 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033618 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031253 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027697 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025332 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022967 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020601 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018235 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015870 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013505 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011138 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008773 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006408 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004043 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001678 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999313 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996948 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994583 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992218 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989853 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987488 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985121 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982756 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980391 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978026 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 2 -- Camdless-Bay]{.pcalibre lang="X-NONE"}]{#_Toc342942045 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-2-camdless-bay .calibre171 .sigil_not_in_toc}
+
+Camdless-Bay, tel était le nom de la plantation qui appartenait à James Burbank. C\'est là que le riche colon demeurait avec toute sa famille. Ce nom de Camdless venait d\'une des criques du Saint-John, qui s\'ouvre un peu en amont de Jacksonville et sur la rive opposée du fleuve. Par suite de cette proximité, on pouvait communiquer facilement avec la cité floridienne. Une bonne embarcation, un vent de nord ou de sud, en profitant du jusant pour aller ou du flot pour revenir, il ne fallait pas plus d\'une heure pour franchir les trois milles, qui séparent Camdless-Bay de ce chef-lieu du comté de Duval.
+
+James Burbank possédait une des plus belles propriétés du pays. Riche par lui-même et par sa famille, sa fortune se complétait encore d\'immeubles importants, situés dans l\'État de New-Jersey, qui confine à l\'État de New York.
+
+Cet emplacement, sur la rive droite du Saint-John, avait été très heureusement choisi pour y fonder un établissement d\'une valeur considérable. Aux heureuses dispositions déjà fournies par la nature, la main de l\'homme n\'avait rien eu à reprendre. Ce terrain se prêtait de lui-même à tous les besoins d\'une vaste exploitation. Aussi la plantation de Camdless-Bay, dirigée par un homme intelligent, actif, dans toute la force de l\'âge, bien secondé de son personnel, et auquel les capitaux ne manquaient point, était-elle en parfait état de prospérité.
+
+Un périmètre de douze milles, une surface de quatre mille acres[[\[1\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn1029){#_ftnref1029 .pcalibre2 .pcalibre1}, telle était la contenance superficielle de cette plantation. S\'il en existait de plus grandes dans les états du sud de l\'Union, il n\'en était pas de mieux aménagées.
+
+Maison d\'habitation, communs, écuries, étables, logements pour les esclaves, bâtiments d\'exploitation, magasins destinés à contenir les produits du sol, chantiers disposés pour leur manipulation, ateliers et usines, railways convergeant de la périphérie du domaine vers le petit port d\'embarquement, routes pour les charrois, tout était merveilleusement compris au point de vue pratique. Que ce fut un Américain du Nord qui eût conçu, ordonné, exécuté ces travaux, cela se voyait dès le premier coup d\'oeil. Seuls, les établissements de premier ordre de la Virginie ou des Carolines eussent pu rivaliser avec le domaine de Camdless-Bay. En outre, le sol de la plantation comprenait des « high-hummoks », hautes terres naturellement appropriées à la culture des céréales, des « low-hummoks », basses terres qui conviennent plus spécialement à la culture des caféiers et des cacaoyers, des « marshs », sortes de savanes salées, où prospèrent les rizières et les champs de cannes à sucre.
+
+On le sait, les cotons de la Georgie et de la Floride sont des plus appréciés sur les divers marchés de l\'Europe et de l\'Amérique, grâce à la longueur et la qualité de leurs soies. Aussi, les champs de cotonniers, avec leurs plants dessinés en lignes régulièrement espacées, leurs feuilles d\'un vert tendre, leurs fleurs de ce jaune où l\'on retrouve la pâleur des mauves, produisaient-ils un des plus importants revenus de la plantation. À l\'époque de la récolte, ces champs, d\'une superficie d\'un acre à un acre et demi, se couvraient de cases où demeuraient alors les esclaves, femmes et enfants, chargés de cueillir les capsules et d\'en tirer les flocons, -- travail très délicat qui ne doit point en altérer les fibres.
+
+Ce coton, séché au soleil, nettoyé par le moulinage au moyen de roues à dents et de rouleaux, comprimé à la presse hydraulique, mis en ballots cerclés de fer, était ainsi emmagasiné pour l\'exportation. Les navires à voile ou à vapeur pouvaient venir prendre chargement de ces ballots au port même de Camdless-Bay.
+
+Concurremment avec les cotonniers, James Burbank exploitait aussi de vastes champs de caféiers et de cannes à sucre. Ici, c\'étaient des réserves de mille à douze cents arbustes, hauts de quinze à vingt pieds, semblables par leurs fleurs à des jasmins d\'Espagne, et dont les fruits, gros comme une petite cerise, contiennent les deux grains qu\'il n\'y a plus qu\'à extraire et à faire sécher. Là, c\'étaient des prairies, on pourrait dire des marais, hérissés de milliers de ces longs roseaux, hauts de neuf à dix-huit pieds, dont les panaches se balancent comme les cimiers d\'une troupe de cavalerie en marche. Objet de soins tout spéciaux à Camdless-Bay, cette récolte de cannes donnait le sucre sous forme d\'une liqueur que la raffinerie, très en progrès dans les états du Sud, transformait en sucre raffiné ; puis, comme produits dérivés, les sirops qui servent à la fabrication du tafia ou du rhum, et le vin de canne, mélange de la liqueur saccharine avec du jus d\'ananas et d\'oranges. Bien que moins importante, si on la comparait à celle des cotonniers, cette culture ne laissait pas d\'être très fructueuse. Quelques enclos de cacaoyers, des champs de maïs, d\'ignames, de patates, de blé indien, de tabac, deux ou trois centaines d\'acres en rizières, apportaient encore un large tribut de bénéfices à l\'établissement de James Burbank.
+
+Mais il se faisait encore une autre exploitation qui procurait des gains au moins égaux à ceux de l\'industrie cotonnière.
+
+C\'était le défrichement des inépuisables forêts dont la plantation était couverte. Sans parler du produit des cannelliers, des poivriers, des orangers, des citronniers, des oliviers, des figuiers, des manguiers, des jaquiers, ni du rendement de presque tous les arbres à fruits de l\'Europe, dont l\'acclimatement est superbe en Floride, ces forêts étaient soumises à une coupe régulière et constante. Que de richesses en campêche, en gazumas ou ormes du Mexique, maintenant employés à tant d\'usages, en baobabs, en bois corail à tiges et à fleurs d\'un rouge de sang, en paviers, sortes de marronniers à fleurs jaunes, en noyers noirs, en chênes verts, en pins australs, qui fournissent d\'admirables échantillons pour la charpente et la mâture, en pachiriers, dont le soleil de midi fait éclater les graines comme autant de pétards, en pins-parasols, en tulipiers, sapins, cèdres et surtout en cyprès, cet arbre si répandu à la surface de la péninsule qu\'il y forme des forêts dont la longueur va de soixante à cent milles. James Burbank avait dû créer plusieurs scieries importantes en divers points de la plantation. Des barrages, établis sur quelques-uns des rios, tributaires du Saint-John, convertissaient en chute leur cours paisible, et ces chutes donnaient largement la force mécanique que nécessitait le débit des poutres, madriers ou planches, dont cent navires auraient pu prendre, chaque année des cargaisons entières.
+
+Il faut citer, en outre, de vastes et grasses prairies, qui nourrissaient des chevaux, des mules, et un nombreux bétail, dont les produits subvenaient à tous les besoins agricoles.
+
+Quant aux volatiles d\'espèces si variées, qui habitaient les bois ou couraient les champs et les plaines, on imaginerait difficilement à quel point ils pullulaient à Camdless-Bay -- comme dans toute la Floride, d\'ailleurs.
+
+Au-dessus des forêts planaient les aigles à tête blanche, de grande envergure, dont le cri aigu ressemble à la fanfare d\'une trompette fêlée, des vautours, d\'une férocité peu ordinaire, des butors géants, au bec pointu comme une baïonnette. Sur la rive du fleuve, entre les grands roseaux de la berge, sous l\'entrecroisement des bambous gigantesques, vivaient des flamants roses ou écarlates, des ibis tout blancs qu\'on eût dit envolés de quelque monolithe égyptien, des pélicans de taille colossale, des myriades de sternes, des hirondelles de mer de toutes sortes, des crabiers vêtus d\'une huppe et d\'une pelisse verte, des courlans, au plumage de pourpre, au duvet brun et tacheté de points blanchâtres, des jacamars, martins-pêcheurs à reflets dorés, tout un monde de plongeons, de poules d\'eau, de canards « widgeons » appartenant à l\'espèce des siffleurs, des sarcelles, des pluviers, sans compter les pétrels, les puffins, les becs-en-ciseaux, les corbeaux de mer, les mouettes, les paille-en-queue, qu\'un coup de vent suffisait à chasser jusqu\'au Saint-John, et parfois même des exocets ou poissons-volants, qui sont de bonne prise pour les gourmets. À travers les prairies pullulaient tes bécassines, les bécasseaux, les courlis, les barges marbrées, les poules sultanes au plumage à la fois rouge, bleu, vert, jaune et blanc comme une palette volante, les coqs à fraise, les perdrix ou « colins-ouis », les écureuils grisâtres, les pigeons à tête blanche et à pattes rouges ; puis, comme quadrupèdes comestibles, des lapins à queue longue, intermédiaires entre le lapin et le lièvre d\'Europe, des daims par hardes ; enfin des raccoons ou ratons laveurs, des tortues, des ichneumons, et aussi, par malheur, trop de serpents d\'espèce venimeuse.
+
+Tels étaient les représentants du règne animal sur ce magnifique domaine de Camdless-Bay, -- sans compter les Nègres, mâles et femelles, asservis pour les besoins de la plantation. Et de ces êtres humains, que fait donc cette monstrueuse coutume de l\'esclavage, si ce n\'est des animaux, achetés ou vendus comme bêtes de somme ?
+
+Comment James Burbank, un partisan des doctrines anti-esclavagistes, un nordiste qui n\'attendait que le triomphe du Nord, n\'avait-il donc pas encore affranchi les esclaves de sa plantation ? Hésiterait-il à le faire, dès que les circonstances le permettraient ? Non, certes ! Et ce n\'était plus qu\'une question de semaines, de jours peut-être, puisque l\'armée fédérale occupait déjà quelques points rapprochés de l\'État limitrophe et se préparait à opérer en Floride.
+
+Déjà, d\'ailleurs, James Burbank avait pris à Camdless-Bay toutes les mesures qui pouvaient améliorer le sort de ses esclaves. Ils étaient environ sept cents noirs des deux sexes, proprement logés dans de larges baraccons, entretenus avec soin, nourris à leur convenance, ne travaillant que dans la limite de leurs forces. Le régisseur général et les sous-régisseurs de la plantation avaient ordre de les traiter avec justice et douceur. Aussi, les divers services n\'en étaient-ils que mieux remplis, bien que depuis longtemps les châtiments corporels ne fussent plus en usage à Camdless-Bay. Contraste frappant avec les habitudes de la plupart des autres plantations floridiennes, et système qui n\'était pas vu sans défaveur par les voisins de James Burbank. De là, comme on va s\'en rendre compte, une situation très difficile dans le pays, surtout à cette époque où le sort des armes allait trancher la question de l\'esclavage.
+
+Le nombreux personnel de la plantation était logé dans des cases saines et confortables.
+
+Groupées par cinquantaines, ces cases formaient une dizaine de hameaux, autrement dit baraccons, agglomérés le long des eaux courantes. Là, ces Noirs vivaient avec leurs femmes et leurs enfants. Chaque famille était autant que possible affectée au même service des champs, des forêts ou des usines, de manière que ses membres ne fussent point dispersés, aux heures de travail. À la tête de ces divers hameaux, un sous-régisseur, faisant les fonctions de gérant, pour ne pas dire de maire, administrait sa petite commune, qui relevait du chef-lieu de canton. Ce chef-lieu, c\'était le domaine privé de Camdless-Bay, enfermé dans un périmètre de hautes palissades, dont les palanques, sortes de pieux jointifs, plantés verticalement, se cachaient à demi sous la verdure de l\'exubérante végétation floridienne. Là s\'élevait l\'habitation particulière de la famille Burbank.
+
+Moitié maison, moitié château, cette habitation avait reçu et méritait le nom de Castle-House.
+
+Depuis bien des années, Camdless-Bay appartenait aux ancêtres de James Burbank. À une époque où les déprédations des Indiens étaient à craindre, ses possesseurs avaient dû en fortifier la principale demeure. Le temps n\'était pas éloigné où le général Jessup défendait encore la Floride contre les Séminoles. Pendant longtemps, les colons avaient eu terriblement à souffrir de ces nomades. Non seulement le vol les dépouillait, mais le meurtre ensanglantait leurs habitations que l\'incendie détruisait ensuite. Les villes elles-mêmes furent plus d\'une fois menacées de l\'invasion et du pillage. En maint endroit s\'élèvent des ruines que ces sanguinaires Indiens ont laissées après leur passage. À moins de quinze milles de Camdless-Bay, près du hameau de Mandarin, on montre encore la « maison de sang », dans laquelle un colon, M. Motte, sa femme et ses trois jeunes filles, avaient été scalpés, puis massacrés par ces bandits.
+
+Mais, actuellement, la guerre d\'extermination entre l\'homme blanc et l\'homme rouge est finie. Les Séminoles, vaincus finalement, on dû se réfugier au loin, vers l\'ouest du Mississipi. On n\'entend plus parler d\'eux, sauf de quelques bandes qui errent encore dans la portion marécageuse de la Floride méridionale. Le pays n\'a donc plus rien à craindre de ces féroces indigènes.
+
+On comprend dès lors que les habitations des colons eussent été construites de manière à pouvoir tenir contre une attaque soudaine des Indiens, et résister en attendant l\'arrivée des bataillons de volontaires, enrégimentés dans les villes ou hameaux du voisinage. Ainsi avait-il été fait du château de Castle-House.
+
+Castle-House s\'élevait sur un léger renflement du sol, au milieu d\'un parc réservé, d\'une superficie de trois acres, qui s\'arrondissait à quelques centaines de yards en arrière de la rive du Saint-John. Un cours d\'eau, assez profond, entourait ce parc, dont une haute enceinte de palanques, complétait la défense, et il ne donnait entrée que par un seul ponceau, jeté sur le rio circulaire. En arrière du mamelon, un ensemble de beaux arbres, groupés par masses, redescendaient les pentes du parc, auquel ils faisaient un large cadre de verdure. Une fraîche avenue de bambous, dont les tiges se croisaient en nervures ogivales, formait une longue nef, qui se développait depuis le débarcadère du petit port de Camdless-Bay jusqu\'aux premières pelouses. Au-dedans, sur tout l\'espace laissé libre entre les arbres, s\'étendaient de verdoyants gazons, coupés de larges allées, bordées de barrières blanches, qui se terminaient par une esplanade sablée devant la façade principale de Castle-House.
+
+Ce château, assez irrégulièrement dessiné, offrait beaucoup d\'imprévu dans l\'ensemble de sa construction et non moins de fantaisie dans ses détails. Mais, pour le cas où des assaillants eussent forcé les palanques du parc, il aurait pu -- chose importante surtout -- se défendre rien que par lui-même et soutenir un siège de quelques heures. Ses fenêtres du rez-de-chaussée étaient grillagées de barreaux de fer. La porte principale, sur la façade antérieure, avait la solidité d\'une herse. En de certains points, au faîte des murailles, bâties avec une sorte de pierre marmoréenne, se dressaient plusieurs poivrières en encorbellement, qui rendaient la défense plus facile, puisqu\'elles permettaient de prendre en flanc les agresseurs. En somme, avec ses ouvertures réduites au strict nécessaire, son donjon central qui le dominait et sur lequel se déployait le pavillon étoilé des États-Unis, ses lignes de créneaux dont certaines arêtes étaient pourvues, l\'inclinaison de ses murs à leur base, ses toits élevés, ses pinacles multiples, l\'épaisseur de ses parois à travers lesquelles se creusaient çà et là un certain nombre d\'embrasures, cette habitation ressemblait plus à un château fort qu\'à un cottage ou une maison de plaisance.
+
+On l\'a dit, il avait fallu le bâtir ainsi pour la sûreté de ceux qui l\'habitaient à l\'époque où se faisaient ces sauvages incursions des Indiens sur le territoire de la Floride. Il existait même un tunnel souterrain, qui, après avoir passé sous la palissade et le rio circulaire, mettait Castle-House en communication avec une petite crique du Saint-John, nommée Crique Marino. Ce tunnel aurait pu servir à quelque secrète évasion en cas d\'extrême danger.
+
+Certainement, au temps actuel, les Séminoles, repoussés de la péninsule, n\'étaient plus à craindre, et cela depuis une vingtaine d\'années.
+
+Mais savait-on ce que réservait l\'avenir ? Et ce danger que James Burbank n\'avait plus à redouter de la part des Indiens, qui sait s\'il ne viendrait pas de la part de ses compatriotes ? N\'était-il pas lui, nordiste isolé au fond de ces états du sud, exposé à toutes les phases d\'une guerre civile, qui avait été si sanglante jusqu\'alors, si féconde en représailles ?
+
+Toutefois, cette nécessité de pourvoir à la sûreté de Castle-House n\'avait point nui au confort intérieur. Les salles étaient vastes, les appartements luxueux et superbement aménagés. La famille Burbank y trouvait, au milieu d\'un site admirable, toutes les aises, toutes les satisfactions morales que peut donner la fortune, quand elle est unie à un véritable sens artiste chez ceux qui la possèdent.
+
+En arrière du château, dans le parc réservé, de magnifiques jardins se développaient jusqu\'à la palissade, dont les palanques disparaissaient sous les arbustes grimpants et les sarments de la grenadille, où les oiseaux-mouches voltigeaient par myriades. Des massifs d\'orangers, des corbeilles d\'oliviers, de figuiers, de grenadiers, de pontédéries aux bouquets d\'azur, des groupes de magnolias, dont les calices à teintes de vieil ivoire parfumaient l\'air, des buissons de palmiers sabal, agitant leurs éventails sous la brise, des guirlandes de coboeas aux nuances violettes, des touffes de tupéas à rosettes vertes, de yuccas avec leur cliquetis de sabres acérés, de rhododendrons roses, des buissons de myrtes et de pamplemousses, enfin tout ce que peut produire la flore d\'une zone qui touche au Tropique, était réuni dans ces parterres pour la jouissance de l\'odorat et le plaisir des yeux.
+
+À la limite de l\'enceinte, sous le dôme des cyprès et des baobabs, étaient enfouies les écuries, les remises, les chenils, les aménagements de la laiterie et des basses-cours.
+
+Grâce à la ramure de ces beaux arbres, impénétrable même au soleil de cette latitude, les animaux domestiques n\'avaient rien à craindre des chaleurs de l\'été. Dérivée des rios voisins, les eaux courantes y maintenaient une agréable et saine fraîcheur.
+
+On le voit, ce domaine privé, spécial aux hôtes de Camdless-Bay, c\'était une enclave merveilleusement agencée au milieu du vaste établissement de James Burbank. Ni le tapage des moulins à coton, ni les frémissements des scieries, ni les chocs de la hache sur les troncs d\'arbres, ni aucun de ces bruits que comporte une exploitation si importante, ne parvenaient à franchir les palanques de l\'enceinte. Seuls, les mille oiseaux de l\'ornithologie floridienne pouvaient la dépasser en voltigeant d\'arbre en arbre. Mais ces chanteurs ailés, dont le plumage rivalise avec les étincelantes fleurs de cette zone, n\'étaient pas moins bien accueillis que les parfums dont la brise s\'imprégnait en caressant les prairies et les forêts du voisinage.
+
+Telle était Camdless-Bay, la plantation de James Burbank, et l\'une des plus riches de la Floride orientale.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185102 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182641 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180180 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177719 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175258 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172797 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170336 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167875 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165414 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162953 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160492 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158031 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148761 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146300 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143837 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141376 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138915 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136453 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133992 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131531 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129069 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126608 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124144 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121683 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119222 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116768 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114305 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111844 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109383 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105639 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103177 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100714 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098289 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095820 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093358 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090880 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088417 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083492 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081030 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078569 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076106 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073643 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071177 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043217 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038349 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035984 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033619 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031254 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027698 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025333 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022968 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020602 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018236 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015871 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013506 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011139 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008774 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006409 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004044 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001679 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999314 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996949 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994584 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992219 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989854 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987489 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985122 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982757 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980392 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978027 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 3 -- Où en est la guerre de Sécession]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942046 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-3-où-en-est-la-guerre-de-sécession .calibre171 .sigil_not_in_toc}
+
+Quelques mots sur la guerre de Sécession, à laquelle cette histoire doit être intimement mêlée.
+
+Et, tout d\'abord, que ceci soit bien établi dès le début : ainsi que l\'a dit le comte de Paris, ancien aide de camp du général Mac Clellan, dans sa remarquable Histoire de la guerre civile en Amérique, cette guerre n\'a eu pour cause ni une question de tarifs, ni une différence réelle d\'origine entre le Nord et le Sud. La race anglo-saxonne régnait également sur tout le territoire des États-Unis. Aussi, la question commerciale n\'a-t-elle jamais été en jeu dans cette terrible lutte entre frères. « C\'est l\'esclavage qui, prospérant dans une moitié de la république et aboli dans l\'autre, y avait créé deux sociétés hostiles. Il avait profondément modifié les moeurs de celle où il dominait, tout en laissant intactes les formes apparentes du gouvernement. C\'est lui qui fut non pas le prétexte ou l\'occasion, mais la cause unique de l\'antagonisme dont la conséquence inévitable fut la guerre civile. »
+
+Dans les états à esclaves, il y avait trois classes. En bas, quatre millions de Nègres asservis, soit le tiers de la population. En haut, la caste des propriétaires, relativement peu instruite, riche, dédaigneuse, qui se réservait absolument la direction des affaires publiques. Entre les deux, la classe remuante, paresseuse, misérable, des petits Blancs. Ceux-ci, contre toute attente, se montrèrent ardents pour le maintien de l\'esclavage, par crainte de voir la classe des Nègres affranchis s\'élever à leur niveau.
+
+Le Nord devait donc trouver contre lui non seulement les riches propriétaires, mais aussi ces petits Blancs qui, surtout dans les campagnes, vivaient au milieu de la population serve.
+
+La lutte fut donc effroyable. Elle produisit même dans les familles de telles dissensions que l\'on vit des frères combattre, l\'un sous le drapeau confédéré, l\'autre sous le drapeau fédéral. Mais un grand peuple ne devait pas hésiter à détruire l\'esclavage jusque dans ses racines. Dès le siècle dernier, l\'illustre Franklin en avait demandé l\'abolition. En 1807, Jefferson avait recommandé au Congrès « de prohiber un trafic dont la moralité, l\'honneur et les plus chers intérêts du pays exigeaient depuis longtemps la disparition ». Le Nord eut donc raison de marcher contre le Sud et de le réduire. D\'ailleurs, il allait s\'ensuivre une union plus étroite entre tous les éléments de la république, et la destruction de cette illusion si funeste, si menaçante, que chaque citoyen devait d\'abord obéissance à son propre État, et, seulement en second lieu, à l\'ensemble de la fédération américaine. Or, ce fut précisément en Floride, que se réveillèrent les premières questions relatives à l\'esclavage. Au commencement de ce siècle, un chef indien métis, nommé Osceola, avait pour femme une esclave marronne, née dans ces parties marécageuses du territoire floridien qu\'on nomme Everglades. Un jour, cette femme fut ressaisie comme esclave et emmenée par force. Osceola souleva les Indiens, commença la campagne anti-esclavagiste, fut pris et mourut dans la forteresse où on l\'avait enfermé. Mais la guerre continua, et, dit l\'historien Thomas Higginson, « la somme d\'argent que nécessita une pareille lutte fut trois fois plus considérable que celle qui avait été jadis payée à l\'Espagne pour l\'acquisition de la Floride ».
+
+Voici maintenant quels avaient été les débuts de cette guerre de Sécession ; puis quel était l\'état des choses pendant ce mois de février 1862, époque où James Burbank et sa famille allaient éprouver des contrecoups si terribles qu\'il nous a paru intéressant d\'en avoir fait l\'objet de cette histoire.
+
+Le 16 octobre 1859, l\'héroïque capitaine John Brown, à la tête d\'une petite troupe d\'esclaves fugitifs, s\'empare de Harpers-Ferry en Virginie. L\'affranchissement des hommes de couleur, tel est son but. Il le proclame hautement. Vaincu par les compagnies de la milice, il est fait prisonnier, condamné à mort et pendu à Charlestown, le 2 décembre 1859, avec six de ses compagnons.
+
+Le 20 décembre 1860, une convention se réunit dans la Caroline du Sud et adopte d\'enthousiasme le décret de sécession. L\'année suivante, le 4 mars 1861, Abraham Lincoln est nommé président de la république. Les états du Sud regardent sou élection comme une menace pour l\'institution de l\'esclavage. Le 11 avril 1861, le fort Sumter, un de ceux qui défendent la rade de Charlestown, tombe au pouvoir des sudistes, commandés par le général Beauregard. La Caroline du Nord, la Virginie, l\'Arkansas, le Tennessee, adhèrent aussitôt à l\'acte séparatiste.
+
+Soixante-quinze mille volontaires sont levés par le gouvernement fédéral. Tout d\'abord, on s\'occupe de mettre Washington, la capitale des États-Unis d\'Amérique, à l\'abri d\'un coup de main des confédérés. On ravitaille les arsenaux du Nord qui étaient vides, alors que ceux du Sud avaient été largement approvisionnés sous la présidence de Buchanan. Le matériel de guerre se complète au prix des plus extraordinaires efforts. Puis, Abraham Lincoln déclare les ports du Sud en état de blocus.
+
+C\'est en Virginie que se passent les premiers faits de guerre. Mac Clellan repousse les rebelles dans l\'Ouest. Mais, le 21 juillet, à Bull-Run, les troupes fédérales, réunies sous les ordres de Mac Dowel, sont mises en déroute et s\'enfuient jusqu\'à Washington.
+
+
+Cependant, cette année-là, les corsaires esclavagistes ont couru les mers des deux mondes. Ils ont trouvé accueil dans les ports de la France, de l\'Angleterre, de l\'Espagne et du Portugal, -- faute grave qui, en reconnaissant aux sécessionnistes les droits de belligérants, eut pour résultat d\'encourager la course et de prolonger la guerre civile.
+
+Puis, vinrent les faits maritimes qui eurent un si grand retentissement. C\'est le Sumter et son fameux capitaine Semmes. C\'est l\'apparition du bélier Manassas. C\'est, le 12 octobre, le combat naval à la tête des passes du Mississipi. C\'est, le 8 novembre, la prise du Trent, navire anglais à bord duquel le capitaine Wilkes capture les commissaires confédérés -- ce gui faillit amener la guerre entre l\'Angleterre et les États-Unis.
+
+Entre-temps, les abolitionnistes et les esclavagistes se livrent de sanglants combats avec des alternatives de succès et de revers jusque dans l\'État du Missouri. Des principaux généraux du Nord, l\'un, Lyon, est tué, ce qui provoque la retraite des fédéraux à Rolla et la marche de Price avec les troupes confédérées vers le Nord.
+
+On se bat à Frederictown, le 21 octobre, à Springfield, le 25, et, le 27, Frémont occupe cette ville avec les fédéraux. Au 19 décembre, le combat de Belmont, entre Grant et Polk, demeure incertain. Enfin, l\'hiver, si rigoureux dans ces contrées de l\'Amérique septentrionale, vient mettre un terme aux opérations.
+
+Les premiers mois de l\'année 1862 sont employés en efforts véritablement prodigieux de part et d\'autre.
+
+
+Au Sud, le zèle n\'est pas moins grand.
+
+Il y a bien les fonderies de canon de la Nouvelle-Orléans, celles de Memphis, les forges de Tredogar, près de Richmond, qui fabriquent des Parrotts et des Rodmans. Mais cela ne peut suffire. Le gouvernement confédéré s\'adresse à l\'Europe. Liège et Birmingham lui envoient des cargaisons d\'armes, des pièces des systèmes Armstrong et Whitworth. Les forceurs de blocus, qui viennent chercher à vil prix du coton dans ses ports, n\'en obtiennent qu\'en échange de tout ce matériel de guerre. Puis l\'armée s\'organise. Ses généraux sont Johnston, Lee, Beauregard, Jackson, Critenden, Floyd, Pillow. On adjoint des corps irréguliers, tels que milices et guérillas, aux quatre cent mille volontaires, enrôlés pour trois ans au plus et un an au moins, que le Congrès séparatiste, à la date du 8 août, accorde à son président Jefferson Davis.
+
+Cependant ces préparatifs n\'empêchent pas la lutte de reprendre dès la seconde moitié du premier hiver. De tout le territoire à esclaves, le gouvernement fédéral n\'occupe encore que le Maryland, la Virginie occidentale, le Kentucky en quelques portions, le Missouri pour la plus grande part, et un certain nombre de points du littoral.
+
+Les nouvelles hostilités commencent d\'abord dans l\'est du Kentucky. Le 7 janvier, Garfield bat les confédérés à Middle-Creek, et le 20, ils sont de nouveau battus à Logan-Cross ou Mill-Springs. Le 2 février, Grant s\'embarque avec deux divisions sur quelques grands vapeurs du Tennessee que va soutenir la flottille cuirassée de Foote. Le 6, le fort Henry tombe en son pouvoir. Ainsi est brisé un anneau de cette chaîne « sur laquelle, dit l\'historien de cette guerre civile, s\'appuyait tout le système de défense de son adversaire Johnston ».
+
+Le Cumberland et la capitale du Tennessee sont donc menacés directement et à court délai par les troupes fédérales. Aussi Johnston cherche-t-il à concentrer toutes ses forces au fort Donelson, afin de retrouver un point d\'appui plus sûr pour la défensive.
+
+À cette époque, une autre expédition, comprenant un corps de seize mille hommes sous les ordres de Burnside, une flottille composée de vingt-quatre vapeurs armés en guerre et de cinquante transports, descend la Chesapeake et appareille de Hampton-Roads, le 12 janvier. Malgré de violentes tempêtes le 24 janvier, elle donne dans les eaux du Pimlico-Sound pour s\'emparer de l\'île Roanoke et réduire la côte de la Caroline du Nord. Mais l\'île est fortifiée. À l\'ouest, le canal se défend par un barrage de coques submergées. Des batteries et des ouvrages de campagne en rendent l\'accès difficile. Cinq à six mille hommes, soutenus par une flottille de sept canonnières, sont prêts à empêcher tout débarquement. Néanmoins, malgré le courage de ses défenseurs, du 7 au 8 février, cette île tombe au pouvoir de Burnside avec vingt canons et. Plus de deux mille prisonniers. Le lendemain, les fédéraux sont maîtres d\'Elizabeth-City et de toute la côte de l\'Albemarle-Sound, c\'est-à-dire du nord de cette mer intérieure.
+
+Enfin, pour achever de décrire la situation jusqu\'au 6 février, il faut parler de ce général sudiste, cet ancien professeur de chimie, Jackson, ce soldat puritain qui défend la Virginie. Après le rappel de Lee à Richmond, il commande l\'armée. Il quitte Vinchester, le 1er janvier, avec ses dix mille hommes, traverse les Alleghanies pour prendre Bath sur le railway de l\'Ohio. Vaincu par le climat, écrasé par les tempêtes de neige, il est forcé de rentrer à Vinchester, sans avoir atteint son objectif.
+
+Et maintenant, en ce qui concerne plus spécialement les côtes du Sud, depuis la Caroline jusqu\'à la Floride, voici ce qui s\'est passé.
+
+Durant la seconde moitié de l\'année 1861, le Nord possédait assez de rapides bâtiments pour faire la police de ces mers, bien qu\'il n\'eût pu s\'emparer du fameux Sumter, qui, en janvier 1862, vint relâcher à Gibraltar, afin d\'exploiter les eaux européennes. Le Jefferson-Davis, voulant échapper aux fédéraux, se réfugie à Saint-Augustine en Floride et périt au moment où il donne dans les passes. Presque en même temps, un des navires employés à la croisière de la Floride, l\'Anderson, capture le corsaire Beauregard. Mais, en Angleterre, de nouveaux bâtiments sont armés pour la course. C\'est alors qu\'une proclamation d\'Abraham Lincoln étend le blocus aux côtes de la Virginie et de la Caroline du Nord, et même le blocus fictif, le blocus sur le papier, qui comprend quatre mille cinq cents kilomètres de côtes. Pour les surveiller, on n\'a que deux escadres : l\'une doit bloquer l\'Atlantique, l\'autre le golfe du Mexique.
+
+Le 12 octobre, pour la première fois, les confédérés tentent de dégager les bouches du Mississipi avec le Manassas -- premier navire qui fut blindé pendant cette guerre -- soutenu d\'une flottille de brûlots. Si le coup ne réussit pas, si la corvette Richmond peut s\'en tirer saine et sauve le 29 décembre, un petit vapeur, le Sea-Bird, parvient à enlever une goélette fédérale en vue du fort Monroe.
+
+Cependant, il est nécessaire d\'avoir un point qui puisse servir de base d\'opération pour les croisières de l\'Atlantique. Le gouvernement fédéral décide alors de s\'emparer du fort Hatteras, qui commande la passe du même nom, passe très fréquentée par les forceurs de blocus. Ce fort est difficile à prendre. Il est soutenu par une redoute carrée, appelée fort Clark. Un millier d\'hommes et le 7e régiment de la Caroline du Nord concourent à le défendre. N\'importe. L\'escadre fédérale, composée de deux frégates, trois corvettes, un aviso, deux grands vapeurs, vient mouiller le 27 août devant les passes. Le commodore Stringham et le général Butler attaquent. La redoute est prise. Le fort Hatteras, après une assez longue résistance, hisse le drapeau blanc. La base d\'opération est acquise aux nordistes pour toute la durée de la guerre.
+
+En novembre, c\'est l\'île de Santa-Rosa, à l\'est de Pensacola, sur le golfe du Mexique, une dépendance de la côte floridienne, qui, malgré les efforts des confédérés, reste au pouvoir des fédéraux.
+
+Toutefois, la prise du fort Hatteras ne paraît pas suffisante pour la bonne conduite des opérations ultérieures. Il faut occuper d\'autres points sur le littoral de la Caroline du Sud, de la Georgie, de la Floride. Deux frégates à vapeur, le Wasbah et le Susquehannah, trois frégates à voiles, cinq corvettes, six canonnières, plusieurs avisos, vingt-cinq bâtiments charbonniers chargés des approvisionnements, trente-deux vapeurs pouvant transporter quinze mille six cents hommes sous les ordres du général Sherman, sont donnés au commodore Dupont. La flottille appareille le 25 octobre, devant le fort Monroe. Après avoir essuyé un terrible coup de vent au large du cap Hatteras, elle vient reconnaître les passes de Hilton-Head, entre Charlestown et Savannah. Là est la baie de Port-Royal, l\'une des plus importantes de la confédération américaine, où le général Ripley commande les forces des esclavagistes. Les deux forts Walker et Beauregard battent l\'entrée de la baie à quatre mille mètres l\'un de l\'autre.
+
+Huit vapeurs la défendent, et sa barre la rend presque inabordable à une flotte d\'assaillants.
+
+Le 5 novembre, le chenal a été balisé, et, après un échange de quelques coups de canon, Dupont pénètre dans la baie, sans pouvoir débarquer encore les troupes de Sherman. Le 7, avant midi, il attaque le fort Walker, puis le fort Beauregard. Il les écrase sous une grêle de ses plus gros obus. Les forts sont évacués. Les fédéraux en prennent possession presque sans combat, et Sherman occupe ce point si important pour la suite des opérations militaires. C\'était un coup porté au coeur même des états esclavagistes. Les îles voisines tombent l\'une après l\'autre au pouvoir des fédéraux, même l\'île Tybee et le fort Pulaski, lequel commande la rivière de Savannah. L\'année finie, Dupont est maître des cinq grandes baies de
+
+North-Edisto, de Saint-Helena, de Port-Royal, de Tybee, de Warsaw, et de tout ce chapelet d\'îlots semés sur la côte de la Caroline et de la Georgie. Enfin, le 1er janvier 1862, un dernier succès lui permet de réduire les ouvrages confédérés, élevés sur les rives du Coosaw.
+
+Telle était la situation des belligérants au commencement de février de l\'année 1862. Tels étaient les progrès du gouvernement fédéral vers le Sud, au moment où les navires du commodore Dupont et les troupes de Sherman menaçaient la Floride.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185103 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177720 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175259 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172798 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170337 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167876 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158032 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148762 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146301 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143838 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141377 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138916 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136454 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133993 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131532 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129070 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126609 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124145 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121684 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119223 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116769 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114306 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111845 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109384 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105640 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100715 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098290 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095821 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093359 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090881 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088418 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085956 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081031 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078570 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076107 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073644 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043218 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038350 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035985 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033620 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031255 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027699 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025334 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022969 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020603 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018237 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015872 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013507 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011140 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008775 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006410 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004045 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001680 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999315 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996950 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994585 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992220 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989855 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987490 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985123 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982758 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980393 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978028 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 4 -- La famille Burbank]{.pcalibre lang="X-NONE"}]{#_Toc342942047 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4-la-famille-burbank .calibre171 .sigil_not_in_toc}
+
+Il était sept heures et quelques minutes, lorsque James Burbank et Edward Carrol montèrent les marches du perron sur lequel s\'ouvrait la porte principale de Castle-House, du côté du Saint-John. Zermah, tenant la fillette par la main, le gravit après eux. Tous se trouvèrent dans le hall, sorte de grand vestibule, dont le fond, arrondi en dôme, contenait la double révolution du grand escalier qui desservait les étages supérieurs.
+
+Mme Burbank était là, en compagnie de Perry, le régisseur général de la plantation.
+
+« Il n\'y a rien de nouveau à Jacksonville ?
+
+--- Rien, mon ami.
+
+--- Et pas de nouvelles de Gilbert ?
+
+--- Si\... Une lettre !
+
+--- Dieu soit loué ! »
+
+Telles furent les premières demandes et réponses échangées entre Mme Burbank et son mari.
+
+James Burbank, après avoir embrassé sa femme et la petite Dy, décacheta la lettre qui venait de lui être remise.
+
+Cette lettre n\'avait point été ouverte en l\'absence de James Burbank. Étant donné la situation de celui qui l\'écrivait et de celle de sa famille en Floride, Mme Burbank avait voulu que son mari fût le premier à connaître ce qu\'elle contenait.
+
+« Cette lettre, sans doute, n\'est pas venue par la poste ? demanda James Burbank.
+
+--- Oh ! Non, monsieur James ! répondit Perry. C\'eût été trop imprudent de la part de M. Gilbert !
+
+--- Et qui s\'est chargé de l\'apporter ?
+
+--- Un homme de la Georgie sur le dévouement duquel notre jeune lieutenant a cru pouvoir compter.
+
+--- Quel jour est arrivée cette lettre ?
+
+--- Hier.
+
+--- Et l\'homme ?
+
+--- Il est reparti le soir même.
+
+--- Bien payé de son service ?
+
+--- Oui, mon ami, bien payé, répondit Mme Burbank, mais par Gilbert, et il n\'a rien voulu recevoir de notre part ».
+
+Le hall était éclairé par deux lampes posées sur une table de marbre, devant un large divan. James Burbank alla s\'asseoir près de cette table. Sa femme et sa fille prirent place auprès de lui. Edward Carrol, après avoir serré la main à sa soeur, s\'était jeté dans un fauteuil. Zermah et Perry se tenaient debout près de l\'escalier. Tous deux étaient assez de la famille pour que la lettre pût être lue en leur présence.
+
+James Burbank l\'avait ouverte.
+
+« Elle est du 3 février, dit-il.
+
+--- Déjà quatre jours de date ! répondit Edward Carrol. C\'est long dans les circonstances où nous sommes\...
+
+--- Lis donc, père, lis donc ! » s\'écria la petite fille avec une impatience bien naturelle à son âge.
+
+Voici ce que disait cette lettre :
+
+« À bord du Wabash, au mouillage d\'Edisto.
+
+« 3 février 1862.
+
+« Cher père,
+
+« Je commence par embrasser ma mère, ma petite soeur et toi. Je n\'oublie pas non plus mon oncle Carrol, et, pour ne rien omettre, j\'envoie à la bonne Zermah toutes les tendresses de son mari, mon brave et dévoué Mars. Nous allons tous les deux aussi bien que possible, et nous avons une fière envie d\'être près de vous ! Cela ne tardera pas, dût nous maudire monsieur Perry, qui, en voyant les progrès du Nord, doit pester comme un entêté esclavagiste qu\'il est, le digne régisseur ! »
+
+--- Voilà pour vous, Perry, dit Edward Carrol.
+
+--- Chacun a ses idées là-dessus ! » répondit M. Perry, en homme qui n\'entend point sacrifier les siennes.
+
+James Burbank continua :
+
+
+« Que j\'ai hâte d\'être là, cher père, et surtout avec notre flottille victorieuse ! La situation de ma famille, au milieu de cette population esclavagiste, m\'inquiète toujours. Mais le moment approche où nous pourrons faire hautement triompher les idées qui ont toujours eu cours à la plantation de Camdless-Bay.
+
+« Ah ! Si je pouvais m\'échapper, ne fût-ce que vingt-quatre heures, comme j\'irais vous voir ! Non ! Ce serait trop imprudent pour vous comme pour moi, et mieux vaut prendre patience. Encore quelques semaines, et nous serons tous réunis à Castle-House !
+
+« Et maintenant je termine en me demandant si je n\'ai oublié personne dans mes embrassades. Si, vraiment ! J\'ai oublié monsieur Stannard et ma charmante Alice qu\'il me tarde tant de revoir ! Toutes mes amitiés à son père, et à elle, plus que mes amitiés !
+
+« Respectueusement et de tout coeur,
+
+« GILBERT BURBANK. »
+
+James Burbank avait posé sur la table la lettre que Mme Burbank prit alors et porta à ses lèvres. Puis, la petite Dy mit franchement un gros baiser sur la signature de son frère.
+
+« Brave garçon ! dit Edward Carrol.
+
+--- Et brave Mars ! ajouta Mme Burbank, en regardant Zermah, qui serrait la fillette dans ses bras.
+
+--- Il faudra prévenir Alice, ajouta Mme Burbank, que nous avons reçu une lettre de Gilbert.
+
+--- Oui ! Je lui écrirai, répondit James Burbank. D\'ailleurs, dans quelques jours, je dois aller à Jacksonville, et je verrai Stannard. Depuis que Gilbert a écrit cette lettre, d\'autres nouvelles ont pu venir au sujet de l\'expédition projetée. Ah ! Qu\'ils arrivent donc enfin, nos amis du Nord, et que la Floride rentre sous le drapeau de l\'Union ! Ici, notre situation finirait par n\'être plus tenable ! »
+
+En effet, depuis que la guerre se rapprochait du Sud, une modification manifeste s\'opérait en Floride sur la question qui mettait les États-Unis aux prises. Jusqu\'à cette époque, l\'esclavage ne s\'était pas considérablement développé dans cette ancienne colonie espagnole qui n\'avait pas pris part au mouvement avec la même ardeur que la Virginie ou les Carolines. Mais des meneurs s\'étaient bientôt mis à la tête des partisans de l\'esclavage. Maintenant, ces gens, prêts à l\'émeute, ayant tout à gagner dans les troubles, dominaient les autorités à Saint-Augustine et principalement à Jacksonville où ils s\'appuyaient sur la plus vile populace.
+
+C\'est pourquoi cette situation de James Burbank, dont on connaissait l\'origine et les idées, pouvait à un certain moment devenir très inquiétante. Il y avait près de vingt ans que James Burbank, après avoir quitté le New-Jersey où il possédait encore quelques propriétés, était venu s\'établir à Camdless-Bay avec sa femme et son fils âgé de quatre ans. On sait combien la plantation avait prospéré, grâce à son intelligente activité et au concours d\'Edward Carrol, son beau-frère. Aussi avait-il pour ce grand établissement qui lui venait de ses ancêtres, un attachement inébranlable. C\'était là qu\'était né son second enfant, la petite Dy, quinze ans après son installation dans ce domaine.
+
+James Burbank avait alors quarante-six ans. C\'était un homme fortement constitué, habitué au travail, ne s\'épargnant guère. On le savait d\'un caractère énergique. Très attaché à ses opinions, il ne se gênait point de les faire hautement connaître. Grand, grisonnant à peine, il avait une figure un peu sévère, mais franche et encourageante. Avec la barbiche des Américains du Nord, sans favoris et sans moustache, c\'était bien le type du yankee de la Nouvelle-Angleterre. Dans toute la plantation, on l\'aimait, car il était bon, on lui obéissait, car il était juste. Ses Noirs lui étaient profondément dévoués, et il attendait, non sans impatience, que les circonstances lui permissent de les affranchir. Son beau-frère, à peu près du même âge, s\'occupait plus spécialement de la comptabilité de Camdless-Bay. Edward Carrol s\'entendait parfaitement avec lui en toutes choses, et partageait sa manière de voir sur la question de l\'esclavage.
+
+Il n\'y avait donc que le régisseur Perry qui fût d\'un avis contraire au milieu de ce petit monde de Camdless-Bay.
+
+Il ne faudrait pas croire pourtant que ce digne homme maltraitât les esclaves. Bien au contraire. Il cherchait même à les rendre aussi heureux que le comportait leur condition.
+
+« Mais, disait-il, il y a des contrées, dans les pays chauds, où les travaux de la terre ne peuvent être confiés qu\'à des Noirs. Or, des Noirs, qui ne seraient pas esclaves, ne seraient plus des Noirs ! »
+
+Telle était sa théorie qu\'il discutait toutes les fois que l\'occasion s\'en présentait. On la lui passait volontiers, sans en jamais tenir compte. Mais, à voir le sort des armes qui favorisait les anti-esclavagistes, Perry ne dérageait plus. Il « s\'en passerait de belles » à Camdless-Bay, quand M. Burbank aurait affranchi ses Nègres.
+
+On le répète, c\'était un excellent homme, très courageux aussi. Et quand James Burbank et Edward Carrol avaient fait partie de ce détachement de la milice, nommé les « minute-men » les hommes-minutes, parce qu\'ils devaient être prêts à partir à tout instant, il s\'était bravement joint à eux contre les dernières bandes des Séminoles.
+
+Mme Burbank, à cette époque ne portait pas les trente-neuf ans de son âge. Elle était encore fort belle. Sa fille devait lui ressembler un jour. James Burbank avait trouvé en elle une compagne aimante, affectueuse, à laquelle il devait pour une grande part le bonheur de sa vie. La généreuse femme n\'existait que pour son mari, pour ses enfants qu\'elle adorait et au sujet desquels elle éprouvait les plus vives craintes, étant donné les circonstances qui allaient amener la guerre civile jusqu\'en Floride. Et si Diana, ou mieux Dy, comme on l\'appelait familièrement, fillette de six ans, gaie, caressante, tout heureuse de vivre, demeurait à Castle-House près de sa mère, Gilbert n\'y était plus.
+
+De là, d\'incessantes angoisses que Mme Burbank ne pouvait pas toujours dissimuler.
+
+Gilbert était un jeune homme, ayant alors vingt-quatre ans, dans lequel on retrouvait les qualités morales de son père avec un peu plus d\'épanchement, et les qualités physiques avec un peu plus de grâce et de charme. Un hardi compagnon, d\'ailleurs, très rompu à tous les exercices du corps, très habile aussi en équitation comme en navigation ou en chasse. À la grande terreur de sa mère, les immenses forêts et les marais du comté de
+
+Duval avaient été trop souvent le théâtre de ses exploits non moins que les criques et les passes du Saint-John, jusqu\'à l\'extrême bouche de Pablo. Aussi, Gilbert se trouvait-il naturellement entraîné et fait à toutes les fatigues du soldat, quand furent tirés les premiers coups de feu de la guerre de Sécession. Il comprit que son devoir l\'appelait parmi les troupes fédérales et n\'hésita pas. Il demanda à partir. Quelque chagrin que cela dût causer à sa femme, quelque danger même que pût comporter cette situation, James Burbank ne songea pas un instant à contrarier le désir de son fils. Il pensa, comme lui, que c\'était là un devoir et le devoir est au-dessus de tout.
+
+Gilbert partit donc pour le Nord, mais son départ fut tenu aussi secret que possible. Si l\'on eût su à Jacksonville que le fils de James Burbank avait pris du service dans l\'armée nordiste, cela eût pu attirer des représailles sur Camdless-Bay. Le jeune homme avait été recommandé à des amis que son père avait encore dans l\'État de New-Jersey. Ayant toujours montré du goût pour la mer, on lui procura facilement un engagement dans la marine fédérale. On avançait rapidement en ce temps-là, et comme Gilbert n\'était pas de ceux qui restent en arrière, il marcha d\'un bon pas.
+
+Le gouvernement de Washington avait les yeux sur ce jeune homme qui, dans la position où se trouvait sa famille, n\'avait pas craint de venir lui offrir ses services. Gilbert se distingua à l\'attaque du fort Sumter. Il était sur le Richmond, lorsque ce navire fut abordé par le Manassas à l\'embouchure du Mississipi, et il contribua largement pour sa part à le dégager et à le reprendre. Après cette affaire, il fut promu enseigne, bien qu\'il ne sortît pas de l\'école navale d\'Annapolis, pas plus que tous ces officiers improvisés qui furent empruntés au commerce. Avec son nouveau grade, il entra dans l\'escadre du commodore Dupont, il assista aux brillantes affaires du fort Hatteras, puis à la prise des Seas-Islands. Depuis quelques semaines, il était lieutenant à bord d\'une des canonnières du commodore Dupont qui allaient bientôt forcer les passes du Saint-John.
+
+Oui ! Ce jeune homme, lui aussi, avait grande hâte que cette guerre sanglante prît fin ! Il aimait, il était aimé. Son service terminé, il lui tardait de revenir à Camdless-Bay, où il devait épouser la fille de l\'un des meilleurs amis de son père.
+
+M. Stannard n\'appartenait point à la classe des colons de la Floride. Resté veuf avec quelque fortune, il avait voulu se consacrer entièrement à l\'éducation de sa fille. Il habitait Jacksonville, d\'où il n\'avait que trois à quatre milles de fleuve à remonter pour se rendre à Camdless-Bay. Depuis quinze ans, il ne se passait pas de semaine qu\'il ne vînt rendre visite à la famille Burbank. On peut donc dire que Gilbert et Alice Stannard furent élevés ensemble. De là, un mariage projeté de longue date, maintenant décidé, qui devait assurer le bonheur des deux jeunes gens.
+
+Bien que Walter Stannard fût originaire du Sud, il était anti-esclavagiste, ainsi que quelques-uns de ses concitoyens en Floride ; mais ceux-ci n\'étaient pas assez nombreux pour tenir tête à la majorité des colons et des habitants de Jacksonville, dont les opinions tendaient à s\'accuser chaque jour davantage en faveur du mouvement séparatiste. Il s\'ensuivait que ces honnêtes gens commençaient à être fort mal vus des meneurs du comté, des petits Blancs surtout et de la populace, prête à les suivre dans tous les excès.
+
+Walter Stannard était un Américain, de la Nouvelle-Orléans. Mme Stannard, d\'origine française, morte fort jeune, avait légué à sa fille les qualités généreuses qui sont particulières au sang français. Au moment du départ de Gilbert, Miss Alice avait montré une grande énergie, consolant et rassurant Mme Burbank. Bien qu\'elle aimât Gilbert comme elle en était aimée, elle ne cessait de répéter à sa mère que partir était un devoir, que se battre pour cette cause, c\'était se battre pour l\'affranchissement d\'une race humaine, et, en somme, pour la liberté. Miss Alice avait alors dix-neuf ans. C\'était une jeune fille blonde aux yeux presque noirs, au teint chaud, d\'une taille élégante, d\'une physionomie distinguée. Peut-être était-elle un peu sérieuse, mais si mobile d\'expression que le moindre sourire transformait son joli visage.
+
+Véritablement, la famille Burbank ne serait pas connue dans tous ses membres les plus fidèles, si l\'on omettait de peindre en quelques traits les deux serviteurs, Mars et Zermah.
+
+On l\'a vu par sa lettre, Gilbert n\'était pas parti seul. Mars, le mari de Zermah, l\'avait accompagné. Le jeune homme n\'eût pas trouvé un compagnon plus dévoué à sa personne que cet esclave de Camdless-Bay, devenu libre en mettant le pied sur les territoires anti-esclavagistes.
+
+Mais, pour Mars, Gilbert était toujours son jeune maître, et il n\'avait pas voulu le quitter, bien que le gouvernement fédéral eût déjà formé des bataillons noirs où il eût trouvé sa place.
+
+Mars et Zermah n\'étaient point de race nègre par leur naissance. C\'étaient deux métis. Zermah avait pour frère cet héroïque esclave, Robert Small, qui, quatre mois plus tard, allait enlever aux confédérés, dans la baie même de Charlestown, un petit vapeur armé de deux canons dont il fit hommage à la flotte fédérale.
+
+Zermah avait donc de qui tenir, Mars aussi. C\'était un heureux ménage, que, pendant les premières années, l\'odieux trafic de l\'esclavage avait menacé plus d\'une fois de briser. C\'est même au moment où Mars et Zermah allaient être séparés l\'un de l\'autre par les hasards d\'une vente, qu\'ils étaient entrés à Camdless-Bay dans le personnel de la plantation.
+
+Voici en quelles circonstances :
+
+Zermah avait actuellement trente et un ans, Mars trente-cinq. Sept ans auparavant, ils s\'étaient mariés alors qu\'ils appartenaient à un certain colon nommé Tickborn, dont l\'établissement se trouvait à une vingtaine de milles en amont de Camdless-Bay. Depuis quelques années, ce colon avait eu des rapports fréquents avec Texar. Celui-ci rendait souvent visite à la plantation où il trouvait bon accueil. Rien d\'étonnant à cela, puisque Tickborn, en somme, ne jouissait d\'aucune estime dans le comté. Son intelligence étant fort médiocre, ses affaires n\'ayant point prospéré, il fut obligé de mettre en vente un lot de ses esclaves.
+
+Précisément, à cette époque, Zermah, très maltraitée comme tout le personnel de la plantation Tickborn, venait de mettre au monde un pauvre petit être, dont elle fut presque aussitôt séparée.
+
+Pendant qu\'elle expiait en prison une faute dont elle n\'était même pas coupable, son enfant mourut entre ses bras. On juge ce que fut la douleur de Zermah, ce que fut la colère de Mars. Mais que pouvaient ces malheureux contre un maître auquel leur chair appartenait, morte ou vivante, puisqu\'il l\'avait achetée ?
+
+Or, à ce chagrin allait s\'en joindre un autre non moins terrible. En effet, le lendemain du jour où leur enfant était mort, Mars et Zermah, ayant été mis à l\'encan, étaient menacés d\'être séparés l\'un de l\'autre. Oui ! Cette consolation de se retrouver ensemble sous un nouveau maître, ils ne devaient même pas l\'avoir. Un homme s\'était présenté, qui offrait d\'acheter Zermah, mais Zermah seule, bien qu\'il ne possédât pas de plantation. Un caprice, sans doute ! Et cet homme, c\'était Texar. Son ami Tickborn allait donc passer contrat avec lui, quand, au dernier moment, il se produisit une surenchère de la part d\'un nouvel acheteur.
+
+C\'était James Burbank qui assistait à cette vente publique des esclaves de Tickborn et s\'était senti très touché du sort de la malheureuse métisse, suppliant en vain qu\'on ne la séparât pas de son mari. Précisément, James Burbank avait besoin d\'une nourrice pour sa petite fille. Ayant appris qu\'une des esclaves de Tickborn, dont l\'enfant venait de mourir, se trouvait dans les conditions voulues, il ne songeait qu\'à acheter la nourrice ; mais, ému des pleurs de Zermah, il n\'hésita pas à proposer de son mari et d\'elle un prix supérieur à tous ceux qu\'on avait offerts jusqu\'alors.
+
+Texar connaissait James Burbank, qui l\'avait plusieurs fois déjà chassé de son domaine, comme un homme d\'une réputation suspecte.
+
+C\'est même de là que datait la haine que Texar avait vouée à toute la famille de Camdless-Bay.
+
+Texar voulut donc lutter contre son riche concurrent : ce fut en vain. Il s\'entêta. Il fit monter au double le prix que Tickborn demandait de la métisse et de son mari. Cela ne servit qu\'à les faire payer très cher à James Burbank. Finalement, le couple lui fut adjugé.
+
+Ainsi, non seulement Mars et Zermah ne seraient pas séparés l\'un de l\'autre, mais ils allaient entrer au service du plus généreux des colons de toute la Floride. Quel adoucissement ce fut à leur malheur, et avec quelle assurance ils pouvaient maintenant envisager l\'avenir !
+
+Zermah, six ans après, était encore dans toute la maturité de sa beauté de métisse. Nature énergique, coeur dévoué à ses maîtres, elle avait eu plus d\'une fois l\'occasion -- elle devait l\'avoir dans la suite -- de leur prouver son dévouement. Mars était digne de la femme à laquelle l\'acte charitable de James Burbank l\'avait pour jamais rattaché. C\'était un type remarquable de ces Africains, auxquels s\'est largement mêlé le sang créole. Grand, robuste, d\'un courage à toute épreuve, il devait rendre de véritables services à son nouveau maître.
+
+D\'ailleurs, ces deux nouveaux serviteurs, adjoints au personnel de la plantation, ne furent pas traités en esclaves. Ils avaient été vite appréciés pour leur bonté et leur intelligence. Mars fut spécialement affecté au service du jeune Gilbert. Zermah devint la nourrice de Diana. Cette situation ne pouvait que les introduire plus profondément dans l\'intimité de la famille.
+
+Zermah ressentit d\'ailleurs pour la petite fille un amour de mère, cet amour qu\'elle ne pouvait plus reporter sur l\'enfant qu\'elle avait perdu.
+
+Dy le lui rendit bien, et l\'affection de l\'une avait toujours répondu aux soins maternels de l\'autre. Aussi, Mme Burbank éprouvait-elle pour Zermah autant d\'amitié que de reconnaissance.
+
+Mêmes sentiments entre Gilbert et Mars. Adroit et vigoureux, le métis avait heureusement contribué à rendre son jeune maître habile à tous les exercices du corps. James Burbank ne pouvait que s\'applaudir de l\'avoir attaché à son fils.
+
+Ainsi, en aucun temps, la situation de Zermah et de Mars n\'avait été si heureuse, et cela, au sortir des mains d\'un Tickborn, après avoir risqué de tomber dans celles d\'un Texar. -- Ils ne devaient jamais l\'oublier.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185104 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182643 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180182 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177721 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175260 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172799 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170338 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167877 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165416 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160494 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158033 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148763 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146302 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143839 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141378 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138917 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136455 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133994 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131533 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129071 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126610 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124146 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121685 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119224 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116770 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114307 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111846 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109385 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105641 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100716 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098291 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095822 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093360 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090882 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088419 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085957 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083494 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081032 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078571 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076108 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073645 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071179 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043219 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038351 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035986 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033621 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031256 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027700 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025335 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022970 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020604 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018238 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015873 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013508 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011141 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008776 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006411 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004046 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001681 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999316 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996951 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994586 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992221 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989856 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987491 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985124 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982759 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980394 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978029 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 5 -- La Crique-Noire]{.pcalibre lang="X-NONE"}]{#_Toc342942048 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-5-la-crique-noire .calibre171 .sigil_not_in_toc}
+
+Le lendemain, aux premières lueurs de l\'aube, un homme se promenait sur la berge de l\'un des îlots perdus au fond de cette lagune de la Crique-Noire. C\'était Texar. À quelques pas de lui, un Indien, assis dans le squif qui avait accosté la veille le Shannon, venait d\'aborder. C\'était Squambô.
+
+Après quelques allées et venues, Texar s\'arrêta devant un magnolier, amena à lui une des basses branches de l\'arbre et en détacha une feuille avec sa tige. Puis, il tira de son carnet un petit billet qui ne contenait que trois ou quatre mots, écrits à l\'encre. Ce billet, après l\'avoir roulé menu, il l\'introduisit dans la nervure inférieure de la feuille. Cela fut fait assez adroitement pour que cette feuille de magnolier n\'eût rien perdu de son aspect habituel.
+
+« Squambô ! dit alors Texar.
+
+--- Maître ? répondit l\'Indien.
+
+--- Va où tu sais. »
+
+Squambô prit la feuille, il la posa à l\'avant du squif, s\'assit à l\'arrière, manoeuvra sa pagaie, contourna la pointe extrême de l\'îlot et s\'enfonça à travers une passe tortueuse, confusément engagée sous l\'épaisse voûte des arbres.
+
+Cette lagune était sillonnée par un labyrinthe de canaux, un enchevêtrement d\'étroits lacets, remplis d\'une eau noire, comparables à ceux qui s\'entrecroisent dans certains « hortillonages » de l\'Europe. Personne, à moins de bien connaître les passes de ce profond déversoir où se perdaient les dérivations du Saint-John, n\'aurait pu s\'y diriger.
+
+Cependant Squambô n\'hésitait pas. Où l\'on n\'eût pas cru apercevoir une issue, il poussait hardiment son squif.
+
+Les basses branches qu\'il écartait, retombaient après lui, et nul n\'eût pu dire qu\'une embarcation venait de passer en cet endroit.
+
+L\'Indien s\'enfonça de la sorte à travers de longs boyaux sinueux, moins larges, parfois, que ces saignées creusées pour assurer le drainage des prairies. Tout un monde d\'oiseaux aquatiques s\'envolait à son approche. De gluantes anguilles, à la tête suspecte, se faufilaient sous les racines qui émergeaient des eaux. Squambô ne s\'inquiétait guère de ces reptiles, non plus que des caïmans endormis qu\'il pouvait réveiller en les heurtant dans leurs couches de vase. Il allait toujours, et, lorsque l\'espace lui manquait pour se mouvoir, il se poussait par l\'extrémité de sa pagaie, comme s\'il se fût servi d\'une gaffe.
+
+S\'il faisait grand jour déjà, si la lourde buée de la nuit commençait à s\'évaporer aux premiers rayons du soleil, on ne pouvait le voir sous l\'abri de cet impénétrable plafond de verdure. Même au plus fort du soleil, aucune lumière n\'aurait pu le percer. D\'ailleurs, ce fond marécageux n\'avait besoin que d\'une demi-obscurité, aussi bien pour les êtres grouillants, qui fourmillaient dans son liquide noirâtre, que pour les mille plantes aquatiques surnageant à sa surface.
+
+Pendant une demi-heure, Squambô alla ainsi d\'un îlot à l\'autre. Lorsqu\'il s\'arrêta, c\'est que son squif venait d\'atteindre un des réduits extrêmes de la crique.
+
+En cet endroit, où finissait la partie marécageuse de cette lagune, les arbres, moins serrés, moins touffus, laissaient enfin passer la lumière du jour. Au-delà s\'étendait une vaste prairie, bordée de forêts, peu élevée au-dessus du niveau du Saint-John.
+
+À peine cinq ou six arbres y poussaient-ils isolément. Le pied, en s\'appuyant sur ce sol bourbeux, éprouvait la sensation que lui eût donnée un matelas élastique. Quelques buissons de sassafras, à maigres feuilles, mélangées de petites baies violettes, traçaient à sa surface leurs capricieux zig zags.
+
+Après avoir amarré son squif à l\'une des souches de la berge, Squambô prit terre. Les vapeurs de la nuit commençaient à se résoudre. La prairie, absolument déserte, sortait peu à peu du brouillard. Parmi les cinq ou six arbres, dont la silhouette se détachait confusément au-dessus, poussait un magnolier de moyenne taille.
+
+L\'Indien se dirigea vers cet arbre. Il l\'atteignit en quelques minutes. Il en abaissa une des branches à l\'extrémité de laquelle il fixa cette feuille que Texar lui avait remise. Puis, la branche, abandonnée à elle-même, remonta, et la feuille alla se perdre dans la ramure du magnolier.
+
+Squambô revint alors vers le squif et reprit direction vers l\'îlot où l\'attendait son maître.
+
+Cette Crique-Noire, ainsi nommée de la sombre couleur de ses eaux, pouvait couvrir une étendue d\'environ cinq à six cents acres. Alimentée par le Saint-John, c\'était une sorte d\'archipel absolument impénétrable à qui n\'en connaissait pas les infinis détours. Une centaine d\'îlots occupaient sa surface. Ni ponts, ni levées ne les reliaient entre eux. De longs cordons de lianes se tendaient de l\'un à l\'autre. Quelques hautes branches s\'entrelaçaient au-dessus des milliers de bras qui les séparaient. Rien de plus. Cela n\'était pas pour établir une communication facile entre les divers points de cette lagune.
+
+Un de ces îlots, situé à peu près au centre du système, était le plus important par son étendue -- une vingtaine d\'acres -- et par son élévation -- cinq à six pieds au-dessus de l\'étiage moyen du Saint-John entre les plus basses et les plus hautes mers.
+
+À une époque déjà reculée, cet îlot avait servi d\'emplacement à un fortin, sorte de blockhaus, maintenant abandonné, du moins au point de vue militaire. Ses palissades, à demi rongées par la pourriture, se dressaient encore sous les grands arbres, magnoliers, cyprès, chênes verts, noyers noirs, pins australs, enlacés de longues guirlandes de coboeas et autres interminables lianes.
+
+Au-dedans de l\'enceinte, l\'oeil découvrait enfin, sous un massif de verdure, les lignes géométriques de ce petit fortin ou, mieux, de ce poste d\'observation, qui n\'avait jamais été fait que pour loger un détachement d\'une vingtaine d\'hommes. Plusieurs meurtrières s\'évidaient à travers ses murailles de bois. Des toits gazonnés le coiffaient d\'une véritable carapace de terre. À l\'intérieur, quelques chambres, ménagées au milieu d\'un réduit central, attenaient à un magasin, destiné aux provisions et aux munitions. Pour pénétrer dans le fortin, il fallait d\'abord franchir l\'enceinte par une étroite poterne, puis traverser la cour plantée de quelques arbres, gravir enfin une dizaine de marches en terre, maintenues par des madriers. On trouvait alors l\'unique porte, qui donnait accès au-dedans, et encore, à vrai dire, n\'était-ce qu\'une ancienne embrasure, modifiée à cet effet.
+
+Telle était la retraite habituelle de Texar, retraite que personne ne connaissait. Là, caché à tous les yeux, il vivait avec ce Squambô, très dévoué à la personne de son maître, mais qui ne valait pas mieux que lui, et cinq à six esclaves qui ne valaient pas mieux que l\'Indien.
+
+Il y avait loin, on le voit, de cet îlot de la Crique-Noire, aux riches établissements créés sur les deux rives du fleuve.
+
+L\'existence même n\'y eût point été assurée pour Texar ni pour ses compagnons, gens peu difficiles cependant. Quelques animaux domestiques, une demi-douzaine d\'acres, plantés de patates, d\'ignames, de concombres, une vingtaine d\'arbres à fruits, presque à l\'état sauvage, c\'était tout, sans compter la chasse dans les forêts voisines et la pêche sur les étangs de la lagune, dont le produit ne pouvait manquer en aucune saison. Mais, sans doute, les hôtes de la Crique-Noire possédaient d\'autres ressources, dont Texar et Squambô avaient seuls le secret.
+
+Quant à la sécurité du blockhaus, n\'était-elle pas assurée par sa situation même, au centre de cet inaccessible repaire ? D\'ailleurs, qui eût cherché à l\'attaquer et pourquoi ? En tout cas, toute approche suspecte eût été immédiatement signalée par les aboiements des chiens de l\'îlot, deux de ces limiers féroces, importés des Caraïbes, qui furent autrefois employés par les Espagnols à la chasse aux Nègres.
+
+Voilà ce qu\'était la demeure de Texar, et digne de lui. Voici maintenant ce qu\'était l\'homme.
+
+Texar avait alors trente-cinq ans. Il était de taille moyenne, d\'une constitution vigoureuse, trempée dans cette vie de grand air et d\'aventures, qui avait toujours été la sienne. Espagnol de naissance, il ne démentait pas son origine. Sa chevelure était noire et rude, ses sourcils épais, ses yeux verdâtres, sa bouche large, avec des lèvres minces et rentrées, comme si elle eût été faite d\'un coup de sabre, son nez court, percé de narines de fauve. Toute sa physionomie indiquait l\'homme astucieux et violent. Autrefois, il portait sa barbe entière ; mais, depuis deux ans, après qu\'elle eut été à demi brûlée d\'un coup de feu dans on ne sait quelle affaire, il l\'avait rasée, et la dureté de ses traits n\'en était que plus apparente.
+
+Une douzaine d\'années avant, cet aventurier était venu se fixer en Floride, et dans ce blockhaus abandonné, dont personne ne songeait à lui disputer la possession. D\'où venait-il ? On l\'ignorait et il ne le disait point. Quelle avait été son existence antérieure ? On ne le savait pas davantage. On prétendait -- et c\'était vrai -- qu\'il avait fait le métier de négrier et vendu des cargaisons de Noirs dans les ports de la Georgie et des Carolines. S\'était-il enrichi à cet odieux trafic ? Il n\'y paraissait guère. En somme, il ne jouissait d\'aucune estime, même dans un pays, où ne manquent cependant point les gens de sa sorte.
+
+Néanmoins, si Texar était fort connu, bien que ce ne fût pas à son avantage, cela ne l\'empêchait pas d\'exercer une réelle influence dans le comté, et particulièrement à Jacksonville. Il est vrai, c\'était sur la partie la moins recommandable de la population du chef-lieu. Il y allait souvent pour des affaires, dont il ne parlait pas. Il s\'y était fait un grand nombre d\'amis parmi les petits Blancs et les plus détestables sujets de la ville. On l\'a bien vu, lorsqu\'il était revenu de Saint-Augustine en compagnie d\'une demi-douzaine d\'individus d\'allure équivoque. Son influence s\'étendait aussi jusque chez certains colons du Saint-John. Il les visitait quelquefois, et, si on ne lui rendait pas ses visites, puisque personne ne connaissait sa retraite de la Crique-Noire, il avait accès dans certaines plantations des deux rives. La chasse était un prétexte naturel à ces relations, qui s\'établissent facilement entre gens de mêmes moeurs et mêmes goûts.
+
+D\'autre part, cette influence s\'était encore accrue depuis quelques années, grâce aux opinions dont Texar avait voulu se faire le plus ardent défenseur. À peine la question de l\'esclavage avait-elle amené la scission entre les deux moitiés des États-Unis, que l\'Espagnol s\'était posé comme le plus opiniâtre, le plus résolu des esclavagistes.
+
+À l\'entendre, aucun intérêt ne pouvait le guider, puisqu\'il ne possédait qu\'une demi-douzaine de Noirs. C\'était le principe même qu\'il prétendait défendre. Par quels moyens ? En faisant appel aux plus exécrables passions, en excitant la cupidité de la populace, en la poussant au pillage, à l\'incendie, même au meurtre, contre les habitants ou colons qui partageaient les idées du Nord. Et maintenant, ce dangereux aventurier ne tendait à rien moins qu\'à renverser les autorités civiles de Jacksonville, à remplacer des magistrats, modérés d\'opinion, estimés pour leur caractère, par les plus forcenés de ses partisans. Devenu le maître du comté, par l\'émeute, il aurait alors le champ libre pour exercer ses vengeances personnelles.
+
+On comprend, dès lors, que James Burbank et quelques autres propriétaires de plantations n\'eussent point négligé de surveiller les agissements d\'un pareil homme, déjà très redoutable par ses mauvais instincts. De là, cette haine d\'un côté, cette défiance de l\'autre, que les prochains événements allaient encore accroître.
+
+Au surplus, dans ce que l\'on croyait savoir du passé de Texar, depuis qu\'il avait cessé de faire la traite, il y avait des faits extrêmement suspects. Lors de la dernière invasion des Séminoles, tout semblait prouver qu\'il avait eu des intelligences secrètes avec eux. Leur avait-il indiqué les coups à faire, quelles plantations il convenait d\'attaquer ? Les avait-il aidés dans leurs guets-apens et embûches ? Cela ne put être mis en doute en plusieurs circonstances, et, à la suite d\'une dernière invasion de ces Indiens, les magistrats durent poursuivre l\'Espagnol, l\'arrêter, le traduire en justice. Mais Texar invoqua un alibi -- système de défense qui, plus tard, devait lui réussir encore -- et il fut prouvé qu\'il n\'avait pu prendre part à l\'attaque d\'une ferme, située dans le comté de Duval, puisque, à ce moment, il se trouvait à Savannah, État de Georgie, à quelque quarante milles vers le nord, en dehors de la Floride.
+
+Pendant les années suivantes, plusieurs vols importants furent commis, soit dans les plantations, soit au préjudice de voyageurs, attaqués sur les routes floridiennes. Texar était-il auteur ou complice de ces crimes ? Cette fois encore, on le soupçonna ; mais, faute de preuve, on ne put le mettre en jugement.
+
+Enfin, une occasion se présenta où l\'on crut avoir pris sur le fait le malfaiteur jusqu\'alors insaisissable. C\'était précisément l\'affaire pour laquelle il avait été mandé la veille devant le juge de Saint-Augustine.
+
+Huit jours auparavant, James Burbank, Edward Carrol et Walter Stannard revenaient de visiter une plantation voisine de Camdless-Bay, quand, vers sept heures du soir, à la tombée de la nuit, des cris de détresse arrivèrent jusqu\'à eux. Ils se hâtèrent de courir vers l\'endroit d\'où venaient ces cris, et ils se trouvèrent devant les bâtiments d\'une ferme isolée.
+
+Ces bâtiments étaient en feu. La ferme avait été préalablement pillée par une demi-douzaine d\'hommes, qui venaient de se disperser. Les auteurs du crime ne devaient pas être loin : on pouvait encore apercevoir deux de ces coquins qui s\'enfuyaient à travers la forêt.
+
+James Burbank et ses amis se jetèrent courageusement à leur poursuite, et précisément dans la direction de Camdless-Bay. Ce fut en vain. Les deux incendiaires parvinrent à s\'échapper à travers le bois. Toutefois MM. Burbank, Carrol et Stannard avaient très certainement reconnu l\'un d\'eux : c\'était l\'Espagnol.
+
+En outre -- circonstance plus probante encore au moment où cet individu disparaissait au tournant d\'une des lisières de Camdless-Bay, Zermah, qui passait, avait failli être heurtée par lui.
+
+Pour elle aussi, c\'était bien Texar qui fuyait à toutes jambes.
+
+Il est facile de l\'imaginer, cette affaire fit grand bruit dans le comté. Un vol, suivi d\'incendie, c\'est le crime qui doit être le plus redouté de ces colons, répartis sur une vaste étendue de territoire. James Burbank n\'hésita donc point à porter une accusation formelle. Devant son affirmation, les autorités résolurent d\'informer contre Texar.
+
+L\'Espagnol fut amené à Saint-Augustine devant le recorder, afin d\'être confronté avec les témoins. James Burbank, Walter Stannard, Edward Carrol, Zermah, furent unanimes à déclarer qu\'ils avaient reconnu Texar dans l\'individu qui fuyait de la ferme incendiée. Pour eux, il n\'y avait pas d\'erreur possible. Texar était l\'un des auteurs du crime.
+
+De son côté, l\'Espagnol avait fait venir un certain nombre de témoins à Saint-Augustine. Or, ces témoins déclarèrent formellement que, ce soir-là, ils se trouvaient avec Texar, à Jacksonville, dans la « tienda » de Torillo, auberge assez mal famée mais fort connue. Texar ne les avait pas quittés de toute la soirée. Détail plus affirmatif encore, à l\'heure où se commettait le crime, l\'Espagnol avait eu précisément une dispute avec un des buveurs installés dans le cabaret de Torillo, -- dispute qui avait été suivie de coups et menaces, pour lesquels il serait sans doute déposé une plainte contre lui. Devant cette affirmation qu\'on ne pouvait suspecter -- affirmation qui fut d\'ailleurs reproduite par des personnes absolument étrangères à Texar -- le magistrat de Saint-Augustine ne put que clore l\'enquête commencée et renvoyer le prévenu des fins de la plainte.
+
+L\'alibi avait donc été pleinement établi, cette fois encore, au profit de cet étrange personnage.
+
+C\'est après cette affaire et en compagnie de ses témoins que Texar était revenu de Saint-Augustine, le soir du 7 février.
+
+On a vu quelle avait été son attitude à bord du Shannon, pendant que le steamboat descendait le fleuve. Puis, sur le squif venu au-devant de lui, conduit par l\'Indien Squambô, il avait regagné le fortin abandonné, où il eût été malaisé de le suivre. Quant à ce Squambô, Séminole intelligent, rusé, devenu le confident de Texar, celui-ci l\'avait pris à son service, précisément après cette dernière expédition des Indiens à laquelle son nom fut mêlé -- très justement.
+
+Dans les dispositions d\'esprit où il se trouvait vis-à-vis de James Burbank, l\'Espagnol ne devait songer qu\'à tirer vengeance par tous les moyens possibles. Or, au milieu des conjectures que pouvait faire naître quotidiennement la guerre, si Texar parvenait à renverser les autorités de Jacksonville, il deviendrait redoutable pour Camdless-Bay. Que le caractère énergique et résolu de James Burbank ne lui permît pas de trembler devant un tel homme, soit ! Mais Mme Burbank n\'avait que trop de raisons de craindre pour son mari et pour tous les siens.
+
+Bien plus, cette honnête famille aurait certainement vécu dans des transes incessantes, si elle avait pu se douter de ceci : c\'est que Texar soupçonnait Gilbert Burbank d\'avoir été rejoindre l\'armée du Nord. Comment l\'avait-il appris, puisque ce départ s\'était accompli secrètement ? Par l\'espionnage, sans doute, et, plus d\'une fois, on verra que des espions s\'empressaient à le servir.
+
+En effet, puisque Texar avait lieu de croire que le fils de James Burbank servait dans les rangs des fédéraux, sous les ordres du commodore Dupont, n\'aurait-on pas pu craindre qu\'il cherchât à tendre quelque piège au jeune lieutenant ? Oui ! Et s\'il fût parvenu à l\'attirer sur le territoire floridien, à s\'emparer de sa personne, à le dénoncer, on devine quel eût été le sort de Gilbert entre les mains de ces sudistes, exaspérés par les progrès de l\'armée du Nord.
+
+Tel était l\'état des choses au moment où commence cette histoire. Telles étaient la situation des fédéraux, arrivés presque aux frontières maritimes de la Floride, la position de la famille Burbank au milieu du comté de Duval, celle de Texar, non seulement à Jacksonville, mais dans toute l\'étendue des territoires à esclaves. Si l\'Espagnol parvenait à ses fins, si les autorités étaient renversées par ses partisans, il ne lui serait que trop facile de lancer sur Camdless-Bay une populace fanatisée contre les anti-esclavagistes.
+
+Environ une heure après avoir quitté Texar, Squambô était de retour à l\'îlot central. Il tira son squif sur la berge, franchit l\'enceinte, monta l\'escalier du blockhaus.
+
+« C\'est fait ? lui demanda Texar. -- C\'est fait, maître !
+
+--- Et\... Rien ?
+
+--- Rien. »
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185105 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182644 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180183 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177722 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175261 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172800 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170339 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167878 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165417 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162956 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160495 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158034 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148764 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146303 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143840 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141379 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138918 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136456 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133995 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131534 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129072 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126611 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124147 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121686 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119225 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116771 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114308 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111847 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109386 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105642 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103180 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100717 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098292 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095823 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093361 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090883 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088420 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085958 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083495 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081033 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078572 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076109 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073646 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071180 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043220 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038352 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035987 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033622 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031257 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027701 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025336 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022971 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020605 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018239 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015874 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013509 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011142 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008777 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006412 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004047 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001682 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999317 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996952 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994587 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992222 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989857 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987492 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985125 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982760 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980395 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978030 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 6 -- Jacksonville]{.pcalibre lang="X-NONE"}]{#_Toc342942049 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6-jacksonville .calibre171 .sigil_not_in_toc}
+
+« Oui, Zermah, oui, vous avez été créée et mise au monde pour être esclave ! reprit le régisseur, réenfourchant son dada favori. Oui ! Esclave, et nullement pour être une créature libre.
+
+--- Ce n\'est pas mon avis, répondit Zermah d\'un ton calme, sans y mettre aucune animation, tant elle était faite à ces discussions avec le régisseur de Camdless-Bay.
+
+--- C\'est possible, Zermah ! Quoi qu\'il en soit, vous finirez par vous ranger à cette opinion qu\'il n\'y a aucune égalité qui puisse raisonnablement s\'établir entre les Blancs et les Noirs.
+
+--- Elle est tout établie, monsieur Perry, et elle l\'a toujours été par la nature même.
+
+--- Vous vous trompez, Zermah, et la preuve, c\'est que les Blancs sont dix fois, vingt fois, que dis-je ? Cent fois plus nombreux que les Noirs à la surface de la terre !
+
+--- Et c\'est pour cela qu\'ils les ont réduits en esclavage, répondit Zermah. Ils avaient la force, ils en ont abusé. Mais si les Noirs eussent été en majorité dans ce monde, ce seraient les Blancs dont ils auraient fait leurs esclaves ! Ou plutôt non ! Ils eussent certainement montré plus de justice et surtout moins de cruauté ! »
+
+Il ne faudrait pas se figurer que cette conversation, parfaitement oiseuse, empêchât Zermah et le régisseur de vivre en bon accord. En ce moment, d\'ailleurs, ils n\'avaient pas autre chose à faire que de causer. Seulement, il est permis de croire qu\'ils auraient pu traiter un sujet plus utile, et il en eût été ainsi, sans doute, sans la manie du régisseur à toujours discuter la question de l\'esclavage.
+
+Tous deux étaient assis à l\'arrière de l\'une des embarcations de Camdless-Bay, manoeuvrée par quatre mariniers de la plantation.
+
+Ils traversaient obliquement le fleuve, en profitant de la marée descendante, et se rendaient à Jacksonville. Le régisseur avait quelques affaires à traiter pour le compte de James Burbank, et Zermah allait acheter divers objets de toilette pour la petite Dy.
+
+On était au 10 février. Depuis trois jours, James Burbank était revenu à Castle-House, et Texar à la Crique-Noire, après l\'affaire de Saint-Augustine.
+
+Il va de soi que, le lendemain même, M. Stannard et sa fille avaient reçu un petit mot envoyé de Camdless-Bay, qui leur faisait sommairement connaître ce que marquait la dernière lettre de Gilbert. Ces nouvelles n\'arrivaient pas trop tôt pour rassurer miss Alice, dont la vie se passait dans une continuelle inquiétude depuis le début de cette lutte acharnée entre le Sud et le Nord des États-Unis.
+
+L\'embarcation, gréée d\'une voile latine, filait rapidement. Avant un quart d\'heure, elle serait au port de Jacksonville. Le régisseur n\'avait donc plus que peu de temps pour finir de développer sa thèse favorite, et il ne s\'en fit pas faute.
+
+« Non, Zermah, reprit-il, non ! La majorité, assurée aux Noirs, n\'eût rien changé à l\'état des choses. Et, je dis plus, quels que soient les résultats de la guerre, on en reviendra toujours à l\'esclavage, parce qu\'il faut des esclaves pour le service des plantations.
+
+--- Ce n\'est pas le sentiment de M. Burbank, vous le savez bien, répondit Zermah.
+
+--- Je le sais, mais j\'ose dire que M. Burbank se trompe, sauf le respect que j\'ai pour lui. Un Noir doit faire partie du domaine au même titre que les animaux ou les instruments de culture.
+
+Si un cheval pouvait s\'en aller lorsqu\'il lui plaît, si une charrue avait le droit de se mettre, quand il lui convient, en d\'autres mains que celles de son propriétaire, il n\'y aurait plus d\'exploitation possible. Que M. Burbank affranchisse ses esclaves, et il verra ce que deviendra Camdless-Bay !
+
+--- Il l\'aurait déjà fait, répondit Zermah, si les circonstances le lui eussent permis, vous ne l\'ignorez pas, monsieur Perry. Et voulez-vous savoir ce qui serait arrivé si l\'affranchissement des esclaves avait été proclamé à Camdless-Bay ? Pas un seul Noir n\'eût quitté la plantation, et rien n\'aurait été changé, si ce n\'est le droit de les traiter comme des bêtes de somme. Or, comme vous n\'avez jamais usé de ce droit-là, après l\'émancipation, Camdless-Bay serait restée ce qu\'elle était avant.
+
+--- Croyez-vous, par hasard, m\'avoir converti à vos idées, Zermah ? demanda le régisseur.
+
+--- En aucune façon, monsieur. D\'ailleurs, ce serait inutile et pour une raison bien simple.
+
+--- Laquelle ?
+
+--- C\'est qu\'au fond, vous pensez là-dessus exactement comme M. Burbank, M. Carrol, M. Stannard, comme tous ceux qui ont le coeur généreux et l\'esprit juste.
+
+--- Jamais, Zermah, jamais ! Et je prétends même que ce que j\'en dis, c\'est dans l\'intérêt des Noirs ! Si on les livre à leur seule volonté, ils dépériront, et la race en sera bientôt perdue.
+
+--- Je n\'en crois rien, monsieur Perry, quoique vous puissiez dire. En tout cas, mieux vaut que la race périsse que d\'être vouée à la perpétuelle dégradation de l\'esclavage ! »
+
+Le régisseur eût bien voulu répondre, et on se doute qu\'il n\'était point à bout d\'arguments.
+
+Mais la voile venait d\'être amenée, et l\'embarcation se rangea près de l\'estacade de bois. Là, elle devait attendre le retour de Zermah et du régisseur. Tous deux débarquèrent aussitôt pour aller chacun à ses affaires. Jacksonville est située sur la rive gauche du Saint-John, à la limite d\'une vaste plaine assez basse, entourée d\'un horizon de magnifiques forêts, qui lui font un cadre toujours verdoyant. Des champs de maïs et de cannes à sucre, des rizières, plus particulièrement à la limite du fleuve, occupent une partie de ce territoire.
+
+Il y avait une dizaine d\'années, Jacksonville n\'était encore qu\'un gros village, avec un faubourg, dont les cases de torchis ou de roseaux ne servaient qu\'au logement de la population noire. À l\'époque actuelle, le village commençait à se faire ville, autant par ses maisons plus confortables, ses rues mieux tracées et mieux entretenues, que par le nombre de ses habitants, qui avait doublé. L\'année suivante, ce chef-lieu du comté de Duval allait gagner encore, en se reliant par un chemin de fer à Talhassee, la capitale de la Floride.
+
+Déjà, le régisseur et Zermah avaient pu le remarquer, une assez grande animation régnait dans la ville. Quelques centaines d\'habitants, les uns, sudistes d\'origine américaine, les autres, des mulâtres et des métis d\'origine espagnole, attendaient l\'arrivée d\'un steamboat, dont la fumée apparaissait, en aval du fleuve, au-dessus d\'une pointe basse du Saint-John. Quelques-uns même, afin d\'entrer plus rapidement en communication avec ce vapeur, s\'étaient jetés dans les chaloupes du port, tandis que d\'autres avaient pris place sur ces grands dogres à un mât, qui fréquentent habituellement les eaux de Jacksonville.
+
+En effet, depuis la veille, il était venu de graves nouvelles du théâtre de la guerre.
+
+Les projets d\'opérations, indiqués dans la lettre de Gilbert Burbank, étaient en partie connus. On n\'ignorait pas que la flottille du commodore Dupont devait très prochainement appareiller, et que le général Sherman se proposait de l\'accompagner avec des troupes de débarquement. De quel côté se dirigerait cette expédition ? On ne le savait pas d\'une façon positive, bien que tout donnât à penser qu\'elle avait le Saint-John et le littoral floridien pour objectif. Après la Georgie, la Floride était donc directement menacée d\'une invasion de l\'armée fédérale.
+
+Lorsque le steamboat qui venait de Fernandina eut accosté l\'estacade de Jacksonville, ses passagers ne purent que confirmer ces nouvelles. Ils ajoutèrent même que, très vraisemblablement, ce serait dans la baie de Saint-Andrews que le commodore Dupont viendrait mouiller, en attendant un moment favorable pour forcer les passes de l\'île Amelia et l\'estuaire du Saint-John.
+
+Aussitôt les groupes se répandirent dans la ville, faisant bruyamment envoler nombre de ces gros urubus, qui sont uniquement chargés du nettoyage des rues. On criait, on se démenait. « Résistance aux nordistes ! Mort aux nordistes ! » Tels étaient les excitations féroces que des meneurs, à la dévotion de Texar, jetaient à la population déjà très animée. Il y eut des démonstrations sur la grande place, devant Court-House, la maison de justice, et jusque dans l\'église épiscopale. Les autorités allaient avoir quelque peine à calmer cette effervescence, bien que les habitants de Jacksonville, on l\'a déjà fait remarquer, fussent divisés du moins sur la question de l\'esclavage. Mais, en ces temps de trouble, les plus bruyants comme les plus emportés font toujours la loi, et les modérés finissent inévitablement par subir leur domination.
+
+Ce fut, bien entendu, dans les cabarets, dans les tiendas, que les gosiers, sous l\'influence de liqueurs fortes, hurlèrent avec le plus de violence.
+
+Les manoeuvriers en chambre y développèrent leurs plans pour opposer une invincible résistance à l\'invasion.
+
+« Il faut diriger les milices sur Fernandina ! disait l\'un.
+
+--- Il faut couler des navires dans les passes du Saint-John ! répondait l\'autre. -- Il faut construire des fortifications en terre autour de la ville et les armer de bouches à feu !
+
+--- Il faut demander du secours par la voie du chemin de fer de Fernandina à Keys !
+
+--- Il faut éteindre le feu du phare de Pablo, pour empêcher la flottille d\'entrer de nuit dans les bouches !
+
+--- Il faut semer des torpilles au milieu du fleuve ! »
+
+Cet engin, presque nouveau dans la guerre de Sécession, on en avait entendu parler, et, sans trop savoir comment il fonctionnait, il convenait évidemment d\'en faire usage.
+
+« Avant tout, dit un des plus enragés orateurs de la tienda de Torillo, il faut mettre en prison tous les nordistes de la ville, et tous ceux des sudistes qui pensent comme eux ! »
+
+Il aurait été bien étonnant que personne n\'eût songé à émettre cette proposition, l\'ultima ratio des sectaires en tous pays. Aussi fut-elle couverte de hurrahs. Heureusement pour les honnêtes gens de Jacksonville, les magistrats devaient hésiter quelque temps encore avant de se rendre à ce voeu populaire.
+
+En courant les rues, Zermah avait observé tout ce qui se passait, afin d\'en informer son maître, directement menacé par ce mouvement. Si on arrivait à des mesures de violence, ces mesures ne s\'arrêteraient pas à la ville.
+
+Elles s\'étendraient au-delà, jusqu\'aux plantations du comté. Certainement, Camdless-Bay serait visée une des premières. C\'est pourquoi la métisse, voulant se procurer des renseignements plus précis, se rendit à la maison que M. Stannard occupait en dehors du faubourg.
+
+C\'était une charmante et confortable habitation, agréablement située dans une sorte d\'oasis de verdure que la hache des défricheurs avait réservée en ce coin de la plaine. Par les soins de Miss Alice, à l\'intérieur comme à l\'extérieur, la maison était tenue d\'une manière irréprochable. On sentait déjà une intelligente et dévouée ménagère dans cette jeune fille, que la mort de sa mère avait appelée de bonne heure à diriger le personnel de
+
+Walter Stannard.
+
+Zermah fut reçue avec grand empressement par la jeune fille. Miss Alice lui parla tout d\'abord de la lettre de Gilbert. Zermah put lui en redire les termes presque exacts.
+
+
+--- Des dangers, Alice, répondit M. Stannard. Rassure-toi ! Gilbert en a affronté de plus grands pendant la croisière sur les côtes de Georgie, et principalement dans l\'affaire de Port-Royal. J\'imagine, moi, que la résistance des Floridiens ne sera ni terrible ni de longue durée. Que peuvent-ils faire avec ce Saint-John, qui va permettre aux canonnières de remonter jusqu\'au coeur des comtés ? Toute défense me paraît devoir être malaisée sinon impossible.
+
+--- Puissiez-vous dire vrai, mon père, dit Alice, et fasse le Ciel que cette sanglante guerre se termine enfin !
+
+--- Elle ne peut se terminer que par l\'écrasement du Sud, répliqua M. Stannard.
+
+Cela sera long, sans doute, et je crains bien que Jefferson Davis, ses généraux, Lee, Johnston, Beauregard, ne résistent longtemps encore dans les états du centre. Non ! Les troupes fédérales n\'auront pas facilement raison des confédérés. Quant à la Floride, il ne leur sera pas difficile de s\'en emparer. Malheureusement, ce n\'est pas sa possession qui leur assurera la victoire définitive.
+
+--- Pourvu que Gilbert ne fasse pas d\'imprudences ! dit Miss Alice en joignant les mains. S\'il cédait au désir de revoir sa famille pendant quelques heures, se sachant si près d\'elle\...
+
+--- D\'elle et de vous, Miss Alice, répondit Zermah, car n\'êtes-vous pas déjà de la famille Burbank ?
+
+--- Oui, Zermah, par le coeur !
+
+--- Non, Alice, ne crains rien, dit M. Stannard. Gilbert est trop raisonnable pour s\'exposer ainsi, surtout quand il suffira de quelques jours au commodore Dupont pour occuper la Floride. Ce serait une témérité sans excuses que de se hasarder dans ce pays, tant que les fédéraux n\'en seront pas les maîtres\...
+
+--- Surtout maintenant que les esprits sont plus portés que jamais à la violence ! répondit Zermah.
+
+--- En effet, ce matin, la ville est en effervescence, reprit M. Stannard. Je les ai vus, je les ai entendus, ces meneurs ! Texar ne les quitte pas depuis huit à dix jours. Il les pousse, il les excite, et ces malfaiteurs finiront par soulever la basse population, non seulement contre les magistrats, mais aussi contre ceux des habitants qui ne partagent pas leur manière de voir.
+
+--- Ne pensez-vous pas, monsieur Stannard, dit alors Zermah, que vous feriez bien de quitter Jacksonville, au moins pendant quelque temps ? Il serait prudent de n\'y revenir qu\'après l\'arrivée des troupes fédérales en Floride.
+
+M. Burbank m\'a chargé de vous le répéter, il serait heureux de voir Miss Alice et vous à Castle-House.
+
+--- Oui ! Je sais\... répondit M. Stannard. Je n\'ai point oublié l\'offre de Burbank\... En réalité, Castle-House est-il plus sûr que Jacksonville ? Si ces aventuriers, ces gens sans aveu, ces enragés, deviennent les maîtres ici, ne se répandront-ils pas sur la campagne, et les plantations seront-elles à l\'abri de leurs ravages ?
+
+--- Monsieur Stannard, fit observer Zermah, en cas de danger, il me semble préférable d\'être réunis\...
+
+--- Zermah a raison, mon père. Il vaudrait mieux être tous ensemble à Camdless-Bay.
+
+--- Sans doute, Alice, répondit M. Stannard. Je ne refuse pas la proposition de Burbank. Mais je ne crois pas que le danger soit si pressant. Zermah préviendra nos amis que j\'ai besoin de quelques jours encore pour mettre ordre à mes affaires, et, alors, nous irons demander l\'hospitalité à Castle-House\...
+
+--- Et, lorsque M. Gilbert arrivera, dit Zermah, au moins trouvera-t-il là tous ceux qu\'il aime ! »
+
+Zermah prit congé de Walter Stannard et de sa fille. Puis, au milieu de l\'agitation populaire qui ne cessait de s\'accroître, elle regagna le quartier du port et les quais, où l\'attendait le régisseur. Tous deux s\'embarquèrent pour traverser le fleuve, et M. Perry reprit sa conversation habituelle au point précis où il l\'avait laissée.
+
+En disant que le danger n\'était pas imminent, peut-être M. Stannard se trompait-il ? Les événements allaient se précipiter, et Jacksonville devait en ressentir promptement le contrecoup.
+
+Cependant le gouvernement fédéral agissait toujours avec une certaine circonspection dans le but de ménager les intérêts du Sud.
+
+Il ne voulait procéder que par mesures successives. Deux ans après, le début des hostilités, le prudent Abraham Lincoln n\'avait pas encore décrété l\'abolition de l\'esclavage sur tout le territoire des États-Unis. Plusieurs mois devaient s\'écouler encore, avant qu\'un message du président proposât de résoudre la question par le rachat et l\'émancipation graduelle des Noirs, avant que l\'abolition fût proclamée, avant, enfin, qu\'eût été votée l\'ouverture d\'un crédit de cinq millions de francs, avec l\'autorisation d\'accorder, à titre d\'indemnité, quinze cents francs par tête d\'esclave affranchi. Si quelques-uns des généraux du Nord s\'étaient cru autorisés à supprimer la servitude dans les pays envahis par leurs armées, ils avaient été désavoués jusqu\'alors. C\'est que l\'opinion n\'était pas unanime encore sur cette question, et l\'on citait même certains chefs militaires des Unionistes qui ne trouvaient cette mesure ni logique ni opportune.
+
+Entre-temps, des faits de guerre continuaient à se produire, et plus particulièrement au désavantage des confédérés. Le général Price, à la date du 12 février, avait dû évacuer l\'Arkansas avec le contingent des milices missouriennes. On a vu que le fort Henry avait été pris et occupé par les fédéraux. Maintenant, ceux-ci s\'attaquaient au fort Donelson, défendu par une artillerie puissante, et couvert par quatre kilomètres d\'ouvrages extérieurs qui comprenaient la petite ville de Dover. Cependant, malgré le froid et la neige, doublement menacé du côté de la terre par les quinze mille hommes du général Grant, du côté du fleuve par les canonnières du commodore Foot, ce fort tombait le 14 février au pouvoir des fédéraux avec toute une division sudiste, hommes et matériel.
+
+C\'était là un échec considérable pour les confédérés.
+
+L\'effet produit par cette défaite fut immense. Comme conséquence immédiate, il allait amener la retraite du général Johnston, qui dut abandonner l\'importante cité de Nashville sur le Cumberland. Les habitants, pris de panique, la quittèrent après lui, et, quelques jours après, ce fut aussi le sort de Columbus. Tout l\'État du Kentucky était alors rentré sous la domination du gouvernement fédéral.
+
+On imagine aisément avec quels sentiments de colère, avec quelles idées de vengeance, ces événements furent accueillis en Floride. Les autorités eussent été impuissantes à calmer le mouvement qui se propagea jusque dans les hameaux les plus lointains des comtés. Le péril grandissait, on peut le dire, d\'heure en heure, pour quiconque ne partageait pas les opinions du Sud et ne s\'associait pas à ses projets de résistance contre les armées fédérales. À Thalassee, à Saint-Augustine, il y eut des troubles dont la répression ne laissa pas d\'être difficile. Ce fut à Jacksonville, principalement, que le soulèvement de la populace menaça de dégénérer en actes de la plus inqualifiable violence.
+
+Dans ces circonstances, on le comprend, la situation de Camdless-Bay allait devenir de plus en plus inquiétante. Cependant, avec son personnel qui lui était dévoué, James Burbank pourrait résister peut-être, du moins aux premières attaques qui seraient dirigées contre la plantation, bien qu\'il fût très difficile, à cette époque, de se procurer des munitions et des armes en quantité suffisante. Mais, à Jacksonville, M. Stannard, directement menacé, avait lieu de craindre pour la sécurité de son habitation, pour sa fille, pour lui-même, pour tous les siens.
+
+James Burbank, connaissant les dangers de cette situation, lui écrivit lettres sur lettres.
+
+Il lui envoya plusieurs messagers pour le prier de venir le rejoindre sans retard à Castle-House. Là, on serait relativement en sûreté, et s\'il fallait chercher une autre retraite, s\'il fallait s\'enfoncer dans l\'intérieur du pays jusqu\'au moment où les fédéraux en auraient assuré la tranquillité par leur présence, il serait plus facile de le faire.
+
+Ainsi sollicité, Walter Stannard résolut d\'abandonner momentanément Jacksonville et de se réfugier à Camdless-Bay. Il partit dans la matinée du 23, aussi secrètement que possible, sans avoir rien laissé pressentir de ses projets. Une embarcation l\'attendait au fond d\'une petite crique du Saint-John, à un mille en amont. Miss Alice et lui s\'y embarquèrent, traversèrent rapidement le fleuve, et arrivèrent au petit port, où ils trouvèrent la famille Burbank.
+
+Il est facile d\'imaginer quel accueil leur fut fait. Déjà Miss Alice n\'était-elle pas une fille pour Mme Burbank ? Tous se trouvaient maintenant réunis.
+
+Ces mauvais jours, on les passerait ensemble, avec plus de sécurité et surtout avec de moindres angoisses.
+
+En somme, il n\'était que temps de quitter Jacksonville. Le lendemain, la maison de M. Stannard fut attaquée par une bande de malfaiteurs, qui abritaient leurs violences sous un prétendu patriotisme local. Les autorités eurent grand-peine à en empêcher le pillage, comme à préserver quelques autres habitations, qui appartenaient à d\'honnêtes citoyens, opposés aux idées séparatistes. Évidemment, l\'heure approchait où ces magistrats seraient débordés et remplacés par des chefs d\'émeute. Ceux-ci, loin de réprimer les violences, les provoqueraient au contraire.
+
+Et, en effet, ainsi que M. Stannard l\'avait dit à Zermah, Texar s\'était décidé, depuis quelques jours, à quitter sa retraite inconnue pour venir à Jacksonville.
+
+Là, il avait retrouvé ses compagnons habituels, recrutés parmi les plus détestables sectaires de la population floridienne, venus des diverses plantations situées sur les deux rives du fleuve. Ces forcenés prétendaient imposer leurs volontés dans les villes comme dans la campagne. Ils correspondaient avec la plupart de leurs adhérents des divers comtés de la Floride. En mettant en avant la question de l\'esclavage, ils gagnaient chaque jour du terrain. Quelque temps encore, à Jacksonville comme à Saint-Augustine, où affluaient déjà tous les nomades, tous les aventuriers, tous les coureurs de bois, qui sont en grand nombre dans le pays, ils seraient les maîtres, ils disposeraient de l\'autorité, ils concentreraient entre leurs mains les pouvoirs militaires et civils. Les milices, les troupes régulières, ne tarderaient pas à faire cause commune avec ces violents -- ce qui arrive fatalement à ces époques de trouble où la violence est à l\'ordre du jour.
+
+James Burbank n\'ignorait rien de ce qui se passait au-dehors. Plusieurs de ses affidés, dont il était sûr, le tenaient au courant des mouvements qui se préparaient à Jacksonville. Il savait que Texar y avait reparu, que sa détestable influence s\'étendait sur la basse population, comme lui d\'origine espagnole. Un pareil homme à la tête de la ville, c\'était une menace directe contre Camdless-Bay. Aussi, James Burbank se préparait-il à tout événement, soit pour une résistance, si elle était possible, soit pour une retraite, s\'il fallait abandonner Castle-House à l\'incendie et au pillage. Avant tout, pourvoir à la sûreté de sa famille et de ses amis, c\'était sa première, sa constante préoccupation.
+
+Pendant ces quelques jours, Zermah montra un dévouement sans bornes.
+
+À toute heure, elle surveillait les abords de la plantation, principalement du côté du fleuve. Quelques esclaves, choisis par elles parmi les plus intelligents et les meilleurs, demeuraient jour et nuit aux postes qu\'elle leur avait assignés. Toute tentative contre le domaine eût été signalée aussitôt. La famille Burbank ne pouvait être prise au dépourvu, sans avoir le temps de se réfugier à Castle-House.
+
+Mais ce n\'était pas par une attaque directe à main armée que James Burbank devait être inquiété tout d\'abord. Tant que l\'autorité ne serait pas aux mains de Texar et des siens, on devait y mettre plus de formes. C\'est ainsi que, sous la pression de l\'opinion publique, les magistrats furent amenés à prendre une mesure, qui allait donner une sorte de satisfaction aux partisans de l\'esclavage, acharnés contre les gens du Nord.
+
+James Burbank était le plus important des colons de la Floride, le plus riche aussi de tous ceux dont on ne connaissait que trop les opinions libérales. Ce fut donc lui que l\'on visa tout d\'abord, lui qui fut mis en demeure de s\'expliquer sur ses idées personnelles d\'affranchissement au milieu d\'un territoire à esclaves.
+
+Le 26, dans la soirée, un planton, expédié de Jacksonville, arriva à Camdless-Bay, et remit un pli à l\'adresse de James Burbank.
+
+Voici ce que contenait ce pli :
+
+« Ordre à M. James Burbank de se présenter en personne demain, 27 février, à onze heures du matin, à Court-Justice, devant les autorités de Jacksonville. »
+
+Rien de plus.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185106 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182645 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180184 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177723 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175262 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172801 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170340 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167879 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165418 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162957 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160496 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158035 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148765 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146304 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143841 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141380 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138919 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136457 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133996 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131535 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129073 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126612 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124148 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121687 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119226 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116772 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114309 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111848 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109387 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105643 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100718 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098293 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095824 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093362 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090884 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088421 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085959 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083496 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081034 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078573 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076110 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073647 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043221 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038353 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035988 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033623 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031258 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027702 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025337 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022972 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020606 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018240 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015875 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013510 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011143 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008778 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006413 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004048 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001683 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999318 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996953 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994588 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992223 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989858 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985126 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982761 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980396 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978031 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 7 -- Quand même !]{.pcalibre lang="X-NONE"}]{#_Toc342942050 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7-quand-même .calibre171 .sigil_not_in_toc}
+
+Si ce n\'était pas encore le coup de foudre, c\'était, du moins, l\'éclair qui le précède.
+
+James Burbank n\'en fut pas ébranlé, mais quelles inquiétudes éprouva toute la famille ! Pourquoi le propriétaire de Camdless-Bay était-il mandé à Jacksonville ? C\'était bien un ordre, non une invitation, de comparaître devant les autorités. Que lui voulait-on ? Cette mesure venait-elle à la suite d\'une proposition d\'enquête qui allait être commencée contre lui ? Était-ce sa liberté, sinon sa vie, que menaçait cette décision ? S\'il obéissait, s\'il quittait Castle-House, l\'y laisserait-on revenir ? S\'il n\'obéissait pas, emploierait-on la force pour le contraindre ? Et, dans ce cas, à quels périls, à quelles violences, les siens seraient-ils exposés ?
+
+« Tu n\'iras pas, James ! »
+
+C\'était Mme Burbank qui venait de parler ainsi, et, on le sentait bien, au nom de tous.
+
+« Non, monsieur Burbank ! ajouta Miss Alice. Vous ne pouvez pas songer à nous quitter\...
+
+--- Et pour aller te mettre à la merci de pareilles gens ! » ajouta Edward Carrol.
+
+James Burbank n\'avait pas répondu. Tout d\'abord, devant cette injonction brutale, son indignation s\'était soulevée, et c\'est à peine s\'il avait pu la maîtriser.
+
+Mais qu\'y avait-il donc de nouveau qui rendît ces magistrats si audacieux ? Les compagnons et partisans de Texar étaient-ils devenus les maîtres ? Avaient-ils renversé les autorités qui conservaient encore quelque modération, et détenaient-ils le pouvoir à leur place ? Non ! Le régisseur Perry, revenu dans l\'après-midi de Jacksonville, n\'avait rapporté aucune nouvelle de ce genre.
+
+« Ne serait-ce pas, dit M. Stannard, quelque récent fait de guerre, à l\'avantage des sudistes, qui pousseraient les Floridiens à exercer des violences contre nous ?
+
+--- Je crains bien qu\'il n\'en soit ainsi ! répondit Edward Carrol. Si le Nord a éprouvé quelque échec, ces malfaiteurs ne se croiront plus menacés par l\'approche du commodore Dupont et ils sont capables de se porter à tous les excès !
+
+--- On disait que, dans le Texas, reprit M. Stannard, les troupes fédérales avaient dû se retirer devant les milices de Sibley et repasser le Rio-Grande, après avoir subi une défaite assez grave à Valverde. C\'est du moins ce que m\'a appris un homme de Jacksonville que j\'ai rencontré, il y a une heure à peine.
+
+--- Évidemment, ajouta Edward Carrol, voilà ce qui aura rendu ces gens si hardis !
+
+--- L\'armée de Sherman, la flottille de Dupont, n\'arriveront donc pas ! s\'écria Mme Burbank.
+
+--- Nous ne sommes qu\'au 26 février, répondit Miss Alice, et, d\'après la lettre de Gilbert, les bâtiments fédéraux ne doivent pas prendre la mer avant le 28.
+
+--- Et puis, il faut le temps de descendre jusqu\'aux bouches du Saint-John, ajouta M. Stannard, le temps de forcer les passes, de franchir la barre, d\'opérer une descente à Jacksonville. C\'est dix jours encore\...
+
+--- Dix jours ? murmura Alice.
+
+--- Dix jours ! ajouta Mme Burbank. Et d\'ici là, que de malheurs peuvent nous atteindre ! »
+
+James Burbank ne s\'était point mêlé à cette conversation. Il réfléchissait. Devant l\'injonction qui lui était faite, il se demandait quel parti prendre. Refuser d\'obéir, n\'était-ce pas risquer de voir toute la populace de Jacksonville, avec l\'approbation ouverte ou tacite des autorités, se précipiter sur Camdless-Bay ? Quels dangers courrait alors sa famille ? Non ! Il valait mieux n\'exposer que sa personne. Dût sa vie ou sa liberté être en péril, il pouvait espérer que ce péril ne menacerait que lui seul. Mme Burbank regardait son mari avec la plus vive inquiétude. Elle sentait qu\'un combat se livrait en lui. Elle hésitait à l\'interroger. Ni Miss Alice, ni M. Stannard, ni Edward Carrol, n\'osaient lui demander quelle réponse il comptait faire à cet ordre envoyé de Jacksonville.
+
+Ce fut la petite Dy qui, inconsciemment sans doute, se fit l\'interprète de toute la famille. Elle était allée près de son père, qui l\'avait mise sur ses genoux.
+
+« Père ? dit-elle.
+
+--- Que veux-tu, ma chérie ?
+
+--- Est-ce que tu iras chez ces méchants qui veulent nous faire tant de peine ? -- Oui\... J\'irai !
+
+--- James ! s\'écria Mme Burbank.
+
+--- Il le faut ! C\'est mon devoir ! J\'irai ! »
+
+James Burbank avait si résolument parlé qu\'il eût été inutile de vouloir combattre ce dessein, dont il avait évidemment calculé toutes les conséquences. Sa femme était venue se placer près de lui, elle l\'embrassait, elle le serrait dans ses bras, mais elle ne disait plus rien. Et qu\'aurait-elle pu dire ?
+
+« Mes amis, dit James Burbank, il est possible, après tout, que nous exagérions singulièrement la portée de cet acte d\'arbitraire.
+
+Que peut-on me reprocher ? Rien en fait, on le sait bien ! Incriminer mes opinions, soit ! Mes opinions m\'appartiennent ! Je ne les ai jamais cachées à mes adversaires, et, ce que j\'ai pensé toute ma vie, je n\'hésiterai pas, s\'il le faut, à le leur dire en face !
+
+--- Nous t\'accompagnerons, James, dit Edward Carrol.
+
+--- Oui, ajouta M. Stannard. Nous ne vous laisserons pas aller sans nous à Jacksonville.
+
+--- Non, mes amis, répondit James Burbank. À moi seul il est enjoint de me rendre devant les magistrats de Court-Justice, et j\'irai seul. Il se pourrait, d\'ailleurs, que je fusse retenu quelques jours. Il faut donc que vous restiez tous les deux à Camdless-Bay. C\'est à vous que je dois maintenant confier toute notre famille pendant mon absence.
+
+--- Ainsi tu vas nous quitter, père ? s\'écria la petite Dy.
+
+--- Oui, fillette, répondit M. Burbank d\'un ton enjoué. Mais, si, demain, je ne déjeune pas avec vous, tu peux compter que je serai revenu pour dîner, et nous passerons la soirée tous ensemble.
+
+--- Ah ! dis-moi ! Si peu de temps que je reste à Jacksonville, j\'en aurai toujours assez pour t\'acheter quelque chose ! Qu\'est-ce qui pourrait te faire plaisir ? Que veux-tu que je te rapporte ?
+
+--- Toi\... Père\... Toi ! » répondit l\'enfant.
+
+Et sur ce mot qui exprimait si bien le désir de tous, la famille se sépara, après que James Burbank eut fait prendre les mesures de sécurité qu\'exigeaient les circonstances.
+
+La nuit se passa sans alerte. Le lendemain, James Burbank, levé dès l\'aube, prit l\'avenue de bambous qui conduit au petit port.
+
+Là, il donna ses ordres pour qu\'une embarcation fût prête à huit heures, afin de le transporter de l\'autre côté du fleuve.
+
+Comme il se dirigeait vers Castle-House, en revenant du pier, il fut accosté par Zermah.
+
+« Maître, lui dit-elle, votre décision est bien prise ? Vous allez partir pour Jacksonville ?
+
+--- Sans doute, Zermah, et je dois le faire dans notre intérêt à tous. Tu me comprends, n\'est-ce pas ?
+
+--- Oui, maître ! Un refus de votre part pourrait attirer les bandes de Texar sur Camdless-Bay\...
+
+--- Et ce danger, qui est le plus grave, il faut l\'éviter à tout prix ! répondit M. Burbank.
+
+--- Voulez-vous que je vous accompagne ?
+
+--- Je veux, au contraire, que tu restes à la plantation, Zermah. Il faut que tu sois là, près de ma femme, près de ma fille, au cas où quelque péril les menacerait avant mon retour.
+
+--- Je ne les quitterai pas, maître.
+
+--- Tu n\'as rien su de nouveau ?
+
+--- Non ! Il est certain que des gens suspects rôdent autour de la plantation. On dirait qu\'ils la surveillent. Cette nuit, deux ou trois barques ont encore croisé sur le fleuve. Est-ce que l\'on se douterait que monsieur Gilbert est parti pour prendre du service dans l\'armée fédérale, qu\'il est sous les ordres du commodore Dupont, qu\'il peut être tenté de venir secrètement à Camdless-Bay ?
+
+--- Mon brave fils ! répondit M. Burbank. Non ! Il a assez de raison pour ne pas commettre une pareille imprudence !
+
+--- Je crains bien que Texar n\'ait quelque soupçon à ce sujet, reprit Zermah. On dit que son influence grandit chaque jour. Quand vous serez à Jacksonville, défiez-vous de Texar, maître\...
+
+--- Oui, Zermah, comme d\'un reptile venimeux ! Mais je suis sur mes gardes. Pendant mon absence, s\'il tentait quelque coup contre Castle-House\...
+
+--- Ne craignez que pour vous, maître, pour vous seul, et ne craignez rien pour nous. Vos esclaves sauraient défendre la plantation, et s\'il le fallait, se faire tuer jusqu\'au dernier. Ils vous sont tous dévoués. Ils vous aiment. Je sais ce qu\'ils pensent, ce qu\'ils disent, je sais ce qu\'ils feraient. On est venu des autres plantations pour les pousser à la révolte\... Ils n\'ont rien voulu entendre. Tous ne font qu\'une grande famille, qui se confond avec la vôtre. Vous pouvez compter sur eux.
+
+--- Je le sais, Zermah, et j\'y compte. »
+
+James Burbank revint à l\'habitation. Le moment arrivé, il dit adieu à sa femme, à sa fille, à Miss Alice. Il leur promit de se contenir devant ces magistrats, quels qu\'ils fussent, qui le mandaient à leur tribunal, de ne rien faire qui put provoquer des violences à son égard. Très certainement, il serait de retour le jour même. Puis il prit congé de tous les siens et partit. Sans doute, James Burbank avait lieu de craindre pour lui-même. Mais il était bien autrement inquiet pour cette famille, exposée à tant de dangers, qu\'il laissait à Castle-House.
+
+Walter Stannard et Edward Carrol l\'accompagnèrent jusqu\'au petit port, à l\'extrémité de l\'avenue. Là, il fit ses dernières recommandations, et, sous une jolie brise du sud-est, l\'embarcation s\'éloigna rapidement du pier de Camdless-Bay.
+
+Une heure après, vers dix heures, James Burbank débarquait sur le quai de Jacksonville.
+
+Ce quai était presque désert alors.
+
+Il s\'y trouvait seulement quelques matelots étrangers, occupés au déchargement des dogres. James Burbank ne fut donc point reconnu à son arrivée, et, sans avoir été signalé, il put se rendre chez un de ses correspondants, M. Harvey, qui demeurait à l\'autre extrémité du port.
+
+M. Harvey fut surpris et très inquiet de le voir. Il ne croyait pas que M. Burbank aurait obéi à l\'injonction qui lui avait été faite de se présenter à Court-Justice. Dans la ville, on ne le croyait pas non plus. Quant à ce qui avait motivé cet ordre laconique de paraître devant les magistrats, M. Harvey ne le pouvait dire. Très probablement, dans le but de satisfaire l\'opinion publique, on voulait demander à James Burbank des explications sur son attitude depuis le début de la guerre, sur ses idées bien connues à propos de l\'esclavage. Peut-être songeait-on même à s\'assurer de sa personne, à retenir comme otage le plus riche colon nordiste de la Floride ? N\'eût-il pas mieux fait de rester à Camdless-Bay ? C\'est ce que pensait M. Harvey. Ne pouvait-il y retourner, puisque personne ne savait encore qu\'il venait de débarquer à Jacksonville ?
+
+James Burbank n\'était point venu pour s\'en aller. Il voulait savoir à quoi s\'en tenir. Il le saurait.
+
+Quelques questions très intéressantes, étant donné la situation où il se trouvait, furent alors posées par lui à son correspondant.
+
+Les autorités avaient-elles été renversées au profit des meneurs de Jacksonville ?
+
+Pas encore, mais leur position était de plus en plus menacée. À la première émeute, leur renversement était probable sous la poussée des événements. L\'Espagnol Texar n\'avait-il pas la main dans le mouvement populaire qui se préparait ?
+
+Oui ! On le considérait comme le chef du parti avancé des esclavagistes de la Floride.
+
+Ses compagnons et lui, sans doute, seraient bientôt les maîtres de la ville. Les derniers faits de guerre, dont le bruit commençait à se répandre dans toute la Floride, étaient-ils confirmés ?
+
+Ils l\'étaient maintenant. L\'organisation des états du Sud venait d\'être complétée. Le 22 février, le gouvernement, définitivement installé, avait Jefferson Davis pour président, et Stephens pour vice-président, tous deux investis du pouvoir durant une période de six années. Au Congrès, composé de deux chambres, réuni à Richmond, Jefferson Davis avait, trois jours après, réclamé le service obligatoire. Depuis cette époque, les confédérés venaient de remporter quelques succès partiels, sans grande importance en somme. D\'ailleurs, à la date du 24, une notable portion de l\'armée du général Mac Clellan, disait-on, s\'était lancée au-delà du haut Potomac, ce qui avait amené l\'évacuation de Columbus par les sudistes. Une grande bataille était donc imminente sur le Mississipi, et elle mettrait en contact l\'armée séparatiste avec l\'armée du général Grant.
+
+Et l\'escadre que le commodore Dupont devait conduire aux bouches du Saint-John ?
+
+Le bruit courait que, sous une dizaine de jours, elle essaierait de forcer les passes. Si Texar et ses partisans voulaient tenter quelque coup qui mît la ville entre leurs mains et leur permît de satisfaire leurs vengeances personnelles, ils ne pouvaient tarder à le faire.
+
+Tel était l\'état des choses à Jacksonville, et qui sait si l\'incident Burbank n\'allait pas en hâter le dénouement ?
+
+Lorsque l\'heure de comparaître fut venue, James Burbank quitta la maison de son correspondant et se dirigea vers la place où s\'élève le bâtiment de Court-Justice.
+
+Il y avait une extrême animation dans les rues.
+
+La population se portait en foule de ce côté. On sentait que, de cette affaire, peu importante en elle-même, pouvait sortir une émeute dont les conséquences seraient déplorables.
+
+La place était pleine de gens de toutes sortes, petits Blancs, métis, Nègres, et naturellement très tumultueuse. Si le nombre de ceux qui avaient pu entrer dans la salle de Court-Justice était assez restreint, néanmoins, il s\'y trouvait surtout des partisans de Texar, confondus avec une certaine quantité de gens honnêtes, opposés à tout acte d\'injustice. Toutefois, il leur serait difficile de résister à cette partie de la population qui poussait au renversement des autorités de Jacksonville.
+
+Lorsque James Burbank parut sur la place, il fut aussitôt reconnu. Des cris violents éclatèrent. Ils ne lui étaient rien moins que favorables. Quelques courageux citoyens l\'entourèrent. Ils ne voulaient pas qu\'un homme honorable, estimé comme l\'était le colon de Camdless-Bay, fut exposé sans défense aux brutalités de la foule. En obéissant à l\'ordre qu\'il avait reçu, James Burbank faisait preuve à la fois de dignité et de résolution. On devait lui en savoir gré.
+
+James Burbank put donc se frayer un passage à travers la place. Il arriva sur le seuil de la porte de Court-Justice, il entra, il s\'arrêta devant la barre où il était traduit contre tout droit.
+
+Le premier magistrat de la ville et ses adjoints occupaient déjà leurs sièges. C\'étaient des hommes modérés, qui jouissaient d\'une juste considération. À quelles récriminations, à quelles menaces ils avaient été en butte depuis le début de la guerre de Sécession, il est trop facile de l\'imaginer.
+
+Quel courage ne leur fallait-il pas pour demeurer à leur poste, et quelle énergie pour s\'y maintenir ? S\'ils avaient pu résister jusqu\'alors à toutes les attaques du parti de l\'émeute, c\'est que la question de l\'esclavage en Floride, on le sait, n\'y surexcitait que médiocrement les esprits, tandis qu\'elle passionnait les autres états du Sud. Cependant les idées séparatistes gagnaient peu à peu du terrain. Avec elles, l\'influence des gens de coups de main, des aventuriers, des nomades répandus dans le comté, grandissait chaque jour. Et même c\'était pour donner une certaine satisfaction à l\'opinion publique, sous la pression du parti des violents, que les magistrats avaient décidé de traduire devant eux James Burbank, sur la dénonciation de l\'un des chefs de ce parti, l\'Espagnol Texar.
+
+Le murmure, approbatif d\'une part, réprobatif de l\'autre, qui avait accueilli le propriétaire de Camdless-Bay à son entrée dans la salle, se calma bientôt. James Burbank, debout à la barre, le regard assuré de l\'homme qui n\'a jamais faibli, la voix ferme, n\'attendit même pas que le magistrat lui posât les questions d\'usage.
+
+« Vous avez fait demander James Burbank, dit-il. James Burbank est devant vous ! »
+
+Après les premières formalités de l\'interrogatoire auxquelles il se conforma, James Burbank répondit très simplement et très brièvement. Puis :
+
+« De quoi m\'accuse-t-on ? demanda-t-il.
+
+--- De faire opposition par paroles et par actes peut-être, répondit le magistrat, aux idées comme aux espérances qui doivent avoir maintenant cours en Floride !
+
+--- Et qui m\'accuse ? demanda James Burbank.
+
+--- Moi ! »
+
+C\'était Texar.
+
+James Burbank avait reconnu sa voix. Il ne tourna même pas la tête de son côté. Il se contenta de hausser les épaules en signe de dédain pour le vil accusateur qui le prenait à parti.
+
+Cependant les compagnons, les partisans de Texar encourageaient leur chef de la voix et du geste.
+
+« Et tout d\'abord, dit-il, je jetterai à la face de James Burbank sa qualité de nordiste ! Sa présence à Jacksonville est une insulte permanente au milieu d\'un État confédéré ! Puisqu\'il est avec les nordistes de coeur et d\'origine, que n\'est-il retourné dans le Nord !
+
+--- Je suis en Floride parce qu\'il me convient d\'y être, répondit James Burbank. Depuis vingt ans, j\'habite le comté. Si je n\'y suis pas né, on sait du moins d\'où je viens. Que cela soit dit pour ceux dont on ignore le passé, qui se refusent à vivre au grand jour, et dont l\'existence privée mérite d\'être incriminée à plus juste titre que la mienne ! »
+
+Texar, directement attaqué par cette réponse, ne se démonta pas.
+
+« Après ? dit James Burbank.
+
+--- Après ? répondit l\'Espagnol. Au moment où le pays va se soulever pour le maintien de l\'esclavage, prêt à verser son sang pour repousser les troupes fédérales, j\'accuse James Burbank d\'être anti-esclavagiste et de faire de la propagande anti-esclavagiste !
+
+--- James Burbank, dit le magistrat, dans les circonstances où nous sommes, vous comprendrez que cette accusation est d\'une gravité exceptionnelle. Je vous prierai donc d\'y répondre.
+
+--- Monsieur, répondit James Burbank, ma réponse sera très simple.
+
+Je n\'ai jamais fait aucune propagande ni n\'en veux faire. Cette accusation porte à faux. Quant à mes opinions sur l\'esclavage, qu\'il me soit permis de les rappeler ici. Oui ! Je suis abolitionniste ! Oui ! Je déplore la lutte que le Sud soutient contre le Nord ! Oui ! Je crains que le Sud ne marche à des désastres qu\'il aurait pu éviter, et c\'est dans son intérêt même que j\'aurais voulu le voir suivre une autre voie, au lieu de s\'engager dans une guerre contre la raison, contre la conscience universelle. Vous reconnaîtrez un jour que ceux qui vous parlent, comme je le fais aujourd\'hui, n\'avaient pas tort. Quand l\'heure d\'une transformation, d\'un progrès moral a sonné, c\'est folie de s\'y opposer.
+
+« En outre, la séparation du Nord et du Sud serait un crime contre la patrie américaine. Ni la raison, ni la justice, ni la force, ne sont de votre côté, et ce crime ne s\'accomplira pas. »
+
+Ces paroles furent d\'abord accueillies par quelques approbations que de plus violentes clameurs couvrirent aussitôt. La majorité de ce public de gens sans foi ni loi ne pouvait les accepter.
+
+Lorsque le magistrat fut parvenu à rétablir le silence dans le prétoire, James Burbank reprit la parole.
+
+« Et maintenant, dit-il, j\'attends qu\'il se produise des accusations plus précises sur des faits, non sur des idées, et j\'y répondrai, quand on me les aura fait connaître. »
+
+Devant cette attitude si digne, les magistrats ne pouvaient être que très embarrassés. Ils ne connaissaient aucun fait qui pût être reproché à M. Burbank. Leur rôle devait se borner à laisser les accusations se produire, avec preuves à l\'appui, s\'il en existait toutefois.
+
+Texar sentit qu\'il était mis en demeure de s\'expliquer plus catégoriquement, ou bien il n\'atteindrait pas son but.
+
+« Soit, dit-il ! Ce n\'est pas mon avis qu\'on puisse invoquer la liberté des opinions en matière d\'esclavage, lorsqu\'un pays se lève tout entier pour soutenir cette cause. Mais si James Burbank a le droit de penser comme il lui plaît sur cette question, s\'il est vrai qu\'il s\'abstienne de chercher des partisans à ses idées, du moins ne s\'abstient-il pas d\'entretenir des intelligences avec un ennemi qui est aux portes de la Floride ! »
+
+Cette accusation de complicité avec les fédéraux était très grave dans les conjonctures actuelles. Cela se comprit bien au frémissement qui courut à travers le public. Toutefois, elle était vague encore, et il fallait l\'appuyer sur des faits.
+
+« Vous prétendez que j\'ai des intelligences avec l\'ennemi ? répondit James Burbank.
+
+--- Oui, affirma Texar.
+
+--- Précisez ! Je le veux !
+
+--- Soit ! reprit Texar. Il y a trois semaines environ, un émissaire, envoyé vers James Burbank, a quitté l\'armée fédérale ou tout au moins la flottille du commodore Dupont, Cet homme est venu à Camdless-Bay, et il a été suivi depuis le moment où il a traversé la plantation jusqu\'à la frontière de la Floride. -- Le nierez-vous ? »
+
+Il s\'agissait évidemment là du messager qui avait apporté la lettre du jeune lieutenant. Les espions de Texar ne s\'y étaient point trompés. Cette fois, l\'accusation était précise, et l\'on attendait, non sans inquiétude, quelle serait la réponse de James Burbank.
+
+Celui-ci n\'hésita pas à faire connaître ce qui n\'était, en somme, que la stricte vérité :
+
+« En effet, dit-il, à cette époque, un homme est venu à Camdless-Bay. Mais cet homme n\'était qu\'un messager.
+
+Il n\'appartenait point à l\'armée fédérale, et apportait simplement une lettre de mon fils\...
+
+--- De votre fils, s\'écria Texar, de votre fils qui, si nous sommes bien informés, a pris du service dans l\'armée unioniste, de votre fils, qui est peut-être au premier rang des envahisseurs en marche maintenant sur la Floride ! »
+
+La véhémence avec laquelle Texar prononça ces paroles ne manqua pas d\'impressionner vivement le public. Si James Burbank, après avoir avoué qu\'il avait reçu une lettre de son fils, convenait que Gilbert se trouvait dans les rangs de l\'armée fédérale, comment se défendrait-il de l\'accusation de s\'être mis en rapport avec les ennemis du Sud ?
+
+« Voulez-vous répondre aux faits qui sont articulés contre votre fils ? demanda le magistrat.
+
+--- Non, monsieur, répliqua James Burbank d\'une voix ferme, et je n\'ai point à y répondre. Mon fils n\'est point en cause, que je sache. Je suis seulement accusé d\'avoir eu des intelligences avec l\'armée fédérale. Or, cela, je le nie, et je défie cet homme, qui ne m\'attaque que par haine personnelle, d\'en donner une seule preuve !
+
+--- Il avoue donc que son fils se bat en ce moment contre les confédérés ? s\'écria Texar.
+
+--- Je n\'ai rien à avouer\... Rien ! répondit James Burbank. C\'est à vous de prouver ce que vous avancez contre moi !
+
+--- Soit ! Je le prouverai ! répliqua Texar. Dans quelques jours, je serai en possession de cette preuve que l\'on me demande, et quand je l\'aurai\...
+
+--- Quand vous l\'aurez, répondit le magistrat, nous pourrons nous prononcer sur ce fait.
+
+Jusque-là, je ne vois pas quelles sont les accusations dont James Burbank ait à répondre ? »
+
+En se prononçant ainsi, ce magistrat parlait comme un homme intègre. Il avait raison, sans doute. Malheureusement, il avait tort d\'avoir raison devant un public si prévenu contre le colon de Camdless-Bay. De là, des murmures, des protestations mêmes, proférées par les compagnons de Texar, qui accueillirent ses paroles. L\'Espagnol le sentit bien, et, abandonnant les faits relatifs à Gilbert Burbank, il en revint aux accusations portées directement contre son père.
+
+« Oui, répéta-t-il, je prouverai tout ce que j\'ai avancé, à savoir que James
+
+Burbank est en rapport avec l\'ennemi qui se prépare à envahir la Floride.
+
+En attendant, les opinions qu\'il professe publiquement, opinions si dangereuses pour la cause de l\'esclavage, constituent un péril public. Aussi, au nom de tous les propriétaires d\'esclaves, qui ne se soumettront jamais au joug que le Nord veut leur imposer, je demande que l\'on s\'assure de sa personne\...
+
+--- Oui ! Oui ! » s\'écrièrent les partisans de Texar, tandis qu\'une partie de l\'assemblée essayait vainement de protester contre cette injustifiable prétention.
+
+Le magistrat parvint à rétablir le calme dans l\'auditoire, et James Burbank put reprendre la parole :
+
+« Je m\'élève de toute ma force, de tout mon droit, dit-il, contre l\'arbitraire auquel on veut pousser la justice ! Que je sois abolitionniste, oui ! Et je l\'ai déjà avoué. Mais les opinions sont libres, je suppose, avec un système de gouvernement qui est fondé sur la liberté. Ce n\'est pas un crime, jusqu\'ici, d\'être anti-esclavagiste, et où il n\'y a pas culpabilité, la loi est impuissante à punir ! »
+
+Des approbations plus nombreuses semblèrent donner raison à James Burbank.
+
+Sans doute, Texar crut que l\'occasion était venue de changer ses batteries puisqu\'elles ne portaient pas. Aussi, qu\'on ne s\'étonne pas s\'il lança à James Burbank cette apostrophe inattendue :
+
+« Eh bien, affranchissez donc vos esclaves, puisque vous êtes contre l\'esclavage !
+
+--- Je le ferai ! répondit James Burbank. Je le ferai, dès que le moment sera venu !
+
+--- Vraiment ! Vous le ferez quand l\'armée fédérale sera maîtresse de la Floride ! répliqua Texar. Il vous faut les soldats de Sherman et les marins de Dupont pour que vous ayez le courage d\'accorder vos actes avec vos idées ! C\'est prudent, mais c\'est lâche !
+
+--- Lâche ? s\'écria James Burbank, indigné, qui ne comprit pas que son adversaire lui tendait un piège.
+
+--- Oui ! Lâche ! répéta Texar. Voyons ! Osez donc enfin mettre vos opinions en pratique ! C\'est à croire, en vérité, que vous ne cherchez qu\'une popularité facile pour plaire aux gens du Nord ! Oui ! Antiesclavagiste en apparence, vous n\'êtes, au fond et par intérêt, qu\'un partisan du maintien de l\'esclavage ! »
+
+James Burbank s\'était redressé sous cette injure. Il couvrait son accusateur d\'un regard de mépris. C\'était là plus qu\'il n\'en pouvait supporter. Un tel reproche d\'hypocrisie se trouvait manifestement en désaccord avec toute son existence franche et loyale.
+
+« Habitants de Jacksonville, s\'écria-t-il de façon à être entendu de toute la foule, à partir de ce jour, je n\'ai plus un esclave ; à partir de ce jour, je proclame l\'abolition de l\'esclavage sur tout le domaine de Camdless-Bay ! »
+
+Tout d\'abord des hurrahs seulement accueillirent cette déclaration hardie. Oui ! Il y avait un véritable courage à le faire, -- courage plus que prudence peut-être ! James Burbank venait de se laisser emporter par son indignation.
+
+Or, cela n\'était que trop évident, cette mesure allait compromettre les intérêts des autres planteurs de la Floride. Aussi la réaction se fit-elle presque aussitôt dans le public de Court-Justice. Les premiers applaudissements accordés au colon de Camdless-Bay furent bientôt étouffés par les vociférations, non seulement de ceux qui étaient esclavagistes de principe, mais aussi de tous ceux qui avaient été indifférents jusqu\'alors à cette question de l\'esclavage. Et les amis de Texar auraient profité de ce revirement pour se livrer à quelque acte de violence contre James Burbank, si l\'Espagnol lui-même ne les eût contenus.
+
+« Laissez faire ! dit-il. James Burbank s\'est désarmé lui-même ! Maintenant, il est à nous ! »
+
+Ces paroles, dont on comprendra bientôt la signification, suffirent à retenir tous ces partisans de la violence. Aussi James Burbank ne fut-il point inquiété, lorsque les magistrats lui eurent dit qu\'il pouvait se retirer. Devant l\'absence de toute preuve, il n\'y avait pas lieu d\'accorder l\'incarcération demandée par Texar. Plus tard, si l\'Espagnol, qui maintenait ses dires, produisait des témoignages de nature à mettre au grand jour les connivences de James Burbank avec l\'ennemi, les magistrats reprendraient les poursuites. Jusque-là, James Burbank devait être libre.
+
+Il est vrai, cette déclaration d\'affranchissement relative au personnel de Camdless-Bay, publiquement faite, allait être ultérieurement exploitée contre les autorités de la ville et au profit du parti de l\'émeute.
+
+Quoi qu\'il en soit, à sa sortie de Court-Justice, bien que James Burbank fût suivi par une foule très mal disposée à son égard, les agents surent empêcher qu\'on lui fit violence.
+
+Il y eut des huées, des menaces, non des actes de brutalité. Évidemment, l\'influence de Texar le protégeait. James Burbank put donc atteindre les quais du port où l\'attendait son embarcation. Là, il prit congé de son correspondant, M. Harvey, qui ne l\'avait point quitté. Puis, poussant au large, il fut rapidement hors de la portée des vociférations, dont les braillards de Jacksonville avaient accompagné son départ.
+
+Comme la marée descendait, l\'embarcation, retardée par le jusant, ne mit pas moins de deux heures à gagner le pier de Camdless-Bay, où James Burbank était attendu par sa famille. Quelle joie ce fut dans tout ce petit monde, en le revoyant. Il y avait tant de motifs de craindre qu\'il ne fût retenu loin des siens !
+
+« Non ! dit-il à la petite Dy, qui l\'embrassait. Je t\'avais promis de revenir pour dîner, ma chérie, et, tu le sais bien, je ne manque jamais à mes promesses ! »
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185107 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182646 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180185 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177724 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175263 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172802 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170341 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167880 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165419 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162958 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160497 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158036 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148766 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146305 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143842 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141381 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138920 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136458 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133997 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131536 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129074 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126613 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124149 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121688 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119227 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116773 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114310 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111849 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109388 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105644 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103182 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100719 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098294 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095825 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093363 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090885 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088422 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085960 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083497 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081035 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078574 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076111 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073648 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071182 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043222 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038354 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035989 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033624 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031259 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027703 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025338 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022973 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020607 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018241 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015876 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013511 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011144 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008779 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006414 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004049 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001684 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999319 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996954 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994589 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992224 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989859 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987494 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985127 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982762 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980397 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978032 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 8 -- La dernière esclave]{.pcalibre lang="X-NONE"}]{#_Toc342942051 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-8-la-dernière-esclave .calibre171 .sigil_not_in_toc}
+
+Le soir même, James Burbank mit les siens au courant de ce qui s\'était passé à Court-Justice. L\'odieuse conduite de Texar leur fut dévoilée. C\'était sous la pression de cet homme et de la populace de Jacksonville que l\'ordre de comparution avait été adressé à Camdless-Bay. L\'attitude des magistrats, en cette affaire, ne méritait que des éloges. À cette accusation d\'intelligences avec les fédéraux, ils avaient répondu en exigeant la preuve qu\'elle fût fondée. Texar, n\'ayant pu fournir cette preuve, James Burbank avait été laissé fibre.
+
+Toutefois, au milieu de ces vagues incriminations, le nom de Gilbert avait été prononcé. On ne semblait pas mettre en doute que le jeune homme ne fût à l\'armée du Nord. Le refus de répondre à cet égard, n\'était-ce pas un demi-aveu de la part de James Burbank ?
+
+Ce que furent alors les craintes, les angoisses de Mme Burbank, de Miss Alice, de toute cette famille si menacée, cela n\'est que trop aisé à comprendre. À défaut du fils qui leur échappait, les forcenés de Jacksonville ne s\'en reprendraient-ils pas à son père ? Texar s\'était vanté, sans doute, lorsqu\'il avait promis de produire, sous quelques jours, une preuve de ce fait. En somme, il n\'était pas impossible qu\'il ne parvînt à se la procurer, et la situation serait inquiétante au plus haut point.
+
+« Mon pauvre Gilbert ! s\'écria Mme Burbank. Le savoir si près de Texar, décidé à tout faire pour arriver à son but !
+
+--- Ne pourrait-on le prévenir de ce qui vient de se passer à Jacksonville ? dit Miss Alice.
+
+--- Oui ! ajouta M. Stannard. Ne conviendrait-il pas surtout de lui faire savoir que toute imprudence de sa part aurait les conséquences les plus funestes pour les siens et pour lui ?
+
+--- Et comment le prévenir ? répliqua James Burbank.
+
+Des espions rôdent sans cesse autour de Camdless-Bay, cela n\'est que trop certain. Déjà le messager que Gilbert nous a envoyé avait été suivi à son retour. Toute lettre que nous écririons pourrait tomber entre les mains de Texar. Tout homme que nous enverrions, chargé d\'un message verbal, risquerait d\'être arrêté en route. Non, mes amis, ne tentons rien qui soit susceptible d\'aggraver cette situation, et fasse le Ciel que l\'armée fédérale ne tarde pas à occuper la Floride ! Il n\'est que temps pour cette minorité de gens honnêtes, menacée par la majorité des coquins du pays ! »
+
+James Burbank avait raison. Par suite de la surveillance qui devait évidemment s\'exercer autour de la plantation, il eût été très imprudent de correspondre avec Gilbert. D\'ailleurs, le moment approchait où James Burbank et les nordistes, établis en Floride, seraient en sûreté sous la protection de l\'armée fédérale.
+
+C\'était, en effet, le lendemain même que le commodore Dupont devait appareiller au mouillage d\'Edisto. Avant trois jours, bien certainement, on apprendrait que la flottille, après avoir descendu le littoral de la Georgie, serait dans la baie de Saint-Andrews.
+
+James Burbank raconta alors le grave incident survenu devant les magistrats de Jacksonville. Il dit comment il avait été poussé à répondre au défi jeté par Texar à propos des esclaves de Camdless-Bay. Fort de son droit, fort de sa conscience, il avait publiquement déclaré l\'abolition de l\'esclavage sur tout son domaine. Ce que nul État du Sud ne s\'était encore permis de proclamer sans y avoir été obligé par le sort des armes, il l\'avait fait librement et de son plein gré.
+
+Déclaration aussi hardie que généreuse ! Quelles en seraient les conséquences, on ne pouvait le prévoir.
+
+Évidemment, elle n\'était pas de nature à rendre la position de James Burbank moins menacée au milieu de ce pays esclavagiste. Peut-être, même, provoquerait-elle certaines velléités de révolte parmi les esclaves des autres plantations. N\'importe ! La famille Burbank, émue par la grandeur de l\'acte, approuva sans réserve ce que son chef venait de faire.
+
+« James, dit Mme Burbank, quoi qu\'il puisse arriver, tu as eu raison de répondre ainsi aux odieuses insinuations que ce Texar avait l\'infamie de lancer contre toi !
+
+--- Nous sommes fiers de vous, mon père ! ajouta Miss Alice, en donnant pour la première fois ce nom à M. Burbank.
+
+--- Et ainsi, ma chère fille, répondit James Burbank, lorsque Gilbert et les fédéraux entreront en Floride, ils ne trouveront plus un seul esclave à Camdless-Bay !
+
+--- Je vous remercie, monsieur Burbank, dit alors Zermah, je vous remercie pour mes compagnons et pour moi. En ce qui me concerne, je ne me suis jamais sentie esclave près de vous. Vos bontés, votre générosité, m\'avaient déjà faite aussi libre que je le suis aujourd\'hui !
+
+--- Tu as raison, Zermah, répondit Mme Burbank. Esclave ou libre, nous ne t\'en aimerons pas moins ! »
+
+Zermah eût en vain essayé de cacher son émotion. Elle prit Dy dans ses bras et la pressa sur sa poitrine.
+
+MM\. Carrol et Stannard avaient serré la main de James Burbank avec effusion. C\'était lui dire qu\'ils l\'approuvaient et qu\'ils applaudissaient à cet acte d\'audace -- de justice aussi.
+
+Il est bien évident que la famille Burbank, sous cette généreuse impression, oubliait alors ce que la conduite de James Burbank pouvait provoquer de complications dans l\'avenir.
+
+Aussi, personne à Camdless-Bay ne songerait-il à blâmer James Burbank, si ce n\'est, sans doute, le régisseur Perry, lorsqu\'il serait au courant de ce qui venait de se passer. Mais il était en tournée pour le service de la plantation et ne devait rentrer que dans la nuit.
+
+Il était déjà tard. On se sépara, non sans que James Burbank eût annoncé que, dès le lendemain, il remettrait à ses esclaves leur acte d\'affranchissement.
+
+« Nous serons avec toi, James, répondit Mme Burbank, quand tu leur apprendras qu\'ils sont libres !
+
+--- Oui, tous ! ajouta Edward Carrol.
+
+--- Et moi aussi, père ? demanda la petite Dy.
+
+--- Oui, ma chérie, toi aussi !
+
+--- Bonne Zermah, ajouta la fillette, est-ce que tu vas nous quitter après cela ?
+
+--- Non, mon enfant ! répondit Zermah. Non ! Je ne t\'abandonnerai jamais ! »
+
+Chacun se retira dans sa chambre, quand les précautions ordinaires eurent été prises pour la sécurité de Castle-House.
+
+Le lendemain, la première personne que rencontra James Burbank dans le parc réservé, ce fut précisément M. Perry. Comme le secret avait été parfaitement gardé, le régisseur n\'en savait rien encore. Il l\'apprit bientôt de la bouche même de James Burbank, qui s\'attendait du reste à l\'ébahissement de M. Perry.
+
+« Oh ! Monsieur James ! Oh ! Monsieur James ! »
+
+Le digne homme, vraiment abasourdi, ne pouvait trouver autre chose à répondre.
+
+« Cependant, cela ne peut vous surprendre, Perry, reprit James Burbank. Je n\'ai fait que devancer les événements.
+
+Vous savez bien que l\'affranchissement des Noirs est un acte qui s\'impose à tout État soucieux de sa dignité\...
+
+--- Sa dignité, monsieur James. Qu\'est-ce que la dignité vient faire à ce propos ?
+
+--- Vous ne comprenez pas le mot dignité, Perry. Soit ! disons : soucieux de ses intérêts ?
+
+--- Ses intérêts\... Ses intérêts, monsieur James ! Vous osez dire : soucieux de ses intérêts ?
+
+--- Incontestablement, et l\'avenir ne tardera pas à vous le prouver, mon cher Perry !
+
+--- Mais où recrutera-t-on désormais le personnel des plantations, monsieur Burbank ?
+
+--- Toujours parmi les Noirs, Perry.
+
+--- Mais si les Noirs sont libres de ne plus travailler, ils ne travailleront plus ! -- Ils travailleront, au contraire, et même avec plus de zèle, puisque ce sera librement, et avec plus de plaisir aussi, puisque leur condition sera meilleure.
+
+--- Mais les vôtres, monsieur James ? Les vôtres vont commencer par nous quitter !
+
+--- Je serai bien étonné, mon cher Perry, s\'il en est un seul qui ait la pensée de le faire.
+
+--- Mais voilà que je ne suis plus régisseur des esclaves de Camdless-Bay ?
+
+--- Non, mais vous êtes toujours régisseur de Camdless-Bay, et je ne pense pas que votre situation soit amoindrie parce que vous commanderez à des hommes libres au lieu de commander à des esclaves.
+
+--- Mais\...
+
+--- Mon cher Perry, je vous préviens qu\'à tous vos « mais », j\'ai des réponses toutes prêtes.
+
+Prenez donc votre parti d\'une mesure qui ne pouvait tarder à s\'accomplir, et à laquelle ma famille, sachez-le bien, vient de faire le meilleur accueil.
+
+--- Et nos Noirs n\'en savent rien ?
+
+--- Rien encore, répondit James Burbank. Je vous prie, Perry, de ne point leur en parler. Ils l\'apprendront aujourd\'hui même. Vous les convoquerez donc tous dans le parc de Castle-House, pour trois heures après midi, en vous contentant de dire que j\'ai une communication à leur faire. »
+
+Là-dessus, le régisseur se retira, avec de grands gestes de stupéfaction, répétant :
+
+« Des Noirs qui ne sont plus esclaves ! Des Noirs qui vont travailler à leur compte ! Des Noirs qui seront obligés de pourvoir à leurs besoins ! C\'est le bouleversement de l\'ordre social ! C\'est le renversement des lois humaines ! C\'est contre nature ! Oui ! Contre nature ! »
+
+Pendant la matinée, James Burbank, Walter Stannard et Edward Carrol allèrent, en break, visiter une partie de la plantation sur sa frontière septentrionale. Les esclaves vaquaient à leurs travaux habituels au milieu des rizières, des champs de caféiers et de cannes. Même empressement au travail dans les chantiers et les scieries. Le secret avait été bien gardé. Aucune communication n\'avait pu s\'établir encore entre Jacksonville et Camdless-Bay. Ceux qu\'il intéressait d\'une façon si directe, ne savaient rien du projet de James Burbank.
+
+En parcourant cette partie du domaine sur sa limite la plus exposée, James Burbank et ses amis voulaient s\'assurer que les abords de la plantation ne présentaient rien de suspect. Après la déclaration de la veille, on pouvait craindre qu\'une partie de la populace de Jacksonville ou de la campagne environnante fût poussée à se porter sur Camdless-Bay.
+
+Il n\'en était rien jusqu\'alors. On ne signala même pas de rôdeurs de ce côté du fleuve, ni sur le cours du Saint-John. Le Shannon, qui le remonta vers dix heures du matin, ne fit point escale au pier du petit port et continua sa route vers Picolata. Ni en amont ni en aval, il n\'y avait rien à craindre pour les hôtes de Castle-House.
+
+Un peu avant midi, James Burbank, Walter Stannard et Edward Carrol repassèrent le pont de l\'enceinte du parc et rentrèrent à l\'habitation. Toute la famille les attendait pour déjeuner. On était plus rassuré. On causa plus à l\'aise. Il semblait qu\'il se fût produit une détente dans la situation. Sans doute, l\'énergie des magistrats de Jacksonville avait imposé aux violents du parti de Texar. Or, si cet état de choses se prolongeait pendant quelques jours encore, la Floride serait occupée par l\'armée fédérale. Les anti-esclavagistes, qu\'ils fussent du Nord ou du Sud, y seraient en sûreté.
+
+James Burbank pouvait donc procéder à la cérémonie d\'émancipation, -- premier acte de ce genre qui serait volontairement accompli dans un État à esclaves.
+
+Celui de tous les Noirs de la plantation, qui éprouverait le plus de satisfaction serait évidemment un garçon de vingt ans, nommé Pygmalion plus communément appelé Pyg. Attaché au service des communs de Castle-House, c\'était là que demeurait ledit Pyg. Il ne travaillait ni dans les champs ni dans les ateliers ou chantiers de Camdless-Bay. Il faut bien l\'avouer, Pygmalion n\'était qu\'un garçon ridicule, vaniteux, paresseux, auquel, par bonté, ses maîtres passaient bien des choses. Depuis que la question de l\'esclavage était en jeu, il fallait l\'entendre déclamer de grandes phrases sur la liberté humaine.
+
+À tout propos, il faisait des discours prétentieux à ses congénères, qui ne se gênaient pas d\'en rire. Il montait sur ses grands chevaux, comme on dit, lui qu\'un âne eût jeté à terre. Mais au fond, comme il n\'était point méchant, on le laissait parler. On voit déjà quelles discussions il devait avoir avec le régisseur Perry, lorsque celui-ci était d\'humeur à l\'écouter, et l\'on sent quel accueil il allait faire à cet acte d\'affranchissement qui lui rendrait sa dignité d\'homme.
+
+Ce jour-là, les Noirs furent prévenus qu\'ils auraient à se réunir dans le parc réservé devant Castle-House. C\'était là qu\'une importante communication leur serait adressée par le propriétaire de Camdless-Bay.
+
+Un peu avant trois heures -- heure fixée pour la réunion -- tout le personnel, après avoir quitté ses baraccons, commença à s\'assembler devant Castle-House. Ces braves gens n\'étaient rentrés ni aux ateliers, ni dans les champs ni dans les chantiers d\'abattage, après le dîner de midi. Ils avaient voulu faire un peu de toilette, changer les habits de travail pour des vêtements plus propres, selon l\'habitude, lorsqu\'on leur ouvrait la poterne de l\'enceinte. Donc, grande animation, va-et-vient de case à case, tandis que le régisseur Perry, se promenant de l\'un à l\'autre des baraccons, grommelait :
+
+« Quand je pense qu\'en ce moment, on pourrait encore trafiquer de ces Noirs, puisqu\'ils sont toujours à l\'état de marchandise ! Et, avant une heure, voilà qu\'il ne sera plus permis ni de les acheter ni de les vendre ! Oui ! Je le répéterai jusqu\'à mon dernier souffle ! M. Burbank a beau faire et beau dire, et après lui le président Lincoln, et après le président Lincoln, tous les fédéraux du Nord et tous les libéraux des deux mondes, c\'est contre nature ! »
+
+En cet instant, Pygmalion, qui ne savait rien encore, se trouva face à face avec le régisseur.
+
+« Pourquoi nous convoque-t-on, monsieur Perry ? demanda Pyg. Auriez-vous la bonté de me le dire ?
+
+--- Oui, imbécile ! C\'est pour te\... »
+
+Le régisseur s\'arrêta, ne voulant point trahir le secret. Une idée lui vint alors.
+
+« Approche ici, Pyg ! » dit-il.
+
+Pygmalion s\'approcha.
+
+« Je te tire quelquefois l\'oreille, mon garçon ?
+
+--- Oui, monsieur Perry, puisque, contrairement à toute justice humaine ou divine, c\'est votre droit.
+
+--- Eh bien, puisque c\'est mon droit, je vais me permettre d\'en user encore ! » Et, sans se soucier des cris de Pyg, sans lui faire grand mal, non plus, il lui secoua les oreilles qui étaient déjà d\'une belle longueur. Vraiment, cela soulagea le régisseur d\'avoir, une dernière fois, exercé son droit sur un des esclaves de la plantation.
+
+À trois heures, James Burbank et les siens parurent sur le perron de Castle-House. Dans l\'enceinte étaient groupés sept cents esclaves, hommes, femmes, enfants, -- même une vingtaine de ces vieux Noirs, qui, lorsqu\'ils avaient été reconnus impropres à tout travail, trouvaient une retraite assurée pour leur vieillesse dans les baraccons de Camdless-Bay.
+
+Un profond silence s\'établit aussitôt. Sur un geste de James Burbank, M. Perry et les sous-régisseurs firent approcher le personnel, de manière que tous pussent entendre distinctement la communication qui allait leur être faite.
+
+James Burbank prit la parole.
+
+« Mes amis, dit-il, vous le savez, une guerre civile, déjà longue et malheureusement trop sanglante, met aux prises la population des États-Unis.
+
+Le vrai mobile de cette guerre a été la question de l\'esclavage. Le Sud, ne s\'inspirant que de ce qu\'il croit être ses intérêts, en a voulu le maintien. Le Nord, au nom de l\'humanité, a voulu qu\'il fût détruit en Amérique. Dieu a favorisé les défenseurs d\'une cause juste, et la victoire s\'est déjà prononcée plus d\'une fois en faveur de ceux qui se battent pour l\'affranchissement de toute une race humaine. Depuis longtemps, personne ne l\'ignore, fidèle à mon origine, j\'ai toujours partagé les idées du Nord, sans avoir été à même de les appliquer. Or, des circonstances ont fait que je puis hâter le moment où il m\'est possible de conformer mes actes à mes opinions. Écoutez donc ce que j\'ai à vous apprendre au nom de toute ma famille. »
+
+Il y eut un sourd murmure d\'émotion dans l\'assistance, mais il s\'apaisa presque aussitôt. Et alors, James Burbank, d\'une voix qui s\'entendit de partout, fit la déclaration suivante :
+
+« À partir de ce jour, 28 février 1862, les esclaves de la plantation sont affranchis de toute servitude. Ils peuvent disposer de leur personne. Il n\'y a plus que des hommes libres à Camdless-Bay ! »
+
+Les premières manifestations de ces nouveaux affranchis furent des hurrahs qui éclatèrent de toutes parts. Les bras s\'agitèrent en signe de remerciements. Le nom de Burbank fut acclamé. Tous se rapprochèrent du perron. Hommes, femmes, enfants, voulaient baiser les mains de leur libérateur. Ce fut un indescriptible enthousiasme, qui se produisit avec d\'autant plus d\'énergie qu\'il n\'était point préparé. On juge si Pygmalion gesticulait, pérorait, prenait des attitudes.
+
+Alors, un vieux Noir, le doyen du personnel, s\'avança jusque sur les premières marches du perron.
+
+Là, il redressa la tête, et d\'une voix profondément émue :
+
+« Au nom des anciens esclaves de Camdless-Bay, libres désormais, dit-il, soyez remercié, monsieur Burbank, pour nous avoir fait entendre les premières paroles d\'affranchissement qui aient été prononcées dans l\'État de Floride ! »
+
+Tout en parlant, le vieux Nègre venait de monter lentement les degrés du perron. Arrivé auprès de James Burbank, il lui avait baisé les mains, et, comme la petite Dy lui tendait les bras, il la présenta à ses camarades. « Hurrah ! Hurrah pour monsieur Burbank ! »
+
+Ces cris retentirent joyeusement dans l\'air et durent porter jusqu\'à Jacksonville, sur l\'autre rive du Saint-John, la nouvelle du grand acte qui venait d\'être accompli.
+
+La famille de James Burbank était profondément émue. Vainement essaya-t-elle de calmer ces marques d\'enthousiasme. Ce fut Zermah qui parvint à les apaiser, lorsqu\'on la vit s\'élancer vers le perron pour prendre la parole à son tour.
+
+« Mes amis, dit-elle, nous voilà tous libres maintenant, grâce à la générosité, à l\'humanité de celui qui fut notre maître, et le meilleur des maîtres !
+
+--- Oui ! Oui ! Crièrent ces centaines de voix, confondues dans le même élan de reconnaissance.
+
+--- Chacun de nous peut donc dorénavant disposer de sa personne, reprit Zermah. Chacun peut quitter la plantation, faire acte de liberté suivant que son intérêt le commande. Quant à moi, je ne suivrai que l\'instinct de mon coeur, et je suis certaine que la plupart d\'entre vous feront ce que je vais faire moi-même.
+
+Depuis six ans, je suis entré à Camdless-Bay. Mon mari et moi, nous y avons vécu, et nous désirons y finir notre vie. Je supplie donc monsieur Burbank de nous garder libres, comme il nous a gardés esclaves\... Que ceux dont c\'est aussi le désir\...
+
+--- Tous ! Tous ! »
+
+Et ces mots, répétés mille fois, dirent combien était apprécié le maître de Camdless-Bay, quel lien d\'amitié et de reconnaissance l\'unissait à tous les affranchis de son domaine.
+
+James Burbank prit alors la parole. Il dit que tous ceux qui voudraient rester sur la plantation le pourraient dans ces conditions nouvelles. Il ne s\'agirait plus que de régler d\'un commun accord la rémunération du travail libre et les droits des nouveaux affranchis. Il ajouta que, tout d\'abord, il convenait que la situation fût régularisée. C\'est pourquoi, dans ce but, chacun des Noirs allait recevoir pour sa famille et pour lui un acte de libération, qui lui permettrait de reprendre dans l\'humanité le rang auquel il avait droit.
+
+C\'est ce qui fut immédiatement fait par le soin des sous-régisseurs.
+
+Depuis longtemps décidé à affranchir ses esclaves, James Burbank avait préparé ces actes, et chaque Noir reçut le sien avec les plus touchantes démonstrations de reconnaissance.
+
+
+Cependant, au milieu de son ancien troupeau d\'êtres humains, le régisseur Perry se promenait comme une âme en peine, et, à James Burbank qui lui demanda :
+
+« Eh bien, Perry, qu\'en dites-vous ?
+
+--- Je dis, monsieur James, répliqua-t-il, que pour être libres, ces Africains n\'en sont pas moins nés en Afrique et n\'ont pas changé de couleur ! Or, puisqu\'ils sont nés noirs, ils mourront noirs\...
+
+--- Mais ils vivront blancs, répondit en souriant James Burbank, et tout est là ! »
+
+Ce soir-là, le dîner réunit à la table de Castle-House la famille Burbank vraiment heureuse, et, il faut le dire, aussi plus confiante dans l\'avenir. Quelques jours encore, la sécurité de la Floride serait complètement assurée. Aucune mauvaise nouvelle, d\'ailleurs, n\'était venue de Jacksonville. Il était possible que l\'attitude de James Burbank devant les magistrats de Court-Justice eût produit une impression favorable sur le plus grand nombre des habitants.
+
+À ce dîner assistait le régisseur Perry, qui était bien obligé de prendre son parti de ce qu\'il n\'avait pu empêcher. Il se trouvait même en face du doyen des Noirs, invité par James Burbank, comme pour mieux marquer en sa personne que l\'affranchissement, accordé à lui et à ses compagnons d\'esclavage, n\'était pas une vaine déclaration dans la pensée du maître de Camdless-Bay. Au-dehors éclataient des cris de fête, et le parc s\'illuminait du reflet des feux de joie, allumés en divers points de la plantation. Vers le milieu du repas se présenta une députation qui apportait à la petite fille un magnifique bouquet, le plus beau, à coup sûr, qui eût jamais été offert à « mademoiselle Dy Burbank, de Castle-House. » Compliments et remerciements furent donnés et rendus de part et d\'autre avec une profonde émotion.
+
+Puis, tous se retirèrent, et la famille rentra dans le hall, en attendant l\'heure du coucher.
+
+Il semblait qu\'une journée si bien commencée ne pouvait que bien finir. Vers huit heures, le calme régnait sur toute la plantation. On avait lieu de croire que rien ne le troublerait, lorsqu\'un bruit de voix se fit entendre au-dehors.
+
+James Burbank se leva et alla aussitôt ouvrir la grande porte du hall. Devant le perron, quelques personnes attendaient et parlaient à haute voix. « Qu\'y a-t-il ? demanda James Burbank.
+
+--- Monsieur Burbank, répondit un des régisseurs, une embarcation vient d\'accoster le pier.
+
+--- Et d\'où vient-elle ?
+
+--- De la rive gauche.
+
+--- Qui est à bord ?
+
+--- Un messager qui vous est envoyé de la part des magistrats de Jacksonville.
+
+--- Et que veut-il ?
+
+--- Il demande à vous faire une communication. Permettez-vous qu\'il débarque ?
+
+--- Certainement ! »
+
+Mme Burbank s\'était rapprochée de son mari. Miss Alice s\'avança vivement vers une des fenêtres du hall, pendant que M. Stannard et Edward Carrol se dirigeaient vers la porte. Zermah, prenant la petite Dy par la main, s\'était levée. Tous eurent alors le pressentiment que quelque grave complication allait surgir.
+
+Le régisseur était retourné vers l\'appontement du pier. Dix minutes après, il revenait avec le messager que l\'embarcation avait amené de Jacksonville à Camdless-Bay.
+
+C\'était un homme qui portait l\'uniforme de la milice du comté.
+
+Il fut introduit dans le hall, et demanda M. Burbank.
+
+« C\'est moi ! Que me voulez-vous ?
+
+--- Vous remettre ce pli. »
+
+Le messager tendit une grande enveloppe, qui portait à l\'un de ses angles le cachet de Court-Justice.
+
+James Burbank brisa le cachet et lut ce qui suit :
+
+« Par ordre des autorités nouvellement constituées de Jacksonville, tout esclave qui aura été affranchi contre la volonté des sudistes, sera immédiatement expulsé du territoire.
+
+« Cette mesure sera exécutée dans les quarante-huit heures, et, en cas de refus, il y sera procédé par la force.
+
+« Fait à Jacksonville, 28 février 1862.
+
+« TEXAR. »
+
+Les magistrats en qui l\'on pouvait avoir confiance avaient été renversés. Texar, soutenu par ses partisans, était depuis peu de temps à la tête de la ville.
+
+« Que répondrai-je ? demanda le messager.
+
+--- Rien ! » répliqua James Burbank.
+
+Le messager se retira et fut reconduit à son embarcation, qui se dirigea vers la rive gauche du fleuve.
+
+Ainsi, sur ordre de l\'Espagnol, les anciens esclaves de la plantation allaient être dispersés ! Par cela seul qu\'on les avait fait libres, ils n\'auraient plus le droit de vivre sur le territoire de la Floride ! Camdless-Bay serait privée de tout ce personnel sur lequel James Burbank pouvait compter pour défendre la plantation !
+
+« Libre à ces conditions ? dit Zermah.
+
+Non, jamais ! Je refuse la liberté, et, puisqu\'il le faut pour rester près de vous, mon maître, j\'aime mieux redevenir esclave ! »
+
+Et, prenant son acte d\'affranchissement, Zermah le déchira et tomba aux genoux de James Burbank.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185108 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182647 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180186 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177725 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175264 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172803 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170342 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167881 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165420 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162959 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160498 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158037 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148767 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146306 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143843 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141382 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138921 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136459 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133998 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131537 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129075 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126614 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124150 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121689 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119228 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116774 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114311 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111850 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109389 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105645 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103183 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100720 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098295 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095826 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093364 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090886 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088423 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085961 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083498 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081036 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078575 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076112 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073649 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071183 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043223 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038355 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035990 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033625 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031260 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027704 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025339 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022974 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020608 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018242 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015877 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013512 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011145 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008780 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004050 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001685 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999320 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994590 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992225 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989860 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987495 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985128 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982763 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980398 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978033 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 9 -- Attente]{.pcalibre lang="X-NONE"}]{#_Toc342942052 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-9-attente .calibre171 .sigil_not_in_toc}
+
+Telles étaient les premières conséquences du mouvement généreux auquel avait obéi James Burbank en affranchissant ses esclaves, avant que l\'armée fédérale fût maîtresse du territoire.
+
+
+Il faut le dire, la conduite de James Burbank n\'avait trouvé aucune approbation chez la plupart des colons dont les établissements bordent les deux rives du Saint-John. Ceux-ci pouvaient craindre que leurs esclaves voulussent les obliger à suivre son exemple.
+
+Le plus grand nombre des planteurs, partisans de l\'esclavage, résolus à lutter contre les prétentions des Unionistes, voyaient avec une extrême irritation la marche des armées fédérales. Aussi prétendaient-ils que la Floride résistât comme résistaient encore les états du Sud. Si, dans le début de la guerre, cette question d\'affranchissement n\'avait peut-être excité que leur indifférence, ils s\'empressaient à présent de se ranger sous le drapeau de Jefferson Davis. Ils étaient prêts à seconder les efforts des rebelles contre le gouvernement d\'Abraham Lincoln.
+
+Dans ces conditions, on ne s\'étonnera pas que Texar, s\'appuyant sur les opinions et les intérêts unis pour défendre la même cause, n\'eût réussi à s\'imposer, si peu d\'estime qu\'inspirât sa personne. Désormais, il allait pouvoir agir en maître, moins à l\'effet d\'organiser la résistance avec le concours des sudistes, et repousser la flottille du commodore Dupont, qu\'afin de satisfaire ses instincts pervers.
+
+C\'est à cause de cela, ou la haine qu\'il portait à la famille Burbank, le premier soin de Texar avait été de répondre à l\'acte d\'affranchissement de Camdless-Bay par cette mesure obligeant tous les affranchis à vider le territoire dans les quarante-huit heures.
+
+« En agissant ainsi, je sauvegarde les intérêts des colons, directement menacés. Oui ! Ils ne peuvent qu\'approuver cet arrêté, dont le premier effet sera d\'empêcher le soulèvement des esclaves dans tout l\'État de la Floride. »
+
+La majorité avait donc applaudi sans réserve à cette ordonnance de Texar, si arbitraire qu\'elle fût. Oui ! Arbitraire, inique, insoutenable ! James Burbank était dans son droit, quand il émancipait ses esclaves.
+
+Ce droit, il le possédait de tout temps. Il pouvait l\'exercer même avant que la guerre eût divisé les États-Unis sur la question de l\'esclavage. Rien ne devait prévaloir contre ce droit. Jamais la mesure, prise par Texar, n\'aurait pour elle la justice ni même la légalité.
+
+Et tout d\'abord, Camdless-Bay allait être privée de ses défenseurs naturels. À cet égard, le but de l\'Espagnol était pleinement atteint.
+
+On le comprit bien à Castle-House, et, peut-être, aurait-il été à désirer que James Burbank eût attendu le jour où il pouvait agir sans danger. Mais, on le sait, accusé devant les magistrats de Jacksonville d\'être en désaccord avec ses principes, mis en demeure de s\'y conformer et incapable de contenir son indignation, il s\'était prononcé publiquement, et publiquement aussi, devant le personnel de la plantation, il avait procédé à l\'affranchissement des Noirs de Camdless-Bay.
+
+Or, la situation de la famille Burbank et de ses hôtes s\'étant aggravée de ce fait, il fallait décider en toute hâte ce qu\'il convenait de faire dans ces conjonctures.
+
+Et d\'abord -- ce fut là-dessus que porta la discussion, le soir même -- y avait-il lieu de revenir sur l\'acte d\'émancipation ? Non ! Cela n\'aurait rien changé à l\'état de choses. Texar n\'eût point tenu compte de ce tardif retour. D\'ailleurs, l\'unanimité des Noirs du domaine, en apprenant la décision prise contre eux par les nouvelles autorités de Jacksonville, se fût empressée d\'imiter Zermah. Tous les actes d\'affranchissement auraient été déchirés. Pour ne point quitter Camdless-Bay, pour ne pas être chassés du territoire, tous eussent repris leur condition d\'esclaves, jusqu\'au jour où, de par une loi d\'État, ils auraient le droit d\'être libres et de vivre librement où il leur plairait.
+
+Mais à quoi bon ? Décidés à défendre, avec leur ancien maître, la plantation devenue leur patrie véritable, ne le feraient-ils pas avec autant d\'ardeur, maintenant qu\'ils étaient affranchis ? Oui, certes, et Zermah s\'en portait garante. James Burbank jugea donc qu\'il n\'avait point à revenir sur ce qui était fait. Tous furent de son avis. Et ils ne se trompaient pas, car, le lendemain, lorsque la nouvelle mesure décrétée par le comité de Jacksonville fut connue, les marques de dévouement, les témoignages de fidélité, éclatèrent de toutes parts à Camdless-Bay. Si Texar voulait mettre son arrêté à exécution, on résisterait. S\'il voulait employer la force, c\'est par la force qu\'on saurait lui répondre.
+
+« Et puis, dit Edward Carrol, les événements nous pressent. Dans deux jours, dans vingt-quatre heures peut-être, ils auront résolu la question de l\'esclavage en Floride. Après demain, la flottille fédérale peut avoir forcé les bouches du Saint-John, et alors\...
+
+--- Et si les milices, aidées des troupes confédérées, veulent résister ? fit observer M. Stannard.
+
+--- Si elles résistent, leur résistance ne pourra être de longue durée ! répondit Edward Carrol. Sans vaisseaux, sans canonnières, comment pourraient-ils s\'opposer au passage du commodore Dupont, au débarquement des troupes de Sherman, à l\'occupation des ports de Fernandina, de Jacksonville ou de Saint-Augustine ? Ces points occupés, les fédéraux seront maîtres de la Floride. Alors Texar et les siens n\'auront d\'autre ressource que de s\'enfuir\... -- Ah ! Puisse-t-on, au contraire, s\'emparer de cet homme ! s\'écria James Burbank. Quand il sera entre les mains de la justice fédérale, nous verrons s\'il arguera encore de quelque alibi pour échapper au châtiment que méritent ses crimes ! »
+
+La nuit se passa, sans que la sécurité de Castle-House eût été un seul instant troublée.
+
+Mais quelles devaient être les inquiétudes de Mme Burbank et de Miss Alice !
+
+Le lendemain, 1er mars, on se mit à l\'affût de tous les bruits qui pourraient venir du dehors. Ce n\'est pas que la plantation fût menacée ce jour-là. L\'arrêté de Texar n\'avait ordonné l\'expulsion des affranchis que dans les quarante-huit heures. James Burbank, décidé à résister à cet ordre, avait le temps nécessaire pour organiser ses moyens de défense dans la mesure du possible. L\'important était de recueillir les bruits venus du théâtre de la guerre. Ils pouvaient à chaque instant modifier l\'état de choses. James Burbank et son beau-frère montèrent donc à cheval. Descendant la rive droite du Saint-John, ils se dirigèrent vers l\'embouchure du fleuve, afin d\'explorer, à une dizaine de milles, cet évasement de l\'estuaire qui se termine par la pointe de San-Pablo, à l\'endroit où s\'élève le phare. Lorsqu\'ils passeraient devant Jacksonville, située sur l\'autre rive, il leur serait facile de reconnaître si un rassemblement d\'embarcations n\'indiquait pas quelque prochaine tentative de la populace contre Camdless-Bay. En une demi-heure, tous deux avaient dépassé la limite de la plantation, et ils continuèrent à se porter vers le nord.
+
+Pendant ce temps, Mme Burbank et Alice, allant et venant dans le parc de Castle-House, échangeaient leurs pensées. M. Stannard essayait vainement de leur rendre un peu de calme. Elles avaient le pressentiment d\'une prochaine catastrophe.
+
+Cependant Zermah avait voulu parcourir les divers baraccons. Bien que la menace d\'expulsion fût maintenant connue, les Noirs ne songeaient point à en tenir compte. Ils avaient repris leurs travaux habituels.
+
+Comme leur ancien maître, décidés à la résistance, de quel droit puisqu\'ils étaient libres, les chasserait-on de leur pays d\'adoption ? Sur ce point, Zermah fit à sa maîtresse le rapport le plus rassurant. On pouvait compter sur le personnel de Camdless-Bay.
+
+« Oui, dit-elle, tous mes compagnons reviendraient à la condition d\'esclaves, comme je l\'ai fait moi-même, plutôt que d\'abandonner la plantation et les maîtres de Castle-House ! Et si l\'on veut les y obliger, ils sauront défendre leurs droits ! »
+
+Il n\'y avait plus qu\'à attendre le retour de James Burbank et d\'Edward Carrol. À cette date du 1er mars, il n\'était pas impossible que la flottille fédérale fût arrivée en vue du phare de Pablo, prête à occuper l\'embouchure du Saint-John. Les confédérés n\'auraient pas trop de toutes les milices pour s\'opposer à leur passage, et les autorités de Jacksonville, directement menacées, ne seraient plus à même de mettre à exécution leurs menaces contre les affranchis de Camdless-Bay.
+
+Cependant le régisseur Perry faisait sa visite quotidienne aux divers chantiers et ateliers du domaine. Il put constater, lui aussi, les bonnes dispositions des noirs. Quoiqu\'il n\'en voulût pas convenir, il voyait que, s\'ils avaient changé de condition, leur assiduité au travail, leur dévouement à la famille Burbank, étaient restés les mêmes. Quant à résister à tout ce que pourrait tenter contre eux la populace de Jacksonville, ils y étaient fermement résolus. Mais, suivant l\'opinion de M. Perry, plus obstiné que jamais dans ses idées d\'esclavagiste, ces beaux sentiments ne pouvaient durer. La nature finirait par reprendre ses droits. Après avoir goûté à l\'indépendance, ces nouveaux affranchis reviendraient d\'eux-mêmes à la servitude.
+
+Ils redescendraient au rang, qui leur était dévolu par la nature dans l\'échelle des êtres, entre l\'homme et l\'animal.
+
+Ce fut, sur ces entrefaites, qu\'il rencontra le vaniteux Pygmalion. Cet imbécile avait encore accentué son attitude de la veille. À le voir se pavaner, les mains derrière le dos, la tête haute, on sentait maintenant que c\'était un homme libre. Ce qui est certain, c\'est qu\'il n\'en travaillait pas davantage.
+
+« Eh, bonjour, monsieur Perry ? dit-il d\'un ton superbe.
+
+--- Que fais-tu là, paresseux ?
+
+--- Je me promène ! N\'ai-je pas le droit de ne rien faire, puisque je ne suis plus un vil esclave et que je porte mon acte d\'affranchissement dans ma poche !
+
+--- Et qui est-ce qui te nourrira, désormais, Pyg ?
+
+--- Moi, monsieur Perry.
+
+--- Et comment ?
+
+--- En mangeant.
+
+--- Et qui te donnera à manger ?
+
+--- Mon maître.
+
+--- Ton maître ! As-tu donc oublié que maintenant tu n\'as pas de maître, nigaud ?
+
+--- Non ! Je n\'en ai pas, je n\'en aurai plus, et M. Burbank ne me renverra pas de la plantation, où, sans trop me vanter, je rends quelques services !
+
+--- Il te renverra, au contraire !
+
+--- Il me renverra ?
+
+--- Sans doute. Quand tu lui appartenais, il pouvait te garder, même à rien faire. Mais, du moment que tu ne lui appartiens plus, si tu continues à ne pas vouloir travailler, il te mettra bel et bien à la porte, et nous verrons ce que tu feras de ta liberté, pauvre sot ! »
+
+Évidemment, Pyg n\'avait point envisagé la question à ce point de vue.
+
+« Comment, monsieur Perry, reprit-il, vous croyez que M. Burbank serait assez cruel pour\...
+
+--- Ce n\'est pas la cruauté, répliqua le régisseur, c\'est la logique des choses qui conduit à cela. D\'ailleurs, que M. James le veuille ou non, il y a un arrêté du comité de Jacksonville qui ordonne l\'expulsion de tous les affranchis du territoire de la Floride.
+
+--- C\'est donc vrai ?
+
+--- Très vrai, et, nous verrons comment tes compagnons et toi, vous vous tirerez d\'affaire, maintenant que vous n\'avez plus de maître.
+
+--- Je ne veux pas quitter Camdless-Bay ! s\'écria Pygmalion\... Puisque je suis libre\...
+
+--- Oui ! Tu es libre de partir, mais tu n\'es pas libre de rester ! Je t\'engage donc à faire tes paquets !
+
+--- Et que vais-je devenir ?
+
+--- Cela te regarde !
+
+--- Enfin, puisque je suis libre\... reprit Pygmalion, qui en revenait toujours là.
+
+--- Ça ne suffit point, paraît-il !
+
+--- Dites-moi alors ce qu\'il faut faire, monsieur Perry !
+
+--- Ce qu\'il faut faire ? Tiens, écoute\... Et suis mon raisonnement, si tu en es capable.
+
+--- Je le suis.
+
+--- Tu es affranchi, n\'est-ce pas ?
+
+--- Oui, certes, monsieur Perry, et, je vous le répète, j\'ai mon acte d\'affranchissement dans ma poche.
+
+--- Eh bien, déchire-le !
+
+--- Jamais.
+
+--- Alors, puisque tu refuses, je ne vois plus qu\'un moyen, si tu veux rester dans le pays.
+
+--- Lequel ?
+
+--- C\'est de changer de couleur, imbécile ! Change, Pyg, change ! Quand tu seras devenu blanc, tu auras le droit de demeurer à Camdless-Bay ! Jusque-là, non ! »
+
+Le régisseur, enchanté d\'avoir donné cette petite leçon à la vanité de Pyg, lui tourna les talons.
+
+Pyg resta d\'abord tout pensif. Il le voyait bien, ne plus être esclave, cela ne suffisait pas pour conserver sa place. Il fallait encore être blanc. Et comment diable s\'y prendre pour devenir blanc, quand la nature vous a fait d\'un noir d\'ébène !
+
+Aussi, Pygmalion, en retournant aux communs de Castle-House, se grattait-il la peau à s\'arracher l\'épiderme.
+
+Un peu avant midi, James Burbank et Edward Carrol étaient de retour à Castle-House. Ils n\'avaient rien vu d\'inquiétant du côté de Jacksonville. Les embarcations occupaient leur place habituelle, les unes amarrées aux quais du port, les autres mouillées au milieu du chenal. Cependant, il se faisait quelques mouvements de troupe de l\'autre côté du fleuve. Plusieurs détachements de confédérés s\'étaient montrés sur la rive gauche du Saint-John et se dirigeaient au nord vers le comté de Nassau. Rien encore ne semblait menacer Camdless-Bay.
+
+Arrivés sur la limite de l\'estuaire, James Burbank et son compagnon avaient porté leurs regards vers la haute mer. Pas une voile n\'apparaissait au large, pas une fumée de bateau à vapeur ne s\'élevait à l\'horizon, qui indiquât la présence ou l\'approche d\'une escadre. Quant aux préparatifs de défense sur cette partie de la côte floridienne, ils étaient nuls. Ni batteries de terre, ni épaulements. Aucune disposition pour défendre l\'estuaire. Si les navires fédéraux se présentaient, soit devant la crique Nassau, soit devant l\'embouchure du Saint-John, ils pourraient y pénétrer sans obstacles.
+
+Seulement, le phare de Pablo se trouvait hors d\'usage. Sa lanterne démontée ne permettait plus d\'éclairer les passes. Toutefois, cela ne pouvait gêner l\'entrée de la flottille que pendant la nuit.
+
+Voilà ce que rapportèrent MM. Burbank et Carrol, quand ils furent de retour pour le déjeuner.
+
+En somme, circonstance assez rassurante, il ne se faisait à Jacksonville aucun mouvement de nature à donner la crainte d\'une agression immédiate contre Camdless-B ay.
+
+« Soit ! répondit M. Stannard. Ce qui est inquiétant, c\'est que les navires du commodore Dupont ne soient pas encore en vue ! Il y a là un retard qui me paraît inexplicable !
+
+--- Oui ! répondit Edward Carrol. Si cette flottille a pris la mer avant-hier, en quittant la baie de Saint-Andrews, elle devrait maintenant être au large de Fernandina !
+
+--- Le temps a été très mauvais depuis quelques jours, répliqua James Burbank. Il est possible, avec ces vents d\'ouest qui battent en côté, que Dupont ait dû s\'éloigner au large. Or, le vent a calmi ce matin, et je ne serais pas étonné que cette nuit même\...
+
+--- Que le Ciel t\'entende, mon cher James, dit Mme Burbank, et qu\'il nous vienne en aide !
+
+--- Monsieur James, fit observer Alice, puisque le phare de Pablo ne peut plus être allumé, comment la flottille pourrait-elle, cette nuit, pénétrer dans le Saint-John ?
+
+--- Dans le Saint-John, ce serait impossible, en effet, ma chère Alice, répondit James Burbank. Mais, avant d\'attaquer ces bouches du fleuve, il faut que les fédéraux s\'emparent d\'abord de l\'île Amelia, puis du bourg de Fernandina, afin d\'être maîtres du chemin de fer de Cedar-Keys.
+
+Je ne m\'attends pas à voir les bâtiments du commodore Dupont remonter le Saint-John avant trois ou quatre jours.
+
+--- Tu as raison, James, répondit Edward Carrol, et j\'espère que la prise de Fernandina suffira pour forcer les confédérés à battre en retraite. Peut-être même, les milices abandonneront-elles Jacksonville, sans attendre l\'arrivée des canonnières. Dans ce cas, Camdless-Bay ne serait plus menacée par Texar et ses émeutiers\...
+
+--- Cela est possible, mes amis ! répondit James Burbank. Que les fédéraux mettent seulement le pied sur le territoire de la Floride, et il n\'en faut pas davantage pour garantir notre sécurité ! -- Il n\'y a rien de nouveau à la plantation ?
+
+--- Rien, monsieur Burbank, répondit Miss Alice. J\'ai su par Zermah que les Noirs avaient repris leurs occupations dans les chantiers, les usines et les forêts. Elle assure qu\'ils sont toujours prêts à se dévouer jusqu\'au dernier pour défendre Camdless-Bay.
+
+--- Espérons encore qu\'il n\'y aura pas lieu de mettre leur dévouement à cette épreuve ! Ou je serais bien surpris, ou les coquins, qui se sont imposés aux honnêtes gens par la violence, s\'enfuiront de Jacksonville, dès que les fédéraux seront signalés au large de la Floride. Cependant, tenons-nous sur nos gardes. Après déjeuner, Stannard, voulez-vous nous accompagner, Carrol et moi, pendant la visite que nous désirons faire sur la partie la plus exposée du domaine ? Je ne voudrais pas, mon cher ami, qu\'Alice et vous fussiez menacés de plus grands périls à Castle-House qu\'à Jacksonville. En vérité, je ne me pardonnerais pas de vous avoir fait venir ici, au cas où les choses tourneraient mal !
+
+--- Mon cher James, répondit Stannard, si nous étions restés dans notre habitation de Jacksonville, il est vraisemblable que nous y serions maintenant en butte aux exactions des autorités, comme tous ceux dont les opinions sont anti-esclavagistes\...
+
+--- En tout état de choses, monsieur Burbank, ajouta Miss Alice, quand même les dangers devraient être plus grands ici, ne vaut-il pas mieux que nous les partagions ?
+
+--- Oui, ma chère fille, répondit James Burbank. Allons ! J\'ai bon espoir, et je pense que Texar n\'aura pas même le temps de mettre à exécution son arrêté contre notre personnel ! »
+
+Pendant l\'après-midi jusqu\'au dîner, James Burbank et ses deux amis visitèrent les différents baraccons. M. Perry les accompagnait. Ils purent constater que les dispositions des Noirs étaient excellentes. James Burbank crut devoir appeler l\'attention de son régisseur sur le zèle avec lequel les nouveaux affranchis s\'étaient remis à leur besogne. Pas un seul ne manquait à l\'appel.
+
+« Oui ! Oui ! répondit Perry. Il reste à savoir comment la besogne sera faite maintenant !
+
+--- Ah ça ! Perry, ces braves Noirs n\'ont pas changé de bras en changeant de condition, je suppose ?
+
+--- Pas encore, monsieur James, répondit l\'entêté. Mais bientôt, vous vous apercevrez qu\'ils n\'ont plus les mêmes mains au bout des bras\...
+
+--- Allons donc, Perry ! répliqua gaiement James Burbank. Leurs mains auront toujours cinq doigts, j\'imagine, et, véritablement, on ne peut leur en demander davantage ! »
+
+Dès que la visite fut achevée, James Burbank et ses compagnons rentrèrent à Castle-House. La soirée se passa plus tranquillement que la veille. En l\'absence de toute nouvelle venue de Jacksonville, on s\'était repris à espérer que Texar renonçait à mettre ses menaces à exécution, ou même que le temps lui manquerait pour les réaliser.
+
+Cependant des précautions sévères furent prises pour la nuit.
+
+Perry et les sous-régisseurs organisèrent des rondes à la lisière du domaine, et plus spécialement sur les rives du Saint-John. Les Noirs avaient été prévenus de se replier sur l\'enceinte palissadée, en cas d\'alerte, et un poste fut établi à la poterne extérieure.
+
+Plusieurs fois, James Burbank et ses amis se relevèrent, afin de s\'assurer que leurs ordres étaient ponctuellement exécutés. Lorsque le soleil reparut, aucun incident n\'avait troublé le repos des hôtes de Camdless-Bay.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185109 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182648 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180187 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177726 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175265 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172804 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170343 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167882 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165421 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162960 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160499 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158038 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148768 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146307 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143844 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141383 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138922 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136460 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133999 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131538 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129076 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126615 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124151 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121690 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119229 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116775 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114312 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111851 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109390 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105646 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103184 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100721 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098296 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095827 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093365 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090887 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088424 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085962 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083499 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081037 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078576 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076113 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071184 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043224 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038356 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035991 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033626 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031261 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027705 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025340 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022975 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020609 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018243 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015878 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013513 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011146 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008781 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006416 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004051 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001686 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999321 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996956 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994591 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992226 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989861 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987496 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985129 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982764 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980399 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978034 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 10 -- La journée du 2 mars]{.pcalibre lang="X-NONE"}]{#_Toc342942053 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10-la-journée-du-2-mars .calibre171 .sigil_not_in_toc}
+
+Le lendemain, 2 mars, James Burbank reçut des nouvelles par un de ses sous-régisseurs, qui avait pu traverser le fleuve et revenir de Jacksonville, sans avoir éveillé le moindre soupçon.
+
+Ces nouvelles dont on ne pouvait suspecter la certitude, étaient très importantes. Qu\'on en juge.
+
+Le commodore Dupont, au jour levant, était venu jeter l\'ancre dans la baie de Saint-Andrews, à l\'est de la côte de Georgie. Le Wabash, sur lequel était arboré son pavillon, marchait en tête d\'une escadre composée de vingt-six bâtiments, soit dix-huit canonnières, un cotre, un transport armé en guerre, et six transports sur lesquels s\'était embarquée la brigade du général Wright.
+
+Ainsi que Gilbert l\'avait dit dans sa dernière lettre, le général Sherman accompagnait cette expédition.
+
+Immédiatement, le commodore Dupont, dont le mauvais temps avait retardé l\'arrivée, s\'était hâté de prendre ses mesures pour occuper les passes de Saint-Mary. Ces passes, assez difficiles, sont ouvertes à l\'embouchure du rio de ce nom, vers le nord de l\'île Amelia, sur la frontière de la Georgie et de la Floride.
+
+Fernandina, la principale position de l\'île, était protégée par le fort Clinch, dont les épais murs de pierre renfermaient une garnison de quinze cents hommes. Dans cette forteresse, où une assez longue défense eût été possible, les sudistes feraient-ils résistance aux troupes fédérales ? On aurait pu le croire.
+
+Il n\'en fut rien. D\'après ce que rapportait le sous-régisseur, le bruit courait, à Jacksonville, que les confédérés avaient évacué le fort Clinch, au moment où l\'escadre se présentait devant la baie de Saint-Mary, et non seulement abandonné le fort Clinch, mais aussi Fernandina, l\'île Cumberland, ainsi que toute cette partie de la côte floridienne.
+
+Là s\'arrêtaient les nouvelles apportées à Castle-House. Inutile d\'insister sur leur importance au point de vue spécial de Camdless-Bay. Puisque les fédéraux avaient enfin débarqué en Floride, l\'État tout entier ne pouvait tarder à tomber en leur pouvoir. Évidemment, quelques jours se passeraient avant que les canonnières eussent pu franchir la barre du Saint-John. Mais leur présence imposerait certainement aux autorités qui venaient d\'être installées à Jacksonville, et il y avait lieu d\'espérer que, par crainte de représailles, Texar et les siens n\'oseraient rien entreprendre contre la plantation d\'un nordiste aussi en vue que James Burbank.
+
+Ce fut un véritable apaisement pour la famille, qui alla subitement de la crainte à l\'espoir. Et pour Alice Stannard comme pour Mme Burbank, c\'était, avec la certitude que Gilbert n\'était plus éloigné, l\'assurance qu\'elles reverraient sous peu, l\'une son fiancé, l\'autre son fils, sans qu\'il y eût à trembler pour sa sécurité.
+
+En effet, le jeune lieutenant n\'aurait eu que trente milles à faire, depuis Saint-Andrews, pour atteindre le petit port de Camdless-Bay. En ce moment, il était à bord de la canonnière Ottawa, et cette canonnière venait de se distinguer par un fait de guerre, dont les annales maritimes n\'avaient point encore eu d\'exemple.
+
+Voici ce qui s\'était passé pendant la matinée du 2 mars, -- détails que le sous-régisseur n\'avait pu apprendre pendant sa visite à Jacksonville, et qu\'il importe de connaître pour l\'intelligence des graves événements qui vont suivre.
+
+Dès que le commodore Dupont eût connaissance de l\'évacuation du fort Clinch par la garnison confédérée, il envoya quelques bâtiments d\'un médiocre tirant d\'eau à travers le chenal de Saint-Mary.
+
+Déjà la population blanche s\'était retirée dans l\'intérieur du pays, à la suite des troupes sudistes, abandonnant les bourgs, les villages, les plantations de la côte. Ce fut une véritable panique, provoquée par les idées de représailles que les sécessionnistes attribuaient aux chefs fédéraux. Et, non seulement en Floride, mais sur la frontière georgienne, dans toute la partie de l\'État comprise entre les baies d\'Ossabaw et de Saint-Mary, les habitants battirent précipitamment en retraite, afin d\'échapper aux troupes de débarquement de la brigade Wright. Dans ces conditions, les navires du commodore Dupont n\'eurent pas un seul coup de canon à tirer pour prendre possession du fort Clinch et de Fernandina. Seule, la canonnière Ottawa, sur laquelle Gilbert, toujours accompagné de Mars, remplissait les fonctions de second, eut à faire usage de ses bouches à feu, comme on va le voir.
+
+La ville de Fernandina est reliée à ce littoral ouest ; de la Floride, découpé sur le golfe du Mexique, par un tronçon de railway qui la rattache au port de Cedar-Keys. Ce railway suit d\'abord la côte de l\'île Amelia ; puis, avant d\'atteindre la terre ferme, il s\'élance à travers la crique de Nassau sur un long pont de pilotis.
+
+Au moment où l\'Ottawa arrivait au milieu de cette crique, un train s\'engageait sur ce pont. La garnison de Fernandina s\'enfuyait, emportant tous ses approvisionnements. Elle était suivie de quelques personnages plus ou moins importants de la ville. Aussitôt, la canonnière, forçant de vapeur, se dirigea vers le pont et fit feu de ses pièces de chasse, aussi bien contre les pilotis que contre le train en marche. Gilbert, posté à l\'avant, dirigeait le tir.
+
+Il y eut quelques coups heureux. Entre autres, un obus vint atteindre la dernière voiture du convoi, dont les essieux furent brisés ainsi que les barres d\'attache. Mais le train, sans s\'arrêter un instant -- ce qui eût rendu sa situation très dangereuse -- ne s\'occupa pas de ce dernier wagon. Il le laissa en détresse, et, continuant sa marche à toute vapeur, il s\'enfonça vers le sud-ouest de la péninsule. À ce moment arriva un détachement des fédéraux débarqués à Fernandina. Le détachement s\'élança sur le pont. En un instant, le wagon fut capturé avec les fugitifs qui s\'y trouvaient, principalement des civils. On conduisit ces prisonniers à l\'officier supérieur, le colonel Gardner, qui commandait à Fernandina, on prit leurs noms, on les garda vingt-quatre heures pour l\'exemple sur un des bâtiments de l\'escadre, puis on les relâcha.
+
+Lorsque le train eut disparu, l\'Ottawa dut se contenter d\'attaquer un bâtiment, chargé de matériel, qui s\'était réfugié dans la baie, et dont elle s\'empara.
+
+Ces événements étaient de nature à jeter le découragement parmi les troupes confédérées et les habitants des villes floridiennes. Ce fut ce qui se produisit plus particulièrement à Jacksonville. L\'estuaire du Saint-John ne tarderait pas à être forcé comme l\'avait été celui de Saint-Mary ; cela ne pouvait faire doute, et, très vraisemblablement, les unionistes ne trouveraient pas plus de résistance à Jacksonville qu\'à Saint-Augustine et dans tous les bourgs du comté.
+
+Cela était bien fait pour rassurer la famille de James Burbank. Dans ces conditions, on devait le croire, Texar n\'oserait pas donner suite à ses projets. Ses partisans et lui seraient renversés, et sous peu, par la seule force des choses, les honnêtes gens reprendraient le pouvoir qu\'une émeute de la populace leur avait arraché.
+
+Il y avait évidemment toute raison de penser ainsi, et par conséquent toute raison d\'espérer.
+
+Aussi, dès que le personnel de Camdless-Bay eut appris ces importantes nouvelles, bientôt connues à Jacksonville, sa joie se manifesta-t-elle par des hurrahs bruyants, dont Pygmalion prit sa bonne part. Néanmoins, il ne fallait pas se départir des précautions qui devaient assurer, pendant quelque temps encore, la sécurité du domaine, c\'est-à-dire, jusqu\'au moment où les canonnières apparaîtraient sur les eaux du fleuve.
+
+Non ! Il ne le fallait pas ! Malheureusement -- c\'est ce que ne pouvait deviner ni même supposer James Burbank -- toute une semaine allait s\'écouler avant que les fédéraux fussent en mesure de remonter le Saint-John pour devenir maître de son cours. Et, jusque-là, que de périls devaient menacer Camdless-Bay.
+
+Mais cet ensemble d\'opérations ne pouvait s\'accomplir dans les vingt-quatre heures, et vingt-quatre heures suffisaient pour que le territoire fût livré aux dévastations des sudistes.
+
+Ce fut vers trois heures après-midi, que James Burbank eut les premiers soupçons de ce qui se préparait contre lui. Le régisseur Perry, après une tournée de reconnaissance qu\'il avait faite sur la limite de la plantation, rentra rapidement à Castle-House, et dit :
+
+« Monsieur James, on signale quelques rôdeurs suspects, qui commencent à se rapprocher de Camdless-Bay.
+
+--- Par le nord, Perry ?
+
+--- Par le nord. »
+
+Presque au même instant, Zermah, revenant du petit port, apprenait à son maître que plusieurs embarcations traversaient le fleuve en se rapprochant de la rive droite.
+
+« Elles viennent de Jacksonville ?
+
+--- Assurément.
+
+--- Rentrons à Castle-House, répondit James Burbank, et n\'en sors plus sous aucun prétexte, Zermah !
+
+--- Non, maître ! »
+
+James Burbank, de retour au milieu des siens, ne put leur cacher que la situation recommençait à devenir inquiétante. En prévision d\'une attaque, maintenant presque certaine, mieux valait d\'ailleurs que tous fussent prévenus d\'avance.
+
+« Ainsi, dit M. Stannard, ces misérables, à la veille d\'être écrasés par les fédéraux, oseraient\...
+
+--- Oui, répondit froidement James Burbank. Texar ne peut perdre une pareille occasion de se venger de nous, quitte à disparaître quand sa vengeance sera satisfaite ! »
+
+Puis, s\'animant :
+
+« Mais les crimes de cet homme resteront donc sans cesse impunis ! Il se dérobera donc toujours ! En vérité ; après avoir douté de la justice humaine c\'est à douter de la justice du Ciel\...
+
+--- James, dit Mme Burbank, au moment où nous ne pouvons plus compter peut-être que sur l\'aide de Dieu, ne l\'accuse pas\...
+
+--- Et mettons-nous sous sa garde ! » ajouta Alice Stannard.
+
+James Burbank, reprenant son sang-froid, s\'occupa de donner des ordres pour la défense de Castle-House.
+
+« Les Noirs sont avertis ? demanda Edward Carrol.
+
+--- Ils vont l\'être, répondit James Burbank. Mon avis est qu\'il faut nous borner à défendre l\'enceinte qui protège le parc réservé et l\'habitation. Nous ne pouvons songer à arrêter sur la frontière de Camdless-Bay toute une troupe en armes, car il est supposable que les assaillants viendront en grand nombre. Il convient donc de rappeler nos défenseurs autour des palanques. Si, par malheur, la palissade est forcée, Castle-House, qui a déjà résisté aux bandes des Séminoles, pourra peut-être tenir contre les bandits de Texar.
+
+Que ma femme, Alice et Dy, que Zermah, à laquelle je les confie toutes trois, ne quittent pas Castle-House sans mon ordre. Au cas où nous nous y sentirions trop menacés, tout est préparé pour qu\'elles puissent se sauver par le tunnel qui communique avec la petite anse Marino sur le Saint-John. Là, une embarcation sera cachée dans les herbes avec deux de nos hommes, et, dans ce cas, Zermah, tu remonterais le fleuve pour chercher un abri au pavillon du Roc-des-Cèdres.
+
+--- Mais, toi, James ?
+
+--- Et vous, mon père ? »
+
+Mme Burbank et Miss Alice avaient saisi par le bras, l\'une, James Burbank, l\'autre, M. Stannard, comme si le moment fût venu de s\'enfuir hors de Castle-House.
+
+« Nous ferons tout au monde pour vous rejoindre quand la position ne sera plus tenable, répondit James Burbank. Mais il me faut cette promesse que, si le danger devient trop grand, vous irez vous mettre en sûreté dans cette retraite du Roc-des-Cèdres. Nous n\'en aurons que plus de courage, plus d\'audace aussi, pour repousser ces malfaiteurs et résister jusqu\'à notre dernier coup de feu. »
+
+C\'est évidemment ce qu\'il conviendrait de faire, si les assaillants trop nombreux, parvenus à forcer l\'enceinte, envahissaient le parc, afin d\'attaquer directement Castle-House.
+
+James Burbank s\'occupa aussitôt de concentrer son personnel. Perry et les sous-régisseurs coururent dans les divers baraccons, afin de rallier leurs gens. Moins d\'une heure après, les Noirs en état de se battre étaient rangés aux abords de la poterne devant les palanques. Leurs femmes et leurs enfants avaient dû préalablement chercher un refuge dans les bois qui environnent Camdless-Bay.
+
+Malheureusement, les moyens d\'organiser une défensive sérieuse étaient assez restreints à Castle-House.
+
+Dans les circonstances actuelles, c\'est-à-dire, depuis le début de la guerre, il avait été presque impossible de se procurer des armes et des munitions en quantité suffisante pour la défense de la plantation. On eût vainement voulu en acheter à Jacksonville. Il fallait se contenter de ce qui était resté dans l\'habitation, à la suite des dernières luttes soutenues contre les Séminoles.
+
+En somme, le plan de James Burbank consistait principalement à préserver Castle-House de l\'incendie et de l\'envahissement. Protéger le domaine en entier, sauver les chantiers, les ateliers, les usines, défendre les baraccons, empêcher que la plantation fût dévastée, il ne l\'aurait pu, il n\'y songeait pas. À peine avait-il quatre cents Noirs en état de s\'opposer aux assaillants, et encore ces braves gens allaient-ils être insuffisamment armés. Quelques douzaines de fusils furent distribués aux plus adroits, après que les armes de précision eurent été mises en réserve pour James Burbank, ses amis, Perry et les sous-régisseurs. Tous s\'étaient rendus à la poterne. Là, ils avaient disposé leurs hommes de manière à s\'opposer le plus longtemps possible à l\'assaut, qui menaçait l\'enceinte palissadée, défendue d\'ailleurs par le rio circulaire, dont les eaux baignaient sa base.
+
+Il va sans dire qu\'au milieu de ce tumulte, Pygmalion, très affairé, très remuant, allait, venait, sans rendre aucun service. On eût dit un de ces comiques des cirques forains, qui ont l\'air de tout faire et ne font rien, pour le plus grand amusement du public. Pyg, se considérant comme appartenant aux défenseurs spéciaux de l\'habitation, ne songeait point à se mêler à ses camarades postés au-dehors. Jamais il ne s\'était senti si dévoué à James Burbank !
+
+Tout étant prêt, on attendit.
+
+La question était de savoir par quel côté se ferait l\'attaque. Si les assaillants se présentaient sur la limite septentrionale de la plantation, la défense pourrait s\'organiser plus efficacement. Si, au contraire, ils attaquaient par le fleuve, ce serait moins aisé, Camdless-Bay étant ouverte de ce côté. Un débarquement, il est vrai, est toujours une opération difficile. En tout cas, il faudrait un assez grand nombre d\'embarcations pour transporter rapidement une troupe armée d\'une rive à l\'autre du Saint-John.
+
+Voilà ce que discutaient James Burbank, MM. Carrol et Stannard, en guettant le retour des éclaireurs, qui avaient été envoyés à la limite de la plantation.
+
+On ne devait point tarder à être fixés sur la manière dont l\'attaque serait faite et conduite.
+
+Vers quatre heures et demie du soir, les éclaireurs se replièrent en hâte, après avoir abandonné la lisière septentrionale du domaine, et ils firent leur rapport.
+
+Une colonne d\'hommes armés, venant de cette direction, se dirigeait vers Camdless-Bay. Était-ce un détachement des milices du comté, ou seulement une partie de la populace, alléchée par le pillage, et qui s\'était chargée de faire exécuter l\'arrêté de Texar contre les nouveaux affranchis ? On n\'eût pu le dire alors. En tout cas, cette colonne devait compter plus d\'un millier d\'hommes, et il serait impossible de lui tenir tête avec le personnel de la plantation. On pouvait espérer, toutefois, que, s\'ils emportaient d\'assaut l\'enceinte palissadée, Castle-House leur opposerait une résistance plus sérieuse et plus longue.
+
+Mais ce qui était évident, c\'est que cette colonne n\'avait pas voulu tenter un débarquement qui pouvait offrir d\'assez grandes difficultés dans le petit port ou sur les rives de Camdless-Bay, et qu\'elle avait passé le fleuve en aval de Jacksonville au moyen d\'une cinquantaine d\'embarcations.
+
+Trois ou quatre traversées de chacune avaient suffi pour effectuer ce transport.
+
+C\'était donc une sage précaution qu\'avait prise James Burbank de faire replier tout le personnel sur l\'enceinte du parc de Castle-House, puisqu\'il eût été impossible de disputer la lisière du domaine à une troupe suffisamment armée et d\'un effectif quintuple du sien.
+
+Et, maintenant, qui dirigeait les assaillants ? Était-ce Texar en personne ? Chose douteuse. Au moment où il se voyait menacé par l\'approche des fédéraux, l\'Espagnol pouvait avoir jugé téméraire de se mettre à la tête de sa bande. Cependant, s\'il l\'avait fait, c\'est que, son oeuvre de vengeance accomplie, la plantation dévastée, la famille Burbank massacrée ou tombée vivante entre ses mains, il était décidé à s\'enfuir vers les territoires du Sud, peut-être même jusque dans les Everglades, ces contrées reculées de la Floride méridionale, où il serait bien difficile de l\'atteindre.
+
+Cette éventualité, la plus grave de toutes, devait surtout préoccuper James Burbank. C\'est pour cette raison qu\'il avait résolu de mettre en sûreté sa femme, sa fille, Alice Stannard, confiées au dévouement de Zermah, dans cette retraite du Roc-des-Cèdres, située à un mille au-dessus de Camdless-Bay. S\'ils devaient abandonner Castle-House aux assaillants, ce serait là que ses amis et lui essaieraient de rejoindre leur famille pour attendre que la sécurité fût assurée aux honnêtes gens de la Floride, sous la protection de l\'armée fédérale.
+
+Aussi, une embarcation, cachée au milieu des roseaux du Saint-John et confiée à la garde de deux Noirs, attendait-elle à l\'extrémité du tunnel qui mettait l\'habitation en communication avec la crique Marino.
+
+Mais, avant d\'en arriver à cette séparation, si elle devenait nécessaire, il fallait se défendre, il fallait résister pendant quelques heures -- au moins jusqu\'à la nuit. Grâce à l\'obscurité, l\'embarcation pourrait alors remonter secrètement le fleuve, sans courir le risque d\'être poursuivie par les canots suspects que l\'on voyait errer à la surface.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185110 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182649 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177727 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175266 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172805 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170344 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167883 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165422 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162961 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160500 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158039 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148769 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146308 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143845 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141384 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138923 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136461 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134000 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131539 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129077 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126616 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124152 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121691 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119230 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116776 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114313 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111852 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109391 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105647 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103185 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100722 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098297 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095828 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093366 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090888 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088425 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085963 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083500 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081038 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078577 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076114 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073651 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071185 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043225 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038357 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035992 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033627 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031262 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027706 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025341 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022976 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020610 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018244 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015879 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013514 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011147 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008782 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006417 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004052 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001687 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999322 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996957 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994592 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992227 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989862 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987497 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985130 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982765 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980400 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978035 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 11. La soirée du 2 mars]{.pcalibre lang="X-NONE"}]{#_Toc342942054 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11.-la-soirée-du-2-mars .calibre171 .sigil_not_in_toc}
+
+James Burbank, ses compagnons, le plus grand nombre des Noirs étaient prêts pour le combat. Ils n\'avaient plus qu\'à attendre l\'attaque. Les dispositions étaient prises, pour résister d\'abord derrière les palanques de l\'enceinte, qui défendaient le parc particulier, ensuite à l\'abri des murailles de Castle-House, dans le cas où, le parc étant envahi, il faudrait y chercher refuge.
+
+Vers cinq heures, des clameurs, assez distinctes déjà, indiquaient que les assaillants n\'étaient plus éloignés. À défaut de leurs cris, il n\'eût été que trop facile de reconnaître qu\'ils occupaient maintenant toute la partie nord du domaine. En maint endroit, d\'épaisses fumées tourbillonnaient au-dessus des forêts qui fermaient l\'horizon de ce côté. Les scieries avaient été livrées aux flammes, les baraccons des Noirs, dévorés par l\'incendie, après avoir été pillés. Ces pauvres gens n\'avaient pas eu le temps de mettre en sûreté les quelques objets abandonnés dans leurs cases, dont l\'acte d\'affranchissement leur assurait la propriété depuis la veille. Aussi, quels cris de désespoir répondirent aux hurlements de la bande, et quels cris de colère ! C\'était leur bien que ces malfaiteurs venaient de détruire, après avoir envahi Camdless-Bay.
+
+Cependant les clameurs se rapprochaient peu à peu de Castle-House. De sinistres lueurs éclairaient l\'horizon du nord, comme si le soleil se fût couché dans cette direction. Parfois, de chaudes fumées se rabattaient jusqu\'au château. Il se faisait des détonations violentes, produites par les bois secs entassés sur les chantiers de la plantation. Bientôt une explosion plus intense indiqua qu\'une chaudière des scieries venait de sauter. La dévastation s\'annonçait dans toute son horreur.
+
+En ce moment, James Burbank, MM. Carrol et Stannard se trouvaient devant la poterne de l\'enceinte. Là, ils recevaient et disposaient les derniers détachements de Noirs, qui venaient de se replier peu à peu. On devait s\'attendre à voir les assaillants apparaître d\'un instant à l\'autre. Sans doute, une fusillade plus nourrie indiquerait le moment où ils ne seraient qu\'à une faible distance de la palissade. Ils pourraient l\'assaillir d\'autant plus facilement, que les premiers arbres se groupaient à cinquante yards au plus des palanques, qu\'il était donc possible de s\'en approcher presque à couvert, et que les balles arriveraient avant que les fusils n\'eussent été aperçus.
+
+Après avoir tenu conseil, James Burbank et ses amis jugèrent à propos de mettre leur personnel à l\'abri de la palissade. Là, ceux des Noirs qui étaient armés, seraient moins exposés en faisant feu par l\'angle que les bouts pointus des palanques formaient à leur partie supérieure. Puis, lorsque les assaillants essayeraient de franchir le rio afin d\'emporter l\'enceinte de vive force, on parviendrait peut-être à les repousser.
+
+L\'ordre fut exécuté. Les Noirs rentrèrent en dedans, et la poterne allait être fermée, lorsque James Burbank, jetant un dernier coup d\'oeil au-dehors, aperçut un homme qui courait à toutes jambes, comme s\'il eût voulu se réfugier au milieu des défenseurs de Castle-House.
+
+Cet homme le voulait, et quelques coups de feu, tirés du bois voisin, lui furent envoyés, sans l\'atteindre. D\'un bond il se précipita, vers le ponceau, et se trouva bientôt en sûreté dans l\'enceinte, dont la porte aussitôt refermée, fut assujettie solidement.
+
+« Qui êtes-vous ? lui demanda James Burbank.
+
+--- Un des employés de M. Harvey, votre correspondant à Jacksonville, répondit-il.
+
+--- C\'est M. Harvey qui vous a dépêché à Castle-House pour une communication ?
+
+--- Oui, et comme le fleuve était surveillé, je n\'ai pu venir directement par le Saint-John.
+
+--- Et vous avez pu vous joindre à cette milice, à ces assaillants, sans éveiller leurs soupçons ?
+
+--- Oui. Ils sont suivis de toute une troupe de pillards. Je me suis mêlé à eux, et, dès que j\'ai été à portée de m\'enfuir, je l\'ai fait, au risque de quelques coups de fusils.
+
+--- Bien, mon ami ! Merci !
+
+--- Vous avez, sans doute, un mot d\'Harvey pour moi ?
+
+--- Oui, monsieur Burbank. Le voici ! »
+
+James Burbank prit le billet et le lut. M. Harvey lui disait qu\'il pouvait avoir toute confiance dans son messager, John Bruce, dont le dévouement lui était assuré. Après l\'avoir entendu, M. Burbank verrait ce qu\'il aurait à faire pour la sécurité de ses compagnons.
+
+En ce moment, une douzaine de coups de feu éclatèrent au-dehors. Il n\'y avait pas un instant à perdre.
+
+« Que me fait savoir M. Harvey par votre entremise ? demanda James Burbank.
+
+--- Ceci, d\'abord, répondit John Bruce. C\'est que la troupe armée, qui a passé le fleuve pour se porter sur Camdless-Bay, compte de quatorze à quinze cents hommes.
+
+--- Je ne l\'avais pas évaluée à moins. Après ? Est-ce Texar qui s\'est mis à sa tête ?
+
+--- Il a été impossible à M. Harvey de le savoir, reprit John Bruce.
+
+Ce qui est certain, c\'est que Texar n\'est plus à Jacksonville depuis vingt-quatre heures !
+
+--- Cela doit cacher quelque nouvelle machination de ce misérable, dit James Burbank.
+
+--- Oui, répondit John Bruce, c\'est l\'avis de M. Harvey. D\'ailleurs, Texar n\'a pas besoin d\'être là pour faire exécuter l\'ordre relatif à la dispersion des esclaves affranchis.
+
+--- Les disperser\... S\'écria James Burbank, les disperser en s\'aidant de l\'incendie et du pillage !
+
+--- Aussi, M. Harvey pense-t-il, puisqu\'il en est temps encore, que vous feriez bien de mettre votre famille en sûreté en lui faisant quitter immédiatement Castle-House ?
+
+--- Castle-House est en état de résister, répondit James Burbank, et nous ne le quitterons que si la situation devient intenable. -- Il n\'y a rien de nouveau à Jacksonville ?
+
+--- Rien, monsieur Burbank.
+
+--- Et les troupes fédérales n\'ont encore fait aucun mouvement vers la Floride ?
+
+--- Aucun depuis qu\'elles ont occupé Fernandina et la baie de Saint-Mary. -- Ainsi, le but de votre mission ?
+
+--- C\'était d\'abord de vous apprendre que la dispersion des esclaves n\'est qu\'un prétexte, imaginé par Texar, pour dévaster la plantation et s\'emparer de votre personne !
+
+--- Vous ne savez pas, répondit James Burbank en insistant, si Texar est à la tête de ces malfaiteurs ?
+
+--- Non, monsieur Burbank. M. Harvey a vainement cherché à le savoir. Moi-même, depuis que nous avons quitté Jacksonville, je n\'ai pu me renseigner à cet égard.
+
+--- Est-ce que les hommes de la milice, qui se sont joints à cette bande d\'assaillants, sont nombreux ?
+
+--- Une centaine au plus, répondit John Bruce.
+
+Mais cette populace qu\'ils entraînent à leur suite est composée des pires malfaiteurs. Texar les fait armer, et il est à craindre qu\'ils ne se livrent à tous les excès. Je vous le répète, monsieur Burbank, l\'opinion de M. Harvey est que vous feriez bien d\'abandonner immédiatement Castle-House. Aussi, m\'a-t-il chargé de vous dire qu\'il mettait son cottage de Hampton-Red à votre disposition. Ce cottage est situé à une dizaine de milles en amont, sur la rive droite du fleuve. Là, on peut être en sûreté pendant quelques jours\...
+
+--- Oui\... Je sais !
+
+--- Je pourrais secrètement y conduire votre famille et vous-même, à la condition de quitter Castle-House à l\'instant même, avant que toute retraite fût devenue impossible\...
+
+--- Je remercie M. Harvey, et vous aussi, mon ami, dit James Burbank. Nous n\'en sommes pas encore là.
+
+--- Comme vous voudrez, monsieur Burbank, répondit John Bruce. Je n\'en reste pas moins à votre disposition pour le cas où vous auriez besoin de mes services. »
+
+L\'attaque qui commençait en ce moment nécessita toute l\'attention de James Burbank.
+
+Une violente fusillade venait d\'éclater soudain, sans que l\'on pût encore apercevoir les assaillants, qui se tenaient à l\'abri des premiers arbres. Les balles pleuvaient sur la palissade, sans lui causer grand dommage, il est vrai. Malheureusement, James Burbank et ses compagnons ne pouvaient que faiblement riposter, ayant à peine une quarantaine de fusils à leur disposition. Cependant, placés dans de meilleures conditions pour tirer, leurs coups étaient plus assurés que ceux des miliciens, mis en tête de la colonne.
+
+Aussi, un certain nombre d\'entre eux furent-ils atteints sur la lisière des bois.
+
+Ce combat à distance dura une demi-heure environ, plutôt à l\'avantage du personnel de Camdless-Bay. Puis les assaillants se ruèrent sur l\'enceinte pour l\'emporter d\'assaut. Comme ils voulaient l\'attaquer sur plusieurs points à la fois, ils s\'étaient munis de planches et de madriers qu\'ils avaient pris dans les chantiers de la plantation, maintenant livrés aux flammes. En vingt endroits, ces madriers, jetés en travers du rio, permirent aux gens de l\'Espagnol d\'atteindre le pied des palanques, non sans avoir éprouvé de sérieuses pertes en morts et en blessés. Et alors, ils s\'accrochèrent aux pieux, ils se hissèrent les uns sur les autres, mais ils ne réussirent point à passer. Les Noirs, exaspérés contre ces incendiaires, les repoussaient avec un grand courage. Toutefois, il était manifeste que les défenseurs de Camdless-Bay ne pouvaient se porter sur tous les points menacés par un trop grand nombre d\'ennemis. Jusqu\'à la nuit tombante, néanmoins, ils purent leur tenir tête, tout en n\'ayant encore reçu que des blessures peu graves. James Burbank et Walter Stannard, bien qu\'ils ne se fussent point épargnés, n\'avaient pas même été touchés. Seul, Edward Carrol, frappé d\'une balle qui lui déchira l\'épaule, dut rentrer dans le hall de l\'habitation, où Mme Burbank, Alice et Zermah lui donnèrent tous leurs soins.
+
+Cependant, la nuit allait venir en aide aux assaillants. À la faveur des ténèbres, une cinquantaine des plus déterminés s\'approchèrent de la poterne et ils l\'attaquèrent à coups de hache. Elle résista. Sans doute, ils n\'auraient pu l\'enfoncer pour pénétrer dans l\'enceinte, si une brèche ne leur eût été ouverte par un coup d\'audace.
+
+En effet, une partie des communs prit feu tout à coup, et les flammes, dévorant ce bois très sec, rongèrent la partie des palanques contre laquelle ils étaient appuyés.
+
+James Burbank se précipita vers la partie incendiée de l\'enceinte, sinon pour l\'éteindre, du moins pour la défendre\...
+
+Alors, à la lueur des flammes, on put voir un homme bondir à travers la fumée, se précipiter au-dehors, franchir le rio sur les madriers entassés à sa surface.
+
+C\'était un des assaillants qui avait pu pénétrer dans le parc, du côté du Saint-John, en se glissant à travers les roseaux de la rive. Puis, sans avoir été vu, il s\'était introduit dans une des écuries. Là, au risque de périr dans les flammes, il avait mis le feu à quelques bottes de paille pour détruire cette portion des palanques.
+
+Une brèche était donc ouverte. En vain, James Burbank et ses compagnons essayèrent-ils de barrer le passage. Une masse d\'assaillants se précipita au travers, et le parc fut aussitôt envahi par quelques centaines d\'hommes. Beaucoup tombèrent de part et d\'autre, car on se battait corps à corps. Les coups de feu éclataient en toutes directions. Bientôt Castle-House fut entièrement cerné, tandis que les Noirs, accablés par le nombre, rejetés hors du parc, étaient forcés de prendre la fuite au milieu des bois de Camdless-Bay. Ils avaient lutté tant qu\'ils avaient pu, avec dévouement, avec courage ; mais, à résister plus longtemps dans ces conditions inégales, ils eussent été massacrés jusqu\'au dernier.
+
+James Burbank, Walter Stannard, Perry, les sous-régisseurs, John Bruce qui, lui aussi, s\'était bravement battu, quelques Noirs enfin, avaient dû chercher refuge derrière les murailles de Castle-House.
+
+Il était alors près de huit heures du soir.
+
+La nuit était sombre à l\'ouest. Vers le nord, le ciel s\'éclairait encore du reflet des incendies, allumés à la surface du domaine.
+
+James Burbank et Walter Stannard rentrèrent précipitamment.
+
+« Il vous faut fuir, dit James Burbank, fuir à l\'instant ! Soit que ces bandits pénètrent ici de vive force, soit qu\'ils attendent au pied de Castle-House jusqu\'à l\'instant où nous serons obligés de nous rendre, il y a péril à rester ! L\'embarcation est prête ! Il est temps de partir ! Ma femme, Alice, je vous en supplie, suivez Zermah avec Dy au Roc-des-Cèdres ! Là, vous serez en sûreté : et, si nous sommes forcés de fuir à notre tour, nous vous retrouverons, nous vous rejoindrons\...
+
+--- Mon père, dit Miss Alice, venez avec nous\... Et vous aussi, monsieur Burbank !
+
+--- Oui ! James, oui ! Viens ! s\'écria Mme Burbank.
+
+--- Moi ! répondit James Burbank. Abandonner Castle-House à ces misérables. Jamais, tant que la résistance sera possible ! Nous pouvons tenir contre eux longtemps encore ! Et, lorsque nous vous saurons en sûreté, nous n\'en serons que plus forts pour nous défendre !
+
+--- James !
+
+--- Il le faut ! »
+
+Des hurlements plus terribles retentirent. La porte retentissait des coups que lui assénaient les assaillants, en attaquant la façade principale de Castle-House, du côté du fleuve.
+
+« Partez ! s\'écria James Burbank. La nuit est déjà obscure ! On ne vous verra pas dans l\'ombre ! Partez ! Vous nous paralysez en restant ici ! Pour Dieu, partez ! »
+
+Zermah avait pris les devants, tenant la petite Dy par la main.
+
+Mme Burbank dut s\'arracher aux bras de son mari, Alice à ceux de son père. Toutes deux disparurent par l\'escalier qui s\'engageait dans le sous-sol pour descendre au tunnel de la crique Marino.
+
+« Et maintenant, mes amis, dit James Burbank, en s\'adressant à Perry, aux sous-régisseurs, aux quelques Noirs qui ne l\'avaient pas quitté, défendons-nous jusqu\'à la mort ! »
+
+Tous, à sa suite, gravirent le grand escalier du hall et allèrent se poster aux fenêtres du premier étage. De là, aux centaines de coups de feu qui criblaient de balles la façade de Castle-House, ils répondirent par des coups de fusil plus rares, mais plus sûrs, puisqu\'ils portaient dans la masse des assaillants. Il faudrait donc que ceux-ci en arrivassent à forcer la porte principale, soit par la hache soit par le feu. Cette fois, personne ne leur ouvrirait une brèche pour les introduire dans l\'habitation. Ce qui avait été tenté au-dehors contre une palissade de bois ne pouvait plus l\'être au-dedans contre des murs de pierre.
+
+Cependant, en se défilant du mieux possible, au milieu de l\'obscurité déjà profonde, une vingtaine d\'hommes résolus s\'approchèrent du perron. La porte fut alors attaquée plus violemment. Il fallait qu\'elle fût solide pour résister aux coups de haches et de pics. Cette tentative coûta la vie à plusieurs des assaillants, car la disposition des meurtrières permettait de croiser les feux sur ce point.
+
+En même temps, une circonstance vint aggraver la situation. Les munitions menaçaient de manquer. James Burbank, ses amis, ses régisseurs, les Noirs qui avaient été armés de fusils, en avaient consommé la plus grande part, depuis trois heures que durait cet assaut.
+
+S\'il fallait résister pendant quelque temps encore, comment le pourrait-on, puisque les dernières cartouches allaient être brûlées ? Faudrait-il abandonner Castle-House à ces forcenés, qui n\'en laisseraient que des ruines ?
+
+Et pourtant, il n\'y aurait que ce parti à prendre, si les assaillants parvenaient à forcer la porte, qui s\'ébranlait déjà. James Burbank le sentait bien, mais il voulait attendre. Une diversion ne pouvait-elle à chaque instant se produire ? Maintenant, il n\'y avait plus à craindre ni pour Mme Burbank, ni pour sa fille, ni pour Alice Stannard. Et des hommes se devaient à eux-mêmes de lutter jusqu\'au bout contre ce ramas de meurtriers, d\'incendiaires et de pillards.
+
+« Nous avons encore des munitions pour une heure ! s\'écria James Burbank. Épuisons-les, mes amis, et ne livrons pas notre Castle-House ! » James Burbank n\'avait pas achevé sa phrase, qu\'une sourde détonation retentit au loin.
+
+« Un coup de canon ! » s\'écria-t-il.
+
+Une autre détonation se fit entendre encore dans la direction de l\'ouest, de l\'autre côté du fleuve.
+
+« Un second coup ! dit M. Stannard.
+
+--- Écoutons ! » répondit James Burbank.
+
+Troisième détonation qu\'une poussée du vent apporta plus distinctement jusqu\'à Castle-House.
+
+« Est-ce un signal pour rappeler les assaillants sur la rive droite ? dit Walter Stannard.
+
+--- Peut-être ! répondit John Bruce. Il est possible qu\'il y ait une alerte là-bas. -- Oui, et, si ces trois coups de canon n\'ont pas été tirés de Jacksonville\... Dit le régisseur.
+
+--- C\'est qu\'ils ont été tirés des navires fédéraux ! s\'écria James Burbank. La flottille aurait-elle enfin forcé l\'entrée du Saint-John et remonté le fleuve ? »
+
+En somme, il n\'était pas impossible à ce que le commodore Dupont fût devenu maître du fleuve, au moins dans la partie inférieure de son cours.
+
+Il n\'en était rien. Ces trois coups de canon avaient été tirés de la batterie de Jacksonville. Cela ne fut bientôt que trop évident, car ils ne se renouvelèrent pas. Il n\'y avait donc aucun engagement entre les navires nordistes et les troupes confédérées, soit sur le Saint-John, soit sur les plaines du comté de Duval.
+
+Et, il n\'y eut plus à douter que ce fut un signal de rappel, adressé aux chefs du détachement de la milice, lorsque Perry, qui s\'était porté à l\'une des meurtrières latérales, s\'écria :
+
+« Ils se retirent ! Ils se retirent ! »
+
+James Burbank et ses compagnons se dirigèrent aussitôt vers la fenêtre du centre, qui fut entrouverte.
+
+Les coups de hache ne retentissaient plus sur la porte. Les coups de feu avaient cessé. On n\'entrevoyait plus un seul des assaillants. Si leurs cris, leurs derniers hurlements, passaient encore dans l\'air, ils s\'éloignaient manifestement.
+
+Ainsi donc, un incident quelconque avait obligé les autorités de Jacksonville à rappeler toute cette troupe sur l\'autre rive du Saint-John. Sans doute, il avait été convenu que trois coups de canon seraient tirés pour le cas où quelque mouvement de l\'escadre menacerait les positions des confédérés.
+
+Aussi les assaillants avaient-ils brusquement suspendu leur dernier assaut. Maintenant, à travers les champs dévastés du domaine, ils suivaient cette route encore éclairée des lueurs de l\'incendie, et, une heure plus tard, ils repassaient le fleuve à l\'endroit où les attendaient leurs embarcations, deux milles au-dessous de Camdless-Bay.
+
+Bientôt les cris se furent éteints dans l\'éloignement. Aux bruyantes détonations succéda un silence absolu. C\'était comme un silence de mort sur la plantation.
+
+Il était alors neuf heures et demie du soir. James Burbank et ses compagnons redescendirent au rez-de-chaussée dans le hall. Là se trouvait Edward Carrol, étendu sur un divan, légèrement blessé, plutôt affaibli par la perte de son sang.
+
+On lui apprit ce qui s\'était passé à la suite du signal envoyé de Jacksonville. Castle-House, en ce moment, du moins, n\'avait plus rien à craindre de la bande de Texar.
+
+« Oui, sans doute, dit James Burbank, mais force est restée à la violence, à l\'arbitraire ! Ce misérable a voulu disperser mes Noirs affranchis, et ils sont dispersés ! Il a voulu dévaster la plantation par vengeance, et il n\'y reste plus que des ruines !
+
+--- James, dit Walter Stannard, il pouvait nous arriver de plus grands malheurs encore. Aucun de nous n\'a succombé en défendant Castle-House. Votre femme, votre fille, la mienne, auraient pu tomber entre les mains de ces malfaiteurs, et elles sont en sûreté.
+
+--- Vous avez raison, Stannard, et Dieu en soit loué ! Ce qui a été fait par ordre de Texar ne restera pas impuni, et je saurai faire justice du sang versé !
+
+--- Peut-être, dit alors Edward Carrol, est-il regrettable que madame Burbank, Alice, Dy et Zermah aient quitté Castle-House ! Je sais bien que nous étions très menacés alors !
+
+Cependant, j\'aimerais mieux à présent les savoir ici !
+
+--- Avant le jour, j\'irai les rejoindre, répondit James Burbank. Elles doivent être dans une inquiétude mortelle, et il faut les rassurer. Je verrai alors s\'il y a lieu de les ramener à Camdless-Bay ou de les laisser pendant quelques jours au Roc-des-Cèdres !
+
+--- Oui, répondit M. Stannard, il ne faut rien précipiter. Tout n\'est peut-être pas fini\... Et, tant que Jacksonville sera sous la domination de Texar, nous aurons lieu de craindre\...
+
+--- C\'est pourquoi j\'agirai prudemment, répondit James Burbank. -- Perry, vous veillerez à ce qu\'une embarcation soit prête un peu avant le jour. Il me suffira d\'un homme pour remonter\... »
+
+Un cri douloureux, un appel désespéré, interrompit soudain James Burbank.
+
+Ce cri venait de la partie du parc dont les pelouses s\'étendaient devant l\'habitation. Il fut bientôt suivi de ces mots :
+
+« Mon père ! Mon père !
+
+--- La voix de ma fille ! s\'écria M. Stannard.
+
+--- Ah ! Quelque nouveau malheur ! » répondit James Burbank. Et tous, ouvrant la porte, se précipitèrent au-dehors.
+
+Miss Alice se tenait là, à quelques pas, près de Mme Burbank, qui était étendue sur le sol.
+
+Dy ni Zermah ne se trouvaient avec elles.
+
+« Mon enfant ? » s\'écria James Burbank.
+
+À sa voix, Mme Burbank se releva. Elle ne pouvait parler\... Elle tendit le bras vers le fleuve.
+
+« Enlevées ! Enlevées !
+
+--- Oui ! Par Texar ! » répondit Alice. Puis elle s affaissa près de Mme Burbank.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185111 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180189 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177728 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175267 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172806 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170345 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167884 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165423 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162962 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160501 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158040 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148770 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146309 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143846 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141385 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138924 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136462 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134001 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131540 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129078 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126617 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124153 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121692 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119231 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116777 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114314 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111853 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109392 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105648 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103186 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100723 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098298 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095829 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093367 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090889 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088426 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085964 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083501 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081039 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078578 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076115 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073652 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071186 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043226 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038358 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035993 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033628 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031263 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027707 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025342 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022977 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020611 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018245 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015880 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013515 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011148 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008783 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006418 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004053 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001688 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999323 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996958 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994593 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992228 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989863 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987498 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985131 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982766 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980401 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978036 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 12 -- Les six jours qui suivent]{.pcalibre lang="X-NONE"}]{#_Toc342942055 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12-les-six-jours-qui-suivent .calibre171 .sigil_not_in_toc}
+
+Lorsque Mme Burbank et Miss Alice s\'étaient engagées dans le tunnel qui conduit à la petite crique Marino sur la rive du Saint-John, Zermah les précédait. Celle-ci tenait la petite fille d\'une main, de l\'autre, elle portait une lanterne, dont la faible lueur éclairait leur marche. Arrivée à l\'extrémité du tunnel, Zermah avait prié Mme Burbank de l\'attendre. Elle voulait s\'assurer que l\'embarcation et les deux Noirs, qui devaient la conduire au Roc-des-Cèdres, se trouvaient à leur poste. Après avoir ouvert la porte qui fermait l\'extrémité du tunnel, elle s\'était avancée vers le fleuve. Depuis une minute -- rien qu\'une minute -- Mme Burbank et Miss Alice guettaient le retour de Zermah, lorsque la jeune fille remarqua que la petite Dy n\'était plus là.
+
+« Dy ? Dy ? » cria Mme Burbank, au risque de trahir sa présence en cet endroit.
+
+L\'enfant ne répondit pas. Habituée à toujours suivre Zermah, elle l\'avait accompagnée en dehors du tunnel, du côté de la crique, sans que sa mère s\'en fût aperçue.
+
+Soudain, des gémissements se firent entendre. Pressentant quelque nouveau danger, ne songeant même pas à se demander s\'il ne les menaçait pas elles-mêmes, Mme Burbank et Miss Alice s\'élancèrent au-dehors, coururent vers la rive du fleuve, et n\'arrivèrent sur la berge que pour voir une embarcation s\'éloigner dans l\'ombre.
+
+« À moi\... À moi ! C\'est Texar ! Criait Zermah.
+
+--- Texar ! Texar ! » s\'écria Miss Alice à son tour.
+
+Et, de la main, elle montrait l\'Espagnol, éclairé par le reflet des incendies de Camdless-Bay, debout à l\'arrière de l\'embarcation, laquelle ne tarda pas à disparaître.
+
+Puis tout se tut.
+
+Les deux Noirs, égorgés, gisaient sur le sol.
+
+Alors Mme Burbank, affolée, suivie d\'Alice qui n\'avait pu la retenir, se précipita vers la rive, appelant sa petite fille. Aucun cri ne répondit aux siens. L\'embarcation était devenue invisible, soit que l\'ombre la dérobât aux regards, soit qu\'elle traversât le fleuve pour accoster en quelque point de la rive gauche.
+
+Cette recherche se poursuivit inutilement pendant une heure. Enfin, Mme Burbank, à bout de force, tomba sur la berge. Miss Alice, déployant alors une énergie extraordinaire, parvint à relever la malheureuse mère, à la soutenir, presque à la porter. Au loin, dans la direction de Castle-House, éclataient les détonations des armes à feu, et parfois les effroyables hurlements de la bande assiégeante. Il fallait revenir de ce côté, pourtant ! Il fallait essayer de rentrer dans l\'habitation par le tunnel, de s\'en faire ouvrir la porte qui communiquait avec l\'escalier du sous-sol. Une fois là, Miss Alice parviendrait-elle à se faire entendre ?
+
+La jeune fille entraîna Mme Burbank, qui n\'avait plus conscience de ce qu\'elle faisait. En revenant le long de la rive, il fallut vingt fois s\'arrêter. Toutes deux pouvaient à chaque instant tomber dans une de ces bandes qui dévastaient la plantation. Peut-être eût-il mieux valu attendre le jour ? Mais, sur cette berge, comment donner à Mme Burbank les soins qu\'exigeait son état ? Aussi Miss Alice résolut-elle, coûte que coûte, de regagner Castle-House. Toutefois, comme de suivre les courbes du fleuve allongeait son chemin, elle pensa qu\'il valait mieux aller plus directement à travers les prairies, en se guidant sur la lueur des baraccons en flammes. C\'est ce qu\'elle fit, et c\'est ainsi qu\'elle arriva aux abords de l\'habitation.
+
+Là, Mme Burbank resta sans mouvement, près de Miss Alice, qui ne pouvait plus se soutenir elle-même.
+
+À ce moment, le détachement de la milice, suivie de la horde des pillards, après avoir abandonné l\'assaut, était loin déjà de l\'enceinte.
+
+On n\'entendait plus aucun cri, ni à l\'extérieur, ni à l\'intérieur. Miss Alice put croire que les assaillants, après s\'être emparés de Castle-House, l\'avaient quitté, sans y avoir laissé un seul de ses défenseurs. Alors elle éprouva une suprême angoisse, et tomba à son tour épuisée, pendant qu\'un dernier gémissement lui échappait, un dernier appel. Il avait été entendu. James Burbank et ses amis s\'étaient jetés au-dehors. Maintenant, ils savaient tout ce qui s\'était passé à la crique Marino. Qu\'importait que ces bandits se fussent éloignés d\'eux ? Qu\'importait qu\'ils n\'eussent plus à craindre de se voir entre leurs mains ? Un effroyable malheur venait de les frapper. La petite Dy était au pouvoir de Texar !
+
+Voilà ce que Miss Alice raconta en phrases entrecoupées de sanglots. Voilà ce qu\'entendit Mme Burbank, revenue à elle, et noyée dans ses larmes. Voilà ce qu\'apprirent James Burbank, Stannard, Carrol, Perry, et leurs quelques compagnons. Cette pauvre enfant enlevée, entraînée on ne savait où, entre les mains du plus cruel ennemi de son père ! Que pouvait-il y avoir au-delà, et était-il possible que l\'avenir réservât de plus grandes douleurs à cette famille ?
+
+Tous furent accablés de ce dernier coup. Après que Mme Burbank eut été transportée dans sa chambre et déposée sur son lit, Miss Alice était restée près d\'elle.
+
+En bas, dans le hall, James Burbank et ses amis cherchaient à se concerter sur ce qu\'il y aurait à faire pour retrouver Dy, pour l\'arracher avec Zermah aux mains de Texar. Oui, sans doute, la dévouée métisse essayerait de défendre l\'enfant jusqu\'à la mort ! Mais, prisonnière d\'un misérable animé d\'une haine personnelle, n\'allait-elle pas payer de sa vie les dénonciations qu\'elle avait portées contre lui ?
+
+Alors, James Burbank s\'accusait d\'avoir obligé sa femme à quitter Castle-House, de lui avoir préparé un moyen d\'évasion qui avait tourné si mal.
+
+Était-ce donc le hasard seul auquel il fallait attribuer la présence de Texar à la crique Marino ? Non, évidemment. Texar, d\'une façon ou d\'une autre, connaissait l\'existence du tunnel. Il s\'était dit que les défenseurs de Camdless-Bay tenteraient peut-être de s\'échapper par là, lorsqu\'ils ne pourraient plus tenir dans l\'habitation. Et, après avoir conduit sa troupe sur la rive droite du fleuve, après en avoir forcé les palissades de l\'enceinte, après avoir obligé James Burbank et les siens à se réfugier derrière les murs de Castle-House, nul doute qu\'il ne fût venu se poster avec quelques-uns de ses complices près de la crique Marino. Là, il avait inopinément surpris les deux Noirs qui gardaient l\'embarcation, il avait fait égorger ces malheureux dont les cris ne purent être entendus au milieu du tumulte des assaillants. Puis l\'Espagnol avait attendu que Zermah se montrât, et la petite Dy un peu après elle. Les voyant seules, il dut penser que ni Mme Burbank ni son mari, ni ses amis, ne s\'étaient encore décidés à fuir Castle-House. Donc, il fallait se contenter de cette proie, et il avait enlevé l\'enfant et la métisse pour les conduire en quelque retraite inconnue où il serait impossible de les retrouver !
+
+Et de quel coup plus terrible le misérable aurait-il pu frapper la famille Burbank ? Ce père, cette mère, les eût-il fait souffrir davantage, s\'il leur eût arraché le coeur !
+
+Ce fut une horrible nuit que passèrent les survivants de Camdless-Bay. Ne devaient-ils pas craindre, en outre, que les assaillants songeassent, à revenir, plus nombreux ou mieux armés, afin d\'obliger les derniers défenseurs de Castle-House à se rendre ? Cela n\'arriva pas, heureusement. Le jour reparut sans que James Burbank et ses compagnons eussent été mis en alerte par une nouvelle attaque.
+
+Combien il aurait été utile, cependant, de savoir à quel propos ces trois coups de canon avaient été tirés la veille, et pourquoi les assaillants s\'étaient repliés, alors qu\'un dernier effort -- un effort d\'une heure à peine -- leur eût livré l\'habitation ! Devait-on croire que ce rappel était motivé par quelque démonstration des fédéraux qui aurait eu lieu à l\'embouchure du Saint-John ? Les navires du commodore Dupont étaient-ils maîtres de Jacksonville ? Rien n\'eût été plus désirable dans l\'intérêt de James Burbank et des siens. Ils auraient pu commencer en toute sécurité les plus actives recherches pour retrouver Dy et Zermah, s\'attaquer directement à Texar, si l\'Espagnol n\'avait pas battu en retraite avec ses partisans, le poursuivre comme le promoteur des dévastations de Camdless-Bay, et surtout comme l\'auteur du double rapt de la métisse et de l\'enfant.
+
+Cette fois, il n\'y aurait pas d\'alibi possible et de la nature de celui que l\'Espagnol avait invoqué au début de cette histoire, quand il avait comparu, devant le magistrat de Saint-Augustine. Si Texar n\'était pas à la tête de cette bande de malfaiteurs qui avait envahi Camdless-Bay -- ce que le messager de M. Harvey n\'avait pu dire à James Burbank -- le dernier cri de Zermah n\'avait-il pas clairement révélé quelle part directe il avait prise au rapt. Et d\'ailleurs, Miss Alice ne l\'avait-elle pas reconnu au moment où son embarcation s\'éloignait ?
+
+Oui ! La justice fédérale saurait bien faire avouer à ce misérable en quel lieu il avait entraîné ses victimes, et le punir de crimes qu\'il ne pourrait plus nier.
+
+Malheureusement, rien ne vint confirmer les hypothèses de James Burbank relativement à l\'arrivée de la flottille nordiste dans les eaux du Saint-John. À cette date du 3 mars, aucun navire n\'avait encore quitté la baie de Saint-Mary. Cela fut amplement démontré par des nouvelles que l\'un des régisseurs alla chercher le jour même sur l\'autre rive du fleuve. Nul bâtiment n\'avait encore paru à la hauteur du phare de Pablo. Tout se bornait à l\'occupation de Fernandina et du fort Clinch. Il semblait que le commodore Dupont ne voulût s\'avancer qu\'avec une extrême circonspection jusqu\'au centre de la Floride. Quant à Jacksonville, le parti de l\'émeute y dominait toujours. Après l\'expédition de Camdless-Bay, l\'Espagnol avait reparu dans la ville. Il y organisait la résistance pour le cas où les canonnières de Stevens tenteraient de franchir la barre du fleuve. Sans doute, quelque fausse alerte l\'avait rappelé la veille avec sa bande de pillards. Après tout, l\'oeuvre de vengeance de Texar n\'était-elle pas suffisante, maintenant que la plantation était dévastée, les chantiers détruits par l\'incendie, les Nègres dispersés dans les forêts du comté et auxquels il ne restait plus rien de leur baraccons en ruine, enfin la petite Dy enlevée à son père, à sa mère, sans qu\'on put retrouver trace de l\'enlèvement.
+
+James Burbank n\'en fut que trop certain, quand, pendant la matinée, Walter Stannard et lui eurent remonté la rive droite du fleuve. En vain avaient-ils exploré les moindres anses, cherché quelque indice qui leur aurait indiqué la direction suivie par l\'embarcation. Toutefois, cette recherche n\'avait pu être que bien incomplète, et il faudrait également visiter la rive gauche.
+
+Mais, en ce moment, était-ce possible ? Ne fallait-il pas attendre que Texar et ses partisans fussent réduits à l\'impuissance par l\'arrivée des fédéraux ? Mme Burbank, dans l\'état où elle se trouvait, Miss Alice, qui ne pouvait plus la quitter, Edward Carrol, alité pour quelques jours, n\'eût-il pas été imprudent de les laisser seuls à Castle-House, lorsqu\'un retour des assaillants était toujours à redouter ?
+
+Et, ce qui était plus désespérant encore, c\'est que James Burbank ne pouvait même songer à porter plainte contre Texar, ni pour la dévastation de son domaine, ni pour l\'enlèvement de Zermah et de la petite fille. Le seul magistrat auquel il aurait eu à s\'adresser, c\'était l\'auteur même de ces crimes. Il fallait donc attendre que la justice régulière eût repris son cours à Jacksonville.
+
+« James, dit M. Stannard, si les dangers qui menacent votre enfant sont terribles, du moins Zermah est avec elle, et vous pouvez compter sur son dévouement qui ira\...
+
+--- Jusqu\'à la mort\... Soit ! répondit James Burbank. Et quand Zermah sera morte ?
+
+--- Écoutez-moi, mon cher James, répondit M. Stannard. En y réfléchissant, ce n\'est pas l\'intérêt de Texar d\'en venir à cette extrémité. Il n\'a pas encore quitté Jacksonville, et, tant qu\'il y sera, je pense que ses victimes n\'ont aucun acte de violence à craindre de sa part. Votre enfant ne peut-elle être une garantie, un otage contre les représailles qu\'il doit redouter, non seulement de vous, mais aussi de la justice fédérale, pour avoir renversé les autorités régulières de Jacksonville et dévasté la plantation d\'un nordiste ? Évidemment. Aussi son intérêt est-il de les épargner, et mieux vaut attendre que Dupont et Sherman soient les maîtres du territoire pour agir contre lui !
+
+--- Et quand le seront-ils ? s\'écria James Burbank.
+
+--- Demain\... Aujourd\'hui, peut-être ! Je vous le répète, Dy est la sauvegarde de Texar. C\'est pour cela qu\'il a saisi l\'occasion de l\'enlever, sachant bien aussi qu\'il vous briserait le coeur, mon pauvre James, et le misérable y a cruellement réussi ! »
+
+Ainsi raisonnait M. Stannard, et il y avait de sérieux motifs pour que son raisonnement fut juste.
+
+Parvint-il à convaincre James Burbank ? Non, sans doute. Lui rendit-il un peu d\'espoir ? Pas davantage. C\'était impossible. Mais James Burbank comprit que, lui aussi, il devrait s\'astreindre à parler devant sa femme comme Walter Stannard venait de parler devant lui. Autrement, Mme Burbank n\'eût pas survécu à ce dernier coup. Et, lorsqu\'il fut de retour à l\'habitation, il fit valoir avec force ces arguments auxquels lui-même ne pouvait se rendre.
+
+Pendant ce temps, Perry et les sous-régisseurs visitaient Camdless-Bay. C\'était un spectacle navrant. Cela parut même faire une grande impression sur Pygmalion qui les accompagnait. Cet « homme libre » n\'avait point cru devoir suivre les esclaves affranchis, dispersés par Texar. Cette liberté d\'aller coucher dans les bois, d\'y souffrir du froid et de la faim, lui paraissait excessive. Aussi avait-il préféré rester à Castle-House, dût-il, comme Zermah, déchirer son acte d\'affranchissement pour conquérir le droit d\'y demeurer.
+
+« Tu le vois, Pyg ! lui répétait M. Perry. La plantation est dévastée, nos ateliers sont en ruine. Voilà ce que nous a coûté la liberté donnée à des gens de ta couleur !
+
+--- Monsieur Perry, répondait Pygmalion, ce n\'est pas ma faute\...
+
+--- C\'est ta faute, au contraire ! Si tes pareils et toi, vous n\'aviez pas applaudi tous ces déclamateurs qui tonnaient contre l\'esclavage, si vous aviez protesté contre les idées du Nord, si vous aviez pris les armes pour repousser les troupes fédérales, jamais M. Burbank n\'aurait eu cette pensée de vous affranchir, et le désastre ne se serait pas abattu sur Camdless-Bay ! -- Que puis-je y faire, maintenant, reprenait le désolé Pyg, que puis-je y faire monsieur Perry ?
+
+--- Je vais te le dire, Pyg, et c\'est ce que tu ferais, s\'il y avait en toi le moindre sentiment de justice ! -- Tu es libre, n\'est-ce pas ?
+
+--- Il paraît !
+
+--- Par conséquent, tu t\'appartiens ?
+
+--- Sans doute !
+
+--- Et, si tu t\'appartiens, rien ne t\'empêche de disposer de toi comme il te plaît ?
+
+--- Rien, monsieur Perry.
+
+--- Eh bien, à ta place, Pyg, je n\'hésiterais pas. J\'irais me proposer à la plantation voisine, je m\'y revendrais comme esclave, et le prix de ma vente, je l\'apporterais à mon ancien maître pour l\'indemniser du tort que je lui ai fait en me laissant affranchir ! »
+
+Le régisseur parlait-il sérieusement ? On ne saurait le dire, tant le digne homme était capable de déraisonner, lorsqu\'il enfourchait son habituel dada. En tout cas, le piteux Pygmalion, déconcerté, irrésolu, abasourdi, ne sut rien répondre.
+
+Toutefois, il n\'y avait pas à cela le moindre doute, l\'acte de générosité, accompli par James Burbank, venait d\'attirer le malheur et la ruine sur la plantation. Le désastre matériel, c\'était assez visible, devait se chiffrer par une somme considérable. Il ne restait plus rien des baraccons, détruits après avoir été préalablement saccagés par les pillards. Des scieries, des ateliers, on ne voyait plus qu\'un morceau de cendres, restes de l\'incendie, d\'où s\'échappaient encore des fumerolles de vapeur grisâtre. À la place des chantiers, qui servaient à l\'emmagasinage des bois déjà débités, à la place des fabriques, où se trouvaient les appareils pour « serancer » le coton, les presses hydrauliques pour le mettre en balles, les machines pour la manipulation de la canne à sucre, il n\'y avait que des murs noircis, prêts à s\'écrouler, des tas de briques rougies par le feu à l\'endroit où s\'élevait la cheminée des usines.
+
+Puis, à la surface des champs de caféiers, des rizières, des potagers, des enclos réservés aux animaux domestiques, la dévastation était complète, comme si une troupe de fauves eût ravagé le riche domaine pendant de longues heures ! En présence de ce lamentable spectacle, l\'indignation de M. Perry ne pouvait se contenir. Sa colère s\'échappait en paroles menaçantes. Pygmalion n\'était rien moins que rassuré à voir les farouches regards que le régisseur lançait sur lui. Aussi finit-il par le quitter pour regagner Castle-House, afin, dit-il, « de réfléchir plus à son aise à la proposition de se vendre que le régisseur venait de lui faire. » Et, sans doute, la journée ne put suffire à ses réflexions, car, le soir venu, il n\'avait encore pris aucune décision à cet égard.
+
+Cependant, ce jour même, quelques-uns des anciens esclaves étaient rentrés secrètement à Camdless-Bay. On imagine ce que dut être leur désolation, lorsqu\'ils ne trouvèrent pas une seule case qui n\'eût été détruite. James Burbank donna aussitôt des ordres pour que l\'on subvînt à leurs besoins du mieux possible. Un certain nombre de ces Noirs put être logé à l\'intérieur de l\'enceinte, dans la partie des communs respectée par l\'incendie. On les employa tout d\'abord à enterrer ceux de leurs compagnons morts en défendant Castle-House, et aussi les cadavres des assaillants qui avaient été tués dans l\'attaque, -- les blessés ayant été emmenés par leurs camarades. Il en fut pareillement des deux malheureux Nègres, égorgés au moment où Texar et ses complices les surprenaient à leur poste, près de la petite crique Marino.
+
+Ces soins pris, James Burbank ne pouvait songer encore à la réorganisation de son domaine.
+
+Il fallait attendre que la question fût décidée entre le Sud et le Nord dans l\'État de Floride. D\'autres soucis, bien autrement graves, l\'absorbaient jour et nuit. Tout ce qu\'il était en son pouvoir de faire pour retrouver les traces de sa petite fille, il le faisait. En outre, la santé de Mme Burbank était très compromise. Bien que Miss Alice ne la quittât pas d\'un instant et la soignât avec une sollicitude filiale, il importait qu\'un médecin fût appelé près d\'elle.
+
+Il y en avait un, à Jacksonville, qui possédait toute la confiance de la famille Burbank. Ce médecin n\'hésita pas à venir à Camdless-Bay, dès qu\'il y fut mandé. Il prescrivit quelques remèdes. Mais pourraient-ils être efficaces tant que la petite Dy ne serait pas rendue à sa mère ? Aussi, laissant Edward Carrol, qui devait être retenu quelque temps à la chambre, James Burbank et Walter Stannard allaient-ils chaque jour explorer les deux rives du fleuve. Ils fouillaient les îlots du Saint-John ; ils interrogeaient les gens du pays ; ils s\'informaient jusque dans les moindres hameaux du comté ; ils promettaient de l\'argent, et beaucoup, à qui leur apporterait un indice quelconque\... Leurs efforts demeuraient infructueux. Comment aurait-on pu leur apprendre que c\'était au fond de la Crique-Noire que se cachait l\'Espagnol ? Personne ne le savait. Et d\'ailleurs, pour mieux soustraire ses victimes à toutes les recherches, Texar n\'avait-il pas dû les entraîner vers le haut cours du fleuve ? Le territoire n\'était-il pas assez grand, n\'y avait-il pas assez de retraites dans les vastes forêts du centre, au milieu des immenses marais du sud de la Floride, dans la région de ces inaccessibles Everglades, pour que Texar pût si bien y cacher ses deux victimes qu\'on ne parviendrait pas à arriver jusqu\'à elles ? En même temps, par ce médecin, qui venait à Camdless-Bay, James Burbank fut chaque jour tenu au courant de ce qui se passait à Jacksonville et dans le nord du comté de Duval.
+
+Les fédéraux n\'avaient encore fait aucune démonstration nouvelle sur le territoire floridien, cela n\'était pas douteux. Des instructions spéciales, venues de Washington, leur commandaient-elles donc de s\'arrêter sur la frontière sans chercher à la franchir ? Une pareille attitude eût été désastreuse pour les intérêts des unionistes, établis sur les territoires du Sud, et plus particulièrement pour James Burbank, si compromis par ses derniers actes vis-à-vis des confédérés. Quoi qu\'il en soit, l\'escadre du commodore Dupont se trouvait encore dans l\'estuaire de Saint-Mary, et, si les gens de Texar avaient été rappelés par ces trois coups de canon, le soir du 2 mars, c\'est que les autorités de Jacksonville s\'étaient laissé prendre à une fausse alerte -- erreur à laquelle Castle-House devait d\'avoir échappé au pillage et à la ruine.
+
+Quant à l\'Espagnol, ne songeait-il pas à recommencer une expédition qu\'il pouvait considérer comme incomplète, puisque James Burbank n\'était pas en son pouvoir ? Hypothèse peu probable. En ce moment, sans doute, l\'attaque de Castle-House, l\'enlèvement de Dy et de Zermah, suffisaient à ses vues. D\'ailleurs, quelques bons citoyens n\'avaient pas craint de manifester leur désapprobation pour l\'affaire de Camdless-Bay et leur dégoût à l\'égard du chef des émeutiers de Jacksonville, bien que leur opinion ne fût pas pour préoccuper Texar. L\'Espagnol dominait plus que jamais dans le comté de Duval avec son parti de forcenés. Ces gens, sans aveu, ces aventuriers, sans scrupules, en prenaient à leur aise. Chaque jour, ils s\'abandonnaient à des plaisirs de toutes sortes, qui dégénéraient en orgies. Le bruit en arrivait jusqu\'à la plantation, et le ciel réverbérait l\'éclat des illuminations publiques que l\'on pouvait prendre pour la lueur de quelque nouvel incendie.
+
+Les gens modérés, réduits à se taire, durent subir le joug de cette faction, soutenue par la populace du comté.
+
+En somme, l\'inaction momentanée de l\'armée fédérale venait singulièrement en aide aux nouvelles autorités du pays. Elles en profitaient pour faire courir le bruit que les nordistes ne passeraient pas la frontière, qu\'ils avaient ordre de reculer en Georgie et dans les Carolines, que la péninsule floridienne ne subirait pas l\'invasion des troupes anti-esclavagistes, que sa qualité d\'ancienne colonie espagnole la mettait en dehors de la question dont les États-Unis cherchaient à régler le sort par les armes, etc. Aussi, dans tous les comtés, se produisait-il donc un certain courant plus favorable que contraire aux idées dont les partisans de la violence se faisaient les représentants. On le vit bien, en maint endroit, mais plutôt sur la portion septentrionale de la Floride, du côté de la frontière géorgienne, où les propriétaires de plantations, surtout les gens du Nord, furent très maltraités, leurs esclaves mis en fuite, leurs scieries et chantiers détruits par l\'incendie, leurs établissements dévastés par les troupes des confédérés, comme Camdless-Bay venait de l\'être par la populace de Jacksonville.
+
+Cependant, il ne semblait pas -- maintenant du moins -- que la plantation eût lieu de craindre un nouvel envahissement, ni Castle-House, une nouvelle agression. Toutefois, combien il tardait à James Burbank que les fédéraux fussent maîtres du territoire ! Dans l\'état actuel des choses, on ne pouvait rien tenter directement contre Texar, ni le poursuivre devant la justice pour des faits qui ne sauraient être démentis, cette fois, ni obliger à révéler en quel lieu il retenait Dy et Zermah Par quelle série d\'angoisses passèrent James Burbank et les siens en présence de ces retards si prolongés ! Ils ne pouvaient croire, cependant, que les fédéraux songeassent à s\'immobiliser sur la frontière.
+
+La dernière lettre de Gilbert disait formellement que l\'expédition du commodore Dupont et de Sherman avait la Floride pour objectif. Depuis cette lettre, le gouvernement fédéral avait-il donc envoyé des ordres contraires à la baie d\'Edisto où l\'escadre attendait avant de reprendre la mer ? Un succès des troupes confédérées, survenu en Virginie ou dans les Carolines, obligeait-il l\'armée de l\'Union à s\'arrêter dans sa marche vers le Sud ? Quelle série d\'inquiétudes permanentes pour cette famille si éprouvée depuis le commencement de la guerre ! À combien de catastrophes ne devait-elle pas s\'attendre encore !
+
+Ainsi s\'écoulèrent les cinq jours qui suivirent l\'envahissement de Camdless-Bay. Nulle nouvelle des dispositions prises par les fédéraux. Nulle nouvelle de Dy ni de Zermah, bien que James Burbank eût tout fait pour retrouver leurs traces, bien que pas une seule journée se fût écoulée, sans avoir été marquée par un nouvel effort !
+
+On arriva au 9 mars. Edward Carrol était complètement guéri. Il allait pouvoir se joindre aux démarches qui seraient faites par ses amis. Mme Burbank se trouvait toujours dans un état de faiblesse extrême. Il semblait que sa vie menaçait de s\'en aller avec ses larmes. Dans son délire, elle appelait sa petite fille d\'une voix déchirante, elle voulait courir à sa recherche. Ces crises étaient suivies de syncopes qui mettaient son existence en danger. Que de fois Miss Alice put craindre que cette mère infortunée mourût entre ses bras !
+
+Un seul bruit de la guerre arriva à Jacksonville dans la matinée du 9 mars. Malheureusement, il était de nature à donner une nouvelle force aux partisans de l\'idée séparatiste.
+
+D\'après ce bruit, le général confédéré Van Dorn aurait repoussé les soldats de Curtis, le 6 mars, au combat de Bentonville, dans l\'Arkansas, puis obligé les fédéraux à battre en retraite.
+
+En réalité, il n\'y avait eu qu\'un simple engagement avec l\'arrière-garde d\'un petit corps nordiste, et ce succès allait être bien autrement compensé, quelques jours après, par la victoire de Pea-Ridge. Cela suffit, cependant, à provoquer parmi les sudistes un redoublement d\'insolence. Et, à Jacksonville, ils célébrèrent cette action sans importance comme un complet échec de l\'armée fédérale. De là, de nouvelles fêtes et de nouvelles orgies, dont le bruit retentit douloureusement à Camdless-Bay.
+
+Tels sont les faits qu\'apprit James Burbank, vers six heures du soir, quand il revint après exploration sur la rive gauche du fleuve.
+
+Un habitant du comté de Putnam croyait avoir trouvé des traces de l\'enlèvement à l\'intérieur d\'un îlot du Saint-John, quelques milles au-dessus de la Crique-Noire. Pendant la nuit précédente, cet homme croyait avoir entendu comme un appel désespéré, et il était venu rapporter le fait à James Burbank. En outre, l\'Indien Squambô, le confident de Texar, avait été vu, dans ces parages avec son squif. Qu\'on eût aperçu l\'Indien, rien de moins douteux, et ce détail fut même confirmé par un passager du Shannon, qui, revenant de Saint-Augustine, avait débarqué ce jour-là au pier de Camdless-Bay.
+
+Il n\'en fallait pas davantage pour que James Burbank voulût s\'élancer sur cette piste. Edward Carrol et lui, accompagnés de deux Noirs, s\'étant jetés dans une embarcation, avaient remonté le fleuve. Après s\'être rapidement portés vers l\'îlot indiqué, ils l\'avaient fouillé avec soin, avaient visité quelques cabanes de pêcheurs, qui ne leur semblèrent même pas avoir été récemment occupées. Sous les taillis presque impénétrables de l\'intérieur, pas un seul vestige d\'êtres humains.
+
+Rien sur les berges qui indiquât qu\'une embarcation y eût accosté. Squambô ne fut aperçu nulle part ; s\'il était venu rôder autour de cet îlot, très probablement il n\'y avait pas débarqué.
+
+Cette expédition demeura donc sans résultat, comme tant d\'autres. Il fallut revenir à la plantation, avec la certitude d\'avoir, cette fois encore, suivi une fausse piste.
+
+Or, ce soir là, James Burbank, Walter Stannard et Edward Carrol causaient de cette inutile recherche, au moment où ils étaient réunis dans le hall.
+
+Vers neuf heures après avoir laissé Mme Burbank assoupie plutôt qu\'endormie dans sa chambre, Miss Alice vint les rejoindre, et apprit que cette dernière tentative n\'avait donné aucun résultat.
+
+Cette nuit allait être assez obscure. La lune, dans son premier quartier, avait déjà disparu sous l\'horizon. Un profond silence enveloppait Castle-House, la plantation, tout le lit du fleuve. Les quelques Noirs, retirés dans les communs, commençaient à s\'endormir. Lorsque le silence était troublé, c\'est que des clameurs lointaines, des détonations de pièces d\'artifice, venaient de Jacksonville, où l\'on célébrait à grand fracas le succès des confédérés.
+
+Chaque fois que ces bruits arrivaient jusque dans le hall, c\'était un nouveau coup porté à la famille Burbank.
+
+« Il faudrait pourtant savoir ce qui en est, dit Edward Carrol, et s\'assurer si les fédéraux ont renoncé à leurs projets sur la Floride !
+
+--- Oui ! Il le faut ! répondit M. Stannard. Nous ne pouvons vivre dans cette incertitude !
+
+--- Eh bien, dit James Burbank, j\'irai à Fernandina, dès demain\... Et là, je m\'informerai\... »
+
+En ce moment, on frappa légèrement à la porte principale de Castle-House, du côté de l\'avenue qui conduisait à la rive du Saint-John.
+
+Un cri échappa à Miss Alice, qui s\'élança vers cette porte. James Burbank voulut en vain retenir la jeune fille. Et, comme on n\'avait pas encore répondu, un nouveau coup fut frappé plus distinctement.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185112 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182651 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180190 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177729 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175268 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172807 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170346 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167885 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165424 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162963 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160502 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158041 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148771 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146310 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143847 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141386 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138925 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136463 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134002 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131541 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129079 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126618 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124154 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121693 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119232 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116778 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114315 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111854 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109393 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105649 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103187 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100724 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098299 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095830 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093368 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090890 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088427 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085965 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083502 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081040 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078579 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076116 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073653 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071187 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043227 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038359 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035994 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033629 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031264 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027708 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025343 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022978 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020612 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018246 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015881 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013516 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011149 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008784 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006419 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004054 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001689 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999324 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996959 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994594 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992229 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989864 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987499 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985132 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982767 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980402 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978037 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 13 -- Pendant quelques heures]{.pcalibre lang="X-NONE"}]{#_Toc342942056 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-13-pendant-quelques-heures .calibre171 .sigil_not_in_toc}
+
+James Burbank s\'avança vers le seuil. Il n\'attendait personne. Peut-être quelque importante nouvelle lui arrivait-elle de Jacksonville, apportée par John Bruce de la part de son correspondant, M. Harvey ?
+
+On frappa une troisième fois d\'une main plus impatiente.
+
+« Qui est là ? demanda James Burbank.
+
+--- Moi ! Fut-il répondu.
+
+--- Gilbert ! » s\'écria Miss Alice.
+
+Elle ne s\'était pas trompée. Gilbert à Camdless-Bay ! Gilbert apparaissant au milieu des siens, heureux de venir passer quelques heures avec eux et sans rien savoir, sans doute, des désastres qui les avaient frappés !
+
+En un instant, le jeune lieutenant fut dans les bras de son père, tandis qu\'un homme, qui l\'accompagnait, refermait la porte avec soin, après avoir jeté un dernier regard en arrière.
+
+C\'était Mars, le mari de Zermah, le dévoué matelot du jeune Gilbert Burbank.
+
+Après avoir embrassé son père, Gilbert se retourna. Puis, apercevant Miss Alice, il lui prit la main qu\'il serra dans un irrésistible mouvement de tendresse.
+
+« Ma mère ! s\'écria-t-il. Où est ma mère ? Est-il vrai qu\'elle soit mourante ?
+
+--- Tu sais donc, mon fils ? répondit James Burbank.
+
+--- Je sais tout, la plantation dévastée par les bandits de Jacksonville, l\'attaque de Castle-House, ma mère\... Morte peut-être ! »
+
+La présence du jeune homme dans ce pays où il courait personnellement tant de dangers, s\'expliquait maintenant.
+
+Voici ce qui s\'était passé :
+
+Depuis la veille, plusieurs canonnières de l\'escadre du commodore Dupont s\'étaient portées au-delà des bouches du Saint-John.
+
+Après avoir remonté le fleuve, elles durent s\'arrêter devant la barre, à quatre milles au-dessous de Jacksonville. Quelques heures plus tard, un homme, se disant un des gardiens du phare de Pablo, vint à bord de la canonnière de Stevens, sur laquelle Gilbert remplissait les fonctions de second. Là, cet homme parla de tout ce qui s\'était passé à Jacksonville, ainsi que de l\'envahissement de Camdless-Bay, de la dispersion des Noirs, de la situation désespérée de Mme Burbank. Que l\'on juge de ce que dut éprouver Gilbert en entendant le récit de ces déplorables événements.
+
+Alors, il fut pris d\'un irrésistible désir de revoir sa mère. Avec l\'autorisation du commandant Stevens, il quitta la flottille, il se jeta dans un de ces légers canots qu\'on appelle « gigs ». Accompagné de son fidèle Mars, il put passer inaperçu au milieu des ténèbres -- du moins il le croyait -- et prit terre à un demi-mille au-dessous de Camdless-Bay, afin d\'éviter de débarquer au petit port qui pouvait être surveillé.
+
+Mais, ce qu\'il ignorait, ce qu\'il ne pouvait savoir, c\'est qu\'il était tombé dans un piège tendu par Texar. À tout prix, l\'Espagnol avait voulu se procurer cette preuve réclamée par les magistrats de Court-Justice, -- cette preuve que James Burbank entretenait une correspondance avec l\'ennemi. Aussi pour attirer le jeune lieutenant à Camdless-Bay, un gardien du phare de Pablo, qui lui était dévoué, s\'était-il chargé d\'apprendre à Gilbert une partie des faits dont Castle-House venait d\'être le théâtre, et plus particulièrement l\'état de sa mère. Le jeune lieutenant, parti dans les conditions que l\'on connaît, avait été espionné pendant qu\'il remontait le cours du fleuve. Toutefois, en se glissant le long des roseaux qui bordent la haute grève du Saint-John, il était parvenu, sans le savoir, à dépister les gens de l\'Espagnol, chargés de le suivre.
+
+Si ces espions ne l\'avaient point vu débarquer sur la berge au-dessous de Camdless-Bay, du moins espéraient-ils s\'emparer de lui à son retour, puisque toute cette partie de la rive se trouvait sous leur surveillance.
+
+« Ma mère\... Ma mère ! reprit Gilbert. Où est-elle ?
+
+--- Me voilà, mon fils ! » répondit Mme Burbank.
+
+Elle venait d\'apparaître sur le palier de l\'escalier du hall, elle le descendit lentement, se retenant à la rampe, et tomba sur un divan, tandis que Gilbert la couvrait de baisers.
+
+Dans son assoupissement, la malade avait entendu frapper à la porte de
+
+Castle-House. Aussitôt, reconnaissant la voix de son fils, elle avait retrouvé assez de forces pour se relever, pour rejoindre Gilbert, pour venir pleurer avec lui, avec tous les siens.
+
+Le jeune homme la pressait dans ses bras.
+
+« Mère ! Mère ! disait-il. Je te revois donc ! Comme tu souffres ! Mais tu vis ! Ah ! Nous te guérirons ! Oui ! Ces mauvais jours vont finir ! Nous serons réunis\... Bientôt ! Nous te rendrons la santé ! Ne crains rien pour moi, mère ! Personne ne saura que Mars et moi, nous sommes venus ici ! »
+
+Et, tout en parlant, Gilbert, qui voyait sa mère faiblir, essayait de la ranimer par ses caresses.
+
+Cependant Mars semblait avoir compris que Gilbert et lui ne connaissaient pas toute l\'étendue du malheur qui les avait frappés. James Burbank, MM. Carrol et Stannard, silencieux, courbaient la tête. Miss Alice ne pouvait retenir ses larmes. En effet, la petite Dy n\'était pas là, ni Zermah, qui aurait dû deviner que son mari venait d\'arriver à Camdless-Bay, qu\'il était dans l\'habitation, qu\'il l\'attendait\...
+
+Aussi, le coeur étreint par l\'angoisse, regardant dans tous les coins du hall, demanda-t-il à M. Burbank :
+
+« Qu\'y a-t-il donc, maître ? »
+
+En ce moment, Gilbert se releva.
+
+« Et Dy ? s\'écria-t-il. Est-ce que Dy est déjà couchée ? Où est ma petite soeur ?
+
+--- Où est ma femme ? » dit Mars.
+
+Un instant après, le jeune officier et Mars savaient tout. En remontant la berge du Saint-John, depuis l\'endroit où les attendait leur canot, ils avaient bien vu, dans l\'ombre, les ruines accumulées sur la plantation. Mais ils pouvaient croire que tout se bornait à quelque désastre matériel, conséquence de l\'affranchissement des Noirs ! Maintenant, ils n\'ignoraient rien. L\'un ne retrouvait plus sa soeur à l\'habitation. L\'autre n\'y retrouvait plus sa femme\... Et personne pour leur dire en quel endroit Texar les avait entraînées depuis sept jours !
+
+Gilbert revint s\'agenouiller près de Mme Burbank. Il mêlait ses larmes aux siennes. Mars, la face injectée, la poitrine haletante, allait, venait, ne pouvait se contenir.
+
+Enfin sa colère éclata.
+
+« Je tuerai Texar ! s\'écria-t-il. J\'irai à Jacksonville\... Demain\... Cette nuit\... À l\'instant\...
+
+--- Oui, viens, Mars, viens ! » répondit Gilbert.
+
+James Burbank les arrêta.
+
+« Si cela eût été à faire, dit-il, je n\'aurais pas attendu ton arrivée, mon fils ! Oui ! Ce misérable eût déjà payé de sa vie le mal qu\'il nous a causé ! Mais, avant tout, il faut qu\'il dise ce que lui seul peut dire ! Et quand je te parle ainsi, Gilbert, quand je recommande à toi, et à Mars d\'attendre, c\'est qu\'il faut attendre !
+
+--- Soit, mon père ! répondit le jeune homme.
+
+Du moins, je fouillerai le territoire, je chercherai\...
+
+--- Eh ! Crois-tu donc que je ne l\'aie pas fait ? s\'écria M. Burbank. Pas un jour ne s\'est passé, sans que nous n\'ayons exploré les rives du fleuve, les îlots qui peuvent servir de refuge à ce Texar ! Et pas un seul indice, rien qui ait pu me mettre sur la trace de ta soeur, Gilbert, de ta femme, Mars ! Carrol et Stannard ont tout tenté avec moi ! Jusqu\'ici nos recherches ont été inutiles !
+
+--- Pourquoi ne pas porter plainte à Jacksonville ? demanda le jeune officier. Pourquoi ne pas poursuivre Texar comme coupable d\'avoir provoqué le pillage de Camdless-Bay, d\'avoir enlevé ?
+
+--- Pourquoi ? répondit James Burbank. Parce que Texar est le maître maintenant, parce que tout ce qui est honnête tremble devant les coquins qui lui sont dévoués, parce que la populace est pour lui, et aussi les milices du comté !
+
+--- Je tuerai Texar ! répétait Mars, comme s\'il eût été sous l\'obsession d\'une idée fixe.
+
+--- Tu le tueras quand il en sera temps ! répondit James Burbank. À présent, ce serait aggraver la situation.
+
+--- Et quand sera-t-il temps ? demanda Gilbert.
+
+--- Quand les fédéraux seront les maîtres de la Floride, lorsqu\'ils auront occupé Jacksonville !
+
+--- Et s\'il est trop tard, alors ?
+
+--- Mon fils ! Mon fils ! Je t\'en supplie\... Ne dis pas cela ! s\'écria Mme Burbank.
+
+--- Non, Gilbert, ne dites pas cela ! » répéta Miss Alice.
+
+James Burbank prit la main de son fils.
+
+« Gilbert, écoute-moi, dit-il.
+
+Nous voulions comme toi, comme Mars, faire justice immédiate de Texar, au cas où il aurait refusé de dire ce que sont devenues ses victimes. Mais, dans l\'intérêt de ta soeur, Gilbert, dans l\'intérêt de ta femme, Mars, notre colère a dû céder devant la prudence. Il y a tout lieu de croire, en effet, qu\'entre les mains de Texar, Dy et Zermah sont des otages dont il se fera une sauvegarde, car ce misérable doit craindre d\'être poursuivi pour avoir renversé les honnêtes magistrats de Jacksonville, pour avoir déchaîné une bande de malfaiteurs sur Camdless-Bay, pour avoir incendié et pillé la plantation d\'un nordiste ! Si je ne le croyais pas, Gilbert, est-ce que je te parlerais avec cette conviction ? Est-ce que j\'aurais eu l\'énergie d\'attendre ?
+
+--- Est-ce que je ne serais pas morte ! » dit Mme Burbank.
+
+La malheureuse femme avait compris que, s\'il allait à Jacksonville, son fils se livrait à Texar. Et qui donc eût alors pu sauver un officier de l\'armée fédérale, tombé au pouvoir des sudistes, au moment où les fédéraux menaçaient la Floride ?
+
+Cependant le jeune officier n\'était plus maître de lui. Il s\'obstinait à vouloir partir. Et, comme Mars répétait : « Je tuerai Texar :
+
+--- Viens donc ! dit-il.
+
+--- Tu n\'iras pas, Gilbert ! »
+
+Mme Burbank s\'était levée dans un dernier effort. Elle était allée se placer devant la porte. Mais, épuisée par cet effort, ne pouvant plus se soutenir, elle s\'affaissa.
+
+« Ma mère ! Ma mère ! s\'écria le jeune homme.
+
+--- Restez, Gilbert ! » dit Miss Alice.
+
+Il fallut reporter Mme Burbank dans sa chambre, où la jeune fille demeura près d\'elle.
+
+Puis, James Burbank rejoignit Edward Carrol et M. Stannard dans le hall. Gilbert était assis sur le divan, la tête dans les mains. Mars, à l\'écart, se taisait.
+
+« Maintenant, Gilbert, dit James Burbank, tu es en possession de toi-même. Parle donc. De ce que tu vas nous dire dépendront les résolutions que nous devrons prendre. Nous n\'avons d\'espoir que dans une prompte arrivée des fédéraux dans le comté. Ont-ils donc renoncé à leur projet d\'occuper la Floride ?
+
+--- Non, mon père.
+
+--- Où sont-ils ?
+
+--- Une partie de l\'escadre se dirige, en ce moment, vers Saint-Augustine, afin d\'établir le blocus de la côte.
+
+--- Mais le commodore ne songe-t-il point à se rendre maître du Saint-John ? demanda vivement Edward Carrol.
+
+--- Le bas cours du Saint-John nous appartient, répondit le jeune lieutenant. Nos canonnières sont déjà mouillées dans le fleuve, sous les ordres du commandant Stevens.
+
+--- Dans le fleuve ! Et elles n\'ont pas encore cherché à s\'emparer de Jacksonville ? s\'écria M. Stannard.
+
+--- Non, car elles ont dû s\'arrêter devant la barre, à quatre milles au-dessous du port.
+
+--- Les canonnières arrêtées\... Dit James Burbank, arrêtées par un obstacle infranchissable ?
+
+--- Oui, mon père, répondit Gilbert, arrêtées par le manque d\'eau. Il faut que la marée soit assez forte pour permettre de passer cette barre, et encore sera-ce assez difficile. Mars connaît parfaitement le chenal, et c\'est lui qui doit nous piloter.
+
+--- Attendre ! Toujours attendre ! s\'écria James Burbank. Et combien de jours ?
+
+--- Trois jours au plus, et vingt-quatre heures seulement, si le vent du large pousse le flot dans l\'estuaire. »
+
+Trois jours ou vingt-quatre heures, que ce temps serait long pour les hôtes de Castle-House ! Et, d\'ici-là, si les confédérés comprenaient qu\'ils ne pourraient défendre la ville, s\'ils l\'abandonnaient comme ils avaient abandonné Fernandina, le fort Clinch, les autres points de la Georgie et de la Floride septentrionale, Texar ne s\'enfuirait-il pas avec eux ? Alors, en quel endroit irait-on le chercher ?
+
+Cependant, s\'attaquer à lui, en ce moment où il faisait la loi à Jacksonville, où la populace le soutenait dans ses violences, c\'était impossible. Il n\'y avait pas à revenir là-dessus.
+
+M. Stannard demanda alors à Gilbert s\'il était vrai que les fédéraux eussent éprouvé quelque insuccès dans le Nord, et ce qu\'on devait penser de la défaite de Bentonville.
+
+« La victoire de Pea-Ridge, répondit le jeune lieutenant, a permis aux troupes de Curtis de reprendre le terrain qu\'elles avaient un instant perdu. La situation des nordistes est excellente, leur succès assuré dans un délai qu\'il est difficile de prévoir. Quand ils auront occupé les points principaux de la Floride, ils empêcheront la contrebande de guerre qui se fait par les passes du littoral, et les munitions comme les armes ne tarderont pas à manquer aux confédérés. Donc, avant peu, ce territoire aura retrouvé le calme et la sécurité sous la protection de notre escadre ! Oui\... Dans quelques jours ! Mais, d\'ici-là\... »
+
+L\'idée de sa soeur, exposée à tant de périls, lui revint avec une telle force que M. Burbank dut détourner ce souvenir, en ramenant la conversation sur la question des belligérants.
+
+Gilbert ne pouvait-il lui apprendre encore bien des nouvelles, qui n\'avaient pu arriver à Jacksonville, ou, du moins, à Camdless-Bay ?
+
+Il y en avait quelques-unes, en effet, et d\'une grande importance pour les nordistes des territoires de la Floride.
+
+On se rappelle qu\'à la suite de la victoire de Donelson, l\'État de Tennessee, presque entièrement, était rentré sous la domination des fédéraux. Ceux-ci, en combinant une attaque simultanée de leur armée et de leur flotte, songeaient à se rendre maîtres de tout le cours du Mississipi. Ils l\'avaient donc descendu jusqu\'à l\'île 10, où leurs troupes allaient prendre contact avec la division du général Beauregard, chargé de la défense du fleuve. Déjà, le 24 février, les brigades du général Pope, après avoir débarqué à Commerce, sur la rive droite du Mississipi, venaient de repousser le corps de J. Thomson. Arrivées à l\'île 10 et au village de New-Madrid, il est vrai, elles avaient dû s\'arrêter devant un formidable système de redoutes préparé par Beauregard. Si, depuis la chute de Donelson et de Nasheville, toutes les positions du fleuve au-dessus de Memphis devaient être considérées comme perdues pour les confédérés, on pouvait encore défendre celles qui se trouvaient au-dessous. C\'était sur ce point qu\'allait se livrer bientôt une bataille, décisive peut-être.
+
+Mais, en attendant, la rade de Hampton-Road, à l\'entrée du James-River, avait été le théâtre d\'un combat mémorable. Ce combat venait de mettre aux prises les premiers échantillons de ces navires cuirassés, dont l\'emploi a changé la tactique navale et modifié les marines de l\'Ancien et du Nouveau-Monde.
+
+À la date du 5 mars, le Monitor, cuirassé construit par l\'ingénieur suédois Erikcson, et le Virginia, ancien Merrimak transformé, étaient prêts à prendre la mer, l\'un à New York, l\'autre à Norfolk.
+
+Vers cette époque, une division fédérale, réunie sous les ordres du capitaine Marston, se trouvait à l\'ancre à Hampton-Road, près de Newport-News. Cette division se composait du Congress, du Saint-Laurence, du Cumberland et de deux frégates à vapeur.
+
+Tout à coup, le 2 mars, dans la matinée, apparaît le Virginia, commandé par le capitaine confédéré Buchanan. Suivi de quelques autres navires de moindre importance, il vient se jeter d\'abord sur le Congress, ensuite sur le Cumberland qu\'il perce de son éperon et qu\'il coule avec cent vingt hommes de son équipage. Revenant alors vers le Congress, échoué sur les vases, il le défonce à coups d\'obus et le livre aux flammes. La nuit seule l\'empêcha de détruire les trois autres bâtiments de l\'escadre fédérale.
+
+On s\'imaginerait difficilement l\'effet que produisit cette victoire d\'un petit navire cuirassé contre les vaisseaux de haut bord de l\'Union. Cette nouvelle s\'était propagée avec une rapidité vraiment merveilleuse. De là, une consternation profonde chez les partisans du Nord, puisqu\'un Virginia pouvait venir jusque dans l\'Hudson couler les navires de New York. De là aussi, une joie excessive pour le Sud, qui voyait déjà le blocus levé et le commerce redevenu libre sur toutes ses côtes.
+
+C\'est même ce succès maritime qui avait été si bruyamment célébré la veille à Jacksonville. Les confédérés pouvaient se croire maintenant à l\'abri des bâtiments du gouvernement fédéral. Peut-être, même, à la suite de la victoire de Hampton-Road, l\'escadre du commodore Dupont serait-elle immédiatement rappelée vers le Potomac ou la Chesapeake ? Aucun débarquement ne menacerait plus alors la Floride.
+
+Les idées esclavagistes, appuyées par la partie la plus violente des populations du Sud, triompheraient sans conteste. Ce serait la consolidation de Texar et de ses partisans dans une situation où ils pouvaient faire tant de mal !
+
+Toutefois, parmi les confédérés, on s\'était hâté de triompher trop tôt. Et, ces nouvelles, déjà connues dans le nord de la Floride, Gilbert les compléta en rapportant les bruits qui circulaient, au moment où il avait quitté la canonnière du commandant Stevens.
+
+La seconde journée du combat naval de Hampton-Road, en effet, avait été bien différente de la première. Le matin du 9 mars, au moment où le Virginia se disposait à attaquer le Minnesota, l\'une des deux frégates fédérales, un ennemi, dont il ne soupçonnait même pas la présence, s\'offrit à lui. Singulière machine, qui s\'était détachée du flanc de la frégate, « une boîte à fromage posée sur un radeau », dirent les confédérés. Cette boîte à fromage, c\'était le Monitor, commandé par le lieutenant Warden. Il avait été envoyé dans ces parages pour détruire les batteries du Potomac. Mais, arrivé à l\'embouchure du James-River, le lieutenant Warden, ayant entendu le canon de Hampton-Road, pendant la nuit, avait conduit le Monitor sur le lieu du combat.
+
+Placés à dix mètres l\'un de l\'autre, ces deux formidables engins de guerre se canonnèrent pendant quatre heures, et ils s\'abordèrent, ce fut sans grand résultat. Enfin, le Virginia, atteint à sa ligne de flottaison et menacé de sombrer, dut fuir dans la direction de Norfolk. Le Monitor, qui devait couler lui-même neuf mois plus tard, avait complètement vaincu son rival. Grâce à lui, le gouvernement fédéral venait de reprendre toute sa supériorité sur les eaux de Hampton-Road.
+
+« Non, mon père, dit Gilbert, en achevant son récit, notre escadre n\'est point rappelée dans le Nord.
+
+Les six canonnières de Stevens sont mouillées devant la barre du Saint-John. Je vous le répète, dans trois jours au plus tard, nous serons maîtres de Jacksonville !
+
+--- Tu vois bien, Gilbert, répondit M. Burbank, qu\'il faut attendre et retourner à ton bord ! Mais, pendant que tu te dirigeais vers Camdless-Bay, ne crains-tu pas d\'avoir été suivi ?
+
+--- Non, mon père, répondit le jeune lieutenant. Mars et moi, nous avons dû échapper à tous les regards.
+
+--- Et cet homme, qui est venu t\'apprendre ce qui s\'était passé à la plantation, l\'incendie, le pillage, la maladie de ta mère, qui est-il ?
+
+--- Il m\'a dit être un des gardiens qui ont été chassés du phare de Pablo, et il venait prévenir le commandant Stevens du danger que couraient les nordistes dans cette partie de la Floride.
+
+--- Il n\'était pas instruit de ta présence à bord ?
+
+--- Non, et il en a paru même fort surpris, répondit le jeune lieutenant. Mais pourquoi ces questions, mon père ?
+
+--- C\'est que je redoute toujours quelque piège de la part de Texar. Il fait plus que soupçonner, il sait que tu sers dans la marine fédérale. Il a pu apprendre que tu étais sous les ordres du commandant Stevens. S\'il avait voulu t\'attirer ici\...
+
+--- Ne craignez rien, mon père. Nous sommes arrivés à Camdless-Bay, sans avoir été vus en remontant le fleuve, et il en sera de même lorsque nous le descendrons\...
+
+--- Pour retourner à ton bord\... Non ailleurs !
+
+--- Je vous l\'ai promis, mon père. C\'est à notre bord que Mars et moi nous serons rentrés avant le jour.
+
+--- À quelle heure partirez-vous ?
+
+--- Au renversement de la marée, c\'est-à-dire vers deux heures et demie du matin.
+
+--- Qui sait ? reprit M. Carrol. Peut-être les canonnières de Stevens ne seront-elles pas retenues pendant trois jours encore devant la barre du Saint-John ?
+
+--- Oui ! Il suffit que le vent du large fraîchisse pour donner assez d\'eau sur la barre, répondit le jeune lieutenant. Ah ! Dût-il souffler en tempête, qu\'il souffle donc ! Que nous ayons enfin raison de ces misérables ! Et alors\... -- Je tuerai Texar », répéta Mars.
+
+Il était un peu plus de minuit. Gilbert et Mars ne devaient pas quitter Castle-House avant deux heures, puisqu\'il fallait attendre que la marée descendante leur permît de rejoindre la flottille du commandant Stevens. L\'obscurité serait très profonde, et il y avait bien des chances pour qu\'ils pussent passer inaperçus, quoique de nombreuses embarcations eussent pour mission de surveiller le cours du Saint-John, en aval de Camdless-Bay.
+
+Le jeune officier remonta alors près de sa mère. Il trouva Miss Alice assise à son chevet. Mme Burbank, brisée par le dernier effort qu\'elle venait de faire, était tombée dans une sorte d\'assoupissement très douloureux, à en juger par les sanglots qui s\'échappaient de sa poitrine.
+
+Gilbert ne voulut pas troubler cet état de torpeur où il y avait plus d\'abattement que de sommeil. Il s\'assit près du lit, après que Miss Alice lui eut fait signe de ne pas parler. Là, silencieusement, ils veillèrent ensemble cette pauvre femme que le malheur n\'avait pas fini de frapper peut-être ! Avaient-ils besoin de paroles pour échanger leurs pensées ? Non ! Ils souffraient de la même souffrance, ils se comprenaient sans rien dire, ils se parlaient par le coeur.
+
+Enfin, l\'heure de quitter Castle-House arriva.
+
+Gilbert tendit la main à Miss Alice, et tous deux se penchèrent sur Mme Burbank, dont les yeux à demi fermés ne purent les voir.
+
+Puis, Gilbert pressa de ses lèvres le front de sa mère que la jeune fille voulut baiser après lui. Mme Burbank éprouva comme un douloureux tressaillement ; mais elle ne vit pas son fils se retirer, ni Miss Alice le suivre pour lui donner un dernier adieu.
+
+Gilbert et elle retrouvèrent James Burbank et ses amis qui n\'avaient point quitté le hall.
+
+Mars, après être allé observer les environs de Castle-House, y rentrait à ce moment.
+
+« Il est l\'heure de partir, dit-il.
+
+--- Oui, Gilbert, répondit James Burbank. Pars donc ! Nous ne nous reverrons plus qu\'à Jacksonville\...
+
+--- Oui ! à Jacksonville, et dès demain, si la marée nous permet de franchir la barre. Quant à Texar\...
+
+--- C\'est vivant qu\'il nous le faut ! Ne l\'oublie pas, Gilbert !
+
+--- Oui ! Vivant ! »
+
+Le jeune homme embrassa son père, il serra les mains de son oncle Carrol de M. Stannard :
+
+« Viens, Mars », dit-il.
+
+Et tous deux, suivant la rive droite du fleuve, le long des berges de la plantation, marchèrent rapidement pendant une demi-heure. Ils ne rencontrèrent personne sur la route. Arrivés à l\'endroit où ils avaient laissé leur gig, caché sous un amoncellement de roseaux, ils s\'embarquèrent pour aller prendre le fil du courant qui devait les entraîner rapidement vers la barre du Saint-John.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185113 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182652 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180191 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177730 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175269 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172808 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170347 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167886 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165425 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162964 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160503 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158042 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148772 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146311 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143848 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141387 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138926 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136464 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134003 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131542 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129080 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126619 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124155 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121694 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119233 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116779 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114316 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111855 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109394 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100725 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098300 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095831 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093369 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090891 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088428 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085966 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083503 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081041 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078580 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076117 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073654 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043228 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038360 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035995 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033630 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031265 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027709 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025344 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022979 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020613 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018247 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015882 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013517 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011150 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008785 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006420 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004055 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001690 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999325 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996960 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994595 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992230 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989865 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987500 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985133 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982768 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980403 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978038 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 14 -- Sur le Saint-John]{.pcalibre lang="X-NONE"}]{#_Toc342942057 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-14-sur-le-saint-john .calibre171 .sigil_not_in_toc}
+
+Le fleuve était alors désert dans cette partie de son cours. Pas une seule lueur n\'apparaissait sur la rive opposée. Les lumières de Jacksonville se cachaient derrière le coude que fait la crique de Camdless, en s\'arrondissant vers le nord. Leur reflet seul montait au-dessus et teintait la plus basse couche des nuages.
+
+Bien que la nuit fût sombre, le gig pouvait facilement prendre direction sur la barre. Comme aucune vapeur ne se dégageait des eaux du Saint-John, il aurait été facile de le suivre et de le poursuivre, si quelque embarcation confédérée l\'eût attendu au passage -- ce que Gilbert et son compagnon ne croyaient pas avoir lieu de craindre.
+
+Tous deux gardaient un profond silence. Au lieu de descendre ce fleuve, ils auraient voulu le traverser pour aller chercher Texar jusque dans Jacksonville, pour se rencontrer face à face avec lui. Et alors, remontant le Saint-John, ils eussent fouillé toutes les forêts, toutes les criques de ses rives. Où M. James Burbank avait échoué, ils auraient réussi peut-être. Et pourtant, il n\'était que sage d\'attendre. Lorsque les fédéraux seraient maîtres de la Floride, Gilbert et Mars pourraient agir avec plus de chances de succès vis-à-vis de l\'Espagnol. D\'ailleurs, le devoir leur ordonnait de rejoindre avant le jour la flottille du commandant Stevens. Si la barre devenait praticable plus tôt qu\'on ne l\'espérait, ne fallait-il pas que le jeune lieutenant fût à son poste de combat, et Mars au sien, pour piloter les canonnières à travers ce chenal, dont il connaissait la profondeur à tout instant de la mer montante ?
+
+Mars, assis à l\'arrière du gig, maniait sa pagaie avec vigueur. Devant lui, Gilbert observait soigneusement le cours du fleuve en amont, prêt à signaler tout obstacle ou tout danger qui se présenterait, barque ou tronc en dérive.
+
+Après s\'être obliquement écartée de la rive droite, afin de prendre le milieu du chenal, la légère embarcation n\'aurait plus qu\'à suivre le fil du courant, où elle se maintiendrait d\'elle-même. Jusque-là, il suffisait que, d\'un mouvement de la main, Mars forçât sur bâbord ou sur tribord pour tenir une direction convenable.
+
+Sans doute, mieux eût valu ne point s\'éloigner de la sombre lisière d\'arbres et de roseaux gigantesques, qui bordent la rive droite du Saint-John. À la longer sous la retombée des épaisses ramures, on risquait moins d\'être aperçu. Mais, un peu au-dessous de la plantation, un coude très accusé de la rive renvoie le courant vers l\'autre bord. Il s\'est établi là un large remous, qui eût rendu la navigation du gig infiniment plus pénible tout en retardant sa marche. Aussi Mars, ne voyant rien de suspect en aval, cherchait-il plutôt à s\'abandonner aux eaux vives du milieu qui descendent rapidement vers l\'embouchure. Du petit port de Camdless-Bay jusqu\'à l\'endroit où la flottille était mouillée au-dessous de la barre, on comptait de quatre à cinq milles, et, avec l\'aide du jusant, sous la poussée des bras vigoureux de Mars, le gig ne pouvait être embarrassé de les enlever en deux heures. Il serait donc de retour, avant que les premières lueurs du jour eussent éclairé la surface du Saint-John.
+
+Un quart d\'heure après leur embarquement, Gilbert et Mars se trouvaient en plein fleuve. Là, ils purent constater que, si leur rapidité était considérable, la direction du courant les portait vers Jacksonville. Peut-être même, inconsciemment, Mars appuyait-il de ce côté, comme s\'il eût été sollicité par quelque irrésistible attraction. Cependant il fallait éviter ce lieu maudit, dont les abords devaient être gardés avec plus de soin que la partie centrale du Saint-John.
+
+« Droit, Mars, droit ! » se contenta de dire le jeune officier.
+
+Et le gig dut se maintenir dans le fil du courant, à un quart de mille de la rive gauche.
+
+Le port de Jacksonville ne se montrait ni sombre ni silencieux, cependant. De nombreuses lumières couraient sur les quais ou tremblotaient dans les embarcations à la surface des eaux. Quelques-unes même se déplaçaient rapidement, comme si une active surveillance eût été organisée sur un assez large rayon.
+
+En même temps, des chants, mêlés de cris, indiquaient que les scènes de plaisir ou d\'orgie continuaient à troubler la ville. Texar et ses partisans croyaient-ils donc toujours à la défaite des nordistes en Virginie et à la retraite possible de la flottille fédérale ? Ou bien profitaient-ils de leurs derniers jours pour se livrer à tous les excès, au milieu d\'une population ivre de wiskey et de gin ?
+
+Quoi qu\'il en soit, comme le gig filait toujours dans le lit du courant, Gilbert avait lieu de croire qu\'il serait bientôt à l\'abri des plus grands dangers, du moment qu\'il aurait dépassé Jacksonville, quand, soudain, il fit signe à Mars de s\'arrêter. À moins d\'un mille au-dessous du port, il venait d\'apercevoir une longue ligne de taches noires, semées comme une série d\'écueils d\'une rive à l\'autre du fleuve.
+
+C\'était une ligne d\'embarcations, embossées en cet endroit, qui barrait le Saint-John. Évidemment, si les canonnières parvenaient à franchir la barre, ces embarcations seraient impuissantes à les arrêter, et elles n\'auraient plus qu\'à battre en retraite ; mais, pour le cas où des chaloupes fédérales tenteraient de remonter le fleuve, elles seraient peut-être capables de s\'opposer à leur passage.
+
+C\'est pour cette raison qu\'elles étaient venues former un barrage pendant la nuit. Toutes étaient immobiles en travers du Saint-John, soit qu\'elles se maintinssent avec leurs avirons, soit qu\'elles fussent mouillées sur leurs grappins. Bien qu\'on ne pût le voir, nul doute qu\'elles eussent à bord un assez grand nombre d\'hommes, bien armés pour l\'offensive comme pour la défensive.
+
+Toutefois Gilbert fit cette remarque que le chapelet d\'embarcations ne barrait pas encore le fleuve, lorsqu\'il l\'avait remonté pour atteindre Camdless-Bay. Cette précaution n\'avait donc été prise que depuis le passage du gig, et peut-être en prévision d\'une attaque dont il n\'était point question au moment où le jeune lieutenant venait de quitter la flottille de Stevens.
+
+Il fallut, dès lors, abandonner le milieu du fleuve, afin de s\'abriter le plus possible le long de la rive droite. Peut-être le canot resterait-il inaperçu, s\'il manoeuvrait à travers le fouillis des roseaux et dans l\'ombre des arbres de la berge. En tout cas, il n\'existait aucun autre moyen d\'éviter le barrage du Saint-John.
+
+« Mars, tâche de pagayer sans bruit jusqu\'au moment où nous aurons dépassé cette ligne, dit le jeune lieutenant.
+
+--- Oui, monsieur Gib.
+
+--- Il y aura sans doute à lutter contre les remous, et s\'il faut te venir en aide\...
+
+--- J\'y suffirai », répondit Mars.
+
+Et, faisant évoluer le gig, il le ramena rapidement du côté de la rive droite, lorsqu\'il n\'était déjà plus qu\'à trois cents yards au-dessus de la ligne d\'embossage.
+
+Puisque l\'embarcation n\'avait pas été aperçue pendant qu\'elle traversait obliquement le fleuve -- et elle aurait pu l\'être -- maintenant qu\'elle se confondait avec les sombres masses de la berge, il était impossible qu\'elle fût découverte.
+
+À moins que l\'extrémité du barrage s\'appuyât sur la rive, il était à peu près certain qu\'elle pourrait le franchir. Dans le chenal même du Saint-John, il eût été plus qu\'imprudent de le tenter.
+
+Mars pagayait au milieu d\'une obscurité que rendait plus profonde encore l\'épais rideau des arbres. Il évitait soigneusement de heurter des souches, dont la tête émergeait çà et là, ou de frapper l\'eau trop bruyamment, bien qu\'il eût parfois à vaincre un contre-courant que certaines dérivations des remous rendaient assez rude. À dériver dans ces conditions, Gilbert éprouverait un retard d\'une heure, sans doute. Mais peu importerait qu\'il fit jour alors ; il serait assez près du mouillage des canonnières pour n\'avoir plus rien à craindre de Jacksonville.
+
+Vers quatre heures, le canot était arrivé à la hauteur des embarcations. Ainsi que l\'avait prévu Gilbert, étant donné le peu de profondeur du fleuve en cet endroit du chenal, le passage avait été laissé libre le long de la rive. Quelques centaines de pieds au-delà, une pointe, qui faisait saillie sur le Saint-John -- pointe très boisée -- s\'abritait confusément sous un massif de palétuviers et d\'énormes bambous. Il s\'agissait de contourner cette pointe, très sombre du côté de l\'amont. En aval, au contraire, les masses de verdure cessaient brusquement. Le littoral, plus déclive aux approches de l\'estuaire du Saint-John, se découpait en une suite de criques et de marécages, formant une grève très basse, très découverte. Là, plus un arbre, plus de rideau obscur, et, par conséquent, les eaux redevenaient assez claires. Il n\'était donc pas impossible qu\'un point noir et mouvant, comme le gig, trop petit pour que deux hommes pussent s\'y coucher, fût aperçu de quelque embarcation rôdant au large de la pointe.
+
+Au-delà, il est vrai, le remous ne se faisait plus sentir.
+
+C\'était un courant assez vif, qui longeait la rive sans chercher la direction du chenal. Si le canot doublait heureusement cette pointe, il serait rapidement entraîné vers la barre, et il arriverait en peu de temps au mouillage du commandant Stevens.
+
+Mars se glissait donc le long de la rive avec une extrême prudence. Ses yeux essayaient de percer les ténèbres, observant le bas cours du fleuve. Il rasait la berge d\'aussi près que possible, luttant contre le remous qui était encore très violent au revers de la pointe. La pagaie pliait sous ses bras vigoureux, pendant que Gilbert, le regard tourné vers l\'amont, ne cessait de fouiller la surface du Saint-John.
+
+Cependant le gig s\'approchait peu à peu de la pointe. Quelques minutes encore, et il en aurait atteint l\'extrémité, qui se prolongeait sous la forme d\'une fine langue de sable. Il n\'en était plus qu\'à vingt-cinq ou trente yards, quand, soudain, Mars s\'arrêta.
+
+« Es-tu fatigué, demanda le jeune lieutenant, et veux-tu que je te remplace ?
+
+--- Pas un mot, monsieur Gilbert ! » répondit Mars.
+
+Et, en même temps, de deux violents coups de pagaie, il se lança obliquement, comme s\'il eût voulu s\'échouer contre la rive. Aussitôt, dès qu\'il fut à portée, il saisit une des branches qui pendaient sur les eaux ; puis, hâlant dessus, il fit disparaître l\'embarcation sous un sombre berceau de verdure. Un instant après, leur amarre tournée à l\'une des racines d\'un palétuvier, Gilbert et Mars, immobiles, se trouvaient au milieu d\'une obscurité telle qu\'ils ne pouvaient plus se voir.
+
+Cette manoeuvre n\'avait pas duré dix secondes.
+
+Le jeune lieutenant saisit alors le bras de son compagnon, et il allait lui demander l\'explication de cette manoeuvre, lorsque Mars, tendant le bras à travers le feuillage, montra un point mouvant sur la partie moins sombre des eaux.
+
+C\'était une embarcation conduite par quatre hommes qui remontait le courant, après avoir doublé la langue de terre, et se dirigeait de manière à longer la berge au-dessus de la pointe.
+
+Gilbert et Mars eurent alors la même pensée : avant tout et malgré tout, regagner leur bord. Si leur canot était découvert, ils n\'hésiteraient pas à sauter sur la rive, ils fileraient entre les arbres, ils s\'enfuiraient par la berge jusqu\'à la hauteur de la barre. Là, le jour venu, soit qu\'on aperçût leurs signaux de la plus rapprochée des canonnières, soit qu\'ils dussent la rejoindre à la nage, ils feraient tout ce qu\'il était humainement possible de faire pour revenir à leur poste.
+
+Mais, presque aussitôt, ils allaient comprendre que toute retraite par terre leur serait coupée.
+
+En effet, lorsque l\'embarcation fut arrivée à vingt pieds au plus du berceau de verdure, une conversation s\'établit entre les gens qui la montaient et une demi-douzaine d\'autres, dont les ombres apparaissaient entre les arbres sur l\'arête de la berge.
+
+« Le plus difficile est fait ? Cria-t-on de terre.
+
+--- Oui, répondit-on du fleuve. Cette pointe à doubler avec marée descendante, c\'est aussi dur que de remonter un rapide !
+
+--- Allez-vous mouiller en cet endroit, maintenant ! Que nous voilà débarqués sur la pointe ?
+
+--- Sans doute, au milieu du remous\... Nous garderons mieux l\'extrémité du barrage.
+
+--- Bien ! Pendant ce temps, nous allons surveiller la berge, et, à moins de se jeter dans le marais, j\'imagine que ces coquins auront quelque peine à nous échapper\...
+
+--- Si ce n\'est fait déjà ?
+
+--- Non ! Ce n\'est pas possible ! Évidemment, ils tenteront de revenir à leur bord avant le jour.
+
+Or, comme ils ne peuvent franchir la ligne des embarcations, ils essaieront de filer le long de la rive, et nous serons là pour les arrêter au passage. » Ces quelques phrases suffisaient à faire comprendre ce qui était arrivé. Le départ de Gilbert et de Mars devait avoir été signalé, -- nul doute à cet égard. Si, pendant qu\'ils remontaient le fleuve pour atteindre le port de Camdless-Bay, ils avaient pu échapper aux embarcations chargées de leur couper la route, maintenant que le fleuve était barré et qu\'on les guettait au retour, il leur serait bien difficile, sinon impossible, de regagner le mouillage des canonnières.
+
+En somme, dans ces conditions, le gig se trouvait pris entre les hommes de l\'embarcation et ceux de leurs compagnons qui venaient de prendre pied sur la pointe. Donc, si la fuite était devenue impraticable en descendant le fleuve, elle ne l\'était pas moins par cette étroite berge, resserrée entre les eaux du Saint-John et les marais du littoral.
+
+Ainsi Gilbert venait d\'apprendre que son passage avait été signalé sur le Saint-John. Toutefois, peut-être, ignorait-on que son compagnon et lui eussent débarqué à Camdless-Bay, et que l\'un d\'eux fût le fils de James Burbank, et un officier de la marine fédérale ; l\'autre, un de ses matelots. Il n\'en était rien, malheureusement. Le jeune lieutenant ne put plus douter du danger qui le menaçait, lorsqu\'il entendit les dernières phrases que ces gens échangèrent entre eux.
+
+« Ainsi veillez bien ! dit-on de terre.
+
+--- Oui\... Oui ! Fut-il répondu. Un officier fédéral, c\'est de bonne prise, d\'autant plus que cet officier est le propre fils de l\'un de ces damnés nordistes de la Floride !
+
+--- Et ça nous sera payé cher, puisque c\'est Texar qui paie !
+
+--- Il est possible, cependant, que nous ne réussissions pas à les enlever cette nuit, s\'ils sont parvenus à se cacher dans quelque creux de la rive. Mais, au jour, nous en fouillerons si bien tous les trous qu\'un rat d\'eau ne nous échapperait pas !
+
+--- N\'oublions pas qu\'il y a recommandation expresse de les avoir vivants !
+
+--- Oui ! Convenu ! Convenu aussi que, dans le cas où ils se feraient arrêter sur la berge, nous n\'aurons qu\'à vous héler pour que vous veniez les prendre et les conduire à Jacksonville ?
+
+--- D\'ailleurs, à moins qu\'il faille leur donner la chasse, nous resterons mouillés ici.
+
+--- Et nous, à notre poste, en travers de la berge.
+
+--- Allons ! Bonne chance ! En vérité, mieux aurait valu passer la nuit à boire dans les cabarets de Jacksonville\...
+
+--- Oui, si ces deux coquins nous échappent ! Non, si, demain, nous les amenons, pieds et poings liés, à Texar ! »
+
+Là-dessus, l\'embarcation s\'éloigna de deux longueurs d\'aviron. Puis, le bruit d\'une chaîne, qui se déroulait, indiqua bientôt que son ancre était par le fond. Quant aux hommes qui occupaient la lisière de la berge, s\'ils ne parlaient plus, du moins entendait-on le bruit de leurs pas sur les feuilles tombées des arbres.
+
+Du côté du fleuve, comme du côte de la terre, la fuite n\'était donc plus possible.
+
+C\'est à quoi réfléchissaient Gilbert et Mars. L\'un et l\'autre n\'avaient pas fait un seul mouvement ni prononcé une seule parole. Rien ne pouvait donc trahir la présence du gig enfoui sous le sombre berceau de verdure, berceau qui était une prison. Impossible d\'en sortir.
+
+En admettant qu\'il n\'y fût point découvert pendant la nuit, comment Gilbert échapperait-il aux regards, lorsque le jour paraîtrait ? Or, la capture du jeune lieutenant, c\'était non seulement sa vie menacée -- soldat, il en eût volontiers fait le sacrifice -- mais, si on parvenait à établir qu\'il avait débarqué à Castle-House, c\'était son père arrêté de nouveau par les partisans de Texar, c\'était la connivence de James Burbank avec les fédéraux démontrée sans conteste. Que la preuve eût manqué à l\'Espagnol, quand il accusait pour la première fois le propriétaire de Camdless-Bay, cette preuve ne lui ferait plus défaut, lorsque Gilbert serait en son pouvoir. Et alors, que deviendrait Mme Burbank ? Que deviendraient Dy et Zermah, lorsque le père, le frère, le mari, ne seraient plus là pour continuer leurs recherches ?
+
+En un instant, toutes ces pensées se présentèrent à l\'esprit du jeune officier, et il en avait entrevu les inévitables conséquences.
+
+Ainsi, au cas où tous deux seraient pris, il ne resterait plus qu\'une seule chance : c\'est que les fédéraux s\'empareraient de Jacksonville, avant que Texar eût été en état de nuire. Peut-être, alors, seraient-ils délivrés assez à temps pour que la condamnation à laquelle ils ne pouvaient échapper n\'eût pas été suivie d\'exécution. Oui ! Tout espoir était là et n\'était plus que là. Mais, comment hâter l\'arrivée du commandant Stevens et de ses canonnières en amont du fleuve ? Comment franchir la barre du Saint-John, si l\'eau manquait encore ? Comment guider la flottille à travers les multiples sinuosités du chenal, si Mars, qui devait la piloter, tombait entre les mains des sudistes ?
+
+Gilbert devait donc risquer même l\'impossible pour regagner son bord avant le jour, et il fallait partir sans perdre un instant.
+
+Était-ce impraticable ? Mars ne pouvait-il, en lançant brusquement le gig à travers le remous, lui rendre sa liberté ? Pendant que les gens de l\'embarcation perdraient du temps, soit à lever leur ancre, soit à larguer leur chaîne, n\'aurait-il pas pris assez d\'avance pour se mettre hors d\'atteinte ?
+
+Non ! C\'eût été tout compromettre. Le jeune lieutenant ne le savait que trop. La pagaie de Mars ne pouvait lutter avec avantage contre les quatre avirons de l\'embarcation. Le canot ne tarderait pas à être rattrapé, pendant qu\'il essaierait de filer le long de la rive. Agir de la sorte, ce serait courir à une perte certaine.
+
+Que faire alors ? Convenait-il d\'attendre ? Le jour allait bientôt paraître. Il était déjà quatre heures et demie du matin. Quelques blancheurs flottaient au-dessus de l\'horizon dans l\'est.
+
+Cependant il importait de prendre un parti, et voici celui auquel s\'arrêta Gilbert.
+
+Après s\'être courbé vers Mars, afin de lui parler à voix basse :
+
+« Nous ne pouvons attendre plus longtemps, dit-il. Nous sommes armés chacun d\'un revolver et d\'un coutelas. Dans l\'embarcation, il y a quatre hommes. Ce n\'est que deux contre un. Nous aurons l\'avantage de la surprise. Tu vas pousser vigoureusement le gig à travers le remous et le lancer contre l\'embarcation en quelques coups de pagaie. Étant mouillée, elle ne pourra éviter l\'abordage. Nous tomberons sur ces hommes, nous les frapperons, sans leur laisser le temps de se reconnaître, et nous tirerons au large. Puis, avant que ceux de la berge aient donné l\'alarme, peut-être aurons-nous franchi le barrage et atteint la ligne des canonnières.
+
+--- Est-ce compris, Mars ? »
+
+Mars répondit en prenant son coutelas qu\'il passa tout ouvert à sa ceinture, près de son revolver. Cela fait, il largua doucement l\'amarre du canot et saisit sa pagaie pour la pousser d\'un coup vigoureux.
+
+Mais, au moment où il allait commencer sa manoeuvre, Gilbert l\'arrêta d\'un geste.
+
+Une circonstance inattendue venait de lui faire immédiatement modifier ses projets.
+
+Avec les premières lueurs du jour, un épais brouillard commençait à se lever sur les eaux. On eût dit d\'une ouate humide qui se déroulait à leur surface en les effleurant de ses volutes mouvantes. Ces vapeurs, formées en mer, venaient de l\'embouchure du fleuve, et, poussées par une légère brise, elles remontaient lentement le cours du Saint-John. Avant un quart d\'heure, aussi bien Jacksonville, sur la rive gauche, que les massifs d\'arbres de la berge, sur la rive droite, tout aurait disparu dans l\'amoncellement de ces brumes un peu jaunâtres, dont l\'odeur caractéristique emplissait déjà la vallée.
+
+N\'était-ce pas le salut qui s\'offrait au jeune lieutenant et à son compagnon ? Au lieu de risquer une lutte inégale, dans laquelle ils pouvaient succomber tous deux, pourquoi n\'essaieraient-ils pas de se glisser à travers ce brouillard ? Gilbert crut, du moins, que c\'était ce qu\'il y avait de mieux à faire. C\'est pourquoi il retint Mars, au moment où celui-ci allait brusquement déborder de la rive. Il s\'agissait, au contraire, de la ranger prudemment, silencieusement, en évitant l\'embarcation, dont la silhouette, indécise déjà, allait s\'effacer tout à fait.
+
+Alors les voix recommencèrent à se héler dans l\'ombre.
+
+Du fleuve on répondait à la berge.
+
+« Attention au brouillard !
+
+--- Oui ! Nous allons lever notre ancre et nous rapprocher davantage de la rive !
+
+--- C\'est bien, mais restez aussi en communication avec les embarcations du barrage. S\'il en passe près de vous, prévenez-les de croiser en tous sens jusqu\'au lever des brumes.
+
+--- Oui ! Oui ! Ne craignez rien, et veillez bien au cas où ces coquins chercheraient à fuir par terre ! »
+
+Évidemment, cette précaution, tout indiquée, allait être prise. Un certain nombre d\'embarcations s\'appliqueraient à croiser d\'une rive à l\'autre du fleuve. Gilbert le savait ; il n\'hésita pas. Le gig, silencieusement manoeuvré par Mars, abandonna le berceau de verdure et s\'avança lentement à travers le remous.
+
+Le brouillard tendait à s\'épaissir, bien qu\'il fût pénétré d\'un demi-jour blafard, semblable à la lueur qui passe à travers la corne d\'une lanterne. On ne voyait plus rien, même dans un rayon de quelques yards. Si, par bonheur, le canot n\'abordait pas l\'embarcation mouillée au large, il avait bien des chances de rester inaperçu. Et, en effet, il put l\'éviter, pendant que les hommes s\'occupaient à en relever l\'ancre avec un bruit de chaîne, qui marquait à peu près la place dont il fallait s\'écarter.
+
+Le gig passa donc, et Mars put appuyer un peu plus vigoureusement sur sa pagaie.
+
+Le difficile était alors de suivre une direction convenable, sans s\'exposer à prendre le chenal au milieu du fleuve. Il fallait, au contraire, se tenir à une petite distance de la rive droite.
+
+Rien n\'eût pu guider Mars à travers les brumes amoncelées, si ce n\'est peut-être le grondement des eaux qui s\'accentuait en rasant le pied de la berge. On sentait déjà venir le jour. Il grandissait au-dessus de la masse des vapeurs, bien que le brouillard restât très épais à la surface du Saint-John. Pendant une demi-heure, le gig erra, pour ainsi dire, à l\'aventure. Quelquefois, une vague silhouette apparaissait inopinément. On pouvait croire que ce fût une embarcation, démesurément agrandie par la réfraction -- phénomène communément observé au milieu des brouillards en mer. En effet, tout objet s\'y montre aux yeux avec une soudaineté vraiment fantastique, et l\'impression est qu\'il a des dimensions énormes. Cela se produisit fréquemment. Heureusement, ce que Gilbert prenait pour une chaloupe n\'était qu\'une bouée de balisage, une tête de roche émergeant des eaux, ou quelque pieu enfoncé dans le fleuve, dont la pointe se perdait dans le plafond des vapeurs.
+
+Divers couples d\'oiseaux passaient aussi, déployant une envergure démesurée. Si on les voyait à peine, on entendait, du moins, le cri perçant qu\'ils jetaient à travers l\'espace. D\'autres s\'envolaient du lit même du fleuve, au moment où l\'approche du canot venait de les mettre en fuite. Il eût été impossible de reconnaître s\'ils allaient se reposer sur la berge, à quelques pas seulement, ou s\'ils se replongeaient sous les eaux du Saint-John.
+
+En tout cas, puisque la marée descendait toujours, Gilbert était certain que le gig, entraîné par le jusant, gagnait vers le mouillage du commandant Stevens. Cependant, comme le courant avait beaucoup molli déjà, rien ne pouvait faire croire que le jeune lieutenant eût enfin dépassé la ligne d\'embossage.
+
+Ne devait-il pas craindre, au contraire, d\'être maintenant à sa hauteur et de tomber brusquement sur l\'une des embarcations.
+
+Ainsi, toute éventualité de grave danger n\'avait pas disparu encore. Bientôt même, il fut manifeste que le gig se trouvait en plus grand péril que jamais. Aussi, à de courts intervalles, Mars s\'arrêtait-il, laissant sa pagaie suspendue au-dessus des eaux. Des bruits d\'aviron, éloignés ou proches, se faisaient incessamment entendre dans un rayon restreint. Divers cris se répondaient d\'une embarcation à une autre. Quelques formes, dont les linéaments étaient à peine dessinés, s\'estompaient tout à coup dans le vague du brouillard. C\'étaient bien des bateaux en marche qu\'il fallait éviter. Parfois, aussi, les vapeurs s\'entrouvraient soudain, comme si un vaste souffle eût pénétré leur masse. La portée de la vue s\'agrandissant jusqu\'à une distance de quelques centaines de yards, Gilbert et Mars essayaient alors de reconnaître leur position sur le fleuve. Mais l\'éclaircie se brouillait de nouveau, et le canot n\'avait plus que la ressource de se laisser aller au courant.
+
+Il était un peu plus de cinq heures. Gilbert calcula qu\'il devait être alors à deux milles du mouillage. En effet, il n\'avait pas encore atteint la barre du fleuve. Cette barre eût été aisément reconnaissable au bruit plus accentué du courant, aux nombreuses stries des eaux qui s\'y entremêlent avec un fracas auquel des marins ne peuvent se tromper. Si la barre eût été déjà franchie, Gilbert se fût cru relativement en sûreté, car il n\'était pas probable que les embarcations voulussent se hasarder à cette distance de Jacksonville sous le feu des canonnières.
+
+Tous deux écoutaient donc, se penchant presque au ras de l\'eau.
+
+Leur oreille si exercée n\'avait encore rien pu percevoir. Il fallait qu\'ils se fussent égarés, soit vers la droite, soit vers la gauche du fleuve. Maintenant, ne vaudrait-il pas mieux le prendre obliquement, de manière à rallier une des rives, et, s\'il le fallait, attendre que le brouillard fût moins épais pour se remettre en bonne route ?
+
+C\'était le meilleur parti à prendre, puisque les vapeurs commençaient à monter vers de plus hautes zones. Le soleil, que l\'on sentait au-dessus, les enlevait en les échauffant. Visiblement, la surface du Saint-John allait réapparaître sur une vaste étendue, bien avant que le ciel fût redevenu distinct. Puis, le rideau se déchirerait d\'un coup, les horizons sortiraient des brumes. Peut-être, alors, à un mille au-delà de la barre, Gilbert apercevrait-il les canonnières, évitées de jusant, qu\'il lui serait possible de rejoindre.
+
+En ce moment, un bruit d\'eaux entrechoquées se fit entendre. Presque aussitôt le gig commença à tournoyer comme s\'il eût été emporté dans une sorte de tourbillon. On ne pouvait s\'y tromper.
+
+« La barre ! s\'écria Gilbert.
+
+--- Oui ! La barre, répondit Mars, et, une fois franchie, nous serons au mouillage. »
+
+Mars avait repris sa pagaie et cherchait maintenant à se tenir en bonne direction.
+
+Soudain, Gilbert l\'arrêta. Dans un recul des vapeurs, il venait d\'apercevoir une embarcation, rapidement menée, suivant la même route. Les hommes qui la montaient avaient-ils vu le canot ? Voulaient-ils lui barrer le passage ?
+
+« Revirons sur bâbord », dit le jeune lieutenant.
+
+Mars évolua, et quelques coups de pagaie l\'eurent bientôt rejeté dans un sens contraire.
+
+Mais, de ce côté, des voix se firent entendre.
+
+Elles se hélaient bruyamment. Il y avait certainement sur cette partie du fleuve plusieurs embarcations qui croisaient de conserve.
+
+Tout d\'un coup, et comme si une immense houppe eut largement balayé l\'espace, les vapeurs retombèrent en eau pulvérisée à la surface du Saint-John.
+
+Gilbert ne put retenir un cri.
+
+Le gig était au milieu d\'une douzaine d\'embarcations, chargées de surveiller cette partie du chenal, dont la barre coupait le sinueux passage après une longue ligne oblique.
+
+« Les voilà ! Les voilà ! »
+
+Telles furent les exclamations que se renvoyèrent les bateaux de l\'un à l\'autre.
+
+« Oui, nous voilà ! répondit le jeune lieutenant. Revolver et coutelas aux mains, Mars, et défendons-nous ! »
+
+Se défendre à deux contre une trentaine d\'hommes !
+
+En un instant, trois ou quatre embarcations avaient abordé le gig. Des détonations éclatèrent. Seuls, les revolvers de Gilbert et de Mars, que l\'on voulait prendre vivants, avaient fait feu. Trois ou quatre marins furent tués ou blessés. Mais, dans cette lutte inégale, comment Gilbert et son compagnon n\'auraient-ils pas succombé ?
+
+Le jeune lieutenant fut garrotté, malgré son énergique résistance, puis transporté dans une des embarcations.
+
+« Fuis\... Mars ! Fuis ! », cria-t-il une dernière fois.
+
+D\'un coup de son coutelas, Mars se débarrassa de l\'homme qui le tenait. Avant qu\'on eût pu le ressaisir, l\'intrépide mari de Zermah s\'était précipité dans le fleuve.
+
+En vain chercha-t-on à le reprendre. Il venait de disparaître au milieu des tourbillons de la barre, dont les eaux tumultueuses se changent en torrents au retour de la marée montante.
+
+
+]{.calibre20}
+
+
+NORD CONTRE SUD
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc343185114 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343182653 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180192 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177731 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343175270 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172809 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343170348 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167887 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343165426 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162965 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343160504 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158043 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148773 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343146312 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143849 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343141388 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138927 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343136465 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134004 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343131543 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129081 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343126620 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124156 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343121695 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119234 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116780 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343114317 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111856 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343109395 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343105651 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103189 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100726 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343098301 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095832 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343093370 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090892 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343088429 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085967 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343083504 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081042 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343078581 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076118 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343073655 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071189 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043229 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343038361 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035996 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343033631 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031266 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027710 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343025345 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022980 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343020614 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018248 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015883 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343013518 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011151 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008786 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343006421 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004056 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343001691 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342999326 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996961 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342994596 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992231 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989866 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342987501 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985134 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982769 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342980404 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978039 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 15 -- Jugement]{.pcalibre lang="X-NONE"}]{#_Toc342942058 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-15-jugement .calibre171 .sigil_not_in_toc}
+
+Une heure plus tard, Gilbert accostait le quai de Jacksonville. On avait entendu les coups de revolver tirés en aval. S\'agissait-il là d\'un engagement entre les embarcations confédérées et la flottille fédérale ? Ne devait-on pas craindre, même, que les canonnières du commandant Stevens eussent franchi le chenal en cet endroit ? Cela n\'avait pas laissé de causer une très sérieuse émotion parmi la population de la ville. Une partie des habitants s\'était rapidement portée vers les estacades. Les autorités civiles, représentées par Texar et les plus déterminés de ses partisans n\'avaient point tardé à les suivre. Tous regardaient dans la direction de la barre, maintenant dégagée des brumes. Lorgnettes et longues-vues fonctionnaient incessamment. Mais la distance était trop grande -- environ trois milles -- pour que l\'on pût être fixé sur l\'importance de l\'engagement et de ses résultats.
+
+En tout cas, la flottille se tenait toujours au poste de mouillage qu\'elle occupait la veille, et Jacksonville ne devait encore rien redouter d\'une attaque immédiate des canonnières. Les plus compromis de ses habitants auraient le temps de se préparer à fuir vers l\'intérieur de la Floride.
+
+D\'ailleurs, si Texar et deux ou trois de ses compagnons avaient, plus que tous autres, quelques raisons de craindre pour leur propre sécurité, il ne leur parut pas qu\'il y eût lieu de s\'inquiéter de l\'incident. L\'Espagnol se doutait bien qu\'il s\'agissait de la capture de ce canot, dont il voulait s\'emparer à tout prix.
+
+« Oui, à tout prix ! répétait Texar, en cherchant à reconnaître l\'embarcation qui s\'avançait vers le port. À tout prix, ce fils de Burbank, qui est tombé dans le piège que je lui ai tendu ! Je la tiens, enfin, cette preuve que James Burbank est en communication avec les fédéraux !
+
+Sang-Dieu ! Quand j\'aurai fait fusiller le fils, vingt-quatre heures ne se passeront pas sans que j\'aie fait fusiller le père ! »
+
+En effet, bien que son parti fût maître de Jacksonville, Texar, après le renvoi prononcé en faveur de James Burbank, avait voulu attendre une occasion propice pour le faire arrêter de nouveau. L\'occasion s\'était présentée d\'attirer Gilbert dans un piège. Gilbert, reconnu comme officier fédéral, arrêté en pays ennemi, condamné comme espion, l\'Espagnol pourrait accomplir jusqu\'au bout sa vengeance.
+
+Il ne fut que trop servi par les circonstances. C\'était bien le fils du colon de Camdless-Bay, de James Burbank, qui était ramené au port de Jacksonville.
+
+Que Gilbert fût seul, que son compagnon se fût noyé ou sauvé, peu importait puisque le jeune officier était pris. Il n\'y aurait plus qu\'à le traduire devant un comité, composé des partisans de Texar, que celui-ci présiderait en personne.
+
+Gilbert fut accueilli par les huées et les menaces de ce populaire qui le connaissait bien. Il reçut avec dédain toutes ces clameurs. Son attitude ne décela aucune crainte, bien qu\'une escouade de soldats eût dû être appelée pour protéger sa vie contre les violences de la foule. Mais, lorsqu\'il aperçut Texar, il ne fut pas maître de lui et se serait jeté sur l\'Espagnol, s il n\'eût été retenu par ses gardiens.
+
+Texar ne fit pas un mouvement, il ne prononça pas une parole, il affecta même de ne point voir le jeune officier, et il le laissa s\'éloigner avec la plus parfaite indifférence.
+
+Quelques instants après, Gilbert Burbank était enfermé dans la prison de Jacksonville. On ne pouvait se faire illusion sur le sort que lui réservaient les sudistes.
+
+Vers midi, M. Harvey, le correspondant de James Burbank, se présentait à la prison et tentait de voir Gilbert. Il fut éconduit. Par ordre de Texar, le jeune lieutenant était mis au secret le plus absolu. Cette démarche eut même pour résultat que M. Harvey allait être surveillé très sévèrement.
+
+En effet, on n\'ignorait pas ses rapports avec la famille Burbank, et il entrait dans les projets de l\'Espagnol que l\'arrestation de Gilbert ne fût pas immédiatement connue à Camdless-Bay. Une fois le jugement rendu, la condamnation prononcée, il serait temps d\'apprendre à James Burbank ce qui s\'était passé, et, lorsqu\'il l\'apprendrait, il n\'aurait plus le temps de fuir Castle-House afin d\'échapper à Texar.
+
+Il s\'ensuivit que M. Harvey ne put envoyer un messager à Camdless-Bay.
+
+L\'embargo avait été mis sur les embarcations du port. Toute communication étant interrompue entre la rive gauche et la rive droite du fleuve, la famille Burbank ne devait rien savoir de l\'arrestation de Gilbert. Pendant qu\'elle le croyait à bord de la canonnière de Stevens, le jeune officier était détenu dans la prison de Jacksonville.
+
+À Castle-House, avec quelle émotion on écoutait si quelque détonation lointaine n\'annonçait pas l\'arrivée des fédéraux au-delà de la barre. Jacksonville aux mains des nordistes, c\'était Texar aux mains de James Burbank ! C\'était celui-ci libre de reprendre, avec son fils, avec ses amis, ces recherches qui n\'avaient point abouti encore !
+
+Rien ne se faisait entendre en aval du fleuve. Le régisseur Perry, qui vint explorer le Saint-John jusqu\'à la ligne du barrage, Pyg et un des sous-régisseurs, envoyés par la berge à trois milles au-dessous de la plantation, firent le même rapport.
+
+La flottille était toujours au mouillage. Il ne semblait pas qu\'elle fit aucun préparatif pour appareiller et remonter à la hauteur de Jacksonville.
+
+Et, d\'ailleurs, comment aurait-elle pu franchir la barre ? En admettant que la marée l\'eût rendue praticable plus tôt qu\'on ne l\'espérait, comment se hasarderait-elle à travers les passes du chenal, maintenant que le seul pilote qui en connût toutes les sinuosités n\'était plus là ? En effet, Mars n\'avait pas reparu.
+
+Et, si James Burbank eût su ce qui s\'était passé après la capture du gig, qu\'aurait-il pu croire, sinon que le courageux compagnon de Gilbert avait péri dans les tourbillons du fleuve ? Au cas où Mars se serait sauvé en regagnant la rive droite du Saint-John, est-ce que son premier soin n\'eût pas été de revenir à Camdless-Bay, puisqu\'il lui était impossible de retourner à son bord ?
+
+Mars ne reparut point à la plantation.
+
+Le lendemain, 11 mars, vers onze heures, le Comité était assemblé, sous la présidence de Texar, dans cette même salle de Court-Justice, où l\'Espagnol s\'était déjà fait l\'accusateur de James Burbank. Cette fois, les charges qui pesaient sur le jeune officier étaient suffisamment graves pour qu\'il ne pût échapper à son sort. Il était condamné d\'avance. La question du fils une fois réglée, Texar s\'occuperait de la question du père. La petite Dy entre ses mains, Mme Burbank succombant à ces coups successifs que sa main avait dirigés, il serait bien vengé ! Ne semblait-il pas que tout vînt le servir à souhait dans son implacable haine ?
+
+Gilbert fut extrait de sa prison. La foule l\'accompagna de ses hurlements, comme la veille.
+
+Lorsqu\'il entra dans la salle du Comité, où se trouvaient déjà les plus forcenés partisans de l\'Espagnol, ce fut au milieu des plus violentes clameurs.
+
+« À mort, l\'espion ! À mort ! »
+
+C\'était l\'accusation que lui jetait cette vile populace, accusation inspirée par Texar.
+
+Gilbert, cependant, avait repris tout son sang-froid, et il parvint à se maîtriser, même en face de l\'Espagnol, qui n\'avait pas eu la pudeur de se récuser dans une pareille affaire.
+
+« Vous vous nommez Gilbert Burbank, dit Texar, et vous êtes officier de la marine fédérale ?
+
+--- Oui.
+
+--- Et maintenant lieutenant à bord de l\'une des canonnières du commandant Stevens ?
+
+--- Oui.
+
+--- Vous êtes le fils de James Burbank, un Américain du Nord, propriétaire de la plantation de Camdless-Bay ?
+
+--- Oui.
+
+--- Avouez-vous avoir quitté la flottille mouillée sous la barre, dans la nuit du 10 mars ?
+
+--- Oui.
+
+--- Avouez-vous avoir été capturé, alors que vous cherchiez à regagner la flottille, en compagnie d\'un matelot de votre bord ?
+
+--- Oui.
+
+--- Voulez-vous dire ce que vous êtes venu faire dans les eaux du Saint-John ?
+
+--- Un homme s\'est présenté à bord de la canonnière dont je suis le second. Il m\'a appris que la plantation de mon père venait d\'être dévastée par une troupe de malfaiteurs, que Castle-House avait été assiégée par des bandits. Je n\'ai pas à dire au président du Comité qui me juge, à qui incombe la responsabilité de ces crimes.
+
+--- Et moi, répondit Texar, j\'ai à dire à Gilbert Burbank que son père avait bravé l\'opinion publique en affranchissant ses esclaves, qu\'un arrêté ordonnait la dispersion des nouveaux affranchis, que cet arrêté devait être mis à exécution\...
+
+--- Avec incendie et pillage, répliqua Gilbert, avec un rapt dont Texar est personnellement l\'auteur !
+
+--- Quand je serai devant des juges, je répondrai, répliqua froidement l\'Espagnol. Gilbert Burbank, n\'essayez pas d\'intervertir les rôles. Vous êtes un accusé, non un accusateur !
+
+--- Oui\... Un accusé\... En ce moment, du moins », répondit le jeune officier.
+
+« Mais les canonnières fédérales n\'ont plus que la barre du Saint-John à franchir pour s\'emparer de Jacksonville, et alors\... »
+
+Des cris éclatèrent aussitôt, des menaces contre le jeune officier, qui osait braver les sudistes en face.
+
+« À mort ! À mort ! » cria-t-on de toutes parts.
+
+L\'Espagnol ne parvint pas sans peine à calmer cette colère de la foule. Puis reprenant l\'interrogatoire :
+
+« Nous direz-vous, Gilbert Burbank, pourquoi, la nuit dernière, vous avez quitté votre bord ?
+
+--- Je l\'ai quitté pour venir voir ma mère mourante.
+
+--- Vous avouez alors que vous avez débarqué à Camdless-Bay ? -- Je n\'ai pas à m\'en cacher.
+
+--- Et c\'était uniquement pour voir votre mère ?
+
+--- Uniquement.
+
+--- Nous avons pourtant raison de penser, reprit Texar, que vous aviez un autre but.
+
+--- Lequel ?
+
+--- Celui de correspondre avec votre père, James Burbank, ce nordiste soupçonné, depuis trop longtemps déjà, d\'entretenir des intelligences avec l\'armée fédérale.
+
+--- Vous savez que cela n\'est pas, répondit Gilbert, emporté par une indignation bien naturelle. Si je suis venu à Camdless-Bay, ce n\'est pas comme un officier, mais comme un fils\...
+
+--- Ou comme un espion ! » répliqua Texar.
+
+Les cris redoublèrent : « À mort, l\'espion ! À mort ! »
+
+Gilbert vit bien qu\'il était perdu, et, ce qui lui porta un coup terrible, il comprit que son père allait être perdu avec lui.
+
+« Oui, reprit Texar, la maladie de votre mère n\'était qu\'un prétexte ! Vous êtes venu comme espion à Camdless-Bay, pour rendre compte aux fédéraux de l\'état des défenses du Saint-John ! »
+
+Gilbert se leva.
+
+« Je suis venu pour voir ma mère mourante, répondit-il, et vous le savez bien ! Jamais je n\'aurais cru que, dans un pays civilisé, il se trouverait des juges qui fissent un crime à un soldat d\'être venu au lit de mort de sa mère, alors même qu\'elle était sur le territoire ennemi ! Que celui qui blâme ma conduite et qui n\'en aurait pas fait autant ose le dire ! »
+
+Un auditoire, composé d\'hommes en qui la haine n\'eût pas éteint toute sensibilité, n\'aurait pu qu\'applaudir à cette déclaration si noble et si franche. Il n\'en fut rien. Des vociférations l\'accueillirent, puis des applaudissements à l\'adresse de l\'Espagnol, lorsque celui-ci fit valoir qu\'en recevant un officier ennemi en temps de guerre, James Burbank ne s\'était pas rendu moins coupable que cet officier.
+
+Elle existait, enfin, cette preuve que Texar avait promis de produire, cette preuve de la connivence de James Burbank avec l\'armée du Nord.
+
+Aussi, le Comité, retenant les aveux faits au cours de l\'interrogatoire relativement à son père, condamna-t-il à mort Gilbert Burbank, lieutenant de la marine fédérale.
+
+Le condamné fut aussitôt reconduit dans sa prison au milieu des huées de cette populace, qui le poursuivait toujours de ces cris : « À mort, l\'espion ! À mort ! »
+
+Le soir, un détachement de la milice de Jacksonville arrivait à Camdless-Bay.
+
+L\'officier qui le commandait demanda M. Burbank.
+
+James Burbank se présenta. Edward Carrol et Walter Stannard l\'accompagnaient.
+
+« Que me veut-on ? dit James Burbank.
+
+--- Lisez cet ordre ! » répondit l\'officier.
+
+C\'était l\'ordre d\'arrêter James Burbank comme complice de Gilbert Burbank, condamné à mort pour espionnage par le Comité de Jacksonville, et qui devait être fusillé dans les quarante-huit heures.

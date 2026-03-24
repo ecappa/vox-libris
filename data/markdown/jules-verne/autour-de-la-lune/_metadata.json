@@ -1,0 +1,324 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "AUTOUR DE LA LUNE",
+  "slug": "autour-de-la-lune",
+  "nombre_chapitres": 24,
+  "structure": [
+    {
+      "title": "Chapitre préliminaire",
+      "slug": "chapitre-preliminaire",
+      "is_part": false,
+      "spine_start": 301,
+      "spine_end_exclusive": 302,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_596.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 1 – De dix heures vingt à dix heures quarante-sept minutes du soir",
+      "slug": "chapitre-1-de-dix-heures-vingt-a-dix-heures-quarante-sept-minutes-du-soir",
+      "is_part": false,
+      "spine_start": 302,
+      "spine_end_exclusive": 303,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_597.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – La première demi-heure",
+      "slug": "chapitre-2-la-premiere-demi-heure",
+      "is_part": false,
+      "spine_start": 303,
+      "spine_end_exclusive": 304,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_598.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Où l'on s'installe",
+      "slug": "chapitre-3-ou-lon-sinstalle",
+      "is_part": false,
+      "spine_start": 304,
+      "spine_end_exclusive": 305,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_599.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Un peu d'algèbre",
+      "slug": "chapitre-4-un-peu-dalgebre",
+      "is_part": false,
+      "spine_start": 305,
+      "spine_end_exclusive": 306,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_600.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Les froids de l'espace",
+      "slug": "chapitre-5-les-froids-de-lespace",
+      "is_part": false,
+      "spine_start": 306,
+      "spine_end_exclusive": 307,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_601.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Demandes et réponses",
+      "slug": "chapitre-6-demandes-et-reponses",
+      "is_part": false,
+      "spine_start": 307,
+      "spine_end_exclusive": 308,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_602.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Un moment d'ivresse",
+      "slug": "chapitre-7-un-moment-divresse",
+      "is_part": false,
+      "spine_start": 308,
+      "spine_end_exclusive": 309,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_603.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – À soixante-dix-huit mille cent quatorze lieues",
+      "slug": "chapitre-8-a-soixante-dix-huit-mille-cent-quatorze-lieues",
+      "is_part": false,
+      "spine_start": 309,
+      "spine_end_exclusive": 310,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_604.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Conséquences d'une déviation",
+      "slug": "chapitre-9-consequences-dune-deviation",
+      "is_part": false,
+      "spine_start": 310,
+      "spine_end_exclusive": 311,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_605.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Les observateurs de la lune",
+      "slug": "chapitre-10-les-observateurs-de-la-lune",
+      "is_part": false,
+      "spine_start": 311,
+      "spine_end_exclusive": 312,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_606.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Fantaisie et réalisme",
+      "slug": "chapitre-11-fantaisie-et-realisme",
+      "is_part": false,
+      "spine_start": 312,
+      "spine_end_exclusive": 313,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_607.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Détails orographiques",
+      "slug": "chapitre-12-details-orographiques",
+      "is_part": false,
+      "spine_start": 313,
+      "spine_end_exclusive": 314,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_608.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Paysages lunaires",
+      "slug": "chapitre-13-paysages-lunaires",
+      "is_part": false,
+      "spine_start": 314,
+      "spine_end_exclusive": 315,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_609.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – La nuit de trois cent cinquante-quatre heures et demie",
+      "slug": "chapitre-14-la-nuit-de-trois-cent-cinquante-quatre-heures-et-demie",
+      "is_part": false,
+      "spine_start": 315,
+      "spine_end_exclusive": 316,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_610.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Hyperbole ou parabole",
+      "slug": "chapitre-15-hyperbole-ou-parabole",
+      "is_part": false,
+      "spine_start": 316,
+      "spine_end_exclusive": 317,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_611.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – L'hémisphère méridional",
+      "slug": "chapitre-16-lhemisphere-meridional",
+      "is_part": false,
+      "spine_start": 317,
+      "spine_end_exclusive": 318,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_612.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Tycho",
+      "slug": "chapitre-17-tycho",
+      "is_part": false,
+      "spine_start": 318,
+      "spine_end_exclusive": 319,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_613.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Questions graves",
+      "slug": "chapitre-18-questions-graves",
+      "is_part": false,
+      "spine_start": 319,
+      "spine_end_exclusive": 320,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_614.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Lutte contre l'impossible",
+      "slug": "chapitre-19-lutte-contre-limpossible",
+      "is_part": false,
+      "spine_start": 320,
+      "spine_end_exclusive": 321,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_615.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Les sondages de la Susquehanna",
+      "slug": "chapitre-20-les-sondages-de-la-susquehanna",
+      "is_part": false,
+      "spine_start": 321,
+      "spine_end_exclusive": 322,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_616.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – J.-T. Maston rappelé",
+      "slug": "chapitre-21-j-t-maston-rappele",
+      "is_part": false,
+      "spine_start": 322,
+      "spine_end_exclusive": 323,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_617.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Le sauvetage",
+      "slug": "chapitre-22-le-sauvetage",
+      "is_part": false,
+      "spine_start": 323,
+      "spine_end_exclusive": 324,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_618.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – Pour finir",
+      "slug": "chapitre-23-pour-finir",
+      "is_part": false,
+      "spine_start": 324,
+      "spine_end_exclusive": 325,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_619.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/autour-de-la-lune/image360.jpg",
+    "images/jules-verne/autour-de-la-lune/image361.jpg",
+    "images/jules-verne/autour-de-la-lune/image362.jpg",
+    "images/jules-verne/autour-de-la-lune/image363.jpg",
+    "images/jules-verne/autour-de-la-lune/image364.jpg",
+    "images/jules-verne/autour-de-la-lune/image365.jpg",
+    "images/jules-verne/autour-de-la-lune/image366.jpg",
+    "images/jules-verne/autour-de-la-lune/image367.jpg",
+    "images/jules-verne/autour-de-la-lune/image368.jpg",
+    "images/jules-verne/autour-de-la-lune/image369.jpg",
+    "images/jules-verne/autour-de-la-lune/image370.jpg",
+    "images/jules-verne/autour-de-la-lune/image371.jpg",
+    "images/jules-verne/autour-de-la-lune/image372.jpg",
+    "images/jules-verne/autour-de-la-lune/image373.jpg",
+    "images/jules-verne/autour-de-la-lune/image374.jpg",
+    "images/jules-verne/autour-de-la-lune/image375.jpg",
+    "images/jules-verne/autour-de-la-lune/image376.jpg",
+    "images/jules-verne/autour-de-la-lune/image377.jpg",
+    "images/jules-verne/autour-de-la-lune/image378.jpg",
+    "images/jules-verne/autour-de-la-lune/image379.jpg",
+    "images/jules-verne/autour-de-la-lune/image380.jpg",
+    "images/jules-verne/autour-de-la-lune/image381.jpg",
+    "images/jules-verne/autour-de-la-lune/image382.jpg",
+    "images/jules-verne/autour-de-la-lune/image383.jpg",
+    "images/jules-verne/autour-de-la-lune/image384.jpg",
+    "images/jules-verne/autour-de-la-lune/image385.jpg",
+    "images/jules-verne/autour-de-la-lune/image386.jpg",
+    "images/jules-verne/autour-de-la-lune/image387.jpg",
+    "images/jules-verne/autour-de-la-lune/image388.jpg",
+    "images/jules-verne/autour-de-la-lune/image389.jpg",
+    "images/jules-verne/autour-de-la-lune/image390.jpg",
+    "images/jules-verne/autour-de-la-lune/image391.jpg",
+    "images/jules-verne/autour-de-la-lune/image392.jpg",
+    "images/jules-verne/autour-de-la-lune/image393.jpg",
+    "images/jules-verne/autour-de-la-lune/image394.jpg",
+    "images/jules-verne/autour-de-la-lune/image395.jpg",
+    "images/jules-verne/autour-de-la-lune/image396.jpg",
+    "images/jules-verne/autour-de-la-lune/image397.jpg",
+    "images/jules-verne/autour-de-la-lune/image398.jpg",
+    "images/jules-verne/autour-de-la-lune/image399.jpg",
+    "images/jules-verne/autour-de-la-lune/image400.jpg",
+    "images/jules-verne/autour-de-la-lune/image401.jpg",
+    "images/jules-verne/autour-de-la-lune/image402.jpg",
+    "images/jules-verne/autour-de-la-lune/image403.jpg",
+    "images/jules-verne/autour-de-la-lune/image404.jpg",
+    "images/jules-verne/autour-de-la-lune/image405.jpg",
+    "images/jules-verne/autour-de-la-lune/image406.jpg",
+    "images/jules-verne/autour-de-la-lune/image407.jpg"
+  ]
+}

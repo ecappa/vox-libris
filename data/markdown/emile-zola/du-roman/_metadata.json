@@ -1,0 +1,97 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "DU ROMAN",
+  "slug": "du-roman",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1614,
+      "spine_end_exclusive": 1615,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_315.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le sens du réel",
+      "slug": "le-sens-du-reel",
+      "spine_start": 1615,
+      "spine_end_exclusive": 1616,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_316.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'expression personnelle",
+      "slug": "lexpression-personnelle",
+      "spine_start": 1616,
+      "spine_end_exclusive": 1617,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_317.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La formule critique appliquée au roman",
+      "slug": "la-formule-critique-appliquee-au-roman",
+      "spine_start": 1617,
+      "spine_end_exclusive": 1618,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_318.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "De la description",
+      "slug": "de-la-description",
+      "spine_start": 1618,
+      "spine_end_exclusive": 1619,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_319.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Trois débuts",
+      "slug": "trois-debuts",
+      "spine_start": 1619,
+      "spine_end_exclusive": 1623,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_320.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_321.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_322.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_323.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les documents humains",
+      "slug": "les-documents-humains",
+      "spine_start": 1623,
+      "spine_end_exclusive": 1624,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_324.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les Frères Zemganno",
+      "slug": "les-freres-zemganno",
+      "spine_start": 1624,
+      "spine_end_exclusive": 1628,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_325.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_326.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_327.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_328.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

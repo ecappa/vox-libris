@@ -1,0 +1,143 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "PROLOGUE"
+slug_oeuvre: "prologue"
+type: "oeuvre-complete"
+---
+
+# PROLOGUE
+(1869)
+
+Victor Hugo
+
+THÉÂTRE EN LIBERTÉ
+
+!
+
+JUPITER.
+Vous, Tragédie, et toi, Comédie, approchez.
+J'ai là le bien, le mal, les exploits, les pèches.
+Demandez. Je prétends vous doter l'une et l'autre.
+Parlez Que voulez-vous toutes deux ?
+LA TRAGÉDIE.
+Moi, l'apôtre
+LA COMÉDIE.
+Moi, l'abbé.
+LA TRAGÉDIE.
+ Le cothurne étoilé.
+LA COMÉDIE.
+Le sabot.
+LA TRAGÉDIE.
+Le laurier.
+LA COMÉDIE.
+Le jambon.
+LA TRAGÉDIE
+Le sénat.
+COMÉDIE.
+ Le turbot.
+LA TRAGÉDIE.
+L'aveugle et le muet.
+COMÉDIE.
+Le myope et le bègue.
+LA TRAGÉDIE.
+Catherine.
+LA COMÉDIE.
+Cateau.
+JUPITER.
+Puis ?
+LA COMÉDIE.
+Géronte.
+LA TRAGÉDIE.
+Don Diègue.
+JUPITER
+ Est-ce tout ?
+LA TRAGÉDIE Non.
+LA COMÉDIE.
+Nenni.
+LA TRAGÉDIE.
+Je veux celui qui ment.
+LA COMÉDIE.
+Celui qui croit.
+LA TRAGÉDIE.
+Le juge.
+LA COMÉDIE.
+Et moi, le jugement.
+LA TRAGÉDIE.
+L'infini, l'absolu, l'immensité.
+LA COMÉDIE.
+ Les bornes.
+LA TRAGÉDIE.
+Ton aigle, ô Jupiter ! ta foudre, Ammon !
+LA COMÉDIE.
+Tes cornes.
+LA TRAGÉDIE.
+Aller du Styx au ciel !
+LA COMÉDIE.
+De Paris à Saint-Cloud.
+LA TRAGÉDIE.
+L'âpre forêt.
+LA COMÉDIE.
+Le bal.
+LA TRAGÉDIE.
+Le grand lion.
+LA COMÉDIE.
+Le loup.
+LA TRAGÉDIE.
+L'amour sur le sommet de l'Ida.
+LA COMÉDIE.
+Dans un fiacre.
+LA TRAGÉDIE.
+Eve.
+LA COMÉDIE.
+Adam.
+LA TRAGÉDIE.
+Le berger Pâris.
+LA COMÉDIE.
+Et moi, le diacre.
+LA TRAGÉDIE.
+Le conquérant rebelle à Dieu.
+LA COMÉDIE.
+L'âne rétif.
+LA TRAGEDIE.
+L'imparfait de la vie.
+LA COMÉDIE.
+Et moi, du subjonctif
+LA TRAGÉDIE.
+La cloche.
+LA COMÉDIE.
+Le grelot.
+LA TRAGÉDIE.
+Le pontife.
+LA COMÉDIE.
+Le pitre.
+LA TRAGÉDIE.
+Les premiers temps des rois.
+LA COMÉDIE.
+Moi, le dernier chapitre.
+LA TRAGÉDIE.
+Les mots sublimes dits par les grands.
+LA COMÉDIE
+Les anas
+LA TRAGÉDIE.
+Les monstres marins noirs et terribles
+LA COMÉDIE
+ Jonas.
+LA TRAGÉDIE.
+Le héros.
+LA COMÉDIE.
+Le coquin de neveu.
+LA TRAGÉDIE.
+Les quadriges
+LA COMÉDIE.
+Les omnibus.
+LA TRAGÉDIE.
+Moïse et Bouddha.
+LA COMÉDIE.
+Leurs prodiges.
+
+watermark:9782368410165
+
+H.H. 26 juillet 1869
+
+illustration: separateur

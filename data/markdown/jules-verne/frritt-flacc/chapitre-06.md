@@ -1,0 +1,63 @@
+]{.calibre20}
+
+
+FRRITT FLACC
+
+
+]{.calibre20}
+
+## [[Chapitre 6]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942040 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_465 .calibre21}
+
+Plus qu\'un point lumineux, à une demi-kertse. C\'est la lampe du mourant, -- du mort peut-être. Voilà bien la maison du craquelinier. L\'aïeule l\'a indiquée du doigt. Pas d\'erreur possible.
+
+Au milieu des Frritts sifflants, des Flaccs crépitants dans le brouhaha de la tourmente, le docteur Trifulgas marche à pas pressés.
+
+À mesure qu\'il s\'avance, la maison se dessine mieux, étant isolée au milieu de la lande.
+
+Il est singulier d\'observer combien elle ressemble à celle du docteur, au Six-Quatre de Luktrop. Même disposition de fenêtres sur la façade, même petite porte cintrée.
+
+Le docteur Trifulgas se hâte aussi rapidement que le permet la rafale. La porte est entr\'ouverte, il n\'a qu\'à la pousser, il la pousse, il entre, et le vent la referme sur lui -- brutalement.
+
+Le chien Hurzof, dehors, hurle, se taisant par intervalles, comme les chantres, entre les versets d\'un psaume des Quarante-Heures.
+
+C\'est étrange ! On dirait que le docteur Trifulgas est revenu dans sa propre maison. Il ne s\'est pas égaré, cependant. Il n\'a point fait un détour. Il est bien au Val Karniou, non à Luktrop. Et pourtant, même corridor, bas et voûté, même escalier de bois tournant, à grosse rampe, usée de frottements de mains.
+
+Il monte. Il arrive au palier. Devant la porte, une faible lueur filtre en dessous, comme au Six-Quatre.
+
+Est-ce une hallucination ? Dans la lumière vague, il reconnaît sa chambre, le canapé jaune, à droite, le bahut en vieux poirier, à gauche, le coffre-fort bardé, où il comptait déposer ses cent vingt fretzers.
+
+Voilà son fauteuil à oreillons de cuir, voilà sa table à pied tors, et dessus, près de la lampe qui se meurt, son Codex, ouvert à la page 197.
+
+« Qu\'ai-je donc ? » murmure-t-il.
+
+Ce qu\'il a ? Il a peur. Sa pupille s\'est dilatée. Son corps s\'est comme contracté, amoindri. Une transsudation glacée refroidit sa peau, sur laquelle il sent courir de rapides horripilations.
+
+Mais hâte-toi donc ! Faute d\'huile, la lampe va s\'éteindre, -- le moribond aussi !
+
+Oui, le lit est là, -- son lit, à colonnes, à baldaquin, aussi long que large, fermé de courtines à grands ramages. Est-il possible que se soit là le grabat d\'un misérable craquelinier ?
+
+D\'une main qui tremble, le docteur Trifulgas saisit les rideaux. Il les ouvre, il regarde.
+
+Le moribond, sa tête hors des couvertures, est immobile, comme au bout de sa dernière respiration.
+
+Le docteur se penche sur lui\...
+
+Ah ! Quel cri, auquel répond, en dehors, un sinistre aboiement de chien.
+
+Le moribond, ce n\'est pas le craquelinier Vort Kartif ! C\'est le docteur Trifulgas ! C\'est lui que la congestion a frappé, -- lui-même ! Une apoplexie cérébrale, avec brusque accumulation de sérosités dans les cavités du cerveau, avec paralysie du corps au côté opposé à celui où se trouve le siège de la lésion !
+
+Oui ! C\'est lui, pour qui on est venu le chercher, pour qui on a payé cent vingt fretzers ! Lui, qui, par dureté du coeur refusait d\'aller soigner le craquelinier pauvre ! Lui, qui va mourir !
+
+Le docteur Trifulgas est comme fou.
+
+Il se sent perdu. Les accidents croissent de minute en minute. Non seulement toutes les fonctions de relations les suppriment en lui, mais les mouvements du coeur et de la respiration vont cesser. Et pourtant, il n\'a pas entièrement perdu la connaissance de lui-même !
+
+Que faire ! Diminuer la masse du sang au moyen d\'une émission sanguine ? Le docteur Trifulgas est mort, s\'il hésite\...
+
+On saignait encore dans ce temps-là, et, comme à présent, les médecins guérissaient de l\'apoplexie tous ceux qui ne devaient pas en mourir.
+
+Le docteur Trifulgas saisit sa trousse, tire sa lancette, pique la veine du bras de son sosie : le sang ne vient pas à son bras. Il lui fait d\'énergiques frictions à la poitrine : le jeu de la sienne s\'arrête. Il lui brûle les pieds avec des pierres chaudes ; les siens se refroidissent.
+
+Alors son sosie se redresse, se débat, pousse un râle suprême\...
+
+Et le docteur Trifulgas, malgré tout ce qu\'a pu lui inspirer la science, se meurt entre ses mains. Frritt ! Flacc !

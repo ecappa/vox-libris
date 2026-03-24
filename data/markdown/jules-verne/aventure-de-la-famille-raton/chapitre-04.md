@@ -1,0 +1,75 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+AVENTURE DE LA FAMILLE RATON
+
+
+]{.calibre20}
+
+## [[Chapitre 4]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942977 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_86 .calibre21}
+
+Une fort jolie ville, que la ville de Ratopolis. Elle est située dans un royaume dont j\'ai oublié le nom, qui n\'est ni en Europe, ni en Asie, ni en Afrique, ni en Océanie, ni en Amérique, bien qu\'il se trouve quelque part. En tout cas, le paysage, autour de Ratopolis, ressemble beaucoup à un [paysage hollandais. C\'est frais, c\'est vert, c\'est propre, avec des cours d\'eau]{.calibre543} limpides, des berceaux ombragés de beaux arbres, des prairies grasses où paissent les plus heureux troupeaux du monde.
+
+Comme toutes les villes, Ratopolis a des rues, des places, des boulevards ; mais ces boulevards, ces places, ces rues, sont bordés de fromages magnifiques, en guise de maisons : des gruyères, des croûte-rouges, des mareuils, des chesters de vingt espèces. Ils sont creusés à l\'intérieur en étages, appartements, chambres. C\'est là que vit, en république, une nombreuse population de rats, sage, modeste et prévoyante.
+
+[Il pouvait être sept heures du soir, un dimanche. En famille, rats et rates se]{.calibre543} promenaient pour respirer la fraîcheur. Après avoir bien travaillé toute la semaine à refaire les provisions du ménage, ils se reposaient le septième jour.
+
+[Or, le prince Kissador était alors à Ratopolis, accompagné de l\'inséparable]{.calibre543} Gardafour. Ayant appris que les membres de la famille Raton, après avoir été poissons pendant quelque temps, étaient redevenus rats, ils s\'occupaient à leur préparer de secrètes embûches.
+
+« Quand je songe, répétait le prince, que c\'est encore à cette fée maudite qu\'ils doivent leur nouvelle transformation !
+
+--- Eh ! Tant mieux, répondait Gardafour.
+
+Ils seront maintenant plus faciles à prendre. Des poissons, cela s\'échappe trop aisément. À présent, les voilà rats ou rates, et nous saurons bien nous en emparer, et, une fois en votre pouvoir, ajouta l\'enchanteur, la belle Ratine finira par être folle de votre seigneurie. »
+
+À ce discours, le fat se rengorgeait, se pavanait, lançait des oeillades aux jolies rates en promenade.
+
+« Gardafour, dit-il, tout est prêt ?
+
+--- Tout, mon prince, et Ratine n\'échappera pas au piège que je lui ai tendu. » Et Gardafour montrait un élégant berceau de feuillage, disposé au coin de la place.
+
+« Ce berceau cache un piège, dit-il, et je vous promets que la belle sera aujourd\'hui même dans le palais de votre seigneurie, où elle ne pourra résister aux grâces de votre esprit et aux séductions de votre personne. »
+
+Et l\'imbécile de gober ces grosses flatteries de l\'enchanteur !
+
+« La voilà, dit Gardafour. Venez, mon prince, il ne faut pas qu\'elle nous aperçoive. »
+
+Tous deux gagnèrent la rue voisine.
+
+C\'était Ratine, en effet, mais Ratin l\'accompagnait pour rentrer au logis. Qu\'elle était charmante, avec sa jolie figure de blonde et sa gracieuse tournure de rate ! Et le jeune homme lui disait :
+
+« Ah ! Chère Ratine, que n\'es-tu déjà une demoiselle ! Si, pour t\'épouser tout de suite, j\'avais pu redevenir rat, je n\'aurais pas hésité. Mais cela est impossible.
+
+--- Eh bien, mon cher Ratin, il faut attendre\...
+
+--- Attendre ! Toujours attendre !
+
+--- Qu\'importe, puisque tu sais que je t\'aime et ne serai jamais qu\'à toi. D\'ailleurs la bonne fée nous protège, et nous n\'avons plus rien à craindre du méchant Gardafour, ni du prince Kissador.
+
+--- Cet impertinent, s\'écria Ratin, ce sot que je corrigerai\...
+
+--- Non, mon Ratin, non, ne lui cherche pas querelle ! Il a des gardes qui le défendraient\... Aie patience, puisqu\'il le faut, et confiance, puisque je t\'aime ! »
+
+Tandis que Ratine disait si gentiment ces choses, le jeune homme la pressait sur son coeur, lui baisait ses petites pattes.
+
+Et comme elle se sentait un peu fatiguée de sa promenade :
+
+« Ratin, dit-elle, voilà le berceau sous lequel j\'ai l\'habitude de me reposer. Va à la maison prévenir mon père et ma mère qu\'ils me retrouveront ici pour aller à la fête. »
+
+Et Ratine se glissa sous le berceau.
+
+Soudain il se fit un bruit sec, comme le craquement d\'un ressort qui se détend\...
+
+Le feuillage cachait une perfide ratière, et Ratine, qui ne pouvait s\'en défier, venait de toucher le ressort. Brusquement, une grille s\'était abattue devant le berceau, et maintenant elle était prise !
+
+Ratin jeta un cri de colère, auquel répondit le cri de désespoir de Ratine, auquel répondit le cri de triomphe de Gardafour, qui accourait avec le prince Kissador.
+
+En vain le jeune homme s\'accrochait-il à la grille pour en briser les barreaux, en vain voulut-il se jeter sur le prince.
+
+Le mieux était d\'aller chercher du secours pour délivrer la malheureuse Ratine, et c\'est ce que fit Ratin en s\'échappant par la grande rue de Ratopolis.
+
+Pendant ce temps, Ratine était extraite de la ratière, et le prince Kissador lui disait le plus galamment du monde :
+
+« Je te tiens, petite, et maintenant, tu ne m\'échapperas plus ! »

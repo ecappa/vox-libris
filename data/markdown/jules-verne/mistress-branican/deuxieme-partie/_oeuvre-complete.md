@@ -1,0 +1,2797 @@
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+
+]{.calibre20}
+
+## [[Deuxième partie]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942243 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_562 .calibre21}
+
+### []{#_Toc342978225 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 1 -- En naviguant]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942244 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-1-en-naviguant .calibre171 .sigil_not_in_toc}
+
+Du jour où M. De Lesseps a percé l\'isthme de Suez, on a été en droit de dire que du continent africain il avait fait une île. Lorsque le canal de Panama sera achevé, il sera également permis de donner la qualification d\'îles à l\'Amérique du Sud et à l\'Amérique du Nord. En effet, ces immenses territoires seront entourés d\'eau de toutes parts. Mais, comme ils conserveront le nom de continent, en égard à leur étendue, il est logique d\'appliquer ce nom à l\'Australie ou Nouvelle-Hollande, qui se trouve dans les mêmes conditions.
+
+En effet, l\'Australie mesure trois mille neuf cents kilomètres dans sa plus grande longueur de l\'est à l\'ouest, et trois mille deux cents dans sa plus grande largeur du nord au sud. Or, le produit de ces deux dimensions constitue une superficie de quatre millions huit cent trente mille kilomètres carrés environ -- soit les sept neuvièmes de l\'aire européenne.
+
+Le continent australien est actuellement divisé, par les auteurs des atlas les plus récents, en sept provinces que séparent des lignes arbitraires, se coupant à angle droit, et qui ne tiennent aucun compte des accidents orographiques ou hydrographiques :
+
+À l\'est, dans la partie la plus peuplée, le Queensland, capitale Brisbane -- la Nouvelle-Galles du Sud, capitale Sydney -- Victoria, capitale Melbourne ;
+
+Au centre, l\'Australie septentrionale et la Terre Alexandra, sans capitales -- l\'Australie méridionale, capitale Adélaïde ;
+
+À l\'ouest, l\'Australie occidentale, qui s\'étend du nord au sud, capitale Perth.
+
+Il convient d\'ajouter que les Australiens cherchent à constituer une confédération sous le nom de « Commonwealth of Australia ». Le gouvernement anglais repousse cette qualification, mais, sans doute, elle sera acquise le jour où la séparation sera un fait accompli.
+
+On verra bientôt en quelles provinces, les plus dangereuses et les moins connues de ce continent, Mrs. Branican allait s\'aventurer avec cette espérance si vague, cette pensée presque irréalisable, de retrouver le capitaine John, de l\'arracher à la tribu qui le retenait prisonnier depuis neuf ans. Et, d\'ailleurs, n\'y avait-il pas lieu de se demander si les Indas avaient respecté sa vie, après l\'évasion de Harry Felton ?
+
+Le projet de Mrs. Branican était de quitter Sydney, dès que le départ serait possible. Elle pouvait compter sur le dévouement sans bornes de Zach Fren, sur l\'intelligence ferme et pratique qui le caractérisait. Dans un long entretien, ayant la carte de l\'Australie sous les yeux, tous deux avaient discuté les mesures les plus promptes, les plus formelles aussi, qui devaient décider le succès de cette nouvelle tentative. Le choix du point de départ, on le comprend, était d\'une extrême importance, et voici ce qui fut définitivement arrêté :
+
+1° Une caravane, pourvue des meilleurs moyens de recherches et de défense, nantie de tout le matériel exigé par un voyage à travers les déserts de l\'Australie centrale, serait organisée aux frais et par les soins de Mrs. Branican ;
+
+2° Cette exploration devant commencer dans un très bref délai, il convenait de se transporter par les voies les plus rapides de terre ou de mer jusqu\'au point terminus des communications établies entre le littoral et le centre du continent.
+
+En premier lieu, la question de gagner le littoral nord-ouest, c\'est-à-dire l\'endroit de la Terre de Tasman où avaient abordé les naufragés du *Franklin*, fut posée et débattue. Mais ce détour eût occasionné une perte de temps énorme, entraîné de réelles difficultés tant pour le personnel que pour le matériel -- qui seraient l\'un et l\'autre considérables. En somme, rien ne démontrait qu\'en attaquant le continent australien par l\'ouest, l\'expédition rencontrerait avec plus de certitude la tribu qui détenait le capitaine John Branican, les indigènes nomades parcourant la Terre Alexandra aussi bien que les districts de l\'Australie occidentale. Il fut donc répondu négativement à cette question.
+
+En second lieu, on traita la direction qu\'il convenait de prendre dès le début de la campagne ; c\'était évidemment celle que Harry Felton avait dû suivre pendant son parcours de l\'Australie centrale. Cette direction, si on ne la connaissait pas d\'une façon précise, était, du moins, indiquée par le point où le second du *Franklin* avait été recueilli, c\'est-à-dire les bords du Parru, à la limite du Queensland et de la Nouvelle-Galles du Sud, au nord-ouest de cette province.
+
+Depuis 1770 -- époque à laquelle le capitaine Cook explora la Nouvelle-Galles du Sud et prit possession, au nom du roi d\'Angleterre, du continent déjà reconnu par le Portugais Manuel Godenbho et par les Hollandais Verschoor, Hartog, Carpenter et Tasman -- sa partie orientale s\'était largement colonisée, développée, civilisée. Ce fut en 1787 que, Pitt étant ministre, le commodore Philipp vint fonder la station pénitentiaire de Botany-Bay, d\'où, en moins d\'un siècle, allait sortir une nation de près de trois millions d\'hommes. Actuellement, rien de ce qui fait la grandeur et la richesse d\'un pays, routes, canaux, chemins de fer, reliant les innombrables localités du Queensland, de la Nouvelle-Galles du Sud, de Victoria et de l\'Australie méridionale, lignes de paquebots desservant les ports de leur littoral, rien ne manque à cette partie du continent. Or, puisque Mrs. Branican se trouvait à Sydney, cette capitale opulente et peuplée lui aurait offert les ressources indispensables à l\'organisation d\'une caravane, d\'autant mieux qu\'avant de quitter San-Diégo, elle s\'était fait ouvrir par l\'intermédiaire de M. William Andrew un crédit important sur la *Central* *Australian* *Bank*. Donc, elle pouvait aisément se procurer les hommes, les véhicules, les animaux de selle, de trait et de bât que nécessitait une expédition en Australie, peut-être même une traversée complète de l\'est à l\'ouest, soit un trajet de près de deux mille deux cents milles[[\[8\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn8035){#_ftnref8035 .pcalibre2 .pcalibre1}. Mais la ville de Sydney devait-elle être choisie pour point de départ ?
+
+Tout considéré, et sur l\'avis même du consul américain, qui était très au courant de l\'état présent de la géographie australienne, Adélaïde, capitale de l\'Australie méridionale, parut plus particulièrement indiquée comme base d\'opérations. En suivant la ligne télégraphique, dont les fils vont de cette cité jusqu\'au golfe de Van Diémen, c\'est-à-dire du sud au nord, à peu près sur la courbe du cent trente-neuvième méridien, les ingénieurs ont établi la première partie d\'un railway, qui dépassait le parallèle atteint par Harry Felton. Ce railway permettrait au personnel d\'aboutir plus profondément et plus rapidement à ces régions de la Terre Alexandra et de l\'Australie occidentale que peu de voyageurs avaient visitées jusqu\'à ce jour.
+
+Ainsi, première résolution prise, cette troisième expédition, ayant pour but la recherche du capitaine John, serait organisée à Adélaïde et se transporterait à l\'extrémité du railway, qui décrit en montant au nord un parcours de quatre cents milles environ, soit sept cents kilomètres.
+
+Et maintenant, par quelle voie Mrs. Branican se rendrait-elle de Sydney à Adélaïde ? S\'il y avait eu une voie ferrée non interrompue entre ces deux capitales, il n\'y aurait pas eu lieu d\'hésiter. Il existe bien un railway, qui traverse le Murray sur la frontière de la province de Victoria, à la station d\'Albury, se continue ensuite par Bénalla et Kilmore jusqu\'à Melbourne, et qui, à partir de cette ville, se dirige vers Adélaïde ; mais il ne franchissait pas la station de Horscham, et, au-delà, les communications mal établies auraient pu causer d\'assez longs retards.
+
+Aussi, Mrs. Branican résolut-elle de gagner Adélaïde par mer. C\'était un trajet de quatre jours, et, en ajoutant quarante-huit heures pour l\'escale que les paquebots font à Melbourne, elle débarquerait dans la capitale de l\'Australie méridionale, après une navigation de six jours le long des côtes. Il est vrai, on était au mois d\'août, et ce mois correspond au mois de février de l\'hémisphère boréal. Mais le temps se tenait au calme, et, les vents soufflant du nord-ouest, le steamer serait couvert par la terre, dès qu\'il aurait dépassé le détroit de Bass. D\'ailleurs, venue de San-Francisco à Sydney, Mrs. Branican n\'en était pas à s\'inquiéter d\'une traversée de Sydney à Adélaïde. Précisément, le paquebot *Brisbane* partait le lendemain, à onze heures du soir. Après avoir fait escale à Melbourne, il arriverait dans le port d\'Adélaïde le 27 août, au matin. Deux cabines y furent retenues, et Mrs. Branican prit les mesures nécessaires pour que le crédit, qui lui avait été ouvert à la banque de Sydney, fût reporté à la banque d\'Adélaïde. Les directeurs se mirent obligeamment à sa disposition, et ce virement ne souffrit pas la moindre difficulté.
+
+En quittant l\'hôpital de la Marine, Mrs. Branican s\'était rendue à l\'hôtel pour y choisir un appartement qu\'elle devait occuper jusqu\'à son départ. Ses pensées se résumaient en une seule : « John est vivant ! » Les yeux obstinément fixés sur la carte du continent australien, le regard perdu au milieu de ces immenses solitudes du centre et du nord-ouest, en proie au délire de son imagination, elle le cherchait... elle le rencontrait... elle le sauvait...
+
+Ce jour-là, à la suite de leur entretien, Zach Fren, comprenant qu\'il valait mieux la laisser seule, était allé par les rues de Sydney qu\'il ne connaissait point. Et tout d\'abord -- ce qui ne peut étonner d\'un marin -- il voulut visiter le *Brisbane*, afin de s\'assurer que Mrs. Branican y serait convenablement installée. Le navire lui parut aménagé au mieux pour les besoins d\'une navigation côtière. Il demanda à voir la cabine réservée à la passagère. Ce fut un jeune novice qui l\'y conduisit, et il fit prendre quelques dispositions en vue de rendre cette cabine plus confortable. Brave Zach Fren ! On eût dit en vérité qu\'il s\'agissait d\'une traversée de long cours !
+
+Au moment où il se disposait à quitter le bord, le jeune novice le retint, et, d\'une voix un peu émue :
+
+« C\'est bien certain, maître, demanda-t-il, que mistress Branican s\'embarquera demain pour Adélaïde ?...
+
+--- Oui, demain, répondit Zach Fren.
+
+--- Sur le *Brisbane* ?...
+
+--- Sans doute.
+
+--- Puisse-t-elle réussir dans son entreprise et retrouver le capitaine John !
+
+--- Nous ferons de notre mieux, tu peux le croire.
+
+--- J\'en suis convaincu, maître.
+
+--- Est-ce que tu es embarqué sur le *Brisbane* ?...
+
+--- Oui, maître.
+
+--- Eh bien, mon garçon, à demain. »
+
+Les dernières heures qu\'il passa à Sydney, Zach Fren les employa à flâner dans Pitt-Street et York-Street, bordées de belles constructions en grès jaune rougeâtre, puis à Victoria-Park, à Hyde-Park, où s\'élève le monument commémoratif du capitaine Cook. Il visita le Jardin Botanique, promenade admirable, située sur le bord de la mer, où s\'entremêlent les diverses essences des pays chauds et tempérés, les chênes et les araucarias, les cactus et les mangoustans, les palmiers et les oliviers. En somme, Sydney mérite la réputation qui lui est faite. C\'est la plus ancienne des capitales australiennes, et si elle est moins régulièrement construite que ses puînées Adélaïde et Melbourne, elle se montre plus riche de beautés imprévues et de sites pittoresques.
+
+Le lendemain soir, Mrs. Branican et Zach Fren avaient pris passage à bord du paquebot. À onze heures, le *Brisbane*, débouquant du port, se lançait à travers la baie de Port-Jackson. Après avoir doublé l\'Inner-South-Head, il mit le cap au sud, en se tenant à quelques milles de la côte.
+
+Pendant la première heure, Dolly demeura sur le pont, assise à l\'arrière, regardant les formes du littoral, qui s\'estompaient confusément au milieu de la brume. C\'était donc là ce continent dans lequel elle allait essayer de s\'introduire comme dans une immense prison, d\'où John n\'avait pu jusque-là s\'échapper. Il y avait quatorze ans qu\'ils étaient séparés l\'un de l\'autre !
+
+« Quatorze ans ! » murmura-t-elle.
+
+Lorsque le *Brisbane* passa devant Botany-Bay et Jorris-Bay, Mrs. Branican alla prendre un peu de repos. Mais, le lendemain, dès l\'aube, elle était debout à l\'heure où le mont Dromedary, et, un peu en arrière, le mont Kosciusko, qui appartient au système des Alpes australiennes, se dessinaient à l\'horizon.
+
+Zach Fren avait rejoint Dolly sur le spardeck du steamer, et tous deux s\'entretinrent de ce qui faisait leur unique préoccupation.
+
+En ce moment, un jeune novice, hésitant et ému, s\'approcha de Mrs. Branican, et vint lui demander, de la part du capitaine, si elle n\'avait besoin de rien.
+
+« Non, mon enfant, répondit Dolly.
+
+--- Eh ! C\'est le garçon qui m\'a reçu hier, quand je suis venu visiter le *Brisbane*, dit Zach Fren.
+
+--- Oui, maître, c\'est moi.
+
+--- Et comment t\'appelles-tu ?...
+
+--- Je m\'appelle Godfrey.
+
+--- Eh bien, Godfrey, te voilà certain, à présent, que mistress Branican est embarquée sur ton paquebot... et tu es satisfait, j\'imagine ?
+
+--- Oui, maître, et nous le sommes tous à bord. Oui ! Nous faisons tous des voeux pour que les recherches de mistress Branican réussissent, pour qu\'elle délivre le capitaine John ! »
+
+En lui parlant, Godfrey la regardait avec tant de respect et d\'exaltation, que Dolly fut remuée dans tout son être. Et, alors, la voix du jeune novice la frappa... Cette voix, elle l\'avait déjà entendue, et le souvenir lui revint.
+
+« Mon enfant, dit-elle, est-ce que ce n\'est pas vous qui m\'avez interrogée à la porte de l\'hospice de Sydney ?...
+
+--- C\'est moi.
+
+--- Vous qui m\'avez demandé si le capitaine John était toujours vivant ?...
+
+--- Moi-même, mistress.
+
+--- Vous faites donc partie de l\'équipage ?
+
+--- Oui... depuis un an, répondit Godfrey. Mais, s\'il plaît à Dieu, je l\'aurai bientôt quitté. »
+
+Et, sans doute, n\'en voulant ou n\'en osant pas dire davantage, Godfrey se retira, afin d\'aller donner au commandant des nouvelles de Mrs. Branican.
+
+« Voilà un garçon qui m\'a l\'air d\'avoir du sang de marin dans les veines, fit observer Zach Fren. Ça se devine rien qu\'à le voir... Il a le regard franc, clair, décidé... Sa voix est en même temps ferme et douce...
+
+--- Sa voix ! » murmura Dolly.
+
+Par quelle illusion de ses sens lui semblait-il qu\'elle venait d\'entendre parler John, à cela près des adoucissements d\'un organe à peine formé par l\'âge. Et une autre remarque qu\'elle fit également -- remarque plus significative encore. Certainement, elle s\'illusionnait, mais les traits de ce jeune garçon lui avaient rappelé les traits de John... de John, qui n\'avait pas trente ans, lorsque le *Franklin* l\'avait emporté loin d\'elle et pour si longtemps !
+
+« Vous le voyez, mistress Branican, dit Zach Fren, en frottant ses bonnes grosses mains, Anglais ou Américains, tout le monde vous est sympathique... En Australie, vous trouverez les mêmes dévouements qu\'en Amérique... Il en sera d\'Adélaïde comme de San-Diégo... Tous font les mêmes voeux que ce jeune Anglais...
+
+--- Est-ce un Anglais ? » se demandait Mrs. Branican, profondément impressionnée.
+
+La navigation fut très heureuse pendant cette première journée. La mer était d\'un calme absolu par ces vents de nord-ouest, qui venaient de terre. Le *Brisbane* la trouverait non moins tranquille, lorsqu\'il aurait doublé le cap Howe, à l\'angle du continent australien, pour aller chercher le détroit de Bass.
+
+Pendant cette journée, Dolly ne quitta presque pas le spardeck. Les passagers lui montraient une extrême déférence, et aussi un vif empressement à lui tenir compagnie. Ils étaient désireux de voir cette femme, dont les malheurs avaient eu un tel retentissement, et qui n\'hésitait pas à braver tant de périls, à affronter tant de fatigues, dans l\'espoir de sauver son mari, si la Providence voulait qu\'il survécût. Devant elle, d\'ailleurs, personne n\'eût mis cette éventualité en doute. Comment n\'aurait-on pas partagé sa confiance, lorsqu\'on l\'entendait s\'inspirer de résolutions si viriles, lorsqu\'elle disait tout ce qu\'elle allait entreprendre ? Inconsciemment, on s\'aventurait à sa suite, au milieu des territoires de l\'Australie centrale. Et, de fait, plus d\'un eût accepté de l\'y accompagner, autrement que par la pensée.
+
+Mais, en leur répondant, il arrivait que Dolly s\'interrompait parfois. Son regard prenait alors une expression singulière, une flamme s\'y allumait, et Zach Fren était seul à comprendre ce qui occupait son esprit.
+
+C\'est qu\'elle venait d\'apercevoir Godfrey. La démarche du jeune novice, son attitude, ses gestes, l\'insistance avec laquelle il la suivait des yeux, cette sorte d\'instinct qui semblait l\'attirer vers elle, tout cela la saisissait, l\'émotionnait, la remuait à ce point que John et lui se confondaient dans sa pensée.
+
+Dolly n\'avait pu cacher à Zach Fren qu\'elle trouvait une ressemblance frappante entre John et Godfrey. Aussi Zach Fren ne la voyait-il pas sans inquiétude s\'abandonner à cette impression due à une circonstance purement fortuite. Il redoutait, non sans raison, que ce rapprochement lui rappelât trop vivement le souvenir de l\'enfant qu\'elle avait perdu. C\'était vraiment inquiétant que Mrs. Branican fût surexcitée à ce point par la présence de ce jeune garçon.
+
+Cependant Godfrey n\'était pas retourné près d\'elle, son service ne l\'appelant point à l\'arrière du paquebot, exclusivement réservé aux passagers de première classe. Mais, de loin, leurs regards s\'étaient souvent croisés, et Dolly avait été sur le point de l\'appeler... Oui ! Sur un signe, Godfrey se fût empressé d\'accourir... Dolly n\'avait pas fait ce signe, et Godfrey n\'était pas venu.
+
+Ce soir-là, au moment où Zach Fren reconduisait Mrs. Branican à sa cabine, elle lui dit :
+
+« Zach, il faudra savoir quel est ce jeune novice... à quelle famille il appartient... le lieu de sa naissance... Peut-être n\'est-il pas d\'origine anglaise...
+
+--- C\'est possible, mistress, répondit Zach Fren. Il peut se faire qu\'il soit Américain. Au surplus, si vous le voulez, je vais le demander au capitaine du *Brisbane*...
+
+--- Non, Zach, non, j\'interrogerai Godfrey même. »
+
+Et le maître entendit Mrs. Branican faire cette réflexion, à mi-voix : « Mon enfant, mon pauvre petit Wat aurait à peu près cet âge... à présent !
+
+--- Voilà ce que je craignais ! » se dit Zach Fren, en regagnant sa cabine.
+
+Le lendemain, 22 août, le *Brisbane*, qui avait doublé le cap Howe pendant la nuit, continua de naviguer dans des conditions excellentes. La côte du Gippland, l\'une des principales provinces de la colonie de Victoria, après s\'être courbée vers le sud-est, se relie au promontoire Wilson, la pointe la plus avancée que le continent projette vers le sud. Ce littoral est moins riche en baies, ports, inlets, caps, géographiquement dénommés, que la partie qui se dessine en ligne droite depuis Sydney jusqu\'au cap Howe. Ce sont des plaines à perte de vue, dont les dernières limites, encadrées de montagnes, sont trop éloignées pour être aperçues de la mer.
+
+Mrs. Branican, ayant quitté sa cabine dès la première aube du jour, avait repris sa place à l\'arrière du spardeck. Zach Fren la rejoignit bientôt et observa un très manifeste changement de son attitude. La terre, qui se déroulait vers le nord-ouest, n\'attirait plus ses regards. Absorbée dans ses pensées, elle répondit à peine à Zach Fren, lorsque celui-ci lui demanda comment elle avait passé la nuit.
+
+Le maître n\'insista point. L\'essentiel, c\'était que Dolly eût oublié cette singulière ressemblance de Godfrey et du capitaine John, qu\'elle ne songeât plus à le revoir, à l\'interroger. Il était possible qu\'elle y eût renoncé, que ses idées eussent pris un autre cours, et, en effet, elle ne pria pas Zach Fren de lui amener le jeune garçon que son service retenait à l\'avant du steamer.
+
+Après le déjeuner, Mrs. Branican rentra dans sa cabine, et elle ne reparut sur le pont qu\'entre trois et quatre heures de l\'après-midi.
+
+En ce moment, le *Brisbane* filait à toute vapeur vers le détroit de Bass, qui sépare l\'Australie de la Tasmanie ou Terre de Van Diémen.
+
+Que la découverte du Hollandais Janssen Tasman ait été profitable aux Anglais, que cette île, dépendance naturelle du continent, ait gagné à la domination de la race anglo-saxonne, rien de moins contestable. Depuis 1642, date de la découverte de cette île, longue de deux cent quatre-vingts kilomètres, où le sol est d\'une extrême fertilité, dont les forêts sont enrichies d\'essences superbes, il est certain que la colonisation a marché à grands pas. À partir du commencement de ce siècle, les Anglais ont administré comme ils administrent, opiniâtrement, sans prendre nul souci des races indigènes ; ils ont divisé l\'île en districts, ils ont fondé des villes importantes, la capitale Hobbart-Town, Georges-Town et nombre d\'autres ; ils ont utilisé les dentelures multiples de la côte pour créer des ports, où leurs navires accostent par centaines. Tout cela est bien. Mais, de la population noire, qui occupait à l\'origine cette contrée, que reste-t-il ? Sans doute, ces pauvres gens n\'étaient rien moins que civilisés ; on voyait même en eux les plus abrupts échantillons de la race humaine ; on les mettait au-dessous des nègres d\'Afrique, au-dessous des Fueggiens de la Terre de Feu. Si l\'anéantissement d\'une race est le dernier mot du progrès colonial, les Anglais peuvent se vanter d\'avoir mené leur oeuvre à bon terme. Mais, à la prochaine Exposition universelle d\'Hobbart-Town, qu\'ils se hâtent s\'ils veulent exhiber quelques Tasmaniens... Il n\'en restera plus un seul à la fin du XIX siècle !
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- Godfrey]{.pcalibre lang="X-NONE"}]{#_Toc342942245 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-2-godfrey .calibre171 .sigil_not_in_toc}
+
+Le *Brisbane* traversa le détroit de Bass pendant la soirée. Sous cette latitude de l\'hémisphère austral, le jour ne se prolonge guère au-delà de cinq heures pendant le mois d\'août. La lune, qui entrait dans son premier quartier, disparut promptement entre les brumes de l\'horizon. L\'obscurité profonde empêchait de voir les dispositions littorales du continent.
+
+La navigation du détroit fut ressentie à bord par les coups de tangage qu\'éprouva le paquebot sous l\'influence d\'un clapotis très houleux. Les courants et contre-courants luttent avec impétuosité dans cette étroite passe, ouverte aux eaux du Pacifique.
+
+Le lendemain, 23 août, dès l\'aube, le *Brisbane* se présenta à l\'entrée de la baie de Port-Phillip. Une fois au milieu de cette baie, les navires n\'ont plus rien à redouter des mauvais temps ; mais, pour y pénétrer, il est nécessaire de manoeuvrer avec prudence et précision, surtout lorsqu\'il s\'agit de doubler la longue pointe sablonneuse de Nepean d\'un côté et celle de Queenscliff de l\'autre. La baie, suffisamment fermée, se découpe en plusieurs ports, où les bâtiments de fort tonnage trouvent des mouillages excellents, Goelong, Sandrige, Williamstown -- ces deux derniers formant le port de Melbourne. L\'aspect de cette côte est triste, monotone, sans attrait. Peu de verdure sur les rives, l\'aspect d\'un marécage presque desséché, qui, au lieu de lagons ou d\'étangs, ne montre que des entailles aux vases durcies et fendillées. À l\'avenir de modifier la surface de ces plaines, en remplaçant les squelettes d\'arbres qui grimacent çà et là par des futaies, dont le climat australien fera rapidement des forêts superbes.
+
+Le *Brisbane* vint se ranger à l\'un des quais de Williamstown, afin d\'y débarquer une partie des passagers.
+
+Comme on devait faire escale pendant trente-six heures, Mrs. Branican résolut de passer ce temps à Melbourne. Non qu\'elle eût affaire en cette ville, puisque ce n\'était qu\'à Adélaïde qu\'elle s\'occuperait des préparatifs d\'une expédition devant atteindre probablement les extrêmes limites de l\'Ouest-Australie. Dès lors, pourquoi en vint-elle à quitter le *Brisbane* ? Craignait-elle d\'être l\'objet de trop nombreuses et trop fréquentes visites ? Mais, pour y échapper, ne lui suffisait-il pas de se confiner dans sa cabine ? D\'ailleurs, à descendre dans l\'un des hôtels de la ville, où sa présence serait bientôt connue, ne s\'exposait-elle pas à de plus pressantes entrevues, à de plus inévitables importunités ?
+
+Zach Fren ne savait comment expliquer la résolution de Mrs. Branican. Il le remarquait, son attitude différait de celle qu\'elle avait à Sydney. De très accueillante qu\'elle se montrait alors, elle était devenue peu communicative. Était-ce, comme l\'avait observé le maître, que la présence de Godfrey avait trop vivement rappelé en elle le souvenir de son enfant ? Oui, et Zach Fren ne se trompait pas. La vue du jeune novice l\'avait troublée si profondément qu\'elle sentait le besoin de s\'isoler. N\'entrait-il plus dans sa pensée de l\'interroger ? Peut-être, puisqu\'elle ne l\'avait pas fait la veille, bien qu\'elle en eût exprimé le désir. Mais en ce moment, si elle voulait débarquer à Melbourne, y rester les vingt-quatre heures de la relâche, dût-elle encourir les inconvénients d\'une notoriété pour son malheur trop réelle, c\'était dans l\'idée de fuir -- il n\'y a pas d\'autre mot -- oui, de fuir ce garçon de quatorze ans, vers lequel l\'attirait une force instinctive. Pourquoi donc hésitait-elle à lui parler, à s\'enquérir près de lui de tout ce qui l\'intéressait, sa nationalité, son origine, sa famille ? Craignait-elle que ses réponses -- et cela était très vraisemblable -- eussent pour résultat de détruire sans retour d\'imprudentes illusions, un espoir chimérique, auquel son imagination s\'abandonnait et que son agitation avait révélé à Zach Fren ?
+
+Mrs. Branican, accompagnée du maître, débarqua dès la première heure. Aussitôt qu\'elle eut mis le pied sur l\'appontement, elle se retourna.
+
+Godfrey était appuyé sur la lisse, à l\'avant du *Brisbane*. En la voyant s\'éloigner, son visage devint si triste, il eut un geste si expressif, il semblait vouloir d\'une telle force la retenir à bord, que Dolly fut sur le point de lui dire : « Mon enfant... je reviendrai ! »Elle se maîtrisa, pourtant, fit signe à Zach Fren de la suivre, et se rendit à la gare du railway, qui met le port en communication avec la ville.
+
+Melbourne, en effet, est située en arrière du littoral, sur la rive gauche de la rivière Yarra-Yarra, à une distance de deux kilomètres -- distance que les trains franchissent en quelques minutes. Là s\'élève cette cité avec sa population de trois cent mille habitants, capitale de la magnifique colonie de Victoria, qui en compte près d\'un million, et sur laquelle, depuis 1851, on est fondé à dire que le mont Alexandre a versé tout l\'or de ses gisements.
+
+Mrs. Branican, bien qu\'elle fût descendue dans un des hôtels les moins fréquentés de la ville, n\'aurait pu échapper à la curiosité -- d\'ailleurs très sympathique -- qu\'excitait en tous lieux sa présence. Aussi, en compagnie de Zach Fren, préféra-t-elle parcourir les rues de la ville, dont son regard, si étrangement préoccupé, ne devait à peu près rien voir.
+
+Une Américaine, en somme, n\'eût éprouvé aucune surprise ni goûté aucun plaisir à visiter une ville des plus modernes. Quoique fondée douze ans après San-Francisco de Californie, Melbourne lui ressemble « en moins bien », comme on dit : des rues larges, se coupant à angle droit, des squares auxquels manquent les gazons et les arbres, des banques par centaines, des offices où se brassent d\'énormes affaires, un quartier qui concentre le commerce de détail, des édifices publics, églises, temples, université, musée, muséum, bibliothèque, hôpital, hôtel de ville, écoles qui sont des palais, palais dont quelques-uns seraient insuffisants pour des écoles, un monument élevé aux deux explorateurs Burke et Wills, qui succombèrent en essayant de traverser le continent australien du sud au nord ; puis, le long de ces rues et de ces boulevards, des passants assez rares en dehors du quartier des affaires ; un certain nombre d\'étrangers, surtout des Juifs de race allemande, qui vendent de l\'argent comme d\'autres vendent du bétail ou de la laine, et à un bon prix -- afin de réjouir le coeur d\'Israël.
+
+Mais, cette Melbourne du négoce, les commerçants ne l\'habitent que le moins possible. C\'est dans les faubourgs, c\'est aux environs de la ville que se sont multipliés les villas, les cottages, même des habitations princières, à Saint-Kilda, à Hoam, à Emerald-Hill, à Brighton -- ce qui, au dire de M. D. Charnay, l\'un des plus intéressants voyageurs qui aient visité ce pays, donne l\'avantage à Melbourne sur San-Francisco. Et déjà les arbres d\'essences si variées ont grandi, les parcs somptueux sont couverts d\'ombrages, les eaux vives assurent pendant de longs mois une bienfaisante fraîcheur. Aussi est-il peu de villes, qui soient placées au milieu d\'un plus admirable cadre de verdure.
+
+Mrs. Branican ne prêta qu\'une distraite attention à ces magnificences, même lorsque Zach Fren l\'eut conduite en dehors de la ville, en pleine campagne. Rien n\'indiquait que telle habitation merveilleusement disposée, tel site grandiose avec ses lointaines perspectives, eût frappé son regard. Il semblait toujours que, sous l\'obsession d\'une idée fixe, elle fût sur le point de faire à Zach Fren une demande qu\'elle n\'osait formuler.
+
+Tous deux revinrent vers l\'hôtel, à la nuit tombante. Dolly se fit servir dans son appartement un dîner auquel elle toucha à peine. Puis elle se coucha et ne dormit que d\'un demi-sommeil, hanté par les images de son mari et de son enfant.
+
+Le lendemain, Mrs. Branican resta dans sa chambre jusqu\'à deux heures. Elle écrivit une longue lettre à M. William Andrew, afin de lui faire connaître son départ de Sydney et sa prochaine arrivée dans la capitale de l\'Australie méridionale. Elle lui renouvelait ses espérances en ce qui concernait l\'issue de l\'expédition. Et, en recevant cette lettre, à sa grande surprise, à son extrême inquiétude aussi, M. William Andrew ne dut pas manquer d\'observer que si Dolly parlait de John comme étant certaine de le retrouver vivant, elle parlait de son enfant, du petit Wat, comme s\'il n\'était pas mort. L\'excellent homme en fut à se demander s\'il n\'y avait pas lieu de craindre de nouveau pour la raison de cette femme si éprouvée.
+
+Les passagers que le *Brisbane* prenait à destination d\'Adélaïde étaient presque tous embarqués, lorsque Mrs. Branican, accompagnée de Zach Fren, revint à bord. Godfrey guettait son retour, et, du plus loin qu\'il l\'aperçut, son visage s\'éclaira d\'un sourire. Il se précipita vers l\'appontement, et il était là, quand elle mit le pied sur la passerelle.
+
+Zach Fren fut on ne peut plus contrarié, et ses gros sourcils se froncèrent. Que n\'aurait-il donné pour que le jeune novice eût quitté le paquebot, ou tout au moins pour qu\'il ne se rencontrât pas sur le chemin de Dolly, puisque sa présence ravivait les plus douloureux souvenirs !
+
+Mrs. Branican aperçut Godfrey. Elle s\'arrêta un instant, le pénétrant de son regard ; mais elle ne lui parla pas, et, baissant la tête, elle vint s\'enfermer dans sa cabine.
+
+À trois heures de l\'après-midi, le *Brisbane*, larguant ses amarres, se dirigea vers le goulet, et, tournant la pointe de Queenscliff, prit direction sur Adélaïde, en élongeant à moins de trois milles la côte de Victoria.
+
+Les passagers, embarqués à Melbourne, étaient au nombre d\'une centaine -- pour la plupart, des habitants de l\'Australie méridionale, qui retournaient dans leurs districts. Il y avait quelques étrangers parmi eux -- entre autres un chinois, âgé de trente à trente-cinq ans, l\'air endormi d\'une taupe, jaune comme un citron, rond comme une potiche, gras comme un mandarin à trois boutons. Ce n\'était pas un mandarin, pourtant. Non ! Un simple domestique, au service d\'un personnage, dont le physique mérite d\'être dessiné avec une certaine précision.
+
+Qu\'on se figure un fils d\'Albion aussi « britannique » que possible, grand, maigre, osseux, une vraie pièce d\'ostéologie, tout en cou, tout en buste, tout en jambes. Ce type d\'Anglo-Saxon, âgé de quarante-cinq à cinquante ans, s\'élevait d\'environ six pieds (anglais) au-dessus du niveau de la mer. Une barbe blonde qu\'il portait entière, une chevelure blonde de même, où s\'entremêlaient quelques cheveux d\'un jaune d\'or, de petits yeux fureteurs, un nez pincé aux narines, busqué en bec de pélican ou de héron et d\'une longueur peu commune, un crâne sur lequel le moins observateur des phrénologues eût aisément découvert les bosses de la monomanie et de la ténacité -- cet ensemble formait une de ces têtes qui attirent le regard et provoquent le sourire, lorsqu\'elles sont crayonnées par un spirituel dessinateur.
+
+Cet Anglais était correctement vêtu du costume traditionnel : la casquette à double visière, le gilet boutonné jusqu\'au menton, le veston à vingt poches, le pantalon en drap quadrillé, les hautes guêtres à boutons de nickel, les souliers à clous, et le cache-poussière blanchâtre que la brise plissait autour de son corps en révélant sa maigreur de squelette.
+
+Quel était cet original ? On l\'ignorait, et, sur les paquebots australiens, nul ne s\'autorise des familiarités du voyage pour s\'occuper des voyageurs, savoir où ils vont, ni d\'où ils viennent. Ce sont des passagers, et comme tels, ils passent. Rien de plus. Tout ce que le steward du bord eût pu dire, c\'est que cet Anglais avait retenu sa cabine sous le nom de Joshua Meritt -- abréviativement Jos Meritt -- de Liverpool (Royaume-Uni), accompagné de son domestique, Gîn-Ghi, de Hong-Kong (Céleste-Empire).
+
+Du reste, une fois embarqué, Jos Meritt alla s\'asseoir sur un des bancs du spardeck, et ne le quitta qu\'à l\'heure du lunch, lorsque tinta la cloche de quatre heures. Il y revint à quatre et demi, l\'abandonna à sept pour le dîner, y reparut à huit, gardant invariablement l\'attitude d\'un mannequin, les deux mains ouvertes sur ses genoux, ne tournant jamais la tête ni à droite ni à gauche, les yeux dirigés vers la côte qui se perdait dans les brumes du soir. Puis, à dix heures, il regagna sa cabine d\'un pas géométrique que les soubresauts du roulis ne parvenaient pas à ébranler.
+
+Pendant une partie de la nuit, Mrs. Branican, qui était remontée sur le pont un peu avant neuf heures, se promena à l\'arrière du *Brisbane*, bien que la température fût assez froide. L\'esprit obsédé, visionné même, pour employer une expression plus exacte, elle n\'aurait pu dormir. À l\'étroit dans sa cabine, elle avait besoin de respirer cet air vif, imprégné parfois des pénétrantes senteurs de « l\'acacia flagrans », qui dénoncent la terre australienne à cinquante milles en mer. Songeait-elle à rencontrer le jeune novice, à lui parler, à l\'interroger, à savoir de lui... Savoir quoi ?... Godfrey, ayant fini son quart à dix heures, ne devait le reprendre qu\'à deux heures du matin, et, à ce moment, Dolly, très fatiguée d\'un douloureux ébranlement moral, avait dû regagner sa chambre.
+
+Vers le milieu de la nuit, le *Brisbane* doubla le cap Otway à l\'extrémité du district de Polwarth. À partir de ce point, il allait remonter franchement dans le nord-ouest jusqu\'à la hauteur de la baie *Discovery*, où vient s\'appuyer la ligne conventionnelle, tracée sur le cent quarante et unième méridien -- ligne qui sépare les provinces de Victoria et de la Nouvelle-Galles du sud des territoires de l\'Australie méridionale.
+
+Dès le matin, on revit Jos Meritt sur le banc du spardeck, à sa place habituelle, dans la même attitude, et comme s\'il ne l\'eût pas quittée depuis la veille. Quant au Chinois Gîn-Ghi, il dormait à poings fermés en quelque coin.
+
+Zach Fren devait être accoutumé aux manies de ses compatriotes, car les originaux ne manquent point dans la collection des quarante-deux états fédératifs, actuellement compris sous la rubrique U. S. A.[[\[9\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn9035){#_ftnref9035 .pcalibre2 .pcalibre1}. Cependant, il ne put regarder sans un certain ébahissement ce type si réussi de mécanique humaine.
+
+Et quelle fut sa surprise, lorsque, s\'étant approché de ce long et immobile gentleman, il s\'entendit interpeller en ces termes d\'une voix un peu grêle :
+
+« Maître Zach Fren, je crois ?...
+
+--- En personne, répondit Zach Fren.
+
+--- Le compagnon de mistress Branican ?....
+
+--- Comme vous dites. Je vois que vous savez.
+
+--- Je sais... à la recherche de son mari... absent depuis quatorze ans... Bien !... Oh !... Très bien !
+
+--- Comment... très bien ?...
+
+--- Oui !... Mistress Branican... Très bien !... Moi aussi... je suis à la recherche...
+
+--- De votre femme ?...
+
+--- Oh !... pas marié !... Très bien !... Si j\'avais perdu ma femme, je ne la chercherais pas.
+
+--- Alors, c\'est pour ?...
+
+--- Pour retrouver... un chapeau.
+
+--- Votre chapeau ?... Vous avez égaré votre chapeau ?...
+
+--- Mon chapeau ?... Non !... C\'est le chapeau... je m\'entends... Vous présenterez mes hommages à mistress Branican... Bien !... Oh !... Très bien !...
+
+Les lèvres de Jos Meritt se refermèrent et ne laissèrent plus échapper une seule syllabe.
+
+« C\'est une espèce de fou », se dit Zach Fren.
+
+Et il lui sembla que ce serait de la puérilité que de s\'occuper plus longtemps de ce gentleman.
+
+Lorsque Dolly reparut sur le pont, le maître vint la rejoindre, et tous deux allèrent s\'asseoir à peu près en face de l\'Anglais. Celui-ci ne bougea pas plus que le dieu Terme. Ayant chargé Zach Fren de présenter ses hommages à Mrs. Branican, il pensait sans doute qu\'il n\'avait point à le faire en personne.
+
+Du reste, Dolly ne remarqua pas la présence de ce bizarre passager. Elle eut un long entretien avec son compagnon, touchant les préparatifs du voyage, qui seraient commencés dès leur arrivée à Adélaïde. Pas un jour, pas une heure à perdre. Il importait que l\'expédition eût atteint et dépassé, si c\'était possible, les territoires du pays central, avant qu\'ils fussent desséchés sous les intolérables chaleurs de la zone torride. Entre les dangers de diverses sortes, inhérents à une recherche entreprise dans ces conditions, les plus terribles seraient probablement causés par les rigueurs du climat, et toutes précautions seraient prises pour s\'en garantir. Dolly parla du capitaine John, de son tempérament robuste, de son indomptable énergie, qui lui avaient permis -- elle n\'en doutait pas -- de résister là où d\'autres, moins vigoureux, moins fortement trempés, auraient succombé. Entre temps, elle n\'avait fait aucune allusion à Godfrey, et Zach Fren pouvait espérer que sa pensée s\'était détournée de ce garçon, lorsqu\'elle dit :
+
+« Je n\'ai pas encore vu aujourd\'hui le jeune novice... Ne l\'avez-vous point aperçu, Zach ?
+
+--- Non, mistress, répondit le maître, que cette question parut contrarier.
+
+--- Peut-être pourrais-je faire quelque chose pour cet enfant ? » reprit Dolly.
+
+Et elle affectait de n\'en parler qu\'avec une sorte d\'indifférence, à laquelle Zach Fren ne se méprit point.
+
+« Ce garçon ?... répondit-il. Oh ! Il a un bon métier, mistress... Il arrivera... Je le vois déjà quartier-maître d\'ici à quelques années... Avec du zèle et de la conduite...
+
+--- N\'importe, reprit Dolly, il m\'intéresse... Il m\'intéresse à un point... Mais aussi, Zach, cette ressemblance, oui !... cette ressemblance extraordinaire entre mon pauvre John et lui... Et puis, Wat... mon enfant... aurait son âge ! »
+
+Et en disant cela, Dolly devenait pâle ; sa voix s\'altérait ; son regard, qui se fixait sur Zach Fren, était si interrogateur que le maître avait baissé les yeux.
+
+Puis elle ajouta :
+
+« Vous me le présenterez dans l\'après-midi, Zach... Ne l\'oubliez pas... Je veux lui parler... Cette traversée sera finie demain... Nous ne nous reverrons jamais... et, avant de quitter le *Brisbane*... je désire savoir... Oui ! Savoir... »
+
+Zach Fren dut promettre à Dolly de lui amener Godfrey, et elle se retira.
+
+Le maître, très soucieux, très alarmé même, continua de se promener sur le spardeck jusqu\'au moment où le steward sonna le second déjeuner. Il faillit alors se heurter contre l\'Anglais, qui semblait rythmer ses pas sur les battements de la cloche, en se dirigeant vers l\'escalier du capot.
+
+« Bien !... Oh !... Très bien ! fit Jos Meritt. Vous avez, sur ma demande... offert mes compliments... Son mari disparu... Bien !... Oh !... Très bien ! »
+
+Et il s\'en alla, afin de gagner la place qu\'il avait choisie à la table du « dining-room » -- la meilleure, cela s\'entend, et voisine de l\'office, ce qui lui permettait de se servir le premier et de prendre les morceaux de choix.
+
+À trois heures, le *Brisbane* naviguait à l\'ouvert de Portland, le principal port du district de Normanby, où vient aboutir le railway de Melbourne ; puis, le cap Nelson ayant été doublé, il passait au large de la baie *Discovery* et remontait presque directement vers le nord, en élongeant d\'assez près la côte de l\'Australie méridionale.
+
+Ce fut à cet instant que Zach Fren vint prévenir Godfrey que Mrs. Branican désirait lui parler.
+
+« Me parler ? » s\'écria le jeune novice.
+
+Et son coeur battit si fort qu\'il n\'eut que le temps de se retenir à la lisse pour ne point tomber.
+
+Godfrey, conduit par le maître, se rendit à la cabine, où l\'attendait Mrs. Branican.
+
+Dolly le regarda quelque temps. Il se tenait debout, devant elle, son béret à la main. Elle était assise sur un canapé. Zach Fren, accoté près de la porte, les observait tous les deux avec anxiété. Il savait bien ce que Dolly allait demander à Godfrey, mais il ignorait ce que le jeune novice lui répondrait.
+
+« Mon enfant, dit Mrs. Branican, je voudrais avoir des renseignements sur vous... sur la famille à laquelle vous appartenez... Si je vous interroge, c\'est que je m\'intéresse... à votre situation... Voudrez-vous satisfaire à mes questions ?....
+
+--- Très volontiers, mistress, répondit Godfrey d\'une voix que l\'émotion faisait trembler.
+
+--- Quel âge avez-vous ?... demanda Dolly.
+
+--- Je ne sais pas au juste, mistress, mais je dois avoir de quatorze à quinze ans.
+
+--- Oui... de quatorze à quinze ans !... Et depuis quelle époque avez-vous pris la mer ?....
+
+--- Je me suis embarqué, lorsque j\'avais huit ans environ, en qualité de mousse, et voilà deux années que je sers comme novice.
+
+--- Avez-vous fait de grandes navigations ?...
+
+--- Oui, mistress, sur l\'océan Pacifique jusqu\'en Asie... et sur l\'Atlantique jusqu\'en Europe.
+
+--- Vous n\'êtes pas Anglais ?...
+
+--- Non, mistress, je suis Américain..
+
+--- Et, cependant, vous servez sur un paquebot de nationalité anglaise ?...
+
+--- Le navire sur lequel j\'étais a été dernièrement vendu à Sydney. Alors, me trouvant sans embarquement, je suis passé sur le *Brisbane*, en attendant l\'occasion de reprendre du service à bord d\'un navire américain.
+
+--- Bien, mon enfant », répondit Dolly, qui fit signe à Godfrey de se rapprocher d\'elle. Godfrey obéit.
+
+« Maintenant, demanda-t-elle, je désirerais savoir où vous êtes né ?...
+
+--- À San-Diégo, mistress.
+
+--- Oui !... à San-Diégo ! » répéta Dolly, sans paraître surprise et comme si elle eût pressenti cette réponse.
+
+Quant à Zach Fren, il fut très impressionné de ce qu\'il venait d\'entendre.
+
+« Oui, mistress, à San-Diégo, reprit Godfrey. Oh ! Je vous connais bien !... Oui ! Je vous connais !... Quand j\'ai appris que vous veniez à Sydney, cela m\'a fait un plaisir... Si vous saviez, mistress, combien je m\'intéresse à tout ce qui concerne le capitaine John Branican ! »
+
+Dolly prit la main du jeune novice, et la tint quelques instants sans prononcer une parole. Puis, d\'une voix qui décelait l\'égarement de son imagination :
+
+« Votre nom ?... demanda-t-elle.
+
+--- Godfrey.
+
+--- Godfrey est votre nom de baptême... Mais quel est votre nom de famille ?...
+
+--- Je n\'ai pas d\'autre nom, mistress.
+
+--- Vos parents ?...
+
+--- Je n\'ai pas de parents.
+
+--- Pas de parents ! répondit Mrs. Branican. Avez-vous donc été élevé...
+
+--- À Wat-House, répondit Godfrey, oui ! Mistress, et par vos soins. Oh ! Je vous ai aperçue bien souvent, lorsque vous veniez visiter vos enfants de l\'hospice !... Vous ne me voyiez pas entre tous les petits, mais je vous voyais, moi... et j\'aurais voulu vous embrasser !... Puis, comme j\'avais du goût pour la navigation, lorsque j\'ai eu l\'âge, je suis parti mousse... Et d\'autres aussi, des orphelins de Wat-House, s\'en sont allés sur des navires... et nous n\'oublierons jamais ce que nous devons à mistress Branican... à notre mère !...
+
+--- Votre mère ! » s\'écria Dolly, qui tressaillit, comme si ce nom eût retenti jusqu\'au fond de ses entrailles.
+
+Elle avait attiré Godfrey... Elle le couvrait de baisers... Il les lui rendait... Il pleurait... C\'était entre elle et lui un abandon familier dont ni l\'un ni l\'autre ne songeait à s\'étonner, tant il leur semblait naturel.
+
+Et, dans son coin, Zach Fren, effrayé de ce qu\'il comprenait, des sentiments qu\'il voyait s\'enraciner dans l\'âme de Dolly, murmurait :
+
+« La pauvre femme !... La pauvre femme !... Où se laisse-t-elle entraîner ! »
+
+Mrs. Branican s\'était levée, et dit :
+
+« Allez, Godfrey !... Allez, mon enfant !... Je vous reverrai... J\'ai besoin d\'être seule... »
+
+Après l\'avoir regardée une dernière fois, le jeune novice se retira lentement. Zach Fren se préparait à le suivre, lorsque Dolly l\'arrêta d\'un geste.
+
+« Restez, Zach. »
+
+Puis :
+
+« Zach, dit-elle par mots saccadés, qui dénotaient l\'extraordinaire agitation de son esprit, Zach, cet enfant a été élevé avec les enfants trouvés de Wat-House... Il est né à San-Diégo... Il a de quatorze ans à quinze ans... Il ressemble trait pour trait à John... C\'est sa physionomie franche, son attitude résolue... Il a le goût de la mer comme lui... C\'est le fils d\'un marin... C\'est le fils de John... C\'est le mie n !... On croyait que la baie de San-Diégo avait à jamais englouti le pauvre petit être... Mais il n\'était pas mort... et on l\'a sauvé... Ceux qui l\'ont sauvé ne connaissaient pas sa mère... Et sa mère, c\'était moi... moi, alors privée de raison !... Cet enfant, ce n\'est pas Godfrey qu\'il se nomme... c\'est Wat... c\'est mon fils !... Dieu a voulu me le rendre avant de me réunir à son père... »
+
+Zach Fren avait écouté Mrs. Branican sans oser l\'interrompre. Il comprenait que la malheureuse femme ne pouvait parler autrement. Toutes les apparences lui donnaient raison. Elle suivait son idée avec l\'irréfutable logique d\'une mère. Et le brave marin sentait son coeur se briser, car ces illusions, c\'était son devoir de les détruire. Il fallait arrêter Dolly sur cette pente, qui aurait pu la conduire à un nouvel abîme.
+
+Il le fit, sans hésiter -- presque brutalement.
+
+« Mistress Branican, dit-il, vous vous trompez !... Je ne veux pas, je ne dois pas vous laisser croire ce qui n\'est point !... Cette ressemblance, ce n\'est qu\'un hasard... Votre petit Wat est mort... oui ! Mort !... Il a péri dans la catastrophe, et Godfrey n\'est pas votre fils...
+
+--- Wat est mort ?... s\'écria Mrs. Branican. Et qu\'en savez-vous ?... Et qui peut l\'affirmer ?...
+
+--- Moi, mistress.
+
+--- Vous ?...
+
+--- Huit jours après la catastrophe de la baie, le corps d\'un enfant a été rejeté sur la grève, à la pointe Loma... C\'est moi qui l\'ai retrouvé... J\'ai prévenu M. William Andrew... Le petit Wat, reconnu par lui, a été enterré au cimetière de San-Diégo, où nous avons souvent porté des fleurs sur sa tombe...
+
+--- Wat !... mon petit Wat... là-bas... au cimetière !... Et on ne me l\'a jamais dit !
+
+--- Non, mistress, non ! répondit Zach Fren. Vous n\'aviez plus votre raison alors, et, quatre ans après, lorsque vous l\'avez recouvrée, on craignait... M. William Andrew pouvait redouter... en renouvelant vos douleurs... et il s\'est tu !... Mais votre enfant est mort, mistress, et Godfrey ne peut pas être... n\'est pas votre fils ! »
+
+Dolly retomba sur le divan. Ses yeux s\'étaient fermés. Il lui semblait qu\'autour d\'elle l\'ombre avait brusquement succédé à une intense lumière.
+
+Sur un geste qu\'elle fit, Zach Fren la laissa seule, abîmée dans ses regrets, perdue dans ses souvenirs.
+
+Le lendemain, 26 août, Mrs. Branican n\'avait pas encore quitté sa cabine, lorsque le *Brisbane*, après avoir franchi la passe de Backstairs, entre l\'île Kangourou et le promontoire Jervis, pénétra dans le golfe de Saint-Vincent et vint mouiller au port d\'Adélaïde.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3 -- Un chapeau historique]{.pcalibre lang="X-NONE"}]{#_Toc342942246 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-3-un-chapeau-historique .calibre171 .sigil_not_in_toc}
+
+Des trois capitales de l\'Australie, Sydney est l\'aînée, Melbourne est la puînée, Adélaïde est la cadette. En vérité, si la dernière est la plus jeune, on peut affirmer qu\'elle est aussi la plus jolie. Elle est née en 1853, d\'une mère, l\'Australie méridionale -- qui n\'a d\'existence politique que depuis 1837, et dont l\'indépendance, officiellement reconnue, ne date que de 1856. Il est même probable que la jeunesse d\'Adélaïde se prolongera indéfiniment sous un climat sans rival, le plus salubre du continent, au milieu de ces territoires que n\'attristent ni la phtisie, ni les fièvres endémiques, ni aucun genre d\'épidémie contagieuse. On y meurt quelquefois, cependant ; mais, comme le fait spirituellement observer M. D. Charnay, « ce pourrait bien être une exception ». Si le sol de l\'Australie méridionale diffère de celui de la province voisine en ce qu\'il ne renferme pas de gisements aurifères, il est riche en minerai de cuivre. Les mines de Capunda, de Burra-Burra, de Wallaroo et de Munta, découvertes depuis une quarantaine d\'années, après avoir attiré les émigrants par milliers, ont fait la fortune de la province. Adélaïde ne s\'élève pas sur la limite littorale du golfe de Saint-Vincent. De même que Melbourne, elle est située à une douzaine de kilomètres à l\'intérieur, et un railway la met en communication avec le port. Son jardin botanique peut rivaliser avec celui de sa seconde soeur. Créé par Schumburg, il possède des serres, qui ne trouveraient pas leurs égales dans le monde entier, des plantations de roses qui sont de véritables parcs, de magnifiques ombrages sous l\'abri des plus beaux arbres de la zone tempérée, mélangés aux diverses essences de la zone semi-tropicale.
+
+Ni Sydney, ni Melbourne ne sauraient entrer en comparaison avec Adélaïde pour son élégance. Ses rues sont larges, agréablement distribuées, soigneusement entretenues. Quelques-unes possèdent de splendides monuments en bordure, telle King-William-Street. L\'hôtel des postes et l\'hôtel de ville méritent d\'être remarqués au point de vue architectonique. Au milieu du quartier marchand, les rues Hindley et Glenell s\'animent bruyamment au souffle du mouvement commercial. Là, circulent nombre de gens affairés, mais qui ne semblent éprouver que cette satisfaction due à des opérations sagement conduites, abondantes, faciles, sans aucun de ces soucis qu\'elles provoquent d\'habitude.
+
+Mrs. Branican était descendue dans un hôtel de King-William-Street, où Zach Fren l\'avait accompagnée. La mère venait de subir une cruelle épreuve par l\'anéantissement de ses dernières illusions. Il y avait tant d\'apparence que Godfrey pût être son fils, qu\'elle s\'y était tout de suite abandonnée. Cette déception se lisait sur sa figure, plus pâle que de coutume, au fond de ses yeux rougis par les larmes. Mais, à partir de l\'instant où son espoir avait été brisé comme sans retour, elle n\'avait plus cherché à revoir le jeune novice, elle n\'avait plus parlé de lui. Il ne restait dans son souvenir que cette surprenante ressemblance, qui lui rappelait l\'image de John.
+
+Désormais, Dolly serait tout à son oeuvre, et s\'occuperait sans arrêt des préparatifs de l\'expédition. Elle ferait appel à tous les concours, à tous les dévouements. Elle saurait dépenser, s\'il le fallait, sa fortune entière en ces nouvelles recherches, stimuler par des primes importantes le zèle de ceux qui uniraient leurs efforts aux siens dans une suprême tentative.
+
+Les dévouements ne devaient pas lui faire défaut. Cette province de l\'Australie méridionale, c\'est par excellence la patrie des audacieux explorateurs. De là les plus célèbres pionniers se sont lancés à travers les territoires inconnus du centre. De ses entrailles sont sortis les Warburton, les John Forrest, les Giles, les Sturt, les Lindsay, dont les itinéraires s\'entrecroisent sur les cartes de ce vaste continent -- itinéraires que Mrs. Branican allait obliquement couper du sien. C\'est ainsi que le colonel Warburton, en 1874, traversa l\'Australie dans toute sa largeur sur le vingtième degré de l\'est au nord-ouest jusqu\'à Nichol-Bay -- que John Forrest, en la même année, se transporta en sens contraire, de Perth à Port-Augusta -- que Giles, en 1876, partit également de Perth pour gagner le golfe Spencer sur le vingt-cinquième degré.
+
+Il avait été convenu que les divers éléments de l\'expédition, matériel et personnel, seraient réunis, non pas à Adélaïde, mais au point terminus du railway, qui remonte vers le nord à la hauteur du lac Eyre. Cinq degrés franchis dans ces conditions, ce serait gagner du temps, éviter des fatigues. Au milieu des districts sillonnés par le système orographique des Flinders-Ranges, on trouverait à rassembler le nombre de chariots et d\'animaux nécessaires à cette campagne, les chevaux de l\'escorte, les boeufs destinés au transport des vivres et effets de campement. À la surface de ces interminables déserts, de ces immenses steppes de sable, dépourvus de végétation, presque sans eau, il s\'agissait de pourvoir aux besoins d\'une caravane, qui comprendrait une quarantaine de personnes, en comptant les gens de service et la petite troupe destinée à assurer la sécurité des voyageurs.
+
+Quant à ces engagements, Dolly s\'occupa de les réaliser à Adélaïde même. Elle trouva, d\'ailleurs, un constant et ferme appui près du gouverneur de l\'Australie méridionale, qui s\'était mis à sa disposition. Grâce à lui, trente hommes, bien montés, bien armés, les uns d\'origine indigène, les autres choisis parmi les colons européens, acceptèrent les propositions de Mrs. Branican. Elle leur garantissait une solde très élevée pour la durée de la campagne, et une prime se chiffrant par une centaine de livres à chacun d\'eux, dès qu\'elle serait achevée, quel qu\'en fût le résultat. Ils seraient commandés par un ancien officier de la police provinciale, Tom Marix, un robuste et résolu compagnon, âgé d\'une quarantaine d\'années, dont le gouverneur répondait. Tom Marix avait choisi ses hommes avec soin parmi les plus vigoureux et les plus sûrs de ceux qui s\'étaient offerts en grand nombre. Dès lors il y avait lieu de compter sur le dévouement de cette escorte, recrutée dans les meilleures conditions.
+
+Le personnel de service serait placé sous les ordres de Zach Fren et il n\'y aurait pas de sa faute « si gens et bêtes ne marchaient pas carrément et rondement », ainsi qu\'il le disait volontiers.
+
+De fait, au-dessus de Tom Marix et de Zach Fren, le chef véritable -- chef incontesté -- c\'était Mrs. Branican, l\'âme de l\'expédition.
+
+Par les soins des correspondants de M. William Andrew, un crédit considérable avait été ouvert à Mrs. Branican à la Banque d\'Adélaïde, et elle pouvait y puiser à pleines mains.
+
+Ces préparatifs achevés, il fut convenu que Zach Fren partirait le 30 au plus tard pour la station de Farina-Town, où Mrs. Branican le rejoindrait avec le personnel, lorsque sa présence ne serait plus nécessaire à Adélaïde.
+
+
+--- Tout sera prêt, mistress Branican, répondit le maître. Quand vous arriverez, il n\'y aura plus qu\'à donner le signal du départ. »
+
+On imagine aisément que Zach Fren ne manqua pas de besogne pendant les derniers jours qu\'il passa à Adélaïde. En style de marin, il se « pomoya » avec tant d\'activité, que le 29 août, il put prendre son billet pour Farina-Town. Douze heures après que le railway l\'eut déposé à cette station extrême de la ligne, il prévint Mrs. Branican par le télégraphe qu\'une partie du matériel de l\'expédition était déjà réuni.
+
+De son côté, aidée de Tom Marix, Dolly remplit sa tâche en ce qui concernait l\'escorte, son armement, son habillement. Il importait que les chevaux fussent choisis avec soin, et la race australienne pouvait en fournir d\'excellents, rompus à la fatigue, à l\'épreuve du climat, d\'une sobriété parfaite. Tant qu\'ils parcourraient les forêts et les plaines, il n\'y aurait pas lieu de s\'inquiéter de leur nourriture, l\'herbe et l\'eau étant assurées sur ces territoires. Mais au-delà, à travers les déserts sablonneux, il y aurait lieu de les remplacer par des chameaux. C\'est ce qui serait fait, dès que la caravane aurait atteint la station d\'Alice-Spring. C\'est à partir de ce point que Mrs. Branican et ses compagnons s\'apprêteraient à lutter contre les obstacles matériels qui rendent si redoutable une exploration dans les régions de l\'Australie centrale.
+
+Les occupations auxquelles se livrait cette énergique femme l\'avaient quelque peu distraite des derniers incidents de sa navigation à bord du *Brisbane*. Elle s\'était étourdie dans ce déploiement d\'activité, qui ne lui laissait pas une heure de loisir. De cette illusion à laquelle son imagination s\'était livrée un instant, de cet espoir éphémère que l\'aveu de Zach Fren avait anéanti d\'un mot, il ne lui restait plus que le souvenir. Elle savait à présent que son petit enfant reposait là-bas, en un coin du cimetière de San-Diégo, et qu\'elle pourrait aller pleurer sur sa tombe... Et, cependant, cette ressemblance du novice... Et l\'image de John et de Godfrey se confondant dans son esprit...
+
+Depuis l\'arrivée du paquebot, Mrs. Branican n\'avait plus revu le jeune garçon. Si celui-ci avait cherché à la rencontrer pendant les premiers jours qui avaient suivi son débarquement, elle l\'ignorait. En tout cas, il ne semblait pas que Godfrey se fût présenté à l\'hôtel de King-William-Street. Et pourquoi l\'aurait-il fait ? Après le dernier entretien qu\'il avait eu avec elle, Dolly s\'était renfermée dans sa cabine et ne l\'avait point demandé. Dolly savait d\'ailleurs que le *Brisbane* était reparti pour Melbourne, et qu\'à l\'époque où le paquebot reviendrait à Adélaïde, elle n\'y serait plus.
+
+Tandis que Mrs. Branican activait ses préparatifs, un autre personnage s\'occupait non moins opiniâtrement d\'un voyage identique. Il était descendu dans un hôtel de Hindley-Street. Un appartement sur le devant de l\'hôtel, une chambre sur la cour intérieure, réunissaient sous le même toit ces singuliers représentants de la race aryenne et de la race jaune, l\'Anglais Jos Meritt et le Chinois Gîn-Ghi.
+
+D\'où venaient ces deux types, empruntés à l\'extrême Asie et à l\'extrême Europe ? Où allaient-ils ? Que faisaient-ils à Melbourne et que venaient-ils faire à Adélaïde ? Enfin, en quelle circonstance ce maître et ce serviteur s\'étaient-ils associés -- celui-là payant celui-ci, celui-ci servant celui-là -- pour courir le monde de conserve ? C\'est ce qui va ressortir d\'une conversation à laquelle prenaient part Jos Meritt et Gîn-Ghi, dans la soirée du 5 septembre -- conversation que complétera une explication sommaire.
+
+Et de prime abord, si quelques traits de caractère, quelques manies, la singularité de ses attitudes, la façon dont il s\'exprimait, ont permis d\'entrevoir la silhouette de cet Anglo-Saxon, il convient de faire connaître aussi ce Céleste, à son service, qui avait conservé les vêtements traditionnels du pays chinois, la chemisette « han chaol », la tunique « ma coual », la robe « haol » boutonnée sur le flanc, et le pantalon bouffant avec ceinture d\'étoffe. S\'il se nommait Gîn-Ghi, il méritait ce nom, qui au sens propre signifie « homme indolent ». Et il l\'était, indolent, et à un degré rare, devant la besogne comme devant le danger. Il n\'eût pas fait dix pas pour exécuter un ordre ; il n\'en aurait pas fait vingt pour éviter un péril. Il fallait, c\'est positif, que Jos Meritt eût une prodigieuse dose de patience pour garder un tel serviteur. À la vérité, c\'était affaire d\'habitude, car depuis cinq à six années, ils voyageaient ensemble. L\'un avait rencontré l\'autre à San-Francisco, où les Chinois fourmillent, et il en avait fait son domestique « à l\'essai », avait-il dit -- essai qui se prolongerait sans doute jusqu\'à la séparation suprême. À mentionner aussi, Gîn-Ghi, élevé à Hong-Kong, parlait l\'anglais comme un natif de Manchester.
+
+Du reste, Jos Meritt ne s\'emportait guère, étant d\'un tempérament essentiellement flegmatique. S\'il menaçait Gîn-Ghi des plus épouvantables tortures en usage dans le Céleste-Empire -- où le Ministère de la justice s\'appelle, de son vrai nom, le Ministère des supplices -- il ne lui aurait pas donné une chiquenaude. Lorsque ses ordres n\'étaient pas exécutés, il les exécutait lui-même. Cela simplifiait la situation. Peut-être le jour n\'était-il pas éloigné où il servirait son serviteur. Très probablement, ce Chinois inclinait à le penser, et, à son sens, ce ne serait qu\'équitable. Toutefois, en attendant cet heureux revirement de fortune, Gîn-Ghi était contraint de suivre son maître n\'importe où la vagabonde fantaisie entraînait cet original. Là-dessus, Jos Meritt ne transigeait pas. Il eût transporté sur ses épaules la malle de Gîn-Ghi plutôt que de laisser Gîn-Ghi en arrière, quand le train ou le paquebot allaient partir. Bon gré mal gré, « l\'homme indolent » devait lui emboîter le pas, quitte à s\'endormir en route dans la plus parfaite indolence. C\'est ainsi que l\'un avait accompagné l\'autre pendant des milliers de milles sur l\'ancien et le nouveau continent, et c\'est en conséquence de ce système de locomotion continue que tous deux se trouvaient, à cette époque, dans la capitale de l\'Australie méridionale.
+
+« Bien !... Oh !... Très bien ! Avait dit ce soir-là Jos Meritt. Je pense que nos dispositions sont prises ?... »
+
+Et on ne s\'explique guère pourquoi il interrogeait Gîn-Ghi à ce sujet, puisqu\'il avait dû tout préparer de ses propres mains. Mais il n\'y manquait jamais -- pour le principe.
+
+« Dix mille fois terminées, répondit le Chinois, qui n\'avait pu se défaire des tournures phraséologiques en honneur chez les habitants du Céleste-Empire.
+
+--- Nos valises ?...
+
+--- Sont bouclées.
+
+--- Nos armes ?...
+
+--- Sont en état.
+
+--- Nos caisses de vivres ?...
+
+--- C\'est vous-même, mon maître Jos, qui les avez mises en consigne à la gare. Et, d\'ailleurs, est-il nécessaire de s\'approvisionner de vivres... quand on est destiné à être mangé personnellement... un jour ou l\'autre !
+
+--- Être mangé, Gîn-Ghi ?... Bien !... Oh !... Très bien ! Vous comptez donc toujours être mangé ?
+
+--- Cela arrivera tôt ou tard, et il s\'en est fallu de peu, il y a six mois, que nous n\'ayons terminé nos voyages dans le ventre d\'un cannibale... moi surtout !
+
+--- Vous, Gîn-Ghi ?...
+
+--- Oui, par l\'excellente raison que je suis gras, tandis que vous, mon maître Jos, vous êtes maigre, et que ces gens-là me donneront sans hésiter la préférence !
+
+--- La préférence ?... Bien !... Oh !... Très bien !
+
+--- Et puis les indigènes australiens n\'ont-ils pas un goût particulier pour la chair jaune des Chinois, laquelle est d\'autant plus délicate qu\'ils se nourrissent de riz et de légumes ?
+
+--- Aussi n\'ai-je cessé de vous recommander de fumer, Gîn-Ghi, répondit le flegmatique Jos Meritt. Vous le savez, les anthropophages n\'aiment pas la chair des fumeurs. »
+
+Et c\'est ce que faisait sans désemparer le prudent Céleste, fumant non de l\'opium, mais le tabac que Jos Meritt lui fournissait à discrétion. Les Australiens, paraît-il, de même que leurs confrères en cannibalisme des autres pays, éprouvent une invincible répugnance pour la chair humaine, lorsqu\'elle est imprégnée de nicotine. C\'est pourquoi Gîn-Ghi travaillait en conscience à se rendre de plus en plus immangeable.
+
+Mais était-il bien exact que son maître et lui se fussent déjà exposés à figurer dans un repas d\'anthropophages, et non en qualité de convives ? Oui, sur certaines parties de la côte d\'Afrique, Jos Meritt et son serviteur avaient failli achever de cette façon leur existence aventureuse. Dix mois auparavant, dans le Queensland, à l\'ouest de Rockhampton et de Gracemère, à quelques centaines de milles de Brisbane, leurs pérégrinations les avaient conduits au milieu des plus féroces tribus d\'aborigènes. Là, le cannibalisme est à l\'état endémique, pourrait-on dire. Aussi Jos Meritt et Gîn-Ghi, tombés entre les mains de ces noirs, eussent-ils infailliblement péri, sans l\'intervention de la police. Délivrés à temps, ils avaient pu regagner la capitale du Queensland, puis Sydney, d\'où le paquebot venait de les ramener à Adélaïde. En somme, cela n\'avait pas corrigé l\'Anglais de ce besoin d\'exposer sa personne et celle de son compagnon, puisque, au dire de Gîn-Ghi, ils se préparaient à visiter le centre du continent australien.
+
+« Et tout cela, pour un chapeau ! s\'écria le Chinois. *Ay* *ya*... *Ay* *ya* !... Lorsque j\'y pense, mes larmes s\'égrènent comme des gouttes de pluie sur les jaunes chrysanthèmes !
+
+--- Quand vous aurez fini d\'égrener... Gîn-Ghi ? répliqua Jos Meritt en fronçant son sourcil.
+
+--- Mais, ce chapeau, si vous le retrouvez jamais, mon maître Jos, ce ne sera plus qu\'une loque...
+
+--- Assez, Gîn-Ghi !... Trop même !... Je vous défends de vous exprimer ainsi sur ce chapeau-là et sur n\'importe quel autre ! Vous m\'entendez ?... Bien !... Oh !... Très bien ! Si cela recommence, je vous ferai administrer de quarante à cinquante coups de rotin sous la plante des pieds !
+
+--- Nous ne sommes pas en Chine, riposta Gîn-Ghi.
+
+--- Je vous priverai de nourriture !
+
+--- Cela me fera maigrir.
+
+--- Je vous couperai votre natte au ras du crâne !
+
+--- Couper ma natte ?...
+
+--- Je vous mettrai à la diète de tabac !
+
+--- Le dieu Fô me protège !
+
+--- Il ne vous protégera pas. »
+
+Et, devant cette dernière menace, Gîn-Ghi redevint soumis et respectueux.
+
+En réalité, de quel chapeau s\'agissait-il, et pourquoi Jos Meritt passait-il sa vie à courir après un chapeau ?
+
+Cet original, on l\'a dit, était un Anglais de Liverpool, un de ces inoffensifs maniaques, qui n\'appartiennent pas en propre au Royaume-Uni. Ne s\'en rencontre-t-il pas sur les bords de la Loire, de l\'Elbe, du Danube ou de l\'Escaut, aussi bien que dans les contrées arrosées par la Tamise, la Clyde ou la Tweed ? Jos Meritt était fort riche, et très connu dans le Lancastre et comtés voisins pour ses fantaisies de collectionneur. Ce n\'étaient point des tableaux, des livres, des objets d\'art, pas même des bibelots qu\'il ramassait à grand effort et à grands frais. Non ! C\'étaient des chapeaux -- un musée de couvre-chefs historiques -- coiffures quelconques d\'hommes ou de femmes, tromblons, tricornes, bicornes, pétases, calèches, clabauds, claques, gibus, casques, claque-oreilles, bousingots, barrettes, bourguignottes, calottes, turbans, toques, caroches, casquettes, fez, shakos, képis, cidares, colbacks, tiares, mitres, tarbouches, schapskas, poufs, mortiers de présidents, llautus des Incas, hennins du moyen âge, infules sacerdotaux, gasquets de l\'Orient, cornes des doges, chrémeaux de baptême, etc., etc., des centaines et des centaines de pièces, plus ou moins lamentables, effilochées, sans fond et sans bords. À l\'en croire, il possédait de précieuses curiosités historiques, le casque de Patrocle, lorsque ce héros fut tué par Hector au siège de Troie, le béret de Thémistocle à la bataille de Salamine, les barrettes de Galien et d\'Hippocrate, le chapeau de César qu\'un coup de vent avait emporté au passage du Rubicon, la coiffure de Lucrèce Borgia à chacun de ses trois mariages avec Sforze, Alphonse d\'Este et Alphonse d\'Aragon, le chapeau de Tamerlan quand ce guerrier franchit le Sind, celui de Gengis-Khan lorsque ce conquérant fit détruire Boukhara et Samarkande, la coiffure d\'Élisabeth à son couronnement, celle de Marie Stuart lorsqu\'elle s\'échappa du château de Lockleven, celle de Catherine II quand elle fut sacrée à Moscou, le suroët de Pierre-le-Grand lorsqu\'il travaillait aux chantiers de Saardam, le claque de Marlborough à la bataille de Ramilies, celui d\'Olaüs, roi de Danemark, tué à Sticklestad, le bonnet de Gessler que refusa de saluer Guillaume Tell, la toque de William Pitt quand il entra à vingt-trois ans au ministère, le bicorne de Napoléon I à Wagram, enfin cent autres non moins curieux. Son plus vif chagrin était de ne point posséder la calotte qui coiffait Noé le jour où l\'arche s\'arrêtait sur la cime du mont Ararat, et le bonnet d\'Abraham au moment où ce patriarche allait sacrifier Isaac. Mais Jos Meritt ne désespérait pas de les découvrir un jour. Quant aux cidares que devaient porter Adam et Ève, lorsqu\'ils furent chassés du paradis terrestre, il avait renoncé à se les procurer, des historiens dignes de foi ayant établi que le premier homme et la première femme avaient l\'habitude d\'aller nu-tête.
+
+On voit, par cet étalage très succinct des curiosités du musée Jos Meritt, en quelles occupations vraiment enfantines s\'écoulait la vie de cet original. C\'était un convaincu, il ne doutait pas de l\'authenticité de ses trouvailles, et ce qu\'il lui avait fallu parcourir de pays, visiter de villes et de villages, fouiller de boutiques et d\'échoppes, fréquenter de fripiers et de revendeurs, dépenser de temps et d\'argent pour n\'atteindre, après des mois de recherches, qu\'une loque qu\'on ne lui vendait qu\'au poids de l\'or ! C\'était le monde entier qu\'il réquisitionnait afin de mettre la main sur quelque objet introuvable, et, maintenant qu\'il avait épuisé les stocks de l\'Europe, de l\'Afrique, de l\'Asie, de l\'Amérique, de l\'Océanie par lui-même, par ses correspondants, par ses courtiers, par ses voyageurs de commerce, voici qu\'il s\'apprêtait à fouiller, jusque dans ses plus inabordables retraites, le continent australien !
+
+Il y avait une raison à cela -- raison que d\'autres eussent sans doute regardée comme insuffisante, mais qui lui paraissait des plus sérieuses. Ayant été informé que les nomades de l\'Australie se coiffaient volontiers de chapeaux d\'homme ou de femme -- en quel état de dépenaillement, on l\'imagine ! -- sachant d\'autre part que des cargaisons de ces vieux débris étaient régulièrement expédiées dans les ports du littoral, il en avait conclu qu\'il y aurait peut-être là « quelque beau coup à faire », pour parler le langage des amateurs d\'antiquailles.
+
+Précisément, Jos Meritt était en proie à une idée fixe, tourmenté par un désir qui l\'obsédait, qui menaçait de le rendre complètement fou, car il l\'était à demi déjà. Il s\'agissait, cette fois, de retrouver un certain chapeau, qui, à l\'entendre, devait être l\'honneur de sa collection.
+
+Quelle était cette merveille ? Par quel fabricant ancien ou moderne ce chapeau avait-il été confectionné ? Sur quelle tête royale, noble, bourgeoise ou roturière s\'était-il posé et en quelle circonstance ? Ce secret, Jos Meritt ne l\'avait jamais confié à personne. Quoiqu\'il en soit, à la suite de précieuses indications, en suivant une piste avec l\'ardeur d\'un Chingachgook ou d\'un Renard-Subtil, il avait acquis la conviction que ledit chapeau, après une longue série de vicissitudes, devait achever sa carrière sur le crâne de quelque notable d\'une tribu australienne, en justifiant doublement sa carrière de « couvre-chef ». S\'il réussissait à le découvrir, Jos Meritt le paierait ce que l\'on voudrait, il le volerait, si on ne voulait pas le lui vendre. Ce serait le trophée de cette campagne, qui l\'avait déjà entraîné au nord-est du continent. Aussi, n\'ayant pas réussi dans sa première tentative, se disposait-il à braver les trop réels dangers d\'une expédition en Australie centrale. Voilà pourquoi Gîn-Ghi allait de nouveau s\'exposer à finir sa vie sous la dent des cannibales, et quels cannibales ?... Les plus féroces de tous ceux dont il avait jusqu\'alors affronté la mâchoire. Au fond, il faut bien le reconnaître, le serviteur était si attaché à son maître, -- l\'attachement de deux canards mandarins -- autant par intérêt que par affection, qu\'il n\'aurait pu se séparer de lui.
+
+« Demain matin, nous partirons d\'Adélaïde par l\'express, dit Jos Meritt.
+
+--- À la deuxième veille ?... répondit Gîn-Ghi.
+
+--- À la deuxième veille, si vous voulez, et faites en sorte que tout soit prêt pour le départ.
+
+--- Je ferai de mon mieux, mon maître Jos, en vous faisant observer que je n\'ai pas les dix mille mains de la déesse Couan-In !
+
+--- Je ne sais pas si la déesse Couan-In a dix mille mains, répondit Jos Meritt, mais je sais que vous en avez deux, et je vous prie de les employer à mon service...
+
+--- En attendant qu\'on me les mange...
+
+--- Bien !... Oh !... Très bien !... »
+
+Et, sans doute, Gîn-Ghi ne se servit pas de ses mains plus activement que d\'habitude. Préférant s\'en rapporter à son maître pour faire sa besogne. Donc le lendemain les deux originaux quittaient Adélaïde, et le train les emportait à toute vapeur vers ces régions inconnues, où Jos Meritt espérait enfin découvrir le chapeau qui manquait à sa collection.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- Le train d\'Adélaïde]{.pcalibre lang="X-NONE"}]{#_Toc342942247 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4-le-train-dadélaïde .calibre171 .sigil_not_in_toc}
+
+Quelques jours plus tard, Mrs. Branican allait également quitter la capitale de l\'Australie méridionale. Tom Marix venait de compléter le personnel de son escorte, qui comprenait quinze hommes blancs ayant fait partie des milices locales, et quinze indigènes déjà employés au service de la province dans la police du gouverneur. Cette escorte était destinée à protéger la caravane contre les nomades et non à combattre la tribu des Indas. Il ne faut point oublier ce qu\'avait dit Harry Felton : il s\'agissait plutôt de délivrer le capitaine John au prix d\'une rançon que de l\'arracher par la force aux indigènes qui le retenaient prisonnier.
+
+Des vivres, en quantité suffisante pour l\'approvisionnement d\'une quarantaine de personnes pendant une année, occupaient deux fourgons du train, qui seraient déchargés à Farina-Town. Chaque jour, une lettre de Zach Fren, datée de cette station, avait tenu Dolly au courant de ce qui se faisait. Les boeufs et les chevaux, achetés par les soins du maître, se trouvaient réunis avec les gens destinés à servir de conducteurs. Les chariots, remisés à la gare, étaient prêts à recevoir les caisses de vivres, les ballots de vêtements, les ustensiles, les munitions, les tentes, en un mot tout ce qui constituait le matériel de l\'expédition. Deux jours après l\'arrivée du train, la caravane pourrait se mettre en marche.
+
+Mrs. Branican avait fixé son départ d\'Adélaïde au 9 septembre. Dans un dernier entretien qu\'elle eut avec le gouverneur de la province, celui-ci ne cacha point à l\'intrépide femme quels périls elle aurait à affronter.
+
+
+--- Je le sais, monsieur le gouverneur, répondit Mrs. Branican, et je suis préparée à tout. À dater de mon départ de San-Diégo, j\'ai étudié le continent australien, en lisant et relisant les récits des voyageurs qui l\'ont visité, les Burke, les Stuart, les Giles, les Forrest, les Sturt, les Grégorys, les Warburton. J\'ai pu aussi me procurer la relation de l\'intrépide David Lindsay, qui du mois de septembre 1887 au mois d\'avril 1888 est parvenu à franchir l\'Australie entre Port-Darwin au nord et Adélaïde au sud. Non ! Je n\'ignore rien des fatigues ni des dangers d\'une telle campagne. Mais je vais où le devoir me commande d\'aller.
+
+--- L\'explorateur David Lindsay, répondit le gouverneur, s\'est borné à suivre des régions déjà reconnues, puisque la ligne télégraphique transcontinentale sillonne leur surface. Aussi n\'avait-il emmené avec lui qu\'un jeune indigène et quatre chevaux de bât. Vous, au contraire, mistress Branican, puisque vous allez à la recherche de tribus nomades, vous serez contrainte de diriger votre caravane en dehors de cette ligne, de vous aventurer dans le nord-ouest du continent jusqu\'aux déserts de la Terre de Tasman ou de la Terre de Witt...
+
+--- J\'irai jusqu\'où cela sera nécessaire, monsieur le gouverneur, reprit Mrs. Branican. Ce que David Lindsay et ses prédécesseurs ont fait, c\'était dans l\'intérêt de la civilisation, de la science ou du commerce. Ce que je ferai, moi, c\'est pour délivrer mon mari, aujourd\'hui le seul survivant du *Franklin*. Depuis sa disparition, et contre l\'opinion de tous, j\'ai soutenu que John Branican était vivant, et j\'ai eu raison. Pendant six mois, pendant un an, s\'il le faut, je parcourrai ces territoires avec la conviction que je le retrouverai et j\'aurai raison de nouveau. Je compte sur le dévouement de mes compagnons, monsieur le gouverneur, et notre devise sera : Jamais en arrière !
+
+--- C\'est la devise des Douglas, mistress, et je ne doute pas qu\'elle vous mène au but...
+
+--- Oui... avec l\'aide de Dieu ! »
+
+Mrs. Branican prit congé du gouverneur, en le remerciant du concours qu\'il lui avait prêté dès son arrivée à Adélaïde. Le soir même -- 9 septembre -- elle quittait la capitale de l\'Australie méridionale.
+
+Les chemins de fer australiens sont établis dans d\'excellentes conditions : wagons confortables qui roulent sans secousse ; voies dont le parfait état ne provoque que d\'insensibles trépidations. Le train se composait de six voitures, en comprenant les deux fourgons de bagages. Mrs. Branican occupait un compartiment réservé avec une femme, nommée Harriett, d\'origine mi-saxonne mi-indigène, qu\'elle avait engagée à son service. Tom Marix et les gens de l\'escorte s\'étaient placés dans les autres compartiments.
+
+Le train ne s\'arrêtait que pour le renouvellement de l\'eau et du combustible de la machine, et ne faisait que des haltes très courtes aux principales stations. La durée du parcours serait ainsi abrégée d\'un quart environ.
+
+Au-delà d\'Adélaïde, le train se dirigea vers Gawler en remontant le district de ce nom. Sur la droite de la ligne se dressaient quelques hauteurs boisées qui dominent cette partie du territoire. Les montagnes de l\'Australie ne se distinguent pas par leur altitude, qui ne dépasse guère deux mille mètres, et elles sont en général reportées à la périphérie du continent. On leur attribue une origine géologique très reculée, leur composition comprenant surtout le granit et les couches siluriennes.
+
+Cette portion du district, très accidentée, coupée de gorges, obligeait la voie à faire de nombreux détours, tantôt le long de vallées étroites, tantôt au milieu d\'épaisses forêts, où la multiplication de l\'eucalyptus est vraiment exubérante. À quelques degrés de là, lorsqu\'il desservira les plaines du centre, le railway pourra suivre l\'imperturbable ligne droite qui doit être la caractéristique du chemin de fer moderne.
+
+À partir de Gawler, d\'où se détache un embranchement sur Great-Bend, le grand fleuve Murray décrit un coude brusque en s\'infléchissant vers le sud. Le train, après l\'avoir quitté, et avoir côtoyé la limite du district de Light, atteignit le district de Stanley à la hauteur du trente-quatrième parallèle. S\'il n\'eût fait nuit, on aurait pu apercevoir la dernière cime du mont Bryant, le plus élevé de ce noeud orographique, qui se projette à l\'est de la voie. Depuis ce point, les dénivellations du sol se font plutôt sentir à l\'ouest, et la ligne longe la base tourmentée de cette chaîne, dont les principaux sommets sont les monts Bluff, Remarkable, Brown et Ardon. Leurs ramifications viennent mourir sur les bords du lac Torrens, vaste bassin en communication, sans doute, avec le golfe Spencer, qui entaille profondément la côte australienne.
+
+Le lendemain, au lever du soleil, le train passa en vue de ces Flinders-Ranges, dont le mont Serle forme l\'extrême projection. À travers les vitres de son wagon, Mrs. Branican regardait ces territoires si nouveaux pour elle. C\'était donc là cette Australie que l\'on a à bon droit dénommée la « Terre des paradoxes », dont le centre n\'est qu\'une vaste dépression au-dessous du niveau océanique ; où les cours d\'eau, pour la plupart sortis des sables, sont peu à peu absorbés avant d\'aboutir à la mer ; où l\'humidité manque à l\'air comme au sol ; où se multiplient les plus étranges animaux qui soient au monde ; où vivent à l\'état errant ces tribus farouches qui fréquentent les régions du centre et de l\'ouest. Là-bas, au nord et à l\'ouest, s\'étendent ces interminables déserts de la Terre Alexandra et de l\'Australie occidentale, au milieu desquels l\'expédition allait chercher les traces du capitaine John. Sur quel indice se guiderait-elle, lorsqu\'elle aurait dépassé la zone des bourgades et des villages, quand elle en serait réduite aux vagues indications, obtenues au chevet de Harry Felton ?
+
+Et, à ce propos, une objection avait été posée à Mrs. Branican : Était-il admissible que le capitaine John, depuis neuf ans qu\'il était prisonnier de ces Australiens nomades, n\'eût jamais trouvé l\'occasion de leur échapper ? À cette objection, Mrs. Branican n\'avait eu à opposer que cette réponse : c\'est que, d\'après le dire de Harry Felton, à son compagnon et à lui une seule occasion de s\'enfuir s\'était offerte pendant cette longue période -- occasion dont John n\'avait pu profiter. Quant à l\'argument fondé sur ce qu\'il n\'entrait pas dans les habitudes des indigènes de respecter la vie de leurs prisonniers, vraisemblable ou non, ce fait s\'était produit pour les survivants du *Franklin*, et Harry Felton en était la preuve. D\'ailleurs, n\'existait-il pas un précédent en ce qui concernait l\'explorateur William Classen disparu voilà trente-huit ans, et que l\'on croyait encore chez l\'une des tribus de l\'Australie septentrionale ? Eh bien ! N\'était-ce pas précisément le sort du capitaine John, puisque, en dehors de simples présomptions, on avait la déclaration formelle de Harry Felton ? Il est d\'autres voyageurs qui n\'ont jamais reparu, et rien ne démontre qu\'ils aient succombé. Qui sait si ces mystères ne s\'éclairciront pas un jour !
+
+Cependant le train filait avec rapidité, sans s\'arrêter aux petites stations. Si la voie ferrée eût été reportée un peu plus vers l\'ouest, elle aurait contourné les bords de ce lac Torrens, qui se recourbe en forme d\'arc -- lac long et étroit, près duquel s\'accentuent les premières ondulations des Flinders-Ranges. Le temps était chaud. Même température que dans l\'hémisphère boréal au mois de mars pour les pays que traverse le trentième parallèle, tels l\'Algérie, le Mexique ou la Cochinchine. On pouvait craindre quelques pluies ou même l\'un de ces violents orages que la caravane appellerait en vain de tous ses voeux, lorsqu\'elle serait engagée sur les plaines de l\'intérieur. Ce fut en ces conditions que Mrs. Branican atteignit, à trois heures de l\'après-midi, la station de Farina-Town.
+
+Là s\'arrête le railway, et les ingénieurs australiens s\'occupent de le pousser plus avant vers le nord, dans la direction de l\'Overland-Telegraf-Line qui prolonge ses fils jusqu\'au littoral de la mer d\'Arafoura. Si le chemin de fer continue de la suivre, il devra s\'incliner vers l\'ouest, afin de passer entre le lac Torrens et le lac Eyre. Au contraire, il se développera à la surface des territoires situés à l\'orient de ce lac, s\'il n\'abandonne pas le méridien qu\'elle remonte à partir d\'Adélaïde.
+
+Zach Fren et ses hommes étaient réunis à la gare, lorsque Mrs. Branican descendit de son wagon. Ils l\'accueillirent avec grande sympathie et respectueuse cordialité. Le brave maître était ému jusqu\'au fond du coeur. Douze jours, douze longs jours ! Sans avoir vu la femme du capitaine John, cela ne lui était pas arrivé depuis le dernier retour du *Dolly*-*Hope* à San-Diégo. Dolly fut très heureuse de retrouver son compagnon, son ami Zach Fren, dont le dévouement lui était assuré. Elle sourit en lui pressant la main -- elle qui avait presque oublié le sourire !
+
+Cette station de Farina-Town est de création récente. Il est même des cartes modernes sur lesquelles elle ne figure pas. On reconnaît là l\'embryon d\'une de ces villes que les railways anglais ou américains « produisent » sur leur passage, comme les arbres produisent des fruits ; mais ils mûrissent vite, ces fruits, grâce au génie improvisateur et pratique de la race saxonne. Et telles de ces stations, qui ne sont que des villages, montrent déjà par leur disposition générale, l\'agencement des places, des rues, des boulevards, qu\'elles deviendront des villes à court délai.
+
+Ainsi était Farina-Town -- formant, à cette époque, le terminus du chemin de fer d\'Adélaïde.
+
+Mrs. Branican ne devait pas séjourner dans cette station. Zach Fren s\'était montré aussi intelligent qu\'actif. Le matériel de l\'expédition, rassemblé par ses soins, comprenait quatre chariots à boeufs et leurs conducteurs, deux buggys, attelés chacun de deux bons chevaux, et les cochers chargés de les conduire. Les chariots avaient déjà reçu divers objets de campement, qui avaient été expédiés d\'Adélaïde. Lorsque les fourgons du train auraient versé leur contenu, ils seraient prêts à partir. Ce serait l\'affaire de vingt-quatre ou trente-six heures.
+
+Dès le jour même Mrs. Branican examina ce matériel en détail. Tom Marix approuva les mesures prises par Zach Fren. Dans ces conditions, on atteindrait sans peine l\'extrême limite de la région où les chevaux et les boeufs trouvent l\'herbe nécessaire à leur nourriture, et surtout l\'eau, dont on rencontrerait rarement quelque filet dans les déserts du centre.
+
+« Mistress Branican, dit Tom Marix, tant que nous suivrons la ligne télégraphique, le pays offrira des ressources, et nos bêtes n\'auront pas trop à souffrir. Mais, au-delà, lorsque la caravane se jettera vers l\'ouest, il faudra remplacer chevaux et boeufs par des chameaux de bât et de selle. Ces animaux peuvent seuls affronter ces régions brûlantes, en se contentant des puits que séparent souvent plusieurs jours de marche.
+
+--- Je le sais, Tom Marix, répondit Dolly, et je me fierai à votre expérience. Nous reconstituerons la caravane, dès que nous serons à la station d\'Alice-Spring, où je compte arriver dans le plus bref délai possible.
+
+--- Les chameliers sont partis il y a quatre jours avec le convoi des chameaux, ajouta Zach Fren, et ils nous attendront à cette station...
+
+--- Et n\'oubliez pas, mistress, dit Tom Marix, que là commenceront les véritables difficultés de la campagne...
+
+--- Nous saurons les vaincre ! » répondit Dolly.
+
+Ainsi, suivant le plan minutieusement arrêté, la première partie du voyage, qui comprenait un parcours de trois cent cinquante milles, allait s\'accomplir avec les chevaux, les buggys et les chariots à boeufs. Sur trente hommes de l\'escorte, les blancs, au nombre de quinze, devaient être montés ; mais, ces épaisses forêts, ces territoires capricieusement accidentés, ne permettant pas de longues étapes, les noirs pourraient sans peine suivre la caravane en piétons. Lorsqu\'elle aurait été reformée à la station d\'Alice-Spring, les chameaux seraient réservés aux blancs, chargés d\'opérer des reconnaissances, soit pour recueillir des renseignements sur les tribus errantes, soit pour découvrir les puits disséminés à la surface du désert.
+
+Il convient de mentionner ici que les explorations entreprises à travers le continent australien, ne s\'exécutent pas autrement, depuis l\'époque où les chameaux ont été, avec un tel avantage, introduits en Australie. Les voyageurs du temps des Burke, des Stuart, des Giles, n\'eussent pas été soumis à de si rudes épreuves, s\'ils avaient eu ces utiles auxiliaires à leur disposition. C\'est en 1866 que M. Elder en importa de l\'Inde un assez grand nombre avec leur équipe de chameliers afghans, et cette race d\'animaux a prospéré. Sans nul doute, c\'est grâce à leur emploi que le colonel Warburton a pu mener à bonne fin cette audacieuse campagne, qui avait pris Alice-Spring pour point de départ, et Rockbonne pour point d\'arrivée sur le littoral de la Terre de Witt, à Nichol-Bay. Plus tard, si David Lindsay a réussi à franchir le continent du nord au sud avec des chevaux de bât, c\'est parce qu\'il s\'est peu éloigné des régions que sillonne la ligne télégraphique, où il trouvait en eau et en fourrage ce qui manque aux solitudes australiennes.
+
+Et, à propos de ces hardis explorateurs qui n\'hésitent pas à braver ainsi des périls et des fatigues de toutes sortes, Zach Fren fut conduit à dire :
+
+« Vous ignorez, mistress Branican, que nous sommes devancés sur la route d\'Alice-Spring ?
+
+--- Devancés, Zach ?
+
+--- Oui, mistress. Ne vous souvenez-vous pas de cet Anglais et de son domestique chinois, qui avaient pris passage à bord du *Brisbane* de Melbourne à Adélaïde ?
+
+--- En effet, répondit Dolly, mais ces passagers ont débarqué à Adélaïde. N\'y sont-ils point restés ?...
+
+--- Non, mistress. Il y a trois jours, Jos Meritt -- c\'est ainsi qu\'il se nomme -- est arrivé à Farina-Town par le railway. Il m\'a même demandé des détails circonstanciés touchant notre expédition, la route qu\'elle comptait suivre, et se contentant de répondre : « Bien !... Oh !... Très bien ! » tandis que son Chinois, hochant la tête semblait dire : « Mal !... Oh !... Très mal ! » Puis, le lendemain, au petit jour, l\'un et l\'autre ont quitté Farina-Town en se dirigeant vers le nord.
+
+--- Et comment voyagent-ils ?... demanda Dolly.
+
+--- Ils voyagent à cheval ; mais, une fois la station d\'Alice-Spring atteinte, ils changeront comme qui dirait leur bateau à vapeur pour un bateau à voiles -- ce que nous ferons en somme.
+
+--- Est-ce que cet Anglais est un explorateur ?...
+
+--- Il n\'en a point l\'air, et ressemble plutôt à une espèce de gentleman maniaque comme un vent de sud-ouest !
+
+--- Et il n\'a pas dit à quel propos il s\'aventurait dans le désert australien ?
+
+--- Pas un mot de cela, mistress. Néanmoins, seul avec son Chinois, j\'imagine qu\'il n\'a point l\'intention de s\'exposer à quelque mauvaise rencontre en dehors des régions habitées de la province. Bon voyage je lui souhaite ! Peut-être le retrouverons-nous à Alice-Spring ! »
+
+Le lendemain, 11 septembre, à cinq heures de l\'après-midi, tous les préparatifs étaient terminés. Les chariots avaient reçu leur charge d\'approvisionnements en quantités suffisantes pour les nécessités de ce long voyage. C\'étaient des conserves de viande et de légumes aux meilleures marques américaines, de la farine, du thé, du sucre et du sel, sans compter les médicaments que renfermait la pharmacie portative. La réserve de wiskey, de gin et d\'eau-de-vie remplissait un certain nombre de tonnelets, qui seraient placés plus tard à dos de chameaux. Un important stock de tabac figurait parmi les objets de consommation -- stock d\'autant plus indispensable qu\'il servirait non seulement au personnel mais encore aux opérations d\'échange avec les indigènes chez lesquels il est en usage comme monnaie courante. Avec du tabac et de l\'eau-de-vie, on achèterait des tribus entières de l\'Australie occidentale. Une grosse réserve de ce tabac, quelques rouleaux de toile imprimée, nombre d\'objets de bimbeloterie, formaient la rançon du capitaine John.
+
+Quant au matériel de campement, les tentes, les couvertures, les caisses contenant les vêtements et le linge, tout ce qui était personnel à Mrs. Branican et à la femme Harriett, les effets de Zach Fren et du chef de l\'escorte, les ustensiles nécessaires à la préparation des aliments, le pétrole destiné à leur cuisson, les munitions, comprenant cartouches à balles et cartouches à plomb pour les fusils de chasse et les armes confiées aux hommes de Tom Marix, tout ce matériel avait trouvé sa place sur les chariots à boeufs.
+
+Il n\'y avait plus à présent qu\'à donner le signal.
+
+Mrs. Branican, impatiente de se mettre en route, fixa le départ au lendemain. Il fut décidé que, dès l\'aube, la caravane quitterait la station de Farina-Town, et prendrait la direction du nord, en suivant l\'Overland-Telegraf-Line. Bouviers, conducteurs, gens d\'escorte, cela faisait un effectif de quarante individus, enrôlés sous la direction de Zach Fren et de Tom Marix. Tous furent avertis de se tenir prêts au lever du jour.
+
+Ce soir-là, vers neuf heures, Dolly et la femme Harriett venaient de rentrer avec Zach Fren dans la maison qu\'elles occupaient près de la gare. La porte refermée, elles allaient chacune regagner leur chambre, lorsqu\'un léger coup fut frappé à l\'extérieur.
+
+Zach Fren revint sur le seuil, ouvrit la porte, et ne put retenir une exclamation de surprise.
+
+Devant lui, un petit paquet sous le bras, son chapeau à la main, se tenait le novice du *Brisbane*.
+
+En vérité, il semblait que Mrs. Branican eût deviné que c\'était lui !... Oui ! Et comment l\'expliquer ?... Bien qu\'elle ne s\'attendît point à voir ce jeune garçon, avait-elle conservé cette pensée qu\'il chercherait à se rapprocher d\'elle... Quoi qu\'il en soit, ce nom s\'échappa instinctivement de ses lèvres avant qu\'elle l\'eût aperçu :
+
+« Godfrey ! »
+
+Godfrey était arrivé, une demi-heure auparavant, par le train d\'Adelaïde.
+
+Quelques jours avant le départ du paquebot, après avoir demandé au capitaine du *Brisbane* le règlement de ses gages, le novice s\'était fait débarquer. Une fois à terre, il n\'avait pas essayé de se présenter à l\'hôtel de King-William-Street, où demeurait Mrs. Branican. Mais que de fois il l\'avait suivie, sans être vu d\'elle, sans chercher à lui parler ! D\'ailleurs, tenu au courant, il savait que Zach Fren était parti pour Farina-Town, afin d\'organiser une caravane. Aussi, dès qu\'il eut appris que Mrs. Branican avait quitté Adélaïde, il prit le train, bien résolu à la rejoindre.
+
+Que voulait donc Godfrey, et à quoi tendait cette démarche ?
+
+Ce qu\'il voulait, Dolly allait le savoir.
+
+Godfrey, introduit dans la maison, se trouvait en présence de Mrs. Branican.
+
+« C\'est vous... mon enfant... vous, Godfrey ? dit-elle en lui prenant la main.
+
+--- C\'est lui, et que veut-il ? murmura Zach Fren, avec un dépit très marqué, car la présence du novice lui paraissait extrêmement fâcheuse.
+
+--- Ce que je veux ?... répondit Godfrey. Je veux vous suivre, mistress, vous suivre aussi loin que vous irez, ne plus jamais me séparer de vous !... Je veux aller avec vous à la recherche du capitaine Branican, le retrouver, le ramener à San-Diégo, le rendre à ses amis... à son pays... »
+
+Dolly ne parvenait pas à se contenir. Les traits de cet enfant, c\'était tout John... son John bien-aimé, qu\'ils évoquaient à ses regards !
+
+Godfrey, à ses genoux, les mains tendues vers elle, d\'un ton suppliant, répétait :
+
+« Emmenez-moi... mistress... emmenez-moi !...
+
+--- Viens, mon enfant, viens ! » s\'écria Dolly, qui l\'attira sur son coeur.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5 -- À travers l\'Australie méridionale]{.pcalibre lang="X-NONE"}]{#_Toc342942248 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-5-à-travers-laustralie-méridionale .calibre171 .sigil_not_in_toc}
+
+Le départ de la caravane s\'effectua le 12 septembre, dès la première heure.
+
+Le temps était beau, la chaleur modérée avec petite brise. Quelques légers nuages atténuaient l\'ardeur des rayons solaires. Sous ce trente et unième parallèle, et à cette époque de l\'année, la saison chaude commençait à s\'établir franchement dans la zone du continent australien. Les explorateurs ne savent que trop combien ses excès sont redoutables, alors que ni pluie ni ombrage ne peuvent les tempérer sur les plaines du centre.
+
+Il était à regretter que les circonstances n\'eussent pas permis à Mrs. Branican d\'entreprendre sa campagne cinq ou six mois plus tôt. Durant l\'hiver, les épreuves d\'un tel voyage auraient été plus supportables. Les froids -- par suite desquels le thermomètre s\'abaisse quelquefois jusqu\'à la congélation de l\'eau -- sont moins à craindre que ces chaleurs, qui élèvent la colonne mercurielle au-delà de quarante degrés à l\'ombre. Antérieurement au mois de mai, les vapeurs se résolvent en averses abondantes, les creeks se revivifient, les puits se remplissent. On n\'a plus à faire des journées de marche pour rechercher une eau saumâtre, sous un ciel dévorant. Le désert australien est moins clément aux caravanes que le Sahara africain : celui-ci offre sur celui-là l\'avantage de posséder des oasis, on peut justement l\'appeler : « le pays de la soif » !
+
+Mais Mrs. Branican n\'avait eu à choisir ni son lieu ni son heure. Elle partait parce qu\'il fallait partir, elle braverait ces terribles éventualités du climat parce qu\'il fallait les braver. Retrouver le capitaine John, l\'arracher aux indigènes, cela ne demandait aucun retard, dût-elle succomber à la tâche comme avait succombé Harry Felton. Il est vrai, les privations qu\'avait supportées cet infortuné n\'étaient pas réservées à son expédition, organisée de manière à vaincre toutes les difficultés -- autant du moins que cela serait matériellement et moralement possible.
+
+On connaît la composition de la caravane, qui comptait quarante et une personnes depuis l\'arrivée de Godfrey. Voici l\'ordre adopté pendant la marche au nord de Farina-Town, au milieu des forêts et le long des creeks, où le cheminement ne présenterait aucun obstacle sérieux.
+
+En tête, allaient les quinze Australiens, vêtus d\'un pantalon et d\'une casaque de coton rayé, coiffés d\'un chapeau de paille, pieds nus, suivant leur habitude. Armés chacun d\'un fusil et d\'un revolver, la cartouchière à la ceinture, ils formaient l\'avant-garde sous la direction d\'un blanc, qui faisait fonction d\'éclaireur.
+
+Après eux, dans un buggy, attelé de deux chevaux, conduits par un cocher indigène, Mrs. Branican et la femme Harriett avaient pris place. Une capote, adaptée à la légère voiture et susceptible de se rabattre, leur permettrait de s\'abriter en cas de pluie ou d\'orage.
+
+Dans un second buggy se trouvaient Zach Fren et Godfrey. Quelque ennui que le maître eût ressenti de l\'arrivée du jeune novice, il ne devait pas tarder à l\'avoir en grande amitié, en le voyant si affectionné pour Mrs. Branican.
+
+Les quatre chariots à boeufs venaient ensuite, guidés par quatre bouviers, et la marche de la caravane devait être réglée sur le pas de ces animaux, dont l\'introduction en Australie, de date assez récente, a fait des auxiliaires très précieux pour les transports et les travaux de culture.
+
+Sur les flancs et à l\'arrière de la petite troupe, se succédaient les hommes de Tom Marix, vêtus à la façon de leur chef, pantalon enfoncé dans les bottes, casaque de laine serrée à la taille, chapeau-casque d\'étoffe blanche, portant en bandoulière un léger manteau de caoutchouc, et armés comme leurs compagnons de race indigène. Ces hommes, étant montés, devaient faire le service, soit pour choisir le lieu de la halte de midi ou du campement du soir, lorsque la seconde étape de la journée était près de finir.
+
+Dans ces conditions, la caravane était en mesure de faire douze à treize milles par jour, sur un sol très cahoteux, parfois à travers d\'épaisses forêts, où les chariots n\'avanceraient qu\'avec lenteur. Le soir venu, le soin d\'organiser la couchée incombait à Tom Marix, qui en avait l\'habitude. Puis, gens et bêtes se reposaient toute la nuit, et l\'on repartait au lever du jour.
+
+Le parcours entre Farina-Town et Alice-Spring -- environ trois cent cinquante milles[[\[10\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn10035){#_ftnref10035 .pcalibre2 .pcalibre1} -- n\'offrant ni dangers graves ni grandes fatigues, exigerait probablement une trentaine de jours. La station où il y aurait lieu de reconstituer la caravane, en vue d\'une exploration des déserts de l\'ouest, ne serait donc pas atteinte avant le premier tiers du mois d\'octobre.
+
+En quittant Farina-Town, l\'expédition put suivre pendant un certain nombre de milles les travaux entrepris pour la prolongation du railway. Elle s\'engagea dans l\'ouest du groupe des Williouran-Ranges, en prenant une direction jalonnée déjà par les poteaux de l\'Overland-Telegraf-Line.
+
+Tout en cheminant, Mrs. Branican demandait à Tom Marix, qui chevauchait près de son buggy, quelques renseignements sur cette ligne télégraphique.
+
+« C\'est en 1870, mistress, répondit Tom Marix, seize ans après la déclaration d\'indépendance de l\'Australie méridionale, que les colons eurent la pensée de créer cette ligne, du sud jusqu\'au nord du continent entre Port-Adélaïde et Port-Darwin. Les travaux furent conduits avec tant d\'activité qu\'ils étaient achevés au milieu de 1872.
+
+--- Mais n\'avait-il pas fallu que le continent eût été exploré sur toute cette étendue ? fit observer Mrs. Branican.
+
+--- En effet, mistress, répondit Tom Marix, et, dix ans auparavant, en 1860 et en 1861, Stuart, un de nos plus intrépides explorateurs, l\'avait traversé en poussant de nombreuses reconnaissances à l\'est et à l\'ouest.
+
+--- Et quel a été le créateur de cette ligne ? demanda Mrs. Branican.
+
+--- Un ingénieur aussi hardi qu\'intelligent, M. Todd, le directeur des postes et télégraphes d\'Adélaïde, un de nos concitoyens que l\'Australie honore comme il le mérite.
+
+--- Est-ce qu\'il a pu trouver ici le matériel que nécessitait une pareille oeuvre ?
+
+--- Non, mistress, répondit Tom Marix, et il a dû faire venir d\'Europe les isolateurs, les fils et même les poteaux de sa ligne. Actuellement, la colonie serait en mesure de fournir aux besoins de n\'importe quelle entreprise industrielle.
+
+--- Est-ce que les indigènes ont laissé exécuter ces travaux sans les troubler ?
+
+--- Au début, ils faisaient mieux ou plutôt pis que de les troubler, mistress Branican. Ils détruisaient le matériel, les fils pour se procurer du fer, les poteaux pour en fabriquer des haches. Aussi, sur un parcours de dix-huit cent cinquante milles[[\[11\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn11035){#_ftnref11035 .pcalibre2 .pcalibre1}, y eut-il des rencontres incessantes avec les Australiens, bien qu\'elles ne fussent point à leur avantage. Ils revenaient à la charge, et vraiment, je crois qu\'il aurait fallu abandonner l\'affaire, si M. Todd n\'avait eu une véritable idée d\'ingénieur et même une idée de génie. Après s\'être emparé de quelques chefs de tribus, il leur fit appliquer, au moyen d\'une forte pile, un certain nombre de secousses électriques dont ils furent à la fois si effrayés et si secoués que leurs camarades n\'osèrent plus s\'approcher des appareils. La ligne put alors être achevée, elle fonctionne maintenant d\'une façon régulière.
+
+--- N\'est-elle donc pas gardée par des agents ? demanda Mrs. Branican.
+
+--- Par des agents, non, répondit Tom Marix, mais par des escouades de la police noire, comme nous disons dans le pays..
+
+--- Et cette police, est-ce qu\'elle ne se porte jamais jusqu\'aux régions du centre et de l\'ouest ?
+
+--- Jamais, ou du moins très rarement, mistress. Il y a tant de malfaiteurs, de bushrangers et autres à poursuivre dans les districts habités !
+
+--- Mais comment l\'idée n\'est-elle pas venue de lancer cette police noire sur la trace des Indas, quand on a su que le capitaine Branican était leur prisonnier... et cela depuis quinze ans ?...
+
+--- Vous oubliez, mistress, que nous ne le savons et que vous ne le savez vous-même que par Harry Felton, et il y a quelques semaines au plus !
+
+--- C\'est juste, répondit Dolly, quelques semaines !...
+
+--- Je sais d\'ailleurs, reprit Tom Marix, que la police noire a reçu ordre d\'explorer les régions de la Terre de Tasman, qu\'un fort détachement doit y être envoyé ; mais je crains bien... »
+
+Tom Marix, s\'arrêta. Mrs. Branican ne s\'était point aperçue de son hésitation.
+
+C\'est que, si décidé qu\'il fût à remplir jusqu\'au bout les fonctions qu\'il avait acceptées, Tom Marix, on doit le dire, regardait comme très douteux le résultat de cette expédition. Il savait combien ces tribus nomades de l\'Australie sont difficiles à saisir. Aussi, ne pouvait-il partager ni la foi ardente de Mrs. Branican, ni la conviction de Zach Fren, ni la confiance instinctive de Godfrey. Cependant, on le répète, il ferait son devoir.
+
+Le 15 au soir, au détour des collines Deroy, la caravane vint camper à la bourgade de Boorloo. Au nord, on voyait poindre la cime du Mount-Attraction, au-delà duquel s\'étendent les Illusion-Plains. De ce rapprochement de noms, y a-t-il lieu de conclure que, si la montagne attire, la plaine est trompeuse ? Quoi qu\'il en soit, la cartographie australienne présente quelques-unes de ces désignations d\'un sens à la fois physique et moral.
+
+C\'est à Boorloo que la ligne télégraphique se coude presque à angle droit en se dirigeant vers l\'ouest. À une douzaine de milles, elle traverse le Cabanna-creek. Mais, ce qui est très simple pour des fils aériens tendus d\'un poteau à l\'autre, est plus difficile à une troupe de piétons et de cavaliers. Il fut nécessaire de chercher un passage guéable. Le jeune novice ne voulut point laisser à d\'autres le soin de le découvrir. S\'étant jeté résolument dans la rivière, rapide, tumultueuse, il trouva un haut-fond, qui permit aux chariots et aux voitures de se transporter sur la rive gauche, sans être mouillés au-delà du heurtequin de leurs roues.
+
+Le 17, la caravane vint camper sur les dernières ramifications du massif de ce mont North-West, qui se dresse à une dizaine de milles au sud.
+
+Le pays étant habité, Mrs. Branican et ses compagnons reçurent le meilleur accueil dans une de ces vastes fermes, dont la superficie, mise en oeuvre, comprend plusieurs milliers d\'acres[[\[12\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn12035){#_ftnref12035 .pcalibre2 .pcalibre1}. L\'élevage des moutons en troupeaux innombrables, la culture du blé établie sur de larges plaines sans arbres, d\'importantes cultures de sorgho et de millet, de vastes jachères préparées pour les semences de la saison prochaine, des bois pratiquement aménagés, des plantations d\'oliviers et autres essences spéciales à ces chaudes latitudes, plusieurs centaines d\'animaux de labour et de trait, le personnel exigé par les soins de telles exploitations -- personnel soumis à une discipline quasi militaire et dont les prescriptions réduisent l\'homme presque à l\'esclavage -- voilà ce que sont ces domaines, qui constituent la fortune des provinces du continent australien. Si la caravane de Mrs. Branican n\'eût été suffisamment approvisionnée au départ, elle aurait trouvé là de quoi satisfaire à tous ses besoins, grâce à la générosité des riches fermiers, des « freeselecters », propriétaires de ces stations agricoles.
+
+Du reste, ces grands établissements industriels tendent à se multiplier. D\'immenses étendues, que l\'absence d\'eau rendait improductives, vont être livrées à la culture. En effet, le sous-sol des territoires que la caravane traversait alors, à une douzaine de milles dans le sud-ouest du lac Eyre, était sillonné de nappes liquides, et les puits artésiens, nouvellement forés, débitaient jusqu\'à trois cent mille gallons[[\[13\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn13035){#_ftnref13035 .pcalibre2 .pcalibre1} par jour.
+
+Le 18 septembre, Tom Marix établit le campement du soir à la pointe méridionale du South-Lake-Eyre, qui dépend du North-Lake-Eyre, d\'une superficie considérable. On put apercevoir sur ses rives boisées une troupe de ces curieux échassiers, dont le « jabiru » est l\'échantillon le plus remarquable, et quelques bandes de cygnes noirs, mêlés aux cormorans, aux pélicans et aux hérons blancs, gris ou bleus de plumage.
+
+Curieuse disposition géographique, celle de ces lacs. Leur chapelet se déroule du sud au nord de l\'Australie, le lac Torrens, dont le railway suit la courbe, le petit lac Eyre, le grand lac Eyre, les lacs Frome, Blanche, Amédée. Ce sont des nappes d\'eau salée, antiques récipients naturels, où se seraient conservés les restes d\'une mer intérieure.
+
+En effet, les géologues sont portés à admettre que le continent australien fut autrefois divisé en deux îles, à une époque qui ne doit pas être extrêmement reculée. On avait observé déjà que la périphérie de ce continent, formé dans certaines conditions telluriques, tend à s\'élever au-dessus du niveau de la mer, et il ne semble pas douteux, d\'autre part, que le centre est soumis à un relèvement continu. L\'ancien bassin se comblera donc avec le temps, et amènera la disparition de ces lacs, échelonnés entre les cent trentième et cent quarantième degrés de latitude.
+
+De la pointe du South-Lake-Eyre jusqu\'à la station d\'Emerald-Spring, où elle arriva le 20 septembre au soir, la caravane franchit un espace de dix-sept milles environ à travers un pays couvert de forêts magnifiques, dont les arbres dressaient leur ramure à deux cents pieds de hauteur.
+
+Si habituée que fût Dolly aux merveilles forestières de la Californie, entre autres à ses séquoias gigantesques, elle aurait pu admirer cette étonnante végétation, si sa pensée ne l\'eût constamment emportée dans la direction du nord et de l\'ouest, au milieu de ces arides déserts, où la dune sablonneuse nourrit à peine quelques maigres arbrisseaux. Elle ne voyait rien de ces fougères géantes, dont l\'Australie possède les plus remarquables espèces, rien de ces énormes massifs d\'eucalyptus, au feuillage éploré, groupés sur de légères ondulations de terrain.
+
+Observation curieuse, la broussaille est absente du pied de ces arbres, le sol où ils vivent est nettoyé de ronces et d\'épines, leurs basses branches ne se développent qu\'à douze ou quinze pieds au-dessus des racines. Il n\'y reste qu\'une herbe jaune d\'or, jamais desséchée. Ce sont les animaux qui ont détruit les jeunes pousses, ce sont les feux allumés par les squatters qui ont dévoré buissons et arbustes. Aussi, bien qu\'il n\'y ait point, à parler vrai, de routes frayées à travers ces vastes forêts, si différentes des forêts africaines où l\'on marche six mois sans en trouver la fin, la circulation n\'y est-elle point embarrassée. Les buggys et les chariots allaient pour ainsi dire à l\'aise entre ces arbres largement espacés et sous le haut plafond de leur feuillage.
+
+De plus, Tom Marix connaissait le pays, l\'ayant maintes fois parcouru, lorsqu\'il dirigeait la police provinciale d\'Adélaïde. Mrs. Branican n\'aurait pu se fier à un guide plus sûr, plus dévoué. Aucun chef d\'escorte n\'aurait joint tant de zèle à tant d\'intelligence.
+
+Mais en outre, pour le seconder, Tom Marix trouvait un auxiliaire jeune, actif, résolu, dans ce jeune novice qui s\'était à tel point attaché à la personne de Dolly, et il s\'émerveillait de ce qu\'il sentait d\'ardeur chez ce garçon de quatorze ans. Godfrey parlait de se lancer seul, en cas de besoin, au milieu des régions de l\'intérieur. Si quelques traces du capitaine John étaient découvertes, il serait difficile, impossible même de le retenir dans le rang. Tout en lui, son enthousiasme lorsqu\'il s\'entretenait du capitaine, son assiduité à consulter les cartes de l\'Australie centrale, à prendre des notes, à se renseigner dans les haltes au lieu de se livrer au repos après la longueur et la fatigue des étapes, tout dénotait dans cette âme passionnée une effervescence que rien ne pouvait tempérer. Très robuste pour son âge, endurci déjà aux rudes épreuves de la vie de marin, il devançait le plus souvent la caravane, il s\'éloignait hors de vue. Restait-il à sa place, ce n\'était que sur l\'ordre formel de Dolly. Ni Zach Fren, ni Tom Marix, bien que Godfrey leur témoignât grande amitié, n\'auraient pu obtenir ce qu\'elle obtenait d\'un regard. Aussi s\'abandonnant à ses sentiments instinctifs en présence de cet enfant, portrait physique et moral de John, elle éprouvait pour lui une affection de mère. Si Godfrey n\'était pas son fils, s\'il ne l\'était pas suivant les lois de la nature, il le serait par les lois de l\'adoption, du moins. Godfrey ne la quittait plus. John partagerait l\'affection qu\'elle ressentait pour cet enfant.
+
+Un jour, après une absence qui s\'était prolongée et l\'avait conduit à quelques milles en avant de la caravane :
+
+« Mon enfant, lui dit-elle, je veux que tu me fasses la promesse de ne jamais t\'écarter sans mon consentement. Lorsque je te vois partir je suis inquiète jusqu\'à ton retour. Tu nous laisses pendant des heures sans nouvelles...
+
+--- Mistress Dolly, répondit le jeune novice, il faut bien que je recueille des renseignements... On avait signalé une tribu d\'indigènes nomades, qui campait sur le Warmer-creek... J\'ai voulu voir le chef de cette tribu... l\'interroger...
+
+--- Et qu\'a-t-il dit ?... demanda Dolly.
+
+--- Il avait entendu parler d\'un homme blanc, qui venait de l\'ouest en se dirigeant vers les districts du Queensland.
+
+--- Quel était cet homme ?...
+
+--- J\'ai fini par comprendre qu\'il s\'agissait de Harry Felton et non du capitaine Branican. Nous le retrouverons, pourtant... oui ! Nous le retrouverons !... Ah ! Mistress Dolly, je l\'aime comme je vous aime, vous qui êtes pour moi une mère !
+
+--- Une mère ! murmura Mrs. Branican.
+
+--- Mais je vous connais, tandis que lui, le capitaine John, je ne l\'ai jamais vu !... Et, sans cette photographie que vous m\'avez donnée... que je porte toujours sur moi... ce portrait à qui je parle... qui semble me répondre...
+
+--- Tu le connaîtras un jour, mon enfant, répondit Dolly, et il t\'aimera autant que je t\'aime ! »
+
+Le 24 septembre, après avoir campé à Strangway-Spring, au-delà du Warmer-creek, l\'expédition vint faire halte à William-Spring, quarante-deux milles au nord de la station d\'Emerald. On voit, par cette qualification de « spring » -- mot qui signifie « sources », donnée aux diverses stations -- que le réseau liquide est assez important à la surface de ces territoires sillonnés par la ligne télégraphique. Déjà, cependant, la saison chaude était suffisamment avancée pour que ces sources fussent sur le point de se tarir, et il n\'était pas difficile de trouver des gués pour les attelages lorsqu\'il s\'agissait de faire passer quelque creek.
+
+On pouvait observer, d\'ailleurs, que la puissante végétation ne tendait pas à s\'amoindrir encore. Si les villages ne se rencontraient qu\'à de plus longs intervalles, les établissements agricoles se succédaient d\'étape en étape. Des haies d\'acacias épineux, entremêlées de quelques églantiers à fleurs odorantes, dont l\'air était embaumé, leur formaient des enclos impénétrables. Quant aux forêts, moins épaisses, les arbres d\'Europe, le chêne, le platane, le saule, le peuplier, le tamarinier, s\'y raréfiaient au profit des eucalyptus et surtout de ces gommiers qui sont nommés « spotted-gums » par les Australiens.
+
+« Quels diables d\'arbres est-ce là ? s\'écria Zach Fren la première fois qu\'il aperçut une cinquantaine de ces gommiers réunis en massif. On dirait que leur tronc est peinturluré de toutes les couleurs de l\'arc-en-ciel.
+
+--- Ce que vous appelez une couche de peinture, maître Zach, répondit Tom Marix, c\'est une couleur naturelle. L\'écorce de ces arbres se nuance suivant que la végétation avance ou retarde. En voici qui sont blancs, d\'autres roses, d\'autres rouges. Tenez ! Regardez ceux-là, dont le tronc est rayé de bandes bleues ou tacheté de plaques jaunes...
+
+--- Encore une drôlerie de plus à joindre à celles qui distinguent votre continent, Tom Marix.
+
+--- Drôlerie si vous voulez, mais croyez bien, Zach, que vous faites un compliment à mes compatriotes en leur répétant que leur pays ne ressemble à aucun autre. Et il ne sera parfait...
+
+--- Que lorsqu\'il n\'y restera plus un seul indigène ; c\'est entendu ! » répliqua Zach Fren.
+
+Ce qu\'il y avait à remarquer également, c\'est que, malgré l\'insuffisant ombrage de ces arbres, les oiseaux les recherchaient en grand nombre. C\'étaient quelques pies, quelques perruches, des cacatoès d\'une blancheur éclatante, des ocelots rieurs, qui, suivant l\'observation de M. D. Charnay, mériteraient mieux le nom d\'« oiseaux sangloteurs » ; puis des « tandalas » à la gorge rouge, dont le caquet est intarissable ; des écureuils volants, entre autres le « polatouche » que les chasseurs attirent en imitant le cri des oiseaux nocturnes ; des oiseaux de paradis et spécialement ce « rifle-bird » au plumage de velours, qui passe pour le plus beau spécimen de l\'ornithologie australienne ; enfin, à la surface des lagunes ou des fonds marécageux, des couples de grues et de ces oiseaux-lotus, auxquels la conformation de leurs pattes permet de courir à la surface des feuilles du nénuphar.
+
+D\'autre part, les lièvres abondaient, et on ne se faisait pas faute de les abattre, sans parler des perdrix et des canards -- ce qui permettait à Tom Marix d\'économiser sur les réserves de l\'expédition. Ce gibier était tout bonnement grillé ou rôti au feu du campement. Parfois aussi, on déterrait les oeufs d\'iguane, qui sont excellents, et meilleurs que l\'iguane même, dont les noirs de l\'escorte se délectaient volontiers.
+
+Quant aux creeks, ils fournissaient encore des perches, quelques brochets à long museau, nombre de ces muges si alertes qu\'elles sautent par-dessus la tête du pêcheur, et surtout des anguilles par myriades. Entre temps, il fallait prendre garde aux crocodiles, qui ne laissent pas d\'être très dangereux dans leur milieu aquatique. De tout ceci, il résulte que lignes ou filets sont des engins dont le voyageur en Australie doit se munir, conformément à l\'expresse recommandation du colonel Warburton.
+
+Le 29, au matin la caravane quitta la station de Umbum et s\'engagea sur un sol montueux, très rude aux piétons. Quarante-huit heures après, à l\'ouest des Denison-Ranges, elle atteignait la station de The-Peak, récemment établie pour les besoins du service télégraphique. Ainsi que l\'apprit Mrs. Branican, grâce à un récit détaillé que Tom Marix lui fit des voyages de Stuart, c\'était de ce point que l\'explorateur était remonté vers le nord, en parcourant ces territoires presque inconnus avant lui.
+
+À partir de cette station, sur un espace de soixante milles environ, la caravane eut un avant-goût des fatigues que lui réservait la traversée du désert australien. Il fallut cheminer sur un sol très aride jusqu\'aux bords de la Macumba-river, puis, au-delà, franchir un espace à peu près égal et non moins pénible à la marche jusqu\'à la station de Lady Charlotte.
+
+Sur ces vastes plaines ondulées, variées çà et là par quelques bouquets d\'arbres au feuillage décoloré, le gibier, si toutefois cette qualification est exacte, ne faisait pas défaut. Là sautaient des kangourous d\'une petite espèce, des « wallabis », qui s\'enfuyaient par bonds énormes. Là couraient des opossums de cette variété des bandicoutes et des dyasures, qui nichent -- c\'est le mot -- à la cime des gommiers. Puis, on apercevait quelques couples de casoars, au regard provocant et fier comme celui de l\'aigle, mais qui ont cet avantage, sur le roi des oiseaux, de fournir une chair grasse et nourrissante, presque identique à la chair du boeuf. Les arbres, c\'étaient des « bungas-bungas », sorte d\'araucarias, qui, dans les régions méridionales centrales de l\'Australie, atteignent une hauteur de deux cent cinquante pieds. Ces pins, ici de taille plus modeste, produisent une grosse amande assez nutritive, dont les Australiens font un usage habituel.
+
+Tom Marix avait eu soin de prévenir ses compagnons de la rencontre possible de ces ours, qui élisent domicile dans le tronc creux des gommiers. C\'est même ce qui arriva ; mais ces plantigrades, désignés sous le nom de « potorous », n\'étaient guère plus à craindre que des marsupiaux à longues griffes.
+
+Quant aux indigènes, la caravane en avait à peine rencontré jusqu\'alors. En effet, c\'est au nord, à l\'est et à l\'ouest de l\'Overland-Telegraf-Line, que les tribus vont de campements en campements.
+
+En traversant ces contrées, de plus en plus arides, Tom Marix eut lieu de mettre à profit un instinct très particulier des boeufs attelés aux chariots. Cet instinct, qui semble s\'être développé dans la race depuis son introduction sur le continent australien, permet à ces animaux de se diriger vers les creeks, où ils pourront satisfaire leur soif. Il est rare qu\'ils se trompent, et le personnel n\'a qu\'à les suivre. En outre, leur instinct est fort apprécié en des circonstances qui se présentent quelquefois.
+
+En effet, dans la matinée du 7 octobre, les boeufs du chariot de tête s\'arrêtèrent brusquement. Ils furent aussitôt imités par les autres attelages. Les conducteurs eurent beau les stimuler de leur aiguillon, ils ne parvinrent pas à les décider à avancer d\'un pas.
+
+Tom Marix, aussitôt prévenu, se rendit près du buggy de Mrs. Branican.
+
+« Je sais ce que c\'est, mistress, dit-il. Si nous n\'avons pas encore rencontré des indigènes sur notre route, nous croisons en ce moment un sentier qu\'ils ont l\'habitude de suivre, et, comme nos boeufs ont flairé leurs traces, ils refusent d\'aller au-delà.
+
+--- Quelle est la raison de cette répugnance ? demanda Dolly.
+
+--- La raison, on ne la connaît pas au juste, répondit Tom Marix, mais le fait n\'en est pas moins indiscutable. Ce que je croirais volontiers, c\'est que les premiers boeufs importés en Australie, fort maltraités par les indigènes, ont dû garder le souvenir de ces mauvais traitements, et que ce souvenir s\'est transmis de génération en génération... »
+
+Que cette singularité de l\'atavisme, indiquée par le chef de l\'escorte, fût ou non la raison de leur défiance, on ne put absolument pas résoudre les boeufs à continuer leur marche en avant. Il fallut les dételer, les retourner de tête en queue, puis, à coups de fouet et d\'aiguillon, les contraindre à faire une vingtaine de pas à reculons. De la sorte, ils enjambèrent le sentier contaminé par le passage des indigènes, et, lorsqu\'ils eurent été remis sous le joug, les chariots reprirent la direction du nord.
+
+Lorsque la caravane atteignit les bords de la rivière Macumba, chacun eut amplement de quoi se désaltérer. Il est vrai, l\'étiage avait déjà décru de moitié par suite des chaleurs qui étaient fortes. Mais là où il n\'y a pas assez d\'eau pour faire flotter un squiff, il en reste plus qu\'il est nécessaire au désaltèrement d\'une quarantaine de personnes et d\'une vingtaine de bêtes.
+
+Le 6, l\'expédition passait le creek Hamilton sur les pierres à demi noyées qui encombraient son lit ; le 8, elle laissait dans l\'est le mont Hammersley ; le 10, dans la matinée, elle faisait halte à la station de Lady Charlotte, après avoir franchi trois cent vingt milles depuis le départ de Farina-Town.
+
+Mrs. Branican se trouvait alors sur la limite qui sépare l\'Australie méridionale de la Terre Alexandra, nommée aussi Northern-Territory. C\'est ce territoire qui fut reconnu par l\'explorateur Stuart en 1860, lorsqu\'il remonta le cent trente et unième méridien jusqu\'au vingt et unième degré de latitude.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6 -- Rencontre inattendue]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942249 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6-rencontre-inattendue .calibre171 .sigil_not_in_toc}
+
+À la station de Lady Charlotte, Tom Marix avait demandé à Mrs. Branican d\'accorder vingt-quatre heures de repos. Bien que le cheminement se fût effectué sans obstacles, la chaleur avait fatigué les bêtes de trait. La route était longue jusqu\'à Alice-Spring, et il importait que les chariots, qui transportaient le matériel, fussent assurés d\'y arriver.
+
+Dolly se rendit aux raisons que fit valoir le chef de l\'escorte, et l\'on s\'installa du mieux possible. Quelques cabanes, c\'était tout ce qui composait cette station, dont la caravane allait tripler la population pendant un jour. Il fallut dès lors établir un campement. Mais un squatter, qui dirigeait un important établissement du voisinage, vint offrir à Mrs. Branican une hospitalité plus confortable, et ses instances furent telles qu\'elle dut accepter de se rendre à Waldek-Hill, où une habitation assez confortable était mise à sa disposition.
+
+Ce squatter n\'était que locataire de l\'un de ces vastes domaines, appelés « runs », dans la campagne australienne. Il est tel de ces runs qui comprend jusqu\'à six cent mille hectares, particulièrement dans la province de Victoria. Bien que celui de Waldek-Hill n\'atteignît pas cette dimension, il ne laissait pas d\'être considérable. Entouré de « paddocks », sortes de clôtures, il était spécialement consacré à l\'élevage des moutons -- ce qui nécessitait un assez grand nombre d\'employés, de bergers affectés au gardiennage des troupeaux, et de ces chiens sauvages, dont l\'aboiement rappelle le hurlement du loup.
+
+C\'est la qualité du sol qui détermine le choix de la station, lorsqu\'il s\'agit d\'établir un run. On préfère ces plaines où croît naturellement le « salt bush », le buisson salé. Ces buissons aux sucs nutritifs, qui ressemblent tantôt au plant de l\'asperge, tantôt à celui de l\'anis, sont avidement recherchés des moutons, qui appartiennent à l\'espèce des « pig\'s faces » à têtes de porcs. Aussitôt que les terrains ont été reconnus propres à la pâture, on s\'occupe de les transformer en herbages. On les livre d\'abord aux boeufs et aux vaches qui se contentent de leur herbe native, tandis que les moutons, plus difficiles sur la nourriture, n\'acceptent que l\'herbe fine de la seconde pousse.
+
+Qu\'on ne l\'oublie pas, c\'est à la laine que produit le mouton qu\'est due la grande richesse des provinces australiennes, et, actuellement, on n\'y compte pas moins de cent millions de ces représentants de la race ovine.
+
+Sur ce run de Waldek-Hill, autour de la maison principale et du logement des employés, de larges étangs, qu\'alimentait un creek pourvu en abondance d\'eau, étaient destinés au lavage des animaux avant l\'opération de la tonte. En face s\'élevaient des hangars, où le squatter rangeait les ballots de laine qu\'il devait expédier par convois sur le port d\'Adélaïde.
+
+À cette époque, cette opération de la tonte battait son plein au run de Waldek-Hill. Depuis plusieurs jours, une troupe de tondeurs nomades, ainsi que cela a lieu d\'habitude, était venue y exercer sa lucrative industrie.
+
+Lorsque Mrs. Branican, accompagnée de Zach Fren, eut franchi les barrières, elle fut frappée de l\'étonnante animation qui régnait dans l\'enclos. Les ouvriers, travaillant à leur pièce, ne perdaient pas un moment, et, comme les plus adroits peuvent dépouiller de leur toison une centaine de moutons par jour, ils s\'assurent ainsi un gain qui peut s\'élever à une livre. Le grincement des larges ciseaux entre les mains du tondeur, les bêlements des bêtes, lorsqu\'elles recevaient quelque coup mal dirigé, les appels des hommes entre eux, l\'allée et venue des ouvriers chargés d\'enlever la laine pour la transporter sous les hangars, cela était curieux à observer. Et, au-dessus de ce brouhaha, dominaient les clameurs de petits garçons criant : « tar !... tar ! » lorsqu\'ils apportaient des jattes de goudron liquide, afin de panser les blessures produites par les tondeurs trop maladroits.
+
+À tout ce monde il faut des surveillants, si l\'on veut que le travail s\'accomplisse dans de bonnes conditions. Aussi s\'en trouvait-il quelques-uns au run de Waldek-Hill, indépendamment des employés du bureau de la comptabilité, c\'est-à-dire une douzaine d\'hommes et de femmes, qui obtenaient là le moyen de vivre.
+
+Et quelle fut la surprise de Mrs. Branican -- plus que de la surprise, de la stupéfaction -- lorsqu\'elle entendit son nom prononcé à quelques pas derrière elle.
+
+Une femme venait d\'accourir. Elle s\'était jetée à ses genoux, les mains tendues, le regard suppliant...
+
+C\'était Jane Burker -- Jane moins vieillie par les années que par la peine, les cheveux gris, le teint hâlé, presque méconnaissable, mais que Dolly reconnut pourtant.
+
+« Jane !... » s\'écria-t-elle.
+
+Elle l\'avait relevée, et les deux cousines étaient dans les bras l\'une de l\'autre.
+
+Quelle avait donc été depuis douze ans la vie des Burker ? Une vie misérable -- et même une vie criminelle en ce qui concernait du moins l\'époux de l\'infortunée Jane.
+
+En quittant San-Diégo, pressé d\'échapper aux poursuites qui le menaçaient, Len Burker s\'était réfugié à Mazatlan, l\'un des ports de la côte occidentale du Mexique. On s\'en souvient, il laissait à Prospect-House la mulâtresse Nô, chargée de veiller sur Dolly Branican qui n\'avait pas recouvré la raison à cette époque. Mais, peu de temps après, quand la malheureuse folle eut été placée dans la maison de santé du docteur Brumley par les soins de M. William Andrew, la mulâtresse, n\'ayant plus aucun motif de rester au chalet, était partie pour rejoindre son maître, dont elle connaissait la retraite.
+
+C\'était sous un faux nom que Len Burker avait cherché refuge à Mazatlan, où la police californienne n\'avait pu le découvrir. D\'ailleurs, il ne demeura que quatre ou cinq semaines dans cette ville. À peine trois milliers de piastres -- solde de tant de sommes dilapidées, et, en particulier, de la fortune personnelle de Mrs. Branican -- constituaient tout son avoir. Reprendre ses affaires aux États-Unis n\'était plus possible, et il résolut de quitter l\'Amérique. L\'Australie lui parut un théâtre favorable pour tenter la fortune par tous les moyens, avant d\'en être réduit à son dernier dollar.
+
+Jane, toujours sous l\'absolue domination de son mari, n\'aurait pas eu la force de lui résister. Mrs. Branican, son unique parente, était alors privée de raison. En ce qui concernait le capitaine John, il n\'y avait plus de doute sur son sort... Le *Franklin* avait péri corps et biens... John ne reviendrait jamais à San-Diégo... Rien ne pouvait désormais arracher Jane à cette triste destinée vers laquelle l\'entraînait Len Burker, et c\'est dans ces conditions qu\'elle fut transportée sur le continent australien.
+
+C\'était à Sydney que Len Burker avait débarqué. Ce fut là qu\'il consacra ses dernières ressources à se lancer dans un courant d\'affaires, où il fit de nouvelles dupes, en déployant plus d\'habileté qu\'à San-Diégo. Puis, il ne tarda pas à se lancer dans des spéculations aventureuses et n\'arriva qu\'à perdre les quelques gains que son travail lui avait procurés au début.
+
+Dix-huit mois après s\'être réfugié en Australie, Len Burker dut s\'éloigner de Sydney. En proie à une gêne qui touchait à la misère, il fut contraint de chercher fortune ailleurs. Mais la fortune ne le favorisa pas davantage à Brisbane, d\'où il s\'échappa bientôt pour se réfugier dans les districts reculés du Queensland.
+
+Jane le suivait. Victime résignée, elle fut réduite à travailler de ses mains, afin de subvenir aux besoins du ménage. Rudoyée, maltraitée par cette mulâtresse qui continuait à être le mauvais génie de Len Burker, que de fois l\'infortunée eut la pensée de s\'enfuir, de briser la vie commune, d\'en finir avec les humiliations et les déboires !... Mais cela était au-dessus de son caractère faible et indécis. Pauvre chien que l\'on frappe et qui n\'ose quitter la maison de son maître !
+
+À cette époque, Len Burker avait appris par les journaux les tentatives faites dans le but de retrouver les survivants du *Franklin*. Ces deux expéditions du *Dolly*-*Hope*, entreprises par les soins de Mrs. Branican, l\'avaient mis en même temps au courant de cette situation nouvelle : 1° Dolly avait recouvré la raison, après une période de quatre ans, pendant laquelle elle était restée dans la maison du docteur Brumley ; 2° Au cours de cette période, son oncle Edward Starter étant mort au Tennessee, l\'énorme richesse qui lui était échue par héritage, avait permis d\'organiser ces deux campagnes dans les mers de la Malaisie et sur les côtes de l\'Australie septentrionale. Quant à leur résultat définitif, c\'était la certitude acquise que les débris du *Franklin* avaient été retrouvés sur les récifs de l\'île Browse, et que le dernier survivant de l\'équipage avait succombé dans cette île.
+
+Entre la fortune de Dolly et Jane, sa seule héritière, il n\'y avait plus qu\'une mère ayant perdu son enfant, une épouse ayant perdu son mari, et dont tant de malheurs devaient avoir compromis la santé. Ce fut ce que se dit Len Burker. Mais que pouvait-il tenter ? Reprendre les relations de famille avec Mrs. Branican, c\'était impossible. Lui demander des secours par l\'intermédiaire de Jane, il se défiait, étant sous le coup de poursuites, à la merci d\'une extradition qui aurait été obtenue contre sa personne. Et cependant, si Dolly venait à mourir, par quel moyen empêcher sa succession d\'échapper à Jane, c\'est-à-dire à lui-même ?
+
+On ne l\'a point oublié, sept années environ s\'écoulèrent entre le retour du *Dolly*-*Hope* après sa seconde campagne, jusqu\'au moment où la rencontre de Harry Felton vint remettre en question la catastrophe du *Franklin*.
+
+Pendant ce laps de temps, l\'existence de Len Burker devint plus misérable qu\'elle ne l\'avait encore été. Des faits délictueux qu\'il avait accomplis sans aucun remords, il glissa sur la pente des faits criminels. Il n\'eut même plus de domicile fixe, et Jane fut contrainte de se soumettre aux exigences de sa vie nomade.
+
+La mulâtresse Nô était morte ; mais Mrs. Burker ne recueillit aucun bénéfice de la mort de cette femme, dont l\'influence avait été si funeste à son mari. N\'étant plus que la compagne d\'un malfaiteur, celui-ci l\'obligea à le suivre sur ces vastes territoires, où tant de crimes restent impunis. Après l\'épuisement des mines aurifères de la province de Victoria et la dispersion des milliers de « diggers », qui se trouvèrent sans ouvrage, le pays fut envahi par une population peu accoutumée à la soumission et au respect des lois au milieu du monde interlope des placers. Aussi s\'était-il bientôt formé une classe redoutable de ces déclassés, de ces gens sans aveu, connus dans les districts du Sud-Australie sous le nom de « larrikins ». C\'étaient eux qui couraient les campagnes et en faisaient le théâtre de leurs criminels agissements, lorsqu\'ils étaient traqués de trop près par les polices urbaines.
+
+Tels furent les compagnons auxquels s\'associa Len Burker, quand sa notoriété lui eut interdit l\'accès des villes. Puis, à mesure qu\'il reculait à travers les régions moins surveillées, il se liait avec des bandes de scélérats nomades, entre autres ces farouches « bushrangers », qui datent des premières années de la colonisation, et dont la race n\'est pas éteinte.
+
+Voilà à quel degré de l\'échelle sociale était descendu Len Burker ! Au cours de ces dernières années, dans quelles mesures prit-il part au pillage des fermes, aux vols de grands chemins, à tous les crimes que la justice fut impuissante à réprimer, lui seul eût pu le dire. Oui ! lui seul, car Jane, presque toujours abandonnée en quelque bourgade, ne fut point mise dans le secret de ces actes abominables. Et peut-être le sang avait-il été répandu par la main de l\'homme qu\'elle n\'estimait plus, et que, cependant, elle n\'eût jamais voulu trahir !
+
+Douze ans s\'étaient écoulés, lorsque la réapparition de Harry Felton vint derechef passionner l\'opinion publique. Cette nouvelle fut répandue par les journaux et notamment par les nombreuses feuilles de l\'Australie. Len Burker l\'apprit en lisant un numéro du *Sydney* *Morning* *Herald*, dans une petite bourgade du Queensland, où il s\'était alors réfugié, après une affaire de pillage et d\'incendie, qui grâce à l\'intervention de la police, n\'avait pas précisément tourné à l\'avantage des bushrangers.
+
+En même temps qu\'il était instruit des faits concernant Harry Felton, Len Burker apprenait que Mrs. Branican avait quitté San-Diégo pour venir à Sydney, afin de se mettre en rapport avec le second du *Franklin*. Presque aussitôt circulait le bruit que Harry Felton était mort, après avoir pu donner certaines indications relatives au capitaine John. Environ quinze jours plus tard, Len Burker était informé que Mrs. Branican venait de débarquer à Adélaïde, à dessein d\'organiser une expédition, à laquelle elle prendrait part et qui aurait pour but de visiter les déserts du centre et du nord-ouest de l\'Australie.
+
+Lorsque Jane connut l\'arrivée de sa cousine sur le continent, son premier sentiment fut de se sauver, de chercher un refuge près d\'elle. Mais, devant les menaces de Len Burker qui l\'avait devinée, elle n\'osa donner suite à son désir.
+
+C\'est alors que le misérable résolut d\'exploiter cette situation sans temporiser. L\'heure était décisive. Rencontrer Mrs. Branican sur sa route, rentrer en grâce près d\'elle, à l\'aide d\'hypocrisies calculées, obtenir de l\'accompagner au milieu des solitudes australiennes, rien de moins difficile, en somme, et qui tendrait plus sûrement à son but. Il n\'était guère probable, en effet, que le capitaine John, en admettant qu\'il vécût encore, pût être retrouvé chez ces indigènes nomades, et il était possible que Dolly succombât au cours de cette dangereuse campagne. Toute sa fortune alors reviendrait à Jane, sa seule parente... Qui sait ?... Il y a de ces hasards si profitables, lorsqu\'on a le talent de les faire naître...
+
+Bien entendu, Len Burker se garda d\'instruire Jane de son projet de renouer des relations avec Mrs. Branican. Il se sépara des bushrangers, sauf à réclamer plus tard leurs bons offices, s\'il y avait lieu de recourir à quelque coup de main. Accompagné de Jane, il quitta le Queensland, se dirigea vers la station de Lady Charlotte, dont il n\'était distant que d\'une centaine de milles, et par laquelle la caravane devait nécessairement passer en se rendant à Alice-Spring. Et voilà pourquoi depuis trois semaines, Len Burker se trouvait au run de Waldek-Hill, où il remplissait les fonctions de surveillant. C\'est là qu\'il attendait Dolly, fermement décidé à ne reculer devant aucun crime pour devenir possesseur de son héritage.
+
+En arrivant à la station de Lady Charlotte, Jane ne se doutait de rien. Aussi quelle fut son émotion, l\'irrésistible et irraisonné mouvement auquel elle obéit, lorsqu\'elle se trouva inopinément en présence de Mrs. Branican. Cela, d\'ailleurs, servait trop bien les projets de Len Burker pour qu\'il eût la pensée d\'y faire obstacle.
+
+Len Burker avait alors quarante-cinq ans. Ayant peu vieilli, resté droit et vigoureux, il avait toujours ce même regard fuyant et faux, cette physionomie empreinte de dissimulation, qui inspirait la méfiance. Quant à Jane, elle paraissait avoir dix ans de plus que son âge, les traits flétris, les cheveux blanchis aux tempes, le corps accablé. Et pourtant, son regard, éteint par la misère, s\'enflamma, lorsqu\'il se porta sur Dolly.
+
+Après l\'avoir serrée entre ses bras, Mrs. Branican avait emmené Jane dans une des chambres mises à sa disposition par le squatter de Waldek-Hill. Là, il fut loisible aux deux femmes de s\'abandonner à leurs sentiments. Dolly ne se souvenait que des soins dont Jane l\'avait entourée au chalet de Prospect-House. Elle n\'avait rien à lui reprocher, et elle était prête à pardonner à son mari, s\'il consentait à ne plus les séparer l\'une de l\'autre.
+
+Toutes deux causèrent longuement. Jane ne dit de son passé que ce qu\'elle en pouvait dire sans compromettre Len Burker, et Mrs. Branican se montra très réservée en la questionnant à ce sujet. Elle sentait combien la pauvre créature avait souffert et souffrait encore. Cela ne lui suffisait-il pas qu\'elle fût digne de toute sa pitié, digne de toute son affection ? La situation du capitaine John, cette inébranlable assurance qu\'elle avait de le retrouver bientôt, les efforts qu\'elle tenterait pour y réussir, voilà ce dont elle parla surtout -- puis aussi de son cher petit Wat... Et, lorsqu\'elle en évoqua le souvenir toujours vivant en elle, Jane devint si pâle, sa figure subit une altération telle que Dolly crut que la pauvre femme allait se trouver mal.
+
+Jane parvint à se dominer, et il fallut qu\'elle racontât sa vie depuis la funeste journée où sa cousine était devenue folle jusqu\'à l\'époque où Len Burker l\'avait contrainte à quitter San-Diégo.
+
+« Est-il possible, ma pauvre Jane, dit alors Dolly, est-il possible, que, pendant ces quatorze mois, alors que tu me donnais tes soins, il ne se soit jamais fait un éclaircissement dans mon esprit ?... Est-il possible que je n\'aie eu aucun souvenir de mon pauvre John ?... Est-il possible que je n\'aie jamais prononcé son nom... ni celui de notre petit Wat ?...
+
+--- Jamais, Dolly, jamais ! murmura Jane, qui ne pouvait retenir ses larmes.
+
+--- Et toi, Jane, toi, mon amie, toi qui es de mon sang, tu n\'as pas plus avant lu dans mon âme ?... Tu ne t\'es aperçue, ni dans mes paroles ni dans mes regards, que j\'eusse conscience du passé ?....
+
+--- Non... Dolly !
+
+--- Eh bien, Jane, je vais te dire ce que je n\'ai dit à personne. Oui... lorsque je suis revenue à la raison... oui... j\'ai eu le pressentiment que John était vivant, que je n\'étais pas veuve... Et il m\'a semblé aussi...
+
+--- Aussi ?... » demanda Jane.
+
+Les yeux empreints d\'une terreur inexplicable, le regard effaré, elle attendait ce que Dolly allait dire.
+
+« Oui ! Jane, reprit Dolly, j\'ai eu le sentiment que j\'étais toujours mère ! »
+
+Jane s\'était relevée, ses mains battaient l\'air comme si elle eût voulu chasser quelque horrible image, ses lèvres s\'agitaient sans qu\'elle parvînt à prononcer une parole. Dolly, absorbée dans sa propre pensée, ne remarqua pas cette agitation, et Jane était parvenue à retrouver un peu de calme à l\'extérieur du moins, lorsque son mari se montra à la porte de la chambre.
+
+Len Burker, resté sur le seuil, regardait sa femme et semblait lui demander :
+
+« Qu\'as-tu dit ? »
+
+Jane retomba anéantie devant cet homme. Invincible domination d\'un esprit fort sur un esprit faible, Jane était annihilée sous le regard de Len Burker.
+
+Mrs. Branican le comprit. La vue de Len Burker lui rappela son passé, et ce que Jane avait enduré près de lui. Mais cette révolte de son coeur ne dura qu\'un instant. Dolly était résolue à écarter ses récriminations, à dompter ses répulsions, afin de ne plus être séparée de la malheureuse Jane.
+
+« Len Burker, dit-elle, vous savez pourquoi je suis venue en Australie. C\'est un devoir auquel je me dévouerai jusqu\'au jour où je reverrai John, car John est vivant. Puisque le hasard vous a placé sur ma route, puisque j\'ai retrouvé Jane, la seule parente qui me reste, laissez-la-moi, et permettez qu\'elle m\'accompagne comme elle le désire... »
+
+Len Burker fit attendre sa réponse. Sentant quelles préventions existaient contre lui, il voulait que Mrs. Branican complétât sa proposition en le priant de se joindre à la caravane. Toutefois, devant le silence que gardait Dolly, il crut devoir s\'offrir lui-même.
+
+« Dolly, dit-il, je répondrai sans détours à votre demande, et j\'ajouterai que je m\'y attendais. Je ne refuserai pas, et je consens très volontiers à ce que ma femme reste près de vous. Ah ! La vie nous a été dure à tous deux depuis que la mauvaise chance m\'a forcé d\'abandonner San-Diégo ! Nous avons beaucoup souffert pendant les quatorze ans qui viennent de s\'écouler, et, vous le voyez, la fortune ne m\'a guère favorisé sur la terre australienne, puisque j\'en suis réduit à gagner ma vie au jour le jour. Lorsque l\'opération de la tonte sera terminée au run de Waldek-Hill, je ne saurai où me procurer d\'autre travail. Aussi, comme, en même temps, il me serait pénible de me séparer de Jane, je sollicite de vous à mon tour la permission de me joindre activement à votre expédition. Je connais les indigènes de l\'intérieur avec lesquels j\'ai déjà eu parfois des rapports, et je serai en mesure de vous rendre des services. Vous n\'en doutez pas, Dolly, je serais heureux d\'associer mes efforts à ceux que vous et vos compagnons ferez pour délivrer John Branican... »
+
+Dolly comprit bien que c\'était là une condition formelle imposée par Len Burker pour qu\'il consentît à lui laisser Jane. Il n\'y avait pas à discuter avec un pareil homme. D\'ailleurs, s\'il était de bonne foi, sa présence pouvait ne pas être inutile, puisque, pendant nombre d\'années, sa vie errante l\'avait conduit à travers les régions centrales du continent. Mrs. Branican se borna donc à répondre -- assez froidement, il est vrai :
+
+« C\'est convenu Len Burker, vous serez des nôtres, et soyez prêt à partir, car dès demain nous quitterons la station de Lady Charlotte à la première heure...
+
+--- Je serai prêt », répondit Len Burker, qui se retira sans avoir osé tendre la main à Mrs. Branican.
+
+Lorsque Zach Fren apprit que Len Burker ferait partie de l\'expédition, il s\'en montra peu satisfait. Il connaissait l\'homme, il savait par M. William Andrew comment ce triste personnage avait abusé de ses fonctions pour dissiper le patrimoine de Dolly. N\'ignorant pas dans quelles conditions ce tuteur infidèle, ce courtier véreux, avait dû s\'esquiver de San-Diégo, il se doutait bien qu\'il y avait lieu de suspecter son existence pendant ces quatorze ans qu\'il venait de passer en Australie... Toutefois, il ne fit aucune observation, regardant, en effet, comme une circonstance heureuse que Jane fût près de Dolly. Mais, en son for intérieur, il se promit de ne pas perdre de vue Len Burker.
+
+Cette journée se termina sans autre incident. Len Burker, qu\'on ne revit pas, s\'occupait de ses préparatifs de départ, après avoir réglé sa situation avec le squatter de Waldek-Hill. Ce règlement ne pouvait donner lieu à aucune difficulté, et le squatter se chargea même de procurer un cheval à son ancien employé, afin qu\'il fût en état de suivre la caravane jusqu\'à la station d\'Alice-Spring, où elle devait être réorganisée.
+
+Dolly et Jane restèrent l\'après-midi et la soirée ensemble dans la maison de Waldek-Hill. Dolly évitait de parler de Len Burker, elle n\'émettait aucune allusion à ce qu\'il avait fait depuis son départ de San-Diégo, sentant bien qu\'il y avait des choses que Jane ne pouvait dire.
+
+Pendant cette soirée, ni Tom Marix ni Godfrey, chargés de recueillir des renseignements chez les indigènes sédentaires, dont les hameaux avoisinaient la station de Lady Charlotte, ne vinrent au run de Waldek-Hill. Ce fut le lendemain seulement que Mrs. Branican eut l\'occasion de présenter Godfrey à Jane, en lui disant qu\'il était son enfant d\'adoption.
+
+Jane fut extraordinairement frappée, elle aussi, de la ressemblance qui existait entre le capitaine John et le jeune novice. Son impression fut même si profonde que c\'est à peine si elle osait le regarder. Et comment exprimer ce qu\'elle éprouva, lorsque Dolly lui fit connaître ce qui concernait Godfrey, les circonstances dans lesquelles elle l\'avait rencontré à bord du *Brisbane*... C\'était un enfant trouvé dans les rues de San-Diégo... Il avait été élevé à Wat-House... Il avait quatorze ans environ...
+
+Jane, d\'une pâleur de morte, le coeur battant à peine sous l\'étreinte de l\'angoisse, avait écouté ce récit, muette, immobile...
+
+Et, lorsque Dolly l\'eut laissée seule, elle tomba à genoux, les mains jointes. Puis, ses traits s\'animèrent... sa physionomie fut comme transfigurée...
+
+« Lui !... lui ! s\'écria-t-elle d\'une voix éclatante. Lui... près d\'elle !... Dieu l\'a donc voulu !... »
+
+Un instant après, Jane avait quitté la maison de Waldek-Hill, et, traversant la cour intérieure, elle se précipitait vers la case qui lui servait d\'habitation pour tout dire à son mari.
+
+Len Burker était là, rangeant dans un portemanteau les quelques effets d\'habillement et autres objets qu\'il allait emporter pour son voyage. L\'arrivée de Jane, dans cet extraordinaire état de trouble, le fit tressaillir.
+
+« Qu\'y a-t-il ? lui demanda-t-il brusquement. Parle donc !... Parleras-tu ?... Qu\'y a-t-il ?...
+
+--- Il est vivant, s\'écria Jane... il est ici... près de sa mère... lui que nous avons cru...
+
+--- Près de sa mère... vivant... lui ?... » répondit Len Burker, qui resta foudroyé par cette révélation.
+
+Il n\'avait que trop compris à qui ce mot « lui ! » pouvait s\'appliquer.
+
+« Lui... répéta Jane, lui... le second enfant de John et de Dolly Branican ! »
+
+Une courte explication suffira pour faire connaître ce qui s\'était passé quinze ans auparavant à Prospect-House.
+
+Un mois après leur installation au chalet de San-Diégo, M. et Mrs. Burker s\'étaient aperçus que Dolly, privée de raison depuis le cruel événement, était dans une situation qu\'elle ignorait elle-même. Étroitement surveillée par la mulâtresse Nô, Dolly, malgré les supplications de Jane, fut pour ainsi dire séquestrée, soustraite à la vue de ses amis et de ses voisins sous prétexte de maladie. Sept mois plus tard, toujours folle et sans qu\'il en fût resté trace dans sa mémoire, elle avait mis au monde un second enfant. À cette époque, la mort du capitaine John étant généralement admise, la naissance de cet enfant venait déranger les plans de Len Burker relatifs à la fortune future de Dolly. Aussi avait-il pris la résolution de tenir cette naissance secrète. C\'est en vue de cette éventualité que, depuis plusieurs mois, les domestiques avaient été renvoyés du chalet et les visiteurs éconduits, sans que Jane, contrainte de se courber devant les criminelles exigences de son mari, eût pu s\'y opposer. L\'enfant, né de quelques heures, abandonné par Nô sur la voie publique, fut par bonheur recueilli par un passant, puis transporté dans un hospice. Plus tard, après la fondation de Wat-House, c\'est de là qu\'il sortit pour être embarqué en qualité de mousse à l\'âge de huit ans. Et maintenant, tout s\'explique -- cette ressemblance de Godfrey avec le capitaine John, son père, ces pressentiments instinctifs que Dolly ressentait toujours -- Dolly mère sans le savoir !
+
+« Oui, Len, s\'écria Jane, c\'est lui !... C\'est son fils !... Et il faut tout avouer... »
+
+Mais, à la pensée d\'une reconnaissance qui eût compromis le plan sur lequel reposait son avenir, Len Burker fit un geste de menace, et des jurons s\'échappèrent de sa bouche. Prenant la malheureuse Jane par la main et la regardant dans les yeux, il lui dit d\'une voix sourde :
+
+« Dans l\'intérêt de Dolly... comme dans l\'intérêt de Godfrey, je te conseille de te taire ! »
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- En remontant vers le nord]{.pcalibre lang="X-NONE"}]{#_Toc342942250 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7-en-remontant-vers-le-nord .calibre171 .sigil_not_in_toc}
+
+Aucune erreur n\'était possible, Godfrey était bien le second enfant de John et de Dolly Branican. Cette affection que Dolly éprouvait pour lui n\'était due qu\'à l\'instinct maternel. Mais elle ignorait que le jeune novice fût son fils, et comment pourrait-elle jamais l\'apprendre, puisque Jane, épouvantée des menaces de Len Burker, allait être contrainte à se taire pour assurer le salut de Godfrey. Parler, c\'était mettre cet enfant à la merci de Len Burker, et le misérable, qui l\'avait livré à l\'abandon une première fois, saurait bien s\'en défaire au cours de cette périlleuse expédition... Il importait dès lors que la mère et le fils n\'apprissent jamais quel lien les rattachait l\'un à l\'autre.
+
+Du reste, en voyant Godfrey, en rapprochant les faits relatifs à sa naissance, en constatant cette ressemblance frappante avec John, Len Burker n\'eut pas un doute sur son identité. Ainsi, alors qu\'il regardait la perte de John Branican comme définitive, voilà que la naissance de son second fils venait de se révéler. Eh bien ! Malheur à cet enfant, si Jane s\'avisait de parler ! Mais Len Burker était tranquille ; Jane ne parlerait pas.
+
+Le 11 octobre, la caravane se remit en route, après vingt-quatre heures de repos. Jane avait pris place dans le buggy, occupé par Mrs. Branican. Len Burker, montant un assez bon cheval, allait et venait, tantôt en avant, tantôt en arrière, s\'entretenant volontiers avec Tom Marix au sujet des territoires qu\'il avait déjà parcourus le long de la ligne télégraphique. Il ne recherchait point la compagnie de Zach Fren, qui lui témoignait une antipathie très marquée. D\'autre part, il évitait de rencontrer Godfrey, dont le regard gênait le sien. Lorsque le jeune novice arrivait pour se mêler à la conversation de Dolly et de Jane, Len Burker se retirait, afin de ne point se trouver avec lui.
+
+À mesure que l\'expédition gagnait vers l\'intérieur, le pays se modifiait graduellement. Çà et là quelques fermes, où le travail se réduisait à l\'élevage des moutons, de larges prairies s\'étendant à perte de vue, des massifs d\'arbres, gommiers ou eucalyptus, ne formant plus que des groupes isolés, qui ne rappelaient en rien les forêts de l\'Australie méridionale.
+
+Le 12 octobre, à six heures du soir, après une longue étape que la chaleur avait rendue très fatigante, Tom Marix vint camper sur le bord de la Finke-river, non loin du mont Daniel, dont la cime se profilait à l\'ouest.
+
+Les géographes sont d\'accord aujourd\'hui sur la question de considérer cette rivière Finke -- appelée Larra-Larra par les indigènes -- comme étant le principal cours d\'eau du centre de l\'Australie. Pendant la soirée, Tom Marix attira l\'attention de Mrs. Branican sur ce sujet, alors que Zach Fren, Len et Jane Burker lui tenaient compagnie sous une des tentes.
+
+
+--- Et quel développement aurait la Finke-river ? demanda Mrs. Branican.
+
+--- On ne l\'estimerait pas à moins de neuf cents milles, répondit Tom Marix.
+
+--- Devons-nous longtemps la suivre ?...
+
+--- Quelques jours seulement, car elle fait de nombreux crochets et finit par remonter dans la direction de l\'ouest à travers le massif des James-Ranges.
+
+--- Mais ce David Lindsay dont vous parlez, je l\'ai connu, dit alors Len Burker.
+
+--- Vous l\'avez connu ?... répéta Zach Fren d\'un ton qui dénotait une certaine incrédulité.
+
+--- Et qu\'y a-t-il d\'étonnant à cela ? répondit Len Burker. J\'ai rencontré Lindsay à l\'époque où il venait d\'atteindre la station de Dalhousie. Il se rendait à la frontière ouest du Queensland, que je visitais pour le compte d\'une maison de Brisbane..
+
+--- En effet, reprit Tom Marix, c\'est bien là l\'itinéraire qu\'il a choisi. Puis, ayant regagné Alice-Spring et contourné les Mac-Donnell-Ranges par leur base, il opéra une reconnaissance assez complète de la rivière Herbert, remonta vers le golfe de Carpentarie, où il acheva son second voyage du sud au nord à travers le continent australien.
+
+--- J\'ajouterai, dit Len Burker, que David Lindsay était accompagné d\'un botaniste allemand du nom de Diétrich. Leur caravane ne se servait que de chameaux pour bêtes de transport. C\'est ainsi, je crois, Dolly, que vous avez l\'intention de composer la vôtre au-delà d\'Alice-Spring, et je suis certain que vous réussirez comme a réussi David Lindsay...
+
+--- Oui, nous réussirons, Len ! dit Mrs. Branican.
+
+--- Et personne n\'en doute ! » ajouta Zach Fren.
+
+En somme, il paraissait avéré que Len Burker avait rencontré David Lindsay dans les circonstances qu\'il venait de rappeler -- ce que Jane confirma d\'ailleurs. Mais, si Dolly lui eût demandé pour quelle maison de Brisbane il voyageait alors, peut-être cette question l\'aurait-elle embarrassé. Pendant les quelques heures que Mrs. Branican et ses compagnons passèrent sur le bord de la Finke-river, on eut indirectement des nouvelles de l\'Anglais Jos Meritt et de Gîn-Ghi, son domestique chinois. L\'un et l\'autre précédaient encore la caravane d\'une douzaine d\'étapes ; toutefois, elle gagnait chaque jour sur eux en suivant le même itinéraire. Ce fut par l\'intermédiaire des indigènes que l\'on sut ce qu\'était devenu ce fameux collectionneur de chapeaux. Cinq jours avant, Jos Meritt et son serviteur avaient séjourné dans le village de Kilna, situé à un mille de la station. Kilna compte plusieurs centaines de noirs -- hommes, femmes et enfants -- qui vivent sous d\'informes huttes d\'écorce. Ces huttes sont appelées « villums » en langage australien, et il y a lieu de remarquer la singulière analogie de ce mot indigène avec les mots « villes » et « villages » des langues d\'origine latine. Ces aborigènes, dont quelques-uns présentent de remarquables types, hauts de taille, sculpturalement proportionnés, robustes et souples, d\'un tempérament infatigable, méritent d\'être observés. Pour la plupart, ils sont caractérisés par cette conformation, spéciale aux races sauvages, de l\'angle facial déprimé ; ils ont la crête des sourcils proéminente, la chevelure ondulée sinon crépue, un front étroit qui fuit sous ses boucles, le nez épaté à larges narines, la bouche énorme à forte denture comme celle des fauves. Quant aux gros ventres, aux membres grêles, cette difformité de nature ne se remarque pas chez les échantillons qu\'on vient de citer -- ce qui est une exception assez rare parmi les nègres australiens.
+
+D\'où sont issus les indigènes de cette cinquième partie du monde ? Existait-il autrefois, ainsi que plusieurs savants -- trop savants peut-être ! -- ont prétendu l\'établir, un continent du Pacifique, dont il ne reste que les sommets sous forme d\'îles, dispersées à la surface de ce vaste bassin ? Ces Australiens sont-ils les descendants des nombreuses races qui peuplèrent ce continent à une époque reculée ? De telles théories demeureront vraisemblablement à l\'état d\'hypothèses. Mais, si l\'explication était admise, il faudrait en conclure que la race autochtone a singulièrement dégénéré au moral autant qu\'au physique. L\'Australien est resté sauvage de moeurs et de goûts, et, par ses habitudes indéracinables de cannibalisme -- au moins chez certaines tribus -- il est au dernier degré de l\'échelle humaine, presque au rang des carnassiers. Dans un pays où il ne se rencontre ni lions, ni tigres, ni panthères, on pourrait dire qu\'il les remplace au point de vue anthropophagique. Ne cultivant pas le sol qui est ingrat, à peine vêtu d\'une loque, manquant des plus simples ustensiles de ménage, n\'ayant que des armes rudimentaires, la lance à pointe durcie, la hache de pierre, le « nolla-nolla », sorte de massue en bois très dur, et le fameux « boomerang » que sa forme hélicoïdale oblige à revenir en arrière après qu\'il a été projeté par une main vigoureuse -- le noir australien, on le répète, est un sauvage dans toute l\'acception du mot.À de tels êtres, la nature a donné la femme qui leur convient, la « lubra » assez vigoureusement constituée pour résister aux fatigues de la vie nomade, se soumettre aux travaux les plus pénibles, porter les enfants en bas âge et le matériel de campement. Ces malheureuses créatures sont vieilles à vingt-cinq ans, et non seulement vieilles, mais hideuses, chiquant les feuilles du « pituri », qui les surexcite pendant les interminables marches, et les aide parfois à endurer de longues abstinences.
+
+Eh bien, le croirait-on ? Celles qui se trouvent en rapport avec les colons européens dans les bourgades commencent à suivre les modes européennes. Oui ! Il leur faut des robes et des queues à ces robes ! Il leur faut des chapeaux et des plumes à ces chapeaux ! Les hommes ne sont même pas indifférents au choix de leurs propres coiffures, et ils épuisent, pour satisfaire ce goût, le fond des revendeurs.
+
+Sans nul doute, Jos Meritt avait eu connaissance du remarquable voyage exécuté par Carl Lumholtz en Australie. Et comment n\'aurait-il pas retenu ce passage du hardi voyageur norvégien, dont le séjour se prolongea au-delà de six mois chez les farouches cannibales du nord-est ?
+
+« Je rencontrai à mi-chemin mes deux indigènes... Ils s\'étaient faits très beaux : l\'un se pavanait en chemise, l\'autre s\'était coiffé d\'un chapeau de femme. Ces vêtements, fort appréciés par les nègres australiens, passent d\'une tribu à l\'autre, des plus civilisées qui vivent à proximité des colons, à celles qui n\'ont jamais aucun rapport avec les blancs. Plusieurs de mes hommes (des indigènes) empruntèrent le chapeau ; ils mettaient une sorte de fierté à se parer tour à tour de cette coiffure. L\'un de ceux qui me précédaient, *in* *puris* *naturalibus*, suant sous le poids de mon fusil, était vraiment drôle à voir, coiffé de ce chapeau de femme posé de travers. Quelles péripéties avait dû traverser cette capote au cours de son long voyage du pays des blancs aux montagnes des sauvages ! »
+
+C\'était bien ce que savait Jos Meritt, et peut-être serait-ce au milieu d\'une tribu australienne, sur la tête d\'un chef des territoires du nord ou du nord-ouest, qu\'il rencontrerait cet introuvable chapeau, dont la conquête l\'avait déjà entraîné, au péril de sa vie, chez les anthropophages du continent australien. Ce qu\'il faut d\'ailleurs observer, c\'est que, s\'il n\'avait pas réussi chez ces peuplades du Queensland, il ne semblait pas qu\'il eût réussi davantage parmi les indigènes de Kilna, puisqu\'il s\'était remis en campagne et continuait son aventureuse pérégrination en remontant vers les déserts du centre.
+
+Le 13 octobre, au lever du soleil, Tom Marix donna le signal du départ. La caravane reprit son ordre de marche habituel. C\'était une véritable satisfaction pour Dolly d\'avoir Jane près d\'elle, une grande consolation pour Jane d\'avoir retrouvé Mrs. Branican. Le buggy, qui les transportait toutes les deux, et dans lequel elles pouvaient s\'isoler, leur permettait d\'échanger bien des pensées, bien des confidences. Pourquoi fallait-il que Jane n\'osât pas aller jusqu\'au bout dans cette voie, qu\'elle fût contrainte à se taire ? Parfois, en voyant cette double affection maternelle et filiale, qui se manifestait à tout moment par un regard, par un geste, par un mot, entre Dolly et Godfrey, il lui semblait que son secret allait lui échapper... Mais les menaces de Len Burker lui revenaient à l\'esprit, et, dans la crainte de perdre le jeune novice, elle affectait même à son égard une quasi-indifférence que Mrs. Branican ne remarquait pas sans quelque chagrin.
+
+Et l\'on s\'imaginera aisément ce qu\'elle dut éprouver, lorsque Dolly lui dit un jour :
+
+« Tu dois me comprendre, Jane, avec cette ressemblance qui m\'avait si vivement frappée, avec ces instincts que je sentais persister en moi, j\'ai pu croire que mon enfant avait échappé à la mort, que ni M. William Andrew ni personne de mes amis ne l\'avaient su... Et de là, à penser que Godfrey était notre fils, à John et à moi... Mais non !... Le pauvre petit Wat repose maintenant dans le cimetière de San-Diégo !
+
+--- Oui !... C\'est là que nous l\'avons porté, chère Dolly, répondit Jane. C\'est là qu\'est sa tombe... au milieu des fleurs !
+
+--- Jane !... Jane !... s\'écria Dolly, puisque Dieu ne m\'a pas rendu mon enfant, qu\'il me rende son père, qu\'il me rende John ! »
+
+Le 15 octobre, à six heures du soir, après avoir laissé en arrière le mont Humphries, la caravane s\'arrêta sur le bord du Palmer-creek, un des affluents de la Finke-river. Ce creek était presque à sec, n\'étant alimenté, ainsi que la plupart des rios de ces régions, que par les eaux pluviales. Il fut donc très aisé de le franchir, ainsi que l\'on fit du Hughes-creek, à trois jours de là, trente-quatre milles plus au nord.
+
+En cette direction, l\'Overland-Telegraf-Line tendait toujours ses fils aériens au-dessus du sol -- ces fils d\'Ariane qu\'il suffisait de suivre de station en station. On rencontrait çà et là quelques groupes de maisons, plus rarement des fermes, où Tom Marix, en payant bien, se procurait de la viande fraîche. Godfrey et Zach Fren, eux, allaient aux informations. Les squatters s\'empressaient de les renseigner sur les tribus nomades qui parcouraient ces territoires. N\'avaient-ils point entendu parler d\'un blanc, retenu prisonnier chez les Indas du nord ou de l\'ouest ? Savaient-ils si des voyageurs s\'étaient récemment aventurés à travers ces lointains districts ? réponses négatives. Aucun indice, si vague qu\'il fût, ne pouvait mettre sur les traces du capitaine John. De là, nécessité de se hâter, afin d\'atteindre Alice-Spring, dont la caravane était encore éloignée d\'au moins quatre-vingts milles.
+
+À partir de Hughes-creek, le cheminement devint plus difficile, et la moyenne de marche, obtenue jusqu\'à ce jour, fut notablement diminuée. Le pays était très montueux. D\'étroites gorges se succédaient, coupées de ravins à peine praticables, qui sinuaient entre les ramifications des Water-House-Ranges. En tête, Tom Marix et Godfrey recherchaient les meilleures passes. Les piétons et les cavaliers y trouvaient facilement passage, même les buggys que leurs chevaux enlevaient sans trop de peine, et il n\'y avait pas lieu de s\'en préoccuper ; mais, pour les chariots chargés lourdement, les boeufs ne les traînaient qu\'au prix d\'extrêmes fatigues. L\'essentiel était d\'éviter les accidents, tels qu\'un bris de roue ou d\'essieu, qui eût nécessité de longues réparations, sinon même l\'abandon définitif du véhicule.
+
+C\'était le 19 octobre, dès le matin, que la caravane s\'était engagée sur ces territoires, où les fils télégraphiques ne pouvaient plus conserver une direction rectiligne. Aussi la disposition du sol avait-elle obligé de les incliner vers l\'ouest -- direction que Tom Marix dut imposer à son personnel. Entre temps, si cette région présentait de capricieux accidents de terrain, impropres à une allure rapide et régulière, elle était redevenue très boisée, grâce au voisinage des massifs montagneux. Il fallait incessamment contourner ces « brigalows-scrubs », sortes de fourrés impénétrables, où domine la prolifique famille des acacias. Sur les bords des ruisseaux se dressaient des groupes de casuarinas, aussi dépouillés de feuilles que si le vent d\'hiver eût secoué leurs branches. À l\'entrée des gorges poussaient quelques-uns de ces calebassiers, dont le tronc s\'évase en forme de bouteille, et que les Australiens nomment « bottle-trees ». À la façon de l\'eucalyptus, qui vide un puits lorsque ses racines y plongent, le calebassier pompe toute l\'humidité du sol, et son bois spongieux en est tellement imprégné que l\'amidon qu\'il contient peut servir à la nourriture des bestiaux. Les marsupiaux vivaient en assez grand nombre sous ces brigalows-scrubs, entre autres les wallabys si rapides à la course que le plus souvent les indigènes, lorsqu\'ils veulent s\'en emparer, sont contraints de les enfermer dans un cercle de flamme en mettant le feu aux herbes. En de certains endroits abondaient les kangourous-rats, et ces kangourous géants, que les blancs ne poursuivent guère que par plaisir cynégétique, car il faut être nègre -- et nègre australien -- pour consentir à se nourrir de leur chair coriace. Tom Marix et Godfrey ne parvinrent à frapper d\'une balle que deux ou trois couples de ces animaux, dont la vitesse égale celle d\'un cheval au galop. Il faut dire que la queue de ces kangourous fournit un potage excellent, dont chacun apprécia les qualités au repas du soir.
+
+Cette nuit-là, il y eut une alerte. Le campement fut troublé par une de ces invasions de rats, comme il ne s\'en voit qu\'en Australie, à l\'époque où émigrent ces rongeurs. Personne n\'aurait pu dormir, sans risquer d\'être déchiqueté, et on ne dormit pas.
+
+Mrs. Branican et ses compagnons repartirent le lendemain, 22 octobre, en maudissant ces vilaines bêtes. Au coucher du soleil, la caravane avait atteint les dernières ramifications des Mac-Donnell-Ranges. Le voyage allait désormais s\'effectuer dans des conditions infiniment plus favorables. Encore une quarantaine de milles, et la première partie de la campagne prendrait fin à la station d\'Alice-Spring.
+
+Le 23, l\'expédition eut à parcourir d\'immenses plaines se déroulant à perte de vue. Quelques ondulations les vallonnaient çà et là. Des bouquets d\'arbres en relevaient le monotone aspect. Les chariots suivaient sans difficulté l\'étroite route, tracée au pied des poteaux télégraphiques, et desservant les stations, établies assez loin les unes des autres. Il était certes incroyable que la ligne, peu surveillée en ces contrées désertes, fût respectée des indigènes.
+
+Et aux observations qu\'on lui faisait à ce propos, Tom Marix dut répondre :
+
+« Ces nomades, je l\'ai dit, ayant été châtiés électriquement par notre ingénieur, se figurent que le tonnerre court sur ces fils, et ils se gardent bien d\'y toucher.
+
+Ils croient même que leurs deux bouts se rattachent au soleil et à la lune et que ces grosses boules leur tomberaient sur la tête, s\'ils s\'avisaient de tirer dessus. »
+
+À onze heures, suivant l\'habitude, la grande halte de la journée eut lieu. La caravane s\'installa près d\'un massif d\'eucalyptus dont le feuillage, tombant comme les pendeloques de cristal d\'un lustre, ne donnait que peu ou point d\'ombre. Là coulait un creek ou plutôt un filet d\'eau, à peine suffisant pour mouiller les cailloux de son lit. Sur la rive opposée, le sol se relevant par un brusque épaulement, barrait la surface de la plaine sur une longueur de plusieurs milles de l\'est à l\'ouest. En arrière, on saisissait encore le lointain profil des Mac-Donnell-Ranges au-dessus de l\'horizon.
+
+Ce repos durait d\'habitude jusqu\'à deux heures. On évitait ainsi de cheminer pendant la partie la plus chaude de la journée. À vrai dire, ce n\'était qu\'une halte et non un campement. Tom Marix ne faisait alors ni dételer les boeufs, ni débrider les chevaux. Ces animaux mangeaient sur place. On ne dressait point les tentes, on n\'allumait point les feux. La venaison froide et les conserves composaient ce second repas, qui avait été précédé d\'un premier déjeuner au lever du soleil.
+
+Chacun vint, comme à l\'ordinaire, s\'asseoir ou s\'étendre sur l\'herbe dont l\'épaulement était revêtu. Une demi-heure écoulée, les bouviers et les gens de l\'escorte, noirs ou blancs, leur faim apaisée, dormaient en attendant le départ.
+
+Mrs. Branican, Jane et Godfrey formaient un groupe à part. La servante indigène Harriett leur avait apporté un panier contenant quelques provisions. Tout en déjeunant, ils s\'entretenaient de leur prochaine arrivée à la station d\'Alice-Spring. L\'espérance qui n\'avait jamais abandonné Dolly, le jeune novice la partageait absolument, et, lors même qu\'il n\'y aurait pas eu motif d\'espérer, rien n\'eût ébranlé leurs convictions. Tous, d\'ailleurs, étaient pleins de foi dans le succès de la campagne, leur résolution formelle étant de ne plus quitter la terre australienne tant qu\'ils ne seraient pas fixés sur le sort du capitaine John.
+
+Il va de soi que Len Burker, affectant de nourrir ces mêmes idées, ne ménageait point ses encouragements, lorsqu\'il en trouvait l\'occasion. Cela entrait dans son jeu ; car il avait intérêt à ce que Mrs. Branican ne retournât pas en Amérique, puisqu\'il était interdit à lui d\'y revenir. Dolly, ne soupçonnant rien de ses odieuses trames, lui savait gré de ce qu\'il l\'appuyait.
+
+Pendant cette halte, Zach Fren et Tom Marix s\'étaient mis à causer de la réorganisation qu\'il conviendrait de donner à la caravane, avant de quitter la station d\'Alice-Spring. Grave question. N\'était-ce pas alors que commenceraient les véritables difficultés d\'une expédition à travers l\'Australie centrale ?
+
+Il était une heure et demie environ, lorsqu\'un bruit sourd se fit entendre dans la direction du nord. On eût dit un tumulte prolongé, un roulement continu, dont les lointaines rumeurs se propageaient jusqu\'au campement.
+
+Mrs. Branican, Jane et Godfrey qui s\'étaient relevés, prêtaient l\'oreille.
+
+Tom Marix et Zach Fren venaient de s\'approcher d\'eux, et, le regard tendu, écoutaient.
+
+« D\'où peut provenir ce bruit ? demanda Dolly.
+
+--- Un orage, sans doute ? dit le maître..
+
+--- On dirait plutôt le ressac des lames sur une grève », fit observer Godfrey.
+
+Cependant il n\'y avait aucun symptôme d\'orage, et l\'atmosphère ne décelait aucune saturation électrique. Quant à quelque déchaînement d\'eaux furieuses, il n\'aurait pu être produit que par une subite inondation, due au trop-plein des creeks. Mais lorsque Zach Fren voulut donner cette explication au phénomène :
+
+« Une inondation dans cette partie du continent, à cette époque et après une telle sécheresse ?... répondit Tom Marix. Soyez certain que c\'est impossible ! »
+
+Et il avait raison. Qu\'à la suite de violents orages, il survienne parfois des crues provoquées par l\'excessive abondance des eaux pluviales, que les nappes liquides se répandent à la surface des terrains en contre-bas, cela se voit quelquefois pendant la mauvaise saison. Mais, à la fin d\'octobre, l\'explication était inadmissible. Tom Marix, Zach Fren et Godfrey, s\'étaient hissés sur le rebord de l\'épaulement et portaient un regard inquiet dans le sens du nord et de l\'est. Rien en vue sur toute l\'immense étendue des plaines mornes et désertes. Toutefois, au-dessus de l\'horizon, se déroulait un nuage de forme bizarre qu\'on ne pouvait confondre avec ces vapeurs que les longues chaleurs accumulent à la ligne périphérique de la terre et du ciel. Ce n\'était point un amas de brumes à l\'état vésiculaire ; c\'était plutôt une agglomération de ces volutes aux contours nets que produisent les décharges de l\'artillerie. Quant au bruit qui s\'échappait de cet amoncellement poussiéreux -- comment douter que ce fût un énorme rideau de poussière ? -- il s\'accroissait rapidement, semblable à quelque piétinement cadencé, une sorte de chevauchement colossal, répercuté par le sol élastique de l\'immense prairie. D\'où venait-il ?
+
+« Je sais... j\'ai déjà été témoin... Ce sont des moutons ! s\'écria Tom Marix..
+
+--- Des moutons ?... répliqua Godfrey en riant. Si ce ne sont que des moutons...
+
+--- Ne riez pas, Godfrey ! répondit le chef de l\'escorte. Il y a peut-être là des milliers et des milliers de moutons, qui auront été saisis de panique... Si je ne me suis pas trompé, ils vont passer comme une avalanche, détruisant tout sur leur passage ! »
+
+Tom Marix n\'exagérait pas. Lorsque ces animaux sont affolés pour une cause ou pour une autre -- ce qui arrive quelquefois à l\'intérieur des runs -- rien ne peut les retenir, ils renversent les barrières, et s\'échappent. Un vieux dicton dit que « devant les moutons s\'arrête la voiture du roi... » et il est vrai qu\'un troupeau de ces stupides bêtes se laisse plutôt écraser que de céder la place ; mais si elles se laissent écraser elles écrasent aussi, lorsqu\'elles se précipitent en masse énorme. Et c\'était bien le cas. À voir le nuage de poussière qui s\'arrondissait sur un espace de deux à trois lieues, on ne pouvait estimer à moins de cent mille les moutons qu\'une panique aveugle lançait sur le chemin de la caravane. Emportés du nord au sud, ils se déroulaient comme un mascaret à la surface de la plaine et ne s\'arrêteraient qu\'au moment où ils tomberaient, épuisés par cette course folle.
+
+« Que faire ? demanda Zach Fren.
+
+--- S\'abriter tant bien que mal au pied de l\'épaulement », répondit Tom Marix.
+
+Il n\'y avait pas d\'autre parti à prendre, et tous trois redescendirent. Si insuffisantes que pussent être les précautions indiquées par Tom Marix, elles furent aussitôt mises à exécution. L\'avalanche des moutons n\'était pas à deux milles du campement. Le nuage montait en grosses volutes dans l\'air, et de ce nuage sourdait un tumulte formidable de bêlements.
+
+Les chariots furent mis à l\'abri contre le talus. Quant aux chevaux et aux boeufs, leurs cavaliers et leurs conducteurs les obligèrent à s\'étendre sur le sol, afin de mieux résister à cet assaut qui passerait peut-être au-dessus d\'eux sans les atteindre. Les hommes s\'accotèrent contre le talus. Godfrey se plaça près de Dolly, afin de la protéger plus efficacement, et on attendit.
+
+Cependant Tom Marix venait de remonter sur l\'arête de l\'épaulement. Il voulait observer une dernière fois la plaine, qui « moutonnait » comme fait la mer sous une violente brise. Le troupeau arrivait à grand fracas et à grande vitesse, s\'étendant sur un tiers de l\'horizon. Ainsi que l\'avait dit Tom Marix, les moutons devaient s\'y chiffrer par une centaine de mille. En moins de deux minutes, ils seraient sur le campement.
+
+« Attention ! Les voici ! » cria Tom Marix. Et il se laissa rapidement glisser le long du talus jusqu\'à l\'endroit où Mrs. Branican, Jane, Godfrey et Zach Fren étaient blottis les uns contre les autres. Presque aussitôt, le premier rang de moutons apparut sur la crête. Il ne s\'arrêta pas, il n\'aurait pu s\'arrêter. Les animaux de tête tombèrent -- quelques centaines qui s\'empilèrent, lorsque le sol vint à leur manquer. Aux bêlements se mêlaient les hennissements des chevaux, les beuglements des boeufs, saisis d\'épouvante. Tout s\'était effacé, au milieu de l\'épais nuage de poussière, tandis que l\'avalanche se déchaînait au-delà de l\'épaulement dans une impulsion irrésistible -- un véritable torrent de bêtes.
+
+Cela dura cinq minutes, et les premiers qui se relevèrent, Tom Marix, Godfrey, Zach Fren, aperçurent l\'effrayante masse, dont les dernières lignes ondulaient vers le sud.
+
+« Debout !... Debout ! » cria le chef de l\'escorte.
+
+Tous se remirent sur pied. Quelques contusions, un peu de dégât dans les chariots, c\'est à cela que se bornait le dommage subi par le personnel et le matériel, grâce à l\'abri du talus.
+
+Tom Marix, Godfrey, Zach Fren, remontèrent aussitôt sur sa partie supérieure.
+
+Vers le sud, la troupe fuyante disparaissait derrière un rideau de poussière sableuse. Du côté nord s\'étendait à perte de vue la plaine, profondément piétinée à sa surface.
+
+Mais voici que Godfrey s\'écrie :
+
+« Là-bas... là-bas... regardez ! »
+
+À une cinquantaine de pas du talus, deux corps gisaient sur le sol -- deux indigènes, sans doute, entraînés, renversés et probablement écrasés par cette irruption de moutons...
+
+Tom Marix et Godfrey coururent vers ces corps...
+
+Quelle fut leur surprise ! Jos Meritt et son serviteur Gîn-Ghi étaient là, immobiles, inanimés...
+
+Ils respiraient pourtant, et des soins empressés les eurent bientôt remis de ce rude assaut. À peine eurent-ils ouvert les yeux que, si contusionnés qu\'ils fussent, l\'un et l\'autre se redressèrent.
+
+« Bien !... Oh !... Très bien ! » fit Jos Meritt.
+
+Puis se retournant :
+
+« Et Gîn-Ghi ?... demanda-t-il.
+
+--- Gîn-Ghi est là... ou du moins ce qu\'il en reste ! répondit le Chinois en se frottant les reins. Décidément, trop de moutons, mon maître Jos, mille et dix mille fois trop !
+
+--- Jamais trop de gigots, jamais trop de côtelettes, Gîn-Ghi, donc jamais trop de moutons ! répondit le gentleman. Ce qui est fâcheux, c\'est de n\'avoir pu en attraper un seul au passage...
+
+--- Consolez-vous, monsieur Meritt, répondit Zach Fren. Au bas du talus, il y en a des centaines à votre service.
+
+--- Très bien !... Oh !... Très bien ! » conclut gravement le flegmatique personnage. Puis, s\'adressant à son serviteur, lequel, après s\'être frotté les reins, se frottait les épaules :
+
+« Gîn-Ghi ?...
+
+--- Mon maître Jos ?...
+
+--- Deux côtelettes pour ce soir, dit-il, deux côtelettes... saignantes ! »
+
+Jos Meritt et Gîn-Ghi racontèrent alors ce qui s\'était passé. Ils cheminaient à trois milles en avant de la caravane, lorsqu\'ils avaient été surpris par cette charge de bêtes ovines. Leurs chevaux avaient pris la fuite, en dépit de leurs efforts pour les retenir. Renversés, piétinés, ce fut miracle qu\'ils n\'eussent pas été écrasés, et bonne chance aussi que Mrs. Branican et ses compagnons fussent arrivés à temps pour les secourir.
+
+Tout le monde avait échappé à ce très sérieux danger, on s\'était remis en route, et vers six heures du soir la caravane atteignit la station d\'Alice-Spring.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8 -- Au-delà de la station d\'Alice-Spring]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942251 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-8-au-delà-de-la-station-dalice-spring .calibre171 .sigil_not_in_toc}
+
+Le lendemain, 24 octobre, Mrs. Branican s\'occupa de réorganiser l\'expédition en vue d\'une campagne, qui serait probablement longue, pénible, périlleuse, puisqu\'elle aurait pour théâtre ces régions à peu près inconnues de l\'Australie centrale.
+
+Alice-Spring n\'est qu\'une station de l\'Overland-Telegraf-Line -- quelque vingtaine de maisons, dont l\'ensemble mériterait à peine le nom de village.
+
+En premier lieu, Mrs. Branican se rendit auprès du chef de cette station, M. Flint. Peut-être possédait-il des renseignements sur les Indas ?... Est-ce que cette tribu, chez laquelle le capitaine John était retenu prisonnier, ne descendait pas parfois de l\'Australie occidentale jusque dans les régions du centre ?
+
+M. Flint ne put rien dire de précis à cet égard, si ce n\'est que ces Indas parcouraient de temps à autre la partie ouest de la Terre Alexandra. Jamais il n\'avait entendu parler de John Branican. Quant à Harry Felton, ce qu\'il en savait, c\'est qu\'il avait été recueilli à quatre-vingts milles dans l\'est de la ligne télégraphique, sur la frontière du Queensland. Selon lui, le mieux était de s\'en rapporter aux renseignements assez précis que l\'infortuné avait fournis avant de mourir ; il s\'engageait à poursuivre cette campagne en coupant obliquement vers les districts de l\'Australie occidentale. Il espérait d\'ailleurs qu\'elle aurait une heureuse issue, et que Mrs. Branican réussirait là où lui, Flint, avait échoué, lorsqu\'il s\'était lancé, six ans auparavant, à la recherche de Leichhardt -- projet que des guerres de tribus indigènes l\'avaient bientôt contraint d\'abandonner. Il se mettait à la disposition de Mrs. Branican pour lui procurer toutes les ressources qu\'offrait la station. C\'était, ajouta-t-il, ce qu\'il avait fait pour David Lindsay, lorsque ce voyageur s\'arrêta à Alice-Spring en 1886, avant de se diriger vers le lac Nash et le massif oriental des Mac-Donnell-Ranges.
+
+Voici ce qu\'était, à cette époque, la partie du continent australien que l\'expédition se préparait à explorer en remontant vers le nord-ouest.
+
+À deux cent soixante milles de la station d\'Alice-Spring, sur le cent vingt-septième méridien, se développe la frontière rectiligne, qui, du sud au nord, sépare l\'Australie méridionale, la Terre Alexandra et l\'Australie septentrionale de cette province désignée sous le nom d\'Australie occidentale, dont Perth est la capitale. Elle est la plus vaste, la moins connue et la moins peuplée des sept grandes divisions du continent. En réalité, elle n\'est déterminée géographiquement que sur le périmètre de ses côtes, qui comprennent les Terres de Nuyts, de Lieuwin, de Wlaming, d\'Endrack, de Witt et de Tasman.
+
+Les cartographes modernes indiquent à l\'intérieur de ce territoire, dont les indigènes nomades sont seuls à parcourir les lointaines solitudes, trois déserts distincts :
+
+1° Au sud, le désert, compris entre les trentième et vingt-huitième degrés de latitude, qu\'explora Forrest en 1869, depuis le littoral jusqu\'au cent vingt-troisième méridien, et que Giles traversa, dans son entier en 1875.2° Le Gibson-Desert, compris entre les vingt-huitième et vingt-troisième degrés, dont le même Giles parcourut les immenses plaines pendant l\'année 1876.
+
+3° Le Great-Sandy-Desert, compris entre le vingt-troisième degré et la côte septentrionale, que le colonel Warburton parvint à franchir de l\'est au nord-ouest en 1873, et au prix de quels dangers, on le sait.
+
+Or, c\'était précisément sur ce territoire que l\'expédition de Mrs. Branican allait opérer ses recherches. L\'itinéraire du colonel Warburton, c\'était celui auquel il convenait de se tenir, d\'après les renseignements donnés par Harry Felton. De la station d\'Alice-Spring jusqu\'au littoral de l\'océan Indien, le voyage de cet audacieux explorateur n\'avait pas exigé moins de quatre mois, soit quinze mois de durée totale entre septembre 1872 et janvier 1874. Combien de temps coûterait celui que Mrs. Branican et ses compagnons se préparaient à entreprendre ?...
+
+Dolly recommanda à Zach Fren et à Tom Marix de ne pas perdre un jour, et, très activement secondés par M. Flint, ils purent se conformer à ses ordres.
+
+Depuis une quinzaine de jours, trente chameaux, achetés à haut prix pour le compte de Mrs. Branican, avaient été réunis à la station d\'Alice-Spring, sous la conduite de chameliers afghans.
+
+L\'introduction des chameaux en Australie ne datait que de trente ans. C\'est en 1860 que M. Elder en fit importer de l\'Inde une certaine quantité. Ces utiles animaux, sobres et robustes, de complexion très rustique, sont capables de porter une charge de cent cinquante kilogrammes et de faire quarante kilomètres par vingt-quatre heures, « en allant toujours leur pas », comme on dit vulgairement. En outre, ils peuvent rester une semaine sans manger, et, sans boire, six jours l\'hiver et trois jours l\'été. Aussi sont-ils appelés à rendre sur cet aride continent les mêmes services que dans les régions brûlantes de l\'Afrique. Là comme ici ils subissent presque impunément les privations provenant du manque d\'eau et des chaleurs excessives. Le désert du Sahara et le Great-Sandy-Desert ne sont-ils pas traversés par les méridiens correspondants des deux hémisphères ?
+
+Mrs. Branican disposait de trente chameaux, vingt de selle et dix de bât. Le nombre des mâles était plus considérable que celui des femelles. La plupart étaient jeunes, mais dans de bonnes conditions de force et de santé. De même que l\'escorte avait pour chef Tom Marix, de même ces animaux avaient pour chef un chameau mâle, le plus âgé, auquel les autres obéissaient volontiers. Il les dirigeait, les rassemblait aux haltes, les empêchait de s\'enfuir avec les chamelles. Lui mort ou malade, la troupe risquerait de se débander, et les conducteurs seraient impuissants à maintenir le bon ordre. Il allait de soi que ce précieux animal fût attribué à Tom Marix, et ces deux chefs -- l\'un portant l\'autre -- avaient leur place indiquée en tête de la caravane.
+
+Il fut convenu que les chevaux et les boeufs, qui avaient transporté le personnel depuis la station de Farina-Town jusqu\'à la station d\'Alice-Spring, seraient laissés aux bons soins de M. Flint. On les retrouverait au retour avec les buggys et les chariots. Toutes les probabilités, en effet, étaient que l\'expédition reprît en revenant vers Adélaïde la route jalonnée par les poteaux de l\'Overland-Telegraf-Line.
+
+Dolly et Jane occuperaient ensemble une « kibitka », sorte de tente à peu près identique à celle des Arabes, et que portait l\'un des plus robustes chameaux de la troupe. Elles pourraient s\'y abriter des rayons du soleil derrière d\'épais rideaux et même se protéger contre ces pluies, que de violents orages déversent -- trop rarement, il est vrai -- sur les plaines centrales du continent.
+
+Harriett, la femme au service de Mrs. Branican, habituée aux longues marches des nomades, préférait suivre à pied. Ces grandes bêtes à deux bosses lui paraissaient plutôt destinées à transporter des colis que des créatures humaines.
+
+Trois chameaux de selle étaient réservés à Len Burker, à Godfrey et à Zach Fren, qui sauraient s\'accoutumer à leur marche dure et cahotante. D\'ailleurs, il n\'était pas question de prendre une autre allure que le pas régulier de ces animaux, puisqu\'une partie du personnel ne serait pas monté. Le trot ne deviendrait nécessaire que si l\'obligation se présentait de devancer la caravane, afin de découvrir un puits ou une source pendant le parcours du Great-Sandy-Desert.
+
+Quant aux blancs de l\'escorte, c\'était à eux qu\'étaient destinés les quinze autres chameaux de selle. Les noirs préposés à la conduite des dix chameaux de bât, devaient faire à pied les douze à quatorze milles que comprendraient les deux étapes quotidiennes ; cela ne serait pas excessif pour eux.
+
+Ainsi fut réorganisée la caravane en vue des épreuves inhérentes à cette seconde période du voyage. Tout avait été combiné, avec approbation de Mrs. Branican, pour suffire aux exigences de la campagne, si longue qu\'elle dût être, en ménageant les bêtes et les hommes. Mieux pourvue de moyens de transport, mieux fournie de vivres et d\'effets de campement, fonctionnant dans des conditions plus favorables qu\'aucun des précédents explorateurs du continent australien, il y avait lieu d\'espérer qu\'elle atteindrait son but.
+
+Il reste à dire ce que deviendrait Jos Meritt. Ce gentleman et son domestique Gîn-Ghi allaient-ils demeurer à la station d\'Alice-Spring ? S\'ils la quittaient, serait-ce pour continuer à suivre la ligne télégraphique dans la direction du nord ? Ne se porteraient-ils pas plutôt soit vers l\'est, soit vers l\'ouest, à la recherche des tribus indigènes ? C\'était là, en effet, que le collectionneur aurait chance de découvrir l\'introuvable couvre-chef dont il suivait depuis si longtemps la piste. Mais, à présent qu\'il était privé de monture, dépossédé de bagages, démuni de vivres, comment parviendrait-il à continuer sa route ?
+
+À plusieurs reprises, depuis qu\'ils étaient rentrés en relation, Zach Fren avait interrogé Gîn-Ghi à cet égard. Mais le Céleste avait répondu qu\'il ne savait jamais ce que déciderait son maître, attendu que son maître ne le savait pas lui-même. Ce qu\'il pouvait affirmer, pourtant, c\'est que Jos Meritt ne consentirait point à revenir en arrière, tant que sa monomanie ne serait pas satisfaite, et que lui, Gîn-Ghi, originaire de Hong-Kong, n\'était pas près de revoir le pays « où les jeunes Chinoises, vêtues de soie, cueillent de leurs doigts effilés la fleur du nénuphar ».
+
+Cependant, on était à la veille du départ, et Jos Meritt n\'avait encore rien dit de ses projets, lorsque Mrs. Branican fut avisée par Gîn-Ghi que le gentleman sollicitait la faveur d\'un entretien particulier.
+
+Mrs. Branican, très désireuse de rendre service à cet original dans la mesure du possible, fit répondre qu\'elle priait l\'honorable Jos Meritt de vouloir bien se rendre à la maison de M. Flint, où elle demeurait depuis son arrivée à la station.
+
+Jos Meritt s\'y transporta aussitôt -- c\'était dans l\'après-midi du 25 octobre -- et dès qu\'il fut assis en face de Dolly, il entra en matière en ces termes :
+
+« Mistress Branican... Bien !... Oh !... Très bien ! Je ne doute pas, non... je ne doute pas un instant que vous ne retrouviez le capitaine John... Et je voudrais être aussi certain de mettre la main sur ce chapeau à la découverte duquel tendent tous les efforts d\'une existence déjà très mouvementée... Bien !... Oh !... Très bien ! Vous devez savoir pourquoi je suis venu fouiller les plus secrètes régions de l\'Australie ?
+
+--- Je le sais, monsieur Meritt, répondit Mrs. Branican, et, de mon côté, je ne doute pas que vous ne soyez un jour payé de tant de persévérance.
+
+--- Persévérance... Bien !... Oh !... Très bien !... C\'est que, voyez-vous, mistress, ce chapeau est unique au monde !
+
+--- Il manque à votre collection ?...
+
+--- Regrettablement... et je donnerais ma tête pour pouvoir le mettre dessus !
+
+--- C\'est un chapeau d\'homme ? demanda Dolly, qui s\'intéressait plutôt par bonté que par curiosité aux innocentes fantaisies de ce maniaque.
+
+--- Non, mistress, non... Un chapeau de femme... Mais de quelle femme !... Vous m\'excuserez si je tiens à garder le secret sur son nom et sa qualité... de crainte d\'exciter la concurrence... Songez donc, mistress... si quelqu\'autre...
+
+--- Enfin avez-vous un indice ?...
+
+--- Un indice ?... Bien !... Oh !... Très bien ! Ce que j\'ai appris à grand renfort de correspondances, d\'enquêtes, de pérégrinations, c\'est que ce chapeau a émigré en Australie, après d\'émouvantes vicissitudes, et que, parti de haut... oui, de très haut !... il doit orner maintenant la tête d\'un souverain de tribu indigène...
+
+--- Mais cette tribu ?...
+
+--- C\'est l\'une de celles qui parcourent le nord ou l\'ouest du continent. Bien !... Oh !... Très bien ! S\'il le faut, je les visiterai toutes... je les fouillerai toutes... Et, puisqu\'il est indifférent que je commence par l\'une ou par l\'autre, je vous demande la permission de suivre votre caravane jusque chez les Indas.
+
+--- Très volontiers, monsieur Meritt, répondit Dolly, et je vais donner l\'ordre que l\'on se procure, s\'il est possible, deux chameaux supplémentaires...
+
+--- Un seul suffira, mistress, un seul pour mon domestique et pour moi... d\'autant mieux que je me propose de monter la bête et que Gîn-Ghi se contentera d\'aller à pied.
+
+--- Vous savez que nous devons partir demain matin, monsieur Meritt ?
+
+--- Demain ?... Bien !... Oh !... Très bien ! Ce n\'est pas moi qui vous retarderai, mistress Branican. Mais il est entendu, n\'est-il pas vrai, que je ne m\'occupe aucunement de ce qui concerne le capitaine John... Cela, c\'est votre affaire... Je ne m\'occupe que de mon chapeau...
+
+--- De votre chapeau, c\'est convenu, monsieur Meritt ! » répondit Dolly.
+
+Là-dessus, Jos Meritt se retira en déclarant que cette intelligente, énergique et généreuse femme méritait de retrouver son mari autant, à tout le moins, qu\'il méritait, lui, de mettre la main sur le joyau, dont la conquête compléterait sa collection de coiffures historiques.
+
+Gîn-Ghi, avisé d\'avoir à se tenir prêt pour le lendemain, dut s\'occuper de mettre en ordre les quelques objets qui avaient été sauvés du désastre, après l\'affaire des moutons. Quant à l\'animal que le gentleman devait partager avec son serviteur -- de la manière qu\'il a été dit ci-dessus -- M. Flint parvint à se le procurer. Cela lui valut un : « Bien !... Oh !... Très bien ! » de la part de son très reconnaissant Jos Meritt.
+
+Le lendemain, 26 octobre, le signal du départ fut donné, après que Mrs. Branican eut pris congé du chef de la station. Tom Marix et Godfrey précédaient les blancs de l\'escorte qui étaient montés. Dolly et Jane s\'installèrent dans la kibitka, ayant Len Burker d\'un côté, Zach Fren de l\'autre. Puis venait, majestueusement achevalé entre les deux bosses de sa monture, Jos Meritt, suivi de Gîn-Ghi. Arrivaient ensuite les chameaux de bât et les noirs formant la seconde moitié de l\'escorte.
+
+À six heures du matin, l\'expédition, laissant à sa droite l\'Overland-Telegraf-Line et la station d\'Alice-Spring, disparaissait derrière un des contreforts des Mac-Donnell-Ranges.
+
+Au mois d\'octobre, en Australie, la chaleur est déjà excessive. Aussi Tom Marix avait-il conseillé de ne voyager que pendant les premières heures du jour -- de quatre à neuf heures -- et pendant l\'après-midi -- de quatre à huit heures. Les nuits mêmes commençaient à être suffocantes, et de longues haltes étaient nécessaires pour acclimater la caravane aux fatigues des régions centrales.
+
+Ce n\'était pas encore le désert, avec l\'aridité de ses interminables plaines, ses creeks entièrement à sec, ses puits qui ne contiennent plus qu\'une eau saumâtre, lorsque la sécheresse du sol ne les a pas complètement taris. À la base des montagnes s\'étendait cette région accidentée où s\'enchevêtrent les ramifications des Mac-Donnell et des Strangways-Ranges, et que sillonne la ligne télégraphique en se courbant vers le nord-ouest. Cette direction, la caravane dut l\'abandonner, afin de se porter plus décidément à l\'ouest, presque sur le parallèle qui se confond avec le tropique du Capricorne. C\'était à peu près la même route que Giles avait suivie en 1872, et qui coupait celle de Stuart à vingt-cinq milles au nord d\'Alice-Spring.
+
+Les chameaux ne marchaient qu\'à petite allure sur ces terrains très accidentés. De rares filets de creeks les arrosaient çà et là. Les gens pouvaient y trouver à l\'abri des arbres une eau courante, assez fraîche, et dont les bêtes faisaient provision pour plusieurs heures.
+
+En longeant ces halliers clairsemés, les chasseurs de la caravane, chargés de l\'approvisionner de venaison, purent abattre diverses pièces de gibier d\'espèce comestibles -- entre autres des lapins.
+
+On n\'ignore pas que le lapin est à l\'Australie ce que la sauterelle est à l\'Afrique. Ces trop prolifiques rongeurs finiront par tout ronger, si l\'on n\'y prend garde. Jusqu\'alors, le personnel de la caravane les avait un peu dédaignés au point de vue alimentaire, parce que ce qui constitue le vrai gibier abondait dans les plaines et les forêts de l\'Australie méridionale. Il serait toujours temps de se rassasier de cette chair un peu fade, lorsque les lièvres, les perdrix, les outardes, les canards, les pigeons et autres bêtes de poil et de plume feraient défaut. Mais, sur cette région riveraine des Mac-Donnell-Ranges, il fallait bien se contenter de ce que l\'on trouvait, c\'est-à-dire des lapins qui pullulaient à sa surface.
+
+Et, à propos, dans la soirée du 31 octobre, Godfrey, Jos Meritt et Zach Fren étant réunis, la conversation tomba sur cette engeance qu\'il est urgent de détruire. Et Godfrey ayant demandé s\'il y avait toujours eu des lapins en Australie :
+
+« Non, mon garçon, répondit Tom Marix. Leur importation ne remonte qu\'à une trentaine d\'années. Un joli cadeau qu\'on nous a fait là ! Ces animaux se sont tellement multipliés qu\'ils dévastent nos campagnes. Certains districts en sont infestés à ce point qu\'on ne peut plus y élever ni moutons ni bestiaux. Les champs sont troués par les terriers comme une écumoire, et l\'herbe y est rongée jusqu\'à la racine. C\'est une ruine absolue, et je finis par croire que ce ne sont pas les colons qui mangeront les lapins, mais les lapins qui mangeront les colons.
+
+--- N\'a-t-on pas employé des moyens puissants pour s\'en délivrer ? fit observer Zach Fren.
+
+--- Disons des moyens impuissants, répondit Tom Marix, puisque leur quantité augmente au lieu de diminuer. Je connais un propriétaire, qui a dû affecter quarante mille livres[[\[14\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn14035){#_ftnref14035 .pcalibre2 .pcalibre1} à la destruction des lapins qui ravageaient son run. Le gouvernement a mis leur tête à prix, comme on fait pour les tigres et les serpents dans l\'Inde anglaise. Bah ! Semblables à celles de l\'hydre, les têtes repoussent à mesure qu\'on les coupe et même en plus grand nombre. On a fait usage de la strychnine, qui en a empoisonné par centaines de mille, ce qui a failli donner la peste au pays. Rien n\'a réussi.
+
+--- N\'ai-je pas entendu dire, demanda Godfrey, qu\'un savant français, M. Pasteur, avait proposé de détruire ces rongeurs en leur donnant le choléra des poules ?
+
+--- Oui, et peut-être le moyen serait-il efficace ? Mais il aurait fallu... l\'employer, et il ne l\'a pas été, bien qu\'une prime de vingt mille livres ait été offerte dans ce but. Aussi le Queensland et la Nouvelle-Galles du Sud viennent-ils d\'établir un grillage long de huit cents milles, afin de protéger l\'est du continent contre l\'invasion des lapins. C\'est une véritable calamité.
+
+--- Bien !... Oh !... Très bien ! Véritable calamité... repartit Jos Meritt, de même que les types de la race jaune, qui finiront par envahir les cinq parties du monde. Les Chinois sont les lapins de l\'avenir. »
+
+Heureusement Gîn-Ghi n\'était pas là, car il n\'eût pas laissé passer sans protestation cette comparaison offensante à l\'égard des Célestes. Ou, tout au moins, aurait-il haussé les épaules en riant de ce rire particulier à sa race et qui n\'est qu\'une longue et bruyante aspiration.
+
+« Ainsi, dit Zach Fren, les Australiens renonceraient à continuer la lutte ?....
+
+--- Et de quelle façon pourraient-ils s\'y prendre ?... répondit Tom Marix.
+
+--- Il me semble pourtant, dit Jos Meritt, qu\'il y aurait un moyen sûr d\'anéantir ces lapins.
+
+--- Et lequel ? demanda Godfrey.
+
+--- Ce serait d\'obtenir du Parlement britannique un décret ainsi conçu : « Il ne sera plus porté que des chapeaux de castor dans tout le Royaume-Uni et les colonies qui en dépendent. Or, comme le chapeau de castor n\'est jamais fait qu\'avec du poil de lapin... Bien !... Oh !... Très bien ! »
+
+Et c\'est ainsi que Jos Meritt acheva sa phrase par son exclamation habituelle.
+
+Quoi qu\'il en soit, et en attendant que ledit décret fût rendu par le Parlement, le mieux était de se nourrir des lapins abattus en route. C\'en serait autant de moins pour l\'Australie, et on ne se fit pas faute de leur donner la chasse. Quant aux autres animaux, ils n\'auraient pu servir à l\'alimentation ; mais on aperçut quelques mammifères d\'une espèce particulière, et des plus intéressantes pour les naturalistes. L\'un était un échidné de la famille des monotrèmes, au museau en forme de bec avec des lèvres cornées, au corps hérissé de piquants comme un hérisson, et dont la principale nourriture se compose des insectes qu\'il happe avec sa langue filiforme, tendue hors de son terrier. L\'autre était un ornithorynque, avec des mandibules de canard, des poils d\'un brun roux, couvrant un corps déprimé qui mesure un pied de longueur. Les femelles de ces deux espèces possèdent cette particularité d\'être ovovivipares ; elles pondent des oeufs, mais les petits qui en sortent, elles les allaitent.
+
+Un jour, Godfrey, qui se distinguait parmi les chasseurs de la caravane, fut assez heureux pour apercevoir et tirer un « iarri », sorte de kangourou d\'allure très sauvage, qui, n\'ayant été que blessé, parvint à s\'enfuir sous les fourrés du voisinage. Le jeune novice n\'en fut pas autrement chagriné, car à en croire Tom Marix, ce mammifère n\'a de valeur que par la difficulté qu\'on éprouve à l\'atteindre, et non par ses propriétés comestibles. Il en fut de même d\'un « bungari », animal de grande taille à pelage noirâtre, qui se faufile entre les hautes ramures à la façon des marsupiaux, s\'accrochant avec ses griffes de chat, balançant sa longue queue. Cet être, essentiellement noctambule, se cache si adroitement entre les branches qu\'il est malaisé de l\'y reconnaître.
+
+Par exemple, Tom Marix fit observer que le bungari fournit un gibier excellent, dont la chair est très supérieure à celle du kangourou, lorsqu\'on la fait rôtir sur des braises. On eut d\'autant plus de regret de n\'en pouvoir juger, et il était probable que les bungaris cesseraient de se montrer aux approches du désert. Évidemment, en s\'avançant à l\'ouest, la caravane serait réduite à ne vivre que de ses propres ressources.
+
+Cependant, malgré les difficultés du sol, Tom Marix parvenait à maintenir la moyenne réglementaire de douze à quatorze milles par vingt-quatre heures -- moyenne sur laquelle était basée la marche de l\'expédition. Bien que la chaleur fût déjà très forte -- trente à trente-cinq degrés à l\'ombre -- le personnel la supportait assez convenablement. Durant le jour, il est vrai, on trouvait encore quelques groupes d\'arbres au pied desquels le campement pouvait être dressé dans des conditions acceptables. D\'ailleurs, l\'eau ne manquait pas, bien qu\'il n\'y eût plus que quelques filets dans le lit des creeks. Les haltes qui avaient régulièrement lieu de neuf heures à quatre heures de l\'après-midi, dédommageaient suffisamment hommes et bêtes de la fatigue des marches.
+
+La contrée était inhabitée. Les derniers runs avaient été laissés en arrière. Plus de paddocks, plus d\'enclos, plus de ces nombreux moutons qu\'une herbe courte et desséchée n\'aurait pu nourrir. À peine rencontrait-on de rares indigènes, qui se dirigeaient vers les stations de l\'Overland-Telegraf-Line.
+
+Le 7 novembre, dans l\'après-midi, Godfrey, qui s\'était éloigné d\'un demi-mille en avant, revint en signalant la présence d\'un homme à cheval. Ce cavalier suivait une étroite sente au pied des Mac-Donnell-Ranges, dont la base est formée de quartz et de grès métamorphiques. Ayant aperçu la caravane, il piqua des deux et l\'eut rejointe en un temps de galop.
+
+Le personnel venait de s\'installer sous de maigres eucalyptus, un bouquet de deux à trois arbres, qui donnaient à peine d\'ombre. Là sinuait un petit creek, alimenté par les sources que renferme la chaîne centrale, et dont toute l\'eau avait été bue par les racines de ces eucalyptus.
+
+Godfrey amena l\'homme en présence de Mrs. Branican. Elle lui fit d\'abord donner une large rasade de wiskey, et il se montra très reconnaissant de cette aubaine.
+
+C\'était un blanc australien âgé de trente-cinq ans environ, un de ces excellents cavaliers, habitués à la pluie qui glisse sur leur peau luisante comme sur un taffetas ciré, habitués au soleil qui n\'a plus rien à cuire sur leur teint absolument rissolé. Il était courrier de son état, et remplissait ses fonctions avec zèle et bonne humeur, parcourant les districts de la province, distribuant les lettres, colportant les nouvelles de station en station, et aussi dans les villages disséminés à l\'est ou à l\'ouest de la ligne télégraphique. Il revenait alors d\'Emu-Spring, poste de la pente méridionale des Bluff-Ranges, après avoir traversé la région qui s\'étend jusqu\'au massif des Mac-Donnell.
+
+Ce courrier, qui appartenait à la classe des « roughmen », on aurait pu le comparer au type bon garçon des anciens postillons de France. Il savait endurer la faim, endurer la soif. Certain d\'être cordialement accueilli partout où il s\'arrêtait, même quand il n\'avait pas à tirer une lettre de sa sacoche, résolu, courageux, vigoureux, le revolver à la ceinture, le fusil en bandoulière, une monture rapide et vigoureuse entre les jambes, il allait jour et nuit, sans craindre les mauvaises rencontres.
+
+Mrs. Branican eut plaisir à le faire causer, à lui demander des renseignements sur les tribus aborigènes avec lesquelles il s\'était trouvé en rapport.
+
+Ce brave courrier répondit obligeamment et simplement. Il avait entendu parler -- comme tout le monde -- de la catastrophe du *Franklin* ; toutefois, il ignorait qu\'une expédition, organisée par la femme de John Branican, eût quitté Adélaïde pour explorer les régions centrales du continent australien. Mrs. Branican lui apprit aussi que, d\'après les révélations de Harry Felton, c\'était parmi les peuplades de la tribu des Indas que le capitaine John était retenu depuis quatorze ans.
+
+« Et, dans vos courses, demanda-t-elle, avez-vous eu des relations avec les indigènes de cette tribu ?
+
+--- Non, mistress, bien que ces Indas se soient parfois rapprochés de la Terre Alexandra, répondit le courrier, et que j\'aie souvent entendu parler d\'eux.
+
+--- Peut-être pourriez-vous nous dire où ils se trouvent actuellement ? demanda Zach Fren.
+
+--- Avec ces nomades, ce serait difficile... Une saison, ils sont ici, une autre, ils sont là-bas...
+
+--- Mais, en dernier lieu ?... reprit Mrs. Branican, qui insista sur cette question.
+
+--- Je crois pouvoir affirmer, mistress, répondit le courrier, que ces Indas étaient, il y a six mois, dans le nord-ouest de l\'Australie orientale, du côté de la rivière Fitz-Roy. Ce sont les territoires que fréquentent volontiers les peuplades de la Terre de Tasman. Mille diables ! Vous savez que pour atteindre ces territoires, il faut traverser les déserts du centre et de l\'ouest, et je n\'ai pas à vous apprendre à quoi on s\'expose !... Après tout, avec du courage et de l\'énergie, on va loin... Donc, faites-en provision, et bon voyage, mistress Branican ! »
+
+Le courrier accepta encore un grand verre de wiskey, et même quelques boîtes de conserves qu\'il glissa dans ses fontes. Puis, remontant à cheval, il disparut en contournant la dernière pointe des Mac-Donnell-Ranges.
+
+Deux jours après, la caravane dépassait les extrêmes contreforts de cette chaîne que domine la cime du mont Liebig. Elle était enfin arrivée sur la limite du désert, à cent trente milles au nord-ouest d\'Alice-Spring.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9 -- Journal de mistress Branican]{.pcalibre lang="X-NONE"}]{#_Toc342942252 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-9-journal-de-mistress-branican .calibre171 .sigil_not_in_toc}
+
+Ce que le mot « désert » évoque à l\'esprit, c\'est le Sahara, avec ses immenses plaines sablonneuses, coupées de fraîches et verdoyantes oasis. Toutefois les régions centrales du continent australien n\'ont rien de commun avec les régions septentrionales de l\'Afrique, si ce n\'est la rareté de l\'eau. « L\'eau s\'est mise à l\'ombre », disent les indigènes, et le voyageur est réduit à errer de puits en puits, situés pour la plupart à des distances considérables. Cependant bien que le sable, soit qu\'il s\'étende en couches, soit qu\'il se relève en dunes, recouvre en grande partie le sol australien, ce sol n\'est pas absolument aride. Des arbrisseaux, agrémentés de fleurettes, quelques arbres de loin en loin, gommiers, acacias ou eucalyptus, cela est moins attristant que la nudité du Sahara. Mais ces arbres, ces arbrisseaux, ne fournissent ni fruits ni feuilles comestibles aux caravanes, qui sont obligées d\'emporter leurs vivres, et c\'est à peine si la vie animale est représentée au milieu de ces solitudes par le vol des oiseaux de passage.
+
+Mrs. Branican tenait avec une régularité et une exactitude parfaite son journal de voyage. Quelques notes de ce journal feront connaître, plus nettement que les montrerait un simple récit, les incidents de ce cheminement si pénible. Elles diront mieux aussi ce qu\'était l\'âme ardente de Dolly, sa fermeté au milieu des épreuves, son inébranlable ténacité à ne point désespérer, même lorsque le moment arriva où la plupart de ses compagnons désespérèrent autour d\'elle. On y verra enfin ce dont une femme est capable, quand elle se dévoue à l\'accomplissement d\'un devoir.
+
+\...\...\...\...\....
+
+*10* *novembre*. -- Nous avons quitté notre campement du mont Liebig à quatre heures du matin. Ce sont de précieux renseignements que nous a fournis ce courrier. Ils concordent avec ceux de ce pauvre Felton. Oui, c\'est au nord-ouest et plus spécialement du côté de la rivière Fitz-Roy qu\'il faut chercher la tribu des Indas. Près de huit cents milles à franchir !... Nous les franchirons. J\'arriverai, dussé-je arriver seule, dussé-je devenir prisonnière de cette tribu. Du moins, je le serais avec John !
+
+
+L\'ordre de marche adopté par Tom Marix est très pratique. La durée et les heures des étapes sont également bien proportionnées. Entre quatre et huit heures du matin, première étape, puis halte jusqu\'à quatre heures. Seconde étape de quatre heures à huit heures du soir, et repos toute la nuit. Nous évitons ainsi de cheminer pendant la brûlante méridienne. Mais que de temps perdu ! Que de retards ! En admettant qu\'il ne survienne aucun obstacle, c\'est à peine si nous serons dans trois mois d\'ici sur les bords de la Fitz-Roy river...
+
+Je suis très satisfaite des services de Tom Marix. Zach Fren et lui sont deux hommes résolus, sur lesquels je puis compter en toutes circonstances.
+
+Godfrey m\'effraie par sa nature passionnée. Il est toujours en avant, et souvent nous le perdons de vue. J\'ai de la peine à le retenir près de moi, et, pourtant, cet enfant m\'aime autant que s\'il était mon fils. Tom Marix lui a fait des observations sur sa témérité. J\'espère qu\'il en tiendra compte.
+
+Len Burker presque toujours à l\'arrière de la caravane semble plutôt rechercher la compagnie des noirs de l\'escorte que celle des blancs. Il connaît de longue date leurs goûts, leurs instincts, leurs habitudes. Lorsque nous rencontrons des indigènes, il nous est très utile, car il parle leur langue assez pour les comprendre et en être compris. Puisse le mari de ma pauvre Jane s\'être sérieusement amendé, mais je crains !... Son regard n\'a pas changé -- un de ces regards sans franchise, qui se détournent...
+
+\...\...\...\...\....
+
+*13* *novembre*. -- Il n\'y a rien eu de nouveau pendant ces trois jours. Quel soulagement et quelle consolation j\'éprouve à voir Jane près de moi ! Que de propos nous échangeons dans la kibitka, où nous sommes renfermées toutes les deux ! J\'ai fait partager ma conviction à Jane, elle ne met plus en doute que je retrouverai John. Mais la pauvre femme est toujours triste. Je ne la presse point de questions sur son passé depuis le jour où Len Burker l\'a forcée de le suivre en Australie. Je comprends qu\'elle ne puisse se livrer tout entière. Il me semble quelquefois qu\'elle va dire des choses... On croirait que Len Burker la surveille... Quand elle l\'aperçoit, quand il s\'approche, son attitude change, son visage se décompose... Elle en a peur... Il est certain que cet homme la domine, et que, sur un geste de lui, elle l\'accompagnerait au bout du monde.
+
+Jane paraît avoir de l\'affection pour Godfrey, et pourtant, lorsque ce cher enfant vient près de notre kibitka dans l\'intention de causer, elle n\'ose lui adresser la parole, ni même lui répondre... Ses yeux se détournent, elle baisse la tête... On dirait qu\'elle souffre de sa présence.
+
+Aujourd\'hui, nous traversons une longue plaine marécageuse pendant l\'étape du matin. Il s\'y rencontre quelques flaques d\'eau, une eau saumâtre, presque salée. Tom Marix nous dit que ces marais sont des restes d\'anciens lacs, qui se reliaient autrefois au lac Eyre et au lac Torrens pour former une mer en dédoublant le continent. Par bonheur, nous avions pu faire une provision d\'eau à notre halte de la veille, et nos chameaux se sont désaltérés abondamment.
+
+On trouve, paraît-il, plusieurs de ces lagunes, non seulement dans les parties déprimées du sol, mais aussi au milieu des régions plus élevées.
+
+Le terrain est humide ; le pied des montures y fait apparaître une boue visqueuse, après avoir écrasé la couche saline qui recouvre les flaques. Quelquefois la croûte résiste davantage à la pression, et, lorsque le pied s\'y enfonce brusquement, il jaillit une éclaboussure de vase liquide.
+
+Nous avons eu grand-peine à franchir ces marécages, qui s\'étendent sur une dizaine de milles vers le nord-ouest.
+
+Rencontré déjà des serpents depuis notre départ d\'Adélaïde. Ils sont assez répandus en Australie, et en plus grand nombre à la surface de ces lagunes, semées d\'arbrisseaux et d\'arbustes. Un de nos hommes de l\'escorte a même été mordu par un de ces venimeux reptiles, longs d\'au moins trois pieds, de couleur brune, et dont le nom scientifique est, m\'a-t-on dit, le *Trimesurus* *ikaheca*. Tom Marix a aussitôt cautérisé la blessure avec une pincée de poudre versée sur le bras de cet homme, et qu\'il a enflammée. L\'homme -- c\'était un blanc -- n\'a pas même poussé un cri. Je lui tenais le bras pendant l\'opération. Il m\'a remerciée. Je lui ai fait donner un supplément de wiskey. Nous avons lieu de croire que la blessure n\'aura pas de suite fâcheuse.
+
+Il faut prendre garde où l\'on met le pied. D\'être hissé sur un chameau ne vous met pas complètement à l\'abri de ces serpents. Je crains toujours que Godfrey ne commette quelque imprudence et je tremble, lorsque j\'entends les noirs crier : « Vin\'dohe ! », mot qui veut dire « serpent » en langue indigène.
+
+Le soir, au moment où l\'on installait les tentes pour la nuit, deux de nos indigènes ont encore tué un reptile de grande taille. Tom Marix dit que, si les deux tiers de serpents qui fourmillent en Australie sont venimeux, il n\'y a que cinq espèces dont le venin soit dangereux pour l\'homme. Le serpent que l\'on vient de tuer mesure une douzaine de pieds de long. C\'est une sorte de boa. Nos Australiens ont voulu l\'accommoder pour leur repas du soir. Il n\'y avait qu\'à les laisser faire.
+
+Voici comment ils s\'y prennent :
+
+Un trou ayant été creusé dans le sable, un indigène y place des pierres préalablement chauffées au milieu d\'un brasier, et sur lesquelles sont étendues des feuilles odorantes. Le serpent, dont la tête et la queue ont été coupées, est exposé au fond du trou et recouvert du même feuillage, qui est maintenu par des pierres chaudes. Le tout reçoit une couche de terre piétinée, assez épaisse pour que la vapeur de la cuisson ne puisse s\'échapper au dehors.
+
+Nous assistons à cette opération culinaire, non sans quelque dégoût ; mais, lorsque le serpent, suffisamment cuit, a été retiré de ce four improvisé, il faut convenir que sa chair exhale un fumet délicieux. Ni Jane ni moi, n\'en voulûmes goûter, bien que Tom Marix assurât que, si la chair blanchâtre de ces reptiles est assez insipide, leur foie est considéré comme un manger des plus savoureux.
+
+« On peut le comparer, dit-il, à ce qu\'il y a de plus fin en fait de gibier et particulièrement à la gélinotte.
+
+--- Gélinotte !... Bien !... Oh !... Très bien ! Délicieux, la gélinotte ! » s\'écria Jos Meritt.
+
+Et après s\'être fait servir un petit morceau du foie, il en redemanda un plus gros, et il eût fini par le dévorer tout entier. Que voulez-vous ? Le sans-façon britannique.
+
+Quant à Gîn-Ghi, il ne s\'est pas fait prier. Une belle tranche fumante de la chair du serpent, qu\'il a dégustée en gourmet, l\'a mis de belle humeur.
+
+« *Ay* *ya* ! S\'est-il écrié non sans un long soupir de regret, avec quelques huîtres de Ning-Po et une fiole de vin de Tao-Ching, on se croirait au Tié-Coung-Yuan ! »
+
+Et Gîn-Ghi voulut bien m\'apprendre que c\'était là le fameux débit de thé de l\'Arc *de* *fer* à Pékin.
+
+Godfrey et Zach Fren, surmontant leur répugnance, s\'offrirent des bribes de serpent. C\'était très mangeable à leur avis. J\'ai préféré les en croire sur parole.
+
+Il va sans dire que le reptile fut dévoré jusqu\'à la dernière bouchée par les indigènes de l\'escorte. Ils ne laissèrent même pas perdre le quelque peu de graisse que l\'animal avait rendu pendant la cuisson.
+
+Durant la nuit, notre sommeil a été troublé par de sinistres hurlements qui se sont fait entendre à une certaine distance. C\'était une troupe de « dingos ». Le dingo pourrait être appelé le chacal de l\'Australie, car il tient du chien et du loup. Il possède une fourrure jaunâtre ou d\'un rouge brun, et une longue queue très fournie. Fort heureusement, ces fauves se bornèrent à hurler et n\'attaquèrent point le campement. En très grand nombre, ils auraient pu être redoutables.
+
+\...\...\...\...\....
+
+*19* *novembre*.
+
+--- La chaleur est de plus en plus accablante, et les creeks que nous rencontrons encore sont presque entièrement desséchés. Il est nécessaire de creuser leur lit, si l\'on veut recueillir de cette eau dont nous remplissons nos tonnelets. Avant peu, nous ne pourrons plus compter que sur les puits ; les creeks auront disparu.
+
+Je suis bien obligée de reconnaître qu\'il existe une antipathie vraiment inexplicable, on la dirait même instinctive, entre Len Burker et Godfrey. Jamais l\'un n\'adresse la parole à l\'autre. Il est certain qu\'ils s\'évitent le plus qu\'ils peuvent.
+
+Je m\'en suis entretenue un jour avec Godfrey.
+
+« Tu n\'aimes pas Len Burker ? lui ai-je dit.
+
+--- Non, mistress Dolly, m\'a-t-il répondu, et ne me demandez pas de l\'aimer...
+
+--- Mais il est allié à ma famille, ai-je repris. C\'est mon parent, Godfrey, et puisque tu m\'aimes...
+
+--- Mistress Dolly, je vous aime, mais je ne l\'aimerai jamais. »
+
+Cher Godfrey, quel est donc le pressentiment, la raison secrète, qui le fait parler ainsi ?
+
+\...\...\...\...\....
+
+*27* *novembre*. -- Aujourd\'hui s\'étendent devant nos yeux de larges espaces, d\'immenses steppes monotones, couverts de spinifex. C\'est une herbe épineuse que l\'on a justement nommée « herbe porc-épic ». Il faut circuler entre des touffes qui s\'élèvent quelquefois jusqu\'à cinq pieds au-dessus du sol, et dont les pointes très aiguës risquent de blesser nos montures. Déjà les pousses de spinifex ont cette teinte particulière qui suffit à indiquer qu\'elles sont impropres à l\'alimentation des bêtes. Lorsque ces pousses sont encore jaunes ou vertes, les chameaux ne refusent point de s\'en nourrir. Mais ce n\'est plus le cas, et ils ne se préoccupent que de ne point s\'y frôler en passant.
+
+Dans ces conditions, la marche devient extrêmement pénible. C\'est un parti à prendre, car nous aurons des centaines de milles à franchir au milieu de ces plaines de spinifex. C\'est l\'arbuste du désert, le seul qui puisse végéter sur les arides territoires du centre de l\'Australie.
+
+La chaleur s\'accroît sans cesse, l\'ombre manque partout. Nos piétons souffrent à l\'excès de cette température violente. Et croirait-on que, cinq mois plus tôt, ainsi que l\'a constaté le colonel Warburton, le thermomètre s\'abaisse quelquefois bien au-dessous de zéro, et les creeks sont emprisonnés sous une couche de glace épaisse d\'un pouce ?
+
+Les creeks se multiplient à cette époque ; mais, à présent, quelle que soit la profondeur à laquelle on creuserait leur lit, il ne s\'y trouverait pas une seule goutte d\'eau.
+
+Tom Marix a donné l\'ordre à ceux des gens de l\'escorte qui sont montés, de céder de temps à autre leurs montures à ceux qui ne le sont pas. Cette mesure a été prise dans le but de donner satisfaction aux réclamations des noirs. Je vois avec regret que Len Burker s\'est fait leur porte-parole en cette circonstance. Certainement ces hommes sont à plaindre : s\'en aller pieds nus au milieu des touffes de spinifex, par une température qui est à peine supportable, même le soir, même le matin, c\'est extrêmement pénible. En tout cas, ce n\'est pas à Len Burker d\'exciter leur jalousie contre l\'escouade des blancs. Il se mêle de ce qui ne le regarde pas. Je le prie de s\'observer.
+
+« Ce que j\'en fais, Dolly, me répond-il, c\'est dans l\'intérêt commun.
+
+--- Je veux le croire, ai-je répliqué.
+
+--- Il importe de répartir justement les charges...
+
+--- Laissez-moi ce soin, monsieur Burker, dit Tom Marix, qui est intervenu dans la discussion. Je prendrai les mesures nécessaires. »
+
+Je le vois bien, Len Burker se retire avec un dépit mal déguisé, et il nous a lancé un mauvais regard. Jane s\'en est aperçue, au moment où les yeux de son mari se sont fixés sur elle, et la pauvre femme a détourné la tête.
+
+Tom Marix me promet de faire tout ce qui dépendra de lui, afin que les hommes de l\'escorte, blancs ou noirs, n\'aient à se plaindre en aucune façon.
+
+\...\...\...\...\....
+
+*5* *décembre*. -- Pendant nos haltes, nous avons beaucoup à souffrir du fait des fourmis blanches. C\'est par myriades que nous assaillent ces insectes. Invisibles sous le sable fin, il suffit de la pression du pied pour qu\'ils apparaissent à la surface.
+
+« J\'ai la peau dure et coriace, me dit Zach Fren, une vraie peau de requin, et pourtant ces maudites bêtes n\'en font pas fi ! »
+
+La vérité est que le cuir des animaux n\'est pas même assez épais pour résister à la morsure de leurs mandibules. Nous ne pouvons plus nous étendre à terre, sans en être aussitôt couverts. Pour échapper à ces insectes, il faudrait s\'exposer aux rayons du soleil, dont ils ne peuvent supporter l\'ardeur. Ce ne serait que changer un mal pour un pire.
+
+Celui de nous qui semble être le moins maltraité par ces fourmis, c\'est le Chinois. Est-il trop paresseux pour que ces importunes piqûres triomphent de son indolence ? Je ne sais ; mais, tandis que nous changeons de place, nous débattant, à demi enragés, le privilégié Gîn-Ghi, étalé à l\'ombre d\'une touffe de spinifex, reste immobile et dort paisiblement, comme si ces malfaisantes bêtes respectaient sa peau jaune.
+
+Jos Meritt, au surplus, se montre aussi patient que lui. Bien que son long corps offre à ces assaillants un vaste champ à dévorer, il ne se plaint pas. D\'un mouvement automatique et régulier, ses deux bras se lèvent, retombent, écrasent machinalement des milliers de fourmis, et il se contente de dire, en regardant son serviteur indemne de toute morsure :
+
+« Ces Chinois sont vraiment des êtres exceptionnellement favorisés de la nature. -- Gîn-Ghi ?...
+
+--- Mon maître Jos ?
+
+--- Il faudra que nous changions de peau ?...
+
+--- Volontiers, répond le Céleste, si, en même temps, nous changeons de condition.
+
+--- Bien... Oh !... Très bien ! Mais, pour opérer ce changement de peau, il conviendra d\'abord d\'écorcher l\'un de nous, et ce sera par vous que l\'on commencera...
+
+--- Nous reparlerons de cette affaire à la troisième lune », répond Gîn-Ghi.
+
+Et il se rendort jusqu\'à la cinquième veille, pour employer son poétique langage, c\'est-à-dire jusqu\'au moment où la caravane va se remettre en route.
+
+\...\...\...\...\....
+
+*10* *décembre*. -- Ce supplice ne cesse qu\'après le départ effectué sur le signal donné par Tom Marix. Il est heureux que les fourmis ne s\'avisent pas de grimper aux jambes des chameaux. Quant à nos piétons, ils ne sont pas absolument délivrés de ces insupportables insectes.
+
+En outre, pendant la marche nous ne laissons pas d\'être en butte aux attaques d\'ennemis d\'un autre genre, et non moins désagréables ; ce sont les moustiques, qui constituent l\'un des plus redoutables fléaux de l\'Australie. Sous leur aiguillon, surtout à l\'époque des pluies, les bestiaux, comme s\'ils étaient frappés par une épidémie, maigrissent, dépérissent, meurent même, sans qu\'on puisse les préserver.
+
+Et, cependant, que n\'aurions-nous donné pour être alors dans la saison des pluies ? Il n\'est rien, en vérité, ce fléau des fourmis ou des moustiques, auprès des tortures de la soif que provoquent les chaleurs du mois de décembre australien. Le manque d\'eau finit par amener l\'anéantissement de toutes les facultés intellectuelles, de toutes les forces physiques. Et voilà que nos réserves s\'épuisent, que nos tonnelets sonnent le creux ! Après avoir été remplis au dernier creek, ce qu\'ils contiennent n\'est qu\'un liquide échauffé, épais, troublé par les secousses, qui ne suffit plus à étancher la soif. Notre situation sera bientôt celle des chauffeurs arabes à bord des steamers qui traversent la Mer Rouge : les malheureux tombent à demi pâmés devant le foyer de leurs chaudières.
+
+Ce qui est non moins alarmant, c\'est que nos chameaux commencent à se traîner, au lieu de garder cette allure du pas relevé, qui leur est familière. Leurs cous se tendent vers l\'horizon tracé autour de la longue et large plaine rase, sans un accident du sol, sans une ondulation de terrain. Toujours l\'immense steppe, recouvert de l\'aride spinifex, que ses profondes racines maintiennent dans le sable. Il n\'y a pas un arbre en vue, pas un indice auquel on puisse reconnaître la présence d\'un puits ou d\'une source.
+
+\...\...\...\...\....
+
+*16* *décembre*. -- En deux étapes, notre caravane n\'a pas franchi neuf milles aujourd\'hui. Au reste, depuis plusieurs jours j\'ai constaté que notre moyenne de marche a baissé dans une proportion notable. Malgré leur vigueur, nos bêtes n\'avancent que d\'un pas languissant, surtout celles qui transportent le matériel, Tom Marix entre en fureur, lorsqu\'il voit ses hommes s\'arrêter brusquement, avant qu\'il ait donné le signal de la halte. Il s\'approche des chameaux de bât, et il les frappe de sa cravache, dont les cinglements, après tout, n\'ont que peu d\'action sur le cuir de ces rustiques animaux.
+
+Ce qui amène Jos Meritt à dire, avec ce flegme dont il ne se départ jamais :
+
+« Bien !... Oh !... Très bien, monsieur Marix ! Mais, que je vous donne un bon conseil : ce n\'est pas sur le chameau qu\'il faut taper, c\'est sur son conducteur. »
+
+Et, certainement il n\'aurait pas déplu à Tom Marix de se ranger à cet avis, si je ne fusse intervenue pour l\'en empêcher. Aux fatigues que nos gens éprouvent, ayons la prudence, à tout le moins, de ne pas joindre les mauvais traitements. Quelques-uns d\'entre eux finiraient par déserter, je crains que cela arrive, principalement si l\'idée en vient aux noirs de l\'escorte, bien que Tom Marix ne cesse de me rassurer à cet égard.
+
+\...\...\...\...\....
+
+*Du* *17* *au* *27* *décembre*. -- Le voyage se poursuit dans ces conditions.
+
+Pendant les premiers jours de la semaine, le temps s\'est modifié avec le vent qui souffle plus vivement. Quelques nuages sont montés du nord, présentant des volutes arrondies. On dirait de grosses bombes qu\'une étincelle suffirait à faire éclater.
+
+Ce jour-là -- 23 -- l\'étincelle a jailli, un éclair a sillonné l\'espace. Les éclats stridents de la foudre se sont produits avec une intensité rare, mais sans être suivis de ces roulements prolongés que les échos se renvoient dans les pays montagneux. En même temps, les courants atmosphériques se sont déchaînés d\'une telle violence que nous n\'avons pu tenir sur nos bêtes. Il a fallu en descendre et même s\'étendre sur le sol. Zach Fren, Godfrey, Tom Marix et Len Burker ont eu beaucoup de peine à protéger notre kibitka contre l\'impétuosité des rafales. Quant à camper sous de tels assauts, à dresser nos tentes entre les touffes de spinifex, impossible d\'y songer. En un instant, tout le matériel eût été dispersé, lacéré, mis hors d\'usage.
+
+« Cela n\'est rien, dit Zach Fren en se frottant les mains. Un orage est bientôt passé.
+
+--- Vive l\'orage, s\'il donne de l\'eau ! » s\'écria Godfrey.
+
+Godfrey a raison : de l\'eau ! De l\'eau ! C\'est notre cri... Mais pleuvra-t-il ?... Toute la question est là ?... Oui, c\'est toute la question car une pluie abondante, ce serait pour nous la manne du désert. Par malheur, l\'air était si sec -- ce qui se reconnaissait à la singulière brièveté des coups de tonnerre -- que l\'eau des nuages pourrait bien rester à l\'état de vapeur et ne point se résoudre en pluie. Et pourtant, il eût été difficile d\'imaginer un plus violent orage, un plus assourdissant échange de détonations et d\'éclairs.
+
+Je pus observer alors ce qui m\'avait été dit de l\'attitude des aborigènes australiens en présence de ces météores. Ils ne craignent pas d\'être frappés du tonnerre, ils ne ferment pas les yeux devant l\'éclair, ils ne frémissent pas aux éclats de la foudre. En effet, c\'étaient des exclamations de joie que poussaient les noirs de notre escorte. Ils ne subissaient en aucune façon cette impression physique que ressent tout être vivant, lorsque l\'espace est chargé d\'électricité, au moment où ce fluide se manifeste par le déchirement des nues dans les hauteurs du ciel en feu.
+
+Décidément, l\'appareil nerveux est peu sensible chez ces êtres primitifs. Après tout, peut-être saluaient-ils dans cet orage le déluge qu\'il pouvait contenir ? Et en vérité, cette attente était le supplice de Tantale dans toute son âpreté.
+
+« Mistress Dolly... mistress Dolly, me disait Godfrey, c\'est pourtant de l\'eau, de la bonne eau pure, de l\'eau du ciel, qui est suspendue sur notre tête ! Voilà des éclairs qui crèvent ces nuages, et il n\'en tombe rien !
+
+--- Un peu de patience, mon enfant, lui répondis-je, ne nous désespérons pas...
+
+--- En effet, dit Zach Fren, les nuages s\'épaississent et s\'abaissent en même temps. Ah ! Si le vent voulait s\'apaiser, tout ce vacarme finirait en cataractes ! »
+
+De fait, ce qu\'il y avait le plus à craindre, c\'était que l\'ouragan n\'emportât cet amas de vapeurs vers le sud, sans nous verser une goutte d\'eau...
+
+Vers trois heures de l\'après-midi, il semble que l\'horizon au nord commence à se dégager, que l\'orage aura bientôt pris fin. Ce sera une cruelle déception !
+
+« Bien !... Oh !... Très bien ! »
+
+C\'est Jos Meritt qui vient de lancer son exclamation habituelle. Jamais cette locution approbative n\'a été plus justifiée. Notre Anglais, la main étendue, constate qu\'elle s\'est mouillée de quelques larges gouttes.
+
+Le déluge ne se fit pas attendre. Il fallut nous abriter étroitement sous nos vêtements de caoutchouc. Puis, sans perdre une minute, tous les récipients que comprenait le matériel furent disposés sur le sol, de manière à recevoir cette bienfaisante averse. On étendit même des linges, des toiles, des couvertures, dont il suffirait d\'exprimer l\'eau, quand elles seraient imbibées -- ce qui servirait à désaltérer les bêtes.
+
+D\'ailleurs, sur l\'heure même, les chameaux purent apaiser la soif qui les torturait. Des ruisselets et des mares s\'étaient rapidement formés entre les touffes de spinifex. La plaine menaçait de se transformer en un vaste marécage. Il y eut de l\'eau, et pour tout le monde. Nous nous étions d\'abord délectés à cette source abondante, que la terre desséchée allait absorber comme ferait une éponge, et dont le soleil, qui reparaissait à l\'horizon, ne tarderait pas à vaporiser les dernières larmes.
+
+Enfin, c\'était notre réserve assurée pour plusieurs jours. C\'était la possibilité de reprendre nos étapes quotidiennes avec un personnel ranimé de corps et d\'âme, et des animaux solidement remis sur pied. Les tonnelets furent remplis jusqu\'aux bondes. Tout ce qui était étanche fut employé comme récipient. Quant aux chameaux, ils ne négligèrent point de garnir la poche intérieure dont la nature les a pourvus, et dans laquelle ils peuvent s\'approvisionner d\'eau pour un certain temps. Et dût-on en être surpris, cette poche contient environ quinze gallons[[\[15\]]{.MsoFootnoteReference5}](../Text/Section0004.xhtml#_ftn15035){#_ftnref15035 .pcalibre2 .pcalibre1}.
+
+Malheureusement ils sont rares, les orages qui désaltèrent la surface du continent australien, du moins à cette époque de l\'année où la chaleur estivale est dans toute sa puissance. C\'est donc une éventualité favorable sur laquelle il serait imprudent de compter pour l\'avenir. Cet orage avait duré trois heures à peine, et le lit brûlant des creeks aurait bientôt absorbé ce qu\'il leur avait versé des eaux du ciel. Les puits, il est vrai, en profiteraient dans une plus large mesure, et nous n\'aurons qu\'à nous en féliciter, si cet orage n\'a pas été local. Espérons qu\'il aura rafraîchi sur quelques centaines de milles la plaine australienne\...\...\...\...\....
+
+*29* *décembre*. -- C\'est dans ces conditions, et en nous raccordant de très près à l\'itinéraire du colonel Warburton, que nous avons atteint sans nouvel incident Waterloo-Spring, à cent quarante milles du mont Liebig. Notre expédition touchait alors le cent vingt-sixième degré de longitude, que Tom Marix et Godfrey ont relevé sur la carte. Elle venait de franchir la limite conventionnelle, établie par un trait rectiligne, tiré du sud au nord, entre les provinces avoisinantes et cette vaste portion du continent qui porte le nom d\'Australie occidentale.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- Encore quelques extraits]{.pcalibre lang="X-NONE"}]{#_Toc342942253 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10-encore-quelques-extraits .calibre171 .sigil_not_in_toc}
+
+Waterloo-Spring n\'est point une bourgade, pas même un village. Quelques huttes d\'indigènes abandonnées en ce moment, rien de plus. Les nomades ne s\'y arrêtent qu\'à l\'époque où la saison des pluies alimente les cours d\'eau de cette région -- ce qui leur permet de s\'y fixer pour un certain temps. Waterloo ne justifiait en aucune façon cette adjonction du mot « spring », qui est commun à toutes les stations du désert. Nulle source ne s\'épanchait hors du sol, et, ainsi qu\'il a été dit, s\'il se rencontre dans le Sahara de fraîches oasis, abritées d\'arbres, arrosées d\'eaux courantes, c\'est en vain qu\'on les chercherait au milieu du désert australien.
+
+Telle est l\'observation consignée du journal de Mrs. Branican, dont quelques extraits vont encore être reproduits. Mieux que la plus précise description, ils sont de nature à faire connaître le pays, à montrer dans toute leur horreur les épreuves réservées aux audacieux qui s\'y aventurent. Ils permettront aussi d\'apprécier la force morale, l\'indomptable énergie de leur auteur, son intraitable résolution d\'atteindre le but, au prix de n\'importe quels sacrifices.
+
+\...\...\...\...\....
+
+*30* *décembre*. -- Il faut séjourner quarante-huit heures à Waterloo-Spring. Ces retards me désolent, quand je songe à la distance qui nous sépare encore de la vallée où coule la Fitz-Roy. Et sait-on s\'il ne sera pas nécessaire de chercher au-delà de cette vallée la tribu des Indas ? Depuis le jour où Harry Felton l\'a quitté, quelle a été l\'existence de mon pauvre John ?... Les indigènes ne se seront-ils pas vengés sur lui de la fuite de son compagnon ?... Il ne faut pas que je pense à cela... Cette pensée me tuerait !...
+
+Zach Fren essaie de me rassurer.
+
+« Puisque, durant tant d\'années, le capitaine John et Harry Felton ont été les prisonniers de ces Indas, me dit-il, c\'est que ceux-ci avaient intérêt à les conserver. Harry Felton vous l\'a fait comprendre, mistress. Ces indigènes ont reconnu dans le capitaine un chef blanc de grande valeur et ils attendent toujours l\'occasion de le rendre contre une rançon proportionnée à son importance. À mon sens, la fuite de son compagnon ne doit pas avoir empiré la situation du capitaine John. »
+
+Dieu veuille qu\'il en soit ainsi !
+
+\...\...\...\...\....
+
+*31* *décembre*. -- Aujourd\'hui s\'est achevée cette année 1890. Il y a quinze ans, le *Franklin* partait du port de San-Diégo... Quinze ans !... Et c\'est depuis quatre mois et cinq jours seulement que notre caravane a quitté Adélaïde ! Cette année qui débute pour nous dans le désert, comment finira-t-elle ?
+
+\...\...\...\...\....
+
+*1* *janvier*. -- Mes compagnons n\'ont pas voulu laisser passer ce jour sans m\'apporter leurs compliments de nouvelle année. Ma chère Jane m\'a embrassée, en proie à la plus vive émotion, et je l\'ai longtemps retenue entre mes bras. Zach Fren et Tom Marix ont voulu me serrer la main. Je sais que j\'ai en eux deux amis qui se sacrifieraient jusqu\'à la mort. Tous nos gens m\'ont entourée en m\'adressant leurs félicitations bien affectueuses. Je dis tous, à l\'exclusion cependant des noirs de l\'escorte, dont le mécontentement se manifeste à chaque occasion. Il est clair que Tom Marix ne les maintient pas sans peine dans le rang.
+
+Len Burker m\'a parlé avec sa froideur habituelle en m\'assurant du succès de notre entreprise. Il ne doute pas que nous n\'arrivions au but. Toutefois, il se demande si c\'est suivre la bonne route que de marcher vers la rivière Fitz-Roy. Les Indas, à son avis, sont des nomades que l\'on rencontre plus fréquemment dans les régions voisines du Queensland, c\'est-à-dire à l\'est du continent. Il est vrai, ajoute-t-il, que nous allons vers l\'endroit où Harry Felton a laissé son capitaine... mais qui peut assurer que les Indas ne se sont pas déplacés... etc.
+
+Tout cela est dit de ce ton qui ne saurait inspirer la confiance, ce ton que certaines gens prennent, quand ils parlent sans vous regarder.
+
+Mais c\'est Godfrey, dont l\'attention m\'a le plus vivement touchée. Il avait fait un bouquet de ces petites fleurs sauvages qui poussent entre les touffes de spinifex. Il me l\'a offert de si bonne grâce, il m\'a dit des choses si tendres, que les larmes me sont venues aux yeux. Comme je l\'ai embrassé, mon Godfrey, et comme ses baisers répondaient aux miens...
+
+Pourquoi la pensée me revient-elle que mon petit Wat aurait son âge... qu\'il serait bon comme lui...
+
+Jane se trouvait là... Elle était si émue, elle est devenue si pâle en présence de Godfrey... J\'ai cru qu\'elle allait perdre connaissance. Mais elle a pu se remettre, et son mari l\'a emmenée... Je n\'ai pas osé la retenir.
+
+Nous avons repris la route, ce jour-là, à quatre heures du soir, par un temps couvert. La chaleur était un peu plus supportable. Les chameaux de selle et de bât, suffisamment reposés de leurs fatigues, ont marché d\'un pas plus soutenu. Il a même fallu les modérer, afin que les hommes à pied pussent les suivre.
+
+\...\...\...\...\....
+
+*15* *janvier*. -- Pendant quelques jours, nous avons conservé cette allure rapide. Deux ou trois fois, il y a eu encore des pluies abondantes. Nous n\'avons pas souffert de la soif, et notre réserve a été refaite au complet. Elle est la plus grave de toutes, cette question de l\'eau, la plus effrayante aussi, lorsqu\'il s\'agit d\'un voyage au milieu de ces déserts. Elle exige une constante préoccupation. En effet, les puits paraissent être rares sur l\'itinéraire que nous suivons. Le colonel Warburton l\'a bien reconnu lors de son voyage, qui s\'est terminé à la côte ouest de la Terre de Tasman.
+
+Nous vivons désormais sur nos provisions -- uniquement. Il n\'y a pas lieu de faire entrer en compte le rendement de la chasse. Le gibier a fui ces mornes solitudes. À peine aperçoit-on quelques bandes de pigeons que l\'on ne peut approcher. Ils ne se reposent entre les touffes de spinifex, qu\'après un long vol, lorsque leurs ailes n\'ont plus la force de les soutenir. Néanmoins notre alimentation est assurée pour plusieurs mois, et, de ce côté, je suis tranquille. Zach Fren veille scrupuleusement à ce que la nourriture, conserves, farine, thé, café soit distribuée avec méthode et régularité. Nous-mêmes, nous sommes soumis au sort commun. Il n\'y a d\'exception pour personne. Les noirs de l\'escorte ne peuvent se plaindre que nous soyons mieux traités qu\'eux.
+
+Çà et là voltigent aussi quelques moineaux, égarés à la surface de ces régions ; mais ils ne valent pas la peine que l\'on se fatigue à les poursuivre.
+
+Toujours des myriades de fourmis blanches, rendant très douloureuses nos heures de halte. Quant aux moustiques, la contrée est trop sèche pour que nous en soyons gênés. « Nous les retrouverons dans les lieux humides », a fait observer Tom Marix. Eh bien, mieux vaut encore subir leurs morsures. Ce ne sera pas payer trop cher l\'eau qui les attire.
+
+Nous avons atteint Mary-Spring, à quatre-vingt-dix milles de Waterloo, dans la journée du 23 janvier.
+
+Un groupe de maigres arbres se dresse en cet endroit. Ce sont quelques eucalyptus, qui ont épuisé tout le liquide du sol et sont à demi flétris.
+
+« Leur feuillage pend comme des langues desséchées par la soif », dit Godfrey.
+
+Et cette comparaison est très juste.
+
+J\'observe que ce jeune garçon, ardent et résolu, n\'a rien perdu de la gaieté de son âge. Sa santé n\'est point altérée, ce que je pouvais craindre, car il est à une époque où l\'adolescent se forme. Et cette incroyable ressemblance qui me trouble... C\'est le même regard, quand ses yeux se fixent sur moi ; ce sont les mêmes intonations quand il me parle... Et il a une manière de dire les choses, d\'exprimer ses pensées, qui me rappelle mon pauvre John !
+
+Un jour, j\'ai voulu attirer l\'attention de Len Burker sur cette particularité.
+
+« Mais non, Dolly, m\'a-t-il répondu, c\'est pure illusion de votre part. Je vous l\'avoue, je ne suis aucunement frappé de cette ressemblance. À mon sens, elle n\'existe que dans votre imagination. Peu importe, après tout, et si c\'est pour ce motif que vous portez intérêt à ce garçon...
+
+--- Non, Len, ai-je repris, et si j\'ai ressenti une vive affection pour Godfrey, c\'est que je l\'ai vu se passionner pour ce qui est l\'unique but de ma vie... retrouver et sauver John. Il m\'a suppliée de l\'emmener, et, touchée de ses instances, j\'ai consenti. Et puis, c\'est un de mes enfants de San-Diégo, l\'un de ces pauvres êtres sans famille, qui ont été élevés à Wat-House... Godfrey est comme un frère de mon petit Wat...
+
+--- Je sais... je sais, Dolly, a répliqué Len Burker, et je vous comprends dans une certaine mesure. Fasse le ciel que vous n\'ayez pas à vous repentir d\'un acte où votre sensibilité a plus de part que votre raison.
+
+--- Je n\'aime pas à vous entendre parler ainsi, Len Burker, ai-je repris avec vivacité. De telles observations me blessent. Qu\'avez-vous à reprocher à Godfrey ?...
+
+--- Oh ! Rien... rien jusqu\'ici. Mais, qui sait... plus tard... peut-être voudra-t-il abuser de votre affection un peu trop prononcée à son égard ?... Un enfant trouvé... on ne sait d\'où il vient... ce qu\'il est... quel sang coule dans ses veines...
+
+--- C\'est le sang de braves et honnêtes gens, j\'en réponds ! me suis-je écriée. À bord du *Brisbane*, il était aimé de tous, de ses chefs et de ses camarades, et, d\'après ce que m\'a dit le capitaine, Godfrey n\'a jamais encouru un seul reproche ! Zach Fren, qui s\'y connaît, l\'apprécie comme moi ! me direz-vous, Len Burker, pourquoi vous n\'aimez pas cet enfant ?
+
+--- Moi... Dolly !... Je ne l\'aime ni ne l\'aime pas... Il m\'est indifférent, voilà tout. Quant à mon amitié, je ne la donne pas ainsi au premier venu, et je ne pense qu\'à John, à l\'arracher aux indigènes... »
+
+Si c\'est une leçon que Len Burker a voulu me donner, je ne l\'accepte pas ; elle porte à faux. Je n\'oublie pas mon mari pour cet enfant ; mais je suis heureuse de penser que Godfrey aura joint ses efforts aux miens. J\'en suis certaine, John approuvera ce que j\'ai fait et ce que je compte faire pour l\'avenir de ce jeune garçon.
+
+Lorsque j\'ai rapporté cette conversation à Jane, la pauvre femme a baissé la tête et n\'a rien répondu.
+
+À l\'avenir, je n\'insisterai plus. Jane ne veut pas, elle ne peut pas donner tort à Len Burker. Je comprends cette réserve ; c\'est son devoir.
+
+\...\...\...\...\....
+
+*29* *janvier*. -- Nous sommes arrivés sur le bord d\'un petit lac, une sorte de lagon, que Tom Marix croit être le White-Lake. Il justifie son nom de « lac blanc », car, à la place de l\'eau qui s\'est évaporée, c\'est une couche de sel qui occupe le fond de ce bassin. Encore un reste de cette mer intérieure qui séparait autrefois l\'Australie en deux grandes îles.
+
+Zach Fren a renouvelé notre provision de sel ; nous aurions préféré trouver de l\'eau potable.
+
+Il y a dans les environs une grande quantité de rats, plus petits que le rat ordinaire. Il faut se prémunir contre leurs attaques. Ce sont des animaux si voraces qu\'ils rongent tout ce qu\'on laisse à leur portée.
+
+Du reste, les noirs n\'ont point trouvé que ce fût là un gibier à dédaigner. Ayant réussi à attraper quelques douzaines de ces rats, ils les ont apprêtés, les ont fait cuire, et se sont régalés de cette chair assez répugnante. Il faudrait que nous fussions bien à court de vivres pour nous résigner à cette nourriture. Dieu veuille que nous n\'en soyons jamais réduits là !
+
+Nous voici maintenant à la limite du désert compris sous le nom de Great-Sandy-Desert.
+
+Pendant les derniers vingt milles, le terrain s\'est graduellement modifié. Les touffes de spinifex sont moins serrées, et cette maigre verdure tend à disparaître. Le sol est-il donc si aride qu\'il ne puisse suffire à cette végétation si peu exigeante ? Qui ne le croirait en voyant l\'immense plaine, ondulée de monticules de sable rouge, et sans qu\'il y ait trace d\'un lit de creek. Cela donne à supposer qu\'il ne pleut jamais sur ces territoires dévorés de soleil -- pas même dans la saison d\'hiver.
+
+Devant cette aridité lamentable, cette sécheresse inquiétante, il n\'est pas un de nous qui ne se sente saisi des plus tristes pressentiments. Tom Marix me montre sur la carte ces solitudes désolées : c\'est un espace laissé en blanc que sillonnent les itinéraires de Giles et de Gibson. Vers le nord, celui du colonel Warburton indique bien les incertitudes de sa marche par les multiples tours et détours que nécessite la recherche des puits. Ici ses gens malades, affamés, sont à bout de forces... Là ses bêtes sont décimées, son fils est mourant... Mieux vaudrait ne pas lire le récit de son voyage, si l\'on veut le recommencer après lui... Les plus hardis reculeraient... Mais je l\'ai lu, et je le relis... Je ne me laisserai pas effrayer... Ce que cet explorateur a bravé pour étudier les régions inconnues du continent australien, je le brave, moi, pour retrouver John... Le seul but de ma vie est là, et je l\'atteindrai !
+
+\...\...\...\...\....
+
+*3* *février*. -- Depuis cinq jours, nous avons dû diminuer encore la moyenne de nos étapes. Autant de perdu sur la longueur du chemin à parcourir. Rien n\'est plus regrettable. Notre caravane, retardée par les accidents de terrain, est incapable de suivre la droite ligne. Le sol est fortement accidenté, ce qui nous oblige à monter et à descendre des pentes parfois très raides. En maint endroit, il est coupé de dunes, entre lesquelles les chameaux sont contraints de circuler, puisqu\'ils ne peuvent les franchir. Il y a aussi des collines sablonneuses qui s\'élèvent jusqu\'à cent pieds, et que séparent des intervalles de six à sept cents. Les piétons enfoncent dans ce sable, et la marche devient de plus en plus pénible.
+
+La chaleur est accablante. On ne saurait se figurer avec quelle intensité le soleil darde ses rayons. Ce sont des flèches de feu, qui vous percent en mille places. Jane et moi, c\'est à peine s\'il nous est possible de demeurer sous l\'abri de notre kibitka. Ce que doivent souffrir nos compagnons pendant les étapes du matin ou du soir ! Zach Fren, si robuste qu\'il soit, est très éprouvé par les fatigues ; mais il ne se plaint pas, il n\'a rien perdu de sa bonne humeur, cet ami dévoué, dont l\'existence est liée à la mienne !
+
+Jos Meritt supporte ces épreuves avec un courage tranquille, une résistance aux privations qu\'on est tenté de lui envier. Gîn-Ghi, moins patient, se plaint, sans parvenir à émouvoir son maître. Et, quand on songe que cet original se soumet à de pareilles épreuves pour conquérir un chapeau !
+
+« Bien !... Oh !... Très bien ! répond-il lorsqu\'on lui en fait l\'observation. Mais aussi quel rarissime chapeau !...
+
+--- Un vieux galurin de saltimbanque ! murmure Zach Fren en haussant les épaules..
+
+--- Une guenille, riposte Gîn-Ghi, une guenille qu\'on ne voudrait même pas porter en savates ! »
+
+Au cours de la journée, entre huit heures et quatre heures, il serait impossible de faire un pas. On campe n\'importe où, on dresse deux ou trois tentes. Les gens de l\'escorte, blancs et noirs, s\'étendent comme ils le peuvent à l\'ombre des chameaux. Ce qui est effrayant, c\'est que l\'eau va bientôt manquer. Que devenir, si nous ne rencontrons que des puits à sec ? Je sens que Tom Marix est extrêmement inquiet, quoiqu\'il cherche à me dissimuler son anxiété. Il a tort, il ferait mieux de ne me rien cacher. Je puis tout entendre, et je ne faiblirai pas...
+
+\...\...\...\...\....
+
+*14* *février*. -- Onze jours se sont écoulés, pendant lesquels nous n\'avons eu que deux heures de pluie. C\'est à peine si nous avons pu remplir nos tonnelets, si les hommes ont recueilli de quoi apaiser leur soif, si les bêtes ont refait leur provision d\'eau. Nous sommes arrivés à Emily-Spring, où la source est absolument tarie. Nos bêtes sont épuisées. Jos Meritt ne sait plus quel moyen employer pour faire avancer sa monture. Il ne la frappe pas, cependant, et cherche à la prendre par les sentiments. Je l\'entends qui lui dit :
+
+« Voyons, si tu as de la peine, du moins n\'as-tu pas de chagrin, ma pauvre bête ! »
+
+La pauvre bête ne paraît point comprendre cette distinction.
+
+Nous reprenons notre route, plus inquiets que nous ne l\'avons jamais été.
+
+Deux animaux sont malades. Ils se traînent, et ne pourront continuer le voyage. Les vivres que portait le chameau de bât ont dû être placés sur un chameau de selle, lequel a été repris à l\'un des hommes de l\'escorte.
+
+Estimons-nous heureux que le chameau mâle monté par Tom Marix ait jusqu\'à présent conservé toute sa vigueur. Sans lui, les autres, plus particulièrement les chamelles, se débanderaient, et rien ne pourrait les retenir.
+
+Il y a nécessité d\'achever les pauvres bêtes abattues par la maladie. Les laisser mourir de faim, de soif, en proie à une longue agonie, ce serait plus inhumain que de terminer d\'un coup leurs misères.
+
+La caravane s\'éloigne et contourne une colline de sable... Deux détonations retentissent... Tom Marix revient nous rejoindre, et le voyage se poursuit.
+
+Ce qui est plus alarmant, c\'est que la santé de deux de nos gens me donne de vives inquiétudes. Ils sont pris de fièvre, et on ne leur épargne pas le sulfate de quinine, dont la pharmacie portative est abondamment fournie. Mais une soif ardente les dévore. Notre provision d\'eau est tarie, et rien n\'indique que nous soyons à proximité d\'un puits.
+
+Les malades sont étendus chacun sur le dos d\'un chameau que leurs compagnons conduisent à la main. On ne peut abandonner des hommes comme on abandonne les bêtes. Nous leur donnerons nos soins, c\'est notre devoir, et nous n\'y faillirons pas... Mais cette impitoyable température les dévore peu à peu...
+
+Tom Marix, si habitué qu\'il soit à ces épreuves du désert, et bien qu\'il ait souvent mis son expérience à profit pour soigner ses compagnons de la police provinciale, ne sait plus que faire... De l\'eau... de l\'eau !... C\'est ce que nous demandons aux nuages, puisque le sol est incapable de nous en fournir.
+
+Ceux qui résistent le mieux aux fatigues, qui supportent sans en trop souffrir ces excessives chaleurs, ce sont les noirs de l\'escorte.
+
+Cependant, s\'ils sont moins éprouvés, leur mécontentement s\'accroît de jour en jour. En vain Tom Marix s\'emploie-t-il à les calmer. Les plus excités se tiennent à l\'écart aux heures de halte, se concertent, se montent, et les symptômes d\'une prochaine révolte sont manifestes.
+
+Dans la journée du 21, tous, d\'un commun accord, ont refusé de continuer le voyage dans la direction du nord-ouest, donnant pour raison qu\'ils meurent de soif. La raison n\'est, hélas ! Que trop sérieuse. Depuis douze heures, il n\'y a plus une seule goutte d\'eau dans nos tonnelets. Nous en sommes réduits aux boissons alcooliques, dont l\'effet est déplorable, car elles portent à la tête.
+
+J\'ai dû intervenir en personne au milieu de ces indigènes butés dans leur idée. Il s\'agissait de les amener à comprendre que s\'arrêter en de telles circonstances, n\'était pas le moyen de mettre un terme aux souffrances qu\'ils subissaient.
+
+« Aussi, me répond l\'un d\'eux, ce que nous voulons, c\'est revenir en arrière.
+
+--- En arrière ?... Et jusqu\'où ?...
+
+--- Jusqu\'à Mary-Spring.
+
+--- À Mary-Spring, il n\'y a plus d\'eau, ai-je répondu, et vous le savez bien.
+
+--- S\'il n\'y a plus d\'eau à Mary-Spring, réplique l\'indigène, on en trouvera un peu au-dessus du côté du mont Wilson, dans la direction du Sturt-creek.
+
+Je regarde Tom Marix. Il va chercher la carte spéciale où figure le Great-Sandy-Desert. Nous la consultons. En effet, dans le nord de Mary-Spring, il existe un cours d\'eau assez important, qui n\'est peut-être pas entièrement desséché. Mais comment l\'indigène a-t-il pu connaître l\'existence de ce cours d\'eau ? Je l\'interroge à ce sujet. Il hésite d\'abord et finit par me répondre que c\'est M. Burker qui leur en a parlé. C\'est même de lui qu\'est venue la proposition de remonter vers le Sturt-creek.
+
+Je suis on ne peut plus contrariée de ce que Len Burker ait eu l\'imprudence -- n\'est-ce que de l\'imprudence ? -- de provoquer une partie de l\'escorte à retourner dans l\'est. Il en résulterait non seulement des retards, mais une sérieuse modification à notre itinéraire, laquelle nous écarterait de la rivière Fitz-Roy.
+
+Je m\'en explique nettement avec lui. » Que voulez-vous, Dolly ? Me répond-il. Mieux vaut s\'exposer à des retards ou à des détours que de s\'obstiner à suivre une route où les puits font défaut.
+
+--- En tout cas, monsieur Burker, dit vivement Zach Fren, c\'est à mistress Branican et non aux indigènes que vous auriez dû faire votre communication.
+
+--- Vous agissez de telle façon avec nos noirs, ajoute Tom Marix, que je ne puis plus les tenir. Est-ce vous qui êtes leur chef, monsieur Burker, ou est-ce moi ?...
+
+--- Je trouve vos observations inconvenantes, Tom Marix ! Réplique Len Burker.
+
+--- Inconvenantes ou non, elles sont justifiées par votre conduite, monsieur, et vous voudrez bien en tenir compte !
+
+--- Je n\'ai d\'ordres à recevoir de personne ici, si ce n\'est de mistress Branican...
+
+--- Soit, Len Burker, ai-je répondu. Dorénavant, si vous avez quelques critiques à présenter, je vous prie de me les adresser et non à d\'autres.
+
+--- Mistress Dolly, dit alors Godfrey, voulez-vous que je me porte en avant de la caravane à la recherche d\'un puits ?... Je finirai par rencontrer...
+
+--- Des puits sans eau ! » murmure Len Burker, qui s\'éloigne en haussant les épaules.
+
+J\'imagine aisément ce qu\'a dû souffrir Jane, qui assistait à cette discussion. La façon d\'agir de son mari, si dommageable pour le bon accord qui doit régner dans notre personnel, peut nous créer les plus graves difficultés. Il fallut que je me joignisse à Tom Marix pour obtenir des noirs de ne pas persévérer dans leur intention de revenir en arrière. Nous n\'y réussîmes pas sans peine. Toutefois, ils déclarèrent que si nous n\'avions pas trouvé un puits avant quarante-huit heures, ils retourneraient à Mary-Spring, afin de gagner le Sturtcreek.
+
+\...\...\...\...\....
+
+*23* *février*. -- Quelles indicibles souffrances pendant les deux jours qui suivirent ! L\'état de nos deux compagnons malades avait empiré. Trois chameaux tombèrent encore pour ne plus se relever, la tête allongée sur le sable, les reins gonflés, incapables de faire un mouvement. Il fut nécessaire de les abattre. C\'étaient deux bêtes de selle et une bête de bât. Actuellement quatre blancs de l\'escorte sont réduits à continuer en piétons ce voyage déjà si fatigant pour des gens montés.
+
+Et pas une créature humaine dans ce Great-Sandy-Desert ! Pas un Australien de ces régions de la Terre de Tasman, qui puisse nous renseigner sur la situation des puits ! Évidemment, notre caravane s\'est écartée de l\'itinéraire du colonel Warburton, car le colonel n\'a jamais franchi d\'aussi longues étapes, sans avoir pu refaire sa provision d\'eau. Trop souvent, il est vrai, les puits à demi taris ne contenaient qu\'un liquide épais, échauffé, à peine potable. Mais nous nous en contenterions...
+
+Aujourd\'hui, enfin, au terme de la première étape, nous avons pu apaiser notre soif... C\'est Godfrey qui a découvert un puits à une faible distance.
+
+Dès le matin du 23, le brave enfant s\'est porté à quelques milles en avant, et deux heures après, nous l\'avons aperçu qui revenait en toute hâte.
+
+« Un puits !... un puits ! » s\'est-il écrié du plus loin que nous avons pu l\'entendre.
+
+À ce cri, notre petit monde s\'est ranimé. Les chameaux se sont remis sur leurs jambes. Il semble que celui que montait Godfrey leur ait dit en arrivant :
+
+« De l\'eau... de l\'eau ! »
+
+Une heure après, la caravane s\'arrêtait sous un bouquet d\'arbres à la ramure desséchée, qui ombrageaient le puits. Heureusement, ce sont des gommiers et non de ces eucalyptus, qui l\'auraient asséché jusqu\'à la dernière goutte !
+
+Mais les rares puits, creusés à la surface du continent australien, il faut bien reconnaître qu\'une troupe d\'hommes un peu nombreuse les viderait en un instant. L\'eau n\'y est point abondante, et encore faut-il aller la puiser sous les couches de sable. C\'est que ces puits ne sont pas l\'oeuvre de la main de l\'homme ; ce ne sont que des cavités naturelles, qui se forment à l\'époque des pluies d\'hiver. À peine dépassent-elles cinq à six pieds en profondeur -- ce qui suffit pour que l\'eau, abritée des rayons solaires, échappe à l\'évaporation et se conserve même pendant les longues chaleurs de l\'été.
+
+Quelquefois, ces réservoirs ne se signalent pas à la surface de la plaine par un groupe d\'arbres, et il n\'est que trop facile de passer à proximité sans les reconnaître. Il importe donc d\'observer la contrée avec grand soin : c\'est une recommandation qui est faite et très justement faite par le colonel Warburton. Aussi avons-nous soin d\'en tenir compte.
+
+Cette fois, Godfrey avait eu la main heureuse. Le puits, près duquel notre campement a été établi dès onze heures du matin, contenait plus d\'eau qu\'il n\'en fallait pour abreuver nos chameaux et refaire complètement notre réserve. Cette eau restée limpide car elle était filtrée par les sables, avait gardé sa fraîcheur, la cavité, située au pied d\'une haute dune, ne recevant pas directement les rayons du soleil.
+
+C\'est avec délices que chacun de nous s\'est rafraîchi en puisant à cette sorte de citerne. Il fallut même engager nos compagnons à n\'en boire que modérément ; ils auraient fini par se rendre malades.
+
+On ne saurait s\'imaginer les effets bienfaisants de l\'eau, à moins d\'avoir été longtemps torturé par la soif. Le résultat est immédiat ; les plus abattus se relèvent, les forces reviennent instantanément, le courage avec les forces. C\'est plus qu\'être ranimé ; c\'est renaître !
+
+Le lendemain, dès quatre heures du matin, nous avons repris notre route en nous dirigeant vers le nord-ouest, afin d\'atteindre par le plus court Joanna-Spring, à cent quatre-vingt-dix milles environ de Mary-Spring.
+
+\...\...\...\...\....
+
+Ces quelques notes, extraites du journal de Mrs. Branican, suffiront à démontrer que son énergie ne l\'a pas abandonnée un instant. Il convient, maintenant, de reprendre le récit de ce voyage, auquel l\'avenir réservait encore tant d\'éventualités, impossibles à prévoir et si graves par leurs conséquences.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11 -- Indices et incidents]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942254 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11-indices-et-incidents .calibre171 .sigil_not_in_toc}
+
+Ainsi que l\'ont fait connaître les dernières lignes du journal de Mrs. Branican, le courage et la confiance étaient revenus au personnel de la caravane. Jamais la nourriture n\'avait fait défaut, et elle était assurée pour plusieurs mois. L\'eau seule avait manqué pendant quelques étapes ; mais le puits, découvert par Godfrey, en avait fourni au-delà des besoins, et l\'on repartait délibérément.
+
+Il est vrai, il s\'agissait toujours d\'affronter une chaleur accablante, de respirer un air embrasé à la surface de ces interminables plaines, sans arbres et sans ombre. Et ils sont bien peu nombreux, les voyageurs qui peuvent impunément supporter ces températures dévorantes, lorsqu\'ils ne sont pas originaires du pays australien. Où l\'indigène résiste, l\'étranger succombe. Il faut être fait à ce climat meurtrier.
+
+Toujours la région des dunes et des sables rouges avec leurs ondulations de longues rides symétriques. On dirait d\'un sol incendié, dont la coloration intensive, accentuée par les rayons solaires, ne cesse de brûler les yeux. Le sol était chaud au point qu\'il eût été impossible à des blancs d\'y marcher pieds nus. Quant aux noirs, leur épiderme endurci le leur permettait impunément, et ils n\'auraient pas dû voir là une occasion de se plaindre. Ils se plaignaient pourtant ; leur mauvais vouloir se manifestait sans cesse d\'une façon plus apparente. Si Tom Marix n\'avait pas tenu à conserver son escorte au complet, pour le cas où il y aurait lieu de se défendre contre quelque tribu nomade, il eût assurément prié Mrs. Branican de congédier les Australiens engagés à son service.
+
+Du reste, Tom Marix voyait s\'accroître les difficultés inhérentes à une telle expédition, et, quand il se disait que ces fatigues étaient subies et ces dangers bravés en pure perte, il fallait qu\'il fût bien maître de lui pour ne rien laisser paraître de ses pensées. Seul, Zach Fren l\'avait deviné et lui en voulait de ce qu\'il ne partageait pas sa confiance.
+
+« Vraiment, Tom, lui dit-il un jour, je ne vous aurais pas cru homme à vous décourager !
+
+--- Me décourager ?... Vous vous trompez, Zach, en ce sens du moins, que le courage ne me manquera pas pour accomplir ma mission jusqu\'au bout. Ce n\'est pas de traverser ces déserts que j\'appréhende, c\'est, après les avoir traversés, d\'être contraints de revenir sur nos pas sans avoir réussi.
+
+--- Croyez-vous donc, Tom, que le capitaine John ait succombé depuis le départ de Harry Felton ?
+
+--- Je n\'en sais rien, Zach, et vous ne le savez pas davantage.
+
+--- Si, je le sais, comme je sais qu\'un navire abat sur tribord quand on met sa barre à bâbord !
+
+--- Vous parlez là, Zach, comme parle Mrs. Branican ou Godfrey, et vous prenez vos espérances pour des certitudes. Je souhaite que vous ayez raison. Mais le capitaine John, s\'il est vivant, est au pouvoir des Indas, et ces Indas où sont-ils ?
+
+--- Ils sont où ils sont, Tom, et c\'est là que la caravane ira, quand elle devrait bouliner pendant six mois encore. Que diable ! Lorsqu\'on ne peut pas virer vent debout, on vire vent arrière, et on rattrape toujours sa route...
+
+--- Sur mer, oui, Zach, lorsqu\'on sait vers quel port on se dirige. Mais, à travers ces territoires, sait-on où l\'on va ?
+
+--- Ce n\'est pas en désespérant qu\'on l\'apprendra.
+
+--- Je ne désespère pas, Zach !
+
+--- Si, Tom, et, ce qui est plus grave, c\'est que vous finirez par le laisser voir. Celui qui ne cache pas son inquiétude fait un mauvais capitaine et incite son équipage au mécontentement. Prenez garde à votre visage, Tom, non pour Mrs. Branican, que rien ne pourrait ébranler, mais pour les blancs de notre escorte ! S\'ils allaient faire cause commune avec les noirs...
+
+--- Je réponds d\'eux comme de moi...
+
+--- Et comme moi, je réponds de vous, Tom ! Aussi ne parlons pas d\'amener notre pavillon tant que les mâts sont debout !
+
+--- Qui en parle, Zach, si ce n\'est Len Burker ?...
+
+--- Oh ! Celui-là, Tom, si j\'étais le commandant, il y a longtemps qu\'il serait à fond de cale, avec un boulet à chaque pied ! Mais, qu\'il y fasse attention, car je ne le perds pas de vue ! »
+
+Zach Fren avait raison de surveiller Len Burker. Si le désarroi se mettait dans l\'expédition, ce serait à lui qu\'on le devrait. Ces noirs, sur lesquels Tom Marix croyait pouvoir compter, il les excitait au désordre. C\'était là une des causes qui risquaient d\'empêcher le succès de la campagne. Mais n\'eût-elle pas existé, que Tom Marix ne conservait guère d\'illusion sur la possibilité de rencontrer les Indas et de délivrer le capitaine John.
+
+Cependant, bien que la caravane n\'allât pas tout à fait à l\'aventure, en se dirigeant vers les environs de la Fitz-Roy, il se pouvait qu\'une circonstance eût obligé les Indas à quitter la Terre de Tasman ; peut-être des éventualités de guerre. Il est rare que la paix règne entre tribus, qui peuvent compter de deux cent cinquante à trois cents âmes. Il y a des haines invétérées, des rivalités qui exigent du sang, et elles s\'exercent avec d\'autant plus de passion que, chez ces cannibales, la guerre, c\'est la chasse. À vrai dire, l\'ennemi n\'est pas seulement l\'ennemi, il est le gibier, et le vainqueur mange le vaincu. De là des luttes, des poursuites, des déplacements, qui entraînent parfois les indigènes à de grandes distances. Il y aurait donc eu intérêt à savoir si les Indas n\'avaient pas abandonné leurs territoires, et on ne le saurait qu\'en s\'emparant d\'un Australien venu du nord-ouest.
+
+C\'est à cela que tendaient les efforts de Tom Marix, assidûment secondé par Godfrey, qui, malgré les recommandations et même les injonctions de Mrs. Branican, se laissait souvent emporter à une distance de plusieurs milles. Quand il n\'allait pas à la recherche de quelque puits, il se lançait à la recherche de quelque indigène, mais, jusqu\'alors sans résultat. La contrée était déserte. Et, en vérité, quel être humain, de telle rustique nature fût-il, aurait pu y subvenir aux plus strictes nécessités de l\'existence ? S\'y aventurer aux abords de la ligne télégraphique, cela se pouvait faire à la rigueur, et encore voit-on à quelles épreuves on était exposé.
+
+Enfin, le 9 mars, vers neuf heures et demie du matin, on entendit un cri retentir à courte distance -- un cri formé de ces deux mots : coo-eeh !
+
+« Il y a des indigènes dans les environs, dit Tom Marix.
+
+--- Des indigènes ?... demanda Dolly.
+
+--- Oui, mistress, c\'est leur façon de s\'appeler.
+
+--- Tâchons de les rejoindre », répondit Zach Fren. La caravane avança d\'une centaine de pas, et Godfrey signala deux noirs entre les dunes. S\'emparer de leurs personnes ne devait pas être facile, car les Australiens fuient les blancs du plus loin qu\'ils les entrevoient. Ceux-ci cherchaient à se dissimuler derrière une haute dune rougeâtre, entre des touffes de spinifex. Mais les gens de l\'escorte parvinrent à les cerner, et ils furent amenés devant Mrs. Branican. L\'un était âgé d\'une cinquantaine d\'années ; l\'autre, son fils, d\'environ vingt ans. Tous deux se rendaient à la station du lac Woods, qui appartient au service du réseau télégraphique. Divers présents en étoffes, et principalement quelques livres de tabac, les eurent bientôt amadoués, et ils se montrèrent disposés à répondre aux questions qui leur furent faites par Tom Marix -- réponses que celui-ci traduisait immédiatement pour Mrs. Branican, Godfrey, Zach Fren et leurs compagnons. Les Australiens avaient d\'abord dit où ils allaient -- ce qui n\'intéressait que médiocrement. Mais Tom Marix leur demanda d\'où ils venaient, ce qui méritait une sérieuse attention.
+
+« Nous venons de par là... loin... très loin, répondit le père en montrant le nord-ouest.
+
+--- De la côte ?...
+
+--- Non... de l\'intérieur.
+
+--- De la Terre de Tasman ?
+
+--- Oui... de la rivière Fitz-Roy. »
+
+C\'était précisément vers cette rivière, on le sait, que se dirigeait la caravane.
+
+« De quelle tribu êtes-vous ? dit Tom Marix..
+
+--- De la tribu des Goursis.
+
+--- Est-ce que ce sont des nomades ?... »
+
+L\'indigène ne parut pas comprendre ce que voulait dire le chef de l\'escorte.
+
+« Est-ce une tribu qui va d\'un campement à l\'autre, reprit Tom Marix, une tribu qui n\'habite pas un village ?...
+
+--- Elle habite le village de Goursi, répondit le fils, qui semblait être assez intelligent.
+
+--- Et ce village est-il près de la Fitz-Roy ?...
+
+--- Oui, à dix grandes journées de l\'endroit où elle va se jeter à la mer. »
+
+C\'est dans le Golfe du Roi que se déverse la Fitz-Roy river, et c\'était là, précisément, que la deuxième campagne du *Dolly*-*Hope* avait pris fin en 1883. Les dix journées, indiquées par le jeune homme, démontraient que le village de Goursi devait être situé à une centaine de milles du littoral.
+
+C\'est ce qui fut relevé par Godfrey sur la carte à grands points de l\'Australie occidentale -- carte qui portait le tracé de la rivière Fitz-Roy pendant un parcours de deux cent cinquante milles, depuis son origine au milieu des régions vagues de la Terre de Tasman.
+
+« Connaissez-vous la tribu des Indas ? » demanda alors Tom Marix aux indigènes.
+
+Les regards du père et du fils parurent s\'enflammer, lorsque ce nom fut prononcé devant eux.
+
+« Évidemment, ce sont deux tribus ennemies, ces Indas et ces Goursis, deux tribus qui sont en guerre, fit observer Tom Marix, en s\'adressant à Mrs. Branican.
+
+--- C\'est vraisemblable, répondit Dolly, et, très probablement, ces Goursis savent où se trouvent actuellement les Indas. Interrogez-les à ce sujet, Tom Marix, et tâchez d\'obtenir une réponse aussi précise que possible. De cette réponse dépend peut-être le succès de nos recherches. »
+
+Tom Marix posa la question, et le plus âgé des indigènes affirma, sans hésiter, que la tribu des Indas occupait alors le haut cours de la Fitz-Roy.
+
+« À quelle distance se trouvent-ils du village de Goursi ? demanda Tom Marix.
+
+--- À vingt journées en se dirigeant vers le soleil levant », répondit le jeune garçon.
+
+Cette distance, reportée sur la carte, mettait le campement des Indas à deux cent quatre-vingts milles environ de l\'endroit alors atteint par la caravane. Quant à ces renseignements, ils concordaient avec ceux qui avaient été précédemment donnés par Harry Felton.
+
+« Votre tribu, reprit Tom Marix, est-elle souvent en guerre avec la tribu des Indas ?
+
+--- Toujours ! » répondit le fils.
+
+Et son accent, son geste, indiquaient la violence de ces haines de cannibales.
+
+« Et nous les poursuivrons, ajouta le père, dont les mâchoires claquaient de désirs sensuels, et ils seront battus, lorsque le chef blanc ne sera plus là pour leur donner ses conseils. »
+
+On imagine quelle fut l\'émotion de Mrs. Branican et de ses compagnons, dès que Tom Marix eut traduit cette réponse. Ce chef blanc depuis tant d\'années prisonnier des Indas, pouvait-on douter que ce ne fût le capitaine John ?
+
+Et, sur les instances de Dolly, Tom Marix pressa de questions les deux indigènes. Ils ne purent fournir que des informations très indécises sur ce chef blanc. Ce qu\'ils affirmèrent, toutefois, c\'est que, trois mois auparavant, lors de la dernière lutte entre les Goursis et les Indas, il était encore au pouvoir de ces derniers.
+
+« Et sans lui, s\'écria le jeune Australien, les Indas ne seraient plus que des femmes ! »
+
+Qu\'il y eût là exagération de la part de ces indigènes, peu importait. On savait d\'eux tout ce que l\'on voulait en savoir. John Branican et les Indas se trouvaient à moins de trois cents milles dans la direction du nord-ouest... Il fallait les rejoindre sur les bords de la Fitz-Roy.
+
+Au moment où le campement allait être levé, Jos Meritt retint un instant les deux hommes que Mrs. Branican venait de congédier avec de nouveaux présents. Et alors l\'Anglais pria Tom Marix de leur adresser une question relativement aux chapeaux de cérémonie que portaient les chefs de la tribu des Goursis et les chefs de la tribu des Indas.
+
+En vérité, tandis qu\'il attendait leur réponse, Jos Meritt était non moins ému que l\'avait été Dolly pendant l\'interrogatoire des indigènes.
+
+Il eut lieu d\'être satisfait, le digne collectionneur, et les « Bien... Oh !... Très bien ! » éclatèrent entre ses lèvres, quand il apprit que les chapeaux de fabrication étrangère n\'étaient point rares parmi les peuplades du nord-ouest. Dans les grandes cérémonies, les chapeaux coiffaient habituellement la tête des principaux chefs australiens.
+
+« Vous comprenez, mistress Branican, fit observer Jos Meritt, retrouver le capitaine John, c\'est très bien !... Mais, de mettre la main sur le trésor historique que je poursuis à travers les cinq parties du monde, c\'est encore mieux...
+
+--- Évidemment ! » répondit Mrs. Branican.
+
+Et n\'était-elle pas faite aux monomanies de son bizarre compagnon de voyage.
+
+« Vous avez entendu, Gîn-Ghi ? ajouta Jos Meritt, en se tournant vers son serviteur.
+
+--- J\'ai entendu, mon maître Jos, répondit le Chinois. Et quand nous aurons trouvé ce chapeau...
+
+--- Nous reviendrons en Angleterre, nous rentrerons à Liverpool, et là, Gîn-Ghi, élégamment coiffé d\'une calotte noire, vêtu d\'une robe de soie rouge, drapé d\'un macoual en soie jaune, vous n\'aurez plus d\'autre fonction que de montrer ma collection aux amateurs. Êtes-vous satisfait ?...
+
+--- Comme la fleur haïtang, qui va s\'épanouir sous la brise, lorsque le lapin de Jade est descendu vers l\'Occident », répondit le poétique Gîn-Ghi.
+
+Toutefois, il secouait la tête d\'un air aussi peu convaincu de son bonheur à venir que si son maître lui eût affirmé qu\'il serait nommé mandarin à sept boutons.
+
+Len Burker avait assisté à la conversation de Tom Marix et des deux indigènes dont il comprenait le langage, mais sans y prendre part. Pas une question relative au capitaine John n\'était venue de lui. Il écoutait attentivement, notant dans sa mémoire les détails qui se rapportaient à la situation actuelle des Indas. Il regardait sur la carte l\'endroit que la tribu occupait probablement alors vers le cours supérieur de la rivière Fitz-Roy. Il calculait la distance que la caravane aurait à parcourir pour s\'y transporter, et le temps qu\'elle emploierait à traverser ces régions de la Terre de Tasman.
+
+En réalité ce serait l\'affaire de quelques semaines, si aucun obstacle ne surgissait, que les moyens de locomotion ne fissent pas défaut, que les fatigues de la route, les souffrances dues à l\'ardeur de la température, fussent heureusement surmontées. Aussi Len Burker, sentant que la précision de ces renseignements allait redonner du courage à tous, en éprouvait-il une rage sourde. Quoi ! La délivrance du capitaine John s\'accomplirait, et, grâce à la rançon qu\'elle apportait, Dolly parviendrait à l\'arracher aux mains des Indas ?
+
+Tandis que Len Burker réfléchissait à cet enchaînement d\'éventualités, Jane voyait son front s\'obscurcir, ses yeux s\'injecter, sa physionomie réfléchir les détestables pensées qui l\'agitaient. Elle en fut épouvantée, elle eut le pressentiment d\'une catastrophe prochaine, et, au moment où les regards de son mari se fixèrent sur les siens, elle se sentit défaillir...
+
+La malheureuse femme avait compris ce qui se passait dans l\'âme de cet homme, capable de tous les crimes pour s\'assurer la fortune de Mrs. Branican.
+
+En effet, Len Burker se disait que si John et Dolly se rejoignaient, c\'était l\'écroulement de tout son avenir. Ce serait tôt ou tard la reconnaissance de la situation de Godfrey vis-à-vis d\'eux. Ce secret finirait par échapper à sa femme, à moins qu\'il ne la mît dans l\'impossibilité de parler, et, pourtant, l\'existence de Jane lui était nécessaire pour que la fortune lui arrivât par elle, après la mort de Mrs. Branican.
+
+Donc, il fallait séparer Jane de Dolly, puis, dans le but de faire disparaître John Branican, devancer la caravane chez les Indas.
+
+Avec un homme sans conscience et résolu tel que Len Burker, ce plan n\'était que trop réalisable, et, d\'ailleurs, les circonstances ne devaient pas tarder à lui venir en aide.
+
+Ce jour-là, à quatre heures du soir, Tom Marix donna le signal du départ, et l\'expédition se remit en marche dans l\'ordre habituel. On oubliait les fatigues passées. Dolly avait communiqué à ses compagnons l\'énergie qui l\'animait. On approchait du but... Le succès paraissait hors de doute... Les noirs de l\'escorte semblaient eux-mêmes se soumettre plus volontiers, et, peut-être, Tom Marix aurait-il pu compter sur leur concours jusqu\'au terme de l\'expédition, si Len Burker n\'eût été là pour leur souffler l\'esprit de trahison et de révolte.
+
+La caravane, enlevée d\'un bon pas, avait à peu près repris l\'itinéraire du colonel Warburton. Cependant la chaleur s\'était accrue, et les nuits étaient étouffantes. Sur cette plaine sans un seul bouquet d\'arbres on ne trouvait d\'ombre qu\'à l\'abri des hautes dunes, et encore cette ombre était-elle très réduite par la presque verticalité des rayons solaires.
+
+Et pourtant, sous cette latitude plus basse que celle du Tropique, c\'est-à-dire en pleine zone torride, ce n\'était pas des excès du climat australien que les hommes avaient le plus à souffrir. La bien autrement grave question de l\'eau se représentait chaque jour. Il fallait aller chercher des puits à de grandes distances, et cela dérangeait l\'itinéraire, qui s\'allongeait de nombreux détours. Le plus souvent, c\'était Godfrey, toujours prêt, Tom Marix, toujours infatigable, qui se dévouaient. Mrs. Branican ne les voyait pas s\'éloigner sans un serrement de coeur. Mais il n\'y avait plus rien à espérer des orages, qui sont d\'une rareté extrême à cette époque de l\'année. Sur le ciel, rasséréné d\'un horizon à l\'autre, on ne voyait pas un lambeau de nuage. L\'eau ne pouvait venir que du sol.
+
+Lorsque Tom Marix et Godfrey avaient découvert un puits, c\'était vers ce point qu\'on se dirigeait. On reprenait l\'étape, on pressait le pas des bêtes, on se hâtait sous cet aiguillon de la soif, et que trouvait-on le plus souvent ?... Un liquide bourbeux, au fond d\'une cavité où fourmillaient les rats. Si les noirs et les blancs de l\'escorte n\'hésitaient pas à s\'en abreuver, Dolly, Jane, Godfrey, Zach Fren, Len Burker, avaient la prudence d\'attendre que Tom Marix eût fait déblayer le puits, rejeter la couche souillée de sa surface, creuser les sables pour en extraire une eau moins impure. Ils se désaltéraient alors. On remplissait ensuite les tonnelets qui devaient suffire jusqu\'au puits prochain.
+
+Tel fut le voyage pendant une huitaine de jours -- du 10 au 17 mars -- sans autre incident, mais avec un accroissement de fatigues qui ne pouvait plus se prolonger. L\'état des deux malades ne s\'améliorait point, au contraire, et il y avait lieu de craindre une issue fatale. Privé de cinq chameaux, Tom Marix était embarrassé pour faire face aux nécessités du transport.
+
+Le chef de l\'escorte commençait à être extrêmement inquiet. Mrs. Branican ne l\'était pas moins, bien qu\'elle n\'en laissât rien paraître. La première en marche, la dernière à la halte, elle donnait l\'exemple du plus extraordinaire courage, uni à une confiance que rien n\'aurait pu ébranler.
+
+Et à quels sacrifices n\'eût-elle pas consenti pour éviter ces retards incessants, pour abréger cet interminable voyage !
+
+Un jour, elle demanda à Tom Marix pourquoi il ne ralliait pas directement le haut cours de la rivière Fitz-Roy, où les renseignements des indigènes plaçaient le dernier campement des Indas.
+
+« J\'y ai songé, répondit Tom Marix, mais c\'est toujours la question de l\'eau qui me retient et me préoccupe, mistress Branican. En allant vers Joanna-Spring, nous ne pouvons manquer de rencontrer un certain nombre de ces puits que le colonel Warburton a signalés.
+
+--- Est-ce qu\'il ne s\'en trouve pas sur les territoires du nord ? demanda Dolly.
+
+--- Peut-être, mais je n\'en ai pas la certitude, dit Tom Marix. Et d\'ailleurs, il faut admettre la possibilité que ces puits soient desséchés maintenant, tandis qu\'en continuant notre marche vers l\'ouest, nous sommes assurés d\'atteindre la rivière d\'Okaover, où le colonel Warburton a fait halte. Or, cette rivière, c\'est de l\'eau courante, et nous aurons toute facilité d\'y refaire notre provision avant de gagner la vallée de la Fitz-Roy..
+
+--- Soit, Tom Marix, répondit Mrs. Branican ; puisqu\'il le faut, dirigeons-nous sur Joanna-Spring. »
+
+C\'est ce qui fut fait, et les fatigues de cette partie du voyage dépassèrent toutes celles que la caravane avait supportées jusqu\'alors. Quoiqu\'on fût déjà au troisième mois de la saison d\'été, la température conservait une moyenne intolérable de quarante degrés centigrades à l\'ombre, et, par ce mot, il faut entendre l\'ombre de la nuit. En effet, on aurait vainement cherché un nuage dans les hautes zones du ciel, un arbre à la surface de cette plaine. Le cheminement s\'opérait au milieu d\'une atmosphère suffocante. Les puits ne contenaient pas l\'eau nécessaire aux besoins du personnel. On faisait à peine une dizaine de milles par étape. Les piétons se traînaient. Les soins que Dolly, assistée de Jane et de la femme Harriett, bien affaiblies elles-mêmes, donnaient aux deux malades, ne parvenaient pas à les soulager. Il aurait fallu s\'arrêter, camper dans quelque village, prendre un repos de longue durée, attendre que la température fût devenue plus clémente... Et rien de tout cela n\'était possible.
+
+Dans l\'après-midi du 17 mars, on perdit encore deux chameaux de bât, et précisément l\'un de ceux qui transportaient les objets d\'échange, destinés aux Indas. Tom Marix dut faire passer leur charge sur des chameaux de selle -- ce qui nécessita de démonter deux autres blancs de l\'escorte. Ces braves gens ne se plaignirent pas et acceptèrent sans mot dire ce surcroît de souffrance. Quelle différence avec les noirs, qui réclamaient sans cesse, et causaient à Tom Marix les plus sérieux ennuis ! N\'était-il pas à craindre que, un jour ou l\'autre, ces noirs ne fussent tentés d\'abandonner la caravane, probablement après quelque scène de pillage ?...
+
+Enfin, dans la soirée du 19 mars, près d\'un puits dont l\'eau était enfouie à six pieds sous les sables, la caravane s\'arrêta à cinq milles environ de Joanna-Spring. Il n\'y avait pas eu moyen d\'allonger l\'étape au-delà.
+
+Le temps était d\'une lourdeur extraordinaire. L\'air brûlait les poumons, comme s\'il se fût échappé d\'une fournaise. Le ciel, très pur, d\'un bleu cru, tel qu\'il apparaît dans certaines régions méditerranéennes au moment d\'un déchaînement de mistral, offrait un aspect étrange et menaçant.
+
+Tom Marix regardait cet état de l\'atmosphère d\'un air d\'anxiété qui n\'échappa point à Zach Fren.
+
+« Vous flairez quelque chose, lui dit le maître, et quelque chose qui ne vous va pas ?...
+
+--- Oui, Zach, répondit Tom Marix. Je m\'attends à un coup de simoun, dans le genre de ceux qui ravagent les déserts de l\'Afrique.
+
+--- Et bien... du vent... ce serait de l\'eau, sans doute ? fit observer Zach Fren.
+
+--- Non point, Zach, ce serait une sécheresse plus effroyable encore, et ce vent-là, dans le centre de l\'Australie, on ne sait pas ce dont il est capable ! »
+
+Cette observation, venant d\'un homme si expérimenté, était de nature à causer une profonde inquiétude à Mrs. Branican et ses compagnons.
+
+Les précautions furent donc prises en vue d\'un « coup de temps », pour employer une expression familière aux marins. Il était neuf heures du soir. Les tentes n\'avaient point été dressées -- ce qui était inutile par ces nuits brûlantes -- au milieu des dunes sablonneuses de la plaine. Après avoir apaisé sa soif à l\'eau des tonnelets, chacun prit sa part de vivres que Tom Marix venait de faire distribuer. C\'est à peine si l\'on songeait à satisfaire sa faim. Ce qu\'il aurait fallu, c\'était de l\'air frais ; l\'estomac souffrait moins que les organes de la respiration. Quelques heures de sommeil auraient fait plus de bien à ces pauvres gens que quelques bouchées de nourriture. Mais était-il loisible de dormir au milieu d\'une atmosphère si étouffante qu\'on eût pu la croire raréfiée !
+
+Jusqu\'à minuit, il ne se produisit rien d\'anormal. Tom Marix, Zach Fren et Godfrey veillaient tour à tour. Tantôt l\'un, tantôt l\'autre se relevait, afin d\'observer l\'horizon vers le nord. Cet horizon était d\'une clarté et même d\'une pureté sinistre. La lune, couchée en même temps que le soleil, avait disparu derrière les dunes de l\'ouest. Des centaines d\'étoiles brillaient autour de la Croix du Sud qui étincelle au pôle antarctique du globe.
+
+Un peu avant trois heures, cette illumination du firmament s\'effaça. Une soudaine obscurité enveloppa la plaine d\'un horizon à l\'autre.
+
+« Alerte !... Alerte !... cria Tom Marix.
+
+--- Qu\'y a-t-il ? » demanda Mrs. Branican, qui s\'était brusquement relevée.
+
+Auprès d\'elle, Jane et la femme Harriett, Godfrey et Zach Fren, cherchaient à se reconnaître à travers cette obscurité. Les bêtes, étendues sur le sol, redressaient leurs têtes, s\'effaraient en poussant des cris rauques d\'épouvante.
+
+« Mais qu\'y a-t-il ?... redemanda Mrs. Branican.
+
+--- Le simoun ! » répondit Tom Marix.
+
+Et ce furent les dernières paroles qui purent être entendues. L\'espace s\'était empli d\'un tel tumulte, que l\'oreille ne parvenait pas plus à y percevoir un son que les yeux à saisir une lueur au milieu de ces ténèbres.
+
+C\'était bien le simoun, ainsi que l\'avait dit Tom Marix, un de ces ouragans subits, qui bouleversent les déserts australiens sur de vastes étendues. Un nuage énorme s\'était levé du sud, et s\'abattait sur la plaine -- nuage formé non seulement de sable, mais des cendres arrachées à ces terrains calcinés par la chaleur.
+
+Autour du campement, les dunes, se mouvant comme fait la houle de mer, déferlaient, non en embruns liquides, mais en poussière impalpable. Cela aveuglait, assourdissait, étouffait. On eût dit que la plaine allait se niveler sous cette rafale, déchaînée au ras du sol. Si les tentes eussent été dressées, il n\'en serait pas resté un lambeau.
+
+Tous sentaient l\'irrésistible torrent d\'air et de sable passer sur eux comme le cinglement d\'une mitraille. Godfrey tenait Dolly à deux mains, ne voulant pas être séparé d\'elle, si ce formidable assaut balayait la caravane vers le nord.
+
+C\'est bien ce qui arriva, en effet, et aucune résistance n\'eût été possible.
+
+Pendant cette tourmente d\'une heure -- une heure qui suffit à changer l\'aspect de la contrée, en déplaçant les dunes, en modifiant le niveau général du sol -- Mrs. Branican et ses compagnons, y compris les deux malades de l\'escorte, furent traînés sur un espace de quatre à cinq milles, se relevant pour retomber, roulés parfois comme des brins de paille au milieu d\'un tourbillon. Ils ne pouvaient ni se voir ni s\'entendre, et risquaient de ne plus se retrouver. Et c\'est ainsi qu\'ils atteignirent les environs de Joanna-Spring, près des rives de l\'Okaover-creek, au moment où, dégagé des dernières brumailles, le jour se refaisait sous les rayons du soleil levant.
+
+Tous étaient-ils présents à l\'appel ?... Tous ?... Non.
+
+Mrs. Branican, la femme Harriett, Godfrey, Jos Meritt, Gîn-Ghi, Zach Fren, Tom Marix, les blancs restés à leur poste, étaient là, et avec eux quatre chameaux de selle. Mais les noirs avaient disparu !... Disparus aussi les vingt autres chameaux -- ceux qui portaient les vivres et ceux qui portaient la rançon du capitaine John !...
+
+Et, lorsque Dolly appela Jane, Jane ne répondit pas.
+
+Len et Jane Burker n\'étaient plus là.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12 -- Derniers efforts]{.pcalibre lang="X-NONE"}]{#_Toc342942255 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12-derniers-efforts .calibre171 .sigil_not_in_toc}
+
+Cette disparition des noirs, des bêtes de selle et des bêtes de bât, constituait pour Mrs. Branican ainsi que pour ceux qui lui étaient restés fidèles une situation presque désespérée.
+
+Trahison fut le mot que prononça tout d\'abord Zach Fren -- le mot que répéta Godfrey. La trahison n\'était que trop évidente, étant données les circonstances dans lesquelles la disparition d\'une partie du personnel s\'était produite. Tel fut aussi l\'avis de Tom Marix, qui n\'ignorait rien de l\'influence funeste, exercée par Len Burker sur les indigènes de l\'escorte...
+
+Dolly voulait douter encore. Elle ne pouvait croire à tant de duplicité, à tant d\'infamie !
+
+« Len Burker ne peut-il avoir été entraîné comme nous l\'étions nous-mêmes ?...
+
+--- Comme ça, juste avec les noirs, fit observer Zach Fren, en même temps que les chameaux qui portent nos vivres !...
+
+--- Et ma pauvre Jane ! murmura Dolly. Séparée de moi, sans que je m\'en sois aperçue !
+
+--- Len Burker n\'a pas même voulu qu\'elle restât près de vous, mistress, dit Zach Fren. Le misérable !...
+
+--- Misérable ?... Bien !... Oh !... Très bien ! ajouta Jos Meritt. Si tout cela n\'est pas de la coquinerie, je consens à ne jamais retrouver le chapeau... historique... dont... »
+
+Puis, se tournant vers le Chinois :
+
+« Et que pensez-vous de l\'affaire, Gîn-Ghi ?
+
+--- *Ai* *ya*, mon maître Jos ! Je pense que j\'aurais mille et dix mille fois mieux fait de ne jamais mettre le pied dans un pays si peu confortable !
+
+--- Peut-être ! » répliqua Jos Meritt.
+
+La trahison était tellement caractérisée, en somme, que Mrs. Branican dut se rendre.
+
+« Mais pourquoi m\'avoir trompée ? Se demandait-elle. Qu\'ai-je fait à Len Burker ?... N\'avais-je pas oublié le passé ?... Ne les ai-je point accueillis comme mes parents, sa malheureuse femme et lui ?... Et il nous abandonne, il nous laisse sans ressources, et il me vole le prix de la liberté de John !... Mais pourquoi ? »
+
+Personne ne connaissait le secret de Len Burker, et personne n\'aurait pu répondre à Mrs. Branican. Seule, Jane eût été à même de révéler ce qu\'elle savait des abominables projets de son mari, et Jane n\'était plus là. Il n\'était que trop vrai, cependant, Len Burker venait de mettre à exécution un plan préparé de longue main, un plan qui semblait avoir toutes les chances de réussite. Sous la promesse d\'être bien payés, les noirs de l\'escorte s\'étaient facilement prêtés à ses vues. Au plus fort de la tourmente, tandis que deux des indigènes entraînaient Jane, sans qu\'il eût été possible d\'entendre ses cris, les autres avaient poussé vers le nord les chameaux dispersés autour du campement.
+
+Personne ne les avait aperçus au milieu d\'une obscurité profonde, épaissie par les tourbillons de poussière, et, avant le jour, Len Burker et ses complices étaient déjà à quelques milles dans l\'est de Joanna-Spring.
+
+Jane étant séparée de Dolly, son mari n\'avait plus à craindre que, pressée par ses remords, elle en vint à trahir le secret de la naissance de Godfrey. D\'ailleurs, dépourvus de vivres et de moyens de transport, il avait tout lieu de croire que Mrs. Branican et ses compagnons périraient au milieu des solitudes de Great-Sandy-Desert.
+
+En effet, à Joanna-Spring, la caravane ne se trouvait guère à moins de trois cents milles de la Fitz-Roy. Au cours de ce long trajet, comment Tom Marix pourvoirait-il aux besoins du personnel, si réduit qu\'il fût à présent ?
+
+L\'Okaover-creek est un des principaux affluents du fleuve Grey, lequel va se jeter par un des estuaires de la Terre de Witt dans l\'océan Indien.
+
+Sur les bords de cette rivière, que les chaleurs excessives ne tarissent jamais, Tom Marix retrouva les mêmes ombrages, les mêmes sites, dont le colonel Warburton fait l\'éloge avec une explosion de joie si intense.
+
+De la verdure, des eaux courantes, après les interminables plaines sablonneuses de dunes et de spinifex, quel heureux changement ! Mais, si le colonel Warburton, arrivé à ce point, était presque assuré d\'atteindre son but, puisqu\'il n\'avait plus qu\'à redescendre le creek jusqu\'aux établissements de Rockbonne sur le littoral, il n\'en était pas ainsi de Mrs. Branican. La situation, au contraire, allait s\'empirer en traversant les arides régions qui séparent l\'Okaover de la rivière Fitz-Roy.
+
+La caravane ne se composait plus que de vingt-deux personnes sur quarante-trois qu\'elle comptait au départ de la station d\'Alice-Spring : Dolly et la femme indigène Harriett, Zach Fren, Tom Marix, Godfrey, Jos Meritt, Gîn-Ghi, et avec eux les quinze blancs de l\'escorte, dont deux étaient gravement malades. Pour montures, quatre chameaux seulement, les autres ayant été emmenés par Len Burker, y compris le mâle qui leur servait de guide et celui qui portait la kibitka. La bête, dont Jos Meritt appréciait fort les qualités, avait également disparu -- ce qui obligerait l\'Anglais à voyager à pied comme son domestique. En fait de vivres, il ne restait qu\'un très petit nombre de boîtes de conserves, retrouvées dans une caisse qu\'une des chamelles avait laissé choir. Plus de farine, ni de café, ni de thé, ni de sucre, ni de sel ; plus de boissons alcooliques ; plus rien de la pharmacie de voyage ! Et comment Dolly pourrait-elle soigner les deux hommes dévorés par la fièvre ? C\'était le dénuement absolu, au milieu d\'une contrée qui n\'offrait aucune ressource.
+
+Aux premières lueurs de l\'aube, Mrs. Branican rassembla son personnel. Cette vaillante femme n\'avait rien perdu de son énergie, vraiment surhumaine, et, par ses paroles encourageantes, elle parvint à ranimer ses compagnons. Ce qu\'elle leur fit voir, c\'était le but si près d\'être atteint.
+
+Le voyage fut repris et dans des conditions tellement pénibles que le plus confiant des hommes n\'aurait pu espérer de le mener à bonne fin. Des quatre chameaux qui restaient, deux avaient dû être réservés aux malades qu\'on ne pouvait abandonner à Joanna-Spring, une de ces stations inhabitées comme le colonel Warburton en signale plusieurs sur son itinéraire. Mais ces pauvres gens auraient-ils la force de supporter le transport jusqu\'à la Fitz-Roy, d\'où il serait peut-être possible de les expédier à quelque établissement de la côte ?... C\'était douteux, et le coeur de Mrs. Branican se brisait à l\'idée que deux nouvelles victimes s\'ajouteraient à celles que comptait déjà la catastrophe du *Franklin*...
+
+Et pourtant Dolly ne renoncerait pas à ses projets ! Non ! Elle ne suspendrait pas ses recherches ! Rien ne l\'arrêterait dans l\'accomplissement de son devoir -- dût-elle rester seule !
+
+En quittant la rive droite de l\'Okaover-creek, dont le lit avait été passé à gué un mille en amont de Joanna-Spring, la caravane se dirigea au nord-nord-est. À prendre cette direction, Tom Marix espérait rejoindre la Fitz-Roy, au point le plus rapproché de la courbe irrégulière qu\'elle trace, avant de s\'infléchir vers le Golfe du Roi.
+
+La chaleur était plus supportable. Il avait fallu les plus vives instances -- presque des injonctions -- de la part de Tom Marix et de Zach Fren, pour que Dolly acceptât un des chameaux comme bête de selle. Godfrey et Zach Fren ne cessaient de marcher d\'un bon pas. Pareillement Jos Meritt, dont les longues jambes avaient la rigidité d\'une paire d\'échasses. Et, lorsque Mrs. Branican lui offrait de prendre sa monture, il déclinait l\'offre, disant : « Bien !... Oh !... Très bien ! Un Anglais est un Anglais, mistress, mais un Chinois n\'est qu\'un Chinois, et je ne vois aucun inconvénient à ce que vous fassiez cette proposition à Gîn-Ghi... Seulement, je lui défends d\'accepter. »
+
+Aussi Gîn-Ghi allait-il à pied, non sans récriminer en songeant aux lointaines délices de Sou-Tchéou, la cité des bateaux-fleurs, la ville adorée des Célestes.
+
+Le quatrième chameau servait soit à Tom Marix, soit à Godfrey, quand il s\'agissait de se porter en avant. La provision d\'eau, puisée à l\'Okaover-creek, ne tarderait pas à être consommée, et c\'est alors que la question des puits redeviendrait des plus graves.
+
+En quittant les rives du creek, on chemina vers le nord sur une plaine légèrement ondulée, à peine sillonnée de dunes sablonneuses, qui s\'étendait jusqu\'aux extrêmes limites de l\'horizon. Les touffes de spinifex y formaient des bouquets plus serrés, et divers arbrisseaux, jaunis par l\'automne, donnaient à la région un aspect moins monotone. Peut-être une chance favorable permettrait-elle d\'y rencontrer un peu de gibier. Tom Marix, Godfrey, Zach Fren, qui ne se séparaient jamais de leurs armes, avaient heureusement conservé fusils et revolvers, et ils sauraient en faire bon emploi, le cas échéant. Il est vrai, les munitions, fort restreintes, ne devaient être employées qu\'avec ménagement.
+
+On alla ainsi plusieurs jours, une étape le matin, une étape le soir. Le lit des creeks qui sillonnaient ce territoire, n\'était semé que de cailloux calcinés entre les herbes décolorées par la sécheresse. Le sable ne décelait pas la moindre trace d\'humidité. Il était donc nécessaire de découvrir des puits, d\'en découvrir un par vingt-quatre heures, puisque Tom Marix n\'avait plus de tonnelets à sa disposition.
+
+Aussi Godfrey se lançait-il à droite ou à gauche de l\'itinéraire, dès qu\'il se croyait sur une piste.
+
+« Mon enfant, lui recommandait Mrs. Branican, ne fais pas d\'imprudence !... Ne t\'expose pas....
+
+--- Ne pas m\'exposer, quand il s\'agit de vous, mistress Dolly, de vous et du capitaine John ! » répondait Godfrey.
+
+Grâce à son dévouement, grâce aussi à une sorte d\'instinct qui le guidait, divers puits furent découverts, en s\'écartant parfois de plusieurs milles dans le nord ou dans le sud.
+
+Donc, si les souffrances de la soif ne furent pas absolument épargnées, du moins ne furent-elles pas excessives sur cette portion de la Terre de Tasman, comprise entre l\'Okaover-creek et la Fitz-Roy river. Maintenant, ce qui mettait le comble aux fatigues, c\'était l\'insuffisance des moyens de transport, le rationnement de la nourriture, réduite à de faibles restes de conserves, le manque de thé et de café, la privation de tabac, si pénible aux gens de l\'escorte, l\'impossibilité d\'additionner une eau à demi saumâtre de la moindre goutte d\'alcool. Après deux heures de marche, les plus énergiques tombaient de lassitude, d\'épuisement, de misère.
+
+Et puis, les bêtes trouvaient à peine de quoi manger au milieu de cette brousse, qui ne leur donnait ni une tige ni une feuille comestible. Plus de ces acacias nains, dont la résine, assez nutritive, est recherchée des indigènes aux époques de disette. Rien que les épines des maigres mimosas, mélangées aux touffes de spinifex. Les chameaux, la tête allongée, les reins ployants, traînaient les pieds, tombaient sur les genoux, et ce n\'était pas sans grands efforts que l\'on parvenait à les remettre debout.
+
+Le 25, dans l\'après-midi, Tom Marix, Godfrey et Zach Fren parvinrent à se procurer un peu de nourriture fraîche. Il y avait eu un passage de pigeons, d\'allure sauvage, qui voletaient en troupes. Très fuyards, très rapides à s\'échapper des touffes de mimosas, ils ne se laissaient pas approcher aisément. Toutefois, on finit par en abattre un certain nombre. Ils n\'eussent pas été excellents -- et ils l\'étaient en réalité -- que de malheureux affamés les auraient appréciés comme un gibier des plus savoureux. On se contentait de les faire griller devant un feu de racines sèches, et, pendant deux jours, Tom Marix put économiser les conserves. Mais ce qui suffisait à nourrir les hommes ne suffisait pas à nourrir les animaux. Aussi, dans la matinée du 26, l\'un des chameaux qui servait au transport des malades tomba-t-il lourdement sur le sol. Il fallut l\'abandonner sur place, car il n\'aurait pu se remettre en marche.
+
+À Tom Marix revint la tâche de l\'achever d\'une balle dans la tête. Puis, ne voulant rien perdre de cette chair, qui représentait plusieurs jours de nourriture, bien que la bête fût extrêmement amaigrie par les privations, il s\'occupa de la dépecer, suivant la méthode australienne.
+
+Tom Marix n\'ignorait pas que le chameau peut être utilisé dans son entier et servir à l\'alimentation. Avec les os et une partie de la peau qu\'il fit bouillir dans l\'unique récipient qui lui restait, il obtint un bouillon, qui fut bien reçu de ces estomacs affamés. Quant à la cervelle, à la langue, aux joues de l\'animal, ces morceaux, convenablement préparés, fournirent une nourriture plus solide. De même, la chair, coupée en lanières minces, et rapidement séchée au soleil, fut conservée, ainsi que les pieds, qui forment la meilleure partie de la bête. Ce qui était très regrettable, c\'est que le sel faisait défaut, car cette chair salée se fût conservée plus facilement.
+
+Le voyage se continuait dans ces conditions, à raison de quelques milles par jour. Par malheur, l\'état des malades ne s\'améliorait pas, faute de remèdes, sinon faute de soins. Tous n\'arriveraient pas à ce but auquel tendaient les efforts de Mrs. Branican, à cette rivière Fitz-Roy, où les misères seraient peut-être atténuées dans une certaine mesure !
+
+Et en effet, le 28 mars, puis le lendemain 29, les deux blancs succombèrent aux suites d\'un épuisement trop prolongé. C\'étaient des hommes originaires d\'Adélaïde, l\'un ayant à peine vingt-cinq ans, l\'autre plus âgé d\'une quinzaine d\'années, et la mort vint les frapper l\'un et l\'autre sur cette route du désert australien.
+
+Pauvres gens ! C\'étaient les premiers qui périssaient à la tâche, et leurs compagnons en furent très péniblement affectés. N\'était-ce pas le sort qui les attendait tous, depuis la trahison de Len Burker, maintenant abandonnés au milieu de ces régions où les animaux eux-mêmes ne trouvent pas à vivre ?
+
+Et qu\'aurait pu répondre Zach Fren, lorsque Tom Marix lui dit :
+
+« Deux hommes morts pour en sauver un, sans compter ceux qui succomberont encore !... »
+
+Mrs. Branican donna libre cours à sa douleur, à laquelle chacun prit part. Elle pria pour ces deux victimes, et leur tombe fut marquée d\'une petite croix que les ardeurs du climat allaient bientôt faire tomber en poussière.
+
+La caravane se remit en route.
+
+Des trois chameaux qui restaient, les hommes les plus fatigués durent se servir à tour de rôle, afin de ne pas retarder leurs compagnons, et Mrs. Branican refusa d\'affecter une de ces bêtes à son service. Pendant les haltes, ces animaux étaient employés à la recherche des puits, tantôt par Godfrey, tantôt par Tom Marix, car on ne rencontrait pas un seul indigène près duquel il eût été possible de se renseigner. Cela semblait indiquer que les tribus s\'étaient reportées vers le nord-est de la Terre de Tasman. Dans ce cas, il faudrait suivre la trace des Indas jusqu\'au fond de la vallée de la Fitz Roy -- circonstance très fâcheuse, puisque ce serait accroître le voyage de plusieurs centaines de milles.
+
+Dès le commencement d\'avril, Tom Marix reconnut que la provision de conserves touchait à sa fin. Il y avait donc nécessité de sacrifier un des trois chameaux. Quelques jours de nourriture assurés, cela permettrait sans doute d\'atteindre la Fitz-Roy river, dont la caravane ne devait plus être éloignée que d\'une quinzaine d\'étapes.
+
+Ce sacrifice étant indispensable, il fallut s\'y résigner. On choisit la bête qui paraissait le moins en état de faire son service. Elle fut abattue, dépecée, réduite en lanières qui, séchées au soleil, possédaient des qualités assez nutritives, après qu\'elles avaient subi une longue cuisson. Quant aux autres portions de l\'animal, sans oublier le coeur et le foie, elles furent soigneusement mises en réserve.
+
+Entre temps, Godfrey parvint à tuer plusieurs couples de pigeons -- faible contingent, il est vrai, lorsqu\'il s\'agissait de pourvoir à l\'alimentation de vingt personnes. Tom Marix reconnut aussi que les touffes d\'acacias commençaient à reparaître sur la plaine, et il fut possible d\'employer comme nourriture leurs graines préalablement grillées sur le feu.
+
+Oui ! Il était temps d\'atteindre la vallée de la Fitz-Roy, d\'y trouver les ressources qu\'on eût vainement demandées à cette contrée maudite. Un retard de quelques jours, et la plupart de ces pauvres gens n\'auraient pas la force d\'y arriver.
+
+À la date du 5 avril, il ne restait plus rien des conserves, rien de la viande fournie par le dépeçage des chameaux. Une poignée de graines d\'acacias, voilà à quoi Mrs. Branican et ses compagnons étaient réduits.
+
+En effet, Tom Marix hésitait à sacrifier les deux dernières bêtes qui avaient survécu. En songeant au chemin qu\'il fallait encore parcourir, il ne pouvait s\'y résoudre. Il dut en venir là, pourtant, et dès le soir même, car personne n\'avait mangé depuis quinze heures.
+
+Mais au moment de la halte, un des hommes accourut en criant :
+
+« Tom Marix... Tom Marix... les deux chameaux viennent de tomber.
+
+--- Essayez de les relever...
+
+--- C\'est impossible.
+
+--- Alors qu\'on les tue sans attendre...
+
+--- Les tuer ?... répondit l\'homme. Mais ils vont mourir, s\'ils ne sont morts déjà !
+
+--- Morts ! » s\'écria Tom Marix.
+
+Et il ne put retenir un geste de désespoir, car, une fois morts, la chair de ces animaux ne serait plus mangeable. Suivi de Mrs. Branican, de Zach Fren, de Godfrey et de Jos Meritt, Tom Marix se rendit à l\'endroit où les deux bêtes venaient de s\'abattre. Là, couchées sur le sol, elles s\'agitaient convulsivement, l\'écume à la bouche, les membres contractés, la poitrine haletante. Elles allaient mourir, et non de mort naturelle.
+
+« Que leur est-il donc arrivé ? demanda Dolly. Ce n\'est pas la fatigue... ce n\'est pas l\'épuisement...
+
+--- Non, répondit Tom Marix, je crains que ce ne soit l\'effet de quelque herbe malfaisante !
+
+--- Bien !... Oh !... Très bien ! Je sais ce que c\'est ! répondit Jos Meritt. J\'ai déjà vu cela dans les provinces de l\'est... dans le Queensland ! Ces chameaux ont été empoisonnés...
+
+--- Empoisonnés ?... répéta Dolly.
+
+--- Oui, dit Tom Marix, c\'est le poison !
+
+--- Eh bien, reprit Jos Meritt, puisque nous n\'avons plus d\'autres ressources, il n\'y a plus qu\'à prendre exemple sur les cannibales... à moins de mourir de faim !... Que voulez-vous ?... Chaque pays a ses usages, et le mieux est de s\'y conformer ! »
+
+Le gentleman disait ces choses avec un tel accent d\'ironie que, les yeux agrandis par le jeûne, plus maigre qu\'il ne l\'avait jamais été, il faisait peur à voir.
+
+Ainsi donc les deux chameaux venaient de mourir empoisonnés. Et cet empoisonnement -- Jos Meritt ne se trompait pas -- était dû à une espèce d\'ortie vénéneuse, assez rare pourtant dans ces plaines du nord-ouest : c\'est la « moroïdes laportea » qui produit une sorte de framboise et dont les feuilles sont garnies de piquants acérés. Rien que leur contact provoque des douleurs très vives et très durables. Quant au fruit, il est mortel, si on ne le combat avec le jus du « colocasia macrorhiza », autre plante qui pousse le plus souvent sur les mêmes terrains que l\'ortie vénéneuse.
+
+L\'instinct, qui empêche les animaux de toucher aux substances nuisibles, avait été vaincu cette fois, et les pauvres bêtes, n\'ayant pu résister au besoin de dévorer ces orties, venaient de succomber dans d\'horribles souffrances.
+
+Comment se passèrent les deux jours suivants, ni Mrs. Branican ni aucun de ses compagnons n\'en ont gardé le souvenir. Il avait fallu abandonner les deux animaux morts, car, une heure après, ils étaient en état de complète décomposition, tant est rapide l\'effet de ce poison végétal. Puis, la caravane, se traînant dans la direction de la Fitz-Roy, cherchait à découvrir les mouvements de terrains qui encadrent la vallée... Pourraient-ils l\'atteindre tous ?... Non, et quelques-uns demandaient déjà qu\'on les tuât sur place, afin de leur épargner une plus effroyable agonie...Mrs. Branican allait de l\'un à l\'autre... Elle essayait de les ranimer... Elle les suppliait de faire un dernier effort... Le but n\'était plus éloigné... Quelques marches, les dernières... était le salut... Mais qu\'aurait-elle pu obtenir là-bas de ces infortunés !
+
+Le 8 avril au soir, personne n\'eut la force d\'établir le campement. Les malheureux rampaient au pied des spinifex pour en mâcher les feuilles poussiéreuses. Ils ne pouvaient plus parler... ils ne pouvaient plus aller au-delà... Tous tombèrent à cette dernière halte.
+
+Mrs. Branican résistait encore. Agenouillé près d\'elle, Godfrey l\'enveloppait d\'un suprême regard... Il l\'appelait « mère !... mère !... » comme un enfant qui supplie celle dont il est né de ne pas le laisser mourir...
+
+Et Dolly, debout au milieu de ses compagnons, parcourait l\'horizon du regard, en criant :
+
+« John !... John !... »
+
+Comme si c\'était du capitaine John qu\'un dernier secours eût pu lui venir !
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 13 -- Chez les Indas]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942256 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-13-chez-les-indas .calibre171 .sigil_not_in_toc}
+
+La tribu des Indas, composée de plusieurs centaines d\'indigènes, hommes, femmes, enfants, occupait à cette époque les bords de la Fitz-Roy, à cent quarante milles environ de son embouchure. Ces indigènes revenaient des régions de la Terre de Tasman, arrosées par le haut cours de la rivière. Depuis quelques jours, les hasards de leur vie nomade les avaient précisément ramenés à vingt-cinq milles de cette partie du Great-Sandy-Desert, où la caravane venait d\'achever sa dernière halte, après un enchaînement de misères qui dépassaient la limite des forces humaines.
+
+C\'était chez ces Indas que le capitaine John et son second Harry Felton avaient vécu pendant neuf années. À la faveur des événements qui vont suivre, il a été possible de reconstituer leur histoire durant cette longue période, en complétant le récit fait par Harry Felton à son lit de mort.
+
+Entre ces deux années 1875 et 1881 -- on ne l\'a point oublié -- l\'équipage du *Franklin* avait eu pour refuge une île de l\'océan Indien, l\'île Browse, située à deux cent cinquante milles environ de York-Sund, le point le plus rapproché de ce littoral qui s\'arrondit au nord-ouest du continent australien. Deux des matelots ayant péri pendant la tempête, les naufragés, au nombre de douze, avaient vécu six ans dans cette île, sans aucun moyen de pouvoir se rapatrier, lorsqu\'une chaloupe en dérive vint atterrir sur la côte.
+
+Le capitaine John, voulant employer cette chaloupe au salut commun, la fit mettre en état d\'atteindre la terre australienne, et l\'approvisionna pour une traversée de quelques semaines. Mais cette chaloupe ne pouvant contenir que sept passagers, le capitaine John et Harry Felton s\'y embarquèrent avec cinq de leurs compagnons, laissant les cinq autres sur l\'île Browse, où ils devaient attendre qu\'un navire leur fût expédié. On sait comment ces infortunés succombèrent avant d\'avoir été recueillis, et dans quelles conditions le capitaine Ellis retrouva leurs restes, lors de la deuxième campagne du *Dolly*-*Hope* en 1883.
+
+Après une traversée périlleuse au milieu de ces détestables parages de l\'océan Indien, la chaloupe accosta le continent à la hauteur du cap Lévêque, et parvint à pénétrer dans le golfe même où se jette la rivière Fitz-Roy. Mais la mauvaise fortune voulut que le capitaine John fut attaqué par les indigènes -- attaque pendant laquelle quatre de ses hommes furent tués en se défendant.
+
+Ces indigènes, appartenant à la tribu des Indas, entraînèrent vers l\'intérieur le capitaine John, le second Harry Felton et le dernier matelot échappé au massacre. Ce matelot, qui avait été blessé, ne devait pas guérir de ses blessures. Quelques semaines plus tard, John Branican et Harry Felton étaient les seuls survivants de la catastrophe du *Franklin*.
+
+Alors commença pour eux une existence qui, dans les premiers jours, fut sérieusement menacée. On l\'a dit, ces Indas, ainsi que toutes les tribus errantes ou sédentaires de l\'Australie septentrionale, sont farouches et sanguinaires. Les prisonniers qu\'ils font dans leurs guerres incessantes de tribus à tribus, ils les tuent impitoyablement et les dévorent. Il n\'existe pas de coutume plus profondément invétérée que le cannibalisme chez ces aborigènes, de véritables bêtes fauves.
+
+Pourquoi le capitaine John et Harry Felton furent-ils épargnés ? Cela tint aux circonstances.
+
+On n\'ignore pas que, parmi les indigènes de l\'intérieur et du littoral, l\'état de guerre se perpétue de générations en générations. Les sédentaires s\'attaquent de village à village, se détruisent et se repaissent des prisonniers qu\'ils ont faits. Mêmes coutumes chez les nomades : ils se poursuivent de campement en campement, et la victoire finit toujours par d\'épouvantables scènes d\'anthropophagie. Ces massacres amèneront inévitablement la destruction de la race australienne, et aussi sûrement que les procédés anglo-saxons, bien qu\'en certaines circonstances, ces procédés aient été d\'une barbarie inavouable. Comment qualifier autrement de pareils actes -- les noirs, chassés par les blancs comme un gibier, avec toutes les émotions raffinées que peut procurer ce genre de sport ; les incendies propagés largement, afin que les habitants ne soient pas plus épargnés que les « gunyos » d\'écorce, qui leur servent de demeures ? Les conquérants ont même été jusqu\'à se servir de l\'empoisonnement en masse par la strychnine, ce qui permettait d\'obtenir une destruction plus rapide. Aussi a-t-on pu citer cette phrase, échappée à la plume d\'un colon australien :
+
+« Tous les hommes que je rencontre sur mes pâturages, je les tue à coups de fusil, parce que ce sont des tueurs de bétail ; toutes les femmes, parce qu\'elles mettent au monde des tueurs de bétail, et tous les enfants, parce qu\'ils deviendraient des tueurs de bétail ! »
+
+On comprend dès lors la haine que les Australiens ont vouée à leurs bourreaux -- haine conservée par voie d\'atavisme. Il est rare que les blancs qui tombent entre leurs mains ne soient pas massacrés sans merci. Pourquoi donc les naufragés du *Franklin* avaient-ils été épargnés par les Indas ?
+
+Très probablement, s\'il ne fût mort peu de temps après avoir été fait prisonnier, le matelot aurait subi le sort commun. Mais le chef de la tribu, un indigène nommé Willi, ayant eu des relations avec les colons du littoral, les connaissait assez pour avoir remarqué que le capitaine John et Harry Felton étaient deux officiers, dont il aurait peut-être à tirer un double parti. En sa qualité de guerrier, Willi pourrait mettre leurs talents à profit dans ses luttes avec les tribus rivales ; en sa qualité de négociant, qui s\'entendait aux choses du négoce, il entrevoyait une lucrative affaire, c\'est-à-dire une belle et bonne rançon, que lui vaudrait la délivrance des deux prisonniers. Ceux-ci eurent donc la vie sauve, mais durent se plier à cette existence des nomades qui leur fut d\'autant plus pénible que les Indas les soumettaient à une surveillance incessante. Gardés à vue jour et nuit, ne pouvant s\'éloigner des campements, ils avaient vainement tenté deux ou trois fois de s\'évader, ce qui avait failli même leur coûter la vie.
+
+Entre temps, lors de ces fréquentes rencontres de tribus à tribus, ils étaient mis en demeure d\'intervenir au moins par leurs conseils -- conseils réellement précieux, et dont Willi tira grand avantage, puisque la victoire lui fut désormais assurée... Grâce à ses succès, cette tribu était actuellement l\'une des plus puissantes de celles qui fréquentent les divers territoires de l\'Australie occidentale.
+
+Ces populations du nord-ouest appartiennent vraisemblablement aux races mélangées des Australiens et des indigènes de la Papouasie. À l\'exemple de leurs congénères, les Indas portent les cheveux longs et bouclés ; leur teint est moins foncé que celui des indigènes des provinces méridionales, qui semblent former une race plus vigoureuse ; leur taille, de proportion plus modeste, se tient dans la moyenne d\'un mètre trente. Les hommes sont physiquement mieux constitués que les femmes ; si leur front est un peu fuyant, il domine des arcades sourcilières assez proéminentes -- ce qui est signe d\'intelligence, à en croire les ethnologistes ; leurs yeux, dont l\'iris est foncé, ont la pupille enflammée d\'un feu ardent ; leurs cheveux, de couleur très brune, ne sont pas crépus comme ceux des nègres africains ; toutefois leur crâne est peu volumineux, et la nature n\'y a pas généreusement prodigué la matière cérébrale. On les appelle des « noirs », bien qu\'ils ne soient point d\'un noir de Nubiens : ils sont « chocolatés », s\'il est permis de fabriquer ce mot, qui donne exactement la nuance de leur coloration générale.
+
+Le nègre australien est doué d\'un odorat extraordinaire, qui rivalise avec celui des meilleurs chiens de chasse. Il reconnaît les traces d\'un être humain ou d\'un animal rien qu\'en humant le sol, en flairant les herbes et les broussailles. Son nerf auditif est également d\'une extrême sensibilité, et il peut percevoir, paraît-il, le bruit des fourmis qui travaillent au fond d\'une fourmilière. Quant à ranger ces indigènes dans l\'ordre des grimpeurs, cette classification ne manquerait pas de justesse, car il n\'est pas de gommier si haut et si lisse, dont ils ne puissent atteindre la cime en se servant d\'un roseau de rotang flexible auquel ils donnent le nom de « kâmin » et grâce à la conformation légèrement préhensile de leurs orteils.
+
+Ainsi que cela a été noté déjà à propos des indigènes de la Finke-river, la femme australienne vieillit vite et n\'atteint guère la quarantaine, que les hommes dépassent communément d\'une dizaine d\'années en certaine partie du Queensland. Ces malheureuses créatures ont pour fonction d\'accomplir les plus rudes travaux du ménage ; ce sont des esclaves, courbées sous le joug de maîtres d\'une impitoyable dureté, contraintes de porter les fardeaux, les ustensiles, les armes, de chercher les racines comestibles, les lézards, les vers, les serpents, qui servent à la subsistance de la tribu. Mais, s\'il en est reparlé ici, c\'est pour dire qu\'elles soignent avec affection leurs enfants, dont les pères se soucient médiocrement, car un enfant est une charge pour sa mère, qui ne peut plus s\'adonner exclusivement aux soins de cette existence nomade, dont la responsabilité repose sur elle. Aussi, chez certaines peuplades, a-t-on vu les nègres obliger leurs femmes à se couper les seins, afin de se mettre dans l\'impossibilité de nourrir. Et, cependant -- coutume horrible et qui semble en désaccord avec cette précaution prise pour en diminuer le nombre -- ces petits êtres, en temps de disette, sont mangés dans diverses tribus indigènes, où le cannibalisme est encore porté aux derniers excès.
+
+C\'est que, chez ces nègres australiens -- à peine dignes d\'appartenir à l\'humanité -- la vie est concentrée sur un acte unique. « Ammeri !... Ammeri ! » ce mot revient incessamment dans la langue indigène, et il signifie : faim. Le geste le plus fréquent de ces sauvages consiste à se frapper le ventre, car leur ventre n\'est que trop souvent vide.
+
+Dans ces pays sans gibier et sans culture, on mange à n\'importe quelle heure du jour et de la nuit, lorsque l\'occasion se présente, avec cette préoccupation constante d\'un jeûne prochain et prolongé. Et, en effet, de quoi peuvent se nourrir ces indigènes -- les plus misérables indubitablement de tous ceux que la nature a dispersés à la surface des continents ? D\'une sorte de grossière galette, nommée « damper », faite d\'un peu de blé sans levain, cuite non pas au four, mais sous des cendres brûlantes -- du miel, qu\'ils récoltent parfois, à la condition d\'abattre l\'arbre au sommet duquel les abeilles ont établi leur ruche -- de ce « kadjerah », espèce de bouillie blanche, obtenue par l\'écrasement des fruits du palmier vénéneux, dont le poison a été extrait à la suite d\'une délicate manipulation -- de ces oeufs de poules de jungle, enfouis dans le sol et que la chaleur fait éclore artificiellement -- de ces pigeons particuliers à l\'Australie, qui suspendent leurs nids à l\'extrémité des branches d\'arbres. Enfin, ils utilisent encore certaines sortes de larves coléoptères, les unes recueillies entre la ramure des acacias, les autres déterrées au milieu des pourritures ligneuses, qui encombrent le dessous des fourrés... Et, c\'est tout.
+
+Voilà pourquoi, dans cette lutte de chaque heure pour l\'existence, le cannibalisme s\'explique avec toutes ses horribles monstruosités. Ce n\'est pas même l\'indice d\'une férocité innée, ce sont les conséquences d\'un besoin impérieux que la nature pousse le noir australien à satisfaire, car il meurt de faim. Aussi, dans ces conditions, que se passe-t-il ?
+
+Sur le cours inférieur du Murray et chez les peuples de la région du nord, la coutume est de tuer les enfants pour s\'en repaître, et même on coupe aux mères une phalange du doigt à chaque enfant qu\'elle est contrainte de livrer à ces festins d\'anthropophages. Détail épouvantable : lorsqu\'elle n\'a plus rien à manger, la mère va jusqu\'à dévorer le petit être sorti de ses entrailles, et des voyageurs ont entendu ces malheureuses parler de cette abomination comme de l\'acte le plus simple !
+
+Toutefois, ce n\'est pas uniquement la faim qui pousse les Australiens au cannibalisme : ils ont un goût très prononcé pour la chair humaine -- cette chair qu\'ils appellent « talgoro », « la viande qui parle », suivant une de leurs expressions d\'un effrayant réalisme. S\'ils ne s\'abandonnent pas à ce désir entre gens de la même tribu, ils n\'en font pas moins la chasse à l\'homme. Grâce à ces guerres incessantes, ces expéditions n\'ont d\'autre but que de se procurer le talgoro, aussi bien celui que l\'on mange fraîchement tué que celui qui est mis en réserve. Et, voici ce qu\'affirme le docteur Carl Lumholtz : pendant son audacieux voyage à travers les provinces du nord-est, les noirs de son escorte ne cessaient de traiter cette question de nourriture, disant : « Pour les Australiens, rien ne vaut la chair humaine. » Et encore faut-il que ce ne soit pas la chair des blancs, car ils lui trouvent un arrière-goût de sel fort désagréable.
+
+Il y a d\'ailleurs un autre motif qui prédispose ces tribus à s\'entre-détruire. Les Australiens sont extraordinairement crédules. Ils s\'effraient de la voix du « kvin\'gan\' », du mauvais esprit, qui court les campagnes et fréquente les gorges des contrées montagneuses, bien que cette voix ne soit que le chant mélancolique d\'un charmant oiseau, l\'un des plus curieux de l\'ornithologie australienne. Cependant, s\'ils admettent l\'existence d\'un être supérieur et méchant, d\'après les voyageurs les plus autorisés, jamais un indigène ne fait une prière et nulle part on ne trouve des vestiges de pratiques religieuses.
+
+En réalité, ils sont très superstitieux, et, comme ils ont cette ferme croyance que leurs ennemis peuvent les faire périr par sortilèges, ils se hâtent de les tuer -- ce qui, joint aux habitudes de cannibalisme, soumet ces contrées à un régime de destruction sans limites.
+
+On notera, en passant, que les Australiens ont le respect des morts. Ils ne les mettent point en contact avec la terre ; ils entourent les corps de bandelettes de feuillage ou d\'écorce, et les déposent dans des fosses peu profondes, les pieds tournés vers le levant, à moins qu\'ils ne les enterrent debout, ainsi que cela se pratique chez certaines tribus. La tombe d\'un chef est alors recouverte d\'une hutte, dont l\'entrée est orientée vers l\'est. Il faut aussi ajouter que, parmi les moins sauvages, on relève cette croyance bizarre : c\'est que les morts doivent renaître sous la forme d\'hommes blancs, et, suivant l\'observation de Carl Lumholtz, la langue du pays emploie le même mot pour désigner « l\'esprit et l\'homme de couleur blanche ». Selon une autre superstition indigène, les animaux auraient été antérieurement des créatures humaines -- ce qui est de la métempsycose à rebours.
+
+Telles sont ces tribus du continent australien, destinées sans doute à disparaître un jour comme ont disparu les habitants de la Tasmanie. Tels étaient ces Indas, entre les mains desquels étaient tombés John Branican et Harry Felton.
+
+Après la mort du matelot, John Branican et Harry Felton avaient dû suivre les Indas dans leurs pérégrinations continues au milieu des régions du centre et du nord-ouest. Tantôt attaquant les tribus hostiles, tantôt attaqués par elles, ils obtenaient une incontestable supériorité sur leurs ennemis, grâce à ces conseils de leurs prisonniers dont Willi tenait bon compte. Des centaines de milles furent franchis depuis le Golfe du Roi jusqu\'au golfe de Van Diémen, entre la vallée de la Fitz-Roy river et la vallée de la Victoria, et jusqu\'aux plaines de la Terre Alexandra. C\'est ainsi que le capitaine John et son second traversèrent ces contrées inconnues des géographes, restées en blanc sur les cartes modernes, dans l\'est de la Terre de Tasman, de la Terre d\'Arnheim et des territoires du Great-Sandy-Desert.
+
+Si ces interminables voyages leur paraissaient extrêmement pénibles, les Indas ne s\'en préoccupaient même pas. Leur habitude est de vivre ainsi, sans souci des distances ni même du temps, dont ils ont à peine une notion exacte. En effet, sur tel événement qui ne doit s\'accomplir que dans cinq ou six mois par exemple, l\'indigène répond de très bonne foi qu\'il arrivera dans deux, dans trois jours... ou la semaine prochaine. L\'âge qu\'il a, il l\'ignore ; l\'heure qu\'il est, il ne le sait pas davantage. Il semble que l\'Australien soit d\'une espèce spéciale dans l\'échelle des êtres -- comme le sont plusieurs animaux de son pays.
+
+C\'est à de telles moeurs que John Branican et Harry Felton furent contraints de se conformer. Ces fatigues, provoquées par des déplacements quotidiens, ils durent les subir. Cette nourriture, si insuffisante quelquefois, si répugnante toujours, ils durent s\'en contenter. Et cela, sans parler des épouvantables scènes de cannibalisme dont ils ne purent jamais empêcher les horreurs, après ces batailles où les ennemis étaient tombés par centaines.
+
+En se soumettant ainsi, l\'intention bien arrêtée du capitaine John et de Harry Felton était d\'endormir la vigilance de la tribu, afin de s\'enfuir dès que l\'occasion s\'en présenterait. Et pourtant, ce qu\'une évasion au milieu des déserts du nord-ouest présente de mauvaises chances, on l\'a vu en ce qui concerne le second du *Franklin*. Mais les deux prisonniers étaient surveillés de si près que les occasions de fuir furent extrêmement rares, et c\'est à peine si, dans le cours de neuf ans, John et son compagnon purent essayer de les mettre à profit. Une seule fois -- c\'était l\'année même qui avait précédé l\'expédition de Mrs. Branican en Australie -- une seule fois, l\'évasion aurait pu réussir. Voici dans quelles circonstances.
+
+À la suite de combats avec des tribus de l\'intérieur, les Indas occupaient alors un campement sur les bords du lac Amédée, au sud-ouest de la Terre Alexandra. Il était rare qu\'ils se fussent aussi profondément engagés dans le centre du continent. Le capitaine John et Harry Felton, sachant qu\'ils n\'étaient qu\'à trois cents milles de l\'Overland-Telegraf-Line, crurent l\'occasion favorable et résolurent d\'en profiter. Après réflexion, il leur parut convenable de s\'évader séparément, quitte à se rejoindre quelques milles au-delà du campement. Après avoir déjoué la surveillance des indigènes, Harry Felton fut assez heureux pour gagner l\'endroit où il devait attendre son compagnon. Par malheur, John venait d\'être mandé près de Willi, qui réclamait ses soins à propos d\'une blessure, reçue dans la dernière rencontre. John ne put donc s\'éloigner, et Harry Felton l\'attendit vainement pendant quelques jours... Alors, dans la pensée que s\'il parvenait à gagner une des bourgades de l\'intérieur ou du littoral, il pourrait organiser une expédition en vue de délivrer son capitaine, Harry Felton prit la direction du sud-est. Mais ce qu\'il eut à supporter de fatigues, de privations, de misères, fut tel que, quatre mois après son départ, il vint tomber mourant sur le bord du Parru, dans le district d\'Ulakarara de la Nouvelle-Galles du Sud. Ramené à l\'hôpital de Sydney, il y avait langui pendant plusieurs semaines, puis il était mort, après avoir pu dire à Mrs. Branican tout ce qui concernait le capitaine John.
+
+Terrible épreuve pour John de n\'avoir plus son compagnon près de lui, et il fallait que son énergie morale fût à la hauteur de son énergie physique pour qu\'il ne s\'abandonnât pas au désespoir. À qui parlerait-il désormais de ce qui lui était si cher, de son pays, de San-Diégo, des êtres adorés qu\'il avait laissés là-bas, de sa courageuse femme, de son fils Wat qui grandissait loin de lui et qu\'il ne connaîtrait jamais peut-être, de M. William Andrew, de tous ses amis enfin ?... Depuis neuf ans déjà, John était prisonnier des Indas, et combien d\'années s\'écouleraient, avant que la liberté lui fût rendue ? Cependant, il ne perdit pas espoir, étant soutenu par cette pensée que s\'il réussissait à gagner une des villes du littoral australien, Harry Felton ferait tout ce qu\'il est humainement possible de faire pour délivrer son capitaine...
+
+Pendant les premiers temps de sa captivité, John avait appris à parler la langue indigène, qui, par la logique de sa grammaire, la précision de ses termes, la délicatesse de ses expressions, semble témoigner que l\'indigénat australien aurait joui autrefois d\'une réelle civilisation. Aussi avait-il souvent entretenu Willi des avantages qu\'il aurait à laisser ses prisonniers libres de retourner au Queensland ou dans l\'Australie méridionale, d\'où ils seraient en mesure de lui faire parvenir telle rançon qu\'il exigerait. Mais, de nature très défiante, Willi n\'avait rien voulu entendre à ce propos. Si la rançon arrivait, il rendrait la liberté au capitaine John et à son second. Quant à s\'en rapporter à leurs promesses, jugeant probablement les autres d\'après lui-même, jamais il n\'avait voulu y consentir.
+
+Il s\'ensuit donc que l\'évasion de Harry Felton, qui lui causa une violente irritation, rendit Willi plus sévère encore envers le capitaine John. On lui interdit d\'aller et de venir pendant les haltes ou pendant les marches, et il dut subir la garde d\'un indigène qui en répondait sur sa tête.
+
+De longs mois s\'écoulèrent sans que le prisonnier eût reçu aucune nouvelle de son compagnon. Et n\'était-il pas fondé à croire que Harry Felton avait succombé en route ? Si le fugitif eût réussi à gagner le Queensland ou la province d\'Adélaïde, est-ce qu\'il n\'aurait pas déjà fait une tentative pour l\'arracher aux mains des Indas ?
+
+Pendant le premier trimestre de l\'année 1891 -- c\'est-à-dire au début de l\'été australien -- la tribu était revenue vers la vallée de la Fitz-Roy, où Willi passait habituellement la partie la plus chaude de la saison, et dans laquelle il trouvait les ressources nécessaires à sa tribu.
+
+C\'est là que les Indas se trouvaient encore dans les premiers jours d\'avril, et leur campement occupait un coude de la rivière, à un endroit où venait se jeter un petit affluent, qui descendait des plaines du nord.
+
+Depuis que la tribu était fixée en cet endroit, le capitaine John, n\'ignorant pas qu\'il devait être assez rapproché du littoral, avait songé à l\'atteindre. S\'il y parvenait, il ne lui serait peut-être pas impossible de se réfugier dans les établissements situés plus au sud, là où le colonel Warburton avait pu terminer son voyage.
+
+John était décidé à tout risquer pour en finir avec cette odieuse existence, fût-ce par la mort.
+
+Malheureusement, une modification, apportée aux projets des Indas, vint mettre à néant les espérances que le prisonnier avait pu concevoir. En effet, dans la seconde quinzaine d\'avril, il fut manifeste que Willi se préparait à partir, afin de reporter son campement d\'hiver sur le haut cours du fleuve.
+
+Que s\'était-il passé, et à quelles causes fallait-il attribuer ce changement des habitudes de la tribu ?
+
+Le capitaine John parvint à le savoir, mais ce ne fut pas sans peine : si la tribu cherchait à remonter le cours d\'eau plus à l\'est, c\'est que la police noire venait d\'être signalée sur le cours inférieur de la Fitz-Roy.
+
+On n\'a pas oublié ce que Tom Marix avait dit de cette police noire, qui, depuis les révélations fournies par Harry Felton sur le capitaine John, avait reçu ordre de se transporter sur les territoires du nord-ouest.
+
+Cette police, très redoutée des indigènes, déploie un acharnement dont on ne peut se faire idée, quand elle a lieu de les poursuivre. Elle est commandée par un capitaine, appelé « mani », ayant sous ses ordres un sergent, une trentaine d\'agents de race blanche et quatre-vingts agents de race noire, montés sur de bons chevaux, armés de fusils, de sabres et de pistolets. Cette institution, connue sous le nom de « native police », suffit à garantir la sécurité des habitants dans les régions qu\'elle visite à diverses époques. Impitoyable dans les répressions qu\'elle exerce sur les indigènes, si elle est blâmée par les uns au nom de l\'humanité, elle est approuvée par les autres au nom de la sécurité publique. Le service qu\'elle fait est très actif, et son personnel se transporte avec une rapidité incroyable d\'un point du territoire à l\'autre. Aussi les tribus nomades redoutent-elles de la rencontrer, et voilà pourquoi Willi, ayant appris qu\'elle se trouvait dans le voisinage, se disposait à remonter le cours de la Fitz-Roy.
+
+Mais ce qui était un danger pour les Indas, pouvait être le salut pour le capitaine John. S\'il parvenait à rejoindre un détachement de cette police, c\'était sa délivrance assurée, son rapatriement infaillible. Or, pendant la levée du campement, peut-être ne lui serait-il pas impossible de tromper la surveillance des indigènes ?
+
+Willi se douta-t-il des projets de son prisonnier, on pourrait le croire, puisque le matin du 20 avril, la porte de la hutte où John était enfermé ne s\'ouvrit pas à l\'heure habituelle. Un indigène était de garde près de cette hutte. Aux questions que John adressa, on ne fit aucune réponse. Lorsqu\'il demanda à être conduit près de Willi, on refusa d\'accéder à sa demande, et le chef ne vint même pas lui rendre visite.
+
+Qu\'était-il donc arrivé ? Les Indas faisaient-ils en hâte leurs préparatifs pour quitter le campement ? C\'était probable, et John entendait les allées et venues tumultueuses autour de sa hutte, où Willi s\'était contenté de lui envoyer quelques aliments.
+
+Un jour entier s\'écoula, puis un autre. Nul changement ne se produisit dans la situation. Le prisonnier était toujours étroitement surveillé. Mais, pendant la nuit du 22 au 23 avril, il put constater que les rumeurs du dehors avaient cessé, et il se demanda si les Indas ne venaient pas d\'abandonner définitivement le campement de la Fitz-Roy river.
+
+Le lendemain, dès l\'aube, la porte de la hutte s\'ouvrit brusquement.
+
+Un homme -- un blanc -- parut devant le capitaine John. C\'était Len Burker.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 14 -- Le jeu de Len Burker]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942257 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-14-le-jeu-de-len-burker .calibre171 .sigil_not_in_toc}
+
+Il y avait trente-deux jours -- depuis la nuit du 22 au 23 mars -- que Len Burker s\'était séparé de Mrs. Branican et de ses compagnons. Ce simoun, si fatal à la caravane, lui avait fourni l\'occasion d\'exécuter ses projets. Entraînant Jane, et suivi des noirs de l\'escorte, il avait poussé devant lui les chameaux valides et entre autres ceux qui portaient la rançon du capitaine John.
+
+Len Burker se trouvait dans des conditions plus favorables que Dolly pour rejoindre les Indas dans la vallée arrosée par la Fitz-Roy. Déjà, pendant sa vie errante, il avait eu de fréquents rapports avec les Australiens nomades, dont il connaissait la langue et les habitudes. La rançon volée lui assurait bon accueil de Willi. Le capitaine John, une fois délivré, serait en son pouvoir, et, cette fois...
+
+Après avoir abandonné la caravane, Len Burker s\'était hâté de prendre la direction du nord-ouest, et au lever du jour, ses compagnons et lui étaient à une distance de plusieurs milles.
+
+Jane voulut alors implorer son mari, le supplier de ne point abandonner Dolly et les siens au milieu de ce désert, lui rappeler que c\'était un crime ajouté au crime commis à la naissance de Godfrey, le prier de racheter son abominable conduite en rendant cet enfant à sa mère, en joignant ses efforts à ceux qu\'elle faisait pour retrouver le capitaine John...
+
+Jane n\'obtint rien. Ce fut en vain. Empêcher Len Burker de marcher à son but, cela n\'était au pouvoir de personne. Encore quelques jours, et il l\'aurait atteint. Dolly et Godfrey morts de privations et de misères, John Branican disparu, l\'héritage d\'Edward Starter passerait entre les mains de Jane, c\'est-à-dire entre les siennes, et, de ces millions, il saurait faire bon usage !
+
+Il n\'y avait rien à attendre de ce misérable. Il imposa silence à sa femme, qui dut se courber sous ses menaces, sachant bien que, s\'il n\'avait eu besoin d\'elle pour entrer en possession de la fortune de Dolly, il l\'aurait abandonnée depuis longtemps, et peut-être pis encore. Quant à s\'enfuir, à tenter de rejoindre la caravane, comment aurait-elle pu y songer ? Seule, que serait-elle devenue ? D\'ailleurs, deux des noirs ne devaient pas la quitter d\'un instant.
+
+Il n\'y a pas lieu d\'insister sur les incidents qui marquèrent le voyage de Len Burker. Ni les bêtes de somme ni les vivres ne lui faisaient défaut. Dans ces conditions, il put fournir de longues étapes en se rapprochant de la Fitz-Roy, avec des gens habitués à cette existence et qui avaient été moins éprouvés que les blancs depuis le départ d\'Adélaïde. En dix-sept jours, à la date du 8 avril, Len Burker eut atteint la rive gauche de la rivière, précisément le jour où Mrs. Branican et ses compagnons tombaient à leur dernière halte.
+
+En cet endroit, Len Burker fit la rencontre de quelques indigènes, et il obtint d\'eux des renseignements sur la situation actuelle des Indas. Ayant appris que la tribu avait suivi la vallée plus à l\'ouest, il résolut de la redescendre, afin de se mettre en rapport avec Willi.
+
+Le cheminement n\'offrait plus aucune difficulté. Pendant ce mois d\'avril, dans la province de l\'Australie septentrionale, le climat de ces régions est moins excessif, quelque bas qu\'elle soit située en latitude. Il était évident que si la caravane de Mrs. Branican avait pu atteindre la Fitz-Roy, elle eût été au terme de ses misères. Quelques jours après, elle serait entrée en communication avec les Indas, car c\'est à peine si quatre-vingt-cinq milles séparaient alors John et Dolly l\'un de l\'autre.
+
+Lorsque Len Burker eut la certitude qu\'il n\'était plus qu\'à deux ou trois journées de marche, il prit le parti de s\'arrêter. Emmener Jane avec lui chez les Indas, la mettre en présence du capitaine John, courir le risque d\'être dénoncé par elle, cela ne pouvait lui convenir. Par ses ordres, une halte fut organisée sur la rive gauche, et malgré ses supplications, c\'est là que la malheureuse femme fut abandonnée à la garde des deux noirs.
+
+Cela fait, Len Burker, suivi de ses compagnons, continua de se diriger vers l\'ouest, avec les chameaux de selle et les deux bêtes chargées des objets d\'échange.
+
+Ce fut le 20 avril que Len Burker rencontra la tribu, alors que les Indas se montraient si inquiets du voisinage de la police noire, dont la présence avait été signalée à une dizaine de milles en aval. Déjà même Willi se préparait à quitter son campement, afin de chercher refuge dans les hautes régions de cette Terre d\'Arnheim, qui appartient à la province de l\'Australie septentrionale.
+
+En ce moment, sur les injonctions de Willi, et dans le but de prévenir toute tentative d\'évasion de sa part, John était enfermé dans une hutte. Aussi ne devait-il rien apprendre des négociations qui allaient s\'établir préalablement entre Len Burker et le chef des Indas.
+
+Ces négociations ne donnèrent lieu à aucune difficulté. Antérieurement, Len Burker avait été en rapport avec ces indigènes. Il connaissait leur chef, et n\'eut qu\'à traiter la question de rachat du capitaine John.
+
+Willi se montra très disposé à rendre son prisonnier contre rançon. L\'étalage que lui fit Len Burker des étoffes, des bimbeloteries, et surtout la provision de tabac qui lui était offerte, l\'impressionnèrent favorablement. Toutefois, en négociant avisé, il fit valoir qu\'il ne se séparerait pas sans regret d\'un homme aussi important que le capitaine John qui depuis tant d\'années vivait au milieu de la tribu et lui rendait de réels services, etc., etc. D\'ailleurs, il savait que le capitaine était Américain, et n\'ignorait même pas qu\'une expédition avait été formée en vue d\'opérer sa délivrance -- ce que Len Burker confirma en disant qu\'il était précisément le chef de cette expédition. Puis, lorsque celui-ci apprit que Willi s\'inquiétait de la présence de la police noire sur le cours inférieur de la Fitz-Roy river, il profita de cette circonstance pour l\'engager à traiter sans retard. En effet, dans son intérêt à lui, Burker, il importait que la délivrance du capitaine demeurât secrète, et, en éloignant les Indas, il y avait toute probabilité que ses agissements resteraient ignorés. La disparition définitive de John Branican ne pourrait jamais lui être imputée, si les gens de son escorte se taisaient à cet égard, et il saurait s\'assurer leur silence.
+
+Il suit de là que la rançon ayant été acceptée par Willi, ce marché fut terminé dans la journée du 22 avril. Le soir même, les Indas abandonnèrent leur campement et remontaient le cours de la Fitz-Roy river.
+
+Voilà ce qu\'avait fait Len Burker, voilà comment il était arrivé à son but, et, maintenant, on va voir quel parti il allait tirer de cette situation.
+
+C\'était vers huit heures du matin, le 23, que la porte de la hutte s\'était ouverte. John Branican venait de se trouver en présence de Len Burker.
+
+Quinze ans s\'étaient écoulés depuis le jour où le capitaine lui avait serré une dernière fois la main au départ du *Franklin* du port de San-Diégo. Il ne le reconnut pas, mais Len Burker fut frappé de ce que John eût si peu changé relativement. Vieilli, sans doute -- il avait quarante-trois ans alors -- mais moins qu\'on aurait pu le croire après un si long séjour chez les indigènes, il avait toujours ses traits accentués, ce regard résolu dont le feu ne s\'était point éteint, son épaisse chevelure, blanchie il est vrai. Resté solide et robuste, John, mieux que Harry Felton peut-être, eût supporté les fatigues d\'une évasion à travers les déserts australiens -- fatigues auxquelles son compagnon avait succombé.
+
+En apercevant Len Burker, le capitaine John recula tout d\'abord. C\'était la première fois qu\'il se trouvait en face d\'un blanc depuis qu\'il était prisonnier des Indas. C\'était la première fois qu\'un étranger allait lui adresser la parole.
+
+« Qui êtes-vous ? demanda-t-il.
+
+--- Un Américain de San-Diégo.
+
+--- De San-Diégo ?...
+
+--- Je suis Len Burker...
+
+--- Vous ! »
+
+Le capitaine John s\'élança vers Len Burker, il lui prit les mains, il l\'entoura de ses bras... Quoi ?... Cet homme était Len Burker... Non !... c\'était impossible... Il n\'y avait là qu\'une apparence... John avait mal entendu... Il était sous l\'influence d\'une hallucination... Len Burker... le mari de Jane... Et, en ce moment, le capitaine John ne songeait guère à l\'antipathie que Len Burker lui inspirait autrefois, à l\'homme qu\'il avait si justement suspecté !
+
+« Len Burker ! répéta-t-il.
+
+--- Moi-même, John.
+
+--- Ici... dans cette région !... Ah !... vous aussi, Len... vous avez été fait prisonnier... »
+
+Comment John aurait-il pu s\'expliquer autrement la présence de Len Burker au campement des Indas ?
+
+« Non, se hâta de répondre Len Burker, non, John, et je ne suis venu que pour vous racheter au chef de cette tribu... pour vous délivrer....
+
+--- Me délivrer ! »
+
+Le capitaine John ne parvint à se dominer qu\'au prix d\'un violent effort. Il lui semblait qu\'il allait devenir fou, que sa raison était sur le point de l\'abandonner...
+
+Enfin, lorsqu\'il fut redevenu maître de lui, il eut la pensée de se jeter hors de la hutte... Il n\'osa pas... Len Burker lui avait parlé de sa délivrance !... Mais était-il libre ?... Et Willi !... Et les Indas ?...
+
+« Parlez, Len, parlez ! » dit-il, après s\'être croisé les bras, comme s\'il eût voulu empêcher sa poitrine d\'éclater.
+
+Alors Len Burker, fidèle au plan qu\'il avait formé de ne dire qu\'une partie des choses et de s\'attribuer tout le mérite de cette campagne, allait raconter les faits à sa façon, lorsque John, d\'une voix étranglée par l\'émotion, s\'écria :
+
+« Et Dolly ?... Dolly ?...
+
+--- Elle est vivante, John.
+
+--- Et Wat... mon enfant ?...
+
+--- Vivants... tous deux... et tous deux... à San-Diégo.
+
+--- Ma femme... mon fils !... » murmura John, dont les yeux se noyèrent de larmes.
+
+Puis il ajouta :
+
+« Maintenant, parlez... Len... parlez !... J\'ai la force de vous entendre ! »
+
+Et Len Burker, poussant l\'effronterie jusqu\'à le regarder en face, lui dit :
+
+« John, il y a quelques années, lorsque personne ne pouvait plus mettre en doute la perte du *Franklin*, ma femme et moi nous dûmes quitter San-Diégo et l\'Amérique. De graves intérêts m\'appelaient en Australie, et je me rendis à Sydney, où j\'avais fondé un comptoir. Depuis notre départ, Jane et Dolly ne cessèrent jamais de rester en correspondance, car vous savez quelle affection les unissait l\'une à l\'autre, affection que ni le temps ni la distance ne pouvaient affaiblir..
+
+--- Oui... je sais ! répondit John. Dolly et Jane étaient deux amies, et la séparation a dû être cruelle !
+
+--- Très cruelle, John, reprit Len Burker, mais, après quelques années, le jour était arrivé où cette séparation allait prendre fin. Il y a onze mois environ, nous nous préparions à quitter l\'Australie pour retourner à San-Diégo, lorsqu\'une nouvelle inattendue suspendit nos projets de départ. On venait d\'apprendre ce qu\'était devenu le *Franklin*, en quels parages il s\'était perdu, et, en même temps, le bruit se répandait que le seul survivant du naufrage était prisonnier d\'une tribu australienne, que c\'était vous, John...
+
+--- Mais comment a-t-on pu savoir, Len ?... Est-ce que Harry Felton ?...
+
+--- Oui, cette nouvelle avait été rapportée par Harry Felton. Presque au terme de son voyage, votre compagnon avait été recueilli sur les bords du Parru, dans le sud du Queensland, et transporté à Sydney...
+
+[--- Harry... mon brave Harry ! s\'écria le capitaine John.]{lang="FRE" xmlns:xml="http://www.w3.org/XML/1998/namespace"} Ah ! Je savais bien qu\'il ne m\'oublierait pas !... Dès qu\'il a été rendu à Sydney, il a organisé une expédition...
+
+--- Il est mort, répondit Len Burker, mort des fatigues qu\'il avait éprouvées !
+
+--- Mort !... répéta John. Mon Dieu... mort !... Harry Felton... Harry ! »
+
+Et des larmes coulèrent de ses yeux.
+
+« Mais, avant de mourir, reprit Len Burker, Harry Felton avait pu raconter les événements qui suivirent la catastrophe du *Franklin*, le naufrage sur les récifs de l\'île Browse, dire comment vous aviez atteint l\'ouest du continent... C\'est à son chevet que moi... j\'ai tout appris de sa bouche... tout !... Puis, ses yeux se sont fermés, John, tandis qu\'il prononçait votre nom...
+
+--- Harry !... mon pauvre Harry !... » murmurait John, à la pensée de ces effroyables misères auxquelles avait succombé ce fidèle compagnon qu\'il ne devait plus revoir. » John, reprit Len Burker, la perte du *Franklin*, dont on était sans nouvelles depuis quatorze ans, avait eu un retentissement considérable. Vous jugez de l\'effet qui se produisit, lorsque le bruit se répandit que vous étiez vivant... Harry Felton vous avait laissé, quelques mois auparavant, prisonnier d\'une tribu du nord... Je fis immédiatement passer un télégramme à Dolly, en la prévenant que j\'allais me mettre en route pour vous retirer des mains des Indas, car ce ne devait être qu\'une question de rançon, d\'après ce qu\'avait dit Harry Felton. Puis, ayant organisé une caravane dont j\'ai pris la direction, Jane et moi nous avons quitté Sydney. Voilà de cela sept mois... Il ne nous a pas fallu moins que ce temps pour atteindre la Fitz-Roy... Enfin, Dieu aidant, nous sommes arrivés au campement des Indas...
+
+--- Merci, Len, merci !... s\'écria le capitaine John. Ce que vous avez fait pour moi...
+
+--- Vous l\'auriez fait pour moi en pareilles circonstances, répondit Len Burker.
+
+--- Certes !... Et votre femme, Len, cette courageuse Jane, qui n\'a pas craint de braver tant de fatigues, où est-elle ?...
+
+--- À trois jours de marche en amont, avec deux de mes hommes, répondit Len Burker.
+
+--- Je vais donc la voir...
+
+--- Oui, John, et si elle n\'est pas ici, c\'est que je n\'ai pas voulu qu\'elle m\'accompagnât, ne sachant trop quel accueil les indigènes feraient à notre petite caravane...
+
+--- Mais vous n\'êtes pas venu seul ? demanda le capitaine John.
+
+--- Non, j\'ai là mon escorte, composée d\'une douzaine de noirs. Il y a deux jours que je suis arrivé dans cette vallée...
+
+--- Deux jours ?...
+
+--- Oui, et je les ai employés à conclure mon marché. Ce Willi tenait à vous, mon cher John... Il connaissait votre importance... ou plutôt votre valeur. Il a fallu longuement discuter pour obtenir qu\'il vous rendît la liberté contre rançon....
+
+--- Alors je suis libre ?...
+
+--- Aussi libre que je le suis moi-même.
+
+--- Mais les indigènes ?...
+
+--- Ils sont partis avec leur chef, et il n\'y a plus que nous au campement.
+
+--- Partis ?... s\'écria John.
+
+--- Voyez ! »
+
+Le capitaine John s\'élança d\'un bond hors de la hutte.
+
+En ce moment, sur le bord de la rivière, il n\'y avait que les noirs de l\'escorte de Len Burker : les Indas n\'étaient plus là.
+
+On voit ce qu\'il y avait de vrai et de mensonger dans le récit de Len Burker. De la folie de mistress Branican, il n\'avait rien dit. De la fortune qui était échue à Dolly par la mort d\'Edward Starter, il n\'avait pas parlé. Rien, non plus, des tentatives faites par le *Dolly*-*Hope* à travers les parages de la mer des Philippines et le détroit de Torrès pendant les années 1879 et 1882. Rien de ce qui s\'était passé entre Mrs. Branican et Harry Felton à son lit de mort. Rien enfin de l\'expédition organisée par cette intrépide femme, maintenant abandonnée au milieu du Great-Sandy-Desert, et dont lui, l\'indigne Burker, s\'attribuait le mérite. C\'était lui qui avait tout fait, c\'était, lui qui, au risque de sa vie, avait délivré le capitaine John !
+
+Et comment John aurait-il pu mettre en doute la véracité de ce récit ? Comment n\'aurait-il pas remercié avec effusion celui qui, après tant de périls, venait de l\'arracher aux Indas, celui qui allait le rendre à sa femme et à son enfant ?
+
+C\'est ce qu\'il fit, et en termes qui auraient touché un être moins dénaturé. Mais le remords n\'avait plus prise sur la conscience de Len Burker, et rien ne l\'empêcherait d\'aller jusqu\'à l\'accomplissement de ses criminels projets. Maintenant John Branican se hâterait de le suivre jusqu\'au campement où Jane l\'attendait... Pourquoi eût-il hésité ?... Et, pendant ce trajet, Len Burker trouverait l\'occasion de le faire disparaître, sans être soupçonné des noirs de son escorte, qui ne pourraient témoigner ultérieurement contre lui...Le capitaine John étant impatient de partir, il fut convenu que le départ s\'effectuerait le jour même. Son plus vif désir était de revoir Jane, l\'amie dévouée de sa femme, de lui parler de Dolly et de leur enfant, de M. William Andrew, de tous ceux qu\'il retrouverait à San-Diégo...
+
+On se mit en route dans l\'après-midi du 23 avril. Len Burker avait des vivres pour quelques jours. Pendant le voyage, la Fitz-Roy devait fournir l\'eau nécessaire à la petite caravane. Les chameaux, qui servaient de montures à John et à Len Burker, leur permettraient au besoin de devancer leur escorte de quelques étapes. Cela faciliterait les desseins de Len Burker... Il ne fallait pas que le capitaine John arrivât au campement... et il n\'y arriverait pas.
+
+À huit heures du soir, Len Burker s\'établit sur la rive gauche de la rivière pour y passer la nuit. Il était encore trop éloigné, pour mettre à exécution son projet de devancer l\'escorte, au milieu de ces régions où quelques mauvaises rencontres étaient toujours à craindre.
+
+Aussi, le lendemain, dès l\'aube, reprit-il sa marche avec ses compagnons.
+
+La journée suivante se partagea en deux étapes, qui ne furent interrompues que par une halte de deux heures. Il n\'était pas toujours facile de suivre le cours de la Fitz-Roy, dont les berges étaient tantôt coupées de profondes entailles, tantôt barrées par des massifs inextricables de gommiers et d\'eucalyptus, ce qui obligeait à faire de longs détours.
+
+La journée avait été très dure, et, après leur repas, les noirs s\'endormirent.
+
+Quelques instants plus tard, le capitaine John était plongé dans un profond sommeil.
+
+Il y avait peut-être là une occasion dont Len Burker aurait pu profiter, car il ne dormait pas, lui. Frapper John, traîner son cadavre à une vingtaine de pas, le précipiter dans la rivière, il semblait même que les circonstances se réunissaient pour faciliter la perpétration de ce crime. Puis, le lendemain, au moment du départ, on aurait vainement cherché le capitaine John...
+
+Vers les deux heures du matin, Len Burker, se relevant sans bruit, rampa vers sa victime, un poignard à la main, et il allait le frapper, lorsque John se réveilla.
+
+« J\'avais cru vous entendre m\'appeler ? dit Len Burker..
+
+--- Non, mon cher Len, répondit John. Au moment où je me suis réveillé, je rêvais de ma chère Dolly et de notre enfant ! »
+
+À six heures, le capitaine John et Len Burker reprirent leur route le long de la Fitz-Roy.
+
+Pendant la halte de midi, Len Burker, décidé à en finir puisqu\'il devait arriver le soir même au campement, proposa à John de devancer leur escorte.
+
+John accepta, car il lui tardait d\'être près de Jane, de pouvoir lui parler plus intimement qu\'il n\'avait pu le faire avec Len Burker.
+
+Tous deux allaient donc partir, lorsqu\'un des noirs signala, à quelques centaines de pas, un blanc qui s\'avançait, non sans prendre certaines précautions.
+
+Un cri échappa à Len Burker...
+
+Il avait reconnu Godfrey.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 15 -- Le dernier campement]{.pcalibre lang="X-NONE"}]{#_Toc342942258 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-15-le-dernier-campement .calibre171 .sigil_not_in_toc}
+
+Poussé par une sorte d\'instinct, sans presque avoir conscience de ce qu\'il faisait, le capitaine John venait de se précipiter au-devant du jeune garçon.
+
+Len Burker était resté immobile, comme si ses pieds eussent été cloués au sol.
+
+Godfrey en face de lui... Godfrey, le fils de Dolly et de John ! Mais la caravane de Mrs. Branican n\'avait donc pas succombé ?... Elle était donc là... à quelques milles... à quelques centaines de pas... à moins que Godfrey fût le seul survivant de ceux que le misérable avait abandonnés ?
+
+Quoi qu\'il en soit, cette rencontre si inattendue pouvait anéantir tout le plan de Len Burker. Si le jeune novice parlait, il dirait que Mrs. Branican était à la tête de cette expédition... Il dirait que Dolly avait affronté mille fatigues, mille dangers au milieu des déserts australiens pour porter secours à son mari... Il dirait qu\'elle était là... qu\'elle le suivait en remontant le cours de la Fitz-Roy...Et cela était, en effet.
+
+Le matin du 22 mars, après l\'abandon de Len Burker, la petite caravane s\'était remise en marche dans la direction du nord-ouest. Le 8 avril, on le sait, ces pauvres gens, épuisés par la faim, torturés par la soif, étaient tombés à demi morts.
+
+Soutenue par une force supérieure, Mrs. Branican avait essayé de ranimer ses compagnons, les suppliant de se remettre en marche, de faire un dernier effort pour atteindre cette rivière où ils pourraient trouver quelques ressources... C\'était comme si elle se fût adressée à des cadavres, et Godfrey lui-même avait perdu connaissance.
+
+Mais l\'âme de l\'expédition survivait en Dolly, et Dolly fit ce que ses compagnons ne pouvaient plus faire. C\'était vers le nord-ouest qu\'ils se dirigeaient, c\'était de ce côté que Tom Marix et Zach Fren avaient tendu leurs bras défaillants... Dolly s\'élança dans cette direction.
+
+À travers la plaine qui se développait à perte de vue vers le couchant, sans vivres, sans moyens de transport, qu\'espérait cette énergique femme ?... Son but était-il de gagner la Fitz-Roy, d\'aller chercher assistance soit chez les blancs du littoral, soit chez les indigènes nomades ?... Elle ne savait, mais elle fit ainsi quelques milles -- une vingtaine en trois jours. Pourtant, ses forces la trahirent, elle tomba à son tour, et elle serait morte, si un secours ne lui fût arrivé -- providentiellement, on peut le dire.
+
+Vers cette époque, la police noire battait l\'estrade sur la limite du Great-Sandy-Desert. Après avoir laissé une escouade près de la Fitz-Roy, son chef, le mani, était venu opérer une reconnaissance dans cette partie de la province avec une soixantaine d\'hommes.
+
+Ce fut lui qui rencontra Mrs. Branican. Dès qu\'elle eut repris connaissance, elle put dire où étaient ses compagnons, et on la ramena vers eux. Le mani et ses hommes parvinrent à ranimer ces pauvres gens, dont pas un n\'eût été retrouvé vivant vingt-quatre heures plus tard.
+
+Tom Marix, qui avait autrefois connu le mani dans la province du Queensland, lui fit le récit de ce qui s\'était passé depuis le départ d\'Adélaïde. Cet officier n\'ignorait pas dans quel but une caravane, dirigée par Mrs. Branican, était engagée à travers les lointaines régions du nord-ouest, et, puisque la Providence voulait qu\'il pût la secourir, il lui offrit de se joindre à elle. Et, quand Tom Marix eut parlé des Indas, le mani répondit que cette tribu occupait en ce moment les bords de la Fitz-Roy, à moins de soixante milles.
+
+Il n\'y avait pas de temps à perdre, si l\'on voulait déjouer les projets de Len Burker, que le mani avait déjà eu mission de poursuivre, lorsqu\'il courait avec une bande de bushrangers la province du Queensland. Il n\'était pas douteux que si Len Burker parvenait à délivrer le capitaine John, qui n\'avait aucune raison de se défier de lui, il serait impossible de retrouver leurs traces ?
+
+Mrs. Branican pouvait compter sur le mani et sur ses hommes, qui partagèrent leurs vivres avec ses compagnons et leur prêtèrent leurs chevaux. La troupe partit le soir même, et dans l\'après-midi du 21 avril, les hauteurs de la vallée se montraient à peu près sur la limite du dix-septième parallèle.
+
+En cet endroit, le mani retrouva ceux de ses agents qui étaient restés en surveillance le long de la Fitz-Roy. Ils lui apprirent que les Indas étaient alors campés à une centaine de milles sur le cours supérieur de la rivière. Ce qui importait, c\'était de les rejoindre au plus tôt, bien que Mrs. Branican n\'eût plus rien des objets d\'échange destinés à la rançon du capitaine. D\'ailleurs, le mani, renforcé de toute sa brigade, aidé de Tom Marix, de Zach Fren, de Godfrey, de Jos Meritt et de leurs compagnons, n\'hésiterait pas à employer la force pour arracher John aux Indas. Mais, lorsqu\'on eut remonté la vallée jusqu\'au campement des indigènes, ceux-ci l\'avaient déjà abandonné. Le mani les suivit d\'étape en étape, et c\'est ainsi que, dans l\'après-midi du 25 avril, Godfrey, qui s\'était porté d\'un demi-mille en avant, se trouva soudain en présence du capitaine John.
+
+Cependant Len Burker était parvenu à se remettre, regardant Godfrey, sans prononcer un mot, attendant ce que le jeune novice allait faire, ce qu\'il allait dire.
+
+Godfrey ne l\'avait pas même aperçu. Ses regards ne pouvaient se détacher du capitaine. Bien qu\'il ne l\'eût jamais vu, il connaissait ses traits d\'après le portrait photographique que Mrs. Branican lui avait donné. Nul doute possible... Cet homme était le capitaine John.
+
+De son côté, John regardait Godfrey avec une émotion non moins extraordinaire. Bien qu\'il ne pût deviner quel était ce jeune garçon, il le dévorait des yeux... il lui tendait ses mains... il l\'appelait d\'une voix tremblante... oui ! Il l\'appelait comme si c\'eût été son fils.
+
+Godfrey se précipita dans ses bras, en s\'écriant :
+
+« Capitaine John !
+
+--- Oui... moi... c\'est moi ! répondit le capitaine John. Mais... toi... mon enfant... qui es-tu ?... D\'où viens-tu ?... Comment sais-tu mon nom ?... »
+
+Godfrey ne put répondre. Il était devenu effroyablement pâle en apercevant Len Burker, et, ne pouvant maîtriser l\'horreur qu\'il éprouvait à la vue de ce misérable :
+
+« Len Burker ! » s\'écria-t-il.
+
+Len Burker, après avoir réfléchi aux suites de cette rencontre, ne pouvait que s\'en féliciter. N\'était-ce pas le plus heureux des hasards, qui lui livrait à la fois Godfrey et John ? N\'était-ce pas une incroyable chance que d\'avoir à sa merci le père et l\'enfant ? Aussi, s\'étant retourné vers les noirs, leur fit-il signe de séparer Godfrey et John, de les saisir...
+
+« Len Burker !... répéta Godfrey !
+
+--- Oui, mon enfant, répondit John, c\'est Len Burker... celui qui m\'a sauvé...
+
+--- Sauvé ! s\'écria Godfrey. Non, capitaine John, non, Len Burker ne vous a pas sauvé !... Il a voulu vous perdre, il nous a abandonnés, il a volé votre rançon à mistress Branican... »
+
+À ce nom, John répondit par un cri, et, saisissant la main de Godfrey :
+
+« Dolly ?... Dolly ?... répétait-il..
+
+--- Oui... mistress Branican, capitaine John, votre femme... qui est près d\'ici !...
+
+--- Dolly ?... s\'écria John.
+
+--- Ce garçon est fou !... dit Len Burker, en s\'approchant de Godfrey...
+
+--- Oui !... fou !... murmura le capitaine John. Le pauvre enfant est fou !
+
+--- Len Burker, reprit Godfrey, qui tremblait de colère, vous êtes un traître... vous êtes un assassin !... Et si cet assassin est ici, capitaine John, c\'est qu\'il veut se défaire de vous, après avoir abandonné mistress Branican et ses compagnons...
+
+[--- Dolly !... Dolly !... s\'écria le capitaine John.]{lang="FRE"} Non... Tu n\'es pas un fou, mon enfant !... Je te crois... je te crois !... Viens !... viens ! »
+
+Len Burker et ses hommes se précipitèrent sur John et sur Godfrey, qui, prenant un revolver à sa ceinture, frappa un des noirs en pleine poitrine. Mais John et lui furent saisis, et les noirs les entraînèrent vers la rivière.
+
+Heureusement, la détonation avait été entendue. Des cris lui répondirent à quelques centaines de pas en aval, et presque aussitôt, le mani et ses agents, Tom Marix et ses compagnons, Mrs. Branican, Zach Fren, Jos Meritt, Gîn-Ghi, se précipitaient de ce côté.
+
+Len Burker et les noirs n\'étaient pas en force pour résister, et, un instant après, John était entre les bras de Dolly.
+
+La partie était perdue pour Len Burker. Si l\'on s\'emparait de lui, il n\'avait aucune grâce à attendre, et, suivi de ses noirs, il prit la fuite en remontant le cours d\'eau.
+
+Le mani, Zach Fren, Tom Marix, Jos Meritt et une douzaine d\'agents se lancèrent à sa poursuite.
+
+Comment peindre les sentiments, comment rendre l\'émotion qui débordait du coeur de Dolly et de John ? Ils pleuraient, et Godfrey se mêlait à leurs étreintes, à leurs baisers, à leurs larmes.
+
+Tant de joie fit alors sur Dolly ce que tant d\'épreuves n\'avaient pu faire. Ses forces l\'abandonnèrent, et elle tomba sans connaissance.
+
+Godfrey, agenouillé près d\'elle, aidait Harriett à la ranimer. John l\'ignorait, mais ils savaient, eux, qu\'une première fois Dolly avait perdu la raison sous l\'excès de la douleur... Allait-elle donc la perdre une seconde fois sous l\'excès contraire ?
+
+« Dolly... Dolly ! » répétait John.
+
+Et Godfrey, prenant les mains de Mrs. Branican, s\'écriait :
+
+« Ma mère... ma mère ! »
+
+Les yeux de Dolly se rouvrirent, sa main serra la main de John, dont la joie débordait et qui tendit ses bras à Godfrey, en disant :
+
+« Viens... Wat !... Viens, mon fils ! »
+
+Mais Dolly ne pouvait le laisser dans cette erreur, lui laisser croire que Godfrey fût son enfant...
+
+« Non, John, dit-elle, non... Godfrey n\'est pas notre fils !... Notre pauvre petit Wat est mort... mort peu de temps après ton départ !...
+
+--- Mort ! » s\'écria John, qui, cependant, ne cessait de regarder Godfrey.
+
+Dolly allait lui dire quel malheur l\'avait frappée quinze années auparavant, lorsqu\'une détonation retentit du côté où le mani et ses compagnons s\'étaient mis à la poursuite de Len Burker.
+
+Est-ce que justice avait été faite du misérable, ou était-ce un nouveau crime que Len Burker avait eu le temps de commettre ?
+
+Presque aussitôt, tous reparurent en groupe sur la rive de la Fitz-Roy. Deux des agents rapportaient une femme, dont le sang s\'échappait d\'une large blessure et rougissait le sol.
+
+C\'était Jane.
+
+Voici ce qui s\'était passé.
+
+Malgré la rapidité de sa fuite, ceux qui poursuivaient Len Burker ne l\'avaient point perdu de vue, et quelques centaines de pas les séparaient encore de lui, lorsqu\'il s\'arrêta en apercevant Jane.
+
+Depuis la veille, cette infortunée, étant parvenue à s\'échapper, descendait le long de la Fitz-Roy. Elle allait comme au hasard et quand les premières détonations se firent entendre, elle n\'était pas à un quart de mille de l\'endroit où John et Godfrey venaient de se retrouver. Elle hâta sa course, et se vit bientôt en présence de son mari qui fuyait de ce côté.
+
+Len Burker, l\'ayant saisie par le bras, voulut l\'emmener.
+
+À la pensée que Jane rejoindrait Dolly, qu\'elle lui dévoilerait le secret de la naissance de Godfrey, sa fureur fut portée au comble. Et, comme Jane résistait, il la renversa d\'un coup de poignard.
+
+À ce moment, éclata un coup de fusil, qui fut accompagné de ces mots -- tout à fait en situation, cette fois :
+
+« Bien !... Oh !... Très bien ! »
+
+C\'était Jos Meritt qui, après avoir tranquillement ajusté Len Burker, venait de le faire rouler dans les eaux de la Fitz-Roy.
+
+
+Tom Marix s\'élança vers Jane qui respirait encore, mais bien faiblement. Deux agents prirent la malheureuse femme entre leurs bras, et la rapportèrent près de Mrs. Branican.
+
+En voyant Jane dans cet état, Dolly poussa un cri déchirant. Penchée sur la mourante, elle cherchait à entendre les battements de son coeur, à surprendre le souffle qui s\'échappait de sa bouche. Mais la blessure de Jane était mortelle, le poignard lui ayant traversé la poitrine.
+
+« Jane... Jane !... » répéta Dolly d\'une voix forte.
+
+À cette voix, qui lui rappelait les seules affections qu\'elle eût jamais connues, Jane rouvrit les yeux, regarda Dolly, et lui sourit en murmurant :
+
+« Dolly !... Chère Dolly ! »
+
+Soudain son regard s\'anima. Elle venait d\'apercevoir le capitaine John.
+
+« John... vous... John ! dit-elle, mais si bas qu\'on put à peine l\'entendre.
+
+--- Oui... Jane, répondit le capitaine, c\'est moi... moi que Dolly est venu sauver...
+
+--- John... John est là !... murmura-t-elle..
+
+--- Oui... près de nous, ma Jane ! dit Dolly. Il ne nous quittera plus... nous le ramènerons avec toi... avec toi... là-bas... »
+
+Jane n\'écoutait plus. Ses yeux semblaient chercher quelqu\'un... et elle prononça ce nom :
+
+« Godfrey !... Godfrey ! »
+
+Et l\'angoisse se peignit sur ses traits déjà décomposés par l\'agonie. Mrs. Branican fit signe à Godfrey, qui s\'approcha. » Lui !... lui... enfin ! » s\'écria Jane, en se redressant dans un dernier effort.
+
+Puis, saisissant la main de Dolly :
+
+« Approche... approche, Dolly, reprit-elle. John et toi, écoutez ce que j\'ai encore à dire ! »
+
+Tous deux se penchèrent sur Jane de manière à ne pas perdre une seule de ses paroles.
+
+[« John, Dolly, dit-elle, Godfrey...]{lang="FRE"} Godfrey qui est là... Godfrey est votre enfant...
+
+--- Notre enfant ! » murmura Dolly.
+
+Et elle devint aussi pâle que l\'était la mourante, tant le sang lui reflua violemment au coeur.
+
+« Nous n\'avons plus de fils ! dit John. Il est mort...
+
+--- Oui, répondit Jane, le petit Wat... là-bas... dans la baie de San-Diégo... Mais vous avez eu un second enfant, et cet enfant... c\'est Godfrey ! »
+
+En quelques phrases, entrecoupées par les hoquets de la mort, Jane put dire ce qui s\'était passé après le départ du capitaine John, la naissance de Godfrey à Prospect-House, Dolly, privée de raison, devenue mère sans le savoir, le petit être exposé par ordre de Len Burker, recueilli quelques heures après, puis élevé plus tard à l\'hospice de Wat-House sous le nom de Godfrey...
+
+Et Jane ajouta :
+
+« Si je suis coupable de n\'avoir pas eu le courage de tout t\'avouer, ma Dolly, pardonne-moi... pardonnez-moi, John !
+
+--- As-tu besoin de pardon, Jane... toi qui viens de nous rendre notre enfant...
+
+--- Oui... votre enfant ! s\'écria Jane. Devant Dieu... John, Dolly, je le jure... Godfrey est votre enfant ! »
+
+Et pendant que tous deux pressaient Godfrey dans leurs bras, Jane eut un sourire de bonheur, qui s\'éteignit dans son dernier soupir.
+
+
+]{.calibre20}
+
+
+MISTRESS BRANICAN
+
+Deuxième partie
+
+
+]{.calibre20}
+
+### [[Chapitre 16 -- Dénouement]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942259 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-16-dénouement .calibre171 .sigil_not_in_toc}
+
+Il est inutile de s\'attarder aux incidents qui terminèrent cet aventureux voyage à travers le continent australien, et dans quelles conditions si différentes se fit ce retour vers la province d\'Adélaïde.
+
+Tout d\'abord avait été discutée une question : Devait-on gagner les établissements du littoral, en descendant la rivière Fitz-Roy -- entre autres ceux de Rockbonne -- ou se diriger vers le port du Prince-Frederik, dans le York-Sund. Mais bien du temps se fût écoulé, avant qu\'un navire pût être expédié vers ce littoral, et il parut préférable de reprendre la route déjà parcourue. Escortée par les agents de la police noire, abondamment pourvue de vivres par les soins du mani, ayant à sa disposition les chameaux de selle et de bât repris à Len Burker, la caravane n\'aurait rien à craindre des mauvaises rencontres.
+
+Avant le départ, le corps de Jane Burker fut déposé dans une tombe, creusée au pied d\'un groupe de gommiers. Dolly s\'agenouilla sur cette tombe et pria pour l\'âme de cette pauvre femme.
+
+Le capitaine John, sa femme et leurs compagnons quittèrent le campement de la Fitz-Roy river à la date du 25 avril, sous la direction du mani qui avait offert de l\'accompagner jusqu\'à la plus proche station de l\'Overland-Telegraf-Line.
+
+Tous étaient si heureux que l\'on ne sentait même pas les fatigues du voyage, et Zach Fren, dans sa joie, répétait à Tom Marix :
+
+« Eh bien, Tom, nous l\'avons retrouvé le capitaine !
+
+--- Oui, Zach, mais à quoi cela a-t-il tenu ?
+
+--- À un bon coup de barre que la Providence a donné à propos, Tom, et il faut toujours compter sur la Providence !... »
+
+Cependant, il y avait un point noir à l\'horizon de Jos Meritt. Si Mrs. Branican avait retrouvé le capitaine John, le célèbre collectionneur n\'avait point retrouvé le chapeau, dont la recherche lui coûtait tant de peines et tant de sacrifices. Être allé jusque chez les Indas, et ne pas être entré en communication avec ce Willi, qui se coiffait peut-être du couvre-chef historique, quelle malchance ! Ce qui consola un peu Jos Meritt, il est vrai, ce fut d\'apprendre par le mani que la mode des coiffures européennes n\'était pas parvenue chez les peuplades du nord-ouest, contrairement à ce que Jos Meritt avait observé déjà chez les peuplades du nord-est. Donc, son desideratum n\'aurait pu se réaliser parmi les indigènes de l\'Australie septentrionale. En revanche, il pouvait se féliciter du maître coup de fusil qui avait débarrassé la famille Branican « de cet abominable Len Burker ! » comme disait Zach Fren.
+
+Le retour s\'opéra aussi rapidement que possible. La caravane n\'eut pas trop à souffrir de la soif, car les puits étaient déjà remplis sous les larges averses de l\'automne, et la température se maintenait à un degré supportable. D\'ailleurs, sur l\'avis du mani, on gagna en ligne droite les régions traversées par la ligne télégraphique, où ne manquent ni les stations bien approvisionnées, ni les moyens de communication avec la capitale de l\'Australie méridionale. Grâce au télégraphe, on sut bientôt dans le monde entier que Mrs. Branican avait mené à bonne fin son audacieuse expédition.
+
+Ce fut à la hauteur du lac Wood que John, Dolly et leurs compagnons atteignirent l\'une des stations de l\'Overland-Telegraf-Line. Là, le mani et les agents de la police noire durent prendre congé de John et de Dolly Branican. Ils ne s\'en séparèrent pas sans avoir reçu les chaleureux remerciements qu\'ils méritaient -- en attendant les récompenses que le capitaine leur fit parvenir dès son arrivée à Adélaïde.
+
+Il n\'y avait plus qu\'à descendre les districts de la Terre Alexandra jusqu\'à la station d\'Alice-Spring, où la caravane s\'arrêta dans la soirée du 19 juin, après sept semaines de voyage.
+
+Là, sous la garde de M. Flint, le chef de la station, Tom Marix retrouva le matériel qu\'il y avait laissé, les boeufs, les chariots, les buggys, les chevaux destinés aux étapes qui restaient à parcourir.
+
+Il s\'ensuit donc que, le 3 juillet, tout le personnel atteignit le railway de Farina-Town, et le lendemain la gare d\'Adélaïde.
+
+Quel accueil fut fait au capitaine John et à sa courageuse compagne ! Il y eut concours de toute la ville pour les recevoir, et lorsque le capitaine John Branican parut entre sa femme et son fils au balcon de l\'hôtel de King-William-Street, les hips et les hurrahs éclatèrent avec une telle intensité que, suivant Gîn-Ghi, on avait dû les entendre de l\'extrémité du Céleste-Empire.
+
+Le séjour à Adélaïde ne fut pas de longue durée. John et Dolly Branican avaient hâte d\'être de retour à San-Diégo, de revoir leurs amis, de retrouver leur chalet de Prospect-House, où le bonheur allait rentrer avec eux. On prit alors congé de Tom Marix et de ses hommes, qui furent généreusement récompensés, et dont on ne devait jamais oublier les services.
+
+On n\'oublierait pas non plus cet original de Jos Meritt, qui se décida, lui aussi, à quitter l\'Australie toujours suivi de son fidèle serviteur.
+
+Mais enfin puisque « son chapeau » ne s\'y trouvait pas, où donc se trouvait-il ?
+
+Où ?... Dans une demeure royale, où il était conservé avec tout le respect qui lui était dû. Oui ! Jos Meritt, égaré sur de fausses pistes, avait inutilement parcouru les cinq parties du monde, pour conquérir ce chapeau... qui se trouvait au château de Windsor, ainsi qu\'on l\'apprit six mois plus tard. C\'était le chapeau que portait Sa Gracieuse Majesté lors de sa visite au roi Louis-Philippe en 1845, et il fallait être fou, à tout le moins, pour imaginer que ce chef-d\'oeuvre d\'une modiste parisienne aurait pu achever sa carrière sur le crâne crépu d\'un sauvage de l\'Australie !
+
+Il résulta de cela que les pérégrinations de Jos Meritt cessèrent enfin à l\'extrême joie de Gîn-Ghi, mais à l\'extrême déplaisir du célèbre bibelomane, qui revint à Liverpool, très dépité de n\'avoir pu compléter sa collection par l\'acquisition de ce chapeau unique au monde.
+
+Trois semaines après avoir quitté Adélaïde, où ils s\'étaient embarqués sur l\'Abraham-*Lincoln*, John, Dolly et Godfrey Branican, accompagnés de Zach Fren et de la femme Harriett, arrivèrent à San-Diégo.
+
+C\'est là que M. William Andrew et le capitaine Ellis les reçurent au milieu des habitants de cette généreuse cité, fière d\'avoir retrouvé le capitaine John et de saluer en lui l\'un de ses plus glorieux enfants.

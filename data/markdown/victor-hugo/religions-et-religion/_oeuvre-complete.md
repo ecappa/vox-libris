@@ -1,0 +1,2008 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/les-chansons-des-rues-et-des-bois/00546.jpg){.calibre10} RELIGIONS ET RELIGION]{.calibre2}]{.calibre_55} {#filepos20788332 .calibre_}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1880)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[POÉSIES]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3237 .calibre_57}
+
+::: calibre_19
+
+
+[]{.calibre_10}
+
+> [[[[[Présentation]{.calibre9}]{.underline}]{.calibre_4}](index_split_2572.html#filepos20794539)]{.calibre_10}
+
+> [[[[[Avertissement de l'auteur]{.calibre9}]{.underline}]{.calibre_4}](index_split_2573.html#filepos20795591)]{.calibre_10}
+
+> [[[[[I. Querelles]{.calibre9}]{.underline}]{.calibre_4}](index_split_2574.html#filepos20796565)]{.calibre_10}
+
+> [[[[[I. Le dimanche]{.calibre16}]{.underline}]{.calibre_4}](index_split_2575.html#filepos20797326)]{.calibre_10}
+
+> [[[[[II. Première réflexion]{.calibre16}]{.underline}]{.calibre_4}](index_split_2576.html#filepos20800309)]{.calibre_10}
+
+> [[[[[III. Le théologien]{.calibre16}]{.underline}]{.calibre_4}](index_split_2577.html#filepos20802224)]{.calibre_10}
+
+> [[[[[IV. Au théologien]{.calibre16}]{.underline}]{.calibre_4}](index_split_2578.html#filepos20809836)]{.calibre_10}
+
+> [[[[[V. Invention]{.calibre16}]{.underline}]{.calibre_4}](index_split_2579.html#filepos20819331)]{.calibre_10}
+
+> [[[[[VI. Les mains levées au ciel]{.calibre16}]{.underline}]{.calibre_4}](index_split_2580.html#filepos20825644)]{.calibre_10}
+
+> [[[[[VII. Chef-d'oeuvre]{.calibre16}]{.underline}]{.calibre_4}](index_split_2581.html#filepos20826475)]{.calibre_10}
+
+> [[[[[VIII. Suites]{.calibre16}]{.underline}]{.calibre_4}](index_split_2582.html#filepos20828397)]{.calibre_10}
+
+> [[[[[IX. Questions]{.calibre16}]{.underline}]{.calibre_4}](index_split_2583.html#filepos20830570)]{.calibre_10}
+
+> [[[[[II. Philosophie]{.calibre9}]{.underline}]{.calibre_4}](index_split_2584.html#filepos20840620)]{.calibre_10}
+
+> [[[[[III. Rien]{.calibre9}]{.underline}]{.calibre_4}](index_split_2585.html#filepos20873340)]{.calibre_10}
+
+> [[[[[IV. Des voix]{.calibre9}]{.underline}]{.calibre_4}](index_split_2586.html#filepos20889119)]{.calibre_10}
+
+> [[[[[V. Conclusion]{.calibre9}]{.underline}]{.calibre_4}](index_split_2587.html#filepos20906003)]{.calibre_10}
+
+[ ]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Présentation]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3239 .calibre_57}
+
+::: calibre_19
+
+
+[ ]{.calibre4}
+
+[Long poème en cinq parties (Querelles, Philosophie, Rien, Des voix, Conclusion) qui traite de la croyance, de la religion, des religions en général et de l\'athéisme.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Avertissement]{.calibre2} de l'auteur]{.bold1}]{.calibre_24} {#calibre_pb_3241 .calibre_57}
+
+::: calibre_19
+
+
+[ ]{.calibre4}
+
+[Ce livre a été commencé en 1870 ; il est terminé en 1880. L\'an 1870 a donné à la papauté l\'infaillibilité et à l\'empire Sedan. Que fera l\'an 1880 ?]{.calibre4}
+
+[!{.calibre3}]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I. Querelles]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3243 .calibre_57}
+
+::: calibre_19
+
+
+[[!{.calibre3}]{.italic}]{.calibre_10}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I. Le dimanche]{.calibre2}]{.bold1}]{.calibre_39} {#i.-le-dimanche .calibre_38}
+
+[
+--- Je n\'ai pas entendu le facteur frapper. --- Certes !
+Votre porte aujourd\'hui, monsieur, n\'est pas ouverte.
+--- Ah bah ! --- Vous n\'aurez pas aujourd\'hui de journaux.
+--- Pourquoi ?
+Mary, qui vient d\'éteindre ses fourneaux,
+Est superbe ; elle a mis sa grande coiffe blanche.
+--- Ni de lettres. --- Pourquoi ? --- Parce que c\'est dimanche.
+--- Eh bien ? --- On ne lit pas de lettres ce jour-là.
+--- Pourquoi ? --- Parce que Dieu fit le monde. Il parla
+Et travailla pendant six jours. --- Soit. Que m\'importe ?
+--- Le dimanche on ne peut frapper à votre porte.
+--- Mais pourquoi ? --- C\'est le jour où Dieu s\'est reposé.
+Apprendre au maître, impie et français, l\'A B C,
+C\'est beau ; Mary triomphe, et ne se sent pas d\'aise,
+Étant bonne chrétienne et servante irlandaise.
+On entend bourdonner la cloche dans la tour.
+Ainsi l\'infini va jusqu\'au septième jour !
+Arrivé là, c\'est dit ; l\'infini devient morne,
+Reste court, et s\'arrête épuisé ; c\'est sa borne.
+Nous appelons cela le dimanche. Il est sûr
+Qu\'il faut pour faire un ciel bien des rouleaux d\'azur,
+Qu\'un chêne à fabriquer n\'est pas un mince arbuste,
+Et qu\'il faut une échelle étrangement robuste
+Et que l\'échafaudage ait été bien construit
+Pour peindre l\'aube à fresque au mur noir de la nuit.
+Ainsi ce grand travail qu\'on nomme la nature
+Ne s\'est point terminé sans quelque courbature !
+Ainsi le Tout-Puissant a dit : Je n\'en puis plus !
+Et las, suant, soufflant, ankylosé, perclus,
+Pris d\'un vieux rhumatisme incurable à l\'échiné,
+Après avoir créé le monde, et la machine
+Des astres pêle-mêle au fond des horizons,
+La vie, et l\'engrenage énorme des saisons,
+La fleur, l\'oiseau, la femme, et l\'abîme, et la terre,
+Dieu s\'est laissé tomber dans son fauteuil Voltaire !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II. Première réflexion]{.calibre2}]{.bold1}]{.calibre_39} {#ii.-première-réflexion .calibre_38}
+
+[
+Pas de religion qui ne blasphème un peu.
+L\'une en croquemitaine habille le bon Dieu ;
+Il fait son paradis du hurlement des âmes ;
+Sa cave à son plafond jette un reflet de flammes,
+Il grince, et son bonheur est d\'avoir un enfer
+A remuer avec une fourche de fer.
+L\'autre à la main lui plante un grand sabre, et l\'affuble
+D\'un uniforme, mal caché par sa chasuble ;
+Il a l\'obus en bas et la foudre là-haut ;
+Il était Jéhovah, le voilà Sabaoth ;
+On le fait tambour-maître et général d\'armée ;
+Il va-t-en guerre. Étant riche en noir de fumée,
+Belzébuth jusqu\'à Dieu se glisse, et cet escroc
+Lui charbonne en riant deux moustaches en croc ;
+Le Père-Éternel sent vaguement qu\'on le berne,
+Se laisse faire, met l\'éclair dans sa giberne,
+Se voit destitué par le pape, permet
+Que la bataille accroche à sa mitre un plumet,
+Ferme les yeux sur l\'homme, être irrémédiable,
+Et, n\'étant plus bon Dieu, tâche d\'être bon diable.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III. Le théologien]{.calibre2}]{.bold1}]{.calibre_39} {#iii.-le-théologien .calibre_38}
+
+[
+O théologien, tu dis :
+--- Rêveurs, penseurs,
+En fouillant on ne sait sous quelles épaisseurs,
+Vous avez découvert un Dieu sans fin, sans forme ;
+Vous niez qu\'il se lasse et vous niez qu\'il dorme ;
+Ce Dieu n\'a pas d\'histoire. Est-il juif, arien,
+Grec, indou, parsi ? Non. Il ne ressemble à rien,
+Il n\'a pas de légende arrangeable en cantique.
+Raisonnons. Croyez-vous ce Dieu-là bien pratique ?
+Tu dis : --- Un Dieu n\'est pas ce que vous supposez.
+Un Dieu, c\'est une tour dont on fait les fossés.
+C\'est une silhouette au delà d\'un abîme.
+Ne point le voir est mal et trop le voir est crime.
+L\'autel, c\'est lui. Jamais la foule n\'admettrait
+L\'être pur, l\'infini compliqué par l\'abstrait.
+Dieu, cela n\'est pas, tant que ce n\'est pas en pierre.
+Il faut une maison pour mettre la prière.
+Dieu doit aller, venir, entrer, passer, marcher.
+Il a l\'ange à sa porte, ainsi qu\'un roi l\'archer.
+Homme, il me faut son pied imprimé sur mon sable.
+Et ce pied, c\'est le dogme. Un Dieu point saisissable,
+Un Dieu sans catéchisme, un Dieu sans Bible, un Dieu
+Que saint Luc et saint Marc, saint Jean et saint Mathieu
+Ne tiennent pas tout vif, et par les quatre membres,
+Dont les vieilles n\'ont pas le portrait dans leurs chambres,
+Dont personne ne peut dire : --- Il est ainsi fait,
+Il venait voir Moïse, il parlait à Japhet,
+Il a tué beaucoup de gens dans l\'Idumée,
+Il est un, il est trois, il aime la fumée,
+Il ne veut pas qu\'on touche à ses arbres fruitiers ; ---
+Un Dieu qu\'on chercherait pendant des mois entiers
+Sans le voir flamboyer soudain dans les broussailles ;
+Un Dieu qui ne connaît ni Rome, ni Versailles,
+Et qui ne comprendrait pas grand-chose aux sermons,
+Aux schémas, aux missels, où nous le renfermons ;
+Un Dieu qu\'on n\'apprend point par demande et réponse,
+Dont on ne fourbit pas avec la pierre ponce
+L\'auréole, dorée au fond d\'un cul-de-four
+Dans une niche en plâtre au coin du carrefour ;
+Un Dieu comme cela ne vaut rien. Qu\'il nous montre
+Son Pentateuque avec le pour auprès du contre,
+Ou son Toldos Jeschut, ou son Zend-Avesta,
+Son Verbe que lut Job et qu\'Esdras attesta,
+Ses psaumes que chantaient les chevaliers de Malte,
+Son Talmud ! Mais quoi, rien ! pas d\'évangile ! Halte !
+Qu\'est-ce que ce Dieu-là ? C\'est un Dieu sans papiers.
+Un Dieu pour paysans, un Jésus pour troupiers,
+Voilà ce qu\'il nous faut. L\'Homme-Dieu. Dogme ou fable,
+Il nous le faut visible, il nous le faut mangeable.
+Il faut qu\'il ait un peu toutes nos passions.
+Bons croyants, faisons-nous quelques concessions.
+Prenez notre séné, je prends votre rhubarbe.
+Tu dis : --- On n\'est pas Dieu sans une grande barbe.
+Dieu doit être très vieux. Ça met l\'homme à genoux.
+Un gibet d\'autrefois transfiguré par nous
+Charme le peuple, et l\'âme en aime le mystère ;
+La croix de saint André commande à l\'Angleterre,
+Le gril de saint Laurent produit l\'Escuriàl. ---
+Tu dis : --- L\'homme n\'a foi qu\'à l\'immémorial.
+Une religion qui veut qu\'on croie en elle
+Doit être séculaire, antique, solennelle,
+Appuyée au monceau des âges révolus. ---
+Tu dis : --- Nous vénérons un culte d\'autant plus
+Que dans la profondeur de l\'histoire il s\'éloigne ;
+Toute l\'autorité du temps passé témoigne : ;
+Croyons. Voilà mille ans, deux mille ans, trois mille ans
+Que ce temple est sacré pour les hommes tremblants ;
+C\'est ici que le temps vient effeuiller les races,
+Et des peuples éteints mêle les sombres traces ;
+Il donne pour garants à ces croyances-là
+Les générations dont l\'âme s\'envola.
+Vieille religion, donc religion sainte.
+De la tradition l\'homme approche avec crainte.
+C\'est vrai, car c\'est ancien ; et nos pères l\'ont cru.
+Un autel par l\'amas des siècles est accru.
+Donc, c\'est en vieillissant que les dogmes se prouvent ;
+Au fond du puits des jours les vérités se trouvent ;
+Il est bon pour un temple ou bien pour un Coran
+Que, sur les. bords du Tibre ou sous le ciel d\'Iran,
+Une procession d\'ancêtres et de sages
+Ait gravi ses degrés ou feuilleté ses pages ;
+Un dogme a le cadran des heures pour souci ;
+Tant qu\'il n\'a point de ride, il n\'a pas réussi ;
+Il lui faut, et c\'est là sa seule inquiétude,
+Le rajeunissement de la décrépitude ;
+C\'est par la vétusté qu\'il plaît ; Christ envieux
+Regarde Teutatès caduc et Brahma vieux ;
+Le vrai n\'est vrai, dans l\'ombre où le temps nous dépouille,
+Qu\'à la condition d\'être couvert de rouille.
+Un dogme vermoulu fait bien dans le ciel bleu.
+La patine du bronze est nécessaire à Dieu.
+L\'évidence a besoin, dans l\'azur de l\'idée,
+D\'être depuis longtemps des hommes regardée,
+De beaucoup de croyants brûlant du même feu,
+Et de beaucoup de terre au-dessous d\'elle. Un dieu
+N\'est dieu qu\'autant qu\'il prend racine comme un arbre ;
+L\'argile de la foi durcit et devient marbre ;
+Soyez un verbe, un rite, une religion,
+Apportez-nous des saints groupés en légion
+Et des anges coiffés d\'étoiles à facettes,
+Réglez l\'esprit, le coeur, l\'âme, ayez des recettes
+Pour faire janvier chaud ou juillet pluvieux,
+C\'est bien ; mais commencez d\'abord par être vieux.
+Si les autels ont droit d\'être environnés d\'âmes,
+Si c\'est le ciel qui parle en chaire aux bonnes femmes,
+Si les cultes sont purs, solides, sûrs, certains,
+Vrais, cela se mesure au nombre des matins
+Qu\'a vus le coq juché sur la tour du village ;
+Une religion qui sent lui venir l\'âge
+Triomphe à chaque siècle, et dit : Encore cent ans !
+J\'existe ! --- Et l\'Eternel cherche à gagner du temps !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV. Au théologien]{.calibre2}]{.bold1}]{.calibre_39} {#iv.-au-théologien .calibre_38}
+
+[
+Soit que vous vous coiffiez de turbans en batiste,
+Ou de mitres mêlant la perle à l\'améthyste,
+O prêtres, ô porteurs d\'éphods et de rabats,
+Étant donné le droit de sottise ici-bas,
+Vous en usez avec une ardeur sans pareille.
+Parce que le Très-Haut, faisant la sourde oreille,
+A l\'air de ne rien voir et de tout accepter,
+Parce que Dieu se laisse à peu près insulter,
+Et que ce patient des Tedeums ne raille,
+Dans sa bonté, pas même un évêque qui braille,
+Vous avez profité de son air bon enfant
+Pour lui faire endosser l\'absurde triomphant,
+Là dans les sanhédrins et là dans les conciles,
+Et pour bâcler beaucoup de livres imbéciles.
+Prêtres, vous remuez aussi facilement
+La malédiction, le mensonge inclément,
+L\'imposture et l\'erreur dans vos pesants volumes
+Que le petit oiseau fouille du bec ses plumes.]{.calibre4}
+
+[
+]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Où prends-tu, moine, abbé de visions imbu,
+Ce Tout-Puissant myope et ce Très-Haut fourbu ?
+Prêtre, qu\'est-ce que c\'est que cet Orgon céleste,
+Dieu podagre que dupe un démon jeune et leste ?
+Ah ! docteur ! quel beau jeu tu donnes, imprudent,
+Aux rieurs, point fâchés d\'avoir Dieu sous la dent !
+Écoute-les :
+--- Fakir, talapoin, muphti, mage,
+Brave homme, Dieu, dis-tu, t\'a fait à son image.
+Alors il est fort laid. J\'y consens. Prêtre blanc,
+Prêtre noir, qu\'il vous soit à tous deux ressemblant,
+C\'est son affaire. Et moi je siffle. Que de choses
+Mal faites dans le tas de ses métempsycoses !
+Les diacres aux gros yeux m\'ordonnent d\'admirer ;
+Je ris. La cathédrale en vain pour m\'attirer
+Ouvre les deux battants de sa porte cochère ;
+Je laisse bougonner ces bonshommes en chaire.
+Paix aux dévots béats ! quant à moi, je me tiens
+Le plus loin que je peux des orateurs chrétiens ;
+J\'écris sur mon carnet : Fuir Nonotte ; et je cloue
+A mon chevet : Ne point aller à Bourdaloue.
+Les raisonneurs bigots sont un de mes effrois.
+J\'abhorre ces forêts de piliers lourds et froids
+D\'où ; tombent les frissons, les toux, les pleurésies ;
+Je ne m\'expose point aux églises moisies ;
+Je n\'irai point gagner quelques bonnes fraîcheurs
+Pour le plaisir d\'entendre aboyer vos prêcheurs,
+Bavards à barbe ou clercs ras tondus, dont le geste
+S\'empêtre dans les plis d\'une prose indigeste.
+Prêtres de plomb, Laynez, Frayssinous, Bellarmin !
+L\'ennui pleut de leur phrase ; et, son croc à la main,
+Le chiffonnier qui met les âmes dans sa hotte,
+Satan, s\'il passe là d\'aventure, chuchote :
+--- Quand plus tard, dans l\'enfer vengeur, nous assommons
+Tous ces lourds sermonneurs, c\'est avec leurs sermons. ---
+Dieu. Le monde. Anier triste et mauvaise bourrique.
+Ah ! prêtres ! s\'il faut croire à votre rhétorique,
+Dieu mène tout. Tant pis. L\'univers disloqué,
+Mal sorti du chaos, penche et se cogne au quai.
+On distingue ses mâts sur le ciel d\'un noir d\'encre.
+Il n\'a plus sa boussole, il a perdu son ancre,
+Et semble par moments faire eau de toutes parts..
+Tout ce que l\'homme croit, dans l\'abîme est épars.
+La foi nage, le droit flotte, le vrai tournoie ;
+On voit les bras levés de l\'espoir qui se noie ;
+Qu\'est-ce que votre Dieu fait pendant ce temps-là ?
+Rien. Je me trompe. Il fait Nemrod, Cham, Attila,
+Gengis Khan, Tamerlan, Charles-Quint, Bonaparte ;
+Il brise Rome, il tue Athènes, il détruit Sparte ;
+C\'est grâce à lui qu\'un roi dit : NOMINOR LEO ;
+S\'il donne au monde un saint, vite, il lâche un fléau ;
+Il guide les Colombs, mais conduit les Pizarres ;
+Il est fantasque ; il fait des actions bizarres
+Dont Bossuet prendra note derrière lui.
+Son éclipse survient dès que son aube a lui.
+Cet astre est un aveugle. Il est contradictoire.
+Ce monde est sa défaite autant que sa victoire.
+Ce Très-Haut tourne et change. Il est hydre, il est Dieu.
+D\'une roue insensée il est le noir moyeu.
+Il est tantôt Hasard et tantôt Providence.
+Toute l\'horreur humaine en ce Dieu se condense,
+Et vous le façonnez si ressemblant à vous
+Que, père, il est vengeur, et, maître, il est jaloux.
+Il nous défend le lard tel jour de la semaine ;
+Et, si nous en mangeons, l\'ange des morts nous mène
+Au gouffre où tout est feu, braise, flamme et charbon,
+Si bien qu\'il a caché l\'enfer dans un jambon.
+Ce qu\'il crée, il le fêle ; et s\'il met trop de sable,
+Trop d\'ombre ou trop de neige, il en est responsable.
+Une peste nous vient de lui ; quand un essieu
+Casse, c\'est Jéhovah qui se détraque, et Dieu
+Est sale quand la boue à mon talon s\'attache ;
+Le mendiant, --- pourquoi des mendiants ? --- le tache ;
+Tous les haillons du pauvre, à toute heure, en tout lieu,
+L\'accusent, et, souillés, infects, pendent à Dieu.
+Dieu fait tout. Par-dessus le marché, cette droite
+Terrible, formidable, immense, est maladroite.
+Pour punir un village, il noie un continent.
+Moi, je lui dis son fait, je suis impertinent,
+Je le lorgne, je flâne et ris, je baguenaude,
+Son nez majestueux reçoit ma chiquenaude ;
+Certes, il se fâche ; il dit, furieux et rêvant :
+--- Où diable ai-je fourré ma foudre ? --- Mais avant
+Que ce Géronte ait mis la main sur son tonnerre,
+Moi, tranquille et marchant de mon pas ordinaire,
+Je suis déjà bien loin. Il foudroie à côté.
+De là votre éloquence et de là ma gaîté,
+Bons prédicateurs. ---]{.calibre4}
+
+[
+]{.calibre4}
+
+[ ]{.calibre4}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Certes, à cela que répondre ?
+La foi vient couver l\'oeuf qu\'on a vu l\'erreur pondre ;
+L\'église sur l\'enfant fait peser les aïeux,
+Et met à l\'ignorance un dogme sur les yeux.
+Le prêtre apporte à l\'homme une carte routière
+Du ciel profond, avec péage à la frontière.
+Fouille-toi, mort. On paie au pont du paradis.
+Si tu n\'as pas le sou, reste avec les maudits.
+Un Dieu méchant qu\'on loue, un Dieu bon qui menace,
+Un Dieu signé Sanchez, Trublet, de Maistre, Ignace,
+Luit dans l\'ombre, entouré de vieillards clignotants,
+Et c\'est fini ; voilà de la nuit pour longtemps.
+O prêtres ! ce Dieu-là, sous son dais à panache,
+Est du monde idiot la suprême ganache ;
+Il a l\'utilité des vieux épouvantails ;
+On le sculpte, aïeul sombre, au cintre des portails ;
+Il écoute, un peu sourd, la cloche sa voisine
+Il fait joindre les mains aux passants, il fascine
+Les bons moutons humains que mènent les bedeaux,
+Et charme les rapins qui, le sac sur le dos
+Et les guêtres aux pieds vont barbouillant des croûtes
+Dans les pays, en juin, quand les arbres des routes
+S\'agitent et se font mille signes de loin,
+Joyeux d\'avoir peigné les charrettes de foin.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V. Invention]{.calibre2}]{.bold1}]{.calibre_39} {#v.-invention .calibre_38}
+
+[
+Vous avez inventé le diable. Il est très bête.
+Il empoigne les gens par les pieds, par la tête,
+Part, et croit avoir fait quelque chose de beau
+En portant Jésus-Christ au mont Tibidabo
+Il dit : Je t\'offre ça, la terre. Sois docile. ---
+Il ne s\'est même pas aperçu, l\'imbécile,
+Que celui qu\'il a pris par les cheveux, c\'est Dieu ;
+Et que Jésus, qui cache étrangement son jeu,
+Pourrait lui dire : Affreux Jocrisse, pitre immonde,
+Tu me donnes la terre à moi qui tiens le monde !
+Peu de religions, rêvant sur Anankè,
+Savent faire un titan, et le diable est manqué.
+Il est, à n\'en parler ici que comme artiste,
+Plat et vulgaire ; il fait enrager Jean-Baptiste
+Et tente saint Antoine avec fort peu d\'esprit.
+C\'est le démon ; tremblez. Non, c\'est le diable ; on rit.
+Trop massif, il se traîne, ou, trop maigre, il s\'efflanque.
+Belphégor ne ferait pas vivre un saltimbanque ;
+Belzébuth promené de foire en foire, aurait
+Moins de succès qu\'un loup pris dans une forêt.
+Quant à moi, si j\'étais montreur de phénomènes,
+Pour faire écarquiller les prunelles humaines,
+J\'aimerais mieux, plutôt que Sadoch, nain bougon,
+Ou Moloch, vieux pantin en forme de dragon,
+Ou Bélial soufflant le feu de sa narine,
+Avoir un bon lapin savant qui tambourine.
+Le gouffre étant donné, toute l\'ombre et l\'horreur
+Amoncelée autour d\'un géant éclaireur,
+On est surpris du peu que votre fable en tire ;
+Vous n\'avez rien trouvé de mieux que le satyre.
+Le paganisme en lui chez vous est revenu.
+Toujours le pied fourchu, toujours le front cornu.
+Toujours la même ampoule au dos du même gnome.
+Aveugle, plus, boiteux, c\'est là tout le binôme.
+Lucifer, Asmodée ; un infirme, un serpent ;
+L\'un ne voit pas Dieu ; l\'autre erre clopin-clopant.
+La maison d\'or, à Rome, a sur ses vieilles briques
+Des fantômes qui font des gambades lubriques,
+Des nains à grosse tête et d\'affreux chèvrepieds ;
+L\'enfer chrétien les a simplement copiés.
+Vous avez baptisé le faune ; et c\'est le diable.
+Le vaste mécontent qui tire sur le câble
+De l\'univers, et veut casser l\'amarre, afin
+Que tout rentre au chaos, et que le séraphin,
+L\'étoile, le ciel, l\'homme, et Dieu lui-même, roulent
+L\'un sur l\'autre à vau-l\'eau pêle-mêle, et s\'écroulent ;
+Le fourbe qui, pensif, sous Jéhovah créant,
+Construit la trahison immense du néant ;
+L\'être noir, l\'effrayante âme démesurée
+Qui fait refluer l\'ombre ainsi qu\'une marée,
+Le parodiste amer et terrible qui prend
+L\'homme, et qui fait petit tout ce que Dieu fit grand,
+Ce monstre, ce méchant d\'une si fière taille,
+Qu\'il attend le tonnerre et lui livre bataille,
+Qu\'il a pour plaie au front le mal universel,
+Et que tout l\'océan n\'aurait pas trop de sel
+Pour sa raillerie acre et son rire insondable,
+Ce colosse enchaîné sous l\'Etna formidable,
+Se retrouve en vos mains pygmée, avec l\'ennui
+D\'avoir la petitesse et la laideur sur lui ;
+Il était dans l\'Érèbe énorme ; il est au bagne ;
+Et se voit une bosse au lieu d\'une montagne.
+En somme, vous avez fort peu d\'invention.
+Vous refaites le cercle où tournait Ixion.
+La nature a le singe et l\'église a le diable ;
+Vive le singe ! il est plus gai. Dans votre fable,
+Le Capricorne, étoile, astre, tombe si bas
+Qu\'il n\'est plus que le bouc immonde des sabbats ;
+L\'enfer triste est doublé d\'un paradis féroce ;
+Démons, damnés, maudits, sont dans la cuve atroce,
+Leur tourment fait le ciel plus céleste, et le bain
+Qui les cuit, rafraîchit là-haut le chérubin ;
+Mais le démon a beau rôtir, il est fort terne ;
+Et l\'on ne comprend pas que dans cette citerne
+Du flamboiement sans fond, avec un tel grief
+Et tant de haine, Iblis ait si peu de relief.
+La femelle d\'Othryx, la pieuvre dont les pattes
+Sans quitter l\'Ararat s\'accrochaient aux Carpathes,
+Et qui, plongeant sous l\'eau, faisait hausser les mers,
+N\'est plus qu\'une nabote aux petits ongles verts,
+Et le peuple, qu\'au fond votre impuissance blesse,
+Rit devant la titane avortée en diablesse ;
+Linus venant du ciel sur Pégase, au relai,
+Trouve votre sorcière enfourchant son balai ; :
+La diablerie au moine apparaît, et pullule,
+Espèce de vermine, au mur de la cellule ;
+Mais ces monstres sont vils, ces nains sont plus blafards
+Que le lourd sphinx sortant la nuit des nénuphars
+Et que l\'impur crapaud caché sous les broussailles ;
+Et l\'on dirait que ceux qui firent ces grisailles
+Et tous ces à-peu-près et tous ces camaïeux,
+N\'ont ébauche Satan que pour créer Mayeux.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VI. Les mains levées au ciel]{.calibre2}]{.bold1}]{.calibre_39} {#vi.-les-mains-levées-au-ciel .calibre_38}
+
+[
+Ciel, laisse-moi tout dire ! O ciel, source des êtres,
+Tu vois mon âme ; il faut que je parle à ces prêtres.]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VII. Chef-d'oeuvre]{.calibre2}]{.bold1}]{.calibre_39} {#vii.-chef-doeuvre .calibre_38}
+
+[
+Vous prêtez au bon Dieu ce raisonnement-ci :
+--- J\'ai, jadis, dans un lieu charmant et bien choisi
+Mis la première femme avec le premier homme ;
+Ils ont mangé, malgré ma défense, une pomme ;
+C\'est pourquoi je punis les hommes à jamais.
+Je les fais malheureux sur terre, et leur promets
+En enfer, où Satan dans la braise se vautre,
+Un châtiment sans fin pour la faute d\'un autre.
+Leur âme tombe en flamme et leur corps en charbon.
+Rien de plus juste. Mais, comme je suis très bon,
+Cela m\'afflige. Hélas ! comment faire ? Une idée !
+Je vais leur envoyer mon fils dans la Judée ;
+Ils le tueront. Alors, --- c\'est pourquoi j\'y consens, ---
+Ayant commis un crime, ils seront innocents.
+Leur voyant ainsi faire une faute complète,
+Je leur pardonnerai celle qu\'ils n\'ont pas faite ;
+Ils étaient vertueux, je les rends criminels ;
+Donc je puis leur rouvrir mes vieux bras paternels,
+Et de cette façon cette race est sauvée,
+Leur innocence étant par un forfait lavée. ---]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[VIII. Suites]{.calibre2}]{.bold1}]{.calibre_39} {#viii.-suites .calibre_38}
+
+[
+L\'homme étant la souris dont le diable est le chat,
+On appelle ceci Rédemption, Rachat,
+Salut du monde ; et, Christ est mort, donc l\'homme est libre ;
+Et tout est désormais fondé sur l\'équilibre
+D\'un vol de pomme avec l\'assassinat de Dieu ;
+Soit. Mais ne rions plus quand Thor, à coups d\'épieu,
+Cherche à tuer Matchi, le grand tigre invisible ;
+Ni quand l\'archer Zuvoch prend l\'astre Aleph pour cible ;
+Ne raillons plus Horus qui trompe Hermès l\'expert ;
+Ni Sog qui joue aux dés la lune et qui la perd ;
+Ni la tortue ayant sur son écaille ronde
+Huit grands éléphants blancs qui soutiennent le monde ;
+Ne raillons plus ces dieux étranges de Délos,
+Ailés, palmés, sachant les noms de tous les flots,
+Dont la nuit on voyait confusément les trônes
+Luire aux pâles sommets des monts Acrocéraunes ;
+Et cessons de hausser les épaules devant
+Les Hottentots prenant dans leurs poings noirs le vent,
+Devant les Grecs faisant, dans un luncheon nocturne,
+Manger ses petits-fils au grand-père Saturne ;
+Et ne bafouons plus le nègre et son tabou,
+Ni ce temple meublé d\'idoles en bambou
+Où les sauvages vont avec les sauvagesses.
+O religions, dieux, certitudes, sagesses !]{.calibre4}
+
+
+[[
+]{.calibre_7}]{.bold}
+
+### [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IX. Questions]{.calibre2}]{.bold1}]{.calibre_39} {#ix.-questions .calibre_38}
+
+[
+Qui que tu sois, qui vas devant toi, méditant
+Des perquisitions dans ce ciel éclatant
+Que l\'homme de ses dieux au hasard ensemence,
+Toi qui rêves, tu n\'as de sûr que ta démence,
+Toi qui montes, tu n\'as de grand que ton orgueil.
+D\'abord, chercheur, qu\'es-tu ? Sur ce flamboyant seuil,
+C\'est là ce qu\'il faut voir avant toute autre chose.
+T\'appelles-tu Pamphile, Euthyme, Eusèbe, Orose,
+N\'es-tu qu\'un scoliaste, un clerc, un professeur,
+D\'un palimpseste obscur feuilletant l\'épaisseur,
+Citant Pierre, Thomas ou Paul, sois blême et triste,
+Et ne demande rien au ciel, ô casuiste ;
+Fais en dehors de lui ton Dieu. Sois le rhéteur,
+Et n\'escalade pas l\'inutile hauteur.
+Si tu n\'es que Lactance, homme, il doit te suffire
+D\'abattre Hiéroclès et d\'écraser Porphyre ;
+Si tu n\'es qu\'un docteur d\'un culte officiel,
+Tu n\'as rien à tirer du mystère et du ciel
+Qui ne tourne au profit d\'une thèse arbitraire,
+Et tu ne pourras point, frêle esprit, en extraire
+De meilleures raisons que celles que donna
+Irénée à Blastus ou Justin à Zena.
+C\'est bien. Adore un texte, apprends, répète, imite,
+Et fais-toi d\'une lettre écrite ta limite.
+Le ciel, ce précipice où tu plongerais mal,
+N\'enseigne rien à ceux que lie un joug fatal
+Et qui ne veulent pas que le vrai les délivre.
+Reste dans une ornière et rampe dans un livre.
+Mais es-tu d\'aventure un penseur libre, errant
+Du côté de la nuit qui semble transparent,
+N\'ayant pas pris d\'avance un parti sur l\'abîme,
+N\'imposant aucun dogme à la brume sublime,
+Ne poursuivant dans l\'air, dans l\'onde et dans le feu
+Aucune forme humaine ou terrestre de Dieu ;
+Es-tu l\'homme qui cherche et l\'esprit qui s\'envole ?
+Alors il te faut mieux qu\'un maître, qu\'une école,
+Et qu\'un missel, fardeau du lutrin vermoulu.
+Il te faut le concret et l\'abstrait, l\'absolu,
+L\'infini sans cadrans, sans horloges, sans montres,
+Sans compas, sans boussole, et les grandes rencontres
+De la nuit où l\'on sent passer les inconnus ;
+Il te faut les vents noirs, des profondeurs venus,
+Qui dispersent dans l\'ombre on ne sait quels messages.
+Mais n\'attends pas du gouffre où s\'effacent les âges,
+N\'attends pas du grand tout, farouche, illimité,
+Où flotte l\'invisible, où, dans l\'obscurité,
+L\'aile des tourbillons heurte l\'aile des aigles,
+Une explication de Dieu selon les règles,
+Ni que, pour contenter ton pauvre esprit courbé,
+L\'être va te prouver l\'être par A plus B.
+Si tu veux que l\'ensemble étoile te démontre
+Un dogme, en débattant les raisons pour et contre,
+Comme ferait Sanchez commentant Loyola,
+La Nuit ne monte point dans cette chaire-là.
+Ne confonds pas l\'abîme avec un clerc ; distingue
+Entre Oxford et la nuit, entre l\'aube et Goettingue.
+Les théologiens, les universités,
+Les lourds in-folio doctement feuilletés,
+Sont une chose, et l\'ombre immense en est une autre.
+De quelle vérité le gouffre est-il l\'apôtre ?
+Tâche de le savoir ; mais n\'en espère point
+Un cours de faculté suivi de point en point.
+La lumière dévore et le collège broute ;
+L\'enseignement d\'en haut ne suit pas l\'humble route
+Par où passe en boitant l\'enseignement d\'en bas ;
+Le mystère a ses lois, la Sorbonne a ses bâts ;
+La science de l\'Être, âpre, escarpée, ardue,
+Aire idéale où fuit la pensée éperdue,
+L\'algèbre du grand Tout, le problème absolu,
+Noir livre de la nuit où le rêve a seul lu,
+Je ne te cache pas qu\'il se peut qu\'on l\'apprenne
+Dans la profondeur bleue, ineffable et sereine,
+Ou dans la pâle horreur des brouillards infernaux,
+Autrement qu\'à Bologne au collège Albornoz.
+Vois ! c\'est l\'empyrée ; aube, éther, sans bords, sans voiles,
+Avec sa plénitude effroyable d\'étoiles,
+Étalant ses azurs au bleu jamais terni,
+Espèces de cristaux vagues de l\'infini.
+Qu\'est-ce que tu vas faire en ce cosmos sans terme,
+Plus terrible s\'il s\'ouvre encore que s\'il se ferme ?
+Comment ton frêle esprit se comportera-t-il
+Dans ce sombre océan du grand et du subtil ?
+A qui parleras-tu dans ce milieu tragique ?
+Tout ton savoir humain, ta raison, ta logique,
+Ne vont-ils pas se rompre en angles plus confus
+Que les coudes du chêne au fond des bois touffus ?
+Dis, que vont devenir, homme, tes syllogismes
+Quand ils rencontreront l\'énormité des prismes ?
+Pourras-tu supporter l\'immense brisement
+De l\'idéal, du vrai, du jour, du firmament ?
+Savoir fut de tout temps la démence des sages.
+Osiris consultait l\'abîme ; des visages
+Y viennent effarer les prophètes vaincus ;
+Mars inspirait Solon et Pallas Zaleucus ;
+Numa cherchait la nymphe en sa grotte enchantée ;
+Minos questionnait Zeus sur le Dictée ;
+Lycurgue allait à Delphes écouter Apollon.
+Tout cela, c\'est le gouffre ; et l\'obscur aquilon
+Mêle au même brouillard tous ces pâles fantômes.
+Tout cela, c\'est la fuite immense des atomes ;
+C\'est le doute.
+Le doute, hélas ! Sur cette mer,
+Où tous les vents, le chaud, le froid, l\'impur, l\'amer,
+Épuisent les fureurs de leurs rauques poitrines,
+Apparaît l\'archipel ténébreux des doctrines ;
+Sommets qui sont des ports s\'ils ne sont des écueils.
+Là se dressent Vesale entrouvrant des cercueils,
+Socrate lumineux, Zénon dans un jour triste,
+Pyrrhon vague, et si noir qu\'on ne sait s\'il existe,
+Les sept sages, pareils aux Cyclades, couverts
+De nuages, de flots, de brumes et d\'hivers,
+Swift, Rabelais, Montaigne, Herder, Kant en détresse,
+Hegel sombre, et, là-bas, cette cime, Lucrèce.
+Les plus mornes, ce sont les rieurs. Avoir ri,
+Ce n\'est pas contre l\'ombre étoilée un abri ;
+Cela ne construit pas un toit sur notre tête
+Contre l\'Être, sinistre et splendide tempête ;
+Cela n\'empêche pas les monts d\'être debout ;
+Cela ne fait pas taire un Vésuve qui bout,
+Ni les clairons de l\'ombre aux bouches des borées ;
+Cela n\'empêche pas les mers démesurées
+D\'offrir on ne sait quels hommages écumants
+A la pâle planète au fond des firmaments ;
+Rire, cela ne peut déconcerter la rose
+Qui s\'ouvre en juin, ayant pour devoir d\'être éclose ;
+Fermer l\'oeil et crier : Je lie veux pas les voir !
+Cela n\'empêche pas les rayons de pleuvoir.
+Riez. Soit. L\'Inconnu derrière sa muraille
+Ne s\'inquiète pas de Lucien qui raille ;
+Ni les eaux, ni les champs, ni les fleurs, ni les blés,
+Ni les forêts ne sont d\'un sarcasme troublés ;
+L\'invisible cocher des sept astres du pôle
+Ne baisse pas le front, ne tourne pas l\'épaule,
+En poussant au zénith l\'effrayant chariot,
+Pour voir ce que Voltaire écrit à Thiriot.
+Les rieurs sont-ils sûrs de leur rire ? Leur style
+Élide volontiers Dieu, syllabe inutile ;
+Du vieux surplis du prêtre ils chiffonnent l\'empois ;
+Mais que veulent-ils ? Faire aux croyants contrepoids.
+Est-ce tout ? A quoi bon ? Quel choix dans la nuit noire !
+Le hasard de nier ou le hasard de croire !
+Que sert, dans cette énigme où l\'homme est enfoui,
+De balbutier Non parce qu\'on bégaie Oui ?
+Donc, esprit, prends ton vol, si tu te sens des ailes.
+Mais, homme, quel que soit l\'éclair de tes prunelles,
+N\'espère pas, si haut que ton âme ait monté,
+T\'envoler au delà de ton humanité.
+Va ! mais, songes-y bien, nul ne sort de sa sphère.
+L\'Être en qui tout se fond, mais de qui tout diffère,
+A fait les régions pour qu\'on s\'y renfermât ;
+Et l\'oiseau le plus libre a pour cage un climat]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II. Philosophie]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3254 .calibre_57}
+
+::: calibre_19
+
+
+[!{.calibre3}]{.calibre_3}
+
+[
+Homme, qu\'est-ce que c\'est que tes cérémonies
+Misérables, devant les choses infinies ?
+A quoi bon tes poeans, tes chants, tes hosannas ?
+Pourquoi, n\'ayant pas plus de jours que tu n\'en as,
+Prier au pied d\'un tas d\'autels contradictoires ?
+Quelle manie, atome en proie aux purgatoires,
+As-tu d\'interpeller les cieux ? et quel besoin
+De prendre l\'invisible et l\'obscur à témoin ?
+Crois-tu féconder l\'Ombre en y semant des rites,
+Des formules de nuit sur du brouillard transcrites ?
+T\'imagines-tu donc, être aux songes bornés,
+Que, lorsqu\'avec tes yeux, tes oreilles, ton nez,
+Tu bâtis un fétiche ayant ta ressemblance,
+En t\'adressant au vide insondable, au silence,
+Au mystère, à l\'horreur, tu les amèneras
+A lui faire des pieds quand tu lui fais des bras ?
+Te figures-tu pas que le gouffre, où Socrate,
+Les druides d\'Armor, les mages de l\'Euphrate,
+Jean de Patmos, et Dante, et Thalès ont frémi,
+Entrera pour sa part, et de compte à demi,
+Dans la formation de quelque être inutile
+Que la réalité de toutes parts mutile ?
+Quiconque, apôtre, augure, ou barde au large front,
+Forge un Dieu de son mieux et l\'offre au ciel profond,
+N\'aperçoit que la brume et la noirceur confuse
+Du firmament sinistre et calme, qui refuse ;
+L\'homme a beau présenter un Dieu, prémédité
+Dans son aveuglement et dans sa surdité,
+Que ce Dieu soit indou, païen, grec ou biblique,
+L\'ombre ne donne pas à l\'homme la réplique ;
+Sans écho, sans qu\'un signe ait paru dans l\'éther,
+L\'Être a vu par Orphée enfanter Jupiter,
+Allah par Mahomet, Jéhovah par Moïse ;
+La négation triste est dans le vide assise ;
+Le prêtre par l\'abîme est toujours éconduit ;
+L\'immobilité grave et morne de la nuit
+Suffit au Tout lugubre, et le gouffre n\'invente
+Aucune idole, ayant l\'éternelle épouvante.
+Ah ! tu montes vers l\'ombre avec un Dieu tout fait.
+Que Dieu soit. Ton néant de grandeur le revêt ;
+Ta nuit lui pose au front l\'aurore éblouissante ;
+Puis au-dessous de lui tu mets une descente
+D\'anges, d\'êtres ayant l\'azur pour point d\'appui,
+Décroissant jusqu\'à toi, puis croissant jusqu\'à lui.
+Il te faut ta série allant du ciel à terre ;
+Tu veux d\'un seul regard embrasser le mystère ;
+Voir le point d\'arrivée et le point de départ ;
+Tu veux dire : voici la moitié, puis le quart ;
+Compter les échelons ; tu rêves ce quadrille :
+Dieu, puis l\'archange, et l\'homme en regard du mandrille ;
+Eh bien, non. Tout n\'est qu\'Un. Sache, ô sombre écolier,
+Qu\'on ne monte pas Dieu comme ton escalier ;
+Il est dans une ruche aussi bien que dans Rome ;
+Le ver n\'est pas plus loin de l\'infini que l\'homme.
+Nous autres les songeurs que dévorent la faim
+Et la soif de connaître, et qui, sans peur, sans fin,
+Creusons l\'éternité formidable et candide,
+Du côté noir, ainsi que du côté splendide
+Où l\'on voit tant de vie et de flamme abonder,
+Nous avons beau guetter, contempler, regarder,
+Observer, épier, jamais nous n\'aperçûmes
+Pas plus ce que tu crois que ce que tu présumes.
+Connaître à fond Celui qui Vit, ses attributs,
+Son essence, sa loi, son pouvoir, --- de tels buts
+Sont plus hauts que l\'effort de l\'homme qui trépasse.
+Les invisibles sont. Ils emplissent l\'espace,
+Ils --- peuplent la lumière, ils parlent dans les bruits ;
+Mais ne ressemblent point à ce que tu construis.
+Renonce à fatiguer le réel de tes songes ;
+L\'Ombre, en bas comme en haut, repousse tes mensonges ;
+Le tonnerre n\'est pas l\'ami ni l\'ennemi
+De ton Dieu que ne hait ni n\'aime la fourmi ;
+Quand ta dévotion dresse un temple et s\'y mute,
+L\'ouragan en ricane et l\'abeille en murmure\' ;
+Tu n\'es pas moins raillé du nain que du géant ;
+Tes dragons sont d\'airain, tes dieux sont de néant ;
+Tu peux les ciseler, mais non. les faire vivre ;
+L\'oiseau craint le serpent et perche sur ta guivre ;
+Sculpte tes déités ! dans leurs yeux de granit
+Le vautour fait sa fiente et le crapaud son nid !
+Toi-même tu rirais, si tu pouvais connaître
+A quel point tu ne peux, homme, rien faire naître,
+Rien construire en dehors des formes que tu vois ;
+A quel point tous tes arts, travaillant à la fois,
+Tes peintres, tes sculpteurs, sont nuls pour rien produire
+Hors du cercle où tu vois un jour pâle te luire ;
+Jusqu\'où sont puérils tes rêves délirants ;
+Quelle est, pour inventer, l\'enfance des plus grands ;
+Combien est infécond Rembrandt, et dans quel lange
+Sont encore Phidias, Rubens et Michel-Ange !
+La nature, l\'aïeule aux mille sombres voix
+Rugissantes parmi les antres et les bois,
+La nourrice des loups, des ours et des panthères,
+A des dessous profonds peuplés de noirs mystères
+Qui te feraient pâlir si tu les pénétrais,
+Et, dans l\'énormité des eaux et des forêts,
+Riche en monstres, n\'a pas besoin de tes chimères.
+Crois-tu pas qu\'épousant tes songes éphémères,
+Elle accepte ton hydre ou ta licorne, ayant
+Son tigre, son lion au regard flamboyant,
+Et son hippopotame horrible, et qu\'elle abdique
+Son grand aigle des monts pour ton aigle héraldique ?
+Ah ! pauvre homme inutile et fou sous le ciel bleu,
+Tu ne peux faire un monstre et tu veux faire un Dieu !]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Et puis quand tu l\'auras, fort bien, que tu lui fasses
+Deux sexes comme à Fô, comme à Janus deux faces,
+Que tu l\'ornes d\'un tas de titres et de noms,
+Le voilà sur ses pieds, c\'est Dieu, nous le tenons,
+Où le mettre ? En quel gouffre, homme ? ou dans quelle sphère ?
+Perceras-tu, toi l\'homme, un trou dans la lumière
+Pour y loger ce Dieu que ton esprit forma
+D\'un peu de Jupiter et d\'un peu de Brahma ?
+Ce Zeus, cet Allah, ce Pan, que tu fabriques
+Avec tes passions féroces et lubriques,
+Comment le mettras-tu dans les astres ? Quel clou
+Prendras-tu pour clouer au fond des cieux Vishnou ?
+Fusses-tu secondé d\'Alcée et de Terpandre,
+Dis, comment feras-tu pour fixer, pour suspendre,
+Et pour faire tenir Erigone aux seins nus,
+Érynnis, Astarté, Bellone, la Vénus,
+Ces buveuses de sang et ces prostituées,
+Dans la façade énorme et pâle des nuées ?]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Ah ! noir vivant, tu veux un Dieu ! Qu\'en feras-tu ?
+Auras-tu moins d\'orgueil, homme, et plus de vertu ?
+Embrasseras-tu l\'homme ? aimeras-tu ton frère ?
+Deviendras-tu flambeau ? briseras-tu la guerre,
+Ce vieux glaive éternel d\'où dégoutte le sang ?
+Dis, jetteras-tu moins de pierres en passant
+Aux penseurs, aux héros, aux martyrs, aux apôtres ?
+Laisseras-tu, devant l\'affliction des autres,
+Entrer la pitié blanche et douce dans ton coeur ?
+Seras-tu plus pensif, plus grave et moins moqueur,
+Surtout pour les déchus et pour les incurables ?
+Seras-tu moins hautain devant les misérables,
+Plus doux pour l\'insensé qu\'entraînent ses penchants,
+Moins grand pour les petits et meilleur aux méchants ?
+Réponds, mêleras-tu, dis, un peu de tendresse,
+O juste, à ta justice, ô sage, à ta sagesse ?
+Feras-tu grâce au monstre en pleurs, et seras-tu
+Un Abel moins altier pour Caïn abattu ?
+Et, si tu n\'es qu\'un monstre et qu\'un Caïn toi-même,
+Viendras-tu t\'effarer à la lueur suprême,
+Et te prosterner, pâle, heureux, épouvanté,
+Sous la prodigieuse et clémente clarté ?
+Un Dieu tient de la place, homme, dans une sphère.
+Avant d\'en vouloir un, il faut savoir qu\'en faire.
+Un Dieu, quand ce n\'est pas un port, c\'est un péril.
+Ah ! la plupart du temps, sénile et puéril,
+Importunant les cieux, livide solitude,
+Tu veux un Dieu, de peur d\'en perdre l\'habitude,
+Parce que du passé tu subis l\'ascendant,
+Tu veux un Dieu, pour rien, pour faire, en attendant
+Que ton cadavre tombe au sépulcre et pourrisse,
+Ce que ton père a fait, ce qu\'a fait ta nourrice,
+Par ennui, pour sentir sur ta tête un patron,
+Pour avoir quelque chose à mettre en ton juron.]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Enfin te rends-tu compte un peu du vaste rêve
+Où ton destin commence, où ton destin s\'achève,
+Qu\'on nomme l\'univers, et qui flotte infini ?
+En vois-tu le côté fatal, blessé, puni ?
+Le lait coule, et le sang aussi ; l\'esprit s\'effraie.
+Sous la grande mamelle on voit la grande plaie.
+Lucine pleure ayant devant elle Atropos.
+Hélas ! hélas ! s\'il est quelqu\'un qui, sans repos,
+Crée, engendre et produit, homme, il est quelque chose
+Qui sans trêve détruit, dévore et décompose.
+Ce fileur ne fait rien que pour ce déchireur.
+Les êtres sont épars dans l\'indicible horreur.
+L\'ombre en étouffe plus que le jour n\'en anime.
+La lumière s\'épuise à traverser l\'abîme ;
+Les rayons dans l\'éther s\'enfoncent éperdus ;
+L\'obscurité, vers qui tous les bras sont tendus,
+Livide, est toujours là qui fait la nuit, et creuse
+Ce trou pour engloutir la clarté généreuse ;
+Quoi que fasse l\'étoile et l\'aube à l\'horizon,
+Tout n\'est qu\'une malsaine et nocturne prison ;
+Malgré le vaste effort de l\'aurore, tout souffre ;
+Quelle épaisseur de nuit ne faut-il pas au gouffre
+Pour amortir la flèche énorme du soleil ?
+Eh bien, vois ! Mars est noir ; Saturne est-il vermeil ?
+Les azurs sont brumeux, les planètes sont pâles.
+Quant à ton globe à toi, des pleurs, des cris, des râles.
+Ta sphère a-t-elle un Dieu ? S\'il existe, il dément
+Sans cesse la beauté, l\'astre, le firmament ;
+Que ce Dieu donne un chant aux oiseaux, qu\'il revête
+Le rossignol de joie et d\'amour la fauvette,
+Qu\'importe s\'il les fait guetter par l\'épervier !
+Soi-même s\'abhorrer, soi-même s\'envier,
+Telle est l\'obscure loi de l\'être lamentable.
+Ton affreux ciel mugit comme un boeuf dans l\'étable ;
+Quant au genre humain, vois !
+Esclaves et bourreaux,
+Vil tas de cendre ayant pour tisons les héros,
+Paille éteinte d\'un souffle et d\'un souffle allumée,
+Foule qu\'on voit passer et dans de la fumée
+Fuir après qu\'on l\'a vue un instant se mouvoir !
+A peine en reste-t-il quelque chose de noir.
+Ses chefs n\'ont pas de but, ses dieux n\'ont pas de norme ;
+Rien que pour les nommer, son histoire est difforme ;
+Les canons remplaçant les chars armés de faux,
+Des trônes, des bûchers, d\'affreux arcs triomphaux,
+Des profils de césars équestres sous des porches,
+De toutes ces lueurs l\'homme faisant des torches,
+Un reflux d\'ombre après un flux de liberté,
+De la haine et du bruit, voilà l\'humanité.
+La vie est de la nuit, la mort seule est lucide ;
+La science aboutit à l\'âme suicide ;
+Tout ment ; et les esprits se blessent aux scalpels.
+Les sens à la raison font d\'obscènes appels ;
+Sur la chair croît le vice, infâme parasite ;
+Le mal tente l\'esprit, l\'esprit tremblant hésite.
+La conscience est là pour régler ces débats ?
+Soit. Mais a-t-elle peur ? pourquoi parler si bas ?
+Vois ton indignité, dont tu fais ta victoire.
+Est-il, bien que le ciel ait aussi sa nuit noire,
+Un coin du firmament, d\'ombre ou d\'azur baigné,
+Qui ne jette sur l\'homme un regard indigné ?
+Est-il une vertu que l\'homme dans ses doutes
+N\'ait flétrie ou niée ? Interroge-les toutes.
+Demande au dévouement, au courage, à l\'amour,
+Ce qu\'ils pensent de l\'homme, âpre et vil tour à tour.
+La justice en a peur quand elle voit sa toge.
+Questionne sur lui la sagesse ; interroge
+La faiseuse d\'ingrats, la mère au sein mordu,
+La bonté. Le devoir est un flambeau perdu.
+Qui grandit soudain penche, et qui naît périclite.
+O vivants, Démocrite aussi bien qu\'Héraclite,
+Rabelais comme Job, Timon comme Pangloss,
+Tout s\'écroule en chimère ou se fond en sanglots.
+Là, des pâles tombeaux, ici, des déserts mornes
+Où rôdent le bubale et la vipère à cornes,
+Où le soleil emplit de venin les buissons,
+Où la lumière sert à faire des poisons.
+Le soir, comme un mourant les horizons blêmissent ;
+Ce globe, couvert d\'eaux et d\'arbres qui frémissent,
+Entrecoupe on ne sait quels cris et quels abois
+Dans un balancement de vagues et de bois.
+Tout menace et tout tremble ; et la mer accoutume
+La terre misérable à l\'immense amertume.
+Homme, ton univers a l\'air d\'être inquiet.
+Devant qui ? Tout s\'enfuit. Le jour craint, la nuit hait.
+L\'être est un bloc confus de masques et de bouches
+Mêlés lugubrement dans des effrois farouches ;
+Comme deux oiseaux noirs sans fin se poursuivant
+L\'éclair étreint la nuit dans la fuite du vent,
+Et la nature entrouve au fond de ces alarmes
+Son oeil mystérieux, noyé de sombres larmes.
+L\'être est morne, odieux à sonder, triste à voir.
+De là les battements d\'ailes du désespoir.]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Tu dis : --- Je vois le mal, et je veux le remède.
+Je cherche le levier, et je suis Archimède. ---
+Le remède est ceci : Fais le bien. Le levier,
+Le voici : Tout aimer et ne rien envier.
+Homme, veux-tu trouver le vrai ? cherche le juste.]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Mais quant au dogme, neuf et jeune, ou vieux et fruste,
+Quant aux saints fabliaux, quant aux religions
+Inoculant l\'erreur dans leurs contagions,
+Semant les fictions, les terreurs, les présages,
+Quant à tous ces docteurs, à ces essaims de sages
+Qui vont l\'un maudissant ce que l\'autre a béni,
+Qui, volant, bourdonnant, harcelant l\'infini,
+Feraient abriter Dieu sous une moustiquaire,
+Quant au daïri roi, quant au pape vicaire,
+Quant à tous ces Corans que chaque âge inventa,
+Edda, Veda, Talmud, King ou Zend-Avesta,
+Ce n\'est qu\'une confuse et perverse mêlée ;
+En les étudiant, ô pauvre âme aveuglée,
+Tu n\'apprendras pas plus le réel qu\'en cherchant
+A composer, avec des insultes, un chant !
+Et qu\'importe, après tout, que l\'homme prie ou croie ;
+Qu\'avec son propre songe, inepte, il se foudroie ;
+Qu\'il adore le Tout informe, ou l\'esprit pur,
+Une statue en bronze ou bien un pan d\'azur ;
+Que l\'homme au ciel s\'égare ou qu\'il se fanatise
+Avec la fauve odeur des bûchers qu\'il attise ;
+Que sa religion ait des pieds et des mains
+Et des sens, et se livre aux appétits humains,
+Ou soit vapeur, fumée, ombre ; que dans l\'église
+Son Dieu se pétrifie ou se volatilise ;
+Que l\'homme, impur, s\'aveugle à suivre n\'importe où
+Tantôt l\'abstraction, tantôt le manitou ;
+Que ce soit la chandelle ou l\'astre qu\'il contemple ;
+Qu\'il adore une idée ou qu\'il adore un temple ;
+Que, croyant voir des dieux, au fond des bois épais,
+Il nomme Argès l\'éclair, la foudre Stéropès ;
+Que, l\'un couché dans l\'or, l\'autre nu sur des nattes,
+Le nègre ait ses tabous et César ses pénates ;
+Que le flamme encense en chlamyde de lin
+Le morne Olympien, le noir Capitolin ;
+Qu\'on ait un Dieu hantant l\'alcôve impériale,
+Un pour le sénateur, un pour le curiale ;
+Que les dieux soient divers et mesurés aux rangs,
+Pour l\'esclave petits et pour le maître grands ;
+Qu\'en l\'honneur d\'un Indra quelconque, le brahmine
+Se laisse dévorer vivant par la vermine ;
+Qu\'on se damne en carême â manger du jambon ;
+Que pour faire un saint Pierre un Jupiter soit bon,
+Et que la foule, au fond des hautes basiliques,
+Use un orteil païen de baisers catholiques,
+Si bien qu\'un vieux Très-Haut ressert et se revend,
+Et qu\'avec un dieu mort on bâcle un saint vivant ;
+Qu\'ainsi qu\'un terre-neuve attaque un bouledogue,
+La mosquée en fureur morde la synagogue ;
+Que Rome ait en dédain Moscou ; que Borgia
+Soit pour la Vierge et non pour la Panagia ;
+Que les frontons sacrés changent d\'hiéroglyphe ;
+Que le blanc d\'Hildebrand soit le noir de Caïphe ;
+Que l\'homme à Mahomet donne un dôme écrasé,
+A Notre-Dame un choeur fait en bois menuisé,
+Au grand éléphant blanc un éventail de plumes ;
+Qu\'il ait ses dieux brochés en plusieurs gros volumes ;
+Qu\'il discute si c\'est le Pinde, âpre coteau,
+Qui vit l\'hydre déesse, Amphitrite Céto,
+Sortir de la mer bleue et triste, ou si l\'Élide
+La première aperçut l\'effroyable annélide ;
+Qu\'il donne Thèbes aux sphinx et Tyr aux belzébuths ;
+Qu\'il appelle le jour Adonis ou Phébus ;
+Qu\'il écoute de Pan les invisibles flûtes ;
+Qu\'il bâtisse un cromlech avec des pierres brutes,
+Ou fasse à Phidias sculpter le Parthénon ;
+Qu\'il juche Dieu sur l\'aigle ou bien sur un ânon ;
+Qu\'il serve le Baal avec la Baaltide ;
+Qu\'il soit évêque, et propre, ou derviche, et fétide,
+Vil caloyer barbu, beau diacre tonsuré,
+Très révérend ministre, ou monsieur le curé ;
+Que la sottise autour du mensonge se groupe ;
+Que le meilleur orfèvre, avec sa bonne loupe,
+Ne puisse distinguer les dieux vrais des dieux faux ;
+Que le rêve ait Endor, que la chair ait Paphos ;
+Qu\'avant de croire en Dieu, le genre humain le crée ;
+Que sous la pression de la crainte sacrée,
+Que, sous la pesanteur des vagues régions,
+Les superstitions et les religions
+Sortent de son esprit comme l\'eau des éponges ;
+Que, sans savoir pourquoi, dans un noir tas de songes,
+Il choisisse tel dogme ou tel autre ; qu\'en bloc,
+Acceptant Irmensul, il rejette Moloch ;
+Qu\'il adopte une idole infâme et s\'en entiche,
+Faisant le délicat pour quelque autre fétiche ;
+Que, sur Dieu, pour savoir s\'il est de bonne humeur,
+Il consulte le vent ou le flot en rumeur,
+Ou la flamme, ou l\'oiseau planant dans des tempêtes ;
+Qu\'il nourrisse ce Dieu de la viande des bêtes,
+De gâteaux sans levain ou de pain trois fois cuit,
+Qu\'est-ce que cela fait, homme, au puits de la nuit ?
+Qu\'est-ce que cela fait au précipice énorme,
+Où la vie en de l\'ombre et du vent se transforme,
+Où le songeur hagard n\'aperçoit vaguement
+Qu\'un incommensurable et sombre écroulement,
+Où le jour, blêmissant dans les vides sans bornes,
+Meurt dans l\'aveuglement des immensités mornes !
+Invente, si tu veux, toi, ta doctrine aussi,
+Et quand tu l\'auras faite et construite, crois-y ;
+Combine, tu le peux, d\'autres idolâtries.
+Après ces tourbillons de croyances flétries,
+Après ces larves, Bel, Ammon, Janus, Rhéa,
+Osiris, Odin, Thor, que la guerre créa,
+Ces enfers, ces édens, ces cieux, ces rêveries,
+Et les houris donnant la main aux walkyries,
+Homme, après le dieu boeuf, après le dieu dragon,
+Après Chronos, après Magog, après Dagon,
+Apportés, remportés par les nuits grandissantes,
+Qu\'importe à l\'infini livide que tu sentes
+Une religion de plus, flottant au bord
+De tout ce que tu fais dans la brume du sort,
+Promener sur ton front son souffle de fantôme,
+Et, dans l\'ombre sans forme, où tu rêves un dôme,
+Dans le ciel, plus menteur et plus noir que la mer,
+Un Dieu de plus passer sur le poil de ta chair !]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Toute religion, homme, est un exemplaire
+De l\'impuissance ayant pour appui la colère.
+Toute religion est un avortement
+Du rêve humain devant l\'être et le firmament ;
+Le dogme, quel qu\'il soit, juif ou grec, rapetisse
+A sa taille le vrai, l\'idéal, la justice,
+La lumière, l\'azur, l\'abîme, l\'unité ;
+Il coupe l\'absolu sur sa brièveté ;
+Tous les cultes ne sont, à Memphis comme à Rome,
+Que des réductions de l\'éternel sur l\'homme,
+Fragments d\'indivisible, ombres de la clarté,
+Masques de l\'infini pris sur l\'humanité.
+Leur tonnerre est un bras qui lance un dard de soufre ;
+Leur cercle n\'admet pas l\'immensité ; leur gouffre
+Est comblé d\'un Odin ou d\'un Adonaï.
+Eh bien, penseurs, niez Olympe et Sinaï ;
+Au lieu de ce vain ciel qui sur un mont s\'appuie,
+Et d\'Éole trouant les outres de la pluie,
+Et des quatre chevaux d\'Apollon hennissant
+De joie et de fureur vers la nuit qui descend ;
+Au lieu de ces palais de nuage et de flammes
+Où flottent, transparents, des dieux hommes et femmes,
+Où, les foudres au poing, rôdent tous ces fléaux
+Que l\'homme appelle Allah, Sabaoth, Fô, Théos ;
+Au lieu de l\'éléphant pontifical qui groupe
+sur sa tête les cieux et l\'enfer sur sa croupe ;
+Au lieu de cette mer du désert ténébreux
+Qui laisse fuir Moïse et passer les Hébreux
+Entre ses flots ainsi qu\'entre deux murs de verre ;
+Au lieu de cette lune étrange du Calvaire,
+Toute rouge du sang que Jésus a sué ;
+Au lieu du faux soleil qu\'arrête Josué,
+Et de l\'eau sur laquelle un Christ étoile marche,
+Montrez aux bonzes noirs, gardant le temple et l\'arche,
+Quoi ? la Réalité, ce prodige inouï,
+La lumière, ce vaste aspect épanoui,
+La mort créant la vie, et transformant la tombe
+En crèche où fait son nid l\'âme, cette colombe,
+Le miracle des gaz, des forces, des aimants,
+L\'infini ténébreux, plein d\'éblouissements,
+L\'ombre ayant des soleils plus que la mer n\'a d\'ondes,
+La confrontation formidable des mondes,
+L\'étoile, astre central, et la terre tournant,
+L\'homme, atome perdu dans ce tout rayonnant,
+Les comètes, les feux, les souffles, les bolides,
+Les sphères tourbillons et les globes solides,
+Les univers sans fin, splendides visions,
+Et les créations et les créations ;
+Montrez les profondeurs saintes ; montrez aux prêtres
+Les abîmes de vie et les océans d\'êtres,
+Vous les verrez crier : Cela n\'est pas ! horreur !
+Vous verrez se ruer les cultes eh fureur,
+Païens, sur Hicétas, chrétiens, sur Galilée,
+Et l\'autel tressaillir sur la terre ébranlée,
+Et les pâles docteurs frémir dans le saint lieu,
+Et les religions reculer devant Dieu.]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Fanatismes ! terreurs ! la fable est sur les hommes !
+Sur tous ces yeux fermés faisant de sombres sommes !
+Quel rêve ! quel monceau d\'olympes insensés !
+Que d\'effroi ! que d\'enfer !
+Assez, prêtres ! assez !
+La bacchante au flanc nu rit dans le bois infâme ;
+L\'Indou qui saigne et pend aux crocs de fer, se pâme ;
+La mère, avec la chair de son enfant, nourrit
+Le dieu-fournaise aux dents de feu, Baal-Bérith ;
+Ici, temple à la Nuit ; là, temple à la Famine ;
+Le cheval de Piman de la Mecque chemine
+Sur des hommes couchés à terre, qui lui font
+Un fumier de leur âme, un pavé de leur front ;
+La Chine donne aux moeurs, aux arts, aux lois, aux codes
+La forme monstrueuse et folle des pagodes.
+Que d\'hommes ont vécu sans jamais être nés !
+Et ceux-ci, ces croyants épris et forcenés
+Sur qui le sphinx romain pose ses larges griffes,
+Que d\'affreux hommes dieux, qu\'ils appellent pontifes,
+Courbent sous leur vil sceptre, infaillible, accepté,
+Insolent pour l\'azur et pour l\'éternité,
+Oh ! les infortunés ! est-il rien de plus triste
+Que leur sinistre foi dans la Rome papiste !
+Rome, charnier sous l\'aigle, est, sous la croix, bazar.
+Quel est le plus hideux de Pierre ou de César ?
+Rome a l\'un après l\'autre. Épouvantable liste !
+Ce vampire c\'est Jean, ce spectre c\'est Caliste ;
+Boniface a des fils de ses nièces ; Urbain
+Fait saigner et mourir cinq prêtres dans leur bain ;
+Borgia dans Gomorrhe y serait une tache ;
+Grégoire tient la torche et Sixte tient la hache ;
+Félix est un désastre et Simplicius ment ;
+Cet Innocent brûlait les hommes, ce Clément
+Les massacrait, ce Pie est un vendeur du temple ;
+Jule est l\'épouvantail comme Christ est l\'exemple ;
+Toutes les passions se tenant par la main,
+Toute la turpitude et tout l\'orgueil humain
+Se donnent rendez-vous dans la ville éternelle ;
+Tout vient là, dol, parjure, impureté charnelle,
+Tous les forfaits connus et tous les inconnus,
+Tous les crimes masqués et tous les vices nus ;
+Rome appelle à son lit tous ces passants infâmes ;
+Rome, l\'entremetteuse et la marchande d\'âmes,
+Rit, et se prostitue, une tiare au front ;
+Et, tandis que Brutus tressaille de l\'affront
+Et que Trajan frémit sur sa haute colonne,
+Eux, ces fous, se livrant à cette Babylone,
+Chantent, et, croyant voir la céleste Sion,
+D\'elle ils adorent tout, fraude, inquisition,
+La luxure, l\'horreur, le bûcher, le massacre,
+Et les saints qu\'elle fait et les rois qu\'elle sacre,
+Et, l\'extase au coeur, fiers du joug, captifs, amants,
+Ils respirent l\'odeur de ses vomissements !
+Et dire que la terre est tout entière en proie
+Aux affirmations de ces prêtres sans joie,
+Sans pitié, sans bonté, sans flambeau, sans raison,
+Dont l\'ombre, l\'ombre, l\'ombre et l\'ombre est l\'horizon !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III. Rien]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3256 .calibre_57}
+
+::: calibre_19
+
+
+[
+Mais quelqu\'un me vient-il en aide, ô nuit farouche ?
+J\'écoutais, j\'entendis. Ombre obscure ! Une bouche
+Parlait, et dégageait de la brume en parlant.
+--- « La croyance est une hydre et vous ronge le flanc.
+Niez tout. O vivants, l\'atome sort, puis rentre.
+Pas de ciel, pas d\'enfer. L\'ombre éparse. Aucun centre.
+Rien n\'existe en deçà, rien n\'existe au delà.
+Tout meurt. Dormez. »
+Ainsi l\'étrange voix parla.
+O nuit ! qu\'est-ce que c\'est que cet auxiliaire ?
+Mais écoutons. La voix poursuit.
+« O fourmilière,
+O foule, ô genre humain ! L\'homme flotte, et c\'est tout.
+Cette apparence d\'être est un moment debout ;
+Il palpite le temps d\'être inique, funeste,
+Méchant, obscène, aveugle ; et qu\'est-ce qu\'il en reste ?
+La terre le reprend et dit : A-t-il été ?
+Et la terre elle-même est-elle ? O cécité !
+Ténèbres ! Vous nommez ces feux follets des âmes ?
+C\'est du néant. Passant, qu\'est-ce que tu réclames ?
+« Homme, tu n\'as à toi que l\'heure où tu te meus,
+Triste ou gai, sage ou fou, dans l\'affreux tout brumeux !
+Goutte d\'eau, quand la mer s\'ouvre, à quoi bon la lutte ?
+Prends ce que ton destin a de clair, la minute,
+Avril quand il sourit, la fleur quand elle éclot.
+Laisse au gouffre éternel rouler l\'éternel flot.
+Vis, meurs.
+« Tu veux un Dieu, toi l\'homme, afin d\'en être
+Si tu veux l\'infini, c\'est pour y reparaître.
+Quoi ! vivre avant la vie et vivre après la mort !
+Traverser toute l\'ombre immense avec ton sort !
+Que ce cosmos, couvert du voile babélique,
+De ton moi misérable à jamais se complique !
+Que tout ce que régit l\'inconcevable loi
+Soit nécessairement un composé de toi !
+Que tu n\'en puisses point être absent ! que tu fasses,
+Toujours vivant, le fond de toutes ces surfaces !
+Que jamais l\'être humain, rayé, clos, aboli,
+Ne s\'appelle trépas et ne se nomme oubli !
+Quoi ! ce qu\'a reçu l\'homme, il ne doit pas le rendre !
+Il est ; donc il sera ! Quoi, l\'homme, cette cendre
+Sur qui le vent de vie obscurément souffla,
+Être quelqu\'un ! Quel rêve absurde fais-tu là !
+Ce monde est-il ? Qui sait ? N\'est-il pas ? C\'est possible.
+Tout flotte. Le certain n\'est pas dans le visible.
+Mais toi, fourmi, ciron, grain de poussière, avoir
+Une place quelconque en ce grand chaos noir !
+Vain songe du néant dont ton orgueil est dupe !
+Vas-tu croire qu\'un Dieu --- s\'il existe --- s\'occupe
+De toi, larve ! et qu\'il veille et médite, agité
+Par l\'éphémère au fond de son éternité !
+« Matière ou pur esprit, bloc sourd ou dieu sublime,
+Le monde, quel qu\'il soit, c\'est ce qui dans l\'abîme
+N\'a pas dû commencer et ne doit pas finir.
+Quelle prétention as-tu d\'appartenir
+A l\'unité suprême et d\'en faire partie,
+Toi, fuite ! toi monade en naissant engloutie,
+Qui jettes sur le gouffre un regard insensé,
+Et qui meurs quand le cri de ta vie est poussé !
+« Ah ! triste Adam, flocon qui fonds presque avant d\'être,
+Lugubre humanité, n\'est-ce pas trop de naître ?
+N\'est-ce pas trop d\'avoir à vivre, en vérité,
+O morne genre humain, bref, rapide, emporté !
+Il ne te suffit pas, quoique ta fange souffre,
+D\'apparaître une fois dans la lueur du gouffre !
+L\'homme éternel, voilà ce que l\'homme comprend.
+Tu demandes au ciel, au grand ciel ignorant
+Qui t\'assourdit de foudre et t\'aveugle d\'étoiles,
+Quel fil te noue, ô mouche, à ses énormes toiles,
+Comment il tient à l\'homme, et quel est ce lien ?
+Tu devrais te sentir pourtant tellement rien
+Qu\'avec ce vil néant que tu nommes ta sphère
+Le ciel --- en supposant qu\'il soit --- n\'a rien à faire !
+Tout ce qu\'il peut cacher, couver ou contenir,
+Est hors de toi, qui n\'as qu\'un soir pour avenir.
+O le risible effort de rattacher ce dôme
+De prodige, d\'horreur et d\'ombre à ton atome !
+Quel besoin as-tu donc d\'être de l\'univers ?
+Chair promise au tombeau, contente-toi des vers !
+« Et d\'ailleurs, à quoi bon avoir un personnage
+Dans ce mystérieux et fatal engrenage ?
+A quoi bon être un pli dans ces flux et reflux
+Qui font effort pour être et déjà ne sont plus ?
+A quoi bon être un chiffre et compter dans la foule
+Qui n\'est que de l\'écume ajoutée à la houle ?
+Regarde : tout est vain, fuyant, triste, inouï.
+Avant d\'être apparu, tout est évanoui.
+Ces groupes de soleils, de globes, de planètes,
+Moins funèbres peut-être ou plus noirs que vous n\'êtes ;
+Ce zodiaque obscur qui jamais ne finit
+De descendre au nadir, de monter au zénith ;
+Ces Jupiters, ces Mars, ces Vénus, ces Saturnes,
+Qui semblent des édens ou des bagnes nocturnes,
+Et qu\'on rêve peuplés d\'anges ou de démons
+D\'après l\'ombre que font sur leur face les monts ;
+Ces visions de cieux que rougit ou que dore
+Tantôt le soir sanglant, tantôt la fauve aurore ;
+Ces lunes dont on voit l\'épouvantable flanc ;
+Ces blêmes tourbillons, ces abîmes roulant
+Des apparitions de mondes dans leurs vagues ;
+Cette succession de créations vagues
+Qu\'on aperçoit au fond des gouffres entr\'ouverts ;
+Cet enchevêtrement d\'astres et d\'univers
+Dont la série immense et pâle se dévide
+Dans le ciel, dit Platon ; Pyrrhon dit : dans le vide ;
+Spectres qui n\'ont entre eux rien de commun, sinon
+Qu\'un chaînon traîne et tire à lui l\'autre chaînon ;
+Ces constellations confusément tournées
+Par la roue invisible et sombre des années,
+Et qui te feraient peur si nous pénétrions
+Jusqu\'aux profonds azurs de leurs septentrions ;
+Ces masques effrayants d\'une vie inconnue
+Qu\'entrevoit le songeur au-delà de la nue ;
+Ces firmaments qu\'on sonde et dont on n\'est pas sûr ;
+L\'aérolithe, errant en foule dans l\'azur,
+Plus nombreux que l\'abeille au sommet de l\'Hymète,
+Le météore au vol furieux, la comète
+Qui s\'évade d\'un ciel comme d\'un cabanon,
+Tous ces mondes ne sont que les formes, sans nom
+De l\'obscurité vaste et morne des espaces ;
+Et que gagneras-tu, toi, pauvre esprit qui passes,
+Quand tu mêleras l\'homme, et son trouble, et son bruit,
+A ces noeuds de fumée ondoyant dans la nuit ?
+« Dieu n\'est pas. Nie et dors. Tu n\'es pas responsable.
+Ris de l\'inaccessible, étant l\'insaisissable.
+Sois humble, pas de ciel. Pas d\'enfer, sois content.
+Fais ce que tu voudras. Personne ne t\'attend.
+J\'ai dit. --- »
+Soit. Plus d\'enfer. ---
+Mais rien après la vie,
+Rien avant ; la lueur des ténèbres suivie ;
+Tout ramené pour l\'homme à l\'instinct animal ;
+Le bien n\'ayant pas plus raison contre le mal
+Que le tropique n\'a raison contre le pôle ;
+De Sade, triomphant, raillant Vincent de Paule ;
+Tout réduit à l\'atome inerte, inconscient,
+Sourd, tantôt tourmenteur et tantôt patient ;
+Tout dans les appétits et dans les épigastres ;
+Par l\'aube, par le jour, par la nuit, par les astres,
+Par l\'univers, sur l\'homme ouvert et refermé,
+Socrate démenti, Lacenaire affirmé ;
+Pour tout dogme : --- « Il n\'est point de vertus ni de vices ;
+« Sois tigre, si tu peux. Pourvu que tu jouisses,
+Vis n\'importe comment pour finir n\'importe où ; »-
+Caligula le sage, Aristide le fou ;
+Jésus-Christ et Judas désagrégés ensemble,
+Puis remêlés à l\'ombre éternelle qui tremble,
+Sans que l\'atome, au fond de l\'être ou tout périt,
+Sache s\'il fut Judas ou s\'il fut Jésus-Christ ! ---
+Oui, c\'est vrai, plus d\'enfer, rêve hideux de Rome,
+Plus d\'affreux punisseur rôdant derrière l\'homme.
+Mais tout nivelant tout ; je croyais, tu niais,
+Qu\'importe ! l\'honneur sot, le martyre niais ;
+Pas d\'âme ; pas de moi qui survive et qui dure ;
+L\'infâme égalité de l\'astre et de l\'ordure ;
+La pourriture, ô deuil î reprenant tout Brutus ;
+C\'est-à-dire pas plus d\'astres que de vertus ;
+L\'azur roulant, aux plis de ses ténébreux voiles,
+Dans un spectre de ciel des fantômes d\'étoiles ! ---
+Oui, c\'est vrai, plus de fourche au poing de Lucifer,
+Plus d\'éternel bûcher flamboyant, plus d\'enfer.
+Mais l\'atome Attila, fatal, irresponsable,
+Comme l\'atome feu, comme l\'atome sable,
+Innocent, ne pouvant pas plus être accusé
+Pour un peuple aboli, pour un monde écrasé
+Que l\'un d\'éboulement et l\'autre d\'incendie ;
+Que Job racle sa plaie et qu\'Homère mendie,
+Trimalcion les vaut, faisant un bon repas ;
+Marc-Aurèle ? A quoi bon ? Tibère ? Pourquoi pas ?
+Néron, Trajan, ce n\'est qu\'une forme qui flotte ;
+Ce que vous nommez czar, tyran, bourreau, despote,
+Mange de l\'homme ainsi que vous mangez du pain ;
+Après ? Pour le grand tout, qui vous permet la faim,
+Un grain de blé mûr pèse autant que Caton libre ;
+Tout rentre dans l\'immense et tranquille équilibre
+Dès que le pain est mort et l\'homme digéré.
+Demain le dévorant sera le dévoré ;
+L\'atome qui fut aigle, éperdu, fuira l\'aile
+De l\'atome qui fut colombe ou tourterelle ;
+Les transformations du gouffre écraseront,
+Roi, ce qui fut ton pied sous ce qui fut mon front ;
+L\'agneau devenu loup teindra de sang sa griffe,
+Et ce sera le tour de Christ d\'être Caïphe,
+Sans même que ce soit revanche et châtiment,
+Nul n\'ayant conscience en dehors du moment,
+Le fil étant rompu d\'un avatar à l\'autre.
+Qu\'appelez-vous faux, vrai, droit ou devoir ? L\'apôtre,
+Le bourreau, le héros, le traître, tout est vain.
+Oh ! que rien ne soit plus bon, grand, sacré, divin ;
+Que tout soit le hasard, l\'ébauche, le décombre,
+L\'éclosion du pou dans les cheveux de l\'ombre ;
+Que la création, ivre d\'obscurité,
+Soit idiote, et n\'ait à son extrémité
+Rien qu\'on puisse nommer amour, raison, justice ;
+Qu\'après avoir vomi, lugubre, elle engloutisse ;
+Et n\'ait pour résultat, en souffrant, en créant,
+Que de donner un peu de vermine au néant ;
+Qu\'il ne soit pas prouvé que cette terre, en somme,
+Sent la démangeaison de la vie et de l\'homme ;
+Qu\'il ne soit nulle part d\'idéal, ni de loi ;
+Que tout soit sans réponse et demande pourquoi ;
+Que l\'être, en supposant que l\'abîme livide
+Ne nous recrache pas ce mot sinistre et vide,
+Se résolve, au milieu d\'un vain frisson qui fuit,
+En un fourmillement aveugle dans la nuit ;
+Que le fond noir de tout rampe, et soit quelque chose
+Qui ne sait pas, qui luit sans jour, qui va sans cause,
+Un hideux bloc abstrait, pas même une prison,
+Une espèce de mort énorme, sans raison
+Pour entrer dans la nuit, pour sortir de la tombe,
+Un vague tournoiement de poussière qui tombe\... ---
+Quoi ! lorsqu\'on s\'est aimé, pleurs et cris superflus !
+Ne jamais se revoir, jamais, jamais ! ne plus
+Se donner rendez-vous au delà de la vie !
+Quoi ! la petite tête éblouie et ravie,
+L\'enfant qui souriait et qui s\'en est allé,
+Mères, c\'est de la nuit ! cela s\'est envolé !
+Quoi ! toi que j\'aime, toi qui me fais de l\'aurore,
+Femme par qui je sens en moi l\'archange éclore,
+Quoi ! le néant rira quand, pâle, je dirai :
+--- Attends-moi, je te suis, je viens, être adoré !
+Prépare-moi ma place en ton lit solitaire ! ---
+Quoi ! le seul lieu qu\'on ait besoin d\'aimer sur terre
+Et de sentir vivant, le tombeau, serait mort !
+En présence des cieux, quoi ! l\'espérance a tort !
+Le deuil qui tord mon coeur en exprime un mensonge !
+Pas d\'avenir ! un vide où l\'oeil égaré plonge !
+Fosse en la profondeur, linceul sur la hauteur !
+Pour mouvement la vie et la mort pour moteur !
+La cécité, tournant sans but sur elle-même,
+Engendre la lumière, imposture suprême ;
+L\'être inutilement s\'élève et se détruit ;
+Le monde croule au gré d\'une haleine de nuit ;
+Le vent est l\'enveloppe obscure de la brume ;
+Pour s\'éteindre à jamais un instant on s\'allume ;
+Tout est l\'horrible roue, et Rien le cabestan !\...
+Rien !
+Oh ! reprends ce Rien, gouffre, et rends-nous Satan !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV. Des voix]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3258 .calibre_57}
+
+::: calibre_19
+
+
+[
+Et j\'entendais des voix au milieu des nuées ;
+Un divin chant d\'extase, un noir bruit de huées
+Passait.
+[UNE VOIX
+]{.bold} Le cheval doit être manichéen.
+Arimane lui fait du mal, Ormus du bien ;
+Tout le jour, sous le fouet il est comme une cible,
+Il sent derrière lui l\'affreux maître invisible,
+Le démon inconnu qui l\'accable de coups ;
+Le soir, il voit un être empressé, bon et doux,
+Qui lui donne à manger et qui lui donne à boire,
+Met de la paille fraîche en sa litière noire,
+Et tâche d\'effacer le mal par le calmant,
+Et le rude travail par le repos clément ;
+Quelqu\'un le persécute, hélas ! mais quelqu\'un l\'aime.
+Et le cheval se dit : « Ils sont deux. » C\'est le même.
+[AUTRE VOIX
+]{.bold} L\'instant de dénouer la chimère est venu ;
+La vie, inexprimable effort dans l\'inconnu,
+Est terminée, erreur, ou folie, ou bravade ;
+Et voici le moment fatal. L\'âme s\'évade,
+L\'homme expire. On a vu sur son logis tremblant
+Planer l\'ange Trépas, l\'oiseau noir, l\'oiseau blanc,
+Corbeau pour les méchants et pour les bons colombe ;
+C\'est fini. Maintenant, que devient dans la tombe
+Le corps, ce compagnon auquel l\'âme avait cru ?
+Attends un peu de temps. Cherche. Il a disparu.
+Cherche. Il s\'est dissipé. Cherche encore, fouille, creuse,
+Et tâte avec la main sous cette voûte affreuse.
+Que trouves-tu ? Regarde. Est-ce cela ? Oui. Non.
+Qu\'est-ce ? Cela n\'a plus de forme ni de nom ;
+C\'est noir comme la nuit et vain comme la cendre ;
+C\'est l\'homme. Et si tu veux demain y redescendre,
+Tu ne trouveras plus, dans ce hideux réduit,
+Même ce peu de cendre et ce reste de nuit.
+A peine est-il couché, débris dans les décombres,
+Que les mille éléments, tous ces créanciers sombres,
+Qui l\'avaient pour un --- temps à l\'âme concédé,
+Redemandent ce corps par les vers seuls gardé ;
+Et chacun --- car la vie a la mort pour domaine ---
+Prend ce qui lui revient dans cette argile humaine.
+Tout atome, dans l\'eau, dans la terre ou dans l\'air,
+Est un Shylock qui veut sa part de cette chair.
+O nature sans fond ! gouffre avare et rapace !
+Partout, en haut, en bas, dans la nuit, dans l\'espace,
+Tout réclame à la fois, tout s\'ouvre en même temps,
+La pierre, le buisson, le miasme des étangs,
+La poussière, la fleur, le vent, la flamme ardente ;
+Et, dans la profondeur des ténèbres pendante,
+La matière dont l\'homme était formé s\'épand,
+Et se cache ; et, glissant, coulant, tombant, rampant,
+Se hâte de crouler dans tous ces précipices.
+Et, soit qu\'elle ait là-haut trouvé les cieux propices,
+Grâce au bien qu\'elle a fait, au beau qu\'elle a pensé,
+Soit qu\'ayant mal vécu, traînant un vil passé,
+Elle ait vu se fermer devant elle l\'aurore,
+L\'âme, envolée au fond de la mort sombre, ignore
+Cette fuite rapide et sinistre du corps.
+[AUTRE VOIX
+]{.bold} J\'entends les vivants rire ; ils deviendront les morts.
+[AUTRE VOIX
+]{.bold} Alors que feront-ils ?
+[AUTRE VOIX
+]{.bold} Rien.
+[AUTRE VOIX
+]{.bold} Tout.
+[AUTRE VOIX
+]{.bold} Passez, nuages.
+[AUTRE VOIX
+]{.bold} Tous vos azurs sont faux.
+[AUTRE VOIX]{.bold}
+Moins faux que vos orages.
+[AUTRE VOIX
+]{.bold} Oui, je te le redis, homme, malheur à toi
+Si dans quelque docteur ton ignorance a foi !
+Malheur à ton esprit s\'il dit comme tant d\'autres :
+--- Je questionnerai les savants, ces apôtres,
+Et j\'interrogerai les penseurs, ces devins ;
+J\'irai, j\'approcherai les instructeurs divins,
+Les poètes dont l\'aube éclaire les visages,
+Les hommes lumineux du mystère, les sages,
+Ces colonnes d\'azur du temple de la nuit ! ---
+Sache que nul n\'enseigne et que nul ne conduit ;
+Nul n\'est colonne et rien n\'est temple ; sache encore
+Qu\'Antisthène, Amphion, Pindare, Stésichore,
+Terpandre et Callimaque ont des ailes de plomb ;
+Qu\'Arouet, Kant, Hegel n\'en savent pas plus long ;
+Et que le sphinx qui dit la parole certaine
+N\'est pas plus dans Ferney qu\'il n\'était dans Athènes.
+De tout temps les rêveurs ont fait dans le ciel bleu
+Des fouilles du côté de ce qu\'ils nomment Dieu ;
+Ils ont le doute au coeur ou la prière aux lèvres ;
+Ils ont construit, détruit, et, pour calmer leurs fièvres,
+Tristes, ont appuyé leur tête au marbre froid.
+Homme, tout ce que l\'homme enseigne, pense, croit,
+Tout ce qu\'il grave, écrit, constate, affirme, sculpte,
+De science publique ou de doctrine occulte,
+Sur le papier, le bois, l\'airain, sur les frontons
+Des grands temples obscurs pleins d\'âmes à tâtons ;
+Balaam sur l\'Euphrate, Apulée à Madaure,
+Tout ce qu\'on imagine et tout ce qu\'on adore,
+Figulus enseignant Cicéron, Érechto
+Dont Pompée à genoux lève le noir manteau,
+Les prêtres, les rhéteurs drapés dans leurs chlamydes,
+Les bibles, les talmuds sacrés, les pyramides,
+Le difforme alphabet de pierre du galgal,
+Les cylindres de Tyr, les runes de Fingal,
+Les papyrus de Thèbes et d\'Endor, qu\'on adopte
+Le texte égyptien ou la version copte,
+Vos sages admirés, Épicure, Thalès,
+Diogène, Apulée, Érasme, Rabelais,
+Platon, que l\'idéal laisse boire à son urne,
+Kant, Leibnitz, tout cela n\'est qu\'un souffle nocturne.
+Si tu le veux, fais-toi de l\'audace un devoir ;
+Propose-toi ce but redoutable : savoir,
+Cette façon splendide et suprême de naître.
+Entre dans le nuage insondable ; pénètre
+Dans l\'horreur des Horebs, des Brockens, des Thabors ;
+Va ! mais commence, avant d\'en tenter les abords,
+Par laisser de côté la sagesse des hommes.
+Le peu que nous savons tient au peu que nous sommes ;
+Écoute. L\'homme à peine, avec ou sans appuis,
+A creusé l\'inconnu qu\'il a comblé son puits ;
+Alors il cherche, alors il rencontre, il dévie,
+Se croit mage, ou se fait prêtre.
+Passe ta vie
+A labourer l\'écume et l\'onde, n\'arrivant
+Que pour partir, parmi le tumulte et le vent ;
+Habite Terre-Neuve, ou Zante, ou Tombelaine ;
+Sois pêcheur de hareng, sois pêcheur de baleine ;
+Emplis ton brick solide ou ta barque sans ponts
+De traînes, de filets, de dragues, de harpons ;
+Affronte des écueils les sinistres statures ;
+Sois forban ; sois coureur de flots et d\'aventures ;
+Quand même tu vivrais dix ans, vingt ans, cent ans,
+Ayant sous toi le gouffre et sur toi les autans,
+Lutteur du risque, et roi d\'une planche qui flotte,
+Fusses-tu le plus vieux et le plus noir pilote,
+Jason sur le dromon, Fulton sur le steamer,
+Tu ne connaîtras pas la formidable mer.
+Ces choses sans limite où flottent des fumées
+Résistant, et toujours béantes, sont fermées ;
+Le chercheur, tâtonnant dans ce fatal milieu,
+Quand il serait Platon, ne connaîtra pas Dieu.
+[AUTRE VOIX
+]{.bold} Prenez garde. Observez l\'obscure parallèle.
+Le pas s\'appuie au pas, l\'aile s\'appuie à l\'aile.
+Quoiqu\'on retrouve au fond de tout culte la nuit
+De l\'homme, par qui Dieu trop souvent est construit,
+Quoiqu\'un dogme, ô penseur, ne soit qu\'une masure
+En attendant la vie et la vérité pure,
+Quoique l\'humanité doive porter en soi
+La sagesse sereine et non l\'aveugle foi,
+Quoiqu\'une Bible, livre à deux sens, atrophie
+Et blesse trop souvent l\'âme qu\'on lui confie,
+Quoique, presque toujours, effarant les esprits,
+La religion soit une chauve-souris
+Faite de vie et d\'ombre, et dont l\'aile a pour griffes
+Les prêtres, les docteurs, les bonzes, les pontifes,
+Il faut que l\'homme croie à quelque chose ; il faut
+Qu\'à côté de la chair qui le gouverne trop,
+Le mystère lui parle et l\'exhorte, et l\'élève
+Du sommeil où l\'on dort au sommeil où l\'on rêve.
+Ah ! l\'être infortuné qui ne croit pas est nu
+Sous le ciel redoutable et lourd, sous l\'inconnu !
+O vivants ! il vous faut des prêtres, quels qu\'il soient.
+A travers les plus noirs les vérités flamboient ;
+Il tombe encore un peu de jour sur vos chevets,
+Même des plus abjects, même des plus mauvais ;
+Mais pour verser plus tard sur l\'humanité mûre
+La parole d\'amour que l\'avenir murmure,
+Le ciel, au-dessus d\'eux, sur d\'éclatants degrés
+Met les voyants directs, les sages inspirés.
+Car l\'homme fait le prêtre et Dieu seul fait le mage.
+Je préfère, ô songeur, le wigwam du sauvage
+Où l\'homme attend la femme, où du moins on est deux,
+Au manitou qui fait, au fond des bois hideux,
+Joindre les mains au nègre et les pattes au singe ;
+Au wigwam le cromlech, au cromlech la syringe ;
+Aux syringes du Nil le sombre temple hébreu ;
+Au temple, la mosquée avec son dôme bleu
+Et son minaret blanc dans la tiède atmosphère ;
+Et comme il faut monter sans cesse, je préfère
+L\'église à la mosquée, à l\'église l\'azur.
+L\'homme, être mixte au front sublime, au pied impur,
+Va toujours refaisant et transformant ses arches ;
+Chaque âge avance ; on voit, sur chacune des marches
+Du sombre esprit humain montant dans l\'ombre à Dieu,
+Un temple où de l\'amour grandit le chaste feu ;
+Passant d\'un ciel plus noir dans un air plus salubre,
+De moins en moins cruel, de moins en moins lugubre ;
+Chaque temple nouveau, grec, juif, égyptien,
+A sa base au niveau du faîte de l\'ancien ;
+Sur celui qui s\'élève un autre monte encore ;
+Et le plus haut fronton se dissout dans l\'aurore.
+[AUTRE VOIX
+]{.bold} O rêves ! vision des vagues paradis !
+Crois-tu que l\'inconnu soit quelque chose, dis,
+Dont ton cerveau chétif puisse se faire idée ?
+Créature par l\'être absolu débordée,
+Homme étonné d\'un grain germant dans le sillon,
+Ébloui d\'une pourpre au dos d\'un papillon,
+Tremblant d\'un choc d\'écume ou d\'un râle d\'orfraie,
+Déjà ce que tu vois te dépasse et t\'effraie,
+Pourrais-tu supporter ce que tu ne vois point ?
+Le gouffre où le réel aux chimères se joint,
+L\'aspect de l\'insondable et de l\'inaccessible,
+Le côté ténébreux de l\'univers terrible,
+Flottant dans l\'infini, dans la brume perdu,
+Et dans on ne sait quoi d\'horrible et d\'éperdu ?
+Serais-tu comme Jean, l\'homme hagard, capable
+De regarder l\'obscur, de tâter l\'impalpable ?
+Pourrais-tu contempler avec tes yeux de chair
+Les apparitions du rêve et de l\'éclair,
+Les éclipses, les blocs, les profondeurs, les rides,
+Les agitations des surfaces livides,
+La stagnation morte et malsaine des eaux,
+Les glissements des vers monstrueux du chaos,
+Les larves se montrant à demi, les sorties.
+De têtes par la vase affreuse appesanties.
+Les fléaux s\'accouplant parmi les éléments,
+L\'horreur des suintements et des fourmillements,
+Et les êtres sans nom, et les formes immondes,
+Et les vagues tumeurs du cloaque des mondes ?
+Te représentes-tu l\'indicible stupeur
+De ce qui s\'entrevoit dans l\'ombre, et se fait peur ;
+Ici la marche lourde, ailleurs la fuite prompte ;
+Le double effroi d\'en haut, d\'en bas, qui se confronte ;
+Le vent fauve traînant le nuage en haillon ;
+Le météore ayant horreur du tourbillon ?
+Connais-tu les deux nuits : la morte et la vivante ;
+La vivante, engendrant le monstre, l\'épouvante,
+L\'hydre, les dévorant sans fin et les créant ;
+La morte, c\'est-à-dire un vide, le néant,
+Une ouverture aveugle et par l\'effroi formée,
+De l\'ombre qui n\'est plus même de la fumée,
+Le silence hideux et funèbre de Rien ?
+[AUTRE VOIX
+]{.bold} Quand on sent se mouvoir l\'universel lien
+Qui joint le plus petit des atomes à l\'être
+Le plus démesuré que le gouffre ait vu naître,
+Et qui fait, dans l\'abîme où rien n\'est endormi,
+Tressaillir Sirius au poids d\'une fourmi,
+Quand les germes confus dans les ombres profondes
+S\'agitent, détruisant et produisant des mondes,
+Mêlés aux voix, aux sons, aux chants, aux cris, aux pas,
+Faisant et défaisant, et ne le sachant pas,
+Quand l\'azur semble ému, bien au delà des nues,
+Par une éclosion d\'étoiles inconnues,
+Lorsqu\'en soi, stupéfait, on sent et l\'on comprend
+Quelque chose de fort fait par quelqu\'un de grand,
+Quand l\'eau fuit, quand le sol tremble, quand l\'air murmure,
+Quand de la forêt sombre il sort un bruit d\'armure,
+Quand l\'oiseau sur son nid, dans les bois frémissants,
+Chante un chant dont lui-même il ignore le sens,
+L\'immensité du fait prodigieux dépasse
+L\'ombre, le jour, les yeux, les chocs, le temps, l\'espace,
+Elle est telle, et le point de départ est si loin
+Que, tous étant agents, personne n\'est témoin.
+[AUTRE VOIX
+]{.bold} Querelles ! bruits ! rumeurs ! cris ! morsures ! piqûres !
+O passages du vent dans les branches obscures !
+[AUTRE VOIX
+]{.bold} Dante écrit deux vers, puis il sort ; et les deux vers
+Se parlent. Le premier dit : --- Les cieux sont ouverts !
+Cieux ! Je suis immortel. --- Moi, je suis périssable,
+Dit l\'autre. --- Je suis l\'astre. --- Et moi le grain de sable.
+--- Quoi ! tu doutes étant fils d\'un enfant du ciel !
+--- Je me sens mort. --- Et moi, je me sens éternel. ---
+Quelqu\'un rentre et relit ces vers, Dante lui-même ;
+Il garde le premier et barre le deuxième.
+La rature est la haute et fatale cloison.
+L\'un meurt, et l\'autre vit. Tous deux avaient raison.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[V. Conclusion]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_3260 .calibre_57}
+
+::: calibre_19
+
+
+[
+As-tu vu méditer les ascètes terribles ?
+Ils ont tout rejeté, talmuds, Corans et bibles.
+Ils n\'acceptent aucun des védas, comprenant
+Que le vrai livre s\'ouvre au fond du ciel tonnant,
+Et que c\'est dans l\'azur plein d\'astres que flamboie
+Le texte éblouissant d\'épouvante ou de joie.
+Contemplant ce qui n\'a ni bord, ni temps, ni lieu,
+Absorbés dans la vue effrayante de Dieu,
+Farouches, ils sont là, chacun seul dans l\'espèce
+D\'horreur qu\'il a choisie au bord de l\'ombre épaisse,
+Faisant vers l\'inconnu toujours le même effort,
+L\'un dans un vieux tombeau dont il semble le mort,
+L\'autre, sinistre, assis dans un trou du tonnerre
+Au tronc prodigieux d\'un cèdre centenaire,
+L\'autre livide et nu dans un creux de rocher,
+Muets, affreux, laissant les bêtes s\'approcher,
+Pas plus importunés sous leur fauve auréole
+D\'un tigre qui rugit que d\'un oiseau qui vole,
+Le désert les a vus à jamais s\'accroupir.
+Jamais un mouvement et jamais un soupir.
+Ont-ils faim ? ont-ils soif ? Quand luit l\'aube embrasée,
+Ils ouvrent vaguement leur bouche à la rosée,
+Et la rouvrent parfois quand vient le soir hagard.
+Si la pensée était saisissable au regard,
+On verrait le néant, l\'éternité, le monde,
+L\'énigme plus lugubre encore quand on la sonde,
+Tomber de leurs fronts noirs comme l\'ombre des ifs ;
+Ils songent, ni vivants, ni morts, spectres pensifs,
+Entre la mort trompée et la vie impossible ;
+L\'été passe ; l\'hiver vide sur eux son crible ;
+Ils ne regardent rien que l\'obscur firmament,
+Et dans des profondeurs d\'anéantissement
+Ces êtres, abrutis par l\'idéal, s\'abîment.
+Nul ne sait quels courants d\'infini les raniment
+A mesure que l\'homme en eux s\'évanouit.
+L\'ouragan monstrueux leur parlé dans la nuit
+Comme le célébrant parle au catéchumène,
+Et ces hideux esprits perdent la forme humaine.
+L\'aigle leur dit un mot à l\'oreille en passant ;
+Ils font signe parfois à l\'éclair qui descend ;
+Ils rêvent, fixes, noirs, guettant l\'inaccessible,
+L\'oeil plein de la lueur de l\'étoile invisible.]{.calibre4}
+
+[]{.calibre_10}
+
+[!{.calibre3}]{.calibre_10}
+
+[]{.calibre_10}
+
+[
+Invisible ! Ai-je dit invisible ? Pourquoi ?
+Il est ! Mais nul cri d\'homme ou d\'ange, nul effroi,
+Nul amour, nulle bouche, humble, tendre ou superbe,
+Ne peut balbutier distinctement ce verbe !
+Il est ! il est ! il est ! il est éperdument !
+Tout, les feux, les clartés, les cieux, l\'immense aimant,
+Les jours, les nuits, tout est le chiffre ; il est la somme.
+Plénitude pour lui, c\'est l\'infini pour l\'homme.
+Faire un dogme, et l\'y mettre ! ô rêve ! inventer Dieu !
+Il est ! Contentez-vous du monde, cet aveu !
+Quoi ! des religions, c\'est ce que tu veux faire,
+Toi, l\'homme ! ouvrir les yeux suffit ; je le préfère.
+Contente-toi de croire en Lui ; contente-toi
+De l\'espérance avec sa grande aile, la foi ;
+Contente-toi de boire, altéré, ce dictame ;
+Contente-toi de dire : --- Il est, puisque la femme
+Berce l\'enfant avec un chant mystérieux ;
+Il est, puisque l\'esprit frissonne curieux ;
+Il est, puisque je vais le front haut ; puisqu\'un maître
+Qui n\'est pas lui, m\'indigne, et n\'a pas le droit d\'être ;
+IÎ est, puisque César tremble devant Patmos ;
+Il est, puisque c\'est lui que je sens sous ces mots :
+Idéal, Absolu, Devoir, Raison, Science ;
+Il est, puisqu\'à ma faute il faut sa patience,
+Puisque l\'âme me sert quand l\'appétit me nuit,
+Puisqu\'il faut un grand jour sur ma profonde nuit ! ---
+La pensée en montant vers lui devient géante.
+Homme, contente-toi de cette soif béante ;
+Mais ne dirige pas vers Dieu ta faculté
+D\'inventer de la peur et de l\'iniquité,
+Tes catéchismes fous, tes Corans, tes grammaires,
+Et ton outil sinistre à forger des chimères.
+Vis, et fais ta journée ; aime et fais ton sommeil.
+Vois au-dessus de toi le firmament vermeil ;
+Regarde en toi ce ciel profond qu\'on nomme l\'âme ;
+Dans ce gouffre, au zénith, resplendit une flamme.
+Un centre de lumière inaccessible est là.
+Hors de toi comme en toi cela brille et brilla ;
+C\'est là-bas, tout au fond, en haut du précipice.
+Cette clarté toujours jeune, toujours propice,
+Jamais ne s\'interrompt et ne pâlit jamais ;
+Elle sort des noirceurs, elle éclate aux sommets ;
+La haine est de la nuit, l\'ombre est de la colère !
+Elle fait cette chose inouïe, elle éclaire.
+Tu ne l\'éteindrais pas si tu la blasphémais ;
+Elle inspirait Orphée, elle échauffait Hermès ;
+Elle est le formidable et tranquille prodige ;
+L\'oiseau l\'a dans son nid, l\'arbre l\'a dans sa tige ;
+Tout la possède, et rien ne pourrait la saisir ;
+Elle s\'offre immobile à l\'éternel désir,
+Et toujours se refuse et sans cesse se donne ;
+C\'est l\'évidence énorme et simple qui pardonne ;
+C\'est l\'inondation des rayons, s\'épanchant
+En astres dans un ciel, en roses dans un champ ;
+C\'est, ici, là, partout, en haut, en bas, sans trêve,
+Hier, aujourd\'hui, demain, sur le fait, sur le rêve,
+Sur le fourmillement des lueurs et des voix,
+Sur tous les horizons de l\'abîme à la fois,
+Sur le firmament bleu, sur l\'ombre inassouvie,
+Sur l\'être, le déluge immense de la vie !
+C\'est l\'éblouissement auquel le regard croit.
+De ce flamboiement naît le vrai, le bien, le droit ;
+Il luit mystérieux dans un tourbillon d\'astres ;
+Les brumes, les noirceurs, les fléaux, les désastres
+Fondent à sa chaleur démesurée, en tout
+En sève, en joie, en gloire, en amour, se dissout ;
+S\'il est des coeurs puissants, s\'il est des âmes fermes,
+Cela vient du torrent des souffles et des germes
+Qui tombe à flots, jaillit, coule, et, de toutes parts,
+Sort de ce feu vivant sur nos têtes épars.
+Il est ! il est ! Regarde, âme. Il a son solstice,
+La Conscience ; il a son axe, la Justice ;
+Il a son équinoxe, et c\'est l\'Egalité ;
+Il a sa vaste aurore, et c\'est la Liberté.
+Son rayon dore en nous ce que l\'âme imagine.
+Il est ! il est ! il est ! sans fin, sans origine,
+Sans éclipse, sans nuit, sans repos, sans sommeil.
+Renonce, ver de terre, à créer le soleil.]{.calibre4}
+
+
+[[]{.italic}]{.calibre_3}
+
+[[
+]{.bold}]{.calibre_12}
+
+
+[[![separateur](../../../images/victor-hugo/les-derniers-bardes/00436.jpg){.calibre3}]{.bold}]{.calibre_12}

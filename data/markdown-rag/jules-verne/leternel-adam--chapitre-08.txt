@@ -1,0 +1,22 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTERNEL ADAM"
+slug_oeuvre: "leternel-adam"
+section: "Chapitre 08"
+slug_section: "chapitre-08"
+type: "chapitre"
+---
+
+]
+
+CONTES ET NOUVELLES
+
+L'ÉTERNEL ADAM
+
+]
+
+## Chapitre 8
+... Deux ans, au moins, que nous sommes ici !
+
+Le blé a réussi admirablement. Nous avons du pain presque à discrétion, et nos champs gagnent toujours en étendue. Mais quelle lutte contre les oiseaux ! Ils se sont étrangement multipliés, et, tout autour de nos cultures...

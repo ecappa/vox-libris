@@ -1,0 +1,198 @@
+### [[Chapitre 1 -- Blackland]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942914 .pcalibre2 .pcalibre1} {#chapitre-1-blackland .calibre171 .sigil_not_in_toc}
+
+Presque au croisement du deuxième degré de longitude ouest et du seizième degré de latitude nord, c\'est-à-dire un peu en aval du point le plus septentrional atteint par le Niger, la ville de Gao-Gao s\'élève sur la rive gauche de ce fleuve qui, dans cette partie de son cours, marque la limite sud-ouest du Sahara. Au-delà commence le Grand-Désert, qui se continue, dans le Nord, jusqu\'au Maroc, l\'Algérie et la Tripolitaine, dans l\'Est, jusqu\'à l\'Égypte et la Nubie, dans le Sud, jusqu\'aux possessions européennes de l\'Afrique centrale, dans l\'Ouest jusqu\'à l\'océan. Les oasis les plus voisines de Gao-Gao, l\'Adrar, au nord, l\'Aïr, à l\'est, en sont encore séparées, la première par quatre cents, la seconde par neuf cents kilomètres de sable. Sur les cartes de géographie les plus exactes et les plus récentes, cette immense étendue de trois cent soixante mille kilomètres carrés n\'est représentée que par un espace entièrement vierge. À l\'époque où la mission commandée par le député Barsac subissait les épreuves qui ont été relatées dans la première partie de ce récit, personne ne l\'avait traversée, personne n\'y avait pénétré. Elle était complètement inconnue.
+
+À cette époque, les plus étranges légendes couraient sur cette région inexplorée parmi les riverains du Niger. Parfois, racontaient les indigènes, on voyait passer, s\'enfuyant à tire-d\'aile vers ces plaines arides ou en arrivant, d\'immenses oiseaux noirs aux yeux de feu. D\'autres fois, à les entendre, c\'était une horde de grands diables rouges, montés sur des chevaux fougueux dont les naseaux jetaient des flammes, qui sortaient tout à coup de la contrée mystérieuse. Ces cavaliers fantastiques traversaient les bourgades au galop, tuant, massacrant ceux qui se trouvaient sur leur passage, puis repartaient dans le désert, emportant en travers de leurs selles des hommes, des femmes, des enfants, qui ne revenaient jamais.
+
+Quels étaient les êtres malfaisants qui détruisaient ainsi les villages, pillaient les cases, s\'appropriaient les misérables richesses des pauvres nègres, et disparaissaient en laissant derrière eux la ruine, le désespoir et la mort ? Nul ne le savait. Nul n\'avait même cherché à le savoir. Qui eût osé suivre à la trace, en effet, des ennemis que l\'imagination populaire douait d\'un pouvoir surnaturel, et que beaucoup supposaient être les féroces divinités du désert ?
+
+Tels étaient les bruits qui couraient, à cette époque, le long du Niger, de l\'Aribinda au Gourma, jusqu\'à plus de cent cinquante kilomètres de sa rive droite.
+
+Si, plus hardi que ces nègres pusillanimes, quelqu\'un s\'était aventuré dans le désert, et si cet audacieux avait atteint, au prix d\'un parcours de deux cent soixante kilomètres, le point situé par un degré quarante minutes de longitude est et par quinze degrés cinquante minutes de latitude nord, il aurait eu la récompense de son courage, car il aurait vu ce qui n\'avait jamais été vu, ni par les géographes, ni par les explorateurs, ni par les caravanes : une ville[[\[2\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn2053){#_ftnref2053 .pcalibre2 .pcalibre1}.
+
+Oui, une ville, une véritable ville, qui ne figurait sur aucune carte et dont personne ne soupçonnait l\'existence, bien que sa population totale ne fût pas inférieure, non compris les enfants, à six mille huit cent huit habitants.
+
+Si l\'hypothétique voyageur avait alors demandé le nom de cette ville à l\'un des habitants, et si celui-ci avait consenti à le renseigner, on lui aurait dit, peut-être, en anglais :
+
+« *Blackland is the name of this city *», mais il aurait pu aussi arriver qu\'on lui répondît en italien : « *Questa città e Terra Nera* » ; en bambara : « *Ni dougouba ntocko a bé Bankou Fing* » ; en portugais : «* Hista cidada e Terranegra* » ; en espagnol : « *Esta ciudad es Tierranegra* », ou en n\'importe quelle autre langue, toutes réponses qui eussent signifié en français : « Le nom de cette ville est Terre-Noire ».
+
+Rien d\'impossible même à ce que le renseignement eût été donné en latin : «* Ista urbs Terra nigra est* ». C\'est que le questionneur aurait eu affaire en ce cas à Josias Eberly, un ancien professeur qui, n\'ayant pas trouvé à Blackland l\'emploi de son érudition, y avait ouvert boutique et s\'était transformé en apothicaire et en marchand de produits pour la teinture, ainsi que l\'indiquait cette enseigne : *Josias Eberly. Druggist. Products for dye*.
+
+Toutes les langues étaient parlées dans cette nouvelle Tour de Babel, dont la population, au moment où la mission Barsac succombait près de Koubo, se composait, outre cinq mille sept cent soixante-dix-huit nègres et négresses, de mille trente Blancs, venus de tous les pays du monde, mais dont l\'immense majorité avait ce trait commun d\'être des échappés de bagne et de prison, des aventuriers capables de tout excepté du bien, des déclassés prêts aux pires besognes. Toutefois, de même que les représentants de la race anglaise prédominaient dans cette foule hétéroclite, de même la langue anglaise avait le pas sur les autres. C\'est en anglais qu\'étaient rédigés les proclamations du chef, les actes de l\'état civil, si tant est qu\'il y eût un état civil, et le journal officiel de la localité : *The Blackland\'s Thunder* (Le Tonnerre de Blackland).
+
+Très curieux, ce journal, ainsi qu\'on pourra juger par ces fragments, extraits de quelques-uns de ses numéros :
+
+« Hier John Andrew a pendu le nègre Koromoko, qui avait oublié de lui apporter sa pipe après le lunch. »
+
+« Demain soir, à six heures, départ pour Kourkoussou et Bidi de dix planeurs, avec dix Merry Fellows, sous le commandement du colonel Hiram Herbert. Razzia complète de ces deux villages que nous n\'avons pas visités depuis trois ans. Retour dans la même nuit. »
+
+« Nous avons appris qu\'une mission française, dirigée par un député du nom de Barsac, doit prochainement partir de Conakry. Cette mission aurait, paraît-il, l\'intention d\'atteindre le Niger, en passant par Sikasso et Ouagadougou. Nos précautions sont prises. Vingt hommes de la Garde noire et deux Merry Fellows vont incessamment se mettre en route. Le capitaine Edward Rufus les rejoindra en temps opportun. Edward Rufus, qui est, ainsi qu\'on le sait, un déserteur de l\'infanterie coloniale, jouera, sous le nom de Lacour, le rôle d\'un lieutenant français, et profitera de sa parfaite connaissance des usages militaires de cette nation, pour arrêter, d\'une manière ou d\'une autre, ledit Barsac, qui, on peut en être certain, n\'arrivera pas jusqu\'au Niger. »
+
+« Hier, sur le Garden\'s Bridge, à la suite d\'une discussion, le conseiller Ehle Willis s\'est vu dans la nécessité de mettre du plomb dans la tête du Merry Fellow Constantin Bernard. Celui-ci est tombé dans la Red River, où, emporté par le poids anormal de sa tête nouvellement plombée, il s\'est noyé. Le concours a été aussitôt ouvert, afin de pourvoir au remplacement du défunt. C\'est Gilman Ely qui a remporté la timbale, avec dix-sept condamnations prononcées par les tribunaux français, anglais et allemands, et atteignant le total de vingt-neuf années de prison et de trente-cinq années de bagne. Gilman Ely passe donc du Civil Body aux Merry Fellows.
+
+Nos meilleurs souhaits l\'y accompagnent. »
+
+Ainsi qu\'on l\'a sans doute remarqué, Josias Eberly, John Andrew, Hiram Herbert, Edward Rufus, Ehle Willis, Constantin Bernard, Gilman Ely n\'étaient désignés que par l\'association de deux prénoms. Cette pratique était d\'un usage général à Blackland, où tout nouvel arrivant subissait un second baptême et perdait son nom patronymique, que personne, sauf le chef, ne connaissait. Seul de tous les habitants de race blanche, si l\'on en excepte une fraction particulière de la population dont il sera bientôt question, ce chef était désigné à la manière ordinaire, et encore son nom devait-il être plutôt un sobriquet terrible et sinistre. On l\'appelait Harry Killer, c\'est-à-dire, d\'après le sens littéral, Harry l\'Assassin, Harry le Tueur. Une dizaine d\'années avant l\'enlèvement des débris de la mission Barsac, par lequel s\'est terminée la première partie de ce récit, Harry Killer, venant nul ne savait d\'où, avec quelques individus de sa trempe, était arrivé à ce point du désert où devait s\'élever Blackland, il y avait planté sa tente, et avait dit : « Là sera la ville. » Et Blackland était sortie du sable comme par enchantement.
+
+C\'était une ville très singulière. Bâtie en terrain parfaitement plat, sur la rive droite de l\'oued Tafasasset, rivière éternellement à sec jusqu\'au jour où la volonté d\'Harry Killer l\'avait remplie d\'eau courante, elle affectait la forme d\'un demi-cercle rigoureux et mesurait exactement douze cents mètres du nord-est au sud-ouest, c\'est-à-dire parallèlement à cette rivière, et non moins exactement six cents mètres du nord-ouest au sud-est. Sa superficie, qui atteignait, par conséquent, cinquante-six hectares environ, était divisée en trois sections très inégales, que limitaient d\'infranchissables murailles en pisé demi-circulaires et concentriques, hautes de dix mètres et d\'une épaisseur presque égale à la base.
+
+En bordure immédiate de la rivière, dont le nom primitif avait été changé par Harry Killer en celui de Red River, la rivière rouge, la première section avait été tracée avec un rayon de deux cent cinquante mètres. Un boulevard large de cent mètres, enlevé aux deux pointes de la deuxième section, et suivant la berge de la rivière jusqu\'à ce qu\'il rencontrât la troisième, augmentait notablement sa surface, dont le total approchait de dix-sept hectares.
+
+C\'est dans la première section qu\'habitait l\'aristocratie de Blackland, ceux qu\'on désignait, par antiphrase, sous le nom de Merry Fellows[[\[3\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn3053){#_ftnref3053 .pcalibre2 .pcalibre1}. À l\'exception de quelques-uns d\'entre eux appelés à des destinées plus hautes, les compagnons d\'Harry Killer, au moment où il s\'était résolu à fonder une ville en ce lieu, avaient été l\'embryon de ce corps des Merry Fellows. Autour de ce premier noyau étaient venus bientôt se grouper une foule de bandits, échappés des prisons et des bagnes, que Killer avait attirés, en leur promettant la satisfaction sans limites de leurs détestables instincts. En peu de temps, les Merry Fellows avaient ainsi atteint le nombre de cinq cent soixante-six, qui, sous aucun prétexte, ne devait être dépassé.
+
+Les fonctions des Merry Fellows étaient multiples. Organisés d\'une façon militaire, puisqu\'ils comprenaient un colonel, cinq capitaines, dix lieutenants et cinquante sergents, commandant respectivement à cinq cents, cent, cinquante et dix hommes, ils constituaient en premier lieu l\'armée de Blackland et faisaient la guerre. Guerre sans grand mérite, au surplus, guerre de rapines, qui consistait uniquement à piller de misérables villages et à massacrer ceux de leurs habitants qu\'on n\'emmenait pas en esclavage. Les Merry Fellows exerçaient, en outre, la police de la ville, et dirigeaient, à coups de matraque, quand ce n\'était pas à coups de revolver, les esclaves chargés de toutes les besognes sans exception, et notamment des travaux agricoles. Mais, par-dessus tout, ils formaient la garde du chef, et en exécutaient aveuglément les volontés.
+
+La troisième section, la plus éloignée du centre, ne comportait qu\'un espace semi-circulaire, long de seize cents mètres, large de cinquante, dont les deux extrémités aboutissaient en même temps à la première et à la Red River, et qui suivait le pourtour de la ville, entre la muraille qui la ceinturait extérieurement et celle limitant la deuxième section, où les esclaves étaient parqués.
+
+Dans cette troisième section habitaient, sous l\'appellation commune de Civil Body[[\[4\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn4053){#_ftnref4053 .pcalibre2 .pcalibre1}, les Blancs qui n\'avaient pu entrer dans la première. En attendant qu\'une place devînt libre dans celle-ci, ce qui n\'était jamais très long, les moeurs brutales pratiquées à Blackland y rendant les décès très fréquents, ils faisaient un stage dans le Civil Body, qui pouvait être considéré, par conséquent, comme un purgatoire, dont le corps des Merry Fellows eût été le paradis. Pour vivre jusqu\'à ce moment, les Merry Fellows seuls étant entretenus par le chef sur le produit des affaires communes, ils se livraient au négoce. Leur section était donc le quartier commerçant de la ville, et c\'est là que les Merry Fellows trouvaient contre argent une infinité de produits jusqu\'aux plus luxueux, que le marchand avait achetés au chef suprême, lequel se les était procurés soit par le pillage, soit, quand il s\'agissait d\'objets de provenance européenne, par des moyens qui n\'étaient connus que de lui et de son entourage immédiat.
+
+Au moment où il est, pour la première fois, parlé de Blackland dans ce récit, cette troisième section comptait deux cent quatre-vingt-six habitants, dont quarante-cinq femmes blanches, lesquelles ne valaient pas plus cher que leurs concitoyens mâles de même couleur.
+
+Entre la première et la troisième section, la deuxième, dont la superficie dépassait trente et un hectares et demi, occupait tout le reste de la ville. C\'était le quartier des esclaves, dont le nombre s\'élevait alors à cinq mille sept cent soixante-dix-huit, dont quatre mille cent quatre-vingt-seize hommes et mille cinq cent quatre-vingt-deux femmes. C\'est là qu\'ils habitaient, à très peu d\'exceptions près. Là étaient leurs cases. Là s\'écoulait leur triste vie.
+
+Chaque matin, les quatre portes percées dans la muraille de cet enfer s\'ouvraient, et, sous la conduite de Merry Fellows armés de matraques et de revolvers, ceux des nègres qui n\'étaient pas occupés aux soins de la ville allaient, par brigades, se livrer aux travaux agricoles. Le soir, le lamentable troupeau revenait de la même manière, et les lourdes portes se refermaient jusqu\'au lendemain. Nulle issue sur l\'extérieur. D\'un côté, les Merry Fellows, de l\'autre le Civil Body. De toutes parts, des êtres aussi sanguinaires et aussi féroces.
+
+Beaucoup de ces misérables mouraient, soit en raison des privations qu\'ils enduraient, soit sous les coups de leurs gardiens trop souvent transformés en meurtriers. C\'était un petit malheur. Une razzia avait tôt fait de combler les vides et de remplacer par d\'autres martyrs ceux que la mort avait délivrés.
+
+Mais les quartiers de la rive droite, qui viennent d\'être succinctement décrits, ne constituaient pas toute la ville de Blackland. Sur la rive gauche de la Red River, où le sol, se relevant brusquement, formait un monticule d\'une quinzaine de mètres de hauteur, la muraille d\'enceinte se continuait, en effet, et délimitait un rectangle, long de douze cents mètres suivant la rivière, et large de trois cents dans l\'autre sens.
+
+Cette seconde ville, à peine moins grande que la première, puisque sa superficie atteignait trente-six hectares, se divisait elle-même en deux parties égales, que séparait une haute muraille transversale.
+
+De l\'une de ces moitiés, située sur la pente nord-est de la butte, on avait fait le Fortress\'s Garden, jardin public, qui, à son extrémité septentrionale, communiquait de plain-pied par un pont, le Garden\'s Bridge[[\[5\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn5053){#_ftnref5053 .pcalibre2 .pcalibre1}, avec les sections des Merry Fellows et du Civil Body. L\'autre moitié, placée au sommet du monticule, contenait les organes vitaux de la cité.
+
+Dans l\'angle nord, contiguë au Jardin public, s\'élevait une vaste construction quadrangulaire, entourée de murailles à redans, dont la façade nord-ouest tombait à pic dans la Red River d\'une hauteur de trente mètres environ, le Palais, ainsi qu\'on l\'appelait communément, où Harry Killer et neuf de ses compagnons du début, promus au rang de conseillers, avaient élu domicile. Singuliers conseillers, que ces complices les plus habituels des crimes de leur chef. Singuliers conseillers, dont la principale fonction était d\'assurer l\'exécution immédiate des ordres d\'un maître inaccessible et presque toujours invisible, et de ses arrêts sans appel.
+
+Un second pont, qu\'une grille solide barrait pendant la nuit, le Castle\'s Bridge[[\[6\]]{.MsoFootnoteReference3}](../Text/Section0004.xhtml#_ftn6053){#_ftnref6053 .pcalibre2 .pcalibre1}, reliait le siège du gouvernement à la rive droite. Au Palais étaient annexées deux casernes, l\'une affectée à douze esclaves faisant fonction de domestiques et à cinquante nègres, choisis parmi ceux dont les instincts naturels avaient été reconnus les plus féroces, qui constituaient la Garde noire, l\'autre à quarante Blancs sélectionnés de la même manière, auxquels était confiée la conduite d\'un égal nombre de machines volantes, qu\'on désignait, à Blackland, sous le nom de planeurs. Admirable invention d\'un cerveau de génie, ces planeurs étaient de prodigieux engins, capables, grâce à des procédés sur lesquels quelques lumières seront bientôt données, de parcourir sans ravitaillement jusqu\'à cinq mille kilomètres à la moyenne de quatre cents kilomètres à l\'heure. Le don d\'ubiquité que les pirates de Blackland semblaient posséder, ils le devaient à ces planeurs, qui leur permettaient de disparaître sitôt le crime accompli, et le pouvoir despotique d\'Harry Killer reposait principalement sur eux.
+
+C\'est par la terreur, en effet, que celui-ci gouvernait l\'empire inconnu dont Blackland était la capitale, et c\'est par la terreur qu\'il avait établi et maintenait son autorité. Toutefois, l\'autocrate n\'avait pas laissé de prévoir la révolte de ses sujets blancs ou noirs. Prudemment, il avait placé le palais de telle sorte qu\'il dominât et tînt perpétuellement sous la menace de ses canons ville, jardin, casernes. Toute révolte aurait donc été le signal d\'un massacre, sans même que les révoltés eussent pu recourir à la fuite. Outre que le désert formait à lui seul une infranchissable barrière, on verra bientôt qu\'une fois entré dans ce repaire, il fallait renoncer à tout espoir d\'en sortir.
+
+Pour le surplus, Blackland était une ville parfaitement propre, bien tenue et pourvue de toutes les commodités possibles. Pas un logement des Merry Fellows ou du Civil Body qui ne possédât le téléphone. Pas une rue, pas une maison, pas même une case du quartier des esclaves qui ne jouît de l\'eau sous pression et ne fût éclairée à l\'électricité.
+
+Aux alentours de la cité, fondée dix ans plus tôt en plein désert, le prodige était plus grand encore.
+
+Si l\'océan de sable l\'entourait toujours, il ne commençait plus maintenant qu\'à quelques kilomètres de son enceinte. Aux abords immédiats de la ville, sur une étendue si grande que l\'horizon en cachait l\'extrémité, le désert avait fait place à des champs cultivés selon les méthodes les plus parfaites, et dans lesquels poussaient, avec un succès croissant d\'année en année, tous les végétaux d\'Afrique et d\'Europe.
+
+Telle était, dans son ensemble, l\'oeuvre d\'Harry Killer, oeuvre qui eût été admirable si elle n\'avait eu le crime pour base et pour objet. Mais comment l\'avait-il réalisée ? Comment avait-il transformé en campagne fertile ces plaines arides et desséchées ? L\'eau est l\'élément indispensable à toute vie animale ou végétale. Pour que l\'homme et les animaux subsistent, pour que la terre produise, il faut de l\'eau. Comment Harry Killer en avait-il doté cette région où, jadis, des années entières s\'écoulaient sans qu\'il tombât une goutte de pluie ? Était-il donc doué d\'un pouvoir magique, pour avoir réalisé, à lui seul, ces miracles ?
+
+Non, Harry Killer ne possédait aucune puissance surnaturelle, et, abandonné à ses propres forces, il eût été assurément incapable d\'accomplir de telles merveilles. Mais Harry Killer n\'était pas seul. Le Palais, où il demeurait avec ceux qu\'il nommait effrontément ses conseillers, les casernes de la Garde noire et les remises des planeurs n\'occupaient ensemble qu\'une infime partie de la dernière section de Blackland. Au milieu du vaste espace demeuré libre, il existait d\'autres constructions, une autre ville plutôt, incluse dans la première, dont les divers bâtiments, les cours et les jardins intérieurs couvraient à eux seuls neuf hectares.
+
+En face du Palais se dressait l\'Usine.
+
+L\'Usine était une cité autonome, indépendante, à laquelle le chef prodiguait l\'argent, qu\'il respectait, que, sans se l\'avouer, il redoutait même un peu. S\'il avait conçu la ville, c\'est l\'Usine qui l\'avait créée, qui l\'avait dotée de tous les perfectionnements modernes, et, en outre, d\'inventions extraordinaires que l\'Europe ne devait connaître que plusieurs années après Blackland.
+
+L\'Usine avait une âme et un corps. L\'âme, c\'était son directeur. Le corps, c\'était une centaine d\'ouvriers appartenant à différentes nationalités, mais surtout à la France et à l\'Angleterre, où ils avaient été choisis parmi les meilleurs dans leurs professions respectives, et d\'où ils avaient été amenés sur un pont d\'or. Chacun d\'eux avait des appointements de ministre, en échange desquels il devait subir la règle inflexible de Blackland.
+
+À peu près tous les corps de métier figuraient parmi ces ouvriers, dont les ajusteurs mécaniciens formaient toutefois la majorité. Quelques-uns d\'entre eux étaient mariés, et, à cette date de l\'histoire de Blackland, l\'Usine contenait vingt-sept femmes, plus un petit nombre d\'enfants.
+
+Cette population d\'honnêtes travailleurs, qui contrastaient si étrangement avec les autres habitants de la ville, logeaient tous dans l\'Usine, d\'où il leur était rigoureusement interdit de jamais sortir. L\'eussent-ils voulu, qu\'ils ne l\'auraient pas pu, une surveillance sévère étant exercée nuit et jour par la Garde noire et par les Merry Fellows. Au surplus, on les avait prévenus en les embauchant, et nul n\'était tenté d\'enfreindre la règle portée à sa connaissance au moment de son engagement.
+
+En échange des appointements très élevés qui leur étaient offerts, ils devaient se considérer comme retranchés du monde pendant le temps qu\'ils passeraient à Blackland. Non seulement ils ne pourraient quitter l\'Usine, mais ils ne pourraient non plus écrire à personne, ni recevoir aucune lettre du dehors. Telles étaient les conditions posées au moment de l\'engagement. Nombreux étaient ceux que leur rigueur faisait reculer. Quelques-uns se laissaient pourtant tenter de temps à autre par l\'élévation du salaire offert. Qu\'a-t-on à perdre, en somme, lorsqu\'on est pauvre, et lorsqu\'il faut lutter pour le pain ? Courir la chance de s\'enrichir valait bien le désagrément de s\'en aller dans l\'inconnu, et, après tout, se disaient-ils, on ne risquait, au maximum, que la vie dans l\'aventure.
+
+Le contrat conclu, il était aussitôt exécuté. L\'homme embauché prenait passage sur un bateau qu\'on lui indiquait, et qui le conduisait à l\'une des îles Bissagos, archipel situé près de la côte de la Guinée portugaise, où il débarquait. Là, il devait consentir à ce qu\'on lui bandât les yeux, et un des planeurs, pour lesquels un abri était aménagé sur un point désert des rivages de l\'archipel l\'emportait en moins de six heures à Blackland, distant de deux mille deux cents kilomètres à vol d\'oiseau. Le planeur descendait dans l\'esplanade séparant le Palais de l\'Usine, et l\'ouvrier, débarrassé de son bandeau, entrait dans cette dernière, pour n\'en plus sortir, jusqu\'au jour où il lui conviendrait de résilier son engagement et de retourner dans son pays.
+
+Sur ce point, le contrat réservait, en effet, la liberté de l\'ouvrier embauché. S\'il était prisonnier, tant qu\'il demeurait à Blackland, il lui était loisible à toute époque de quitter la ville pour toujours.
+
+Ce cas échéant, de cette même esplanade où l\'avait déposé le planeur, un autre planeur l\'emporterait vers les îles Bissagos, où il trouverait un steamer pour le ramener en Europe. Telle était du moins l\'assurance donnée aux ouvriers désireux de partir. Mais ce qu\'ignoraient leurs camarades restés à l\'Usine, c\'est que les hommes ainsi partis n\'étaient jamais arrivés à destination, que leurs os blanchissaient en quelque point du désert et que les salaires qu\'ils emportaient avaient été invariablement repris par celui qui les avait distribués. Ainsi la caisse de ce dernier ne s\'appauvrissait-elle pas, ainsi était gardée secrète l\'existence de Blackland, ainsi l\'empire d\'Harry Killer demeurait inconnu.
+
+Au surplus, ces départs étaient rares. Dans l\'impossibilité de connaître, de soupçonner même quel genre de vie menaient les habitants d\'une ville sur laquelle ils manquaient du renseignement le plus insignifiant, ces ouvriers ne demandaient qu\'exceptionnellement à quitter leur petite cité particulière. Ils y vivaient entre eux, neuf esclaves noirs des deux sexes, prisonniers comme eux-mêmes, aidant les femmes dans les soins domestiques, heureux, en somme, plus heureux, en tout cas, qu\'ils ne l\'avaient été dans leur pays d\'origine, tout à leurs travaux qui les passionnaient à ce point qu\'ils les prolongeaient parfois spontanément fort avant dans la nuit.
+
+Au-dessus d\'eux, les ouvriers n\'avaient qu\'un chef, leur directeur, un Français, du nom de Marcel Camaret, qu\'ils n\'étaient pas loin de considérer comme un dieu.
+
+Marcel Camaret était le seul habitant de l\'Usine qui pût librement en sortir et errer à son gré, soit dans les rues, soit aux environs de Blackland.
+
+Bien qu\'il ne se fît pas faute d\'user de cette liberté et de promener de tous côtés ses rêveries, il ne faudrait pas en conclure qu\'il fût mieux renseigné que le personnel placé sous ses ordres sur les moeurs particulières de cette ville, dont il ignorait jusqu\'au nom.
+
+Un des ouvriers lui ayant demandé un jour ce renseignement, Camaret avait cherché un instant, de bonne foi, puis, au grand étonnement de son subordonné, il avait répondu avec hésitation :
+
+--- Ma foi\... Je ne sais trop\...
+
+Jamais, jusqu\'alors, il n\'avait pensé à s\'informer de ce détail. Il n\'y pensa, d\'ailleurs, pas davantage après que la question lui eut été posée.
+
+C\'était un être étrange que Marcel Camaret.
+
+Il paraissait âgé d\'une quarantaine d\'années. De taille moyenne, ses épaules étroites, sa poitrine plate, ses cheveux ténus et rares d\'un blond fade lui donnaient une apparence délicate et frêle. Ses gestes étaient mesurés, son calme inaltérable, et il parlait, avec une timidité d\'enfant, d\'une voix faible et douce, qui ne s\'élevait jamais au ton de la colère, voire de l\'impatience, dans aucune circonstance quelle qu\'elle fût. Il tenait constamment un peu penchée sur l\'épaule gauche sa tête trop lourde, et son visage, d\'une pâleur mate, aux traits fins et maladifs, n\'avait qu\'une beauté : deux admirables yeux bleus pleins de ciel et de rêve.
+
+Un observateur attentif eût découvert encore autre chose dans ces yeux magnifiques. À de certains moments, une lueur vague et trouble y passait, et, parfois, leur expression avait, pour un instant, quelque chose d\'égaré. Qui eût surpris cette lueur n\'eût pas manqué de soutenir que Marcel Camaret était fou, et peut-être, après tout, ce jugement n\'eût-il pas été très loin de la vérité.
+
+N\'est-elle pas bien petite, en effet, la distance qui sépare l\'homme supérieur du dément ? Par quelque côté le génie ne touche-t-il pas à la folie ?
+
+En dépit de sa timidité, de sa faiblesse physique et de sa douceur, Marcel Camaret était doué d\'une énergie sans limites. Les plus grandes calamités, les dangers les plus imminents, les privations les plus cruelles le laissaient insensible. La raison en est qu\'il les ignorait. Ses limpides yeux bleus ne regardaient qu\'en dedans et ne voyaient rien des contingences extérieures. Il vivait hors du temps, dans un monde féerique tout peuplé de chimères. Il pensait. Il pensait fortement, il pensait uniquement et toujours. Marcel Camaret n\'était qu\'une machine à penser, machine prodigieuse, inoffensive -- et terrible.
+
+Distrait à rendre des points à Saint-Bérain, ou plutôt « étranger » à tout ce qui constitue la vie matérielle, il était plus d\'une fois tombé dans la Red river, en croyant s\'engager sur un pont. Son domestique, auquel un faciès simiesque avait valu le nom de Joko, ne pouvait arriver à le faire manger à des heures régulières. Marcel Camaret mangeait quand il avait faim, et dormait quand il avait sommeil, aussi bien à midi qu\'à minuit.
+
+Dix ans plus tôt, des circonstances qui ne tarderont pas à être connues l\'avaient placé sur le chemin d\'Harry Killer. À cette époque, un surprenant engin, capable, d\'après son inventeur, de provoquer la pluie, était une des chimères de Camaret. Celui-ci ne se faisant pas faute de raconter ses rêveries à qui voulait les entendre, Harry Killer avait connu cette invention, encore toute théorique, en même temps que les autres auditeurs du rêveur.
+
+Mais, alors que ces derniers ne faisaient que rire de pareilles folies, Harry Killer les avait prises au sérieux, au point de baser sur elles le projet qu\'il avait depuis réalisé.
+
+Si Harry Killer était un bandit, du moins était-il un bandit de large envergure, et avait-il eu le mérite de comprendre quel parti il pouvait tirer du génie méconnu de tous. Le hasard ayant mis Camaret à sa merci, il avait fait miroiter aux yeux du savant la réalisation de ses rêves, il l\'avait entraîné jusqu\'à ce point du désert où s\'élevait maintenant Blackland, et avait dit : « Qu\'ici tombe la pluie promise ! » Et la pluie, docilement, s\'était mise à tomber.
+
+Camaret, depuis lors, vivait dans une fièvre perpétuelle. Toutes ses chimères, il les avait matérialisées successivement. Après la machine à provoquer la pluie, son cerveau avait produit cent autres inventions dont Harry Killer avait bénéficié, sans que leur auteur s\'inquiétât jamais de l\'usage qui en était fait.
+
+Certes, un inventeur ne saurait être tenu pour responsable du mal dont il fut, pourtant, la cause indirecte. Il ne viendra à l\'esprit de personne d\'accuser, par exemple, celui qui a imaginé le revolver, de tous les crimes commis à l\'aide de cette arme qui n\'aurait pas existé sans lui. Mais enfin, le créateur de cet agent de meurtre n\'ignorait pas qu\'un pareil instrument pouvait et devait tuer, et c\'est évidemment dans ce but qu\'il l\'a conçu.
+
+Rien de pareil chez Marcel Camaret. S\'il avait eu jamais la fantaisie d\'étudier un canon dont la portée fût plus grande et le projectile plus lourd qu\'on ne l\'avait fait jusqu\'alors, il aurait calculé avec plaisir la forme de la pièce, le poids et le profil de l\'obus et la charge de poudre, sans voir dans cette étude autre chose qu\'une curiosité balistique.
+
+On l\'aurait grandement étonné en lui apprenant que son enfant pouvait, le cas échéant, faire preuve de quelque brutalité.
+
+Harry Killer avait désiré la pluie, et Camaret avait fait pleuvoir ; Harry Killer avait désiré des instruments agricoles, et Camaret avait créé des bineuses, semeuses, sarcleuses, faucheuses et batteuses mécaniques perfectionnées qui binaient, semaient, sarclaient, fauchaient et battaient sans moteur autonome ; Harry Killer avait désiré des machines volantes, et Camaret lui avait donné ces planeurs capables de franchir cinq mille kilomètres à la vitesse d\'un bolide.
+
+Quant à l\'usage que son compagnon pouvait faire de ces diverses inventions, l\'idée n\'était pas venue à Marcel Camaret de se le demander. Être de pure abstraction, il n\'avait vu que les problèmes en eux-mêmes, sans s\'occuper, ni de leur application pratique ni de l\'origine des moyens matériels mis à sa disposition pour les résoudre. Ainsi qu\'il avait assisté sans s\'en apercevoir à la naissance de Blackland et à la substitution progressive d\'une campagne fertile au désert, ainsi il n\'avait jamais eu la moindre velléité de savoir par quels procédés Harry Killer lui avait fourni les premiers instruments et les premières machines avec lesquels l\'Usine avait ensuite fabriqué les autres.
+
+Tout d\'abord, Marcel Camaret avait demandé, comme une chose toute simple, qu\'une usine fût construite, et, aussitôt, des nègres, par centaines, l\'avaient bâtie. Il avait ensuite demandé telle et telle machine-outil, des dynamos et un moteur à vapeur, et, sinon aussitôt, du moins quelques mois plus tard, les machines-outils, les dynamos et le moteur étaient arrivés miraculeusement dans le désert.
+
+Il avait demandé enfin des ouvriers, et, l\'un suivant l\'autre, les ouvriers étaient venus jusqu\'au nombre fixé par lui-même.
+
+Comment ces étonnantes merveilles s\'étaient-elles accomplies ? Marcel Camaret n\'en avait cure. Il avait demandé, il était servi. Rien ne lui paraissait plus simple.
+
+Et, pas davantage, il n\'avait songé à évaluer l\'importance des capitaux absorbés par la réalisation de ses rêves, et jamais il ne s\'était jamais posé cette question si naturelle : « D\'où vient l\'argent ? »
+
+Les principaux traits de Blackland et de ses habitants ayant été ainsi indiqués, il est possible d\'en récapituler en peu de mots les caractéristiques essentielles.
+
+Sur la rive gauche de la Red River, le Palais, avec Harry Killer, ses neuf acolytes et les douze domestiques noirs. À proximité, les cinquante hommes de la Garde noire et les quarante conducteurs de planeurs dans leurs casernes respectives.
+
+Sur la même rive, en face du Palais, l\'autre tête de la cité, l\'Usine, son directeur, Marcel Camaret, « marchant, vivant dans un rêve étoilé », le domestique Joko, les neuf autres serviteurs noirs et les cent ouvriers, dont vingt-sept mariés, tous prisonniers dans cette cité autonome et sans aucune communication avec le reste de Blackland.
+
+Sur la rive droite, les Merry Fellows, au nombre de cinq cent soixante-six, officiers compris, tous gens de sac et de corde, les deux cent quarante et un Blancs et les quarante-cinq femmes blanches de même acabit formant le Civil Body, et enfin le vaste quartier central des Noirs, où vivent, peinent et souffrent le surplus des esclaves, soit cinq mille sept cent six nègres des deux sexes.
+
+Tels sont les lieux où vont se dérouler les événements que la seconde partie de ce récit se propose de raconter.
+
+Au moment où elle commence, tout était comme à l\'ordinaire à Blackland. Le personnel de l\'Usine travaillait, un certain nombre des Merry Fellows surveillaient les nègres employés aux travaux agricoles que nécessitait l\'approche de la saison des pluies, tandis que les autres se livraient, de même que chaque jour, aux plus grossiers plaisirs, et le Civil Body s\'occupait un peu vaguement de son négoce des plus restreints et des plus irréguliers.
+
+Vers onze heures du matin environ, Harry Killer était seul dans son appartement personnel. Il réfléchissait profondément, et ses pensées ne devaient pas être plaisantes, à en juger par l\'expression de son visage.
+
+La sonnerie du téléphone retentit.
+
+--- J\'écoute ! dit Harry Killer en s\'emparant du récepteur.
+
+--- Ouest, dix-sept degrés sud, dix planeurs en vue, lui annonça le téléphone. -- Je monte, répondit Harry Killer, qui raccrocha l\'appareil. En quelques minutes, il atteignit le faîte du Palais, au-dessus duquel s\'élevait une tour d\'une dizaine de mètres de hauteur, où il monta également. Sur la plate-forme se trouvait le Merry Fellow qui l\'avait averti :
+
+--- Là, fit celui-ci, en montrant un point de l\'espace.
+
+De nouveau, il fouilla l\'horizon de l\'ouest. Puis, abaissant la longue-vue : -- Appelle les conseillers, Roderik, dit-il. Je descends.
+
+Tandis que le Merry Fellow exécutait l\'ordre reçu en téléphonant aux divers membres du Conseil, Harry Killer descendit rapidement jusqu\'à l\'esplanade ménagée entre l\'Usine et le Palais.
+
+Successivement les neuf conseillers vinrent l\'y rejoindre.
+
+Les yeux levés vers le ciel, ils attendirent.
+
+Leur attente fut brève. Les planeurs signalés grossissaient à vue d\'oeil. Quelques minutes plus tard, ils atterrissaient doucement sur l\'esplanade. Les yeux d\'Harry Killer brillèrent de plaisir. Si quatre des planeurs ne contenaient que leurs conducteurs respectifs, les six autres transportaient chacun deux passagers supplémentaires : un homme de la Garde noire et un prisonnier étroitement garrotté, et dont une étoffe disposée en forme de sac emprisonnait le buste.
+
+Les six prisonniers furent délivrés de leurs entraves. Quand leurs yeux éblouis eurent repris l\'habitude du grand jour, ils regardèrent autour d\'eux avec surprise. Ils se trouvaient sur une vaste place entourée de tous côtés par d\'infranchissables murailles. À quelques pas, les appareils étranges qui les avaient transportés dans les airs. Devant eux, la masse énorme du Palais surmonté de sa tour, et trente nègres de la Garde noire massés en un groupe compact. Plus près, un autre groupe de dix hommes d\'aspect peu rassurant. Derrière eux, à plus de cent mètres, un mur long de deux cent cinquante mètres sans porte ni fenêtre, au-dessus duquel apparaissait une haute cheminée d\'usine et un frêle pylône métallique plus élevé encore, dont l\'usage leur était inconnu. Où étaient-ils ? Quelle était cette forteresse que n\'indiquait aucune des cartes de l\'Afrique, dont, tous, ils avaient fait une étude attentive et patiente ?
+
+Tandis qu\'ils se posaient ces questions, Harry Killer fit un signe, et, sur l\'épaule de chaque prisonnier, une main brutale s\'abattit.
+
+Bon gré, mal gré, il leur fallut marcher vers le Palais, dont la porte s\'ouvrit devant eux et se referma derrière eux.
+
+Jane Buxton, Saint-Bérain, Barsac, Amédée Florence, le docteur Châtonnay et M. Poncin étaient définitivement au pouvoir d\'Harry Killer, autocrate de Blackland, capitale inconnue d\'un empire inconnu.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}

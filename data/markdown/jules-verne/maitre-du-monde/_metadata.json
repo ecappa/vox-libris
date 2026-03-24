@@ -1,0 +1,209 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "MAÎTRE DU MONDE",
+  "slug": "maitre-du-monde",
+  "nombre_chapitres": 18,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Ce qui se passe dans le pays",
+      "slug": "chapitre-1-ce-qui-se-passe-dans-le-pays",
+      "is_part": false,
+      "spine_start": 1861,
+      "spine_end_exclusive": 1862,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_100.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – À Morganton",
+      "slug": "chapitre-2-a-morganton",
+      "is_part": false,
+      "spine_start": 1862,
+      "spine_end_exclusive": 1863,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_101.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Great-Eyry",
+      "slug": "chapitre-3-great-eyry",
+      "is_part": false,
+      "spine_start": 1863,
+      "spine_end_exclusive": 1864,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_102.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Un concours de l'Automobile-Club",
+      "slug": "chapitre-4-un-concours-de-lautomobile-club",
+      "is_part": false,
+      "spine_start": 1864,
+      "spine_end_exclusive": 1865,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_103.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – En vue du littoral de la Nouvelle-Angleterre",
+      "slug": "chapitre-5-en-vue-du-littoral-de-la-nouvelle-angleterre",
+      "is_part": false,
+      "spine_start": 1865,
+      "spine_end_exclusive": 1866,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_104.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Première lettre",
+      "slug": "chapitre-6-premiere-lettre",
+      "is_part": false,
+      "spine_start": 1866,
+      "spine_end_exclusive": 1867,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_105.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Et de trois",
+      "slug": "chapitre-7-et-de-trois",
+      "is_part": false,
+      "spine_start": 1867,
+      "spine_end_exclusive": 1868,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_106.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – À tout prix",
+      "slug": "chapitre-8-a-tout-prix",
+      "is_part": false,
+      "spine_start": 1868,
+      "spine_end_exclusive": 1869,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_107.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Seconde lettre",
+      "slug": "chapitre-9-seconde-lettre",
+      "is_part": false,
+      "spine_start": 1869,
+      "spine_end_exclusive": 1870,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_108.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Hors la loi",
+      "slug": "chapitre-10-hors-la-loi",
+      "is_part": false,
+      "spine_start": 1870,
+      "spine_end_exclusive": 1871,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_109.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – En campagne",
+      "slug": "chapitre-11-en-campagne",
+      "is_part": false,
+      "spine_start": 1871,
+      "spine_end_exclusive": 1872,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_110.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – La crique de Black-Rock",
+      "slug": "chapitre-12-la-crique-de-black-rock",
+      "is_part": false,
+      "spine_start": 1872,
+      "spine_end_exclusive": 1873,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_111.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – À bord de l'Épouvante",
+      "slug": "chapitre-13-a-bord-de-lepouvante",
+      "is_part": false,
+      "spine_start": 1873,
+      "spine_end_exclusive": 1874,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_112.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Le Niagara",
+      "slug": "chapitre-14-le-niagara",
+      "is_part": false,
+      "spine_start": 1874,
+      "spine_end_exclusive": 1875,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_113.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Le nid de l'aigle",
+      "slug": "chapitre-15-le-nid-de-laigle",
+      "is_part": false,
+      "spine_start": 1875,
+      "spine_end_exclusive": 1876,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_114.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Robur-le-Conquérant",
+      "slug": "chapitre-16-robur-le-conquerant",
+      "is_part": false,
+      "spine_start": 1876,
+      "spine_end_exclusive": 1877,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_115.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Au nom de la loi !",
+      "slug": "chapitre-17-au-nom-de-la-loi",
+      "is_part": false,
+      "spine_start": 1877,
+      "spine_end_exclusive": 1878,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_116.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Le dernier mot à la vieille Grad",
+      "slug": "chapitre-18-le-dernier-mot-a-la-vieille-grad",
+      "is_part": false,
+      "spine_start": 1878,
+      "spine_end_exclusive": 1879,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_117.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "ZOLA"
+slug_oeuvre: "zola"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ANNEXES
+
+ZOLA
+
+Liste des annexes
+
+ !
+
+## Introduction
+Je ne m'occuperai ici, strictement, que de l'oeuvre littéraire de l'écrivain célèbre qui vient de mourir.7(../Text/Zola9_split_043.htm#_ftn7)
+
+Émile Zola a eu une carrière littéraire de quarante années environ, ses débuts remontant à 1863 et sa fin tragique et prématurée étant survenue,\--alors qu'il écrivait encore et se proposait d'écrire longtemps,\--le 29 septembre 1902. Pendant ces quarante années, il a écrit une quarantaine de volumes, ce qui a fait pousser des cris d'admiration à ses thuriféraires et ce qui n'est qu'une production normale, beaucoup moins intense que celle de Voltaire, de Corneille, de Victor Hugo, de Guizot, de George Sand ou de Thiers. En général, il « se documentait » pendant trois ou quatre mois, écrivait pendant trois mois, à raison de quatre pages par jour, et se reposait, en quoi il avait raison, le reste du temps.
+
+Ses études, où il avait brillé surtout en thème latin, en récitation et en instruction religieuse, avaient été fort bonnes. Il semble ne les avoir pas complétées par cette éducation que l'on se donne à soi-même et qui est la seule qui vaille, ayant, dès la vingtième année, été forcé de gagner sa vie d'abord comme employé de librairie, ensuite comme écrivain. Il écrivit trop tôt. Tout homme qui écrit avant trente ans et qui ne consacre pas l'âge d'or de la vie, de la vingtième année à la trentième, à lire, à observer et à réfléchir, sans écrire une ligne, risque de n'avoir pas de cerveau et de n'être qu'un ouvrier littéraire. Il y a des exceptions ; mais elles sont rares.
+
+On peut, assez raisonnablement, diviser la carrière littéraire d'Émile Zola en trois périodes. Avant *les Rougon-Macquart*, *les Rougon-Macquart*, après *les Rougon-Macquart* ; c'est-à-dire avant 1870, de 1870 à 1893, après 1893. Avant 1870 c'est Émile Zola qui s'essaye et qui se cherche ; de 1870 à 1893 c'est Émile Zola qui s'est trouvé et qui s'exprime ; depuis 1893 c'est Émile Zola déclinant et n'écrivant plus qu'avec ses procédés, ses recettes et ses manies.

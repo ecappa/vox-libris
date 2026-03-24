@@ -1,0 +1,277 @@
+### []{#_Toc342981606 .pcalibre2 .pcalibre1}[]{#_Toc342979241 .pcalibre2 .pcalibre1}[[Chapitre II -- L\'exploration et la colonisation de l\'Afrique]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943260 .pcalibre2 .pcalibre1} {#chapitre-ii-lexploration-et-la-colonisation-de-lafrique .MsoToc .sigil_not_in_toc}
+
+### I {#i .MsoToc .sigil_not_in_toc}
+
+Peddie et Campbell dans le Soudan. -- Richtie et Lyon dans le Fezzan. -- Denham, Oudney et Clapperton au Fezzan, dans le pays des Tibbous. -- Le lac Tchad et ses affluents. -- Kouka et les principales villes du Bornou. -- Le Mandara. -- Une razzia chez les Fellatahs. -- Défaite des Arabes et mort de Bou-Khaloum. -- Le Loggoun. -- Mort de Toole. -- En route pour Kano. --  Mort du docteur Oudney. -- Kano. -- Sackatou. -- Le sultan Bello. -- Retour en Europe.
+
+
+A peine la puissance de Napoléon I^er^ vient-elle de s'écrouler et avec elle la prépondérance de la France, à peine ces luttes gigantesques, pour l\'ambition d'un seul, qui arrêtent le développement scientifique de l'humanité, se sont-elles terminées, que, de tous côtés, les nobles aspirations se réveillent, les entreprises scientifiques ou commerciales recommencent. Une ère nouvelle vient de se lever.
+
+Au premier rang des puissances qui encouragent et qui organisent des voyages de découvertes, il faut, comme toujours, placer l'Angleterre. Son activité se porte sur l'Afrique centrale, sur ces pays dont les reconnaissances d'Hornemann et de Burckhardt ont fait soupçonner la richesse prodigieuse.
+
+Tout d'abord, en 1816, c'est le major Peddie, qui part du Sénégal et se dirige vers Kakondy, située sur le Rio-Nunez. A peine arrivé dans cette ville, Peddie succombe aux fatigues de la route et à l\'insalubrité du climat. Le major Campbell lui succède dans le commandement de l'expédition et traverse les hautes montagnes du Fotau-Djallon, mais il perd en peu de jours une partie des animaux de charge et plusieurs hommes.
+
+Arrivée sur les terres de l\'« almamy » --- titre que portent la plupart des souverains de cette partie de l'Afrique, --- l'expédition est retenue dans ce royaume, et n'obtient la permission de revenir qu\'après le payement d'une contribution considérable.
+
+Désastreuse fut cette retraite, pendant laquelle il fallut, non seulement traverser à nouveau les rivières dont le passage avait été si pénible, mais endurer des tracasseries, des persécutions, des exactions telles que, pour les faire cesser, le major Campbell se vit forcé de faire brûler ses marchandises, briser ses fusils, et noyer sa pondre.
+
+A tant de fatigues, à la ruine de ses espérances, à l\'échec complet de sa tentative, le major Campbell ne put résister, et il mourut, avec plusieurs de ses officiers, à l\'endroit même où s'était éteint le major Peddie. Ce qui restait de l'expédition regagna avec peine Sierra-Leone.
+
+Un peu plus tard, ce sont Richtie et le capitaine Georges-Francis Lyon, qui, profitant du prestige que le bombardement d'Alger vient d'apporter au pavillon britannique et des relations que le consul anglais de Tripoli a su se créer parmi les personnages importants de la Régence, entreprennent de suivre la route tracée par Hornemann et de pénétrer jusqu'au centre même de l'Afrique.
+
+Le 25 mars 1819, ces voyageurs partent de Tripoli avec Mohammedel-Moukni, bey du Fezzan, qui prend le titre de sultan sur son territoire. Grâce à cette puissante escorte, Richtie et Lyon arrivent sans encombre jusqu'au Mourzouk. Mais là, les fatigues du voyage à travers le désert, les privations, les ont tellement épuisés, que Richtie meurt le 20 novembre. Lyon, longtemps malade, ne se rétablit que pour déjouer les entreprises perfides du sultan, qui, spéculant déjà sur la mort des voyageurs, cherche à s'emparer de leurs bagages. Lyon ne peut donc s'avancer au-delà des frontières méridionales du Fezzan ; mais il a cependant le temps de recueillir de précieuses informations sur les principales villes de cet État et sur la langue des habitants. En même temps, on lui doit les premiers renseignements authentiques relatifs aux Touaregs, ces sauvages habitants du grand désert, sur leur religion, leurs coutumes, leur langage et leur costume singulier.
+
+La relation du capitaine Lyon est également riche en détails, non plus vus, mais triés avec soin, sur le Bornou, le Wadaï et le Soudan en général.
+
+Les résultats obtenus n'étaient pas pour satisfaire l'avidité anglaise, qui voulait ouvrir à ses négociants les riches marchés de l'intérieur. Aussi, les propositions faites au gouvernement par un Écossais, le docteur Walter Oudney, qu'avaient enflammé les récits de Mungo-Park, furent-elles accueillies favorablement. Il avait pour ami un lieutenant de vaisseau, de trois ans plus âgé que lui, Hugues Clapperton, qui s'était distingué sur les lacs canadiens et en maintes circonstances, mais auquel la pacification de 1815 avait créé des loisirs forcés en le réduisant à la demi-solde.
+
+La confidence que le docteur Oudney fit à Clapperton de son projet de voyage le décida sur-le-champ à faire partie de cette aventureuse expédition. Le docteur Oudney sollicita du ministère l'aide de cet officier entreprenant, dont les connaissances spéciales lui devaient être du plus grand secours. Lord Bathurst ne fit aucune difficulté, et les deux amis, après avoir reçu, des instructions détaillées, s\'embarquèrent pour Tripoli, où ils apprirent bientôt qu'ils allaient avoir pour chef le major Dixon Denham.
+
+Né à Londres, le 31 décembre 1785, Denham avait d'abord été commis chez un régisseur de grandes propriétés rurales. Entré dans l'étude d'un attorney, son peu de goût pour les affaires, son caractère audacieux, en quête d'aventures, l'avaient bientôt poussé à s'engager dans un régiment qui partait pour l'Espagne. Jusqu'en 1815, il s'était battu ; puis, il avait mis ses loisirs à profit pour visiter la France et l'Italie.
+
+Amoureux de la gloire, Denham avait cherché la carrière qui pût lui donner rapidement, même au péril de la vie, les satisfactions qu'il ambitionnait, et il s'était déterminé pour celle d'explorateur. Chez lui, l'action suivait de près la pensée. Il proposa au ministère de se rendre à Tombouctou par la route que Laing devait suivre plus tard. Lorsqu'il apprit quelle mission avait été confiée au lieutenant Clapperton et au docteur Oudney, il sollicita la faveur de leur être adjoint.
+
+Sans retard, muni des objets qu'il croit nécessaires à son expédition, après avoir engagé un habile charpentier, nommé William Hillman, Denham s'embarque pour Malte et rejoint ses futurs compagnons de voyage à Tripoli, le 21 novembre 1821. Le nom anglais jouissait à cette époque d'un très grand prestige, non seulement dans les États barbaresques, à cause du récent bombardement d'Alger, mais aussi parce que le consul de la Grande-Bretagne à Tripoli avait su, par une politique habile, se maintenir en bons termes avec le gouvernement de la régence.
+
+Cette influence n'avait même pas tardé à rayonner hors de ce cercle restreint. La nationalité de certains voyageurs, la protection dont l'Angleterre avait entouré la Porte, le bruit de ses luttes et de ses victoires dans l'Inde, tout cela avait vaguement pénétré dans l'intérieur de l'Afrique, et le nom anglais, sans qu'on pût donner des détails précis, y était désormais connu. La route de Tripoli au Bornou était aussi sûre que celle de Londres à Édimbourg, à en croire le consul britannique. C'était donc le moment de profiter de facilités qui pourraient bien ne pas se représenter de sitôt.
+
+Les trois voyageurs, après un bienveillant accueil du bey, qui mit ses  ressources à leur disposition, s'empressèrent de quitter Tripoli. Grâce à l'escorte fournie par lui, ils purent gagner facilement Mourzouk, la capitale du Fezzan, le 8 avril 1822.
+
+En certaines localités, ils avaient même été reçus avec une bienveillance et des transports qui touchaient presque à l'enthousiasme.
+
+« A Sockna, raconte Denham, le gouverneur vint à notre rencontre et nous aborda dans la plaine. Il était accompagné des principaux habitants et de plusieurs centaines de paysans, qui entouraient nos chevaux, nous baisaient les mains avec toute l\'apparence de la franchise et du plaisir. Nous entrâmes ainsi dans la ville. Les mots : *Inglesi ! Inglesi !* étaient répétés par la foule, et cette réception nous était d\'autant plus agréable que nous étions les premiers Européens qui n'eussent point changé d\'habit, et je suis persuadé que notre réception eût été beaucoup moins amicale, si nous avions voulu passer pour Mahométans et nous abaisser au rôle d'imposteurs. »
+
+Mais, à Mourzouk, devaient se renouveler toutes les tracasseries qui avaient paralysé Hornemann. Toutefois, les circonstances, comme les hommes, étaient changées. Sans se laisser éblouir par les grands honneurs que le sultan leur rendait, les Anglais, qui visaient au sérieux, demandèrent l'escorte nécessaire pour gagner le Bornou.
+
+Il était impossible de partir avant le printemps suivant, leur répondait-on, à cause de la difficulté de réunir la « kafila », ou caravane, et les troupes qui devaient l'escorter à travers des régions désertes.
+
+Cependant, un riche marchand, du nom de Bou-Baker-Bou-Khaloum, ami particulier du pacha, fit entendre aux Anglais que, s'il recevait quelques présents, il se faisait fort d'aplanir bien des difficultés. Il se chargeait même de les conduire dans le Bornou, pays où il se rendait lui-même, si le pacha de Tripoli lui en donnait l\'autorisation.
+
+Denham, persuadé de la véracité de Bou-Khaloum, comprit qu'il fallait obtenir cette autorisation et gagna Tripoli. Ne recevant que des réponses évasives, il menaça de s'embarquer pour l'Angleterre, où il allait, disait-il, rendre compte des entraves qu'apportait le pacha à l\'accomplissement de la mission dont il était chargé.
+
+Ces menaces ne produisant pas d'effet, Denham mit à la voile, et il allait débarquer à Marseille, lorsqu'il reçut du bey un message qui le rappelait et lui donnait satisfaction, en autorisant Bou-Khaloum à accompagner les trois voyageurs.
+
+Le 30 octobre, Denham rentrait à Mourzouk, où il retrouvait ses compagnons,  très violemment attaqués des fièvres et minés par la désastreuse influence du climat.
+
+Persuadé que le changement d'air rétablirait leur santé compromise, Denham les fit partir et voyager à petites journées. Lui-même quitta Mourzouk le 29 novembre avec une caravane composée de marchands de Mesurata, de Tripoli, de Sockna et de Mourzouk, qu'accompagnait une escorte de deux cent dix Arabes, commandés par Bou-Khaloum, guerriers choisis parmi les tribus les plus éclairées et les plus soumises.
+
+L'expédition suivit la route qu'avait parcourue le lieutenant Lyon et gagna bientôt Tegherhy, ville la plus méridionale du Fezzan, et la dernière qu'on rencontre avant de pénétrer dans le désert de Bilma.
+
+« Je fis si bien, dit Denham, que je dessinai une vue du château de Tegherhy, prise de la rive méridionale d'un étang salé contigu à cette ville. On entre à Tegherhy par un passage étroit, bas et voûté, puis on trouve une seconde muraille et une porte ; le mur est percé de meurtrières, qui rendraient très difficile l'entrée par ce passage resserré. Au-dessus de la seconde porte, il y a aussi une ouverture d'où l'on pourrait lancer sur les assaillants des traits et des tisons enflammés, dont les Arabes faisaient autrefois un grand usage. Il y a, dans l'intérieur, des puits dont l'eau est assez bonne. Aussi, avec des munitions et des vivres, si cette place était réparée, je pense qu\'elle pourrait faire une bonne défense. La situation de Tegherhy est vraiment agréable. Tout à l'entour croissent des dattiers, et l'eau y est excellente. Une chaîne de collines basses se prolonge à l'est. Les bécassines, les canards et les oies sauvages fréquentent les étangs salés qui sont près de la ville. »
+
+Les voyageurs pénétrèrent, en quittant cette ville, dans un désert de sable, à travers lequel il n'aurait pas été facile de se diriger, si la route n'eût été jalonnée de squelettes d'animaux et d\'hommes qu'on rencontrait surtout auprès des puits.
+
+« Un des squelettes que nous vîmes aujourd\'hui, raconte Denham, paraissait encore tout frais ; sa barbe tenait à son menton, on distinguait ses traits. Un des marchands de la kafila s'écria tout à coup : C'était mon esclave ! Il y a quatre mois, je le laissai près d'ici. --- Et vite, vite, mène-le au marché ! cria un marchand d'esclaves facétieux, de crainte qu'un autre ne le réclame ! »
+
+A travers le désert, il y a certaines étapes marquées par des oasis, au milieu desquelles s'élèvent des villes plus ou moins importantes. Kishi est un des rendez-vous les plus fréquentés des caravanes. C'est là qu'on paye le droit de passage à travers le pays. Le sultan de cette ville, --- on verra plus d'un de ces potentats minuscules prendre le titre du commandeur des croyants, --- le sultan de Kishi se faisait remarquer par une absence complète de propreté, et sa cour n\'offrait guère un aspect plus ragoûtant, si l'on en croit Denham.
+
+« Il vint, dit le voyageur, dans la tente de Bou-Khaloum, accompagné d'une demi-douzaine de Tibbous dont quelques-uns étaient vraiment hideux. Leurs dents étaient d'un jaune foncé, car ils aiment tant le tabac en poudre qu'ils en prennent par le nez et par la bouche. Leur nez ressemblait à un petit morceau de chair arrondi fiché sur leur figure ; leurs narines étaient si grandes que leurs doigts pouvaient y pénétrer aussi avant qu'ils voulaient. Ma montre, ma boussole, ma tabatière à musique, ne leur causèrent que peu d'étonnement. C'étaient de vraies brutes à face humaine. »
+
+La ville de Kirby, qu'on rencontre un peu plus loin, dans le voisinage d'une chaîne de collines dont les plus hautes ne dépassent pas quatre cents pieds, est située dans un « ouady », entre deux lacs salés qui, suivant toute vraisemblance, doivent leur origine aux excavations faites pour prendre la terre nécessaire aux constructions. Au milieu de ces lacs s'élève, comme un îlot, une masse de muriate et de carbonate de soude. Ce sel, que fournissent les ouadys, très nombreux dans la contrée, est l'objet d'un important commerce avec le Bornou et tout le Soudan.
+
+Quant à Kirby, il est impossible de voir une ville plus misérable. « Il n'y a rien dans les maisons, pas même une natte. » Et comment en pourrait-il en être autrement, dans une cité exposée aux incessantes razzias des Touaregs ?
+
+La caravane traversait alors le pays des Tibbous, peuple hospitalier et paisible, auquel les caravanes payent un droit de passage comme gardien des puits et citernes qui jalonnent le désert. Vifs et actifs, montés sur des chevaux très agiles, la plupart des Tibbous ont une adresse singulière à manier la lance, que les plus vigoureux guerriers jettent jusqu\'à deux cent quarante pieds. Bilma est leur capitale et la résidence de leur sultan.
+
+« Celui-ci, dit la relation, vint au-devant des étrangers avec un nombreux cortège d'hommes et de femmes. Ces dernières étaient bien mieux que celles des petites villes ; quelques-unes avaient des traits fort agréables, leurs dents blanches et bien rangées contrastaient admirablement avec le noir éclatant de leur peau et avec la tresse triangulaire qui pendait de chaque côté de leur visage dégoûtant d'huile ; des pendeloques de corail au nez et de grands colliers d'ambre les rendaient tout à fait séduisantes. Les unes avaient un « cheiche » ou éventail fait d\'herbes minces ou de crin pour écarter les mouches, d'autres une branche d'arbre ; celles-ci des éventails de plumes d'autruche, celles-là un paquet de clefs ; toutes tenaient quelque chose à la main et l'agitaient au-dessus de leur tête en avançant. Un morceau d'étoffe du Soudan, attaché sur l'épaule gauche et laissant le côté droit découvert, composait leur habillement ; un autre, plus petit, entourait leur tête et leur descendait sur les épaules, ou bien était jeté en arrière. Quoi qu'elles parussent très peu vêtues, rien de moins immodeste que leur air ou leur maintien. »
+
+A un mille de Bilma, au-delà d'une source limpide, qui semble avoir été placée là par la nature pour inviter le voyageur à s'approvisionner d'eau, commence un désert dont la traversée n'exige pas moins de dix jours. C'était autrefois, sans doute, un immense lac salé.
+
+Le 4 février 1828, la caravane atteignit Lari, ville située sur la rivière septentrionale du Bornou par 14° 40\' de latitude nord.
+
+Les habitants, effrayés de la force de la caravane, s'enfuirent, frappés de terreur.
+
+« Mais la tristesse que ce spectacle nous causait, dit Denham, fit bientôt place à une sensation toute différente, lorsque nous découvrîmes plus loin, à moins d'un mille du lieu où nous étions, le grand lac Tchad, réfléchissant les rayons du soleil. La vue de cet objet, si intéressant pour nous, produisit en moi une satisfaction et une émotion dont aucune expression ne serait assez énergique pour rendre la force et la vivacité. »
+
+A partir de Lari, l'aspect du pays changeait complètement. Aux déserts sablonneux succédait une terre argileuse, couverte de gazon, semée d\'acacias et d'arbres d'essences variées, au milieu desquels on apercevait des troupeaux d'antilopes, tandis que les poules de Guinée et les tourterelles de Barbarie faisaient chatoyer leur plumage à travers la verdure. Les villes succédaient aux villages, composés de huttes en forme de cloche et couvertes avec la paille de dhourra.
+
+Les voyageurs continuèrent à s'avancer vers le sud, en contournant le lac Tchad, qu'ils avaient attaqué par la pointe septentrionale. Près des bords de cette nappe liquide, le terrain était vaseux, noir et ferme. L'eau, s'élevant beaucoup dans la saison d'hiver, baisse proportionnellement en été ; elle est douce, poissonneuse, peuplée d'hippopotames et d\'oiseaux aquatiques. A peu près au milieu du lac, dans le sud-est, sont des îles habitées par les Biddomah, peuple habitué à vivre du pillage qu'il fait sur le continent.
+
+Les étrangers avaient envoyé un courrier au cheik El-Khanemi, afin de lui demander l'autorisation de gagner sa capitale. Un envoyé rejoignit bientôt la caravane, invitant Bou-Khaloum et ses compagnons à se diriger vers Kouka.
+
+Dans leur route, les étrangers passèrent à Beurwha, ville fortifiée qui avait jusqu'alors défié les attaques des Touaregs, et ils traversèrent l'Yeou, grande rivière dont la largeur, dans quelques endroits, mesure plus de cent cinquante pieds. Cet affluent du Tchad vient du Soudan.
+
+Sur la rive méridionale de cette rivière, s'élève une jolie ville murée, appelée également Yeou, et moitié moins grande que Beurwha.
+
+La khafila arriva bientôt après aux portes de Kouka, et fut reçue le 17 février, après deux mois et demi de marche, par un corps d'armée de quatre mille hommes, qui manœuvraient avec un ensemble parfait. Parmi ces troupes, se trouvait un corps de noirs, formant la garde particulière du cheik, et dont l'armement rappelait celui des anciens chevaliers.
+
+« Ils portaient, dit Denham, des cottes de mailles en chaînons de fer qui couvraient la poitrine jusqu'au cou, se rattachaient au-dessus de la tête et descendaient séparément par devant et par derrière, de manière à tomber sur les lianes du cheval et à couvrir les cuisses du cavalier. Ils avaient des espèces de casques ou calottes de fer retenues par des turbans jaunes, rouges ou blancs, noués sous le menton. Les têtes des chevaux étaient également défendues par des plaques de même métal. Leurs selles étaient petites et légères ; leurs étriers, d'étain. On n'y peut placer que le bout du pied, qui est revêtu par une sandale  de cuir ornée de peau de crocodile. Ils montaient tous admirablement à cheval et coururent vers nous au grand galop, ne s'arrêtant qu'à quelques pas de nous, agitant leurs lances renversées du côté de Bou-Khaloum en criant : Barca ! Barca ! Bienvenue ! Bienvenue ! »
+
+Entourés de cette fantasia brillante, les Anglais et les Arabes pénétrèrent dans la ville, où un appareil militaire tout semblable avait été déployé en leur honneur.
+
+Ils furent bientôt admis en la présence du cheik El-Khanemi. Ce personnage paraissait âgé de quarante-cinq ans. Sa physionomie prévenait en sa faveur ; elle était riante, spirituelle et bienveillante.
+
+Les Anglais lui remirent les lettres du pacha. Lorsque le cheik en eut terminé la lecture, il demanda à Denham ce que lui et ses compagnons venaient faire dans le Bornou.
+
+« Uniquement voir le pays, répondit Denham, et nous renseigner sur ses habitants, sa nature et ses productions.
+
+--- Soyez les bienvenus, répliqua le cheik. Vous montrer chaque chose sera un plaisir pour moi. J\'ai ordonné que l'on construisît des cases pour vous dans la ville ; allez les voir avec un de mes gens, et s'il y a quelque chose de défectueux ne craignez pas de le dire. »
+
+Les voyageurs reçurent bientôt l'autorisation d'emporter les dépouilles des animaux et des oiseaux qui leur paraîtraient intéressants et de prendre des notes sur tout ce qu'ils pourraient observer. C'est ainsi qu'ils recueillirent quantité de renseignements sur les villes voisines de Kouka.
+
+Kouka, alors capitale du Bornou, possédait un marché où se vendaient des esclaves, des moutons, des bouvards, du froment, du riz, des arachides, des haricots, de l'indigo et bien d'autres productions de la contrée. Une grande animation ne cessait de régner dans les rues de cette ville, qui ne comptait pas moins de quinze mille habitants.
+
+Angornou était aussi une grande cité murée, qui ne renfermait pas moins de trente mille âmes. C'était l'ancienne capitale du pays. Son marché était très important. On y avait vu jusqu'à cent mille individus s'y disputer à prix d'argent le poisson, la volaille et la viande, qu'on y vend crus ou cuits, le laiton, le cuivre l'ambre et le corail. La toile de lin était à si bas prix dans ce district que la plupart des hommes avaient une chemise et un pantalon. Aussi, les mendiants ont-ils une singulière manière d'exciter la compassion : ils se placent aux entrées du marché, et, tenant à la main les lambeaux d\'un vieux pantalon, ils prennent un air piteux et disent aux passants : « Voyez, je n'ai pas de culottes. » La nouveauté du procédé, la demande de ce vêtement plus nécessaire à leurs yeux que la nourriture, fit rire aux éclats le voyageur, lorsqu\'il en fut pour la première fois témoin.
+
+Jusqu'alors, les Anglais n\'avaient eu affaire qu'au cheik, qui, se contentant d\'un pouvoir effectif, abandonnait la puissance nominale au sultan. Singulier personnage que ce souverain, qui ne se laissait voir, comme un animal curieux et malfaisant, qu'à travers les barreaux d\'une cage de roseaux, près de la porte de son jardin ! Modes bizarres que celles qui régnaient à cette cour, où tout élégant devait avoir un gros ventre et se donner par des moyens factices une obésité qu'on considère généralement comme très gênante !
+
+Certains raffinés, lorsqu'ils étaient à cheval, avaient même un ventre si rembourré et si proéminent qu\'il semblait pendre par-dessus le pommeau de la selle. Avec cela, l'élégance exigeait qu'on eût un turban d'une envergure et d'un poids tels, qu'ils forçaient souvent ceux qui les portaient à pencher la tête de côté.
+
+Ces fantaisies baroques rappelaient à s'y méprendre celles des Turcs de bal masqué. Aussi, les voyageurs eurent-ils grand peine à conserver leur gravité en face de ces grotesques.
+
+Mais, à côté de ces réceptions solennellement amusantes, que d'observations nouvelles, que de renseignements intéressants à recueillir, que de « desiderata » à combler !
+
+Denham aurait voulu s'enfoncer tout de suite dans le sud. Or, le cheik se refusait à compromettre la sécurité des voyageurs que le bey de Tripoli lui avait confiés. Depuis qu\'ils étaient entrés dans le territoire du Bornou, la responsabilité de Bou-Khaloum ayant pris fin, celle du cheik était engagée.
+
+Si vives, cependant, furent les instances de Denham, qu\'il obtint d'El-Khanemi l'autorisation d'accompagner Bou-Khaloum dans une « ghrazzie » ou razzia qu'il méditait sur les Kaffirs ou infidèles.
+
+L'armée du cheik et la troupe des Arabes traversèrent tour à tour Yeddie, grande ville murée à vingt milles d\'Angornou, Affagay, et plusieurs autres cités, bâties sur un sol d\'alluvion, qui présente un aspect argileux de couleur foncée.
+
+A Delow, les Arabes pénétrèrent dans le Mandara, dont le sultan vint au-devant d'eux, à la tête de cinq cents cavaliers.
+
+« Mohammed-Becker était de petite taille, dit Denham, et âgé d'environ cinquante ans ; sa barbe était teinte en bleu céleste de la plus belle nuance. »
+
+Les présentations se firent, et le sultan, ayant regardé le major Denham,  demanda aussitôt qui il était, d'où il venait, ce qu'il voulait, enfin s'il était musulman. A la réponse embarrassée de Bou-Khaloum, le sultan détourna les yeux en disant : « Le pacha a donc des Kaffirs pour amis ? »
+
+Cet incident produisit une très mauvaise impression, et Denham ne fut plus admis désormais à paraître devant le sultan.
+
+Les ennemis du pacha du Bornou et du sultan de Mandara portaient le nom de Felatahs. Leurs tribus immenses s'étendaient jusque bien au-delà de Tombouctou. Ce sont de beaux hommes, dont la couleur rappelle le bronze foncé, ce qui les distingue nettement des nègres et en fait une race à part. Ils professent l'islamisme et se mêlent rarement avec les noirs. Au reste, il y aura lieu de revenir un peu plus tard sur les Felatahs, Foulahs, Peuls ou Fans, comme on les appelle dans tout le Soudan.
+
+Au sud de la ville de Mora, s'élève une chaîne de montagnes dont les plus hauts sommets ne dépassent pas deux mille cinq cents pieds, et qui s'étend, au dire des indigènes, sur un parcours de plus de deux mois de route.
+
+La description que Denham fait de ce pays est assez curieuse pour que nous en reproduisions les traits saillants.
+
+« De tous côtés, dit-il, notre vue était bornée par la chaîne de montagnes dont on ne découvrait pas la fin. Quoique, pour les dimensions gigantesques et l'âpre magnificence, elles ne puissent être comparées ni aux Alpes, ni aux Apennins, ni au Jura, ni même à la Sierra-Morena, toutefois elles les égalaient sous le rapport pittoresque. Les pics de Valmy Savah, Djogghiday Vayah, Moyoung et Memay, dont les flancs pierreux étaient couverts de groupes de villages, s'élançaient à l\'est et à l'ouest ; Horza, qui l'emportait sur tous les autres en élévation et en beauté, se montrait devant nous dans le sud avec ses ravins et ses précipices. »
+
+Derkolla, l'une des principales villes des Felatahs, fut réduite en cendres par les envahisseurs. Ceux-ci ne tardèrent pas à prendre position devant Mosfeia, dont la situation était très forte, et qui était défendue par des palissades garnies de nombreux archers. Le voyageur anglais dut assister à cette action. Le premier choc des Arabes fut irrésistible. Les détonations des armes à feu, la réputation de vaillance et de cruauté de Bou-Khaloum et de ses acolytes, jetèrent un moment de panique chez les Felatahs. Assurément, si les Mandarans et les Bornouens eussent alors donné avec vigueur l'assaut à la colline, on avait ville gagnée.
+
+Mais les assiégés, remarquant l'hésitation de leurs adversaires, prirent à leur tour l\'offensive et rapprochèrent leurs archers, dont les flèches empoisonnées ne  tardèrent pas à faire de nombreuses victimes parmi les Arabes. C\'est à ce moment que les contingents du Bornou et du Mandara lâchèrent pied.
+
+Barca Gama, le général qui commandait le premier, avait eu trois chevaux tués sous lui. Bou-Khaloum était blessé ainsi que son cheval ; celui de Denham l'était également ; lui-même avait eu le visage effleuré d\'une flèche, et deux autres étaient fichées dans son burnous.
+
+La retraite dégénère bientôt en une fuite désordonnée. Le cheval de Denham tombe, et le cavalier se relève à peine qu'il est entouré de Felatahs. Deux s\'enfuient à la vue du pistolet dont l'Anglais les menace ; un troisième reçoit la charge dans l\'épaule.
+
+Denham se considérait comme sauvé, lorsque son cheval s'abattit une seconde fois avec une telle violence qu'il fut jeté au loin contre un arbre. Lorsque le major se releva, son cheval avait disparu et il était sans armes. Aussitôt entouré d\'ennemis, Denham, blessé aux deux mains et au côté droit, est en partie dépouillé, et, seule, la crainte de détériorer ses riches vêtements empêche les Felatahs de l'achever.
+
+Une contestation s'élève à propos de ces dépouilles. Le major en profite pour se glisser sous un cheval, et il disparaît au milieu des halliers. Nu, ensanglanté, après une course folle, il arrive au bord d\'une ravine au fond de laquelle coule un torrent.
+
+« Mes forces m'avaient presque abandonné, dit-il ; j\'empoignai les jeunes branches qui avaient poussé sur un vieux tronc d'arbre suspendu au-dessus de la ravine, ayant le projet de me laisser glisser jusqu'à l\'eau, parce que les rives étaient très escarpées. Déjà les branches cédaient au poids de mon corps, lorsque, sous ma main, un grand « liffa », le serpent le plus venimeux de ces contrées, sortit de son trou comme pour me mordre. L'horreur dont je fus saisi bouleversa toutes mes idées. Les branches se dérobèrent de ma main, et je fus culbuté dans l'eau. Cependant, ce choc me ranima, et trois mouvements de mes bras me portèrent au bord opposé que je gravis avec difficulté. Alors, pour la première fois, j'étais à l'abri de la poursuite des Felatahs\... »
+
+Par bonheur, Denham aperçut un groupe de cavaliers, dont il parvint, malgré le tumulte de la poursuite, à se faire entendre. Il ne parcourut pas moins de trente-sept milles, sans autre vêtement qu'une mauvaise couverture, constellée de vermine, sur la croupe nue d'un cheval maigre. Quelles souffrances avec cette chaleur de trente-six degrés, qui envenimait ses blessures !
+
+Trente-cinq Arabes tués et avec eux leur chef Bou-Khaloum, presque tous les autres blessés, les chevaux détruits ou perdus, tels furent les résultats d'une expédition qui devait rapporter un immense butin et procurer quantité d'esclaves.
+
+En six jours furent parcourus les cent quatre-vingts milles qui séparaient Mora de Kouka. Denham reçut dans cette dernière ville un bienveillant accueil du cheik El-Khanemy, qui lui envoya, pour remplacer sa garde-robe perdue, un vêtement à la mode du pays.
+
+A peine le major était-il remis de ses blessures et de ses fatigues qu'il prenait part à une nouvelle expédition que le cheik envoyait dans le Monga, pays situé à l\'ouest du lac Tchad, dont les habitants n'avaient jamais complètement reconnu sa suprématie et refusaient de payer tribut.
+
+Denham et le docteur Oudney partirent de Kouka le 22 mai, traversèrent le Yeou, rivière presque à sec en cette saison, mais très grosse au moment des pluies, visitèrent Birnie et les ruines du vieux Birnie, ancienne capitale du pays, qui pouvait contenir jusqu\'à deux cent mille individus. Ce furent ensuite les restes de Gambarou, aux édifices magnifiques, résidence favorite de l\'ancien sultan, détruite par les Felatahs, puis Kabchary, Bassecour, Bately, et tant d'autres villes ou villages, dont la nombreuse population se soumit sans résistance au sultan du Bornou.
+
+L\'hivernage ne fut pas favorable aux membres de la mission. Clapperton avait une fièvre terrible. L'état du docteur Oudney, déjà malade de la poitrine au départ d'Angleterre, empirait tous les jours. Le charpentier Hillman était dans un état désespéré. Seul, Denham résistait encore.
+
+Dès que la saison des pluies tira vers sa fin, le 14 décembre, Clapperton partit avec le docteur Oudney pour Kano. Nous aurons bientôt à le suivre dans cette partie si intéressante du voyage.
+
+Sept jours après, un enseigne nommé Toole arrivait à Kouka, n'ayant mis que trois mois et quatorze jours pour venir de Tripoli.
+
+Au mois de février 1824, Denham et Toole firent une course dans le Loggoun, à l'extrémité méridionale du lac Tchad. Toute la partie voisine du lac et de son affluent, le Chary, est marécageuse et inondée pendant la saison des pluies. Le climat excessivement malsain de cette région fut fatal au jeune Toole, qui mourut le 20 février, à Angala ; il n'avait pas encore vingt-deux ans. Persévérant, intrépide, gai, obligeant, doué de sang-froid et de prudence, Toole possédait les qualités qui distinguent le véritable voyageur.
+
+Le Loggoun était alors un pays très peu connu, que ne parcouraient pas les caravanes, et dont la capitale, Kernok, ne comptait pas moins de quinze mille habitants. C'est un peuple plus beau, plus intelligent que les Bornouens, --- cela est vrai surtout pour les femmes, --- très laborieux, qui fabrique des toiles très belles et du tissu le plus serré.
+
+La présentation obligée au sultan se termina, après un échange de bonnes paroles et l'acceptation de riches présents, par cette offre singulière de la part d\'un sultan à un voyageur : « Si tu es venu pour acheter des femmes esclaves, ce n'est pas la peine que tu ailles plus loin, je te les vendrai aussi bon marché que qui que ce soit. » Denham eut grand'peine à faire comprendre à ce souverain industriel que tel n'était pas le but de son voyage et que le seul amour de la science avait dirigé ses pas.
+
+Le 2 mars, Denham était de retour à Kouka, et, le 20 mai, il voyait arriver le lieutenant Tyrwhit, qui, porteur de riches présents pour le cheik, devait résider au Bornou en qualité de consul.
+
+Après une dernière razzia vers Manou, la capitale du Kanem, et chez les Dogganah, qui habitaient autrefois dans les environs du lac Fitri, le 16 août, le major reprenait avec Clapperton la route du Fezzan, et il rentrait à Tripoli, après un long et pénible voyage dont les résultats géographiques, déjà considérables, avaient été singulièrement augmentés par Clapperton.
+
+Il est temps, en effet, de raconter les incidents de voyage et les découvertes de cet officier. Parti, le 14 décembre 1823, avec le docteur Oudney pour Kano, grande ville des Felatahs située à l'ouest du Tchad, Clapperton avait suivi  le Yeou jusqu'à Damasak, et visité le vieux Birnie, Bera, située sur les bords d'un lac superbe formé des débordements du Yeou, Dogamou, Bekidarfi, cités qui font presque toutes partie du Haoussa. Les habitants de cette province, qui étaient très nombreux avant l'invasion des Felatahs, sont armés d'arcs et de flèches, et font le commerce de tabac, de noix, de gouro, d'antimoine, de peaux de chèvres tannées, de toile de coton en pièces ou en vêtements.
+
+La caravane abandonna bientôt le cours du Yeou ou Gambarou pour s'avancer dans une contrée boisée, qui doit être complètement inondée pendant la saison des pluies.
+
+Les voyageurs entrèrent ensuite dans la province de Katagoum, dont le gouverneur les reçut avec beaucoup d'affabilité, leur assurant que leur arrivée était une véritable fête pour lui et qu'elle serait on ne peut plus agréable au sultan des Felatahs, qui n'avait jamais vu d'Anglais. Il leur affirmait en même temps qu'ils trouveraient chez lui, comme à Kouka, tout ce qui leur serait nécessaire.
+
+La seule chose qui l'étonnât profondément, c'était de savoir que les voyageurs ne voulaient ni esclaves, ni chevaux, ni argent, qu'ils ne demandaient, avec son amitié, que la permission de cueillir des fleurs et des plantes et l'autorisation de visiter le pays.
+
+Katagoum est située par 12° 17\' 11\" de latitude et environ 12° de longitude, d'après les observations de Clapperton. Cette province formait la frontière du Bornou avant la conquête des Felatahs. Elle peut mettre sur pied quatre mille hommes de cavalerie et deux mille fantassins armés d'arcs, d'épées et de lances. Elle produit du grain et des bœufs, qui sont, avec les esclaves, les principaux articles de commerce. Quant à la ville même, c'était la plus forte que les Anglais eussent vue depuis Tripoli. Percée de portes qu'on fermait tous les soirs, elle était défendue par deux murs parallèles et trois fossés à sec, un intérieur, un autre extérieur, et un troisième creusé entre les deux murailles hautes de vingt pieds et larges de dix à la base. D'ailleurs, aucun autre monument qu'une mosquée en ruines dans cette ville aux maisons de terre, qui peut renfermer sept à huit mille habitants.
+
+C'est là que, pour la première fois, les Anglais virent les cauris servir de monnaie. Jusqu'alors, la toile du pays ou quelque autre article avait été l'unique terme des échanges.
+
+Au sud de la province de Katagoum est situé le pays de Yacoba, que les musulmans désignent sous le nom de Mouchy. D'après les rapports que Clapperton reçut, les habitants de cette province, hérissée de montagnes calcaires,  seraient anthropophages. Cependant, les musulmans, qui ont une invincible horreur pour les Kaffîrs, ne donnent d'autre preuve à cette accusation que d'avoir vu des têtes et des membres humains pendus aux murs des habitations.
+
+C'est dans le Yacoba que prendrait sa source l\'Yeou, rivière complètement à sec pendant l'été, mais dont les eaux, pendant la saison des pluies, au dire des habitants, croissent et diminuent alternativement tous les sept jours.
+
+« Le 11 janvier, dit Clapperton, nous continuâmes notre voyage, mais, à midi, il fallut nous arrêter à Mourmour. Le docteur était dans un tel état de faiblesse et d'épuisement que je n'espérais pas qu'il pût y résister un jour de plus. Il dépérissait journellement depuis notre départ des montagnes d'Obarri, dans le Fezzan, où il avait été attaqué d'une inflammation à la gorge pour s'être exposé à un courant d'air pendant qu'il était en transpiration.
+
+« 12 janvier. --- Le docteur prit, au point du jour, une tasse de café et, d'après son désir, je fis charger les chameaux. Je l'aidai ensuite à s'habiller et ; soutenu par son domestique, il sortit de la tente. Mais, à l'instant où l'on allait le placer sur le chameau, j'aperçus dans tous ses traits l\'affreuse empreinte de la mort Je le fis rentrer aussitôt, je me plaçai à côté de lui, et, avec une douleur que je ne chercherai pas à exprimer, je le vis expirer sans proférer une plainte et sans paraître souffrir. J'envoyai demander au gouverneur la permission de l'ensevelir, ce qui me fut accordé sur-le-champ. Je fis creuser une fosse sous un mimosa, auprès d'une des portes de la ville. Après que le corps eut été lavé selon l\'usage du pays, je le fis revêtir avec des châles à turbans que nous avions pour en faire des présents. Nos domestiques le portèrent, et, avant de le confier à la terre, je lus le service funèbre de l\'Église d'Angleterre. Je fis ensuite entourer le modeste tombeau d\'un mur en terre pour le préserver des animaux carnassiers, et je fis tuer deux moutons, que je distribuai aux pauvres. »
+
+Ainsi s'éteignit misérablement le docteur Oudney, chirurgien de marine assez instruit en histoire naturelle. La terrible maladie dont il avait apporté les germes d'Angleterre, ne lui avait pas permis de rendre à l'expédition tous les services que le gouvernement attendait de lui, et pourtant, il ne ménageait pas ses forces, disant qu'il se sentait moins mal en voyage qu'au repos. Sentant que sa constitution épuisée ne lui permettait pas un travail assidu, jamais il n'avait voulu mettre une entrave au zèle de ses compagnons.
+
+Après celle triste cérémonie, Clapperton reprit sa route vers Kano. Digou, ville située au milieu d\'un pays bien cultivé et qui nourrit de nombreux troupeaux ; Katoungoua, qui n'est plus dans la province de Katagoum ; Zangeia, située près de l'extrémité de la chaîne des collines de Douchi et qui doit avoir été considérable, à en juger d'après l'étendue de ses murailles encore debout ; Girkoua, dont le marché est plus beau que celui de Tripoli ; Sochwa, entourée d'un haut rempart d\'argile, telles furent les principales étapes du voyageur, avant son entrée à Kano, qu\'il atteignit le 20 janvier.
+
+Kano, la Chana d'Édrisi et des autres géographes arabes, est le grand rendez-vous du royaume de Haoussa.
+
+« A peine eus-je passé les portes, dit Clapperton, que je fus étrangement déçu dans mon attente. D\'après la brillante description que m'en avaient faite les Arabes, je m'attendais à voir une ville d\'une étendue immense. Les maisons étaient à un quart de mille des murailles, et dans quelques endroits réunies en petits groupes séparés par de larges mares d'eau stagnante. J'aurais pu me dispenser de mes frais de toilette (il avait revêtu son uniforme d'officier de marine) ; tous les habitants, occupés à leurs affaires, me laissèrent passer tranquillement sans me remarquer et sans tourner les yeux vers moi. »
+
+Kano, la capitale de la province de même nom et l'une des principales villes du Soudan, est située par 12° 0\' 19\" de latitude nord et 9° 20^'^ de longitude est.
+
+Il peut y avoir dans cette capitale trente ou quarante mille habitants, dont plus de la moitié sont esclaves.
+
+Le marché, qui est bordé à l'est et à l'ouest par de grands marécages plantés de roseaux, est la retraite de nombreuses bandes de canards, de cigognes et de vautours, qui servent de boueurs à la ville. Dans ce marché, fourni de toutes les provisions en usage en Afrique, on voit de la viande de bœuf, de mouton, de chèvre et quelquefois de chameau.
+
+« Les bouchers du pays, raconte le voyageur, sont aussi avisés que les nôtres ; ils pratiquent quelques coupures pour mettre la graisse en évidence, ils soufflent la viande, et même, quelquefois, ils collent un morceau de peau de mouton à un gigot de chèvre. »
+
+Du papier à écrire, produit des manufactures françaises, des ciseaux et des couteaux de fabrication indigène, de l'antimoine, de l'étain, de la soie rouge, des bracelets de cuivre, des grains de verroterie, du corail, de l'ambre, des bagues d'étain, quelques bijoux en argent, des châles à turban, de la toile de coton, du calicot, des habillements mauresques et bien d'autres objets encore, voilà ce qu'on trouve abondamment sur le marché de Kano.
+
+Clapperton y acheta, pour trois piastres, un parapluie anglais en coton, venu par Ghadamès. Il visita aussi le marché aux esclaves, où ces malheureux sont  examinés très minutieusement « et avec le même soin que les officiers de santé visitent les volontaires qui entrent dans la marine. »
+
+La ville est très malsaine ; les marais qui la partagent à peu près par la moitié et les trous qu'on creuse dans le sol, pour se procurer la terre nécessaire aux constructions, y engendrent une sorte de malaria permanente.
+
+A Kano, la grande mode est de se teindre les dents et les lèvres avec les fleurs du « gourgi » et du tabac, qui les colorent en rouge sanguin. On mâche la noix de gouro, on la prise même, mêlée avec du « trona », usage qui n\'est pas particulier au Haoussa, car on le retrouve également dans le Bornou, où il est cependant interdit aux femmes. Enfin les Haoussani fument un tabac originaire du pays.
+
+Le 23 février, Clapperton partit pour Sockatou. Il traversa un pays pittoresque et bien cultivé, auquel des bosquets, disséminés sur les collines, donnaient une sorte de ressemblance avec un parc anglais. Des troupeaux de beaux bœufs blancs ou d'un gris cendré animaient le paysage.
+
+Les localités les plus importantes que Clapperton rencontra sur sa route sont Gadania, ville très peu peuplée, dont les habitants avaient été vendus comme esclaves par les Felatahs, Doncami, Zirmie, capitale du Zambra, Kagaria, Kouara et les puits de Kamoun, où le rejoignit une escorte envoyée par le sultan.
+
+Sockatou était la ville la plus peuplée que le voyageur eût vue en Afrique. Ses maisons, bien bâties, formaient des rues régulières, au lieu d'être réunies en groupes, comme dans les autres villes du Haoussa. Entourée d'une muraille de vingt à trente pieds d'élévation, percée de douze portes qu'on fermait régulièrement au coucher du soleil, Sockatou possédait deux grandes mosquées, un marché spacieux et une grande place devant la demeure du sultan.
+
+Les habitants, qui, pour la plupart, sont Felatahs, ont beaucoup d'esclaves, et, de ces derniers, ceux qui ne sont pas occupés aux travaux intérieurs, exercent quelque métier pour le compte de leurs maîtres ; ils sont tisserands, maçons, forgerons, cordonniers ou cultivateurs.
+
+Pour faire honneur à ses hôtes, pour leur donner une haute idée de la puissance et de la richesse de l'Angleterre, Clappertonne voulut paraître devant le sultan Bello que dans une toilette éblouissante. Il revêtit son uniforme aux galons d'or, mit un pantalon blanc et des bas de soie ; puis, il s'affubla, pour compléter son costume de carnaval, d\'un turban et de babouches turques. Bello le reçut assis sur un tapis entre deux colonnes supportant le toit de chaume d'une cabane, qui ressemblait assez à un cottage anglais. Ce sultan était un bel  homme d\'environ quarante-cinq ans, vêtu d'un « tobé » de coton bleu et d\'un turban blanc dont le châle lui cachait le nez et la bouche, selon la mode turque.
+
+Bello accepta avec une joie d'enfant les présents que lui apportait le voyageur. Ce qui lui fit le plus de plaisir, ce fut la montre, le télescope et le thermomètre, qu'il appelait ingénieusement « une montre de chaleur. » Mais, de toutes ces curiosités, celle qu'il trouvait la plus merveilleuse, c'était le voyageur lui-même. Il ne pouvait se lasser de l\'interroger sur les mœurs, les habitudes, le commerce de l'Angleterre. A plusieurs reprises, Bello manifesta le désir d'entrer en relations de commerce avec cette puissance ; il aurait voulu qu'un consul et qu'un médecin anglais résidassent dans un port qu'il appelait Raka ; enfin, il demandait que certains objets des manufactures de la Grande-Bretagne lui fussent expédiés à la côte maritime, où il possédait une ville très commerçante, nommée Funda. Après nombre de conversations sur les différents cultes de l\'Europe et bien d\'autres matières, Bello rendit à Clapperton les livres, journaux et vêtements qui avaient été pris à Denham, lors de la malheureuse razzia dans laquelle Bou-Khaloum perdit la vie.
+
+Le 3 mai, le voyageur fit ses adieux au sultan.
+
+« Après beaucoup de tours et de détours, dit-il, je fus enfin admis en présence de Bello, qui était seul et qui me remit incontinent une lettre pour le roi d'Angleterre, en m'assurant de ses sentiments d'amitié pour notre nation. Il exprima, de nouveau, tout son désir d'entretenir des relations avec nous et me pria de lui écrire l'époque à laquelle l'expédition anglaise (dont Clapperton lui avait promis l'envoi) arriverait sur les côtes. »
+
+Clapperton reprit la route qu\'il avait suivie en venant et rentra, le 8 juillet, à Kouka, où il retrouva le major Denham. Il rapportait un manuscrit arabe, contenant un tableau historique et géographique du royaume de Takrour, gouverné par Mohammed Bello de Haoussa, fait et composé par ce prince. Lui-même avait recueilli non seulement de précieuses et nombreuses informations sur la zoologie et la botanique du Bornou et du Haoussa, mais il avait aussi rassemblé un vocabulaire des langues du Bégharmi, du Mandara, du Bornou, du Haoussa et de Tombouctou.
+
+Les résultats de cette expédition étaient donc considérables. C\'était pour la première fois qu'on entendait parler des Felatahs, et leur identité avec les Fans allait être démontrée par le second voyage de Clapperton. On savait qu'ils avaient créé dans le centre et dans l'ouest de l'Afrique un immense empire, et il était bien constaté que ces peuples n'appartenaient pas à la race nègre. L'étude de leur langage et des rapports qu\'il présente avec certains idiomes non africains allait jeter un jour tout nouveau sur l'histoire des migrations des peuples. Enfin, on connaissait le lac Tchad, sinon dans son entier, du moins dans sa plus grande partie. On lui savait deux affluents : l'Yeou, dont le cours se trouvait en partie relevé et dont la source était indiquée par les rapports des indigènes, et le Chary, dont la partie inférieure et l'embouchure avaient été visitées avec soin par Denham. Quant au Niger, les informations que Clapperton avait recueillies de la bouche des indigènes étaient encore bien confuses, mais de leur ensemble on pouvait inférer qu'il se jetait dans le golfe de Bénin. D\'ailleurs, Clapperton se promettait de revenir, après un court repos en Angleterre, et, partant de la côte de l'Atlantique, de remonter le Kouara ou Djoliba, comme on appelait le Niger, en divers endroits de son cours, de mettre fin au débat, depuis si longtemps soulevé, en faisant de ce fleuve un cours d'eau différent du Nil, de relier ses nouvelles découvertes avec celles de Denham, et enfin d\'achever la traversée de l\'Afrique, suivant une diagonale, allant de Tripoli au golfe de Bénin.
+
+
+# []{#_Toc342892765 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342890403 .pcalibre .pcalibre2 .pcalibre1}[!{#Image9 .calibre16} VINGT-MILLE LIEUES SOUS LES MERS]{#_Toc342826586 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_13 .calibre6}
+
+::: MsoToc1
+
+------------------------------------------------------------------------
+
+(1870)
+Jules Verne
+Les voyages extraordinaires
+Illustrations par Alphonse de Neuville et Édouard Riou.
+
+::: MsoToc
+
+------------------------------------------------------------------------
+
+
+]{.calibre20}
+
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+LES VOYAGEURS DU XIXe SIÈCLE
+
+Première partie
+
+
+]{.calibre20}

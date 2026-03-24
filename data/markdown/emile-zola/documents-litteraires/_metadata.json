@@ -1,0 +1,193 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "DOCUMENTS LITTÉRAIRES",
+  "slug": "documents-litteraires",
+  "nombre_chapitres": 11,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1726,
+      "spine_end_exclusive": 1727,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_427.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 1727,
+      "spine_end_exclusive": 1728,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_428.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chateaubriand",
+      "slug": "chateaubriand",
+      "spine_start": 1728,
+      "spine_end_exclusive": 1734,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_429.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_430.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_431.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_432.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_433.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_434.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Victor Hugo",
+      "slug": "victor-hugo",
+      "spine_start": 1734,
+      "spine_end_exclusive": 1741,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_435.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_436.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_437.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_438.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_439.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_440.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_441.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alfred de Musset",
+      "slug": "alfred-de-musset",
+      "spine_start": 1741,
+      "spine_end_exclusive": 1748,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_442.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_443.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_444.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_445.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_446.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_447.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_448.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Théophile Gautier",
+      "slug": "theophile-gautier",
+      "spine_start": 1748,
+      "spine_end_exclusive": 1752,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_449.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_450.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_451.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_452.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les poètes contemporains",
+      "slug": "les-poetes-contemporains",
+      "spine_start": 1752,
+      "spine_end_exclusive": 1759,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_453.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_454.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_455.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_456.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_457.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_458.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_459.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "George Sand",
+      "slug": "george-sand",
+      "spine_start": 1759,
+      "spine_end_exclusive": 1766,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_460.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_461.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_462.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_463.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_464.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_465.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_466.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Réception de M. Dumas à l’Académie française",
+      "slug": "reception-de-m-dumas-a-lacademie-francaise",
+      "spine_start": 1766,
+      "spine_end_exclusive": 1767,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_467.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Sainte-Beuve",
+      "slug": "sainte-beuve",
+      "spine_start": 1767,
+      "spine_end_exclusive": 1775,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_468.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_469.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_470.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_471.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_472.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_473.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_474.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_475.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "La Critique contemporaine",
+      "slug": "la-critique-contemporaine",
+      "spine_start": 1775,
+      "spine_end_exclusive": 1782,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_476.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_477.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_478.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_479.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_480.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_481.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_482.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "De la moralité dans la littérature",
+      "slug": "de-la-moralite-dans-la-litterature",
+      "spine_start": 1782,
+      "spine_end_exclusive": 1788,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_483.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_484.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_485.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_486.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_487.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_488.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/documents-litteraires/Zola5_image068.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image069.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image070.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image071.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image072.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image073.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image074.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image075.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image076.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image077.jpg",
+    "images/emile-zola/documents-litteraires/Zola5_image078.jpg"
+  ]
+}

@@ -1,0 +1,55 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 34"
+slug_section: "chapitre-34"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 34 -- Romance
+Ecoute-moi, Magdeleine,
+L'hiver a quitté la plaine
+Qu'hier il glaçait encor.
+Viens dans ces bois d'où ma suite
+Se retire, au loin conduite
+Par les sons errants du cor.
+Viens, on dirait, Magdeleine,
+Que le printemps, dont l'haleine
+Donne aux roses leur couleur
+A cette nuit, pour te plaire
+Secoué sur la poussière
+Sa robe pleine de fleurs !
+Si j'étais, ô Magdeleine,
+L'agneau dont la blanche laine
+Se démêle sous tes doigts !
+Si j'étais l'oiseau qui passe
+Et que poursuit dans l'espace
+Un doux appel de ta voix.
+Si j'étais, ô Magdeleine,
+L'hermite de Tombelaine
+Dans son pieux tribunal
+Quand ta bouche à son oreille
+De tes péchés de la veille
+Livre l'aveu virginal !
+Si tu voulais, Magdeleine
+Au lieu de la marjolaine
+Qui pare ton chaperon,
+Tu porterais la couronne
+De duchesse ou de baronne
+Dont la perle est le fleuron !
+Si tu voulais, Magdeleine,
+Je te ferais châtelaine,
+Je suis le comte Roger !...
+Quitte pour moi ces chaumières...
+A moins que tu ne préfères
+Que je me fasse berger !

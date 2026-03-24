@@ -1,0 +1,38 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA CONFESSION DE CLAUDE"
+slug_oeuvre: "la-confession-de-claude"
+section: "Chapitre 28"
+slug_section: "chapitre-28"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LA CONFESSION DE CLAUDE
+
+Liste des romans
+
+ !
+
+## XXVII
+Je me plais dans la chambre de Marie. Dès le matin, je vais m'asseoir au bord du lit de la mourante, je vis là le plus possible, me retirant avec regret. Partout ailleurs, j'appartiens à Laurence, j'ai la fièvre. J'ai hâte de me trouver dans ce lieu d'apaisement, j'y entre avec la sensation de confiance et de bien-être d'un malade qui va respirer un air plus doux dont il attend la guérison.
+
+J'aime la mort. La chambre est tiède, moite ; la lumière y est grise et attendrie, faite d'ombre et de clarté blanche ; tout y flotte dans une langueur dernière, dans une demi-transparence molle et recueillie. On ne sait combien est doux à un coeur saignant le silence qui règne dans la pièce où se meurt une jeune fille. Ce silence est un silence étrange, particulier, d'une douceur exquise, plein de larmes contenues. Les bruits, un choc de verre, le craquement d'un meuble, s'adoucissent, se traînent comme des plaintes étouffées ; les cris du dehors entrent en murmures de pitié, de miséricordieux encouragements. Tout se tait, le son et la lumière ; tout est pénétré de douleur et d'espérance. Et, dans l'ombre, dans le silence, on entend un vague désespoir qui vient on ne sait d'où, et qu'accompagne le souffle déchiré de la moribonde.
+
+Je regarde Marie. Je me sens peu à peu pénétré par cette invisible haleine de pitié consolante qui emplit la chambre. Mes yeux se reposent de leurs larmes dans cette clarté pâle ; mes oreilles, dans ce silence frissonnant, oublient pour une heure le bruit de mes sanglots. Toute la douceur, toutes les attentions délicates, toutes les paroles basses et caressantes que l'on a pour Marie, me sont comme adressées ; on retient le bruit des voix et des pas, on interroge, on répond avec affection, on évite les sensations aiguës et douloureuses, et moi, je crois, par instants, que toutes ces bonnes précautions sont prises pour ne pas faire éclater mon pauvre être plein de souffrance. Je m'imagine que je me meurs, que l'on me soigne ; je prends ma part des soins, des consolations ; je vole à Marie une moitié de son agonie et des pitiés qu'elle fait naître ; je viens là, au côté d'une enfant mourante, profiter des regrets et des tendresses que les hommes accordent aux heures dernières d'une âme. Je guéris mon amour dans la mort.
+
+Je le sens, c'est le besoin d'être plaint, d'être caressé qui me pousse dans cette chambre. J'y trouve l'air qu'il me faut, la pitié qui m'est nécessaire. La vie est trop aiguë pour ma chair endolorie et mon coeur blessé ; le grand jour m'irrite, je ne suis à l'aise que dans l'effacement réparateur de la tombe. Si, un jour, je sors de mes désespoirs, je devrai remercier le ciel de m'avoir permis de vivre assis au pied d'un lit de mort, de m'avoir fait ainsi partager les apaisements d'une agonie. J'aurai vécu parce qu'une enfant sera morte à mon côté.
+
+Je regarde Marie. La fièvre épure sa chair de jour en jour. Elle rajeunit, elle devient petite fille, dans l'épuisement de son sang. Son visage, profondément creusé, exprime un désir ardent, celui du néant, du repos ; les yeux ont grandi, les lèvres pâles restent entrouvertes, comme pour faciliter le passage au souffle suprême. Elle attend, résignée, presque souriante, ignorante de la mort de même qu'elle a été ignorante de la vie.
+
+Parfois, nous nous contemplons l'un l'autre, en face, pendant de longues heures. Je ne sais quelle pensée arrête la toux sur ses lèvres ; elle paraît emplie d'une idée unique qui suffit à la tenir éveillée, plus vivante et plus calme. La face s'apaise, il y a des lueurs roses sur les joues ; les membres sous le drap ont moins de raideur ; Marie, devant mon regard, se détend, sort de l'agonie. Moi, je m'absorbe en elle, je prends ses souffrances ; peu à peu, il me semble que je passe par ses lèvres entrouvertes et que je fais partie de cette créature malade ; j'éprouve une sensation douce et amère à languir avec elle, à défaillir lentement ; je sens l'inexorable mal prendre possession de chacun de mes membres, me secouer avec une violence croissante, à mesure que mes regards pénètrent plus avant dans ceux de Marie ; je me dis que je vais mourir à la même minute qu'elle, et j'ai une grande joie.
+
+Oh ! Quel étrange attrait et quel apaisement ! La mort est puissante, elle a des tentations âpres, d'irrésistibles appels. Il ne faut pas se pencher sur les yeux d'un mourant, car ils sont pleins de lumière et si profonds que leurs abîmes donnent le vertige. On voudrait voir ce que voient ces yeux agrandis, on est pris de l'effrayante curiosité de l'inconnu. Toutes les fois que Marie me regarde, je désire mourir, m'en aller avec elle pour savoir ce qu'elle saura ; je crois deviner qu'elle me sollicite, qu'elle me prie de ne pas l'abandonner, qu'elle fait le rêve de nous en aller de compagnie, risquant le même néant ou la même splendeur.
+
+J'oublie alors, j'oublie Laurence. Moi qui vois Laurence dans toutes choses, dans la veille et dans le rêve, dans les objets qui m'entourent, dans ce que je mange et dans ce que je bois, je ne vois pas Laurence au fond des yeux de Marie. Je n'y vois que cette lueur bleue, plus pâle aujourd'hui, que j'ai aperçue une nuit, tandis que mes lèvres touchaient les lèvres de l'enfant. Cette lueur bleue est vide de mon amour, elle est vide de douleur pour moi, elle est la seule chose que je puisse regarder sans pleurer. C'est pourquoi j'aime cette chambre, cette moribonde, ces larges regards qui ont plus de pureté, plus de douceur que le ciel, car le ciel, lui, me parle de Laurence, lorsque je lève la tête. Je viens me perdre dans cet oubli, dans cette lumière claire et sereine, toute pure, qui peut-être guérira mon coeur.
+
+Lorsque la nuit tombe et que je ne vois plus la lueur bleue des yeux de Marie, j'ouvre la fenêtre, je regarde la muraille noire. Le carré de lumière jaune est là, vide ou peuplé, morne ou empli de mouvements silencieux. J'ai une sensation âcre, après plusieurs heures d'oubli, à me retrouver face à face avec la réalité, face à face avec ma jalousie et mes angoisses. Chaque soir, je recommence ce labeur pénible et gigantesque de donner un sens à ces taches sombres qui grandissent et roulent bizarrement sur le mur. Je me suis fait une récréation douloureuse de cette recherche, je m'y applique avec une patience anxieuse, un entêtement plein de fièvre, qui, tous les jours, me ramènent à la fenêtre, bien que je me promette, tous les jours, de ne plus y risquer ma raison.

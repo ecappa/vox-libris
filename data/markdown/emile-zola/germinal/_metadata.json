@@ -1,0 +1,134 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "GERMINAL",
+  "slug": "germinal",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 271,
+      "spine_end_exclusive": 272,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_270.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "spine_start": 272,
+      "spine_end_exclusive": 279,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_271.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_272.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_273.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_274.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_275.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_276.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_277.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "spine_start": 279,
+      "spine_end_exclusive": 285,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_278.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_279.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_280.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_281.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_282.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_283.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "spine_start": 285,
+      "spine_end_exclusive": 291,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_284.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_285.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_286.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_287.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_288.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_289.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Quatrième partie",
+      "slug": "quatrieme-partie",
+      "spine_start": 291,
+      "spine_end_exclusive": 299,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_290.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_291.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_292.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_293.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_294.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_295.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_296.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_297.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Cinquième partie",
+      "slug": "cinquieme-partie",
+      "spine_start": 299,
+      "spine_end_exclusive": 306,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_298.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_299.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_300.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_301.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_302.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_303.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_304.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Sixième partie",
+      "slug": "sixieme-partie",
+      "spine_start": 306,
+      "spine_end_exclusive": 312,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_305.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_306.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_307.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_308.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_309.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_310.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Septième partie",
+      "slug": "septieme-partie",
+      "spine_start": 312,
+      "spine_end_exclusive": 320,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_311.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_312.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_313.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_314.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_315.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_316.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_317.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_318.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/germinal/Zola1_image029.jpg"
+  ]
+}

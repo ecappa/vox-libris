@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE BOIS"
+slug_oeuvre: "le-bois"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LE BOIS
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+Je me souviens des grandes courses que nous faisions, Paul et moi, il y a vingt ans, au bois de Verrières. Paul était peintre. Moi, j'étais alors employé dans une librairie, très pauvre, parfaitement inconnu. Je rimais des vers, à cette époque, de mauvais vers qui dorment au fond d'un tiroir le bon sommeil du néant. Dès le lundi, je rêvais le dimanche, avec la passion d'un garçon de vingt ans élevé au grand air, et que sa vie enfermée d'employé désespérait. Autrefois, dans les environs d'Aix, nous avions battu les routes, couru le pays pendant des lieues, couché à la belle étoile. À Paris, nous ne pouvions renouveler ces longues marches, car il fallait songer à l'heure inexorable du bureau, qui revenait si vite. Nous partions donc par le premier train du dimanche, pour être de grand matin hors des fortifications.

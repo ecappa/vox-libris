@@ -1,0 +1,121 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/bonheur-que-procure-letude/00433.jpg){.calibre10} CÉSAR PASSE LE RUBICON]{.calibre2}]{.calibre_55} {#filepos13238314 .calibre_}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1820)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[POÉSIES]{.bold}]{.calibre_21}
+
+[(Traduction)[[[[^\[17\]^]{.calibre_12}]{.underline}]{.calibre_4}](index_split_3513.html#filepos24569205){#filepos13239036}
+]{.calibre_3}
+
+:::::: calibre_22
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+[[[
+]{.underline}]{.italic}]{.calibre_14}
+
+[[Jarn gelidas cursu Cesar superaverat Alpes, etc.
+(LUCAIN, Phars., lib. 1.)]{.italic}]{.calibre_3}
+
+[
+Déjà, des monts Alpins, qu'il avait su franchir,
+César voyait au loin les vieux sommets blanchir ;
+Des bords du Rubicon menaçant l'Italie,
+De la guerre à venir son âme était remplie.
+Une nuit, à ses yeux apparaît, toute en pleurs,
+La tremblante Patrie, exhalant ses douleurs ;
+Ses cheveux sont épars ; triste, le regard sombre,
+D'une pâle lueur elle brille dans l'ombre,
+Et les bras nus, levant son front chargé de tours :
+« Arrêtez ! contre qui tournez-vous mes secours ?
+Où courez-vous ? restez sur ces bords déplorables.
+Jusqu'ici citoyens ! un pas vous rend coupables. »
+Elle s'enfuit : César a frissonné d'horreur ;
+Sur la rive longtemps l'enchaîne sa terreur.
+« O toi, dit-il enfin, qui vois Rome et la terre
+De ce roc Tarpéien où gronde ton tonnerre ;
+Vous, dieux puissants d'Iüle ; et toi, grand Quirinus ;
+Jupiter, dont l'oeil veille aux murs de Latinus ;
+Feux sacrés de Vesta ; toi, devant qui tout tremble,
+Toi, qui peux plus sur moi que tous les dieux ensemble,
+Rome, écoute ma voix : César victorieux
+Ne veut point t'accabler sous ton bras furieux.
+O Rome ! heureux vainqueur de la terre et de l'onde,
+Ton esclave ne veut que t'asservir le monde.
+Parle, et César encore peut être ton soutien ;
+C'est ton ennemi seul qui me rendra le tien. »
+Il dit, et sans tarder, fendant les flots rapides,
+Il plante à l'autre bord ses aigles intrépides.
+Ainsi, quand un lion, dans ses déserts brûlants,
+Voit de loin l'ennemi s'avancer à pas lents ;
+Par de longs coups de queue excitant son courage,
+Il s'arrête incertain, et rassemble sa rage.
+Sa vaste gueule exhale un sourd rugissement,
+Sa crinière à grands flots couvre son corps fumant,
+Il la dresse, il bondit, et si le dard d'un Maure,
+Dans son flanc enfoncé, de son sang se colore,
+Blessé, mais fier encore, vainqueur en succombant,
+Il fond sur le chasseur et l'écrase en tombant.
+Le Rubicon pourpré, sortant d'une humble source,
+Roule en de beaux vallons qu'il arrose en sa course ;
+Ses eaux, marquant les bords asservis à nos lois,
+Quand l'été les tarit, bornent les champs Gaulois.
+Alors, des noirs torrents de leurs neiges fangeuses
+Les Alpes grossissaient ses vagues orageuses ;
+Chaque escadron, brisant leur cours impétueux,
+Oppose un front oblique aux flots tumultueux,
+Et l'armée, avançant dans l'onde ralentie,
+Guide au sein du courant sa marche appesantie.
+César, touchant ces bords qu'il n'eût point dû revoir :
+« Loin, dit-il, vains traités ! vaines lois du devoir !
+Fortune, je te suis ; la victoire est mon titre.
+J'ai trop cru les destins, que Mars soit mon arbitre. »
+Soudain, tel qu'un caillou, par la fronde chassé,
+Tel qu'un trait que le Parthe en fuyant a lancé,
+Il vole : encourageant ses bataillons qu'il guide,
+Il hâte dans la nuit son armée intrépide,
+Et, vers l'heure où Phébé voit pâlir son croissant,
+Il entre à Riminum en vainqueur menaçant.]{.calibre4}
+
+[ ]{.calibre4}
+
+[[Publié dans Le Conservateur littéraire]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+[[sous le nom de V. D'AUVERNEY (Pseudonyme de Victor Hugo),]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+[[le 15 avril 1820]{.italic}]{.calibre_26}
+
+::: calibre_27

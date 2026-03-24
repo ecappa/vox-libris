@@ -1,0 +1,54 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "L’abolition de la peine de mort"
+slug_oeuvre: "labolition-de-la-peine-de-mort"
+type: "oeuvre-complete"
+---
+
+### L'abolition de la peine de mort
+Discours prononcé à l'Assemblée Nationale
+
+Le 15 septembre 1848
+
+illustration: Abolition de la peine de mort
+
+...
+Le citoyen Président.
+La parole est à M. Victor Hugo. (Mouvement d'attention.)
+
+Le citoyen Victor Hugo.
+Messieurs, comme l'honorable rapporteur de votre commission, je ne m'attendais pas à parler sur cette grave et importante matière. Je regrette que cette question, la première de toutes peut-être, arrive au milieu de vos délibérations presque à l'improviste, et surprenne les orateurs non préparés. Quant à moi, je dirai peu de mots, mais ils partiront du sentiment d'une conviction profonde et ancienne.
+
+Vous venez de consacrer l'inviolabilité du domicile ; nous vous demandons de consacrer une inviolabilité plus haute, et plus sainte encore ; l'inviolabilité de la vie humaine
+
+Messieurs, une constitution, et surtout une constitution faite par et pour la France, est nécessairement un pas dans la civilisation ; si elle n'est point un pas dans la civilisation, elle n'est rien. (Très bien !) Eh bien, songez-y !
+
+Qu'est-ce que la peine de mort ? La peine de mort est le signe spécial et éternel de la barbarie. (Sensation.) Partout où la peine de mort est prodiguée, la barbarie domine ; partout où la peine de mort est rare, la civilisation règne. (Mouvement)
+
+Ce sont là des faits incontestables.
+
+L'adoucissement de la pénalité est un grand et sérieux progrès. Le XVIIIe siècle, c'est là une partie de sa gloire, a aboli la torture ; le XIXe abolira certainement la peine de mort. (Adhésion à gauche.)
+ Plusieurs voix.
+Oui ! oui !
+Le citoyen Victor Hugo.
+Vous ne l'abolirez pas peut-être aujourd'hui ; mais, n'en doutez pas, vous l'abolirez ou vos successeurs l'aboliront demain !
+Les mêmes voix.
+Nous l'abolirons ! (Agitation.)
+
+Le citoyen Victor Hugo.
+Vous écrivez en tête du préambule de votre constitution : « En présence de Dieu, » et vous commenceriez par lui dérober, a ce Dieu, ce droit qui n'appartient qu'à lui, le droit de vie et de mort ! (Très bien ! très bien !)
+
+Messieurs, il y a trois choses qui sont à Dieu et qui n'appartiennent pas à l'homme : l'irrévocable, l'irréparable et l'indissoluble. Malheur à l'homme s'il les introduit dans ses lois (Mouvement.) Tôt ou tard elles font plier la société sous leur poids, elles dérangent l'équilibre nécessaire des lois et des moeurs ; elles ôtent à la justice humaine ses proportions ; et alors il arrive ceci, réfléchissez-y, messieurs, (Profond silence) que la loi épouvante la conscience ! (Sensation.) Messieurs, je suis monté à cette tribune pour vous dire un seul mot, un mot décisif, selon moi, ce mot, le voici : (Écoutez ! écoutez !)
+
+Après Février, le peuple eut une grande pensée : le lendemain du jour où il avait brûlé le trône, il voulut brûler l'échafaud. (Très bien ! --- Sensation.)
+
+Ceux qui agissaient sur son esprit alors ne furent pas, je le regrette profondément, à la hauteur de son grand coeur.
+À gauche.
+Très bien !
+Le citoyen Victor Hugo.
+On l'empêcha d'exécuter cette idée sublime.
+
+Eh bien, dans le premier article de la constitution que vous vous votez, vous venez de consacrer la première pensée du peuple, vous avez renversé le trône ; maintenant, consacrez l'autre, renversez l'échafaud ! (Vif assentiment sur plusieurs bancs.)
+
+Je vote l'abolition pure, simple et définitive de la peine de mort.

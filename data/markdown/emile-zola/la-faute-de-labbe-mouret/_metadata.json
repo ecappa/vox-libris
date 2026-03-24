@@ -1,0 +1,105 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA FAUTE DE L'ABBÉ MOURET",
+  "slug": "la-faute-de-labbe-mouret",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 71,
+      "spine_end_exclusive": 72,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_070.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre premier",
+      "slug": "livre-premier",
+      "spine_start": 72,
+      "spine_end_exclusive": 90,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_071.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_072.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_073.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_074.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_075.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_076.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_077.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_078.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_079.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_080.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_081.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_082.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_083.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_084.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_085.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_086.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_087.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_088.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre deuxième",
+      "slug": "livre-deuxieme",
+      "spine_start": 90,
+      "spine_end_exclusive": 108,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_089.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_090.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_091.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_092.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_093.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_094.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_095.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_096.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_097.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_098.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_099.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_100.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_101.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_102.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_103.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_104.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_105.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_106.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre troisième",
+      "slug": "livre-troisieme",
+      "spine_start": 108,
+      "spine_end_exclusive": 126,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_107.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_108.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_109.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_110.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_111.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_112.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_113.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_114.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_115.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_116.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_117.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_118.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_119.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_120.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_121.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_122.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_123.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_124.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-faute-de-labbe-mouret/Zola1_image020.jpg",
+    "images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg"
+  ]
+}

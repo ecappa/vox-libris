@@ -1,0 +1,93 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[NOS AUTEURS DRAMATIQUES]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911415 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910929 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910443 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909957 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909471 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908985 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908499 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908013 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907527 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907041 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906555 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906069 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905583 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905097 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904611 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904125 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903639 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903153 .pcalibre .calibre2 .pcalibre1}[George Sand]{#_Toc368902667 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_92 .calibre30}
+
+
+::: WordSection
+[
+]{.calibre49}
+
+!{#Image488 .calibre99}
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[NOS AUTEURS DRAMATIQUES]{lang="EN-GB"}
+
+George Sand
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911416 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910930 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910444 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909958 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909472 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908986 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908500 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908014 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907528 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907042 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906556 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906070 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905584 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905098 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904612 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904126 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903640 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903154 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368902668 .pcalibre .calibre2 .pcalibre1} {#i .calibre46 .sigil_not_in_toc}
+
+
+Le théâtre de George Sand a un grand charme. Longtemps on a refusé au romancier le don des planches. On trouvait, et avec raison, qu\'elle n\'avait pas la science de la charpente dramatique, qu\'elle ne savait point nouer habilement ni dénouer une intrigue. En un mot, on la jugeait trop littéraire, trop simple et trop humaine. Ai-je besoin de dire que c\'est justement pour ces qualités rares qu\'une partie de son théâtre me plaît ?
+
+D\'ailleurs, elle a remporté de grands succès au théâtre, et toujours par une simplicité de moyens très louable. Je parlerai plus loin de son *Mauprat*, qui est une pièce bâtarde, mélodramatique et paradoxale, tout à fait médiocre selon moi. Mais quelle bonhomie pleine de tendresse, quel beau courant de facilité aimable dans le *Marquis de Villemer* et dans Claudie, par exemple ! Certes, je ne trouve pas là tout ce que je voudrais ; une chose y est au moins : le dédain de la mécanique théâtrale, l\'effet obtenu par le développement naturel des caractères et des sentiments, et c\'est là un beau mérite déjà.
+
+Le succès de *François le Champi* vint également de l\'heureuse simplicité du drame. Le public dut subir le charme de cette histoire toute nue, que l\'auteur lui contait en trois actes, sans employer le moindre coup de théâtre. Je cherche aujourd\'hui des arguments pour établir sur des faits que la mécanique théâtrale n\'est pas de toute nécessité, et j\'ai déjà trouvé les arguments péremptoires de *l'Ami Fritz*, de *la Cigale*, du Club. Comme on le voit, il y a trente ans, *François le Champi* m\'aurait fourni, lui aussi, un article, ce qui prouve qu\'à toutes les époques le talent a suffi pour le succès, sans qu\'on ait à s\'embarrasser le moins du monde des prétendues règles. Même j\'irai plus loin : *François le Champi* a été certainement un repos délicieux pour le public, au milieu des abominations compliquées du mélodrame romantique.
+
+Aujourd\'hui, ce qui nous fait accueillir *François le Champi* avec quelque froideur, c\'est l\'intolérable prétention à la naïveté qu\'on y rencontre, dans les moindres phrases. L\'histoire en elle-même est charmante ; mais, bon Dieu ! comme le cadre est maniéré, comme ces paysans sont de drôles de paysans ! Le roman et la pièce ont été écrits à l\'époque où triomphait le principe de la couleur locale. Pour donner de la couleur locale à une oeuvre, le procédé était simple ; par exemple, dans un roman italien, on mettait des « signor », et dans un roman espagnol, des « senor » ; ou encore, quand on faisait parler un paysan, un lui prêtait des « j\'avions » et des « j\'étions » : cela suffisait, l\'étude semblait complète. Sans doute, George Sand, avec son grand talent, procédait d\'une façon plus littéraire ; mais, au fond, soyez certain que son insouciance était la même pour une étude complète et sincère.
+
+Je me trompe, je veux même croire qu\'elle était de bonne foi. Peut-être s\'est-elle imaginé que, dans ses romans champêtres, elle avait étudié le Berri d\'une façon sérieuse. Il n\'y a eu là, si l\'on veut, qu\'une duperie de son tempérament idéaliste, qui lui défendait de voir la vérité vraie et surtout de la reproduire. Le résultat, au demeurant, n\'en reste pas moins le même. Je ne connais rien de plus faux que ses romans champêtres. Les paysans, chez elle, sont des messieurs qui jargonnent, avec une affectation de naïveté insupportable. On dirait des paysans en pâte tendre de Sèvres, dorés et enrubannés. Ils ont un raffinement de sensations, une correction pittoresque de langage des plus curieux. Ce sont les paysans typiques de l\'école idéaliste.
+
+Cela, dans la nouveauté, a pu paraître très joli. On s\'est extasié pendant trente ans sur les romans champêtres de George Sand. Elle avait nettoyé la campagne et fait des dessus de pendule avec des groupes bucoliques. À cette heure, je crois que l\'on commence à s\'apercevoir combien sont fades et mensongères de pareilles imaginations. L\'autre soir, j\'ai remarqué quelque impatience, dans le public de l\'Odéon, en écoutant d\'étranges phrases, d\'une coupe balancée et toute littéraire, sur lesquelles se trouvent plaques des mots rustiques, ou plutôt des mots de l\'ancien français ressuscites pour la circonstance. C\'est là ce qui agace : la convention et le parti-pris sont évidents, l\'auteur n\'a pas un instant cherché à équilibrer le langage et les actions, à descendre dans la façon de sentir, avant de trouver la façon d\'exprimer. Je l\'ai dit, il y a là un placage, un travail d\'ébénisterie littéraire, des pantins déguisés, inventant un langage que personne ne parle, pas plus aux champs qu'à la ville.
+
+Voilà donc où s\'en vont les engouements littéraires : au ridicule. Lorsqu\'une étude n\'est pas basée sur l\'observation exacte, on est certain qu\'elle prêtera à rire plus tard.
+
+Les gens dont la moralité est susceptible, et qui semblent à chaque pièce se méfier d\'un assaut pénible contre leur vertu, se sont toujours montrés très choqués du sujet même de *François le Champi*, de cette tendresse filiale du pauvre enfant trouvé, qui devient peu à peu de l\'amour pour sa mère adoptive, Madeleine. On a prononcé jusqu\'au gros mot d\'inceste. J\'accorde que le sujet est délicat et d\'un maniement difficile. Il devait plaire George Sand, très curieuse de toutes les nuances de l'affection, et dont la bonté tolérante ne mettait pas le mal où les autres le voyaient. D\'ailleurs, avec quelles restrictions, avec quelles touches prudentes et délicates elle a traité ce sujet ! On devine plus qu'on ne lit dans son oeuvre.
+
+Une fois, le sujet accepté, le dirai-je ? j\'aurais souhaité plus de carrure. Elle est très intéressante, cette étude psychologique, et faite pour tenter un puissant analyste. Il y a là un combat profond dans un coeur, des nuances infinies à trouver, une notation de cette transformation dans l'amour qui pouvait faire une grande oeuvre. Je me plains donc que, dans la pièce surtout, cette notation n\'existe pas. On voit bien le Champi devenir amoureux, et encore la transition est-elle trop brusque. Quant à Madeleine, elle attend le dénouement pour tout comprendre ; puis, quand elle accepte le mariage en trois phrases, on ne sait pas si elle aime François. On ignore ce qui la détermine. Selon moi, toute la pièce aurait dû être dans la peinture des tendresses de Madeleine se transformant peu à peu en une passion pleine de douceur et de reconnaissance. Voyez *Phèdre*, le sujet était autrement difficile à traiter. En somme, l\'amour de Madeleine est légitime, et elle y arriverait par une lutte très touchante avec son propre coeur. La faire passive, c\'est diminuer l\'oeuvre.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[NOS AUTEURS DRAMATIQUES]{lang="EN-GB"}
+
+George Sand
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911417 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910931 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910445 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909959 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909473 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908987 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908501 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908015 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907529 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907043 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906557 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906071 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905585 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905099 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904613 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904127 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903641 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903155 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368902669 .pcalibre .calibre2 .pcalibre1} {#ii .calibre46 .sigil_not_in_toc}
+
+
+Au théâtre, *Mauprat* devait fatalement perdre beaucoup. Mon opinion est que le drame est très inférieur au roman. Il faut remarquer que ce conte est fait de deux parties : une légende sanglante et une analyse de sentiments. Dans le livre, la légende tenait strictement sa place, l\'analyse se développait à son aise et était la partie la plus finement écrite. Au théâtre, au contraire, toute la longue éducation de Bernard par Edmée, toute cette romanesque liaison d\'une fille civilisée et d\'un sauvage, a dû disparaître ou du moins se résumer brièvement tandis que la partie noire déborde et que le drame tourne au gros mélodrame.
+
+Les deux premiers tableaux et les deux derniers ressuscitent les beaux soirs du boulevard du Grime. Cela est indigne de George Sand comme combinaisons grossières et comme style déclamatoire. Qu\'on nous ramène à Ducray-Duminil. Quant aux deux tableaux du milieu, ceux dans lesquels Edmée dompte Bernard, ils produisent à la scène un effet qui m\'a stupéfié. Ils y sont comiques, je veux dire que la salle rit de chaque révolte de Bernard. On entre en pleine comédie, on trouve très drôles cet amoureux si mal commode et cette amoureuse qui fait le pion. Remarquez que jamais l\'intention de l\'auteur n\'a été d\'exciter le rire. Le succès a tourné ainsi, il a bien fallu s\'accommoder du succès.
+
+Ah ! cette pauvre Edmée, si fière et si touchante dans le roman, comme elle devient là une désagréable personne ! Elle n\'a pas une scène vraie, et je plains sincèrement l\'actrice chargée de rendre sympathique cette insupportable poupée. Au dernier tableau seulement, elle a un cri d\'amour ; mais il vient bien tard, et il est inattendu, parce que forcément toute l\'étude analytique du personnage a dû être sacrifiée. J\'en dirai autant de Bernard, dont les transformations paraissent trop rapides à la scène. Tout se passe dans les entractes. Les meilleurs effets du rôle sont encore les effets comiques, auxquels l\'auteur n\'avait pas songé.
+
+Les personnages secondaires sont également diminués. Marcasse est d\'un ennui mortel, avec son langage monosyllabique. Ce patois petit nègre reste le plus souvent incompréhensible ; on ne sait si l\'on a affaire à un Huron de Fenimore Cooper ou à un de ces innocents de village que les gamins poursuivent à coups de pierre. La déchéance de Patience est plus grande encore. Le philosophe rude et libre de la tour Gazeau devient un fidèle serviteur qui radote.
+
+Jamais je n\'ai mieux senti le péril qu\'il y a à tirer un drame d\'un roman. Un drame doit naître de toutes pièces, avec la vitalité propre du genre. Le faire avec les morceaux d\'un livre, c\'est faire une oeuvre bâtarde et qui n\'est pas viable. Il faut voir, par exemple, ce qu\'est devenu à la scène le coup de feu tiré sur Edmée par Jean de Mauprat et dont on accuse Bernard. Déjà, il y avait là une péripétie d\'une vraisemblance douteuse ; mais, sur les planches, il est absolument inacceptable que Bernard ne se défende pas et que les personnages présents soient assez sots pour patauger dans une pareille aventure.

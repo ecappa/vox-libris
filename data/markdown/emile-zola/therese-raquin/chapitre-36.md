@@ -1,0 +1,858 @@
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+THÉÂTRE
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre42} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre47}]{.calibre42}
+
+## []{#_Toc368783323 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783183 .calibre4 .pcalibre .pcalibre1}[Acte III]{#_Toc368783043 .calibre4 .pcalibre .pcalibre1} {#calibre_toc_9 .calibre37}
+
+Trois heures du matin. La chambre est parée, toute blanche. Grand feu clair. Une lampe allumée. Rideaux blancs au lit, couvre-pieds garni de dentelles, carrés de guipure sur les sièges. De gros bouquets de roses partout, sur le buffet, sur la cheminée, sur la table.
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783324 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783184 .calibre4 .pcalibre .pcalibre1}[Scène première]{#_Toc368783044 .calibre4 .pcalibre .pcalibre1} {#scène-première .calibre48 .sigil_not_in_toc}
+
+
+THÉRÈSE, MADAME RAQUIN, SUZANNE, MICHAUD, GRIVET
+
+(*Thérèse, madame Raquin et Suzanne, en toilette de noce, entrent par la porte du fond. Madame Raquin et Suzanne n'ont plus leurs châles ni leurs chapeaux. Thérèse est en soie grise ; elle va s'asseoir à gauche, d'un air las. Suzanne reste à la porte et se débat un instant contre Grivet et Michaud, en habit noir, qui veulent suivre les dames.)*
+
+**
+SUZANNE**.
+Mais non, mon oncle ! mais non, monsieur Grivet ! On n'entre pas dans la chambre de la mariée ! C'est inconvenant, ce que vous faites là.
+
+(*Michaud et Grivet entrent quand même.)*
+
+**
+MICHAUD**, *bas à Suzanne.*
+Tais-toi donc, c'est une farce\...
+
+(*De même à Grivet.)*
+Vous avez le paquet d'orties, monsieur Grivet ?
+
+**
+GRIVET**.
+Certainement, depuis ce matin, dans la poche de mon habit\... Ça m'a même beaucoup gêné à l'église et au restaurant.
+
+(*Il s'approche sournoisement du lit.)*
+
+**
+MADAME RAQUIN**, *avec un sourire.*
+Allons, messieurs, vous ne pouvez assister à la toilette de la mariée.
+
+**
+MICHAUD**.
+La toilette de la mariée ! Ah ! chère dame, quelle charmante chose !\... Si vous aviez besoin de nous pour les épingles, nous vous aiderions.
+
+(*Il rejoint Grivet.)*
+
+**
+SUZANNE**, *à madame Raquin.*
+Jamais je n'ai vu mon oncle si gai. Il était rouge, rouge, au dessert.
+
+**
+MADAME RAQUIN**.
+
+Laisse-les rire. Un soir de noces, il est permis de s'amuser. À Vernon, on en fait bien d'autres. Les mariés ne peuvent fermer l'œil de la nuit.
+
+**
+GRIVET**, *devant le lit.*
+Fichtre ! ce lit est d'un moelleux !\... Touchez donc, monsieur Michaud.
+
+**
+MICHAUD**.
+Bigre ! il y a au moins trois matelas\...
+
+(*Bas.)*
+Vous avez fourré les orties dedans ?
+
+**
+GRIVET**, *de même.*
+Juste au beau milieu.
+
+**
+MICHAUD**, *éclatant de rire.*
+
+Ha ! ha ! vous êtes trop farce, positivement.
+
+**
+GRIVET**, *riant également.*
+Ha ! ha ! elle est réussie, celle-là, n'est-ce pas ?
+
+**
+MADAME RAQUIN**, *souriant.*
+Messieurs, la mariée attend.
+
+SUZANNE.
+Voyons, vous en irez-vous ? Vous êtes agaçants, à la fin !
+
+**
+MICHAUD**.
+Bien, bien, nous partons.
+
+**
+GRIVET**, *à Thérèse.*
+Madame, nos compliments, et une bonne nuit.
+
+**
+THÉRÈSE**, *se levant et se rasseyant.*
+Merci, messieurs.
+
+**
+GRIVET**, *serrant la main de madame Raquin en se retirant.*
+Vous ne nous en voulez pas, chère dame ?
+
+**
+MADAME RAQUIN**.
+Comment donc, mon vieil ami, un soir de noces !
+
+(*Michaud et Grivet s'en vont lentement en pouffant de rire.)*
+
+**
+SUZANNE**, *fermant la porte derrière eux.*
+Ne revenez plus surtout\... Il n'y a que le mari qui ait le droit de venir, et encore, lorsque nous le lui permettrons.
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783325 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783185 .calibre4 .pcalibre .pcalibre1}[Scène II]{#_Toc368783045 .calibre4 .pcalibre .pcalibre1} {#scène-ii .calibre48 .sigil_not_in_toc}
+
+
+THÉRÈSE, MADAME RAQUIN, SUZANNE
+
+**
+MADAME RAQUIN**.
+Tu devrais te déshabiller, Thérèse ; trois heures vont sonner.
+
+**
+THÉRÈSE**.
+Je suis brisée de fatigue\... Cette cérémonie, cette promenade en voiture, ce repas qui n'en finissait plus\... Laissez-moi là un instant, je vous en prie.
+
+**
+SUZANNE**.
+Oui, il faisait une chaleur dans ce restaurant ! J'avais mal à la tête, mais ça s'est dissipé dans le fiacre\...
+
+(*À madame Raquin.)*
+C'est vous qui devez être lasse, avec vos mauvaises jambes ! Le médecin vous a pourtant bien défendu de tant vous fatiguer.
+
+**
+MADAME RAQUIN**.
+Une émotion terrible pourrait seule m'être fatale, et, aujourd'hui, je n'ai que des émotions douces à avoir\... Les choses se sont bien passées, n'est-ce pas ? C'était convenable.
+
+**
+SUZANNE**.
+Le maire avait l'air tout à fait comme il faut. Quand il s'est mis à lire dans son petit livre rouge, le marié a baissé la tête\... Monsieur Grivet a fait une signature superbe sur le registre.
+
+**
+MADAME RAQUIN**.
+À l'église, le prêtre a été bien touchant.
+
+**
+SUZANNE**.
+Oh ! tout le monde pleurait. Je guettais Thérèse ; elle n'avait pas envie de rire, Thérèse, je vous assure\... Et, l'après-midi, que de monde sur les boulevards ! Nous sommes bien allés deux fois de la Madeleine à la Bastille. Les gens nous regardaient d'un air drôle\... La moitié de la noce dormait en arrivant à ce restaurant des Batignolles.
+
+(Elle rit.)
+
+**
+MADAME RAQUIN**.
+Thérèse, tu devrais te déshabiller, mon enfant.
+
+**
+THÉRÈSE**.
+Encore un instant, causez encore un instant.
+
+**
+SUZANNE**[[\[12\]]{.MsoFootnoteReference .MsoFootnoteReference .calibre43 lang="EN-US"}](../Text/Zola3_split_151.htm#_ftn12){#_ftnref12 .pcalibre .pcalibre1}.
+Voulez-vous que je vous serve de femme de chambre ?\... Attendez\... Maintenant, laissez-moi faire. Comme ça, vous ne vous fatiguerez pas.
+
+**
+MADAME RAQUIN**.
+Donne-moi son chapeau.
+
+**
+SUZANNE**, *ôtant le chapeau et le donnant à madame Raquin qui va le serrer dans l'armoire.*
+Là, vous voyez que vous n'avez pas besoin de vous remuer\... Ah ! pourtant, il faut que vous vous leviez, si vous voulez que je retire la robe.
+
+THÉRÈSE, *se levant.*
+Comme tu me tourmentes !
+
+**
+MADAME RAQUIN**.
+Il est tard, ma fille.
+
+**
+SUZANNE**, *dégrafant la robe, ôtant les épingles.*
+Un mari, ça doit être terrible. Une de mes amies qui s'est mariée, pleurait, pleurait\... Vous ne vous serrez presque pas, et votre taille est très mince. Vous avez raison de, porter des corsages un peu longs\... Ah ! voilà une épingle, par exemple ! qui tient joliment. J'ai envie d'aller chercher monsieur Grivet.
+
+(*Elle rit.)*
+
+**
+THÉRÈSE**.
+Le frisson me prend. Dépêche-toi, ma chère.
+
+**
+SUZANNE**[[\[13\]]{.MsoFootnoteReference .MsoFootnoteReference .calibre43 lang="EN-US"}](../Text/Zola3_split_151.htm#_ftn13){#_ftnref13 .pcalibre .pcalibre1}.
+Nous allons nous mettre devant le feu\...
+
+*Elles traversent toutes deux.*
+
+Tiens ! vous avez un accroc dans votre volant. Elle est magnifique, votre soie ; elle se tient debout\... Ah ! que vous êtes nerveuse, bonne amie ! Vous frémissez comme Thisbé, sous mes doigts. Thisbé, c'est une chatte que mon oncle m'a donnée. Je prends bien garde pourtant de ne pas vous faire de chatouilles.
+
+**
+THÉRÈSE**.
+J'ai un peu de fièvre.
+
+**
+SUZANNE**.
+J'en suis à la dernière agrafe, allez !\...
+
+(*Elle enlève la robe et la remet à madame Raquin.)*
+J'ai fini\... Je vais vous coiffer pour la nuit, maintenant, voulez-vous ?
+
+**
+MADAME RAQUIN**.
+C'est cela.
+
+(*Elle sort par le fond en emportant la robe.)*
+
+**
+SUZANNE**, *après avoir fait asseoir Thérèse devant le feu.*
+Vous voilà déjà toute rouge. Vous étiez tantôt pâle comme une morte.
+
+**
+THÉRÈSE**.
+C'est le feu qui me saisit.
+
+**
+SUZANNE**, *derrière elle, la décoiffant.*
+Baissez un peu la tête\... Vous avez des cheveux superbes\... Dites, bonne amie, je voudrais vous questionner ; je suis très curieuse, vous savez ; les petites filles aiment à se renseigner\... Votre cœur bat bien fort, et c'est pour cela que vois tremblez, n'est-ce pas ?
+
+**
+THÉRÈSE**.
+Mon cœur n'a pas dix-sept ans comme le tien, ma chère.
+
+**
+SUZANNE**.
+Je ne vous fâche pas, au moins ?\... Toute la journée, j'ai pensé que si j'étais à votre place, je serais bien sotte, et alors je me suis promis de voir comment vous vous y prendriez pour votre toilette de nuit, afin de ne pas avoir l'air gauche, quand viendra mon tour\... Vous êtes un peu triste, mais vous avez du courage. Moi, j'ai peur de sangloter comme une bête.
+
+**
+THÉRÈSE**.
+Le prince bleu est donc un prince terrible ?
+
+**
+SUZANNE**.
+Ne vous moquez pas\... Cela vous va bien d'être décoiffée ; vous ressemblez à ces reines qu'on voit sur les images\... Pas de nattes, n'est-ce pas ? rien qu'un chignon.
+
+THÉRÈSE.
+Oui, noue simplement les cheveux.
+
+(*Madame Raquin rentre et prend un peignoir blanc dans l'armoire.)*
+
+**
+SUZANNE**, *la recoiffant.*
+Si vous me promettiez de ne pas rire, je vous dirais ce que j'éprouverais à votre place\... Je serais contente, oh ! mais contente comme je ne l'ai jamais été. Et, avec cela, j'aurais une peur atroce. Il me semblerait marcher sur des nuages, entrer dans quelque chose d'inconnu, de doux et de terrifiant, avec une musique très douce, des parfums très suaves. Et j'avancerais dans une lumière blanche, poussée malgré moi par une joie si frissonnante, que je croirais en mourir\... N'est-ce pas ce que vous ressentez ?
+
+**
+THÉRÈSE**.
+Si\...
+
+(*D'un ton plus bas.)*
+De la musique, des parfums, une grande lumière, tout le printemps de la jeunesse et de l'amour.
+
+**
+SUZANNE**.
+Mais vous grelottez encore.
+
+**
+THÉRÈSE**.
+J'ai pris froid, je ne puis me réchauffer.
+
+**
+MADAME RAQUIN**, *venant s'asseoir au coin de la cheminée.*
+Je vais faire tiédir ton peignoir.
+
+(*Elle présente le peignoir au feu.)*
+
+**
+SUZANNE**, reprenant.
+Et quand le prince bleu attendrait, comme attend monsieur Laurent, je mettrais quelque malice à le laisser s'impatienter. Puis, lorsqu'il serait à la porte, oh ! alors, je deviendrais stupide, je me ferais toute petite, toute petite, et je tâcherais qu'il ne me trouve plus\... Je ne sais plus ensuite, j'ai des douleurs quand j'y songe.
+
+**
+MADAME RAQUIN**, *retournant le peignoir, souriant.*
+Il ne faut pas y songer, Suzanne. Les enfants n'ont donc que les poupées, les fleurs et les maris en tête !
+
+**
+THÉRÈSE**.
+La vie est plus rude.
+
+**
+SUZANNE**, *à Thérèse.*
+Est-ce que ce n'est pas ce que vous éprouvez ?
+
+**
+THÉRÈSE**.
+Si\...
+
+(*D'un ton plus bas.)*
+J'aurais voulu ne pas me marier, l'hiver, dans cette chambre. À Vernon, en mai, les acacias sont en fleurs, les nuits sont tièdes.
+
+**
+SUZANNE**.
+Vous voilà coiffée.
+
+(*Thérèse et madame Raquin se lèvent.)*
+Vous allez mettre votre peignoir tout chaud.
+
+**
+MADAME RAQUIN**, *aidant Thérèse à mettre le peignoir.*
+Il me brûle les mains.
+
+**
+SUZANNE**.
+Vous n'avez plus froid, j'espère ?
+
+**
+THÉRÈSE**.
+Merci.
+
+**
+SUZANNE**, *la regardant.*
+Ah ! vous êtes gentille, vous avez l'air d'une vraie mariée, dans ces dentelles.
+
+**
+MADAME RAQUIN**.
+Maintenant, nous allons te laisser seule, mon enfant.
+
+**
+THÉRÈSE**[[\[14\]]{.MsoFootnoteReference .MsoFootnoteReference .calibre43 lang="EN-US"}](../Text/Zola3_split_151.htm#_ftn14){#_ftnref14 .pcalibre .pcalibre1}.
+Seule, seule\... Attendez\... Il me semble que j'ai encore quelque chose à vous dire.
+
+**
+MADAME RAQUIN**.
+Non, ne parle pas ; j'évite de parler, moi, tu vois bien. Je ne veux pas te mettre en larmes. Si tu savais quel effort j'ai dû faire, depuis ce matin ! J'ai le cœur serré, et pourtant je dois être, je suis heureuse\... Tout est fini. Tu as vu comme notre vieil ami Michaud est gai. Il faut être gaie.
+
+**
+THÉRÈSE**.
+Vous avez raison, j'ai la tête malade. Au revoir.
+
+**
+MADAME RAQUIN**.
+Au revoir\...
+
+(*Revenant.)*
+Dis-moi, tu n'as pas de chagrin, tu ne me caches pas quelque souffrance ?\... Ce qui me soutient, c'est la pensée que nous avons fait ton bonheur\... Tu aimeras ton mari, qui mérite notre tendresse à toutes deux. Tu l'aimeras comme tu as aimé\... Non, je n'ai rien à te dire, je ne veux rien te dire. Nous avons fait de notre mieux, et je te souhaite beaucoup de joie, ma fille, pour toutes les consolations que tu me donnes.
+
+**
+SUZANNE**.
+On dirait que vous la laissez avec une bande de loups, cette pauvre Thérèse, au fond d'une caverne. La caverne sent bon. Il y a des roses partout. C'est doux et gentil comme dans un nid.
+
+**
+THÉRÈSE**.
+Ces fleurs ont coûté cher, vous avez fait des folies.
+
+MADAME RAQUIN.
+Je sais que tu aimes le printemps ; j'ai voulu en mettre un petit coin dans ta chambre, la nuit de tes noces. Tu pourras y faire le rêve de Suzanne, croire que tu visites les jardins du paradis\... Tu souris, vois-tu. Sois heureuse, au milieu de tes roses. Au revoir, ma fille.
+
+*Elle l'embrasse.*
+
+**
+SUZANNE**.
+Et moi, vous ne m'embrassez pas, bonne amie ?
+
+(*Thérèse l'embrasse.)*
+Vous voilà redevenue toute pâle. C'est le prince bleu qui approche\...
+
+(*Regardant autour d'elle avant de sortir.)*
+Oh ! c'est terrible, une chambre comme ça, pleine de roses.
+
+
+::: WordSection
+[
+]{.calibre18}
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783326 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783186 .calibre4 .pcalibre .pcalibre1}[Scène III]{#_Toc368783046 .calibre4 .pcalibre .pcalibre1} {#scène-iii .calibre48 .sigil_not_in_toc}
+
+
+LAURENT, THÉRÈSE
+
+(*Thérèse, restée seule, revient avec lenteur s'asseoir près du feu. Un silence. Laurent, encore en toilette de noces, entre doucement, ferme la porte et s'avance d'un air gêné.)*
+
+**
+LAURENT**.
+Thérèse, mon cher amour\...
+
+**
+THÉRÈSE**, *le repoussant.*
+Non, attends, j'ai froid.
+
+**
+LAURENT**, *après un silence.*
+Enfin, nous voilà seuls, ma Thérèse, loin des autres, libres de nous aimer\... La vie est à nous, cette chambre est à nous, et tu es à moi, chère femme, parce que je t'ai conquise, et que tu as bien voulu te donner.
+
+(*Il cherche à l'embrasser.)*
+
+**
+THÉRÈSE**, *le repoussant.*
+Non, tout à l'heure, je suis toute frissonnante.
+
+**
+LAURENT**.
+Pauvre ange !\... Donne tes pieds que je les réchauffe dans mes mains.
+
+(*Il s'agenouille devant elle et essaye de lui prendre les pieds, qu'elle retire.)*
+C'est que l'heure est venue, vois-tu. Rappelle-toi. Il y a un an que nous attendons, un an que nous travaillons à cette nuit d'amour. Il nous la faut, n'est-ce pas ? pour nous payer toute notre prudence et tout ce que tu sais, nos souffrances, nos angoisses\...
+
+**
+THÉRÈSE**.
+Je me rappelle\... Ne reste pas là. Assieds-toi un instant. Nous causerons.
+
+**
+LAURENT**, *se relevant.*
+Pourquoi trembles-tu ? J'ai fermé la porte, et je suis ton mari\... Jadis, quand tu venais, tu ne tremblais pas, tu riais, tu parlais haut, au risque de nous faire surprendre. Maintenant, tu parles à voix basse, comme si quelqu'un nous écoutait derrière ces murs\... Va, nous pouvons élever la voix et rire, et nous aimer. C'est notre nuit de noces, personne ne viendra.
+
+**
+THÉRÈSE**, *avec épouvante.*
+Ne dis pas cela, ne dis pas cela\... Tu es plus pâle que moi, Laurent, et ta langue balbutie à dire ces choses. Ne fais pas le brave. Attends que nous osions, pour nous embrasser\... Tu as peur d'avoir l'air d'un imbécile, n'est-ce pas ? en ne me prenant pas un baiser. Tu es un enfant. Nous ne sommes pas des mariés comme les autres\... Assieds-toi. Causons.
+
+(*Il passe derrière elle, s'accoude à la cheminée, pendant qu'elle reprend d'un autre ton de voix, familier et indiffèrent.)*
+Il a fait beaucoup de vent aujourd'hui.
+
+**
+LAURENT**.
+Un vent très froid. Il s'est un peu calmé, l'après-midi.
+
+**
+THÉRÈSE**.
+Oui, il y avait des toilettes sur les boulevards\... N'importe, les abricotiers feront bien de ne pas se presser de fleurir.
+
+**
+LAURENT**.
+Les coups de gelée, en mars, sont très mauvais pour les arbres fruitiers. À Vernon, tu dois te souvenir\...
+
+(*Il s'arrête. Tous deux rêvent un instant.)*
+
+**
+THÉRÈSE**, *à voix basse.*
+À Vernon, c'était, l'enfance\...
+
+(*Reprenant son ton de voix familier et indifférent.)*
+Mets donc une bûche au feu. Il commence à faire bon, ici\... Crois-tu qu'il soit quatre heures ?
+
+**
+LAURENT**, *regardant la pendule.*
+Non, pas encore.
+
+(*Il passe à gauche et va s'asseoir à l'autre bout de la pièce.)*
+
+**
+THÉRÈSE**.
+C'est étonnant, la nuit est longue\... Est-ce que tu es comme moi ? Je n'aime guère aller en fiacre. Rien n'est plus stupide que de rouler pendant des heures. Ça m'endort\... Je déteste aussi manger au restaurant.
+
+**
+LAURENT**.
+On n'y est jamais aussi bien que chez soi.
+
+**
+THÉRÈSE**.
+À la campagne, je ne dis pas.
+**
+LAURENT**.
+On mange d'excellentes choses, à la campagne\... Tu te rappelles, les guinguettes, au bord de l'eau\...
+
+(*Il se lève.)*
+
+**
+THÉRÈSE**, *se levant brusquement, d'une voix rude.*
+Tais-toi ! Pourquoi lâches-tu les souvenirs ? Je les écoute malgré moi battre dans ta tête et dans la mienne, et la cruelle histoire se déroule\... Non, ne disons plus rien, ne pensons plus. Sous les mots que tu prononces, j'en entends d'autres ; j'entends ce que tu penses et ce que tu ne dis pas\... N'est-ce pas ? tu en étais à l'accident ? Tais-toi !
+
+(*Un silence.)*
+
+**
+LAURENT**.
+Thérèse, parle, je t'en conjure. Ce silence est trop lourd. Parle-moi\...
+
+**
+THÉRÈSE**, *allant s'asseoir à droite, les mains serrées aux tempes.*
+Ferme les yeux, tâche de l'anéantir.
+
+**
+LAURENT**.
+Non, j'ai besoin d'entendre le son de ta voix. Dis-moi quelque chose, ce que tu voudras, comme tout à l'heure, que le temps est mauvais, que la nuit est longue\...
+
+**
+THÉRÈSE**.
+Je pense quand même, je ne puis pas ne pas penser. Tu as raison, le silence est mauvais, et les mots me jailliraient des lèvres\...
+
+(*Essayant de sourire, d'une voix gaie.)*
+La mairie était toute froide, ce matin. J'avais les pieds glacés. Mais je me les suis réchauffés sur un calorifère, à l'église. Tu l'as vu, le calorifère ? Il était près de l'endroit où nous nous sommes mis à genoux.
+
+**
+LAURENT**.
+Parfaitement\... Grivet est resté planté dessus pendant toute la cérémonie. Il avait un air de jubilation, ce diable de Grivet ! il était fort drôle, n'est-ce pas ?
+
+(*Ils se forcent tous les deux pour rire.)*
+
+**
+THÉRÈSE**.
+L'église était un peu noire, à cause du temps. As-tu remarqué la dentelle de la nappe de l'autel ? C'est de la dentelle à dix francs le mètre, au moins. Je n'en ai pas de si belle dans mon magasin\... Des odeurs d'encens traînaient, si douces qu'elles me faisaient mal\... J'ai cru d'abord que nous étions seuls, au fond de cette grande église vide, et cela me plaisait.
+
+(*Sa voix s'assombrit peu à peu.)*
+Puis, des voix ont chanté. Tu as dû remarquer, dans une chapelle, de l'autre côté de la nef\... ?
+
+**
+LAURENT**, *hésitant.*
+J'ai aperçu du monde avec des cierges, je crois.
+
+**
+THÉRÈSE**, *prise d'une terreur croissante.*
+C'était un enterrement. Quand je levais les yeux, j'avais en face de moi le drap noir, avec la grande croix blanche\...
+
+(*Elle se lève et recule lentement.)*
+La bière a passé près de nous. Je l'ai regardée. Une pauvre bière, courte, étroite, toute mesquine ; quelque misérable mort, souffreteux et malingre\...
+
+(*Elle est arrivée près de Laurent et se heurte à son épaule. Ils tressaillent tous les deux. Puis, elle reprend, d'une voix basse et ardente.)*
+Tu l'as vu à la Morgue, toi, Laurent ?
+
+**
+LAURENT**.
+Oui.
+
+**
+THÉRÈSE**.
+Paraissait-il avoir beaucoup souffert ?
+
+**
+LAURENT**.
+Horriblement.
+
+**
+THÉRÈSE**.
+Il avait les yeux ouverts, et il te regardait, n'est-ce pas ?
+
+**
+LAURENT**.
+Oui\... Il était atroce, bleui et gonflé par l'eau. Et il riait, le coin de la bouche tordu.
+
+**
+THÉRÈSE**.
+Il riait, tu crois\... Dis-moi, dis-moi tout, dis-moi comment il était\... Dans mes nuits d'insomnie, je ne l'ai jamais vu nettement, et j'ai une rage, une rage de le voir.
+
+**
+LAURENT**, *d'une voix terrible, secouant Thérèse.*
+Tais-toi ! réveille-toi !\... Nous nous endormons tous les deux. De quoi me parles-tu ? Et si j'ai répondu, j'ai menti. Je n'ai rien vu, rien, rien\... Quel jeu imbécile jouons-nous donc là, nous autres !
+
+**
+THÉRÈSE**.
+Ah ! je sentais que les mots monteraient malgré nous à nos lèvres. Tout nous a ramenés à lui, les abricotiers en fleurs, les ginguettes du bord de l'eau, les bières mesquines qui passent\... Va, il n'est plus pour nous de causerie indifférente. Il est au bout de toutes nos pensées.
+
+**
+LAURENT**.
+Embrasse-moi.
+
+**
+THÉRÈSE**.
+J'entendais bien que tu ne me parlais que de lui et que je ne te répondais que sur lui. Ce n'est pas notre faute, si l'affreux récit s'est déroulé en nous, et si nous l'avons achevé à voix haute.
+
+**
+LAURENT**, *cherchant à la prendre dans ses bras.*
+Embrasse-moi, Thérèse. Nos baisers nous guériront. Nous nous sommes mariés pour nous calmer aux bras l'un de l'autre\... Embrasse-moi, et oublions, chère femme.
+
+**
+THÉRÈSE**, *le repoussant.*
+Ne me tourmente pas, je t'en supplie. Un moment encore\... Rassure-moi, sois bon et gai comme autrefois.
+
+(Un silence. Laurent fait quelques pas ; puis il sort vivement par la porte du fond comme pris d'une idée subite.)
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783327 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783187 .calibre4 .pcalibre .pcalibre1}[Scène IV]{#_Toc368783047 .calibre4 .pcalibre .pcalibre1} {#scène-iv .calibre48 .sigil_not_in_toc}
+
+
+THÉRÈSE, seule
+
+Il me laisse seule\... Ne me quitte pas, Laurent, je suis à toi\... Il n'est plus là, et me voilà seule, maintenant\... La lampe baisse, je crois. Si elle allait s'éteindre, si j'allais rester dans le noir\... Je ne veux pas être seule, je ne veux pas qu'il fasse nuit\... Aussi pourquoi lui ai-je refusé ce baiser ? Je ne sais ce que j'avais, mes lèvres étaient froides comme de la glace, et il me semblait que ce baiser me tuerait\... Où peut-il s'en être allé ?\...
+
+(*On frappe à la petite porte.)*
+Grand Dieu ! voilà l'autre qui revient, à présent ! qui revient pour ma nuit de noces ! L'avez-vous entendu ? Il frappe contre le bois de lit, il m'appelle sur l'oreiller\... Va-t'en, j'ai peur\...
+
+(*Elle reste frissonnante, les mains sur les yeux. On frappe de nouveau, et peu à peu elle se calme, elle sourit.)*
+Non, ce n'est pas l'autre, c'est mon cher amour, c'est mon cher passé\... Merci pour ta bonne pensée, Laurent. Je reconnais ton appel.
+
+(*Elle va ouvrir, Laurent entre.)*
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783328 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783188 .calibre4 .pcalibre .pcalibre1}[Scène V]{#_Toc368783048 .calibre4 .pcalibre .pcalibre1} {#scène-v .calibre48 .sigil_not_in_toc}
+
+
+LAURENT, THÉRÈSE
+
+(*Ils répètent exactement les mêmes jeux de scène qu'au commencement de la scène V de l'acte premier.)*
+
+**
+THÉRÈSE**.
+Toi, mon Laurent !\...
+
+(*Elle se pend à son cou.)*
+Je sentais que tu allais venir, mon cher amour, je songeais à toi. Il y a longtemps que je n'ai pu te tenir comme cela, à moi toute seule.
+
+**
+LAURENT**.
+Souviens-toi, tu m'avais pris jusqu'à mon sommeil. Et je rêvais comment ne nous séparer jamais\... Cette nuit, ce beau songe est réalisé, Thérèse : tu es là, pour toujours, sur ma poitrine\...
+
+**
+THÉRÈSE**.
+Ce sera une joie sans fin, une longue promenade au soleil.
+
+**
+LAURENT**.
+Embrasse-moi donc, chère femme.
+
+**
+THÉRÈSE**, *se dégageant brusquement des bras de Laurent, avec éclat.*
+Eh bien ! non, eh bien ! non\... À quoi bon jouer cette comédie du passé ? Nous ne nous aimons plus, c'est clair. Nous avons tué l'amour. Est-ce que tu crois que je ne me sens pas glacé entre mes bras ? Tenons-nous tranquilles. Ce serait cruel et ignoble.
+
+**
+LAURENT**.
+Tu es à moi, je t'aurai, je te guérirai malgré toi de tes peurs nerveuses\... Ce qui serait cruel, ce serait de ne plus nous aimer, de ne trouver qu'un cauchemar à la place du bonheur rêvé\... Viens, mets encore tes bras à mon cou.
+
+**
+THÉRÈSE**.
+Non, il ne faut pas tenter la souffrance.
+
+**
+LAURENT**.
+Comprends donc combien il est ridicule, après nous être aimés si hardiment ici, d'y passer une nuit pareille\... Personne ne viendra.
+
+**
+THÉRÈSE**, *avec effroi.*
+Tu as déjà dit cela, ne le répète pas, je t'en supplie\... Il viendrait peut-être.
+
+**
+LAURENT**.
+Veux-tu donc me rendre fou ?\...
+
+(*Elle passe à gauche, et il marche vers elle.)*
+Je t'ai achetée assez cher, pour que tu ne te refuses.
+
+**
+THÉRÈSE**, *se débattant.*
+Grâce !\... Le bruit de nos baisers l'appellerait\... J'ai peur, vois-tu, j'ai peur !\...
+
+(*Laurent va l'étreindre dans ses bras, lorsqu'il aperçoit le portrait de Camille, pendu au-dessus du buffet.)*
+
+**
+LAURENT**, *terrifié, reculant, montrant du doigt le portrait.*
+Là, là\... Camille\...
+
+**
+THÉRÈSE**, *revenant d'un bond se placer derrière lui.*
+Je te disais bien\... J'ai senti un souffle froid derrière mon dos\... Où le vois-tu ?
+
+**
+LAURENT**.
+Là, dans l'ombre.
+
+**
+THÉRÈSE**.
+Derrière le lit ?
+
+**
+LAURENT**.
+Non, à droite\... Il ne bouge pas, il nous regarde longuement, longuement\... Il est comme je l'ai vu, blafard, boueux, avec son sourire à un coin de la bouche.
+
+**
+THÉRÈSE**, *regardant.*
+Mais c'est son portrait que tu vois !
+
+**
+LAURENT**.
+Son portrait\...
+
+**
+THÉRÈSE**.
+Oui, la peinture que tu as faite, tu sais bien ?
+
+**
+LAURENT**.
+Non, je ne sais plus\... C'est son portrait, tu crois\... J'avais vu ses yeux remuer. Tiens ! je les vois remuer encore\... Son portrait, eh bien ! va le décrocher. Il nous gêne, à nous regarder si fixement.
+
+**
+THÉRÈSE**.
+Non, je n'ose pas.
+
+**
+LAURENT**.
+Je t'en prie, va.
+
+**
+THÉRÈSE**.
+Non.
+
+**
+LAURENT**.
+Nous le retournerons contre le mur, nous n'aurons plus peur, nous pourrons nous embrasser peut-être.
+
+**
+THÉRÈSE**.
+Non\... Pourquoi n'y vas-tu pas toi-même ?
+
+**
+LAURENT**.
+C'est qu'il ne me quitte pas des yeux\... Je te dis que ses yeux remuent ! Ils me suivent, ils m'écrasent\...
+
+(*Il s'approche lentement.)*
+Je baisserai la tête, et quand je ne le verrai plus\...
+
+(*Il décroche le portrait dans un mouvement de rage.)*
+
+
+::: WordSection
+*[
+]{.calibre18}*
+
+![Description : Ornement 2 BIS](../../../images/emile-zola/therese-raquin/Zola3_image009.jpg){.calibre45}
+
+[THÉÂTRE]{.calibre1}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+ACTE III
+
+
+[[Liste des pièces de théâtre](../Text/Zola3_split_000.htm){.calibre4 .pcalibre .pcalibre1}]{.calibre42}
+
+]{.calibre41} [![Description : Ornement 2](../../../images/emile-zola/therese-raquin/Zola3_image010.jpg){.calibre46}]{.calibre41}
+
+### []{#_Toc368783329 .calibre4 .pcalibre .pcalibre1}[]{#_Toc368783189 .calibre4 .pcalibre .pcalibre1}[Scène VI]{#_Toc368783049 .calibre4 .pcalibre .pcalibre1} {#scène-vi .calibre48 .sigil_not_in_toc}
+
+
+LAURENT, MADAME RAQUIN, THÉRÈSE
+
+**
+MADAME RAQUIN**, *sur le seuil de la porte.*
+Qu'ont-ils donc ? j'ai entendu des cris.
+
+**
+LAURENT**, *tenant toujours le portrait, le contemplant malgré lui.*
+Il est affreux\... Il est là, comme lorsque nous l'avons jeté à l'eau.
+
+**
+MADAME RAQUIN**, *s'avançant en trébuchant.*
+Dieu juste ! ils ont tué mon enfant !\...
+
+(*Thérèse, éperdue, pousse un cri de terreur. Laurent, épouvanté, jette le portrait sur le lit, et recule devant madame Raquin qui balbutie :)*
+Assassin, assassin !\...
+
+(*Elle est prise de spasmes, chancelle jusqu'au lit, veut se tenir à un des rideaux qu'elle arrache, et reste un instant adossée au mur, haletante et terrible. Laurent, poursuivi par ses regards, passe à droite et se réfugie auprès de Thérèse.)*
+
+**
+LAURENT**.
+C'est la crise dont elle était menacée. La paralysie monte et la prend à la gorge.
+
+**
+MADAME RAQUIN**, *s'avançant de nouveau, faisant un effort, suprême.*
+Mon pauvre enfant\... Les misérables, les misérables !
+
+**
+THÉRÈSE**.
+L'horrible chose !\... Elle est tordue comme dans un étau. Je n'ose lui porter secours.
+
+**
+MADAME RAQUIN**, *rejetée en arrière, terrassée, s'affaissant sur une chaise, à gauche.*
+Misère !\... je ne peux\... je ne peux plus\...
+
+(*Elle reste raide et muette, les yeux ardemment fixés sur Thérèse et Laurent qui frissonnent.)*
+
+**
+THÉRÈSE**.
+Elle se meurt.
+
+**
+LAURENT**.
+Non, ses yeux vivent, ses yeux nous menacent\... Ah ! que ses lèvres et ses membres soient de pierre !

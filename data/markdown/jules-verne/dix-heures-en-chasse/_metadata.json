@@ -1,0 +1,143 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "DIX HEURES EN CHASSE",
+  "slug": "dix-heures-en-chasse",
+  "nombre_chapitres": 12,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 1017,
+      "spine_end_exclusive": 1018,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_628.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 1018,
+      "spine_end_exclusive": 1019,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_629.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 1019,
+      "spine_end_exclusive": 1020,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_630.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 1020,
+      "spine_end_exclusive": 1021,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_631.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 1021,
+      "spine_end_exclusive": 1022,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_632.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 1022,
+      "spine_end_exclusive": 1023,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_633.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 1023,
+      "spine_end_exclusive": 1024,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_634.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 1024,
+      "spine_end_exclusive": 1025,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_635.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 1025,
+      "spine_end_exclusive": 1026,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_636.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 1026,
+      "spine_end_exclusive": 1027,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_637.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 1027,
+      "spine_end_exclusive": 1028,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_638.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 1028,
+      "spine_end_exclusive": 1029,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_639.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

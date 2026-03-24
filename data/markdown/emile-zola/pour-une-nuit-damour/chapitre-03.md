@@ -1,0 +1,101 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5868 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[POUR UNE NUIT D'AMOUR]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5869 .calibre35}
+
+## []{#_Toc368832921 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832647 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832373 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832099 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831825 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831551 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831277 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831003 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830729 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830455 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830181 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829907 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829633 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829359 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829085 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828811 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828537 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828263 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368827989 .pcalibre .calibre3 .pcalibre1} {#iii .calibre43}
+
+
+Toute petite, Thérèse de Marsanne prit Colombel pour souffre-douleur. Il était son aîné de six mois à peine, et Françoise, sa mère, avait achevé de l'élever au biberon, pour la nourrir. Plus tard, grandi dans la maison, il y occupa une position vague, entre domestique et camarade de jeux de la jeune fille.
+
+Thérèse était une enfant terrible. Non qu'elle se montrât garçonnière et bruyante. Elle gardait, au contraire, une singulière gravité, qui la faisait considérer comme une demoiselle bien élevée, par les visiteurs auxquels elle adressait de belles révérences. Mais elle avait des inventions étranges : elle éclatait brusquement en cris inarticulés, en trépignements fous, lorsqu'elle était seule ; ou bien elle se couchait sur le dos, au milieu d'une allée du jardin, puis restait là, allongée, refusant obstinément de se lever, malgré les corrections qu'on se décidait à lui administrer parfois.
+
+Jamais on ne savait ce qu'elle pensait. Déjà, dans ses grands yeux d'enfant, elle éteignait toute flamme ; et, au lieu de ces clairs miroirs où l'on aperçoit si nettement l'âme des fillettes, elle avait deux trous sombres, d'une épaisseur d'encre, dans lesquels il était impossible de lire.
+
+À six ans, elle commença à torturer Colombel. Il était petit et chétif. Alors, elle l'emmenait au fond du jardin, sous les marronniers, à un endroit assombri par les feuilles, et elle lui sautait sur le dos, elle se faisait porter. C'étaient des chevauchées d'une heure, autour d'un large rond-point. Elle le serrait au cou, lui enfonçait des coups de talons dans les flancs, sans le laisser reprendre haleine. Il était le cheval, elle était la dame. Lorsque, étourdi, il semblait près de tomber, elle lui mordait une oreille au sang, se cramponnait d'une étreinte si furieuse, qu'elle lui entrait ses petits ongles dans la chair. Et le galop reprenait, cette reine cruelle de six ans passait entre les arbres, les cheveux au vent, emportée par le gamin qui lui servait de bête.
+
+Plus tard, en présence de ses parents, elle le pinçait, et lui défendait de crier, sous la continuelle menace de le faire jeter à la rue, s'il parlait de leurs amusements. Ils avaient de la sorte une existence secrète, une façon d'être ensemble, qui changeait devant le monde. Quand ils étaient seuls, elle le traitait en joujou, avec des envies de le casser, curieuse de savoir ce qu'il y avait dedans. N'était-elle pas marquise, ne voyait-elle pas les gens à ses pieds ? Puisqu'on lui laissait un petit homme pour jouer, elle pouvait bien en disposer à sa fantaisie. Et, comme elle s'ennuyait de régner sur Colombel, loin de tous les yeux, elle s'offrait ensuite le plaisir plus vif de lui allonger un coup de pied ou de lui enfoncer une épingle dans le bras, au milieu d'une nombreuse compagnie, en le magnétisant de ses yeux sombres, pour qu'il n'eût même pas un tressaillement.
+
+Colombel supporta cette existence de martyr, avec des révoltes muettes qui le laissaient tremblant, les yeux à terre, afin d'échapper à la tentation d'étrangler sa jeune maîtresse. Mais il était lui-même de tempérament sournois. Cela ne lui déplaisait pas d'être battu. Il y goûtait une récréation âpre, s'arrangeait parfois pour se faire piquer, attendait la piqûre avec un frisson furieux et satisfait de sentir le coup d'épingle ; et il se perdait alors dans les délices de la rancune. D'ailleurs, il se vengeait déjà, se laissait tomber sur des pierres, en entraînant Thérèse, sans craindre de se casser un membre, enchanté quand elle attrapait une bosse. S'il ne criait pas, lorsqu'elle le piquait devant le monde, c'était pour que personne ne se mît entre eux. Il y avait simplement là une affaire qui les regardait, une querelle dont il entendait sortir vainqueur, plus tard.
+
+Cependant, le marquis s'inquiéta des allures violentes de sa fille. Elle ressemblait, disait-on, à un de ses oncles, qui avait mené une vie terrible d'aventures, et qui était mort assassiné dans un mauvais lieu, au fond d'un faubourg. Les Marsanne avaient ainsi, dans leur histoire, tout un filon tragique ; des membres naissaient avec un mal étrange, de loin en loin, au milieu de la descendance d'une dignité hautaine ; et ce mal était comme un coup de folie, une perversion des sentiments, une écume mauvaise qui semblait pour un temps épurer la famille. Le marquis, par prudence, crut donc devoir soumettre Thérèse à une éducation énergique, et il la plaça dans un couvent, où il espérait que la règle assouplirait sa nature. Elle y resta jusqu'à dix-huit ans.
+
+Quand Thérèse revint, elle était très sage et très grande. Ses parents furent heureux de constater chez elle une piété profonde. À l'église, elle demeurait abîmée, son front entre les mains. Dans la maison, elle mettait un parfum d'innocence et de paix. On lui reprochait un seul défaut : elle était gourmande, elle mangeait du matin au soir des bonbons, qu'elle suçait les yeux demi-clos, avec un petit frisson de ses lèvres rouges. Personne n'aurait reconnu l'enfant muette et entêtée, qui revenait du jardin en lambeaux, sans vouloir dire à quel jeu elle s'était déchirée ainsi. Le marquis et la marquise, cloîtrés depuis quinze ans au fond du grand hôtel vide, crurent devoir rouvrir leur salon. Ils donnèrent quelques dîners à la noblesse du pays. Ils firent même danser. Leur dessein était de marier Thérèse. Et, malgré sa froideur, elle se montrait complaisante, s'habillait et valsait, mais avec un visage si blanc, qu'elle inquiétait les jeunes hommes qui se risquaient à l'aimer.
+
+Jamais Thérèse n'avait reparlé du petit Colombel. Le marquis s'était occupé de lui et venait de le placer chez Me Savournin, après lui avoir fait donner quelque instruction. Un jour, Françoise, ayant amené son fils, le poussa devant elle, en rappelant à la jeune fille son camarade d'autrefois. Colombel était souriant, très propre, sans le moindre embarras. Thérèse le regarda tranquillement, dit qu'elle se souvenait en effet, puis tourna le dos. Mais, huit jours plus tard, Colombel revint, et bientôt il avait repris ses habitudes anciennes. Il entrait chaque soir à l'hôtel, au sortir de son étude, apportait des morceaux de musique, des livres, des albums. On le traitait sans conséquence, on le chargeait des commissions, comme un domestique ou un parent pauvre. Il était une dépendance de la famille. Aussi le laissait-on seul auprès de la jeune fille, sans songer à mal. Comme jadis, ils s'enfermaient ensemble dans les grandes pièces, ils restaient des heures sous les ombrages du jardin. À la vérité, ils n'y jouaient plus les mêmes jeux. Thérèse se promenait lentement, avec le petit bruit de sa robe dans les herbes. Colombel, habillé comme les jeunes gens riches de la ville, l'accompagnait en battant la terre d'une canne souple qu'il portait toujours.
+
+Pourtant, elle redevenait reine et il redevenait esclave. Certes, elle ne le mordait plus, mais elle avait une façon de marcher près de lui, qui, peu à peu, le rapetissait encore, le changeait en un valet de cour, soutenant le manteau d'une souveraine. Elle le torturait par ses humeurs fantasques, s'abandonnait en paroles affectueuses, puis se montrait dure, simplement pour se récréer. Lui, quand elle tournait la tête, coulait sur elle un regard luisant, aigu comme une épée, et toute sa personne de garçon vicieux s'allongeait et guettait, rêvant une traîtrise.
+
+Un soir d'été, sous les ombrages lourds des marronniers, ils se promenaient depuis longtemps, lorsque Thérèse, un instant silencieuse, lui demanda d'un air grave :
+
+--- Dites donc, Colombel, je suis lasse. Si vous me portiez, vous vous souvenez, comme autrefois ?
+
+Il eut un léger rire. Puis, très sérieux, il répondit :
+
+--- Je veux bien, Thérèse.
+
+Mais elle se remit à marcher, en disant simplement :
+
+--- C'est bon, c'était pour savoir.
+
+Ils continuèrent leur promenade. La nuit tombait, l'ombre était noire sous les arbres. Ils causaient d'une dame de la ville qui venait d'épouser un officier. Comme ils s'engageaient dans une allée plus étroite, le jeune homme voulut s'effacer, pour qu'elle passât devant lui ; mais elle le heurta violemment, le força de marcher le premier. Maintenant, tous deux se taisaient.
+
+Et, brusquement, Thérèse sauta sur l'échine de Colombel, avec son ancienne élasticité de gamine féroce.
+
+--- Allons, va ! dit-elle, la voix changée, étranglée par sa passion d'autrefois.
+
+Elle lui avait arraché sa canne, elle lui en battait les cuisses. Cramponnée aux épaules, le serrant à l'étouffer entre ses jambes nerveuses d'écuyère, elle le poussait follement dans l'ombre noire des verdures. Longtemps, elle le cravacha, activa sa course. Le galop précipité de Colombel s'étouffait sur l'herbe. Il n'avait pas prononcé une parole, il soufflait fortement, se roidissait sur ses jambes de petit homme, avec cette grande fille dont le poids tiède lui écrasait le cou.
+
+Mais, quand elle lui cria : Assez ! Il ne s'arrêta pas. Il galopa plus vite, comme emporté par son élan. Les mains nouées en arrière, il la tenait aux jarrets, si fortement, qu'elle ne pouvait sauter. C'était le cheval maintenant qui s'enrageait et qui enlevait la maîtresse. Tout d'un coup, malgré les cinglements de canne et les égratignures, il fila vers un hangar, dans lequel le jardinier serrait ses outils. Là, il la jeta par terre, et il la viola sur de la paille. Enfin, son tour était venu d'être le maître.
+
+Thérèse pâlit davantage, eut les lèvres plus rouges et les yeux plus noirs. Elle continua sa vie de dévotion. À quelques jours de distance, la scène recommença : elle sauta sur le dos de Colombel, voulut le dompter, et finit encore par être jetée dans la paille du hangar. Devant le monde, elle restait douce pour lui, gardait une condescendance de grande soeur. Lui, était aussi d'une tranquillité souriante. Ils demeuraient, comme à six ans, des bêtes mauvaises, lâchées et s'amusant en secret à se mordre. Aujourd'hui, seulement, le mâle avait la victoire, aux heures troubles du désir.
+
+Leurs amours furent terribles. Thérèse reçut Colombel dans sa chambre. Elle lui avait remis une clef de la petite porte du jardin, qui ouvrait sur la ruelle des remparts. La nuit, il était obligé de traverser une première pièce, dans laquelle couchait justement sa mère. Mais les amants montraient une audace si tranquille, que jamais on ne les surprit. Ils osèrent se donner des rendez-vous en plein jour. Colombel venait avant le dîner, attendu par Thérèse, qui fermait la fenêtre, afin d'échapper aux regards des voisins. À toute heure, ils avaient le besoin de se voir, non pour se dire les tendresses des amants de vingt ans, mais pour reprendre le combat de leur orgueil. Souvent, une querelle les secouait, s'injuriant l'un l'autre à voix basse, d'autant plus tremblants de colère, qu'ils ne pouvaient céder à l'envie de crier et de se battre.
+
+Justement, un soir, avant le dîner, Colombel était venu. Puis, comme il marchait par la chambre, nu-pieds encore et en manches de chemise, il avait eu l'idée de saisir Thérèse, de la soulever ainsi que font les hercules de foire, au début d'une lutte. Thérèse voulut se dégager, en disant :
+
+--- Laisse, tu sais que je suis plus forte que toi. Je te ferais du mal.
+
+Colombel eut un petit rire.
+
+--- Eh bien ! Fais-moi du mal, murmura-t-il.
+
+Il la secouait toujours, pour l'abattre. Alors, elle ferma les bras. Ils jouaient souvent à ce jeu, par un besoin de bataille. Le plus souvent, c'était Colombel qui tombait à la renverse sur le tapis, suffoqué, les membres mous et abandonnés. Il était trop petit, elle le ramassait, l'étouffait contre elle, d'un geste de géante.
+
+Mais, ce jour-là, Thérèse glissa sur les genoux, et Colombel, d'un élan brusque, la renversa. Lui, debout, triomphait.
+
+--- Tu vois bien que tu n'es pas la plus forte, dit-il avec un rire insultant.
+
+Elle était devenue livide. Elle se releva lentement, et, muette, le reprit, agitée d'un tel tremblement de colère, que lui-même eut un frisson. Oh ! L'étouffer, en finir avec lui, l'avoir là inerte, à jamais vaincu ! Pendant une minute, ils luttèrent sans une parole, l'haleine courte, les membres craquant sous leur étreinte. Et ce n'était plus un jeu. Un souffle froid d'homicide battait sur leurs têtes. Il se mit à râler. Elle, craignant qu'on ne les entendît, le poussa dans un dernier et terrible effort. La tempe heurta l'angle de la commode, il s'allongea lourdement par terre.
+
+Thérèse, un instant, respira. Elle ramenait ses cheveux devant la glace, elle défripait sa jupe, en affectant de ne pas s'occuper du vaincu. Il pouvait bien se ramasser tout seul. Puis, elle le remua du pied. Et, comme il ne bougeait toujours pas, elle finit par se pencher, avec un petit froid dans les poils follets de sa nuque. Alors, elle vit le visage de Colombel d'une pâleur de cire, les yeux vitreux, la bouche tordue. À la tempe droite, il y avait un trou ; la tempe s'était défoncée contre l'angle de la commode. Colombel était mort.
+
+Elle se releva, glacée. Elle parla tout haut, dans le silence.
+
+--- Mort ! Le voilà mort, à présent !
+
+Et, tout d'un coup, le sentiment de la réalité l'emplit d'une angoisse affreuse. Sans doute, une seconde, elle avait voulu le tuer. Mais c'était bête, cette pensée de colère. On veut toujours tuer les gens, quand on se bat ; seulement, on ne les tue jamais, parce que les gens morts sont trop gênants. Non, non, elle n'était pas coupable, elle n'avait pas voulu cela. Dans sa chambre, songez donc !
+
+Elle continuait de parler à voix haute, lâchant des mots entrecoupés.
+
+--- Eh bien ! C'est fini... Il est mort, il ne s'en ira pas tout seul.
+
+À la stupeur froide du premier moment, succédait en elle une fièvre qui lui montait des entrailles à la gorge, comme une onde de feu. Elle avait un homme mort dans sa chambre. Jamais elle ne pourrait expliquer comment il était là, les pieds nus, en manches de chemise, avec un trou à la tempe. Elle était perdue.
+
+Thérèse se baissa, regarda la plaie. Mais une terreur l'immobilisa au-dessus du cadavre. Elle entendait Françoise, la mère de Colombel, passer dans le corridor. D'autres bruits s'élevaient, des pas, des voix, les préparatifs d'une soirée qui devait avoir lieu le jour même. On pouvait l'appeler, la venir chercher d'une minute à l'autre. Et ce mort qui était là, cet amant qu'elle avait tué et qui lui retombait sur les épaules, avec le poids écrasant de leur faute !
+
+Alors, étourdie par la clameur qui grandissait sous son crâne, elle se leva et se mit à tourner dans la chambre. Elle cherchait un trou où jeter ce corps qui maintenant lui barrait l'avenir, regardait sous les meubles, dans les coins, toute secouée du tremblement enragé de son impuissance. Non, il n'y avait pas de trou, l'alcôve n'était pas assez profonde, les armoires étaient trop étroites, la chambre entière lui refusait une aide. Et c'était là, pourtant, qu'ils avaient caché leurs baisers ! Il entrait avec son petit bruit de chat vicieux et partait de même. Jamais elle n'aurait cru qu'il pût devenir si lourd.
+
+Thérèse piétinait encore, battait toujours la chambre avec la folie dansante d'une bête traquée, lorsqu'elle crut avoir une inspiration. Si elle jetait Colombel par la fenêtre ? Mais on le trouverait, on devinerait bien d'où il était tombé. Cependant, elle avait soulevé le rideau pour regarder la rue ; et, tout d'un coup, elle aperçut le jeune homme d'en face, l'imbécile qui jouait de la flûte, accoudé à sa fenêtre, avec son air de chien soumis. Elle connaissait bien sa figure blême, sans cesse tournée vers elle, et dont elle était fatiguée, tant elle y lisait de tendresse lâche. La vue de Julien, si humble et si aimant, l'arrêta net. Un sourire éclaira son visage pâle. Le salut était là. L'imbécile d'en face l'aimait d'une tendresse de dogue enchaîné, qui lui obéirait jusqu'au crime. D'ailleurs, elle le récompenserait de tout son coeur, de toute sa chair. Elle ne l'avait pas aimé, parce qu'il était trop doux ; mais elle l'aimerait, elle l'achèterait à jamais par le don loyal de son corps, s'il touchait au sang pour elle. Ses lèvres rouges eurent un petit battement, comme à la saveur d'un amour épouvanté dont l'inconnu l'attirait.
+
+Alors, vivement, ainsi qu'elle aurait pris un paquet de linge, elle souleva le corps de Colombel, qu'elle porta sur le lit. Puis, ouvrant la fenêtre, elle envoya des baisers à Julien.

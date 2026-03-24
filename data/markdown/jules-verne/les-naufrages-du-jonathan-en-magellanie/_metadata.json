@@ -1,0 +1,72 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES NAUFRAGÉS DU JONATHAN ( En Magellanie )",
+  "slug": "les-naufrages-du-jonathan-en-magellanie",
+  "nombre_chapitres": 31,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 2028,
+      "spine_end_exclusive": 2033,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_023.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_024.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_025.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_026.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 2033,
+      "spine_end_exclusive": 2044,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_028.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_029.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_030.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_031.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_032.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_033.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_034.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_035.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_036.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_037.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_038.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Troisième partie",
+      "slug": "troisieme-partie",
+      "is_part": true,
+      "spine_start": 2044,
+      "spine_end_exclusive": 2059,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_039.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_040.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_041.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_042.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_043.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_044.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_045.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_046.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_047.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_048.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_049.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_050.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_051.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_052.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_053.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

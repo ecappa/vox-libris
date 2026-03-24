@@ -1,0 +1,35 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LES HÉRITIERS RABOURDIN"
+slug_oeuvre: "les-heritiers-rabourdin"
+section: "Chapitre 02"
+slug_section: "chapitre-02"
+type: "chapitre"
+---
+
+!
+
+THÉÂTRE
+
+LES HÉRITIERS RABOURDIN
+
+Liste des pièces de théâtre
+
+] !
+
+## Personnages
+RABOURDIN
+CHAPUZOT**
+**LE DOCTEUR MOURGUE
+DOMINIQUE
+ISAAC
+LEDOUX
+CHARLOTTE
+MADAME FIQUET
+MADAME VAUSSARD
+EUGÉNIE**
+
+(La scène est à Senlis.)
+
+La mise en scène est prise de la salle. Le premier personnage inscrit tient la gauche du spectateur.

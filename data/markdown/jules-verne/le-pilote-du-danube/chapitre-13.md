@@ -1,0 +1,307 @@
+]{.calibre20}
+
+
+LE PILOTE DU DANUBE
+
+
+]{.calibre20}
+
+## [[Chapitre 13 -- Une commission rogatoire]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942837 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_41 .calibre21}
+
+Karl Dragoch n\'avait pas souvenir de s\'être occupé, dans tout le cours de sa carrière, d\'une affaire aussi fertile en incidents inattendus et ayant autant le caractère du mystère que cette affaire de la bande du Danube. L\'incroyable mobilité de l\'insaisissable bande, son ubiquité, la soudaineté de ses coups, avaient déjà quelque chose d\'insolite. Et voici que son chef, à peine dépisté, devenait introuvable, et semblait se rire des mandats d\'amener lancés contre lui dans toutes les directions !
+
+Tout d\'abord, on eût été fondé à croire qu\'il s\'était évaporé. De lui, aucune trace, ni en amont, ni en aval. La police de Budapest, notamment, malgré une surveillance incessante, n\'avait rien signalé qui lui ressemblât. Il fallait bien qu\'il fût passé à Budapest, cependant, puisque, dès le 31 août, il était vu à Duna Földvar, soit près de quatre-vingt-dix kilomètres plus bas que la capitale de la Hongrie. Ignorant que le rôle du pêcheur fût joué à ce moment par Ivan Striga, à qui le chaland assurait un refuge, Karl Dragoch n\'y pouvait rien comprendre.
+
+Les jours suivants, c\'est à Szekszard, à Vukovar, à Cserevics, à Karlovitz enfin que l\'on signalait sa présence. Ilia Brusch ne se cachait pas. Loin de là, il disait son nom à qui voulait l\'entendre, et parfois même vendait quelques livres de poissons. D\'aucuns, il est vrai, prétendaient aussi l\'avoir surpris au moment où il en achetait, ce qui ne laissait pas d\'être assez singulier.
+
+Le soi-disant pêcheur faisait preuve en tous cas d\'une infernale habileté. La police, aussitôt prévenue de son apparition, avait beau faire diligence, elle arrivait toujours trop tard. C\'est en vain qu\'elle sillonnait ensuite le fleuve en tous sens, elle n\'y découvrait pas le plus petit vestige de la barge qui semblait littéralement volatilisée.
+
+Karl Dragoch se désespérait en apprenant les échecs successifs de ses sous-ordres. Le gibier allait-il décidément lui glisser entre les mains ? Toutefois, deux choses étaient certaines. La première, c\'est que le prétendu lauréat continuait à descendre le fleuve. La seconde, c\'est qu\'il semblait fuir les villes, dont, sans doute, il redoutait la police.
+
+Karl Dragoch fit donc redoubler de surveillance à toutes les cités de quelque importance situées en aval de Budapest, telles que Mohacs, Apatin et Neusatz, et lui-même établit son quartier général à Semlin. Ces villes constituaient ainsi autant de barrages élevés sur la route du fugitif.
+
+Malheureusement, il paraissait bien que celui-ci ne fît que rire de la série d\'obstacles accumulés devant lui. De même qu\'on avait appris son passage en aval de Budapest, sa présence fut constatée, mais toujours trop tard, en aval de Mohacs, d\'Apatin et de Neusatz. Dragoch, transporté de colère et comprenant qu\'il jouait sa dernière carte, réunit alors une véritable flottille. Sur son ordre, plus de trente embarcations croisèrent nuit et jour au-dessous de Semlin. Bien adroit serait l\'adversaire s\'il parvenait à franchir leur ligne serrée.
+
+Pour remarquables qu\'elles fussent, ces dispositions n\'auraient eu cependant aucun succès, si Serge Ladko fût resté prisonnier dans la gabarre de Striga. Heureusement pour le repos de Dragoch, il ne devait pas en être ainsi.
+
+La journée du 6 septembre s\'était écoulée dans ces conditions, sans que rien de nouveau fût survenu, et Dragoch, dès les premières heures du 7, se disposait à rejoindre sa flottille, quand il vit un agent accourir à sa rencontre. Son homme, enfin arrêté, venait d\'être incarcéré dans la prison de Semlin.
+
+Il se hâta de se rendre au parquet. L\'agent avait dit vrai. Le trop célèbre Ladko était bien réellement sous les verrous.
+
+La nouvelle se répandit avec la rapidité de l\'éclair et mit la ville en rumeur. On ne causait pas d\'autre chose, et, sur le quai, des groupes compacts stationnèrent toute la journée devant la barge du fameux malfaiteur.
+
+Ces groupes ne purent manquer d\'attirer l\'attention d\'une gabarre qui, vers trois heures de l\'après-midi, passa au large de Semlin. Cette gabarre qui descendait innocemment le fleuve, c\'était celle de Striga.
+
+« Qu\'y a-t-il donc à Semlin ? dit celui-ci à son fidèle Titcha, en remarquant l\'animation des quais. Serait-ce une émeute ?
+
+Il s\'aida d\'une jumelle, qu\'il écarta de ses yeux après un rapide examen.
+
+--- Le diable m\'emporte, Titcha, s\'écria-t-il, si ce n\'est pas l\'embarcation de notre particulier !
+
+--- Tu crois ? fit Titcha en s\'emparant de la jumelle.
+
+--- Il faut que j\'en aie le coeur net, déclara Striga qui paraissait en proie à une vive agitation. Je vais à terre.
+
+--- Pour te faire pincer. C\'est malin ! Si cette embarcation est celle de Dragoch, c\'est que Dragoch est à Semlin. C\'est se jeter dans la gueule du loup.
+
+--- Tu as raison, approuva Striga, qui disparut dans le rouf. Mais nous allons prendre nos précautions. »
+
+Un quart d\'heure plus tard, il revenait « camouflé » de main de maître, si l\'on veut bien nous permettre cette expression empruntée à l\'argot commun aux malfaiteurs et aux gens de police. Sa barbe coupée et remplacée par des favoris postiches, ses cheveux dissimulés sous une perruque, un large bandeau recouvrant l\'un de ses yeux, il s\'appuyait péniblement sur une canne, comme un homme qui sortirait à peine d\'une grave maladie.
+
+« Et maintenant ? demanda-t-il, non sans quelque vanité.
+
+--- Merveilleux ! Admira Titcha.
+
+--- Ecoute, reprit Striga. Tandis que je serai à Semlin, vous continuerez votre route. Deux ou trois lieues au-delà de Belgrade, vous mouillerez et vous attendrez mon retour.
+
+--- Comment feras-tu pour nous rejoindre ?
+
+--- Ne t\'inquiète pas de ça, et dis à Ogul de me conduire dans le bachot. » Pendant ce temps, le chaland avait laissé Semlin en arrière. Ayant pris terre assez loin de la ville, Striga revint à grands pas vers les maisons. Dès qu\'il les eut atteintes, il modéra son allure, et, se mêlant aux groupes qui stationnaient au bord du fleuve, il recueillit avidement les propos échangés autour de lui.
+
+Il ne s\'attendait guère à ce que ces propos lui apprirent. Personne, dans ces groupes animés, ne parlait de Dragoch. On ne s\'entretenait pas davantage d\'Ilia Brusch. Il n\'était question que de Ladko. De quel Ladko ? Non pas du pilote de Roustchouk, dont le nom avait été utilisé par Striga de la manière qu\'on sait, mais précisément de ce Ladko imaginaire qu\'il avait ainsi créé de toutes pièces, du Ladko malfaiteur, du Ladko pirate, c\'est-à-dire de lui-même, Striga. C\'est sa propre arrestation qui formait le sujet de la conversation générale.
+
+Il ne parvenait pas à comprendre. Que la police commit une erreur et arrêtât un innocent au lieu et place du coupable, il n\'y avait à cela rien de bien surprenant. Mais quel rapport avait cette erreur, dont il pouvait mieux que personne certifier la réalité, avec la présence de ce bateau, que son chaland, la veille encore, avait à la traîne ?
+
+On estimera, sans doute, qu\'il faisait preuve de faiblesse en accordant quelque intérêt à ce côté de la question. L\'essentiel, c\'était qu\'un autre fût poursuivi à sa place. Pendant qu\'on suspecterait celui-là, on ne songerait pas à s\'occuper de lui. C\'était le point important. Le reste ne comptait pas. Rien n\'eût été plus vrai, s\'il n\'avait eu des motifs particuliers de vouloir être renseigné à cet égard. À en juger d\'après les apparences, tout portait à croire que l\'homme incarcéré et le maître de la barge ne faisaient qu\'un. Quel était cet inconnu, qui, après avoir été, huit jours durant, prisonnier à bord du chaland, en remplaçait si complaisamment le propriétaire entre les griffes de la police ? Striga, certes, ne quitterait pas Semlin avant d\'être fixé sur ce point.
+
+Il lui fallut s\'armer de patience. M. Izar Rona, juge chargé de cette affaire, ne paraissait pas disposé à mener rondement l\'instruction. Trois jours s\'écoulèrent sans qu\'il donnât signe de vie. Cette attente préalable faisait partie de sa méthode. D\'après lui, il est excellent de laisser tout d\'abord un accusé aux prises avec la solitude. L\'isolement est un grand destructeur de force nerveuse, et quelques jours de secret dépriment merveilleusement l\'adversaire que le juge va trouver en face de lui.
+
+M. Izar Rona, quarante-huit heures après l\'arrestation, exprimait ces idées à Karl Dragoch venu aux informations. Le détective ne pouvait que donner aux théories de son chef une approbation hiérarchique.
+
+« Enfin, monsieur le Juge, se risqua-t-il à demander, quand comptez-vous procéder au premier interrogatoire ?
+
+--- Demain.
+
+--- Je viendrai donc demain soir en apprendre le résultat. Inutile de vous répéter, je pense, sur quoi se fondent les présomptions ?
+
+--- Inutile, affirma M. Rona. J\'ai nos conversations antérieures présentes à l\'esprit, et, d\'ailleurs, mes notes sont très complètes.
+
+--- Vous me permettrez toutefois de vous rappeler, monsieur le Juge, le désir que j\'ai pris la liberté de vous exprimer ?
+
+--- Quel désir ?
+
+--- Celui de ne pas paraître dans cette affaire, au moins jusqu\'à nouvel ordre. Ainsi que je vous l\'ai exposé, l\'inculpé ne me connaît que sous le nom de Jaeger. Cela peut éventuellement nous servir. Evidemment, lorsque nous serons devant la Cour, il me faudra décliner mon nom véritable. Mais nous n\'en sommes pas là, et il me paraît préférable, pour la recherche des complices, de ne pas me brûler avant l\'heure\...
+
+--- C\'est entendu, » promit le juge.
+
+Dans la cellule où on l\'avait enfermé, Serge Ladko attendait qu\'on voulût bien s\'occuper de lui. Suivant de si près sa précédente aventure, ce nouveau malheur, aussi inexplicable pour lui que l\'autre, n\'avait pas abattu son courage. Sans tenter la moindre résistance au moment de son arrestation, il s\'était laissé conduire à la prison, après avoir vainement formulé une question restée sans réponse. Que risquait-il, d\'ailleurs ? Cette arrestation résultait nécessairement d\'une erreur qui serait dissipée dès qu\'on l\'interrogerait.
+
+Par malheur, le premier interrogatoire se faisait singulièrement attendre. Serge Ladko, maintenu au secret le plus rigoureux, demeurait seul, jour et nuit, dans sa cellule, où, de temps à autre, un gardien venait jeter un furtif coup d\'oeil par un judas percé dans la porte. Ce gardien espérait-il, obéissant aux ordres de M. Izar Rona, constater les résultats progressifs de la méthode d\'isolement ! En ce cas, il ne devait pas se retirer satisfait. Les heures et les jours s\'écoulaient, sans que rien, dans l\'attitude du prisonnier, révélât un changement de ses intimes pensées. Assis sur une chaise, les mains appuyées sur les genoux, les yeux baissés, la face froide, il semblait profondément réfléchir, et gardait une immobilité presque absolue, sans donner aucun signe d\'impatience. Dès la première minute, Serge Ladko s\'était résolu au calme, et rien ne l\'en ferait sortir ; mais il en arrivait, en constatant la fuite du temps, à regretter sa prison flottante qui, du moins, le rapprochait de Roustchouk.
+
+Le troisième jour, enfin,-on était alors au 10 septembre,-sa porte s\'ouvrit, et il fut invité à quitter sa cellule. Encadré par quatre soldats, baïonnette au canon, il suivit un long couloir, descendit un interminable escalier, puis traversa une rue, au-delà de laquelle il pénétra dans le Palais de Justice, bâti en face de la prison.
+
+Dans cette rue, le populaire grouillait, se pressant derrière un cordon d\'agents de police. Quand le prisonnier apparut, de féroces clameurs s\'élevèrent de cette foule, avide d\'exprimer sa haine pour le malfaiteur redouté et si longtemps impuni. Quel que fût le sentiment de Serge Ladko en se voyant en butte à cette injure imméritée, il n\'en laissa rien paraître. D\'un pas ferme, il entra dans le Palais, et, après une nouvelle attente, se trouva enfin devant son juge.
+
+M. Izar Rona, petit homme malingre, blond, la barbe rare, au teint jaune et bilieux, était un magistrat de la manière forte. Procédant par affirmations tranchantes, par dénégations brutales, il attaquait l\'adversaire à coups de boutoir, plus désireux d\'inspirer la terreur que de gagner la confiance.
+
+Les gardes s\'étaient retirés sur un signe du juge. Debout au milieu de la pièce, Serge Ladko attendait qu\'il plût à celui-ci de l\'interroger. Dans un angle, le greffier prêt à écrire.
+
+« Asseyez-vous, dit M. Rona d\'un ton brusque.
+
+Serge Ladko obéit. Le magistrat reprit :
+
+--- Votre nom ?
+
+--- Ilia Brusch.
+
+--- Votre domicile ?
+
+--- Szalka.
+
+--- Votre profession ?
+
+--- Pêcheur.
+
+--- Vous mentez, formula le juge, en surveillant du regard le prévenu.
+
+Une légère rougeur colora le visage de Serge Ladko dont les yeux eurent un rapide éclair. Toutefois, il se contraignit au calme et garda le silence.
+
+--- Vous mentez, répéta M. Rona. Vous vous appelez Ladko. Votre domicile est Roustchouk.
+
+Le pilote tressaillit. Ainsi son identité véritable était connue. Comment cela avait-il pu se faire ? Cependant, le juge, à qui le tressaillement du prévenu n\'avait pas échappé, poursuivait d\'une voix cinglante :
+
+--- Vous êtes accusé de trois vols simples, de dix-neuf vols qualifiés perpétrés avec les circonstances aggravantes d\'escalade et d\'effraction, de trois assassinats et de six tentatives de meurtre, lesdits crimes et délits accomplis avec préméditation depuis moins de trois ans. Qu\'avez-vous à répondre ?
+
+Le pilote avait écouté, stupéfait, cette incroyable nomenclature. Eh quoi ! La confusion qu\'il avait redoutée, en apprenant de la bouche de M. Jaeger l\'existence de son sinistre homonyme, cette confusion s\'était produite en effet. Dès lors, à quoi bon avouer qu\'il s\'appelait Serge Ladko ? Tout à l\'heure, il avait eu la pensée de le reconnaître, en implorant la discrétion du juge. Il comprenait maintenant qu\'un tel aveu serait plus nuisible qu\'utile. C\'était bien lui, Serge Ladko, de Roustchouk, et non un autre, qui était accusé de cette effroyable série de crimes. Sans doute, même définitivement identifié, il parviendrait à établir son innocence. Mais combien de temps faudrait-il pour y arriver ? Non, mieux valait soutenir jusqu\'au bout le rôle du pêcheur Ilia Brusch, puisque Ilia Brusch était le nom d\'un innocent.
+
+--- J\'ai à répondre que vous vous trompez, répliqua-t-il d\'une voix ferme. Je me nomme Ilia Brusch et je demeure à Szalka. Il est bien facile, d\'ailleurs, de vous en assurer.
+
+--- Ce sera fait, dit le juge en prenant une note. En attendant, je vais vous faire connaître quelques-unes des charges qui pèsent sur vous.
+
+Serge Ladko se fit plus attentif. On touchait au point intéressant.
+
+--- Pour le moment, commença le juge, nous laisserons de côté la plus grande partie des crimes qui vous sont reprochés, et nous nous occuperons seulement des plus récents, de ceux qui ont été perpétrés pendant le voyage au cours duquel vous avez été arrêté.
+
+M. Rona, ayant repris haleine, poursuivit :
+
+--- C\'est à Ulm que l\'on signale pour la première fois votre présence. C\'est donc à Ulm que nous placerons l\'origine de ce voyage.
+
+--- Pardon, Monsieur, interrompit vivement Serge Ladko. Mon voyage avait commencé bien avant Ulm, puisque j\'ai remporté deux prix au concours de pêche de Sigmaringen et que j\'ai ensuite remonté le fleuve jusqu\'à Donaueschingen.
+
+--- Il est exact, en effet, répliqua le juge, qu\'un certain Ilia Brusch a été proclamé lauréat du concours de pêche institué par la Ligue Danubienne à Sigmaringen, et que cet Ilia Brusch a été vu à Donaueschingen.
+
+Mais, ou bien vous aviez déjà adopté à Sigmaringen une personnalité d\'emprunt, ou bien vous vous êtes substitué audit Ilia Brusch pendant qu\'il allait de Donaueschingen à Ulm. C\'est un point que nous éluciderons en son temps, soyez tranquille.
+
+Serge Ladko, les yeux écarquillés par la surprise, écoutait comme dans un rêve ces fantaisistes déductions. Un peu plus, on eût compté l\'imaginaire Ilia Brusch au nombre de ses victimes ! Sans prendre la peine de répondre, il haussait dédaigneusement les épaules, quand le juge, en le regardant fixement, lui demanda tout à coup à brûle-pourpoint :
+
+--- Qu\'êtes-vous allé faire à Vienne, le 26 août dernier, chez le juif Simon Klein ?
+
+Malgré lui, Serge Ladko tressaillit une seconde fois. Voilà qu\'on connaissait cette visite, maintenant ! Certes, elle n\'avait rien de répréhensible, mais l\'avouer, c\'était avouer en même temps son identité, et, puisqu\'il avait adopté le parti de la nier, force lui était de persister dans cette voie.
+
+--- Simon Klein ? répéta-t-il d\'un air interrogateur, en homme qui ne comprend pas.
+
+--- Vous niez ? fit M. Rona. Je m\'y attendais. C\'est donc à moi de vous apprendre qu\'en vous rendant chez le juif Simon Klein-et le juge, ce disant, se souleva à demi sur son siège pour donner à ses paroles une plus écrasante autorité,-vous alliez vous entendre avec le receleur ordinaire de votre bande.
+
+--- De ma bande ! répéta le pilote ahuri.
+
+--- Il est vrai, rectifia ironiquement le juge, que vous ne savez pas ce que je veux dire, que vous ne faites partie d\'aucune bande, que vous n\'êtes pas Ladko, mais bien un inoffensif pêcheur à la ligne du nom d\'Ilia Brusch ; Mais alors, si vous vous nommez en effet Ilia Brusch, pourquoi vous cachez-vous ?
+
+--- Je me cache, moi ? protesta Serge Ladko.
+
+--- Dame ! Ça m\'en a tout l\'air, répondit M. Izar Rona, à moins que ce ne soit pas se cacher que de dissimuler sous des lunettes noires des yeux qui semblent les meilleurs du monde-au fait ! Ayez donc l\'obligeance de les enlever, ces lunettes !-et de teindre en noir des cheveux que l\'on a naturellement blonds.
+
+Serge Ladko était accablé.
+
+La police était bien renseignée et la trame se resserrait autour de lui ; sans paraître remarquer son trouble, M. Rona poursuivit son avantage :
+
+--- Eh ! Eh ! Vous voilà moins fringant, mon gaillard. Vous ne nous saviez pas si avancés\... Mais je continue. À Ulm, vous aviez pris un passager avec vous.
+
+--- Oui, répondit Serge Ladko.
+
+--- Quel était son nom ?
+
+--- M. Jaeger.
+
+--- Très exact. Voudriez-vous me dire ce qu\'il est devenu, ce M. Jaeger ?
+
+--- Je l\'ignore. Il m\'a quitté en pleine campagne, presque au confluent de l\'Ipoly. J\'ai été bien surpris de ne plus le trouver en revenant à bord.
+
+--- En revenant, dites-vous. Vous vous étiez donc absenté ? Où étiez-vous allé ?
+
+--- Dans un village des environs, afin de me procurer un cordial pour mon passager.
+
+--- Il était donc malade ?
+
+--- Très malade. Il avait failli se noyer tout bonnement.
+
+--- Et c\'est vous qui l\'avez sauvé, je présume ?
+
+--- Qui voulez-vous que ce soit, puisqu\'il n\'y avait que moi ?
+
+--- Hum ! fit le juge un peu ébranlé.
+
+Mais, se ressaisissant :
+
+--- Vous comptez sans doute m\'émouvoir avec cette histoire de sauvetage ?
+
+--- Moi ? protesta Ladko. Vous m\'interrogez, je réponds. Voilà tout.
+
+--- C\'est bon, conclut M. Izar Rona. Mais, dites-moi, avant cet incident, vous n\'aviez jamais quitté votre barge, je crois ?
+
+--- Une seule fois, pour aller chez moi, à Szalka.
+
+--- Pourriez-vous me préciser la date de cette excursion ?
+
+--- Pourquoi pas, en cherchant un peu.
+
+--- Je vais vous aider. Ne serait-ce pas dans la nuit du 28 au 29 août ?
+
+--- Peut-être bien.
+
+--- Vous ne le niez pas ?
+
+--- Non.
+
+--- Vous l\'avouez ?
+
+--- Si vous voulez.
+
+--- Nous sommes d\'accord\... C\'est sur la rive gauche du Danube, je crois, que se trouve Szalka ? demanda M. Rona d\'un air bonhomme.
+
+--- En effet.
+
+--- Et il faisait noir, je crois, dans cette nuit du 28 au 29 août ?
+
+--- Très noir. Un temps affreux.
+
+--- Cela explique que vous vous soyez trompé. C\'est par une erreur toute naturelle qu\'en pensant aborder la rive gauche, vous avez débarqué sur la rive droite.
+
+--- Sur la rive droite ?
+
+M. Izar Rona se leva tout à fait, et, fixant le prévenu dans les yeux, prononça :
+
+--- Oui, sur la rive droite, juste en face de la villa du comte Hagueneau ? Serge Ladko chercha de bonne foi dans ses souvenirs. Hagueneau ? Il ne connaissait pas ce nom.
+
+--- Vous êtes très fort, déclara le juge déçu dans son essai d\'intimidation. Il est donc entendu que c\'est la première fois que vous entendez prononcer le nom du comte Hagueneau et que, si, au cours de la nuit du 28 au 29 août, sa villa a été mise au pillage et son gardien Christian Hoël grièvement blessé, c\'est à votre insu. Où diable avais-je la tête ? Comment connaîtriez-vous ces crimes commis par un certain Ladko ? Ladko, que diable ! Ce n\'est pas votre nom !
+
+--- Mon nom est Ilia Brusch, affirma le pilote d\'une voix moins assurée que la première fois.
+
+--- Parfait ! Parfait ! C\'est convenu\... Mais alors, si vous ne vous appelez pas Ladko, pourquoi avez-vous disparu, juste après la perpétration de ce crime, pour ne rompre votre incognito-et encore bien modestement !-qu\'à une distance respectable de la région qui en a été le théâtre ? Pourquoi ne vous a-t-on vu, vous qui montriez auparavant si généreusement votre personne, ni à Budapest, ni à Neusatz, ni à aucune ville un peu importante ? Pourquoi avez-vous abandonné votre rôle de pêcheur, au point même d\'acheter parfois du poisson dans les villages où vous consentiez à vous arrêter ?
+
+Tout cela était de l\'hébreu pour le malheureux pilote. S\'il avait disparu, c\'était bien malgré lui. Depuis cette nuit du 28 au 29 août, n\'avait-il pas été constamment prisonnier ? Dans ces conditions, quoi de surprenant à ce qu\'il eût disparu ? L\'étonnant, au contraire, c\'est qu\'il se trouvât quelqu\'un pour prétendre l\'avoir aperçu.
+
+Cette erreur du moins serait facile à dissiper. Il suffirait de raconter sincèrement l\'aventure incompréhensible dont il avait été victime. La justice serait peut-être plus clairvoyante et peut-être arriverait-elle à débrouiller les fils de cet imbroglio. Bien décidé à faire ce récit, Serge Ladko attendait impatiemment que M. Rona lui permit de placer un mot. Mais le juge était lancé à toute vapeur. Il se promenait maintenant de long en large dans son cabinet, en jetant au visage de son prisonnier un flot d\'arguments qu\'il jugeait triomphants.
+
+--- Si vous n\'êtes pas Ladko, continuait-il avec une véhémence croissante, comment se fait-il que, succédant au pillage de la villa du comte Hagueneau, pillage accompli, par un malheureux hasard, précisément au moment où vous aviez quitté votre barge, un vol, oh ! Un vol simple, celui-ci ! Ait été commis à Szuszek dans la nuit du 5 au 6 septembre, nuit que vous avez dû nécessairement passer en face de ce village ? Si vous n\'êtes pas Ladko, enfin, que faisait dans votre barge ce portrait adressé à son mari par votre femme, Natcha Ladko ?
+
+M. Rona avait touché juste, cette fois, et le dernier argument était en effet triomphant. Le pilote, anéanti, avait baissé la tête et de grosses gouttes de sueur ruisselaient de son visage.
+
+Cependant le juge poursuivait d\'une voix plus haute :
+
+--- Si vous n\'êtes pas Ladko, pourquoi ce portrait a-t-il été supprimé du jour où vous vous êtes senti menacé ? Il était dans votre coffre, ce portrait ; je précise, dans votre coffre de tribord. Il n\'y est plus. Sa présence vous accusait ; sa disparition vous condamne. Qu\'avez-vous à répondre ?
+
+--- Rien, murmura Ladko d\'une voix sourde. Je ne comprends rien à ce qui m\'arrive.
+
+--- Vous comprendrez à merveille si vous voulez vous en donner la peine. Pour le moment, nous allons interrompre cet intéressant entretien. On va vous reconduire dans votre cellule, où vous aurez tout le temps de vous livrer à vos réflexions. Récapitulons, en attendant, l\'interrogatoire d\'aujourd\'hui. Vous prétendez : 1° Vous nommer Ilia Brusch ; 2° Avoir remporté le prix au concours de pêche de Sigmaringen ; 3° Habiter Szalka ; 4° Avoir passé chez vous, à Szalka, la nuit du 28 au 29 août. Ces points seront vérifiés. De mon côté je prétends : 1° Que votre nom est Ladko ; 2° Que votre domicile est Roustchouk ; 3° Que, dans la nuit du 28 au 29 août, avec l\'aide de nombreux complices, vous avez mis au pillage la villa du comte Hagueneau et vous êtes rendu coupable d\'une tentative de meurtre sur la personne du gardien Christian Hoël ; 4° Qu\'un vol dont le nommé Kellermann, de Szuszek, a été victime, dans la nuit du 5 au 6 septembre, doit être mis à votre passif ; 5° Que de nombreux autres vols et meurtres commis dans les régions baignées par le Danube doivent pareillement vous être imputés. L\'instruction de ces crimes est ouverte. Des témoins sont cités. Vous serez mis en leur présence\... Voulez-vous signer votre interrogatoire ? Non ? À votre aise ! Gardes, reconduisez le prévenu ! »
+
+Pour regagner sa prison, Serge Ladko dut passer de nouveau au milieu de la foule et en subir encore les vociférations hostiles. La colère populaire semblait s\'être accrue pendant la durée de l\'interrogatoire et la police eut quelque peine à protéger le prisonnier.
+
+Au premier rang de cette foule hurlante, figurait Ivan Striga. Celui-ci dévora des yeux l\'individu qui prenait sa place avec tant de complaisance. Le pilote passa à deux mètres de lui et il put le voir tout à son aise. Mais il ne reconnut pas cet homme imberbe, aux cheveux bruns, dont le visage était orné d\'une superbe paire de lunettes noires, et ses perplexités n\'en furent pas atténuées.
+
+Striga s\'éloigna tout songeur avec le reste de la foule quand furent refermées les portes de la prison. Décidément, il ne connaissait pas l\'homme arrêté. Ce n\'était, en tous cas, ni Dragoch, ni Ladko. Dès lors, qu\'il s\'agît d\'Ilia Brusch ou de tout autre, que lui importait ? Quelle que fût la personnalité de l\'accusé, l\'essentiel était qu\'il absorbât l\'attention de la justice, et Striga n\'avait plus de raison de s\'attarder à Semlin. C\'est pourquoi il se résolut à partir dès le lendemain peur regagner son chaland. Mais, à son réveil, la lecture des journaux le fit changer d\'avis. Cette affaire Ladko étant menée dans le secret le plus rigoureux, c\'était une raison péremptoire pour que la Presse s\'ingéniât à percer, le mystère. Elle y avait réussi. Ample était sa moisson d\'informations.
+
+Les journaux relataient, en effet, assez exactement le premier interrogatoire, en faisant suivre leur récit de commentaires qui n\'étaient pas précisément favorables à l\'accusé. En général, ils s\'étonnaient de l\'obstination avec laquelle celui-ci soutenait être un simple pêcheur, du nom d\'Ilia Brusch, habitant seul la petite ville de Szalka. Quel intérêt pouvait-il avoir à soutenir un pareil système, dont la fragilité était évidente ? Déjà, d\'après eux, le juge d\'instruction, M. Izar Rona, avait envoyé à Gran une commission rogatoire. D\'ici très peu de jours, un magistrat se transporterait donc à Szalka et se livrerait à une enquête qui aurait comme résultat de ruiner les allégations du prévenu. On chercherait cet Ilia Brusch, et on le trouverait\... S\'il existait, ce qui, en somme, était fort douteux.
+
+Cette nouvelle modifia les projets de Striga. Tandis qu\'il poursuivait sa lecture, une idée singulière lui était venue, et l\'idée prit corps, quand il eut achevé de lire. Certes, il était très bon que la justice tînt un innocent. Mais il serait meilleur encore qu\'elle le gardât. Pour cela, que fallait-il ? lui fournir un Ilia Brusch en chair et en os, ce qui convaincrait ipso facto d\'imposture le véritable Ilia Brusch qu\'on retenait prisonnier à Semlin. Cette charge s\'ajouterait à celles qu\'on possédait déjà forcément contre lui, puisqu\'on l\'avait arrêté, et suffirait peut-être à motiver sa condamnation définitive, au grand profit du vrai coupable.
+
+Sans plus attendre, Striga quitta la ville. Seulement, au lieu de regagner son chaland, il lui tournait le dos. Emporté par une rapide voiture, il allait rejoindre la ligne ferrée qui l\'emmènerait à toute vapeur vers Budapest et vers le Nord.
+
+Pendant ce temps, Serge Ladko, gardant son immobilité coutumière, comptait tristement les heures. De sa première entrevue avec le juge, il était revenu effrayé de la gravité des présomptions qui pesaient sur lui. Certes, il réussirait fatalement avec le temps à faire triompher son innocence. Mais il lui faudrait sans doute s\'armer de patience, car il ne pouvait méconnaître que les apparences fussent contre lui et que la justice n\'eût bâti avec logique son échafaudage d\'hypothèses.
+
+Toutefois, il y a loin entre de simples soupçons et des preuves formelles. Or, des preuves, on n\'arriverait jamais, et pour cause, à en réunir contre lui. Le seul témoin qu\'il eût à craindre, et encore uniquement en ce qui concernait le secret de son nom, c\'était le juif Simon Klein. Mais Simon Klein, qui avait son point d\'honneur professionnel, ne consentirait vraisemblablement jamais à le reconnaître. D\'ailleurs, aurait-on même besoin de le mettre en présence de son ancien correspondant de Vienne ?
+
+Le juge n\'avait-il pas déclaré qu\'il allait se renseigner à Szalka ? Ces renseignements ne pouvant manquer d\'être excellents, la mise en liberté du prisonnier en résulterait évidemment.
+
+Plusieurs jours s\'écoulèrent, durant lesquels Serge Ladko ressassa ces pensées avec une fébrilité croissante. Szalka n\'était pas si loin, et il ne fallait pas si longtemps pour se renseigner. On était au septième jour, depuis son premier interrogatoire, quand il fut introduit, de nouveau dans le cabinet de M. Rona.
+
+Le juge était à son bureau et paraissait fort occupé. Pendant dix minutes, il laissa le pilote attendre debout, comme s\'il eût ignoré sa présence.
+
+« Nous avons la réponse de Szalka, dit-il enfin d\'une voix détachée, sans même relever les yeux sur le prisonnier qu\'il surveillait sournoisement à travers ses cils baissés.
+
+--- Ah ! Fît Serge Ladko avec satisfaction.
+
+--- Vous aviez raison, continuait cependant M. Rona. Il existe bien à Szalka un nommé Ilia Brusch, qui jouit de la meilleure réputation.
+
+--- Ah ! fit pour la seconde fois le pilote, qui voyait déjà ouverte la porte de sa prison.
+
+Le juge, se faisant plus étranger et plus indifférent encore, murmura sans paraître y attacher la moindre importance :
+
+--- Le commissaire de police de Gran, chargé de l\'enquête, a eu la bonne fortune de lui parler à lui-même.
+
+--- À lui-même ? répéta Serge Ladko qui ne comprenait pas.
+
+--- À lui-même, affirma le juge.
+
+Serge Ladko croyait rêver. Comment un autre Ilia Brusch avait-il pu être trouvé à Szalka ?
+
+--- Ce n\'est pas possible, Monsieur, balbutia-t-il. Il y a erreur.
+
+--- Jugez-en vous-même, répliqua le juge. Voici le rapport du commissaire de police de Gran. Il en résulte que ce magistrat, déférant à la commission rogatoire que je lui ai adressée, s\'est transporté le 14 septembre à Szalka et qu\'il s\'est rendu dans une maison sise au coin du chemin de halage et de la route de Budapest\... C\'est bien l\'adresse que vous avez donnée, je pense ? demanda le juge en s\'interrompant.
+
+--- Oui, Monsieur, répondit Serge Ladko d\'un air égaré.
+
+---\... Et de la route de Budapest, reprit M. Rona ; qu\'il a été reçu dans la dite maison, par le sieur Ilia Brusch en personne, lequel a déclaré n\'être que tout récemment revenu d\'une assez longue absence. Le commissaire ajoute que les renseignements qu\'il a pu recueillir sur le sieur Ilia Brusch tendent à établir sa parfaite honorabilité, et qu\'aucun autre habitant de Szalka ne porte ce nom\... Avez-vous quelque chose à dire ? Ne vous gênez pas, je vous prie.
+
+--- Non, Monsieur, balbutia Serge Ladko qui se sentait devenir fou.
+
+--- Voilà donc un premier point élucidé, » conclut avec satisfaction M. Rona, qui regardait son prisonnier comme le chat doit regarder une souris.

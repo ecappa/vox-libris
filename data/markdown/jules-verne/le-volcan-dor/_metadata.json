@@ -1,0 +1,64 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE VOLCAN D'OR",
+  "slug": "le-volcan-dor",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1917,
+      "spine_end_exclusive": 1932,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_156.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_157.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_158.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_159.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_160.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_161.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_162.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_163.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_164.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_165.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_166.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_167.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_168.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_169.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_170.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Seconde partie",
+      "slug": "seconde-partie",
+      "is_part": false,
+      "spine_start": 1932,
+      "spine_end_exclusive": 1950,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_171.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_172.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_173.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_174.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_175.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_176.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_177.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_178.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_179.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_180.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_181.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_182.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_183.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_184.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_185.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_186.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_187.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_188.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

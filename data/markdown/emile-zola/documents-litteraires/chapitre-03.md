@@ -1,0 +1,463 @@
+::: WordSection
+**[
+]{.calibre36}**
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911537 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911051 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910565 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910079 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909593 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909107 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908621 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908135 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907649 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907163 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906677 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906191 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905705 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905219 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904733 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904247 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903761 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903275 .pcalibre .calibre2 .pcalibre1}[Victor Hugo]{#_Toc368902789 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_145 .calibre30}
+
+!{#Image897 .calibre124}
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911538 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911052 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910566 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910080 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909594 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909108 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908622 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908136 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907650 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907164 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906678 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906192 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905706 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905220 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904734 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904248 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903762 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903276 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368902790 .pcalibre .calibre2 .pcalibre1} {#i .calibre46 .sigil_not_in_toc}
+
+
+Dans l\'histoire de notre littérature, Voltaire seul peut être comparé à Victor Hugo, pour la place énorme qu\'il a tenue dans un siècle et pour l'influence souveraine qu\'il a exercée sur sa génération. Je ne parle point ici du mérite littéraire absolu, mais de la royauté indiscutée, commençant à la jeunesse et s\'imposant jusqu\'à l\'âge le plus avancé. Tous les deux ont tenu une société sous leurs sceptres, tous les deux ont pu croire qu\'ils avaient immobilisé en eux les forces intellectuelles de la race. Je ne poursuis pas la comparaison, car, à côté d\'une vie de gloire semblable, il y a de profondes dissemblances de tempéraments. Il me suffit de constater que le fait auquel nous assistons, la royauté littéraire s\'incarnant dans un homme, a déjà eu un précédent dans notre histoire.
+
+Quelle admirable vie, cette vie de Victor Hugo ! J\'imagine un jeune homme à sa table de travail, un poète qui a laissé tomber sa plume et qui rêve de gloire. Ah ! quel découragement et quelle envie passionnée de grandir, lorsqu\'il dresse devant lui ce géant dont les pieds posent au seuil du siècle et dont la tête, toujours droite, semble vouloir s\'enfoncer dans le siècle futur. Avoir jamais sa taille, c\'est un rêve fou ; à peine pourrait-on monter à sa ceinture ou à ses épaules. On mourra peut-être jeune. Il serait beau déjà d\'avoir les muscles assez forts pour remuer quelques strophes, tandis que lui a bâti des tours cyclopéennes, avec les matériaux inépuisables de ses vers. Il est le maître, il a pris toutes les idées et toutes les formes, il bouche actuellement l\'avenir ; et, pour renouveler la formule poétique, il faudra attendre que ses chefs-d\'oeuvre aient vieilli dans les mémoires. Alors, il ne reste plus au jeune poète qu\'à se courber et à se dire un simple disciple. La vie royale de Victor Hugo l\'écrase.
+
+À dix ans, en Espagne, où il était allé rejoindre son père, Victor Hugo commence à balbutier des rimes. À quatorze ans, il écrit en pension une tragédie : *Irtamène*, qui n\'est certes pas plus mauvaise que les tragédies du temps. À quinze ans, il concourt pour le prix de poésie à l\'Académie, sur ce sujet : *les Avantages de l'étude*, et, s\'il n\'est pas couronné, c\'est que la grave compagnie croit que le jeune poète s\'est moqué d\'elle en indiquant son âge. Les années suivantes, d\'ailleurs, il se couvre de lauriers, à Paris et à Toulouse, dans les concours académiques. Selon le mot de Chateaubriand, il était dès lors « un enfant sublime ». Plus tard, si une légende se forme, on dira que des voix et des lyres ont chanté dans l\'air, au moment de sa naissance.
+
+Ce n\'était encore qu\'un enfant prodige, mais le jeune homme grandit toujours. Il a vingt-deux ans, lorsqu\'il publie ses deux premiers romans : *Han d\'Islande* et *Bug-Jargal* ; même je crois que ce dernier avait été écrit à seize ans. Puis, paraissent les *Odes et Ballades*, et un grand poète est véritablement né. Jusque-là, le jeune homme marchait au milieu des ovations les plus flatteuses ; les vieillards et les dames l\'approuvaient doucement de la tête. Un autre se serait noyé dans ce miel. Lui, apportait une force ; il se dégagea de ses succès de salon, en se révélant brusquement comme un novateur. Il avait alors vingt-cinq ans. C\'est à cet âge que sa fortune littéraire s\'est réellement décidée.
+
+Je n\'écris pas ici une biographie, je tâche simplement d\'indiquer, en quelques traits, l\'existence extraordinaire de cet homme. À vingt-cinq ans, il devient donc chef d\'école. Des jeunes gens s\'étaient réunis autour de lui ; une doctrine littéraire s\'ébaucha au courant de leurs conversations, doctrine dont les principes furent exposés dans un petit journal : *la Muse française.* Enfin, le maître lui-même parla, lança son manifeste, la fameuse préface de *Cromwell*, et l\'école romantique fut fondée. Certes, tout n\'y était pas neuf, la nouvelle formule précisait simplement des idées lentement apportées par des devanciers. Mais il suffisait qu\'un homme fût né pour donner un éclat incomparable à cette formule. Victor Hugo incarna tout le mouvement de la première moitié du siècle. De poète discrètement applaudi, il s\'éleva au rang de poète discuté. Il devint un homme de bataille et de triomphe. À l\'âge de vingt-sept ans, en 1830, il régnait déjà. Et c\'est alors que s\'étend cette période admirable de sa vie, de 1830 à 1848, son règne sur les lettres françaises, sa toute-puissance sur la génération qui naissait, ce servage des esprits qu\'il étendait autour de lui, et dont l\'étrange puissance a duré jusqu\'à nos jours. Place Royale surtout, il trônait au milieu d\'une cour enthousiaste et respectueuse ; les jeunes poètes, débarqués de la veille à Paris, lui étaient présentés comme des vassaux qui lui devaient hommage ; et les pauvres enfants s\'évanouissaient presque dans l\'escalier, tant leurs coeurs battaient fort. Des écrivains de grand talent venaient eux aussi s\'incliner. Louis XIV n\'a certainement pas eu des courtisans plus fidèles ni plus humbles. On officiait devant ce roi littéraire ; ceux mêmes qui essayaient de plaisanter derrière son dos, pâlissaient et se courbaient en sa présence. Tels sont les faits. Le roi, pendant ce temps, produisait ses chefs-d\'oeuvre.
+
+On pouvait craindre qu\'après dix-huit années de royauté, le respect ne diminuât, surtout de la part de la jeune génération qui grandissait. Mais Victor Hugo devait avoir toutes les chances. La fortune acheva de le combler en le frappant. Au moment où sa puissance allait peut-être faiblir, à force de bonheur, la fortune fît de lui un proscrit, et, du coup, de roi il passa dieu. Je ne soutiens pas ici un paradoxe. Est-ce que l\'exil n\'a pas grandi Victor Hugo ? est-ce que l\'Empire, en le chassant de France, ne l\'a pas mis sur son rocher de Guernesey comme sur un piédestal indestructible ? Il faut se reporter à ces années de l\'Empire, pour comprendre quelle hauteur le poète prenait au loin. À nous tous, jeunes gens de vingt ans, il apparaissait comme un colosse enchaîné, chantant encore au milieu des tempêtes ; il était Prométhée, il était surhumain, il dominait la France, qu\'il couvait de loin de son regard d\'aigle. Parfois, le vent semblait nous apporter quelques pages de lui, et nous les dévorions, et nous pensions, en les lisant, aider à quelque victoire sourde contre la tyrannie. Ce poète, qui insultait si violemment l\'Empire, avait fini par se l\'aire respecter de l\'Empire lui-même. Lorsque la *Légende des Siècles* et les *Misérables* parurent, ce fut un long cri d\'admiration, et l\'on put lire des éloges de ces oeuvres jusque dans les journaux les plus dévoués à la dynastie. On allait en pèlerinage à Guernesey. L\'absence achevait de mettre Victor Hugo dans les nuées.
+
+Ce n\'est rien encore. Devant l\'Europe attentive, devant les peuples qui se passionnaient et les monarques qui tremblaient, ce simple poète avait engagé un duel avec un empereur. Chassé par Napoléon III, ayant jeté à la face de ce souverain toute la boue ramassée dans les chemins de l\'exil, Victor Hugo, tranquille et fort, attendait que son ennemi croulât ; et la sérénité de son attente, la certitude où il semblait être de vaincre, étaient déjà comme un ébranlement donné au trône. Souvent l\'empereur a dû songer à cet homme, posé sur son rocher, épiant le faux pas qui devait l\'étendre dans la poussière. Qui des deux l\'emporterait, qui des deux mourrait sur la terre étrangère ? Et voilà qu\'un jour le poète a vaincu. L\'empereur a été chassé à son tour et est allé agoniser en Angleterre, tandis que le poète rentrait en France ; aux acclamations de la foule. Dans ce duel formidable, le poète seul aujourd\'hui reste debout.
+
+N\'est-ce pas merveilleux, et quelque maître de cérémonie supérieur ne semble-t-il pas avoir réglé avec amour les phases diverses de cette existence ? Quand l\'admiration publique semble devoir se lasser du spectacle de ce poète, un coup de baguette amène une transformation, et une nouvelle période de gloire se déroule. Plus tard, si certaines oeuvres de Victor Hugo disparaissent, sa vie restera certainement comme une des plus belles qu\'un homme ait vécue. Aucun conquérant, aucun maître absolu n\'a dû goûter des jouissances de pouvoir aussi fortes.
+
+Cependant, je dois le dire, depuis que Victor Hugo est revenu à Paris, il n\'a plus grandi, et cela était fatal. Il était trop haut sur son rocher pour se hausser encore. C\'est presque une déchéance pour lui que de se retrouver parmi nous, sur nos trottoirs boueux, dans nos appartements mesquins, lui qui dominait la mer et que nous nous représentions pareil à Isaïe, prophétisant au milieu des orages. Puis, Victor Hugo est fatalement rentré dans les luttes quotidiennes de la politique, et la politique rapetisse les poètes ; elle les traîne dans les réalités humaines, ils veulent l\'élargir de toute la largeur de leurs beaux sentiments, et n\'arrivent qu\'à faire sourire. Je n\'entends pas étudier ici l\'homme politique, chez Victor Hugo ; cela me jetterait hors de mon sujet. Cet homme politique n\'a jamais été pris au sérieux. Je ne juge pas, je constate, rien de plus. Victor Hugo, royaliste en 1820, libéral et constitutionnel en 1830, républicain modéré en 1848, républicain ultra en 1850, a suivi la marche qu\'il devait suivre et se trouve être, depuis 1871, un apôtre biblique de la démocratie. Il s\'est placé en dehors des doctrines et des faits. Il réclame le bonheur du genre humain, sans tenir compte des hommes. Il décrète la République universelle, comme si les éléments allaient lui obéir et constituer une nouvelle terre et un nouveau peuple. Esthétiquement, rien de plus large ; c\'est un rêve magnifique. Mais, pratiquement, cela est un peu puéril. Les républicains eux-mêmes, et je parle des plus convaincus, des plus actifs, sont bien souvent gênés par lui. Ils préféreraient qu\'il se tînt tranquille et se contentât d\'être un homme de génie. En somme, dans le parti, le grand poète est regardé comme un homme politique honoraire. On le laisse se mettre en avant, pour le décor, pour la pompe de son nom. Son rôle se borne au rôle de ces rois qui apparaissent parfois dans les opéras, couronnés, traînant des manteaux de pourpre, et qui traversent simplement le théâtre.
+
+Au demeurant, des quatre périodes de sa vie, sa jeunesse si précoce et si fêtée, sa royauté littéraire en plein Paris, son exil éclairé d\'une splendeur d\'apothéose, sa vieillesse triomphant au milieu de nous, la période la plus étonnante a été certainement celle de l\'exil. C\'est son existence admirable qui a fait de Victor Hugo cette figure colossale qui paraît être, aux yeux de la foule, la plus grande du siècle. Comme d\'autres, il a apporté le génie ; mais les faits se sont chargés du cadre, le cadre le plus prodigieux que l\'orgueil humain ait jamais rêvé.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911539 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911053 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910567 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910081 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909595 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909109 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908623 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908137 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907651 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907165 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906679 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906193 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905707 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905221 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904735 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904249 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903763 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903277 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368902791 .pcalibre .calibre2 .pcalibre1} {#ii .calibre46 .sigil_not_in_toc}
+
+
+J\'ai dit que Victor Hugo a formulé le romantisme. Il est rare, sinon impossible, qu\'un homme invente un mouvement littéraire. Un mouvement s\'élabore longtemps, prend des racines peu à peu, fait toute une évolution souterraine avant de se produire au grand jour. Entre une école qui meurt et une école qui naît, il n\'y a jamais une rupture brusque, mais au contraire des transitions, des nuances d\'une délicatesse infinie ; ce qui sera demain est contenu en germe dans ce qui est aujourd\'hui, et l\'avenir ne saurait rompre entièrement avec le passé. Les périodes diverses d\'une littérature se tiennent ainsi les unes dans les autres, comme les anneaux serres d\'une chaîne. Seulement, quand une forme nouvelle doit s\'affirmer, il se produit un homme à la main puissante, qui met en lois les tâtonnements de ses devanciers, qui ramasse et marque à son empreinte toutes les idées flottantes de son époque. C\'est ce rôle-là que Victor Hugo a joué. Il a affirmé bruyamment ce qu\'une ou deux générations avant lui avaient entrevu et risqué timidement. Le vieil édifice classique croulait de lui-même depuis des années, et il a été le démolisseur de la dernière heure, celui qui arrive quand il n\'y a plus qu\'une poussée à donner. Son génie le destinait à cette besogne. Aussi ses devanciers et ses contemporains ont-ils souffert de son voisinage de conquérant ; car il n\'était pas seul, mais lui seul devait attacher à son nom l\'honneur de la victoire, comme ces grands capitaine, dont la mémoire survit, lorsque leurs soldats sont morts et à jamais oubliés.
+
+Il n\'y a pas de progrès dans une littérature, il n\'y a que des évolutions. Une formule littéraire peut être un progrès sur une autre formule ; mais les oeuvres ne progressent pas forcément. Cela vient du rôle tout-puissant de l\'élément humain dans l'art. Certes, si la vérité seule comptait dans une oeuvre, l\'art progresserait avec les sciences, les oeuvres deviendraient d\'autant plus grandes qu\'elles seraient plus vraies. Seulement, il faut introduire la personnalité de l\'artiste, et aussitôt la vérité n\'est plus qu\'un des deux membres de la formule. Les littératures apparaissent alors comme de longues frises qui se déroulent, comme des défilés de grands hommes, apportant chacun une parole : tantôt l\'esprit s\'exalte, l\'imagination règne ; tantôt la logique s\'éveille, l\'étude patiente des choses et des êtres l\'emporte. Il faut ajouter que ces évolutions dépendent des sociétés ; les littératures suivent l\'histoire des peuples. Je me place donc à ce point de vue : toute formule en elle-même est bonne et légitime, il suffit qu\'un homme de génie la fasse sienne ; autrement dit, une formule n\'est qu\'un instrument donné par le milieu historique et social, et qui tire surtout sa beauté de la façon plus ou moins supérieure dont l\'homme prédestiné sait en obtenir une musique. La formule s\'impose, voilà ce qu\'il faut comprendre. Corneille n\'a pas choisi la tragédie, il l\'a trouvée et l\'a élargie. Victor Hugo n\'a pas inventé le drame romantique, il en a simplement fait sa chose propre. Les cadres peuvent être plus ou moins commodes à remplir, le génie arrive toujours à y mettre une somme égale en beauté. Seuls les aspects changent ; au fond, le labeur humain est le même. De cette façon, on accepte toutes les grandes oeuvres, les antiques et les modernes, les étrangères et les nationales, en les replaçant dans leurs milieux et en les regardant chacune comme la manifestation la plus haute d\'un artiste à une époque donnée.
+
+Seulement, il faut nettement établir que la loi d\'évolution est constante. Une époque ne fixe pas une littérature, elle n\'en est jamais qu\'une face. Parfois, une forme littéraire peut régner sur plusieurs siècles ; d\'autres fois, une forme ne s\'imposera pas plus d\'un demi-siècle ; mais toutes se modifieront quand même par cette loi fatale qui pousse l\'humanité à une continuelle marche, comme langue, comme moeurs, comme idées. La critique, jusqu\'ici, n\'a pas admis une marche en ligne droite. Elle prend des exemples, et elle démontre que, dans toute littérature, il y a d\'abord un progrès constant, jusqu\'à un épanouissement de la langue et à un heureux équilibre de l\'intelligence ; puis, une pente se creuse, les oeuvres roulent dans une décadence plus ou moins longue. Une littérature serait ainsi une montagne, deux versants et un sommet. Je dois confesser que l\'histoire justifie presque toujours cette comparaison. Cependant, il faudrait s\'entendre sur ce qu\'on nomme les époques de décadence. La critique qui met au premier rang la question du langage, a raison de dire qu\'il y a pour chaque langue un âge mûr, où cette langue prend une virilité et une simplicité superbes ; mais la critique qui, sous la forme, cherche l\'élément humain, le document curieux et vivant, s\'accommode très bien des époques de décadence. D\'ailleurs, on ne peut jamais appeler soi-même son siècle un siècle de décadence, car naturellement on ignore l\'avenir, on ne sait pas réellement si l\'on monte ou si l\'on descend ; c\'est la postérité, avec son recul, qui seule est en mesure de se prononcer. Ceci, à la vérité, est en dehors de mon sujet, et je voulais simplement établir que les littératures marchent du même pas que l\'humanité, sans jamais rester stationnaires une seconde.
+
+Chez nous, la formule classique a longtemps régné. Elle était toute-puissante, elle tenait du dogme. Personne ne songeait à s\'en affranchir, car désobéir aux règles aurait semblé désobéir au roi et à Dieu. Jamais un despotisme plus jaloux n\'a pesé sur un peuple d\'écrivains. Pour expliquer ce long règne et cette toute -puissance, il faudrait pénétrer dans la société du temps, montrer les ressorts qui ont plié les esprits les plus libres à une discipline aussi sévère. Et pourtant cette machine si bien réglée s\'est détraquée un jour. Elle était usée, elle ne marchait plus. L\'heure est venue où les romantiques ont donné dans cette patraque le coup de pied de grâce, qui en a fait voler les dernières pièces rouillées aux quatre points de l\'horizon. Les chefs-d\'oeuvre du dix-septième siècle n\'en restaient pas moins debout, dans leur gloire immortelle, comme des manifestations du génie humain, qui s\'étaient produites à leurs heures. Ce qui était mort, c\'était le procédé d\'une époque, le métier et le cadre.
+
+Et il a fallu entendre alors les cris de désespoir des classiques. Le même fait se produit à l\'agonie de chaque école, les fidèles lèvent les bras au ciel et se lamentent, en déclarant que la fin du monde approche. Règle générale, une école a la prétention d\'avoir à jamais fixé la littérature de la nation ; tout ce qui est venu avant elle ne vaut pas grand-chose, et tout ce qui viendra après elle doit lui ressembler, sous peine de n\'être pas ; elle tolère le passé, mais elle nie l\'avenir. Les temps sont arrêtés, le soleil ne marche plus, l\'intelligence humaine est épuisée, les siècles se trouvent réduits à copier éternellement les derniers chefs-d\'oeuvre. Ce qu\'il y a de plaisant, je le répète, c\'est que toutes les écoles ont cette belle intolérance.
+
+Il faut se rappeler les batailles de 1830. Les romantiques, qui étaient jeunes alors et qui avaient à conquérir leur place au soleil, ne se ménageaient guère. Ils manquaient surtout de respect, j\'insiste sur ce point. Ils montaient à l\'assaut du vieux rempart académique, hurlant, les poings fermés, tapant sur les crânes vénérables des classiques. Dans la petite bande de ces aventuriers de la couleur et de la passion, on traitait Racine de polisson, on faisait des gorges chaudes sur tout le grand siècle, sans épargner les contemporains qui se flattaient d\'avoir du bon sens, et qui, pour ce fait, étaient regardés comme des pleutres. Le mouvement avait ses gamins et ses fantoches, et prenait des allures tapageuses d\'insurrection ; on cassait les vitres, on lançait des boules de neige contre l\'Institut, on mettait des cordes en travers des trottoirs pour faire tomber les bourgeois. Le manque de respect, la démolition bruyante des anciens dieux, voilà, je le dis encore, ce qui a caractérisé l\'évolution de 1830.
+
+Aujourd\'hui, peut-on voir une comédie plus drôle que l\'attitude effarouchée des romantiques, lorsque la nouvelle génération littéraire porte à son tour la main sur leurs dieux ! C\'est qu\'ils ont vieilli, c\'est qu\'ils ont fatalement pris la place des classiques. Ils sont devenus les conservateurs, les dogmatiques, les vénérables. Ils ont leur religion à défendre. Ce qui rend l\'aventure très comique, c\'est que le mouvement romantique n\'a pas duré plus d\'un demi-siècle, et que les hommes qui prêchent en ce moment le respect des vieux, sont justement ceux-là qui ont tapé sur les vieux avec le plus d\'entrain. Ils reçoivent les coups qu\'ils ont donnés, et ils se fâchent : cela prouve une fois de plus combien l\'homme manque de logique. Vous imaginez-vous les romantiques en barbes blanches demandant du respect, érigeant le romantisme en un dogme d\'éternelle vérité, se posant comme la dernière incarnation de la littérature française ? On ne peut s\'empêcher de sourire.
+
+Pendant que Victor Hugo triomphait, dans la splendeur de son apothéose, le génie français, en continuel enfantement, ne s\'arrêtait pas pour cela. Balzac devenait colossal lui aussi, dans l\'ombre où les circonstances l\'avaient mis. La descendance de Victor Hugo avortait, la descendance de Balzac s\'élargissait et prenait toute la place au soleil. C\'est ainsi que le mouvement naturaliste est né, ce mouvement naturaliste qui aujourd\'hui enterre le romantisme. L\'évolution était fatale, tout devait converger à cette protestation contre la fantaisie échevelée, à cette réaction du vrai contre le faux. Le siècle entier aboutissait forcément à une littérature d\'analyse, d\'enquête, de documents humains. D\'ailleurs, je comprends que les romantiques se fâchent ; ils n\'eut pas assez vécu, ils sentent leur misère et leur stérilité. Le romantisme, dans notre histoire, n\'aura été en somme qu\'un cri d\'affranchissement ; il a fait table rase de tous les obstacles classiques, il a été l\'orgie de la victoire, en attendant le calme des esprits et l\'emploi logique de la liberté conquise. Seulement, si le romantisme est triste de voir son règne si court, il montre bien peu de mémoire en criant à la profanation. Les naturalistes le poussent hors de chez lui, comme lui-même a poussé les classiques. C\'est la loi. Les vieux font place aux jeunes.
+
+Certes, le nouveau mouvement n\'a pas grandi en une nuit comme un champignon. Il n\'est qu\'un anneau de la chaîne. Aussi, les romantiques sont-ils mal venus de dire aux naturalistes : « Vous êtes nos enfants, vous tenez l\'existence de nous, et c\'est une mauvaise action que de frapper ses grands-parents. » Sans doute, nous sommes les fils des romantiques. Mais est-ce qu\'ils n\'étaient pas eux-mêmes les fils des classiques ? Où commence, en littérature, la chaîne des aïeux ? Le respect figerait les lettres dans une immobilité hiératique, s\'il fallait adopter quand même l\'air de figure des grands-parents. Les naturalistes, qui se dégagent à peine du mouvement romantique, gardent malgré eux quelque chose aux épaules des draperies de 1830. Seulement, la question n\'est pas là. Elle est dans la dissemblance profonde des deux formules, l\'une qui est idéaliste, l\'autre qui est positiviste. Deux mondes sont en présence. Il faut que l\'un tue l\'autre.
+
+Je veux être logique, je confesse parfaitement que le naturalisme aurait tort, s\'il déclarait qu\'il est la forme définitive et complète de la littérature française, celle qui a lentement mûri à travers les âges. En déclarant cela, il tomberait dans la même drôlerie que le romantisme. Que deviendra l\'évolution naturaliste ? Je l\'ignore. L\'imagination prendra-telle sa revanche contre l\'analyse exacte ? Peut-être bien. Et, d\'autre part, le naturalisme aura-t-il un long règne ? Je le crois, mais je n\'en sais rien. Ce qui importe, c\'est que dans cinquante ans, si le mouvement a avorté, il ne se trouve pas de naturalistes assez sots pour dire comme les vieux romantiques : « Nous refusons de vider la place, parce que nous sommes la littérature parfaite. » Quand l\'humanité marche, il est bien inutile de se coucher sur la route pour lui barrer le chemin.
+
+Maintenant, j\'ajoute que, dans le cas où le naturalisme ne serait pas une formule définitive, il est au moins une formule de vérité. C\'est pourquoi j\'estime qu\'il régnera longtemps. Il vient de loin, il a grandi comme toutes les choses puissantes et durables. Il s\'appuie sur le mouvement intellectuel et social. Enfin, comme il a marché parallèlement aux sciences, comme il a gagné peu à peu toutes les formes de la pensée écrite, la philosophie, l\'histoire, la critique, le roman, le théâtre, jusqu\'à la musique, on peut prévoir qu\'il est le début d\'une immense évolution qui, pendant des siècles, s\'accomplira et s\'étendra. Remarquez d\'ailleurs que la formule classique et la formule romantique sont identiques, sauf le décor ; elles reposent toutes les deux sur la conception idéaliste et réglementée de l\'art. La formule naturaliste est l\'autre face de la question ; elle base une oeuvre sur la nature, et explique les déviations du vrai par le tempérament de l\'artiste.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911540 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911054 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910568 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910082 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909596 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909110 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908624 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908138 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907652 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907166 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906680 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906194 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905708 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905222 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904736 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904250 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903764 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903278 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368902792 .pcalibre .calibre2 .pcalibre1} {#iii .calibre46 .sigil_not_in_toc}
+
+
+Aujourd\'hui, la question est donc nettement posée entre les naturalistes et les romantiques, comme elle l\'était en 1830 entre les romantiques et les classiques. Et je dois ajouter que les classiques agonisants étaient encore plus fortement retranchés, dans leur vieux palais tragique, que les romantiques moribonds ne le sont à cette heure, au milieu des décombres de leur tour gothique. Jamais une école littéraire ne s\'est épuisée si vite. Mais cette école produit toujours une illusion de vie et de grandeur, parce qu\'elle conserve à sa tête un homme de génie, d\'une taille colossale. Tout a croulé autour de Victor Hugo, le bric-à-brac du romantisme est en poudre à ses pieds, la préface de *Cromwell* elle-même fait sourire ; mais il suffît qu\'il reste debout, pour soutenir sur ses larges épaules le décor pompeux de l\'école morte. Il est à lui seul tout le romantisme. Quand il mourra, il y aura un suprême craquement, et dans les débris épars nul n\'osera seulement ramasser des matériaux pour se bâtir une niche. Lui, entrera dans l\'histoire, prendra sa place à côté des grands hommes qui ont résumé nos époques littéraires ; tandis que ses derniers disciples, privés de son appui, disparaîtront, noyés emportés par le courant nouveau.
+
+Pour comprendre où nous en sommes, il faut avoir une idée nette de la situation que Victor Hugo occupe au milieu de nous. Dès aujourd\'hui, il est un ancêtre. Son apothéose définitive est faite de plusieurs éléments. Les lettrés sont pleins de respect pour sa longue vie de travail et pour les chefs-d\'oeuvre qu\'il a produits ; les simples bourgeois ont les oreilles emplies de son nom depuis cinquante ans et lui témoignent la dévotion de l\'habitude ; le peuple lui-même, sans comprendre, achète les éditions populaires de ses livres, à plus de cent mille exemplaires, parce qu\'il regarde le poète comme un homme politique dont il attend vaguement un âge d\'or. Je connais des ouvriers qui se privent de leur tabac pour acheter les oeuvres de Victor Hugo, lorsqu\'elles paraissent en livraisons à dix centimes ; ils ne les lisent pas, mais ils les font relier et les gardent chez eux, comme des meubles de luxe dont ils sont très fiers. Ainsi donc, dans l\'admiration religieuse qui entoure aujourd\'hui le poète, il y a de tout, de la tendresse littéraire, du respect pour le travailleur et pour le vieillard, de la gratitude nationale pour le grand homme, surtout de la sympathie politique. Victor Hugo n\'est pas resté, comme Alfred de Musset, un simple poète de génie ; il a élargi sa sphère d\'action sur le public en se mêlant aux querelles sociales, en doublant les succès de l\'écrivain par le tapage de l\'orateur.
+
+Certes, il faut s\'incliner. Une telle gloire est légitime. Quand un homme est monté si haut, par un labeur continu, il est difficile de le faire descendre de son piédestal et de le traiter d\'homme à homme. Cependant, il arrive que la vérité souffle de ce trop grand respect. Ce ne serait encore rien, si Ton mettait le dieu en dehors de nos luttes humaines : on pourrait faire ce que font les incrédules dans les églises, plier le genou pour ne scandaliser personne, et passer outre. Mais les gens qui vivent du dieu, les bedeaux et les sacristains, n\'entendent pas les choses ainsi ; il se servent de leur idole pour assassiner les passants. Ah ! vous ne pensez pas comme nous, ah ! vous vous permettez de bâtir en face une autre église : eh bien ! nous allons vous assommer. Et ils poussent le dieu, ils tâchent de vous écraser sous son poids, en se cachant prudemment derrière lui. Alors, fatalement, on perd un jour tout respect, on dit d\'une façon très nette ce qu\'on a sur le coeur. Et la chose est excusable, car on est dans le cas de légitime défense.
+
+Ce qui m\'a surtout stupéfié, ces jours derniers, lorsque la *Légende des siècles* a paru, c\'est l\'attitude de la critique. Jamais je n\'ai vu un aplatissement pareil. Certes, je n\'ignore pas comment la plupart des articles sont faits. Le rédacteur se met sur un coin de table et écrit à la queue des phrases qu\'il a lues ailleurs ou qu\'il a entendues. Les amis de Victor Hugo savent merveilleusement lancer un livre ; ils ont fait des prodiges en ce genre, surtout lorsque le poète était à Guernesey. Ils donnent le mouvement, toute la critique suit. Mais, vraiment, cette fois l\'aplatissement passe les bornes. Je veux citer des exemples.
+
+Lisez ceci : « Quand une oeuvre comme la *Légende des siècles* fait son explosion dans le monde, cela surprend et déconcerte. Un éblouissement se fait dans les esprits. Ce livre à son aurore étant éclatant comme un soleil à son midi, on n\'apprécie pas, on subit. » Mais il y a eu plus fort. Je coupe ce passage dans un autre journal : « Il faudrait créer une langue spéciale pour exprimer exactement les sentiments qu\'engendrent des oeuvres pareilles. Je sens, en effet, en leur présence, l\'inanité des formules ordinaires de l\'admiration, et j\'estime que les critiques littéraires, sans en excepter les plus accrédités, feront chose ridicule et vaine quand ils entreprendront l\'analyse de la *Légende des siècles*. On Villa *Légende des siècles ;* on ne l\'analyse pas, on ne la critique pas. Je me garderai donc de rechercher si cette oeuvre nouvelle du poète est égale ou supérieure aux précédentes. Je viens de la parcourir, et j\'en suis ébloui. »
+
+Remarquez que je pourrais multiplier mes citations. Je donne là le ton général, la façon dont tous les journaux, sans exception, ont accueilli l\'oeuvre nouvelle de Victor Hugo. Les passions politiques elles-mêmes se sont effacées, les feuilles bonapartistes et royalistes ont brûlé le même encens que les feuilles républicaines. Et le pis est qu\'il ne faut pas voir là l\'explosion d\'une admiration vraie. On sent parfaitement que ce lyrisme est fait à froid. Quand les journalistes parlent de Victor Hugo, ils emploient naturellement l\'hyperbole, ils croient devoir pasticher le maître en entassant des montagnes d\'éloges. Tout cela est mensonger, voilà ce qui exaspère les esprits nets et logiques. H n\'est pas vrai que la *Légende des siècles* ait fait une explosion, petite ou grande, dans notre littérature ; il n\'est pas vrai que les critiques aient été éblouis ; il n\'est pas vrai que l\'oeuvre doive être mise au-dessus de l\'examen des lecteurs, comme un dogme. Je veux bien admirer, et je suis même d\'avis que l\'admiration est une des rares bonnes choses de l'existence. Mais jamais je ne consentirai à admirer, si l\'on m\'enlève mon libre jugement. Quelle est donc cette étrange prétention ? Victor Hugo, tout homme de génie qu\'il est, m\'appartient. Il nous arrive, dans notre siècle, de discuter Dieu ; nous pouvons bien discuter Victor Hugo.
+
+Il n\'y a là, je le sais, qu\'un langage courant, employé pour être agréable au maître. Si l\'on interrogeait les fidèles, dans les coins, ils avoueraient naïvement qu\'ils se sont servis des phrases d\'usage. H faut connaître la petite cour dans laquelle vit à cette heure Victor Hugo. La plus respectueuse des critiques n\'y est pas tolérée. Quand le maître a lâché un mot, le mot est réputé chef-d\'oeuvre. On reste à l\'état aigu d\'admiration extatique. Les adjectifs manquent, car on a fini par rendre banals les mots d\'éloge les plus énergiques. On est gris, lorsqu\'on emploie : extraordinaire, colossal, surhumain, titanique, stupéfiant, écrasant. Les fidèles n\'ont plus de mots, et ils en sont à inventer des phrases entières. Ils luttent à qui trouvera l\'expression dévote la moins attendue. Cela est triste. On a toujours nourri Victor Hugo de l\'encens le plus grossier ; mais jamais, je crois, les encensoirs n\'ont été balancés dans des mains plus indignes. Souvent je me suis demandé quelles cristallisations d\'orgueil avaient dû se former peu à peu dans le crâne du poète. Songez que cette idolâtrie pour son talent et sa personne l\'a pris tout enfant et n\'a fait qu\'augmenter, h. mesure qu\'il a grandi. On lui a répété sur tous les tons qu\'il était le sommet du siècle, l\'intelligence de l\'époque elle-même, le roi, le dieu. Il rêverait d\'être notre maître à tous, de devenir l\'empereur du monde, que cela n\'aurait en soi rien d\'étonnant. L\'admiration, à une pareille dose, devient malsaine. La meilleure preuve qu\'il a la cervelle réellement puissante, c\'est qu\'il n\'est pas encore devenu complètement fou, à s\'entendre dire, depuis soixante ans, toutes les fois que l\'heure sonne : « Vous êtes beau, vous êtes grand, vous êtes sublime. » Il ne marche plus sur terre, l\'adoration de sa cour le soulève. Il y a, à sa porte, des courtisans, comme à la porte des rois, qui empêchent les vérités d\'entrer.
+
+Je veux être respectueux, tout en disant quelques-unes de ces vérités. On ne s\'imagine point quelle est aujourd\'hui la cour de Victor Hugo, dans le petit appartement qu\'il occupe rue de Clichy. Je ne parle pas des hommes politiques qui lui rendent visite, ni des quelques écrivains de grand mérite, nés au lendemain de 1830 et restés sous le charme puissant du mouvement de cette époque ; ceux-là ont une religion qu\'ils ont raison de conserver. Je parle de la génération nouvelle, des jeunes hommes âgés de trente à trente-cinq ans, des écrivains poussés pendant ces dernières années. Eh bien, Victor Hugo n\'a pu réunir autour de lui, depuis son retour de l\'exil, que des écrivains sans avenir, des débutants tombés dans le journalisme, des romanciers médiocres, des poètes déjà las d\'avoir pastiché leurs devanciers. Voilà ce qu\'il faut dire. Demain n\'est point représenté là par un seul homme détalent, de tempérament et d\'énergie. Rien que des fruits secs, rien que d\'illustres inconnus. Et cela est fatal. Comment veut-on qu\'un garçon d\'un talent libre et puissant aille dans cette galère, où il faut dépouiller sa personnalité pour s\'agenouiller devant le maître ? Certes, les nouveaux venus tiendraient à honneur de saluer Victor Hugo ; seulement, ils en sont empêchés, ils craignent l\'entourage, ils sentent qu\'ils devront rester bouche cousue dans un coin, et la fausseté de la position les retient. Au contraire, les esprits souples qui battent le pavé de Paris, ceux qui ont la platitude facile et que ne gêne pas un tempérament, se précipitent rue de Clichy, pour emprunter au rayonnement du maître un peu de lumière. De là, chez Victor Hugo, ce pullulement de médiocrités.
+
+Et si j\'insiste, c\'est que la chose est plus grave qu\'elle ne le paraît d\'abord. L\'ambition très légitime du poète a toujours été de grouper la jeunesse autour de lui. On sent très bien que la royauté littéraire lui échappera, le jour où les jeunes gens l\'abandonneront. Les metteurs en scène de sa gloire, gens fort habiles, se sont donc sans cesse efforcés de lui recruter une cour. Le malheur est, je le répète, qu\'il faut des courtisans humbles et nuls, et qu\'aujourd\'hui la jeunesse commence à sourire du romantisme. On a donc enrégimenté ceux qu\'on a pu, une bande dont les soldats ne font pas honneur au maître. N\'importe ! dans les réclames, cette bande s\'appelle la jeunesse. Pauvre jeunesse, et dont je demande à voir les oeuvres dans dix années d\'ici ! Un des symptômes les plus graves pour la vitalité de récole romantique, c\'est de constater l\'absence d\'hommes nouveaux autour de Victor Hugo. Il achève sa vie au milieu de la bohème des débutants éternels, tandis que la véritable jeunesse, celle qui grandit et qui va à l\'avenir, lui envoie de loin son salut respectueux et triste.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911541 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911055 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910569 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910083 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909597 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909111 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908625 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908139 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907653 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907167 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906681 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906195 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905709 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905223 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904737 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904251 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903765 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903279 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368902793 .pcalibre .calibre2 .pcalibre1} {#iv .calibre46 .sigil_not_in_toc}
+
+
+Le respect du génie, selon moi, ne doit pas exclure le respect de la vérité. Certes, je m\'inclinerais silencieusement devant Victor Hugo, s\'il s\'agissait uniquement de reconnaître la place immense qu\'il tient dans ce siècle. Mais il y a une question grave enjeu, il y a l\'avenir. J\'estime qu\'un homme, si grand qu\'il soit, ne doit pas barrer la route. Du moment où on le jette en travers de notre chemin, nous devons parler. Il est temps de faire justice de la queue romantique, du pompeux décor de carton doré qu\'on dresse pour cacher les ruines de l\'école.
+
+Oui, je parlerai, puisque toute la critique française a refusé de le faire. Je dirai à voix haute ce que le public entier dit à voix basse ; et, en faisant cela, je ne croirai pas commettre une mauvaise action, car c\'est toujours bien agir que de vouloir la vérité.
+
+La vérité, la voici. La deuxième série de la *Légende des siècles*, malgré ce qu\'affirment les réclames, est de beaucoup inférieure à la première série. Les réclames mentent, lorsqu\'elles parlent du retentissement produit par la publication de l\'oeuvre ; sans doute l\'ouvrage a été bien lancé, des extraits et des articles ont paru dans tous les journaux ; mais cela était forcé, un livre signé de Victor Hugo ne peut passer inaperçu, et il doit déterminer quand même un premier tapage. Seulement, ce bruit n\'a pas continué ; aujourd'hui, le silence s\'est fait, on n\'entend pas dans la foule ce brouhaha croissant qui est la marque des grands succès. Les réclames mentent également, lorsqu\'elles parlent de la vente énorme delà *Légende des siècles*. Au contraire, le livre a été peu acheté. À cela, il y a plusieurs causes. D\'abord, l\'oeuvre, en deux gros volumes, coûte beaucoup trop cher ; les gens riches eux-mêmes réfléchissent avant de mettre quinze francs à un ouvrage. Ensuite, il s\'agit d\'un recueil de vers, et les vers terrifient. Enfin, il faut bien le dire, la *Légende des siècles* est d\'une lecture parfaitement ennuyeuse, j\'entends pour les lecteurs ordinaires. On admire Victor Hugo, mais on le lit peu en dehors du monde des lettres. Plus il agrandi, et plus il est devenu apocalyptique ; aujourd\'hui, il est illisible pour les femmes et les simples bourgeois. Ce qui a nui aussi à la vente, je crois, ce sont les nombreux extraits publiés par les journaux. On s\'est contenté de la lecture de ces extraits, on a pu parler du livre, sans dépenser quinze francs.
+
+Je n\'entrerai pas dans l\'analyse d\'un tel amas de vers. Pourtant, il faut que j\'indique la structure générale de l\'oeuvre, et que je tâche de dire ce qu\'elle contient.
+
+Le premier volume débute par une vision. Le poète dit ce qu\'il a rêvé. Il a vu le mur des siècles s\'étendre devant lui ; ce mur s\'est crevé, et les générations ont croulé dans l\'espace, les unes après les autres. Cette vision est une des choses superbes de l\'ouvrage. L\'idée philosophique m\'échappe absolument, car Victor Hugo est le philosophe le plus obscur et le plus contradictoire qu\'on puisse rencontrer ; mais il suffît que son rêve se développe dans l\'étrange et dans l\'absurde, avec une belle ampleur. Puis, viennent les luttes des géants contre les dieux. Ensuite, le poète passe aux rois. H a divisé ses pièces sur les rois en deux périodes historiques, la première de Mesa à Attila, la seconde de Ramire à Cosme de Médicis ; périodes purement fantaisistes, d\'ailleurs, et qu\'il aurait pu modifier à son gré, car aucune raison logique ne les détermine. Enfin, le volume se termine par des morceaux sur le moyen âge : le *Cid exilé*, *Welf*, *Castellan d\'Osbor*, et pour une pièce sur les sept merveilles du monde, dans laquelle le poète montre l\'orgueil matériel et périssable de l'homme.
+
+Le second volume ouvre par l\'épopée du ver de terre. L\'idée est que toute la matière peut mourir, et que seule l\'âme est immortelle. Seulement, le poète a développé cette idée avec un luxe incroyable de strophes. Le ver est pour lui l\'image du néant, le mangeur de mondes ; et quand le ver triomphe sur les ruines qu\'il fait, l\'âme se dresse fièrement et lui dit : « Tu ne peux rien contre moi. » Puis, recommencent les histoires de chevaliers, le bric-à-brac moyen âge, pour lequel le poète garde sa tendresse de chef d\'école. Cependant, il a dû comprendre que tout cela était bien noir, et il a voulu montrer quelque grâce, en écrivant ce qu\'il appelle le groupe des idylles ; ces idylles consistent en médaillons représentant les poètes qui ont chanté l\'amour : on trouve là Catulle, Pétrarque, Ronsard, mais on est un peu surpris d\'y trouver aussi Dante, Voltaire et Beaumarchais, qui certes n\'avaient rien d\'idyllique. Sur les vingt-deux pièces, il y en a trois ou quatre qui sont jolies. Nous arrivons enfin au temps présent, aux pièces qui ont pour cadre le milieu contemporain. Je citerai le *Cimetière d\'Eylau*, un récit de bataille, qui est le morceau le plus net et le plus vivant de toute l\'oeuvre ; la *Colère de bronze*, une pièce médiocre que le poète autrefois aurait jugée indigne de figurer dans les *Châtiments* ; et *Petit Paul*, dont je parlerai longuement tout à l\'heure. Le volume finit par une apothéose : le ciel, l\'abîme, l\'humanité, Dieu, tout se mêle dans un chaos extraordinaire. Je m\'arrête, car je ne me sens pas le cerveau assez solide pour affronter un pareil vertige.
+
+Maintenant, comme je l\'ai dit, on peut donner à la *Légende des siècles* le sens qu\'on voudra. Cela ressemble à ces livres de prophéties auxquels on fait dire ce qu\'on souhaite. Le poète est déiste, voilà la seule chose qu\'on puisse affirmer ; il croit à Dieu et à l\'âme immortelle ; seulement, quel est ce Dieu, d\'où vient notre âme, où va-t-elle, pourquoi s\'est-elle incarnée ? c\'est ce qu\'il explique en poète. Il bâtit les dogmes les plus étranges, il se perd dans des interprétations stupéfiantes. En lui, tout reste sentiment ; il fait de la politique de sentiment, de la philosophie de sentiment, de la science de sentiment. Comme disent ses disciples, il tend vers les hauteurs. Rien de plus estimable ; mais les hauteurs, c\'est bien vague ; il serait certainement préférable, à notre époque, de tendre vers la vérité. Dénouer toutes les questions par la bonté n\'avance malheureusement pas à grand-chose. De même, quand il a foudroyé les prêtres et les rois, en exaltant une fraternité idéale des peuples, cela n\'empêchera pas les peuples de se dévorer dans la suite des siècles. En lui, il n\'y a qu\'un poète, et un poète lyrique. Le philosophe, l\'historien, le critique, font hausser les épaules.
+
+Certes, il suffit largement à sa gloire d\'être un poète lyrique. Les disciples qui veulent faire de lui un homme universel, lui rendent un service détestable. Tous les côtés factices tomberont un jour, et il ne restera debout que le poète, un des remueurs de mots et de rythmes les plus merveilleux que nous ayons eus. Pour moi, dans une étude sur l\'ensemble de ses oeuvres, ce qui me passionnerait, ce serait de montrer comment le poète a pu aller des *Odes et Ballades* à la deuxième série de la *Légende des siècles*. Il y a là un développement caractéristique, l\'histoire de toute une puissante intelligence, l\'épanouissement d\'une fleur rare et superbe. D\'abord, c\'est le bouton, une hésitation de formes enfantines, une pâleur à peine rosée crevant l\'enveloppe verte. Ensuite, les formes s\'accentuent, les teintes se foncent et prennent de l\'éclat. Ensuite, c\'est la fleur dans tout son parfum et toute sa richesse. Puis, l\'épanouissement continue par une loi fatale, la fleur semble s\'élargir et devenir plus grosse, elle augmente en volume, mais les couleurs pâlissent, l\'odeur est amère, les pétales se fanent. Eh bien ! Victor Hugo en est à cette dernière période. Jamais il n\'a paru plus large, plus mûr ; seulement, il est tellement large, qu\'il s\'effondre, il est tellement mûr, que ses vers tombent à terre comme les fruits à l\'automne.
+
+Je ne parle ici ni de défauts ni de qualités. J\'appartiens à un groupe de critiques qui acceptent un écrivain tout entier, sans chercher à trier les mots dans son oeuvre. Un écrivain est un tempérament particulier, qui a ses façons d\'être, et dont on ne saurait modifier le moindre élément sans détruire aussitôt tout l\'ensemble. Je veux dire qu\'il faut accepter les défauts et les qualités, comme les mêmes pierres d\'un édifice ; si on retire une seule pierre, l\'édifice croule. Puis, le spectacle ne suffit-il point à passionner ? Voir un cerveau vivre et se développer, toute la vie de l\'art est là. Il serait facile de prouver qu\'étant données les premières oeuvres de Victor Hugo, il devait fatalement aboutir aux oeuvres de sa vieillesse. Je ne dirai pas qu\'il a grandi ou qu\'il a rapetissé ; je dirai qu\'il a accompli son évolution, d\'après certaines lois fatales. Oui, il devait arriver, par la nature de son tempérament, à cette attitude de prophète qu\'il a prise ; il devait être de plus en plus l\'esclave de la formule romantique ; il devait allonger les chevilles et ajouter trois vers pour le seul plaisir de justifier une rime riche ; il devait patauger davantage chaque jour dans le sublime, exagérer son effarement et son vertige de visionnaire ; il devait en arrivera tutoyer Dieu, à juger les siècles comme Dieu les jugerait, en mettant les bons à sa droite et les méchants à sa gauche ; il devait dompter la langue, au point de la traiter en conquérant, qui n\'a plus le respect des phrases et qui les torture à sa fantaisie ; il devait enfin croire qu\'un mot de lui valait un monde et qu\'il lui suffisait de laisser tomber les choses les plus insignifiantes, pour qu\'elles prissent aussitôt une importance extrahumaine.
+
+Aujourd\'hui, il en est là. Il pontifie. Quand il parle d\'un petit enfant, il croit que les étoiles écoutent. Et le pis est qu\'il est devenu d\'autant plus majestueux, que ses vers sont devenus plus vides. Je l\'ai appelé un visionnaire. Ce mot le juge. Il a traversé l\'époque sans la voir, les yeux fixés sur ses rêves.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911542 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911056 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910570 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910084 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909598 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909112 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908626 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908140 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907654 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907168 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906682 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906196 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905710 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905224 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904738 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904252 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903766 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903280 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368902794 .pcalibre .calibre2 .pcalibre1} {#v .calibre46 .sigil_not_in_toc}
+
+
+Ne pouvant analyser les deux énormes volumes de la *Légende des siècles*, je me contenterai de détacher deux pièces et de les examiner de près. En les commentant vers par vers, je sais que je vais faire une besogne un peu mesquine, et que la critique doit avoir une autre largeur. Mais, après avoir peint à grands traits la haute figure de Victor Hugo, il me faut bien descendre jusqu\'à éplucher ses vers, si je veux dire toute ma pensée. Il n\'y a jamais eu qu\'un rhétoricien au fond de lui. Voyons sa rhétorique.
+
+Je choisis deux pièces que ses admirateurs mettent au premier rang ; *l'Aigle du Casque* et *Petit Paul*. Je ne voudrais pas qu\'on pût croire que je suis allé prendre les morceaux les plus faibles du recueil.
+
+*L'Aigle du Casque* est une légende d\'Ecosse, que le poète a certainement inventée. Elle se passe dans ce moyen âge ténébreux et farouche qu\'il affectionne, parce qu\'il peut y placer à l\'aise ses visions. Une vieille querelle existe entre Angus et Tiphaine. Et je cite :
+*Le fond, nul ne le sait. L\'obscur passé défend
+Contre le souvenir des hommes l\'origine
+Des rixes de Ninive et des guerres d\'Égine,
+Et montre seulement la mort des combattants,
+Après l\'échange amer des rires insultants.*
+
+
+Cinq vers, cinq chevilles. *Égine* arrive là pour rimer avec *origine*. Rien n\'est plus lourd ni plus inutile que les deux derniers vers. Les disciples appellent cela de la largeur ; ce n\'est que du remplissage.
+
+Le grand-père de *Jacques*, le roi Angus, l\'a pris à son lit de mort et l\'a chargé de tuer Tiphaine. *Jacques* a alors six ans. Il attend dix ans, et, lorsqu\'il atteint sa seizième année, il provoque l\'ennemi de sa race. Ce point de départ contient tout le procédé romantique, l\'antithèse éternelle, le vieillard confiant sa vengeance à l\'enfant ; et, pour que l\'effet soit plus stupéfiant encore, le poète prend un bambin qui marche à peine. Voyez-vous ce mioche de six ans qui accepte de tuer plus tard un homme et qui se souvient de sa mission ? Les enfants de ce temps-là valaient les hommes d\'aujourd\'hui. On entre du coup dans le monde de l\'épopée.
+*Voici maintenant le portrait du farouche Tiphaine :
+Tiphaine est dans sa tour, que protège un fossé.
+Debout, les bras croisés, sur la haute muraille,
+Voilà longtemps qu\'il n\'a tué quelqu\'un, il bâille.*
+
+
+Encore une attitude romantique. On sourit à la pensée de cet homme qui se croise les bras et qui bâille, parce qu\'il n\'a pas une victime à se mettre sous la dent. C\'est l\'ogre du *Petit Poucet,* demandant de la chair fraîche. D\'ailleurs, le poète n\'a oublié aucun trait pour en faire un fantoche à la mode de 1830.
+
+*Il fait peur. Est-il prince ? est-il né sous le chaume ?
+On ne sait. Un bandit qui serait un fantôme,
+C\'est Tiphaine.*
+
+
+Cependant, *Jacques* le provoque. *Jacques* a seize ans, et le poète s\'écrie :
+
+*Dix ans, cela suffit pour qu\'un enfant grandisse.
+En dix ans, certes, Orphée oublierait Eurydice,
+Admète son épouse, et Thisbé son amant.
+Mais pas un chevalier n\'oublierait son serment.*
+
+
+Le premier vers est une naïveté, et les trois autres sont des chevilles. *Eurydice* arrive là pour rimer richement avec *grandisse*.
+
+Enfin, le combat va s\'engager entre *Jacques* et Tiphaine, entre l\'agneau et le loup. Voici *Jacques* :
+
+*Fanfares ! C\'est Angus. Un cheval d\'un blanc rose
+Porte un garçon doré, vermeil, sonnant du cor,
+Qui semble presque femme et qu\'on sent vierge encor\...
+Il regarde, il écoute, il rayonne, il ignore.
+Et l\'on croit voir l\'entrée aimable de l\'aurore.*
+
+
+Et voici Tiphaine :
+
+*Tiphaine est seul, aucune escorte, aucune troupe ;
+Il tient sa lance ; il a la chemise de fer,
+La hache comme Oreste, et, comme Gaifer,
+Le poignard.*
+
+
+Oreste et Gaifer viennent encore jouer là un singulier rôle. Dès lors, nous entrons dans l\'antithèse jusqu\'au cou. *Jacques* attaque Tiphaine, une fille contre un géant.
+
+*Tiphaine s\'arrêta, muet, le laissant faire ;
+Ainsi, prête à crouler, l\'avalanche diffère ;
+Ainsi l\'enclume semble insensible au marteau,
+Il était là, le poing fermé comme un étau,
+Démon par le regard et sphinx par le silence.*
+
+
+Le dernier vers est bien typique et complète d\'une façon presque comique cette figure pensive de Tiphaine, du brigand profond et infernal. Pourtant, il finit par s\'ébranler ; il lève sa lance contre l\'enfant, qui, pris d\'une peur soudaine, s\'enfuit. Et le reste de la pièce, encore fort longue, est consacré à peindre ce que le poète appelle « l\'âpre et sauvage poursuite »
+
+*En le risquant ainsi, son aïeul fut-il sage ?
+Nul ne le sait ; le sort est de mystères plein ;
+Mais la panique existe, et le triste orphelin
+Ne peut plus que s\'enfuir devant la destinée.*
+
+
+Un des procédés de Victor Hugo est de faire ainsi la part de l\'inconnu. Il emploie souvent la tournure : nul ne le sait, on l\'ignore, c\'est le secret de Dieu, etc. Il croit ainsi élargir le sujet. Mais, parfois, le procédé fait sourire, surtout quand la réponse est facile. L\'aïeul, dans le cas présent, a été à coup sûr stupide de confier sa vengeance à un enfant de seize ans.
+
+Certes, la poursuite à travers les plaines et les forêts est d\'un beau jet. Seulement, Victor Hugo l\'avait déjà faite plusieurs fois, et beaucoup mieux. Ce qui m\'a surtout frappé, c\'est le retour des comparaisons, à la mode classique. En vingt vers, j\'en compte trois qui commencent par le mot ainsi ; et les trois comparaisons sont identiques.
+
+*Ainsi dans le sommeil notre âme d\'effroi pleine
+Parfois s\'évade et sent derrière elle l\'haleine
+De quelque noir cheval de l\'ombre et de la nuit\...
+Ainsi le tourbillon suit la feuille arrachée\...
+Ainsi courrait avril poursuivi par l\'hiver.*
+
+
+N\'est-il pas curieux que Victor Hugo, le rhétoricien, finisse par les figures de rhétorique que son école a tant plaisantées, dans les poètes classiques ?
+
+J\'abrège. *Jacques* se réfugie chez un ermite ; mais Tiphaine fend d'un coup d\'épée la roche où l\'ermite demeure. Un couvent de nonnes ne l\'arrête pas. Il écarte encore une femme, une mère, qui veut protéger l\'enfant ; et il l'égorge dans « un ravin inconnu ».
+
+*Alors l\'aigle d\'airain qu'il avait sur son casque.
+Et qui, calme, immobile et sombre, l\'observait,
+Cria : Cieux étoilés, montagnes que revêt
+L\'innocente blancheur des neiges vénérables,
+O fleuves, ô forêts. cèdres, sapins, érables,
+Je vous prends à témoin que cet homme est méchant.
+Et cela dit, ainsi qu\'un piocheur fouille un champ,
+Comme avec sa cognée un pâtre brise un chêne,
+Il se mit à frapper à coups de bec Tiphaine.
+Il lui creva les yeux ; il lui broya les dents ;
+Il lui pétrit le crâne en ses ongles ardents,
+Sous l\'arme d\'où le sang sortait comme d\'un crible.
+Le jeta mort à terre, et s\'envola terrible.*
+
+
+Toute la pièce a été écrite pour cet effet final. Cet effet est très grand, on ne saurait le nier. On retrouve là Victor Hugo avec son coup d\'aile. Certes, il y a encore bien du remplissage. L\'aigle d\'airain qui prend la nature à témoin paraît un peu raisonneur. D\'ailleurs, il n\'y a pas à discuter ; on est en plein dans le rêve, il faut accepter ou rejeter la fantaisie du poète. Quant à moi, je l\'accepte, et je ne me plains que de l\'abus de la rhétorique, des chevilles qui pullulent, des vers inutiles amenés pour les besoins de la rime riche, de la pompe vide, des procédés connus, des poncifs, de tout ce bric-à-brac romantique qui ne nous apporte rien de nouveau, de toute cette pièce enfin qui répète et qui ne vaut pas les anciennes.
+
+Je passe h présent à *Petit Paul*, un morceau qui a pour cadre le milieu moderne. Il faut voir le poète, quand il consent à quitter son armure de chevalier pour endosser la simple redingote d\'un bon vieux grand-père ! On le sent gêné ; son pas lourd ébranle les parquets, même lorsqu\'il veut marcher sur la pointe des pieds. Il a des grâces colossales et zézayantes. Ainsi, son histoire de *Petit Paul* est un drame simple et touchant, l\'histoire d\'un enfant dont la mère meurt et dont le père se remarie ; Paul est recueilli par son grand-père, qui meurt à son tour, après l\'avoir élevé et adoré dans un grand jardin ; alors, le petit, âgé seulement de trois ans, se trouve tellement malheureux chez sa marâtre, qu\'un soir d\'hiver il s\'échappe et vient expirer de douleur et de froid à la porte du cimetière, où il a vu enterrer l\'aïeul. On ne s\'imaginerait jamais avec quel luxe de souffles bibliques et avec quelle complication de tendresse prétentieuse Victor Hugo a gâté la simplicité de cette histoire.
+
+Le morceau débute ainsi :
+
+*Sa mère en le mettant au monde s\'en alla.
+Sombre distraction du sort. Pourquoi cela ?
+Pourquoi tuer la mère en laissant l\'enfant vivre ?
+Pourquoi par la marâtre, ô deuil ! la faire suivre ?*
+
+
+Mon Dieu ! pourquoi ? parce que cela est. Le sort est toujours distrait. Le drame de la vie n\'est qu\'une suite d\'accidents. Mais le poète ne peut accepter les réalités, et nous le verrons encore mieux tout à l\'heure.
+
+*Alors un vieux bonhomme accepta ce pauvre être.
+C\'était l\'aïeul. Parfois, ce qui n\'est plus défend
+Ce qui sera. L\'aïeul prit dans ses bras l\'enfant
+Et devint mère. Chose étrange et naturelle.*
+
+
+Nous entrons ici dans le galimatias sentimental. Quand il parle des enfants, Victor Hugo croit devoir affecter une puérilité qui ne s\'accommode guère avec ses procédés habituels. Imaginez un colosse qui risquerait des gentillesses de gamin. Je me suis vainement creusé la tête pour comprendre ce qu\'il y avait d\'étrange et de naturel à ce qu\'un aïeul devînt mère. C\'est pour moi du radotage quintessencié. Cela continue, d\'ailleurs.
+
+*Il faut que quelqu\'un mène à l\'enfant sans nourrice
+La chèvre aux fauves yeux qui rôde au flanc des monts ;
+Il faut quelqu\'un de grand qui fasse dire : Aimons !
+Qui couvre de douceur la vie impénétrable,
+Qui soit vieux, qui soit jeune, et qui soit vénérable.*
+
+
+Je jure que je ne comprends pas ces deux dernier vers.
+
+*C\'est pour cela que Dieu, ce maître du linceul,
+Remplace quelquefois la mère par l\'aïeul,
+Et fait, jugeant l\'hiver seul capable de flamme.
+Dans l\'âme du vieillard éclore un c*oe*ur de femme.*
+
+
+Est-ce parce qu\'on fait du feu l\'hiver dans les cheminées que Dieu juge que l\'hiver est seul capable de flamme ? Évidemment, c\'est la seule raison. À quoi bon tout ce pathos pour expliquer la tendresse des bons vieux grands-pères ? Cette tendresse est faite de l\'orgueil de leur race, de l\'isolement où on les laisse et de la reconnaissance qu\'ils ont pour l\'amitié des petits, des souvenirs de leur propre jeunesse éveillés par la vue des têtes blondes. Il n\'est pas nécessaire d\'aller déranger Homère, Moïse et Virgile pour trancher la question.
+
+Ensuite, nous arrivons au jardin :
+
+*Le grand père emporta l\'enfant dans sa maison,
+Aux champs, d\'où l\'on voyait un si vaste horizon
+Qu\'un petit enfant seul pouvait l\'emplir.*
+
+
+Ah ! l\'antithèse !
+
+*Un jardin, c\'est fort beau, n\'est-ce pas ? Mettez-y
+Un marmot ; ajoutez un vieillard ; c\'est ainsi
+Que Dieu fait. Combinant ce que le c*oe*ur souhaite
+Avec ce que les yeux désirent, ce poète
+Complète, car au fond la nature c\'est l\'art,
+Les roses par l\'enfant, l\'enfant par le vieillard.*
+
+
+Une fois encore, je ne comprends pas. Ce madrigal à la nature, si alambiqué d\'idée et si contourné de forme, me consterne, comme un de ces rébus que l\'on trouve à la fin des journaux illustrés. Comment ! Dieu met d\'habitude un vieillard et un enfant dans un jardin pour compléter les roses ? Mais je l\'ignorais, mais cette découverte me laisse plein d\'émoi !
+
+*Un nouveau-né vermeil, et nu jusqu\'au nombril.
+Couché sur l\'herbe en fleurs, c\'est aimable, ô Virgile !
+Hélas ! c\'est tellement divin que c\'est fragile.*
+
+
+Remarquez que Virgile est de l\'aventure parce qu\'il rime richement avec *fragile*.
+
+*Il faut allaiter Paul ; une chèvre y consent.
+Paul est frère de lait du chevreau bondissant ;
+Puisque le chevreau saute, il sied que l\'homme marche.*
+
+
+Je ne vois pas du tout cette conséquence.
+
+*Un an, c\'est l\'âge fier ; croître, c\'est conquérir ;
+Paul fait son premier pas, il veut en faire d\'autres.
+(Mère, vous le voyez en regardant les vôtres.)*
+
+
+Ce dernier vers est une affreuse cheville, et il est en outre incorrect, car les vôtres ne se rapportent à rien.
+
+*Oh ! pas plus qu\'on ne peut peindre un astre, ou décrire
+La forêt éblouie au soleil se chauffant,
+Nul n\'ira jusqu\'au fond du rire d\'un enfant :
+C'est l\'amour, l\'innocence auguste, épanouie,
+C\'est la témérité de la grâce inouïe,
+La gloire d\'être pur, l\'orgueil d\'être debout,
+La paix, on ne sait quoi d\'ignorant qui sait tout.*
+
+
+J\'ai cité toute cette tirade pour indiquer une fois de plus le procédé du poète. Il entasse les mots, il prend un atome et il le gonfle tellement qu\'il le fait éclater. Certes, le rire d\'un enfant est une chose adorable ; mais pourquoi parler d\'un astre, d\'une forêt se chauffant au soleil, pourquoi vouloir prouver l\'existence de Dieu avec le rire d\'un gamin ? Tout cela n\'est que de la farce grandiose. Le lyrisme écrase là par trop le réel.
+
+J\'abrège, l\'aïeul est mort, et Paul souffre chez sa marâtre. Écoutez le langage de cette femme, parlant à son véritable fils :
+
+*Ce rire, c\'est le ciel prouvé, c\'est Dieu visible.
+J\'ai volé le plus beau de vos anges, Seigneur,
+Et j\'ai pris un morceau du ciel pour faire un lange.
+Seigneur, il est l\'enfant, mais il est resté l\'ange.
+Je tiens le paradis du bon Dieu dans mes bras.*
+
+
+Quel étrange langage dans la bouche d\'une femme de nos jours ! Il faut que Victor Hugo n\'ait jamais entendu parler une mère ou que la rime ait d\'étranges exigences. *Lange* est une très bonne rime à l'*ange*, mais jamais une mère ne dit qu\'elle a pris un morceau du ciel pour faire un lange. C\'est le poète qui parle toujours ; il n\'entre jamais dans la peau de son personnage. Quand l\'action se passe au moyen-âge, cette substitution est tolérable ; mais quand il prend un héros contemporain, je suis très choqué pour ma part des monstruosités qu\'il lui met dans la bouche.
+
+Ainsi que l'*Aigle du casque*, *Petit Paul* se termine par un effet puissant. Victor Hugo est l\'homme des opéras à grand spectacle, il finit par des ensembles, par des apothéoses. Paul vient mourir à la porte du cimetière où son grand-père est enterré.
+
+*Une de ses deux mains tenait encore la grille ;
+On voyait qu\'il avait essayé de l'ouvrir.
+Il sentait là quelqu\'un pouvant le secourir ;
+Il avait appelé dans l\'ombre solitaire,
+Longtemps ; puis, il était tombé mort sur la terre,
+À quelques pas du vieux grand-père, son ami.
+N\'ayant pu l\'éveiller, il s\'était endormi.*
+
+
+Le milieu moderne n\'est point fait pour ce visionnaire. Il le peuple trop de ses rêves. Il est allé où il devait aller : aux fantaisies échevelées de son imagination, à la résurrection fantastique et mensongère des siècles morts. Dès qu\'il regarde à terre, il ne sait plus marcher. Un jardinet bourgeois devient un Eden. Un marmot prend l\'importance d\'un Messie. Les roses sont grosses comme des choux, les cailloux des sentiers ont l\'éclat des diamants. Je dis ce que je vois en lui, et dans tout ce galimatias je reconnais volontiers qu\'il y a des vers superbes. Ainsi, tout en l\'accusant de manquer de simplicité, je trouve pourtant d\'une simplicité poignante le dernier vers :
+
+*N\'ayant pu l\'éveiller, il s\'était endormi.*
+
+
+C\'est que Victor Hugo, pour employer sa langue imagée, est un véritable fleuve débordé, roulant à la fois des cailloux et de l\'or, des eaux boueuses et des eaux claires.
+
+
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[DOCUMENTS LITTÉRAIRES]{lang="EN-GB"}
+
+Victor Hugo
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+### []{#_Toc368911543 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368911057 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910571 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910085 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909599 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909113 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908627 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908141 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907655 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907169 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906683 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906197 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905711 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905225 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904739 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904253 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903767 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903281 .pcalibre .calibre2 .pcalibre1}[VI]{#_Toc368902795 .pcalibre .calibre2 .pcalibre1} {#vi .calibre46 .sigil_not_in_toc}
+
+
+J\'ai souvent songé aux deux destinées si différentes de Balzac et de Victor Hugo, et je veux tirer d\'un parallèle entre eux toute la conclusion de cette étude.
+
+On sait la longue obscurité de Balzac, ses luttes, sa mort, lorsqu\'il arrivait enfin à la fortune et à la gloire. Celui-là a été jusqu\'au bout un lutteur et un incompris. De son vivant, ses oeuvres se vendaient à peine ; il fallut que l\'étranger l\'acclamât pour que la France consentît à tourner la tête de son côté. Il n\'avait point de cour autour de lui ; il vivait isolé, traqué par ses créanciers, cachant sa vie avec la pudeur de l\'homme pauvre et la défiance de l\'homme diffamé. Aucun disciple ne balançait des encensoirs devant sa personne sacrée, aucun joueur de flûte ne précédait ses pas pour faire ranger la foule. Il n\'entra ni à l\'Académie ni à la Chambre des pairs. Il ne fut ni roi ni dieu, et, quand il mourut, il n\'emporta pas la pensée orgueilleuse d\'avoir fondé une dynastie et une religion.
+
+Eh bien ! Balzac expirait, lapidé et crucifié, comme le messie de la grande école du naturalisme. La parole qu\'il avait apportée, qu\'on plaisantait et qu\'on dédaignait, devait lentement germer sur son sépulcre. Le travail se faisait sous terre. Cet écrivain isolé, sans disciple, sans public enthousiaste, allait conquérir toute notre littérature du fond de sa tombe. Son influence s\'est élargie, les soldats de son idée sont venus, de plus en plus nombreux, et aujourd\'hui ? ils sont légion. L\'homme semblait être resté petit, par l\'obscurité relative de sa vie ; mais, aujourd\'hui, le bronze de sa statue est colossal, il se hausse chaque jour. Nous commençons à comprendre ce que Balzac a apporté, une formule nouvelle qui est la seule et véritable formule du monde nouveau. Et savez-vous pourquoi cette formule s\'impose avec une telle puissance ? C\'est qu\'elle est l\'instrument attendu, c\'est qu\'elle va permettre de réaliser l\'art de la société moderne. Il n\'y a pas là une fantaisie littéraire, et il y a plus que l\'originalité d\'un homme de génie. À côté de l\'écrivain personnel, on trouve dans Balzac un initiateur, un homme de science qui a tracé le chemin à tout le vingtième siècle.
+
+Quant à Victor Hugo, il a bu tant de gloire pendant sa vie, qu\'il pourrait mourir demain oublié, sans avoir à se plaindre. Certes, lui aussi s\'est battu pour ses idées. Mais quelles batailles flatteuses et quels triomphes après chaque mêlée ! Il avait toute une armée pour lui. Quand il allait au combat, un page lui tenait sa cuirasse, un autre son casque, un autre fia lance. Une musique à ses gages jouait des airs de victoire, pendant qu\'il se battait. Il a eu tous les honneurs et tous les bonheurs. Il a vieilli, écrasé sous le poids de ses lauriers, se tenant droit quand même, grâce à ses fortes épaules. D\'ailleurs, j\'ai dit son existence magnifique, telle qu\'on en trouve seulement de semblables dans les contes de fée. Aujourd\'hui, arrivé à l\'âge de soixante-dix-sept ans, il peut croire qu\'il tient le monde dans sa main, que les peuples l\'adorent comme le dieu de la poésie, et que, lorsqu\'il s\'en ira, le soleil pâlira.
+
+Eh bien ! Victor Hugo, qui a traîné derrière lui des cortèges de fidèles, ne laissera pas un disciple pour reprendre et fonder la religion du maître. Tout ce vaste bruit qui s\'est fait autour de l\'écrivain vivant, s\'éteindra peu à peu autour de l\'écrivain mort. La postérité se désintéressera et deviendra sévère. Et savez-vous pourquoi elle sera sévère ? C\'est parce que, chez Victor Hugo, l\'initiateur s\'est trompé et n\'a apporté que sa fantaisie personnelle, sans trouver le large courant du siècle, qui va à l\'analyse exacte, au naturalisme. On fera bon marché de tout ce bric-à-brac du moyen âge, qui n\'a même pas le mérite d\'être historique. On s\'étonnera que nous ayons laissé passer sans rire cet amas colossal d\'erreurs et de puérilités. On cherchera le philosophe, le critique, l\'historien, le romancier, l\'auteur dramatique, et, lorsqu\'on ne trouvera toujours qu\'un poète lyrique, on lui fera sa place, une place très grande ; mais, à coup sûr, on ne lui donnera pas le siècle entier, car, au lieu d\'emplir le siècle de lumière, il a failli le boucher de la masse épaisse de sa rhétorique. Il n\'est pas allé à la vérité, il n\'a pas été l\'homme de son temps, quoi qu\'on dise ; et cela suffit à expliquer pourquoi, dans l\'avenir, Balzac grandira, tandis que Victor Hugo perdra de sa hauteur.
+
+Sans doute, le génie suffit et la beauté reste éternelle. Aussi n\'ai-je en vue en ce moment que les écoles littéraires, les évolutions qui peuvent se produire au siècle prochain. Je ne crois pas à la descendance de Victor Hugo ; il emportera le romantisme avec lui, comme une guenille de pourpre, dans laquelle il s\'était taillé un manteau royal. Je crois au contraire à la descendance de Balzac, qui a en elle la vie même du siècle. Victor Hugo restera ainsi qu\'une originalité puissante, et le meilleur service que des amis pieux pourraient lui rendre après sa mort, ce serait de porter la hache dans son oeuvre si considérable, de réunir les cinquante ou soixante chefs-d'oeuvre qu\'il a écrits dans son existence, des pièces de vers d\'une absolue beauté. On obtiendrait ainsi un recueil comme il n\'en existe dans aucune littérature. Les âges s\'inclineraient devant le roi indiscutable des poètes lyriques. Tandis que, si la postérité doit accepter le tas des oeuvres complètes, il est à craindre qu\'elle ne se rebute devant un si incroyable mélange de l\'excellent, du médiocre et du pire ; il y a des pièces illisibles, des pièces qui frisent le grotesque. Sans doute, par la force même des choses, dans le cas où personne n\'aurait osé faire le recueil que je demande, ce recueil se ferait de lui-même ; l\'or seul surnagerait, parmi toutes les scories.
+
+En finissant, je veux toucher un sujet plus délicat encore. La petite cour de Victor Hugo assure que le maître a, dans ses tiroirs, plus de vingt volumes d\'oeuvres inédites. H aurait amassé ces oeuvres, toujours d\'après ce qu\'on m\'a raconté, pour laisser après lui un nombre considérable d\'ouvrages, qui seraient publiés successivement, à des époques que son testament fixerait. Dès lors, on comprend le mécanisme de ces publications posthumes ; par exemple, s\'il laisse la matière de vingt volumes, et que chaque année un volume paraisse, pendant vingt ans des livres inédits paraîtront, bien qu\'il soit couché dans la terre.
+
+Je me plais h voir là l\'orgueil d\'un dieu qui veut être plus fort que la mort. Il entend vivre parmi ses disciples et ses fidèles, même lorsque son corps ne sera plus. Il laisse sa parole, il se dressera chaque année dans son cercueil, pour crier : « Écoutez, me voici ! » Cela est très beau et montre une rare énergie de personnalité. Puis, il doit se mêler de la prévoyance à l'orgueil. Peut-être Victor Hugo sent-il crouler son école. Il n\'a sans doute pas grande confiance dans le talent des disciples qui lui survivront, et il préfère continuer le combat du fond de la tombe. Tant qu\'il tiendra l\'épée, il croit être sûr de la victoire. Ses oeuvres posthumes sont des arguments suprêmes qu\'il tient en réserve. Si sa mémoire est attaquée, elles répondront pour lui et confondront les critiques.
+
+Malheureusement, ce calcul de son orgueil se retournera contre lui. Le temps marche, les évolutions se produisent, les générations nouvelles comprennent de moins en moins le passé. Il est certain que, si la deuxième série de la *Légende des siècles* n\'a pas eu le succès de la première, cela tient à ce qu\'elle s\'est produite dans une autre époque. L\'amour de la modernité, le goût de la vérité et de l\'analyse, ont tellement grandi, qu\'ils ont porté le dernier coup au romantisme. Habitué peu à peu au vrai, à la peinture des moeurs contemporaines, le public ne mord plus guère aux légendes du moyen âge, aux héros célestes et farouches, à tout ce clinquant de la rhétorique de 1830. De là l\'insuccès relatif de la *Légende des siècles*. Mais le mouvement ne s\'arrêtera pas, chaque année l\'évolution naturaliste va se précipiter. Alors, vous imaginez-vous, pendant vingt ans, des volumes de Victor Hugo tombant dans un public qui les lira et les comprendra de moins en moins ? Ces oeuvres de la vieillesse du poète seront fatalement inférieures à celles de sa jeunesse et de son âge mûr. Si, aujourd\'hui qu\'il est encore debout, l\'indifférence commence, que sera-ce, lorsqu\'il ne sera plus là ? Au cinquième volume, le public demandera grâce, et à chaque volume qui tombera ensuite, la chute sera plus profonde.

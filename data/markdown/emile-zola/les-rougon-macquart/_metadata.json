@@ -1,0 +1,22 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES ROUGON-MACQUART",
+  "slug": "les-rougon-macquart",
+  "nombre_chapitres": 0,
+  "structure": [
+    {
+      "title": "Introduction[1]",
+      "slug": "introduction1",
+      "spine_start": 7,
+      "spine_end_exclusive": 9,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_006.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_007.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

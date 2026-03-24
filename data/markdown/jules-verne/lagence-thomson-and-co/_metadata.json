@@ -1,0 +1,61 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'AGENCE THOMSON AND CO",
+  "slug": "lagence-thomson-and-co",
+  "nombre_chapitres": 30,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1952,
+      "spine_end_exclusive": 1967,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_191.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_192.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_193.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_194.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_195.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_196.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_197.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_198.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_199.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_200.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_201.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_202.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_203.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_204.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_205.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 1967,
+      "spine_end_exclusive": 1982,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_206.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_207.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_208.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_209.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_210.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_211.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_212.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_213.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_214.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_215.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_216.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_217.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_218.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_219.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIb_split_220.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

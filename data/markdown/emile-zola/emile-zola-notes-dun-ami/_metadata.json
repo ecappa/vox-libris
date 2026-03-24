@@ -1,0 +1,151 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ÉMILE ZOLA – NOTES D’UN AMI",
+  "slug": "emile-zola-notes-dun-ami",
+  "nombre_chapitres": 12,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 2382,
+      "spine_end_exclusive": 2383,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I – Les origines.",
+      "slug": "i-les-origines",
+      "spine_start": 2383,
+      "spine_end_exclusive": 2384,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II – Enfance à Aix.",
+      "slug": "ii-enfance-a-aix",
+      "spine_start": 2384,
+      "spine_end_exclusive": 2385,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III – Fin des études, à Paris.",
+      "slug": "iii-fin-des-etudes-a-paris",
+      "spine_start": 2385,
+      "spine_end_exclusive": 2386,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV – Débuts dans la vie.",
+      "slug": "iv-debuts-dans-la-vie",
+      "spine_start": 2386,
+      "spine_end_exclusive": 2387,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V – La Lutte littéraire.",
+      "slug": "v-la-lutte-litteraire",
+      "spine_start": 2387,
+      "spine_end_exclusive": 2388,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI – Les Rougon-Macquart.",
+      "slug": "vi-les-rougon-macquart",
+      "spine_start": 2388,
+      "spine_end_exclusive": 2389,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII – L’auteur dramatique.",
+      "slug": "vii-lauteur-dramatique",
+      "spine_start": 2389,
+      "spine_end_exclusive": 2390,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII – Le critique.",
+      "slug": "viii-le-critique",
+      "spine_start": 2390,
+      "spine_end_exclusive": 2391,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX – Méthode de travail.",
+      "slug": "ix-methode-de-travail",
+      "spine_start": 2391,
+      "spine_end_exclusive": 2392,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X – Le succès.",
+      "slug": "x-le-succes",
+      "spine_start": 2392,
+      "spine_end_exclusive": 2393,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI – L’homme.",
+      "slug": "xi-lhomme",
+      "spine_start": 2393,
+      "spine_end_exclusive": 2394,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII – La critique et le public.",
+      "slug": "xii-la-critique-et-le-public",
+      "spine_start": 2394,
+      "spine_end_exclusive": 2396,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_019.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola9_split_020.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image004.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image005.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image006.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image007.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image008.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image009.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image010.jpg",
+    "images/emile-zola/emile-zola-notes-dun-ami/Zola9_image011.jpg"
+  ]
+}

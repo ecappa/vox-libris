@@ -1,0 +1,101 @@
+### [[Chapitre 2 -- Mystérieuse existence]{lang="X-NONE"}]{#_Toc342942847 .pcalibre2 .pcalibre1} {#chapitre-2-mystérieuse-existence .calibre171 .sigil_not_in_toc}
+
+Les géographes désignent sous le nom de Magellanie l\'ensemble des îles et îlots groupés, entre l\'Atlantique et le Pacifique, à la pointe sud du continent américain. Les terres les plus australes de ce continent, c\'est-à-dire le territoire patagon, prolongées par les deux vastes presqu\'îles du Roi Guillaume et de Brunswick, se terminent par un des caps de cette dernière, le cap Froward. Tout ce qui ne leur est pas directement rattaché, tout ce qui en est séparé par le détroit de Magellan, constitue ce domaine, auquel a été justement réservé le nom de l\'illustre navigateur portugais du XVI siècle.
+
+La conséquence de cette disposition géographique, c\'est que, jusqu\'en 1881, cette partie du Nouveau-Monde n\'était rattachée à aucun État civilisé, pas même à ses plus proches voisins, le Chili et la République Argentine, qui se disputaient alors les pampas de la Patagonie. La Magellanie n\'appartenait à personne, et des colonies pouvaient s\'y fonder en conservant leur entière indépendance.
+
+Elle n\'est cependant pas d\'une étendue insignifiante, cette contrée qui, sur une aire de cinquante mille kilomètres superficiels, comprend, outre un grand nombre d\'autres îles de moindre importance, la Terre de Feu, la Terre de Désolation, les îles Clarence, Hoste, Navarin, plus l\'archipel du cap Horn, formé lui-même des îles Grévy, Wollaston, Freycinet, Hermitte, Herschell, et des îlots et récifs, par lesquels s\'achève en poussière la masse énorme du continent américain.
+
+Des diverses parcelles de la Magellanie, la Terre de Feu est de beaucoup la plus vaste. Au Nord et à l\'Ouest, elle a pour limite un littoral très déchiqueté, depuis le promontoire d\'Espiritu Santo jusqu\'au Magdalena Sound. Après avoir projeté vers l\'Ouest une presqu\'île tout effilochée que domine le mont Sarmiento, elle se prolonge, au Sud-Est, par la pointe de San-Diego, sorte de sphinx accroupi dont la queue trempe dans les eaux du détroit de Lemaire.
+
+C\'est dans cette grande île, au mois d\'avril 1880, que se sont passés les faits qui viennent d\'être racontés. Ce canal que le Kaw-djer avait sous les yeux pendant sa fiévreuse méditation, c\'est le canal du Beagle, qui court au sud de la Terre de Feu et dont la rive opposée est formée par les îles Gordon, Hoste, Navarin et Picton. Plus au Sud encore, s\'éparpille le capricieux archipel du cap Horn.
+
+Près de dix ans avant le jour choisi comme point de départ à ce récit, celui que les Indiens devaient plus tard appeler le Kaw-djer avait été pour la première fois rencontré sur le littoral fuégien. Comment s\'y était-il transporté ? Sans doute à bord de l\'un des nombreux bâtiments, voiliers et steamers, qui suivent les détours du labyrinthe maritime de la Magellanie et des îles qui la prolongent sur l\'Océan Pacifique, en faisant avec les indigènes le commerce des pelleteries de guanaques, de vigognes, de nandous et de loups marins.
+
+La présence de cet étranger pouvait s\'expliquer aisément de la sorte, mais, quant à savoir quel était son nom, de quelle nationalité il relevait, s\'il se rattachait par sa naissance à l\'Ancien ou au Nouveau-Monde, c\'étaient là autant de questions auxquelles il eût été malaisé de répondre.
+
+On ignorait tout de lui. Nul, d\'ailleurs, il convient de l\'ajouter, n\'avait jamais cherché à se renseigner à son sujet. Dans ce pays où n\'existait aucune autorité, qui aurait eu qualité pour l\'interroger ? Il n\'était pas dans un de ces états organisés où la police s\'inquiète du passé des gens et où il est impossible de demeurer longtemps inconnu. Ici, personne n\'était dépositaire d\'une puissance quelconque, et l\'on pouvait vivre en dehors de toutes coutumes, de toutes lois, dans la plus complète liberté.
+
+Pendant les deux premières années qui suivirent son arrivée à la Terre de Feu, le Kaw-djer ne chercha pas à se fixer sur un point plutôt que sur un autre. Sillonnant la contrée de ses courses vagabondes, il se mit en relations avec les indigènes, mais sans jamais approcher des rares factoreries exploitées çà et là par des colons de race blanche. S\'il entrait en rapports avec un des navires relâchant en quelque point de l\'archipel, c\'était toujours par l\'intermédiaire d\'un Fuégien, et uniquement pour renouveler ses munitions et ses substances pharmaceutiques. Ces achats, il les payait, soit au moyen d\'échanges, soit en monnaie espagnole ou anglaise, dont il ne semblait pas dépourvu.
+
+Le reste du temps, il allait de tribus en tribus, de campements en campements. Il vivait, comme les indigènes, des produits de sa chasse et de sa pêche, tantôt parmi les familles du littoral, tantôt chez les peuplades de l\'intérieur, partageant leur ajoupa ou leur tente, soignant les malades, secourant les veuves et les orphelins, adoré par ces pauvres gens, qui ne tardèrent pas à lui décerner le glorieux surnom sous lequel il était connu maintenant d\'un bout à l\'autre de l\'archipel.
+
+Que le Kaw-djer fût un homme instruit, aucun doute à cet égard, et il avait dû faire notamment des études très complètes en médecine. Il connaissait aussi plusieurs langues, et Français, Anglais, Allemands, Espagnols et Norvégiens auraient pu indifféremment le prendre pour un compatriote. À son bagage de polyglotte, cet énigmatique personnage n\'avait pas tardé à ajouter le yaghon. Il parlait couramment cet idiome, qui est le plus employé dans la Magellanie, et dont les missionnaires se sont servis pour traduire quelques passages de la Bible.
+
+Loin d\'être inhabitable, ainsi qu\'on le croit généralement, la Magellanie, où le Kaw-djer avait fixé sa vie, est très supérieure à la réputation que lui ont value les récits de ses premiers explorateurs. Certes, il serait exagéré de la transformer en paradis terrestre, et l\'on aurait mauvaise grâce à contester que sa pointe extrême, le cap Horn, ne soit balayée par des tempêtes dont la fréquence n\'a d\'égale que la fureur. Mais il ne manque pas de pays, en Europe même, qui nourrissent une population nombreuse, bien que les conditions d\'existence y soient beaucoup plus rudes. Si le climat y est humide au plus haut point, cet archipel doit à la mer qui l\'entoure une incontestable régularité de température, et il n\'a pas à subir les froids rigoureux de la Russie septentrionale, de la Suède et de la Norvège. La moyenne thermométrique ne descend pas au-dessous de cinq degrés centigrades en hiver si elle ne s\'élève pas au-dessus de quinze degrés en été.À défaut d\'observations météorologiques, l\'aspect de ces îles aurait dû mettre en garde contre toute appréciation d\'un pessimisme exagéré. La végétation y atteint une ampleur qui lui serait interdite dans la zone glaciale. Il y existe d\'immenses pâturages qui suffiraient à la nourriture d\'innombrables troupeaux, et de vastes forêts où se rencontrent en abondance le hêtre antarctique, le bouleau, l\'épine-vinette et l\'écorce de Winter. Sans aucun doute, nos végétaux comestibles s\'y acclimateraient aisément, et beaucoup d\'entre eux, jusques et y compris le froment, pourraient y prospérer.
+
+Pourtant, cette contrée, qui n\'est pas inhabitable, est à peu près inhabitée. Sa population ne comprend qu\'un petit nombre d\'Indiens, catalogués sous le nom de Fuégiens ou de Pêcherais, véritables sauvages au dernier rang de l\'humanité, qui vivent presque entièrement nus et mènent, à travers ces vastes solitudes, une vie errante et misérable.
+
+Longtemps déjà avant l\'époque où commence cette histoire, le Chili, en fondant la station de Punta-Arenas sur le détroit de Magellan, avait paru prêter quelque attention à ces régions méconnues. Mais à cela s\'était borné son effort, et, malgré la prospérité de sa colonie, il n\'avait fait aucune tentative pour prendre pied sur l\'archipel magellanique proprement dit.
+
+Quelle succession d\'événements avait conduit le Kaw-djer dans cette contrée ignorée de la plupart des hommes ? Cela aussi était un mystère, mais ce mystère, du moins, le cri lancé du haut de la falaise, comme un défi au ciel et comme un remerciement passionné à la terre, permettait de le percer en partie.
+
+« Ni Dieu, ni maître ! » c\'est la formule classique des anarchistes. Il était donc à supposer que le Kaw-djer appartenait, lui aussi, à cette secte, foule hétéroclite de criminels et d\'illuminés. Ceux-là, rongés d\'envie et de haine, toujours prêts à la violence et au meurtre ; ceux-ci, véritables poètes qui rêvent une humanité chimérique d\'où le mal serait banni à jamais par la suppression des lois imaginées pour le combattre.
+
+À laquelle de ces deux classes appartenait le Kaw-djer ? Était-il un de ces libertaires aigris, un de ces apologistes de l\'action directe et de la propagande par le fait, et, successivement rejeté par toutes les nations, n\'avait-il trouvé de refuge qu\'à cette extrémité du monde habitable ?
+
+Une telle hypothèse se serait mal accordée avec la bonté dont il avait donné tant de preuves depuis son arrivée dans l\'archipel magellanique. Qui s\'était acharné si souvent à sauver des existences humaines n\'avait jamais dû songer à en détruire. Qu\'il fût anarchiste, oui, puisqu\'il le proclamait lui-même, mais alors il appartenait à la section des rêveurs et non à celle des professionnels de la bombe et du couteau. S\'il en était effectivement ainsi, son exil ne devait être que le dénouement logique d\'un drame intérieur, et non pas un châtiment édicté par une volonté étrangère. Sans doute, tout enivré par son rêve, il n\'avait pu supporter ces règles d\'airain qui, dans l\'Univers civilisé, conduisent l\'homme en laisse du berceau jusqu\'à la mort, et un moment était venu où l\'air lui avait semblé irrespirable dans cette forêt de lois innombrables par lesquelles les citoyens achètent, au prix de leur indépendance, un peu de bien-être et de sécurité. Son caractère lui interdisant de vouloir imposer par la force ses idées et ses répugnances, il n\'avait pu, dès lors, que partir à la recherche d\'un pays où l\'on ne connût pas l\'esclavage, et c\'est ainsi peut-être qu\'il avait échoué finalement en Magellanie, le seul point, sur toute la surface de la terre, où régnât encore la liberté intégrale.
+
+Pendant les premiers temps de son séjour, deux ans environ, le Kaw-djer ne quitta point la grande île où il avait débarqué.
+
+La confiance qu\'il inspirait aux indigènes, son influence sur leurs tribus ne tarda pas à s\'accroître. On venait le consulter des autres îles parcourues par des Indiens Canoës, ou Indiens à pirogues, dont la race est quelque peu différente de celle des Yacanas qui peuplent la Terre de Feu. Ces misérables Pêcherais, qui vivent, comme leurs congénères, de chasse et de pêche, se rendaient près du « Bienfaiteur », quand celui-ci se trouvait sur le littoral du canal du Beagle. Le Kaw-djer ne refusait à personne ses conseils ni ses soins. Souvent même, dans certaines circonstances graves, lorsque sévissait quelque épidémie, il risqua sans marchander sa vie pour combattre le fléau. Bientôt sa renommée se répandit dans toute la contrée. Elle franchit le détroit de Magellan. On sut qu\'un étranger, installé sur la Terre de Feu, avait reçu des indigènes reconnaissants le titre de Kaw-djer, et, à plusieurs reprises, il fut sollicité de venir à Punta-Arenas. Mais il répondit invariablement par un refus dont aucune instance ne put triompher. Il semblait qu\'il ne voulût pas remettre le pied là où il ne sentait plus le sol libre.
+
+
+Si le Kaw-djer s\'obstinait à ne pas aller à la bourgade chilienne de Punta-Arenas, qui est située sur le territoire de la Patagonie, les Patagons ne se privent pas d\'envahir parfois le territoire magellanique. Eux et leurs chevaux transportés en quelques heures sur la rive sud du détroit de Magellan, ils font de longues excursions, ce qu\'on appelle en Amérique de grands raids, d\'une extrémité à l\'autre de la Terre de Feu, attaquant les Fuégiens, les rançonnant, les pillant, s\'emparant des enfants qu\'ils emmènent en esclavage dans les tribus patagones.
+
+Entre les Patagons ou Tchnelts et les Fuégiens, il existe des différences ethniques assez sensibles sous le rapport de la race et des moeurs, les premiers étant infiniment plus redoutables que les seconds. Ceux-ci vivent de la pêche et ne se réunissent guère que par familles, tandis que ceux-là sont chasseurs et forment des tribus compactes sous l\'autorité d\'un chef. En outre, la taille des Fuégiens est un peu inférieure à celle de leurs voisins du continent. On les reconnaît à leur grosse tête carrée, aux pommettes saillantes de leur face, à leurs sourcils clairsemés, à la dépression de leur crâne. En somme, on les tient pour des êtres assez misérables, dont la race n\'est pas près de finir cependant, car le nombre des enfants est considérable, autant, pourrait-on dire, que celui des chiens qui grouillent autour des campements.
+
+Quant aux Patagons, ils sont de haute stature, vigoureux et bien proportionnés. Dénués de barbe, ils laissent pendre leurs longs cheveux noirs maintenus sur le front par un bandeau. Leur figure olivâtre est plus large aux mâchoires qu\'aux tempes, leurs yeux s\'allongent quelque peu suivant le type mongol, et, de part et d\'autre d\'un nez largement épaté, leurs yeux brillent du fond d\'orbites assez rétrécies. Intrépides et infatigables cavaliers, il leur faut de larges espaces à franchir avec leurs non moins infatigables montures, d\'immenses pâturages pour la nourriture de leurs chevaux, des terrains de chasse où ils poursuivent le guanaque, la vigogne et le nandou.
+
+Plus d\'une fois, le Kaw-djer les avait rencontrés pendant leurs incursions sur la Terre de Feu, mais jusqu\'alors il n\'avait jamais pris contact avec ces farouches déprédateurs, que le Chili et l\'Argentine sont impuissants à contenir.
+
+Ce fut en novembre 1872, alors que ses pérégrinations l\'avaient conduit sur la côte ouest de la Fuégie, près du détroit de Magellan, que le Kaw-djer eut pour la première fois à intervenir contre eux, en faveur de Pêcherais de la baie Inutile.
+
+Cette baie, limitée au Nord par des marécages, forme une profonde découpure à peu près en face de l\'emplacement où Sarmiento avait établi sa colonie de Port-Famine, de sinistre mémoire.
+
+Un parti de Tchnelts, après avoir débarqué sur la rive sud de la baie Inutile, attaqua un campement de Yacanas, qui ne comptait qu\'une vingtaine de familles. La supériorité numérique se trouvait du côté des assaillants, en même temps plus robustes et mieux armés que les indigènes.
+
+Ceux-ci essayèrent de lutter cependant, sous le commandement d\'un Indien Canoë qui venait d\'arriver au campement avec sa pirogue.
+
+Cet homme s\'appelait Karroly. Il faisait le métier de pilote et guidait les bâtiments de cabotage qui s\'aventurent sur le canal du Beagle et entre les îles de l\'archipel du cap Horn. C\'est en revenant de conduire un navire à Punta-Arenas qu\'il avait relâché dans la baie Inutile.
+
+Karroly organisa la résistance et, aidé des Yacanas, tenta de repousser les agresseurs. Mais la partie était par trop inégale. Les Pêcherais ne pouvaient opposer une défense sérieuse. Le campement fut envahi, les tentes furent renversées, le sang coula. Les familles furent dispersées.
+
+Pendant la lutte, le fils de Karroly, Halg, alors âgé de neuf ans environ, était resté dans la pirogue, où il attendait son père, lorsque deux Patagons se précipitèrent de son côté.
+
+Le jeune garçon ne voulut pas s\'éloigner de la grève, ce qui l\'eût mis hors d\'atteinte, mais ce qui eût aussi empêché son père de chercher refuge à bord de la pirogue.
+
+Un des Tchnelts sauta dans l\'embarcation et saisit l\'enfant entre ses bras.
+
+À ce moment, Karroly fuyait le campement au pouvoir des agresseurs. Il courut au secours de son fils que le Tchnelt emportait. Une flèche envoyée par l\'autre Patagon siffla à son oreille sans le toucher.
+
+Avant qu\'un second trait ne fût lancé, la détonation d\'une arme à feu retentit. Le ravisseur mortellement frappé roula à terre, tandis que son compagnon prenait la fuite.
+
+Le coup de feu avait été tiré par un homme de race blanche que le hasard amenait sur le lieu du combat. Cet homme, c\'était le Kaw-djer.
+
+Il n\'y avait pas à s\'attarder. La pirogue fut vigoureusement halée par son amarre. Le Kaw-djer et Karroly sautèrent à bord avec l\'enfant et poussèrent au large. Ils étaient déjà à une encablure du rivage lorsque les Patagons les couvrirent d\'une nuée de flèches dont l\'une atteignit Halg à l\'épaule.
+
+Cette blessure présentant une certaine gravité, le Kaw-djer ne voulut pas quitter ses compagnons tant que ses soins pouvaient être nécessaires. C\'est pourquoi il resta dans la pirogue, qui contourna la Terre de Feu, suivit le canal du Beagle, et vint enfin s\'arrêter dans une petite crique bien abritée de l\'Île Neuve, où Karroly avait établi sa résidence.
+
+Alors, il n\'y avait plus rien à craindre pour le jeune garçon, dont la blessure était en voie de guérison. Karroly ne savait comment exprimer sa reconnaissance.
+
+Lorsque, sa pirogue amarrée au fond de la crique, l\'Indien eut débarqué, il pria le Kaw-djer de le suivre.
+
+« Ma maison est là, lui dit-il ; c\'est ici que je vis avec mon fils. Si tu n\'y veux rester que quelques jours, tu seras le bienvenu, puis ma pirogue te ramènera de l\'autre côté du canal. Si tu veux y rester toujours, ma demeure sera la tienne et je serai ton serviteur. »
+
+À dater de ce jour, le Kaw-djer n\'avait plus quitté l\'Île Neuve, ni Karroly, ni son enfant. Grâce à lui, l\'habitation de l\'Indien Canoë était devenue plus confortable, et Karroly fut bientôt à même d\'exercer son métier de pilote dans de meilleures conditions. À sa fragile pirogue fut substituée cette solide chaloupe, la Wel-Kiej, achetée à la suite du naufrage d\'un navire norvégien, dans laquelle l\'homme blessé par le jaguar venait d\'être déposé.
+
+Mais cette nouvelle existence ne détourna pas le Kaw-djer de son oeuvre humanitaire. Ses visites aux familles indigènes ne furent pas supprimées, et il continua de courir partout où il y avait un service à rendre ou une douleur à guérir.
+
+Plusieurs années se passèrent ainsi, et tout portait à croire que le Kaw-djer continuerait à jamais sa vie libre sur cette terre libre, lorsqu\'un événement imprévu vint en troubler profondément le cours.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Première partie
+
+
+]{.calibre20}

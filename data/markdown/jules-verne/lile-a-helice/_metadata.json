@@ -1,0 +1,59 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "L'ÎLE À HÉLICE",
+  "slug": "lile-a-helice",
+  "nombre_chapitres": 15,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1541,
+      "spine_end_exclusive": 1555,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_090.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_091.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_092.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_093.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_094.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_095.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_096.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_097.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_098.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_099.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_100.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_101.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_102.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_103.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Seconde partie",
+      "slug": "seconde-partie",
+      "is_part": false,
+      "spine_start": 1555,
+      "spine_end_exclusive": 1569,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_104.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_105.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_106.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_107.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_108.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_109.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_110.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_111.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_112.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_113.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_114.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_115.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_116.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIIIa_split_117.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

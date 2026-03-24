@@ -1,0 +1,132 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MON SALON",
+  "slug": "mon-salon",
+  "nombre_chapitres": 10,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1365,
+      "spine_end_exclusive": 1366,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_065.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1366,
+      "spine_end_exclusive": 1367,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_066.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "À mon ami Paul Cézanne",
+      "slug": "a-mon-ami-paul-cezanne",
+      "spine_start": 1367,
+      "spine_end_exclusive": 1368,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_067.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le jury",
+      "slug": "le-jury",
+      "spine_start": 1368,
+      "spine_end_exclusive": 1369,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_068.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le jury (suite)",
+      "slug": "le-jury-suite",
+      "spine_start": 1369,
+      "spine_end_exclusive": 1370,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_069.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Le moment artistique",
+      "slug": "le-moment-artistique",
+      "spine_start": 1370,
+      "spine_end_exclusive": 1371,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_070.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "M. Manet",
+      "slug": "m-manet",
+      "spine_start": 1371,
+      "spine_end_exclusive": 1374,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_071.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_072.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_073.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les réalistes du Salon",
+      "slug": "les-realistes-du-salon",
+      "spine_start": 1374,
+      "spine_end_exclusive": 1375,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_074.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les chutes",
+      "slug": "les-chutes",
+      "spine_start": 1375,
+      "spine_end_exclusive": 1376,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_075.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Adieux d’un critique d’art",
+      "slug": "adieux-dun-critique-dart",
+      "spine_start": 1376,
+      "spine_end_exclusive": 1378,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_076.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_077.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Appendice à Mon Salon",
+      "slug": "appendice-a-mon-salon",
+      "spine_start": 1378,
+      "spine_end_exclusive": 1381,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_078.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_079.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola5_split_080.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/mon-salon/Zola5_image023.jpg",
+    "images/emile-zola/mon-salon/Zola5_image024.jpg",
+    "images/emile-zola/mon-salon/Zola5_image025.png",
+    "images/emile-zola/mon-salon/Zola5_image026.jpg",
+    "images/emile-zola/mon-salon/Zola5_image027.png"
+  ]
+}

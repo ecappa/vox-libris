@@ -1,0 +1,79 @@
+::: WordSection
+**[
+]{.calibre41}**
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911229 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910743 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910257 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909771 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909285 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908799 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908313 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907827 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907341 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906855 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906369 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905883 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905397 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904911 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904425 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903939 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903453 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902967 .pcalibre .calibre2 .pcalibre1}[Le jury]{#_Toc368902481 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_44 .calibre30}
+
+27 avril.
+
+
+Le Salon de 1866 n\'ouvrira que le 1er mai, et ce jour-là seulement il me sera permis de juger mes justiciables.
+
+Mais, avant de juger les artistes admis, il me semble bon de juger les juges. Vous savez qu\'en France nous sommes pleins de prudence ; nous ne hasardons point un pas sans un passeport dûment signé et contresigné, et, lorsque nous permettons à un homme de faire la culbute en public, il faut auparavant qu\'il ait été examiné tout au long par des hommes autorisés.
+
+Donc, comme les libres manifestations de l\'art pourraient occasionner des malheurs imprévus et irréparables, on place à la porte du sanctuaire un corps de garde, une sorte d\'octroi de l\'idéal, chargé de sonder les paquets et d\'expulser toute marchandise frauduleuse qui tenterait de s\'introduire dans le temple.
+
+Qu\'on me permette une comparaison, un peu hasardée peut-être. Imaginez que le Salon est un immense ragoût artistique, qui nous est servi tous les ans. Chaque peintre, chaque sculpteur envoie son morceau. Or, comme nous avons l\'estomac délicat, on a cru prudent de nommer toute une troupe de cuisiniers pour accommoder ces victuailles de goûts et d\'aspects si divers. On a craint les indigestions, et on a dit aux gardiens de la santé publique :
+
+« Voici les éléments d\'un mets excellent ; ménagez le poivre, car le poivre échauffe ; mettez de l\'eau dans le vin, car la France est une grande nation qui ne peut perdre la tête. »
+
+Il me semble, dès lors, que les cuisiniers jouent le grand rôle. Puisqu\'on nous assaisonne notre admiration et qu\'on nous mâche nos opinions, nous avons le droit de nous occuper avant tout de ces hommes complaisants qui veulent bien veiller à ce que nous ne nous gorgions pas comme des gloutons d\'une nourriture de mauvaise qualité. Quand vous mangez un beefsteak, est-ce que vous vous inquiétez du bœuf ? Vous ne songez qu\'à remercier ou à maudire le marmiton qui vous le sert trop ou pas assez saignant.
+
+Il est donc bien entendu que le Salon n\'est pas l\'expression entière et complète de l\'art français en l\'an de grâce 1866, mais qu\'il est à coup sûr une sorte de ragoût préparé et fricassé par vingt-huit cuisiniers nommés tout exprès pour cette besogne délicate.
+
+Un salon, de nos jours, n\'est pas l\'œuvre des artistes, il est l\'œuvre d\'un jury. Donc, je m\'occupe avant tout du jury, l\'auteur de ces longues salles froides et blafardes dans lesquelles s\'étalent, sous la lumière crue, toutes les médiocrités timides et toutes les réputations volées.
+
+Naguère, c\'était l\'Académie des beaux-arts qui passait le tablier blanc et qui mettait la main à la pâte. À cette époque, le Salon était un mets gras et solide, toujours le même. On savait à l\'avance quel courage il fallait apporter pour avaler ces morceaux classiques, ces boulettes épaisses, mollement arrondies, et qui vous étouffaient lentement et sûrement.
+
+La vieille Académie, cuisinière de fondation, avait ses recettes à elle, dont elle ne s\'écartait jamais ; elle s\'arrangeait de façon, quels que fussent les tempéraments et les époques, à servir le même plat au public. Le bon public, qui étouffait, finit par se plaindre ; il demanda grâce, il voulut qu\'on lui servît des mets plus relevés, plus légers, plus appétissants au goût et à la vue.
+
+Vous vous rappelez les lamentations de cette vieille cuisinière d\'Académie. On lui enlevait la casserole dans laquelle elle avait fait sauter deux ou trois générations d\'artistes. On la laissa geindre et on confia la queue de la poêle à d\'autres gâte-sauces.
+
+C\'est ici qu\'éclate le sens pratique que nous avons de la liberté et de la justice. Les artistes se plaignant de la coterie académique, il fut décidé qu\'ils choisiraient leur jury eux-mêmes. Dès lors, ils n\'auraient plus à se fâcher, s\'ils se donnaient des juges sévères et personnels. Telle fut la décision prise.
+
+Mais vous vous imaginez peut-être que tous les peintres et tous les sculpteurs, tous les graveurs et tous les architectes, furent appelés à voter. On voit bien que vous aimez votre pays d\'un amour aveugle. Hélas ! la vérité est triste, mais je dois confesser que ceux-là seuls nomment le jury, qui justement n\'ont pas besoin du jury. Vous et moi, qui avons dans notre poche une ou deux médailles, il nous est permis d\'élire un tel ou un tel, dont nous nous soucions peu d\'ailleurs, car il n\'a pas le droit de regarder nos toiles, reçues à l\'avance. Mais ce pauvre hère, jeté à la porte du Salon pendant cinq ou six années consécutives, n\'a pas même la permission de choisir ses juges, et est obligé de subir ceux que nous lui imposons par indifférence ou par camaraderie.
+
+Je désire insister sur ce point. Le jury n\'est pas nommé par le suffrage universel, mais par un vote restreint auquel peuvent seulement prendre part les artistes exemptés de tout jugement à la suite de certaines récompenses. Quelles sont donc les garanties pour ceux qui n\'ont pas de médailles à montrer ? Comment ! on crée un jury ayant charge d\'examiner et d\'accepter les œuvres des jeunes artistes, et on fait nommer ce jury par ceux qui n\'en ont plus besoin ! Ceux qu\'il faut appeler au vote, ce sont les inconnus, les travailleurs cachés, pour qu\'ils puissent tenter de constituer un tribunal qui les comprendra et qui les admettra enfin aux regards de la foule.
+
+C\'est toujours une misérable histoire, je vous assure, que l\'histoire d\'un vote. L\'art n\'a rien à faire ici ; nous sommes en pleine misère et en pleine sottise humaines. Vous devinez déjà ce qui arrive et ce qui arrivera chaque année. Tantôt ce sera la coterie de ce monsieur, et tantôt la coterie de cet autre monsieur, qui réussiront. Nous n\'avons plus un corps stable, comme l\'Académie ; nous avons un grand nombre d\'artistes qui peuvent être réunis de mille façons, de manière à former des tribunaux féroces, ayant les opinions les plus contraires et les plus implacables.
+
+Une année, le Salon sera tout en vert ; une autre année, tout en bleu ; et dans trois ans, nous le verrons peut-être tout en rose. Le public qui n\'est pas à l\'office, qui n\'assiste pas à la cuisson, acceptera ces divers Salons, comme les expressions exactes des moments artistiques. Il ne saura pas que c\'est uniquement tel peintre qui a fait l\'Exposition entière ; il ira là de bonne foi et avalera la bouchée, croyant s\'ingurgiter tout l\'art de l\'année.
+
+Il faut rétablir énergiquement les choses dans leur réalité. Il faut dire à ces juges, qui vont au palais de l\'Industrie défendre parfois une idée mesquine et personnelle, que les Expositions ont été créées pour donner largement de la publicité aux travailleurs sérieux. Tous les contribuables paient, et les questions d\'écoles et de systèmes ne doivent pas ouvrir la porte pour les uns et la fermer pour les autres.
+
+Je ne sais comment ces juges comprennent leur mission. Ils se moquent de la vérité et de la justice, vraiment. Pour moi, un Salon n\'est jamais que la constatation du mouvement artistique ; la France entière, ceux qui voient blanc et ceux qui voient noir, envoient leurs toiles pour dire au public : « Nous en sommes là, l\'esprit marche et nous marchons ; voici les vérités que nous croyons avoir acquises depuis un an. » Or, il est des hommes qu\'on place entre les artistes et le public. De leur autorité toute-puissante, ils ne montrent que le tiers, que le quart de la vérité ; ils amputent l\'art et n\'en présentent à la foule que le cadavre mutilé.
+
+Qu\'ils le sachent, ils ne sont là que pour rejeter la médiocrité et la nullité. Il leur est défendu de toucher aux choses vivantes et individuelles. Qu\'ils refusent, s\'ils le veulent, --- ils en ont d\'ailleurs la mission, --- les académies des pensionnaires, les élèves abâtardis de maîtres bâtards, mais, par grâce, qu\'ils acceptent avec respect les artistes libres, ceux qui vivent en dehors, qui cherchent ailleurs et plus loin les réalités âpres et fortes de la nature.
+
+Voulez-vous savoir comment on a procédé à l\'élection du jury de cette année ? Un cercle de peintres, m\'a-t-on dit, a rédigé une liste qu\'on a fait imprimer et circuler dans les ateliers des artistes votants. La liste a passé tout entière.
+
+Je vous le demande, où est l\'intérêt de l\'art parmi ces intérêts personnels ? Quelles garanties a-t-on données aux jeunes travailleurs ? On semble avoir tout fait pour eux, on déclare qu\'ils se montrent bien difficiles, s\'ils ne sont pas contents. C\'est une plaisanterie, n\'est-ce pas ? Mais la question est sérieuse, et il serait temps de prendre un parti.
+
+Je préfère qu\'on reprenne cette bonne vieille cuisinière d\'Académie. Avec elle, on n\'est pas sujet aux surprises ; elle est constante dans ses haines et dans ses amitiés. Maintenant, avec ces juges élus par la camaraderie, on ne sait plus à quel saint se vouer. Si j\'étais peintre nécessiteux, mon grand souci serait de deviner qui je pourrais bien avoir pour juge, afin de peindre selon ses goûts.
+
+On vient de refuser, entre autres, MM. Manet et Brigot, dont les toiles avaient été reçues les années précédentes. Évidemment, ces artistes ne peuvent avoir beaucoup démérité, et je sais même que leurs derniers tableaux sont meilleurs. Comment alors expliquer ce refus ?
+
+Il me semble, en bonne logique, que si un peintre a été jugé digne aujourd\'hui de montrer ses œuvres au public, on ne peut pas couvrir ses toiles demain.
+
+C\'est pourtant cette bévue que vient de commettre le jury. Pourquoi ? Je vous l\'expliquerai.
+
+Vous imaginez-vous cette guerre civile entre artistes, se proscrivant les uns les autres ; les puissants d\'aujourd\'hui mettraient à la porte les puissants d\'hier ; ce serait un tohu-bohu effroyable d\'ambitions et de haines, une sorte de petite Rome au temps de Sylla et de Marins. Et nous, bon public, qui avons droit aux œuvres de tous les artistes, nous n\'aurions jamais que les œuvres de la faction triomphante. vérité, ô justice !
+
+Jamais l\'Académie ne s\'est déjugée de la sorte. Elle tenait les gens pendant des années à la porte, mais elle ne les chassait pas de nouveau après les avoir fait entrer.
+
+Dieu me préserve de rappeler trop fort l\'Académie. Le mal est préférable au pire, voilà tout.
+
+Je ne veux pas même choisir des juges et désigner certains artistes comme devant être des jurés impartiaux. MM. Manet et Brigot refuseraient sans doute MM. Breton et Brion, de même que ceux-ci ont refusé ceux-là. L\'homme a ses sympathies et ses antipathies, qu\'il ne peut vaincre. Or, il s\'agit ici de vérité et de justice.
+
+Qu\'on crée donc un jury, il n\'importe lequel. Plus il commettra d\'erreurs et plus il manquera sa sauce, plus je rirai. Croyez-vous que ces hommes ne me donnent pas un spectacle réjouissant ? Ils défendent leur petite chapelle avec mille finesses de sacristains qui m\'amusent énormément. Mais qu\'on rétablisse alors ce qu\'on a appelé le Salon des Refusés. Je supplie tous mes confrères de se joindre à moi, je voudrais grossir ma voix, avoir toute puissance pour obtenir la réouverture de ces salles où le public allait juger, à son tour, et les juges et les condamnés. Là, pour le moment, est le seul moyen de contenter tout le monde. Les artistes refusés n\'ont pas encore retiré leurs œuvres ; qu\'on se hâte de planter des clous et d\'accrocher leurs tableaux quelque part.

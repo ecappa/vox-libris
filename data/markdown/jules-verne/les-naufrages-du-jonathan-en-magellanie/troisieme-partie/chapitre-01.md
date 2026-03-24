@@ -1,0 +1,184 @@
+### [[Chapitre 1 -- Premières mesures]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942864 .pcalibre2 .pcalibre1} {#chapitre-1-premières-mesures .calibre171 .sigil_not_in_toc}
+
+Le Kaw-djer, à la tête des quinze volontaires, traversa la plaine au pas de course. Il lui suffît de quelques minutes pour atteindre Libéria.
+
+On se battait encore sur le terre-plein, mais avec moins d\'ardeur, et uniquement par suite de la vitesse acquise, car, déjà, on ne savait plus très bien pourquoi.
+
+L\'arrivée de la petite troupe armée frappa de stupeur les belligérants. C\'était une éventualité qu\'ils n\'avaient pas prévue. À aucun moment, les émeutiers n\'avaient admis qu\'ils pussent avoir à lutter contre une force supérieure, de taille à mettre le holà à leurs fantaisies meurtrières. Les combats singuliers en furent subitement arrêtés. Ceux qui recevaient les coups prirent du champ, ceux qui les donnaient s\'immobilisèrent aux endroits où ils se trouvaient, les uns tout ahuris de leur inexplicable aventure, les autres l\'air un peu égaré, la respiration haletante, en hommes qui, dans un moment d\'aberration, auraient accompli quelque travail pénible dont ils ne comprendraient plus la raison. Sans transition, la surexcitation faisait place à la détente.
+
+Le Kaw-djer s\'occupa en premier lieu de combattre l\'incendie que les flammes, rabattues par une légère brise du Sud, risquaient de communiquer au campement tout entier. L\'ancien « palais » de Beauval était alors plus qu\'aux trois quarts consumé. Quelques coups de crosse suffirent à jeter bas cette construction légère, dont il ne subsista bientôt plus qu\'un tas de débris calcinés d\'où s\'élevait une fumée âcre.
+
+Cela fait, laissant cinq de ses hommes de garde près de la foule assagie, il partit avec les dix autres à travers la plaine, afin de rallier le surplus des émigrants. Il y réussit sans peine. De tous côtés on revenait vers Libéria, les assaillants, dont la fatigue avait apaisé la fureur insensée, formant l\'avant-garde, et derrière eux, les badauds étrillés, qui, encore mal remis de leur terreur, se rapprochaient craintivement en conservant un prudent intervalle. Quand ceux-ci aperçurent le Kaw-djer, ils reprirent confiance et pressèrent le pas, si bien que les uns et les autres arrivèrent confondus à Libéria.
+
+En moins d\'une heure, toute la population fut rassemblée sur le terre-plein. À voir ses rangs serrés, sa masse homogène, il eût été impossible de soupçonner que des partis adverses l\'eussent jamais divisée. Sans les nombreuses victimes qui jonchaient le sol, il ne serait resté aucune trace des troubles qui venaient de finir.
+
+La foule ne montrait pas d\'impatience. De la curiosité simplement. Tout étonnée de l\'incompréhensible rafale qui l\'avait secouée et meurtrie, elle regardait placidement le groupe compact des quinze hommes armés qui lui faisait face, et attendait ce qui allait s\'ensuivre.
+
+Le Kaw-djer s\'avança au milieu du terre-plein, et, s\'adressant aux colons dont les regards convergeaient vers lui, il dit d\'une voix forte :
+
+« Désormais, c\'est moi qui serai votre chef. »
+
+Quel chemin il lui avait fallu parcourir pour en arriver à prononcer ces quelques mots ! Ainsi donc, non seulement il acceptait enfin le principe d\'autorité, non seulement il consentait, en dépit de ses répugnances, à en être le dépositaire, mais encore, allant d\'un extrême à l\'autre, il dépassait les plus absolus autocrates. Il ne se contentait pas de renoncer à son idéal de liberté, il le foulait aux pieds. Il ne demandait même pas l\'assentiment de ceux dont il se décrétait le chef. Ce n\'était pas une révolution. C\'était un coup d\'État.
+
+Un coup d\'État d\'une étonnante facilité. Quelques secondes de silence avaient suivi la brève déclaration du Kaw-djer, puis un grand cri s\'éleva de la foule. Applaudissements, vivats, hourras partirent à la fois en ouragan. On se serrait les mains, on se congratulait, les mères embrassaient leurs enfants. Ce fut un enthousiasme frénétique.
+
+Ces pauvres gens passaient du découragement à l\'espoir. Du moment que le Kaw-djer prenait leurs affaires en mains, ils étaient sauvés. Il saurait bien les tirer de leur misère. Comment ?...
+
+Par quel moyen ?... Personne n\'en avait aucune idée, mais là n\'était pas la question. Puisqu\'il se chargeait de tout, il n\'y avait pas à chercher plus loin.
+
+Quelques-uns, cependant, étaient sombres. Toutefois, si les partisans, dispersés, noyés dans la foule, de Beauval et de Lewis Dorick ne poussaient pas de vivats, ils ne se risquaient pas à manifester autrement que par leur silence. Qu\'eussent-ils pu faire de plus ? Leur minorité infime devait compter avec la majorité, depuis que celle-ci avait un chef. Ce grand corps possédait une tête désormais, et le cerveau rendait redoutable ces innombrables bras jusqu\'ici dédaignés.
+
+Le Kaw-djer étendit la main. Le silence s\'établit comme par enchantement. » Hosteliens, dit-il, le nécessaire sera fait pour améliorer la situation, mais j\'exige l\'obéissance de tous et je compte que personne ne m\'obligera à employer la force. Que chacun de vous rentre chez soi et attende les instructions qui ne tarderont pas à être données. »
+
+L\'énergique laconisme de ce discours eut les plus heureux effets. On comprit qu\'on allait être dirigé, et qu\'il suffirait dorénavant de se laisser conduire. Rien ne pouvait mieux réconforter des malheureux qui venaient de faire de la liberté une si déplorable expérience et qui l\'eussent volontiers aliénée contre la certitude d\'un morceau de pain. La liberté est un bien immense, mais qu\'on ne peut goûter qu\'à la condition de vivre. Et vivre, à cela se réduisaient pour l\'instant les aspirations de ce peuple en détresse.
+
+On obéit avec célérité, sans faire entendre le plus léger murmure. La place se vida, et tous, jusqu\'à Lewis Dorick, se conformant aux ordres reçus, s\'enfermèrent dans les maisons ou sous les tentes.
+
+Le Kaw-djer suivit des yeux la foule qui s\'écoulait, et ses lèvres eurent un imperceptible pli d\'amertume. S\'il lui était resté des illusions, elles se fussent envolées. L\'homme, décidément, ne haïssait pas la contrainte autant qu\'il se l\'était imaginé. Tant de veulerie -- de lâcheté presque ! -- ne s\'accordait pas avec l\'exercice d\'une liberté sans limite.
+
+Une centaine de colons n\'avaient pas suivi les autres. Le Kaw-djer se tourna en fronçant les sourcils vers ce groupe indocile. Aussitôt, un de ceux qui le composaient s\'avança en avant de ses compagnons et prit la parole en leur nom. S\'ils n\'allaient pas, eux aussi, s\'enfermer dans leurs demeures, c\'est qu\'ils n\'en avaient pas. Chassés de leurs fermes envahies par une horde de pillards, ils venaient d\'arriver à la côte, ceux-là depuis quelques jours, ceux-ci de la veille, et ils ne possédaient plus d\'autre abri que le ciel.
+
+Le Kaw-djer, les ayant assurés qu\'il serait promptement statué sur leur sort, les invita à dresser les tentes qui existaient encore en réserve, puis, tandis qu\'ils se mettaient en devoir d\'obéir, il s\'occupa sans plus tarder des victimes de l\'émeute.
+
+Il y en avait sur le terre-plein même et dans la campagne environnante. On partit à la recherche de ces dernières, et bientôt toutes furent ramenées au campement. Vérification faite, les troubles coûtaient la vie à douze colons, en y comprenant les trois pillards qui avaient trouvé la mort dans l\'assaut de la ferme des Rivière. En général, il n\'y avait pas lieu de beaucoup regretter les défunts. Un d\'entre eux seulement, un des émigrants revenus de l\'intérieur au cours de l\'hiver, devait être compté dans la portion saine du peuple hostelien. Quant aux autres, ils appartenaient aux clans de Beauval et de Dorick, et le parti du travail et de l\'ordre ne pouvait qu\'être fortifié par leur disparition.
+
+Les dommages les plus sérieux avaient été soufferts, en effet, par les émeutiers eux-mêmes, acharnés dans l\'attaque comme dans la défense. Parmi les curieux inoffensifs qu\'ils avaient assaillis avec tant de sauvagerie après l\'incendie du « palais », tout se réduisait, hormis le colon assassiné, à des blessures : contusions, fractures, voire quelques coups de couteau, qui fort heureusement ne mettaient en danger la vie de personne.
+
+C\'était de la besogne pour le Kaw-djer. Il n\'en fut pas effrayé. Ce n\'est pas en aveugle qu\'il avait pris en charge l\'existence d\'un millier d\'êtres humains, et, quelle que fût la grandeur de la tâche, elle ne serait pas au-dessus de son courage.
+
+Les blessés examinés, pansés quand il y avait lieu, et enfin dirigés sur leurs demeures habituelles, le terre-plein fut complètement vide. Y laissant cinq hommes en surveillance, le Kaw-djer reprit, avec les dix autres, le chemin du Bourg-Neuf. Là-bas, un autre devoir l\'appelait ; là-bas, il y avait Halg, mourant, mort peut-être...
+
+Halg était dans le même état, et les soins intelligents ne lui manquaient pas. Graziella et sa mère étaient accourues rejoindre Karroly au chevet du blessé, et l\'on pouvait compter sur le dévouement de telles gardes-malades. Élevée à une rude école, la jeune fille y avait appris à commander à sa douleur. Elle montra au Kaw-djer un visage tranquille et répondit avec calme à ses questions. Halg, ainsi qu\'elle le lui dit, n\'avait que peu de fièvre, mais il ne sortait de sa continuelle somnolence que pour pousser de temps à autre quelques faibles gémissements. Une mousse sanguinolente coulait toujours entre ses lèvres pâlies. Toutefois, elle était moins abondante et sa coloration moins prononcée. Il y avait là un symptôme favorable.
+
+Pendant ce temps, les dix hommes qui avaient accompagné le Kaw-djer s\'étaient chargés de vivres prélevés sur la réserve du Bourg-Neuf. Sans s\'accorder un instant de repos, on repartit pour Libéria, où on alla de porte en porte donner à chacun sa ration. La répartition terminée, le Kaw-djer distribua la garde pour la nuit, puis, s\'enroulant dans une couverture, il s\'étendit sur le sol et chercha le sommeil.
+
+Il ne put le trouver. En dépit de sa lassitude physique, son cerveau s\'obstinait à élaborer la pensée.
+
+À quelques pas, les deux hommes de veille gardaient une immobilité de statue. Rien ne troublait le silence. Les yeux ouverts dans l\'ombre, le Kaw-djer rêva.
+
+Que faisait-il là ?... Pourquoi avait-il permis que sa conscience fût violentée par les faits et qu\'une telle souffrance lui fût imposée ?... S\'il vivait auparavant dans l\'erreur, du moins y vivait-il heureux... Heureux ! Qui l\'empêchait de l\'être encore ? Il lui suffirait de vouloir. Que fallait-il pour cela ? Moins que rien. Se lever, fuir, demander l\'oubli de cette cruelle aventure à l\'ivresse des courses vagabondes qui, si longtemps, lui avaient donné le bonheur...
+
+Hélas ! Maintenant, lui rendraient-elles ses illusions détruites ? Et quelle serait sa vie, avec le remords de tant de vies immolées à la gloire d\'un faux dieu ?... Non, cette foule qu\'il avait prise en charge, il en était comptable vis-à-vis de lui-même. Il ne serait quitte envers elle que lorsque, d\'étape en étape, il l\'aurait conduite jusqu\'au port.
+
+Soit ! Mais quelle route choisir ?... N\'était-il pas trop tard ?... Avait-il le pouvoir, un homme quel qu\'il fût avait-il le pouvoir de faire remonter la pente à ce peuple, que ses tares, ses vices, son infériorité intellectuelle et morale semblaient vouer d\'avance à un inévitable anéantissement ?
+
+Froidement, le Kaw-djer évalua le poids du fardeau qu\'il entreprenait de porter. Il fit le tour de son devoir et chercha les meilleurs moyens de l\'accomplir. Empêcher ces pauvres gens de mourir de faim ?... Oui, cela d\'abord. Mais c\'était peu de chose en regard de l\'ensemble de l\'oeuvre. Vivre, ce n\'est pas seulement satisfaire aux besoins matériels des organes, c\'est aussi, plus encore peut-être, être conscient de la dignité humaine ; c\'est ne compter que sur soi et se donner aux autres ; c\'est être fort ; c\'est être bon. Après avoir sauvé de la mort ces vivants, il resterait à faire, de ces vivants, des hommes.
+
+Étaient-ils capables, ces dégénérés, de s\'élever à un tel idéal ? Tous, non assurément, mais quelques-uns peut-être, si on leur montrait l\'étoile qu\'ils n\'avaient pas su voir dans le ciel, si on les conduisait au but en les tenant par la main.
+
+Ainsi, dans la nuit, songeait le Kaw-djer. Ainsi, l\'une après l\'autre, ses dernières résistances furent renversées, ses dernières révoltes vaincues, et peu à peu s\'élabora dans son esprit le plan directeur auquel il allait désormais conformer tous ses actes.
+
+L\'aube le trouva debout et revenant déjà du Bourg-Neuf, où il avait eu la joie de constater que l\'état de Halg avait une légère tendance à s\'améliorer. Aussitôt de retour à Libéria, il entra dans son rôle de chef.
+
+Son premier acte fut de nature à étonner ceux-là mêmes qui le touchaient de plus près. Il commença par battre le rappel des vingt ou vingt-cinq ouvriers maçons et des menuisiers faisant partie du personnel de la colonie, puis, leur ayant adjoint une vingtaine de colons choisis parmi ceux auxquels était familier le maniement de la pelle et de la pioche, il distribua à chacun sa besogne. En un point qu\'il indiqua, des tranchées devaient être ouvertes, en vue de recevoir les murailles de l\'une des maisons démontables qui serait édifiée à cet endroit. La maison une fois en place, les maçons en consolideraient les parois au moyen de contre-murs et la diviseraient par des cloisons selon un plan qui fut séance tenante tracé sur le sol. Ces instructions données, tandis qu\'on se mettait à l\'oeuvre sous la direction du charpentier Hobart promu aux fonctions de contremaître, le Kaw-djer s\'éloigna avec dix hommes d\'escorte.
+
+À quelques pas s\'élevait la plus vaste des maisons démontables. Là demeuraient cinq personnes. En compagnie des frères Moore, de Sirdey et de Kennedy, Lewis Dorick y avait élu domicile. C\'est là que le Kaw-djer se rendit en droite ligne.
+
+Au moment où il entra, les cinq hommes étaient engagés dans une discussion véhémente. En l\'apercevant, ils se levèrent brusquement.
+
+« Que venez-vous faire ici ? » demanda Lewis Dorick d\'un ton rude.
+
+Du seuil, le Kaw-djer répondit froidement :
+
+« La colonie hostelienne a besoin de cette maison.
+
+--- Besoin de cette maison !... répéta Lewis Dorick qui n\'en pouvait croire, comme on dit, ses oreilles. Pourquoi faire ?
+
+--- Pour y loger ses services. Je vous invite à la quitter sur-le-champ.
+
+--- Comment donc !... approuva ironiquement Dorick. Où irons-nous ?
+
+--- Où il vous plaira. Il ne vous est pas interdit de vous en bâtir une autre.
+
+--- Vraiment !... Et en attendant ?
+
+--- Des tentes seront mises à votre disposition.
+
+--- Et moi, je mets la porte à la vôtre », s\'écria Dorick rouge de colère.
+
+Le Kaw-djer s\'effaça, démasquant son escorte armée qui était restée au dehors.
+
+« Dans ce cas, dit-il posément, je serai dans la nécessité d\'employer la force. »
+
+Lewis Dorick comprit d\'un coup d\'oeil que toute résistance était impossible. Il battit en retraite.
+
+« C\'est bon, grommela-t-il. On s\'en va... Le temps seulement de réunir ce qui nous appartient, car on nous permettra bien, je suppose, d\'emporter...
+
+--- Rien, interrompit le Kaw-djer. Ce qui vous est personnel vous sera remis par mes soins. Le reste est la propriété de la colonie. »
+
+C\'en était trop. Dans sa rage, Dorick en oublia la prudence.
+
+« C\'est ce que nous verrons ! » s\'écria-t-il en portant la main à sa ceinture.
+
+Le couteau n\'était pas hors de sa gaine qu\'il lui était arraché. Les frères Moore s\'élancèrent à la rescousse. Saisi à la gorge par le Kaw-djer, le plus grand fut renversé sur le sol. Au même instant, les gardes du nouveau chef faisaient irruption dans la pièce. Ils n\'eurent pas à intervenir. Les cinq émigrants, tenus en respect, renonçaient à la lutte. Ils sortirent sans opposer une plus longue résistance.
+
+Le bruit de l\'altercation avait attiré un certain nombre de curieux. On se pressait devant la porte. Les vaincus durent se frayer un passage dans ce populaire, dont ils étaient jadis si redoutés. Le vent avait tourné. On les accabla de huées.
+
+Le Kaw-djer, aidé de ses compagnons, procéda rapidement à une visite minutieuse de la maison dont il venait de prendre possession. Ainsi qu\'il l\'avait promis, tout ce qui pouvait être considéré comme la propriété personnelle des précédents occupants fut mis de côté pour être ultérieurement rendu aux ayants-droit. Mais, en dehors de cette catégorie d\'objets, il fit d\'intéressantes trouvailles. L\'une des pièces, la plus reculée, avait été transformée en véritable garde-manger. Là s\'amoncelait une importante réserve de vivres. Conserves, légumes secs, corned-beef, thé et café, les provisions étaient aussi abondantes qu\'intelligemment choisies. Par quel moyen Lewis Dorick et ses acolytes se les étaient-ils procurées ? Quel que fût ce moyen, ils n\'avaient jamais eu à souffrir de la disette générale, ce qui ne les avait pas empêchés, d\'ailleurs, de crier plus fort que les autres et d\'être les fauteurs des troubles dans lesquels avait sombré le pouvoir de Beauval.
+
+Le Kaw-djer fit transporter ces vivres sur le terre-plein, où ils furent déposés sous la protection des fusils, puis des ouvriers réquisitionnés à cet effet, et auxquels le serrurier Lawson fut adjoint à titre de contremaître, commencèrent le démontage de la maison.
+
+Pendant que ce travail se poursuivait, le Kaw-djer, accompagné de quelques hommes d\'escorte, entreprit, par tout le campement, une série de visites domiciliaires qui fut continuée sans interruption jusqu\'à son complet achèvement. Maisons et tentes furent fouillées de fond en comble. Le produit de ces investigations, qui occupèrent la majeure partie de la journée, fut d\'une richesse inespérée. Chez tous les émigrants se rattachant plus ou moins étroitement à Lewis Dorick ou à Ferdinand Beauval, et aussi chez quelques autres qui avaient réussi à se constituer une réserve en se privant aux jours d\'abondance relative, on découvrit des cachettes analogues à celle qu\'on avait déjà trouvée.
+
+Pour échapper aux soupçons sans doute, leurs possesseurs ne s\'étaient pas montrés les derniers à se plaindre, lorsque la famine était venue. Le Kaw-djer en reconnut plus d\'un, parmi eux, qui avaient imploré son aide et qui avaient accepté sans scrupule sa part des vivres prélevés sur ceux du Bourg-Neuf. Se voyant dépistés, ils étaient fort embarrassés maintenant, bien que le Kaw-djer ne manifestât par aucun signe les sentiments que leur ruse pouvait lui faire éprouver.
+
+Elle était cependant de nature à lui ouvrir de profondes perspectives sur les lois inflexibles qui gouvernent le monde. En fermant l\'oreille aux cris de détresse que la faim arrachait à leurs compagnons de misère, en y mêlant hypocritement les leurs afin d\'éviter le partage de ce qu\'ils réservaient pour eux-mêmes, ces hommes avaient démontré une fois de plus l\'instinct de féroce égoïsme qui tend uniquement à la conservation de l\'individu. En vérité, leur conduite eût été la même s\'ils eussent été, non des créatures raisonnables et sensibles, mais de simples agrégats de substance matérielle contraints d\'obéir aveuglément aux fatalités physiologiques de la cellule initiale dont ils étaient sortis.
+
+Mais le Kaw-djer n\'avait plus besoin, pour être convaincu, de cette démonstration supplémentaire et qui ne serait malheureusement pas la dernière. Si son rêve en s\'écroulant n\'avait laissé qu\'un vide affreux dans son coeur, il ne songeait pas à le réédifier. L\'éloquente brutalité des choses lui avait prouvé son erreur. Il comprenait qu\'en imaginant des systèmes il avait fait oeuvre de philosophe, non de savant, et qu\'il avait ainsi péché contre l\'esprit scientifique qui, s\'interdisant les spéculations hasardeuses, s\'attache à l\'expérience et à l\'examen purement objectif des faits. Or, les vertus et les vices de l\'humanité, ses grandeurs et ses faiblesses, sa diversité prodigieuse, sont des faits qu\'il faut savoir reconnaître et avec lesquels il faut compter.
+
+Et, d\'ailleurs, quelle faute de raisonnement n\'avait-il pas commise en condamnant en bloc tous les chefs, sous prétexte qu\'ils ne sont pas impeccables et que la perfection originelle des hommes les rend inutiles ! Ces puissants, envers lesquels il s\'était montré si sévère, ne sont-ils pas des hommes comme les autres ? Pourquoi auraient-ils le privilège d\'être imparfaits ? De leur imperfection, n\'aurait-il pas dû, au contraire, logiquement conclure à celle de tous, et n\'aurait-il pas dû reconnaître, par suite, la nécessité des lois et de ceux qui ont mission de les appliquer ?
+
+Sa formule fameuse s\'effritait, tombait en poussière. « Ni Dieu, ni maître », avait-il proclamé, et il avait dû confesser la nécessité d\'un maître. De la deuxième partie de la proposition il ne subsistait rien, et sa destruction ébranlait la solidité de la première. Certes, il n\'en était pas à remplacer sa négation par une affirmation. Mais, du moins, il connaissait la noble hésitation du savant qui, devant les problèmes dont la solution est actuellement impossible, s\'arrête au seuil de l\'inconnaissable et juge contraire à l\'essence même de la science de décréter sans preuves qu\'il n\'y a dans l\'univers rien d\'autre que de la matière et que tout est soumis à ses lois. Il comprenait qu\'en de telles questions une prudente expectative est de mise, et que, si chacun est libre de jeter son explication personnelle du mystère universel dans la bataille des hypothèses, toute affirmation catégorique ne peut être que présomption ou sottise.
+
+De toutes les trouvailles, la plus remarquable fut faite dans la bicoque que l\'Irlandais Patterson occupait avec Long, seul survivant de ses deux compagnons. On y était entré par acquit de conscience. Elle était si petite qu\'il semblait difficile qu\'une cachette de quelque importance pût y être ménagée. Mais Patterson avait remédié par son industrie à l\'exiguïté du local, en y creusant une manière de cave que dissimulait un plancher grossier.
+
+Prodigieuse fut la quantité de vivres qu\'on y trouva. Il y avait là de quoi nourrir la colonie entière pendant huit jours. Cet incroyable amas de provisions de toute nature prenait une signification tragique, quand on évoquait le souvenir du malheureux Blaker, mort de faim au milieu de ces richesses, et le Kaw-djer ressentit comme un sentiment d\'effroi, en songeant à ce que devait être, pour avoir laissé le drame s\'accomplir, l\'âme ténébreuse de Patterson.
+
+L\'Irlandais, d\'ailleurs, n\'avait aucunement figure de coupable. Il se montra arrogant, au contraire, et protesta avec énergie contre la spoliation dont il était victime. Le Kaw-djer, faisant en vain preuve de longanimité, eut beau lui expliquer la nécessité où chacun était de contribuer au salut commun, Patterson ne voulut rien entendre. La menace d\'employer la force n\'eut pas un meilleur succès. On ne réussit pas à l\'intimider comme Lewis Dorick. Que lui importait l\'escorte du nouveau chef ? L\'avare eût défendu son bien contre une armée. Or, elles étaient à lui, elles étaient son bien, ces provisions accumulées au prix de privations sans nombre. Ce n\'est pas dans l\'intérêt général, mais dans le sien propre, qu\'il ne se les était imposées. S\'il était inévitable qu\'il fût dépouillé, encore fallait-il lui verser en argent l\'équivalent de ce qu\'on lui prenait.
+
+Une pareille argumentation eût fait rire autrefois le Kaw-djer. Elle le faisait réfléchir aujourd\'hui. Après tout, Patterson avait raison. Si l\'on voulait rendre confiance aux Hosteliens désemparés, il convenait de remettre en honneur les règles qu\'ils avaient coutume de voir universellement respectées. Or, la première de toutes ces règles consacrées par le consentement unanime des peuples de la terre, c\'est le droit de propriété.
+
+C\'est pourquoi le Kaw-djer écouta avec patience le plaidoyer de Patterson, et c\'est pourquoi il l\'assura qu\'il ne s\'agissait nullement de spoliation, tout ce qui était réquisitionné dans l\'intérêt général devant être payé à son juste prix par la communauté. L\'avare aussitôt cessa de protester, mais ce fut pour se mettre à gémir. Toutes les marchandises étaient si rares et, partant, si chères à l\'île Hoste !... La moindre des choses y acquérait une incroyable valeur !... Avant d\'avoir la paix, le Kaw-djer dut longuement discuter l\'importance de la somme à payer. Par exemple, quand on fut d\'accord, Patterson aida lui-même au déménagement.
+
+Vers six heures du soir, toutes les provisions retrouvées étaient enfin déposées sur le terre-plein. Elles y formaient un amoncellement respectable. Les ayant évaluées d\'un coup d\'oeil, et leur ajoutant par la pensée les réserves du Bourg-Neuf, le Kaw-djer estima qu\'un rationnement sévère les ferait durer près de deux mois.
+
+On procéda immédiatement à la première distribution. Les émigrants défilèrent, et chacun d\'eux reçut pour lui-même et pour sa famille la part qui lui était attribuée. Ils ouvraient de grands yeux en découvrant une telle accumulation de richesses, alors qu\'ils se croyaient à la veille de mourir de faim. Cela tenait du miracle, un miracle dont le Kaw-djer eût été l\'auteur.
+
+La distribution terminée, celui-ci retourna au Bourg-Neuf en compagnie d\'Harry Rhodes, et tous deux se rendirent auprès de Halg. Ainsi qu\'ils eurent la joie de le constater, l\'amélioration persistait dans l\'état du blessé, que continuaient à veiller Tullia et Graziella.
+
+Tranquillisé de ce côté, le Kaw-djer reprit avec une froide obstination l\'exécution du plan qu\'il s\'était tracé pendant sa longue insomnie de la nuit précédente. Il se tourna vers Harry Rhodes et dit d\'une voix grave :
+
+« L\'heure est venue de parler, monsieur Rhodes. Suivez-moi, je vous prie. »
+
+L\'expression sévère, douloureuse même, de son visage frappa Harry Rhodes qui obéit en silence. Tous deux disparurent dans la chambre du Kaw-djer, dont la porte fut soigneusement verrouillée.
+
+La porte se rouvrit une heure plus tard, sans que rien eût transpiré de ce qui s\'était dit au cours de cette entrevue. Le Kaw-djer avait son air habituel, plus glacé encore peut-être, mais Harry Rhodes semblait transfiguré par la joie. Devant son hôte, qui l\'avait reconduit jusqu\'au seuil de la maison, il s\'inclina avec une sorte de déférence, avant de serrer chaleureusement la main que celui-ci lui tendait, puis, au moment de le quitter :
+
+« Comptez sur moi, dit-il.
+
+--- J\'y compte », répondit le Kaw-djer qui suivit des yeux son ami s\'éloignant dans la nuit.
+
+Quand Harry Rhodes eut disparu, ce fut au tour de Karroly.
+
+Il le prit à l\'écart et lui donna ses instructions que l\'Indien écouta avec son respect habituel ; puis, infatigable, il traversa une dernière fois la plaine et alla, comme la veille, chercher le sommeil sur le terre-plein de Libéria.
+
+Ce fut lui qui, dès l\'aube, donna le signal du réveil. Bientôt, tous les colons convoqués par lui étaient réunis sur la place.
+
+« Hosteliens, dit-il au milieu d\'un profond silence, il va vous être fait, pour la dernière fois, une distribution de vivres. Dorénavant les vivres seront vendus, à des prix que j\'établirai, au profit de l\'État. L\'argent ne manquant à personne, nul ne risque de mourir de faim. D\'ailleurs, la colonie a besoin de bras. Tous ceux d\'entre vous qui se présenteront seront employés et payés. À partir de ce moment, le travail est la loi. »
+
+On ne saurait contenter tout le monde, et il n\'est pas douteux que ce bref discours déplût cruellement à quelques-uns ; mais il galvanisa littéralement par contre la majorité des auditeurs. Leurs fronts se relevèrent, leurs torses se redressèrent, comme si une force nouvelle leur eût été infusée. Ils sortaient donc enfin de leur inaction ! On avait besoin d\'eux. Ils allaient servir à quelque chose. Ils n\'étaient plus inutiles. Ils acquéraient à la fois la certitude du travail et de la vie.
+
+Un immense « hourra ! » sortit de leurs poitrines, et, vers le Kaw-djer, les bras se tendirent, muscles durcis, prêts à l\'action. Au même instant, comme une réponse à la foule, un faible cri d\'appel retentit dans le lointain.
+
+Le Kaw-djer se retourna et, sur la mer, il aperçut la Wel-Kiej dont Karroly tenait la barre ; Harry Rhodes, debout à l\'avant, agitait la main en geste d\'adieu, tandis que la chaloupe, toutes voiles dehors, s\'éloignait dans le soleil.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

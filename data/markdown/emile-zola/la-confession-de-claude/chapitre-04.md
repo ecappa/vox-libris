@@ -1,0 +1,26 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LA CONFESSION DE CLAUDE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778670 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778332 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777994 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777656 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777318 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776642 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776304 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775966 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775628 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775290 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774952 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368774614 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_93 .calibre25}
+
+[Je travaille, j'espère. Je passe les journées devant ma petite table, quittant la plume pendant de longues heures pour caresser quelque blonde tête que l'encre souillerait. Puis, je reprends l'oeuvre commencée, parant mes héroïnes des rayons de mes rêves. J'oublie la neige et l'armoire vide. Je vis je ne sais où, peut-être dans un nuage, peut-être dans le duvet d'un nid abandonné. Quand j'écris une phrase leste et coquettement drapée, je crois voir des anges et des aubépines en fleur.]{.calibre11}
+
+[J'ai la sainte gaieté du travail. Ah ! Que j'étais fou d'être triste et que je me trompais en me croyant pauvre et seul ! Je ne sais plus ce qui me désolait. Hier, je crois, ma chambre était laide ; elle me sourit aujourd'hui. Je sens autour de moi des amis que je ne vois pas, mais qui sont en grand nombre et qui tous me tendent la main. Leur foule me cache les murs de mon réduit.]{.calibre11}
+
+[Va, pauvre petite table, lorsque la désespérance me touchera de son aile, je viendrai toujours m'asseoir devant toi et m'accouder sur la feuille blanche où mon rêve ne se fixe qu'après m'avoir rendu le sourire.]{.calibre11}
+
+[Hélas ! Il me faut cependant une ombre de réalité. Je me surprends parfois inquiet, souhaitant une joie dont je n'ai pas conscience. Alors, j'entends comme une vague plainte de mon coeur : il me dit qu'il a toujours froid, toujours faim, et qu'une folle rêverie ne peut le réchauffer ni le rassasier. Je veux le contenter. Je sortirai demain, non plus m'isolant en moi-même, mais regardant aux fenêtres, lui disant de choisir parmi les belles dames. Puis, de temps en temps, je le ramènerai sous le balcon préféré. Il en emportera un regard comme pâture, et, huit jours durant, ne sentira plus l'hiver. Lorsqu'il criera famine, un nouveau sourire l'apaisera.]{.calibre11}
+
+[Frères, n'avez-vous jamais rêvé qu'un soir d'automne vous rencontriez dans les blés une brune fille de seize ans ? Elle vous souriait au passage, puis se perdait au milieu des épis. La nuit, vous la revoyiez en rêve, et, le lendemain, vous preniez à la même heure le sentier de la veille. La chère vision passait, souriait encore, vous laissant un nouveau songe pour votre prochain sommeil. Les mois, les années s'écoulaient. Chaque jour, votre coeur affamé venait se rassasier d'un sourire, et jamais il ne désirait davantage. La vie entière ne suffisait pas à vous faire épuiser le regard de la jeune moissonneuse.]{.calibre11}

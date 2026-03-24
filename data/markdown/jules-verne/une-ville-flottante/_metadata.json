@@ -1,0 +1,443 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "UNE VILLE FLOTTANTE",
+  "slug": "une-ville-flottante",
+  "nombre_chapitres": 39,
+  "structure": [
+    {
+      "title": "Chapitre 1",
+      "slug": "chapitre-1",
+      "is_part": false,
+      "spine_start": 380,
+      "spine_end_exclusive": 381,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2",
+      "slug": "chapitre-2",
+      "is_part": false,
+      "spine_start": 381,
+      "spine_end_exclusive": 382,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_004.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3",
+      "slug": "chapitre-3",
+      "is_part": false,
+      "spine_start": 382,
+      "spine_end_exclusive": 383,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_005.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4",
+      "slug": "chapitre-4",
+      "is_part": false,
+      "spine_start": 383,
+      "spine_end_exclusive": 384,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_006.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5",
+      "slug": "chapitre-5",
+      "is_part": false,
+      "spine_start": 384,
+      "spine_end_exclusive": 385,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_007.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6",
+      "slug": "chapitre-6",
+      "is_part": false,
+      "spine_start": 385,
+      "spine_end_exclusive": 386,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_008.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7",
+      "slug": "chapitre-7",
+      "is_part": false,
+      "spine_start": 386,
+      "spine_end_exclusive": 387,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_009.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8",
+      "slug": "chapitre-8",
+      "is_part": false,
+      "spine_start": 387,
+      "spine_end_exclusive": 388,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_010.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9",
+      "slug": "chapitre-9",
+      "is_part": false,
+      "spine_start": 388,
+      "spine_end_exclusive": 389,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10",
+      "slug": "chapitre-10",
+      "is_part": false,
+      "spine_start": 389,
+      "spine_end_exclusive": 390,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_012.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11",
+      "slug": "chapitre-11",
+      "is_part": false,
+      "spine_start": 390,
+      "spine_end_exclusive": 391,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_013.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12",
+      "slug": "chapitre-12",
+      "is_part": false,
+      "spine_start": 391,
+      "spine_end_exclusive": 392,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_014.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13",
+      "slug": "chapitre-13",
+      "is_part": false,
+      "spine_start": 392,
+      "spine_end_exclusive": 393,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_015.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14",
+      "slug": "chapitre-14",
+      "is_part": false,
+      "spine_start": 393,
+      "spine_end_exclusive": 394,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15",
+      "slug": "chapitre-15",
+      "is_part": false,
+      "spine_start": 394,
+      "spine_end_exclusive": 395,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_017.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16",
+      "slug": "chapitre-16",
+      "is_part": false,
+      "spine_start": 395,
+      "spine_end_exclusive": 396,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_018.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17",
+      "slug": "chapitre-17",
+      "is_part": false,
+      "spine_start": 396,
+      "spine_end_exclusive": 397,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_019.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18",
+      "slug": "chapitre-18",
+      "is_part": false,
+      "spine_start": 397,
+      "spine_end_exclusive": 398,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_020.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19",
+      "slug": "chapitre-19",
+      "is_part": false,
+      "spine_start": 398,
+      "spine_end_exclusive": 399,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_021.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20",
+      "slug": "chapitre-20",
+      "is_part": false,
+      "spine_start": 399,
+      "spine_end_exclusive": 400,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_022.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21",
+      "slug": "chapitre-21",
+      "is_part": false,
+      "spine_start": 400,
+      "spine_end_exclusive": 401,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_023.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22",
+      "slug": "chapitre-22",
+      "is_part": false,
+      "spine_start": 401,
+      "spine_end_exclusive": 402,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_024.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23",
+      "slug": "chapitre-23",
+      "is_part": false,
+      "spine_start": 402,
+      "spine_end_exclusive": 403,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_025.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 24",
+      "slug": "chapitre-24",
+      "is_part": false,
+      "spine_start": 403,
+      "spine_end_exclusive": 404,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_026.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 25",
+      "slug": "chapitre-25",
+      "is_part": false,
+      "spine_start": 404,
+      "spine_end_exclusive": 405,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_027.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 26",
+      "slug": "chapitre-26",
+      "is_part": false,
+      "spine_start": 405,
+      "spine_end_exclusive": 406,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_028.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 27",
+      "slug": "chapitre-27",
+      "is_part": false,
+      "spine_start": 406,
+      "spine_end_exclusive": 407,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_029.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 28",
+      "slug": "chapitre-28",
+      "is_part": false,
+      "spine_start": 407,
+      "spine_end_exclusive": 408,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_030.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 29",
+      "slug": "chapitre-29",
+      "is_part": false,
+      "spine_start": 408,
+      "spine_end_exclusive": 409,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_031.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 30",
+      "slug": "chapitre-30",
+      "is_part": false,
+      "spine_start": 409,
+      "spine_end_exclusive": 410,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_032.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 31",
+      "slug": "chapitre-31",
+      "is_part": false,
+      "spine_start": 410,
+      "spine_end_exclusive": 411,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_033.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 32",
+      "slug": "chapitre-32",
+      "is_part": false,
+      "spine_start": 411,
+      "spine_end_exclusive": 412,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_034.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 33",
+      "slug": "chapitre-33",
+      "is_part": false,
+      "spine_start": 412,
+      "spine_end_exclusive": 413,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_035.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 34",
+      "slug": "chapitre-34",
+      "is_part": false,
+      "spine_start": 413,
+      "spine_end_exclusive": 414,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_036.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 35",
+      "slug": "chapitre-35",
+      "is_part": false,
+      "spine_start": 414,
+      "spine_end_exclusive": 415,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_037.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 36",
+      "slug": "chapitre-36",
+      "is_part": false,
+      "spine_start": 415,
+      "spine_end_exclusive": 416,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_038.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 37",
+      "slug": "chapitre-37",
+      "is_part": false,
+      "spine_start": 416,
+      "spine_end_exclusive": 417,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_039.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 38",
+      "slug": "chapitre-38",
+      "is_part": false,
+      "spine_start": 417,
+      "spine_end_exclusive": 418,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_040.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 39",
+      "slug": "chapitre-39",
+      "is_part": false,
+      "spine_start": 418,
+      "spine_end_exclusive": 419,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_041.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/une-ville-flottante/ImageVerneII1.jpg",
+    "images/jules-verne/une-ville-flottante/ImageVerneII3.jpg"
+  ]
+}

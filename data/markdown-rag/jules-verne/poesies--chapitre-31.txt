@@ -1,0 +1,36 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 31"
+slug_section: "chapitre-31"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 31 -- Sonnet d'après Kerner
+Sur deux nobles cercueils deux noms se laissent lire ;
+Dans l'un Othmar le grand, Othmar roi tout-puissant,
+Se tient le sceptre en main, comme un roi qui descend
+Le front haut et superbe, au sein du noir empire ;
+
+Dans l'autre est endormi du sommeil pâlissant
+Un homme dont la main agite encor la lyre,
+Poète, aux nobles chants, qui mollement soupire
+Le doux hymne de mort, de son plus tendre accent.
+
+Le royaume est en feu ; les cris brûlants de guerre,
+Ont soulevé les cœurs, ont ébranlé la terre,
+Et le sceptre d'Othmar n'est plus qu'un sceptre d'or ;
+
+Mais l'aimable paix règne, où règne une âme tendre ;
+Les sons mélodieux de la harpe qui dort
+Au paisible vallon se font toujours entendre.

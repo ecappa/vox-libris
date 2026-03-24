@@ -1,0 +1,334 @@
+]{.calibre20}
+
+
+LE PILOTE DU DANUBE
+
+
+]{.calibre20}
+
+## [[Chapitre 11 -- Au pouvoir d\'un ennemi]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942835 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_39 .calibre21}
+
+Après que Karl Dragoch et ses hommes eurent battu en retraite, les vainqueurs étaient d\'abord restés sur le lieu du combat, prêts à s\'opposer à un retour offensif, tandis que la charrette s\'éloignait dans la direction du Danube. Ce fut seulement quand le temps écoulé eut rendu certain le départ définitif des forces de police que, sur un ordre de son chef, la bande des malfaiteurs se mit en marche à son tour.
+
+Ils eurent bientôt atteint le fleuve, qui coulait à moins de cinq cents mètres. La charrette les y attendait, en face d\'un chaland, dont on apercevait la masse sombre à quelques mètres de la rive.
+
+La distance était médiocre et les travailleurs nombreux. En peu d\'instants, le va-et-vient de deux bachots eut transporté à bord de ce chaland le chargement de la voiture. Aussitôt, celle-ci s\'éloigna et disparut dans la nuit, tandis que la plupart des combattants de la clairière se dispersaient à travers la campagne, après avoir reçu leur part de butin. Du crime qui venait d\'être commis, il ne subsistait plus d\'autre trace qu\'un amoncellement de colis encombrant le pont de la gabarre, à bord de laquelle ne s\'étaient embarqués que huit hommes.
+
+En réalité, la fameuse bande du Danube était exclusivement composée de ces huit hommes. Quant aux autres, ils représentaient une faible partie d\'un personnel indéterminé de sous-ordres, dont telle ou telle fraction était utilisée, selon la région exploitée : Ceux-ci demeuraient toujours étrangers à l\'exécution proprement dite des coups de main, et leur rôle, limité aux fonctions de porteurs, de vedettes ou de gardes du corps, ne commençait qu\'au moment où il s\'agissait d\'évacuer vers le fleuve le butin conquis.
+
+Cette organisation était des plus habiles. Par ce moyen, la bande disposait, sur tout le parcours du Danube, d\'innombrables affiliés dont bien peu se rendaient compte du genre d\'opérations auxquelles ils apportaient leur concours. Recrutés dans la classe la plus illettrée, de véritables brutes en général, ils croyaient participer à de vulgaires actes de contrebande et ne cherchaient pas à en savoir davantage. Jamais ils n\'avaient songé à établir le moindre rapprochement entre celui qui commandait les expéditions auxquelles ils prenaient part et ce fameux Ladko qui, tout en leur cachant son nom, semblait se complaire étrangement à laisser une trace quelconque de son état civil sur chaque théâtre de ses crimes.
+
+Leur indifférence paraîtra moins surprenante, si l\'on veut bien considérer que ces crimes, commis sur tout le cours du Danube, étaient éparpillés sur une immense étendue. L\'émotion publique avait donc, entre chacun d\'eux, le temps de se calmer. C\'est surtout dans les bureaux de la police, où venaient se centraliser toutes les plaintes des régions riveraines, que le nom de Ladko avait acquis sa triste célébrité. Dans les villes, la classe bourgeoise, à cause des manchettes ronflantes des journaux, lui accordait encore un intérêt spécial. Mais pour la masse du peuple, et, a fortiori, pour les paysans, il n\'était qu\'un malfaiteur comme un autre, dont on a à souffrir une fois et qu\'on ne revoit plus ensuite.
+
+Au contraire, les huit hommes restés à bord du chaland se connaissaient tous entre eux et formaient une véritable bande. À l\'aide de leur bateau, ils montaient ou descendaient sans cesse le Danube. Que l\'occasion d\'une profitable opération se présentât, ils s\'arrêtaient, recrutaient dans les environs le personnel nécessaire, puis, le butin en sûreté dans leur cachette flottante, ils repartaient, en quête de nouveaux exploits.
+
+Quand le chaland était plein, ils gagnaient la mer Noire où un vapeur à leur dévotion venait croiser au jour fixé. Transportées à bord de ce vapeur, les richesses volées, et parfois acquises au prix d\'un meurtre, y devenaient brave et loyale cargaison, capable d\'être échangée contre de l\'or, dans des contrées lointaines, au grand soleil des honnêtes gens.
+
+C\'est exceptionnellement que la bande, la nuit précédente, avait fait parler d\'elle à si faible distance de son précédent méfait. Elle ne commettait pas, d\'ordinaire, une telle faute, qui, répétée, eût pu donner l\'éveil aux complices inconscients qu\'elle embauchait dans le pays. Mais, cette fois, son capitaine avait eu une raison particulière de ne pas s\'éloigner, et si cette raison n\'était pas celle que lui avait attribuée Karl Dragoch, en causant à Ulm avec Friedrich Ulhmann, la personnalité du policier n\'y était cependant pas étrangère.
+
+Reconnu à Vienne par le chef de bande lui-même, alors accompagné de son second, Titcha, il avait été, depuis cet instant, suivi à la piste, sans le savoir, par une série d\'affiliés locaux auxquels on n\'avait dit que l\'essentiel, et le chaland s\'était appliqué à ne précéder la barge que de quelques kilomètres. Cet espionnage, des plus malaisés dans une contrée souvent découverte et où abondaient en ce moment les gens de police, avait été forcément intermittent, et le hasard avait voulu que jamais Karl Dragoch et son hôte ne fussent aperçus en même temps. Rien n\'avait donc permis de supposer que la barge eût deux habitants, ni d\'admettre, par conséquent, la possibilité d\'une erreur.
+
+En instituant cette surveillance, le capitaine des bandits rêvait d\'un coup de maître. Supprimer le détective ? Il n\'y songeait pas. Pour le moment tout au moins, il projetait seulement de s\'en emparer, Karl Dragoch en son pouvoir, il aurait ensuite la partie belle pour traiter d\'égal à égal, si jamais un sérieux danger le menaçait.
+
+Pendant plusieurs jours, l\'occasion de cet enlèvement ne s\'était pas présentée. Ou bien la barge s\'arrêtait le soir à trop faible distance d\'un centre habité, ou bien on rencontrait dans son voisinage trop immédiat quelques-uns des agents égrenés sur la rive et dont la qualité ne pouvait échapper à un professionnel du crime.
+
+Le matin du 29 août, enfin, les circonstances avaient paru favorables. La tempête qui, la nuit précédente, avait protégé la bande pendant qu\'elle s\'attaquait à la villa du comte Hagueneau, devait avoir plus ou moins dispersé les policiers qui précédaient ou suivaient leur chef le long du fleuve. Peut-être celui-ci serait-il momentanément seul et sans défense. Il fallait en profiter.
+
+Aussitôt la voiture chargée des dépouilles de la villa, Titcha avait été dépêché avec deux des hommes les plus résolus. On a vu comment les trois aventuriers s\'étaient acquittés de leur mission, et comment le pilote Serge Ladko était devenu leur prisonnier, au lieu et place du détective Karl Dragoch.
+
+Jusqu\'ici, Titcha n\'avait pu renseigner son capitaine sur l\'heureuse issue de sa mission que par les quelques mots brefs échangés dans la clairière, au moment où l\'escouade de police était survenue sur la route. L\'entretien serait nécessairement repris à ce sujet, mais, pour l\'instant, il ne pouvait en être question. Avant tout, il s\'agissait de faire disparaître et de mettre à l\'abri les nombreux colis entassés sur le pont, et c\'est à quoi s\'employèrent sans tarder les huit hommes formant l\'équipage de la gabarre.
+
+Soit à bras, soit en les faisant glisser sur des plans inclinés, ces colis furent d\'abord introduits dans l\'intérieur du bateau, premier travail qui n\'exigea que quelques minutes, puis on procéda à l\'arrimage définitif. Pour cela le plancher de la cale fut soulevé et laissa à découvert une ouverture béante, à la place où l\'on se fût légitimement attendu a trouver l\'eau du Danube. Une lanterne, descendue dans ce deuxième compartiment, permit d\'y distinguer un amoncellement d\'objets hétéroclites qui le remplissaient déjà en partie. Il restait assez de place, cependant, pour que les dépouilles du comte Hagueneau pussent être logées à leur tour dans l\'introuvable cachette.
+
+Merveilleusement truquée, en effet, était cette gabarre qui servait à la fois de moyen de transport, d\'habitation et de magasin inviolable. Au-dessous du bateau visible, un autre plus petit s\'appliquait, le pont de celui-ci formant le fond de celui-là. Ce second bateau, d\'une profondeur de deux mètres environ, avait un déplacement tel, qu\'il fût capable de porter le premier et de le soulever d\'un pied ou deux au-dessus de la surface de l\'eau. On avait remédié à cet inconvénient, qui aurait, sans cela, dévoilé la supercherie, en chargeant le bateau inférieur d\'une quantité de lest suffisant à le noyer entièrement, de telle sorte que le chaland supérieur gardât la ligne de flottaison qu\'il devait avoir à vide.
+
+Vide, sa cale l\'était toujours, les marchandises volées, qui allaient s\'entasser dans le double fond, y remplaçaient un poids correspondant de lest, et l\'aspect de l\'extérieur n\'était en rien modifié.
+
+Par exemple cette gabarre, qui, lège, aurait dû normalement caler à peine un pied, s\'enfonçait dans l\'eau de près de sept. Cela n\'était pas sans créer de réelles difficultés dans la navigation du Danube et rendait nécessaire le concours d\'un excellent pilote. Ce pilote, la bande le possédait dans la personne de Yacoub Ogul, un israélite natif lui aussi de Roustchouk. Très pratique du fleuve, Yacoub Ogul aurait pu lutter avec Serge Ladko lui-même pour la parfaite connaissance des passes, des chenals et des bancs de sable ; d\'une main sûre, il dirigeait le chaland à travers les rapides semés de rochers que l\'on rencontre parfois sur son cours.
+
+Quant à la police, elle pouvait examiner le bateau tant que cela lui plairait.
+
+Elle pouvait en mesurer la hauteur intérieure et extérieure sans trouver la plus petite différence. Elle pouvait sonder tout autour sans rencontrer la cachette sous-marine, établie suffisamment en retrait, et de lignes assez fuyantes pour qu\'il fût impossible de l\'atteindre. Toutes ses investigations l\'amèneraient uniquement à constater que ce chaland était vide et que ce chaland vide enfonçait dans l\'eau de la quantité strictement suffisante pour équilibrer son poids.
+
+En ce qui concerne les papiers, les précautions n\'étaient pas moins bien prises. Dans tous les cas, soit qu\'elle descendît le courant, soit qu\'elle le remontât, la gabarre, ou allait chercher des marchandises, ou, marchandises débarquées, retournait à son port d\'attache. Selon le choix qui paraissait le meilleur, elle appartenait, tantôt à M. Constantinesco, tantôt à M. Wenzel Meyer, tous deux commerçants, l\'un de Galatz, l\'autre de Vienne. Les papiers, illustrés des cachets les plus officiels, étaient à ce point en règle, que jamais personne n\'avait songé à les vérifier. L\'eût-on fait, d\'ailleurs, que l\'on aurait constaté l\'existence d\'un Constantinesco ou d\'un Wenzel Meyer dans l\'une ou l\'autre des deux villes indiquées. En réalité, le propriétaire s\'appelait Ivan Striga.
+
+Le lecteur se rappellera peut-être que ce nom appartenait à un des individus les moins recommandables de Roustchouk, qui, après s\'être vainement opposé au mariage de Serge Ladko et de Natcha Gregorevitch, avait disparu ensuite de la ville. Sans qu\'on entendît parler positivement de lui, de mauvais bruits avaient alors couru sur son compte, et la rumeur publique l\'accusait de tous les crimes.
+
+Pour une fois, la rumeur publique ne se trompait pas. Avec sept autres misérables de son espèce, Ivan Striga avait, en effet, formé une bande de véritables pirates, qui, depuis lors, écumait littéralement les deux rives du Danube.
+
+Avoir trouvé ainsi le chemin de la richesse facile, c\'était quelque chose ; s\'assurer la sécurité, c\'était mieux encore. Dans ce but, au lieu de cacher son nom et son visage, ainsi que l\'aurait fait un malfaiteur vulgaire, il s\'était arrangé de manière, à ne pas être un anonyme pour ses victimes. Bien, entendu, ce n\'était pas son vrai nom qu\'il leur faisait connaître. Non, celui qu\'il avait résolu de laisser deviner avec une adroite imprudence, c\'était celui de Serge Ladko.
+
+S\'abriter, afin d\'échapper aux conséquences d\'un forfait, derrière une personnalité d\'emprunt, c\'est un stratagème assez commun, mais Striga l\'avait rénové par le choix intelligent du pseudonyme qu\'il s\'attribuait.
+
+Si le nom de Ladko n\'était, ni plus ni moins qu\'un autre, capable de créer une confusion et, par suite, hors le cas de flagrant délit, de détourner les soupçons au profit du coupable, il possédait quelques avantages qui lui étaient propres.
+
+En premier lieu, Serge Ladko n\'était pas un mythe. Il existait, si le coup de fusil qui l\'avait salué à son départ de Roustchouk ne l\'avait pas abattu pour jamais. Bien que Striga se vantât volontiers d\'avoir supprimé son ennemi, la vérité est qu\'il n\'en savait rien. Peu importait, d\'ailleurs, au point de vue de l\'enquête qui pouvait être faite à Roustchouk. Si Ladko était mort, la police ne pourrait rien comprendre aux accusations dont il serait l\'objet. S\'il était vivant, elle trouverait un homme de chair et d\'os, d\'une honorabilité si bien établie que l\'enquête, selon toute vraisemblance, en resterait là. Sans doute, on rechercherait alors ceux qui auraient la malchance d\'être ses homonymes. Mais, avant qu\'on eût passé au crible tous les Ladkos du monde, il coulerait de l\'eau sous les ponts du Danube ! Que si, d\'aventure, les soupçons, à force d\'être dirigés dans la même direction, finissaient par entamer la cuirasse d\'honorabilité de Serge Ladko, ce serait alors un résultat doublement heureux. Outre qu\'il est toujours agréable à un bandit de savoir qu\'un autre est inquiété à sa place, cette substitution lui devient plus agréable encore quand il a voué à sa victime une haine mortelle.
+
+Alors même que ces déductions eussent été déraisonnables, l\'absence de Serge Ladko, dont personne ne connaissait la patriotique mission, les eût rendues logiques. Pourquoi le pilote était-il parti sans crier gare ? La section locale de la police du fleuve commençait précisément à se poser cette question au moment où Karl Dragoch découvrait ce qu\'il croyait être la vérité, et, comme chacun sait, lorsque la police commence à se poser des questions, il y a peu de chances qu\'elle y réponde avec bienveillance.
+
+Ainsi, la situation était bien nette dans sa dramatique complication. Une longue série de crimes que des maladresses voulues faisaient toujours attribuer à un certain Ladko, de Roustchouk ; le pilote du même nom, vaguement, très vaguement encore soupçonné, à cause de son absence, d\'être le coupable, tandis qu\'à des centaines de kilomètres un Ladko, accusé par de plus sérieuses présomptions, était dépisté sous le déguisement du pêcheur Ilia Brusch ; et Striga, pendant ce temps, reprenant, après chaque expédition, son état civil authentique, pour circuler librement sur le Danube.
+
+Toutefois, pour que sa sécurité ne fût pas menacée, la condition essentielle était que l\'on fit disparaître toute trace compromettante dans le plus bref délai possible. C\'est pourquoi, ce soir-là, le butin nouvellement conquis fut, comme de coutume, rapidement déposé dans l\'introuvable cachette. C\'est le bruit de cet arrimage que le véritable Serge Ladko entendit dans son cachot pris aux dépens de cette même cale sous-marine, au fond de laquelle nulle puissance humaine n\'était capable de le secourir. Puis, le parquet remis en place, les hommes remontèrent sur le pont dont les panneaux furent refermés. La police pouvait venir désormais.
+
+Il était, à ce moment, près de trois heures du matin. L\'équipage de la gabarre, surmené par les fatigues de cette nuit et par celles de la nuit précédente, aurait eu grand besoin de repos, mais il ne pouvait en être question.
+
+Striga, désireux de s\'éloigner au plus vite du lieu de son dernier crime, donna l\'ordre de se mettre en route en profitant de l\'aube naissante, ordre qui fut exécuté sans un murmure, chacun comprenant la force des raisons qui le dictaient.
+
+Pendant qu\'on s\'occupait de ramener l\'ancre à bord et de pousser le chaland au milieu du fleuve, Striga s\'enquit des péripéties de l\'expédition de la matinée.
+
+« Ça a été tout seul, lui répondit Titcha. Le Dragoch a été pris au premier coup de filet comme un simple brochet.
+
+--- Vous a-t-il vus ?
+
+--- Je ne crois pas. Il avait autre chose à penser.
+
+--- Il ne s\'est pas débattu ?
+
+--- Il a essayé, la canaille. J\'ai dû l\'assommer à moitié pour le faire tenir tranquille.
+
+--- Tu ne l\'as pas tué, au moins ? demanda vivement Striga.
+
+--- Que non pas ! Étourdi tout au plus. J\'en ai profité pour le ligotter proprement. Mais je n\'avais pas fini le paquetage que le colis respirait comme père et mère.
+
+--- Et maintenant ?
+
+--- Il est dans la cale. Dans le double fond, naturellement.
+
+--- Sait-il où on l\'a transporté ?
+
+--- Il faudrait alors qu\'il soit rudement malin, déclara Titcha en riant bruyamment. Tu dois bien penser que je n\'ai oublié ni le bâillon, ni le bandeau. On ne les a retirés que le particulier en cage. Là, il peut, si ça lui convient, chanter des romances et admirer le paysage.
+
+Striga sourit sans répondre. Titcha reprit :
+
+--- J\'ai fait ce que tu as commandé, mais où cela nous mènera-t-il ?
+
+--- Ne serait-ce qu\'à désorganiser la brigade privée de son chef, répondit Striga.
+
+Titcha haussa les épaules.
+
+--- On en nommera un autre, dit-il.
+
+--- Possible, mais il ne vaudra peut-être pas celui que nous tenons. Dans tous les cas, nous pourrons causer. Au besoin, nous le rendrions en échange des passeports qui nous seraient nécessaires. Il est donc essentiel de le garder vivant.
+
+--- Il l\'est, affirma Titcha.
+
+--- A-t-on pensé à lui donner à manger ?
+
+--- Diable ! fit Titcha en se grattant la tête. On l\'a tout à fait oublié. Mais douze heures d\'abstinence n\'ont jamais fait de mal à personne, et je lui porterai son dîner dès que nous serons en marche\... À moins que tu ne veuilles le lui porter toi-même, pour te rendre compte par tes yeux ?
+
+--- Non, dit vivement Striga. Je préfère qu\'il ne me voie pas. Je le connais et il ne me connaît pas. C\'est un avantage que je ne veux pas perdre.
+
+--- Tu pourrais mettre un masque.
+
+--- Ça ne prendrait pas avec Dragoch. Pas besoin qu\'on lui montre son visage. La taille, la carrure, le moindre détail lui suffît pour reconnaître les gens.
+
+--- Alors, je suis frais, moi, qui suis obligé de lui porter sa pitance !
+
+--- Il faut bien que quelqu\'un le fasse\... D\'ailleurs, Dragoch n\'est pas bien dangereux actuellement, et, s\'il le redevient jamais, c\'est que nous serons à l\'abri.
+
+--- Amen ! fit Titcha.
+
+--- Pour le moment, reprit Striga, on va le laisser dans sa boîte. Pas trop longtemps, par exemple, sans quoi il finirait par mourir asphyxié. On le remontera dans une cabine du pont quand nous aurons dépassé Budapest, demain matin, après mon départ.
+
+--- Tu as donc l\'intention de t\'absenter ? demanda Titcha.
+
+--- Oui, répondit Striga. Je quitterai le chaland de temps en temps afin de recueillir des informations sur la rive. Je verrai ce qu\'on dit de notre dernière affaire et de la disparition de Dragoch.
+
+--- Et si tu te fais pincer ? Objecta Titcha.
+
+--- Pas de danger. Personne ne me connaît, et la police du fleuve doit être dans le marasme. Pour les autres, j\'aurai, s\'il le faut, une identité toute neuve.
+
+--- Laquelle ?
+
+--- Celle du célèbre Ilia Brusch, pêcheur insigne et lauréat de la Ligue Danubienne.
+
+--- Quelle idée !
+
+--- Excellente. J\'ai le bateau d\'Ilia Brusch. Je lui emprunterai sa peau, à l\'exemple de Karl Dragoch.
+
+--- Et si l\'on te demande du poisson ?
+
+--- J\'en achèterai, s\'il le faut, pour le revendre.
+
+--- Tu as réponse à tout.
+
+--- Parbleu ! »
+
+La conversation prit fin sur ce mot. Le chaland avait commencé a suivre le fil du courant. Il soufflait une légère brise du Nord qui serait très favorable quand, un peu au-dessus de Visegrad, le Danube, revenant sur lui-même, suivrait la direction du Sud. Jusque-là, au contraire, cette brise du Nord retardait singulièrement le bateau, et Striga, pressé de s\'éloigner du théâtre de ses exploits, donna l\'ordre de border deux longs avirons qui aideraient à gagner contre le vent.
+
+Il fallut trois heures pour parcourir dix kilomètres et atteindre le premier coude du fleuve, puis deux heures encore pour suivre la courbe que dessine le Danube avant d\'adopter franchement la direction du Sud. Un peu en amont de Waitzen, on put enfin abandonner les avirons, et, sous la poussée de la voile, la marche du bateau fut notablement accélérée.
+
+Vers onze heures on passa devant Saint-André où les deux charretiers Kaiserlick et Vogel avaient prétendu se rendre au cours de la nuit précédente. Il ne fut pas question de s\'y arrêter, et le chaland continua à dériver vers Budapest, encore distante de vingt-cinq à trente kilomètres.
+
+A mesure qu\'on gagnait vers l\'aval, l\'aspect des rives devenait plus sévère. Les îles ombreuses et verdoyantes se multipliaient, ne laissant parfois entre elles que d\'étroits canaux, interdits aux chalands, mais suffisants pour la navigation de plaisance.
+
+Dans cette partie du Danube, la batellerie commence à devenir assez active. Il y a même de fréquents encombrements, car le cours du fleuve est resserré entre les premières ramifications des Alpes Norriques et les dernières ondulations des Karpathes. Quelquefois se produisent des échouages ou des abordages, peu dommageables en somme, pour peu que l\'attention des pilotes soit un seul instant en défaut. En général, le malheur se réduit à une perte de temps. Mais que de cris, que de querelles, au moment de la collision !
+
+Le chaland, dont Striga était le capitaine, devait être compté parmi les mieux dirigés. De grande taille, puisque sa capacité dépassait deux cents tonnes, le pont proprement dit en était recouvert d\'une sorte de superstructure, d\'un spardeck, qui formait, à l\'arrière, le toit du rouf habité par le personnel. Un mâtereau à l\'avant servait à hisser le pavillon national, et, à la poupe, un gouvernail à large safran permettait au pilote de maintenir le bateau en bonne direction.
+
+A mesure qu\'on descendait le courant, l\'animation du fleuve allait croissant, ainsi que cela se produit aux approches des grandes cités. Des embarcations légères, à vapeur ou à voiles, chargées de promeneurs ou de touristes, se glissaient entre les îles. Bientôt, dans le lointain, la fumée de cheminées d\'usines empâta l\'horizon, annonçant les faubourgs de Budapest.
+
+A ce moment, il se produisit un fait singulier. Sur un signe de Striga, Titcha pénétra dans le rouf de l\'arrière, avec un de ses compagnons de l\'équipage. Les deux hommes en ressortirent bientôt. Ils escortaient une femme d\'une taille élancée, mais dont il était malaisé de voir les traits à demi cachés par un bâillon. Les mains liées derrière le dos, cette femme marchait entre ses deux gardiens, sans essayer d\'une résistance dont l\'expérience lui avait sans doute démontré l\'inutilité. Docilement, elle descendit dans la cale par l\'échelle du grand panneau, puis dans un compartiment du double fond dont la trappe fut refermée sur elle. Cela fait, Titcha et son compagnon reprirent leurs occupations, comme si de rien n\'était.
+
+Vers trois heures de l\'après-midi, le chaland s\'engagea entre les quais de la capitale de la Hongrie. À droite, c\'était Buda, l\'ancienne ville turque ; à gauche, Pest, la ville moderne. À cette époque, Buda était, plus qu\'elle ne l\'est restée de nos jours, une de ces vieilles et pittoresques cités que le progrès égalitaire tend à faire disparaître. Par contre, Pest, si son importance était déjà considérable, n\'avait pas encore atteint le prodigieux développement qui a fait d\'elle la plus importante et la plus belle métropole de l\'Europe orientale.
+
+Sur les deux rives, et notamment sur la rive gauche, se succédaient les maisons à arcades et à terrasses, que dominaient les clochers des églises dorés par les rayons du soleil, et la longue enfilade des quais ne manquait ni de noblesse ni de grandeur.
+
+Le personnel du chaland n\'accordait pas son attention à ce spectacle enchanteur. La traversée de Budapest pouvant ménager de désagréables surprises à des gens si sujets à caution, l\'équipage n\'avait d\'yeux que pour le fleuve où se croisaient de nombreuses embarcations. Ce prudent souci permit à Striga de distinguer en temps voulu, au milieu des autres, un bateau conduit par quatre hommes, qui se dirigeait en droite ligne vers le chaland. Ayant reconnu un canot de la police fluviale, il avertit d\'un coup d\'oeil Titcha, qui, sans autre explication, s\'affala par le panneau dans la cale.
+
+Striga ne s\'était pas trompé. En quelques minutes, ce canot eut rallié la gabarre. Deux hommes montèrent à bord.
+
+« Le patron ? demanda l\'un des nouveaux arrivants.
+
+--- C\'est moi, répondit Striga en faisant un pas en avant de ses compagnons.
+
+--- Votre nom ?
+
+--- Ivan Striga.
+
+--- Votre nationalité ?
+
+--- Bulgare.
+
+--- D\'où vient cette gabarre ?
+
+--- De Vienne.
+
+--- Où va-t-elle ?
+
+--- À Galatz.
+
+--- Son propriétaire ?
+
+--- M. Constantinesco, de Galatz.
+
+--- Chargement ?
+
+--- Néant. Nous retournons à vide.
+
+--- Vos papiers ?
+
+--- Les voici, dit Striga, en offrant au questionneur les documents demandés.
+
+--- C\'est bon, approuva celui-ci, qui les restitua après un examen consciencieux. Nous allons jeter un coup d\'oeil dans votre cale.
+
+--- À votre aise, concéda Striga. Je vous ferai toutefois remarquer que c\'est la quatrième visite que nous subissons depuis notre départ de Vienne. Ce n\'est pas agréable. »
+
+Le policier, déclinant du geste toute responsabilité personnelle dans les ordres dont il n\'était que l\'exécuteur, descendit sans répondre par le panneau. Arrivé au bas de l\'échelle, il s\'avança de quelques pas dans la cale dont son regard fit le tour, puis il remonta. Rien n\'était venu l\'avertir que sous ses pieds gisaient deux créatures humaines, un homme, d\'un côté, une femme de l\'autre, toutes deux réduites à l\'impuissance et hors d\'état de demander du secours. La visite ne pouvait être plus consciencieuse ni plus longue. Le chaland étant complètement vide, il n\'y avait pas lieu de s\'enquérir de la provenance de son chargement, ce qui simplifiait beaucoup les choses.
+
+Le policier reparut donc au jour, et, sans poser d\'autres questions, regagna son canot, qui s\'éloigna vers de nouvelles perquisitions, tandis que la gabarre continuait lentement sa route vers l\'aval.
+
+Quand les dernières maisons de Budapest eurent été laissées en arrière, le moment parut venu de s\'occuper de la prisonnière de la cale. Titcha et son compagnon disparurent dans l\'intérieur, pour en ressortir bientôt, escortant cette même femme qui y avait été incarcérée quelques heures plus tôt, et qui fut réintégrée dans le rouf. Des autres hommes de l\'équipage, nul ne sembla prêter la moindre attention à cet incident.
+
+On ne fit halte qu\'à la nuit, entre les bourgs d\'Ercsin et d\'Adony, à plus de trente kilomètres au-dessous de Budapest, et l\'on repartit le lendemain dès l\'aube. Au cours de cette journée du 31 août, la dérive fut interrompue par quelques arrêts, pendant lesquels Striga quitta le bord, en utilisant la barge, conquise, à ce qu\'il pensait, sur Karl Dragoch. Loin de se cacher, il accostait dans les villages, se présentait aux habitants comme étant ce fameux lauréat de la Ligue Danubienne, dont la renommée n\'avait pu manquer de parvenir jusqu\'à eux, et engageait des conversations qu\'il aiguillait adroitement sur les sujets qui lui tenaient au coeur.
+
+Très maigre fut sa récolte de renseignements. Le nom d\'Ilia Brusch ne paraissait pas être populaire dans cette région. Sans doute, à Mohacs, Apatin, Neusatz, Semlin ou Belgrade, qui sont des villes importantes, il en serait autrement. Mais Striga n\'avait pas l\'intention de s\'y risquer et il comptait bien se borner à prendre langue dans des villages, où la police exerçait nécessairement une surveillance moins effective. Par malheur, les paysans ignoraient généralement le concours de Sigmaringen et se montraient très rebelles aux interviews. D\'ailleurs, ils ne savaient rien. Ils ignoraient Karl Dragoch plus encore qu\'Ilia Brusch, et Striga déploya en vain tous les raffinements de sa diplomatie.
+
+Ainsi que cela avait été convenu la veille, c\'est pendant une des absences de Striga que Serge Ladko fut remonté au jour et transporté dans une petite cabine dont la porte fut soigneusement verrouillée. Précaution peut-être exagérée, tout mouvement étant interdit au prisonnier étroitement ligotté.
+
+Les journées du 1er au 6 septembre s\'écoulèrent paisiblement. Poussé à la fois par le courant et par un vent favorable, le chaland continuait à dériver, à raison d\'une soixantaine de kilomètres par vingt-quatre heures. La distance parcourue aurait même été sensiblement plus grande sans les arrêts que rendaient nécessaires les absences de Striga.
+
+Si les excursions de celui-ci étaient toujours aussi stériles au point de vue spécial des renseignements, une fois, du moins, il réussit, en utilisant ses talents professionnels, à les rendre profitables à d\'autres égards.
+
+Ceci se passait le 5 septembre. Ce jour-là, le chaland étant venu mouiller à la nuit en face d\'un petit bourg du nom de Szuszek, Striga descendit à terre comme de coutume. La soirée était avancée. Les paysans, qui se couchent d\'ordinaire avec le soleil, ayant pour la plupart réintégré leurs demeures, il déambulait solitairement, quand il avisa une maison d\'apparence assez cossue, dont le propriétaire, plein de confiance dans la probité publique, avait laissé la porte ouverte, en s\'absentant pour quelque course dans le voisinage.
+
+Sans hésiter, Striga s\'introduisit dans cette maison, qui se trouva être un magasin de détail, ainsi que l\'existence d\'un comptoir le lui démontra.
+
+Prendre dans le tiroir de ce comptoir la recette de la journée, cela ne demanda qu\'un instant. Puis, non content de cette modeste rapine, il eut tôt fait de découvrir dans le corps inférieur d\'un bahut, dont l\'effraction ne fut qu\'un jeu pour lui, un sac rondelet, qui rendit au toucher un son métallique de bon augure.
+
+Ainsi nanti, Striga s\'empressa de regagner son chaland, qui, l\'aube venue, était déjà loin.
+
+Telle fut la seule aventure du voyage.
+
+A bord, Striga avait d\'autres occupations. De temps à autre, il disparaissait dans le rouf, et s\'introduisait dans une cabine située en face de celle où l\'on avait déposé Serge Ladko. Parfois, sa visite ne durait que quelques minutes, parfois elle se prolongeait davantage. Il n\'était pas rare, dans ce dernier cas, qu\'on entendit jusque sur le pont l\'écho d\'une violente discussion, où l\'on discernait une voix de femme répondant avec calme à un homme en fureur. Le résultat était alors toujours le même : indifférence générale de l\'équipage et sortie furibonde de Striga, qui s\'empressait de quitter le bord pour calmer ses nerfs irrités.
+
+C\'est principalement sur la rive droite qu\'il poursuivait ses investigations. Rares, en effet, sont les bourgs et les villages de la rive gauche au-delà de laquelle s\'étend à perte de vue l\'immense puzsta..
+
+Cette puzsta, c\'est la plaine hongroise par excellence, que limitent, à près de cent lieues, les montagnes de la Transylvanie. Les lignes de chemins de fer qui la desservent traversent une infinie étendue de landes désertes, de vastes pâturages, de marais immenses où pullule le gibier aquatique. Cette puzsta, c\'est la table toujours généreusement servie pour d\'innombrables convives à quatre pattes, ces milliers et ces milliers de ruminants qui constituent l\'une des principales richesses du royaume de Hongrie. À peine, s\'il s\'y rencontre quelques champs de blé ou de maïs.
+
+La largeur du fleuve est devenue considérable alors, et de nombreux îlots ou îles en divisent le cours. Telles de ces dernières sont de grande étendue et laissent de chaque côté deux bras où le courant acquiert une certaine rapidité.
+
+Ces îles ne sont point, fertiles. À leur surface ne poussent que des bouleaux, des trembles, des saules, au milieu du limon déposé par les inondations qui sont fréquentes. Cependant on y récolte du foin en abondance, et les barques, chargées jusqu\'au plat bord, le charrient aux fermes ou aux bourgades de la rive.
+
+Le 6 septembre, le chaland mouilla à la tombée de la nuit. Striga était absent à ce moment. S\'il n\'avait voulu se risquer, ni à Neusatz, ni à Peterwardein qui lui fait face, l\'importance relative de ces villes pouvant être une cause de dangers, il s\'était du moins arrêté, afin d\'y continuer son enquête, au bourg de Karlovitz, situé une vingtaine de kilomètres en aval. Sur son ordre, le chaland n\'avait fait halte que deux ou trois lieues plus bas, pour attendre son capitaine, qui le rejoindrait en s\'aidant du courant.
+
+Vers neuf heures du soir, celui-ci n\'en était plus fort éloigné. Il ne se pressait pas. Laissant fuir la barge au gré du courant, il s\'abandonnait à des pensées en somme assez riantes. Son stratagème avait pleinement réussi. Personne ne l\'avait suspecté et rien ne s\'était opposé à ce qu\'il se renseignât librement. À vrai dire, de renseignements, il n\'en avait guère récolté. Mais cette ignorance publique, qui confinait à l\'indifférence, était, en somme, un symptôme favorable. Bien certainement, dans cette région, on n\'avait que très vaguement entendu parler de la bande du Danube, et l\'on ignorait jusqu\'à l\'existence de Karl Dragoch, dont la disparition ne pouvait, par suite, causer d\'émotion.
+
+D\'un autre côté, que ce fût à cause de la suppression de son chef ou en raison de la pauvreté de la région traversée, la vigilance de la police paraissait grandement diminuée. Depuis plusieurs jours, Striga n\'avait aperçu personne qui eût la tournure d\'un agent, et nul ne parlait de la surveillance fluviale si active deux ou trois cent kilomètres en amont.
+
+Il y avait donc toutes chances pour que le chaland arrivât heureusement au terme de son voyage, c\'est-à-dire à la mer Noire, où son chargement serait transporté à bord du vapeur accoutumé. Demain, on serait au-delà de Semlin et de Belgrade. Il suffirait ensuite de longer de préférence la rive serbe pour se mettre à l\'abri de toute fâcheuse surprise. La Serbie devait être, en effet, plus ou moins désorganisée par la guerre qu\'elle soutenait contre la Turquie et il n\'y avait pas apparence que les autorités riveraines perdissent leur temps à s\'occuper d\'une gabarre descendant à vide le cours du fleuve.
+
+Qui sait ? Ce serait peut-être le dernier voyage de Striga. Peut-être se retirerait-il au loin, après fortune faite, riche, considéré-et heureux, songeait-il, en pensant à la prisonnière enfermée dans la gabarre.
+
+Il en était là de ses réflexions quand ses yeux tombèrent sur les coffres symétriques dont les couvercles avaient si longtemps servi de couchettes à Karl Dragoch et à son hôte, et tout à coup cette pensée lui vint que, depuis huit jours qu\'il était maître de la barge, il n\'avait pas songé à en explorer le contenu. Il était grand temps de réparer cet inconcevable oubli.
+
+En premier lieu, il s\'attaqua au coffre de tribord qu\'il fractura en un tour de main. Il n\'y trouva que des piles de linge et de vêtements rangés en bon ordre. Striga, qui n\'avait que faire de cette défroque, referma le coffre et s\'attaqua au suivant.
+
+Le contenu de celui-ci n\'était pas fort différent du précédent, et Striga désappointé allait y renoncer, quand il découvrit dans un des coins un objet plus intéressant. Si les articles d\'habillement ne pouvaient rien lui apprendre, il n\'en serait peut-être pas de même de ce gros portefeuille qui, selon toute vraisemblance, devait contenir des papiers. Or, les papiers ont beau être muets, rien n\'égale, dans certains cas, leur éloquence.
+
+Striga ouvrit ce portefeuille, et, conformément à son espoir, il s\'en échappa de nombreux documents, dont il entreprit le patient examen. Les quittances, les lettres défilèrent, toutes au nom d\'Ilia Brusch, puis ses yeux, agrandis par la surprise, s\'arrêtèrent sur le portrait qui, déjà, avait éveillé les soupçons de Karl Dragoch.
+
+
+Impatient d\'être fixé, Striga, gardant par devers lui le portrait qu\'il venait de découvrir, saisit la godille et pressa la marche de l\'embarcation.
+
+Bientôt la masse de la gabarre apparut dans la nuit. Il accosta rapidement, sauta sur le pont, et, se dirigeant vers la cabine faisant face à celle qu\'il visitait d\'ordinaire, introduisit la clef dans la serrure.
+
+Moins avancé que son geôlier, Serge Ladko n\'avait même pas le choix entre plusieurs explications de son aventure. Le mystère lui en paraissait toujours aussi impénétrable, et il avait renoncé à imaginer des conjectures sur les motifs que l\'on pouvait avoir de le séquestrer.
+
+Quand, après un fiévreux sommeil, il s\'était réveillé au fond de son cachot, la première sensation qu\'il éprouva fut celle de la faim. Plus de vingt-quatre heures s\'étaient alors écoulées depuis son dernier repas, et la nature ne perd jamais ses droits, quelle que soit la violence de nos émotions.
+
+Il patienta d\'abord, puis, la sensation devenant de plus en plus impérieuse, il perdit le beau calme qui l\'avait soutenu jusque-là. Allait-on le laisser mourir d\'inanition ? Il appela. Personne ne répondit. Il appela plus fort. Même résultat. Il s\'égosilla enfin en hurlements furieux, sans obtenir plus de succès.
+
+Exaspéré, il s\'efforça de briser ses liens. Mais ceux-ci étaient solides et c\'est en vain qu\'il se roula sur le parquet en tendant ses muscles à les rompre.
+
+Dans un de ces mouvements convulsifs, son visage heurta un objet déposé près de lui. Le besoin affine les sens. Serge Ladko reconnut immédiatement du pain et un morceau de lard qu\'on avait sans doute mis là pendant son sommeil. Profiter de cette attention de ses geôliers n\'était pas des plus faciles, dans la situation où il se trouvait. Mais la nécessité rend industrieux, et, après plusieurs essais infructueux, il réussit à se passer du secours de ses mains.
+
+Sa faim satisfaite, les heures coulèrent lentes et monotones. Dans le silence, un murmure, un frissonnement, semblable à celui des feuilles agitées par une brise légère, venait frapper son oreille. Le bateau qui le portait était évidemment en marche et fendait, comme un coin, l\'eau du fleuve.
+
+Combien d\'heures s\'étaient-elles succédé, quand une trappe fut soulevée au-dessus de lui ? Suspendue au bout d\'une ficelle, une ration semblable à celle qu\'il avait découverte à son premier réveil, oscilla dans l\'ouverture qu\'éclairait une lumière incertaine et vint se poser à sa portée.
+
+Des heures coulèrent encore, puis la trappe s\'ouvrit de nouveau. Un homme descendit, s\'approcha du corps inerte, et Serge Ladko, pour la seconde fois, sentit qu\'on lui recouvrait la bouche d\'un large bâillon. C\'est donc qu\'on avait peur de ses cris et qu\'il passait à proximité d\'un secours ? Sans doute, car, l\'homme à peine remonté, le prisonnier entendit que l\'on marchait sur le plafond de son cachot. Il voulut appeler\... Aucun son ne sortit de ses lèvres\... Le bruit de pas cessa.
+
+Le secours devait être déjà loin, quand, peu d\'instants plus tard, on revint, sans plus d\'explications, supprimer son bâillon. Si on lui permettait d\'appeler, c\'est que cela n\'offrait plus de danger. Dès lors, à quoi bon ? Après le troisième repas, identique aux deux premiers, l\'attente fut plus longue. C\'était la nuit sans doute. Serge Ladko calculait que sa captivité remontait environ à quarante-huit heures, lorsque, par la trappe de nouveau ouverte, on insinua une échelle, à l\'aide de laquelle quatre hommes descendirent au fond du cachot.
+
+Ces quatre hommes, Serge Ladko n\'eut pas le temps de distinguer leurs traits. Rapidement, un bâillon était encore appliqué sur sa bouche, un bandeau sur ses yeux, et, redevenu colis aveugle et muet, il était comme la première fois transporté de mains en mains.
+
+Aux heurts qu\'il subit, il reconnut l\'ouverture étroite-la trappe, il le comprenait -- qu\'il avait déjà franchie et qu\'il franchissait maintenant en sens inverse. L\'échelle qui avait meurtri ses reins pendant la descente, les meurtrit également, tandis qu\'on le remontait. Un bref trajet horizontal suivit, puis, brutalement jeté sur le parquet, il sentit qu\'on lui enlevait comme auparavant bandeau et bâillon. Il ouvrait à peine les yeux, qu\'une porte se refermait avec bruit.
+
+Serge Ladko regarda autour de lui. S\'il n\'avait fait que changer de prison, celle-ci était infiniment supérieure à la précédente. Par une petite fenêtre, le jour entrait à flots, lui permettant d\'apercevoir, déposée auprès de lui, sa pitance ordinaire qu\'il avait été contraint jusqu\'ici de chercher à tâtons. La lumière du soleil lui rendait le courage et sa situation lui apparaissait moins désespérée. Derrière cette fenêtre, c\'était la liberté. Il s\'agissait de la conquérir.
+
+Longtemps il désespéra d\'en trouver le moyen, quand enfin, en parcourant pour la millième fois du regard la cabine exiguë qui lui servait de prison, il découvrit, appliquée contre la paroi, une sorte de ferrure plate qui, sortie du plancher et s\'élevant verticalement jusqu\'au plafond, servait probablement à relier entre eux les madriers du bordé.
+
+Cette ferrure formait saillie, et, bien qu\'elle ne présentât aucun angle tranchant, il n\'était peut-être pas impossible de s\'en servir pour user ses liens, sinon pour les couper. Difficile à coup sûr, l\'entreprise méritait tout au moins d\'être tentée.
+
+Ayant réussi avec beaucoup de peine à ramper jusqu\'à ce morceau de fer, Serge Ladko commença aussitôt à limer contre lui la corde qui retenait ses mains. L\'immobilité presque totale que ses entraves lui imposaient rendait ce travail extrêmement pénible, et le va-et-vient des bras, ne pouvant être obtenu que par une série de contractions de tout le corps, restait forcément contenu dans d\'étroites limites. Outre que la besogne avançait lentement ainsi, elle était en même temps véritablement exténuante, et, toutes les cinq minutes, le pilote était contraint de prendre du repos. Deux fois par jour, aux heures des repas, il lui fallait s\'interrompre. C\'était toujours le même geôlier qui venait lui apporter sa nourriture et, bien que celui-ci dissimulât son visage sous un masque de toile, Serge Ladko le reconnaissait sans hésitation à ses cheveux gris et à la remarquable largeur de ses épaules. D\'ailleurs, bien qu\'il n\'en pût discerner les traits, l\'aspect de cet homme lui donnait l\'impression de quelque chose de déjà vu. Sans qu\'il lui fût possible de rien préciser, cette carrure puissante, cette démarche lourde, ces cheveux grisonnants que l\'on distinguait au-dessus du masque de toile, ne lui semblaient pas inconnus.
+
+Les rations lui étaient servies à heure fixe, et jamais, hors de ces instants, on ne pénétrait dans sa prison. Rien n\'en aurait même troublé le silence, si, de temps à autre, il n\'avait entendu une porte s\'ouvrir en face de la sienne. Presque toujours, le bruit de deux voix, celle d\'un homme et celle d\'une femme, parvenait ensuite jusqu\'à lui. Serge Ladko tendait alors l\'oreille, et, interrompant son patient travail, il cherchait à mieux discerner ces voix qui remuaient en lui des sensations vagues et profondes.
+
+En dehors de ces incidents, le prisonnier mangeait d\'abord, dès le départ de son geôlier, puis il se remettait obstinément à l\'oeuvre.
+
+Cinq jours s\'étaient écoulés depuis qu\'il l\'avait commencée, et il en était encore à se demander s\'il faisait ou non quelques progrès, quand, à la tombée de la nuit, le soir du 6 septembre, le lien qui encerclait ses poignets se brisa tout à coup.
+
+Le pilote dut refouler le cri de joie qui allait lui échapper. On ouvrait sa porte. Le même homme que chaque jour entrait dans sa cellule et déposait près de lui le repas habituel.
+
+Dès qu\'il se retrouva seul, Serge Ladko voulut mouvoir ses membres libérés. Il lui fut d\'abord impossible d\'y parvenir. Immobilisés pendant toute une longue semaine, ses mains et ses bras étaient comme frappés de paralysie. Peu à peu, cependant, le mouvement leur revint et augmenta graduellement d\'amplitude. Après une heure d\'efforts, il put exécuter des gestes encore maladroits et délivrer ses jambes à leur tour.
+
+Il était libre. Du moins il avait fait le premier pas vers la liberté. Le second, ce serait de franchir cette fenêtre qu\'il était en son pouvoir d\'atteindre maintenant, et par laquelle il apercevait l\'eau du Danube, sinon la rive invisible dans l\'obscurité. Les circonstances étaient favorables. Il faisait dehors un noir d\'encre. Bien malin qui le rattraperait par cette nuit sans lune, où l\'on ne voyait rien à dix pas. D\'ailleurs, on ne reviendrait plus dans sa cellule que le lendemain. Quand on s\'apercevrait de son évasion, il serait loin.
+
+Une grave difficulté, plus qu\'une difficulté, une impossibilité matérielle l\'arrêta à la première tentative. Assez large pour un adolescent souple et svelte, la fenêtre était trop étroite pour livrer passage à un homme dans la force de l\'âge et doué d\'une aussi respectable carrure que Serge Ladko. Celui-ci, après s\'être épuisé en vain, dut reconnaître que l\'obstacle était infranchissable et se laissa retomber tout haletant dans sa prison.
+
+Etait-il donc condamné à n\'en plus sortir ? Un long moment, il contempla le carré de nuit dessiné par l\'implacable fenêtre, puis, décidé à de nouveaux efforts, il se dépouilla de ses vêtements et, d\'un élan furieux, se lança dans l\'ouverture béante, résolu à la franchir coûte que coûte.
+
+Son sang coula, ses os craquèrent, mais une épaule d\'abord, un bras ensuite passèrent, et le montant de la fenêtre vint buter contre sa hanche gauche. Malheureusement l\'épaule droite avait buté, elle aussi, de telle sorte que tout effort supplémentaire serait évidemment inutile.
+
+Une partie du corps à l\'air libre et surplombant le courant, l\'autre partie demeurée prisonnière, ses côtes écrasées par la pression, Serge Ladko ne tarda pas à trouver la position intenable. Puisque s\'enfuir ainsi était impraticable, il fallait aviser à d\'autres moyens. Peut-être, pourrait-il arracher l\'un des montants de la fenêtre et agrandir ainsi l\'infranchissable ouverture.
+
+Mais, pour cela, il était nécessaire de réintégrer la prison, et Ladko fut obligé de reconnaître l\'impossibilité de ce retour en arrière. Il ne lui était permis ni d\'avancer, ni de reculer, et, à moins d\'appeler à son aide, il était irrémédiablement condamné à rester dans sa cruelle position.
+
+C\'est en vain qu\'il se débattit. Tout fut inutile. Il s\'était lui-même pris au piège par la violence de son élan.
+
+Serge Ladko reprenait haleine, quand un bruit insolite le fit tressaillir. Un nouveau danger se révélait, menaçant. Fait qui ne s\'était jamais produit à pareille heure depuis qu\'il occupait cette prison, on s\'arrêtait à sa porte, une clef cherchait en tâtonnant le trou de la serrure, s\'y introduisait enfin\...
+
+Soulevé par le désespoir, le pilote raidit tous ses muscles dans un effort surhumain\...
+
+Au dehors, cependant, la clef tournait dans la serrure\... Entraînait le pène avec elle\... Lui faisait faire un premier pas hors de la gâche\...

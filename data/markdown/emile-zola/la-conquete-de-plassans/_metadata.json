@@ -1,0 +1,254 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA CONQUÊTE DE PLASSANS",
+  "slug": "la-conquete-de-plassans",
+  "nombre_chapitres": 23,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 44,
+      "spine_end_exclusive": 45,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_043.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 45,
+      "spine_end_exclusive": 46,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_044.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 46,
+      "spine_end_exclusive": 47,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 47,
+      "spine_end_exclusive": 48,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 48,
+      "spine_end_exclusive": 49,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 49,
+      "spine_end_exclusive": 50,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 50,
+      "spine_end_exclusive": 51,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 51,
+      "spine_end_exclusive": 52,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_050.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 52,
+      "spine_end_exclusive": 53,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 53,
+      "spine_end_exclusive": 54,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 54,
+      "spine_end_exclusive": 55,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_053.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 55,
+      "spine_end_exclusive": 56,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_054.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 56,
+      "spine_end_exclusive": 57,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_055.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 57,
+      "spine_end_exclusive": 58,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_056.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 58,
+      "spine_end_exclusive": 59,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_057.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XV",
+      "slug": "xv",
+      "spine_start": 59,
+      "spine_end_exclusive": 60,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_058.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVI",
+      "slug": "xvi",
+      "spine_start": 60,
+      "spine_end_exclusive": 61,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_059.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVII",
+      "slug": "xvii",
+      "spine_start": 61,
+      "spine_end_exclusive": 62,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_060.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVIII",
+      "slug": "xviii",
+      "spine_start": 62,
+      "spine_end_exclusive": 63,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_061.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIX",
+      "slug": "xix",
+      "spine_start": 63,
+      "spine_end_exclusive": 64,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_062.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XX",
+      "slug": "xx",
+      "spine_start": 64,
+      "spine_end_exclusive": 65,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_063.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXI",
+      "slug": "xxi",
+      "spine_start": 65,
+      "spine_end_exclusive": 66,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_064.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXII",
+      "slug": "xxii",
+      "spine_start": 66,
+      "spine_end_exclusive": 67,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_065.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XXIII",
+      "slug": "xxiii",
+      "spine_start": 67,
+      "spine_end_exclusive": 69,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_066.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_067.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-conquete-de-plassans/Zola1_image019.jpg"
+  ]
+}

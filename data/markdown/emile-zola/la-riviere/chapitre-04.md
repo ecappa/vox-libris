@@ -1,0 +1,33 @@
+::: WordSection
+[
+]{.calibre38}
+
+!{#Image5906 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LA RIVIÈRE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5907 .calibre35}
+
+## []{#_Toc368832943 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832669 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832395 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832121 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831847 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831573 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831299 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831025 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830751 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830477 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830203 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829929 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829655 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829381 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829107 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828833 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828559 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828285 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368828011 .pcalibre .calibre3 .pcalibre1} {#sigil_toc_id_1 .calibre43}
+
+
+Puis, nous nous calmions, nous goûtions le charme profond de la rivière.
+
+Les deux rives s'écartent ; la nappe d'eau s'élargit en un vaste bassin ; et, là, trois îles se présentent de front au courant. La première, à gauche, très longue, descend après d'une demi-lieue ; la seconde ménage un bras de trois cents mètres au plus ; et, quant à la troisième, elle n'est qu'une butte de gazon, couverte de grands arbres. Derrière, d'autres touffes de verdure, d'autres petites îles, s'en vont à la débandade, coupées par des bras étroits de rivière. Sur la gauche du fleuve, des plaines cultivées s'étendent ; sur la droite, se dresse un coteau, planté au sommet d'un bois chevelu.
+
+Nous remontions le courant, longeant les berges, pour éviter la fatigue ; puis, quand nous étions en haut du bassin, nous prenions le milieu et nous laissions aller notre barque à la dérive. Elle descendait lentement d'elle-même, sans un bruit. Nous, étendus sur les bancs, nous causions, pris de paresse. Mais, chaque fois que la barque arrivait en vue des îles, par les temps calmes, la conversation tombait, un recueillement invincible nous envahissait peu à peu.
+
+En face, au-dessus de l'eau blanche, les trois îles se présentaient sur une même ligne, avec leurs pointes arrondies, leurs proues énormes de verdures. C'étaient, sur le couchant empourpré, trois bouquets d'arbres, au jet puissant, aux cimes vertes, endormies dans l'air. On aurait dit trois navires à l'ancre, trois Léviathans, dont les mâtures se seraient miraculeusement couvertes de feuillages. Et, dans la nappe d'eau, dans le miroir d'argent qui s'étendait, démesuré, sans une ride, les îles se reflétaient, enfonçant leurs arbres, prolongeant leurs rives. Une sérénité, une majesté, venaient de ces deux azurs, le ciel et le fleuve, où le sommeil des arbres était si pur. Le soir surtout, quand pas une feuille ne remuait, quand la nappe d'eau prenait le poli bleuâtre de l'acier, le spectacle s'élargissait encore et faisait rêver d'infini.
+
+Nous descendions toujours, nous entrions dans un bras de rivière, entre les îles. Alors, c'était un charme plus intime. Les arbres, aux deux bords, se penchaient, changeaient la rivière en une grande allée de jardin. Sur nos têtes, il n'y avait plus qu'une bande de ciel ; tandis que, devant nous, au loin, s'ouvrait une échappée de Seine, un courant qui fuyait avec un froissement continu d'écailles d'argent, des coteaux boisés, le clocher perdu d'un village. Dans les îles, après la fenaison, des prairies déroulaient un velours tendre, coupé des rayons obliques du soleil. Un martin-pêcheur jetait un cri, mettait au-dessus de l'eau l'éclair rose et vert de son vol. En haut des arbres, des ramiers roucoulaient. C'était une paix souveraine, une fraîcheur délicieuse, l'impression grande et forte d'un parc séculaire, où de puissantes dames, anciennement, auraient aimé.
+
+Puis, nous nous engagions dans un des petits bras ; et, là, nous trouvions une joie encore. Le maniement des rames devenait impossible. Il fallait s'abandonner et se servir de la gaffe, dans les endroits difficiles. Les murs des arbres s'étaient resserrés, les cimes se rejoignaient, on filait sous une voûte, sans apercevoir un coin de ciel. Des saules centenaires, à moitié déracinés par le courant, montraient l'emmêlement de leurs racines, pareilles à des noeuds de couleuvres ; leurs troncs semblaient pourris, se penchaient, dans des attitudes tragiques de noyés, retenus par les cheveux ; et, de ce bois crevassé, livide, sali des écumes du flot, toute une jeunesse de frêles tiges et de feuilles délicates s'épanouissait, montait, retombait en pluie. Nous devions, en passant, baisser la tête, le front caressé par les branches.
+
+D'autres fois, nous filions au milieu des plantes d'eau ; les nénuphars étalaient leurs épaisses feuilles rondes, nageant comme des échines de grenouilles, et nous arrachions leurs fleurs jaunes, si charnues et si fades, ouvertes à la surface ainsi que des yeux de carpes curieuses. Il y avait encore d'autres fleurs, dont nous ignorions les noms ; une surtout, une petite fleur violette, d'une finesse exquise.
+
+Mais la barque descendait toujours, au milieu du frôlement prolongé des plantes. À chaque instant, elle devait tourner, pour suivre les coudes du petit bras. Et c'était une émotion, car on n'était jamais certain de pouvoir passer. Souvent un banc de sable se présentait. Aussi quel triomphe, quand nous débouchions sans encombre dans un grand bras, en laissant derrière nous l'étroit passage, comme un de ces sentiers des bois, à peine frayés, où l'on a dû se couler un à un, et dont les buissons d'eux-mêmes se referment !

@@ -1,0 +1,106 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "MESSIDOR",
+  "slug": "messidor",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1979,
+      "spine_end_exclusive": 1980,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_041.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Personnages",
+      "slug": "personnages",
+      "spine_start": 1980,
+      "spine_end_exclusive": 1982,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_042.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_043.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte I",
+      "slug": "acte-i",
+      "spine_start": 1982,
+      "spine_end_exclusive": 1988,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_044.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_045.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_046.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_047.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_048.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte II",
+      "slug": "acte-ii",
+      "spine_start": 1988,
+      "spine_end_exclusive": 1995,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_050.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_051.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_052.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_053.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_054.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_055.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_056.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte III",
+      "slug": "acte-iii",
+      "spine_start": 1995,
+      "spine_end_exclusive": 2003,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_057.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_058.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_059.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_060.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_061.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_062.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_063.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_064.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte IV",
+      "slug": "acte-iv",
+      "spine_start": 2003,
+      "spine_end_exclusive": 2010,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_065.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_066.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_067.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_068.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_069.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_070.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_071.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/messidor/Zola7_image006.jpg",
+    "images/emile-zola/messidor/Zola7_image007.jpg",
+    "images/emile-zola/messidor/Zola7_image008.png",
+    "images/emile-zola/messidor/Zola7_image009.jpg",
+    "images/emile-zola/messidor/Zola7_image010.jpg",
+    "images/emile-zola/messidor/Zola7_image011.jpg",
+    "images/emile-zola/messidor/Zola7_image012.jpg",
+    "images/emile-zola/messidor/Zola7_image013.jpg",
+    "images/emile-zola/messidor/Zola7_image014.jpg"
+  ]
+}

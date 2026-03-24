@@ -1,0 +1,99 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES TROIS VILLES : PARIS",
+  "slug": "les-trois-villes-paris",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 700,
+      "spine_end_exclusive": 701,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_225.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre I",
+      "slug": "livre-i",
+      "spine_start": 701,
+      "spine_end_exclusive": 707,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_226.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_227.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_228.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_229.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_230.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_231.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre II",
+      "slug": "livre-ii",
+      "spine_start": 707,
+      "spine_end_exclusive": 713,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_232.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_233.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_234.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_235.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_236.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_237.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre III",
+      "slug": "livre-iii",
+      "spine_start": 713,
+      "spine_end_exclusive": 719,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_238.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_239.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_240.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_241.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_242.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_243.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre IV",
+      "slug": "livre-iv",
+      "spine_start": 719,
+      "spine_end_exclusive": 725,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_244.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_245.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_246.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_247.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_248.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_249.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Livre V",
+      "slug": "livre-v",
+      "spine_start": 725,
+      "spine_end_exclusive": 732,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_250.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_251.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_252.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_253.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_254.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_255.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_256.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-trois-villes-paris/Zola2_image013.jpg"
+  ]
+}

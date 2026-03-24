@@ -1,0 +1,74 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L’ATTAQUE DU MOULIN",
+  "slug": "lattaque-du-moulin",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 552,
+      "spine_end_exclusive": 553,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_077.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 553,
+      "spine_end_exclusive": 554,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_078.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 554,
+      "spine_end_exclusive": 555,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_079.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 555,
+      "spine_end_exclusive": 556,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_080.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 556,
+      "spine_end_exclusive": 557,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_081.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 557,
+      "spine_end_exclusive": 559,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_082.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_083.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/lattaque-du-moulin/Zola2_image009.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA RIVIÈRE"
+slug_oeuvre: "la-riviere"
+section: "Chapitre 03"
+slug_section: "chapitre-03"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA RIVIÈRE
+
+[Liste des contes et nouvelles
+
+!
+
+## III
+Nous ne venions que pour la Seine et nous y passions nos journées. En trois ans, nous ne fîmes pas une promenade à pied ; tandis qu'il n'était point d'île, de petit bras, de baie que nous ne connussions. Les arbres du bord étaient devenus nos amis ; nous aurions dit le nombre des roches, nous étions chez nous à une lieue, en amont et en aval. Aujourd'hui, lorsque je ferme les yeux, ce bout de Seine se déroule encore, avec ses rideaux de peupliers, ses berges toutes fleuries de grandes fleurs bleues et violettes, ses îles désertes aux herbes géantes.
+
+J'ignore si l'aubergiste se doutait des expériences que nous faisions subir à la solidité de sa barque ; mais je me rappelle l'avoir vu, songeur et attendri devant elle, à des heures où il ne se croyait pas remarqué. Il se baissait, il l'examinait, la touchait d'un air de paternité inquiète. C'était un homme doux. Jamais il n'osa se plaindre.

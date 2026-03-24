@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LE VENTRE DE PARIS",
+  "slug": "le-ventre-de-paris",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 34,
+      "spine_end_exclusive": 35,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_033.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 35,
+      "spine_end_exclusive": 36,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_034.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 36,
+      "spine_end_exclusive": 37,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_035.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 37,
+      "spine_end_exclusive": 38,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_036.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 38,
+      "spine_end_exclusive": 39,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_037.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 39,
+      "spine_end_exclusive": 40,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_038.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 40,
+      "spine_end_exclusive": 42,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_039.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_040.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/le-ventre-de-paris/Zola1_image018.jpg"
+  ]
+}

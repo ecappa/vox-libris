@@ -1,0 +1,109 @@
+]{.calibre20}
+
+
+CONTES ET NOUVELLES
+
+UN DRAME AU MEXIQUE
+
+
+]{.calibre20}
+
+## [[Chapitre 3 -- De Cigualan à Tasco]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342943037 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_145 .calibre21}
+
+Le lendemain, les chevaux étaient sellés et bridés au point du jour. Les voyageurs, reprenant les sentiers demi-frayés qui serpentaient devant eux, s\'enfoncèrent dans l\'est au-devant du soleil. Leur voyage s\'annonçait sous de favorables auspices. Sans la marche taciturne du lieutenant, qui contrastait avec la bonne humeur du gabier, on les eût pris pour les plus honnêtes gens de la terre.
+
+Le terrain montait de plus en plus. L\'immense plateau de Chilpanzingo, où règne le plus beau climat du Mexique, ne tarda pas à se développer jusqu\'aux limites extrêmes de l\'horizon. Ce pays, qui appartient aux terres tempérées, est situé à quinze cents mètres au-dessus du niveau de la mer, et il ne connaît ni les chaleurs des terrains inférieurs, ni les froids des zones plus élevées. Mais, laissant cette oasis sur leur droite, les deux Espagnols arrivèrent au petit village de San-Pedro, et, après trois heures d\'arrêt, ils reprirent leur route en se dirigeant vers la petite ville de Tutela-del-Rio.
+
+« Où coucherons-nous ce soir ? demanda Martinez.
+
+--- À Tasco ! répondit José. Une grande ville, lieutenant, auprès de ces bourgades !
+
+--- On y trouve une bonne auberge ?
+
+--- Oui, sous un beau ciel et dans un beau climat ! Là, le soleil est moins brûlant qu\'au bord de la mer. Et c\'est ainsi qu\'en montant toujours, on arrive graduellement, mais sans trop s\'en apercevoir, à geler sur les cimes du Popocatepelt.
+
+--- Quand franchirons-nous les montagnes, José ?
+
+--- Après-demain soir, lieutenant, et de leur sommet, bien loin, il est vrai, nous apercevrons le terme de notre voyage ! Une ville d\'or que Mexico ! Savez-vous à quoi je pense, lieutenant ? »
+
+Martinez ne répondit pas.
+
+« Je me demande ce que peuvent être devenus les officiers du vaisseau et du brick que nous avons abandonnés sur l\'îlot ? »
+
+Martinez tressaillit.
+
+« Je ne sais ! répondit-il sourdement.
+
+--- J\'aime à croire, continua José, que ces hautains personnages sont tous morts de faim ! Du reste, lorsque nous les avons débarqués, plusieurs sont tombés dans la mer, et il y a dans ces parages une espèce de requin, le tintoren, qui ne pardonne pas ! Santa Maria ! Si le capitaine don Orteva ressuscitait, ce serait le cas de nous cacher dans le ventre d\'une baleine ! Mais sa tête s\'est heureusement rencontrée à la hauteur du gui, et quand les écoutes ont si singulièrement cassé\...
+
+--- Te tairas-tu ! » s\'écria Martinez.
+
+Le marin demeura bouche close.
+
+« Voilà des scrupules bien placés ! se dit intérieurement José. -- Pour lors, reprit-il à voix haute, à mon retour, je me fixerai dans ce charmant pays du Mexique ! On y court des bordées à travers les ananas et les bananes, et l\'on échoue sur des écueils d\'or et d\'argent !
+
+--- C\'est pour cela que tu as trahi ? demanda Martinez.
+
+--- Pourquoi pas, lieutenant ? Affaire de piastres !
+
+--- Ah ! fit Martinez avec dégoût.
+
+--- Et vous ? reprit José.
+
+--- Moi ! Affaire de hiérarchie ! Le lieutenant voulait surtout se venger du capitaine !
+
+--- Ah ! » fit José avec mépris.
+
+Ces deux hommes se valaient, quels que fussent leurs mobiles.
+
+« Chut ! dit Martinez, s\'arrêtant court. Que vois-je là-bas ? »
+
+José se dressa sur ses étriers.
+
+« Il n\'y a personne, répondit-il.
+
+--- J\'ai vu un homme disparaître rapidement ! répéta Martinez.
+
+--- Imagination !
+
+--- Je l\'ai vu ! reprit le lieutenant impatienté.
+
+--- Eh bien ! Cherchez à votre aise\... »
+
+Et José continua sa route.
+
+Martinez s\'avança seul vers une touffe de ces mangliers, dont les branches, qui prennent racine dès qu\'elles touchent le sol, forment des fourrés impénétrables.
+
+Le lieutenant mit pied à terre. La solitude était complète.
+
+Soudain, il aperçut une sorte de spirale remuer dans l\'ombre. C\'était un serpent de petite espèce, la tête écrasée sous un quartier de roche, et dont la partie postérieure du corps se tordait encore comme si elle eût été galvanisée.
+
+« Il y avait quelqu\'un ici ! » s\'écria le lieutenant.
+
+Martinez, superstitieux et coupable, regarda de toutes parts. Il se prit à frissonner.
+
+« Qui ? Qui ? murmura-t-il.
+
+--- Eh bien ? demanda José, qui avait rejoint son compagnon.
+
+--- Ce n\'est rien ! répondit Martinez. Marchons ! »
+
+Les voyageurs côtoyèrent alors les rives de la Mexata, petit affluent du rio Balsas, dont ils remontèrent le cours. Bientôt quelques fumées trahirent la présence d\'indigènes, et la petite ville de Tutcla-del-Rio apparut. Mais les Espagnols, ayant hâte de gagner Tasco avant la nuit, la quittèrent, après quelques instants de repos.
+
+Le chemin devenait très abrupt. Aussi le pas était-il l\'allure la plus ordinaire de leurs montures. Cà et là, des forêts d\'oliviers apparurent sur le flanc des monts.
+
+De notables différences se manifestaient alors dans le terrain, dans la température, dans la végétation.
+
+Le soir ne tarda pas à tomber. Martinez suivait à quelques pas son guide José. Celui-ci ne s\'orientait pas sans peine au milieu des ténèbres épaisses, et il cherchait les sentiers praticables, maugréant, tantôt contre une souche qui le faisait buter, tantôt contre une branche d\'arbre qui lui fouettait la figure et menaçait d\'éteindre l\'excellent cigare qu\'il fumait.
+
+Le lieutenant laissait son cheval suivre celui de son compagnon. De vagues remords s\'agitaient en lui, et il ne se rendait pas compte de l\'obsession à laquelle il était en proie.
+
+La nuit était tout à fait venue. Les voyageurs pressèrent le pas. Ils traversèrent sans s\'arrêter les petits villages de Contepec et d\'Iguala, et ils arrivèrent à la ville de Tasco.
+
+José avait dit vrai. C\'était une grande cité auprès des minces bourgades qu\'ils avaient laissées en arrière. Une sorte d\'auberge s\'ouvrait sur la plus large rue. Après avoir remis leurs chevaux à un valet d\'écurie, ils entrèrent dans la salle principale, où se dressait une longue et étroite table toute servie.
+
+Les Espagnols y prirent place, l\'un vis-à-vis de l\'autre, et entamèrent un repas qui eût été succulent pour des palais indigènes, mais que la faim seule pouvait rendre supportable à des palais européens. C\'étaient des débris de poulets nageant dans une sauce au piment vert, des portions de riz accommodé de piment rouge et de safran, de vieilles volailles farcies d\'olives, de raisins secs, d\'arachides et d\'oignons, des courges sucrées, des carbanzos et des pourpiers, le tout accompagné de « tortillas », sorte de galettes de maïs cuites sur une plaque de fer.
+
+Puis on servit à boire, après le repas.
+
+Quoi qu\'il en soit, à défaut du goût, la faim fut satisfaite, et la fatigue ne tarda pas à endormir Martinez et José jusqu\'à une heure avancée du jour.

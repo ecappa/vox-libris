@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "MES HAINES"
+slug_oeuvre: "mes-haines"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+MES HAINES
+
+Liste des études biographiques et critiques
+
+] !
+
+## Présentation
+Zola a vingt-cinq ans à peine lorsqu'il écrit *Mes Haines :* *Causeries littéraires et artistiques*

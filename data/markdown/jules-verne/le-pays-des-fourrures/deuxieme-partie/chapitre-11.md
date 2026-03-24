@@ -1,0 +1,136 @@
+### []{#_Toc343184395 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343181934 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343179473 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343177012 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343174551 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343172090 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343169629 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343167168 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343164707 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343162246 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343159785 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343157324 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343148054 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343145593 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343143130 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343140669 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343138208 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343135746 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343133285 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343130824 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343128362 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343125901 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343123437 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343120976 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343118515 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343116061 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343113598 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343111137 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343108676 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343104932 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343102470 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343100007 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343097582 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343095113 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343092651 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343090173 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343087710 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343085248 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343082785 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343080323 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343077862 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343075399 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343072936 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343070470 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343042510 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343037666 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343035301 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343032936 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343030571 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343027015 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343024650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343022285 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343019919 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343017553 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343015188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343012823 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343010456 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343008091 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343005726 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343003361 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000996 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342998631 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342996266 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342993901 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342991536 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342989171 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342986806 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342984439 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342982074 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342979709 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342977344 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342941363 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342937763 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342935401 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342933039 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342930673 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342928311 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342925949 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342923583 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342921277 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342918914 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342916550 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342914188 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342911825 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342907098 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342904736 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342902374 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342900012 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342897650 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342895288 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342892926 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342890564 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342826746 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342761562 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333688003 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333685699 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333615241 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333613044 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333609699 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc333607508 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc331398595 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324866913 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324860489 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324693782 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc324686171 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc323670396 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 11 -- Une communication de Jasper Hobson]{.pcalibre lang="X-NONE"}]{#_Toc323665899 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11-une-communication-de-jasper-hobson .calibre171 .sigil_not_in_toc}
+
+Telle était la situation. L\'île avait « jeté l\'ancre », suivant l\'expression du sergent Long, elle s\'était arrêtée, elle était stationnaire, comme au temps où l\'isthme la rattachait encore au continent américain. Mais six cents milles la séparaient alors des terres habitées, et ces six cents milles, il faudrait les franchir avec les traîneaux, en suivant la surface solidifiée de la mer, au milieu des montagnes de glace que le froid allait accumuler, et cela pendant les plus rudes mois de l\'hiver arctique.
+
+C\'était une terrible entreprise, et, cependant, il n\'y avait pas à hésiter. Cet hiver que le lieutenant Hobson avait appelé de tous ses voeux, il arrivait enfin, il avait enrayé la funeste marche de l\'île vers le nord, il allait jeter un pont de six cents milles entre elles et les continents voisins ! Il fallait donc profiter de ces nouvelles chances et rapatrier toute cette colonie perdue dans les régions hyperboréennes.
+
+En effet -- ainsi que le lieutenant Hobson l\'expliqua à ses amis -- on ne pouvait attendre que le printemps prochain eût amené la débâcle des glaces, c\'est-à-dire s\'abandonner encore une fois aux caprices des courants de la mer de Behring. Il s\'agissait donc uniquement d\'attendre que la mer fût suffisamment prise, c\'est-à-dire pendant un laps de temps qu\'on pouvait évaluer à trois ou quatre semaines. D\'ici là, le lieutenant Hobson comptait opérer des reconnaissances fréquentes sur l\'icefield qui enserrait l\'île, afin de déterminer son état de solidification, les facilités qu\'il offrirait au glissage des traîneaux, et la meilleure route qu\'il présenterait, soit vers les rivages asiatiques, soit vers le continent américain.
+
+« Il va sans dire, ajouta Jasper Hobson, qui s\'entretenait alors de ces choses avec Mrs. Paulina Barnett et le sergent Long, il va sans dire que les terres de la Nouvelle-Georgie, et non les côtes d\'Asie, auront toutes nos préférences, et qu\'à chances égales, c\'est vers l\'Amérique russe que nous dirigerons nos pas.
+
+--- Kalumah nous sera très utile alors, répondit Mrs. Paulina Barnett, car, en sa qualité d\'indigène, elle connaît parfaitement ces territoires de la Nouvelle-Georgie.
+
+--- Très utile, en effet, dit le lieutenant Hobson, et son arrivée jusqu\'à nous a véritablement été providentielle. Grâce à elle, il nous sera aisé d\'atteindre les établissements du fort Michel dans le golfe de Norton, soit même, beaucoup plus au sud, la ville de New-Arkhangel, où nous achèverons de passer l\'hiver.
+
+--- Pauvre fort Espérance ! dit Mrs. Paulina Barnett. Construit au prix de tant de fatigues, et si heureusement créé par vous, monsieur Jasper ! Cela me brisera le coeur de l\'abandonner sur cette île, au milieu de ces champs de glace, de le laisser peut-être au-delà de l\'infranchissable banquise ! Oui ! Quand nous partirons, mon coeur saignera, en lui donnant le dernier adieu !
+
+--- Je n\'en souffrirai pas moins que vous, madame, répondit le lieutenant Hobson, et peut-être plus encore ! C\'était l\'oeuvre la plus importante de ma vie ! J\'avais mis toute mon intelligence, toute mon énergie à établir ce fort Espérance, si malheureusement nommé, et je ne me consolerai jamais d\'avoir été forcé de l\'abandonner ! Puis, que dira la Compagnie, qui m\'avait confié cette tâche, et dont je ne suis que l\'humble agent, après tout !
+
+--- Elle dira, monsieur Jasper, s\'écria Mrs. Paulina Barnett avec une généreuse animation, elle dira que vous avez fait votre devoir, que vous ne pouvez pas être responsable des caprices de la nature, plus puissante partout et toujours que la main et l\'esprit de l\'homme ! Elle comprendra que vous ne pouviez prévoir ce qui est arrivé, car cela était en dehors des prévisions humaines !
+
+Elle saura enfin que, grâce à votre prudence et à votre énergie morale, elle n\'aura pas à regretter la perte d\'un seul des compagnons qu\'elle vous avait confiés.
+
+--- Merci, madame, répondit le lieutenant en serrant la main de Mrs. Paulina Barnett, je vous remercie de ces paroles que vous inspire votre coeur, mais je connais un peu les hommes, et, croyez-moi, mieux vaut réussir qu\'échouer. Enfin, à la grâce du Ciel ! »
+
+Le sergent Long, voulant couper court aux idées tristes de son lieutenant, ramena la conversation sur les circonstances présentes ; il parla des préparatifs à commencer pour un prochain départ, et enfin il lui demanda s\'il comptait enfin apprendre à ses compagnons la situation réelle de l\'île Victoria.
+
+« Attendons encore, répondit Jasper Hobson, nous avons par notre silence épargné jusqu\'ici bien des inquiétudes à ces pauvres gens, attendons que le jour de notre départ soit définitivement fixé, et nous leur ferons connaître alors la vérité tout entière ! »
+
+Ce point arrêté, les travaux habituels de la factorerie continuèrent pendant les semaines suivantes.
+
+Quelle était, il y a un an, la situation des habitants alors heureux et contents, du fort Espérance ?
+
+Il y a un an, les premiers symptômes de la saison froide apparaissaient tels qu\'ils étaient alors. Les jeunes glaces se formaient peu à peu sur le littoral. Le lagon, dont les eaux étaient plus tranquilles que celles de la mer, se prenaient d\'abord. La température se tenait pendant le jour à un ou deux degrés au-dessus de la glace fondante et s\'abaissait de 3 ou 4° au-dessous pendant la nuit.
+
+Jasper Hobson commençait à faire revêtir à ses hommes les habits d\'hiver, les fourrures, les vêtements de laine. On installait les condenseurs à l\'intérieur de la maison. On nettoyait le réservoir à air et les pompes d\'aération. On tendait des trappes autour de l\'enceinte palissadée, aux environs du cap Bathurst, et Sabine et Marbre s\'applaudissaient de leurs succès de chasseurs. Enfin, on terminait les derniers travaux d\'appropriation de la maison principale.
+
+Cette année, ces braves gens procédèrent de la même façon. Bien que, par le fait, le fort Espérance fût en latitude environ de deux degrés plus haut qu\'au commencement du dernier hiver, cette différence ne devait pas amener une modification sensible dans l\'état moyen de la température. En effet, entre le 70e et le 72e parallèle, l\'écart n\'est pas assez considérable pour que la moyenne thermométrique en soit sérieusement influencée. On eût plutôt constaté que le froid était maintenant moins rigoureux qu\'il ne l\'avait été au commencement du dernier hivernage. Mais très probablement, il semblait plus supportable, parce que les hiverneurs se sentaient déjà faits à ce rude climat.
+
+Il faut remarquer, cependant, que la mauvaise saison ne s\'annonça pas avec sa rigueur accoutumée. Le temps était humide, et l\'atmosphère se chargeait journellement de vapeurs qui se résolvaient tantôt en pluie, tantôt en neige. Il ne faisait certainement pas assez froid, au gré du lieutenant Hobson.
+
+Quant à la mer, elle se prenait autour de l\'île, mais non d\'une manière régulière et continue. De larges taches noirâtres, disséminées à la surface du nouvel icefield, indiquaient que les glaçons étaient encore mal cimentés entre eux.
+
+On entendait presque incessamment des fracas retentissants, dus à la rupture du banc, qui se composait d\'un nombre infini de morceaux insuffisamment soudés, dont la pluie dissolvait les arêtes supérieures. On ne sentait pas cette énorme pression qui se produit d\'ordinaire, quand les glaces naissent rapidement sous un froid vif et s\'accumulent les unes sur les autres. Les icebergs, les hummochs même, étaient rares, et la banquise ne se levait pas encore à l\'horizon.
+
+« Voilà une saison, répétait souvent le sergent Long, qui n\'eût point déplu aux chercheurs du passage du nord-ouest ou aux découvreurs du pôle Nord, mais elle est singulièrement défavorable à nos projets et nuisible à notre rapatriement ! »
+
+Ce fut ainsi pendant tout le mois d\'octobre, et Jasper Hobson constata que la moyenne de la température ne dépassa guère 32° Fahrenheit (zéro du thermomètre centigrade). Or, on sait qu\'il faut sept à huit degrés au-dessous de glace d\'un froid qui persiste pendant plusieurs jours, pour que la mer se solidifie.
+
+D\'ailleurs, une circonstance, qui n\'échappa pas plus à Mrs. Paulina Barnett qu\'au lieutenant Hobson, prouvait bien que l\'icefield n\'était en aucune façon praticable.
+
+Les animaux emprisonnés dans l\'île, animaux à fourrures, rennes, loups, etc., se seraient évidemment enfuis vers de plus basses latitudes, si la fuite eût été possible, c\'est-à-dire si la mer solidifiée leur eût offert un passage assuré. Or, ils abondaient toujours autour de la factorerie, et recherchaient de plus en plus le voisinage de l\'homme. Les loups eux-mêmes venaient jusqu\'à portée de fusil de l\'enceinte dévorer les martres ou les lièvres polaires qui formaient leur unique nourriture.
+
+Les rennes affamés, n\'ayant plus ni mousses ni herbe à brouter, rôdaient, par bande, aux environs du cap Bathurst. Un ours -- celui sans doute envers lequel Mrs. Paulina Barnett et Kalumah avaient contracté une dette de reconnaissance -- passait fréquemment entre les arbres de la futaie, sur les bords du lagon. Or, si ces divers animaux étaient là, et principalement les ruminants, auxquels il faut une nourriture exclusivement végétale, s\'ils étaient encore sur l\'île Victoria pendant ce mois d\'octobre, c\'est qu\'ils n\'avaient pu, c\'est qu\'ils ne pouvaient fuir.
+
+On a dit que la moyenne de la température se maintenait au degré de la glace fondante. Or, quand Jasper Hobson consulta son journal, il vit que l\'hiver précédent, dans ce même mois d\'octobre, le thermomètre marquait déjà vingt degrés Fahrenheit au-dessous de zéro (10° centig. Au-dessous de glace). Quelle différence, et combien la température se distribue capricieusement dans ces régions polaires !
+
+Les hiverneurs ne souffraient donc aucunement du froid, et ils ne furent point obligés de se confiner dans leur maison. Cependant, l\'humidité était grande, car des pluies, mêlées de neige, tombaient fréquemment, et le baromètre, par son abaissement, indiquait que l\'atmosphère était saturée de vapeurs.
+
+Pendant ce mois d\'octobre, Jasper Hobson et le sergent Long entreprirent plusieurs excursions afin de reconnaître l\'état de l\'icefield au large de l\'île. Un jour, ils allèrent au cap Michel, un autre à l\'angle de l\'ancienne baie des Morses, désireux de savoir si le passage était praticable, soit pour le continent américain, soit pour le continent asiatique, et si le départ pouvait être arrêté.
+
+Or, la surface du champ de glace était couverte de flaques d\'eau, et, en de certains endroits, criblée de crevasses qui eussent immanquablement arrêté la marche des traîneaux.
+
+Il ne semblait même pas qu\'un voyageur pût se hasarder à pied dans ce désert, presque aussi liquide que solide. Ce qui prouvait bien qu\'un froid insuffisant et mal réglé, une température intermittente, avaient produit cette solidification incomplète, c\'était la multitude de pointes, de cristaux, de prismes, de polyèdres de toutes sortes qui hérissaient la surface de l\'icefield, comme une concrétion de stalactites. Il ressemblait plutôt à un glacier qu\'à un champ, ce qui eût rendu la marche excessivement pénible, au cas où elle aurait été praticable.
+
+Le lieutenant Hobson et le sergent Long, s\'aventurant sur l\'icefield, firent ainsi un mille ou deux dans la direction du sud, mais au prix de peines infinies et en y employant un temps considérable. Ils reconnurent donc qu\'il fallait encore attendre, et ils revinrent très désappointés au fort Espérance.
+
+Les premiers jours de novembre arrivèrent. La température s\'abaissa un peu, mais de quelques degrés seulement. Ce n\'était pas suffisant. De grands brouillards humides enveloppaient l\'île Victoria. Il fallait pendant toute la journée tenir les lampes allumées dans les salles. Or, cette dépense de luminaire aurait dû être précisément très modérée. En effet, la provision d\'huile était fort restreinte, car la factorerie n\'avait point été ravitaillée par le convoi du capitaine Craventy, et, d\'autre part, la chasse aux morses était devenue impossible, puisque ces amphibies ne fréquentaient plus l\'île errante. Si donc l\'hivernage se prolongeait dans ces conditions, les hiverneurs en seraient bientôt réduits à employer la graisse des animaux, ou même la résine des sapins, afin de se procurer un peu de lumière. Déjà, à cette époque, les jours étaient excessivement courts, et le soleil, qui ne présentait plus au regard qu\'un disque pâle, sans chaleur et sans éclat, ne se promenait que pendant quelques heures au-dessus de l\'horizon.
+
+Oui ! C\'était bien l\'hiver, avec ses brumes, ses pluies, ses neiges, l\'hiver, -- moins le froid !
+
+Le 11 novembre, ce fut fête au fort Espérance, et ce qui le prouva, c\'est que Mrs. Joliffe servit quelques « extra » au dîner de midi. En effet, c\'était l\'anniversaire de la naissance du petit Michel Mac Nap. L\'enfant avait juste un an, ce jour-là. Il était bien portant et charmant avec ses cheveux blonds bouclés et ses yeux bleus. Il ressemblait à son père, le maître charpentier, ressemblance dont le brave homme se montrait extrêmement fier. On pesa solennellement le bébé au dessert. Il fallait le voir s\'agiter dans la balance, et quels petits cris il poussa ! Il pesait, ma foi, trente-quatre livres ! Quel succès, et quels hurrahs accueillirent ce poids superbe, et quels compliments on adressa à l\'excellente Mrs. Mac Nap, comme nourrice et comme mère ! On ne sait pas trop pourquoi le caporal Joliffe prit pour lui-même une forte part de ces congratulations ! Comme père nourricier, sans doute, ou comme bonne du bébé ! Le digne caporal avait tant porté, dorloté, bercé l\'enfant, qu\'il se croyait pour quelque chose dans sa pesanteur spécifique !
+
+Le lendemain, 12 novembre, le soleil ne parut pas au-dessus de l\'horizon.
+
+La longue nuit polaire commençait, et commençait neuf jours plus tôt que l\'hiver précédent sur le continent américain, ce qui tenait à la différence des latitudes entre ce continent et l\'île Victoria.
+
+Cependant, cette disparition du soleil n\'amena aucun changement dans l\'état de l\'atmosphère. La température resta ce qu\'elle avait été jusqu\'alors, capricieuse, indécise. Le thermomètre baissait un jour, remontait l\'autre. La pluie et la neige alternaient.
+
+Le vent était mou et ne se fixait à aucun point de l\'horizon, passant quelquefois dans la même journée par tous les rhumbs du compas. L\'humidité constante de ce climat était à redouter et pouvait déterminer des affections scorbutiques parmi les hiverneurs. Très heureusement, si, par le défaut du ravitaillement convenu, le jus de citron, le « lime-juice » et les pastilles de chaux commençaient à manquer, du moins les récoltes d\'oseille et de cochléaria avaient été abondantes, et, suivant les recommandations du lieutenant Hobson, on en faisait un quotidien usage.
+
+
+Or, sur la question de départ, il n\'y avait pas de doute. Mais si, par un hiver rigoureux, qui eût bien cimenté toutes les parties de l\'icefield, le voyage eût été déjà difficile, avec cette saison indécise, il devenait chose grave.
+
+Le 13 novembre, Jasper Hobson, Mrs. Paulina Barnett et le sergent Long se réunirent pour fixer le jour du départ. L\'opinion du sergent était qu\'il fallait quitter l\'île au plus tôt.
+
+« Car, disait-il, nous devons compter avec tous les retards possibles pendant une traversée de six cents milles. Or, il faut qu\'avant le mois de mars, nous ayons mis le pied sur le continent, ou nous risquerons, la débâcle s\'opérant, de nous retrouver dans une situation plus mauvaise encore que sur notre île.
+
+--- Mais, répondit Mrs. Paulina Barnett, la mer est-elle assez uniformément prise pour nous livrer passage ?
+
+--- Oui, répliqua le sergent Long, et chaque jour la glace tend à s\'épaissir. De plus, le baromètre remonte peu à peu. C\'est un indice d\'abaissement dans la température. Or, d\'ici le moment où nos préparatifs seront achevés -- et il faut bien une semaine -- je pense, j\'espère que le temps se sera mis décidément au froid.
+
+--- N\'importe ! dit le lieutenant Hobson, l\'hiver s\'annonce mal, et, véritablement, tout se met contre nous ! On a vu quelquefois d\'étranges saisons dans ces mers, et des baleiniers ont pu naviguer là où, même pendant l\'été, ils n\'eussent pas trouvé, en d\'autres années, un pouce d\'eau sous leur quille. Quoi qu\'il en soit, je conviens qu\'il n\'y a pas un jour à perdre. Je regrette seulement que la température habituelle à ces climats ne nous soit pas venue en aide.
+
+--- Elle viendra, dit Mrs. Paulina Barnett. En tout cas, il faut être prêt à profiter des circonstances. À quelle époque extrême penseriez-vous fixer le départ, monsieur Jasper ?
+
+
+--- Bien, dit le sergent Long. Nous devons donc nous préparer sans perdre un instant.
+
+--- Alors, monsieur Jasper, demanda Mrs. Paulina Barnett, vous allez faire connaître à nos compagnons la situation dans laquelle ils se trouvent ?
+
+--- Oui, madame.
+
+Le moment de parler est venu, puisque c\'est le moment d\'agir.
+
+--- Et quand comptez-vous leur apprendre ce qu\'ils ignorent ?
+
+--- À l\'instant.
+
+--- Sergent Long, ajouta Jasper Hobson, en se tournant vers le sous-officier, qui prit aussitôt une attitude militaire, faites rassembler tous vos hommes dans la grande salle pour recevoir une communication. »
+
+Le sergent Long tourna automatiquement sur ses talons et sortit d\'un pas méthodique, après avoir porté la main à son chapeau.
+
+Pendant quelques minutes, Mrs. Paulina Barnett et le lieutenant Hobson restèrent seuls, sans prononcer une parole.
+
+Le sergent rentra bientôt, et prévint Jasper Hobson que ses ordres étaient exécutés.
+
+Aussitôt, Jasper Hobson et la voyageuse entrèrent dans la grande salle.
+
+Tous les habitants de la factorerie, hommes et femmes, s\'y trouvaient rassemblés, vaguement éclairés par la lumière des lampes.
+
+Jasper Hobson s\'avança au milieu de ses compagnons, et là, d\'un ton grave :
+
+« Mes amis, dit-il, jusqu\'ici j\'avais cru devoir, pour vous épargner des inquiétudes inutiles, vous cacher la situation dans laquelle se trouve notre établissement du fort Espérance\... Un tremblement de terre nous a séparés du continent\... Ce cap Bathurst a été détaché de la côte américaine\... Notre presqu\'île n\'est plus qu\'une île de glace, une île errante\... »
+
+En ce moment, Marbre s\'avança vers Jasper Hobson, et d\'une voix assurée : « Nous le savions, mon lieutenant ! » dit-il.
+
+
+]{.calibre20}
+
+
+LE PAYS DES FOURRURES
+
+Deuxième Partie
+
+
+]{.calibre20}

@@ -1,0 +1,3564 @@
+## [[ Première partie]{.pcalibre lang="X-NONE"}]{#_Toc342942139 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_533 .calibre21}
+
+!{.calibre22}
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 1 -- Quelques faits, quelques dates]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942140 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-1-quelques-faits-quelques-dates .calibre171 .sigil_not_in_toc}
+
+« On plaint ce pauvre genre humain qui s\'égorge à propos de quelques arpents de glace », disaient les philosophes à la fin du 18ème siècle -- et ce n\'est pas ce qu\'ils ont dit de mieux, puisqu\'il s\'agissait du Canada, dont les Français disputaient alors la possession aux soldats de l\'Angleterre.
+
+Deux cents ans avant eux, au sujet de ces territoires américains, revendiqués par les rois d\'Espagne et de Portugal, François 1er s\'était écrié : « Je voudrais bien voir l\'article du testament d\'Adam, qui leur lègue ce vaste héritage ! » Le roi avait d\'autant plus raison d\'y prétendre, qu\'une partie de ces territoires devait bientôt prendre le nom de Nouvelle-France.
+
+Les Français, il est vrai, n\'ont pu conserver cette magnifique colonie américaine ; mais sa population, en grande majorité, n\'en est pas moins restée française, et elle se rattache à l\'ancienne Gaule par ces liens du sang, cette identité de race, ces instincts naturels, que la politique internationale ne parvient jamais à briser.
+
+En réalité, les « quelques arpents de glace », si dédaigneusement qualifiés, forment un royaume dont la superficie égale celle de l\'Europe.
+
+Un Français avait pris possession de ces vastes territoires dès l\'année 1534. C\'est au coeur même de cette contrée que Jacques Cartier, originaire de Saint-Malo, poussa sa marche audacieuse, en remontant le cours du fleuve, auquel fut donné le nom de Saint-Laurent. L\'année suivante, le hardi Malouin, portant plus avant son exploration vers l\'ouest, arriva devant un groupe de cabanes -- Canada en langue indienne -- d\'où est sortie Québec, puis, atteignit cette bourgade d\'Hochelaga, d\'où est sortie Montréal.
+
+Deux siècles plus tard, ces deux cités allaient successivement prendre le titre de capitales, concurremment avec Kingston et Toronto, en attendant que, dans le but de mettre fin à leurs rivalités politiques, la ville d\'Ottawa fut déclarée siège du gouvernement de cette colonie américaine, que l\'Angleterre appelle actuellement Dominion of Canada.
+
+Quelques faits, quelques dates, suffiront à faire connaître les progrès de cet important état depuis sa fondation jusqu\'à la période de 1830 à 1840,  pendant laquelle se sont déroulés les événements relatifs à cette histoire.
+
+Sous Henri IV, en 1595, Champlain, un des bons marins de l\'époque, revient en Europe après un premier voyage, pendant lequel il a choisi l\'emplacement où sera fondée Québec. Il prend part alors à l\'expédition de M. De Mons, porteur de lettres patentes pour le commerce exclusif des pelleteries, qui lui accordent le droit de concéder des terres dans le Canada. Champlain, dont le caractère aventureux ne s\'accommode guère des choses du négoce, tire de son côté, remonte de nouveau le cours du Saint-Laurent, bâtit Québec en 1606. Depuis deux ans déjà, les Anglais avaient jeté les bases de leur premier établissement d\'Amérique sur les rivages de la Virginie. De là, les germes d\'une jalousie de nationalité ; et même, dès cette époque, se manifestent les prodromes de cette lutte que l\'Angleterre et la France se livreront sur le théâtre du nouveau monde.
+
+Au début, les indigènes sont nécessairement mêlés aux diverses phases de cet antagonisme. Les Algonquins et les Hurons se déclarent pour Champlain contre les Iroquois, qui viennent en aide aux soldats du Royaume-Uni. En 1609, ceux-ci sont battus sur les bords du lac, auquel on a conservé le nom du marin français.
+
+Deux autres voyages -- 1613 et 1615 -- conduisent Champlain jusque dans les régions presque inconnues de l\'ouest, sur les bords du lac Huron. Puis, il quitte l\'Amérique et revient une troisième fois au Canada. Enfin, après avoir donné de tête et de bras contre des intrigues de toutes sortes, il reçoit, en 1620, le titre de gouverneur de la Nouvelle-France.
+
+Sous ce nom se crée alors une compagnie, dont la constitution est approuvée par Louis XIII en 1628. Cette compagnie s\'engage à faire passer en Canada, dans l\'espace de quinze ans, quatre mille Français catholiques. Des quelques vaisseaux expédiés à travers l\'Océan, les premiers tombent aux mains des Anglais, qui s\'avancent à travers la vallée du Saint-Laurent et somment Champlain de se rendre. Refus de l\'intrépide marin, auquel le manque de ressources et de secours impose bientôt une capitulation -- honorable d\'ailleurs -- qui, en 1629, donne Québec aux Anglais. En 1632, Champlain repart de Dieppe avec trois vaisseaux, reprend possession du Canada, restitué à la France par le traité du 13 juillet de la même année, jette les fondements de villes nouvelles, établit le premier collège canadien sous la direction des Jésuites, et meurt le jour de Noël -- en 1635 -- dans le pays conquis à force de volonté et d\'audace.
+
+Pendant quelque temps, des relations commerciales se nouent entre les colons français et les colons de la Nouvelle-Angleterre. Mais les premiers ont à lutter contre les Iroquois, qui sont devenus redoutables par leur nombre, car la population européenne n\'est encore que de deux mille cinq cents âmes. Aussi la compagnie, dont les affaires périclitent, s\'adresse-t-elle tout d\'abord à Colbert, qui envoie le marquis de Tracy à la tête d\'une escadre. Les Iroquois repoussés reviennent bientôt à la charge, se sentant soutenus par les Anglais, et un horrible massacre de colons s\'accomplit dans le voisinage de Montréal.
+
+Cependant, si, en 1665, la population s\'est accrue du double, ainsi que le domaine superficiel de la colonie, il n\'y a encore que treize mille Français en Canada, tandis que les Anglais comptent déjà deux cent mille habitants de race saxonne dans la Nouvelle-Angleterre. La guerre recommence. Elle prend pour théâtre cette Acadie, qui forme actuellement la Nouvelle-Écosse, puis, s\'étend jusqu\'à Québec, d\'où les Anglais sont repoussés en 1690. Enfin le traité de Ryswick -- 1697 -- assure à la France la possession de tous les territoires que la hardiesse de ses découvreurs, le courage de ses enfants, avaient fait siens dans le Nord-Amérique. En même temps, les tribus insoumises, Iroquois, Hurons et autres, se mettent sous la protection française par la convention de Montréal.
+
+En 1703, le marquis de Vaudreuil, fils d\'un premier gouverneur de ce nom, est nommé au gouvernement général du Canada, que la neutralité des Iroquois rend plus aisé à défendre contre les agressions des colons de la Grande-Bretagne. La lutte reprend dans les établissements de Terre-Neuve, qui sont anglais, et dans l\'Acadie, qui, en 1711, échappe aux mains du marquis de Vaudreuil. Cet abandon va permettre aux forces anglo-américaines de se concentrer pour la conquête du domaine canadien, où les Iroquois, travaillés en dessous, redeviennent douteux. C\'est alors que le traité d\'Utrecht -- 1713 -- consomme la perte de l\'Acadie, après avoir assuré pour trente ans la paix avec l\'Angleterre.
+
+Durant cette période de calme, la colonie fait de réels progrès. Les Français construisent quelques nouveaux forts, afin d\'en assurer la possession à leurs descendants. En 1721, la population est de vingt-cinq mille âmes, et de cinquante mille en 1744. On peut croire que les temps difficiles sont passés. Il n\'en est rien. Avec la guerre de la succession d\'Autriche, l\'Angleterre et la France se retrouvent aux prises en Europe, et, par suite, en Amérique.
+
+Il y a des alternatives de succès et de revers. Enfin le traité d\'Aix-la-Chapelle -- 1747 -- remet les choses dans l\'état où elles étaient au traité d\'Utrecht.
+
+Mais, si l\'Acadie est désormais possession britannique, elle est demeurée bien française par les tendances générales de sa population. Aussi, le Royaume-Uni provoque-t-il l\'immigration anglo-saxonne, afin d\'assurer sa prépondérance de race dans les provinces conquises. La France veut en faire autant pour le Canada ; elle y réussit mal, et, sur ces entrefaites, l\'occupation des territoires de l\'Ohio rejette les rivaux en présence.
+
+C\'est alors, devant le fort Duquesne, récemment élevé par les compatriotes du marquis de Vaudreuil, que Washington apparaît à la tête d\'une forte colonne anglo-américaine. Franklin ne venait-il pas de déclarer que le Canada ne pouvait appartenir aux Français ? Deux escadres partent d\'Europe -- l\'une de France, l\'autre d\'Angleterre. Après d\'épouvantables massacres, qui ensanglantent l\'Acadie et les territoires de l\'Ohio, la guerre est officiellement déclarée par la Grande-Bretagne à la date du 18 mai 1756.
+
+En ce même mois, sur une pressante demande de renforts faite par M. De Vaudreuil, le marquis de Montcalm vient prendre le commandement de l\'armée régulière du Canada -- quatre mille hommes en tout. Le ministre n\'avait pu disposer d\'un effectif plus considérable, car la guerre d\'Amérique n\'était pas populaire en France, si elle l\'était à un rare degré dans le Royaume-Uni.
+
+Dès le début de la campagne, premiers succès au profit de Montcalm. Prise du fort William-Henry, bâti au sud de ce lac George, qui forme le prolongement du lac Champlain.
+
+Défaite des troupes anglo-américaines à la journée de Carillon. Mais, malgré ces brillants faits d\'armes, évacuation du fort Duquesne par les Français, et perte du fort Niagara, rendu par une garnison trop faible, que la trahison des Indiens empêche de secourir en temps utile. Enfin, prise de Québec, en septembre 1759, par le général Wolfe à la tête de huit mille hommes de débarquement. Les Français, malgré la bataille qu\'ils gagnent à
+
+Montmorency, ne peuvent éviter une défaite définitive. Montcalm est tué, Wolfe est tué. Les Anglais sont en partie maîtres des provinces canadiennes.
+
+L\'année suivante, une tentative est faite pour reprendre Québec, cette clef du Saint-Laurent. Elle échoue, et, peu de temps après, Montréal est contraint à capituler.
+
+Enfin, le 10 février 1763, un traité intervient. Louis XV renonce à ses prétentions sur l\'Acadie au profit de l\'Angleterre. Il lui cède en toute propriété le Canada et ses dépendances. La Nouvelle-France n\'existe plus que dans le coeur de ses enfants. Mais les Anglais n\'ont jamais su s\'adjoindre les peuples qu\'ils ont soumis ; ils ne savent que les détruire. Or, on ne détruit pas une nationalité, lorsque la majorité des habitants a gardé l\'amour de son ancienne patrie et ses aspirations d\'autrefois. En vain la Grande-Bretagne organise-t-elle trois gouvernements, Québec, Montréal et Trois-Rivières. En vain veut-elle imposer la loi anglaise aux Canadiens, les astreindre à prêter un serment de fidélité. À la suite d\'énergiques réclamations, en 1774, un bill est adopté, qui remet la colonie sous l\'empire de la législation française.
+
+D\'ailleurs, s\'il n\'a plus rien à redouter de la France, le Royaume-Uni va se trouver en face des Américains.
+
+Ceux-ci, en effet, traversant le lac Champlain, prennent Carillon, les forts Saint-Jean et Frédérik, marchent avec le général Montgomery sur Montréal dont ils s\'emparent, puis sur Québec qu\'ils ne parviennent pas à prendre d\'assaut.
+
+L\'année suivante -- 4 juillet 1776 -- est proclamée la déclaration d\'indépendance des États-Unis d\'Amérique.
+
+Vient alors une période lamentable pour les Franco-Canadiens. Les Anglais sont dominés par une crainte : c\'est que cette colonie leur échappe en entrant dans la grande fédération et se réfugie sous le pavillon étoilé que les Américains déploient à l\'horizon. Mais il n\'en fut rien -- ce qu\'il est permis de regretter dans l\'intérêt des vrais patriotes.
+
+En 1791, une nouvelle constitution divise le pays en deux provinces : le haut Canada, à l\'ouest, le bas Canada à l\'est, avec Québec pour capitale. Chaque province possède un Conseil législatif, nommé par la Couronne, et une chambre d\'assemblée, élue pour quatre ans par les francs tenanciers des villes. La population est alors de cent trente-cinq mille habitants, parmi lesquels on n\'en compte que quinze mille d\'origine anglaise.
+
+Ce que doivent être les aspirations des colons, violentés par la Grande-Bretagne, se résume dans la devise du journal le Canadien, fondé à Québec en 1806 : Nos institutions, notre langue et nos lois. Ils se battent pour conquérir ce triple desideratum, et la paix, signée à Gand, en 1814, termine cette guerre, où les succès et les revers se compensèrent de part et d\'autre.
+
+La lutte recommence encore entre les deux races, qui occupent le Canada de façon si inégale.
+
+C\'est d\'abord sur le terrain purement politique qu\'elle s\'engage. Les députés réformistes, à la suite de leur collègue, l\'héroïque Papineau, ne cessent d\'attaquer l\'autorité de la métropole dans toutes les questions, -- questions électorales, questions des terres qui sont concédées dans une proportion énorme aux colons de sang anglais, etc. Les gouverneurs ont beau proroger ou dissoudre la Chambre, rien n\'y fait. Les opposants ne se laissent point décourager un instant. Les royaux -- les loyalistes -- comme ils s\'appellent, ont l\'idée d\'abroger la constitution de 1791, de réunir le Canada en une seule province, afin de donner plus d\'influence à l\'élément anglais, de proscrire l\'usage de la langue française qui est restée la langue parlementaire et judiciaire. Mais Papineau et ses amis réclament avec une telle énergie que la Couronne renonce à mettre en oeuvre ce détestable projet.
+
+Cependant la discussion s\'accentue. Les élections amènent des collisions sérieuses. En mai 1831, à Montréal, une émeute éclate, qui coûte la vie à trois patriotes franco-canadiens. Des meetings rassemblent la population des villes et des campagnes. Une active propagande se poursuit à travers toute la province. Enfin un manifeste énumère dans « quatre-vingt-douze résolutions » les griefs de la race canadienne contre la race anglo-saxonne, et demande la mise en accusation du gouverneur général, lord Aylmer. Le manifeste est adopté par la Chambre, malgré l\'opposition de quelques réformistes qui le trouvent insuffisant. En 1834, il y a lieu de procéder à de nouvelles élections. Papineau et ses partisans sont réélus. Fidèles aux réclamations de la précédente législature, ils insistent pour la mise en accusation du gouverneur général.
+
+Mais la Chambre est prorogée en mars 1835, et le ministère remplace lord Aylmer par le commissaire royal lord Gosford, auquel sont adjoints deux commissaires, chargés d\'étudier les causes de l\'agitation actuelle. Lord Gosford proteste des dispositions conciliantes de la Couronne envers ses sujets d\'outre-mer, sans obtenir que les députés veuillent reconnaître les pouvoirs de la commission d\'enquête.
+
+Entre temps, grâce à l\'émigration, le parti anglais s\'est peu à peu renforcé -- même dans le bas Canada. À Montréal, à Québec, des associations constitutionnelles sont formées, afin de comprimer les réformistes. Si le gouverneur est obligé de dissoudre ces associations, créées contrairement à la loi, elles n\'en restent pas moins prêtes à l\'action. On sent que l\'attaque sera très vive des deux côtés. L\'élément anglo-américain est plus audacieux que jamais. Il n\'est question que d\'angliciser le bas Canada par tous les moyens. Les patriotes sont décidés à la résistance légale ou extra-légale. De cette situation si tendue, il ne peut sortir que de terribles heurts. Le sang des deux races va couler sur le sol conquis autrefois par l\'audace des découvreurs français.
+
+Telle était la situation du Canada en l\'année 1837, au début de cette histoire. Il importait de mettre en lumière l\'antagonisme d\'origine des éléments français et anglais, la vitalité de l\'un, la ténacité de l\'autre.
+
+Et d\'ailleurs, cette Nouvelle-France, n\'était-ce pas un morceau de la patrie, comme cette Alsace-Lorraine que l\'invasion brutale allait arracher trente ans plus tard ? Et les efforts tentés par les Franco-Canadiens pour lui rendre au moins son autonomie, n\'est-ce pas là un exemple que les Français de l\'Alsace et de la Lorraine ne doivent jamais oublier ?
+
+C\'était précisément pour arrêter leurs dispositions en prévision d\'une insurrection probable, que le gouverneur, lord Gosford, le commandant général, sir John Colborne, le colonel Gore et le ministre de la police, Gilbert Argall, avaient pris rendez-vous dans la soirée du 23 août.
+
+Les Indiens désignent par le mot « kébec » tout rétrécissement de fleuve produit par un brusque rapprochement des rives. De là, le nom de la capitale, qui est bâtie sur un promontoire, sorte de Gibraltar, élevé en amont de l\'endroit où le Saint-Laurent s\'évase comme un bras de mer. Ville haute sur la colline abrupte, qui domine le cours du fleuve, ville basse étendue sur la rive, où sont construits les entrepôts et les docks, rues étroites avec trottoirs de planches, maisons de bois pour la plupart, quelques édifices sans grand style, palais du gouverneur, hôtels de la poste et de la marine, cathédrales anglaise et française, une esplanade très fréquentée des promeneurs, une citadelle occupée par une garnison assez importante, telle était alors la vieille cité de Champlain, plus pittoresque, en somme, que les villes modernes du Nord-Amérique.
+
+Du jardin du gouverneur, la vue s\'étendait au loin sur le superbe fleuve dont les eaux se séparent, en aval, à la fourche de l\'île d\'Orléans. La soirée était magnifique. L\'atmosphère attiédie ne se troublait point sous l\'âpre souffle du nord-ouest, si pernicieux en toutes saisons, quand il se propage à travers la vallée du Saint-Laurent. Dans l\'ombre d\'un square, une de ses faces éclairée par la lumière de la lune, se dressait la pyramide quadrangulaire, élevée à la mémoire de Wolfe et de Montcalm, réunis le même jour par la mort.
+
+Depuis une heure déjà, le gouverneur général et les trois autres hauts personnages s\'entretenaient de la gravité d\'une situation qui les obligeait à se tenir incessamment sur le qui-vive.
+
+Les symptômes d\'un soulèvement prochain n\'apparaissaient que trop clairement. Il convenait d\'être prêt à toute éventualité.
+
+« De combien d\'hommes pouvez-vous disposer ? Venait de demander lord Gosford à sir John Colborne.
+
+--- D\'un nombre malheureusement trop restreint, répondit le général, et encore devrai-je dégarnir le comté d\'une partie des troupes qui l\'occupent.
+
+--- Précisez, commandant.
+
+--- Je ne pourrai mettre en avant que quatre bataillons et sept compagnies d\'infanterie, car il est impossible de rien prendre sur les garnisons des citadelles de Québec et de Montréal.
+
+--- Qu\'avez-vous en artillerie ?
+
+--- Trois ou quatre pièces de campagne.
+
+--- Et en cavalerie.
+
+--- Un piquet seulement.
+
+--- S\'il faut disperser cet effectif dans les comtés limitrophes, fit observer le colonel Gore, il sera insuffisant ! Peut-être est-il regrettable, monsieur le gouverneur, que Votre Seigneurie ait dissous les associations constitutionnelles, formées par les loyalistes ! Nous aurions là plusieurs centaines de carabiniers volontaires, dont le secours ne serait point à dédaigner.
+
+--- Je ne pouvais laisser ces associations s\'organiser, répondit lord Gosford. Leur contact avec la population aurait engendré des collisions quotidiennes. Évitons tout ce qui pourrait provoquer une explosion. Nous sommes dans une soute à poudre, et il n\'y faut marcher qu\'avec des chaussons de lisière ! »
+
+Le gouverneur général n\'exagérait pas.
+
+C\'était un homme de grand sens et d\'esprit conciliant. Dès son arrivée dans la colonie, il avait montré beaucoup de prévenances envers les colons français, ayant -- ainsi que l\'a fait observer l\'historien Garneau -- « une pointe de gaieté irlandaise qui s\'accommodait bien de la gaieté canadienne. » Si la rébellion n\'avait pas éclaté encore, on le devait à la circonspection, à la douceur, à l\'esprit de justice que lord Gosford apportait dans ses rapports avec ses administrés. Par nature comme par raison, il répugnait aux mesures violentes.
+
+« La force, répétait-il, comprime, mais ne réprime pas. En Angleterre, on oublie trop que le Canada est voisin des États-Unis, et que les États-Unis ont fini par conquérir leur indépendance ! Je vois bien qu\'à Londres, le ministère veut une politique militante. Aussi, sur le conseil des commissaires, la Chambre des lords et la Chambre des communes ont-elles adopté à une grande majorité une proposition qui tend à mettre en accusation les députés de l\'opposition, à employer les deniers publics sans contrôle, à modifier la constitution de manière à doubler dans les districts le nombre des électeurs d\'origine anglaise ! Mais cela n\'est point faire montre de sagesse. Il y aura du sang versé de part et d\'autre ! »
+
+C\'était à craindre, réellement. Les dernières mesures, adoptées par le Parlement anglais, avaient produit une agitation qui ne demandait qu\'à se manifester à tout propos. Conciliabules secrets, meetings publics, surexcitaient l\'opinion. Des faits, on passerait bientôt aux actes. Les provocations s\'échangeaient à Montréal comme à Québec entre les réformistes et les partisans de la domination anglo-saxonne -- surtout les anciens membres des associations constitutionnelles.
+
+La police n\'ignorait pas qu\'un appel aux armes avait été répandu à travers les districts, les comtés, les paroisses. On avait été jusqu\'à pendre en effigie le gouverneur général. Il y avait donc à prendre des dispositions.
+
+« M. De Vaudreuil a-t-il été vu à Montréal ? demanda lord Gosford.
+
+--- Il ne paraît point avoir quitté son habitation de Montcalm, répondit Gilbert Argall. Mais ses amis Farran, Clerc, Vincent Hodge, le visitent assidûment et sont en rapport quotidien avec les députés libéraux, et plus particulièrement avec l\'avocat Gramont, de Québec.
+
+--- Si un mouvement éclate, dit sir John Colborne, nul doute qu\'il ait été préparé par eux.
+
+--- Aussi, en les faisant arrêter, ajouta le colonel Gore, peut-être Votre Seigneurie écraserait-elle le complot dans l\'oeuf ?
+
+--- À moins qu\'on ne le fît éclore plus tôt ! » répondit le gouverneur général. Puis, se retournant, vers le ministre de la police :
+
+« Si je ne me trompe, demanda-t-il, M. De Vaudreuil et ses amis ont déjà figuré dans les insurrections de 1832 et de 1835 ?
+
+--- En effet, répondit sir Gilbert Argall, ou, du moins, on a eu lieu de le supposer ; mais les preuves directes ont manqué, et il a été impossible de les poursuivre, ainsi qu\'on l\'avait fait lors du complot de 1825.
+
+--- Ce sont ces preuves qu\'il importe de se procurer à tout prix, dit sir John Colborne, et, afin d\'en finir, une fois pour toutes, avec les menées des réformistes, laissons-les s\'engager plus avant. Rien d\'abominable comme une guerre civile, je le sais ! Mais, s\'il faut en arriver là, qu\'on la fasse sans merci, et que la lutte se termine au profit de l\'Angleterre ! »
+
+Parler en ces termes était bien dans le rôle du commandant en chef des forces britanniques en Canada.
+
+Toutefois, si John Colborne était homme à réprimer une insurrection avec la dernière rigueur, s\'immiscer dans ces surveillances occultes, qui sont du domaine spécial de la police, eût révolté son esprit militaire. Il suit de là que, depuis plusieurs mois, c\'était uniquement aux agents de Gilbert Argall qu\'était dévolu le soin d\'observer sans répit les agissements du parti franco-canadien. Les villes, les paroisses de la vallée du Saint-Laurent, et plus particulièrement celles des comtés de Verchères, de Chambly, de Laprairie, de l\'Acadie, de Terrebonne, des Deux-Montagnes, étaient incessamment parcourues par les nombreux détectives du ministre. À Montréal, à défaut de ces associations constitutionnelles, dont le colonel Gore regrettait la dissolution, le Doric Club -- ses membres comptaient parmi les plus acharnés loyalistes -- se donnait mission de réduire les insurgés par tous les moyens possibles. Aussi lord Gosford pouvait-il craindre qu\'à tout instant, de jour ou de nuit, le choc vînt à se produire.
+
+On comprend que, malgré ses tendances personnelles, l\'entourage du gouverneur général le poussait à soutenir les bureaucrates -- ainsi appelait-on les partisans de l\'autorité de la Couronne -- contre les partisans de la cause nationale. D\'ailleurs, sir John Colborne n\'était point pour les demi-mesures, comme il le prouva plus tard, lorsqu\'il succéda à lord Gosford dans le gouvernement de la colonie. Quand au colonel Gore, vieux militaire, décoré de Waterloo, il fallait, à l\'entendre, agir militairement et sans retard.
+
+Le 7 mai de la présente année, une assemblée avait réuni à Saint-Ours, petite bourgade du comté de Richelieu, les chefs réformistes. Là furent prises des résolutions, qui devinrent le programme politique de l\'opposition franco-canadienne.
+
+Entre autres, il convient de citer celle-ci :
+
+« Le Canada, comme l\'Irlande, doit se rallier autour d\'un homme, doué d\'une haine de l\'oppression et d\'un amour de sa patrie, que rien, ni promesses, ni menaces, ne pourront jamais ébranler. »
+
+Cet homme, c\'était le député Papineau, dont le sentiment populaire faisait à juste titre un O\'Connell.
+
+En même temps, l\'assemblée décidait « de s\'abstenir autant que possible de consommer les articles importés et de ne faire usage que des produits fabriqués dans le pays, afin de priver le gouvernement des revenus provenant des droits imposés sur les marchandises étrangères. »
+
+À ces déclarations, lord Gosford dut répondre, le 15 juin, par une proclamation défendant toute réunion séditieuse, et ordonnant aux magistrats et officiers de la milice de les dissoudre.
+
+La police manoeuvrait donc avec une insistance qui ne se lassait plus, employant ses agents les plus déliés, ne reculant même pas à provoquer des trahisons -- ainsi que cela s\'était fait déjà -- par l\'appât de sommes considérables.
+
+Mais, bien que Papineau fût l\'homme en vue, il en était un autre qui travaillait dans l\'ombre et si mystérieusement que les principaux réformistes ne l\'avaient jamais aperçu qu\'en de rares circonstances. Autour de ce personnage s\'était créée une véritable légende, qui lui donnait une influence extraordinaire sur l\'esprit des masses : Jean-Sans-Nom -- on ne le connaissait que sous cette appellation énigmatique. Comment s\'étonner dès lors qu\'il fût question de lui dans l\'entretien du gouverneur général et de ses hôtes ?
+
+« Et ce Jean-Sans-Nom, demanda sir John Colborne, a-t-on retrouvé ses traces ?
+
+--- Pas encore, répondit le ministre de la police.
+
+J\'ai lieu de croire, pourtant, qu\'il a reparu dans les comtés du bas Canada, et même qu\'il est venu récemment à Québec !
+
+--- Quoi ! Vos agents n\'ont pu lui mettre la main dessus ? s\'écria le colonel Gore.
+
+--- Ce n\'est pas facile, général.
+
+--- Cet homme a-t-il donc l\'influence qu\'on lui prête ? reprit lord Gosford.
+
+--- Assurément, répondit le ministre, et je puis affirmer à Votre Seigneurie que cette influence est très grande.
+
+--- Quel est cet homme ?
+
+--- Voilà ce qu\'on n\'a jamais pu découvrir, dit sir John Colborne. N\'est-ce pas, mon cher Argall ?
+
+--- C\'est vrai, général ! On ne sait quel est ce personnage, ni d\'où il vient, ni où il va. C\'est ainsi qu\'il a figuré, presque invisiblement, dans les dernières insurrections. Aussi n\'est-il pas douteux que les Papineau, les Viger, les Lacoste, les Vaudreuil, les Farran, les Gramont, tous les chefs enfin, comptent sur son intervention au moment voulu. Ce Jean-Sans-Nom est passé à l\'état d\'être quasi-surnaturel dans les districts du Saint-Laurent, en amont de Montréal, comme en aval de Québec. Si l\'on en croit la légende, il a tout ce qu\'il faut pour entraîner les villes et les campagnes, une audace extraordinaire, un courage à toute épreuve. Et puis, je vous l\'ai dit, c\'est le mystère, c\'est l\'inconnu !
+
+--- Vous pensez qu\'il est venu dernièrement à Québec ? demanda lord Gosford.
+
+--- Les rapports de police, du moins, permettent de le supposer, répondit Gilbert Argall. Aussi ai-je mis en campagne un homme des plus actifs et des plus fins, ce Rip, qui a déployé tant d\'intelligence dans l\'affaire de Simon Morgaz.
+
+--- Simon Morgaz, dit sir John Colborne, celui qui, en 1825, a si opportunément livré, à prix d\'or, ses complices de la conspiration de Chambly ?
+
+--- Lui-même !
+
+--- Et sait-on où il est ?
+
+--- On ne sait qu\'une chose, répondit Gilbert Argall, c\'est que, repoussé de tous ceux de sa race, de tous ces Franco-Canadiens qu\'il avait trahis, il a disparu. Peut-être a-t-il quitté le nouveau continent ? Peut-être est-il mort ?
+
+--- Eh bien, le moyen qui a réussi près de Simon Morgaz, demanda sir John Colborne, ne pourrait-il réussir de nouveau près de l\'un des chefs réformistes ?
+
+--- N\'ayez pas cette idée, général ! répondit lord Gosford. De tels patriotes, il faut le reconnaître, sont au-dessus de toute atteinte. Qu\'ils se posent en ennemis de l\'influence anglaise et rêvent pour le Canada l\'indépendance que les États-Unis ont conquise sur l\'Angleterre, ce n\'est malheureusement que trop vrai ! Mais espérer qu\'on pourra les acheter, les décider à trahir par des promesses d\'argent ou d\'honneurs, jamais ! J\'en ai la conviction, vous ne trouverez point un traître parmi eux !
+
+--- On en disait autant de Simon Morgaz, répondit ironiquement sir John Colborne ; or, il n\'en a pas moins livré ses compagnons ! Et, précisément, ce Jean-Sans-Nom, dont vous parliez, qui sait s\'il n\'est pas à vendre ?
+
+--- Je ne le crois pas, général, répliqua vivement le ministre de la police.
+
+--- En tout cas, ajouta le colonel Gore, que ce soit pour l\'acheter ou pour le pendre, la première condition est de s\'en emparer ; et, puisqu\'il a été signalé à Québec\... »
+
+En ce moment, un homme apparut au tournant de l\'une des allées du jardin, et s\'arrêta à une dizaine de pas.
+
+Le ministre reconnut le policier, ou plutôt l\'entrepreneur de police -- qualification qu\'il méritait à tous égards.
+
+Cet homme, en effet, n\'appartenait pas à la brigade régulière de Comeau, le chef des agents anglo-canadiens.
+
+Gilbert Argall lui fit signe de s\'approcher.
+
+« C\'est Rip, de la maison Rip and Co, dit-il, en s\'adressant à lord Gosford. Votre Seigneurie veut-elle lui permettre de nous faire son rapport ? »
+
+Lord Gosford acquiesça d\'un signe de tête. Rip s\'approcha respectueusement et attendit qu\'il convînt à Gilbert Argall de l\'interroger -- ce que celui-ci fit en ces termes :
+
+« Avez-vous acquis la certitude que Jean-Sans-Nom ait été vu à Québec ? -- Je crois pouvoir l\'affirmer à votre Honneur !
+
+--- Et comment se fait-il qu\'il ne soit pas arrêté ? demanda lord Gosford.
+
+--- Votre Seigneurie voudra bien excuser mes associés et moi, répondit Rip, mais nous avons été prévenus trop tard. Avant-hier, Jean-Sans-Nom avait été indiqué comme ayant visité une des maisons de la rue du Petit-Champlain, celle qui est contiguë à la boutique du tailleur Émotard, à gauche, en montant les premières marches de ladite rue. J\'ai donc fait cerner cette maison, qui est habitée par un sieur Sébastien Gramont, avocat et député, très lancé dans le parti réformiste. Mais Jean-Sans-Nom ne s\'y était pas même présenté, bien que le député Gramont ait certainement eu des relations avec lui. Nos perquisitions ont été inutiles.
+
+--- Croyez-vous que cet homme soit encore à Québec ? demanda sir John Colborne.
+
+--- Je ne saurais répondre affirmativement à Votre Excellence, répondit Rip. -- Vous ne le connaissez pas ?
+
+--- Je ne l\'ai jamais vu, et, en réalité, il est bien peu de gens qui le connaissent !
+
+--- Sait-on, du moins, quelle direction il a prise en sortant de Québec ? -- Je l\'ignore, répondit Rip.
+
+--- Et quelle est votre idée à ce sujet ? demanda le ministre de la police.
+
+--- Mon idée est que cet homme a dû se diriger vers le comté de Montréal, où les agitateurs paraissent se concentrer de préférence. Si une sédition se prépare, c\'est dans cette partie du bas Canada qu\'elle éclatera vraisemblablement. J\'en conclu que Jean-Sans-Nom doit être caché dans quelque village voisin des rives du Saint-Laurent\...
+
+--- Justement, répondit Gilbert Argall, et c\'est de ce côté qu\'il convient de poursuivre les recherches.
+
+--- Eh bien, donnez des ordres en conséquence, dit le gouverneur général.
+
+--- Votre Seigneurie va être satisfaite. Rip, dès demain, vous quitterez Québec avec les meilleurs employés de votre agence. De mon côté, je ferai particulièrement surveiller M. De Vaudreuil et ses amis, avec lesquels ce
+
+Jean-Sans-Nom a certainement des entrevues plus ou moins fréquentes. Tâchez de retrouver ses traces, n\'importe par quel moyen. C\'est le mandat dont le gouverneur général vous charge spécialement.
+
+--- Et il sera fidèlement rempli, répondit le chef de la maison Rip and Co. Je partirai dès demain.
+
+--- Nous approuvons d\'avance, ajouta Gilbert Argall, tout ce que vous croirez devoir faire pour opérer la capture de ce dangereux partisan. Il nous le faut mort ou vif, avant qu\'il puisse soulever la population franco-canadienne par sa présence. Vous êtes intelligent et zélé, Rip, vous l\'avez prouvé, il y a une douzaine d\'années, dans l\'affaire Morgaz. Nous comptons de nouveau sur votre zèle et votre intelligence. Allez. »
+
+Rip se préparait à partir, et il avait déjà fait quelques pas en arrière, lorsqu\'il se ravisa.
+
+« Puis-je soumettre une question à Votre Honneur ? dit-il en s\'adressant au ministre.
+
+--- Une question ?
+
+--- Oui, Votre Honneur, et il est nécessaire qu\'elle soit résolue pour la régularité des écritures la bonne tenue des livres de la maison Rip and Co.
+
+--- Parlez, dit Gilbert Argall.
+
+--- La tête de Jean-Sans-Nom est-elle mise à prix ?
+
+--- Pas encore !
+
+--- Il faut qu\'elle le soit, dit sir John Colborne.
+
+--- Elle l\'est, répondit lord Gosford.
+
+--- Et à quel prix ? demanda Rip.
+
+--- Quatre mille piastres.
+
+--- Elle en vaut six mille, répondit Rip. J\'aurai des frais de déplacement, des débours pour renseignements spéciaux.
+
+--- Soit, dit lord Gosford.
+
+--- Ce sera de l\'argent que Votre Seigneurie n\'aura point à regretter\... -- S\'il est gagné\... Ajouta le ministre.
+
+--- Il le sera, Votre Honneur ! »
+
+Et, sur cette affirmation, un peu hasardée peut-être, le chef de la maison Rip and Co se retira.
+
+« Un homme qui paraît sûr de lui, ce Rip ! fit observer le colonel Gore.
+
+--- Et qui doit inspirer toute confiance, répondit Gilbert Argall. D\'ailleurs, cette prime de six mille piastres est bien faite pour exciter sa finesse et son zèle. Déjà, l\'affaire de la conspiration de Chambly lui a valu des sommes importantes, et, s\'il aime son métier, il n\'aime pas moins l\'argent qu\'il lui rapporte. Il faut prendre cet original comme il est, et je ne connais personne plus capable que lui pour s\'emparer de Jean-Sans-Nom, si Jean-Sans-Nom est homme à se laisser prendre ! »
+
+Le général, le ministre et le colonel prirent alors congé de lord Gosford. Puis, sir John Colborne donna ordre au colonel Gore de partir immédiatement pour Montréal, où l\'attendait son collègue, le colonel Witherall, chargé de prévenir ou d\'enrayer dans les paroisses du comté tout mouvement insurrectionnel.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 2 -- Douze années avant]{.pcalibre lang="X-NONE"}]{#_Toc342942141 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-2-douze-années-avant .calibre171 .sigil_not_in_toc}
+
+Simon Morgaz ! Nom abhorré jusque dans les plus humbles hameaux des provinces canadiennes ! Nom voué depuis de longues années à l\'exécration publique ! Un Simon Morgaz, c\'est le traître qui a livré ses frères et vendu son pays.
+
+Et on le comprendra, surtout dans cette France, qui n\'ignore plus «  maintenant » combien sont implacables les haines que mérite le crime de lèse-patrie.
+
+En 1825 -- douze ans avant l\'insurrection de 1837 -- quelques Franco-Canadiens avaient jeté les bases d\'une conspiration, dont le but était de soustraire le Canada à la domination anglaise, qui lui pesait si lourdement. Hommes audacieux, actifs, énergiques, de grande situation, issus pour la plupart des premiers émigrants qui avaient fondé la Nouvelle-France, ils ne pouvaient se faire à cette pensée que l\'abandon de leur colonie au profit de l\'Angleterre fût définitif. En admettant même que le pays ne dût pas revenir aux petits-fils des Cartier et des Champlain, qui l\'avaient découvert au XVIe siècle, n\'avait-il pas le droit d\'être indépendant ? Sans doute, et c\'était pour lui conquérir son indépendance que ces patriotes allaient jouer leur tête.
+
+Parmi eux se trouvait M. De Vaudreuil, descendant des anciens gouverneurs du Canada sous Louis XIV -- une de ces familles dont les noms français sont devenus pour la plupart les noms géographiques de la cartographie canadienne.
+
+À cette époque, M. De Vaudreuil avait trente-cinq ans, étant né en 1790, dans le comté de Vaudreuil, situé entre le Saint-Laurent au sud, et la rivière Outaouais au nord, sur les confins de la province de l\'Ontario.
+
+Les amis de M. De Vaudreuil étaient, comme lui, d\'origine française, bien que des alliances successives avec les familles anglo-américaines eussent altéré leurs noms patronymiques. Tels le professeur Robert Farran, de Montréal, François Clerc, un riche propriétaire de Châteauguay, et quelques autres, auxquels leur naissance ou leur fortune assuraient une réelle influence sur la population des bourgades et des campagnes.
+
+Le véritable chef du complot était Walter Hodge, de nationalité américaine. Bien qu\'il eût soixante ans alors, l\'âge n\'avait point attiédi la chaleur de son sang. Pendant la guerre de l\'Indépendance, il avait fait partie de ces hardis volontaires, de ces « skinners », dont Washington dut tolérer les violences par trop sauvages, car leurs compagnies franches harcelèrent vivement l\'armée royale. On le sait, dès la fin du dix-huitième siècle, les États-Unis avaient excité le Canada à venir prendre place dans la fédération américaine. C\'est ce qui explique comment un Américain tel que Walter Hodge était entré dans cette conjuration, et en fut même devenu le chef. N\'était-il pas de ceux qui avaient adopté pour devise ces trois mots, qui résument toute la doctrine de Munroe : « L\'Amérique aux Américains ! »
+
+Aussi, Walter Hodge et ses compagnons n\'avaient-ils cessé de protester contre les exactions de l\'administration anglaise, qui devenaient de plus en plus intolérables. En 1822, leurs noms figuraient dans la protestation contre l\'union du haut et du bas Canada avec ceux des deux frères Sanguinet, qui, dix-huit ans plus tard, entre tant d\'autres victimes, devaient payer de leur vie cet attachement au parti national. Ils combattirent également par la plume et par la parole, lorsqu\'il fut question de réclamer contre l\'inique partage des terres, uniquement concédées aux bureaucrates, afin de renforcer l\'élément anglais.
+
+Personnellement encore, ils luttèrent contre les gouverneurs Sherbrooke, Richmond, Monk et Maitland, prirent part à l\'administration de la colonie, et s\'associèrent à tous les actes des députés de l\'opposition.
+
+Toutefois, en 1825, la conspiration, ayant un objectif déterminé, s\'était organisée en dehors des libéraux de la Chambre canadienne. Si Papineau et ses collègues, Cuvillier, Bédard, Viger, Quesnel et autres, ne la connurent même pas, Walter Hodge pouvait compter sur eux pour en assurer les conséquences, si elle réussissait. Et, tout d\'abord, il s\'agissait de s\'emparer de la personne de lord Dalhousie, qui, en 1820, avait été nommé aux fonctions de gouverneur général des colonies anglaises de l\'Amérique du Nord.
+
+À son arrivée, lord Dalhousie semblait s\'être décidé pour une politique de concession. Sans doute, grâce à lui, l\'évêque romain de Québec fut reconnu officiellement, et Montréal, Rose, Régiopolis, devinrent les sièges de trois nouveaux évêchés. Mais, en fait, le cabinet britannique refusait au Canada le droit de se gouverner par lui-même. Les membres du conseil législatif, nommés à vie par la Couronne, étaient tous Anglais de naissance et annihilaient complètement la Chambre d\'assemblée élue par le peuple. Sur une population de six cent mille habitants, qui comptait alors cinq cent vingt-cinq mille Franco-Canadiens, les emplois appartenaient pour les trois quarts à des fonctionnaires d\'origine saxonne. Enfin, il était de nouveau question de proscrire l\'usage légal de la langue française dans toute la colonie.
+
+Pour enrayer ces dispositions, il ne fallait rien moins qu\'un acte de violence.
+
+S\'emparer de lord Dalhousie et des principaux membres du conseil législatif, puis, ce coup d\'État accompli, provoquer un mouvement populaire dans les comtés du Saint-Laurent, installer un gouvernement provisoire en attendant que l\'élection eût constitué le gouvernement national, enfin jeter les milices canadiennes contre l\'armée régulière, tel avait été l\'objectif de Walter Hodge, de Robert Farran, de François Clerc, de Vaudreuil.
+
+La conspiration aurait réussi peut-être, si la trahison de l\'un de leurs complices ne l\'eût fait avorter.
+
+À Walter Hodge et à ses partisans franco-canadiens s\'était joint un certain Simon Morgaz, dont il convient de faire connaître la situation et l\'origine. En 1825, Simon Morgaz était âgé de quarante-six ans. Avocat dans un pays où l\'on compte encore plus d\'avocats que de clients, comme aussi plus de médecins que de malades, il vivait assez péniblement à Chambly, petite bourgade, sur la rive gauche du Richelieu, à une dizaine de lieues de Montréal, de l\'autre côté du Saint-Laurent.
+
+Simon Morgaz était un homme résolu, dont l\'énergie avait été remarquée, lorsque les réformistes protestèrent contre les agissements du cabinet britannique. Ses manières franches, sa physionomie prévenante, le rendaient sympathique à tous. Nul n\'eût jamais pu soupçonner que la personnalité d\'un traître se dégagerait un jour de ces dehors séduisants.
+
+Simon Morgaz était marié. Sa femme, de huit années moins âgée que lui, avait alors trente-huit ans. Bridget Morgaz, d\'origine américaine, était la fille du major Allen, dont on avait pu apprécier le courage pendant la guerre de l\'Indépendance, alors qu\'il comptait parmi les aides de camp de Washington. Véritable type de la loyauté dans ce qu\'elle a de plus absolu, il eût sacrifié sa vie à la parole donnée avec la tranquillité d\'un Régulus.
+
+Ce fut à Albany, État de New-York, que Simon Morgaz et Bridget se rencontrèrent et se connurent.
+
+Le jeune avocat était franco-canadien de naissance, circonstance dont le major Allen devait tenir compte, -- il n\'eût jamais donné sa fille au descendant d\'une famille anglaise. Bien que Simon Morgaz ne possédât aucune fortune personnelle, avec ce qui revenait à Bridget de l\'héritage de sa mère, c\'était, sinon la richesse, du moins une certaine aisance assurée au jeune ménage. Le mariage fut conclu à Albany en 1806.
+
+L\'existence des nouveaux mariés aurait pu être heureuse ; elle ne le fut pas. Non point que Simon Morgaz manquât d\'égards envers sa femme, car il éprouva toujours pour elle une affection sincère ; mais une passion le dévorait -- la passion du jeu. Le patrimoine de Bridget s\'y dissipa en peu d\'années, et, bien que Simon Morgaz eût la réputation d\'un avocat de talent, son travail ne suffit plus à réparer les brèches faites à sa fortune. Et, si ce ne fut pas la misère, ce fut la gêne, dont sa femme supporta dignement les conséquences. Bridget ne fit aucun reproche à son mari. Ses conseils ayant été inefficaces, elle accepta cette épreuve avec résignation, avec courage aussi, et, cependant, l\'avenir était gros d\'inquiétudes.
+
+En effet, ce n\'était plus pour elle seule que Bridget devait le redouter. Pendant les premières années de son mariage, elle avait eu deux enfants, auxquels on donna le même nom de baptême, légèrement modifié, ce qui rappelait à la fois leur origine française et américaine. L\'aîné, Joann, était né en 1807, le cadet, Jean, en 1808. Bridget se consacra tout entière à l\'éducation de ses fils. Joann était d\'un caractère doux, Jean d\'un tempérament vif, tous deux énergiques sous leur douceur et leur vivacité.
+
+Ils tenaient visiblement de leur mère, ayant l\'esprit sérieux, le goût du travail, cette façon nette et droite d\'envisager les choses qui manquait à Simon Morgaz.
+
+De là, envers leur père, une attitude respectueuse toujours, mais rien de cet abandon naturel, de cette confiance sans réserve, qui est l\'essence même de l\'attraction du sang. Pour leur mère, en revanche, un dévouement sans bornes, une affection, qui ne débordait de leur coeur que pour aller emplir le sien. Bridget et ses fils étaient unis par ce double lien de l\'amour filial et de l\'amour maternel que rien ne pourrait jamais rompre.
+
+Après la période de la première enfance, Joann et Jean entrèrent au collège de Chambly, dans lequel ils se suivirent à une classe de distance. On les citait justement parmi les meilleurs élèves des divisions supérieures. Puis, lorsqu\'ils eurent douze et treize ans, ils furent mis au collège de Montréal, où ils ne cessèrent d\'occuper les meilleurs rangs. Deux années encore, et ils allaient avoir achevé leurs études, lorsque se produisirent les événements de 1825.
+
+Si, le plus souvent, Simon Morgaz et sa femme demeuraient à Montréal, où le cabinet de l\'avocat périclitait de jour en jour, ils avaient conservé une modeste maison à Chambly. C\'est là que se réunirent Walter Hodge et ses amis, lorsque Simon Morgaz fut entré dans cette conspiration, dont le premier acte, après l\'arrestation du gouverneur général, devait être de procéder à l\'installation d\'un gouvernement provisoire à Québec.
+
+Dans cette bourgade de Chambly, sous l\'abri de cette modeste demeure, les conspirateurs pouvaient se croire plus en sûreté qu\'ils ne l\'eussent été à Montréal, où la surveillance de la police s\'exerçait avec une extrême rigueur. Néanmoins, ils agissaient toujours très prudemment, de manière à dépister toutes tentatives d\'espionnage.
+
+Aussi, armes et munitions avaient-elles été déposées chez Simon Morgaz, sans que leur transport eût jamais éveillé le moindre soupçon. C\'étaient donc de la maison de Chambly, où se reliaient les fils du complot, que devait partir le signal du soulèvement.
+
+Cependant le gouverneur et son entourage avaient eu vent du coup d\'État préparé contre la Commune, et ils faisaient plus spécialement surveiller ceux des députés que désignait leur opposition permanente.
+
+Mais, il est à propos de le redire, Papineau et ses collègues ignoraient les projets de Walter Hodge et de ses partisans. Ceux-ci avaient fixé au 26 août la prise d\'armes, qui allait à la fois surprendre leurs amis et leurs ennemis.
+
+Or, la veille, dans la soirée, la maison de Simon Morgaz fut envahie par les agents de la police, dirigés par Rip, au moment où les conspirateurs s\'y trouvaient rassemblés. Ils n\'eurent pas le temps de détruire leur correspondance secrète, de brûler les listes de leurs affidés. Les agents saisirent aussi les armes cachées dans les caves de la maison. Le complot était découvert. Furent arrêtés et conduits à la prison de Montréal sous bonne escorte, Walter Hodge, Robert Farran, François Clerc, Simon Morgaz, Vaudreuil, et une dizaine d\'autres patriotes.
+
+Voici ce qui s\'était passé.
+
+Il y avait alors à Québec un certain Rip, anglo-canadien d\'origine, qui dirigeait une maison de renseignements et d\'enquêtes à l\'usage des particuliers, et dont le gouvernement avait maintes fois utilisé, non sans profit, les qualités spéciales. Son officine privée fonctionnait sous la raison sociale : Rip and Co.
+
+Une affaire de police n\'était pour lui qu\'une affaire d\'argent, et il la passait sur ses livres comme un négociant, traitant même à forfait -- tant pour une perquisition, tant pour une arrestation, tant pour un espionnage. C\'était un homme très fin, très délié, très audacieux aussi, avec quelque entregent, ayant la main ou, pour mieux dire, le nez dans bien des affaires particulières. Absolument dépourvu de scrupules, d\'ailleurs, et n\'ayant pas l\'ombre de sens moral.
+
+En 1825, Rip, qui venait de fonder son agence, était âgé de trente-trois ans. Déjà sa physionomie très mobile, son habileté aux déguisements, lui avaient permis d\'intervenir en mainte circonstance sous des noms différents. Depuis quelques années, il connaissait Simon Morgaz, avec lequel il avait été en relation à propos de causes judiciaires. Certaines particularités, qui eussent paru insignifiantes à tout autre, lui donnèrent à penser que l\'avocat de Montréal devait être affilié à la conspiration de Chambly.
+
+Il le serra de près, il l\'épia jusque dans les secrets de sa vie privée, il fréquenta sa maison, bien que Bridget Morgaz ne dissimulât point l\'antipathie qu\'il lui inspirait.
+
+Une lettre, saisie au post-office, démontra bientôt la complicité de l\'avocat avec une quasi-certitude. Le ministre de la police, informé par Rip du résultat de ses démarches, lui recommanda d\'agir adroitement sur Simon Morgaz que l\'on savait aux prises avec de grosses difficultés pécuniaires. Et, un jour, Rip mit brusquement le malheureux entre ces deux alternatives : ou d\'être poursuivi pour crime de haute trahison, ou de recevoir l\'énorme somme de cent mille piastres, s\'il consentait à livrer le nom de ses complices et les détails du complot de Chambly.
+
+L\'avocat fut atterré !
+
+Trahir ses compagnons ! Les vendre à prix d\'or ! Les livrer à l\'échafaud ! Et, cependant, il succomba, il accepta le prix de sa trahison, il dévoila les secrets de la conspiration, après avoir reçu la promesse que son marché infâme ne serait jamais divulgué. Il fut de plus convenu que les agents l\'arrêteraient en même temps que Walter Hodge et ses amis, qu\'il serait jugé par les mêmes juges, que la condamnation qui les frapperait -- et ce ne pouvait être qu\'une condamnation capitale -- le frapperait aussi. Puis, une évasion lui permettrait de s\'enfuir avant l\'exécution du jugement.
+
+Cette abominable machination resterait donc entre le ministre de la police, le chef de la maison Rip and Co et Simon Morgaz.
+
+Les choses se passèrent ainsi qu\'il avait été convenu. Au jour indiqué par le traître, les conspirateurs furent surpris inopinément dans la maison de Chambly. Walter Hodge, Robert Farran, François Clerc, Vaudreuil, quelques-uns de leurs complices ainsi que Simon Morgaz, comparurent à la date du 25 septembre 1825 sur le banc de la cour de justice.
+
+Aux accusations que porta contre eux l\'avocat de la Couronne -- le juge-avocat, ainsi qu\'on l\'appelait alors -- les accusés ne répondirent que par de justes et directes attaques contre le cabinet britannique. Aux arguments légaux, ils ne voulurent opposer que des arguments tirés du plus pur patriotisme. Ne savaient-ils pas qu\'ils étaient condamnés d\'avance, que rien ne pouvait les sauver ?
+
+Les débats duraient déjà depuis quelques heures, et l\'affaire suivait régulièrement son cours, lorsqu\'un incident d\'audience vint mettre en lumière la conduite de Simon Morgaz.
+
+Un des témoins à charge, le sieur Turner, de Chambly, déclara que, plusieurs fois, l\'avocat avait été vu conférant avec le chef de la maison Rip and Co.
+
+Ce fut là comme un éclair de révélation. Walter Hodge et Vaudreuil qui, depuis un certain temps, avaient eu des soupçons motivés par les allures singulières de Simon Morgaz, les virent confirmés par la déclaration du témoin Turner. Pour que la conspiration, si secrètement organisée, eût été si facilement découverte, il fallait qu\'un traître en eût dénoncé les auteurs.
+
+Rip fut pressé de questions, auxquelles il ne put répondre sans embarras. À son tour, Simon Morgaz essaya de se défendre ; mais il se lança dans de telles invraisemblances, il donna des explications si singulières, que l\'opinion des conjurés et aussi celle des juges fut bientôt faite à ce sujet. Un misérable avait trahi ses complices, et le traître, c\'était Simon Morgaz.
+
+Alors un irrésistible mouvement de répulsion se produisit sur le banc des accusés, et se propagea parmi le public, qui se pressait dans le prétoire.
+
+« Président de la cour, dit Walter Hodge, nous demandons que Simon Morgaz soit chassé de ce banc, honoré par notre présence, déshonoré par la sienne ! Nous ne voulons pas être souillés plus longtemps du contact de cet homme ! »
+
+Vaudreuil, Clerc, Farran, tous se joignirent à Walter Hodge, qui, ne se possédant plus, s\'était précipité sur Simon Morgaz, auquel il fallut que les gardes vinssent en aide. L\'assistance prit violemment parti contre le traître et exigea que l\'on fît droit aux réclamations des accusés. Le président de la cour dut donner l\'ordre d\'emmener Simon Morgaz et de le reconduire à la prison. Les huées qui l\'accompagnèrent, les menaces dont il fut l\'objet, démontrèrent qu\'on le tenait pour un infâme, dont la trahison allait coûter la vie aux plus ardents apôtres de l\'indépendance canadienne.
+
+Et, en effet, Walter Hodge, François Clerc, Robert Farran, considérés comme les chefs principaux de la conspiration de Chambly, furent condamnés à mort.
+
+Le surlendemain, 27 septembre, après avoir une dernière fois fait appel au patriotisme de leurs frères, ils moururent sur l\'échafaud.
+
+Quand aux autres accusés, parmi lesquels se trouvait M. De Vaudreuil, soit qu\'ils eussent paru moins compromis, soit que le gouvernement n\'eût voulu frapper d\'une peine capitale que les chefs les plus en vue, on leur fit grâce de la vie. Condamnés à la prison perpétuelle, ils ne recouvrèrent leur liberté qu\'en 1829, lorsqu\'une amnistie fut prononcée en faveur des condamnés politiques.
+
+Que devint Simon Morgaz, après l\'exécution ? Un ordre d\'élargissement lui avait permis de quitter la prison de Montréal, et il se hâta de disparaître. Mais une universelle réprobation allait peser sur son nom et, par suite, frapper de pauvres êtres, qui n\'étaient pourtant pas responsables de cette trahison. Bridget Morgaz fut brutalement chassée du domicile qu\'elle occupait à Montréal, chassée de la maison de Chambly, où elle s\'était retirée pendant l\'instruction de l\'affaire. Elle dut reprendre ses deux fils qui, à leur tour, venaient d\'être chassés du collège, comme leur père l\'avait été du banc des accusés en cour de justice.
+
+Où Simon Morgaz se décida-t-il à cacher son indigne existence, lorsque sa femme et ses enfants l\'eurent rejoint, quelques jours après ? Ce fut dans une bourgade éloignée, d\'abord, puis, bientôt, hors du district de Montréal. Cependant Bridget n\'avait pu croire au crime de son mari, ni Joann et Jean au crime de leur père. Tous quatre s\'étaient retirés au village de Verchères, dans le comté de ce nom, sur la rive droite du Saint-Laurent.
+
+Ils espéraient que nul soupçon ne les dénoncerait à l\'animadversion publique. Ces malheureux vécurent alors des dernières ressources qui leur restaient, car Simon Morgaz, quoiqu\'il eût reçu le prix de sa trahison par l\'entremise de la maison Rip, se gardait bien d\'en rien distraire devant sa femme et ses fils. En leur présence, il protestait toujours de son innocence, il maudissait l\'injustice humaine qui s\'appesantissait sur sa famille et sur lui. Est-ce que, s\'il avait trahi, il n\'aurait pas eu à sa disposition des sommes considérables ? Est-ce qu\'il en serait réduit à cette gêne excessive, en attendant la misère qui venait à grands pas ?
+
+Bridget Morgaz se laissait aller à cette pensée que son mari n\'était point coupable. Elle se réjouissait d\'être dans ce dénuement, qui donnait tort à ses accusateurs. Les apparences avaient été contre lui\... On ne lui avait pas permis de s\'expliquer\... Il était victime d\'un horrible concours de circonstances\... Il se justifierait un jour\... Il était innocent !
+
+Quand aux deux fils, peut-être eût-on pu observer quelque différence dans leur attitude vis-à-vis du chef de la famille. L\'aîné, Joann, se tenait le plus souvent à l\'écart, n\'osant même penser à l\'opprobre, infligé désormais au nom de Morgaz. Les arguments pour ou contre qui se présentaient à son esprit, il les repoussait pour ne point avoir à les approfondir. Il ne voulait pas juger son père, tant il craignait que son jugement fût contre lui. Il fermait les yeux, il se taisait, il s\'éloignait lorsque sa mère et son frère plaidaient en sa faveur\... Évidemment, le malheureux enfant redoutait de trouver coupable l\'homme dont il était le fils.
+
+Jean, au contraire, avait une attitude toute différente.
+
+Il croyait à l\'innocence du complice de Walter Hodge, de Farran et de Clerc, bien que tant de présomptions s\'élevassent pour l\'accabler. Plus impétueux que Joann, moins maître de son jugement, il se laissait emporter à ses instincts d\'affection filiale. Il se retenait à ce lien du sang que la nature rend si difficile à rompre. Il voulait défendre son père publiquement. Lorsqu\'il entendait les propos tenus sur le compte de Simon Morgaz, il sentait son coeur bondir, et il fallait que sa mère l\'empêchât de se livrer à quelque éclat. L\'infortunée famille vivait ainsi à Verchères, sous un nom supposé, dans une profonde misère matérielle et morale. Et on ne sait à quels excès la population de cette bourgade se fût livrée contre elle, si son passé eût été divulgué par hasard.
+
+Ainsi donc, en tout le Canada, dans les villes comme dans les infimes villages, le nom de Simon Morgaz était devenu la plus infamante des qualifications. On l\'accolait couramment à celui de Judas, et plus spécialement aux noms de Black et de Denis de Vitré, depuis longtemps déjà les équivalents du mot traître dans la langue franco-canadienne.
+
+Oui ! En 1759, ce Denis de Vitré, un Français, avait eu l\'infamie de piloter la flotte anglaise devant Québec et d\'arracher cette capitale à la France ! Oui ! En 1798, ce Black, un Anglais, avait livré le proscrit qui s\'était confié à lui, l\'Américain Mac Lane, mêlé aux projets insurrectionnels des Canadiens ! Et ce généreux patriote avait été pendu, après quoi, on lui avait tranché la tête et brûlé les entrailles, arrachées à son cadavre !
+
+Et maintenant, comme on avait dit Black et Vitré, on disait Simon Morgaz, trois noms voués à l\'exécration publique.
+
+Cependant, à Verchères, la population s\'était bientôt inquiétée de la présence de cette famille, dont elle ne connaissait pas l\'origine, de sa vie mystérieuse, de l\'incognito dans lequel elle ne cessait de se renfermer.
+
+Des soupçons ne tardèrent pas à s\'amasser contre elle. Une nuit, le nom de Black fut écrit sur la porte de la maison de Simon Morgaz.
+
+Le lendemain, sa femme, ses deux fils et lui avaient quitté Verchères. Après avoir franchi le Saint-Laurent, ils allèrent s\'établir pendant quelques jours dans un des villages de la rive gauche ; puis l\'attention étant appelée sur eux, ils l\'abandonnèrent pour un autre. Ce n\'était plus qu\'une famille errante, à laquelle s\'attachait la réprobation universelle. On eût dit que la Vengeance, une torche enflammée à la main, la poursuivait, comme, dans les légendes bibliques, elle fait du meurtrier d\'Abel. Simon Morgaz et les siens, ne pouvant se fixer nulle part, traversèrent les comtés de l\'Assomption, de Terrebonne, des Deux-Montagnes, de Vaudreuil, gagnant ainsi vers l\'est, du côté des paroisses moins habitées, mais où leur nom finissait toujours par leur être jeté à la face.
+
+Deux mois après le jugement du 27 septembre, le père, la mère, Jean et Joann avaient dû s\'enfuir jusqu\'aux territoires de l\'Ontario. De Kingston, où ils furent reconnus dans l\'auberge qui leur donnait asile, ils durent partir presque aussitôt. Simon Morgaz n\'eut que le temps de s\'échapper pendant la nuit. En vain Bridget et Jean avaient-ils voulu le défendre ! C\'est à peine s\'ils purent se soustraire eux-mêmes aux mauvais traitements, et Joann faillit être tué en protégeant leur retraite.
+
+Tous quatre se rejoignirent sur la rive du lac, à quelques milles au-delà de Kingston. Ils résolurent dès lors de suivre la rive septentrionale, afin d\'atteindre les États-Unis, puisqu\'ils ne trouvaient plus refuge même dans ce pays du haut Canada, qui échappait encore à l\'influence des idées réformistes.
+
+Et pourtant, ne serait-ce pas le même accueil qu\'ils devaient attendre de l\'autre côté de la frontière, en ce pays où l\'on exécrait la trahison de Black envers un citoyen de la fédération américaine ?
+
+Mieux valait donc gagner quelque pays perdu, se fixer même au milieu d\'une tribu indienne, où le nom de Simon Morgaz ne serait peut-être pas parvenu encore. Ce fut en vain. Le misérable était repoussé de partout. Partout on le reconnaissait, comme s\'il eût porté au front quelque signe infamant, qui le désignait à la vindicte universelle.
+
+
+Simon Morgaz devenait de plus en plus sombre et farouche. Il ne cessait de se disculper devant les siens, comme si quelque invisible accusateur, acharné sur ses pas, lui eût crié : traître ! Traître ! Et maintenant il semblait qu\'il n\'osait plus regarder en face sa femme et ses enfants. Bridget le réconfortait cependant par d\'affectueuses paroles, et, si Joann continuait à garder le silence, Jean ne cessait de protester.
+
+« Père ! Père ! répétait-il, ne te laisse pas abattre ! Le temps fera justice des calomniateurs ! On reconnaîtra que l\'on s\'est trompé\... Qu\'il n\'y avait contre toi que des apparences !
+
+Toi, père, avoir trahi tes compagnons, avoir vendu ton pays !
+
+--- Non ! Non ! » répondait Simon Morgaz, mais d\'une voix si faible qu\'on avait peine à l\'entendre.
+
+La famille, errant de village en village, arriva ainsi vers l\'extrémité occidentale du lac, à quelques milles du fort de Toronto. En contournant le littoral, il suffirait de descendre jusqu\'à la rivière de Niagara, de la traverser à l\'endroit où elle se jette dans le lac pour être enfin sur la rive américaine.
+
+Était-ce donc là que Simon Morgaz voulait s\'arrêter ? Ne valait-il pas mieux, au contraire, s\'enfoncer plus profondément vers l\'ouest, afin d\'atteindre une contrée si lointaine que la renommée d\'infamie n\'y fût point arrivée encore ? Mais quel lieu cherchait-il ? Sa femme ni ses fils ne pouvaient le savoir, car il allait toujours devant lui, et ils ne faisaient que le suivre.
+
+Le 3 décembre, vers le soir, ces infortunés, exténués de fatigue et de besoin, firent halte dans une caverne, à demi obstruée de broussailles et de ronces -- quelque repaire de bête fauve, abandonné en ce moment. Le peu de provisions qui leur restaient avait été déposé sur le sable. Bridget succombait sous le poids des lassitudes physiques et morales. À tout prix, il faudrait que la famille Morgaz, au plus prochain village, obtînt d\'une tribu indienne quelques jours de cette hospitalité que les Canadiens lui refusaient sans pitié.
+
+Joann et Jean, torturés par la faim, mangèrent un peu de venaison froide. Mais, ce soir-là, Simon Morgaz et Bridget ne voulurent ou ne purent rien prendre.
+
+« Père, il faut refaire tes forces ! » dit Jean.
+
+Simon Morgaz ne répondit pas.
+
+« Mon père, dit alors Joann, -- et ce fut la seule fois qu\'il lui adressa la parole depuis le départ de Chambly -- mon père, nous ne pouvons aller plus loin ! Notre mère ne résisterait pas à de nouvelles fatigues ! Nous voici presque à la frontière américaine ! Comptez-vous passer au-delà ? » Simon Morgaz regarda son fils aîné, et ses yeux s\'abaissèrent presque aussitôt. Joann insista.
+
+« Voyez dans quel état est notre mère ! reprit-il. Elle ne peut plus faire un mouvement ! Cette torpeur va lui enlever le peu d\'énergie qui lui reste ! Demain, il lui sera impossible de se lever ! Sans doute, mon frère et moi, nous la porterons ! Mais encore faut-il que nous sachions où vous voulez aller, et que ce ne soit pas loin ! Qu\'avez-vous décidé, mon père ? »
+
+Simon Morgaz ne répondit pas, il courba la tête et se retira au fond de la caverne.
+
+La nuit était venue. Aucun bruit ne troublait cette solitude. D\'épais nuages couvraient le ciel et menaçaient de se fondre en une brume uniforme. Pas un souffle ne traversait l\'atmosphère. Quelques hurlements éloignés rompaient seuls le silence de ce désert. Une neige morne et dense commençait à tomber.
+
+Le froid étant vif, Jean alla ramasser du bois mort qu\'il alluma dans un angle, près de l\'entrée, afin que la fumée pût trouver une issue au dehors. Bridget, étendue sur une litière d\'herbe que Joann avait apportée, était toujours immobile. Le peu de vie qui demeurait en elle ne se trahissait que par une respiration pénible, entrecoupée de longs et douloureux soupirs. Tandis que Joann lui tenait la main, Jean s\'occupait d\'alimenter le foyer, afin de maintenir la température à un degré supportable.
+
+Simon Morgaz, blotti au fond, à demi couché, dans une attitude de désespoir, comme s\'il eût eu horreur de lui-même, ne faisait pas un mouvement, tandis que les reflets de la flamme éclairaient sa figure convulsée.
+
+La lueur du foyer tomba peu à peu, et Jean sentit ses yeux se fermer malgré lui.
+
+Combien d\'heures resta-t-il dans cet assoupissement ? Il ne l\'aurait pu dire. Mais, lorsqu\'il s\'éveilla, il vit que les derniers charbons allaient s\'éteindre. Jean se releva, jeta une brassée de branches sur le foyer qu\'il raviva de son souffle, et la caverne s\'éclaira.
+
+Bridget et Joann, l\'un après l\'autre, gardaient toujours la même immobilité. Quand à Simon Morgaz, il n\'était plus là. Pourquoi avait-il quitté l\'endroit où reposaient sa femme et ses fils ?
+
+Jean, pris d\'un affreux pressentiment, allait s\'élancer hors de la caverne, lorsqu\'une détonation retentit.
+
+Bridget et Joann se redressèrent brusquement. Tous deux avaient entendu le coup de feu, qui avait été tiré à très courte distance.
+
+Bridget jeta un cri d\'épouvante, elle se releva, et, traînée par ses fils, sortit de la caverne.
+
+Bridget, Joann et Jean n\'avaient pas fait vingt pas qu\'ils apercevaient un corps étendu sur la neige.
+
+C\'était le corps de Simon Morgaz. Le misérable venait de se tirer un coup de pistolet dans le coeur.
+
+Il était mort.
+
+Joann et Jean reculèrent, atterrés. Le passé se dressait devant eux ! Était-il donc vrai que leur père fût coupable ? Ou bien, dans une crise de désespoir, avait-il voulu en finir avec cette existence, trop dure à supporter ?
+
+Bridget s\'était jetée sur le corps de son mari. Elle le serrait dans ses bras\... Elle ne voulait pas croire à l\'infamie de l\'homme dont elle portait le nom. Joann releva sa mère et la ramena dans la caverne, où son frère et lui revinrent déposer le cadavre de leur père à la place qu\'il occupait quelques heures avant.
+
+Un portefeuille était tombé de sa poche. Joann le ramassa, et lorsqu\'il l\'ouvrit, un paquet de bank-notes s\'en échappa.
+
+C\'était le prix auquel Simon Morgaz avait livré les chefs de la conspiration de Chambly ! La mère et les deux fils ne pouvaient plus douter maintenant !
+
+Joann et Jean s\'agenouillèrent près de Bridget.
+
+Et maintenant, devant le cadavre du traître qui s\'était fait justice, il n\'y avait plus qu\'une famille flétrie, dont le nom allait disparaître avec celui qui l\'avait déshonoré !
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 3 -- Un notaire huron]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942142 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-3-un-notaire-huron .calibre171 .sigil_not_in_toc}
+
+Ce n\'était pas sans de graves motifs que le gouverneur général, sir John Colborne, le ministre de la justice et le colonel Gore avaient conféré au palais de Québec, en vue de mesures à prendre pour réprimer les menées des patriotes. En effet, une redoutable insurrection allait prochainement soulever la population d\'origine franco-canadienne.
+
+Mais si lord Gosford et son entourage s\'en préoccupaient à bon droit, ce n\'était pas pour inquiéter, semblait-il, un jeune garçon qui, dans la matinée du 3 septembre, grossoyait en l\'étude de maître Nick, place du marché Bon-Secours, à Montréal.
+
+« Grossoyer » n\'est peut-être pas le mot qui convenait à cet absorbant travail, auquel le second clerc, Lionel Restigouche, s\'adonnait en ce moment -- neuf heures du matin. Une colonne, de lignes inégales et de fine écriture, s\'allongeait sur une belle feuille de papier bleuâtre, qui ne ressemblait en rien au rude parchemin des actes. Par instants, lorsque la main de Lionel s\'arrêtait pour fixer quelque idée indécise, ses yeux se portaient vaguement, à travers la fenêtre entr\'ouverte, vers le monument élevé sur la place Jacques Cartier, en l\'honneur de l\'amiral Nelson. Son regard s\'animait alors, son front rayonnait, et sa plume se reprenait à courir, tandis qu\'il balançait légèrement la tête, comme s\'il eut battu la mesure sous l\'influence d\'un rythme régulier.
+
+Lionel avait à peine dix-sept ans. Sa figure, presque féminine encore, de type très français, était charmante, avec des cheveux blonds, un peu longs peut-être, et des yeux bleus rappelant l\'eau des grands lacs canadiens. S\'il n\'avait plus ni père ni mère, on peut dire que maître Nick lui servait de l\'un et de l\'autre, car cet estimable notaire l\'aimait comme s\'il eut été son fils.
+
+Lionel était seul dans l\'étude.
+
+À cette heure, personne. Pas un des autres clercs, occupés alors aux courses du dehors, pas même un client, bien que l\'office de maître Nick fût un des plus fréquentés de la ville. Aussi, Lionel, se croyant sûr de ne point être dérangé, en prenait-il à son aise, et il venait d\'encadrer son nom dans un paraphe mirifique au-dessous de la dernière ligne tracée au bas de la page, quand il s\'entendit interpeller :
+
+« Eh ! Que fais-tu là, mon garçon ? »
+
+C\'était maître Nick, que le jeune clerc n\'avait point entendu entrer, tant il s\'absorbait dans son travail de contrebande.
+
+Le premier mouvement de Lionel fut d\'entrouvrir un sous-main, afin d\'y glisser le papier en question ; mais le notaire saisit prestement la feuille suspecte, en dépit du jeune garçon qui cherchait vainement à la reprendre.
+
+« Qu\'est-ce que cela, Lionel ? demanda-t-il. Une minute\... Une grosse\... Une copie de contrat ?
+
+--- Maître Nick, croyez bien que\... »
+
+Le notaire avait mis ses lunettes et, le sourcil froncé, parcourait la page d\'un oeil stupéfait.
+
+« Que vois-je là ? s\'écria-t-il. Des lignes inégales ? Des blancs d\'un côté ! Des blancs de l\'autre ! Tant de bonne encre perdue, tant de bon papier gaspillé en marges inutiles !
+
+--- Maître Nick, répondit Lionel, rougissant jusqu\'aux oreilles\... Cela m\'est venu\... Par hasard.
+
+--- Qu\'est-ce qui t\'est venu\... Par hasard ?
+
+--- Des vers\...
+
+--- Des vers ! Voilà que tu rédiges en vers ?
+
+Ah ça ! Est-ce que la prose ne suffit pas pour libeller un acte ?
+
+--- C\'est qu\'il ne s\'agit point d\'un acte, ne vous déplaise ! Maître Nick. -- De quoi s\'agit-il donc ?
+
+--- D\'une pièce de poésie que j\'ai composée pour le concours de la Lyre-Amicale !
+
+--- La Lyre-Amicale ! s\'écria le notaire. Est-ce que tu t\'imagines, Lionel, que c\'est pour figurer au concours de la Lyre-Amicale ou toute autre société parnassienne que je t\'ai accueilli dans mon étude ? Est-ce pour t\'abandonner à tes ardeurs versificatrices que j\'ai fait de toi mon second clerc ? Mais, alors, autant vaudrait passer ton temps à canoter sur le Saint-Laurent, à promener ton dandysme dans les allées du Mont-Royal ou du parc de Sainte-Hélène ! En vérité, un poète dans le notariat ! Une tête de clerc au milieu d\'un nimbe ! Il y aurait de quoi mettre les clients en fuite !
+
+--- Ne vous fâchez pas, maître Nick ! répondit Lionel d\'un ton piteux. Si vous saviez combien la poésie s\'accommode de notre mélodieuse langue française ! Elle se prête si noblement au rythme, à la cadence, à l\'harmonie ! Nos poètes, Lemay, Elzéar Labelle, François Mons, Chapemann, Octave Crémazie\...
+
+--- Messieurs Crémazie, Chapemann, Mons, Labelle, Lemay, ne remplissent pas les importantes fonctions de second clerc que je sache ! Ils ne sont pas payés, sans compter la table et le logement, six piastres par mois -- et par moi ! -- ajouta maître Nick, enchanté de son jeu de mot. Ils n\'ont point à rédiger des contrats de vente ou des testaments et ils peuvent pindariser à leur fantaisie !
+
+--- Maître Nick\... Pour une fois\...
+
+--- Eh bien ! Soit\... Pour une fois, tu as voulu être lauréat de la Lyre-Amicale ?
+
+--- Oui, maître Nick, j\'ai eu cette folle présomption !
+
+--- Et pourrais-je savoir quel est le sujet de ta poésie ? Sans doute quelque évocation dithyrambique à Tabellionoppe, la muse du parfait notaire ?
+
+--- Oh ! fit Lionel, en protestant du geste.
+
+--- Enfin, ça s\'appelle, ta machine rimante ?
+
+--- Le Feu follet !
+
+--- Le Feu follet ! s\'écria maître Nick ! Voilà que tu adresses des vers aux feux follets ! »
+
+Et, sans doute, le notaire allait prendre à parti les djinns, les elfes, les brownies, les lutins, les ondines, les ases, les cucufas, les farfadets, toutes les poétiques figures de la mythologie scandinave, lorsque le facteur frappa à la porte de l\'étude et parut sur le seuil.
+
+« Ah ! C\'est vous, mon ami ? dit maître Nick. Je vous avais pris pour un feu follet !
+
+--- Un feu follet, monsieur Nick ? répondit le facteur. Est-ce que j\'ai l\'air\...
+
+--- Non ! Non ! Et vous avez même l\'air d\'un facteur qui m\'apporte une lettre.
+
+--- La voici, monsieur Nick.
+
+--- Merci, mon ami ! »
+
+Le facteur se retira, au moment où le notaire, ayant regardé l\'adresse de la lettre, la décachetait vivement.
+
+Lionel put alors reprendre sa feuille de papier, et il la mit dans sa poche. Maître Nick lut la lettre avec une extrême attention ; puis, il retourna l\'enveloppe, afin d\'en examiner le timbre et la date.
+
+Cette enveloppe portait le timbre du post-office de Saint-Charles, petite bourgade du comté de Verchères, et la date du 2 septembre, c\'est-à-dire de la veille. Après avoir réfléchi quelques instants, le notaire revint à sa philippique contre les poètes :
+
+« Ah ! Tu sacrifies aux Muses, Lionel ? Eh bien, pour ta peine, tu vas m\'accompagner à Laval, et tu auras le temps, en route, de tricoter des vers ! -- Tricoter, maître Nick ?
+
+--- Il faut que nous soyons partis dans une heure, et, si nous rencontrons des feux follets à travers la plaine, tu leur feras toutes tes amitiés ! »
+
+Là-dessus, le notaire passa dans son cabinet, tandis que Lionel se préparait pour ce petit voyage, qui n\'était pas pour lui déplaire, d\'ailleurs. Peut-être parviendrait-il à ramener son patron à des idées plus justes sur la poésie en général, et sur les enfants d\'Apollon, même quand ils sont clercs de notaire. Au fond, c\'était un excellent homme, maître Nick, très apprécié pour la sûreté de son jugement, la valeur de ses conseils. Il avait cinquante ans alors. Sa physionomie prévenante, sa large et rayonnante figure, qui s\'épanouissait au milieu des volutes d\'une chevelure bouclée, très noire autrefois, grisonnante à présent, ses yeux vifs et gais, sa bouche aux dents superbes, aux lèvres souriantes, ses manières aimables, enfin une belle humeur très communicative, -- de tout cet ensemble, il résultait une personnalité très sympathique. Détail à retenir : sous la peau bistrée, tournant au rougeâtre, de maître Nick, on devinait que le sang indien coulait dans ses veines.
+
+Cela était, et le notaire ne s\'en cachait pas.
+
+Il descendait des plus vieilles peuplades du pays -- celles qui possédaient le sol, avant que les Européens eussent traversé l\'Océan pour le conquérir. À cette époque, bien des mariages furent contractés entre la race française et la race indigène. Les Saint-Castin, les Enaud, les Népisigny, les d\'Entremont et autres firent souche et devinrent même souverains de tribus sauvages.
+
+Donc, maître Nick était Huron par ses ancêtres. C\'est dire qu\'il sortait de l\'une des quatre grandes familles de la branche indienne. Bien qu\'il eût pu porter ce nom retentissant de Nicolas Sagamore, on l\'appelait plus communément maître Nick. Il s\'en tenait là et n\'en valait pas moins.
+
+Ce que l\'on savait, d\'ailleurs, c\'est que sa race n\'était pas éteinte. En effet, l\'un de ses innombrables cousins, chef de Peaux-Rouges, régnait sur une des tribus huronnes, établie au nord du comté de Laprairie, dans l\'ouest du district de Montréal.
+
+Qu\'on ne s\'étonne point si cette particularité se rencontre encore en Canada. Dernièrement, Québec possédait un honorable tabellion qui, par sa naissance, aurait eu le droit de brandir le tomahawk et de pousser le cri de guerre à la tête d\'un parti d\'Iroquois. Heureusement, maître Nick n\'appartenait point à cette tribu d\'Indiens perfides, qui s\'allièrent le plus souvent aux oppresseurs. Il s\'en fût soigneusement caché. Non ! Issu de ces Hurons, dont l\'amitié fut presque toujours acquise aux Franco-Canadiens, il n\'avait point à en rougir. Aussi, Lionel était-il fier de son patron, rejeton incontesté des grands chefs du Nord-Amérique, et il n\'attendait que l\'occasion d\'en célébrer les hauts faits dans ses vers.
+
+À Montréal, maître Nick avait toujours observé une prudente neutralité entre les deux partis politiques, n\'étant ni Franco-Canadien ni Anglo-Américain d\'origine.
+
+Aussi tous l\'estimaient, tous recouraient à ses bons offices qu\'il ne marchandait pas. Il fallait croire, pourtant, que les instincts ataviques s\'étaient modifiés en lui, car, jusqu\'alors il n\'avait jamais senti se réveiller les velléités guerrières de sa race. Il n\'était que notaire -- un parfait notaire, placide et conciliant. En outre, il ne semblait point qu\'il eût éprouvé le désir de perpétuer le nom des Sagamores, puisqu\'il n\'avait pas pris femme et ne songeait point à en prendre.
+
+Ainsi qu\'il a été dit plus haut, maître Nick se préparait à quitter l\'étude en compagnie de son second clerc. Ce ne serait qu\'un déplacement de quelques heures, et sa vieille servante Dolly l\'attendrait pour le dîner.
+
+La ville de Montréal est bâtie sur la côte méridionale de l\'une des îles du Saint-Laurent. Cette île, longue de dix à onze lieues, large de cinq à six, occupe un assez vaste estuaire, formé par un élargissement du fleuve, un peu en aval du confluent de la rivière Outaouais. C\'est en cet endroit que Jacques Cartier découvrit le village indien d\'Hochelaga, qui, en 1640, fut concédé par le roi de France à la congrégation de Saint-Sulpice. La ville, prenant son nom du Mont-Royal qui la domine, dans une position très favorable au développement de son commerce, comptait déjà plus de six mille habitants en 1760. Elle s\'étend au pied de la pittoresque colline dont on a fait un parc magnifique et qui partage avec un autre parc, aménagé dans l\'îlot de Saint-Hélène, l\'avantage d\'attirer en grand nombre les promeneurs montréalais. Un superbe pont tubulaire, long de trois kilomètres, qui n\'existait pas en 1837, la rattache maintenant à la rive droite du fleuve.
+
+Montréal est devenue une grande cité, d\'aspect plus moderne que Québec, et, par cela même, moins pittoresque.
+
+On peut en visiter, non sans quelque intérêt, les deux cathédrales anglicane et catholique, la banque, la bourse, l\'hôpital général, le théâtre, le couvent Notre-Dame, l\'Université protestante de Mac Gill et le séminaire de Saint-Sulpice. Elle n\'est pas trop vaste pour les cent quarante mille habitants qu\'elle possède à cette heure, et dans lesquels l\'élément saxon n\'entre que pour un tiers, -- proportion élevée, cependant, si on la compare à celle des autres cités canadiennes.
+
+À l\'ouest, se développe le quartier anglais, ou écossais -- ceux que les anciens du pays appelaient « les petites jupes » -- à l\'est, le quartier français. Les deux races se mêlent d\'autant moins que tout ce qui se rattache au commerce, à l\'industrie ou à la banque -- vers 1837 surtout -- était uniquement concentré entre les mains des banquiers, des industriels et des commerçants d\'origine britannique. La magnifique voie fluviale du Saint-Laurent assure la prospérité de cette ville, qu\'elle met en communication non seulement avec les comtés du Canada, mais aussi avec l\'Europe, sans qu\'il soit nécessaire d\'aller rompre charge à New York au profit des paquebots de l\'ancien monde.
+
+À l\'exemple des riches négociants de Londres, ceux de Montréal séparent volontiers l\'habitation de famille de la maison de commerce. Les affaires faites, ils regagnent les quartiers du nord, vers les pentes du Mont-Royal et de l\'avenue circulaire qui entoure sa base. Là, s\'élèvent les maisons particulières, dont quelques-unes ont l\'apparence de palais, et les villas encadrées de verdure. En dehors de ces quartiers opulents, les Irlandais sont, pour ainsi dire, confinés dans leur Ghetto de Sainte-Anne, au débouché du canal de Lachine, sur la rive gauche du Saint-Laurent.
+
+Maître Nick possédait une belle fortune.
+
+Comme le font les notables du commerce, il aurait pu, chaque soir, se retirer dans une des habitations aristocratiques de la haute ville, sous les épais ombrages de Saint-Antoine. Mais il était de ces notaires d\'ancienne race, dont l\'horizon se borne aux murs de leur étude, et qui justifient le nom de garde-notes, en gardant nuit et jour les contrats, minutes et papiers de famille confiés à leurs soins. Le descendant des Sagamores demeurait donc en sa vieille maison de la place du marché Bon-Secours. C\'est de là que, dans la matinée du 3 septembre, il partit avec son second clerc pour aller prendre la voiture qui faisait le service entre l\'île Montréal et l\'île Jésus, séparées par une des branches intermédiaires du Saint-Laurent.
+
+Tout d\'abord, maître Nick se rendit à la banque, en suivant de larges rues, bordées de riches magasins et entretenues avec soin par l\'édilité montréalaise. Arrivé devant l\'hôtel de la banque, il dit à Lionel de l\'attendre dans le vestibule, se rendit à la caisse centrale, revint au bout d\'un quart d\'heure, et se dirigea vers le bureau de la voiture publique.
+
+Cette voiture était un de ces stages à deux chevaux qu\'on appelle « buggies », en langage canadien. Ces sortes de chars à bancs, suspendus sur des ressorts, doux si l\'on veut, mais solides très certainement, sont construits en vue de résister à la dureté des routes. Ils peuvent contenir une demi-douzaine de voyageurs.
+
+« Eh ! C\'est monsieur Nick ! s\'écria le conducteur du stage, d\'aussi loin qu\'il aperçut le notaire, toujours et partout accueilli par cette cordiale exclamation.
+
+--- Moi-même, en compagnie de mon clerc ! répondit maître Nick du ton de bonne humeur qui lui était habituel.
+
+--- Vous vous portez bien, monsieur Nick ?
+
+--- Oui, Tom, et tâchez de vous porter aussi bien que moi !
+
+Vous ne vous ruinerez pas en médecines !
+
+--- Ni en médecins, répondit Tom.
+
+--- Quand partons-nous ? demanda maître Nick.
+
+--- À l\'instant.
+
+--- Est-ce que nous avons des compagnons de route ?
+
+--- Personne encore, répliqua Tom, mais il en viendra, peut-être, au dernier moment\...
+
+--- Je le souhaite\... Je le souhaite, Tom ! J\'aime à pouvoir causer en route, et, pour causer, j\'ai observé qu\'il est indispensable de ne pas être seul ! » Cependant il était probable que les désirs naïvement exprimés de maître Nick ne seraient point satisfaits, cette fois. Les chevaux étaient attelés, Tom faisait claquer son fouet, et aucun voyageur ne se présentait au bureau.
+
+Le notaire prit donc place dans le stage sur le banc du fond, que Lionel vint aussitôt occuper près de lui. Un dernier coup d\'oeil fut jeté par Tom vers le bas et le haut de la rue ; puis, il monta sur son siège, rassembla ses rênes, siffla ses bêtes, et la bruyante machine s\'ébranla, au moment où quelques passants qui connaissaient Nick -- et qui ne le connaissait pas, l\'excellent homme ! -- lui adressèrent leur souhait de bon voyage, auquel il répondit par un petit salut de la main.
+
+Le stage remonta vers les hauts quartiers, en gagnant dans la direction du Mont-Royal. Le notaire regardait à droite, à gauche, avec autant d\'attention que le conducteur -- bien que ce fût pour un motif différent. Mais il semblait que personne, ce matin-là, n\'eût besoin de se faire transporter au nord de l\'île ni de donner la réplique à maître Nick.
+
+Non ! Pas un compagnon de voyage, et, pourtant, la voiture avait atteint la promenade circulaire, encore déserte à cette heure, où elle s\'engagea au petit trot de son attelage.
+
+En ce moment, un individu s\'avança vers le stage et fit signe au conducteur d\'arrêter ses chevaux.
+
+« Vous avez une place ? demanda-t-il.
+
+--- Une et « tret » avec ! répondit Tom, qui, suivant la coutume, imprima à cette syllabe la prononciation canadienne, comme il aurait dit : « il fait fret » pour il fait froid.
+
+Le voyageur prit place sur le banc devant Lionel, après avoir salué maître Nick et son clerc. Le stage repartit au petit trot, et quelques minutes plus tard, au tournant du Mont-Royal, disparurent les toits en tôle étamée des maisons de la ville, qui resplendissaient au soleil comme autant de miroirs argentés.
+
+Le notaire n\'avait pas vu sans une vive satisfaction le nouveau venu s\'installer dans le stage. On pourrait au moins causer pendant les quatre lieues qui séparent Montréal de la branche supérieure du Saint-Laurent.
+
+Mais il ne semblait pas que le voyageur fût d\'humeur à s\'engager dans les réparties d\'une conversation de circonstance. Il avait tout d\'abord regardé maître Nick et Lionel. Puis, après s\'être accoté dans son coin, les yeux à demi-fermés, il parut se livrer tout entier à ses réflexions.
+
+C\'était un jeune homme de vingt-cinq ans à peine. Sa taille élancée, sa physionomie énergique, son corps vigoureux, son regard résolu, ses traits virils, son front haut, encadré de cheveux noirs, en faisaient un type accompli de la race franco-canadienne.
+
+Quel était-il ? D\'où venait-il ? Maître Nick, qui connaissait tout le monde, ne le connaissait pas, il ne l\'avait jamais vu. Toutefois, à l\'examiner avec quelque attention, il lui parut que ce jeune homme, encore si peu avancé dans la vie, avait dû passer par les plus dures épreuves et s\'être élevé à l\'école du malheur.
+
+Que cet inconnu appartînt au parti qui luttait pour l\'indépendance nationale, cela se devinait rien qu\'à son costume. Vêtu à peu près comme ces intrépides aventuriers auxquels on donne encore le nom de « coureurs des bois », il portait sur sa tête la « tuque » bleue, et ses vêtements -- une sorte de capot, croisé sur la poitrine, une culotte d\'un rude tissu grisâtre, serrée à la taille par une ceinture rouge -- étaient uniquement en « étoffe du pays ».
+
+Qu\'on ne l\'oublie pas, l\'emploi de ces étoffes indigènes équivalait à une protestation politique, puisqu\'il excluait les produits manufacturés, importés d\'Angleterre. C\'était une des mille manières de braver l\'autorité métropolitaine, et l\'exemple venait de loin d\'ailleurs.
+
+En effet, cent cinquante ans avant, les Bostoniens n\'avaient-ils pas proscrit l\'usage du thé en haine de la Grande-Bretagne ? Et de même qu\'il n\'y eut que les loyalistes d\'alors à en faire usage, les Canadiens d\'aujourd\'hui s\'interdisaient les tissus fabriqués dans le Royaume-Uni. Quand à maître Nick, en sa qualité de neutre, il portait un pantalon de provenance canadienne et une redingote de provenance anglaise. Mais, dans le vêtement patriotique de Lionel, il n\'entrait pas un seul bout de fil qui n\'eût été filé en deçà de l\'Atlantique.
+
+Cependant le stage roulait assez rapidement sur le sol cahoteux des plaines qui se développent à travers l\'île Montréal jusqu\'au cours intermédiaire du Saint-Laurent.
+
+Mais que le temps paraissait long à maître Nick, si loquace de son naturel ! Or, comme le jeune homme ne semblait pas disposé à prendre la parole, il dut se rabattre sur Lionel, avec l\'espoir que leur compagnon de voyage finirait par se mêler à la conversation.
+
+« Eh bien, Lionel, et ce feu follet ? dit-il.
+
+--- Ce feu follet ? répondit le jeune clerc.
+
+--- Oui ! J\'ai beau regarder à me fatiguer la vue, je n\'en vois pas trace sur la plaine !
+
+--- C\'est qu\'il fait trop jour, maître Nick, répondit Lionel, bien décidé à répondre sur le ton de la plaisanterie.
+
+--- Peut-être qu\'en chantant le vieux couplet de jadis :
+
+
+Allons, gai, compère lutin !
+
+Allons, gai, mon cher voisin\...
+
+
+Mais non ! Le compère ne réponds pas ! -- À propos, Lionel, tu connais le moyen de se soustraire aux agaceries des feux follets ?
+
+--- Sans doute, maître Nick. Il suffit de leur demander quel est le quantième de Noël et, comme ils ne le savent pas, on a le temps de se sauver, pendant qu\'ils cherchent une réponse.
+
+--- Je vois que tu es au courant des traditions. Eh bien, en attendant que l\'un d\'eux intercepte notre route, si nous parlions un peu de celui que tu as fourré dans ta poche ! »
+
+Lionel rougit légèrement.
+
+« Vous voulez, maître Nick ? répliqua-t-il.
+
+--- Eh oui, mon garçon ! Cela fera toujours passer un quart d\'heure ou deux ! »
+
+Puis, le notaire, s\'adressant au jeune homme :
+
+« Les vers ne vous incommodent pas, monsieur ? demanda-t-il en souriant. -- Nullement ! répondit le voyageur.
+
+--- Il s\'agit d\'une pièce de poésie que mon clerc a fabriquée pour prendre part au concours de la Lyre-Amicale. Ces gamins-là ne doute de rien ! Allons, jeune poète, essaye ta pièce -- comme disent les artilleurs ! »
+
+Lionel, on ne peut plus satisfait d\'avoir un auditeur, qui serait peut-être plus indulgent que maître Nick, tira sa feuille de papier bleuâtre, et lut ce qui suit :
+
+
+LE FEU FOLLET.
+
+
+Ce feu fantasque, insaisissable,
+
+Qui, le soir, se dégage et luit,
+
+Et qui, dans l\'ombre de la nuit,
+
+Ni sur la mer ni sur le sable,
+
+Ne laisse de trace après lui !
+
+Ce feu toujours prêt à s\'éteindre,
+
+Tantôt blanchâtre ou violet,
+
+Pour reconnaître ce qu\'il est,
+
+Il faudrait le pouvoir atteindre\...
+
+Atteignez donc un feu follet !
+
+
+--- Oui, dit maître Nick, atteignez-le et mettez-le en cage !
+
+--- Continue, Lionel.
+
+
+On dit, est-ce chose certaine ?
+
+Que c\'est l\'hydrogène du sol.
+
+J\'aime mieux croire qu\'en son vol,
+
+Il vient d\'une étoile lointaine,
+
+De Véga, de la Lyre ou d\'Algol.
+
+
+--- Cela te regarde, mon garçon, dit maître Nick avec un petit signe de tête ! Ça, c\'est ton affaire ! »
+
+Lionel reprit :
+
+Mais n\'est-ce pas plutôt l\'haleine
+
+D\'un sylphe, d\'un djinn, d\'un lutin,
+
+Qui brille, s\'envole et s\'éteint,
+
+Lorsque se réveille la plaine
+
+Aux rayons joyeux du matin ?
+
+
+Ou la lueur de la lanterne
+
+Du long spectre qui va s\'asseoir
+
+Sur la chaume du vieux pressoir,
+
+Quand la lune, blafarde et terne,
+
+Se lève à l\'horizon du soir ?
+
+
+Peut-être l\'âme lumineuse
+
+D\'une folle qui va cherchant
+
+La paix hors du monde méchant,
+
+Et passe comme une glaneuse
+
+Qui n\'a rien trouvé dans son champ ?
+
+
+--- Parfait ! dit maître Nick. Es-tu au bout de tes comparaisons descriptives ?
+
+--- Oh ! non ! Maître Nick ! » répondit le jeune clerc.
+
+Et il poursuivit en ces termes :
+
+
+Serait-ce un effet de mirage,
+
+Produit par le trouble de l\'air
+
+Sur l\'horizon déjà moins clair,
+
+
+Le reste d\'un dernier éclair ?
+
+
+Est-ce la lueur d\'un bolide,
+
+D\'un météore icarien,
+
+Qui, dans son cours aérien,
+
+Était lumineux et solide,
+
+Et dont il ne reste plus rien ?
+
+
+Ou sur les champs dont il éclaire
+
+D\'un pâle reflet le sillon,
+
+Quelque mystérieux rayon
+
+Tombé d\'une aurore polaire,
+
+Comme un nocturne papillon ?
+
+
+« Qu\'est-ce que vous pensez de tout ce fatras de troubadour, monsieur ? demanda maître Nick au voyageur.
+
+--- Je pense, monsieur, répondit celui-ci, que votre jeune clerc a quelque imagination, et je suis curieux de savoir à quoi il pourrait encore comparer son feu follet.
+
+--- Continue donc, Lionel ! »
+
+Lionel avait quelque peu rougi au compliment du jeune homme, et, d\'une voix plus vibrante, il dit :
+
+
+Serait-ce en ces heures funèbres,
+
+Où les vivants dorment lassés,
+
+Le pavillon aux plis froissés
+
+Qu\'ici-bas l\'Ange des ténèbres
+
+Arbore au nom des trépassés ?
+
+
+« Brrr ! » fit maître Nick.
+
+
+Ou bien, au milieu des nuits sombres,
+
+Lorsque le moment est venu,
+
+Est-ce le signal convenu
+
+Que la terre, du sein des ombres,
+
+Envoie au ciel vers l\'inconnu,
+
+Et qui, comme un feu de marée,
+
+Aux esprits errants à travers
+
+Les vagues espaces ouverts,
+
+Indique la céleste entrée
+
+Des ports de l\'immense Univers ?
+
+
+« Bien, jeune poète ! dit le voyageur.
+
+--- Oui, pas mal, pas mal ! ajouta maître Nick. Où diable, Lionel, vas-tu chercher tout cela ! C\'est fini, je suppose ?
+
+--- Non, maître Nick, répondit Lionel, et, d\'une voix qui s\'accentuait encore :
+
+
+Mais si c\'est l\'amour, jeune fille,
+
+Qui l\'agite à tes yeux là-bas,
+
+Llaisse-le seul à ses ébats !
+
+Prends garde à ton coeur ! Ce feu brille\...
+
+Il brille mais ne brûle pas !
+
+
+« Attrapées, les jeunes filles ! s\'écria maître Nick. J\'aurais été bien surpris s\'il n\'y avait pas eu un peu d\'amour en jeu dans ces accords anacréontiques ! Après tout, c\'est de son âge ! -- Qu\'en pensez-vous, monsieur ?
+
+--- En effet, répondit le voyageur, et j\'imagine que\... »
+
+Le jeune homme venait de s\'interrompre à la vue d\'un groupe d\'hommes, postés sur le talus de la route, et dont l\'un fit signe au conducteur du stage de s\'arrêter.
+
+Celui-ci retint ses chevaux, et les hommes s\'approchèrent de la voiture.
+
+« C\'est monsieur Nick, il me semble ? dit l\'un de ces individus en se découvrant avec politesse.
+
+--- Et c\'est monsieur Rip ! » répondit le notaire, qui ajouta tout bas : «  Diable ! Méfions-nous ! »
+
+Très heureusement, ni maître Nick, ni son clerc, ni le chef de l\'agence, ne remarquèrent la transformation que subit la physionomie de l\'inconnu, lorsque ce nom de Rip fut prononcé.
+
+Sa figure était devenue pâle, non de la pâleur de l\'épouvante, mais de celle qui est inspirée par une insurmontable horreur. Visiblement, il avait eu la pensée de se jeter sur cet homme\... Mais, ayant détourné la tête, il parvint à se dominer.
+
+« Vous voilà en route pour Laval, monsieur le notaire ? reprit Rip.
+
+--- Comme vous le voyez, monsieur Rip. Des affaires qui vont me retenir pendant quelques heures ! Bon ! J\'espère bien être de retour ce soir à Montréal.
+
+--- Cela vous regarde.
+
+--- Et que faites-vous là avec vos hommes ? demanda maître Nick. Toujours à l\'affût pour le compte du gouvernement ! En aurez-vous arrêté de ces malfaiteurs ! Bah ! On a beau en prendre, ils se multiplient comme les mauvaises herbes ! En vérité, ils feraient mieux de devenir d\'honnêtes gens\...
+
+--- Comme vous dites, monsieur Nick, mais c\'est la vocation qui leur manque !
+
+--- La vocation ! Toujours plaisant, monsieur Rip !
+
+--- Est-ce que vous êtes sur la trace de quelque criminel ?
+
+--- Criminel pour les uns, héros pour les autres, répondit Rip. Cela dépend du point de vue !
+
+--- Qu\'entendez-vous dire ?
+
+--- Que l\'on a signalé dans l\'île la présence de ce fameux Jean-Sans-Nom\...
+
+--- Ah ! Le fameux Jean-Sans-Nom ! Oui ! Les patriotes en ont fait un héros, et non sans de bons motifs ! Mais, paraît-il, Sa Gracieuse Majesté n\'est pas de cet avis, puisque le ministre Gilbert Argall vous a lancé à ses trousses !
+
+--- En effet, monsieur Nick !
+
+--- Et vous dites qu\'on l\'a vu dans l\'île de Montréal, ce mystérieux agitateur ?
+
+--- On le prétend du moins, répondit Rip, quoique je commence à en douter ! -- Oh ! S\'il y est venu, il doit en être reparti, répliqua maître Nick, ou, s\'il y est encore, il n\'y sera plus longtemps ! Jean-Sans-Nom n\'est pas facile à prendre !
+
+--- Un vrai feu follet, dit alors le voyageur en s\'adressant au jeune clerc.
+
+--- Ah ! Bien ! Ah ! Très bien ! s\'écria maître Nick ! Salue, Lionel ! -- Et, à propos, monsieur Rip, si, par hasard, vous rencontriez un feu follet sur votre route, tâchez de le saisir au collet pour l\'apporter à mon clerc ! Ça fera plaisir, à cette flamme errante, d\'entendre comme la traite un disciple d\'Appon !
+
+--- Ce serait avec empressement, répondit Rip, si nous n\'étions pas obligés de retourner sans retard à Montréal, où j\'attends de nouvelles instructions. »
+
+Puis, se tournant vers le jeune homme :
+
+« Et monsieur vous accompagne ?
+
+--- Jusqu\'à Laval, répondit l\'inconnu\...
+
+--- Où j\'ai hâte d\'arriver, ajouta le notaire. Au revoir, monsieur Rip ! S\'il m\'est impossible de vous souhaiter bonne chance, car la capture de Jean-Sans-Nom ferait trop de peine aux patriotes, je vous souhaite du moins le bonjour !
+
+--- Et moi, bon voyage, monsieur Nick ! »
+
+Les chevaux ayant repris le trot, Rip et ses hommes disparurent au tournant de la route.
+
+Quelques instant après, le notaire disait à son compagnon, qui s\'était rejeté dans le coin du stage :
+
+« Oui ! Il faut espérer que Jean-Sans-Nom ne se laissera pas attraper ! Depuis si longtemps qu\'on le cherche\...
+
+--- On peut le chercher ! s\'écria Lionel.
+
+Ce damné Rip lui-même y perdra sa réputation d\'habileté !
+
+--- Chut ! Lionel ! Cela ne nous regarde pas !
+
+--- Ce Jean-Sans-Nom est habitué, sans doute, à déjouer la police ? demanda le voyageur.
+
+--- Comme vous dites, monsieur. S\'il se laissait prendre, ce serait une grande perte pour le parti franco-canadien\...
+
+--- Les gens d\'action ne lui manquent pas, monsieur Nick, et il n\'en est pas à un homme près !
+
+--- N\'importe ! répondit le notaire. J\'ai entendu dire que ce serait très regrettable ! Après tout, je ne m\'occupe pas plus de politique que Lionel, et mieux vaut n\'en point parler.
+
+--- Mais, reprit le jeune homme, nous avons été interrompus au moment où votre jeune clerc s\'abandonnait au souffle poétique\...
+
+--- Il avait fini de souffler, je suppose ?
+
+--- Non, maître Nick, répondit Lionel, en remerciant par un sourire son bienveillant auditeur.
+
+--- Comment, tu n\'es pas époumoné ? s\'écria le notaire. Voilà un feu follet qui est devenu tour à tour sylphe, djinn, lutin, spectre, âme lumineuse, mirage, éclair, bolide, rayon, pavillon, feu de marée, étincelle d\'amour, et ce n\'est pas assez ? En vérité, je me demande ce qu\'il pourrait être encore ?
+
+--- Je serais curieux de le savoir ! répondit le voyageur.
+
+--- Alors, continue, Lionel, continue, et finis, si toutefois cette nomenclature doit avoir une fin ! »
+
+Lionel, habitué aux plaisanteries de maître Nick, ne s\'en émut pas autrement, et reprit :
+
+
+Qui que tu sois, éclair, souffle, âme,
+
+Pour mieux pénétrer tes secrets,
+
+Ô feu fantasque, je voudrais
+
+Pouvoir m\'absorber dans ta flamme !
+
+Alors partout je te suivrais,
+
+
+Lorsque sur la cime des arbres,
+
+Tu viens poser ton front ailé,
+
+Ou, discrètement appelé,
+
+Lorsque tu caresses les marbres
+
+Du cimetière désolé !
+
+
+--- Triste ! Triste ! murmura le notaire.
+
+
+Ou quand tu rôdes sur les lisses
+
+Du navire battu de flanc
+
+Sous les coups du typhon hurlant,
+
+Et que dans les agrès tu glisses,
+
+Comme un lumineux goéland !
+
+
+Et l\'union serait complète,
+
+Si le destin, un jour, voulait
+
+Que je pusse, comme il me plaît,
+
+Naître avec toi, flamme follette,
+
+Mourir avec toi, feu follet !
+
+
+« Ah ! Très bien cela ! s\'écria maître Nick. Voilà une fin qui me va ! Ça peut se chanter :
+
+
+Flamme follette,
+
+Feu follet !
+
+
+--- Qu\'en dites-vous, monsieur ?
+
+--- Monsieur, répondit le voyageur, tous mes compliments à ce jeune poète, et puisse-t-il avoir le prix de poésie au concours de la Lyre-Amicale. Quoiqu\'il arrive, ses vers nous auront fait passer quelques moments agréables, et jamais voyage ne m\'aura paru si court ! »
+
+Lionel, extrêmement flatté, but à même cette coupe de louanges que lui tendait le jeune homme. Au fond, maître Nick était très satisfait des éloges adressés à son jeune clerc.
+
+Pendant ce temps, le stage avait marché d\'un bon pas, et onze heures sonnaient à peine, lorsqu\'il atteignit la branche septentrionale du fleuve.
+
+À cette époque, les premiers steamboats avaient déjà fait leur apparition sur le Saint-Laurent. Ils n\'étaient ni puissants ni rapides, et rappelaient plutôt par leurs dimensions restreintes ces chaloupes à vapeur, auxquelles on donne maintenant en Canada le nom de « tug-boat » ou plus communément de « toc. »
+
+En quelques minutes, ce toc eut transporté maître Nick, son clerc et le voyageur à travers le cours intermédiaire du fleuve, dont les eaux verdâtres se mêlaient aux eaux noires de la rivière Outaouais.
+
+Là, on se sépara, après compliments et poignées de mains échangées de part et d\'autre.
+
+Puis, tandis que le voyageur gagnait directement les rues de Laval, maître Nick et Lionel, tournant la ville, se dirigèrent vers l\'est de l\'île Jésus.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 4 -- La villa Montcalm]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942143 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-4-la-villa-montcalm .calibre171 .sigil_not_in_toc}
+
+L\'île Jésus, couchée entre les deux bras supérieurs du Saint-Laurent, moins étendue que l\'île Montréal, renferme un certain nombre de paroisses. Elle circonscrit dans son périmètre le comté de Laval -- dont le nom appartient aussi à la grande Université catholique de Québec, en souvenir du premier évêque institué dans le pays canadien.
+
+Laval est également le nom de la principale bourgade de l\'île Jésus, située sur sa rive méridionale. L\'habitation de M. De Vaudreuil, bien qu\'elle fît partie de cette paroisse, se trouvait à une lieue en descendant le cours du Saint-Laurent.
+
+C\'était une maison d\'agréable aspect, entourée d\'un parc qui couvrait une cinquantaine d\'acres[[\[1\]]{.MsoFootnoteReference8}](../Text/Section0004.xhtml#_ftn1032){#_ftnref1032 .pcalibre2 .pcalibre1}, couvert de prairies et de hautes futaies, et dont la berge du fleuve formait la lisière. Par sa disposition architecturale comme par les détails de son ornementation, elle contrastait avec cette mode anglo-saxonne du pseudo-gothique, si en honneur dans la Grande-Bretagne. Le goût français y dominait, et, n\'eût été le cours rapide et tumultueux du Saint-Laurent qui grondait à ses pieds, on aurait pu penser que la villa Montcalm -- ainsi s\'appelait-elle -- s\'élevait sur les bords de la Loire, dans le voisinage de Chenonceaux ou d\'Amboise.
+
+Très mêlé aux dernières insurrections réformistes du Canada, M. De Vaudreuil avait figuré dans le complot auquel la trahison de Simon Morgaz avait donné un dénouement si tragique, la mort de Walter Hodge, de Robert Farran et de François Clerc, l\'emprisonnement des autres conjurés. Quelques années plus tard, une amnistie ayant rendu ceux-ci à la liberté, M. De Vaudreuil était revenu à son domaine de l\'île Jésus.
+
+La villa Montcalm était bâtie sur le bord du fleuve.
+
+Dans le courant du flux et du reflux, se baignaient les premiers degrés de sa terrasse antérieure, qu\'une élégante véranda abritait en partie devant la façade de l\'habitation. En arrière, sous les tranquilles ombrages du parc, la brise du fleuve entretenait une fraîcheur aérienne, qui rendait très supportables les chaudes journées de l\'été canadien. Pour qui eût aimé la chasse ou la pêche, il y aurait eu à s\'occuper du matin au soir. Le gibier abondait dans les plaines de l\'île, le poisson au fond des criques du Saint-Laurent, auquel les lointaines ondulations de la chaîne des Laurentides faisaient, sur la rive gauche, un large cadre de verdure.
+
+Là, pour des Franco-Canadiens, en ce pays resté si français, c\'était comme si le Canada se fût encore appelé la Nouvelle-France. Les moeurs y étaient toujours celles du XVIIIème siècle. Un auteur anglais, Russel, a très justement pu dire : « Le bas Canada, c\'est plutôt une France du vieux temps où régnait le drapeau blanc fleurdelisé. » Un auteur français, Eugène Réveillaud, a écrit : « C\'est le champ d\'asile de l\'ancien régime. C\'est une Bretagne ou une Vendée d\'il y a soixante ans, qui se prolonge au-delà de l\'Océan. Sur ce continent d\'Amérique, l\'habitant a conservé avec un soin jaloux les habitudes d\'esprit, les croyances naïves et les superstitions de ses pères. » Ceci est encore vrai, à l\'époque actuelle, comme il est vrai également que la race française s\'est conservée très pure au Canada, et sans mélange de sang étranger.
+
+De retour à la villa Montcalm, vers 1829, M. De Vaudreuil se trouvait dans des conditions à vivre heureux. Bien que sa fortune ne fût pas considérable, elle lui assurait une aisance, dont il aurait pu jouir en repos, si son patriotisme, toujours ardent, ne l\'eût jeté dans les agitations de la politique militante.
+
+À l\'époque où commence cette histoire, M. De Vaudreuil avait quarante-sept ans. Ses cheveux grisonnants le faisaient paraître un peu plus âgé peut-être ; mais son regard vif, ses yeux bleu-foncé d\'un grand éclat, sa taille au-dessus de la moyenne, sa robuste constitution, qui lui assurait une santé à toute épreuve, sa physionomie sympathique et prévenante, son allure un peu fière sans être hautaine, en faisaient le type par excellence du gentilhomme français. C\'était le véritable descendant de cette audacieuse noblesse qui traversa l\'Atlantique au XVIIIème siècle, le fils de ces fondateurs de la plus belle des colonies d\'outre-mer, que l\'odieuse indifférence de Louis XV avait abandonnée aux exigences de la Grande-Bretagne.
+
+M. De Vaudreuil était veuf depuis une dizaine d\'années. La mort de sa femme, qu\'il aimait d\'une affection profonde, laissa un irréparable vide dans son existence. Toute sa vie se reporta dès lors sur sa fille unique, en laquelle revivait l\'âme vaillante et généreuse de sa mère.
+
+À cette époque, Clary de Vaudreuil avait vingt ans. Sa taille élégante, son épaisse chevelure presque noire, ses grands yeux ardents, son teint chaud sous sa pâleur, son air un peu grave la rendaient peut-être plus belle que jolie, plus imposante qu\'attirante, comme certaines héroïnes de Fenimore Cooper. Le plus habituellement, elle se tenait dans une froide réserve, ou, pour mieux dire, son existence entière se concentrait sur le seul amour qu\'elle eût ressenti jusqu\'alors, -- l\'amour de son pays.
+
+En effet, Clary de Vaudreuil était une patriote. Pendant la période des mouvements qui se produisirent en 1832 et en 1834, elle suivit de près les diverses phases de l\'insurrection.
+
+Les chefs de l\'opposition la regardaient comme la plus vaillante de ces nombreuses jeunes filles, dont le dévouement était acquis à la cause nationale. Aussi, lorsque les amis politiques de M. De Vaudreuil se réunissaient à la villa Montcalm, Clary prenait-elle part à leurs conférences, ne s\'y mêlant que discrètement en paroles, mais écoutant, observant, s\'employant à la correspondance avec les comités réformistes. Tous les Franco-Canadiens avaient en elle la plus absolue confiance, parce qu\'elle la méritait, et la plus respectueuse amitié, parce qu\'elle en était digne.
+
+Cependant, en ce coeur passionné, un autre amour était venu se confondre depuis quelque temps avec l\'amour que lui inspirait son pays -- amour idéal et vague, qui ne connaissait même pas celui auquel il s\'adressait.
+
+En 1831 et 1834, un personnage mystérieux était venu jouer un rôle prépondérant au milieu des tentatives de rébellion de cette époque. Il y avait risqué sa tête avec une audace, un courage, un désintéressement, bien faits pour agir sur les imaginations sensibles. Dès lors, dans toute la province du Canada, on répétait son nom avec enthousiasme, -- ou plutôt, ce qui lui en restait, puisqu\'on ne l\'appelait pas autrement que Jean-Sans-Nom. Aux jours d\'émeutes, il surgissait au plus fort de la mêlée ; puis, à l\'issue de la lutte, il disparaissait. Mais on sentait qu\'il agissait dans l\'ombre, que sa main ne cessait de préparer l\'avenir. Vainement, les autorités avaient essayé de découvrir sa retraite. La maison Rip and Co elle-même avait échoué dans ses recherches. D\'ailleurs, on ne savait rien de l\'origine de cet homme, non plus que de sa vie passée ni de sa vie présente. Néanmoins, ce qu\'il fallait bien reconnaître, c\'est que son influence était toute-puissante sur la population franco-canadienne.
+
+Par suite, une légende s\'était faite autour de sa personne, et les patriotes s\'attendaient toujours à le voir apparaître, agitant le drapeau de l\'indépendance.
+
+Les actes de ce héros anonyme avaient fait une empreinte si vive et si profonde sur l\'esprit de Clary de Vaudreuil. Ses plus intimes pensées allaient invariablement à lui. Elle l\'évoquait comme un être surnaturel. Elle vivait tout entière dans cette communauté mystique. En aimant Jean-Sans-Nom du plus idéal des amours, il lui semblait qu\'elle aimait plus encore son pays. Mais, ce sentiment, elle l\'enfermait étroitement dans son coeur. Et, lorsque son père la voyait s\'éloigner à travers les allées du parc, s\'y promener toute pensive, il ne pouvait se douter qu\'elle rêvait du jeune patriote qui symbolisait à ses yeux la révolution canadienne.
+
+Parmi les amis politiques, le plus souvent réunis à la villa Montcalm, se rencontraient dans une complète intimité quelques-uns de ceux dont les parents avaient pris part avec M. De Vaudreuil au funeste complot de 1825. Au nombre de ces amis, il convient de citer André Farran et William Clerc, dont les frères, Robert et François, étaient montés sur l\'échafaud, le 28 septembre 1825 ; puis, Vincent Hodge, fils de Walter Hodge, le patriote américain, mort pour la cause du Canada, après avoir été livré avec ses compagnons par Simon Morgaz. En même temps qu\'eux, un avocat de Québec, le député Sébastien Gramont -- celui-là même dans la maison duquel la présence de Jean-Sans-Nom avait été faussement signalée à l\'agence Rip -- venait quelquefois aussi chez M. De Vaudreuil.
+
+Le plus ardent contre les oppresseurs était certainement Vincent Hodge, alors âgé de trente-deux ans.
+
+De sang américain par son père, il était de sang français par sa mère, morte de douleur, peu de temps après le supplice de son mari. Vincent Hodge n\'avait pu vivre près de Clary, sans s\'être laissé aller à l\'admirer d\'abord, à l\'aimer ensuite, -- ce qui n\'était point pour déplaire à M. De Vaudreuil. Vincent Hodge était un homme distingué, d\'abord sympathique, de tournure agréable, quoiqu\'il eût l\'allure décidée du Yankee des frontières. Pour la sûreté des sentiments, la solidité des affections, le courage à toute épreuve, Clary de Vaudreuil n\'eût pu choisir un mari plus digne d\'elle.
+
+Mais la jeune fille n\'avait même pas remarqué la recherche dont elle était l\'objet. Entre Vincent Hodge et elle, il ne pouvait y avoir qu\'un lien, -- celui du patriotisme. Elle appréciait ses qualités : elle ne pouvait l\'aimer. Sa vie, ses pensées, ses aspirations appartenaient à un autre, à l\'inconnu qu\'elle attendait et qui apparaîtrait un jour.
+
+Cependant M. De Vaudreuil et ses amis observaient avec attention le mouvement des esprits dans les provinces canadiennes. L\'opinion y était extrêmement surexcitée au sujet des loyalistes. Il ne se tramait pas encore de complot proprement dit, comme en 1825, entre personnages politiques, ayant pour objet de tenter un coup de force contre le gouverneur général. Non ! C\'était plutôt comme une conspiration universelle, à l\'état latent. Pour que la rébellion éclatât, il suffirait qu\'un chef appelât à lui les libéraux en soulevant les paroisses des divers comtés. Nul doute, alors, que les députés réformistes, M. De Vaudreuil et ses amis, se jetassent aux premiers rangs de l\'insurrection.
+
+Et, en effet, jamais les circonstances n\'avaient été plus favorables.
+
+Les réformistes, poussés à bout, faisaient entendre de violentes protestations, dénonçant les exactions du gouvernement, qui se disait autorisé par le cabinet britannique à mettre la main sur les deniers publics, sans le consentement de la législature. Les journaux, -- entre autres le Canadien, fondé en 1806, et le Vindicator, de création plus récente -- fulminaient contre la Couronne et les agents nommés par elle. Ils reproduisaient les discours prononcés au Parlement ou dans les comices populaires par les Papineau, les Viger, les Quesnel, les Saint-Réal, les Bourdages, et tant d\'autres, qui rivalisaient de talent et d\'audace dans leurs patriotiques revendications. En ces conditions, une étincelle suffirait à provoquer l\'explosion populaire. C\'était bien ce que savait lord Gosford, et ce que les partisans de la réforme n\'ignoraient pas plus que lui.
+
+Or, les choses en étaient à ce point, quand, dans la matinée du 3 septembre, une lettre arriva à la villa Montcalm. Cette lettre, déposée la veille au bureau du post-office de Montréal, prévenait M. De Vaudreuil que ses amis Vincent Hodge, André Farran et William Clerc étaient invités à se rendre près de lui dans la soirée dudit jour. M. De Vaudreuil ne reconnaissait pas la main qui l\'avait écrite et signée de ces seuls mots : Un fils de la Liberté. M. De Vaudreuil fut assez surpris de cette communication, et aussi de la manière dont elle lui était faite. La veille, il avait vu ses amis à Montréal, chez l\'un d\'eux, et l\'on s\'était séparé sans prendre de rendez-vous pour le lendemain. Vincent Hodge, Farran, Clerc, avaient-ils donc reçu une lettre de même provenance, qui leur donnait rendez-vous à la villa Montcalm ? Cela devait être ; mais on pouvait craindre qu\'il y eût là-dessous quelque machination de police.
+
+Cette méfiance ne s\'expliquait que trop depuis l\'affaire Simon Morgaz. Quoiqu\'il en soit, M. De Vaudreuil n\'avait qu\'à attendre. Lorsque Vincent Hodge, Farran et Clerc seraient arrivés à la villa, -- s\'ils y venaient, -- ils lui expliqueraient sans doute ce qu\'il y avait d\'inexplicable dans ce singulier rendez-vous. Ce fut l\'avis de Clary, lorsqu\'elle eut pris connaissance de la lettre. Les yeux attachés sur cette mystérieuse écriture, elle l\'examinait attentivement. Étrange disposition de son esprit ! Là où son père pressentait un piège tendu à ses amis politiques et à lui, elle semblait, au contraire, croire à quelque intervention puissante dans la cause nationale. Allait-elle se montrer enfin, la main qui saisirait les fils d\'un nouveau soulèvement, qui le dirigerait et le mènerait au but ?
+
+« Mon père, dit-elle, j\'ai confiance ! »
+
+Cependant, comme le rendez-vous n\'était indiqué que pour le soir, M. De Vaudreuil voulut préalablement se rendre à Laval. Peut-être y apprendrait-il quelque nouvelle qui eût motivé l\'urgence de la conférence projetée. Il se trouverait là, d\'ailleurs, pour recevoir Vincent Hodge et ses deux amis, lorsqu\'ils débarqueraient à l\'appontement de l\'île Jésus. Mais, au moment où il allait donner l\'ordre d\'atteler, son domestique vint le prévenir qu\'un visiteur venait d\'arriver à la villa Montcalm.
+
+« Quelle est cette personne ? demanda vivement M. De Vaudreuil. -- Voici sa carte », répondit le domestique.
+
+M. De Vaudreuil prit la carte, lut le nom qu\'elle portait, et s\'écria aussitôt : « Cet excellent maître Nick ?
+
+Il est toujours le bienvenu ! faites entrer ! »
+
+Un instant après, le notaire se trouvait en présence de M. De Vaudreuil et de sa fille.
+
+« Vous, maître Nick ! dit M. De Vaudreuil.
+
+--- En personne, et prêt à vous rendre mes devoirs, ainsi qu\'à mademoiselle Clary ! » répondit le notaire.
+
+Et il serra la main de M. De Vaudreuil, après avoir fait à la jeune fille un de ces saluts officiels, dont les anciens tabellions semblent avoir gardé la tradition surannée.
+
+« Maître Nick, reprit M. De Vaudreuil, voilà une visite inattendue, mais qui n\'en est que plus agréable !
+
+--- Agréable surtout pour moi ! répondit maître Nick. Et comment vous portez-vous, mademoiselle ? Et vous, monsieur de Vaudreuil ? Vous avez des mines florissantes ! Décidément, il fait bon vivre à la villa Montcalm ! Il faudra que j\'emporte à ma maison du marché Bon-Secours un peu de l\'air qu\'on y respire !
+
+--- Il ne tient qu\'à vous d\'en faire provision, maître Nick ! Venez-nous voir plus souvent\...
+
+--- Et restez quelques jours ! ajouta Clary.
+
+--- Et mon étude, et mes actes ! s\'écria le loquace notaire. Voilà qui ne me laisse guère de temps pour les loisirs de la villégiature ! Ah ! Pas les testaments, par exemple ! Ce que nous avons d\'octogénaires, et même de centenaires ! Cela dépasse les bornes habituelles de la statistique ! Mais, par exemple, les contrats de mariage, voilà ce qui me met sur les dents ! Tenez ! Dans six semaines, j\'ai rendez-vous à Laprairie, chez un de mes clients, -- un de mes bons clients, vous pouvez le croire, -- puisque je suis mandé pour dresser le contrat de son dix-neuvième rejeton !
+
+--- Ce doit être mon fermier Thomas Harcher, je le parierais ! répondit M. De Vaudreuil.
+
+--- Lui-même, et c\'est précisément à votre ferme de Chipogan que je suis attendu.
+
+--- Quelle belle famille, maître Nick !
+
+--- À coup sûr, monsieur de Vaudreuil, et remarquez que je ne suis pas prêt d\'en avoir fini avec les actes qui la concernent !
+
+--- Eh bien, monsieur Nick, dit Clary, il est probable que nous vous retrouverons à la ferme de Chipogan. Thomas Harcher a tellement insisté pour que nous assistions au mariage de sa fille, que mon père et moi, si rien ne nous retient à la villa Montcalm, nous voulons lui faire ce plaisir ! -- Et ce sera m\'en faire un aussi ! répondit maître Nick. N\'est-ce pas une joie pour moi de vous voir ? Je n\'ai qu\'un reproche à vous faire, mademoiselle Clary.
+
+--- Un reproche, monsieur Nick ?
+
+--- Oui ! C\'est de ne me recevoir ici qu\'à titre d\'ami, et de ne jamais me faire appeler comme notaire ! »
+
+La jeune fille sourit à l\'insinuation, et, presque aussitôt, ses traits reprirent leur gravité habituelle.
+
+« Et pourtant, fit observer M. De Vaudreuil, si ce n\'est pas comme ami, mon cher Nick, c\'est comme notaire que vous êtes venu aujourd\'hui à la villa Montcalm ?
+
+--- Sans doute ! Sans doute\... répondit maître Nick, mais ce n\'est pas pour le compte de mademoiselle Clary ! Enfin, cela arrivera ! Tout arrive ! -- À propos, monsieur de Vaudreuil, j\'ai à vous prévenir que je ne suis pas venu seul.
+
+--- Quoi, maître Nick, vous avez un compagnon de route, et vous le laissez attendre dans l\'antichambre ?
+
+Je vais donner l\'ordre de le faire entrer\...
+
+--- Non ! Non ! Ce n\'est pas la peine ! C\'est mon second clerc, tout simplement\... Un garçon qui fait des vers, -- a-t-on jamais vu cela ? -- et qui court après les feux follets ! Vous figurez-vous un clerc-poète ou un poète-clerc, mademoiselle Clary ! Comme je désire vous parler en particulier, monsieur de Vaudreuil, je lui ai dit d\'aller se promener dans le parc\...
+
+--- Vous avez bien fait, maître Nick. Mais il faudrait faire rafraîchir ce jeune poète.
+
+--- Inutile ! Il ne boit que du nectar, et, à moins qu\'il ne vous en reste de la dernière récolte ! »
+
+M. De Vaudreuil ne put s\'empêcher de rire aux plaisanteries de l\'excellent homme qu\'il connaissait de longue date, et dont les conseils lui avaient toujours été si précieux pour la direction de ses affaires personnelles.
+
+« Je vais vous laisser avec mon père, monsieur Nick, dit alors Clary.
+
+--- Je vous en prie, restez, mademoiselle ! répliqua le notaire. Je sais que je puis parler devant vous, même de choses qui pourraient avoir quelque rapport avec la politique\... Du moins, je le suppose, car, vous ne l\'ignorez pas, je ne me mêle jamais\...
+
+--- Bien\... Bien.. Maître Nick ! répondit M. De Vaudreuil. Clary assistera à notre entretien. Asseyons-nous d\'abord, puis, vous causerez tout à votre aise ! »
+
+Le notaire prit un des fauteuils de canne qui meublaient le salon, tandis que M. De Vaudreuil et sa fille s\'installaient sur un canapé en face de lui.
+
+« Et maintenant, mon cher Nick, demanda M. De Vaudreuil, pourquoi êtes-vous venu à la villa Montcalm ?
+
+--- Pour vous remettre ceci », répondit le notaire.
+
+Et il tira de sa poche une liasse de bank-notes.
+
+« De l\'argent ? dit M. De Vaudreuil, qui ne put cacher son extrême surprise.
+
+--- Oui, de l\'argent, du bon argent, et, que cela vous plaise ou non, une belle somme !
+
+--- Une belle somme ?
+
+--- Jugez-en ! Cinquante mille piastres en jolis billets ayant cours légal ! -- Et cet argent m\'est destiné ?
+
+--- À vous\... À vous seul !
+
+--- Qui me l\'envoie ?
+
+--- Impossible de vous le dire, pour une excellente raison, c\'est que je ne le sais pas.
+
+--- À quel usage cet argent doit-il être employé ?
+
+--- Je ne le sais pas davantage !
+
+--- Et comment avez-vous été chargé de me remettre une somme aussi considérable ?
+
+--- Lisez. »
+
+Le notaire tendit une lettre, qui ne contenait que ces quelques lignes :
+
+« Maître Nick, notaire à Montréal, voudra bien remettre au président du comité réformiste de Laval, à la villa Montcalm, le restant de la somme qui solde notre compte dans son étude.
+
+« 2 septembre 1837.
+
+« J. B. J. »
+
+
+M. De Vaudreuil regardait le notaire, sans rien comprendre à cet envoi qui lui était personnellement adressé.
+
+« Maître Nick, où cette lettre a-t-elle été mise à la poste ? demanda-t-il. -- À Saint-Charles, comté de Verchères ! »
+
+Clary avait pris la lettre. Elle en examinait maintenant l\'écriture. Peut-être était-elle de la même main que la lettre qui venait de prévenir M. De Vaudreuil de la visite de ses amis Vincent Hodge, Clerc et Farran ? Il n\'en était rien. Aucune ressemblance manuscrite entre les deux lettres -- ce que Mlle de Vaudreuil fit observer à son père.
+
+« Vous ne soupçonnez pas, monsieur Nick, demanda-t-elle, quel pourrait être le signataire de cette lettre, qui se cache sous ces simples initiales J. B. J. ?
+
+--- Aucunement, mademoiselle Clary.
+
+--- Et, pourtant, ce n\'est pas la première fois que vous êtes en rapport avec cette personne ?
+
+--- Évidemment !
+
+--- Ou même ces personnes, car la lettre ne dit pas « mon » mais « notre compte », -- ce qui permet de penser que ces trois initiales appartiennent à trois noms différents.
+
+--- En effet, répondit maître Nick.
+
+--- J\'observe aussi, dit M. De Vaudreuil, que, puisqu\'il est question d\'un solde de compte, c\'est que vous avez déjà disposé antérieurement\...
+
+--- Monsieur de Vaudreuil, répliqua le notaire, voici ce que je puis, et même, il me semble, ce que je dois vous dire ! »
+
+Et, prenant un temps avant d\'entrer en matière, maître Nick raconta ce qui suit :
+
+« En 1825, un mois après le jugement qui coûta la vie à quelques-uns de vos amis les plus chers, monsieur de Vaudreuil, et à vous, la liberté, je reçus un pli chargé, contenant en bank-notes l\'énorme somme de cent mille piastres. Le pli dont il s\'agit avait été mis au bureau de poste à Québec, et renfermait une lettre conçue en ces termes :
+
+Cette somme de cent mille piastres est remise entre les mains de maître Nick, notaire à Montréal, pour qu\'il en fasse emploi suivant les avis qu\'il recevra ultérieurement. On compte sur sa discrétion pour ne point parler du dépôt qui est confié à ses soins ni de l\'usage qui pourra en être fait plus tard.
+
+--- Et c\'était signé ? demanda Clary.
+
+--- C\'était signé J. B. J., répondit maître Nick.
+
+--- Les mêmes initiales ? dit M. De Vaudreuil.
+
+--- Les mêmes ? répéta Clary.
+
+--- Oui, mademoiselle. Ainsi que vous le pensez, reprit le notaire, je fus on ne peut plus surpris du côté mystérieux de ce dépôt. Mais, après tout, comme je ne pouvais renvoyer la somme au client inconnu qui me l\'avait fait parvenir, comme, d\'autre part, je ne me souciais pas d\'en informer l\'autorité, je versai les cent mille piastres à la banque de Montréal, et j\'attendis. »
+
+Clary de Vaudreuil et son père écoutaient maître Nick avec la plus vive attention. Le notaire n\'avait-il pas dit que, dans sa pensée, cet argent avait peut-être une destination politique ? Et, en effet, ainsi qu\'on va le voir, il ne s\'était pas trompé.
+
+« Six ans plus tard, reprit-il, une somme de vingt-deux mille piastres me fut demandée par une lettre, signée de ces énigmatiques initiales, avec prière de l\'adresser à la bourgade de Berthier, dans le comté de ce nom.
+
+--- À qui ? demanda M. De Vaudreuil.
+
+--- Au président du comité réformiste, et, peu de temps après, éclatait la révolte que vous savez. Quatre ans s\'écoulèrent, et même lettre prescrivant l\'envoi d\'une somme de vingt-huit mille piastres à Sainte-Martine, cette fois, au président du comité de Châteauguay. Un mois plus tard, se produisait la violente réaction, qui marqua les élections de 1834, amena la prorogation de la Chambre et fut suivie d\'une demande de mise en accusation contre le gouverneur lord Aylmer ! »
+
+M. De Vaudreuil réfléchit quelques instants à ce qu\'il venait d\'entendre, et s\'adressant au notaire :
+
+« Ainsi, mon cher Nick, dit-il, vous voyez une corrélation entre ces diverses manifestations et l\'envoi de l\'argent aux comités réformistes ?
+
+--- Moi, monsieur de Vaudreuil, répliqua maître Nick, je ne vois rien du tout ! Je ne suis pas un homme politique ! Je ne suis qu\'un simple officier ministériel ! Je n\'ai fait que restituer les sommes dont j\'avais reçu le dépôt, et suivant la destination indiquée ! Je vous dis les choses comme elles sont, et vous laisse le soin d\'en tirer les conséquences !
+
+--- Bon ! Mon prudent ami ! répondit M. De Vaudreuil, en souriant. Nous ne vous compromettrons pas. Mais enfin, si vous êtes venu aujourd\'hui à la villa Montcalm\...
+
+--- C\'est pour faire une troisième fois, monsieur de Vaudreuil, ce que j\'ai fait deux fois déjà. Ce matin, 3 septembre, j\'ai été avisé : 1. De disposer du restant de la somme qui m\'avait été remise -- soit cinquante mile piastres ; 2. De la remettre entre les mains du président du comité de Laval.
+
+C\'est pourquoi, M. De Vaudreuil étant président dudit comité, je suis venu lui apporter ladite somme pour solde de compte. Maintenant, à quel usage doit-elle être employée ? Je ne le sais pas et ne désire point le savoir. C\'est entre les mains du président mentionné dans la lettre que j\'ai opéré le versement, et si je ne la lui ai point envoyée par la poste, si j\'ai préféré l\'apporter moi-même, c\'est que c\'était une occasion de revoir mon ami M. De Vaudreuil et Mlle Clary, sa fille ! »
+
+Maître Nick avait pu faire son récit sans être interrompu. Et alors, ayant dit ce qu\'il avait à dire, il se leva, s\'approcha de la baie ouverte sur la terrasse et examina les embarcations qui remontaient ou descendaient le fleuve.
+
+M. De Vaudreuil, plongé dans ses réflexions, gardait le silence. Un même travail de déduction se faisait dans l\'esprit de sa fille. Il n\'était pas douteux que cet argent, mystérieusement déposé dans la caisse de maître Nick, eût été employé aux besoins de la cause, non moins douteux qu\'on lui réservait le même usage en vue d\'une insurrection prochaine. Or, cet envoi étant fait le jour même où un « Fils de la Liberté » venait de convoquer à la villa Montcalm les plus intimes amis de M. De Vaudreuil, ne semblait-il pas qu\'il y eût là une connexité au moins singulière ?
+
+La conversation se prolongea pendant quelque temps encore. Et comment, avec le verbeux maître Nick, en eût-il été autrement ? Il entretint M. De Vaudreuil de ce que M. De Vaudreuil savait aussi bien et mieux que lui, de la situation politique, surtout dans le bas Canada. Et ces choses, -- ne cessait-il de répéter, -- il ne les rapportait qu\'avec la plus extrême réserve, n\'ayant point tendance à se mêler de ce qui ne le regardait pas.
+
+Ce qu\'il en faisait, c\'était pour mettre M. De Vaudreuil en défiance, car certainement il y avait redoublement de surveillance de la part des agents de police dans les paroisses du comté de Montréal.
+
+Et, à ce propos, maître Nick fut amené à dire :
+
+« Ce que les autorités redoutent particulièrement, c\'est qu\'un chef vienne se mettre à la tête d\'un mouvement populaire, et que ce chef soit précisément le fameux Jean-Sans-Nom ! »
+
+À ces derniers mots, Clary se leva et alla s\'accouder sur la fenêtre ouverte du côté du parc.
+
+« Connaissez-vous donc cet audacieux agitateur, mon cher Nick ? demanda M. De Vaudreuil.
+
+--- Je ne le connais pas, répondit le notaire, je ne l\'ai jamais vu, et n\'ai même jamais rencontré personne qui le connaisse ! Mais il existe, il n\'y pas de doute à cet égard ! Et je me le figure volontiers sous les traits d\'un héros de roman\... Un jeune homme de haute taille, les traits nobles, la physionomie sympathique, la voix entraînante, -- à moins que ce ne soit quelque bon patriarche, sur la limite de la vieillesse, ridé et cassé par l\'âge ! Avec ces personnages-là, on ne sait jamais à quoi s\'en tenir !
+
+--- Quel qu\'il soit, répondit M. De Vaudreuil, plaise à Dieu que la pensée lui vienne bientôt de se mettre à notre tête, et nous le suivrons aussi loin qu\'il voudra nous conduire !
+
+--- Eh ! Monsieur de Vaudreuil, cela pourrait bien arriver avant peu ! s\'écria maître Nick.
+
+--- Vous dites ? demanda Clary, qui revint vivement au milieu du salon.
+
+--- Je dis, mademoiselle Clary\... Ou, plutôt, je ne dis rien ! C\'est plus sage ! -- J\'insiste, reprit la jeune fille. Parlez\... Parlez, je vous prie ! Que savez-vous ?
+
+--- Ce que d\'autres savent, sans doute, répondit maître Nick, c\'est que Jean-Sans-Nom a reparu dans le comté de Montréal. Du moins, c\'est un bruit qui court\... Malheureusement\...
+
+--- Malheureusement ? répéta Clary.
+
+--- Oui ! Car si cela est, je crains que notre héros ne puisse échapper aux poursuites de la police. Aujourd\'hui même, en traversant l\'île Montréal, j\'ai rencontré les limiers que le ministre Gilbert Argall a lancés sur la piste de Jean-Sans-Nom, et, entre autres, le chef de la maison Rip and Co\...
+
+--- Quoi ? Rip ? fit M. De Vaudreuil.
+
+--- Lui-même, répondit le notaire. C\'est un homme habile, et qui doit être alléché par une grosse prime. S\'il réussit à s\'emparer de Jean-Sans-Nom, la condamnation de ce jeune patriote -- oui, décidément, il doit être jeune ! -- sa condamnation est certaine, et le parti national comptera une victime de plus ! »
+
+En dépit de sa maîtrise sur elle-même, Clary pâlit soudain, ses yeux se fermèrent, et c\'est à peine si elle put comprimer les battements de son coeur. M. De Vaudreuil, tout pensif, allait et venait à travers le salon. Maître Nick, voulant réparer le pénible effet produit par ses dernières paroles, ajouta :
+
+« Après tout, c\'est un homme d\'une audace peu commune, cet introuvable Jean-Sans-Nom ! Il est parvenu jusqu\'ici à se soustraire aux plus sévères recherches\...
+
+Au cas où il serait pressé de trop près, toutes les maisons du comté lui donneraient asile, toutes les portes s\'ouvriraient devant lui -- même la porte de l\'étude de maître Nick, s\'il venait lui demander refuge\... Bien que maître Nick ne veuille se mêler en aucune façon aux choses de la politique ! »
+
+Là-dessus, le notaire prit congé de M. et Mlle de Vaudreuil. Il n\'avait pas de temps à perdre, s\'il voulait être revenu à Montréal pour l\'heure du dîner -- cette heure régulière et toujours la bienvenue, à laquelle il accomplissait un des actes les plus importants de son existence.
+
+M. De Vaudreuil voulut faire atteler, afin de reconduire maître Nick à Laval. Mais, en homme prudent, celui-ci refusa. Mieux valait qu\'on ne sût rien de sa visite à la villa Montcalm. Il avait de bonnes jambes, Dieu merci ! Et une lieue de plus n\'était pas pour embarrasser un des meilleurs marcheurs du notariat canadien. Et puis, n\'était-il pas du sang des Sagamores, le descendant de ces robustes peuplades indiennes, dont les guerriers suivaient, pendant des mois entiers, le sentier de la guerre ? Etc., etc.
+
+Bref, maître Nick appela Lionel, qui, sans doute, courait après le bataillon sacré des muses à travers les allées du parc, et tous deux, en remontant la rive gauche du Saint-Laurent, reprirent le chemin de Laval.
+
+Après trois quarts d\'heure de marche, ils arrivèrent à l\'appontement du toc, au moment où débarquaient MM. Vincent Hodge, Clerc et Farran, qui se rendaient à la villa Montcalm.
+
+En les croisant, le notaire fut salué par eux d\'un inévitable et cordial «  bonjour, maître Nick ! » Puis, le fleuve traversé, il se hissa dans le stage, rentra dans sa maison du marché Bon-Secours, comme la vieille servante, mistress Dolly, mettait sur la table la soupière fumante.
+
+Maître Nick s\'assit aussitôt dans son large fauteuil, et Lionel se plaça en face de lui, pendant qu\'il fredonnait : Naître avec toi, flamme follette, Mourir avec toi, feu follet !
+
+« Et surtout, ajouta-t-il, si tu avales quelques vers en mangeant, prends bien garde aux arêtes ! »
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 5 -- L\'inconnu]{.pcalibre lang="X-NONE"}]{#_Toc342942144 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-5-linconnu .calibre171 .sigil_not_in_toc}
+
+Lorsque Vincent Hodge, William Clerc et André Farran arrivèrent à la villa, ils y furent reçus par M. De Vaudreuil.
+
+Clary venait de remonter dans sa chambre. Par la fenêtre ouverte sur le parc, elle laissa son regard errer à travers la campagne que le cadre des Laurentides fermait à l\'extrême horizon. La pensée de l\'être mystérieux, si vivement rappelé à son souvenir, l\'occupait tout entière. On l\'avait signalé dans le pays. On le recherchait activement dans l\'île de Montréal\... Pour que l\'île Jésus lui offrît refuge, il lui suffirait de traverser un bras du fleuve ! Ne voudrait-il pas demander asile à la villa Montcalm ? Qu\'il eût là des amis, prêts à l\'accueillir, il n\'en pouvait douter. Mais, s\'abriter sous le toit de M. De Vaudreuil, président de l\'un des comités réformistes, ne serait-ce pas s\'exposer à des dangers plus grands ? La villa ne devait-elle pas être particulièrement surveillée ? Oui, sans doute ! Et, pourtant, Clary en avait le pressentiment, Jean-Sans-Nom y viendrait, ne fut-ce que pour un jour, pour une heure ! Et, l\'imagination surexcitée, désireuse d\'être seule, elle avait quitté le salon, avant que les amis de M. De Vaudreuil y fussent introduits.
+
+William Clerc et André Farran -- à peu près du même âge que M. De Vaudreuil -- étaient deux anciens officiers de la milice canadienne. Cassés de leurs grades après le jugement du 25 septembre qui avait envoyé leurs frères à l\'échafaud, condamnés eux-mêmes à la prison perpétuelle, ils n\'avaient recouvré la liberté que grâce à l\'amnistie dont M. De Vaudreuil avait profité pour son propre compte. Le parti national voyait en eux deux hommes d\'action, qui ne demandaient qu\'à risquer une seconde fois leur vie dans une nouvelle prise d\'arme.
+
+Ils étaient énergiques, faits aux dures fatigues par l\'habitude qu\'ils avaient des grandes chasses à travers les forêts et les plaines du comté des Trois-Rivières, où ils possédaient de vastes propriétés.
+
+Dès que Vincent Hodge eut serré la main de M. De Vaudreuil, il lui posa cette question :
+
+Était-il informé que Farran, Clerc et lui eussent été convoqués par lettres personnelles ?
+
+« Oui, répondit M. De Vaudreuil, et, sans doute, la lettre que vous avez reçue à ce sujet, comme celle qui m\'en a donné avis, était signée un Fils de la Liberté ?
+
+--- En effet, répondit Farran.
+
+--- Tu n\'as pas vu là quelque embûche ? demanda William Clerc en s\'adressant à M. De Vaudreuil. En provoquant ce rendez-vous, ne veut-on pas nous prendre en flagrant délit de conciliabule ?
+
+--- Le conseil législatif, répondit M. De Vaudreuil, n\'a pas encore enlevé aux Canadiens le droit de se réunir les uns chez les autres, que je sache !
+
+--- Non, dit Farran, mais, enfin, le signataire de cette lettre, aussi suspecte que le serait une lettre anonyme, quel est-il, et pourquoi n\'a-t-il pas mis son vrai nom ?
+
+--- Cela est évidemment singulier, répondit M. De Vaudreuil, d\'autant plus que ce personnage, quel qu\'il soit, ne dit même pas s\'il a l\'intention de se présenter à ce rendez-vous ? La lettre que j\'ai reçue m\'informe simplement que vous devez venir tous trois ce soir à la villa Montcalm\...
+
+--- Et la nôtre ne contient pas d\'autre information, ajouta William Clerc.
+
+--- À bien réfléchir, fit observer Vincent Hodge, pourquoi cet inconnu nous aurait-il donné cet avis, s\'il ne se proposait pas d\'assister à notre conférence ! J\'ai lieu de croire qu\'il viendra\...
+
+--- Eh bien, qu\'il vienne ! répondit Farran. Nous verrons l\'homme qu\'il est, d\'abord, nous écouterons les communications qu\'il se propose de nous faire, et nous l\'éconduirons, s\'il ne nous convient pas d\'entrer en relation avec lui.
+
+--- Vaudreuil, demanda William Clerc, ta fille a eu connaissance de cette lettre ? Qu\'en pense-t-elle ?
+
+--- Rien de suspect, William.
+
+--- Attendons ! » répondit Vincent Hodge.
+
+En tout cas, s\'il venait au rendez-vous, le signataire de la lettre avait voulu prendre quelques précautions, puisqu\'il ferait nuit lorsqu\'il arriverait à la villa Montcalm -- ce qui n\'était que prudent dans les circonstances actuelles. La conversation de M. De Vaudreuil et ses amis porta alors sur la situation politique, si tendue par suite des dispositions oppressives que manifestait le Parlement anglais. Eux aussi sentaient que cet état de choses ne pouvait durer. Et, à ce propos, M. De Vaudreuil fit connaître comment, en sa qualité de président du comité de Laval, il avait reçu par l\'entremise du notaire Nick, une somme considérable, certainement destinée à subvenir aux besoins de la cause.
+
+Pendant qu\'ils se promenaient dans le parc en attendant l\'heure du dîner, Vincent Hodge, William Clerc et André Farran confirmèrent à M. De Vaudreuil ce que lui avait dit maître Nick. Les agents de Gilbert Argall étaient en éveil. Non seulement le personnel de la maison Rip, mais des escouades de la police régulière parcouraient la campagne et les paroisses du comté, mettant tout en oeuvre pour retrouver la piste de Jean-Sans-Nom. Évidemment, l\'apparition de ce personnage suffirait à provoquer un soulèvement.
+
+Il n\'était donc pas impossible que l\'inconnu fût à même de renseigner M. De Vaudreuil à cet égard.
+
+Vers six heures, M. De Vaudreuil et ses amis rentrèrent dans le salon où Clary venait de descendre. William Clerc et André Farran lui donnèrent un bonjour paternel qu\'autorisait leur âge et leur intimité. Vincent Hodge, plus réservé, prit respectueusement la main que lui tendait la jeune fille. Puis, il lui offrit son bras, et tous passèrent dans la salle à manger.
+
+Le dîner était abondamment servi, ainsi que cela se faisait communément à cette époque dans les plus modestes comme dans les plus riches habitations canadiennes. Il se composait de poissons du fleuve, de venaison des forêts voisines, des légumes et des fruits récoltés dans le potager de la villa.
+
+Pendant le dîner, la conversation ne traita point du rendez-vous si impatiemment attendu. Mieux valait ne point parler devant les domestiques, bien qu\'ils fussent de fidèles serviteurs, depuis longtemps au service de la famille de Vaudreuil.
+
+Après le dîner, la soirée était belle, la température si douce que Clary vint s\'asseoir sous la véranda. Le Saint-Laurent caressait les premières marches de la terrasse, en les baignant de ses eaux que l\'étale de la marée immobilisait dans l\'ombre. M. De Vaudreuil, Vincent Hodge, Clerc et Farran fumaient le long des balustrades. À peine échangeaient-ils quelques paroles, et toujours à voix basse.
+
+Il était un peu plus de sept heures. La nuit commençait à obscurcir les profondeurs de la vallée. Tandis que le long crépuscule se retirait à travers les plaines de l\'ouest, les étoiles s\'allumaient dans la zone opposée du ciel. Clary regardait en amont et en aval du Saint-Laurent.
+
+L\'inconnu viendrait-il par la voie du fleuve ? Cela paraissait indiqué, s\'il ne voulait laisser aucune trace de son passage. En effet, il était facile à une légère embarcation de se glisser le long de la rive, de filer entre les herbes et les roseaux de la berge. Une fois débarqué sur la terrasse, ce mystérieux personnage pourrait pénétrer dans la villa, sans avoir été vu, et la quitter ensuite, avant qu\'aucun des gens de l\'habitation eût le moindre soupçon.
+
+Cependant, comme il était possible que le visiteur ne vînt pas par le Saint-Laurent, M. De Vaudreuil avait donné ordre d\'introduire immédiatement toute personne qui se présenterait à la villa. Une lampe, allumée dans le salon, ne laissait filtrer qu\'un peu de lumière à travers les rideaux des fenêtres, abritées sous le vitrage opaque de la véranda. Du dehors, on ne verrait rien de ce qui se passerait au dedans.
+
+Pourtant, si tout était tranquille du côté du parc, il n\'en était pas de même du côté du fleuve. De temps à autre apparaissaient quelques embarcations, qui s\'approchaient tantôt de la rive gauche, tantôt de la rive droite. Elles s\'abordaient parfois, des mots rapides étaient dits de l\'une à l\'autre ; puis, elles s\'éloignaient en directions différentes.
+
+M. De Vaudreuil et ses amis observaient attentivement ces allées et venues, dont ils comprenaient bien le motif.
+
+« Ce sont des agents de la police, dit William Clerc.
+
+--- Oui, répondit Vincent Hodge, et ils surveillent le fleuve plus activement qu\'ils ne l\'ont fait jusqu\'alors\...
+
+--- Et peut-être aussi la villa Montcalm ! »
+
+Ces derniers mots venaient d\'être murmurés à voix basse, et ce n\'était ni M. De Vaudreuil, ni sa fille, ni aucun de ses hôtes qui les avaient prononcés. En ce moment, un homme, caché entre les hautes herbes au-dessous de la balustrade, se redressa sur la droite de l\'escalier, franchit les marches, s\'avança d\'un pas rapide à travers la terrasse, releva sa tuque, et dit, après s\'être incliné légèrement :
+
+« Le Fils de la Liberté qui vous a écrit, messieurs. »
+
+M. De Vaudreuil, Clary, Hodge, Clerc et Farran, surpris par cette brusque apparition, cherchaient à dévisager l\'homme qui venait de s\'introduire dans la villa d\'une façon si singulière. Sa voix, d\'ailleurs, leur était aussi inconnue que sa personne.
+
+« M. De Vaudreuil, reprit cet homme, vous m\'excuserez de me présenter chez vous dans ces conditions. Mais il importait qu\'on ne me vît pas entrer à la villa Montcalm, comme il importera qu\'on ne m\'en voie pas sortir.
+
+--- Venez donc, monsieur ! » répondit M. De Vaudreuil.
+
+Puis, tous se dirigèrent vers le salon, dont la porte fut aussitôt refermée. L\'homme qui venait d\'arriver à la villa Montcalm, c\'était le jeune voyageur en compagnie duquel maître Nick avait fait le parcours de Montréal à l\'île Jésus. M. De Vaudreuil et ses amis observèrent, ainsi que le notaire l\'avait fait déjà, qu\'il appartenait à la race franco-canadienne.
+
+Voici ce qu\'il avait fait, après avoir pris congé de maître Nick, à l\'entrée des rues de Laval.
+
+En premier lieu, il s\'était dirigé vers une modeste taverne des bas quartiers de la ville. Là, blotti dans le coin de la salle, il avait, en attendant l\'heure du dîner, parcouru les journaux mis à sa disposition.
+
+Son visage impassible n\'avait laissé rien voir des sentiments qu\'il éprouvait pendant sa lecture, bien que ces feuilles fussent alors rédigées avec une extrême violence pour ou contre la Couronne. La reine Victoria venait de succéder à son oncle Guillaume IV, et, de part et d\'autre, on discutait, dans des articles passionnés, les modifications que le nouveau règne imposerait au gouvernement des provinces canadiennes. Mais, quoique ce fût la main d\'une femme qui tînt le sceptre du Royaume-Uni, on devait craindre qu\'elle ne s\'appesantît durement sur la colonie d\'outre-mer.
+
+Jusqu\'à six heures du soir, le jeune homme était resté dans la taverne, où il se fit servir à dîner. À huit heures, il s\'était remis en route.
+
+Si un espion l\'eût suivi alors, il l\'aurait vu se diriger vers la berge du fleuve, se glisser à travers les herbes, et gagner du côté de la villa Montcalm, qu\'il atteignit trois quarts d\'heure après. Là, l\'inconnu avait attendu le moment de monter sur la terrasse, et l\'on sait comment il était intervenu dans la conversation de M. De Vaudreuil et de ses amis.
+
+À présent, en ce salon, portes et fenêtres closes, ils pouvaient causer sans crainte.
+
+« Monsieur, dit alors M. De Vaudreuil, en s\'adressant à son nouvel hôte, vous ne serez pas étonné si je vous demande tout d\'abord qui vous êtes ?
+
+--- Je l\'ai dit en arrivant, monsieur de Vaudreuil. Je suis, comme vous l\'êtes tous, un Fils de la Liberté ! »
+
+Clary fit un geste involontaire de désappointement. Peut-être attendait-elle un autre nom que cette qualification, si commune à cette époque parmi les partisans de la cause franco-canadienne.
+
+Ce jeune homme persisterait-il donc à garder l\'incognito, même à la villa Montcalm ?
+
+« Monsieur, dit alors André Farran, si vous nous avez donné rendez-vous chez M. De Vaudreuil, c\'est assurément pour y conférer de choses d\'une certaine importance. Avant de nous expliquer ouvertement, vous trouverez naturel que nous désirions savoir à qui nous avons à faire.
+
+--- Vous auriez été imprudents, messieurs, si vous ne m\'aviez pas fait cette question, répondit le jeune homme, et je serais impardonnable, si je refusais d\'y répondre. »
+
+Et il présenta une lettre.
+
+Cette lettre informait M. De Vaudreuil de la visite de l\'inconnu, dans lequel ses partisans et lui pouvaient avoir toute confiance, même « s\'il ne leur donnait pas son nom. » Elle était signée de l\'un des principaux chefs de l\'opposition au parlement, de l\'avocat Gramont, député de Québec, l\'un des coreligionnaires politiques de M. De Vaudreuil. L\'avocat Gramont ajoutait que si ce visiteur lui demandait une hospitalité de quelques jours, M. De Vaudreuil pouvait la lui accorder en toute confiance dans l\'intérêt de la cause.
+
+M. De Vaudreuil communiqua cette lettre à sa fille, à Clerc, à Farran. Puis, il ajouta :
+
+« Monsieur, vous êtes ici chez vous, et vous pouvez rester aussi longtemps qu\'il vous conviendra à la villa Montcalm.
+
+--- Deux jours, au plus, monsieur de Vaudreuil, répondit le jeune homme. Dans quatre, il faut que j\'aie rejoint mes compagnons à l\'embouchure du Saint-Laurent. Je vous remercie donc de l\'accueil que vous me faites. Et, maintenant, messieurs, je vous prie de vouloir bien m\'entendre. »
+
+L\'inconnu prit la parole. Il parla avec précision de l\'état des esprits, à l\'heure actuelle, dans les provinces canadiennes. Il montra le pays prêt à se lever contre l\'oppression des loyalistes et des agents de la Couronne. Il venait de le constater par lui-même, en poursuivant une campagne de propagande réformiste, pendant plusieurs semaines, à travers les comtés du haut Saint-Laurent et de l\'Outaouais. Dans quelques jours il allait parcourir une dernière fois les paroisses des comtés de l\'est, afin de relier les éléments d\'une prochaine insurrection, qui s\'étendrait depuis l\'embouchure du fleuve jusqu\'aux territoires de l\'Ontario. À cette levée en masse, ni lord Gosford avec les représentants de l\'autorité, ni le général Colborne avec les quelques milliers d\'habits rouges qui formaient l\'effectif anglo-canadien, ne seraient en mesure d\'opposer des forces suffisantes, et le Canada -- il n\'en doutait pas -- se soustrairait enfin au joug de ses oppresseurs.
+
+« Une province arrachée à son pays, ajouta-t-il, c\'est un enfant arraché à sa mère ! Cela doit être l\'objet de revendications sans trêve, de luttes sans merci ! Cela ne peut s\'oublier jamais ! »
+
+En disant ces choses, l\'inconnu parlait avec un sang-froid qui montrait combien il devait être toujours et partout maître de lui. Et pourtant, on sentait qu\'un feu couvait en son âme, que ses pensées s\'inspiraient du plus ardent patriotisme. Tandis qu\'il donnait certains détails minutieux sur ce qu\'il avait fait, sur ce qu\'il allait faire, Clary ne le quittait pas du regard. Tout lui disait qu\'elle avait devant elle le héros en qui son imagination incarnait la révolution canadienne.
+
+Lorsque MM. De Vaudreuil, Vincent Hodge, Clerc et Farran eurent été mis au courant de ses démarches, il ajouta :
+
+« À tous ces partisans de notre autonomie, messieurs, il faudra un chef, et ce chef surgira, lorsque l\'heure sera venue de se mettre à leur tête. Jusque-là il est nécessaire qu\'un comité d\'action se forme pour concentrer les efforts individuels. M. De Vaudreuil et ses amis acceptent-ils de faire partie de ce comité ? Tous, vous avez déjà souffert dans vos familles, dans vos personnes, pour la cause nationale. Cette cause a coûté la vie à nos meilleurs patriotes, à votre père, Vincent Hodge, à vos frères, William Clerc et André Farran\...
+
+--- Par la trahison d\'un misérable, monsieur ! répondit Vincent Hodge. -- Oui ! D\'un misérable ! » répéta le jeune homme.
+
+Et Clary crut surprendre une légère altération dans sa voix, si nette jusqu\'alors.
+
+« Mais, ajouta-t-il, cet homme est mort.
+
+--- En est-on certain ? demanda William Clerc.
+
+--- Il est mort ! répliqua l\'inconnu, qui n\'hésita pas à répondre d\'une manière affirmative sur un fait dont on n\'avait jamais pu, cependant, constater la matérialité.
+
+--- Mort ! Ce Simon Morgaz ! Et ce n\'est pas moi qui en ai fait justice ! s\'écria Vincent Hodge.
+
+--- Mes amis, ne parlons plus de ce traître ! dit M. De Vaudreuil, et laissez-moi répondre à la proposition qui nous est communiquée. -- Monsieur, reprit-il, en se retournant vers son hôte, ce que les nôtres ont fait déjà, nous sommes prêts à le faire encore. Nous risquerons notre vie comme ils ont risqué la leur.
+
+Vous pouvez donc disposer de nous, et nous prenons l\'engagement de centraliser à la villa Montcalm les efforts dont vous avez pris l\'initiative. Nous sommes en communication quotidienne avec les divers comités du district, et, au premier signal, nous paierons de notre personne. Votre intention, avez-vous dit, est de repartir dans deux jours pour visiter les paroisses de l\'est ? Soit ! À votre retour, vous nous trouverez prêts à suivre le chef, quel qu\'il soit, qui déploiera le drapeau de l\'indépendance.
+
+--- Vaudreuil a parlé pour nous, ajouta Vincent Hodge. Nous n\'avons qu\'une pensée, arracher notre pays à l\'oppression, lui assurer le droit qu\'il a d\'être libre !
+
+--- Et qu\'il saura conquérir, cette fois », dit Clary de Vaudreuil, en s\'avançant vers le jeune homme.
+
+Mais celui-ci venait de se diriger vers la porte du salon, du côté de la terrasse.
+
+« Écoutez, messieurs ! » dit-il.
+
+Un bruit vague se faisait entendre dans la direction de Laval, une rumeur éloignée, dont il eût été difficile de reconnaître la nature ou la cause.
+
+« Qu\'est-ce donc ? » demanda William Clerc.
+
+--- Est-ce qu\'un soulèvement se produirait déjà ? répondit André Farran.
+
+--- Dieu veille qu\'il n\'en soit rien ! murmura Clary. Ce serait agir trop tôt ! -- Oui ! Trop tôt ! répondit le jeune homme.
+
+--- Qu\'est-ce que cela peut être ? demanda M. De Vaudreuil. Écoutez ! Ce bruit se rapproche\...
+
+--- On entend comme une sonnerie de clairons ! » répliqua André Farran.
+
+En effet, des notes cuivrées, traversant l\'espace, arrivaient par intervalles réguliers jusqu\'à la villa Montcalm.
+
+S\'agissait-il donc d\'un détachement en armes qui se dirigeait vers l\'habitation de M. De Vaudreuil ?
+
+Celui-ci venait d\'ouvrir la porte du salon, et ses amis le suivirent sur la terrasse.
+
+Les regards se portèrent aussitôt vers l\'ouest. Nulle lumière suspecte de ce côté. Évidemment, cette rumeur ne se propageait pas à travers les plaines de l\'île Jésus. Et, cependant, une sorte de brouhaha, plus rapproché maintenant, arrivait jusqu\'à la villa, en même temps qu\'éclataient des sonneries de trompettes.
+
+« Là\... C\'est là\... » dit Vincent Hodge.
+
+Et il indiquait du doigt le cours du Saint-Laurent en remontant vers Laval. Dans cette direction, quelques torches jetaient une clarté peu accusée encore que réverbéraient les eaux légèrement brumeuses du fleuve.
+
+Deux ou trois minutes se passèrent. Une embarcation, qui descendait avec le jusant, vint alors s\'engager entre les remous du courant, près de la berge, à un quart de mille en amont. Cette embarcation contenait une dizaine de personnes, dont, à la lueur des torches, il fut facile de reconnaître l\'uniforme. C\'était un constable, accompagné d\'une escouade de police.
+
+De temps en temps, la barque s\'arrêtait. Aussitôt, une voix, précédée d\'un appel de clairon, s\'élevait dans l\'air ; mais de la villa Montcalm, il était encore impossible de percevoir les paroles.
+
+« Ce doit être une proclamation, dit William Clerc.
+
+--- Et il faut qu\'elle contienne quelque communication importante, répondit André Farran, pour que les autorités la fassent publier à cette heure !
+
+--- Attendons, répondit M. De Vaudreuil, et nous ne tarderons pas à savoir\...
+
+--- Ne serait-il pas prudent de rentrer dans le salon ? fit observer Clary, en s\'adressant au jeune homme.
+
+--- Pourquoi nous retirer, mademoiselle de Vaudreuil ? répondit celui-ci. Ce que les autorités trouvent bon de proclamer, doit être bon à entendre ! » Entre temps, la barque, poussée par ses avirons et suivie des quelques canots qui lui faisaient cortège, s\'était avancée au large de la terrasse.
+
+Un coup de trompette fut donné, et voici ce que M. De Vaudreuil et ses amis purent distinctement entendre cette fois :
+
+« Proclamation du lord gouverneur général « des provinces canadiennes.
+
+« Ce 3 septembre 1837.
+
+« Est mise à prix la tête de Jean-Sans-Nom, lequel a reparu dans les comtés du Haut-Saint-Laurent. Six mille piastres sont offertes à quiconque l\'arrêtera ou le fera arrêter.
+
+« Pour lord Gosford,
+
+« Le ministre de la police,
+
+« Gilbert Argall. »
+
+Puis l\'embarcation, reprenant sa marche, se laissa aller au courant du fleuve.
+
+MM\. De Vaudreuil, Farran, Clerc, Vincent Hodge, étaient restés immobiles sur la terrasse, qu\'enveloppait alors une nuit profonde.
+
+Pas un mouvement n\'était échappé au jeune inconnu pendant que la voix du constable répétait les termes de la proclamation. Seule, la jeune fille, presque inconsciemment, avait fait quelques pas en se rapprochant de lui. Ce fut M. De Vaudreuil qui, le premier, reprit la parole.
+
+« Encore une prime offerte aux traîtres ! dit-il. Ce sera inutilement cette fois, je l\'espère, pour le bon renom de loyauté des paroisses canadiennes !
+
+--- C\'est assez, c\'est trop qu\'on ait pu déjà y trouver un Simon Morgaz ! s\'écria Vincent Hodge.
+
+--- Que Dieu protège Jean-Sans-Nom ! » répondit Clary d\'une voix profondément émue.
+
+Il y eut quelques instants de silence.
+
+« Rentrons et regagnons nos chambres, dit M. De Vaudreuil. -- Je vais en faire mettre une à votre disposition, ajouta-t-il en s\'adressant au jeune patriote.
+
+--- Je vous remercie, monsieur de Vaudreuil, répondit l\'inconnu, mais il m\'est impossible de demeurer plus longtemps dans cette maison\...
+
+--- Et pourquoi ?
+
+--- Lorsque j\'ai accepté, il y a une heure, l\'hospitalité que vous m\'offriez à la villa Montcalm, je n\'étais pas dans la situation où cette proclamation vient de me placer.
+
+--- Que voulez-vous dire, monsieur ?
+
+--- Que ma présence ne pourrait que vous compromettre maintenant, puisque le gouverneur général vient de mettre ma tête à prix. Je suis Jean-Sans-Nom ! »
+
+Et Jean-Sans-Nom, après s\'être incliné, se dirigeait vers la berge, lorsque Clary, l\'arrêtant de la main :
+
+« Restez », dit-elle.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 6 -- Le Saint-Laurent]{.pcalibre lang="X-NONE"}]{#_Toc342942145 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-6-le-saint-laurent .calibre171 .sigil_not_in_toc}
+
+La vallée du Saint-Laurent est peut-être l\'une des plus vastes que les convulsions géologiques aient dessinées à la surface du globe. M. De Humboldt lui attribue une superficie de deux cent soixante-dix mille lieues carrées -- superficie égale à peu près à celle de l\'Europe entière. Le fleuve, dans son cours capricieux, semé d\'îles, barré de rapides, accidenté de chutes, traverse cette riche vallée qui forme le Canada français par excellence. Ces territoires, où s\'établirent les premières seigneuries de la noblesse émigrante, sont partagés à l\'heure actuelle en comtés et districts. À l\'embouchure du Saint-Laurent, sur cette large baie, au-delà de l\'estuaire, émergent l\'archipel de la Madeleine, les îles du Cap Breton et du Prince-Édouard, et la grande île d\'Anticosti, que les côtes si diverses d\'aspect du Labrador, de Terre-Neuve et de l\'Acadie ou Nouvelle-Écosse, abritent contre les redoutables vents de l\'Atlantique septentrional.
+
+C\'est vers la mi-avril, seulement, que commence la débâcle des glaces, accumulées par la rigoureuse et longue période hivernale du climat canadien. Le Saint-Laurent devient navigable alors. Les navires de grand tonnage peuvent le remonter jusqu\'à la région des lacs -- ces mers d\'eau douce, dont le chapelet se déroule à travers ce poétique pays, qu\'on a si justement appelé le « pays de Cooper ». À cet époque, le fleuve, servi par le flux et le reflux de ses marées, s\'anime comme une rade dont un traité de paix viendrait de lever le blocus. Navires à voiles, steamers, steamboats, trains de bois, bateaux pilotes, caboteurs, barques de pêche, embarcations de plaisance, canots de toutes sortes, glissent à la surface de ses eaux, délivrées de leur épaisse carapace.
+
+C\'est la vie pour une demi-année, après une demi-année de mort.
+
+Le 13 septembre, vers six heures du matin, une embarcation, gréée en cotre, quittait le petit port de Sainte-Anne, situé à l\'embouchure du Saint-Laurent, sur sa rive méridionale, dans la partie arrondie sur le golfe. Cette embarcation était montée par cinq de ces pêcheurs qui exercent leur fructueux métier depuis les rapides de Montréal jusqu\'à l\'estuaire du fleuve. Après avoir tendu leurs filets et leurs lignes, là où l\'instinct de la profession les guide, ils vont vendre le poisson d\'eau salée et d\'eau douce de bourgades en bourgades, ou, pour mieux dire, de maisons en maisons, car c\'est une suite presque ininterrompue d\'habitations qui borde les deux rives jusqu\'à la limite ouest de la province.
+
+Ces pêcheurs étaient d\'origine acadienne. Un étranger l\'eût reconnu rien qu\'aux formes de leur langage, à leur type resté si pur dans cette Nouvelle-Écosse, où la race française s\'est extraordinairement développée. En remontant l\'échelle des âges, on retrouverait certainement parmi les ancêtres quelques-uns de ces proscrits, qui, un siècle avant, furent décimés par les troupes royales, et dont Longfellow a retracé les malheurs dans son poème si touchant d\'Évangéline. Quant au métier de pêcheur, c\'est peut-être celui qui est le plus honoré en Canada -- surtout dans les paroisses littorales, où l\'on compte de dix à quinze mille bateaux de pêche, et plus de trente mille marins exploitant les eaux du fleuve et de ses affluents.
+
+L\'embarcation portait un sixième passager, vêtu comme ses compagnons, mais qui n\'avait du pêcheur que le costume. On s\'y fut aisément trompé, d\'ailleurs, et il eût été difficile de deviner en lui le jeune homme, auquel la villa Montcalm venait de donner asile pendant quarante-huit heures.
+
+C\'était, en effet, Jean-Sans-Nom.
+
+Durant son séjour, il ne s\'était point expliqué sur l\'incognito qui couvrait sa personne et sa famille. Jean -- ce fut le seul nom que lui donnèrent M. et Mlle de Vaudreuil.
+
+Dans la soirée même du 3 septembre, leur conférence achevée, MM.Vincent Hodge, William Clerc et André Farran s\'étaient retirés pour retourner à Montréal. Ce fut seulement deux jours après son arrivée à la villa, que Jean prit congé de M. De Vaudreuil et de sa fille.
+
+Pendant cette courte hospitalité, que d\'heures s\'étaient passées à parler de la nouvelle tentative qui allait être faite pour arracher le Canada à la domination anglaise ! Avec quelle passion Clary entendait le jeune proscrit glorifier la cause qui leur était si chère à tous deux ! Lui-même s\'était un peu départi de la froideur qu\'il avait montrée d\'abord, et qui semblait être voulue. Peut-être subissait-il l\'influence de cette âme vibrante de jeune fille, dont le patriotisme s\'accordait si étroitement avec le sien.
+
+C\'était dans la soirée du 5 septembre, que Jean avait quitté M. et Mlle de Vaudreuil, afin d\'aller reprendre sa vie errante et achever la campagne de propagande réformiste dans les comtés du bas Canada. Avant de se séparer, tous trois avaient décidé de se retrouver à la ferme de Chipogan chez Thomas Harcher, dont la famille, on va le voir, était devenue la famille du jeune patriote. Mais la jeune fille et lui se reverraient-ils jamais, alors que tant de dangers menaçaient sa tête !
+
+En tout cas, personne à l\'habitation n\'avait même soupçonné que ce fût Jean-Sans-Nom à qui la villa Montcalm venait de donner asile. Le chef de la maison Rip and Co, lancé sur une fausse piste, n\'était pas parvenu à découvrir le lieu de sa retraite.
+
+Jean avait pu quitter la villa secrètement comme il y était arrivé, traverser le Saint-Laurent dans le bac de passage à l\'extrémité de l\'île Jésus, et s\'engager à l\'intérieur du territoire en gagnant vers la frontière américaine, afin de la franchir, si cela devenait nécessaire pour sa sûreté. Comme c\'était au milieu des paroisses du haut fleuve que les recherches s\'opéraient alors -- et avec raison, puisque Jean venait de les parcourir récemment -- il avait atteint, sans avoir été ni reconnu ni poursuivi, la rivière de Saint-Jean, dont le cours sert de limite en partie au Nouveau-Brunswick. Là, au petit port de Sainte-Anne, l\'attendaient les hardis compagnons, associés à son oeuvre, et sur le dévouement desquels il pouvait compter sans réserve.
+
+C\'étaient cinq frères -- les aînés, deux jumeaux, Pierre et Rémy, âgés de trente ans, et les trois autres, Michel, Tony et Jacques, âgés de vingt-neuf, vingt-huit et vingt-sept ans -- cinq des nombreux enfants de Thomas Harcher et de sa femme Catherine, du comté de Laprairie, fermiers de Chipogan.
+
+Quelques années avant, à la suite de l\'insurrection de 1831, Jean-Sans-Nom, serré de près par la police, avait trouvé asile dans cette ferme, qu\'il ne savait pas appartenir à M. De Vaudreuil. Thomas Harcher reçut le fugitif, l\'admit dans sa famille comme un de ses fils. S\'il n\'ignorait pas que c\'était à un patriote qu\'il donnait refuge, il ignorait, du moins, que ce patriote fût Jean-Sans-Nom.
+
+Pendant le temps qu\'il demeura à la ferme, Jean -- il s\'était présenté sous ce nom seul -- se lia étroitement avec les fils aînés de Thomas Archer. Leurs sentiments répondaient aux siens. C\'étaient d\'intrépides partisans de la réforme, ayant au coeur cette haine instinctive contre tout ce qui était de race anglo-saxonne, « ce qui sentait l\'Anglais », comme on disait alors en Canada.
+
+Lorsque Jean quitta Chipogan, ce fut à bord de l\'embarcation des cinq frères qui parcourait le fleuve d\'avril à septembre.
+
+Il faisait ostensiblement le métier de pêcheur -- ce qui lui donnait accès dans toutes les maisons des paroisses riveraines. C\'est ainsi qu\'il avait pu déjouer les recherches et préparer un nouveau mouvement insurrectionnel. Avant son arrivée à la villa Montcalm, c\'étaient les comtés de l\'Outaouais qu\'il avait visités dans la province de l\'Ontario. À présent, pendant qu\'il remontait le fleuve depuis son embouchure jusqu\'à Montréal, il donnerait le dernier mot d\'ordre aux habitants des comtés du bas Canada, qui répétaient si volontiers : « Quand reverrons-nous nos bonnes gens ! » en se rappelant les Français d\'autrefois !
+
+L\'embarcation venait de quitter le port de Sainte-Anne. Bien que la marée commençât à redescendre, une fraîche brise, soufflant de l\'est, permettait de la refouler aisément, avec la grand\'voile, la flèche et des focs que fit hisser Pierre Harcher, patron du Champlain. Ainsi se nommait le cotre de pêche.
+
+Le climat du Canada, moins tempéré que celui des États-Unis, est très chaud l\'été, très froid l\'hiver, quoique son territoire soit en même latitude que la France. Cela tient probablement à ce que les eaux tièdes du Gulf-Stream, détournées de son littoral, ne modèrent pas les excès de sa température.
+
+Pendant cette première quinzaine du mois de septembre, la chaleur avait été forte, et les voiles du Champlain se gonflaient d\'une brise ardente.
+
+« La journée sera rude aujourd\'hui, dit Pierre, surtout si le vent tombe à la méridienne !
+
+--- Oui, répondit Michel, et que le diable fricasse les moucherons et les moustiques noirs ! Il y en a par myriades sur cette grève de Sainte-Anne !
+
+--- Frères, ces chaleurs vont finir, et nous jouirons bientôt des douceurs de l\'été indien ! »
+
+C\'était Jean qui venait de donner à ses compagnons cette appellation fraternelle dont ils étaient dignes.
+
+Et il avait raison de vanter les beautés de l\'« indian summer » du Canada, qui comprend plus particulièrement les mois de septembre et d\'octobre.
+
+« Pêchons-nous ce matin ? lui demanda Pierre Harcher, ou continuons-nous à remonter le fleuve ?
+
+--- Jetons nos lignes jusqu\'à dix heures, répondit Jean. Nous irons ensuite vendre notre poisson à Matane.
+
+--- Alors poussons une bordée vers la pointe de Monts, répliqua le patron du Champlain. Les eaux y sont meilleures, et nous reviendrons sur Matane à l\'étale de la mer. »
+
+Les écoutes furent raidies, l\'embarcation lofa, et, bien appuyée par la brise, tandis que le courant la prenait en dessous, elle se dirigea obliquement vers la pointe de Monts, située sur la rive septentrionale du fleuve, dont la largeur, en cet endroit, est comprise entre neuf et dix lieues.
+
+Après une heure de navigation, le Champlain mit en panne, et, son foc bordé au vent, commença à pêcher sous petite voilure et petite vitesse. Il se trouvait au centre de ce magnifique estuaire, encadré d\'une zone de terres cultivables qui s\'étendent, au nord, jusqu\'au pied des premières ondulations de la chaîne des Laurentides, au sud, jusqu\'aux monts Notre-Dame, dont les plus hauts pics dominent de treize cents pieds le niveau de la mer.
+
+Pierre Harcher et ses frères étaient habiles en leur métier. Ils l\'exerçaient sur tout le cours du fleuve. Au milieu des rapides et des barrages de Montréal, ils prenaient quantité d\'aloses au moyen de fascines. Aux environs de Québec, ils faisaient la pêche aux saumons ou aux gaspereaux, entraînés à l\'époque du frai dans les eaux plus douces de l\'amont.
+
+C\'était rare que leurs « marées » ne fussent pas extrêmement fructueuses. Pendant cette matinée, les gaspereaux donnèrent en abondance. À plusieurs reprises, les filets s\'emplirent à rompre. Aussi, vers dix heures, le Champlain, éventant ses voiles, put-il mettre le cap au sud-ouest pour rallier Matane.
+
+Il était plus sûr, en effet, de regagner la côte méridionale du fleuve. Au nord, les bourgades, les villages, sont clairsemés, la population est rare dans cette région aride. À vrai dire, ce territoire n\'est formé que d\'un amoncellement de roches chaotiques. À l\'exception de la vallée du Saguenay, par laquelle s\'écoule le trop plein du lac Saint-Jean, et dont le sol est alluvionnaire, le rendement végétal est peu rémunérateur, en dehors des riches forêts, dont le pays est largement ouvert.
+
+Au sud du fleuve, au contraire, la terre est féconde, les paroisses sont importantes, les villages nombreux, et, ainsi qu\'il a été dit, c\'est comme un panorama d\'habitations qui se développe depuis les bouches du Saint-Laurent jusqu\'à la hauteur de Québec. Si les touristes sont attirés par le pittoresque décor de la vallée du Saguenay ou de la Malbaie, les baigneurs canadiens et américains -- principalement ceux que les ardentes températures de la Nouvelle-Angleterre chassent vers les fraîches zones du grand fleuve -- fréquentent plus volontiers sa rive méridionale.
+
+C\'est là, au marché de Matane d\'abord, que le Champlain vint apporter ses premières charges de poissons. Jean et deux des frères Harcher, Michel et Tony, allèrent de porte en porte offrir le produit de leur pêche. Pourquoi eût-on remarqué que Jean restait dans quelques-unes de ces maisons plus de temps que n\'en comportait un trafic de ce genre, qu\'il pénétrait à l\'intérieur des habitations, qu\'il échangeait quelques mots, non plus avec les domestiques, mais avec les maîtres ?
+
+Et, aussi, pourquoi aurait-on observé que, dans certaines demeures de condition modeste, il remettait parfois plus d\'argent que ses camarades n\'en recevaient pour prix de leur marchandise ?
+
+Il en fut ainsi, durant les jours suivants, au milieu des bourgades de la côte méridionale, à Rimouski, à Bic, à Trois-Pistoles, à la plage de Caconna[[\[2\]]{.MsoFootnoteReference8}](../Text/Section0004.xhtml#_ftn2032){#_ftnref2032 .pcalibre2 .pcalibre1}, l\'une des stations balnéaires à la mode de cette rive du Saint-Laurent.
+
+À la Rivière-du-Loup -- petite ville où Jean s\'arrêta dans la matinée du 17 septembre -- le Champlain reçut la visite des agents préposés à la surveillance spéciale du fleuve. Mais tout alla bien. Depuis quelques années déjà, Jean était porté sur les papiers du cotre comme s\'il eût été l\'un des fils de Thomas Harcher. Jamais la police n\'aurait soupçonné que, sous l\'habit d\'un pêcheur acadien, se cachait le proscrit, dont la tête valait maintenant six mille piastres à quiconque la livrerait.
+
+Puis, lorsque les agents eurent achevé leur visite :
+
+« Peut-être, dit Pierre Harcher, ferons-nous bien d\'aller chercher refuge sur l\'autre rive.
+
+--- C\'est notre avis, dit Michel.
+
+--- Et pourquoi ? demanda Jean. Est-ce que notre bateau a paru suspect à ces hommes ? Est-ce que tout ne s\'est point passé comme d\'habitude ? Est-ce qu\'on peut mettre en doute que je sois de la famille Harcher, comme tes frères et toi ?
+
+--- Eh ! J\'imagine volontiers que tu en es réellement ! s\'écria Jacques, le plus jeune des cinq, qui était d\'un caractère enjoué. Notre brave père a tant d\'enfants qu\'un de plus ne l\'embarrassait guère, et qu\'il pourrait s\'y tromper lui-même !
+
+--- Et d\'ailleurs, ajouta Tony, il t\'aime comme un fils, et nous t\'aimons comme si nous étions du même sang !
+
+--- Ne le sommes-nous pas, Jean, et, comme toi, de race française ? dit Rémy.
+
+--- Oui, certes ! répondit Jean. Pourtant, je ne crois pas que nous ayons rien à craindre de la police\...
+
+--- On ne se repent jamais d\'avoir été trop prudent ! fit observer Tony.
+
+--- Non, sans doute, répondit Jean, et si c\'est uniquement par prudence que Pierre propose de traverser le fleuve\...
+
+--- Par prudence, oui, répondit le patron du Champlain, car le temps va changer !
+
+--- C\'est autre chose, cela ! répondit Jean.
+
+--- Regarde, reprit Pierre. La bourrasque de nord-est ne tardera pas à se lever, et j\'ai comme une idée qu\'elle sera raide ! Je sens cela ! Oh ! Nous en avons bravé bien d\'autres ; mais il faut songer à notre bateau, et je ne me soucie pas de le mettre en perdition sur les roches de la Rivière-du-Loup ou de Kamouraska !
+
+--- Soit ! répondit Jean. Regagnons la rive au nord, du côté de Tadoussac, si c\'est possible. Nous remonterons alors le cours du Saguenay jusqu\'à Chicoutimi, et là nous ne perdrons ni notre temps ni nos peines !
+
+--- Vite alors ! s\'écria Michel. Pierre a raison ! Ce gueux de nord-est n\'est pas loin. S\'il prenait le Champlain par le travers, nous ferions cent fois plus de chemin vers Québec qu\'il n\'y en a vers Tadoussac ! »
+
+Les voiles du Champlain furent orientées au plus près, et, pointant dans la direction du nord, le cotre commença à mordre sur le vent, qui adonnait en retombant peu à peu.
+
+Ces tempêtes de nord-est ne sont malheureusement pas rares, même en été. Soit qu\'elles ne durent que deux ou trois heures, soit qu\'elles se déchaînent pendant une semaine entière, elles apportent les brumes glaciales du golfe et inondent la vallée de pluies torrentielles.
+
+Il était huit heures du soir. Pierre Harcher ne s\'était pas trompé à la vue de certains nuages, déliés comme des flèches, qui annonçaient la bourrasque. Il n\'était que temps d\'aller chercher l\'abri de la côte septentrionale.
+
+Cinq à six lieues au plus séparent la Rivière-du-Loup de l\'embouchure du Saguenay. Elles furent rudes à enlever. Le coup de vent s\'abattit comme une trombe sur le Champlain, lorsqu\'il n\'était qu\'au tiers de la route. Il fallut réduire la voilure au bas ris, et encore la cotre se trouva-t-il forcé jusqu\'à faire craindre que la mâture ne se rompit au ras du pont. La surface du fleuve, démontée comme la mer devait l\'être dans le golfe, se soulevait en énormes lames, qui tamponnaient l\'étrave du Champlain et le couvraient en grand. C\'était dur pour une embarcation d\'une douzaine de tonneaux. Mais son équipage était plein de sang-froid, habile à la manoeuvre. Plus d\'une fois déjà, il avait essuyé de grosses tempêtes, lorsqu\'il s\'aventurait au large entre Terre-Neuve et l\'île du Cap Breton. Donc il était permis de compter sur ses qualités marines comme sur la solidité de sa coque.
+
+Cependant Pierre Harcher eut fort à faire pour atteindre l\'embouchure du Saguenay, et dut lutter pendant trois longues heures. Lorsque le jusant se fut établi, s\'il favorisa la dérive du cotre, il rendit le choc des lames plus redoutable encore. Qui n\'a pas été pris dans une de ces bourrasques de nord-est, à travers la vallée si largement découverte du Saint-Laurent, ne saurait en imaginer les violences.
+
+Elles sont un véritable fléau pour les comtés situés en aval de Québec. Heureusement, le Champlain, après avoir trouvé l\'abri de la rive septentrionale, put se réfugier, avant la nuit tombante, dans l\'embouchure du Saguenay.
+
+La bourrasque n\'avait duré que quelques heures. Aussi, le 19 septembre, dès l\'aube, Jean put-il continuer sa campagne en remontant le Saguenay, dont le cours se développe à l\'aplomb de ces hautes falaises des caps de la Trinité et de l\'Éternité, qui mesurent dix-huit cents pieds d\'altitude. Là, en ce pittoresque pays, s\'offrent aux regards les plus beaux sites, les plus étranges points de vue de la province canadienne, et, entre autres, cette merveilleuse baie de Ha-Ha ! -- appellation onomatopéique que lui a décernée l\'admiration des touristes. Le Champlain atteignit Chicoutimi, où Jean put se mettre en rapport avec les membres du comité réformiste, et, le lendemain, profitant de la marée de nuit, il reprit direction vers Québec. Entre temps, Pierre Harcher et ses frères n\'oubliaient point qu\'ils étaient pêcheurs de leur état. Chaque soir, ils tendaient leurs filets et leurs lignes. De grand matin, ils accostaient les nombreux villages des deux bords. C\'est ainsi que, sur la rive septentrionale, d\'un aspect presque sauvage, le long du comté de Charlevoix, depuis Tadoussac jusqu\'à la baie Saint-Paul, ils visitèrent la Malbaie, Saint-Irénée, Notre-Dame-des-Éboulements, dont le nom significatif n\'est que trop justifié par sa situation au milieu d\'un chaos de roches. Ce furent les côtes de Beauport et de Beaupré, où Jean fit oeuvre utile en débarquant à Château-Richer ; puis à l\'île d\'Orléans, située en aval de Québec.
+
+Sur la rive méridionale, le Champlain relâcha successivement à Saint-Michel, à la Pointe-Lévis.
+
+Il y eut là certaines précautions à prendre, car la surveillance de cette partie du fleuve était extrêmement sévère. Peut-être même eût-il été prudent de ne point s\'arrêter à Québec, où le cotre arriva dans la soirée du 22 septembre. Mais Jean avait pris rendez-vous avec l\'avocat Sébastien Gramont, l\'un des plus ardents députés de l\'opposition canadienne.
+
+Lorsque l\'obscurité fut complète, Jean se glissa vers les hauts quartiers de la ville et gagna, par la rue du Petit-Champlain, la maison de Sébastien Gramont.
+
+Les rapports entre Jean et l\'avocat dataient depuis quelques années déjà. Sébastien Gramont, alors âgé de trente-six ans, s\'était activement mêlé à toutes les manifestations politiques des dernières années -- en 1835, plus particulièrement, où il avait payé de sa personne. De là, sa liaison avec Jean-Sans-Nom, qui, d\'ailleurs, ne lui avait jamais rien dit de son origine et de sa famille. Sébastien Gramont ne savait qu\'une chose, c\'est que, l\'heure venue, le jeune patriote se mettrait à la tête de l\'insurrection. Aussi, ne l\'ayant pas revu depuis la tentative avortée de 1835, l\'attendait-il avec une vive impatience.
+
+Lorsque Jean arriva, il fut cordialement accueilli.
+
+« Je n\'ai que quelques heures à vous donner, dit-il.
+
+--- Eh bien, répondit l\'avocat, employons-les à causer du passé et du présent\...
+
+--- Du passé ! Non ! répéta Jean. Du présent\... De l\'avenir\... De l\'avenir surtout ! »
+
+Depuis qu\'il le connaissait, Sébastien Gramont sentait bien qu\'il devait y avoir dans la vie de Jean quelque souffrance dont il ne pouvait deviner la cause.
+
+Même, vis-à-vis de lui, Jean affectait de se tenir dans une telle réserve qu\'il évitait de lui tendre la main. Aussi Sébastien Gramont n\'avait-il jamais insisté. Lorsqu\'il conviendrait à son ami de lui confier ses secrets, il serait prêt à l\'entendre.
+
+Pendant les quelques heures qu\'ils passèrent ensemble, tous deux ne causèrent que de la situation politique. D\'une part, l\'avocat fit connaître à Jean quel était l\'état des esprits dans le Parlement. De l\'autre, Jean mit Sébastien Gramont au courant des mesures déjà prises en vue d\'un soulèvement, la formation d\'un comité de concentration à la villa Montcalm, les résultats de son voyage à travers le haut et le bas Canada. Il ne lui restait plus qu\'à parcourir le district de Montréal pour achever sa campagne.
+
+L\'avocat l\'écouta avec une extrême attention, et tira bon augure des progrès que la cause nationale avait faits depuis quelques semaines. Pas une bourgade, pas un village, où l\'argent n\'eût été distribué pour l\'achat de munitions et d\'armes, et qui n\'attendit le signal.
+
+Jean apprit alors quelles étaient les dernières dispositions arrêtées par l\'autorité à Québec.
+
+« Et d\'abord, mon cher Jean, lui dit Sébastien Gramont, le bruit a couru que vous étiez ici, il y a un mois environ. Des perquisitions ont été faites pour découvrir votre retraite, et jusque dans ma propre maison, où vous aviez été faussement signalé. J\'ai reçu la visite des agents, et, entre autres, celle d\'un certain Rip\...
+
+--- Rip ! s\'écria Jean, d\'une voix étranglée, comme si ce nom eût brûlé ses lèvres.
+
+--- Oui\... Le chef de la maison Rip and Co, répondit Sébastien Gramont. N\'oubliez pas que ce policier est un homme des plus dangereux\...
+
+--- Dangereux ! murmura Jean.
+
+--- Et dont il faudra particulièrement vous défier, ajouta Sébastien Gramont. -- S\'en défier ! répondit Jean. Oui ! S\'en défier comme d\'un misérable !
+
+--- Est-ce que vous le connaissez ?
+
+--- Je le connais, répliqua Jean, qui avait repris son sang-froid, mais il ne me connaît pas encore !
+
+--- C\'est l\'important ! » ajouta Sébastien Gramont, assez surpris de l\'attitude de son hôte.
+
+D\'ailleurs, Jean, reportant la conversation sur un autre sujet, interrogea l\'avocat à propos de la politique du Parlement pendant ces dernières semaines.
+
+« À la Chambre, répondit Sébastien Gramont, l\'opposition est à l\'état aigu. Papineau, Cuvillier, Viger, Quesnel, Bourdages, attaquent les actes du Gouvernement. Lord Gosford voudrait proroger la Chambre, mais il sent bien que ce serait soulever le pays\...
+
+--- Dieu veuille qu\'il ne le fasse pas avant que nous soyons prêts ! répondit Jean. Que les chefs ne précipitent pas imprudemment les choses !
+
+--- Ils seront avertis, Jean, et ils ne feront rien qui puisse contrarier vos projets. Toutefois, en prévision d\'une insurrection possible et qui éclaterait dans un délai rapproché, des mesures ont été prises par le gouverneur général. Sir John Colborne a concentré les troupes dont il pouvait disposer, de manière à les porter rapidement vers les principales bourgades des comtés du Saint-Laurent, où, dit-on, s\'engagera probablement la lutte\...
+
+--- Là et sur vingt autres points à la fois -- je l\'espère, du moins, répondit Jean.
+
+Il importe que toute la population canadienne se lève au même jour, à la même heure, et que les bureaucrates soient accablés par le nombre ! Si le mouvement n\'était que local, il risquerait d\'être enrayé dès le début. C\'est pour le généraliser que j\'ai visité les paroisses de l\'est et de l\'ouest, que je vais parcourir celles du centre. Je compte repartir cette nuit même.
+
+--- Partez donc, Jean, mais n\'oubliez pas que les soldats et les volontaires de sir John Colborne sont plus particulièrement cantonnés autour de Montréal, sous le commandement des colonels Gore et Witherall. C\'est là que nous aurons, sans doute, à supporter le plus terrible choc\...
+
+--- Tout sera combiné pour obtenir l\'avantage dès les premiers coups de feu, répondit Jean. Précisément, le comité de la villa Montcalm est bien placé en vue d\'une action commune, et je connais l\'énergie de M. De Vaudreuil qui le dirige. D\'ailleurs, dans les comtés de Verchères, de Saint-Hyacinthe, de Laprairie, qui avoisinent celui de Montréal, les plus ardents des Fils de la Liberté ont communiqué aux villes, aux bourgades, aux villages, le feu de leur patriotisme\...
+
+--- Et il n\'est pas jusqu\'au clergé qui ne l\'attise ! répondit Sébastien Gramont. En public comme en particulier, dans les sermons comme dans les entretiens, nos prêtres prêchent contre la tyrannie anglo-saxonne. Il y a quelques jours, à Québec même, dans la cathédrale, un jeune prédicateur n\'a pas craint de faire appel au sentiment national, et ses paroles ont eu un retentissement tel que le ministre de la police a voulu le faire arrêter. Mais, par prudence, lord Gosford, désireux de ménager le clergé canadien, s\'est opposé à cette mesure de rigueur.
+
+Il a seulement obtenu de l\'évêque que ce prédicateur quitterait la ville, et maintenant il poursuit sa mission à travers les paroisses du comté de Montréal.
+
+C\'est un véritable tribun de la chaire, d\'une éloquence entraînante, que ne retient aucune considération personnelle, et qui ferait certainement à notre cause le sacrifice de sa liberté et de sa vie !
+
+--- Il est jeune, avez-vous dit, ce prêtre dont vous parlez ? demanda Jean. -- Il a trente ans à peine.
+
+--- À quel ordre appartient-il ?
+
+--- À l\'ordre des Sulpiciens.
+
+--- Et il se nomme ?
+
+--- L\'abbé Joann. »
+
+Ce nom évoqua-t-il un souvenir dans l\'esprit de Jean ? Sébastien Gramont dut le penser, car le jeune homme garda le silence quelques instants. Puis, il prit congé de l\'avocat, bien que celui-ci lui offrît l\'hospitalité jusqu\'au lendemain.
+
+« Je vous remercie, mon cher Gramont, dit-il. Il importe que j\'aie rejoint mes compagnons avant minuit. Nous devons partir à la marée montante.
+
+--- Allez donc, Jean, répondit l\'avocat. Que votre entreprise réussisse ou non, vous n\'en serez pas moins un de ceux qui auront le plus fait pour notre pays !
+
+--- Je n\'aurai rien fait, tant qu\'il sera sous le joug de l\'Angleterre, s\'écria le jeune patriote, et, si je parvenais à l\'en délivrer, fût-ce au prix de ma vie\...
+
+--- Il vous devrait une reconnaissance éternelle ! répondit Sébastien Gramont.
+
+--- Il ne me devrait rien ! »
+
+Là-dessus, les deux amis se séparèrent.
+
+Puis, Jean, après avoir regagné le Champlain, mouillé à une encablure de la rive, reprit avec le courant la route de Montréal.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 7 -- De Québec à Montréal]{.pcalibre lang="X-NONE"}]{#_Toc342942146 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-7-de-québec-à-montréal .calibre171 .sigil_not_in_toc}
+
+À minuit, le cotre avait déjà gagné quelques milles en amont. Au sein de cette nuit, éclairée par la lumière de la pleine lune, Pierre Harcher manoeuvrait avec sûreté, bien qu\'il dût courir des bordées d\'une rive à l\'autre, car le vent soufflait de l\'ouest à l\'état de fraîche brise.
+
+Le Champlain ne s\'arrêta qu\'un peu avant le lever de l\'aube. De légères brumes noyaient alors les larges prairies au-delà des deux berges. Bientôt les têtes d\'arbres, groupés à l\'arrière plan, émergèrent de ces vapeurs que le soleil commençait à dissoudre, et le cours du fleuve redevint visible.
+
+Nombre de pêcheurs étaient déjà à la besogne, traînant leurs filets et leurs lignes à la remorque de ces petites embarcations qui n\'abandonnent guère le haut cours du Saint-Laurent ou ses affluents de droite et de gauche. Le Champlain alla se perdre au milieu de cette flottille, livrée à ses occupations matinales entre les rives des comtés de Port-Neuf et de Lotbinière. Les frères Harcher se mirent aussitôt au travail, après avoir jeté l\'ancre du côté septentrional. Il leur fallait quelques mannes de poisson, afin de l\'aller vendre dans les villages, dès que le flot permettrait de remonter le fleuve malgré le vent contraire.
+
+Pendant la pêche, des canots d\'écorce vinrent accoster le Champlain. C\'étaient deux ou trois de ces légers squifs que l\'on peut mettre sur l\'épaule, lorsqu\'il s\'agit de franchir les « portages », c\'est-à-dire l\'espace pendant lequel un cours d\'eau est rendu innavigable par les roches qui l\'obstruent, les chutes ou « sauts » qui le barrent, les rapides ou tourbillons qui troublent si fréquemment les rivières canadiennes.
+
+Les hommes de ces canots étaient de race indienne pour la plupart.
+
+Ils venaient acheter du poisson qu\'ils transportaient ensuite dans les bourgades et villages de l\'intérieur, où leurs embarcations pénétraient par les multiples rios du territoire. À diverses reprises, pourtant, ce furent des Canadiens qui vinrent accoster le Champlain. Ils s\'entretenaient pendant quelques minutes avec Jean ; après quoi ils regagnaient la rive, afin d\'accomplir la mission dont ils s\'étaient chargés.
+
+Ce matin-là, si les frères Harcher n\'eussent cherché dans la pêche que le gain ou le plaisir, leur voeu aurait été amplement satisfait. Filets et lignes firent merveille, en capturant brochets, perches, perchotes, et ces espèces si abondantes dans les eaux canadiennes, maskinongis et touradis, dont on est très friand dans le Nord-Amérique. Ils prirent aussi quantité de ce «  poisson blanc » que les gourmets apprécient pour sa chair excellente. Il serait donc fait bon accueil aux pêcheurs du Champlain dans les habitations riveraines, et c\'est ce qui arriva.
+
+Ils étaient favorisés, d\'ailleurs, par un temps magnifique -- ce temps spécial, pour ainsi dire, à l\'heureuse et incomparable vallée du Saint-Laurent. Quel délicieux aspect que celui des campagnes avoisinantes, depuis les berges du fleuve jusqu\'au pied de la chaîne des Laurentides ! Suivant la poétique expression de Fenimore Cooper, elles n\'en étaient que plus belles pour avoir revêtu leur livrée d\'automne -- la livrée verte et jaune des derniers beaux jours.
+
+Le Champlain gagna d\'abord la lisière du comté de Port-Neuf sur la rive gauche. Dans la bourgade de ce nom, comme dans les villages de Sainte-Anne et de Saint-Stanislas, on fit des affaires. Peut-être, sur certains points, le Champlain laissa-t-il plus d\'argent qu\'il n\'en reçut pour les produits de sa pêche ; mais les frères Harcher ne songeaient pas à s\'en plaindre.
+
+Pendant les deux jours suivants, Jean navigua ainsi d\'une rive à l\'autre. Dans le comté de Lotbinière, sur la rive droite, à Lotbinière et à Saint-Pierre-les-Bosquets, -- dans le comté de Champlain, sur la rive opposée, à Batiscan, -- ensuite, sur l\'autre bord, à Gentilly, à Doucette, les principaux réformistes reçurent sa visite. Ce fut même l\'un des personnages les plus influents de Nicolet, dans le comté de ce nom. M.Aubineau, juge de paix et commissaire des petites causes du district, qui se mit en rapport avec lui. Là aussi, comme à Québec, Jean apprit que l\'abbé Joann venait de parcourir les paroisses, où ses prédications avaient enflammé les esprits. M. Aubineau lui ayant parlé des munitions et des armes qui faisaient le plus généralement défaut :
+
+« Vous en recevrez prochainement, répondit-il. Un train de bois a dû partir de Montréal la nuit dernière, et il ne peut tarder à arriver, avec fusils, poudre et plomb. Vous serez donc armés à temps. Mais ne vous levez pas avant l\'heure. En outre, si cela était nécessaire, vous pourriez entrer en communication avec le comité de la villa Montcalm, dans l\'île Jésus, et correspondre avec son président\...
+
+--- M. De Vaudreuil ?
+
+--- Lui-même.
+
+--- C\'est entendu.
+
+--- Ne m\'avez-vous pas dit, reprit Jean, que l\'abbé Joann avait passé par Nicolet ?
+
+--- Il était ici, il y a six jours.
+
+--- Savez-vous où il est allé en vous quittant ?
+
+--- Dans le comté de Verchères, et il doit, si je ne me trompe, se rendre ensuite dans le comté de Laprairie ! »
+
+Sur ce, Jean prit congé du juge de paix, et rentra à bord du Champlain, au moment où les frères Harcher y revenaient, après avoir vendu leur poisson. Le fleuve fut alors obliquement traversé dans la direction du comté de Saint-Maurice.
+
+À l\'embouchure de la rivière de ce nom, s\'élève l\'une des plus anciennes bourgades du pays, la bourgade des Trois-Rivières, au débouché d\'une vallée fertile. À cette époque, on venait d\'y créer une fonderie de canons, dirigée par une société franco-canadienne, et qui n\'occupait que des ouvriers franco-canadiens.
+
+C\'était là un centre anti-loyaliste que Jean ne pouvait négliger. Le Champlain remonta donc pendant plusieurs milles le cours du Saint-Maurice, et le jeune patriote se mit en relation avec les comités institués dans les paroisses.
+
+Il est vrai, cette fonderie, de création récente, se trouvait encore dans la période d\'organisation. Quelques mois plus tard, peut-être les réformistes auraient-ils pu s\'y fournir de ces bouches à feu dont ils étaient malheureusement privés. Il était possible, cependant -- à la condition que l\'on travaillât jour et nuit -- qu\'ils fussent en mesure d\'opposer à l\'artillerie des troupes royales les premiers canons fondus à l\'usine de Saint-Maurice. Jean eut un très important entretien à ce sujet avec les chefs des comités. Que quelques-unes de ces pièces fussent fabriquées à temps, et les bras ne manqueraient pas pour les servir.
+
+En quittant les Trois-Rivières, le Champlain longea à gauche la rive du comté de Maskinongé, relâcha à la petite ville de ce nom, puis déboucha, la nuit du 24 au 25 septembre, dans un assez large évasement du Saint-Laurent, qu\'on appelle le lac Saint-Pierre. Là se développe, en effet, une sorte de lac, long de cinq lieues, limité en amont par une série d\'îlots, qui s\'étendent depuis Berthier, bourgade du comté de ce nom, jusqu\'à Sorel, appartenant au comté de Richelieu.
+
+En cet endroit, les frères Harcher tendirent leurs filets, ou plutôt les mirent à la traîne, et, servis par le courant, ils continuèrent à remonter le fleuve sous petite vitesse. D\'épais nuages couvraient le ciel, et l\'obscurité était assez profonde pour qu\'il fût impossible d\'apercevoir les rives dans le nord et dans le sud.
+
+Un peu après minuit, Pierre Harcher, de garde à l\'avant, aperçut un feu qui brillait en amont du fleuve.
+
+« C\'est sans doute le fanal d\'un navire en dérive, dit Rémy, qui avait rejoint son frère.
+
+--- Attention aux filets ! répliqua Jacques. Nous en avons trente brasses dehors, et ils seraient perdus, si ce navire nous tombait en travers !
+
+--- Eh bien, gagnons sur tribord, dit Michel. Dieu merci ! L\'espace ne manque pas\...
+
+--- Non, répondit Pierre, mais le vent refuse, et nous allons dériver\...
+
+--- Il vaudrait mieux haler nos filets, fit observer Tony. Ce serait plus sûr\... -- Oui, et ne perdons pas de temps », répliqua Rémy.
+
+Les frères Harcher se préparaient à rentrer leurs engins à bord, lorsque Jean dit :
+
+« Êtes vous certains que ce soit un navire qui se laisser aller au courant du fleuve ?
+
+--- Je ne sais trop, répondit Pierre. En tout cas, il s\'approche lentement, et son feu est placé bien au ras de l\'eau.
+
+--- C\'est peut-être une cage ? dit Jacques.
+
+--- Si c\'est une cage, répliqua Rémy, raison de plus pour l\'éviter ! Nous ne pourrions nous en débrouiller ! Allons, hale à bord ! »
+
+En effet, le Champlain eût risqué de compromettre ses filets, si les frères Harcher ne se fussent hâtés de les ramener, sans même prendre le temps de dégager le poisson pris dans leurs mailles.
+
+Il n\'y avait pas un instant à perdre, car le feu signalé ne se trouvait pas à plus de deux encâblures.
+
+On appelle « cages », en Canada, des trains de bois, composés de soixante à soixante-dix « cribs », c\'est-à-dire de sections, dont l\'ensemble comprend au moins mille pieds cubes. À partir du jour où la débâcle rend le fleuve à la navigation, nombre de ces cages le descendent vers Montréal ou Québec. Elles viennent de ces immenses forêts de l\'ouest, qui forment une des inépuisables richesses de la province canadienne. Qu\'on se figure un assemblage flottant, émergeant de cinq à six pieds, comme un énorme ponton sans mâts. Il est composé de troncs, qui ont été équarris sur les lieux mêmes par la hache du bûcheron, ou débités en madriers et en planches par les scieries établies aux chutes des Chaudières, sur la rivière Outaouais. De ces trains, il en descend ainsi des milliers depuis le mois d\'avril jusqu\'au milieu d\'octobre, évitant les sauts et les rapides au moyen de glissoires construites sur le fond d\'étroits canaux à fortes pentes. Si quelques-unes de ces cages s\'arrêtent à Montréal pour fournir au chargement des bâtiments qui les transportent dans les mers d\'Europe, la plupart dérivent jusqu\'à Québec. Là est le centre de ces exploitations forestières, dont le rendement se chiffre chaque année par vingt-cinq à trente millions de francs au profit du commerce canadien.
+
+Il va de soi que ces trains ne peuvent que gêner la navigation du fleuve, surtout lorsqu\'ils s\'engagent à travers les branches intermédiaires dont la largeur est souvent médiocre. Abandonnés au courant de jusant, tant qu\'il dure, il est à peu près impossible de les diriger. C\'est donc aux bâtiments, embarcations de pêche ou autres, de s\'en garer, s\'ils veulent ne point risquer des abordages qui leur causeraient de très graves avaries.
+
+On le comprend, les frères Harcher ne devaient pas hésiter à ramener leurs filets, jetés sur le passage de la cage, que l\'accalmie les empêchait d\'éviter. Jacques ne s\'était point trompé, c\'était une cage qui descendait le fleuve. Un feu, placé à l\'avant, indiquait la direction qu\'elle suivait. Elle n\'était plus qu\'à une vingtaine de brasses, lorsque le Champlain eut fini de haler ses filets.
+
+En ce moment, dans le silence de la nuit, une voix timbrée entonna cette vieille chanson du pays, qui est devenue, ainsi que le fait remarquer M.Réveillaud, un vrai chant national -- il faut le dire, plutôt par l\'air que par les paroles. Dans le chanteur, qui n\'était autre que le patron de la cage, il était facile de reconnaître un Canadien d\'origine française, rien qu\'à son accent et à la façon très ouverte dont il prononçait la diphtongue « ai ».
+
+Et il chantait ceci : En revenant des noces, J\'étas bien fatigué, à la claire fontaine, J\'allas me reposer\...
+
+Sans doute, Jean reconnut la voix du chanteur, car il s\'approcha de Pierre Harcher, au moment où le Champlain abattait avec ses avirons pour éviter la cage.
+
+« Accoste, lui dit-il.
+
+--- Accoster ? répondit Pierre.
+
+--- Oui ! C\'est Louis Lacasse.
+
+--- Nous allons dériver avec lui !
+
+--- Cinq minutes, au plus, répondit Jean.
+
+Je n\'ai que quelques mots à lui dire.
+
+En un instant, Pierre Harcher, après avoir donné un coup de barre, eut rangé le flanc du train de bois, où le Champlain fut amarré par l\'avant.
+
+Le marinier, voyant cette manoeuvre, avait interrompu sa chanson et crié : « Eh ! Du cotre ! Prenez garde !
+
+--- Il n\'y a pas de danger, Louis Lacasse ! répondit Pierre Harcher. C\'est le Champlain. »
+
+D\'un bond, Jean venait de sauter sur le train de bois, et avait rejoint le patron, qui lui dit, dès qu\'il l\'eût reconnu à la lueur du fanal :
+
+« À vous rendre mes « devouers », monsieur Jean !
+
+--- Merci, Lacasse.
+
+--- Je comptas vous rencontrer en route, et j\'étas même décidé à espérer le Champlain à mon prochain mouillage pendant le flot. Mais puisque vous voilà\...
+
+--- Tout est à bord ? demanda Robert.
+
+--- Tout est à bord, caché sous les madriers et entre les poutres ! C\'est joliment arrimé, je vous assure ! ajouta Louis Lacasse, en tirant son batte-feu pour allumer sa pipe.
+
+--- Les douaniers sont-ils venus ?
+
+--- Oui\... À Verchères ! Ces manières de gabelous sont restés là à bavasser pendant une demi-heure ! Ils n\'ont rien vu ! C\'est comme si c\'état enfermé dans une boète ! »
+
+Louis Lacasse prononçait le mot « boîte », comme il avait dit « devouers », ainsi que cela se fait encore dans certaines provinces de France.
+
+« Combien ? demanda Jean.
+
+--- Deux cents fusils.
+
+--- Et de sabres ?
+
+--- Deux cent cinquante.
+
+--- Ils viennent ?
+
+--- Du Vermont. Nos amis les Américains ont bien travaillé, et ça ne nous a pas coûté cher. Seulement, ils ont eu quelque peine à transporter la cargaison jusqu\'au fort Ontario, où nous en avons pris livraison. Maintenant, plus de difficultés !
+
+--- Et les munitions ?
+
+--- Trois tonneaux de poudre, et quelques milliers de balles. Si chacune tue son homme, il n\'y aura bientôt plus un seul habit-rouge en Canada. Ils seront donc mangés par les mangeux de « guernouilles », comme on nous appelle entre Anglo-Saxons !
+
+--- Tu sais maintenant, demanda Jean, à quelles paroisses sont destinées les munitions et les armes ?
+
+--- Parfaitement, répondit le marinier. Et, ne craignez rien ! Pas de danger d\'être surpris ! Pendant la nuit, au plus bas de la marée, je mouillera ma cage, et des canots viendront de la rive qu\'rir chacun leur part. Seulement, je ne descends pas plus bas que Québec, où je dois charger mes bois à bord du Moravian, à destination de Hambourg.
+
+--- C\'est entendu, répondit Jean. Avant Québec, tu auras livré tes derniers fusils et ton dernier tonneau de poudre.
+
+--- Ça ira bien alors.
+
+--- Dis-moi, Louis Lacasse, tu es sûr des hommes qui sont embarqués avec toi ?
+
+--- Comme de moi-même ! Des vrais Jean-Baptiste[[\[3\]]{.MsoFootnoteReference8}](../Text/Section0004.xhtml#_ftn3032){#_ftnref3032 .pcalibre2 .pcalibre1}, et quand il s\'agira de faire le coup de feu, je ne crois pas qu\'ils restent en èrrière ! »
+
+Louis Lacasse disait « èrrière », probablement parce qu\'on dit « derrière » et non « darrière. »
+
+Jean lui remit alors une certaine quantité de piastres, que le brave marinier fit tomber, sans compter, dans la poche de sa large vareuse.
+
+Puis, de vigoureuses poignées de main furent échangées avec l\'équipage du cotre.
+
+Jean reprit place alors à bord du Champlain, qui s\'éloigna vers la rive gauche. Et, tandis que le train de bois continuait à dériver en aval, on put entendre la voix sonore de Louis Lacasse qui reprenait :
+
+À la clare fontaine J\'allais me promener !
+
+Une heure après, la brise revint avec la marée montante. Le Champlain s\'engagea entre ces nombreux îlots qui limitent le lac Pierre, et ayant longé successivement le littoral des comtés de Joliette et de Richelieu, situés en face l\'un de l\'autre, il fit escale aux villages riverains du comté de Montcalm et du comté de Verchères, dont les femmes s\'étaient si courageusement battues à la fin du dix-septième siècle pour défendre un fort attaqué par les sauvages.
+
+Tandis que le cotre stationnait, Jean rendit visite aux chefs réformistes et put s\'assurer par lui-même de l\'esprit des habitants. Plusieurs fois, on lui parla de Jean-Sans-Nom, dont la tête avait été mise à prix. Où était-il actuellement ? Reparaîtrait-il, lorsque la bataille serait engagée ? Les patriotes comptaient sur lui. En dépit de l\'arrêté du gouverneur général, il pouvait venir sans crainte dans le comté, et là, pour une heure comme pour vingt-quatre, toutes les maisons lui seraient ouvertes !
+
+Devant ces marques d\'un dévouement qui aurait été jusqu\'au dernier sacrifice, Jean se sentait profondément ému.
+
+Oui ! Il était attendu comme un Messie par la population canadienne ! Et alors il se bornait à répondre :
+
+« Je ne sais où est Jean-Sans-Nom ; mais, le jour venu, il sera là où il doit être ! »
+
+Vers le milieu de la nuit du 26 au 27 septembre, le Champlain avait atteint la branche méridionale du Saint-Laurent, qui sépare l\'île de Montréal de la rive sud.
+
+Le Champlain touchait alors au terme de son voyage. Dans quelques jours, les frères Harcher allaient le désarmer pour la saison d\'hiver, qui rend impraticable la navigation du fleuve. Puis, Jean et eux regagneraient le comté de Laprairie, à la ferme de Chipogan, où toute la famille du fermier se trouverait réunie pour les fêtes de mariage.
+
+Entre l\'île Montréal et la rive droite, le bras du Saint-Laurent est formé de rapides que l\'on peut considérer comme l\'une des curiosités du pays. En cet endroit se développe une sorte de lac, semblable au lac Saint-Pierre, où le Champlain avait rencontré la cage du patron Louis Lacasse. On l\'appelle le Saut de Saint-Louis, et il est situé en face de Lachine, petite bourgade bâtie en amont de Montréal, qui est un lieu de villégiature très recherché des Montréalais. C\'est comme une mer tumultueuse, dans laquelle se déversent les eaux d\'une des branches de l\'Outaouais. D\'épaisses forêts hérissent encore la rive droite, autour d\'un village d\'Iroquois christianisés, le Caughnawaga, dont la petite église dresse sa modeste flèche hors du massif de verdure.
+
+En cette partie du Saint-Laurent, si la remontée est très difficile, la descente risque de se faire plus facilement qu\'on ne le voudrait peut-être, puisqu\'il suffirait d\'un faux coup de barre pour jeter une embarcation à travers les rapides.
+
+Mais les mariniers, habitués à ces dangereuses passes -- les pêcheurs surtout, qui viennent prendre là des aloses par myriades -- sont très habiles à manoeuvrer au milieu de ces eaux furieuses. À la condition de ranger la berge méridionale du fleuve et de se haler à la cordelle, il n\'est point impossible d\'atteindre Laprairie, chef-lieu du comté de ce nom, où le Champlain avait coutume d\'hiverner.
+
+Vers le milieu du jour, Pierre Harcher se trouvait un peu en aval du bourg de Lachine. D\'où vient ce nom, qui est celui du vaste empire asiatique ? Tout simplement des premiers navigateurs du Saint-Laurent.
+
+Arrivés dans le voisinage du pays des grands lacs, ils se crurent sur le littoral de l\'océan Pacifique, et, par conséquent, non loin du royaume des Célestes.
+
+Le patron du Champlain manoeuvra donc de manière à rallier la rive droite du fleuve ; il l\'atteignit vers cinq heures du soir, à peu près sur la limite qui sépare le comté de Montréal du comté de Laprairie.
+
+Ce fut en ce moment que Jean lui dit :
+
+« Je vais débarquer, Pierre.
+
+--- Tu ne viens pas avec nous jusqu\'à Laprairie ? répondit Pierre Harcher.
+
+--- Non, il est nécessaire que je visite la paroisse de Chambly, et, en débarquant à Caughnawaga, j\'aurai moins de chemin à faire pour y arriver. -- C\'est risquer beaucoup, fit observer Pierre, et je ne te verrai pas t\'éloigner sans inquiétude. Pourquoi nous quitter, Jean ? Reste encore deux jours, et nous partirons tous ensemble, après le désarmement du Champlain.
+
+--- Je ne puis, répondit Jean.
+
+Il faut que je sois à Chambly cette nuit même.
+
+--- Veux-tu que deux de nous t\'accompagnent ? demanda Pierre Harcher. -- Non\... Il vaut mieux que je sois seul.
+
+--- Et tu resteras à Chambly ?
+
+--- Quelques heures seulement, Pierre, et je compte en repartir avant le jour. »
+
+Comme Jean ne paraissait pas désireux de s\'expliquer sur ce qu\'il allait faire dans cette bourgade, Pierre Harcher n\'insista pas et se contenta d\'ajouter :
+
+« Devons-nous t\'attendre à Laprairie ?
+
+--- C\'est inutile. Faites ce que vous avez à faire, sans vous inquiéter de moi. -- Alors nous nous retrouverons ?
+
+--- À la ferme de Chipogan.
+
+--- Tu sais, reprit Pierre, que nous devons y être tous pour la première semaine d\'octobre ?
+
+--- Je le sais.
+
+--- Ne manque pas d\'être là, Jean ! Ton absence ferait beaucoup de peine à mon père, à ma mère, à tous. On nous attend à Chipogan pour une fête de famille, et, puisque tu es devenu notre frère, il faut que tu sois là pour que la famille soit au complet.
+
+--- J\'y serai, Pierre ! »
+
+Jean serra la main des fils Harcher. Puis, il descendit dans la cabine du Champlain, revêtit le costume qu\'il portait le jour de sa visite à la villa Montcalm, et prit congé de ses braves compagnons.
+
+Un instant après, Jean sauta sur la berge, et, après un dernier « au revoir ! », il disparut sous les arbres, dont les masses profondes entourent le village iroquois.
+
+Pierre, Rémy, Michel, Tony et Jacques se remirent aussitôt à la manoeuvre. Ce ne fut pas sans de grands efforts, de rudes fatigues, qu\'ils parvinrent à haler leur bateau contre le courant, en profitant des remous qui se formaient au revers des pointes.
+
+À huit heures du soir, le Champlain était solidement amarré dans une petite crique, au pied des premières maisons du bourg de Laprairie.
+
+Les frères Harcher avaient achevé leur campagne de pêche, après avoir, pendant six mois et sur deux cents lieues de parcours, remonté et descendu les eaux du grand fleuve.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 8 -- Un anniversaire]{.pcalibre lang="X-NONE"}]{#_Toc342942147 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-8-un-anniversaire .calibre171 .sigil_not_in_toc}
+
+Il était cinq heures du soir, lorsque Jean quitta le Champlain. Trois lieues environ le séparaient de la bourgade de Chambly vers laquelle il se dirigeait.
+
+Qu\'allait-il faire à Chambly ? N\'avait-il pas déjà achevé son oeuvre de propagande à travers les extrêmes comtés du sud-ouest, avant son arrivée à la villa Montcalm ? Oui, sans doute. Mais cette paroisse n\'avait pas encore reçu sa visite. Pour quelle raison ? Nul ne l\'eût pu deviner. Il ne l\'avait dit à personne, et c\'est à peine s\'il se la disait à lui-même. Il allait là, vers Chambly, comme s\'il eût été attiré et repoussé à la fois, ayant conscience, pourtant, du combat qui se livrait en lui.
+
+Douze ans s\'étaient écoulés depuis que Jean avait quitté la bourgade où il était né. On ne l\'y avait jamais revu. On ne l\'y reconnaîtrait pas. Lui-même, après une si longue absence, n\'aurait-il pas oublié la rue dans laquelle il jouait tout petit, la maison où s\'était passée son enfance ?
+
+Non ! Ces souvenirs du premier âge ne pouvaient s\'être effacés de sa mémoire si vivace ? Au sortir de la forêt riveraine, il se revit au milieu des prairies qu\'il parcourait autrefois, lorsqu\'il allait rejoindre le bac du Saint-Laurent. Ce n\'était point un étranger qui franchissait ce territoire, c\'était un enfant du pays. Il n\'éprouva pas une hésitation à suivre certaines passes guéables, à prendre des chemins de traverse, à éviter quelques coudes pour abréger la route. Aussi, lorsqu\'il serait à Chambly, il n\'aurait aucune hésitation à reconnaître la petite place où s\'élevait la maison paternelle, la rue étroite par laquelle il y rentrait le plus ordinairement, l\'église à laquelle sa mère le conduisait, le collège où il avait commencé ses études, avant qu\'il fût allé les achever à Montréal ?
+
+Ainsi, Jean avait voulu revoir ces lieux, dont il s\'était tenu éloigné depuis si longtemps.
+
+Au moment de jouer sa vie dans une lutte suprême, l\'irrésistible désir l\'avait pris de retourner là où cette existence misérable avait commencé pour lui. Ce n\'était pas Jean-Sans-Nom qui se présentait aux réformistes du comté, c\'était l\'enfant, revenant, peut-être pour la dernière fois, au village qui l\'avait vu naître.
+
+Jean marchait d\'un pas rapide, afin d\'être à Chambly avant la nuit, afin d\'en repartir avant le jour. Absorbé en de torturants souvenirs, ses yeux ne voyaient rien de ce qui eût autrefois attiré son attention, ni les couples d\'élans qui s\'en allaient sous bois, ni les oiseaux de mille sortes qui voltigeaient entre les arbres, ni le gibier qui filait par les sillons.
+
+Quelques laboureurs étaient encore occupés aux travaux des champs. Il se détournait alors pour n\'avoir point à répondre à leur salut cordial, voulant passer inaperçu à travers la campagne et revoir Chambly sans y être vu.
+
+Il était sept heures, lorsque le clocher de l\'église pointa entre la verdure. Encore une demi-lieue, et il serait arrivé. Les tintements de la cloche, apportés par le vent, arrivaient jusqu\'à lui. Et, bien loin de s\'écrier :
+
+« Oui, c\'est moi ! Moi, qui veux me retrouver au milieu de tout ce que j\'aitant aimé autrefois ! Je reviens au nid ! Je reviens au berceau ! »
+
+Il se taisait, ne répondant qu\'à lui-même, et se demandant avec épouvante : « Que suis-je venu faire ici ? »
+
+Cependant, aux tintements ininterrompus de cette cloche, Jean observa que ce n\'était pas l\'Angélus qui sonnait en ce moment.
+
+À quel office appelait-elle alors les fidèles de Chambly et à une heure si tardive ?
+
+« Tant mieux ! se dit Jean. On sera à l\'église ! Je n\'aurai point à passer devant des portes ouvertes ! On ne me verra pas ! On ne me parlera pas ! Et, puisque je n\'ai à demander l\'hospitalité à personne, personne ne saura que je suis venu ! »
+
+Il se disait cela, il continuait sa route, et, par instants, l\'envie lui prenait de revenir sur ses pas. Non ! C\'était comme une force invincible qui le poussait en avant.
+
+À mesure qu\'il s\'approchait de Chambly, Jean regardait avec plus d\'attention. Malgré les changements qui s\'étaient opérés depuis douze ans, il reconnaissait les habitations, les enclos, les fermes établies aux abords de la bourgade.
+
+Lorsqu\'il eut atteint la principale rue, il se glissa le long des maisons, dont l\'aspect était si français qu\'il aurait pu se croire dans le chef-lieu d\'un bailliage au dix-septième siècle. Ici habitait un ami de sa famille, chez qui Jean passait quelquefois ses jours de congé. Là demeurait le curé de la paroisse, qui lui avait donné ses premières leçons. Ces braves gens vivaient-ils encore ? Puis, une plus haute bâtisse se dressa sur la droite. C\'était le collège où il se rendait chaque matin, qui s\'élevait à quelques centaines de pas, en remontant vers le haut quartier de Chambly.
+
+Cette rue aboutissait à la place de l\'église. La maison paternelle en occupait un angle, à gauche, sa façade tournée du côté de la place, ses derrières donnant sur un jardin, qui se raccordait aux massifs d\'arbres, groupés autour de la bourgade.
+
+La nuit était assez sombre.
+
+La grande porte entr\'ouverte de l\'église laissait voir, à l\'intérieur, une foule vaguement éclairée par le lustre suspendu à la voûte.
+
+Jean, n\'ayant plus à craindre d\'être reconnu -- en admettant qu\'on eût conservé souvenir de lui -- eut un instant la pensée de se mêler à cette foule, d\'entrer dans cette église, d\'assister à l\'office du soir, de s\'agenouiller sur ces bancs où il avait dit ses prières d\'enfant. Mais, tout d\'abord, il se sentit attiré vers le côté opposé de la place, ayant pris sur la gauche, il atteignit l\'angle où s\'élevait la maison de sa famille\...
+
+Il se souvenait. C\'était là qu\'elle était bâtie. Tous les détails lui revenaient, la barrière qui fermait une petite cour en avant, le colombier qui dominait le pignon sur la droite, les quatre fenêtres du rez-de-chaussée, la porte au milieu, la fenêtre à gauche du premier étage, où la figure de sa mère lui était si souvent apparue entre les fleurs qui l\'encadraient. Il avait quinze ans, lorsqu\'il avait quitté Chambly pour la dernière fois. À cet âge, les choses sont déjà profondément gravées dans la mémoire. C\'était bien à cette place que devait être l\'habitation, construite par les premiers de sa famille, au début de la colonie canadienne.
+
+Plus de maison à cet endroit. Sur son emplacement, rien que des ruines. Ruines sinistres, non pas celles que le temps a faites, mais celles que laisse après lui quelque violent sinistre. Et ici, on ne pouvait s\'y méprendre. Des pierres calcinées, des pans de murs noircis, des morceaux de poutres brûlées, des amas de cendres, blanches maintenant, disaient qu\'à une époque déjà reculée, la maison avait été la proie des flammes.
+
+Une horrible pensée traversa l\'esprit de Jean.
+
+Qui avait allumé cet incendie ? Était-ce l\'oeuvre du hasard ou de l\'imprudence ? Était-ce la main d\'un justicier ?
+
+Jean, irrésistiblement entraîné, se glissa entre les ruines\... Il foula du pied les cendres entassées sur le sol. Quelques chouettes s\'envolèrent. Sans doute, personne ne venait jamais là. Pourquoi donc, dans cette partie la plus fréquentée de la bourgade, oui, pourquoi avait-on laissé subsister ces ruines ? Comment, après l\'incendie, ne s\'était-on pas donné la peine de déblayer ce terrain ?
+
+Depuis douze ans qu\'il l\'avait abandonnée, Jean n\'avait jamais appris que la maison de sa famille eût été détruite, qu\'elle ne fût plus qu\'un amas de pierres, noircies par le feu.
+
+Immobile, le coeur gonflé, il songeait à ce triste passé, au présent plus triste encore !
+
+« Eh ? Que faites-vous là, monsieur ? » lui cria un vieil homme, qui venait de s\'arrêter en se rendant à l\'église.
+
+Jean n\'ayant point entendu, ne répondait pas.
+
+« Eh ! reprit le vieil homme, êtes-vous sourd ? Ne restez pas là ! Si on vous voyait, vous risqueriez d\'attraper quelque mauvais compliment ! » Jean sortit des ruines, revint sur la place, et, s\'adressant à son interlocuteur :
+
+« C\'est à moi que vous parlez ? demanda-t-il.
+
+--- À vous-même, monsieur. Il est défendu d\'entrer en cet endroit ! -- Et pourquoi ?
+
+--- Parce que c\'est un lieu maudit !
+
+--- Maudit ! » murmura Jean.
+
+Mais ce fut dit d\'une voix si basse que le vieil homme n\'aurait pu l\'entendre.
+
+« Vous êtes étranger, monsieur ?
+
+--- Oui, répondit Jean.
+
+--- Et, sans doute, vous n\'êtes pas venu à Chambly depuis bien des années ?
+
+--- Oui ! Bien des années !
+
+--- Il n\'est pas étonnant alors que vous ne sachiez point\... Croyez-moi ! C\'est un bon conseil que je vous donne ! Ne retournez pas au milieu de ces décombres !
+
+--- Et pourquoi ?
+
+--- Parce que ce serait vous souiller rien que d\'en fouler les cendres. C\'est ici la maison du traître !
+
+--- Du traître ?
+
+--- Oui, de Simon Morgaz ! »
+
+Il ne le savait que trop, le malheureux !
+
+Ainsi, de l\'habitation, dont sa famille avait été chassée douze ans avant, de cette demeure qu\'il avait voulu revoir une dernière fois, qu\'il croyait debout encore, il ne restait que quelques pans de murailles, détruites par le feu ! Et la tradition en avait fait un lieu si infâme que personne n\'osait plus l\'approcher, que pas un des gens de Chambly ne l\'apercevait sans lui jeter sa malédiction ! Oui ! Douze ans s\'étaient écoulés, et, dans cette bourgade comme partout dans les provinces canadiennes, rien n\'avait pu diminuer l\'horreur qu\'inspirait le nom de Simon Morgaz !
+
+Jean avait baissé les yeux, ses mains tremblaient, il se sentait défaillir. Sans l\'obscurité, le vieil homme aurait vu le rouge de la honte lui monter au visage.
+
+Celui-ci reprit :
+
+« Vous êtes Canadien ?
+
+--- Oui, répondit Jean.
+
+--- Alors vous ne pouvez ignorer le crime qu\'avait commis Simon Morgaz ? -- Qui l\'ignore en Canada ?
+
+--- Personne en vérité, monsieur ! Vous êtes sans doute des comtés de l\'est ? -- Oui\... De l\'est\... Du Nouveau-Brunswick.
+
+--- De loin\... De très loin, alors ! Vous ne saviez peut-être pas que cette maison avait été détruite ?
+
+--- Non ! Un accident\... Sans doute ?
+
+--- Point, monsieur, point ! reprit le vieil homme. Peut-être aurait-il mieux valu qu\'elle eût été brûlée par le feu du ciel ! Et certainement, ce serait arrivé un jour ou l\'autre, puisque Dieu est juste ! Mais on a devancé sa justice ! Et, le lendemain même du jour où Simon Morgaz a été chassé de Chambly avec sa famille, on s\'est rué sur cette habitation\... On l\'a incendiée\... Puis, pour l\'exemple, afin que le souvenir ne s\'en perde jamais, on a laissé les ruines dans l\'état où vous les voyez ! Seulement, il est interdit de s\'en approcher, et personne ne voudrait se salir à la poussière de cette maison ! »
+
+Immobile, Jean écoutait tout cela. L\'animation avec laquelle parlait ce brave homme montrait bien que l\'horreur pour tout ce qui avait appartenu à Simon Morgaz subsistait dans toute sa violence ! Où Jean venait chercher des souvenirs de famille, il n\'y avait que des souvenirs de honte !
+
+Cependant son interlocuteur, en causant, s\'était peu à peu éloigné de l\'habitation maudite, et se dirigeait vers l\'église. La cloche venait de lancer ses dernières volées à travers l\'espace. L\'office allait commencer. Quelques chants se faisaient déjà entendre, interrompus par de longs silences.
+
+Le vieil homme dit alors :
+
+« Maintenant, monsieur, je vais vous quitter, à moins que votre intention ne soit de m\'accompagner à l\'église.
+
+Vous entendriez un sermon qui fera grand effet dans la paroisse\...
+
+--- Je ne puis, répondit Jean. Il faut que je sois à Laprairie avant le jour\...
+
+--- Alors vous n\'avez pas de temps à perdre, monsieur. En tout cas, les chemins sont sûrs. Depuis quelques temps, les agents parcourent jour et nuit le comté de Montréal, toujours à la poursuite de Jean-Sans-Nom, qu\'ils n\'atteindront point, Dieu fasse cette grâce à notre cher pays ! On compte sur ce jeune héros, monsieur, et on a raison\... Si j\'en crois les bruits, il ne trouverait ici que de braves gens, prêts à le suivre !
+
+--- Comme dans tout le comté, répondit Jean.
+
+--- Plus encore, monsieur ! N\'avons-nous pas à racheter la honte d\'avoir eu pour compatriote un Simon Morgaz ! »
+
+Le vieil homme aimait à causer, on le voit ; mais, enfin, il allait prendre définitivement congé, en donnant le bonsoir à Jean, lorsque celui-ci, l\'arrêtant, dit :
+
+« Mon ami, vous avez peut-être connu la famille de ce Simon Morgaz ?
+
+--- Oui, monsieur, et beaucoup ! J\'ai soixante-dix ans, j\'en avais cinquante-huit à l\'époque de cette abominable affaire. J\'ai toujours habité ce pays qui était le sien, et jamais, non jamais, je n\'aurais pensé que Simon en serait arrivé là ! Qu\'est-il devenu ? Je ne sais ! Peut-être est-il mort ? Peut-être est-il passé à l\'étranger, sous un autre nom, afin qu\'on ne pût lui cracher le sien à la face ! Mais sa femme, ses enfants ! Ah ! Les malheureux, que je les plains, ceux-là ! Madame Bridget, que j\'ai vue si souvent, toujours bonne et généreuse, bien qu\'elle fût dans une modeste condition de fortune !
+
+Elle qui était aimée de tous dans notre bourgade ! Elle qui avait le coeur plein du plus ardent patriotisme ! Ce qu\'elle a dû souffrir, la pauvre femme, ce qu\'elle a dû souffrir ! »
+
+Comment peindre ce qui se passait dans l\'âme de Jean ! Devant les ruines de la maison détruite, là où s\'était accompli le dernier acte de la trahison, là où les compagnons de Simon Morgaz avaient été livrés, entendre évoquer le nom de sa mère, revoir dans son souvenir toutes les misères de sa vie, c\'était, semblait-il, plus que n\'en peut supporter la nature humaine. Il fallait que Jean eût une extraordinaire énergie pour se contenir, pour qu\'un cri d\'angoisse ne s\'échappât point de sa poitrine.
+
+Et le vieil homme continuait, disant :
+
+« Ainsi que la mère, j\'ai connu les deux fils, monsieur ! Ils tenaient d\'elle ! Ah ! La pauvre famille ! Où sont-ils en ce moment ? Tous les aimaient ici pour leur caractère, leur franchise, leur bon coeur ! L\'aîné était grave déjà, très studieux, le cadet, plus enjoué, plus déterminé, prenant la défense des faibles contre les forts ! Il se nommait Jean ! Son frère se nommait Joann\... Et, tenez, précisément comme le jeune prêtre qui va prêcher tout à l\'heure\...
+
+--- L\'abbé Joann ? s\'écria Jean.
+
+--- Vous le connaissez ?
+
+--- Non\... Mon ami\... Non ! Mais j\'ai entendu parler de ses prédications\...
+
+--- Eh bien, si vous ne le connaissez pas, monsieur, vous devriez faire sa connaissance ! Il a parcouru les comtés de l\'ouest, et partout, on s\'est précipité pour l\'entendre !
+
+Vous verriez quel enthousiasme il provoque ! Et si vous pouviez retarder votre départ d\'une heure\...
+
+--- Je vous suis ! » répondit Jean.
+
+Le vieillard et lui se dirigèrent vers l\'église, où ils eurent quelque peine à trouver place.
+
+Les premières prières étaient dites, le prédicateur venait de monter en chaire.
+
+L\'abbé Joann était âgé de trente ans. Avec sa figure passionnée, son regard pénétrant, sa voix chaude et persuasive, il ressemblait à son frère, étant imberbe comme lui. En eux se retrouvaient les traits caractéristiques de leur mère. À le voir comme à l\'entendre, on comprenait l\'influence que l\'abbé Joann exerçait sur les foules, attirées par sa renommée. Porte-parole de la foi catholique et de la foi nationale, c\'était un apôtre, au véritable sens du mot, un enfant de cette forte race des missionnaires, capables de donner leur sang pour confesser leurs croyances.
+
+L\'abbé Joann commençait sa prédication. À tout ce qu\'il disait pour son Dieu, on sentait tout ce qu\'il voulait dire pour son pays. Ses allusions à l\'état actuel du Canada étaient faites pour passionner des auditeurs, chez lesquels le patriotisme n\'attendait qu\'une occasion pour se déclarer par des actes. Son geste, sa parole, son attitude, faisaient courir de sourds frémissements à travers cette modeste église de village, lorsqu\'il appelait les secours du ciel contre les spoliateurs des libertés publiques. On eût dit que sa voix vibrante sonnait comme un clairon, que son bras tendu agitait du haut de la chaire le drapeau de l\'indépendance.
+
+Jean, perdu dans l\'ombre, écoutait.
+
+Il lui semblait que c\'était lui qui parlait par la bouche de son frère. C\'est que les mêmes idées, les mêmes aspirations, se rencontraient dans ces deux êtres, si unis par le coeur. Tous deux luttaient pour leur pays, chacun à sa manière, l\'un par la parole, l\'autre par l\'action, l\'un et l\'autre également prêts aux derniers sacrifices.
+
+À cette époque, le clergé catholique possédait en Canada une influence considérable, au double point de vue social et intellectuel. On y regardait les prêtres comme des personnes sacrées. C\'était la lutte des vieilles croyances catholiques, implantées par l\'élément français dès l\'origine de la colonie, contre les dogmes protestants que les Anglais cherchaient à introduire chez toutes les classes. Les paroissiens se concentraient autour de leurs curés, véritables chefs de paroisse, et la politique, qui tendait à dégager les provinces canadiennes des mains anglo-saxonnes, n\'était pas étrangère à cette alliance du clergé et des fidèles.
+
+L\'abbé Joann, on le sait, appartenait à l\'ordre des Sulpiciens. Mais ce que le lecteur ignore peut-être, c\'est que cet ordre, possesseur d\'une partie des territoires dès le début de la conquête, en tire, actuellement encore, d\'importants revenus. Diverses servitudes, créées, principalement dans l\'île de Montréal, en vertu des droits seigneuriaux qui lui avaient été concédés par Richelieu[[\[4\]]{.MsoFootnoteReference8}](../Text/Section0004.xhtml#_ftn4032){#_ftnref4032 .pcalibre2 .pcalibre1}, s\'exercent toujours au profit de la congrégation. Il suit de là que les Sulpiciens forment une corporation aussi honorée que puissante au Canada, et que les prêtres, restés les plus riches propriétaires du pays, y sont par cela même les plus influents.
+
+Le sermon, on pourrait dire la harangue patriotique de l\'abbé Joann, dura trois quarts d\'heure environ. Elle enthousiasma ses auditeurs à ce point que, n\'eût été la sainteté du lieu, des acclamations répétées l\'eussent accueillie. La fibre nationale avait été profondément remuée dans cette assistance si patriote. Peut-être s\'étonnera-t-on que les autorités laissassent libre cours à ces prédications où la propagande réformiste se faisait sous le couvert de l\'Évangile ? Mais il eût été difficile d\'y saisir une provocation directe à l\'insurrection, et, d\'ailleurs, la chaire jouissait d\'une liberté à laquelle le gouvernement n\'aurait voulu toucher qu\'avec une extrême réserve.
+
+Le sermon fini, Jean se retira dans un coin de l\'église, tandis que s\'écoulait la foule. Voulait-il donc se faire reconnaître de l\'abbé Joann, lui serrer la main, échanger avec lui quelques paroles, avant de rejoindre ses compagnons à la ferme de Chipogan ? Oui, sans doute. Les deux frères ne s\'étaient pas vus depuis quelques mois, allant, chacun de son côté, pour accomplir la même oeuvre de dévouement national.
+
+Jean attendait ainsi derrière les premiers piliers de la nef, lorsqu\'un véhément tumulte éclata au dehors. C\'était des cris, des vociférations, des hurlements. On eût dit d\'une sorte de colère publique, qui se manifestait avec une extraordinaire violence. En même temps, de larges lueurs illuminaient l\'espace, et leur réverbération pénétrait jusqu\'à l\'intérieur de l\'église.
+
+Le flot des auditeurs sortit, et Jean, entraîné comme malgré lui, le suivit jusqu\'au milieu de la place.
+
+Que se passait-il donc ?
+
+Là, devant les ruines de la maison du traître, un grand feu venait d\'être allumé.
+
+Des hommes, auxquels se joignirent bientôt des enfants et des femmes, attisaient ce feu, en y jetant des brassées de bois mort.
+
+En même temps que les cris d\'horreur, ces mots de haine retentissaient dans l\'air :
+
+« Au feu, le traître ! Au feu, Simon Morgaz ! »
+
+Et alors, une sorte de mannequin, habillé de haillons, fut traîné vers les flammes.
+
+Jean comprit. La population de Chambly procédait, en effigie, à l\'exécution du misérable, comme à Londres, on traîne encore par les rues l\'image de Guy Fawkes, le criminel héros de la conspiration des Poudres.
+
+Aujourd\'hui, c\'était le 27 septembre, c\'était l\'anniversaire du jour où Walter Hodge et ses compagnons, François Clerc et Robert Farran étaient morts sur l\'échafaud.
+
+Saisi d\'horreur, Jean voulut fuir\... Il ne put s\'arracher du sol, où il semblait que ses pieds restaient irrésistiblement attachés. Là, il revoyait son père, accablé d\'injures, accablé de coups, souillé de la boue que lui jetait cette foule, en proie à un délire de haine. Et il lui semblait que tout cet opprobre retombait sur lui, Jean Morgaz.
+
+En ce moment, l\'abbé Joann parut. La foule s\'écarta pour lui livrer passage. Lui aussi, il avait compris le sens de cette manifestation populaire. Et, en cet instant, il reconnut son frère, dont la figure livide lui apparut dans un reflet des flammes, tandis que cent voix criaient avec cette date odieuse du 27 septembre, le nom infamant de Simon Morgaz !
+
+L\'abbé Joann ne fut pas maître de lui.
+
+Il étendit les bras, il s\'élança vers le bûcher, au moment où le mannequin allait être précipité au milieu de la fournaise.
+
+« Au nom du Dieu de miséricorde, s\'écria-t-il, pitié pour la mémoire de ce malheureux ! Dieu n\'a-t-il pas des pardons pour tous les crimes !
+
+--- Il n\'en a pas pour le crime de trahison envers la patrie, envers ceux qui ont combattu pour elle ! » répondit un des assistants.
+
+Et, en un instant, le feu eut dévoré, comme il le faisait à chaque anniversaire, l\'effigie de Simon Morgaz.
+
+Les clameurs redoublèrent et ne cessèrent qu\'au moment où les flammes s\'éteignirent.
+
+Dans l\'ombre, personne n\'avait pu voir que Jean et Joann s\'étaient rejoints, et que, là, tous deux, la main dans la main, ils baissaient la tête.
+
+Sans avoir prononcé une parole, ils quittèrent le théâtre de cette horrible scène, et s\'enfuirent de cette bourgade de Chambly, où ils ne devaient jamais revenir.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 9 -- Maison-close]{.pcalibre lang="X-NONE"}]{#_Toc342942148 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-9-maison-close .calibre171 .sigil_not_in_toc}
+
+À six lieues de Saint-Denis s\'élève le bourg de Saint-Charles, sur la rive nord du Richelieu, dans le comté de Saint-Hyacinthe, qui confine à celui de Montréal. C\'est en descendant le Richelieu, un des affluents les plus considérables du Saint-Laurent, que l\'on arrive à la petite ville de Sorel, où le Champlain avait relâché pendant sa dernière campagne de pêche.
+
+À cette époque, une maison isolée s\'élevait à quelques centaines de pas avant le coude qui détourne brusquement la grande rue de Saint-Charles, lorsqu\'elle s\'engage entre les premières maisons de la bourgade.
+
+Modeste et triste habitation. Rien qu\'un rez-de-chaussée, percé d\'une porte et de deux fenêtres, précédé d\'une petite cour, où foisonnent les mauvaises herbes. Le plus souvent, la porte est fermée, les fenêtres ne sont jamais ouvertes, même derrière les volets à panneaux pleins, qui sont repoussés contre elles. Si le jour pénètre à l\'intérieur, c\'est uniquement par deux autres fenêtres, pratiquées dans la façade opposée, et donnant sur un jardin. À vrai dire, ce jardin n\'est qu\'un carré, entouré de hauts murs festonnés de longues pariétaires, avec un puits à margelle, établi dans l\'un des angles. Là, sur une superficie d\'un cinquième d\'acre, poussent divers légumes. Là, végètent une douzaine d\'arbres à fruits, poiriers, noisetiers ou pommiers, abandonnés aux seuls soins de la nature. Une petite basse-cour, prise sur le jardin et contiguë à la maison, loge cinq à six poules, qui fournissent la quantité d\'oeufs nécessaires à la consommation quotidienne.
+
+À l\'intérieur de cette maison, il n\'y a que trois chambres, garnies de quelques meubles -- le strict nécessaire.
+
+L\'une de ces chambres, à gauche en entrant, sert de cuisine ; les deux autres, à droite, servent de chambres à coucher. L\'étroit couloir qui les sépare, établit une communication entre la cour et le jardin.
+
+Oui ! Cette maison était humble et misérable ; mais on sentait que cela était voulu, qu\'il y avait là parti pris de vivre dans ces conditions de misère et d\'humilité. Les habitants de Saint-Charles ne s\'y trompaient point. En effet, s\'il arrivait que quelque mendiant frappât à la porte de Maison-Close -- c\'est ainsi qu\'on la désignait dans la bourgade -- jamais il ne s\'en allait sans avoir été assisté d\'une légère aumône. Maison-Close aurait pu s\'appeler Maison-Charitable, car la charité s\'y faisait à toute heure.
+
+Qui demeurait là ? Une femme, toujours seule, toujours habillée de noir, toujours recouverte d\'un long voile de veuve. Elle ne quittait que rarement sa maison -- une ou deux fois la semaine, lorsque quelque indispensable acquisition l\'obligeait à sortir, ou, le dimanche, pour se rendre à l\'office. Quand il s\'agissait d\'un achat, elle attendait que la nuit ou tout au moins le soir fût venu, se glissait à travers les rues sombres, longeait les maisons, entrait rapidement dans une boutique, parlait d\'une voix sourde, en peu de mots, payait sans marchander, revenait, la tête basse, les yeux à terre, comme une pauvre créature qui aurait eu honte de se laisser voir. Allait-elle à l\'église, c\'était dès l\'aube, à la première messe. Elle se tenait à l\'écart, dans un coin obscur, agenouillée, pour ainsi dire rentrée en elle-même. Sous les plis de son voile, son immobilité était effrayante. On aurait pu la croire morte, si de douloureux soupirs ne se fussent échappés de sa poitrine.
+
+Que cette femme ne fût pas dans la misère, soit ! Mais c\'était assurément un être bien misérable. Une ou deux fois, quelques bonnes âmes avaient voulu l\'assister, lui offrir leurs services, s\'intéresser à elle, lui faire entendre des paroles de sympathie\... Et alors, se serrant plus étroitement dans son vêtement de deuil, elle s\'était vivement reculée, comme si elle eut été un objet d\'horreur.
+
+Les habitants de Saint-Charles ne connaissaient donc point cette étrangère -- on pourrait dire cette recluse. Douze années avant, elle était arrivée dans la bourgade, afin d\'occuper cette maison, achetée pour son compte, à très bas prix, car la commune, à laquelle elle appartenait, voulait depuis longtemps s\'en défaire et ne trouvait pas acquéreur.
+
+Un jour, on apprit que la nouvelle propriétaire était arrivée la nuit, dans sa demeure, où nul ne l\'avait vue entrer. Qui l\'avait aidée à transporter son pauvre mobilier ? On ne savait. D\'ailleurs, elle ne prit point de servante pour l\'aider à son ménage. Jamais, non plus, personne ne pénétrait chez elle. Telle elle vivait alors, telle elle avait vécu depuis son apparition à Saint-Charles, dans une sorte d\'isolement cénobitique. Les murs de Maison-Close étaient ceux d\'un cloître, et nul ne les avait franchis jusqu\'alors.
+
+Du reste, les habitants de la bourgade ne cherchèrent point à pénétrer dans la vie de cette femme, à dévoiler les secrets de son existence ? Durant les premiers jours de son installation, ils s\'en étonnèrent un peu. Quelques commérages se firent sur la propriétaire de Maison-Close. On supposa ceci et cela. Bientôt, on ne s\'occupa plus d\'elle. Dans la limite de ses moyens, elle se montrait charitable envers les pauvres du pays -- et cela lui valut l\'estime de tous.
+
+Grande, déjà voûtée plus par la douleur que par l\'âge, l\'étrangère pouvait avoir actuellement une cinquantaine d\'années.
+
+Sous le voile qui l\'enveloppait jusqu\'à mi-corps, se cachait un visage qui avait dû être beau, un front élevé, de grands yeux noirs. Ses cheveux étaient tout blancs ; son regard semblait imprégné de ces larmes ineffaçables qui l\'avaient si longtemps noyé. À présent, le caractère de cette physionomie, autrefois douce et souriante, était une énergie sombre, une implacable volonté.
+
+Cependant, si la curiosité publique se fût plus étroitement appliquée à surveiller Maison-Close, on aurait acquis la preuve qu\'elle n\'était pas absolument fermée à tout visiteur. Trois ou quatre fois par an, invariablement la nuit, la porte s\'ouvrait tantôt devant un, tantôt devant deux étrangers, qui ne négligeaient aucune précaution pour arriver et repartir sans avoir été vus. Restaient-ils quelques jours dans la maison, ou seulement quelques heures ? Personne n\'eût été à même de le dire. En tout cas, lorsqu\'ils la quittaient, c\'était avant l\'aube. Nul ne pouvait se douter que cette femme eût encore quelques relations avec le dehors.
+
+C\'est précisément ce qui advint vers onze heures, dans la nuit du 30 septembre 1837. La grande route, après avoir traversé le comté de Saint-Hyacinthe, de l\'ouest à l\'est, passe à Saint-Charles et se poursuit au delà. Elle était déserte alors. Une profonde obscurité baignait la bourgade endormie. Aucun habitant ne put voir deux hommes redescendre cette route, se glisser jusqu\'au mur de Maison-Close, ouvrir la barrière de la petite cour, qui n\'était fermée que par un loquet, et frapper à la porte, d\'une façon qui devait être un signal de reconnaissance.
+
+La porte s\'ouvrit et se referma aussitôt. Les deux visiteurs entrèrent dans la première chambre de droite, éclairée par une veilleuse, dont la faible lumière ne pouvait filtrer à l\'extérieur.
+
+La femme ne laissa paraître aucune surprise à l\'arrivée de ces deux hommes.
+
+Ils la pressèrent dans leurs bras, ils l\'embrassèrent au front avec une affection toute filiale.
+
+C\'étaient Jean et Joann. Cette femme était leur mère, Bridget Morgaz. Douze années avant, après l\'expulsion de Simon Morgaz, chassé par la population de Chambly, personne n\'avait mis en doute que cette misérable famille eût quitté le Canada pour s\'expatrier soit dans quelque province de l\'Amérique du Nord ou du Sud, soit même dans une lointaine contrée de l\'Europe. La somme touchée par le traître devait lui permettre de vivre avec une certaine aisance, partout où il lui conviendrait de se retirer. Et alors, en prenant un faux nom, il échapperait au mépris qui l\'eût poursuivi dans le monde entier.
+
+On ne l\'ignore pas, les choses ne s\'étaient point passées ainsi. Un soir, Simon Morgaz s\'était fait justice, et nul ne se serait douté que son corps reposait en quelque endroit perdu sur la rive septentrionale du lac Ontario. Bridget Morgaz, Jean et Joann avaient compris toute l\'horreur de leur situation. Si la mère et les fils étaient innocents du crime de l\'époux et du père, les préjugés sont tels qu\'ils n\'eussent trouvé nulle part ni pitié ni pardon. En Canada, aussi bien qu\'en n\'importe quel point du monde, leur nom serait l\'objet d\'une réprobation unanime. Ils résolurent de renoncer à ce nom, sans même songer à en prendre un autre. Qu\'en avaient-ils besoin, ces misérables, pour lesquels la vie ne pouvait plus avoir que des hontes ! Pourtant, la mère et les fils ne s\'expatrièrent pas immédiatement. Avant de quitter le Canada, il leur restait une tâche à remplir, et cette tâche, dussent-ils y sacrifier leur vie, ils résolurent de l\'accomplir tous les trois. Ce qu\'ils voulaient, c\'était réparer le mal que Simon Morgaz avait fait à son pays.
+
+Sans la trahison provoquée par l\'odieux provocateur Rip, le complot de 1825 aurait eu grandes chances de réussir. Après l\'enlèvement du gouverneur général et des chefs de l\'armée anglaise, les troupes n\'auraient pu résister à la population franco-canadienne, qui se serait levée en masse. Mais un acte infâme avait livré le secret de la conspiration, et le Canada était resté sous la main des oppresseurs.
+
+Eh bien, Jean et Joann reprendraient l\'oeuvre interrompue par la trahison de leur père. Bridget, dont l\'énergie fit face à cette effroyable situation, leur montra que là devait être le seul but de leur existence. Ils le comprirent, ces deux frères, qui n\'avaient que dix-sept et dix-huit ans à cette époque, et ils se consacrèrent tout entiers à ce travail de réparation.
+
+Bridget Morgaz -- décidée à vivre du peu qui lui appartenait en propre -- ne voulut rien garder de l\'argent trouvé dans le portefeuille du suicidé. Cet argent, il ne pouvait, il ne devait être employé qu\'aux besoins de la cause nationale. Un dépôt secret le mit aux mains du notaire Nick, de Montréal, dans les conditions que l\'on sait. Une partie en fut gardée par Jean pour être distribuée directement aux réformistes. C\'est ainsi qu\'en 1831 et en 1835, les comités avaient reçu les sommes nécessaires à l\'achat d\'armes et de munitions. En 1837, le solde de ce dépôt, considérable encore, venait d\'être adressé au comité de la villa Montcalm et confié à M. De Vaudreuil. C\'était tout ce qui restait du prix de la trahison.
+
+Cependant, en cette maison de Saint-Charles où s\'était retirée Bridget, ses fils venaient la voir secrètement, lorsque cela leur était possible. Depuis quelques années déjà, chacun d\'eux avait suivi une voie différente pour arriver au même but.
+
+Joann, l\'aîné, s\'était dit que tous les bonheurs terrestres lui étaient interdits désormais.
+
+Sous l\'influence d\'idées religieuses, développées par l\'amertume de sa situation, il avait voulu être prêtre, mais prêtre militant. Il était entré dans la congrégation des Sulpiciens, avec l\'intention de soutenir par la parole les imprescriptibles droits de son pays. Une éloquence naturelle, surexcitée par le plus ardent patriotisme, attirait à lui les populations des bourgades et des campagnes. En ces derniers temps, son renom n\'avait fait que grandir, et il était alors dans tout son éclat.
+
+Jean, lui, s\'était jeté dans le mouvement réformiste, non plus par la parole, mais par les actes.
+
+Bien que la rébellion n\'eût pas mieux abouti en 1831 qu\'en 1835, sa réputation n\'en avait pas été amoindrie. Dans les masses, on le considérait comme le chef mystérieux des Fils de la liberté. Il n\'apparaissait qu\'à l\'heure où il fallait donner de sa personne, et disparaissait ensuite pour reprendre son oeuvre. On sait à quelle haute place il était arrivé dans le parti de l\'opposition libérale. Il semblait que la cause de l\'indépendance fût dans les mains d\'un seul homme, ce Jean-Sans-Nom, ainsi qu\'il s\'appelait lui-même, et c\'est de lui seul que les patriotes attendaient le signal d\'une nouvelle insurrection.
+
+L\'heure était proche. Toutefois, avant de se jeter dans cette tentative, Jean et Joann, que le hasard venait de réunir à Chambly, avaient voulu venir à Maison-Close, afin de revoir leur mère -- pour la dernière fois peut-être.
+
+Et maintenant, ils étaient là, près d\'elle, assis à ses côtés. Ils lui tenaient les mains, ils lui parlaient à voix basse. Jean et Joann disaient où en étaient les choses. La lutte serait terrible, comme doit l\'être toute lutte suprême. Bridget, pénétrée par les sentiments qui débordaient de leur coeur, se laissait aller à l\'espoir que le crime du père serait enfin réparé par ses fils. Alors elle prit la parole.
+
+« Mon Jean, mon Joann, dit-elle, j\'ai besoin de partager vos espérances, de croire au succès\...
+
+--- Oui, mère, il faut y croire, répondit Jean. Avant peu de jours, le mouvement aura commencé\...
+
+--- Et que Dieu nous donne le triomphe qui est dû aux causes saintes ! ajouta Joann.
+
+--- Que Dieu nous vienne en aide ! répondit Bridget, et peut-être aurai-je enfin le droit de prier pour\... »
+
+Jusqu\'alors, jamais, non, jamais ! Une prière n\'avait pu s\'échapper des lèvres de cette malheureuse femme pour l\'âme de celui qui avait été son mari !
+
+« Ma mère, dit Joann, ma mère\...
+
+--- Et toi, mon fils, répondit Bridget, as-tu donc prié pour ton père, toi, prêtre du Dieu qui pardonne ? »
+
+Joann baissa la tête sans répondre.
+
+Bridget reprit :
+
+« Mes fils, jusqu\'ici, vous avez tous les deux fait votre devoir ; mais, ne l\'oubliez pas, en vous dévouant, vous n\'avez fait que votre devoir. Et même, si notre pays vous doit un jour son indépendance, le nom que nous portions autrefois, ce nom de Morgaz\...
+
+--- Ne doit plus exister, ma mère ! répondit Jean. Il n\'y a pas de réhabilitation possible pour lui ! On ne peut pas plus lui rendre l\'honneur qu\'on ne peut rendre la vie aux patriotes que la trahison de notre père a conduits à l\'échafaud ! Ce que Joann et moi nous faisons, ce n\'est point pour que l\'infamie, attachée à notre nom, disparaisse ! Cela, c\'est impossible ! Ce n\'est pas un marché de ce genre que nous avons conclu ! Nos efforts ne tendent qu\'à réparer le mal fait à notre pays, non le mal fait à nous-mêmes !
+
+N\'est-ce pas, Joann ?
+
+--- Oui, répondit le jeune prêtre. Si Dieu peut pardonner, je sais que cela est interdit aux hommes, et, tant que l\'honneur restera une des lois sociales, notre nom sera de ceux qui sont voués à la réprobation publique !
+
+--- Ainsi, on ne pourra jamais oublier ? dit Bridget, qui baisait ses deux fils au front, comme si elle eût voulu en effacer le stigmate indélébile.
+
+--- Oublier ! s\'écria Jean\... Retourne donc à Chambly, ma mère, et tu verras si l\'oubli\...
+
+--- Jean, dit vivement Joann, tais-toi !
+
+--- Non, Joann ! Il faut que notre mère le sache ! Elle a assez d\'énergie pour tout entendre, et je ne lui laisserai pas l\'espoir d\'une réhabilitation qui est impossible ! »
+
+Et Jean, à voix basse, à mots entrecoupés, fit le récit de ce qui avait eu lieu, quelques jours avant, dans cette bourgade de Chambly, berceau de la famille Morgaz, et devant les ruines de la maison paternelle.
+
+Bridget écoutait, sans qu\'une larme jaillit de ses yeux. Elle ne pouvait même plus pleurer.
+
+Mais était-il donc vrai qu\'une pareille situation fût sans issue ? Était-il donc possible que le souvenir d\'une trahison fût inoubliable, et que la responsabilité du crime retombât sur des innocents ? Était-il donc écrit, dans la conscience humaine, que, cette tache imprimée au nom d\'une famille, rien ne pourrait l\'effacer ?
+
+Pendant quelques instants, aucune parole ne fut échangée entre la mère et les deux fils. Ils ne se regardaient pas. Leurs mains s\'étaient disjointes.
+
+Ils souffraient affreusement. Partout ailleurs, non moins qu\'à Chambly, ils seraient des parias, des « outlaws » que la société repousse, qu\'elle met, pour ainsi dire, en dehors de l\'humanité.
+
+Vers trois heures après minuit, Jean et Joann songèrent à quitter leur mère. Ils voulaient partir sans risquer d\'être vus. Leur intention était de se séparer au sortir de la bourgade. Il importait qu\'on ne les aperçut pas ensemble sur la route par laquelle ils s\'en iraient à travers le comté. Personne ne devait savoir que, cette nuit-là, la porte de Maison-Close s\'était ouverte devant les seuls visiteurs qui l\'eussent jamais franchie.
+
+Les deux frères s\'étaient levés. Au moment d\'une séparation qui pouvait être éternelle, ils sentaient combien le lien de famille les rattachait les uns aux autres. Heureusement, Bridget ignorait que la tête de Jean fût mise à prix. Si Joann ne l\'ignorait pas, cette terrible nouvelle n\'avait point encore pénétré, du moins, dans la solitude de Maison-Close. Jean n\'en voulut rien dire à sa mère. À quoi bon lui ajouter ce surcroît de douleurs ? Et, d\'ailleurs, Bridget avait-elle besoin de le savoir pour craindre de ne plus jamais revoir son fils ?
+
+L\'instant de se séparer était venu.
+
+« Où vas-tu, Joann ? demanda Bridget.
+
+--- Dans les paroisses du sud, répondit le jeune prêtre. Là, j\'attendrai que le moment arrive de rejoindre mon frère, lorsqu\'il se sera mis à la tête des patriotes canadiens.
+
+--- Et toi, Jean ?
+
+--- Je me rends à la ferme de Chipogan, dans le comté de Laprairie, répondit Jean.
+
+C\'est là que je dois retrouver mes compagnons et prendre nos dernières mesures\... Au milieu de ces joies de famille qui nous sont refusées, ma mère ! Ces braves gens m\'ont accueilli comme un fils ! Ils donneraient leur vie pour la mienne ! Et, pourtant, s\'ils apprenaient qui je suis, quel nom je porte ! Ah ! Misérables que nous sommes, dont le contact est une souillure ! Mais ils ne sauront pas\... Ni eux\... Ni personne ! »
+
+Jean était retombé sur une chaise, la tête dans ses mains, écrasé sous un poids qu\'il sentait plus pesant chaque jour.
+
+« Relève-toi ! Frère, dit Joann. Ceci, c\'est l\'expiation ! Sois assez fort pour souffrir ! Relève-toi et partons !
+
+--- Où vous reverrai-je, mes fils ? demanda Bridget.
+
+--- Ce ne sera plus ici, ma mère, répondit Jean. Si nous triomphons, nous quitterons tous trois ce pays\... Nous irons loin\... Là où personne ne pourra nous reconnaître ! Si nous rendons son indépendance au Canada, que jamais il n\'apprenne qu\'il la doit aux fils d\'un Simon Morgaz ! Non ! Jamais !
+
+--- Et si tout est perdu ? reprit Bridget.
+
+--- Alors, ma mère, nous ne nous reverrons ni dans ce pays ni dans aucun autre. Nous serons morts ! »
+
+Les deux frères se jetèrent une dernière fois dans les bras de Bridget. La porte s\'ouvrit et se referma.
+
+Jean et Joann firent une centaine de pas sur la route ; puis, ils se séparèrent, après avoir donné un dernier regard à Maison-Close, où la mère priait pour ses fils.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 10 -- La ferme de Chipogan]{.pcalibre lang="X-NONE"}]{#_Toc342942149 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-10-la-ferme-de-chipogan .calibre171 .sigil_not_in_toc}
+
+La ferme de Chipogan, située à sept lieues du bourg de Laprairie, dans le comté de ce nom, occupait un léger renflement du sol sur la rive droite d\'un petit cours d\'eau, tributaire du Saint-Laurent. M. De Vaudreuil possédait là, sur une superficie de quatre à cinq cents acres, une assez belle propriété de rapport, régie par le fermier Thomas Harcher.
+
+En avant de la ferme, du côté du rio, s\'étendaient de vastes champs, un damier de prairies verdoyantes, entourées de ces haies à claire-voie, connues dans le Royaume-Uni sous le nom de « fewces ». C\'était le triomphe du dessin régulier -- saxon ou américain -- dans toute sa rigueur géométrique. Des carrés, puis des carrés de barrières encadraient ces belles cultures, qui prospéraient, grâce aux riches éléments d\'un humus noirâtre, dont la couche, épaisse de trois à quatre pieds, repose le plus généralement sur un lit de glaise. Telle est à peu près la composition du sol canadien jusqu\'aux premières rampes des Laurentides.
+
+Entre ces carrés, cultivés avec un soin minutieux, poussaient diverses sortes de ces céréales que le cultivateur récolte dans les campagnes de la moyenne Europe, le blé, le maïs, le riz, le chanvre, le houblon, le tabac, etc. Là foisonnait aussi ce riz sauvage, improprement appelé « folle avoine », qui se multipliait dans les champs à demi noyés sur les bords du petit cours d\'eau, et dont le grain bouilli donne un excellent potage.
+
+Des pâturages, fournis d\'une herbe grasse, se développaient en arrière de la ferme jusqu\'à la lisière de hautes futaies, massées sur une légère ondulation du sol, et qui s\'en allaient à perte de vue. Ces pâtures suffisaient amplement à l\'alimentation des animaux domestiques que nourrissait la ferme de Chipogan, et dont Thomas Harcher eût pu prendre à cheptel une quantité plus considérable encore, tels que taureaux, vaches, boeufs, moutons, porcs, sans compter ces chevaux de la vigoureuse race canadienne, si recherchée par les éleveurs américains.
+
+Aux alentours de la ferme, les forêts n\'étaient pas de moindre importance. Elles couvraient autrefois tous les territoires limitrophes du Saint-Laurent, à partir de son estuaire jusqu\'à la vaste région des lacs. Mais, depuis de longues années, que d\'éclaircies y ont été pratiquées par le bras de l\'homme ! Que d\'arbres superbes, dont la cime se balance parfois à cent cinquante pieds dans les airs, tombent encore sous ces milliers de haches, troublant le silence des bois immenses où pullulent les mésanges, les piverts, les aodes, les rossignols, les alouettes, les oiseaux de paradis aux plumes étincelantes, et aussi les charmants canaris, qui sont muets dans les provinces canadiennes ! Les « lumbermen », les bûcherons, font là une fructueuse mais regrettable besogne, en jetant bas chênes, érables, frênes, châtaigniers, trembles, bouleaux, ormes, noyers, charmes, pins et sapins, lesquels, sciés ou équarris, vont former ces chapelets de cages qui descendent le cours du fleuve. Si, vers la fin du dix-huitième siècle, l\'un des plus fameux héros de Cooper, Nathaniel Bumpoo, dit OEil-de-Faucon, Longue-Carabine ou Bas-de-Cuir, gémissait déjà sur ces massacres d\'arbres, ne dirait-il pas de ces impitoyables dévastateurs ce qu\'on dit des fermiers qui épuisent la fécondité terrestre par des pratiques vicieuses : ils ont assassiné le sol !
+
+Il convient de faire observer, cependant, que ce reproche n\'aurait pu s\'appliquer au gérant de la ferme de Chipogan. Thomas Harcher était trop habile de son métier, il était servi par un personnel trop intelligent, il prenait avec trop d\'honnêteté les intérêts de son maître pour mériter jamais cette qualification d\'assassin.
+
+Sa ferme passait à juste titre pour un modèle d\'exploitation agronomique, à une époque où les vieilles routines faisaient encore loi, comme si l\'agriculture canadienne eut été de deux cents ans en arrière.
+
+La ferme de Chipogan était donc l\'une des mieux aménagées du district de Montréal. Les méthodes d\'assolement empêchaient les terres de s\'y appauvrir. On ne se contentait pas de les y laisser se reposer à l\'état de jachères. On y variait les cultures -- ce qui donnait des résultats excellents. Quant aux arbres fruitiers, dont un large potager renfermait ces espèces diverses qui prospèrent en Europe, ils étaient taillés, émondés, soignés avec entente. Tous y donnaient de beaux fruits, à l\'exception peut-être de l\'abricotier et du pêcher, qui réussissent mieux dans le sud de la province de l\'Ontario que dans l\'est de la province de Québec. Mais les autres faisaient honneur au fermier, plus particulièrement ces pommiers qui produisent ce genre de pommes à pulpe rouge et transparente, connues sous le nom de « fameuses ». Quant aux légumes, aux choux rouges, aux citrouilles, aux melons, aux patates, aux bleuets -- nom de ces myrtilles des bois, dont les graines noirâtres emplissent les assiettes de dessert -- on en récoltait de quoi alimenter deux fois par semaine le marché de Laprairie. En somme, avec les centaines de minots de blé et autres céréales, récoltés à Chipogan, le rendement des fruits et légumes, l\'exploitation de quelques acres de forêts, cette ferme de Chipogan assurait à M. De Vaudreuil une part importante de ses revenus. Et, grâce aux soins de Thomas Harcher et de sa famille, il n\'était pas à craindre que ces terres, soumises à un surmenage agricole, finissent par s\'épuiser et se changer en arides savanes envahies par le fouillis des broussailles.
+
+Du reste, le climat canadien est favorable à la culture.
+
+
+Les bâtiments de la ferme étaient agglomérés dans une enceinte de palissades, hautes d\'une douzaine de pieds. Une seule porte, solidement encastrée dans ses montants de pierre, y donnait accès. Excellente précaution au temps peu reculé où les attaques des indigènes étaient à craindre. Maintenant les Indiens vivent en bonne intelligence avec la population des campagnes. Et même, à deux lieues dans l\'est, au village de Walhatta, prospérait la tribu huronne des Mahogannis, qui rendaient parfois visite à Thomas Harcher, afin d\'échanger les produits de leurs chasses contre les produits de la ferme.
+
+Le principal bâtiment se composait d\'une large construction à deux étages, un quadrilatère régulier, comprenant le nombre de chambres nécessaires au logement de la famille Harcher. Une vaste salle occupait la plus grande partie du rez-de-chaussée, entre la cuisine et l\'office d\'un côté, et, de l\'autre, l\'appartement spécialement réservé au fermier, à sa femme et aux plus jeunes de ses enfants.
+
+En retour, sur la cour ménagée devant l\'habitation, et, par derrière, sur le jardin potager, les communs faisaient équerre en s\'appuyant aux palissades de l\'enceinte.
+
+Là s\'élevaient les écuries, les étables, les remises, les magasins. Puis, c\'étaient les basses-cours, où pullulaient ces lapins d\'Amérique, dont la peau, divisée en lanières tissées, sert à la confection d\'une étoffe extrêmement chaude, et ces poules de prairie, ces phasianelles, qui se multiplient plus abondamment à l\'état domestique qu\'à l\'état sauvage.
+
+La grande salle du rez-de-chaussée était simplement, mais confortablement garnie de meubles de fabrication américaine. C\'est là que la famille déjeunait, dînait, passait les soirées. Agréable lieu de réunion pour les Harcher de tout âge, qui aimaient à se retrouver ensemble, lorsque les occupations quotidiennes avaient pris fin. Aussi on ne s\'étonnera pas qu\'une bibliothèque de livres usuels y tint la première place, et que la seconde fût occupée par un piano, sur lequel, chaque dimanche, filles ou garçons jouaient avec entrain les valses et quadrilles français qu\'ils dansaient tour à tour.
+
+L\'exploitation de cette terre exigeait évidemment un assez nombreux personnel. Mais Thomas Harcher l\'avait trouvé dans sa propre famille. Et, de fait, à la ferme de Chipogan, il n\'y avait pas un seul serviteur à gages. Thomas Harcher avait cinquante ans à cette époque. Acadien d\'origine française, il descendait de ces hardis pêcheurs qui colonisèrent la Nouvelle-Écosse un siècle avant. C\'était le type parfait du cultivateur canadien, de celui qui s\'appelle, non le paysan mais « l\'habitant » dans les campagnes du Nord-Amérique. De haute taille, les épaules larges, le torse puissant, les membres vigoureux, la tête forte, les cheveux à peine grisonnants, le regard vif, les dents bien plantées, la bouche grande comme il convient au travailleur dont la besogne exige une copieuse nourriture, enfin une aimable et franche physionomie, qui lui valait de solides amitiés dans les paroisses voisines, tel se montrait le fermier de Chipogan.
+
+En même temps, bon patriote, implacable ennemi des Anglo-Saxons, toujours prêt à faire son devoir et à payer de sa personne.
+
+Thomas Harcher eût vainement cherché dans la vallée du Saint-Laurent une meilleure compagne que sa femme Catherine. Elle était âgée de quarante-cinq ans, forte comme son mari, comme lui restée jeune de corps et d\'esprit, peut-être un peu rude de visage et d\'allure, mais bonne dans sa rudesse, ayant du courage à la besogne, enfin « la mère » comme il était « le père » dans toute l\'acception du mot. À eux deux, un beau couple, et de si vaillante santé, qu\'ils promettaient de compter un jour parmi les nombreux centenaires, dont la longévité fait honneur au climat canadien.
+
+Peut-être aurait-on pu faire un reproche à Catherine Harcher ; mais, ce reproche, les femmes du pays l\'eussent toutes mérité, pour peu que l\'on ajoutât foi aux commentaires de l\'opinion publique. En effet, si les Canadiennes sont bonnes ménagères, c\'est à la condition que leurs maris fassent le ménage, dressent le lit, mettent la table, plument les poulets, traient les vaches, battent le beurre, pèlent les patates, allument le feu, lavent la vaisselle, habillent les enfants, balaient les chambres, frottent les meubles, coulent la lessive, etc. Cependant Catherine ne poussait pas à l\'extrême cet esprit de domination, qui rend l\'époux esclave de sa femme dans la plupart des habitations de la colonie. Non ! Pour être juste, il y a lieu de reconnaître qu\'elle prenait sa part du travail quotidien. Néanmoins, Thomas Harcher se soumettait volontiers à ses volontés comme à ses caprices. Aussi, quelle belle famille lui avait donnée Catherine, depuis Pierre, patron du Champlain, son premier né, jusqu\'au dernier bébé, âgé de quelques semaines seulement, et qu\'on s\'apprêtait à baptiser en ce jour.
+
+En Canada, on le sait, la fécondité des mariages est véritablement extraordinaire.
+
+Les familles de douze et quinze enfants y sont communes. Celles où l\'on compte vingt enfants n\'y sont point rares. Au-delà de vingt-cinq, on en cite encore. Ce ne sont plus des familles, ce sont des tribus, qui se développent sous l\'influence de moeurs patriarcales.
+
+Si Ismaël Busch, le vieux pionnier de Fenimore Cooper, l\'un des personnages du roman de la Prairie, pouvait montrer avec orgueil les sept fils, sans compter les filles, issus de son mariage avec la robuste Esther, de quel sentiment de supériorité l\'eût accablé Thomas Harcher, père de vingt-six enfants, vivants et bien vivants, à la ferme de Chipogan !
+
+Quinze fils et onze filles, de tout âge, depuis trois semaines jusqu\'à trente ans. Sur les quinze fils, quatre mariés. Sur les onze filles, deux en puissance de maris. Et, de ces mariages, dix-sept petits-fils -- ce qui, en y ajoutant le père et la mère, faisait un total de cinquante-deux membres, en ligne directe, de la famille Harcher.
+
+Les cinq premiers nés, on les connaît. C\'étaient ceux qui composaient l\'équipage du Champlain, les dévoués compagnons de Jean. Inutile de perdre son temps à énumérer les noms des autres enfants, ou à préciser d\'un trait l\'originalité de leur caractère. Garçons, filles, beaux-frères et belles-filles, ne quittaient jamais la ferme. Ils y travaillaient, sous la direction du chef. Les uns étaient employés aux champs, et l\'ouvrage ne leur manquait guère. Les autres, occupés à l\'exploitation des bois, faisaient le métier de « lumbermen », et ils avaient de la besogne. Deux ou trois des plus âgés chassaient dans les forêts voisines de Chipogan, et n\'étaient point gênés de fournir le gibier nécessaire à l\'immense table de famille.
+
+Sur ces territoires, en effet, abondent toujours les orignaux, les caribous -- sortes de rennes de grande taille -- les bisons, les daims, les chevreuils, les élans, sans parler de la diversité du petit gibier de poil ou de plume, plongeons, oies sauvages, canards, bécasses, bécassines, perdrix, cailles et pluviers.
+
+Quant à Pierre Harcher et à ses frères, Rémy, Michel, Tony et Jacques, à l\'époque où le froid les obligeait d\'abandonner les eaux du Saint-Laurent, ils venaient hiverner à la ferme et se faisaient chasseurs de fourrures. On les citait parmi les plus intrépides squatters, les plus infatigables coureurs des bois, et ils approvisionnaient de peaux plus ou moins précieuses les marchés de Montréal et de Québec. En ce temps, les ours noirs, les lynx, les chats sauvages, les martres, les carcajous, les visons, les renards, les castors, les hermines, les loutres, les rats musqués, n\'avaient pas encore émigré vers les contrées du nord, et c\'était un bon commerce celui de ces pelleteries, alors qu\'il n\'était point nécessaire d\'aller chercher fortune jusque sur les lointaines rives de la baie d\'Hudson.
+
+On le comprend, pour loger cette famille de parents, d\'enfants et de petits-enfants, ce n\'eût pas été trop d\'une caserne. Aussi, était-ce bien une véritable caserne, cette bâtisse qui dominait de ses deux étages les communs de la ferme de Chipogan. En outre, il avait fallu garder quelques chambres aux hôtes que Thomas Harcher recevait passagèrement, des amis du comté, des fermiers du voisinage, des « voyageurs », c\'est-à-dire ces mariniers qui dirigent les trains de bois par les affluents pour les conduire au grand fleuve. Enfin, il y avait l\'appartement réservé à M. De Vaudreuil et à sa fille, lorsqu\'ils venaient rendre visite à la famille du fermier.
+
+Et, précisément, M. et Mlle de Vaudreuil venaient d\'arriver ce jour-là -- 5 octobre. Ce n\'était pas seulement des rapports de maître à tenancier qui unissaient M. De Vaudreuil à Thomas Harcher et à tous les siens, c\'était une affection réciproque, amitié d\'une part, dévouement de l\'autre, que rien n\'avait jamais démentis depuis tant d\'années. Et combien, surtout, ils se sentaient liés par la communauté de leur patriotisme ! Le fermier, comme son maître, était dévoué corps et âme à la cause nationale.
+
+Maintenant la famille se trouvait au complet. Depuis trois jours, Pierre et ses frères, après avoir laissé le Champlain désarmé au quai de Laprairie, étaient venus prendre leurs quartiers d\'hiver à la ferme. Il n\'y manquait que le fils adoptif, et non le moins aimé des hôtes de Chipogan.
+
+Mais, dans la journée, on attendait Jean. Pour que Jean fît défaut à cette fête de famille, il aurait fallu qu\'il fût tombé entre les mains des agents de Rip, et la nouvelle de son arrestation serait déjà répandue dans le pays. C\'est que Jean avait à s\'acquitter d\'un devoir, auquel il tenait autant que Thomas Harcher.
+
+Le temps n\'était pas éloigné où le seigneur de la paroisse acceptait d\'être le parrain de tous les enfants de ses censitaires -- ce qui se chiffrait par quelques centaines de pupilles. M. De Vaudreuil, il est vrai, n\'en comptait encore que deux dans la descendance de son fermier. Cette fois, c\'était Clary qui devait être marraine de son vingt-sixième enfant, auquel Jean allait servir de parrain.
+
+Et la jeune fille était heureuse de ce lien qui les unirait l\'un à l\'autre pendant ces courts instants.
+
+Du reste, ce n\'était pas à propos d\'un baptême seulement que la ferme de Chipogan allait se mettre en fête.
+
+Lorsque Thomas Harcher avait reçu ses cinq fils :
+
+« Mes gars, leur avait-il dit, soyez les bienvenus, car vous arrivez au bon moment.
+
+--- Comme toujours, notre père ! Avait répondu Jacques.
+
+--- Non, mieux que toujours. Si, aujourd\'hui, nous sommes réunis pour le baptême du dernier bébé, demain, il y a la première communion de Clément et de Cécile, et, après-demain, la noce de votre soeur Rose avec Bernard Miquelon.
+
+--- On va bien dans la famille ! Avait répliqué Tony.
+
+--- Oui, pas mal, mes gars, s\'était écrié le fermier, et il n\'est pas dit que, l\'an prochain, je ne vous convoquerai pas pour quelque autre cérémonie de ce genre ! »
+
+Et Thomas Harcher riait de son rire sonore, tout empreint de bonne gaieté gauloise, pendant que Catherine embrassait les cinq vigoureux rejetons, qui étaient les premiers nés d\'elle.
+
+Le baptême devait se faire à trois heures après midi. Jean avait donc le temps d\'arriver à la ferme. Dès qu\'il serait là, on s\'en irait processionnellement à l\'église de la paroisse, distante d\'une demi-lieue. Thomas, sa femme, ses fils, ses filles, ses gendres, ses petits-enfants, avaient revêtu leurs plus beaux habits pour la circonstance, et, très vraisemblablement, ne les quitteraient pas de trois jours. Les filles avaient le corsage blanc et la jupe à couleurs éclatantes, avec les cheveux flottant sur les épaules.
+
+Les garçons, ayant dépouillé la veste de travail et le bonnet normand dont ils se coiffent d\'habitude, portaient le costume des dimanches, capot d\'étoffe noire, ceinture bariolée, souliers plissés en peau de boeuf du pays. La veille, après avoir pris le bateau du traversier pour passer le Saint-Laurent en face de Laprairie, M. et Mlle de Vaudreuil avaient trouvé Thomas Harcher, qui les attendait avec son buggie, attelé de deux excellents trotteurs.
+
+Pendant les trois lieues qui restaient à faire pour atteindre la ferme de Chipogan, M. De Vaudreuil s\'était empressé de prévenir son fermier qu\'il eût à se tenir sur ses gardes. La police ne pouvait ignorer que lui, de Vaudreuil, avait quitté la villa Montcalm, et il était possible qu\'il fût l\'objet d\'une surveillance spéciale.
+
+« Nous y aurons l\'oeil, notre maître ! Avait dit Thomas Harcher, chez qui l\'emploi de cette locution n\'avait rien de servile.
+
+--- Jusqu\'ici, aucune figure suspecte n\'a été vue aux alentours de Chipogan ?
+
+--- Non, pas un de ces canouaches[[\[5\]]{.MsoFootnoteReference8}](../Text/Section0004.xhtml#_ftn5032){#_ftnref5032 .pcalibre2 .pcalibre1}, sous votre respect !
+
+--- Et votre fils adoptif, avait demandé Clary de Vaudreuil, est-il arrivé à la ferme ? -- Pas encore, notre demoiselle, et cela me cause quelque inquiétude.
+
+--- Depuis qu\'il s\'est séparé de ses compagnons, à Laprairie, on n\'a pas eu de ses nouvelles ?
+
+--- Aucune ? »
+
+Or, depuis que M. et Mlle de Vaudreuil étaient installés dans les deux plus belles chambres de l\'habitation, cela va sans dire, Jean n\'avait pas encore paru.
+
+Cependant, tout était préparé pour la cérémonie du baptême, et si le parrain n\'arrivait pas cet après-midi, on ne saurait que faire.
+
+Aussi Pierre et deux ou trois autres s\'étaient-ils portés d\'une bonne lieue sur la route. Mais Jean n\'avait point été signalé, et midi venait de sonner à l\'horloge de Chipogan.
+
+Thomas et Catherine eurent alors un entretien au sujet de ce retard inexplicable.
+
+« Que ferons-nous, s\'il n\'arrive pas avant trois heures ? demanda le fermier.
+
+--- Nous attendrons, répondit simplement Catherine.
+
+--- Qu\'attendrons-nous ?
+
+--- Bien sûr, ce ne sera pas l\'arrivée d\'un vingt-septième enfant ! riposta la fermière.
+
+--- D\'autant plus, répliqua Thomas, que, sans qu\'on puisse nous en faire un reproche, il pourrait bien ne jamais venir !
+
+--- Plaisantez, monsieur Harcher, plaisantez !
+
+--- Je ne plaisante pas ! Mais, enfin, si Jean tardait trop, peut-être faudrait-il se passer de lui ?
+
+--- Se passer de lui ! s\'écria Catherine. Non point, et comme je tiens à ce qu\'il soit le parrain de l\'un de nos enfants, nous attendrons qu\'il se soit montré.
+
+--- Pourtant, si on ne le voit pas ? répondit Thomas, qui n\'entendait pas que le baptême fût indéfiniment reculé. Si quelque affaire l\'a mis dans l\'impossibilité de venir ?
+
+--- Pas de mauvais pronostics, Thomas, répondit Catherine, et un peu de patience, que diable ! Si l\'on ne baptise pas aujourd\'hui, on baptisera demain.
+
+--- Bon ! Demain, c\'est la première communion de Clément et de Cécile, le seizième et la dix-septième ! -- Eh bien, après-demain !
+
+--- Après-demain, c\'est la noce de notre fille Rose avec ce brave Bernard Miquelon !
+
+--- Assez là-dessus, Thomas ! On fera tout ensemble, s\'il le faut. Mais, quand un bébé est en passe d\'avoir un parrain comme Jean et une marraine comme mademoiselle Clary, il n\'y a pas à se presser pour en aller prendre d\'autres !
+
+--- Et le curé qui est prévenu ! fit encore observer Thomas à son intraitable moitié.
+
+--- J\'en fais mon affaire, répliqua Catherine. C\'est un excellent homme, notre curé ! D\'ailleurs, sa dîme ne lui échappera pas, et il ne voudra pas désobliger des clients comme nous ! »
+
+Et, de fait, dans toute la paroisse, il était peu de paroissiens qui eussent autant donné d\'occupations à leur curé que Thomas et Catherine ! Cependant, à mesure que les heures s\'écoulaient, l\'inquiétude devenait plus vive. Si la famille Harcher ignorait que son fils adoptif fût le jeune patriote, Jean-Sans-Nom, M. et Mlle de Vaudreuil, le sachant, pouvaient tout craindre pour lui.
+
+Aussi voulurent-ils apprendre de Pierre Harcher dans quelles circonstances Jean s\'était séparé de ses frères et de lui en quittant le Champlain.
+
+« C\'est au village de Caughnawaga que nous l\'avons débarqué, répondit Pierre.
+
+--- Quel jour ?
+
+--- Le 26 septembre, vers cinq heures du soir.
+
+--- Il y a donc neuf jours qu\'il s\'est séparé de vous ? fit observer M. De Vaudreuil.
+
+--- Oui, neuf jours.
+
+--- Et il n\'a pas dit ce qu\'il allait faire ?
+
+--- Son intention, répondit Pierre, était de visiter le comté de Chambly, où il n\'avait pas encore été pendant toute notre campagne de pêche.
+
+--- Oui\... C\'est une raison, dit M. De Vaudreuil, et pourtant, je regrette qu\'il se soit aventuré seul à travers un territoire, où les agents de la police doivent être sur pied.
+
+--- Je lui ai proposé de le faire accompagner par Jacques et par Tony, répondit Pierre, mais il a refusé. -- Et quelle est votre idée sur tout cela, Pierre ? demanda Mlle de Vaudreuil. -- Mon idée, c\'est que Jean avait formé depuis longtemps le projet d\'aller à Chambly, tout en se gardant d\'en rien dire. Or, comme il avait été convenu que nous débarquerions à Laprairie, et que nous reviendrions tous ensemble à la ferme, après avoir désarmé le Champlain, il ne nous en a informé qu\'au moment où nous étions devant Caughnawaga.
+
+--- Et, en vous quittant, il a bien pris l\'engagement d\'être ici pour le baptême ?
+
+--- Oui, notre demoiselle, répondit Pierre. Il sait qu\'il doit tenir le bébé avec vous et que, sans lui, d\'ailleurs, la famille Harcher ne serait pas au complet ! »
+
+Devant une promesse aussi formelle, il convenait d\'attendre patiemment. Toutefois, si la journée s\'achevait sans que Jean eût paru, les craintes ne seraient que trop justifiées. Pour qu\'un homme aussi déterminé que lui, ne vint pas au jour dit, c\'est que la police se serait emparée de sa personne\... Et alors, M. et Mlle de Vaudreuil ne le savaient que trop, il était perdu.
+
+En ce moment, s\'ouvrit la porte qui donnait accès dans la grande cour, et un sauvage parut sur le seuil.
+
+Un sauvage, -- c\'est ainsi, en Canada, qu\'on appelle encore les Indiens, même dans les actes officiels, comme on appelle « sauvagesses » leurs femmes qui portent le nom de « squaws » en langue iroquoise ou huronne. Ce sauvage était précisément un Huron, et de race pure -- ce qui se voyait à son visage imberbe, à ses pommettes saillantes et carrées, à ses petits yeux vifs. Sa haute taille, son regard assuré et pénétrant, la couleur de sa peau, la disposition de sa chevelure, en faisaient un type très reconnaissable de la race indigène de l\'Ouest de l\'Amérique.
+
+Si les Indiens ont conservé leurs moeurs d\'autrefois, les coutumes des tribus de l\'ancien temps, l\'habitude de s\'agglomérer dans leurs villages, une prétention tenace à retenir certains privilèges que les autorités ne leur contestent point d\'ailleurs, enfin une propension naturelle à vivre à part des « Visages Pâles », ils se sont quelque peu modernisés, cependant -- surtout sous le rapport du costume. Ce n\'est que dans certaines circonstances qu\'ils revêtent encore l\'habillement de guerre.
+
+Ce Huron, à peu près vêtu à la mode canadienne, appartenait à la tribu des Mahogannis, qui occupait une bourgade de quatorze à quinze cents feux au nord du comté. Cette tribu, on l\'a dit, n\'était pas sans avoir des rapports avec la ferme de Chipogan, où le fermier leur faisait toujours bon accueil.
+
+« Eh ! Que voulez-vous, Huron ? s\'écria-t-il, lorsque l\'Indien se fut avancé et lui eut donné solennellement la poignée de main traditionnelle.
+
+--- Thomas Harcher voudra sans doute répondre à la demande que je vais lui faire ? répliqua le Huron, avec cette voix gutturale qui est particulière à sa race.
+
+--- Et pourquoi pas, répondit le fermier, si ma réponse peut vous intéresser ? -- Mon frère m\'écoutera donc, et jugera ensuite ce qu\'il devra dire ! »
+
+Rien qu\'à cette forme de langage, dans laquelle le sauvage ne parlait qu\'à la troisième personne, à l\'air digne de son attitude pour demander, très probablement, un renseignement des plus simple, on eût reconnu le descendant des quatre grandes nations qui possédaient autrefois le territoire du Nord-Amérique.
+
+On les divisait alors en Algonquins, en Hurons, en Montagnais, en Iroquois, qui comprenaient ces tribus diverses : Mohawks, Oneidas, Onondagas, Tuscaroras, Delawares, Mohicans, que l\'on voit plus particulièrement figurer dans les récits de Fenimore Cooper. Actuellement, il ne reste que des débris épars de ces anciennes races.
+
+Après avoir pris un temps de silence, l\'Indien, donnant à son geste une ampleur caractéristique, reprit la parole.
+
+« Mon frère connaît, nous a-t-on dit, le notaire Nicolas Sagamore, de Montréal ?
+
+--- J\'ai cet honneur, Huron.
+
+--- Ne doit-il pas venir à la ferme de Chipogan ?
+
+--- Cela est vrai.
+
+--- Mon frère pourrait-il me faire savoir si Nicolas Sagamore est arrivé ?
+
+--- Pas encore, répondit Thomas Harcher. Nous ne l\'attendons que demain, pour dresser le contrat de mariage de ma fille Rose et de Bernard Miquelon.
+
+--- Je remercie mon frère de m\'avoir renseigné.
+
+--- Est-ce que vous aviez une communication importante à faire à maître Nick ?
+
+--- Très importante, répondit le Huron. Demain donc, les guerriers de la tribu quitteront notre village de Walhatta et viendront lui rendre visite.
+
+--- Vous serez les bien reçus à la ferme de Chipogan », répondit Thomas Harcher.
+
+Sur quoi, le Huron, tendant de nouveau la main au fermier, se retira gravement.
+
+Il n\'était pas parti depuis un quart d\'heure, que la porte de la cour se rouvrait.
+
+Cette fois, c\'était Jean, dont la présence fut accueillie par d\'unanimes cris de joie.
+
+Thomas et Catherine Harcher, leurs enfants, leurs petits-enfants, se précipitèrent vers lui, et il fallut un peu de temps pour répondre aux compliments de tout ce monde, si heureux de le revoir. Les poignées de mains, les embrassades, s\'échangèrent pendant cinq bonnes minutes.
+
+L\'heure pressant, M. De Vaudreuil, Clary et Jean ne purent échanger que quelques mots. D\'ailleurs, puisqu\'ils devaient passer ensemble trois jours à la ferme, ils auraient tout le loisir de s\'entretenir de leurs affaires. Thomas Harcher et sa femme avaient hâte de se rendre à l\'église. On n\'avait que trop fait attendre le curé. Le parrain et la marraine étaient là. Il fallait partir.
+
+« En route ! En route ! criait Catherine, qui allait de l\'un à l\'autre, gourmandant et ordonnant. Allons, mon fils, dit-elle à Jean, le bras à mademoiselle Clary. Et Thomas ? Où donc est Thomas ? Il n\'en finit jamais ! -- Thomas ?
+
+--- Me voici, femme !
+
+--- C\'est toi qui porteras le poupon.
+
+--- C\'est convenu !
+
+--- Et ne le laisse pas tomber !
+
+--- Sois tranquille ! J\'en ai déjà porté vingt-cinq à monsieur le curé, et j\'ai l\'habitude\...
+
+--- C\'est bien ! répliqua Catherine en lui coupant la parole. En route ! »
+
+Le cortège quitta la ferme dans l\'ordre suivant : en tête, Thomas, tenant le petit dans ses bras, et Catherine Harcher près de lui, M. De Vaudreuil, sa fille et Jean les suivant ; puis, derrière, toute la queue de la famille, comprenant trois générations, où les âges étaient tellement entremêlés que le bébé, qui venait de naître, avait déjà parmi les enfants de ses frères ou soeurs un certain nombre de neveux et de nièces plus âgés que lui.
+
+Le temps était beau ; mais, à cette époque de l\'année, la température eût été assez basse, s\'il ne fût tombé du ciel sans nuage comme une averse de soleil. On passait sous le berceau des arbres, à travers des sentiers sinueux, au bout desquels pointait le clocher de l\'église. Un tapis de feuilles sèches couvrait le sol. Tous les jaunes si variés de l\'automne se mélangeaient à la cime des châtaigniers, des bouleaux, des chênes, des hêtres, des trembles, dont le squelette branchu se montrait par places, alors que les pins et les sapins restaient encore couronnés de leurs panaches verdâtres.
+
+À mesure que le cortège s\'avançait, quelques amis de Thomas Harcher, des fermiers des environs, le rejoignaient en route. La file grossissait à vue d\'oeil, et on serait bien une centaine, quand on arriverait à l\'église.
+
+Il était jusqu\'à des étrangers qui, par curiosité ou par désoeuvrement, se mettaient de la partie, lorsqu\'ils se trouvaient sur le passage du cortège. Pierre Harcher remarqua même un homme, dont l\'attitude lui parut suspecte. Bien évidemment, cet inconnu n\'était pas du pays. Pierre ne l\'y avait jamais vu, et il lui sembla que cet intrus cherchait à dévisager les gens de la ferme.
+
+Pierre avait raison de se défier de cet homme. C\'était un des policiers qui avaient reçu l\'ordre de « filer » M. De Vaudreuil depuis son départ de la villa Montcalm. Rip, lancé à la piste de Jean-Sans-Nom, que l\'on croyait caché aux environs de Montréal, avait détaché cet agent avec mandat d\'observer non seulement M. De Vaudreuil, mais aussi la famille de Thomas Harcher, dont on connaissait les opinions réformistes.
+
+Cependant, en marchant l\'un près de l\'autre, M. De Vaudreuil, sa fille et Jean s\'entretenaient du retard que celui-ci avait éprouvé pour se rendre à la ferme.
+
+« J\'ai su par Pierre, dit Clary, que vous l\'avez quitté afin d\'aller visiter Chambly et les paroisses voisines.
+
+--- En effet, répondit Jean.
+
+--- Venez-vous directement de Chambly ?
+
+--- Non, j\'ai dû parcourir le comté de Saint-Hyacinthe, d\'où je n\'ai pu revenir aussitôt que je l\'aurais voulu. J\'ai été forcé de faire un détour par la frontière.
+
+--- Est-ce que les agents étaient sur vos traces ? demanda M. De Vaudreuil.
+
+--- Oui, répondit Jean, mais j\'ai pu, sans trop de peine, les dérouter encore une fois.
+
+--- Chaque heure de votre vie est un danger ! répondit Mlle de Vaudreuil. Il n\'y a pas un instant où vos amis ne tremblent pour vous ! Depuis que vous avez quitté la villa Montcalm, nos inquiétudes n\'ont pas cessé !
+
+--- Aussi, répondit Jean, ai-je hâte d\'en finir avec cette existence qu\'il me faut disputer continûment, hâte d\'agir au grand jour, face à face avec l\'ennemi ! Oui ! Il est temps que le combat s\'engage, et cela ne tardera pas ! Mais, en ce moment, oublions l\'avenir pour le présent ! C\'est ici une sorte de trêve, de halte avant la bataille ! Ici, monsieur de Vaudreuil, je ne suis plus que le fils adoptif de cette brave et honnête famille ! »
+
+Le cortège était arrivé. C\'est à peine si la petite église suffirait à contenir la foule qui avait grossi en route.
+
+Le curé se tenait sur le seuil, près de la modeste vasque de pierre, qui servait aux cérémonies baptismales des innombrables nouveau-nés de la paroisse.
+
+Thomas Harcher présenta, avec une légitime fierté, le vingt-sixième rejeton, issu de son mariage avec la non moins fière Catherine.
+
+Clary de Vaudreuil et Jean se placèrent l\'un près de l\'autre, pendant que le curé faisait les onctions d\'usage.
+
+« Et vous le nommez ? demanda-t-il.
+
+--- Jean, comme son parrain », répondit Thomas Harcher, en tendant la main au jeune homme.
+
+Ce qui est à noter, c\'est que les anciennes coutumes françaises se retrouvent encore au milieu des villes et des campagnes de la province canadienne. Dans les paroisses rurales, plus particulièrement, c\'est la dîme qui entretient le clergé catholique. Elle est du vingt-sixième de tous les fruits et récoltes de la terre. Et -- par suite d\'une tradition, à la fois touchante et curieuse -- ce n\'est pas sur les récoltes seulement que se prélève cette dîme du vingt-sixième.
+
+Aussi, Thomas Harcher ne s\'étonna-t-il point, lorsque, le baptême achevé, le curé dit à voix haute :
+
+« Cet enfant appartient à l\'église, Thomas Harcher. S\'il est le filleul du parrain et de la marraine que vous lui avez choisis, c\'est aussi mon pupille, à moi ! Les enfants ne sont-ils pas comme la récolte de la famille ? Eh bien, de même que vous m\'auriez donné votre vingt-sixième gerbe de blé, c\'est votre vingt-sixième enfant que l\'église prélève en ce jour !
+
+--- Nous reconnaissons son droit, monsieur le curé, répondit Thomas Harcher, et, ma femme et moi, nous nous y soumettons de bonne grâce ! » L\'enfant fut alors porté au presbytère, où il fut triomphalement accueilli. De par les traditions de la dîme, le petit Jean appartenait à l\'église. Comme tel, il serait élevé aux frais de la paroisse.
+
+Et, lorsque le cortège se remit en route pour revenir à la ferme de Chipogan, les cris de joie éclatèrent par centaines en l\'honneur de Thomas et de Catherine Harcher.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 11 -- Le dernier des Sagamores]{.pcalibre lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942150 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-11-le-dernier-des-sagamores .calibre171 .sigil_not_in_toc}
+
+Le lendemain, les cérémonies recommencèrent. Nouveau cortège qui se rendit à l\'église, dès la première heure. Même recueillement à l\'aller, même entrain au retour.
+
+Les jeunes Clément et Cécile Harcher, l\'un dans son habit noir, qui en faisait comme un petit homme, l\'autre dans son costume blanc, qui en faisait comme une petite fiancée, figuraient parmi les premiers communiants venus des fermes avoisinantes. Si les autres « habitants » n\'étaient pas aussi riches en progéniture que Thomas Harcher de Chipogan, ils n\'en avaient pas moins un nombre très respectable de rejetons. Le comté de Laprairie était véritablement comblé des bénédictions du Seigneur, et, à cet égard, il eût pu lutter avec les plus fécondes bourgades de la Nouvelle-Écosse.
+
+Ce jour-là, Pierre ne revit plus l\'étranger, dont la présence l\'avait inquiété la veille. En effet, cet agent était reparti. Avait-il soupçonné quelque chose relativement à Jean-Sans-Nom ? Était-il allé faire son rapport au chef de la police de Montréal ? On le saurait avant peu, sans doute.
+
+Lorsque la famille fut rentrée à la ferme, elle n\'eut plus qu\'à prendre place au déjeuner. Tout était prêt, grâce aux semonces multiples que Thomas Harcher avait reçues de Catherine. Il avait dû s\'occuper successivement de la table, de l\'office, de la cave, de la cuisine, avec l\'aide de ses fils s\'entend, qui eurent leur bonne part des gourmades maternelles.
+
+« Il est bon de les y habituer ! répétait volontiers Catherine. Cela leur paraîtra plus naturel, lorsqu\'ils seront en ménage ! »
+
+Excellent apprentissage, en vérité.
+
+Mais, s\'il avait fallu tant se démener pour le déjeuner de ce jour, que serait-ce donc pour le repas du lendemain ! Une table qui allait être dressée pour une centaine de convives ! Oui ! Tout autant, en comptant les parents du marié et ses amis des environs.
+
+Et encore, convient-il de ne pas oublier maître Nick et son second clerc, que l\'on attendait le jour même pour la signature du contrat. Une incomparable noce, dans laquelle le fermier Harcher prétendait rivaliser avec le fermier Gamache de cervantesque mémoire !
+
+Mais ce serait l\'affaire du lendemain. Aujourd\'hui, il ne s\'agissait que de faire bon accueil au notaire. L\'un des fils Harcher devait aller le chercher à Laprairie pour trois heures sonnant, dans le buggie de famille.
+
+À propos de maître Nick, Catherine avait cru devoir rappeler à son mari que l\'excellent homme était grand mangeur en même temps que fine bouche, et elle n\'entendait pas -- c\'était sa manière habituelle d\'admonester les gens -- elle n\'entendait pas que l\'honorable tabellion ne fût point servi à souhait.
+
+« Il le sera, répondit le fermier ! Tu peux être tranquille, ma bonne Catherine !
+
+--- Je ne le suis pas, répondit la matrone, et ne le serai que lorsque tout sera fini ! Au dernier moment, il manque toujours quelque chose, et je n\'entends pas cela ! »
+
+Thomas Harcher s\'en alla à sa besogne, répétant :
+
+« L\'excellente femme ! Un peu précautionneuse, sans doute ! Elle n\'entend pas ceci ! Elle n\'entend pas cela ! Et je vous prie de croire cependant qu\'elle n\'est point sourde ! »
+
+Cependant, depuis la veille, M. De Vaudreuil et Clary avaient pu longuement entretenir Jean au sujet de son voyage à travers les comtés du bas Canada. De son côté, le jeune patriote avait été mis au courant de ce que le comité de Montcalm avait fait depuis son départ.
+
+André Farran, William Clerc et Vincent Hodge étaient revenus fréquemment à la villa, où M. De Vaudreuil avait également reçu la visite de l\'avocat Sébastien Gramont. Puis, celui-ci était reparti pour Québec, où il devait retrouver les principaux députés de l\'opposition.
+
+Ce jour-là, après le déjeuner, qui avait été servi au retour de l\'église, M. De Vaudreuil voulut profiter du buggie pour se rendre à la bourgade. Il aurait le temps de conférer avec le président du comité de Laprairie, et reviendrait en même temps que le notaire pour la signature du contrat.
+
+Mlle de Vaudreuil et Jean l\'accompagnèrent sur cette jolie route de Chipogan, ombragée de grands ormes, qui côtoie un petit rio d\'eaux courantes, tributaire du Saint-Laurent. Ils avaient pris les devants avec lui, et ne furent rejoints par le buggie qu\'à une demi-lieue de la ferme. M. De Vaudreuil s\'installa à côté de Pierre Harcher, et il eut bientôt disparu au trot du rapide attelage.
+
+Jean et Clary revinrent alors sur leurs pas, en remontant à travers les bois ombreux et tranquilles, massés à la lisière du rio. Rien n\'y gênait leur marche, ni les buissons, ni les branches, qui, dans les forêts canadiennes, se relèvent au lieu de pendre vers le sol. De temps à autre, la hache d\'un lumberman retentissait, en rebondissant sur de vieux troncs d\'arbres. Quelques coups de fusil se faisaient aussi entendre au lointain, et parfois un couple de daims apparaissait entre les halliers qu\'ils franchissaient d\'un bond. Mais chasseurs et bûcherons ne sortaient point de l\'épaisseur des futaies, et c\'était au milieu d\'une profonde solitude que Mlle de Vaudreuil et Jean gagnaient lentement du côté de la ferme.
+
+Tous deux allaient bientôt se séparer !
+
+Où pourraient-ils se revoir, et en quel lieu ? Leur coeur se serrait douloureusement à la pensée de ce prochain éloignement.
+
+« Ne comptez-vous pas revenir bientôt à la villa Montcalm ? demanda Clary.
+
+--- La maison de M. De Vaudreuil doit être particulièrement surveillée, répondit Jean, et, dans son intérêt même, mieux vaut qu\'on ignore nos relations.
+
+--- Et pourtant, vous ne pouvez songer à chercher un asile à Montréal ?
+
+--- Non, bien qu\'il soit peut-être plus aisé d\'échapper aux poursuites au milieu d\'une grande ville. Je serais plus en sûreté dans l\'habitation de M.Vincent Hodge, de M. Farran ou de M. Clerc qu\'à la villa Montcalm\...
+
+--- Mais non mieux accueilli ! répondit la jeune fille.
+
+--- Je le sais, et je n\'oublierai jamais que, pendant les quelques jours que j\'ai passés près de vous, votre père et vous m\'avez traité comme un fils, comme un frère !
+
+--- Comme nous le devions, répondit Clary. Être unis par le même sentiment de patriotisme n\'est-ce pas être unis par le même sang ! Il me semble, parfois, que vous avez toujours fait partie de notre famille ! Et maintenant, si vous êtes seul au monde\...
+
+--- Seul au monde, répéta Jean, qui avait baissé la tête. Oui ! Seul\... Seul !
+
+--- Eh bien, après le triomphe de la cause, notre maison sera la vôtre ! Mais, en attendant, je comprends que vous cherchiez une retraite plus sûre que la villa Montcalm. Vous la trouverez, et, d\'ailleurs, quel est le Canadien dont la demeure refuserait de s\'ouvrir pour un proscrit\...
+
+--- Il n\'en est pas, je le sais, répondit Jean, et aucun ne serait assez misérable pour me trahir\...
+
+--- Vous trahir ! s\'écria Mlle de Vaudreuil.
+
+Non ! Le temps des trahisons est passé ! Dans tout le Canada, on ne trouverait plus ni un Black, ni un Simon Morgaz ! »
+
+Ce nom, prononcé avec horreur, fit monter la rougeur au front du jeune homme, et il dût se détourner pour cacher son trouble. Clary de Vaudreuil ne s\'en était point aperçue ; mais, lorsque Jean revint près d\'elle, son visage exprimait une si visible souffrance qu\'elle lui dit, inquiète :
+
+« Mon Dieu ! Qu\'avez-vous ?
+
+--- Rien\... Ce n\'est rien ! répondit Jean. Des palpitations auxquelles je suis parfois sujet ! Il me semble que mon coeur va éclater ! C\'est fini maintenant ! »
+
+Clary le regarda longuement, comme pour lire jusqu\'au fond de sa pensée. Il reprit alors, afin de changer le cours de cette conversation si torturante pour lui :
+
+« Le plus prudent sera de me réfugier dans un village des comtés voisins, où je resterai en communication avec M. De Vaudreuil et ses amis\...
+
+--- Sans vous éloigner de Montréal, cependant ? fit observer Clary.
+
+--- Non, répondit Jean, car, très probablement, c\'est dans les paroisses environnantes que l\'insurrection éclatera. D\'ailleurs, peu importe où j\'irai !
+
+--- Peut-être, reprit Clary, serait-ce encore la ferme de Chipogan qui vous offrirait le plus sûr abri ?
+
+--- Oui\... Peut-être !
+
+--- Il serait difficile de découvrir votre retraite au milieu de cette nombreuse famille de notre fermier\...
+
+--- Sans doute, mais si cela arrivait, il en pourrait résulter de graves conséquences pour Thomas Harcher ! Il ignore que je suis Jean-Sans-Nom, dont la tête est mise à prix\...
+
+--- Croyez-vous donc, répondit vivement Clary, que, s\'il venait à l\'apprendre, il hésiterait\...
+
+--- Non, certes ! reprit Jean. Ses fils et lui sont des patriotes ! Je les ai vus à l\'épreuve, pendant que nous faisions ensemble notre campagne de propagande. Mais je ne voudrais pas que Thomas Harcher fût victime de son affection pour moi ! Et, si la police me trouvait chez lui, elle l\'arrêterait ! Eh bien non ! Plutôt me livrer\...
+
+--- Vous livrer ! » murmura Clary d\'une voix, qui traduisait douloureusement le déchirement de son âme.
+
+Jean baissa la tête. Il comprenait bien quelle était la nature du sentiment auquel il s\'abandonnait comme malgré lui. Il sentait quel lien le serrait de plus en plus à Clary de Vaudreuil. Et pourtant, pouvait-il aimer cette jeune fille ! L\'amour d\'un fils de Simon Morgaz ! Quel opprobre ! Et quelle trahison, aussi, puisqu\'il ne lui avait pas dit de quelle famille il sortait ! Non ! Il fallait la fuir, ne jamais la revoir ! Et, lorsqu\'il fut redevenu maître de lui-même :
+
+« Demain, dit-il, dans la nuit, j\'aurai quitté la ferme de Chipogan, et je ne reparaîtrai qu\'à l\'heure de la lutte ! Je n\'aurai plus à me cacher alors ! »
+
+La figure de Jean-Sans-Nom, qui s\'était animée un instant, reprit son calme habituel.
+
+Clary le regardait avec une indéfinissable impression de tristesse. Elle aurait voulu pénétrer plus avant dans la vie du jeune patriote. Mais comment l\'interroger, sans le blesser par quelque question indiscrète ? Cependant, après lui avoir tendu sa main qu\'il effleura à peine, elle dit :
+
+« Jean, pardonnez-moi si ma sympathie pour vous me fait peut-être sortir de ma réserve que je devrais garder !
+
+Il y a un mystère dans votre vie\... Tout un passé de malheurs ! Jean, vous avez beaucoup souffert ?
+
+--- Beaucoup ! » répondit Jean.
+
+Et, comme si cet aveu lui eût échappé involontairement, il ajouta aussitôt : « Oui, beaucoup souffert\... Puisque je n\'ai pas encore pu rendre à mon pays le bien qu\'il est en droit d\'attendre de moi !
+
+--- En droit d\'attendre\... Répéta Mlle de Vaudreuil, en droit d\'attendre de vous ?
+
+--- Oui\... De moi, répondit Jean, comme de tous les Canadiens, dont c\'est le devoir de se sacrifier pour rendre à leur pays son indépendance ! »
+
+La jeune fille avait compris ce qu\'il y avait d\'angoisses cachées sous cet élan de patriotisme ! Elle aurait voulu les connaître pour les partager, pour les adoucir peut-être ! Mais que pouvait-elle, puisque Jean persistait à se tenir dans des réponses évasives ?
+
+Cependant, Clary crut devoir ajouter, sans manquer à la réserve que lui imposait la situation du jeune homme :
+
+« Jean, j\'ai l\'espoir que la cause nationale triomphera bientôt ! Ce triomphe, elle le devra surtout à votre dévouement, à votre courage, à l\'ardeur que vous aurez inspirée à ses partisans ! Alors, vous aurez droit à leur reconnaissance\...
+
+--- Leur reconnaissance, Clary de Vaudreuil ? répondit Jean, en s\'éloignant d\'un mouvement brusque. Non ! Jamais !
+
+--- Jamais ? Si les Franco-Canadiens que vous aurez rendus libres vous demandent de rester à leur tête\...
+
+--- Je refuserai.
+
+--- Vous ne le pourrez pas !
+
+--- Je refuserai, vous dis-je ! » répéta Jean d\'un ton si affirmatif que Clary en demeura interdite.
+
+Et alors, plus doucement, il reprit :
+
+« Clary de Vaudreuil, nous ne pouvons prévoir l\'avenir. J\'espère, pourtant, que les événements tourneront à l\'avantage de notre cause. Mais, ce qui vaudrait mieux pour moi, ce serait de succomber en la défendant\...
+
+--- Succomber ! Vous ! s\'écria la jeune fille, dont les yeux se noyèrent de larmes. Succomber, Jean ! Et vos amis ?
+
+--- Des amis ! à moi\... Des amis ! » répondit Jean.
+
+Et son attitude était bien celle d\'un misérable que toute une vie d\'opprobre aurait mis au ban de l\'humanité.
+
+« Jean, reprit Mlle de Vaudreuil, vous avez affreusement souffert autrefois, et vous souffrez toujours ! Et, ce qui rend votre situation plus douloureuse, c\'est de ne pouvoir\... Non ! De ne vouloir vous confier à personne\... Pas même à moi, qui prendrais si volontiers une part de vos peines ! Eh bien\... Je saurai attendre, et je ne vous demande rien que de croire à mon amitié\...
+
+--- Votre amitié ! » murmura Jean.
+
+Et il se recula de quelques pas, comme si rien que son amitié eût pu flétrir cette pure jeune fille !
+
+Et pourtant, les seules consolations qui l\'eussent aidé à supporter cette horrible existence, n\'était-ce pas celles qu\'il aurait trouvées dans l\'intimité de Clary de Vaudreuil ? Pendant le temps passé à la villa Montcalm, son coeur s\'était senti pénétré de cette ardente sympathie qu\'il lui inspirait et qu\'il ressentait pour elle\... Mais non ! C\'était impossible\... Le malheureux ! Si jamais Clary apprenait de qui il était le fils, elle le repousserait avec horreur !
+
+Un Morgaz ! Aussi, comme il l\'avait dit à sa mère, au cas où Joann et lui survivraient à cette dernière tentative, ils disparaîtraient ! Oui ! Une fois le devoir accompli, la famille déshonorée irait si loin, si loin que l\'on n\'entendrait plus parler d\'elle !
+
+Silencieusement et tristement, Clary et Jean revinrent ensemble à la ferme !
+
+Vers quatre heures, un gros tumulte se produisit devant la porte de la cour. Le buggie rentrait. Signalé de loin par les cris de joie des invités, il ramenait, en même temps que M. De Vaudreuil, maître Nick et son jeune clerc.
+
+Quel accueil on fit à l\'aimable notaire de Montréal -- l\'accueil qu\'il méritait, d\'ailleurs -- tant on était heureux de sa visite à la ferme de Chipogan !
+
+« Monsieur Nick\... Bonjour, monsieur Nick ! s\'écrièrent les aînés, tandis que les cadets le serraient dans leurs bras et que les petits lui sautaient aux jambes.
+
+« Oui, mes amis, c\'est moi ! dit-il en souriant. C\'est bien moi et non un autre ! Mais du calme ! Il n\'est pas nécessaire de déchirer mon habit pour vous en assurer !
+
+--- Allons, finissez, les enfants ! s\'écria Catherine.
+
+--- Vraiment, reprit le notaire, je suis enchanté de vous voir et de me voir chez mon cher client Thomas Harcher !
+
+--- Monsieur Nick, que vous êtes bon de vous être dérangé ! répondit le fermier.
+
+--- Eh ! Je serais venu de plus loin, s\'il l\'avait fallu, même de plus loin que du bout du monde, du soleil, des étoiles\... Oui, Thomas, des étoiles !
+
+--- C\'est un honneur pour nous, monsieur Nick, dit Catherine, en faisant signe à ses onze filles de faire la révérence.
+
+--- Et pour moi un plaisir !
+
+Ah ! Que vous êtes toujours belle, madame Catherine ! Voyons ! Quand cesserez-vous de rajeunir, s\'il vous plaît ?
+
+--- Jamais ! Jamais ! s\'écrièrent à la fois les quatorze fils de la fermière.
+
+--- Il faut que je vous embrasse, dame Catherine, reprit maître Nick. -- Vous permettrez, dit-il au fermier, après avoir fait claquer les joues de sa vigoureuse moitié.
+
+--- Tant qu\'il vous plaira, répondit Thomas Harcher, et même davantage, si ça vous fait plaisir !
+
+--- Allons, à ton tour, Lionel, dit le notaire en s\'adressant à son clerc. Embrasse madame Catherine\...
+
+--- Bien volontiers ! répondit Lionel, qui reçut un double baiser en échange du sien.
+
+--- Et maintenant, reprit maître Nick, j\'espère qu\'elle sera gaie, la noce de la charmante Rose, que j\'ai fait plus d\'une fois sauter sur mes genoux, quand elle était petite ! -- Où est-elle ?
+
+--- Me voici, monsieur Nick, répondit Rose, toute florissante de santé et de belle humeur.
+
+--- Oui, charmante, en vérité, répéta le notaire, et trop charmante, pour que je ne l\'embrasse pas sur ses deux joues, bien dignes du nom qu\'elle porte ! » Et c\'est ce qu\'il fit bel et bien. Mais cette fois, à son grand regret, Lionel ne fut point invité à partager cette aubaine.
+
+« Où est le fiancé ? dit alors maître Nick. Est-ce qu\'il aurait oublié, par hasard, que c\'est aujourd\'hui que nous signons le contrat ? Où est-il, le fiancé ?
+
+--- Me voici, répondit Bernard Miquelon.
+
+--- Ah ! Le joli garçon\... L\'aimable garçon ! s\'écria maître Nick.
+
+Je l\'embrasserais volontiers, lui aussi, pour finir\...
+
+--- À votre aise, monsieur Nick, répondit le jeune homme, en ouvrant les bras.
+
+--- Bon ! répondit maître Nick en hochant la tête, j\'imagine que Bernard Miquelon aimera beaucoup mieux un baiser de Rose que de moi ! Aussi, Rose, embrasse ton futur mari à ma place et sans tarder ! »
+
+Ce que Rose, un peu confuse, fit aux applaudissements de toute la famille. « Eh ! J\'y pense, vous devez avoir soif, monsieur Nick, dit Catherine, et votre clerc aussi ?
+
+--- Très soif, ma bonne Catherine.
+
+--- Extrêmement soif, ajouta Lionel.
+
+--- Eh bien, Thomas, que fais-tu là à nous regarder ? Mais va donc à l\'office ! Un bon toddy pour monsieur Nick, que diable ! Et un non moins bon pour son clerc ! Est-ce qu\'il faut que je te le répète ? »
+
+Non ! Une seule fois suffisait, et le fermier, suivi de trois de ses filles, s\'empressa de courir vers l\'office.
+
+Pendant ce temps, maître Nick, qui venait d\'apercevoir Clary de Vaudreuil, s\'était approché d\'elle.
+
+« Eh bien, ma chère demoiselle, dit-il, à la dernière visite que j\'ai faite à la villa Montcalm, nous nous étions donné rendez-vous à la ferme de Chipogan, et je suis heureux\... »
+
+La phrase du notaire fut interrompue par une exclamation de Lionel, dont la surprise était bien naturelle. Ne voilà-t-il pas qu\'il se trouvait en face du jeune inconnu, qui avait si sympathiquement accueilli ses essais poétiques, quelques semaines avant ?
+
+« Mais\... C\'est monsieur\... Monsieur\... » répétait-il.
+
+M. De Vaudreuil et Clary se regardèrent, saisis d\'une vive inquiétude. Comment Lionel connaissait-il Jean ? Et, s\'il le connaissait, savait-il ce que la famille Harcher ignorait encore, c\'est-à-dire que celui auquel la ferme donnait asile fût Jean-Sans-Nom, traqué par les agents de Gilbert Argall ? « En effet\... Dit à son tour le notaire qui se retourna vers le jeune homme. Je vous reconnais, monsieur ! C\'est bien vous qui avez été notre compagnon de route, lorsque mon clerc et moi nous avons pris le stage pour nous rendre, au commencement de septembre, à la villa Montcalm ? -- C\'est bien moi, oui, monsieur Nick, répondit Jean, et c\'est avec grand plaisir, n\'en doutez pas, que je vous retrouve à la ferme de Chipogan, ainsi que notre jeune poète\...
+
+--- Dont la poésie a reçu une mention honorable de la Lyre-Amicale ! s\'écria le notaire. C\'est décidément un nourrisson des Muses que j\'ai l\'honneur de posséder dans mon étude pour griffonner mes actes !
+
+--- Recevez mes compliments, mon jeune ami, dit Jean. Je n\'ai point oublié votre charmant refrain :
+
+
+Naître avec toi, flamme follette,
+
+Mourir avec toi, feu follet !
+
+
+--- Ah ! Monsieur ! » répondit Lionel, très fier des éloges que lui valaient ces vers, restés dans la mémoire d\'un véritable connaisseur.
+
+En entendant cet échange d\'aménités, M. et Mlle de Vaudreuil furent absolument rassurés sur le compte du jeune proscrit.
+
+Maître Nick leur narra alors en quelles circonstances ils s\'étaient rencontrés sur la route de Montréal à l\'île Jésus, et Jean lui fut présenté comme le fils adoptif de la famille Harcher. L\'explication finit par de bonnes poignées de main de part et d\'autre.
+
+Cependant Catherine criait d\'une voix impérieuse :
+
+« Allons, Thomas ! Allons ! Il n\'en finit jamais ! Et ces deux toddys ! Veux-tu donc laisser monsieur Nick et monsieur Lionel mourir de soif ?
+
+--- C\'est prêt, Catherine, c\'est prêt ! répondit le fermier. Ne t\'impatiente pas ! »
+
+Et Thomas Harcher, apparaissant sur le seuil, invita le notaire à le suivre dans la salle à manger.
+
+Si maître Nick ne se fit point prier, Lionel ne se fit pas prier davantage. Là, prenant place l\'un et l\'autre à une table garnie de tasses coloriées et de serviettes d\'une éclatante blancheur, ils se rafraîchirent de ce toddy -- agréable breuvage, composé de genièvre, de sucre, de cannelle, et flanqué de deux rôties croustillantes. Cet en-cas devait permettre d\'attendre l\'heure du dîner sans trop défaillir.
+
+Puis, chacun s\'occupa des derniers préparatifs pour la grande fête du lendemain, dont on parlerait longtemps, sans doute, à la ferme de Chipogan.
+
+Maître Nick, lui, allait de l\'un à l\'autre. Il avait un mot aimable pour chacun, tandis que M. De Vaudreuil, Clary et Jean s\'entretenaient de choses plus sérieuses, en se promenant sous les arbres du jardin.
+
+Vers cinq heures, tous, parents, invités, se réunirent dans la grande salle, pour la signature du contrat de mariage.
+
+Il va de soi que maître Nick devait présider cette importante cérémonie, et ce qu\'il allait déployer de dignité et de grâce tabellionnesque, on n\'aurait pu l\'imaginer.
+
+À cette occasion, divers cadeaux de noce furent remis entre les mains des fiancés. Pas un des frères ou des beaux-frères, pas une des soeurs ou des belles-soeurs, qui n\'eût fait quelque emplette au profit de Rose Harcher et Bernard Miquelon. Et, tant en bijoux de valeur qu\'en ustensiles d\'une utilité plus pratique, ces présents devaient amplement suffire pour l\'entrée en ménage des jeunes mariés. D\'ailleurs, Rose, devenue madame Miquelon, en songeait point à quitter Chipogan. Bernard et les enfants, qui ne lui manqueraient certainement pas, c\'était un accroissement de personnel auquel il serait fait bon accueil à la ferme de Thomas Harcher.
+
+Inutile de dire que les plus précieux cadeaux furent offerts par M. et Mlle de Vaudreuil. Pour Bernard Miquelon, une excellente carabine de chasse, qui eût pu rivaliser avec l\'arme favorite de Bas-de-Cuir ; pour Rose, une parure de cou, qui la fit paraître plus charmante encore. Quant à Jean, il remit à la soeur de ses braves compagnons un coffret, muni de tous ces fins outils de couture, de broderie, de tapisserie, qui ne pouvaient que faire le plus grand plaisir à une bonne ménagère.
+
+Et, à chaque don, les applaudissements d\'éclater, les cris de se joindre aux applaudissements ! Et, on le peut croire, ils redoublèrent, lorsque maître Nick -- solennellement -- passa au doigt des fiancés leur anneau de mariage, qu\'il avait acheté chez le meilleur joaillier de Montréal, et dont le double cercle d\'or portait déjà leurs noms en exergue.
+
+Puis, le contrat fut lu -- à haute et intelligible voix, comme on dit en style de notaire.
+
+Il y eut quelque attendrissement, lorsque maître Nick fit connaître que M. De Vaudreuil, par amitié pour son fermier Thomas Harcher, pour reconnaître ses bons soins, ajoutait une somme de cinq cents piastres à la dot de la fiancée.
+
+Cinq cents piastres ! Quand, un demi-siècle avant, une fiancée, pourvue d\'une dot de cinquante francs, passait pour un riche parti dans les provinces canadiennes.
+
+« Maintenant, mes amis, dit maître Nick, nous allons procéder à la signature du contrat -- les fiancés d\'abord, puis les père et mère, puis M. et Mlle de Vaudreuil, puis\...
+
+--- Nous signerons tous ! » cria-t-on avec un tel entrain que le notaire en fut assourdi.
+
+Et alors, grands et petits, amis et parents, vinrent, chacun son tour, apposer leur paraphe au bas de l\'acte, qui assurait l\'avenir des jeunes conjoints.
+
+Cela prit du temps ! En effet, les passants entraient maintenant dans la ferme, attirés par le joyeux tumulte de l\'intérieur. Ils mettaient leur signature sur l\'acte, auquel il faudrait ajouter des pages et des pages, si cela continuait. Et pourquoi tout le village et même tout le comté n\'aurait-il pas afflué, puisque Thomas Harcher offrait au choix des visiteurs les boissons les plus variées, coktails, vight-caps, tom-jerries, hot-scotchs, et surtout des pintes de ce whisky, qui coule aussi naturellement vers les gosiers canadiens que le Saint-Laurent vers l\'Atlantique.
+
+Maître Nick se demandait donc si la cérémonie prendrait jamais fin. D\'ailleurs, le digne homme, épanoui, ne tarissait pas, disait un mot gai à chacun, tandis que Lionel, passant la plume de l\'un à l\'autre, faisait observer qu\'il faudrait bientôt en prendre une nouvelle, car elle s\'usait à cette interminable queue de signatures qui s\'allongeait sans cesse.
+
+« Enfin, est-ce tout ? demanda maître Nick, après une heure de vacation.
+
+--- Pas encore ! s\'écria Pierre Harcher, qui s\'était avancé jusqu\'au seuil de la grande porte, afin de voir s\'il ne passait plus personne sur la route.
+
+--- Et qui vient donc ? Cria maître Nick.
+
+--- Une troupe de Hurons !
+
+--- Qu\'ils entrent, qu\'ils entrent ! répliqua le notaire. Leurs signatures n\'en feront pas moins honneur aux fiancés ! Quel contrat, mes amis, quel contrat ! J\'en ai bien dressé des centaines dans ma vie, mais jamais qui aient réuni les noms de tant de braves gens au bas de leur dernière page ! » En ce moment, les sauvages parurent et furent accueillis par de retentissants cris de bienvenue. D\'ailleurs, il n\'avait point été nécessaire de les inviter à entrer dans la cour. C\'est bien là qu\'ils venaient, au nombre d\'une cinquantaine -- hommes et femmes. Et, parmi eux, Thomas Harcher reconnut le Huron qui s\'était présenté la veille, pour demander si maître Nick ne se trouvait pas à la ferme de Chipogan.
+
+Pourquoi cette troupe de Mahogannis avait-elle quitté son village de Walhatta ? Pourquoi ces Indiens arrivaient-ils en grande cérémonie, afin de rendre visite au notaire de Montréal ?
+
+C\'était pour un motif de haute importance, ainsi qu\'on va bientôt le savoir. Ces Hurons -- et ils ne le font que dans les circonstances solennelles -- étaient revêtus de leur costume de guerre. La tête coiffée de plumes multicolores, leurs longs et épais cheveux, descendant jusqu\'à l\'épaule d\'où retombait le manteau de laine bariolée, le torse recouvert d\'une casaque en peau de daim, les pieds chaussés de mocassins en cuir d\'orignal, tous étaient armés de ces longs fusils qui, depuis bien des années, ont remplacé chez les tribus indiennes l\'arc et les flèches de leurs ancêtres.
+
+Mais la hache traditionnelle, le tomahawk de guerre, pendait toujours à la courroie d\'écorce qui leur ceignait la taille.
+
+En outre -- détail qui accentuait plus encore la gravité de la démarche qu\'ils venaient faire à la ferme de Chipogan -- une couche de peinture toute fraîche enluminait leur visage. Le bleu d\'azur, le noir de fumée, le vermillon, accentuaient d\'un relief étonnant leur nez aquilin, troué de larges narines, leur bouche grande, meublée de deux rangées de dents courbes et régulières, leurs pommettes saillantes et carrées, leurs yeux petits et vifs, dont l\'orbite noir flamboyait comme une braise.
+
+À cette députation de la tribu s\'étaient jointes quelques femmes, de Walhatta -- sans doute, les plus jeunes et les plus jolies des Mahoganniennes. Ces squaws portaient un corsage d\'étoffe brodée, dont les manches découvraient l\'avant-bras, une jupe à couleurs éclatantes, des «  mitasses » en cuir de caribou, garnies de piquant de hérissons, et lacées sur leurs jambes, de souples mocassins, soutachés de grains de verroterie, dans lesquels s\'emprisonnaient leurs pieds, dont une Française eût pu envier la petitesse.
+
+Ces Indiens avaient doublé, si c\'est possible, l\'air de gravité qui leur est habituel. Ils s\'avancèrent cérémonieusement jusqu\'au seuil de la grande salle, où se tenaient M. et Mlle de Vaudreuil, le notaire, Thomas et Catherine Harcher, tandis que le reste de l\'assistance se massait dans la cour.
+
+Et alors, celui qui paraissait être le chef de la troupe, un Huron de haute taille, âgé d\'une cinquantaine d\'années, tenant à la main un manteau de fabrication indigène, dit, en s\'adressant au fermier d\'une voix grave :
+
+« Nicolas Sagamore est-il à la ferme de Chipogan ?
+
+--- Il y est, répondit Thomas Harcher.
+
+--- Et j\'ajoute que le voici », s\'écria le notaire, très surpris que sa personne pût être l\'objet de cette visite.
+
+Le Huron se retourna vers lui, releva fièrement la tête, et, d\'un ton plus imposant encore : « Le chef de notre tribu, dit-il, vient d\'être rappelé par le grand Wacondah, le Mitsimanitou de nos pères. Cinq lunes se sont écoulées depuis qu\'il parcourt les heureux territoires de chasse. L\'héritier direct de son sang est maintenant Nicolas, le dernier des Sagamores. À lui appartient désormais le droit d\'enterrer le tomahawk de paix ou de déterrer la hache de guerre ! » Un profond silence de stupéfaction accueillit cette déclaration si inattendue. Dans le pays, on savait bien que maître Nick était d\'origine huronne, qu\'il descendait des grands chefs de la tribu des Mahogannis ; mais nul n\'eût jamais imaginé -- et lui moins que personne -- que l\'ordre d\'hérédité pût l\'appeler à la tête d\'une peuplade indienne.
+
+Et, alors, au milieu du silence que nul n\'avait osé interrompre, l\'Indien reprit en ces termes :
+
+« À quelle époque mon frère voudra-t-il venir s\'asseoir au feu du Grand Conseil de sa tribu, revêtu du manteau traditionnel de ses ancêtres ? »
+
+Le porte-parole de la députation ne mettait pas même en doute l\'acceptation du notaire de Montréal, et il lui présentait le manteau mahogannien.
+
+Et, comme maître Nick, absolument interloqué, ne se décidait pas à répondre, un cri retentit, auquel cinquante autres se joignirent à la fois :
+
+« Honneur ! Honneur à Nicolas Sagamore ! »
+
+C\'était Lionel qui l\'avait jeté, ce cri d\'enthousiasme !
+
+S\'il était fier de la haute fortune qui arrivait à son patron, s\'il pensait que l\'éclat en rejaillirait sur les clercs de son étude et plus spécialement sur lui-même, s\'il se réjouissait à l\'idée qu\'il marcherait désormais aux côtés du grand chef des Mahogannis, ce serait perdre son temps que d\'y insister.
+
+Cependant M. De Vaudreuil et sa fille ne pouvaient s\'empêcher de sourire, en voyant la mine stupéfaite de maître Nick. Le pauvre homme ! Tandis que le fermier, sa femme, ses enfants, ses amis, lui adressaient leurs sincères félicitations, il ne savait auquel entendre.
+
+Alors l\'Indien posa de nouveau sa question, qui n\'admettait pas d\'échappatoire :
+
+« Nicolas Sagamore consent-il à suivre ses frères au wigwam de Walhatta ? »
+
+Maître Nick restait bouche béante. Bien entendu, il ne consentirait jamais à se démettre de ses fonctions, pour aller régner sur une tribu huronne. Mais, d\'autre part, il ne voulait point blesser par un refus les Indiens de sa race, qui l\'appelaient par droit de succession à un tel honneur.
+
+« Mahogannis, dit-il enfin, je ne m\'attendais pas\... Je suis indigne, vraiment ! Vous comprenez\... Mes amis\... Je ne suis ici qu\'en qualité de notaire ! »
+
+Il balbutiait, il cherchait ses mots, il ne trouvait rien de net à répondre. Thomas Harcher lui vint en aide.
+
+« Hurons, dit-il, maître Nick est maître Nick, du moins jusqu\'à ce que la cérémonie du mariage soit accomplie. Après, s\'il lui convient, il quittera la ferme de Chipogan et sera libre de retourner avec ses frères à Walhatta !
+
+--- Oui ! Après la noce ! » s\'écria toute l\'assistance, qui tenait à conserver son notaire.
+
+Le Huron remua doucement la tête, et, après avoir pris l\'avis de la députation :
+
+« Mon frère ne peut hésiter, dit-il.
+
+Le sang des Mahogannis coule dans ses veines et lui impose des droits et des devoirs qu\'il ne voudra pas refuser\...
+
+--- Des droits ! Des droits ! Soit ! murmura maître Nick. Mais, des devoirs\...
+
+--- Accepte-t-il ? demanda l\'Indien.
+
+--- S\'il accepte ! s\'écria Lionel. Je le crois bien ! Et, pour témoigner de ses sentiments, il faut qu\'il revête à l\'instant le manteau royal des Sagamores !
+
+--- Il ne se taira donc pas, l\'imbécile ! » répétait maître Nick entre ses dents. Et, volontiers, le pacifique notaire eût calmé d\'une taloche l\'enthousiasme intempestif de son clerc.
+
+M. De Vaudreuil vit bien que maître Nick ne demandait qu\'à gagner du temps. Aussi, s\'adressant à l\'Indien, il lui dit que, certainement, le descendant des Sagamores ne songeait point à se soustraire aux devoirs que lui imposait sa naissance. Mais, quelques jours, quelques semaines peut-être, étaient nécessaires, afin qu\'il pût régler sa situation à Montréal. Il convenait donc de lui donner le temps de mettre ordre à ses affaires.
+
+« Cela est sage, répondit l\'Indien, et puisque mon frère accepte, qu\'il reçoive en gage de son acceptation le tomahawk du grand chef, appelé par le Wacondah à chasser dans les prairies heureuses, et qu\'il le passe à sa ceinture ! »
+
+Maître Nick dut prendre l\'arme favorite des tribus indiennes, et, tout déconfit, comme il n\'avait point de ceinture, il la posa piteusement sur son épaule.
+
+La députation fit alors entendre le « hugh » traditionnel des sauvages du Far-West, sorte d\'exclamation approbative, en usage dans le langage indien.
+
+Quant à Lionel, il ne se possédait pas de joie, bien que son patron lui parût particulièrement embarrassé d\'une situation qui prêterait à rire dans la confrérie des notaires canadiens.
+
+Avec sa nature de poète, il entrevoyait déjà qu\'il serait appelé à célébrer les hauts faits des Mahogannis, à mettre en vers lyriques le chant de guerre des Sagamores, avec la crainte, toutefois, de ne pas trouver une rime à tomahawk.
+
+Les Hurons allaient se retirer, tout en regrettant que maître Nick, empêché par ses fonctions, n\'eût pas abandonné la ferme pour les suivre, lorsque Catherine eut une idée, dont le notaire ne lui sut aucun gré, sans doute.
+
+« Mahogannis, dit-elle, c\'est une fête de mariage qui nous réunit en ce jour à la ferme de Chipogan. Voulez-vous y rester en compagnie de votre nouveau chef ? Nous vous offrons l\'hospitalité, et, demain, vous prendrez place au festin, dans lequel Nicolas Sagamore occupera le siège d\'honneur ! »
+
+Un tonnerre d\'applaudissements éclata, lorsque Catherine Harcher eut formulé son obligeante proposition, et il se prolongea de plus belle, lorsque les Mahogannis eurent accepté une invitation qui leur était faite de si bon coeur.
+
+Quant à Thomas Harcher, il n\'aurait qu\'à augmenter la table de noce d\'une cinquantaine de couverts -- ce qui n\'était pas pour l\'embarrasser, car la salle était vaste, et même plus que suffisante pour ce surcroît de convives. Maître Nick dut alors se résigner, puisqu\'il ne pouvait faire autrement, et il reçut l\'accolade des guerriers de sa tribu qu\'il eût volontiers envoyés au diable.
+
+Pendant la soirée, il y eut danses des garçons et des filles, qui s\'en donnèrent à toutes « gigues », comme on disait en Canada, surtout dans les rondes à la mode française, accompagnées de ce joyeux refrain :
+
+
+Dansons à l\'entour,
+
+Toure-toure,
+
+Dansons à l\'entour !
+
+
+et aussi dans les « scotch-reels » d\'origine écossaise, qui étaient si recherchés au commencement du siècle.
+
+Et, c\'est de cette façon que se termina le deuxième jour de fête à la ferme de Chipogan.
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 12 -- Le festin]{.pcalibre lang="X-NONE"}]{#_Toc342942151 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12-le-festin .calibre171 .sigil_not_in_toc}
+
+Le grand jour était arrivé -- le dernier aussi des cérémonies successives de baptême, de communion et de mariage, qui avaient mis en joie les hôtes de Chipogan. Le mariage de Rose Harcher et de Bernard Miquelon, après avoir été célébré pendant la matinée devant l\'officier de l\'état civil, le serait ensuite à l\'église. Par suite, dans l\'après-midi, le repas de noces réunirait les convives dont le nombre s\'était considérablement accru dans les circonstances que l\'on connaît. Vraiment, il était temps d\'en finir, ou le comté de Laprairie et même le district de Montréal eussent pris place à la table hospitalière de Thomas Harcher.
+
+Le lendemain, on se séparerait. M. et Mlle de Vaudreuil retourneraient à la villa Montcalm. Jean quitterait la ferme et ne reparaîtrait sans doute qu\'au jour où il viendrait se mettre à la tête du parti réformiste. Quant à ses compagnons du Champlain, ils continueraient le métier de chasseurs, de coureurs des bois, qu\'ils exerçaient durant la saison hivernale, en attendant l\'heure de rejoindre leur frère adoptif, tandis que la famille reprendrait les travaux habituels de la ferme. Pour les Hurons, ils regagneraient le village de Walhatta, où la tribu comptait faire à Nicolas Sagamore un accueil triomphal, lorsqu\'il viendrait fumer pour la première fois le calumet au foyer de ses ancêtres.
+
+On l\'a vu, maître Nick avait été aussi peu charmé que possible des hommages dont il était l\'objet. Bien décidé, d\'ailleurs, à ne point échanger son étude pour le titre de chef de tribu, il en avait causé avec M. De Vaudreuil, avec Thomas Harcher. Et son ahurissement était tel qu\'il était difficile de ne point rire quelque peu de l\'aventure.
+
+« Vous plaisantez ! répétait-il.
+
+On voit bien que vous n\'avez pas un trône prêt à s\'ouvrir sous vos pieds !
+
+--- Mon cher Nick, il ne faut pas prendre cela au sérieux ! répondait M. De Vaudreuil.
+
+--- Et le moyen de le prendre autrement ?
+
+--- Ces braves gens n\'insisteront pas, quand ils auront reconnu que vous ne mettez aucun empressement à vous rendre au wigwam des Mahogannis !
+
+--- Ah ! Vous ne les connaissez guère ! s\'écriait maître Nick. Eux, ne pas insister ! Mais ils me relanceront jusqu\'à Montréal ! Ils feront des démonstrations auxquelles je ne pourrai échapper ! Ils assiégeront ma porte ! Et que dira ma vieille Dolly ? Il n\'est pas impossible que je finisse par me promener avec des mocassins aux pieds et des plumes sur la tête ! »
+
+Et l\'excellent homme, qui n\'avait guère envie de rire, finissait par partager l\'hilarité de ses auditeurs.
+
+Mais, c\'était avec son clerc qu\'il avait surtout maille à partir. Lionel -- par malice -- le traitait déjà comme s\'il eût accepté la succession du Huron défunt. Il ne l\'appelait plus maître Nick ! Fi donc ! Il ne lui parlait qu\'à la troisième personne, en usant du langage emphatique des Indiens. Et, comme il convient à tout guerrier des Prairies, il lui avait donné le choix entre les surnoms de « Corne-d\'Orignal » ou de « Lézard Subtil » -- ce qui valait bien OEil-de-Faucon ou Longue-Carabine !
+
+Vers onze heures, dans la cour de la ferme, se forma le cortège, qui devait accompagner les jeunes mariés. Ce fut vraiment bien ordonné et digne d\'inspirer un jeune poète, si la muse de Lionel ne l\'eût entraîné désormais à de plus hautes conceptions.
+
+En tête marchaient Bernard Miquelon et Rose Harcher, l\'un tenant le petit doigt de l\'autre, tous deux charmants et rayonnants.
+
+Puis, M. et Mlle de Vaudreuil à côté de Jean ; après eux, les pères et mères, frères et soeurs des mariés ; enfin, maître Nick et son clerc, escortés des membres de la députation huronne. Le notaire n\'avait pu se dérober à cet honneur. À l\'extrême regret de Lionel, il ne manquait à son patron que le costume indigène, le tatouage du torse et le coloriage de la face pour représenter dignement la lignée des Sagamores.
+
+Les cérémonies s\'accomplirent avec toute la pompe que comportait la situation de la famille Harcher dans le pays. Il y eut grandes sonneries de cloches, grand accompagnement de chants et de prières, grandes détonations d\'armes à feu. Et, dans ce bruyant concert de coups de fusils, les Hurons firent leur partie avec un à propos et un ensemble, auquel n\'eût pas manqué d\'applaudir Nathaniel Bumpoo, le célèbre ami des Mohicans.
+
+De là, le cortège revint à la ferme, processionnellement, Rose Miquelon au bras de son mari, cette fois. Aucun incident n\'avait troublé cette matinée. Chacun alors se dispersa à sa fantaisie. Peut-être, maître Nick éprouva-t-il quelque peine, lorsqu\'il voulut quitter ses frères mahoganniens pour aller respirer plus à l\'aise dans la société de ses amis de race canadienne. Et, plus piteux que jamais, il ne cessait de répéter à M. De Vaudreuil :
+
+« En vérité, je ne sais pas comment je me débarrasserai de ces sauvages ! » Entre temps, si quelqu\'un fut occupé, surmené, gourmandé, de midi à trois heures -- heure à laquelle devait être servi le repas de noces, conformément aux anciennes coutumes, -- ce fut bien Thomas Harcher. Certes, Catherine, ses fils et ses filles s\'empressèrent de lui venir en aide ! Mais les soins qu\'exigeait un festin de cette importance ne lui laissèrent pas une minute de répit.
+
+En effet, ce n\'était pas seulement une diversité d\'estomacs impérieux qu\'il s\'agissait de contenter, c\'étaient autant de goûts auxquels il fallait satisfaire. Aussi, le menu du repas comprenait-il toute la variété des mets ordinaires et extraordinaires qui composent la cuisine canadienne.
+
+Sur l\'immense table -- à laquelle cent cinquante convives allaient prendre place, -- étaient disposés autant de cuillers et de fourchettes enveloppées d\'une serviette blanche, et un gobelet de métal. Pas de couteaux, chacun devant se servir de celui qu\'il avait dans sa poche. Pas de pain, non plus, la galette sucrée d\'érable étant seule admise dans les repas de noces. Des plats, dont la nomenclature va être indiquée, les uns, froids, figuraient déjà sur la table, tandis que les autres, chauds, seraient servis tour à tour. C\'étaient des terrines de soupe bouillante, d\'où s\'échappait une vapeur parfumée ; des variétés de poissons frits ou bouillis, venus des eaux douces du Saint-Laurent et des lacs, truites, saumons, anguilles, brochets, poissons blancs, aloses, touradis et maskinongis ; des chapelets de canards, de pigeons, de cailles, de bécasses, de bécassines, et des fricassées d\'écureuils ; puis, comme pièces de résistance, des dindes, des oies, des outardes, engraissées dans la basse-cour de la ferme, les unes dorées au feu pétillant de leurs rôtissoires, les autres noyées d\'une mare de jus aux épices ; et encore, des pâtés chauds aux huîtres, des godiveaux de viandes hachées, relevés de gros oignons, des gigots de mouton à l\'eau, des échines de sanglier rôties, des agamites d\'origine indigène, des tranches de faon et de daim en grillades ; enfin, ces deux merveilles de venaison par excellence, qui devraient attirer en Canada les gourmets des deux mondes, la langue de bison, si recherchée des chasseurs des Prairies, et la bosse dudit ruminant, cuite à l\'étouffée dans sa fourrure naturelle, garnie de feuilles odorantes !
+
+Que l\'on ajoute à cette nomenclature les saucières où tremblotaient des « relishs » de vingt espèces, les montagnes de légumes, mûris aux derniers jours de l\'été indien, les pâtisseries de toutes sortes et plus particulièrement des croquecignoles ou beignets, pour la confection desquels les filles de Catherine Harcher jouissaient d\'une réputation sans égale, les fruits variés dont le jardin avait fourni toute une récolte, et, de plus, en cent flacons de formes diverses, le cidre, la bière, en attendant le vin, l\'eau-de-vie, le rhum, le genièvre, réservés aux libations du dessert.
+
+La vaste salle avait été très artistement décorée en l\'honneur de Bernard et de Rose Miquelon. De fraîches guirlandes de feuillages ornaient les murs. Quelques arbustes semblaient avoir poussé tout exprès dans les angles. Des centaines de bouquets de fleurs odorantes ornaient la baie des fenêtres. En même temps, fusils, pistolets, carabines -- toutes les armes d\'une famille où l\'on comptait tant de chasseurs -- formaient çà et là d\'étincelantes panoplies. Les jeunes époux occupaient le milieu de la table, disposée en fer à cheval, comme le sont ces chutes du Niagara, qui, à cent cinquante lieues dans le sud-ouest, précipitaient leurs étourdissantes cataractes. Et c\'étaient bien des cataractes, qui allaient s\'engouffrer dans l\'abîme de ces estomacs franco-canadiens !
+
+De chaque côté des mariés, avaient pris place M. et Mlle de Vaudreuil, Jean et ses compagnons du Champlain. En face, entre Thomas et Catherine Harcher, trônait maître Nick avec les principaux guerriers de sa tribu, désireux de voir, sans doute, comment fonctionnait leur nouveau chef. Et, à cet égard, Nicolas Sagamore se promettait de montrer un appétit digne de sa lignée. Il va sans dire que, contrairement aux traditions et pour cette circonstance exceptionnelle, les enfants avaient été admis à la grande table, entre les parents et les amis, autour desquels circulait une escouade de nègres, spécialement engagés pour ce service.
+
+À cinq heures, le premier assaut avait été donné. À six heures, il y eut une suspension d\'armes, non pour enlever les morts, mais pour donner aux vivants le temps de reprendre haleine. Ce fut alors que commencèrent les toasts portés aux jeunes époux, les speechs en l\'honneur de la famille Harcher.
+
+Puis vinrent les joyeuses chansons de noce, car, suivant l\'ancienne mode, dans toute réunion, à dîner comme à souper, dames et messieurs ont l\'habitude de chanter alternativement, surtout de vieux refrains de France. Enfin Lionel récita un gracieux épithalame, composé tout exprès pour la circonstance.
+
+« Bravo, Lionel, bravo ! » s\'écria maître Nick, qui avait noyé dans son verre les ennuis de sa souveraineté future.
+
+Au fond, le brave homme était très fier des succès de son jeune poète, et il proposa de boire à la santé du « galant lauréat de la Lyre-Amicale ! »
+
+À cette proposition, les verres furent choqués en se levant vers Lionel, heureux et confus à la fois. Aussi, crut-il ne pouvoir mieux répondre qu\'en portant ce toast :
+
+« À Nicolas Sagamore ! À cette dernière branche du noble tronc auquel le Grand-Esprit a voulu suspendre les destinées de la nation huronne ! »
+
+Les applaudissements détonnèrent. Les Mahogannis s\'étaient redressés autour de la table, brandissant leurs tomahawks, avec autant de fougue que s\'ils eussent été prêts à s\'élancer contre les Iroquois, les Mungos ou toute autre tribu ennemie du Far-West. Maître Nick, avec sa bonne figure placide, paraissait bien pacifique pour de si belliqueux guerriers ! En vérité, cet étourdi de Lionel aurait mieux fait de se taire.
+
+Lorsque l\'effervescence fut calmée, on s\'attaqua au second service avec un nouvel entrain.
+
+Du moins, au milieu de ces bruyantes manifestations, Jean, Clary de Vaudreuil et son père avaient eu toute facilité pour s\'entretenir à voix basse. C\'était dans la soirée qu\'ils allaient se séparer. Si M. et Mlle de Vaudreuil ne devaient prendre congé de leurs hôtes que le lendemain, Jean avait résolu de partir dès la nuit venue, afin de chercher une retraite plus sûre hors de la ferme de Chipogan.
+
+« Et pourtant, lui fit observer M. De Vaudreuil, comment la police s\'aviserait-elle de chercher Jean-Sans-Nom parmi les membres de la famille de Thomas Harcher ?
+
+--- Qui sait si ses agents ne sont pas sur mes traces ? répondit Jean, comme s\'il eût été pris d\'un pressentiment. Et, si cela arrivait, lorsque le fermier et ses fils apprendraient qui je suis\...
+
+--- Ils vous défendraient, répondit vivement Clary, ils se feraient tuer pour vous !
+
+--- Je le sais, dit Jean, et alors, pour prix de l\'hospitalité qu\'ils m\'ont donnée, je laisserais après moi la ruine et le malheur ! Thomas Harcher et ses enfants, contraints de s\'enfuir pour avoir pris ma défense ! Et jusqu\'où n\'iraient pas les représailles ! Aussi, ai-je hâte d\'avoir quitté la ferme !
+
+--- Pourquoi ne reviendriez-vous pas secrètement à la villa Montcalm ? dit alors M. De Vaudreuil. Les risques que vous voulez épargner à Thomas Harcher, n\'est-il pas de mon devoir de m\'y exposer, et je suis prêt à le remplir ! Dans mon habitation, le secret de votre retraite sera bien gardé !
+
+--- Cette proposition, monsieur de Vaudreuil, répondit Jean, mademoiselle votre fille me l\'a déjà faite en votre nom, mais j\'ai dû refuser.
+
+--- Cependant, reprit M. De Vaudreuil en insistant, ce serait très utile pour les dernières mesures que vous avez à prendre. Vous pourriez chaque jour communiquer avec les membres du comité. À l\'heure du soulèvement, Farran, Clerc, Vincent Hodge, moi, nous serions prêts à vous suivre. N\'est-il pas probable que le premier mouvement se produira dans le comté de Montréal ?
+
+--- C\'est probable, en effet, répondit Jean, ou tout au moins dans un des comtés voisins, suivant les positions qui seront occupées par les troupes royales.
+
+--- Eh bien, dit Clary, pourquoi ne pas accepter la proposition de mon père ? Votre intention est-elle donc de parcourir encore les paroisses du district ? N\'avez-vous point achevé votre campagne de propagande ?
+
+--- Elle est achevée, répondit Jean ; je n\'ai plus qu\'à donner le signal\...
+
+--- Qu\'attendez-vous donc pour le faire ? demanda alors M. De Vaudreuil.
+
+--- J\'attends une circonstance, qui achèvera d\'exaspérer les patriotes contre la tyrannie anglo-saxonne, répliqua Jean, et cette circonstance se présentera prochainement. Ainsi, dans quelques jours, les députés de l\'opposition vont refuser au gouverneur général le droit qu\'il prétend avoir de disposer des revenus publics, sans l\'autorisation de la Chambre. En outre, je sais de source certaine que le Parlement anglais a l\'intention d\'adopter une loi qui permettrait à lord Gosford de suspendre la constitution de 1791. Dès lors, les Canadiens français ne trouveraient plus aucune garantie dans le régime représentatif attribué à la colonie, et qui, pourtant, leur laisse si peu de liberté d\'action ! Nos amis, et avec eux les députés libéraux, tenteront de résister à cet excès de pouvoir.
+
+Très probablement, lord Gosford, pour mettre un frein aux revendications des réformistes, prendra un arrêté de dissolution, ou tout au moins de prorogation de la Chambre. Ce jour-là, le pays se soulèvera, et nous n\'aurons plus qu\'à le diriger.
+
+--- Vous avez raison, répondit M. De Vaudreuil, il n\'est pas douteux qu\'une telle provocation de la part des loyalistes amènerait la révolte générale. Mais le Parlement anglais osera-t-il aller jusque-là ? Et, si cet attentat contre les droits des Franco-Canadiens se produit, êtes-vous assuré que ce sera bientôt ?
+
+--- Dans quelques jours, dit Jean. Sébastien Gramont m\'en a avisé.
+
+--- Et, jusque-là, demanda Clary, comment ferez-vous pour échapper\... -- Je saurai dépister les agents.
+
+--- Avez-vous donc en vue un refuge ?
+
+--- J\'en ai un.
+
+--- Vous y serez en sûreté ?
+
+--- Plus que partout ailleurs.
+
+--- Loin d\'ici ?
+
+--- À Saint-Charles, dans le comté de Verchères.
+
+--- Soit, dit M. De Vaudreuil. Personne ne peut être meilleur juge que vous de ce qu\'exigent les circonstances. Si vous pensez devoir tenir absolument secret le lieu de votre retraite, nous n\'insisterons pas. Mais n\'oubliez pas qu\'à toute heure de jour ou de nuit, la villa Montcalm vous est ouverte.
+
+--- Je le sais, monsieur de Vaudreuil, répondit Jean, et je vous en remercie. » Il va de soi qu\'au milieu des exclamations incessantes des convives, du tumulte croissant de la salle, personne n\'avait rien pu entendre de cette conversation, qui avait lieu à voix basse.
+
+Parfois, elle avait été interrompue par quelque toast plus bruyant, par une éclatante répartie, par un joyeux refrain à l\'adresse des jeunes époux. Et, en ce moment, il semblait qu\'elle dût prendre fin, après les dernières paroles échangées entre Jean et M. De Vaudreuil, lorsqu\'une question de Clary amena une réponse de nature à surprendre son père et elle-même.
+
+À quel sentiment obéissait la jeune fille en faisant cette question ? Était-ce, sinon un soupçon, du moins un regret de ce que Jean parût décidé à se tenir encore dans une certaine réserve ? Cela devait être, puisqu\'elle lui dit :
+
+« Il y a donc quelque part, pour vous donner asile, une maison plus hospitalière que la nôtre ?
+
+--- Plus hospitalière ? Non, mais autant, répondit Jean, non sans émotion. -- Et laquelle ?
+
+--- La maison de ma mère ! »
+
+Jean prononça ces paroles avec un tel sentiment d\'affection filiale que Mlle de Vaudreuil en fut profondément attendrie. C\'était la première fois que Jean, dont le passé était si mystérieux, faisait une allusion à sa famille. Il n\'était donc pas seul au monde, ainsi que ses amis pouvaient le croire. Il avait une mère, qui vivait secrètement dans cette bourgade de Saint-Charles. Sans doute, Jean allait la voir quelquefois. La maison maternelle lui était ouverte, lorsqu\'il lui fallait un peu de tranquillité et de repos ! Et, actuellement, c\'était là qu\'il irait attendre l\'heure de se jeter dans la lutte !
+
+Clary n\'avait rien répondu. Sa pensée l\'entraînait vers cette maison lointaine. Ah ! Quelle joie c\'eût été pour elle de connaître la mère du jeune proscrit ! Elle en faisait une femme héroïque, comme son fils, une patriote qu\'elle aurait aimée, qu\'elle aimait déjà.
+
+Certainement, elle la verrait un jour. Sa vie n\'était-elle pas indissolublement liée désormais à celle de Jean-Sans-Nom, et qui pourrait jamais rompre ce lien ? Oui ! Au moment de se séparer de lui, pour toujours peut-être, elle sentait la puissance du sentiment qui les rattachait l\'un à l\'autre !
+
+Cependant, le repas touchait à sa fin, et la gaieté des convives, surexcités par les libations du dessert, se propageait sous mille formes. Des compliments aux mariés partaient des divers côtés de la table. C\'était un tumulte des plus joyeux, duquel s\'échappaient parfois ces cris :
+
+« Honneur et bonheur aux jeunes époux !
+
+--- Vivent Bernard et Rose Miquelon ! »
+
+Et l\'on portait aussi la santé de M. et de Mlle de Vaudreuil, la santé de Catherine et de Thomas Harcher.
+
+Maître Nick avait grandement fait accueil au repas. S\'il n\'avait pu conserver la dignité froide d\'un Mahoganni, c\'est que, véritablement, c\'était absolument contraire à sa nature ouverte et communicative. Mais, il faut le dire, les représentants de sa tribu, eux aussi, s\'étaient quelque peu départis de leur gravité atavique sous l\'influence de la bonne chère et du bon vin. Ils choquaient leurs verres, à la mode française, pour saluer la famille Harcher, dont ils étaient les hôtes d\'un jour.
+
+Au dessert, Lionel, qui ne pouvait tenir en place, circulait autour de la table avec un compliment à l\'adresse de chaque convive. C\'est alors qu\'il lui vint à l\'idée de s\'adresser à maître Nick d\'une voix redondante :
+
+« Nicolas Sagamore ne prononcera-t-il pas quelques paroles au nom de la tribu des Mahogannis ! »
+
+Dans l\'heureuse disposition d\'esprit où il se trouvait, maître Nick ne reçut point mal la proposition de son jeune clerc, bien que celui-ci eût employé le langage emphatique des Indiens.
+
+« Tu penses, Lionel ? répondit-il.
+
+--- Je pense, grand chef, que l\'instant est venu de prendre la parole pour féliciter les jeunes époux !
+
+--- Puisque tu crois que c\'est l\'instant, répondit maître Nick, je vais essayer ! »
+
+Et l\'excellent homme, se levant, réclama le silence par un geste empreint de dignité huronne.
+
+Le silence se fit aussitôt.
+
+« Jeunes époux, dit-il, un vieil ami de votre famille ne peut vous quitter, sans exprimer sa reconnaissance pour\... »
+
+Soudain maître Nick s\'arrêta. La phrase commencée resta suspendue à ses lèvres. Ses regards étonnés s\'étaient dirigés vers la porte de la grande salle. Un homme se tenait sur le seuil, sans que personne eût remarqué son arrivée.
+
+Cet homme, maître Nick venait de le reconnaître, et il s\'écriait avec un accent où la surprise se mêlait à l\'inquiétude :
+
+« Monsieur Rip ! »
+
+
+]{.calibre20}
+
+
+FAMILLE SANS NOM
+
+Première partie
+
+
+]{.calibre20}
+
+### [[Chapitre 13 -- Coups de fusils au dessert]{.pcalibre lang="X-NONE"}]{#_Toc342942152 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-13-coups-de-fusils-au-dessert .calibre171 .sigil_not_in_toc}
+
+Le chef de la maison Rip and Co, cette fois, n\'était pas suivi de son propre personnel.
+
+Au dehors allaient et venaient une dizaine d\'agents de Gilbert Argall, accompagnés d\'une quarantaine de volontaires royaux, qui occupaient la principale entrée de la cour. Très probablement, la maison était cernée. S\'agissait-il donc d\'une simple visite domiciliaire, ou était-ce une arrestation qui menaçait le chef de la famille Harcher ?
+
+En tout cas, il avait fallu un motif d\'une gravité exceptionnelle, pour que le ministre de la police eût jugé nécessaire d\'envoyer une escouade aussi nombreuse à la ferme de Chipogan.
+
+Au nom de Rip, prononcé par le notaire, M. et Mlle de Vaudreuil se sentirent terrifiés. Eux savaient que Jean-Sans-Nom était dans cette salle. Ils savaient que c\'était plus particulièrement à Rip qu\'avait été donné le mandat de diriger les recherches contre lui. Et que pouvaient-ils penser, sinon que Rip, ayant enfin découvert sa retraite, venait procéder à son arrestation ? Si Jean tombait entre les mains de Gilbert Argall, il était perdu.
+
+Se contenant par un suprême effort de volonté, Jean n\'avait même pas tressailli. C\'est à peine si la pâleur de sa figure s\'était accentuée. Aucun mouvement, même involontaire, n\'avait pu le trahir. Et, pourtant, il venait de reconnaître Rip, avec lequel il s\'était déjà rencontré, le jour où le stage le transportait avec maître Nick et Lionel de Montréal à l\'île Jésus ! Rip, l\'agent lancé à sa poursuite depuis plus de deux mois ! Rip, le provocateur, qui avait causé l\'infamie de sa famille, en poussant à la trahison son père Simon Morgaz !
+
+Malgré tout, il garda son sang-froid, il ne laissa rien paraître de la haine qui bouillonnait en lui, tandis que M. De Vaudreuil et sa fille tremblaient à ses côtés.
+
+Cependant, si Jean connaissait Rip, Rip ne le connaissait pas. Il ignorait que le voyageur qu\'il avait entrevu un instant sur la route de Montréal, fût le patriote dont la tête était mise à prix. Ce qu\'il savait, c\'était que Jean-Sans-Nom devait être à la ferme de Chipogan, et voici comment il avait pu retrouver sa trace.
+
+Quelques jours avant, le jeune proscrit, rencontré à cinq ou six lieues de Saint-Charles, après avoir quitté Maison-Close, avait été signalé à sa sortie du comté de Verchères pour être un étranger suspect. S\'apercevant que l\'éveil était donné, il avait dû s\'enfuir à l\'intérieur du comté, et, non sans avoir failli à plusieurs reprises tomber entre les mains de la police, il était parvenu à se réfugier dans la ferme de Thomas Harcher.
+
+Mais les agents de la maison Rip n\'avaient point perdu sa piste comme il le croyait, et ils avaient eu bientôt la quasi-certitude que la ferme de Chipogan lui donnait asile. Rip fut aussitôt prévenu. Sachant, non seulement que cette ferme appartenait à M. De Vaudreuil, mais que celui-ci y était actuellement, il ne douta plus que l\'étranger qui s\'y trouvait fût Jean-Sans-Nom. Après avoir donné ordre à quelques-uns de ses hommes de se mêler aux nombreux invités de Thomas Harcher, il fit son rapport à Gilbert Argall, qui mit une escouade de police à sa disposition ainsi qu\'un détachement des volontaires de Montréal.
+
+Voilà dans quelles conditions Rip venait d\'arriver sur le seuil de la porte, tenant pour certain que Jean-Sans-Nom était au nombre des hôtes du fermier de Chipogan.
+
+Il était cinq heures du soir.
+
+Bien que les lampes ne fussent pas allumées, il faisait encore jour à l\'intérieur. En un instant, Rip avait parcouru l\'assistance du regard, sans que Jean eût attiré son attention plus spécialement que les autres convives réunis dans la salle.
+
+Cependant, Thomas Harcher, voyant la cour occupée par une troupe d\'hommes, venait de se lever, et s\'adressant à Rip :
+
+« Qui êtes-vous ? lui demanda-t-il.
+
+--- Un agent, chargé d\'une mission du ministre de la police, répondit Rip. -- Que venez-vous faire ici ?
+
+--- Vous allez le savoir. -- N\'êtes-vous point Thomas Harcher de Chipogan, fermier de M. De Vaudreuil ?
+
+--- Oui, et je vous demande de quel droit vous avez envahi ma maison ?
+
+--- Conformément au mandat qui m\'a été donné, je viens procéder à une arrestation.
+
+--- Une arrestation\... S\'écria le fermier, une arrestation chez moi ! Et qui venez-vous y arrêter ?
+
+--- Un homme dont la tête a été mise à prix par décret du gouverneur général, et qui est ici !
+
+--- Il se nomme ?
+
+--- Il se nomme, répondit Rip d\'une voix forte, ou plutôt il se fait appeler Jean-Sans-Nom ! »
+
+Cette réponse fut suivie d\'un long murmure. Quoi ! C\'était Jean-Sans-Nom que Rip venait arrêter, et il affirmait qu\'il se trouvait à la ferme de Chipogan !
+
+L\'attitude du fermier, de sa femme, de ses enfants, de tous ses hôtes, fut si naturellement celle d\'une stupéfaction profonde que Rip put croire à une erreur de ses agents égarés sur une fausse piste.
+
+Néanmoins, il réitéra sa demande, et, cette fois, d\'une façon encore plus affirmative.
+
+« Thomas Harcher, reprit-il, l\'homme que je cherche est ici, et je vous somme de le livrer ! »
+
+À ces mots, Thomas Harcher regarda sa femme, et Catherine, lui saisissant le bras, s\'écria :
+
+« Mais réponds donc à ce qu\'on te demande !
+
+--- Oui, Thomas, répondez ! ajouta maître Nick. Il me semble que la réponse est facile !
+
+--- Très facile, en effet ! » dit le fermier.
+
+Et, se retournant vers Rip :
+
+« Jean-Sans-Nom que vous cherchez, dit-il, n\'est pas à la ferme de Chipogan.
+
+--- Et moi, j\'affirme qu\'il y est, Thomas Harcher, répondit froidement Rip.
+
+--- Non, vous dis-je, il n\'y est pas ! Il n\'a jamais paru ici ! Je ne le connais même pas ! Mais j\'ajoute que s\'il était venu me demander asile, je l\'aurais reçu, et que s\'il était chez moi, je ne le livrerais pas ! »
+
+Aux démonstrations significatives qui accueillirent la déclaration du fermier, Rip ne pouvait se tromper. Thomas Harcher s\'était fait l\'interprète des sentiments de toute l\'assistance. En admettant que Jean-Sans-Nom se fût réfugié à la ferme, pas un seul de ses hôtes n\'aurait eu la lâcheté de le trahir.
+
+Jean, toujours impassible, écoutait. M. De Vaudreuil et Clary n\'osaient même plus le regarder, par crainte d\'attirer sur lui l\'attention de Rip.
+
+« Thomas Harcher, reprit celui-ci, vous n\'ignorez pas, sans doute, qu\'une proclamation, en date du 3 septembre 1837, offre une prime de six mille piastres à quiconque arrêtera Jean-Sans-Nom ou fera connaître sa retraite ? -- Je ne l\'ignore pas, répondit le fermier, et nul ne l\'ignore en Canada.
+
+Mais il ne s\'est pas trouvé jusqu\'ici un seul Canadien assez misérable pour accomplir une si odieuse trahison\... Et il ne s\'en trouvera jamais !
+
+--- Bien dit, Thomas ! » s\'écria Catherine, à laquelle ses enfants et ses amis se joignirent.
+
+Rip ne se démonta pas.
+
+« Thomas Harcher, reprit-il, si vous connaissez la proclamation du 3 septembre 1837, peut-être ne connaissez-vous pas le nouvel arrêté que le gouverneur général vient de prendre hier, à la date du 6 octobre ?
+
+--- C\'est vrai, je ne le connais pas, répondit le fermier, et, s\'il est du genre de l\'autre, s\'il provoque à la délation, vous pouvez vous dispenser de le faire connaître !
+
+--- Vous l\'entendrez pourtant ! » répliqua Rip.
+
+Et, déployant un papier contresigné de Gilbert Argall, il lut ce qui suit :
+
+« Est enjoint à tout habitant des villes et des campagnes canadiennes de refuser aide et protection au proscrit Jean-Sans-Nom. Peine de mort pour quiconque lui aura donné asile. »
+
+« Par le gouverneur général,
+
+« Le Ministre de la Police,
+
+Gilbert Argall. »
+
+Ainsi, le gouvernement anglais avait osé aller jusqu\'à de tels moyens ! Après avoir mis à prix la tête de Jean-Sans-Nom, il prononçait maintenant la peine capitale contre quiconque lui aurait donné ou lui donnerait asile ! Cet acte inqualifiable entraîna les protestations les plus violentes de la part des assistants.
+
+Thomas Harcher, ses fils, ses invités, quittaient déjà leur place pour se jeter sur Rip, pour le chasser de la ferme avec son escouade d\'agents et de volontaires, lorsque maître Nick les arrêta d\'un geste.
+
+La figure du notaire était devenue grave. À l\'égal de tous les patriotes réunis dans cette salle, il éprouvait cette horreur si naturelle que devait inspirer l\'arrêté de lord Gosford, dont Rip venait de donner communication.
+
+« Monsieur Rip, dit-il, celui que vous cherchez n\'est point à la ferme de Chipogan. Thomas Harcher vous en a donné l\'assurance, et je vous la réitère à mon tour. Vous n\'avez donc que faire ici, et vous auriez mieux fait de garder en poche ce regrettable document. Croyez-moi, monsieur Rip, vous seriez bien avisé en ne nous imposant pas plus longtemps votre présence !
+
+--- Bien, Nicolas Sagamore ! s\'écria Lionel.
+
+--- Oui ! Retirez-vous\... À l\'instant ! reprit le fermier, dont la voix tremblait de colère. Jean-Sans-Nom n\'est pas ici ! Mais qu\'il vienne me demander asile, et, malgré les menaces du gouverneur, je le recevrai\... Maintenant, sortez de chez moi ! Sortez !
+
+--- Oui ! Oui ! Sortez ! répéta Lionel, dont maître Nick eût vainement essayé de calmer l\'exaspération.
+
+--- Prenez garde, Thomas Harcher ! répondit Rip. Vous n\'aurez pas raison contre la loi ni contre la force qui est chargée de l\'appuyer ! Agents ou volontaires, j\'ai cinquante hommes avec moi\... Votre maison est cernée\...
+
+--- Sortez ! Sortez ! »
+
+Et ces cris s\'élevaient unanimement, en même temps que des menaces directes contre Rip.
+
+« Je ne sortirai qu\'après avoir constaté l\'identité de toutes les personnes présentes ! » répondit Rip.
+
+Sur un signe de lui, les agents, groupés dans la cour, se rapprochèrent de la porte, prêts à pénétrer dans la salle. À travers les fenêtres, M. et Mlle de Vaudreuil apercevaient les volontaires, disposés autour de la maison.
+
+En prévision d\'une collision imminente, les enfants et les femmes, à l\'exception de Mlle de Vaudreuil et de Catherine, venaient de se retirer dans les chambres voisines. Pierre Harcher, ses frères et ses amis, avaient décroché leurs armes suspendues aux murs. Et, pourtant, si inférieurs par le nombre, comment pourraient-ils empêcher Rip d\'accomplir son mandat ?
+
+Aussi M. De Vaudreuil, allant de fenêtre en fenêtre, cherchait à voir si Jean aurait la possibilité de s\'échapper par les derrières de la ferme, en se jetant à travers le jardin. Mais, de ce côté non moins que de l\'autre, la fuite était impraticable.
+
+Au milieu de ce tumulte, Jean restait immobile près de Clary, qui n\'avait pas voulu s\'éloigner.
+
+Maître Nick tenta alors un dernier effort de conciliation, au moment où les agents allaient envahir la salle.
+
+« Monsieur Rip, monsieur Rip, dit-il, vous allez faire verser du sang, et bien inutilement, je vous assure ! Je vous le répète, je vous en donne ma parole ! Jean-Sans-Nom, que vous avez mandat d\'arrêter, n\'est point à la ferme\...
+
+--- Et il y serait, je vous le répète, que nous le défendrions jusqu\'à la mort ! s\'écria Thomas Harcher.
+
+--- Bien ! Bien ! s\'écria Catherine, enthousiasmée par l\'attitude de son mari.
+
+--- Ne vous mêlez pas de cette affaire, monsieur Nick ! répondit Rip.
+
+Cela ne vous regarde pas, et vous auriez à vous en repentir plus tard ! Je ferai mon devoir, quoi qu\'il puisse arriver ! Maintenant, place ! Place ! »
+
+Une dizaine d\'agents s\'engagèrent dans la salle, tandis que Thomas Harcher et ses fils s\'élançaient contre eux, afin de les repousser et de fermer la porte.
+
+Et, se démenant toujours, maître Nick répétait, sans parvenir à se faire entendre :
+
+« Jean-Sans-Nom n\'est pas ici, monsieur Rip, je vous affirme qu\'il n\'y est pas\...
+
+--- Il y est ! » dit une voix forte, qui domina le tumulte.
+
+Tous s\'arrêtèrent.
+
+Jean, immobile, les bras croisés, regardant Rip en face, reprit simplement : « Jean-Sans-Nom est ici, et c\'est moi ! »
+
+M. De Vaudreuil avait saisi le bras du jeune patriote, pendant que Thomas Harcher et les autres, s\'écriaient :
+
+« Lui ! Lui ! Jean-Sans-Nom ! »
+
+Jean indiqua d\'un geste qu\'il voulait prendre la parole. Un profond silence s\'établit. « Je suis celui que vous cherchez, dit-il en s\'adressant à Rip. Je suis Jean-Sans-Nom. »
+
+Se retournant aussitôt vers le fermier et ses fils :
+
+« Pardon, Thomas Harcher, pardon, mes braves compagnons, ajouta-t-il, si je vous ai caché qui j\'étais, et merci pour l\'hospitalité que j\'ai trouvée depuis cinq ans à la ferme de Chipogan. Mais, cette hospitalité que j\'avais acceptée, tant qu\'elle ne créait pas un danger pour vous, je n\'en voudrais plus à présent qu\'il y va de la vie pour quiconque me donnerait refuge !
+
+Oui, merci de la part de celui qui ne fut ici que votre fils adoptif, et qui est Jean-Sans-Nom pour son pays ! »
+
+Un indescriptible mouvement d\'enthousiasme accueillit cette déclaration.
+
+« Vive Jean-Sans-Nom ! Vive Jean-Sans-Nom ! » cria-t-on de toutes parts.
+
+Puis, lorsque les cris eurent cessé :
+
+« Eh bien, reprit Thomas Harcher, puisque j\'ai dit que nous défendrions Jean-Sans-Nom, défendons-le, mes fils ! Défendons-le jusqu\'à la mort ? »
+
+Jean voulut en vain s\'interposer, afin d\'empêcher une lutte par trop inégale. On ne l\'écouta pas. Pierre et les aînés se jetèrent sur les agents, qui obstruaient le seuil, et ils les repoussèrent avec l\'aide de leurs amis. La porte fut aussitôt refermée et barricadée de gros meubles. Pour s\'introduire dans la salle, et même dans la maison, il faudrait pénétrer par les fenêtres, qui s\'ouvraient à une dizaine de pieds au-dessus du sol.
+
+C\'était donc un assaut à donner -- et dans l\'obscurité, car la nuit commençait à se faire. Rip, qui n\'était point homme à reculer, ayant d\'ailleurs pour lui le nombre, prit ses mesures pour exécuter son mandat en lançant les volontaires contre la maison.
+
+Pierre Harcher, ses frères et ses compagnons, postés aux fenêtres, se tinrent prêts à engager le feu.
+
+« Nous te défendrons, malgré toi, s\'il le faut ! » disaient-ils à Jean, qui n\'était plus maître de les arrêter.
+
+Au dernier moment, le fermier avait obtenu de Clary de Vaudreuil et de Catherine qu\'elles rejoindraient les autres femmes et les enfants dans une des chambres latérales, où elles seraient à l\'abri des coups de fusils.
+
+Il ne restait donc plus dans la salle que les hommes en état de se battre -- une trentaine en tout.
+
+En effet, il ne fallait point compter les Mahogannis parmi les défenseurs de la ferme. Indifférents à cette scène, ces Indiens ne s\'étaient point départis de leur réserve habituelle. Cette affaire ne les regardait pas -- non plus que maître Nick et son clerc, qui n\'avaient point à prendre parti pour ou contre l\'autorité. De même, ce que le notaire entendait conserver dans cette échauffourée, c\'était une neutralité absolue. Tout en se gardant de recevoir aucun coup, puisqu\'il était résolu à n\'en point rendre, il ne cessait donc d\'interpeller Lionel, qui jetait feu et flamme. Bah ! Le jeune clerc ne l\'écoutait guère, excité qu\'il était à défendre dans Jean-Sans-Nom, non seulement le héros populaire, mais aussi le sympathique auditeur, qui avait fait si bon accueil à ses essais poétiques.
+
+« Pour la dernière fois, je t\'interdis de te mêler de cela ! répéta maître Nick. -- Et pour la dernière fois, répondait Lionel, je m\'étonne qu\'un descendant des Sagamores refuse de me suivre sur les sentiers de la guerre !
+
+--- Je ne suivrai aucun sentier, si ce n\'est celui de la paix, maudit garçon, et tu vas me faire le plaisir de quitter cette salle, où tu n\'as que quelque mauvais coup à recevoir.
+
+--- Jamais ! » s\'écria le belliqueux poète.
+
+Et s\'élançant vers l\'un des Mahogannis, il saisit la hache qui pendait à la ceinture de celui-ci.
+
+De son côté, dès qu\'il vit ses compagnons absolument décidés à repousser la force par la force, Jean prit le parti d\'organiser la résistance.
+
+Pendant la collision, peut-être parviendrait-il à s\'échapper, et, désormais, quoi qu\'il pût arriver, le fermier et les siens, en rébellion ouverte avec les agents de l\'autorité, ne seraient pas plus compromis qu\'ils ne l\'étaient déjà. Il s\'agissait tout d\'abord de repousser Rip et son escorte. On verrait ensuite ce qu\'il conviendrait de faire. Si les assaillants essayaient de briser les portes de la maison, cela demanderait du temps. Et, avant qu\'ils eussent reçu des renforts de Laprairie ou de Montréal, agents et volontaires pouvaient être rejetés hors de la cour.
+
+Pour cela, Jean se résolut à faire une sortie qui dégageât les approches de la ferme.
+
+Les dispositions furent prises en conséquence. Au début, une vingtaine de coups de feu éclatèrent à travers les fenêtres de la façade, -- ce qui obligea Rip et ses hommes à reculer le long des palissades. La porte ayant alors été rapidement ouverte, Jean, suivi de M. De Vaudreuil, de Thomas Harcher, de Pierre, de ses frères et de leurs amis, se précipita dans la cour.
+
+Quelques volontaires gisaient déjà sur le sol. Il y eut bientôt aussi des blessés parmi les défenseurs, qui, au milieu d\'une demi-obscurité, s\'étaient élancés sur les assiégeants. Une lutte corps à corps s\'engagea, à laquelle Rip prit très bravement part. Toutefois, ses hommes commençaient à perdre du terrain. Si l\'on parvenait à les repousser hors de la cour et à fermer la grande porte, ils ne pourraient que très difficilement franchir les hautes palissades de la ferme.
+
+C\'est à cela que tendirent tous les efforts de Jean, bien secondé par ses braves compagnons. Peut-être alors, les abords de Chipogan étant dégagés, lui serait-il possible de s\'enfuir à travers la campagne, et, s\'il le fallait, au-delà de la frontière canadienne, en attendant l\'heure de reparaître à la tête des insurgés.
+
+Il va sans dire que si Lionel s\'était intrépidement mêlé au groupe des combattants, maître Nick n\'avait pas voulu quitter la salle. Très décidé à conserver la plus stricte neutralité, il n\'en faisait pas moins des voeux pour Jean-Sans-Nom et pour tous ses défenseurs, parmi lesquels il comptait tant d\'amis personnels.
+
+Malheureusement, en dépit de tout leur courage, les habitants de la ferme ne purent l\'emporter contre le nombre des agents et des volontaires, qui parvinrent à reprendre l\'avantage. Ils durent rétrograder peu à peu vers la maison, puis y chercher refuge. La salle ne tarderait pas à être envahie. Toute issue serait coupée, et Jean-Sans-Nom n\'aurait plus qu\'à se rendre.
+
+En réalité, les forces des assiégés diminuaient sensiblement. Déjà, deux des aînés de Thomas Harcher, Michel et Jacques, ainsi que trois ou quatre autres de leurs compagnons, avaient dû être transportés dans une des chambres contiguës, où Clary de Vaudreuil, Catherine et les autres femmes leur donnaient des soins.
+
+La partie était perdue, si un renfort inespéré n\'arrivait pas à Jean-Sans-Nom et à ses compagnons, d\'autant plus que les munitions allaient bientôt leur manquer.
+
+Soudain un revirement se produisit.
+
+Lionel venait de se précipiter dans la salle, couvert de sang par suite d\'une blessure, peu grave heureusement, qui lui avait déchiré l\'épaule.
+
+Maître Nick l\'aperçut.
+
+« Lionel ! Lionel ! s\'écria-t-il. Tu n\'as pas voulu m\'écouter ! Insupportable enfant ! »
+
+Et saisissant son jeune clerc par le bras, il voulut l\'entraîner dans la chambre des blessés.
+
+Lionel s\'y refusa.
+
+« Ce n\'est rien ! Ce n\'est rien ! dit-il. Mais, Nicolas Sagamore, laisserez-vous vos amis succomber, quand vos guerriers n\'attendent qu\'un mot pour les secourir !
+
+--- Non ! Non ! s\'écria maître Nick ! Je n\'en ai pas le droit ! m\'insurger contre les autorités régulières ! »
+
+Et, en même temps, voulant tenter un suprême effort, il se jeta au milieu des combattants pour les arrêter par ses objurgations.
+
+Cela ne lui réussit point. Il fut aussitôt enveloppé par les agents, qui ne lui épargnèrent pas les bourrades, et rudement emporté au milieu de la cour. C\'en était trop pour les guerriers mahogannis, dont les instincts belliqueux ne purent souffrir un tel attentat. Leur grand chef arrêté, maltraité ! Un Sagamore aux mains de ses ennemis, les Visages-Pâles !
+
+Il n\'en fallut pas davantage, et le cri de guerre de la tribu retentit dans la mêlée.
+
+« En avant ! En avant, Hurons ! » hurla Lionel, qui ne se possédait plus.
+
+L\'intervention des Indiens vint brusquement changer la face des choses. La hache à la main, ils se précipitèrent sur les assaillants. Ceux-ci, épuisés par une lutte qui durait depuis une heure, reculèrent à leur tour. Jean-Sans-Nom, Thomas Harcher et leurs amis sentirent qu\'un dernier effort permettrait de rejeter Rip et sa bande hors de l\'enceinte. Ils reprirent l\'offensive. Les Hurons les y aidèrent vivement, après avoir délivré maître Nick, qui se surprit à les encourager de sa voix sinon de son bras, encore inhabile à manier le tomahawk de ses ancêtres.
+
+Et voilà comment un notaire de Montréal, le plus pacifique des hommes, fut compromis pour avoir défendu une cause, qui ne regardait ni les Mahogannis ni leur chef.
+
+Agents et volontaires furent bientôt contraints de repasser la porte de la cour, et, comme les Indiens les poursuivirent pendant un mille au-delà, les environs de la ferme de Chipogan furent entièrement dégagés.
+
+Mauvaise affaire, décidément, et qui figurerait avec perte dans le prochain bilan de la maison Rip and Co !
+
+Ce jour-là, force n\'était point restée à la loi, mais au patriotisme.

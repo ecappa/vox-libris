@@ -1,0 +1,3585 @@
+[
+]{.calibre20}
+
+## []{#_Toc349730791 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349730444 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729901 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349729516 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728973 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728588 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728045 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727458 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727073 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726530 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726145 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725798 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725451 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349725104 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349724757 .pcalibre .pcalibre4 .pcalibre3}[Première partie -- Les naufragés de l'air]{#_Toc349724214 .pcalibre .pcalibre4 .pcalibre3} {#calibre_toc_131 .calibre21}
+
+!{.calibre22}
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729902 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728974 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728046 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727459 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726531 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724215 .pcalibre .pcalibre4 .pcalibre3} *1* {#chapitre-1 .calibre171 .sigil_not_in_toc}
+
+L'ouragan de 1865. -- Cris dans les airs. -- Un ballon emporté dans une trombe. -- L'enveloppe déchirée. -- Rien que la mer en vue. -- Cinq passagers. -- Ce qui se passe dans la nacelle. -- Une côte à l'horizon. -- Le dénouement du drame.
+
+
+« Remontons-nous ?
+
+--- Non ! Au contraire ! Nous descendons !
+
+--- Pis que cela, monsieur Cyrus ! Nous tombons !
+
+--- Pour Dieu ! Jetez du lest !
+
+--- Voilà le dernier sac vidé !
+
+--- Le ballon se relève-t-il ?
+
+--- Non !
+
+--- J'entends comme un clapotement de vagues !
+
+--- La mer est sous la nacelle !
+
+--- Elle ne doit pas être à cinq cents pieds de nous ! »
+
+Alors une voix puissante déchira l'air, et ces mots retentirent :
+
+« Dehors tout ce qui pèse !\... tout ! et à la grâce de Dieu ! »
+
+Telles sont les paroles qui éclataient en l'air, au-dessus de ce vaste désert d'eau du Pacifique, vers quatre heures du soir, dans la journée du 23 mars 1865.
+
+Personne n'a sans doute oublié le terrible coup de vent de nord-est qui se déchaîna au milieu de l'équinoxe de cette année, et pendant lequel le baromètre tomba à sept cent dix millimètres. Ce fut un ouragan, sans intermittence, qui dura du 18 au 26 mars. Les ravages qu'il produisit furent immenses en Amérique, en Europe, en Asie, sur une zone large de dix-huit cents milles, qui se dessinait obliquement à l'équateur, depuis le trente-cinquième parallèle nord jusqu'au quarantième parallèle sud ! Villes renversées, forêts déracinées, rivages dévastés par des montagnes d'eau qui se précipitaient comme des mascarets, navires jetés à la côte, que les relevés du *Bureau-Veritas* chiffrèrent par centaines, territoires entiers nivelés par des trombes qui broyaient tout sur leur passage, plusieurs milliers de personnes écrasées sur terre ou englouties en mer : tels furent les témoignages de sa fureur, qui furent laissés après lui par ce formidable ouragan. Il dépassait en désastres ceux qui ravagèrent si épouvantablement la Havane et la Guadeloupe, l'un le 25 octobre 1810, l'autre le 26 juillet 1825.
+
+Or, au moment même où tant de catastrophes s'accomplissaient sur terre et sur mer, un drame, non moins saisissant, se jouait dans les airs bouleversés.
+
+En effet, un ballon, porté comme une boule au sommet d'une trombe, et pris dans le mouvement giratoire de la colonne d'air, parcourait l'espace avec une vitesse de quatre-vingt-dix milles[[\[1\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn1011){#_ftnref1011 .pcalibre4 .pcalibre3} à l'heure, en tournant sur lui-même, comme s'il eût été saisi par quelque maelström aérien.
+
+Au-dessous de l'appendice inférieur de ce ballon oscillait une nacelle, qui contenait cinq passagers, à peine visibles au milieu de ces épaisses vapeurs, mêlées d'eau pulvérisée, qui traînaient jusqu'à la surface de l'Océan.
+
+D'où venait cet aérostat, véritable jouet de l'effroyable tempête ? De quel point du monde s'était-il élancé ? Il n'avait évidemment pas pu partir pendant l'ouragan. Or, l'ouragan durait depuis cinq jours déjà, et ses premiers symptômes s'étaient manifestés le 18. On eût donc été fondé à croire que ce ballon venait de très loin, car il n'avait pas dû franchir moins de deux mille milles par vingt-quatre heures ?
+
+En tout cas, les passagers n'avaient pu avoir à leur disposition aucun moyen d'estimer la route parcourue depuis leur départ, car tout point de repère leur manquait. Il devait même se produire ce fait curieux, qu'emportés au milieu des violences de la tempête, ils ne les subissaient pas. Ils se déplaçaient, ils tournaient sur eux-mêmes sans rien ressentir de cette rotation, ni de leur déplacement dans le sens horizontal. Leurs yeux ne pouvaient percer l'épais brouillard qui s'amoncelait sous la nacelle. Autour d'eux, tout était brume. Telle était même l'opacité des nuages, qu'ils n'auraient pu dire s'il faisait jour ou nuit. Aucun reflet de lumière, aucun bruit des terres habitées, aucun mugissement de l'Océan n'avaient dû parvenir jusqu'à eux dans cette immensité obscure, tant qu'ils s'étaient tenus dans les hautes zones. Leur rapide descente avait seule pu leur donner connaissance des dangers qu'ils couraient au-dessus des flots.
+
+Cependant, le ballon, délesté de lourds objets, tels que munitions, armes, provisions, s'était relevé dans les couches supérieures de l'atmosphère, à une hauteur de quatre mille cinq cents pieds. Les passagers, après avoir reconnu que la mer était sous la nacelle, trouvant les dangers moins redoutables en haut qu'en bas, n'avaient pas hésité à jeter par-dessus le bord les objets même les plus utiles, et ils cherchaient à ne plus rien perdre de ce fluide, de cette âme de leur appareil, qui les soutenait au-dessus de l'abîme.
+
+La nuit se passa au milieu d'inquiétudes qui auraient été mortelles pour des âmes moins énergiques. Puis le jour reparut, et, avec le jour, l'ouragan marqua une tendance à se modérer. Dès le début de cette journée du 24 mars, il y eut quelques symptômes d'apaisement. À l'aube, les nuages, plus vésiculaires, étaient remontés dans les hauteurs du ciel. En quelques heures, la trombe s'évasa et se rompit. Le vent, de l'état d'ouragan, passa au « grand frais », c'est-à-dire que la vitesse de translation des couches atmosphériques diminua de moitié. C'était encore ce que les marins appellent « une brise à trois ris », mais l'amélioration dans le trouble des éléments n'en fut pas moins considérable.
+
+Vers onze heures, la partie inférieure de l'air s'était sensiblement nettoyée. L'atmosphère dégageait cette limpidité humide qui se voit, qui se sent même, après le passage des grands météores. Il ne semblait pas que l'ouragan fût allé plus loin dans l'ouest. Il paraissait s'être tué lui-même. Peut-être s'était-il écoulé en nappes électriques, après la rupture de la trombe, ainsi qu'il arrive quelquefois aux typhons de l'océan Indien.
+
+Mais, vers cette heure-là aussi, on eût pu constater, de nouveau, que le ballon s'abaissait lentement, par un mouvement continu, dans les couches inférieures de l'air. Il semblait même qu'il se dégonflait peu à peu, et que son enveloppe s'allongeait en se distendant, passant de la forme sphérique à la forme ovoïde.
+
+Vers midi, l'aérostat ne planait plus qu'à une hauteur de deux mille pieds au-dessus de la mer. Il jaugeait cinquante mille pieds cubes[[\[2\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn2011){#_ftnref2011 .pcalibre4 .pcalibre3}, et, grâce à sa capacité, il avait évidemment pu se maintenir longtemps dans l'air, soit qu'il eût atteint de grandes altitudes, soit qu'il se fût déplacé suivant une direction horizontale.
+
+En ce moment, les passagers jetèrent les derniers objets qui alourdissaient encore, la nacelle, les quelques vivres qu'ils avaient conservés, tout, jusqu'aux menus ustensiles qui garnissaient leurs poches, et l'un d'eux, s'étant hissé sur le cercle auquel se réunissaient les cordes du filet, chercha à lier solidement l'appendice inférieur de l'aérostat.
+
+Il était évident que les passagers ne pouvaient plus maintenir le ballon dans les zones élevées, et que le gaz leur manquait !
+
+Ils étaient donc perdus !
+
+En effet, ce n'était ni un continent, ni même une île, qui s'étendait au-dessous d'eux. L'espace n'offrait pas un seul point d'atterrissement, pas une surface solide sur laquelle leur ancre pût mordre.
+
+C'était l'immense mer, dont les flots se heurtaient encore avec une incomparable violence ! C'était l'Océan sans limites visibles, même pour eux, qui le dominaient de haut et dont les regards s'étendaient alors sur un rayon de quarante milles ! C'était cette plaine liquide, battue sans merci, fouettée par l'ouragan, qui devait leur apparaître comme une chevauchée de lames échevelées, sur lesquelles eût été jeté un vaste réseau de crêtes blanches ! Pas une terre en vue, pas un navire !
+
+Il fallait donc, à tout prix, arrêter le mouvement descensionnel, pour empêcher que l'aérostat ne vînt s'engloutir au milieu des flots. Et c'était évidemment à cette urgente opération que s'employaient les passagers de la nacelle. Mais, malgré leurs efforts, le ballon s'abaissait toujours, en même temps qu'il se déplaçait avec une extrême vitesse, suivant la direction du vent, c'est-à-dire du nord-est au sud-ouest.
+
+Situation terrible, que celle de ces infortunés ! Ils n'étaient évidemment plus maîtres de l'aérostat. Leurs tentatives ne pouvaient aboutir. L'enveloppe du ballon se dégonflait de plus en plus. Le fluide s'échappait sans qu'il fût aucunement possible de le retenir. La descente s'accélérait visiblement, et, à une heure après midi, la nacelle n'était pas suspendue à plus de six cents pieds au-dessus de l'Océan.
+
+C'est que, en effet, il était impossible d'empêcher la fuite du gaz, qui s'échappait librement par une déchirure de l'appareil.
+
+En allégeant la nacelle de tous les objets qu'elle contenait, les passagers avaient pu prolonger, pendant quelques heures, leur suspension dans l'air. Mais l'inévitable catastrophe ne pouvait qu'être retardée, et, si quelque terre ne se montrait pas avant la nuit, passagers, nacelle et ballon auraient définitivement disparu dans les flots.
+
+La seule manœuvre qu'il y eût à faire encore fut faite à ce moment. Les passagers de l'aérostat étaient évidemment des gens énergiques, et qui savaient regarder la mort en face. On n'eût pas entendu un seul murmure s'échapper de leurs lèvres. Ils étaient décidés à lutter jusqu'à la dernière seconde, à tout faire pour retarder leur chute. La nacelle n'était qu'une sorte de caisse d'osier, impropre à flotter, et il n'y avait aucune possibilité de la maintenir à la surface de la mer, si elle y tombait.
+
+À deux heures, l'aérostat était à peine à quatre cents pieds au-dessus des flots.
+
+En ce moment, une voix mâle -- la voix d'un homme dont le cœur était inaccessible à la crainte -- se fit entendre. À cette voix répondirent des voix non moins énergiques.
+
+« Tout est-il jeté ?
+
+--- Non ! Il y a encore dix mille francs d'or ! »
+
+Un sac pesant tomba aussitôt à la mer.
+
+« Le ballon se relève-t-il ?
+
+--- Un peu, mais il ne tardera pas à retomber !
+
+--- Que reste-t-il à jeter au-dehors ?
+
+--- Rien !
+
+--- Si !\... La nacelle !
+
+--- Accrochons-nous au filet ! et à la mer la nacelle ! »
+
+C'était, en effet, le seul et dernier moyen d'alléger l'aérostat. Les cordes qui rattachaient la nacelle au cercle furent coupées, et l'aérostat, après sa chute, remonta de deux mille pieds.
+
+Les cinq passagers s'étaient hissés dans le filet, au-dessus du cercle, et se tenaient dans le réseau des mailles, regardant l'abîme.
+
+On sait de quelle sensibilité statique sont doués les aérostats. Il suffit de jeter l'objet le plus léger pour provoquer un déplacement dans le sens vertical. L'appareil, flottant dans l'air, se comporte comme une balance d'une justesse mathématique. On comprend donc que, lorsqu'il est délesté d'un poids relativement considérable, son déplacement soit important et brusque. C'est ce qui arriva dans cette occasion.
+
+Mais, après s'être un instant équilibré dans les zones supérieures, l'aérostat commença à redescendre. Le gaz fuyait par la déchirure, qu'il était impossible de réparer.
+
+Les passagers avaient fait tout ce qu'ils pouvaient faire. Aucun moyen humain ne pouvait les sauver désormais. Ils n'avaient plus à compter que sur l'aide de Dieu.
+
+À quatre heures, le ballon n'était plus qu'à cinq cents pieds de la surface des eaux.
+
+Un aboiement sonore se fit entendre. Un chien accompagnait les passagers et se tenait accroché près de son maître dans les mailles du filet.
+
+« Top a vu quelque chose ! » s'écria l'un des passagers.
+
+Puis, aussitôt, une voix forte se fit entendre :
+
+« Terre ! terre ! »
+
+Le ballon, que le vent ne cessait d'entraîner vers le sud-ouest, avait, depuis l'aube, franchi une distance considérable, qui se chiffrait par centaines de milles, et une terre assez élevée venait, en effet, d'apparaître dans cette direction.
+
+Mais cette terre se trouvait encore à trente milles sous le vent. Il ne fallait pas moins d'une grande heure pour l'atteindre, et encore à la condition de ne pas dériver. Une heure ! Le ballon ne se serait-il pas auparavant vidé de tout ce qu'il avait gardé de son fluide ?
+
+Telle était la terrible question ! Les passagers voyaient distinctement ce point solide, qu'il fallait atteindre à tout prix. Ils ignoraient ce qu'il était, île ou continent, car c'est à peine s'ils savaient vers quelle partie du monde l'ouragan les avait entraînés ! Mais cette terre, qu'elle fût habitée ou qu'elle ne le fût pas, qu'elle dût être hospitalière ou non, il fallait y arriver !
+
+Or, à quatre heures, il était visible que le ballon ne pouvait plus se soutenir. Il rasait la surface de la mer. Déjà la crête des énormes lames avait plusieurs fois léché le bas du filet, l'alourdissant encore, et l'aérostat ne se soulevait plus qu'à demi, comme un oiseau qui a du plomb dans l'aile.
+
+Une demi-heure plus tard, la terre n'était plus qu'à un mille, mais le ballon, épuisé, flasque, distendu, chiffonné en gros plis, ne conservait plus de gaz que dans sa partie supérieure. Les passagers, accrochés au filet, pesaient encore trop pour lui, et bientôt, à demi plongés dans la mer, ils furent battus par les lames furieuses. L'enveloppe de l'aérostat fit poche alors, et le vent s'y engouffrant, le poussa comme un navire vent arrière. Peut-être accosterait-il ainsi la côte !
+
+Or, il n'en était qu'à deux encablures, quand des cris terribles, sortis de quatre poitrines à la fois, retentirent. Le ballon, qui semblait ne plus devoir se relever, venait de refaire encore un bond inattendu, après avoir été frappé d'un formidable coup de mer. Comme s'il eût été délesté subitement d'une nouvelle partie de son poids, il remonta à une hauteur de quinze cents pieds, et là il rencontra une sorte de remous du vent, qui, au lieu de le porter directement à la côte, lui fit suivre une direction presque parallèle. Enfin, deux minutes plus tard, il s'en rapprochait obliquement, et il retombait définitivement sur le sable du rivage, hors de la portée des lames.
+
+Les passagers, s'aidant les uns les autres, parvinrent à se dégager des mailles du filet. Le ballon, délesté de leur poids, fut repris par le vent, et comme un oiseau blessé qui retrouve un instant de vie, il disparut dans l'espace.
+
+La nacelle avait contenu cinq passagers, plus un chien, et le ballon n'en jetait que quatre sur le rivage.
+
+Le passager manquant avait évidemment été enlevé par le coup de mer qui venait de frapper le filet, et c'est ce qui avait permis à l'aérostat allégé, de remonter une dernière fois, puis, quelques instants après, d'atteindre la terre.
+
+À peine les quatre naufragés -- on peut leur donner ce nom -- avaient-ils pris pied sur le sol, que tous, songeant à l'absent, s'écriaient :
+
+« Il essaye peut-être d'aborder à la nage ! Sauvons-le ! sauvons-le ! »
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729903 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728975 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728047 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727460 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726532 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724216 .pcalibre .pcalibre4 .pcalibre3} *2* {#chapitre-2 .calibre171 .sigil_not_in_toc}
+
+Un épisode de la guerre de Sécession. -- L'ingénieur Cyrus Smith. -- Gédéon Spilett. -- Le nègre Nab. -- Le marin Pencroff. -- Le jeune Harbert. -- Une proposition inattendue. -- Rendez-vous à dix heures du soir. -- Départ dans la tempête.
+
+
+Ce n'étaient ni des aéronautes de profession, ni des amateurs d'expéditions aériennes, que l'ouragan venait de jeter sur cette côte. C'étaient des prisonniers de guerre, que leur audace avait poussés à s'enfuir dans des circonstances extraordinaires. Cent fois, ils auraient dû périr ! Cent fois, leur ballon déchiré aurait dû les précipiter dans l'abîme ! Mais le Ciel les réservait à une étrange destinée, et le 24 mars, après avoir fui Richmond, assiégée par les troupes du général Ulysse Grant, ils se trouvaient à sept mille milles de cette capitale de la Virginie, la principale place forte des séparatistes, pendant la terrible guerre de Sécession. Leur navigation aérienne avait duré cinq jours.
+
+Voici, d'ailleurs, dans quelles circonstances curieuses s'était produite l'évasion des prisonniers -- évasion qui devait aboutir à la catastrophe que l'on connaît.
+
+Cette année même, au mois de février 1865, dans un de ces coups de main que tenta, mais inutilement, le général Grant pour s'emparer de Richmond, plusieurs de ses officiers tombèrent au pouvoir de l'ennemi et furent internés dans la ville. L'un des plus distingués de ceux qui furent pris appartenait à l'état-major fédéral, et se nommait Cyrus Smith.
+
+Cyrus Smith, originaire du Massachusetts, était un ingénieur, un savant de premier ordre, auquel le gouvernement de l'Union avait confié, pendant la guerre, la direction des chemins de fer, dont le rôle stratégique fut si considérable. Véritable Américain du nord, maigre, osseux, efflanqué, âgé de quarante-cinq ans environ, il grisonnait déjà par ses cheveux ras et par sa barbe, dont il ne conservait qu'une épaisse moustache. Il avait une de ces belles têtes « numismatiques », qui semblent faites pour être frappées en médailles, les yeux ardents, la bouche sérieuse, la physionomie d'un savant de l'école militante. C'était un de ces ingénieurs qui ont voulu commencer par manier le marteau et le pic, comme ces généraux qui ont voulu débuter simples soldats. Aussi, en même temps que l'ingéniosité de l'esprit, possédait-il la suprême habileté de main. Ses muscles présentaient de remarquables symptômes de tonicité. Véritablement homme d'action en même temps qu'homme de pensée, il agissait sans effort, sous l'influence d'une large expansion vitale, ayant cette persistance vivace qui défie toute mauvaise chance. Très instruit, très pratique, « très débrouillard », pour employer un mot de la langue militaire française, c'était un tempérament superbe, car, tout en restant maître de lui, quelles que fussent les circonstances, il remplissait au plus haut degré ces trois conditions dont l'ensemble détermine l'énergie humaine : activité d'esprit et de corps, impétuosité des désirs, puissance de la volonté. Et sa devise aurait pu être celle de Guillaume d'Orange au XVII^e^ siècle : « Je n'ai pas besoin d'espérer pour entreprendre, ni de réussir pour persévérer. »
+
+En même temps, Cyrus Smith était le courage personnifié. Il avait été de toutes les batailles pendant cette guerre de Sécession. Après avoir commencé sous Ulysse Grant dans les volontaires de l'Illinois, il s'était battu à Paducah, à Belmont, à Pittsburg-Landing, au siège de Corinth, à Port-Gibson, à la Rivière-Noire, à Chattanooga, à Wilderness, sur le Potomak, partout et vaillamment, en soldat digne du général qui répondait : « Je ne compte jamais mes morts ! » Et, cent fois, Cyrus Smith aurait dû être au nombre de ceux-là que ne comptait pas le terrible Grant, mais dans ces combats, où il ne s'épargnait guère, la chance le favorisa toujours, jusqu'au moment où il fut blessé et pris sur le champ de bataille de Richmond.
+
+En même temps que Cyrus Smith, et le même jour, un autre personnage important tombait au pouvoir des sudistes. Ce n'était rien moins que l'honorable Gédéon Spilett, « reporter » du *New York Herald*, qui avait été chargé de suivre les péripéties de la guerre au milieu des armées du Nord.
+
+Gédéon Spilett était de la race de ces étonnants chroniqueurs anglais ou américains, des Stanley et autres, qui ne reculent devant rien pour obtenir une information exacte et pour la transmettre à leur journal dans les plus brefs délais. Les journaux de l'Union, tels que le *New York Herald*, forment de véritables puissances, et leurs délégués sont des représentants avec lesquels on compte. Gédéon Spilett marquait au premier rang de ces délégués.
+
+Homme de grand mérite, énergique, prompt et prêt à tout, plein d'idées, ayant couru le monde entier, soldat et artiste, bouillant dans le conseil, résolu dans l'action, ne comptant ni peines, ni fatigues, ni dangers, quand il s'agissait de tout savoir, pour lui d'abord, et pour son journal ensuite, véritable héros de la curiosité, de l'information, de l'inédit, de l'inconnu, de l'impossible, c'était un de ces intrépides observateurs qui écrivent sous les balles, « chroniquent » sous les boulets, et pour lesquels tous les périls sont des bonnes fortunes.
+
+Lui aussi avait été de toutes les batailles, au premier rang, revolver d'une main, carnet de l'autre, et la mitraille ne faisait pas trembler son crayon. Il ne fatiguait pas les fils de télégrammes incessants, comme ceux qui parlent alors qu'ils n'ont rien à dire, mais chacune de ses notes, courtes, nettes, claires, portait la lumière sur un point important. D'ailleurs, « l'humour » ne lui manquait pas. Ce fut lui qui, après l'affaire de la Rivière-Noire, voulant à tout prix conserver sa place au guichet du bureau télégraphique, afin d'annoncer à son journal le résultat de la bataille, télégraphia pendant deux heures les premiers chapitres de la Bible. Il en coûta deux mille dollars au *New York Herald*, mais le *New York Herald* fut le premier informé.
+
+Gédéon Spilett était de haute taille. Il avait quarante ans au plus. Des favoris blonds tirant sur le rouge encadraient sa figure. Son œil était calme, vif, rapide dans ses déplacements. C'était l'œil d'un homme qui a l'habitude de percevoir vite tous les détails d'un horizon. Solidement bâti, il s'était trempé dans tous les climats comme une barre d'acier dans l'eau froide.
+
+Depuis dix ans, Gédéon Spilett était le reporter attitré du *New York Herald*, qu'il enrichissait de ses chroniques et de ses dessins, car il maniait aussi bien le crayon que la plume. Lorsqu'il fut pris, il était en train de faire la description et le croquis de la bataille. Les derniers mots relevés sur son carnet furent ceux-ci : « Un sudiste me couche en joue et\... » Et Gédéon Spilett fut manqué, car, suivant son invariable habitude, il se tira de cette affaire sans une égratignure.
+
+Cyrus Smith et Gédéon Spilett, qui ne se connaissaient pas, si ce n'est de réputation, avaient été tous les deux transportés à Richmond. L'ingénieur guérit rapidement de sa blessure, et ce fut pendant sa convalescence qu'il fit connaissance du reporter. Ces deux hommes se plurent et apprirent à s'apprécier. Bientôt, leur vie commune n'eut plus qu'un but, s'enfuir, rejoindre l'armée de Grant et combattre encore dans ses rangs pour l'unité fédérale.
+
+Les deux Américains étaient donc décidés à profiter de toute occasion ; mais bien qu'ils eussent été laissés libres dans la ville, Richmond était si sévèrement gardée, qu'une évasion devait être regardée comme impossible.
+
+Sur ces entrefaites, Cyrus Smith fut rejoint par un serviteur, qui lui était dévoué à la vie, à la mort. Cet intrépide était un Nègre, né sur le domaine de l'ingénieur, d'un père et d'une mère esclaves, mais que, depuis longtemps, Cyrus Smith, abolitionniste de raison et de cœur, avait affranchi. L'esclave, devenu libre, n'avait pas voulu quitter son maître. Il l'aimait à mourir pour lui. C'était un garçon de trente ans, vigoureux, agile, adroit, intelligent, doux et calme, parfois naïf, toujours souriant, serviable et bon. Il se nommait Nabuchodonosor, mais il ne répondait qu'à l'appellation abréviative et familière de Nab.
+
+Quand Nab apprit que son maître avait été fait prisonnier, il quitta le Massachusetts sans hésiter, arriva devant Richmond, et, à force de ruse et d'adresse, après avoir risqué vingt fois sa vie, il parvint à pénétrer dans la ville assiégée. Ce que furent le plaisir de Cyrus Smith, en revoyant son serviteur, et la joie de Nab à retrouver son maître, cela ne peut s'exprimer.
+
+Mais si Nab avait pu pénétrer dans Richmond, il était bien autrement difficile d'en sortir, car on surveillait de très près les prisonniers fédéraux. Il fallait une occasion extraordinaire pour pouvoir tenter une évasion avec quelques chances de succès, et cette occasion non seulement ne se présentait pas, mais il était malaisé de la faire naître.
+
+Cependant, Grant continuait ses énergiques opérations. La victoire de Petersburg lui avait été très chèrement disputée. Ses forces, réunies à celles de Butler, n'obtenaient encore aucun résultat devant Richmond, et rien ne faisait présager que la délivrance des prisonniers dût être prochaine. Le reporter, auquel sa captivité fastidieuse ne fournissait plus un détail intéressant à noter, ne pouvait plus y tenir. Il n'avait qu'une idée : sortir de Richmond et à tout prix. Plusieurs fois, même, il tenta l'aventure et fut arrêté par des obstacles infranchissables.
+
+Cependant, le siège continuait, et si les prisonniers avaient hâte de s'échapper pour rejoindre l'armée de Grant, certains assiégés avaient non moins hâte de s'enfuir, afin de rejoindre l'armée séparatiste, et, parmi eux, un certain Jonathan Forster, sudiste enragé. C'est qu'en effet, si les prisonniers fédéraux ne pouvaient quitter la ville, les fédérés ne le pouvaient pas non plus, car l'armée du Nord les investissait. Le gouverneur de Richmond, depuis longtemps déjà, ne pouvait plus communiquer avec le général Lee, et il était du plus haut intérêt de faire connaître la situation de la ville, afin de hâter la marche de l'armée de secours. Ce Jonathan Forster eut alors l'idée de s'enlever en ballon, afin de traverser les lignes assiégeantes et d'arriver ainsi au camp des séparatistes.
+
+Le gouverneur autorisa la tentative. Un aérostat fut fabriqué et mis à la disposition de Jonathan Forster, que cinq de ses compagnons devaient suivre dans les airs. Ils étaient munis d'armes, pour le cas où ils auraient à se défendre en atterrissant, et de vivres, pour le cas où leur voyage aérien se prolongerait.
+
+Le départ du ballon avait été fixé au 18 mars. Il devait s'effectuer pendant la nuit, et, avec un vent de nord-ouest de moyenne force, les aéronautes comptaient en quelques heures arriver au quartier général de Lee.
+
+Mais ce vent du nord-ouest ne fut point une simple brise. Dès le 18, on put voir qu'il tournait à l'ouragan. Bientôt, la tempête devint telle, que le départ de Forster dut être différé, car il était impossible de risquer l'aérostat et ceux qu'il emporterait au milieu des éléments déchaînés.
+
+Le ballon, gonflé sur la grande place de Richmond, était donc là, prêt à partir à la première accalmie du vent, et, dans la ville, l'impatience était grande à voir que l'état de l'atmosphère ne se modifiait pas.
+
+Le 18, le 19 mars se passèrent sans qu'aucun changement se produisît dans la tourmente. On éprouvait même de grandes difficultés pour préserver le ballon, attaché au sol, que les rafales couchaient jusqu'à terre.
+
+La nuit du 19 au 20 s'écoula, mais, au matin, l'ouragan se développait encore avec plus d'impétuosité. Le départ était impossible.
+
+Ce jour-là, l'ingénieur Cyrus Smith fut accosté dans une des rues de Richmond par un homme qu'il ne connaissait point. C'était un marin nommé Pencroff, âgé de trente-cinq à quarante ans, vigoureusement bâti, très hâlé, les yeux vifs et clignotants, mais avec une bonne figure. Ce Pencroff était un Américain du nord, qui avait couru toutes les mers du globe, et auquel, en fait d'aventures, tout ce qui peut survenir d'extraordinaire à un être à deux pieds sans plumes était arrivé. Inutile de dire que c'était une nature entreprenante, prête à tout oser, et qui ne pouvait s'étonner de rien. Pencroff, au commencement de cette année, s'était rendu pour affaires à Richmond avec un jeune garçon de quinze ans, Harbert Brown, du New-Jersey, fils de son capitaine, un orphelin qu'il aimait comme si c'eût été son propre enfant. N'ayant pu quitter la ville avant les premières opérations du siège, il s'y trouva donc bloqué, à son grand déplaisir, et il n'eut plus aussi, lui, qu'une idée : s'enfuir par tous les moyens possibles. Il connaissait de réputation l'ingénieur Cyrus Smith. Il savait avec quelle impatience cet homme déterminé rongeait son frein. Ce jour-là, il n'hésita donc pas à l'aborder en lui disant sans plus de préparation :
+
+« Monsieur Smith, en avez-vous assez de Richmond ? »
+
+L'ingénieur regarda fixement l'homme qui lui parlait ainsi, et qui ajouta à voix basse :
+
+« Monsieur Smith, voulez-vous fuir ?
+
+--- Quand cela ?\... » répondit vivement l'ingénieur, et on peut affirmer que cette réponse lui échappa, car il n'avait pas encore examiné l'inconnu qui lui adressait la parole.
+
+Mais après avoir, d'un œil pénétrant, observé la loyale figure du marin, il ne put douter qu'il n'eût devant lui un honnête homme.
+
+« Qui êtes-vous ? » demanda-t-il d'une voix brève.
+
+Pencroff se fit connaître.
+
+« Bien, répondit Cyrus Smith. Et par quel moyen me proposez-vous de fuir ?
+
+--- Par ce fainéant de ballon qu'on laisse là à rien faire, et qui me fait l'effet de nous attendre tout exprès !\... »
+
+Le marin n'avait pas eu besoin d'achever sa phrase. L'ingénieur avait compris d'un mot. Il saisit Pencroff par le bras et l'entraîna chez lui.
+
+Là, le marin développa son projet, très simple en vérité. On ne risquait que sa vie à l'exécuter. L'ouragan était dans toute sa violence, il est vrai, mais un ingénieur adroit et audacieux, tel que Cyrus Smith, saurait bien conduire un aérostat. S'il eût connu la manœuvre, lui, Pencroff, il n'aurait pas hésité à partir -- avec Harbert, s'entend. Il en avait vu bien d'autres, et n'en était plus à compter avec une tempête !
+
+Cyrus Smith avait écouté le marin sans mot dire, mais son regard brillait. L'occasion était là. Il n'était pas homme à la laisser échapper. Le projet n'était que très dangereux, donc il était exécutable. La nuit, malgré la surveillance, on pouvait aborder le ballon, se glisser dans la nacelle, puis couper les liens qui le retenaient ! Certes, on risquait d'être tué, mais, par contre, on pouvait réussir, et sans cette tempête\... Mais sans cette tempête, le ballon fût déjà parti, et l'occasion, tant cherchée, ne se présenterait pas en ce moment !
+
+« Je ne suis pas seul !\... dit en terminant Cyrus Smith.
+
+--- Combien de personnes voulez-vous donc emmener ? demanda le marin.
+
+--- Deux : mon ami Spilett et mon serviteur Nab.
+
+--- Cela fait donc trois, répondit Pencroff, et, avec Harbert et moi, cinq. Or, le ballon devait enlever six\...
+
+--- Cela suffit. Nous partirons ! » dit Cyrus Smith.
+
+Ce « nous » engageait le reporter, mais le reporter n'était pas homme à reculer, et quand le projet lui fut communiqué, il l'approuva sans réserve. Ce dont il s'étonnait, c'était qu'une idée aussi simple ne lui fût pas déjà venue. Quant à Nab, il suivait son maître partout où son maître voulait aller.
+
+« À ce soir alors, dit Pencroff. Nous flânerons tous les cinq, par là, en curieux !
+
+--- À ce soir, dix heures, répondit Cyrus Smith, et fasse le Ciel que cette tempête ne s'apaise pas avant notre départ ! »
+
+Pencroff prit congé de l'ingénieur, et retourna à son logis, où était resté le jeune Harbert Brown. Ce courageux enfant connaissait le plan du marin, et ce n'était pas sans une certaine anxiété qu'il attendait le résultat de la démarche faite auprès de l'ingénieur. On le voit, c'étaient cinq hommes déterminés qui allaient ainsi se lancer dans la tourmente, en plein ouragan !
+
+Non ! L'ouragan ne se calma pas, et ni Jonathan Forster, ni ses compagnons ne pouvaient songer à l'affronter dans cette frêle nacelle ! La journée fut terrible. L'ingénieur ne craignait qu'une chose : c'était que l'aérostat, retenu au sol et couché sous le vent, ne se déchirât en mille pièces. Pendant plusieurs heures, il rôda sur la place presque déserte, surveillant l'appareil. Pencroff en faisait autant de son côté, les mains dans les poches, et bâillant au besoin, comme un homme qui ne sait à quoi tuer le temps, mais redoutant aussi que le ballon ne vînt à se déchirer ou même à rompre ses liens et à s'enfuir dans les airs.
+
+Le soir arriva. La nuit se fit très sombre. D'épaisses brumes passaient comme des nuages au ras du sol. Une pluie mêlée de neige tombait. Le temps était froid. Une sorte de brouillard pesait sur Richmond. Il semblait que la violente tempête eût fait comme une trêve entre les assiégeants et les assiégés, et que le canon eût voulu se taire devant les formidables détonations de l'ouragan. Les rues de la ville étaient désertes. Il n'avait pas même paru nécessaire, par cet horrible temps, de garder la place au milieu de laquelle se débattait l'aérostat. Tout favorisait le départ des prisonniers, évidemment ; mais ce voyage, au milieu des rafales déchaînées !\...
+
+« Vilaine marée ! se disait Pencroff, en fixant d'un coup de poing son chapeau que le vent disputait à sa tête. Mais bah ! on en viendra à bout tout de même ! »
+
+À neuf heures et demie, Cyrus Smith et ses compagnons se glissaient par divers côtés sur la place, que les lanternes de gaz, éteintes par le vent, laissaient dans une obscurité profonde. On ne voyait même pas l'énorme aérostat, presque entièrement rabattu sur le sol. Indépendamment des sacs de lest qui maintenaient les cordes du filet, la nacelle était retenue par un fort câble passé dans un anneau scellé dans le pavé, et dont le double remontait à bord.
+
+Les cinq prisonniers se rencontrèrent près de la nacelle. Ils n'avaient point été aperçus, et telle était l'obscurité, qu'ils ne pouvaient se voir eux-mêmes.
+
+Sans prononcer une parole, Cyrus Smith, Gédéon Spilett, Nab et Harbert prirent place dans la nacelle, pendant que Pencroff, sur l'ordre de l'ingénieur, détachait successivement les paquets de lest. Ce fut l'affaire de quelques instants, et le marin rejoignit ses compagnons.
+
+L'aérostat n'était alors retenu que par le double du câble, et Cyrus Smith n'avait plus qu'à donner l'ordre du départ.
+
+En ce moment, un chien escalada d'un bond la nacelle. C'était Top, le chien de l'ingénieur, qui, ayant brisé sa chaîne, avait suivi son maître. Cyrus Smith craignant un excès de poids, voulait renvoyer le pauvre animal.
+
+« Bah ! un de plus ! » dit Pencroff, en délestant la nacelle de deux sacs de sable.
+
+Puis, il largua le double du câble, et le ballon, partant par une direction oblique, disparut, après avoir heurté sa nacelle contre deux cheminées qu'il abattit dans la furie de son départ.
+
+L'ouragan se déchaînait alors avec une épouvantable violence. L'ingénieur, pendant la nuit, ne put songer à descendre, et quand le jour vint, toute vue de la terre lui était interceptée par les brumes. Ce fut cinq jours après seulement, qu'une éclaircie laissa voir l'immense mer au-dessous de cet aérostat, que le vent entraînait avec une vitesse effroyable !
+
+On sait comment, de ces cinq hommes, partis le 20 mars, quatre étaient jetés le 24 mars, sur une côte déserte, à plus de six mille milles de leur pays[[\[3\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn3011){#_ftnref3011 .pcalibre4 .pcalibre3} !
+
+Et celui qui manquait, celui au secours duquel les quatre survivants du ballon couraient tout d'abord, c'était leur chef naturel, c'était l'ingénieur Cyrus Smith !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729904 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728976 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728048 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727461 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726533 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724217 .pcalibre .pcalibre4 .pcalibre3} *3* {#chapitre-3 .calibre171 .sigil_not_in_toc}
+
+Cinq heures du soir. -- Celui qui manque. -- Le désespoir de Nab. -- Recherches au nord. -- L'îlot. -- Une triste nuit d'angoisses. -- Le brouillard du matin. -- Nab à la nage. -- Vue de la terre. -- Passage à gué du canal.
+
+
+L'ingénieur, à travers les mailles du filet qui avaient cédé, avait été enlevé par un coup de mer. Son chien avait également disparu. Le fidèle animal s'était volontairement précipité au secours de son maître.
+
+« En avant ! » s'écria le reporter.
+
+Et tous quatre, Gédéon Spilett, Harbert, Pencroff et Nab, oubliant épuisement et fatigues, commencèrent leurs recherches.
+
+Le pauvre Nab pleurait de rage et de désespoir à la fois, à la pensée d'avoir perdu tout ce qu'il aimait au monde.
+
+Il ne s'était pas écoulé deux minutes entre le moment où Cyrus Smith avait disparu et l'instant où ses compagnons avaient pris terre. Ceux-ci pouvaient donc espérer d'arriver à temps pour le sauver.
+
+« Cherchons ! cherchons ! cria Nab.
+
+--- Oui, Nab, répondit Gédéon Spilett, et nous le retrouverons !
+
+--- Vivant ?
+
+--- Vivant !
+
+--- Sait-il nager ? demanda Pencroff.
+
+--- Oui ! répondit Nab ! Et, d'ailleurs, Top est là !\... »
+
+Le marin, entendant la mer mugir, secoua la tête !
+
+C'était dans le nord de la côte, et environ à un demi-mille de l'endroit où les naufragés venaient d'atterrir, que l'ingénieur avait disparu. S'il avait pu atteindre le point le plus rapproché du littoral, c'était donc à un demi-mille au plus que devait être situé ce point.
+
+Il était près de six heures alors. La brume venait de se lever et rendait la nuit très obscure. Les naufragés marchaient en suivant vers le nord la côte est de cette terre sur laquelle le hasard les avait jetés -- terre inconnue, dont ils ne pouvaient même soupçonner la situation géographique. Ils foulaient du pied un sol sablonneux, mêlé de pierres, qui paraissait dépourvu de toute espèce de végétation. Ce sol, fort inégal, très raboteux, semblait en de certains endroits criblé de petites fondrières, qui rendaient la marche très pénible. De ces trous s'échappaient à chaque instant de gros oiseaux au vol lourd, fuyant en toutes directions, que l'obscurité empêchait de voir. D'autres, plus agiles, se levaient par bandes et passaient comme des nuées. Le marin croyait reconnaître des goélands et des mouettes, dont les sifflements aigus luttaient avec les rugissements de la mer.
+
+De temps en temps, les naufragés s'arrêtaient, appelaient à grands cris, et écoutaient si quelque appel ne se ferait pas entendre du côté de l'Océan. Ils devaient penser, en effet, que s'ils eussent été à proximité du lieu où l'ingénieur avait pu atterrir, les aboiements du chien Top, au cas où Cyrus Smith eût été hors d'état de donner signe d'existence, seraient arrivés jusqu'à eux. Mais aucun cri ne se détachait sur le grondement des lames et le cliquetis du ressac. Alors, la petite troupe reprenait sa marche en avant, et fouillait les moindres anfractuosités du littoral.
+
+Après une course de vingt minutes, les quatre naufragés furent subitement arrêtés par une lisière écumante de lames. Le terrain solide manquait. Ils se trouvaient à l'extrémité d'une pointe aiguë, sur laquelle la mer brisait avec fureur.
+
+« C'est un promontoire, dit le marin. Il faut revenir sur nos pas en tenant notre droite, et nous gagnerons ainsi la franche terre.
+
+--- Mais s'il est là ! répondit Nab, en montrant l'Océan, dont les énormes lames blanchissaient dans l'ombre.
+
+--- Eh bien, appelons-le ! »
+
+Et tous, unissant leurs voix, lancèrent un appel vigoureux, mais rien ne répondit. Ils attendirent une accalmie. Ils recommencèrent. Rien encore.
+
+Les naufragés revinrent alors, en suivant le revers opposé du promontoire, sur un sol également sablonneux et rocailleux. Toutefois, Pencroff observa que le littoral était plus accore, que le terrain montait, et il supposa qu'il devait rejoindre, par une rampe assez allongée, une haute côte dont le massif se profilait confusément dans l'ombre. Les oiseaux étaient moins nombreux sur cette partie du rivage. La mer aussi s'y montrait moins houleuse, moins bruyante, et il était même remarquable que l'agitation des lames diminuait sensiblement. On entendait à peine le bruit du ressac. Sans doute, ce côté du promontoire formait une anse semi-circulaire, que sa pointe aiguë protégeait contre les ondulations du large.
+
+Mais, à suivre cette direction, on marchait vers le sud, et c'était aller à l'opposé de cette portion de la côte sur laquelle Cyrus Smith avait pu prendre pied. Après un parcours d'un mille et demi, le littoral ne présentait encore aucune courbure qui permît de revenir vers le nord. Il fallait pourtant bien que ce promontoire, dont on avait tourné la pointe, se rattachât à la franche terre. Les naufragés, bien que leurs forces fussent épuisées, marchaient toujours avec courage, espérant trouver à chaque moment quelque angle brusque qui les remît dans la direction première.
+
+Quel fut donc leur désappointement, quand, après avoir parcouru deux milles environ, ils se virent encore une fois arrêtés par la mer sur une pointe assez élevée, faite de roches glissantes.
+
+« Nous sommes sur un îlot ! dit Pencroff, et nous l'avons arpenté d'une extrémité à l'autre ! »
+
+L'observation du marin était juste. Les naufragés avaient été jetés, non sur un continent, pas même sur une île, mais sur un îlot qui ne mesurait pas plus de deux milles en longueur, et dont la largeur était évidemment peu considérable.
+
+Cet îlot aride, semé de pierres, sans végétation, refuge désolé de quelques oiseaux de mer, se rattachait-il à un archipel plus important ? On ne pouvait l'affirmer. Les passagers du ballon, lorsque, de leur nacelle, ils entrevirent la terre à travers les brumes, n'avaient pu suffisamment reconnaître son importance. Cependant, Pencroff, avec ses yeux de marin habitués à percer l'ombre, croyait bien, en ce moment, distinguer dans l'ouest des masses confuses, qui annonçaient une côte élevée.
+
+Mais, alors, on ne pouvait, par cette obscurité, déterminer à quel système, simple ou complexe, appartenait l'îlot. On ne pouvait non plus en sortir, puisque la mer l'entourait. Il fallait donc remettre au lendemain la recherche de l'ingénieur, qui n'avait, hélas ! signalé sa présence par aucun cri.
+
+« Le silence de Cyrus ne prouve rien, dit le reporter. Il peut être évanoui, blessé, hors d'état de répondre momentanément, mais ne désespérons pas. »
+
+Le reporter émit alors l'idée d'allumer sur un point de l'îlot quelque feu qui pourrait servir de signal à l'ingénieur. Mais on chercha vainement du bois ou des broussailles sèches. Sable et pierres, il n'y avait pas autre chose.
+
+On comprend ce que durent être la douleur de Nab et celle de ses compagnons, qui s'étaient vivement attachés à cet intrépide Cyrus Smith. Il était trop évident qu'ils étaient impuissants alors à le secourir. Il fallait attendre le jour. Ou l'ingénieur avait pu se sauver seul, et déjà il avait trouvé refuge sur un point de la côte, ou il était perdu à jamais !
+
+Ce furent de longues et pénibles heures à passer. Le froid était vif. Les naufragés souffrirent cruellement, mais ils s'en apercevaient à peine. Ils ne songèrent même pas à prendre un instant de repos. S'oubliant pour leur chef, espérant, voulant espérer toujours, ils allaient et venaient sur cet îlot aride, retournant incessamment à sa pointe nord, là où ils devaient être plus rapprochés du lieu de la catastrophe. Ils écoutaient, ils criaient, ils cherchaient à surprendre quelque appel suprême, et leurs voix devaient se transmettre au loin, car un certain calme régnait alors dans l'atmosphère, et les bruits de la mer commençaient à tomber avec la houle.
+
+Un des cris de Nab sembla même, à un certain moment, se reproduire en écho. Harbert le fit observer à Pencroff, en ajoutant :
+
+« Cela prouverait qu'il existe dans l'ouest une côte assez rapprochée. »
+
+Le marin fit un signe affirmatif. D'ailleurs ses yeux ne pouvaient le tromper. S'il avait, si peu que ce fût, distingué une terre, c'est qu'une terre était là.
+
+Mais cet écho lointain fut la seule réponse provoquée par les cris de Nab, et l'immensité, sur toute la partie est de l'îlot, demeura silencieuse.
+
+Cependant le ciel se dégageait peu à peu. Vers minuit, quelques étoiles brillèrent, et si l'ingénieur eût été là, près de ses compagnons, il aurait pu remarquer que ces étoiles n'étaient plus celles de l'hémisphère boréal. En effet, la polaire n'apparaissait pas sur ce nouvel horizon, les constellations zénithales n'étaient plus celles qu'il avait l'habitude d'observer dans la partie nord du nouveau continent, et la Croix du Sud resplendissait alors au pôle austral du monde.
+
+La nuit s'écoula. Vers cinq heures du matin, le 25 mars, les hauteurs du ciel se nuancèrent légèrement. L'horizon restait sombre encore, mais, avec les premières lueurs du jour, une opaque brume se leva de la mer, de telle sorte que le rayon visuel ne pouvait s'étendre à plus d'une vingtaine de pas. Le brouillard se déroulait en grosses volutes qui se déplaçaient lourdement.
+
+C'était un contretemps. Les naufragés ne pouvaient rien distinguer autour d'eux. Tandis que les regards de Nab et du reporter se projetaient sur l'Océan, le marin et Harbert cherchaient la côte dans l'ouest. Mais pas un bout de terre n'était visible.
+
+« N'importe, dit Pencroff, si je ne vois pas la côte, je la sens\... elle est là\... là\... aussi sûr que nous ne sommes plus à Richmond ! »
+
+Mais le brouillard ne devait pas tarder à se lever. Ce n'était qu'une brumaille de beau temps. Un bon soleil en chauffait les couches supérieures, et cette chaleur se tamisait jusqu'à la surface de l'îlot.
+
+En effet, vers six heures et demie, trois quarts d'heure après le lever du soleil, la brume devenait plus transparente. Elle s'épaississait en haut, mais se dissipait en bas. Bientôt tout l'îlot apparut, comme s'il fût descendu d'un nuage ; puis, la mer se montra suivant un plan circulaire, infinie dans l'est, mais bornée dans l'ouest par une côte élevée et abrupte.
+
+Oui ! la terre était là. Là, le salut, provisoirement assuré, du moins. Entre l'îlot et la côte, séparés par un canal large d'un demi-mille, un courant extrêmement rapide se propageait avec bruit.
+
+Cependant, un des naufragés, ne consultant que son cœur, se précipita aussitôt dans le courant, sans prendre l'avis de ses compagnons, sans même dire un seul mot. C'était Nab. Il avait hâte d'être sur cette côte et de la remonter au nord. Personne n'eût pu le retenir. Pencroff le rappela, mais en vain. Le reporter se disposait à suivre Nab.
+
+Pencroff, allant alors à lui :
+
+« Vous voulez traverser ce canal ? demanda-t-il.
+
+--- Oui, répondit Gédéon Spilett.
+
+--- Eh bien, attendez, croyez-moi, dit le marin. Nab suffira à porter secours à son maître. Si nous nous engagions dans ce canal, nous risquerions d'être entraînés au large par le courant, qui est d'une violence extrême. Or, si je ne me trompe, c'est un courant de jusant. Voyez, la marée baisse sur le sable. Prenons donc patience, et, à mer basse, il est possible que nous trouvions un passage guéable\...
+
+--- Vous avez raison, répondit le reporter. Séparons-nous le moins que nous pourrons\... »
+
+Pendant ce temps, Nab luttait avec vigueur contre le courant. Il le traversait suivant une direction oblique. On voyait ses noires épaules émerger à chaque coupe. Il dérivait avec une extrême vitesse, mais il gagnait aussi vers la côte. Ce demi-mille qui séparait l'îlot de la terre, il employa plus d'une demi-heure à le franchir, et il n'accosta le rivage qu'à plusieurs milliers de pieds de l'endroit qui faisait face au point d'où il était parti.
+
+Nab prit pied au bas d'une haute muraille de granit et se secoua vigoureusement ; puis, tout courant, il disparut bientôt derrière une pointe de roches, qui se projetait en mer, à peu près à la hauteur de l'extrémité septentrionale de l'îlot.
+
+Les compagnons de Nab avaient suivi avec angoisse son audacieuse tentative, et, quand il fut hors de vue, ils reportèrent leurs regards sur cette terre à laquelle ils allaient demander refuge, tout en mangeant quelques coquillages dont le sable était semé. C'était un maigre repas, mais, enfin, c'en était un.
+
+La côte opposée formait une vaste baie, terminée, au sud, par une pointe très aiguë, dépourvue de toute végétation et d'un aspect très sauvage. Cette pointe venait se souder au littoral par un dessin assez capricieux et s'arc-boutait à de hautes roches granitiques. Vers le nord, au contraire, la baie, s'évasant, formait une côte plus arrondie, qui courait du sud-ouest au nord-est et finissait par un cap effilé. Entre ces deux points extrêmes, sur lesquels s'appuyait l'arc de la baie, la distance pouvait être de huit milles. À un demi-mille du rivage, l'îlot occupait une étroite bande de mer, et ressemblait à un énorme cétacé, dont il représentait la carcasse très agrandie. Son extrême largeur ne dépassait pas un quart de mille.
+
+Devant l'îlot, le littoral se composait, en premier plan, d'une grève de sable, semée de roches noirâtres, qui, en ce moment, réapparaissaient peu à peu sous la marée descendante. Au deuxième plan, se détachait une sorte de courtine granitique, taillée à pic, couronnée par une capricieuse arête à une hauteur de trois cents pieds au moins. Elle se profilait ainsi sur une longueur de trois milles, et se terminait brusquement à droite par un pan coupé qu'on eût cru taillé de main d'homme. Sur la gauche, au contraire, au-dessus du promontoire, cette espèce de falaise irrégulière, s'égrenant en éclats prismatiques, et faite de roches agglomérées et d'éboulis, s'abaissait par une rampe allongée qui se confondait peu à peu avec les roches de la pointe méridionale.
+
+Sur le plateau supérieur de la côte, aucun arbre. C'était une table nette, comme celle qui domine Cape-Town, au cap de Bonne-Espérance, mais avec des proportions plus réduites. Du moins, elle apparaissait telle, vue de l'îlot. Toutefois, la verdure ne manquait pas à droite, en arrière du pan coupé. On distinguait facilement la masse confuse de grands arbres, dont l'agglomération se prolongeait au-delà des limites du regard. Cette verdure réjouissait l'œil, vivement attristé par les âpres lignes du parement de granit.
+
+Enfin, tout en arrière-plan et au-dessus du plateau, dans la direction du nord-ouest et à une distance de sept milles au moins, resplendissait un sommet blanc, que frappaient les rayons solaires. C'était un chapeau de neiges, coiffant quelque mont éloigné.
+
+On ne pouvait donc se prononcer sur la question de savoir si cette terre formait une île ou si elle appartenait à un continent. Mais, à la vue de ces roches convulsionnées qui s'entassaient sur la gauche, un géologue n'eût pas hésité à leur donner une origine volcanique, car elles étaient incontestablement le produit d'un travail plutonien.
+
+Gédéon Spilett, Pencroff et Harbert observaient attentivement cette terre, sur laquelle ils allaient peut-être vivre de longues années, sur laquelle ils mourraient même, si elle ne se trouvait pas sur la route des navires !
+
+« Eh bien ! demanda Harbert, que dis-tu, Pencroff ?
+
+--- Eh bien, répondit le marin, il y a du bon et du mauvais, comme dans tout. Nous verrons. Mais voici le jusant qui se fait sentir. Dans trois heures, nous tenterons le passage, et, une fois là, on tâchera de se tirer d'affaire et de retrouver M. Smith ! »
+
+Pencroff ne s'était pas trompé dans ses prévisions. Trois heures plus tard, à mer basse, la plus grande partie des sables, formant le lit du canal, avait découvert. Il ne restait entre l'îlot et la côte qu'un chenal étroit qu'il serait aisé sans doute de franchir.
+
+En effet, vers dix heures, Gédéon Spilett et ses deux compagnons se dépouillèrent de leurs vêtements, ils les mirent en paquet sur leur tête, et ils s'aventurèrent dans le chenal, dont la profondeur ne dépassait pas cinq pieds. Harbert, pour qui l'eau eût été trop haute, nageait comme un poisson, et il s'en tira à merveille. Tous trois arrivèrent sans difficulté sur le littoral opposé. Là, le soleil les ayant séchés rapidement, ils remirent leurs habits, qu'ils avaient préservés du contact de l'eau, et ils tinrent conseil.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729905 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728977 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728049 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727462 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726534 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724218 .pcalibre .pcalibre4 .pcalibre3} *4* {#chapitre-4 .calibre171 .sigil_not_in_toc}
+
+Les lithodomes. -- La rivière à son embouchure. -- Les « Cheminées ». -- Continuation des recherches. -- La forêt d'arbres verts. -- La provision de combustible. -- On attend le reflux. -- Du haut de la côte. -- Le train de bois. -- Le retour au rivage.
+
+Tout d'abord, le reporter dit au marin de l'attendre en cet endroit même, où il le rejoindrait, et, sans perdre un instant, il remonta le littoral, dans la direction qu'avait suivie, quelques heures auparavant, le nègre Nab. Puis il disparut rapidement derrière un angle de la côte, tant il lui tardait d'avoir des nouvelles de l'ingénieur.
+
+Harbert avait voulu l'accompagner.
+
+« Restez, mon garçon, lui avait dit le marin. Nous avons à préparer un campement et à voir s'il est possible de trouver à se mettre sous la dent quelque chose de plus solide que des coquillages. Nos amis auront besoin de se refaire à leur retour. À chacun sa tâche.
+
+--- Je suis prêt, Pencroff, répondit Harbert.
+
+--- Bon ! reprit le marin, cela ira. Procédons avec méthode. Nous sommes fatigués, nous avons froid, nous avons faim. Il s'agit donc de trouver abri, feu et nourriture. La forêt a du bois, les nids ont des œufs : il reste à chercher la maison.
+
+--- Eh bien, répondit Harbert, je chercherai une grotte dans ces roches, et je finirai bien par découvrir quelque trou dans lequel nous pourrons nous fourrer !
+
+--- C'est cela, répondit Pencroff. En route, mon garçon. »
+
+Et les voilà marchant tous deux au pied de l'énorme muraille, sur cette grève que le flot descendant avait largement découverte. Mais, au lieu de remonter vers le nord, ils descendirent au sud. Pencroff avait remarqué, à quelques centaines de pas au-dessous de l'endroit où ils étaient débarqués, que la côte offrait une étroite coupée qui, suivant lui, devait servir de débouché à une rivière ou à un ruisseau. Or, d'une part, il était important de s'établir dans le voisinage d'un cours d'eau potable, et, de l'autre, il n'était pas impossible que le courant eût poussé Cyrus Smith de ce côté.
+
+La haute muraille, on l'a dit, se dressait à une hauteur de trois cents pieds, mais le bloc était plein partout, et, même à sa base, à peine léchée par la mer, elle ne présentait pas la moindre fissure qui pût servir de demeure provisoire. C'était un mur d'aplomb, fait d'un granit très dur, que le flot n'avait jamais rongé. Vers le sommet voltigeait tout un monde d'oiseaux aquatiques, et particulièrement diverses espèces de l'ordre des palmipèdes, à bec allongé, comprimé et pointu, -- volatiles très criards, peu effrayés de la présence de l'homme, qui, pour la première fois, sans doute, troublait ainsi leur solitude. Parmi ces palmipèdes, Pencroff reconnut plusieurs labbes, sortes de goélands auxquels on donne quelquefois le nom de stercoraires, et aussi de petites mouettes voraces qui nichaient dans les anfractuosités du granit. Un coup de fusil, tiré au milieu de ce fourmillement d'oiseaux, en eût abattu un grand nombre ; mais, pour tirer un coup de fusil, il faut un fusil, et ni Pencroff, ni Harbert n'en avaient. D'ailleurs, ces mouettes et ces labbes sont à peine mangeables, et leurs œufs même ont un détestable goût.
+
+Cependant, Harbert, qui s'était porté un peu plus sur la gauche, signala bientôt quelques rochers tapissés d'algues, que la haute mer devait recouvrir quelques heures plus tard. Sur ces roches, au milieu des varechs glissants, pullulaient des coquillages à double valve, que ne pouvaient dédaigner des gens affamés. Harbert appela donc Pencroff, qui se hâta d'accourir.
+
+« Eh ! ce sont des moules ! s'écria le marin. Voilà de quoi remplacer les œufs qui nous manquent !
+
+--- Ce ne sont point des moules, répondit le jeune Harbert, qui examinait avec attention les mollusques attachés aux roches, ce sont des lithodomes.
+
+--- Et cela se mange ? demanda Pencroff.
+
+--- Parfaitement.
+
+--- Alors, mangeons des lithodomes. »
+
+Le marin pouvait s'en rapporter à Harbert. Le jeune garçon était très fort en histoire naturelle et avait toujours eu une véritable passion pour cette science. Son père l'avait poussé dans cette voie, en lui faisant suivre les cours des meilleurs professeurs de Boston, qui affectionnaient cet enfant, intelligent et travailleur. Aussi ses instincts de naturaliste devaient-ils être plus d'une fois utilisés par la suite, et, pour son début, il ne se trompa pas.
+
+Ces lithodomes étaient des coquillages oblongs, attachés par grappes et très adhérents aux roches. Ils appartenaient à cette espèce de mollusques perforateurs qui creusent des trous dans les pierres les plus dures, et leur coquille s'arrondissait à ses deux bouts, disposition qui ne se remarque pas dans la moule ordinaire.
+
+Pencroff et Harbert firent une bonne consommation de ces lithodomes, qui s'entrebâillaient alors au soleil. Ils les mangèrent comme des huîtres, et ils leur trouvèrent une saveur fortement poivrée, ce qui leur ôta tout regret de n'avoir ni poivre, ni condiments d'aucune sorte.
+
+Leur faim fut donc momentanément apaisée, mais non leur soif, qui s'accrut après l'absorption de ces mollusques naturellement épicés. Il s'agissait donc de trouver de l'eau douce, et il n'était pas vraisemblable qu'elle manquât dans une région si capricieusement accidentée. Pencroff et Harbert, après avoir pris la précaution de faire une ample provision de lithodomes, dont ils remplirent leurs poches et leurs mouchoirs, regagnèrent le pied de la haute terre.
+
+Deux cents pas plus loin, ils arrivaient à cette coupée par laquelle, suivant le pressentiment de Pencroff, une petite rivière devait couler à pleins bords. En cet endroit, la muraille semblait avoir été séparée par quelque violent effort plutonien. À sa base s'échancrait une petite anse, dont le fond formait un angle assez aigu. Le cours d'eau mesurait là cent pieds de largeur, et ses deux berges, de chaque côté, n'en comptaient que vingt pieds à peine. La rivière s'enfonçait presque directement entre les deux murs de granit qui tendaient à s'abaisser en amont de l'embouchure ; puis, elle tournait brusquement et disparaissait sous un taillis à un demi-mille.
+
+« Ici, l'eau ! Là-bas, le bois ! dit Pencroff. Eh bien, Harbert, il ne manque plus que la maison ! »
+
+L'eau de la rivière était limpide. Le marin reconnut qu'à ce moment de la marée, c'est-à-dire à basse mer, quand le flot montant n'y portait pas, elle était douce. Ce point important établi, Harbert chercha quelque cavité qui pût servir de retraite, mais ce fut inutilement. Partout la muraille était lisse, plane et d'aplomb.
+
+Toutefois, à l'embouchure même du cours d'eau, et au-dessus des relais de la haute mer, les éboulis avaient formé, non point une grotte, mais un entassement d'énormes rochers, tels qu'il s'en rencontre souvent dans les pays granitiques, et qui portent le nom de « Cheminées. »
+
+Pencroff et Harbert s'engagèrent assez profondément entre les roches, dans ces couloirs sablés, auxquels la lumière ne manquait pas, car elle pénétrait par les vides que laissaient entre eux ces granits, dont quelques-uns ne se maintenaient que par un miracle d'équilibre. Mais avec la lumière entrait aussi le vent -- une vraie bise de corridors, -- et, avec le vent, le froid aigu de l'extérieur. Cependant, le marin pensa qu'en obstruant certaines portions de ces couloirs, en bouchant quelques ouvertures avec un mélange de pierres et de sable, on pourrait rendre les « Cheminées » habitables. Leur plan géométrique représentait ce signe typographique &, qui signifie *et cætera* en abrégé. Or, en isolant la boucle supérieure du signe, par laquelle s'engouffrait le vent du sud et de l'ouest, on parviendrait sans doute à utiliser sa disposition inférieure.
+
+« Voilà notre affaire, dit Pencroff, et, si jamais nous revoyions M. Smith, il saurait tirer parti de ce labyrinthe.
+
+--- Nous le reverrons, Pencroff, s'écria Harbert, et quand il reviendra, il faut qu'il trouve ici une demeure à peu près supportable. Elle le sera si nous pouvons établir un foyer dans le couloir de gauche et y conserver une ouverture pour la fumée.
+
+--- Nous le pourrons, mon garçon, répondit le marin, et ces Cheminées -- ce fut le nom que Pencroff conserva à cette demeure provisoire -- feront notre affaire. Mais d'abord, allons faire provision de combustible. J'imagine que le bois ne nous sera pas inutile pour boucher ces ouvertures à travers lesquelles le diable joue de sa trompette ! »
+
+Harbert et Pencroff quittèrent les Cheminées, et, doublant l'angle, ils commencèrent à remonter la rive gauche de la rivière. Le courant en était assez rapide et charriait quelques bois morts. Le flot montant -- et il se faisait déjà sentir en ce moment -- devait le refouler avec force jusqu'à une distance assez considérable. Le marin pensa donc que l'on pourrait utiliser ce flux et ce reflux pour le transport des objets pesants.
+
+Après avoir marché pendant un quart d'heure, le marin et le jeune garçon arrivèrent au brusque coude que faisait la rivière en s'enfonçant vers la gauche. À partir de ce point, son cours se poursuivait à travers une forêt d'arbres magnifiques. Ces arbres avaient conservé leur verdure, malgré la saison avancée, car ils appartenaient à cette famille des conifères qui se propage sur toutes les régions du globe, depuis les climats septentrionaux jusqu'aux contrées tropicales. Le jeune naturaliste reconnut plus particulièrement des « déodars », essences très nombreuses dans la zone himalayenne, et qui répandaient un agréable arôme. Entre ces beaux arbres poussaient des bouquets de pins, dont l'opaque parasol s'ouvrait largement. Au milieu des hautes herbes, Pencroff sentit que son pied écrasait des branches sèches, qui crépitaient comme des pièces d'artifice.
+
+« Bon, mon garçon, dit-il à Harbert, si moi j'ignore le nom de ces arbres, je sais du moins les ranger dans la catégorie du "bois à brûler", et, pour le moment, c'est la seule qui nous convienne !
+
+--- Faisons notre provision ! » répondit Harbert, qui se mit aussitôt à l'ouvrage.
+
+La récolte fut facile. Il n'était pas même nécessaire d'ébrancher les arbres, car d'énormes quantités de bois mort gisaient à leurs pieds. Mais si le combustible ne manquait pas, les moyens de transport laissaient à désirer. Ce bois étant très sec devait rapidement brûler. De là, nécessité d'en rapporter aux Cheminées une quantité considérable, et la charge de deux hommes n'aurait pas suffi. C'est ce que fit observer Harbert.
+
+« Eh ! mon garçon, répondit le marin, il doit y avoir un moyen de transporter ce bois. Il y a toujours moyen de tout faire ! Si nous avions une charrette ou un bateau, ce serait trop facile.
+
+--- Mais nous avons la rivière ! dit Harbert.
+
+--- Juste, répondit Pencroff. La rivière sera pour nous un chemin qui marche tout seul, et les trains de bois n'ont pas été inventés pour rien.
+
+--- Seulement, fit observer Harbert, notre chemin marche en ce moment dans une direction contraire à la nôtre, puisque la mer monte !
+
+--- Nous en serons quittes pour attendre qu'elle baisse, répondit le marin, et c'est elle qui se chargera de transporter notre combustible aux Cheminées. Préparons toujours notre train. »
+
+Le marin, suivi d'Harbert, se dirigea vers l'angle que la lisière de la forêt faisait avec la rivière. Tous deux portaient, chacun en proportion de ses forces, une charge de bois, liée en fagots. Sur la berge se trouvait aussi une grande quantité de branches mortes, au milieu de ces herbes entre lesquelles le pied d'un homme ne s'était, probablement, jamais hasardé. Pencroff commença aussitôt à confectionner son train.
+
+Dans une sorte de remous produit par une pointe de la rive et qui brisait le courant, le marin et le jeune garçon placèrent des morceaux de bois assez gros qu'ils avaient attachés ensemble avec des lianes sèches. Il se forma ainsi une sorte de radeau sur lequel fut empilée successivement toute la récolte, soit la charge de vingt hommes au moins. En une heure, le travail fut fini, et le train, amarré à la berge, dut attendre le renversement de la marée.
+
+Il y avait alors quelques heures à occuper, et, d'un commun accord, Pencroff et Harbert résolurent de gagner le plateau supérieur, afin d'examiner la contrée sur un rayon plus étendu.
+
+Précisément, à deux cents pas en arrière de l'angle formé par la rivière, la muraille, terminée par un éboulement de roches, venait mourir en pente douce sur la lisière de la forêt. C'était comme un escalier naturel. Harbert et le marin commencèrent donc leur ascension. Grâce à la vigueur de leurs jarrets, ils atteignirent la crête en peu d'instants, et vinrent se poster à l'angle qu'elle faisait sur l'embouchure de la rivière.
+
+En arrivant, leur premier regard fut pour cet Océan qu'ils venaient de traverser dans de si terribles conditions ! Ils observèrent avec émotion toute cette partie du nord de la côte, sur laquelle la catastrophe s'était produite. C'était là que Cyrus Smith avait disparu. Ils cherchèrent des yeux si quelque épave de leur ballon, à laquelle un homme aurait pu s'accrocher, ne surnagerait pas encore. Rien ! La mer n'était qu'un vaste désert d'eau. Quant à la côte, déserte aussi. Ni le reporter, ni Nab ne s'y montraient. Mais il était possible qu'en ce moment, tous deux fussent à une telle distance, qu'on ne pût les apercevoir.
+
+« Quelque chose me dit, s'écria Harbert, qu'un homme aussi énergique que M. Cyrus n'a pas pu se laisser noyer comme le premier venu. Il doit avoir atteint quelque point du rivage. N'est-ce pas, Pencroff ? »
+
+Le marin secoua tristement la tête. Lui n'espérait guère plus revoir Cyrus Smith ; mais, voulant laisser quelque espoir à Harbert :
+
+« Sans doute, sans doute, dit-il, notre ingénieur est homme à se tirer d'affaire là où tout autre succomberait !\... »
+
+Cependant, il observait la côte avec une extrême attention. Sous ses yeux se développait la grève de sable, bornée, sur la droite de l'embouchure, par des lignes de brisants. Ces roches, encore émergées, ressemblaient à des groupes d'amphibies couchés dans le ressac. Au-delà de la bande d'écueils, la mer étincelait sous les rayons du soleil. Dans le sud, une pointe aiguë fermait l'horizon, et l'on ne pouvait reconnaître si la terre se prolongeait dans cette direction, ou si elle s'orientait sud-est et sud-ouest, ce qui eût fait de cette côte une sorte de presqu'île très allongée. À l'extrémité septentrionale de la baie, le dessin du littoral se poursuivait à une grande distance, suivant une ligne plus arrondie. Là, le rivage était bas, plat, sans falaise, avec de larges bancs de sable, que le reflux laissait à découvert.
+
+Pencroff et Harbert se retournèrent alors vers l'ouest. Leur regard fut tout d'abord arrêté par la montagne à cime neigeuse, qui se dressait à une distance de six ou sept milles. Depuis ses premières rampes jusqu'à deux milles de la côte, s'étendaient de vastes masses boisées, relevées de grandes plaques vertes dues à la présence d'arbres à feuillage persistant. Puis, de la lisière de cette forêt jusqu'à la côte même, verdoyait un large plateau semé de bouquets d'arbres capricieusement distribués. Sur la gauche, on voyait par instants étinceler les eaux de la petite rivière, à travers quelques éclaircies, et il semblait que son cours assez sinueux la ramenait vers les contreforts de la montagne, entre lesquels elle devait prendre sa source. Au point où le marin avait laissé son train de bois, elle commençait à couler entre les deux hautes murailles de granit ; mais si, sur sa rive gauche, les parois demeuraient nettes et abruptes, sur la rive droite, au contraire, elles s'abaissaient peu à peu, les massifs se changeant en rocs isolés, les rocs en cailloux, les cailloux en galets jusqu'à l'extrémité de la pointe.
+
+« Sommes-nous sur une île ? murmura le marin.
+
+--- En tout cas, elle semblerait être assez vaste ! répondit le jeune garçon.
+
+--- Une île, si vaste qu'elle fût, ne serait toujours qu'une île ! » dit Pencroff.
+
+Mais cette importante question ne pouvait encore être résolue. Il fallait en remettre la solution à un autre moment. Quant à la terre elle-même, île ou continent, elle paraissait fertile, agréable dans ses aspects, variée dans ses productions.
+
+« Cela est heureux, fit observer Pencroff, et, dans notre malheur, il faut en remercier la Providence.
+
+--- Dieu soit donc loué ! » répondit Harbert, dont le cœur pieux était plein de reconnaissance pour l'Auteur de toutes choses.
+
+Pendant longtemps, Pencroff et Harbert examinèrent cette contrée sur laquelle les avait jetés leur destinée, mais il était difficile d'imaginer, après une si sommaire inspection, ce que leur réservait l'avenir.
+
+Puis ils revinrent, en suivant la crête méridionale du plateau de granit, dessinée par un long feston de roches capricieuses, qui affectaient les formes les plus bizarres. Là vivaient quelques centaines d'oiseaux nichés dans les trous de la pierre. Harbert, en sautant sur les roches, fit partir toute une troupe de ces volatiles.
+
+« Ah ! s'écria-t-il, ceux-là ne sont ni des goélands, ni des mouettes !
+
+--- Quels sont donc ces oiseaux ? demanda Pencroff. On dirait, ma foi, des pigeons !
+
+--- En effet, mais ce sont des pigeons sauvages, ou pigeons de roche, répondit Harbert. Je les reconnais à la double bande noire de leur aile, à leur croupion blanc, à leur plumage bleu cendré. Or, si le pigeon de roche est bon à manger, ses œufs doivent être excellents, et, pour peu que ceux-ci en aient laissé dans leurs nids !\...
+
+--- Nous ne leur donnerons pas le temps d'éclore, si ce n'est sous forme d'omelette ! répondit gaiement Pencroff.
+
+--- Mais dans quoi feras-tu ton omelette ? demanda Harbert. Dans ton chapeau ?
+
+--- Bon ! répondit le marin, je ne suis pas assez sorcier pour cela. Nous nous rabattrons donc sur les œufs à la coque, mon garçon, et je me charge d'expédier les plus durs ! »
+
+Pencroff et le jeune garçon examinèrent avec attention les anfractuosités du granit, et ils trouvèrent, en effet, des œufs dans certaines cavités ! Quelques douzaines furent recueillies, puis placées dans le mouchoir du marin, et, le moment approchant où la mer devait être pleine, Harbert et Pencroff commencèrent à redescendre vers le cours d'eau.
+
+Quand ils arrivèrent au coude de la rivière, il était une heure après midi. Le courant se renversait déjà. Il fallait donc profiter du reflux pour amener le train de bois à l'embouchure. Pencroff n'avait pas l'intention de laisser ce train s'en aller, au courant, sans direction, et il n'entendait pas, non plus, s'y embarquer pour le diriger. Mais un marin n'est jamais embarrassé, quand il s'agit de câbles ou de cordages, et Pencroff tressa rapidement une corde longue de plusieurs brasses au moyen de lianes sèches. Ce câble végétal fut attaché à l'arrière du radeau, et le marin le tint à la main, tandis que Harbert, repoussant le train avec une longue perche, le maintenait dans le courant.
+
+Le procédé réussit à souhait. L'énorme charge de bois, que le marin retenait en marchant sur la rive, suivit le fil de l'eau. La berge était très accore, il n'y avait pas à craindre que le train ne s'échouât, et, avant deux heures, il arrivait à l'embouchure, à quelques pas des Cheminées.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729906 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728978 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728050 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727463 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726535 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724219 .pcalibre .pcalibre4 .pcalibre3} *5* {#chapitre-5 .calibre171 .sigil_not_in_toc}
+
+Aménagement des Cheminées. -- L'importante question du feu. -- La boîte d'allumettes. -- Recherche sur la plage. -- Retour du reporter et de Nab. -- Une seule allumette ! -- Le foyer pétillant. -- Le premier souper. -- La première nuit à terre.
+
+
+Le premier soin de Pencroff, dès que le train de bois eut été déchargé, fut de rendre les Cheminées habitables, en obstruant ceux des couloirs à travers lesquels s'établissait le courant d'air. Du sable, des pierres, des branches entrelacées, de la terre mouillée bouchèrent hermétiquement les galeries de l'&, ouvertes aux vents du sud, et en isolèrent la boucle supérieure. Un seul boyau, étroit et sinueux, qui s'ouvrait sur la partie latérale, fut ménagé, afin de conduire la fumée au-dehors et de provoquer le tirage du foyer. Les Cheminées se trouvaient ainsi divisées en trois ou quatre chambres, si toutefois on peut donner ce nom à autant de tanières sombres, dont un fauve se fût à peine contenté. Mais on y était au sec, et l'on pouvait s'y tenir debout, du moins dans la principale de ces chambres, qui occupait le centre. Un sable fin en couvrait le sol, et, tout compte fait, on pouvait s'en arranger, en attendant mieux.
+
+Tout en travaillant, Harbert et Pencroff causaient.
+
+« Peut-être, disait Harbert, nos compagnons auront-ils trouvé une meilleure installation que la nôtre ?
+
+--- C'est possible, répondait le marin, mais, dans le doute, ne t'abstiens pas ! Mieux vaut une corde de trop à son arc que pas du tout de corde !
+
+--- Ah ! répétait Harbert, qu'ils ramènent M. Smith, qu'ils le retrouvent, et nous n'aurons plus qu'à remercier le Ciel !
+
+--- Oui ! murmurait Pencroff. C'était un homme celui-là, et un vrai !
+
+--- C'était\... dit Harbert. Est-ce que tu désespères de le revoir jamais ?
+
+--- Dieu m'en garde ! » répondit le marin.
+
+Le travail d'appropriation fut rapidement exécuté, et Pencroff s'en déclara très satisfait.
+
+« Maintenant, dit-il, nos amis peuvent revenir. Ils trouveront un abri suffisant. »
+
+Restait à établir le foyer et à préparer le repas. Besogne simple et facile, en vérité. De larges pierres plates furent disposées au fond du premier couloir de gauche, à l'orifice de l'étroit boyau qui avait été réservé. Ce que la fumée n'entraînerait pas de chaleur au-dehors suffirait évidemment à maintenir une température convenable au-dedans. La provision de bois fut emmagasinée dans l'une des chambres, et le marin plaça sur les pierres du foyer quelques bûches, entremêlées de menu bois.
+
+Le marin s'occupait de ce travail, quand Harbert lui demanda s'il avait des allumettes.
+
+« Certainement, répondit Pencroff, et j'ajouterai : heureusement, car, sans allumettes ou sans amadou, nous serions fort embarrassés !
+
+--- Nous pourrions toujours faire du feu comme les sauvages, répondit Harbert, en frottant deux morceaux de bois secs l'un contre l'autre ?
+
+--- Eh bien ! essayez, mon garçon, et nous verrons si vous arriverez à autre chose qu'à vous rompre les bras !
+
+--- Cependant, c'est un procédé très simple et très usité dans les îles du Pacifique.
+
+--- Je ne dis pas non, répondit Pencroff, mais il faut croire que les sauvages connaissent la manière de s'y prendre, ou qu'ils emploient un bois particulier, car, plus d'une fois déjà, j'ai voulu me procurer du feu de cette façon, et je n'ai jamais pu y parvenir ! J'avoue donc que je préfère les allumettes ! Où sont mes allumettes ? »
+
+Pencroff chercha dans sa veste la boîte qui ne le quittait jamais, car il était un fumeur acharné. Il ne la trouva pas. Il fouilla les poches de son pantalon, et, à sa stupéfaction profonde, il ne trouva point davantage la boîte en question.
+
+« Voilà qui est bête, et plus que bête ! dit-il en regardant Harbert. Cette boîte sera tombée de ma poche, et je l'ai perdue ! Mais, vous, Harbert, est-ce que vous n'avez rien, ni briquet, ni quoi que ce soit qui puisse servir à faire du feu ?
+
+--- Non, Pencroff ! »
+
+Le marin sortit, suivi du jeune garçon, et se grattant le front avec vivacité. Sur le sable, dans les roches, près de la berge de la rivière, tous deux cherchèrent avec le plus grand soin, mais inutilement. La boîte était en cuivre et n'eût point échappé à leurs yeux.
+
+« Pencroff, demanda Harbert, n'as-tu pas jeté cette boîte hors de la nacelle ?
+
+--- Je m'en suis bien gardé, répondit le marin. Mais, quand on a été secoués comme nous venons de l'être, un si mince objet peut avoir disparu. Ma pipe, elle-même, m'a bien quitté ! Satanée boîte ! Où peut-elle être ?
+
+--- Eh bien, la mer se retire, dit Harbert, courons à l'endroit où nous avons pris terre. »
+
+Il était peu probable qu'on retrouvât cette boîte que les lames avaient dû rouler au milieu des galets, à marée haute, mais il était bon de tenir compte de cette circonstance. Harbert et Pencroff se dirigèrent rapidement vers le point où ils avaient atterri la veille, à deux cents pas environ des Cheminées.
+
+Là, au milieu des galets, dans le creux des roches, les recherches furent faites minutieusement. Résultat nul. Si la boîte était tombée en cet endroit, elle avait dû être entraînée par les flots. À mesure que la mer se retirait, le marin fouillait tous les interstices des roches, sans rien trouver. C'était une perte grave dans la circonstance, et, pour le moment, irréparable.
+
+Pencroff ne cacha point son désappointement très vif. Son front s'était fortement plissé. Il ne prononçait pas une seule parole. Harbert voulut le consoler en faisant observer que, très probablement, les allumettes auraient été mouillées par l'eau de mer, et qu'il eût été impossible de s'en servir.
+
+« Mais non, mon garçon, répondit le marin. Elles étaient dans une boîte en cuivre qui fermait bien ! Et maintenant, comment faire ?
+
+--- Nous trouverons certainement moyen de nous procurer du feu, dit Harbert. M. Smith ou M. Spilett ne seront pas à court comme nous !
+
+--- Oui, répondit Pencroff, mais, en attendant, nous sommes sans feu, et nos compagnons ne trouveront qu'un triste repas à leur retour !
+
+--- Mais, dit vivement Harbert, il n'est pas possible qu'ils n'aient ni amadou, ni allumettes !
+
+--- J'en doute, répondit le marin en secouant la tête. D'abord Nab et M. Smith ne fument pas, et je crains bien que M. Spilett n'ait plutôt conservé son carnet que sa boîte d'allumettes ! »
+
+Harbert ne répondit pas. La perte de la boîte était évidemment un fait regrettable. Toutefois, le jeune garçon comptait bien que l'on se procurerait du feu d'une manière ou d'une autre. Pencroff, plus expérimenté, et bien qu'il ne fût point homme à s'embarrasser de peu, ni de beaucoup, n'en jugeait pas ainsi. En tout cas, il n'y avait qu'un parti à prendre : attendre le retour de Nab et du reporter. Mais il fallait renoncer au repas d'œufs durcis qu'il voulait leur préparer, et le régime de chair crue ne lui semblait, ni pour eux, ni pour lui-même, une perspective agréable.
+
+Avant de retourner aux Cheminées, le marin et Harbert, dans le cas où le feu leur manquerait définitivement, firent une nouvelle récolte de lithodomes, et ils reprirent silencieusement le chemin de leur demeure.
+
+Pencroff, les yeux fixés à terre, cherchait toujours son introuvable boîte. Il remonta même la rive gauche de la rivière depuis son embouchure jusqu'à l'angle où le train de bois avait été amarré. Il revint sur le plateau supérieur, il le parcourut en tous sens, il chercha dans les hautes herbes sur la lisière de la forêt, -- le tout vainement.
+
+Il était cinq heures du soir, quand Harbert et lui rentrèrent aux Cheminées. Inutile de dire que les couloirs furent fouillés jusque dans leurs plus sombres coins, et qu'il fallut y renoncer décidément.
+
+Vers six heures, au moment où le soleil disparaissait derrière les hautes terres de l'ouest, Harbert, qui allait et venait sur la grève, signala le retour de Nab et de Gédéon Spilett.
+
+Ils revenaient seuls !\... Le jeune garçon éprouva un inexprimable serrement de cœur. Le marin ne s'était point trompé dans ses pressentiments. L'ingénieur Cyrus Smith n'avait pu être retrouvé !
+
+Le reporter, en arrivant, s'assit sur une roche, sans mot dire. Épuisé de fatigue, mourant de faim, il n'avait pas la force de prononcer une parole !
+
+Quant à Nab, ses yeux rougis prouvaient combien il avait pleuré, et de nouvelles larmes qu'il ne put retenir dirent trop clairement qu'il avait perdu tout espoir !
+
+Le reporter fit le récit des recherches tentées pour retrouver Cyrus Smith. Nab et lui avaient parcouru la côte sur un espace de plus de huit milles, et, par conséquent, bien au-delà du point où s'était effectuée l'avant-dernière chute du ballon, chute qui avait été suivie de la disparition de l'ingénieur et du chien Top. La grève était déserte. Nulle trace, nulle empreinte. Pas un caillou fraîchement retourné, pas un indice sur le sable, pas une marque d'un pied humain sur toute cette partie du littoral. Il était évident qu'aucun habitant ne fréquentait cette portion de la côte. La mer était aussi déserte que le rivage, et c'était là, à quelques centaines de pieds de la côte, que l'ingénieur avait trouvé son tombeau.
+
+En ce moment, Nab se leva, et d'une voix qui dénotait combien les sentiments d'espoir résistaient en lui :
+
+« Non ! s'écria-t-il, non ! Il n'est pas mort ! Non ! cela n'est pas ! Lui ! allons donc ! Moi ! n'importe quel autre, possible ! mais lui ! jamais. C'est un homme à revenir de tout !\... »
+
+Puis, la force l'abandonnant :
+
+« Ah ! je n'en puis plus ! » murmura-t-il.
+
+Harbert courut à lui.
+
+« Nab, dit le jeune garçon, nous le retrouverons ! Dieu nous le rendra ! Mais en attendant, vous avez faim ! Mangez, mangez un peu, je vous en prie ! »
+
+Et, ce disant, il offrait au pauvre nègre quelques poignées de coquillages, maigre et insuffisante nourriture !
+
+Nab n'avait pas mangé depuis bien des heures, mais il refusa. Privé de son maître, Nab ne pouvait ou ne voulait plus vivre !
+
+Quant à Gédéon Spilett, il dévora ces mollusques ; puis, il se coucha sur le sable au pied d'une roche. Il était exténué, mais calme.
+
+Alors, Harbert s'approcha de lui, et, lui prenant la main :
+
+« Monsieur, dit-il, nous avons découvert un abri où vous serez mieux qu'ici. Voici la nuit qui vient. Venez vous reposer ! Demain, nous verrons\... »
+
+Le reporter se leva, et, guidé par le jeune garçon, il se dirigea vers les Cheminées.
+
+En ce moment, Pencroff s'approcha de lui, et, du ton le plus naturel, il lui demanda si, par hasard, il n'aurait pas sur lui une allumette.
+
+Le reporter s'arrêta, chercha dans ses poches, n'y trouva rien et dit :
+
+« J'en avais, mais j'ai dû tout jeter\... »
+
+Le marin appela Nab alors, lui fit la même demande, et reçut la même réponse.
+
+« Malédiction ! » s'écria le marin, qui ne put retenir ce mot.
+
+Le reporter l'entendit, et, allant à Pencroff :
+
+« Pas une allumette ? dit-il.
+
+--- Pas une, et par conséquent pas de feu !
+
+--- Ah ! s'écria Nab, s'il était là, mon maître, il saurait bien vous en faire ! »
+
+Les quatre naufragés restèrent immobiles et se regardèrent, non sans inquiétude. Ce fut Harbert qui le premier rompit le silence, en disant :
+
+« Monsieur Spilett, vous êtes fumeur, vous avez toujours des allumettes sur vous ! Peut-être n'avez-vous pas bien cherché ? Cherchez encore ! Une seule allumette nous suffirait ! »
+
+Le reporter fouilla de nouveau ses poches de pantalon, de gilet, de paletot, et enfin, à la grande joie de Pencroff, non moins qu'à son extrême surprise, il sentit un petit morceau de bois engagé dans la doublure de son gilet. Ses doigts avaient saisi ce petit morceau de bois à travers l'étoffe, mais ils ne pouvaient le retirer. Comme ce devait être une allumette, et une seule, il s'agissait de ne point en érailler le phosphore.
+
+« Voulez-vous me laisser faire ? » lui dit le jeune garçon.
+
+Et fort adroitement, sans le casser, il parvint à retirer ce petit morceau de bois, ce misérable et précieux fétu, qui, pour ces pauvres gens, avait une si grande importance ! Il était intact.
+
+« Une allumette ! s'écria Pencroff. Ah ! c'est comme si nous en avions une cargaison tout entière ! »
+
+Il prit l'allumette, et, suivi de ses compagnons, il regagna les Cheminées.
+
+Ce petit morceau de bois, que dans les pays habités on prodigue avec tant d'indifférence, et dont la valeur est nulle, il fallait ici s'en servir avec une extrême précaution. Le marin s'assura qu'il était bien sec. Puis, cela fait :
+
+« Il faudrait du papier, dit-il.
+
+--- En voici », répondit Gédéon Spilett, qui, après quelque hésitation, déchira une feuille de son carnet.
+
+Pencroff prit le morceau de papier que lui tendait le reporter, et il s'accroupit devant le foyer. Là, quelques poignées d'herbes, de feuilles et de mousses sèches furent placées sous les fagots et disposées de manière que l'air pût circuler aisément et enflammer rapidement le bois mort.
+
+Alors, Pencroff plia le morceau de papier en forme de cornet, ainsi que font les fumeurs de pipe par les grands vents, puis, il l'introduisit entre les mousses. Prenant ensuite un galet légèrement raboteux, il l'essuya avec soin, et, non sans que le cœur lui battît, il frotta doucement l'allumette, en retenant sa respiration.
+
+Le premier frottement ne produisit aucun effet. Pencroff n'avait pas appuyé assez vivement, craignant d'érailler le phosphore.
+
+« Non, je ne pourrai pas, dit-il, ma main tremble\... L'allumette raterait\... Je ne peux pas\... je ne veux pas !\... » et se relevant, il chargea Harbert de le remplacer.
+
+Certes, le jeune garçon n'avait de sa vie été aussi impressionné. Le cœur lui battait fort. Prométhée allant dérober le feu du ciel ne devait pas être plus ému ! Il n'hésita pas, cependant, et frotta rapidement le galet. Un petit grésillement se fit entendre et une légère flamme bleuâtre jaillit en produisant une fumée âcre. Harbert retourna doucement l'allumette, de manière à alimenter la flamme, puis, il la glissa dans le cornet de papier. Le papier prit feu en quelques secondes, et les mousses brûlèrent aussitôt.
+
+Quelques instants plus tard, le bois sec craquait, et une joyeuse flamme, activée par le vigoureux souffle du marin, se développait au milieu de l'obscurité.
+
+« Enfin, s'écria Pencroff en se relevant, je n'ai jamais été si ému de ma vie ! »
+
+Il est certain que ce feu faisait bien sur le foyer de pierres plates. La fumée s'en allait facilement par l'étroit conduit, la cheminée tirait, et une agréable chaleur ne tarda pas à se répandre.
+
+Quant à ce feu, il fallait prendre garde de ne plus le laisser éteindre, et conserver toujours quelque braise sous la cendre. Mais ce n'était qu'une affaire de soin et d'attention, puisque le bois ne manquait pas, et que la provision pourrait toujours être renouvelée en temps utile.
+
+Pencroff songea tout d'abord à utiliser le foyer, en préparant un souper plus nourrissant qu'un plat de lithodomes. Deux douzaines d'œufs furent apportées par Harbert. Le reporter, accoté dans un coin, regardait ces apprêts sans rien dire. Une triple pensée tendait son esprit. Cyrus vit-il encore ? S'il vit, où peut-il être ? S'il a survécu à sa chute, comment expliquer qu'il n'ait pas trouvé le moyen de faire connaître son existence ? Quant à Nab, il rôdait sur la grève. Ce n'était plus qu'un corps sans âme.
+
+Pencroff, qui connaissait cinquante-deux manières d'accommoder les œufs, n'avait pas le choix en ce moment. Il dut se contenter de les introduire dans les cendres chaudes, et de les laisser durcir à petit feu.
+
+En quelques minutes, la cuisson fut opérée, et le marin invita le reporter à prendre sa part du souper. Tel fut le premier repas des naufragés sur cette côte inconnue. Ces œufs durcis étaient excellents, et, comme l'œuf contient tous les éléments indispensables à la nourriture de l'homme, ces pauvres gens s'en trouvèrent fort bien et se sentirent réconfortés.
+
+Ah ! si l'un d'eux n'eût pas manqué à ce repas ! Si les cinq prisonniers échappés de Richmond eussent été tous là, sous ces roches amoncelées, devant ce feu pétillant et clair, sur ce sable sec, peut-être n'auraient-ils eu que des actions de grâces à rendre au ciel ! Mais le plus ingénieux, le plus savant aussi, celui qui était leur chef incontesté, Cyrus Smith, manquait, hélas ! et son corps n'avait pu même obtenir une sépulture !
+
+Ainsi se passa cette journée du 25 mars. La nuit était venue. On entendait au-dehors le vent siffler et le ressac monotone battre la côte. Les galets, poussés et ramenés par les lames, roulaient avec un fracas assourdissant.
+
+Le reporter s'était retiré au fond d'un obscur couloir, après avoir sommairement noté les incidents de ce jour : la première apparition de cette terre nouvelle, la disparition de l'ingénieur, l'exploration de la côte, l'incident des allumettes, etc. ; et, la fatigue aidant, il parvint à trouver quelque repos dans le sommeil.
+
+Harbert, lui, s'endormit bientôt. Quant au marin, veillant d'un œil, il passa la nuit près du foyer, auquel il n'épargna pas le combustible.
+
+Un seul des naufragés ne reposa pas dans les Cheminées. Ce fut l'inconsolable, le désespéré Nab, qui, cette nuit tout entière, et malgré ce que lui dirent ses compagnons pour l'engager à prendre du repos, erra sur la grève en appelant son maître !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729907 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728979 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728051 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727464 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726536 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724220 .pcalibre .pcalibre4 .pcalibre3} *6* {#chapitre-6 .calibre171 .sigil_not_in_toc}
+
+L'inventaire des naufragés. -- Rien. -- Le linge brûlé. -- Une excursion dans la forêt. -- La flore des arbres verts. -- Le jacamar en fuite. -- Trace de bêtes fauves. -- Les couroucous. -- Les tétras. -- Une singulière pêche à la ligne.
+
+
+L'inventaire des objets possédés par ces naufragés de l'air, jetés sur une côte qui paraissait être inhabitée, sera promptement établi.
+
+Ils n'avaient rien, sauf les habits qu'ils portaient au moment de la catastrophe. Il faut cependant mentionner un carnet et une montre que Gédéon Spilett avait conservée par mégarde sans doute, mais pas une arme, pas un outil, pas même un couteau de poche. Les passagers de la nacelle avaient tout jeté au-dehors pour alléger l'aérostat.
+
+Les héros imaginaires de Daniel de Foé ou de Wyss, aussi bien que les Selkirk et les Raynal, naufragés à Juan-Fernandez ou à l'archipel des Auckland, ne furent jamais dans un dénuement aussi absolu. Ou ils tiraient des ressources abondantes de leur navire échoué, soit en graines, en bestiaux, en outils, en munitions, ou bien quelque épave arrivait à la côte qui leur permettait de subvenir aux premiers besoins de la vie. Ils ne se trouvaient pas tout d'abord absolument désarmés en face de la nature. Mais ici, pas un instrument quelconque, pas un ustensile. De rien, il leur faudrait arriver à tout !
+
+Et si encore Cyrus Smith eût été avec eux, si l'ingénieur eût pu mettre sa science pratique, son esprit inventif, au service de cette situation, peut-être tout espoir n'eût-il pas été perdu ! Hélas ! il ne fallait plus compter revoir Cyrus Smith. Les naufragés ne devaient rien attendre que d'eux-mêmes, et de cette Providence qui n'abandonne jamais ceux dont la foi est sincère.
+
+Mais, avant tout, devaient-ils s'installer sur cette partie de la côte, sans chercher à savoir à quel continent elle appartenait, si elle était habitée, ou si ce littoral n'était que le rivage d'une île déserte ?
+
+C'était une question importante à résoudre et dans le plus bref délai. De sa solution sortiraient les mesures à prendre. Toutefois, suivant l'avis de Pencroff, il parut convenable d'attendre quelques jours avant d'entreprendre une exploration. Il fallait, en effet, préparer des vivres et se procurer une alimentation plus fortifiante que celle uniquement due à des œufs ou des mollusques. Les explorateurs, exposés à supporter de longues fatigues, sans un abri pour y reposer leur tête, devaient, avant tout, refaire leurs forces.
+
+Les Cheminées offraient une retraite suffisante provisoirement. Le feu était allumé, et il serait facile de conserver des braises. Pour le moment, les coquillages et les œufs ne manquaient pas dans les rochers et sur la grève. On trouverait bien le moyen de tuer quelques-uns de ces pigeons qui volaient par centaines à la crête du plateau, fût-ce à coups de bâton ou à coups de pierre. Peut-être les arbres de la forêt voisine donneraient-ils des fruits comestibles ? Enfin, l'eau douce était là. Il fut donc convenu que, pendant quelques jours, on resterait aux Cheminées, afin de s'y préparer pour une exploration, soit sur le littoral, soit à l'intérieur du pays.
+
+Ce projet convenait particulièrement à Nab. Entêté dans ses idées comme dans ses pressentiments, il n'avait aucune hâte d'abandonner cette portion de la côte, théâtre de la catastrophe. Il ne croyait pas, il ne voulait pas croire à la perte de Cyrus Smith. Non, il ne lui semblait pas possible qu'un tel homme eût fini de cette vulgaire façon, emporté par un coup de mer, noyé dans les flots, à quelques centaines de pas d'un rivage ! Tant que les lames n'auraient pas rejeté le corps de l'ingénieur, tant que lui, Nab, n'aurait pas vu de ses yeux, touché de ses mains, le cadavre de son maître, il ne croirait pas à sa mort ! Et cette idée s'enracina plus que jamais dans son cœur obstiné. Illusion peut-être, illusion respectable toutefois, que le marin ne voulut pas détruire ! Pour lui, il n'était plus d'espoir, et l'ingénieur avait bien réellement péri dans les flots, mais avec Nab, il n'y avait pas à discuter. C'était comme le chien qui ne peut quitter la place où est tombé son maître, et sa douleur était telle que, probablement, il ne lui survivrait pas.
+
+Ce matin-là, 26 mars, dès l'aube, Nab avait repris sur la côte la direction du nord, et il était retourné là où la mer, sans doute, s'était refermée sur l'infortuné Smith.
+
+Le déjeuner de ce jour fut uniquement composé d'œufs de pigeon et de lithodomes. Harbert avait trouvé du sel déposé dans le creux des roches par évaporation, et cette substance minérale vint fort à propos.
+
+Ce repas terminé, Pencroff demanda au reporter si celui-ci voulait les accompagner dans la forêt, où Harbert et lui allaient essayer de chasser ! Mais, toute réflexion faite, il était nécessaire que quelqu'un restât, afin d'entretenir le feu, et pour le cas, fort improbable, où Nab aurait eu besoin d'aide. Le reporter resta donc.
+
+« En chasse, Harbert, dit le marin. Nous trouverons des munitions sur notre route, et nous couperons notre fusil dans la forêt. »
+
+Mais, au moment de partir, Harbert fit observer que, puisque l'amadou manquait, il serait peut-être prudent de le remplacer par une autre substance.
+
+« Laquelle ? demanda Pencroff.
+
+--- Le linge brûlé, répondit le jeune garçon. Cela peut, au besoin, servir d'amadou. »
+
+Le marin trouva l'avis fort sensé. Seulement, il avait l'inconvénient de nécessiter le sacrifice d'un morceau de mouchoir. Néanmoins, la chose en valait la peine, et le mouchoir à grands carreaux de Pencroff fut bientôt réduit, pour une partie, à l'état de chiffon à demi brûlé. Cette matière inflammable fut déposée dans la chambre centrale, au fond d'une petite cavité du roc, à l'abri de tout vent et de toute humidité.
+
+Il était alors neuf heures du matin. Le temps menaçait, et la brise soufflait du sud-est. Harbert et Pencroff tournèrent l'angle des Cheminées, non sans avoir jeté un regard sur la fumée qui se tordait à une pointe de roc ; puis, ils remontèrent la rive gauche de la rivière.
+
+Arrivé à la forêt, Pencroff cassa au premier arbre deux solides branches qu'il transforma en gourdins, et dont Harbert usa la pointe sur une roche. Ah ! que n'eût-il donné pour avoir un couteau ! Puis, les deux chasseurs s'avancèrent dans les hautes herbes, en suivant la berge. À partir du coude qui reportait son cours dans le sud-ouest, la rivière se rétrécissait peu à peu, et ses rives formaient un lit très encaissé recouvert par le double arceau des arbres. Pencroff, afin de ne pas s'égarer, résolut de suivre le cours d'eau qui le ramènerait toujours à son point de départ. Mais la berge n'était pas sans présenter quelques obstacles, ici des arbres dont les branches flexibles se courbaient jusqu'au niveau du courant, là des lianes ou des épines qu'il fallait briser à coups de bâton. Souvent, Harbert se glissait entre les souches brisées avec la prestesse d'un jeune chat, et il disparaissait dans le taillis. Mais Pencroff le rappelait aussitôt en le priant de ne point s'éloigner.
+
+Cependant, le marin observait avec attention la disposition et la nature des lieux. Sur cette rive gauche, le sol était plat et remontait insensiblement vers l'intérieur. Quelquefois humide, il prenait alors une apparence marécageuse. On y sentait tout un réseau sous-jacent de filets liquides qui, par quelque faille souterraine, devaient s'épancher vers la rivière. Quelquefois aussi, un ruisseau coulait à travers le taillis, que l'on traversait sans peine. La rive opposée paraissait être plus accidentée, et la vallée, dont la rivière occupait le thalweg, s'y dessinait plus nettement. La colline, couverte d'arbres disposés par étages, formait un rideau qui masquait le regard. Sur cette rive droite, la marche eût été difficile, car les déclivités s'y abaissaient brusquement, et les arbres, courbés sur l'eau, ne se maintenaient que par la puissance de leurs racines.
+
+Inutile d'ajouter que cette forêt, aussi bien que la côte déjà parcourue, était vierge de toute empreinte humaine. Pencroff n'y remarqua que des traces de quadrupèdes, des passées fraîches d'animaux, dont il ne pouvait reconnaître l'espèce. Très certainement -- et ce fut aussi l'opinion d'Harbert, -- quelques-unes avaient été laissées par des fauves formidables avec lesquels il y aurait à compter sans doute ; mais nulle part la marque d'une hache sur un tronc d'arbre, ni les restes d'un feu éteint, ni l'empreinte d'un pas ; ce dont on devait se féliciter peut-être, car sur cette terre, en plein Pacifique, la présence de l'homme eût été peut-être plus à craindre qu'à désirer.
+
+Harbert et Pencroff, causant à peine, car les difficultés de la route étaient grandes, n'avançaient que fort lentement, et, après une heure de marche, ils avaient à peine franchi un mille. Jusqu'alors, la chasse n'avait pas été fructueuse. Cependant, quelques oiseaux chantaient et voletaient sous la ramure, et se montraient très farouches, comme si l'homme leur eût instinctivement inspiré une juste crainte. Entre autres volatiles, Harbert signala, dans une partie marécageuse de la forêt, un oiseau à bec aigu et allongé, qui ressemblait anatomiquement à un martin-pêcheur. Toutefois, il se distinguait de ce dernier par son plumage assez rude, revêtu d'un éclat métallique.
+
+« Ce doit être un "jacamar", dit Harbert, en essayant d'approcher l'animal à bonne portée.
+
+--- Ce serait bien l'occasion de goûter du jacamar, répondit le marin, si cet oiseau-là était d'humeur à se laisser rôtir ! »
+
+En ce moment, une pierre, adroitement et vigoureusement lancée par le jeune garçon, vint frapper le volatile à la naissance de l'aile ; mais le coup ne fut pas suffisant, car le jacamar s'enfuit de toute la vitesse de ses jambes et disparut en un instant.
+
+« Maladroit que je suis ! s'écria Harbert.
+
+--- Eh non, mon garçon ! répondit le marin. Le coup était bien porté, et plus d'un aurait manqué l'oiseau. Allons ! ne vous dépitez pas ! Nous le rattraperons un autre jour ! »
+
+L'exploration continua. À mesure que les chasseurs s'avançaient, les arbres, plus espacés, devenaient magnifiques, mais aucun ne produisait de fruits comestibles. Pencroff cherchait vainement quelques-uns de ces précieux palmiers qui se prêtent à tant d'usages de la vie domestique, et dont la présence a été signalée jusqu'au 40^e^ parallèle dans l'hémisphère boréal et jusqu'au 35^e^ seulement dans l'hémisphère austral. Mais cette forêt ne se composait que de conifères, tels que les déodars, déjà reconnus par Harbert, des « douglas », semblables à ceux qui poussent sur la côte nord-ouest de l'Amérique, et des sapins admirables, mesurant cent cinquante pieds de hauteur.
+
+En ce moment, une volée d'oiseaux de petite taille et d'un joli plumage, à queue longue et chatoyante, s'éparpillèrent entre les branches, semant leurs plumes, faiblement attachées, qui couvrirent le sol d'un fin duvet. Harbert ramassa quelques-unes de ces plumes, et, après les avoir examinées :
+
+« Ce sont des "couroucous", dit-il.
+
+--- Je leur préférerais une pintade ou un coq de bruyère, répondit Pencroff ; mais enfin, s'ils sont bons à manger ?
+
+--- Ils sont bons à manger, et même leur chair est très délicate, reprit Harbert. D'ailleurs, si je ne me trompe, il est facile de les approcher et de les tuer à coups de bâton. »
+
+Le marin et le jeune garçon, se glissant entre les herbes, arrivèrent au pied d'un arbre dont les basses branches étaient couvertes de petits oiseaux. Ces couroucous attendaient au passage les insectes qui leur servent de nourriture. On voyait leurs pattes emplumées serrer fortement les pousses moyennes qui leur servaient d'appui.
+
+Les chasseurs se redressèrent alors, et, avec leurs bâtons manœuvrés comme une faux, ils rasèrent des files entières de ces couroucous, qui ne songeaient point à s'envoler et se laissèrent stupidement abattre. Une centaine jonchait déjà le sol, quand les autres se décidèrent à fuir.
+
+« Bien, dit Pencroff, voilà un gibier tout à fait à la portée de chasseurs tels que nous ! On le prendrait à la main ! »
+
+Le marin enfila les couroucous, comme des mauviettes, au moyen d'une baguette flexible, et l'exploration continua. On put observer que le cours d'eau s'arrondissait légèrement, de manière à former un crochet vers le sud, mais ce détour ne se prolongeait vraisemblablement pas, car la rivière devait prendre sa source dans la montagne et s'alimenter de la fonte des neiges qui tapissaient les flancs du cône central.
+
+L'objet particulier de cette excursion était, on le sait, de procurer aux hôtes des Cheminées la plus grande quantité possible de gibier. On ne pouvait dire que le but jusqu'ici eût été atteint. Aussi le marin poursuivait-il activement ses recherches, et maugréait-il quand quelque animal, qu'il n'avait pas même le temps de reconnaître, s'enfuyait entre les hautes herbes. Si encore il avait eu le chien Top ! Mais Top avait disparu en même temps que son maître et probablement péri avec lui !
+
+Vers trois heures après midi, de nouvelles bandes d'oiseaux furent entrevues à travers certains arbres, dont ils becquetaient les baies aromatiques, entre autres des genévriers. Soudain, un véritable appel de trompette résonna dans la forêt. Ces étranges et sonores fanfares étaient produites par ces gallinacés que l'on nomme « tétras » aux États-Unis. Bientôt on en vit quelques couples, au plumage varié de fauve et de brun, et à la queue brune. Harbert reconnut les mâles aux deux ailerons pointus, formés par les pennes relevées de leur cou. Pencroff jugea indispensable de s'emparer de l'un de ces gallinacés, gros comme une poule, et dont la chair vaut celle de la gélinotte. Mais c'était difficile, car ils ne se laissaient point approcher. Après plusieurs tentatives infructueuses, qui n'eurent d'autre résultat que d'effrayer les tétras, le marin dit au jeune garçon :
+
+« Décidément, puisqu'on ne peut les tuer au vol, il faut essayer de les prendre à la ligne.
+
+--- Comme une carpe ? s'écria Harbert, très surpris de la proposition.
+
+--- Comme une carpe », répondit sérieusement le marin.
+
+Pencroff avait trouvé dans les herbes une demi-douzaine de nids de tétras, ayant chacun de deux à trois œufs. Il eut grand soin de ne pas toucher à ces nids, auxquels leurs propriétaires ne pouvaient manquer de revenir. Ce fut autour d'eux qu'il imagina de tendre ses lignes -- non des lignes à collets, mais de véritables lignes à hameçon. Il emmena Harbert à quelque distance des nids, et là il prépara ses engins singuliers avec le soin qu'eût apporté un disciple d'Isaac Walton[[\[4\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn4011){#_ftnref4011 .pcalibre4 .pcalibre3}. Harbert suivait ce travail avec un intérêt facile à comprendre, tout en doutant de la réussite. Les lignes furent faites de minces lianes, rattachées l'une à l'autre et longues de quinze à vingt pieds. De grosses épines très fortes, à pointes recourbées, que fournit un buisson d'acacias nains, furent liées aux extrémités des lianes en guise d'hameçon. Quant à l'appât, de gros vers rouges qui rampaient sur le sol en tinrent lieu.
+
+Cela fait, Pencroff, passant entre les herbes et se dissimulant avec adresse, alla placer le bout de ses lignes armées d'hameçons près des nids de tétras ; puis il revint prendre l'autre bout et se cacha avec Harbert derrière un gros arbre. Tous deux alors attendirent patiemment. Harbert, il faut le dire, ne comptait pas beaucoup sur le succès de l'inventif Pencroff.
+
+Une grande demi-heure s'écoula, mais, ainsi que l'avait prévu le marin, plusieurs couples de tétras revinrent à leurs nids. Ils sautillaient, becquetant le sol, et ne pressentant en aucune façon la présence des chasseurs, qui, d'ailleurs, avaient eu soin de se placer sous le vent des gallinacés.
+
+Certes, le jeune garçon, à ce moment, se sentit intéressé très vivement. Il retenait son souffle, et Pencroff, les yeux écarquillés, la bouche ouverte, les lèvres avancées comme s'il allait goûter un morceau de tétras, respirait à peine.
+
+Cependant, les gallinacés se promenaient entre les hameçons, sans trop s'en préoccuper. Pencroff alors donna de petites secousses qui agitèrent les appâts, comme si les vers eussent été encore vivants.
+
+À coup sûr, le marin, en ce moment, éprouvait une émotion bien autrement forte que celle du pêcheur à la ligne, qui, lui, ne voit pas venir sa proie à travers les eaux.
+
+Les secousses éveillèrent bientôt l'attention des gallinacés, et les hameçons furent attaqués à coups de bec. Trois tétras, très voraces sans doute, avalèrent à la fois l'appât et l'hameçon. Soudain, d'un coup sec, Pencroff « ferra » son engin, et des battements d'ailes lui indiquèrent que les oiseaux étaient pris.
+
+« Hurrah ! » s'écria-t-il en se précipitant vers ce gibier, dont il se rendit maître en un instant.
+
+Harbert avait battu des mains. C'était la première fois qu'il voyait prendre des oiseaux à la ligne, mais le marin, très modeste, lui affirma qu'il n'en était pas à son coup d'essai, et que, d'ailleurs, il n'avait pas le mérite de l'invention.
+
+« Et en tout cas, ajouta-t-il, dans la situation où nous sommes, il faut nous attendre à en voir bien d'autres ! »
+
+Les tétras furent attachés par les pattes, et Pencroff, heureux de ne point revenir les mains vides et voyant que le jour commençait à baisser, jugea convenable de retourner à sa demeure.
+
+La direction à suivre était toute indiquée par celle de la rivière, dont il ne s'agissait que de redescendre le cours, et, vers six heures, assez fatigués de leur excursion, Harbert et Pencroff rentraient aux Cheminées.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729908 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728980 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728052 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727465 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726537 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724221 .pcalibre .pcalibre4 .pcalibre3} *7* {#chapitre-7 .calibre171 .sigil_not_in_toc}
+
+Nab n'est pas encore de retour. -- Les réflexions du reporter. -- Le souper. -- Une mauvaise nuit qui se prépare. -- La tempête est effroyable. -- On part dans la nuit. -- Lutte contre la pluie et le vent. -- À huit milles du premier campement.
+
+
+Gédéon Spilett, immobile, les bras croisés, était alors sur la grève, regardant la mer, dont l'horizon se confondait dans l'est avec un gros nuage noir qui montait rapidement vers le zénith. Le vent était déjà fort, et il fraîchissait avec le déclin du jour. Tout le ciel avait un mauvais aspect, et les premiers symptômes d'un coup de vent se manifestaient visiblement.
+
+Harbert entra dans les Cheminées, et Pencroff se dirigea vers le reporter. Celui-ci, très absorbé, ne le vit pas venir.
+
+« Nous allons avoir une mauvaise nuit, monsieur Spilett ! dit le marin. De la pluie et du vent à faire la joie des pétrels[[\[5\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn5011){#_ftnref5011 .pcalibre4 .pcalibre3} ! »
+
+Le reporter, se retournant alors, aperçut Pencroff, et ses premières paroles furent celles-ci :
+
+« À quelle distance de la côte la nacelle a-t-elle, selon vous, reçu ce coup de mer qui a emporté notre compagnon ? »
+
+Le marin ne s'attendait pas à cette question. Il réfléchit un instant et répondit :
+
+« À deux encablures, au plus.
+
+--- Mais qu'est-ce qu'une encablure ? demanda Gédéon Spilett.
+
+--- Cent vingt brasses environ ou six cents pieds.
+
+--- Ainsi, dit le reporter, Cyrus Smith aurait disparu à douze cents pieds au plus du rivage ?
+
+--- Environ, répondit Pencroff.
+
+--- Et son chien aussi ?
+
+--- Aussi.
+
+--- Ce qui m'étonne, ajouta le reporter, en admettant que notre compagnon ait péri, c'est que Top ait également trouvé la mort, et que ni le corps du chien, ni celui de son maître n'aient été rejetés au rivage !
+
+--- Ce n'est pas étonnant, avec une mer aussi forte, répondit le marin. D'ailleurs, il se peut que les courants les aient portés plus loin sur la côte.
+
+--- Ainsi, c'est bien votre avis que notre compagnon a péri dans les flots ? demanda encore une fois le reporter.
+
+--- C'est mon avis.
+
+--- Mon avis, à moi, dit Gédéon Spilett, sauf ce que je dois à votre expérience, Pencroff, c'est que le double fait de la disparition absolue de Cyrus et de Top, vivants ou morts, a quelque chose d'inexplicable et d'invraisemblable.
+
+--- Je voudrais penser comme vous, monsieur Spilett, répondit Pencroff. Malheureusement, ma conviction est faite ! »
+
+Cela dit, le marin revint vers les Cheminées. Un bon feu pétillait sur le foyer. Harbert venait d'y jeter une brassée de bois sec, et la flamme projetait de grandes clartés dans les parties sombres du couloir.
+
+Pencroff s'occupa aussitôt de préparer le dîner. Il lui parut convenable d'introduire dans le menu quelque pièce de résistance, car tous avaient besoin de réparer leurs forces. Les chapelets de couroucous furent conservés pour le lendemain, mais on pluma deux tétras, et bientôt, embrochés dans une baguette, les gallinacés rôtissaient devant un feu flambant.
+
+À sept heures du soir, Nab n'était pas encore de retour. Cette absence prolongée ne pouvait qu'inquiéter Pencroff au sujet du nègre. Il devait craindre ou qu'il lui fût arrivé quelque accident sur cette terre inconnue, ou que le malheureux eût fait quelque coup de désespoir. Mais Harbert tira de cette absence des conséquences toutes différentes. Pour lui, si Nab ne revenait pas, c'est qu'il s'était produit une circonstance nouvelle, qui l'avait engagé à prolonger ses recherches. Or, tout ce qui était nouveau ne pouvait l'être qu'à l'avantage de Cyrus Smith. Pourquoi Nab n'était-il pas rentré, si un espoir quelconque ne le retenait pas ? Peut-être avait-il trouvé quelque indice, une empreinte de pas, un reste d'épave qui l'avait mis sur la voie ? Peut-être suivait-il en ce moment une piste certaine ? Peut-être était-il près de son maître ?\...
+
+Ainsi raisonnait le jeune garçon. Ainsi parla-t-il. Ses compagnons le laissèrent dire. Seul, le reporter l'approuvait du geste. Mais, pour Pencroff, ce qui était probable, c'est que Nab avait poussé plus loin que la veille ses recherches sur le littoral, et qu'il ne pouvait encore être de retour.
+
+Cependant, Harbert, très agité par de vagues pressentiments, manifesta plusieurs fois l'intention d'aller au-devant de Nab. Mais Pencroff lui fit comprendre que ce serait là une course inutile, que, dans cette obscurité et par ce déplorable temps, il ne pourrait retrouver les traces de Nab, et que mieux valait attendre. Si le lendemain Nab n'avait pas reparu, Pencroff n'hésiterait pas à se joindre à Harbert pour aller à la recherche de Nab.
+
+Gédéon Spilett approuva l'opinion du marin sur ce point qu'il ne fallait pas se diviser, et Harbert dut renoncer à son projet ; mais deux grosses larmes tombèrent de ses yeux.
+
+Le reporter ne put se retenir d'embrasser le généreux enfant.
+
+Le mauvais temps s'était absolument déclaré. Un coup de vent de sud-est passait sur la côte avec une violence sans égale. On entendait la mer, qui baissait alors, mugir contre la lisière des premières roches, au large du littoral. La pluie, pulvérisée par l'ouragan, s'enlevait comme un brouillard liquide. On eût dit des haillons de vapeurs qui traînaient sur la côte, dont les galets bruissaient violemment, comme des tombereaux de cailloux qui se vident. Le sable, soulevé par le vent, se mêlait aux averses et en rendait l'assaut insoutenable. Il y avait dans l'air autant de poussière minérale que de poussière aqueuse. Entre l'embouchure de la rivière et le pan de la muraille, de grands remous tourbillonnaient, et les couches d'air qui s'échappaient de ce maelström, ne trouvant d'autre issue que l'étroite vallée au fond de laquelle se soulevait le cours d'eau, s'y engouffraient avec une irrésistible violence. Aussi la fumée du foyer, repoussée par l'étroit boyau, se rabattait-elle fréquemment, emplissant les couloirs et les rendant inhabitables.
+
+C'est pourquoi, dès que les tétras furent cuits, Pencroff laissa tomber le feu, et ne conserva plus que des braises enfouies sous les cendres.
+
+
+Le gibier forma l'unique plat du souper. On mangea volontiers de cette viande, qui était excellente. Pencroff et Harbert, dont une longue excursion avait surexcité l'appétit, dévorèrent.
+
+Puis, chacun se retira dans le coin où il avait déjà reposé la nuit précédente, et Harbert ne tarda pas à s'endormir près du marin, qui s'était étendu le long du foyer.
+
+Au-dehors, avec la nuit qui s'avançait, la tempête prenait des proportions formidables. C'était un coup de vent comparable à celui qui avait emporté les prisonniers depuis Richmond jusqu'à cette terre du Pacifique. Tempêtes fréquentes pendant ces temps d'équinoxe, fécondes en catastrophes, terribles surtout sur ce large champ, qui n'oppose aucun obstacle à leur fureur ! On comprend donc qu'une côte ainsi exposée à l'est, c'est-à-dire directement aux coups de l'ouragan, et frappée de plein fouet, fût battue avec une force dont aucune description ne peut donner l'idée.
+
+Très heureusement, l'entassement de roches qui formait les Cheminées était solide. C'étaient d'énormes quartiers de granit, dont quelques-uns pourtant, insuffisamment équilibrés, semblaient trembler sur leur base. Pencroff sentait cela, et sous sa main, appuyée aux parois, couraient de rapides frémissements. Mais enfin il se répétait, et avec raison, qu'il n'y avait rien à craindre, et que sa retraite improvisée ne s'effondrerait pas. Toutefois, il entendait le bruit des pierres, détachées du sommet du plateau et arrachées par les remous du vent, qui tombaient sur la grève. Quelques-unes roulaient même à la partie supérieure des Cheminées, ou y volaient en éclats, quand elles étaient projetées perpendiculairement. Deux fois, le marin se releva et vint en rampant à l'orifice du couloir, afin d'observer au-dehors. Mais ces éboulements, peu considérables, ne constituaient aucun danger, et il reprit sa place devant le foyer, dont les braises crépitaient sous la cendre.
+
+Malgré les fureurs de l'ouragan, le fracas de la tempête, le tonnerre de la tourmente, Harbert dormait profondément. Le sommeil finit même par s'emparer de Pencroff, que sa vie de marin avait habitué à toutes ces violences. Seul, Gédéon Spilett était tenu éveillé par l'inquiétude. Il se reprochait de ne pas avoir accompagné Nab. On a vu que tout espoir ne l'avait pas abandonné. Les pressentiments qui avaient agité Harbert n'avaient pas cessé de l'agiter aussi. Sa pensée était concentrée sur Nab. Pourquoi Nab n'était-il pas revenu ? Il se retournait sur sa couche de sable, donnant à peine une vague attention à cette lutte des éléments. Parfois, ses yeux, appesantis par la fatigue, se fermaient un instant, mais quelque rapide pensée les rouvrait presque aussitôt.
+
+Cependant, la nuit s'avançait, et il pouvait être deux heures du matin, quand Pencroff, profondément endormi alors, fut secoué vigoureusement.
+
+« Qu'est-ce ? » s'écria-t-il, en s'éveillant et en reprenant ses idées avec cette promptitude particulière aux gens de mer.
+
+Le reporter était penché sur lui, et lui disait :
+
+« Écoutez, Pencroff, écoutez ! »
+
+Le marin prêta l'oreille et ne distingua aucun bruit étranger à celui des rafales.
+
+« C'est le vent, dit-il.
+
+--- Non, répondit Gédéon Spilett, en écoutant de nouveau, j'ai cru entendre\...
+
+--- Quoi ?
+
+--- Les aboiements d'un chien !
+
+--- Un chien ! s'écria Pencroff, qui se releva d'un bond.
+
+--- Oui\... des aboiements\...
+
+--- Ce n'est pas possible ! répondit le marin. Et, d'ailleurs, comment, avec les mugissements de la tempête\...
+
+--- Tenez\... écoutez\... » dit le reporter.
+
+Pencroff écouta plus attentivement, et il crut, en effet, dans un instant d'accalmie, entendre des aboiements éloignés.
+
+« Eh bien !\... dit le reporter, en serrant la main du marin.
+
+--- Oui\... oui !\... répondit Pencroff.
+
+--- C'est Top ! C'est Top !\... » s'écria Harbert, qui venait de s'éveiller, et tous trois s'élancèrent vers l'orifice des Cheminées.
+
+Ils eurent une peine extrême à sortir. Le vent les repoussait. Mais enfin, ils y parvinrent, et ne purent se tenir debout qu'en s'accotant contre les roches. Ils regardèrent, ils ne pouvaient parler.
+
+L'obscurité était absolue. La mer, le ciel, la terre, se confondaient dans une égale intensité des ténèbres. Il semblait qu'il n'y eût pas un atome de lumière diffuse dans l'atmosphère.
+
+Pendant quelques minutes, le reporter et ses deux compagnons demeurèrent ainsi, comme écrasés par la rafale, trempés par la pluie, aveuglés par le sable. Puis, ils entendirent encore une fois ces aboiements dans un répit de la tourmente, et ils reconnurent qu'ils devaient être assez éloignés.
+
+Ce ne pouvait être que Top qui aboyait ainsi ! Mais était-il seul ou accompagné ? Il est plus probable qu'il était seul, car, en admettant que Nab fût avec lui, Nab se serait dirigé en toute hâte vers les Cheminées.
+
+Le marin pressa la main du reporter, dont il ne pouvait se faire entendre, et d'une façon qui signifiait : « Attendez ! » puis, il rentra dans le couloir.
+
+Un instant après, il ressortait avec un fagot allumé, il le projetait dans les ténèbres, et il poussait des sifflements aigus.
+
+À ce signal, qui était comme attendu, on eût pu le croire, des aboiements plus rapprochés répondirent, et bientôt un chien se précipita dans le couloir. Pencroff, Harbert et Gédéon Spilett y rentrèrent à sa suite.
+
+Une brassée de bois sec fut jetée sur les charbons. Le couloir s'éclaira d'une vive flamme.
+
+« C'est Top ! » s'écria Harbert.
+
+C'était Top, en effet, un magnifique anglo-normand, qui tenait de ces deux races croisées la vitesse des jambes et la finesse de l'odorat, les deux qualités par excellence du chien courant.
+
+C'était le chien de l'ingénieur Cyrus Smith.
+
+Mais il était seul ! Ni son maître, ni Nab ne l'accompagnaient !
+
+Cependant, comment son instinct avait-il pu le conduire jusqu'aux Cheminées, qu'il ne connaissait pas ? Cela paraissait inexplicable, surtout au milieu de cette nuit noire, et par une telle tempête ! Mais, détail plus inexplicable encore, Top n'était ni fatigué, ni épuisé, ni même souillé de vase ou de sable !\...
+
+Harbert l'avait attiré vers lui et lui pressait la tête entre ses mains. Le chien se laissait faire et frottait son cou sur les mains du jeune garçon.
+
+« Si le chien est retrouvé, le maître se retrouvera aussi ! dit le reporter.
+
+--- Dieu le veuille ! répondit Harbert. Partons ! Top nous guidera ! »
+
+Pencroff ne fit pas une objection. Il sentait bien que l'arrivée de Top pouvait donner un démenti à ses conjectures.
+
+« En route ! » dit-il.
+
+Pencroff recouvrit avec soin les charbons du foyer. Il plaça quelques morceaux de bois sous les cendres, de manière à retrouver du feu au retour. Puis, précédé du chien, qui semblait l'inviter à venir par de petits aboiements, et suivi du reporter et du jeune garçon, il s'élança au-dehors, après avoir pris les restes du souper.
+
+La tempête était alors dans toute sa violence, et peut-être même à son maximum d'intensité. La lune, nouvelle alors, et, par conséquent, en conjonction avec le soleil, ne laissait pas filtrer la moindre lueur à travers les nuages. Suivre une route rectiligne devenait difficile. Le mieux était de s'en rapporter à l'instinct de Top. Ce qui fut fait. Le reporter et le jeune garçon marchaient derrière le chien, et le marin fermait la marche. Aucun échange de paroles n'eût été possible. La pluie ne tombait pas très abondamment, car elle se pulvérisait au souffle de l'ouragan, mais l'ouragan était terrible.
+
+Toutefois, une circonstance favorisa très heureusement le marin et ses deux compagnons. En effet, le vent chassait du sud-est, et, par conséquent, il les poussait de dos. Ce sable qu'il projetait avec violence, et qui n'eût pas été supportable, ils le recevaient par derrière, et, à la condition de ne point se retourner, ils ne pouvaient en être incommodés de façon à gêner leur marche. En somme, ils allaient souvent plus vite qu'ils ne le voulaient, et précipitaient leurs pas afin de ne point être renversés, mais un immense espoir doublait leurs forces, et ce n'était plus à l'aventure, cette fois, qu'ils remontaient le rivage. Ils ne mettaient pas en doute que Nab n'eût retrouvé son maître, et qu'il ne leur eût envoyé le fidèle chien. Mais l'ingénieur était-il vivant, ou Nab ne mandait-il ses compagnons que pour rendre les derniers devoirs au cadavre de l'infortuné Smith ?
+
+Après avoir dépassé le pan coupé de la haute terre dont ils s'étaient prudemment écartés, Harbert, le reporter et Pencroff s'arrêtèrent pour reprendre haleine. Le retour du rocher les abritait contre le vent, et ils respiraient après cette marche d'un quart d'heure, qui avait été plutôt une course.
+
+À ce moment, ils pouvaient s'entendre, se répondre, et le jeune garçon ayant prononcé le nom de Cyrus Smith, Top aboya à petits coups, comme s'il eût voulu dire que son maître était sauvé.
+
+« Sauvé, n'est-ce pas ? répétait Harbert, sauvé, Top ? »
+
+Et le chien aboyait comme pour répondre.
+
+La marche fut reprise. Il était environ deux heures et demie du matin. La mer commençait à monter, et, poussée par le vent, cette marée, qui était une marée de syzygie, menaçait d'être très forte. Les grandes lames tonnaient contre la lisière d'écueils, et elles l'assaillaient avec une telle violence, que, très probablement, elles devaient passer par-dessus l'îlot, absolument invisible alors. Cette longue digue ne couvrait donc plus la côte, qui était directement exposée aux chocs du large.
+
+Dès que le marin et ses compagnons se furent détachés du pan coupé, le vent les frappa de nouveau avec une extrême fureur. Courbés, tendant le dos à la rafale, ils marchaient très vite, suivant Top, qui n'hésitait pas sur la direction à prendre. Ils remontaient au nord, ayant sur leur droite une interminable crête de lames, qui déferlait avec un assourdissant fracas, et sur leur gauche une obscure contrée dont il était impossible de saisir l'aspect. Mais ils sentaient bien qu'elle devait être relativement plate, car l'ouragan passait maintenant au-dessus d'eux sans les prendre en retour, effet qui se produisait quand il frappait la muraille de granit.
+
+À quatre heures du matin, on pouvait estimer qu'une distance de cinq milles avait été franchie. Les nuages s'étaient légèrement relevés et ne traînaient plus sur le sol. La rafale, moins humide, se propageait en courants d'air très vifs, plus secs et plus froids. Insuffisamment protégés par leurs vêtements, Pencroff, Harbert et Gédéon Spilett devaient souffrir cruellement, mais pas une plainte ne s'échappait de leurs lèvres. Ils étaient décidés à suivre Top jusqu'où l'intelligent animal voudrait les conduire.
+
+Vers cinq heures, le jour commença à se faire. Au zénith d'abord, où les vapeurs étaient moins épaisses, quelques nuances grisâtres découpèrent le bord des nuages, et bientôt, sous une bande opaque, un trait plus lumineux dessina nettement l'horizon de mer. La crête des lames se piqua légèrement de lueurs fauves, et l'écume se refit blanche. En même temps, sur la gauche, les parties accidentées du littoral commençaient à s'estomper confusément, mais ce n'était encore que du gris sur du noir.
+
+À six heures du matin, le jour était fait. Les nuages couraient avec une extrême rapidité dans une zone relativement haute. Le marin et ses compagnons étaient alors à six milles environ des Cheminées. Ils suivaient une grève très plate, bordée au large par une lisière de roches dont les têtes seulement émergeaient alors, car on était au plein de la mer. Sur la gauche, la contrée, qu'accidentaient quelques dunes hérissées de chardons, offrait l'aspect assez sauvage d'une vaste région sablonneuse. Le littoral était peu découpé, et n'offrait d'autre barrière à l'Océan qu'une chaîne assez irrégulière de monticules. Çà et là, un ou deux arbres grimaçaient, couchés vers l'ouest, les branches projetées dans cette direction. Bien en arrière, dans le sud-ouest, s'arrondissait la lisière de la dernière forêt.
+
+En ce moment, Top donna des signes non équivoques d'agitation. Il allait en avant, revenait au marin, et semblait l'engager à hâter le pas. Le chien avait alors quitté la grève, et, poussé par son admirable instinct, sans montrer une seule hésitation, il s'était engagé entre les dunes.
+
+On le suivit. Le pays paraissait être absolument désert. Pas un être vivant ne l'animait.
+
+La lisière des dunes, fort large, était composée de monticules, et même de collines très capricieusement distribuées. C'était comme une petite Suisse de sable, et il ne fallait rien moins qu'un instinct prodigieux pour s'y reconnaître.
+
+Cinq minutes après avoir quitté la grève, le reporter et ses compagnons arrivaient devant une sorte d'excavation creusée au revers d'une haute dune. Là, Top s'arrêta et jeta un aboiement clair. Spilett, Harbert et Pencroff pénétrèrent dans cette grotte.
+
+Nab était là, agenouillé près d'un corps étendu sur un lit d'herbes\...
+
+Ce corps était celui de l'ingénieur Cyrus Smith.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729909 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728981 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728053 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727466 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726538 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724222 .pcalibre .pcalibre4 .pcalibre3} *8* {#chapitre-8 .calibre171 .sigil_not_in_toc}
+
+Cyrus Smith est-il vivant ? -- Le récit de Nab. -- Les empreintes de pas. -- Une question insoluble. -- Les premières paroles de Cyrus Smith. -- La constatation des empreintes. -- Le retour aux Cheminées. -- Pencroff atterré !
+
+
+Nab ne bougea pas. Le marin ne lui jeta qu'un mot.
+
+« Vivant ! » s'écria-t-il.
+
+Nab ne répondit pas. Gédéon Spilett et Pencroff devinrent pâles. Harbert joignit les mains et demeura immobile. Mais il était évident que le pauvre nègre, absorbé dans sa douleur, n'avait ni vu ses compagnons ni entendu les paroles du marin.
+
+Le reporter s'agenouilla près de ce corps sans mouvement, et posa son oreille sur la poitrine de l'ingénieur, dont il entrouvrit les vêtements. Une minute -- un siècle ! -- s'écoula, pendant qu'il cherchait à surprendre quelque battement du cœur.
+
+Nab s'était redressé un peu et regardait sans voir. Le désespoir n'eût pu altérer davantage un visage d'homme. Nab était méconnaissable, épuisé par la fatigue, brisé par la douleur. Il croyait son maître mort.
+
+Gédéon Spilett, après une longue et attentive observation, se releva.
+
+« Il vit ! » dit-il.
+
+Pencroff, à son tour, se mit à genoux près de Cyrus Smith ; son oreille saisit aussi quelques battements, et ses lèvres, quelque souffle qui s'échappait des lèvres de l'ingénieur.
+
+Harbert, sur un mot du reporter, s'élança au-dehors pour chercher de l'eau. Il trouva à cent pas de là un ruisseau limpide, évidemment très grossi par les pluies de la veille, et qui filtrait à travers le sable. Mais rien pour mettre cette eau, pas une coquille dans ces dunes ! Le jeune garçon dut se contenter de tremper son mouchoir dans le ruisseau, et il revint en courant vers la grotte.
+
+Heureusement, ce mouchoir imbibé suffit à Gédéon Spilett, qui ne voulait qu'humecter les lèvres de l'ingénieur. Ces molécules d'eau fraîche produisirent un effet presque immédiat. Un soupir s'échappa de la poitrine de Cyrus Smith, et il sembla même qu'il essayait de prononcer quelques paroles.
+
+« Nous le sauverons ! » dit le reporter.
+
+Nab avait repris espoir à ces paroles. Il déshabilla son maître, afin de voir si le corps ne présenterait pas quelque blessure. Ni la tête, ni le torse, ni les membres n'avaient de contusions, pas même d'écorchures, chose surprenante, puisque le corps de Cyrus Smith avait dû être roulé au milieu des roches ; les mains elles-mêmes étaient intactes, et il était difficile d'expliquer comment l'ingénieur ne portait aucune trace des efforts qu'il avait dû faire pour franchir la ligne d'écueils.
+
+Mais l'explication de cette circonstance viendrait plus tard. Quand Cyrus Smith pourrait parler, il dirait ce qui s'était passé. Pour le moment, il s'agissait de le rappeler à la vie, et il était probable que des frictions amèneraient ce résultat. C'est ce qui fut fait avec la vareuse du marin. L'ingénieur, réchauffé par ce rude massage, remua légèrement le bras, et sa respiration commença à se rétablir d'une façon plus régulière. Il mourait d'épuisement, et certes, sans l'arrivée du reporter et de ses compagnons, c'en était fait de Cyrus Smith.
+
+« Vous l'avez donc cru mort, votre maître ? demanda le marin à Nab.
+
+--- Oui ! mort ! répondit Nab, et si Top ne vous eût pas trouvés, si vous n'étiez pas venus, j'aurais enterré mon maître et je serais mort près de lui ! »
+
+On voit à quoi avait tenu la vie de Cyrus Smith !
+
+Nab raconta alors ce qui s'était passé. La veille, après avoir quitté les Cheminées dès l'aube, il avait remonté la côte dans la direction du nord-ouest et atteint la partie du littoral qu'il avait déjà visitée.
+
+Là, sans aucun espoir, il l'avouait, Nab avait cherché sur le rivage, au milieu des roches, sur le sable, les plus légers indices qui pussent le guider. Il avait examiné surtout la partie de la grève que la haute mer ne recouvrait pas, car, sur sa lisière, le flux et le reflux devaient avoir effacé tout indice. Nab n'espérait plus retrouver son maître vivant. C'était à la découverte d'un cadavre qu'il allait ainsi, un cadavre qu'il voulait ensevelir de ses propres mains !
+
+Nab avait cherché longtemps. Ses efforts demeurèrent infructueux. Il ne semblait pas que cette côte déserte eût jamais été fréquentée par un être humain. Les coquillages, ceux que la mer ne pouvait atteindre -- et qui se rencontraient par millions au-delà du relais des marées --, étaient intacts. Pas une coquille écrasée. Sur un espace de deux à trois cents yards[[\[6\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn6011){#_ftnref6011 .pcalibre4 .pcalibre3}, il n'existait pas trace d'un atterrissage, ni ancien, ni récent.
+
+Nab s'était donc décidé à remonter la côte pendant quelques milles. Il se pouvait que les courants eussent porté un corps sur quelque point plus éloigné. Lorsqu'un cadavre flotte à peu de distance d'un rivage plat, il est bien rare que le flot ne l'y rejette pas tôt ou tard. Nab le savait, et il voulait revoir son maître une dernière fois.
+
+« Je longeai la côte pendant deux milles encore, je visitai toute la ligne des écueils à mer basse, toute la grève à mer haute, et je désespérais de rien trouver, quand hier, vers cinq heures du soir, je remarquai sur le sable des empreintes de pas.
+
+--- Des empreintes de pas ? s'écria Pencroff.
+
+--- Oui ! répondit Nab.
+
+--- Et ces empreintes commençaient aux écueils même ? demanda le reporter.
+
+--- Non, répondit Nab, au relais de marée, seulement, car entre les relais et les récifs, les autres avaient dû être effacées.
+
+--- Continue, Nab, dit Gédéon Spilett.
+
+--- Quand je vis ces empreintes, je devins comme fou. Elles étaient très reconnaissables, et se dirigeaient vers les dunes. Je les suivis pendant un quart de mille, courant, mais prenant garde de les effacer. Cinq minutes après, comme la nuit se faisait, j'entendis les aboiements d'un chien. C'était Top, et Top me conduisit ici même, près de mon maître ! »
+
+Nab acheva son récit en disant quelle avait été sa douleur en retrouvant ce corps inanimé. Il avait essayé de surprendre en lui quelque reste de vie ! Maintenant qu'il l'avait retrouvé mort, il le voulait vivant ! Tous ses efforts avaient été inutiles ! Il n'avait plus qu'à rendre les derniers devoirs à celui qu'il aimait tant !
+
+Nab avait alors songé à ses compagnons. Ceux-ci voudraient, sans doute, revoir une dernière fois l'infortuné ! Top était là. Ne pouvait-il s'en rapporter à la sagacité de ce fidèle animal ? Nab prononça à plusieurs reprises le nom du reporter, celui des compagnons de l'ingénieur que Top connaissait le plus. Puis, il lui montra le sud de la côte, et le chien s'élança dans la direction qui lui était indiquée.
+
+On sait comment, guidé par un instinct que l'on peut regarder presque comme surnaturel, car l'animal n'avait jamais été aux Cheminées, Top y arriva cependant.
+
+Les compagnons de Nab avaient écouté ce récit avec une extrême attention. Il y avait pour eux quelque chose d'inexplicable à ce que Cyrus Smith, après les efforts qu'il avait dû faire pour échapper aux flots, en traversant les récifs, n'eût pas trace d'une égratignure. Et ce qui ne s'expliquait pas davantage, c'était que l'ingénieur eût pu gagner, à plus d'un mille de la côte, cette grotte perdue au milieu des dunes.
+
+« Ainsi, Nab, dit le reporter, ce n'est pas toi qui as transporté ton maître jusqu'à cette place ?
+
+--- Non, ce n'est pas moi, répondit Nab.
+
+--- Il est bien évident que M. Smith y est venu seul, dit Pencroff.
+
+--- C'est évident, en effet, fit observer Gédéon Spilett, mais ce n'est pas croyable ! »
+
+On ne pourrait avoir l'explication de ce fait que de la bouche de l'ingénieur. Il fallait pour cela attendre que la parole lui fût revenue. Heureusement, la vie reprenait déjà son cours. Les frictions avaient rétabli la circulation du sang. Cyrus Smith remua de nouveau les bras, puis la tête, et quelques mots incompréhensibles s'échappèrent encore une fois de ses lèvres.
+
+Nab, penché sur lui, l'appelait, mais l'ingénieur ne semblait pas entendre, et ses yeux étaient toujours fermés. La vie ne se révélait en lui que par le mouvement. Les sens n'y avaient encore aucune part.
+
+Pencroff regretta bien de n'avoir pas de feu, ni de quoi s'en procurer, car il avait malheureusement oublié d'emporter le linge brûlé, qu'il eût facilement enflammé au choc de deux cailloux. Quant aux poches de l'ingénieur, elles étaient absolument vides, sauf celle de son gilet, qui contenait sa montre. Il fallait donc transporter Cyrus Smith aux Cheminées, et le plus tôt possible. Ce fut l'avis de tous.
+
+Cependant, les soins qui furent prodigués à l'ingénieur devaient lui rendre la connaissance plus vite qu'on ne pouvait l'espérer. L'eau dont on humectait ses lèvres le ranimait peu à peu. Pencroff eut aussi l'idée de mêler à cette eau du jus de cette chair de tétras qu'il avait apportée. Harbert, ayant couru jusqu'au rivage, en revint avec deux grandes coquilles de bivalves. Le marin composa une sorte de mixture, et l'introduisit entre les lèvres de l'ingénieur, qui parut humer avidement ce mélange.
+
+Ses yeux s'ouvrirent alors. Nab et le reporter s'étaient penchés sur lui.
+
+« Mon maître ! mon maître ! » s'écria Nab.
+
+L'ingénieur l'entendit. Il reconnut Nab et Spilett, puis ses deux autres compagnons, Harbert et le marin, et sa main pressa légèrement les leurs.
+
+Quelques mots s'échappèrent encore de sa bouche -- mots qu'il avait déjà prononcés, sans doute, et qui indiquaient quelles pensées tourmentaient, même alors, son esprit. Ces mots furent compris, cette fois.
+
+« Île ou continent ? murmura-t-il.
+
+--- Ah ! s'écria Pencroff, qui ne put retenir cette exclamation. De par tous les diables, nous nous en moquons bien, pourvu que vous viviez, monsieur Cyrus ! Île ou continent ? On verra plus tard. »
+
+L'ingénieur fit un léger signe affirmatif, et parut s'endormir.
+
+On respecta ce sommeil, et le reporter prit immédiatement ses dispositions pour que l'ingénieur fût transporté dans les meilleures conditions. Nab, Harbert et Pencroff quittèrent la grotte et se dirigèrent vers une haute dune couronnée de quelques arbres rachitiques. Et, chemin faisant, le marin ne pouvait se retenir de répéter :
+
+« Île ou continent ! Songer à cela quand on n'a plus que le souffle ! quel homme ! »
+
+Arrivés au sommet de la dune, Pencroff et ses deux compagnons, sans autres outils que leurs bras, dépouillèrent de ses principales branches un arbre assez malingre, sorte de pin maritime émacié par les vents ; puis, de ces branches, on fit une litière qui, une fois recouverte de feuilles et d'herbes, permettrait de transporter l'ingénieur.
+
+Ce fut l'affaire de quarante minutes environ, et il était dix heures quand le marin, Nab et Harbert revinrent auprès de Cyrus Smith, que Gédéon Spilett n'avait pas quitté.
+
+L'ingénieur se réveillait alors de ce sommeil, ou plutôt de cet assoupissement dans lequel on l'avait trouvé. La coloration revenait à ses joues, qui avaient eu jusqu'ici la pâleur de la mort. Il se releva un peu, regarda autour de lui, et sembla demander où il se trouvait.
+
+« Pouvez-vous m'entendre sans vous fatiguer, Cyrus ? dit le reporter.
+
+--- Oui, répondit l'ingénieur.
+
+--- M'est avis, dit alors le marin, que M. Smith vous entendra encore mieux, s'il revient à cette gelée de tétras, -- car c'est du tétras, monsieur Cyrus », ajouta-t-il, en lui présentant quelque peu de cette gelée, à laquelle il mêla, cette fois, des parcelles de chair.
+
+Cyrus Smith mâcha ces morceaux du tétras, dont les restes furent partagés entre ses trois compagnons, qui souffraient de la faim, et trouvèrent le déjeuner assez maigre.
+
+« Bon ! fit le marin, les victuailles nous attendent aux Cheminées, car il est bon que vous le sachiez, monsieur Cyrus, nous avons là-bas, dans le sud, une maison avec chambres, lits et foyer, et, dans l'office, quelques douzaines d'oiseaux que notre Harbert appelle des couroucous. Votre litière est prête, et, dès que vous vous en sentirez la force, nous vous transporterons à notre demeure.
+
+--- Merci, mon ami, répondit l'ingénieur, encore une heure ou deux, et nous pourrons partir\... Et maintenant, parlez, Spilett. »
+
+Le reporter fit alors le récit de ce qui s'était passé. Il raconta ces événements que devait ignorer Cyrus Smith, la dernière chute du ballon, l'atterrissage sur cette terre inconnue, qui semblait déserte, quelle qu'elle fût, soit une île, soit un continent, la découverte des Cheminées, les recherches entreprises pour retrouver l'ingénieur, le dévouement de Nab, tout ce qu'on devait à l'intelligence du fidèle Top, etc.
+
+« Mais, demanda Cyrus Smith d'une voix encore affaiblie, vous ne m'avez donc pas ramassé sur la grève ?
+
+--- Non, répondit le reporter.
+
+--- Et ce n'est pas vous qui m'avez rapporté dans cette grotte ?
+
+--- Non.
+
+--- À quelle distance cette grotte est-elle donc des récifs ?
+
+--- À un demi-mille environ, répondit Pencroff, et si vous êtes étonné, monsieur Cyrus, nous ne sommes pas moins surpris nous-mêmes de vous voir en cet endroit !
+
+--- En effet, répondit l'ingénieur, qui se ranimait peu à peu et prenait intérêt à ces détails, en effet, voilà qui est singulier !
+
+--- Mais, reprit le marin, pouvez-vous nous dire ce qui s'est passé après que vous avez été emporté par le coup de mer ? »
+
+Cyrus Smith rappela ses souvenirs. Il savait peu de choses. Le coup de mer l'avait arraché du filet de l'aérostat. Il s'enfonça d'abord à quelques brasses de profondeur. Revenu à la surface de la mer, dans cette demi-obscurité, il sentit un être vivant s'agiter près de lui. C'était Top, qui s'était précipité à son secours. En levant les yeux, il n'aperçut plus le ballon, qui, délesté de son poids et de celui du chien, était reparti comme une flèche. Il se vit, au milieu de ces flots courroucés, à une distance de la côte qui ne devait pas être inférieure à un demi-mille. Il tenta de lutter contre les lames en nageant avec vigueur. Top le soutenait par ses vêtements ; mais un courant de foudre le saisit, le poussa vers le nord, et, après une demi-heure d'efforts, il coula, entraînant Top avec lui dans l'abîme. Depuis ce moment jusqu'au moment où il venait de se retrouver dans les bras de ses amis, il n'avait plus souvenir de rien.
+
+« Cependant, reprit Pencroff, il faut que vous ayez été lancé sur le rivage, et que vous ayez eu la force de marcher jusqu'ici, puisque Nab a retrouvé les empreintes de vos pas !
+
+--- Oui\... il le faut\... répondit l'ingénieur en réfléchissant. Et vous n'avez pas vu trace d'êtres humains sur cette côte ?
+
+--- Pas trace, répondit le reporter. D'ailleurs, si par hasard quelque sauveur se fût rencontré là, juste à point, pourquoi vous aurait-il abandonné après vous avoir arraché aux flots ?
+
+--- Vous avez raison, mon cher Spilett. -- Dis-moi, Nab, ajouta l'ingénieur en se tournant vers son serviteur, ce n'est pas toi qui\... tu n'aurais pas eu un moment d'absence\... pendant lequel\... Non, c'est absurde\... Est-ce qu'il existe encore quelques-unes de ces empreintes ? demanda Cyrus Smith.
+
+--- Oui, mon maître, répondit Nab, tenez, à l'entrée, sur le revers même de cette dune, dans un endroit abrité du vent et de la pluie. Les autres ont été effacées par la tempête.
+
+--- Pencroff, répondit Cyrus Smith, voulez-vous prendre mes souliers, et voir s'ils s'appliquent absolument à ces empreintes ! »
+
+Le marin fit ce que demandait l'ingénieur. Harbert et lui, guidés par Nab, allèrent à l'endroit où se trouvaient les empreintes, pendant que Cyrus Smith disait au reporter :
+
+« Il s'est passé là des choses inexplicables !
+
+--- Inexplicables, en effet ! répondit Gédéon Spilett.
+
+--- Mais n'y insistons pas en ce moment, mon cher Spilett, nous en causerons plus tard. »
+
+Un instant après, le marin, Nab et Harbert rentraient.
+
+Il n'y avait pas de doute possible. Les souliers de l'ingénieur s'appliquaient exactement aux empreintes conservées. Donc, c'était Cyrus Smith qui les avait laissées sur le sable.
+
+« Allons, dit-il, c'est moi qui aurai éprouvé cette hallucination, cette absence que je mettais au compte de Nab ! J'aurai marché comme un somnambule, sans avoir conscience de mes pas, et c'est Top qui, dans son instinct, m'aura conduit ici, après m'avoir arraché des flots\... Viens, Top ! Viens, mon chien ! »
+
+Le magnifique animal bondit jusqu'à son maître, en aboyant, et les caresses ne lui furent pas épargnées.
+
+On conviendra qu'il n'y avait pas d'autre explication à donner aux faits qui avaient amené le sauvetage de Cyrus Smith, et qu'à Top revenait tout l'honneur de l'affaire.
+
+Vers midi, Pencroff ayant demandé à Cyrus Smith si l'on pouvait le transporter, Cyrus Smith, pour toute réponse, et par un effort qui attestait la volonté la plus énergique, se leva. Mais il dut s'appuyer sur le marin, car il serait tombé.
+
+« Bon ! bon ! fit Pencroff ! -- La litière de monsieur l'ingénieur. »
+
+La litière fut apportée. Les branches transversales avaient été recouvertes de mousses et de longues herbes. On y étendit Cyrus Smith, et l'on se dirigea vers la côte, Pencroff à une extrémité des brancards, Nab à l'autre.
+
+C'étaient huit milles à franchir, mais comme on ne pourrait aller vite, et qu'il faudrait peut-être s'arrêter fréquemment, il fallait compter sur un laps de six heures au moins, avant d'avoir atteint les Cheminées.
+
+Le vent était toujours violent, mais heureusement il ne pleuvait plus. Tout couché qu'il fut, l'ingénieur, accoudé sur son bras, observait la côte, surtout dans la partie opposée à la mer. Il ne parlait pas, mais il regardait, et certainement le dessin de cette contrée avec ses accidents de terrain, ses forêts, ses productions diverses, se grava dans son esprit. Cependant, après deux heures de route, la fatigue l'emporta, et il s'endormit sur la litière.
+
+À cinq heures et demie, la petite troupe arrivait au pan coupé, et, un peu après, devant les Cheminées.
+
+Tous s'arrêtèrent, et la litière fut déposée sur le sable. Cyrus Smith dormait profondément et ne se réveilla pas.
+
+Pencroff, à son extrême surprise, put alors constater que l'effroyable tempête de la veille avait modifié l'aspect des lieux. Des éboulements assez importants s'étaient produits. De gros quartiers de roche gisaient sur la grève, et un épais tapis d'herbes marines, varechs et algues, couvrait tout le rivage. Il était évident que la mer, passant par-dessus l'îlot, s'était portée jusqu'au pied de l'énorme courtine de granit.
+
+Devant l'orifice des Cheminées, le sol, profondément raviné, avait subi un violent assaut des lames.
+
+Pencroff eut comme un pressentiment qui lui traversa l'esprit. Il se précipita dans le couloir.
+
+Presque aussitôt, il en sortait, et demeurait immobile, regardant ses compagnons\...
+
+Le feu était éteint. Les cendres noyées n'étaient plus que vase. Le linge brûlé, qui devait servir d'amadou, avait disparu. La mer avait pénétré jusqu'au fond des couloirs, et tout bouleversé, tout détruit à l'intérieur des Cheminées !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729910 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728982 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728054 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727467 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726539 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724223 .pcalibre .pcalibre4 .pcalibre3} *9* {#chapitre-9 .calibre171 .sigil_not_in_toc}
+
+Cyrus est là. -- Les essais de Pencroff. -- Le bois frotté. -- Île ou continent ? -- Les projets de l'ingénieur. -- Sur quel point de l'océan Pacifique ? -- En pleine forêt. -- Le pin pignon. -- Une chasse au cabiai. -- Une fumée de bon augure.
+
+
+En quelques mots, Gédéon Spilett, Harbert et Nab furent mis au courant de la situation. Cet accident, qui pouvait avoir des conséquences fort graves -- du moins Pencroff l'envisageait ainsi -- produisit des effets divers sur les compagnons de l'honnête marin.
+
+Nab, tout à la joie d'avoir retrouvé son maître, n'écouta pas, ou plutôt ne voulut pas même se préoccuper de ce que disait Pencroff.
+
+Harbert, lui, parut partager dans une certaine mesure les appréhensions du marin.
+
+Quant au reporter, aux paroles de Pencroff, il répondit simplement :
+
+« Sur ma foi, Pencroff, voilà qui m'est bien égal !
+
+--- Mais, je vous répète que nous n'avons plus de feu !
+
+--- Peuh !
+
+--- Ni aucun moyen de le rallumer.
+
+--- Baste !
+
+--- Pourtant, monsieur Spilett\...
+
+--- Est-ce que Cyrus n'est pas là ? répondit le reporter. Est-ce qu'il n'est pas vivant, notre ingénieur ? Il trouvera bien le moyen de nous faire du feu, lui !
+
+--- Et avec quoi ?
+
+--- Avec rien. »
+
+Qu'eût répondu Pencroff ? Il n'eût pas répondu, car, au fond, il partageait la confiance que ses compagnons avaient en Cyrus Smith. L'ingénieur était pour eux un microcosme, un composé de toute la science et de toute l'intelligence humaine ! Autant valait se trouver avec Cyrus dans une île déserte que sans Cyrus dans la plus industrieuse villa de l'Union. Avec lui, on ne pouvait manquer de rien. Avec lui, on ne pouvait désespérer. On serait venu dire à ces braves gens qu'une éruption volcanique allait anéantir cette terre, que cette terre allait s'enfoncer dans les abîmes du Pacifique, qu'ils eussent imperturbablement répondu : « Cyrus est là ! Voyez Cyrus ! »
+
+En attendant, toutefois, l'ingénieur était encore plongé dans une nouvelle prostration que le transport avait déterminée, et on ne pouvait faire appel à son ingéniosité en ce moment. Le souper devait nécessairement être fort maigre. En effet, toute la chair de tétras avait été consommée, et il n'existait aucun moyen de faire cuire un gibier quelconque. D'ailleurs, les couroucous qui servaient de réserve avaient disparu. Il fallait donc aviser.
+
+Avant tout, Cyrus Smith fut transporté dans le couloir central. Là, on parvint à lui arranger une couche d'algues et de varechs restés à peu près secs. Le profond sommeil qui s'était emparé de lui ne pouvait que réparer rapidement ses forces, et mieux, sans doute, que ne l'eût fait une nourriture abondante.
+
+La nuit était venue, et, avec elle, la température, modifiée par une saute du vent dans le nord-est, se refroidit sérieusement. Or, comme la mer avait détruit les cloisons établies par Pencroff en certains points des couloirs, des courants d'air s'établirent, qui rendirent les Cheminées peu habitables. L'ingénieur se fût donc trouvé dans des conditions assez mauvaises, si ses compagnons, se dépouillant de leur veste ou de leur vareuse, ne l'eussent soigneusement couvert.
+
+Le souper, ce soir-là, ne se composa que de ces inévitables lithodomes, dont Harbert et Nab firent une ample récolte sur la grève. Cependant, à ces mollusques, le jeune garçon joignit une certaine quantité d'algues comestibles, qu'il ramassa sur de hautes roches dont la mer ne devait mouiller les parois qu'à l'époque des grandes marées. Ces algues, appartenant à la famille des fucacées, étaient des espèces de sargasses qui, sèches, fournissent une matière gélatineuse assez riche en éléments nutritifs. Le reporter et ses compagnons, après avoir absorbé une quantité considérable de lithodomes, sucèrent donc ces sargasses, auxquelles ils trouvèrent un goût très supportable, et il faut dire que, sur les rivages asiatiques, elles entrent pour une notable proportion dans l'alimentation des indigènes.
+
+« N'importe ! dit le marin, il est temps que M. Cyrus nous vienne en aide. »
+
+Cependant le froid devint très vif et, par malheur, il n'y avait aucun moyen de le combattre.
+
+Le marin, véritablement vexé, chercha par tous les moyens possibles à se procurer du feu. Nab l'aida même dans cette opération. Il avait trouvé quelques mousses sèches, et, en frappant deux galets, il obtint des étincelles ; mais la mousse, n'étant pas assez inflammable, ne prit pas, et, d'ailleurs, ces étincelles, qui n'étaient que du silex incandescent, n'avaient pas la consistance de celles qui s'échappent du morceau d'acier dans le briquet usuel. L'opération ne réussit donc pas.
+
+Pencroff, bien qu'il n'eût aucune confiance dans le procédé, essaya ensuite de frotter deux morceaux de bois sec l'un contre l'autre, à la manière des sauvages. Certes, le mouvement que Nab et lui se donnèrent, s'il se fût transformé en chaleur, suivant les théories nouvelles, aurait suffi à faire bouillir une chaudière de steamer ! Le résultat fut nul. Les morceaux de bois s'échauffèrent, voilà tout, et encore beaucoup moins que les opérateurs eux-mêmes.
+
+Après une heure de travail, Pencroff était en nage, et il jeta les morceaux de bois avec dépit.
+
+« Quand on me fera croire que les sauvages allument du feu de cette façon, dit-il, il fera chaud, même en hiver ! J'allumerais plutôt mes bras en les frottant l'un contre l'autre ! »
+
+Le marin avait tort de nier le procédé. Il est constant que les sauvages enflamment le bois au moyen d'un frottement rapide. Mais toute espèce de bois n'est pas propre à cette opération, et puis, il y a « le coup », suivant l'expression consacrée, et il est probable que Pencroff n'avait pas « le coup. »
+
+La mauvaise humeur de Pencroff ne fut pas de longue durée. Ces deux morceaux de bois rejetés par lui avaient été repris par Harbert, qui s'évertuait à les frotter de plus belle. Le robuste marin ne put retenir un éclat de rire, en voyant les efforts de l'adolescent pour réussir là où, lui, il avait échoué.
+
+« Frottez, mon garçon, frottez ! dit-il.
+
+--- Je frotte, répondit Harbert en riant, mais je n'ai pas d'autre prétention que de m'échauffer à mon tour au lieu de grelotter, et bientôt j'aurai aussi chaud que toi, Pencroff ! »
+
+Ce qui arriva. Quoi qu'il en fût, il fallut renoncer, pour cette nuit, à se procurer du feu. Gédéon Spilett répéta une vingtième fois que Cyrus Smith ne serait pas embarrassé pour si peu. Et, en attendant, il s'étendit dans un des couloirs, sur la couche de sable. Harbert, Nab et Pencroff l'imitèrent, tandis que Top dormait aux pieds de son maître.
+
+Le lendemain, 28 mars, quand l'ingénieur se réveilla, vers huit heures du matin, il vit ses compagnons près de lui, qui guettaient son réveil, et, comme la veille, ses premières paroles furent :
+
+« Île ou continent ? »
+
+On le voit, c'était son idée fixe.
+
+« Bon ! répondit Pencroff, nous n'en savons rien, monsieur Smith !
+
+--- Vous ne savez pas encore ?\...
+
+--- Mais nous le saurons, ajouta Pencroff, quand vous nous aurez piloté dans ce pays.
+
+--- Je crois être en état de l'essayer, répondit l'ingénieur, qui, sans trop d'efforts, se leva et se tint debout.
+
+--- Voilà qui est bon ! s'écria le marin.
+
+--- Je mourais surtout d'épuisement, répondit Cyrus Smith. Mes amis, un peu de nourriture, et il n'y paraîtra plus. -- Vous avez du feu, n'est-ce pas ? »
+
+Cette demande n'obtint pas une réponse immédiate. Mais, après quelques instants :
+
+« Hélas ! nous n'avons pas de feu, dit Pencroff, ou plutôt, monsieur Cyrus, nous n'en avons plus ! »
+
+Et le marin fit le récit de ce qui s'était passé la veille. Il égaya l'ingénieur en lui racontant l'histoire de leur unique allumette, puis sa tentative avortée pour se procurer du feu à la façon des sauvages.
+
+« Nous aviserons, répondit l'ingénieur, et si nous ne trouvons pas une substance analogue à l'amadou\...
+
+--- Eh bien ? demanda le marin.
+
+--- Eh bien, nous ferons des allumettes.
+
+--- Chimiques ?
+
+--- Chimiques !
+
+--- Ce n'est pas plus difficile que cela », s'écria le reporter, en frappant sur l'épaule du marin.
+
+Celui-ci ne trouvait pas la chose si simple, mais il ne protesta pas. Tous sortirent. Le temps était redevenu beau. Un vif soleil se levait sur l'horizon de la mer, et piquait de paillettes d'or les rugosités prismatiques de l'énorme muraille.
+
+Après avoir jeté un rapide coup d'œil autour de lui, l'ingénieur s'assit sur un quartier de roche. Harbert lui offrit quelques poignées de moules et de sargasses, en disant :
+
+« C'est tout ce que nous avons, monsieur Cyrus.
+
+--- Merci, mon garçon, répondit Cyrus Smith, cela suffira, -- pour ce matin, du moins. »
+
+Et il mangea avec appétit cette maigre nourriture, qu'il arrosa d'un peu d'eau fraîche, puisée à la rivière dans une vaste coquille.
+
+Ses compagnons le regardaient sans parler. Puis, après s'être rassasié tant bien que mal, Cyrus Smith, croisant ses bras, dit :
+
+« Ainsi, mes amis, vous ne savez pas encore si le sort nous a jetés sur un continent ou sur une île ?
+
+--- Non, monsieur Cyrus, répondit le jeune garçon.
+
+--- Nous le saurons demain, reprit l'ingénieur. Jusque-là, il n'y a rien à faire.
+
+--- Si, répliqua Pencroff.
+
+--- Quoi donc ?
+
+--- Du feu, dit le marin, qui, lui aussi, avait son idée fixe.
+
+--- Nous en ferons, Pencroff, répondit Cyrus Smith. -- Pendant que vous me transportiez, hier, n'ai-je pas aperçu, dans l'ouest, une montagne qui domine cette contrée ?
+
+--- Oui, répondit Gédéon Spilett, une montagne qui doit être assez élevée\...
+
+--- Bien, reprit l'ingénieur. Demain, nous monterons à son sommet, et nous verrons si cette terre est une île ou un continent. Jusque-là, je le répète, rien à faire.
+
+--- Si, du feu ! dit encore l'entêté marin.
+
+--- Mais on en fera, du feu ! répliqua Gédéon Spilett. Un peu de patience, Pencroff ! »
+
+Le marin regarda Gédéon Spilett d'un air qui semblait dire : « S'il n'y a que vous pour en faire, nous ne tâterons pas du rôti de sitôt ! » Mais il se tut.
+
+Cependant Cyrus Smith n'avait point répondu. Il semblait fort peu préoccupé de cette question du feu. Pendant quelques instants, il demeura absorbé dans ses réflexions. Puis, reprenant la parole :
+
+« Mes amis, dit-il, notre situation est peut-être déplorable, mais, en tout cas, elle est fort simple. Ou nous sommes sur un continent, et alors, au prix de fatigues plus ou moins grandes, nous gagnerons quelque point habité, ou bien nous sommes sur une île. Dans ce dernier cas, de deux choses l'une : si l'île est habitée, nous verrons à nous tirer d'affaire avec ses habitants ; si elle est déserte, nous verrons à nous tirer d'affaire tout seuls.
+
+--- Il est certain que rien n'est plus simple, répondit Pencroff.
+
+--- Mais, que ce soit un continent ou une île, demanda Gédéon Spilett, où pensez-vous, Cyrus, que cet ouragan nous ait jetés ?
+
+--- Au juste, je ne puis le savoir, répondit l'ingénieur, mais les présomptions sont pour une terre du Pacifique. En effet, quand nous avons quitté Richmond, le vent soufflait du nord-est, et sa violence même prouve que sa direction n'a pas dû varier. Si cette direction s'est maintenue du nord-est au sud-ouest, nous avons traversé les états de la Caroline du Nord, de la Caroline du Sud, de la Géorgie, le golfe du Mexique, le Mexique lui-même, dans sa partie étroite, puis une portion de l'océan Pacifique. Je n'estime pas à moins de six à sept mille milles la distance parcourue par le ballon, et, pour peu que le vent ait varié d'un demi-quart, il a dû nous porter soit sur l'archipel de Mendana, soit sur les Pomotou, soit même, s'il avait une vitesse plus grande que je ne le suppose, jusqu'aux terres de la Nouvelle-Zélande. Si cette dernière hypothèse s'est réalisée, notre rapatriement sera facile. Anglais ou Maoris, nous trouverons toujours à qui parler. Si, au contraire, cette côte appartient à quelque île déserte d'un archipel micronésien, peut-être pourrons-nous le reconnaître du haut de ce cône qui domine la contrée, et alors nous aviserons à nous établir ici, comme si nous ne devions jamais en sortir !
+
+--- Jamais ! s'écria le reporter. Vous dites : jamais ! mon cher Cyrus ?
+
+--- Mieux vaut mettre les choses au pis tout de suite, répondit l'ingénieur, et ne se réserver que la surprise du mieux.
+
+--- Bien dit ! répliqua Pencroff. Et il faut espérer aussi que cette île, si c'en est une, ne sera pas précisément située en dehors de la route des navires ! Ce serait là véritablement jouer de malheur !
+
+--- Nous ne saurons à quoi nous en tenir qu'après avoir fait, et avant tout, l'ascension de la montagne, répondit l'ingénieur.
+
+--- Mais demain, monsieur Cyrus, demanda Harbert, serez-vous en état de supporter les fatigues de cette ascension ?
+
+--- Je l'espère, répondit l'ingénieur, mais à la condition que maître Pencroff et toi, mon enfant, vous vous montriez chasseurs intelligents et adroits.
+
+--- Monsieur Cyrus, répondit le marin, puisque vous parlez de gibier, si, à mon retour, j'étais aussi certain de pouvoir le faire rôtir que je suis certain de le rapporter\...
+
+--- Rapportez toujours, Pencroff », répondit Cyrus Smith.
+
+Il fut donc convenu que l'ingénieur et le reporter passeraient la journée aux Cheminées, afin d'examiner le littoral et le plateau supérieur. Pendant ce temps, Nab, Harbert et le marin retourneraient à la forêt, y renouvelleraient la provision de bois, et feraient main basse sur toute bête de plume ou de poil qui passerait à leur portée.
+
+Ils partirent donc, vers dix heures du matin, Harbert confiant, Nab joyeux, Pencroff murmurant à part lui :
+
+« Si, à mon retour, je trouve du feu à la maison, c'est que le tonnerre en personne sera venu l'allumer ! »
+
+Tous trois remontèrent la berge, et, arrivés au coude que formait la rivière, le marin, s'arrêtant, dit à ses deux compagnons :
+
+« Commençons-nous par être chasseurs ou bûcherons ?
+
+--- Chasseurs, répondit Harbert. Voilà déjà Top qui est en quête.
+
+--- Chassons donc, reprit le marin ; puis, nous reviendrons ici faire notre provision de bois. »
+
+Cela dit, Harbert, Nab et Pencroff, après avoir arraché trois bâtons au tronc d'un jeune sapin, suivirent Top, qui bondissait dans les grandes herbes.
+
+Cette fois, les chasseurs, au lieu de longer le cours de la rivière, s'enfoncèrent plus directement au cœur même de la forêt. C'étaient toujours les mêmes arbres, appartenant pour la plupart à la famille des pins. En de certains endroits, moins pressés, isolés par bouquets, ces pins présentaient des dimensions considérables, et semblaient indiquer, par leur développement, que cette contrée se trouvait plus élevée en latitude que ne le supposait l'ingénieur. Quelques clairières, hérissées de souches rongées par le temps, étaient couvertes de bois mort, et formaient ainsi d'inépuisables réserves de combustible. Puis, la clairière passée, le taillis se resserrait et devenait presque impénétrable.
+
+Se guider au milieu de ces massifs d'arbres, sans aucun chemin frayé, était chose assez difficile. Aussi, le marin, de temps en temps, jalonnait-il sa route en faisant quelques brisées qui devaient être aisément reconnaissables. Mais peut-être avait-il eu tort de ne pas remonter le cours d'eau, ainsi qu'Harbert et lui avaient fait pendant leur première excursion, car, après une heure de marche, pas un gibier ne s'était encore montré. Top, en courant sous les basses ramures, ne donnait l'éveil qu'à des oiseaux qu'on ne pouvait approcher. Les couroucous eux-mêmes étaient absolument invisibles, et il était probable que le marin serait forcé de revenir à cette partie marécageuse de la forêt, dans laquelle il avait si heureusement opéré sa pêche aux tétras.
+
+« Eh ! Pencroff, dit Nab d'un ton un peu sarcastique, si c'est là tout le gibier que vous avez promis de rapporter à mon maître, il ne faudra pas grand feu pour le faire rôtir !
+
+--- Patience, Nab, répondit le marin, ce n'est pas le gibier qui manquera au retour !
+
+--- Vous n'avez donc pas confiance en M. Smith ?
+
+--- Si.
+
+--- Mais vous ne croyez pas qu'il fera du feu ?
+
+--- Je le croirai quand le bois flambera dans le foyer.
+
+--- Il flambera, puisque mon maître l'a dit !
+
+--- Nous verrons ! »
+
+Cependant, le soleil n'avait pas encore atteint le plus haut point de sa course au-dessus de l'horizon. L'exploration continua donc, et fut utilement marquée par la découverte qu'Harbert fit d'un arbre dont les fruits étaient comestibles. C'était le pin pignon, qui produit une amande excellente, très estimée dans les régions tempérées de l'Amérique et de l'Europe. Ces amandes étaient dans un parfait état de maturité, et Harbert les signala à ses deux compagnons, qui s'en régalèrent.
+
+« Allons, dit Pencroff, des algues en guise de pain, des moules crues en guise de chair, et des amandes pour dessert, voilà bien le dîner de gens qui n'ont plus une seule allumette dans leur poche !
+
+--- Il ne faut pas se plaindre, répondit Harbert.
+
+--- Je ne me plains pas, mon garçon, répondit Pencroff. Seulement, je répète que la viande est un peu trop économisée dans ce genre de repas !
+
+--- Top a vu quelque chose !\... » s'écria Nab, qui courut vers un fourré au milieu duquel le chien avait disparu en aboyant. Aux aboiements de Top se mêlaient des grognements singuliers.
+
+Le marin et Harbert avaient suivi Nab. S'il y avait là quelque gibier, ce n'était pas le moment de discuter comment on pourrait le faire cuire, mais bien comment on pourrait s'en emparer.
+
+Les chasseurs, à peine entrés dans le taillis, virent Top aux prises avec un animal qu'il tenait par une oreille. Ce quadrupède était une espèce de porc long de deux pieds et demi environ, d'un brun noirâtre mais moins foncé au ventre, ayant un poil dur et peu épais, et dont les doigts, alors fortement appliqués sur le sol, semblaient réunis par des membranes.
+
+Harbert crut reconnaître en cet animal un cabiai, c'est-à-dire un des plus grands échantillons de l'ordre des rongeurs.
+
+Cependant, le cabiai ne se débattait pas contre le chien. Il roulait bêtement ses gros yeux profondément engagés dans une épaisse couche de graisse. Peut-être voyait-il des hommes pour la première fois.
+
+Cependant, Nab, ayant assuré son bâton dans sa main, allait assommer le rongeur, quand celui-ci, s'arrachant aux dents de Top, qui ne garda qu'un bout de son oreille, poussa un vigoureux grognement, se précipita sur Harbert, le renversa à demi, et disparut à travers bois.
+
+« Ah ! le gueux ! » s'écria Pencroff.
+
+Aussitôt tous trois s'étaient lancés sur les traces de Top, et au moment où ils allaient le rejoindre, l'animal disparaissait sous les eaux d'une vaste mare, ombragée par de grands pins séculaires.
+
+Nab, Harbert, Pencroff s'étaient arrêtés, immobiles. Top s'était jeté à l'eau, mais le cabiai, caché au fond de la mare, ne paraissait plus.
+
+« Attendons, dit le jeune garçon, car il viendra bientôt respirer à la surface.
+
+--- Ne se noiera-t-il pas ? demanda Nab.
+
+--- Non, répondit Harbert, puisqu'il a les pieds palmés, et c'est presque un amphibie. Mais guettons-le. »
+
+Top était resté à la nage. Pencroff et ses deux compagnons allèrent occuper chacun un point de la berge, afin de couper toute retraite au cabiai, que le chien cherchait en nageant à la surface de la mare.
+
+Harbert ne se trompait pas. Après quelques minutes, l'animal remonta au-dessus des eaux. Top d'un bond fut sur lui, et l'empêcha de plonger à nouveau. Un instant plus tard, le cabiai, traîné jusqu'à la berge, était assommé d'un coup du bâton de Nab.
+
+« Hurrah ! s'écria Pencroff, qui employait volontiers ce cri de triomphe. Rien qu'un charbon ardent, et ce rongeur sera rongé jusqu'aux os ! »
+
+Pencroff chargea le cabiai sur son épaule, et, jugeant à la hauteur du soleil qu'il devait être environ deux heures, il donna le signal du retour.
+
+L'instinct de Top ne fut pas inutile aux chasseurs, qui, grâce à l'intelligent animal, purent retrouver le chemin déjà parcouru. Une demi-heure après, ils arrivaient au coude de la rivière.
+
+Ainsi qu'il l'avait fait la première fois, Pencroff établit rapidement un train de bois, bien que, faute de feu, cela lui semblât une besogne inutile, et, le train suivant le fil de l'eau, on revint vers les Cheminées.
+
+Mais, le marin n'en était pas à cinquante pas qu'il s'arrêtait, poussait de nouveau un hurrah formidable, et, tendant la main vers l'angle de la falaise :
+
+« Harbert ! Nab ! Voyez ! » s'écriait-il.
+
+Une fumée s'échappait et tourbillonnait au-dessus des roches !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729911 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728983 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728055 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727468 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726540 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724224 .pcalibre .pcalibre4 .pcalibre3} *10* {#chapitre-10 .calibre171 .sigil_not_in_toc}
+
+Une invention de l'ingénieur. -- La question qui préoccupe Cyrus Smith. -- Le départ pour la montagne. -- La forêt. -- Sol volcanique. -- Les tragopans. -- Les mouflons. -- Le premier plateau. -- Le campement pour la nuit. -- Le sommet du cône.
+
+
+Quelques instants après, les trois chasseurs se trouvaient devant un foyer pétillant. Cyrus Smith et le reporter étaient là. Pencroff les regardait l'un et l'autre, sans mot dire, son cabiai à la main.
+
+« Eh bien, oui, mon brave, s'écria le reporter. Du feu, du vrai feu, qui rôtira parfaitement ce magnifique gibier dont nous nous régalerons tout à l'heure !
+
+--- Mais qui a allumé ?\... demanda Pencroff.
+
+--- Le soleil ! »
+
+La réponse de Gédéon Spilett était exacte. C'était le soleil qui avait fourni cette chaleur dont s'émerveillait Pencroff. Le marin ne voulait pas en croire ses yeux, et il était tellement ébahi, qu'il ne pensait pas à interroger l'ingénieur.
+
+« Vous aviez donc une lentille, monsieur ? demanda Harbert à Cyrus Smith.
+
+--- Non, mon enfant, répondit celui-ci, mais j'en ai fait une. »
+
+Et il montra l'appareil qui lui avait servi de lentille. C'étaient tout simplement les deux verres qu'il avait enlevés à la montre du reporter et à la sienne. Après les avoir remplis d'eau et rendu leurs bords adhérents au moyen d'un peu de glaise, il s'était ainsi fabriqué une véritable lentille, qui, concentrant les rayons solaires sur une mousse bien sèche, en avait déterminé la combustion.
+
+Le marin considéra l'appareil, puis il regarda l'ingénieur sans prononcer un mot. Seulement, son regard en disait long ! Si, pour lui, Cyrus Smith n'était pas un dieu, c'était assurément plus qu'un homme. Enfin la parole lui revint, et il s'écria :
+
+« Notez cela, monsieur Spilett, notez cela sur votre papier !
+
+--- C'est noté », répondit le reporter.
+
+Puis, Nab aidant, le marin disposa la broche, et le cabiai, convenablement vidé, grilla bientôt, comme un simple cochon de lait, devant une flamme claire et pétillante.
+
+Les Cheminées étaient redevenues plus habitables, non seulement parce que les couloirs s'échauffaient au feu du foyer, mais parce que les cloisons de pierres et de sable avaient été rétablies.
+
+On le voit, l'ingénieur et son compagnon avaient bien employé la journée. Cyrus Smith avait presque entièrement recouvré ses forces, et s'était essayé en montant sur le plateau supérieur. De ce point, son œil, accoutumé à évaluer les hauteurs et les distances, s'était longtemps fixé sur ce cône dont il voulait le lendemain atteindre la cime. Le mont, situé à six milles environ dans le nord-ouest, lui parut mesurer trois mille cinq cents pieds au-dessus du niveau de la mer. Par conséquent, le regard d'un observateur posté à son sommet pourrait parcourir l'horizon dans un rayon de cinquante milles au moins. Il était donc probable que Cyrus Smith résoudrait aisément cette question « de continent ou d'île », à laquelle il donnait, non sans raison, le pas sur toutes les autres.
+
+On soupa convenablement. La chair du cabiai fut déclarée excellente. Les sargasses et les amandes de pin pignon complétèrent ce repas, pendant lequel l'ingénieur parla peu. Il était préoccupé des projets du lendemain.
+
+Une ou deux fois, Pencroff émit quelques idées sur ce qu'il conviendrait de faire, mais Cyrus Smith, qui était évidemment un esprit méthodique, se contenta de secouer la tête.
+
+« Demain, répétait-il, nous saurons à quoi nous en tenir, et nous agirons en conséquence. »
+
+Le repas terminé, de nouvelles brassées de bois furent jetées sur le foyer, et les hôtes des Cheminées, y compris le fidèle Top, s'endormirent d'un profond sommeil. Aucun incident ne troubla cette nuit paisible, et le lendemain -- 29 mars, -- frais et dispos, ils se réveillaient, prêts à entreprendre cette excursion qui devait fixer leur sort.
+
+Tout était prêt pour le départ. Les restes du cabiai pouvaient nourrir pendant vingt-quatre heures encore Cyrus Smith et ses compagnons. D'ailleurs, ils espéraient bien se ravitailler en route. Comme les verres avaient été remis aux montres de l'ingénieur et du reporter, Pencroff brûla un peu de ce linge qui devait servir d'amadou. Quant au silex, il ne devait pas manquer dans ces terrains d'origine plutonienne.
+
+Il était sept heures et demie du matin, quand les explorateurs, armés de bâtons, quittèrent les Cheminées. Suivant l'avis de Pencroff, il parut bon de prendre le chemin déjà parcouru à travers la forêt, quitte à revenir par une autre route. C'était aussi la voie la plus directe pour atteindre la montagne. On tourna donc l'angle sud, et on suivit la rive gauche de la rivière, qui fut abandonnée au point où elle se coudait vers le sud-ouest. Le sentier, déjà frayé sous les arbres verts, fut retrouvé, et, à neuf heures, Cyrus Smith et ses compagnons atteignaient la lisière occidentale de la forêt.
+
+Le sol, jusqu'alors peu accidenté, marécageux d'abord, sec et sablonneux ensuite, accusait une légère pente, qui remontait du littoral vers l'intérieur de la contrée. Quelques animaux, très fuyards, avaient été entrevus sous les futaies. Top les faisait lever lestement, mais son maître le rappelait aussitôt, car le moment n'était pas venu de les poursuivre. Plus tard, on verrait. L'ingénieur n'était point homme à se laisser distraire de son idée fixe. On ne se serait même pas trompé en affirmant qu'il n'observait le pays, ni dans sa configuration, ni dans ses productions naturelles. Son seul objectif, c'était ce mont qu'il prétendait gravir, et il y allait tout droit.
+
+À dix heures, on fit une halte de quelques minutes. Au sortir de la forêt, le système orographique de la contrée avait apparu aux regards. Le mont se composait de deux cônes. Le premier, tronqué à une hauteur de deux mille cinq cents pieds environ, était soutenu par de capricieux contreforts, qui semblaient se ramifier comme les griffes d'une immense serre appliquée sur le sol. Entre ces contreforts se creusaient autant de vallées étroites, hérissées d'arbres, dont les derniers bouquets s'élevaient jusqu'à la troncature du premier cône. Toutefois, la végétation paraissait être moins fournie dans la partie de la montagne exposée au nord-est, et on y apercevait des zébrures assez profondes, qui devaient être des coulées laviques.
+
+Sur le premier cône reposait un second cône, légèrement arrondi à sa cime, et qui se tenait un peu de travers. On eût dit un vaste chapeau rond placé sur l'oreille. Il semblait formé d'une terre dénudée, que perçaient en maint endroit des roches rougeâtres.
+
+C'était le sommet de ce second cône qu'il convenait d'atteindre, et l'arête des contreforts devait offrir la meilleure route pour y arriver.
+
+« Nous sommes sur un terrain volcanique », avait dit Cyrus Smith, et ses compagnons, le suivant, commencèrent à s'élever peu à peu sur le dos d'un contrefort, qui, par une ligne sinueuse et par conséquent plus aisément franchissable, aboutissait au premier plateau.
+
+Les intumescences étaient nombreuses sur ce sol, que les forces plutoniennes avaient évidemment convulsionné. Çà et là, blocs erratiques, débris nombreux de basalte, pierres ponces, obsidiennes. Par bouquets isolés, s'élevaient de ces conifères, qui, quelques centaines de pieds plus bas, au fond des étroites gorges, formaient d'épais massifs, presque impénétrables aux rayons du soleil.
+
+Pendant cette première partie de l'ascension sur les rampes inférieures, Harbert fit remarquer des empreintes qui indiquaient le passage récent de grands animaux, fauves ou autres.
+
+« Ces bêtes-là ne nous céderont peut-être pas volontiers leur domaine ? dit Pencroff.
+
+--- Eh bien, répondit le reporter, qui avait déjà chassé le tigre aux Indes et le lion en Afrique, nous verrons à nous en débarrasser. Mais, en attendant, tenons-nous sur nos gardes ! »
+
+Cependant, on s'élevait peu à peu. La route, accrue par des détours et des obstacles qui ne pouvaient être franchis directement, était longue. Quelquefois aussi, le sol manquait subitement, et l'on se trouvait sur le bord de profondes crevasses qu'il fallait tourner. À revenir ainsi sur ses pas, afin de suivre quelque sentier praticable, c'était du temps employé et des fatigues subies. À midi, quand la petite troupe fit halte pour déjeuner au pied d'un large bouquet de sapins, près d'un petit ruisseau qui s'en allait en cascade, elle se trouvait encore à mi-chemin du premier plateau, qui, dès lors, ne serait vraisemblablement atteint qu'à la nuit tombante.
+
+De ce point, l'horizon de mer se développait plus largement ; mais, sur la droite, le regard, arrêté par le promontoire aigu du sud-est, ne pouvait déterminer si la côte se rattachait par un brusque retour à quelque terre d'arrière-plan. À gauche, le rayon de vue gagnait bien quelques milles au nord ; toutefois, dès le nord-ouest, au point qu'occupaient les explorateurs, il était coupé net par l'arête d'un contrefort bizarrement taillé, qui formait comme la puissante culée du cône central. On ne pouvait donc rien pressentir encore de la question que voulait résoudre Cyrus Smith.
+
+À une heure, l'ascension fut reprise. Il fallut biaiser vers le sud-ouest et s'engager de nouveau dans des taillis assez épais. Là, sous le couvert des arbres, voletaient plusieurs couples de gallinacés de la famille des faisans. C'étaient des « tragopans », ornés d'un fanon charnu qui pendait sur leurs gorges, et de deux minces cornes cylindriques, plantées en arrière de leurs yeux. Parmi ces couples, de la taille d'un coq, la femelle était uniformément brune, tandis que le mâle resplendissait sous son plumage rouge, semé de petites larmes blanches. Gédéon Spilett, d'un coup de pierre, adroitement et vigoureusement lancé, tua un de ces tragopans, que Pencroff, affamé par le grand air, ne regarda pas sans quelque convoitise.
+
+Après avoir quitté ce taillis, les ascensionnistes, se faisant la courte échelle, gravirent sur un espace de cent pieds un talus très raide, et atteignirent un étage supérieur, peu fourni d'arbres, dont le sol prenait une apparence volcanique. Il s'agissait alors de revenir vers l'est, en décrivant des lacets qui rendaient les pentes plus praticables, car elles étaient alors fort raides, et chacun devait choisir avec soin l'endroit où se posait son pied. Nab et Harbert tenaient la tête, Pencroff la queue ; entre eux, Cyrus et le reporter. Les animaux qui fréquentaient ces hauteurs -- et les traces ne manquaient pas -- devaient nécessairement appartenir à ces races, au pied sûr et à l'échine souple, des chamois ou des isards. On en vit quelques-uns, mais ce ne fut pas le nom que leur donna Pencroff, car, à un certain moment :
+
+« Des moutons ! » s'écria-t-il.
+
+Tous s'étaient arrêtés à cinquante pas d'une demi-douzaine d'animaux de grande taille, aux fortes cornes courbées en arrière et aplaties vers la pointe, à la toison laineuse, cachée sous de longs poils soyeux de couleur fauve.
+
+Ce n'étaient point des moutons ordinaires, mais une espèce communément répandue dans les régions montagneuses des zones tempérées, à laquelle Harbert donna le nom de mouflons.
+
+« Ont-ils des gigots et des côtelettes ? demanda le marin.
+
+--- Oui, répondit Harbert.
+
+--- Eh bien, ce sont des moutons ! » dit Pencroff.
+
+Ces animaux, immobiles entre les débris de basalte, regardaient d'un œil étonné, comme s'ils voyaient pour la première fois des bipèdes humains. Puis, leur crainte subitement éveillée, ils disparurent en bondissant sur les roches.
+
+« Au revoir ! » leur cria Pencroff d'un ton si comique, que Cyrus Smith, Gédéon Spilett, Harbert et Nab ne purent s'empêcher de rire.
+
+L'ascension continua. On pouvait fréquemment observer, sur certaines déclivités, des traces de laves, très capricieusement striées. De petites solfatares coupaient parfois la route suivie par les ascensionnistes, et il fallait en prolonger les bords. En quelques points, le soufre avait déposé sous la forme de concrétions cristallines, au milieu de ces matières qui précèdent généralement les épanchements laviques, pouzzolanes à grains irréguliers et fortement torréfiés, cendres blanchâtres faites d'une infinité de petits cristaux feldspathiques.
+
+Aux approches du premier plateau, formé par la troncature du cône inférieur, les difficultés de l'ascension furent très prononcées. Vers quatre heures, l'extrême zone des arbres avait été dépassée. Il ne restait plus, çà et là, que quelques pins grimaçants et décharnés, qui devaient avoir la vie dure pour résister, à cette hauteur, aux grands vents du large. Heureusement pour l'ingénieur et ses compagnons, le temps était beau, l'atmosphère tranquille, car une violente brise, à une altitude de trois mille pieds, eût gêné leurs évolutions. La pureté du ciel au zénith se sentait à travers la transparence de l'air. Un calme parfait régnait autour d'eux. Ils ne voyaient plus le soleil, alors caché par le vaste écran du cône supérieur, qui masquait le demi-horizon de l'ouest, et dont l'ombre énorme, s'allongeant jusqu'au littoral, croissait à mesure que l'astre radieux s'abaissait dans sa course diurne. Quelques vapeurs, brumes plutôt que nuages, commençaient à se montrer dans l'est, et se coloraient de toutes les couleurs spectrales sous l'action des rayons solaires.
+
+Cinq cents pieds seulement séparaient alors les explorateurs du plateau qu'ils voulaient atteindre, afin d'y établir un campement pour la nuit, mais ces cinq cents pieds s'accrurent de plus de deux milles par les zigzags qu'il fallut décrire. Le sol, pour ainsi dire, manquait sous le pied. Les pentes présentaient souvent un angle tellement ouvert, que l'on glissait sur les coulées de laves, quand les stries, usées par l'air, n'offraient pas un point d'appui suffisant. Enfin, le soir se faisait peu à peu, et il était presque nuit, quand Cyrus Smith et ses compagnons, très fatigués par une ascension de sept heures, arrivèrent au plateau du premier cône.
+
+Il fut alors question d'organiser le campement, et de réparer ses forces, en soupant d'abord, en dormant ensuite. Ce second étage de la montagne s'élevait sur une base de roches, au milieu desquelles on trouva facilement une retraite. Le combustible n'était pas abondant. Cependant, on pouvait obtenir du feu au moyen des mousses et des broussailles sèches qui hérissaient certaines portions du plateau. Pendant que le marin préparait son foyer sur des pierres qu'il disposa à cet usage, Nab et Harbert s'occupèrent de l'approvisionner en combustible. Ils revinrent bientôt avec leur charge de broussailles. Le briquet fut battu, le linge brûlé recueillit les étincelles du silex, et, sous le souffle de Nab, un feu pétillant se développa, en quelques instants, à l'abri des roches.
+
+Ce feu n'était destiné qu'à combattre la température un peu froide de la nuit, et il ne fut pas employé à la cuisson du faisan, que Nab réservait pour le lendemain. Les restes du cabiai et quelques douzaines d'amandes de pin pignon formèrent les éléments du souper. Il n'était pas encore six heures et demie que tout était terminé.
+
+Cyrus Smith eut alors la pensée d'explorer, dans la demi-obscurité, cette large assise circulaire qui supportait le cône supérieur de la montagne. Avant de prendre quelque repos, il voulait savoir si ce cône pourrait être tourné à sa base, pour le cas où ses flancs, trop déclives, le rendraient inaccessible jusqu'à son sommet. Cette question ne laissait pas de le préoccuper, car il était possible que, du côté où le chapeau s'inclinait, c'est-à-dire vers le nord, le plateau ne fût pas praticable. Or, si la cime de la montagne ne pouvait être atteinte, d'une part, et si, de l'autre, on ne pouvait contourner la base du cône, il serait impossible d'examiner la portion occidentale de la contrée, et le but de l'ascension serait en partie manqué.
+
+Donc, l'ingénieur, sans tenir compte de ses fatigues, laissant Pencroff et Nab organiser la couchée, et Gédéon Spilett noter les incidents du jour, commença à suivre la lisière circulaire du plateau, en se dirigeant vers le nord. Harbert l'accompagnait.
+
+La nuit était belle et tranquille, l'obscurité peu profonde encore. Cyrus Smith et le jeune garçon marchaient l'un près de l'autre, sans parler. En de certains endroits, le plateau s'ouvrait largement devant eux, et ils passaient sans encombre. En d'autres, obstrué par les éboulis, il n'offrait qu'une étroite sente, sur laquelle deux personnes ne pouvaient marcher de front. Il arriva même qu'après une marche de vingt minutes, Cyrus Smith et Harbert durent s'arrêter. À partir de ce point, le talus des deux cônes affleurait. Plus d'épaulement qui séparât les deux parties de la montagne. La contourner sur des pentes inclinées à près de 70° devenait impraticable.
+
+Mais, si l'ingénieur et le jeune garçon durent renoncer à suivre une direction circulaire, en revanche, la possibilité leur fut alors donnée de reprendre directement l'ascension du cône.
+
+En effet, devant eux s'ouvrait un éventrement profond du massif. C'était l'égueulement du cratère supérieur, le goulot, si l'on veut, par lequel s'échappaient les matières éruptives liquides, à l'époque où le volcan était encore en activité. Les laves durcies, les scories encroûtées formaient une sorte d'escalier naturel, aux marches largement dessinées, qui devaient faciliter l'accès du sommet de la montagne.
+
+Un coup d'œil suffit à Cyrus Smith pour reconnaître cette disposition, et, sans hésiter, suivi du jeune garçon, il s'engagea dans l'énorme crevasse, au milieu d'une obscurité croissante.
+
+C'était encore une hauteur de mille pieds à franchir. Les déclivités intérieures du cratère seraient-elles praticables ? On le verrait bien. L'ingénieur continuerait sa marche ascensionnelle, tant qu'il ne serait pas arrêté. Heureusement, ces déclivités, très allongées et très sinueuses, décrivaient un large pas de vis à l'intérieur du volcan, et favorisaient la marche en hauteur.
+
+Quant au volcan lui-même, on ne pouvait douter qu'il ne fût complètement éteint. Pas une fumée ne s'échappait de ses flancs. Pas une flamme ne se décelait dans les cavités profondes. Pas un grondement, pas un murmure, pas un tressaillement ne sortait de ce puits obscur, qui se creusait peut-être jusqu'aux entrailles du globe. L'atmosphère même, au dedans de ce cratère, n'était saturée d'aucune vapeur sulfureuse. C'était plus que le sommeil d'un volcan, c'était sa complète extinction.
+
+La tentative de Cyrus Smith devait réussir. Peu à peu, Harbert et lui, en remontant sur les parois internes, virent le cratère s'élargir au-dessus de leur tête. Le rayon de cette portion circulaire du ciel, encadrée par les bords du cône, s'accrut sensiblement. À chaque pas, pour ainsi dire, que firent Cyrus Smith et Harbert, de nouvelles étoiles entrèrent dans le champ de leur vision. Les magnifiques constellations de ce ciel austral resplendissaient. Au zénith, brillaient d'un pur éclat la splendide Antarès du Scorpion, et, non loin, cette ß du Centaure que l'on croit être l'étoile la plus rapprochée du globe terrestre. Puis, à mesure que s'évasait le cratère, apparurent Fomalhaut du Poisson, le Triangle austral, et enfin, presque au pôle antarctique du monde, cette étincelante Croix du Sud, qui remplace la Polaire de l'hémisphère boréal.
+
+Il était près de huit heures, quand Cyrus Smith et Harbert mirent le pied sur la crête supérieure du mont, au sommet du cône.
+
+L'obscurité était complète alors, et ne permettait pas au regard de s'étendre sur un rayon de deux milles. La mer entourait-elle cette terre inconnue, ou cette terre se rattachait-elle, dans l'ouest, à quelque continent du Pacifique ? On ne pouvait encore le reconnaître. Vers l'ouest, une bande nuageuse, nettement dessinée à l'horizon, accroissait les ténèbres, et l'œil ne savait découvrir si le ciel et l'eau s'y confondaient sur une même ligne circulaire.
+
+Mais, en un point de cet horizon, une vague lueur parut soudain, qui descendait lentement, à mesure que le nuage montait vers le zénith.
+
+C'était le croissant délié de la lune, déjà près de disparaître. Mais sa lumière suffit à dessiner nettement la ligne horizontale, alors détachée du nuage, et l'ingénieur put voir son image tremblotante se refléter un instant sur une surface liquide.
+
+Cyrus Smith saisit la main du jeune garçon, et, d'une voix grave :
+
+« Une île ! » dit-il, au moment où le croissant lunaire s'éteignait dans les flots.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729912 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728984 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728056 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727469 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726541 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724225 .pcalibre .pcalibre4 .pcalibre3} *11* {#chapitre-11 .calibre171 .sigil_not_in_toc}
+
+Au sommet du cône. -- L'intérieur du cratère. -- La mer tout autour. -- Nulle terre en vue. -- Le littoral à vol d'oiseau. -- Hydrographie et orographie. -- L'île est-elle habitée ? -- Baptême des baies, golfes, caps, rivières, etc. -- L'île Lincoln.
+
+
+Une demi-heure plus tard, Cyrus Smith et Harbert étaient de retour au campement. L'ingénieur se bornait à dire à ses compagnons que la terre sur laquelle le hasard les avait jetés était une île, et que, le lendemain, on aviserait. Puis, chacun s'arrangea de son mieux pour dormir, et, dans ce trou de basalte, à une hauteur de deux mille cinq cents pieds au-dessus du niveau de la mer, par une nuit paisible, « les insulaires » goûtèrent un repos profond.
+
+Le lendemain, 30 mars, après un déjeuner sommaire, dont le tragopan rôti fit tous les frais, l'ingénieur voulut remonter au sommet du volcan, afin d'observer avec attention l'île dans laquelle lui et les siens étaient emprisonnés pour la vie, peut-être, si cette île était située à une grande distance de toute terre, ou si elle ne se trouvait pas sur le chemin des navires qui visitent les archipels de l'océan Pacifique. Cette fois, ses compagnons le suivirent dans cette nouvelle exploration. Eux aussi, ils voulaient voir cette île à laquelle ils allaient demander de subvenir à tous leurs besoins.
+
+Il devait être sept heures du matin environ, quand Cyrus Smith, Harbert, Pencroff, Gédéon Spilett et Nab quittèrent le campement. Aucun ne paraissait inquiet de la situation qui lui était faite. Ils avaient foi en eux, sans doute, mais il faut observer que le point d'appui de cette foi n'était pas le même chez Cyrus Smith que chez ses compagnons. L'ingénieur avait confiance, parce qu'il se sentait capable d'arracher à cette nature sauvage tout ce qui serait nécessaire à la vie de ses compagnons et à la sienne, et ceux-ci ne redoutaient rien, précisément parce que Cyrus Smith était avec eux. Cette nuance se comprendra. Pencroff surtout, depuis l'incident du feu rallumé, n'aurait pas désespéré un instant, quand bien même il se fût trouvé sur un roc nu, si l'ingénieur eût été avec lui sur ce roc.
+
+« Bah ! dit-il, nous sommes sortis de Richmond, sans la permission des autorités ! Ce serait bien le diable si nous ne parvenions pas un jour ou l'autre à partir d'un lieu où personne ne nous retiendra certainement ! »
+
+Cyrus Smith suivit le même chemin que la veille. On contourna le cône par le plateau qui formait épaulement, jusqu'à la gueule de l'énorme crevasse. Le temps était magnifique. Le soleil montait sur un ciel pur et couvrait de ses rayons tout le flanc oriental de la montagne.
+
+Le cratère fut abordé. Il était bien tel que l'ingénieur l'avait reconnu dans l'ombre, c'est-à-dire un vaste entonnoir qui allait en s'évasant jusqu'à une hauteur de mille pieds au-dessus du plateau. Au bas de la crevasse, de larges et épaisses coulées de laves serpentaient sur les flancs du mont et jalonnaient ainsi la route des matières éruptives jusqu'aux vallées inférieures qui sillonnaient la portion septentrionale de l'île.
+
+L'intérieur du cratère, dont l'inclinaison ne dépassait pas trente-cinq à quarante degrés, ne présentait ni difficultés ni obstacles à l'ascension. On y remarquait les traces de laves très anciennes, qui probablement s'épanchaient par le sommet du cône, avant que cette crevasse latérale leur eût ouvert une voie nouvelle.
+
+Quant à la cheminée volcanique qui établissait la communication entre les couches souterraines et le cratère, on ne pouvait en estimer la profondeur par le regard, car elle se perdait dans l'obscurité. Mais, quant à l'extinction complète du volcan, elle n'était pas douteuse.
+
+Avant huit heures, Cyrus Smith et ses compagnons étaient réunis au sommet du cratère, sur une intumescence conique qui en boursouflait le bord septentrional.
+
+« La mer ! la mer partout ! » s'écrièrent-ils, comme si leurs lèvres n'eussent pu retenir ce mot qui faisait d'eux des insulaires.
+
+La mer, en effet, l'immense nappe d'eau circulaire autour d'eux ! Peut-être, en remontant au sommet du cône, Cyrus Smith avait-il eu l'espoir de découvrir quelque côte, quelque île rapprochée, qu'il n'avait pu apercevoir la veille pendant l'obscurité. Mais rien n'apparut jusqu'aux limites de l'horizon, c'est-à-dire sur un rayon de plus de cinquante milles. Aucune terre en vue. Pas une voile. Toute cette immensité était déserte, et l'île occupait le centre d'une circonférence qui semblait être infinie.
+
+L'ingénieur et ses compagnons, muets, immobiles, parcoururent du regard, pendant quelques minutes, tous les points de l'Océan. Cet Océan, leurs yeux le fouillèrent jusqu'à ses plus extrêmes limites. Mais Pencroff, qui possédait une si merveilleuse puissance de vision, ne vit rien, et certainement, si une terre se fût relevée à l'horizon, quand bien même elle n'eût apparu que sous l'apparence d'une insaisissable vapeur, le marin l'aurait indubitablement reconnue, car c'étaient deux véritables télescopes que la nature avait fixés sous son arcade sourcilière !
+
+De l'Océan, les regards se reportèrent sur l'île qu'ils dominaient tout entière, et la première question qui fut posée le fut par Gédéon Spilett, en ces termes :
+
+« Quelle peut être la grandeur de cette île ? »
+
+Véritablement, elle ne paraissait pas considérable au milieu de cet immense Océan.
+
+Cyrus Smith réfléchit pendant quelques instants ; il observa attentivement le périmètre de l'île, en tenant compte de la hauteur à laquelle il se trouvait placé ; puis :
+
+« Mes amis, dit-il, je ne crois pas me tromper en donnant au littoral de l'île un développement de plus de cent milles[[\[7\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn7011){#_ftnref7011 .pcalibre4 .pcalibre3}.
+
+--- Et conséquemment, sa superficie ?\...
+
+--- Il est difficile de l'apprécier, répondit l'ingénieur, car elle est trop capricieusement découpée. »
+
+Si Cyrus Smith ne se trompait pas dans son évaluation, l'île avait, à peu de chose près, l'étendue de Malte ou Zante, dans la Méditerranée ; mais elle était, à la fois, beaucoup plus irrégulière, et moins riche en caps, promontoires, pointes, baies, anses ou criques. Sa forme, véritablement étrange, surprenait le regard, et quand Gédéon Spilett, sur le conseil de l'ingénieur, en eut dessiné les contours, on trouva qu'elle ressemblait à quelque fantastique animal, une sorte de ptéropode monstrueux, qui eût été endormi à la surface du Pacifique.
+
+Voici, en effet, la configuration exacte de cette île, qu'il importe de faire connaître, et dont la carte fut immédiatement dressée par le reporter avec une précision suffisante.
+
+La portion est du littoral, c'est-à-dire celle sur laquelle les naufragés avaient atterri, s'échancrait largement et bordait une vaste baie terminée au sud-est par un cap aigu, qu'une pointe avait caché à Pencroff, lors de sa première exploration. Au nord-est, deux autres caps fermaient la baie, et entre eux se creusait un étroit golfe qui ressemblait à la mâchoire entrouverte de quelque formidable squale.
+
+Du nord-est au nord-ouest, la côte s'arrondissait comme le crâne aplati d'un fauve, pour se relever en formant une sorte de gibbosité qui n'assignait pas un dessin très déterminé à cette partie de l'île, dont le centre était occupé par la montagne volcanique.
+
+De ce point, le littoral courait assez régulièrement nord et sud, creusé, aux deux tiers de son périmètre, par une étroite crique, à partir de laquelle il finissait en une longue queue, semblable à l'appendice caudal d'un gigantesque alligator.
+
+Cette queue formait une véritable presqu'île qui s'allongeait de plus de trente milles en mer, à compter du cap sud-est de l'île, déjà mentionné, et elle s'arrondissait en décrivant une rade foraine, largement ouverte, que dessinait le littoral inférieur de cette terre si étrangement découpée.
+
+Dans sa plus petite largeur, c'est-à-dire entre les Cheminées et la crique observée sur la côte occidentale qui lui correspondait en latitude, l'île mesurait dix milles seulement ; mais sa plus grande longueur, de la mâchoire du nord-est à l'extrémité de la queue du sud-ouest, ne comptait pas moins de trente milles.
+
+Quant à l'intérieur de l'île, son aspect général était celui-ci : très boisée dans toute sa portion méridionale depuis la montagne jusqu'au littoral, elle était aride et sablonneuse dans sa partie septentrionale. Entre le volcan et la côte est, Cyrus Smith et ses compagnons furent assez surpris de voir un lac, encadré dans sa bordure d'arbres verts, dont ils ne soupçonnaient pas l'existence. Vu de cette hauteur, le lac semblait être au même niveau que la mer, mais, réflexion faite, l'ingénieur expliqua à ses compagnons que l'altitude de cette petite nappe d'eau devait être de trois cents pieds, car le plateau qui lui servait de bassin n'était que le prolongement de celui de la côte.
+
+« C'est donc un lac d'eau douce ? demanda Pencroff.
+
+--- Nécessairement, répondit l'ingénieur, car il doit être alimenté par les eaux qui s'écoulent de la montagne.
+
+--- J'aperçois une petite rivière qui s'y jette, dit Harbert, en montrant un étroit ruisseau, dont la source devait s'épancher dans les contreforts de l'ouest.
+
+--- En effet, répondit Cyrus Smith, et puisque ce ruisseau alimente le lac il est probable que du côté de la mer il existe un déversoir par lequel s'échappe le trop-plein des eaux. Nous verrons cela à notre retour. »
+
+Ce petit cours d'eau, assez sinueux, et la rivière déjà reconnue, tel était le système hydrographique, du moins tel il se développait aux yeux des explorateurs. Cependant, il était possible que, sous ces masses d'arbres qui faisaient des deux tiers de l'île une forêt immense, d'autres rios s'écoulassent vers la mer. On devait même le supposer, tant cette région se montrait fertile et riche des plus magnifiques échantillons de la flore des zones tempérées. Quant à la partie septentrionale, nul indice d'eaux courantes ; peut-être des eaux stagnantes dans la portion marécageuse du nord-est, mais voilà tout ; en somme, des dunes, des sables, une aridité très prononcée qui contrastait vivement avec l'opulence du sol dans sa plus grande étendue.
+
+Le volcan n'occupait pas la partie centrale de l'île. Il se dressait, au contraire, dans la région du nord-ouest, et semblait marquer la limite des deux zones. Au sud-ouest, au sud et au sud-est, les premiers étages des contreforts disparaissaient sous des masses de verdure. Au nord, au contraire, on pouvait suivre leurs ramifications, qui allaient mourir sur les plaines de sable. C'était aussi de ce côté qu'au temps des éruptions, les épanchements s'étaient frayés un passage, et une large chaussée de laves se prolongeait jusqu'à cette étroite mâchoire qui formait golfe au nord-est.
+
+Cyrus Smith et les siens demeurèrent une heure ainsi au sommet de la montagne. L'île se développait sous leurs regards comme un plan en relief avec ses teintes diverses, vertes pour les forêts, jaunes pour les sables, bleues pour les eaux. Ils la saisissaient dans tout son ensemble, et ce sol caché sous l'immense verdure, le thalweg des vallées ombreuses, l'intérieur des gorges étroites, creusées au pied du volcan, échappaient seuls à leurs investigations.
+
+Restait une question grave à résoudre, et qui devait singulièrement influer sur l'avenir des naufragés.
+
+L'île était-elle habitée ?
+
+Ce fut le reporter qui posa cette question, à laquelle il semblait que l'on pût déjà répondre négativement, après le minutieux examen qui venait d'être fait des diverses régions de l'île.
+
+Nulle part on n'apercevait l'œuvre de la main humaine. Pas une agglomération de cases, pas une cabane isolée, pas une pêcherie sur le littoral. Aucune fumée ne s'élevait dans l'air et ne trahissait la présence de l'homme. Il est vrai, une distance de trente milles environ séparait les observateurs des points extrêmes, c'est-à-dire de cette queue qui se projetait au sud-ouest, et il eût été difficile, même aux yeux de Pencroff, d'y découvrir une habitation. On ne pouvait, non plus, soulever ce rideau de verdure qui couvrait les trois quarts de l'île, et voir s'il abritait ou non quelque bourgade. Mais, généralement, les insulaires, dans ces étroits espaces émergés des flots du Pacifique, habitent plutôt le littoral, et le littoral paraissait être absolument désert.
+
+Jusqu'à plus complète exploration, on pouvait donc admettre que l'île était inhabitée.
+
+Mais était-elle fréquentée, au moins temporairement, par les indigènes des îles voisines ? À cette question, il était difficile de répondre. Aucune terre n'apparaissait dans un rayon d'environ cinquante milles. Mais cinquante milles peuvent être facilement franchis, soit par des praos malais, soit par de grandes pirogues polynésiennes. Tout dépendait donc de la situation de l'île, de son isolement sur le Pacifique, ou de sa proximité des archipels. Cyrus Smith parviendrait-il sans instruments à relever plus tard sa position en latitude et en longitude ? Ce serait difficile. Dans le doute, il était donc convenable de prendre certaines précautions contre une descente possible des indigènes voisins.
+
+L'exploration de l'île était achevée, sa configuration déterminée, son relief coté, son étendue calculée, son hydrographie et son orographie reconnues. La disposition des forêts et des plaines avait été relevée d'une manière générale sur le plan du reporter. Il n'y avait plus qu'à redescendre les pentes de la montagne, et à explorer le sol au triple point de vue de ses ressources minérales, végétales et animales.
+
+Mais, avant de donner à ses compagnons le signal du départ, Cyrus Smith leur dit de sa voix calme et grave :
+
+« Voici, mes amis, l'étroit coin de terre sur lequel la main du Tout-Puissant nous a jetés. C'est ici que nous allons vivre, longtemps peut-être. Peut-être aussi, un secours inattendu nous arrivera-t-il, si quelque navire passe par hasard\... Je dis par hasard, car cette île est peu importante ; elle n'offre même pas un port qui puisse servir de relâche aux bâtiments, et il est à craindre qu'elle ne soit située en dehors des routes ordinairement suivies, c'est-à-dire trop au sud pour les navires qui fréquentent les archipels du Pacifique, trop au nord pour ceux qui se rendent à l'Australie en doublant le cap Horn. Je ne veux rien vous dissimuler de la situation\...
+
+--- Et vous avez raison, mon cher Cyrus, répondit vivement le reporter. Vous avez affaire à des hommes. Ils ont confiance en vous, et vous pouvez compter sur eux. -- N'est-ce pas, mes amis ?
+
+--- Je vous obéirai en tout, monsieur Cyrus, dit Harbert, qui saisit la main de l'ingénieur.
+
+--- Mon maître, toujours et partout ! s'écria Nab.
+
+--- Quant à moi, dit le marin, que je perde mon nom si je boude à la besogne, et si vous le voulez bien, monsieur Smith, nous ferons de cette île une petite Amérique ! Nous y bâtirons des villes, nous y établirons des chemins de fer, nous y installerons des télégraphes, et un beau jour, quand elle sera bien transformée, bien aménagée, bien civilisée, nous irons l'offrir au gouvernement de l'Union ! Seulement, je demande une chose.
+
+--- Laquelle ? répondit le reporter.
+
+--- C'est de ne plus nous considérer comme des naufragés, mais bien comme des colons qui sont venus ici pour coloniser ! »
+
+Cyrus Smith ne put s'empêcher de sourire, et la motion du marin fut adoptée. Puis, il remercia ses compagnons, et ajouta qu'il comptait sur leur énergie et sur l'aide du ciel.
+
+« Eh bien ! en route pour les Cheminées ! s'écria Pencroff.
+
+--- Un instant, mes amis, répondit l'ingénieur, il me paraît bon de donner un nom à cette île, ainsi qu'aux caps, aux promontoires, aux cours d'eau que nous avons sous les yeux.
+
+--- Très bon, dit le reporter. Cela simplifiera à l'avenir les instructions que nous pourrons avoir à donner ou à suivre.
+
+--- En effet, reprit le marin, c'est déjà quelque chose de pouvoir dire où l'on va et d'où l'on vient. Au moins, on a l'air d'être quelque part.
+
+--- Les Cheminées, par exemple, dit Harbert.
+
+--- Juste ! répondit Pencroff. Ce nom-là, c'était déjà plus commode, et cela m'est venu tout seul. Garderons-nous à notre premier campement ce nom de Cheminées, monsieur Cyrus ?
+
+--- Oui, Pencroff, puisque vous l'avez baptisé ainsi.
+
+--- Bon, quant aux autres, ce sera facile, reprit le marin, qui était en verve. Donnons-leur des noms comme faisaient les Robinsons dont Harbert m'a lu plus d'une fois l'histoire : la "baie Providence", la "pointe des Cachalots", le "cap de l'Espoir trompé" !\...
+
+--- Ou plutôt les noms de M. Smith, répondit Harbert, de M. Spilett, de Nab !\...
+
+--- Mon nom ! s'écria Nab, en montrant ses dents étincelantes de blancheur.
+
+--- Pourquoi pas ? répliqua Pencroff. Le "port Nab", cela ferait très bien ! Et le "cap Gédéon\..."
+
+--- Je préférerais des noms empruntés à notre pays, répondit le reporter, et qui nous rappelleraient l'Amérique.
+
+--- Oui, pour les principaux, dit alors Cyrus Smith, pour ceux des baies ou des mers, je l'admets volontiers. Que nous donnions à cette vaste baie de l'est le nom de baie de l'Union, par exemple, à cette large échancrure du sud, celui de baie Washington, au mont qui nous porte en ce moment, celui de mont Franklin, à ce lac qui s'étend sous nos regards, celui de lac Grant, rien de mieux, mes amis. Ces noms nous rappelleront notre pays et ceux des grands citoyens qui l'ont honoré ; mais pour les rivières, les golfes, les caps, les promontoires, que nous apercevons du haut de cette montagne, choisissons des dénominations que rappellent plutôt leur configuration particulière. Elles se graveront mieux dans notre esprit, et seront en même temps plus pratiques. La forme de l'île est assez étrange pour que nous ne soyons pas embarrassés d'imaginer des noms qui fassent figure. Quant aux cours d'eau que nous ne connaissons pas, aux diverses parties de la forêt que nous explorerons plus tard, aux criques qui seront découvertes dans la suite, nous les baptiserons à mesure qu'ils se présenteront à nous. Qu'en pensez-vous, mes amis ? »
+
+La proposition de l'ingénieur fut unanimement admise par ses compagnons. L'île était là sous leurs yeux comme une carte déployée, et il n'y avait qu'un nom à mettre à tous ses angles rentrants ou sortants, comme à tous ses reliefs. Gédéon Spilett les inscrirait à mesure, et la nomenclature géographique de l'île serait définitivement adoptée.
+
+Tout d'abord, on nomma baie de l'Union, baie Washington et mont Franklin, les deux baies et la montagne, ainsi que l'avait fait l'ingénieur.
+
+« Maintenant, dit le reporter, à cette presqu'île qui se projette au sud-ouest de l'île, je proposerai de donner le nom de presqu'île Serpentine, et celui de promontoire du Reptile (Reptile-end) à la queue recourbée qui la termine, car c'est véritablement une queue de reptile.
+
+--- Adopté, dit l'ingénieur.
+
+--- À présent, dit Harbert, cette autre extrémité de l'île, ce golfe qui ressemble si singulièrement à une mâchoire ouverte, appelons-le golfe du Requin (Shark-gulf).
+
+--- Bien trouvé ! s'écria Pencroff, et nous compléterons l'image en nommant cap Mandibule (Mandible-cape) les deux parties de la mâchoire.
+
+--- Mais il y a deux caps, fit observer le reporter.
+
+--- Eh bien ! répondit Pencroff, nous aurons le cap Mandibule-Nord et le cap Mandibule-Sud.
+
+--- Ils sont inscrits, répondit Gédéon Spilett.
+
+--- Reste à nommer la pointe à l'extrémité sud-est de l'île, dit Pencroff.
+
+--- C'est-à-dire l'extrémité de la baie de l'Union ? répondit Harbert.
+
+--- Cap de la Griffe (Claw-cape) », s'écria aussitôt Nab, qui voulait aussi, lui, être parrain d'un morceau quelconque de son domaine.
+
+Et, en vérité, Nab avait trouvé une dénomination excellente, car ce cap représentait bien la puissante griffe de l'animal fantastique que figurait cette île si singulièrement dessinée.
+
+Pencroff était enchanté de la tournure que prenaient les choses, et les imaginations, un peu surexcitées, eurent bientôt donné :
+
+À la rivière qui fournissait l'eau potable aux colons, et près de laquelle le ballon les avait jetés, le nom de la Mercy, -- un véritable remerciement à la Providence ;
+
+À l'îlot sur lequel les naufragés avaient pris pied tout d'abord, le nom de l'îlot du Salut (Safety-island) ;
+
+Au plateau qui couronnait la haute muraille de granit, au-dessus des Cheminées, et d'où le regard pouvait embrasser toute la vaste baie, le nom de plateau de Grande-Vue ;
+
+Enfin à tout ce massif d'impénétrables bois qui couvraient la presqu'île Serpentine, le nom de forêts du Far-West.
+
+La nomenclature des parties visibles et connues de l'île était ainsi terminée, et, plus tard, on la compléterait au fur et à mesure des nouvelles découvertes.
+
+Quant à l'orientation de l'île, l'ingénieur l'avait déterminée approximativement par la hauteur et la position du soleil, ce qui mettait à l'est la baie de l'Union et tout le plateau de Grande-Vue. Mais le lendemain, en prenant l'heure exacte du lever et du coucher du soleil, et en relevant sa position au demi-temps écoulé entre ce lever et ce coucher, il comptait fixer exactement le nord de l'île, car, par suite de sa situation dans l'hémisphère austral, le soleil, au moment précis de sa culmination, passait au nord, et non pas au midi, comme, en son mouvement apparent, il semble le faire pour les lieux situés dans l'hémisphère boréal.
+
+Tout était donc terminé, et les colons n'avaient plus qu'à redescendre le mont Franklin pour revenir aux Cheminées, lorsque Pencroff de s'écrier :
+
+« Eh bien ! nous sommes de fameux étourdis !
+
+--- Pourquoi cela ? demanda Gédéon Spilett, qui avait fermé son carnet, et se levait pour partir.
+
+--- Et notre île ? Comment ! Nous avons oublié de la baptiser ? »
+
+Harbert allait proposer de lui donner le nom de l'ingénieur, et tous ses compagnons y eussent applaudi, quand Cyrus Smith dit simplement :
+
+« Appelons-la du nom d'un grand citoyen, mes amis, de celui qui lutte maintenant pour défendre l'unité de la République américaine ! Appelons-la l'île Lincoln ! »
+
+Trois hurrahs furent la réponse faite à la proposition de l'ingénieur.
+
+Et ce soir-là, avant de s'endormir, les nouveaux colons causèrent de leur pays absent ; ils parlèrent de cette terrible guerre qui l'ensanglantait ; ils ne pouvaient douter que le Sud ne fût bientôt réduit, et que la cause du Nord, la cause de la justice, ne triomphât, grâce à Grant, grâce à Lincoln !
+
+Or, ceci se passait le 30 mars 1865, et ils ne savaient guère que, seize jours après, un crime effroyable serait commis à Washington, et que, le vendredi saint, Abraham Lincoln tomberait sous la balle d'un fanatique.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729913 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728985 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728057 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727470 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726542 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724226 .pcalibre .pcalibre4 .pcalibre3} *12* {#chapitre-12 .calibre171 .sigil_not_in_toc}
+
+Le règlement des montres. -- Pencroff est satisfait. -- Une fumée suspecte. -- Le cours du Creek-Rouge. -- La flore de l'île Lincoln. -- La faune. -- Les faisans de montagne. -- La poursuite des kangourous. -- L'agouti. -- Le lac Grant. -- Retour aux Cheminées.
+
+
+Les colons de l'île Lincoln jetèrent un dernier regard autour d'eux, ils firent le tour du cratère par son étroite arête, et, une demi-heure après, ils étaient redescendus sur le premier plateau, à leur campement de la nuit.
+
+Pencroff pensa qu'il était l'heure de déjeuner, et, à ce propos, il fut question de régler les deux montres de Cyrus Smith et du reporter.
+
+On sait que celle de Gédéon Spilett avait été respectée par l'eau de mer, puisque le reporter avait été jeté tout d'abord sur le sable, hors de l'atteinte des lames. C'était un instrument établi dans des conditions excellentes, un véritable chronomètre de poche, que Gédéon Spilett n'avait jamais oublié de remonter soigneusement chaque jour.
+
+Quant à la montre de l'ingénieur, elle s'était nécessairement arrêtée pendant le temps que Cyrus Smith avait passé dans les dunes.
+
+L'ingénieur la remonta donc, et, estimant approximativement par la hauteur du soleil qu'il devait être environ neuf heures du matin, il mit sa montre à cette heure.
+
+Gédéon Spilett allait l'imiter, quand l'ingénieur, l'arrêtant de la main, lui dit :
+
+« Non, mon cher Spilett, attendez. Vous avez conservé l'heure de Richmond, n'est-ce pas ?
+
+--- Oui, Cyrus.
+
+--- Par conséquent, votre montre est réglée sur le méridien de cette ville, méridien qui est à peu près celui de Washington ?
+
+--- Sans doute.
+
+--- Eh bien, conservez-la ainsi. Contentez-vous de la remonter très exactement, mais ne touchez pas aux aiguilles. Cela pourra nous servir.
+
+--- À quoi bon ? » pensa le marin.
+
+On mangea, et si bien, que la réserve de gibier et d'amandes fut totalement épuisée. Mais Pencroff ne fut nullement inquiet. On se réapprovisionnerait en route. Top, dont la portion avait été fort congrue, saurait bien trouver quelque nouveau gibier sous le couvert des taillis. En outre, le marin songeait à demander tout simplement à l'ingénieur de fabriquer de la poudre, un ou deux fusils de chasse, et il pensait que cela ne souffrirait aucune difficulté.
+
+En quittant le plateau, Cyrus Smith proposa à ses compagnons de prendre un nouveau chemin pour revenir aux Cheminées. Il désirait reconnaître ce lac Grant si magnifiquement encadré dans sa bordure d'arbres. On suivit donc la crête de l'un des contreforts, entre lesquels le creek[[\[8\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn8011){#_ftnref8011 .pcalibre4 .pcalibre3} qui l'alimentait, prenait probablement sa source. En causant, les colons n'employaient plus déjà que les noms propres qu'ils venaient de choisir, et cela facilitait singulièrement l'échange de leurs idées. Harbert et Pencroff -- l'un jeune et l'autre un peu enfant -- étaient enchantés, et, tout en marchant, le marin disait :
+
+« Hein ! Harbert ! comme cela va ! Pas possible de nous perdre, mon garçon, puisque, soit que nous suivions la route du lac Grant, soit que nous rejoignions la Mercy à travers les bois du Far-West, nous arriverons nécessairement au plateau de Grande-Vue, et, par conséquent, à la baie de l'Union ! »
+
+Il avait été convenu que, sans former une troupe compacte, les colons ne s'écarteraient pas trop les uns des autres. Très certainement, quelques animaux dangereux habitaient ces épaisses forêts de l'île, et il était prudent de se tenir sur ses gardes. Le plus généralement, Pencroff, Harbert et Nab marchaient en tête, précédés de Top, qui fouillait les moindres coins. Le reporter et l'ingénieur allaient de compagnie, Gédéon Spilett, prêt à noter tout incident, l'ingénieur, silencieux la plupart du temps, et ne s'écartant de sa route que pour ramasser, tantôt une chose, tantôt une autre, substance minérale ou végétale, qu'il mettait dans sa poche sans faire aucune réflexion.
+
+« Que diable ramasse-t-il donc ainsi ? murmurait Pencroff. J'ai beau regarder, je ne vois rien qui vaille la peine de se baisser ! »
+
+Vers dix heures, la petite troupe descendait les dernières rampes du mont Franklin. Le sol n'était encore semé que de buissons et de rares arbres. On marchait sur une terre jaunâtre et calcinée, formant une plaine longue d'un mille environ, qui précédait la lisière des bois. De gros quartiers de ce basalte qui, suivant les expériences de Bischof, a exigé, pour se refroidir, trois cent cinquante millions d'années, jonchaient la plaine, très tourmentée par endroits. Cependant, il n'y avait pas trace des laves, qui s'étaient plus particulièrement épanchées par les pentes septentrionales.
+
+Cyrus Smith croyait donc atteindre, sans incident, le cours du creek, qui, suivant lui, devait se dérouler sous les arbres, à la lisière de la plaine, quand il vit revenir précipitamment Harbert, tandis que Nab et le marin se dissimulaient derrière les roches.
+
+« Qu'y a-t-il, mon garçon ? demanda Gédéon Spilett.
+
+--- Une fumée, répondit Harbert. Nous avons vu une fumée monter entre les roches, à cent pas de nous.
+
+--- Des hommes en cet endroit ? s'écria le reporter.
+
+--- Évitons de nous montrer avant de savoir à qui nous avons affaire, répondit Cyrus Smith. Je redoute plutôt les indigènes, s'il y en a sur cette île, que je ne les désire. Où est Top ?
+
+--- Top est en avant.
+
+--- Et il n'aboie pas ?
+
+--- Non.
+
+--- C'est bizarre. Néanmoins, essayons de le rappeler. »
+
+En quelques instants, l'ingénieur, Gédéon Spilett et Harbert avaient rejoint leurs deux compagnons, et, comme eux, ils s'effacèrent derrière des débris de basalte.
+
+De là, ils aperçurent, très visiblement, une fumée qui tourbillonnait en s'élevant dans l'air, fumée dont la couleur jaunâtre était très caractérisée.
+
+Top, rappelé par un léger sifflement de son maître, revint, et celui-ci, faisant signe à ses compagnons de l'attendre, se glissa entre les roches.
+
+Les colons, immobiles, attendaient avec une certaine anxiété le résultat de cette exploration, quand un appel de Cyrus Smith les fit accourir. Ils le rejoignirent aussitôt, et furent tout d'abord frappés de l'odeur désagréable qui imprégnait l'atmosphère.
+
+Cette odeur, aisément reconnaissable, avait suffi à l'ingénieur pour deviner ce qu'était cette fumée qui, tout d'abord, avait dû l'inquiéter, et non sans raison.
+
+« Ce feu, dit-il, ou plutôt cette fumée, c'est la nature seule qui en fait les frais. Il n'y a là qu'une source sulfureuse, qui nous permettra de traiter efficacement nos laryngites.
+
+--- Bon ! s'écria Pencroff. Quel malheur que je ne sois pas enrhumé ! »
+
+Les colons se dirigèrent alors vers l'endroit d'où s'échappait la fumée. Là, ils virent une source sulfurée sodique, qui coulait assez abondamment entre les roches, et dont les eaux dégageaient une vive odeur d'acide sulfhydrique, après avoir absorbé l'oxygène de l'air.
+
+Cyrus Smith, y trempant la main, trouva ces eaux onctueuses au toucher. Il les goûta, et reconnut que leur saveur était un peu douceâtre. Quant à leur température, il l'estima à 95° Fahrenheit (35° cgr au-dessus de zéro). Et Harbert lui ayant demandé sur quoi il basait cette évaluation :
+
+« Tout simplement, mon enfant, dit-il, parce que, en plongeant ma main dans cette eau, je n'ai éprouvé aucune sensation de froid ni de chaud. Donc, elle est à la même température que le corps humain, qui est environ de quatre-vingt-quinze degrés. »
+
+Puis, la source sulfurée n'offrant aucune utilisation actuelle, les colons se dirigèrent vers l'épaisse lisière de la forêt, qui se développait à quelques centaines de pas.
+
+Là, ainsi qu'on l'avait présumé, le ruisseau promenait ses eaux vives et limpides entre de hautes berges de terre rouge, dont la couleur décelait la présence de l'oxyde de fer. Cette couleur fit immédiatement donner à ce cours d'eau le nom de Creek-Rouge.
+
+Ce n'était qu'un large ruisseau, profond et clair, formé des eaux de la montagne, qui, moitié rio, moitié torrent, ici coulant paisiblement sur le sable, là grondant sur des têtes de roche ou se précipitant en cascade, courait ainsi vers le lac sur une longueur d'un mille et demi et une largeur variable de trente à quarante pieds. Ses eaux étaient douces, ce qui devait faire supposer que celles du lac l'étaient aussi. Circonstance heureuse, pour le cas où l'on trouverait sur ses bords une demeure plus convenable que les Cheminées.
+
+Quant aux arbres qui, quelques centaines de pieds en aval, ombrageaient les rives du creek, ils appartenaient pour la plupart aux espèces qui abondent dans la zone modérée de l'Australie ou de la Tasmanie, et non plus à celles de ces conifères qui hérissaient la portion de l'île déjà explorée à quelques milles du plateau de Grande-Vue. À cette époque de l'année, au commencement de ce mois d'avril, qui représente dans cet hémisphère le mois d'octobre, c'est-à-dire au début de l'automne, le feuillage ne leur manquait pas encore. C'étaient plus particulièrement des casuarinas et des eucalyptus, dont quelques-uns devaient fournir au printemps prochain une manne sucrée tout à fait analogue à la manne d'Orient. Des bouquets de cèdres australiens s'élevaient aussi dans les clairières, revêtues de ce haut gazon que l'on appelle « tussac » dans la Nouvelle-Hollande ; mais le cocotier, si abondant sur les archipels du Pacifique, semblait manquer à l'île, dont la latitude était sans doute trop basse.
+
+« Quel malheur ! dit Harbert, un arbre si utile et qui a de si belles noix ! »
+
+Quant aux oiseaux, ils pullulaient entre ces ramures un peu maigres des eucalyptus et des casuarinas, qui ne gênaient pas le déploiement de leurs ailes. Kakatoès noirs, blancs ou gris, perroquets et perruches, au plumage nuancé de toutes les couleurs, « rois », d'un vert éclatant et couronnés de rouge, loris bleus, « blues-mountains », semblaient ne se laisser voir qu'à travers un prisme, et voletaient au milieu d'un caquetage assourdissant.
+
+Tout à coup, un bizarre concert de voix discordantes retentit au milieu d'un fourré. Les colons entendirent successivement le chant des oiseaux, le cri des quadrupèdes, et une sorte de clappement qu'ils auraient pu croire échappé aux lèvres d'un indigène. Nab et Harbert s'étaient élancés vers ce buisson, oubliant les principes de la prudence la plus élémentaire. Très heureusement, il n'y avait là ni fauve redoutable, ni indigène dangereux, mais tout simplement une demi-douzaine de ces oiseaux moqueurs et chanteurs, que l'on reconnut être des « faisans de montagne ». Quelques coups de bâton, adroitement portés, terminèrent la scène d'imitation, ce qui procura un excellent gibier pour le dîner du soir.
+
+Harbert signala aussi de magnifiques pigeons, aux ailes bronzées, les uns surmontés d'une crête superbe, les autres drapés de vert, comme leurs congénères de Port-Macquarie ; mais il fut impossible de les atteindre, non plus que des corbeaux et des pies, qui s'enfuyaient par bandes. Un coup de fusil à petit plomb eût fait une hécatombe de ces volatiles, mais les chasseurs en étaient encore réduits, comme armes de jet, à la pierre, comme armes de hast, au bâton, et ces engins primitifs ne laissaient pas d'être très insuffisants.
+
+Leur insuffisance fut démontrée plus clairement encore, quand une troupe de quadrupèdes, sautillant, bondissant, faisant des sauts de trente pieds, véritables mammifères volants, s'enfuirent par-dessus les fourrés, si prestement et à de telles hauteurs, qu'on aurait pu croire qu'ils passaient d'un arbre à l'autre, comme des écureuils.
+
+« Des kangourous ! s'écria Harbert.
+
+--- Et cela se mange ? répliqua Pencroff.
+
+--- Préparé à l'étuvée, répondit le reporter, cela vaut la meilleure venaison !\... »
+
+Gédéon Spilett n'avait pas achevé cette phrase excitante, que le marin, suivi de Nab et d'Harbert, s'était lancé sur les traces des kangourous. Cyrus Smith les rappela, vainement. Mais ce devait être vainement aussi que les chasseurs allaient poursuivre ce gibier élastique, qui rebondissait comme une balle. Après cinq minutes de course, ils étaient essoufflés, et la bande disparaissait dans le taillis. Top n'avait pas eu plus de succès que ses maîtres.
+
+« Monsieur Cyrus, dit Pencroff, lorsque l'ingénieur et le reporter l'eurent rejoint, monsieur Cyrus, vous voyez bien qu'il est indispensable de fabriquer des fusils. Est-ce que cela sera possible ?
+
+--- Peut-être, répondit l'ingénieur, mais nous commencerons d'abord par fabriquer des arcs et des flèches, et je ne doute pas que vous ne deveniez aussi adroits à les manier que des chasseurs australiens.
+
+--- Des flèches, des arcs ! dit Pencroff avec une moue dédaigneuse. C'est bon pour des enfants !
+
+--- Ne faites pas le fier, ami Pencroff, répondit le reporter. Les arcs et les flèches ont suffi, pendant des siècles, à ensanglanter le monde. La poudre n'est que d'hier, et la guerre est aussi vieille que la race humaine, -- malheureusement !
+
+--- C'est ma foi vrai, monsieur Spilett, répliqua le marin, et je parle toujours trop vite. Faut m'excuser ! »
+
+Cependant, Harbert, tout à sa science favorite, l'histoire naturelle, fit un retour sur les kangourous, en disant :
+
+« Du reste, nous avons eu affaire là à l'espèce la plus difficile à prendre. C'étaient des géants à longue fourrure grise ; mais, si je ne me trompe, il existe des kangourous noirs et rouges, des kangourous de rochers, des kangourous-rats, dont il est plus aisé de s'emparer. On en compte une douzaine d'espèces\...
+
+--- Harbert, répliqua sentencieusement le marin, il n'y a pour moi qu'une seule espèce de kangourou, le "kangourou à la broche", et c'est précisément celle qui nous manquera ce soir ! »
+
+On ne put s'empêcher de rire en entendant la nouvelle classification de maître Pencroff. Le brave marin ne cacha point son regret d'en être réduit pour dîner aux faisans-chanteurs ; mais la fortune devait se montrer encore une fois complaisante pour lui.
+
+En effet, Top, qui sentait bien que son intérêt était en jeu, allait et furetait partout avec un instinct doublé d'un appétit féroce. Il était même probable que si quelque pièce de gibier lui tombait sous la dent, il n'en resterait guère aux chasseurs, et que Top chassait alors pour son propre compte ; mais Nab le surveillait, et il fit bien.
+
+Vers trois heures, le chien disparut dans les broussailles, et de sourds grognements indiquèrent bientôt qu'il était aux prises avec quelque animal.
+
+Nab s'élança, et, effectivement, il aperçut Top dévorant avec avidité un quadrupède, et que, dix secondes plus tard, il eût été impossible de reconnaître dans l'estomac de Top. Mais, très heureusement, le chien était tombé sur une nichée ; il avait fait coup triple, et deux autres rongeurs -- les animaux en question appartenaient à cet ordre -- gisaient étranglés sur le sol.
+
+Nab reparut donc triomphalement, tenant de chaque main un de ces rongeurs, dont la taille dépassait celle d'un lièvre. Leur pelage jaune était mélangé de taches verdâtres, et leur queue n'existait qu'à l'état rudimentaire.
+
+Des citoyens de l'Union ne pouvaient hésiter à donner à ces rongeurs le nom qui leur convenait. C'étaient des « maras », sorte d'agoutis, un peu plus grands que leurs congénères des contrées tropicales, véritables lapins d'Amérique, aux longues oreilles, aux mâchoires armées sur chaque côté de cinq molaires, ce qui les distingue précisément des agoutis.
+
+« Hurrah ! s'écria Pencroff. Le rôti est arrivé ! Et, maintenant, nous pouvons rentrer à la maison ! »
+
+La marche, un instant interrompue, fut reprise. Le Creek-Rouge roulait toujours ses eaux limpides sous la voûte des casuarinas, des banksias et des gommiers gigantesques. Des liliacées superbes s'élevaient jusqu'à une hauteur de vingt pieds. D'autres espèces arborescentes, inconnues au jeune naturaliste, se penchaient sur le ruisseau, que l'on entendait murmurer sous ces berceaux de verdure.
+
+Cependant, le cours d'eau s'élargissait sensiblement, et Cyrus Smith était porté à croire qu'il aurait bientôt atteint son embouchure. En effet, au sortir d'un épais massif de beaux arbres, elle apparut tout à coup.
+
+Les explorateurs étaient arrivés sur la rive occidentale du lac Grant. L'endroit valait la peine d'être regardé. Cette étendue d'eau, d'une circonférence de sept milles environ et d'une superficie de deux cent cinquante acres[[\[9\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn9011){#_ftnref9011 .pcalibre4 .pcalibre3}, reposait dans une bordure d'arbres variés. Vers l'est, à travers un rideau de verdure pittoresquement relevé en certains endroits, apparaissait un étincelant horizon de mer. Au nord, le lac traçait une courbure légèrement concave, qui contrastait avec le dessin aigu de sa pointe inférieure. De nombreux oiseaux aquatiques fréquentaient les rives de ce petit Ontario, dont les « mille îles » de son homonyme américain étaient représentées par un rocher qui émergeait de sa surface, à quelques centaines de pieds de la rive méridionale. Là, vivaient en commun plusieurs couples de martins-pêcheurs, perchés sur quelque pierre, graves, immobiles, guettant les poissons au passage, puis, s'élançant, plongeant en faisant entendre un cri aigu, et reparaissant, la proie au bec. Ailleurs, sur les rives et sur l'îlot, se pavanaient des canards sauvages, des pélicans, des poules d'eau, des becs-rouges, des philédons, munis d'une langue en forme de pinceau, et un ou deux échantillons de ces ménures splendides, dont la queue se développe comme les montants gracieux d'une lyre.
+
+Quant aux eaux du lac, elles étaient douces, limpides, un peu noires, et à certains bouillonnements, aux cercles concentriques qui s'entrecroisaient à leur surface, on ne pouvait douter qu'elles ne fussent très poissonneuses.
+
+« Il est vraiment beau ! ce lac, dit Gédéon Spilett. On vivrait sur ses bords !
+
+--- On y vivra ! » répondit Cyrus Smith.
+
+Les colons, voulant alors revenir par le plus court aux Cheminées, descendirent jusqu'à l'angle formé au sud par la jonction des rives du lac. Ils se frayèrent, non sans peine, un chemin à travers ces fourrés et ces broussailles, que la main de l'homme n'avait jamais encore écartés, et ils se dirigèrent ainsi vers le littoral, de manière à arriver au nord du plateau de Grande-Vue. Deux milles furent franchis dans cette direction, puis, après le dernier rideau d'arbres, apparut le plateau, tapissé d'un épais gazon, et, au-delà, la mer infinie.
+
+Pour revenir aux Cheminées, il suffisait de traverser obliquement le plateau sur un espace d'un mille et de redescendre jusqu'au coude formé par le premier détour de la Mercy. Mais l'ingénieur désirait reconnaître comment et par où s'échappait le trop-plein des eaux du lac, et l'exploration fut prolongée sous les arbres pendant un mille et demi vers le nord. Il était probable, en effet, qu'un déversoir existait quelque part, et sans doute à travers une coupée du granit. Ce lac n'était, en somme, qu'une immense vasque, qui s'était remplie peu à peu par le débit du creek, et il fallait bien que son trop-plein s'écoulât à la mer par quelque chute. S'il en était ainsi, l'ingénieur pensait qu'il serait peut-être possible d'utiliser cette chute et de lui emprunter sa force, actuellement perdue sans profit pour personne. On continua donc à suivre les rives du lac Grant, en remontant le plateau ; mais, après avoir fait encore un mille dans cette direction, Cyrus Smith n'avait pu découvrir le déversoir, qui devait exister cependant.
+
+Il était quatre heures et demie alors. Les préparatifs du dîner exigeaient que les colons rentrassent à leur demeure. La petite troupe revint donc sur ses pas, et, par la rive gauche de la Mercy, Cyrus Smith et ses compagnons arrivèrent aux Cheminées.
+
+Là, le feu fut allumé, et Nab et Pencroff, auxquels étaient naturellement dévolues les fonctions de cuisiniers, l'un en sa qualité de nègre, l'autre en sa qualité de marin, préparèrent lestement des grillades d'agoutis, auxquelles on fit largement honneur.
+
+Le repas terminé, au moment où chacun allait se livrer au sommeil, Cyrus Smith tira de sa poche de petits échantillons de minéraux d'espèces différentes, et se borna à dire :
+
+« Mes amis, ceci est du minerai de fer, ceci une pyrite, ceci de l'argile, ceci de la chaux, ceci du charbon. Voilà ce que nous donne la nature, et voilà sa part dans le travail commun ! -- à demain la nôtre ! »
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729914 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728986 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728058 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727471 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726543 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724227 .pcalibre .pcalibre4 .pcalibre3} *13* {#chapitre-13 .calibre171 .sigil_not_in_toc}
+
+Ce que l'on trouve sur Top. -- Fabrication d'arcs et de flèches. -- Une briqueterie. -- Le four à poteries. -- Divers ustensiles de cuisine. -- Le premier pot-au-feu. -- L'armoise. -- La Croix du Sud. -- Une importante observation astronomique.
+
+
+« Eh bien, monsieur Cyrus, par où allons-nous commencer ? demanda le lendemain matin Pencroff à l'ingénieur.
+
+--- Par le commencement », répondit Cyrus Smith.
+
+Et en effet, c'était bien par le « commencement » que ces colons allaient être forcés de débuter. Ils ne possédaient même pas les outils nécessaires à faire les outils, et ils ne se trouvaient même pas dans les conditions de la nature, qui, « ayant le temps, économise l'effort. » Le temps leur manquait, puisqu'ils devaient immédiatement subvenir aux besoins de leur existence, et si, profitant de l'expérience acquise, ils n'avaient rien à inventer, du moins avaient-ils tout à fabriquer. Leur fer, leur acier n'étaient encore qu'à l'état de minerai, leur poterie à l'état d'argile, leur linge et leurs habits à l'état de matières textiles.
+
+Il faut dire, d'ailleurs, que ces colons étaient des « hommes » dans la belle et puissante acception du mot. L'ingénieur Smith ne pouvait être secondé par de plus intelligents compagnons, ni avec plus de dévouement et de zèle. Il les avait interrogés. Il connaissait leurs aptitudes.
+
+Gédéon Spilett, reporter de grand talent, ayant tout appris pour pouvoir parler de tout, devait contribuer largement de la tête et de la main à la colonisation de l'île. Il ne reculerait devant aucune tâche, et, chasseur passionné, il ferait un métier de ce qui, jusqu'alors, n'avait été pour lui qu'un plaisir.
+
+Harbert, brave enfant, remarquablement instruit déjà dans les sciences naturelles, allait fournir un appoint sérieux à la cause commune.
+
+Nab, c'était le dévouement personnifié. Adroit, intelligent, infatigable, robuste, d'une santé de fer, il s'entendait quelque peu au travail de la forge et ne pouvait qu'être très utile à la colonie.
+
+Quant à Pencroff, il avait été marin sur tous les océans, charpentier dans les chantiers de construction de Brooklyn, aide-tailleur sur les bâtiments de l'état, jardinier, cultivateur, pendant ses congés, etc., et comme les gens de mer, propre à tout, il savait tout faire.
+
+Il eût été véritablement difficile de réunir cinq hommes plus propres à lutter contre le sort, plus assurés d'en triompher.
+
+« Par le commencement », avait dit Cyrus Smith. Or, ce commencement dont parlait l'ingénieur, c'était la construction d'un appareil qui pût servir à transformer les substances naturelles. On sait le rôle que joue la chaleur dans ces transformations. Or, le combustible, bois ou charbon de terre, était immédiatement utilisable. Il s'agissait donc de bâtir un four pour l'utiliser.
+
+« À quoi servira ce four ? demanda Pencroff.
+
+--- À fabriquer la poterie dont nous avons besoin, répondit Cyrus Smith.
+
+--- Et avec quoi ferons-nous le four ?
+
+--- Avec des briques.
+
+--- Et les briques ?
+
+--- Avec de l'argile. En route, mes amis. Pour éviter les transports, nous établirons notre atelier au lieu même de production. Nab apportera des provisions, et le feu ne manquera pas pour la cuisson des aliments.
+
+--- Non, répondit le reporter, mais si les aliments viennent à manquer, faute d'instruments de chasse !
+
+--- Ah ! si nous avions seulement un couteau ! s'écria le marin.
+
+--- Eh bien ? demanda Cyrus Smith.
+
+--- Eh bien ! j'aurais vite fait de fabriquer un arc et des flèches, et le gibier abonderait à l'office !
+
+--- Oui, un couteau, une lame tranchante\... » dit l'ingénieur, comme s'il se fût parlé à lui-même.
+
+En ce moment, ses regards se portèrent vers Top, qui allait et venait sur le rivage.
+
+Soudain, le regard de Cyrus Smith s'anima.
+
+« Top, ici ! » dit-il.
+
+Le chien accourut à l'appel de son maître. Celui-ci prit la tête de Top entre ses mains, et, détachant le collier que l'animal portait au cou, il le rompit en deux parties, en disant :
+
+« Voilà deux couteaux, Pencroff ! »
+
+Deux hurrahs du marin lui répondirent. Le collier de Top était fait d'une mince lame d'acier trempé. Il suffisait donc de l'affûter d'abord sur une pierre de grès, de manière à mettre au vif l'angle du tranchant, puis d'enlever le morfil sur un grès plus fin. Or, ce genre de roche arénacée se rencontrait abondamment sur la grève, et, deux heures après, l'outillage de la colonie se composait de deux lames tranchantes qu'il avait été facile d'emmancher dans une poignée solide.
+
+La conquête de ce premier outil fut saluée comme un triomphe. Conquête précieuse, en effet, et qui venait à propos.
+
+On partit. L'intention de Cyrus Smith était de retourner à la rive occidentale du lac, là où il avait remarqué la veille cette terre argileuse dont il possédait un échantillon. On prit donc par la berge de la Mercy, on traversa le plateau de Grande-Vue, et, après une marche de cinq milles au plus, on arrivait à une clairière située à deux cents pas du lac Grant.
+
+Chemin faisant, Harbert avait découvert un arbre dont les Indiens de l'Amérique méridionale emploient les branches à fabriquer leurs arcs. C'était le « crejimba », de la famille des palmiers, qui ne porte pas de fruits comestibles. Des branches longues et droites furent coupées, effeuillées, taillées, plus fortes en leur milieu, plus faibles à leurs extrémités, et il n'y avait plus qu'à trouver une plante propre à former la corde de l'arc. Ce fut une espèce appartenant à la famille des malvacées, un « hibiscus heterophyllus », qui fournit des fibres d'une ténacité remarquable, qu'on eût pu comparer à des tendons d'animaux. Pencroff obtint ainsi des arcs d'une assez grande puissance, auxquels il ne manquait plus que les flèches. Celles-ci étaient faciles à faire avec des branches droites et rigides, sans nodosités, mais la pointe qui devait les armer, c'est-à-dire une substance propre à remplacer le fer, ne devait pas se rencontrer si aisément. Mais Pencroff se dit qu'ayant fourni, lui, sa part dans le travail, le hasard ferait le reste.
+
+Les colons étaient arrivés sur le terrain reconnu la veille. Il se composait de cette argile figuline qui sert à confectionner les briques et les tuiles, argile, par conséquent, très convenable pour l'opération qu'il s'agissait de mener à bien. La main-d'œuvre ne présentait aucune difficulté. Il suffisait de dégraisser cette figuline avec du sable, de mouler les briques et de les cuire à la chaleur d'un feu de bois.
+
+Ordinairement, les briques sont tassées dans des moules, mais l'ingénieur se contenta de les fabriquer à la main. Toute la journée et la suivante furent employées à ce travail. L'argile, imbibée d'eau, corroyée ensuite avec les pieds et les poignets des manipulateurs, fut divisée en prismes d'égale grandeur. Un ouvrier exercé peut confectionner, sans machine, jusqu'à dix mille briques par douze heures ; mais dans leurs deux journées de travail, les cinq briquetiers de l'île Lincoln n'en fabriquèrent pas plus de trois mille, qui furent rangées les unes près des autres, jusqu'au moment où leur complète dessiccation permettrait d'en opérer la cuisson, c'est-à-dire dans trois ou quatre jours.
+
+Ce fut dans la journée du 2 avril que Cyrus Smith s'occupa de fixer l'orientation de l'île.
+
+La veille, il avait noté exactement l'heure à laquelle le soleil avait disparu sous l'horizon, en tenant compte de la réfraction. Ce matin-là, il releva non moins exactement l'heure à laquelle il reparut. Entre ce coucher et ce lever, douze heures vingt-quatre minutes s'étaient écoulées. Donc, six heures douze minutes après son lever, le soleil, ce jour-là, passerait exactement au méridien, et le point du ciel qu'il occuperait à ce moment serait le nord[[\[10\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn10011){#_ftnref10011 .pcalibre4 .pcalibre3}.
+
+À l'heure dite, Cyrus releva ce point, et, en mettant l'un par l'autre avec le soleil deux arbres qui devaient lui servir de repères, il obtint ainsi une méridienne invariable pour ses opérations ultérieures.
+
+Pendant les deux jours qui précédèrent la cuisson des briques, on s'occupa de s'approvisionner de combustible. Des branches furent coupées autour de la clairière, et l'on ramassa tout le bois tombé sous les arbres. Cela ne se fit pas sans que l'on chassât un peu dans les environs, d'autant mieux que Pencroff possédait maintenant quelques douzaines de flèches armées de pointes très acérées. C'était Top qui avait fourni ces pointes, en rapportant un porc-épic, assez médiocre comme gibier, mais d'une incontestable valeur, grâce aux piquants dont il était hérissé. Ces piquants furent ajustés solidement à l'extrémité des flèches, dont la direction fut assurée par un empennage de plumes de kakatoès. Le reporter et Harbert devinrent promptement de très adroits tireurs d'arc. Aussi, le gibier de poil et de plume abonda-t-il aux Cheminées, cabiais, pigeons, agoutis, coqs de bruyère, etc. La plupart de ces animaux furent tués dans la partie de la forêt située sur la rive gauche de la Mercy, et à laquelle on donna le nom de bois du Jacamar, en souvenir du volatile que Pencroff et Harbert avaient poursuivi lors de leur première exploration.
+
+Ce gibier fut mangé frais, mais on conserva les jambons de cabiai, en les fumant au-dessus d'un feu de bois vert, après les avoir aromatisés avec des feuilles odorantes. Cependant, cette nourriture très fortifiante, c'était toujours rôtis sur rôtis, et les convives eussent été heureux d'entendre chanter dans l'âtre un simple pot-au-feu ; mais il fallait attendre que le pot fût fabriqué, et, par conséquent, que le four fût bâti.
+
+Pendant ces excursions, qui ne se firent que dans un rayon très restreint autour de la briqueterie, les chasseurs purent constater le passage récent d'animaux de grande taille, armés de griffes puissantes, dont ils ne purent reconnaître l'espèce. Cyrus Smith leur recommanda donc une extrême prudence, car il était probable que la forêt renfermait quelques fauves dangereux.
+
+Et il fit bien. En effet, Gédéon Spilett et Harbert aperçurent un jour un animal qui ressemblait à un jaguar. Ce fauve, heureusement, ne les attaqua pas, car ils ne s'en seraient peut-être pas tirés sans quelque grave blessure. Mais dès qu'il aurait une arme sérieuse, c'est-à-dire un de ces fusils que réclamait Pencroff, Gédéon Spilett se promettait bien de faire aux bêtes féroces une guerre acharnée et d'en purger l'île.
+
+Les Cheminées, pendant ces quelques jours, ne furent pas aménagées plus confortablement, car l'ingénieur comptait découvrir ou bâtir, s'il le fallait, une demeure plus convenable. On se contenta d'étendre sur le sable des couloirs une fraîche litière de mousses et de feuilles sèches, et, sur ces couchettes un peu primitives, les travailleurs, harassés, dormaient d'un parfait sommeil.
+
+On fit aussi le relevé des jours écoulés dans l'île Lincoln, depuis que les colons y avaient atterri, et l'on en tint depuis lors un compte régulier. Le 5 avril, qui était un mercredi, il y avait douze jours que le vent avait jeté les naufragés sur ce littoral.
+
+Le 6 avril, dès l'aube, l'ingénieur et ses compagnons étaient réunis sur la clairière, à l'endroit où allait s'opérer la cuisson des briques. Naturellement, cette opération devait se faire en plein air, et non dans des fours, ou plutôt, l'agglomération des briques ne serait qu'un énorme four qui se cuirait lui-même. Le combustible, fait de fascines bien préparées, fut disposé sur le sol, et on l'entoura de plusieurs rangs de briques séchées, qui formèrent bientôt un gros cube, à l'extérieur duquel des évents furent ménagés. Ce travail dura toute la journée, et, le soir seulement, on mit le feu aux fascines.
+
+Cette nuit-là, personne ne se coucha, et on veilla avec soin à ce que le feu ne se ralentît pas.
+
+L'opération dura quarante-huit heures et réussit parfaitement. Il fallut alors laisser refroidir la masse fumante, et, pendant ce temps, Nab et Pencroff, guidés par Cyrus Smith, charrièrent, sur une claie faite de branchages entrelacés, plusieurs charges de carbonate de chaux, pierres très communes, qui se trouvaient abondamment au nord du lac. Ces pierres, décomposées par la chaleur, donnèrent une chaux vive, très grasse, foisonnant beaucoup par l'extinction, aussi pure enfin que si elle eût été produite par la calcination de la craie ou du marbre. Mélangée avec du sable, dont l'effet est d'atténuer le retrait de la pâte quand elle se solidifie, cette chaux fournit un mortier excellent.
+
+De ces divers travaux, il résulta que, le 9 avril, l'ingénieur avait à sa disposition une certaine quantité de chaux toute préparée, et quelques milliers de briques.
+
+On commença donc, sans perdre un instant, la construction d'un four, qui devait servir à la cuisson des diverses poteries indispensables pour les usages domestiques. On y réussit sans trop de difficulté. Cinq jours après, le four fut chargé de cette houille dont l'ingénieur avait découvert un gisement à ciel ouvert vers l'embouchure du Creek-Rouge, et les premières fumées s'échappaient d'une cheminée haute d'une vingtaine de pieds. La clairière était transformée en usine, et Pencroff n'était pas éloigné de croire que de ce four allaient sortir tous les produits de l'industrie moderne.
+
+En attendant, ce que les colons fabriquèrent tout d'abord, ce fut une poterie commune, mais très propre à la cuisson des aliments. La matière première était cette argile même du sol, à laquelle Cyrus Smith fit ajouter un peu de chaux et du quartz. En réalité, cette pâte constituait ainsi la véritable « terre de pipe », avec laquelle on fit des pots, des tasses qui avaient été moulées sur des galets de formes convenables, des assiettes, de grandes jarres et des cuves pour contenir l'eau, etc. La forme de ces objets était gauche, défectueuse ; mais, après qu'ils eurent été cuits à une haute température, la cuisine des Cheminées se trouva pourvue d'un certain nombre d'ustensiles aussi précieux que si le plus beau kaolin fût entré dans leur composition.
+
+Il faut mentionner ici que Pencroff, désireux de savoir si cette argile, ainsi préparée, justifiait son nom de « terre de pipe », se fabriqua quelques pipes assez grossières, qu'il trouva charmantes, mais auxquelles le tabac manquait, hélas ! Et, il faut le dire, c'était une grosse privation pour Pencroff.
+
+« Mais le tabac viendra, comme toutes choses ! » répétait-il dans ses élans de confiance absolue.
+
+Ces travaux durèrent jusqu'au 15 avril, et on comprend que ce temps fut consciencieusement employé. Les colons, devenus potiers, ne firent pas autre chose que de la poterie. Quand il conviendrait à Cyrus Smith de les changer en forgerons, ils seraient forgerons. Mais, le lendemain étant un dimanche, et même le dimanche de Pâques, tous convinrent de sanctifier ce jour par le repos. Ces Américains étaient des hommes religieux, scrupuleux observateurs des préceptes de la Bible, et la situation qui leur était faite ne pouvait que développer leurs sentiments de confiance envers l'Auteur de toutes choses.
+
+Le soir du 15 avril, on revint donc définitivement aux Cheminées. Le reste des poteries fut emporté, et le four s'éteignit en attendant une destination nouvelle. Le retour fut marqué par un incident heureux, la découverte que fit l'ingénieur d'une substance propre à remplacer l'amadou. On sait que cette chair spongieuse et veloutée provient d'un certain champignon du genre polypore. Convenablement préparée, elle est extrêmement inflammable, surtout quand elle a été préalablement saturée de poudre à canon ou bouillie dans une dissolution de nitrate ou de chlorate de potasse. Mais, jusqu'alors, on n'avait trouvé aucun de ces polypores, ni même aucune de ces morilles qui peuvent les remplacer. Ce jour-là, l'ingénieur, ayant reconnu une certaine plante appartenant au genre armoise, qui compte parmi ses principales espèces l'absinthe, la citronnelle, l'estragon, le gépi, etc., en arracha plusieurs touffes, et, les présentant au marin :
+
+« Tenez, Pencroff, dit-il, voilà qui vous fera plaisir. »
+
+Pencroff regarda attentivement la plante, revêtue de poils soyeux et longs, dont les feuilles étaient recouvertes d'un duvet cotonneux.
+
+« Eh ! qu'est-ce cela, monsieur Cyrus ? demanda Pencroff. Bonté du ciel ! Est-ce du tabac ?
+
+--- Non, répondit Cyrus Smith, c'est l'artémise, l'armoise chinoise pour les savants, et pour nous autres, ce sera de l'amadou. »
+
+Et, en effet, cette armoise, convenablement desséchée, fournit une substance très inflammable, surtout lorsque plus tard l'ingénieur l'eut imprégnée de ce nitrate de potasse dont l'île possédait plusieurs couches, et qui n'est autre chose que du salpêtre.
+
+Ce soir-là, tous les colons, réunis dans la chambre centrale, soupèrent convenablement. Nab avait préparé un pot-au-feu d'agouti, un jambon de cabiai aromatisé, auquel on joignit les tubercules bouillis du « caladium macrorhizum », sorte de plante herbacée de la famille des aracées, et qui, sous la zone tropicale, eût affecté une forme arborescente. Ces rhizomes étaient d'un excellent goût, très nutritifs, à peu près semblables à cette substance qui se débite en Angleterre sous le nom de « sagou de Portland », et ils pouvaient, dans une certaine mesure, remplacer le pain, qui manquait encore aux colons de l'île Lincoln.
+
+Le souper achevé, avant de se livrer au sommeil, Cyrus Smith et ses compagnons vinrent prendre l'air sur la grève. Il était huit heures du soir. La nuit s'annonçait magnifiquement. La lune, qui avait été pleine cinq jours auparavant, n'était pas encore levée, mais l'horizon s'argentait déjà de ces nuances douces et pâles que l'on pourrait appeler l'aube lunaire. Au zénith austral, les constellations circumpolaires resplendissaient, et, parmi toutes, cette Croix du Sud que l'ingénieur, quelques jours auparavant, saluait à la cime du mont Franklin.
+
+Cyrus Smith observa pendant quelque temps cette splendide constellation, qui porte à son sommet et à sa base deux étoiles de première grandeur, au bras gauche une étoile de seconde, au bras droit une étoile de troisième grandeur.
+
+Puis, après avoir réfléchi :
+
+« Harbert, demanda-t-il au jeune garçon, ne sommes-nous pas au 15 avril ?
+
+--- Oui, monsieur Cyrus, répondit Harbert.
+
+--- Eh bien, si je ne me trompe, demain sera un des quatre jours de l'année pour lequel le temps vrai se confond avec le temps moyen, c'est-à-dire, mon enfant, que demain, à quelques secondes près, le soleil passera au méridien juste au midi des horloges. Si donc le temps est beau, je pense que je pourrai obtenir la longitude de l'île avec une approximation de quelques degrés.
+
+--- Sans instruments, sans sextant ? demanda Gédéon Spilett.
+
+--- Oui, reprit l'ingénieur. Aussi, puisque la nuit est pure, je vais essayer, ce soir même, d'obtenir notre latitude en calculant la hauteur de la Croix du Sud, c'est-à-dire du pôle austral, au-dessus de l'horizon. Vous comprenez bien, mes amis, qu'avant d'entreprendre des travaux sérieux d'installation, il ne suffit pas d'avoir constaté que cette terre est une île, il faut, autant que possible, reconnaître à quelle distance elle est située, soit du continent américain, soit du continent australien, soit des principaux archipels du Pacifique.
+
+--- En effet, dit le reporter, au lieu de construire une maison, nous pouvons avoir intérêt à construire un bateau, si par hasard nous ne sommes qu'à une centaine de milles d'une côte habitée.
+
+--- Voilà pourquoi, reprit Cyrus Smith, je vais essayer, ce soir, d'obtenir la latitude de l'île Lincoln, et demain, à midi, j'essayerai d'en calculer la longitude. »
+
+Si l'ingénieur eût possédé un sextant, appareil qui permet de mesurer avec une grande précision la distance angulaire des objets par réflexion, l'opération n'eût offert aucune difficulté. Ce soir-là, par la hauteur du pôle, le lendemain, par le passage du soleil au méridien, il aurait obtenu les coordonnées de l'île. Mais, l'appareil manquant, il fallait le suppléer.
+
+Cyrus Smith rentra donc aux Cheminées. À la lueur du foyer, il tailla deux petites règles plates qu'il réunit l'une à l'autre par une de leurs extrémités, de manière à former une sorte de compas dont les branches pouvaient s'écarter ou se rapprocher. Le point d'attache était fixé au moyen d'une forte épine d'acacia, que fournit le bois mort du bûcher.
+
+Cet instrument terminé, l'ingénieur revint sur la grève ; mais comme il fallait qu'il prît la hauteur du pôle au-dessus d'un horizon nettement dessiné, c'est-à-dire un horizon de mer, et que le cap Griffe lui cachait l'horizon du sud, il dut aller chercher une station plus convenable. La meilleure aurait évidemment été le littoral exposé directement au sud, mais il eût fallu traverser la Mercy, alors profonde, et c'était une difficulté.
+
+Cyrus Smith résolut, en conséquence, d'aller faire son observation sur le plateau de Grande-Vue, en se réservant de tenir compte de sa hauteur au-dessus du niveau de la mer -- hauteur qu'il comptait calculer le lendemain par un simple procédé de géométrie élémentaire.
+
+Les colons se transportèrent donc sur le plateau, en remontant la rive gauche de la Mercy, et ils vinrent se placer sur la lisière qui s'orientait nord-ouest et sud-est, c'est-à-dire sur cette ligne de roches capricieusement découpées qui bordait la rivière.
+
+Cette partie du plateau dominait d'une cinquantaine de pieds les hauteurs de la rive droite, qui descendaient, par une double pente, jusqu'à l'extrémité du cap Griffe et jusqu'à la côte méridionale de l'île. Aucun obstacle n'arrêtait donc le regard, qui embrassait l'horizon sur une demi-circonférence, depuis le cap jusqu'au promontoire du Reptile. Au sud, cet horizon, éclairé par en dessous des premières clartés de la lune, tranchait vivement sur le ciel et pouvait être visé avec une certaine précision.
+
+À ce moment, la Croix du Sud se présentait à l'observateur dans une position renversée, l'étoile alpha marquant sa base, qui est plus rapprochée du pôle austral.
+
+Cette constellation n'est pas située aussi près du pôle antarctique que l'étoile polaire l'est du pôle arctique. L'étoile alpha en est à vingt-sept degrés environ, mais Cyrus Smith le savait et devait tenir compte de cette distance dans son calcul. Il eut soin aussi de l'observer au moment où elle passait au méridien au-dessous du pôle, et qui devait simplifier son opération.
+
+Cyrus Smith dirigea donc une branche de son compas de bois sur l'horizon de mer, l'autre sur alpha, comme il eût fait des lunettes d'un cercle répétiteur, et l'ouverture des deux branches lui donna la distance angulaire qui séparait alpha de l'horizon. Afin de fixer l'angle obtenu d'une manière immutable, il piqua, au moyen d'épines, les deux planchettes de son appareil sur une troisième placée transversalement, de telle sorte que leur écartement fût solidement maintenu.
+
+Cela fait, il ne restait plus qu'à calculer l'angle obtenu, en ramenant l'observation au niveau de la mer, de manière à tenir compte de la dépression de l'horizon, ce qui nécessitait de mesurer la hauteur du plateau. La valeur de cet angle donnerait ainsi la hauteur d'alpha, et conséquemment celle du pôle au-dessus de l'horizon, c'est-à-dire la latitude de l'île, puisque la latitude d'un point du globe est toujours égale à la hauteur du pôle au-dessus de l'horizon de ce point.
+
+Ces calculs furent remis au lendemain, et, à dix heures, tout le monde dormait profondément.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729915 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728987 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728059 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727472 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726544 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724228 .pcalibre .pcalibre4 .pcalibre3} *14* {#chapitre-14 .calibre171 .sigil_not_in_toc}
+
+La mesure de la muraille granitique. -- Une application du théorème des triangles semblables. -- La latitude de l'île. -- Une excursion au nord. -- Un banc d'huîtres. -- Projets d'avenir. -- Le passage du soleil au méridien. -- Les coordonnées de l'île Lincoln.
+
+
+Le lendemain, 16 avril -- dimanche de Pâques --, les colons sortaient des Cheminées au jour naissant, et procédaient au lavage de leur linge et au nettoyage de leurs vêtements. L'ingénieur comptait fabriquer du savon dès qu'il se serait procuré les matières premières nécessaires à la saponification, soude ou potasse, graisse ou huile. La question si importante du renouvellement de la garde-robe serait également traitée en temps et lieu. En tout cas, les habits dureraient bien six mois encore, car ils étaient solides et pouvaient résister aux fatigues des travaux manuels. Mais tout dépendrait de la situation de l'île par rapport aux terres habitées. C'est ce qui serait déterminé ce jour même, si le temps le permettait.
+
+Or, le soleil, se levant sur un horizon pur, annonçait une journée magnifique, une de ces belles journées d'automne qui sont comme les derniers adieux de la saison chaude.
+
+Il s'agissait donc de compléter les éléments des observations de la veille, en mesurant la hauteur du plateau de Grande-Vue au-dessus du niveau de la mer.
+
+« Ne vous faut-il pas un instrument analogue à celui qui vous a servi hier ? demanda Harbert à l'ingénieur.
+
+--- Non, mon enfant, répondit celui-ci, nous allons procéder autrement, et d'une manière à peu près aussi précise. »
+
+Harbert, aimant à s'instruire de toutes choses, suivit l'ingénieur, qui s'écarta du pied de la muraille de granit, en descendant jusqu'au bord de la grève. Pendant ce temps, Pencroff, Nab et le reporter s'occupaient de divers travaux.
+
+Cyrus Smith s'était muni d'une sorte de perche droite, longue d'une douzaine de pieds, qu'il avait mesurée aussi exactement que possible, en la comparant à sa propre taille, dont il connaissait la hauteur à une ligne près. Harbert portait un fil à plomb que lui avait remis Cyrus Smith, c'est-à-dire une simple pierre fixée au bout d'une fibre flexible.
+
+Arrivé à une vingtaine de pieds de la lisière de la grève, et à cinq cents pieds environ de la muraille de granit, qui se dressait perpendiculairement, Cyrus Smith enfonça la perche de deux pieds dans le sable, et, en la calant avec soin, il parvint, au moyen du fil à plomb, à la dresser perpendiculairement au plan de l'horizon.
+
+Cela fait, il se recula de la distance nécessaire pour que, étant couché sur le sable, le rayon visuel, parti de son œil, effleurât à la fois et l'extrémité de la perche et la crête de la muraille. Puis il marqua soigneusement ce point avec un piquet.
+
+Alors, s'adressant à Harbert :
+
+« Tu connais les premiers principes de la géométrie ? lui demanda-t-il.
+
+--- Un peu, monsieur Cyrus, répondit Harbert, qui ne voulait pas trop s'avancer.
+
+--- Tu te rappelles bien quelles sont les propriétés de deux triangles semblables ?
+
+--- Oui, répondit Harbert. Leurs côtés homologues sont proportionnels.
+
+--- Eh bien, mon enfant, je viens de construire deux triangles semblables, tous deux rectangles : le premier, le plus petit, a pour côtés la perche perpendiculaire, la distance qui sépare le piquet du bas de la perche, et mon rayon visuel pour hypoténuse ; le second a pour côtés la muraille perpendiculaire, dont il s'agit de mesurer la hauteur, la distance qui sépare le piquet du bas de cette muraille, et mon rayon visuel formant également son hypoténuse -- qui se trouve être la prolongation de celle du premier triangle.
+
+--- Ah ! monsieur Cyrus, j'ai compris ! s'écria Harbert. De même que la distance du piquet à la perche est proportionnelle à la distance du piquet à la base de la muraille, de même la hauteur de la perche est proportionnelle à la hauteur de cette muraille.
+
+--- C'est cela même, Harbert, répondit l'ingénieur, et quand nous aurons mesuré les deux premières distances, connaissant la hauteur de la perche, nous n'aurons plus qu'un calcul de proportion à faire, ce qui nous donnera la hauteur de la muraille et nous évitera la peine de la mesurer directement. »
+
+Les deux distances horizontales furent relevées, au moyen même de la perche, dont la longueur au-dessus du sable était exactement de dix pieds.
+
+La première distance était de quinze pieds entre le piquet et le point où la perche était enfoncée dans le sable.
+
+La deuxième distance, entre le piquet et la base de la muraille, était de cinq cents pieds.
+
+Ces mesures terminées, Cyrus Smith et le jeune garçon revinrent aux Cheminées.
+
+Là, l'ingénieur prit une pierre plate qu'il avait rapportée de ses précédentes excursions, sorte de schiste ardoisier, sur lequel il était facile de tracer des chiffres au moyen d'une coquille aiguë. Il établit donc la proportion suivante :
+
+15 : 500 : 10 : *x*
+
+500 x 10 = 5000
+
+5000/15 = 333, 33.
+
+D'où il fut établi que la muraille de granit mesurait trois cent trente-trois pieds de hauteur[[\[11\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn11011){#_ftnref11011 .pcalibre4 .pcalibre3}.
+
+Cyrus Smith reprit alors l'instrument qu'il avait fabriqué la veille et dont les deux planchettes, par leur écartement, lui donnaient la distance angulaire de l'étoile alpha à l'horizon. Il mesura très exactement l'ouverture de cet angle sur une circonférence qu'il divisa en trois cent soixante parties égales. Or, cet angle était de 10°. Dès lors la distance angulaire totale entre le pôle et l'horizon, en y ajoutant les 27° qui séparent alpha du pôle antarctique, et en réduisant au niveau de la mer la hauteur du plateau sur lequel l'observation avait été faite, se trouva être de 37°. Cyrus Smith en conclut donc que l'île Lincoln était située sur le 37° de latitude australe, ou en tenant compte, vu l'imperfection de ses opérations, d'un écart de 5°, qu'elle devait être située entre le 35^e^ et le 40^e^ parallèle.
+
+Restait à obtenir la longitude, pour compléter les coordonnées de l'île. C'est ce que l'ingénieur tenterait de déterminer le jour même, à midi, c'est-à-dire au moment où le soleil passerait au méridien.
+
+Il fut décidé que ce dimanche serait employé à une promenade, ou plutôt à une exploration de cette partie de l'île située entre le nord du lac et le golfe du Requin, et si le temps le permettait, on pousserait cette reconnaissance jusqu'au revers septentrional du cap Mandibule-Sud. On devait déjeuner aux dunes et ne revenir que le soir.
+
+À huit heures et demie du matin, la petite troupe suivait la lisière du canal. De l'autre côté, sur l'îlot du Salut, de nombreux oiseaux se promenaient gravement. C'étaient des plongeurs, de l'espèce des manchots, très reconnaissables à leur cri désagréable, qui rappelle le braiment de l'âne. Pencroff ne les considéra qu'au point de vue comestible, et n'apprit pas sans une certaine satisfaction que leur chair, quoique noirâtre, est fort mangeable.
+
+On pouvait voir aussi ramper sur le sable de gros amphibies, des phoques, sans doute, qui semblaient avoir choisi l'îlot pour refuge. Il n'était guère possible d'examiner ces animaux au point de vue alimentaire, car leur chair huileuse est détestable ; cependant, Cyrus Smith les observa avec attention, et, sans faire connaître son idée, il annonça à ses compagnons que très prochainement on ferait une visite à l'îlot.
+
+Le rivage, suivi par les colons, était semé d'innombrables coquillages, dont quelques-uns eussent fait la joie d'un amateur de malacologie. C'étaient, entre autres, des phasianelles, des térébratules, des trigonies, etc. Mais ce qui devait être plus utile, ce fut une vaste huîtrière, découverte à mer basse, que Nab signala parmi les roches, à quatre milles environ des Cheminées.
+
+« Nab n'aura pas perdu sa journée, s'écria Pencroff, en observant le banc d'ostracées qui s'étendait au large.
+
+--- C'est une heureuse découverte, en effet, dit le reporter, et pour peu, comme on le prétend, que chaque huître produise par année de cinquante à soixante mille œufs, nous aurons là une réserve inépuisable.
+
+--- Seulement, je crois que l'huître n'est pas très nourrissante, dit Harbert.
+
+--- Non, répondit Cyrus Smith. L'huître ne contient que très peu de matière azotée, et, à un homme qui s'en nourrirait exclusivement, il n'en faudrait pas moins de quinze à seize douzaines par jour.
+
+--- Bon ! répondit Pencroff. Nous pourrons en avaler des douzaines de douzaines, avant d'avoir épuisé le banc. Si nous en prenions quelques-unes pour notre déjeuner ? »
+
+Et sans attendre de réponse à sa proposition, sachant bien qu'elle était approuvée d'avance, le marin et Nab détachèrent une certaine quantité de ces mollusques. On les mit dans une sorte de filet en fibres d'hibiscus, que Nab avait confectionné, et qui contenait déjà le menu du repas ; puis, l'on continua de remonter la côte entre les dunes et la mer.
+
+De temps en temps, Cyrus Smith consultait sa montre, afin de se préparer à temps pour l'observation solaire, qui devait être faite à midi précis.
+
+Toute cette portion de l'île était fort aride jusqu'à cette pointe qui fermait la baie de l'Union, et qui avait reçu le nom de cap Mandibule-Sud. On n'y voyait que sable et coquilles, mélangés de débris de laves. Quelques oiseaux de mer fréquentaient cette côte désolée, des goélands, de grands albatros, ainsi que des canards sauvages, qui excitèrent à bon droit la convoitise de Pencroff. Il essaya bien de les abattre à coups de flèche, mais sans résultat, car ils ne se posaient guère, et il eût fallu les atteindre au vol.
+
+Ce qui amena le marin à répéter à l'ingénieur :
+
+« Voyez-vous, monsieur Cyrus, tant que nous n'aurons pas un ou deux fusils de chasse, notre matériel laissera à désirer !
+
+--- Sans doute, Pencroff, répondit le reporter, mais il ne tient qu'à vous ! Procurez-nous du fer pour les canons, de l'acier pour les batteries, du salpêtre, du charbon et du soufre pour la poudre, du mercure et de l'acide azotique pour le fulminate, enfin du plomb pour les balles, et Cyrus nous fera des fusils de premier choix.
+
+--- Oh ! répondit l'ingénieur, toutes ces substances, nous pourrons sans doute les trouver dans l'île, mais une arme à feu est un instrument délicat et qui nécessite des outils d'une grande précision. Enfin, nous verrons plus tard.
+
+--- Pourquoi faut-il, s'écria Pencroff, pourquoi faut-il que nous ayons jeté par-dessus le bord toutes ces armes que la nacelle emportait avec nous, et nos ustensiles, et jusqu'à nos couteaux de poche !
+
+--- Mais, si nous ne les avions pas jetés, Pencroff, c'est nous que le ballon aurait jetés au fond de la mer ! dit Harbert.
+
+--- C'est pourtant vrai ce que vous dites là, mon garçon ! » répondit le marin.
+
+Puis, passant à une autre idée :
+
+« Mais, j'y songe, ajouta-t-il, quel a dû être l'ahurissement de Jonathan Forster et de ses compagnons, quand, le lendemain matin, ils auront trouvé la place nette et la machine envolée !
+
+--- Le dernier de mes soucis est de savoir ce qu'ils ont pu penser ! dit le reporter.
+
+--- C'est pourtant moi qui ai eu cette idée-là ! dit Pencroff d'un air satisfait.
+
+--- Une belle idée, Pencroff, répondit Gédéon Spilett en riant, et qui nous a mis où nous sommes !
+
+--- J'aime mieux être ici qu'aux mains des sudistes ! s'écria le marin, surtout depuis que M. Cyrus a eu la bonté de venir nous rejoindre !
+
+--- Et moi aussi, en vérité ! répliqua le reporter. D'ailleurs, que nous manque-t-il ? Rien !
+
+--- Si ce n'est\... tout ! répondit Pencroff, qui éclata de rire, en remuant ses larges épaules. Mais, un jour ou l'autre, nous trouverons le moyen de nous en aller !
+
+--- Et plus tôt peut-être que vous ne l'imaginez, mes amis, dit alors l'ingénieur, si l'île Lincoln n'est qu'à une moyenne distance d'un archipel habité ou d'un continent. Avant une heure, nous le saurons. Je n'ai pas de carte du Pacifique, mais ma mémoire a conservé un souvenir très net de sa portion méridionale. La latitude que j'ai obtenue hier met l'île Lincoln par le travers de la Nouvelle-Zélande à l'ouest, et de la côte du Chili à l'est. Mais entre ces deux terres, la distance est au moins de six mille milles. Reste donc à déterminer quel point l'île occupe sur ce large espace de mer, et c'est ce que la longitude nous donnera tout à l'heure avec une approximation suffisante, je l'espère.
+
+--- N'est-ce pas, demanda Harbert, l'archipel des Pomotou qui est le plus rapproché de nous en latitude ?
+
+--- Oui, répondit l'ingénieur, mais la distance qui nous en sépare est de plus de douze cents milles.
+
+--- Et par là ? dit Nab, qui suivait la conversation avec un extrême intérêt, et dont la main indiqua la direction du sud.
+
+--- Par là, rien, répondit Pencroff.
+
+--- Rien, en effet, ajouta l'ingénieur.
+
+--- Eh bien, Cyrus, demanda le reporter, si l'île Lincoln ne se trouve qu'à deux ou trois cents milles de la Nouvelle-Zélande ou du Chili ?\...
+
+--- Eh bien, répondit l'ingénieur, au lieu de faire une maison, nous ferons un bateau, et maître Pencroff se chargera de le manœuvrer\...
+
+--- Comment donc, monsieur Cyrus, s'écria le marin, je suis tout prêt à passer capitaine\... dès que vous aurez trouvé le moyen de construire une embarcation suffisante pour tenir la mer !
+
+--- Nous le ferons, si cela est nécessaire ! » répondit Cyrus Smith.
+
+Mais tandis que causaient ces hommes, qui véritablement ne doutaient de rien, l'heure approchait à laquelle l'observation devait avoir lieu. Comment s'y prendrait Cyrus Smith pour constater le passage du soleil au méridien de l'île, sans aucun instrument ? C'est ce que Harbert ne pouvait deviner.
+
+Les observateurs se trouvaient alors à une distance de six milles des Cheminées, non loin de cette partie des dunes dans laquelle l'ingénieur avait été retrouvé, après son énigmatique sauvetage. On fit halte en cet endroit, et tout fut préparé pour le déjeuner, car il était onze heures et demie. Harbert alla chercher de l'eau douce au ruisseau qui coulait près de là, et il la rapporta dans une cruche dont Nab s'était muni.
+
+Pendant ces préparatifs, Cyrus Smith disposa tout pour son observation astronomique. Il choisit sur la grève une place bien nette, que la mer en se retirant avait nivelée parfaitement. Cette couche de sable très fin était dressée comme une glace, sans qu'un grain dépassât l'autre. Peu importait, d'ailleurs, que cette couche fût horizontale ou non, et il n'importait pas davantage que la baguette, haute de six pieds, qui y fut plantée, se dressât perpendiculairement. Au contraire, même, l'ingénieur l'inclina vers le sud, c'est-à-dire du côté opposé au soleil, car il ne faut pas oublier que les colons de l'île Lincoln, par cela même que l'île était située dans l'hémisphère austral, voyaient l'astre radieux décrire son arc diurne au-dessus de l'horizon du nord, et non au-dessus de l'horizon du sud.
+
+Harbert comprit alors comment l'ingénieur allait procéder pour constater la culmination du soleil, c'est-à-dire son passage au méridien de l'île, ou, en d'autres termes, le midi du lieu. C'était au moyen de l'ombre projetée sur le sable par la baguette, moyen qui, à défaut d'instrument, lui donnerait une approximation convenable pour le résultat qu'il voulait obtenir.
+
+En effet, le moment où cette ombre atteindrait son minimum de longueur serait le midi précis, et il suffirait de suivre l'extrémité de cette ombre, afin de reconnaître l'instant où, après avoir successivement diminué, elle recommencerait à s'allonger. En inclinant sa baguette du côté opposé au soleil, Cyrus Smith rendait l'ombre plus longue, et, par conséquent, ses modifications seraient plus faciles à constater. En effet, plus l'aiguille d'un cadran est grande, plus on peut suivre aisément le déplacement de sa pointe. L'ombre de la baguette n'était pas autre chose que l'aiguille d'un cadran.
+
+Lorsqu'il pensa que le moment était arrivé, Cyrus Smith s'agenouilla sur le sable, et, au moyen de petits jalons de bois qu'il fichait dans le sable, il commença à pointer les décroissances successives de l'ombre de la baguette. Ses compagnons, penchés au-dessus de lui, suivaient l'opération avec un intérêt extrême.
+
+Le reporter tenait son chronomètre à la main, prêt à relever l'heure qu'il marquerait, quand l'ombre serait à son plus court. En outre, comme Cyrus Smith opérait le 16 avril, jour auquel le temps vrai et le temps moyen se confondent, l'heure donnée par Gédéon Spilett serait l'heure vraie qu'il serait alors à Washington, ce qui simplifierait le calcul.
+
+Cependant le soleil s'avançait lentement ; l'ombre de la baguette diminuait peu à peu, et quand il parut à Cyrus Smith qu'elle recommençait à grandir :
+
+« Quelle heure ? dit-il.
+
+--- Cinq heures et une minute », répondit aussitôt Gédéon Spilett.
+
+Il n'y avait plus qu'à chiffrer l'opération. Rien n'était plus facile. Il existait, on le voit, en chiffres ronds, cinq heures de différence entre le méridien de Washington et celui de l'île Lincoln, c'est-à-dire qu'il était midi à l'île Lincoln, quand il était déjà cinq heures du soir à Washington. Or, le soleil, dans son mouvement apparent autour de la terre, parcourt un degré par quatre minutes, soit 15° par heure. 15° multipliés par cinq heures donnaient 75°.
+
+Donc, puisque Washington est par 77° 3' 11", autant dire 77° comptés du méridien de Greenwich -- que les Américains prennent pour point de départ des longitudes, concurremment avec les Anglais --, il s'ensuivait que l'île était située par 77° plus 75° à l'ouest du méridien de Greenwich, c'est-à-dire par le 152^e^ degré de longitude ouest.
+
+Cyrus Smith annonça ce résultat à ses compagnons, et tenant compte des erreurs d'observation, ainsi qu'il l'avait fait pour la latitude, il crut pouvoir affirmer que le gisement de l'île Lincoln était entre le 35^e^ et le 37^e^ parallèle, et entre le 150^e^ et le 155^e^ méridien à l'ouest du méridien de Greenwich.
+
+L'écart possible qu'il attribuait aux erreurs d'observation était, on le voit, de 5° dans les deux sens, ce qui, à soixante milles par degré, pouvait donner une erreur de trois cents milles en latitude ou en longitude pour le relèvement exact.
+
+Mais cette erreur ne devait pas influer sur le parti qu'il conviendrait de prendre. Il était bien évident que l'île Lincoln était à une telle distance de toute terre ou archipel, qu'on ne pourrait se hasarder à franchir cette distance sur un simple et fragile canot.
+
+En effet, son relèvement la plaçait au moins à douze cents milles de Taïti et des îles de l'archipel des Pomotou, à plus de dix-huit cents milles de la Nouvelle-Zélande, à plus de quatre mille cinq cents milles de la côte américaine !
+
+Et quand Cyrus Smith consultait ses souvenirs, il ne se rappelait en aucune façon qu'une île quelconque occupât, dans cette partie du Pacifique, la situation assignée à l'île Lincoln.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729916 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728988 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728060 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727473 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726545 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724229 .pcalibre .pcalibre4 .pcalibre3} *15* {#chapitre-15 .calibre171 .sigil_not_in_toc}
+
+L'hivernage est absolument décidé. -- La question métallurgique. -- Exploration de l'îlot du Salut. -- La chasse aux phoques. -- Capture d'un échidné. -- Le koula. -- Ce qu'on appelle la méthode catalane. -- Fabrication du fer. -- Comment on obtient l'acier.
+
+
+Le lendemain, 17 avril, la première parole du marin fut pour Gédéon Spilett.
+
+« Eh bien, monsieur, lui demanda-t-il, que serons-nous aujourd'hui ?
+
+--- Ce qu'il plaira à Cyrus », répondit le reporter.
+
+Or, de briquetiers et de potiers qu'ils avaient été jusqu'alors, les compagnons de l'ingénieur allaient devenir métallurgistes.
+
+La veille, après le déjeuner, l'exploration avait été portée jusqu'à la pointe du cap Mandibule, distante de près de sept milles des Cheminées. Là finissait la longue série des dunes, et le sol prenait une apparence volcanique. Ce n'étaient plus de hautes murailles, comme au plateau de Grande-Vue, mais une bizarre et capricieuse bordure qui encadrait cet étroit golfe compris entre les deux caps, formés des matières minérales vomies par le volcan. Arrivés à cette pointe, les colons étaient revenus sur leurs pas, et, à la nuit tombante, ils rentraient aux Cheminées, mais ils ne s'endormirent pas avant que la question de savoir s'il fallait songer à quitter ou non l'île Lincoln eût été définitivement résolue.
+
+C'était une distance considérable que celle de ces douze cents milles qui séparaient l'île de l'archipel des Pomotou. Un canot n'eût pas suffi à la franchir, surtout à l'approche de la mauvaise saison. Pencroff l'avait formellement déclaré. Or, construire un simple canot, même en ayant les outils nécessaires, était un ouvrage difficile, et, les colons n'ayant pas d'outils, il fallait commencer par fabriquer marteaux, haches, herminettes, scies, tarières, rabots, etc., ce qui exigerait un certain temps. Il fut donc décidé que l'on hivernerait à l'île Lincoln, et que l'on chercherait une demeure plus confortable que les Cheminées pour y passer les mois d'hiver.
+
+Avant toutes choses, il s'agissait d'utiliser le minerai de fer, dont l'ingénieur avait observé quelques gisements dans la partie nord-ouest de l'île, et de changer ce minerai soit en fer, soit en acier.
+
+Le sol ne renferme généralement pas les métaux à l'état de pureté. Pour la plupart, on les trouve combinés avec l'oxygène ou avec le soufre. Précisément, les deux échantillons rapportés par Cyrus Smith étaient, l'un du fer magnétique, non carbonaté, l'autre de la pyrite, autrement dit du sulfure de fer. C'était donc le premier, l'oxyde de fer, qu'il fallait réduire par le charbon, c'est-à-dire débarrasser de l'oxygène, pour l'obtenir à l'état de pureté. Cette réduction se fait en soumettant le minerai en présence du charbon à une haute température, soit par la rapide et facile « méthode catalane », qui a l'avantage de transformer directement le minerai en fer dans une seule opération, soit par la méthode des hauts fourneaux, qui change d'abord le minerai en fonte, puis la fonte en fer, en lui enlevant les trois à quatre pour cent de charbon qui sont combinés avec elle.
+
+Or, de quoi avait besoin Cyrus Smith ? De fer et non de fonte, et il devait rechercher la plus rapide méthode de réduction. D'ailleurs, le minerai qu'il avait recueilli était par lui-même très pur et très riche. C'était ce minerai oxydulé qui, se rencontrant en masses confuses d'un gris foncé, donne une poussière noire, cristallise en octaèdres réguliers, fournit les aimants naturels, et sert à fabriquer en Europe ces fers de première qualité, dont la Suède et la Norvège sont si abondamment pourvues. Non loin de ce gisement se trouvaient les gisements de charbon de terre déjà exploités par les colons. De là, grande facilité pour le traitement du minerai, puisque les éléments de la fabrication se trouvaient rapprochés. C'est même ce qui fait la prodigieuse richesse des exploitations du Royaume-Uni, où la houille sert à fabriquer le métal extrait du même sol et en même temps qu'elle.
+
+« Alors, monsieur Cyrus, lui dit Pencroff, nous allons travailler le minerai de fer ?
+
+--- Oui, mon ami, répondit l'ingénieur, et, pour cela -- ce qui ne vous déplaira pas --, nous commencerons par faire sur l'îlot la chasse aux phoques.
+
+--- La chasse aux phoques ! s'écria le marin en se retournant vers Gédéon Spilett. Il faut donc du phoque pour fabriquer du fer ?
+
+--- Puisque Cyrus le dit ! » répondit le reporter.
+
+Mais l'ingénieur avait déjà quitté les Cheminées, et Pencroff se prépara à la chasse aux phoques, sans avoir obtenu d'autre explication.
+
+Bientôt Cyrus Smith, Harbert, Gédéon Spilett, Nab et le marin étaient réunis sur la grève, en un point où le canal laissait une sorte de passage guéable à mer basse. La marée était au plus bas du reflux, et les chasseurs purent traverser le canal sans se mouiller plus haut que le genou.
+
+Cyrus Smith mettait donc pour la première fois le pied sur l'îlot, et ses compagnons pour la seconde fois, puisque c'était là que le ballon les avait jetés tout d'abord.
+
+À leur débarquement, quelques centaines de pingouins les regardèrent d'un œil candide. Les colons, armés de bâtons, auraient pu facilement les tuer, mais ils ne songèrent pas à se livrer à ce massacre deux fois inutile, car il importait de ne point effrayer les amphibies, qui étaient couchés sur le sable, à quelques encablures. Ils respectèrent aussi certains manchots très innocents, dont les ailes, réduites à l'état de moignons, s'aplatissaient en forme de nageoires, garnies de plumes d'apparence squammeuse.
+
+Les colons s'avancèrent donc prudemment vers la pointe nord, en marchant sur un sol criblé de petites fondrières, qui formaient autant de nids d'oiseaux aquatiques. Vers l'extrémité de l'îlot apparaissaient de gros points noirs qui nageaient à fleur d'eau. On eût dit des têtes d'écueils en mouvement.
+
+C'étaient les amphibies qu'il s'agissait de capturer. Il fallait les laisser prendre terre, car, avec leur bassin étroit, leur poil ras et serré, leur conformation fusiforme, ces phoques, excellents nageurs, sont difficiles à saisir dans la mer, tandis que, sur le sol, leurs pieds courts et palmés ne leur permettent qu'un mouvement de reptation peu rapide.
+
+Pencroff connaissait les habitudes de ces amphibies, et il conseilla d'attendre qu'ils fussent étendus sur le sable, aux rayons de ce soleil qui ne tarderait pas à les plonger dans un profond sommeil. On manœuvrerait alors de manière à leur couper la retraite et à les frapper aux naseaux.
+
+Les chasseurs se dissimulèrent donc derrière les roches du littoral, et ils attendirent silencieusement.
+
+Une heure se passa, avant que les phoques fussent venus s'ébattre sur le sable. On en comptait une demi-douzaine. Pencroff et Harbert se détachèrent alors, afin de tourner la pointe de l'îlot, de manière à les prendre à revers et à leur couper la retraite. Pendant ce temps, Cyrus Smith, Gédéon Spilett et Nab, rampant le long des roches, se glissaient vers le futur théâtre du combat.
+
+Tout à coup, la haute taille du marin se développa. Pencroff poussa un cri. L'ingénieur et ses deux compagnons se jetèrent en toute hâte entre la mer et les phoques. Deux de ces animaux, vigoureusement frappés, restèrent morts sur le sable, mais les autres purent regagner la mer et prendre le large.
+
+« Les phoques demandés, monsieur Cyrus ! dit le marin en s'avançant vers l'ingénieur.
+
+--- Bien, répondit Cyrus Smith. Nous en ferons des soufflets de forge !
+
+--- Des soufflets de forge ! s'écria Pencroff. Eh bien ! voilà des phoques qui ont de la chance ! »
+
+C'était, en effet, une machine soufflante, nécessaire pour le traitement du minerai, que l'ingénieur comptait fabriquer avec la peau de ces amphibies. Ils étaient de moyenne taille, car leur longueur ne dépassait pas six pieds, et, par la tête, ils ressemblaient à des chiens.
+
+Comme il était inutile de se charger d'un poids aussi considérable que celui de ces deux animaux, Nab et Pencroff résolurent de les dépouiller sur place, tandis que Cyrus Smith et le reporter achèveraient d'explorer l'îlot.
+
+Le marin et le nègre se tirèrent adroitement de leur opération, et, trois heures après, Cyrus Smith avait à sa disposition deux peaux de phoque, qu'il comptait utiliser dans cet état, et sans leur faire subir aucun tannage.
+
+Les colons durent attendre que la mer eût rebaissé, et, traversant le canal, ils rentrèrent aux Cheminées.
+
+Ce ne fut pas un petit travail que celui de tendre ces peaux sur des cadres de bois destinés à maintenir leur écartement, et de les coudre au moyen de fibres, de manière à pouvoir y emmagasiner l'air sans laisser trop de fuites. Il fallut s'y reprendre à plusieurs fois. Cyrus Smith n'avait à sa disposition que les deux lames d'acier provenant du collier de Top, et, cependant, il fut si adroit, ses compagnons l'aidèrent avec tant d'intelligence, que, trois jours après, l'outillage de la petite colonie s'était augmenté d'une machine soufflante, destinée à injecter l'air au milieu du minerai lorsqu'il serait traité par la chaleur, -- condition indispensable pour la réussite de l'opération.
+
+Ce fut le 20 avril, dès le matin, que commença « la période métallurgique », ainsi que l'appela le reporter dans ses notes. L'ingénieur était décidé, on le sait, à opérer sur le gisement même de houille et de minerai. Or, d'après ses observations, ces gisements étaient situés au bas des contreforts nord-est du mont Franklin, c'est-à-dire à une distance de six milles. Il ne fallait donc pas songer à revenir chaque jour aux Cheminées, et il fut convenu que la petite colonie camperait sous une hutte de branchages, de manière que l'importante opération fût suivie nuit et jour.
+
+Ce projet arrêté, on partit dès le matin. Nab et Pencroff traînaient sur une claie la machine soufflante, et une certaine quantité de provisions végétales et animales, que, d'ailleurs, on renouvellerait en route.
+
+Le chemin suivi fut celui des bois du Jacamar, que l'on traversa obliquement du sud-est au nord-ouest, et dans leur partie la plus épaisse. Il fallut se frayer une route, qui devait former, par la suite, l'artère la plus directe entre le plateau de Grande-Vue et le mont Franklin. Les arbres, appartenant aux espèces déjà reconnues, étaient magnifiques. Harbert en signala de nouveaux, entre autres, des dragonniers, que Pencroff traita de « poireaux prétentieux », -- car, en dépit de leur taille, ils étaient de cette même famille des liliacées que l'oignon, la civette, l'échalote ou l'asperge. Ces dragonniers pouvaient fournir des racines ligneuses, qui, cuites, sont excellentes, et qui, soumises à une certaine fermentation, donnent une très agréable liqueur. On en fit provision.
+
+Ce cheminement à travers le bois fut long. Il dura la journée entière, mais cela permit d'observer la faune et la flore. Top, plus spécialement chargé de la faune, courait à travers les herbes et les broussailles, faisant lever indistinctement toute espèce de gibier. Harbert et Gédéon Spilett tuèrent deux kangourous à coups de flèche, et de plus un animal qui ressemblait fort à un hérisson et à un fourmilier : au premier, parce qu'il se roulait en boule et se hérissait de piquants ; au second, parce qu'il avait des ongles fouisseurs, un museau long et grêle que terminait un bec d'oiseau, et une langue extensible, garnie de petites épines qui lui servaient à retenir les insectes.
+
+« Et quand il sera dans le pot-au-feu, fit naturellement observer Pencroff, à quoi ressemblera-t-il ?
+
+--- À un excellent morceau de bœuf, répondit Harbert.
+
+--- Nous ne lui en demanderons pas davantage », répondit le marin.
+
+Pendant cette excursion, on aperçut quelques sangliers sauvages, qui ne cherchèrent point à attaquer la petite troupe, et il ne semblait pas que l'on dût rencontrer de fauves redoutables, quand, dans un épais fourré, le reporter crut voir, à quelques pas de lui, entre les premières branches d'un arbre, un animal qu'il prit pour un ours, et qu'il se mit à dessiner tranquillement. Très heureusement pour Gédéon Spilett, l'animal en question n'appartenait point à cette redoutable famille des plantigrades. Ce n'était qu'un « koula », plus connu sous le nom de « paresseux », qui avait la taille d'un grand chien, le poil hérissé et de couleur sale, les pattes armées de fortes griffes, ce qui lui permettait de grimper aux arbres et de se nourrir de feuilles. Vérification faite de l'identité dudit animal, qu'on ne dérangea point de ses occupations, Gédéon Spilett effaça « ours » de la légende de son croquis, mit « koula » à la place, et la route fut reprise.
+
+À cinq heures du soir, Cyrus Smith donnait le signal de halte. Il se trouvait en dehors de la forêt, à la naissance de ces puissants contreforts qui étançonnaient le mont Franklin vers l'est. À quelques centaines de pas coulait le Creek-Rouge, et, par conséquent, l'eau potable n'était pas loin.
+
+Le campement fut aussitôt organisé. En moins d'une heure, sur la lisière de la forêt, entre les arbres, une hutte de branchages entremêlés de lianes et empâtés de terre glaise, offrit une retraite suffisante. On remit au lendemain les recherches géologiques. Le souper fut préparé, un bon feu flamba devant la hutte, la broche tourna, et à huit heures, tandis que l'un des colons veillait pour entretenir le foyer, au cas où quelque bête dangereuse aurait rôdé aux alentours, les autres dormaient d'un bon sommeil.
+
+Le lendemain, 21 avril, Cyrus Smith, accompagné d'Harbert, alla rechercher ces terrains de formation ancienne sur lesquels il avait déjà trouvé un échantillon de minerai. Il rencontra le gisement à fleur de terre, presque aux sources même du creek, au pied de la base latérale de l'un de ces contreforts du nord-est. Ce minerai, très riche en fer, enfermé dans sa gangue fusible, convenait parfaitement au mode de réduction que l'ingénieur comptait employer, c'est-à-dire la méthode catalane, mais simplifiée, ainsi qu'on l'emploie en Corse.
+
+En effet, la méthode catalane proprement dite exige la construction de fours et de creusets, dans lesquels le minerai et le charbon, placés par couches alternatives, se transforment et se réduisent. Mais Cyrus Smith prétendait économiser ces constructions, et voulait former tout simplement, avec le minerai et le charbon, une masse cubique au centre de laquelle il dirigerait le vent de son soufflet. C'était le procédé employé, sans doute, par Tubal-Caïn et les premiers métallurgistes du monde habité. Or, ce qui avait réussi avec les petits-fils d'Adam, ce qui donnait encore de bons résultats dans les contrées riches en minerai et en combustible, ne pouvait que réussir dans les circonstances où se trouvaient les colons de l'île Lincoln.
+
+Ainsi que le minerai, la houille fut récoltée, sans peine et non loin, à la surface du sol. On cassa préalablement le minerai en petits morceaux, et on le débarrassa à la main des impuretés qui souillaient sa surface. Puis, charbon et minerai furent disposés en tas et par couches successives, -- ainsi que fait le charbonnier du bois qu'il veut carboniser. De cette façon, sous l'influence de l'air projeté par la machine soufflante, le charbon devait se transformer en acide carbonique, puis en oxyde de carbone, chargé de réduire l'oxyde de fer, c'est-à-dire d'en dégager l'oxygène.
+
+Ainsi l'ingénieur procéda-t-il. Le soufflet de peaux de phoque, muni à son extrémité d'un tuyau en terre réfractaire, qui avait été préalablement fabriqué au four à poteries, fut établi près du tas de minerai. Mû par un mécanisme dont les organes consistaient en châssis, cordes de fibres et contrepoids, il lança dans la masse une provision d'air qui, tout en élevant la température, concourut aussi à la transformation chimique qui devait donner du fer pur.
+
+
+La première loupe, emmanchée d'un bâton, servit de marteau pour forger la seconde sur une enclume de granit, et on arriva à obtenir un métal grossier, mais utilisable.
+
+Enfin, après bien des efforts, bien des fatigues, le 25 avril, plusieurs barres de fer étaient forgées, et se transformaient en outils, pinces, tenailles, pics, pioches, etc., que Pencroff et Nab déclaraient être de vrais bijoux.
+
+Mais ce métal, ce n'était pas à l'état de fer pur qu'il pouvait rendre de grands services, c'était surtout à l'état d'acier. Or, l'acier est une combinaison de fer et de charbon que l'on tire, soit de la fonte, en enlevant à celle-ci l'excès de charbon, soit du fer, en ajoutant à celui-ci le charbon qui lui manque. Le premier, obtenu par la décarburation de la fonte, donne l'acier naturel ou puddlé ; le second, produit par la carburation du fer, donne l'acier de cémentation.
+
+C'était donc ce dernier que Cyrus Smith devait chercher à fabriquer de préférence, puisqu'il possédait le fer à l'état pur. Il y réussit en chauffant le métal avec du charbon en poudre dans un creuset fait en terre réfractaire.
+
+Puis, cet acier, qui est malléable à chaud et à froid, il le travailla au marteau. Nab et Pencroff, habilement dirigés, firent des fers de hache, lesquels, chauffés au rouge, et plongés brusquement dans l'eau froide, acquirent une trempe excellente.
+
+D'autres instruments, façonnés grossièrement, il va sans dire, furent ainsi fabriqués, lames de rabot, haches, hachettes, bandes d'acier qui devaient être transformées en scies, ciseaux de charpentier, puis, des fers de pioche, de pelle, de pic, des marteaux, des clous, etc.
+
+Enfin, le 5 mai, la première période métallurgique était achevée, les forgerons rentraient aux Cheminées, et de nouveaux travaux allaient les autoriser bientôt à prendre une qualification nouvelle.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729917 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728989 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728061 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727474 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726546 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724230 .pcalibre .pcalibre4 .pcalibre3} *16* {#chapitre-16 .calibre171 .sigil_not_in_toc}
+
+La question d'habitation est traitée de nouveau. -- Les fantaisies de Pencroff. -- Une exploration au nord du lac. -- La lisière septentrionale du plateau. -- Les serpents. -- L'extrémité du lac. -- Inquiétudes de Top. -- Top à la nage. -- Un combat sous les eaux. -- Le dugong.
+
+
+On était au 6 mai, jour qui correspond au 6 novembre des contrées de l'hémisphère boréal. Le ciel s'embrumait depuis quelques jours, et il importait de prendre certaines dispositions en vue d'un hivernage. Toutefois, la température ne s'était pas encore abaissée sensiblement, et un thermomètre centigrade, transporté à l'île Lincoln, eût encore marqué une moyenne de dix à douze degrés au-dessus de zéro. Cette moyenne ne saurait surprendre, puisque l'île Lincoln, située très vraisemblablement entre le 35^e^ et le 40^e^ parallèle, devait se trouver soumise, dans l'hémisphère sud, aux mêmes conditions climatériques que la Sicile ou la Grèce dans l'hémisphère nord. Mais, de même que la Grèce ou la Sicile éprouvent des froids violents, qui produisent neige et glace, de même l'île Lincoln subirait sans doute, dans la période la plus accentuée de l'hiver, certains abaissements de température contre lesquels il convenait de se prémunir.
+
+En tout cas, si le froid ne menaçait pas encore, la saison des pluies était prochaine, et sur cette île isolée, exposée à toutes les intempéries du large, en plein océan Pacifique, les mauvais temps devaient être fréquents, et probablement terribles.
+
+La question d'une habitation plus confortable que les Cheminées dut donc être sérieusement méditée et promptement résolue.
+
+Pencroff, naturellement, avait quelque prédilection pour cette retraite qu'il avait découverte ; mais il comprit bien qu'il fallait en chercher une autre. Déjà les Cheminées avaient été visitées par la mer, dans des circonstances dont on se souvient, et on ne pouvait s'exposer de nouveau à pareil accident.
+
+« D'ailleurs, ajouta Cyrus Smith, qui, ce jour-là, causait de ces choses avec ses compagnons, nous avons quelques précautions à prendre.
+
+--- Pourquoi ? L'île n'est point habitée, dit le reporter.
+
+--- Cela est probable, répondit l'ingénieur, bien que nous ne l'ayons pas explorée encore dans son entier ; mais si aucun être humain ne s'y trouve, je crains que les animaux dangereux n'y abondent. Il convient donc de se mettre à l'abri d'une agression possible, et de ne pas obliger l'un de nous à veiller chaque nuit pour entretenir un foyer allumé. Et puis, mes amis, il faut tout prévoir. Nous sommes ici dans une partie du Pacifique souvent fréquentée par les pirates malais\...
+
+--- Quoi, dit Harbert, à une telle distance de toute terre ?
+
+--- Oui, mon enfant, répondit l'ingénieur. Ces pirates sont de hardis marins aussi bien que des malfaiteurs redoutables, et nous devons prendre nos mesures en conséquence.
+
+--- Eh bien, répondit Pencroff, nous nous fortifierons contre les sauvages à deux et à quatre pattes. Mais, monsieur Cyrus, ne serait-il pas à propos d'explorer l'île dans toutes ses parties avant de rien entreprendre ?
+
+--- Cela vaudrait mieux, ajouta Gédéon Spilett. Qui sait si nous ne trouverons pas sur la côte opposée une de ces cavernes que nous avons inutilement cherchées sur celle-ci ?
+
+--- Cela est vrai, répondit l'ingénieur, mais vous oubliez, mes amis, qu'il convient de nous établir dans le voisinage d'un cours d'eau, et que, du sommet du mont Franklin, nous n'avons aperçu vers l'ouest ni ruisseau ni rivière. Ici, au contraire, nous sommes placés entre la Mercy et le lac Grant, avantage considérable qu'il ne faut pas négliger. Et, de plus, cette côte, orientée à l'est, n'est pas exposée comme l'autre aux vents alizés, qui soufflent du nord-ouest dans cet hémisphère.
+
+--- Alors, monsieur Cyrus, répondit le marin, construisons une maison sur les bords du lac. Ni les briques, ni les outils ne nous manquent maintenant. Après avoir été briquetiers, potiers, fondeurs, forgerons, nous saurons bien être maçons, que diable !
+
+--- Oui, mon ami, mais avant de prendre une décision, il faut chercher. Une demeure dont la nature aurait fait tous les frais nous épargnerait bien du travail, et elle nous offrirait sans doute une retraite plus sûre encore, car elle serait aussi bien défendue contre les ennemis du dedans que contre ceux du dehors.
+
+--- En effet, Cyrus, répondit le reporter, mais nous avons déjà examiné tout ce massif granitique de la côte, et pas un trou, pas même une fente !
+
+--- Non, pas une ! ajouta Pencroff. Ah ! si nous avions pu creuser une demeure dans ce mur, à une certaine hauteur, de manière à la mettre hors d'atteinte, voilà qui eût été convenable ! Je vois cela d'ici, sur la façade qui regarde la mer, cinq ou six chambres\...
+
+--- Avec des fenêtres pour les éclairer ! dit Harbert en riant.
+
+--- Et un escalier pour y monter ! ajouta Nab.
+
+--- Vous riez, s'écria le marin, et pourquoi donc ? Qu'y a-t-il d'impossible à ce que je propose ? Est-ce que nous n'avons pas des pics et des pioches ? Est-ce que M. Cyrus ne saura pas fabriquer de la poudre pour faire sauter la mine ? N'est-il pas vrai, monsieur Cyrus, que vous ferez de la poudre le jour où il nous en faudra ? »
+
+Cyrus Smith avait écouté l'enthousiaste Pencroff, développant ses projets un peu fantaisistes. Attaquer cette masse de granit, même à coups de mine, c'était un travail herculéen, et il était vraiment fâcheux que la nature n'eût pas fait le plus dur de la besogne. Mais l'ingénieur ne répondit au marin qu'en proposant d'examiner plus attentivement la muraille, depuis l'embouchure de la rivière jusqu'à l'angle qui la terminait au nord.
+
+On sortit donc, et l'exploration fut faite, sur une étendue de deux milles environ, avec un soin extrême. Mais, en aucun endroit, la paroi, unie et droite, ne laissa voir une cavité quelconque. Les nids des pigeons de roche qui voletaient à sa cime n'étaient, en réalité, que des trous forés à la crête même et sur la lisière irrégulièrement découpée du granit.
+
+C'était une circonstance fâcheuse, et, quant à attaquer ce massif, soit avec le pic, soit avec la poudre, pour y pratiquer une excavation suffisante, il n'y fallait point songer. Le hasard avait fait que, sur toute cette partie du littoral, Pencroff avait découvert le seul abri provisoirement habitable, c'est-à-dire ces Cheminées qu'il s'agissait pourtant d'abandonner.
+
+L'exploration achevée, les colons se trouvaient alors à l'angle nord de la muraille, où elle se terminait par ces pentes allongées qui venaient mourir sur la grève. Depuis cet endroit jusqu'à son extrême limite à l'ouest, elle ne formait plus qu'une sorte de talus, épaisse agglomération de pierres, de terres et de sable, reliés par des plantes, des arbrisseaux et des herbes, incliné sous un angle de quarante-cinq degrés seulement. Çà et là, le granit perçait encore, et sortait par pointes aiguës de cette sorte de falaise. Des bouquets d'arbres s'étageaient sur ses pentes, et une herbe assez épaisse la tapissait. Mais l'effort végétatif n'allait pas plus loin, et une longue plaine de sables, qui commençait au pied du talus, s'étendait jusqu'au littoral.
+
+Cyrus Smith pensa, non sans raison, que ce devait être de ce côté que le trop-plein du lac s'épanchait sous forme de cascade. En effet, il fallait nécessairement que l'excès d'eau fourni par le Creek-Rouge se perdît en un point quelconque. Or, ce point, l'ingénieur ne l'avait encore trouvé sur aucune portion des rives déjà explorées, c'est-à-dire depuis l'embouchure du ruisseau, à l'ouest, jusqu'au plateau de Grande-Vue.
+
+L'ingénieur proposa donc à ses compagnons de gravir le talus qu'ils observaient alors, et de revenir aux Cheminées par les hauteurs, en explorant les rives septentrionales et orientales du lac.
+
+La proposition fut acceptée, et, en quelques minutes, Harbert et Nab étaient arrivés au plateau supérieur. Cyrus Smith, Gédéon Spilett et Pencroff les suivirent d'un pas plus posé.
+
+À deux cents pieds, à travers le feuillage, la belle nappe d'eau resplendissait sous les rayons solaires. Le paysage était charmant en cet endroit. Les arbres, aux tons jaunis, se groupaient merveilleusement pour le régal des yeux. Quelques vieux troncs énormes, abattus par l'âge, tranchaient, par leur écorce noirâtre, sur le tapis verdoyant qui recouvrait le sol. Là caquetait tout un monde de kakatoès bruyants, véritables prismes mobiles, qui sautaient d'une branche à l'autre. On eût dit que la lumière n'arrivait plus que décomposée à travers cette singulière ramure.
+
+Les colons, au lieu de gagner directement la rive nord du lac, contournèrent la lisière du plateau, de manière à rejoindre l'embouchure du creek sur sa rive gauche. C'était un détour d'un mille et demi au plus. La promenade était facile, car les arbres, largement espacés, laissaient entre eux un libre passage. On sentait bien que, sur cette limite, s'arrêtait la zone fertile, et la végétation s'y montrait moins vigoureuse que dans toute la partie comprise entre les cours du creek et de la Mercy.
+
+Cyrus Smith et ses compagnons ne marchaient pas sans une certaine circonspection sur ce sol nouveau pour eux. Arcs, flèches, bâtons emmanchés d'un fer aigu, c'étaient là leurs seules armes. Cependant, aucun fauve ne se montra, et il était probable que ces animaux fréquentaient plutôt les épaisses forêts du sud ; mais les colons eurent la désagréable surprise d'apercevoir Top s'arrêter devant un serpent de grande taille, qui mesurait quatorze à quinze pieds de longueur. Nab l'assomma d'un coup de bâton. Cyrus Smith examina ce reptile, et déclara qu'il n'était pas venimeux, car il appartenait à l'espèce des serpents-diamants dont les indigènes se nourrissent dans la Nouvelle-Galle du Sud. Mais il était possible qu'il en existât d'autres dont la morsure est mortelle, tels que ces vipères-sourdes, à queue fourchue, qui se redressent sous le pied, ou ces serpents ailés, munis de deux oreillettes qui leur permettent de s'élancer avec une rapidité extrême. Top, le premier moment de surprise passé, donnait la chasse aux reptiles avec un acharnement qui faisait craindre pour lui. Aussi son maître le rappelait-il constamment.
+
+L'embouchure du Creek-Rouge, à l'endroit où il se jetait dans le lac, fut bientôt atteinte. Les explorateurs reconnurent sur la rive opposée le point qu'ils avaient déjà visité en descendant du mont Franklin. Cyrus Smith constata que le débit d'eau du creek était assez considérable ; il était donc nécessaire qu'en un endroit quelconque, la nature eût offert un déversoir au trop-plein du lac. C'était ce déversoir qu'il s'agissait de découvrir, car, sans doute, il formait une chute dont il serait possible d'utiliser la puissance mécanique.
+
+Les colons, marchant à volonté, mais sans trop s'écarter les uns des autres, commencèrent donc à contourner la rive du lac, qui était très accore. Les eaux semblaient extrêmement poissonneuses, et Pencroff se promit bien de fabriquer quelques engins de pêche afin de les exploiter.
+
+Il fallut d'abord doubler la pointe aiguë du nord-est. On eût pu supposer que la décharge des eaux s'opérait en cet endroit, car l'extrémité du lac venait presque affleurer la lisière du plateau. Mais il n'en était rien, et les colons continuèrent d'explorer la rive, qui, après une légère courbure, redescendait parallèlement au littoral.
+
+De ce côté, la berge était moins boisée, mais quelques bouquets d'arbres, semés çà et là, ajoutaient au pittoresque du paysage. Le lac Grant apparaissait alors dans toute son étendue, et aucun souffle ne ridait la surface de ses eaux. Top, en battant les broussailles, fit lever des bandes d'oiseaux divers, que Gédéon Spilett et Harbert saluèrent de leurs flèches. Un de ces volatiles fut même adroitement atteint par le jeune garçon, et tomba au milieu d'herbes marécageuses. Top se précipita vers lui, et rapporta un bel oiseau nageur, couleur d'ardoise, à bec court, à plaque frontale très développée, aux doigts élargis par une bordure festonnée, aux ailes bordées d'un liséré blanc. C'était un « foulque », de la taille d'une grosse perdrix, appartenant à ce groupe des macrodactyles qui forme la transition entre l'ordre des échassiers et celui des palmipèdes. Triste gibier, en somme, et d'un goût qui devait laisser à désirer. Mais Top se montrerait sans doute moins difficile que ses maîtres, et il fut convenu que le foulque servirait à son souper.
+
+Les colons suivaient alors la rive orientale du lac, et ils ne devaient pas tarder à atteindre la portion déjà reconnue. L'ingénieur était fort surpris, car il ne voyait aucun indice d'écoulement du trop-plein des eaux. Le reporter et le marin causaient avec lui, et il ne leur dissimulait point son étonnement.
+
+En ce moment, Top, qui avait été fort calme jusqu'alors, donna des signes d'agitation. L'intelligent animal allait et venait sur la berge, s'arrêtait soudain, et regardait les eaux, une patte levée, comme s'il eût été en arrêt sur quelque gibier invisible ; puis, il aboyait avec fureur, en quêtant, pour ainsi dire, et se taisait subitement.
+
+Ni Cyrus Smith, ni ses compagnons n'avaient d'abord fait attention à ce manège de Top ; mais les aboiements du chien devinrent bientôt si fréquents, que l'ingénieur s'en préoccupa.
+
+« Qu'est-ce qu'il y a, Top ? » demanda-t-il.
+
+Le chien fit plusieurs bonds vers son maître, en laissant voir une inquiétude véritable, et il s'élança de nouveau vers la berge. Puis, tout à coup, il se précipita dans le lac.
+
+« Ici, Top ! cria Cyrus Smith, qui ne voulait pas laisser son chien s'aventurer sur ces eaux suspectes.
+
+--- Qu'est-ce qui se passe donc là-dessous ? demanda Pencroff en examinant la surface du lac.
+
+--- Top aura senti quelque amphibie, répondit Harbert.
+
+--- Un alligator, sans doute ? dit le reporter.
+
+--- Je ne le pense pas, répondit Cyrus Smith. Les alligators ne se rencontrent que dans les régions moins élevées en latitude. »
+
+Cependant, Top était revenu à l'appel de son maître, et avait regagné la berge ; mais il ne pouvait rester en repos ; il sautait au milieu des grandes herbes, et, son instinct le guidant, il semblait suivre quelque être invisible qui se serait glissé sous les eaux du lac, en en rasant les bords. Cependant, les eaux étaient calmes, et pas une ride n'en troublait la surface. Plusieurs fois, les colons s'arrêtèrent sur la berge, et ils observèrent avec attention. Rien n'apparut. Il y avait là quelque mystère.
+
+L'ingénieur était fort intrigué.
+
+« Poursuivons jusqu'au bout cette exploration », dit-il.
+
+Une demi-heure après, ils étaient tous arrivés à l'angle sud-est du lac et se retrouvaient sur le plateau même de Grande-Vue. À ce point, l'examen des rives du lac devait être considéré comme terminé, et, cependant, l'ingénieur n'avait pu découvrir par où et comment s'opérait la décharge des eaux.
+
+« Pourtant, ce déversoir existe, répétait-il, et puisqu'il n'est pas extérieur, il faut qu'il soit creusé à l'intérieur du massif granitique de la côte !
+
+--- Mais quelle importance attachez-vous à savoir cela, mon cher Cyrus ? demanda Gédéon Spilett.
+
+--- Une assez grande, répondit l'ingénieur, car si l'épanchement se fait à travers le massif, il est possible qu'il s'y trouve quelque cavité, qu'il eût été facile de rendre habitable après avoir détourné les eaux.
+
+--- Mais n'est-il pas possible, monsieur Cyrus, que les eaux s'écoulent par le fond même du lac, dit Harbert, et qu'elles aillent à la mer par un conduit souterrain ?
+
+--- Cela peut être, en effet, répondit l'ingénieur, et, si cela est, nous serons obligés de bâtir notre maison nous-mêmes, puisque la nature n'a pas fait les premiers frais de construction. »
+
+Les colons se disposaient donc à traverser le plateau pour regagner les Cheminées, car il était cinq heures du soir, quand Top donna de nouveaux signes d'agitation. Il aboyait avec rage, et, avant que son maître eût pu le retenir, il se précipita une seconde fois dans le lac.
+
+Tous coururent vers la berge. Le chien en était déjà à plus de vingt pieds, et Cyrus Smith le rappelait vivement, quand une tête énorme émergea de la surface des eaux, qui ne paraissaient pas être profondes en cet endroit.
+
+Harbert reconnut aussitôt l'espèce d'amphibie auquel appartenait cette tête conique à gros yeux, que décoraient des moustaches à longs poils soyeux.
+
+« Un lamantin ! » s'écria-t-il.
+
+Ce n'était pas un lamantin, mais un spécimen de cette espèce, comprise dans l'ordre des cétacés, qui porte le nom de « dugong », car ses narines étaient ouvertes à la partie supérieure de son museau.
+
+L'énorme animal s'était précipité sur le chien, qui voulut vainement l'éviter en revenant vers la berge. Son maître ne pouvait rien pour le sauver, et avant même qu'il fût venu à la pensée de Gédéon Spilett ou d'Harbert d'armer leurs arcs, Top, saisi par le dugong, disparaissait sous les eaux.
+
+Nab, son épieu ferré à la main, voulut se jeter au secours du chien, décidé à s'attaquer au formidable animal jusque dans son élément.
+
+« Non, Nab », dit l'ingénieur, en retenant son courageux serviteur.
+
+Cependant, une lutte se passait sous les eaux, lutte inexplicable, car, dans ces conditions, Top ne pouvait évidemment pas résister, lutte qui devait être terrible, on le voyait aux bouillonnements de la surface, lutte, enfin, qui ne pouvait se terminer que par la mort du chien ! Mais soudain, au milieu d'un cercle d'écume, on vit reparaître Top. Lancé en l'air par quelque force inconnue, il s'éleva à dix pieds au-dessus de la surface du lac, retomba au milieu des eaux profondément troublées, et eût bientôt regagné la berge sans blessures graves, miraculeusement sauvé.
+
+Cyrus Smith et ses compagnons regardaient sans comprendre. Circonstance non moins inexplicable encore ! On eût dit que la lutte continuait encore sous les eaux. Sans doute le dugong, attaqué par quelque puissant animal, après avoir lâché le chien, se battait pour son propre compte.
+
+Mais cela ne dura pas longtemps. Les eaux se rougirent de sang, et le corps du dugong, émergeant d'une nappe écarlate qui se propagea largement, vint bientôt s'échouer sur une petite grève à l'angle sud du lac.
+
+Les colons coururent vers cet endroit. Le dugong était mort. C'était un énorme animal, long de quinze à seize pieds, qui devait peser de trois à quatre mille livres. À son cou s'ouvrait une blessure qui semblait avoir été faite avec une lame tranchante.
+
+Quel était donc l'amphibie qui avait pu, par ce coup terrible, détruire le formidable dugong ? Personne n'eût pu le dire, et, assez préoccupés de cet incident, Cyrus Smith et ses compagnons rentrèrent aux Cheminées.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729918 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728990 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728062 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727475 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726547 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724231 .pcalibre .pcalibre4 .pcalibre3} *17* {#chapitre-17 .calibre171 .sigil_not_in_toc}
+
+Visite au lac. -- Le courant indicateur. -- Les projets de Cyrus Smith. -- La graisse de dugong. -- Emploi des pyrites schisteuses. -- Le sulfate de fer. -- Comment se fait la glycérine. -- Le savon. -- Le salpêtre. -- Acide sulfurique. -- Acide azotique. -- La nouvelle chute.
+
+
+Le lendemain, 7 mai, Cyrus Smith et Gédéon Spilett, laissant Nab préparer le déjeuner, gravirent le plateau de Grande-Vue, tandis que Harbert et Pencroff remontaient la rivière, afin de renouveler la provision de bois.
+
+L'ingénieur et le reporter arrivèrent bientôt à cette petite grève, située à la pointe sud du lac, et sur laquelle l'amphibie était resté échoué. Déjà des bandes d'oiseaux s'étaient abattus sur cette masse charnue, et il fallut les chasser à coups de pierres, car Cyrus Smith désirait conserver la graisse du dugong et l'utiliser pour les besoins de la colonie. Quant à la chair de l'animal, elle ne pouvait manquer de fournir une nourriture excellente, puisque, dans certaines régions de la Malaisie, elle est spécialement réservée à la table des princes indigènes. Mais cela, c'était l'affaire de Nab.
+
+En ce moment, Cyrus Smith avait en tête d'autres pensées. L'incident de la veille ne s'était point effacé de son esprit et ne laissait pas de le préoccuper. Il aurait voulu percer le mystère de ce combat sous-marin, et savoir quel congénère des mastodontes ou autres monstres marins avait fait au dugong une si étrange blessure.
+
+Il était donc là, sur le bord du lac, regardant, observant, mais rien n'apparaissait sous les eaux tranquilles, qui étincelaient aux premiers rayons du soleil.
+
+Sur cette petite grève qui supportait le corps du dugong, les eaux étaient peu profondes ; mais, à partir de ce point, le fond du lac s'abaissait peu à peu, et il était probable qu'au centre, la profondeur devait être considérable. Le lac pouvait être considéré comme une large vasque, qui avait été remplie par les eaux du Creek-Rouge.
+
+« Eh bien, Cyrus, demanda le reporter, il me semble que ces eaux n'offrent rien de suspect ?
+
+--- Non, mon cher Spilett, répondit l'ingénieur, et je ne sais vraiment comment expliquer l'incident d'hier !
+
+--- J'avoue, reprit Gédéon Spilett, que la blessure faite à cet amphibie est au moins étrange, et je ne saurais expliquer davantage comment il a pu se faire que Top ait été si vigoureusement rejeté hors des eaux ? On croirait vraiment que c'est un bras puissant qui l'a lancé ainsi, et que ce même bras, armé d'un poignard, a ensuite donné la mort au dugong !
+
+--- Oui, répondit l'ingénieur, qui était devenu pensif. Il y a là quelque chose que je ne puis comprendre. Mais comprenez-vous davantage, mon cher Spilett, de quelle manière j'ai été sauvé moi-même, comment j'ai pu être arraché des flots et transporté dans les dunes ? Non, n'est-il pas vrai ? Aussi je pressens là quelque mystère que nous découvrirons sans doute un jour. Observons donc, mais n'insistons pas devant nos compagnons sur ces singuliers incidents. Gardons nos remarques pour nous et continuons notre besogne. »
+
+On le sait, l'ingénieur n'avait encore pu découvrir par où s'échappait le trop-plein du lac, mais comme il n'avait vu nul indice qu'il débordât jamais, il fallait nécessairement qu'un déversoir existât quelque part. Or, précisément, Cyrus Smith fut assez surpris de distinguer un courant assez prononcé qui se faisait sentir en cet endroit. Il jeta quelques petits morceaux de bois, et vit qu'ils se dirigeaient vers l'angle sud. Il suivit ce courant, en marchant sur la berge, et il arriva à la pointe méridionale du lac.
+
+Là se produisait une sorte de dépression des eaux, comme si elles se fussent brusquement perdues dans quelque fissure du sol.
+
+Cyrus Smith écouta, en mettant son oreille au niveau du lac, et il entendit très distinctement le bruit d'une chute souterraine.
+
+« C'est là, dit-il en se relevant, là que s'opère la décharge des eaux, là, sans doute, que par un conduit creusé dans le massif de granit elles s'en vont rejoindre la mer, à travers quelques cavités que nous saurions utiliser à notre profit ! Eh bien ! je le saurai ! »
+
+L'ingénieur coupa une longue branche, il la dépouilla de ses feuilles, et, en la plongeant à l'angle des deux rives, il reconnut qu'il existait un large trou ouvert à un pied seulement au-dessous de la surface des eaux. Ce trou, c'était l'orifice du déversoir vainement cherché jusqu'alors, et la force du courant y était telle, que la branche fut arrachée des mains de l'ingénieur et disparut.
+
+« Il n'y a plus à douter maintenant, répéta Cyrus Smith. Là est l'orifice du déversoir, et cet orifice, je le mettrai à découvert.
+
+--- Comment ? demanda Gédéon Spilett.
+
+--- En abaissant de trois pieds le niveau des eaux du lac.
+
+--- Et comment abaisser leur niveau ?
+
+--- En leur ouvrant une autre issue plus vaste que celle-ci.
+
+--- En quel endroit, Cyrus ?
+
+--- Sur la partie de la rive qui se rapproche le plus près de la côte.
+
+--- Mais c'est une rive de granit ! fit observer le reporter.
+
+--- Eh bien, répondit Cyrus Smith, je le ferai sauter, ce granit, et les eaux, en s'échappant, baisseront de manière à découvrir cet orifice\...
+
+--- Et formeront une chute en tombant sur la grève, ajouta le reporter.
+
+--- Une chute que nous utiliserons ! répondit Cyrus. Venez, venez ! »
+
+L'ingénieur entraîna son compagnon, dont la confiance en Cyrus Smith était telle qu'il ne doutait pas que l'entreprise ne réussît. Et pourtant, cette rive de granit, comment l'ouvrir, comment, sans poudre et avec des instruments imparfaits, désagréger ces roches ? N'était-ce pas un travail au-dessus de ses forces, auquel l'ingénieur allait s'acharner ?
+
+Quand Cyrus Smith et le reporter rentrèrent aux Cheminées, ils y trouvèrent Harbert et Pencroff occupés à décharger leur train de bois.
+
+« Les bûcherons vont avoir fini, monsieur Cyrus, dit le marin en riant, et quand vous aurez besoin de maçons\...
+
+--- De maçons, non, mais de chimistes, répondit l'ingénieur.
+
+--- Oui, ajouta le reporter, nous allons faire sauter l'île\...
+
+--- Sauter l'île ! s'écria Pencroff.
+
+--- En partie, du moins ! répliqua Gédéon Spilett.
+
+--- Écoutez-moi, mes amis », dit l'ingénieur.
+
+Et il leur fit connaître le résultat de ses observations. Suivant lui, une cavité plus ou moins considérable devait exister dans la masse de granit qui supportait le plateau de Grande-Vue, et il prétendait pénétrer jusqu'à elle. Pour ce faire, il fallait tout d'abord dégager l'ouverture par laquelle se précipitaient les eaux, et, par conséquent, abaisser leur niveau en leur procurant une plus large issue. De là, nécessité de fabriquer une substance explosive qui pût pratiquer une forte saignée en un autre point de la rive. C'est ce qu'allait tenter Cyrus Smith au moyen des minéraux que la nature mettait à sa disposition.
+
+Inutile de dire avec quel enthousiasme tous, et plus particulièrement Pencroff, accueillirent ce projet. Employer les grands moyens, éventrer ce granit, créer une cascade, cela allait au marin ! Et il serait aussi bien chimiste que maçon ou bottier, puisque l'ingénieur avait besoin de chimistes. Il serait tout ce qu'on voudrait, « même professeur de danse et de maintien », dit-il à Nab, si cela était jamais nécessaire.
+
+Nab et Pencroff furent tout d'abord chargés d'extraire la graisse du dugong, et d'en conserver la chair, qui était destinée à l'alimentation. Ils partirent aussitôt, sans même demander plus d'explication. La confiance qu'ils avaient en l'ingénieur était absolue.
+
+Quelques instants après eux, Cyrus Smith, Harbert et Gédéon Spilett, traînant la claie et remontant la rivière, se dirigeaient vers le gisement de houille où abondaient ces pyrites schisteuses qui se rencontrent, en effet, dans les terrains de transition les plus récents, et dont Cyrus Smith avait déjà rapporté un échantillon.
+
+Toute la journée fut employée à charrier une certaine quantité de ces pyrites aux Cheminées. Le soir, il y en avait plusieurs tonnes.
+
+Le lendemain, 8 mai, l'ingénieur commença ses manipulations. Ces pyrites schisteuses étant composées principalement de charbon, de silice, d'alumine et de sulfure de fer -- celui-ci en excès --, il s'agissait d'isoler le sulfure de fer et de le transformer en sulfate le plus rapidement possible. Le sulfate obtenu, on en extrairait l'acide sulfurique.
+
+C'était en effet le but à atteindre. L'acide sulfurique est un des agents les plus employés, et l'importance industrielle d'une nation peut se mesurer à la consommation qui en est faite. Cet acide serait plus tard d'une utilité extrême aux colons pour la fabrication des bougies, le tannage des peaux, etc., mais en ce moment, l'ingénieur le réservait à un autre emploi.
+
+Cyrus Smith choisit, derrière les Cheminées, un emplacement dont le sol fût soigneusement égalisé. Sur ce sol, il plaça un tas de branchages et de bois haché, sur lequel furent placés des morceaux de schistes pyriteux, arc-boutés les uns contre les autres ; puis, le tout fut recouvert d'une mince couche de pyrites, préalablement réduites à la grosseur d'une noix.
+
+Ceci fait, on mit le feu au bois, dont la chaleur se communiqua aux schistes, lesquels s'enflammèrent, puisqu'ils contenaient du charbon et du soufre. Alors, de nouvelles couches de pyrites concassées furent disposées de manière à former un énorme tas, qui fut extérieurement tapissé de terre et d'herbes, après qu'on y eut ménagé quelques évents, comme s'il se fût agi de carboniser une meule de bois pour faire du charbon.
+
+Puis, on laissa la transformation s'accomplir, et il ne fallait pas moins de dix à douze jours pour que le sulfure de fer fût changé en sulfate de fer et l'alumine en sulfate d'alumine, deux substances également solubles, les autres, silice, charbon brûlé et cendres, ne l'étant pas.
+
+Pendant que s'accomplissait ce travail chimique, Cyrus Smith fit procéder à d'autres opérations. On y mettait plus que du zèle. C'était de l'acharnement.
+
+Nab et Pencroff avaient enlevé la graisse du dugong, qui avait été recueillie dans de grandes jarres de terre. Cette graisse, il s'agissait d'en isoler un de ses éléments, la glycérine, en la saponifiant. Or, pour obtenir ce résultat, il suffisait de la traiter par la soude ou la chaux. En effet, l'une ou l'autre de ces substances, après avoir attaqué la graisse, formerait un savon en isolant la glycérine, et c'était cette glycérine que l'ingénieur voulait précisément obtenir. La chaux ne lui manquait pas, on le sait ; seulement le traitement par la chaux ne devait donner que des savons calcaires, insolubles et par conséquent inutiles, tandis que le traitement par la soude fournirait, au contraire, un savon soluble, qui trouverait son emploi dans les nettoyages domestiques. Or, en homme pratique, Cyrus Smith devait plutôt chercher à obtenir de la soude. Était-ce difficile ? Non, car les plantes marines abondaient sur le rivage, salicornes, ficoïdes, et toutes ces fucacées qui forment les varechs et les goémons. On recueillit donc une grande quantité de ces plantes, on les fit d'abord sécher, puis ensuite brûler dans des fosses en plein air. La combustion de ces plantes fut entretenue pendant plusieurs jours, de manière que la chaleur s'élevât au point d'en fondre les cendres, et le résultat de l'incinération fut une masse compacte, grisâtre, qui est depuis longtemps connue sous le nom de « soude naturelle ».
+
+Ce résultat obtenu, l'ingénieur traita la graisse par la soude, ce qui donna, d'une part, un savon soluble, et, de l'autre, cette substance neutre, la glycérine.
+
+Mais ce n'était pas tout. Il fallait encore à Cyrus Smith, en vue de sa préparation future, une autre substance, l'azotate de potasse, qui est plus connu sous le nom de sel de nitrite ou de salpêtre.
+
+
+Ces divers travaux durèrent une huitaine de jours. Ils étaient donc achevés, avant que la transformation du sulfure en sulfate de fer eût été accomplie. Pendant les jours qui suivirent, les colons eurent le temps de fabriquer de la poterie réfractaire en argile plastique et de construire un fourneau de briques d'une disposition particulière qui devait servir à la distillation du sulfate de fer, lorsque celui-ci serait obtenu. Tout cela fut achevé vers le 18 mai, à peu près au moment où la transformation chimique se terminait. Gédéon Spilett, Harbert, Nab et Pencroff, habilement guidés par l'ingénieur, étaient devenus les plus adroits ouvriers du monde. La nécessité est, d'ailleurs, de tous les maîtres, celui qu'on écoute le plus et qui enseigne le mieux.
+
+Lorsque le tas de pyrites eut été entièrement réduit par le feu, le résultat de l'opération, consistant en sulfate de fer, sulfate d'alumine, silice, résidu de charbon et cendres, fut déposé dans un bassin rempli d'eau. On agita ce mélange, on le laissa reposer, puis on le décanta, et on obtint un liquide clair, contenant en dissolution du sulfate de fer et du sulfate d'alumine, les autres matières étant restées solides, puisqu'elles étaient insolubles. Enfin, ce liquide s'étant vaporisé en partie, des cristaux de sulfate de fer se déposèrent, et les eaux-mères, c'est-à-dire le liquide non vaporisé, qui contenait du sulfate d'alumine, furent abandonnées.
+
+Cyrus Smith avait donc à sa disposition une assez grande quantité de ces cristaux de sulfate de fer, dont il s'agissait d'extraire l'acide sulfurique.
+
+Dans la pratique industrielle, c'est une coûteuse installation que celle qu'exige la fabrication de l'acide sulfurique. Il faut, en effet, des usines considérables, un outillage spécial, des appareils de platine, des chambres de plomb, inattaquables à l'acide, et dans lesquelles s'opère la transformation, etc. L'ingénieur n'avait point cet outillage à sa disposition, mais il savait qu'en Bohême particulièrement, on fabrique l'acide sulfurique par des moyens plus simples, qui ont même l'avantage de le produire à un degré supérieur de concentration. C'est ainsi que se fait l'acide connu sous le nom d'acide de Nordhausen.
+
+Pour obtenir l'acide sulfurique, Cyrus Smith n'avait plus qu'une seule opération à faire : calciner en vase clos les cristaux de sulfate de fer, de manière que l'acide sulfurique se distillât en vapeurs, lesquelles vapeurs produiraient ensuite l'acide par condensation.
+
+C'est à cette manipulation que servirent les poteries réfractaires, dans lesquelles furent placés les cristaux, et le four, dont la chaleur devait distiller l'acide sulfurique. L'opération fut parfaitement conduite, et le 20 mai, douze jours après avoir commencé, l'ingénieur était possesseur de l'agent qu'il comptait utiliser plus tard de tant de façons différentes.
+
+Or, pourquoi voulait-il donc avoir cet agent ? Tout simplement pour produire l'acide azotique, et cela fut aisé, puisque le salpêtre, attaqué par l'acide sulfurique, lui donna précisément cet acide par distillation.
+
+
+Cependant, l'ingénieur touchait à son but, et une dernière opération lui procura la substance qui avait exigé tant de manipulations.
+
+Après avoir pris de l'acide azotique, il le mit en présence de la glycérine, qui avait été préalablement concentrée par évaporation au bain-marie, et il obtint, même sans employer de mélange réfrigérant, plusieurs pintes d'un liquide huileux et jaunâtre.
+
+Cette dernière opération, Cyrus Smith l'avait faite seul, à l'écart, loin des Cheminées, car elle présentait des dangers d'explosion, et, quand il rapporta un flacon de ce liquide à ses amis, il se contenta de leur dire :
+
+« Voilà de la nitro-glycérine ! »
+
+C'était, en effet, ce terrible produit, dont la puissance explosible est peut-être décuple de celle de la poudre ordinaire, et qui a déjà causé tant d'accidents ! Toutefois, depuis qu'on a trouvé le moyen de le transformer en dynamite, c'est-à-dire de le mélanger avec une substance solide, argile ou sucre, assez poreuse pour le retenir, le dangereux liquide a pu être utilisé avec plus de sécurité. Mais la dynamite n'était pas encore connue à l'époque où les colons opéraient dans l'île Lincoln.
+
+« Et c'est cette liqueur-là qui va faire sauter nos rochers ? dit Pencroff d'un air assez incrédule.
+
+--- Oui, mon ami, répondit l'ingénieur, et cette nitro-glycérine produira d'autant plus d'effet, que ce granit est extrêmement dur et qu'il opposera une résistance plus grande à l'éclatement.
+
+--- Et quand verrons-nous cela, monsieur Cyrus ?
+
+--- Demain, dès que nous aurons creusé un trou de mine », répondit l'ingénieur.
+
+Le lendemain -- 21 mai --, dès l'aube, les mineurs se rendirent à une pointe qui formait la rive est du lac Grant, et à cinq cents pas seulement de la côte. En cet endroit, le plateau était en contre-bas des eaux, qui n'étaient retenues que par leur cadre de granit. Il était donc évident que si l'on brisait ce cadre, les eaux s'échapperaient par cette issue, et formeraient un ruisseau qui, après avoir coulé à la surface inclinée du plateau, irait se précipiter sur la grève. Par suite, il y aurait abaissement général du niveau du lac, et mise à découvert de l'orifice du déversoir -- ce qui était le but final.
+
+C'était donc le cadre qu'il s'agissait de briser. Sous la direction de l'ingénieur, Pencroff, armé d'un pic qu'il maniait adroitement et vigoureusement, attaqua le granit sur le revêtement extérieur. Le trou qu'il s'agissait de percer prenait naissance sur une arête horizontale de la rive, et il devait s'enfoncer obliquement, de manière à rencontrer un niveau sensiblement inférieur à celui des eaux du lac. De cette façon, la force explosive, en écartant les roches, permettrait aux eaux de s'épancher largement au-dehors et, par suite, de s'abaisser suffisamment.
+
+Le travail fut long, car l'ingénieur, voulant produire un effet formidable, ne comptait pas consacrer moins de dix litres de nitro-glycérine à l'opération. Mais Pencroff, relayé par Nab, fit si bien que, vers quatre heures du soir, le trou de mine était achevé.
+
+Restait la question d'inflammation de la substance explosive. Ordinairement, la nitro-glycérine s'enflamme au moyen d'amorces de fulminate qui, en éclatant, déterminent l'explosion. Il faut, en effet, un choc pour provoquer l'explosion, et, allumée simplement, cette substance brûlerait sans éclater.
+
+Cyrus Smith aurait certainement pu fabriquer une amorce. À défaut de fulminate, il pouvait facilement obtenir une substance analogue au coton-poudre, puisqu'il avait de l'acide azotique à sa disposition. Cette substance, pressée dans une cartouche, et introduite dans la nitro-glycérine, aurait éclaté au moyen d'une mèche et déterminé l'explosion.
+
+Mais Cyrus Smith savait que la nitro-glycérine a la propriété de détonner au choc. Il résolut donc d'utiliser cette propriété, quitte à employer un autre moyen, si celui-là ne réussissait pas.
+
+En effet, le choc d'un marteau sur quelques gouttes de nitro-glycérine, répandues à la surface d'une pierre dure, suffit à provoquer l'explosion. Mais l'opérateur ne pouvait être là, à donner le coup de marteau, sans être victime de l'opération. Cyrus Smith imagina donc de suspendre à un montant, au-dessus du trou de mine, et au moyen d'une fibre végétale, une masse de fer pesant plusieurs livres. Une autre longue fibre, préalablement soufrée, était attachée au milieu de la première par une de ses extrémités, tandis que l'autre extrémité traînait sur le sol jusqu'à une distance de plusieurs pieds du trou de mine. Le feu étant mis à cette seconde fibre, elle brûlerait jusqu'à ce qu'elle eût atteint la première. Celle-ci, prenant feu à son tour, se romprait, et la masse de fer serait précipitée sur la nitro-glycérine.
+
+Cet appareil fut donc installé ; puis l'ingénieur, après avoir fait éloigner ses compagnons, remplit le trou de mine de manière que la nitro-glycérine vînt en affleurer l'ouverture, et il en jeta quelques gouttes à la surface de la roche, au-dessous de la masse de fer déjà suspendue.
+
+Ceci fait, Cyrus Smith prit l'extrémité de la fibre soufrée, il l'alluma, et, quittant la place, il revint retrouver ses compagnons aux Cheminées.
+
+La fibre devait brûler pendant vingt-cinq minutes, et, en effet, vingt-cinq minutes après, une explosion, dont on ne saurait donner l'idée, retentit. Il sembla que toute l'île tremblait sur sa base. Une gerbe de pierres se projeta dans les airs comme si elle eût été vomie par un volcan. La secousse produite par l'air déplacé fut telle, que les roches des Cheminées oscillèrent. Les colons, bien qu'ils fussent à plus de deux milles de la mine, furent renversés sur le sol.
+
+Ils se relevèrent, ils remontèrent sur le plateau, et ils coururent vers l'endroit où la berge du lac devait avoir été éventrée par l'explosion\...
+
+Un triple hurrah s'échappa de leurs poitrines ! Le cadre de granit était fendu sur une large place ! Un cours rapide d'eau s'en échappait, courait en écumant à travers le plateau, en atteignait la crête, et se précipitait d'une hauteur de trois cents pieds sur la grève !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729919 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728991 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728063 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727476 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726548 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724232 .pcalibre .pcalibre4 .pcalibre3} *18* {#chapitre-18 .calibre171 .sigil_not_in_toc}
+
+Pencroff ne doute plus de rien. -- L'ancien déversoir du lac. -- Une descente souterraine. -- La route à travers le granit. -- Top a disparu. -- La caverne centrale. -- Le puits inférieur. -- Mystère. -- À coups de pic. -- Le retour.
+
+
+Le projet de Cyrus Smith avait réussi ; mais, suivant son habitude, sans témoigner aucune satisfaction, les lèvres serrées, le regard fixe, il restait immobile. Harbert était enthousiasmé ; Nab bondissait de joie ; Pencroff balançait sa grosse tête et murmurait ces mots :
+
+« Allons, il va bien notre ingénieur ! »
+
+En effet, la nitro-glycérine avait puissamment agi. La saignée, faite au lac, était si importante, que le volume des eaux qui s'échappaient alors par ce nouveau déversoir était au moins triple de celui qui passait auparavant par l'ancien. Il devait donc en résulter que, peu de temps après l'opération, le niveau du lac aurait baissé de deux pieds, au moins.
+
+Les colons revinrent aux Cheminées, afin d'y prendre des pics, des épieux ferrés, des cordes de fibres, un briquet et de l'amadou ; puis, ils retournèrent au plateau. Top les accompagnait.
+
+Chemin faisant, le marin ne put s'empêcher de dire à l'ingénieur :
+
+« Mais savez-vous bien, monsieur Cyrus, qu'au moyen de cette charmante liqueur que vous avez fabriquée, on ferait sauter notre île tout entière ?
+
+--- Sans aucun doute, l'île, les continents, et la terre elle-même, répondit Cyrus Smith. Ce n'est qu'une question de quantité.
+
+--- Ne pourriez-vous donc employer cette nitro-glycérine au chargement des armes à feu ? demanda le marin.
+
+--- Non, Pencroff, car c'est une substance trop brisante. Mais il serait aisé de fabriquer de la poudre-coton, ou même de la poudre ordinaire, puisque nous avons l'acide azotique, le salpêtre, le soufre et le charbon. Malheureusement, ce sont les armes que nous n'avons pas.
+
+--- Oh ! monsieur Cyrus, répondit le marin, avec un peu de bonne volonté !\... »
+
+Décidément, Pencroff avait rayé le mot « impossible » du dictionnaire de l'île Lincoln.
+
+Les colons, arrivés au plateau de Grande-Vue, se dirigèrent immédiatement vers la pointe du lac, près de laquelle s'ouvrait l'orifice de l'ancien déversoir, qui, maintenant, devait être à découvert. Le déversoir serait donc devenu praticable, puisque les eaux ne s'y précipiteraient plus, et il serait facile sans doute d'en reconnaître la disposition intérieure.
+
+En quelques instants, les colons avaient atteint l'angle inférieur du lac, et un coup d'œil leur suffit pour constater que le résultat avait été obtenu.
+
+En effet, dans la paroi granitique du lac, et maintenant au-dessus du niveau des eaux, apparaissait l'orifice tant cherché. Un étroit épaulement, laissé à nu par le retrait des eaux, permettait d'y arriver. Cet orifice mesurait vingt pieds de largeur environ, mais il n'en avait que deux de hauteur. C'était comme une bouche d'égout à la bordure d'un trottoir. Cet orifice n'aurait donc pu livrer un passage facile aux colons ; mais Nab et Pencroff prirent leur pic, et, en moins d'une heure, ils lui eurent donné une hauteur suffisante.
+
+L'ingénieur s'approcha alors et reconnut que les parois du déversoir, dans sa partie supérieure, n'accusaient pas une pente de plus de trente à trente-cinq degrés. Elles étaient donc praticables, et, pourvu que leur déclivité ne s'accrût pas, il serait facile de les descendre jusqu'au niveau même de la mer. Si donc, ce qui était fort probable, quelque vaste cavité existait à l'intérieur du massif granitique, on trouverait peut-être moyen de l'utiliser.
+
+« Eh bien, monsieur Cyrus, qu'est-ce qui nous arrête ? demanda le marin, impatient de s'aventurer dans l'étroit couloir ? Vous voyez que Top nous a précédés !
+
+--- Bien, répondit l'ingénieur. Mais il faut y voir clair. -- Nab, va couper quelques branches résineuses. »
+
+Nab et Harbert coururent vers les rives du lac, ombragées de pins et autres arbres verts, et ils revinrent bientôt avec des branches qu'ils disposèrent en forme de torches. Ces torches furent allumées au feu du briquet, et, Cyrus Smith en tête, les colons s'engagèrent dans le sombre boyau que le trop-plein des eaux emplissait naguère.
+
+Contrairement à ce qu'on eût pu supposer, le diamètre de ce boyau allait en s'élargissant, de telle sorte que les explorateurs, presque aussitôt, purent se tenir droit en descendant. Les parois de granit, usées par les eaux depuis un temps infini, étaient glissantes, et il fallait se garder des chutes. Aussi, les colons s'étaient-ils liés les uns aux autres au moyen d'une corde, ainsi que font les ascensionnistes dans les montagnes. Heureusement, quelques saillies du granit, formant de véritables marches, rendaient la descente moins périlleuse. Des gouttelettes, encore suspendues aux rocs, s'irisaient çà et là sous le feu des torches, et on eût pu croire que les parois étaient revêtues d'innombrables stalactites. L'ingénieur observa ce granit noir. Il n'y vit pas une strate, pas une faille. La masse était compacte et d'un grain extrêmement serré. Ce boyau datait donc de l'origine même de l'île. Ce n'étaient point les eaux qui l'avaient creusé peu à peu. Pluton, et non pas Neptune, l'avait foré de sa propre main, et l'on pouvait distinguer sur la muraille les traces d'un travail éruptif que le lavage des eaux n'avait pu totalement effacer.
+
+Les colons ne descendaient que fort lentement. Ils n'étaient pas sans éprouver une certaine émotion, à s'aventurer ainsi dans les profondeurs de ce massif, que des êtres humains visitaient évidemment pour la première fois. Ils ne parlaient pas, mais ils réfléchissaient, et cette réflexion dut venir à plus d'un, que quelque poulpe ou autre gigantesque céphalopode pouvait occuper les cavités intérieures, qui se trouvaient en communication avec la mer. Il fallait donc ne s'aventurer qu'avec une certaine prudence.
+
+Du reste, Top tenait la tête de la petite troupe, et l'on pouvait s'en rapporter à la sagacité du chien, qui ne manquerait point de donner l'alarme, le cas échéant.
+
+Après avoir descendu une centaine de pieds, en suivant une route assez sinueuse, Cyrus Smith, qui marchait en avant, s'arrêta, et ses compagnons le rejoignirent. L'endroit où ils firent halte était évidé, de manière à former une caverne de médiocre dimension. Des gouttes d'eau tombaient de sa voûte, mais elles ne provenaient pas d'un suintement à travers le massif. C'étaient simplement les dernières traces laissées par le torrent qui avait si longtemps grondé dans cette cavité, et l'air, légèrement humide, n'émettait aucune émanation méphitique.
+
+« Eh bien, mon cher Cyrus ? dit alors Gédéon Spilett. Voici une retraite bien ignorée, bien cachée dans ces profondeurs, mais, en somme, elle est inhabitable.
+
+--- Pourquoi inhabitable ? demanda le marin.
+
+--- Parce qu'elle est trop petite et trop obscure.
+
+--- Ne pouvons-nous l'agrandir, la creuser, y pratiquer des ouvertures pour le jour et l'air ? répondit Pencroff, qui ne doutait plus de rien.
+
+--- Continuons, répondit Cyrus Smith, continuons notre exploration. Peut-être, plus bas, la nature nous aura-t-elle épargné ce travail.
+
+--- Nous ne sommes encore qu'au tiers de la hauteur, fit observer Harbert.
+
+--- Au tiers environ, répondit Cyrus Smith, car nous avons descendu une centaine de pieds depuis l'orifice, et il n'est pas impossible qu'à cent pieds plus bas\...
+
+--- Où est donc Top ?\... » demanda Nab en interrompant son maître.
+
+On chercha dans la caverne. Le chien n'y était pas.
+
+« Il aura probablement continué sa route, dit Pencroff.
+
+--- Rejoignons-le », répondit Cyrus Smith.
+
+La descente fut reprise. L'ingénieur observait avec soin les déviations que le déversoir subissait, et, malgré tant de détours, il se rendait assez facilement compte de sa direction générale, qui allait vers la mer.
+
+Les colons s'étaient encore abaissés d'une cinquantaine de pieds suivant la perpendiculaire, quand leur attention fut attirée par des sons éloignés qui venaient des profondeurs du massif. Ils s'arrêtèrent et écoutèrent. Ces sons, portés à travers le couloir, comme la voix à travers un tuyau acoustique, arrivaient nettement à l'oreille.
+
+« Ce sont les aboiements de Top ! s'écria Harbert.
+
+--- Oui, répondit Pencroff, et notre brave chien aboie même avec fureur !
+
+--- Nous avons nos épieux ferrés, dit Cyrus Smith. Tenons-nous sur nos gardes, et en avant !
+
+--- Cela est de plus en plus intéressant », murmura Gédéon Spilett à l'oreille du marin, qui fit un signe affirmatif.
+
+Cyrus Smith et ses compagnons se précipitèrent pour se porter au secours du chien. Les aboiements de Top devenaient de plus en plus perceptibles. On sentait dans sa voix saccadée une rage étrange. Était-il donc aux prises avec quelque animal dont il avait troublé la retraite ? On peut dire que, sans songer au danger auquel ils s'exposaient, les colons se sentaient maintenant pris d'une irrésistible curiosité. Ils ne descendaient plus le couloir, ils se laissaient pour ainsi dire glisser sur sa paroi, et, en quelques minutes, soixante pieds plus bas, ils eurent rejoint Top.
+
+Là, le couloir aboutissait à une vaste et magnifique caverne. Là, Top, allant et venant, aboyait avec fureur. Pencroff et Nab, secouant leurs torches, jetèrent de grands éclats de lumière à toutes les aspérités du granit, et, en même temps, Cyrus Smith, Gédéon Spilett, Harbert, l'épieu dressé, se tinrent prêts à tout événement.
+
+L'énorme caverne était vide. Les colons la parcoururent en tous sens. Il n'y avait rien, pas un animal, pas un être vivant ! Et, cependant, Top continuait d'aboyer. Ni les caresses, ni les menaces ne purent le faire taire.
+
+« Il doit y avoir quelque part une issue par laquelle les eaux du lac s'en allaient à la mer, dit l'ingénieur.
+
+--- En effet, répondit Pencroff, et prenons garde de tomber dans un trou.
+
+--- Va, Top, va ! » cria Cyrus Smith.
+
+Le chien, excité par les paroles de son maître, courut vers l'extrémité de la caverne, et, là, ses aboiements redoublèrent.
+
+On le suivit, et, à la lumière des torches, apparut l'orifice d'un véritable puits qui s'ouvrait dans le granit. C'était bien par là que s'opérait la sortie des eaux autrefois engagées dans le massif, et, cette fois, ce n'était plus un couloir oblique et praticable, mais un puits perpendiculaire, dans lequel il eût été impossible de s'aventurer.
+
+Les torches furent penchées au-dessus de l'orifice. On ne vit rien. Cyrus Smith détacha une branche enflammée et la jeta dans cet abîme. La résine éclatante, dont le pouvoir éclairant s'accrut encore par la rapidité de sa chute, illumina l'intérieur du puits, mais rien n'apparut encore. Puis, la flamme s'éteignit avec un léger frémissement indiquant qu'elle avait atteint la couche d'eau, c'est-à-dire le niveau de la mer.
+
+L'ingénieur, calculant le temps employé à la chute, put en estimer la profondeur du puits, qui se trouva être de quatre-vingt-dix pieds environ.
+
+Le sol de la caverne était donc situé à quatre-vingt-dix pieds au-dessus du niveau de la mer.
+
+« Voici notre demeure, dit Cyrus Smith.
+
+--- Mais elle était occupée par un être quelconque, répondit Gédéon Spilett, qui ne trouvait pas sa curiosité satisfaite.
+
+--- Eh bien, l'être quelconque, amphibie ou autre, s'est enfui par cette issue, répondit l'ingénieur, et il nous a cédé la place.
+
+--- N'importe, ajouta le marin, j'aurais bien voulu être Top, il y a un quart d'heure, car enfin ce n'est pas sans raison qu'il a aboyé ! »
+
+Cyrus Smith regardait son chien, et celui de ses compagnons qui se fût approché de lui l'eût entendu murmurer ces paroles :
+
+« Oui, je crois bien que Top en sait plus long que nous sur bien des choses ! »
+
+Cependant, les désirs des colons se trouvaient en grande partie réalisés. Le hasard, aidé par la merveilleuse sagacité de leur chef, les avait heureusement servis. Ils avaient là, à leur disposition, une vaste caverne, dont ils ne pouvaient encore estimer la capacité à la lueur insuffisante des torches, mais qu'il serait certainement aisé de diviser en chambres, au moyen de cloisons de briques, et d'approprier, sinon comme une maison, du moins comme un spacieux appartement. Les eaux l'avaient abandonnée et n'y pouvaient plus revenir. La place était libre.
+
+Restaient deux difficultés : premièrement, la possibilité d'éclairer cette excavation creusée dans un bloc plein ; deuxièmement, la nécessité d'en rendre l'accès plus facile. Pour l'éclairage, il ne fallait point songer à l'établir par le haut, puisqu'une énorme épaisseur de granit plafonnait au-dessus d'elle ; mais peut-être pourrait-on percer la paroi antérieure, qui faisait face à la mer. Cyrus Smith, qui, pendant la descente, avait apprécié assez approximativement l'obliquité, et par conséquent la longueur du déversoir, était fondé à croire que la partie antérieure de la muraille devait n'être que peu épaisse. Si l'éclairage était ainsi obtenu, l'accès le serait aussi, car il était aussi facile de percer une porte que des fenêtres, et d'établir une échelle extérieure.
+
+Cyrus Smith fit part de ses idées à ses compagnons.
+
+« Alors, monsieur Cyrus, à l'ouvrage ! répondit Pencroff. J'ai mon pic, et je saurai bien me faire jour à travers ce mur. Où faut-il frapper ?
+
+--- Ici », répondit l'ingénieur, en indiquant au vigoureux marin un renfoncement assez considérable de la paroi, et qui devait en diminuer l'épaisseur.
+
+Pencroff attaqua le granit, et pendant une demi-heure, à la lueur des torches, il en fit voler les éclats autour de lui. La roche étincelait sous son pic. Nab le relaya, puis Gédéon Spilett après Nab.
+
+Ce travail durait depuis deux heures déjà, et l'on pouvait donc craindre qu'en cet endroit, la muraille n'excédât la longueur du pic, quand, à un dernier coup porté par Gédéon Spilett, l'instrument, passant au travers du mur, tomba au-dehors.
+
+« Hurrah ! toujours hurrah ! » s'écria Pencroff.
+
+La muraille ne mesurait là que trois pieds d'épaisseur.
+
+Cyrus Smith vint appliquer son œil à l'ouverture, qui dominait le sol de quatre-vingts pieds. Devant lui s'étendait la lisière du rivage, l'îlot, et, au-delà, l'immense mer.
+
+Mais par ce trou assez large, car la roche s'était désagrégée notablement, la lumière entra à flots et produisit un effet magique en inondant cette splendide caverne ! Si, dans sa partie gauche, elle ne mesurait pas plus de trente pieds de haut et de large sur une longueur de cent pieds, au contraire, à sa partie droite, elle était énorme, et sa voûte s'arrondissait à plus de quatre-vingts pieds de hauteur. En quelques endroits, des piliers de granit, irrégulièrement disposés, en supportaient les retombées comme celles d'une nef de cathédrale. Appuyée sur des espèces de pieds-droits latéraux, ici se surbaissant en cintres, là s'élevant sur des nervures ogivales, se perdant sur des travées obscures dont on entrevoyait les capricieux arceaux dans l'ombre, ornée à profusion de saillies qui formaient comme autant de pendentifs, cette voûte offrait un mélange pittoresque de tout ce que les architectures byzantine, romane et gothique ont produit sous la main de l'homme. Et ici, pourtant, ce n'était que l'œuvre de la nature ! Elle seule avait creusé ce féerique Alhambra dans un massif de granit !
+
+Les colons étaient stupéfaits d'admiration. Où ils ne croyaient trouver qu'une étroite cavité, ils trouvaient une sorte de palais merveilleux, et Nab s'était découvert, comme s'il eût été transporté dans un temple !
+
+Des cris d'admiration étaient partis de toutes les bouches. Les hurrahs retentissaient et allaient se perdre d'écho en écho jusqu'au fond des sombres nefs.
+
+« Ah ! mes amis, s'écria Cyrus Smith, quand nous aurons largement éclairé l'intérieur de ce massif, quand nous aurons disposé nos chambres, nos magasins, nos offices dans sa partie gauche, il nous restera encore cette splendide caverne, dont nous ferons notre salle d'étude et notre musée !
+
+--- Et nous l'appellerons ?\... demanda Harbert.
+
+--- Granite-House[[\[12\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn12011){#_ftnref12011 .pcalibre4 .pcalibre3} », répondit Cyrus Smith, nom que ses compagnons saluèrent encore de leurs hurrahs.
+
+En ce moment, les torches étaient presque entièrement consumées, et comme, pour revenir, il fallait regagner le sommet du plateau en remontant le couloir, il fut décidé que l'on remettrait au lendemain les travaux relatifs à l'aménagement de la nouvelle demeure.
+
+Avant de partir, Cyrus Smith vint se pencher encore une fois au-dessus du puits sombre, qui s'enfonçait perpendiculairement jusqu'au niveau de la mer. Il écouta avec attention. Aucun bruit ne se produisit, pas même celui des eaux, que les ondulations de la houle devaient quelquefois agiter dans ces profondeurs. Une résine enflammée fut encore jetée. Les parois du puits s'éclairèrent un instant mais, pas plus cette fois que la première, il ne se révéla rien de suspect. Si quelque monstre marin avait été inopinément surpris par le retrait des eaux, il avait maintenant regagné le large par le conduit souterrain qui se prolongeait sous la grève, et que suivait le trop-plein du lac, avant qu'une nouvelle issue lui eût été offerte.
+
+Cependant, l'ingénieur, immobile, l'oreille attentive, le regard plongé dans le gouffre, ne prononçait pas une seule parole.
+
+Le marin s'approcha de lui, alors, et, le touchant au bras :
+
+« Monsieur Smith ? dit-il.
+
+--- Que voulez-vous, mon ami ? répondit l'ingénieur, comme s'il fût revenu du pays des rêves.
+
+--- Les torches vont bientôt s'éteindre.
+
+--- En route ! » répondit Cyrus Smith.
+
+La petite troupe quitta la caverne et commença son ascension à travers le sombre déversoir. Top fermait la marche, et faisait encore entendre de singuliers grognements. L'ascension fut assez pénible. Les colons s'arrêtèrent quelques instants à la grotte supérieure, qui formait comme une sorte de palier, à mi-hauteur de ce long escalier de granit. Puis ils recommencèrent à monter.
+
+Bientôt un air plus frais se fit sentir. Les gouttelettes, séchées par l'évaporation, ne scintillaient plus sur les parois. La clarté fuligineuse des torches pâlissait. Celle que portait Nab s'éteignit, et, pour ne pas s'aventurer au milieu d'une obscurité profonde, il fallait se hâter.
+
+C'est ce qui fut fait, et, un peu avant quatre heures, au moment où la torche du marin s'éteignait à son tour, Cyrus Smith et ses compagnons débouchaient par l'orifice du déversoir.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729920 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728992 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728064 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727477 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726549 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724233 .pcalibre .pcalibre4 .pcalibre3} *19* {#chapitre-19 .calibre171 .sigil_not_in_toc}
+
+Le plan de Cyrus Smith. -- La façade de Granite-House. -- L'échelle de corde. -- Les rêves de Pencroff. -- Les herbes aromatiques. -- Une garenne naturelle. -- Dérivation des eaux pour les besoins de la nouvelle demeure. -- Vu que l'on a des fenêtres de Granite-House.
+
+
+Le lendemain, 22 mai, furent commencés les travaux destinés à l'appropriation spéciale de la nouvelle demeure. Il tardait aux colons, en effet, d'échanger, pour cette vaste et saine retraite, creusée en plein roc, à l'abri des eaux de la mer et du ciel, leur insuffisant abri des Cheminées. Celles-ci ne devaient pas être entièrement abandonnées, cependant, et le projet de l'ingénieur était d'en faire un atelier pour les gros ouvrages.
+
+Le premier soin de Cyrus Smith fut de reconnaître sur quel point précis se développait la façade de Granite-House. Il se rendit sur la grève, au pied de l'énorme muraille, et, comme le pic, échappé des mains du reporter, avait dû tomber perpendiculairement, il suffisait de retrouver ce pic pour reconnaître l'endroit où le trou avait été percé dans le granit.
+
+Le pic fut facilement retrouvé, et, en effet, un trou s'ouvrait en ligne perpendiculaire au-dessus du point où il s'était fiché dans le sable, à quatre-vingts pieds environ au-dessus de la grève. Quelques pigeons de roche entraient et sortaient déjà par cette étroite ouverture. Il semblait vraiment que ce fût pour eux que l'on eût découvert Granite-House !
+
+L'intention de l'ingénieur était de diviser la portion droite de la caverne en plusieurs chambres précédées d'un couloir d'entrée, et de l'éclairer au moyen de cinq fenêtres et d'une porte percées sur la façade. Pencroff admettait bien les cinq fenêtres, mais il ne comprenait pas l'utilité de la porte, puisque l'ancien déversoir offrait un escalier naturel, par lequel il serait toujours facile d'avoir accès dans Granite-House.
+
+« Mon ami, lui répondit Cyrus Smith, s'il nous est facile d'arriver à notre demeure par le déversoir, cela sera également facile à d'autres que nous. Je compte, au contraire, obstruer ce déversoir à son orifice, le boucher hermétiquement.
+
+--- Et comment entrerons-nous ? demanda le marin.
+
+--- Par une échelle extérieure, répondit Cyrus Smith, une échelle de corde, qui, une fois retirée, rendra impossible l'accès de notre demeure.
+
+--- Mais pourquoi tant de précautions ? dit Pencroff. Jusqu'ici les animaux ne nous ont pas semblé être bien redoutables. Quant à être habitée par des indigènes, notre île ne l'est pas !
+
+--- En êtes-vous bien sûr, Pencroff ? demanda l'ingénieur, en regardant le marin.
+
+--- Nous n'en serons sûrs, évidemment, que lorsque nous l'aurons explorée dans toutes ses parties, répondit Pencroff.
+
+--- Oui, dit Cyrus Smith, car nous n'en connaissons encore qu'une petite portion. Mais, en tout cas, si nous n'avons pas d'ennemis au dedans, ils peuvent venir du dehors, car ce sont de mauvais parages que ces parages du Pacifique. Prenons donc nos précautions contre toute éventualité. »
+
+Cyrus Smith parlait sagement, et, sans faire aucune autre objection, Pencroff se prépara à exécuter ses ordres.
+
+La façade de Granite-House allait donc être éclairée au moyen de cinq fenêtres et d'une porte, desservant ce qui constituait « l'appartement » proprement dit, et au moyen d'une large baie et d'œils-de-bœuf qui permettraient à la lumière d'entrer à profusion dans cette merveilleuse nef qui devait servir de grande salle. Cette façade, située à une hauteur de quatre-vingts pieds au-dessus du sol, était exposée à l'est, et le soleil levant la saluait de ses premiers rayons. Elle se développait sur cette portion de la courtine comprise entre le saillant faisant angle sur l'embouchure de la Mercy, et une ligne perpendiculairement tracée au-dessus de l'entassement de roches qui formaient les Cheminées. Ainsi les mauvais vents, c'est-à-dire ceux du nord-est, ne la frappaient que d'écharpe, car elle était protégée par l'orientation même du saillant. D'ailleurs, et en attendant que les châssis des fenêtres fussent faits, l'ingénieur avait l'intention de clore les ouvertures avec des volets épais, qui ne laisseraient passer ni le vent, ni la pluie, et qu'il pourrait dissimuler au besoin.
+
+Le premier travail consista donc à éviter ces ouvertures. La manœuvre du pic sur cette roche dure eût été trop lente, et on sait que Cyrus Smith était l'homme des grands moyens. Il avait encore une certaine quantité de nitro-glycérine à sa disposition, et il l'employa utilement. L'effet de la substance explosive fut convenablement localisé, et, sous son effort, le granit se défonça aux places mêmes choisies par l'ingénieur. Puis, le pic et la pioche achevèrent le dessin ogival des cinq fenêtres, de la vaste baie, des œils-de-bœuf et de la porte, ils en dégauchirent les encadrements, dont les profils furent assez capricieusement arrêtés, et, quelques jours après le commencement des travaux, Granite-House était largement éclairé par cette lumière du levant, qui pénétrait jusque dans ses plus secrètes profondeurs.
+
+Suivant le plan arrêté par Cyrus Smith, l'appartement devait être divisé en cinq compartiments prenant vue sur la mer : à droite, une entrée desservie par une porte à laquelle aboutirait l'échelle, puis une première chambre-cuisine, large de trente pieds, une salle à manger, mesurant quarante pieds, une chambre-dortoir, d'égale largeur, et enfin une « chambre d'amis », réclamée par Pencroff, et qui confinait à la grande salle.
+
+Ces chambres, ou plutôt cette suite de chambres, qui formaient l'appartement de Granite-House, ne devaient pas occuper toute la profondeur de la cavité. Elles devaient être desservies par un corridor ménagé entre elles et un long magasin, dans lequel les ustensiles, les provisions, les réserves, trouveraient largement place. Tous les produits recueillis dans l'île, ceux de la flore comme ceux de la faune, seraient là dans des conditions excellentes de conservation, et complètement à l'abri de l'humidité. L'espace ne manquait pas, et chaque objet pourrait être méthodiquement disposé. En outre, les colons avaient encore à leur disposition la petite grotte située au-dessus de la grande caverne, et qui serait comme le grenier de la nouvelle demeure.
+
+Ce plan arrêté, il ne restait plus qu'à le mettre à exécution. Les mineurs redevinrent donc briquetiers ; puis, les briques furent apportées et déposées au pied de Granite-House.
+
+Jusqu'alors Cyrus Smith et ses compagnons n'avaient eu accès dans la caverne que par l'ancien déversoir. Ce mode de communication les obligeait d'abord à monter sur le plateau de Grande-Vue en faisant un détour par la berge de la rivière, à descendre deux cents pieds par le couloir, puis à remonter d'autant quand ils voulaient revenir au plateau. De là, perte de temps et fatigues considérables. Cyrus Smith résolut donc de procéder sans retard à la fabrication d'une solide échelle de corde, qui, une fois relevée, rendrait l'entrée de Granite-House absolument inaccessible.
+
+Cette échelle fut confectionnée avec un soin extrême, et ses montants, formés des fibres du « curry-jonc » tressées au moyen d'un moulinet, avaient la solidité d'un gros câble. Quant aux échelons, ce fut une sorte de cèdre rouge, aux branches légères et résistantes, qui les fournit, et l'appareil fut travaillé de main de maître par Pencroff.
+
+D'autres cordes furent également fabriquées avec des fibres végétales, et une sorte de mouffle grossière fut installée à la porte. De cette façon, les briques purent être facilement enlevées jusqu'au niveau de Granite-House. Le transport des matériaux se trouvait ainsi très simplifié, et l'aménagement intérieur proprement dit commença aussitôt. La chaux ne manquait pas, et quelques milliers de briques étaient là, prêtes à être utilisées. On dressa aisément la charpente des cloisons, très rudimentaire d'ailleurs, et, en un temps très court, l'appartement fut divisé en chambres et en magasin, suivant le plan convenu.
+
+Ces divers travaux se faisaient rapidement, sous la direction de l'ingénieur, qui maniait lui-même le marteau et la truelle. Aucune main-d'œuvre n'était étrangère à Cyrus Smith, qui donnait ainsi l'exemple à des compagnons intelligents et zélés. On travaillait avec confiance, gaiement même, Pencroff ayant toujours le mot pour rire, tantôt charpentier, tantôt cordier, tantôt maçon, et communiquant sa bonne humeur à tout ce petit monde. Sa foi dans l'ingénieur était absolue. Rien n'eût pu la troubler. Il le croyait capable de tout entreprendre et de réussir à tout. La question des vêtements et des chaussures -- question grave assurément, -- celle de l'éclairage pendant les nuits d'hiver, la mise en valeur des portions fertiles de l'île, la transformation de cette flore sauvage en une flore civilisée, tout lui paraissait facile, Cyrus Smith aidant, et tout se ferait en son temps. Il rêvait de rivières canalisées, facilitant le transport des richesses du sol, d'exploitations de carrières et de mines à entreprendre, de machines propres à toutes pratiques industrielles, de chemins de fer, oui, de chemins de fer ! dont le réseau couvrirait certainement un jour l'île Lincoln.
+
+L'ingénieur laissait dire Pencroff. Il ne rabattait rien des exagérations de ce brave cœur. Il savait combien la confiance est communicative, il souriait même à l'entendre parler, et ne disait rien des inquiétudes que lui inspirait quelquefois l'avenir. En effet, dans cette partie du Pacifique, en dehors du passage des navires, il pouvait craindre de n'être jamais secouru. C'était donc sur eux-mêmes, sur eux seuls, que les colons devaient compter, car la distance de l'île Lincoln à toute autre terre était telle, que se hasarder sur un bateau, de construction nécessairement médiocre, serait chose grave et périlleuse.
+
+« Mais, comme disait le marin, ils dépassaient de cent coudées les Robinsons d'autrefois, pour qui tout était miracle à faire. »
+
+Et en effet, ils « savaient », et l'homme qui « sait » réussit là où d'autres végéteraient et périraient inévitablement.
+
+Pendant ces travaux, Harbert se distingua. Il était intelligent et actif, il comprenait vite, exécutait bien, et Cyrus Smith s'attachait de plus en plus à cet enfant. Harbert sentait pour l'ingénieur une vive et respectueuse amitié. Pencroff voyait bien l'étroite sympathie qui se formait entre ces deux êtres, mais il n'en était point jaloux.
+
+Nab était Nab. Il était ce qu'il serait toujours, le courage, le zèle, le dévouement, l'abnégation personnifiée. Il avait en son maître la même foi que Pencroff, mais il la manifestait moins bruyamment. Quand le marin s'enthousiasmait, Nab avait toujours l'air de lui répondre : « Mais rien n'est plus naturel. » Pencroff et lui s'aimaient beaucoup, et n'avaient pas tardé à se tutoyer.
+
+Quant à Gédéon Spilett, il prenait sa part du travail commun, et n'était pas le plus maladroit, -- ce dont s'étonnait toujours un peu le marin. Un « journaliste » habile, non pas seulement à tout comprendre, mais à tout exécuter !
+
+L'échelle fut définitivement installée le 28 mai. On n'y comptait pas moins de cent échelons sur cette hauteur perpendiculaire de quatre-vingts pieds qu'elle mesurait. Cyrus Smith avait pu, heureusement, la diviser en deux parties, en profitant d'un surplomb de la muraille qui faisait saillie à une quarantaine de pieds au-dessus du sol. Cette saillie, soigneusement nivelée par le pic, devint une sorte de palier auquel on fixa la première échelle, dont le ballant fut ainsi diminué de moitié, et qu'une corde permettait de relever jusqu'au niveau de Granite-House. Quant à la seconde échelle, on l'arrêta aussi bien à son extrémité inférieure, qui reposait sur la saillie, qu'à son extrémité supérieure, rattachée à la porte même. De la sorte, l'ascension devint notablement plus facile. D'ailleurs, Cyrus Smith comptait installer plus tard un ascenseur hydraulique qui éviterait toute fatigue et toute perte de temps aux habitants de Granite-House.
+
+Les colons s'habituèrent promptement à se servir de cette échelle. Ils étaient lestes et adroits, et Pencroff, en sa qualité de marin, habitué à courir sur les enfléchures des haubans, put leur donner des leçons. Mais il fallut qu'il en donnât aussi à Top. Le pauvre chien, avec ses quatre pattes, n'était pas bâti pour cet exercice. Mais Pencroff était un maître si zélé, que Top finit par exécuter convenablement ses ascensions, et monta bientôt à l'échelle comme font couramment ses congénères dans les cirques. Si le marin fut fier de son élève, cela ne peut se dire. Mais pourtant, et plus d'une fois, Pencroff le monta sur son dos, ce dont Top ne se plaignit jamais.
+
+On fera observer ici que pendant ces travaux, qui furent cependant activement conduits, car la mauvaise saison approchait, la question alimentaire n'avait point été négligée. Tous les jours, le reporter et Harbert, devenus décidément les pourvoyeurs de la colonie, employaient quelques heures à la chasse. Ils n'exploitaient encore que les bois du Jacamar, sur la gauche de la rivière, car, faute de pont et de canot, la Mercy n'avait pas encore été franchie. Toutes ces immenses forêts auxquelles on avait donné le nom de forêts du Far-West n'étaient donc point explorées. On réservait cette importante excursion pour les premiers beaux jours du printemps prochain. Mais les bois du Jacamar étaient suffisamment giboyeux ; kangourous et sangliers y abondaient, et les épieux ferrés, l'arc et les flèches des chasseurs faisaient merveille. De plus, Harbert découvrit, vers l'angle sud-ouest du lagon, une garenne naturelle, sorte de prairie légèrement humide, recouverte de saules et d'herbes aromatiques qui parfumaient l'air, telles que thym, serpolet, basilic, sarriette, toutes espèces odorantes de la famille des labiées, dont les lapins se montrent si friands.
+
+Sur l'observation du reporter, que, puisque la table était servie pour des lapins, il serait étonnant que les lapins fissent défaut, les deux chasseurs explorèrent attentivement cette garenne. En tout cas, elle produisait en abondance des plantes utiles, et un naturaliste aurait eu là l'occasion d'étudier bien des spécimens du règne végétal. Harbert recueillit ainsi une certaine quantité de pousses de basilic, de romarin, de mélisse, de bétoine, etc\... qui possèdent des propriétés thérapeutiques diverses, les unes pectorales, astringentes, fébrifuges, les autres anti-spasmodiques ou anti-rhumatismales. Et quand, plus tard, Pencroff demanda à quoi servirait toute cette récolte d'herbes :
+
+« À nous soigner, répondit le jeune garçon, à nous traiter quand nous serons malades.
+
+--- Pourquoi serions-nous malades, puisqu'il n'y a pas de médecins dans l'île ? » répondit très sérieusement Pencroff.
+
+À cela il n'y avait rien à répliquer, mais le jeune garçon n'en fit pas moins sa récolte, qui fut très bien accueillie à Granite-House. D'autant plus qu'à ces plantes médicinales, il put joindre une notable quantité de monardes didymes, qui sont connues dans l'Amérique septentrionale, sous le nom de « thé d'Oswego », et produisent une boisson excellente.
+
+Enfin, ce jour-là, en cherchant bien, les deux chasseurs arrivèrent sur le véritable emplacement de la garenne. Le sol y était perforé comme une écumoire.
+
+« Des terriers ! s'écria Harbert.
+
+--- Oui, répondit le reporter, je les vois bien.
+
+--- Mais sont-ils habités ?
+
+--- C'est la question. »
+
+La question ne tarda pas à être résolue. Presque aussitôt, des centaines de petits animaux, semblables à des lapins, s'enfuirent dans toutes les directions, et avec une telle rapidité, que Top lui-même n'aurait pu les gagner de vitesse. Chasseurs et chien eurent beau courir, ces rongeurs leur échappèrent facilement. Mais le reporter était bien résolu à ne pas quitter la place avant d'avoir capturé au moins une demi-douzaine de ces quadrupèdes. Il voulait en garnir l'office tout d'abord, quitte à domestiquer ceux que l'on prendrait plus tard. Avec quelques collets tendus à l'orifice des terriers, l'opération ne pouvait manquer de réussir. Mais en ce moment, pas de collets, ni de quoi en fabriquer. Il fallut donc se résigner à visiter chaque gîte, à le fouiller du bâton, à faire, à force de patience, ce qu'on ne pouvait faire autrement.
+
+Enfin, après une heure de fouilles, quatre rongeurs furent pris au gîte. C'étaient des lapins assez semblables à leurs congénères d'Europe, et qui sont vulgairement connus sous le nom de « lapins d'Amérique ».
+
+Le produit de la chasse fut donc rapporté à Granite-House, et il figura au repas du soir. Les hôtes de cette garenne n'étaient point à dédaigner, car ils étaient délicieux. Ce fut là une précieuse ressource pour la colonie, et qui semblait devoir être inépuisable.
+
+Le 31 mai, les cloisons étaient achevées. Il ne restait plus qu'à meubler les chambres, ce qui serait l'ouvrage des longs jours d'hiver. Une cheminée fut établie dans la première chambre, qui servait de cuisine. Le tuyau destiné à conduire la fumée au-dehors donna quelque travail aux fumistes improvisés. Il parut plus simple à Cyrus Smith de le fabriquer en terre de brique ; comme il ne fallait pas songer à lui donner issue par le plateau supérieur, on perça un trou dans le granit au-dessus de la fenêtre de ladite cuisine, et c'est à ce trou que le tuyau, obliquement dirigé, aboutit comme celui d'un poêle en tôle. Peut-être, sans doute même, par les grands vents d'est qui battaient directement la façade, la cheminée fumerait, mais ces vents étaient rares, et, d'ailleurs, maître Nab, le cuisinier, n'y regardait pas de si près.
+
+Quand ces aménagements intérieurs eurent été achevés, l'ingénieur s'occupa d'obstruer l'orifice de l'ancien déversoir qui aboutissait au lac, de manière à interdire tout accès par cette voie. Des quartiers de roches furent roulés à l'ouverture et cimentés fortement. Cyrus Smith ne réalisa pas encore le projet qu'il avait formé de noyer cet orifice sous les eaux du lac en les ramenant à leur premier niveau par un barrage. Il se contenta de dissimuler l'obstruction au moyen d'herbes, arbustes ou broussailles, qui furent plantés dans les interstices des roches, et que le printemps prochain devait développer avec exubérance.
+
+Toutefois, il utilisa le déversoir de manière à amener jusqu'à la nouvelle demeure un filet des eaux douces du lac. Une petite saignée, faite au-dessous de leur niveau, produisit ce résultat, et cette dérivation d'une source pure et intarissable donna un rendement de vingt-cinq à trente gallons[[\[13\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn13011){#_ftnref13011 .pcalibre4 .pcalibre3} par jour. L'eau ne devait donc jamais manquer à Granite-House.
+
+Enfin, tout fut terminé, et il était temps, car la mauvaise saison arrivait. D'épais volets permettaient de fermer les fenêtres de la façade, en attendant que l'ingénieur eût eu le temps de fabriquer du verre à vitre.
+
+Gédéon Spilett avait très artistement disposé, dans les saillies du roc, autour des fenêtres, des plantes d'espèces variées, ainsi que de longues herbes flottantes, et, de cette façon, les ouvertures étaient encadrées d'une pittoresque verdure d'un effet charmant.
+
+Les habitants de la solide, saine et sûre demeure ne pouvaient donc être qu'enchantés de leur ouvrage. Les fenêtres permettaient à leur regard de s'étendre sur un horizon sans limite, que les deux caps Mandibule fermaient au nord et le cap Griffe au sud. Toute la baie de l'Union se développait magnifiquement devant eux. Oui, ces braves colons avaient lieu d'être satisfaits, et Pencroff ne marchandait pas les éloges à ce qu'il appelait humoristiquement « son appartement au cinquième au-dessus de l'entresol ! »
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729921 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728993 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728065 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727478 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726550 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724234 .pcalibre .pcalibre4 .pcalibre3} *20* {#chapitre-20 .calibre171 .sigil_not_in_toc}
+
+La saison des pluies. -- La question des vêtements. -- Une chasse aux phoques. -- Fabrication de la bougie. -- Travaux intérieurs dans Granite-House. -- Les deux ponceaux. -- Retour d'une visite à l'huîtrière. -- Ce qu'Harbert trouve dans sa poche.
+
+
+La saison d'hiver commença véritablement avec ce mois de juin, qui correspond au mois de décembre de l'hémisphère boréal. Il débuta par des averses et des rafales qui se succédèrent sans relâche. Les hôtes de Granite-House purent apprécier les avantages d'une demeure que les intempéries ne sauraient atteindre. L'abri des Cheminées eût été vraiment insuffisant contre les rigueurs d'un hivernage, et il était à craindre que les grandes marées, poussées par les vents du large, n'y fissent encore irruption. Cyrus Smith prit même quelques précautions, en prévision de cette éventualité, afin de préserver, autant que possible, la forge et les fourneaux qui y étaient installés.
+
+Pendant tout ce mois de juin, le temps fut employé à des travaux divers, qui n'excluaient ni la chasse, ni la pêche, et les réserves de l'office purent être abondamment entretenues. Pencroff, dès qu'il en aurait le loisir, se proposait d'établir des trappes dont il attendait le plus grand bien. Il avait fabriqué des collets de fibres ligneuses, et il n'était pas de jour que la garenne ne fournît son contingent de rongeurs. Nab employait presque tout son temps à saler ou à fumer des viandes, ce qui lui assurait des conserves excellentes.
+
+La question des vêtements fut alors très sérieusement discutée. Les colons n'avaient d'autres habits que ceux qu'ils portaient, quand le ballon les jeta sur l'île. Ces habits étaient chauds et solides, ils en avaient pris un soin extrême ainsi que de leur linge, et ils les tenaient en parfait état de propreté, mais tout cela demanderait bientôt à être remplacé. En outre, si l'hiver était rigoureux, les colons auraient fort à souffrir du froid.
+
+À ce sujet, l'ingéniosité de Cyrus Smith fut en défaut. Il avait dû parer au plus pressé, créer la demeure, assurer l'alimentation, et le froid pouvait le surprendre avant que la question des vêtements eût été résolue. Il fallait donc se résigner à passer ce premier hiver sans trop se plaindre. La belle saison venue, on ferait une chasse sérieuse à ces mouflons, dont la présence avait été signalée, lors de l'exploration au mont Franklin, et, une fois la laine récoltée, l'ingénieur saurait bien fabriquer de chaudes et solides étoffes\... Comment ? il y songerait.
+
+« Eh bien, nous en serons quittes pour nous griller les mollets à Granite-House ! dit Pencroff. Le combustible abonde, et il n'y a aucune raison de l'épargner.
+
+--- D'ailleurs, répondit Gédéon Spilett, l'île Lincoln n'est pas située sous une latitude très élevée, et il est probable que les hivers n'y sont pas rudes. Ne nous avez-vous pas dit, Cyrus, que ce trente-cinquième parallèle correspondait à celui de l'Espagne dans l'autre hémisphère ?
+
+--- Sans doute, répondit l'ingénieur, mais certains hivers sont très froids en Espagne ! Neige et glace, rien n'y manque, et l'île Lincoln peut être aussi rigoureusement éprouvée. Toutefois, c'est une île, et, comme telle, j'espère que la température y sera plus modérée.
+
+--- Et pourquoi, monsieur Cyrus ? demanda Harbert.
+
+--- Parce que la mer, mon enfant, peut être considérée comme un immense réservoir, dans lequel s'emmagasinent les chaleurs de l'été. L'hiver venu, elle restitue ces chaleurs, ce qui assure aux régions voisines des océans une température moyenne, moins élevée en été, mais moins basse en hiver.
+
+--- Nous le verrons bien, répondit Pencroff. Je demande à ne point m'inquiéter autrement du froid qu'il fera ou qu'il ne fera pas. Ce qui est certain, c'est que les jours sont déjà courts et les soirées longues. Si nous traitions un peu la question de l'éclairage.
+
+--- Rien n'est plus facile, répondit Cyrus Smith.
+
+--- À traiter ? demanda le marin.
+
+--- À résoudre.
+
+--- Et quand commencerons-nous ?
+
+--- Demain, en organisant une chasse aux phoques.
+
+--- Pour fabriquer de la chandelle ?
+
+--- Fi donc ! Pencroff, de la bougie. »
+
+Tel était, en effet, le projet de l'ingénieur ; projet réalisable, puisqu'il avait de la chaux et de l'acide sulfurique, et que les amphibies de l'îlot lui fourniraient la graisse nécessaire à sa fabrication.
+
+On était au 4 juin. C'était le dimanche de la Pentecôte, et il y eut accord unanime pour observer cette fête. Tous travaux furent suspendus, et des prières s'élevèrent vers le ciel. Mais ces prières étaient maintenant des actions de grâces. Les colons de l'île Lincoln n'étaient plus les misérables naufragés jetés sur l'îlot. Ils ne demandaient plus, ils remerciaient.
+
+Le lendemain, 5 juin, par un temps assez incertain, on partit pour l'îlot. Il fallut encore profiter de la marée basse pour franchir à gué le canal, et, à ce propos, il fut convenu que l'on construirait, tant bien que mal, un canot qui rendrait les communications plus faciles, et permettrait aussi de remonter la Mercy, lors de la grande exploration du sud-ouest de l'île, qui était remise aux premiers beaux jours.
+
+Les phoques étaient nombreux, et les chasseurs, armés de leurs épieux ferrés, en tuèrent aisément une demi-douzaine. Nab et Pencroff les dépouillèrent, et ne rapportèrent à Granite-House que leur graisse et leur peau, cette peau devant servir à la fabrication de solides chaussures.
+
+Le résultat de cette chasse fut celui-ci : environ trois cents livres de graisse qui devaient être entièrement employées à la fabrication des bougies.
+
+L'opération fut extrêmement simple, et, si elle ne donna pas des produits absolument parfaits, du moins étaient-ils utilisables. Cyrus Smith n'aurait eu à sa disposition que de l'acide sulfurique, qu'en chauffant cet acide avec les corps gras neutres -- dans l'espèce la graisse de phoque --, il pouvait isoler la glycérine ; puis, de la combinaison nouvelle, il eût facilement séparé l'oléine, la margarine et la stéarine, en employant l'eau bouillante. Mais, afin de simplifier l'opération, il préféra saponifier la graisse au moyen de la chaux. Il obtint de la sorte un savon calcaire, facile à décomposer par l'acide sulfurique, qui précipita la chaux à l'état de sulfate et rendit libres les acides gras.
+
+De ces trois acides, oléique, margarique et stéarique, le premier, étant liquide, fut chassé par une pression suffisante. Quant aux deux autres, ils formaient la substance même qui allait servir au moulage des bougies.
+
+L'opération ne dura pas plus de vingt-quatre heures. Les mèches, après plusieurs essais, furent faites de fibres végétales, et, trempées dans la substance liquéfiée, elles formèrent de véritables bougies stéariques, moulées à la main, auxquelles il ne manqua que le blanchiment et le polissage. Elles n'offraient pas, sans doute, cet avantage que les mèches, imprégnées d'acide borique, ont de se vitrifier au fur et à mesure de leur combustion, et de se consumer entièrement ; mais Cyrus Smith ayant fabriqué une belle paire de mouchettes, ces bougies furent grandement appréciées pendant les veillées de Granite-House.
+
+Pendant tout ce mois, le travail ne manqua pas à l'intérieur de la nouvelle demeure. Les menuisiers eurent de l'ouvrage. On perfectionna les outils, qui étaient fort rudimentaires. On les compléta aussi.
+
+Des ciseaux, entre autres, furent fabriqués, et les colons purent enfin couper leurs cheveux, et sinon se faire la barbe, du moins la tailler à leur fantaisie. Harbert n'en avait pas, Nab n'en avait guère, mais leurs compagnons en étaient hérissés de manière à justifier la confection desdits ciseaux.
+
+La fabrication d'une scie à main, du genre de celles qu'on appelle égoïnes, coûta des peines infinies, mais enfin on obtint un instrument qui, vigoureusement manié, put diviser les fibres ligneuses du bois. On fit donc des tables, des sièges, des armoires, qui meublèrent les principales chambres, des cadres de lit, dont toute la literie consista en matelas de zostère. La cuisine, avec ses planches, sur lesquelles reposaient les ustensiles en terre cuite, son fourneau de briques, sa pierre à relaver, avait très bon air, et Nab y fonctionnait gravement, comme s'il eût été dans un laboratoire de chimiste.
+
+Mais les menuisiers durent être bientôt remplacés par les charpentiers. En effet, le nouveau déversoir, créé à coups de mine, rendait nécessaire la construction de deux ponceaux, l'un sur le plateau de Grande-Vue, l'autre sur la grève même. Maintenant, en effet, le plateau et la grève étaient transversalement coupés par un cours d'eau qu'il fallait nécessairement franchir, quand on voulait gagner le nord de l'île. Pour l'éviter, les colons eussent été obligés à faire un détour considérable et à remonter dans l'ouest jusqu'au-delà des sources du Creek-Rouge. Le plus simple était donc d'établir, sur le plateau et sur la grève, deux ponceaux, longs de vingt à vingt-cinq pieds, et dont quelques arbres, seulement équarris à la hache, formèrent toute la charpente. Ce fut l'affaire de quelques jours. Les ponts établis, Nab et Pencroff en profitèrent alors pour aller jusqu'à l'huîtrière qui avait été découverte au large des dunes. Ils avaient traîné avec eux une sorte de grossier chariot, qui remplaçait l'ancienne claie vraiment trop incommode, et ils rapportèrent quelques milliers d'huîtres, dont l'acclimatation se fit rapidement au milieu de ces rochers, qui formaient autant de parcs naturels à l'embouchure de la Mercy. Ces mollusques étaient de qualité excellente, et les colons en firent une consommation presque quotidienne.
+
+On le voit, l'île Lincoln, bien que ses habitants n'en eussent exploré qu'une très petite portion, fournissait déjà à presque tous leurs besoins. Et il était probable que, fouillée jusque dans ses plus secrets réduits, sur toute cette partie boisée qui s'étendait depuis la Mercy jusqu'au promontoire du Reptile, elle prodiguerait de nouveaux trésors.
+
+Une seule privation coûtait encore aux colons de l'île Lincoln. La nourriture azotée ne leur manquait pas, ni les produits végétaux qui devaient en tempérer l'usage ; les racines ligneuses des dragonniers, soumises à la fermentation, leur donnaient une boisson acidulée, sorte de bière bien préférable à l'eau pure ; ils avaient même fabriqué du sucre, sans cannes ni betteraves, en recueillant cette liqueur que distille l'« acer saccharinum », sorte d'érable de la famille des acérinées, qui prospère sous toutes les zones moyennes, et dont l'île possédait un grand nombre ; ils faisaient un thé très agréable en employant les monardes rapportées de la garenne ; enfin, ils avaient en abondance le sel, le seul des produits minéraux qui entre dans l'alimentation\..., mais le pain faisait défaut.
+
+Peut-être, par la suite, les colons pourraient-ils remplacer cet aliment par quelque équivalent, farine de sagoutier ou fécule de l'arbre à pain, et il était possible, en effet, que les forêts du sud comptassent parmi leurs essences ces précieux arbres, mais jusqu'alors on ne les avait pas rencontrés.
+
+Cependant la Providence devait, en cette circonstance, venir directement en aide aux colons, dans une proportion infinitésimale, il est vrai, mais enfin Cyrus Smith, avec toute son intelligence, toute son ingéniosité, n'aurait jamais pu produire ce que, par le plus grand hasard, Harbert trouva un jour dans la doublure de sa veste, qu'il s'occupait de raccommoder.
+
+Ce jour-là -- il pleuvait à torrents --, les colons étaient rassemblés dans la grande salle de Granite-House, quand le jeune garçon s'écria tout d'un coup :
+
+« Tiens, monsieur Cyrus. Un grain de blé ! »
+
+Et il montra à ses compagnons un grain, un unique grain qui, de sa poche trouée, s'était introduit dans la doublure de sa veste.
+
+La présence de ce grain s'expliquait par l'habitude qu'avait Harbert, étant à Richmond, de nourrir quelques ramiers dont Pencroff lui avait fait présent.
+
+« Un grain de blé ? répondit vivement l'ingénieur.
+
+--- Oui, monsieur Cyrus, mais un seul, rien qu'un seul !
+
+--- Eh ! mon garçon, s'écria Pencroff en souriant, nous voilà bien avancés, ma foi ! Qu'est-ce que nous pourrions bien faire d'un seul grain de blé ?
+
+--- Nous en ferons du pain, répondit Cyrus Smith.
+
+--- Du pain, des gâteaux, des tartes ! répliqua le marin. Allons ! Le pain que fournira ce grain de blé ne nous étouffera pas de sitôt ! »
+
+Harbert, n'attachant que peu d'importance à sa découverte, se disposait à jeter le grain en question, mais Cyrus Smith le prit, l'examina, reconnut qu'il était en bon état, et, regardant le marin bien en face :
+
+« Pencroff, lui demanda-t-il tranquillement, savez-vous combien un grain de blé peut produire d'épis ?
+
+--- Un, je suppose ! répondit le marin, surpris de la question.
+
+--- Dix, Pencroff. Et savez-vous combien un épi porte de grains ?
+
+--- Ma foi, non.
+
+--- Quatre-vingts en moyenne, dit Cyrus Smith. Donc, si nous plantons ce grain, à la première récolte, nous récolterons huit cents grains, lesquels en produiront à la seconde six cent quarante mille, à la troisième cinq cent douze millions, à la quatrième plus de quatre cents milliards de grains. Voilà la proportion. »
+
+Les compagnons de Cyrus Smith l'écoutaient sans répondre. Ces chiffres les stupéfiaient. Ils étaient exacts, cependant.
+
+« Oui, mes amis, reprit l'ingénieur. Telles sont les progressions arithmétiques de la féconde nature. Et encore, qu'est-ce que cette multiplication du grain de blé, dont l'épi ne porte que huit cents grains, comparée à ces pieds de pavots qui portent trente-deux mille graines, à ces pieds de tabac qui en produisent trois cent soixante mille ? En quelques années, sans les nombreuses causes de destruction qui en arrêtent la fécondité, ces plantes envahiraient toute la terre. »
+
+Mais l'ingénieur n'avait pas terminé son petit interrogatoire.
+
+« Et maintenant, Pencroff, reprit-il, savez-vous combien quatre cents milliards de grains représentent de boisseaux ?
+
+--- Non, répondit le marin, mais ce que je sais, c'est que je ne suis qu'une bête !
+
+--- Eh bien, cela ferait plus de trois millions, à cent trente mille par boisseau, Pencroff.
+
+--- Trois millions ! s'écria Pencroff.
+
+--- Trois millions.
+
+--- Dans quatre ans ?
+
+--- Dans quatre ans, répondit Cyrus Smith, et même dans deux ans, si, comme je l'espère, nous pouvons, sous cette latitude, obtenir deux récoltes par année. »
+
+À cela, suivant son habitude, Pencroff ne crut pas pouvoir répliquer autrement que par un hurrah formidable.
+
+« Ainsi, Harbert, ajouta l'ingénieur, tu as fait là une découverte d'une importance extrême pour nous. Tout, mes amis, tout peut nous servir dans les conditions où nous sommes. Je vous en prie, ne l'oubliez pas.
+
+--- Non, monsieur Cyrus, non, nous ne l'oublierons pas, répondit Pencroff, et si jamais je trouve une de ces graines de tabac, qui se multiplient par trois cent soixante mille, je vous assure que je ne la jetterai pas au vent ! Et maintenant, savez-vous ce qui nous reste à faire ?
+
+--- Il nous reste à planter ce grain, répondit Harbert.
+
+--- Oui, ajouta Gédéon Spilett, et avec tous les égards qui lui sont dus, car il porte en lui nos moissons à venir.
+
+--- Pourvu qu'il pousse ! s'écria le marin.
+
+--- Il poussera », répondit Cyrus Smith.
+
+On était au 20 juin. Le moment était donc propice pour semer cet unique et précieux grain de blé. Il fut d'abord question de le planter dans un pot ; mais, après réflexion, on résolut de s'en rapporter plus franchement à la nature, et de le confier à la terre. C'est ce qui fut fait le jour même, et il est inutile d'ajouter que toutes les précautions furent prises pour que l'opération réussît.
+
+Le temps s'étant légèrement éclairci, les colons gravirent les hauteurs de Granite-House. Là, sur le plateau, ils choisirent un endroit bien abrité du vent, et auquel le soleil de midi devait verser toute sa chaleur. L'endroit fut nettoyé, sarclé avec soin, fouillé même, pour en chasser les insectes ou les vers ; on y mit une couche de bonne terre amendée d'un peu de chaux ; on l'entoura d'une palissade ; puis, le grain fut enfoncé dans la couche humide.
+
+Ne semblait-il pas que ces colons posaient la première pierre d'un édifice ? Cela rappela à Pencroff le jour où il avait allumé son unique allumette, et tous les soins qu'il apporta à cette opération. Mais cette fois, la chose était plus grave. En effet, les naufragés seraient toujours parvenus à se procurer du feu, soit par un procédé, soit par un autre, mais nulle puissance humaine ne leur referait ce grain de blé, si, par malheur, il venait à périr !
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729922 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728994 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728066 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727479 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726551 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724235 .pcalibre .pcalibre4 .pcalibre3} *21* {#chapitre-21 .calibre171 .sigil_not_in_toc}
+
+Quelques degrés au-dessous de zéro. -- Exploration à la partie marécageuse du sud-est. -- Les curieux. -- Vue de la mer. -- Une conversation sur l'avenir de l'océan Pacifique. -- Le travail incessant des infusoires. -- Ce que deviendra le globe. -- La chasse. -- Le marais des Tadornes.
+
+
+Depuis ce moment, il ne se passa plus un seul jour sans que Pencroff allât visiter ce qu'il appelait sérieusement son « champ de blé ». Et malheur aux insectes qui s'y aventuraient ! Ils n'avaient aucune grâce à attendre.
+
+Vers la fin du mois de juin, après d'interminables pluies, le temps se mit décidément au froid, et, le 29, un thermomètre Fahrenheit eût certainement annoncé 20° seulement au-dessus de zéro (6°, 67 cgr au-dessous de glace).
+
+Le lendemain, 30 juin, jour qui correspond au 31 décembre de l'année boréale, était un vendredi. Nab fit observer que l'année finissait par un mauvais jour ; mais Pencroff lui répondit que, naturellement, l'autre commençait par un bon -- ce qui valait mieux.
+
+En tout cas, elle débuta par un froid très vif. Des glaçons s'entassèrent à l'embouchure de la Mercy, et le lac ne tarda pas à se prendre sur toute son étendue.
+
+On dut, à plusieurs reprises, renouveler la provision de combustible. Pencroff n'avait pas attendu que la rivière fût glacée pour conduire d'énormes trains de bois à leur destination. Le courant était un moteur infatigable, et il fut employé à charrier du bois flotté jusqu'au moment où le froid vint l'enchaîner. Au combustible fourni si abondamment par la forêt, on joignit aussi plusieurs charretées de houille, qu'il fallut aller chercher au pied des contreforts du mont Franklin. Cette puissante chaleur du charbon de terre fut vivement appréciée par une basse température, qui, le 4 juillet, tomba à 8° Fahrenheit (13° centigrades au-dessous de zéro). Une seconde cheminée avait été établie dans la salle à manger, et, là, on travaillait en commun.
+
+Pendant cette période de froid, Cyrus Smith n'eut qu'à s'applaudir d'avoir dérivé jusqu'à Granite-House un petit filet des eaux du lac Grant. Prises au-dessous de la surface glacée, puis, conduites par l'ancien déversoir, elles conservaient leur liquidité et arrivaient à un réservoir intérieur, qui avait été creusé à l'angle de l'arrière-magasin, et dont le trop-plein s'enfuyait par le puits jusqu'à la mer.
+
+Vers cette époque, le temps étant extrêmement sec, les colons, aussi bien vêtus que possible, résolurent de consacrer une journée à l'exploration de la partie de l'île comprise au sud-est entre la Mercy et le cap Griffe. C'était un vaste terrain marécageux, et il pouvait se présenter quelque bonne chasse à faire, car les oiseaux aquatiques devaient y pulluler.
+
+Il fallait compter de huit à neuf milles à l'aller, autant au retour, et, par conséquent, la journée serait bien employée. Comme il s'agissait aussi de l'exploration d'une portion inconnue de l'île, toute la colonie dut y prendre part. C'est pourquoi, le 5 juillet, dès six heures du matin, l'aube se levant à peine, Cyrus Smith, Gédéon Spilett, Harbert, Nab, Pencroff, armés d'épieux, de collets, d'arcs et de flèches, et munis de provisions suffisantes, quittèrent Granite-House, précédés de Top, qui gambadait devant eux.
+
+On prit par le plus court, et le plus court fut de traverser la Mercy sur les glaçons qui l'encombraient alors.
+
+« Mais, fit observer justement le reporter, cela ne peut remplacer un pont sérieux ! »
+
+Aussi, la construction d'un pont « sérieux » était-elle notée dans la série des travaux à venir.
+
+C'était la première fois que les colons mettaient pied sur la rive droite de la Mercy, et s'aventuraient au milieu de ces grands et superbes conifères, alors couverts de neige.
+
+Mais ils n'avaient pas fait un demi-mille, que, d'un épais fourré, s'échappait toute une famille de quadrupèdes, qui y avaient élu domicile, et dont les aboiements de Top provoquèrent la fuite.
+
+« Ah ! on dirait des renards ! » s'écria Harbert, quand il vit toute la bande décamper au plus vite.
+
+C'étaient des renards, en effet, mais des renards de très grande taille, qui faisaient entendre une sorte d'aboiement, dont Top parut lui-même fort étonné, car il s'arrêta dans sa poursuite, et donna à ces rapides animaux le temps de disparaître.
+
+Le chien avait le droit d'être surpris, puisqu'il ne savait pas l'histoire naturelle. Mais, par leurs aboiements, ces renards, gris roussâtres de pelage, à queues noires que terminait une bouffette blanche, avaient décelé leur origine. Aussi, Harbert leur donna-t-il, sans hésiter, leur véritable nom de « culpeux ». Ces culpeux se rencontrent fréquemment au Chili, aux Malouines, et sur tous ces parages américains traversés par les 30^e^ et 40^e^ parallèles. Harbert regretta beaucoup que Top n'eût pu s'emparer de l'un de ces carnivores.
+
+« Est-ce que cela se mange ? demanda Pencroff, qui ne considérait jamais les représentants de la faune de l'île qu'à un point de vue spécial.
+
+--- Non, répondit Harbert, mais les zoologistes n'ont pas encore reconnu si la pupille de ces renards est diurne ou nocturne, et s'il ne convient pas de les ranger dans le genre chien proprement dit. »
+
+Cyrus Smith ne put s'empêcher de sourire en entendant la réflexion du jeune garçon, qui attestait un esprit sérieux. Quant au marin, du moment que ces renards ne pouvaient être classés dans le genre comestible, peu lui importait. Toutefois, lorsqu'une basse-cour serait établie à Granite-House, il fit observer qu'il serait bon de prendre quelques précautions contre la visite probable de ces pillards à quatre pattes. Ce que personne ne contesta.
+
+Après avoir tourné la pointe de l'Épave, les colons trouvèrent une longue plage que baignait la vaste mer. Il était alors huit heures du matin. Le ciel était très pur, ainsi qu'il arrive par les grands froids prolongés ; mais, échauffés par leur course, Cyrus Smith et ses compagnons ne ressentaient pas trop vivement les piqûres de l'atmosphère. D'ailleurs, il ne faisait pas de vent, circonstance qui rend infiniment plus supportables les forts abaissements de la température. Un soleil brillant, mais sans action calorifique, sortait alors de l'Océan, et son énorme disque se balançait à l'horizon. La mer formait une nappe tranquille et bleue comme celle d'un golfe méditerranéen, quand le ciel est pur. Le cap Griffe, recourbé en forme de yatagan, s'effilait nettement à quatre milles environ vers le sud-est. À gauche, la lisière du marais était brusquement arrêtée par une petite pointe que les rayons solaires dessinaient alors d'un trait de feu. Certes, en cette partie de la baie de l'Union, que rien ne couvrait du large, pas même un banc de sable, les navires, battus des vents d'est, n'eussent trouvé aucun abri. On sentait à la tranquillité de la mer, dont nul haut-fond ne troublait les eaux, à sa couleur uniforme que ne tachait aucune nuance jaunâtre, à l'absence de tout récif enfin, que cette côte était accore, et que l'Océan recouvrait là de profonds abîmes. En arrière, dans l'ouest, se développaient, mais à une distance de quatre milles, les premières lignes d'arbres des forêts du Far-West. On se serait cru, pour ainsi dire, sur la côte désolée de quelque île des régions antarctiques que les glaçons eussent envahie. Les colons firent halte en cet endroit pour déjeuner. Un feu de broussailles et de varechs desséchés fut allumé, et Nab prépara le déjeuner de viande froide, auquel il joignit quelques tasses de thé d'Oswego.
+
+Tout en mangeant, on regardait. Cette partie de l'île Lincoln était réellement stérile et contrastait avec toute la région occidentale. Ce qui amena le reporter à faire cette réflexion, que si le hasard eût tout d'abord jeté les naufragés sur cette plage, ils auraient pris de leur futur domaine une idée déplorable.
+
+« Je crois même que nous n'aurions pas pu l'atteindre, répondit l'ingénieur, car la mer est profonde, et elle ne nous offrait pas un rocher pour nous y réfugier. Devant Granite-House, au moins, il y avait des bancs, un îlot, qui multipliaient les chances de salut. Ici, rien que l'abîme !
+
+--- Il est assez singulier, fit observer Gédéon Spilett, que cette île, relativement petite, présente un sol aussi varié. Cette diversité d'aspect n'appartient logiquement qu'aux continents d'une certaine étendue. On dirait vraiment que la partie occidentale de l'île Lincoln, si riche et si fertile, est baignée par les eaux chaudes du golfe Mexicain, et que ses rivages du nord et du sud-est s'étendent sur une sorte de mer Arctique.
+
+--- Vous avez raison, mon cher Spilett, répondit Cyrus Smith, c'est une observation que j'ai faite aussi. Cette île, dans sa forme comme dans sa nature, je la trouve étrange. On dirait un résumé de tous les aspects que présente un continent, et je ne serais pas surpris qu'elle eût été continent autrefois.
+
+--- Quoi ! un continent au milieu du Pacifique ? s'écria Pencroff.
+
+--- Pourquoi pas ? répondit Cyrus Smith. Pourquoi l'Australie, la Nouvelle-Irlande, tout ce que les géographes anglais appellent l'Australasie, réunies aux archipels du Pacifique, n'auraient-ils formé autrefois une sixième partie du monde, aussi importante que l'Europe ou l'Asie, que l'Afrique ou les deux Amériques ? Mon esprit ne se refuse point à admettre que toutes les îles, émergées de ce vaste Océan, ne sont que des sommets d'un continent maintenant englouti, mais qui dominait les eaux aux époques antéhistoriques.
+
+--- Comme fut autrefois l'Atlantide, répondit Harbert.
+
+--- Oui, mon enfant\... si elle a existé toutefois.
+
+--- Et l'île Lincoln aurait fait partie de ce continent-là ? demanda Pencroff.
+
+--- C'est probable, répondit Cyrus Smith, et cela expliquerait assez cette diversité de productions qui se voit à sa surface.
+
+--- Et le nombre considérable d'animaux qui l'habitent encore, ajouta Harbert.
+
+--- Oui, mon enfant, répondit l'ingénieur, et tu me fournis là un nouvel argument à l'appui de ma thèse. Il est certain, d'après ce que nous avons vu, que les animaux sont nombreux dans l'île, et, ce qui est plus bizarre, que les espèces y sont extrêmement variées. Il y a une raison à cela, et pour moi, c'est que l'île Lincoln a pu faire autrefois partie de quelque vaste continent qui s'est peu à peu abaissé au-dessous du Pacifique.
+
+--- Alors, un beau jour, répliqua Pencroff, qui ne semblait pas être absolument convaincu, ce qui reste de cet ancien continent pourra disparaître à son tour, et il n'y aura plus rien entre l'Amérique et l'Asie ?
+
+--- Si, répondit Cyrus Smith, il y aura les nouveaux continents, que des milliards de milliards d'animalcules travaillent à bâtir en ce moment.
+
+--- Et quels sont ces maçons-là ? demanda Pencroff.
+
+--- Les infusoires du corail, répondit Cyrus Smith. Ce sont eux qui ont fabriqué, par un travail continu, l'île Clermont-Tonnerre, les atolls, et autres nombreuses îles à coraux que compte l'océan Pacifique. Il faut quarante-sept millions de ces infusoires pour peser un grain[[\[14\]]{.MsoFootnoteReference}](../Text/Section0004.xhtml#_ftn14011){#_ftnref14011 .pcalibre4 .pcalibre3}, et pourtant, avec les sels marins qu'ils absorbent, avec les éléments solides de l'eau qu'ils s'assimilent, ces animalcules produisent le calcaire, et ce calcaire forme d'énormes substructions sous-marines, dont la dureté et la solidité égalent celles du granit. Autrefois, aux premières époques de la création, la nature, employant le feu, a produit les terres par soulèvement ; mais maintenant elle charge des animaux microscopiques de remplacer cet agent, dont la puissance dynamique, à l'intérieur du globe, a évidemment diminué, -- ce que prouve le grand nombre de volcans actuellement éteints à la surface de la terre. Et je crois bien que, les siècles succédant aux siècles et les infusoires aux infusoires, ce Pacifique pourra se changer un jour en un vaste continent, que des générations nouvelles habiteront et civiliseront à leur tour.
+
+--- Ce sera long ! dit Pencroff.
+
+--- La nature a le temps pour elle, répondit l'ingénieur.
+
+--- Mais à quoi bon de nouveaux continents ? demanda Harbert. Il me semble que l'étendue actuelle des contrées habitables est suffisante à l'humanité. Or, la nature ne fait rien d'inutile.
+
+--- Rien d'inutile, en effet, reprit l'ingénieur, mais voici comment on pourrait expliquer dans l'avenir la nécessité de continents nouveaux, et précisément sur cette zone tropicale occupée par les îles coralligènes. Du moins, cette explication me paraît plausible.
+
+--- Nous vous écoutons, monsieur Cyrus, répondit Harbert.
+
+--- Voici ma pensée : les savants admettent généralement qu'un jour notre globe finira, ou plutôt que la vie animale et végétale n'y sera plus possible, par suite du refroidissement intense qu'il subira. Ce sur quoi ils ne sont pas d'accord, c'est sur la cause de ce refroidissement. Les uns pensent qu'il proviendra de l'abaissement de température que le soleil éprouvera après des millions d'années ; les autres, de l'extinction graduelle des feux intérieurs de notre globe, qui ont sur lui une influence plus prononcée qu'on ne le suppose généralement. Je tiens, moi, pour cette dernière hypothèse, en me fondant sur ce fait que la lune est bien véritablement un astre refroidi, lequel n'est plus habitable, quoique le soleil continue toujours de verser à sa surface la même somme de chaleur. Si donc la lune s'est refroidie, c'est parce que ces feux intérieurs auxquels, ainsi que tous les astres du monde stellaire, elle a dû son origine, se sont complètement éteints. Enfin, quelle qu'en soit la cause, notre globe se refroidira un jour, mais ce refroidissement ne s'opérera que peu à peu. Qu'arrivera-t-il alors ? C'est que les zones tempérées, dans une époque plus ou moins éloignée, ne seront pas plus habitables que ne le sont actuellement les régions polaires. Donc, les populations d'hommes, comme les agrégations d'animaux, reflueront vers les latitudes plus directement soumises à l'influence solaire. Une immense émigration s'accomplira. L'Europe, l'Asie centrale, l'Amérique du Nord seront peu à peu abandonnées, tout comme l'Australasie ou les parties basses de l'Amérique du Sud. La végétation suivra l'émigration humaine. La flore reculera vers l'équateur en même temps que la faune. Les parties centrales de l'Amérique méridionale et de l'Afrique deviendront les continents habités par excellence. Les Lapons et les Samoyèdes retrouveront les conditions climatériques de la mer polaire sur les rivages de la Méditerranée. Qui nous dit qu'à cette époque, les régions équatoriales ne seront pas trop petites pour contenir l'humanité terrestre et la nourrir ? Or, pourquoi la prévoyante nature, afin de donner refuge à toute l'émigration végétale et animale, ne jetterait-elle pas, dès à présent, sous l'équateur, les bases d'un continent nouveau, et n'aurait-elle pas chargé les infusoires de le construire ? J'ai souvent réfléchi à toutes ces choses, mes amis, et je crois sérieusement que l'aspect de notre globe sera un jour complètement transformé, que, par suite de l'exhaussement de nouveaux continents, les mers couvriront les anciens, et que, dans les siècles futurs, des Colombs iront découvrir les îles du Chimboraço, de l'Himalaya ou du Mont blanc, restes d'une Amérique, d'une Asie et d'une Europe englouties. Puis enfin, ces nouveaux continents, à leur tour, deviendront eux-mêmes inhabitables ; la chaleur s'éteindra comme la chaleur d'un corps que l'âme vient d'abandonner, et la vie disparaîtra, sinon définitivement du globe, au moins momentanément. Peut-être, alors, notre sphéroïde se reposera-t-il, se refera-t-il dans la mort pour ressusciter un jour dans des conditions supérieures ! Mais tout cela, mes amis, c'est le secret de l'Auteur de toutes choses, et, à propos du travail des infusoires, je me suis laissé entraîner un peu loin peut-être à scruter les secrets de l'avenir.
+
+--- Mon cher Cyrus, répondit Gédéon Spilett, ces théories sont pour moi des prophéties, et elles s'accompliront un jour.
+
+--- C'est le secret de Dieu, dit l'ingénieur.
+
+--- Tout cela est bel et bien, dit alors Pencroff, qui avait écouté de toutes ses oreilles, mais m'apprendrez-vous, monsieur Cyrus, si l'île Lincoln a été construite par vos infusoires ?
+
+--- Non, répondit Cyrus Smith, elle est purement d'origine volcanique.
+
+--- Alors, elle disparaîtra un jour ?
+
+--- C'est probable.
+
+--- J'espère bien que nous n'y serons plus.
+
+--- Non, rassurez-vous, Pencroff, nous n'y serons plus, puisque nous n'avons aucune envie d'y mourir et que nous finirons peut-être par nous en tirer.
+
+--- En attendant, répondit Gédéon Spilett, installons-nous comme pour l'éternité. Il ne faut jamais rien faire à demi. »
+
+Ceci finit la conversation. Le déjeuner était terminé. L'exploration fut reprise, et les colons arrivèrent à la limite où commençait la région marécageuse.
+
+C'était bien un marais, dont l'étendue, jusqu'à cette côte arrondie qui terminait l'île au sud-est, pouvait mesurer vingt milles carrés. Le sol était formé d'un limon argilo-siliceux, mêlé de nombreux débris de végétaux. Des conferves, des joncs, des carex, des scirpes, çà et là quelques couches d'herbages, épais comme une grosse moquette, le recouvraient. Quelques mares glacées scintillaient en maint endroit sous les rayons solaires. Ni les pluies, ni aucune rivière, gonflée par une crue subite, n'avaient pu former ces réserves d'eau. On en devait naturellement conclure que ce marécage était alimenté par les infiltrations du sol, et cela était en effet. Il était même à craindre que l'air ne s'y chargeât, pendant les chaleurs, de ces miasmes qui engendrent les fièvres paludéennes.
+
+Au-dessus des herbes aquatiques, à la surface des eaux stagnantes voltigeait un monde d'oiseaux. Chasseurs au marais et huttiers de profession n'auraient pu y perdre un seul coup de fusil. Canards sauvages, pilets, sarcelles, bécassines y vivaient par bandes, et ces volatiles peu craintifs se laissaient facilement approcher.
+
+Un coup de fusil à plomb eût certainement atteint quelques douzaines de ces oiseaux, tant leurs rangs étaient pressés. Il fallut se contenter de les frapper à coups de flèche. Le résultat fut moindre, mais la flèche silencieuse eut l'avantage de ne point effrayer ces volatiles, que la détonation d'une arme à feu aurait dissipés à tous les coins du marécage. Les chasseurs se contentèrent donc, pour cette fois, d'une douzaine de canards, blancs de corps avec ceinture cannelle, tête verte, aile noire, blanche et rousse, bec aplati, qu'Harbert reconnut pour des « tadornes ». Top concourut adroitement à la capture de ces volatiles, dont le nom fut donné à cette partie marécageuse de l'île. Les colons avaient donc là une abondante réserve de gibier aquatique. Le temps venu, il ne s'agirait plus que de l'exploiter convenablement, et il était probable que plusieurs espèces de ces oiseaux pourraient être, sinon domestiqués, du moins acclimatés aux environs du lac, ce qui les mettrait plus directement sous la main des consommateurs.
+
+Vers cinq heures du soir, Cyrus Smith et ses compagnons reprirent le chemin de leur demeure, en traversant le marais des Tadornes (Tadorn's-fens), et ils repassèrent la Mercy sur le pont de glaces.
+
+À huit heures du soir, tous étaient rentrés à Granite-House.
+
+
+]{.calibre20}
+
+
+L\'ÎLE MYSTÉRIEUSE
+
+Première partie
+
+
+]{.calibre20}
+
+### []{#_Toc349729923 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728995 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349728067 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349727480 .pcalibre .pcalibre4 .pcalibre3}[]{#_Toc349726552 .pcalibre .pcalibre4 .pcalibre3}[Chapitre]{#_Toc349724236 .pcalibre .pcalibre4 .pcalibre3} *22* {#chapitre-22 .calibre171 .sigil_not_in_toc}
+
+Les trappes. -- Les renards. -- Les pécaris. -- Saute de vent au nord-ouest. -- Tempête de neige. -- Les vanniers. -- Les plus grands froids de l'hiver. -- La cristallisation du sucre d'érable. -- Le puits mystérieux. -- L'opération projetée. -- Le grain de plomb.
+
+
+Ces froids intenses durèrent jusqu'au 15 août, sans dépasser toutefois ce maximum de degrés Fahrenheit observé jusqu'alors. Quand l'atmosphère était calme, cette basse température se supportait facilement ; mais quand la bise soufflait, cela semblait dur à des gens insuffisamment vêtus. Pencroff en était à regretter que l'île Lincoln ne donnât pas asile à quelques familles d'ours, plutôt qu'à ces renards ou à ces phoques, dont la fourrure laissait à désirer.
+
+« Les ours, disait-il, sont généralement bien habillés, et je ne demanderais pas mieux que de leur emprunter pour l'hiver la chaude capote qu'ils ont sur le corps.
+
+--- Mais, répondait Nab en riant, peut-être ces ours ne consentiraient-ils pas, Pencroff, à te donner leur capote. Ce ne sont point des Saint-Martin, ces bêtes-là !
+
+--- On les y obligerait, Nab, on les y obligerait », répliquait Pencroff d'un ton tout à fait autoritaire.
+
+Mais ces formidables carnassiers n'existaient point dans l'île, ou, du moins, ils ne s'étaient pas montrés jusqu'alors.
+
+Toutefois, Harbert, Pencroff et le reporter s'occupèrent d'établir des trappes sur le plateau de Grande-Vue et aux abords de la forêt. Suivant l'opinion du marin, tout animal, quel qu'il fût, serait de bonne prise, et rongeurs ou carnassiers qui étrenneraient les nouveaux pièges seraient bien reçus à Granite-House.
+
+Ces trappes furent, d'ailleurs, extrêmement simples : des fosses creusées dans le sol, au-dessus un plafonnage de branches et d'herbes, qui en dissimulait l'orifice, au fond quelque appât dont l'odeur pouvait attirer les animaux, et ce fut tout. Il faut dire aussi qu'elles n'avaient point été creusées au hasard, mais à certains endroits où des empreintes plus nombreuses indiquaient de fréquentes passées de quadrupèdes. Tous les jours, elles étaient visitées, et, à trois reprises, pendant les premiers jours, on y trouva des échantillons de ces culpeux qui avaient été vus déjà sur la rive droite de la Mercy.
+
+« Ah çà ! il n'y a donc que des renards dans ce pays-ci ! s'écria Pencroff, la troisième fois qu'il retira un de ces animaux de la fosse où il se tenait fort penaud. Des bêtes qui ne sont bonnes à rien !
+
+--- Mais si, dit Gédéon Spilett. Elles sont bonnes à quelque chose !
+
+--- Et à quoi donc ?
+
+--- À faire des appâts pour en attirer d'autres ! »
+
+Le reporter avait raison, et les trappes furent dès lors amorcées avec ces cadavres de renards.
+
+Le marin avait également fabriqué des collets en employant les fibres du curry-jonc, et les collets donnèrent plus de profit que les trappes. Il était rare qu'un jour se passât sans que quelque lapin de la garenne se laissât prendre. C'était toujours du lapin, mais Nab savait varier ses sauces, et les convives ne songeaient pas à se plaindre.
+
+Cependant, une ou deux fois, dans la seconde semaine d'août, les trappes livrèrent aux chasseurs des animaux autres que des culpeux, et plus utiles. Ce furent quelques-uns de ces sangliers qui avaient été déjà signalés au nord du lac. Pencroff n'eut pas besoin de demander si ces bêtes-là étaient comestibles. Cela se voyait bien, à leur ressemblance avec le cochon d'Amérique ou d'Europe.
+
+« Mais ce ne sont point des cochons, lui dit Harbert, je t'en préviens, Pencroff.
+
+--- Mon garçon, répondit le marin, en se penchant sur la trappe, et en retirant par le petit appendice qui lui servait de queue un de ces représentants de la famille des suilliens, laissez-moi croire que ce sont des cochons !
+
+--- Et pourquoi ?
+
+--- Parce que cela me fait plaisir !
+
+--- Tu aimes donc bien le cochon, Pencroff ?
+
+--- J'aime beaucoup le cochon, répondit le marin, surtout pour ses pieds, et s'il en avait huit au lieu de quatre, je l'aimerais deux fois davantage ! »
+
+Quant aux animaux en question, c'étaient des pécaris appartenant à l'un des quatre genres que compte la famille, et ils étaient même de l'espèce des « tajassous », reconnaissables à leur couleur foncée et dépourvus de ces longues canines qui arment la bouche de leurs congénères. Ces pécaris vivent ordinairement par troupes, et il était probable qu'ils abondaient dans les parties boisées de l'île. En tout cas, ils étaient mangeables de la tête aux pieds, et Pencroff ne leur en demandait pas plus.
+
+Vers le 15 août, l'état atmosphérique se modifia subitement par une saute de vent dans le nord-ouest. La température remonta de quelques degrés, et les vapeurs accumulées dans l'air ne tardèrent pas à se résoudre en neige. Toute l'île se couvrit d'une couche blanche, et se montra à ses habitants sous un aspect nouveau. Cette neige tomba abondamment pendant plusieurs jours, et son épaisseur atteignit bientôt deux pieds.
+
+Le vent fraîchit bientôt avec une extrême violence, et, du haut de Granite-House, on entendait la mer gronder sur les récifs. À certains angles, il se faisait de rapides remous d'air, et la neige, s'y formant en hautes colonnes tournantes, ressemblait à ces trombes liquides qui pirouettent sur leur base, et que les bâtiments attaquent à coups de canon. Toutefois, l'ouragan, venant du nord-ouest, prenait l'île à revers, et l'orientation de Granite-House la préservait d'un assaut direct. Mais, au milieu de ce chasse-neige, aussi terrible que s'il se fût produit sur quelque contrée polaire, ni Cyrus Smith, ni ses compagnons ne purent, malgré leur envie, s'aventurer au-dehors, et ils restèrent renfermés pendant cinq jours, du 20 au 25 août. On entendait la tempête rugir dans les bois du Jacamar, qui devaient en pâtir. Bien des arbres seraient déracinés, sans doute, mais Pencroff s'en consolait en songeant qu'il n'aurait pas la peine de les abattre.
+
+« Le vent se fait bûcheron, laissons-le faire », répétait-il.
+
+Et, d'ailleurs, il n'y aurait eu aucun moyen de l'en empêcher.
+
+Combien les hôtes de Granite-House durent alors remercier le ciel de leur avoir ménagé cette solide et inébranlable retraite ! Cyrus Smith avait bien sa légitime part dans les remerciements, mais enfin, c'était la nature qui avait creusé cette vaste caverne, et il n'avait fait que la découvrir. Là, tous étaient en sûreté, et les coups de la tempête ne pouvaient les atteindre. S'ils eussent construit sur le plateau de Grande-Vue une maison de briques et de bois, elle n'aurait certainement pas résisté aux fureurs de cet ouragan. Quant aux Cheminées, rien qu'au fracas des lames qui se faisait entendre avec tant de force, on devait croire qu'elles étaient absolument inhabitables, car la mer, passant par-dessus l'îlot, devait les battre avec rage. Mais ici, à Granite-House, au milieu de ce massif, contre lequel n'avaient prise ni l'eau ni l'air, rien à craindre.
+
+Pendant ces quelques jours de séquestration, les colons ne restèrent pas inactifs. Le bois, débité en planches, ne manquait pas dans le magasin, et, peu à peu, on compléta le mobilier, en tables et en chaises, solides à coup sûr, car la matière n'y fut pas épargnée. Ces meubles, un peu lourds, justifiaient mal leur nom, qui fait de leur mobilité une condition essentielle, mais ils firent l'orgueil de Nab et de Pencroff, qui ne les auraient pas changés contre des meubles de Boule.
+
+Puis, les menuisiers devinrent vanniers, et ils ne réussirent pas mal dans cette nouvelle fabrication. On avait découvert, vers cette pointe que le lac projetait au nord, une féconde oseraie, où poussaient en grand nombre des osiers-pourpres. Avant la saison des pluies, Pencroff et Harbert avaient moissonné ces utiles arbustes, et leurs branches, bien séparées alors, pouvaient être efficacement employées. Les premiers essais furent informes, mais, grâce à l'adresse et à l'intelligence des ouvriers, se consultant, se rappelant les modèles qu'ils avaient vus, rivalisant entre eux, des paniers et des corbeilles de diverses grandeurs accrurent bientôt le matériel de la colonie. Le magasin en fut pourvu, et Nab enferma dans des corbeilles spéciales ses récoltes de rhizomes, d'amandes de pin pignon et de racines de dragonnier.
+
+Pendant la dernière semaine de ce mois d'août, le temps se modifia encore une fois. La température baissa un peu, et la tempête se calma. Les colons s'élancèrent au-dehors. Il y avait certainement deux pieds de neige sur la grève, mais, à la surface de cette neige durcie, on pouvait marcher sans trop de peine. Cyrus Smith et ses compagnons montèrent sur le plateau de Grande-Vue.
+
+Quel changement ! Ces bois, qu'ils avaient laissés verdoyants, surtout dans la partie voisine où dominaient les conifères, disparaissaient alors sous une couleur uniforme. Tout était blanc, depuis le sommet du mont Franklin jusqu'au littoral, les forêts, la prairie, le lac, la rivière, les grèves. L'eau de la Mercy courait sous une voûte de glace qui, à chaque flux et reflux, faisait débâcle et se brisait avec fracas. De nombreux oiseaux voletaient à la surface solide du lac, canards et bécassines, pilets et guillemots. Il y en avait des milliers. Les rocs entre lesquels se déversait la cascade à la lisière du plateau étaient hérissés de glaces. On eût dit que l'eau s'échappait d'une monstrueuse gargouille fouillée avec toute la fantaisie d'un artiste de la Renaissance. Quant à juger des dommages causés à la forêt par l'ouragan, on ne le pouvait encore, et il fallait attendre que l'immense couche blanche se fût dissipée.
+
+Gédéon Spilett, Pencroff et Harbert ne manquèrent pas cette occasion d'aller visiter leurs trappes. Ils ne les retrouvèrent pas aisément, sous la neige qui les recouvrait. Ils durent même prendre garde de ne point se laisser choir dans l'une ou l'autre, ce qui eût été dangereux et humiliant à la fois : se prendre à son propre piège ! Mais enfin ils évitèrent ce désagrément, et retrouvèrent les trappes parfaitement intactes. Aucun animal n'y était tombé, et, cependant, les empreintes étaient nombreuses aux alentours, entre autres certaines marques de griffes très nettement accusées. Harbert n'hésita pas à affirmer que quelque carnassier du genre des félins avait passé là, ce qui justifiait l'opinion de l'ingénieur sur la présence de fauves dangereux à l'île Lincoln. Sans doute, ces fauves habitaient ordinairement les épaisses forêts du Far-West, mais, pressés par la faim, ils s'étaient aventurés jusqu'au plateau de Grande-Vue. Peut-être sentaient-ils les hôtes de Granite-House ?
+
+« En somme, qu'est-ce que c'est que ces félins ? demanda Pencroff.
+
+--- Ce sont des tigres, répondit Harbert.
+
+--- Je croyais que ces bêtes-là ne se trouvaient que dans les pays chauds ?
+
+--- Sur le nouveau continent, répondit le jeune garçon, on les observe depuis le Mexique jusqu'aux Pampas de Buenos-Aires. Or, comme l'île Lincoln est à peu près sous la même latitude que les provinces de la Plata, il n'est pas étonnant que quelques tigres s'y rencontrent.
+
+--- Bon, on veillera », répondit Pencroff.
+
+Cependant, la neige finit par se dissiper sous l'influence de la température, qui se releva. La pluie vint à tomber, et, grâce à son action dissolvante, la couche blanche s'effaça. Malgré le mauvais temps, les colons renouvelèrent leur réserve en toutes choses, amandes de pin pignon, racines de dragonnier, rhizomes, liqueur d'érable, pour la partie végétale ; lapins de garenne, agoutis et kangourous, pour la partie animale. Cela nécessita quelques excursions dans la forêt, et l'on constata qu'une certaine quantité d'arbres avaient été abattus par le dernier ouragan. Le marin et Nab poussèrent même, avec le chariot, jusqu'au gisement de houille, afin de rapporter quelques tonnes de combustible. Ils virent en passant que la cheminée du four à poteries avait été très endommagée par le vent et découronnée de six bons pieds au moins.
+
+En même temps que le charbon, la provision de bois fut également renouvelée à Granite-House, et on profita du courant de la Mercy, qui était redevenu libre, pour en amener plusieurs trains. Il pouvait se faire que la période des grands froids ne fût pas achevée.
+
+Une visite avait été faite également aux Cheminées, et les colons ne purent que s'applaudir de ne pas y avoir demeuré pendant la tempête. La mer avait laissé là des marques incontestables de ses ravages. Soulevée par les vents du large, et sautant par-dessus l'îlot, elle avait violemment assailli les couloirs, qui étaient à demi ensablés, et d'épaisses couches de varech recouvraient les roches. Pendant que Nab, Harbert et Pencroff chassaient ou renouvelaient les provisions de combustible, Cyrus Smith et Gédéon Spilett s'occupèrent à déblayer les Cheminées, et ils retrouvèrent la forge et les fourneaux à peu près intacts, protégés qu'ils avaient été tout d'abord par l'entassement des sables.
+
+Ce ne fut pas inutilement que la réserve de combustible avait été refaite. Les colons n'en avaient pas fini avec les froids rigoureux. On sait que, dans l'hémisphère boréal, le mois de février se signale principalement par de grands abaissements de la température. Il devait en être de même dans l'hémisphère austral, et la fin du mois d'août, qui est le février de l'Amérique du Nord, n'échappa pas à cette loi climatique.
+
+Vers le 25, après une nouvelle alternative de neige et de pluie, le vent sauta au sud-est, et, subitement, le froid devint extrêmement vif. Suivant l'estime de l'ingénieur, la colonne mercurielle d'un thermomètre Fahrenheit n'eût pas marqué moins de 8° au-dessous de zéro (22° centigr. au-dessous de glace), et cette intensité du froid, rendue plus douloureuse encore par une bise aiguë, se maintint pendant plusieurs jours. Les colons durent de nouveau se caserner dans Granite-House, et, comme il fallut obstruer hermétiquement toutes les ouvertures de la façade, en ne laissant que le strict passage au renouvellement de l'air, la consommation de bougies fut considérable. Afin de les économiser, les colons ne s'éclairèrent souvent qu'avec la flamme des foyers, où l'on n'épargnait pas le combustible. Plusieurs fois, les uns ou les autres descendirent sur la grève, au milieu des glaçons que le flux y entassait à chaque marée, mais ils remontaient bientôt à Granite-House, et ce n'était pas sans peine et sans douleur que leurs mains se retenaient aux bâtons de l'échelle. Par ce froid intense, les échelons leur brûlaient les doigts.
+
+Il fallut encore occuper ces loisirs que la séquestration faisait aux hôtes de Granite-House. Cyrus Smith entreprit alors une opération qui pouvait se pratiquer à huis clos.
+
+On sait que les colons n'avaient à leur disposition d'autre sucre que cette substance liquide qu'ils tiraient de l'érable, en faisant à cet arbre des incisions profondes. Il leur suffisait donc de recueillir cette liqueur dans des vases, et ils l'employaient en cet état à divers usages culinaires, et d'autant mieux, qu'en vieillissant, la liqueur tendait à blanchir et à prendre une consistance sirupeuse.
+
+Mais il y avait mieux à faire, et un jour Cyrus Smith annonça à ses compagnons qu'ils allaient se transformer en raffineurs.
+
+« Raffineurs ! répondit Pencroff. C'est un métier un peu chaud, je crois ?
+
+--- Très chaud ! répondit l'ingénieur.
+
+--- Alors, il sera de saison ! » répliqua le marin.
+
+Que ce mot de raffinage n'éveille pas dans l'esprit le souvenir de ces usines compliquées en outillage et en ouvriers. Non ! pour cristalliser cette liqueur, il suffisait de l'épurer par une opération qui était extrêmement facile. Placée sur le feu dans de grands vases de terre, elle fut simplement soumise à une certaine évaporation, et bientôt une écume monta à sa surface. Dès qu'elle commença à s'épaissir, Nab eut soin de la remuer avec une spatule de bois, -- ce qui devait accélérer son évaporation et l'empêcher en même temps de contracter un goût empyreumatique.
+
+Après quelques heures d'ébullition sur un bon feu, qui faisait autant de bien aux opérateurs qu'à la substance opérée, celle-ci s'était transformée en un sirop épais. Ce sirop fut versé dans des moules d'argile, préalablement fabriqués dans le fourneau même de la cuisine, et auxquels on avait donné des formes variées. Le lendemain, ce sirop, refroidi, formait des pains et des tablettes. C'était du sucre, de couleur un peu rousse, mais presque transparent et d'un goût parfait.
+
+Le froid continua jusqu'à la mi-septembre, et les prisonniers de Granite-House commençaient à trouver leur captivité bien longue. Presque tous les jours, ils tentaient quelques sorties qui ne pouvaient se prolonger. On travaillait donc constamment à l'aménagement de la demeure. On causait en travaillant. Cyrus Smith instruisait ses compagnons en toutes choses, et il leur expliquait principalement les applications pratiques de la science. Les colons n'avaient point de bibliothèque à leur disposition ; mais l'ingénieur était un livre toujours prêt, toujours ouvert à la page dont chacun avait besoin, un livre qui leur résolvait toutes les questions et qu'ils feuilletaient souvent. Le temps passait ainsi, et ces braves gens ne semblaient point redouter l'avenir.
+
+Cependant, il était temps que cette séquestration se terminât. Tous avaient hâte de revoir, sinon la belle saison, du moins la cessation de ce froid insupportable. Si seulement ils eussent été vêtus de manière à pouvoir le braver, que d'excursions ils auraient tentées, soit aux dunes, soit au marais des Tadornes ! Le gibier devait être facile à approcher, et la chasse eût été fructueuse, assurément. Mais Cyrus Smith tenait à ce que personne ne compromît sa santé, car il avait besoin de tous les bras, et ses conseils furent suivis.
+
+Mais, il faut le dire, le plus impatient de cet emprisonnement, après Pencroff toutefois, c'était Top. Le fidèle chien se trouvait fort à l'étroit dans Granite-House. Il allait et venait d'une chambre à l'autre, et témoignait à sa manière son ennui d'être caserné.
+
+Cyrus Smith remarqua souvent que, lorsqu'il s'approchait de ce puits sombre, qui était en communication avec la mer, et dont l'orifice s'ouvrait au fond du magasin, Top faisait entendre des grognements singuliers. Top tournait autour de ce trou, qui avait été recouvert d'un panneau en bois. Quelquefois même, il cherchait à glisser ses pattes sous ce panneau, comme s'il eût voulu le soulever. Il jappait alors d'une façon particulière, qui indiquait à la fois colère et inquiétude.
+
+L'ingénieur observa plusieurs fois ce manège. Qu'y avait-il donc dans cet abîme qui pût impressionner à ce point l'intelligent animal ? Le puits aboutissait à la mer, cela était certain. Se ramifiait-il donc en étroits boyaux à travers la charpente de l'île ? Était-il en communication avec quelques autres cavités intérieures ? Quelque monstre marin ne venait-il pas, de temps en temps, respirer au fond de ce puits ? L'ingénieur ne savait que penser, et ne pouvait se retenir de rêver de complications bizarres. Habitué à aller loin dans le domaine des réalités scientifiques, il ne se pardonnait pas de se laisser entraîner dans le domaine de l'étrange et presque du surnaturel ; mais comment s'expliquer que Top, un de ces chiens sensés qui n'ont jamais perdu leur temps à aboyer à la lune, s'obstinât à sonder du flair et de l'ouïe cet abîme, si rien ne s'y passait qui dût éveiller son inquiétude ? La conduite de Top intriguait Cyrus Smith plus qu'il ne lui paraissait raisonnable de se l'avouer à lui-même.
+
+En tout cas, l'ingénieur ne communiqua ses impressions qu'à Gédéon Spilett, trouvant inutile d'initier ses compagnons aux réflexions involontaires que faisait naître en lui ce qui n'était peut-être qu'une lubie de Top.
+
+Enfin, les froids cessèrent. Il y eut des pluies, des rafales mêlées de neige, des giboulées, des coups de vent, mais ces intempéries ne duraient pas. La glace s'était dissoute, la neige s'était fondue ; la grève, le plateau, les berges de la Mercy, la forêt, étaient redevenus praticables. Ce retour du printemps ravit les hôtes de Granite-House, et, bientôt, ils n'y passèrent plus que les heures du sommeil et des repas.
+
+On chassa beaucoup dans la seconde moitié de septembre, ce qui amena Pencroff à réclamer avec une nouvelle insistance les armes à feu qu'il affirmait avoir été promises par Cyrus Smith. Celui-ci, sachant bien que, sans un outillage spécial, il lui serait presque impossible de fabriquer un fusil qui pût rendre quelque service, reculait toujours et remettait l'opération à plus tard. Il faisait, d'ailleurs, observer qu'Harbert et Gédéon Spilett étaient devenus des archers habiles, que toutes sortes d'animaux excellents, agoutis, kangourous, cabiais, pigeons, outardes, canards sauvages, bécassines, enfin gibier de poil ou de plume, tombaient sous leurs flèches, et que, par conséquent, on pouvait attendre. Mais l'entêté marin n'entendait point de cette oreille, et il ne laisserait pas de cesse à l'ingénieur que celui-ci n'eût satisfait son désir. Gédéon Spilett appuyait, du reste, Pencroff.
+
+« Si l'île, comme on en peut douter, disait-il, renferme des animaux féroces, il faut penser à les combattre et à les exterminer. Un moment peut venir où ce soit notre premier devoir. »
+
+Mais, à cette époque, ce ne fut point cette question des armes à feu qui préoccupa Cyrus Smith, mais bien celle des vêtements. Ceux que portaient les colons avaient passé l'hiver, mais ils ne pourraient pas durer jusqu'à l'hiver prochain. Peaux de carnassiers ou laine de ruminants, c'était ce qu'il fallait se procurer à tout prix, et, puisque les mouflons ne manquaient pas, il convenait d'aviser aux moyens d'en former un troupeau qui serait élevé pour les besoins de la colonie. Un enclos destiné aux animaux domestiques, une basse-cour aménagée pour les volatiles, en un mot, une sorte de ferme à fonder en quelque point de l'île, tels seraient les deux projets importants à exécuter pendant la belle saison.
+
+En conséquence, et en vue de ces établissements futurs, il devenait donc urgent de pousser une reconnaissance dans toute la partie ignorée de l'île Lincoln, c'est-à-dire sous ces hautes forêts qui s'étendaient sur la droite de la Mercy, depuis son embouchure jusqu'à l'extrémité de la presqu'île Serpentine, ainsi que sur toute la côte occidentale. Mais il fallait un temps sûr, et un mois devait s'écouler encore avant que cette exploration pût être entreprise utilement.
+
+On attendait donc avec une certaine impatience, quand un incident se produisit, qui vint surexciter encore ce désir qu'avaient les colons de visiter en entier leur domaine.
+
+On était au 24 octobre. Ce jour-là, Pencroff était allé visiter les trappes, qu'il tenait toujours convenablement amorcées. Dans l'une d'elles, il trouva trois animaux qui devaient être bienvenus à l'office. C'était une femelle de pécari et ses deux petits.
+
+Pencroff revint donc à Granite-House, enchanté de sa capture, et, comme toujours, le marin fit grand étalage de sa chasse.
+
+« Allons ! nous ferons un bon repas, monsieur Cyrus ! s'écria-t-il. Et vous aussi, monsieur Spilett, vous en mangerez !
+
+--- Je veux bien en manger, répondit le reporter, mais qu'est-ce que je mangerai ?
+
+--- Du cochon de lait.
+
+--- Ah ! vraiment, du cochon de lait, Pencroff ? À vous entendre, je croyais que vous rapportiez un perdreau truffé !
+
+--- Comment ? s'écria Pencroff. Est-ce que vous feriez fi du cochon de lait, par hasard ?
+
+--- Non, répondit Gédéon Spilett, sans montrer aucun enthousiasme, et pourvu qu'on n'en abuse pas\...
+
+--- C'est bon, c'est bon, monsieur le journaliste, riposta le marin, qui n'aimait pas à entendre déprécier sa chasse, vous faites le difficile ? Et il y a sept mois, quand nous avons débarqué dans l'île, vous auriez été trop heureux de rencontrer un pareil gibier !\...
+
+--- Voilà, voilà, répondit le reporter. L'homme n'est jamais ni parfait, ni content.
+
+--- Enfin, reprit Pencroff, j'espère que Nab se distinguera. Voyez ! Ces deux petits pécaris n'ont pas seulement trois mois ! Ils seront tendres comme des cailles ! Allons, Nab, viens ! J'en surveillerai moi-même la cuisson. »
+
+Et le marin, suivi de Nab, gagna la cuisine et s'absorba dans ses travaux culinaires.
+
+On le laissa faire à sa façon. Nab et lui préparèrent donc un repas magnifique, les deux petits pécaris, un potage de kangourou, un jambon fumé, des amandes de pignon, de la boisson de dragonnier, du thé d'Oswego, -- enfin, tout ce qu'il y avait de meilleur ; mais entre tous les plats devaient figurer au premier rang les savoureux pécaris, accommodés à l'étuvée.
+
+À cinq heures, le dîner fut servi dans la salle de Granite-House. Le potage de kangourou fumait sur la table. On le trouva excellent.
+
+Au potage succédèrent les pécaris, que Pencroff voulut découper lui-même, et dont il servit des portions monstrueuses à chacun des convives.
+
+Ces cochons de lait étaient vraiment délicieux, et Pencroff dévorait sa part avec un entrain superbe, quand tout à coup un cri et un juron lui échappèrent.
+
+« Qu'y a-t-il ? demanda Cyrus Smith.
+
+--- Il y a\... il y a\... que je viens de me casser une dent ! répondit le marin.
+
+--- Ah çà ! il y a donc des cailloux dans vos pécaris ? dit Gédéon Spilett.
+
+--- Il faut croire », répondit Pencroff, en retirant de ses lèvres l'objet qui lui coûtait une mâchelière !\...
+
+Ce n'était point un caillou\... C'était un grain de plomb.

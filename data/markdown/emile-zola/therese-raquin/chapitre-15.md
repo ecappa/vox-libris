@@ -1,0 +1,44 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[THÉRÈSE RAQUIN]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778539 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778201 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777863 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777525 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777187 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776511 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776173 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775835 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775497 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775159 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774821 .pcalibre .calibre3 .pcalibre1}[XV]{#_Toc368774483 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_29 .calibre25}
+
+[Laurent revint parfois, le soir, tous les deux ou trois jours. Il restait dans la boutique, causant avec Mme Raquin pendant une demi-heure. Puis il s\'en allait, sans avoir regardé Thérèse en face. La vieille mercière le considérait comme le sauveur de sa nièce, comme un noble cœur qui avait tout fait pour lui rendre son fils. Elle l\'accueillait avec une bonté attendrie.]{.calibre11}
+
+[Un jeudi soir, Laurent se trouvait là, lorsque le vieux Michaud et Grivet entrèrent. Huit heures sonnaient. L\'employé et l\'ancien commissaire avaient jugé chacun de leur côté qu\'ils pouvaient reprendre leurs chères habitudes, sans se montrer importuns, et ils arrivaient à la même minute, comme poussés par le même ressort. Derrière eux, Olivier et Suzanne firent leur entrée.]{.calibre11}
+
+[On monta dans la salle à manger. Mme Raquin, qui n\'attendait personne, se hâta d\'allumer la lampe et de faire du thé. Lorsque tout le monde se fut assis autour de la table, chacun devant sa tasse, lorsque la boîte de dominos eut été vidée, la pauvre mère, subitement ramenée dans le passé, regarda ses invités et éclata en sanglots. Il y avait une place vide, la place de son fils.]{.calibre11}
+
+[Ce désespoir glaça et ennuya la société. Tous les visages avaient un air de béatitude égoïste. Ces gens se trouvèrent gênés, n\'ayant plus dans le cœur le moindre souvenir vivant de Camille.]{.calibre11}
+
+[--- Voyons, chère dame, s\'écria le vieux Michaud avec une légère impatience, il ne faut pas vous désespérer comme cela. Vous vous rendrez malade.]{.calibre11}
+
+[--- Nous sommes tous mortels, affirma Grivet.]{.calibre11}
+
+[--- Vos pleurs ne vous rendront pas votre fils, dit sentencieusement Olivier.]{.calibre11}
+
+[--- Je vous en prie, murmura Suzanne, ne nous faites pas de la peine.]{.calibre11}
+
+[Et comme Mme Raquin sanglotait plus fort, ne pouvant arrêter ses larmes :]{.calibre11}
+
+[--- Allons, allons, reprit Michaud, un peu de courage. Vous comprenez bien que nous venons ici pour vous distraire. Que diable ! ne nous attristons pas, tâchons d\'oublier... Nous jouons à deux sous la partie. Hein ! qu\'en dites-vous ?]{.calibre11}
+
+[La mercière rentra ses pleurs, dans un effort suprême. Peut-être eut-elle conscience de l\'égoïsme heureux de ses hôtes. Elle essuya ses yeux, encore toute secouée. Les dominos tremblaient dans ses pauvres mains, et les larmes restées sous ses paupières l\'empêchaient de voir.]{.calibre11}
+
+[On joua.]{.calibre11}
+
+[Laurent et Thérèse avaient assisté à cette courte scène d\'un air grave et impassible. Le jeune homme était enchanté de voir revenir les soirées du jeudi. Il les souhaitait ardemment, sachant qu\'il aurait besoin de ces réunions pour atteindre son but. Puis, sans se demander pourquoi, il se sentait plus à l\'aise au milieu de ces quelques personnes qu\'il connaissait, il osait regarder Thérèse en face.]{.calibre11}
+
+[La jeune femme, vêtue de noir, pâle et recueillie, lui parut avoir une beauté qu\'il ignorait encore. Il fut heureux de rencontrer ses regards et de les voir s\'arrêter sur les siens avec une fixité courageuse. Thérèse lui appartenait toujours, chair et cœur.]{.calibre11}

@@ -1,0 +1,20 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTERNEL ADAM"
+slug_oeuvre: "leternel-adam"
+section: "Chapitre 09"
+slug_section: "chapitre-09"
+type: "chapitre"
+---
+
+]
+
+CONTES ET NOUVELLES
+
+L'ÉTERNEL ADAM
+
+]
+
+## Chapitre 9
+Malgré les décès que j'ai relatés ci-dessus, la petite tribu que nous formons n'a pas diminué, au contraire. Mon fils et ma pupille ont trois enfants, et chacun des trois autres ménages en a autant. Toute cette marmaille éclate de santé. C'est à croire que l'espèce humaine possède une vigueur plus grande, une vitalité plus intense, depuis qu'elle est si réduite en nombre. Mais que de causes...

@@ -1,0 +1,187 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE COMTE DE CHANTELEINE",
+  "slug": "le-comte-de-chanteleine",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Dix mois d'une guerre héroïque",
+      "slug": "chapitre-1-dix-mois-dune-guerre-heroique",
+      "is_part": false,
+      "spine_start": 2111,
+      "spine_end_exclusive": 2112,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_101.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – La route de Guérande",
+      "slug": "chapitre-2-la-route-de-guerande",
+      "is_part": false,
+      "spine_start": 2112,
+      "spine_end_exclusive": 2113,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_102.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – La traversée",
+      "slug": "chapitre-3-la-traversee",
+      "is_part": false,
+      "spine_start": 2113,
+      "spine_end_exclusive": 2114,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_103.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Le château de Chanteleine",
+      "slug": "chapitre-4-le-chateau-de-chanteleine",
+      "is_part": false,
+      "spine_start": 2114,
+      "spine_end_exclusive": 2115,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_104.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Quimper en 1793",
+      "slug": "chapitre-5-quimper-en-1793",
+      "is_part": false,
+      "spine_start": 2115,
+      "spine_end_exclusive": 2116,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_105.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – L'auberge du Triangle-Égalitaire",
+      "slug": "chapitre-6-lauberge-du-triangle-egalitaire",
+      "is_part": false,
+      "spine_start": 2116,
+      "spine_end_exclusive": 2117,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_106.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Le cimetière",
+      "slug": "chapitre-7-le-cimetiere",
+      "is_part": false,
+      "spine_start": 2117,
+      "spine_end_exclusive": 2118,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_107.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – La fuite",
+      "slug": "chapitre-8-la-fuite",
+      "is_part": false,
+      "spine_start": 2118,
+      "spine_end_exclusive": 2119,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_108.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Douarnenez",
+      "slug": "chapitre-9-douarnenez",
+      "is_part": false,
+      "spine_start": 2119,
+      "spine_end_exclusive": 2120,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_109.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – L'île Tristan",
+      "slug": "chapitre-10-lile-tristan",
+      "is_part": false,
+      "spine_start": 2120,
+      "spine_end_exclusive": 2121,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_110.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Quelques jours de bonheur",
+      "slug": "chapitre-11-quelques-jours-de-bonheur",
+      "is_part": false,
+      "spine_start": 2121,
+      "spine_end_exclusive": 2122,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_111.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Le départ",
+      "slug": "chapitre-12-le-depart",
+      "is_part": false,
+      "spine_start": 2122,
+      "spine_end_exclusive": 2123,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_112.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Les prêtres mystérieux",
+      "slug": "chapitre-13-les-pretres-mysterieux",
+      "is_part": false,
+      "spine_start": 2123,
+      "spine_end_exclusive": 2124,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_113.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Les grottes de Morgat",
+      "slug": "chapitre-14-les-grottes-de-morgat",
+      "is_part": false,
+      "spine_start": 2124,
+      "spine_end_exclusive": 2125,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_114.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – La confession",
+      "slug": "chapitre-15-la-confession",
+      "is_part": false,
+      "spine_start": 2125,
+      "spine_end_exclusive": 2126,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_115.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Le 9 Thermidor",
+      "slug": "chapitre-16-le-9-thermidor",
+      "is_part": false,
+      "spine_start": 2126,
+      "spine_end_exclusive": 2127,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneI_split_116.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

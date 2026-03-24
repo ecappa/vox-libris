@@ -1,0 +1,66 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "UN DRAME AU MEXIQUE",
+  "slug": "un-drame-au-mexique",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Chapitre 1 – De l'île Guajan à Acapulco",
+      "slug": "chapitre-1-de-lile-guajan-a-acapulco",
+      "is_part": false,
+      "spine_start": 2241,
+      "spine_end_exclusive": 2242,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_217.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – D'Acapulco à Cigualan",
+      "slug": "chapitre-2-dacapulco-a-cigualan",
+      "is_part": false,
+      "spine_start": 2242,
+      "spine_end_exclusive": 2243,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_218.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – De Cigualan à Tasco",
+      "slug": "chapitre-3-de-cigualan-a-tasco",
+      "is_part": false,
+      "spine_start": 2243,
+      "spine_end_exclusive": 2244,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_219.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – De Tasco à Cuernavaca",
+      "slug": "chapitre-4-de-tasco-a-cuernavaca",
+      "is_part": false,
+      "spine_start": 2244,
+      "spine_end_exclusive": 2245,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_220.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – De Cuernavaca au Popocatepelt",
+      "slug": "chapitre-5-de-cuernavaca-au-popocatepelt",
+      "is_part": false,
+      "spine_start": 2245,
+      "spine_end_exclusive": 2246,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_221.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

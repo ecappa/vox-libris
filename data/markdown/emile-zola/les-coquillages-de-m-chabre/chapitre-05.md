@@ -1,0 +1,161 @@
+::: WordSection
+[
+]{.calibre30 lang="EN-US"}
+
+!{#Image5968 .calibre31}[
+
+[CONTES ET NOUVELLES]{lang="EN-US"}
+
+[LES COQUILLAGES DE M. CHABRE]{lang="EN-GB"}
+
+
+[[[Liste des contes et nouvelles]{.calibre39}](../Text/Zola4_split_000.htm){.pcalibre .calibre3 .pcalibre1}]{.calibre40}
+
+!{#Image5969 .calibre35}
+
+## []{#_Toc368832976 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832702 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832428 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368832154 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831880 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831606 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831332 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368831058 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830784 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830510 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368830236 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829962 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829688 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829414 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368829140 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828866 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828592 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368828318 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368828044 .pcalibre .calibre3 .pcalibre1} {#v .calibre43}
+
+
+Les Chabre ne devaient plus passer que deux jours à Piriac. Hector semblait consterné, furieux et humble pourtant. Quant à M. Chabre, il interrogeait sa santé chaque matin et se montrait perplexe.
+
+« Vous ne pouvez pas quitter la côte sans avoir vu les rochers du Castelli, dit un soir Hector. Il faudrait organiser pour demain une promenade. »
+
+Et il donna des explications. Les rochers se trouvaient à un kilomètre seulement. Ils longeaient la mer sur une demi-lieue d'étendue, creusés de grottes, effondrés par les vagues. À l'entendre, rien n'était plus sauvage.
+
+« Eh bien ! Nous irons demain, finit par dire Estelle. La route est-elle difficile ?
+
+--- Non, il y a deux ou trois passages où l'on se mouille les pieds, voilà tout. »
+
+Mais M. Chabre ne voulait plus même se mouiller les pieds. Depuis son bain de la pêche aux crevettes, il nourrissait contre la mer une rancune. Aussi se montra-t-il très hostile à ce projet de promenade. C'était ridicule d'aller se risquer ainsi ; lui, d'abord, ne descendrait pas au milieu de ces rochers, car il n'avait point envie de se casser les jambes, en sautant comme une chèvre ; il les accompagnerait par le haut de la falaise, s'il le fallait absolument ; et encore faisait-il là une grande concession.
+
+Hector, pour le calmer, eut une inspiration soudaine.
+
+« Écoutez, dit-il, vous passerez devant le sémaphore du Castelli. Eh bien ! Vous pourrez entrer et acheter des coquillages aux hommes du télégraphe... Ils en ont toujours de superbes, qu'ils donnent presque pour rien.
+
+--- Ça, c'est une idée, reprit l'ancien marchand de grains, remis en belle humeur... J'emporterai un petit panier, je m'en bourrerai encore une fois... »
+
+Et, se tournant vers sa femme, avec une intention gaillarde :
+
+« Dis, ce sera peut-être la bonne ! »
+
+Le lendemain, il fallut attendre la marée basse pour se mettre en marche. Puis, comme Estelle n'était pas prête, on s'attarda, on ne partit qu'à cinq heures du soir. Hector affirmait pourtant qu'on ne serait pas gagné par la haute mer. La jeune femme avait ses pieds nus dans des bottines de coutil. Elle portait gaillardement une robe de toile grise, très courte, qu'elle relevait et qui découvrait ses fines chevilles. Quant à M. Chabre, il était correctement en pantalon blanc et en paletot d'alpaga. Il avait pris son ombrelle et il tenait un petit panier, de l'air convaincu d'un bourgeois parisien allant faire lui-même son marché.
+
+La route fut pénible pour arriver aux premières roches. On marchait sur une plage de sable mouvant, dans laquelle les pieds entraient. L'ancien marchand de grains soufflait comme un boeuf.
+
+« Eh bien ! Je vous laisse, je monte là-haut, dit-il enfin.
+
+--- C'est cela, prenez ce sentier, répondit Hector. Plus loin, vous seriez bloqué... Vous ne voulez pas qu'on vous aide ? »
+
+Et ils le regardèrent gagner le sommet de la falaise. Lorsqu'il y fut, il ouvrit son ombrelle et balança son panier en criant :
+
+« J'y suis, on est mieux là !... Et pas d'imprudence, n'est-ce pas ? D'ailleurs, je vous surveille. »
+
+Hector et Estelle s'engagèrent au milieu des roches. Le jeune homme, chaussé de hautes bottines, marchait le premier, sautait de pierre en pierre avec la grâce forte et l'adresse d'un chasseur de montagnes. Estelle, très hardie, choisissait les mêmes pierres ; et lorsqu'il se retournait, pour lui demander :
+
+« Voulez-vous que je vous donne la main ?
+
+--- Mais non, répondait-elle. Vous me croyez donc une grand-mère ! »
+
+Ils étaient alors sur un vaste parquet de granit, que la mer avait usé, en le creusant de sillons profonds. On aurait dit les arêtes de quelque monstre perçant le sable, mettant au ras du sol la carcasse de ses vertèbres disloquées. Dans les creux, des filets d'eau coulaient, des algues noires retombaient comme des chevelures. Tous deux continuaient à sauter, restant en équilibre par instants, éclatant de rire quand un caillou roulait.
+
+« On est comme chez soi, répétait gaiement Estelle. On les mettrait dans son salon, vos rochers !
+
+--- Attendez, attendez ! disait Hector. Vous allez voir. »
+
+Ils arrivaient à un étroit passage, à une sorte de fente, qui bâillait entre deux énormes blocs. Là, dans une cuvette, il y avait une mare, un trou d'eau qui bouchait le chemin.
+
+« Mais jamais je ne passerai ! » s'écria la jeune femme.
+
+Lui, proposa de la porter. Elle refusa d'un long signe de tête : elle ne voulait plus être portée. Alors, il chercha partout de grosses pierres, il essaya d'établir un pont. Les pierres glissaient, tombaient au fond de l'eau.
+
+« Donnez-moi la main, je vais sauter », finit-elle par dire, prise d'impatience.
+
+Et elle sauta trop court, un de ses pieds resta dans la mare. Cela les fit rire. Puis, comme ils sortaient de l'étroit passage, elle laissa échapper un cri d'admiration.
+
+Une crique se creusait, emplie d'un écroulement gigantesque de roches. Des blocs énormes se tenaient debout, comme des sentinelles avancées, postées au milieu des vagues. Le long des falaises, les gros temps avaient mangé la terre, ne laissant que les masses dénudées du granit ; et c'étaient des baies enfoncées entre des promontoires, des détours brusques déroulant des salles intérieures, des bancs de marbre noirâtre allongés sur le sable, pareils à de grands poissons échoués. On aurait dit une ville cyclopéenne prise d'assaut et dévastée par la mer, avec ses remparts renversés, ses tours à demi démolies, ses édifices culbutés les uns sur les autres. Hector fit visiter à la jeune femme les moindres recoins de cette ruine des tempêtes. Elle marchait sur des sables fins et jaunes comme une poudre d'or, sur des galets que des paillettes de mica allumaient au soleil, sur des éboulements de rocs où elle devait par moments s'aider de ses deux mains, pour ne pas rouler dans les trous. Elle passait sous des portiques naturels, sous des arcs de triomphe qui affectaient le plein cintre de l'art roman et l'ogive élancée de l'art gothique. Elle descendait dans des creux pleins de fraîcheur, au fond de déserts de dix mètres carrés, amusée par les chardons bleuâtres et les plantes grasses d'un vert sombre qui tachaient les murailles grises des falaises, intéressée par des oiseaux de mer familiers, de petits oiseaux bruns, volant à la portée de sa main, avec un léger cri cadencé et continu. Et ce qui l'émerveillait surtout, c'était, du milieu des roches, de se retourner et de retrouver toujours la mer, dont la ligne bleue reparaissait et s'élargissait entre chaque bloc, dans sa grandeur tranquille.
+
+« Ah ! Vous voilà ! Cria M. Chabre du haut de la falaise. J'étais inquiet, je vous avais perdus... Dites donc, c'est effrayant, ces gouffres ! »
+
+Il était à six pas du bord, prudemment, abrité par son ombrelle, son panier passé au bras. Il ajouta :
+
+« Elle monte joliment vite, prenez garde !
+
+--- Nous avons le temps, n'ayez pas peur », répondit Hector.
+
+Estelle, qui s'était assise, restait sans paroles devant l'immense horizon. En face d'elle, trois piliers de granit, arrondis par le flot, se dressaient, pareils aux colonnes géantes d'un temple détruit. Et, derrière, la haute mer s'étendait sous la lumière dorée de six heures, d'un bleu de roi pailleté d'or. Une petite voile, très loin, entre deux des piliers, mettait une tache d'un blanc éclatant, comme une aile de mouette rasant l'eau. Du ciel pâle, la sérénité prochaine du crépuscule tombait déjà. Jamais Estelle ne s'était sentie pénétrée d'une volupté si vaste et si tendre.
+
+« Venez », lui dit doucement Hector, en la touchant de la main.
+
+Elle tressaillit, elle se leva, prise de langueur et d'abandon.
+
+« C'est le sémaphore, n'est-ce pas, cette maisonnette avec ce mât ? cria M. Chabre. Je vais chercher des coquillages, je vous rattraperai. »
+
+Alors, Estelle, pour secouer la paresse molle dont elle était envahie, se mit à courir comme une enfant. Elle enjambait les flaques, elle s'avançait vers la mer, saisie du caprice de monter au sommet d'un entassement de rocs, qui devait former une île, à marée haute. Et, lorsque, après une ascension laborieuse au milieu des crevasses, elle atteignit le sommet, elle se hissa sur la pierre la plus élevée, elle fut heureuse de dominer la dévastation tragique de la côte. Son mince profil se détachait dans l'air pur, sa jupe claquait au vent ainsi qu'un drapeau.
+
+Et, en redescendant, elle se pencha sur tous les trous qu'elle rencontra. C'étaient, dans les moindres cavités, de petits lacs tranquilles et dormants, des eaux d'une limpidité parfaite, dont les clairs miroirs réfléchissaient le ciel. Au fond, des herbes d'un vert d'émeraude plantaient des forêts romantiques. Seuls, de gros crabes noirs sautaient, pareils à des grenouilles, et disparaissaient, sans même troubler l'eau. La jeune femme restait rêveuse, comme si elle eût fouillé du regard des pays mystérieux, de vastes contrées inconnues et heureuses.
+
+Quand ils furent revenus au pied des falaises, elle s'aperçut que son compagnon avait empli son mouchoir d'arapèdes.
+
+« C'est pour M. Chabre, dit-il. Je vais les lui monter. »
+
+Justement, M. Chabre arrivait désolé.
+
+« Ils n'ont pas seulement une moule au sémaphore, cria-t-il. Je ne voulais pas venir, j'avais raison. »
+
+Mais, lorsque le jeune homme lui eut montré de loin les arapèdes, il se calma. Et il resta stupéfié de l'agilité avec laquelle celui-ci grimpait, par un chemin connu de lui seul, le long d'une roche qui semblait lisse comme une muraille. La descente fut plus audacieuse encore.
+
+« Ce n'est rien, disait Hector, un vrai escalier ; seulement, il faut savoir où sont les marches. »
+
+M. Chabre voulait qu'on retournât en arrière, la mer devenait inquiétante. Et il suppliait sa femme de remonter au moins, de chercher un petit chemin commode. Le jeune homme riait, en répondant qu'il n'y avait point de chemin pour les dames, qu'il fallait maintenant aller jusqu'au bout. D'ailleurs, ils n'avaient pas vu les grottes. Alors, M. Chabre dut se remettre à suivre la crête des falaises. Comme le soleil se couchait, il ferma son ombrelle et s'en servit en guise de canne. De l'autre main, il portait son panier d'arapèdes.
+
+« Vous êtes lasse ? demanda doucement Hector.
+
+--- Oui, un peu », répondit Estelle.
+
+Elle accepta son bras. Elle n'était point lasse, mais un abandon délicieux l'envahissait de plus en plus. L'émotion qu'elle venait d'éprouver, en voyant le jeune homme suspendu au flanc des roches, lui avait laissé un tremblement intérieur. Ils s'avancèrent avec lenteur sur une grève ; sous leurs pieds, le gravier, fait de débris de coquillages, criait comme dans les allées d'un jardin ; et ils ne parlaient plus. Il lui montra deux larges fissures, le Trou du Moine Fou et la Grotte du Chat. Elle entra, leva les yeux, eut seulement un petit frisson. Quand ils reprirent leur marche, le long d'un beau sable fin, ils se regardèrent, ils restèrent encore muets et souriants. La mer montait, par courtes lames bruissantes, et ils ne l'entendaient pas. M. Chabre, au-dessus d'eux, se mit à crier, et ils ne l'entendirent pas davantage.
+
+« Mais c'est fou ! Répétait l'ancien marchand de grains, en agitant son ombrelle et son panier d'arapèdes. Estelle !... monsieur Hector !... Écoutez donc ! Vous allez être gagnés ! Vous avez déjà les pieds dans l'eau ! »
+
+Eux ne sentaient point la fraîcheur des petites vagues.
+
+« Hein ? Qu'y a-t-il ? finit par murmurer la jeune femme.
+
+--- Ah ! C'est vous, monsieur Chabre ! dit le jeune homme. Ça ne fait rien, n'ayez pas peur... Nous n'avons plus à voir que la Grotte à Madame. »
+
+M. Chabre eut un geste de désespoir, en ajoutant : « C'est de la démence ! Vous allez vous noyer. »
+
+Ils ne l'écoutaient déjà plus. Pour échapper à la marée croissante, ils s'avancèrent le long des rochers, et arrivèrent enfin à la Grotte à Madame. C'était une excavation creusée dans un bloc de granit, qui formait promontoire. La voûte, très élevée, s'arrondissait en large dôme. Pendant les tempêtes, le travail des eaux avait donné aux murs un poli et un luisant d'agate. Des veines roses et bleues, dans la pâte sombre du roc, dessinaient des arabesques d'un goût magnifique et barbare, comme si des artistes sauvages eussent décoré cette salle de bains des reines de la mer. Les graviers du sol, mouillés encore, gardaient une transparence qui les faisait ressembler à un lit de pierres précieuses. Au fond, il y avait un banc de sable, doux et sec, d'un jaune pâle, presque blanc.
+
+Estelle s'était assise sur le sable. Elle examinait la grotte.
+
+« On vivrait là », murmura-t-elle.
+
+Mais Hector, qui paraissait guetter la mer depuis un instant, affecta brusquement une consternation.
+
+« Ah ! Mon Dieu ! Nous sommes pris ! Voilà le flot qui nous a coupé le chemin... Nous en avons pour deux heures à attendre. »
+
+Il sortit, chercha M. Chabre, en levant la tête. M. Chabre était sur la falaise, juste au-dessus de la grotte, et quand le jeune homme lui eut annoncé qu'ils étaient bloqués :
+
+« Qu'est-ce que je vous disais ? cria-t-il triomphalement, mais vous ne voulez jamais m'écouter... Y a-t-il quelque danger ?
+
+--- Aucun, répondit Hector. La mer n'entre que de cinq ou six mètres dans la grotte. Seulement, ne vous inquiétez pas, nous ne pourrons en sortir avant deux heures. »
+
+M. Chabre se fâcha. Alors, on ne dînerait pas ? Il avait déjà faim, lui ! C'était une drôle de partie tout de même ! Puis, en grognant, il s'assit sur l'herbe courte, il mit son ombrelle à sa gauche et son panier d'arapèdes à sa droite.
+
+« J'attendrai, il le faut bien ! Cria-t-il. Retournez auprès de ma femme, et tâchez qu'elle ne prenne pas froid. »
+
+Dans la grotte, Hector s'assit près d'Estelle. Au bout d'un silence, il osa s'emparer d'une main qu'elle ne retira pas. Elle regardait au loin. Le crépuscule tombait, une poussière d'ombre pâlissait peu à peu le soleil mourant. À l'horizon, le ciel prenait une teinte délicate, d'un violet tendre, et la mer s'étendait, lentement assombrie, sans une voile. Peu à peu, l'eau entrait dans la grotte, roulant avec un bruit doux les graviers transparents. Elle y apportait les voluptés du large, une voix caressante, une odeur irritante, chargée de désirs.
+
+« Estelle, je vous aime », répétait Hector, en lui couvrant les mains de baisers.
+
+Elle ne répondait pas, étouffée, comme soulevée par cette mer qui montait. Sur le sable fin, à demi couchée maintenant, elle ressemblait à une fille des eaux, surprise et déjà sans défense.
+
+Et, brusquement, la voix de M. Chabre leur arriva, légère, aérienne.
+
+« Vous n'avez pas faim ? Je crève, moi !... Heureusement que j'ai mon couteau. Je prends un acompte, vous savez, je mange les arapèdes. »
+
+« Je vous aime, Estelle », répétait toujours Hector, qui la tenait à pleins bras.
+
+La nuit était noire, la mer blanche éclairait le ciel. À l'entrée de la grotte, l'eau avait une longue plainte, tandis que, sous la voûte, un dernier reste de jour venait de s'éteindre. Une odeur de fécondité montait des vagues vivantes. Alors, Estelle laissa lentement tomber sa tête sur l'épaule d'Hector. Et le vent du soir emporta des soupirs.
+
+En haut, à la clarté des étoiles, M. Chabre mangeait ses coquillages, méthodiquement. Il s'en donnait une indigestion, sans pain, avalant tout.

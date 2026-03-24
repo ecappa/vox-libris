@@ -1,0 +1,352 @@
+### []{#_Toc343185866 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343183405 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343180944 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343178483 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343176022 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343173561 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343171100 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343168639 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343166178 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343163717 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343161256 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343158795 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343149525 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343147064 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343144601 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343142140 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343139679 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343137217 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343134756 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343132295 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343129833 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343127372 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343124908 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343122447 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343119986 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343117532 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343115069 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343112608 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343110147 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343106403 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343103941 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343101478 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343099053 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343096584 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343094122 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343091644 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343089181 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343086719 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343084256 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343081794 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343079333 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343076870 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343074407 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343071941 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343043981 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343039085 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343036720 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343034355 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343031990 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343028434 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343026069 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343023704 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343021338 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343018972 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343016607 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343014242 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343011875 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343009510 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343007145 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343004780 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343002415 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc343000050 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342997685 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342995320 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342992955 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342990590 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342988225 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342985858 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342983493 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342981128 .pcalibre .pcalibre2 .pcalibre1}[]{#_Toc342978763 .pcalibre .pcalibre2 .pcalibre1}[[Chapitre 12 -- Singuliers effets du mal de mer]{.pcalibre lang="X-NONE"}]{#_Toc342942782 .pcalibre .pcalibre2 .pcalibre1} {#chapitre-12-singuliers-effets-du-mal-de-mer .calibre171 .sigil_not_in_toc}
+
+Lorsque les passagers, en quittant Thargela et son heureux mari, étaient rentrés à bord, ils avaient trouvé cinq des agents de police préposés à leur surveillance se promenant régulièrement sur le pont, pendant que leurs cinq camarades, dans le poste de l\'équipage, et leur officier, dans la chambre mise à sa disposition, se livraient aux douceurs du sommeil. Et cependant, en dépit de cette garde vigilante, le Seamew, quand se leva le soleil du 26 mai, flottait librement sur la vaste mer, à plus de trente milles de Saint-Michel.
+
+Cela devenait une habitude.
+
+Pour fuir, il n\'avait pas fallu, cette fois, braver les projectiles portugais. Cela s\'était fait tout seul, à la faveur d\'une brume épaisse qui, vers deux heures du matin, avait recouvert toutes choses sous un voile impénétrable. Le lieutenant et ses cinq hommes endormis enfermés à double tour, les cinq autres terrassés en un tour de main, le Seamew était bien tranquillement parti, absolument comme si l\'arrêté du gouvernement n\'avait pas existé.
+
+Une heure plus tard, le lieutenant délivré s\'était vu contraint de subir la loi du vainqueur et d\'accepter une capitulation désastreuse. Ses hommes avaient été désarmés, et le Seamew les emportait avec lui, pour les déposer seulement à Madère, au moment où il s\'éloignerait de cette possession portugaise.
+
+Terrassé par ce revers soudain, le malheureux lieutenant se promenait d\'un air soucieux. Et, songeant combien cette aventure nuirait à son avancement, il faisait piteuse mine, tandis que, dans l\'aube grandissante, se découvrait la libre étendue de la mer.
+
+Le capitaine Pip, lui non plus, n\'était pas allé chercher un repos cependant bien mérité. Indépendamment du danger qui pouvait résulter d\'un groupe de récifs nommé « Les Fourmis », l\'apparence du temps nécessitait sa présence. Bien qu\'il n\'y eût à proprement parler aucune menace de tempête, la mer était grosse d\'une manière anormale ; le Seamew, la prenant debout, avançait avec peine et tanguait lourdement.
+
+Si le capitaine assumait ainsi tous les soucis du bord, c\'était apparemment pour que les autres en profitassent. Tel était l\'avis de Thompson qui, la conscience en paix, dormait à poings fermés depuis le départ, quand le contact d\'une main se posant sur son épaule le réveilla en sursaut.
+
+« Qu\'y a-t-il ? Quelle heure est-il ? » demanda-t-il en se frottant les yeux.
+
+Il aperçut alors la face d\'ébène du second maître d\'hôtel, master Sandweach. « Il est six heures, monsieur, répondit respectueusement celui-ci.
+
+--- Et qu\'y a-t-il ? répéta Thompson d\'un ton impatient.
+
+--- C\'est un valet de chambre des passagers qui m\'envoie vous prévenir qu\'on entend des gémissements terribles dans la cabine occupée par le gentleman portugais et ses deux frères. Il craint qu\'ils ne soient gravement malades et ne sait que faire. »
+
+Thompson réfléchit que les choses devaient être graves en effet pour que l\'on eût songé à venir le réveiller.
+
+« C\'est bon. J\'y vais », répondit-il avec humeur.
+
+Quand il fut dans la chambre des seigneurs portugais, il ne regretta pas d\'être venu. Don Hygin et ses frères paraissaient effectivement bien malades. Livides, les yeux clos, la face couverte d\'une sueur d\'agonie, ils demeuraient sur le dos, immobiles, mais poussant sans interruption des clameurs déchirantes. Leurs souffrances devaient être intolérables.
+
+« Quel damné concert ! » murmura Thompson.
+
+Du premier coup d\'oeil il avait été rassuré, en reconnaissant les signes d\'un mal de mer provoqué par la grosse houle actuelle. Pour être d\'une violence peu habituelle, ce malaise n\'en devenait pas plus dangereux.
+
+Toutefois, l\'humanité commandait de venir au secours de ces pauvres gens, et Thompson, on doit le dire à sa louange, ne faillit pas à ce devoir. Une heure durant, il leur prodigua des soins dévoués, et ce ne fut pas de sa faute s\'ils demeurèrent inefficaces.
+
+Mais, en vérité, il semblait plutôt que l\'état des trois frères allait en s\'aggravant. Thompson, en outre, remarquait avec inquiétude des symptômes que l\'on n\'a pas coutume d\'observer dans le mal de mer. De temps à autre, les malades de livides, devenaient tout à coup écarlates. Ils semblaient faire alors des efforts surhumains, pour retomber bientôt épuisés, la respiration sifflante, la peau glacée, la face revenue à une pâleur cadavérique.
+
+Thompson, à sept heures, jugea la situation si critique qu\'il fit réveiller Robert. Il éprouvait le besoin d\'un conseil.
+
+Robert ne put malheureusement en donner à son chef hiérarchique, et tous deux durent se reconnaître impuissants à soulager les trois malades auxquels le nom de moribonds commençait à mieux convenir.
+
+« Il faut pourtant tenter quelque chose, dit Robert vers huit heures. Si nous essayions de faire aboutir ces nausées qui s\'arrêtent toujours à moitié route ?
+
+--- Comment ? interrogea Thompson. Connaissez-vous un moyen ?
+
+--- L\'eau chaude, suggéra Robert.
+
+--- Essayons ! » s\'écria Thompson qui perdait la tête.
+
+Le moyen héroïque indiqué par Robert fut d\'un effet immédiat. Dès le second verre d\'eau chaude, les infirmiers improvisés obtinrent la preuve certaine de son efficacité.
+
+Mais qu\'ont donc vu Robert et Thompson ? Qu\'ont-ils cru voir plutôt ?
+
+Le doute est facile à éclaircir. L\'eau ne manque pas. Les cuvettes sont donc nettoyées avec précaution, et alors\...
+
+Alors, quel éblouissement !
+
+Des émeraudes, des rubis, des diamants, plus de cinquante pierres précieuses lancent leurs éclairs au fond de ces cuvettes souillées !
+
+Éperdus, Thompson et Robert se regardent en silence. En un instant, tout s\'est expliqué pour eux. Les voilà donc, les sacrilèges voleurs du crucifix de Tercère, les chefs tout au moins, et elle ne se trompait pas, la police açorienne, qui accusait le Seamew de leur servir de refuge ! Quelle meilleure cachette que leurs estomacs auraient pu trouver les coupables menacés par la perquisition de Saint-Michel ?
+
+Robert, le premier, reprend son sang-froid.
+
+« Ce secret est trop grand pour que nous le possédions à nous seuls, dit-il. Je vous demande donc la permission de faire venir un de vos passagers, le révérend Cooley, par exemple. »
+
+Thompson acquiesce d\'un signe de tête, et un domestique est envoyé à la recherche du respectable clergyman.
+
+Quand celui-ci arriva à son tour dans la cabine où haletaient les frères da Veiga, la situation était la même. Ne pouvait-il se faire toutefois que les voleurs, au fond de leurs estomacs, recelassent encore quelques-unes des pierres dérobées ? Pour s\'en assurer, il n\'y avait qu\'à continuer le traitement qui avait déjà si bien réussi.
+
+Bientôt, plus de trois cents pierres précieuses, de superbes diamants en majorité, furent récupérées par ce moyen original.
+
+Il parut alors que les trois malades, débarrassés de leur secret, étaient notablement soulagés. S\'ils souffraient toujours, il ne s\'agissait plus maintenant que du mal de mer habituel, et, de ce mal-là, aucun effet funeste n\'était à redouter. On rédigea alors de ces singuliers événements un procès-verbal dont le pasteur Cooley resta dépositaire, puis les pierres, comptées successivement par les trois conjurés, furent remises à Thompson qui, après les avoir enfermées, s\'en fut à la recherche du lieutenant réduit quelques heures plus tôt à une cruelle capitulation.
+
+Mais, comme il sortait du rouf, une ombre se dressa devant lui, et cette ombre, c\'était l\'inévitable Saunders flanqué de son reflet Sir Hamilton, tous deux dignes, calmes et sévères, comme il convient à des passagers mécontents.
+
+« Un mot, monsieur, dit Saunders, en arrêtant Thompson au passage. Nous voudrions savoir jusqu\'où vous comptez pousser cette plaisanterie.
+
+--- Quelle plaisanterie ? murmura Thompson impatiemment. Qu\'y a-t-il encore ?
+
+--- Sur quel ton vous le prenez, monsieur ! s\'écria Hamilton avec hauteur. Oui, monsieur, nous entendons savoir enfin si vous continuerez longtemps à mentir audacieusement à toutes les promesses d\'un programme auquel nous avons été assez sots pour ajouter foi ! »
+
+Comment ! Encore cette persécution du programme ! Thompson, préoccupé de questions autrement graves, haussa les épaules et, écartant nerveusement Hamilton, s\'élança sur le pont, laissant le baronnet suffoqué d\'un pareil procédé.
+
+Ayant trouvé le lieutenant, il l\'entraîna dans sa cabine par l\'annonce d\'une communication importante.
+
+« Lieutenant, dit-il dès qu\'ils furent assis, le sort des armes vous a été contraire tantôt.
+
+--- En effet, monsieur, répondit le lieutenant en se tenant sur la réserve.
+
+--- Et nous vous emmenons présentement à Madère.
+
+--- Il paraît, monsieur.
+
+--- C\'est là pour nous deux, lieutenant, une fâcheuse aventure, j\'ose le dire, et j\'imagine que si un bon moyen se présentait d\'arranger cette affaire à notre commun bénéfice !
+
+--- Difficile ! dit le lieutenant.
+
+--- Peut-être ! reprit Thompson. Vous n\'ignorez pas, lieutenant, que votre gouvernement a offert une prime de un pour cent à qui ferait pincer le voleur ?
+
+--- Oui, reconnut le lieutenant, mais je ne vois pas\...
+
+--- Attendez, lieutenant, attendez ! Nous pouvons peut-être nous entendre. Car, ce voleur\... Ces voleurs, plutôt\...
+
+--- Ces voleurs ?
+
+--- Je les tiens, dit tranquillement Thompson.
+
+--- Hein ? fit le lieutenant.
+
+--- Je les tiens, répéta Thompson, et je tiens aussi une bonne partie au moins des diamants volés ! »
+
+Le lieutenant, pâle d\'émotion, incapable d\'articuler une parole, avait saisi le bras de Thompson. Celui-ci acheva de formuler sa proposition.
+
+« Dès lors, vous comprenez, lieutenant, cette prime de un pour cent m\'appartient. Eh bien ! Arrangez notre affaire d\'une manière quelconque, en disant par exemple que vous êtes parti volontairement dans le but de pincer les voleurs dont la présence donnera beaucoup d\'autorité à votre affirmation, et je suis prêt à vous abandonner une part, le cinquième, le quart au besoin, de la prime qui m\'est due.
+
+--- Oh, çà ! fit le lieutenant avec une indifférence qui n\'avait rien de flatteur pour la générosité du gouvernement portugais.
+
+--- Eh bien ! Acceptez-vous ? Insista Thompson.
+
+--- Et si je refuse ?
+
+--- Si vous refusez, répondit Thompson, mettons que je n\'aie rien dit. Je vous dépose paisiblement à Madère, et je garde mes voleurs, pour les remettre entre les mains du consul d\'Angleterre, qui saura bien m\'en assurer tout l\'honneur et le profit. »
+
+Un travail rapide se faisait dans l\'esprit du lieutenant. Refuser les propositions de Thompson, c\'était retourner à Saint-Michel l\'oreille basse, avec la honte de s\'être laissé surprendre comme un enfant. Les accepter, c\'était au contraire revenir avec les honneurs de la guerre, car le succès justifie tout. Même en comptant comme absolument négligeable la chance de toucher jamais un sou de la prime promise, cette aventure lui serait encore profitable, en le servant dans l\'esprit de ses chefs, puisqu\'il pourrait, dans ce cas, s\'attribuer tout le mérite de la capture.
+
+« J\'accepte, dit-il d\'un ton résolu.
+
+--- Fort bien, approuva Thompson. Nous allons, dans ce cas, s\'il vous plaît, régler cette affaire sur-le-champ. »
+
+Le compromis, dont les bases venaient d\'être jetées, fut rédigé et signé par les deux parties. Thompson remit aussitôt à l\'officier les pierreries retrouvées et s\'en fit délivrer reçu. Il put alors respirer, et se féliciter d\'avoir mené à bonne fin cette importante affaire.
+
+Pendant que Thompson conduisait aussi bien cette négociation, une colère redoutable s\'amoncelait au même instant dans le coeur d\'Hamilton.
+
+Revenu de la stupéfaction où l\'avait plongé l\'impertinence de Thompson, le baronnet, tout bouillant de fureur, s\'était élancé à la poursuite de l\'insolent. Il ne put le retrouver. Il se retourna alors vers le capitaine Pip, qui, descendu de la passerelle, se promenait innocemment en fumant le cigare matinal.
+
+« Captain, prononça-t-il d\'une voix contenue, pouffais-je savoir à qui je dois sur ce bord présenter mes réclamations ? »
+
+Le capitaine ouvrit les bras en signe d\'ignorance.
+
+« À Artimon, peut-être ! Formula-t-il d\'un air rêveur.
+
+--- Captain ! s\'écria le baronnet rouge de colère.
+
+--- Sir ? répliqua le capitaine paisiblement.
+
+--- Captain, je trouve qu\'on s\'est suffisamment moqué de moi ici. Puisque vous êtes responsable de la marche du navire, daignerez-vous me dire pourquoi je puis encore apercevoir à l\'arrière les roches des \" Fourmis \" ? Pourquoi, à dix heures du matin, nous sommes à peine par le travers de Sainte-Marie ? Pourquoi, après huit heures de navigation, l\'île de Saint-Michel est encore en vue ?
+
+--- Saint-Michel ? répéta le capitaine avec incrédulité.
+
+--- Oui, monsieur, Saint-Michel », affirma sévèrement le baronnet, en montrant un point noir coupant la ligne de l\'horizon entre les Fourmis et Sainte-Marie.
+
+Le capitaine s\'était emparé d\'une longue-vue.
+
+« Si c\'est là Saint-Michel, dit-il enfin d\'un air goguenard, c\'est donc que Saint-Michel est une île à vapeur ! Car elle fume, monsieur. »
+
+Et le capitaine remonta sur sa passerelle, tandis que le baronnet furieux combinait en soi-même de terribles projets de vengeance.
+
+Pour cavalièrement qu\'elles fussent reçues, les observations d\'Hamilton n\'en étaient pas moins justes. Mais le capitaine ne l\'avait pas attendu pour les faire lui-même. Dès le lever du jour, le sillage lui avait montré que la vitesse du Seamew était, de douze noeuds, subitement tombée à huit environ.
+
+Mr. Bishop, appelé, ne fut pas rassurant. Depuis l\'appareillage, il poussait en vain ses feux. Impossible de faire monter la pression. La faute en était certainement à la mauvaise qualité du charbon livré à Horta. Jusque-là on avait vécu sur les réserves d\'Angleterre, mais, depuis le départ de Saint-Michel, force avait bien été de recourir à la houille nouvellement embarquée, et le fâcheux effet s\'en faisait aussitôt sentir.
+
+Mr. Bishop n\'ajouta, et le capitaine ne lui demanda rien de plus. Des hommes sensés ne s\'insurgent pas contre l\'impossible. Puisqu\'on ne pouvait dépasser huit noeuds, on ferait huit noeuds, voilà tout, et l\'on arriverait à Madère avec un nouveau retard de vingt-quatre heures. La mer manifestant une tendance à mollir, le baromètre demeurant à une hauteur raisonnable, le capitaine n\'avait pas à s\'inquiéter, et il ne s\'inquiéta pas. Il garda seulement de cette déconvenue un peu de mauvaise humeur, dont Hamilton devait recevoir le trop-plein.
+
+Cet orage, tout réduit qu\'il fût, suffit pourtant à débarrasser le brave capitaine de son excès d\'électricité. Un caractère aussi égal ne pouvait tarder à reprendre son équilibre. Ce fut donc dans les meilleures dispositions qu\'il s\'assit en face de Thompson, à la table du déjeuner, que l\'agitation des flots avait largement dégarnie.
+
+Toutefois son humeur s\'assombrit de nouveau, quand, remonté sur le pont, il vit le même point que Sir Hamilton lui avait signalé, obstinément fixé dans le sillage du Seamew. Cette obstination lui donna à penser.
+
+Ce vapeur ne pouvait-il avoir été envoyé à sa poursuite par le gouverneur de Saint-Michel ? Il est vrai que ce pouvait être tout aussi bien un paquebot effectuant sa traversée normale entre les Açores et Madère. L\'avenir fournirait la solution de ce problème.
+
+Ces soucis de la passerelle, le spardeck les ignorait, et pourtant il n\'avait pas son animation coutumière. Non seulement la grosse houle avait diminué le nombre de ses habituels promeneurs, mais encore, semblait-il, le mécontentement de la veille continuait à peser sur les passagers demeurés valides. Ils allaient et venaient isolément. Réfractaires aux invites des fauteuils groupés amicalement, la plupart restaient debout, solitaires, accrochés aux batayoles pour conserver leur équilibre.
+
+Hamilton, le coeur ulcéré, offrait au vent du ciel son front qu\'avait rougi l\'outrage. Pour rien au monde, il n\'eût adressé la parole à un être vivant, et son ressentiment s\'en prenait à toute la nature. Retranché dans sa dignité, il ressassait à satiété les scènes du matin, tandis que sa fille, sous la surveillance de Lady Hamilton, causait avec Tigg, rendu à la liberté par le malaise des Misses Blockhead.
+
+Hamilton constatait cette aimable causerie. Lui, il était seul. Si du moins son ami don Hygin avait été là ! Mais don Hygino gisait dans sa cabine, terrassé par le mal de mer, et Hamilton se jugeait avec amertume abandonné de tout l\'univers.
+
+La tristesse du baronnet avait-elle donc déteint sur ses compagnons ? On l\'eût juré, à voir leurs visages moroses.
+
+Dolly occupée à quelques rangements, Alice Lindsay, momentanément seule, était allée s\'asseoir à l\'extrême arrière, à une place qu\'elle affectionnait particulièrement. Accoudée à la batayole du couronnement, elle laissait errer sur la mer un regard vague et chargé d\'une tristesse sans cause dont son âme était appesantie.
+
+À dix pas d\'elle, Jack, immobile, semblait poursuivre en lui-même quelque travail difficile et compliqué.
+
+Quand il estima avoir suffisamment réfléchi, Jack, d\'un pas lent, se dirigea vers sa belle-soeur et s\'assit à son côté.
+
+Perdue dans sa rêverie, celle-ci ne s\'aperçut même pas de la présence du sombre et taciturne personnage.
+
+« Alice ! » murmura Jack.
+
+Mrs. Lindsay tressaillit et fixa sur son beau-frère des yeux voilés encore de la brume fine des lointains contemplés.
+
+« Alice, reprit Jack, je voudrais avoir avec vous un sérieux entretien. Le moment me paraît convenable, le spardeck étant à peu près désert. Voulez-vous, Alice, m\'accorder cet entretien ?
+
+--- Je vous écoute, Jack, répondit avec bonté Alice, étonnée de ce solennel préambule.
+
+--- Je vais, vous le savez, reprit Jack après un instant de silence, atteindre trente et un ans. Ce n\'est pas un grand âge, certes, mais je n\'ai cependant pas de temps à perdre si je veux modifier mon existence. Celle que j\'ai menée jusqu\'ici me fait horreur. J\'en veux une autre, utile et féconde. Bref ! Alice, j\'ai songé au mariage.
+
+--- C\'est fort bien pensé, Jack, approuva Alice, étonnée seulement du moment choisi pour une pareille confidence. Il ne vous reste plus qu\'à trouver une femme, et ce ne sera pas pour vous chose difficile.
+
+--- C\'est fait, Alice, interrompit Jack Lindsay. Ou du moins il est une femme que j\'ai choisie au fond du coeur. Depuis longtemps, je la connais, je l\'estime et je l\'aime. Mais, elle, Alice, m\'aime-t-elle, ou puis-je espérer qu\'elle m\'aimera jamais ? »
+
+Un merveilleux instinct sert les femmes et les avertit du danger. Aux premiers mots de Jack, Alice avait senti celui qui la menaçait. Détournant la tête, c\'est d\'une voix brève et froide qu\'elle répondit :
+
+« Il faudrait lui demander cela à elle-même, mon cher. »
+
+Jack perçut le changement qui durcissait la voix de sa belle-soeur. Un éclair de colère passa dans ses yeux.
+
+Cependant, par un violent effort, il réussit à se vaincre.
+
+« C\'est ce que je fais en ce moment, Alice, répondit-il, et j\'attends avec angoisse son arrêt\... Alice, reprit Jack, après avoir vainement attendu une réponse, ne voudriez-vous pas garder le même nom, en acceptant un nouveau mari ? »
+
+Froissant son mouchoir entre ses doigts crispés, les yeux pleins de larmes nerveuses, Alice se retourna vivement vers son beau-frère.
+
+« Voilà une passion bien subite et une demande bien imprévue ! dit-elle d\'un ton d\'amère raillerie.
+
+--- Passion subite ! s\'écria Jack. Pouvez-vous dire cela, Alice ? Serait-il vrai que vous n\'ayez jamais remarqué combien je vous aime ?
+
+--- Ne prononcez plus ce mot ! Interrompit Alice avec violence. Non, je ne me suis jamais aperçue de rien de ce que vous dites. Ah ! Dieu, si j\'avais remarqué quelque chose, aurais-je été si insensée de vous laisser nous accompagner dans ce voyage ?
+
+--- Vous êtes dure pour moi, Alice, dit Jack. En quoi ai-je pu mériter une pareille colère ? Si ma démarche est à tel point une surprise pour vous, imposez-moi une attente, mettez-moi à l\'épreuve, mais ne m\'enlevez pas tout espoir. »
+
+Mrs. Lindsay regarda son beau-frère bien en face.
+
+« Tout espoir au contraire », dit-elle fermement.
+
+Jack laissa tomber son front dans ses mains avec toutes les apparences d\'une profonde douleur. Alice en fut émue.
+
+« Voyons, Jack, reprit-elle plus doucement, il y a là-dedans quelque malentendu. Peut-être vous trompez-vous involontairement. Peut-être, acheva-t-elle en hésitant, nos situations respectives sont-elles en partie la cause de cette erreur.
+
+--- Que voulez-vous dire ? demanda Jack en relevant la tête.
+
+--- J\'ai été si peu de temps la femme de votre frère, poursuivit Alice en choisissant ses mots avec précaution, que peut-être avez-vous été blessé en me voyant recueillir sa fortune entière\... Peut-être vous êtes-vous jugé lésé\... Dépouillé\... »
+
+Jack Lindsay fit un geste de protestation.
+
+« Je suis sur un terrain brûlant, continua Alice. Je fais tous mes efforts pour éviter de prononcer un seul mot qui puisse vous peiner. Il faudra me pardonner, si je n\'y parviens pas. Peut-être aussi, d\'un autre côté, vous êtes-vous trouvé gêné, qui sait ? Presque ruiné même. Il est naturel que vous ayez pensé alors à un mariage qui rétablirait vos affaires et réparerait en même temps ce qui est à vos yeux une injustice. Tout entier à ce projet, vous aurez pris alors pour de l\'amour une simple affection familiale.
+
+--- Concluez, fit Jack d\'une voix sèche.
+
+--- Eh bien ! Jack, si telle est la vérité, tout peut encore s\'arranger. Puisque j\'ai le bonheur d\'être riche, très riche même, ne puis-je venir fraternellement à votre secours ? Ne puis-je\... éteindre votre passif\... S\'il existe\... Vous aider ensuite dans la vie, et\... Finalement\... Vous constituer une dot vous permettant de trouver une femme mieux disposée que votre belle-soeur.
+
+--- Un os à ronger, gronda Jack, les yeux baissés.
+
+--- Que dites-vous ? s\'écria Alice. Il faut donc que j\'aie été bien malheureuse dans le choix de mes mots, pour obtenir une pareille réponse. Vous ne pouvez vous figurer quel chagrin\... »
+
+Mrs. Lindsay ne put achever. Repoussant brusquement son fauteuil, Jack s\'était levé.
+
+« Trêve de simagrées, s\'il vous plaît, prononça-t-il brusquement, l\'oeil mauvais, la voix dure. Inutile d\'envelopper votre refus d\'autant de fioritures. Vous me repoussez. N\'en parlons plus. À moi d\'examiner ce que j\'ai à faire. »
+
+Laissant sa belle-soeur, qui, très émue par cette scène et par la sortie violente qui la terminait, se réfugia dans la solitude calmante de sa chambre, Jack s\'éloigna tout frémissant de colère. Peu à peu cependant, cette colère tomba, et il put alors examiner froidement sa situation.
+
+Lui fallait-il donc renoncer à la fortune convoitée ? Jamais, décida-t-il énergiquement. Restait alors à trouver le moyen de se l\'approprier, puisque Alice se refusait à devenir sa femme.
+
+Au dîner, celle-ci ne parut pas. Sa soeur alla vainement frapper à sa porte. Elle s\'obstina dans sa solitude.
+
+Elle ne reprit que le lendemain la vie coutumière du bord. Mais alors tout paraissait oublié entre le beau-frère et la belle-soeur. Chacun d\'eux sans doute avait arrêté sa résolution dans l\'inviolable secret de son âme.
+
+Au cours de cette journée du 27 mai, la mer mollit sensiblement, et le nombre des passagers valides s\'accrut simultanément. Le soir venu, les frères da Silva et la famille Blockhead étaient à peu près les seuls à ne pas embellir le spardeck de leur présence.
+
+Tandis que la vie retrouvait ainsi son cours paisible à bord du Seamew, son capitaine au contraire semblait broyer du noir. Distrait, préoccupé, il se promenait constamment depuis deux jours sur la passerelle, en se pétrissant le nez d\'une façon menaçante. Et toujours ses yeux, divergeant en un terrible strabisme, revenaient vers ce point que Sir Hamilton, quelques heures après le départ, avait pris pour un des sommets de Saint-Michel.
+
+Le matin du 28 mai, il fit comme il avait accoutumé, et, en arrivant sur le pont, il braqua sa longue-vue vers le point devenu pour lui une obsession.
+
+« Mille diables ! Gronda-t-il à l\'adresse d\'Artimon, en abaissant l\'instrument, nous sommes dans une péripétie infernale, monsieur. »
+
+Il y avait longtemps que toute hésitation avait disparu. Le Seamew, en effet, ne se dirigeait pas directement vers Madère. Conformément au programme, on devait auparavant contourner l\'île de Porto-Santo, et la route de Ponta-Delgada à Porto-Santo ne laisse pas de faire un angle appréciable avec la ligne droite réunissant à Madère la capitale de Saint-Michel. Cependant, le bâtiment inconnu avait suivi cette même route qui, en réalité, n\'aboutissait nulle part, en se maintenant à la distance invariable de quatre milles environ. Il appuyait donc la chasse à n\'en pas douter.
+
+Cette persistance dans l\'intervalle qui séparait les deux navires avait en partie rassuré le capitaine. Il ne serait pas du moins gagné de vitesse. Et quoi d\'étonnant à cela ? Le navire portugais n\'avait-il pas aussi fait son charbon aux Açores ? Mais le capitaine Pip était bien forcé de se dire que la traversée ne serait pas éternelle. On finirait par arriver à Madère, et Madère, c\'était encore le Portugal.
+
+Depuis quarante-huit heures, le capitaine retournait cette question sous toutes ses faces, sans aboutir à aucune solution satisfaisante. S\'il avait été le maître, plutôt que de se résigner à de nouveaux geôliers, il se serait lancé droit devant lui jusqu\'à épuisement de son charbon et de toutes les parties combustibles du bâtiment. On aurait vu alors lequel avait les soutes les plus vastes ! Par malheur, maître, il ne l\'était qu\'à demi, et à la seule condition qu\'il conduirait le Seamew dans la maudite rade de Funchal, capitale de Madère. Aussi enrageait-il perpétuellement.
+
+Il lui fallut bien prendre un parti quand, le 28 mai vers dix heures du matin, la cime de Porto-Santo commença à mordre l\'horizon. Le pauvre capitaine dut se résigner à en référer à Thompson et, s\'il avait l\'oreille basse, il est inutile de le dire.
+
+À sa joyeuse surprise, sa communication ne fut pas reçue aussi mal qu\'il le craignait. « Vous voyez donc, captain, dit seulement Thompson, que ce navire est portugais ?
+
+--- Je le crois, monsieur.
+
+--- Et qu\'il est à notre poursuite ?
+
+--- Je le crois aussi, malheureusement.
+
+--- Eh bien ! Dans ce cas, captain, je ne vois qu\'une chose à faire.
+
+--- Et c\'est, monsieur ?
+
+--- Mais de stopper, tout simplement.
+
+--- De stopper !
+
+--- Mon Dieu, oui, captain, de stopper. »
+
+Le capitaine demeura interdit, les bras ballants, les yeux écarquillés.
+
+« Amen ! Monsieur », prononça-t-il enfin avec effort, et sans jurer cette fois par la barbe de sa mère.
+
+Héroïquement, il exécuta l\'ordre reçu. L\'hélice stoppa, le Seamew demeura immobile à la surface de la mer, et la distance qui le séparait du navire poursuivant diminua graduellement. C\'était bien un vaisseau de guerre portugais, reconnaissable à la longue flamme qui se déroulait à son grand mât. Vingt minutes plus tard, un mille à peine le séparait encore du Seamew.
+
+Thompson fit alors mettre à flot une embarcation dans laquelle prirent place les agents de police. Pip n\'en revenait pas. Voilà maintenant qu\'on rendait les otages !
+
+Le lieutenant, cependant, et six de ses hommes ne s\'étaient pas embarqués avec leurs camarades. L\'étonnement du capitaine fut au comble, en les voyant paraître à leur tour, en voyant surtout quels singuliers colis ils transportaient.
+
+Ces colis, colis humains, n\'étaient autres que le noble don Hygino Rodriguez da Veiga et ses deux frères.
+
+Encore accablés des coups de Neptune, sortes de cadavres vivants, ils n\'essayaient aucune résistance. Le capitaine les vit passer par-dessus le bastingage, insensibles et inconscients.
+
+« Ah çà, mais ! Ah çà, mais ! » gronda le brave capitaine, incapable de trouver une explication.
+
+Pour surpris qu\'il fût, Sir Hamilton l\'était plus encore. Indigné par ce traitement infligé à des gentlemen, il avait cependant mis une sourdine prudente à ses perpétuelles protestations. Provisoirement au moins, il se contenta de demander quelques éclaircissements à un matelot auprès duquel le hasard l\'avait placé.
+
+Hamilton tombait mal. Vieux homme bronzé, tanné, l\'âme trop élargie par une longue contemplation de l\'immensité des mers pour s\'intéresser aux petitesses humaines, ce matelot ne savait rien, et, dans son indifférence superbe, il ne tenait pas à savoir. À la question du baronnet, il haussa les épaules en signe d\'ignorance. Il daigna cependant ôter sa pipe de la bouche.
+
+« C\'est des particuliers, expliqua-t-il, qui ont mangé des cailloux, qu\'on dit. Paraît que c\'est défendu en Portugal. »
+
+Hamilton dut se contenter de cette réponse. Satisfait de son explication, le vieux matelot tirait de nouveau sur sa bouffarde, et déjà, le regard enfui à la suite des lames rapides, il pensait à autre chose.
+
+La vérité, Hamilton ne devait la connaître que plus tard, en même temps que les autres passagers. Ce fut une épreuve cruelle pour le vaniteux baronnet.
+
+« Souvenez-vous de notre traité, avait dit Thompson au lieutenant, quand celui-ci prit congé à son tour.
+
+--- Soyez tranquille », avait répondu le lieutenant.
+
+L\'embarcation fut poussée sur ces mots. Puis, son chargement humain transporté sur l\'aviso, elle rallia le Seamew, dont l\'hélice se remit aussitôt en mouvement.
+
+Le capitaine Pip continuait à n\'y rien comprendre. Quant à Thompson, il n\'était pas sans inquiétude. Malgré les assurances du lieutenant, l\'aviso n\'allait-il pas reprendre chasse, à portée de canon désormais ?
+
+Il est à croire que l\'officier tint loyalement ses promesses et que ses explications furent jugées satisfaisantes. Bientôt, en effet, l\'aviso décrivait un grand demi-cercle sur tribord et disparaissait sous l\'horizon du nord, en même temps que dans le sud se haussaient les rivages de Porto-Santo.
+
+Vers midi, on côtoya cette île montagneuse surtout dans sa partie septentrionale, puis le Seamew fit route au sud-sud-ouest, et se dirigea droit sur Madère, distante encore d\'une trentaine de milles, qui commençait à dresser au-dessus des eaux sa masse colossale.
+
+Deux heures plus tard on avait connaissance du cap Sao-Lourenço, tandis que s\'élevaient à leur tour les « Desertas », dont les trois îlots complètent l\'archipel, avec les récifs les « Salvages ». À ce moment, la côte septentrionale de l\'île se déroulait aux yeux des passagers dans toute son abrupte puissance.
+
+En créant Madère, le Seigneur, visiblement, n\'a pas cherché à faire du nouveau. Toujours de hautes falaises verticales, des promontoires aigus et sauvages, des monts convulsés séparés par de profondes et sombres vallées. C\'est le modèle des Açores, mais un modèle achevé, agrandi, décuplé.
+
+Au-dessus des durs rivages, une autre mer s\'étend sous le ciel. Mer de verdure, celle-là, ayant pour vagues un nombre immense d\'arbres géants. Tapissés par cette futaie comme par un gazon à leur taille, les monts s\'étagent, grandissant, dominés tous au centre par les mille huit cent cinquante mètres du pic Ruivo.
+
+Peu à peu le rivage nord se profila, et enfin le cap Sao-Lourenço, pointe orientale de l\'île, fut doublé vers trois heures. Le Seamew s\'en approcha à moins de deux milles, et l\'on put facilement apercevoir le mât des signaux et le phare élevés à son extrémité.
+
+Le capitaine fit alors ranger la terre de plus près encore, et le rivage méridional se déroula sous les yeux des passagers enthousiasmés.
+
+Ce furent d\'abord les roches basses dont est formé le cap Sao-Lourenço ainsi que la langue de terre qui le relie au reste de l\'île. Puis la côte se releva, pour former les monstrueux contreforts qui soutiennent les montagnes du centre. Entre chacun d\'eux, des villages se cachaient, délicieux à cette distance : Machico, Santa-Cruz, Caniçal, que Robert nommait au passage.
+
+À quatre heures, un nouveau cap, le « Cabo Carajao », se dressa devant le navire. Quelques tours d\'hélice suffirent à le doubler et, peu d\'instants après, le Seamew mouillait en rade de Funchal, au milieu d\'une flotte nombreuse, aux mâts de laquelle flottaient les pavillons de toutes les nations.
+
+
+]{.calibre20}
+
+
+L\'AGENCE THOMSON AND CO
+
+Première partie
+
+
+]{.calibre20}

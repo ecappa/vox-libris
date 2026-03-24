@@ -1,0 +1,99 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "BIOGRAPHIE",
+  "slug": "biographie",
+  "nombre_chapitres": 0,
+  "structure": [
+    {
+      "title": "Biographie panoramique",
+      "slug": "biographie-panoramique",
+      "is_part": false,
+      "spine_start": 2556,
+      "spine_end_exclusive": 2557,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_464.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Jeunes années",
+      "slug": "jeunes-annees",
+      "is_part": false,
+      "spine_start": 2557,
+      "spine_end_exclusive": 2558,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_465.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Étudiant à Paris",
+      "slug": "etudiant-a-paris",
+      "is_part": false,
+      "spine_start": 2558,
+      "spine_end_exclusive": 2559,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_466.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Débuts littéraires",
+      "slug": "debuts-litteraires",
+      "is_part": false,
+      "spine_start": 2559,
+      "spine_end_exclusive": 2560,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_467.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Mariage et Bourse",
+      "slug": "mariage-et-bourse",
+      "is_part": false,
+      "spine_start": 2560,
+      "spine_end_exclusive": 2561,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_468.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Voyages et paternité",
+      "slug": "voyages-et-paternite",
+      "is_part": false,
+      "spine_start": 2561,
+      "spine_end_exclusive": 2562,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_469.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Les Voyages extraordinaires",
+      "slug": "les-voyages-extraordinaires",
+      "is_part": false,
+      "spine_start": 2562,
+      "spine_end_exclusive": 2563,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_470.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Dernières années",
+      "slug": "dernieres-annees",
+      "is_part": false,
+      "spine_start": 2563,
+      "spine_end_exclusive": 2564,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneIV_split_471.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

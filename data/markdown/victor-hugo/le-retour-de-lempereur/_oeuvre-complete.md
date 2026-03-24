@@ -1,0 +1,574 @@
+# [[![Description : Description : Description : vignette2](../../../images/victor-hugo/bonheur-que-procure-letude/00433.jpg){.calibre10} LE RETOUR DE L'E]{.calibre2}MPEREUR]{.calibre_55} {#filepos15213447 .calibre_}
+
+:::::: calibre_20
+::::: calibre_3
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+[(1840)]{.calibre_3}
+
+[Victor Hugo]{.calibre_10}
+
+[[POÉSIES]{.bold}]{.calibre_21}
+
+:::::: calibre_22
+::::: calibre_21
+[ ]{.bold}
+
+::: calibre_16
+
+
+------------------------------------------------------------------------
+
+::: calibre_16
+
+:::::
+::::::
+
+
+[
+Pour toutes demandes ou suggestions]{.calibre_3}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Table des matières]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1893 .calibre_57}
+
+::: calibre_19
+
+
+[]{.calibre_10}
+
+> [[[[[Introduction]{.calibre9}]{.underline}]{.calibre_4}](index_split_1416.html#filepos15217148)]{.calibre_10}
+
+> [[[[[I]{.calibre9}]{.underline}]{.calibre_4}](index_split_1417.html#filepos15218670)]{.calibre_10}
+
+> [[[[[II]{.calibre9}]{.underline}]{.calibre_4}](index_split_1418.html#filepos15230101)]{.calibre_10}
+
+> [[[[[III]{.calibre9}]{.underline}]{.calibre_4}](index_split_1419.html#filepos15234983)]{.calibre_10}
+
+> [[[[[IV]{.calibre9}]{.underline}]{.calibre_4}](index_split_1420.html#filepos15237543)]{.calibre_10}
+
+> [[[[[Le 15 décembre 1840]{.calibre9}]{.underline}]{.calibre_4}](index_split_1421.html#filepos15243628)]{.calibre_10}
+
+[]{.calibre_10}
+
+
+## [[ []{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Introduction]{.calibre2}]{.bold1}]{.calibre_24} {#filepos15217148 .calibre_57}
+
+::: calibre_19
+
+
+[
+Dors ! nous t'irons chercher ! --- Ce jour viendra peut-être !
+Car nous t'avons pour dieu sans t'avoir eu pour maître ;
+Car notre oeil s'est mouillé de ton destin fatal,
+Et, sous les trois couleurs comme sous l'oriflamme,
+Nous ne nous pendons pas à cette corde infâme
+Qui t'arrache à ton piédestal.
+Oh ! va, nous te ferons de belles funérailles !
+Nous aurons bien aussi peut-être nos batailles,
+Nous en ombragerons ton cercueil respecté.
+Nous y convierons tout, Europe, Afrique, Asie,
+Et nous t'amènerons la jeune poésie
+Chantant la jeune liberté.
+]{.calibre4}
+
+[[Ode à la Colonne, Octobre 1830.]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[I]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1897 .calibre_57}
+
+::: calibre_19
+
+
+[
+Après la dernière bataille,
+Quand, formidables et béants,
+Six cents canons sous la mitraille
+Eurent écrasé les géants ;
+Dans ces jours où caisson qui roule,
+Blessés, chevaux, fuyaient en foule,
+Où l'on vit choir l'aigle indompté,
+Et, dans le bruit et la fumée,
+Sous l'écroulement d'une armée,
+Plier Paris épouvanté ;
+Quand la vieille garde fut morte,
+Trahi des uns, de tous quitté,
+Le grand empereur, sans escorte
+Rentra dans la grande cité.
+Dans l'ancien palais Elysée
+Il s'arrêta, l'âme épuisée ;
+Et, n'attendant plus de secours,
+Repoussant la guerre civile,
+Avant de sortir de sa ville,
+Triste, il la contempla trois jours.
+Sa tête enfin était courbée.
+Plus de triomphes ! plus de cris !
+Sa popularité tombée
+Couvrait sa gloire de débris.
+Partout l'abandon ou la haine !
+Le soir, quelque passant à peine,
+S'arrêtant, mais sans approcher,
+Dans le palais cherchant le maître,
+A travers la haute fenêtre
+Regardait son ombre marcher
+Durant ces heures solennelles,
+Tandis qu'il sondait son malheur,
+L'oeil des muettes sentinelles
+L'interrogeait avec douleur.
+Soldats toujours prêts pour la lutte,
+Hélas ! ils comptaient de sa chute
+Chaque symptôme avant-coureur ;
+Et, comme un jour qui se retire,
+Ils voyaient s'effacer l'empire
+Dans le regard de l'Empereur !
+Adieu ses légions sans nombre !
+Adieu ses camps victorieux !
+Il se sentait poussé vers l'ombre
+Par un souffle mystérieux.
+La nuit, sa fièvre était sans trêves ;
+Il voyait flotter dans ses rêves
+Le spectre d'un rocher lointain ;
+Déjà, l'âme d'angoisses pleine,
+Il entrevoyait Sainte-Hélène
+Dans les brumes de son destin.
+Le jour, en proie à la pensée,
+L'oeil fixé sur le sol sacré,
+Le front sur la vitre glacée,
+Il disait : « Oh ! je reviendrai !
+Je reviendrai ! toujours le même,
+Seul, sans pourpre et sans diadème,
+Sans bataillons et sans trésors ;
+Je veux, proscrit, chassé, qu'importe ?
+Choisir, pour rentrer, cette porte,
+Cette porte par où je sors.
+« Une nuit, dans une tempête,
+Rapporté par un vent des cieux,
+Avec des éclairs sur la tête,
+Je surgirai, vivant, joyeux !
+Mes vieux compagnons d'aventure
+Dormiront dans la brume obscure,
+Et tout à coup, à l'orient,
+Ils verront luire, ô délivrance !
+Mon oeil, rayonnant pour la France,
+Pour l'Angleterre flamboyant !
+« J'apparaîtrai dans les ténèbres
+A ce Paris qui m'adora ;
+Le jour succède aux nuits funèbres,
+Et mon peuple se lèvera !
+Il se lèvera plein de joie,
+Pourvu que dans l'ombre il me voie
+Chassant l'étranger, vil troupeau,
+Pâle, la main de sang trempée,
+Avec le tronçon d'une épée,
+Avec le haillon d'un drapeau ! »
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Sire, vous reviendrez dans votre capitale,
+Sans tocsin, sans combat, sans lutte et sans fureur,
+Traîné par huit chevaux sous l'arche triomphale,
+En habit d'empereur !
+Par cette même porte, où Dieu vous accompagne,
+Sire, vous reviendrez sur un sublime char,
+Glorieux, couronné, saint comme Charlemagne
+Et grand comme César !
+Sur votre sceptre d'or, qu'aucun vainqueur ne foule,
+On verra resplendir votre aigle au bec vermeil,
+Et sur votre manteau vos abeilles en foule
+Frissonner au soleil.
+Paris sur ses cent tours allumera des phares ;
+Paris fera parler toutes ses grandes voix ;
+Les cloches, les tambours, les clairons, les fanfares,
+Chanteront à la fois.
+Joyeux comme l'enfant quand l'aube recommence,
+Emu comme le prêtre au seuil du lieu sacré,
+Sire, on verra vers vous venir un peuple immense,
+Tremblant, pâle, effaré ;
+Peuple qui sous vos pieds mettrait les lois de Sparte,
+Qu'embrase votre esprit, qu'enivre votre nom,
+Et qui flotte, ébloui, du jeune Bonaparte
+Au vieux Napoléon.
+Une nouvelle armée, ardente d'espérance.
+Dont les exploits déjà sèmeront la terreur,
+Autour de votre char criera : Vive la France !
+Et vive L'Empereur !
+En vous voyant passer. ô chef du grand empire !
+Le peuple et les soldats tomberont à genoux ;
+Mais vous ne pourrez pas vous pencher pour leur dire
+JE SUIS CONTENT DE VOUS !
+Une acclamation douce, tendre et hautaine,
+Chant des coeurs, cri d'amour où l'extase se joint,
+Remplira la cité ; mais, ô mon capitaine !
+Vous ne l'entendrez point.
+De sombres grenadiers, vétérans qu'on admire,
+Muets, de vos chevaux viendront baiser les pas ;
+Ce spectacle sera touchant et beau ; mais, sire,
+Vous ne le verrez pas.
+Car, ô géant ! couché dans une ombre profonde,
+Pendant qu'autour de vous, comme autour d'un ami,
+S'éveilleront Paris, et la France, et le monde,
+Vous serez endormi !
+Vous serez endormi, figure auguste et fière,
+De ce morne sommeil, plein de rêves pesants,
+Dont Barberousse, assis sur sa chaise de pierre,
+Dort depuis six cents ans.
+L'épée au flanc, l'oeil clos, la main encore émue
+Par le dernier baiser de Bertrand éperdu,
+Dans un lit où jamais le dormeur ne remue,
+Vous serez étendu.
+Pareil à ces soldats qui, devant cent murailles,
+Avaient suivi vos pas, vainqueurs, toujours debout,
+Et qui, touchés un soir par le vent des batailles,
+Se couchaient tout à coup.
+Leur attitude grave, altière, armée encore,
+Ressemblait au sommeil, et non point au trépas ;
+Mais la diane, hélas ! cette voix de l'aurore,
+Ne les réveillait pas.
+Si bien que, vous voyant glacé, dans son délire,
+Et tel qu'un dieu muet qui se laisse adorer,
+Ce peuple, ivre d'amour, venu pour vous sourire,
+Ne pourra que pleurer.
+Sire, en ce moment-là, vous aurez pour royaume
+Tous les fronts, tous les coeurs qui battront sous le ciel
+Les nations feront asseoir votre fantôme
+Au trône universel.
+Les poètes divins, élite agenouillée,
+Vous proclameront grand, vénérable, immortel,
+Et de votre mémoire, injustement souillée,
+Redoreront l'autel.
+Les nuages auront passé dans votre gloire ;
+Rien ne troublera plus son rayonnement pur ;
+Elle se posera sur toute notre histoire
+Comme un dôme d'azur.
+Vous serez pour tout homme une âme grande et bonne,
+Pour la France un proscrit magnanime et serein,
+Sire, et pour l'étranger, sur la haute colonne,
+Un colosse d'airain,
+Vous cependant, --- tandis qu'une pompe sacrée
+Mènera par la ville un cortège inouï,
+Et que tous croiront voir revivre à votre entrée
+Un monde évanoui ;
+Tandis qu'on entendra, près du dôme ou des ombres
+Gardent tous les grands noms dont Paris se souvient,
+Rugir les vieux canons comme des dogues sombres
+Quand le maître revient ;
+Tandis que votre nom, devant qui tout s'efface,
+Montera vers les cieux, puissant, illustre et beau, ---
+Vous sentirez ronger dans l'ombre votre face
+Par le ver du tombeau !
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Sombres événements, hérauts aux noirs messages !
+Masques dont le Seigneur connaît seul les visages,
+Que vous parlez parfois un langage effrayant !
+Oh ! n'arrachez-vous pas au livre de Dieu même
+Ces feuillets ténébreux, pleins d'un vague anathème,
+Que vous nous jetez en fuyant ?
+Rien n'est complet ; à tout il manque quelque chose ;
+L'homme a le pilori, l'ombre a l'apothéose.
+Ces héros sont trop grands ! un même sort les suit.
+Hélas ! tous les Césars et tous les Charlemagnes
+Ont deux versants ainsi que les hautes montagnes ;
+D'un côté le soleil, et de l'autre la nuit.
+Et quel temps fut jamais plus grave et plus sévère !
+Le Christ déraciné tremble sur le Calvaire.
+Oh ! que d'écroulements ! tout chancelle à la fois,
+Tout plie et rompt, les grands sous la charge des haines,
+Les rois sous le fardeau du sort, les lois humaines
+Sous le poids des divines lois !
+Rien de ces noirs débris ne sort --- que toi, pensée !
+Poésie immortelle à tous les vents bercée !
+Ainsi, pour s'en aller en toute liberté,
+Au gré de l'air qui souffle ou de l'eau qui s'épanche,
+Teinte à peine de sang, la plume chaste et blanche
+Tombe de l'oiseau mort et du nid dévasté.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[II]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1899 .calibre_57}
+
+::: calibre_19
+
+
+[
+Sainte-Hélène ! --- leçon ! chute ! exemple ! agonie !
+L'Angleterre, à la haine épuisant son génie,
+Se mit à dévorer ce grand homme en plein jour ;
+Et l'univers revit ce spectacle homérique ;
+La chaîne, le rocher brûlé du ciel d'Afrique,
+Et le Titan --- et le Vautour !
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Cependant ces tourments, cette auguste infortune,
+Cette rage punique, implacable rancune,
+Faisant saigner d'en bas le grand crucifié,
+Ces affronts, qui tombaient sur toute âme hautaine,
+Comme un vase profond où coule une fontaine,
+Emplissaient lentement le monde de pitié.
+Pitié des nobles coeurs ! cri de toute la terre !
+Qui t'irritaient dans l'ombre, ô geôlier d'Angleterre !
+Car l'admiration, de son feu souverain,
+Endurcit l'homme vil, amollit la grande âme.
+Hélas ! où pleure un brave, un lâche rit, La flamme
+Sèche la fange et fond l'airain.
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Lui, pourtant, restait fier comme un roi chez son hôte.
+On l'entendait parler dans son île à voix haute.
+Il rêvait ; il dictait d'illustres testaments ;
+Il repoussait l'oubli dont l'exil s'enveloppe ;
+Et, quand son oeil parfois se tournait vers l'Europe,
+Il en venait encore de grands rayonnements.
+Un jour --- Lanne assoupi tressaillit sous son dôme ; ---
+Les quatre aigles pensifs de la place Vendôme
+Frémirent en voyant passer un noir corbeau.
+On regarda. La nuit était sur Sainte-Hélène.
+Un guichetier anglais sous son impure haleine
+Avait éteint le grand flambeau.
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Vingt ans il a dormi dans cette île lointaine !
+Dans les monts, près d'un saule, au bord d'une fontaine,
+Sans affront, sans honneur,
+Vingt ans il a dormi sous une dalle obscure,
+Seul avec l'océan, seul avec la nature,
+Seul avec vous, Seigneur !
+Là, dans la solitude, après tant de tempêtes,
+Tandis que son esprit revivait dans nos têtes,
+Que l'Europe indignée exécrait sa prison,
+Et que les rois, tremblant jusque dans leurs entrailles,
+Voyaient le tourbillon de toutes ses batailles
+Gronder confusément encore à l'horizon ;
+Durant les nuits, à l'heure où l'âme dans l'espace
+N'entend que l'eau qui fuit, le cormoran qui passe,
+Le flot des flots heurté,
+L'air balayant les monts que la nuée encombre,
+Et ce que dit tout bas à l'éternité sombre
+La sombre immensité ;
+Quand la forêt frissonne au front de la colline,
+Quand le ciel lentement vers l'océan s'incline,
+Lorsque, brisant sa vague aux nocturnes rayons,
+La mer, où vont plongeant des étoiles sans nombre,
+Semble écumer dans l'ombre
+Au choc étincelant des constellations ;
+Dans ces heures de paix, les déserts, les vallées,
+Les vents, les bois, les monts, les sphères étoilées,
+Chantant un divin choeur,
+Couvrant d'oubli sa tombe aux bruits humains murée,
+Ensemble accomplissaient la fonction sacrée
+De calmer ce grand coeur.]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[III]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1901 .calibre_57}
+
+::: calibre_19
+
+
+[
+Jadis, quand vous vouliez conquérir une ville,
+Ratisbonne ou Madrid, Varsovie ou Séville,
+Vienne l'austère, ou Naples au soleil radieux,
+Vous fronciez le sourcil, ô figure idéale !
+Alors tout était dit. La garde impériale
+Faisait trois pas comme les dieux.
+Vos batailles, ô roi ! comme des mains fatales,
+L'une après l'autre, ont pris toutes les capitales ;
+Il suffit d'Iéna pour entrer à Berlin,
+D'Arcole pour entrer à Mantoue, ô grand homme !
+Lodi mène à Milan, Marengo mène à Rome,
+La Moskova mène au Kremlin !
+Paris coûte plus cher ! c'est la cité sacrée !
+C'est la conquête ardue, âpre, démesurée !
+Le but éblouissant des suprêmes efforts !
+Pour entrer dans Paris, la ville de mémoire,
+Sire, il faut revenir de la sombre victoire
+Qu'on remporte au pays des morts !
+Il faut avoir forcé toute haine à se taire,
+Rallié tout grand coeur et tout grand caractère,
+S'être fait de l'Europe et l'âme et le milieu,
+Et, debout dans la gloire ainsi que dans un temple,
+Etre pour l'univers, qui de loin vous contemple,
+Plus qu'un fantôme et presque un dieu !
+Il faut, soleil du siècle, en éclipser les astres ;
+Il faut, héros accru même par les désastres,
+Dépasser Lafayette, effacer Mirabeau,
+Sortir du fond des mers où l'autre ciel commence,
+Et mêler la grandeur de l'océan immense
+A la majesté du tombeau !]{.calibre4}
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[IV]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1903 .calibre_57}
+
+::: calibre_19
+
+
+[
+Oh ! t'abaisser n'est pas facile,
+France, sommet des nations !
+Toi que l'idée a pour asile,
+Mère des révolutions !
+Aux choses dont tu fais le moule
+Tout l'univers travaille en foule ;
+Ta chaleur dans ses veines coule ;
+Il t'obéit avec orgueil ;
+Il marche, il forge, il tente, il fonde ;
+Toi, tu penses, grave et féconde\... ---
+La France est la tête du monde,
+Cyclope dont Paris est l'oeil !
+Te détruire ? --- audace insensée !
+Crime ! folie ! impiété !
+Ce serait ôter la pensée
+A la future humanité !
+Ce serait aveugler les races !
+Car, dans le chemin que tu traces,
+Dans le cercle où tu les embrasses,
+Tous les peuples doivent s'unir ;
+L'esprit des temps à ta voix change ;
+Tout ce qui naît sous toi se range ! ---
+Qui donc ferait ce rêve étrange
+De décapiter l'avenir ?
+Te bâillonner ? --- Rois ! Dieu lui-même
+Pourra vous le prouver bientôt,
+Ce siècle est un profond problème
+Dont la France seule a le mot.
+Ce siècle est debout sur la rive,
+D'une voix terrible ou plaintive,
+Questionnant quiconque arrive,
+Tribuns, penseurs, --- ou rois, hélas !
+Il propose à tous, dès l'aurore,
+L'énigme inexpliquée encore,
+Et, comme le sphinx, il dévore
+Celui qui ne le comprend pas !
+T'insulter ? --- mais, s'il se rencontre
+Des rois pour courir ce danger,
+Vois donc les choses que Dieu montre
+A ceux qui voudraient t'outrager !
+Vois, sous l'arche où sont nos histoires,
+Wagram, les mains de poudre noires,
+Ulm, Essling, Eylau, cent victoires,
+Défiler au bruit du tambour !
+Dieu, quand l'Europe te croit morte,
+Prend l'empereur et te l'apporte,
+Et fait repasser sous ta porte
+Toute ta gloire en un seul jour !
+T'insulter ! t'insulter ! ma mère !
+Mais n'avons-nous pas tous, ô ciel !
+Parmi nos livres, près d'Homère,
+Quelque vieux sabre paternel ?
+Nos pères sont morts, France aimée !
+Mais de leur foule ranimée
+Peut-être on ferait une armée
+Comme on en fait un Panthéon !
+Prêts à surgir au bruit des bombes,
+Prêts à se lever si tu tombes,
+Peut-être sont-ils dans leurs tombes
+Entiers comme Napoléon !
+]{.calibre4}
+
+[!{.calibre3}]{.calibre_7}
+
+[
+Toi, héros de ces funérailles,
+Roi ! génie ! empereur ! martyr !
+Les temps sont clos ; dans nos murailles
+Rentre pour ne plus en sortir !
+Rentre aussi dans ta gloire entière,
+Toi qui mêlais, d'une main fière,
+Dans l'airain de ton oeuvre altière
+Tous les peuples, tous les métaux ;
+Toi qui, dans ta force profonde,
+Oubliant que la foudre gronde,
+Voulais donner ta forme au monde
+Comme Alexandre au mont Athos !
+Tu voulais, versant notre sève
+Aux peuples trop lents à mûrir,
+Faire conquérir par le glaive
+Ce que l'esprit doit conquérir.
+Sur Dieu même prenant l'avance,
+Tu prétendais, vaste espérance !
+Remplacer Rome par la France
+Régnant du Tage à la Néva ;
+Mais de tels projets Dieu se venge.
+Duel effrayant ! guerre étrange !
+Jacob ne luttait qu'avec l'ange,
+Tu luttais avec Jéhovah !
+Nul homme en ta marche hardie
+N'a vaincu ton bras calme et fort ;
+A Moscou, ce fut l'incendie ;
+A Waterloo, ce fut le sort.
+Que t'importe que l'Angleterre
+Fasse parler un bloc de pierre
+Dans ce coin fameux de la terre
+Où Dieu brisa Napoléon,
+Et, sans qu'elle-même ose y croire,
+Fasse attester devant l'histoire
+Le mensonge d'une victoire
+Par le fantôme d'un lion ?
+Oh ! qu'il tremble, au vent qui s'élève,
+Sur son piédestal incertain,
+Ce lion chancelant qui rêve,
+Debout dans le champ du destin !
+Nous repasserons dans sa plaine !
+Laisse-le donc conter sa haine
+Et répandre son ombre vaine
+Sur tes braves ensevelis !
+Quelque jour, --- et je l'attends d'elle ! ---
+Ton aigle, à nos drapeaux fidèle,
+Le soufflettera d'un coup d'aile
+En s'en allant vers Austerlitz !
+]{.calibre4}
+
+[[Décembre 1840]{.italic}]{.calibre_26}
+
+::: calibre_27
+
+
+## [[[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[]{.calibre2}[Le 15 décembre 1840]{.calibre2}]{.bold1}]{.calibre_24} {#calibre_pb_1905 .calibre_57}
+
+::: calibre_19
+
+
+[
+Écrit en revenant des Champs-Élysées.]{.calibre_7}
+
+[
+Ciel glacé, soleil pur. --- Oh ! brille dans l'histoire,
+Du funèbre triomphe impérial flambeau !
+Que le peuple à jamais te garde en sa mémoire,
+Jour beau comme la gloire,
+Froid comme le tombeau !]{.calibre4}
+
+
+[[]{.italic}]{.calibre_3}
+
+[[
+]{.bold}]{.calibre_12}
+
+[[
+]{.bold}]{.calibre_12}
+
+[[FIN DU RETOUR DE L'EMPEREUR]{.bold}]{.calibre_12}
+
+[[![separateur](../../../images/victor-hugo/les-derniers-bardes/00436.jpg){.calibre3}]{.bold}]{.calibre_12}

@@ -1,0 +1,28 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "THÉÂTRE EN LIBERTÉ:"
+slug_oeuvre: "theatre-en-liberte"
+type: "oeuvre-complete"
+---
+
+# THÉÂTRE EN LIBERTÉ
+!
+
+Liste des pièces
+
+LA FORÊT MOUILLÉE
+
+LA GRAND'MÈRE
+
+MANGERONT-ILS ?
+
+L'ÉPÉE
+
+PROLOGUE
+
+LES GUEUX
+
+SUR LA LISIÈRE D'UN BOIS
+
+ÊTRE AIMÉ

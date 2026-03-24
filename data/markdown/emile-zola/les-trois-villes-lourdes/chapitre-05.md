@@ -1,0 +1,1435 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778724 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778386 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778048 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777710 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777372 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776696 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776358 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776020 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775682 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775344 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775006 .pcalibre .calibre3 .pcalibre1}[Cinquième journée]{#_Toc368774668 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_126 .calibre25}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+[Cinquième journée]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778725 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778387 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778049 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777711 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777373 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776697 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776359 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776021 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775683 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775345 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775007 .pcalibre .calibre3 .pcalibre1}[I]{#_Toc368774669 .pcalibre .calibre3 .pcalibre1} {#i .calibre47 .sigil_not_in_toc}
+
+[Cette nuit-là, à l'hôtel des Apparitions, Pierre, de nouveau, ne put fermer l'oeil. Après être passé par l'Hôpital, pour prendre des nouvelles de Marie, qui dormait d'un profond sommeil d'enfant, délicieux et réparateur, depuis son retour de la procession, il s'était couché lui-même, inquiet de n'avoir pas vu reparaître M. De Guersaint. Il l'attendait au plus tard pour le dîner, un accident sans doute l'avait retenu à Gavarnie ; et il songeait au tourment de la jeune fille, si son père n'allait pas l'embrasser, dès le lendemain matin. Avec cet homme si aimablement distrait, à la cervelle d'oiseau, toutes les suppositions, toutes les craintes étaient possibles.]{.calibre11}
+
+[Peut-être cette inquiétude avait-elle d'abord suffi à tenir Pierre éveillé, malgré sa grande fatigue. Mais, ensuite, le tapage nocturne, dans l'hôtel, avait vraiment pris des proportions intolérables. Le lendemain mardi était le jour du départ, le dernier jour que le pèlerinage national devait passer à Lourdes, et sans doute les pèlerins profitaient goulûment des heures, revenaient de la Grotte, y retournaient en pleine nuit, tâchaient de violenter le ciel par leur agitation, sans besoin aucun de repos. Les portes battaient, les planchers tremblaient, la maison entière vibrait comme sous le galop désordonné d'une foule. Jamais encore les murs n'avaient résonné de toux si opiniâtres, de si grosses voix indistinctes. Et Pierre, gagné par l'insomnie, se retournait en sursaut, se relevait, avec la continuelle idée que ce devait être M. De Guersaint qui rentrait. Pendant quelques minutes, il tendait fiévreusement l'oreille, il n'entendait que les rumeurs extraordinaires du couloir, où il ne distinguait rien de précis. Était-ce, à gauche, le prêtre, la mère et ses trois filles, le ménage de vieilles gens, qui se battaient avec les meubles ? Ou était-ce plutôt, à droite, l'autre famille si nombreuse, l'autre monsieur seul, la jeune dame seule, que d'incompréhensibles événements jetaient dans les aventures ? Un instant, il sauta de son lit, il voulut visiter la chambre vide de son compagnon absent, certain qu'il s'y passait des choses violentes. Mais il eut beau écouter, il ne saisit plus, derrière la cloison mince, que le murmure tendre de deux voix, d'une légèreté de caresse. Le brusque souvenir de madame Volmar lui revint, et il retourna se coucher, frissonnant.]{.calibre11}
+
+[Enfin, Pierre, au grand jour, s'endormait, lorsque des coups rudes, frappés dans sa porte, le firent sursauter. Cette fois, il ne se trompait pas, une forte voix criait, étranglée par l'angoisse :]{.calibre11}
+
+[--- Monsieur l'abbé ! Monsieur l'abbé ! De grâce, éveillez-vous !]{.calibre11}
+
+[C'était décidément M. De Guersaint qu'on rapportait mort, pour le moins. Effaré, il courut ouvrir, en chemise, et se trouva devant M. Vigneron, son voisin.]{.calibre11}
+
+[--- Oh ! De grâce, monsieur l'abbé, habillez-vous vite ! On a besoin de votre saint ministère.]{.calibre11}
+
+[Alors, il raconta qu'il venait de se lever pour regarder l'heure à sa montre, posée sur la cheminée, quand il avait entendu des soupirs atroces sortir de la chambre voisine, où était couchée madame Chaise. Elle avait laissé la porte de communication ouverte, par gentillesse, afin d'être davantage avec eux. Naturellement, il s'était précipité, poussant les persiennes, donnant du jour et de l'air.]{.calibre11}
+
+[--- Et quel spectacle, monsieur l'abbé ! Notre pauvre tante sur son lit, à moitié violette déjà, la bouche béante sans pouvoir reprendre haleine, les mains égarées, crispées parmi les draps... Vous comprenez, c'est sa maladie de coeur... Venez, venez vite, monsieur l'abbé, pour l'assister, je vous en supplie !]{.calibre11}
+
+[Pierre, étourdi, ne retrouvait ni son pantalon, ni sa soutane.]{.calibre11}
+
+[--- Sans doute, sans doute, je vais avec vous. Mais je ne puis l'administrer, je n'ai pas ce qu'il faut.]{.calibre11}
+
+[M. Vigneron l'aidait à se vêtir, s'accroupissait, en quête des pantoufles.]{.calibre11}
+
+[--- Ça ne fait rien, votre vue seule l'aidera à passer, si Dieu nous réserve cette affliction... Tenez ! Chaussez-vous d'abord, et suivez-moi, oh ! Tout de suite, tout de suite !]{.calibre11}
+
+[Il repartit en coup de vent, s'engouffra dans la chambre voisine. Toutes les portes étaient restées grandes ouvertes. Le jeune prêtre, qui le suivait, ne remarqua dans la première pièce, obstruée d'un incroyable désordre, que le petit Gustave, demi-nu, assis sur le canapé où il couchait, immobile, très pâle, oublié et grelottant, au milieu de ce drame de la mort brutale. Des valises éventrées barraient le passage, des restes de charcuterie salissaient la table, le lit du père et de la mère semblait ravagé par la catastrophe, les couvertures tirées, jetées à terre. Et, tout de suite, dans la seconde chambre, il aperçut la mère, vêtue en hâte d'un vieux peignoir jaune, debout, l'air terrifié.]{.calibre11}
+
+[--- Eh bien, mon amie ? Eh bien, mon amie ? répéta M. Vigneron, bégayant.]{.calibre11}
+
+[D'un geste, sans répondre, madame Vigneron montra madame Chaise, qui ne bougeait plus, la tête retombée sur l'oreiller, les mains retournées et raidies. La face était bleue, la bouche bâillait, comme dans le dernier souffle énorme qui s'en était échappé.]{.calibre11}
+
+[Pierre s'était penché. Puis, à demi-voix :]{.calibre11}
+
+[--- Elle est morte.]{.calibre11}
+
+[Morte ! Ce mot retentit dans la chambre, mieux tenue, où régnait un lourd silence. Et les deux époux se regardèrent, stupéfaits, éperdus. C'était donc fini ? La tante mourait avant Gustave, le petit héritait des cinq cent mille francs. Que de fois ils avaient fait ce rêve, dont la brusque réalisation les hébétait ! Que de fois ils avaient désespéré, en craignant que le pauvre enfant ne partît avant elle ! Morte, mon Dieu ! Est-ce que c'était leur faute ? Est-ce qu'ils avaient réellement demandé cela à la sainte Vierge ? Elle se montrait si bonne pour eux, qu'ils tremblaient de n'avoir pu exprimer un souhait sans être exaucés. Déjà, dans la mort du chef de bureau, subitement emporté pour leur laisser la place, ils avaient reconnu le doigt si puissant de Notre-Dame de Lourdes. Est-ce qu'elle venait de les combler de nouveau, en écoutant jusqu'aux songeries inconscientes de leur désir ? Pourtant, ils n'avaient jamais voulu la mort de personne, ils étaient de braves gens, incapables d'une action mauvaise, aimant bien leur famille, pratiquant, se confessant, communiant comme tout le monde, sans ostentation. Quand ils pensaient à ces cinq cent mille francs, à leur fils qui pouvait s'en aller le premier, à l'ennui qu'ils auraient de voir un autre neveu, moins digne, hériter de cette fortune, tout cela était si discret au fond d'eux, si naïf, si naturel en somme ! Et ils y avaient certainement pensé devant la Grotte, mais la sainte Vierge n'était-elle pas la suprême sagesse, ne savait-elle pas mieux que nous-mêmes ce qu'elle devait faire pour le bonheur des vivants et des morts ?]{.calibre11}
+
+[Alors, très sincèrement, madame Vigneron éclata en sanglots, pleurant sa soeur qu'elle adorait.]{.calibre11}
+
+[--- Ah ! Monsieur l'abbé, je l'ai vue s'éteindre, elle a passé sous mes yeux. Quel malheur que vous ne soyez pas venu plus tôt, pour recevoir son âme !... Elle est morte sans prêtre, votre présence l'aurait tant consolée !]{.calibre11}
+
+[Les paupières lourdes de larmes, cédant aussi à l'attendrissement, M. Vigneron consola sa femme.]{.calibre11}
+
+[--- Ta soeur était une sainte, elle a communié encore hier matin, et tu peux être sans inquiétude, son âme est allée droit au ciel... Sans doute, si monsieur l'abbé était arrivé à temps, cela lui aurait fait plaisir de le voir... Que veux-tu ? La mort a été la plus prompte. J'ai couru tout de suite, nous n'aurons eu, jusqu'au bout, aucun reproche à nous faire...]{.calibre11}
+
+[Et, se tournant vers le prêtre :]{.calibre11}
+
+[--- Monsieur l'abbé, c'est sa piété trop grande qui a pour sûr hâté la crise. Hier, à la Grotte, elle avait eu déjà un étouffement, dont la violence était significative. Et, malgré sa fatigue, elle s'est ensuite obstinée à suivre la procession... Je pensais bien qu'elle n'irait pas loin. Seulement, c'était si délicat, on n'osait rien lui dire, dans la crainte de l'effrayer.]{.calibre11}
+
+[Doucement, Pierre s'agenouilla, récita les prières d'usage, avec cette émotion humaine qui lui tenait lieu de croyance, devant l'éternelle vie, l'éternelle mort, si pitoyables. Puis, il demeura un instant à genoux, il entendit les voix chuchotantes du ménage.]{.calibre11}
+
+[Le petit Gustave, oublié sur son lit, dans le désordre de la chambre voisine, avait dû être pris d'impatience. Il pleurait, il criait.]{.calibre11}
+
+[--- Maman ! Maman ! Maman !]{.calibre11}
+
+[Enfin, madame Vigneron alla le calmer. Et elle eut l'idée de l'apporter entre ses bras, pour qu'il embrassât une dernière fois sa pauvre tante. D'abord, il se débattit, refusant, pleurant plus fort. Si bien que M. Vigneron fut forcé d'intervenir en lui faisant honte. Comment ! Lui qui n'avait peur de rien ! Qui montrait, devant le mal, du courage autant qu'un homme ! Et sa pauvre tante toujours si aimable, dont la dernière pensée avait dû être certainement pour lui !]{.calibre11}
+
+[--- Donne-le-moi, dit-il à sa femme, il va être raisonnable.]{.calibre11}
+
+[Gustave finit par s'abandonner au cou de son père. Il arriva en chemise, grelottant, montrant la nudité de son misérable petit corps, que rongeait la scrofule. Loin de le guérir, il semblait que l'eau miraculeuse de la piscine eût avivé la plaie de ses reins ; tandis que sa maigre jambe pendait inerte, pareille à un bâton desséché.]{.calibre11}
+
+[--- Embrasse-la, reprit M. Vigneron.]{.calibre11}
+
+[L'enfant se pencha, baisa sa tante sur le front. Ce n'était pas la mort qui l'inquiétait et le faisait se révolter. Depuis qu'il était là, il regardait la morte d'un air de tranquillité curieuse. Il ne l'aimait pas, il avait souffert d'elle trop longtemps. C'étaient, chez lui, des idées, des sentiments de grande personne, dont le poids l'avait étouffé, à mesure qu'elles se développaient et s'aiguisaient, avec son mal. Il sentait bien qu'il était trop petit, que les enfants ne doivent pas comprendre les choses qui se passent au fond des gens.]{.calibre11}
+
+[Son père, s'étant assis à l'écart, le garda sur ses genoux, pendant que la mère refermait la fenêtre et allumait les bougies des deux flambeaux de la cheminée.]{.calibre11}
+
+[--- Ah ! Mon pauvre mignon, murmura-t-il dans le besoin qu'il avait de parler, c'est une perte cruelle pour nous tous. Voilà notre voyage gâté complètement, car c'était notre dernier jour, on part cette après-midi... Et la sainte Vierge justement qui se montrait si bonne...]{.calibre11}
+
+[Mais, devant le regard étonné de son fils, un regard d'infinie tristesse et de reproche, il se hâta de reprendre :]{.calibre11}
+
+[--- Oui, sans doute, je sais qu'elle ne t'a pas guéri encore tout à fait. Seulement, il ne faut jamais désespérer de sa bienveillance... Elle nous aime trop, elle nous comble trop de ses grâces, elle finira sûrement par le guérir, puisque, maintenant, elle n'a plus que cette grande faveur à nous accorder.]{.calibre11}
+
+[Madame Vigneron, qui avait entendu, s'approcha.]{.calibre11}
+
+[--- Comme nous aurions été heureux de rentrer à Paris bien portants tous les trois ! Jamais rien n'est complet.]{.calibre11}
+
+[--- Dis donc ! Fit remarquer brusquement M. Vigneron, je ne vais pas pouvoir partir avec vous, cette après-midi, à cause des formalités... Pourvu que mon billet de retour reste valable jusqu'à demain !]{.calibre11}
+
+[Tous deux se remettaient de l'affreuse secousse, soulagés, malgré l'affection qu'ils avaient pour madame Chaise ; et ils l'oubliaient déjà, ils n'éprouvaient plus que la hâte de quitter Lourdes, comme si le but principal du voyage se trouvait rempli. Une joie décente, inavouée, les inondait.]{.calibre11}
+
+[--- Puis, à Paris, j'aurai tant à courir ! Continua-t-il. Moi qui n'aspire plus qu'au repos !... Ça ne fait rien, je resterai mes trois ans au ministère, jusqu'à ma retraite, maintenant surtout que je suis certain de la retraite de chef de bureau... Seulement, après, oh ! Après, je compte bien jouir un peu de la vie. Puisque cet argent nous arrive, je vais acheter, dans mon pays, le domaine des Billottes, cette terre superbe dont j'ai toujours rêvé. Et je vous réponds que je ne me ferai pas de mauvais sang, au milieu de mes chevaux, de mes chiens et de mes fleurs !]{.calibre11}
+
+[Le petit Gustave était resté sur ses genoux, frissonnant de tout son pauvre corps d'insecte avorté, dans sa chemise retroussée à demi, qui laissait voir sa maigreur d'enfant mourant. Lorsqu'il s'aperçut que son père ne le sentait même plus là, tout à son rêve d'existence riche, enfin réalisable, il eut un de ses sourires énigmatiques, d'une mélancolie aiguisée de malice.]{.calibre11}
+
+[--- Eh bien ! Père, et moi ?]{.calibre11}
+
+[M. Vigneron, réveillé comme en sursaut, s'agita, parut d'abord ne pas comprendre.]{.calibre11}
+
+[--- Toi, mon petit ?... Toi, tu seras avec nous, parbleu !]{.calibre11}
+
+[Mais Gustave continuait à le regarder fixement, profondément, sans cesser de sourire, de ses lèvres fines, si navrées.]{.calibre11}
+
+[--- Oh ! Crois-tu ?]{.calibre11}
+
+[--- Certainement, je le crois !... Tu seras avec nous, ce sera très gentil d'être avec nous...]{.calibre11}
+
+[Gêné, balbutiant, M. Vigneron, qui ne trouvait pas les mots convenables, demeura glacé, lorsque son fils haussa ses maigres épaules, d'un air de philosophique dédain.]{.calibre11}
+
+[--- Oh ! Non !... Moi, je serai mort.]{.calibre11}
+
+[Et le père, terrifié, lut tout d'un coup dans le regard profond de l'enfant, un regard d'homme très vieux, très savant en toutes matières, qui connaissait les abominations de la vie pour les avoir souffertes. Surtout, ce qui l'effarait, c'était la soudaine certitude que cet enfant l'avait toujours pénétré lui-même jusqu'au fond de l'âme, au-delà de ce qu'il n'osait s'avouer. Il se rappelait, dès le berceau, les yeux du petit malade fixés sur les siens, ces yeux que la souffrance rendait si aigus, qu'elle douait sans doute d'une force de divination extraordinaire, fouillant les pensées inconscientes, dans l'obscurité des crânes. Et, par un singulier contre-coup, les choses qu'il ne s'était jamais dites, il les retrouvait toutes à cette heure dans les yeux de son enfant, il les voyait, les lisait malgré lui. L'histoire de sa longue cupidité se déroulait, sa colère d'avoir un fils si chétif, son angoisse à l'idée que la fortune de madame Chaise reposait sur une existence si fragile, son âpre souhait qu'elle se hâtât de mourir, pour que le petit fût encore là, de façon à lui assurer l'héritage. C'était simplement une question de jours, ce duel à qui partirait le premier. Puis, au bout, c'était quand même la mort, le petit à son tour s'en allait, lui seul empochait l'argent, vieillissait longtemps dans l'allégresse. Et ces choses affreuses sortaient si nettes des yeux fins, mélancoliques et souriants du pauvre être condamné, s'échangeaient entre eux avec une telle clarté d'évidence, qu'un instant il sembla au père et au fils qu'ils se les criaient à voix très haute.]{.calibre11}
+
+[Mais M. Vigneron se débattit, tourna la tête, protesta violemment.]{.calibre11}
+
+[--- Comment ! Tu seras mort ?... En voilà des idées ! C'est absurde, des idées pareilles !]{.calibre11}
+
+[Madame Vigneron s'était remise à sangloter.]{.calibre11}
+
+[--- Méchant enfant, peux-tu nous causer une telle peine, au moment où nous pleurons une perte si cruelle déjà !]{.calibre11}
+
+[Il fallut que Gustave les embrassât, en leur promettant de vivre, de faire cela pour eux. Cependant, il n'avait pas cessé de sourire, sachant bien que le mensonge était nécessaire, quand on voulait ne pas trop s'attrister, résigné d'ailleurs à laisser après lui ses parents heureux, puisque la sainte Vierge elle-même ne pouvait lui donner, en ce monde, le petit coin de bonheur pour lequel toute créature aurait dû naître.]{.calibre11}
+
+[Sa mère alla le recoucher, et Pierre enfin se releva, au moment où M. Vigneron achevait de disposer la chambre d'une façon convenable.]{.calibre11}
+
+[--- Vous m'excusez, n'est-ce pas ? Monsieur l'abbé, dit-il en accompagnant le jeune prêtre jusqu'à la porte. Je n'ai pas la tête bien à moi... Enfin, c'est un mauvais quart d'heure à passer. Il faudra tout de même que je m'en tire.]{.calibre11}
+
+[Dans le corridor, Pierre s'arrêta une minute, écoutant un bruit qui montait de l'escalier. Il avait songé encore à M. De Guersaint, il croyait reconnaître sa voix. Puis, comme il restait là, immobile, un événement se produisit, qui lui causa une gêne atroce. Avec une lenteur prudente, la porte de la chambre, occupée par le monsieur tout seul, venait de s'ouvrir ; et une dame vêtue de noir était sortie, si légère, que, dans l'entre-bâillement, on avait eu à peine le temps de distinguer le monsieur, debout, les doigts sur les lèvres. Mais, quand la dame se retourna, elle se trouva soudain face à face avec Pierre. Cela fut si net, si brutal, qu'ils ne purent se détourner, en feignant de ne pas s'être reconnus.]{.calibre11}
+
+[C'était madame Volmar. Après les trois jours et les trois nuits qu'elle venait de passer là, au fond de cette chambre d'amour, dans une claustration absolue, elle s'en échappait de grand matin, avec un arrachement de tout son être. Six heures n'étaient pas sonnées, elle espérait n'être vue de personne, s'évanouir par les couloirs et l'escalier vides, d'une légèreté d'ombre ; et elle avait le désir aussi de se montrer un peu à l'Hôpital, d'y passer cette matinée dernière, pour justifier sa présence à Lourdes. Quand elle aperçut Pierre, elle fut prise d'un tremblement, elle bégaya d'abord :]{.calibre11}
+
+[--- Oh ! Monsieur l'abbé, monsieur l'abbé...]{.calibre11}
+
+[Puis, en remarquant que le prêtre avait laissé sa porte grande ouverte, elle parut céder à la fièvre qui la brûlait, à un besoin de parler de cette flamme, de s'expliquer, de s'innocenter. Le sang au visage, elle passa la première, elle entra dans la chambre, où il dut la suivre, fort troublé de l'aventure. Et, comme il laissait la porte ouverte encore, ce fut elle qui, d'un signe, le pria de la fermer, voulant se confier à lui.]{.calibre11}
+
+[--- Oh ! Monsieur l'abbé, je vous en supplie, ne me jugez pas trop mal !]{.calibre11}
+
+[Il eut un geste, pour dire qu'il ne se permettait pas de porter un jugement sur elle.]{.calibre11}
+
+[--- Si, si, je sais bien que vous connaissez mon malheur... À Paris, vous m'avez aperçue une fois, derrière la Trinité, avec une personne. Et, l'autre jour, ici, vous m'avez reconnue, sur le balcon. N'est-ce pas ? Vous vous doutiez que je vivais là, près de vous, cachée avec cette personne, dans cette chambre... Seulement, si vous saviez, si vous saviez !]{.calibre11}
+
+[Ses lèvres frémissaient, des larmes montaient à ses paupières. Il la regardait, et il restait surpris de l'extraordinaire beauté qui transfigurait son visage. Cette femme, toujours en noir, très simple, sans un bijou, lui apparaissait dans un éclat de sa passion, hors de l'ombre où elle s'effaçait, s'éteignait d'habitude. Elle qui n'était point jolie au premier aspect, trop brune, trop mince, les traits tirés, la bouche grande, le nez long, prenait, à mesure qu'il l'examinait, un charme troublant, une puissance de conquête irrésistible. Ses yeux surtout, ses larges yeux magnifiques, dont elle cachait d'ordinaire le brasier sous un voile d'indifférence, brûlaient comme des torches, aux heures où elle s'abandonnait toute. Il comprit qu'on l'adorât, qu'on pût la désirer à en mourir.]{.calibre11}
+
+[--- Si vous saviez, monsieur l'abbé, si je vous racontais ce que j'ai souffert !... Ce sont des choses que vous avez soupçonnées sans doute, puisque vous connaissez ma belle-mère et mon mari. Les rares fois que vous êtes venu chez nous, vous n'êtes pas sans avoir compris les abominations qui s'y passaient, malgré mon air d'être toujours contente, dans mon petit coin de silence et d'effacement... Mais vivre ainsi dix ans, mais ne jamais être, ne jamais aimer, ne jamais être aimée, non, non, je n'ai pas pu !]{.calibre11}
+
+[Alors, elle conta la douloureuse histoire, son mariage avec le marchand de diamants, désastreux dans son apparent coup de fortune, sa belle-mère une âme dure de bourreau et de geôlier, son mari un monstre de laideur physique, de vilenie morale. On l'emprisonnait, on ne la laissait pas même se mettre seule à une fenêtre. On l'avait battue, on s'était acharné contre ses goûts, ses envies, ses faiblesses de femme. Elle savait qu'au dehors son mari entretenait des filles ; et, si elle souriait à un parent, si elle avait une fleur au corsage, en un jour rare de gaieté, il arrachait la fleur, entrait dans des rages jalouses, lui brisait les poignets, avec d'affreuses menaces. Pendant des années, elle avait vécu dans cet enfer, espérant quand même, ayant en elle un tel flot de vie, un si ardent besoin de tendresse, qu'elle attendait le bonheur, croyant toujours le voir entrer, au moindre souffle.]{.calibre11}
+
+[--- Monsieur l'abbé, je vous jure que je n'ai pas pu ne pas faire ce que j'ai fait. J'étais trop malheureuse, tout mon être brûlait de se donner... Quand mon ami, la première fois, m'a dit qu'il m'aimait, j'ai laissé tomber ma tête sur son épaule ; et c'était fini, j'étais sa chose pour toujours. Il faut comprendre ces délices, être aimée, ne trouver chez son ami que des gestes de caresse, des paroles de douceur, la continuelle préoccupation de se montrer prévenant et aimable ; et savoir qu'il pense à vous, qu'il y a quelque part un coeur où vous vivez ; et n'être que vous deux, n'être plus qu'un, s'oublier dans une étreinte où tout se fond, les corps et les âmes !... Ah ! Si c'est un crime, monsieur l'abbé, je ne puis en avoir le remords. Je ne dis même pas qu'on m'y a poussée, je dis que je l'ai commis aussi naturellement que je respire, parce qu'il était nécessaire à ma vie.]{.calibre11}
+
+[Elle avait porté la main à ses lèvres, comme pour donner un baiser au monde. Et Pierre se sentit bouleversé, devant cette amoureuse, qui était la passion, l'éternel désir. Puis, une immense pitié commença à naître en lui.]{.calibre11}
+
+[--- Pauvre femme ! murmura-t-il.]{.calibre11}
+
+[--- Ce n'est pas au prêtre que je me confesse, reprit-elle c'est à l'homme que je parle, à un homme dont je serais heureuse d'être comprise... Non, je ne suis pas une croyante, la religion ne m'a pas suffi. On prétend que des femmes s'y contentent, qu'elles y trouvent une protection solide contre la faute. Moi, j'ai toujours eu froid dans les églises, j'y meurs de néant... Et je sais bien que cela est mal, de feindre la religion, de paraître la mêler aux choses de mon coeur. Mais, que voulez-vous ? On m'y force. Si vous m'avez rencontrée, à Paris, derrière la Trinité, c'est que cette église est le seul endroit où l'on me laisse aller seule ; et, si vous me trouvez ici, à Lourdes, c'est que, de toute l'année, je n'ai que ces trois jours de liberté absolue, d'absolu bonheur.]{.calibre11}
+
+[Un frisson la reprenait, des larmes chaudes coulèrent sur ses joues.]{.calibre11}
+
+[--- Ah ! Ces trois jours, ces trois jours ! Vous ne pouvez pas savoir avec quelle ardeur je les attends, avec quelle flamme je les vis, avec quelle rage j'en emporte le souvenir !]{.calibre11}
+
+[Tout s'évoquait, devant la longue chasteté de Pierre. Ces trois jours, ces trois nuits, si âprement désirés, si goulûment vécus, il se les imaginait, au fond de cette chambre d'hôtel, les fenêtres et la porte closes, dans l'ignorance où les bonnes elles-mêmes se trouvaient qu'une femme fût enfermée là. L'étreinte sans fin, le continuel baiser, un don de tout l'être, un oubli du monde, un anéantissement dans l'inextinguible amour ! Il n'y avait plus de lieu, il n'y avait plus de temps, rien ne restait que la hâte de s'appartenir, de s'appartenir encore. Et quel déchirement, à l'heure de la séparation ! C'était de cette cruauté qu'elle tremblait, c'était dans la douleur d'avoir quitté son paradis qu'elle s'oubliait, elle si muette, jusqu'à crier son mal. Se prendre une dernière fois aux bras l'un de l'autre, vouloir se confondre pour demeurer l'un dans l'autre, et s'arracher comme si la moitié de votre chair s'en allait, et se dire que de longs jours, que de longues nuits se passeraient, sans qu'on pût même se voir !]{.calibre11}
+
+[Pierre, le coeur éperdu à l'évocation de ce tourment de de la chair, répéta :]{.calibre11}
+
+[--- Pauvre femme !]{.calibre11}
+
+[--- Et, monsieur l'abbé, continua-t-elle, songez à l'enfer dans lequel je vais rentrer. Pendant des semaines, pendant des mois, mon ciel se ferme, je vis mon martyre, sans une plainte... C'est fini encore une fois d'être heureuse, en voilà pour un an. Grand Dieu ! Trois pauvres jours, trois pauvres nuits par an, n'est-ce pas à devenir folle, de ma violence à en jouir et de ma patience à attendre qu'ils reviennent ?... Je suis si malheureuse, monsieur l'abbé, ne croyez-vous pas tout de même que je suis une honnête femme ?]{.calibre11}
+
+[Il était profondément ému par ce grand élan, par cette fougue de passion et de douleur sincères. Il sentait là le souffle de l'universel désir, une flamme souveraine qui purifiait tout. Sa pitié déborda, il fut le pardon.]{.calibre11}
+
+[--- Madame, je vous plains et je vous respecte infiniment.]{.calibre11}
+
+[Alors, elle ne parla plus, elle le regarda de ses grands yeux, obscurcis de larmes. Puis, d'une brusque étreinte, elle lui saisit les deux mains, les tint serrées entre ses doigts brûlants. Et elle partit, elle disparut au fond du couloir, avec sa légèreté d'ombre.]{.calibre11}
+
+[Mais, lorsqu'elle ne fut plus là, Pierre souffrit davantage de sa présence. Il ouvrit toute large la fenêtre, pour chasser l'odeur d'amour qu'elle avait laissée. Déjà, le dimanche, quand il s'était aperçu qu'une femme vivait cachée dans la chambre voisine, il avait eu cette terreur pudique, en se disant qu'elle était la revanche de la chair, au milieu de l'exaltation mystique de Lourdes l'immaculée. Et, maintenant, cette épouvante revenait, il comprenait la toute-puissance, l'invincible volonté de la vie qui veut être. L'amour était plus fort que la foi, peut-être n'y avait-il de divin que la possession. S'aimer, s'appartenir malgré tout, faire de la vie, continuer la vie, n'était-ce pas l'unique but de la nature, en dehors des polices sociales et religieuses ? Un instant, il eut conscience de l'abîme : sa chasteté était son dernier soutien, la dignité même de son existence manquée de prêtre incroyant. Il comprenait qu'après avoir cédé à sa raison, s'il cédait à sa chair, il serait perdu. Tout son orgueil de pureté, toute sa force, qu'il avait mise dans son honnêteté professionnelle, lui revint ; et il se jura de nouveau de n'être pas un homme, puisqu'il s'était volontairement retranché du nombre des hommes.]{.calibre11}
+
+[Sept heures sonnèrent. Pierre ne se recoucha pas, se lava à grande eau, heureux de cette eau fraîche qui achevait de calmer sa fièvre. Comme il finissait de s'habiller, la pensée de M. De Guersaint se réveilla en lui, anxieuse, à un bruit de pas qu'il entendit dans le corridor. On s'arrêta devant sa porte, on frappa ; et il alla ouvrir, soulagé.]{.calibre11}
+
+[Mais il eut un cri de vive surprise.]{.calibre11}
+
+[--- Comment, c'est vous ! Comment, vous voilà déjà levée, à courir les rues, à monter voir les gens !]{.calibre11}
+
+[Marie était debout sur le seuil, souriante. Derrière elle, soeur Hyacinthe, qui l'accompagnait, souriait aussi de ses jolis yeux candides.]{.calibre11}
+
+[--- Ah ! Mon ami, dit la jeune fille, je n'ai pas pu rester couchée. Dès que j'ai vu le soleil, j'ai sauté du lit, tant j'avais besoin de marcher, de courir, de sauter comme une enfant... Et j'ai tant fait, j'ai tant supplié, que ma soeur a été assez aimable pour sortir avec moi... Je crois bien que je m'en serais allée par la fenêtre, si l'on avait fermé la porte.]{.calibre11}
+
+[Pierre les avait fait entrer, et une émotion indicible le serrait à la gorge, en l'entendant plaisanter si gaiement, en la regardant se mouvoir à l'aise, si vive, si gracieuse. Elle, mon Dieu ! Elle qu'il avait vue pendant des années, les jambes mortes, la face couleur de plomb ! Depuis qu'il l'avait quittée, la veille, dans la Basilique, elle s'était épanouie en jeunesse et en beauté. Une nuit venait de suffire pour qu'il retrouvât, grandie, la chère créature de tendresse, l'enfant superbe, éclatante, embrassée si follement autrefois, derrière la haie en fleur, sous les arbres criblés de soleil.]{.calibre11}
+
+[--- Comme vous voilà grande, comme vous voilà belle, Marie ! Ne put-il s'empêcher de dire.]{.calibre11}
+
+[Soeur Hyacinthe, alors, intervint.]{.calibre11}
+
+[--- N'est-ce pas, monsieur l'abbé, que la sainte Vierge a bien fait les choses ? Quand elle s'en mêle, vous voyez, on sort de ses mains fraîche comme une rose et sentant bon.]{.calibre11}
+
+[--- Ah ! reprit la jeune fille, je suis si heureuse, je me sens toute forte, toute saine, toute blanche, comme si je venais de naître !]{.calibre11}
+
+[Et cela fut délicieux pour Pierre. Il lui sembla que ce qui restait encore là de l'haleine éparse de madame Volmar, se dissipait, était purifié. Marie emplissait la chambre de sa candeur, du parfum et de l'éclat de sa jeunesse innocente. Et, cependant, cette joie de la beauté pure, de la vie qui refleurissait, n'allait pas pour lui sans une grande tristesse. Au fond, la révolte qu'il avait eue dans la Crypte, la blessure de son existence manquée devait laisser son coeur à jamais saignant. Tant de grâce ressuscitée, toute la femme adorée qui renaissait en sa fleur ! Et jamais il ne connaîtrait la possession, il était hors du monde, au sépulcre. Mais il ne sanglotait plus, il goûtait une mélancolie sans bornes, un néant immense, à se dire qu'il était mort, que cette aube de femme se levait sur la tombe où dormait sa virilité. C'était le renoncement, accepté, voulu, dans la grandeur désolée des existences hors nature.]{.calibre11}
+
+[Comme l'autre, la passionnée, Marie avait pris les mains de Pierre. Mais ses petites mains, à elle, étaient si douces, si fraîches, si calmantes ! Elle le regardait, confuse un peu, avec une grosse envie qu'elle n'osait formuler. Puis, bravement :]{.calibre11}
+
+[--- Pierre, voulez-vous m'embrasser ? ça me rendrait bien contente.]{.calibre11}
+
+[Il frémit, le coeur broyé dans une dernière torture. Ah ! Les baisers d'autrefois, les baisers dont il avait toujours gardé le goût aux lèvres ! Jamais plus il ne l'avait embrassée, et c'était une soeur, aujourd'hui, qui sautait à son cou. Elle le baisa bruyamment sur la joue gauche, sur la joue droite, tendant les siennes, exigeant qu'il lui rendît son compte. Deux fois, à son tour, il la baisa.]{.calibre11}
+
+[--- Moi aussi, je vous le jure, Marie, je suis content, bien content.]{.calibre11}
+
+[Et, brisé d'émotion, à bout de courage, pénétré en même temps de douceur et d'amertume, il éclata en sanglots, il pleura entre ses mains jointes, comme un enfant qui veut cacher ses larmes.]{.calibre11}
+
+[--- Voyons, voyons, ne nous attendrissons pas trop, reprit gaiement soeur Hyacinthe. Monsieur l'abbé serait trop fier, s'il croyait que nous ne sommes venus que pour lui... Monsieur de Guersaint est là, n'est-ce pas ?]{.calibre11}
+
+[Marie eut un cri de profonde tendresse.]{.calibre11}
+
+[--- Ah ! Mon cher père ! C'est encore lui qui va être le plus content !]{.calibre11}
+
+[Pierre, alors, dut raconter que M. De Guersaint n'était pas rentré de son excursion à Gavarnie. Son inquiétude croissante perçait, bien qu'il s'efforçât d'expliquer le retard, inventant des obstacles, des complications imprévues. La jeune fille, d'ailleurs, ne s'effrayait guère, se remettait à rire, en disant que jamais son père n'avait pu être exact. Elle avait pourtant une impatience si grande qu'il la vît marcher, qu'il la retrouvât debout, ressuscitée, dans sa jeunesse refleurie !]{.calibre11}
+
+[Soeur Hyacinthe, qui était allée se pencher au balcon, revint dans la chambre.]{.calibre11}
+
+[--- Le voici !... Il est en bas, il descend de voiture.]{.calibre11}
+
+[--- Ah ! Vous ne savez pas, s'écria Marie, avec une vivacité joueuse d'écolière, il faut lui faire une surprise... Oui, il faut nous cacher ; et, quand il sera là, nous nous montrerons tout d'un coup.]{.calibre11}
+
+[Déjà, elle entraînait soeur Hyacinthe dans la chambre voisine.]{.calibre11}
+
+[M. De Guersaint, presque aussitôt, entra en coup de vent, par la porte du couloir que Pierre s'était hâté d'ouvrir ; et, lui serrant la main :]{.calibre11}
+
+[--- Enfin, me voilà !... Hein ? Mon ami, vous n'avez plus su que penser, depuis hier quatre heures que vous devez m'attendre ! Mais vous n'imaginez pas les aventures d'abord, une roue de notre landau qui s'est rompue, en arrivant à Gavarnie ; puis, hier soir, comme nous avions fini par repartir tout de même, un orage épouvantable qui nous a retenus la nuit entière à Saint-Sauveur... Je n'a pas fermé l'oeil.]{.calibre11}
+
+[Il s'interrompit.]{.calibre11}
+
+[--- Et vous, ça va bien ?]{.calibre11}
+
+[--- Je n'ai pas pu dormir non plus, dit le prêtre, tellement ils ont fait du bruit, dans cet hôtel.]{.calibre11}
+
+[Mais déjà M. De Guersaint repartait.]{.calibre11}
+
+[--- N'importe, c'est délicieux. On ne peut pas s'imaginer, il faudra que je vous raconte... J'étais avec trois ecclésiastiques charmants. L'abbé Des Hermoises est à coup sur l'homme le plus agréable que j'aie connu... Oh ! Nous avons ri, nous avons ri !]{.calibre11}
+
+[De nouveau, il s'arrêta.]{.calibre11}
+
+[--- Et ma fille ?]{.calibre11}
+
+[Alors, derrière lui, il y eut un rire clair. Il se retourna, il resta béant. Marie était là, et elle marchait, elle avait un visage de gaieté ravie, de santé resplendissante. Jamais il n'avait douté du miracle, il n'en était pas surpris le moins du monde, car il revenait avec la conviction que tout finirait très bien, qu'il la retrouverait sûrement guérie. Mais ce qui le retournait jusqu'au fond des entrailles, c'était ce spectacle prodigieux qu'il n'avait pas prévu : sa fille si belle, si divine dans sa petite robe noire ! Sa fille qui n'avait pas même apporté de chapeau, une dentelle simplement nouée sur son admirable chevelure blonde ! Sa fille vivante, florissante, triomphante, pareille à toutes les filles de tous les pères qu'il enviait depuis tant d'années !]{.calibre11}
+
+[--- Ô mon enfant, ô mon enfant...]{.calibre11}
+
+[Et, comme elle s'était élancée entre ses bras, il l'étreignit, ils tombèrent ensemble à genoux. Et tout fut emporté, tout rayonna dans une effusion de foi et d'amour. Cet homme distrait, à la cervelle d'oiseau, qui s'endormait au lieu d'accompagner sa fille à la Grotte, qui partait pour Gavarnie le jour où la Vierge devait la guérir, déborda d'une telle tendresse paternelle, d'une croyance de chrétien si exaltée par la reconnaissance, qu'il en devint un moment sublime.]{.calibre11}
+
+[--- Ô Jésus, ô Marie, que je vous remercie de m'avoir rendu mon enfant !... Ô mon enfant, nous n'aurons jamais assez de souffle, jamais assez d'âme, pour remercier Marie et Jésus du grand bonheur qu'il me donne... Ô mon enfant, qu'ils ont ressuscitée, ô mon enfant, qu'ils ont refaite si belle, prends mon coeur, pour le leur offrir avec le tien... Je suis à toi, je suis à eux, éternellement, ô mon enfant chérie, ô mon enfant adorée...]{.calibre11}
+
+[À genoux devant la fenêtre ouverte, tous deux, les yeux levés, regardaient ardemment le ciel. La fille avait appuyé la tête à l'épaule du père ; tandis que lui la tenait d'un bras à la taille. Ils ne faisaient qu'un, des larmes lentes se mirent à ruisseler sur leurs visages extasiés, souriant d'une félicité surhumaine ; tandis qu'ils ne bégayaient plus ensemble que des paroles désordonnées de gratitude.]{.calibre11}
+
+[--- Ô Jésus, merci ! ô sainte Mère de Jésus, merci !... Nous vous aimons, nous vous adorons... Vous avez rajeuni le meilleur sang de nos veines, il est à vous, il brûle pour vous... Ô Mère toute-puissante, ô divin Fils bien-aimé, c'est une fille et c'est un père qui vous bénissent, qui s'anéantissent de joie à vos pieds...]{.calibre11}
+
+[Cet embrassement de ces deux êtres, heureux après tant de jours noirs, ces bégayements de leur bonheur comme trempé de souffrance encore, toute cette scène était si touchante, que Pierre, de nouveau, fut gagné par les larmes. Mais c'étaient des larmes douces à présent, qui apaisaient son coeur. Ah ! La triste humanité ! Que cela était bon, de la voir un peu consolée et ravie ! Et qu'importait, si ses grandes félicités de quelques secondes lui venaient de l'éternelle illusion ! L'humanité entière, l'humanité pitoyable, sauvée par l'amour, n'était-elle pas chez ce pauvre homme, tout d'un coup sublime, parce qu'il retrouvait sa fille ressuscitée ?]{.calibre11}
+
+[Debout, un peu à l'écart, soeur Hyacinthe pleurait également, le coeur très gros, gros d'une émotion humaine qu'elle n'avait jamais ressentie, elle qui ne s'était connu d'autres parents que le bon Dieu et la sainte Vierge. Un silence régna dans cette chambre frissonnante d'une telle fraternité trempée de pleurs. Et ce fut elle qui parla la première, lorsque le père et la fille, brisés d'attendrissement, se relevèrent enfin.]{.calibre11}
+
+[--- Maintenant, mademoiselle, il faut vite, vite nous dépêcher, pour rentrer à l'Hôpital.]{.calibre11}
+
+[Mais tous se récrièrent. M. De Guersaint voulait garder sa fille avec lui, et Marie avait des yeux ardents de désir, une envie de vivre, de marcher, de courir le vaste monde.]{.calibre11}
+
+[--- Oh ! Non, non ! dit le père. Je ne vous la rends pas... Nous allons prendre un bol de lait, car je meurs de faim ; puis, nous sortirons, nous nous promènerons, oui, oui, tous les deux ! Elle à mon bras, comme une petite femme !]{.calibre11}
+
+[Soeur Hyacinthe riait de nouveau.]{.calibre11}
+
+[--- Eh bien ! Je vous la laisse, je dirai à ces dames que vous me l'avez volée... Mais moi, je me sauve. Vous ne vous doutez pas de la besogne que nous avons, à l'Hôpital, si nous voulons être prêtes pour le départ : toutes nos malades, tout notre matériel, enfin une vraie bousculade !]{.calibre11}
+
+[--- Alors, demanda M. De Guersaint qui retombait dans ses distractions, c'est bien mardi aujourd'hui, nous partons ce soir ?]{.calibre11}
+
+[--- Certainement, n'allez pas oublier !... Le train blanc part à trois heures quarante... Et, si vous étiez raisonnable, vous nous ramèneriez mademoiselle de bonne heure, pour qu'elle se repose un peu.]{.calibre11}
+
+[Marie accompagna la soeur jusqu'à la porte.]{.calibre11}
+
+[--- Soyez tranquille, je serai bien sage. Puis, je veux retourner à la Grotte, pour remercier encore la sainte Vierge.]{.calibre11}
+
+[Lorsqu'ils se trouvèrent tous les trois seuls, dans la petite chambre baignée de soleil, ce fut délicieux. Pierre avait appelé la servante pour qu'elle apportât du lait, du chocolat, des gâteaux, toutes les bonnes choses imaginables. Et, bien que Marie eût mangé déjà, elle mangea encore, tant elle dévorait depuis la veille. Ils avaient roulé le guéridon devant la fenêtre, ils firent un festin, à l'air vif des montagnes, pendant que les cent cloches de Lourdes sonnaient à la volée la gloire de cette journée radieuse. Ils s'exclamaient, ils riaient, la jeune fille racontait à son père le miracle, avec des détails cent fois répétés, et comment elle avait laissé son chariot à la Basilique, et comment elle venait de dormir douze heures, sans remuer un doigt. Puis, M. De Guersaint voulut aussi conter son excursion ; mais il s'embrouillait, y mêlait le miracle. En somme, ce cirque de Gavarnie, c'était quelque chose de colossal. Seulement, de loin, on perdait le sentiment des proportions, ça semblait petit. Les trois marches gigantesques, couvertes de neige, l'arête supérieure qui découpait sur le ciel le profil d'une forteresse cyclopéenne, au donjon rasé, aux courtines déchiquetées, la grande cascade, dont le jet sans fin semblait si lent, lorsque en réalité il devait tomber avec une violence de tonnerre, toute cette immensité, ces forêts à droite et à gauche, ces torrents, ces écroulements de montagnes, avaient l'air de tenir dans le creux de la main, quand on les regardait de la halle du village. Et ce qui l'avait le plus frappé, ce dont il reparlait sans cesse, c'étaient les étranges figures que dessinait la neige, restée là-haut parmi les rocs, entre autres un crucifix immense, une croix blanche de plusieurs milliers de mètres, qu'on aurait dite jetée en travers du cirque, d'un bout à l'autre.]{.calibre11}
+
+[Il s'interrompit pour dire :]{.calibre11}
+
+[--- À propos, que se passe-t-il, chez nos voisins ? En montant tout à l'heure, j'ai rencontré monsieur Vigneron qui courait comme un fou ; et, par la porte entr'ouverte de leur chambre, il m'a semblé apercevoir madame Vigneron très rouge... Est-ce que leur fils Gustave a eu encore une crise ?]{.calibre11}
+
+[Pierre avait oublié madame Chaise, la morte qui dormait là, de l'autre côté de la cloison. Il crut sentir un petit souffle froid.]{.calibre11}
+
+[--- Non, non, l'enfant va bien...]{.calibre11}
+
+[Et il ne continua pas, il préféra se taire. À quoi bon gâter cette heure si heureuse de résurrection, de jeunesse reconquise, en y mêlant l'image de la mort ? Mais, pour lui, dès cette minute, il ne cessa plus de penser à ce voisinage du néant ; et il songeait aussi à l'autre chambre, celle où le monsieur seul étouffait des sanglots, les lèvres collées sur une paire de gants, qu'il avait volée à son amie. Tout l'hôtel revenait, avec ses toux, ses soupirs, ses voix indistinctes, les continuels battements de ses portes, les chambres craquantes sous l'entassement des voyageurs, les corridors balayés par le vol des jupes, par le galop des familles qui s'effaraient maintenant, dans la hâte du départ.]{.calibre11}
+
+[--- Parole d'honneur ! Tu vas te faire du mal, s'écria M. De Guersaint en riant, quand il vit que sa fille reprenait une brioche.]{.calibre11}
+
+[Marie s'égaya, elle aussi. Puis, avec deux larmes soudaines dans les yeux :]{.calibre11}
+
+[--- Ah ! Que je suis contente ! Et que j'ai de peine, quand je songe que tout le monde n'est pas content comme moi !]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+[Cinquième journée]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778726 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778388 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778050 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777712 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777374 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776698 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776360 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776022 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775684 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775346 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775008 .pcalibre .calibre3 .pcalibre1}[II]{#_Toc368774670 .pcalibre .calibre3 .pcalibre1} {#ii .calibre47 .sigil_not_in_toc}
+
+[Il était huit heures, Marie ne tenait plus d'impatience dans la chambre, retournant sans cesse à la fenêtre, comme si, d'une haleine, elle allait boire tout le libre espace, tout le vaste ciel. Ah ! Courir par les rues, par les places, aller partout, ailleurs encore, aussi loin que son désir la mènerait ! Et montrer aussi combien elle était forte, avoir cette vanité de faire des lieues devant le monde, maintenant que la sainte Vierge l'avait guérie ! C'était une poussée, un envolement de son être entier, de son sang, de son coeur, irrésistible.]{.calibre11}
+
+[Mais, au moment du départ, elle décida que sa première visite, avec son père, devait être pour la Grotte, où tous deux avaient à remercier Notre-Dame de Lourdes. Ensuite, on serait libre, on aurait deux grandes heures devant soi, on se promènerait où l'on voudrait, avant qu'elle rentrât déjeuner et faire son petit paquet à l'Hôpital.]{.calibre11}
+
+[--- Voyons, y sommes-nous ? répéta M. De Guersaint. Partons-nous ?]{.calibre11}
+
+[Pierre prenait son chapeau, tous les trois descendirent, parlant très haut, riant dans l'escalier, d'une gaieté d'écoliers qui entrent en vacances. Et ils gagnaient déjà la rue, lorsque, sous le porche, madame Majesté se précipita. Elle devait guetter leur sortie.]{.calibre11}
+
+[--- Ah ! Mademoiselle, ah ! Messieurs, permettez que je vous félicite... Nous avons su la grâce extraordinaire qui vous a été faite, nous sommes si heureux, si flattés, lorsque la sainte Vierge veut bien distinguer quelqu'un de notre clientèle !]{.calibre11}
+
+[Son visage sec et dur se fondait d'amabilité, elle regardait la miraculée avec des yeux de caresse. Puis, elle appela vivement son mari qui passait.]{.calibre11}
+
+[--- Regarde donc, mon ami ! C'est mademoiselle, c'est mademoiselle...]{.calibre11}
+
+[Le visage glabre de Majesté, bouffi de graisse jaune, prit une expression de joie et de reconnaissance.]{.calibre11}
+
+[--- En vérité, mademoiselle, je ne puis pas vous dire combien nous sommes honorés... Nous n'oublierons jamais que monsieur votre père est descendu chez nous. Cela fait déjà bien des envieux.]{.calibre11}
+
+[Et madame Majesté, pendant ce temps, arrêtait les autres voyageurs qui sortaient, appelait du geste les familles déjà installées dans la salle à manger, aurait fait entrer la rue, si on lui en eût laissé le loisir, pour montrer qu'elle avait là, chez elle, le miracle dont Lourdes tout entier s'émerveillait depuis la veille. Du monde finissait par s'amasser, un attroupement se faisait peu à peu, pendant qu'elle chuchotait à l'oreille de chacun :]{.calibre11}
+
+[--- Regardez, c'est elle, la jeune personne, vous savez, la jeune personne...]{.calibre11}
+
+[Tout d'un coup, elle s'écria :]{.calibre11}
+
+[--- Je vais chercher Appoline au magasin, il faut qu'Appoline voie mademoiselle.]{.calibre11}
+
+[Mais, alors, d'un air digne, Majesté la retint.]{.calibre11}
+
+[--- Non, laisse Appoline, elle a déjà trois dames à servir... Mademoiselle et ces messieurs ne quitteront certainement pas Lourdes sans faire quelques achats. Les petits souvenirs qu'on emporte sont si agréables à regarder, plus tard ! Et nos clients veulent bien ne jamais rien acheter autre part que chez nous, dans le magasin que nous avons joint à l'hôtel.]{.calibre11}
+
+[--- J'ai déjà fait mes offres de service, appuya madame Majesté. Je les renouvelle, Appoline sera si heureuse de montrer à mademoiselle ce que nous avons de plus joli, et dans des conditions de bon marché vraiment incroyables ! Oh ! Des choses ravissantes, ravissantes !]{.calibre11}
+
+[Marie commençait à s'impatienter d'être ainsi retenue, et Pierre souffrait de la curiosité éveillée, grandissante autour d'eux. Quant à M. De Guersaint, il jouissait délicieusement de cette popularité, de ce triomphe de sa fille. Il promit de revenir.]{.calibre11}
+
+[--- Certainement, nous achèterons quelques petits bibelots. Des souvenirs pour nous, des cadeaux à faire... Mais plus tard, quand nous rentrerons.]{.calibre11}
+
+[Enfin, ils s'échappèrent, ils descendirent l'avenue de la Grotte. Le temps était de nouveau superbe, après les orages des deux nuits précédentes. Rafraîchi, l'air matinal sentait bon, sous la gaieté épandue du clair soleil. Une foule se hâtait déjà sur les trottoirs, affairée, contente de vivre. Et quel ravissement pour Marie, à qui tout semblait nouveau, charmant, inappréciable ! Le matin, elle avait dû accepter que Raymonde lui prêtât une paire de bottines, car elle s'était bien gardée d'en mettre une dans sa valise, par superstition, craignant de se porter malheur. Les bottines lui allaient à ravir, elle écoutait avec une joie d'enfant les petits talons taper gaillardement sur les dalles. Elle ne se souvenait pas d'avoir vu des maisons si blanches, des arbres si verts, des passants si joyeux. Tous les sens, chez elle, semblaient en fête, d'une délicatesse merveilleuse : elle entendait des musiques, sentait des parfums lointains, elle goûtait l'air avec gourmandise, ainsi qu'un fruit suave. Mais, surtout, ce qu'elle trouvait de très gentil, de délicieux, c'était de se promener de la sorte au bras de son père. Jamais encore cela ne lui était arrivé, elle en faisait le rêve depuis des années comme d'un de ces grands bonheurs impossibles dont on occupe sa souffrance. Le rêve se réalisait, son coeur battait d'allégresse. Elle se serrait contre son père, elle s'efforçait de marcher bien droite, bien belle, pour lui faire honneur. Et lui était très fier, heureux autant qu'elle, la montrant, l'affichant, débordant de la joie de la sentir à lui, son sang, sa chair, sa fille, désormais rayonnante de jeunesse et de santé.]{.calibre11}
+
+[Comme tous trois traversaient le plateau de la Merlasse, déjà barré par la bande des marchandes de cierges et de bouquets, lancées à la poursuite des pèlerins, M. De Guersaint s'écria :]{.calibre11}
+
+[--- Nous n'allons bien sûr pas arriver à la Grotte les mains vides !]{.calibre11}
+
+[Pierre, qui marchait de l'autre côté de Marie, gagné par la gaieté rieuse où il la voyait, s'arrêta. Tout de suite, ils furent entourés, envahis, par une nuée de marchandes, dont les mains rapaces leur poussaient la marchandise jusque dans la figure. « Ma belle demoiselle ! Mes bons messieurs ! Achetez-moi, achetez-moi, à moi, à moi ! » Et il fallut se débattre, se dégager. M. De Guersaint finit par acheter le plus gros bouquet, un bouquet de marguerites blanches, pommé et dur comme un chou, à une très belle fille grasse et blonde, vingt ans au plus, si peu vêtue dans son effronterie, qu'on sentait la rondeur libre de sa gorge sous sa camisole à demi dégrafée. Le bouquet n'était d'ailleurs que de vingt sous, il se fâcha pour le payer sur sa petite bourse, un peu interloqué des manières de la grande fille, pensant tout bas qu'elle faisait sûrement un autre commerce, celle-là, quand la sainte Vierge chômait. Alors, Pierre paya de son côté les trois cierges que Marie avait pris à une vieille femme, des cierges de deux francs, fort raisonnables, ainsi qu'elle disait. La vieille femme, une figure anguleuse, au nez de proie, aux yeux de lucre, se répandait en remerciements mielleux. « Que Notre-Dame de Lourdes vous bénisse, ma belle demoiselle ! Qu'elle vous guérisse de vos maladies, vous et les vôtres ! » Et cela les égaya de nouveau, ils repartirent en riant tous les trois, amusés comme des enfants par l'idée que c'était une chose faite, ce voeu de la brave femme.]{.calibre11}
+
+[À la Grotte, Marie voulut défiler immédiatement, pour donner elle-même le bouquet et les cierges, avant même de s'agenouiller. Il n'y avait pas encore grand monde, ils se mirent à la queue, passèrent au bout de trois ou quatre minutes. Et de quels regards extasiés elle examina tout, l'autel d'argent gravé, l'orgue-harmonium, les ex-voto, les herses ruisselantes de cire, flambantes dans le plein jour ! Cette Grotte qu'elle n'avait encore vue que de loin, de son chariot de misère, elle y entrait, elle y respirait, comme au paradis même, baignée dans une tiédeur et une bonne odeur, dont elle étouffait un peu, divinement. Quand elle eut déposé les cierges, au fond du grand panier, et qu'elle se fut grandie, pour accrocher le bouquet à une lance de la grille, elle baisa longuement le roc, en dessous de la sainte Vierge, à cette place que des millions de lèvres déjà avaient polie. Et ce fut, donné à cette pierre, un baiser d'amour où elle mit la flamme de la reconnaissance, un baiser où son coeur se fondait.]{.calibre11}
+
+[Dehors, ensuite, Marie se prosterna, s'anéantit dans un acte de remerciement sans fin. Son père s'était également agenouillé, près d'elle, mêlant à la sienne la ferveur de sa gratitude. Mais il ne pouvait faire longtemps la même chose, il devint peu à peu inquiet, finit par se pencher à l'oreille de sa fille, pour lui dire qu'il avait une course, dont il ne s'était plus souvenu tout à l'heure. Sûrement, le mieux était qu'elle restât là, en prière, à l'attendre. Pendant qu'elle achèverait ses dévotions, lui se dépêcherait, s'acquitterait de sa corvée ; et l'on se promènerait après, à l'aise, où l'on voudrait. Elle ne le comprenait, ne l'entendait seulement pas. Elle se contenta de hocher la tête, promettant de ne pas bouger, reprise par une telle foi attendrie, que ses yeux se mouillaient de larmes, fixés sur la statue blanche de la Vierge.]{.calibre11}
+
+[Quand M. De Guersaint eut rejoint Pierre, resté un peu à l'écart, il s'expliqua.]{.calibre11}
+
+[--- Mon cher, c'est un cas de conscience, j'ai fait à notre cocher de Gavarnie la promesse formelle de voir son patron, pour lui dire les vraies causes du retard. Vous savez, le coiffeur de la place du Marcadal... Et puis, il faut que je me fasse raser, moi !]{.calibre11}
+
+[Pierre, inquiet, dut céder devant le serment qu'on serait de retour dans un quart d'heure. Seulement, comme la course lui semblait longue, il s'entêta de son côté à prendre une voiture, qui stationnait au bas du plateau de la Merlasse. C'était une sorte de cabriolet verdâtre, dont le cocher, un gros garçon d'une trentaine d'années, coiffé d'un béret, fumait une cigarette. Assis de biais sur le siège, les genoux écartés, il conduisait avec un sans-façon tranquille d'homme bien nourri, maître de la rue.]{.calibre11}
+
+[--- Nous vous gardons, dit Pierre en descendant, lorsqu'ils furent arrivés place du Marcadal.]{.calibre11}
+
+[--- Bien, bien, monsieur l'abbé ! Je vous attends.]{.calibre11}
+
+[Et, laissant son maigre cheval au grand soleil, il alla rire avec une forte servante, échevelée, dépoitraillée, qui lavait un chien dans le bassin de la fontaine voisine.]{.calibre11}
+
+[Cazaban était justement sur le seuil de sa boutique, dont les hautes glaces et la claire couleur verte égayaient la place morne, déserte en semaine. Quand la besogne ne pressait pas, il aimait à triompher ainsi, entre ses deux vitrines, que des pots de pommade et des flacons de parfumerie décoraient de nuances vives.]{.calibre11}
+
+[Tout de suite, il reconnut ces messieurs.]{.calibre11}
+
+[--- Très flatté, très honoré... Veuillez entrer, je vous prie.]{.calibre11}
+
+[Puis, dès les premiers mots que M. De Guersaint voulut lui dire, pour excuser l'homme qui l'avait conduit à Gavarnie, il se montra bienveillant. Sans doute, ce n'était pas de sa faute, à cet homme, il n'avait pas le pouvoir d'empêcher les roues de se rompre, ni les orages de tomber. Du moment que les voyageurs ne se plaignaient pas, tout allait pour le mieux.]{.calibre11}
+
+[--- Oh ! S'écria M. De Guersaint, un pays admirable, inoubliable !]{.calibre11}
+
+[--- Eh bien ! Monsieur, puisque notre pays vous plaît, vous reviendrez nous voir, et nous n'en demandons pas davantage.]{.calibre11}
+
+[Ensuite, il s'empressa, lorsque l'architecte s'assit sur un des fauteuils, demandant à être rasé. Son garçon était encore absent, en course pour les pèlerins qu'il hébergeait, toute une famille qui emportait une caisse de chapelets, de saintes Vierges de plâtre, de gravures sous verre. On entendait venir du premier étage des piétinements éperdus, des voix violentes, une bousculade de gens que l'approche du départ affolait, au milieu d'un écroulement d'achats à emballer. Dans la salle à manger voisine, dont la porte était restée ouverte, deux enfants égouttaient les tasses de chocolat, traînant parmi la débandade du couvert. Et c'était la maison entière louée, livrée, les dernières heures de cette invasion de l'étranger, qui forçait le coiffeur et sa femme à se réfugier dans le sous-sol, une cave étroite où ils couchaient sur un lit de sangle.]{.calibre11}
+
+[Tandis que Cazaban lui frottait les joues de mousse savonneuse, M. De Guersaint le questionna.]{.calibre11}
+
+[--- Eh bien ! êtes-vous content de la saison ?]{.calibre11}
+
+[--- Certainement, monsieur, je n'ai pas à me plaindre. Vous entendez, mes voyageurs partent aujourd'hui ; mais j'en attends d'autres demain matin, à peine le temps de donner un coup de balai... Ce sera de même jusqu'en octobre.]{.calibre11}
+
+[Puis, comme Pierre demeurait debout, allant et venant par la boutique, regardant les murs d'un air d'impatience, il se tourna poliment.]{.calibre11}
+
+[--- Asseyez-vous donc, monsieur l'abbé, prenez un journal... Ça ne sera pas long.]{.calibre11}
+
+[D'un geste, le prêtre ayant remercié, en refusant de s'asseoir, le coiffeur reprit, dans sa continuelle démangeaison de parler :]{.calibre11}
+
+[--- Oh ! Moi, ça marche toujours, ma maison est connue pour la propreté des lits et pour la bonté de la cuisine... Seulement, la ville n'est pas contente, ah ! Non ! Je puis même dire que je n'y ai jamais vu un pareil mécontentement.]{.calibre11}
+
+[Il se tut une minute, rasa la joue gauche ; et, s'interrompant de nouveau, il déclara soudain, dans un cri que la vérité lui arrachait :]{.calibre11}
+
+[--- Monsieur, les pères de la Grotte jouent avec le feu, voilà tout ce que j'ai à dire.]{.calibre11}
+
+[Dès lors, la bonde était lâchée, il parla, il parla, il parla encore. Ses gros yeux roulaient dans sa face longue, aux pommettes saillantes, au teint hâlé, éclaboussé de rouge ; pendant que tout son petit corps nerveux tressautait, secoué par son exubérance de paroles et de gestes. Il revenait à son acte d'accusation, il disait les griefs sans nombre que l'ancienne ville avait contre les pères. Les hôteliers s'y plaignaient, les marchands d'objets religieux n'y faisaient pas la moitié des recettes qu'ils auraient dû réaliser ; enfin, la ville nouvelle accaparait les pèlerins et l'argent, il n'y avait plus du gain possible que pour les maisons garnies, les hôtels, les magasins ouverts dans les environs de la Grotte. C'était la lutte sans merci, l'hostilité meurtrière grandissant de jour en jour, la vieille cité perdant un peu de sa vie à chaque saison, destinée sûrement à disparaître, à être étouffée, assassinée par la cité jeune. Ah ! Leur sale Grotte ! Il se serait plutôt fait couper les pieds que de les y mettre. N'était-ce pas écoeurant, la boutique de bibelots qu'ils avaient collée à côté ? Une vraie honte, dont un évêque s'était montré si indigné, qu'il en avait, disait-on, écrit au pape ! Lui, qui se flattait d'être un libre penseur et un républicain de l'avant-veille, qui déjà sous l'empire votait pour les candidats de l'opposition, avait bien le droit de déclarer qu'il n'y croyait pas, à leur sale Grotte, et qu'il s'en fichait !]{.calibre11}
+
+[--- Tenez ! Monsieur, je vais vous raconter un fait. Mon frère est du conseil municipal, c'est par lui que je sais la chose... Il faut vous dire d'abord que nous avons maintenant un conseil municipal républicain, qui s'afflige beaucoup de la démoralisation de la ville. Le soir, on ne peut plus sortir, sans rencontrer des filles dans les rues, vous savez, ces marchandes de cierges. Elles se perdent avec les cochers que la saison nous amène, une population louche et flottante, venue on ne sait d'où... Et il faut aussi que je vous explique la situation des pères vis-à-vis de la ville. Quand ils lui ont acheté les terrains de la Grotte, ils ont signé un acte par lequel ils s'y interdisaient formellement tout commerce. Or, ils y ont ouvert une boutique, au mépris de leur signature. N'est-ce pas là une concurrence déloyale, indigne de gens honnêtes ?... Aussi le nouveau conseil s'est-il décidé à leur envoyer une délégation pour exiger d'eux le respect du traité, en leur enjoignant d'avoir à fermer leur boutique immédiatement. Savez-vous, monsieur, ce qu'ils ont répondu ?... Oh ! Ce qu'ils ont répondu vingt fois, ce qu'ils répondent toujours, quand on leur rappelle leurs engagements : « C'est bien, nous consentons à les tenir, mais nous sommes les maîtres chez nous, et nous fermons la Grotte. »]{.calibre11}
+
+[Il s'était soulevé, son rasoir en l'air, et il répéta, en scandant les mots, les yeux arrondis par cette énormité :]{.calibre11}
+
+[--- « Nous fermons la Grotte. »]{.calibre11}
+
+[Pierre, qui continuait sa promenade lente, s'arrêta brusquement, lui dit dans la face :]{.calibre11}
+
+[--- Eh bien ! Le conseil municipal n'avait qu'à répondre : « Fermez-la ! »]{.calibre11}
+
+[Du coup, Cazaban faillit suffoquer, le sang au visage, hors de lui. Il bégayait :]{.calibre11}
+
+[--- Fermer la Grotte !... Fermer la Grotte !]{.calibre11}
+
+[--- Mais certainement ! Puisqu'elle vous irrite et vous écoeure, cette Grotte ! Puisqu'elle est une cause continuelle de guerre, d'injustice, de corruption ! Ce serait fini, on n'en entendrait plus parler... En vérité, il y aurait là une solution excellente, et si l'on avait quelque pouvoir, on vous rendrait service, en forçant les pères à exécuter leur menace.]{.calibre11}
+
+[À mesure que Pierre parlait, Cazaban perdait de sa colère. Il devint très calme, un peu pâle. Et, au fond de ses gros yeux, le prêtre voyait grandir une inquiétude. N'était-il pas allé trop loin, dans sa passion contre les pères ? Beaucoup d'ecclésiastiques ne les aimaient pas, peut-être ce jeune prêtre ne se trouvait-il à Lourdes que pour mener une campagne contre eux. Alors, qui pouvait savoir ? C'était la fermeture possible de la Grotte, plus tard. On ne vivait que d'elle. Si la vieille ville criait, par rage de ne ramasser que les miettes, elle était heureuse encore de cette aubaine ; et les libres penseurs eux-mêmes, qui battaient monnaie avec les pèlerins, comme tout le monde, se taisaient, mal à l'aise, effrayés, dès qu'on était trop de leur avis sur les côtés fâcheux du nouveau Lourdes. Il fallait être prudent.]{.calibre11}
+
+[Cazaban revint à M. De Guersaint. Il se mit à raser l'autre joue, en murmurant d'un air détaché :]{.calibre11}
+
+[--- Oh ! Moi, ce que j'en dis, de leur Grotte, ce n'est pas qu'elle me gêne, au fond. Et puis, il faut bien que tout le monde vive.]{.calibre11}
+
+[Dans la salle à manger, les enfants venaient de casser un des bols, au milieu de cris assourdissants. Et Pierre remarquait de nouveau les gravures de sainteté, la sainte Vierge de plâtre, dont le coiffeur avait décoré la pièce, pour être agréable à ses locataires. Une voix cria, du premier étage, que la malle était fermée et que le garçon serait bien gentil de la ficeler, quand il rentrerait.]{.calibre11}
+
+[Mais Cazaban, devant ces deux messieurs qu'il ne connaissait point en somme, restait méfiant, gêné, la cervelle hantée d'hypothèses inquiétantes. Cela le désespérait de les laisser partir ainsi, sans savoir rien d'eux, après s'être compromis lui-même. Si encore il avait pu rattraper ses paroles trop vives contre les pères ! Aussi, lorsque M. De Guersaint se leva pour se laver le menton, céda-t-il à son besoin de renouer l'entretien.]{.calibre11}
+
+[--- Avez-vous entendu parler du miracle d'hier ? La ville en est bouleversée, plus de vingt personnes me l'ont raconté déjà... Oui, il paraît qu'ils ont obtenu un miracle extraordinaire, une jeune demoiselle paralytique qui s'est levée et qui a traîné son chariot jusque dans le choeur de la Basilique.]{.calibre11}
+
+[M. De Guersaint, en train de se rasseoir après s'être essuyé, eut un rire complaisant.]{.calibre11}
+
+[--- Cette jeune demoiselle est ma fille.]{.calibre11}
+
+[Alors, sous ce brusque coup de lumière heureuse, Cazaban rayonna. Rassuré, il acheva de donner un coup de peigne magistral, au milieu de l'exubérance de gestes et de paroles qui lui revenait.]{.calibre11}
+
+[--- Ah ! Monsieur, je vous félicite, je suis flatté de vous avoir eu entre les mains... Du moment que mademoiselle votre fille est guérie, n'est-ce pas ? Cela suffit à votre coeur de père.]{.calibre11}
+
+[Et il trouva aussi pour Pierre un mot aimable. Puis, lorsqu'il se décida à les laisser partir, il regarda le prêtre d'un air pénétré, il dit en homme de bon sens, désireux de conclure sur les miracles :]{.calibre11}
+
+[--- Il y en a, monsieur l'abbé, d'heureux pour tout le monde. De temps à autre, il nous en faut un de cette qualité.]{.calibre11}
+
+[Dehors, M. De Guersaint dut aller chercher le cocher, qui continuait à rire avec la servante, dont le chien, trempé d'eau, se secouait au soleil. En cinq minutes, d'ailleurs, la voiture les ramena en bas du plateau de la Merlasse. La course leur avait pris une grande demi-heure ; et Pierre voulut garder la voiture, dans l'idée de montrer la ville à Marie, sans la fatiguer trop. Pendant que le père courait à la Grotte, pour y reprendre sa fille, il attendit là, sous les arbres.]{.calibre11}
+
+[Tout de suite, le cocher lia conversation avec le prêtre. Il avait allumé une autre cigarette, il se montrait très familier. Lui, était d'un village des environs de Toulouse, et il ne se plaignait pas, il gagnait de grasses journées, à Lourdes. On y mangeait bien, on s'y amusait, c'était ce qu'on pouvait appeler un bon pays. Il disait ces choses avec un abandon d'homme que ses scrupules religieux ne gênaient pas, sans oublier pourtant le respect qu'il devait à un ecclésiastique.]{.calibre11}
+
+[Enfin, du haut de son siège, à demi couché, l'une de ses jambes pendantes, il laissa lentement tomber cette parole :]{.calibre11}
+
+[--- Ah ! Oui, monsieur l'abbé, Lourdes a bien pris, mais le tout est de savoir si ça continuera longtemps.]{.calibre11}
+
+[Pierre, très frappé du mot, en sondait l'involontaire profondeur, lorsque M. De Guersaint reparut, ramenant Marie. Il l'avait trouvée agenouillée à la même place, dans le même acte de foi et de remerciement, aux pieds de la sainte Vierge ; et il semblait qu'elle eût emporté dans ses yeux tout le flamboiement de la Grotte, tellement ils luisaient de la divine joie de sa guérison. Jamais elle ne consentit à garder la voiture. Non, non ! Elle préférait marcher, peu lui importait de voir la ville, pourvu que, pendant une heure encore, elle marchât au bras de son père, par les jardins, par les rues, par les places, où l'on voudrait ! Et, quand Pierre eut payé le cocher, ce fut elle qui s'engagea dans une allée du jardin de l'Esplanade, ravie de se promener ainsi à petits pas, le long des gazons fleuris de corbeilles, sous les grands arbres. Cela était si doux, si frais, toutes ces herbes, toutes ces feuilles, ces allées ombreuses, solitaires, d'où l'on entendait l'éternel ruissellement du Gave ! Puis, elle désira retourner dans les rues, parmi la foule, pour y retrouver l'agitation, le bruit, la vie, dont le besoin débordait de son être.]{.calibre11}
+
+[Rue Saint-Joseph, en apercevant le Panorama, où l'on voyait l'ancienne Grotte, avec Bernadette agenouillée, le jour du miracle du cierge, Pierre eut l'idée d'entrer. Marie en fut heureuse, comme une enfant ; et M. De Guersaint lui-même témoigna la plus innocente joie, surtout lorsqu'il remarqua que, parmi la fournée des pèlerins qui s'engouffraient avec eux au fond du couloir obscur, plusieurs venaient de reconnaître, en sa fille, la jeune miraculée de la veille, déjà glorieuse, dont le nom volait de bouche en bouche. En haut, sur l'estrade ronde, quand on déboucha dans la lumière diffuse que tamisait un velum, il y eut une sorte d'ovation autour de Marie, des chuchotements tendres, des regards béats, un ravissement d'extase à la voir, à la suivre, à la toucher. Maintenant, c'était la gloire, elle serait aimée ainsi, partout où elle irait. Et il fallut, pour qu'on l'oubliât un peu, que l'employé chargé des explications se mît à la tête de la petite troupe des visiteurs, faisant le tour, racontant l'épisode que représentait l'immense toile circulaire, de cent vingt-six mètres de longueur. Il s'agissait de la dix-septième apparition de la sainte Vierge à Bernadette, le jour où, agenouillée devant la Grotte, elle avait par mégarde, pendant la vision, laissé la main sur la flamme de son cierge, sans la brûler ; et tout l'ancien paysage de la Grotte primitive se trouvait rétabli, toute la scène était reconstituée, avec les personnages historiques, le médecin en train de constater le miracle, sa montre à la main, le maire, le commissaire de police, le procureur impérial, dont l'employé disait les noms, au milieu de l'ébahissement du public qui le suivait.]{.calibre11}
+
+[Alors, par une inconsciente liaison d'idées, Pierre se rappela le mot que le cocher venait de lui dire : « Lourdes a bien pris, mais le tout est de savoir si ça durera longtemps. » En effet, là était la question. Que de sanctuaires vénérés avaient ainsi été bâtis déjà, à la voix d'enfants innocentes, élues entre toutes, auxquelles la sainte Vierge s'était montrée ! Toujours la même histoire recommençait : une apparition, une bergère qu'on persécutait, qu'on traitait de menteuse, puis une sourde poussée de la misère humaine affamée d'illusion, et alors la propagande, le triomphe du sanctuaire rayonnant comme un phare, et ensuite le déclin, l'oubli, quand un autre sanctuaire naissait ailleurs du rêve extasié d'une autre voyante. Il semblait que le pouvoir de l'illusion s'usait, qu'il fallait, au travers des siècles, la déplacer, la remettre dans de nouveaux décors, dans une nouvelle aventure, pour en renouveler la puissance. La Salette avait détrôné les antiques Vierges de bois ou de pierre qui guérissaient, Lourdes venait de détrôner la Salette, en attendant d'être détrônée elle-même par la Notre-Dame de demain, celle dont le doux visage consolateur se montrera à une pure enfant encore à naître. Seulement, si Lourdes avait eu une fortune si rapide, si prodigieuse, il la devait sûrement à la petite âme sincère, au charme délicieux de Bernadette. Ici, aucune supercherie, aucun mensonge, la seule floraison de la souffrance, une chétive fillette malade qui apportait au peuple des souffrants son rêve de justice, d'égalité dans le miracle. Elle n'était que l'éternel espoir, l'éternelle consolation. En outre, toutes les circonstances historiques et sociales paraissaient s'être rencontrées pour exaspérer le besoin de cette envolée mystique, à la fin d'un terrible siècle d'enquête positive ; et c'était pourquoi Lourdes sans doute durerait longtemps encore, dans son triomphe, avant de n'être plus qu'une légende, une de ces religions mortes, au puissant parfum évaporé.]{.calibre11}
+
+[Ah ! Cet ancien Lourdes, cette ville de paix et de croyance, le seul berceau possible où la légende pouvait naître, comme Pierre le reconstituait aisément, en faisant le tour de la vaste toile du Panorama ! Cette toile disait tout, constituait la meilleure leçon de choses qu'on pût voir. Les explications monotones de l'employé ne s'entendaient pas, le paysage parlait lui-même. D'abord, c'était la Grotte, le trou de roche au bord du Gave, un lieu sauvage de rêverie, des pentes buissonneuses, des écroulements de pierres, sans un chemin frayé ; et rien encore, pas d'embellissements, pas de quai monumental, pas d'allées de jardin anglais serpentant parmi des arbustes taillés à la serpe, pas de Grotte arrangée, déformée, fermée d'une grille, surtout pas de boutique d'objets religieux, cette boutique de simonie qui était le scandale des âmes pieuses. La Vierge n'avait pu choisir au désert un coin plus charmant pour se montrer à l'élue de son coeur, la fillette pauvre, promenant là le songe de ses nuits pénibles, en ramassant du bois mort. Puis, c'était, de l'autre côté du Gave, derrière le rocher du Château, le vieux Lourdes confiant et endormi. Un autre âge s'évoquait, une petite ville, avec ses rues étroites, pavées de cailloux, ses maisons noires, aux encadrements de marbre, son antique église à demi espagnole, pleine d'anciennes sculptures, peuplée de visions d'or et de chairs peintes. Deux fois par jour, il n'y avait que les diligences de Bagnères et de Cauterets qui traversaient à gué le Lapaca, pour monter ensuite la raide chaussée de la rue Basse. L'esprit du siècle n'avait pas soufflé sur ces toits paisibles, qui abritaient une population attardée, restée enfant, toute serrée dans le lien étroit d'une forte discipline religieuse. Aucune débauche, un lent commerce séculaire suffisant à la vie quotidienne, une vie pauvre dont la rudesse sauvegardait les moeurs. Et jamais Pierre n'avait mieux compris comment Bernadette, née de cette terre de foi et d'honnêteté, y avait fleuri telle qu'une rose naturelle, éclose sur les églantiers du chemin.]{.calibre11}
+
+[--- C'est tout de même curieux, déclara M. De Guersaint, quand on se retrouva dans la rue. Je ne suis pas fâché d'avoir vu ça.]{.calibre11}
+
+[Marie également riait d'aise.]{.calibre11}
+
+[--- Père, n'est-ce pas ? On dirait qu'on y est. Par moments, il semble que les personnages vont bouger... Et comme elle est charmante, Bernadette, à genoux, en extase, pendant que la flamme du cierge lèche ses doigts, sans laisser de brûlure.]{.calibre11}
+
+[--- Voyons, reprit l'architecte, nous n'avons plus qu'une heure, il faudrait pourtant songer à faire nos emplettes, si nous désirons acheter quelque chose... Voulez-vous que nous fassions le tour des boutiques ? Nous avons bien promis à Majesté de lui donner la préférence ; seulement, ça ne nous empêche pas de nous renseigner un peu... Hein ? Pierre, qu'en dites-vous ?]{.calibre11}
+
+[--- Mais certainement, comme vous voudrez, répondit le prêtre. D'ailleurs, cela nous promènera.]{.calibre11}
+
+[Et il suivit la jeune fille et son père, qui revinrent sur le plateau de la Merlasse. Depuis qu'il était sorti du Panorama, il éprouvait une sensation singulière de dépaysement. C'était comme si, tout d'un coup, on l'avait transporté d'une ville dans une autre, à des siècles de distance. Il quittait la solitude, la paix endormie de l'ancien Lourdes, augmentée encore par la lumière morte du velum, pour tomber brusquement dans le Lourdes nouveau, éclatant de lumière, bruyant de foule. Dix heures venaient de sonner, l'animation était extraordinaire sur les trottoirs, tout un peuple qui, avant le déjeuner, se hâtait de finir ses achats, pour ne plus songer ensuite qu'au départ. Les milliers de pèlerins du pèlerinage national, en une bousculade dernière, ruisselaient par les rues, assiégeaient les boutiques. On aurait dit les cris, les coups de coude, les galops brusques d'une foire qui s'achève, au milieu du roulement ininterrompu des voitures. Beaucoup se munissaient de provisions de route, dévalisaient les échoppes en plein air, où l'on vendait des pains, du saucisson, du jambon. On achetait des fruits, on achetait du vin, les paniers se remplissaient de bouteilles, de papiers gras, jusqu'à en éclater. Un marchand ambulant qui promenait des fromages sur une petite voiture, voyait sa marchandise enlevée, comme balayée par le vent. Mais, surtout, la foule achetait des objets religieux ; et d'autres marchands ambulants, dont les petites voitures étaient chargées de statuettes et de gravures pieuses, réalisaient des affaires d'or. La clientèle des boutiques faisait queue sur la chaussée, les femmes étaient enveloppées de chapelets immenses, avaient des saintes Vierges sous les bras, emportaient des bidons pour les remplir à la fontaine miraculeuse. Ces bidons, d'un à dix litres, les uns sans image, les autres peinturlurés d'une Notre-Dame de Lourdes en bleu, ajoutaient une gaieté à la cohue, avec leur éclat de ferblanterie neuve, leur clair tintement de casserole, portés à la main, pendus en sautoir. Et la fièvre du négoce, le plaisir de dépenser son argent, de repartir les poches bourrées de photographies et de médailles, allumait les visages d'un air de fête, changeait cette foule épanouie en une foule de kermesse, aux appétits débordants et satisfaits.]{.calibre11}
+
+[Sur le plateau de la Merlasse, M. De Guersaint fut tenté un instant d'entrer dans une des boutiques les plus belles et les plus achalandées, dont l'enseigne portait en lettres hautes ces mots : Soubirous, frère de Bernadette.]{.calibre11}
+
+[--- Hein ? Si nous faisions nos emplettes là ? Ce serait plus local, nos petits souvenirs auraient un intérêt de plus.]{.calibre11}
+
+[Puis, il passa, en répétant qu'il fallait tout voir d'abord.]{.calibre11}
+
+[Pierre avait regardé la boutique du frère de Bernadette, avec un serrement de coeur. Cela le chagrinait, le frère vendant la sainte Vierge que la soeur avait vue. Mais il fallait bien vivre, et il croyait savoir que la famille de la voyante, à côté de la Basilique triomphale dans son resplendissement d'or, ne faisait pas fortune, tellement la concurrence était terrible. Si les pèlerins laissaient à Lourdes des millions, les marchands d'articles de sainteté y étaient plus de deux cents, sans compter les hôteliers et les logeurs qui prenaient la grosse part ; de sorte que les gains, si âprement disputés, finissaient par être assez médiocres. Le long du plateau, à droite et à gauche du frère de Bernadette, d'autres boutiques s'ouvraient, une file ininterrompue de boutiques, serrées les unes contre les autres, qui occupaient les cases du baraquement de bois, une sorte de galerie construite par la ville, et dont elle tirait une soixantaine de mille francs. C'étaient de véritables bazars, des étalages ouverts, empiétant sur le trottoir, raccrochant le monde au passage. Sur près de trois cents mètres, il n'y avait pas d'autre commerce : un fleuve de chapelets, de médailles, de statuettes, coulant sans fin au travers des vitrines. Et les enseignes affichaient en lettres énormes des noms vénérés, saint Roch, saint Joseph, Jérusalem, la Vierge Immaculée, le Sacré-Coeur de Marie, tout ce que le paradis contenait de mieux pour toucher et attirer la clientèle.]{.calibre11}
+
+[--- Ma foi, déclara M. De Guersaint, je crois bien que c'est partout la même chose. Entrons n'importe où.]{.calibre11}
+
+[Il en avait assez, cette file interminable d'étalages lui cassait les jambes.]{.calibre11}
+
+[--- Puisque tu as promis d'acheter là-bas, dit Marie qui ne se lassait point, le mieux est d'y retourner.]{.calibre11}
+
+[--- C'est cela, retournons chez Majesté.]{.calibre11}
+
+[Mais les boutiques recommencèrent avenue de la Grotte. Aux deux bords, elles se pressaient de nouveau ; et il s'y mêlait des bijoutiers, des marchands de nouveautés, des marchands de parapluies tenant l'article religieux ; même il y avait là un confiseur qui vendait des boîtes de pastilles à l'eau de Lourdes, dont le couvercle portait une image de la Vierge. Les vitrines d'un photographe débordaient de vues de la Grotte et de la Basilique, de portraits d'évêques, de révérends pères de tous les ordres, mêlés aux sites célèbres des montagnes voisines. Une librairie étalait les dernières publications catholiques, des volumes aux titres dévots, parmi les nombreux ouvrages publiés sur Lourdes depuis vingt ans, quelques-uns avec un succès prodigieux, dont le retentissement durait encore. Dans cette grande voie populeuse, la foule coulait en un flot élargi, les bidons sonnaient, c'était une joie de vie intense, au clair soleil qui enfilait la chaussée d'un bout à l'autre. Et les statuettes, les médailles, les chapelets ne semblaient devoir cesser jamais, un étalage continuait l'autre étalage, des kilomètres allaient ainsi s'étendre, dévidant les rues de la ville entière, occupée par le même bazar vendant les mêmes articles.]{.calibre11}
+
+[Devant l'hôtel des Apparitions, M. De Guersaint eut une hésitation encore.]{.calibre11}
+
+[--- Alors, c'est bien décidé, nous faisons nos emplettes là ?]{.calibre11}
+
+[--- Mais certainement, dit Marie. Vois donc comme la boutique est belle !]{.calibre11}
+
+[Et elle entra la première dans le magasin, un des plus vastes de la rue en effet, et qui occupait le rez-de-chaussée de l'hôtel, à gauche. M. De Guersaint et Pierre la suivirent.]{.calibre11}
+
+[Appoline, la nièce des Majesté, chargée de la vente, se trouvait debout sur un escabeau, en train de prendre des bénitiers dans une vitrine haute, pour les montrer à un jeune homme, un brancardier élégant, porteur d'admirables guêtres jaunes. Elle riait d'un roucoulement de tourterelle, charmante, avec d'épais cheveux noirs, des yeux superbes dans une face un peu carrée, au front droit, aux joues larges, aux fortes lèvres rouges. Et Pierre vit très nettement la main du jeune homme au bord de la jupe, chatouillant le bas d'une jambe qui semblait s'être offerte là volontiers. Ce ne fut d'ailleurs que la vision d'une seconde. Déjà la jeune fille était lestement sautée à terre, en demandant :]{.calibre11}
+
+[--- Alors, vous ne croyez pas que ce modèle de bénitier conviendrait à madame votre tante ?]{.calibre11}
+
+[--- Non, non ! Répondit le brancardier en s'en allant. Procurez-vous l'autre modèle. Je ne pars que demain, je reviendrai.]{.calibre11}
+
+[Lorsque Appoline sut que Marie était la miraculée dont madame Majesté parlait depuis la veille, elle montra beaucoup d'empressement. Elle la regardait avec son gai sourire, où il y avait une pointe de surprise, d'incrédulité discrète, comme la sourde moquerie d'une belle fille, folle de son corps, en présence d'une virginité si enfantine et attardée. Mais la vendeuse adroite qu'elle était se répandit en paroles aimables.]{.calibre11}
+
+[--- Ah ! Mademoiselle, je serai si heureuse de vous vendre ! C'est tellement beau, votre miracle !... Voyez, tout le magasin est à vous. Nous avons le plus grand choix.]{.calibre11}
+
+[Marie était gênée.]{.calibre11}
+
+[--- Je vous remercie, vous êtes bien aimable... Nous ne venons vous acheter que des petites choses.]{.calibre11}
+
+[--- Si vous le permettez, dit M. De Guersaint, nous allons faire notre choix nous-mêmes.]{.calibre11}
+
+[--- Eh bien ! C'est cela, choisissez, monsieur. Ensuite, nous verrons.]{.calibre11}
+
+[Et, comme d'autres clients entraient, Appoline les oublia, reprit son métier de jolie vendeuse, avec des mots de caresse, des gestes de séduction, surtout pour les hommes, qu'elle ne laissait partir que les poches pleines d'achats.]{.calibre11}
+
+[Il restait deux francs à M. De Guersaint sur le louis que Blanche, sa fille aînée, lui avait glissé, au départ, comme argent de poche. Aussi n'osait-il trop se lancer dans son choix. Mais Pierre déclara qu'on lui causerai beaucoup de peine, si on ne lui permettait pas d'offrir à ses amis les quelques objets qu'ils emporteraient de Lourdes. Dès lors, il fut convenu qu'on choisirait d'abord un cadeau pour Blanche, puis que Marie et son père prendraient chacun le souvenir qui lui plairait le mieux.]{.calibre11}
+
+[--- Ne nous pressons pas, répétait M. De Guersaint très égayé. Voyons, Marie, cherche bien... Qu'est-ce qui ferait le plus de plaisir à Blanche ?]{.calibre11}
+
+[Tous les trois regardaient, furetaient, fouillaient. Seulement, leur indécision augmentait à mesure qu'ils passaient d'un objet à un autre. Le vaste magasin, avec ses comptoirs, ses vitrines, ses cases, qui le garnissaient du haut en bas, était une mer aux flots sans nombre, en débordement de tous les articles religieux imaginables. Il y avait les chapelets, des liasses de chapelets pendus le long des murs, des tas de chapelets dans les tiroirs, depuis les humbles chapelets à vingt sous la douzaine, jusqu'aux chapelets de bois odorant, d'agate, de lapis, chaînés d'or ou d'argent ; et certains, immenses, faits pour ceindre à double tour le cou et la taille, montraient des grains travaillés, gros comme des noix, espacés par des têtes de mort. Il y avait les médailles, une pluie de médailles, des médailles à pleines boîtes, de toutes les grandeurs, de toutes les matières, les plus humbles et les plus précieuses, portant des inscriptions diverses, représentant la Basilique, la Grotte, l'Immaculée-Conception, gravées, repoussées, émaillées, soignées ou fabriquées à la grosse, selon les bourses. Il y avait les saintes Vierges, les petites, les grandes, en zinc, en bois, en ivoire, en plâtre surtout, les unes d'une blancheur nue, les autres peintes de couleurs vives, reproduisant à l'infini la description faite par Bernadette, le visage aimable et souriant, le voile très long, l'écharpe bleue, les roses d'or sur les pieds, mais avec des modifications légères pour chaque modèle, de façon à garantir la propriété de l'éditeur. Et c'était un autre flot d'articles religieux, les cent variétés de scapulaires, les mille clichés de l'imagerie dévote, des gravures fines, des chromolithographies violentes, que noyait un pullulement de petites images coloriées, dorées, vernies, fleuries de bouquets, ornées de dentelles. Et c'était aussi de la bijouterie, des bagues, des broches, des bracelets, chargés d'étoiles et de croix, décorés de figures saintes. Et c'était enfin l'article Paris qui dominait, qui submergeait le reste : des porte crayons, des porte-monnaie, des porte-cigares, des presse-papiers, des couteaux à papier, jusqu'à des tabatières, des objets innombrables sur lesquels revenaient sans cesse la Basilique, la Grotte, la sainte Vierge, reproduites de toutes les façons, par tous les procédés connus. Dans une case à cinquante centimes l'article, s'entassait un pêle-mêle de ronds de serviette, de coquetiers et de pipes de bois, où l'apparition de Notre-Dame de Lourdes était sculptée, rayonnante.]{.calibre11}
+
+[Peu à peu, M. De Guersaint s'était dégoûté, envahi d'une tristesse, d'un agacement d'homme qui se piquait d'être un artiste.]{.calibre11}
+
+[--- Mais c'est affreux, c'est affreux, tout cela ! Répétait-il à chaque nouvel article qu'il examinait.]{.calibre11}
+
+[Il se soulagea, en rappelant à Pierre la tentative ruineuse qu'il avait faite pour rénover l'imagerie religieuse. Les débris de sa fortune y étaient restés, ce qui le rendait plus sévère encore, devant les pauvres choses dont le magasin débordait. Avait-on jamais vu des objets d'une laideur si sotte, si prétentieuse, si compliquée ? La vulgarité de l'idée, la niaiserie de l'expression le disputaient à l'habileté banale de la facture. Cela tenait de la gravure de mode, du couvercle de boîte à bonbons, des poupées de cire qui tournent chez les coiffeurs : un art faussement joli, péniblement enfantin, sans humanité réelle, sans accent, sans sincérité aucune. Et l'architecte, lancé, ne s'arrêta plus, dit aussi son dégoût des constructions du nouveau Lourdes, le pitoyable enlaidissement de la Grotte, la monstruosité colossale des rampes, les désastreuses disproportions de l'église du Rosaire et de la Basilique, celle-là trop lourde, pareille à une halle au blé, celle-ci d'une maigreur de bâtisse anémique, sans style et bâtarde.]{.calibre11}
+
+[--- Ah ! Vraiment, finit-il par conclure, il faut bien aimer le bon Dieu, pour avoir le courage de venir l'adorer au milieu de pareilles horreurs ! Ils ont tout raté, ils ont tout gâché, comme à plaisir, sans qu'un seul ait eu la minute d'émotion, de naïveté vraie, de foi sincère, qui enfante les chefs-d'oeuvre. Tous des malins, tous des copistes, pas un n'a donné sa chair et son âme. Et que faut-il donc pour les inspirer, s'ils n'ont rien fait pousser de grand, sur cette terre du miracle !]{.calibre11}
+
+[Pierre ne répondit pas. Mais il était singulièrement frappé par ces réflexions, il s'expliquait enfin la cause d'un malaise qu'il éprouvait depuis son arrivée à Lourdes. Ce malaise venait du désaccord entre le milieu tout moderne et la foi des siècles passés, dont on essayait la résurrection. Il évoquait les vieilles cathédrales où frissonnait cette foi des peuples, il revoyait les anciens objets du culte, l'imagerie, l'orfèvrerie, les saints de pierre et de bois, d'une force, d'une beauté d'expression admirables. C'était qu'en ces temps lointains, les ouvriers croyaient, donnaient leur chair, donnaient leur âme, dans toute la naïveté de leur émotion, comme disait M. De Guersaint. Et, aujourd'hui, les architectes bâtissaient les églises avec la science tranquille qu'ils mettaient à bâtir les maisons à cinq étages, de même que les objets religieux, les chapelets, les médailles, les statuettes, étaient fabriqués à la grosse, dans les quartiers populeux de Paris, par des ouvriers noceurs qui ne pratiquaient même pas. Aussi quelle bimbeloterie, quelle quincaillerie de pacotille, d'un joli à faire pleurer, d'une sentimentalité niaise à soulever le coeur ! Lourdes en était inondé, ravagé, enlaidi, au point d'incommoder les personnes de goût un peu délicat, égarées dans ses rues. Tout cela, brutalement, jurait avec la résurrection tentée, avec les légendes, les cérémonies, les processions des âges morts ; et Pierre, tout d'un coup, pensa que la condamnation historique et sociale de Lourdes était là, que la foi est morte à jamais chez un peuple, quand il ne la met plus dans les églises qu'il construit, ni dans les chapelets qu'il fabrique.]{.calibre11}
+
+[Marie avait continué à fouiller les étalages avec une impatience d'enfant, hésitant, ne trouvant rien qui lui parût digne du grand rêve d'extase qu'elle allait garder en elle.]{.calibre11}
+
+[--- Père, l'heure s'avance, il faut que tu me reconduises à l'Hôpital... Et, pour en finir, vois-tu, je donnerai à Blanche cette médaille, avec cette chaîne d'argent. C'est encore ce qu'il y a de plus simple et de plus joli. Elle la portera, ça lui fera un petit bijou... Moi, je prends cette statuette de Notre-Dame de Lourdes, le petit modèle, qui est assez gentiment peint. Je la mettrai dans ma chambre, je l'entourerai de fleurs fraîches... N'est-ce pas ? Ce sera très bien.]{.calibre11}
+
+[M. De Guersaint l'approuva. Puis, revenant à son propre choix :]{.calibre11}
+
+[--- Mon Dieu ! Mon Dieu ! Que je suis embarrassé !]{.calibre11}
+
+[Il examinait des porte-plume en ivoire, terminés par des boules pareilles à des pois, dans lesquelles se trouvaient des photographies microscopiques. Et, comme il appliquait l'oeil à un des minces trous, pour voir, il eut un cri d'émerveillement.]{.calibre11}
+
+[--- Tiens ! Le cirque de Gavarnie !... Ah ! C'est prodigieux, tout y est bien, comment le colosse peut-il tenir là dedans ?... Ma foi, je prends ce porte-plume, moi. Il est drôle, il me rappellera mon excursion.]{.calibre11}
+
+[Pierre avait simplement choisi un portrait de Bernadette, la grande photographie qui la représente à genoux, en robe noire, un foulard noué sur les cheveux, la seule, dit-on, qu'on ait faite d'après nature. Il se hâtait de payer, tous trois partaient, lorsque madame Majesté entra, se récria, voulut absolument faire un petit cadeau à Marie, en disant que ça porterait bonheur à sa maison.]{.calibre11}
+
+[--- Mademoiselle, je vous en prie, prenez un scapulaire, tenez ! Parmi ceux-ci. La sainte Vierge, qui vous a élue, me le payera en bonne chance.]{.calibre11}
+
+[Elle haussait la voix, elle faisait tant, que les acheteurs, dont la boutique se trouvait pleine, s'intéressèrent, regardèrent dès lors la jeune fille avec des yeux avides. C'était la popularité qui recommençait autour d'elle, qui finit même par gagner la rue, lorsque l'hôtelière alla sur le seuil de la boutique, faisant des signes aux marchands d'en face, ameutant le voisinage.]{.calibre11}
+
+[--- Partons-nous ? répétait Marie, de plus en plus gênée.]{.calibre11}
+
+[Mais son père la retint encore, en voyant un prêtre qui entrait.]{.calibre11}
+
+[--- Ah ! Monsieur l'abbé Des Hermoises !]{.calibre11}
+
+[C'était en effet le bel abbé, en soutane fine, sentant bon, le visage frais, d'une gaieté tendre. Il n'avait pas vu son compagnon de la veille, il s'était vivement approché d'Appoline, la prenant à l'écart.]{.calibre11}
+
+[Et Pierre l'entendit qui disait à demi-voix :]{.calibre11}
+
+[--- Pourquoi ne m'avez-vous pas apporté mes trois douzaines de chapelets, ce matin ?]{.calibre11}
+
+[Appoline s'était remise à rire de son roucoulement de tourterelle, en le regardant en dessous, avec malice, sans répondre.]{.calibre11}
+
+[--- C'est pour mes petites pénitentes de Toulouse, je voulais les mettre au fond de ma malle, et vous m'aviez offert de m'aider à serrer mon linge.]{.calibre11}
+
+[Elle riait toujours, elle l'excitait du coin de ses jolis yeux.]{.calibre11}
+
+[--- Maintenant, je ne partirai que demain. Apportez-les-moi ce soir, n'est-ce pas ? Quand vous serez libre... C'est au bout de la rue, chez la Duchêne, la chambre meublée du rez-de-chaussée... Soyez gentille, venez vous-même.]{.calibre11}
+
+[Du bout de ses lèvres rouges, elle dit enfin en plaisantant, sans qu'il pût savoir si elle tiendrait sa promesse :]{.calibre11}
+
+[--- Certainement, monsieur l'abbé, j'irai.]{.calibre11}
+
+[Ils furent interrompus, M. De Guersaint s'était avancé pour serrer la main au prêtre. Tout de suite, ils reparlèrent du cirque de Gavarnie : une partie délicieuse, des heures charmantes qu'ils n'oublieraient jamais. Puis, ils s'égayèrent sur le compte de leurs deux compagnons, des ecclésiastiques peu fortunés, des braves gens dont les naïvetés les avaient amusés énormément. L'architecte finit par rappeler à son nouvel ami qu'il avait bien voulu lui promettre d'intéresser un personnage de Toulouse, dix fois millionnaire, à ses études sur la direction des ballons.]{.calibre11}
+
+[--- Une première avance de cent mille francs suffirait, dit-il.]{.calibre11}
+
+[--- Comptez sur moi, déclara l'abbé Des Hermoises. Vous n'aurez pas prié la sainte Vierge en vain.]{.calibre11}
+
+[Mais Pierre, qui avait gardé à la main le portrait de Bernadette, venait d'être frappé de l'extraordinaire ressemblance d'Appoline avec la voyante. C'était la même face un peu massive, la même bouche trop forte, les mêmes yeux magnifiques ; et il se souvint que madame Majesté lui avait déjà signalé cette ressemblance singulière, d'autant plus qu'Appoline avait eu la même enfance pauvre, à Bartrès, avant que sa tante la prît chez elle, pour l'aider à tenir la boutique. Bernadette ! Appoline ! Quel étrange rapprochement, quelle réincarnation inattendue, à trente années de distance ! Et, tout d'un coup, avec cette Appoline si galamment rieuse, qui acceptait des rendez-vous, sur laquelle couraient les bruits les plus aimables, le nouveau Lourdes se dressa devant ses yeux : les cochers, les marchandes de cierges, les loueuses de chambres raccrochant le client à la gare, les cent maisons meublées aux petits logements discrets, la cohue des prêtres libres, des hospitalières passionnées, des simples passants venus là pour satisfaire leurs appétits. Puis, il y avait la rage du négoce déchaînée par la pluie des millions, la ville entière livrée au lucre, les boutiques changeant les rues en bazars, se dévorant entre elles, les hôtels vivant goulûment des pèlerins, jusqu'aux Soeurs bleues qui tenaient table d'hôte, jusqu'aux pères de la Grotte qui battaient monnaie avec leur Dieu ! Quelle aventure triste et effrayante, la vision d'une Bernadette si pure passionnant les foules, les faisant se ruer à l'illusion du bonheur, amenant un fleuve d'or, et dès ce jour pourrissant tout ! Il avait suffi que la superstition soufflât, que de l'humanité s'entassât, que de l'argent fût apporté, pour que cet honnête coin de terre se corrompît à jamais. Où le lis candide fleurissait autrefois, poussait maintenant la rose charnelle, dans le nouveau terreau de cupidité et de jouissance. Sodome était née de Bethléem, depuis qu'une enfant innocente avait vu la Vierge.]{.calibre11}
+
+[--- Hein ? Que vous ai-je dit ? S'écria madame Majesté, en s'apercevant que Pierre comparait sa nièce au portrait. Appoline, c'est Bernadette tout craché.]{.calibre11}
+
+[La jeune fille s'approcha, avec son aimable sourire, flattée d'abord de la comparaison.]{.calibre11}
+
+[--- Voyons, voyons ! dit l'abbé Des Hermoises, d'un air de vif intérêt.]{.calibre11}
+
+[Il prit la photographie, compara à son tour, s'émerveilla.]{.calibre11}
+
+[--- C'est prodigieux, les mêmes traits... Je n'avais pas remarqué encore, je suis ravi en vérité...]{.calibre11}
+
+[--- Pourtant, finit par déclarer Appoline, je crois bien qu'elle avait le nez plus gros.]{.calibre11}
+
+[L'abbé, alors, eut un cri d'irrésistible admiration.]{.calibre11}
+
+[--- Oh ! Vous êtes plus jolie, beaucoup plus jolie, c'est évident... Mais ça ne fait rien, on vous prendrait pour les deux soeurs.]{.calibre11}
+
+[Pierre ne put s'empêcher de rire, tant il trouva le mot singulier. Ah ! La pauvre Bernadette était bien morte, et elle n'avait pas de soeur. Elle n'aurait pu renaître, elle n'était plus possible, dans ce pays de cohue et de passion qu'elle avait fait.]{.calibre11}
+
+[Marie, enfin, partit au bras de son père, et il fut entendu qu'ils iraient tous deux la prendre à l'Hôpital, pour se rendre ensemble à la gare. Dans la rue, plus de cinquante personnes l'attendaient, comme en extase. On la salua, on la suivit, une femme fit toucher la robe de la miraculée à son enfant infirme, qu'elle rapportait de la Grotte.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+[Cinquième journée]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778727 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778389 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778051 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777713 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777375 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776699 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776361 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776023 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775685 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775347 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775009 .pcalibre .calibre3 .pcalibre1}[III]{#_Toc368774671 .pcalibre .calibre3 .pcalibre1} {#iii .calibre47 .sigil_not_in_toc}
+
+[Dès deux heures et demie, le train blanc, qui allait quitter Lourdes à trois heures quarante, se trouva en gare, le long du deuxième quai. Il avait attendu trois jours, sur une voie de garage, tout formé, tel qu'il était arrivé de Paris ; et, depuis qu'on venait de l'amener là, des drapeaux blancs flottaient sur les wagons de tête et de queue, pour l'indiquer aux pèlerins, dont l'embarquement d'ordinaire était très long et fort laborieux. Les quatorze trains du pèlerinage national, d'ailleurs, devaient repartir ce jour-là. À dix heures du matin, le train vert était parti, puis le train rose, puis le train jaune ; et, après le train blanc, les autres, l'orangé, le gris, le bleu suivraient. C'était encore, pour le personnel de la gare, une journée terrible, un tumulte, une bousculade, qui affolaient les employés.]{.calibre11}
+
+[Mais le départ du train blanc était toujours le vif intérêt, la grosse émotion de la journée, car il emportait les grands malades qu'il avait apportés, et parmi lesquels se trouvaient naturellement les bien-aimés de la sainte Vierge, les élus du miracle. Aussi une foule se pressait-elle sous la marquise, obstruant le vaste promenoir couvert, long d'une centaine de mètres. Tous les bancs étaient occupés, encombrés de pèlerins et de paquets, qui attendaient déjà. À l'un des bouts, on avait pris d'assaut les petites tables du buffet, des hommes buvaient de la bière, des femmes se faisaient servir de la limonade gazeuse ; tandis que, devant la porte des Messageries, à l'autre bout, des brancardiers maintenaient le passage libre, pour assurer le rapide transport des malades, qu'on allait amener. Et c'était, le long du large trottoir, une incessante promenade, un va-et-vient continu de pauvres gens effarés, de prêtres courant, se prodiguant, de messieurs en redingote, curieux et paisibles, tout un entassement de cohue, la plus mêlée, la plus bariolée qui se fût jamais coudoyée dans une gare.]{.calibre11}
+
+[À trois heures, le baron Suire se désespéra, plein d'inquiétude, parce que les chevaux manquaient, un grand arrivage inattendu de touristes ayant loué les voitures pour Barèges, Cauterets, Gavarnie. Enfin, il se précipita vers Berthaud et Gérard qui accouraient après avoir battu la ville ; mais tout marchait à merveille, affirmaient-ils : ils avaient raccolé les chevaux nécessaires, le transport des malades s'opérerait en d'excellentes conditions. Déjà, dans la cour, des équipes de brancardiers, avec leurs brancards et leurs petites voitures, guettaient les fourgons, les tapissières, les véhicules de toutes sortes, recrutés pour le déménagement de l'Hôpital. Une réserve de matelas et de coussins s'entassait au pied d'un bec de gaz. Et, comme les premiers malades arrivaient, le baron Suire perdit de nouveau la tête, tandis que Berthaud et Gérard se hâtaient de gagner le quai d'embarquement. Ils surveillaient, ils donnaient des ordres, au milieu de la bousculade croissante.]{.calibre11}
+
+[Alors, sur ce quai, le père Fourcade qui se promenait le long du train, au bras du père Massias, s'arrêta, en voyant venir le docteur Bonamy.]{.calibre11}
+
+[--- Ah ! Docteur, je suis heureux... Le père Massias, qui va partir, me parlait encore à l'instant de la faveur extraordinaire dont la sainte Vierge a comblé cette jeune fille si intéressante, mademoiselle Marie de Guersaint. Voilà des années qu'un miracle si éclatant n'avait eu lieu. C'est une insigne fortune pour nous tous, c'est une bénédiction qui doit féconder le fruit de nos efforts... Toute la chrétienté en sera illuminée, réconfortée, enrichie.]{.calibre11}
+
+[Il rayonnait d'aise, et le docteur, immédiatement, exulta lui aussi, avec sa face rasée, aux gros traits paisibles, aux yeux las d'habitude.]{.calibre11}
+
+[--- C'est prodigieux, prodigieux, mon révérend père ! J'écrirai une brochure, jamais guérison ne s'est produite par les voies surnaturelles d'une façon plus authentique... Oh ! Quel tapage cela va faire !]{.calibre11}
+
+[Puis, comme tous les trois s'étaient remis à marcher, il s'aperçut que le père Fourcade traînait la jambe davantage, en s'appuyant fortement au bras de son compagnon.]{.calibre11}
+
+[--- Est-ce que votre accès de goutte s'est aggravé, mon révérend père ? demanda-t-il. Vous paraissez beaucoup souffrir.]{.calibre11}
+
+[--- Oh ! Ne m'en parlez pas, je n'ai pu fermer l'oeil de la nuit. Est-ce ennuyeux, cette crise qui m'a pris, le jour de mon arrivée ici ? Elle aurait bien dû attendre... Mais il n'y a rien à faire, n'en parlons pas. Je suis trop content des résultats de cette année.]{.calibre11}
+
+[--- Ah ! Oui, oui ! dit à son tour le père Massias, d'une voix tremblante de ferveur, nous pouvons être fiers, nous pouvons nous en aller le coeur débordant d'enthousiasme et de reconnaissance. En dehors de cette jeune fille, que d'autres prodiges ! Les miracles ne se comptent plus, des sourdes et des muettes guéries, des faces rongées de plaies redevenues lisses comme la main, des phtisiques moribondes qui mangent, qui dansent, ressuscitées ! Ce n'est plus un train de malades, c'est un train de résurrection, un train de gloire que j'emmène avec moi !]{.calibre11}
+
+[Il avait cessé de voir les malades autour de lui, il s'en allait en plein triomphe divin, dans l'aveuglement de sa foi. Et tous les trois continuèrent leur lente promenade, le long des wagons dont les compartiments commençaient à se remplir, souriant aux pèlerins qui les saluaient, s'arrêtant de nouveau parfois pour dire une bonne parole à quelque triste femme qui passait, pâle et grelottante, sur un brancard. Ils déclaraient qu'elle avait bien meilleure mine, qu'elle s'en tirerait sûrement.]{.calibre11}
+
+[Mais le chef de gare, très affairé, passa, en criant d'une voix aiguë :]{.calibre11}
+
+[--- N'encombrez pas le quai ! N'encombrez pas le quai !]{.calibre11}
+
+[Puis, comme Berthaud lui faisait observer qu'il fallait pourtant poser les brancards, avant de monter les malades, il se fâcha.]{.calibre11}
+
+[--- Voyons, est-ce raisonnable ? Regardez, là-bas, la petite voiture qui est restée en travers de cette voie... J'attends dans quelques minutes le train de Toulouse. Voulez-vous donc qu'on vous écrase votre monde ?]{.calibre11}
+
+[Et il repartit en courant, pour poster des hommes d'équipe, qui écarteraient des voies le troupeau effaré des pèlerins, piétinant au hasard. Beaucoup, des vieux, des simples, ne reconnaissaient même pas la couleur de leur train ; et c'était pourquoi tous portaient au cou une carte de couleur appareillée, afin qu'on les dirigeât, qu'on les embarquât, comme du bétail marqué et parqué. Mais quelle alerte continue, ces quatorze départs de trains supplémentaires, sans que la circulation des trains habituels s'arrêtât !]{.calibre11}
+
+[Pierre, sa valise à la main, arriva, eut déjà de la peine à gagner le quai. Il était seul, Marie avait témoigné l'ardent désir de s'agenouiller une fois encore à la Grotte, pour que, jusqu'aux minutes dernières, son âme brûlât de reconnaissance, devant la sainte Vierge ; et il avait laissé M. De Guersaint l'y conduire, pendant que lui réglait à l'hôtel. D'ailleurs, il leur avait fait promettre de prendre ensuite une voiture, ils allaient être sûrement là avant un quart d'heure. En les attendant, sa première idée fut de chercher leur wagon et de s'y débarrasser de sa valise. Mais ce n'était pas une besogne facile, il ne le reconnut enfin qu'à la pancarte qui s'y balançait depuis trois jours, sous le soleil et les orages, un carré de papier fort, portant les noms de madame de Jonquière, de soeur Hyacinthe et de soeur Claire des Anges. C'était bien lui : il revoyait en souvenir les compartiments pleins de ses compagnons de route ; des coussins marquaient déjà le coin de M. Sabathier ; et il retrouvait même, sur la banquette où Marie avait tant souffert, une entaille laissée dans le bois par une ferrure du chariot. Puis, lorsqu'il eut posé sa valise à sa place, il resta sur le quai, patientant, regardant, un peu surpris de ne pas apercevoir le docteur Chassaigne, qui lui avait promis de venir l'embrasser, au départ.]{.calibre11}
+
+[Maintenant que Marie était debout, Pierre avait abandonné ses bretelles de brancardier, et il ne portait plus sur sa soutane que la croix rouge des pèlerins. Cette gare, entrevue seulement sous le petit jour livide, dans l'angoisse du terrible matin de l'arrivée, le surprenait par ses vastes trottoirs, ses larges dégagements, sa gaieté claire. On ne voyait pas les montagnes ; mais, de l'autre côté, en face des salles d'attente, montaient des coteaux verdoyants, d'un charme délicieux. Et, cette après-midi-là, le temps était d'une infinie douceur, un fin duvet de nuages avait voilé le soleil, dans un ciel d'une blancheur de lait, d'où ne tombait qu'une grande lumière diffuse, comme une poussière nacrée de perles. Un temps de demoiselle, ainsi que disent les bonnes gens.]{.calibre11}
+
+[Trois heures venaient de sonner, et Pierre regardait la grande horloge, lorsqu'il vit arriver madame Désagneaux et madame Volmar, que suivaient madame de Jonquière et sa fille. Ces dames, qu'un landau amenait de l'Hôpital, cherchèrent, elles aussi, leur wagon tout de suite. Ce fut Raymonde qui reconnut le compartiment de première classe, dans lequel elle était venue.]{.calibre11}
+
+[--- Maman, maman ! Par ici, le voilà !... Reste un peu avec nous, tu as le temps d'aller t'installer avec tes malades, puisqu'ils ne sont pas là encore.]{.calibre11}
+
+[Et Pierre, alors, se retrouva en face de madame Volmar. Leurs regards se rencontrèrent. Mais il ne la reconnaissait pas, elle eut à peine un léger battement de cils. C'était de nouveau la femme vêtue de noir, lente, indolente, d'une modestie effacée, heureuse de disparaître. Le brasier de ses larges yeux était mort, se ravivant par instants d'une étincelle sous leur voile d'indifférence, une moire d'ombre qui semblait les éteindre.]{.calibre11}
+
+[--- Oh ! Une migraine atroce ! Répétait-elle à madame Désagneaux. Vous voyez, je n'ai pas encore ma pauvre tête à moi... C'est le voyage qui me donne ça. Tous les ans, je suis sûre de mon affaire.]{.calibre11}
+
+[Plus vive, plus rose, plus ébouriffée que jamais, l'autre s'agitait.]{.calibre11}
+
+[--- Ma chère, pour le moment, j'en ai autant à votre service. Oui, ça m'a prise ce matin, une névralgie à tout casser... Seulement...]{.calibre11}
+
+[Elle se pencha, poursuivit à voix basse :]{.calibre11}
+
+[--- Seulement, je crois que ça y est. Oui ! Ce bébé, que je désire tant, qui ne veut pas pousser... J'ai supplié la sainte Vierge, et j'ai été malade, oh ! Malade, à mon réveil ! Enfin, tous les signes !... Voyez-vous la tête de mon mari, qui m'attend à Trouville ! Sera-t-il heureux !]{.calibre11}
+
+[Très sérieuse, madame Volmar écoutait. Puis, de son air tranquille :]{.calibre11}
+
+[--- Eh bien ! Moi, ma chère, je connais une personne qui ne voulait plus avoir d'enfants... Elle est venue ici, elle n'en a plus fait.]{.calibre11}
+
+[Mais Gérard et Berthaud, ayant aperçu ces dames, se hâtèrent d'accourir. Le matin, à l'Hôpital de Notre-Dame des Douleurs, les deux hommes s'étaient présentés, et madame de Jonquière les avait reçus dans un petit bureau, voisin de la lingerie. Là, très correctement, en s'excusant avec une bonhomie souriante de cette démarche un peu bousculée, Berthaud avait demandé la main de mademoiselle Raymonde pour son cousin Gérard. Tout de suite, on s'était senti à l'aise, la mère avait eu un attendrissement, en disant que Lourdes porterait bonheur au jeune ménage. De sorte que le mariage se trouva ainsi conclu en quelques paroles, au milieu de la satisfaction générale. Même on prit rendez-vous, le quinze septembre, au château de Berneville, près de Caen, une propriété de l'oncle, le diplomate, que Berthaud connaissait et chez lequel il promit de mener Gérard. Puis, Raymonde, appelée, avait rougi de plaisir, en mettant ses deux petites mains dans celles de son fiancé.]{.calibre11}
+
+[Ce dernier s'empressait, demandait à la jeune fille :]{.calibre11}
+
+[--- Voulez-vous des oreillers pour la nuit ? Ne vous gênez pas, je puis vous en donner, ainsi qu'à ces dames qui vous accompagnent.]{.calibre11}
+
+[Raymonde refusa gaiement.]{.calibre11}
+
+[--- Non, non ! Nous ne sommes pas si douillettes. Il faut réserver ça aux pauvres malades.]{.calibre11}
+
+[D'ailleurs, ces dames parlaient toutes à la fois. Madame de Jonquière déclarait qu'elle était si fatiguée, si fatiguée, qu'elle ne se sentait plus vivre ; et elle se montrait pourtant bien heureuse, ses regards riaient en couvant sa fille et le jeune homme, pendant qu'ils causaient ensemble. Mais Berthaud ne pouvait rester là, son service le réclamait, ainsi que Gérard. Tous deux prirent congé, après avoir rappelé le rendez-vous. N'est-ce pas, le quinze septembre, au château de Berneville ? Oui, oui, c'était chose entendue ! Et il y eut encore des rires, des poignées de main, tandis que les yeux, des yeux de caresse et de ravissement, achevaient ce qu'on n'osait dire tout haut, au milieu de cette foule.]{.calibre11}
+
+[--- Comment ! S'écria la petite madame Désagneaux, vous allez le quinze à Berneville. Mais si nous restons à Trouville jusqu'au vingt, comme mon mari le désire, nous irons vous voir !]{.calibre11}
+
+[Et elle se tourna vers madame Volmar, silencieuse.]{.calibre11}
+
+[--- Venez donc aussi, vous. Ce serait si drôle de se retrouver toutes là-bas !]{.calibre11}
+
+[La jeune femme eut un geste lent, en répondant de son air d'indifférence lasse :]{.calibre11}
+
+[--- Oh ! Moi, c'est fini, le plaisir. Je rentre.]{.calibre11}
+
+[Ses yeux, de nouveau, se rencontrèrent avec ceux de Pierre, qui était resté près de ces dames ; et il crut la voir se troubler une seconde, tandis qu'une expression d'indicible souffrance passait sur sa face morte.]{.calibre11}
+
+[Les soeurs de l'Assomption arrivaient, ces dames les rejoignirent devant le fourgon de la cantine. Ferrand, venu en voiture avec les religieuses, y monta d'abord, puis aida soeur Saint-François à franchir le haut marchepied ; et il resta debout, au seuil de ce fourgon, transformé en cuisine, où se trouvaient les provisions pour le voyage, du pain, du bouillon, du lait, du chocolat ; pendant que soeur Hyacinthe et soeur Claire des Anges, demeurées sur le trottoir, lui passaient sa petite pharmacie, ainsi que d'autres paquets, de menus bagages.]{.calibre11}
+
+[--- Vous avez bien tout ? lui demanda soeur Hyacinthe. Bon ! Maintenant, vous n'avez qu'à vous coucher dans votre coin et à dormir, puisque vous vous plaignez qu'on ne vous utilise pas.]{.calibre11}
+
+[Ferrand se mit à rire doucement.]{.calibre11}
+
+[--- Ma soeur, je vais aider soeur Saint-François... J'allumerai le fourneau à pétrole, je laverai les tasses, je porterai les portions aux heures d'arrêt, marquées sur le tableau qui est là... Et, tout de même, si vous avez besoin de médecin, vous viendrez me chercher.]{.calibre11}
+
+[Soeur Hyacinthe s'était aussi mise à rire.]{.calibre11}
+
+[--- Mais nous n'avons plus besoin de médecin, puisque toutes nos malades sont guéries !]{.calibre11}
+
+[Et, les yeux dans les siens, de son air calme et fraternel :]{.calibre11}
+
+[--- Adieu, monsieur Ferrand.]{.calibre11}
+
+[Il sourit encore, tandis qu'une émotion infinie mouillait ses yeux. Le son tremblé de sa voix dit l'inoubliable voyage, la joie de l'avoir revue, le souvenir d'éternelle et divine tendresse qu'il emportait.]{.calibre11}
+
+[--- Adieu, ma soeur.]{.calibre11}
+
+[Madame de Jonquière parlait d'aller à son wagon avec soeur Claire des Anges et soeur Hyacinthe. Mais celle-ci lui assura que rien ne pressait, puisqu'on amenait à peine les malades. Elle la quitta, emmena l'autre soeur, promit de veiller à tout ; et même elle voulut absolument la débarrasser de son petit sac, en lui disant qu'elle le retrouverait à sa place. De sorte que ces dames continuèrent à se promener, à causer gaiement entre elles, sur le large trottoir, où il faisait si doux.]{.calibre11}
+
+[Cependant, Pierre, qui, les yeux sur la grande horloge, regardait marcher les minutes, commençait à être surpris de ne pas voir Marie arriver avec son père. Pourvu que M. De Guersaint ne se perdît pas en route ! Et il guettait, lorsqu'il aperçut M. Vigneron exaspéré, poussant furieusement devant lui sa femme et le petit Gustave.]{.calibre11}
+
+[--- Oh ! Monsieur l'abbé, je vous en prie, dites-moi où est notre wagon, aidez-moi à y fourrer mes bagages et cet enfant... Je perds la tête, ils m'ont jeté hors de mon caractère...]{.calibre11}
+
+[Puis, devant le compartiment de seconde classe, il éclata, saisissant les mains du prêtre, au moment où celui-ci allait monter le petit malade.]{.calibre11}
+
+[--- Vous imaginez-vous cela ! Ils veulent que je parte, ils m'ont répondu que, si j'attendais à demain, mon billet de retour ne serait plus valable !... J'ai eu beau leur conter l'accident. N'est-ce pas ? Ce n'est déjà pas si drôle de rester avec cette morte, pour la veiller, la mettre en bière, l'emmener demain, dans les délais voulus... Eh bien ! Ils prétendent que ça ne les regarde pas, qu'ils font déjà d'assez grosses réductions sur les billets de pèlerinage, sans entrer dans les histoires des gens qui meurent.]{.calibre11}
+
+[Madame Vigneron, tremblante, l'écoutait, pendant que Gustave, oublié, chancelant de fatigue sur sa béquille, levait sa pauvre face d'agonisant curieux.]{.calibre11}
+
+[--- Enfin, je le leur ai crié sur tous les tons, il y a cas de force majeure... Que veulent-ils que je fasse de ce corps ? Je ne puis pas le prendre sous mon bras et le leur apporter aujourd'hui comme bagage. Je suis donc bien forcé de rester... Non ! Ce qu'il y a des gens bêtes et méchants !]{.calibre11}
+
+[--- Est-ce que vous avez parlé au chef de gare ? demanda Pierre.]{.calibre11}
+
+[--- Ah ! Oui, le chef de gare ! Il est par là, dans la bousculade. On n'a jamais pu me le trouver. Comment voulez-vous que les choses se fassent proprement, au milieu d'une pétaudière pareille ?... Mais il faut que je le déterre, il faut que je lui dise ma façon de penser !]{.calibre11}
+
+[Et, avisant sa femme figée, immobile :]{.calibre11}
+
+[--- Qu'est-ce que tu fais là ? Monte donc, pour qu'on te passe les bagages et le petit.]{.calibre11}
+
+[Alors, ce fut un engouffrement, il la poussa, il lui jeta des paquets, pendant que le prêtre soulevait Gustave dans ses bras. Le pauvre être, d'une légèreté d'oiseau, semblait avoir maigri encore, dévoré de plaies, si douloureux, qu'il eut un faible cri.]{.calibre11}
+
+[--- Oh ! Mon mignon ! Est-ce que je t'ai fait du mal ?]{.calibre11}
+
+[--- Non, non ! Monsieur l'abbé, on m'a remué beaucoup, je suis très fatigué, ce soir.]{.calibre11}
+
+[Il souriait, de son air fin et si triste. Il s'enfonça dans son coin, ferma les yeux, achevé par ce mortel voyage.]{.calibre11}
+
+[--- Vous comprenez, reprit M. Vigneron, ça ne m'amuse guère de me morfondre ici, tandis que ma femme et mon fils vont rentrer à Paris sans moi. Il le faut bien, la vie n'est plus tenable à l'hôtel ; et, d'ailleurs, me voyez-vous forcé de repayer trois places, s'ils ne veulent pas entendre raison... Avec ça, ma femme n'a pas beaucoup de tête. Jamais elle ne saura se débrouiller.]{.calibre11}
+
+[Alors, dans un dernier essoufflement, il accabla madame Vigneron des observations les plus minutieuses, et ce qu'elle devait faire pendant le voyage, et de quelle façon elle rentrerait dans leur appartement, et comment elle soignerait Gustave, s'il avait une crise. Docile, un peu effarée, elle répondait à chaque phrase :]{.calibre11}
+
+[--- Oui, oui, mon ami... Sans doute, mon ami...]{.calibre11}
+
+[Mais il fut repris d'une brusque colère.]{.calibre11}
+
+[--- Définitivement, oui ou non, sera-t-il valable, mon billet de retour ? Je veux le savoir pourtant... Il faut qu'on me le trouve, ce chef de gare !]{.calibre11}
+
+[Il se lançait de nouveau parmi la foule, lorsqu'il aperçut, sur le quai, restée à terre, la béquille de Gustave. Ce fut un désastre, qui lui fit lever les bras au ciel, pour prendre Dieu à témoin que jamais il ne sortirait de tant de complications. Et il la jeta à sa femme, il s'éloigna, éperdu, en criant :]{.calibre11}
+
+[--- Tiens ! Tu oublies tout !]{.calibre11}
+
+[Maintenant, les malades affluaient ; et, ainsi qu'à l'arrivée, dans la bousculade, c'était un charriage sans fin, le long des trottoirs, au travers des voies. Tous les maux abominables, toutes les plaies, toutes les difformités défilaient une fois encore, sans que la gravité ni le nombre en parussent moindres, comme si les quelques guérisons fussent l'humble clarté inappréciable au milieu du deuil immense. On les remportait tels qu'on les avait apportés. Les petites voitures, chargées de vieilles femmes impotentes, avec leurs cabas à leurs pieds, sonnaient sur les rails. Les brancards, où gisaient des corps ballonnés, des faces pâles aux yeux luisants, se balançaient, parmi les poussées de la cohue. C'était une hâte folle, sans raison, une confusion inexprimable, des demandes, des appels, des courses brusques, le tournoiement sur place d'un troupeau qui ne trouve plus la porte de la bergerie. Et les brancardiers finissaient par perdre la tête, ne sachant quel chemin suivre, devant les cris d'alerte des hommes d'équipe, qui, chaque fois, épouvantaient les gens, les égaraient d'angoisse.]{.calibre11}
+
+[--- Attention ! Attention, là-bas !... Dépêchez-vous donc ! Non, non, ne traversez plus !... Le train de Toulouse ! Le train de Toulouse !]{.calibre11}
+
+[Pierre, revenu sur ses pas, aperçut encore ces dames, madame de Jonquière et les autres, qui continuaient à causer gaiement. Près d'elles, il écouta Berthaud que le père Fourcade avait arrêté, pour le féliciter du bon ordre, pendant tout le pèlerinage. L'ancien magistrat s'inclinait, flatté.]{.calibre11}
+
+[--- N'est-ce pas ? Mon révérend père, c'est une leçon donnée à leur république. On se tue, à Paris, quand des foules pareilles célèbrent quelque date sanglante de leur exécrable histoire... Qu'ils viennent donc ici s'instruire !]{.calibre11}
+
+[La pensée d'être désagréable au gouvernement qui l'avait forcé de se démettre, le ravissait. Il n'était jamais si heureux, à Lourdes, qu'au milieu des grandes affluences de fidèles, lorsque des femmes manquaient d'être écrasées. Pourtant, il ne paraissait pas satisfait du résultat de la propagande politique qu'il y venait faire chaque année, pendant trois jours. Des impatiences le prenaient, ça ne marchait pas assez vite. Quand donc Notre-Dame de Lourdes ramènerait-elle la monarchie ?]{.calibre11}
+
+[--- Voyez-vous, mon révérend père, l'unique moyen, le vrai triomphe, ce serait d'amener ici en masse les ouvriers des villes. Moi, je ne vais plus songer, je ne vais plus m'employer qu'à cela. Ah ! Si l'on pouvait créer une démocratie catholique !]{.calibre11}
+
+[Le père Fourcade était devenu très grave. Ses beaux yeux d'intelligence s'emplirent de rêve, se perdirent au loin. Que de fois il avait donné pour but à ses efforts la création de ce nouveau peuple ! Mais n'y fallait-il pas le souffle d'un autre Messie ?]{.calibre11}
+
+[--- Oui, oui, murmura-t-il, une démocratie catholique, ah ! L'histoire de l'humanité recommencerait !]{.calibre11}
+
+[Le père Massias l'interrompit passionnément, en disant que toutes les nations de la terre finiraient par venir ; tandis que le docteur Bonamy, qui sentait poindre déjà un léger refroidissement dans la ferveur des pèlerins, hochait la tête, était d'avis que les fidèles de la Grotte devaient redoubler de zèle. Lui, mettait surtout le succès dans la plus grande publicité possible, donnée aux miracles. Et il affectait de rayonner, il riait complaisamment, en montrant le défilé tumultueux des malades.]{.calibre11}
+
+[--- Voyez-les donc ! Est-ce qu'ils ne partent pas avec une mine meilleure ? Beaucoup n'ont pas l'air guéri, qui emportent le germe de la guérison, soyez-en sûrs !... Ah ! Les braves gens ! Ils font plus que nous tous pour la gloire de Notre-Dame de Lourdes.]{.calibre11}
+
+[Mais il dut se taire. Madame Dieulafay passait devant eux, dans sa caisse capitonnée de soie. Et on la déposa devant la portière du wagon de première classe, où une femme de chambre, déjà, rangeait les bagages. Une pitié serrait les coeurs, la misérable femme ne paraissait pas s'être éveillée de son anéantissement, pendant les trois jours vécus à Lourdes. Telle qu'ils l'avaient descendue au milieu de son luxe, le matin de l'arrivée, telle les brancardiers allaient la remonter, vêtue de dentelle, couverte de bijoux, avec sa face morte et imbécile de momie, qui se liquéfiait ; et on aurait dit même qu'elle s'était réduite encore, qu'on la remportait diminuée, de plus en plus rapetissée à la taille d'une enfant, dans cet horrible mal qui, après avoir détruit les os, achevait de fondre la guenille molle des muscles. Son mari et sa soeur inconsolables, les yeux rougis, écrasés par la perte de leur dernier espoir, la suivaient avec l'abbé Judaine, comme on suit un corps au cimetière.]{.calibre11}
+
+[--- Non, non ! Pas tout de suite ! dit le prêtre aux porteurs, en les empêchant de la monter. Elle a le temps de rouler là dedans. Qu'elle garde au moins sur elle la douceur de ce beau ciel, jusqu'à la dernière minute !]{.calibre11}
+
+[Puis, voyant Pierre près de lui, il l'emmena à quelques pas, reprit, la voix brisée de chagrin :]{.calibre11}
+
+[--- Ah ! Je suis navré... Ce matin encore, j'espérais. Je l'ai fait porter à la Grotte, j'ai dit ma messe pour elle, je suis revenu prier jusqu'à onze heures. Et rien, la sainte Vierge ne m'a pas entendu... Moi qu'elle a guéri, moi un pauvre vieil homme inutile, je n'ai pu obtenir d'elle la guérison de cette femme si belle, si jeune, si riche, dont la vie devrait être une continuelle fête !... Certes, la sainte Vierge sait mieux que nous autres ce qu'elle doit faire, et je m'incline, je bénis son nom. Mais, en vérité, mon âme est pleine d'une tristesse affreuse.]{.calibre11}
+
+[Il ne disait pas tout, il n'avouait pas la pensée qui le bouleversait ainsi, dans sa simplicité de brave homme enfant, que jamais n'avaient visité la passion ni le doute. C'était que ces pauvres gens qui pleuraient, le mari, la soeur, avaient trop de millions ; c'était qu'ils avaient apporté de trop beaux cadeaux, qu'ils avaient donné trop d'argent à la Basilique. On n'achète pas le miracle, les richesses de ce monde nuisent plutôt, devant Dieu. Sûrement, la sainte Vierge n'était restée sourde pour eux, ne leur avait montré un coeur froid et sévère, que pour mieux écouter la voix faible des misérables venus à elle les mains vides, riches de leur seul amour, les comblant ceux-là de sa grâce, les inondant de sa tendresse brûlante de Mère divine. Et ces pauvres riches inexaucés, cette soeur, ce mari si malheureux près du triste corps qu'ils remportaient, ils se sentaient eux-mêmes des parias, au milieu de la foule des humbles consolés ou guéris, ils semblaient embarrassés de leur luxe, ils se reculaient, pris de gêne et de malaise, avec la honte de voir que Notre-Dame de Lourdes avait soulagé des mendiantes, tandis qu'elle était restée dédaigneuse, sans un regard, pour la belle et puissante dame, agonisant dans ses dentelles.]{.calibre11}
+
+[Pierre eut l'idée brusque qu'il avait pu ne pas voir M. De Guersaint et Marie arriver, et que peut-être ils étaient déjà au wagon. Il y retourna, il n'y aperçut toujours que sa valise, sur la banquette. Soeur Hyacinthe et soeur Claire des Anges commençaient à s'y installer, en attendant leurs malades ; et, comme Gérard amenait M. Sabathier dans une petite voiture, Pierre donna un coup de main pour le monter, rude besogne qui les mit en nage. L'ancien professeur, l'air abattu, très calme et résigné pourtant, se tassa aussitôt, reprit possession de son coin.]{.calibre11}
+
+[--- Merci, messieurs... Enfin, ça y est, ce n'est pas malheureux ! Maintenant, on n'aura plus qu'à me déballer, à Paris.]{.calibre11}
+
+[Madame Sabathier, après lui avoir enveloppé les jambes dans une couverture, redescendit, resta debout près de la portière ouverte du wagon. Et elle causait avec Pierre, lorsqu'elle s'interrompit pour dire :]{.calibre11}
+
+[--- Tiens ! Voilà madame Maze qui vient reprendre sa place... Elle m'a fait des confidences, l'autre jour. Une petite femme bien malheureuse !]{.calibre11}
+
+[Obligeamment, elle l'interpella, lui offrit de veiller sur ses affaires. Mais la nouvelle venue se récriait, riait, s'agitait d'un air fou.]{.calibre11}
+
+[--- Non, non ! Je ne pars pas.]{.calibre11}
+
+[--- Comment ! Vous ne partez pas ?]{.calibre11}
+
+[--- Non, non ! Je ne pars pas... C'est-à-dire, je pars, mais pas avec vous, pas avec vous !]{.calibre11}
+
+[Et elle était si extraordinaire, si ensoleillée, que tous les deux avaient peine à la reconnaître. Son visage de blonde fanée avant l'âge rayonnait, elle semblait rajeunie de dix ans, tout à coup tirée de l'infinie tristesse de son abandon.]{.calibre11}
+
+[Elle eut un cri, une joie qui débordait.]{.calibre11}
+
+[--- Je pars avec lui... Oui, il est venu me chercher, il m'emmène... Oui, oui, nous partons à Luchon, ensemble, ensemble !]{.calibre11}
+
+[Puis, indiquant d'un regard extasié un gros garçon brun, l'air gai, la lèvre en fleur, en train d'acheter des journaux :]{.calibre11}
+
+[--- Tenez ! Le voilà, mon mari, ce bel homme qui rit là-bas avec la marchande... Il est tombé chez moi, ce matin, et il m'enlève, nous prenons le train de Toulouse, dans deux minutes... Ah ! Chère madame, vous à qui j'ai dit mes peines, vous comprenez mon bonheur, n'est-ce pas ?]{.calibre11}
+
+[Mais elle ne pouvait se taire, elle reparla de l'affreuse lettre qu'elle avait reçue le dimanche, une lettre où il lui signifiait que, si elle profitait de son séjour à Lourdes, pour le relancer à Luchon, il lui refuserait sa porte. Un homme épousé par amour ! Un homme qui la négligeait depuis dix ans, qui profitait de ses continuels déplacements de voyageur de commerce pour promener des créatures d'un bout de la France à l'autre ! Cette fois, c'était fini, elle avait demandé au ciel de la faire mourir ; car elle n'ignorait pas que l'infidèle était en ce moment même à Luchon avec deux dames, les deux soeurs, ses maîtresses. Et que s'était-il donc passé, mon Dieu ? Un coup de foudre, certainement ! Les deux dames avaient dû recevoir un avertissement d'en haut, la brusque conscience de leur péché, un rêve peut-être où elles s'étaient vues en enfer. Sans explication, un soir, elles s'étaient sauvées de l'hôtel, elles l'avaient planté là ; tandis que lui, qui ne pouvait vivre seul, s'était senti puni à un tel point, qu'il avait eu l'idée soudaine d'aller chercher sa femme, pour la ramener, la garder huit jours. Il ne le disait pas, mais la grâce l'avait sûrement frappé, elle le trouvait trop gentil pour ne pas croire à un vrai commencement de conversion.]{.calibre11}
+
+[--- Ah ! Quelle reconnaissance j'ai à la sainte Vierge ! Continua-t-elle. Elle seule a dû agir, et je l'ai bien compris, hier soir. Il m'a semblé qu'elle me faisait un petit signe, juste au moment où mon mari prenait la décision de venir me chercher. Je lui ai demandé l'heure exacte, ça concorde parfaitement... Voyez-vous, il n'y a pas eu de plus grand miracle, les autres me font sourire, ces jambes remises, ces plaies disparues. Ah ! Que Notre-Dame de Lourdes soit bénie, elle qui a guéri mon coeur !]{.calibre11}
+
+[Le gros garçon brun se retournait, et elle s'élança pour le rejoindre, elle en oublia de faire ses adieux. Cette aubaine inespérée d'amour, ce regain tardif de lune de miel, toute une semaine passée à Luchon avec l'homme tant regretté, la rendait réellement folle de joie. Lui, bon prince, après l'avoir reprise dans une heure de dépit et de solitude, finissait par s'attendrir, amusé de l'aventure, en la trouvant beaucoup mieux qu'il n'aurait cru.]{.calibre11}
+
+[À ce moment, dans le flot croissant des malades qu'on apportait, le train de Toulouse arriva enfin. Ce fut un redoublement de tumulte, une confusion extraordinaire. Des sonneries tintaient, des signaux manoeuvraient. On vit le chef de gare qui accourait, qui criait de tous ses poumons :]{.calibre11}
+
+[--- Attention là-bas !... Déblayez donc la voie !]{.calibre11}
+
+[Et il fallut qu'un employé se précipitât pour pousser hors des rails une petite voiture oubliée là, avec une vieille femme dedans. Une bande effarée de pèlerins traversa encore, à trente mètres de la locomotive, qui s'avançait, lente, grondante, fumante. D'autres, perdant la tête, allaient retourner sous les roues, si les hommes d'équipe ne les avaient saisis brutalement par les épaules. Enfin, le train s'arrêta, sans avoir écrasé personne, au milieu des matelas, des oreillers, des coussins qui traînaient, des groupes ahuris qui continuaient à tournoyer. Et les portières s'ouvrirent, un flot de voyageurs descendit, tandis qu'un autre flot montait, dans un double courant contraire, d'une obstination qui acheva de mettre le tumulte à son comble. Aux fenêtres des portières fermées, des têtes avaient paru, d'abord curieuses, puis frappées de stupeur devant l'étonnant spectacle, deux têtes de jeunes filles surtout, adorablement jolies, dont les grands yeux candides finirent par exprimer la plus douloureuse pitié.]{.calibre11}
+
+[Mais madame Maze était montée dans un wagon, suivie de son mari, si heureuse, si légère, qu'elle avait vingt ans, comme au soir déjà lointain de son voyage de noce. Et les portières furent refermées, la locomotive lâcha un grand coup de sifflet, puis s'ébranla, repartit lentement, lourdement, parmi la cohue qui, derrière le train, reflua sur les voies en un dégorgement d'écluse lâchée, de nouveau envahissante.]{.calibre11}
+
+[--- Barrez donc le quai ! Criait le chef de gare à ses hommes. Et veillez, quand on amènera la machine !]{.calibre11}
+
+[Au milieu de cette alerte, les pèlerins et les malades en retard venaient d'arriver. La Grivotte passa, avec ses yeux de fièvre, son excitation dansante, suivie d'Élise Rouquet et de Sophie Couteau, très gaies, essoufflées d'avoir couru. Toutes trois se hâtèrent de gagner le wagon, où soeur Hyacinthe les gronda. Elles avaient failli rester à la Grotte, où parfois des pèlerins s'oubliaient, ne pouvant s'en arracher, implorant, remerciant encore la sainte Vierge, lorsque le train les attendait à la gare.]{.calibre11}
+
+[Tout d'un coup, Pierre, inquiet lui aussi, ne sachant plus que penser, aperçut M. De Guersaint et Marie, tranquillement arrêtés sous la marquise, en train de causer avec l'abbé Judaine. Il courut les rejoindre, il dit son impatience.]{.calibre11}
+
+[--- Qu'avez-vous donc fait ? Je commençais à perdre espoir.]{.calibre11}
+
+[--- Comment, ce que nous avons fait ? répondit M. De Guersaint étonné, l'air paisible. Mais nous étions à la Grotte, vous le savez bien... Un prêtre se trouvait là, qui prêchait d'une façon remarquable. Nous y serions encore, si je ne m'étais pas rappelé que nous partions... Et nous avons même pris une voiture, comme nous vous l'avions promis...]{.calibre11}
+
+[Il s'interrompit, pour regarder la grande horloge.]{.calibre11}
+
+[--- Rien ne presse, que diable ! Le train ne partira pas avant un quart d'heure.]{.calibre11}
+
+[C'était vrai, et Marie eut un sourire de joie divine.]{.calibre11}
+
+[--- Oh ! Pierre, si vous saviez quel bonheur j'emporte de cette dernière visite à la sainte Vierge ! Je l'ai vue qui me souriait, je l'ai sentie qui me donnait la force de vivre... Vraiment, ce sont des adieux délicieux, et il ne faut pas nous gronder, Pierre !]{.calibre11}
+
+[Lui-même s'était mis à sourire, un peu gêné de son énervement anxieux. Avait-il donc un si vif désir d'être loin de Lourdes ? Craignait-il que Marie, gardée par la Grotte, ne revînt plus ? Maintenant qu'elle était là, il s'étonnait, il se sentait très calme.]{.calibre11}
+
+[Comme il leur conseillait pourtant d'aller s'installer dans le wagon, il reconnut le docteur Chassaigne, qui accourait vers eux.]{.calibre11}
+
+[--- Ah ! Mon bon docteur, je vous attendais. Cela m'aurait fait un si gros chagrin, de ne pas vous embrasser avant de partir !]{.calibre11}
+
+[Mais le vieux médecin, tremblant d'émotion, l'interrompit.]{.calibre11}
+
+[--- Oui, oui, je me suis attardé... Il y a dix minutes, imaginez-vous, en arrivant ici, je causais là-bas avec le Commandeur, vous savez cet original. Il ricanait de voir vos malades reprendre le train, comme il disait, pour rentrer mourir chez eux, ce qu'ils auraient dû commencer par faire. Et voilà, subitement, qu'il est tombé devant moi, foudroyé... C'était sa troisième attaque de paralysie, celle qu'il attendait...]{.calibre11}
+
+[--- Oh ! Mon Dieu ! murmura l'abbé Judaine qui avait entendu, il blasphémait, le ciel l'a puni !]{.calibre11}
+
+[M. De Guersaint et Marie écoutaient très intéressés, très émus.]{.calibre11}
+
+[--- Je l'ai fait porter là, sous un coin de hangar, continua le docteur. C'est bien fini, je ne puis rien, il sera mort avant un quart d'heure sans doute... Alors, j'ai songé à un prêtre, je me suis hâté de courir...]{.calibre11}
+
+[Et, se tournant :]{.calibre11}
+
+[--- Monsieur le curé, vous qui le connaissiez, venez donc avec moi. On ne peut pas laisser un chrétien s'en aller ainsi. Peut-être va-t-il s'attendrir, reconnaître son erreur, se réconcilier avec Dieu.]{.calibre11}
+
+[Vivement, l'abbé Judaine le suivit ; et, derrière eux, M. De Guersaint emmena Marie et Pierre, se passionnant à l'idée de ce drame. Tous les cinq arrivèrent sous le hangar des messageries, à vingt pas de la foule, qui grondait, sans que personne soupçonnât qu'un homme était si voisin, en train d'agoniser.]{.calibre11}
+
+[Là, dans un coin de solitude, entre deux tas de sacs d'avoine, le Commandeur gisait sur un matelas de l'Hospitalité, qu'on avait pris à la réserve. Il était vêtu de son éternelle redingote, la boutonnière garnie de son large ruban rouge ; et quelqu'un, ayant eu la précaution de ramasser sa canne à pomme d'argent, l'avait soigneusement posée près du matelas, par terre.]{.calibre11}
+
+[Tout de suite, l'abbé Judaine s'était penché.]{.calibre11}
+
+[--- Mon pauvre ami, vous nous reconnaissez, vous nous entendez, n'est-ce pas ?]{.calibre11}
+
+[Le Commandeur ne paraissait plus avoir que les yeux de vivants ; mais ils vivaient, ils luisaient encore avec une flamme d'énergie obstinée. En frappant cette fois le côté droit, l'attaque devait avoir aboli la parole. Pourtant, il bégayait quelques mots, il parvint à faire comprendre qu'il voulait finir là, sans qu'on le bougeât, sans qu'on l'ennuyât davantage. N'ayant aucun parent à Lourdes, où personne ne savait rien de son passé ni de sa famille, y vivant depuis trois années de son petit emploi à la gare, l'air parfaitement heureux, il voyait enfin son ardent désir, son désir unique se réaliser, celui de s'en aller, de tomber à l'éternel sommeil, au néant réparateur. Et ses yeux, en effet, disaient toute sa grande joie.]{.calibre11}
+
+[--- Avez-vous quelque voeu à exprimer ? reprit l'abbé Judaine. Ne pouvons-nous pas vous être utiles en quelque chose ?]{.calibre11}
+
+[Non, non ! Ses yeux répondaient qu'il était bien, qu'il était content. Depuis trois années déjà, il ne s'était pas levé un matin, sans espérer qu'il coucherait le soir au cimetière. Quand le soleil brillait, il avait coutume de dire d'un air d'envie : « Ah ! Quel beau jour pour partir ! » Et elle était la bien reçue, la mort qui venait le délivrer de cette exécrable existence.]{.calibre11}
+
+[Le docteur Chassaigne, amèrement, répéta tout bas au vieux prêtre, qui le suppliait de tenter quelque chose :]{.calibre11}
+
+[--- Je ne puis rien, la science est impuissante... Il est condamné.]{.calibre11}
+
+[Mais, à ce moment, une vieille femme, une pèlerine de quatre-vingts ans, égarée, ne sachant où elle allait, entra sous le hangar. Elle se traînait sur une canne, bancale et bossue, revenue à la taille d'une enfant, affligée de tous les maux de l'extrême vieillesse ; et elle emportait, pendu en sautoir, un bidon plein d'eau de Lourdes, pour prolonger cette vieillesse encore, dans l'effroyable état de ruine où elle était. Un instant, son imbécillité sénile s'effara. Elle regarda cet homme étendu, raidi, qui se mourait. Puis, une bonté d'aïeule reparut au fond de ses yeux troubles, une fraternité de créature très vieille et très souffrante la fit s'approcher davantage. Et, de ses mains agitées d'un continuel tremblement, elle prit son bidon, elle le tendit à l'homme.]{.calibre11}
+
+[Ce fut, pour l'abbé Judaine, une clarté brusque, comme une inspiration d'en haut. Lui, qui avait tant prié pour la guérison de madame Dieulafay, et que la sainte Vierge n'avait pas écouté, se sentit embrasé d'une foi nouvelle, convaincu que, si le Commandeur buvait, il serait guéri. Il tomba sur les genoux, au bord du matelas.]{.calibre11}
+
+[--- Ô mon frère, c'est Dieu qui vous envoie cette femme... Réconciliez-vous avec Dieu, buvez et priez, pendant que nous-mêmes allons implorer de toute notre âme la miséricorde divine... Dieu voudra vous prouver sa puissance, Dieu va faire le grand miracle de vous remettre debout, pour que vous passiez encore de longues années sur cette terre, à l'aimer et à le glorifier.]{.calibre11}
+
+[Non, non ! Les yeux étincelants du Commandeur criaient non ! Lui être aussi lâche que ces troupeaux de pèlerins, venus de si loin, à travers tant de fatigues, pour se traîner par terre et sangloter, en suppliant le ciel de les laisser vivre un mois, une année, dix années encore ! C'était si bon, c'était si simple de mourir tranquillement dans son lit ! On se tourne contre le mur, et l'on meurt.]{.calibre11}
+
+[--- Buvez, ô mon frère, je vous en conjure... C'est la vie que vous allez boire, la force, la santé ; et c'est aussi la joie de vivre... Buvez pour redevenir jeune, pour recommencer une existence pieuse ! Buvez pour chanter les louanges de la divine Mère qui aura sauvé votre corps et votre âme !... Elle me parle, votre résurrection est certaine.]{.calibre11}
+
+[Non, non ! Les yeux refusaient, repoussaient la vie avec une obstination croissante ; et il s'y mêlait maintenant une sourde crainte du miracle. Le Commandeur ne croyait pas, haussait depuis trois ans les épaules devant leurs prétendues guérisons. Mais savait-on jamais, dans ce drôle de monde ? Il arrivait parfois des choses tellement extraordinaires ! Et si, par hasard, leur eau avait eu réellement une vertu surnaturelle, et si, de force, ils lui en faisaient boire, ce serait terrible de revivre, de recommencer son temps de bagne, l'abomination que Lazare, l'élu pitoyable du grand miracle, avait soufferte deux fois ! Non, non ! Il ne voulait pas boire, il ne voulait pas tenter l'affreuse chance de la résurrection.]{.calibre11}
+
+[--- Buvez, buvez, mon frère, répétait le vieux prêtre, gagné par les larmes, ne vous endurcissez pas dans votre refus des grâces célestes !]{.calibre11}
+
+[Et l'on vit alors cette chose terrible, cet homme à demi mort déjà se soulever, secouer les liens étouffants de la paralysie, dégager pour une seconde sa langue nouée, bégayant, grondant d'une voix rauque :]{.calibre11}
+
+[--- Non, non, non !]{.calibre11}
+
+[Il fallut que Pierre emmenât, remît dans son chemin la vieille pèlerine hébétée. Elle n'avait pas compris ce refus de l'eau qu'elle emportait comme un trésor inestimable, le cadeau même de l'éternité de Dieu aux pauvres gens qui ne veulent pas mourir. Bancale, bossue, traînant sur sa canne le triste reste de ses quatre-vingts ans, elle disparut parmi la foule piétinante, dévorée de la passion d'être, avide de grand air, de soleil et de bruit.]{.calibre11}
+
+[Marie et son père venaient de frémir devant cet appétit de la mort, cette faim goulue du néant, que montrait le Commandeur. Ah ! Dormir, dormir sans rêve, dans l'infini des ténèbres, éternellement, rien ne pouvait être si doux au monde ! Ce n'était point l'espoir d'une autre vie meilleure, le désir d'être heureux enfin, dans un paradis d'égalité et de justice ; c'était le seul besoin de la nuit noire, du sommeil sans fin, la joie de ne plus être, à jamais. Et le docteur Chassaigne avait eu un frisson, car lui aussi ne nourrissait qu'une pensée, la félicité de la minute où il partirait. Mais, par-delà cette existence, ses chères mortes, sa femme et sa fille l'attendaient au rendez-vous de la vie éternelle, et quel froid de glace, s'il s'était dit un seul moment qu'il ne les y retrouverait pas !]{.calibre11}
+
+[Péniblement, l'abbé Judaine se releva. Il avait cru remarquer que le Commandeur fixait à présent ses yeux vifs sur Marie. Désolé de ses supplications inutiles, il voulut lui montrer un exemple de cette bonté de Dieu, qu'il repoussait.]{.calibre11}
+
+[--- Vous la reconnaissez, n'est-ce pas ? Oui, c'est la jeune fille qui est arrivée samedi, si malade, paralysée des deux jambes. Et vous la voyez à cette heure, si bien portante, si forte, si belle... Le ciel lui a fait grâce, la voilà qui renaît à sa jeunesse, à la longue vie qu'elle est née pour vivre... N'avez-vous aucun regret à la regarder ? La voudriez-vous donc morte aussi, cette enfant, et lui auriez-vous conseillé de ne pas boire ?]{.calibre11}
+
+[Le Commandeur ne pouvait répondre ; mais ses yeux ne quittaient plus le jeune visage de Marie, où se lisait un si grand bonheur de la résurrection, une si vaste espérance aux lendemains sans nombre ; et des larmes parurent, grossirent sous ses paupières ; roulèrent le long de ses joues déjà froides. Il pleurait certainement sur elle, il songeait à l'autre miracle qu'il avait souhaité pour elle, si elle guérissait, celui d'être heureuse. C'était l'attendrissement d'un vieil homme, connaissant la misère de ce monde, s'apitoyant sur toutes les douleurs qui attendaient cette créature. Ah ! La triste femme, que de fois peut-être regretterait-elle de n'être pas morte à ses vingt ans !]{.calibre11}
+
+[Puis, les yeux du Commandeur s'obscurcirent, comme si ces larmes de pitié dernière les avaient fondus. C'était la fin, le coma arrivait, l'intelligence s'en allait avec le souffle. Il se tourna, et il mourut.]{.calibre11}
+
+[Tout de suite, le docteur Chassaigne écarta Marie.]{.calibre11}
+
+[--- Le train part, dépêchez-vous, dépêchez-vous !]{.calibre11}
+
+[En effet, une volée de cloche leur arrivait distinctement, au milieu du tumulte grandi de la foule. Et le docteur, ayant chargé deux brancardiers de veiller le corps, qu'on enlèverait plus tard, quand le train ne serait plus là, voulut accompagner ses amis jusqu'à leur wagon.]{.calibre11}
+
+[Tous se hâtaient. L'abbé Judaine, désespéré, les avait rejoints, après avoir dit une courte prière pour le repos de cette âme révoltée. Mais, comme Marie, suivie de Pierre et de M. De Guersaint, courait le long du quai, elle fut arrêtée encore par le docteur Bonamy, qui triompha en la présentant au père Fourcade.]{.calibre11}
+
+[--- Mon révérend père, voici mademoiselle de Guersaint, la jeune fille qui a été guérie si miraculeusement hier lundi.]{.calibre11}
+
+[Le père eut un sourire rayonnant de général auquel on rappelle sa victoire la plus décisive.]{.calibre11}
+
+[--- Je sais, je sais, j'étais là... Ma chère fille, Dieu vous a bénie entre toutes, allez et faites adorer son nom.]{.calibre11}
+
+[Puis, il félicita M. De Guersaint, dont l'orgueil paternel jouissait divinement. C'était l'ovation qui recommençait, ce concert de paroles tendres, de regards émerveillés, qui avaient suivi la jeune fille, le matin, au travers des rues de Lourdes, et qui, de nouveau, l'entouraient, à la dernière minute du départ. La cloche avait beau sonner encore, un cercle de pèlerins ravis s'était formé, il semblait qu'elle emportât dans sa personne la gloire du pèlerinage, le triomphe de la religion, désormais retentissant aux quatre coins de la terre.]{.calibre11}
+
+[Et Pierre, à ce moment, fut ému, en remarquant le groupe douloureux que formaient, près de là, M. Dieulafay et madame Jousseur. Leurs regards s'étaient fixés sur Marie, ils s'étonnaient comme les autres de la résurrection extraordinaire de cette jeune fille, si belle, qu'ils avaient vue inerte, maigrie, la face terreuse. Pourquoi donc cette enfant ? Pourquoi pas la jeune femme, la chère femme qu'ils remportaient mourante ? Leur confusion, leur honte semblait avoir grandi ; et ils se reculaient, dans leur malaise de parias trop riches ; et ce fut un soulagement pour eux, lorsque, trois brancardiers ayant à grand'peine monté madame Dieulafay dans le compartiment de première classe, ils purent y disparaître à leur tour, en compagnie de l'abbé Judaine.]{.calibre11}
+
+[Mais déjà les employés criaient : « En voiture ! En voiture ! » Le père Massias, chargé de la direction pieuse du train, avait repris sa place, laissant sur le trottoir le père Fourcade, appuyé à l'épaule du docteur Bonamy. Vivement, Gérard et Berthaud saluèrent encore ces dames, pendant que Raymonde montait rejoindre madame Désagneaux et madame Volmar, installées dans leur coin ; et madame de Jonquière, enfin, courut à son wagon, où elle arriva en même temps que les Guersaint. On se bousculait, il y avait des cris, des courses effarées, d'un bout à l'autre du train interminable, auquel on venait d'attacher la locomotive, une machine toute en cuivre, luisante comme un astre.]{.calibre11}
+
+[Pierre faisait passer Marie devant lui, lorsque M. Vigneron, qui revenait au galop, lui cria :]{.calibre11}
+
+[--- Il est valable ! Il est valable !]{.calibre11}
+
+[Très rouge, il montrait, il agitait son billet. Et il galopa jusqu'au compartiment où se trouvaient sa femme et son fils, pour leur annoncer la bonne nouvelle.]{.calibre11}
+
+[Quand Marie et son père furent installés, Pierre resta une minute encore sur le quai, avec le docteur Chassaigne, qui l'embrassa paternellement. Il voulait lui faire promettre de revenir à Paris, de se reprendre un peu à l'existence. Mais le vieux médecin hochait la tête.]{.calibre11}
+
+[--- Non, non, mon cher enfant, je reste... Elles sont ici, elles me gardent.]{.calibre11}
+
+[Il parlait de ses chères mortes. Puis, doucement, très attendri :]{.calibre11}
+
+[--- Adieu !]{.calibre11}
+
+[--- Pas adieu, mon bon docteur, au revoir !]{.calibre11}
+
+[--- Si, si, adieu... Le Commandeur avait raison, voyez-vous. Il n'y a rien d'aussi bon que de mourir, mais pour revivre.]{.calibre11}
+
+[Le baron Suire donnait l'ordre d'enlever les drapeaux blancs, en tête et en queue du train. Plus impérieux, les cris des employés continuaient : « En voiture ! En voiture ! » Et c'était la bousculade suprême, le flot des attardés s'affolant, arrivant en nage, hors d'haleine. Dans le wagon, madame de Jonquière et soeur Hyacinthe comptaient leur monde. La Grivotte, Élise Rouquet, Sophie Couteau étaient bien là. Madame Sabathier s'était assise à sa place, en face de son mari, qui, les yeux à demi clos, attendait patiemment le départ.]{.calibre11}
+
+[Mais une voix demanda :]{.calibre11}
+
+[--- Et madame Vincent, elle ne repart donc pas avec nous ?]{.calibre11}
+
+[Soeur Hyacinthe, qui se penchait, échangeant encore un sourire avec Ferrand, debout au seuil du fourgon, s'écria :]{.calibre11}
+
+[--- La voici !]{.calibre11}
+
+[Madame Vincent traversait les voies, accourait, la dernière, essoufflée, hagarde. Et, tout de suite, d'un coup d'oeil involontaire, Pierre regarda ses bras. Ils étaient vides.]{.calibre11}
+
+[Toutes les portières se refermaient maintenant, claquaient les unes après les autres. Les wagons étaient pleins, il n'y avait plus que le signal à donner. Soufflante, fumante, la machine jeta un premier coup de sifflet, d'une allégresse aiguë ; et, à cette minute, le soleil, voilé jusque-là, dissipa la nuée légère, fit resplendir le train, avec cette machine toute en or, qui semblait partir pour le paradis des légendes. C'était un départ d'une gaieté enfantine, divine, sans amertume aucune. Tous les malades semblaient guéris. On avait beau les emporter tels qu'on les avait apportés, ils partaient soulagés, heureux, pour une heure au moins. Et pas la moindre jalousie ne gâtait leur fraternité, ceux qui n'étaient pas guéris s'égayaient, triomphaient avec la guérison des autres. Leur tour viendrait sûrement, le miracle d'hier leur était la formelle promesse du miracle de demain. Au bout de ces trois journées de supplications ardentes, la fièvre du désir continuait, la foi des oubliés demeurait aussi vive, dans la certitude que la sainte Vierge les avait simplement remis à plus tard, pour le salut de leur âme. En eux tous, chez tous ces misérables affamés de vie, brûlaient l'inextinguible amour, l'invincible espérance. Aussi était-ce, débordant des wagons pleins, un dernier éclat de joie, une turbulence d'extraordinaire bonheur, des rires, des cris. « À l'année prochaine ! Nous reviendrons, nous reviendrons ! » Et les petites soeurs de l'Assomption, si gaies, tapèrent dans leurs mains, et le chant de reconnaissance, le Magnificat, chanté par les huit cents pèlerins, s'éleva.]{.calibre11}
+
+[--- Magnificat anima mea Dominum...]{.calibre11}
+
+[Alors, le chef de gare, enfin rassuré, les bras ballants, fit donner le signal. De nouveau, la machine siffla, puis s'ébranla, roula dans l'éclatant soleil, comme dans une gloire. Sur le quai, le père Fourcade était resté, appuyé à l'épaule du docteur Bonamy, souffrant beaucoup de sa jambe, saluant quand même d'un sourire le départ de ses chers enfants ; tandis que Berthaud, Gérard, le baron Suire formaient un autre groupe, et que, près d'eux, le docteur Chassaigne et M. Vigneron agitaient leur mouchoir. Aux portières des wagons qui fuyaient, des têtes se penchaient joyeuses, des mouchoirs volaient aussi, dans le vent de la course. Madame Vigneron forçait le petit Gustave à montrer sa figure pâle. Longtemps, on put suivre la main potelée de Raymonde envoyant des saluts. Et Marie demeura la dernière, à regarder Lourdes décroître parmi les verdures.]{.calibre11}
+
+[Triomphal, au travers de la campagne claire, le train disparut, resplendissant, grondant, chantant à pleine voix.]{.calibre11}
+
+[--- Et exsultavit spiritus meus in Deo salutari meo.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+[Cinquième journée]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778728 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778390 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778052 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777714 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777376 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776700 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776362 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776024 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775686 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775348 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775010 .pcalibre .calibre3 .pcalibre1}[IV]{#_Toc368774672 .pcalibre .calibre3 .pcalibre1} {#iv .calibre47 .sigil_not_in_toc}
+
+[De nouveau, vers Paris, en route pour le retour, le train blanc roulait. Et, dans le wagon de troisième classe, où le Magnificat, à toute volée des voix aiguës, couvrait le grondement des roues, c'était la même chambrée, la même salle d'hôpital mouvante et commune, qu'on enfilait d'un regard par-dessus les cloisons basses, en son désordre, en son pêle-mêle d'ambulance improvisée. À demi cachés sous la banquette, les vases, les bassins, les balais, les éponges traînaient. Un peu partout, s'empilaient les colis, le pitoyable amas de pauvres choses usées, dont l'encombrement recommençait en l'air, des paquets, des paniers, des sacs, pendus aux patères de cuivre, où ils se balançaient sans repos. Les mêmes soeurs de l'Assomption, les mêmes dames hospitalières étaient là, avec leurs malades, parmi l'entassement des pèlerins valides, souffrant déjà de la chaleur accablante, de l'insupportable odeur. Et il y avait toujours, au fond, le compartiment entier de femmes, les dix pèlerines serrées les unes contre les autres, des jeunes, des vieilles, toutes de la même laideur triste, qui chantaient violemment, sur un ton lamentable et faux.]{.calibre11}
+
+[--- À quelle heure serons-nous donc à Paris ? demanda M. De Guersaint à Pierre.]{.calibre11}
+
+[--- Demain, vers deux heures de l'après-midi, je crois, répondit le prêtre.]{.calibre11}
+
+[Depuis le départ, Marie regardait ce dernier d'un air d'inquiète préoccupation, comme hantée par un brusque chagrin qu'elle ne disait pas. Elle retrouva pourtant son sourire de belle santé reconquise.]{.calibre11}
+
+[--- Vingt-deux heures de voyage, ah ! Ce sera moins long et moins dur que pour venir !]{.calibre11}
+
+[--- Et puis, reprit son père, nous avons semé du monde là-bas, nous sommes très à l'aise.]{.calibre11}
+
+[En effet, l'absence de madame Maze laissait un coin libre, au bout de la banquette, que Marie, assise maintenant, n'encombrait plus de son chariot ; et l'on avait même fait passer la petite Sophie dans le compartiment voisin, où ne se trouvait plus le frère Isidore, ni sa soeur Marthe, restée en service à Lourdes, disait-on, chez une dame pieuse. De l'autre côté, madame de Jonquière et soeur Hyacinthe bénéficiaient également d'une place, celle de madame Vêtu. Elles avaient d'ailleurs eu l'idée de se débarrasser aussi d'Élise Rouquet, en l'installant avec Sophie, de façon à ne garder que le ménage Sabathier et la Grivotte. Grâce à cette organisation nouvelle, on étouffait moins, on pourrait peut-être dormir un peu.]{.calibre11}
+
+[Le dernier verset du Magnificat venait d'être chanté, ces dames achevèrent de s'installer le plus confortablement possible, en faisant leur petit ménage. Il fallut surtout caser les brocs de zinc, pleins d'eau, qui gênaient leurs jambes. On avait tiré les stores de toutes les portières de gauche, car le soleil oblique frappait le train, entrait en nappes ardentes. Mais les derniers orages devaient avoir abattu la poussière, et la nuit serait certainement fraîche. Puis, la souffrance était moindre, la mort avait emporté les plus malades, il ne restait là que des maux stupéfiés, engourdis de fatigue, glissant à une torpeur lente. Bientôt allait se produire la réaction d'anéantissement dont les grandes secousses morales sont toujours suivies. Les âmes avaient donné leur effort, les miracles étaient faits, et la détente commençait, dans l'hébétude d'un soulagement profond.]{.calibre11}
+
+[Jusqu'à Tarbes, on fut ainsi très occupé, chacun s'arrangea, reprit possession de sa place. Et, comme on quittait cette station, soeur Hyacinthe se leva, tapa dans ses mains.]{.calibre11}
+
+[--- Mes enfants, il ne faut pas oublier la sainte Vierge, qui a été si bonne... Commençons le rosaire.]{.calibre11}
+
+[Tout le wagon dit avec elle le premier chapelet, les cinq mystères joyeux, l'Annonciation, la Visitation, la Nativité, la Purification et Jésus retrouvé. Puis, on entonna le cantique : « Contemplons le céleste archange... », d'une voix si haute, que les paysans, dans les cultures, levaient la tête, regardaient passer ce train qui chantait.]{.calibre11}
+
+[Marie admirait, au dehors, la campagne vaste, le ciel immense, peu à peu entièrement dégagé de sa brume de chaleur, devenu d'un bleu éclatant. C'était la fin délicieuse d'un beau jour. Et ses regards se reportaient, s'attachaient sur Pierre avec cette muette tristesse qui les avait voilés déjà, lorsque, devant elle, éclatèrent de furieux sanglots. Le cantique était fini, madame Vincent criait, bégayait des paroles confuses, étranglées par les larmes.]{.calibre11}
+
+[--- Ah ! Ma pauvre petite... Ah ! Mon bijou, mon trésor, ma vie...]{.calibre11}
+
+[Elle était, jusque-là, restée dans son coin, s'enfonçant, disparaissant. Farouche, elle n'avait pas dit un mot, les lèvres serrées, les paupières closes, comme pour s'isoler davantage, au fond de son abominable douleur. Mais, ayant rouvert les yeux, elle venait d'apercevoir la bretelle de cuir qui pendait près de la portière ; et la vue de cette bretelle que son enfant avait touchée, avec laquelle son enfant avait joué, la bouleversait d'un désespoir, dont la frénésie emportait toute sa volonté de silence.]{.calibre11}
+
+[--- Ah ! Ma pauvre petite Rose... Sa petite main avait pris ça, et elle tournait ça, elle regardait ça, et c'est bien sûr son dernier joujou... Ah ! Nous étions là toutes les deux, elle vivait encore, je l'avais encore sur mes genoux, dans mes bras. C'était encore si bon, si bon !... Et je ne l'ai plus, et je ne l'aurai jamais plus, ma pauvre petite Rose, ma pauvre petite Rose !]{.calibre11}
+
+[Égarée, sanglotante, elle regardait ses genoux vides, ses bras vides, dont elle ne savait plus que faire. Elle y avait si longtemps bercé, si longtemps porté sa fille, que, maintenant, c'était comme une amputation dans son être, une fonction de moins, qui la laissait diminuée, inoccupée, affolée de les sentir inutiles. Et ses bras, ses genoux la gênaient.]{.calibre11}
+
+[Pierre et Marie, très émus, s'étaient empressés, cherchant de bonnes paroles, tâchant de consoler la misérable mère. Peu à peu, par les phrases décousues qui se mêlaient à ses larmes, ils surent le calvaire qu'elle venait de monter, depuis la mort de sa fille. La veille au matin, lorsqu'elle l'avait emportée morte dans ses bras, sous l'orage, elle devait avoir longtemps marché de la sorte, aveugle, sourde, battue par la pluie torrentielle. Elle ne se souvenait plus des places qu'elle avait traversées, des rues qu'elle avait suivies, au travers de ce Lourdes infâme, de ce Lourdes tueur d'enfants, qu'elle maudissait.]{.calibre11}
+
+[--- Ah ! Je ne sais plus, je ne sais plus... Oui, des gens m'ont recueillie, ont eu pitié de moi, des gens que je ne connais pas, qui habitent quelque part... Ah ! Je ne sais plus, quelque part, là-haut, très loin, à l'autre bout de la ville... Mais sûrement ce sont des gens très pauvres, parce que je me revois dans une chambre pauvre, avec ma chère petite, toute froide, qu'ils avaient couchée sur leur lit...]{.calibre11}
+
+[À ce souvenir, une nouvelle crise de sanglots la secoua, l'étouffa.]{.calibre11}
+
+[--- Non, non ! Je ne voulais pas me séparer de son cher petit corps, en le laissant dans cette ville abominable... Et, je ne peux pas dire au juste, mais ça doit être les pauvres gens qui m'ont conduite. Nous avons fait des courses, oh ! Des courses, nous avons vu tous ces messieurs du pèlerinage et du chemin de fer... Je leur répétais : « Qu'est-ce que ça vous fait ? Permettez-moi de la ramener à Paris dans mes bras. Je l'ai apportée comme ça vivante, je puis bien la remporter morte. Personne ne s'apercevra de rien, on croira qu'elle dort... » Et tout ce monde, toutes ces autorités ont crié, m'ont renvoyée, comme si je leur demandais des choses vilaines. Alors, j'ai fini par leur dire des sottises. N'est-ce pas ? Quand on fait tant d'histoires, quand on amène tant de malades à l'agonie, on devrait bien se charger de ramener les morts... Et, à la gare, savez-vous ce qu'ils ont fini par me demander ? Trois cents francs ! Oui, il paraît que c'est le prix. Seigneur ! Trois cents francs, à moi qui suis venue avec trente sous dans ma poche et qui n'en ai plus que cinq ! Je ne les gagne pas en six mois de couture. Ils auraient dû me demander ma vie, je l'aurais donnée si volontiers... Trois cents francs ! Trois cents francs pour ce pauvre petit corps d'oiseau que j'aurais été si consolée d'emporter sur mes genoux !]{.calibre11}
+
+[Puis, elle ne balbutia plus que des plaintes sourdes.]{.calibre11}
+
+[--- Ah ! Si vous saviez tout ce que les pauvres gens m'ont dit de raisonnable, pour me décider à partir !... Une ouvrière comme moi, que son travail attendait, devait retourner à Paris ; et puis, je n'avais pas le moyen de perdre mon billet de retour, il me fallait reprendre le train à trois heures quarante... Ils ont dit aussi qu'on est bien forcé d'accepter les choses, quand on n'est pas riche. Il n'y a que les riches, n'est-ce pas ? Qui gardent leurs morts, qui font de leurs morts ce qu'ils veulent... Et je ne me rappelle plus, je ne me rappelle plus encore une fois ! Je ne savais même pas l'heure, jamais je n'aurais été capable de retrouver la gare. Après l'enterrement, là-bas, dans un endroit où il y avait deux arbres, ce sont ces pauvres gens qui ont dû m'emmener de là, à moitié folle, qui m'ont conduite et poussée dans le wagon, juste au moment où le train partait... Mais quel arrachement, comme si mon coeur était resté sous la terre ! Et c'est affreux, cela, c'est affreux, mon Dieu !]{.calibre11}
+
+[--- Pauvre femme ! murmura Marie. Ayez du courage, demandez à la sainte Vierge le secours qu'elle ne refuse jamais aux affligés.]{.calibre11}
+
+[Alors, une rage la secoua.]{.calibre11}
+
+[--- Ce n'est pas vrai ! La sainte Vierge se moque bien de moi, la sainte Vierge est une menteuse !... Pourquoi m'a-t-elle trompée ? Jamais je ne serais allée à Lourdes, si je n'avais entendu cette voix dans une église. Ma fillette vivrait encore, peut-être les médecins me la sauveraient-ils... Moi qui pour rien au monde n'aurais mis les pieds chez les curés ! Ah ! Que j'avais raison ! Il n'y a pas de sainte Vierge ! Il n'y a pas de bon Dieu !]{.calibre11}
+
+[Et elle continua, sans résignation, sans illusion ni espérance, celle-là, blasphémant avec sa furieuse grossièreté de peuple, clamant la souffrance de sa chair si rudement, que soeur Hyacinthe dut intervenir.]{.calibre11}
+
+[--- Malheureuse, taisez-vous ! C'est le bon Dieu qui vous punit en faisant saigner votre plaie.]{.calibre11}
+
+[La scène avait duré longtemps, et comme on passait à toute vapeur devant Riscle, elle tapa de nouveau dans ses mains, donnant le signal pour qu'on chantât le Laudate, laudate Mariam.]{.calibre11}
+
+[--- Allons, allons, mes enfants, toutes ensemble et de tout votre coeur.]{.calibre11}
+
+[Au ciel et sur terre,]{.calibre11}
+
+[Que toutes les voix]{.calibre11}
+
+[Pour vous, ô ma Mère,]{.calibre11}
+
+[Chantent à la fois.]{.calibre11}
+
+[Laudate, laudate, laudate Mariam.]{.calibre11}
+
+[La voix couverte par ce cantique d'amour, madame Vincent ne sanglotait plus qu'entre ses deux mains, à bout de révolte, sans force, d'une faiblesse balbutiante de pauvre femme hébétée de douleur et de lassitude.]{.calibre11}
+
+[Dans le wagon, après le cantique, la fatigue se fit aussi sentir pour toutes. Il n'y avait guère que soeur Hyacinthe, si vive, et soeur Claire des Anges, douce, sérieuse et menue, qui fussent comme au départ de Paris, comme pendant le séjour à Lourdes, d'une sérénité professionnelle accoutumée à tout, victorieuse de tout, dans la gaieté claire de leur guimpe et de leur cornette blanches. Madame de Jonquière, qui n'avait presque pas dormi depuis cinq jours, faisait des efforts pour tenir ouverts ses pauvres yeux, ravie du voyage cependant, rentrant avec la grande joie au coeur d'avoir marié sa fille et de ramener avec elle le plus beau miracle, une miraculée dont tout le monde parlait. Elle se promettait bien de dormir cette nuit-là, malgré les durs cahots, reprise pourtant d'une sourde crainte au sujet de la Grivotte, qui lui paraissait singulière, excitée, hagarde, avec des yeux troubles, des joues enfiévrées de taches violâtres. À dix reprises, elle avait voulu la faire tenir tranquille, sans obtenir d'elle qu'elle ne remuât plus, les mains jointes, les paupières closes. Heureusement, les autres malades ne lui donnaient aucune inquiétude, toutes soulagées ou si lasses, qu'elles sommeillaient déjà. Élise Rouquet s'était acheté un miroir de poche, un grand miroir rond, dans lequel elle ne se lassait pas de se regarder, se trouvant belle, constatant de minute en minute les progrès de sa guérison, avec une coquetterie qui lui faisait pincer les lèvres, essayer des sourires, maintenant que sa face de monstre redevenait humaine. Quant à Sophie Couteau, elle jouait gentiment, elle s'était déchaussée d'elle-même en voyant que personne ne demandait à examiner son pied, elle répétait que bien sûr elle devait avoir un caillou dans son bas ; et, comme on ne faisait toujours aucune attention à ce petit pied visité par la sainte Vierge, elle le gardait entre ses mains, le caressait, semblait ravie de le toucher et de faire joujou avec.]{.calibre11}
+
+[M. De Guersaint s'était mis debout, accoudé à la cloison, regardant M. Sabathier.]{.calibre11}
+
+[--- Oh ! Père, père, dit soudain Marie, vois donc cette entaille dans le bois ! C'est la ferrure de mon chariot qui a fait ça !]{.calibre11}
+
+[Ce vestige retrouvé la rendit si heureuse, qu'un instant elle oublia le secret chagrin qu'elle semblait vouloir taire. De même que madame Vincent avait sangloté en apercevant la bretelle de cuir, touchée par sa fillette, elle, brusquement, éclatait de joie, à la vue de cette écorchure qui lui rappelait son long martyre, à cette place, toute cette abomination disparue, évanouie comme un cauchemar.]{.calibre11}
+
+[--- Dire qu'il y a quatre jours à peine ! J'étais couchée là, je ne pouvais pas bouger, et maintenant, maintenant je vais, je viens, je suis si à l'aise, mon Dieu !]{.calibre11}
+
+[Pierre et M. De Guersaint lui souriaient. Puis, M. Sabathier, qui avait entendu, dit lentement :]{.calibre11}
+
+[--- C'est bien vrai, on laisse un peu de soi dans les choses, de ses souffrances, de ses espérances, et quand on les retrouve, elles vous parlent, elles vous redisent ces choses, qui vous attristent ou vous égayent.]{.calibre11}
+
+[De son air résigné, il était resté silencieux dans son coin, depuis le départ de Lourdes ; et sa femme elle-même, quand elle lui enveloppait les jambes, en lui demandant s'il souffrait, n'en tirait que des hochements de tête. Il ne souffrait pas, mais il était envahi d'un accablement invincible.]{.calibre11}
+
+[--- Ainsi, moi, tenez ! Continua-t-il, pendant le long voyage, en venant, je m'étais distrait à compter les frises, au plafond, là-haut. Il y en avait treize, de la lampe à la portière. Je viens de les recompter, et il y en a toujours treize, naturellement... C'est comme ce bouton de cuivre, à côté de moi. Vous ne vous imaginez pas les rêves que j'ai faits, en le regardant briller, pendant la nuit où monsieur l'abbé nous a lu l'histoire de Bernadette. Oui, je me voyais guéri, je faisais à Rome le voyage dont je parle depuis vingt ans, je marchais, je courais le monde ; enfin, des rêves fous et délicieux... Et puis, voilà que nous retournons à Paris, il y a là-haut treize frises, le bouton brille, tout ça me dit que je me trouve de nouveau sur cette banquette avec mes jambes mortes... Allons, c'est entendu, je suis et je resterai une pauvre vieille bête finie.]{.calibre11}
+
+[Deux grosses larmes parurent dans ses yeux, il devait traverser une heure d'amertume affreuse. Mais il releva sa grosse tête carrée, à la mâchoire de patiente obstination.]{.calibre11}
+
+[--- C'était la septième année que j'allais à Lourdes, et la sainte Vierge ne m'a pas écouté. N'importe, ça ne m'empêchera pas d'y retourner l'année prochaine. Peut-être daignera-t-elle enfin m'entendre.]{.calibre11}
+
+[Lui, ne se révoltait pas. Et Pierre, en causant, resta stupéfait de la crédulité persistante, vivace, repoussant quand même, dans ce cerveau cultivé d'intellectuel. De quel ardent désir de guérison et de vie étaient faits ce refus de l'évidence, cette volonté d'aveuglement ? Il s'entêtait à être sauvé, en dehors de toutes les probabilités naturelles, quand l'expérience du miracle avait elle-même échoué tant de fois ; et il en était à expliquer son nouvel échec, des distractions qu'il avait eues devant la Grotte, une contrition sans doute insuffisante, toutes sortes de petits péchés qui devaient avoir mécontenté la sainte Vierge. Il se promettait déjà, l'année prochaine, de faire une neuvaine quelque part, avant de se rendre à Lourdes.]{.calibre11}
+
+[--- À propos, reprit-il, vous savez la chance qu'a eue mon remplaçant, oui ! Vous vous rappelez, ce tuberculeux pour lequel j'ai donné les cinquante francs du voyage, en me faisant hospitaliser... Eh bien ! Il a été radicalement guéri.]{.calibre11}
+
+[--- En vérité, un tuberculeux ! S'écria M. De Guersaint.]{.calibre11}
+
+[--- Parfaitement, monsieur, guéri comme avec la main !... Je l'avais vu si bas, si jaune, si efflanqué, et il est venu me rendre visite à l'Hôpital, tout ragaillardi. Ma foi, je lui ai donné cent sous.]{.calibre11}
+
+[Pierre dut réprimer un sourire, car il savait l'histoire, il la tenait du docteur Chassaigne. Le miraculé en question était un simulateur, qu'on avait fini par reconnaître au bureau médical des constatations. Ce devait être au moins la troisième année qu'il s'y présentait, une première fois pour une paralysie, la seconde pour une tumeur, toutes deux guéries de même complètement. Chaque fois, il se faisait promener, héberger, nourrir, et il ne partait que comblé d'aumônes. Ancien infirmier des hôpitaux, il se grimait, se transformait, se donnait la tête de son mal, avec un art si extraordinaire, qu'il avait fallu un hasard pour que le docteur Bonamy se rendît compte de la supercherie. D'ailleurs, tout de suite les pères avaient exigé le silence sur l'aventure. À quoi bon livrer ce scandale aux plaisanteries des journaux ? Quand ils découvraient de la sorte des escroqueries au miracle, ils se contentaient de faire disparaître les coupables. Les simulateurs étaient, du reste, assez rares, malgré les joyeuses histoires répandues sur Lourdes par les esprits voltairiens. Hélas ! En dehors de la foi, la bêtise et l'ignorance suffisaient.]{.calibre11}
+
+[M. Sabathier était très remué par cette idée que le ciel avait guéri cet homme venu à ses frais, tandis que lui rentrait impotent, réduit au même état lamentable. Il soupira, il ne put s'empêcher de conclure, avec une pointe d'envie, dans sa résignation :]{.calibre11}
+
+[--- Enfin, que voulez-vous ? La sainte Vierge doit bien savoir ce qu'elle fait. Ce n'est ni vous ni moi, n'est-ce pas ? Qui irons lui demander compte de ses actions... Quand il lui plaira de jeter sur moi un regard, elle me trouvera toujours à ses pieds.]{.calibre11}
+
+[À Mont-de-Marsan, après l'Angélus, soeur Hyacinthe fit dire le second chapelet, les cinq mystères douloureux : Jésus au Jardin des Oliviers, Jésus flagellé, Jésus couronné d'épines, Jésus portant sa croix, Jésus mourant sur la croix. Et l'on dîna ensuite dans le wagon, car il n'y avait pas d'arrêt avant Bordeaux, où l'on devait arriver seulement à onze heures du soir. Tous les paniers des pèlerins étaient bourrés de provisions, sans compter le lait, le bouillon, le chocolat, les fruits que soeur Saint-François avait envoyés de la cantine. Puis, des partages fraternels se faisaient : on mangeait sur ses genoux, on voisinait, chaque compartiment n'était plus qu'une tablée de hasard, une dînette où chacun apportait son écot. Et l'on avait fini, on remballait le reste du pain et les papiers gras, lorsqu'on passa devant Morcenx.]{.calibre11}
+
+[--- Mes enfants, dit soeur Hyacinthe en se levant, la prière du soir !]{.calibre11}
+
+[Alors, il y eut un bourdonnement confus, des Pater, des Ave, un examen de conscience, un acte de contrition, un abandon de soi-même à Dieu, à la sainte Vierge et aux saints, tout un remerciement de l'heureuse journée, que termina une prière pour les vivants et pour les fidèles trépassés.]{.calibre11}
+
+[--- À dix heures, quand nous serons à Lamothe, reprit la religieuse, je vous préviens que je ferai faire le silence. Mais je crois que vous allez être bien sages et qu'on n'aura pas besoin de vous bercer.]{.calibre11}
+
+[Cela fit rire. Il était huit heures et demie, une nuit lente avait submergé la campagne. Seuls, les coteaux gardaient l'adieu vague du crépuscule, tandis que la nappe épaissie des ténèbres noyait les terres basses. Le train, à toute vapeur, déboucha dans une immense plaine ; et il n'y eut plus que cette mer d'ombre où il roulait sans fin, sous un ciel d'un bleu noir, criblé d'étoiles.]{.calibre11}
+
+[Depuis un instant, Pierre s'étonnait des allures de la Grivotte. Pendant que les pèlerins et les malades s'assoupissaient déjà, affaissés parmi les bagages, que balançaient les continuelles secousses, elle s'était levée toute droite, elle se cramponnait à la cloison, dans une angoisse brusque. Et, sous la lampe, dont la pâle lueur jaune dansait, elle apparaissait comme amaigrie de nouveau, la face livide et torturée.]{.calibre11}
+
+[--- Madame, prenez garde, elle va tomber ! Cria le prêtre à madame de Jonquière, qui, les paupières closes, cédait au sommeil.]{.calibre11}
+
+[Celle-ci se hâta. Mais soeur Hyacinthe s'était retournée d'un mouvement plus vif. Et elle reçut dans les bras la Grivotte, qu'un furieux accès de toux abattait sur la banquette. Pendant cinq minutes, la misérable étouffa, secouée d'une telle quinte que son pauvre corps en craquait. Puis, des filets rouges coulèrent, elle cracha le sang à pleine gorge.]{.calibre11}
+
+[--- Mon Dieu ! Mon Dieu ! ça la reprend ! Répétait madame de Jonquière désespérée. Et je m'en doutais, je n'étais pas tranquille, à la voir si singulière... Attendez, je vais m'asseoir près d'elle.]{.calibre11}
+
+[La religieuse n'y consentit pas.]{.calibre11}
+
+[--- Non, non, madame, dormez un peu, je veillerai... Vous n'avez pas l'habitude, vous finiriez par vous rendre malade, vous aussi.]{.calibre11}
+
+[Et elle s'installa, elle garda contre son épaule la tête de la Grivotte, dont elle essuyait les lèvres sanglantes. La crise se calma, mais la faiblesse revenait si grande, que la malheureuse eut à peine la force de bégayer :]{.calibre11}
+
+[--- Oh ! Ce n'est rien, ce n'est rien du tout... Je suis guérie, je suis guérie, guérie complètement !]{.calibre11}
+
+[Pierre restait bouleversé. Cette foudroyante rechute avait glacé le wagon. Beaucoup se soulevaient, regardaient avec terreur. Puis, tous se renfoncèrent dans leur coin, personne ne parla, personne ne bougea plus. Et Pierre songeait à l'étonnant cas médical offert par cette fille, les forces rétablies là-bas, le gros appétit, les longues courses, le visage rayonnant, les membres dansants, puis ce sang craché, cette toux, cette face plombée d'agonisante, le brutal retour de la maladie, quand même victorieuse. Était-ce donc une phtisie particulière, compliquée d'une névrose ? Était-ce même quelque autre maladie, un mal inconnu qui faisait tranquillement son oeuvre, au milieu des diagnostics contradictoires ? La mer des ignorances et des erreurs commençait, ces ténèbres où se débat encore la science humaine. Et il revoyait le docteur Chassaigne hausser les épaules de dédain, tandis que le docteur Bonamy, plein de sérénité, continuait tranquillement sa besogne des constatations, dans l'absolue certitude que personne ne lui prouverait l'impossibilité de ses miracles, pas plus qu'il n'aurait pu en démontrer la possibilité lui-même.]{.calibre11}
+
+[--- Oh ! Je n'ai pas peur, bégayait toujours la Grivotte, ils me l'ont bien tous dit là-bas, je suis guérie, guérie complètement !]{.calibre11}
+
+[Le wagon roulait, roulait dans la nuit noire. Chacun prenait ses dispositions, s'allongeait pour dormir plus à l'aise. On força madame Vincent à s'étendre sur la banquette, on lui donna un oreiller, où elle pût reposer sa pauvre tête endolorie ; et, devenue d'une docilité d'enfant, hébétée, elle sommeillait dans une torpeur de cauchemar, avec de grosses larmes silencieuses qui continuaient à couler de ses yeux clos. Élise Rouquet, elle aussi, ayant toute une banquette à elle, s'apprêtait à s'y coucher ; mais, la face toujours dans son miroir, elle faisait auparavant une grande toilette de nuit, se nouait sur la tête le fichu noir qui lui avait servi à cacher sa plaie, regardait si elle était belle ainsi, avec sa lèvre désenflée. Et, de nouveau, Pierre s'étonnait de cette plaie en voie de guérison, sinon guérie, de ce visage de monstre qu'on pouvait maintenant regarder sans horreur. La mer des incertitudes recommençait. N'était-ce même pas un vrai lupus ? N'était-ce qu'une sorte inconnue d'ulcère, d'origine hystérique ? Ou bien fallait-il admettre que certains lupus mal étudiés, provenant de la mauvaise nutrition de la peau, pouvaient être amendés par une grande secousse morale ? C'était un miracle, à moins que, dans trois semaines, dans trois mois ou dans trois ans, il ne reparût, comme la phtisie de la Grivotte.]{.calibre11}
+
+[Il était dix heures, tout le wagon s'ensommeillait, quand on quitta Lamothe. Soeur Hyacinthe, qui avait gardé sur ses genoux la tête de la Grivotte assoupie, ne put se lever ; et elle se contenta de dire, pour la forme, d'une voix légère, qui se perdit dans le grondement des roues :]{.calibre11}
+
+[--- Le silence, le silence, mes enfants !]{.calibre11}
+
+[Mais quelque chose continua de remuer, au fond d'un compartiment voisin, un bruit qui l'agaçait et qu'elle finit par comprendre.]{.calibre11}
+
+[--- Sophie, qu'est-ce que vous avez donc à donner des coups de pied dans la banquette ? Il faut dormir, mon enfant.]{.calibre11}
+
+[--- Je ne donne pas de coups de pied, ma soeur. C'est une clef qui roulait sous mon soulier.]{.calibre11}
+
+[--- Comment, une clef ? Passez-la-moi.]{.calibre11}
+
+[Elle l'examina : une très pauvre, une très vieille clef, noirâtre, amincie et polie par l'usage, dont l'anneau, ressoudé, gardait la cicatrice. Tout le monde s'était fouillé, personne n'avait perdu de clef.]{.calibre11}
+
+[--- J'ai trouvé ça dans le coin, reprit Sophie. Ça doit être à l'homme.]{.calibre11}
+
+[--- Quel homme ? demanda la religieuse.]{.calibre11}
+
+[--- Mais l'homme qui est mort là.]{.calibre11}
+
+[On l'avait déjà oublié. Soeur Hyacinthe se rappela : oui, oui, c'était sûrement à l'homme, car elle avait entendu tomber quelque chose, pendant qu'elle lui épongeait le front. Et elle retournait la clef, elle continuait à la regarder, dans sa laideur de pauvre clef lamentable, de clef désormais inutile, qui n'ouvrirait jamais plus la serrure inconnue, quelque part, au fond du vaste monde. Un instant, elle voulut la mettre dans sa poche, par une sorte de pitié pour ce petit morceau de fer si humble, si mystérieux, tout ce qui restait de l'homme. Puis, la pensée dévote lui vint qu'il ne fallait s'attacher à rien sur cette terre ; et, par la glace baissée à demi, elle lança la clef, qui alla tomber dans la nuit noire.]{.calibre11}
+
+[--- Sophie, il ne faut plus jouer, il faut dormir, reprit-elle. Allons, allons, mes enfants, le silence !]{.calibre11}
+
+[Ce fut seulement après le court arrêt à Bordeaux, vers onze heures et demie, que le sommeil reprit et accabla le wagon entier. Madame de Jonquière n'avait pu lutter davantage, la tête contre le bois de la cloison, la face heureuse dans sa fatigue. Les Sabathier dormaient de même, sans un souffle ; tandis que pas un bruit non plus ne venait de l'autre compartiment, celui que Sophie Couteau et Élise Rouquet occupaient, allongées face à face sur les banquettes. De temps à autre, une plainte sourde s'élevait, un cri étranglé de douleur ou d'épouvante, qui s'échappait des lèvres de madame Vincent assoupie, torturée de mauvais rêves. Et il ne restait guère que soeur Hyacinthe les yeux grands ouverts, très préoccupée de l'état de la Grivotte, immobile maintenant, comme assommée, respirant avec effort, d'un râle continu. D'un bout à l'autre de ce dortoir mouvant, secoué par la trépidation du train lancé à toute vapeur, les pèlerins et les malades s'abandonnaient, des membres pendaient, des têtes roulaient, sous la pâle lueur dansante des lampes. Au fond, dans le compartiment des dix pèlerines, c'était un pêle-mêle lamentable de pauvres figures laides, les vieilles, les jeunes, que le sommeil semblait avoir foudroyées à la fin d'un cantique, la bouche ouverte. Et une grande pitié montait de ces tristes gens, las, écrasés par cinq journées d'espoirs fous, d'extases infinies, qui allaient, le lendemain, se réveiller à la dure réalité de l'existence.]{.calibre11}
+
+[Alors, Pierre se sentit comme seul avec Marie. Elle n'avait pas voulu s'allonger sur la banquette, disant qu'elle était restée trop longtemps couchée, pendant sept ans ; et lui, pour donner de l'aise à M. De Guersaint, qui, depuis Bordeaux, avait repris son profond sommeil d'enfant, était venu s'asseoir près d'elle. La clarté de la lampe la gênait, il tira l'écran, ils se trouvèrent dans l'ombre, une ombre transparente, infiniment douce. À ce moment, le train devait rouler en plaine, il glissait dans la nuit, comme en un vol sans fin, avec un bruit d'ailes énorme et régulier. Par la glace qu'ils avaient baissée, une fraîcheur exquise venait des champs noirs, des champs insondables, où ne luisait même pas la petite lueur perdue d'un village. Un instant, il s'était tourné vers elle, il avait vu qu'elle tenait ses yeux fermés. Mais il devinait qu'elle ne dormait pas, goûtant ce grand calme, dans ce grondement de foudre, dans cette fuite à toute vapeur au fond des ténèbres ; et, comme elle, il ferma les paupières, il rêva longuement.]{.calibre11}
+
+[Une fois encore, le passé s'évoquait, la petite maison de Neuilly, le baiser qu'ils avaient échangé près de la haie en fleur, sous les arbres criblés de soleil. Comme cela était loin déjà, et quel parfum en avait gardé sa vie entière ! Ensuite, l'amertume lui revenait du jour où il s'était fait prêtre. Jamais elle ne devait être femme, il avait consenti à n'être plus un homme, et ce serait leur éternel malheur, puisque la nature ironique allait refaire d'elle une épouse et une mère. Encore s'il avait conservé la foi, il y aurait trouvé l'éternelle consolation. Mais, vainement, il avait tout tenté pour la reconquérir : son voyage à Lourdes, ses efforts devant la Grotte, son espoir, un instant, qu'il finirait par croire, si Marie était miraculeusement guérie ; puis la ruine totale, irrémédiable, lorsque la guérison annoncée s'était scientifiquement produite. Et leur idylle si pure et si douloureuse, la longue histoire de leur tendresse trempée de larmes, se déroulait aussi. Elle-même, ayant pénétré son triste secret, n'était venue à Lourdes que pour demander au ciel le miracle de sa conversion. Pendant la procession aux flambeaux, lorsqu'ils étaient restés seuls sous les arbres, dans le parfum des roses invisibles, ils avaient prié l'un pour l'autre, perdus l'un dans l'autre, avec l'ardent désir de leur mutuel bonheur. Devant la Grotte encore, elle avait supplié la sainte Vierge de l'oublier, elle, et de le sauver, lui, si elle ne pouvait obtenir qu'une grâce de son divin Fils. Puis, guérie, hors d'elle, soulevée d'amour et de reconnaissance, emportée par les rampes avec son chariot, jusqu'à la Basilique, elle s'était crue exaucée, elle lui avait crié sa joie d'être tous les deux sauvés ensemble, ensemble ! Ah ! Ce mensonge, ce mensonge d'affection et de charité, l'erreur où il la laissait depuis ce moment, de quel poids il lui écrasait le coeur ! C'était la dalle pesante qui, maintenant, le murait au fond de son sépulcre volontaire. Il se rappelait l'affreuse crise dont il avait faillir mourir, dans l'ombre de la Crypte, ses sanglots, sa brutale révolte d'abord, son besoin de la garder pour lui seul, de la posséder, puisqu'il la savait sienne, toute cette passion grondante de sa virilité réveillée, qui peu à peu, ensuite, s'était rendormie, noyée sous le ruissellement de ses pleurs ; et, pour ne pas détruire en elle la divine illusion, cédant à une fraternelle pitié, il avait fait cet héroïque serment de lui mentir, dont il agonisait.]{.calibre11}
+
+[Pierre, dans sa rêverie, frémit alors. Aurait-il la force de le tenir toujours, ce serment ? À la gare, lorsqu'il l'attendait, ne venait-il pas de surprendre en son coeur une impatience, un besoin jaloux de quitter ce Lourdes trop aimé, avec le vague espoir qu'elle redeviendrait à lui, au loin ? S'il n'avait pas été prêtre pourtant, il l'aurait épousée. Quel ravissement, quelle existence de félicité adorable, se donner tout à elle, la prendre toute, revivre dans le cher enfant qui naîtrait ! Il n'y avait sûrement de divin que la possession, la vie qui se complète et qui enfante. Et son rêve dévia, il se vit marié, cela l'emplit d'une joie si vive, qu'il se demanda pourquoi ce rêve était irréalisable. Elle avait l'ignorance d'une fillette de dix ans, il l'instruirait, il lui referait une âme. Cette guérison qu'elle croyait devoir à la sainte Vierge, elle comprendrait qu'elle lui venait de la Mère unique, de l'impassible et sereine nature. Mais, à mesure qu'il arrangeait ainsi les choses, une sorte de terreur sacrée grandissait en lui, remontant de son éducation religieuse. Grand Dieu ! Ce bonheur humain dont il la voulait combler, savait-il s'il vaudrait jamais la sainte ignorance, l'enfantine naïveté où elle vivait ? Quels reproches plus tard, si elle n'était pas heureuse ! Puis, quel drame de conscience, jeter la soutane, épouser cette miraculée d'hier, dévaster assez sa foi pour l'amener au consentement de ce sacrilège ! Et, cependant, là était la bravoure, là était la raison, la vie, le vrai homme, la vraie femme, l'union nécessaire et grande. Pourquoi donc, mon Dieu ! N'osait-il pas ? Une horrible tristesse égarait sa songerie, il n'entendait plus que son pauvre coeur souffrir.]{.calibre11}
+
+[Le train roulait avec son énorme battement d'ailes, il n'y avait toujours d'éveillée que soeur Hyacinthe, dans le sommeil accablé du wagon ; et, à ce moment, Marie, se penchant vers Pierre, lui dit doucement :]{.calibre11}
+
+[--- C'est singulier, mon ami, je tombe de sommeil, et je ne puis dormir.]{.calibre11}
+
+[Puis, avec un léger rire :]{.calibre11}
+
+[--- J'ai Paris dans la tête.]{.calibre11}
+
+[--- Comment, Paris ?]{.calibre11}
+
+[--- Oui, oui, je songe qu'il m'attend, que je vais y rentrer... Ah ! Ce Paris dont je ne connais rien, il va falloir y vivre !]{.calibre11}
+
+[Ce fut pour Pierre une angoisse. Il l'avait bien prévu, elle ne pouvait plus être à lui, elle serait aux autres. Paris allait la lui prendre, si Lourdes la lui rendait. Et il s'imaginait cette ignorante faisant fatalement son éducation de femme. La petite âme toute blanche, restée candide, chez la grande fille de vingt-trois ans, l'âme que la maladie avait mise à l'écart, loin de la vie, loin des romans même, serait bien vite mûre, maintenant qu'elle reprenait son libre vol. Il voyait la jeune fille rieuse, bien portante, courant partout, regardant, apprenant, rencontrant un jour le mari qui achèverait de l'instruire.]{.calibre11}
+
+[--- Alors, vous vous promettez de vous amuser, à Paris ?]{.calibre11}
+
+[--- Moi ! Mon ami, oh ! Que dites-vous là ?... Est-ce que nous sommes assez riches pour nous amuser !... Non, je songeais à ma pauvre soeur Blanche, je me demandais ce que j'allais pouvoir faire, à Paris, afin de la soulager un peu. Elle est si bonne, elle se donne tant de mal, je ne veux pas qu'elle continue à gagner seule tout l'argent.]{.calibre11}
+
+[Et, après un nouveau silence, comme lui-même se taisait, très ému :]{.calibre11}
+
+[--- Autrefois, avant de souffrir trop, je peignais assez bien la miniature. Vous vous souvenez, j'avais fait un portrait de papa très ressemblant, que tout le monde trouvait très joli... Vous m'aiderez, n'est-ce pas ? Vous me chercherez des portraits.]{.calibre11}
+
+[Puis, elle parla de cette vie nouvelle qu'elle allait mener. Elle voulait arranger sa chambre, la faire tendre d'une cretonne à petites fleurs bleues, sur ses premières économies. Blanche lui avait parlé des grands magasins, où l'on achetait tout à bon compte. Ce serait si amusant, de sortir avec Blanche, de galoper un peu, elle qui ne connaissait rien, qui n'avait jamais rien vu, clouée dans un lit depuis son enfance. Et Pierre, calmé un instant, souffrait de nouveau, en sentant chez elle cette envie brûlante de vivre, cette ardeur à tout voir, tout connaître, tout goûter. C'était enfin l'éveil de la femme qu'elle devait devenir, qu'il avait autrefois devinée, adorée dans l'enfant, une chère créature de gaieté et de passion, avec sa bouche fleurie, ses yeux d'étoiles, son teint de lait, ses cheveux d'or, toute resplendissante de la joie d'être.]{.calibre11}
+
+[--- Oh ! Je travaillerai, je travaillerai ! Et puis, vous avez raison, Pierre, je m'amuserai aussi, parce que ce n'est point un mal, n'est-ce pas ? Que d'être joyeuse.]{.calibre11}
+
+[--- Non, non, sûrement, Marie.]{.calibre11}
+
+[--- Le dimanche, nous irons à la campagne, oh ! Très loin, dans les bois, où il y aura de beaux arbres... Nous irons également au théâtre, si papa nous y mène. On m'a dit qu'il y a beaucoup de pièces qu'on peut entendre... Mais ce n'est pas tout ça, d'ailleurs. Pourvu que je sorte, que j'aille dans les rues, que je voie des choses, je serai si heureuse, je rentrerai si gaie !... C'est si bon de vivre, n'est-ce pas, Pierre ?]{.calibre11}
+
+[--- Oui, oui, Marie, c'est très bon.]{.calibre11}
+
+[Un petit froid de mort l'envahissait, il agonisait du regret de n'être plus un homme. Pourquoi donc, puisqu'elle le tentait ainsi, avec sa candeur irritante, ne lui disait-il pas la vérité qui le ravageait ? Il l'aurait prise, il l'aurait conquise. Jamais débat plus affreux ne s'était livré dans son coeur et dans sa volonté. Un moment, il fut sur le point de prononcer les mots irréparables. Mais, déjà, elle reprenait de sa voix d'enfant joueuse :]{.calibre11}
+
+[--- Oh ! Voyez donc ce pauvre papa, est-il content de dormir si fort !]{.calibre11}
+
+[En effet, sur la banquette, en face d'eux, M. De Guersaint dormait d'un air béat, comme dans son lit, sans paraître avoir conscience des continuelles secousses. Ce roulis, ce tangage monotones semblaient du reste n'être plus que le bercement qui alourdissait le sommeil du wagon entier. C'était l'abandon complet, l'anéantissement des corps, au milieu du désordre des bagages, écroulés eux aussi, comme assoupis sous la lueur fumeuse des lampes. Et le grondement rythmé des roues ne cessait pas, dans l'inconnu des ténèbres où le train roulait toujours. Parfois seulement, devant une gare, sous un pont, le vent de la course s'engouffrait, une tempête soufflait brusquement. Puis, le grondement berceur recommençait, uniforme, à l'infini.]{.calibre11}
+
+[Marie prit doucement la main de Pierre. Ils étaient si perdus, si seuls, parmi tout ce monde anéanti, dans cette grande paix grondante du train lancé au travers de la nuit noire. Une tristesse, la tristesse qu'elle avait jusque là cachée, venait de reparaître, noyant d'ombre ses grands yeux bleus.]{.calibre11}
+
+[--- Mon bon Pierre, vous viendrez souvent avec nous, n'est-ce pas ?]{.calibre11}
+
+[Il avait tressailli, en sentant sa petite main serrer la sienne. Son coeur était sur ses lèvres, il se décidait à parler. Pourtant, il se retint encore, il balbutia :]{.calibre11}
+
+[--- Marie, je ne suis pas toujours libre, un prêtre ne peut aller partout.]{.calibre11}
+
+[--- Un prêtre, répéta-t-elle, oui, oui, un prêtre, je comprends...]{.calibre11}
+
+[Alors, ce fut elle qui parla, qui confessa le secret mortel dont son coeur étouffait depuis le départ. Elle se pencha encore, reprit à voix plus basse :]{.calibre11}
+
+[--- Écoutez, mon bon Pierre, je suis affreusement triste. J'ai l'air d'être contente, mais la mort est dans mon âme... Vous m'avez menti, hier.]{.calibre11}
+
+[Il s'effara, il ne comprit pas d'abord.]{.calibre11}
+
+[--- Je vous ai menti, comment ?]{.calibre11}
+
+[Une sorte de honte la retenait, elle hésita encore, au moment de descendre dans ce mystère d'une conscience qui n'était pas la sienne. Puis, en amie, en soeur :]{.calibre11}
+
+[--- Oui, vous m'avez laissé croire que vous étiez sauvé avec moi, et ce n'était pas vrai, Pierre, vous n'avez pas retrouvé la foi perdue.]{.calibre11}
+
+[Grand Dieu ! Elle savait. Ce fut pour lui une désolation, une telle catastrophe, qu'il en oublia son tourment. D'abord, il voulut s'entêter dans son mensonge de fraternelle charité.]{.calibre11}
+
+[--- Mais je vous assure, Marie ! D'où peut vous venir une idée si vilaine ?]{.calibre11}
+
+[--- Oh ! Mon ami, taisez-vous, par pitié ! Ça me ferait trop de peine, si vous me mentiez davantage... Tenez ! C'est là-bas, à la gare, au moment de partir, quand le malheureux homme a été mort. Le bon abbé Judaine s'est agenouillé, a dit des prières pour le repos de cette âme révoltée. Et j'ai tout senti, j'ai tout compris, lorsque j'ai vu que vous ne vous mettiez pas à genoux, que la prière ne montait pas également à vos lèvres.]{.calibre11}
+
+[--- En vérité, Marie, je vous assure...]{.calibre11}
+
+[--- Non, non, vous n'avez pas prié pour le mort, vous ne croyez plus... Et puis, c'est autre chose aussi, c'est tout ce que je devine, tout ce qui me vient de vous, un désespoir que vous ne pouvez cacher, une mélancolie de vos pauvres yeux, dès qu'ils rencontrent les miens... La sainte Vierge ne m'a pas exaucée, ne vous a pas rendu la foi, et je suis bien malheureuse !]{.calibre11}
+
+[Elle pleurait, une larme chaude tomba sur la main du prêtre, qu'elle tenait toujours. Cela le bouleversa, il cessa de lutter, avouant, laissant à son tour couler ses larmes, tandis qu'il bégayait à voix très basse :]{.calibre11}
+
+[--- Oh ! Marie, je suis bien malheureux aussi, oh ! Bien malheureux !]{.calibre11}
+
+[Un instant, ils se turent, dans leur cruel chagrin de sentir entre eux l'abîme de leurs croyances. Ils ne seraient jamais plus étroitement l'un à l'autre, ils se désespéraient surtout de leur impuissance à se rapprocher, définitive désormais, puisque le ciel lui-même avait refusé de renouer le lien. Côte à côte, ils pleuraient sur leur séparation.]{.calibre11}
+
+[--- Moi, reprit-elle douloureusement, moi qui avais tant prié pour votre conversion, moi qui étais si heureuse !... Il m'avait semblé que votre âme se fondait dans mon âme, et cela était si délicieux d'avoir été sauvés ensemble, ensemble ! Je me sentais des forces pour vivre, oh ! Des forces à soulever le monde.]{.calibre11}
+
+[Il ne répondait pas, ses pleurs continuaient à couler sans fin.]{.calibre11}
+
+[--- Et dire, reprit-elle, que j'ai été guérie seule, que j'ai eu ce grand bonheur sans vous ! C'est de vous voir si abandonné, si désolé, qui me déchire le coeur, lorsque, moi, je suis comblée de grâce et de joie... Ah ! Que la sainte Vierge a été sévère ! Pourquoi n'a-t-elle pas guéri votre âme, en même temps qu'elle guérissait mon corps ?]{.calibre11}
+
+[L'occasion dernière se présentait, il aurait dû parler, faire enfin chez cette innocente la clarté de la raison, lui expliquer le miracle, pour que la vie, après avoir accompli en elle son oeuvre de santé, achevât son triomphe en les jetant aux bras l'un de l'autre. Lui aussi était guéri, l'intelligence saine désormais, et ce n'était point d'avoir perdu la foi, c'était de la perdre elle-même qu'il pleurait. Mais une invincible pitié l'envahissait, dans son grand chagrin. Non, non ! Il ne troublerait pas cette âme, il ne lui enlèverait pas sa croyance, qui, peut-être un jour, serait son unique soutien, au milieu des douleurs de ce monde. On ne peut demander encore ni aux enfants ni aux femmes l'héroïsme amer de la raison. Il n'en avait pas la force, il pensait même n'en avoir pas le droit. Cela lui aurait paru un viol, un meurtre abominable. Et il ne parla point, ses larmes coulèrent plus brûlantes, dans cette immolation de son amour, le sacrifice désespéré de son bonheur à lui, pour qu'elle restât candide, ignorante et joyeuse.]{.calibre11}
+
+[--- Oh ! Marie, que je suis malheureux ! Il n'y a pas sur les routes, il n'y a pas dans les bagnes de malheureux qui soient plus malheureux que moi !... Oh ! Marie, si vous saviez, si vous saviez comme je suis malheureux !]{.calibre11}
+
+[Elle fut éperdue, elle le saisit entre ses bras tremblants, voulut le consoler d'une fraternelle étreinte. À ce moment, la femme qui s'éveillait en elle devina tout, sanglota elle aussi de toutes les volontés humaines et divines qui les séparaient. Elle n'avait jamais encore songé à ces choses, elle entrevoyait soudain la vie avec ses passions, ses luttes, ses souffrances ; et elle cherchait ce qu'elle allait dire pour apaiser un peu ce coeur saignant, et elle balbutiait très bas, navrée de ne rien trouver d'assez doux :]{.calibre11}
+
+[--- Je sais, je sais...]{.calibre11}
+
+[Puis, elle trouva ; et, comme si ce qu'elle avait à dire ne pouvait être entendu que des anges, elle s'inquiéta, elle regarda autour d'elle, dans le wagon. Mais il semblait que le sommeil s'y fût alourdi encore. Son père dormait toujours, avec son innocence de grand enfant. Pas un des pèlerins, pas un des malades n'avait bougé, dans le rude bercement qui les emportait. Soeur Hyacinthe elle-même, cédant à l'écrasante fatigue, venait de fermer les paupières, après avoir, à son tour, tiré l'écran, sur la lampe de son compartiment. Il n'y avait plus là qu'une ombre vague, des corps indistincts parmi des objets sans nom, à peine des apparences, qu'un souffle de tempête, une fuite furieuse charriait sans fin au fond des ténèbres. Et elle se méfia aussi de cette campagne noire, dont l'inconnu défilait aux deux côtés du train, sans qu'on pût même savoir quelles forêts, quelles rivières, quelles collines on traversait. Tout à l'heure, des étincelles vives avaient paru, peut-être des forges lointaines, des lampes tristes de travailleurs ou de malades ; mais, de nouveau, la nuit coulait profonde, la mer obscure, infinie, innomée, où l'on était toujours plus loin, ailleurs et nulle part.]{.calibre11}
+
+[Marie, alors, prise d'une pudique confusion, rougissante au milieu de ses pleurs, mit ses lèvres à l'oreille de Pierre.]{.calibre11}
+
+[--- Écoutez, mon ami... Il y a un grand secret entre la sainte Vierge et moi. Je lui avais juré de ne le dire à personne. Mais vous êtes trop malheureux, vous souffrez trop, et elle me pardonnera, je vais vous le confier.]{.calibre11}
+
+[Puis, dans un souffle :]{.calibre11}
+
+[--- Pendant la nuit d'amour, vous savez, la nuit d'extase brûlante que j'ai passée devant la Grotte, je me suis engagée par un voeu, j'ai promis à la sainte Vierge de lui faire le don de ma virginité, si elle me guérissait... Elle m'a guérie, et jamais, vous entendez, Pierre ! Jamais je n'épouserai personne.]{.calibre11}
+
+[Ah ! Quelle douceur inespérée ! Il crut qu'une rosée tombait sur son pauvre coeur meurtri. Ce fut un charme divin, un soulagement délicieux. Si elle n'était à aucun autre, elle serait donc un peu à lui toujours. Comme elle avait compris son mal, et ce qu'il fallait dire, pour lui rendre l'existence possible encore !]{.calibre11}
+
+[Il voulut, à son tour, trouver des paroles heureuses, la remercier, promettre que, lui aussi, ne serait jamais qu'à elle, l'aimerait sans fin, ainsi qu'il l'aimait depuis l'enfance, en chère créature dont l'unique baiser, autrefois, avait suffi pour parfumer toute sa vie. Mais elle le fit taire, inquiète déjà, craignant de gâter cette minute si pure.]{.calibre11}
+
+[--- Non, non ! Mon ami, ne disons rien de plus. Ce serait mal peut-être... Je suis très lasse, je vais dormir tranquille maintenant.]{.calibre11}
+
+[Et elle resta la tête contre son épaule, elle s'endormit tout de suite, en soeur confiante. Lui, un instant, se tint éveillé, dans ce douloureux bonheur du renoncement qu'ils venaient de goûter ensemble. Cette fois, c'était bien fini, le sacrifice était consommé. Il vivrait solitaire, en dehors de la vie des autres hommes. Jamais il ne connaîtrait la femme, jamais un être vivant ne naîtrait de lui. Il n'avait plus que l'orgueil consolateur de ce suicide accepté, voulu, dans la grandeur désolée des existences hors nature.]{.calibre11}
+
+[Mais la fatigue l'accabla lui-même, ses paupières se fermèrent, il s'endormit à son tour. Puis, sa tête glissa, sa joue vint toucher la joue de son amie, qui dormait très douce, le front contre son épaule. Alors, leurs chevelures se mêlèrent. Elle avait ses cheveux d'or, ses cheveux royaux dénoués à demi ; et il en eut la face baignée, il rêva dans l'odeur de ses cheveux. Sans doute, le même songe de béatitude les visitait à la fois, car leurs figures tendres avaient pris la même expression de ravissement, ils riaient tous les deux aux anges. C'était l'abandon chaste et passionné, l'innocence de ce sommeil de hasard, qui les mettait ainsi aux bras l'un de l'autre, les membres joints, les lèvres tièdes et rapprochées, confondant les haleines, comme des enfants nus couchés dans le même berceau. Et telle fut la nuit de leurs noces, la consommation du mariage spirituel où ils devaient vivre, un anéantissement délicieux de lassitude, à peine un rêve fuyant de possession mystique, au milieu de ce wagon de misère et de souffrance, qui roulait, roulait toujours dans la nuit noire. Des heures, des heures coulèrent, les roues grondaient, les bagages se balançaient aux patères ; tandis que, des corps entassés, écrasés, ne montait que la fatigue énorme, la grande courbature physique du pays des miracles, au retour du surmenage des âmes.]{.calibre11}
+
+[À cinq heures, enfin, comme le soleil se levait, il y eut un réveil brusque, l'entrée retentissante dans une grande gare, des appels d'employés, des portières qui s'ouvraient, du monde qui se bousculait. On était à Poitiers, et tout le wagon se trouva debout, au milieu d'un bruit de voix, d'exclamations et de rires.]{.calibre11}
+
+[C'était la petite Sophie Couteau qui descendait là et qui faisait ses adieux. Elle embrassa toutes ces dames, elle passa même par-dessus la cloison, pour aller prendre congé de soeur Claire des Anges, que personne n'avait revue depuis la veille, disparue dans son coin, menue et silencieuse, avec ses yeux de mystère. Puis, l'enfant revint, prit son petit paquet, se montra gentille surtout pour soeur Hyacinthe et pour madame de Jonquière.]{.calibre11}
+
+[--- Au revoir, ma soeur ! Au revoir, madame !... Je vous remercie de toutes vos bontés.]{.calibre11}
+
+[--- Il faudra revenir l'année prochaine, mon enfant.]{.calibre11}
+
+[--- Oh ! Ma soeur, je n'y manquerai pas ! C'est mon devoir.]{.calibre11}
+
+[--- Et, chère petite, conduisez-vous bien, portez-vous bien, pour que la sainte Vierge soit fière de vous.]{.calibre11}
+
+[--- Bien sûr, madame, elle a été si bonne, ça m'amuse tant de retourner la voir !]{.calibre11}
+
+[Quand elle fut sur le quai, tous les pèlerins du wagon se penchèrent, la suivirent avec des visages heureux, des saluts, des cris.]{.calibre11}
+
+[--- À l'année prochaine ! à l'année prochaine !]{.calibre11}
+
+[--- Oui, oui, merci bien ! À l'année prochaine !]{.calibre11}
+
+[On ne devait dire la prière du matin qu'à Châtellerault. Après l'arrêt à Poitiers, lorsque, de nouveau, le train roula, dans le petit frisson frais du matin, M. De Guersaint déclara de son air gai qu'il avait supérieurement dormi, malgré la dureté de la banquette. Madame de Jonquière, elle aussi, se félicitait de ce bon repos dont elle avait tant besoin, un peu confuse pourtant d'avoir laissé soeur Hyacinthe veiller seule sur la Grivotte, qui maintenant grelottait d'une fièvre intense, reprise de son horrible toux. Les autres pèlerines faisaient un bout de toilette, les dix femmes du fond rattachaient leurs fichus, renouaient les brides de leurs bonnets, avec une sorte d'inquiétude pudique, dans leur laideur pauvre et triste. Attentive, le visage sur son miroir, Élise Rouquet n'en finissait pas de s'examiner le nez, la bouche, les joues, s'admirant, se buvant, trouvant qu'elle redevenait décidément très bien.]{.calibre11}
+
+[Et ce fut alors que Pierre et Marie eurent encore une grande pitié, en regardant madame Vincent que rien n'avait pu tirer de la torpeur où elle était, ni l'arrêt tumultueux à Poitiers, ni le bruit des voix depuis qu'on roulait de nouveau. Anéantie sur la banquette, elle n'avait pas rouvert les yeux, elle sommeillait toujours, tourmentée de rêves atroces. Et, tandis que de grosses larmes continuaient à couler de ses paupières closes, elle venait de saisir l'oreiller qu'on l'avait forcée de prendre, elle le serrait sur sa poitrine, étroitement, dans quelque cauchemar de sa maternité souffrante. Ses pauvres bras de mère si longtemps chargés de sa fillette moribonde, ses bras inoccupés, vides à jamais, avaient trouvé ce coussin, dans son sommeil, et ils s'y étaient noués comme sur un fantôme, d'une étreinte aveugle.]{.calibre11}
+
+[Mais M. Sabathier avait le réveil joyeux. Pendant que madame Sabathier remontait la couverture, en enveloppait soigneusement ses jambes mortes, il se mit à causer, l'oeil brillant, rendu à la grâce de l'illusion. Il disait qu'il avait rêvé de Lourdes, que la sainte Vierge s'était penchée vers lui, avec un sourire de bienveillante promesse. Et, devant madame Vincent, cette mère dont elle avait laissé mourir la fille, devant la Grivotte, la misérable femme guérie par elle, retombée si rudement à son mal mortel, il se réjouissait, il répétait à M. De Guersaint, d'un air d'absolue certitude :]{.calibre11}
+
+[--- Oh ! Monsieur, je vais rentrer chez moi bien tranquille... L'année prochaine, je serai guéri... Oui, oui ! Comme le criait tout à l'heure cette chère mignonne : à l'année prochaine ! à l'année prochaine !]{.calibre11}
+
+[C'était l'illusion indestructible, victorieuse même de la certitude, l'éternelle espérance qui ne voulait pas mourir, qui repoussait plus vivace, après chaque défaite, sur les ruines de tout.]{.calibre11}
+
+[À Châtellerault, soeur Hyacinthe fit dire la prière du matin, le Pater et l'Ave, le Credo, un appel à Dieu pour lui demander le bonheur d'une journée glorieuse. Ô mon Dieu ! Donnez-moi assez de force pour éviter tout le mal pour pratiquer tout le bien, pour souffrir toutes le peines !]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LES TROIS VILLES : LOURDES]{.calibre51}
+
+[Cinquième journée]{lang="EN-US"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+### []{#_Toc368778729 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778391 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778053 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777715 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777377 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776701 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776363 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776025 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775687 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775349 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775011 .pcalibre .calibre3 .pcalibre1}[V]{#_Toc368774673 .pcalibre .calibre3 .pcalibre1} {#v .calibre47 .sigil_not_in_toc}
+
+
+[Les stations, alors, se succédèrent de nouveau, dans la répétition monotone de ce qu'on avait fait en allant à Lourdes, au travers des mêmes plaines. On recommença le rosaire à Amboise, on dit le premier chapelet, les cinq mystères joyeux ; puis, après avoir chanté à Blois le cantique « Bénis, ô tendre Mère », on récita à Beaugency le deuxième chapelet, les cinq mystères douloureux. Le soleil, dès le matin, s'était voilé d'un fin duvet de nuages, la campagne fuyait très douce et un peu triste, dans son continuel mouvement d'éventail. Aux deux bords de la voie, sous la lumière grise, les arbres, les maisons disparaissaient avec une légèreté vague de rêve ; tandis que les coteaux, au loin, noyés de brume, s'en allaient plus lents, d'un balancement apaisé de houle. Entre Beaugency et les Aubrais, le train parut diminuer sa vitesse, roulant sans fin, avec le grondement rythmique, entêté des roues, que les pèlerins étourdis n'entendaient même plus.]{.calibre11}
+
+[Enfin, dès qu'on eut quitté les Aubrais, on se mit à déjeuner dans le wagon. Il était midi moins un quart. Et, quand on eut dit l'Angélus, les trois Ave répétés trois fois, Pierre tira, de la valise de Marie, le petit livre dont la couverture bleue était ornée d'une naïve image de Notre-Dame de Lourdes. Soeur Hyacinthe avait tapé dans ses mains, pour obtenir le silence. Le prêtre put alors commencer sa lecture, de sa belle voix pénétrante, au milieu du réveil de tous, de la curiosité de ces grands enfants que ce conte prodigieux passionnait. Maintenant, c'était le séjour à Nevers, et c'était la mort de Bernadette. Mais, comme il avait fait les deux premières fois, il cessa vite de s'en tenir au texte du petit livre, il y mêla des récits charmants, ce qu'il savait, ce qu'il devinait ; et, pour lui encore, s'évoquait l'histoire vraie, l'humaine, la pitoyable, celle que personne n'avait contée et qui lui bouleversait le coeur.]{.calibre11}
+
+[Ce fut le 8 juillet 1866 que Bernadette quitta Lourdes. Elle partait pour se cloîtrer, à Nevers, au couvent de Saint-Gildard, la maison mère des Soeurs qui desservaient l'Hospice, où elle avait appris à lire, où elle vivait depuis huit ans. Elle avait alors vingt-deux ans, il y avait huit ans déjà que la sainte Vierge lui était apparue. Et ses adieux à la Grotte, à la Basilique, à toute la ville qu'elle aimait, furent trempés de larmes. Mais elle ne pouvait plus y vivre, dans la persécution continuelle de la curiosité publique, des visites, des hommages, des adorations. Sa santé débile finissait par en souffrir cruellement. Une humilité sincère, un amour timide de l'ombre et du silence avaient fini par lui donner l'ardent désir de disparaître, d'aller cacher au fond de ténèbres ignorées sa gloire retentissante d'élue, que le monde ne voulait pas laisser en paix ; et elle ne rêvait que de simplicité d'esprit, que de vie tranquille, commune, donnée à la prière et aux menues occupations quotidiennes. Ce départ fut ainsi un soulagement pour elle et pour la Grotte, qu'elle commençait à gêner, avec sa trop grande innocence et ses maux trop lourds.]{.calibre11}
+
+[À Nevers, Saint-Gildard aurait dû être un paradis. Elle y trouva de l'air, du soleil, de vastes pièces, un grand jardin planté de beaux arbres. Et elle n'y goûta point cependant la paix, l'oubli total du monde au désert lointain. Vingt jours à peine après son arrivée, elle avait pris le saint habit, sous le nom de soeur Marie-Bernard, ne s'engageant encore que par des voeux partiels. Et quand même, le monde l'avait accompagnée, la persécution de la foule autour d'elle recommença. On la poursuivait jusque dans le cloître d'un inextinguible besoin de tirer des grâces de sa personne sainte. Ah ! La voir, la toucher, se porter bonheur en la contemplant, en frottant à son insu quelque médaille contre sa robe ! C'était la crédule passion pour le fétiche, des fidèles se ruant, traquant ce pauvre être devenu bon Dieu, voulant chacun en emporter sa part d'espoir et de divine illusion. Elle en pleurait de lassitude, de révolte impatiente, répétant : « Qu'ont-ils donc à me tourmenter ainsi ? Qu'ai-je de plus que les autres ? » À la longue, une réelle douleur la prenait à être de la sorte « la bête curieuse », ainsi qu'elle avait fini par se nommer, avec un triste sourire de souffrance. Elle se défendait bien le plus qu'elle pouvait, refusant de voir personne. On la défendait aussi, et très étroitement dans certaines circonstances, ne la montrant qu'aux visiteurs autorisés par l'évêque. Les portes du couvent restaient closes, les ecclésiastiques presque seuls forçaient la consigne. Mais c'était trop encore pour son désir de solitude, elle dut souvent s'entêter, faire renvoyer des prêtres, brisée à l'avance de toujours raconter la même aventure, de subir éternellement les mêmes questions. Elle en était outrée, blessée pour la sainte Vierge elle-même. Mais parfois elle devait céder, monseigneur en personne amenait de grands personnages, des dignitaires, des prélats ; et elle se montrait alors de son air grave, elle répondait avec politesse, le plus brièvement possible, elle n'était à l'aise que lorsqu'on la laissait retourner dans son coin d'ombre. Jamais la divinité n'avait pesé davantage à une créature. Un jour, comme on lui demandait si elle n'était pas fière de ces continuelles visites de son évêque, elle répondit doucement : « Monseigneur ne vient pas me voir, il vient me faire voir. » Des princes de l'Église, de grands catholiques de combat voulurent la voir, s'attendrirent, sanglotèrent devant elle ; et, dans son horreur d'être en spectacle, dans l'ennui qu'ils causaient à sa simplicité, elle les quittait sans avoir compris, très lasse et très triste.]{.calibre11}
+
+[Cependant, elle s'était fait sa vie à Saint-Gildard, elle y menait une existence monotone, installée maintenant dans des habitudes qui lui devenaient chères. Elle était si chétive, si fréquemment malade, qu'on l'employait à l'infirmerie. En dehors des quelques soins qu'elle y donnait, elle travaillait, elle avait fini par être une assez habile ouvrière, brodant finement des aubes, des devants d'autel. Mais, souvent, toute force venait à lui manquer, elle ne pouvait même se livrer à ses légers travaux. Lorsqu'elle n'était pas au lit, elle passait de longues journées dans un fauteuil, n'ayant plus que la distraction de dire son rosaire ou de faire de pieuses lectures. Depuis qu'elle savait lire, les livres l'intéressaient, les belles histoires de conversion, les belles légendes où passaient les saints et les saintes, les beaux et effroyables drames aussi où l'on voyait le diable bafoué, replongé dans son enfer. Seulement, sa grande tendresse, son émerveillement continuel restait la Bible, ce Nouveau Testament prodigieux, dont le perpétuel miracle ne la lassait jamais. Elle se souvenait de la Bible de Bartrès, de ce vieux livre jauni, depuis cent ans dans la famille ; elle revoyait son père nourricier, à chaque veillée, piquer une épingle au hasard, puis commencer la lecture en haut de la page de droite ; et, en ce temps-là, elle les connaissait déjà si bien, ces contes admirables, qu'elle aurait pu continuer par coeur, après n'importe quelle phrase. Maintenant qu'elle les lisait elle-même, elle y trouvait une éternelle surprise, un ravissement toujours nouveau. Le récit de la Passion surtout la bouleversait, comme un événement extraordinaire et tragique, arrivé la veille. Elle sanglotait de pitié, tout son pauvre corps de souffrance en gardait un frisson pendant des heures. Peut-être, dans ses larmes, y avait-il l'inconsciente douleur de sa passion à elle, le désolé calvaire qu'elle montait, elle aussi, depuis sa jeunesse.]{.calibre11}
+
+[Quand elle ne souffrait pas, qu'elle pouvait s'occuper à l'infirmerie, Bernadette allait, venait, emplissait la maison de sa vive gaieté d'enfant. Jusqu'à sa mort, elle demeura l'innocente, l'enfantine, qui aimait à rire, à sauter, à jouer. Elle était très petite, la plus petite de la communauté, ce qui la faisait toujours traiter un peu en gamine par ses compagnes. Le visage s'allongeait, se creusait, perdait l'éclat de la jeunesse ; mais les yeux gardaient leur pure et divine clarté, les beaux yeux de visionnaire, où, comme dans un ciel limpide, passait le vol des rêves. En vieillissant, en souffrant, elle devenait un peu âpre et violente, son caractère se gâtait, inquiet, rude parfois ; et c'étaient de petites imperfections, dont elle avait, après les crises, de mortels remords. Elle s'humiliait, se croyait damnée, demandait pardon à tout le monde. Mais, le plus souvent, quelle bonne fille du bon Dieu ! Elle était vive, alerte, trouvait des réparties, des réflexions excitant le rire, avait une grâce à elle, qui la faisait adorer. Malgré sa grande dévotion, bien qu'elle passât des journées en prière, elle n'affichait pas une religion revêche, sans outrance de zèle pour les autres, tolérante et pitoyable. Aucune sainte fille, en somme, n'était plus femme, avec des traits propres, une personnalité bien nette, charmante dans sa puérilité même. Et ce don de l'enfance qu'elle conservait, cette innocence simple de l'enfant qu'elle était restée, faisait encore que les enfants la chérissaient, en reconnaissant toujours en elle une des leurs : tous couraient à elle, sautaient sur ses genoux, lui prenaient le cou entre leurs petits bras ; et le jardin retentissait alors de parties folles, de courses, de cris ; et ce n'était pas elle qui courait le moins, qui criait le moins, si heureuse de redevenir une fillette pauvre, ignorée, comme aux jours lointains de Bartrès ! Plus tard, on raconta qu'une mère avait amené au couvent son enfant paralytique, pour que la sainte le touchât et le guérît. Elle sanglota si fort, que la supérieure finit par consentir à la tentative. Mais, comme Bernadette se révoltait, indignée, quand on lui demandait des miracles, on ne la prévint pas, on l'appela seulement pour porter à l'infirmerie l'enfant malade. Et elle porta l'enfant, et quand elle le posa par terre, l'enfant marcha. Il était guéri.]{.calibre11}
+
+[Ah ! Que de fois Bartrès, et son enfance libre, derrière ses agneaux, et les années vécues par les collines, par les grandes herbes, par les bois touffus, durent revivre en elle, aux heures où elle rêvait, lasse d'avoir prié pour les pécheurs ! Nul ne descendit alors dans son âme, nul ne peut dire si d'involontaires regrets ne firent pas saigner son coeur meurtri. Elle eut, un jour, une parole que ses historiens rapportent, dans le but de rendre sa passion plus touchante. Cloîtrée loin de ses montagnes, clouée sur un lit de douleur, elle s'écriait : « Il me semble que j'étais faite pour vivre, pour agir, pour toujours remuer, et le Seigneur me veut immobile. » Quelle parole révélatrice, d'un témoignage terrible, d'une tristesse immense ! Pourquoi donc le Seigneur la voulait-il immobile, cette chère créature de gaieté et de grâce ? Ne l'aurait-elle pas honoré autant, en vivant la vie libre, la vie saine, qu'elle était née pour vivre ? Et, au lieu de prier pour les pécheurs, sa continuelle et vaine occupation, n'aurait-elle pas travaillé davantage à accroître le bonheur du monde et le sien, si elle avait donné sa part d'amour au mari qui l'attendait, aux enfants qui seraient nés de sa chair ? Certains soirs, dit-on, elle si gaie, si agissante, tombait à un grand accablement. Elle devenait sombre, se repliait sur elle-même, comme anéantie par l'excès de la douleur. Sans doute, le calice finissait par être trop amer, elle entrait en agonie, à l'idée du continuel renoncement de son existence.]{.calibre11}
+
+[À Saint-Gildard, Bernadette songeait-elle souvent à Lourdes ? Que savait-elle du triomphe de la Grotte, des prodiges qui, journellement, transformaient cette terre du miracle ? La question ne fut jamais résolue nettement. On avait défendu à ses compagnes de l'entretenir de ces choses, on l'entourait d'un absolu et continuel silence. Elle-même n'aimait point à en parler, se taisait sur le passé mystérieux, ne semblait aucunement désireuse de connaître le présent, si triomphal qu'il pût être. Mais, pourtant, son coeur n'y volait-il pas, en imagination, à ce pays enchanté de son enfance, où vivaient les siens, où tous les liens de sa vie s'étaient noués, où elle avait laissé le rêve le plus extraordinaire qu'une créature eût jamais fait ? Sûrement, elle refit souvent en pensée le beau voyage de ses souvenirs, elle dut connaître, en gros, tous les grands événements de Lourdes. Ce qui la terrifiait, c'était de s'y rendre en personne, et elle s'y refusa toujours, sachant bien qu'elle ne pouvait y passer inaperçue, reculant devant les foules dont l'adoration l'y attendait. Quelle gloire, s'il y avait eu en elle une volontaire, une ambitieuse, une dominatrice ! Elle serait retournée au lieu saint de ses visions, elle y aurait fait des miracles, prêtresse, papesse, d'une infaillibilité, d'une souveraineté d'élue et d'amie de la sainte Vierge. Les pères n'en eurent jamais sérieusement la crainte, bien que l'ordre formel fût de la retrancher du monde, pour son salut. Ils étaient tranquilles, ils la connaissaient, si douce, si humble, dans sa terreur d'être divine, dans son ignorance de la colossale machine qu'elle avait mise en branle, et dont l'exploitation l'aurait fait reculer d'épouvante, si elle avait compris. Non, non ! Ce n'était plus à elle, ce pays de foule, de violence et de négoce. Elle y aurait trop souffert, dépaysée, étourdie, honteuse. Et, lorsque des pèlerins qui s'y rendaient, lui demandaient avec un sourire : « Voulez-vous venir avec nous ? » elle avait un léger frisson, puis elle se hâtait de répondre : « Non, non ! Mais comme je le voudrais, si j'étais petit oiseau ! »]{.calibre11}
+
+[Sa rêverie seule fut ce petit oiseau voyageur, au vol rapide, aux ailes muettes, qui, continuellement, faisait son pèlerinage à la Grotte. Elle qui n'était point allée à Lourdes, ni pour la mort de son père, ni pour celle de sa mère, devait y vivre continuellement en songe. Elle aimait les siens cependant, elle se préoccupait d'assurer du travail à sa famille restée pauvre, elle avait voulu recevoir son frère aîné, tombé à Nevers pour se plaindre, et qu'on laissait à la porte du couvent. Mais il la trouva lasse et résignée, elle ne le questionna même pas sur le nouveau Lourdes, comme si cette ville grandissante lui eût fait peur. L'année du Couronnement de la Vierge, un prêtre qu'elle avait chargé de prier à son intention, devant la Grotte, revint lui conter les inoubliables merveilles de la cérémonie, les cent mille pèlerins accourus, les trente-cinq évêques, vêtus d'or, dans la Basilique rayonnante. Elle frémissait, elle avait son léger frisson de désir et d'inquiétude. Et, quand le prêtre s'écria : « Ah ! Si vous aviez vu cette splendeur ! » elle répondit : « Moi ! J'étais bien mieux ici, à mon infirmerie, dans mon petit coin. » On lui avait volé sa gloire, son oeuvre resplendissait dans un continuel hosanna, et elle ne goûtait de joie qu'au fond de l'oubli, de cette ombre du cloître, où l'oubliaient les opulents fermiers de la Grotte. Les solennités retentissantes n'étaient point les occasions de ses mystérieux voyages, le petit oiseau de son âme ne volait tout seul, là-bas, que les jours de solitude, aux heures paisibles, lorsque personne n'y pouvait troubler ses dévotions. C'était devant la sauvage Grotte primitive qu'elle retournait s'agenouiller, parmi les buissons d'églantiers, aux temps où le Gave n'était pas encore muré d'un quai monumental. Puis, c'était la vieille ville qu'elle visitait au déclin du jour, dans la fraîcheur odorante des montagnes, la vieille église peinte et dorée, à demi espagnole, où elle avait fait sa première communion, le vieil Hospice, d'une si tiède souffrance, où elle s'était pendant huit ans habituée à la retraite, toute cette vieille cité pauvre et innocente, dont chaque pavé éveillait d'anciennes tendresses au fond de sa mémoire.]{.calibre11}
+
+[Et Bernadette ne poussait-elle jamais jusqu'à Bartrès le pèlerinage de ses rêves ? Il faut croire que, parfois, dans son fauteuil de malade, lorsqu'elle laissait glisser quelque livre pieux de ses mains lasses, et qu'elle fermait les paupières, Bartrès apparaissait, éclairait la nuit de ses yeux. L'antique petite église romane, avec sa nef couleur du ciel, avec ses retables saignants, était là, au milieu des tombes de l'étroit cimetière. Ensuite, elle se retrouvait dans la maison des Lagües, dans la vaste pièce de gauche, où il y avait du feu, où l'on contait l'hiver de si belles histoires, pendant que la grosse horloge battait gravement l'heure. Ensuite, toute la campagne s'étendait, des prairies sans fin, des châtaigniers géants sous lesquels on était perdu, des plateaux déserts d'où l'on découvrait les montagnes lointaines, le pic du Midi, le pic de Viscos, légers et roses comme des songes, envolés en plein paradis des légendes. Ensuite, ensuite, c'était sa jeunesse libre, galopant où il lui plaisait, au grand air, c'étaient ses treize ans solitaires et rêveurs, promenant par la vaste nature leur joie de vivre. Et, à cette heure, peut-être, ne se revoyait-elle pas, le long des ruisseaux, au travers des buissons d'aubépine, lâchée dans les hautes herbes, par un chaud soleil de juin ? Ne s'y revoyait-elle pas grandie, avec un amoureux de son âge qu'elle aurait aimé, dans toute la simplicité et la tendresse de son coeur ? Ah ! Redevenir jeune, être libre encore, inconnue, heureuse, et aimer de nouveau, aimer autrement ! La vision passait confuse, un mari qui l'adorait, des enfants qui poussaient gaiement autour d'elle, l'existence de tout le monde, les joies et les tristesses que ses parents avaient connues, que ses enfants auraient dû connaître à leur tour. Et tout s'effaçait peu à peu, et elle se retrouvait dans son fauteuil de douleur, emprisonnée entre quatre murs froids, n'ayant plus que le violent désir d'une mort prompte, puisqu'il n'y avait pas eu, pour elle, de place au pauvre bonheur commun de cette terre.]{.calibre11}
+
+[Les maux de Bernadette augmentaient chaque année. C'était enfin la passion qui commençait, la passion de ce nouveau Messie enfant, venu pour le soulagement des misérables, chargé d'annoncer aux hommes la religion de divine justice, l'égalité devant les miracles, bafouant les lois de l'impassible nature. Elle ne se levait plus que pour se traîner de chaise en chaise, pendant quelques jours ; et elle retombait, elle était forcée de reprendre le lit. Ses souffrances devenaient épouvantables. Son hérédité nerveuse, son asthme, aggravé par le cloître, avait dû dégénérer en phtisie. Elle toussait affreusement, des quintes qui déchiraient sa poitrine en feu, qui la laissaient à demi morte. Pour comble de misère, une carie des os du genou droit s'était déclarée, un mal rongeur dont les élancements lui arrachaient des cris. Son pauvre corps, sous les continuels pansements, n'offrait plus qu'une plaie vive, sans cesse irritée par la chaleur du lit, ce continuel séjour entre les draps dont le frottement finissait par lui user la peau. Tous la prenaient en pitié, les témoins de son martyre disaient qu'on ne pouvait souffrir ni plus ni mieux. Elle essayait de l'eau de Lourdes, qui ne lui apportait aucun soulagement. Seigneur, roi tout-puissant, pourquoi donc la guérison des autres et pas la sienne ? Pour sauver son âme ? Mais alors vous ne sauvez donc pas les âmes des autres ? Quel choix inexplicable, quelle nécessité absurde des tortures de ce pauvre être, dans l'évolution éternelle des mondes ! Elle sanglotait, elle répétait, pour s'encourager : « Le ciel est au bout, mais que le bout est long à venir ! » C'était toujours l'idée que la souffrance est le creuset, qu'il faut souffrir sur la terre pour triompher ailleurs, que souffrir est indispensable, enviable et béni. N'est-ce pas un blasphème, ô Seigneur ? N'avez-vous fait ni la jeunesse ni la joie ? Voulez-vous donc que vos créatures ne jouissent ni de votre soleil, ni de votre nature en fête, ni des tendresses humaines dont vous avez fleuri leur chair ? Elle craignait la révolte qui l'enrageait parfois, elle voulait aussi se raidir contre le mal dont criait son corps, et elle se crucifiait en pensée, elle étendait ses bras en croix pour s'unir à Jésus, les membres contre ses membres, la bouche contre sa bouche, ruisselante de sang comme lui, abreuvée comme lui d'amertume. Jésus était mort en trois heures, son agonie était encore plus longue, à elle qui renouvelait la rédemption par la souffrance, qui mourait aussi pour apporter la vie aux autres. Lorsque ses os craquaient d'angoisse, elle poussait des plaintes souvent, puis elle se les reprochait aussitôt. « Oh ! Que je souffre, oh ! Que je souffre ! Mais je suis si heureuse de souffrir ! » Il n'est pas de parole plus effroyable, d'un pessimisme plus noir. Heureuse de souffrir, ô Seigneur ! Et pourquoi, et dans quel but ignoré et imbécile ? À quoi bon cette inutile cruauté, cette révoltante glorification de la souffrance, lorsqu'il ne monte de l'humanité entière qu'un désir éperdu de santé et de bonheur ?]{.calibre11}
+
+[Au milieu de son affreux supplice, soeur Marie-Bernard prononça ses voeux perpétuels, le 22 septembre 1878. Il y avait vingt ans que la sainte Vierge lui était apparue, la visitant comme l'Ange l'avait visitée elle-même, la choisissant comme elle-même avait été choisie, parmi les plus humbles et les plus candides, pour cacher en elle le secret du roi Jésus. C'était l'explication mystique de l'élection de la souffrance, la raison d'être de cette créature séparée si durement des autres, accablée de maux, devenue le pitoyable champ de toutes les afflictions humaines. Elle était le jardin fermé qui plaît tant aux regards de l'Époux, il l'avait choisie, puis ensevelie dans la mort de sa vie cachée. Aussi, lorsque la misérable chancelait sous le poids de sa croix, ses compagnes lui disaient-elles : « L'oubliez-vous donc ? La sainte Vierge vous a promis que vous seriez heureuse, non pas dans ce monde, mais dans l'autre. » Elle répondait, ranimée, en se frappant le front : « L'oublier, non, non ! C'est là ! » Elle ne retrouvait des forces que dans cette illusion d'un paradis de gloire, où elle entrerait, escortée par les séraphins, bienheureuse éternellement. Les trois secrets personnels que la sainte Vierge lui avait confiés, pour l'armer contre le mal, devaient être des promesses de beauté, de félicité, d'immortalité au ciel. Quelle monstrueuse duperie, s'il n'y avait eu que la nuit de la terre au-delà du tombeau, si la sainte Vierge de son rêve ne s'était pas trouvée au rendez-vous, parmi les prodigieuses récompenses promises ! Mais Bernadette n'avait pas un doute, elle acceptait volontiers toutes les petites commissions que ses compagnes, naïvement, lui donnaient pour le ciel : « Soeur Marie-Bernard, vous direz ceci, vous direz cela au bon Dieu... Soeur Marie-Bernard, vous embrasserez mon frère, si vous le rencontrez au paradis... Soeur Marie-Bernard, vous me garderez une petite place près de vous, pour quand je mourrai. » Et elle répondait à chacune, complaisante : « N'ayez aucune crainte, votre commission sera faite. » Ah ! Toute-puissante illusion, repos délicieux, force toujours rajeunie et consolatrice !]{.calibre11}
+
+[Et ce fut l'agonie, ce fut la mort. Le vendredi 28 mars 1879, on crut qu'elle ne passerait pas la nuit. Elle avait un appétit désespéré de la tombe, pour ne plus souffrir, pour ressusciter au ciel. Aussi se refusait-elle obstinément à recevoir l'extrême-onction, disant que, deux fois déjà, l'extrême-onction l'avait guérie. Elle voulait que Dieu, enfin, la laissât mourir, car c'était trop, Dieu n'aurait pas été sage en exigeant d'elle de la douleur encore. Pourtant, elle finit par consentir à être administrée, et son agonie en fut prolongée près de trois semaines. Le prêtre qui l'assistait lui répétait souvent : « Ma fille, il faut faire le sacrifice de sa vie. » Un jour, impatientée, elle lui répondit vivement : « Mais, mon père, ce n'est pas un sacrifice. » Parole terrible aussi, celle-là, dégoût de l'être, mépris furieux de l'existence, fin immédiate de l'humanité, si elle avait le pouvoir de se supprimer d'un geste. Il est vrai que la pauvre fille n'avait rien à regretter : on lui avait fait tout mettre en dehors de la vie, sa santé, sa joie, son amour, pour qu'elle la quittât comme on quitte un linge en lambeaux, usé et sali. Et elle avait raison, elle condamnait sa vie inutile, sa vie cruelle, lorsqu'elle disait : « Ma passion ne finira qu'à ma mort et durera pour moi jusqu'à mon entrée dans l'éternité. » Et cette idée de sa passion la poursuivait, l'attachait plus étroitement sur la croix avec son divin Maître. Elle s'était fait donner un grand crucifix, elle le pressait violemment sur sa triste poitrine de vierge, en criant qu'elle aurait voulu l'enfoncer dans sa gorge, et qu'il y restât. Vers la fin, ses forces l'abandonnèrent, elle ne pouvait plus le tenir de ses mains tremblantes. « Qu'on l'attache à moi, qu'on le serre bien fort, pour que je le sente jusqu'à mon dernier souffle ! » C'était le seul homme que sa virginité devait connaître, le seul baiser sanglant donné à sa maternité inutile, déviée et pervertie. Les religieuses prirent des cordes, les passèrent sous ses reins douloureux, en entourèrent ses misérables flancs inféconds, attachèrent le crucifix sur sa gorge, si rudement, qu'il y entra.]{.calibre11}
+
+
+[Le mercredi de Pâques, le 16 avril, l'agonie dernière commença. On raconte que, le matin de ce jour, une compagne de Bernadette, une religieuse atteinte d'une maladie mortelle, couchée à l'infirmerie, dans un lit voisin, fut subitement guérie, après avoir bu un verre d'eau de Lourdes. Mais elle, privilégiée, en avait bu inutilement. Dieu lui faisait enfin l'insigne faveur de combler ses voeux, en l'endormant du bon sommeil de la terre, où l'on ne souffre plus. Elle demanda pardon à tout le monde. Sa passion était consommée, elle avait, comme le Sauveur, les clous et la couronne d'épines, les membres flagellés, le flanc ouvert. Comme lui, elle leva les yeux au ciel, elle étendit les bras en croix, en jetant un grand cri : « Mon Dieu ! » Et, comme lui, vers trois heures, elle dit : « J'ai soif. » Elle trempa les lèvres dans le verre, elle pencha la tête, et mourut.]{.calibre11}
+
+[Ainsi mourut, très glorieuse et très sainte, la voyante de Lourdes, Bernadette Soubirous, soeur Marie-Bernard, des Soeurs de la charité de Nevers. Son corps resta exposé pendant trois jours, et des foules énormes défilèrent, tout un peuple accouru, l'interminable queue des dévots affamés d'espoir qui frottaient à la robe de la morte des médailles, des chapelets, des images, des livres de messe, pour tirer d'elle encore une grâce, un fétiche portant bonheur. Même dans la mort on ne pouvait la laisser à son rêve de solitude, la cohue des misérables de ce monde se ruait, buvait l'illusion autour de son cercueil. Et l'on remarqua que son oeil gauche était resté obstinément ouvert, l'oeil qui, pendant les apparitions, se trouvait du côté de la sainte Vierge. Un dernier miracle émerveilla le couvent, le corps ne changea pas, on l'ensevelit au troisième jour, souple, tiède, les lèvres roses, la peau très blanche, comme rajeuni et sentant bon. Aujourd'hui, Bernadette Soubirous, la grande exilée de Lourdes, pendant que la Grotte resplendit en son triomphe, dort obscurément son dernier sommeil à Saint-Gildard, sous la dalle d'une petite chapelle, dans l'ombre et dans le silence des vieux arbres du jardin.]{.calibre11}
+
+[Pierre cessa de parler, le beau conte merveilleux était fini. Et tout le wagon l'écoutait encore, dans le saisissement passionné de cette fin si tragique et si touchante. Des larmes tendres coulaient des yeux de Marie, tandis que les autres, Élise Rouquet, la Grivotte elle-même, un peu calmée, joignaient les mains, priaient celle qui était chez le bon Dieu, d'intercéder pour l'achèvement de leur guérison. M. Sabathier fit un grand signe de croix, puis mangea le gâteau que sa femme lui avait acheté à Poitiers. Au milieu de l'histoire, M. De Guersaint, que les choses tristes incommodaient, s'était rendormi. Et il n'y avait que madame Vincent, la face enfoncée dans l'oreiller, qui n'eût pas bougé, comme sourde et aveugle, ne voulant plus rien voir ni rien entendre.]{.calibre11}
+
+[Mais le train roulait, roulait toujours. Madame de Jonquière, la tête au dehors, annonça qu'on approchait d'Étampes. Et, quand on eut quitté cette station, soeur Hyacinthe donna le signal, on récita le troisième chapelet, les cinq mystères glorieux, la Résurrection de Notre-Seigneur, l'Ascension de Notre-Seigneur, la Mission du Saint-Esprit, l'Assomption de la Très Sainte Vierge, le Couronnement de la Très Sainte Vierge. Ensuite, on chanta le cantique : « Je mets ma confiance, Vierge, en votre secours... »]{.calibre11}
+
+[Pierre, alors, tomba dans une profonde rêverie. Ses regards s'étaient portés sur la campagne, ensoleillée maintenant, dont la continuelle fuite semblait bercer ses pensées. Le grondement des roues l'étourdissait, il finissait par ne plus distinguer nettement les horizons familiers de cette grande banlieue, qu'il avait connue autrefois. Encore Brétigny, encore Juvisy, et ce serait Paris enfin, dans une heure et demie à peine. C'était donc fini, ce grand voyage ! Elles étaient donc faites, cette enquête tant désirée, cette expérience tentée si passionnément ! Il avait voulu se donner une certitude, étudier sur place le cas de Bernadette, voir si la grâce ne lui reviendrait pas dans un coup de foudre, en lui rendant la foi. Et, maintenant, il était fixé, Bernadette avait rêvé dans le continuel tourment de sa chair, et lui-même ne croirait jamais plus. Cela s'imposait avec la brutalité d'un fait : la foi naïve de l'enfant qui s'agenouille et qui prie, la primitive foi des peuples jeunes, courbé sous la terreur sacrée de leur ignorance, était morte. Des milliers de pèlerins avaient beau se rendre chaque année à Lourdes, les peuples n'étaient plus avec eux, la tentative de cette résurrection de la foi totale, de la foi des siècles morts, sans révolte ni examen, devait échouer fatalement. L'histoire ne retourne pas en arrière, l'humanité ne peut revenir à l'enfance, les temps sont trop changés, trop de souffles nouveaux ont semé de nouvelles moissons, pour que les hommes d'aujourd'hui repoussent tels que les hommes d'autrefois. C'était décisif, Lourdes n'était qu'un accident explicable, dont la violence de réaction apportait même une preuve de l'agonie suprême où se débattait la croyance, sous l'antique forme du catholicisme. Jamais plus la nation entière ne se prosternerait, comme l'ancienne nation croyante, dans les cathédrales du douzième siècle, pareille à un troupeau docile sous les mains du Maître. S'entêter en aveugle à vouloir cela, ce serait se briser contre l'impossible et courir peut-être aux grandes catastrophes morales.]{.calibre11}
+
+[Et, de son voyage, il ne restait déjà plus à Pierre qu'une immense pitié. Ah ! Son coeur en débordait, son pauvre coeur en revenait meurtri. Il se rappelait les paroles du bon abbé Judaine ; et il avait vu ces milliers de misérables prier, sangloter, supplier Dieu de prendre leur torture en miséricorde ; et il avait sangloté avec eux, il gardait en lui, comme une plaie vive, la fraternité lamentable de tous leurs maux. Aussi ne pouvait-il songer à ces pauvres gens sans brûler du désir de les soulager. Si la foi des simples ne suffisait plus, si l'on courait le risque de s'égarer en voulant retourner en arrière, allait-il donc falloir fermer la Grotte, prêcher un autre effort, une autre patience ? Mais sa pitié se révoltait. Non, non ! Ce serait un crime que de fermer le rêve de leur ciel à ces souffrants du corps et de l'âme, dont l'unique apaisement était de s'agenouiller, là-bas, dans la splendeur des cierges, dans l'entêtement berceur des cantiques. Lui-même n'avait pas commis le meurtre de détromper Marie, il s'était immolé pour lui laisser la joie de sa chimère, le divin soutien d'avoir été guérie par la Vierge. Où était donc l'homme dur qui aurait eu la cruauté d'empêcher les humbles de croire, de tuer en eux la consolation du surnaturel, l'espoir que Dieu s'occupait d'eux, qu'il leur réservait une vie meilleure dans son paradis ? L'humanité entière pleurait, éperdue d'angoisse, pareille à une malade désespérée, condamnée, que seul pouvait sauver le miracle. Il la sentait si malheureuse, il frémissait d'une fraternelle tendresse devant ce christianisme pitoyable, l'humilité, l'ignorance, la pauvreté avec ses haillons, la maladie avec ses plaies et son odeur fétide, tout ce bas petit peuple des souffrants, à l'hôpital, au couvent, dans les bouges, et la vermine, et la saleté, et la laideur, et l'imbécillité des faces, une immense protestation contre la santé, contre la vie, contre la nature, au nom triomphal de la justice, de l'égalité et de la bonté. Non, non ! Il ne fallait désespérer personne, il fallait tolérer Lourdes, ainsi qu'on tolère le mensonge qui aide à vivre. Et, comme il l'avait dit dans la chambre de Bernadette, elle restait la martyre, elle lui révélait la seule religion dont son coeur fût encore plein, la religion de la souffrance humaine. Ah ! être bon, panser tous les maux, endormir la douleur dans un rêve, mentir même pour que personne ne souffre plus !]{.calibre11}
+
+[À toute vapeur on traversa un village, et Pierre aperçut confusément une église, au milieu de grands pommiers. Tous les pèlerins du wagon se signèrent. Mais lui, maintenant, était envahi d'une inquiétude, des scrupules rendaient sa rêverie anxieuse. Cette religion de la souffrance humaine, ce rachat par la souffrance, n'était-ce pas encore un leurre, une aggravation continue de la douleur et de la misère ? Il est lâche et dangereux de laisser vivre la superstition. La tolérer, l'accepter, c'est recommencer éternellement les siècles mauvais. Elle affaiblit, elle abêtit, les tares dévotes que l'hérédité lègue font des générations humiliées et craintives, des peuples dégénérés et dociles, toute une proie aisée aux puissants de ce monde. On exploite les peuples, on les vole, on les mange, quand ils ont mis l'effort de leur volonté dans la seule conquête de l'autre vie. Dès lors ne vaudrait-il pas mieux avoir tout de suite l'audace d'opérer l'humanité brutalement, en fermant les Grottes miraculeuses où elle va sangloter, et de lui rendre ainsi le courage de vivre la vie réelle, même dans les larmes ? Et c'était comme la prière, ce flot de prières incessantes qui montait de Lourdes, dont la supplication sans fin l'avait baigné et attendri : n'était-ce autre chose qu'un bercement puéril, un abâtardissement de toutes les énergies ? La volonté s'y endormait, l'être s'y dissolvait, y prenait la vie, l'action en dégoût. À quoi bon vouloir, à quoi bon agir, lorsqu'on s'en remet totalement au caprice d'une toute-puissance inconnue ? D'autre part, quelle étrange chose que ce désir fou de prodiges, ce besoin de pousser Dieu à transgresser les lois de la nature qu'il a établies lui-même, dans son infinie sagesse ! Il y avait évidemment là péril et déraison, il n'aurait fallu développer, chez l'homme et surtout chez l'enfant, que l'habitude de l'effort personnel et le courage de la vérité, au risque d'y perdre l'illusion, la divine consolatrice.]{.calibre11}
+
+[Alors, toute une grande clarté monta, éblouit Pierre. Il était la raison, il protestait contre la glorification de l'absurde et la déchéance du sens commun. Ah ! La raison, il souffrait par elle, il n'était heureux que par elle. Comme il l'avait dit au docteur Chassaigne, il ne brûlait que de l'envie de la contenter toujours davantage, quitte à y laisser le bonheur. C'était elle, il le comprenait bien maintenant, c'était elle dont la continuelle révolte, à la Grotte, à la Basilique, dans Lourdes entier, l'avait empêché de croire. Il n'avait pu la tuer, s'humilier et s'anéantir, ainsi que son vieil ami, le grand vieillard foudroyé, à la sénilité douloureuse, redevenu enfant dans le désastre de son coeur. Elle était sa maîtresse souveraine, elle le tenait debout, même au milieu des obscurités et des avortements de la science. Quand il ne s'expliquait pas une chose, elle lui soufflait : « Il y a certainement une explication naturelle qui m'échappe. » Il répétait qu'on ne saurait avoir sainement un idéal, en dehors de la marche à l'inconnu pour le connaître, de la victoire lente de la raison, au travers des misères du corps et de l'intelligence. Lui, prêtre, était capable de ravager sa vie pour tenir son serment, dans le combat de sa double hérédité, son père tout cerveau, sa mère toute foi. Il avait eu la force de mater la chair, de renoncer à la femme, mais il sentait bien que son père l'emportait définitivement, car le sacrifice de sa raison lui était désormais impossible : il n'y renoncerait pas, il ne la materait pas. Non, non ! La souffrance humaine elle-même, la souffrance sacrée des pauvres ne devait pas être un obstacle, une nécessité d'ignorance et de folie. La raison avant tout, il n'y avait de salut que dans la raison. Si, baigné de larmes, amolli par tant de maux, il avait dit à Lourdes qu'il suffisait de pleurer et d'aimer, il s'était trompé dangereusement. La pitié n'était qu'un expédient commode. Il fallait vivre, il fallait agir, il fallait que la raison combattît la souffrance, à moins qu'on ne voulût l'éterniser.]{.calibre11}
+
+[Mais, de nouveau, dans la fuite rapide de la campagne, une église apparut, cette fois au bord du ciel, sur une colline, quelque chapelle votive, que surmontait une haute statue de la sainte Vierge. Et, une fois de plus, tous les pèlerins firent le signe de la croix. Et la rêverie de Pierre s'égara encore, un autre flot de réflexions le rendit à son angoisse. Quel était donc cet impérieux besoin d'au-delà qui torturait l'humanité souffrante ? D'où venait-il ? Pourquoi voulait-on de l'égalité, de la justice, lorsque ces choses semblaient absentes de l'impassible nature ? L'homme les avait mises dans l'inconnu du mystère, dans le surnaturel des paradis religieux, et là il contentait son ardente soif. Toujours la soif inextinguible du bonheur l'avait brûlé, toujours elle le brûlerait. Si les pères de la Grotte faisaient de si glorieuses affaires, c'était qu'ils vendaient du divin. Cette soif du divin, que rien n'a pu étancher au travers des siècles, semblait renaître avec une violence nouvelle, au bout de notre siècle de science. Lourdes était l'exemple éclatant, indéniable, que jamais peut-être l'homme ne pourrait se passer du rêve d'un Dieu souverain, rétablissant l'égalité, refaisant du bonheur, à coups de miracles. Quand l'homme a touché le fond du malheur de vivre, il en revient à l'illusion divine ; et l'origine de toutes les religions est là, l'homme faible et nu n'ayant pas la force de vivre sa misère terrestre sans l'éternel mensonge d'un paradis. Aujourd'hui l'expérience était faite, rien que la science ne semblait pouvoir suffire, et on allait être forcé de laisser une porte ouverte sur le mystère.]{.calibre11}
+
+[Brusquement, le mot sonna dans le crâne de Pierre profondément absorbé. Une religion nouvelle ! Cette porte qu'il fallait laisser ouverte sur le mystère, c'était en somme une religion nouvelle. Opérer brutalement l'humanité de son rêve, lui enlever de force le merveilleux dont elle a besoin autant que de pain pour vivre, ce serait la tuer peut-être. Aurait-elle jamais le courage philosophique de la vie telle qu'elle est, vécue pour elle-même, sans l'idée future des peines et des récompenses ? Il semblait bien que des siècles passeraient avant qu'une société assez sage pût vivre honnêtement, sans la police morale d'un culte quelconque, sans la consolation d'une égalité et d'une justice surhumaines. Oui ! Une religion nouvelle, cela éclatait, cela retentissait en lui, comme le cri même des peuples, le besoin avide et désespéré de l'âme moderne. La consolation, l'espoir que le catholicisme avait apportés au monde semblait épuisé, après dix-huit siècles d'histoire, tant de larmes, tant de sang, tant d'agitations vaines et barbares. C'était une illusion qui s'en allait, et il fallait au moins changer d'illusion. Si, jadis, on s'était jeté dans le paradis chrétien, cela venait de ce qu'il s'ouvrait alors comme la jeune espérance. Une religion nouvelle, une espérance nouvelle, un paradis nouveau, oui ! Le monde en avait soif, dans le malaise où il se débattait. Et le père Fourcade le sentait bien, il ne voulait pas dire autre chose, lorsqu'il s'inquiétait, suppliant qu'on amenât à Lourdes le peuple des grandes villes, la masse profonde du petit peuple qui fait la nation. Cent mille, deux cent mille pèlerins par an, à Lourdes, ce n'était encore que le grain de sable. Il aurait fallu le peuple, le peuple tout entier. Mais le peuple a déserté les églises à jamais, il ne met même plus son âme dans les saintes Vierges qu'il fabrique, rien désormais ne saurait lui rendre la foi perdue. Une démocratie catholique, ah ! L'histoire recommencerait. Seulement, était-ce possible, cette création d'un nouveau peuple chrétien ? Et n'aurait-il pas fallu la venue d'un nouveau Sauveur, le souffle prodigieux d'un autre Messie ?]{.calibre11}
+
+[Cela sonnait toujours, grandissait comme une volée de cloche, dans la songerie de Pierre. Une religion nouvelle ! Une religion nouvelle ! Il la faudrait sans doute plus près de la vie, faisant à la terre une part plus large, s'accommodant des vérités conquises. Et surtout une religion qui ne fût pas un appétit de la mort, Bernadette ne vivant que pour mourir, le docteur Chassaigne aspirant à la tombe comme à l'unique bonheur, tout cet abandon spiritualiste était une désorganisation continue de la volonté de vivre. Au bout, il y avait la haine de la vie, le dégoût et la paralysie de l'action. Toute religion, il est vrai, n'est qu'une promesse d'immortalité, un embellissement de l'au-delà, le jardin enchanté du lendemain de la mort. Une religion nouvelle pourrait-elle jamais mettre sur la terre ce jardin de l'éternel bonheur ? Où donc était la formule, où donc était le dogme qui comblerait l'espoir des hommes d'aujourd'hui ? Quelle croyance semer pour qu'elle poussât en une moisson de force et de paix ? Comment féconder le doute universel pour qu'il accouchât d'une nouvelle foi, et quelle sorte d'illusion, quel mensonge divin pouvait germer encore dans la terre contemporaine, ravagée de toutes parts, défoncée par un siècle de science ?]{.calibre11}
+
+[À ce moment, sans transition apparente, sur le fond trouble de ses pensées, Pierre vit s'évoquer la figure de son frère Guillaume. Il n'en fut pas surpris pourtant, un lien secret devait l'amener. Comme ils s'étaient aimés autrefois, et quel bon frère, ce grand frère si droit et si doux ! Désormais, la rupture était complète, il ne le revoyait plus, depuis qu'il s'était cloîtré dans ses études de chimiste, habitant en sauvage une petite maison de faubourg, avec une maîtresse et deux grands chiens. Puis, sa rêverie tourna encore, il songea à ce procès dans lequel on avait prononcé le nom de Guillaume, soupçonné d'avoir des amitiés compromettantes parmi les révolutionnaires les plus violents. On racontait qu'à la suite de longues recherches, il venait de découvrir la formule d'un explosif terrible, dont une livre seulement aurait fait sauter une cathédrale. Et Pierre, maintenant, songeait à ces anarchistes qui voulaient renouveler et sauver le monde en le détruisant. Ce n'étaient que des rêveurs, et des rêveurs atroces, mais des rêveurs comme les innocents pèlerins, dont il avait vu le troupeau extatique agenouillé devant la Grotte. Si les anarchistes, les socialistes extrêmes demandaient violemment l'égalité dans la richesse, la mise en commun des jouissances de ce monde, les pèlerins réclamaient avec des larmes l'égalité dans la santé, le partage équitable de la paix morale et physique. Ceux-ci comptaient sur le miracle, les autres s'adressaient à l'action brutale. Au fond, c'était le même rêve exaspéré de fraternité et de justice, l'éternel besoin du bonheur, plus de pauvres, plus de malades, tous heureux. Anciennement, les premiers chrétiens n'ont-ils pas été des révolutionnaires redoutables pour le monde païen, qu'ils menaçaient, et qu'ils ont en effet détruit ? Eux qu'on a persécutés, qu'on a tâché d'exterminer, sont aujourd'hui inoffensifs, parce qu'ils sont devenus le passé. L'avenir effrayant, c'est toujours l'homme qui rêve la société future, c'est aujourd'hui l'affolé de rénovation sociale qui fait le grand rêve noir de tout purifier par la flamme des incendies. Cela était monstrueux. Qui savait pourtant ? Là était peut-être le monde rajeuni de demain.]{.calibre11}
+
+[Et, perdu, incertain, Pierre, dans son horreur de la violence, faisait cause commune avec la vieille société qui se défendait, sans pouvoir dire d'où viendrait le Messie de douceur, aux mains duquel il aurait voulu remettre la pauvre humanité malade. Une religion nouvelle, oui ! Une religion nouvelle. Mais il n'est pas facile d'en inventer une, il ne savait comment conclure, entre l'antique foi qui était morte et la jeune foi de demain encore à naître. Lui, désolé, n'était sûr que de tenir son serment, prêtre sans croyance veillant sur la croyance des autres, faisant chastement, honnêtement son métier, dans la tristesse hautaine de n'avoir pu renoncer à sa raison, comme il avait renoncé à sa chair. Et il attendrait.]{.calibre11}
+
+[Mais le train roula parmi de grands parcs, la locomotive siffla longuement, toute une fanfare d'allégresse, qui tira Pierre de ses réflexions. Autour de lui, le wagon s'émotionnait, s'agitait. On venait de quitter Juvisy, c'était Paris enfin, dans une demi-heure à peine. Et chacun rangeait ses affaires, les Sabathier refaisaient leurs petits paquets, Élise Rouquet donnait un dernier coup d'oeil à son miroir. Un instant, madame de Jonquière s'inquiéta de la Grivotte, décida de la faire conduire directement à un hôpital, dans l'état pitoyable où elle était ; tandis que Marie tâchait de tirer madame Vincent de la torpeur dont elle semblait ne pas vouloir sortir. Il fallut réveiller M. De Guersaint, qui avait fait un bout de sieste. Et, soeur Hyacinthe ayant tapé dans ses mains, tout la wagon entonna le Te Deum, le cantique d'actions de grâces : « Te Deum laudamus, te Dominum confitemur... » Les voix montaient au milieu d'une ferveur dernière, toutes ces âmes brûlantes remerciaient Dieu de l'admirable voyage, des faveurs merveilleuses dont il les avait comblées et dont il les comblerait encore.]{.calibre11}
+
+[Les fortifications. Dans le grand ciel pur, d'une sérénité chaude, le soleil de deux heures descendait lentement. Au-dessus de Paris immense, des fumées lointaines, des fumées rousses s'élevaient en nuées légères, une haleine épaisse et volante de colosse au travail. C'était Paris dans sa forge, Paris avec ses passions, ses combats, son tonnerre toujours grondant, sa vie ardente toujours en enfantement de la vie de demain. Et le train blanc, le train lamentable de toutes les misères et de toutes les douleurs, y rentrait à grande vitesse, en sonnant plus haut la fanfare déchirante de ses coups de sifflet. Les cinq cents pèlerins, les trois cents malades allaient s'y perdre et retomber sur le dur pavé de leur existence, au sortir du rêve prodigieux qu'ils venaient de faire, jusqu'au jour où le besoin consolateur d'un rêve nouveau les forcerait à recommencer l'éternel pèlerinage du mystère et de l'oubli.]{.calibre11}
+
+[Ah ! Tristes hommes, pauvre humanité malade, affamée d'illusion, qui, dans la lassitude de ce siècle finissant, éperdue et meurtrie d'avoir acquis goulûment trop de science, se croit abandonnée des médecins de l'âme et du corps, en grand danger de succomber au mal incurable, et retourne en arrière, et demande le miracle de sa guérison aux Lourdes mystiques d'un passé mort à jamais ! Là-bas, Bernadette, le nouveau Messie de la souffrance, si touchante dans sa réalité humaine, est la leçon terrible, l'holocauste retranché du monde, la victime condamnée à l'abandon, à la solitude et à la mort, frappée de la déchéance de n'avoir pas été femme, ni épouse ni mère, parce qu'elle avait vu la sainte Vierge.]{.calibre11}
+
+
+::: WordSection
+[
+]{.calibre21}
+
+[FIN des TROIS VILLES : LOURDES]{.calibre29}
+
+[[Liste des romans]{.calibre30}](../Text/Zola2_split_000.htm){.pcalibre .pcalibre1}[

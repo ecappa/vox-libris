@@ -1,0 +1,94 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L’INONDATION",
+  "slug": "linondation",
+  "nombre_chapitres": 7,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1248,
+      "spine_end_exclusive": 1249,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_258.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1249,
+      "spine_end_exclusive": 1250,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_259.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1250,
+      "spine_end_exclusive": 1251,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_260.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1251,
+      "spine_end_exclusive": 1252,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_261.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1252,
+      "spine_end_exclusive": 1253,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_262.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1253,
+      "spine_end_exclusive": 1254,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_263.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1254,
+      "spine_end_exclusive": 1255,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_264.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 1255,
+      "spine_end_exclusive": 1257,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_265.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_266.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/linondation/Zola4_image022.jpg"
+  ]
+}

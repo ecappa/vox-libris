@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA BANLIEUE"
+slug_oeuvre: "la-banlieue"
+section: "Chapitre 05"
+slug_section: "chapitre-05"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA BANLIEUE
+
+[Liste des contes et nouvelles
+
+!
+
+## V
+Le cri de Paris est un continuel cri de liberté. La ville craque dans sa ceinture trop étroite ; elle regarde sans cesse à l'horizon, essoufflée, demandant du soleil et du vent. Son rêve semble être de changer la plaine en un jardin de plaisance, où elle se promènerait le soir, après sa besogne achevée. C'est une poussée universelle qui va grandissant chaque année, et qui finira par faire de la banlieue un simple prolongement de nos boulevards, plantés d'arbres maigres.
+
+Liste des contes et nouvelles[

@@ -1,0 +1,105 @@
+::: WordSection
+[
+]{.calibre36}
+
+!{.calibre24}
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+[MON SALON]{lang="EN-GB"}
+
+
+[[[Liste des études biographiques et critiques]{.calibre26 lang="FR"}](../Text/Zola5_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US"}
+
+]{.calibre34} [!{.calibre29}]{.calibre34}
+
+## []{#_Toc368911232 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910746 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368910260 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909774 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368909288 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908802 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368908316 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907830 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368907344 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906858 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368906372 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905886 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368905400 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904914 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368904428 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903942 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368903456 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368902970 .pcalibre .calibre2 .pcalibre1}[M. Manet]{#_Toc368902484 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_47 .calibre30}
+
+
+::: WordSection
+**[
+]{.calibre61}**
+
+!{#Image785 .calibre68}
+
+
+::: WordSection
+**[
+]{.calibre42 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}**
+
+7 mai.
+
+
+Si nous aimons à rire, en France, nous avons, à l\'occasion, une exquise courtoisie et un tact parfait. Nous respectons les persécutés, nous défendons de toute notre puissance la cause des hommes qui luttent seuls contre une foule.
+
+Je viens, aujourd\'hui, tendre une main sympathique à l\'artiste qu\'un groupe de ses confrères a mis à la porte du Salon. Si je n\'avais pour le louer sans réserve la grande admiration que fait naître en moi son talent, j\'aurais encore la position qu\'on lui a créée de paria, de peintre impopulaire et grotesque.
+
+Avant de parler de ceux que tout le monde peut voir, de ceux qui étalent leur médiocrité en pleine lumière, je me fais un devoir de consacrer la plus large place possible à celui dont on a volontairement écarté les œuvres, et que l\'on n\'a pas jugé digne de figurer parmi quinze cents à deux mille impuissants qui ont été reçus à bras ouverts.
+
+Et je lui dis : « Consolez-vous. On vous a mis à part, et vous méritez de vivre à part. Vous ne pensez pas comme tous ces gens-là, vous peignez selon votre cœur et selon votre chair, vous êtes une personnalité qui s\'affirme carrément. Vos toiles sont mal à l\'aise parmi les niaiseries et les sentimentalités du temps. Restez dans votre atelier. C\'est là que je vais vous chercher et vous admirer. »
+
+Je m\'expliquerai le plus nettement possible sur M. Manet. Je neveux point qu\'il y ait de malentendu entre le public et moi. Je n\'admets pas et je n\'admettrai jamais qu\'un jury ait eu le pouvoir de défendre à la foule la vue d\'une des individualités les plus vivantes de notre époque. Comme mes sympathies sont en dehors du Salon, je n\'y entrerai que lorsque j\'aurai contenté ailleurs mes besoins d\'admiration.
+
+Il paraît que je suis le premier à louer sans restriction M. Manet. C\'est que je me soucie peu de toutes ces peintures de boudoir, de ces images coloriées, de ces misérables toiles où je ne trouve rien de vivant. J\'ai déjà déclaré que le tempérament seul m\'intéressait.
+
+On m\'aborde dans les rues, et on me dit : « Ce n\'est pas sérieux, n\'est-ce pas ? Vous débutez à peine, vous voulez couper la queue de votre chien. Mais, puisqu\'on ne vous voit pas, rions un peu ensemble du haut comique du *Dîner sur l'herbe*, de l'*Olympia*, du *Joueur de fifre*. »
+
+Ainsi nous en sommes à ce point en art, nous n\'avons plus même la liberté de nos admirations. Voilà que je passe pour un garçon qui se ment à lui-même par calcul. Et mon crime est de vouloir enfin dire la vérité sur un artiste qu\'on feint de ne pas comprendre et qu\'on chasse comme un lépreux du petit monde des peintres.
+
+L\'opinion de la majorité sur M. Manet est celle-ci : M. Manet est un jeune rapin qui s\'enferme pour fumer et boire avec des galopins de son âge. Alors, lorsqu\'on a vidé des tonnes de bière, le rapin décide qu\'il va peindre des caricatures et les exposer pour que la foule se moque de lui et retienne son nom. Il se met à l\'œuvre, il fait des choses inouïes, il se tient lui-même les côtes devant son tableau, il ne rêve que de se moquer du public et de se faire une réputation d\'homme grotesque.
+
+Bonnes gens !
+
+Je puis placer ici une anecdote qui rend admirablement le sentiment de la foule. Un jour, M. Manet et un littérateur très connu étaient assis devant un café des boulevards. Arrive un journaliste auquel le littérateur présente le jeune maître. « M. Manet, » dit-il. Le journaliste se hausse sur ses pieds, cherche à droite, cherche à gauche ; puis il finit par apercevoir devant lui l\'artiste, modestement assis et tenant une toute petite place. « Ah ! pardon, s\'écrie-t-il, je vous croyais colossal, et je cherchais partout un visage grimaçant et patibulaire. »
+
+Voilà tout le public.
+
+Les artistes eux-mêmes, les confrères, ceux qui devraient voir clair dans la question, n\'osent se décider. Les uns, je parle des sots, rient sans regarder, font des gorges chaudes sur ces toiles fortes et convaincues. Les autres parlent de talent incomplet, de brutalités voulues, de violences systématiques. En somme, ils laissent plaisanter le public, sans songer seulement à lui dire : « Ne riez pas si fort, si vous ne voulez passer pour des imbéciles. Il n\'y a pas le plus petit mot pour rire dans tout ceci. Il n\'y a qu\'un artiste sincère, qui obéit à sa nature, qui cherche le vrai avec fièvre, qui se donne entier et qui n\'a aucune de nos lâchetés. »
+
+Puisque personne dit cela, je vais le dire, moi, je vais le crier. Je suis tellement certain que M. Manet sera un des maîtres de demain, que je croirais conclure une bonne affaire, si j\'avais de la fortune, en achetant aujourd\'hui toutes ses toiles. Dans cinquante ans, elles se vendront quinze et vingt fois plus cher, et c\'est alors que certains tableaux de quarante mille francs ne vaudront pas quarante francs.
+
+Il ne faut pourtant pas avoir beaucoup d\'intelligence pour prophétiser de pareils événements.
+
+On a d\'un côté des succès de mode, des succès de salons et de coteries ; on a des artistes qui se créent une petite spécialité, qui exploitent un des goûts passagers du public ; on a des messieurs rêveurs et élégants qui, du bout de leurs pinceaux, peignent des images mauvais teint que quelques gouttes de pluie effaceraient.
+
+D\'un autre côté, au contraire, on a un homme s\'attaquant directement à la nature, ayant remis en question l\'art entier, cherchant à créer de lui-même et à ne rien cacher de sa personnalité. Est-ce que vous croyez que des tableaux peints d\'une main puissante et convaincue ne sont pas plus solides que de ridicules gravures d\'Épinal ?
+
+Nous irons rire, si vous le voulez, devant les gens qui se moquent d\'eux-mêmes et du public, en exposant sans honte des toiles qui ont perdu leur valeur première depuis qu\'elles sont barbouillées de jaune et de rouge. Si la foule avait reçu une forte éducation artistique, si elle savait admirer seulement les talents individuels et nouveaux, je vous assure que le Salon serait un lieu de réjouissance publique, car les visiteurs ne pourraient parcourir deux salles sans se rendre malades de gaieté. Ce qu\'il y a de prodigieusement comique à l\'Exposition, ce sont toutes ces œuvres banales et impudentes qui s\'étalent, montrant leur misère et leur sottise.
+
+Pour un observateur désintéressé, c\'était un spectacle navrant que ces attroupements bêtes devant les toiles de M. Manet. J\'ai entendu là bien des platitudes. Je me disais : « Serons-nous donc toujours si enfants, et nous croirons-nous donc toujours obligés de tenir boutique d\'esprit ? Voilà des individus qui rient, la bouche ouverte, sans savoir pourquoi, parce qu\'ils sont blessés dans leurs habitudes et dans leurs croyances. Ils trouvent cela drôle, et ils rient. Ils rient comme un bossu rirait d\'un autre homme, parce que cet homme n\'aurait pas de bosse. »
+
+Je ne suis allé qu\'une fois dans l\'atelier de M. Manet. L\'artiste est de taille moyenne, plutôt petite que grande ; blond de cheveux et de visage légèrement coloré, il paraît avoir une trentaine d\'années ; l\'œil vif et intelligent, la bouche mobile, un peu railleuse par instants ; la face entière, irrégulière et expressive, a je ne sais quelle expression de finesse et d\'énergie. Au demeurant, l\'homme, dans ses gestes et dans sa voix, a la plus grande modestie et la plus grande douceur.
+
+Celui que la foule traite de rapin gouailleur vit retiré, en famille. Il est marié et a l\'existence réglée d\'un bourgeois. Il travaille d\'ailleurs avec acharnement, cherchant toujours, étudiant la nature, s\'interrogeant et marchant dans sa voie.
+
+Nous avons causé ensemble de l\'attitude du public à son égard. Il n\'en plaisante pas, mais il n\'en paraît pas non plus découragé. Il a foi en lui ; il laisse passer tranquillement sur sa tête la tempête des rires, certain que les applaudissements viendront.
+
+J\'étais enfin en face d\'un lutteur convaincu, en face d\'un homme impopulaire qui ne tremblait pas devant le public, qui ne cherchait pas à apprivoiser la bête, qui s\'essayait plutôt à la dompter, à lui imposer son tempérament.
+
+C\'est dans cet atelier que j'ai compris complètement M. Manet. Je l\'avais aimé d\'instinct ; dès lors, j\'ai pénétré son talent, ce talent que je vais tâcher d\'analyser. Au Salon, ses toiles criaient sous la lumière crue, au milieu des images à un sou qu\'on avait collées au mur autour d\'elles. Je les voyais enfin à part, ainsi que tout tableau doit être vu, dans le lieu même où elles avaient été peintes.
+
+Le talent de M. Manet est fait de simplicité et de justesse. Sans doute, devant la nature incroyable de certains de mes confrères, il se sera décidé à interroger la réalité, seul à seul ; il aura refusé toute la science acquise, toute l\'expérience ancienne, il aura voulu prendre l\'art au commencement, c\'est-à-dire à l\'observation exacte des objets.
+
+Il s\'est donc mis courageusement en face d\'un sujet, il a vu ce sujet par larges taches, par oppositions vigoureuses, et il a peint chaque chose telle qu\'il la voyait. Qui ose parler ici de calcul mesquin, qui ose accuser un artiste consciencieux de se moquer de l\'art et de lui-même ? Il faudrait punir les railleurs, car ils insultent un homme qui sera une de nos gloires, et ils l\'insultent misérablement, riant de lui qui ne daigne même pas rire d\'eux. Je vous assure que vos grimaces et que vos ricanements l\'inquiètent peu.
+
+J\'ai revu le *Dîner sur l'herbe*, ce chef-d\'œuvre exposé au Salon des Refusés, et je défie nos peintres en vogue de nous donner un horizon plus large et plus empli d'air et de lumière. Oui, vous riez encore, parce que les ciels violets de M. Nazon vous ont gâtés. Il y a ici une nature bien bâtie qui doit vous déplaire. Puis nous n\'avons ni la Cléopâtre en plâtre de M. Gérôme, ni les jolies personnes roses et blanches de M. Dubuffe. Nous ne trouvons malheureusement là que des personnages de tous les jours, qui ont le tort d\'avoir des muscles et des os, comme tout le monde. Je comprends votre désappointement et votre gaieté, en face de cette toile ; il aurait fallu chatouiller votre regard avec des images de boîtes à gants.
+
+J\'ai revu également l'*Olympia*, qui a le défaut grave de ressembler à beaucoup de demoiselles que vous connaissez. Puis, n\'est-ce pas ? quelle étrange manie que de peindre autrement que les autres ! Si, au moins, M. Manet avait emprunté la houppe à poudre de riz de M. Cabanel et s\'il avait un peu fardé les joues et les seins d\'Olympia, la jeune fille aurait été présentable. Il y a là aussi un chat qui a bien amusé le public. Il est vrai que ce chat est d\'un haut comique, n\'est-ce pas ? et qu\'il faut être insensé pour avoir mis un chat dans ce tableau. Un chat, vous imaginez-vous cela ? Un chat noir, qui plus est. C\'est très drôle... O mes pauvres concitoyens, avouez que vous avez l\'esprit facile. Le chat légendaire d\'Olympia est un indice certain du but que vous vous proposez en vous rendant au Salon. Vous allez y chercher des chats, avouez-le, et vous n\'avez pas perdu votre journée lorsque vous trouvez un chat noir qui vous égaye.
+
+Mais l\'œuvre que je préfère est certainement le *Joueur de fifre*, toile refusée cette année. Sur un fond gris et lumineux, se détache le jeune musicien, en petite tenue, pantalon rouge et bonnet de police. Il souffle dans son instrument, se présentant de face. J\'ai dit plus haut que le talent de M. Manet était fait de justesse et de simplicité, me souvenant surtout de l\'impression que m\'a laissée cette toile. Je ne crois pas qu\'il soit possible d\'obtenir un effet plus puissant avec des moyens moins compliqués.
+
+Le tempérament de M. Manet est un tempérament sec, emportant le morceau. Il arrête vivement ses figures, il ne recule pas devant les brusqueries de la nature, il rend dans leur vigueur les différents objets se détachant les uns sur les autres. Tout son être le porte à voir par taches, par morceaux simples et énergiques. On peut dire de lui qu\'il se contente de chercher des tons justes et de les juxtaposer ensuite sur une toile. Il arrive que la toile se couvre ainsi d\'une peinture solide et forte. Je retrouve dans le tableau un homme qui a la curiosité du vrai et qui tire de lui un monde vivant d\'une vie particulière et puissante.
+
+Vous savez quel effet produisent les toiles de M. Manet au Salon. Elles crèvent le mur, tout simplement. Tout autour d\'elles s\'étalent les douceurs des confiseurs artistiques à la mode, les arbres en sucre candi et les maisons en croûte de pâté, les bons hommes en pain d\'épices et les bonnes femmes faites de crème à la vanille. La boutique de bonbons devient plus rose et plus douce, et les toiles vivantes de l\'artiste semblent prendre une certaine amertume au milieu de ce fleuve de lait. Aussi, faut-il voir les grimaces des grands enfants qui passent dans la salle. Jamais vous ne leur ferez avaler pour deux sous de véritable chair, ayant la réalité de la vie ; mais ils se gorgent comme des malheureux de toutes les sucreries écœurantes qu\'on leur sert.
+
+Ne regardez plus les tableaux voisins. Regardez les personnes vivantes qui sont dans la salle. Étudiez les oppositions de leurs corps sur le parquet et sur les murs. Puis, regardez les toiles de M. Manet : vous verrez que là est la vérité et la puissance. Regardez maintenant les autres toiles, celles qui sourient bêtement autour de vous : vous éclatez de rire, n\'est-ce pas ?
+
+La place de M. Manet est marquée au Louvre, comme celle de Courbet, comme celle de tout artiste d\'un tempérament original et fort. D\'ailleurs, il n'y a pas la moindre ressemblance entre Courbet et M. Manet, et ces artistes, s\'ils sont logiques, doivent se nier l\'un l\'autre. C\'est justement parce qu\'ils n\'ont rien de semblable qu\'ils peuvent vivre chacun d\'une vie particulière.
+
+Je n\'ai pas de parallèle à établir entre eux, j\'obéis à ma façon de voir en ne mesurant pas les artistes d\'après un idéal absolu et en n\'acceptant que les individualités uniques, celles qui s\'affirment dans la vérité et dans la puissance.
+
+Je connais la réponse : « Vous prenez l\'étrangeté pour l\'originalité, vous admettez donc qu\'il suffit de faire autrement que les autres pour faire bien. » Allez dans l\'atelier de M. Manet, messieurs ; puis revenez dans le vôtre et tâchez de faire ce qu\'il fait, amusez-vous à imiter ce peintre qui, selon vous, a pris en fermage l\'hilarité publique. Vous verrez alors qu\'il n\'est pas si facile de faire rire le monde.
+
+J\'ai tâché de rendre à M. Manet la place qui lui appartient, une des premières. On rira peut-être du panégyriste comme on a ri du peintre. Un jour, nous serons vengés tous deux. Il y a une vérité éternelle qui me soutient en critique : c\'est que les tempéraments seuls vivent et dominent les âges. Il est impossible, --- impossible, entendez-vous, --- que M. Manet n\'ait pas son jour de triomphe, et qu\'il n\'écrase pas les médiocrités timides qui l\'entourent.
+
+Ceux qui doivent trembler, ce sont les faiseurs, les hommes qui ont volé un semblant d\'originalité aux maîtres du passé ; ce sont ceux qui calligraphient des arbres et des personnages, qui ne savent ni ce qu\'ils sont ni ce que sont ceux dont ils rient. Ceux-là seront les morts de demain ; il y en a qui sont morts depuis dix ans, lorsqu\'on les enterre, et qui se survivent en criant qu\'on offense la dignité de l\'art si l\'on introduit une toile vivante dans cette grande fosse commune du Salon.

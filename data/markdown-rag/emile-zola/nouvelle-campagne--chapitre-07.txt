@@ -1,0 +1,72 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NOUVELLE CAMPAGNE"
+slug_oeuvre: "nouvelle-campagne"
+section: "Chapitre 07"
+slug_section: "chapitre-07"
+type: "chapitre"
+---
+
+!
+
+ÉTUDES BIOGRAPHIQUES ET CRITIQUES
+
+NOUVELLE CAMPAGNE
+
+Liste des études biographiques et critiques
+
+] !
+
+## L'amour des bêtes
+Pourquoi la rencontre d'un chien perdu, dans une de nos rues tumultueuses, me donne-t-elle une secousse au cœur ?
+
+Pourquoi la vue de cette bête, allant et venant, flairant le monde, effarée, visiblement désespérée de ne pas retrouver son maître, me cause-t-elle une pitié si pleine d'angoisse, qu'une telle rencontre me gâte absolument une promenade ?
+
+Pourquoi, jusqu'au soir, jusqu'au lendemain, le souvenir de ce chien perdu me hante-t-il d'une sorte de désespérance, me revient-il sans cesse en un élancement de fraternelle compassion, dans le souci de savoir ce qu'il fait, où il est, si on l'a recueilli, s'il mange, s'il n'est pas à grelotter au coin de quelque borne ?
+
+Pourquoi ai-je ainsi, au fond de ma mémoire, de grandes tristesses qui s'y réveillent parfois, des chiens sans maîtres, rencontrés il y a dix ans, il y a vingt ans, et qui sont restés en moi comme la souffrance même du pauvre être qui ne peut parler et que son travail, dans nos villes, ne peut nourrir ?
+
+Pourquoi la souffrance d'une bête me bouleverse-t-elle ainsi ? Pourquoi ne puis-je supporter ridée qu'une bête souffre, au point de me relever la nuit, l'hiver, pour m'assurer que mon chat a bien sa tasse d'eau ? Pourquoi toutes les bêtes de la création sont-elles mes petites parentes, pourquoi leur idée seule m'emplit-elle de miséricorde, de tolérance et de tendresse ?
+
+Pourquoi les bêtes sont-elles toutes de ma famille, comme les hommes, autant que les hommes ?
+
+Souvent, je me suis posé la question, et je crois bien que ni la physiologie, ni la psychologie n'y ont encore répondu d'une façon satisfaisante.
+
+D'abord, il faudrait classifier. Nous sommes légion, nous autres qui aimons les bêtes. Mais on doit compter aussi ceux qui les exècrent et ceux qui se désintéressent. De là, trois classes : les amis des bêtes, les ennemis, les indifférents. Une enquête serait nécessaire pour établir la proportion. Puis, il resterait à expliquer pourquoi on les aime, pourquoi on les hait, pourquoi on les néglige. Peut-être arriverait-on à trouver quelque loi générale. Je suis surpris que personne encore n'ait tenté ce travail, car je m'imagine que le problème est lié à toutes sortes de questions graves, remuant en nous le fond même de notre humanité.
+
+On a dit que les bêtes remplaçaient les enfants chez les vieilles filles à qui la dévotion ne suffit pas. Et cela n'est pas vrai, l'amour des bêtes persiste, ne cède pas devant l'amour maternel, quand celui-ci s'est éveillé chez la femme. Vingt fois, j'ai vérifié le cas, des mères passionnées pour leurs enfants, et qui gardaient aux bêtes l'affection de leur jeunesse, aussi vive, aussi active. Cette affection est toute spéciale, elle n'est pas entamée par les autres sentiments, et elle-même ne les entame pas. Rien ne saurait prouver d'une façon plus décisive qu'elle existe en soi, bien à part, qu'elle est distincte, qu'on peut l'avoir ou ne pas l'avoir, mais qu'elle est une manifestation totale de l'universel amour, et non une modification, une perversion d'un des modes particuliers d'aimer.
+
+On aime Dieu, et c'est l'amour divin. On aime ses enfants, on aime ses parents, et c'est l'amour maternel, c'est l'amour filial. On aime la femme, et c'est l'amour, le souverain, l'éternel. On aime les bêtes, enfin, et c'est l'amour encore, un autre amour qui a ses conditions, ses nécessités, ses douleurs et ses joies. Ceux qui ne l'éprouvent pas en plaisantent, s'en fâchent, le déclarent absurde, tout comme ceux qui n'aiment pas certaines femmes ne peuvent admettre que d'autres les aiment. Il est, ainsi que tous les grands sentiments, ridicule et délicieux, plein de démence et de douceur, capable d'extravagances véritables, aussi bien que des plus sages, des plus solides volontés.
+
+Qui donc l'étudiera ? Qui donc dira jusqu'où vont ses racines dans notre être ? Pour moi, lorsque je m'interroge, je crois bien que ma charité pour les bêtes est faite, comme je le disais, de ce qu'elles ne peuvent parler, expliquer leurs besoins, indiquer leurs maux. Une créature qui souffre et qui n'a aucun moyen de nous faire entendre comment et pourquoi elle souffre, n'est-ce pas affreux, n'est-ce pas angoissant ? De là, cette continuelle veille où je suis près d'une bête, m'inquiétant de ce dont elle peut manquer, m'exagérant certainement la douleur dont elle peut être atteinte. C'est la nourrice près de l'enfant, qu'il faut qu'elle comprenne et soulage.
+
+Mais cette charité n'est que de la pitié, et comment expliquer l'amour ? La question reste entière, pourquoi la bête en santé, la bête qui n'a pas besoin de moi, demeure-t-elle à ce point mon amie, ma sœur, une compagne que je recherche, que j'aime ? Pourquoi cette affection chez moi, et pourquoi chez d'autres l'indifférence et même la haine ?
+
+Ces temps derniers, comme j'achevais d'écrire le roman qui a Rome pour cadre, j'ai reçu de cette ville une longue lettre qui ma infiniment touché.
+
+Je ne crois pas devoir en nommer le signataire. Il s'agit d'un officier supérieur de l'armée italienne, d'un héros de l'indépendance, fort âgé, je crois, et qui a pris depuis longtemps sa retraite. Si je me permets de donner quelque publicité à l'objet de sa lettre, c'est que je pense obéir à ses intentions et lui faire même un grand plaisir.
+
+Il m'écrivait donc pour me supplier de prendre, dans mon roman, la défense des bêtes. Et le mieux est de citer : « Avez-vous remarqué les horribles atrocités qu'on exerce impunément à Rome contre les animaux, soit en public, soit en privé ? De toute manière, le fait existe ouvertement, révoltant et détestable. Rien n'a valu pour y porter remède. Je crois que vous seulement pourriez faire ce miracle, par votre puissante parole, par l'attention universelle dont vous disposez, par l'universelle réprobation qui, à votre parole indignée, ne manquerait pas d'éclater. Sur ce thème, que j'ai étudié toute ma vie, je pourrais vous fournir des faits innombrables. »
+
+Est-il rien de plus touchant que cet appel d'un vieux soldat en faveur des pauvres bêtes qui souffrent ? Il se trompe singulièrement sur mon pouvoir, et je m'excuse d'avoir reproduit la phrase de sa lettre où il donne à ma parole une importance si exagérée. Mais, en vérité, n'est-ce point charmant et attendrissant, ce défenseur des bêtes, qui toute sa vie les a protégées, qui s'avoue vaincu, et qui va chercher un simple romancier d'une nation voisine, pour l'intéresser à la cause et lui demander le plaidoyer dont il espère enfin, sinon le salut, du moins un soulagement ? J'avoue que l'ami des chiens perdus, en moi, a sympathisé tout de suite avec le vieux brave, qui est sûrement un brave homme.
+
+Mon roman était terminé, et je n'ai pu y glisser la moindre page en faveur des bêtes. Je me hâte d'ailleurs d'ajouter que je n'ai vu, à Rome, aucune scène m'autorisant à les défendre. Je ne mets pas en doute la parole de mon correspondant, je déclare simplement que pas une des atrocités dont il a parlé n'a frappé mes yeux. Il est à croire que les choses sont à Rome comme elles sont à Paris, bien que, d'après mes observations, il m'a toujours semblé que l'amour des bêtes décroissait, à mesure qu'on descendait vers les pays du soleil. Et, à ce propos, je citerai encore ce passage de la lettre : « A Milan, et en général chez les Italiens d'origine celtique, un coup de canne donné à un chien, et qui ne manquerait pas de soulever l'indignation publique, serait passible de l'amende établie par le Code ; tandis que, dans le Sud, les cruautés les plus raffinées, les plus révoltantes, tombent difficilement sous l'action du juge, parce qu'elles ne rencontrent chez les passants que la plus olympique indifférence. » La remarque est certainement juste, et c'est là un document pour le travail qu'on fera un jour.
+
+Nous avons eu, à Paris, de vieilles dames qui guettaient les savants vivisecteurs, et qui tombaient sur eux à coups d'ombrelles. Elles paraissaient fort ridicules. Mais s'imagine-t-on la révolte qui devait soulever ces pauvres âmes, à la pensée qu'on prenait des chiens vivants, pour les découper en petits morceaux ? Songez donc qu'elles les aiment, ces misérables chiens, et que c'est un peu comme si l'on coupait dans leur propre chair. Le héros qui m'a écrit, qui s'est battu sans peur ni reproche, sans craindre de tuer ni d'être tué, appartient certainement à la grande famille de ces âmes fraternelles que l'idée de la souffrance exaspère, même chez les bêtes, surtout chez les bêtes, qui ne peuvent ni parler, ni lutter. Je lui envoie publiquement ma poignée de main la plus attendrie et la plus respectueuse.
+
+J'ai eu un petit chien, un griffon de la plus petite espèce, qui se nommait. Fanfan. Un jour, à l'Exposition canine, au Cours-la-Reine, je l'avais vu dans une cage en compagnie d'un gros chat. Et il me regardait avec des yeux si pleins de tendresse, que j'avais dit au marchand de le sortir un peu de cette cage. Puis, par terre, il s'était mis à marcher comme un petit chien à roulettes. Alors, enthousiasmé, je Pavais acheté.
+
+C'était un petit chien fou. Un matin, je l'avais depuis huit jours à peine, lorsqu'il se mit à tourner sur lui-même, en rond, sans fin. Quand il tombait de fatigue, l'air ivre, il se relevait péniblement, il se remettait à tourner. Quand, saisi de pitié, je le prenais dans mes bras, ses pattes gardaient le piétinement de sa continuelle ronde ; et, si je le posais par terre, il recommençait, tournait encore, tournait toujours. Le vétérinaire, appelé, me parla d'une lésion au cerveau. Puis, il offrit de l'empoisonner. Je refusai. Toutes les bêtes meurent chez moi de leur belle mort, et elles dorment toutes tranquilles, dans un coin du jardin.
+
+Fanfan parut se guérir de cette première crise. Pendant deux années, il entra dans ma vie, à un point que je ne pourrais dire. Il ne me quittait pas, se blottissait contre moi, au fond de mon fauteuil, le matin, durant mes quatre heures de travail ; et il était devenu ainsi de toutes mes angoisses et de toutes mes joies de producteur, levant son petit nez aux minutes de repos, me regardant de ses petits yeux clairs. Puis, il était de chacune de mes promenades, s'en allait devant moi de son allure de petit chien à roulettes qui faisait rire les passants, dormait au retour sous ma chaise, passait les nuits au pied de mon lit, sur un coussin. Un lien si fort s'était noué entre nous, que, pour la plus courte des séparations, je lui manquais autant qu'il me manquait.
+
+Et, brusquement, Fanfan redevint un petit chien fou. Il eut deux ou trois crises, à des intervalles éloignés. Ensuite, les crises se rapprochèrent, se confondirent, et notre vie fut affreuse. Quand sa folie circulante le prenait, il tournait, il tournait sans fin. Je ne pouvais plus le garder contre moi, dans mon fauteuil. Un démon le possédait, je l'entendais tourner, pendant des heures, autour de ma table. Mais c'était la nuit surtout que je souffrais de l'écouter, emporté ainsi en cette ronde involontaire, têtue et sauvage, un petit bruit de petites pattes continu sur le tapis. Que de fois je me suis levé pour le prendre dans mes bras, pour le garder ainsi une heure, deux heures, espérant que l'accès se calmerait ; et, dès que je le remettais sur le tapis, il recommençait à tourner. On riait de moi, on me disait que j'étais fou moi-même de garder ce petit chien fou dans ma chambre. Je ne pouvais faire autrement, mon cœur se fendait à l'idée que je ne serais plus là pour le prendre, pour le calmer, et qu'il ne me regarderait plus de ses petits yeux clairs, ses yeux éperdus de douleur, qui me remerciaient.
+
+Ce fut ainsi, dans mes bras, qu'un matin Fanfan mourut, en me regardant. Il n'eut qu'une légère secousse, et ce fut fini, je sentis simplement son petit corps convulsé qui devenait d'une souplesse de chiffon. Des larmes me jaillirent des yeux, c'était un arrachement en moi. Une bête, rien qu'une petite bête, et souffrir ainsi de sa perte, être hanté de son souvenir à un tel point que je voulais écrire ma peine, certain de laisser des pages où l'on aurait senti mon cœur. Aujourd'hui, tout cela est loin, d'autres douleurs sont venues, je sens que les choses que j'en dis sont glacées. Mais, alors, il me semblait que j'avais tant à dire, que j'aurais dit des choses vraies, profondes, définitives, sur cet amour des bêtes, si obscur et si puissant, dont je vois bien qu'on sourit à mon entour, et qui m'angoisse pourtant jusqu'à troubler ma vie.
+
+Oui, pourquoi m'être attaché si profondément au petit chien fou ? Pourquoi avoir fraternisé avec lui comme on fraternise avec un être humain ? Pourquoi l'avoir pleuré comme on pleure une créature chère ? N'est-ce donc que l'insatiable tendresse que je sens en moi pour tout ce qui vit et tout ce qui souffre, une fraternité de souffrance, une charité qui me pousse vers les plus humbles et les plus déshérités ?
+
+Et voilà que j'ai fait un rêve, à l'appel que j'ai reçu de Rome, cette lettre suppliante d'un vieux soldat, qui me demande de venir au secours des bêtes.
+
+Les bêtes n'ont pas encore de patrie. Il n'y a pas encore des chiens allemands, des chiens italiens et des chiens français. II n'y a partout que des chiens qui souffrent quand on leur allonge des coups de canne. Alors, est-ce qu'on ne pourrait pas, de nation à nation, commencer par tomber d'accord sur l'amour qu'on doit aux bêtes ? De cet amour universel des bêtes, par-dessus les frontières, peut-être en arriverait-on à l'universel amour des hommes. Les chiens du monde entier devenus frères, caressés en tous lieux avec la même tendresse, traités selon le même code de justice, réalisant le peuple unique des libertaires, en dehors de l'idée guerroyante et fratricide de patrie, n'est-ce pas là le rêve d'un acheminement vers la cité du bonheur futur ? Des chiens internationaux que tous les peuples pourraient aimer et protéger, en qui tous les peuples pourraient communier, ah ! grand Dieu ! le bel exemple, et comme il serait désirable que l'humanité se mît dès aujourd'hui à cette école, dans l'espoir de l'entendre se dire plus tard que de telles lois ne sont pas faites uniquement pour les chiens !

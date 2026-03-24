@@ -1,0 +1,268 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "AVENTURES DE TROIS RUSSES ET DE TROIS ANGLAIS",
+  "slug": "aventures-de-trois-russes-et-de-trois-anglais",
+  "nombre_chapitres": 23,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Sur les bords du fleuve Orange",
+      "slug": "chapitre-1-sur-les-bords-du-fleuve-orange",
+      "is_part": false,
+      "spine_start": 435,
+      "spine_end_exclusive": 436,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_115.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Présentations officielles",
+      "slug": "chapitre-2-presentations-officielles",
+      "is_part": false,
+      "spine_start": 436,
+      "spine_end_exclusive": 437,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_116.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Le portage",
+      "slug": "chapitre-3-le-portage",
+      "is_part": false,
+      "spine_start": 437,
+      "spine_end_exclusive": 438,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_117.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Quelques mots à propos du mètre",
+      "slug": "chapitre-4-quelques-mots-a-propos-du-metre",
+      "is_part": false,
+      "spine_start": 438,
+      "spine_end_exclusive": 439,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_118.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Une bourgade hottentote",
+      "slug": "chapitre-5-une-bourgade-hottentote",
+      "is_part": false,
+      "spine_start": 439,
+      "spine_end_exclusive": 440,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_119.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Où l'on achève de se connaître",
+      "slug": "chapitre-6-ou-lon-acheve-de-se-connaitre",
+      "is_part": false,
+      "spine_start": 440,
+      "spine_end_exclusive": 441,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_120.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Une base de triangle",
+      "slug": "chapitre-7-une-base-de-triangle",
+      "is_part": false,
+      "spine_start": 441,
+      "spine_end_exclusive": 442,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_121.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Le vingt-quatrième méridien",
+      "slug": "chapitre-8-le-vingt-quatrieme-meridien",
+      "is_part": false,
+      "spine_start": 442,
+      "spine_end_exclusive": 443,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_122.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Un kraal",
+      "slug": "chapitre-9-un-kraal",
+      "is_part": false,
+      "spine_start": 443,
+      "spine_end_exclusive": 444,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_123.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Le rapide",
+      "slug": "chapitre-10-le-rapide",
+      "is_part": false,
+      "spine_start": 444,
+      "spine_end_exclusive": 445,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_124.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Où l'on retrouve Nicolas Palander",
+      "slug": "chapitre-11-ou-lon-retrouve-nicolas-palander",
+      "is_part": false,
+      "spine_start": 445,
+      "spine_end_exclusive": 446,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_125.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Une station au goût de sir John",
+      "slug": "chapitre-12-une-station-au-gout-de-sir-john",
+      "is_part": false,
+      "spine_start": 446,
+      "spine_end_exclusive": 447,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_126.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Avec l'aide du feu",
+      "slug": "chapitre-13-avec-laide-du-feu",
+      "is_part": false,
+      "spine_start": 447,
+      "spine_end_exclusive": 448,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_127.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Une déclaration de guerre",
+      "slug": "chapitre-14-une-declaration-de-guerre",
+      "is_part": false,
+      "spine_start": 448,
+      "spine_end_exclusive": 449,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Un degré de plus",
+      "slug": "chapitre-15-un-degre-de-plus",
+      "is_part": false,
+      "spine_start": 449,
+      "spine_end_exclusive": 450,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_129.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Incidents divers",
+      "slug": "chapitre-16-incidents-divers",
+      "is_part": false,
+      "spine_start": 450,
+      "spine_end_exclusive": 451,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_130.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Les faiseurs de déserts",
+      "slug": "chapitre-17-les-faiseurs-de-deserts",
+      "is_part": false,
+      "spine_start": 451,
+      "spine_end_exclusive": 452,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_131.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Le désert",
+      "slug": "chapitre-18-le-desert",
+      "is_part": false,
+      "spine_start": 452,
+      "spine_end_exclusive": 453,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_132.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Trianguler ou mourir",
+      "slug": "chapitre-19-trianguler-ou-mourir",
+      "is_part": false,
+      "spine_start": 453,
+      "spine_end_exclusive": 454,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_133.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Huit jours au sommet du Scorzef",
+      "slug": "chapitre-20-huit-jours-au-sommet-du-scorzef",
+      "is_part": false,
+      "spine_start": 454,
+      "spine_end_exclusive": 455,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_134.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Fiat lux !",
+      "slug": "chapitre-21-fiat-lux",
+      "is_part": false,
+      "spine_start": 455,
+      "spine_end_exclusive": 456,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_135.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – Où Nicolas Palander s'emporte",
+      "slug": "chapitre-22-ou-nicolas-palander-semporte",
+      "is_part": false,
+      "spine_start": 456,
+      "spine_end_exclusive": 457,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_136.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 23 – Les chutes du Zambèse",
+      "slug": "chapitre-23-les-chutes-du-zambese",
+      "is_part": false,
+      "spine_start": 457,
+      "spine_end_exclusive": 458,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/Ajout_JulesVERNE_20130219_split_137.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/aventures-de-trois-russes-et-de-trois-anglais/image159.png",
+    "images/jules-verne/aventures-de-trois-russes-et-de-trois-anglais/image160.jpg",
+    "images/jules-verne/aventures-de-trois-russes-et-de-trois-anglais/image161.jpg"
+  ]
+}

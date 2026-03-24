@@ -1,0 +1,40 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "FRRITT FLACC"
+slug_oeuvre: "frritt-flacc"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+]
+
+FRRITT FLACC
+
+]
+
+## Chapitre 1
+Frritt ! C'est le vent qui se déchaîne.
+
+Flacc ! C'est la pluie qui tombe à torrents.
+
+Cette rafale mugissante courbe les arbres de la côte volsinienne et va se briser contre le flanc des montagnes de Crimma. Le long du littoral, de hautes roches sont incessamment rongées par les lames de cette vaste mer de la Mégalocride.
+
+Frritt ! Flacc !
+
+Au fond du port se cache la petite ville de Luktrop. Quelques centaines de maisons, avec miradors verdâtres, qui les défendent tant bien que mal contre les vents du large. Quatre ou cinq rues montantes, plus ravines que rues, pavées de galets, souillées de scories que projettent les cônes éruptifs de l'arrière-plan. Le volcan n'est pas loin, -- le Vanglor. Pendant le jour, la poussée intérieure s'épanche sous forme de vapeurs sulfurées. Pendant la nuit, de minute en minute, gros vomissement de flammes. Comme un phare, d'une portée de cent cinquante kerstes, le Vanglor signale le port de Luktrop aux caboteurs, felzanes, verliches ou balanzes, dont l'étrave scie les eaux de la Mégalocride.
+
+De l'autre côté de la ville s'entassent quelques ruines de l'époque crimmérienne. Puis, un faubourg d'aspect arabe, une casbah, à murs blancs, à toits ronds, à terrasses dévorées du soleil. Amoncellement de cubes de pierre jetés au hasard. Vrais tas de dés à jouer, dont les points se seraient effacés sous la patine du temps.
+
+Entre autres, on remarque les Six-Quatre, nom donné à une construction bizarre, avec une toiture carrée, ayant six ouvertures sur une face, quatre sur l'autre.
+
+Un clocher domine la ville, le clocher carré de Sainte-Philfilène, avec cloches suspendues dans l'entrefend des murs, et que l'ouragan met quelquefois en branle.
+
+Mauvais signe. Alors on a peur dans le pays.
+
+Telle est Luktrop. Puis, des habitations, des huttes misérables, éparses dans
+
+Un drame au Mexique la campagne, au milieu des genêts et des bruyères, passim, comme en Bretagne. Mais on n'est pas en Bretagne. Est-on en France ? Je ne sais. En Europe ? Je l'ignore.
+
+En tout cas, ne cherchez pas Luktrop sur la carte, -- même dans l'atlas de Stieler.

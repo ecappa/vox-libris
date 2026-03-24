@@ -1,0 +1,184 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES TROIS VILLES : ROME",
+  "slug": "les-trois-villes-rome",
+  "nombre_chapitres": 16,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 734,
+      "spine_end_exclusive": 735,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_259.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 735,
+      "spine_end_exclusive": 736,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_260.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 736,
+      "spine_end_exclusive": 737,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_261.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 737,
+      "spine_end_exclusive": 738,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_262.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 738,
+      "spine_end_exclusive": 739,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_263.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 739,
+      "spine_end_exclusive": 740,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_264.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 740,
+      "spine_end_exclusive": 741,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_265.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 741,
+      "spine_end_exclusive": 742,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_266.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 742,
+      "spine_end_exclusive": 743,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_267.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 743,
+      "spine_end_exclusive": 744,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_268.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 744,
+      "spine_end_exclusive": 745,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_269.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 745,
+      "spine_end_exclusive": 746,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_270.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 746,
+      "spine_end_exclusive": 747,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_271.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIII",
+      "slug": "xiii",
+      "spine_start": 747,
+      "spine_end_exclusive": 748,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_272.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XIV",
+      "slug": "xiv",
+      "spine_start": 748,
+      "spine_end_exclusive": 749,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_273.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XV",
+      "slug": "xv",
+      "spine_start": 749,
+      "spine_end_exclusive": 750,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_274.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XVI",
+      "slug": "xvi",
+      "spine_start": 750,
+      "spine_end_exclusive": 752,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_275.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola2_split_276.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-trois-villes-rome/Zola2_image014.jpg"
+  ]
+}

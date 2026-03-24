@@ -1,0 +1,122 @@
+::: WordSection
+[
+]{.calibre24 lang="EN-US"}
+
+!{.calibre1}[
+
+[ROMANS]{lang="EN-US"}
+
+[LE VOEU D'UNE MORTE]{lang="EN-GB"}
+
+
+[[Liste des romans]{.calibre4}](../Text/Zola2_split_000.htm){.pcalibre .calibre3 .pcalibre1}
+
+]{.calibre5} [!{.calibre7}]{.calibre5}
+
+## []{#_Toc368778570 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368778232 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777894 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777556 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368777218 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776542 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368776204 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775866 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775528 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368775190 .pcalibre .calibre3 .pcalibre1}[]{#_Toc368774852 .pcalibre .calibre3 .pcalibre1}[X]{#_Toc368774514 .pcalibre .calibre3 .pcalibre1} {#calibre_toc_59 .calibre25}
+
+[La propriété de M. Tellier, le Mesnil-Rouge, comme on la nommait, s'étendait sur la pente douce d'un coteau qui descendait vers la Seine. L'habitation était une de ces grandes demeures irrégulières, auxquelles chaque propriétaire ajoute un corps de logis, et qui finissent par ressembler à de petits villages, avec leurs toits de toutes les formes et de toutes les hauteurs. Le regard, au milieu de cet entassement de murs, ne retrouvait qu'avec peine la maison primitive, bâtie en briques, avec deux ailes en retour. Les fenêtres, longues et étroites, donnaient sur une pelouse, dont le gazon allait jusqu'à la rivière.]{.calibre11}
+
+[Derrière le logis, il y avait un grand parc, qui occupait toute la hauteur du coteau. Les arbres, d'un vert sombre dans le bleu du ciel, formaient un immense rideau tiré sur le vaste horizon.]{.calibre11}
+
+[Puis, de l'autre côté de la Seine, la plaine s'élargissait à perte de vue. On apercevait çà et là les taches grises des villages, au milieu des lacs de verdure. Les cultures faisaient de grands carrés de couleurs pâles, coupés par les lignes noires des peupliers.]{.calibre11}
+
+[Et la Seine descendait avec de lents détours. Elle était bordée d'arbres qui la cachaient à demi et qui coupaient les terres d'une longue coulée de feuillages.]{.calibre11}
+
+[En face du Mesnil-Rouge, la rivière dévalait, plus rapide, encombrées d'îles qui la divisaient en petits bras. La végétation poussait à l'aventure, dans ces îles : les herbes y croissaient très hautes, les arbres y dressaient leur tranquillité fière. Dans le pays, les gens n'y allaient guère qu'une fois l'an, pour dénicher les corbeaux. Elles étaient de charmantes solitudes vertes, à demi sauvages, où l'on n'entendait que le bruit des eaux, les cris des martins-pêcheurs et des ramiers.]{.calibre11}
+
+[Rien n'était plus charmant que les canaux étroits qui séparaient les îles. Les arbres, étendant leurs branches, en faisaient des avenues discrètes, bordées de feuilles. En l'air, on apercevait des coins de ciel bleu. On se trouvait là sous une voûte de verdure, haute comme la nef d'une église, dans une lumière verdâtre, d'une fraîcheur pénétrante. Il y avait des battements d'ailes sur les rives, et l'eau chantait entre les troncs submergés sa chanson légère et monotone.]{.calibre11}
+
+[Au fond des avenues, des trous ronds laissaient voir des nappes de ciel. Et, à mesure qu'on avançait, les trous s'agrandissaient les lointains se montraient dans une vapeur d'un violet tendre.]{.calibre11}
+
+[Alors, on voyait la Seine, blanche au grand soleil, avec ses rives boisées qui reflétaient dans l'eau des ombres noires. Les horizons étaient calmes et amples, faits de lignes simples. Le paysage, plat et immense, s'étendait sous un large pan de ciel, où frissonnaient de petits nuages pâles.]{.calibre11}
+
+[On eût dit qu'un fleuve de lait avait passé sur cette nature féconde. La terre, sans convulsions, sans rochers, donnait grassement la vie à des arbres qui grandissaient droits et forts, comme des enfants vigoureux. Et les rangées de saules, d'une froideur douce, baignaient leurs longues branches grises dans les eaux claires.]{.calibre11}
+
+[Quand le soleil montait, pendant les chaudes journées de juillet, le paysage entier devenait d'un blond lumineux. Les peupliers seuls faisaient des barres sombres sur le ciel blanc.]{.calibre11}
+
+[Contrée douce et consolante, horizons d'une largeur sereine, dans lesquels le coeur s'apaisait. Lorsque Jeanne, le lendemain de son arrivée, ouvrit sa fenêtre et aperçut la plaine immense, elle sentit des larmes monter à ses yeux, et elle descendit en courant, pour vivre dans cet air frais qui gonflait sa poitrine d'une joie inconnue.]{.calibre11}
+
+[Elle redevint enfant. L'existence fiévreuse qu'elle avait menée pendant un hiver, ces soirées brûlantes, cette vie pleine de secousses, avaient passé sur elle comme un orage, agitant sa chair, mais ne pénétrant pas jusqu'à l'âme. Dans les fraîcheurs calmes de la jeune saison, elle retrouva subitement ses gaietés, ses tranquillités de pensionnaire. Il lui sembla qu'elle se trouvait encore au couvent, lorsqu'elle était toute petite et qu'elle courait à perdre haleine sous les arbres du préau. Et ici le préau était toute la vaste campagne, la pelouse et le parc, les îles et les terres qui disparaissaient dans la brume de l'horizon.]{.calibre11}
+
+[Si elle l'eut osé, elle aurait donc à courir et à se cacher derrière les troncs des vieux chênes. C'était tout un réveil de jeunesse. Ses dix-huit ans, dont elle étouffait la turbulence dans les salons, de peur de chiffonner ses dentelles, chantaient ici leur chanson joyeuse. Elle se sentait vivre, et elle était emportée par des élans soudains qui la polissaient à vagabonder, à rire comme un garçon. Cette montée de sève n'était d'ailleurs encore que physique, car elle n'entendait pas son coeur battre dans cette sérénité des champs ; et elle s'abandonnait simplement à la vie ardente qui brûlait en elle.]{.calibre11}
+
+[Mme Tellier la regardait galoper en haussant les épaules. Pour elle, le Mesnil-Rouge était un lieu d'exil, où la mode la retenait pendant les mois d'été. Elle s'y ennuyait aristocratiquement, passant ses journées à bâiller et à compter les semaines qui la séparaient de l'hiver. Lorsque la nostalgie de Paris s'emparait d'elle trop vivement, elle s'efforçait de s'intéresser aux arbres, elle allait jusqu'au bord de la Seine pour voir couler l'eau.]{.calibre11}
+
+[Elle en revenait toujours profondément découragée ; rien ne lui semblait plus sot ni plus malpropre qu'une rivière ; et, quand elle entendait vanter les plaisirs champêtres, il lui prenait des étonnements profonds. Pour faire comme tout le monde, elle se pâmait dans son salon, chaque fois qu'il était question de grands bois, de ruisseaux ombreux ; mais, au fond, elle nourrissait une haine féroce contre les herbes qui tachent les robes et contre le soleil qui brûle la peau.]{.calibre11}
+
+[Ses grandes promenades étaient de faire le tour des pelouses. Elle avançait avec précaution, ne quittant pas des yeux l'allée, par peur des accidents ; les feuilles sèches l'épouvantaient, et, un jour, elle poussa des cris, parce qu'une ronce lui avait légèrement égratigné la cheville.]{.calibre11}
+
+[Lorsque Jeanne courait follement, elle la regardait d'un air de pitié et de chagrin. Elle espérait mieux de cette enfant, qui avait si bien joué son rôle de coquette pendant tout l'hiver.]{.calibre11}
+
+[« Bon Dieu ! Jeanne, criait-elle, que vous êtes commune ! On dirait vraiment que vous vous amusez\... Ah ! Seigneur, voici un grand trou plein d'eau ! Venez donc me donner la main. »]{.calibre11}
+
+[Et la jeune fille, voulant avoir l'air aussi distingué que sa tante, se mettait à sautiller comme elle, poussant de petits cris d'effroi. Elle n'était pas effrayée du tout, elle obéissait simplement à Mme Tellier, qu'elle regardait comme souveraine en matière de goût. Puis, peu à peu, ses pieds devenaient fiévreux ; elle pressait le pas, marchant en plein dans la boue, ce qui la faisait rire aux éclats ; et elle recommençait à courir.]{.calibre11}
+
+[La seule joie de la maison était la venue d'un visiteur. Ces jours-là, Mme Tellier rayonnait. Elle tirait les rideaux pour ne plus voir les arbres, et elle se croyait à Paris, causant des mille sottises mondaines, se grisant des senteurs lointaines des soirées. Parfois, lorsqu'elle oubliait de fermer les rideaux et qu'elle venait, en plein bavardage, à jeter un regard sur le large horizon, il lui prenait de véritables peurs : elle se sentait toute petite dans cette immensité, et son orgueil de femme en souffrait.]{.calibre11}
+
+[Jeanne elle-même n'était pas insensible à ces souvenirs qui lui venaient de Paris. Elle restait alors dans la grande salle du Mesnil-Rouge ; elle questionnait les visiteurs et reprenait son rôle de belle railleuse. Pour un jour, elle oubliait la douceur de l'air, la joie du ciel et des eaux. Elle n'était plus le gamin qui courait dans les allées, elle redevenait cette belle demoiselle dédaigneuse qui enrageait tant Daniel.]{.calibre11}
+
+[Daniel, ces jours-là, s'enfermait dans la petite chambre qu'il avait choisie au dernier étage, en haut d'une espèce de pigeonnier. Il travaillait, de désespoir, à l'ouvrage du député, ou bien il passait tout seul dans une île, et là, couché parmi les herbes hautes, il attendait avec colère que les visiteurs lui eussent rendu sa chère fille.]{.calibre11}
+
+[Cet esprit simple et doux éprouvait de véritables délices à vivre ainsi en plein air, en pleine nature. Il avait trouvé au Mesnil-Rouge le milieu qui lui convenait, il y goûtait pour la première fois des heures charmantes. Son existence jusque-là s'était passée dans des cachots, et il ignorait qu'il fut né pour la vie libre. Il se fit un tel calme dans son être, qu'une immense espérance lui vint au coeur.]{.calibre11}
+
+[Les jours d'ennui, lorsque le Mesnil-Rouge était vide de visiteurs, Jeanne lui appartenait.]{.calibre11}
+
+[Il s'était peu à peu établi une familiarité entre eux. La jeune fille, les premiers jours, regardait les îles avec une envie d'enfant. Son imagination travaillait, elle aurait voulu savoir ce qui se passait derrière ces rideaux de feuilles impénétrables.]{.calibre11}
+
+[Mais son oncle était bien trop solennel pour aller risquer sa gravité dans les ronces, et sa tante avait en horreur ces bouquets d'arbres plantés dans l'eau, qui devaient être pleins de serpents et de vilaines bêtes.]{.calibre11}
+
+[Daniel lui apparut alors comme un honnête garçon qui pouvait lui rendre un grand service. Chaque matin, elle le voyait prendre le canot et disparaître dans l'ombre noire des petits bras. Un jour, elle lui demanda d'aller avec lui. Elle fit cela en toute innocence, pour contenter sa curiosité, sans même songer que Daniel était un homme.]{.calibre11}
+
+[Lui se troubla, et il s'expliqua son trouble par la joie qu'il éprouvait. Et, depuis ce jour, Jeanne l'accompagna souvent dans ses promenades.]{.calibre11}
+
+[Mme Tellier, pour qui Daniel n'était qu'un domestique, ne voyait aucun mal à ce que sa nièce fût promenée par lui. Elle s'étonnait simplement du mauvais goût de Jeanne, qui revenait avec des jupes salies. Quant au député, il en était arrivé à avoir du respect pour son secrétaire.]{.calibre11}
+
+[Ce fut un emportement. Les jeunes gens partaient vers le soir, une heure avant le crépuscule. Dès que le canot se trouvait dans un des petits bras, Daniel relevait les rames, et ils descendaient doucement au fil du courant. Ils ne parlaient pas. Jeanne, renversée à demi, songeait, en écoutant le bruit léger que faisait le bout de ses doigts plongés dans l'eau. Et ils allaient ainsi, dans la lueur verte et transparente, au milieu d'un silence frissonnant.]{.calibre11}
+
+[Puis, ils descendaient dans une île, et là, c'étaient des rires d'enfant, des courses folles. Quand ils avaient découvert une étroite clairière, au milieu des taillis, ils y reprenaient haleine en causant comme de vieux camarades. Jamais Daniel ne voulut s'asseoir. Lorsque sa compagne se reposait un instant, il se tenait debout. Il s'était exercé à monter aux arbres, il allait chercher les nids. Et, si Jeanne s'apitoyait sur le sort des malheureux petits, il grimpait de nouveau pour les replacer sur les branches hautes.]{.calibre11}
+
+[Le retour était d'une douceur extrême. Ils s'attardaient sous les voûtes de feuilles, où il faisait tout noir. La fraîcheur devenait pénétrante, les tiges des saules sifflaient doucement en frôlant leurs vêtements. L'eau calme semblait un miroir d'acier bruni.]{.calibre11}
+
+[Et Daniel, lorsqu'il avait allongé le chemin le plus possible, se décidait enfin à quitter les îles. La Seine s'étendait alors devant eux avec des blancheurs d'argent. Il faisait jour encore, un jour pâle d'une mélancolie tendre.]{.calibre11}
+
+[Jeanne, assise au fond de la barque, rasait du regard la surface de l'eau. La rivière lui semblait un autre ciel, dans lequel les arbres s'enfonçaient avec des ombres plus énergiques. Une immense sérénité berçait les campagnes, il venait on ne savait d'où un silence plein de chansons adoucies. Les horizons s'élargissaient, légers et tremblants, comme une vision dernière qui va s'évanouir dans l'ombre.]{.calibre11}
+
+[Une paix suprême s'était faite chez Daniel. Il s'oubliait, dans cette vie paisible qu'il menait. Il sentait bien qu'il n'était pas né pour prêcher, et que le rôle de précepteur lui allait fort mal. Il savait aimer, rien de plus. Quand il se souvenait de ce maudit hiver où il avait joué un personnage si ridicule, une angoisse le prenait. Combien il était heureux maintenant, dans l'espérance, dans l'apaisement de ses affections !]{.calibre11}
+
+[C'était ainsi qu'il ne songeait plus ni au passé ni à l'avenir. Il lui suffisait de voir Jeanne courir parmi les herbes, se plaire dans la solitude des îles, lui témoigner une franche amitié. Selon lui, tout allait bien : le présent était bon, la jeune fille allait oublier ses mauvaises fièvres. Le grand air l'avait rajeuni lui-même, et il voyait autour de lui comme un grand épanouissement de tendresse.]{.calibre11}
+
+[Il vécut toute la belle saison dans une confiance superbe. Il n'eut pas un mot de reproche, pas un regard sévère. Tout ce que Jeanne faisait était bien fait, et il trouvait des prétextes pour excuser ses heures mauvaises. La vérité était que la simple présence de la jeune fille le jetait dans des extases qui lui ôtaient le sentiment de la réalité. Quand elle était là, dans la barque, il sentait une douceur glisser au fond de son être. Il souhaitait ardemment l'heure du départ ; il inventait des courses lointaines pour la garder plus longtemps. Alors, il la trouvait si belle et si bonne, qu'il éprouvait des remords de l'avoir tourmentée. Jamais plus il ne la gronderait.]{.calibre11}
+
+[L'été se passa ainsi, dans l'espérance. Il n'était pas sorti une seule fois de son rôle de guide infatigable et prévoyant ; et elle avait fini par l'accepter comme un camarade de jeu, dont elle abusait avec la tyrannie des enfants.]{.calibre11}
+
+[L'avant-veille du départ pour Paris, Daniel et Jeanne voulurent aller dire adieu aux îles. Ils partirent tous deux, ils s'oublièrent longtemps dans les petits bras. L'automne était venu, des feuilles jaunes descendaient lentement le courant, et le vent, parmi les branches dénudées, avait des soupirs mélancoliques.]{.calibre11}
+
+[La promenade fut triste. Il faisait presque froid. La jeune fille se serrait dans un châle qu'elle avait jeté sur ses épaules ; elle ne parlait pas, elle regardait les pauvres feuillages rougis, et elle les trouvait bien laids. Daniel, toujours confiant, s'abandonnait au charme de cette course dernière, sans même songer au terrible Paris qui se dressait devant lui.]{.calibre11}
+
+[Quand ils quittèrent les îles, ils aperçurent de loin trois personnes qui les attendaient sur la berge. Ils reconnurent M. Tellier à l'énorme tache qu'il faisait sur le vert de la pelouse. Les deux autres personnes devaient être des visiteurs dont les traits leur échappaient.]{.calibre11}
+
+[Puis, à mesure que la barque s'avançait, une inquiétude s'emparait de Daniel. Il reconnaissait les visiteurs, il se demandait ce qu'ils venaient faire au Mesnil-Rouge.]{.calibre11}
+
+[Et Jeanne, sautant lestement dans l'herbe :]{.calibre11}
+
+[« Tiens ! Cria-t-elle, M. Lorin et mon père ! »]{.calibre11}
+
+[Elle alla embrasser M. De Rionne, puis se dirigea vers le château, en compagnie de Lorin, qui la faisait rire bruyamment avec ses nouvelles de Paris.]{.calibre11}
+
+[Daniel resta seul sur la rive, désolé, les larmes aux yeux, voyant bien que sa félicité était morte.]{.calibre11}
+
+[Le soir, après le dîner, Lorin l'aborda, et d'un ton de supériorité moqueuse :]{.calibre11}
+
+[« Comme vous ramez, mon cher ! lui dit-il. Je n'aurais jamais cru, en vous voyant, que vous eussiez des bras pareils\... Je vous remercie d'avoir promener Jeanne toute la saison. »]{.calibre11}
+
+[Et, comme Daniel le regardait d'un air surpris, prêt à refuser ses remerciements :]{.calibre11}
+
+[« Vous ne savez pas, ajouta-t-il plus bas, je commets décidément la folie dont je vous ai parlé.]{.calibre11}
+
+[--- Quelle folie ? demanda Daniel d'une voix étranglée.]{.calibre11}
+
+[--- Oh ! Une belle et bonne folie\... Elle n'a pas le sou, et elle va mordre diablement dans ma fortune\... J'épouse Jeanne. »]{.calibre11}
+
+[Daniel le regarda, stupide. Puis, il remonta dans sa chambre, sans pouvoir trouver une parole.]{.calibre11}

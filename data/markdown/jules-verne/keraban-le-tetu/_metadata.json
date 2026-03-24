@@ -1,0 +1,64 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "KERABAN LE TÊTU",
+  "slug": "keraban-le-tetu",
+  "nombre_chapitres": 33,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1032,
+      "spine_end_exclusive": 1049,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_643.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_644.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_645.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_646.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_647.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_648.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_649.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_650.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_651.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_652.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_653.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_654.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_655.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_656.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_657.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_658.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_659.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 1049,
+      "spine_end_exclusive": 1065,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_660.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_661.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_662.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_663.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_664.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_665.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_666.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_667.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_668.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_669.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_670.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_671.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_672.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_673.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_674.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_675.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

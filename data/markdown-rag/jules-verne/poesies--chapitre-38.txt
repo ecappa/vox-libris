@@ -1,0 +1,36 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 38"
+slug_section: "chapitre-38"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 38 -- Le silence dans une église
+Au levant de la nef, penchant son humide urne,
+La nuit laisse tomber l'ombre triste du soir ;
+Chasse insensiblement l'humble clarté diurne ;
+Et la voûte s'endort sur le pilier tout noir ;
+
+Le silence entre seul sous l'arceau taciturne,
+L'ogive aux vitraux bruns ne se laisse plus voir ;
+L'autel froid se revêt de sa robe nocturne ;
+L'orgue s'éteint ; tout dort dans le sacré dortoir !
+
+Dans le silence, un pas résonne sur la dalle ;
+Tout s'éveille, et le son élargit sa spirale,
+L'orgue gémit, l'autel tressaille de ce bruit ;
+
+Le pilier le répète en sa cavité sombre ;
+La voûte le redit, et s'agite dans l'ombre...
+Puis tout s'éteint, tout meurt, et retombe en la nuit !

@@ -1,0 +1,979 @@
+---
+auteur: "Victor Hugo"
+slug_auteur: "victor-hugo"
+oeuvre: "INEZ DE CASTRO"
+slug_oeuvre: "inez-de-castro"
+type: "oeuvre-complete"
+---
+
+# INEZ DE CASTRO
+(1821-1822)
+
+Victor Hugo
+
+THÉÂTRE
+
+!
+
+## Table des matières
+> Personnages
+
+> Acte premier
+
+> Scène I
+
+> Scène II
+
+> Scène III
+
+> Scène IV
+
+> Scène V
+
+> Scène VI
+
+> Scène VII
+
+> Premier Intermède
+
+> Scène I
+
+> Scène II
+
+> Acte deuxième
+
+> Scène I
+
+> Scène II
+
+> Scène III
+
+> Scène IV
+
+> Scène V
+
+> Scène VI
+
+> Scène VII
+
+> Scène VIII
+
+> Scène IX
+
+> Scène X
+
+> Scène XI
+
+> Scène XII
+
+> Second Intermède
+
+> Acte troisième
+
+> Scène I
+
+> Scène II
+
+> Scène III
+
+> Scène IV
+
+> Scène V
+
+> Scène VI et dernière
+
+illustration: Capture d'écran 2013-03-27 à 17
+
+## Personnages.
+ALPHONSE, le Justicier, roi de Portugal
+Don PEDRO, infant de Portugal.
+LA REINE.
+INEZ DE CASTRO, fille d'honneur de la Reine.
+LES DEUX ENFANTS D'INEZ.
+L'ALCADE D'ALPUNAR.
+ROMERO, paysan.
+ALIX, fille de Romero.
+GOMEZ, amoureux d'Alix.
+ALBARACIN, chef des Maures.
+LE CHANCELIER DE PORTUGAL
+LE PRÉSIDENT DU HAUT CONSEIL.
+LE HÉRAUT DE JUSTICE.
+Juges, Gardes, Exécuteurs. Un Greffier, Geôliers.
+Villageois, Piqueurs, Veneurs
+Grands, Dames, Officiers.
+Guerriers maures, jeunes filles maures
+
+(La scène est à Lisbonne et aux environs.)
+
+## Acte premier
+### Scène I
+Le théâtre représente une forêt, à droite est une chaumière.
+
+ UN MENDIANT, L'ALCADE D'ALPONAR.
+Ils arrivent ensemble de l'intérieur de la forêt
+
+LE MENDIANT (attirant à lui l'alcade, lui montre d'un air mystérieux la chaumière).
+C'est ici !
+L'ALCADE (du même ton).
+ Cette chaumière renferme les enfants du prince de Portugal.
+LE MENDIANT.
+Les enfants de don Pedro et d'Inez.
+L'ALCADE.
+Et quel gage de certitude me donneras-tu ?...
+LE MENDIANT.
+Alcade d'Alpunar, est-ce à toi de douter de mes paroles ? Les deux enfants nés de l'union secrète de don Pedro et d'Inez sont cachés dans cette chaumière. Entre et tu les verras, si tu refuses de me croire.
+L'ALCADE.
+Je te crois. C'est toi qui m'as dit tout ce que je sais sur cette ténébreuse histoire. L'infant don Pedro retarde son union avec la nièce de la reine, l'invasion des Maures rend, dit-il, sa présence nécessaire à l'armée ; c'est toi qui m'as fait connaître et m'as mis à même d'apprendre à la reine le véritable motif de ses retards, tu m'as révélé son mariage secret avec dona Inez de Castro ; il me fallait des preuves de cette alliance ; aujourd'hui tu me découvres l'asile où sont cachés les deux enfants, fruits de ces amours clandestins. Ecoute, tu n'es pas un mendiant, toi qui connais les secrets des rois, dis-moi qui tu es. Mes bienfaits et ceux de la reine récompenseront ton zèle pourvu que ta discrétion l'égale.
+LE MENDIANT.
+Alcade d'Alpunar, tu parlais tout à l'heure de l'invasion des Maures ?...
+L'ALCADE.
+ Oui, mais ton nom ? C'est ton nom que je demande. Compte sur ma reconnaissance...
+LE MENDIANT.
+ Alcade, je suis Albaracin, le chef des Maures.
+L'ALCADE.
+ Qu'entends-je ? Vous, ce chef redouté !...
+ALBARACIN.
+ La seule présence de l'infant don Pedro au camp portugais m'empêche de pénétrer jusqu'à Lisbonne ; des soldats commandés par lui sont invincibles. J'ai dû chercher un moyen de me délivrer de cet ennemi formidable ; je l'ai trouvé. Mes émissaires ont découvert le mariage caché de l'héritier du trône avec une fille d'honneur de la reine. Alors, sous ce déguisement, je suis venu à toi, alcade, à toi, le confident des secrets de cette reine. --- Je n'en ai point rougi. Le roi Boabdil venait ainsi souvent s'asseoir sous la tente de l'ennemi. --- Je t'ai appris le mariage clandestin de l'infant, je te livre ses deux enfants ; maintenant c'est aux fureurs de cette reine à me servir. Les périls de tout ce qu'il a de cher au monde rappelleront don Pèdre à Lisbonne. Je ne tarderai pas à l'y suivre, car je ne crains pas l'armée, mais seulement le général.
+L'ALCADE.
+ Je ne puis revenir de mon étonnement, de mon effroi...
+ALBARACIN.
+ Alcade, nous avons chacun notre profit dans cette aventure. Que ta reine déploie toute sa vengeance sur Inez et ses deux enfants ; plus leurs jours seront menacés, plus ma victoire sera certaine.
+L'ALCADE.
+ Seigneur...
+ALBARACIN.
+ Eh bien ! tu livres ton pays à l'invasion étrangère, qu'importe ! Alcade d'Alpunar, tu seras corrégidor de Lisbonne.
+L'ALCADE.
+ Croyez, seigneur, que je ne veux servir que les intérêts de la reine...
+ALBARACIN.
+ Alcade, je viens de te dire mon secret ; cela te prouve assez combien je te méprise. Adieu ! (Il sort.)
+L'ALCADE.
+ Oh ! que n'ai-je avec moi quatre alguazils ! tu ne reverrais jamais ton camp de pirates et de corsaires, audacieux Albaracin ! Et moi, quelle bonne fortune ! Mettre à la fois la main sur le général maure et sur les enfants d'Inez ! Allons, il faut se contenter de cette dernière capture. --- (La porte de la chaumière s'ouvre.) Hé, mais les voilà justement qui sortent, éloignons-nous. (Il se retire au fond du théâtre.)
+
+### Scène II
+L'ALCADE (au fond du théâtre), ROMERO. LES DEUX ENFANTS.
+
+ROMERO (pendant que les enfants jouent sur la scène, il se promène rêveur sans voir l'alcade.)
+Pauvres enfants ! si je comprends rien à leur sort, je veux avoir volé les reliques de Notre-Dame-Da-Monte. --- Oui, voilà deux mois qu'ils sont dans ma chaumière qu'on a choisie sans doute à cause de son isolement ; mais quels sont leurs parents ? Je crois que Dieu le sait mieux que moi ; --- à moins que leur mère ne soit cette belle dame qui vient de temps en temps les voir comme en cachette, et qui pleure. --- Vraiment, à chaque visite elle laisse une bourse d'or qui contient plus de dollars que le malin diable n'en offrit à saint Antoine dans la tentation ; elle appartient à la cour sans doute. --- Mais qu'importe tout cela ? Je lui dois ma fortune, elle peut compter sur mon dévouement. Car me voilà riche, et ce pauvre Gomez peut maintenant chercher une autre femme que ma fille Alix. --- Comme ils jouent, ces chers petits enfants ! --- Que signifie encore cette recommandation qu'on me fait de changer leurs noms de baptême !... Qu'importe qu'on s'appelle Hilarion ou Andreo, si l'on n'est pas fils d'une femme qui n'est point mariée !... mais chut ! ces innocents paient peut-être quelque grand crime ou quelque insigne folie... (Il aperçoit l'alcade.) Que vois-je venir là ? C'est l'alcade d'Alpunar. Peste soit... Rentrez, enfants.
+L'ALCADE.
+Dieu vous garde, père Romero. Vous avez là deux jolis enfants. Ne les renvoyez donc pas.
+ROMERO.
+(A part.) Que ta langue t'étrangle ! (Haut.) Mille grâces, seigneur alcade,... des enfants peuvent gêner... (aux enfants, vite et baissant la voix) Rentrez donc, rentrez.
+L'ALCADE.
+ Non, qu'ils restent, ils sont charmants. Mais il me semblait, père Romero, que vous n'aviez qu'une fille...
+
+ROMERO.
+En effet, seigneur alcade ; mais ce sont les enfants de mon neveu Perez... qui me les a envoyés au moment où il a été requis de se joindre à la milice qui garde les côtes de l'invasion des pirates maures.
+LE PETIT GARÇON.
+Cela n'est pas vrai.
+L'ALCADE.
+ Hum ! que dit-il donc là ? (A part.) Bon !
+ROMERO.
+(Bas à l'enfant.) Te tairas-tu ? Ose dire encore un mot. (Haut.) Il parle à sa soeur sans doute.
+L'ALCADE.
+Oui... --- On dit qu'une grande dame vient les voir quelquefois.
+L'ENFANT.
+ C'est...
+ROMERO (bat à l'enfant).
+Tais-toi donc ! (Haut) C'est leur marraine qui leur apporte quelques présents de leur âge.
+L'ALCADE.
+Quelle est leur marraine, père Romero ?
+ROMERO.
+La... la duchesse de...de Rivas...
+L'ENFANT.
+ Non.
+
+ROMERO (avec colère).
+ Cesseras-tu, Gil, de parler avec ta soeur ?
+L'ENFANT (fièrement).
+Je ne m'appelle point Gil, je m'appelle don Pèdre.
+L'ALCADE (à part).
+ Don Pèdre ! bien, c'est cela.
+ROMERO (à î alcade).
+ Si vous vouliez entrer dans ma cabane, pour vous rafraîchir ?
+ L'ARCADE.
+Mille grâces, mon cher Romero, ces enfants m'intéressent !
+
+ROMERO (à part). Le maudit homme ! les damnés enfants !
+L'ALCADE (à la petite fille).
+ Et vous, ma chère fille, comment vous appelle-t-on ?
+LA PETITE FILLE (après une révérence).
+ Francisca. On m'appelait auparavant Inezilla.
+L'ALCADE (à part).
+ Don Pèdre ! Inez ! à merveille !
+LE PETIT GARÇON.
+Oui, dona Inezilla. C'était votre nom quand nous demeurions dans le vieux château et que le beau prince nous nommait ses enfants.
+
+ROMERO.
+Songez au moins, seigneur alcade, qu'il ne sait ce qu'il dit. (A part) Miséricorde !
+
+L'ALCADE.
+(A part) La chose est sûre, le nid est trouvé. Allons tout dire à la reine. (Haut) Salut, père Romero, que la sainte Vierge vous assiste !
+
+ROMERO.
+Adieu, seigneur alcade ! (A part) Que les démons l'enlèvent !
+
+### Scène III
+ROMERO.
+Cet infernal alcade ! De quoi vient-il se mêler là ? Allons, enfants, rentrez, et toi, Gil, ne t'avise plus de me démentir une autre fois. (Les enfants rentrent dans la cabane) Voyons, qu'est-ce ? Voici Alix et ce Gomez ! Que me veulent-ils avec leur mine effarée ?
+
+### Scène IV
+ROMERO, ALIX, GOMEZ
+Pendant cette seine, on entend plusieurs fois le bruit du cor dans le bois
+
+ALIX.
+Comment ! Est-ce bien vrai, mon père ?...
+
+ROMERO.
+Quoi ?
+GOMEZ.
+Seigneur Romero, mon père m'a dit...
+ALIX.
+Que vous ne vouliez plus me marier avec Gomez.
+
+ROMERO.
+Votre père vous a dit vrai, Gomez.
+ALIX.
+O ciel ! et pourquoi donc, mon père ?
+ROMERO.
+Far notre mère de Atocha, les jeunes filles interrogent maintenant leurs pères comme la très sainte inquisition interroge les hérétiques.
+GOMEZ.
+Souffrez au moins que je vous demande, seigneur Romero, si vous avez quelque reproche à me faire ?
+
+ROMERO.
+Aucun.
+GOMEZ.
+Eh bien ! alors pourquoi donc me refuser mon Alix après me l'avoir tant promise ?
+ROMERO.
+Je ne saurais vous dire, mon cher Gomez, mais cela ne se peut plus.
+ALIX.
+Mon père !
+GOMEZ.
+Moi qui menais tous les jours votre jument blanche à l'abreuvoir de Horcarral... !
+
+ROMERO.
+Cela est vrai.
+GOMEZ.
+Moi qui ai contraint le nécroman Zulco de lever le sort qu'il avait jeté sur vos moutons...
+ROMERO.
+Je ne le conteste pas.
+GOMEZ.
+Moi qui vous ai cédé ce morceau des saints vêtements du bienheureux Jean-Baptiste que m'avait légué ma grand'mère...
+ROMERO (avec impatience).
+Fort bien, fort bien, Gomez ! Épargnez-vous des paroles inutiles. Je ne puis vous donner Alix. J'en suis fâché, que voulez-vous ? Les affaires ont changé.
+GOMEZ.
+Quoi ! Auriez-vous éprouvé quelque malheur, quelque perte ? Dites, seigneur Romero, et sur-le-champ, ma cabane, mes filets, mon bateau, tout est vendu pour vous.
+
+ROMERO.
+(A part.) Bon jeune homme ! il m'afflige ; mais, dans le fait, ma fille est devenue riche, et les doublons de la belle dame l'élèvent au-dessus d'un pêcheur.
+ALIX.
+Hé bien ! mon père !
+
+ROMERO.
+Bien désolé, ma chère fille ; mais j'ai réfléchi ; la naissance de Gomez...
+GOMEZ.
+Seigneur Romero, je suis le fils d'un honnête pêcheur.
+
+ROMERO.
+Il n'y en a pas de plus honnête sur toute la côte d'Ortiz à Pilavera ; mais savez-vous, mon cher Gomez, que l'un de mes ancêtres a été greffier de l'alcade d'Alpuñar ?
+GOMEZ.
+J'ignorais...
+ALIX.
+Mon père, est-ce une raison pareille qui vous fera décider le malheur de votre fille ? Je vous en supplie.
+
+ROMERO.
+Allons, jeune fille, il y a du chanvre à filer chez votre mère, et les heures qu'on donne aux larmes sont perdues pour le travail.
+ALIX.
+Non, vous m'écouterez, mon père. Je vous fléchirai. Hélas ! Gomez est toute mon espérance et toute ma joie. Viens, Gomez, aide-moi à l'attendrir ; dis-lui que tu m'aimes, que tu me rendras heureuse... Mon père, ayez pitié de moi, de mes larmes, ô Dieu (Elle tombe à ses pieds.)
+
+### Scène V
+LES PRECEDENTS, L'ALCADE, LE ROI, LA REINE, INEZ, DAMES ET OFFICIERS.
+(Toute la cour en habits de chatte.) Valets de pied, Piqueurs, villageois, etc.
+
+ L'ALCADE.
+Notre seigneur le roi !
+ALIX ET GOMEZ.
+Le roi !
+ROMERO.
+Le roi ! (Bas à Alix.) Relevez-vous, ma fille.
+LE ROI.
+Qu'est-ce donc ? D'où vient que cette belle jeune fille est aux pieds de ce vieillard ?
+
+ROMERO.
+Seigneur... Votre Majesté... Ce n'est rien... c'est...
+LE ROI.
+Comment ! je veux savoir cela ;.. parlez, jeune fille, qu'avez-vous ? Ne craignez rien.
+ALIX (essuyant ses larmes).
+Seigneur... je suppliais mon père de me marier à mon fiancé.
+LE ROI.
+Et qui empêche donc que votre père ne vous marie à votre fiancé ?
+
+ROMERO.
+Seigneur, c'est que...
+LE ROI.
+Paix ! laissez-la parler.
+ALIX.
+C'est que... Gomez n'est que le fils d'un pêcheur, tandis que mon père descend du... de l'alcade d'un greffier...
+ROMERO.
+Du greffier d'un alcade !
+LE ROI.
+Bien, bien, peu importe ! Vous l'aimez donc, votre Gomez ?
+ALIX.
+Dieu ! tenez, le voilà ! (Elle montre Gomez.)
+LE ROI (à Romero).
+Allons, croyez-moi, vieillard, ils s'aiment, mariez-les ; il ne faut pas tenir à ces préjugés de la naissance.
+ROMERO.
+Mais, Votre Majesté, un pêcheur !...
+LE ROI (riant).
+Allons, allons, ne serait-il pas possible de combler avec des doublons la distance qui sépare un pêcheur d'un greffier d'alcade ? Je m'en charge, moi ; Gomez touchera sur notre trésor royal une rente de cent doublons d'or.
+
+ROMERO (unit les mains d'Alix et de Gomez et s'écrie :)
+ Tombez aux pieds du roi, mes enfants ! Vive le roi !
+ALIX, GOMEZ, TOUS LES VILLAGEOIS.
+Vive, vive le roi, notre bon roi !
+LE ROI (à Romero).
+Vous, mon brave homme, n'attachez plus désormais autant d'importance aux avantages de votre naissance. Ce sont des préjugés, voyez-vous ? (Romero, Alix et Gomez s'inclinent profondément et se retirent sur l'un des côtés de la scène.)
+L'ALCADE (mystérieusement à la reine).
+Madame, Votre Majesté m'a chargé de diriger la chasse. C'est ici la maison où sont les enfants soupçonnés de don Pèdre.
+LA REINE.(A l'alcade.) 
+ Silence ! (Elle s'avance vers le roi, tous les assistants se retirent dans le fond.) Si vous visitez cette maison, seigneur, un serviteur fidèle m'assure que vous y trouverez les fruits de cette intrigue clandestine.
+LE ROI.
+C'est encore de cette histoire que vous m'occupez ! Ne croyez rien de tout ce qu'on vous a rapporté, madame. Don Pèdre ne pense qu'à son épée. Mon fils épousera votre nièce Constance quand je le lui ordonnerai.
+LA REINE.
+Mais, seigneur, depuis que le traité qui a conclu notre union a décidé également ce mariage entre votre fils et ma nièce, avez-vous remarqué la sombre préoccupation d'Inez, les regards inquiets que lui lance don Pèdre ?
+LE ROI.
+Observations sans fondement que tout cela ! Et vous voulez encore qu'un hasard m'amène en chassant précisément devant la maison...
+LA REINE.
+Mais que Votre Majesté daigne seulement la visiter.
+LE ROI.
+Non, sans doute, je n'irai pas troubler la paix de ces pauvres gens par des perquisitions inquiétantes pour eux. Allons, piqueurs, veneurs !
+
+### Scène VI
+ Les MÊMES. LES DEUX ENFANTS.
+
+LE PETIT GARÇON (entrouvre la porte de la maison et appelle sa soeur).
+Oh ! ma soeur, ma soeur, viens voir ! des hommes, des chevaux ! c'est le roi ! viens voir le roi !
+LA PETITE FILLE (se pressant contre son frère).
+Oh !
+LE ROI.
+Quels sont ces enfants ?
+LA REINE (montrant Inès au roi).
+ Seigneur, voyez pâlir Inez.
+(En ce moment le regard du petit garçon s'arrête sur Inez, et il accourt vers elle en criant :)
+Ma mère, ma mère !
+LA PETITE FILLE.
+Ma mère !
+INEZ.
+Grand Dieu ! malheureux enfants !
+(Étonnement général ; Inez reçoit ses enfants dans ses bras et tombe anéantie sur un banc.)
+LE ROI.
+Leur mère ! Qu'entends-je ?
+LA REINE.
+Vous le voyez...
+LE ROI.
+Que tout le monde se retire. Qu'on me laisse ici seul avec cette femme et ces enfants.
+
+### Scène VII
+LE ROI, LA REINE, INEZ, LES ENFANTS.
+
+LA REINE.
+Seigneur, pour éclaircir vos doutes, interrogez ma fille d'honneur.
+LE ROI.
+Doña Inez de Castro, est-il vrai que vous soyez la mère de ces enfants ?
+INEZ (pressant dans ses bras ses enfants effrayés).
+ Vous le voyez, seigneur.
+LE ROI.
+Doña Inez de Castro, est-il vrai que don Pèdre de Portugal soit le père de ces enfants ?
+INEZ.
+Demandez-le lui, seigneur.
+LE ROI.
+Répondez.
+INEZ.
+Je ne puis répondre à cette question. Que Votre Majesté prenne ma vie.
+LA REINE.
+Seigneur, que voulez-vous de plus ? Toutes ces réticences ne sont-elles pas des aveux !
+LE ROI.
+Ainsi, doña Inez, vous avez souillé à la fois le noble sang de vos pères et l'auguste sang de vos rois !
+LA REINE.
+Oui, seigneur, elle a séduit l'infant, et les fruits de ces impures amours sont devant vos yeux.
+INEZ.
+Arrêtez, madame. Don Pèdre est mon époux légitime. Ces enfants sont les siens (au roi) et les vôtres, seigneur.
+LA REINE.
+Vous l'entendez.
+LE ROI.
+Quoi ! Vous êtes mariés ! Vous avez pu tous deux oublier à ce point votre naissance !
+INEZ.
+Seigneur, nous nous aimions ; les caveaux funèbres de Castro ont été le temple de notre mariage, et mes aïeux ont reçu nos serments.
+LE ROI.
+C'est à eux que vous en rendrez compte. --- Holà ! Gardes, que l'on conduise doña Inez à la forteresse de Lisbonne, et que le comte de Mayo m'en réponde sur sa tête.
+(Les deux enfants s'attachent en pleurant à Inez que les gardes emmènent.)
+INEZ.
+Mes enfants, chers enfants, adieu !
+
+## Premier Intermède
+Le théâtre représente le camp des Maures, assis au bord de la mer sur laquelle on aperçoit les mâts de leurs galères. Les tentes sont ornées de flammes et de banderoles. Des soldats sont épars parmi des trophées et des faisceaux d'armes. Un choeur de jeunes filles maures et de chevaliers arabes s'avance en chantant au son des harpes, des tambours, des guitares et des clairons.
+
+### Scène I
+ UN GUERRIER.
+ALBARACIN est absent. Avec lui la guerre a quitté son camp pour y faire place aux fêtes.
+(On entend une symphonie.).
+
+UNE JEUNE FILLE.
+Guerriers, mêlez-vous à nos danses.
+Mes soeurs, variez les cadences.
+Nos maîtres vont suivre nos lois.
+Qu'en nos jeux le tambour résonne,
+Et que le fier clairon s'étonne
+D'accompagner nos douces voix.
+(On danse.)
+UN GUERRIER.
+Que le jour des combats se lève :
+Soldats, dans les fêtes nourris,
+Nous aimerons les jeux du glaive
+Comme la danse des souris.
+(Les danses recommencent.)
+CHOEUR.
+Guerriers, mêlez-vous, etc.
+UN AUTRE GUERRIER.
+En vain le trépas nous menace :
+Rions et tendons-nous la main.
+Le plaisir enfante l'audace.
+Dansons, nous combattrons demain.
+(Les danses continuent.)
+CHOEUR.
+Guerriers, mêlez-vous, etc.
+UN GUERRIER.
+Voici le chef, notre chef, le grand Albaracin !
+TOUS.
+Albaracin ! Allah ! Gloire à Albaracin !
+(Ils se prosternent.)
+
+### Scène II
+LES MÊMES,
+
+ALBARACIN. (Il est richement vêtu d'étoffes de soie et d'or et porte à sa ceinture un poignard recourbé.)
+
+ALBARACIN.
+Compagnons, levez-vous, il faut combattre. (Tous se lèvent.) C'est en sortant d'une fête qu'on vole plus volontiers sur le champ de bataille. La main qui vient de toucher la guitare n'en sait que mieux manier le cimeterre. Amis, vous vaincrez ; mes soins ont tout préparé pour la victoire. Le prince de Portugal, le redoutable don Pèdre, a quitté son camp. Vous allez attaquer une armée sans général ; oui, vous allez vaincre ! Venez ! Nous arborerons le croissant jusques sur les murs de Lisbonne. Venez, don Pèdre a laissé ses soldats sans défense pour porter secours à une femme. Aux armes ! braves amis ! aux armes !
+TOUS.
+Allah ! Allah ! aux armes !
+
+(Les clairons et les cymbales exécutent une marche militaire et les Maures sortent en ordre de bataille.)
+
+## Acte deuxième
+### Scène I
+Le théâtre représente une vaste salle tendue de draperies noires semées de têtes de mort et de larmes blanches, éclairée par des cierges et des pots à feu. Au fond, est un tribunal également tendu de noir ; à droite, un trône pour le Roi ; à gauche, un échafaud noir surmonté d'un catafalque et sur lequel on voit briller une hache. Le devant de la scène est occupé par des gardes vêtus de noir et de rouge et des bourreaux couverts de robes de pénitents noirs et portant des torches. Deux gardes se tiennent debout au pied du trône et au pied de l'échafaud. Devant le tribunal, est la table du greffier.
+UN GARDE (à un autre garde).
+Fabricio, savez-vous pourquoi le conseil s'assemble et qui l'on va juger ?
+LE SECOND GARDE.
+Je n'en sais rien.
+LE PREMIER GARDE.
+On dit que c'est une femme.
+LE SECOND GARDE.
+Que m'importe !
+LE PREMIER GARDE.
+Pauvre malheureuse ! Si elle entre dans cette salle, elle n'en sortira pas.
+LE SECOND GARDE.
+Cela ne me regarde point. Adressez-vous à Melchior l'exécuteur, il pourra sans doute répondre à vos questions.
+LE PREMIER GARDE.
+Vous avez raison. (Il s'adresse à l'un des exécuteurs debout au pied de l'échafaud.) Hé, Melchior, connaissez-vous quelle est cette femme que le conseil va juger ?
+L'EXECUTEUR.
+Non.
+LE GARDE.
+C'est une femme, n'est-ce pas ?
+L'EXECUTEUR.
+Je l'ignore. D'ailleurs, cela n'est pas mon affaire ; je ne connais les gens que lorsqu'ils sont condamnés.
+LE GARDE (à part).
+Je plains l'accusé, quel qu'il soit. S'il s'assied sur ce banc, c'est fait de lui.
+UN OFFICIER (entrant).
+ Silence ! les juges vont entrer.
+
+(Les gardes se rangent, et neuf grands de Portugal, vêtus de noir, prennent place au tribunal.)
+
+### Scène II
+LES JUGES, au tribunal. LE GREFFIER, à sa table, Gardes, Etc.
+
+LE PRÉSIDENT.
+Seigneurs, levez-vous. Voici le Roi.
+
+### Scène III
+LES MÊMES, LE ROI.
+(Il entre précédé du Héraut de Justice et s'assied sur son trône qu'entourent ses gardes.)
+
+LE HÉRAUT.
+Moi, Héraut de la justice du Roi, notre seigneur, voici ce que je dis : Sa Majesté don Alphonse, notre légitime Roi, assemble le Haut-Conseil de la très noble grandesse de ce royaume béni de Portugal et des Algarves.
+LE PRÉSIDENT.
+Le pouvoir de Sa Majesté très fidèle notre seigneur le Roi vient de Dieu.
+LE ROI.
+(Tous se lèvent.)
+Nous vous avons convoqués en ce palais afin que vos très excellentes seigneuries décident de la haute accusation portée contre dona Inez, comtesse de Castro, d'avoir séduit et épousé secrètement notre fils bien-aimé don Pèdre, infant de Portugal.
+LE HÉRAUT DE JUSTICE.
+Loi : Tout sujet qui aura osé s'unir par le mariage à un membre de la famille royale de Bragance sera puni de mort.
+LES GARDES ET EXECUTEURS.
+Mort !
+(Le juges s'inclinent.)
+LE PRÉSIDENT.
+Le pouvoir de Sa Majesté très fidèle notre seigneur le Roi vient de Dieu. Le noble Conseil va juger avec l'aide du saint Esprit.
+LE HÉRAUT SI JUSTICE.
+Le Roi sort.
+(Tous se lèvent. Sort le Roi) 
+ LE GREFFIER (aux gardes).
+ Amenez l'accusée.
+
+### Scène IV
+Les mêmes, excepté le Roi, INEZ, vêtue de blanc, enchaînée et escortée de gardes.
+
+LE PRÉSIDENT.
+Au nom de la très miséricordieuse Trinité, je vous demande : Qui êtes-vous ?
+INEZ.
+Inez, comtesse de Castro.
+LE GREFFIER.
+Inez, comtesse de Castro, est accusée d'avoir épousé secrètement Son Altesse Royale don Pèdre, infant de Portugal.
+LE PRÉSIDENT.
+Est-elle accusée de ce crime ?
+LE HÉRAUT DE JUSTICE.
+ Oui.
+LE PRÉSIDENT.
+Qui le prouvera ?
+LE HÉRAUT.
+Moi, avec l'aide de Dieu.
+LE PRÉSIDENT.
+Parlez : Le Christ vous entend. Songez que la vérité est mère de la justice.
+LE HÉRAUT.
+Par devant nous, Héraut de la justice du Roi notre seigneur, a comparu le frère très révérend Urbano Velasquez, religieux de Saint-François, chapelain du château de Castro, lequel a déposé avoir, il y aura six ans à la Sainte-Marie, donné la bénédiction nuptiale, dans les caveaux funèbres de Castro, à dona Iriez et à un inconnu qui s'est nommé don Pèdre de Portugal. Cela est la vérité.
+LE PRÉSIDENT (aux juges).
+Seigneurs, le crime est-il prouvé ?
+UN JUGE.
+Avec la permission de sa seigneurie, est-il sûr que cet inconnu fût l'infant ?
+LE HÉRAUT.
+Le religieux l'affirme.
+LE JUGE.
+Ce religieux connaissait-il Son Altesse Royale ?
+LE HÉRAUT.
+Nous devons dire qu'il ne la connaît pas.
+LE JUGE.
+Cette déclaration est insuffisante pour prononcer l'arrêt de mort de l'accusée.
+LE HÉRAUT.
+Elle suffit, noble seigneur, puisque l'accusée avoue son crime.
+LE PRÉSIDENT.
+Les paroles d'un accusé ne peuvent rien, ni pour ni contre lui. Seigneurs juges, le crime est-il prouvé ?
+LE MÊME JUGE.
+Non.
+UN SECOND JUGE.
+Four lever tout obstacle, je demande que l'infant soit cité devant le Haut Tribunal.
+UN TROISIÈME JUGE.
+Son Altesse est absente de Lisbonne ; elle est au camp de Billegas.
+LE SECOND JUGE.
+Qu'on envoie un messager. Son Altesse peut être ici demain.
+LE PREMIER JUGE.
+Votre seigneurie prendra garde qu'un prince du sang royal ne peut comparaître devant un tribunal sans la permission expresse du Roi.
+LE SECOND JUGE. (Il s'adresse au premier.)
+Seigneur, quand il s'agit d'un crime d'État, le très Haut Conseil peut tout pour s'éclairer, et ses membres devraient dépouiller toutes les préventions de l'amitié ou de la compassion.
+UN QUATRIÈME JUGE.
+Noble président, que Votre Seigneurie cite Son Altesse Royale. 
+ LE PREMIER GRAND.
+Je demande à vos seigneuries si cela se peut sans la permission royale.
+LES JUGES.
+Oui. --- Non.
+LE PRÉSIDENT.
+Le tribunal va juger de cette difficulté et se rendre d'abord à la chapelle, afin d'éclairer sa délibération par la prière. --- Faites sortir l'accusée.
+
+(Tous sortent.)
+
+### Scène V
+(La décoration change et représente l'intérieur d'une prison.)
+
+L'ALCADE (seul).
+Ces divisions qui ont éclaté dans le Conseil inquiètent la Heine. L'infant est puissant, les grands l'aiment ou le craignent, le peuple l'adore. On dit que, pendant que le tribunal se disputait, la foule commençait à murmurer. Bref ! la reine, que l'existence d'Inez blesse dans ses plus chers intérêts, a cru prudent de décider son sort, quelle que soit l'issue du procès. Je lui ai proposé un moyen, elle m'a chargé de l'exécution, et je crois... (Entre un geôlier.)
+
+### Scène VI
+L'ALCADE, UN GEOLIER.
+
+ L'ALCADE (mystérieusement).
+Hé bien ?
+LE GEOLIER.
+Elle a fait ce que vous désiriez.
+
+L'ALCADE.
+Sans refus, sans hésitation ? Que lui avez-vous dit ? 
+ LE GEOLIER.
+Ce que vous m'aviez ordonné : que le médecin de la forteresse la priait de boire cette potion calmante...
+
+L'ALCADE.
+(A part.) Calmante pour la Beine. --- Courage ! La prédiction du chef maure s'accomplira. Me voilà de cette affaire au moins corrégidor de Lisbonne.
+(Il sort.)
+
+### Scène VII
+LE GEOLIER (seul).
+Comme il est joyeux, ce seigneur ! Il faut qu'il s'intéresse bien à la prisonnière. Il est vrai de dire que la pauvre dona m'attendrit moi-même, moi qui ne me croyais pas plus tendre que les taureaux de pierre laissés par les Maures dans la vallée de Roconcel. --- Hé ! qui va là ?
+(Une porte du fond s'ouvre.)
+
+### Scène VIII
+LE GEOLIER, DON PÈDRE, caché par un large manteau et un chapeau rabattu. LES DEUX ENFANTS, ROMERO.
+
+DON PÈDRE.
+Au nom de Sa Majesté le Roi, lisez : (Il remet un parchemin au geôlier.)
+LE GEOLIER (lisant).
+Sa Majesté permet à dona Inez de voir ses enfants. Le comte de Mayo ordonne aux concierge et geôliers de laisser libre passage à l'officier et au guide desdits enfants auxquels on amènera leur mère... C'est en effet bien la signature du seigneur comte de Mayo. --- Seigneurs, attendez-moi, je vais chercher la prisonnière.
+
+### Scène IX
+Les Précédents, excepté le geôlier.
+
+ROMERO (à don Pèdre).
+Seigneur, je ne vous connais pas, mais je crois voir des larmes briller dans vos yeux. Hélas ! Si vous vouliez, si vous daigniez m'aider, il nous serait facile de sauver la prisonnière... Ah ! je vous en aurais une reconnaissance éternelle... et l'infant don Pèdre n'oublierait pas ce service.
+DON PEDRE (surprise).
+Comment !
+ROMERO.
+J'expose ma tête peut-être, seigneur, mais je vais tout vous dire. C'est à moi que dona Inez avait confié ses enfants, ces malheureux enfants qui l'ont perdue. Ses bienfaits m'ont tiré de l'indigence, mon dévouement la tirera du péril, ou je succomberai. C'est dans ce dessein que je me suis aujourd'hui introduit dans cette prison comme guide de ces enfants, et ne prévoyant pas qu'on me ferait garder par un officier. Maintenant, noble seigneur, vous pouvez la sauver avec moi ou me perdre avec elle.
+DON PEDRE (il serre vivement la main de Romero).
+ Tu es un brave et digne vieillard...
+ROMERO.
+Seigneur, voici doña Inez. Silence !
+
+(Inès entre accompagnée de gardes et enchaînée.)
+
+### Scène X
+LES PRECEDENTS, INEZ, GARDES, GEOLIERS.
+
+DON PÈDRE.
+Geôliers, gardes, retirez-vous. (Les gardes se retirent.)
+INEZ.
+Mes enfants ! mes enfants ! (Ils se jettent dans ses bras.) Votre présence m'apporte bien de la joie, mais, hélas ! elle m'annonce mon arrêt de mort sans doute : on me permet un moment de bonheur avant le supplice. Le supplice, ô ciel ! Mourir sans avoir vu don Pèdre, sans lui avoir dit un dernier adieu ! Il n'aura pu me protéger, je n'aurai pu le consoler. Mes enfants, embrassez-moi, vous n'embrasserez plus peut-être votre père, ni votre mère... O don Pèdre, don Pèdre, où êtes-vous ?
+DON PÈDRE (il jette son manteau et découvre sa tête).
+ Inez ! mon Inez bien aimée ! le voici !
+INEZ (se jetant dans ses bras).
+Dieu sauveur !
+ROMERO (tombant à genoux).
+ Quoi ! c'était Son Altesse royale !
+DON PÈDRE (pressant Inez sur son coeur et tendant la main à Romero).
+Ô ma noble épouse ! --- Oui, brave homme, c'est moi-même à qui vous avez dévoilé votre dévouement, et, comme vous le disiez, l'infant don Pèdre n'oubliera pas ce service. Vous me seconderez pour sauver votre bienfaitrice.
+ROMERO.
+Ah ! seigneur, mon sang, ma vie, tout est à vous.
+LE PETIT GARÇON (à Romero).
+ Vous voyez que je ne suis pas Gil, mais don Pèdre.
+DON PÈDRE.
+Que vois-je, Inez ! Dieu, des chaînes, d'infâmes chaînes sur tes mains adorées ! oh ! laisse-moi briser tes fers... (Il brise violemment les chaînes.) Les misérables ! Qu'ils sentiront un jour cruellement ma vengeance ! Mais viens, viens maintenant, le temps presse...
+LES DEUX ENFANTS.
+Ma mère, ô venez.
+INEZ.
+Prince, que voulez-vous ? Ciel !
+SON PÈDRE.
+Que tu me suives ! couvre-toi de ce manteau.
+INEZ.
+Oh ! non ; si nous étions surpris, j'exposerais vos jours...
+DON PÈDRE.
+Qu'importe, lorsqu'il s'agit des tiens !
+INEZ.
+Ô Dieu ! Déjà peut-être votre vie est menacée. Comment avez-vous pu vous introduire ici ?
+DON PÈDRE.
+Ecoute, j'étais au camp, près de la côte de Billegas ; un messager secret m'avertit de tes périls, j'accours. Le Haut Tribunal était assemblé, en une séance il allait décider ta mort ; un des juges, mon ami dévoué, suscite un incident pour retarder la délibération. Le comte de Mayo, qui me sert également, me facilite secrètement l'entrée de cette prison. Le peuple est prêt à se soulever, les soldats murmurent. Fuyons, tout nous favorise, j'ai un château fort dans les Algarves, j'y soutiendrai, s'il le faut une guerre contre le Roi ; mon absence permettra aux Maures de débarquer.
+INEZ.
+Y pensez-vous, seigneur ? La révolte, la guerre civile !
+DON PÈDRE.
+Tout pour te sauver !
+INEZ.
+Ah ! plutôt mille fois mourir !
+DON PÈDRE.
+Ô Inez, n'es-tu pas mon épouse ? n'est-ce pas mon premier devoir que de t'immoler tout, père, trône, patrie ?... Eh bien, point de révolte, point de guerre, viens, mon Inez, je ne combattrai pas. Je ferai plus pour toi, je me cacherai. Oh ! laisse-toi fléchir, tu sais que je mourrai si tu meurs, ne fais pas deux orphelins de ces enfants auxquels tu dois ta vie, puisqu'ils ne t'ont point demandé la leur.
+LES ENFANTS.
+Oh ! Venez ! Venez ! Ma mère, ne pleurez plus !
+INEZ.
+Mes enfants, prince, cher prince, laissez-moi, je n'ai point de force dans le coeur. --- Laissez-moi, de grâce.
+ROMERO (à genoux).
+ Madame, au nom du ciel !...
+(En ce moment la porte du fond s'ouvre. Une foule de gardes et de geôliers entrent avec des torches. Le héraut de justice les précède. Les enfants effrayés se jettent dans les bras d'Inès et de don Pèdre.)
+
+### Scène XI
+LES PRECEDENTS, LE ROI, LE HÉRAUT DE JUSTICE, GARDES, GEOLIERS.
+
+LE HÉRAUT.
+Notre seigneur le Roi !
+(Etonnement et terreur.)
+
+LE ROI (à don Pèdre).
+Vous ici, prince !
+DON PÈDRE.
+Seigneur, c'est de ne m'y voir pas que vous auriez pu vous étonner.
+LE ROI.
+Avez-vous osé oublier le devoir ?
+DON PÈDRE.
+Mon devoir ! je ne l'oublie pas, il est de défendre mon épouse légitime menacée.
+LE ROI.
+Fils téméraire ! sujet rebelle ! Savez-vous que la loi du royaume punit du dernier supplice celui qui brave son père et son roi ?
+DON PÈDRE.
+La loi du ciel défend de plus haut d'abandonner son épouse.
+LE ROI.
+Audacieux ! Est-ce la rébellion que vous invoquez ?
+DON PÈDRE.
+Non, mon père, non seigneur, voici mon épée. (Il remet son épée.) Sans elle, sans Inez, peut-être aurais-je écouté de séditieuses tentations et usé de ma gloire pour protéger mon amour. Mais maintenant je n'aspire qu'à partager son sort quel qu'il soit. C'est à cet ange que vous persécutez que Votre Majesté doit l'innocence de son fils et le salut de son trône.
+LE ROI.
+Qu'entends-je, Inez ?
+INEZ.
+Seigneur, il s'accuse, ne le croyez pas.
+DON PÈDRE.
+Laissez-moi tout dire, Inez. Oui, seigneur, j'avais pénétré dans cette prison pour en arracher mon épouse, fuir avec elle, et la défendre avec l'épée contre Votre Majesté même... --- C'était mon dessein, seigneur. La généreuse résistance d'Inez a tout changé !
+LE ROI.
+Tant de noblesse eût mérité un meilleur sort.
+DON PÈDRE.
+Oui, mon père, et c'est celle que vous refusez pour fille qui vous a conservé votre fils !
+LE ROI.
+Inez ! pourquoi faut-il qu'un crime d'État pèse sur sa tête ?
+DON PÈDRE.
+Un crime ! Si c'en est un, c'est moi qui suis coupable. Ah ! vous ne savez pas, mon père, que de soins, que de séductions funestes j'ai dû employer pour lui faire partager mon amour ! Et quand elle m'aima, que de larmes, que de vaines prières pour obtenir d'elle une secrète union ! Ma mort seule... il fallut l'en menacer, pour qu'elle consentît à mon bonheur. Si elle m'a épousé, ce n'était que pour sauver mes jours. Ah ! sauvez-la à son tour, mon père ! Punissez-moi, condamnez-moi, que Votre Majesté ordonne mon supplice. Tout le crime doit retomber sur moi qui ai entraîné cette noble Inez dans l'abîme.
+LE ROI.
+Mon fils !...
+INEZ.
+Ah ! seigneur, ne l'écoutez pas. C'est moi qui ai été faible et coupable. Les jours de l'infant vous doivent être précieux pour vos sujets et contre vos ennemis. Moi, ma vie n'est rien, prenez-la, seigneur, qu'importe dans le royaume que je vive ! Il faut un héritier au trône, seigneur, il faut un père à ces enfants qui bientôt n'auront plus de mère. (Elle se jette aux pieds du roi.) Seigneur, promettez-moi que don Pèdre vivra, qu'il vivra pour vous, pour votre peuple, hélas ! et pour mes tristes enfants qui ne seront bientôt plus que les siens.
+
+(Les enfants embrassent le Roi, il détourne la tête comme pour cacher des larmes d'attendrissement.)
+LE PETIT GARÇON (au Roi, montrant don Pèdre).
+Il est mon père, et vous êtes mon père aussi ! --- N'est-il pas vrai que vous ne tuerez pas ma mère ?
+LE ROI.
+Grand Dieu ! je ne sais où je suis...
+ROMERO (à genoux).
+Seigneur, que Votre Majesté se souvienne de ce qu'elle m'a dit quand je me refusais au mariage de mes enfants.
+LE ROI.
+Mon fils ! ma fille Inez !.. Oui, don Pèdre, elle est à toi, elle est noble et grande comme une Reine. Laissez-moi embrasser vos enfants, ils sont les miens. --- Qu'on avertisse la Reine et les Grands ! Que le Haut Tribunal se sépare ; qu'on sache qu'Inez est ma fille et que j'approuve son union avec l'Infant.
+DON PÈDRE, INEZ, LES ENFANTS (aux pieds du Roi).
+Ah ! seigneur ! Ô mon père !
+DON PÈDRE (serrant Inez dans ses bras).
+Qui eût espéré ce bonheur ? Ô quelles longues années de félicité devant nous, mon Inez ! --- Vous pâlissez, qu'avez-vous ?
+INEZ.
+Je ne sais, prince, cette révolution soudaine peut-être... On ne passe pas, sans émotion, du désespoir à la joie...
+DON PÈDRE.
+Juste Dieu ! vos yeux s'éteignent, votre sein se gonfle !
+INEZ.
+Ah ! je brûle ! un feu sourd et violent dévore mes entrailles ! je brûle, ô ciel ! tous mes membres se raidissent...(Effroi général.)
+DON PÈDRE.
+Mon Inez ! ma bien aimée Inez ! dis-moi, qu'as-tu ?
+INEZ.
+Soutenez-moi dans vos bras, cher prince, je me sens défaillir... Donnez-moi mes enfants. (Elle tombe dont les bras du prince.)
+LE ROI.
+Mon malheureux fils !
+DON PÈDRE.
+Ô Dieu ! va-t-elle mourir ?... Qu'ai-je fait pour qu'un tel malheur renverse toute ma vie ?
+INEZ.
+Oui, je me meurs... Ce breuvage cruel...
+DON PÈDRE.
+Le poison !
+LE ROI.
+Qu'entends-je ?
+DON PÈDRE.
+Je reconnais tes ennemis implacables, Inez, tu seras vengée !
+INEZ.
+Oh non !... J'aurais vécu bien heureuse, mais je meurs satisfaite, car je meurs votre épouse et innocente devant mon Rai.
+DON PÈDRE.
+Tu meurs donc !... Dis-moi, mon Inez adorée, il est donc vrai que tu meurs ?...
+INEZ.
+Prince !... bien cher époux !... Hélas ! mes enfants, embrassez-moi, consolez votre père...
+LES ENFANTS.
+Ma mère, ô ne mourez pas, ma mère !...
+INEZ (au Roi)
+ Seigneur, mon père, pardonnez-moi...
+LE ROI.
+Ô malheur ! mon cher fils !
+
+### Scène XII
+LES MÊMES, UN OFFICIER.
+
+L'OFFICIER (au Roi).
+Seigneur, les Maures sont sous les murs de Lisbonne. Albaracin a profité de l'absence du prince pour combattre. L'armée vaincue et découragée attend votre présence.
+LE ROI.
+Grand Dieu ! tous les malheurs à la fois !
+INEZ.
+C'est moi qui cause ce nouveau désastre. (À don Pèdre.) Prince, sortez de votre abattement. Adieu, allez combattre... Je meurs.
+(Elle expire.)
+DON PÈDRE.
+Ô douleur ! (Il se réveille avec égarement.) Seigneur ! aux armes ! à la mort ! à la vengeance !
+
+## Second Intermède
+On voit un champ de bataille sous les murs de Lisbonne. Combat. D'un côté, Albaracin et les Maures ; de l'autre, le Roi, don Pèdre et les Portugais. Don Pèdre, entraîné par la chaleur de l'action, disparaît. Combat du Roi et d'Albaracin. Le Roi tombe. Les Grands accourent et l'environnent. On entend en même temps des cris de triomphe.
+
+UN OFFICIER.
+Victoire ! victoire ! Les Maures sont repoussés.
+UN AUTRE.
+Le Roi est mort !
+UN AUTRE.
+Le salut de notre patrie nous coûte la perte de notre Roi.
+SOLDATS, OFFICIERS, ETC.
+Le roi Alphonse est mort ! Vive le roi don Pèdre !
+
+## Acte troisième
+### Scène I
+(Le théâtre représente le péristyle d'un palais.)
+
+LA REINE (en habits de deuil), L'ALCADE d'Alpunar, revêtu de la toge de corrégidor, GRANDS De Portugal, Gardes.
+
+(L'alcade, maintenant corrégidor, et la Reine sont sur le devant de la scène. Dans le fond, les Grands paraissent s'entretenir avec inquiétude.)
+
+ LA REINE (à voix basse).
+ Quoi ! c'est vraiment aujourd'hui qu'il veut être couronné !
+LE CORRÉGIDOR (de même).
+Oui, madame.
+LA REINE.
+Le lendemain de la mort de son père ! Voilà bien la preuve de sa folie.
+LE CORRÉGIDOR.
+Il l'exige, il l'ordonne, madame, et par suite de cette démence, il veut que la cathédrale soit, pour son couronnement, tendue de draperies funèbres.
+LA REINE.
+Mais il comprend pourtant qu'il est Roi ?
+LE CORRÉGIDOR.
+Oui, madame ; on a vu s'éclaircir un moment cette sombre mélancolie qui, depuis la perte encore si récente d'Inez (ici la Reine tressaille), égare l'esprit de don Pèdre et que n'avait même pu dissiper la mort inattendue du Roi son père dans le combat contre les Maures.
+LA REINE (à part).
+Puisse cette triste folie durer longtemps ! Ma puissance durera avec elle. (Haut.) Hé bien, mon cher corrégidor, qu'a dit le roi don Pèdre ?
+LE CORRÉGIDOR.
+Pompant ce silence farouche qu'il garde depuis que doña Inez...
+LA REINE (bas au corrégidor).
+Encore ! Alcade d'Alpunar, est-ce sans effort que votre mémoire revient sur cet événement ?
+LE CORRÉGIDOR (bas).
+Puis-je vous repentir de vous avoir servie, madame ? (Haut.) Sa Majesté a ordonné que tout fût prêt aujourd'hui pour son couronnement ; puis, comme occupée de quelque dessein secret, elle a demandé si le tombeau de doña Inez n'était pas déjà placé dans la cathédrale.
+LA REINE.
+Vraiment ! Quel peut être son projet ? Mais je crois que voici le Roi lui-même.
+
+(Les Grands se rangent à gauche et à droite.)
+
+### Scène II
+LES PRECEDENTS, DON PÈDRE, précédé de ses gardes et vêtu de deuil. LES DEUX ENFANTS, également en deuil, PEUPLE, SUITE, ROMERO, GOMEZ, ALIX parmi le peuple.
+
+UN OFFICIER DES GARDES.
+Notre seigneur le Roi ! (Tous se découvrent. Don Pèdre s'avance, sombre, les bras croisés sur sa poitrine, la tête baissée.)
+LE CORRÉGIDOR (un genou en terre).
+Seigneur, le peuple de Lisbonne attend avec impatience le couronnement de Votre Majesté.
+DON PÈDRE.
+Oui, cela est vrai. --- C'est moi qui suis le Roi, alcade d'Alpuñar.
+LE CORRÉGIDOR (troublé).
+(A part.) Alcade d'Alpunar ! Juste ciel ! saurait-il ? (Haut.) Tout est prêt pour cette heureuse fête...
+DON PÈDRE.
+Ah ! vous avez eu soin aussi de faire construire un échafaud devant la prison d'État ?
+LE CORRÉGIDOR.
+Un échafaud ! Votre Majesté ! j'ignorais... Et pour qui ?
+DON PÈDRE.
+Pour vous, alcade d'Alpunar.
+LE CORRÉGIDOR.
+Dieu tout puissant ! moi ! je suis innocent ! Grâce, seigneur ! Votre miséricordieuse Majesté.
+DON PÈDRE.
+Silence ! La peur vous fait perdre la mémoire. --- Alcade d'Alpunar, qui a remis le poison au geôlier ?
+LE CORRÉGIDOR (aux pieds du Roi).
+Au nom du Ciel, au nom du Dieu clément par qui vous régnez, prenez pitié de moi, seigneur !
+DON PÈDRE.
+Pitié ! tu demandes ce que tu n'as pas eu, misérable !
+LE CORRÉGIDOR.
+J'ai tout fait, seigneur, par ordre de la Heine.
+DON PÈDRE.
+Je le sais, lâche ! Qu'on l'entraîne et qu'il meure. Le jour de vengeance est venu.
+
+(Des gardes entraînent le corrégidor.)
+
+### Scène III
+LES MÊMES, excepté le corrégidor
+
+LA REINE.
+Seigneur, vous ne croyez pas...
+DON PÈDRE (avec égarement).
+Qui me parle ? C'est elle, ce me semble, cette femme qui a causé tout mon malheur. O Inez ! Inez ! Ta meurtrière est devant mes yeux... --- (A la Reine.) N'est-il pas vrai, madame ?
+LA SEINE.
+Votre Majesté...
+DON PÈDRE.
+Je vous présente les enfants que vous avez rendus orphelins...
+LA REINE.
+Seigneur, ces soupçons...
+DON PÈDRE.
+Madame, vous êtes veuve ; moi aussi je suis veuf ; mais nous reverrons peut-être bientôt tous deux les êtres qui partageaient notre vie. Réjouissez-vous avec moi.
+LA REINE (tremblante).
+Oserez-vous ?...
+DON PÈDRE.
+Si vous craignez que je n'attente à une tête royale, fuyez, retournez en Castille, près de votre frère, ou demain je vous envoie dans la tombe, près de votre époux.
+LA REINE.
+Qu'entends-je, un exil !
+DON PÈDRE (avec fureur).
+Reine, femme, ôtez-vous de la portée de mes yeux et de mon épée !
+LA REINE.
+Eh bien ! guerre à vous, Roi insensé.
+(Elle sort.)
+
+### Scène IV
+Les mêmes, excepté la Reine
+
+DON PÈDRE.
+Ô Inez ! les cruels m'ont rendu cruel. Ô mon Inez ! (Aux Grands.) L'archevêque ne m'attend-il pas à la cathédrale ?...
+ALIX, GOMEZ, LE PEUPLE.
+Vive le Roi ! Hommage au roi don Pèdre !
+ROMERO.
+Vire à jamais notre roi don Pèdre !
+DON PÈDRE.
+Quelle est cette voix ?... Elle a retenti en moi comme une voix fidèle. (Il se tourne vers Romero.) Ah ! c'est toi, cligne vieillard ! Approche, je te reconnais. C'est le jour de récompenser autant que de punir ; tu assisteras à la cérémonie de mon couronnement comme corrégidor de Lisbonne.
+LES GRANDS (à part).
+Corrégidor de Lisbonne, un simple paysan ! Il est vraiment en délire !
+ROMERO. 
+ Ah ! seigneur, je suis indigne...
+DON PÈDRE.
+Tu en es digne, puisque tu t'en dis indigne. (Aux Grands.) Seigneurs, reconnaissez le nouveau corrégidor.
+LE PEUPLE.
+Vive notre roi bien aimé don Pèdre ! Qu'il vive à jamais !
+DON PÈDRE (à part).
+Ah ! peuple, si tu m'aimes, demande au ciel ma mort et non ma vie.
+(Il sort avec sa suite.)
+
+### Scène V
+(Le théâtre représente l'intérieur d'un caveau sépulcral.)
+
+LE ROI, LE CHANCELIER, LE CORRÉGIDOR, LES ENFANTS, SEIGNEURS, GARDES, PRÊTRES, ETC.
+
+UN SEIGNEUR.
+Quoi ! c'est devant ce tombeau que Votre Majesté place son trône !
+DON PÈDRE.
+Oui, c'est ici ! Seigneurs, c'est ici que je veux être couronné. (Etonnement.)
+LE CHANCELIER.
+Hommage, au nom de Dieu, au roi don Pèdre, notre seigneur !
+TOUS (s'agenouillant).
+Hommage !
+LE CHANCELIER.
+Fidélité, au nom de Dieu, au roi don Pèdre, notre seigneur ! 
+ TOUS.
+Fidélité !
+LE CHANCELIER.
+Que le ciel répande les bénédictions sur son règne et les félicités sur sa vie !
+DON PÈDRE (comme éveillé par ces paroles).
+Mon règne ! ma vie !... félicités !...
+LE CHANCELIER (au Roi).
+Seigneur, au milieu de l'ivresse qu'inspire cette auguste et heureuse cérémonie, que Votre Majesté daigne un moment s'arracher à la douleur dont l'accable la mort glorieuse du Roi, son auguste père...
+DON PÈDRE (il se lève de son trône).
+Oui, il est mort, mon père ! mon veuvage m'avait fait oublier que je suis orphelin, mon père est mort !... Ô Dieu ! c'est elle qui est morte ! elle, mon Inez, celle qui était tout pour moi !
+LE CHANCELIER.
+Roi de Portugal, suspendez votre douleur. Voici l'instant solennel ; la couronne va être placée sur votre front sacré.
+DON PÈDRE.
+Oui, il faut que vous me couronniez. Mais attendez donc, seigneur chancelier, il faut en même temps couronner votre Reine.
+TOUS.
+Notre Reine !
+DON PÈDRE.
+Hé oui, seigneurs ! --- Dites, n'est-elle pas couchée, là, dans ce caveau funèbre ! --- Oui ce cercueil est sa couche royale. Allons ! Qu'on aille la chercher, elle attend. --- C'est votre Reine, plusieurs d'entre vous, seigneurs, l'ont persécutée, mais soyez tranquilles, elle ne s'éveillera pas pour vous nommer à son vengeur. (On apporte sous un drap noir le cercueil qui contient les restes d'Inez.) La voilà ! --- Qui la reconnaîtra ! Hélas ! (il jette son manteau royal sur le cercueil) les tigres ne m'ont laissé d'elle que cela. Et ce manteau royal ne peut me cacher le linceul.
+LE CHANCELIER.
+Seigneur, voici la couronne et l'épée.
+DON PÈDRE.
+La couronne, l'épée, c'est tout ce que j'attends. (Il prend la couronne et la pose sur le cercueil.) Ô Inez, reçois la couronne, je vais prendre l'épée ; partage mes honneurs sur la terre, je vais partager les tiens dans le ciel. (Il prend l'épée, embrasse ses enfants et lève le bras pour se frapper.)
+LES ENFANTS.
+Ô mon père !
+TOUS.
+Grand Dieu !
+
+(En ce moment une lumière miraculeuse remplit la scène ; une musique douce et lointaine se fait entendre. L'ombre d'Inez apparaît radieuse et environnée d'anges au-dessus du tombeau.)
+
+### Scène VI et dernière
+ LES PRECEDENTS. L'OMBRE D'INEZ.
+
+TOUS.
+Quel prodige !
+(Ils tombent prosternés.) 
+ L'OMBRE.
+Arrêtez, don Pèdre ! Un crime allait nous séparer pour jamais. Si vous voulez que l'éternité nous unisse, vivez pour nos enfants, vivez pour votre peuple. La vie est courte et bien des hommes qui vivent ont besoin de vous sur la terre. Il m'a été permis, cher époux, de venir du séjour des âmes pour vous dire ceci de la part du Seigneur : Vivez et souffrez, le bonheur des peuples a quelquefois besoin du malheur des rois.
+DON PÈDRE.
+C'est bien vous, ô mon Inez, je vous revois, je vous obéirai ; mais, ange du ciel, daignez rester près de moi, ne m'échappez pas. 
+ LES ENFANTS (tendant les bras).
+Restez, restez, ma mère, nous sommes heureux !
+L'OMBRE.
+Ô mes enfants ! Ô mon époux bien-aimé ! il faut que je vous quitte, mais vous me reverrez toute l'éternité. Vivez. Adieu !
+(L'ombre s'évanouit).
+DON PÈDRE.
+Ô Dieu ! quel est donc le devoir des rois, puisqu'il me faut lui sacrifier jusqu'au bonheur de mourir ?
+
+Fin d'INEZ DE CASTRO
+
+illustration: separateur

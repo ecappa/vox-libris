@@ -1,0 +1,218 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC"
+slug_oeuvre: "letonnante-aventure-de-la-mission-barsac"
+section: "Premiere Partie"
+slug_section: "premiere-partie"
+chapitre: "Chapitre 02"
+slug_chapitre: "chapitre-02"
+type: "chapitre"
+---
+
+### Chapitre 2 -- Un voyage d'étude
+Conakry, chef-lieu de la Guinée française et résidence du lieutenant-gouverneur, est aujourd'hui une ville très agréable, dont les rues, intelligemment tracées d'après les plans du gouverneur Ballay, se coupent à l'angle droit et sont, en général, désignées par un simple numéro d'ordre, à la mode américaine. Bâtie sur l'île de Tombo, elle est séparée du continent par un étroit chenal, que franchit un pont, sur lequel passent cavaliers, piétons, véhicules, et aussi le chemin de fer qui aboutit près du Niger, à Kouroussa. C'est la station la plus salubre du littoral. Aussi les représentants de la race blanche y sont-ils nombreux, particulièrement les Français et les Anglais, ces derniers plus spécialement groupés dans le faubourg de Newtown.
+
+Mais, à l'époque des événements qui forment le sujet de ce récit, Conakry n'avait pas encore atteint ce degré de prospérité et n'était guère qu'une grosse bourgade.
+
+En cette journée du 27 novembre, cette bourgade était en fête. Obéissant à l'invitation que le gouverneur, M. Henry Valdonne, lui avait faite par voie d'affiches, la population se portait vers la mer, disposée à recevoir chaleureusement, ainsi qu'on l'en priait, les voyageurs notables qui allaient incessamment débarquer du Touat, un paquebot de la Compagnie Frayssinet.
+
+Les personnages qui mettaient ainsi en rumeur la ville de Conakry étaient d'importance, en effet. Au nombre de sept, ils formaient le haut personnel de la commission extraparlementaire chargée par l'administration centrale d'effectuer un voyage d'étude dans la région du Soudan connue sous le nom de « boucle du Niger ». À vrai dire, ce n'était pas tout à fait de plein gré que le président du Conseil, M. Granchamp, et M. Chazelle, ministre des Colonies, avaient réuni cette mission et décrété ce voyage d'étude.
+
+Ils y avaient été contraints, en quelque sorte, par la pression de la Chambre et par la nécessité de clore une joute oratoire qui confinait à l'obstruction. Quelques mois auparavant, à propos d'un débat relatif à la région africaine que la mission extraparlementaire avait mandat d'explorer, la Chambre s'était partagée en deux fractions numériquement égales, que menaient au combat deux irréductibles leaders.
+
+L'un de ses leaders s'appelait Barsac ; l'autre avait nom Baudrières.
+
+Le premier, bien en chair, voire un tantinet bedonnant, portait en éventail une opulente barbe noire. C'était un Méridional de la Provence, au verbe sonore, doué, sinon d'éloquence, du moins d'une certaine faconde, un joyeux et sympathique garçon au demeurant. Le second représentait un département du Nord, et, si l'on autorise cette expression audacieuse, il le représentait en longueur. Sec de corps et de visage, une mince moustache tombante accentuant ses lèvres minces, anguleux et dogmatique, il faisait partie de la race des tristes. Autant son collègue s'épanouissait généreusement, autant il vivait replié sur lui-même, se livrant le moins possible, l'âme verrouillée comme le coffre-fort d'un avare.
+
+Tous deux députés de vieille date, ils s'étaient spécialisés dans les questions coloniales, et on s'accordait à les regarder comme des autorités en la matière. Cependant -- cette réflexion s'impose -- il était réellement merveilleux que leurs patientes études les eussent conduits à des conclusions si opposées. Le certain, c'est qu'ils étaient rarement d'accord.
+
+Lorsque Barsac traitait une question quelconque, il y avait dix à parier contre un que Baudrières allait demander la parole pour dire juste le contraire, si bien que, leurs discours s'annulant, la Chambre en était généralement réduite à voter dans le sens indiqué par le Ministère.
+
+Mais, cette fois, Barsac et Baudrières n'avaient pas voulu céder d'un pouce, et la discussion s'était éternisée. Elle avait commencé au sujet d'un projet de loi déposé par le premier, projet tendant à créer cinq sièges de députés dans la Sénégambie, la Haute-Guinée et la partie du Soudan français située à l'ouest du Niger, et à accorder l'électorat, voire l'éligibilité, aux gens de couleur, sans distinction de race. Aussitôt, ainsi qu'il en avait coutume, Baudrières s'était vigoureusement élevé contre la thèse de Barsac, et les deux irréconciliables adversaires s'étaient jeté à la tête toute une mitraille d'arguments.
+
+L'un, citant à l'appui de son opinion celle d'un grand nombre de militaires et de civils qui avaient parcouru ces régions ou y avaient trafiqué, représenta les nègres comme parvenus à un degré de civilisation fort avancée. Il ajouta que c'était peu d'avoir supprimé l'esclavage si on ne donnait pas aux populations conquises les mêmes droits qu'à leurs conquérants, et il prononça à ce propos, dans une série de péroraisons que la Chambre applaudit bruyamment, les grands mots de liberté, d'égalité et de fraternité.
+
+L'autre affirma, par contre, que les nègres croupissaient encore dans la plus honteuse barbarie et qu'il ne pouvait être question de les consulter, pas plus qu'on ne consulte un enfant malade sur le remède qu'il convient de lui appliquer.
+
+Il ajouta qu'en tout cas le moment n'était pas propice à une expérience aussi dangereuse et qu'il convenait plutôt de renforcer les troupes d'occupation, des signes inquiétants autorisant à redouter des troubles prochains dans ces contrées. Il invoqua un aussi grand nombre d'opinions militaires et civiles que son contradicteur, conclut en préconisant une nouvelle intervention armée et déclara avec une énergie patriotique que le patrimoine conquis par le sang français était sacré et devait demeurer intangible. Lui aussi fut applaudi frénétiquement.
+
+Le ministre des Colonies fut très embarrassé pour départager ces orateurs passionnés. Il y avait du vrai dans les deux thèses. S'il était exact que les populations noires habitant la boucle du Niger et la Sénégambie parussent commencer à s'accommoder de la domination française, que l'instruction fît quelques progrès parmi ces peuplades jadis si profondément ignorantes, et que la sécurité y fût en voie de rapide amélioration, il ne l'était pas moins qu'actuellement la situation tendait à se modifier dans un sens défavorable. On avait reçu la nouvelle de troubles et de razzias ; des villages entiers, on ignorait pour quelles raisons, avaient été abandonnés par leurs habitants, et enfin il convenait d'enregistrer, sans rien exagérer cependant, des bruits assez mystérieux et confus qui couraient la brousse, aux abords du Niger, et dont le sens général était qu'une puissance indépendante fût en train de se former en un point encore inconnu du sol africain.
+
+Chacun des deux précédents orateurs pouvant à la rigueur trouver des arguments favorables à sa cause dans le discours ministériel, ils triomphèrent tous deux également, et la discussion se poursuivit, jusqu'au moment où un député, excédé, s'écria au milieu du bruit :
+
+--- Puisqu'on ne peut pas s'entendre, qu'on aille y voir !
+
+M. Chazelle répondit que ces contrées avaient été si souvent explorées que la nécessité de les découvrir une fois de plus ne s'imposait pas, mais qu'il était prêt, néanmoins, à se conformer aux vues de la Chambre, si celle-ci estimait qu'un voyage d'étude eût quelque utilité, et qu'il serait heureux de l'associer, dans ce cas, à une telle entreprise, en plaçant l'expédition sous la direction de celui de ses membres qu'elle voudrait bien désigner.
+
+La proposition eut beaucoup de succès. On vota séance tenante, et le Ministère fut invité à constituer une mission qui parcourrait la région comprise dans la boucle du Niger et qui rédigerait un rapport sur le vu duquel la Chambre statuerait ultérieurement.
+
+On se mit moins facilement d'accord quand il s'agit de nommer le député qui serait le chef de cette mission et, par deux fois, Barsac et Baudrières recueillirent un nombre de suffrages mathématiquement égal.
+
+Il fallait cependant en finir.
+
+--- Parbleu ! Qu'on les nomme tous les deux ! s'écria un de ces plaisants qui ne manquent jamais dans une assemblée française.
+
+Cette idée ayant été accueillie avec enthousiasme par la Chambre, qui, sans doute, y voyait un moyen de ne plus entendre parler des colonies pendant quelques mois, Barsac et Baudrières furent élus, l'âge devant décider lequel des deux aurait le pas sur l'autre. Vérification faite, ce privilège échut à Barsac, qui se trouva être l'aîné de trois jours. Baudrières dut donc se résigner à n'être que son coadjuteur, ce dont il fut extrêmement mortifié.
+
+À ce rudiment de mission, le gouvernement avait adjoint par la suite quelques personnalités, moins décoratives assurément, mais peut-être mieux qualifiées, si bien qu'à son arrivée à Conakry elle comportait sept membres au total, y compris Barsac et Baudrières déjà nommés.
+
+Parmi les autres, on remarquait le docteur Châtonnay, un grand médecin et un médecin grand, car il était fort savant et il élevait à plus de cinq pieds huit pouces son joyeux visage, que couronnait une chevelure frisée aussi blanche que la neige, bien qu'il n'eût pas tout à fait cinquante ans, et que barrait une moustache en broussaille de même couleur. C'était un excellent homme que ce docteur Châtonnay, sensible et gai, et riant à tout propos avec un bruit de vapeur qui fuse.
+
+On remarquait encore à la rigueur M. Isidore Tassin, correspondant de laSociété de géographie, un petit homme sec et tranchant, passionnément et exclusivement géographe.
+
+Quant aux derniers membres de la mission, MM. Poncin, Quirieu et Heyrieux, tous trois fonctionnaires de divers ministères, on ne les remarquait pas. Sans particularité notable, c'étaient des gens comme tout le monde.
+
+Autour de ce noyau officiel gravitait, très officieusement, un huitième voyageur. Celui-ci, un blond à l'air énergique et décidé, avait nom Amédée Florence, et son métier consistait à renseigner de son mieux le grand journal quotidien *L'Expansion française*, dont il était le reporter actif et débrouillard.
+
+Tels furent les personnages qui débarquèrent, ce jour-là, 27 novembre, du paquebot le Touat, de la Compagnie Frayssinet.
+
+L'événement devait nécessairement provoquer des discours. Pour peu que l'on fasse partie du personnel administratif ou gouvernemental, on ne se contente plus, lorsqu'on se rencontre, de se serrer la main et de se dire bonjour, et on considère comme indispensable d'échanger des paroles historiques, tandis qu'un auditoire, toujours amusé, malgré l'accoutumance, par le comique spécial de cette formalité, se range en cercle autour des orateurs.
+
+C'est en vertu de ce protocole que, sur le lieu même du débarquement, M. Valdonne, escorté de ses principaux fonctionnaires, qu'il eut soin de présenter, souhaita solennellement la bienvenue aux visiteurs de marque qui lui arrivaient, sinon du ciel, du moins des lointains de l'océan. D'ailleurs, rendons-lui cette justice, il fut bref, et sa courte harangue obtint un succès mérité.
+
+Barsac, qui lui répondit, en sa qualité de chef de la mission, prit ensuite la parole en ces termes :
+
+--- Monsieur le gouverneur, messieurs, prononça-t-il avec l'accent de la reconnaissance -- et du Midi ! -- après avoir toussé pour s'éclaircir la voix, mes collègues et moi nous sommes profondément touchés des paroles que nous venons d'entendre. La cordialité de votre accueil est pour nous de favorable augure, au moment où commence réellement une entreprise dont nous ne nous exagérons pas, au surplus, les difficultés. Nous savons que, sous la généreuse administration de la métropole, ces contrées, jadis explorées au milieu de tant de périls par les hardis pionniers de la patrie, connaissent enfin la paix française, si vous voulez bien autoriser cette expression pompeuse empruntée à nos ancêtres les Romains. C'est pourquoi, ici, au seuil de cette belle ville de Conakry, entourés des rangs pressés de nos compatriotes, nous avons la sensation de n'avoir pas quitté la France, et c'est pourquoi, en nous enfonçant dans l'intérieur, nous ne la quitterons pas davantage, car les laborieuses populations de ces contrées sont désormais formées des citoyens d'une France agrandie et prolongée. Puisse-t-elle augmenter encore, s'il est possible, leur attachement à la patrie, leur dévouement à la République.
+
+M. Le gouverneur Valdonne donna, comme il est d'usage, le signal des applaudissements « spontanés », tandis que Barsac faisait, en arrière, un pas que Baudrières faisait aussitôt en avant.
+
+À la suite d'interminables conciliabules dans le cabinet du ministre, on avait décidé que Baudrières serait non pas le sous-chef, mais le chef adjoint de l'expédition. Or -- mystérieuse puissance des mots ! -- il en résultait, paraît-il, que si Barsac prenait la parole dans une cérémonie officielle, Baudrières la prendrait immédiatement après lui. Ainsi avait été résolu l'épineux problème des amours-propres.
+
+--- Monsieur le gouverneur, messieurs, commença Baudrières, coupant court, de cette manière, aux applaudissements dont on avait salué la péroraison de son prédécesseur, je m'associe pleinement aux éloquentes paroles de mon éminent collègue et ami. Ainsi qu'il l'a dit excellemment, chacun de nous se rend un compte exact des difficultés et des dangers que peut offrir notre exploration. Ces difficultés, nous les vaincrons de notre mieux. Quant aux dangers, ils ne sauraient nous émouvoir, puisque, entre eux et nous, des baïonnettes françaises seront interposées. Qu'il me soit donc permis d'envoyer, dès notre premier pas sur la terre d'Afrique, un salut cordial à l'escorte qui éloignera de nous jusqu'à la possibilité d'un péril. Et, ne vous y trompez pas, messieurs, en saluant cette escorte restreinte, c'est à l'armée -- car n'est-elle pas tout entière, en vérité, dans l'humble troupier qui passe ? -- c'est à l'armée, dis-je, que j'adresse mon salut. C'est donc l'armée, si chère à tous les coeurs français, qui s'associera à nos travaux, et c'est par elle que s'accroîtront dans cette entreprise obscure, comme l'ont fait si souvent les aventures glorieuses dont elle est coutumière, le prestige de la patrie et la grandeur de la République !
+
+De nouveau, les applaudissements éclatèrent, exactement aussi nourris et aussi « spontanés » que les premiers, puis on se mit en route pour la Résidence, où les principaux membres de la mission allaient être hébergés pendant les trois jours qui seraient consacrés à régler les derniers détails du programme de l'exploration.
+
+Le programme était vaste. La région intéressée par le projet de loi de Barsac dépasse un million cinq cent mille kilomètres carrés. C'est à peu près trois fois la superficie de la France. S'il ne pouvait être question de visiter tous les points de cette immense étendue, du moins avait-on tracé un itinéraire assez capricieux pour que l'impression recueillie finalement par les explorateurs eût quelque chance d'être conforme à la vérité. Cet itinéraire se développait sur plus de deux mille cinq cents kilomètres pour certains membres de la mission, et sur près de trois mille cinq cents pour les autres.
+
+L'expédition devait, en effet, se dédoubler en cours de route, de manière à étendre le plus possible le champ de l'enquête. Au départ de Conakry, on irait d'abord jusqu'à Kankan, en passant par Ouossou, Timbo, centre important du Fouta-Djalon méridional, et Kouroussa, station établie sur le Niger, à peu de distance de la source.
+
+De Kankan, on traversait, par Foroba, Forabokourou et Tiola, le Ouassoulou et le Kénédougou, jusqu'à Sikasso, chef-lieu de ce dernier pays.
+
+C'est à Sikasso, à mille cent kilomètres de la mer, que l'expédition se diviserait en deux parties. L'une, sous la direction de Baudrières, redescendrait vers le sud, se dirigerait vers le pays de Kong et gagnerait sa capitale par Sitardougou, Niambouambo et diverses agglomérations plus ou moins importantes. De Kong, elle rayonnerait dans le Baoulé, pour gagner finalement, à Grand-Bassam, la côte de l'Ivoire. Avec Barsac, l'autre partie continuerait, au contraire, dans l'Est, passerait par Ouagadougou, et atteindrait le Niger à Saye, puis, marchant parallèlement au fleuve, elle traversait le Mossi, et enfin, par le Gourma et le Borgou, elle aboutirait à Cotonou, son point terminus, sur la côte du Dahomey.
+
+En tenant compte des détours et des retards inévitables, on devait s'attendre à ce que le voyage durât au moins huit mois pour la première, et dix à douze mois pour la seconde. Partis ensemble, le 1er décembre, de Conakry, ce ne serait pas avant le 1er août que Baudrières arriverait à Grand-Bassam, et avant le 1er octobre que Barsac atteindrait Cotonou.
+
+Il s'agissait donc d'un long voyage. Et pourtant M. Isidore Tassin ne pouvait guère se flatter qu'il lui permît d'établir quelque importante vérité géographique ignorée jusqu'à lui. À vrai dire même, la présence d'un correspondant de la Société de Géographie s'expliquait mal, l'espoir de découvrir la boucle du Niger étant aussi peu réalisable que celui de découvrir l'Amérique. Mais M. Tassin n'était pas gourmand. Le globe ayant été sillonné en tous sens, il estimait qu'on devait savoir se contenter de peu.
+
+Sagement pensait-il en limitant ainsi ses ambitions. Depuis longtemps, la boucle du Niger avait cessé d'être la contrée inaccessible et mystérieuse qu'elle fut pendant tant d'années. Depuis le docteur allemand Barth, qui, le premier, la traversa, en 1853 et 1854, une foule de braves l'ont graduellement conquise. C'est, en 1887, le lieutenant de vaisseau Caron et l'exploration magnifique à tous égards du capitaine Binger ; en 1889, le lieutenant de vaisseau Jaime ; en 1890, le docteur Crozat ; en 1891, le capitaine Monteil ; en 1893 et 1894, les morts glorieuses du lieutenant Aube et du colonel Bonnier, et la prise de Tombouctou par le lieutenant Boiteux, bientôt rejoint par le commandant Joffre. En cette même année 1894 et en 1895, c'est le capitaine Toutée et le lieutenant Targe ; en 1896, le lieutenant de vaisseau Hourst, et tant d'autres, pour aboutir à la campagne au cours de laquelle, en 1898, le colonel Audéoud s'empara de Kong et acheva d'abattre la puissance de Samory.
+
+Dès lors, le Soudan occidental cesse de mériter l'épithète de sauvage ; l'administration succède à la conquête, les postes se multiplient, assurant d'une manière de plus en plus solide la bienfaisante domination française. Au moment où la mission extraparlementaire allait pénétrer à son tour dans ces régions, la pacification n'était pas encore complète, mais déjà la sécurité était plus grande, et il y avait tout lieu d'espérer que le voyage s'accomplirait, sinon sans incident, du moins sans accident, et que tout se réduirait à une promenade parmi des populations paisibles, que Barsac estimait mûres pour goûter les joies de la politique électorale.
+
+Le départ était fixé au 1er décembre.
+
+La veille du départ, le 30 novembre, un dîner officiel allait réunir une dernière fois les membres de la mission à la table du gouverneur. C'est à la suite de ce dîner que les toasts seraient échangés, ainsi qu'il est d'usage, avec l'accompagnement obligatoire de l'hymne national, et que l'on formulerait les ultimes voeux pour le succès de l'expédition et pour la gloire de la République.
+
+Ce jour-là, Barsac, las d'avoir déambulé dans Conakry sous un soleil de feu, venait de regagner sa chambre. Il s'y éventait avec béatitude, en attendant que vînt l'heure d'endosser l'habit noir, dont aucune température ne saurait dispenser un personnage officiel dans l'exercice de son emploi, quand le planton de service -- un rengagé de la coloniale, qui « la connaissait dans les coins » -- vint le prévenir que deux personnes demandaient à être reçus.
+
+--- Qui est-ce ? interrogea Barsac.
+
+Le planton fit un geste d'ignorance.
+
+--- Un type et sa dame, dit-il simplement.
+
+--- Des colons ?
+
+--- C'est pas mon idée, vu leur dégaine, répondit le planton.
+
+L'homme est un grand, avec macache gazon sur le caillou...
+
+--- Le caillou ?
+
+--- Il est chauve, quoi ! Avec des favoris filasse et des yeux en boule d'escalier.
+
+--- Vous avez des images ! fit Barsac. Et la femme ?
+
+--- La femme ?
+
+--- Oui. Comment est-elle ? Jeune ?
+
+--- Assez.
+
+--- Jolie ?
+
+--- Oui, et nippée !
+
+Barsac se frisa machinalement la moustache et dit :
+
+--- Faites entrer.
+
+Tout en donnant cet ordre, il envoya, sans même y penser, un coup d'oeil à la glace qui reflétait sa corpulente image. S'il n'avait eu l'esprit ailleurs, il aurait pu alors constater que la pendule marquait six heures. En raison de la différence des longitudes, c'est précisément à cet instant que commençait l'attaque de l'agence DK de la Central Bank qui forma la matière du premier chapitre de ce récit.
+
+Les visiteurs, un homme d'une quarantaine d'années suivi d'une jeune fille de vingt à vingt-cinq ans, furent introduits dans la pièce où Barsac goûtait les charmes du farniente, avant d'aller affronter les fatigues d'un dîner officiel.
+
+L'homme était très grand, en effet. Une paire de jambes interminables supportait un buste relativement exigu, qui s'achevait en un cou long et osseux, lequel servait de piédestal à une tête modelée en hauteur. Si les yeux n'étaient pas en boule d'escalier, ainsi que l'avait avancé le planton abusant des images outrancières, on ne pouvait contester qu'ils ne fussent saillants, ni que le nez ne fût gros, ni que les lèvres ne fussent épaisses et glabres, un impitoyable rasoir en ayant supprimé les moustaches.
+
+Par contre, de courts favoris, du modèle de ceux qu'il est classique d'attribuer aux Autrichiens, et une couronne de cheveux bouclés entourant la base du crâne merveilleusement nu et poli, permettaient d'affirmer que le planton manquait de précision dans le choix de ses qualificatifs. Filasse, avait-il dit. Le mot n'était pas exact. En bonne justice, le personnage était roux.
+
+Ce portrait dispenserait, au besoin, de dire qu'il était laid, s'il ne convenait d'accoler à sa laideur l'épithète de sympathique. Ses grosses lèvres exprimaient, en effet, la franchise, et dans ses yeux luisait cette malicieuse bonté que nos pères désignaient sous le nom charmant de bonhomie.
+
+À sa suite, venait la jeune fille. Il faut reconnaître que le planton, en la décrétant jolie, n'avait, cette fois, nullement exagéré. Grande, mince, la taille élégante, la bouche fraîche et bien meublée, le nez fin et droit, les yeux grands et surmontés de sourcils admirablement dessinés, une abondante chevelure d'un noir d'encre, tous les traits d'une régularité impeccable, c'était une parfaite beauté.
+
+Barsac ayant offert un siège à ses visiteurs, ce fut l'homme, comme de raison, qui prit la parole.
+
+--- Vous nous pardonnerez, monsieur le député, de venir ainsi vous importuner, et, dans l'impossibilité où je suis de faire autrement, vous nous excuserez de vous dire nous-mêmes qui nous sommes. Je m'appelle -- vous me permettez d'ajouter, suivant mon habitude : j'ai le regret de m'appeler, car ce nom est ridicule, Agénor de Saint-Bérain, propriétaire, célibataire et citoyen de la ville de Rennes.
+
+Ayant ainsi débité son état civil, Agénor de Saint-Bérain fit une légère pause, puis, s'aidant du geste, présenta :
+
+--- Mlle Jane Mornas, ma tante.
+
+--- Votre tante... Répéta Barsac.
+
+--- Oui, Mlle Mornas est bien ma tante, autant qu'on peut l'être de quelqu'un, affirma Agénor de Saint-Bérain, tandis qu'un gai sourire entrouvrait les lèvres de la jeune fille.
+
+Ce fut comme un coup de soleil. Son beau visage, dont l'expression trop sérieuse était peut-être le seul défaut, en parut illuminé.
+
+--- M. De Saint-Bérain, expliqua-t-elle avec un léger accent anglais, tient essentiellement à son titre de neveu, et ne laisse passer aucune occasion de proclamer notre degré réel de parenté...
+
+--- Ça me rajeunit, interrompit le neveu.
+
+--- Mais, continua Jane Mornas, une fois l'effet produit et son droit légal bien établi, il consent à renverser les rôles et à redevenir l'oncle Agénor, ce que, par convention de famille, il a toujours été depuis ma naissance.
+
+--- Et ce qui est plus en rapport avec mon âge, expliqua l'oncle-neveu. Mais passons, et, les présentations étant faites, permettez-moi, monsieur le député, d'en arriver à ce qui nous amène, Mlle Mornas et moi. En bon oncle-neveu, je me suis laissé entraîner par elle jusqu'à ces lointaines contrées. Notre intention n'est pas de séjourner à Conakry, mais bien de nous aventurer dans l'intérieur, en quête d'émotions et de spectacles neufs. Nos préparatifs sont terminés, et nous étions sur le point de partir, quand nous avons appris qu'une mission allait suivre, sous vos ordres, une route analogue à la nôtre. J'ai fait alors observer à Mlle Mornas que, si tranquille que fût ce pays, il me paraissait préférable de nous joindre à cette mission, si l'on voulait bien nous y accueillir.
+
+Nous venons donc vous demander l'autorisation de faire route de conserve avec vous.
+
+--- En principe, répondit Barsac, je n'y vois pas d'inconvénient, mais je dois, vous le comprendrez, consulter mes collègues.
+
+--- C'est trop naturel, approuva Saint-Bérain.
+
+--- Peut-être, suggéra Barsac, craindront-ils que la présence d'une femme ne retarde notre marche et ne soit peu compatible avec l'exécution du programme qui nous a été tracé... Dans ce cas...
+
+--- Qu'ils perdent cette crainte ? protesta l'oncle Agénor. Mlle Mornas est un vrai garçon. Elle vous demande elle-même de la traiter, non en compagne, mais en compagnon.
+
+--- Certes ! Approuva Jane Mornas. J'ajouterai que, même au point de vue matériel, nous ne vous causerons aucune gêne. Nous possédons chevaux et porteurs. Rien ne nous manque, et nous avons jusqu'à deux Bambaras, deux anciens tirailleurs sénégalais, que nous avons engagés en qualité de guides et d'interprètes. Vous voyez que vous pouvez nous accueillir sans crainte.
+
+--- Dans ces conditions, en effet... Reconnut Barsac. Enfin, j'en parlerai ce soir même à mes collègues, et, s'ils sont de mon avis, c'est une affaire entendue. Où pourrai-je vous donner une réponse définitive ?
+
+--- Demain, au moment du départ, car de toute façon nous quitterons Conakry dès demain.
+
+Les choses étant ainsi convenues, les visiteurs prirent congé.
+
+Au dîner du gouverneur, Barsac transmit, en effet, à ses collègues la requête qu'on lui avait présentée. Elle reçut un favorable accueil.
+
+Seul Baudrières crut devoir faire ses réserves. Non pas qu'il se refusât positivement à agréer la demande de cette jolie compagne de route, dont Barsac prit la défense avec plus de chaleur peut-être qu'il n'était strictement nécessaire, mais enfin il manifesta une certaine hésitation. L'incident lui paraissait louche. Était-il admissible qu'une jeune fille s'aventurât dans un pareil voyage ? Non, vraiment, le prétexte donné n'était pas sérieux, et l'on devait croire qu'on en dissimulait le véritable but. Ceci posé, n'était-on pas en droit de craindre que la requête ne cachât quelque piège ? Qui sait, même, si elle n'avait aucune corrélation avec les bruits mystérieux dont le ministre s'était fait discrètement l'écho à la tribune de la Chambre ?
+
+On rassura Baudrières en riant.
+
+--- Je ne connais ni M. De Saint-Bérain, ni Mlle Mornas, déclara M. Valdonne, mais, depuis quinze jours qu'ils sont à Conakry, je les avais remarqués.
+
+--- On remarquerait à moins ! s'écria Barsac avec conviction.
+
+--- Oui, la jeune fille est fort belle, approuva M. Valdonne. Ils arrivent, m'a-t-on assuré, de Saint-Louis du Sénégal, par le bateau qui dessert la côte, et, si singulier que cela paraisse, ils semblent bien faire un simple voyage d'agrément, ainsi qu'ils l'ont dit à M. Barsac. Pour ma part, je ne pense pas qu'il y ait le moindre inconvénient à leur donner satisfaction. L'opinion du lieutenant-gouverneur prévalut sans autre opposition.
+
+C'est ainsi que la mission dont Barsac était le chef s'augmenta de deux recrues et fut portée au total de dix membres, y compris Amédée Florence, reporter de l'Expansion française, mais non compris les porteurs et l'élément militaire.
+
+C'est ainsi que le hasard put, le lendemain matin, favoriser Pierre Marcenay, capitaine d'infanterie coloniale et commandant de l'escorte, en lui permettant de devancer Barsac, au moment où celui-ci se précipitait aussi vite que cela est possible à un quadragénaire légèrement ventripotent, en vue d'aider Mlle Mornas à se mettre en selle.
+
+--- *Armis cedat insigne*, dit, en montrant du doigt la place de son écharpe absente, Barsac, qui avait fait ses humanités.
+
+Mais on voyait bien qu'il n'était pas content.
+
+]
+
+L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+]

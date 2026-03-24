@@ -1,0 +1,32 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA CONFESSION DE CLAUDE"
+slug_oeuvre: "la-confession-de-claude"
+section: "Chapitre 07"
+slug_section: "chapitre-07"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LA CONFESSION DE CLAUDE
+
+Liste des romans
+
+ !
+
+## VI
+Je me suis remis au travail, mais avec répugnance et las dès la première heure. Maintenant que j'ai soulevé un coin du voile, je n'ai ni le courage de le laisser retomber, ni celui de l'écarter tout à fait. Lorsque je m'assieds devant ma table, je m'accoude tristement, laissant glisser la plume de mes doigts, me disant : « À quoi bon ? » Mon intelligence me semble épuisée, je n'ose relire les quelques phrases que j'écris, je ne me sens plus cette joie du poète, qu'une rime heureuse fait rire sans raison comme un enfant. Grondez-moi, frères, les vers faux ne me donnent plus l'insomnie.
+
+Mes faibles ressources s'épuisent. Je puis calculer, à un jour près, le soir où je manquerai de tout. J'achève mon pain, ayant presque hâte de le finir, pour ne plus le voir diminuer à chaque repas. Je me livre lâchement à la misère ; la lutte m'effraie.
+
+Ah ! Combien ils mentent, ceux qui prétendent que la pauvreté est mère du talent ! Qu'ils comptent ceux que le désespoir a faits illustres et ceux qu'il a lentement avilis. Quand les larmes naissent d'une blessure reçue au coeur, les rides qu'elles creusent sont belles et nobles ; mais quand c'est la faim du corps qui les fait couler, lorsque chaque soir une bassesse ou un labeur de brute les essuient, elles sillonnent la face affreusement sans lui donner la douloureuse sérénité de la vieillesse.
+
+Non, puisque je suis si pauvre qu'il me faudra peut-être mourir demain, je ne puis travailler. Lorsque l'armoire était pleine, j'avais grand courage, je me sentais la force de gagner mon pain. Aujourd'hui, elle est vide, et tout m'est lassitude. Il me sera plus facile de souffrir la faim que de faire le moindre effort.
+
+Allez, je sais bien que je suis lâche et parjure à nos serments, je sais que je n'ai pas le droit de me réfugier déjà dans la défaite. J'ai vingt ans : je ne puis être las d'un monde que j'ignore. Hier, je le rêvais doux et bon. Est-ce un nouveau rêve que de le juger mauvais aujourd'hui ?
+
+Que voulez-vous, frères, mon premier pas a été malheureux : je n'ose avancer. Je vais épuiser ma souffrance, verser toutes mes larmes, et le sourire me reviendra. Je travaillerai plus gaiement demain.

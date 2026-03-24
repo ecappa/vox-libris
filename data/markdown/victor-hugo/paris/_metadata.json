@@ -1,0 +1,13 @@
+{
+  "auteur": "Victor Hugo",
+  "titre": "PARIS",
+  "slug": "paris",
+  "nombre_chapitres": 0,
+  "structure": [],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/victor-hugo/paris/00726.jpg",
+    "images/victor-hugo/paris/00727.jpg"
+  ]
+}

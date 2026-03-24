@@ -1,0 +1,65 @@
+# [!{#Image373 .calibre16} À PROPOS DU GÉANT]{#_Toc342943207 .pcalibre .pcalibre2 .pcalibre1} {#calibre_toc_21 .calibre6}
+
+::: MsoToc1
+
+------------------------------------------------------------------------
+
+(1863)
+Jules Verne
+Essais et ouvrages historiques
+
+::: MsoToc
+
+------------------------------------------------------------------------
+
+
+[
+]{.calibre542}
+
+Il semble que la question des ballons ait fait de nouveaux progrès depuis les audacieuses tentatives de Nadar. La science aérostatique paraissait abandonnée depuis longtemps ; et, pour tout dire, elle ne fit pas de grands progrès depuis la fin du dix-huitième siècle ; les physiciens du jour avaient tout inventé : le gaz hydrogène pour gonfler le ballon, le filet pour contenir le taffetas et soutenir la nacelle, et enfin la soupape pour donner issue au gaz ; les moyens d\'ascension et de descente par l\'abandon du gaz ou du lest étaient également trouvés. Donc, en quatre-vingt ans, l\'art des aéronautes demeura stationnaire.
+
+Est-ce à dire que les tentatives de Nadar aient amené de nouveaux progrès ? Peut-être ; je suis tenté de dire : évidemment. Et voici pourquoi :
+
+D\'abord, ce courageux et intrépide artiste a ravivé la question oubliée ; il a profité de sa situation sympathique dans la presse et vis-à-vis des journalistes pour rappeler l\'attention publique sur ce sujet. Au commencement des grandes découvertes, il y a toujours un homme de cette trempe, chercheur de difficultés, amoureux de l\'impossible, qui tente, essaye, réussit plus en moins, mais enfin donne le branle ; les savants s\'en mêlent alors ; ils parlent, ils écrivent, ils calculent, et, un beau jour, le succès éclate à tous les yeux.
+
+C\'est ce qu\'amèneront les hardies ascensions de Nadar ; que l\'art de s\'élever et de se diriger dans l\'air devienne jamais un moyen pratique de locomotion, et la postérité, si elle est juste, lui devra une belle part de sa reconnaissance.
+
+Je ne viens point ici narrer les voyages du Géant ; d\'autres l\'ont fait, qui, l\'ayant accompagné dans son vol, furent mieux placés pour voir, partant pour raconter. Je veux seulement, en quelques lignes indiquer la direction que tend à prendre la science aéronautique.
+
+D\'abord, suivant Nadar, le Géant doit être le dernier ballon ; les difficultés de ses descentes démontrent surabondamment combien un aussi vaste appareil est dangereux à guider, impossible à conduire.
+
+On veut donc en arriver à supprimer le ballon tout simplement ; la chose est-elle possible ? M. Babinet le croit, comme si l\'idée venait de lui ; MM. de Ponton d\'Amécourt et de La Landelle affirment avoir vaincu la difficulté et résolu le problème.
+
+Mais avant d\'entrer dans les détails de leur invention, finissons-en avec les ballons, et laissez-moi vous parler de l\'appareil de M. de Laze. Je l\'ai vu fonctionner en petit, et c\'est à coup sûr ce qui a été fait de plus ingénieux pour diriger un aérostat, si un aérostat est chose dirigeable : d\'ailleurs l\'inventeur a été logique : au lieu de chercher à pousser la nacelle, il a cherché à pousser le ballon.
+
+Pour cela, il lui a donné la forme d\'un cylindre allongé : sur ce cylindre il a disposé les branches d\'une hélice ; il a relié les deux extrémités du cylindre à la nacelle par des fils enroulés sur des poulies ; ces fils sont destinés à donner, au moyen d\'un moteur quelconque, un mouvement de rotation au cylindre, et le ballon se visse littéralement dans l\'air.
+
+Il est certain que l\'appareil marche, et marche très bien ; il ne pourra certainement pas remonter des courants extrêmement forts ; mais, par des vents moyens, je crois qu\'il devra se diriger ; d\'ailleurs l\'aéronaute aura encore à sa disposition des plans inclinés qui, développés dans un sens ou dans l\'autre, lui permettront de courir de véritables bordées verticales.
+
+Son ballon doit être construit en cuivre, de manière à éviter la déperdition du gaz hydrogène pur, qui est très subtil, et M. de Luze espère produire des mouvements d\'ascension et de descente au moyen d\'une poche placée à la intérieur du ballon, et dans laquelle il refoulera de l\'air au moyen d\'une pompe.
+
+Voici très sommairement son invention ; on le voit, ce qu\'il y a de plus ingénieux, c\'est le ballon faisant hélice lui-même. M. de Luze réussira-t-il ? Nous le verrons, puisqu\'il se propose de se promener pendant deux jours au-dessus de Paris.
+
+Mais je reviens au projet de MM. de Ponton d\'Amécourt et de La Landelle ; il y a là quelque chose de très sérieux ; il reste à savoir si leur idée est praticable avec les moyens que la mécanique actuelle met à leur disposition.
+
+Vous connaissez ces jouets d\'enfants faits des palettes auxquelles on communique une vive rotation au moyen d\'une corde rapidement déroulée ; l\'objet s\'envole et plane dans l\'air tant que l\'hélice conserve son mouvement giratoire ; si ce mouvement continuait, l\'appareil ne retomberait pas ; imaginez un ressort qui agisse incessamment, et le jouet se maintiendra.
+
+C\'est sur ce principe qu\'est fondé l\'hélicoptère de M. de Ponton d\'Amécourt ; l\'air offre un point d\'appui suffisant à l\'hélice, qui le frappe obliquement ; tout cela est physiquement vrai, et j\'ai vu de mes yeux fonctionner de petits appareils fabriqués par ces messieurs ; un ressort bandé, lâche tout à coup, s\'enlevait avec l\'hélice.
+
+Avec une troisième hélice, verticale, il dirige son appareil comme il l\'entend. Ainsi donc, au moyen des deux premières, il se soutient dans l\'air ; au moyen de la troisième, il se pousse comme s\'il était dans l\'eau.
+
+Voilà donc théoriquement le moyen trouvé, l\'hélicoptère ; mais, pratiquement, cela réussira-t-il ? tout dépendra du moteur employé à mouvoir l\'hélice ; il faut qu\'il soit à la fois puissant et léger. Malheureusement, jusqu\'ici les machines à air comprimé ou à vapeur, en aluminium ou en fer, n\'ont pas donné de résultats complets.
+
+Je sais bien que les expérimentateurs travaillaient en petit, et que, pour réussir, il faut opérer en grand, car à mesure que le volume de l\'appareil s\'accroît, son poids relatif diminue ; en effet, une machine de la force de vingt chevaux pèse beaucoup moins que vingt machines de la force d\'un cheval. Attendons donc patiemment des expériences plus décisives. Les inventeurs sont gens instruits et résolus ; ils iront jusqu\'au bout de leur découverte.
+
+Mais il leur faut de l\'argent, et peut-être beaucoup ; c\'est à le gagner, cet argent, que Nadar s\'est dévoué tout entier ; c\'est pour cela qu\'il a convoqué la foule à venir voir ses audacieuses ascensions. Les spectateurs ne sont pas accoures en assez grand nombre, parce qu\'ils ne songeaient peut-être qu\'à un plaisir présent ; si Nadar recommence, qu\'ils pensent l\'utilité future et le champ de Mars sera trop petit pour les contenir.
+
+Il ne s\'agit plus, on le voit, de planer ou de voler dans les airs, mais d\'y naviguer.
+
+Un savant a dit fort humoristiquement : « L\'homme aura beau faire, en se transformant en volatile, il ne sera jamais qu\'un dindon, et le dindon de la farce. »
+
+Préconisons donc l\'hélicoptère, et prenons pour devise la devise de Nadar :
+
+Tout ce qui est possible se fera.
+
+Mais évidemment la colonne d\'air chassée par l\'hélice donnerait à l\'appareil un mouvement de rotation inverse ; il fallait donc obvier à cet inconvénient, car l\'aéronaute eût été promptement étourdi par cette valse aérienne. Aussi, au moyen de deux hélices superposées et tournant dans des directions opposées, M. de Ponton d\'Amécourt a pu rendre l\'immobilité complète.

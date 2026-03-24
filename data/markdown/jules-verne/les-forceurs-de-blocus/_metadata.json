@@ -1,0 +1,121 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES FORCEURS DE BLOCUS",
+  "slug": "les-forceurs-de-blocus",
+  "nombre_chapitres": 10,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Le Delphin.",
+      "slug": "chapitre-1-le-delphin",
+      "is_part": false,
+      "spine_start": 422,
+      "spine_end_exclusive": 423,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_045.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – L'appareillage.",
+      "slug": "chapitre-2-lappareillage",
+      "is_part": false,
+      "spine_start": 423,
+      "spine_end_exclusive": 424,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – En mer.",
+      "slug": "chapitre-3-en-mer",
+      "is_part": false,
+      "spine_start": 424,
+      "spine_end_exclusive": 425,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – Les malices de Crockston.",
+      "slug": "chapitre-4-les-malices-de-crockston",
+      "is_part": false,
+      "spine_start": 425,
+      "spine_end_exclusive": 426,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – Les boulets de l'Iroquois et les arguments de Miss Jenny.",
+      "slug": "chapitre-5-les-boulets-de-liroquois-et-les-arguments-de-miss-jenny",
+      "is_part": false,
+      "spine_start": 426,
+      "spine_end_exclusive": 427,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_049.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Le chenal de l'île Sullivan.",
+      "slug": "chapitre-6-le-chenal-de-lile-sullivan",
+      "is_part": false,
+      "spine_start": 427,
+      "spine_end_exclusive": 428,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_050.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Un général sudiste.",
+      "slug": "chapitre-7-un-general-sudiste",
+      "is_part": false,
+      "spine_start": 428,
+      "spine_end_exclusive": 429,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_051.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – L'évasion.",
+      "slug": "chapitre-8-levasion",
+      "is_part": false,
+      "spine_start": 429,
+      "spine_end_exclusive": 430,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_052.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – Entre deux feux.",
+      "slug": "chapitre-9-entre-deux-feux",
+      "is_part": false,
+      "spine_start": 430,
+      "spine_end_exclusive": 431,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_053.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Saint-Mungo.",
+      "slug": "chapitre-10-saint-mungo",
+      "is_part": false,
+      "spine_start": 431,
+      "spine_end_exclusive": 432,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/VerneII_split_054.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

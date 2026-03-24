@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES COQUILLAGES DE M. CHABRE",
+  "slug": "les-coquillages-de-m-chabre",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1278,
+      "spine_end_exclusive": 1279,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_288.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1279,
+      "spine_end_exclusive": 1280,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_289.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1280,
+      "spine_end_exclusive": 1281,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_290.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1281,
+      "spine_end_exclusive": 1282,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_291.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1282,
+      "spine_end_exclusive": 1283,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_292.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1283,
+      "spine_end_exclusive": 1284,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_293.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 1284,
+      "spine_end_exclusive": 1286,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_294.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_295.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-coquillages-de-m-chabre/Zola4_image025.jpg"
+  ]
+}

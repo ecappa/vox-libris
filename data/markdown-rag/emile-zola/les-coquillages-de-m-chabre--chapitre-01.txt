@@ -1,0 +1,92 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LES COQUILLAGES DE M. CHABRE"
+slug_oeuvre: "les-coquillages-de-m-chabre"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LES COQUILLAGES DE M. CHABRE
+
+[Liste des contes et nouvelles
+
+!
+
+## I
+Le grand chagrin de M. Chabre était de ne pas avoir d'enfant. Il avait épousé une demoiselle Catinot, de la maison Desvignes et Catinot, la blonde Estelle, grande belle fille de dix-huit ans ; et, depuis quatre ans, il attendait, anxieux, consterné, blessé de l'inutilité de ses efforts.
+
+M. Chabre était un ancien marchand de grains retiré. Il avait une belle fortune. Bien qu'il eût mené la vie chaste d'un bourgeois enfoncé dans l'idée fixe de devenir millionnaire, il traînait à quarante-cinq ans des jambes alourdies de vieillard. Sa face blême, usée par les soucis de l'argent, était plate et banale comme un trottoir. Et il se désespérait, car un homme qui a gagné cinquante mille francs de rentes a certes le droit de s'étonner qu'il soit plus difficile d'être père que d'être riche.
+
+La belle Mme Chabre avait alors vingt-deux ans. Elle était adorable avec son teint de pêche mûre, ses cheveux couleur de soleil, envolés sur sa nuque. Ses yeux d'un bleu vert semblaient une eau dormante, sous laquelle il était malaisé de lire. Quand son mari se plaignait de la stérilité de leur union, elle redressait sa taille souple, elle développait l'ampleur de ses hanches et de sa gorge ; et le sourire qui pinçait le coin de ses lèvres disait clairement : « Est-ce ma faute ? » D'ailleurs, dans le cercle de ses relations, Mme Chabre était regardée comme une personne d'une éducation parfaite, incapable de faire causer d'elle, suffisamment dévote, nourrie enfin dans les bonnes traditions bourgeoises par une mère rigide. Seules, les ailes fines de son petit nez blanc avaient parfois des battements nerveux, qui auraient inquiété un autre mari qu'un ancien marchand de grains.
+
+Cependant, le médecin de la famille, le docteur Guiraud, gros homme fin et souriant, avait eu déjà plusieurs conversations particulières avec M. Chabre. Il lui expliquait combien la science est encore en retard. Mon Dieu ! Non, on ne plantait pas un enfant comme un chêne. Pourtant, ne voulant désespérer personne, il lui avait promis de songer à son cas. Et, un matin de juillet, il vint lui dire :
+
+« Vous devriez partir pour les bains de mer, cher monsieur... Oui, c'est excellent. Et surtout mangez beaucoup de coquillages, ne mangez que des coquillages. »
+
+M. Chabre, repris d'espérance, demanda vivement : « Des coquillages, docteur ?... Vous croyez que des coquillages... ?
+
+--- Parfaitement ! On a vu le traitement réussir. Entendez-vous, tous les jours des huîtres, des moules, des clovisses, des oursins, des arapèdes, même des homards et des langoustes. »
+
+Puis, comme il se retirait, il ajouta négligemment, sur le seuil de la porte :
+
+« Ne vous enterrez pas. Mme Chabre est jeune et a besoin de distractions... Allez à Trouville. L'air y est très bon. »
+
+Trois jours après, le ménage Chabre partait. Seulement, l'ancien marchand de grains avait pensé qu'il était complètement inutile d'aller à Trouville, où il dépenserait un argent fou. On est également bien dans tous les pays pour manger des coquillages ; même, dans un pays perdu, les coquillages devaient être plus abondants et moins chers. Quant aux amusements, ils seraient toujours trop nombreux. Ce n'était pas un voyage de plaisir qu'ils faisaient.
+
+Un ami avait enseigné à M. Chabre la petite plage du Pouliguen, près de Saint-Nazaire. Mme Chabre, après un voyage de douze heures, s'ennuya beaucoup, pendant la journée qu'ils passèrent à Saint-Nazaire, dans cette ville naissante, avec ses rues neuves tracées au cordeau, pleines encore de chantiers de construction. Ils allèrent visiter le port, ils se traînèrent dans les rues, où les magasins hésitent entre les épiceries noires des villages et les grandes épiceries luxueuses des villes. Au Pouliguen, il n'y avait plus un seul chalet à louer. Les petites maisons de planches et de plâtre, qui semblent entourer la baie des baraques violemment peinturlurées d'un champ de foire, se trouvaient déjà envahies par des Anglais et par les riches négociants de Nantes. D'ailleurs, Estelle faisait une moue, en face de ces architectures, dans lesquelles des bourgeois artistes avaient donné carrière à leur imagination.
+
+On conseilla aux voyageurs d'aller coucher à Guérande. C'était un dimanche. Quand ils arrivèrent, vers midi, M. Chabre éprouva un saisissement, bien qu'il ne fût pas de nature poétique. La vue de Guérande, de ce bijou féodal si bien conservé, avec son enceinte fortifiée et ses portes profondes, surmontées de mâchicoulis, l'étonna. Estelle regardait la ville silencieuse, entourée des grands arbres de ses promenades ; et, dans l'eau dormante de ses yeux, une rêverie souriait. Mais la voiture roulait toujours, le cheval passa au trot sous une porte, et les roues dansèrent sur le pavé pointu des rues étroites. Les Chabre n'avaient pas échangé une parole.
+
+« Un vrai trou ! murmura enfin l'ancien marchand de grains. Les villages, autour de Paris, sont mieux bâtis. »
+
+Comme le ménage descendait de voiture devant l'hôtel du Commerce, situé au centre de la ville, à côté de l'église, justement on sortait de la grand-messe. Pendant que son mari s'occupait des bagages, Estelle fit quelques pas, très intéressée par le défilé des fidèles, dont un grand nombre portaient des costumes originaux. Il y avait là, en blouse blanche et en culotte bouffante, des paludiers qui vivent dans les marais salants, dont le vaste désert s'étale entre Guérande et Le Croisic. Il y avait aussi des métayers, race complètement distincte, qui portaient la courte veste de drap et le large chapeau rond. Mais Estelle fut surtout ravie par le costume riche d'une jeune fille. La coiffe la serrait aux tempes et se terminait en pointe. Sur son corset rouge, garni de larges manches à revers, s'appliquait un plastron de soie broché de fleurs voyantes. Et une ceinture, aux broderies d'or et d'argent, serrait ses trois jupes de drap bleu superposées, plissées à plis serrés ; tandis qu'un long tablier de soie orange descendait, en laissant à découvert ses bas de laine rouge et ses pieds chaussés de petites mules jaunes.
+
+« S'il est permis ! dit M. Chabre, qui venait de se planter derrière sa femme. Il faut être en Bretagne pour voir un pareil carnaval. »
+
+Estelle ne répondit pas. Un grand jeune homme, d'une vingtaine d'années, sortait de l'église, en donnant le bras à une vieille dame. Il était très blanc de peau, la mine fière, les cheveux d'un blond fauve. On aurait dit un géant, aux épaules larges, aux membres déjà bossués de muscles, et si tendre, si délicat pourtant, qu'il avait la figure rose d'une jeune fille, sans un poil aux joues. Comme Estelle le regardait fixement, surprise de sa grande beauté, il tourna la tête, la regarda une seconde, et rougit.
+
+« Tiens ! murmura M. Chabre, en voilà un au moins qui a une figure humaine. Ça fera un beau carabinier.
+
+--- C'est M. Hector, dit la servante de l'hôtel, qui avait entendu. Il accompagne sa maman, Mme de Plougastel... Oh ! Un enfant bien doux, bien honnête ! »
+
+Pendant le déjeuner, à table d'hôte, les Chabre assistèrent à une vive discussion. Le conservateur des hypothèques, qui prenait ses repas à l'hôtel du Commerce, vanta la vie patriarcale de Guérande, surtout les bonnes moeurs de la jeunesse. À l'entendre, c'était l'éducation religieuse qui conservait ainsi l'innocence des habitants. Et il donnait des exemples, il citait des faits. Mais un commis voyageur, arrivé du matin, avec des caisses de bijoux faux, ricanait, en racontant qu'il avait aperçu, le long du chemin, des filles et des garçons qui s'embrassaient derrière les haies. Il aurait voulu voir les gars du pays, si on leur avait mis sous le nez des dames aimables. Et il finit par plaisanter la religion, les curés et les religieuses, si bien que le conservateur des hypothèques jeta sa serviette et s'en alla, suffoqué. Les Chabre avaient mangé, sans dire un mot, le mari furieux des choses qu'on entendait dans les tables d'hôte, la femme paisible et souriante, comme si elle ne comprenait pas.
+
+Pour occuper l'après-midi, le ménage visita Guérande. Dans l'église Saint-Aubin, il faisait une fraîcheur délicieuse. Ils s'y promenèrent doucement, levant les yeux vers les hautes voûtes, sous lesquelles des faisceaux de colonnettes montent comme des fusées de pierre. Ils s'arrêtèrent devant les sculptures étranges des chapiteaux, où l'on voit des bourreaux scier des patients en deux, et les faire cuire sur des grils, tandis qu'ils alimentent le feu avec de gros soufflets. Puis, ils parcoururent les cinq ou six rues de la ville, et M. Chabre garda son opinion : décidément, c'était un trou, sans le moindre commerce, une de ces vieilleries du Moyen Âge, comme on en avait tant démoli déjà. Les rues étaient désertes, bordées de maisons à pignon, qui se tassaient les unes contre les autres, pareilles à de vieilles femmes lasses. Des toits pointus, des poivrières couvertes d'ardoises clouées, des tourelles d'angle, des restes de sculptures usés par le temps, faisaient de certains coins silencieux comme des musées dormant au soleil. Estelle, qui lisait des romans depuis qu'elle était mariée, avait des regards langoureux, en examinant les fenêtres à petites vitres garnies de plomb. Elle songeait à Walter Scott.
+
+Mais, quand les Chabre sortirent de la ville pour en faire le tour, ils hochèrent la tête et durent convenir que c'était vraiment gentil. Les murailles de granit se développent sans une brèche, dorées par le soleil, intactes comme au premier jour. Des draperies de lierre et de chèvrefeuille pendent seules des mâchicoulis. Sur les tours, qui flanquent les remparts, des arbustes ont poussé, des genêts d'or, des giroflées de flamme, dont les panaches de fleurs brûlent dans le ciel clair. Et, tout autour de la ville, s'étendent des promenades ombragées de grands arbres, des ormes séculaires, sous lesquels l'herbe pousse. On marche là à petits pas, comme sur un tapis, en longeant les anciens fossés, comblés par endroits, changés plus loin en mares stagnantes dont les eaux moussues ont d'étranges reflets. Des bouleaux, contre les murailles, y mirent leurs troncs blancs. Des nappes de plantes y étalent leurs cheveux verts. Des coups de lumière glissent entre les arbres, éclairent des coins mystérieux, des enfoncements de poterne, où les grenouilles mettent seules leurs sauts brusques et effarés, dans le silence recueilli des siècles morts.
+
+« Il y a dix tours, je les ai comptées ! » s'écria M. Chabre, lorsqu'ils furent revenus à leur point de départ.
+
+Les quatre portes de la ville l'avaient surtout frappé, avec leur porche étroit et profond, où une seule voiture pouvait passer à la fois. Est-ce que ce n'était pas ridicule, au dix-neuvième siècle, de rester enfermé ainsi ? C'est lui qui aurait rasé les portes, de vraies citadelles, trouées de meurtrières, aux murs si épais, qu'on aurait pu bâtir à leur place deux maisons de six étages !
+
+« Sans compter, ajoutait-il, les matériaux qu'on retirerait également des remparts. »
+
+Ils étaient alors sur le Mail, vaste promenade exhaussée, formant un quart de cercle, de la porte de l'est à la porte du sud. Estelle restait songeuse, en face de l'admirable horizon qui s'étendait à des lieues, au-delà des toitures du faubourg. C'était d'abord une bande de nature puissante, des pins tordus par les vents de la mer, des buissons noueux, toute une végétation d'une verdure noire. Puis s'étendait le désert des marais salants, l'immense plaine nue, avec les miroirs des bassins carrés et les blancheurs des petits tas de sel, qui s'allumaient sur la nappe grise des sables. Et, plus loin, à la limite du ciel, l'Océan mettait sa profondeur bleue. Trois voiles, dans ce bleu, semblaient trois hirondelles blanches.
+
+« Voici le jeune homme de ce matin, dit tout d'un coup M. Chabre. Tu ne trouves pas qu'il ressemble au petit des Larivière ? S'il avait une bosse, ce serait tout à fait ça. »
+
+Estelle s'était lentement tournée. Mais Hector, planté au bord du Mail, l'air absorbé, lui aussi, par la vue lointaine de la mer, ne parut pas s'apercevoir qu'on le regardait. Alors, la jeune femme se remit lentement à marcher. Elle s'appuyait sur la longue canne de son ombrelle. Au bout d'une dizaine de pas, le noeud de l'ombrelle se détacha. Et les Chabre entendirent une voix derrière eux.
+
+« Madame, madame... »
+
+C'était Hector qui avait ramassé le noeud.
+
+« Mille fois merci, monsieur », dit Estelle avec son tranquille sourire.
+
+Il était bien doux, bien honnête, ce garçon. Il plut tout de suite à M. Chabre, qui lui confia son embarras sur le choix d'une plage et lui demanda même des renseignements. Hector, très timide, balbutiait.
+
+« Je ne crois pas que vous trouviez ce que vous cherchez ni au Croisic ni au bourg de Batz, dit-il en montrant les clochers de ces petites villes à l'horizon. Je vous conseille d'aller à Piriac... »
+
+Et il fournit des détails, Piriac était à trois lieues. Il avait un oncle dans les environs. Enfin, sur une question de M. Chabre, il affirma que les coquillages s'y trouvaient en abondance.
+
+La jeune femme tapait l'herbe rase du bout de son ombrelle. Le jeune homme ne levait pas les yeux sur elle, comme très embarrassé par sa présence.
+
+« Une bien jolie ville que Guérande, monsieur, finit par dire Estelle de sa voix flûtée.
+
+--- Oh ! Bien jolie », balbutia Hector, en la dévorant brusquement du regard.

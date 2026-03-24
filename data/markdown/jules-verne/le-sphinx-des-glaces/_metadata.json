@@ -1,0 +1,65 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LE SPHINX DES GLACES",
+  "slug": "le-sphinx-des-glaces",
+  "nombre_chapitres": 32,
+  "structure": [
+    {
+      "title": "Première partie",
+      "slug": "premiere-partie",
+      "is_part": true,
+      "spine_start": 1610,
+      "spine_end_exclusive": 1627,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_269.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_270.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_271.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_272.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_273.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_274.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_275.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_276.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_277.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_278.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_279.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_280.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_281.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_282.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_283.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_284.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_285.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Deuxième partie",
+      "slug": "deuxieme-partie",
+      "is_part": true,
+      "spine_start": 1627,
+      "spine_end_exclusive": 1644,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_286.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_287.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_288.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_289.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_290.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_291.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_292.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_293.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_294.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_295.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_296.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_297.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_298.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_299.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_300.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_301.htm",
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_302.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": []
+}

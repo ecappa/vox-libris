@@ -1,0 +1,255 @@
+{
+  "auteur": "Jules Verne",
+  "titre": "LES INDES NOIRES",
+  "slug": "les-indes-noires",
+  "nombre_chapitres": 22,
+  "structure": [
+    {
+      "title": "Chapitre 1 – Deux lettres contradictoires",
+      "slug": "chapitre-1-deux-lettres-contradictoires",
+      "is_part": false,
+      "spine_start": 772,
+      "spine_end_exclusive": 773,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_117.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 2 – Chemin faisant",
+      "slug": "chapitre-2-chemin-faisant",
+      "is_part": false,
+      "spine_start": 773,
+      "spine_end_exclusive": 774,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_118.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 3 – Le sous-sol du Royaume-Uni",
+      "slug": "chapitre-3-le-sous-sol-du-royaume-uni",
+      "is_part": false,
+      "spine_start": 774,
+      "spine_end_exclusive": 775,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_119.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 4 – La fosse Dochart",
+      "slug": "chapitre-4-la-fosse-dochart",
+      "is_part": false,
+      "spine_start": 775,
+      "spine_end_exclusive": 776,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_120.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 5 – La famille Ford",
+      "slug": "chapitre-5-la-famille-ford",
+      "is_part": false,
+      "spine_start": 776,
+      "spine_end_exclusive": 777,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_121.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 6 – Quelques phénomènes inexplicables",
+      "slug": "chapitre-6-quelques-phenomenes-inexplicables",
+      "is_part": false,
+      "spine_start": 777,
+      "spine_end_exclusive": 778,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_122.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 7 – Une expérience de Simon Ford",
+      "slug": "chapitre-7-une-experience-de-simon-ford",
+      "is_part": false,
+      "spine_start": 778,
+      "spine_end_exclusive": 779,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_123.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 8 – Un coup de dynamite",
+      "slug": "chapitre-8-un-coup-de-dynamite",
+      "is_part": false,
+      "spine_start": 779,
+      "spine_end_exclusive": 780,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_124.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 9 – La Nouvelle-Aberfoyle",
+      "slug": "chapitre-9-la-nouvelle-aberfoyle",
+      "is_part": false,
+      "spine_start": 780,
+      "spine_end_exclusive": 781,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_125.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 10 – Aller et retour",
+      "slug": "chapitre-10-aller-et-retour",
+      "is_part": false,
+      "spine_start": 781,
+      "spine_end_exclusive": 782,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_126.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 11 – Les dames de feu",
+      "slug": "chapitre-11-les-dames-de-feu",
+      "is_part": false,
+      "spine_start": 782,
+      "spine_end_exclusive": 783,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_127.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 12 – Les exploits de Jack Ryan",
+      "slug": "chapitre-12-les-exploits-de-jack-ryan",
+      "is_part": false,
+      "spine_start": 783,
+      "spine_end_exclusive": 784,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_128.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 13 – Coal-City",
+      "slug": "chapitre-13-coal-city",
+      "is_part": false,
+      "spine_start": 784,
+      "spine_end_exclusive": 785,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_129.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 14 – Suspendu à un fil",
+      "slug": "chapitre-14-suspendu-a-un-fil",
+      "is_part": false,
+      "spine_start": 785,
+      "spine_end_exclusive": 786,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_130.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 15 – Nell au cottage",
+      "slug": "chapitre-15-nell-au-cottage",
+      "is_part": false,
+      "spine_start": 786,
+      "spine_end_exclusive": 787,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_131.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 16 – Sur l'échelle oscillante",
+      "slug": "chapitre-16-sur-lechelle-oscillante",
+      "is_part": false,
+      "spine_start": 787,
+      "spine_end_exclusive": 788,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_132.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 17 – Un lever de soleil",
+      "slug": "chapitre-17-un-lever-de-soleil",
+      "is_part": false,
+      "spine_start": 788,
+      "spine_end_exclusive": 789,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_133.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 18 – Du lac Lomond au lac Katrine",
+      "slug": "chapitre-18-du-lac-lomond-au-lac-katrine",
+      "is_part": false,
+      "spine_start": 789,
+      "spine_end_exclusive": 790,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_134.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 19 – Une dernière menace",
+      "slug": "chapitre-19-une-derniere-menace",
+      "is_part": false,
+      "spine_start": 790,
+      "spine_end_exclusive": 791,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_135.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 20 – Le pénitent",
+      "slug": "chapitre-20-le-penitent",
+      "is_part": false,
+      "spine_start": 791,
+      "spine_end_exclusive": 792,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_136.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 21 – Le mariage de Nell",
+      "slug": "chapitre-21-le-mariage-de-nell",
+      "is_part": false,
+      "spine_start": 792,
+      "spine_end_exclusive": 793,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_137.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Chapitre 22 – La légende du vieux Silfax",
+      "slug": "chapitre-22-la-legende-du-vieux-silfax",
+      "is_part": false,
+      "spine_start": 793,
+      "spine_end_exclusive": 794,
+      "files": [
+        "/private/tmp/epub_extract/verne/OEBPS/Text/AjoutVerne_26022013_split_138.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/jules-verne/les-indes-noires/image002.jpg"
+  ]
+}

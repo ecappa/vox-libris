@@ -1,0 +1,60 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA CONFESSION DE CLAUDE"
+slug_oeuvre: "la-confession-de-claude"
+section: "Chapitre 11"
+slug_section: "chapitre-11"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+LA CONFESSION DE CLAUDE
+
+Liste des romans
+
+ !
+
+## X
+Je souffrais de voir Laurence affaissée et languissante. J'ai pensé que le travail était le grand rédempteur, et que la joie calme de la tâche accomplie lui ferait oublier le passé. Tandis que l'aiguille court lestement, le coeur s'éveille, l'activité des doigts donne à la rêverie une vivacité plus gaie et plus pure. La femme, penchée sur un métier, a je ne sais quel parfum de pudeur. Elle est là, tranquille et se hâtant. Hier, peut-être fille perdue dans une heure de paresse, l'ouvrière d'aujourd'hui a retrouvé l'active sérénité de la vierge. Parlez à son coeur, il vous répondra.
+
+Laurence m'a dit être lingère. J'ai désiré qu'elle restât auprès de moi, loin des ateliers ; il m'a semblé que ces heures paisibles passées ensemble, moi me contant quelque histoire, elle mêlant son rêve au fil de la broderie, nous uniraient d'une amitié plus douce et plus profonde. Elle a accepté cette idée de travail, comme elle accepte chacun de mes désirs, avec une obéissance passive, singulier mélange d'indifférence et de résignation.
+
+Après quelques recherches, j'ai découvert une vieille dame qui a bien voulu lui confier un peu d'ouvrage pour juger de son habileté. Elle a veillé jusqu'à minuit, car je devais reporter cet ouvrage le lendemain matin. Je me suis couché avant elle, et je l'ai regardée. Elle paraissait dormir ; son morne accablement ne l'avait pas quittée. L'aiguille, courant froide et régulière, me disait que le corps seul travaillait.
+
+La vieille dame a trouvé la mousseline mal brodée ; elle m'a déclaré que c'était là le travail d'une mauvaise ouvrière, et que je ne trouverais personne qui se contentât de ces grands points et de ce peu de grâce. J'avais craint ce qui arrivait : la pauvre fille, ayant eu des bijoux à quinze ans, ne pouvait en savoir long. Heureusement, quant à moi, je cherchais dans son travail la lente guérison de son coeur, et non l'habileté de ses doigts, ni le gain de ses veilles. Pour ne pas la rendre à l'oisiveté en lui imposant moi-même une tâche, j'ai résolu de lui cacher le refus décourageant de la vieille dame.
+
+J'ai acheté une bande de broderie, et je suis rentré, lui disant que son ouvrage était accepté et qu'on lui en confiait d'autre. Puis je lui ai remis les quelques sous qui me restaient, comme salaire de sa première veille. Je savais que le lendemain peut-être je ne pourrais agir ainsi, et je le regrettais. J'aurais désiré lui faire aimer la saveur du pain gagné honnêtement.
+
+Laurence a pris l'argent, sans s'inquiéter du repas du soir. Elle a couru faire emplette d'une rangée de boutons en velours pour sa robe bleue, qui se déchire et se tache déjà. Jamais je ne l'avais vue aussi active ; un quart d'heure lui a suffi pour coudre ces boutons. Elle a fait grande toilette, puis s'est admirée. La nuit est venue, et elle allait et venait encore par la chambre, regardant sa nouvelle parure. Comme j'allumais la lampe, je lui ai dit doucement de se mettre au travail. Elle a semblé ne pas m'entendre. Je lui ai répété mes paroles, et alors elle s'est assise brusquement, saisissant la broderie avec colère. Mon coeur s'est brisé.
+
+--- Laurence, lui ai-je dit, je ne veux pas que tu travailles par contrainte. Laisse là l'aiguille, s'il te plaît de ne rien faire. Je ne me sens pas le droit de t'imposer une tâche : tu es libre d'être bonne ou mauvaise.
+
+--- Non, non, m'a-t-elle répondu, tu désires que je travaille beaucoup. Je comprends qu'il me faut te payer ma nourriture et ma part de loyer. Je pourrai même payer pour toi, en veillant plus tard.
+
+--- Laurence ! Ai-je crié douloureusement. Va, pauvre fille, sois heureuse : tu ne toucheras plus une aiguille. Donne-moi cette broderie.
+
+Et j'ai jeté la mousseline au feu. Je l'ai regardée brûler, regrettant ma vivacité. Je n'avais pas été maître de mon angoisse, et je me désolais de sentir Laurence m'échapper de nouveau. Je venais de la rendre à la paresse. Je frémissais à cette pensée outrageante de gain, je comprenais qu'il ne m'était plus possible de lui conseiller le travail. Ainsi, c'en était fait : une parole avait suffi pour que je lui défendisse moi-même la rédemption.
+
+Laurence n'a pas semblé surprise de mon brusque mouvement. Je vous l'ai dit, elle accepte plus aisément la colère que l'affection. Elle a même souri de vaincre ce qu'elle appelle mon ennui. Puis elle a croisé les mains, heureuse de son oisiveté.
+
+Triste, remuant les cendres chaudes, j'ai songé par quelle parole, par quel sentiment éveiller cette âme. Je me suis effrayé de n'avoir pu lui rendre encore la fraîcheur de sa jeunesse. Je l'aurais voulue ignorante, avide de connaître. Je désespérais de cette indifférence morne, de cette nuit contente de son ombre, et si épaisse qu'elle se refusait au jour. Vainement je frappais au coeur de Laurence : rien ne répondait. C'était à croire que la mort avait passé là et qu'elle avait desséché chaque fibre. Un seul frémissement, je l'aurais crue sauvée.
+
+Mais que faire de ce néant, de cette créature désolée, marbre insensible que l'affection ne pouvait animer. Les statues m'épouvantent : elles me regardent sans me voir, m'écoutent sans m'entendre.
+
+Puis, je me suis dit que la faute était peut-être à moi, si je ne pouvais me faire comprendre. Didier aimait la Marion ; il ne cherchait point à sauver une âme, il aimait simplement, et il fit ce miracle que ma raison et ma bonté cherchaient en vain à accomplir. Un coeur ne s'éveille qu'à la voix d'un coeur. L'amour est le saint baptême qui, de lui-même, sans la foi, sans la science du bien, remet tous les péchés.
+
+Moi, je n'aime pas Laurence. Cette fille, froide et ennuyée, ne me cause que dégoût.
+
+Sa voix, son geste, me semblent des insultes ; sa personne entière me blesse. Privée de toute délicatesse d'esprit, elle rend odieuse la meilleure parole et met un outrage dans chacun de ses sourires. En elle tout devient mauvais.
+
+J'ai voulu feindre la tendresse, et je me suis approché. Elle est restée immobile, penchée vers le foyer, m'abandonnant ses mains froides et inertes. Alors, je l'ai attirée près de moi. Elle a levé la tête, me questionnant du regard. Sous ce regard, j'ai reculé, en la repoussant.
+
+--- Que veux-tu donc ? M'a-t-elle dit.
+
+Ce que je voulais ! Mes lèvres se sont ouvertes pour lui crier : -- Je veux que tu laisses là ce corsage de soie qui s'ouvre au premier désir qui l'effleure. Je veux que tu aimes, que tu sentes dans le baiser d'un amant la caresse d'un frère. Je veux que notre union ne soit pas un marché, que tu ne me vendes pas ton corps pour acheter l'abri de mon toit. Comprends-moi, par pitié, ne m'insulte pas !
+
+Frères, j'ai gardé le silence. Si je l'avais aimée, j'aurais sans doute parlé, peut-être m'aurait-elle compris.

@@ -1,0 +1,358 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC"
+slug_oeuvre: "letonnante-aventure-de-la-mission-barsac"
+section: "Premiere Partie"
+slug_section: "premiere-partie"
+chapitre: "Chapitre 04"
+slug_chapitre: "chapitre-04"
+type: "chapitre"
+---
+
+### Chapitre 4 -- Un article de l'Expansion française
+Le 1er janvier, les lecteurs de l'Expansion française purent savourer, pour leurs étrennes, l'article suivant, dont le titre se détachait en gros caractères, et qui était dû à la plume parfois fantaisiste -- à beau mentir qui vient de loin ! -- de son habile reporter, M. Amédée Florence, dont le lecteur voudra bien excuser le style parfois familier :
+
+LA MISSION BARSAC
+
+(Par dépêche de notre envoyé spécial)
+
+La mission fait des petits -- Nous partons --
+
+Le coup de pied de l'âne -- Un repas noir --
+
+As-tu vu la lune ? -- Trop d'asticots -
+
+Une élégante -- Nouvelle recrue
+
+*Dans la brousse, 1er décembre* -- Comme je vous l'ai dit dans ma dernière dépêche, la mission Barsac devait se mettre en route aujourd'hui, 1er décembre, à six heures du matin. À l'heure dite, nous étions tous prêts, y compris deux volontaires qui sont venus se joindre aux huit membres tant officiels qu'officieux que l'on sait. Nul ne songe à s'en plaindre. L'un de ces volontaires est, en effet, une ravissante jeune fille, une Française élevée en Angleterre, d'où elle a rapporté un léger accent des plus agréables. Mlle Jane Mornas, tel est son nom. L'autre volontaire, son oncle -- à moins qu'il ne soit son neveu, car je n'ai pu débrouiller encore leurs liens de parenté -- s'appelle Agénor de Saint-Bérain. C'est un franc original, dont les distractions, déjà légendaires à Conakry, nous permettent d'espérer quelques bons moments.
+
+Mlle Mornas et M. De Saint-Bérain voyagent pour leur plaisir.
+
+Je manquerais à toutes les règles de la galanterie si je n'ajoutais pas : et pour le nôtre. Ils ont amené avec eux deux domestiques nègres, anciens tirailleurs sénégalais, qui devaient leur servir de guides, sinon d'interprètes, car nos deux globe-trotters parlent très suffisamment le bambara et divers dialectes des pays que nous allons traverser. Mlle Mornas, en particulier, a une façon à elle de vous aborder par un *Ini-tié* (bonjour) ! Je ne vous dis que ça !
+
+M. Barsac a retenu le mot et le répète à tout propos, mais, dans sa bouche, il n'a plus le même charme.
+
+Donc, ce matin, 1er décembre, dès cinq heures et demie, nous étions tous réunis sur la grande place de Conakry, devant la Résidence.
+
+Ainsi que je vous l'ai expliqué précédemment, M. Barsac désirait faire une expédition pacifique au point d'être exclusivement civile. Aussi optimiste qu'à la tribune de la Chambre, il pensait n'avoir qu'à se présenter aux populations, un rameau d'olivier à la main, et faire ainsi, en marchant parallèlement au Niger, une promenade de santé de Conakry à Cotonou. C'était aussi l'idée de Mlle Mornas, qui craignait d'effrayer les indigènes par un trop grand déploiement de forces.
+
+Mais le parti Barsac-Mornas s'est heurté à l'opposition du parti Baudrières. Le chef adjoint de la mission -- en voilà un qui n'a pas le sourire ! -- fit un sombre tableau des dangers que nous allions courir, parla de la dignité d'une mission dirigée par deux représentants du peuple français, du prestige que lui donnerait une escorte de soldats réguliers, et ce qui nous étonna, il fut appuyé par le gouverneur, M. Valdonne.
+
+Sans contester que la pénétration française n'eût pacifié dans une large mesure le pays noir, celui-ci répéta ce que le ministre des Colonies, M. Chazelle, a déjà avancé à la tribune de la Chambre. M. Valdonne nous dit que des faits assez mystérieux, ou du moins inexpliqués, autorisaient à craindre qu'un soulèvement ne fût en préparation. Il paraîtrait que, depuis une dizaine d'années et tout récemment encore, plus particulièrement dans la région du Niger, de Say à Djenné, des villages entiers ont été abandonnés subitement et que leurs habitants ont disparu, et que d'autres villages ont été pillés et brûlés, on ignore par qui. En somme, des rumeurs tendant à faire croire que quelque chose -- nul ne sait trop quoi -- s'apprêterait dans l'ombre.
+
+La prudence la plus élémentaire obligeait donc la mission à se faire escorter par une troupe armée. Cet avis a prévalu, à la grande satisfaction de M. Baudrières, et M. Barsac doit se résigner à subir la protection du capitaine Marcenay et de ses deux cents cavaliers.
+
+À six heures, tout est prêt. Le convoi se forme sous la direction d'un nègre qui a déjà fait plusieurs fois le voyage de Conakry à Sikasso, et qui doit nous servir de guide. Il se nomme Moriliré. C'est un grand gaillard de trente ans, ancien *dou-goukoussadigui* (officier) de Samory. Il est vêtu d'une culotte en guinée et d'une vieille vareuse d'infanterie coloniale aux galons élimés et crasseux. S'il a les pieds nus, sa tête, par contre, est couverte d'un casque en toile autrefois blanche orné d'un superbe plumet tricolore. Quant à l'insigne de ses fonctions, c'est une trique solide, qui lui servira à se faire mieux comprendre des porteurs et des âniers.
+
+Aussitôt après lui se place Mlle Mornas, encadrée de M. Barsac et du capitaine Marcenay.
+
+Eh ! Eh ! Ils ne paraissent pas être restés insensibles à la beauté de la jeune fille. Parions que, le long du voyage, ils vont lutter de galanterie. Vos lecteurs peuvent être sûrs que je les tiendrai au courant des péripéties de ce match.
+
+M. Baudrières suit ce premier groupe à une encolure (ai-je dit que nous étions tous à cheval ?), mais son regard sévère semble désapprouver son collègue de montrer aussi visiblement combien notre aimable compagne est à son goût. Du coin de l'oeil, je le regarde, le chef adjoint. Qu'il est maigre ! Et froid ! Et triste ! Ah ! Fichtre non, il ne l'a pas, le sourire !
+
+À trois pas derrière l'honorable député du Nord, viennent MM. Heyrieux, Poncin et Quirieu, puis le docteur Châtonnay et le géographe, M. Tassin, qui discutent -- déjà ! -- ethnographie.
+
+Le convoi proprement dit marchera à leur suite. Il est composé de cinquante ânes conduits par vingt-cinq âniers, et de cinquante porteurs, dont dix appartenant en propre à Mlle Mornas et à M. De Saint-Bérain. Sur les flancs, les cavaliers du capitaine Marcenay. Quant à votre serviteur, il se réserve de caracoler le long de la colonne et d'aller de l'un à l'autre. Tchoumouki et Tongané, les deux serviteurs de Mlle Mornas, forment l'arrière-garde.
+
+À six heures juste, le signal du départ est donné. La colonne s'ébranle. À ce moment le drapeau tricolore est hissé sur la Résidence -- pardon ! Soyons couleur locale : sur la case du gouverneur, qui, en grand uniforme, comme il convient, nous adresse un dernier salut du haut de son balcon. Les clairons et les tambours de la section d'infanterie coloniale détachée à Conakry sonnent et battent aux champs.
+
+Nous levons nos chapeaux. L'instant est un peu solennel, et -- riez si vous voulez -- j'aila paupière humide, je l'avoue.
+
+Pourquoi faut-il que cette solennité soit troublée par un incident ridicule ? Saint-Bérain ? Où est Saint-Bérain ? On a oublié Saint-Bérain. On le cherche, on l'appelle. Les échos d'alentour retentissent de son nom. C'est en vain. Saint-Bérain ne répond pas.
+
+On commence à craindre un malheur. Cependant, Mlle Mornas ne paraît pas inquiète et nous nous rassurons.
+
+Non, Mlle Mornas n'est pas inquiète. Mais elle est furieuse, par exemple !
+
+--- Je ramène M. De Saint-Bérain dans trois minutes, dit-elle, les dents serrées.
+
+Et elle pique des deux.
+
+Auparavant, toutefois, elle a pris le temps de se tourner de mon côté et de me dire : « Monsieur Florence ? » avec un petit air de prière que j'ai parfaitement compris. C'est pourquoi je pique des deux, moi aussi, et m'élance à sa suite.
+
+En quelques foulées, nous sommes au bord de la mer, côté du large -- vous savez, sans doute, que Conakry est dans une île -- et là, qu'est-ce que je vois ?
+
+M. De Saint-Bérain. Oui, Mesdames et Messieurs, M. De Saint-Bérain en personne naturelle, comme vous et moi.
+
+Que peut-il bien faire ? Pour le savoir, nous nous arrêtons un instant.
+
+M. De Saint-Bérain est confortablement assis sur le sable du rivage et n'a pas du tout l'air de se douter qu'il fait attendre une mission officielle. Il cause amicalement avec un nègre, qui lui montre des hameçons, probablement d'une forme inconnue en Europe, et lui donne à leur sujet de verbeuses explications.
+
+Puis tous deux se lèvent et se dirigent vers un canot à demi échoué sur la grève, et dans lequel le nègre embarque. Dieu me pardonne ! M. De Saint-Bérain ne fait-il pas mine d'embarquer, lui aussi ?
+
+Il n'en a pas le temps.
+
+--- Mon neveu ! Appelle tout à coup Mlle Mornas d'une voix sévère.
+
+(Décidément, c'est son neveu).
+
+Ce mot suffit. M. De Saint-Bérain se retourne et aperçoit sa tante, puisque tante il y a. Il est à croire que cette vue lui rafraîchit la mémoire, car le voilà qui pousse des exclamations désespérées, lève les bras au ciel, jette à son ami nègre une poignée de monnaie, s'empare, en échange, d'un lot d'hameçons qu'il fourre pêle-mêle dans sa poche, et accourt vers nous à toute vitesse.
+
+Il est si comique que nous éclatons de rire. Mlle Mornas découvre par ce moyen une double rangée de dents éblouissantes. Éblouissantes, je maintiens le mot.
+
+Nous tournons bride, et M. De Saint-Bérain trottine à côté de nos chevaux. Mais Mlle Mornas a pitié du pauvre homme, et, mettant sa monture au pas :
+
+--- Ne courez pas ainsi, mon oncle, lui dit-elle tendrement. Vous allez être en nage.
+
+(Alors, c'est son oncle ?... Oh ! Ma tête !)
+
+Nous retrouvons le convoi, où nous sommes accueillis par des sourires ironiques. M. De Saint-Bérain ne se trouble pas pour si peu. Il paraît seulement surpris de trouver sur la place autant de monde.
+
+--- Je suis donc en retard ? demande-t-il avec innocence.
+
+Alors, la colonne entière se met à rire, et M. De Saint-Bérain fait chorus. Il me plaît, à moi, ce particulier-là.
+
+Mais nous n'étions pas encore partis.
+
+Au moment où M. De Saint-Bérain se penchait pour vérifier, en bon cavalier qu'il est, la sangle de sa selle, la malchance voulut que l'étui à lignes qu'il porte en bandoulière vînt heurter le flanc d'un des ânes. L'animal était sensible. Il détacha une ruade à l'infortuné Saint-Bérain, qui roula dans la poussière.
+
+On se précipita à son secours. Mais notre original était déjà debout.
+
+--- Ça beaucoup bon !... Mossié avoir beaucoup veine, lui dit Tongané. Si y en a abeille piquer ou cheval donner coup de pied, grand voyage beaucoup bon.
+
+Sans lui répondre, M. De Saint-Bérain, sérieusement brossé, épousseté, sauta en selle, et le convoi put enfin s'ébranler.
+
+Pendant ce temps, le soleil s'était levé, et ses premières lueurs éclairaient gaiement notre route.
+
+Celle que nous suivons, après avoir franchi le pont qui relie Conakry au continent, est assez bonne. C'est une vraie route large de cinq à six mètres, où une voiture pourrait aisément passer, que nous suivrons jusqu'à Timbo, c'est-à-dire pendant près de quatre cents kilomètres. Donc, jusqu'à Timbo tout au moins, nous n'avons à craindre aucune difficulté matérielle.
+
+D'autre part, il fait beau, la température est agréable -- à peine 17° à l'ombre -- et nous n'avons pas à redouter les terribles pluies des tropiques, dont la saison est passée.
+
+Allons ! Tout est pour le mieux dans le meilleur des mondes.
+
+Vers dix heures, nous franchîmes, sur un pont, un cours d'eau que M. Tassin nous dit être un affluent de la Manéa, ou de la Morébaya, à moins que ce ne fût l'une de ces deux rivières.
+
+À l'heure actuelle, nous sommes encore dans une cruelle incertitude à ce sujet.
+
+Au surplus, le passage des rivières est la monnaie courante des voyages dans cette partie de l'Afrique. Il n'y a, pour ainsi dire, pas de jour qu'il ne faille en traverser une ou plusieurs. Qu'il soit donc entendu, mes articles n'étant pas un cours de géographie, que je ne parlerai pas de cet exercice, à moins qu'il ne sorte, d'une manière ou de l'autre, de l'ordinaire.
+
+Aux environs de Conakry, la route suit une ligne à peu près droite, dans un pays peu accidenté. Elle est bordée de terres assez bien cultivées. Champs de maïs ou de mil, et quelques bouquets d'arbres : cotonniers, bananiers, papayers. On rencontre de rares hameaux parfaitement insignifiants, auxquels M. Tassin attribue avec assurance des noms que je crois de pure fantaisie. Mais, pour nous, c'est exactement comme s'ils étaient authentiques.
+
+Vers dix heures, la chaleur augmentant, le capitaine Marcenay commande la halte. Nous avons fait une vingtaine de kilomètres depuis Conakry, ce qui est très beau. Nous allons déjeuner et nous reposer, puis, après une nouvelle collation, nous repartirons vers cinq heures de l'après-midi, et nous camperons pour la nuit vers les neuf heures du soir.
+
+Ce programme devant être celui de chaque jour, je n'y reviendrai pas. Qu'il soit bien entendu, d'ailleurs, que mon intention n'est pas d'ennuyer vos lecteurs avec les menus détails de la route. Je vois les choses de plus haut, et je n'inscrirai sur mes tablettes que les faits remarquables à un titre quelconque.
+
+Cela dit, reprenons.
+
+L'endroit de la halte a été heureusement choisi par le capitaine Marcenay. Nous nous installons à l'ombre d'un petit bois qui nous abritera très suffisamment contre les ardeurs du soleil. Tandis que les soldats se dispersent, nous -- j'entends les membres de la mission, Mlle Mornas, le capitaine, M. De Saint-Bérain et votre serviteur -- nous, dis-je, prenons place dans une jolie clairière. J'offre un coussin à notre compagne, mais le capitaine Marcenay et M. Barsac m'ont prévenu et ont apporté chacun un pliant. Embarras. Mlle Mornas ne sait lequel choisir. Déjà le capitaine et le chef de la mission se regardent de travers. Mlle Mornas les met d'accord en s'asseyant par terre sur mon coussin. Ses deux soupirants me font des yeux mauvais.
+
+M. Baudrières s'assied à l'écart sur un petit tas d'herbe, au milieu d'un groupe composé de ceux que j'ai baptisés les « neutres ». Ce sont les délégués des divers ministères plus ou moins compétents, MM. Heyrieux, Quirieu et Poncin.
+
+Ce dernier, le plus remarquable des trois, n'a cessé de prendre des notes depuis le départ. Je ne sais trop lesquelles, par exemple. S'il était moins « officiel », j'oserais insinuer qu'il réalise à merveille le type de M. Prudhomme, mais sa grandeur me pose un boeuf sur la langue, comme eût dit le vieil Homère. Quel front ! Avec un front pareil on est étonnamment intelligent ou prodigieusement bête. Pas de milieu. Dans laquelle de ces deux catégories faut-il ranger M. Poncin ? Je le saurai à l'usage.
+
+Le docteur Châtonnay et M. Tassin, que nous comparons à ces oiseaux qu'on nomme des inséparables, vont s'installer sous un figuier. Ils étalent sur le sol des cartes de géographie. J'espère pour eux qu'ils ne vont pas en faire leur unique nourriture !
+
+Moriliré, qui est décidément un garçon débrouillard, fait apporter au milieu de notre groupe une table, puis un banc, sur lequel je m'installe, en réservant une place à M. De Saint-Bérain.
+
+M. De Saint-Bérain n'est pas là. D'ailleurs, M. De Saint-Bérain n'est jamais là !
+
+Moriliré prépare un fourneau de campagne. Aidé de Tchoumouki et de Tongané, il va nous faire la cuisine, car il a été décidé que l'on toucherait le moins possible aux conserves et aux provisions apportées d'Europe, et qu'on les réserverait pour les cas, que l'on espère rares, où le pays ne nous fournirait pas de vivres frais en quantité suffisante.
+
+Moriliré a acheté de la viande à Conakry. Il nous la montre :
+
+--- Moi, y en a faire bon ragoût avec sodé (agneau), tendre comme un petit enfant, dit-il.
+
+Tendre comme un enfant ! Cette comparaison nous donne le frisson. Moriliré aurait-il donc goûté à la chair humaine ? Nous le lui demandons. Il nous répond hypocritement qu'il n'en a jamais mangé lui-même, mais qu'il a entendu vanter l'exquise saveur. Hum !
+
+Notre premier repas ne rappelle en rien ceux du Café Anglais, mais il n'en est pas moins excellent. Qu'on en juge : quartier d'agneau grillé avec pâte de mil et sauce au beurre de karité, salade de coeurs de jeunes rôniers, gâteau de maïs, figues, bananes et noix de coco. Comme boisson, l'eau pure d'une source qui coule à nos pieds, et, pour ceux qui l'aiment, du vin de palme.
+
+Ces divers mets furent précédés d'un hors-d'oeuvre que notre maître d'hôtel n'avait pas prévu. Mais n'anticipons pas, comme on dit dans les romans bien charpentés.
+
+Tandis que Moriliré et ses deux aides nous préparent le repas annoncé, le docteur Châtonnay, qui s'était rapproché, nous donne, à son sujet, des explications que je qualifierai de techniques.
+
+--- Pour l'agneau, dit-il, je n'en parle pas ; vous en savez là-dessus autant que moi.
+
+Le mil, qui va l'accompagner sur notre table, est une céréale analogue au blé. Mélangé au beurre de karité ou de cé, car l'arbre qui le fournit porte ces deux noms, il constitue une sauce assez passable, à la condition que le beurre soit bon. Ce beurre est extrait du fruit de l'arbre, une sorte de noix ou de châtaigne. On l'obtient par une série de broyages et de fusions, et finalement on l'épure en le faisant fondre une dernière fois et en y jetant quelques gouttes d'eau froide pendant qu'il est en ébullition. Il devient alors fort appréciable.
+
+--- Vous savez tout, docteur, admire Mlle Mornas.
+
+--- Non, mademoiselle, mais j'ai beaucoup lu, et notamment l'ouvrage admirable du capitaine Binger. C'est encore lui qui va me permettre de vous apprendre ce qu'est la salade de rônier. Ces rôniers se divisent en mâles et en femelles. Les mâles ne produisent pas de fruits, mais fournissent un bois extraordinairement dense, qui a l'avantage de ne pas pourrir dans l'eau et d'être inattaquable aux termites. Le rônier femelle donne des fruits agréables au goût. Sa feuille se prête à divers usages : couverture des cases, fabrication des éventails, des nattes, des cordages. On peut même s'en servir comme papier à écrire. Voilà un végétal utile ! Quant à la salade, elle est fournie par le coeur d'un jeune rônier à la fleur de l'âge...
+
+J'interromps :
+
+--- Eh mais ! Docteur, c'est de l'élégie, ma parole !
+
+Le docteur a la bonté de sourire. Il reprend :
+
+L'excellent docteur en était là de ses explications scientifiques, lorsque notre attention fut attirée par des cris venant du bois.
+
+Nous reconnûmes sur-le-champ la voix qui les poussait.
+
+Parions que, si je pose à vos lecteurs cette simple question : « À qui appartenait cette voix ? » ils vont me répondre immédiatement en choeur : « Parbleu ! À M. De Saint-Bérain ! »
+
+Vos lecteurs ne se trompent pas. C'était bien M. De Saint-Bérain qui demandait du secours.
+
+Je me hâtai de courir à son appel suivi par le capitaine Marcenay et par M. Barsac. Nous le trouvâmes dans une mare, enfoncé dans la vase jusqu'au ventre.
+
+Quand on l'eut tiré au sec :
+
+--- Comment êtes-vous tombé dans ce marécage, ou dans ce marigot, pour employer le terme du pays ? lui demandai-je.
+
+--- J'ai glissé, répondit-il tout en m'éclaboussant, tandis que je pêchais. -- À la ligne ?
+
+--- Vous n'y songez pas. À la main, mon cher.
+
+--- À la main ?
+
+M. De Saint-Bérain nous montra son casque colonial enveloppé dans son veston de toile.
+
+--- Attendez, dit-il, sans me répondre autrement. Il faut déplier mon veston avec précaution, sinon elles vont se sauver.
+
+--- Qui, elles ?
+
+--- Les grenouilles.
+
+Tandis que nous devisions, M. De Saint-Bérain pêchait la grenouille. Quel enragé !
+
+--- Mes compliments, approuva M. Barsac. C'est succulent, la grenouille... Mais écoutez les coassements de celles que vous avez capturées. Elles ne veulent évidemment pas être mangées.
+
+--- À moins qu'elles ne crient pour demander un roi ! Hasardai-je. Ce n'était pas très fort, je le reconnais.
+
+Mais, dans la brousse !
+
+Sur ce mot, nous retournâmes au campement. Saint-Bérain changea de vêtements, et Moriliré fit cuire le produit de sa pêche. La table étant mise, nous mangeâmes avec l'appétit des gens qui ont avalé une vingtaine de kilomètres à cheval en guise d'apéritif.
+
+Mlle Mornas présidait, cela va de soi. Elle est vraiment délicieuse. (Je l'ai dit, je crois, mais je ne saurais trop le répéter.) Simple, bon enfant, gentiment garçonnière, elle nous a vite mis à l'aise.
+
+--- Mon oncle... (alors, c'est décidément son oncle ? C'est bien vu ? Bien entendu ?) Mon oncle, disait-elle, m'a élevée comme un garçon et il a fait de moi un homme. Oubliez mon sexe, je vous en prie, et considérez-moi comme un camarade.
+
+Ce qui ne l'a pas empêchée d'adresser, ce disant, au capitaine Marcenay un de ces demi-sourires qui montrent clair comme le jour que, chez les garçons de cette espèce-là, la coquetterie ne perd jamais ses droits.
+
+Nous prîmes le café. Après quoi, mollement étendus, dans les grandes herbes à l'ombre des palmiers, nous nous livrâmes aux douceurs de la sieste.
+
+Le départ était, comme je l'ai dit, fixé à cinq heures ; mais, quand il fallut reformer le convoi, il y eut du tirage, si j'ose employer cette forte expression.
+
+C'est en vain que Moriliré, le moment venu, ordonna à ses hommes de se préparer. À notre grand étonnement, ils s'y refusèrent, en criant tous à la fois qu'ils ne voyaient pas la lune, qu'ils ne partiraient pas tant qu'ils n'auraient pas vu la lune !
+
+Nous étions ahuris, mais le savant M. Tassin nous fit comprendre ce mystère.
+
+--- Je sais ce que c'est, nous expliqua-t-il, tous les explorateurs l'ont raconté dans leurs relations de voyage. Lorsque la lune est récente, et, ce soir, elle n'a que deux jours, les nègres ont coutume de dire : « C'est mauvais signe. Personne n'a encore vu la lune. Le chemin ne sera pas bon pour nous. »
+
+--- *Ioo ! Ioo !* (Oui ! Oui !) approuvèrent bruyamment les âniers et les porteurs réunis autour de nous, et auxquels Moriliré avait traduit les paroles du docte géographe. *Karo ! Karo !* (La lune ! La lune !).
+
+Il nous parut certain que si ce satellite continuait à refuser de se montrer, ces entêtés continueraient à refuser de partir. Or, il faisait encore jour, et le ciel était couvert.
+
+De fait, les moricauds s'obstinèrent, et peut-être serions-nous encore à la même place, si, un peu avant six heures, le pâle croissant de la lune ne s'était enfin montré entre deux nuages. Les Noirs poussèrent des cris joyeux.
+
+--- *Allah ma toula kendé*, disaient-ils, en se frappant le front de la main droite, Karo koutayé. (Dieu m'a laissé bien portant : je vois la nouvelle lune.)
+
+La colonne s'ébranla aussitôt sans autre difficulté. Seulement, on avait perdu deux heures, et l'étape du soir en fut raccourcie d'autant.
+
+Vers neuf heures, on s'arrête en pleine brousse et l'on dresse les tentes. La contrée n'est pas tout à fait déserte, cependant. À droite du sentier, il y a une case indigène, d'ailleurs abandonnée, et, à notre gauche, on en distingue une autre, qui, celle-ci, paraît habitée.
+
+Le capitaine Marcenay visite la première et, l'estimant suffisamment logeable, propose à Mlle Mornas d'y élire domicile pour la nuit.
+
+Celle-ci accepte et disparaît dans cet hôtel inespéré.
+
+Elle ne nous avait pas quittés depuis dix minutes qu'elle nous rappelait à grands cris.
+
+Nous accourons, et la trouvons debout devant la case, dont elle nous désigne le sol d'un geste dégoûté.
+
+--- Qu'est-ce que cela ? demanda-t-elle.
+
+Cela, c'étaient d'innombrables vers blancs. Ils sortaient de la terre et se traînaient à la surface en quantité si prodigieuse que le sol semblait onduler.
+
+--- Pensez, messieurs, dit Mlle Mornas, si j'ai eu peur quand j'ai senti leur froid contact sur ma figure, sur mes mains ! J'en avais partout, jusque dans mes poches ! J'ai beau me secouer, il en tombe toujours de mes vêtements. Pouah ! Les vilaines bêtes !
+
+M. De Saint-Bérain arrivait sur ces entrefaites. Il trouva sans effort le mot de la situation.
+
+--- Eh mais ! S'exclama-t-il, le visage épanoui, ce sont des asticots !
+
+Et c'étaient bien des asticots, en effet, car il s'y connaît, M. De Saint-Bérain.
+
+Déjà il se baissait, afin d'en faire une ample provision.
+
+--- Toi, y en a pas besoin, lui dit Tongané. Y en a beaucoup dans route. Eux beaucoup mauvais, pousser partout. Pas moyen faire crever.
+
+Voilà qui nous promet de belles nuits ! Et les naturels, comment s'accommodent-ils de ces légions de vers ? Sans doute, j'ai pensé tout haut. -- Eux manger, Mossié, fit Tongané. Y a bon !
+
+Mlle Mornas, n'ayant pas les goûts simples des habitants de ces contrées, allait tout bonnement s'installer sous une des tentes, quand Moriliré vint lui dire qu'une jeune négresse, servante d'un cultivateur de même couleur, absent pour le moment, lui offrait l'hospitalité dans une case très propre et meublée -- chose incroyable -- d'une vraie couchette à l'européenne.
+
+--- Toi donner argent, ajouta le guide. Y a bon !
+
+Mlle Mornas accepte l'hospitalité qui lui est offerte, et nous la conduisons processionnellement à sa nouvelle demeure. La servante annoncée nous attend. Elle est debout près d'un de ces karités dont j'ai parlé. C'est une fillette de taille moyenne, âgée de quinze ans environ. Elle n'est pas laide du tout. Comme elle n'a d'autre vêtement qu'une simple feuille qui ne vient évidemment ni du Louvre ni du Bon-Marché, « mais peut-être du Printemps », suggère Saint-Bérain, elle ressemble à une jolie statue de marbre noir.
+
+Pour l'instant, la statue est fort occupée à cueillir quelque chose dans le feuillage du karité.
+
+--- Elle ramasse des chenilles, qu'elle videra, fera sécher, et dont -- ne vous récriez pas ! -- elle fera des sauces, nous apprend le docteur Châtonnay, décidément très fort en cuisine nègre. Ces chenilles s'appellent *cétombo*. Ce sont les seules qui soient comestibles. Elles ont, paraît-il, un goût agréable.
+
+--- Y en a vrai, confirme Moriliré. Y a bon !
+
+La jeune négresse, nous ayant aperçus, vient au-devant de nous.
+
+--- Moi, dit-elle à Mlle Mornas, dans un français presque correct, à notre grand étonnement, moi élevée dans école française et avoir servi chez femme blanche, mariée à officier, moi retournée dans village et prisonnière dans grande bataille. Savoir faire lit comme Blancs. Toi contente.
+
+Tout en parlant, elle avait pris gentiment la main de Mlle Mornas, qu'elle entraîna dans la case.
+
+Nous nous retirâmes, heureux du confort assuré à notre compagne. Mais l'heure du sommeil n'avait encore sonné, ni pour elle ni pour nous.
+
+En effet, avant que trente minutes se fussent écoulées, Mlle Mornas nous appelait à nouveau à son aide.
+
+Nous accourons derechef, et, à la lumière des torches, nous découvrons un spectacle inattendu.
+
+À même le sol, près du seuil de la case, la petite servante noire est étendue. Son dos est zébré de raies rouges. La malheureuse sanglote à fendre l'âme. Devant elle, la couvrant de son corps, Mlle Mornas -- superbe, vraiment, Mlle Mornas, quand elle est en colère -- tenant en respect un affreux nègre, qui, à cinq pas, fait des grimaces horribles et tient encore à la main un bâton taché de sang.
+
+Nous demandons des explications.
+
+--- Figurez-vous, nous dit Mlle Mornas, que je venais de prendre possession du lit. Malik -- la petite négresse s'appelle Malik ; un joli nom, n'est-ce pas, qui fait penser à la Bretagne -- Malik, donc, m'éventait et je commençais à m'assoupir. Voici que cette brute, qui est son maître, revient à l'improviste. En m'apercevant, il entre en fureur, entraîne la pauvre enfant et se met à la rouer de coups pour lui apprendre à introduire une Blanche dans sa case.
+
+--- Jolies moeurs ! murmure de ses lèvres minces le jovial M. Baudrières.
+
+Il a raison, le jovial M. Baudrières. Mais il a tort, quand abusant de la situation, il prend la pose de l'orateur et lance cette surprenante apostrophe :
+
+--- Les voilà donc, messieurs, ces peuplades barbares qu'il vous plaît de transformer en pacifiques électeurs.
+
+Évidemment, il se croit à la tribune.
+
+M. Barsac a tressailli, comme si une mouche l'avait piqué. Il se redresse, et réplique d'un ton sec :
+
+--- Avec ça qu'on n'a jamais vu un Français battre sa femme ! Il n'a pas tort, non plus, M. Barsac.
+
+Nous faudra-t-il assister à un tournoi d'éloquence ? Non. M. Baudrières n'ayant pas riposté, M. Barsac se retourne vers le nègre au bâton.
+
+--- Cette petite va te quitter, lui dit-il. Nous l'emmènerons avec nous.
+
+Mais le nègre proteste. La négresse est son esclave. Il l'a payée. Allons-nous perdre notre temps à lui faire comprendre que l'esclavage est aboli en territoire français ? Il ne comprendrait certainement pas. Ce n'est pas en un jour que les lois réforment les moeurs.
+
+M. Barsac a trouvé mieux.
+
+--- J'achète ton esclave, lui dit-il. Combien ?
+
+Bravo, M. Barsac ! Voilà une bonne idée.
+
+Le nègre voit l'occasion de faire une affaire avantageuse et se rassérène. Il demande un âne, un fusil et cinquante francs.
+
+--- Cinquante coups de bâton ! répond le capitaine. C'est tout ce que tu mérites.
+
+On marchande. Enfin notre coquin cède sa servante pour un vieux fusil à pierre, une pièce d'étoffe et vingt-cinq francs. Réellement, c'est donné. Pendant que cette discussion se poursuivait, Mlle Mornas avait relevé Malik et pansé ses blessures avec du beurre de karité. Le marché conclu, elle l'emmena jusqu'à notre campement, l'habilla d'une blouse blanche, puis, lui mettant quelque monnaie dans la main :
+
+--- Maintenant, lui dit-elle, tu n'es plus esclave.
+
+Je te rends ta liberté.
+
+Mais ne voilà-t-il pas Malik éclate en sanglots ! Elle est seule sur la terre et ne veut pas quitter « si bonne Blanche ». Elle lui servira de femme de chambre et lui sera dévouée jusqu'à la mort. Elle pleure, supplie.
+
+--- Garde-la, fillette, intervient Saint-Bérain. Elle te sera certainement utile. Elle te rendra ces mille petits services dont une femme, même quand elle est un homme, a toujours besoin.
+
+Mlle Mornas se rendit d'autant plus volontiers qu'elle en mourait d'envie.
+
+Malik, ne sachant comment témoigner sa gratitude à Saint-Bérain qui avait intercédé pour elle, lui sauta au cou et l'embrassa sur les deux joues.
+
+Saint-Bérain m'avoua le lendemain que rien ne lui avait jamais été aussi désagréable.
+
+Inutile d'ajouter que Mlle Mornas ne crut pas devoir goûter une troisième fois de l'hospitalité indigène. On lui dressa une tente où rien ne vint plus troubler son sommeil.
+
+Telle fut notre première journée.
+
+Les suivantes lui ressembleront beaucoup, sans aucun doute. Aussi ne les raconterai-je plus dans le détail, et, sauf indication contraire, ces mots seront toujours sous-entendus : *Ab una disce omnes.*
+
+Amédée Florence.
+
+]
+
+L'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Première partie
+
+]

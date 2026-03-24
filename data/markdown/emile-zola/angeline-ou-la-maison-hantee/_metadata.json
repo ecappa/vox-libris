@@ -1,0 +1,54 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "ANGELINE OU LA MAISON HANTÉE",
+  "slug": "angeline-ou-la-maison-hantee",
+  "nombre_chapitres": 3,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1299,
+      "spine_end_exclusive": 1300,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_309.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1300,
+      "spine_end_exclusive": 1301,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_310.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1301,
+      "spine_end_exclusive": 1302,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_311.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1302,
+      "spine_end_exclusive": 1304,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_312.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_313.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/angeline-ou-la-maison-hantee/Zola4_image027.jpg"
+  ]
+}

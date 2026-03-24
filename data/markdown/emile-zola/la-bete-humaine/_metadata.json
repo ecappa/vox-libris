@@ -1,0 +1,144 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LA BÊTE HUMAINE",
+  "slug": "la-bete-humaine",
+  "nombre_chapitres": 12,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 395,
+      "spine_end_exclusive": 396,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_394.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 396,
+      "spine_end_exclusive": 397,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_395.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 397,
+      "spine_end_exclusive": 398,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_396.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 398,
+      "spine_end_exclusive": 399,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_397.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 399,
+      "spine_end_exclusive": 400,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_398.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 400,
+      "spine_end_exclusive": 401,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_399.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VI",
+      "slug": "vi",
+      "spine_start": 401,
+      "spine_end_exclusive": 402,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_400.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VII",
+      "slug": "vii",
+      "spine_start": 402,
+      "spine_end_exclusive": 403,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_401.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "spine_start": 403,
+      "spine_end_exclusive": 404,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_402.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IX",
+      "slug": "ix",
+      "spine_start": 404,
+      "spine_end_exclusive": 405,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_403.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "X",
+      "slug": "x",
+      "spine_start": 405,
+      "spine_end_exclusive": 406,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_404.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XI",
+      "slug": "xi",
+      "spine_start": 406,
+      "spine_end_exclusive": 407,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_405.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "XII",
+      "slug": "xii",
+      "spine_start": 407,
+      "spine_end_exclusive": 409,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_406.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola1_split_407.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/la-bete-humaine/Zola1_image033.jpg"
+  ]
+}

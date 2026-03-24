@@ -1,0 +1,84 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "NANTAS",
+  "slug": "nantas",
+  "nombre_chapitres": 6,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1165,
+      "spine_end_exclusive": 1166,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_175.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Présentation",
+      "slug": "presentation",
+      "spine_start": 1166,
+      "spine_end_exclusive": 1167,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_176.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "I",
+      "slug": "i",
+      "spine_start": 1167,
+      "spine_end_exclusive": 1168,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_177.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "II",
+      "slug": "ii",
+      "spine_start": 1168,
+      "spine_end_exclusive": 1169,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_178.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "III",
+      "slug": "iii",
+      "spine_start": 1169,
+      "spine_end_exclusive": 1170,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_179.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "IV",
+      "slug": "iv",
+      "spine_start": 1170,
+      "spine_end_exclusive": 1171,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_180.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "V",
+      "slug": "v",
+      "spine_start": 1171,
+      "spine_end_exclusive": 1173,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_181.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola4_split_182.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/nantas/Zola4_image013.jpg"
+  ]
+}

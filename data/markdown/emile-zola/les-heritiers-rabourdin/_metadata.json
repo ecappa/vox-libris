@@ -1,0 +1,119 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "LES HÉRITIERS RABOURDIN",
+  "slug": "les-heritiers-rabourdin",
+  "nombre_chapitres": 5,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 884,
+      "spine_end_exclusive": 885,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_046.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Préface",
+      "slug": "preface",
+      "spine_start": 885,
+      "spine_end_exclusive": 886,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_047.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Personnages",
+      "slug": "personnages",
+      "spine_start": 886,
+      "spine_end_exclusive": 887,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_048.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte I",
+      "slug": "acte-i",
+      "spine_start": 887,
+      "spine_end_exclusive": 904,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_049.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_050.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_051.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_052.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_053.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_054.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_055.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_056.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_057.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_058.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_059.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_060.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_061.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_062.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_063.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_064.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_065.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte II",
+      "slug": "acte-ii",
+      "spine_start": 904,
+      "spine_end_exclusive": 920,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_066.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_067.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_068.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_069.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_070.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_071.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_072.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_073.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_074.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_075.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_076.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_077.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_078.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_079.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_080.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_081.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Acte III",
+      "slug": "acte-iii",
+      "spine_start": 920,
+      "spine_end_exclusive": 935,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_082.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_083.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_084.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_085.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_086.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_087.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_088.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_089.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_090.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_091.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_092.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_093.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_094.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_095.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola3_split_096.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/les-heritiers-rabourdin/Zola3_image012.jpg",
+    "images/emile-zola/les-heritiers-rabourdin/Zola3_image013.jpg"
+  ]
+}

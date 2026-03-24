@@ -1,0 +1,158 @@
+### [[Chapitre 7 -- L\'invasion]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942870 .pcalibre2 .pcalibre1} {#chapitre-7-linvasion .calibre171 .sigil_not_in_toc}
+
+Ces bruits étaient justifiés, mais la rumeur publique exagérait. Comme d\'usage, la vérité s\'amplifiait en passant de bouche en bouche. La horde de Patagons, qui, au nombre de sept cents environ, avait débarqué, vingt-quatre heures plus tôt, sur le rivage nord de l\'Île ne méritait nullement l\'appellation d\'armée.
+
+Sous le nom de Patagons, on comprend, dans le langage courant, l\'ensemble des peuplades, en réalité fort différentes les unes des autres au point de vue ethnologique, qui vivent dans les pampas de l\'Amérique du Sud. De ces peuplades, les plus septentrionales, c\'est-à-dire les plus voisines de la République Argentine, sont relativement pacifiques. Adonnées à l\'agriculture, elles ont formé de nombreux villages, et leur pays n\'est même pas dépourvu de villes d\'une importance plus ou moins grande. Mais, à mesure qu\'on descend vers le Sud, elles tendent à changer de caractère. Les plus australes sont à la fois moins sédentaires et infiniment plus redoutables. Vivant surtout du produit de leur chasse, les indigènes qui les composent, les Patagons proprement dits, sont en général d\'habiles tireurs et d\'incomparables cavaliers. Ils pratiquent encore l\'esclavage, que de perpétuels pillages alimentent. Chez eux, les guerres de tribu à tribu sont incessantes, et ils n\'épargnent guère les rares étrangers qui s\'aventurent dans ces régions presque inexplorées. Ce sont des sauvages.
+
+L\'absence de tout gouvernement régulier, une complète anarchie entretenue jusque dans ces dernières années par la rivalité des états civilisés limitrophes, ont permis à cette sauvagerie et à ce brigandage de se perpétuer trop longtemps. Nul doute que la République Argentine et le Chili enfin d\'accord ne sachent y mettre un terme, mais il ne faut pas se dissimuler que l\'oeuvre sera longue et laborieuse, dans une contrée immense, à population clairsemée, sans moyens de communications, et qui, depuis l\'origine du monde, a joui d\'une indépendance illimitée.
+
+Les envahisseurs de l\'île Hoste appartenaient à cette catégorie d\'Indiens. Comme on l\'a déjà vu au début de ce récit, les Patagons sont coutumiers de ces incursions en territoires voisins, et bien souvent ils franchissent le détroit de Magellan pour razzier avec une cruauté impitoyable cette grande île de la Magellanie à laquelle appartient plus spécialement le nom de Terre de Feu. Toutefois, ils ne s\'étaient jamais aventurés aussi loin jusqu\'alors.
+
+Pour arriver à l\'île Hoste, ils avaient dû, soit traverser la Terre de Feu de part en part et ensuite le canal du Beagle, soit suivre depuis le littoral américain les canaux sinueux de l\'archipel. Dans tous les cas, ils n\'avaient accompli un pareil exode qu\'au prix des plus grandes difficultés, tant pour se ravitailler pendant leur route terrestre, que pour naviguer dans les bras de mer, au risque de voir chavirer leurs légères pirogues sous le poids des chevaux.
+
+Tout en galopant à la tête de ses vingt-cinq compagnons, le Kaw-djer se demandait quel motif avait décidé les Patagons à une entreprise si en dehors de leurs habitudes séculaires ? Sans doute, la fondation de Libéria pouvait expliquer dans une certaine mesure ce fait anormal. Il est à croire que la réputation de la cité nouvelle s\'était répandue dans les contrées environnantes et que la renommée lui avait attribué de merveilleuses richesses. L\'imagination sauvage les amplifiant encore, rien de plus naturel qu\'elles eussent excité des convoitises.
+
+Oui, les choses pouvaient à la rigueur s\'expliquer ainsi. Mais malgré tout, cependant, l\'audace des envahisseurs demeurait surprenante, et, quelle que soit leur rapacité bien connue, il était difficile de concevoir qu\'ils se fussent risqués à affronter une si nombreuse agglomération d\'hommes blancs. Pour se lancer dans une telle aventure, ils avaient eu vraisemblablement des raisons particulières que le Kaw-djer cherchait sans les trouver.
+
+Il ignorait en quel point de l\'île il rencontrerait les ennemis. Peut-être ceux-ci étaient-ils déjà en marche. Peut-être n\'avaient-ils pas quitté le lieu de leur débarquement. Dans ce cas, en s\'en référant aux renseignements fournis par le porteur de la nouvelle, il s\'agissait d\'un parcours de cent vingt à cent vingt-cinq kilomètres. Les grandes vitesses étant interdites sur les routes hosteliennes, qui laissaient encore beaucoup à désirer au point de vue de la viabilité, le voyage exigerait au moins deux jours. Parti de bonne heure le 10 décembre, le Kaw-djer n\'arriverait au but que le 11 dans la soirée.
+
+À quelque distance de Libéria, la route, après avoir traversé la presqu\'île Hardy dans sa largeur, s\'orientait vers le Nord-Ouest et en suivait d\'abord pendant une trentaine de kilomètres le rivage ouest battu par les flots du Pacifique, puis elle remontait au Nord, et, traversant une seconde fois l\'île en sens contraire selon le caprice des vallées, elle allait frôler, trente-cinq kilomètres plus loin, le fond du Tekinika Sound, profonde indentation de l\'Atlantique délimitant le sud de la presqu\'île Pasteur, qu\'un autre golfe plus profond encore, le Ponsonby Sound, sépare au Nord de la presqu\'île Dumas. Au-delà, la route, faisant de nombreux lacets, empruntait un col élevé de l\'importante chaîne de montagnes qui, venues de l\'Ouest, se prolongent jusqu\'à l\'extrémité orientale de la presqu\'île Pasteur, puis elle s\'infléchissait de nouveau dans l\'Ouest à la hauteur de l\'isthme qui réunit cette presqu\'île à l\'ensemble de l\'île Hoste. Enfin, après avoir laissé en arrière le fond du Ponsonby Sound, elle se recourbait dans l\'Est, et, franchissant, à quatre vingt-quinze kilomètres de Libéria, l\'isthme étroit de la presqu\'île Dumas, elle en côtoyait ensuite le rivage nord baigné par les eaux du canal du Beagle.
+
+Telle est la route que dut suivre le Kaw-djer. Chemin faisant, la troupe qu\'il commandait s\'accrut de quelques unités. Ceux des colons qui possédaient un cheval se joignirent à elle. Quant aux autres, le Kaw-djer leur donnait ses instructions au passage. Ils devaient battre le rappel et réunir le plus possible de combattants. Ceux qui avaient un fusil se porteraient de part et d\'autre de la chaussée, en choisissant les endroits les plus inaccessibles, de telle sorte que des cavaliers ne pussent les y poursuivre. De là, ils enverraient du plomb aux envahisseurs, quand ceux-ci apparaîtraient, et battraient aussitôt en retraite vers un point plus élevé de la montagne. La consigne était de viser de préférence les chevaux, un Patagon démonté cessant d\'être à redouter. Quant aux colons qui n\'avaient que leurs bras, ils couperaient la route par des tranchées aussi rapprochées que possible et se retireraient en ne laissant derrière eux qu\'un désert. Sur une étendue d\'un kilomètre de part et d\'autre du chemin, les champs devaient être saccagés dans les vingt-quatre heures, les fermes vidées de leurs ustensiles et de leurs provisions. Ainsi serait rendu plus difficile le ravitaillement des envahisseurs. Tout le monde irait ensuite s\'enfermer dans l\'enclos des Rivière, ceux qui pouvaient faire parler la poudre comme ceux n\'ayant d\'autres armes que la hache et la faux. Cet enclos, entouré d\'une solide palissade et défendu par cette nombreuse garnison, deviendrait une véritable place forte qui ne courrait aucun risque d\'être enlevée d\'assaut.
+
+Conformément à ses prévisions, le Kaw-djer atteignit l\'isthme de la presqu\'île Dumas le 11 décembre vers six heures du soir. On n\'avait encore aperçu nulle trace des Patagons. Mais, à partir de ce point, on approchait du lieu de leur débarquement, et une extrême prudence était nécessaire. On se trouvait, en effet, dans la période des longs jours, et on n\'aurait que très tard la protection de l\'obscurité. On mit près de cinq heures pour arriver en vue du camp adverse. Il était alors près de minuit, et une obscurité relative couvrait la terre. On apercevait nettement la lueur des foyers. Les Patagons n\'avaient pas bougé de place. Par nécessité sans doute de laisser reposer les chevaux, ils étaient restés à l\'endroit même où ils avaient atterri.
+
+La petite armée du Kaw-djer comptait maintenant trente-deux fusils, le sien compris. Mais, en arrière, des centaines de bras s\'employaient à défoncer la route, à y accumuler des troncs d\'arbres, à y élever des barricades, de manière à compliquer le plus possible la marche des envahisseurs.
+
+Le camp de ceux-ci reconnu, on rétrograda, et on fit halte cinq ou six kilomètres en avant de l\'isthme de la presqu\'île Dumas. Les chevaux furent alors ramenés en deçà de cet isthme par quelques colons qui les tiendraient en réserve dans les montagnes, puis les cavaliers devenus piétons, dissimulés sur les pentes abruptes qui bordaient le sud de la route, attendirent l\'ennemi.
+
+Le Kaw-djer n\'avait pas l\'intention d\'engager une bataille franche, que la disproportion des forces eût rendue insensée. Une tactique de guérillas était tout indiquée. De leurs postes élevés les défenseurs de l\'île tireraient à loisir leurs adversaires, puis, pendant que ceux-ci perdraient leur temps à se dépêtrer des obstacles accumulés devant eux, ils se replieraient de crête en crête, par échelons qui s\'assureraient successivement une mutuelle protection. On ne courrait aucun danger sérieux tant que les Patagons ne se résoudraient pas à abandonner leurs montures pour se lancer à la poursuite des tirailleurs. Mais cette éventualité n\'était pas à craindre. Les Patagons ne renonceraient évidemment pas à leur habitude invétérée de ne combattre qu\'à cheval, pour s\'aventurer sur un terrain chaotique, où chaque rocher pouvait dissimuler une embuscade.
+
+Il était neuf heures du matin, quand, le lendemain 12 décembre, les premiers d\'entre eux apparurent. Partis à six heures, ils avaient employé trois heures à parcourir vingt-cinq kilomètres. Inquiets de se voir si loin de leur pays dans une contrée totalement inconnue, ils suivaient avec circonspection cette route bordée d\'un côté par la mer et, de l\'autre, par d\'abruptes montagnes. Ils marchaient coude à coude, dans une formation serrée qui allait rendre plus facile la tâche des tireurs.
+
+Trois détonations éclatant sur leur gauche jetèrent tout à coup le trouble parmi eux. La tête de colonne recula, mettant le désordre dans les rangs suivants. Mais, d\'autres détonations n\'ayant pas suivi les trois premières, ils reprirent confiance et s\'ébranlèrent de nouveau. Tous les coups avaient porté. Un homme se tordait sur le bord du chemin dans les convulsions de l\'agonie. Deux chevaux gisaient, l\'un le poitrail troué, l\'autre une jambe cassée.
+
+Cinq cents mètres plus loin, les Patagons se heurtaient à une barricade de troncs d\'arbres amoncelés. Pendant qu\'ils s\'occupaient de la détruire, des coups de fusils résonnèrent encore. L\'une des balles fut efficace et mit un troisième cheval hors de service.
+
+Dix fois, on avait renouvelé la manoeuvre avec succès, quand la tête de colonne parvint à l\'isthme de la presqu\'île Dumas. En ce point, où la route encaissée n\'avait d\'autre issue qu\'une gorge étroite, la défense s\'était faite plus sérieuse. En avant d\'une barricade plus épaisse et plus haute que les précédentes, une large et profonde excavation coupait la route. Au moment où les Patagons abordaient cet ouvrage, la fusillade crépita sur leur flanc gauche. Après un mouvement de recul, ils revinrent à la charge et ripostèrent au jugé, tandis qu\'une centaine des leurs faisaient de leur mieux pour rétablir le passage.
+
+Aussitôt la fusillade redoubla d\'intensité. Une véritable pluie de balles siffla en travers du chemin et le rendit intenable. Les premiers qui s\'aventurèrent dans la zone dangereuse ayant été frappés sans merci, cela donna à réfléchir à leurs compagnons, et la horde tout entière parut hésiter à pousser plus avant.
+
+Les tireurs hosteliens la découvraient de bout en bout. Elle occupait plus de six cents mètres de route. Parcourue de violents remous, elle oscillait parfois en masse, tandis que des cavaliers galopaient d\'une extrémité à l\'autre, comme s\'ils eussent été porteurs des ordres d\'un chef.
+
+Chaque fois qu\'un de ces cavaliers arrivait à la tête de la colonne, une nouvelle tentative était faite contre la barricade, tentative bientôt suivie d\'un nouveau recul quand un homme ou un cheval, blessé ou tué, démontrait en tombant combien la place était périlleuse.
+
+Les heures s\'écoulèrent ainsi. Enfin, aux approches du soir, la barricade fut renversée. Seule, la pluie des balles barrait désormais la route. Les Patagons prirent alors une résolution désespérée. Soudain, ils rassemblèrent leurs chevaux, et, partant au galop de charge, foncèrent en trombe dans la trouée. Trois hommes et douze chevaux y restèrent, mais la horde passa.
+
+Cinq kilomètres plus loin, profitant d\'un endroit découvert, où elle n\'avait à redouter aucune surprise, elle fit halte et prit ses dispositions pour la nuit. Les Hosteliens, sans s\'accorder un instant de repos, continuèrent au contraire leur retraite savante et allèrent se mettre en position pour le lendemain. La journée était bonne. Elle coûtait aux envahisseurs trente chevaux et cinq hommes hors combat, contre un seul des leurs légèrement blessé. Il n\'y avait pas à s\'occuper des hommes démontés. Mauvais marcheurs, ils resteraient en arrière, et on aurait facilement raison de ces traînards.
+
+Le jour suivant, la même manoeuvre fut adoptée. Vers deux heures de l\'après-midi, les Patagons, ayant fait au total une soixantaine de kilomètres depuis qu\'ils s\'étaient ébranlés, atteignirent le sommet du col emprunté par la route pour franchir la chaîne centrale de l\'île. Depuis près de trois heures, ils montaient alors sans interruption. Gens et bêtes étaient pareillement exténués. Au moment de s\'engager dans le défilé qui commençait en cet endroit, ils firent halte. Le Kaw-djer en profita pour se poster à quelque distance en avant.
+
+Sa troupe, grossie de tirailleurs ralliés pendant la retraite et de ceux qui se trouvaient déjà au sommet, comptait alors près de soixante fusils. Ces soixante hommes, il les disposa sur une centaine de mètres, au point où la tranchée était la plus profonde, tous du même côté de la route. Bien abrités derrière les énormes rocs qui la surplombaient, les Hosteliens se riraient des projectiles ennemis. Ils allaient tirer presque à bout portant, comme à l\'affût.
+
+Dès que les Patagons se remirent en mouvement, le plomb jaillit de la crête et faucha leurs premiers rangs. Ils reculèrent en désordre, puis revinrent à la charge sans plus de succès. Pendant deux heures, cette alternative se renouvela. Si les Patagons étaient braves, ils ne brillaient pas précisément par l\'intelligence. Ce fut seulement quand ils eurent vu tomber un grand nombre des leurs, qu\'ils s\'avisèrent de la manoeuvre qui leur avait si bien réussi la veille. Des appels retentirent. Les chevaux se rapprochèrent les uns des autres. Les naseaux touchant les croupes, la horde fut un bloc. Puis, prête enfin pour la charge, elle s\'ébranla tout entière à la fois et partit dans un galop furieux. Les sabots frappaient le sol avec un bruit de tonnerre, la terre tremblait. Aussitôt les fusils hosteliens crachèrent plus hâtivement la mort.
+
+C\'était un spectacle admirable. Rien n\'arrêtait ces cavaliers changés en météores. L\'un d\'eux vidait-il les arçons ? Ceux qui venaient à sa suite le piétinaient sans pitié. Un cheval blessé ou tué tombait-il ? Les autres bondissaient par-dessus l\'obstacle et continuaient sans arrêt leur course enragée.
+
+Les Hosteliens ne songeaient guère à admirer ces prouesses. Pour eux, c\'était une question de vie ou de mort. Ils ne pensaient qu\'à ceci : charger, viser, tirer, puis charger, et viser, et tirer, et ainsi de suite, sans un instant d\'interruption. Les canons brûlaient leurs mains ; ils tiraient toujours. Dans la folie de la bataille, ils en oubliaient toute prudence. Ils s\'écartaient de leurs abris, s\'offraient aux coups de l\'ennemi. Celui-ci aurait eu la partie belle, s\'il lui eût été possible de riposter.
+
+Mais, au train qu\'ils menaient, les Patagons ne pouvaient faire usage de leurs armes. À quoi bon, d\'ailleurs ? La médiocre étendue du front de bataille révélant le petit nombre des adversaires, leur seul objectif était de franchir la zone dangereuse, quitte à faire pour cela les sacrifices qui seraient nécessaires.
+
+Ils la franchirent en effet. Bientôt les balles ne sifflèrent plus. Ils ralentirent alors leur allure et suivirent au grand trot la route qui, après avoir dépassé le point culminant du col, descendait maintenant en lacets. Tout était tranquille autour d\'eux. De loin en loin, un coup de feu éclatait sur leur gauche ou sur leur droite, lorsque des rochers surplombaient la chaussée. D\'ailleurs, ce coup de feu, tiré par l\'un des colons transformés en guérillas, manquait généralement le but. Dans tous les cas, les Patagons ripostaient par une grêle de balles qu\'ils envoyaient au jugé, et ils poursuivaient leur chemin.
+
+Instruits par l\'expérience, ils ne commirent pas, cette fois, la faute de s\'arrêter à trop faible distance du lieu du dernier combat. Jusqu\'à une heure avancée de la nuit, ils dévalèrent rapidement la pente et ne s\'arrêtèrent pour camper que parvenus en terrain plat.
+
+C\'était pour eux une rude journée. Ils avaient franchi soixante-cinq kilomètres, dont trente-cinq depuis le sommet du col. À leur droite, ils apercevaient les flots du Pacifique venant battre un rivage sablonneux. À leur gauche, c\'était un pays de plaine, où les surprises cessaient d\'être à craindre. Le lendemain, ils seraient de bonne heure au but, devant Libéria, éloigné de trente kilomètres à peine.
+
+Désormais, il ne pouvait plus être question pour le Kaw-djer de se porter en avant des envahisseurs. Outre que la nature du pays ne se prêtait plus à la manoeuvre qui lui avait si bien réussi jusque-là, trop grande était la distance qui le séparait d\'eux. Sur son ordre, on ne s\'entêta pas dans une poursuite inutile, et l\'on prit, couchés sur la terre nue, à la lueur des étoiles, quelques heures d\'un repos que rendaient nécessaire les fatigues supportées pendant trois nuits consécutives.
+
+Le Kaw-djer n\'avait pas lieu d\'être mécontent du résultat de sa tactique. Au cours de cette dernière journée, les ennemis avaient perdu au moins cinquante chevaux et une quinzaine d\'hommes. C\'est donc diminuée d\'une centaine de cavaliers et moralement ébranlée que leur troupe arriverait devant Libéria. Contrairement à son attente sans doute, elle n\'y entrerait pas sans peine.
+
+Le lendemain matin, on fit rallier les chevaux, mais on ne put les avoir avant le milieu du jour. Il était près de midi quand les tirailleurs redevenus cavaliers, et réduits par conséquent au nombre de trente-deux, purent à leur tour commencer la descente.
+
+Rien ne s\'opposait à ce qu\'on avançât rapidement. La prudence n\'était plus nécessaire. On était renseigné par ceux des colons qui, en embuscade sur les bords de la route, avaient salué l\'ennemi au passage. On savait que les Patagons avaient continué leur marche en avant et qu\'on ne courait pas le risque de se heurter tout à coup à la queue de leur colonne.
+
+Vers trois heures, on atteignit l\'endroit où la horde avait campé. Nombreuses étaient ses traces, et on ne pouvait s\'y méprendre. Mais, depuis les premières heures du matin, elle s\'était remise en mouvement, et, selon toute probabilité, elle devait être maintenant sous Libéria.
+
+Deux heures plus tard, on commençait à longer la palissade limitant l\'enclos des Rivière, quand on aperçut, sur la route, un fort parti d\'hommes à pied. Leur nombre dépassait certainement la centaine. Lorsqu\'on en fut plus près, on vit qu\'il s\'agissait des Patagons démontés au cours des rencontres précédentes.
+
+Soudain, des coups de feu furent tirés de l\'enclos. Une dizaine de Patagons tombèrent. Des survivants, les uns ripostèrent et envoyèrent contre la palissade des balles inoffensives, les autres esquissèrent un mouvement de fuite. Ils découvrirent alors les trente-deux cavaliers qui leur interdisaient la retraite et dont les rifles se mirent à leur tour à parler.
+
+Au bruit de ces détonations, plus de deux cents hommes armés de fourches, de haches et de faux firent irruption hors de l\'enclos, barrant la route vers Libéria. Cernés de toutes parts, à droite par des rocs infranchissables, en avant par les paysans que leur nombre rendait redoutables, à gauche par les fusils dont les canons luisaient au-dessus de la palissade, en arrière enfin par le Kaw-djer et ses cavaliers, les Patagons perdirent courage et jetèrent leurs armes sur le sol. On les captura sans autre effusion de sang. Pieds et mains entravés, ils furent enfermés dans une grange à la porte de laquelle on plaça des factionnaires.
+
+C\'était une opération merveilleuse. Non seulement les envahisseurs avaient perdu une centaine de cavaliers, mais aussi une centaine de fusils, et ces fusils, de médiocre valeur assurément, allaient au contraire accroître la force des Hosteliens. Ceux-ci pourraient disposer de trois cent cinquante armes à feu, contre six cents environ qui leur étaient opposées. La partie devenait presque égale.
+
+La garnison réunie à l\'enclos des Rivière put renseigner le Kaw-djer sur la marche des Patagons. En passant devant la palissade au cours de la matinée, ils n\'avaient fait que de timides tentatives pour la franchir. Dès les premiers coups de fusils, ils y avaient renoncé et s\'étaient contentés d\'envoyer quelques balles sans se livrer à une attaque plus sérieuse. Décidément, ces sauvages étaient peut-être des guerriers, mais sûrement ils n\'étaient pas des hommes de guerre. Leur objectif étant Libéria, ils y allaient tout droit, sans inquiéter des ennemis qu\'ils laissaient derrière eux.
+
+Puisqu\'on avait la chance d\'avoir fait d\'aussi nombreux prisonniers, le Kaw-djer ne voulut pas s\'éloigner sans essayer de les interroger. Il se rendit donc au milieu d\'eux.
+
+Dans la grange où on les avait enfermés régnait un silence profond. Accroupis le long des murailles, cette centaine d\'hommes attendaient, dans une immobilité farouche, que l\'on décidât de leur sort. Vainqueurs, ils eussent des vaincus fait des esclaves. Vaincus, ils estimaient naturel qu\'un pareil traitement leur fût infligé. Pas un seul d\'entre eux ne daigna remarquer la présence du Kaw-djer.
+
+« Quelqu\'un de vous comprend-il l\'espagnol ? demanda celui-ci à voix haute.
+
+--- Moi, dit un des prisonniers en relevant la tête.
+
+--- Ton nom ?
+
+--- Athlinata.
+
+--- Qu\'es-tu venu faire dans ce pays ? »
+
+L\'Indien, sans un geste, répondit :
+
+« La guerre.
+
+--- Pourquoi nous faire la guerre ? Objecta le Kaw-djer. Nous ne sommes pas tes ennemis. »
+
+Le Patagon garda le silence. Le Kaw-djer reprit :
+
+« Jamais tes frères ne sont venus jusqu\'ici. Pourquoi sont-ils allés, cette fois, si loin de leur pays ?
+
+--- Le chef a commandé, dit l\'Indien avec calme. Les guerriers ont obéi.
+
+--- Mais enfin, insista le Kaw-djer, quel est votre but ?
+
+--- La grande ville du Sud, répondit le prisonnier. Là, sont des richesses, et les Indiens sont pauvres.
+
+--- Mais ces richesses, il faut les prendre, répliqua le Kaw-djer, et les habitants de cette ville se défendront. »
+
+Le Patagon sourit ironiquement.
+
+« La preuve, c\'est que toi et tes frères êtes maintenant prisonniers, ajouta le Kaw-djer sous forme d\'argument ad hominem.
+
+--- Les guerriers patagons sont nombreux, riposta l\'Indien sans se laisser troubler. Les autres retourneront dans leur patrie en traînant tes frères à la queue de leurs chevaux. »
+
+Le Kaw-djer haussa les épaules.
+
+« Tu rêves, mon garçon, dit-il. Pas un de vous n\'entrera dans Libéria. »
+
+Le Patagon sourit de nouveau d\'un air incrédule.
+
+« Tu ne me crois pas ? interrogea le Kaw-djer.
+
+--- L\'homme blanc a promis, répliqua l\'Indien avec assurance. Il donnera la grande ville aux Patagons.
+
+--- L\'homme blanc ?... répéta le Kaw-djer étonné. Il y a donc un blanc parmi vous ? »
+
+Mais toutes ses questions demeurèrent vaines. L\'Indien avait dit évidemment tout ce qu\'il savait, et il fut impossible d\'en obtenir plus de détails.
+
+Le Kaw-djer se retira soucieux. Quel était cet homme blanc, traître à sa race, qui s\'alliait contre d\'autres blancs à une bande de sauvages ? En tous cas, c\'était une nouvelle raison de se hâter. Bien qu\'Hartlepool, se conformant aux ordres reçus, eût sûrement pris les mesures les plus urgentes, il n\'était pas sans intérêt d\'apporter du renfort à la garnison de Libéria.
+
+Vers huit heures du soir, on partit. La troupe commandée par le Kaw-djer comptait maintenant cent cinquante-six hommes, dont cent deux armés aux dépens des Patagons. Des fantassins la composaient exclusivement, les chevaux ayant été laissés à l\'enclos des Rivière. Pour s\'introduire dans Libéria et franchir la ligne des ennemis, le Kaw-djer n\'avait pas l\'intention, en effet, d\'appliquer la méthode, assurément courageuse, mais insensée, que ceux-ci avaient mise en pratique lorsqu\'il s\'était agi de forcer les passages difficiles. Son plan étant d\'employer la ruse plutôt que la force, les chevaux eussent été plus gênants qu\'utiles.
+
+En trois heures de marche, on arriva en vue de la ville. Dans la nuit alors complètement tombée, une ligne de feux dessinait le camp des Patagons, établi selon un vaste demi-cercle, qui à droite, s\'arrêtait au commencement du marécage et s\'appuyait, à gauche, sur la rivière. L\'investissement était complet. Se glisser inaperçus entre les postes espacés de cent en cent mètres était impraticable.
+
+Le Kaw-djer fit faire halte à son monde. Avant de pousser plus loin, il fallait décider quelle tactique il convenait d\'adopter.
+
+Mais les envahisseurs n\'étaient pas tous sur la rive droite de la rivière. Quelques-uns au moins avaient dû traverser l\'eau en amont de la ville. Tandis que le Kaw-djer réfléchissait, une vive lumière éclata tout à coup dans le Nord-Ouest. C\'étaient les maisons du Bourg-Neuf qui brûlaient.
+
+
+]{.calibre20}
+
+
+LES NAUFRAGÉS DU JONATHAN
+
+Troisième partie
+
+
+]{.calibre20}

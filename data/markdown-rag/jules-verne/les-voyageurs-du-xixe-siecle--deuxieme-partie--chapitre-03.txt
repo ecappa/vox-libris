@@ -1,0 +1,728 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "LES VOYAGEURS DU XIXe SIÈCLE"
+slug_oeuvre: "les-voyageurs-du-xixe-siecle"
+section: "Deuxieme Partie"
+slug_section: "deuxieme-partie"
+chapitre: "Chapitre 03"
+slug_chapitre: "chapitre-03"
+type: "chapitre"
+---
+
+### Chapitre III -- Les expéditions polaires
+### I -- Le Pôle sud
+Encore un circumnavigaleur russe : Bellingshausen. -- Découverte des îles Traversay, Pierre Ier et Alexandre Ier. -- Le baleinier Weddell. -- Les Orcades australes. -- La Géorgie du Sud. -- Le nouveau Shetland. -- Les habitants de la Terre de Feu. -- John Biscoë et les Terres d'Enderby et de Graham. -- Charles Wilkes et le continent antarctique. -- Le capitaine Balleny. -- Expédition de Dumont d'Urville sur l'*Astrolabe* et la *Zélée*. -- Coupvent-Desbois au pic de Ténériffe. -- Le détroit de Magellan.  -- Un nouveau bureau de poste. -- Enfermé dans la banquise. -- La Terre Louis-Philippe. -- A travers l'Océanie. -- Les Terres Adélie et Clarie. -- La Nouvelle-Guinée et le détroit de Torrès. -- Retour en France. -- James Clark Ross et la Terre Victoria.
+
+Nous avons eu déjà l'occasion de parler des régions antarctiques et des explorations qui y avaient été faites, au XVIIe et à la fin du XVIIIe siècle, par plusieurs navigateurs, presque tous Français, au nombre desquels il convient de citer La Roche, découvreur de la Nouvelle-Géorgie en 1675, Bouvet, Kerguelen, Marion et Crozet. On désigne sous le nom de Terres antarctiques toutes les îles disséminées dans l'Océan, qui portent le nom des navigateurs, puis celles du Prince-Édouard, de Sandwich, de la Nouvelle-Géorgie, etc.
+
+C'est dans ces parages que William Smith, commandant du brick *William,* allant de Montevideo à Valparaiso, avait, en 1818, découvert les Shetland du Sud, terres arides et nues, tapissées de neige, mais sur lesquelles s'ébattaient d'immenses troupeaux de veaux marins, animaux dont la peau sert de fourrure et qu'on n'avait jusqu'alors rencontrés que dans les mers du Sud. A cette nouvelle, les navires baleiniers s'empressèrent de visiter les rivages nouvellement reconnus, et l'on calcule qu'en 1821 et 1822, trois cent vingt mille veaux marins furent capturés sur cet archipel, et que la quantité d'huile d'éléphant de mer peut être évaluée, pendant le même temps, à neuf cent quarante tonnes. Mais, comme on avait tué mâles et femelles, ces nouveaux terrains de chasse furent bientôt épuisés. On releva donc, en peu de temps, les douze îles principales et les innombrables rochers presque entièrement dépouillés de végétation qui composent cet archipel.
+
+Deux ans plus tard, Botwell découvrit les Orcades méridionales ; puis, sous les mêmes latitudes, Palmer et d'autres baleiniers entrevirent ou crurent reconnaître des terres qui reçurent les noms de Palmer et de la Trinité.
+
+Des découvertes plus importantes allaient être accomplies dans ces régions hyperboréennes, et les hypothèses de Dalrymple, de Buffon et d'autres savants au XVIIIe siècle, sur l'existence d'un continent austral faisant contrepoids aux terres du pôle nord, allaient recevoir une confirmation inattendue par les travaux de ces intrépides explorateurs.
+
+La Russie se trouvait depuis quelques années dans une période très nettement marquée d'encouragement à la marine nationale et aux recherches scientifiques. Nous avons raconté les intéressants voyages de ses circumnavigateurs, mais il reste à parler de Bellingshausen et de son voyage autour du monde, à cause du rôle important qu'y joue l'exploration des mers antarctiques.
+
+Les deux bâtiments *le Vostok,* capitaine Bellingshausen, *et le Mirni,* commandé par le lieutenant Lazarew, quittèrent Cronstadt, le 3 juillet 1819, pour les mers polaires du Sud. Le 15 décembre, ils reconnurent la Géorgie méridionale, et sept jours plus tard ils découvrirent dans le sud-est une île volcanique à laquelle ils donnèrent le nom de Traversay, et dont ils fixèrent la position par 52° 15' de latitude et 27° 21' de longitude à l'ouest du méridien de Paris.
+
+Continuant de courir, à l'est, pendant quatre cents milles sous le 60e degré, jusqu'au 187e méridien, ils donnèrent alors droit au sud jusqu'au 70e degré ; là seulement, une barrière de glace leur coupa le chemin, et les empêcha de pénétrer plus loin.
+
+Bellingshausen, ne se tenant pas pour battu, piqua dans l'est, le plus souvent à l'intérieur du Cercle polaire ; mais, au 44e degré est, il fut forcé de revenir au nord. A quarante milles de distance, gisait une grande terre qu'un baleinier, trouvant la route libre, devait découvrir douze ans plus tard.
+
+Redescendu jusqu'au 62e degré de latitude, Bellingshausen fit encore une fois route à l'est sans rencontrer d'obstacles, atteignit le 90e méridien est, et le 5 mars 1820, il fit route vers le port Jackson pour s'y réparer.
+
+Tout l'été fut consacré par le navigateur russe à une croisière dans les mers océaniques, où il ne découvrit pas moins de dix-sept îles nouvelles. De retour à Port-Jackson, Bellingshausen en repartit, le 31 octobre, pour une nouvelle expédition.
+
+Tout d'abord les deux navires reconnurent les îles Macquarie ; puis, coupant le 60e degré de latitude par 160 de longitude est, ils coururent dans l'est entre le 64e et le 68e degré jusqu'au 95e de longitude ouest. Le 9 janvier 1821, Bellingshausen atteignait le 70e degré de latitude, et le lendemain, il découvrait, par 69° 30' et 92° 20' de longitude ouest, une île qui reçut le nom de Pierre Ier,  terre la plus méridionale qu'on connût jusqu'alors. Puis, à quinze degrés dans l'est, et presque sous le même parallèle, il eut connaissance d'une nouvelle terre qui fut nommée Terre d'Alexandre Ier. Distante à peine de deux cents milles de la Terre de Graham, elle doit s'y rattacher, si l'on en croit Krusenstern, car entre ces deux îles la mer se montra constamment décolorée, sans compter d'autres indices qui semblaient confirmer cette opinion.
+
+De là, les deux navires, faisant route au nord et passant au large de la Terre de Graham, rejoignirent la Nouvelle-Géorgie en février, et rentrèrent à Cronstadt au mois de juillet 1821, juste deux ans après leur départ, n'ayant éprouvé d'autre perte que celle de trois hommes sur un équipage de deux cents matelots.
+
+Nous aurions voulu donner des détails plus complets sur cette très intéressante expédition ; mais la relation originale, publiée en russe à Saint-Pétersbourg, a échappé à nos recherches, et nous avons dû nous contenter du résumé publié dans le *Bulletin de la Société de géographie* de 1837.
+
+A la même époque, un maître de la marine royale, James Weddell, recevait d'une maison de commerce d'Édimbourg le commandement d'une expédition chargée de recueillir des peaux de veaux marins dans les mers du Sud, où elle devait séjourner deux ans. Elle se composait du brick *Jane*, de cent soixante tonneaux, capitaine Weddell, et du cutter *Beaufort,* de soixante-cinq tonneaux, commandé par Mathieu Brisbane.
+
+Ces deux bâtiments quittèrent l'Angleterre le 17 septembre 1822, s'arrêtèrent à Bonavista, l'une des îles du cap Vert, et mouillèrent, le 11 décembre suivant, dans le port de Sainte-Hélène, sur la côte orientale de la Patagonie où furent faites des observations utiles, touchant la position de ce port.
+
+Weddell reprit la mer le 27 décembre, et, faisant route au S.-E., il parvint, le 12 janvier, en vue d'un archipel auquel il donna le nom d'Orcades australes. Ces îles sont situées par 60°45' de latitude sud et 45° de longitude à l'ouest du méridien de Greenwich.
+
+Ce petit groupe présenterait, à en croire ce navigateur, une apparence encore plus effrayante que le Nouveau-Shetland. De quelque côté que se porte le regard, on n'aperçoit que des pointes aiguës de rochers, absolument dénudés, qui surgissent d'une mer démontée, sur laquelle s'entrechoquent, avec un bruit de tonnerre, d'énormes glaces flottantes. Les dangers que courent les navires dans ces parages sont de tous les instants, et les onze jours que Weddell passa sous voiles à relever en détail les îles, les îlots et les rochers de cet archipel furent sans repos pour l'équipage qui se vit tout le temps au moment de périr.
+
+Des spécimens des principaux *strata* de ces îles furent recueillis et déposés au retour entre les mains du professeur Jameson, d'Édimbourg, qui y reconnut des roches primitives et volcaniques.
+
+Weddell s'enfonça alors dans le sud, traversa le Cercle polaire par le 30e degré est de Greenwich, et ne tarda pas à rencontrer de nombreuses îles de glace. Lorsqu'il eut dépassé le 70e degré, ces dernières devinrent moins nombreuses et finirent par disparaître complètement ; le temps s'adoucit, les oiseaux reparurent en vols innombrables autour du navire, tandis que des troupeaux de baleines se jouaient dans le sillage du bâtiment. Cet adoucissement singulier et inattendu de la température surprit tout le monde, d'autant plus qu'il s'accentua à mesure que l'on s'enfonçait dans le sud. Les circonstances étaient si favorables qu'à chaque instant Weddell s'attendait à découvrir quelque terre nouvelle. Il n'en fut rien cependant.
+
+Le 20 janvier, le bâtiment se trouvait par 36° 1/4 E. et 74° 15.
+
+« J'aurais volontiers, dit Weddell, exploré la bande du S.-0. ; mais, considérant la saison avancée et que nous aurions pour nous en retourner un espace de mer de mille milles, semé d'îles de glace, je ne pus prendre un autre parti que de profiter de ce vent favorable pour m'en retourner. »
+
+N'ayant aperçu aucun indice de la terre dans cette direction, le vent du sud soufflant avec force, Weddell revint en arrière jusqu'au 58e degré de latitude, et s'avança dans l'est jusqu'à cent milles de la Terre Sandwich. Le 7 février, le navigateur mit encore une fois le cap au sud, traversa une banquise de cinquante milles de large et, le 20 février, atteignit 74° 15'. Du haut des mâts, on n'apercevait de tous côtés qu'une mer libre, avec quatre îles de glace en vue.
+
+Ces pointes dans le sud avaient donné des résultats inattendus. Weddell s'était enfoncé vers le pôle, deux cent quatorze milles plus loin que tous ses prédécesseurs, y compris Cook. Il donna le nom de Georges IV à cette partie de la mer antarctique qu'il avait explorée. Chose singulière et sur laquelle il est bon d'insister, les glaces avaient diminué à mesure qu'on pénétrait plus avant dans le sud, les brouillards et les orages étaient continuels, l'atmosphère était journellement chargée d'une humidité compacte, la mer était profonde, ouverte, et la température était singulièrement douce.
+
+Autre remarque précieuse, les mouvements de la boussole étaient aussi lents sous ces latitudes australes que Parry l'avait déjà constaté dans les régions arctiques.
+
+Les deux bâtiments de Weddell, séparés par la tempête, se rejoignirent à la Nouvelle-Géorgie, après une navigation périlleuse de douze cents milles à travers les glaces. Cette île, découverte par de La Roche, en 1675, visitée, en 1756, par le vaisseau *le Lion,* n'était réellement bien connue que depuis l'exploration que Cook en avait faite ; les détails qu'il avait donnés dans sa relation sur l'abondance des veaux marins et des morses avaient déterminé nombre d'armateurs à la fréquenter. C'étaient surtout des Anglais et des Américains, qui portaient les peaux des animaux tués en Chine, où ils ne les vendaient pas moins de vingt-cinq à trente francs pièce. En quelques années, le nombre des peaux de veaux marins tués s'éleva à douze cent mille. Aussi cette race d'animaux y était-elle déjà presque éteinte.
+
+« La longueur de la Géorgie méridionale, dit Weddell, est d'environ trente lieues, et sa largeur moyenne est de trois lieues. Elle est tellement festonnée par des baies que, dans quelques endroits, les deux bords de ces petits mouillages paraissent se toucher. Les cimes des montagnes sont très escarpées et toujours couvertes de neige. Dans les vallées, la végétation ne manque pas de force pendant l'été ; on y remarque surtout une espèce de fourrage dont les tiges très vigoureuses s'élèvent communément à deux pieds de hauteur. Il n'y a point de quadrupèdes, mais l'île est peuplée d'oiseaux et d'animaux amphibies. »
+
+On y rencontre des bandes immenses de pingouins qui se promènent sur le rivage, la tête haute et l'air fier. On dirait, pour rappeler l'expression d'un ancien navigateur, sir John Narborough, des troupes d'enfants portant des tabliers blancs. On y voit aussi quantité d'albatros, oiseau qui mesure seize à dix-sept pieds d'envergure, et dont le volume, lorsqu'il est dépouillé de ses plumes, est réduit de moitié.
+
+Weddell visita également le Nouveau-Shetland et constata que l'île Bridgeman, qui fait partie de cet archipel, est un volcan encore en activité. Il lui fut impossible de débarquer, tous les ports étant bloqués par les glaces, et il dut se rendre à la Terre de Feu.
+
+Pendant le séjour de deux mois qu'il y fit, Weddell réunit de précieuses observations sur les avantages que cette côte offre aux navigateurs et put acquérir des notions exactes sur le caractère des habitants.
+
+Dans l'intérieur se dressent quelques montagnes, toujours couvertes de neige, dont la plus élevée ne paraît pas dépasser trois mille pieds. Weddell ne put apercevoir le volcan que d'autres voyageurs avaient observé, et notamment Basil Hall en 1822, mais il ramassa quantité de lave qui en provenait. Au reste, il ne pouvait y avoir doute sur son existence, car Weddell, dans un précédent voyage, en 1820, avait constaté que le ciel était tellement rouge au-dessus de la Terre de Feu, qu'il n'avait pu attribuer cette coloration extraordinaire qu'à une éruption volcanique.
+
+Jusqu'alors les voyageurs qui avaient visité la Terre de Feu étaient peu d'accord sur la température de cette région polaire. Weddell attribue ces divergences à la différence des époques de leur séjour et des vents qui régnaient. Pour lui, si le vent souffle du sud, le thermomètre ne dépassera jamais deux ou trois degrés au-dessus de zéro ; s'il vient au contraire du nord, il fait aussi chaud « qu'en juillet en Angleterre ».
+
+Les animaux dont le navigateur constata la présence sont des chiens et des loutres, et ce seraient, suivant lui, les seuls quadrupèdes du pays.
+
+Les relations avec les naturels furent toujours cordiales. Tout d'abord,  ceux-ci firent le tour du bâtiment, sans oser y monter ; mais ils ne tardèrent cependant pas à se familiariser. Les mêmes scènes qui ont été décrites lors du passage du premier navire par le détroit, se reproduisirent fidèlement, malgré le temps écoulé. Du pain, du madère et du bœuf qu'on leur servit, les indigènes ne touchèrent qu'au dernier. Pour eux, les objets qui avaient le plus de prix, c'étaient le fer et les miroirs devant lesquels ils se livrèrent à des grimaces et à des contorsions extravagantes qui amusèrent tout l'équipage.
+
+Au reste, leur équipement suffisait pour exciter la gaieté. Avec leur peinture noire comme le jais, leurs plumes bleues, leur face sillonnée de lignes parallèles rouges et blanches comme une toile à matelas, ils offraient une physionomie si grotesque, qu'ils prêtaient aux plaisanteries et aux rires des Anglais. Bientôt, peu satisfaits des morceaux de cercles de tonneaux qu'on leur donnait, et trouvant mesquins ces présents offerts par des gens possesseurs de tant de richesses, ils se mirent à prendre tout ce qui était à leur convenance. Ces vols furent facilement réprimés, mais ils produisirent plus d'une scène plaisante et permirent d'admirer l'étonnante faculté d'imitation de ces sauvages.
+
+« Un matelot avait donné à l'un d'eux, raconte Weddell, un pot d'étain plein de café que celui-ci but sur-le-champ, et il garda le pot. Le matelot s'apercevant que son pot avait disparu, le demande vivement, et, malgré l'énergie de son geste, personne ne se présente pour restituer l'objet volé. Après avoir employé tous les moyens imaginables, cet homme, furieux et prenant une attitude tragique, s'écria d'un ton animé : « Canaille cuivrée, qu'as-tu fait de mon pot ? » Le sauvage, imitant son attitude, redit en anglais et sur le même ton : « Canaille cuivrée, qu'as-tu fait de mon pot ? » L'imitation fut si exacte et si prompte que tout l'équipage en éclata de rire, excepté le matelot qui s'élança sur le voleur, le fouilla et retrouva son pot d'étain. »
+
+Sous ce climat rigoureux, sans vêtements, sans nourriture, au milieu de montagnes stériles, sans animaux pour leur fournir une nourriture substantielle qui les réconforte, les Fuégiens sont dans un état d'abrutissement complet. La chasse ne peut leur fournir de ressources sérieuses, la pêche ne leur en procure que d'insuffisantes ; ils sont donc obligés d'attendre que la tempête vienne jeter sur leurs côtes quelque gros cétacé qu'ils dévorent à pleines dents, sans même prendre la peine d'en faire cuire la chair.
+
+En 1828, le vaisseau *le Chanticleer*, commandé par Henri Foster, avait été chargé de faire des observations du pendule pour la détermination de la figure de la terre. Cette expédition dura trois ans et se termina par la mort de son  commandant, qui se noya en 1831, dans la rivière de Chagres. Nous n'en parlons que parce que, le 5 janvier 1829, ce bâtiment reconnut et explora le groupe des Shetland méridionales. Le commandant descendit même à grand'peine sur l'une de ces îles, où il ramassa quelques échantillons de ces syénites dont le sol est composé, et une petite quantité de neige rouge, de tout point semblable à celle que plusieurs explorateurs avaient rencontrée dans les parages du pôle nord.
+
+Mais il est une reconnaissance d'un bien plus vif intérêt : c'est celle qu'opéra en 1830 le baleinier John Biscoë.
+
+Le brick *le* *Tula*, de cent quarante-huit tonneaux, et le cutter *Lively,* quittèrent, sous ses ordres, le port de Londres, le 14 juillet 1830. Ces deux bâtiments, appartenant à MM. Enderby, étaient armés pour la pêche des phoques et pourvus de tous les objets convenables pour cette longue et pénible navigation. Mais les instructions qu'avait reçues Biscoë lui prescrivaient, en outre, de tâcher de faire quelque découverte dans les mers antarctiques.
+
+Les deux bâtiments touchèrent aux Malouines, en repartirent le 27 novembre, cherchèrent vainement les îles Aurora et se dirigèrent vers la Terre de Sandwich, dont la pointe septentrionale fut doublée le 1er janvier 1831.
+
+Arrivés au cinquante-neuvième parallèle, ils rencontrèrent des glaces compactes qui les forcèrent à abandonner la route du sud-ouest, --- direction sur laquelle se faisaient remarquer les signes du voisinage de la terre. Il fallut donc tourner à l'est, prolonger la banquise jusqu'à 9° 34' de longitude occidentale. Ce fut seulement le 16 janvier que Biscoë put couper le soixantième parallèle sud. Cook, en 1775, avait trouvé une mer libre sur un espace de deux cent cinquante milles, là même où une barrière infranchissable avait arrêté la tentative de Biscoë.
+
+Mais les glaces lui défendaient l'accès du sud. Aussi, Biscoë dut poursuivre sa route à l'est, en se rapprochant du Cercle polaire.
+
+« Enfin, le 27 février, dit Desborough Cooley, par 65° 57' sud et 45° de longitude orientale, il vit très distinctement une terre d'une étendue considérable, montagneuse et couverte de neige, à laquelle il imposa le nom d'Enderby. Tous ses efforts eurent dès lors pour objet d'y aborder, mais elle était complètement entourée de glaces qui en défendaient l'approche. Sur ces entrefaites, un coup de vent inattendu vint séparer les deux navires et les entraîna vers  le sud-est, ayant encore longtemps en vue la même terre qui offrait, d'est en ouest, une étendue de plus de deux cents milles. Mais le mauvais temps et l'état déplorable de la santé de son équipage forcèrent le capitaine Biscoë à laisser porter sur la Terre de Van-Diémen, où il ne fut rejoint que plusieurs mois après par le *Lively.* »
+
+Les explorateurs furent plusieurs fois témoins des lueurs éblouissantes de l'aurore australe, spectacle merveilleux qu'il est impossible d'oublier.
+
+« Pour la première fois, dit Biscoë, les brillants reflets de l'aurore australe roulaient sur nos têtes sous la forme de magnifiques colonnes, puis prenaient tout à coup l'apparence d'une frange de tapisserie, et, l'instant d'après, s'agitaient en l'air comme des serpents ; souvent ces jets de lumière ne semblaient être qu'à quelques verges au-dessus de nos têtes, et bien certainement ils se trouvaient dans notre atmosphère. »
+
+La terre, montagneuse et couverte de neige, courait suivant la direction E.-O. sous le parallèle 66° 30' ; par malheur, il fut impossible de l'approcher de plus de dix lieues, et elle était partout bordée de glaces.
+
+Laissant la Terre de Van-Diémen le 14 janvier 1832, Biscoë se dirigea avec ses deux navires au sud-est. A plusieurs reprises, des fucus flottant à la surface de la mer et quantité d'oiseaux qui s'écartent peu de la terre, des nuages bas et épais, firent croire à Biscoë qu'il allait faire quelque découverte ; mais toujours la tempête l'empêcha de pousser à fond sa reconnaissance. Enfin, le 12 février, par 66° 27' de latitude et 84° 10', de nouveau furent aperçus, en grand nombre, des albatros, des pingouins et des baleines ; le 15, une terre fut découverte dans le sud-est à une grande distance ; le lendemain, on reconnut que c'était une île à laquelle on donna le nom d'Adélaïde, en l'honneur de la reine d'Angleterre. Sur cette île, à une lieue à peu près du bord de la mer, s'élevaient plusieurs pics de forme conique et à base très large.
+
+Les jours suivants, on put s'assurer qu'elle n'était pas isolée, mais qu'elle faisait partie d'une chaîne d'îlots située au-devant d'une terre haute. Cette terre, qui s'étendait sur un espace de deux cent cinquante milles dans une direction E.-N.-E. et O.-S.-O., reçut le nom de Graham, tandis que celui de Biscoë restait attaché à la chaîne des îles que ce navigateur avait découvertes. Ce pays n'offrait pas la moindre trace de plantes ou d'animaux.
+
+Biscoë, pour donner une sanction certaine à sa découverte, descendit, le 21 février, sur la grande terre, afin d'en prendre possession, et détermina, par 64° 45' latitude sud et 66° 11' longitude ouest de Paris, la position d'une haute montagne, à laquelle il donna le nom de mont William.
+
+« On se trouvait, dit le *Bulletin de la Société de géographie* de 1833, dans une baie profonde où l'eau était si paisible que, s'il y avait eu des phoques, on eût pu facilement en charger les deux navires, attendu qu'on eût pu, sans peine, approcher du bord des rochers pour leur donner la chasse. L'eau était aussi très profonde, puisque, à toucher presque le rivage, on n'eut point de fond avec vingt brasses de ligne. Le soleil était si chaud que la neige fondait sur tous les rochers situés au bord de l'eau, circonstance qui rendait encore plus extraordinaire l'absence complète des phoques. »
+
+De là, Biscoë gagna le Shetland du Sud, auquel la Terre de Graham pourrait se rattacher, puis il relâcha aux Malouines où le *Lively* se perdit, et il rentra enfin en Angleterre.
+
+Le capitaine Biscoë reçut, en récompense de ses fatigues et pour l'encourager dans ses efforts, les grands prix des Sociétés de géographie de Londres et de Paris.
+
+Des controverses très animées s'étaient produites, à la suite de ces voyages, sur l'existence d'un continent austral et la possibilité de naviguer au-delà d'une première barrière de glaces, appuyée sur les îles déjà découvertes. Trois puissances résolurent à la même époque d'y envoyer une expédition. La France confia le commandement de la sienne à Dumont d'Urville, l'Angleterre à James Ross et les États-Unis au lieutenant Charles Wilkes.
+
+Aux nouveaux venus les honneurs. Ce dernier reçut le commandement d'une petite escadre composée du *Purpoise*, des deux sloops *le Vincennes* et *le Peacock,* des deux schooners *Sea-Gull* et *Flying-Fish*, et d'une gabare, *le Relief.* Cette dernière, qui emportait dans ses flancs un supplément de provisions, fut expédiée à Rio, tandis que les autres bâtiments, avant de s'arrêter sur cette rade, touchèrent à Madère et aux îles du cap Vert.
+
+Du 24 novembre 1838 au 6 janvier 1839, l'escadre demeura dans la baie de Rio-de-Janeiro, gagna ensuite le Rio-Negro où elle séjourna six jours, et n'arriva que le 19 février 1839 au port Orange, à la Terre de Feu.
+
+En cet endroit, l'expédition se divisa : le *Peacock* et le *Flying-Fish* furent envoyés vers le point où Cook avait doublé le soixantième degré de latitude ; le *Relief* pénétra avec les naturalistes dans le détroit de Magellan par un des passages situés au sud-est de la Terre de Feu ; le *Vincennes* restait au port Orange, tandis que le *Sea-Gull* et le *Purpoise* partaient, le 24 février, pour les mers australes. Wilkes reconnut la Terre de Palmer sur une longueur de trente milles jusqu'au point où elle tourne vers le S.-S.-E. qu'il nomma cap Hope ; puis, il visita les Shetland et fit à leur géographie quelques heureuses rectifications.
+
+Les deux bâtiments, après trente-six jours passés dans ces régions inhospitalières, firent route au nord. Après divers incidents de navigation, aujourd'hui sans grand intérêt, ayant perdu le *Sea-Gull*, Wilkes relâcha au Callao, visita les Pomoutou, Taïti, les îles de la Société, des Navigateurs, et relâcha à Sydney, le 28 novembre.
+
+Le 29 décembre 1839, l'expédition reprenait encore une fois la mer et se dirigeait au sud. L'objectif était d'atteindre la plus haute latitude possible entre les 160e et 145e degrés à l'est du méridien de Greenwich, en allant de l'est à l'ouest. Les bâtiments avaient liberté de manœuvre, et rendez-vous était fixé en cas de séparation. Jusqu'au 22 janvier, on releva de nombreux indices de terre, et quelques officiers crurent même l'apercevoir ; mais il ressort des dépositions de ceux-ci, au procès que Wilkes eut à soutenir à son retour, que, si quelque circonstance eût rejeté au nord le *Vincennes* avant le 22 janvier, l'expédition n'aurait eu aucune certitude de l'existence d'un continent austral. C'est à Sydney seulement que Wilkes, entendant dire que d'Urville avait découvert la terre le 19 janvier, prétendit l'avoir découverte le même jour.
+
+Ces faits sont établis dans un article très concluant, publié par l'hydrographe Daussy dans le *Bulletin de la Société de géographie.*
+
+On verra plus loin que, dès le 21 janvier, d'Urville avait débarqué sur cette nouvelle terre. La priorité de la découverte doit donc lui être réservée.
+
+Le *Peacock* et le *Flying-Fish*, ayant éprouvé des avaries ou n'ayant pu affronter l'état de la mer et les glaces flottantes, avaient fait route au nord dès le 24 janvier et le 5 février.
+
+Seuls, le *Vincennes* et le *Purpoise* avaient continué cette rude croisière jusque par 97° de longitude est, voyant la terre et s'en approchant de temps en temps, depuis dix milles jusqu'à trois quarts de mille, selon que la banquise le permettait.
+
+« Le 29 janvier, dit Wilkes dans son rapport à l'Institut national de Washington, nous entrâmes dans ce que j'ai nommé baie Piners, la seule place où nous ayons pu débarquer sur les rochers nus ; mais nous fûmes repoussés par un de ces coups de vent soudains qui sont ordinaires dans ces mers. Nous sortîmes de cette baie en sondant par trente brasses. Le coup de vent dura trente-six heures, et après avoir échappé plusieurs fois de très près à nous briser contre les glaces, nous nous trouvâmes à soixante milles sous le vent de la baie. Comme il était alors probable que la terre que nous avions découverte était d'une grande étendue, je pensai qu'il était plus important de la suivre vers l'ouest que de retourner pour débarquer à la baie Piners, ne doutant pas d'ailleurs que nous ne trouvassions l'occasion de le faire sur quelque point plus accessible. Je fus cependant trompé dans cette attente, et la banquise nous empêcha constamment d'approcher de terre. Nous rencontrâmes sur la limite de la banquise de grandes masses de glace couvertes de vase, de roches et de pierres, dont nous pûmes prendre des échantillons aussi nombreux que si nous les avions détachés des rochers eux-mêmes. La terre couverte de neige fut aperçue distinctement en plusieurs endroits, et, entre ces points, les apparences étaient telles, qu'elles ne laissèrent que peu ou même aucun doute dans mon esprit, qu'il n'y eût là une ligne continue de côtes, qui méritât le nom que nous lui avons donné, de continent antarctique. Lorsque nous atteignîmes le 97e degré est, nous trouvâmes que la glace se dirigeait vers le nord ; nous la suivîmes dans cette direction, et nous arrivâmes, à quelques milles près, au point où Cook avait été arrêté par la barrière de glace en 1773. »
+
+La baie Piners, où Wilkes débarqua, est située par 140° est (137° 40' de Paris), c'est-à-dire au point même où d'Urville avait débarqué le 21 janvier.
+
+Le 30 janvier, le *Purpoise* avait aperçu les deux bâtiments de d'Urville, s'était approché deux, à portée de la voix ; mais ceux-ci, faisant de la toile, avaient paru se refuser à toute communication.
+
+Wilkes regagna Sydney où il trouva le *Peacock* en réparation, se rendit avec ce bâtiment à la Nouvelle-Zélande, de là à Tonga-Tabou, puis aux Fidji, où furent massacrés par les naturels deux jeunes officiers de l'expédition. Les îles des Amis, des Navigateurs, les Sandwich, l'embouchure de la Colombia à la côte occidentale d'Amérique, les détroits de l'Amirauté et de Puget, l'île Vancouver, les îles des Larrons, Manille, les Soulou, Singapour, les îles de la Sonde, Sainte-Hélène, Rio-de-Janeiro, furent les nombreuses étapes de ce long voyage, qui se termina, le 9 juin 1842, à New-York, après une absence de trois ans et dix mois.
+
+Les résultats dans toutes les branches de la science étaient considérables, et, pour son début dans la carrière des voyages de circumnavigation, la jeune république des États-Unis venait de faire un coup de maître.
+
+Malgré tout l'intérêt que présente la précieuse relation de cette expédition, ainsi que les traités spéciaux qui l'accompagnent et que l'on doit à la plume des savants Dana, Gould, Pickering, Gray, Cassin et Brackenridge, nous sommes forcé de négliger tout ce qui s'est fait dans des contrées déjà connues. Le succès de cette grande publication fut considérable au-delà de l'Atlantique, il est facile de le comprendre, dans un pays qui ne compte qu'un petit nombre d'explorateurs officiels.
+
+En même temps que Wilkes, au commencement de 1839, Balleny, capitaine de l'*Elisabeth-Scott*, apportait sa contribution à la reconnaissance des terres antarctiques.
+
+Parti de l'île Campbell, au sud de la Nouvelle-Zélande, il était parvenu, le 7 février, par 67° 7' de latitude et 164° 25' de longitude à l'ouest du méridien de Paris. Faisant alors route à l'ouest, deux jours plus tard, après avoir reconnu maint indice du voisinage de la terre, il avait découvert dans le sud-ouest une bande noire, qu'à six heures du soir on ne pouvait plus hésiter à prendre pour la terre. C'étaient trois îles assez considérables, dont la plus occidentale était la plus longue. Elles reçurent le nom de Balleny. Comme on peut le croire, le capitaine manœuvra pour atterrir, mais ces îles étaient défendues par une barrière de glace sans aucun passage. On dut donc se contenter de fixer par 66° 44' et 162° 25' de longitude la position de l'île centrale.
+
+Le 11 février, fut encore vue une terre haute et couverte de neige dans l'ouest-sud-ouest ; le lendemain, on n'en était plus qu'à une dizaine de milles. On s'en approcha, puis un canot fut détaché. Une plage de trois ou quatre pieds de large au bas de falaises verticales et inaccessibles en défendait l'accès, et il fallut se mouiller jusqu'à mi-corps pour recueillir quelques échantillons de lave car cette terre est volcanique, et ses montagnes sont surmontées d'un panache de fumée.
+
+Encore une fois, le 2 mars, par 65° de latitude et 120° 24' de longitude estimée, on aperçut, du pont de l'*Elisabeth-Scott,* une nouvelle apparence de terre. On mit en panne pour passer la nuit, et le lendemain, on tenta de se diriger vers le sud-ouest ; mais il fut impossible de franchir la banquise attachée au rivage. Cette nouvelle terre reçut le nom de Sabrina. Balleny dut alors reprendre la route du nord, et c'est à ces indications incomplètes, mais sûres, que se bornent ses découvertes.
+
+En 1837, au moment où Wilkes partait pour l'expédition qui vient d'être racontée, le capitaine Dumont d'Urville proposa au ministre de la marine un nouveau plan de voyage autour du monde. Les services qu'il avait rendus de 1819 à 1821, durant une campagne hydrographique, de 1822 à 1825, sur la *Coquille* avec le capitaine Duperrey ; enfin, de 1826 à 1829, sur l'*Astrolabe,* ses études et son expérience lui donnaient bien le droit de soumettre ses vues au gouvernement et de faire en sorte de compléter la masse de renseignements que lui-même ou d'autres navigateurs avaient recueillis sur des parages imparfaitement décrits, bien que très importants à connaître sous le rapport de l'hydrographie, du commerce et des sciences.
+
+Le ministre s'était empressé d'accepter les offres de Dumont d'Urville et mit tout en œuvre pour lui donner des collaborateurs éclairés en qui il pût avoir confiance. Les deux corvettes *l'Astrolabe* et *la Zélée,* munies de toutes les ressources dont les voyages successifs que la France venait d'entreprendre avaient fait reconnaître la nécessité, furent tenues à sa disposition. Parmi les officiers qui l'accompagnèrent, plusieurs devaient arriver au grade d'officier général : c'était Jacquinot, le commandant de la *Zélée,* Coupvent-Desbois, Du Bouzet, Tardy de Montravel et Périgot, dont les noms sont bien connus de tous ceux qui se sont occupés de l'histoire de la marine française.
+
+Les instructions que le commandant de l'expédition reçut du vice-amiral de Rosamel différaient de celles qui avaient été données à ses prédécesseurs, en ce sens qu'il lui était prescrit de s'enfoncer vers le pôle sud aussi loin que les glaces le lui permettraient. Il devait également compléter le grand travail qu'il avait exécuté, en 1827, sur les îles Viti, et, après une reconnaissance de l'archipel Salomon, suivie d'une relâche à la rivière des Cygnes en Australie et à la Nouvelle-Zélande, il devait visiter les îles Chatam et la partie des Carolines reconnue par Lütké, pour gagner ensuite Mindanao, Bornéo, Batavia, d'où il reviendrait en France par le cap de Bonne-Espérance.
+
+Ces instructions se terminaient par des considérations d'un haut intérêt, qui témoignaient des vues élevées de l'administration.
+
+« Sa Majesté, disait l'amiral de Rosamel, n'a pas seulement eu en vue les progrès de l'hydrographie et des sciences naturelles ; sa royale sollicitude pour les intérêts du commerce français et pour le développement des expéditions de nos armateurs, lui a fait envisager, sous un point de vue plus large, l'étendue de votre mission et les avantages qu'elle doit réaliser. Vous visiterez un grand nombre de points qu'il est très important d'étudier sous le rapport des ressources qu'ils peuvent offrir à nos navires baleiniers. Vous aurez à recueillir tous les renseignements propres à les guider dans leurs expéditions pour les rendre plus fructueuses. Vous relâcherez dans des ports où déjà notre commerce entretient des relations et où le passage d'un bâtiment de l'État peut produire une salutaire influence, dans d'autres où peut-être les produits de notre industrie trouveraient des débouchés ignorés jusqu'à ce jour, et sur lesquels vous pourrez, à votre retour, fournir de précieuses indications. »
+
+Dumont d'Urville reçut, avec les vœux et les encouragements personnels de Louis-Philippe, les marques d'intérêt les plus vives de l'Académie des Sciences morales et de la Société de géographie. Par malheur, il n'en fut pas de même de la part de l'Académie des Sciences, bien que, depuis plus de vingt années, le capitaine d'Urville n'eut cessé de travailler à l'accroissement des richesses du Muséum d'histoire naturelle.
+
+« Soit esprit de corps, soit préventions défavorables contre moi, écrit d'Urville, ils montrèrent peu d'empressement pour l'expédition qui se préparait, et les termes dans lesquels furent conçues leurs instructions furent pour le moins aussi froids qu'ils eussent pu les employer vis-à-vis d'une personne qui leur eût été complètement étrangère. »
+
+On doit regretter d'avoir vu, parmi les adversaires les plus acharnés de cette expédition, l'illustre Arago, ennemi déclaré des recherches polaires.
+
+Il n'en fut pas de même d'un certain nombre de savants étrangers, au premier rang desquels il convient de citer Humboldt et Krusenstern, qui adressèrent à d'Urville leurs félicitations sur sa nouvelle campagne et sur les services que les sciences en pouvaient attendre.
+
+Après de nombreux retards causés par l'armement de deux vaisseaux qui devaient transporter le prince de Joinville au Brésil, les deux corvettes l'*Astrolabe* et *la Zélée* purent enfin quitter Toulon le 7 septembre 1837. Le dernier jour du même mois, elles mouillaient sur la rade de Sainte-Croix de Ténériffe ; cette relâche, d'Urville la substituait à celle du cap Vert, parce qu'il espérait pouvoir s'y procurer du vin, et aussi procéder à certaines observations d'intensité magnétique et de hauteur qu'on lui avait reproché de n'avoir pas  exécutées en 1826, bien qu'on sût parfaitement qu'il n'était pas à cette époque en état de les faire.
+
+Malgré l'impatience que témoignaient les jeunes officiers d'aller prendre leurs ébats à terre, ils durent se soumettre à une quarantaine de quatre jours, récemment établie sur le bruit de quelques cas de peste survenus au lazaret de Marseille. Sans s'arrêter sur les détails de l'ascension de MM. Du Bouzet, Coupvent et Dumoulin au sommet du pic, il suffira de citer ces quelques phrases enthousiastes de Coupvent-Desbois :
+
+« Arrivés au pied du piton, dit cet officier, nous gravissons, durant une dernière heure, des cendres et des débris de pierres, et nous touchons enfin au but désiré, le point le plus élevé de ce monstrueux volcan. Le cratère fumant se présente à nos yeux comme une demi-sphère creuse, soufreuse, couverte de débris de ponces et de pierres, large d'environ 400 mètres et profonde de 100. Le thermomètre qui est, à l'ombre, de 5 degrés à dix heures du matin, s'est brisé, placé sur le sol, dans un endroit qui laissait échapper des vapeurs sulfureuses. Il y a sur les bords et dans le cratère une foule de fumerolles qui distillent le soufre natif qui forme la base du sommet. La vitesse des vapeurs est assez grande pour faire entendre des détonations. La chaleur du sol est telle qu'en certains endroits il est impossible d'y poser les pieds pendant quelques instants. Maintenant, jetez vos regards autour de vous, voyez ces trois montagnes entassées les unes sur les autres, n'est-ce pas une œuvre des géants pour escalader le ciel ? Considérez ces immenses coulées de laves qui divergent d'un point unique et forment la croûte que, peu de siècles auparavant, vous n'eussiez point foulée impunément. Voyez au loin cet archipel des Canaries, jeté çà et là sur la mer qui brise sur les côtes de l'île dont vous êtes le sommet, vous pygmées !... Voyez comme Dieu doit voir, et soyez payés de vos fatigues, voyageurs que l'admiration des grands spectacles de la nature a conduits à 3,704 mètres au-dessus du niveau de la mer ! »
+
+Il faut ajouter à ces observations que les explorateurs constatèrent au sommet du pic l'éclat plus vif des étoiles, la facilité du son à se propager, enfin l'engourdissement des extrémités du corps et des maux de tête assez prononcés, symptômes bien connus de ce qu'on appelle « le mal des montagnes ».
+
+Pendant qu'une partie de l'état-major se livrait à cette promenade scientifique, plusieurs officiers parcouraient la ville, où l'on ne remarque qu'une promenade publique bien exiguë, appelée l'Alameda, et l'église des Franciscains. Les environs sont assez intéressants, soit par les curieux aqueducs qui amènent l'eau à la ville, soit par la forêt de Mercédès, qui mériterait plutôt, d'après d'Urville, le nom de bois taillis, car on n'y voit plus que des arbustes et des fougères.
+
+La population parut joviale mais adonnée à une excessive paresse, frugale mais livrée à la plus abominable saleté, enfin d'une licence de mœurs sans nom.
+
+Le 12 octobre, les deux bâtiments reprirent la mer, se disposant à gagner au plus tôt les régions polaires. Un sentiment d'humanité détermina d'Urville à relâcher à Rio. L'état d'un élève, embarqué malade de la poitrine, allait tous les jours empirant, le séjour dans les glaces aurait vraisemblablement avancé sa fin ; c'est ce qui détermina le commandant à changer son itinéraire.
+
+Les deux bâtiments mouillèrent sur la rade de Rio et non pas dans la baie, le 13 novembre, mais ils n'y séjournèrent qu'une journée, c'est-à-dire juste le temps de mettre à terre le jeune Duparc et de faire provision de quelques vivres frais, puis ils reprirent leur route au sud.
+
+Depuis longtemps, d'Urville désirait explorer le détroit de Magellan, non pas seulement au point de vue hydrographique, car les relèvements si consciencieux du capitaine anglais King --- commencés en 1826, ils ne furent terminés qu'en 1834 par Fitz-Roy --- laissaient bien peu de chose à faire ; mais sous le rapport de l'histoire naturelle, quelle riche moisson d'observations nouvelles n'y avait-il pas à récolter ?
+
+N'était-il pas intéressant au plus haut degré de vérifier ces dangers à chaque instant renaissants, ces sautes de vents et tous ces périls signalés par les anciens navigateurs ?
+
+Et même, ces fameux Patagons, objets de tant de fables et de controverses, ne serait-on pas satisfait de recueillir sur eux des documents précis et circonstanciés ?
+
+Dès que sa résolution fut arrêtée, d'Urville communiqua ses nouvelles intentions au capitaine Jacquinot et fit aussitôt voile pour le canal. Le 12 décembre, les deux corvettes étaient en vue du cap des Vierges, et Dumoulin, secondé par les jeunes officiers, commençait sous voile la belle série de ses travaux hydrographiques.
+
+Dans la navigation épineuse du détroit, d'Urville déploya autant d'audace que de sang-froid, d'habileté que de présence d'esprit, --- ce sont les termes mêmes employés à son égard, --- et fit complètement revenir sur son compte bon nombre de ses matelots, qui, en le voyant marcher pesamment à Toulon et soutirant de la goutte, s'étaient écriés naïvement : « Oh ! ce bonhomme-là ne nous mènera pas bien loin ! »
+
+Mais, lorsqu'on sortit du détroit, grâce à la vigilance continuelle du commandant, les esprits étaient si bien changés qu'on répétait :
+
+« Ce diable d'homme est enragé ! Il nous a fait raser les roches, les écueils et la terre, comme s'il n'avait jamais fait d'autre navigation dans sa vie !... Et nous qui le croyions mort dans le dos ! »
+
+Ici, il convient de dire quelques mots de la relâche au port Famine.
+
+Le débarquement y est facile ; on y trouve une belle source et du bois en abondance ; les rochers fournissent une récolte abondante de moules, de patelles, de buccins, et la terre produit du céleri et une sorte de salade semblable au pissenlit. Une autre ressource très abondante de cette baie, c'est la pêche ; pendant tout le temps de la relâche, la seine, le trémail et la ligne procurèrent des éperlans, des mulets, des loches, des gobies, en assez grande abondance pour nourrir les équipages.
+
+« Comme j'allais me rembarquer, dit d'Urville, mon patron me remit un petit baril qu'on avait trouvé suspendu à un arbre de la plage, tandis qu'on avait lu sur un poteau voisin l'inscription *Post-Office.* Ayant reconnu qu'il contenait des papiers, je le transportai à bord et pris connaissance des diverses pièces qu'il renfermait. C'étaient des notes des capitaines qui avaient passé par le détroit, sur l'époque de leur passage, les circonstances de leur traversée, quelques avis à leurs successeurs et des lettres pour l'Europe et les États-Unis. Il paraît que la première idée de ce bureau de poste en plein vent fut due au capitaine américain Cunningham, qui se servit tout simplement d'une bouteille suspendue à un arbre, en avril 1833 ; son compatriote Water-House y ajouta, en 1835, l'utile complément du poteau, avec l'inscription. Enfin le capitaine anglais Carrick, commandant le schooner *Mary-Ann,* de Liverpool, passa par le détroit en mars 1837, allant à San-Blas de Californie ; il y passa encore à son retour, le 29 novembre 1837, c'est-à-dire seize jours avant nous, et c'est lui qui avait substitué le baril à la bouteille, avec invitation à ses successeurs d'en faire usage pour les lettres qu'ils voudraient faire parvenir à leurs diverses destinations. Je me propose d'ajouter encore à cette mesure vraiment utile et ingénieuse dans sa simplicité, en créant un vrai bureau de poste au sommet de la presqu'île ; car son inscription, par la dimension de ses caractères, sera telle, qu'elle forcera l'attention des navigateurs qui ne voudraient pas mouiller à Port-Famine, et la curiosité les portera à envoyer un canot visiter la boîte qui sera appliquée au poteau. Selon toute apparence, nous serons les premiers à en recueillir les fruits, et nos familles seront agréablement surprises de recevoir de nos nouvelles de cette terre sauvage et solitaire au moment même où nous allons nous lancer vers les glaces polaires. »
+
+A marée basse, l'embouchure de la rivière Sedger, qui se jette dans la baie Famine, est obstruée par des bancs de sable ; à trois cents mètres plus loin, la plaine se transforme en un immense marécage d'où émergent d'énormes troncs d'arbres, ossements gigantesques, blanchis sous l'action du temps, transportés en cet endroit par les pluies extraordinaires, qui grossissent le cours de la rivière.
+
+Une belle forêt sert de lisière à celle-ci, et des arbustes, armés d'aiguillons, en défendent l'accès. Les essences les plus communes sont le hêtre, au tronc haut de vingt à trente mètres sur près d'un mètre de diamètre, l'écorce de Winter, qui a longtemps remplacé la cannelle, et une sorte d'épine-vinette.
+
+Les plus gros hêtres que d'Urville ait rencontrés mesuraient cinq mètres de circonférence et pouvaient avoir cinquante mètres de haut.
+
+Par malheur, on ne trouve sur ce littoral ni mammifères, ni reptiles, ni coquilles terrestres ou fluviatiles ; une ou deux sortes d'oiseaux, voilà seulement, avec des lichens et des mousses, ce que le naturaliste y peut seulement recueillir.
+
+Plusieurs officiers remontèrent le Sedger dans une yole, jusqu'à ce que le peu de profondeur de l'eau les arrêtât. Ils étaient alors à sept milles et demi de l'embouchure, et ils constatèrent que cette rivière pouvait avoir, à l'endroit où elle tombe dans la mer, trente ou quarante mètres de large.
+
+« Il serait difficile, dit M. de Montravel, d'imaginer un tableau plus pittoresque que celui que chaque coude dévoilait à nos yeux. Partout, c'était ce désordre admirable qu'on ne saurait imiter, un amas confus d'arbres, de branches brisées, de troncs couverts de mousses qui se croisaient en tous sens. »
+
+En résumé, la station au port Famine avait été des plus heureuses ; le bois et l'eau furent faits très facilement ; on procéda à une foule de réparations ou d'installations nouvelles, à des observations d'angles horaires, de physique, de météorologie, de marée, d'hydrographie ; enfin on recueillit de nombreux objets d'histoire naturelle, qui offraient d'autant plus d'intérêt que les divers musées de France ne possédaient absolument rien de ces régions inexplorées.
+
+« Un petit nombre de plantes recueillies par Commerson et conservées dans l'herbier de M. de Jussieu, dit la relation, représentaient tout ce qu'on en savait. »
+
+Le 28 décembre 1837, l'ancre fut levée sans qu'on eût pu apercevoir un seul de ces Patagons, dont la rencontre excitait à un si haut degré la curiosité des officiers et de l'équipage.
+
+Les hasards de la navigation forcèrent les deux corvettes à mouiller un peu plus loin, au port Galant, dont les rives, bordées de beaux arbres, sont coupées de torrents qui forment, à peu de distance, de magnifiques cascades de quinze à vingt mètres de hauteur. Cette relâche ne fut pas perdue, car on recueillit un grand nombre de plantes nouvelles, et on releva le port et les baies voisines. Mais le commandant, trouvant la saison trop avancée, renonça à sortir du détroit par l'ouest, et résolut de revenir sur ses pas, afin d'avoir une entrevue avec les Patagons, avant de gagner les régions arctiques.
+
+La baie Saint-Nicolas, que Bougainville avait appelée baie des Français, offrit un spectacle infiniment plus gracieux que le port Galant, où les équipages passèrent le premier janvier 1838. Les travaux hydrographiques habituels y furent menés à bonne fin par les officiers sous la direction de Dumoulin.
+
+Un canot fut expédié au cap Remarquable, où Bougainville disait avoir vu des coquilles fossiles ; ce n'étaient que de petits galets empâtés dans une  gangue calcaire, formant une couche très épaisse depuis le niveau de la mer jusqu'à une hauteur de cinquante mètres environ.
+
+D'intéressantes observations furent faites également avec le thermométrographe à deux cent quatre-vingt-dix brasses, sans trouver le fond à moins de deux milles de terre. Si à la surface la température était de neuf degrés, elle en accusait deux à cette profondeur, et comme vraisemblablement les courants n'introduisent pas aussi bas les eaux des deux océans, on serait fondé à croire que c'est la température propre à cette profondeur.
+
+Puis, les bâtiments rallièrent la Terre de Feu où Dumoulin reprit le cours de ses relèvements. Basse, découverte, semée de rochers qui servirent de jalons, elle n'offre en cet endroit que fort peu de dangers. L'île Magdalena, la baie Gente-grande, l'île Elisabeth, le havre Oazy, où l'on distingua à la lunette un camp nombreux de Patagons, le havre Peckett, où l'*Astrolabe* toucha par trois brasses d'eau, furent successivement dépassés.
+
+« Au moment où l'on s'aperçut que nous touchions, dit Dumont d'Urville, il y eut un moment d'étonnement et même d'agitation dans l'équipage, et quelques clameurs se faisaient déjà entendre. D'une voix ferme, j'imposai silence, et sans paraître m'inquiéter en rien de ce qui venait d'arriver, je m'écriai : « Ce n'est rien du tout, et vous en verrez bien d'autres ! » Par la suite, ces mots revinrent souvent à la mémoire de nos matelots. Il est plus important qu'on ne pense, pour un capitaine, de conserver le calme le plus parfait et la plus grande impassibilité au milieu des périls les plus imminents, même de ceux qu'il pourrait juger inévitables. »
+
+La station au havre Peckett fut égayée par la vue des Patagons. Tous, officiers et matelots, étaient impatients de descendre à terre. Une foule de naturels à cheval attendaient au lieu du débarquement.
+
+Doux et paisibles, ils répondirent avec complaisance aux questions qui leur furent faites. Ils considéraient avec tranquillité tout ce qu'ils voyaient et ne montraient pas une grande convoitise pour les objets qu'on leur montrait. Ils ne parurent avoir aucun penchant au vol, et, tant qu'ils furent à bord, ils n'essayèrent de soustraire quoi que ce fût.
+
+Leur taille moyenne parut être de 1m, 73, quoiqu'on en vît de plus petits. Leurs membres étaient gros et potelés sans être musculeux ; leurs extrémités, d'une petitesse remarquable. Leur trait le plus caractéristique, c'est la largeur de la partie inférieure de la figure, tandis que le front est bas et fuyant. Des yeux allongés et étroits, des pommettes assez saillantes, un nez écrasé, leur donnent assez de ressemblance avec le type mongol.
+
+Chez eux tout annonce la mollesse et l'indolence, rien la vigueur et l'agilité. A les voir accroupis, en marche ou debout, avec leurs cheveux tombant sur les épaules, on dirait plutôt les femmes d'un harem que des sauvages habitués à souffrir des intempéries des saisons et à lutter contre les difficultés de l'existence. Étendus sur des peaux, au milieu de leurs chiens et de leurs chevaux, ils n'ont pas de passe-temps plus agréable que de chercher, pour s'en régaler, la vermine dont ils sont largement fournis. Ils sont tellement ennemis de la marche qu'ils montaient à cheval pour aller ramasser des coquilles sur le rivage, qui n'était cependant éloigné que de cinquante à soixante pas.
+
+Avec eux vivait un blanc, à l'aspect misérable et décharné ; il se disait originaire des États-Unis, mais il ne parlait l'anglais qu'imparfaitement, et l'on n'eut pas de peine à reconnaître en lui un Suisse allemand.
+
+Niederhauser, --- c'était son nom. --- était allé tenter de s'enrichir aux États-Unis ; comme la fortune se montrait rebelle, il avait écouté les propositions merveilleuses d'un pécheur de phoques, qui cherchait à recruter son équipage. Il fut déposé, suivant la coutume, avec sept camarades et des provisions, sur une île sauvage de la Terre de Feu pour faire la chasse aux phoques et préparer leurs peaux.
+
+Quatre mois après, le schooner reparut, chargea les peaux, laissa les pêcheurs avec de nouvelles provisions et... ne revint pas. Que le bâtiment ait fait naufrage, que le capitaine ait abandonné ses matelots, c'est ce qu'il fut impossible de savoir.
+
+Lorsque ces malheureux virent le délai passé et qu'ils se trouvèrent sans provisions, ils montèrent dans leur canot et embouquèrent le détroit. Ils ne tardèrent pas à rencontrer les Patagons. Niederhauser resta avec eux, tandis que les autres continuaient leur route. Très bien accueilli par les naturels, il avait vécu de leur existence, s'emplissant l'estomac, lorsque la chasse était bonne, se serrant la ceinture et ne vivant que de racines en temps de disette.
+
+Mais, las de cette existence misérable, Niederhauser supplia d'Urville de le prendre à son bord, car il n'aurait pu résister un mois de plus à ces privations. Le capitaine y consentit et l'embarqua comme passager.
+
+Pendant ses trois mois de séjour chez les Patagons, Niederhauser avait pris quelque teinture de leur langage, et d'Urville en profita pour recueillir en patagon la plupart des mots d'un vocabulaire comparatif de toutes les langues.
+
+Le costume de guerre des Fuégiens comprend un casque de cuir bouilli, armé de plaques d'airain et recouvert d'un beau cimier de plumes de coq, une tunique de cuir de bœuf teinte en rouge et bariolée de bandes jaunes, et une  sorte de cimeterre à double tranchant. Le chef de la peuplade du havre Peckett consentit à laisser faire son portrait sous ce costume, ce qui dénonçait une supériorité sur ses sujets, qui s'y refusèrent obstinément dans la crainte de quelque sortilège.
+
+Le 8 janvier, l'ancre définitivement levée, le second goulet fut enfilé assez lestement, malgré le flot. Après avoir parcouru les deux tiers de l'étendue du détroit de Magellan, les bâtiments firent route pour les régions polaires, ayant relevé toute la bande orientale de la Terre de Feu, lacune importante comblée pour l'hydrographie, car, jusqu'alors, il n'existait aucune carte détaillée de cette côte.
+
+La Terre des États fut doublée sans incident. Le 15 janvier, furent aperçues, non sans une certaine émotion, les premières glaces au milieu desquelles les bâtiments allaient bientôt naviguer sans trêve.
+
+Les écueils flottants ne sont pas par eux-mêmes les ennemis les plus redoutables de ces parages ; la brume, --- une brume opaque que le regard le plus vif ne peut parvenir à percer, --- enveloppe bientôt les deux navires, paralyse leurs mouvements et risque à chaque instant, bien qu'ils soient à la cape, de leur faire donner contre quelqu'un de ces blocs redoutables. La température s'abaisse ; à la surface de l'eau, le thermométrographe n'accuse plus que deux degrés, celle des eaux inférieures descend au-dessous de zéro. Bientôt une neige à moitié fondue tombe à flot. Tout annonce qu'on entre définitivement dans les mers antarctiques.
+
+Il est impossible de reconnaître l'île Clarence et les New-South-Orkney ; on passe son temps à manœuvrer pour éviter les blocs de glace.
+
+A midi, le 20 janvier, on est par 62° 3' latitude sud et 49° 56' longitude ouest. C'est non loin de là, dans l'est, que Powell a rencontré des « ice fields » compacts. On aperçoit bientôt une île immense de deux mille mètres d'étendue, de soixante-six mètres de hauteur, table taillée à pic, imitant la terre à s'y méprendre sous certains reflets de lumière.
+
+Les baleines et les pingouins nagent en foule autour des bâtiments que croisent sans cesse les pétrels blancs.
+
+Le 21, les observations accusent 62° 53' sud, et d'Urville compte bientôt atteindre le soixante-cinquième parallèle, lorsque, dans la nuit, à trois heures du matin, on le prévient que la route est barrée par une banquise, à travers laquelle il ne paraît pas possible de se frayer un passage. Les amures sont aussitôt changées, et l'on fait route à l'est à petite vitesse, car la brise est tombée.
+
+« Aussi, dit la relation, eûmes-nous le temps de contempler tout à notre  aise le merveilleux spectacle que nous avions sous les yeux. Sévère et grandiose au-delà de toute expression, tout en élevant l'imagination, il remplit le cœur d'un sentiment d'épouvante involontaire ; nulle part l'homme n'éprouve plus vivement la conviction de son impuissance... C'est un monde nouveau dont l'image se déploie à ses regards, mais un monde inerte, lugubre et silencieux où tout le menace de l'anéantissement de ses facultés. Là, s'il avait le malheur de rester abandonné à lui-même, nulle ressource, nulle consolation, nulle étincelle d'espérance ne pourraient adoucir ses derniers moments. Cette idée rappelle involontairement la fameuse inscription de la porte de l'enfer du Dante :
+
+Lasciate ogni speranza, voi ch'entrate. »
+
+D'Urville procède alors à un travail très curieux, qui, comparé à d'autres de même nature, pourrait avoir une extrême utilité. Il fait relever le tracé exact de la banquise. Si d'autres navigateurs avaient agi de même par la suite, on aurait obtenu des renseignements précis sur la marche et les mouvements des glaces australes, matières si obscures encore aujourd'hui.
+
+Le 22, après avoir doublé une pointe, on reconnaît que la direction de la banquise est S.-S.-O., puis O. Dans ces parages, on aperçoit une terre haute et accidentée. Dumoulin a commencé d'en faire le relevé, d'Urville croit y reconnaître le New-South-Groenland de Morrell, lorsqu'on voit ses formes s'altérer et se fondre à l'horizon.
+
+Le 24, les deux corvettes traversent un lit de glaçons flottants et pénètrent dans une plaine où les glaces sont en dissolution. Mais le passage se rétrécit bientôt, les blocs deviennent plus nombreux, et il faut faire volte-face, si l'on ne veut pas être bloqué.
+
+Cependant tout indique que la lisière de la banquise est en décomposition : les îles de glace s'éboulent avec des détonations formidables, les glaces suintent et laissent couler de petits filets ; c'est la débâcle ; la saison n'est donc pas assez avancée, et Fanning a raison de dire qu'il ne faut pas arriver dans ces parages avant le mois de février.
+
+Pendant trois jours, d'Urville prolongea la bande septentrionale de cet archipel sans pouvoir l'accoster ; puis, il reprit sa route au sud jusqu'au 4 février, et  fut de nouveau en vue de la banquise par 60°  20' de latitude sud et 39° 28' de longitude est.
+
+Quelques minutes avant midi, on découvrit une sorte d'ouverture, et l'on s'y lança à tout hasard.
+
+Cette manœuvre audacieuse réussit aux deux bâtiments, qui purent pénétrer, malgré une neige intense, dans une sorte de petit bassin à peine large de deux milles, mais cerné de tous côtés par de hautes murailles de glaces.
+
+Il fallut s'amarrer aux glaçons. Lorsqu'on donna l'ordre de mouiller, un jeune novice de la *Zélée* s'écria naïvement :
+
+« Est-ce qu'il y a un port ici près ? Je ne croyais pas qu'il y eût des habitants au travers des glaces ! »
+
+D'ailleurs, à ce moment, tout le monde à bord des deux bâtiments était enthousiaste et joyeux. De jeunes officiers de la *Zélée* étaient venus vider un bol de punch avec leurs camarades de l'*Astrolabe.* De son lit, le commandant pouvait entendre les bruyantes expressions de leur contentement. Mais lui n'envisageait pas la situation sous un jour aussi favorable. Il considérait sa manœuvre comme très imprudente. Enfermé dans un cul-de-sac, il n'avait, pour sortir, d'autre issue que celle qui lui avait servi pour entrer, et il était impossible d'en profiter, à moins d'avoir vent sous vergue.
+
+En effet, à onze heures, d'Urville fut réveillé par des chocs violents et par un bruit de déchirement, comme si la corvette eût touché contre des rochers. Le commandant se releva et vit que l'*Astrolabe,* ayant dérivé, était tombée sur les glaces, où elle restait exposée aux attaques de celles que le courant entraînait plus vite qu'elle-même.
+
+Au jour, on se vit entouré de glaçons. Seul, dans le nord, un filet d'un bleu noirâtre semblait indiquer une eau libre. On prit aussitôt cette direction, mais une brume épaisse enveloppa presque immédiatement les deux corvettes. Lorsqu'elle se dissipa, on se trouva en présence d'une barrière de glaces compactes, au-delà desquelles s'étendait à perte de vue une eau entièrement dégagée.
+
+D'Urville résolut aussitôt de se frayer un passage, et, prenant du champ, il lança, avec le plus de rapidité qu'il fut possible, l'*Astrolabe* contre l'obstacle. Celle-ci pénétra de deux ou trois longueurs dans la glace, puis demeura immobile. Alors, les hommes descendirent sur les glaçons ; armés de pics, de pinces, de pioches et de scies, ils travaillèrent gaiement à se frayer un passage.
+
+Déjà ils avaient presque traversé ce fragment de banquise, lorsque le vent changea, la houle du large se fit sentir, et l'on dut, de l'avis de tous les officiers, rentrer dans l'intérieur des glaces, car il y avait lieu de craindre, si le vent fraîchissait, d'être affalé contre la banquise et démoli par les lames et les écueils flottants.
+
+Les corvettes avaient parcouru douze ou quinze milles inutilement, lorsqu'un officier, perché dans les haubans, aperçut un passage dans l'E.-N.-E. On se dirigea immédiatement de ce côté ; mais, encore une fois, il fut impossible de se frayer un passage, et, la nuit venue, on dut s'amarrer à un gros glaçon. Les effroyables craquements qui avaient tenu éveillé le commandant, la nuit précédente, recommencèrent avec une telle violence, qu'il semblait que la corvette ne pourrait y résister jusqu'au jour.
+
+Cependant, après une entrevue avec le capitaine de la *Zélée*, d'Urville fit route au nord, mais la journée se passa encore sans apporter de changement dans la position des navires ; le lendemain, au milieu d'une pluie de neige fondue, la houle devint assez forte pour soulever toute la plaine glacée, dans laquelle les deux bâtiments étaient emprisonnés.
+
+Il fallut veiller avec plus de soin que jamais aux glaçons, que ces ondulations faisaient bondir au loin, et l'on dut enfermer le gouvernail dans une espèce de cabane en bois qui le protégeait contre les chocs des glaces.
+
+A part quelques ophtalmies produites par la réverbération continuelle de la neige, la santé des équipages était satisfaisante, et ce n'était pas une mince  satisfaction pour les commandants, obligés d'être continuellement sur le qui-vive. Ce fut seulement le 9 février que les corvettes, favorisées par une forte brise, purent se dégager et se retrouver enfin dans une mer entièrement libre. On avait prolongé la banquise sur une étendue de deux cent vingt-cinq lieues.
+
+Par un bonheur inespéré, les navires n'avaient aucune avarie, sauf la perte de quelques espars et d'une bonne partie du doublage en cuivre ; mais ils ne faisaient pas plus d'eau qu'auparavant.
+
+Le soleil parut le lendemain et permit d'obtenir des observations qui donnèrent la position par 62° 9' latitude sud et 39° 22 longitude ouest.
+
+La neige ne cessa pas de tomber, le froid fut vif et le vent violent pendant les trois jours qui suivirent. Cette continuité de mauvais temps, ainsi que la durée plus longue des nuits, avertirent d'Urville de la nécessité de renoncer à cette navigation. Aussi, dès qu'il se trouva par 62° sud et 33° 11', sur la route où Weddell avait pu cheminer librement en 1823, et où lui ne rencontra que des glaces impénétrables, il fit route pour les New-South-Orkney.
+
+D'ailleurs, un mois entier passé au milieu des glaces et des brumes de l'océan Antarctique avait ébranlé la santé des équipages, et il était sans profit pour la science de continuer plus longtemps cette croisière.
+
+Ce fut le 20 que l'on reconnut l'archipel ; d'Urville fut encore une fois forcé par les glaces de le prolonger par le nord, mais il put détacher deux canots, qui, sur l'île Weddell, recueillirent une ample collection géologique, quelques échantillons de lichens et une vingtaine de pingouins et de chionis.
+
+Le 25 février, fut aperçue l'île Clarence, qui forme l'extrémité orientale de l'archipel New-South-Shetland, terre extrêmement haute, abrupte, couverte de neige, sauf au bord de la mer ; puis, on cingla vers l'île Éléphant, de tout point semblable à la première, mais semée de pitons, qui se détachent en noir sur les plaines de neige et de glace. Les îlots Narrow, Biggs, O'Brien, Aspland sont successivement reconnus ; mais, couverts de neige, ils n'offrent pas une place où l'homme puisse prendre pied. Puis, on aperçut le petit volcan Bridgeman, sur lequel deux canots essayèrent vainement de débarquer les naturalistes.
+
+« La teinte générale du sol, dit la relation, est d'une couleur rougeâtre, comme celle de la brique brûlée, avec des taches grises qui semblent annoncer des pierres ponces ou de la cendre durcie. Au bord de la mer, çà et là, on voit de gros blocs d'une couleur noirâtre qui doivent être de la lave. Du reste, cet îlot n'a point de véritable cratère, mais il laisse échapper d'épaisses fumées qui sortent presque toutes de sa base, dans la bande occidentale ; sur celle du nord, on voit encore deux fumerolles à dix ou douze mètres au-dessus de l'eau. On  n'en remarque point sur la bande de l'est, ni sur celle du sud, ni sur le sommet, qui est uniforme et arrondi. Sa masse parait avoir récemment subi quelque grande modification, et il faut bien qu'il en ait été ainsi pour avoir maintenant si peu de rapport avec la description qu'en traça Powell en 1822. »
+
+D'Urville reprit bientôt la route du sud, et, le 27 février, reconnut une bande considérable de terre dans le S.-E., que la brume et les flocons d'une neige très fine l'empêchèrent d'accoster. Il se trouvait alors sur le parallèle de l'île Hope, par 62° 57' de latitude. Il en approcha de très près et reconnut d'abord une terre basse, à laquelle il donna le nom de Terre de Joinville ; plus loin, dans le sud-ouest, une grande terre montagneuse qu'il appela Terre Louis-Philippe, et, entre elles, au milieu d'une sorte de canal encombré par les glaces, une île à laquelle il donna le nom de Rosamel.
+
+« Pour lors, dit d'Urville, l'horizon bien éclairci nous permet de suivre des yeux tous les accidents de la Terre Louis-Philippe. En ce moment, elle s'étend depuis le mont Bransfield, dans le N. 72° E., jusqu'au S.-S.-O., où l'œil la suit jusqu'aux bornes de l'horizon. Depuis le mont Bransfield jusqu'au sud, c'est une haute terre, assez uniforme et formant un immense glacier sans accidents notables. Mais, au sud, la terre se relève sous la forme d'un beau piton (le mont Jacquinot), qui paraît égaler et même surpasser Bransfield ; puis, à partir de là, elle s'étend sous la forme d'une chaîne de montagnes se terminant dans le S.-O. par un sommet encore plus élevé que tous les autres. Au reste, les effets de la neige et de la glace, ainsi que l'absence de tout objet de comparaison, contribuent à exagérer singulièrement la hauteur de toutes ces protubérances. En effet, nous trouvâmes, par les mesures qui furent prises par M. Dumoulin, que toutes ces montagnes, qui nous paraissaient alors gigantesques et au moins comparables aux Alpes et aux Pyrénées, n'avaient que des hauteurs très médiocres. Ainsi, le mont Bransfield n'avait que 632 mètres, le mont Jacquinot 648 mètres, et enfin ce dernier, le mont d'Urville, le plus élevé de tous, 931 mètres. A l'exception des îlots en avant de la grande terre et de quelques pointes dégagées de neige, tout le reste n'est qu'une suite de glaces compactes ; dans cet état, il n'est pas possible de tracer la vraie direction de la terre, mais seulement de ses croûtes de glace. »
+
+Le 1er mars, un sondage n'accuse que cent quatre-vingts brasses de profondeur, le fond est de roches et de gravier. La température est de 1° 9 à la surface et de 0,2 au fond de la mer. Le 2 mars est reconnue, au large de la Terre Louis-Philippe, une île qui reçoit le nom d'île de l'Astrolabe. Le lendemain, une grande baie ou plutôt un canal, auquel on donne le nom de canal d'Orléans, est relevé  entre la Terre Louis-Philippe et une bande haute et rocheuse qui, selon d'Urville, serait le commencement des terres de Trinité, jusqu'alors très incorrectement tracées.
+
+Ainsi donc, depuis le 26 février jusqu'au 5 mars, d'Urville resta en vue de la côte, la longeant à peu de distance, mais n'étant cependant pas maître de ses manœuvres, à cause des brumes et des pluies qui se succédèrent sans arrêter. Tout, du reste, annonçait un dégel bien accentué ; à midi, la température s'élevait jusqu'à cinq degrés au-dessus de zéro ; partout, des glaces coulaient des filets d'eau, des blocs entiers se détachaient et tombaient dans la mer avec un bruit formidable ; enfin un vent d'ouest ne cessait pas de souffler en grande brise.
+
+Ce fut même la raison qui empêcha d'Urville de pousser plus loin son exploration. La mer était très dure, la pluie fréquente et la brume continuelle. Il dut donc s'éloigner de cette côte dangereuse et remonter vers le nord, où, dès le lendemain, il relevait les îles les plus occidentales du Nouveau-Shetland.
+
+D'Urville prit alors la route de la Concepcion. Mais cette traversée fut très pénible, le scorbut ayant attaqué, malgré toutes les précautions prises, les équipages des deux corvettes, et surtout celui de la *Zélée,* avec la dernière violence. Ce fut aussi à ce moment que d'Urville mesura des hauteurs de lames, qui répondaient au reproche d'exagération fabuleuse qui lui avait été fait, lorsqu'il avait attribué cent pieds d'élévation à celles qu'il avait essuyées sur le banc des Aiguilles.
+
+Avec l'aide de ses officiers, afin qu'on ne put mettre en doute les résultats de ses observations, d'Urville mesura des lames, dont la hauteur verticale était de onze mètres et demi, et qui n'avaient pas moins de soixante mètres du sommet au point inférieur, ce qui faisait cent vingt mètres pour la longueur totale d'une seule lame. Ces mesures répondaient aux affirmations ironiques d'Arago, qui, de son cabinet, ne permettait pas à une lame de s'élever à plus de cinq ou six mètres. Il ne faut pas hésiter un seul instant à admettre, contre l'illustre mais passionné physicien, les mesures des navigateurs qui avaient observé sur place.
+
+Le 7 avril 1838, la division jeta l'ancre dans la baie de Talcahuano. Elle devait y trouver un repos, dont les quarante scorbutiques de la *Zélée* avaient le plus grand besoin. De là, d'Urville gagna Valparaiso ; puis, traversant toute l'Océanie, il mouilla, le 1er janvier 1830, à Guaham, s'engagea ensuite dans la Malaisie, arriva en octobre à Batavia, et de là atteignit Hobart-Town, d'où, le 1er janvier 1840, il appareillait pour une nouvelle course à travers les régions antarctiques.
+
+Tout d'abord, la navigation se présenta sous les auspices les plus fâcheux. La houle était très forte, les courants portaient à l'est, l'état sanitaire était loin d'être satisfaisant, et, cependant, on n'était encore que sous le 58e degré de latitude, lorsque tout annonçait le voisinage de la banquise.
+
+Le froid devint bientôt très vif ; les vents se mirent à souffler de l'ouest-nord-ouest, et la mer s'apaisa, indice presque certain du voisinage d'une terre ou de la banquise. On pencha plutôt pour la première de ces hypothèses, car les îles de glace que l'on rencontrait étaient trop grosses pour s'être formées en pleine mer. Le 18 janvier, on atteignit le 64e degré de latitude, et l'on ne tarda pas à rencontrer d'énormes blocs de glace taillés à pic, dont la hauteur variait entre trente et quarante mètres et dont la largeur dépassait mille mètres.
+
+Le lendemain, 19 janvier 1840, fut aperçue une nouvelle terre, qui reçut le nom de Terre Adélie. Le soleil était brûlant, et toutes les glaces semblaient en décomposition ; de nombreux ruisseaux se formaient à leurs sommets et descendaient en cascades jusqu'à la mer. L'aspect de la terre était uniforme ; couverte de neige, elle courait de l'est à l'ouest et semblait s'abaisser en pente douce jusqu'à la mer. Le 21, le vent permit aux deux navires de s'en approcher. On ne tarda pas à découvrir de profondes ravines, creusées par les eaux provenant de la fonte des neiges.
+
+A mesure qu'on s'avançait, la navigation devenait plus périlleuse. Les îles de glace étaient en si grand nombre, qu'à peine restait-il entre elles un canal assez large pour permettre aux corvettes de manœuvrer.
+
+« Leurs murailles droites dépassaient de beaucoup nos mâtures, dit d'Urville ; elles surplombaient nos navires, dont les dimensions paraissaient ridiculement rétrécies, comparativement à ces masses énormes. Le spectacle qui s'offrait à nos regards était tout à la fois grandiose et effrayant. On aurait pu se croire dans les rues étroites d'une ville de géants. »
+
+Bientôt les corvettes entrèrent dans un vaste bassin formé par la côte et les îles de glace qu'elles venaient de doubler. La terre s'étendait à perte de vue au sud-est et au nord-ouest. Elle pouvait avoir de mille à douze cents mètres de haut, mais ne présentait nulle part de sommet saillant. Enfin, au milieu de cette immense plaine de neige, parurent quelques rochers. Les deux capitaines expédièrent aussitôt des embarcations, avec mission de recueillir des preuves  palpables de leur découverte. Voici ce que dit l'un des officiers, Du Bouzet, chargé de cette importante reconnaissance :
+
+« Il était près de neuf heures, lorsque, à notre grande joie, nous prîmes terre sur la partie ouest de l'îlot le plus occidental et le plus élevé. Le canot de l'*Astrolabe* était arrivé avant nous ; déjà les hommes qui le montaient étaient grimpés sur les flancs escarpés de ce rocher. Ils précipitaient en bas les pingouins, fort étonnés de se voir dépossédés si brutalement de l'île dont ils étaient les seuls habitants... J'envoyai aussitôt un de nos matelots déployer un drapeau tricolore sur ces terres, qu'aucune créature humaine n'avait ni vues ni foulées avant nous. Suivant l'ancienne coutume, que les Anglais ont conservée précieusement, nous en prîmes possession au nom de la France, ainsi que de la côte voisine, que la glace nous empêchait d'aborder... Le règne animal n'y était représenté que par les pingouins. Malgré toutes nos recherches, nous n'y trouvâmes pas une seule coquille. La roche était entièrement nue et n'offrait pas même la moindre trace de lichens. Il fallut nous rabattre sur le règne minéral. Chacun de nous prit le marteau et se mit à tailler dans la roche. Mais celle-ci, d'une nature granitique, était tellement dure, que nous ne pûmes en détacher que de très faibles morceaux. Heureusement, en parcourant le sommet de l'île, les matelots découvrirent de larges fragments de rocher détachés par les gelées, et ils les embarquèrent dans les canots. En les examinant de près, je reconnus une ressemblance parfaite entre ces roches et de petits fragments de gneiss que nous avions trouvés dans l'estomac d'un pingouin, tué la veille. Le petit îlot sur lequel nous prîmes terre fait partie d'un groupe de huit ou dix petites îles, arrondies au sommet et présentant toutes à peu près les mêmes formes. Ces îles sont séparées de la côte la plus proche par un espace de 500 ou 600 mètres. Nous apercevions encore sur le rivage plusieurs sommets entièrement découverts et un cap dont la base était aussi dépouillée de neige... Tous ces îlots, très rapprochés les uns des autres, semblaient former une chaîne continue, parallèle à la côte et qui s'étendait de l'est à l'ouest. »
+
+Le 22 et le 23, fut continuée la reconnaissance de ce littoral ; mais, ce jour-là, une banquise, soudée à la côte, vint forcer les bâtiments à retourner vers le nord ; en même temps, une rafale de neige, aussi subite que terrible, assaillit les bâtiments et les mit en perdition. La *Zélée* subit de fortes avaries dans sa voilure ; mais, le lendemain, elle se retrouvait auprès de sa conserve.
+
+Pendant ce temps, la terre n'avait pour ainsi dire pas été perdue de vue. Toutefois, le 29, devant la persistance singulière des vents d'est, d'Urville  dut abandonner la reconnaissance de la Terre Adélie. C'est ce jour-là que fut aperçu l'un des bâtiments du lieutenant Wilkes. D'Urville se plaint des intentions malveillantes que ce dernier lui prête dans son rapport, et assure que sa manœuvre, qui avait pour but de communiquer, fut mal interprétée par les Américains.
+
+« Nous ne sommes plus, dit-il, au temps où les navigateurs, poussés par l'intérêt du commerce, se croyaient obligés de cacher soigneusement leur route et leurs découvertes, pour éviter la concurrence des nations rivales. J'eusse été heureux, au contraire, d'indiquer à nos émules le résultat de nos recherches, dans l'espérance que cette communication aurait pu leur être utile et élargir le cercle de nos connaissances géographiques. »
+
+Le 30 janvier, on aperçut une muraille de glaces énormes, au sujet de laquelle les avis furent partagés. Les uns y voyaient une masse de glace compacte et indépendante de toute terre ; les autres, --- et c'était l'avis de d'Urville, --- pensaient que ces hautes montagnes avaient une base solide, soit de terre, soit de rochers, soit même de hauts fonds épars autour d'une grande terre. On lui donna le nom de côte Clarie, par 128° de longitude.
+
+Les officiers, dans ces parages, avaient recueilli des documents suffisants pour déterminer la position du pôle magnétique austral ; mais leurs résultats ne devaient pas concorder avec les travaux de Duperrey, de Wilkes et de James Ross.
+
+Le 17 février, les deux corvettes jetaient encore une fois l'ancre devant Hobart-Town.
+
+Dès le 25, elles reprenaient la mer, se portaient vers la Nouvelle-Zélande, où elles complétaient les travaux hydrographiques de l'*Uranie,* puis gagnaient la Nouvelle-Guinée, dont elles constataient que la Louisiade n'était séparée par aucun détroit, exploraient avec le plus grand soin, au milieu des courants et des récifs de corail, et au prix d'avaries assez graves, le détroit de Torrès, arrivaient le 20 à Timor, et rentraient à Toulon, le 6 novembre, après avoir relâché à Bourbon et à Sainte-Hélène.
+
+A l'annonce de l'expédition de découvertes organisée sur un si grand pied par le gouvernement des États-Unis, l'Angleterre s'était émue, et, sous la pression des sociétés savantes, avait décidé l'envoi d'une expédition dans les régions où, depuis Cook, les capitaines Weddell et Biscoë s'étaient seuls aventurés.
+
+Le capitaine James Clarke Ross, qui en reçut le commandement, était le neveu du fameux John Ross, l'explorateur de la baie de Baffin. Né en 1800, James Ross naviguait depuis l'âge de douze ans. Il avait accompagné son oncle, en 1818, dans sa première exploration des terres arctiques ; de 1819 à 1827, il avait pris part, sous les ordres de Parry, à quatre expéditions dans les mêmes parages, et, de 1829 à 1833, il y avait été le fidèle compagnon de son oncle. Chargé des observations scientifiques, il avait découvert le pôle magnétique nord ; enfin il avait fait de longues courses à pied et en traîneau sur les glaces. C'était donc un des officiers de la marine britannique les plus habitués aux navigations polaires.
+
+Deux bâtiments lui furent confiés, *l'Erebus* et *la Terror*, et son second fut un marin accompli, le capitaine Francis Rowdon Crozier, compagnon de Parry en 1824, de James Ross en 1835, à la baie de Baffin, le même qui devait, sur la *Terror*, accompagner Franklin à la recherche du passage du nord-ouest. On ne pouvait faire choix d'un cœur plus vaillant, d'un marin plus expérimenté.
+
+Les instructions, qui furent remises à James Ross par l'Amirauté, différaient essentiellement de celles qui avaient été données à Wilkes et à Dumont d'Urville. Pour ceux-ci, l'exploration des régions arctiques n'était qu'un incident de leur campagne autour du monde ; elle faisait, au contraire, le fond même du voyage de James Ross. Des trois années, pendant lesquelles il serait éloigné de l'Europe, il devait en passer la majeure partie dans les régions antarctiques, et ne quitter les glaces que pour réparer ses avaries et refaire ses équipages fatigués ou malades.
+
+Aussi, les bâtiments avaient-ils été choisis en conséquence ; plus forts que les navires de d'Urville, ils étaient mieux en état de résister aux assauts répétés des glaces, et leur équipage aguerri avait été recruté parmi les marins familiarisés avec les navigations polaires.
+
+L'*Erebus* et la *Terror,* sous le commandement de Ross et de Crozier, quittèrent l'Angleterre le 29 septembre 1839, et touchèrent successivement à Madère, aux îles du cap Vert, à Sainte-Hélène, au cap de Bonne-Espérance, où furent faites de nombreuses observations magnétiques.
+
+Le 12 avril, Ross atteignait l'île de Kerguelen et y débarquait aussitôt ses instruments. La moisson scientifique fut abondante, des arbres fossiles furent extraits de la lave dont cette île est formée, et l'on y rencontra de riches gisements de charbon qui attendent encore l'exploitation. Le 29 était un jour fixé pour des observations simultanées sur divers points du globe. Par une fortune singulière, se produisit ce jour-là une de ces tempêtes magnétiques, qui avaient déjà été remarquées en Europe. Les instruments enregistrèrent à Kerguelen les mêmes phénomènes qu'à Toronto, au Canada, --- preuve de l'immense étendue de ces météores et de l'incroyable rapidité avec laquelle ils se propagent.
+
+A son arrivée à Hobart-Town, où il rencontra dans le gouverneur son vieil ami John Franklin, Ross apprit la découverte de la Terre Adélie et de la côte Clarie par les Français, et la reconnaissance simultanée des mêmes terres par l'expédition américaine de Wilkes. Ce dernier lui avait même laissé un croquis de ses relevés de côtes.
+
+Mais Ross se décida à aborder les régions antarctiques par le 170e degré est, parce que, dans cette direction, Balleny avait trouvé, en 1839, la mer libre de glaces jusqu'au 69e degré de latitude. Il gagna donc les îles Auckland, puis les Campbell, et, après avoir, comme ses prédécesseurs, tiré d'innombrables bordées au milieu d'une mer semée d'îles de glaces, il atteignit, au-delà du 63e degré, l'extrémité de la banquise et franchit le Cercle polaire le 1er janvier 1841.
+
+Quant aux glaces errantes, elles ne ressemblaient en aucune façon à celles du pôle nord, ainsi que put facilement s'en convaincre James Ross. Ce sont des blocs immenses à parois verticales et régulières. Quant aux « ice-fields », moins unis que dans le nord, ils affectent une allure chaotique, et ces débris, vingt fois ressoudés et rompus, prennent, suivant une expression imagée de Wilkes, l'apparence d'une terre labourée.
+
+La banquise ne sembla pas à James Ross « aussi formidable que l'ont représentée les Français et les Américains. » Toutefois, il ne put tout d'abord s'y risquer et fut forcé par l'ouragan de se tenir au large. Ce ne fut que le 5 qu'il put l'assaillir  de nouveau par 66° 45' de latitude sud et 174° 16' de longitude ouest. Cette fois, les circonstances étaient on ne peut plus favorables, puisque le vent et la mer, portant sur elle, contribuaient à la disloquer. Grâce à la puissance de ses bâtiments, Ross put s'y frayer un passage. D'ailleurs, à mesure qu'il s'enfonçait dans le sud, le brouillard devenait plus épais, et des chutes répétées de neige contribuaient à rendre cette route extrêmement dangereuse. Toutefois, ce qui déterminait l'explorateur à continuer ses efforts, c'est qu'il apercevait dans le ciel le reflet d'une mer libre, apparence peu trompeuse, car, le 9, après avoir fait plus de deux cents milles à travers la banquise, il entrait définitivement dans une mer dégagée.
+
+Le 11 janvier, la terre fut signalée à cent milles en avant par 70° 47' de latitude sud et 172° 36 de longitude ouest. Jamais terre aussi méridionale n'avait été aperçue. C'étaient des pics hauts de neuf mille à douze mille pieds, --- si ces hauteurs ne sont pas exagérées, comme tendraient à le faire croire les remarques de d'Urville à la Terre de Graham, --- pics entièrement couverts de neige, et dont les glaciers trempent leur pied au loin dans la mer. Par-ci, par-là, de noirs rochers perçaient la neige, mais la côte était si hérissée de glaces, qu'il fut impossible de débarquer. Cette singulière rangée de pics monstrueux reçut le nom de chaîne de l'Amirauté, et la terre elle-même, celui de Victoria.
+
+Dans le sud-est se montraient quelques petites îles ; les bâtiments se dirigèrent de ce côté, et, le 12 janvier, les deux capitaines, avec quelques-uns de leurs officiers, débarquèrent sur un de ces îlots volcaniques et en prirent possession au nom de l'Angleterre. On n'y trouva pas la moindre trace de végétation.
+
+Ross ne tarda pas à reconnaître que la côte orientale de la grande terre s'inclinait vers le sud, tandis que celle du nord se dessinait vers le nord-ouest. Il prolongea donc le littoral est, en s'efforçant de pénétrer par le sud jusqu'au-delà du pôle magnétique qu'il fixait vers le 76e degré, pour revenir ensuite par l'ouest et achever la circumnavigation de cette terre qu'il considérait comme une grande île. La chaîne des montagnes se continuait au long de la côte. Ross imposa aux sommets les plus remarquables les noms de Herschell, Wehwell, Wheatstone. Murchison et Melbourne ; mais, les glaces attachées au rivage s'élargissant de plus en plus, il perdit de vue les détails de la côte. Le 23 janvier, était dépassé le 74e degré, latitude la plus australe qu'on eût jamais atteinte.
+
+Quelque temps, les navires y furent arrêtés par des brouillards, des coups de vent du sud et de violentes rafales de neige, ils continuèrent cependant à longer la côte. Le 27 janvier, les marins anglais débarquèrent sur une petite île  volcanique, à laquelle ils donnèrent le nom de Franklin, située par 76° 8' de latitude sud et 168° 12 de longitude est.
+
+Le lendemain, fut aperçue une gigantesque montagne, qui s'élevait en pente régulière jusqu'à douze mille pieds de hauteur au-dessus d'une terre très étendue. La cime régulière, entièrement couverte de neige, était, d'heure en heure, enveloppée d'une épaisse fumée, dont la largeur n'avait pas moins de trois cents pieds de diamètre et qui en mesurait, sous la forme d'un cône renversé, le double à sa plus grande hauteur. Lorsqu'elle se dissipait, on distinguait un cratère dénudé, éclairé de feux d'un rouge vif, dont l'éclat s'apercevait même en plein midi. La neige montait jusqu'au cratère, et il fut impossible de distinguer la moindre coulée de lave.
+
+Si la vue d'un volcan est toujours un spectacle grandiose, l'aspect de ce géant qui dépasse l'Etna et le pic de Ténériffe, son activité prodigieuse, sa situation au milieu des glaces du pôle étaient bien faits pour vivement frapper l'esprit des explorateurs.
+
+Il reçut le nom d'Erebus, et l'on attribua celui de l'autre navire, Terror, à un autre cratère éteint, situé à l'est du premier, noms bien choisis et qui font vraiment image.
+
+Les deux bâtiments continuèrent à prolonger la terre dans le sud, jusqu'à ce qu'une banquise, dont les sommets dépassaient de cent cinquante pieds les mâts des bâtiments, vint leur barrer le chemin. Derrière, on continuait d'apercevoir une chaîne de montagnes, les monts Parry, qui s'enfonçaient à perte de vue dans le sud-sud-est. Ross longea cette barrière dans l'est jusqu'au 2 février, qu'il atteignit par 78°4', latitude la plus australe de cette campagne, il avait suivi, pendant plus de trois cents milles, la terre qu'il avait découverte, lorsqu'il la quitta par 191° 23' de longitude est.
+
+Suivant toute vraisemblance, les deux navires ne seraient pas sortis de la formidable banquise, à travers laquelle, au prix de fatigues inouïes et de périls sans cesse renaissants, ils réussirent enfin à se frayer un passage, sans les fortes brises qui leur vinrent en aide.
+
+Le 15 février, une nouvelle tentative fut faite par 76° de latitude sud, pour essayer d'atteindre le pôle magnétique. Mais la terre arrêta les navires par 76° 12' et 164° de longitude est, à soixante-cinq lieues communes de l'endroit où Ross plaçait ce pôle, que l'état menaçant de la mer, l'aspect désolé de la contrée lui interdisaient de gagner par terre.
+
+Après être allé reconnaître les îles découvertes en 1839 par Balleny, Ross se trouvait, le 6 mars, au centre des montagnes indiquées par le lieutenant Wilkes.
+
+« Mais, dit la relation, loin d'y trouver des montagnes, on n'y trouva pas de fond par six cents brasses. Après avoir couru dans toutes les directions et dans un cercle d'environ quatre-vingts milles de diamètre autour de ce centre imaginaire par des temps très purs qui permettaient de tout apercevoir à de grandes distances, les Anglais durent reconnaître qu'au moins *cette position d'un prétendu continent antarctique, avec les quelque deux cents milles de côtes indiquées à la suite*, *n'a pas d'existence réelle.* Le lieutenant Wilkes aura sans doute été induit en erreur par des nuages, par des énormes bancs de brouillards qui, dans ces régions, trompent aisément les yeux inexpérimentés. »
+
+L'expédition regagna la Tasmanie sans avoir un seul malade à bord, sans avoir éprouvé la moindre avarie. Elle s'y refit, y régla ses instruments et repartit pour une seconde campagne. Sydney et la baie des Iles à la Nouvelle-Zélande, l'île Chatam, furent les premières stations où Ross s'arrêta pour faire des observations magnétiques.
+
+Le 18 décembre, par 62° 40' de latitude sud et 146° de longitude est fut rencontrée la banquise. C'était trois cents milles plus au nord que l'année précédente. Les navires arrivaient trop tôt. Ross n'en essaya pas moins de rompre cette redoutable ceinture. Il y pénétra de trois cents milles, mais se vit arrêté par des masses tellement compactes, qu'il lui fut impossible d'aller plus loin. Ce ne fut que le 1er janvier 1842 qu'il franchit le Cercle polaire. Le 19 du même mois, les deux navires furent assaillis par un orage d'une violence inouïe, au moment où ils touchaient à la mer libre ; l'*Erebus* et la *Terror* perdirent leur gouvernail, furent abordés par des écueils flottants, et, pendant vingt-six heures, se virent sur le point d'être engloutis.
+
+L'emprisonnement de l'expédition dans la banquise ne dura pas moins de quarante-six jours. Enfin, le 22, Ross atteignit la grande barrière des glaces fixes, qui s'était sensiblement abaissée depuis le mont Erebus, où elle n'avait pas moins de deux cents pieds. A l'endroit où Ross la retrouvait cette année, elle n'en avait plus que cent sept. On reconnut cette barrière cent cinquante milles plus à l'est qu'on ne l'avait fait l'année précédente. Ce fut le seul résultat géographique de cette pénible campagne de cent trente-six jours, bien plus dramatique que la première.
+
+Les bâtiments gagnèrent alors le cap Horn et remontèrent jusqu'à Rio-de-Janeiro, où ils trouvèrent tout ce qui pouvait leur être utile.
+
+Aussitôt qu'ils eurent reçu leur complément de vivres, ils reprirent la mer, et atteignirent les Malouines, d'où ils partirent, le 17 décembre 1842, pour leur troisième campagne.
+
+Les premières glaces furent rencontrées dans les parages de l'île Clarence, et, le 25 décembre, Ross se trouvait arrêté par la banquise. Il gagna alors les Nouvelles-Shetland, compléta l'étude des Terres Louis-Philippe et Joinville, découvertes par Dumont d'Urville, nomma les monts Haddington et Penny, reconnut que la Terre Louis-Philippe n'est qu'une grande île et visita le détroit de Bransfield qui la sépare des Shetland.
+
+Tels furent les merveilleux résultats obtenus par James Ross dans ses trois campagnes.
+
+Maintenant, pour juger la part qui revient à chacun de ces trois explorateurs des régions antarctiques ; on peut dire que d'Urville a le premier reconnu le continent antarctique, que Wilkes en a suivi les côtes sur le plus long espace, --- car on ne peut méconnaître la ressemblance qu'offre son tracé avec celui du navigateur français ; --- enfin que James Ross en a visité la partie la plus méridionale et la plus intéressante.
+
+Mais ce continent existe-t-il en réalité ? D'Urville n'en est pas persuadé, et Ross n'y croit pas. Il faut donc laisser la parole aux explorateurs, qui vont se diriger prochainement sur les traces des vaillants marins dont nous venons de raconter les voyages et les découvertes.
+
+]
+
+ESSAIS et OUVRAGES HISTORIQUES
+
+LES VOYAGEURS DU XIXe SIÈCLE
+
+Deuxième partie -- Chapitre III
+
+]
+
+### II -- Le Pôle nord.
+Anjou et Wrangell. -- La « polynia ». -- Première expédition de John Ross. -- La baie de Baffin est fermée ! -- Les découvertes d'Edward Parry dans son premier voyage. -- La reconnaissance de la baie d'Hudson et la découverte du détroit de la Fury et de l'Hecla. -- Troisième voyage de Parry. -- Quatrième voyage. En traîneau sur la glace, en pleine mer. -- Première course de Franklin. -- Incroyables souffrances des explorateurs. -- Seconde expédition. -- John Ross. -- Quatre hivers dans les glaces. -- Expédition de Dease et Simpson.
+
+Il a été parlé à différentes reprises du grand mouvement géographique inauguré par Pierre Ier. L'un des résultats les plus rapidement atteints fut la découverte par Behring du détroit qui sépare l'Asie de l'Amérique. Le plus important qui suivit, à une trentaine d'années de distance, fut la reconnaissance, dans la mer polaire, de l'archipel Liakow ou de la Nouvelle-Sibérie.
+
+En 1770, un marchand du nom de Liakow avait vu arriver du nord sur la glace un grand troupeau de rennes. Il se dit que ces animaux ne pouvaient venir que d'un pays où se trouvaient des pâturages assez abondants pour les nourrir.
+
+Un mois plus tard, il partait en traîneau, et, après un voyage de cinquante milles, il découvrit, entre les embouchures de la Léna et de l'Indighirka, trois grandes îles, dont les immenses gîtes d'ivoire fossile sont devenus célèbres dans le monde entier.
+
+En 1809, Hedenstrœm avait été chargé d'en lever la carte. A plusieurs reprises, il avait tenté des courses en traîneau sur la mer gelée, et s'était vu, chaque fois, arrêté par des glaces en fusion qui ne pouvaient le porter. Il en avait conclu à l'existence d'une mer libre, au large, et il appuyait cette opinion sur l'immense volume d'eau chaude à dix degrés que versent dans la mer polaire les grands fleuves de l'Asie.
+
+En mars 1821, le lieutenant (plus tard amiral) Anjou s'avança sur la glace jusqu'à quarante-deux milles au nord de l'île Kotelnoï, et vit par 76° 38' une vapeur qui l'amena à croire à l'existence d'une mer libre. Dans une autre expédition, cette mer, il l'aperçut avec ses glaces à la dérive et revint avec cette conviction qu'il était impossible de s'avancer au large à cause du peu d'épaisseur de la glace et de l'existence de cette mer libre.
+
+Tandis qu'Anjou se livrait à ces explorations, un autre officier de marine, le lieutenant Wrangell, recueillait des légendes et des renseignements précieux sur l'existence d'une terre située par le travers du cap Yakan.
+
+Du chef d'une peuplade tchouktchie, il aurait appris que, près de la côte et de certains récifs placés à l'embouchure d'une rivière, on peut, par un beau temps d'été, découvrir, à une très grande distance dans le nord, des montagnes couvertes de neige ; mais en hiver, il est impossible d'en rien voir. Autrefois, des troupeaux de rennes venaient de cette terre, quand la mer était prise. Ce chef lui-même, une fois, avait vu un troupeau de rennes retournant au nord par cette voie, et il l'avait suivi dans un traîneau pendant toute une journée, jusqu'à ce que l'état de la glace le forçât à abandonner son entreprise.
+
+Son père lui avait aussi raconté qu'un Tchouktchi y était allé une fois avec quelques compagnons dans une barque de peau ; mais il ne savait ni ce qu'ils y avaient trouvé ni ce qu'ils étaient devenus. Il soutenait que ce pays devait être habité, et il racontait à ce sujet qu'une baleine morte était venue s'échouer à l'île d'Aratane, percée de lances à pointe d'ardoise, arme dont les Tchouktchis ne se servent jamais.
+
+Ces informations étaient fort curieuses, elles augmentaient le désir de Wrangell de pénétrer jusqu'à ces pays inconnus ; mais elles ne devaient être vérifiées que de nos jours.
+
+De 1820 à 1824, Wrangell, établi à l'embouchure de la Kolyma, fit quatre voyages en traîneau sur les glaces. Tout d'abord il explora la côte depuis l'embouchure de la Kolyma jusqu'au cap Tchélagskoï, et il dut endurer, pendant cette course, jusqu'à trente-cinq degrés de froid.
+
+La seconde année, il voulut voir quel point il pourrait atteindre sur la glace, et parvint à cent quarante milles de terre.
+
+« Il me fallut, dit Wrangell, faire d'abord sept verstes à travers une couche saline ; plus loin, apparut une surface sillonnée de larges crevasses, que nous ne parvînmes à franchir qu'à l'aide de nos planches. Je remarquai en cet endroit de petites buttes d'une glace tellement déliquescente, que le moindre contact suffisait pour la briser et transformer la butte en une ouverture circulaire. La glace sur laquelle nous voyagions était sans consistance, n'avait qu'un pied d'épaisseur et, qui plus est, était criblée de trous. Je ne puis comparer l'aspect de la mer, en cet instant, qu'à un immense marais ; et, en effet, l'eau fangeuse qui s'élevait de ces milliers de crevasses s'entrecoupant dans tous les sens, la neige déliquescente mêlée de terre et de sable, ces buttes d'où s'échappaient de nombreux ruisseaux, tout concourait à rendre l'illusion complète. »
+
+Wrangell s'était éloigné de la côte de deux cent vingt-huit kilomètres, et c'est la mer libre de Sibérie, dont il avait touché les bords, immense « polynia », --- nom qu'il donne à de vastes étendues d'eau libre, --- déjà signalée par Leontjew en 1764 et par Hedenstroem en 1810.
+
+Au quatrième voyage, Wrangell partit du cap Yakan, le point le plus rapproché des terres septentrionales. Sa petite troupe, après avoir dépassé le cap Tchelagskoï, fit route au nord ; mais un violent orage brisa la glace, qui n'avait que trois pieds d'épaisseur, et fit courir aux explorateurs le plus grand danger. Tantôt traînés sur quelque grande plaque non encore rompue, tantôt à demi submergés sur un plancher mobile qui oscillait ou disparaissait complètement, ou bien amarrés sur quelque bloc qui leur servait de bac, tandis que les chiens tiraient et nageaient, ils parvinrent enfin à regagner la terre au travers des glaçons que la mer entrechoquait à grand bruit. Ils ne durent leur salut qu'à la rapidité et à la vigueur de leurs attelages.
+
+Ainsi se terminèrent les tentatives faites pour atteindre les terres au nord de la Sibérie.
+
+La calotte polaire était attaquée en même temps d'un autre côté avec autant d'énergie, mais avec plus de continuité.
+
+On se rappelle avec quel enthousiasme et quelle persévérance avait été cherché le fameux passage du nord-ouest. Les traités de 1815 n'eurent pas plus tôt nécessité le désarmement de nombreux vaisseaux anglais et la mise, à demi-solde de leurs officiers, que l'Amirauté, ne voulant pas briser la carrière de tant d'estimables marins, s'ingénia pour leur procurer de l'emploi. C'est dans ces circonstances que fut reprise la recherche du passage du nord-ouest.
+
+L*'Alexandre,* de deux cent cinquante-deux tonneaux, et l'*Isabelle,* de trois cent quatre-vingt-cinq, sous le commandement de John Ross, officier d'expérience, et du lieutenant William Parry, furent expédiés par le gouvernement pour explorer la baie de Baffin. Plusieurs officiers, James Ross, Back, Belcher, qui devaient s'illustrer dans les expéditions polaires, faisaient partie des équipages. Ces bâtiments mirent à la voile le 18 avril, relâchèrent aux îles Shetland, cherchèrent vainement la terre submergée de Bass, qu'on plaçait par 57° 28 nord, et, dès le 26 mai, eurent connaissance des premières glaces. Le 2 juin, on releva la côte du Groenland. Sur la partie occidentale très mal indiquée par les cartes, furent trouvées de grandes quantités de glaces, et le gouverneur de l'établissement danois de Whale-island assura aux Anglais que la rigueur des hivers augmentait sensiblement, depuis onze ans qu'il habitait le pays.
+
+Jusqu'alors on avait cru qu'au-delà du 75e degré le pays était inhabité. Aussi les voyageurs furent-ils étonnés de voir arriver par la glace toute une tribu d'Esquimaux. Ces sauvages ignoraient l'existence d'un autre peuple que le leur. Ils regardaient les Anglais sans oser les toucher, et l'un d'eux, s'adressant aux bâtiments d'une voix grave et solennelle, leur disait :
+
+« Qui êtes-vous ? D'où venez-vous ? Du soleil ou de la lune ? «
+
+Bien que cette tribu fût à certains égards fort au-dessous des Esquimaux que la longue fréquentation des Européens a commencé à civiliser, elle connaissait cependant l'usage du fer, dont quelques-uns de ses membres étaient parvenus à se faire des couteaux. Il provenait, d'après ce que l'on crut comprendre, d'une masse ou montagne d'où ils le tiraient. C'était vraisemblablement du fer météorique.
+
+Pendant tout ce voyage, --- et dès qu'on en connut les résultats en Angleterre, l'opinion publique ne s'y trompa pas, --- Ross, à côté de qualités nautiques de premier ordre, fit preuve d'une indifférence et d'une légèreté singulières. Il semblait peu se soucier de trouver la solution des problèmes géographiques, qui avaient décidé l'armement de l'expédition.
+
+Sans les examiner, il passa devant les baies Wolstenholme et des Baleines, ainsi que devant le détroit de Smith, qui s'ouvre au fond de la baie de Baffin, et à une si grande distance qu'il ne le reconnut pas.
+
+Bien plus, lorsqu'il commença à descendre la côte occidentale de la baie de Baffin, un magnifique bras de mer profondément encaissé, dont la largeur n'était pas inférieure à cinquante milles, s'offrit aux regards anxieux des explorateurs. Les deux bâtiments y pénétrèrent le 29 août, mais ils ne s'étaient pas enfoncés de trente milles, que Ross donna l'ordre de virer de bord, sous le prétexte qu'il avait distinctement vu une chaîne de hautes montagnes, auxquelles il donna le nom de monts Croker, en barrer l'extrémité. Cette opinion ne fut pas partagée par ses officiers, qui n'avaient pas aperçu la moindre colline, par cette excellente raison que le bras dans lequel on venait d'entrer n'était autre que le détroit de Lancastre, ainsi nommé par Baffin, et qui communique avec la mer dans la direction de l'ouest.
+
+Il en fut à peu près de même de toutes les indentations de cette côte si profondément découpée, et, le plus souvent, on s'en tenait à une telle distance qu'il était impossible d'apercevoir le moindre détail. C'est ainsi que, étant arrivée, le 1er octobre, devant l'entrée de Cumberland, l'expédition ne chercha pas à reconnaître ce point si important, et Ross rentra en Angleterre, tournant le dos à la gloire qui l'attendait.
+
+Accusé de légèreté et de négligence, Ross répondait avec un aplomb superbe : « J'ose me flatter d'avoir, dans tout ce qui est important, rempli l'objet de mon voyage, puisque j'ai prouvé l'existence d'une baie qui s'étend depuis Discö jusqu'au détroit de Cumberland, et terminé pour jamais la question relative à un passage au nord-ouest, dans cette direction. »
+
+II était difficile de se tromper plus complètement.
+
+Cependant l'insuccès de cette tentative fut loin de décourager les chercheurs. Les uns y trouvèrent la confirmation éclatante des découvertes du vieux Baffin, les autres voulurent voir dans ces innombrables entrées, où la mer était si profonde et le courant si fort, autre chose que des baies. Pour eux, c'étaient des détroits, et tout espoir de découvrir le passage n'était pas perdu.
+
+L'Amirauté, frappée de ces raisons, arma aussitôt deux petits bâtiments, la bombarde *l'Hécla* et le brigantin *le Griper.* Le 5 mai 1819, ils sortirent de la Tamise sous le commandement du lieutenant William Parry, qui ne s'était pas trouvé du même avis que son chef touchant l'existence du passage du nord-ouest. Les bâtiments, sans incident de navigation extraordinaire, pénétrèrent jusqu'au détroit de sir James Lancastre ; puis, après avoir été emprisonnés, pendant sept jours, au milieu de glaces accumulées sur une étendue de quatre-vingts milles, ils entrèrent dans cette baie qui devait être, suivant John Ross, fermée par une chaîne de montagnes.
+
+Non seulement ces montagnes n'existaient que dans l'imagination d'un navigateur, mais tous les indices qu'on remarquait annonçaient, à ne pas s'y tromper, que c'était un détroit. Par trois cent dix brasses on n'avait pas trouvé le fond ; on commençait à sentir le mouvement de la houle ; la température de l'eau  s'était élevée de six degrés, et pendant un seul jour on ne rencontra pas moins de quatre-vingts baleines, toutes de grande taille.
+
+Descendus à terre, le 31 juillet, dans la baie Possession qu'ils avaient visitée l'année précédente, les explorateurs y trouvèrent encore imprimée la trace de leurs pas, ce qui indiquait la petite quantité de neige et de givre tombée pendant l'hiver.
+
+Au moment où, toutes voiles dehors et à l'aide d'un vent favorable, les deux bâtiments pénétraient dans le détroit de Lancastre, tous les cœurs battirent plus vite.
+
+« Il est plus aisé, dit Parry, d'imaginer que de décrire l'anxiété peinte en ce moment sur toutes les physionomies, tandis que nous avancions dans le détroit avec une rapidité toujours croissante, grâce à la brise toujours plus forte ; les huniers furent couverts d'officiers et de matelots durant toute l'après-dîner, et un observateur désintéressé, s'il en pouvait être dans une scène pareille, se serait amusé de l'ardeur avec laquelle on recevait les nouvelles transmises par les vigies ; jusqu'alors elles étaient toutes favorables à nos plus ambitieuses espérances. »
+
+En effet, les deux rives se continuaient parallèlement, aussi loin que l'œil les pouvait suivre à plus de cinquante milles. La hauteur des lames, l'absence de glace, tout allait persuader aux Anglais qu'ils avaient atteint la mer libre et le passage tant cherché, lorsqu'une île, contre laquelle s'était amoncelée une masse énorme de glaces, vint leur barrer le passage.
+
+Cependant un bras de mer, large d'une dizaine de lieues, s'ouvrait dans le sud. On espérait y trouver une voie de communication moins encombrée de glaces. Chose singulière, tant qu'on s'était avancé dans l'ouest par le détroit de Lancastre, les mouvements de la boussole s'étaient accrus ; maintenant qu'on descendait vers le sud, l'instrument semblait avoir perdu toute action, et l'on vit, « par un curieux phénomène, la puissance dirigeante de l'aiguille aimantée s'affaiblir au point de ne pouvoir résister à l'attraction de chaque vaisseau, en sorte qu'elle marquait à vrai dire le pôle nord de l'*Hécla* ou du *Griper.* »
+
+Le bras de mer s'élargissait à mesure que les bâtiments s'avançaient dans l'ouest, et la rive s'infléchissait sensiblement vers le sud-ouest ; mais, après y avoir fait cent vingt milles, ils se trouvèrent arrêtés par une barrière qui les empêcha d'aller plus loin dans cette direction. Ils regagnèrent donc le détroit de Barrow, dont celui de Lancastre ne forme que le seuil, et ils retrouvèrent, libre de glaces, cette mer qu'ils en avaient vue encombrée quelques jours auparavant.
+
+Par 92° 1/4 de latitude, fut reconnue une entrée, le canal Wellington, large d'environ huit lieues ; entièrement débarrassée de glaces, elle ne paraissait fermée par aucune terre. Tous ces détroits persuadèrent aux explorateurs qu'ils naviguaient au milieu d'un immense archipel, et leur confiance en reçut de nouveaux accroissements.
+
+Cependant, la navigation devenait difficile dans les brumes ; le nombre des petites îles et des bas-fonds augmentait, les glaces s'accumulaient, mais rien ne pouvait toutefois décourager Parry dans sa marche vers l'ouest. Sur une grande île, à laquelle fut donné le nom de Bathurst, les matelots trouvèrent les débris de quelques habitations d'Esquimaux, ainsi que des traces de rennes. Des observations magnétiques furent faites en cet endroit, qui amenèrent à conclure qu'on avait passé au nord du pôle magnétique.
+
+Une autre grande île, Melville, fut bientôt en vue, et, malgré les obstacles que les glaces et la brume apportaient aux progrès de l'expédition, les navires parvinrent à dépasser le 110e degré ouest, gagnant ainsi la récompense de cent mille livres sterling, promise par le Parlement.
+
+Un promontoire, situé à peu près à cet endroit, reçut le nom de cap de la Munificence ; une bonne rade, dans le voisinage, fut appelée baie de l'Hécla et du Griper. Au fond de cette baie, dans le Winter-Harbour, les deux navires passèrent l'hiver. Dégréés, entourés d'épaisses bannes ouatées, ils étaient enfermés dans une enveloppe de neige, tandis que des poêles et des calorifères étaient disposés à l'intérieur. La chasse ne donna pas d'autre résultat que de causer la congélation de quelques membres des chasseurs, car tous les animaux, sauf les loups et les renards, désertèrent l'île Melville à la fin d'octobre.
+
+Comment passer cette longue nuit d'hiver sans trop d'ennuis ?
+
+C'est alors que les officiers eurent la pensée de monter un théâtre sur lequel la première représentation fut donnée le 6 novembre, le jour même où le soleil disparaissait pour trois mois. Puis, après avoir composé une pièce à l'occasion de Noël, où il était fait allusion à la situation des bâtiments, ils fondèrent une gazette hebdomadaire qu'ils appelèrent *Gazette de la Géorgie du Nord,* chronique d'hiver, *The North Georgia gazette and winter chronicle.* Ce journal, dont Sabine était l'éditeur, eut vingt et un numéros et reçut au retour les honneurs de l'impression.
+
+Au mois de janvier, le scorbut fit son apparition, et la violence de la maladie causa d'abord d'assez vives alarmes ; mais l'usage bien entendu des antiscorbutiques et la distribution quotidienne de la moutarde fraîche et du cresson,  que Parry était parvenu à faire pousser dans des boîtes autour de son poêle, coupèrent bientôt le mal dans sa racine.
+
+Le 7 février, le soleil reparut, et, bien que plusieurs mois dussent encore s'écouler avant qu'il fût possible de quitter l'île Melville, les préparatifs de départ furent commencés. Le 30 avril, le thermomètre monta jusqu'à zéro, et les matelots, prenant cette température si basse pour l'été, voulaient quitter leurs vêtements d'hiver. Le premier ptarmigan parut le 12 mai, et, le jour suivant, on vit la piste des rennes et des chèvres à musc, qui commençaient à s'acheminer vers le nord. Mais ce qui causa aux marins une joie et une surprise tout à fait extraordinaires, ce fut la pluie qui tomba le 24 mai.
+
+« Nous étions, dit Parry, si désaccoutumés de voir l'eau dans son état naturel et surtout de la voir tomber du ciel, que cette circonstance si simple devint un véritable sujet de curiosité. Il n'y eut personne à bord, je le crois du moins, qui ne se hâtât de monter sur le pont pour observer un phénomène si intéressant et si nouveau. »
+
+Pendant la première quinzaine de juin, Parry, suivi de quelques-uns de ses officiers, fit une excursion sur l'île Melville dont il atteignit l'extrémité nord. A son retour, la végétation se montrait partout, la glace commençait à se désagréger, tout annonçait que le départ pourrait s'effectuer prochainement. Il eut lieu le 1er août ; mais, au large, les glaces n'avaient pas encore fondu, et les bâtiments ne purent pénétrer dans l'est que jusqu'à l'extrémité de l'île Melville. Le point le plus extrême qu'ait atteint Parry dans cette direction est situé par 74° 26' 25" de latitude et 113° 46' 43" de longitude. Le retour s'opéra sans incident, et, vers le milieu de novembre, les navires avaient regagné l'Angleterre.
+
+Les résultats de ce voyage étaient considérables ; non seulement une immense étendue des régions arctiques était reconnue, mais on avait fait des observations de physique et de magnétisme, et l'on avait recueilli sur les phénomènes du froid, sur le climat arctique, sur la vie animale et végétale de ces régions, des documents tout nouveaux.
+
+Dans une seule campagne, Parry venait d'obtenir plus de résultats que ne devaient le faire, pendant trente ans, tous ceux qui allaient suivre ses traces.
+
+L'Amirauté, satisfaite des résultats si importants obtenus par Parry, lui confia en 1821 le commandement de deux navires *l'Hécla* et *la Fury*, cette dernière construite sur le modèle de l'*Hécla.* Cette fois, le navigateur explora les rivages de la baie d'Hudson et visita avec le plus grand soin les côtes de la péninsule Melville, qu'il est bon de ne pas confondre avec l'île du même nom. On hiverna à l'île Winter, sur la côte orientale de cette presqu'île, et l'on eut recours aux mêmes amusements qui avaient si bien réussi dans la campagne précédente. Mais ce qui fit la diversion la plus grande à la monotonie de l'hiver, ce fut la visite d'un détachement d'Esquimaux, qui arriva, le 1er février, à travers les glaces. Leurs huttes, qu'on n'avait pas aperçues, étaient assises sur le rivage ; on les visita, et dix-huit mois de rapports presque constants avec l'équipage contribuèrent à donner de ces peuples, de leur manière de vivre, de leur caractère, une tout autre idée que celle qu'on s'en était faite jusqu'alors.
+
+Mais, la reconnaissance des détroits de la Fury et de l'Hécla, qui séparent la presqu'île Melville de la Terre de Cockburn, força les voyageurs à passer un second hiver dans les régions arctiques. Si l'installation fut plus confortable, le temps s'écoula cependant avec moins de gaieté, à cause de la déception profonde qu'officiers et matelots avaient éprouvée de se voir arrêtés, au moment qu'ils comptaient faire route pour le détroit de Behring.
+
+Le 12 août, les glaces s'entrouvrirent. Parry voulait renvoyer ses navires en Europe et continuer par terre l'exploration des terres qu'il avait découvertes ; mais il dut céder aux représentations du capitaine Lyon, qui lui montra toute la témérité de ce plan désespéré. Les deux bâtiments rentrèrent donc en Angleterre après une absence de vingt-sept mois, n'ayant perdu que cinq hommes sur cent dix-huit, quoi qu'ils eussent passé deux hivers consécutifs dans ces régions hyperboréennes.
+
+Certes, les résultats de ce second voyage ne valaient pas ceux du premier ; il s'en fallait cependant qu'ils fussent sans prix. On savait désormais que la côte d'Amérique ne s'étend guère au-delà du 70e degré, que l'Atlantique communique avec la mer polaire par une foule de détroits et de canaux, la plupart bouchés, comme ceux de la Fury, de l'Hécla et de Fox, par des barrières de glaces qu'accumulent les courants.
+
+Si les glaces trouvées à l'extrémité sud-est de la presqu'île Melville paraissaient permanentes, il ne semblait pas en être ainsi de celles de l'entrée du Régent. Il y avait par conséquent des chances de pouvoir pénétrer par là dans le bassin polaire. La *Fury* et l'*Hécla* furent donc encore une fois armées et confiés à Parry.
+
+Ce voyage fut le moins heureux de tous ceux qu'entreprit cet habile marin, non pas qu'il ait été au-dessous de lui-même, mais il fut victime de hasards malheureux et de circonstances défavorables. C'est ainsi que, assailli dans la baie de Baffin par une abondance inusitée de glaces, il eut la plus grande peine à gagner l'entrée du Prince-Régent. Peut-être, si la saison lui avait permis d'arriver trois semaines plus tôt, aurait-il réussi à rallier la côte d'Amérique ; mais il ne put que prendre les dispositions nécessaires pour l'hivernage.
+
+Ce n'était plus une éventualité redoutable pour cet officier expérimenté qu'un hiver à passer sous le Cercle polaire. Il connaissait les précautions à prendre pour conserver la santé de son équipage, pour lui créer même un certain bien-être, pour lui procurer ces occupations et ces distractions qui contribuent si puissamment à diminuer la longueur d'une nuit de trois mois.
+
+Des cours professés par les officiers, des mascarades et des représentations théâtrales, une chaleur constante de 50 degrés Fahrenheit, maintinrent les hommes en si bonne santé que, lorsque, le 20 juillet 1825, la débâcle permit à Parry de reprendre ses opérations, il n'avait à bord aucun malade.
+
+Il se mit à longer la côte orientale de l'entrée du Prince-Régent ; mais les glaces flottantes se rapprochèrent et acculèrent les navires au rivage. La *Fury* fut si avariée que, malgré quatre pompes toujours en mouvement, elle pouvait à peine rester à flot. Parry essaya de la réparer, après l'avoir hissée sur un énorme banc de glace ; une tempête survint, brisa l'abri temporaire du bâtiment et le lança sur le rivage où il fallut définitivement l'abandonner. Son équipage fut recueilli par l'*Hécla,* qui, à la suite de cette catastrophe, dut revenir en Angleterre.
+
+L'âme si bien trempée de Parry ne fut pas atteinte par ce dernier désastre. S'il était presque impossible d'atteindre la mer polaire par cette voie, n'en existait-il pas d'autres ? Le vaste espace de mer qui s'étend entre le Gröenland et le Spitzberg n'offrirait-il pas une route moins dangereuse, moins hérissée de ces énormes « icebergs » qui ne se forment que sur les côtes ?
+
+Les plus anciennes expéditions, dont on ait le récit dans ces parages, sont celles de Scoresby, qui fréquenta longtemps ces mers à la recherche de la baleine. En 1806, il s'avança très haut dans le nord, --- si haut même qu'on n'avait plus jamais atteint avec un navire, et par cette voie, la même latitude. Il se trouvait en effet, le 24 mai, par 81° 30' de latitude et 16° de longitude est de Paris, c'est-à-dire presque au nord du Spitzberg. La glace s'étendait vers l'est-nord-est. Entre cette direction et le sud-est, la mer était complètement libre sur une étendue de trente milles, et il n'y avait pas de terre à la distance de cent milles.
+
+On doit regretter que le baleinier n'ait pas cru devoir profiter de cet état si favorable de la mer pour s'avancer vers le nord ; il n'est pas douteux qu'il eût fait quelque découverte importante, s'il n'eût atteint le pôle lui-même.
+
+Ce que les exigences de sa profession de baleinier avaient empêché Scoresby d'accomplir, Parry résolut de le tenter.
+
+Il partit de Londres sur l'*Hécla,* le 27 mars 1827, gagna la Laponie norvégienne, embarqua à Hammerfest des chiens, des rennes, des canots, et continua sa route pour le Spitzberg.
+
+Le port Smeerenburg, où il voulait entrer, était encore encombré par les glaces, et l'*Hécla* continua à lutter contre elles jusqu'au 27 mai. Parry, abandonnant alors son navire dans le détroit de Hinlopen, s'avança vers le nord dans deux canots, qui portaient, avec Ross et Crozier, chacun douze hommes et soixante et onze jours de vivres. Après avoir installé un dépôt de vivres aux Sept-Îles, il chargea ses provisions et ses embarcations sur des traîneaux, qui avaient été confectionnés d'une manière toute spéciale. Il espérait ainsi pouvoir franchir la barrière des glaces solides et trouver au-delà une mer, sinon entièrement libre, du moins navigable.
+
+Mais la banquise ne formait pas, comme Parry s'y attendait, un tout homogène. C'étaient tantôt de larges flaques d'eau à traverser, tantôt des collines abruptes qu'il fallait faire gravir aux traîneaux. Aussi ne s'avança-t-on en quatre jours que de quatorze kilomètres vers le nord.
+
+Le 2 juillet, par un épais brouillard, le thermomètre accusait 1° 7' au-dessus de zéro à l'ombre, et 8° 3' au soleil.
+
+La marche sur cette surface raboteuse, à chaque instant coupée de bras de mer, était excessivement pénible, et la vue des voyageurs se fatiguait à l'éclatante réverbération de la lumière.
+
+Malgré ces nombreux obstacles, Parry et ses compagnons s'avançaient toujours avec courage, lorsqu'ils s'aperçurent, le 20 juillet, qu'ils n'étaient parvenus qu'à 82° 37', c'est-à-dire à neuf kilomètres seulement plus au nord que trois jours avant. II fallait donc que la banquise fût entraînée par un fort courant vers le sud, car ils étaient certains d'avoir fait depuis ce temps au moins vingt-deux kilomètres sur la glace.
+
+Parry cacha d'abord ce résultat décourageant à l'équipage, mais il fut bientôt évident pour tout le monde qu'on ne s'élevait vers le nord que de la différence de deux vitesses opposées : celle que les voyageurs mettaient à franchir tous les obstacles accumulés sous leurs pas, et celle qui entraînait l'« ice-fîeld » en sens contraire.
+
+L'expédition atteignit cependant un endroit où la banquise à demi rompue ne pouvait plus porter ni les hommes ni les traîneaux. C'était un amas prodigieux de glaces qui, soulevées par les flots, s'entrechoquaient avec un bruit effrayant. Les vivres étaient épuisés, les matelots découragés ; Ross était blessé, Parry souffrait cruellement d'une inflammation des yeux, enfin le vent, devenu contraire, poussait les Anglais vers le sud ; il fallut revenir.
+
+Cette course hardie, pendant laquelle le thermomètre ne descendit pas au-dessous de 2° 2', aurait pu réussir, si elle avait été entreprise dans une saison moins avancée. Les voyageurs, partis plus tôt, auraient pu s'élever au-delà de 82° 40' ; ils n'auraient assurément pas été arrêtés par la pluie, la neige et l'humidité, symptômes évidents de la débâcle estivale.
+
+Lorsque Parry regagna l'*Hécla,* il apprit que ce bâtiment avait couru les plus grands dangers. Poussés par un vent violent, les glaçons avaient rompu les chaînes et jeté à la côte le navire qui s'était échoué. Relevé, il avait été conduit à l'entrée du détroit de Waygat.
+
+Parry acheva sa route heureusement jusqu'aux Orcades, débarqua dans ces îles, et rentra à Londres le 30 septembre.
+
+Il semblait que ces voyages ne présenteraient pas de très grandes difficultés, tandis que leurs résultats pouvaient être considérables pour le géographe et fort avantageux pour le marin. Le commandement en fut confié à un officier de mérite, Franklin, dont le nom est devenu justement célèbre. Le docteur Richardson et Georges Back, alors midshipman dans la marine, l'accompagnaient avec deux matelots.
+
+Au commencement du printemps, le docteur Richardson rejoignit au fort Chippewayan le reste de l'expédition, qui partit le 18 juillet 1820, avec l'espoir d'atteindre, avant la mauvaise saison, un hivernage confortable à l'embouchure de la Coppermine. Mais il fallut compter, plus que ne l'avaient fait Franklin et ses compagnons, sur les difficultés de la route, aussi bien que sur les obstacles qu'apporta la rigueur de la saison.
+
+Les chutes d'eau, les bas-fonds des lacs et des rivières, les portages, la rareté du gibier, retardèrent si bien les voyageurs, que le 20 août, lorsque les étangs commencèrent à se couvrir de glace, les guides canadiens firent entendre des plaintes, et quand ils virent fuir vers le sud les bandes d'oies sauvages, ils se refusèrent à aller plus loin. Franklin, malgré tout le dépit que lui causa autant de mauvais vouloir, dut renoncer à ses projets et construire à l'endroit où il se trouvait, c'est-à-dire à cinq cent cinquante milles du fort Chippewayan, sur les bords de la rivière Winter, une maison de bois, qui reçut le nom de fort Entreprise. Elle était située par 64° 28' de latitude et 118° 6' de longitude.
+
+Aussitôt installés, les voyageurs s'occupèrent à réunir le plus de provisions qu'il leur fut possible, et avec la chair de renne ils confectionnèrent ce mets qui est connu dans toute l'Amérique du Nord sous le nom de « pemmican ». Tout d'abord, le nombre de rennes qu'on aperçut fut considérable ; on n'en compta pas moins de deux mille en un seul jour, mais cela prouvait que ces animaux émigraient vers des régions plus clémentes. Aussi, bien qu'on eût préparé la chair de cent quatre-vingts de ces quadrupèdes, bien qu'on trouvât un surcroît de nourriture dans les produits de la rivière voisine, ces provisions, quoique considérables, furent-elles insuffisantes.
+
+Des tribus entières d'indiens, à la nouvelle de l'arrivée des blancs dans le pays, étaient venues s'établir aux portes du fort et passaient leur vie à mendier et à exploiter les nouveaux venus. Aussi les balles de couvertures, de tabac et d'autres objets d'échange ne tardèrent pas à s'épuiser.
+
+Franklin, inquiet de ne pas voir arriver l'expédition qui devait le réapprovisionner, se détermina à expédier, le 18 octobre, Georges Back avec une escorte de Canadiens, au fort Chippewayan.
+
+Un tel voyage, à pied, au milieu de l'hiver, demandait un dévouement merveilleux, dont les quelques lignes suivantes peuvent donner une idée.
+
+« J'eus, dit Back à son retour, le plaisir de retrouver mes amis tous bien portants, après une absence d'environ cinq mois, durant lesquels j'avais fait onze cent quatre milles avec des souliers à neige et sans autre abri la nuit, dans les bois, qu'une couverture et une peau de daim, le thermomètre descendant souvent à 40° et une fois à 57° au-dessous de zéro ; il m'arrivait parfois de passer deux ou trois jours sans prendre de nourriture. »
+
+Ceux qui étaient restés au fort eurent également à souffrir d'un froid qui descendit de trois degrés au-dessous de celui dont Parry avait souffert à l'île Melville, située cependant neuf degrés plus près du pôle. Les effets de cette température rigoureuse ne se faisaient pas sentir sur les hommes seulement ; les arbres furent gelés jusqu'au cœur, au point que la hache se brisait sans pouvoir y creuser une entaille.
+
+Deux interprètes de la baie d'Hudson avaient accompagné Back au fort Entreprise. L'un d'eux possédait une fille qui passait pour la plus belle créature qu'on eût vue. Aussi, bien qu'elle n'eût encore que seize ans, avait-elle eu déjà deux maris. L'un des officiers anglais fit son portrait, au grand désespoir de la mère, qui craignait que le grand chef d'Angleterre, en contemplant cette froide image, ne devînt amoureux de l'original.
+
+Le 14 juin 1821, la Coppermine fut assez dégelée pour être navigable. On s'y embarqua aussitôt, bien que les vivres fussent presque complètement épuisés. Par bonheur, le gibier était nombreux sur les rives verdoyantes de la rivière, et l'on tua assez de bœufs musqués pour nourrir tout le monde.
+
+L'embouchure de la Coppermine fut atteinte le 18 juillet. Les Indiens, dans la crainte de rencontrer leurs ennemis les Esquimaux, reprirent aussitôt la route du fort Entreprise, tandis que les Canadiens osaient à peine lancer leurs frêles embarcations sur cette mer courroucée. Franklin les détermina cependant à se risquer, mais il ne put aller au-delà de la pointe du Retour, par 68° 30' de latitude, promontoire qui formait l'ouverture d'un golfe profond semé d'îles nombreuses, et auquel Franklin donna le nom de golfe du Couronnement de Georges IV.
+
+Franklin avait commencé de remonter la rivière Hood, lorsqu'il se vit arrêté par une cascade de deux cent cinquante pieds ; il dut donc faire le reste de  la route par terre, au milieu des neiges épaisses de plus de deux pieds, dans un pays stérile et complètement inconnu. Il est plus facile d'imaginer que de décrire les fatigues et les souffrances de ce voyage de retour. Franklin rentra au fort Entreprise, le 11 octobre, dans un état d'épuisement complet, n'ayant rien mangé depuis cinq jours. Le fort était abandonné. Sans provisions, malade, il semblait que Franklin n'eût plus qu'à se laisser mourir. Le lendemain, il se mit cependant à la recherche des Indiens et de ceux de ses compagnons qui l'avaient précédé ; mais la neige était si épaisse qu'il dut rebrousser chemin et rentrer au fort. Pendant dix-huit jours, il ne vécut que d'une sorte de bouillie faite avec les os et les peaux du gibier tué l'année précédente. Le 29 octobre, le docteur Richardson arrivait enfin avec John Hepburn, sans les autres membres de l'expédition. En se revoyant, tous furent douloureusement frappés de leur maigreur, de l'altération de leur voix et d'un affaiblissement qui semblait le signe le moins douteux d'une fin prochaine.
+
+« M. le docteur Richardson, dit Cooley, rapportait du reste de tristes nouvelles. Pendant les deux premiers jours qui avaient suivi la séparation en trois parties de la colonne, son détachement n'avait rien trouvé à manger ; le troisième, Michel était revenu avec un lièvre et une perdrix qu'ils s'étaient partagés. Le lendemain se passa encore dans une disette absolue. Le 11, Michel offrit à ses compagnons un quartier de viande qu'il leur dit avoir été coupé sur un loup ; mais, ensuite, ils acquirent la conviction que c'était la chair d'un des malheureux qui avaient quitté le capitaine Franklin pour revenir auprès du docteur Richardson. Michel devenait tous les jours plus insolent et plus froid. On le soupçonna fortement d'avoir quelque part un dépôt d'aliments qu'il se réservait pour lui seul. Hepburn, étant occupé à couper du bois, entendit la détonation d'un fusil, et, regardant du côté où partait le bruit, il vit Michel se précipiter vers la tente ; bientôt après, on trouva M. Hood mort, il avait une balle dans le derrière de la tête, et l'on ne put douter que son assassin ne fût Michel. Dès ce moment, il devint plus méfiant, plus effronté que jamais ; et, comme sa force était supérieure à celle des Anglais qui avaient survécu, comme d'ailleurs il était bien armé, ils virent qu'il n'y avait plus pour eux de salut que dans sa mort. Je me déterminai, dit Richardson, dès que je fus convaincu que cet acte horrible était nécessaire, à en prendre sur moi toute la responsabilité, et, au moment où Michel revenait vers nous, je mis fin à ses jours en lui faisant sauter la cervelle. »
+
+Plusieurs des Indiens qui avaient accompagné Franklin et Richardson étaient morts de faim, et les deux chefs allaient les suivre à bref délai dans la tombe, lorsque, enfin, le 7 novembre, trois Indiens, envoyés par Back, apportèrent les premiers secours. Aussitôt qu'ils se sentirent un peu plus vigoureux, les deux Anglais gagnèrent l'établissement de la Compagnie, où ils trouvèrent Georges Back, à qui, par deux fois dans la même expédition, ils devaient la vie.
+
+Les résultats de ce voyage, qui embrasse cinq mille cinq cents milles, étaient de la plus haute importance pour la géographie, les expériences de magnétisme, les études de météorologie, et la côte d'Amérique, sur une immense étendue, avait été suivie jusqu'au cap Turn-again.
+
+Malgré tant de fatigues et de souffrances si bravement endurées, les  explorateurs étaient prêts à recommencer leur voyage et à essayer encore une fois d'atteindre les rivages de la mer polaire.
+
+Reçu avec bienveillance à New-York, Franklin gagna Albany par le fleuve Hudson, remonta le Niagara depuis Lewinston jusqu'à la fameuse chute, atteignit le fort Saint-Georges sur l'Ontario, traversa le lac, débarqua à Yorck, capitale du haut Canada ; puis, passant par les lacs Simcoe, Huron, Supérieur, où il fut rejoint par vingt-quatre Canadiens, le 29 juin 1825, il rencontra les embarcations sur la rivière Methye.
+
+Tandis que le docteur Richardson relevait la côte orientale du lac du Grand-Ours et que Back surveillait les préparatifs de l'hivernage, Franklin gagna l'embouchure de la Mackenzie. La navigation fut très facile, et le voyageur ne trouva d'obstacles qu'au delta du fleuve. L'Océan était libre de glaces ; des baleines noires et blanches, des phoques se jouaient à la surface des flots. Franklin débarqua dans la petite île Garry, dont la position fut déterminée par 69° 2' de latitude et 135° 41' de longitude, observation précieuse qui prouvait quel degré de confiance on devait accorder aux relèvements de Mackenzie.
+
+Le retour se fit sans difficulté, et le 5 septembre, les voyageurs rentrèrent dans le fort, auquel le docteur Richardson avait donné le nom de fort Franklin. L'hiver se passa en amusements, en réjouissances, en bals, auxquels prenaient part des Canadiens, des Anglais, des Écossais, des Esquimaux et des Indiens de quatre tribus différentes.
+
+Le 22 juin eut lieu le départ, et, le 4 juillet, fut atteinte la fourche où les bras de la Mackenzie se séparent. Là, l'expédition se divisa en deux détachements, qui allèrent à l'est et à l'ouest explorer les rivages polaires. A peine Franklin fut-il sorti de la rivière que, dans une grande baie, il rencontra une troupe nombreuse d'Esquimaux. Ceux-ci montrèrent d'abord une joie exubérante, mais ils ne tardèrent pas à devenir bruyants et cherchèrent à s'emparer des embarcations. Les Anglais firent en cette circonstance preuve d'une patience extrême et parvinrent à éviter toute effusion de sang.
+
+Franklin reconnut et nomma Clarence la rivière qui sépare les possessions de la Russie de celles de l'Angleterre. Un peu plus loin, un nouveau cours d'eau reçut le nom de Canning. Le 16 août, ne se trouvant encore qu'à moitié chemin du cap Glacé et l'hiver avançant rapidement, Franklin revint en arrière et  pénétra dans la belle rivière de Peel, qu'il prit pour la Mackenzie. Il ne reconnut son erreur qu'en voyant dans l'est une chaîne de montagnes. Le 21 septembre, il rentrait au fort, après avoir, en trois mois, parcouru deux mille quarante-huit milles et relevé trois cent soixante-quatorze milles de la côte américaine.
+
+Quant à Richardson, il s'était avancé sur une mer plus profonde, moins encombrée de glaces, au milieu d'Esquimaux doux et hospitaliers. Il reconnut les baies Liverpool et Franklin, découvrit en face de l'embouchure de la Copermine une terre qui n'est séparée du continent que par un canal d'une vingtaine de milles de largeur, à laquelle il donna le nom de Wollaston. Le 7 août, les embarcations étant parvenues dans le golfe du Couronnement, déjà exploré dans une course précédente, revinrent en arrière, et rentrèrent, le 1er septembre, au fort Franklin, sans avoir éprouvé le moindre accident.
+
+Entraînés par l'exposition des voyages de Parry, il nous a fallu laisser pour un moment de côté ceux que faisait à la même époque John Ross, à qui son étrange exploration de la baie de Baffin avait fait le plus grand tort aux yeux de l'Amirauté.
+
+John Ross désirait vivement réhabiliter sa réputation d'intrépidité et d'habileté. Si le gouvernement n'avait plus confiance en lui, il rencontra du moins en Félix Booth, un riche armateur, qui ne craignit pas de lui confier le commandement du bâtiment à vapeur *la Victoire*, sur lequel il partit, le 25 mai 1829, pour la baie de Baffin.
+
+On fut quatre ans sans nouvelles de ce courageux navigateur, et lorsqu'il fut de retour, on apprit que la moisson de ses découvertes était aussi riche que celle qu'avait faite Parry dans sa première expédition.
+
+Entré par les détroits de Barrow et de Lancastre dans celui du Prince-Régent, John Ross avait retrouvé l'endroit où, quatre ans auparavant, la *Fury* avait été abandonnée.
+
+Continuant sa route au sud, John Ross hiverna au havre Félix, --- ainsi appelé en l'honneur du promoteur de l'expédition, --- et là, il apprit que les terres qu'il venait de reconnaître formaient une immense presqu'île rattachée dans le sud à l'Amérique.
+
+Au mois d'avril 1830. James Ross, neveu du chef de l'expédition, partit en canot pour reconnaître ces côtes, ainsi que celles de la Terre du Roi-Guillaume.
+
+En novembre, il fallut hiverner de nouveau, car on n'avait pu faire remonter le navire que de quelques milles vers le nord, et l'on s'établit dans le havre Shériff. Le froid fut excessif, et de tous ceux que les marins de la *Victoire* passèrent dans les glaces, ce fut l'hiver le plus rigoureux.
+
+L'été de 1831 fut consacré à diverses reconnaissances, qui démontrèrent l'absence de communication entre les deux mers. On ne parvint encore cette fois qu'à faire avancer le navire de quelques milles dans le nord, jusqu'au havre de la Découverte. Mais, à la suite d'un nouvel hiver très froid, il fallut renoncer à le tirer de sa prison glacée.
+
+Bien heureux d'avoir trouvé les provisions de la *Fury,* sans lesquelles ils seraient morts de faim, les Anglais attendirent, au milieu d'un abattement chaque jour plus grand, de privations, de souffrances incroyables, le retour du nouvel été. Au mois de juillet 1833, les quartiers d'hiver furent définitivement abandonnés, l'on gagna par terre le détroit du Prince-Régent, celui de Barrow, et l'on débouchait sur le rivage de la baie de Baffin, lorsqu'un navire apparut. C'était l'*Isabelle,* que Ross avait commandée lui-même autrefois, et qui recueillit les naufragés de la *Victoire.*
+
+Pendant ce temps, l'Angleterre n'avait pas abandonné ses enfants, et chaque année elle avait envoyé une expédition à leur recherche. En 1833, c'est Georges Back, le compagnon de Franklin. Parti du fort Révolution, sur les rives du lac de l'Esclave, il s'avance vers le nord, et, après avoir découvert la rivière Thloni-Tcho-Déseth, il prend ses quartiers d'hiver et se dispose à gagner l'année suivante la mer polaire, où l'on suppose Ross prisonnier, lorsqu'il apprend l'incroyable retour de celui-ci.
+
+L'année suivante, le même explorateur reconnaît à fond la belle rivière aux Poissons, qu'il avait découverte l'année précédente, et aperçoit les montagnes de la Reine Adélaïde, ainsi que les pointes Booth et James Ross.
+
+En 1836, il est à la tête d'une nouvelle expédition qui, cette fois, se fait par mer, et il essaye vainement de relier entre elles les découvertes de Ross et de Franklin.
+
+Cette tâche était réservée à trois officiers de la Compagnie de la baie d'Hudson, MM. Peler William, Dease et Thomas Simpson.
+
+Ils partirent le 1er juin 1837 du fort Chippewayan, et, descendant la Mackenzie, ils arrivèrent le 9 juillet aux bords de la mer, sur laquelle ils purent s'avancer par 71° 3' de latitude et 156° 46' de longitude ouest jusqu'à un cap qui reçut le nom de Georges-Simpson, le gouverneur de la Compagnie.
+
+Thomas Simpson continua à s'avancer dans l'ouest, par terre, avec cinq hommes, jusqu'à la pointe Barrow, qu'un des officiers de Beechey avait déjà vue en venant du détroit de Behring.
+
+La reconnaissance de la côte américaine depuis le cap Turn-again jusqu'au détroit de, Behring était donc complète. Il ne restait plus d'inconnu que  l'espace compris entre la pointe Ogle et le cap Turn-again : ce fut la tâche que se donnèrent les explorateurs pour la campagne suivante.
+
+Partant en 1838 de la Coppermine, ils suivirent la côte à l'est, arrivèrent le 9 août au cap Turn-again ; mais, les glaces ne permettant pas aux canots de le doubler, Thomas Simpson hiverna, découvrit la Terre Victoria, et le 12 août 1839, arrivé à la rivière de Back, il continua jusqu'à la fin du mois à explorer la Boothia.
+
+La ligne de côtes était donc définitivement déterminée. Au prix de quels efforts, de quelles fatigues, de quels sacrifices et de quel dévouement ! Mais combien peu compte la vie humaine, lorsqu'elle entre en balance avec les progrès de la science ! Qu'il faut de désintéressement, de passion à ces savants, ces marins, ces explorateurs, qui abandonnent tout ce qui fait le bonheur de l'existence, pour contribuer, dans la mesure de leurs forces, aux progrès des connaissances humaines et au développement scientifique et moral de l'humanité !
+
+Avec le récit de ces derniers voyages dans lesquels s'achève la découverte de la Terre, se termine cette œuvre, qui s'est ouverte avec l'histoire des tentatives des premiers explorateurs.
+
+La configuration du globe est maintenant connue, la tâche des explorateurs est finie. La terre que l'homme habite lui est désormais familière. Il ne lui reste plus qu'à utiliser les immenses ressources des contrées dont l'accès lui est devenu facile ou dont il a su s'emparer.
+
+Quelle est fertile en enseignements de tout genre, cette histoire de vingt siècles de découvertes !
+
+Jetons un coup d'œil en arrière, et résumons à grands traits les progrès accomplis durant cette longue suite d'années.
+
+Si nous prenons la mappemonde d'Hécatée, qui vivait cinq cents ans avant l'ère chrétienne, que verrons-nous ?
+
+Le monde connu n'embrasse guère que le bassin de la Méditerranée. La Terre, si profondément défigurée dans ses contours, n'est représentée que par une minime partie de l'Europe méridionale, de l'Asie antérieure et de l'Afrique septentrionale. Autour de ces terres tourne un fleuve sans commencement ni fin, qui porte le nom d'Océan.
+
+Plaçons maintenant à côté de cette carte, vénérable monument de la science antique, un planisphère qui nous représente le monde de 1840. Sur l'immensité  du globe, ce que connaissait Hécatée, encore bien qu'imparfaitement, ne constitue plus qu'une tache presque imperceptible.
+
+Avec ces points de départ et d'arrivée, vous pouvez juger de l'immensité des découvertes.
+
+Imaginez maintenant ce que suppose d'informations de tout genre la connaissance du globe tout entier, vous resterez émerveillé devant le résultat des efforts de tant d'explorateurs et de martyrs ; vous embrasserez l'utilité de ces découvertes et les rapports intimes qui unissent la Géographie à toutes les autres sciences. Tel est le point de vue auquel il faut se placer pour saisir toute la portée philosophique d'une œuvre à laquelle se sont dévouées tant de générations.
+
+Assurément, ce sont des motifs d'ordres bien différents qui ont fait agir tous ces découvreurs.
+
+C'est d'abord la curiosité naturelle au propriétaire, qui tient à connaître dans toute son étendue le domaine qu'il possède, à en mesurer les portions habitables, à en délimiter les mers ; puis, ce sont les exigences d'un commerce encore dans l'enfance, qui ont cependant permis de transporter jusqu'en Norvège les produits de l'industrie asiatique.
+
+Avec Hérodote, le but s'élève, et c'est déjà le désir de connaître l'histoire, les mœurs, la religion des peuples étrangers.
+
+Plus tard, avec les croisades, dont le résultat le plus certain fut de vulgariser l'étude de l'Orient, c'est, pour un petit nombre, le désir d'arracher aux mains des infidèles le théâtre de la passion d'un Dieu ; pour la plupart, c'est la soif du pillage et l'attrait de l'inconnu.
+
+Si Colomb, cherchant une nouvelle route pour se rendre au pays des Épices, rencontre l'Amérique sur son chemin, ses successeurs ne sont plus animés que du désir de faire rapidement fortune. Combien ils diffèrent de ces nobles Portugais, qui sacrifient leurs intérêts privés à la gloire et à la prospérité coloniale de leur patrie, et meurent plus pauvres qu'ils n'étaient au moment où ils ont été investis de ces fonctions qu'ils devaient honorer.
+
+Au XVIe siècle, le désir d'échapper à la persécution religieuse et la guerre civile jettent dans le Nouveau Monde ces huguenots et surtout ces quakers qui, en posant les bases de la prospérité coloniale de l'Angleterre, devaient transformer l'Amérique.
+
+Le siècle suivant est par excellence colonisateur. En Amérique les Français, aux Indes les Anglais, en Océanie les Hollandais, établissent des comptoirs et des loges, tandis que les missionnaires s'efforcent de conquérir à la foi du Christ et aux idées modernes l'immuable empire du Milieu.
+
+Le XVIIIe siècle, préparant la voie à notre époque, rectifie les erreurs accréditées ; il relève en détail et par le menu les continents et les archipels, il perfectionne en un mot les découvertes de ses devanciers. C'est à la même tâche que se dévouent les explorateurs modernes, qui tiennent à ne pas laisser échapper à leurs relèvements le moindre coin de terre, le plus petit îlot. C'est à cette préoccupation qu'obéissent aussi ces intrépides navigateurs, qui vont explorer les solitudes glacées des deux pôles et déchirent le dernier lambeau du voile qui avait si longtemps dérobé le globe à nos regards.
+
+Ainsi donc, tout est connu, classé, catalogué, étiqueté ! Mais le résultat de tant de nobles travaux va-t-il être enterré dans quelque atlas soigneusement dressé, où n'iront le chercher que les savants de profession ?
+
+Non ! Ce globe conquis par nos pères, au prix de tant de fatigues et de dangers, c'est à nous qu'il appartient de l'utiliser, de le faire valoir. L'héritage est trop beau pour n'en point tirer parti !
+
+A nous, par tous les moyens que le progrès des sciences met à notre disposition, d'étudier, de défricher, d'exploiter ! Plus de terrains en jachère, plus de déserts infranchissables, plus de cours d'eau inutiles, plus de mers insondables, plus de montagnes inaccessibles !
+
+Les obstacles que la nature nous oppose, nous les supprimons. Les isthmes de Suez et de Panama nous gênent : nous les coupons. Le Sahara nous empêche de relier l'Algérie au Sénégal : nous y jetons un railway. L'Océan nous sépare de l'Amérique : un câble électrique nous y relie. Le Pas de Calais empêche deux peuples, si bien faits pour s'entendre, de se serrer cordialement la main : nous y percerons un chemin de fer !
+
+Voilà notre tâche, à nous autres contemporains. Est-elle donc moins belle que celle de nos devanciers, qu'elle n'ait encore tenté quelque écrivain de renom ?
+
+Pour nous, si attrayant qu'il soit, ce sujet sortirait du cadre que nous nous étions d'abord tracé. Nous avons voulu écrire l'*Histoire de la découverte de la Terre*, nous l'avons écrite, notre œuvre est donc finie.
+
+FIN DES VOYAGEURS DU XIXe SIÈCLE

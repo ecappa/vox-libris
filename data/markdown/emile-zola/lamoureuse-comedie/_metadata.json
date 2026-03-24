@@ -1,0 +1,82 @@
+{
+  "auteur": "Émile Zola",
+  "titre": "L'AMOUREUSE COMÉDIE",
+  "slug": "lamoureuse-comedie",
+  "nombre_chapitres": 4,
+  "structure": [
+    {
+      "title": "Table des matières",
+      "slug": "table-des-matieres",
+      "spine_start": 1940,
+      "spine_end_exclusive": 1941,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_002.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Lettre à un ami[1]",
+      "slug": "lettre-a-un-ami1",
+      "spine_start": 1941,
+      "spine_end_exclusive": 1942,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_003.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Rodolpho (fragments)",
+      "slug": "rodolpho-fragments",
+      "spine_start": 1942,
+      "spine_end_exclusive": 1950,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_004.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_005.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_006.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_007.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_008.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_009.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_010.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_011.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "L'aérienne (fragments)",
+      "slug": "laerienne-fragments",
+      "spine_start": 1950,
+      "spine_end_exclusive": 1955,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_012.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_013.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_014.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_015.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_016.htm"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Paolo (fragments)",
+      "slug": "paolo-fragments",
+      "spine_start": 1955,
+      "spine_end_exclusive": 1961,
+      "files": [
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_017.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_018.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_019.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_020.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_021.htm",
+        "/private/tmp/epub_extract/zola/OEBPS/Text/Zola7_split_022.htm"
+      ],
+      "subsections": []
+    }
+  ],
+  "genre": "",
+  "annee": "",
+  "images": [
+    "images/emile-zola/lamoureuse-comedie/Zola7_image002.jpg",
+    "images/emile-zola/lamoureuse-comedie/Zola7_image003.jpg",
+    "images/emile-zola/lamoureuse-comedie/Zola7_image004.jpg",
+    "images/emile-zola/lamoureuse-comedie/Zola7_image005.jpg"
+  ]
+}

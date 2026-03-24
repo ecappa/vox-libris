@@ -1,0 +1,1622 @@
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB"}
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image015.jpg){.calibre47}]{.calibre22}
+
+## []{#_Toc368941845 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941414 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940983 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940552 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940121 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939690 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939259 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938828 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938397 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937966 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937535 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937104 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936673 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936242 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935811 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935380 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934949 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934518 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934087 .pcalibre .calibre2 .pcalibre1}[Quatrième partie]{#_Toc368933656 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_201 .calibre29}
+
+
+::: WordSection
+*[
+]{.calibre12}*
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941846 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941415 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940984 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940553 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940122 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939691 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939260 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938829 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938398 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937967 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937536 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937105 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936674 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936243 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935812 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935381 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934950 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934519 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934088 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368933657 .pcalibre .calibre2 .pcalibre1} {#i .calibre59 .sigil_not_in_toc}
+
+
+Depuis le mois de mai, après la tonte et la vente des élèves, le berger Soulas avait sorti les moutons de la Borderie, près de quatre cents bêtes qu\'il conduisait seul, avec le petit porcher Auguste et ses deux chiens, Empereur et Massacre, des bêtes terribles. Jusqu\'en août, le troupeau mangeait dans les jachères, dans les trèfles et les luzernes, ou encore dans les friches, le long des routes ; et il y avait à peine trois semaines, au lendemain de la moisson, qu\'il le parquait enfin dans les chaumes, sous les derniers soleils brûlants de septembre.
+
+C\'était l\'époque abominable, la Beauce dépouillée, désolée, étalant ses champs nus, sans un bouquet de verdure. Les chaleurs de l\'été, le manque absolu d\'eau, avaient séché la terre qui se fendait ; et toute végétation disparaissait, il n\'y avait plus que la salissure des herbes mortes, que le hérissement dur des chaumes, dont les carrés, à l\'infini, élargissaient le vide ravagé et morne de la plaine, comme si un incendie eût passé d\'un bout à l\'autre de l\'horizon. Un reflet jaunâtre semblait en être resté au ras du sol, une lumière louche, un éclairage livide d\'orage : tout paraissait jaune, d\'un jaune affreusement triste, la terre rôtie, les moignons des tiges coupées, les chemins de campagne, bossués, écorchés par les roues. Au moindre coup de vent, de grandes poussières s\'envolaient, couvrant les talus et les haies de leur cendre. Et le ciel bleu, le soleil éclatant, n\'étaient qu\'une tristesse de plus, au-dessus de cette désolation.
+
+Justement, ce jour-là, il faisait un grand vent, des souffles chauds et brusques, qui amenaient des galops de gros nuages ; et, lorsque le soleil se dégageait, il avait une morsure de fer rouge, il brûlait la peau. Depuis le matin, Soulas attendait, pour lui et pour ses bêtes, de l\'eau qu\'on devait apporter de la ferme ; car le chaume où il se trouvait était au nord de Rognes, loin de toute mare. Dans le parc, au milieu des claies mobiles, que fixaient les bâtons des crosses, enfoncés en terre, les moutons, vautrés, respiraient d\'une haleine courte et pénible ; tandis que les deux chiens, allongés en dehors, haletaient eux aussi, la langue pendante. Le berger, pour avoir un peu d\'ombre, s\'était assis contre la cabane à deux roues, qu\'il poussait à chaque déplacement du parc, une étroite niche qui lui servait de lit, d\'armoire et de garde-manger. Mais, à midi, le soleil tapa d\'aplomb, et il se remit debout, regardant au loin si Auguste revenait de la ferme, où il l\'avait envoyé voir pourquoi le tonneau n\'arrivait pas.
+
+Enfin, le petit porcher reparut, criant :
+
+--- On va venir, on n\'avait pas de chevaux, ce matin.
+
+--- Et, bougre de bête, tu n\'as pas pris un litre d\'eau pour nous ?
+
+--- Ah ! non, je n\'y ai pas songé\... Moi, j\'ai bu.
+
+Soulas, à poing fermé, lança une gifle, que le gamin évita d\'un saut. Il jurait, il se décida pourtant à manger sans boire, malgré la soif qui l\'étranglait. Méfiant, Auguste, sur son ordre, avait tiré de la voiture du pain de huit jours, de vieilles noix, un fromage sec ; et tous les deux se mirent à déjeuner, guettés par les chiens qui vinrent s\'asseoir devant eux, happant de temps à autre une croûte, si dure qu\'elle craquait entre leurs mâchoires comme un os. Malgré ses soixante-dix ans, le berger besognait de ses gencives aussi vite que le petit avec ses dents. Il était toujours droit, résistant et noueux ainsi qu\'un bâton d\'épine, la face creusée davantage, pareille à une trogne d\'arbre, sous l\'emmêlement de ses cheveux déteints, couleur de terre. Et le porcher eut quand même sa gifle, une calotte qui l\'envoya rouler dans la voiture, au moment où, ne se défiant plus, il y serrait le reste du pain et du fromage.
+
+--- Tiens ! foutue couenne, bois encore ça, en attendant !
+
+Jusqu\'à deux heures, rien ne se montra. La chaleur avait augmenté, intolérable dans les grands calmes qui, tout d\'un coup, se faisaient. Puis, de la terre réduite en poudre, le vent soulevait sur place de minces tourbillons, des sortes de fumées aveuglantes, étouffantes, exaspérant le supplice de la soif.
+
+Le berger qui patientait, stoïque, sans une plainte, eut enfin un grognement de satisfaction.
+
+--- Nom de Dieu ! ce n\'est pas trop tôt !
+
+En effet, deux voitures, à peine grosses comme le poing, venaient d\'apparaître, à l\'horizon de la plaine ; et, dans la première, que Jean conduisait, Soulas avait parfaitement reconnu le tonneau d\'eau ; tandis que la seconde, conduite par Tron, était chargée de sacs de blé, qu\'il portait à un moulin, dont on voyait la haute carcasse de bois, à cinq cents mètres. Cette dernière voiture s\'arrêta sur la route, Tron ayant accompagné l\'autre jusqu\'au parc, à travers le chaume, sous le prétexte de donner un coup de main : histoire de flâner et de causer un instant.
+
+--- C\'est donc qu\'on veut nous faire tous crever de la pépie ! criait le berger.
+
+Et les moutons qui, eux aussi, avaient flairé le tonneau, s\'étaient levés en tumulte, s\'écrasaient contre les claies, allongeant la tête, bêlant plaintivement.
+
+--- Patience ! répondit Jean, v\'là de quoi vous soûler !
+
+Tout de suite, on installa l\'auge, on l\'emplit à l\'aide de la rigole de bois ; et, comme il y avait une fuite en dessous, les chiens étaient là, qui lapaient à la régalade ; pendant que le berger et le petit porcher, sans attendre, buvaient goulûment dans la rigole même. Le troupeau entier défila, on n\'entendait que le ruissellement de cette eau bienfaisante, des glouglous de gorge qui avalaient, tous heureux de s\'éclabousser, de se tremper, les bêtes et les gens.
+
+--- À cette heure, dit ensuite Soulas ragaillardi, si vous étiez gentils, vous me donneriez un coup de main pour avancer le parc.
+
+Jean et Tron consentirent. Dans les grands chaumes, le parc voyageait, ne restait guère plus de deux ou trois jours à la même place, juste le temps laissé aux moutons de tondre les herbes folles ; et ce système avait en outre l\'avantage de fumer les terres, morceau à morceau. Pendant que le berger, aidé de ses chiens, gardait le troupeau, les deux hommes et le petit porcher arrachèrent les crosses, transportèrent les claies à une cinquantaine de pas ; et, de nouveau, ils les fixèrent sur un vaste carré, où les bêtes vinrent se réfugier d\'elles-mêmes, avant qu\'il fût fermé complètement.
+
+Déjà, Soulas, malgré son grand âge, poussait sa voiture, la ramenait près du parc. Puis, parlant de Jean, il demanda :
+
+--- Qu\'est-ce qu\'il a donc ? On dirait qu\'il porte le bon Dieu en terre.
+
+Et, comme le garçon hochait tristement la tête, malade depuis qu\'il croyait avoir perdu Françoise, le vieux ajouta :
+
+--- Hein ? il y a quelque femelle, là-dessous\... Ah ! les sacrées gouines, on devrait leur tordre le cou à toutes !
+
+Tron, avec ses membres de colosse, son air innocent de beau gaillard, se mit à rire.
+
+--- Ça se dit, ça, quand on ne peut plus.
+
+--- Je ne peux plus, je ne peux plus, répéta le berger dédaigneux, est-ce que j\'ai essayé avec toi ?\... Et, tu sais, mon fils, il y en a une avec qui tu ferais mieux de ne pas pouvoir, car ça tournera à du vilain, pour sûr !
+
+Cette allusion à ses rapports avec Mme Jacqueline fit rougir le valet jusqu\'aux oreilles. Un matin, Soulas les avait surpris ensemble, au fond de la grange, derrière des sacs d\'avoine. Et, dans sa haine de cette ancienne laveuse de vaisselle, mauvaise aujourd\'hui pour ses anciens camarades, il s\'était enfin décidé à ouvrir les yeux du maître ; mais, dès le premier mot, celui-ci l\'avait regardé d\'un air si terrible, qu\'il était redevenu muet, résolu à ne parler que le jour où la Cognette le pousserait à bout, en le faisant chasser ; de sorte qu\'ils vivaient sur un pied de guerre, lui redoutant d\'être jeté dehors comme une vieille bête infirme, elle attendant d\'être assez forte pour exiger cela de Hourdequin, qui tenait à son berger. Dans toute la Beauce, il n\'y avait pas un berger qui sût mieux faire manger son troupeau, sans dégât ni perte, rasant un champ d\'un bout à l\'autre, en ne laissant pas une herbe.
+
+Le vieux, pris d\'une démangeaison de parler qui vide parfois le cœur des gens solitaires, continua :
+
+--- Ah ! si ma garce de femme, avant d\'en crever, n\'avait pas bu tout mon saint-frusquin, à mesure que je le gagnais, c\'est moi qui aurais décampé de la ferme, pour ne pas y voir tant de saletés !\... Cette Cognette, en voilà une dont les fesses ont plus travaillé que les mains ! et ce n\'est pas bien sûr à son mérite, c\'est à sa peau qu\'elle la doit, sa position ! Quand on pense que le maître la laisse coucher dans le lit de sa défunte et qu\'elle a fini par l\'amener à manger seul avec elle, comme si elle était sa vraie femme ! Faut s\'attendre, au premier jour, à ce qu\'elle nous foute tous dehors, et lui aussi, par-dessus le marché !\... Une salope qui a traîné avec le dernier des cochons !
+
+Tron, à chaque phrase, serrait les poings davantage. Il avait des colères sournoises que sa force de géant rendait terribles.
+
+--- En v\'là assez, hein ? cria-t-il. Si tu étais encore un homme, je t\'aurais claqué déjà\... Elle est plus honnête dans son petit doigt que toi dans toute ta vieille carcasse.
+
+Mais Soulas, goguenard, avait haussé les épaules sous la menace. Lui qui ne riait jamais, eut un rire brusque et rouillé, le grincement d\'une poulie hors d\'usage.
+
+--- Jeannot, va ! grand serin, tu es aussi bête qu\'elle est maligne ! Ah ! elle te le montrera sous verre, son pucelage !\... Quand je te dis que tout le pays lui a traîné sur le ventre ! Moi, je me promène, je n\'ai qu\'à regarder, et j\'en vois sans le vouloir, de ces filles qu\'on bouche ! Mais, elle, ce que je l\'ai vue bouchée de fois, non ! c\'est trop !\... Tiens ! elle avait quatorze ans à peine, dans l\'écurie, avec le père Mathias, un bossu qui est mort ; plus tard, un jour qu\'elle pétrissait, contre le pétrin même, avec un galopin, le petit porcher Guillaume, soldat aujourd\'hui ; et avec tous les valets qui ont passé, et dans tous les coins, sur de la paille, sur des sacs, par terre\... D\'ailleurs, pas besoin de chercher si loin. Si tu veux en causer, il y en a un là que j\'ai aperçu un matin dans le fenil en train de la recoudre, solidement !
+
+Il lâcha un nouveau rire, et le regard oblique qu\'il jeta suan gêna beaucoup ce dernier, qui se taisait en arrondissant le dos, depuis qu\'on parlait de Jacqueline.
+
+--- Que quelqu\'un essaie voir à la toucher, maintenant ! gronda Tron, secoué d\'une colère de chien à qui on retire un os. Je lui ferai passer le goût du pain, à celui-là !
+
+Soulas l\'examina un instant, surpris de cette jalousie de brute. Puis, retombé dans l\'hébétement de ses longs silences, il conclut de sa voix brève :
+
+--- Ça te regarde, mon fils.
+
+Lorsque Tron eut rejoint la voiture qu\'il conduisait au moulin, Jean demeura quelques minutes encore avec le berger, pour l\'aider à enfoncer au maillet certaines des crosses ; et celui-ci, qui le voyait si muet, si triste, finit par reprendre :
+
+--- Ce n\'est pas la Cognette au moins qui te met le cœur à l\'envers ?
+
+Le garçon répondit non, d\'un branle énergique de la tête.
+
+--- Alors, c\'est une autre ?\... Quelle autre donc, que je ne vous ai jamais aperçus ensemble ?
+
+Jean regardait le père Soulas, en se disant que les vieux, dans ces choses, sont parfois de bon conseil. Il céda aussi à un besoin d\'expansion, il lui conta toute l\'affaire, comment il avait eu Françoise, et pourquoi il désespérait de la ravoir, après la batterie avec Buteau. Même, un instant, il avait craint que celui-ci ne le menât en justice, à cause de son bras cassé, qui lui interdisait tout travail, bien qu\'à moitié raccommodé déjà. Mais Buteau, sans doute, avait pensé qu\'il n\'est jamais bon de laisser la justice mettre le nez chez soi.
+
+--- T\'as bouché Françoise, alors ? demanda le berger.
+
+--- Une fois, oui !
+
+Il resta grave, réfléchit, se prononça enfin.
+
+--- Faut aller le dire au père Fouan. Peut-être bien qu\'il te la donnera.
+
+Jean s\'étonna, car il n\'avait pas songé à cette démarche si simple. Le parc était posé, il partit en décidant que, le soir même, il irait voir le vieux. Et, tandis qu\'il s\'éloignait, derrière sa voiture vide, Soulas reprit son éternelle faction, maigre et debout, coupant d\'une barre grise la ligne plate de la plaine. Le petit porcher, entre les deux chiens, s\'était mis à l\'ombre de la cabane roulante. Brusquement, le vent venait de tomber, l\'orage avait coulé vers l\'est ; et il faisait très chaud, le soleil braisillait dans un ciel d\'un bleu pur.
+
+
+--- Bonjour, père Fouan ! crian de la route, d\'une voix mal affermie.
+
+Le vieux était assis dans la cour, une canne entre les jambes, la tête basse. Pourtant, à un second appel, il leva les yeux, finit par reconnaître celui qui parlait.
+
+--- Ah ! c\'est vous, Caporal ! Vous passez donc par ici ?
+
+Et il l\'accueillait si naturellement, sans rancune, que le garçon entra. Mais il n\'osa pas d\'abord lui parler de l\'affaire, son courage s\'en allait, à l\'idée de conter ainsi tout de go la culbute avec Françoise. Ils causèrent du beau temps, du bien que ça faisait à la vigne. Encore huit jours de soleil, et le vin serait bon. Puis, le jeune homme voulut lui être agréable.
+
+--- Vous êtes un vrai bourgeois, il n\'y a pas un propriétaire dans le pays si heureux que vous.
+
+--- Oui, pour sûr.
+
+--- Ah ! quand on a des enfants comme les vôtres, car on irait loin sans en trouver de meilleurs !
+
+--- Oui, oui\... Seulement, vous savez, chacun a son caractère.
+
+Il s\'était assombri davantage. Depuis qu\'il habitait chez les Delhomme, Buteau ne lui payait plus la rente, en disant qu\'il ne voulait pas que son argent allât profiter à sa sœur. Jésus-Christ n\'avait jamais donné un sou, et quant à Delhomme, comme il nourrissait et couchait son beau-père, il avait cessé tout versement. Mais ce n\'était point du manque d\'argent de poche que souffrait le vieux, d\'autant plus qu\'il touchait, chez Me Baillehache, les cent cinquante francs annuels, juste douze francs cinquante par mois, qui lui venaient de la vente de sa maison. Avec cela, il pouvait se payer des douceurs, ses deux sous de tabac chaque matin, sa goutte chez Lengaigne, sa tasse de café chez Macqueron ; car Fanny, très regardante, ne tirait le café et l\'eau-de-vie de son armoire que lorsqu\'on était malade. Et, malgré tout, bien qu\'il eût de quoi s\'amuser au-dehors et qu\'il ne manquât de rien chez sa fille, il s\'y déplaisait, il n\'y vivait maintenant que dans le chagrin.
+
+--- Ah ! dame, oui, reprit Jean, sans savoir qu\'il mettait le doigt sur la plaie vive, lorsqu\'on est chez les autres, on n\'est plus chez soi.
+
+--- C\'est ça, c\'est bien ça ! répéta Fouan d\'une voix qui grondait.
+
+Et, se levant, comme pris d\'un besoin de révolte :
+
+--- Nous allons boire un coup\... J\'ai peut-être le droit d\'offrir un verre à un ami !
+
+Mais, dès le seuil, une peur lui revint.
+
+--- Essuyez vos pieds, Caporal, parce que, voyez-vous, ils font un tas d\'histoires avec la propreté.
+
+Jean entra gauchement, désireux de vider son cœur, avant le retour des maîtres. Il fut surpris du bon ordre de la cuisine : les cuivres luisaient, pas un grain de poussière ne ternissait les meubles, on avait usé le carreau à force de lavages. Cela était net et froid, comme inhabité. Contre un feu couvert de cendre, une soupe aux choux de la veille se tenait chaude.
+
+--- À votre santé ! dit le vieux, qui avait sorti du buffet une bouteille entamée et deux verres.
+
+Sa main tremblait un peu en buvant le sien, dans la crainte de ce qu\'il faisait là. Il le reposa en homme qui a tout risqué, il ajouta brusquement :
+
+--- Si je vous racontais que Fanny ne me parle plus depuis avant-hier, parce que j\'ai craché\... Hein ? cracher ! est-ce que tout le monde ne crache pas ? Je crache, bien sûr, quand j\'en ai envie\... Non, non, autant foutre le camp à la fin, que d\'être taquiné comme ça !
+
+Et, en se versant un nouveau verre, heureux d\'avoir trouvé un confident à qui se plaindre, ne le laissant pas placer un mot, il se soulagea. Ce n\'étaient que de minces griefs, la colère d\'un vieillard dont on ne tolérait point les défauts, qu\'on voulait soumettre trop strictement à des habitudes autres que les siennes. Mais des sévices graves, des mauvais traitements ne lui auraient pas été plus sensibles. Une observation répétée d\'une voix trop vive lui était aussi dure qu\'un soufflet ; et sa fille, avec ça, montrait une susceptibilité outrée, une de ces vanités méfiantes de paysanne honnête, qui se blessait, boudait au moindre mot mal compris ; de sorte que les rapports devenaient chaque jour plus difficiles entre elle et son père. Elle qui, autrefois, lors du partage, était certainement la meilleure, s\'aigrissait, en arrivait à une véritable persécution, toujours derrière le bonhomme, essuyant, balayant, le bousculant pour ce qu\'il faisait et pour ce qu\'il ne faisait pas. Rien de grave, et tout un supplice dont il finissait par pleurer seul, dans les coins.
+
+--- Faut y mettre du sien, répétaian à chaque plainte. Avec de la patience, on s\'entend toujours.
+
+Mais Fouan, qui venait d\'allumer une chandelle, s\'excitait, s\'emportait.
+
+--- Non, non, j\'en ai assez !\... Ah ! si j\'avais su ce qui m\'attendait ici ! J\'aurais mieux fait de crever, le jour où j\'ai vendu ma maison\... Seulement, ils se trompent, s\'ils croient me tenir. J\'aimerais mieux casser des pierres sur la route.
+
+Il suffoqua, il dut s\'asseoir, et le jeune homme en profita pour parler enfin.
+
+--- Dites donc, père Fouan, je voulais vous voir à cause de l\'affaire, vous savez. J\'ai eu bien du regret, j\'ai dû me défendre, n\'est-ce pas ? puisque l\'autre m\'attaquait\... N\'empêche que j\'étais d\'accord avec Françoise, et il n\'y a que vous, à cette heure, qui puissiez arranger ça\... Vous iriez chez Buteau, vous lui expliqueriez la chose.
+
+Le vieux était devenu grave. Il hochait le menton, l\'air embarrassé pour répondre, lorsque le retour des Delhomme lui en évita la peine. Ils ne parurent pas surpris de trouver Jean chez eux, ils lui firent le bon accueil accoutumé. Mais, du premier coup d\'œil, Fanny avait vu la bouteille et les deux verres sur la table. Elle les enleva, alla prendre un torchon. Puis, sans le regarder, elle dit sèchement, elle qui ne lui avait pas adressé la parole depuis quarante-huit heures :
+
+--- Père, vous savez bien que je ne veux pas ça.
+
+Fouan se redressa, tremblant, furieux de cette observation devant du monde.
+
+--- Quoi encore ? Est-ce que, nom de Dieu ! je ne suis pas libre d\'offrir un verre à un ami ?\... Enferme-le, ton vin ! je boirai de l\'eau.
+
+Du coup, ce fut elle qui se vexa horriblement d\'être ainsi accusée d\'avarice. Elle répondit, toute pâle :
+
+--- Vous pouvez boire la maison et en crever, si ça vous amuse\... Ce que je ne veux pas, c\'est que vous salissiez ma table, avec vos verres qui dégoulinent et qui font des ronds, comme au cabaret.
+
+Des larmes étaient montées aux yeux du père. Il eut le dernier mot.
+
+--- Un peu moins de propreté et un peu plus de cœur, ça vaudrait mieux, ma fille.
+
+Et, pendant qu\'elle essuyait rudement la table, il se planta devant la fenêtre, regardant la nuit noire qui était venue, tout secoué du désespoir qu\'il cachait.
+
+Delhomme, évitant de prendre parti, avait simplement appuyé par son silence l\'attitude ferme et sensée de sa femme. Il ne voulut pas laisser partian sans avoir bu un autre coup, dans des verres qu\'elle servit sur des assiettes. Et, à demi-voix, elle s\'excusa posément.
+
+--- On n\'a pas idée du mal qu\'on a avec les vieilles gens ! C\'est plein de manies, de mauvaises habitudes, et ils en crèveraient, plutôt que de se corriger\... Celui-là n\'est point méchant, il n\'en a plus la force. Ça n\'empêche que j\'aimerais mieux avoir quatre vaches à conduire, qu\'un vieux à garder.
+
+Jean et Delhomme l\'approuvaient de la tête. Mais elle fut interrompue par l\'entrée brusque de Nénesse, mis comme un garçon de la ville, en veston et en pantalon de fantaisie, achetés tout faits chez Lambourdieu, coiffé d\'un petit chapeau de feutre dur. Le cou long, la nuque rasée, il se dandinait d\'un air louche de fille, avec ses yeux bleus, sa face molle et jolie. Il avait toujours eu l\'horreur de la terre, il partait le lendemain pour Chartres, où il allait servir chez un restaurateur qui tenait un bal public. Longtemps, les parents s\'étaient opposés à cette désertion de la culture ; mais enfin la mère, flattée, avait décidé le père. Et, depuis le matin, Nénesse noçait avec les camarades du village, pour les adieux.
+
+Un instant, il parut contrarié de trouver là un étranger. Puis, se décidant :
+
+--- Dis donc, mère, je vas leur payer à dîner chez Macqueron. Me faudrait des sous.
+
+Fanny le regarda fixement, la bouche ouverte pour refuser. Mais elle était si vaniteuse, que la présence de Jean la retint. Bien sûr que leur fils pouvait dépenser vingt francs sans les gêner ! Et elle disparut, raide et muette.
+
+--- Tu es donc avec quelqu\'un ? demanda le père à Nénesse.
+
+Il avait aperçu une ombre à la porte. Il s\'avança, et reconnaissant le garçon resté dehors :
+
+--- Tiens ! c\'est Delphin\... Entre donc, mon brave !
+
+Delphin se risqua, saluant, s\'excusant. Lui, était en cotte et en blouse bleues, chaussé de ses gros souliers de labour, sans cravate, la peau déjà cuite par le travail au grand soleil.
+
+--- Et toi, reprit Delhomme qui le tenait en grande estime, est-ce que tu vas partir aussi pour Chartres, un de ces jours ?
+
+Delphin écarquilla les yeux ; puis, violemment :
+
+--- Ah ! nom de Dieu, non ! J\'y claquerais, dans leur ville !
+
+Le père eut, sur son garçon, un regard oblique, tandis que l\'autre continuait, venant au secours du camarade :
+
+--- Bon pour Nénesse d\'aller là-bas, lui qui porte la toilette et qui joue du piston !
+
+Delhomme sourit, car le talent de son fils sur le piston le gonflait d\'orgueil. Fanny, d\'ailleurs, revenait, la main pleine de pièces de quarante sous, et elle en compta dix, longuement, dans celle de Nénesse, des pièces toutes blanches d\'être restées sous un tas de blé. Elle ne se fiait point à son armoire, elle cachait ainsi son argent, par petites sommes, au fond de tous les coins de la maison, dans le grain, dans le charbon, dans le sable ; si bien que, lorsqu\'elle payait, son argent était tantôt d\'une couleur, tantôt d\'une autre, blanc, noir ou jaune.
+
+--- Ça va tout de même, dit Nénesse pour remerciement. Viens-tu, Delphin ?
+
+Et les deux gaillards filèrent, on entendit leurs rires qui s\'éloignaient.
+
+Jean alors vida son verre, en voyant le père Fouan, qui ne s\'était pas retourné pendant la scène, quitter la fenêtre et sortir dans la cour. Il prit congé, il retrouva le vieux debout, au milieu de la nuit noire.
+
+--- Voyons, père Fouan, voulez-vous aller chez Buteau pour m\'avoir Françoise ?\... C\'est vous le maître, vous n\'avez qu\'à parler.
+
+Le vieillard, dans l\'ombre, répétait d\'une voix saccadée :
+
+--- Je ne peux pas\... je ne peux pas\...
+
+Puis, il éclata, il avoua. C\'était fini avec les Delhomme, il s\'en irait le lendemain vivre chez Buteau, qui lui avait offert de le prendre. Si son fils le battait, il souffrirait moins que d\'être tué par sa fille à coups d\'épingle.
+
+Exaspéré de ce nouvel obstacle, Jean parla enfin.
+
+--- Faut que je vous dise, père Fouan, c\'est que nous avons couché, Françoise et moi.
+
+Le vieux paysan eut une simple exclamation.
+
+--- Ah !
+
+Puis, après avoir réfléchi :
+
+--- Est-ce que la fille est grosse ?
+
+Jean, certain qu\'elle ne pouvait l\'être, puisqu\'ils avaient triché, répondit :
+
+--- Possible, tout de même.
+
+--- Alors, il n\'y a qu\'à attendre\... Si elle est grosse, on verra.
+
+À ce moment, Fanny parut sur la porte, appelant son père pour la soupe. Mais il se tourna, il gueula :
+
+--- Tu peux te la foutre au cul, ta soupe ! Je vas dormir.
+
+Et il monta se coucher, le ventre vide, par rage.
+
+Jean reprit le chemin de la ferme, d\'un pas ralenti, si tourmenté de chagrin, qu\'il se retrouva sur le plateau, sans avoir eu conscience de la route. La nuit, d\'un bleu sombre, criblée d\'étoiles, était lourde et brûlante. Dans l\'air immobile, on sentait de nouveau l\'approche, le passage au loin de quelque orage, dont on ne voyait, du côté de l\'est, que des réverbérations d\'éclairs. Et, comme il levait la tête, il aperçut, à gauche, des centaines d\'yeux phosphorescents qui flambaient, pareils à des chandelles, et qui se tournaient vers lui, au bruit de ses pas. C\'étaient les moutons dans leur parc, le long duquel il passait.
+
+La voix lente du père Soulas s\'éleva.
+
+--- Eh bien, garçon ?
+
+Les chiens, étendus à terre, n\'avaient pas bougé, flairant un homme de la ferme. Chassé de la cabane roulante par la chaleur, le petit porcher dormait dans un sillon. Et, seul, le berger restait debout, au milieu de la plaine rase, noyée de nuit.
+
+--- Eh bien, garçon, est-ce fait ?
+
+Sans même s\'arrêter, Jean répondit :
+
+--- Il a dit que, si la fille est grosse, on verra.
+
+Déjà, il avait dépassé le parc, lorsque cette réponse du vieux Soulas lui arriva, grave dans le vaste silence :
+
+--- C\'est juste, faut attendre.
+
+Et il continua sa route. La Beauce, à l\'infini, s\'étendait, écrasée sous un sommeil de plomb. On en sentait la désolation muette, les chaumes brûlés, la terre écorchée et cuite, à une odeur de roussi, à la chanson des grillons qui crépitaient comme des braises dans de la cendre. Seules, des ombres de meules bossuaient cette nudité morne. Toutes les vingt secondes, au ras de l\'horizon, des éclairs traçaient une raie violâtre, rapide et triste.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941847 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941416 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940985 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940554 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940123 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939692 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939261 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938830 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938399 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937968 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937537 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937106 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936675 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936244 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935813 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935382 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934951 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934520 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934089 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368933658 .pcalibre .calibre2 .pcalibre1} {#ii .calibre59 .sigil_not_in_toc}
+
+
+Dès le lendemain, Fouan alla s\'installer chez les Buteau. Le déménagement ne dérangea personne : deux paquets de hardes, que le vieux tint à porter lui-même, et dont il fit deux voyages. Vainement, les Delhomme voulurent provoquer une explication. Il partit, sans répondre un mot.
+
+Chez les Buteau, on lui donna, derrière la cuisine, la grande pièce du rez-de-chaussée, où, jusque-là, on n\'avait serré que la provision de pommes de terre et les betteraves pour les vaches. Le pis était qu\'une lucarne, placée à deux mètres, l\'éclairait seule d\'un jour de cave. Et le sol de terre battue, les tas de légumes, les détritus jetés dans les coins, y entretenaient une humidité qui coulait en larmes jaunes sur le plâtre nu des murailles. D\'ailleurs, on laissa tout, on ne débarrassa qu\'un angle, pour y mettre un lit de fer, une chaise et une table de bois blanc. Le vieux parut enchanté.
+
+Alors, Buteau triompha. Depuis que Fouan était chez les Delhomme, il enrageait de jalousie, car il n\'ignorait pas ce qu\'on disait dans Rognes : bien sûr que ça ne gênait point les Delhomme de nourrir leur père ; tandis que les Buteau, dame ! ils n\'avaient pas de quoi. Aussi, dans les premiers temps, le poussa-t-il à la nourriture, rien que pour l\'engraisser, histoire de prouver qu\'on ne crevait pas de faim chez lui. Et puis, il y avait les cent cinquante francs de rente, provenant de la maison vendue, que le père laisserait certainement à celui de ses enfants qui l\'aurait gardé. D\'autre part, ne l\'ayant plus à sa charge, Delhomme allait sans doute recommencer à lui payer sa part de la rente annuelle, deux cents francs, ce qu\'il fit en effet. Buteau comptait sur ces deux cents francs. Il avait tout calculé, il s\'était dit qu\'il aurait la gloire d\'être un bon fils, en ne rien sortant de sa poche, et avec l\'espérance d\'en être récompensé, plus tard ; sans parler du magot qu\'il soupçonnait toujours au vieux, bien qu\'il ne fût jamais parvenu à avoir une certitude.
+
+Ce fut, pour Fouan, une vraie lune de miel. On le fêtait, on le montrait aux voisins : hein ? quelle mine de prospérité ! avait-il l\'air de dépérir ? Les petits, Laure et Jules, toujours dans ses jambes, l\'occupaient, le chatouillaient au cœur. Mais il était surtout heureux de retourner à ses manies de vieil homme, d\'être plus libre, dans le laisser-aller plus grand de la maison. Quoique bonne ménagère, et propre, Lise n\'avait pas les raffinements ni les susceptibilités de Fanny, et il pouvait cracher partout, sortir, rentrer à sa guise, manger à chaque minute, par cette habitude du paysan qui ne passe pas devant le pain sans y tailler une tartine, au gré des heures de travail. Trois mois s\'écoulèrent ainsi, on était en décembre, des froids terribles gelaient l\'eau de sa cruche, au pied de son lit ; mais il ne se plaignait pas, les dégels même avaient beau tremper la pièce, en faire ruisseler les murs, comme sous une pluie battante, il trouvait ça naturel, il avait vécu dans cette rudesse. Pourvu qu\'il eût son tabac, son café, et qu\'on ne le taquinât point, disait-il, le roi n\'était pas son oncle.
+
+Ce qui commença de gâter les choses, ce fut qu\'un matin de clair soleil, rentrant dans sa chambre chercher sa pipe, lorsqu\'on le croyait déjà sorti, Fouan y trouva Buteau en train de culbuter Françoise sur les pommes de terre. La fille, qui se défendait gaillardement, sans un mot, se ramassa, quitta la pièce, après avoir pris les betteraves qu\'elle y venait chercher pour ses vaches ; et le vieux, resté seul en face de son fils, se fâcha.
+
+--- Sale cochon, avec cette gamine, à côté de ta femme !\... Et elle ne voulait pas, je l\'ai bien vue qui gigotait !
+
+Mais Buteau, encore soufflant, le sang au visage, n\'accepta pas la remontrance.
+
+--- Est-ce que vous avez à y foutre le nez ? Fermez les quinquets, taisez votre bec, ou ça tournera mal !
+
+Depuis les couches de Lise et la bataille avec Jean, Buteau s\'était de nouveau enragé après Françoise. Il avait attendu que son bras cassé fût solide, il sautait sur elle, maintenant, dans tous les coins de la maison, certain que s\'il l\'avait une fois, elle serait ensuite à lui tant qu\'il voudrait. N\'était-ce pas la meilleure façon de reculer le mariage, de garder la fille et de garder la terre ? Ces deux passions arrivaient même à se confondre, l\'entêtement à ne rien lâcher de ce qu\'il tenait, la possession furieuse de ce champ, le rut inassouvi du mâle, fouetté par la résistance. Sa femme devenait énorme, un tas à remuer ; et elle nourrissait, elle avait toujours Laure pendue aux tétines ; tandis que l\'autre, la petite belle-sœur, sentait bon la chair jeune, de gorge aussi élastique et ferme que les pis d\'une génisse. D\'ailleurs, il ne crachait pas plus sur l\'une que sur l\'autre : ça lui en ferait deux, une molle et une dure, chacune agréable dans son genre. Il était assez bon coq pour deux poules, il rêvait une vie de pacha, soigné, caressé, gorgé de jouissance. Pourquoi n\'aurait-il pas épousé les deux sœurs, si elles y consentaient ? Un vrai moyen de resserrer l\'amitié et d\'éviter ce partage des biens, dont il s\'épouvantait, comme si on l\'avait menacé de lui couper un membre !
+
+Et, de là, dans l\'étable, dans la cuisine, partout, dès qu\'ils étaient seuls une minute, l\'attaque et la défense brusques, Buteau se ruant, Françoise cognant. Et toujours la même scène courte et exaspérée : lui, envoyant la main sous la jupe, l\'empoignant là, à nu, en un paquet de peau et de crinière, ainsi qu\'une bête qu\'on veut monter ; elle, les dents serrées, les yeux noirs, le forçant à lâcher prise, d\'un grand coup de poing entre les jambes, en plein. Et pas un mot, rien que leur haleine brûlante, un souffle étouffé, le bruit amorti de la lutte : il retenait un cri de douleur, elle rabattait sa robe, s\'en allait en boitant, le bas-ventre tiré et meurtri, avec la sensation de garder à cette place les cinq doigts qui la trouaient. Et cela, lorsque Lise était dans la pièce d\'à côté, même dans la même pièce, le dos tourné pour ranger le linge d\'une armoire, comme si la présence de sa femme l\'eût excité, certain du silence fier et têtu de la gamine.
+
+Cependant, depuis que le père Fouan les avait vus sur les pommes de terre, des querelles éclataient. Il était allé dire crûment la chose à Lise, pour qu\'elle empêchât son mari de recommencer ; et celle-ci, après lui avoir crié de se mêler de ses affaires, s\'était emportée contre sa cadette : tant pis pour elle, si elle agaçait les hommes ! car autant d\'hommes, autant de cochons, fallait s\'y attendre ! Le soir, pourtant, elle avait fait à Buteau une telle scène que, le lendemain, elle était sortie de leur chambre avec un œil à demi fermé et noir d\'un coup de poing, égaré pendant l\'explication. Dès ce moment, les colères ne cessèrent plus, se gagnèrent des uns aux autres : il y en avait toujours deux qui se mangeaient, le mari et la femme, ou la belle-sœur et le mari, ou la sœur et la sœur, quand les trois n\'étaient pas à se dévorer ensemble.
+
+Ce fut alors que la haine lente, inconsciente, s\'aggrava entre Lise et Françoise. Leur bonne tendresse de jadis en arrivait à une rancune sans raison apparente, qui les heurtait du matin au soir. Au fond, la cause unique était l\'homme, ce Buteau, tombé là comme un ferment destructeur. Françoise, dans le trouble dont il l\'exaspérait, aurait succombé depuis longtemps, si sa volonté ne s\'était bandée contre le besoin de se laisser faire, chaque fois qu\'il la touchait. Elle s\'en punissait durement, entêtée à cette idée simple du juste, ne rien donner d\'elle, ne rien prendre aux autres ; et sa colère était de se sentir jalouse, d\'exécrer sa sœur, parce que celle-ci avait à elle cet homme, près duquel elle-même serait morte d\'envie, plutôt que de partager. Quand il la poursuivait, débraillé, le ventre en avant, elle crachait furieusement sur sa nudité de mâle, elle le renvoyait à sa femme, avec ce crachat : c\'était un soulagement à son désir combattu, comme si elle eût craché au visage de sa sœur, dans le mépris douloureux du plaisir dont elle n\'était pas. Lise, elle, n\'avait point de jalousie, certaine que Buteau s\'était vanté en gueulant qu\'il se servait d\'elles deux ; non qu\'elle le crût incapable de la chose ; mais elle était convaincue que la petite, avec son orgueil, ne céderait pas. Et elle lui en voulait uniquement de ce que ses refus changeaient la maison en un véritable enfer. Plus elle grossissait, plus elle se tassait dans sa graisse, satisfaite de vivre, d\'une gaieté d\'égoïsme rapace, ramenant à elle la joie d\'alentour. Était-ce possible qu\'on se disputât de la sorte, qu\'on se gâtât l\'existence, lorsqu\'on avait tout pour être heureux ! Ah ! la bougresse de gamine, dont le sacré caractère était la seule cause de leurs embêtements !
+
+Chaque soir, quand elle se couchait, elle criait à Buteau :
+
+--- C\'est ma sœur, mais qu\'elle ne recommence pas à m\'aguicher, ou je te la flanque dehors !
+
+Lui, n\'entendait pas de cette oreille.
+
+--- Un joli coup ! tout le pays nous tomberait dessus\... Nom de Dieu de femelles ! c\'est moi qui vas vous foutre à dessaler ensemble dans la mare, pour vous mettre d\'accord !
+
+Deux mois encore se passèrent, et Lise, bousculée, hors d\'elle, aurait sucré deux fois son café, comme elle le disait, sans le trouver bon. Les jours où sa sœur avait repoussé une nouvelle attaque de son homme, elle le devinait à une recrudescence de méchante humeur ; si bien qu\'elle vivait maintenant dans la crainte de ces échecs de Buteau, anxieuse quand il filait sournoisement derrière la jupe de Françoise, certaine de le voir reparaître brutal, cassant tout, torturant la maison. C\'étaient des journées abominables, et elle ne les pardonnait point à la fichue entêtée qui ne faisait rien pour arranger les choses.
+
+Un jour surtout, ce fut terrible. Buteau, qui était descendu à la cave, avec Françoise, tirer du cidre, en remonta si mal arrangé, si rageur, que pour une bêtise, pour sa soupe qui était trop chaude, il lança son assiette contre le mur, puis s\'en alla, en renversant Lise d\'une gifle à tuer un bœuf.
+
+Celle-ci se ramassa, pleurante, saignante, la joue enflée. Et elle se jeta sur sa sœur, elle cria :
+
+--- Salope ! couche avec, à la fin !\... J\'en ai assez, je file, moi ! si tu t\'obstines, pour me faire battre !
+
+Françoise l\'écoutait, saisie, toute pâle.
+
+--- Aussi vrai que Dieu m\'entend, j\'aime mieux ça !\... Il nous fichera la paix peut-être !
+
+Elle était retombée sur une chaise, elle pleurait à petits sanglots ; et toute sa grasse personne qui fondait, disait son abandon, son unique désir d\'être heureuse, même au prix d\'un partage. Du moment qu\'elle garderait sa part, ça ne la priverait de rien. On se faisait des idées bêtes là-dessus, car ce n\'était bien sûr pas comme le pain qui s\'use à être mangé. Est-ce qu\'on n\'aurait pas dû s\'entendre, se serrer les uns contre les autres pour le bon accord, enfin vivre en famille ?
+
+--- Voyons, pourquoi ne veux-tu pas ?
+
+Révoltée, étranglée, Françoise ne trouva que ce cri de colère :
+
+--- Tu es plus dégoûtante que lui !
+
+Elle s\'en alla de son côté sangloter dans l\'étable, où la Coliche la regarda de ses gros yeux troubles. Ce qui l\'indignait, ce n\'était pas la chose en elle-même, c\'était ce rôle de complaisance, le coup de noce toléré, la paix du ménage. Si elle avait eu l\'homme à elle, jamais elle n\'en aurait cédé un bout, pas même grand comme ça ! Sa rancune contre sa sœur devint du mépris, elle se jura d\'y laisser toute la peau de son corps, plutôt que de consentir, à présent.
+
+Mais, dès ce jour, la vie se gâta davantage, Françoise devint le souffre-douleur, la bête sur qui l\'on tapait. Elle était rabaissée au rôle de servante, écrasée de gros travaux, continuellement grondée, bousculée, meurtrie. Lise ne lui tolérait plus une heure de flâne, la faisait sauter du lit avant l\'aube, la gardait si tard, la nuit, que la malheureuse, parfois, s\'endormait, sans avoir la force de se déshabiller. Sournoisement, Buteau la martyrisait de petites privautés, des claques sur les reins, des pinçons aux cuisses, toutes sortes de caresses féroces, qui la laissaient en sang, les yeux pleins de larmes, raidie dans son obstination de silence. Lui, ricanait, s\'y contentait un peu, quand il la voyait défaillir, en retenant le cri de sa chair blessée. Elle en avait le corps bleui, zébré d\'éraflures et de contusions. Devant sa sœur, elle mettait surtout son courage à ne pas même tressaillir, pour nier le fait, comme s\'il n\'eût pas été vrai que ces doigts d\'homme lui fouillaient la peau. Cependant, elle n\'était pas toujours maîtresse de la révolte de ses muscles, elle répondait par un soufflet, à la volée ; et, alors, il y avait des batailles, Buteau la rossait, tandis que Lise, sous prétexte de les séparer, cognait sur les deux, à grands coups de sabot. La petite Laure et son frère Jules poussaient des hurlements. Tous les chiens d\'alentour aboyaient, ça faisait pitié aux voisins. Ah ! la pauvre enfant, elle avait de la constance, de rester dans cette galère !
+
+C\'était, en effet, l\'étonnement de Rognes. Pourquoi Françoise ne se sauvait-elle pas ? Les malins hochaient la tête : elle n\'était point majeure, il lui fallait attendre dix-huit mois ; et se sauver, se mettre dans son tort, sans pouvoir emporter son bien, dame ! elle avait raison d\'y réfléchir à deux fois. Encore si le père Fouan, son tuteur, l\'avait soutenue ! Mais lui-même n\'était guère à la noce, chez son fils. La peur des éclaboussures le faisait se tenir tranquille. D\'ailleurs, la petite lui défendait de s\'occuper de ses affaires, dans une bravoure et une fierté farouches de fille qui ne compte que sur elle.
+
+Désormais, toutes les querelles finissaient par les mêmes injures.
+
+--- Mais fous donc le camp ! fous donc le camp !
+
+--- Oui, c\'est ce que vous espérez\... Autrefois, j\'étais trop bête, je voulais partir\... Maintenant, vous pouvez me tuer, je reste. J\'attends ma part, je veux la terre et la maison, et je les aurai, oui, j\'aurai tout !
+
+La crainte de Buteau, pendant les premiers mois, fut que Françoise se trouvât enceinte des œuvres de Jean. Depuis qu\'il les avait surpris, dans la meule, il calculait les jours, il la surveillait d\'un œil oblique, inquiet de son ventre ; car la venue d\'un enfant aurait tout gâté, en nécessitant le mariage. Elle, tranquille, savait bien qu\'elle ne pouvait être grosse. Mais, quand elle eut remarqué qu\'il s\'intéressait à sa taille, elle s\'en amusa, elle fit exprès de se tenir le ventre en avant, pour lui faire croire qu\'il enflait. Maintenant, dès qu\'il l\'empoignait, elle le sentait qui la tâtait là, qui la mesurait de ses gros doigts ; et elle finit par lui dire, d\'un air de défi :
+
+--- Va, il y en a un ! il pousse !
+
+Un matin même, elle plia des torchons qu\'elle banda sur elle. On faillit se massacrer, le soir. Et une terreur la saisit, aux regards d\'assassin qu\'il lui jetait : bien sûr que, si elle avait eu un vrai petit sous la peau, le brutal lui aurait allongé quelque mauvais coup, pour le tuer. Elle cessa les farces, rentra son ventre. D\'ailleurs, elle le surprit dans sa chambre, le nez dans son linge sale, en train de s\'assurer des choses.
+
+--- Fais-en donc un ! lui dit-il, goguenard.
+
+Et elle répondit, toute pâle, rageuse :
+
+--- Si je n\'en fais pas, c\'est que je ne veux pas.
+
+C\'était vrai, elle se refusait an, avec obstination. Buteau n\'en triompha pas moins bruyamment. Et il tomba sur l\'amoureux : un beau mâle, je t\'en fiche ! il était donc pourri, qu\'il ne pouvait pas faire un enfant ? Ça cassait le bras au monde, par traîtrise ; mais ça n\'était seulement pas capable d\'emplir une fille, tellement ça manquait de nerf ! Dès lors, il poursuivit Françoise d\'allusions, il l\'accabla elle-même de plaisanteries sur le cul de son chaudron qui fuyait.
+
+Lorsquan sut comment le traitait Buteau, il parla de lui casser la gueule ; et il guettait toujours Françoise, il la suppliait de céder : on verrait bien s\'il ne lui collait pas un enfant, et un gros ! Son désir, maintenant, se doublait de colère. Mais, chaque fois, elle trouvait une nouvelle excuse, dans l\'ennui qu\'elle éprouvait à l\'idée de recommencer ça, avec ce garçon. Elle ne le détestait pas, elle n\'avait pas envie de lui, simplement ; et il fallait qu\'elle ne le désirât vraiment guère, pour ne point défaillir et se livrer, lorsqu\'elle tombait entre ses bras, derrière une haie, encore furieuse et rouge d\'une attaque de Buteau. Ah ! le cochon ! Elle ne parlait que de ce cochon-là, passionnée, excitée, tout d\'un coup refroidie, dès que l\'autre voulait profiter et la prendre. Non, non, ça lui faisait honte ! Un jour, poussée à bout, elle le remit à plus tard, au soir de leur mariage. C\'était la première fois qu\'elle s\'engageait, car elle avait évité jusque-là de répondre nettement, quand il la demandait pour femme. Dès lors, ce fut comme entendu : il l\'épouserait, mais après sa majorité, aussitôt qu\'elle serait maîtresse de son bien et qu\'elle pourrait exiger des comptes. Cette bonne raison le frappa, il lui prêcha la patience, il cessa de la tourmenter, excepté dans les moments où l\'idée de rire le tenait trop fort. Elle, soulagée, tranquillisée par le vague de cette échéance lointaine, se contentait de lui saisir les deux mains pour l\'empêcher, en le regardant de ses jolis yeux suppliants, d\'un air de femme susceptible qui ne désirait risquer d\'avoir un petit que de son homme.
+
+Cependant, Buteau, certain qu\'elle n\'était pas enceinte, avait une autre crainte, celle qu\'elle ne le devînt, si elle retournait avec Jean. Il continuait de le défier, et il tremblait, car on lui rapportait de partout que celui-ci jurait d\'emplir Françoise jusqu\'aux yeux, comme jamais fille n\'avait été pleine. Aussi la surveillait-il, du matin au soir, exigeant d\'elle l\'emploi de chacune de ses minutes, la tenant à l\'attache, sous la menace du fouet, ainsi qu\'une bête domestique dont on craint les farces ; et c\'était un supplice nouveau, elle sentait toujours derrière ses jupes son beau-frère ou sa sœur, elle ne pouvait aller au trou à fumier pour un besoin, sans rencontrer un œil qui l\'épiait. La nuit, on l\'enfermait dans sa chambre ; même, un soir, après une dispute, elle avait trouvé un cadenas condamnant le volet de sa lucarne. Puis, comme elle parvenait quand même à s\'échapper, il y avait à son retour d\'abominables scènes, des interrogatoires, parfois des visites, le mari l\'empoignant aux épaules, tandis que la femme la déshabillait à moitié, pour voir. Elle en fut rapprochée de Jean, elle en arriva à lui donner des rendez-vous, heureuse de braver les autres. Peut-être lui aurait-elle cédé enfin, si elle les avait eus là, derrière elle. En tout cas, elle acheva de se promettre, elle lui jura, sur ce qu\'elle avait de plus sacré, que Buteau mentait, lorsqu\'il se vantait de coucher avec les deux sœurs, dans l\'idée de faire le coq et de forcer à être des choses qui n\'étaient pas. Jean, tourmenté d\'un doute, trouvant au fond l\'affaire possible et naturelle, parut la croire. Et, en se quittant, ils s\'embrassèrent, très bons amis, si bien qu\'à partir de ce jour, elle le prit pour confident et conseil, tâchant de le voir à la moindre alerte, ne risquant rien sans son approbation. Lui, ne la touchait plus du tout, la traitait en camarade avec qui l\'on a des intérêts communs.
+
+Maintenant, chaque fois que Françoise courait rejoindran derrière un mur, la conversation était la même. Elle dégrafait violemment son corsage, ou retroussait sa jupe.
+
+--- Tiens ! ce cochon-là m\'a encore pincée.
+
+Il constatait, restait froid et résolu.
+
+--- Ça se paiera, faut montrer ça aux voisines\... Surtout, ne te revenge pas. La justice sera pour nous, quand nous aurons le droit.
+
+--- Et ma sœur tiendrait la chandelle, tu sais ! Est-ce qu\'hier, lorsqu\'il a sauté sur moi, elle n\'a pas filé, au lieu de lui allonger par-derrière un seau d\'eau froide !
+
+--- Ta sœur, elle finira mal avec ce bougre\... Tout ça est bon. Si tu ne veux pas, il ne peut pas, c\'est sûr ; et, quant au reste, qu\'est-ce que ça nous fiche ?\... Soyons d\'accord, il est foutu.
+
+Le père Fouan, bien qu\'il évitât de s\'en mêler, était de toutes les querelles. S\'il se taisait, on le forçait à prendre parti ; s\'il sortait, il retombait au retour dans un ménage en déroute, où sa présence suffisait souvent à rallumer les colères. Jusque-là, il n\'avait pas souffert réellement, physiquement ; tandis que commençaient à cette heure les privations, le pain mesuré, les douceurs supprimées. On ne le bourrait plus de nourriture ainsi qu\'aux premiers jours, chaque tartine coupée trop épaisse lui attirait des paroles dures : quel trou ! moins on travaillait, plus on bâfrait, alors ! Il était guetté, dévalisé, tous les trimestres, quand il revenait de toucher à Cloyes la rente que M. Baillehache lui faisait, sur les trois mille francs de la maison. Françoise en arrivait à voler des sous à sa sœur, pour lui acheter du tabac, car on la laissait, elle aussi, sans argent. Enfin, le vieux se trouvait très mal dans la chambre humide où il couchait, depuis qu\'il avait cassé un carreau de la lucarne, qu\'on avait bouchée avec de la paille, pour éviter la dépense de cette vitre à remettre. Ah ! ces gueux d\'enfants, tous les mêmes ! Il grognait du matin au soir, il regrettait mortellement d\'avoir quitté les Delhomme, désespéré d\'être tombé d\'un mal dans un pire. Mais ce regret, il le cachait, ne le témoignait que par des mots involontaires, car il savait que Fanny avait dit : « Papa, il viendra nous demander à genoux de le reprendre ! » Et c\'était fini, cela lui restait pour toujours, comme une barre obstinée, en travers du cœur. Il serait plutôt mort de faim et de colère chez les Buteau, que de retourner s\'humilier chez les Delhomme.
+
+Justement, un jour que Fouan revenait à pied de Cloyes, après s\'être fait payer sa rente chez le notaire, et qu\'il s\'était assis au fond d\'un fossé, Jésus-Christ, qui flânait par là, visitant des terriers à lapins, l\'aperçut très absorbé, profondément occupé à compter des pièces de cent sous, dans son mouchoir. Il s\'accroupit aussitôt, rampa, arriva au-dessus de son père, sans bruit ; et, là, allongé, il eut la surprise de lui voir nouer soigneusement une grosse somme, peut-être bien quatre-vingts francs : ses yeux flambèrent, un rire silencieux découvrit ses dents de loup. Tout de suite, l\'ancienne idée d\'un magot lui était venue. Évidemment, le vieux avait des titres cachés, dont il touchait les coupons, chaque trimestre, en profitant de sa visite à M. Baillehache. La première pensée de Jésus-Christ fut de larmoyer et d\'arracher vingt francs. Puis, cela lui parut mesquin, un autre plan s\'élargissait dans sa tête, il s\'écarta aussi doucement qu\'il s\'était approché, d\'un glissement souple de couleuvre ; de sorte que Fouan, remonté sur la route, n\'eut aucune méfiance, en le rencontrant cent pas plus loin, avec l\'allure désintéressée d\'un gaillard, qui, lui aussi, rentrait à Rognes. Ils achevèrent le chemin ensemble, ils causèrent, le père tomba fatalement sur les Buteau, des sans-cœur, qu\'il accusait de le faire crever de faim ; et le fils, bonhomme, les yeux mouillés, proposa de le sauver de ces canailles, en le prenant chez lui, à son tour. Pourquoi non ? On ne s\'embêtait pas, on rigolait du matin au soir, chez lui. La Trouille faisait de la cuisine pour deux, elle en ferait pour trois. Une sacrée cuisine, quand il y avait des sous !
+
+Étonné de la proposition, pris d\'une inquiétude vague, Fouan refusa. Non, non, ce n\'était pas à son âge qu\'on se mettait à courir de l\'un chez l\'autre et à changer ses habitudes tous les ans.
+
+--- Enfin, père, c\'est de bon cœur, vous réfléchirez\... Voilà, vous savez toujours que vous n\'êtes pas à la rue. Venez au Château, lorsque vous en aurez assez, de ces crapules !
+
+Et Jésus-Christ le quitta, perplexe, intrigué, se demandant à quoi le vieux pouvait manger ses rentes, puisque, décidément, il en avait. Quatre fois par année, un tas pareil de pièces de cent sous, ça devait faire au moins trois cents francs. S\'il ne les mangeait pas, c\'était donc qu\'il les gardait ? Faudrait voir ça. Un fameux magot, alors !
+
+Ce jour-là, un jour doux et humide de novembre, lorsque le père Fouan rentra, Buteau voulut le dévaliser des trente-sept francs cinquante, qu\'il touchait tous les trois mois, depuis la vente de sa maison. Il était convenu, d\'ailleurs, que le vieux les lui abandonnait, ainsi que les deux cents francs annuels des Delhomme. Mais, cette fois, une pièce de cent sous s\'était égarée parmi celles qu\'il avait nouées dans son mouchoir ; et, quand il eut retourné ses poches et qu\'il n\'en tira que trente-deux francs cinquante, son fils s\'emporta, le traita de filou, l\'accusa d\'avoir fricassé les cinq francs, à de la boisson et à des horreurs. Saisi, la main sur son mouchoir, avec la peur sourde qu\'on ne le visitât, le père bégayait des explications, jurait ses grands dieux qu\'il devait les avoir perdus, en se mouchant. Une fois de plus, la maison fut en l\'air jusqu\'au soir.
+
+Ce qui rendait Buteau d\'une humeur féroce, c\'était qu\'en ramenant sa herse, il avait aperçan et Françoise, fuyant derrière un mur. Celle-ci, sortie sous le prétexte de faire de l\'herbe pour ses vaches, ne reparaissait plus, car elle se doutait de la scène qui l\'attendait. La nuit tombait déjà, et Buteau, furieux, sortait à chaque minute dans la cour, allait jusqu\'à la route, guetter si cette garce-là, enfin, revenait du mâle. Il jurait tout haut, lâchait des ordures, sans voir le père Fouan, qui s\'était assis sur le banc de pierre, après la querelle, se calmant, respirant la douceur tiède, qui faisait de ce novembre ensoleillé un mois de printemps.
+
+Un bruit de sabots monta de la pente, Françoise parut, pliée en deux, les épaules chargées d\'un énorme paquet d\'herbe qu\'elle avait noué dans une vieille toile. Elle soufflait, elle suait, à moitié cachée sous le tas.
+
+--- Ah ! nom de Dieu de traînée ! cria Buteau, si tu crois que tu vas te foutre de moi, à te faire raboter depuis deux heures par ton galant, lorsqu\'il y a de la besogne ici !
+
+Et il la culbuta dans le paquet d\'herbe qui était tombé, il se rua sur elle, juste au moment où Lise, à son tour, sortait de la maison, pour l\'engueuler.
+
+--- Eh ! Marie-dort-en-chiant, arrive donc, que je te colle mon pied dans le derrière !\... Tu n\'as pas honte !
+
+Mais Buteau, déjà, avait empoigné la fille sous la jupe, à pleine main. Son enragement tournait toujours en un coup brusque de désir. Tandis qu\'il la troussait sur l\'herbe, il grognait, étranglé, la face bleuie et gonflée de sang.
+
+--- Sacrée cateau, faut cette fois que j\'y passe à mon tour\... Quand le tonnerre de Dieu y serait, je vas y passer après l\'autre !
+
+Alors, une lutte furieuse s\'engagea. Le père Fouan distinguait mal, dans la nuit. Mais il vit pourtant Lise, debout, qui regardait et laissait faire ; pendant que son homme, vautré, jeté de côté à chaque seconde, s\'épuisait en vain, se satisfaisait quand même, au petit bonheur, n\'importe où.
+
+Quand ce fut fini, Françoise, d\'une dernière secousse, put se dégager, râlante, bégayante.
+
+--- Cochon ! cochon ! cochon !\... Tu n\'as pas pu, ça ne compte pas\... Je m\'en fiche, de ça ! jamais tu n\'y arriveras, jamais !
+
+Elle triomphait, elle avait pris une poignée d\'herbe, et elle s\'en essuyait la jambe, dans un tremblement de tout son corps, comme si elle se fût contentée elle-même un peu, à cette obstination de refus. D\'un geste de bravade, elle jeta la poignée d\'herbe aux pieds de sa sœur.
+
+--- Tiens ! c\'est à toi\... Ce n\'est pas ta faute si je te le rends !
+
+Lise, d\'une gifle, lui fermait la bouche, lorsque le père Fouan, qui avait quitté le banc de pierre, révolté, intervint en brandissant sa canne.
+
+--- Bougres de saligots, tous les deux ! voulez-vous bien la laisser tranquille !\... En v\'là assez, hein ?
+
+Des lumières paraissaient chez les voisins, on commençait à s\'inquiéter de cette tuerie, et Buteau se hâta de pousser son père et la petite au fond de la cuisine, où une chandelle éclairait Laure et Jules terrifiés, réfugiés dans un coin. Lise rentra aussi, saisie et muette depuis que le vieux était sorti de l\'ombre. Il continuait, s\'adressant à elle :
+
+--- Toi, c\'est trop dégoûtant et trop bête\... Tu regardais, je t\'ai vue.
+
+Buteau, de toute sa force, allongea un coup de poing au bord de la table.
+
+--- Silence ! c\'est fini\... Je cogne sur le premier qui continue.
+
+--- Et si je veux continuer, moi ! demanda Fouan, la voix tremblante, est-ce que tu cogneras ?
+
+--- Sur vous comme sur les autres\... Vous m\'embêtez !
+
+Françoise, bravement, s\'était mise entre eux.
+
+--- Je vous en prie, mon oncle, ne vous en mêlez point\... Vous avez bien vu que je suis assez grande fille pour me défendre.
+
+Mais le vieux l\'écarta.
+
+--- Laisse, ça ne te regarde plus\... C\'est mon affaire.
+
+Et, levant sa canne :
+
+--- Ah ! tu cognerais, bandit !\... Faudrait voir si ce n\'est pas à moi de te corriger.
+
+D\'une main prompte, Buteau lui arracha le bâton, qu\'il envoya sous l\'armoire ; et, goguenard, les yeux mauvais, il se planta, lui parla dans le visage.
+
+--- Voulez-vous me foutre la paix, hein ? Si vous croyez que je vas tolérer vos airs, ah ! non ! Regardez-moi donc, pour voir comment je m\'appelle !
+
+Tous les deux, face à face, se turent un instant, terribles, cherchant à se dompter du regard. Le fils, depuis le partage des biens, s\'était élargi, carré sur les jambes, avec ses mâchoires qui avançaient davantage, dans sa tête de dogue, au crâne resserré et fuyant ; tandis que le père, exterminé par ses soixante ans de travail, séché encore, la taille cassée, n\'avait gardé de son visage réduit que le nez immense.
+
+--- Comment tu t\'appelles ? reprit Fouan, je le sais trop, je t\'ai fait.
+
+Buteau ricana.
+
+--- Fallait pas me faire\... Ah ! mais, oui ! ça y est, chacun son tour. Je suis de votre sang, je n\'aime pas qu\'on me taquine. Et encore un coup, foutez-moi la paix, ou ça tournera mal !
+
+--- Pour toi, bien sûr\... Jamais je n\'ai parlé ainsi à mon père.
+
+--- Oh ! là ! là ! en voilà une raide !\... Votre père, vous l\'auriez crevé, s\'il n\'était pas mort !
+
+--- Sale cochon, tu mens !\... Et, nom de Dieu de nom de Dieu ! tu vas ravaler ça tout de suite.
+
+Françoise, une seconde fois, tenta de s\'interposer. Lise elle-même fit un effort, effrayée, désespérée de ce nouveau tracas. Mais les deux hommes les bousculèrent, pour se rapprocher et se souffler leur violence avec leur haleine, sang contre sang, dans ce heurt de la brutale autorité que le père avait léguée au fils.
+
+Fouan voulut se grandir, en essayant de retrouver son ancienne toute-puissance de chef de famille. Pendant un demi-siècle, on avait tremblé sous lui, la femme, les enfants, les bêtes, lorsqu\'il détenait la fortune avec le pouvoir.
+
+--- Dis que tu as menti, sale cochon, dis que tu as menti, ou je vas te faire danser, aussi vrai que cette chandelle nous éclaire !
+
+La main haute, il menaçait, du geste dont il les faisait tous rentrer en terre, autrefois.
+
+--- Dis que tu as menti.
+
+Buteau, qui, au vent de la gifle, dans sa jeunesse, levait le coude et se garait, en claquant des dents, se contenta de hausser les épaules, d\'un air de moquerie insultante.
+
+--- Si vous croyez que vous me faites peur !\... C\'était bon quand vous étiez le maître, des machines comme ça.
+
+--- Je suis le maître, le père.
+
+--- Allons donc, vieux farceur, vous n\'êtes rien du tout\... Ah ! vous ne voulez pas me foutre la paix !
+
+Et, voyant la main vacillante du vieillard s\'abaisser pour taper, il la saisit au vol, il la garda, l\'écrasa dans sa poigne rude.
+
+--- Sacré têtu que vous êtes, faut donc qu\'on se fâche pour vous entrer dans la caboche qu\'on se fiche de vous, à cette heure !\... Est-ce que vous êtes bon à quelque chose ? Vous coûtez, v\'là tout !\... Lorsqu\'on a fait son temps et qu\'on a passé la terre aux autres, on avale sa chique, sans les emmerder davantage !
+
+Il secouait son père, en appuyant sur les mots ; puis, d\'une dernière secousse, il l\'envoya, grelottant, trébuchant, tomber à reculons sur une chaise, près de la fenêtre. Et le vieux resta là, à suffoquer une minute, vaincu, dans l\'humiliation de son ancienne autorité morte. C\'était fini, il ne comptait plus, depuis qu\'il s\'était dépouillé.
+
+Un grand silence régna, tous demeuraient les mains ballantes. Les enfants n\'avaient pas soufflé, de peur des gifles. Puis, la besogne reprit, comme s\'il ne s\'était rien passé.
+
+--- Et l\'herbe ? demanda Lise, est-ce qu\'on la laisse dans la cour ?
+
+--- Je vas la mettre au sec, répondit Françoise.
+
+Lorsqu\'elle fut rentrée et qu\'on eut dîné, Buteau, incorrigible, enfonça la main dans son corsage ouvert, pour chercher une puce, qui la piquait, disait-elle. Cela ne la fâchait plus, elle plaisanta même.
+
+--- Non, non, elle est quelque part où ça te mordrait.
+
+Fouan n\'avait pas bougé, raidi et muet dans son coin d\'ombre. Deux grosses larmes coulaient sur ses joues. Il se rappelait le soir où il avait rompu avec les Delhomme ; et c\'était ce soir-là qui recommençait, la même honte de n\'être plus le maître, la même colère qui le faisait s\'entêter à ne pas manger. On l\'avait appelé trois fois, il refusait sa part de soupe. Brusquement, il se leva, disparut dans sa chambre. Le lendemain, dès l\'aube, il quittait les Buteau, pour s\'installer chez Jésus-Christ.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941848 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941417 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940986 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940555 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940124 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939693 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939262 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938831 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938400 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937969 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937538 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937107 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936676 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936245 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935814 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935383 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934952 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934521 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934090 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368933659 .pcalibre .calibre2 .pcalibre1} {#iii .calibre59 .sigil_not_in_toc}
+
+
+Jésus-Christ était très venteux, de continuels vents soufflaient dans la maison et la tenaient en joie. Non, fichtre ! on ne s\'embêtait pas chez le bougre, car il n\'en lâchait pas un sans l\'accompagner d\'une farce. Il répudiait ces bruits timides, étouffés entre deux cuirs, fusant avec une inquiétude gauche ; il n\'avait jamais que des détonations franches, d\'une solidité et d\'une ampleur de coups de canon ; et, chaque fois, la cuisse levée, dans un mouvement d\'aisance et de crânerie, il appelait sa fille, d\'une voix pressante de commandement, l\'air sévère.
+
+--- La Trouille, vite ici, nom de Dieu !
+
+Elle accourait, le coup partait, faisait balle dans le vide, si vibrant, qu\'elle en sautait.
+
+--- Cours après ! et passe-le entre tes dents, voir s\'il y a des nœuds !
+
+D\'autres fois, quand elle arrivait, il lui donnait sa main.
+
+--- Tire donc, chiffon ! faut que ça craque !
+
+Et, dès que l\'explosion s\'était produite, avec le tumulte et le bouillonnement d\'une mine trop bourrée :
+
+--- Ah ! c\'est dur, merci tout de même !
+
+Ou encore il mettait en joue un fusil imaginaire, visait longuement ; puis, l\'arme déchargée :
+
+--- Va chercher, apporte, feignante !
+
+La Trouille suffoquait, tombait sur son derrière, tant elle riait. C\'était une gaieté toujours renouvelée et grandissante ; elle avait beau connaître le jeu, s\'attendre au tonnerre final, il l\'emportait quand même dans le comique vivace de sa turbulence. Oh ! ce père, était-il assez rigolo ! Tantôt il parlait d\'un locataire qui ne payait pas son terme et qu\'il flanquait dehors ; tantôt il se retournait avec surprise, saluait gravement, comme si la table avait dit bonjour ; tantôt il en avait tout un bouquet, pour M. le curé, pour M. le maire, et pour les dames. On aurait cru que le gaillard tirait de son ventre ce qu\'il voulait, une vraie boîte à musique ; si bien qu\'au *Bon Laboureur*, à Cloyes, on pariait : « Je te paie un verre, si tu en fais six », et il en faisait six, il gagnait à tous coups. Ça tournait à de la gloire, la Trouille en était fière, amusée, se tordant d\'avance, dès qu\'il levait la cuisse, en admiration continuelle devant lui, dans la terreur et la tendresse qu\'il lui inspirait.
+
+Et, le soir de l\'installation du père Fouan au Château, ainsi qu\'on nommait l\'ancienne cave où se terrait le braconnier, dès le premier repas que la fille servit à son père et à son grand-père, debout derrière eux en servante respectueuse, la gaieté sonna ainsi, très haut. Le vieux avait donné cent sous, une bonne odeur se répandait, des haricots rouges et du veau aux oignons, que la petite cuisinait à s\'en lécher les doigts. Comme elle apportait les haricots, elle faillit casser le plat, en se pâmant. Jésus-Christ, avant de s\'asseoir, en lâchait trois, réguliers et claquant sec.
+
+--- Le canon de la fête !\... C\'est pour dire que ça commence !
+
+Puis, se recueillant, il en fit un quatrième, solitaire, énorme et injurieux.
+
+--- Pour ces rosses de Buteau ! qu\'ils se bouchent la gueule avec !
+
+Du coup, Fouan, sombre depuis son arrivée, ricana. Il approuva d\'un branle de la tête. Ça le mettait à l\'aise, on le citait comme un farceur, lui aussi, en son temps ; et, dans sa maison, les enfants avaient grandi, tranquilles au milieu du bombardement paternel. Il posa les coudes sur la table, il se laissa envahir d\'un bien-être, en face de ce grand diable de Jésus-Christ, qui le contemplait, les yeux humides, de son air de canaille bon enfant.
+
+--- Ah ! nom de Dieu ! papa, ce que nous allons nous la couler douce ! Vous verrez mon truc, je me charge de vous désemmerder, moi !\... Quand vous serez à manger la terre avec les taupes, est-ce que ça vous avancera, de vous être refusé un fin morceau ?
+
+Ébranlé dans la sobriété de toute sa vie, ayant le besoin de s\'étourdir, Fouan finit par dire de même.
+
+--- Bien sûr qu\'il vaudrait mieux tout bouffer que de rien laisser aux autres\... À ta santé, mon gars !
+
+La Trouille servait le veau aux oignons. Il y eut un silence, et Jésus-Christ, pour ne pas laisser tomber la conversation, en lança un prolongé, qui traversa la paille de sa chaise avec la modulation chantante d\'un cri humain, Tout de suite, il s\'était tourné vers sa fille, sérieux et interrogateur :
+
+--- Qu\'est-ce que tu dis ?
+
+Elle ne disait rien, elle dut s\'asseoir, en se tenant le ventre. Mais ce qui l\'acheva, ce fut, après le veau et le fromage, l\'expansion dernière du père et du fils, qui s\'étaient mis à fumer et à vider le litre d\'eau-de-vie, posé sur la table. Ils ne parlaient plus, la bouche empâtée, très soûls.
+
+Lentement, Jésus-Christ leva une fesse, tonna, puis regarda la porte, en criant :
+
+--- Entrez !
+
+Alors, Fouan, provoqué, fâché à la longue de ne pas en être, retrouva sa jeunesse, la fesse haute, tonnant à son tour, répondant :
+
+--- Me v\'là !
+
+Tous les deux se tapèrent dans les mains, nez à nez, bavant et rigolant. Elle était bonne. Et c\'en fut de trop pour la Trouille, qui avait glissé par terre, agitée d\'un rire frénétique, au point que, dans les secousses, elle aussi en laissa échapper un, mais léger, fin et musical, comme un son de fifre, à côté des notes d\'orgue des deux hommes.
+
+Indigné, répugné, Jésus-Christ s\'était levé, le bras tendu dans un geste d\'autorité tragique.
+
+--- Hors d\'ici, cochonne !\... Hors d\'ici, puanteur !\... Nom de Dieu ! je vas t\'apprendre à respecter ton père et ton grand-père !
+
+Jamais il ne lui avait toléré cette familiarité. Fallait avoir l\'âge. Et il chassait l\'air de la main, en affectant d\'être asphyxié par ce petit souffle de flûte : les siens, disait-il, ne sentaient que la poudre. Puis, comme la coupable, très rouge, bouleversée de son oubli, niait et se débattait pour ne pas sortir, il la jeta dehors d\'une poussée.
+
+--- Bougre de grande sale, secoue tes jupes !\... Tu ne rentreras que dans une heure, lorsque tu auras pris l\'air.
+
+De ce jour, commença une vraie vie d\'insouciance et de rigolade. On donna au vieux la chambre de la fille, l\'un des compartiments de l\'ancienne cave, coupée en deux par une cloison de planches ; et elle, complaisante, dut se retirer au fond, dans une excavation de la roche, qui formait comme une arrière-pièce, et où s\'ouvraient, disait la légende, d\'immenses souterrains, que des éboulements avaient bouchés. Le pis était que le Château, ce trou à renard, s\'enterrait davantage chaque hiver, lors des grandes pluies, dont le ruissellement sur la pente raide de la côte, roulait les cailloux ; même la masure aurait filé, les fondations antiques, les raccommodages en pierres sèches, si les tilleuls séculaires, plantés au-dessus, n\'avaient tout maintenu de leurs grosses racines. Mais, dès que venait le printemps, c\'était un recoin d\'une fraîcheur charmante, une grotte disparue sous un buisson de ronces et d\'aubépines. L\'églantier qui cachait la fenêtre s\'étoilait de fleurs roses, la porte elle-même avait une draperie de chèvrefeuille sauvage, qu\'il fallait, pour entrer, écarter de la main, ainsi qu\'un rideau.
+
+Sans doute, la Trouille n\'avait pas tous les soirs à cuisiner des haricots rouges et du veau aux oignons. Cela n\'arrivait que lorsqu\'on avait tiré du père une pièce blanche, et Jésus-Christ, sans y mettre de la discrétion, ne le violentait pas, le prenait par la gourmandise et les sentiments pour le dépouiller. On noçait les premiers jours du mois, dès qu\'il avait touché les seize francs de sa pension, chez les Delhomme ; puis, c\'étaient des fêtes à tout casser, chaque trimestre, quand le notaire lui versait sa rente de trente-sept francs cinquante. D\'abord, il ne sortait que des pièces de dix sous, voulant que ça durât, entêté dans son avarice ancienne ; et, peu à peu, il s\'abandonnait aux mains de son grand vaurien de fils, chatouillé, bercé d\'histoires extraordinaires, parfois secoué de larmes, si bien qu\'il lâchait des deux et trois francs, tombant lui-même à la goinfrerie, se disant qu\'il valait mieux tout manger de bon cœur, puisque, tôt ou tard, ce serait mangé. D\'ailleurs, on devait rendre cette justice à Jésus-Christ : il partageait avec le vieux, il l\'amusait au moins, s\'il le volait. Au début, l\'estomac attendri, il ferma les yeux sur le magot, ne tenta point de savoir : son père était libre de jouir à sa guise, on ne pouvait rien lui demander de plus, du moment qu\'il payait des noces. Et des rêveries ne lui venaient sur l\'argent entrevu, caché quelque part, que dans la seconde quinzaine du mois, quand les poches du vieux étaient vides. Pas un liard à en faire sortir. Il grognait contre la Trouille, qui servait des pâtées de pommes de terre sans beurre, il se serrait le ventre, en songeant que c\'était bête en somme de se priver pour enfouir des sous, et qu\'un jour, à la fin, faudrait le déterrer et le claquer, ce magot !
+
+Tout de même, les soirs de misère, lorsqu\'il étirait ses membres de grande rosse, il réagissait contre l\'embêtement, il demeurait expansif et tempétueux, comme s\'il avait bien dîné, ramenant la gaieté d\'une bordée de grosse artillerie.
+
+--- Aux navets, ceux-là ! la Trouille, et du beurre, nom de Dieu !
+
+Fouan ne s\'ennuyait point, même dans ces pénibles fins de mois ; car la fille et le père se mettaient alors en campagne pour emplir la marmite ; et le vieux, entraîné, finissait par en être. Le premier jour où il avait vu la Trouille rapporter une poule, pêchée à la ligne, de l\'autre côté d\'un mur, il s\'était fâché. Ensuite, elle l\'avait fait trop rire, la seconde fois, un matin qu\'elle était cachée dans les feuilles d\'un arbre, laissant pendre, au milieu d\'une bande de canards en promenade, un hameçon appâté de viande, un canard, brusquement, s\'était jeté, avalant tout, la viande, l\'hameçon, la ficelle ; et il avait disparu en l\'air, tiré d\'un coup sec, étouffé, sans un cri. Ce n\'était guère délicat, bien sûr ; mais les bêtes qui vivent dehors, n\'est-ce pas ? ça devrait appartenir à qui les attrape, et tant qu\'on ne vole pas de l\'argent, mon Dieu ! on est honnête. Dès lors, il s\'intéressa aux coups de maraude de cette bougresse, des histoires à ne pas croire, un sac de pommes que le propriétaire l\'avait aidée à porter, des vaches en pâture traites dans une bouteille, jusqu\'au linge des blanchisseuses qu\'elle chargeait de pierres et qu\'elle coulait au fond de l\'Aigre, où elle revenait plonger la nuit, pour le reprendre. On ne voyait qu\'elle par les chemins, ses oies lui étaient un continuel prétexte à battre le pays, guettant une occasion du bord d\'un fossé, pendant des heures, de l\'air endormi d\'une gardeuse qui fait manger son troupeau ; même elle se servait de ses oies, ainsi que de vrais chiens, le jars sifflait et la prévenait, dès qu\'un importun menaçait de la surprendre. Elle avait dix-huit ans à cette heure, et elle n\'était guère plus grande qu\'à douze, toujours souple et mince comme un scion de peuplier, avec sa tête de chèvre, aux yeux verts, fendus de biais, à la bouche large, tordue à gauche. Sous les vieilles blouses de son père, sa petite gorge d\'enfant s\'était durcie sans grossir. Un vrai garçon, qui n\'aimait que ses bêtes, qui se moquait bien des hommes, ce qui ne l\'empêchait pas, quand elle jouait à se taper avec quelque galopin, de finir le jeu sur le dos, naturellement, parce que c\'était fait pour ça et que ça ne tirait point à conséquence. Elle avait la chance d\'en rester aux vauriens de son âge, ce serait devenu tout à fait sale, si les hommes posés, les vieux, la trouvant mal en chair, ne l\'avaient laissée tranquille. Enfin, comme disait le grand-père, amusé et séduit, à part qu\'elle volait trop et qu\'elle manquait un peu de décence, elle était tout de même une drôle de fille, moins rosse qu\'on n\'aurait cru.
+
+Mais Fouan, surtout, s\'égayait à suivre Jésus-Christ, dans ses flâneries de rôdeur à travers les cultures. Au fond de tout paysan, même du plus honnête, il y a un braconnier ; et ça l\'intéressait, les collets tendus, les lignes de fond posées, des inventions de sauvage, une guerre de ruses, une lutte continuelle avec le garde champêtre et les gendarmes. Dès que les chapeaux galonnés et les baudriers jaunes débouchaient d\'une route, filant au-dessus des blés, le père et le fils, couchés sur un talus, semblaient dormir ; puis, tout d\'un coup, à quatre pattes le long du fossé, le fils allait relever les engins, tandis que le père, de son air innocent de bon vieux, continuait de surveiller les baudriers et les chapeaux décroissants. Dans l\'Aigre, il y avait des truites superbes, qu\'on vendait des quarante et cinquante sous à un marchand de Châteaudun ; le pis était qu\'il fallait les guetter pendant des heures, à plat ventre sur l\'herbe, tant elles avaient de malice. Souvent aussi on poussait jusqu\'au Loir, dont les fonds de vase nourrissent de belles anguilles. Jésus-Christ, lorsque ses lignes n\'amenaient rien, avait imaginé une pêche commode, qui était de dévaliser, la nuit, les boutiques à poisson des bourgeois riverains. Ce n\'était d\'ailleurs là qu\'un amusement, toute sa fièvre de passion était à la chasse. Les ravages qu\'il y faisait s\'étendaient à plusieurs lieues ; et il ne dédaignait rien, les cailles après les perdreaux, même les sansonnets après les alouettes. Rarement il employait le fusil, dont la détonation porte loin en pays plat. Pas une couvée de perdreaux ne s\'élevait dans les luzernes et les trèfles sans qu\'il la connût, si bien qu\'il savait l\'endroit et l\'heure où les petits, lourds de sommeil, trempés de rosée, se laissaient prendre à la main. Il avait des gluaux perfectionnés pour les alouettes et les cailles, il tapait à coups de pierres dans les épaisses nuées de sansonnets, que semblent apporter les grands vents d\'automne. Depuis vingt ans qu\'il exterminait ainsi le gibier de la contrée, on ne voyait plus un lapin, parmi les broussailles des coteaux de l\'Aigre, ce qui enrageait les chasseurs. Et les lièvres seuls lui échappaient, assez rares du reste, filant librement en plaine, où il était dangereux de les poursuivre. Oh ! les quelques lièvres de la Borderie, il en rêvait, il risquait la prison, pour en bouler un de temps à autre, d\'un coup de feu. Fouan, lorsqu\'il le voyait prendre son fusil, ne l\'accompagnait pas : c\'était trop bête, il finirait sûrement par être pincé.
+
+La chose arriva donc, naturellement. Il faut dire que le fermier Hourdequin, exaspéré de la destruction du gibier, sur son domaine, donnait à Bécu les ordres les plus sévères ; et celui-ci, se vexant de n\'empoigner jamais personne, dormait dans une meule, pour voir. Or, un matin, au petit jour, un coup de fusil, dont la flamme lui passa sur le visage, l\'éveilla en sursaut. C\'était Jésus-Christ, à l\'affût derrière le tas de paille, qui venait de tuer un lièvre, presque à bout portant.
+
+--- Ah ! nom de Dieu, c\'est toi ! cria le garde champêtre, en s\'emparant du fusil que l\'autre avait posé contre la meule, pour ramasser le lièvre. Ah ! canaille, j\'aurais dû m\'en douter !
+
+Au cabaret, ils couchaient ensemble ; mais, dans les champs, ils ne pouvaient se rencontrer sans péril, l\'un toujours sur le point de pincer l\'autre, et celui-ci décidé à casser la gueule à celui-là.
+
+--- Eh bien oui, c\'est moi, et je t\'emmerde !\... Rends-moi mon fusil.
+
+Déjà, Bécu était ennuyé de sa prise. D\'habitude, il tirait volontiers à droite, quand il apercevait Jésus-Christ à gauche. À quoi bon se mettre dans une vilaine histoire avec un ami ? Mais, cette fois, le devoir était là, impossible de fermer les yeux. Et, d\'ailleurs, on est poli au moins lorsqu\'on est en faute.
+
+--- Ton fusil, salop ! je le garde, je vas le déposer à la mairie\... Et ne bouge pas, ne fais pas le malin, ou je te lâche l\'autre coup dans les tripes !
+
+Jésus-Christ, désarmé, enragé, hésita à lui sauter à la gorge. Puis, quand il le vit se diriger vers le village, il se mit à le suivre, tenant toujours son lièvre, qui se balançait au bout de son bras. L\'un et l\'autre firent un kilomètre sans se parler, en se jetant des regards féroces. Un massacre, à chaque minute, semblait inévitable ; et, pourtant, leur ennui à tous deux grandissait. Quelle fichue rencontre !
+
+Comme ils arrivaient derrière l\'église, à deux pas du Château, le braconnier tenta un dernier effort.
+
+--- Voyons, fais pas la bête, vieux\... Entre boire un verre à la maison.
+
+--- Non, faut que je verbalise, répondit le garde champêtre d\'un ton raide.
+
+Et il s\'entêta, en ancien militaire qui ne connaissait que sa consigne. Cependant, il s\'était arrêté, il finit par dire, comme l\'autre lui empoignait le bras, pour l\'emmener :
+
+--- Si t\'as de l\'encre et une plume, tout de même\... Chez toi ou ailleurs, je m\'en fous, pourvu que le papier soit fait.
+
+Lorsque Bécu arriva chez Jésus-Christ, le soleil se levait, le père Fouan, qui fumait déjà sa pipe sur la porte, comprit et s\'inquiéta ; d\'autant plus que les choses restaient très graves : on déterra l\'encre et une vieille plume rouillée, le garde champêtre commença à chercher ses phrases, d\'un air de contention terrible, les coudes écartés. Mais, en même temps, sur un mot de son père, la Trouille avait servi trois verres et un litre ; et, dès la cinquième ligne, Bécu, épuisé, ne se retrouvant plus dans le récit compliqué des faits, accepta une rasade. Alors, peu à peu, la situation se détendit. Un second litre parut, puis un troisième. Deux heures plus tard, les trois hommes se parlaient violemment et amicalement dans le nez : ils étaient très soûls, ils avaient totalement oublié l\'affaire du matin.
+
+--- Sacré cocu, criait Jésus-Christ, tu sais que je couche avec ta femme.
+
+C\'était vrai. Depuis la fête il culbutait la Bécu dans les coins, tout en la traitant de vieille peau, sans délicatesse. Mais Bécu, qui avait le vin mauvais, se fâcha. S\'il tolérait la chose à jeun, elle le blessait quand il était ivre. Il brandit un litre vide, il gueula :
+
+--- Nom de Dieu de cochon !
+
+Le litre s\'écrasa contre le mur, il manqua Jésus-Christ, qui bavait, d\'un sourire doux et noyé. Pour apaiser le cocu, on décida qu\'on allait rester ensemble, à manger le lièvre tout de suite. Quand la Trouille faisait un civet, la bonne odeur s\'en répandait jusqu\'à l\'autre bout de Rognes. Ce fut une rude fête, et qui dura la journée. Ils étaient encore à table, resuçant les os, lorsque la nuit tomba. On alluma deux chandelles, et ils continuèrent. Fouan retrouva trois pièces de vingt sous, pour envoyer la petite acheter un litre de cognac. Les gens dormaient dans le pays, qu\'ils sirotaient toujours. Et Jésus-Christ, dont la main tâtonnante cherchait continuellement du feu, rencontra le procès-verbal commencé, qui était resté sur un coin de la table, taché de vin et de sauce.
+
+--- Ah ! c\'est vrai, faut le finir ! bégaya-t-il, le ventre secoué d\'un rire d\'ivrogne.
+
+Il regardait le papier, méditait une farce, quelque chose où il mettrait tout son mépris de l\'écriture et de la loi. Brusquement, il leva la cuisse, glissa le papier, bien en face, en lâcha un dessus, épais et lourd, un de ceux dont il disait que le mortier était au bout.
+
+--- Le v\'là signé !
+
+Tous, Bécu lui-même, rigolèrent. Ah ! on ne s\'embêta pas, cette nuit-là, au Château !
+
+Ce fut vers cette époque que Jésus-Christ fit un ami. Comme il se terrait un soir dans un fossé, pour laisser passer les gendarmes, il trouva au fond un gaillard, qui occupait déjà la place, peu désireux d\'être vu ; et l\'on causa. C\'était un bon bougre, Leroi, dit Canon, un ouvrier charpentier, qui avait lâché Paris depuis deux ans, à la suite d\'histoires ennuyeuses, et qui préférait vivre à la campagne, roulant de village en village, faisant huit jours ici, huit jours plus loin, allant d\'une ferme à une autre s\'offrir, quand les patrons ne voulaient pas de lui. Maintenant, le travail ne marchait plus, il mendiait le long des routes, il vivait de légumes et de fruits volés, heureux lorsqu\'on lui permettait de dormir dans une meule. À la vérité, il n\'était guère fait pour inspirer la confiance, en loques, très sale, très laid, ravagé de misère et de vices, le visage si maigre et si blême, hérissé d\'une barbe rare, que les femmes, rien qu\'à le voir, fermaient les portes. Ce qui était pis, il tenait des discours abominables, il parlait de couper le cou aux riches, de nocer un beau matin à s\'en crever la peau, avec les femmes et le vin des autres : menaces lâchées d\'une voix sombre, les poings tendus, théories révolutionnaires apprises dans les faubourgs parisiens, revendications sociales coulant en phrases enflammées, dont le flot stupéfiait et épouvantait les paysans. Depuis deux années, les gens des fermes le voyaient arriver ainsi, à la tombée du jour, demandant un coin de paille pour coucher ; il s\'asseyait près du feu, il leur glaçait à tous le sang, par les paroles effrayantes qu\'il disait ; puis, le lendemain, il disparaissait, pour reparaître huit jours plus tard, à la même heure triste du crépuscule, avec les mêmes prophéties de ruine et de mort. Et c\'était pourquoi on le repoussait de partout, désormais, tant la vision de cet homme louche traversant la campagne laissait de terreur et de colère derrière elle.
+
+Tout de suite, Jésus-Christ et Canon s\'étaient entendus.
+
+--- Ah ! nom de Dieu ! cria le premier, ce que j\'ai eu tort, en 48, de ne pas les saigner tous, à Cloyes !\... Allons, vieux, faut boire un litre !
+
+Il l\'emmena au Château, il le fit coucher le soir avec lui, pris de déférence, à mesure que l\'autre parlait, tellement il le sentait supérieur, sachant des choses, ayant des idées pour refaire d\'un coup la société. Le surlendemain, Canon s\'en alla. Deux semaines plus tard, il revint, repartit au petit jour. Et, dès lors, de temps à autre, il tomba au Château, mangea, ronfla, comme chez lui, jurant à chaque apparition que les bourgeois seraient nettoyés avant trois mois. Une nuit que le père était à l\'affût, il voulut culbuter la fille ; mais la Trouille, indignée, rouge de honte, le griffa et le mordit si profondément, qu\'il dut la lâcher. Pour qui donc la prenait-il, ce vieux-là ? Il la traita de grande serine.
+
+Fouan, non plus, n\'aimait guère Canon, qu\'il accusait d\'être un fainéant et de vouloir des choses à finir sur l\'échafaud. Quand ce brigand était là, le vieux en devenait tout triste, à ce point qu\'il préférait fumer sa pipe dehors. D\'ailleurs, la vie de nouveau se gâtait pour lui, il ne godaillait plus si volontiers chez son fils, depuis que toute une fâcheuse histoire les divisait. Jusque-là, Jésus-Christ n\'avait vendu les terres de son lot, lopins à lopins, qu\'à son frère Buteau et à son beau-frère Delhomme ; et, chaque fois, Fouan, dont la signature était nécessaire, l\'avait donnée sans rien dire, du moment que le bien restait dans la famille. Mais voilà qu\'il s\'agissait d\'un dernier champ, sur lequel le braconnier avait emprunté, un champ que le prêteur parlait de faire mettre aux enchères, parce qu\'il ne touchait pas un sou des intérêts convenus. M. Baillehache, consulté, avait dit qu\'il fallait vendre soi-même, et tout de suite, si l\'on ne voulait pas être dévoré par les frais. Le malheur était que Buteau et Delhomme refusaient d\'acheter, furieux de ce que le père se laissât manger la peau chez sa grande fripouille d\'aîné, résolus à ne s\'occuper de rien, tant qu\'il vivrait là. Et le champ allait être vendu par autorité de justice, le papier timbré marchait bon train, c\'était la première pièce de terre qui sortait de la famille. Le vieux n\'en dormait plus. Cette terre que son père, son grand-père, avaient convoitée si fort et si durement gagnée ! cette terre possédée, gardée jalousement comme une femme à soi ! la voir s\'émietter ainsi dans les procès, se déprécier, passer aux bras d\'un autre, d\'un voisin, pour la moitié de son prix ! Il en frémissait de rage, il en avait le cœur si crevé, qu\'il en sanglotait comme un enfant. Ah ! ce cochon de Jésus-Christ !
+
+Il y eut des scènes terribles entre le père et le fils. Ce dernier ne répondait pas, laissait l\'autre s\'épuiser en reproches et en gémissements, debout, tragique, hurlant sa peine.
+
+--- Oui, t\'es un assassin, c\'est comme si tu prenais un couteau, vois-tu, et que tu m\'enlèves un morceau de viande\... Un champ si bon, qu\'il n\'y en a pas de meilleur ! un champ où tout pousse, rien qu\'à souffler dessus !\... Faut-il que tu sois feignant et lâche, pour ne pas te casser la gueule, plutôt que de l\'abandonner à un autre\... Nom de Dieu de nom de Dieu ! à un autre ! c\'est cette idée-là, moi, qui me retourne le sang ! Tu n\'en as donc pas, de sang, bougre d\'ivrogne !\... Et tout ça, parce que tu l\'as bue, la terre, sacré jean-foutre de noceur, salop, cochon !
+
+Puis, lorsque le père s\'étranglait et tombait de fatigue, le fils répondait tranquillement :
+
+--- Que c\'est donc bête, vieux, de vous tourmenter comme ça ! Tapez sur moi, si ça vous soulage ; mais vous n\'êtes guère philosophe, ah ! non\... Eh bien, quoi ! on ne la mange pas, la terre ! Si l\'on vous en servait un plat, vous feriez une drôle de gueule. J\'ai emprunté dessus, parce que c\'est ma façon, à moi, d\'y faire pousser des pièces de cent sous. Et puis, on la vendra, on a bien vendu mon patron Jésus-Christ ; et, s\'il nous revient quelques écus, on les boira donc, v\'là la vraie sagesse !\... Ah ! mon Dieu, on a le temps d\'être mort et de l\'avoir à soi, la terre !
+
+Mais où le père et le fils s\'entendaient, c\'était dans leur haine de l\'huissier, le sieur Vimeux, un petit huissier minable, qu\'on chargeait des corvées dont son confrère de Cloyes ne voulait pas, et qui se hasarda un soir à venir déposer au Château une signification de jugement. Vimeux était un bout d\'homme très malpropre, un paquet de barbe jaune, d\'où ne sortaient qu\'un nez rouge et des yeux chassieux. Toujours vêtu en monsieur, un chapeau, une redingote, un pantalon noirs, abominables d\'usure et de taches, il était célèbre dans le canton, pour les terribles raclées qu\'il recevait des paysans, chaque fois qu\'il se trouvait obligé d\'instrumenter contre eux, loin de tout secours. Des légendes couraient, des gaules cassées sur ses épaules, des bains forcés au fond des mares, une galopade de deux kilomètres à coups de fourche, une fessée administrée par la mère et la fille, culotte bas.
+
+Justement, Jésus-Christ rentrait avec son fusil ; et le père Fouan, qui fumait sa pipe, assis sur un tronc d\'arbre, lui dit, dans un grognement de colère :
+
+--- Voilà le déshonneur que tu nous amènes, vaurien !
+
+--- Attendez voir ! murmura le braconnier, les dents serrées.
+
+Mais, en l\'apercevant avec un fusil, Vimeux s\'était arrêté net, à une trentaine de pas. Toute sa lamentable personne, noire, sale et correcte, tremblait de peur.
+
+--- Monsieur Jésus-Christ, dit-il d\'une petite voix grêle, je viens pour l\'affaire, vous savez\... Et je mets ça là. Bien le bonsoir !
+
+Il avait déposé le papier timbré sur une pierre, il s\'en allait déjà à reculons, vivement, lorsque l\'autre cria :
+
+--- Nom de Dieu de chieur d\'encre, faut-il qu\'on t\'apprenne la politesse !\... Veux-tu bien m\'apporter ton papier !
+
+Et, comme le misérable, immobilisé, effaré, n\'osait plus ni avancer, ni reculer d\'une semelle, il le mit en joue.
+
+--- Je t\'envoie du plomb, si tu ne te dépêches pas\... Allons, reprends ton papier, et arrive\... Plus près, plus près, mais plus près donc, foutu capon, ou je tire !
+
+Glacé, blême, l\'huissier chancelait sur ses courtes jambes. Il implora d\'un regard le père Fouan. Celui-ci continuait de fumer tranquillement sa pipe, dans sa rancune féroce contre les frais de justice et l\'homme qui les incarne, aux yeux des paysans.
+
+--- Ah ! nous y sommes enfin, ce n\'est pas malheureux. Donne-moi ton papier. Non ! pas du bout des doigts, comme à regret. Poliment, nom de Dieu ! et de bon cœur\... Là ! tu es gentil.
+
+Vimeux, paralysé par les ricanements de ce grand bougre, attendait en battant des paupières, sous la menace de la farce, du coup de poing ou de la gifle, qu\'il sentait venir.
+
+--- Maintenant, retourne-toi.
+
+Il comprit, ne bougea pas, serra les fesses.
+
+--- Retourne-toi ou je te retourne !
+
+Il vit bien qu\'il fallait se résigner. Lamentable, il se tourna, il présenta de lui-même son pauvre petit derrière de chat maigre. L\'autre, alors, prenant son élan, lui planta son pied au bon endroit, si raide, qu\'il l\'envoya tomber sur le nez, à quatre pas. Et l\'huissier, qui se relevait péniblement, se mit à galoper, éperdu, en entendant ce cri :
+
+--- Attention ! je tire !
+
+Jésus-Christ venait d\'épauler. Seulement, il se contenta de lever la cuisse, et, pan ! il en fit claquer un, d\'une telle sonorité, que, terrifié par la détonation, Vimeux s\'étala de nouveau. Cette fois, son chapeau noir avait roulé parmi les cailloux. Il le suivit, le ramassa, courut plus fort. Derrière lui, les coups de feu continuaient, pan ! pan ! pan ! sans un arrêt, une vraie fusillade, au milieu de grands rires, qui achevaient de le rendre imbécile. Lancé sur la pente ainsi qu\'un insecte sauteur, il était à cent pas déjà, que les échos du vallon répétaient encore la canonnade de Jésus-Christ. Toute la campagne en était pleine, et il y en eut un dernier, formidable, lorsque l\'huissier, rapetissé à la taille d\'une fourmi, là-bas, disparut dans Rognes. La Trouille, accourue au bruit, se tenait le ventre, par terre, en gloussant comme une poule. Le père Fouan avait retiré sa pipe de la bouche, afin de rire plus à l\'aise. Ah ! ce nom de Dieu de Jésus-Christ ! quel pas grand-chose ! mais bien rigolo tout de même !
+
+La semaine suivante, il fallut cependant que le vieux se décidât à donner sa signature, pour la vente de la terre. M. Baillehache avait un acquéreur, et le plus sage était de suivre son conseil. Il fut donc décidé que le père et le fils iraient à Cloyes, le troisième samedi de septembre, veille de la Saint-Lubin, l\'une des deux fêtes de la ville. Justement, le père qui, depuis juillet, avait à toucher chez le percepteur la rente des titres qu\'il cachait, comptait profiter du voyage, en égarant son fils au milieu de la fête. On irait et on reviendrait de même, en carrosse dans ses souliers.
+
+Comme Fouan et Jésus-Christ, à la porte de Cloyes, attendaient qu\'un train eût passé, debout devant la barrière fermée du passage à niveau, ils furent rejoints par Buteau et Lise, qui arrivaient dans leur carriole. Tout de suite, une querelle éclata entre les deux frères, ils se couvrirent d\'injures jusqu\'à ce que la barrière fût ouverte ; et même, emporté de l\'autre côté, à la descente, par son cheval, Buteau se retournait, la blouse gonflée de vent, pour crier encore des choses qui n\'étaient pas à dire.
+
+--- Va donc, feignant, je nourris ton père ! gueula Jésus-Christ de toute sa force, en se faisant un porte-voix de ses deux mains.
+
+Rue Grouaise, chez M. Baillehache, Fouan passa un fichu moment ; d\'autant plus que l\'étude était envahie, tout le monde utilisant le jour du marché, et qu\'il dut attendre près de deux heures. Ça lui rappela le samedi où il était venu décider le partage : bien sûr que, ce samedi-là, il aurait mieux fait d\'aller se pendre. Quand le notaire les reçut enfin, et qu\'il fallut signer, le vieux chercha ses lunettes, les essuya ; mais ses yeux pleins d\'eau les brouillaient, sa main tremblait, si bien qu\'on fut obligé de lui poser les doigts sur le papier, au bon endroit, pour qu\'il y mît son nom, dans un pâté d\'encre. Ça lui avait tellement coûté, qu\'il en suait, hébété, grelottant, regardant autour de lui, comme après une opération, quand on vous a coupé la jambe et qu\'on la cherche. M. Baillehache sermonnait sévèrement Jésus-Christ ; et il les renvoya en dissertant sur la loi : la démission de biens était immorale, on arriverait certainement à en élever les droits, pour l\'empêcher de se substituer à l\'héritage.
+
+Dehors, dans la rue Grande, à la porte du *Bon Laboureur*, Fouan lâcha Jésus-Christ, au milieu du tumulte du marché ; et, d\'ailleurs, celui-ci, qui ricanait en dessous, y mit de la complaisance, se doutant bien de quelle affaire il s\'agissait. Tout de suite, en effet, le vieux fila rue Beaudonnière, où M. Hardy, le percepteur, habitait une petite maison gaie, entre cour et jardin. C\'était un gros homme coloré et jovial, à la barbe noire bien peignée, redouté des paysans, qui l\'accusaient de les étourdir avec des histoires. Il les recevait dans un étroit bureau, une pièce coupée en deux par une balustrade, lui d\'un côté et eux de l\'autre. Souvent, il y en avait là une douzaine, debout, serrés, empilés. Pour le moment, il ne s\'y trouvait tout juste que Buteau, qui arrivait.
+
+Jamais Buteau ne se décidait à payer ses contributions d\'un coup. Lorsqu\'il recevait le papier, en mars, c\'était de la mauvaise humeur pour huit jours. Il épluchait rageusement le foncier, la taxe personnelle, la taxe mobilière, l\'impôt des portes et fenêtres ; mais ses grandes colères étaient les centimes additionnels qui montaient d\'année en année, disait-il. Puis, il attendait de recevoir une sommation sans frais. Ça lui faisait toujours gagner une semaine. Il payait ensuite par douzième, chaque mois, en allant au marché ; et, chaque mois, la même torture recommençait, il en tombait malade la veille, il apportait son argent comme il aurait apporté son cou à couper. Ah ! ce sacré gouvernement ! en voilà un qui volait le monde !
+
+--- Tiens ! c\'est vous, dit gaillardement M. Hardy. Vous faites bien de venir, j\'allais vous faire des frais.
+
+--- Il n\'aurait plus manqué que ça ! grogna Buteau. Et vous savez que je ne paie pas les six francs dont vous m\'avez augmenté le foncier\... Non, non, ce n\'est pas juste !
+
+Le percepteur se mit à rire.
+
+--- Si, chaque mois, vous chantez cet air-là ! Je vous ai déjà expliqué que votre revenu avait dû s\'accroître avec vos plantations, sur votre ancien pré de l\'Aigre. Nous nous basons là-dessus, nous autres !
+
+Mais Buteau se débattit violemment. Ah ! oui, son revenu s\'accroître ! C\'était comme son pré, autrefois de soixante-dix ares, qui n\'en avait plus que soixante-huit, depuis que la rivière, en se déplaçant, lui en avait mangé deux : eh bien ! il payait toujours pour les soixante-dix, est-ce que c\'était de la justice, ça ? M. Hardy répondit tranquillement que les questions cadastrales ne le regardaient pas, qu\'il fallait attendre qu\'on refît le cadastre. Et, sous prétexte de reprendre ses explications, il l\'accabla de chiffres, de mots techniques auxquels l\'autre ne comprenait rien. Puis, de son air goguenard, il conclut :
+
+--- Après tout, ne payez pas, je m\'en fiche, moi ! Je vous enverrai l\'huissier.
+
+Effrayé, ahuri, Buteau rentra sa rage. Quand on n\'est pas le plus fort, faut bien céder ; et sa haine séculaire venait encore de grandir avec sa peur, contre ce pouvoir obscur et compliqué qu\'il sentait au-dessus de lui, l\'administration, les tribunaux, ces feignants de bourgeois, comme il disait. Lentement, il sortit sa bourse. Ses gros doigts tremblaient, il avait reçu beaucoup de sous au marché, et il tâtait chaque sou avant de le poser devant lui. Trois fois, il refit son compte, tout en sous, ce qui lui déchirait le cœur davantage, d\'avoir à en donner un si gros tas. Enfin, les yeux troubles, il regardait le percepteur encaisser la somme, lorsque le père Fouan parut.
+
+Le vieux n\'avait pas reconnu le dos de son fils, et il resta saisi, quand celui-ci se retourna.
+
+--- Et ça va bien, monsieur Hardy ? bégaya-t-il, je passais, j\'ai eu l\'idée de vous dire un petit bonjour\... On ne se voit quasiment plus\...
+
+Buteau ne fut pas dupe. Il salua, s\'en alla d\'un air pressé ; et, cinq minutes plus tard, il rentrait, comme pour demander un renseignement oublié, au beau moment où le percepteur, payant les coupons, étalait devant le vieux un trimestre, soixante-quinze francs, en pièces de cent sous. Son œil flamba, mais il évita de regarder son père, feignant de ne pas l\'avoir vu jeter son mouchoir sur les pièces, puis les pêcher comme dans un coup d\'épervier, et les engloutir au fond de sa poche. Cette fois, ils sortirent ensemble, Fouan très perplexe, coulant vers son fils des regards obliques, Buteau, de belle humeur, repris d\'une brusque affection. Il ne le lâchait plus, voulait le ramener dans sa carriole ; et il l\'accompagna jusqu\'au *Bon Laboureur.*
+
+Jésus-Christ était là avec le petit Sabot, de Brinqueville, un vigneron, un autre farceur renommé, qui ventait, lui aussi, à faire tourner les moulins. Donc, tous les deux, se rencontrant, venaient de parier dix litres, à qui éteindrait le plus de chandelles. Excités, secoués de gros rires, des amis les avaient accompagnés dans la salle du fond. On faisait cercle, l\'un fonctionnait à droite, l\'autre à gauche, culotte bas, le derrière braqué, éteignant chacun la sienne, à tous coups. Pourtant, Sabot en était à dix et Jésus-Christ à neuf, ayant une fois manqué d\'haleine. Il s\'en montrait très vexé, sa réputation était en jeu. Hardi là ! est-ce que Rognes se laisserait battre par Brinqueville ? Et il souffla comme jamais soufflet de forge n\'avait soufflé : neuf ! dix ! onze ! douze ! Le tambour de Cloyes qui rallumait la chandelle, faillit lui-même être emporté. Sabot, péniblement, arrivait à dix, vidé, aplati, lorsque Jésus-Christ, triomphant, en lâcha deux encore, en criant au tambour de les allumer, ceux-là, pour le bouquet. Le tambour les alluma, ils brûlèrent jaune, d\'une belle flamme jaune, couleur d\'or, qui monta comme un soleil dans sa gloire.
+
+--- Ah ! ce nom de Dieu de Jésus-Christ ! Quel boyau ! à lui la médaille !
+
+Les amis gueulaient, rigolaient à se fendre les mâchoires. Il y avait de l\'admiration et de la jalousie au fond, car tout de même fallait être solidement bâti, pour en contenir tant, et en pousser à volonté. On but les dix litres, ça dura deux heures, sans qu\'on parlât d\'autre chose.
+
+Buteau, pendant que son frère se reculottait, lui avait allongé une claque amicale sur la fesse ; et la paix semblait se faire, dans cette victoire qui flattait la famille. Rajeuni, le père Fouan contait une histoire de son enfance, du temps où les Cosaques étaient en Beauce : oui, un Cosaque qui s\'était endormi, la bouche ouverte, au bord de l\'Aigre, et dans la gueule duquel il en avait collé un, à l\'empâter jusqu\'aux cheveux. Le marché finissait, tous s\'en allèrent, très soûls.
+
+Il arriva alors que Buteau ramena dans sa carriole Fouan et Jésus-Christ. Lise, elle aussi, à qui son homme avait causé bas, se montra gentille. On ne se mangeait plus, on choyait le père. Mais l\'aîné, qui se dessoûlait, faisait des réflexions : pour que le cadet fût si aimable, c\'était donc que le bougre avait découvert le pot aux roses, chez le percepteur ? Ah ! non, minute ! Si, jusque-là, lui, cette fripouille, avait eu la délicatesse de respecter le magot, bien sûr qu\'il n\'aurait pas la bêtise de le laisser retourner chez les autres. Il mettrait bon ordre à ça, en douceur, sans se fâcher, puisque maintenant la famille était à la réconciliation.
+
+Lorsqu\'on fut à Rognes, et que le vieux voulut descendre, les deux gaillards se précipitèrent, rivalisant de déférence et de tendresse.
+
+--- Père, appuyez-vous sur moi.
+
+--- Père, donnez-moi votre main.
+
+Ils le reçurent, ils le déposèrent sur la route. Et lui, entre les deux, restait saisi, frappé au cœur d\'une certitude, ne doutant plus désormais.
+
+--- Qu\'est-ce que vous avez donc, vous autres, à m\'aimer tant que ça ?
+
+Leurs égards l\'épouvantaient. Il les aurait préférés, comme à l\'ordinaire, sans respect. Ah ! foutu sort ! allait-il en avoir des embêtements, maintenant qu\'ils lui savaient des sous ! Il rentra au Château, désolé.
+
+Justement, Canon, qui n\'avait pas paru depuis deux mois, était là, assis sur une pierre, à attendre Jésus-Christ. Dès qu\'il l\'aperçut, il lui cria :
+
+--- Dis donc, ta fille est dans le bois aux Pouillard, et y a un homme dessus.
+
+Du coup, le père manqua crever d\'indignation, le sang au visage.
+
+--- Salope qui me déshonore !
+
+Et, décrochant le grand fouet de roulier, derrière la porte, il dévala par la pente rocheuse, jusqu\'au petit bois. Mais les oies de la Trouille la gardaient comme de bons chiens, quand elle était sur le dos. Tout de suite, le jars flaira le père, s\'avança, suivi de la bande. Les ailes soulevées, le cou tendu, il sifflait, dans une menace continue et stridente, tandis que les oies, déployées en ligne de bataille, allongeaient des cous pareils, leurs grands becs jaunes ouverts, prêts à mordre. Le fouet claquait, et l\'on entendit une fuite de bête, sous les feuilles. La Trouille, avertie, avait filé.
+
+Jésus-Christ, lorsqu\'il eut raccroché le fouet, sembla envahi d\'une grande tristesse philosophique. Peut-être le dévergondage entêté de sa fille lui faisait-il prendre en pitié les passions humaines. Peut-être était-il simplement revenu de la gloire, depuis son triomphe, à Cloyes. Il secoua sa tête inculte de crucifié chapardeur et soûlard, il dit à Canon :
+
+--- Tiens ! veux-tu savoir ? tout ça ne vaut pas un pet.
+
+Et, levant la cuisse, au-dessus de la vallée noyée d\'ombre, il en fit un, dédaigneux et puissant, comme pour en écraser la terre.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941849 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941418 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940987 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940556 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940125 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939694 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939263 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938832 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938401 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937970 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937539 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937108 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936677 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936246 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935815 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935384 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934953 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934522 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934091 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368933660 .pcalibre .calibre2 .pcalibre1} {#iv .calibre59 .sigil_not_in_toc}
+
+
+On était aux premiers jours d\'octobre, les vendanges allaient commencer, belle semaine de godaille, où les familles désunies se réconciliaient d\'habitude, autour des pots de vin nouveau. Rognes puait le raisin pendant huit jours ; on en mangeait tant, que les femmes se troussaient et les hommes posaient culotte, au pied de chaque haie ; et les amoureux, barbouillés, se baisaient à pleine bouche, dans les vignes. Ça finissait par des hommes soûls et des filles grosses.
+
+
+Une histoire à crever ! Quinze jours après avoir partagé son bien chez le notaire, Fouan était tombé malade, tellement ça lui brouillait le cœur, de n\'avoir plus rien à lui, pas même grand comme la main de blé. Non ! il ne pouvait vivre ainsi, il y aurait perdu la peau. Et c\'était alors qu\'il avait fait la bêtise, une vraie bêtise de vieux passionné donnant ses derniers sous pour retourner en secret à la gueuse qui le trompe. Lui, un finaud dans son temps, ne s\'était-il pas laissé entor-tiller par un ami, le père Saucisse ! Ça devait le tenir bien fort, ce furieux désir de posséder, qu\'ils ont dans les os comme une rage, tous les anciens mâles, usés à engrosser la terre ; ça le tenait si fort, qu\'il avait signé un papier avec le père Saucisse, par lequel celui-ci, après sa mort, lui cédait un arpent de terre, à la condition qu\'il toucherait quinze sous chaque matin, sa vie durant. Un pareil marché, quand on a soixante-seize ans, et que le vendeur en a dix de moins ! La vérité était que ce dernier avait eu la gredinerie de se mettre au lit, vers cette époque : il toussait, il rendait l\'âme, si bien que l\'autre, abêti par son envie, se croyait le malin des deux, pressé de conclure la bonne affaire. N\'importe, ça prouve que, lorsqu\'on a le feu au derrière, pour une fille ou pour un champ, on ferait mieux de se coucher que de signer des choses ; car ça durait depuis cinq ans, les quinze sous chaque matin ; et plus il en lâchait, plus il s\'enrageait après la terre, plus il la voulait. Dire qu\'il s\'était débarrassé de tous les embêtements de sa longue vie de travail, qu\'il n\'avait plus qu\'à mourir tranquille, en regardant les autres donner leur chair à la terre ingrate, et qu\'il était retourné se faire achever par elle ! Ah ! les hommes ne sont guère sages, les vieux pas plus que les jeunes !
+
+Un instant, Jésus-Christ eut l\'idée de tout prendre, le sous-seing et les titres. Mais le cœur lui manqua : fallait filer, après un coup pareil. Ce n\'était pas comme des écus, qu\'on rafle, en attendant qu\'il en repousse. Et, furieux, il remit les papiers sous les lentilles, au fond de la marmite. Son exaspération devint telle, qu\'il ne put tenir sa langue. Dès le lendemain, Rognes connut l\'affaire du père Saucisse, les quinze sous par jour pour un arpent de terre médiocre, qui ne valait bien sûr pas trois mille francs ; en cinq ans, ça faisait près de quatorze cents francs déjà, et si le vieux coquin vivait cinq années encore, il aurait son champ et la monnaie. On plaisanta le père Fouan. Seulement, lui qu\'on ne regardait plus dans les chemins, depuis qu\'il n\'avait que sa peau à traîner au soleil, il fut de nouveau salué et considéré, lorsqu\'on le sut rentier et propriétaire.
+
+La famille, surtout, en parut retournée. Fanny, qui vivait très en froid avec son père, blessée de ce qu\'il s\'était retiré chez son gredin d\'aîné, au lieu de se réinstaller chez elle, lui apporta du linge, de vieilles chemises à Delhomme. Mais il fut très dur, il fit allusion au mot dont il saignait toujours : « Papa, il viendra nous demander à genoux de le reprendre ! » et il l\'accueillit d\'un : « C\'est donc toi qui viens à genoux pour me ravoir ! » qu\'elle garda en travers de la gorge. Rentrée, elle en pleura de honte et de rage, elle dont la susceptibilité de paysanne fière se blessait d\'un regard. Honnête, travailleuse, riche, elle en arrivait à être fâchée avec tout le pays. Delhomme dut promettre que ce serait lui, désormais, qui remettrait l\'argent de la rente au père ; car, pour son compte, elle jurait bien qu\'elle ne lui adresserait jamais plus la parole.
+
+Quant à Buteau, il les étonna tous, un jour qu\'il entra au Château, histoire, disait-il, de faire une petite visite au vieux. Jésus-Christ, ricanant, apporta la bouteille d\'eau-de-vie, et l\'on trinqua. Mais sa goguenardise devint de la stupeur, lorsqu\'il vit son frère tirer dix pièces de cent sous, puis les aligner sur la table, en disant :
+
+--- Père, faut pourtant régler nos comptes\... Voilà le dernier trimestre de votre rente.
+
+Ah ! le nom de Dieu de gueusard ! lui qui ne donnait plus un sou au père depuis des années, est-ce qu\'il ne venait pas l\'empaumer, en lui remontrant la couleur de son argent ! Tout de suite, d\'ailleurs, il écarta le bras du vieux qui s\'avançait, et il ramassa les pièces.
+
+--- Attention ! c\'était pour vous dire que je les ai\... Je vous les garde, vous savez où elles vous attendent.
+
+Jésus-Christ commençait à ouvrir l\'œil et à se fâcher.
+
+--- Dis donc ! si tu veux emmener papa\...
+
+Mais Buteau prit la chose gaiement.
+
+--- Quoi, t\'es jaloux ? Et quand j\'aurais le père une semaine, et toi une semaine, est-ce que ce ne serait pas dans la nature ? Hein ! si vous vous coupiez en deux, père ?\... À votre santé, en attendant !
+
+Comme il partait, il les invita à venir faire le lendemain la vendange dans sa vigne. On se gaverait de raisin, tant que la peau du ventre en tiendrait. Enfin, il fut si gentil, que les deux autres le trouvèrent une fameuse canaille tout de même, mais rigolo, à la condition de ne pas se laisser fiche dedans par lui. Ils l\'accompagnèrent un bout de chemin, pour le plaisir.
+
+Justement, au bas de la côte, ils firent la rencontre de M. et de Mme Charles, qui rentraient, avec Élodie, à leur propriété de Roseblanche, après une promenade le long de l\'Aigre. Tous les trois étaient en deuil de Mme Estelle, comme on nommait la mère de la petite, morte au mois de juillet, et morte à la peine, car chaque fois que la grand-mère revenait de Chartres, elle le disait bien, que sa pauvre fille se tuait, tant elle se donnait du mal pour soutenir la bonne réputation de l\'établissement de la rue aux Juifs, dont son fainéant de mari s\'occupait de moins en moins. Et quelle émotion pour M. Charles que l\'enterrement, où il n\'avait point osé conduire Élodie, à qui l\'on ne s\'était décidé à apprendre la nouvelle que lorsque sa mère dormait depuis trois jours dans la terre ! Quel serrement de cœur pour lui, le matin où, après des années, il avait revu le 19, à l\'angle de la rue de la Planche-aux-Carpes, ce 19 badigeonné de jaune, avec ses persiennes vertes, toujours closes, l\'œuvre de sa vie enfin, aujourd\'hui tendu de draperies noires, la petite porte ouverte, l\'allée barrée par le cercueil, entre quatre cierges ! Ce qui le toucha, ce fut la façon dont le quartier s\'associa à sa douleur. La cérémonie se passa vraiment très bien. Quand on sortit le cercueil de l\'allée et qu\'il parut sur le trottoir, toutes les voisines se signèrent. On se rendit à l\'église au milieu du recueillement. Les cinq femmes de la maison étaient là, en robe sombre, l\'air comme il faut, ainsi que le mot en courut le soir dans Chartres. Une d\'elles pleura même au cimetière. Enfin, de ce côté, M. Charles n\'eut que de la satisfaction\.... Mais, le lendemain, comme il souffrit, lorsqu\'il questionna son gendre, Hector Vaucogne, et qu\'il visita la maison ! Elle avait déjà perdu de son éclat, on sentait que la poigne d\'un homme y manquait, à toutes sortes de licences, que lui n\'aurait jamais tolérées, de son temps. Il constata pourtant avec plaisir que la bonne attitude des cinq femmes, au convoi, les avait fait si avantageusement connaître en ville, que l\'établissement ne désemplit pas de la semaine. En quittant le 19, la tête bourrelée d\'inquiétudes, il ne le cacha point à Hector : maintenant que la pauvre Estelle n\'était plus là pour mener la barque, c\'était à lui de se corriger, de mettre sérieusement la main à la pâte, s\'il ne voulait pas manger la fortune de sa fille.
+
+Tout de suite, Buteau les pria de venir vendanger, eux aussi. Mais ils refusèrent, à cause de leur deuil. Ils avaient des figures mélancoliques, des gestes lents. Tout ce qu\'ils acceptèrent, ce fut d\'aller goûter au vin nouveau.
+
+--- Et c\'est pour distraire cette pauvre petite, déclara Mme Charles. Elle a si peu d\'amusements ici, depuis que nous l\'avons retirée du pensionnat ! Que voulez-vous ? elle ne peut toujours rester en classe.
+
+Élodie écoutait, les yeux baissés, les joues envahies de rougeur, sans raison. Elle était devenue très grande, très mince, d\'une pâleur de lis qui végète à l\'ombre.
+
+--- Alors, qu\'est-ce que vous allez en faire, de cette grande jeunesse-là ? demanda Buteau.
+
+Elle rougit davantage, tandis que sa grand-mère répondait :
+
+--- Dame ! nous ne savons guère\... Elle se consultera, nous la laisserons bien libre.
+
+Mais Fouan, qui avait pris M. Charles à part, lui demanda d\'un air d\'intérêt :
+
+--- Ça va-t-il, le commerce ?
+
+La mine désolée, il haussa les épaules.
+
+--- Ah ! ouiche ! j\'ai vu justement ce matin quelqu\'un de Chartres. C\'est à cause de ça que nous sommes si ennuyés\... Une maison finie ! On se bat dans les corridors, on ne paie même plus, tant la surveillance est mal faite !
+
+Il croisa les bras, il respira fortement, pour se soulager de ce qui l\'étouffait surtout, un grief nouveau dont il n\'avait pas digéré l\'énormité depuis le matin.
+
+--- Et croyez-vous que le misérable va au café, maintenant !\... Au café ! au café ! quand on en a un chez soi !
+
+--- Foutu alors ! dit d\'un air convaincu Jésus-Christ, qui écoutait.
+
+Ils se turent, car Mme Charles et Élodie se rapprochaient avec Buteau. À présent, tous trois parlaient de la défunte, la jeune fille disait combien elle était restée triste, de n\'avoir pu embrasser sa pauvre maman. Elle ajouta de son air simple :
+
+--- Mais il paraît que le malheur a été si brusque, et qu\'on travaillait si fort, à la confiserie\...
+
+--- Oui, pour des baptêmes, se hâta de dire Mme Charles, en clignant les yeux, tournée vers les autres.
+
+D\'ailleurs, pas un n\'avait souri, tous compatissaient, d\'un branle du menton. Et la petite, dont le regard s\'était abaissé sur une bague qu\'elle portait, la baisa, pleurante.
+
+--- Voilà tout ce qu\'on m\'a donné d\'elle\... Grand-mère la lui a prise au doigt, pour la mettre au mien\... Elle la portait depuis vingt ans, moi je la garderai toute ma vie.
+
+C\'était une vieille alliance d\'or, un de ces bijoux de grosse joaillerie commune, si usée, que les guillochures en avaient presque disparu. On sentait que la main où elle s\'était élimée ainsi ne reculait devant aucune besogne, toujours active, dans les vases à laver, dans les lits à refaire, frottant, essuyant, torchonnant, se fourrant partout. Et elle racontait tant de choses, cette bague, elle avait laissé de son or au fond de tant d\'affaires, que les hommes la regardaient fixement, les narines élargies, sans un mot.
+
+--- Quand tu l\'auras usée autant que ta mère, dit M. Charles, étranglé d\'une soudaine émotion, tu pourras te reposer\... Si elle parlait, elle t\'apprendrait comment on gagne de l\'argent, par le bon ordre et le travail.
+
+Élodie, en larmes, avait collé de nouveau ses lèvres sur le bijou.
+
+--- Tu sais, reprit Mme Charles, je veux que tu te serves de cette alliance, quand nous te marierons.
+
+Mais, à ce dernier mot, à cette idée du mariage, la jeune fille, dans son attendrissement, éprouva une secousse si forte, un tel excès de confusion, qu\'elle se jeta, éperdue, sur le sein de sa grand-mère, pour y cacher son visage. Celle-ci la calma, en souriant.
+
+--- Voyons, n\'aie pas honte, mon petit lapin\... Il faut que tu t\'habitues, il n\'y a point là de vilaines choses. Je ne dirais pas de vilaines choses en ta présence, bien sûr\... Ton cousin Buteau demandait tout à l\'heure ce que nous allions faire de toi. Nous commencerons par te marier\... Voyons, voyons, regarde-nous, ne te frotte pas contre mon châle. Tu vas t\'enflammer la peau.
+
+Puis, aux autres, tout bas, d\'un air de satisfaction profonde :
+
+--- Hein ? est-ce élevé ? ça ne sait rien de rien !
+
+--- Ah ! si nous n\'avions pas cet ange, conclut M. Charles, nous aurions vraiment trop de chagrin, à cause de ce que je vous ai dit\... Avec ça, mes rosiers et mes œillets ont souffert cette année, et j\'ignore ce qui se passe dans ma volière, tous mes oiseaux sont malades. La pêche seule me console un peu, j\'ai pris une truite de trois livres, hier\... N\'est-ce pas ? quand on est à la campagne, c\'est pour être heureux.
+
+On se quitta. Les Charles répétèrent leur promesse d\'aller goûter le vin nouveau. Fouan, Buteau et Jésus-Christ firent quelques pas en silence, puis le vieux résuma leur opinion.
+
+--- Un chançard tout de même, le cadet qui l\'aura avec la maison, cette gamine !
+
+Le tambour de Rognes avait battu le ban des vendanges ; et, le lundi matin, tout le pays fut en l\'air, car chaque habitant avait sa vigne, pas une famille n\'aurait manqué, ce jour-là, d\'aller en besogne sur le coteau de l\'Aigre. Mais ce qui achevait d\'émotionner le village, c\'était que la veille, à la nuit tombée, le curé, un curé dont la commune se donnait enfin le luxe, était débarqué devant l\'église. Il faisait déjà si sombre qu\'on l\'avait mal vu. Aussi les langues ne tarissaient-elles pas, d\'autant plus que l\'histoire en valait sûrement la peine.
+
+Après sa brouille avec Rognes, pendant des mois, l\'abbé Godard s\'était obstiné à ne pas y remettre les pieds. Il baptisait, confessait, mariait ceux qui venaient le trouver à Bazoches-le-Doyen ; quant aux morts, ils auraient sans doute séché à l\'attendre ; mais le point resta obscur, personne ne s\'étant avisé de mourir, pendant cette grande querelle. Il avait déclaré à monseigneur qu\'il aimait mieux se faire casser que de rapporter le bon Dieu dans un pays d\'abomination, où on le recevait si mal, tous paillards et ivrognes, tous damnés depuis qu\'ils ne croyaient plus au diable ; et monseigneur le soutenait évidemment, laissait aller les choses, en attendant la contrition de ce troupeau rebelle. Donc, Rognes était sans prêtre : plus de messe, plus rien, l\'état sauvage. D\'abord, il y avait eu un peu de surprise ; mais, au fond, ma foi ! ça ne marchait pas plus mal qu\'auparavant. On s\'accoutumait, il ne pleuvait ni ne ventait davantage, sans compter que la commune y économisait gros. Alors, puisqu\'un prêtre n\'était point indispensable, puisque l\'expérience prouvait que les récoltes n\'y perdaient rien et qu\'on n\'en mourait pas plus vite, autant valait-il s\'en passer toujours. Beaucoup se montraient de cet avis, non seulement les mauvaises têtes comme Lengaigne, mais encore des hommes de bon sens, qui savaient calculer, Delhomme par exemple. Seulement, beaucoup aussi se vexaient de n\'avoir pas de curé. Ce n\'était point qu\'ils fussent plus religieux que les autres : un Dieu de rigolade qui avait cessé de les faire trembler, ils s\'en fichaient ! Mais pas de curé, ça semblait dire qu\'on était trop pauvre ou trop avare pour s\'en payer un ; enfin, on avait l\'air au-dessous de tout, des rien de rien qui n\'auraient pas dépensé dix sous à de l\'inutile. Ceux de Magnolles, où ils n\'étaient que deux cent quatre-vingt-trois, dix de moins qu\'à Rognes, nourrissaient un curé, qu\'ils jetaient à la tête de leurs voisins, avec une façon de rire si provocante, que ça finirait certainement par des claques. Et puis, les femmes avaient des habitudes, pas une n\'aurait consenti bien sûr à être mariée ou enterrée sans prêtre. Les hommes eux-mêmes allaient des fois à l\'église, aux grandes fêtes, parce que tout le monde y allait. Bref, il y avait toujours eu des curés, et quitte à s\'en foutre, il en fallait un.
+
+Naturellement, le conseil municipal fut saisi de la question. Le maire, Hourdequin, qui, sans pratiquer, soutenait la religion par principe autoritaire, commit la faute politique de ne pas prendre parti, dans une pensée conciliante. La commune était pauvre, à quoi bon la grever des frais, gros pour elle, que nécessiterait la réparation du presbytère ? d\'autant plus qu\'il espérait ramener l\'abbé Godard. Or, il arriva que ce fut Macqueron, l\'adjoint, jadis l\'ennemi de la soutane, qui se mit à la tête des mécontents, humiliés de n\'avoir pas un curé à eux. Ce Macqueron dut nourrir dès lors l\'idée de renverser le maire, pour prendre sa place ; et l\'on disait, d\'ailleurs, qu\'il était devenu l\'agent de M. Rochefontaine, l\'usinier de Châteaudun, qui allait se porter de nouveau contre M. de Chédeville, aux élections prochaines. Justement, Hourdequin, fatigué, ayant à la ferme de grands soucis, se désintéressait des séances, laissait agir son adjoint ; de telle sorte que le conseil, gagné par celui-ci, vota les fonds nécessaires à l\'érection de la commune en paroisse. Depuis qu\'il s\'était fait payer son terrain exproprié, lors du nouveau chemin, après avoir promis de le céder gratuitement, les conseillers le traitaient de filou, mais lui témoignaient une grande considération. Lengaigne seul protesta contre le vote qui livrait le pays aux jésuites. Bécu aussi grognait, expulsé du presbytère et du jardin, logé maintenant dans une masure. Pendant un mois, des ouvriers refirent les plâtres, remirent des vitres, remplacèrent les ardoises pourries ; et c\'était ainsi qu\'un curé, enfin, avait pu s\'installer la veille dans la petite maison, badigeonnée à neuf.
+
+Dès l\'aube, les voitures partirent pour la côte, chargées chacune de quatre ou cinq grands tonneaux défoncés d\'un bout, les gueulebées, comme on les nomme. Il y avait des femmes et des filles, assises dedans, avec leurs paniers ; tandis que les hommes allaient à pied, fouettant les bêtes. Toute une file se suivait, et l\'on causait, de voiture à voiture, au milieu de cris et de rires.
+
+Celle des Lengaigne, précisément, venait après celle des Macqueron, de sorte que Flore et Cœlina, qui ne se parlaient plus depuis six mois, se remirent, grâce à la circonstance. La première avait avec elle la Bécu, l\'autre, sa fille Berthe. Tout de suite, la conversation était tombée sur le curé. Les phrases, scandées par le pas des chevaux, partaient à la volée dans l\'air frais du matin.
+
+--- Moi, je l\'ai vu qui aidait à descendre sa malle.
+
+--- Ah !\... Comment est-il ?
+
+--- Dame ! il faisait noir\... Il m\'a paru tout long, tout mince, avec une figure de carême qui n\'en finit plus, et pas fort\... Peut-être trente ans. L\'air bien doux.
+
+--- Et, à ce qu\'on dit, il sort de chez les Auvergnats, dans des montagnes où l\'on est sous la neige, pendant les deux tiers de l\'an.
+
+--- Misère ! c\'est ça qu\'il va se trouver à l\'aise chez nous, alors !
+
+--- Pour sûr !\... Et tu sais qu\'il s\'appelle Madeleine.
+
+--- Non, Madeline.
+
+--- Madeline, Madeleine, ce n\'est toujours pas un nom d\'homme.
+
+--- Peut-être bien qu\'il viendra nous faire visite, dans les vignes. Macqueron a promis qu\'il l\'amènerait.
+
+--- Ah ! bon sang ! faut le guetter !
+
+Les voitures s\'arrêtaient au bas de la côte, le long du chemin qui suivait l\'Aigre. Et, dans chaque petit vignoble, entre les rangées d\'échalas, les femmes étaient à l\'œuvre, marchant pliées en deux, les fesses hautes, coupant à la serpe les grappes dont s\'emplissaient leurs paniers. Quant aux hommes, ils avaient assez à faire, de vider les paniers dans les hottes et de descendre vider les hottes dans les gueulebées. Dès que toutes les gueulebées d\'une voiture étaient pleines, elles partaient se décharger dans la cuve, puis revenaient à la charge.
+
+La rosée était si forte, ce matin-là, que tout de suite les robes furent trempées. Heureusement, il faisait un temps superbe, le soleil les sécha. Depuis trois semaines, il n\'avait pas plu ; le raisin dont on désespérait, à cause de l\'été humide, venait de mûrir et de se sucrer brusquement ; et c\'était pourquoi ce beau soleil, si chaud pour la saison, les égayait tous, ricanant, gueulant, lâchant des saletés, qui faisaient se tordre les filles.
+
+--- Cette Cœlina ! dit Flore à la Bécu, en se mettant debout et en regardant la Macqueron, dans le plant voisin, elle qui était si fière de sa Berthe, à cause de son teint de demoiselle !\... V\'là la petite qui jaunit et qui se dessèche bigrement.
+
+--- Dame ! déclara la Bécu, quand on ne marie point les filles ! Ils ont bien tort de ne pas la donner au fils du charron\... Et, d\'ailleurs, à ce qu\'on raconte, celle-là se tue le tempérament, avec ses mauvaises habitudes.
+
+Elle se remit à couper les grappes, les reins cassés. Puis, dodelinant du derrière :
+
+--- Ça n\'empêche pas que le maître d\'école continue de tourner autour.
+
+--- Pardi ! s\'écria Flore, ce Lequeu, il ramasserait des sous avec son nez dans la crotte\... Juste ! le voilà qui arrive les aider. Un joli merle !
+
+Mais elles se turent. Victor, revenu du service depuis quinze jours à peine, prenait leurs paniers et les vidait dans la hotte de Delphin, que cette grande couleuvre de Lengaigne avait loué pour la vendange, en prétextant la nécessité de sa présence à la boutique. Et Delphin, qui n\'avait jamais quitté Rognes, attaché à la terre comme un jeune chêne, bâillait de surprise devant Victor, crâne et blagueur, ravi de l\'étonner, si changé que personne ne le reconnaissait avec ses moustaches et sa barbiche, son air de se ficher du monde, sous le bonnet de police qu\'il affectait de porter encore. Seulement, le gaillard se trompait, s\'il croyait faire envie à l\'autre : il avait beau lui conter des exploits de garnison, des menteries sur la noce, les filles et le vin, le paysan secouait la tête, stupéfié au fond, nullement tenté en somme. Non, non ! ça coûtait trop cher s\'il fallait quitter son coin ! Il avait déjà refusé deux fois d\'aller faire fortune à Chartres, dans un restaurant, avec Nénesse.
+
+--- Mais, sacré cul-de-jatte ! lorsque tu seras soldat !
+
+--- Oh ! soldat !\... Eh ! donc, on tire un bon numéro !
+
+Victor, plein de mépris, ne put le sortir de là. Quel grand lâche, quand on était bâti comme un Cosaque ! Il continuait, en causant, de vider les paniers dans la hotte, sans que le bougre pliât sous la charge. Et, par farce, en fanfaron, il désigna Berthe d\'un signe, il ajouta :
+
+--- Dis donc, est-ce qu\'il lui en est venu, depuis mon départ ?
+
+Delphin fut secoué d\'un gros rire, car le phénomène de la fille aux Macqueron restait la grande plaisanterie, entre jeunes gens.
+
+--- Ah ! je n\'y ai pas mis le nez\... Possible que ça lui ait poussé, au printemps.
+
+--- Ce n\'est pas moi qui l\'arroserai, conclut Victor avec une moue répugnée. Autant se payer une grenouille\... Et puis, ce n\'est guère sain, ça doit s\'enrhumer, cet endroit-là, sans perruque.
+
+Du coup, Delphin rigola si fort, que la hotte en chavirait sur son dos ; et il descendit, il la vidait au fond d\'une gueulebée, qu\'on l\'entendait encore étrangler de rire.
+
+Dans la vigne des Macqueron, Berthe continuait à faire la demoiselle, se servait de petits ciseaux, au lieu d\'une serpe, avait peur des épines et des guêpes, se désespérait, parce que ses souliers fins, trempés de rosée, ne séchaient pas. Et elle tolérait les prévenances de Lequeu, qu\'elle exécrait, flattée pourtant de cette cour du seul homme qui eût de l\'instruction. Il finit par prendre son mouchoir pour lui essuyer les souliers. Mais une apparition inattendue les occupa.
+
+--- Bon Dieu ! murmura Berthe, elle en a, une robe !\... On m\'avait bien dit qu\'elle était arrivée hier soir, en même temps que le curé.
+
+C\'était Suzanne, la fille aux Lengaigne, qui risquait brusquement une réapparition dans son village, après trois ans de folle existence à Paris. Débarquée de la veille, elle avait fait la grasse matinée, laissant sa mère et son frère partir en vendange, se promettant de les y rejoindre plus tard, de tomber parmi les paysans au travail dans l\'éclat de sa toilette, pour les écraser. La sensation, en effet, était extraordinaire, car elle avait mis une robe de soie bleue, dont le bleu riche tuait le bleu du ciel. Sous le grand soleil qui la baignait, se détachant dans le plein air, au milieu du vert jaune des pampres, elle était vraiment cossue, un vrai triomphe. Tout de suite, elle avait parlé et ri très fort, mordu aux grappes, qu\'elle élevait en l\'air pour se les faire descendre dans la bouche, plaisanté avec Delphin et son frère Victor, qui semblait très fier d\'elle, émerveillé la Bécu et sa mère, les mains ballantes d\'admiration, les yeux humides. Du reste, cette admiration était partagée par les vendangeurs des plants voisins : le travail se trouvait arrêté, tous la contemplaient, hésitaient à la reconnaître, tellement elle avait forci et embelli. Un laideron autrefois, une fille rudement plaisante à cette heure, sans doute à cause de la façon dont elle ramenait ses petits poils blonds sur son museau. Et une grande considération se dégageait de cet examen curieux, à la voir nippée si chèrement, grasse, avec une gaie figure de prospérité.
+
+Cœlina, un flot de bile au visage, les lèvres pincées, s\'oubliait, elle aussi, entre sa fille Berthe et Lequeu.
+
+--- En v\'là un chic !\... Flore raconte à qui veut l\'entendre que sa fille a domestiques et voitures, là-bas. C\'est peut-être bien vrai, car faut gagner gros pour s\'en coller ainsi sur le corps.
+
+--- Oh ! ces rien du tout, dit Lequeu, qui cherchait à être aimable, on sait comment elles le gagnent, l\'argent.
+
+--- Qu\'est-ce que ça fiche, comment elles le gagnent ! reprit amèrement Cœlina, elles l\'ont tout de même !
+
+Mais, à ce moment, Suzanne, qui avait aperçu Berthe, et qui venait de reconnaître en elle une de ses anciennes compagnes des filles de la Vierge, s\'avança, très gentille.
+
+--- Bonjour, tu vas bien ?
+
+Elle la dévisageait d\'un regard, elle remarqua son teint flétri. Et, du coup, elle se redressa dans sa chair de lait, elle répéta, en riant :
+
+--- Ça va bien, n\'est-ce pas ?
+
+--- Très bien, je te remercie, répondit Berthe, gênée, vaincue.
+
+Ce jour-là, les Lengaigne l\'emportaient, c\'était une vraie gifle pour les Macqueron. Hors d\'elle, Cœlina comparait la maigreur jaune de sa fille, déjà ridée, à la bonne mine de la fille des autres, fraîche et rose. Est-ce que c\'était juste, ça ? une noceuse sur qui des hommes passaient du matin au soir, et qui ne se fatiguait point ! une jeunesse vertueuse, aussi abîmée à coucher seule, qu\'une femme vieillie par trois grossesses ! Non, la sagesse n\'était pas récompensée, ça ne valait pas la peine de rester honnête chez ses parents !
+
+Enfin, toute la vendange fit fête à Suzanne. Elle embrassa des enfants qui avaient grandi, elle émotionna des vieillards en leur rappelant des souvenirs. Qu\'on soit ce qu\'on soit, on peut se passer du monde, lorsqu\'on a fait fortune. Et celle-là avait bon cœur encore, de ne pas cracher sur sa famille et de revenir voir les amis, maintenant qu\'elle était riche.
+
+À onze heures, tous s\'assirent, on mangea du pain et du fromage. Ce n\'était pas qu\'on eût appétit, car on se gavait de raisin depuis l\'aube, le gosier poissé de sucre, la panse enflée et ronde comme une tonne ; et ça bouillait là-dedans, ça valait une purge : déjà, à chaque minute, une fille était obligée de filer derrière une haie. Naturellement, on en riait, les hommes se levaient et poussaient des oh ! oh ! pour lui faire la conduite. Bref, de la bonne gaieté, quelque chose de sain, qui rafraîchissait.
+
+Et l\'on achevait le pain et le fromage, lorsque Macqueron parut sur la route du bas, avec l\'abbé Madeline. Du coup, l\'on oublia Suzanne, il n\'y eut plus de regards que pour le curé. Franchement, l\'impression ne fut guère favorable : l\'air d\'une vraie perche, triste comme s\'il portait le bon Dieu en terre. Cependant, il saluait devant chaque vigne, il disait un mot aimable à chacun, et l\'on finit par le trouver bien poli, bien doux, pas fort enfin. On le ferait marcher, celui-là ! ça irait mieux qu\'avec ce mauvais coucheur d\'abbé Godard. Derrière son dos, on commençait à s\'égayer. Il était arrivé en haut de la côte, il restait immobile, à regarder l\'immensité plate et grise de la Beauce, pris d\'une sorte de peur, d\'une mélancolie désespérée, qui mouillèrent ses grands yeux clairs de montagnard, habitués aux horizons étroits des gorges de l\'Auvergne.
+
+Justement, la vigne des Buteau se trouvait là. Lise et Françoise coupaient les grappes, et Jésus-Christ, qui n\'avait pas manqué d\'amener le père, était déjà soûl du raisin dont il se gorgeait, en ayant l\'air de s\'occuper à vider les paniers dans les hottes. Ça cuvait si fort dans sa peau, ça le gonflait d\'un tel gaz, qu\'il lui sortait du vent par tous les trous. Et, la présence d\'un prêtre l\'excitant, il fut incongru.
+
+--- Bougre de mal élevé ! lui cria Buteau. Attends au moins que M. le curé soit parti.
+
+Mais Jésus-Christ n\'accepta pas la réprimande. Il répondit en homme qui avait de l\'usage, quand il voulait :
+
+--- Ce n\'est pas à son intention, c\'est pour mon plaisir.
+
+Le père Fouan avait pris un siège par terre, comme il disait, las, heureux du beau temps et de la belle vendange. Il ricana en dessous, malicieusement, de ce que la Grande, dont la vigne était voisine, venait lui souhaiter le bonjour : celle-là aussi s\'était remise à le considérer, depuis qu\'elle lui savait des rentes. Puis, d\'un saut, elle le quitta, en voyant de loin son petit-fils Hilarion profiter goulûment de son absence, pour s\'empiffrer de raisins ; et elle tomba sur lui à coups de canne : cochon à l\'auge qui en gâtait plus qu\'il n\'en gagnait !
+
+--- En v\'là une, la tante, qui fera plaisir, quand elle claquera ! dit Buteau, en s\'asseyant un instant près de son père, pour le flatter. Si c\'est gentil d\'abuser de cet innocent, parce qu\'il est fort et bête comme un âne !
+
+Ensuite, il attaqua les Delhomme, qui se trouvaient en contrebas, au bord de la route. Ils avaient le plus beau vignoble du pays, près de deux hectares d\'un seul tenant, où ils étaient bien une dizaine à s\'occuper. Leurs vignes très soignées donnaient des grappes comme pas un voisin n\'en récoltait ; et ils en étaient si orgueilleux, qu\'ils avaient l\'air de vendanger à l\'écart, sans s\'égayer seulement des coliques brusques qui forçaient les filles à galoper. Sans doute, ça leur aurait cassé les jambes, de monter saluer leur père, car ils ne semblaient pas savoir qu\'il était là. Cet empoté de Delhomme, un rude serin, avec sa pose au bon travail et à la justice ! et cette pie-grièche de Fanny, toujours à se fâcher pour une vesse de travers, exigeant qu\'on l\'adorât comme une image, sans même s\'apercevoir des saletés qu\'elle faisait aux autres !
+
+--- Le vrai, père, continua Buteau, c\'est que je vous aime bien, tandis que mon frère et ma sœur\... Vous savez, j\'en ai encore le cœur gros, qu\'on se soit quitté pour des foutaises.
+
+Et il rejeta la chose sur Françoise, à qui Jean avait tourné la tête. Mais elle se tenait tranquille à cette heure. Si elle bougeait, il était décidé à lui rafraîchir le sang au fond de la mare.
+
+--- Voyons, père, faut se tâter\... Pourquoi ne reviendriez-vous pas ?
+
+Fouan resta muet, prudemment. Il s\'attendait à cette offre, que son cadet lâchait enfin ; et il désirait ne répondre ni oui, ni non, parce qu\'on ne savait jamais. Alors, Buteau continua, en s\'assurant que son frère était à l\'autre bout de la vigne :
+
+--- N\'est-ce pas ? ce n\'est guère votre place, chez cette fripouille de Jésus-Christ. On vous y trouvera peut-être bien assassiné, un de ces quatre matins\... Et puis, tenez ! moi, je vous nourrirai, je vous coucherai, et je vous paierai quand même la pension.
+
+Le père avait cligné les yeux, stupéfait. Comme il ne parlait toujours pas, le fils voulut le combler.
+
+--- Et des douceurs, votre café, votre goutte, quatre sous de tabac, enfin tout le plaisir !
+
+C\'était trop, Fouan prit peur. Sans doute, ça se gâtait, chez Jésus-Christ. Mais si les embêtements recommençaient chez les Buteau ?
+
+--- Faudra voir, se contenta-t-il de dire, en se levant, afin de rompre l\'entretien.
+
+On vendangea jusqu\'à la nuit tombante. Les voitures ne cessaient d\'emmener les gueulebées pleines et de les ramener vides. Dans les vignes, dorées par le soleil couchant, sous le grand ciel rose, le va-et-vient des paniers et des hottes s\'activait, au milieu de la griserie de tout ce raisin charrié. Et il arriva un accident à Berthe, elle fut prise d\'une telle colique, qu\'elle ne put même courir : sa mère et Lequeu durent lui faire un rempart de leurs corps, pendant qu\'elle s\'aponichait, parmi les échalas. Du plant voisin, on l\'aperçut. Victor et Delphin voulaient lui porter du papier ; mais Flore et la Bécu les en empêchèrent, parce qu\'il y avait des bornes que les mal élevés seuls dépassaient. Enfin, on rentra. Les Delhomme avaient pris la tête, la Grande forçait Hilarion à tirer avec le cheval, les Lengaigne et les Macqueron fraternisaient, dans la demi-ivresse qui attendrissait leur rivalité. Ce qu\'on remarqua surtout, ce furent les politesses de l\'abbé Madeline et de Suzanne : il la croyait sans doute une dame, à la voir la mieux habillée ; si bien qu\'ils marchaient côte à côte, lui rempli d\'égards, elle faisant la sucrée, demandant l\'heure de la messe, le dimanche. Derrière eux, venait Jésus-Christ, qui, acharné contre la soutane, recommençait sa plaisanterie dégoûtante, dans une rigolade obstinée d\'ivrogne. Tous les cinq pas, il levait la cuisse et en lâchait un. La garce se mordait les lèvres pour ne pas rire, le prêtre affectait de ne pas entendre ; et, très graves, accompagnés de cette musique, ils continuaient d\'échanger des idées pieuses, à la queue du train roulant des vendanges.
+
+Comme on arrivait à Rognes enfin, Buteau et Fouan, honteux, essayèrent d\'imposer silence à Jésus-Christ. Mais il allait toujours, en répétant que M. le curé aurait eu bien tort de se formaliser.
+
+--- Nom de Dieu ! quand on vous dit que ce n\'est pas pour les autres ! C\'est pour moi tout seul !
+
+La semaine suivante, on fut donc invité à goûter le vin, chez les Buteau. Les Charles, Fouan, Jésus-Christ, quatre ou cinq autres, devaient venir à sept heures manger du gigot, des noix et du fromage, un vrai repas. Dans la journée, Buteau avait enfûté son vin, six pièces qui s\'étaient emplies à la chantepleure de la cuve. Mais des voisins se trouvaient moins avancés : un, en train de vendanger encore, foulait depuis le matin, tout nu ; un second, armé d\'une barre, sur-veillait la fermentation, enfonçait le chapeau, au milieu des bouillonnements du moût ; un troisième, qui avait un pressoir, serrait le marc, s\'en débarrassait dans sa cour, en un tas fumant. Et c\'était ainsi dans chaque maison, et de tout ça, des cuves brûlantes, des pressoirs ruisselants, des tonneaux qui débordaient, de Rognes entier, s\'épandait l\'âme du vin, dont l\'odeur forte aurait suffi pour soûler le monde.
+
+Ce jour-là, au moment de quitter le Château, Fouan eut un pressentiment qui lui fit prendre ses titres, dans la marmite aux lentilles. Autant les cacher sur lui, car il avait cru voir Jésus-Christ et la Trouille regarder en l\'air, avec des yeux drôles. Ils partirent tous les trois de bonne heure, ils arrivèrent chez les Buteau en même temps que les Charles.
+
+La lune, en son plein, était si large, si nette, qu\'elle éclairait comme un vrai soleil ; et Fouan, en entrant dans la cour, remarqua que l\'âne, Gédéon, sous le hangar, avait la tête au fond d\'un petit baquet. Cela ne l\'étonnait point de le trouver libre, car le bougre, plein de malignité, soulevait très bien les loquets avec la bouche ; mais, ce baquet l\'intriguant, il s\'approcha, il reconnut un baquet de la cave, qu\'on avait laissé plein de vin de pressoir, pour achever de remplir les tonneaux. Nom de Dieu de Gédéon ! il le vidait !
+
+--- Eh ! Buteau, arrive !\... Il en fait un commerce, ton âne ! Buteau parut sur le seuil de la cuisine.
+
+--- Quoi donc ?
+
+--- Le v\'là qu\'a tout bu !
+
+Gédéon, au milieu de ces cris, finissait de pomper le liquide avec tranquillité. Peut-être bien qu\'il sirotait ainsi depuis un quart d\'heure, car le petit baquet contenait aisément une vingtaine de litres. Tout y avait passé, son ventre s\'était arrondi comme une outre, à éclater du coup ; et, quand il releva la tête, on vit son nez ruisseler de vin, son nez de pochard, où une raie rouge, sous les yeux, indiquait qu\'il l\'avait enfoncé jusque-là.
+
+--- Ah ! le jean-foutre ! gueula Buteau en accourant. C\'est de ses tours ! Y a pas de gueux pareil pour les vices !
+
+Lorsqu\'on lui reprochait ses vices, Gédéon, d\'habitude, avait l\'air de s\'en ficher, les oreilles élargies et obliques. Cette fois, étourdi, perdant tout respect, il ricana positivement, il dodelina du râble, pour exprimer la jouissance sans remords de sa débauche ; et, son maître le bousculant, il trébucha.
+
+Fouan avait dû le caler de l\'épaule.
+
+--- Mais le sacré cochon est soûl à crever !
+
+--- Soûl comme une bourrique, c\'est le cas de le dire, fit remarquer Jésus-Christ, qui le contemplait d\'un œil d\'admiration fraternelle. Un baquet d\'un coup, quel goulot !
+
+Buteau, lui, ne riait guère, pas plus que Lise et que Françoise, accourues au bruit. D\'abord, il y avait le vin perdu ; puis, ce n\'était pas tant la perte que la confusion où les jetait cette vilaine conduite de leur âne, devant les Charles. Déjà ceux-ci pinçaient les lèvres, à cause d\'Élodie. Pour comble de malheur, le hasard voulut que Suzanne et Berthe, qui se promenaient ensemble, rencontrassent l\'abbé Madeline, juste devant la porte ; et ils s\'étaient arrêtés tous les trois, ils attendaient. Une propre histoire, maintenant, avec tout ce beau monde, les yeux braqués !
+
+--- Père, poussez-le, dit Buteau à voix basse. Faut le rentrer vite à l\'écurie.
+
+Fouan poussa. Mais Gédéon, heureux, se trouvant bien, refusait de quitter la place, sans méchanceté, en soûlaud bon enfant, l\'œil noyé et farceur, la bouche baveuse, retroussée par le rire. Il se faisait lourd, branlait sur ses jambes écartées, se rattrapait à chaque secousse, comme s\'il eût jugé la plaisanterie drôle. Et, lorsque Buteau s\'en mêla, poussant lui aussi, ce ne fut pas long : l\'âne culbuta, les quatre fers en l\'air, puis se roula sur le dos et se mit à braire si fort, qu\'il semblait se foutre de tous les personnages qui le regardaient.
+
+--- Ah ! sale carcasse ! propre-à-rien ! je vas t\'apprendre à te rendre malade ! hurla Buteau, en tombant sur lui à coups de talon.
+
+Plein d\'indulgence, Jésus-Christ s\'interposa.
+
+--- Voyons, voyons\... Puisqu\'il est soûl, faut pas lui demander de la raison. Bien sûr qu\'il ne t\'entend pas, vaut mieux l\'aider à retrouver son chez-lui.
+
+Les Charles s\'étaient écartés, absolument choqués de cette bête extravagante et sans conduite ; tandis qu\'Élodie, très rouge, comme si elle avait eu à subir un spectacle indécent, détournait la tête. À la porte, le groupe du curé, de Suzanne et de Berthe, silencieux, protestait par son attitude. Des voisins arrivaient, commençaient à goguenarder tout haut. Lise et Françoise en auraient pleuré de honte.
+
+Cependant, rentrant sa rage, Buteau, aidé de Fouan et de Jésus-Christ, travaillait à remettre Gédéon debout. Ce n\'était pas une affaire commode, car le gaillard pesait bien comme les cinq cent mille diables, avec le baquet qui lui roulait dans le ventre. Dès qu\'on l\'avait redressé d\'un bout, il croulait de l\'autre. Tous les trois s\'épuisaient à l\'arc-bouter, à l\'étayer de leurs genoux et de leurs coudes. Enfin, ils venaient de le planter sur les quatre pieds, ils l\'avaient même fait avancer de quelques pas, lorsque, dans une brusque révérence en arrière, il culbuta de nouveau. Et il y avait toute la cour à traverser, pour gagner l\'écurie. Jamais on n\'y arriverait. Comment faire ?
+
+--- Nom de Dieu de nom de Dieu ! juraient les trois hommes, en le regardant sous toutes les faces, sans savoir dans quel sens le prendre.
+
+Jésus-Christ eut l\'idée de l\'accoter au mur du hangar ; de là, on ferait le tour, en suivant le mur de la maison, jusqu\'à l\'écurie. Ça marcha d\'abord, bien que l\'âne s\'écorchât contre le plâtre. Le malheur fut que ce frottement lui devint sans doute insupportable. Tout d\'un coup, se débarrassant des mains qui le collaient à la muraille, il rua, il gambada.
+
+Le père avait failli s\'étaler, les deux frères criaient :
+
+--- Arrêtez-le, arrêtez-le !
+
+Alors, sous la blancheur éclatante de la lune, on vit Gédéon battant la cour, en un zigzag frénétique, avec ses deux grandes oreilles échevelées. On lui avait trop remué le ventre, il en était malade. Un premier haut-le-cœur l\'arrêta, tout chavirait. Il voulut repartir, il retomba planté sur ses jambes raidies. Son cou s\'allongeait, une houle terrible agitait ses côtes. Et, dans un tangage d\'ivrogne qui se soulage, piquant la tête en avant à chaque effort, il dégueula comme un homme.
+
+Un rire énorme avait éclaté à la porte, parmi les paysans amassés, pendant que l\'abbé Madeline, faible d\'estomac, pâlissait, entre Suzanne et Berthe, qui l\'emmenèrent avec des mots d\'indignation. Mais l\'attitude offensée des Charles disait surtout combien l\'exhibition d\'un âne dans un état pareil était contraire aux bonnes mœurs, même à la simple politesse qu\'on doit aux passants. Élodie, éperdue, pleurante, s\'était jetée au cou de sa grand-mère, en demandant s\'il allait mourir. Et M. Charles avait beau crier : « Assez ! assez ! » de son ancienne voix impérieuse de patron obéi, le bougre continuait, la cour en était pleine, des lâchures furieuses d\'écluse, un vrai ruisseau rouge qui coulait dans la mare. Puis il glissa, se vautra là-dedans, les cuisses ouvertes, si peu convenable, que jamais soûlard, étalé en travers d\'une rue, n\'a dégoûté à ce point les gens. On aurait dit que ce misérable le faisait exprès, pour jeter le déshonneur sur ses maîtres. C\'en était trop. Lise et Françoise, les mains sur les yeux, s\'enfuirent, se réfugièrent au fond de la maison.
+
+--- Assez donc ! emportez-le !
+
+En effet, il n\'y avait pas d\'autre parti à prendre, car Gédéon, devenu plus mou qu\'une chiffe, alourdi de sommeil, s\'endormait. Buteau courut chercher une civière, six hommes l\'aidèrent à y charger l\'âne. On l\'emporta, les membres abandonnés, la tête ballante, ronflant déjà d\'un tel cœur, qu\'il avait l\'air de braire et de se foutre encore du monde.
+
+Naturellement, cette aventure gâta d\'abord le repas. Bientôt, on se remit, on finit même par fêter si largement le vin nouveau, que tous, vers onze heures, étaient comme l\'âne. À chaque instant, il y en avait un qui sortait dans la cour, pour un besoin.
+
+Le père Fouan était très gai. Peut-être, tout de même, qu\'il ferait bien de reprendre pension chez son cadet, car le vin y serait bon cette année. Il avait dû quitter la salle à son tour, il roulait ça dans sa tête, au milieu de la nuit noire, lorsqu\'il entendit Buteau et Lise, sortis derrière son dos, accroupis côte à côte le long de la haie, et se querellant, parce que le mari reprochait à la femme de ne pas se montrer assez tendre avec son père. Sacrée dinde ! fallait l\'embobiner, pour le ravoir et lui étourdir son magot. Le vieux, dégrisé, tout froid, eut un geste, s\'assura qu\'on ne lui avait pas volé les papiers dans sa poche ; et, quand on se fut tous embrassés en partant, quand il se retrouva au Château, il était bien résolu à ne point en déménager. Mais, la nuit même, il eut une vision qui le glaça : la Trouille en chemise, à travers la chambre, rôdant, fouillant sa culotte, sa blouse, regardant jusque dans ses souliers. Évidemment, Jésus-Christ, n\'ayant plus trouvé le magot envolé de la marmite aux lentilles, envoyait sa fille le chercher pour l\'étourdir, comme disait Buteau.
+
+Du coup, Fouan ne put rester au lit, tellement ce qu\'il avait vu lui travaillait le crâne. Il se leva, ouvrit la fenêtre. La nuit était blanche de lune, l\'odeur du vin montait de Rognes, mêlée à celle des choses qu\'on enjambait depuis huit jours le long des murs, tout ce bouquet violent des vendanges. Que devenir ? où aller ? Son pauvre argent, il ne le quitterait plus, il se le coudrait sur la peau. Puis, comme le vent lui soufflait l\'odeur au visage, l\'idée de Gédéon lui revint : c\'était rudement bâti, un âne ! ça prenait dix fois du plaisir comme un homme, sans en crever. N\'importe ! volé chez son cadet, volé chez son aîné, il n\'avait pas le choix. Le mieux était de rester au Château et d\'ouvrir l\'œil, en attendant. Tous ses vieux os en tremblaient.
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941850 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941419 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940988 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940557 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940126 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939695 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939264 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938833 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938402 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937971 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937540 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937109 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936678 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936247 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935816 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935385 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934954 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934523 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934092 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368933661 .pcalibre .calibre2 .pcalibre1} {#v .calibre59 .sigil_not_in_toc}
+
+
+Des mois s\'écoulèrent, l\'hiver passa, puis le printemps, et le train accoutumé de Rognes continuait, il fallait des années pour que les choses eussent l\'air de s\'être faites, dans cette morne vie de travail, sans cesse recommençante. En juillet, sous l\'accablement des grands soleils, les élections prochaines remuèrent pourtant le village. Cette fois, il y avait, cachée au fond, toute une grosse affaire. On en causait, on attendait la tournée des candidats.
+
+Et, justement, le dimanche où la venue de M. Rochefon-taine, l\'usinier de Châteaudun, était annoncée, une scène terrible éclata le matin, chez les Buteau, entre Lise et Françoise. L\'exemple prouva bien que, lorsque les choses n\'ont pas l\'air de se faire, elles marchent cependant ; car le dernier lien qui unissait les deux sœurs, toujours près de se rompre, renoué toujours, s\'était tellement aminci à l\'usure des querelles quotidiennes, qu\'il cassa net, pour ne plus jamais se rattacher, et à l\'occasion d\'une bêtise où il n\'y avait vraiment pas de quoi fouetter un chat.
+
+Ce matin, Françoise, en ramenant les vaches, s\'était arrêtée un instant à causer avean, qu\'elle venait de rencontrer devant l\'église. Il faut dire qu\'elle y mettait de la provocation, en face de la maison même, dans l\'unique but d\'exaspérer les Buteau. Aussi, lorsqu\'elle rentra, Lise lui cria-t-elle :
+
+--- Tu sais, quand tu voudras voir tes hommes, tâche que ce ne soit pas sous la fenêtre !
+
+Buteau était là, qui écoutait, en train de repasser une serpe.
+
+--- Mes hommes, répéta Françoise, je les vois de trop ici, mes hommes ! et il y en a un, si j\'avais voulu, ce n\'est pas sous la fenêtre, c\'est dans ton lit que le cochon m\'aurait prise !
+
+Cette allusion à Buteau jeta Lise hors d\'elle. Depuis longtemps, elle n\'avait qu\'un désir, flanquer sa sœur dehors, pour être tranquille dans son ménage, quitte à rendre la moitié du bien. C\'était même la raison qui la faisait battre par son homme, d\'avis contraire, décidé à ruser jusqu\'au bout, ne désespérant pas d\'ailleurs de coucher avec la petite, tant qu\'elle et lui auraient ce qu\'il fallait pour ça. Et Lise s\'irritait de n\'être point la maîtresse, tourmentée maintenant d\'une jalousie particulière, prête encore à le laisser culbuter sa cadette, histoire d\'en finir, tout en enrageant de le voir s\'échauffer après cette garce, dont elle avait pris en exécration la jeunesse, la petite gorge dure, la peau blanche des bras, sous les manches retroussées. Si elle avait tenu la chandelle, elle aurait voulu qu\'il abîmât tout ça, elle aurait tapé elle-même dessus, ne souffrant pas du partage, souffrant, dans leur rivalité grandie, empoisonnée, de ce que sa sœur était mieux qu\'elle et devait donner plus de plaisir.
+
+--- Salope ! hurla-t-elle, c\'est toi qui l\'agaces !\... Si tu n\'étais pas toujours pendue à lui, il ne courrait pas après ton derrière mal torché de gamine. Quelque chose de propre !
+
+Françoise devint toute pâle, tant ce mensonge la révoltait. Elle répondit posément, dans une colère froide :
+
+--- C\'est bon, en v\'là assez\... Attends quinze jours, et je ne te gênerai plus, si c\'est ça que tu demandes. Oui, dans quinze jours, j\'aurai vingt et un ans, je filerai.
+
+--- Ah ! tu veux être majeure, ah ! c\'est donc ça que tu as calculé, pour nous faire des misères !\... Eh bien ! bougresse, ce n\'est pas dans quinze jours, c\'est à l\'instant que tu vas filer\... Allons, fous le camp !
+
+--- Tout de même\... On a besoin de quelqu\'un chez Macqueron. Il me prendra bien\... Bonsoir !
+
+Et Françoise partit, ce ne fut pas plus compliqué, il n\'y eut rien autre chose entre elles. Buteau, lâchant la serpe qu\'il aiguisait, s\'était précipité pour mettre la paix d\'une paire de gifles et les raccommoder une fois encore. Mais il arriva trop tard ; il ne put, dans son exaspération, qu\'allonger un coup de poing à sa femme, dont le nez ruissela. Nom de Dieu de femelles ! ce qu\'il redoutait, ce qu\'il empêchait depuis si longtemps ! la petite envolée, le commencement d\'un tas de sales histoires ! Et il voyait tout fuir, tout galoper devant lui, la fille, la terre.
+
+--- J\'irai tantôt chez Macqueron, gueula-t-il. Faudra bien qu\'elle rentre, quand je devrais la ramener à coups de pied au cul !
+
+Chez Macqueron, ce dimanche-là, on était en l\'air, car on y attendait un des candidats, M. Rochefontaine, le maître des Ateliers de construction de Châteaudun. Pendant la dernière législature, M. de Chédeville avait déplu, les uns disaient en affichant des amitiés orléanistes, les autres, en scandalisant les Tuileries par une histoire gaillarde, la jeune femme d\'un huissier de la Chambre, folle de lui, malgré son âge. Quoi qu\'il en fût, la protection du préfet s\'était retirée du député sortant, pour se porter sur M. Rochefontaine, l\'ancien candidat de l\'opposition, dont un ministre venait de visiter les Ateliers, et qui avait écrit une brochure sur le libre-échange, très remarquée de l\'empereur. Irrité de cet abandon, M. de Chédeville maintenait sa candidature, ayant besoin de son mandat de député pour brasser des affaires, ne se suffisant plus avec les fermages de la Chamade, hypothéquée, à moitié détruite. De sorte que, par une aventure singulière, la situation s\'était retournée, le grand propriétaire devenait le candidat indépendant, tandis que le grand usinier se trouvait être le candidat officiel.
+
+Hourdequin, bien que maire de Rognes, demeurait fidèle à M. de Chédeville ; et il avait résolu de ne tenir aucun compte des ordres de l\'administration, prêt à batailler même ouvertement, si on le poussait à bout. D\'abord, il jugeait honnête de ne pas tourner comme une girouette, au moindre souffle du préfet ; ensuite, entre le protectionniste et le libre-échangiste, il finissait par croire ses intérêts avec le premier, dans la débâcle de la crise agricole. Depuis quelque temps, les chagrins que Jacqueline lui causait, joints aux soucis de la ferme, l\'ayant empêché de s\'occuper de la mairie, il laissait l\'adjoint Macqueron expédier les affaires courantes. Aussi, lorsque l\'intérêt qu\'il prenait aux élections le ramena présider le conseil, fut-il étonné de le sentir rebelle, d\'une raideur hostile.
+
+C\'était un sourd travail de Macqueron, mené avec une prudence de sauvage, qui aboutissait enfin. Chez ce paysan devenu riche, tombé à l\'oisiveté, se traînant, sale et mal tenu, dans des loisirs de monsieur dont il crevait d\'ennui, peu à peu était poussée l\'ambition d\'être maire, l\'unique amusement de son existence, désormais. Et il avait miné Hourdequin, exploitant la haine vivace, innée au cœur de tous les habitants de Rognes, contre les seigneurs autrefois, contre le fils de bourgeois qui possédait la terre aujourd\'hui. Bien sûr qu\'il l\'avait eue pour rien, la terre ! un vrai vol, du temps de la Révolution ! pas de danger qu\'un pauvre bougre profitât des bonnes chances, ça retournait toujours aux canailles, las de s\'emplir les poches ! Sans compter qu\'il s\'y passait de propres choses, à la Borderie. Une honte, cette Cognette, que le maître allait reprendre sur les paillasses des valets, par goût ! Tout cela s\'éveillait, circulait en mots crus dans le pays, soulevait des indignations, même chez ceux qui auraient culbuté ou vendu leur fille, si le dérangement en avait valu la peine. De sorte que les conseillers municipaux finissaient par dire qu\'un bourgeois, ça devait rester à voler et à paillarder avec les bourgeois ; tandis que, pour bien mener une commune de paysans, il fallait un maire paysan.
+
+Justement, ce fut au sujet des élections qu\'une première résistance étonna Hourdequin. Comme il parlait de M. de Chédeville, toutes les figures devinrent de bois. Macqueron, quand il l\'avait vu rester fidèle au candidat en disgrâce, s\'était dit qu\'il tenait le vrai terrain de bataille, une occasion excellente pour le faire sauter. Aussi appuyait-il le candidat du préfet, M. Rochefontaine, en criant que tous les hommes d\'ordre devaient soutenir le gouvernement. Cette profession de foi suffisait, sans qu\'il eût besoin d\'endoctriner les membres du conseil ; car, dans la crainte des coups de balai, ils étaient toujours du côté du manche, résolus à se donner au plus fort, au maître, pour que rien ne changeât et que le blé se vendît cher. Delhomme, l\'honnête, le juste, dont c\'était l\'opinion, entraînait Clou et les autres. Et, ce qui achevait de compromettre Hourdequin, Lengaigne seul était avec lui, exaspéré de l\'importance prise par Macqueron. La calomnie s\'en mêla, on accusa le fermier d\'être « un rouge », un de ces gueux qui voulaient la république pour exterminer le paysan ; si bien que l\'abbé Madeline, effaré, croyant devoir sa cure à l\'adjoint, recommandait lui-même M. Rochefontaine, malgré la sourde protection de monseigneur acquise à M. de Chédeville. Mais un dernier coup ébranla le maire, le bruit courut que, lors de l\'ouverture du fameux chemin direct de Rognes à Châteaudun, il avait mis dans sa poche la moitié de la subvention votée. Comment ? on ne l\'expliquait pas, l\'histoire en demeurait mystérieuse et abominable. Quand on l\'interrogeait là-dessus, Macqueron prenait l\'air effrayé, douloureux et discret d\'un homme dont certaines convenances fermaient la bouche : c\'était lui, simplement, qui avait inventé la chose. Enfin, la commune était bouleversée, le conseil municipal se trouvait coupé en deux, d\'un côté l\'adjoint et tous les conseillers, sauf Lengaigne, de l\'autre le maire, qui comprit seulement alors la gravité de la situation.
+
+Depuis quinze jours déjà, dans un voyage à Châteaudun, fait exprès, Macqueron était allé s\'aplatir devant M. Rochefontaine. Il l\'avait supplié de ne pas descendre ailleurs que chez lui, s\'il daignait venir à Rognes. Et c\'était pourquoi le cabaretier, ce dimanche-là, après le déjeuner, ne cessait de sortir sur la route, aux aguets de son candidat. Il avait prévenu Delhomme, Clou, d\'autres conseillers municipaux, qui vidaient un litre, pour patienter. Le père Fouan et Bécu se trouvaient également là, à faire une partie, ainsi que Lequeu, le maître d\'école, s\'acharnant à la lecture d\'un journal qu\'il apportait, affectant de ne jamais rien boire. Mais deux consommateurs inquiétaient l\'adjoint, Jésus-Christ et son ami Canon, l\'ouvrier rouleur de routes, installés nez à nez, goguenards, devant une bouteille d\'eau-de-vie. Il leur jetait des coups d\'œil obliques, il cherchait vainement à les flanquer dehors, car les bandits ne criaient pas, contre leur habitude : ils n\'avaient que l\'air de se foutre du monde. Trois heures sonnèrent, M. Rochefontaine, qui avait promis d\'être à Rognes vers deux heures, n\'était pas arrivé encore.
+
+--- Cœlina ! demanda anxieusement Macqueron à sa femme, as-tu monté le bordeaux pour offrir un verre, tout à l\'heure ?
+
+Cœlina, qui servait, eut un geste désolé d\'oubli ; et il se précipita lui-même vers la cave. Dans la pièce voisine, où était la mercerie, et dont la porte restait toujours ouverte, Berthe montrait des rubans roses à trois paysannes, d\'un air élégant de demoiselle de magasin ; tandis que Françoise, déjà en fonction, époussetait des casiers, malgré le dimanche. L\'adjoint, que gonflait un besoin d\'autorité, avait accueilli tout de suite cette dernière, flatté qu\'elle se mît sous sa protection. Sa femme, justement, cherchait une aide. Il nourrirait, il logerait la petite, tant qu\'il ne l\'aurait pas réconciliée avec les Buteau, chez qui elle jurait de se tuer, si on l\'y ramenait de force.
+
+Brusquement, un landau, attelé de deux percherons superbes, s\'arrêta devant la porte. Et M. Rochefontaine, qui s\'y trouvait seul, en descendit, étonné et blessé que personne ne fût là. Il hésitait à entrer dans le cabaret, lorsque Macqueron remonta de la cave, avec une bouteille dans chaque main. Ce fut pour lui une confusion, un vrai désespoir, à ne savoir comment se débarrasser de ses bouteilles, à bégayer :
+
+--- Oh ! monsieur, quelle malchance !\... Depuis deux heures, j\'ai attendu, sans bouger ; et pour une minute que je descends\... Oui, à votre intention\... Voulez-vous boire un verre, monsieur le député ?
+
+M. Rochefontaine, qui n\'était encore que candidat et que le trouble du pauvre homme aurait dû toucher, parut s\'en fâcher davantage. C\'était un grand garçon de trente-huit ans à peine, les cheveux ras, la barbe taillée carrément, avec une mise correcte, sans recherche. Il avait une froideur brusque, une voix brève, autoritaire, et tout en lui disait l\'habitude du commandement, l\'obéissance dans laquelle il tenait les douze cents ouvriers de son usine. Aussi paraissait-il résolu à mener ces paysans à coups de fouet.
+
+Cœlina et Berthe s\'étaient précipitées, cette dernière avec son clair regard de hardiesse, sous ses paupières meurtries.
+
+--- Veuillez entrer, monsieur, faites-nous cet honneur.
+
+Mais le monsieur, d\'un coup d\'œil, l\'avait retournée, pesée, jugée à fond. Il entra pourtant, il se tint debout, refusant de s\'asseoir.
+
+--- Voici nos amis du conseil, reprit Macqueron, qui se remettait. Ils sont bien contents de faire votre connaissance, n\'est-ce pas ? messieurs, bien contents !
+
+Delhomme, Clou, les autres, s\'étaient levés, saisis de la raide attitude de M. Rochefontaine. Et ce fut dans un silence profond qu\'ils écoutèrent les choses qu\'il avait arrêté de leur dire, ses théories communes avec l\'empereur, ses idées de progrès surtout, auxquelles il devait de remplacer, dans la faveur de l\'administration, l\'ancien candidat, d\'opinions condamnées ; puis, il se mit à promettre des routes, des chemins de fer, des canaux, oui ! un canal au travers de la Beauce, pour étancher enfin la soif qui la brûlait depuis des siècles. Les paysans ouvraient la bouche, stupéfiés. Qu\'est-ce qu\'il disait donc ? de l\'eau dans les champs, à cette heure ! Il continuait, il finit en menaçant des rigueurs de l\'autorité et de la rancune des saisons ceux qui voteraient mal. Tous se regardèrent. En voilà un qui les secouait et dont il était bon d\'être l\'ami !
+
+--- Sans doute, sans doute, répétait Macqueron, à chaque phrase du candidat, un peu inquiet cependant de sa rudesse.
+
+Mais Bécu approuvait, à grands coups de menton, cette parole militaire ; et le vieux Fouan, les yeux écarquillés, avait l\'air de dire que c\'était là un homme ; et Lequeu lui-même, si impassible d\'ordinaire, était devenu très rouge, sans qu\'on sût, à la vérité, s\'il prenait du plaisir ou s\'il enrageait. Il n\'y avait que les deux canailles, Jésus-Christ et son ami Canon, pleins d\'un évident mépris, si supérieurs, du reste, qu\'ils se contentaient de ricaner et de hausser les épaules.
+
+Dès qu\'il eut parlé, M. Rochefontaine se dirigea vers la porte. L\'adjoint eut un cri de désolation.
+
+--- Comment ! monsieur, vous ne nous ferez pas l\'honneur de boire un verre ?
+
+--- Non, merci, je suis en retard déjà\... On m\'attend à Magnolles, à Bazoches, à vingt endroits. Bonsoir !
+
+Du coup, Berthe ne l\'accompagna même pas ; et, de retour dans la mercerie, elle dit à Françoise :
+
+--- En voilà un mal poli ! C\'est moi qui renommerais l\'autre, le vieux !
+
+M. Rochefontaine venait de remonter dans son landau, lorsque des claquements de fouet lui firent tourner la tête. C\'était Hourdequin, qui arrivait dans son cabriolet modeste, que conduisaian. Le fermier n\'avait appris la visite de l\'usinier à Rognes que par hasard, un de ses charretiers ayant rencontré le landau sur la route ; et il accourait pour voir le péril en face, d\'autant plus inquiet que, depuis huit jours, il pressait M. de Chédeville de faire acte de présence, sans pouvoir l\'arracher à quelque jupon sans doute, peut-être la jolie huissière.
+
+--- Tiens ! c\'est vous ! cria-t-il gaillardement à M. Rochefontaine. Je ne vous savais pas déjà en campagne.
+
+Les deux voitures s\'étaient rangées roue à roue. Ni l\'un ni l\'autre ne descendirent, et ils causèrent quelques minutes, après s\'être penchés pour se donner une poignée de main. Ils se connaissaient, ayant parfois déjeuné ensemble chez le maire de Châteaudun.
+
+--- Vous êtes donc contre moi ? demanda brusquement M. Rochefontaine, avec sa rudesse.
+
+Hourdequin, qui, à cause de sa situation de maire, comptait ne pas agir trop ouvertement, resta un instant décontenancé, de voir que ce diable d\'homme avait une police si bien faite. Mais il ne manquait pas de carrure, lui non plus, et il répondit d\'un ton gai, afin de laisser à l\'explication un tour amical :
+
+--- Je ne suis contre personne, je suis pour moi\... Mon homme, c\'est celui qui me protégera. Quand on pense que le blé est tombé à seize francs, juste ce qu\'il me coûte à produire ! Autant ne plus toucher un outil et crever !
+
+Tout de suite, l\'autre se passionna.
+
+--- Ah ! oui, la protection, n\'est-ce pas ? la surtaxe, un droit de prohibition sur les blés étrangers, pour que les blés français doublent le prix ! Enfin, la France affamée, le pain de quatre livres à vingt sous, la mort des pauvres !\... Comment, vous, un homme de progrès, osez-vous en revenir à ces monstruosités ?
+
+--- Un homme de progrès, un homme de progrès, répéta Hourdequin de son air gaillard, sans doute j\'en suis un ; mais ça me coûte si cher, que je vais bientôt ne plus pouvoir me payer ce luxe\... Les machines, les engrais chimiques, toutes les méthodes nouvelles, voyez-vous, c\'est très beau, c\'est très bien raisonné, et ça n\'a qu\'un inconvénient, celui de vous ruiner d\'après la saine logique.
+
+--- Parce que vous êtes un impatient, parce que vous exigez de la science des résultats immédiats, complets, parce que vous vous découragez des tâtonnements nécessaires, jusqu\'à douter des vérités acquises et à tomber dans la négation de tout !
+
+--- Peut-être bien. Je n\'aurais donc fait que des expériences. Hein ? dites qu\'on me décore pour ça, et que d\'autres bons bougres continuent !
+
+Hourdequin éclata d\'un gros rire à sa plaisanterie, qu\'il jugeait concluante. Vivement, M. Rochefontaine avait repris :
+
+--- Alors, vous voulez que l\'ouvrier meure de faim ?
+
+--- Pardon ! je veux que le paysan vive.
+
+--- Mais moi qui occupe douze cents ouvriers, je ne puis pourtant élever les salaires, sans faire faillite\... Si le blé était à trente francs, je les verrais tomber comme des mouches.
+
+--- Eh bien, et moi, est-ce que je n\'ai point de serviteurs ? Quand le blé est à seize francs, nous nous serrons le ventre, il y a de pauvres diables qui claquent au fond de tous les fossés, dans nos campagnes.
+
+Puis, il ajouta, en continuant à rire :
+
+--- Dame ! chacun prêche pour son saint !\... Si je ne vous vends pas le pain cher, c\'est la terre en France qui fait faillite, et si je vous le vends cher, c\'est l\'industrie qui met la clef sous la porte. Votre main-d\'œuvre augmente, les produits manufacturés renchérissent, mes outils, mes vêtements, les cent choses dont j\'ai besoin\... Ah ! un beau gâchis, où nous finirons par culbuter !
+
+Tous deux, le cultivateur et l\'usinier, le protectionniste et le libre-échangiste, se dévisagèrent, l\'un avec le ricanement de sa bonhomie sournoise, l\'autre avec la hardiesse franche de son hostilité. C\'était l\'état de guerre moderne, la bataille économique actuelle, sur le terrain de la lutte pour la vie.
+
+--- On forcera bien le paysan à nourrir l\'ouvrier, dit M. Rochefontaine.
+
+--- Tâchez donc, répéta Hourdequin, que le paysan mange d\'abord.
+
+Et il sauta enfin de son cabriolet, et l\'autre jetait un nom de village à son cocher, lorsque Macqueron, ennuyé de voir que ses amis du conseil, venus sur le seuil, avaient entendu, cria qu\'on allait boire un verre tous ensemble ; mais, de nouveau, le candidat refusa, ne serra pas une seule main, se renversa au fond de son landau, qui partit, au trot sonore des deux grands percherons.
+
+À l\'autre angle de la route, Lengaigne, debout sur sa porte, en train de repasser un rasoir, avait vu toute la scène. Il eut un rire insultant, il lâcha très haut, à l\'adresse du voisin :
+
+--- Baise mon cul et dis merci !
+
+Hourdequin, lui, était entré et avait accepté un verre. Dès que Jean eut attaché le cheval à un des volets, il suivit son maître. Françoise, qui l\'appelait d\'un petit signe, dans la mercerie, lui conta son départ, toute l\'affaire ; et il en fut si remué, il craignit tellement de la compromettre, devant le monde, qu\'il revint s\'asseoir sur un banc du cabaret, après avoir simplement murmuré qu\'il faudrait se revoir, afin de s\'entendre.
+
+--- Ah ! nom de Dieu ! vous n\'êtes pas dégoûtés tout de même, si vous votez pour ce cadet-là ! cria Hourdequin en reposant son verre.
+
+Son explication avec M. Rochefontaine l\'avait décidé à la lutte ouverte, quitte à rester sur le carreau. Et il ne le ménagea plus, il le compara à M. de Chédeville, un si brave homme, pas fier, toujours heureux de rendre service, un vrai noble de la vieille France enfin ! tandis que ce grand pète-sec, ce millionnaire à la mode d\'aujourd\'hui, hein ? regardait-il les gens du haut de sa grandeur, jusqu\'à refuser de goûter le vin du pays, de peur sans doute d\'être empoisonné ! Voyons, voyons, ce n\'était pas possible ! on ne changeait pas un bon cheval contre un cheval borgne !
+
+--- Dites, qu\'est-ce que vous reprochez à M. de Chédeville ? voilà des années qu\'il est votre député, il a toujours fait votre affaire\... Et vous le lâchez pour un bougre que vous traitiez comme un gueux, aux dernières élections, lorsque le gouvernement le combattait ! Rappelez-vous, que diable !
+
+Macqueron, ne voulant pas s\'engager directement, affectait d\'aider sa femme à servir. Tous les paysans avaient écouté, le visage immobile, sans qu\'un pli indiquât leur pensée secrète. Ce fut Delhomme qui répondit :
+
+--- Quand on ne connaît pas le monde !
+
+--- Mais vous le connaissez maintenant, cet oiseau ! Vous l\'avez entendu dire qu\'il veut le blé à bon marché, qu\'il votera pour que les blés étrangers viennent écraser les nôtres. Je vous ai déjà expliqué ça, c\'est la vraie ruine. Et, si vous êtes assez bêtes pour le croire ensuite, quand il vous fait de belles promesses ! Oui, oui, votez ! ce qu\'il se fichera de vous plus tard !
+
+Un sourire vague avait paru sur le cuir tanné de Delhomme. Toute la finesse endormie au fond de cette intelligence droite et bornée apparut en quelques phrases lentes.
+
+--- Il dit ce qu\'il dit, on en croit ce qu\'on en croit\... Lui ou un autre, mon Dieu !\... On n\'a qu\'une idée, voyez-vous, celle que le gouvernement soit solide pour faire aller les affaires ; et alors, n\'est-ce pas ? histoire de ne point se tromper, le mieux est d\'envoyer au gouvernement le député qu\'il demande\... Ça nous suffit que ce monsieur de Châteaudun soit l\'ami de l\'empereur.
+
+À ce dernier coup, Hourdequin demeura étourdi. Mais c\'était M. de Chédeville, qui, autrefois, était l\'ami de l\'empereur ! Ah ! race de serfs, toujours au maître qui la fouaille et la nourrit, aujourd\'hui encore dans l\'aplatissement et l\'égoïsme héréditaires, ne voyant rien, ne sachant rien, au-delà du pain de la journée !
+
+--- Eh bien, tonnerre de Dieu ! je vous jure que, le jour où ce Rochefontaine sera nommé, je foutrai ma démission, moi ! Est-ce qu\'on me prend pour un polichinelle, à dire blanc et à dire noir !\... Si ces brigands de républicains étaient aux Tuileries, vous seriez avec eux, ma parole !
+
+Les yeux de Macqueron avaient flambé. Enfin, ça y était, le maire venait de signer sa chute ; car l\'engagement qu\'il prenait aurait suffi, dans son impopularité, à faire voter le pays contre M. de Chédeville.
+
+Mais, à ce moment, Jésus-Christ, oublié dans son coin avec son ami Canon, rigola si fort, que tous les yeux se portèrent sur lui. Les coudes au bord de la table, le menton dans les mains, il répétait très haut, avec des ricanements de mépris, en regardant les paysans qui étaient là :
+
+--- Tas de couillons ! tas de couillons !
+
+Et ce fut justement sur ce mot que Buteau entra. Son œil vif, qui, dès la porte, avait découvert Françoise dans la mercerie, reconnut tout de suitan, assis contre le mur, écoutant, attendant son maître. Bon ! la fille et le galant étaient là, on allait voir !
+
+--- Tiens, v\'là mon frère, le plus couillon de tous ! gueula Jésus-Christ.
+
+Des grognements de menace s\'élevèrent, on parlait de flanquer le mal embouché dehors, lorsque Leroi, dit Canon, s\'en mêla, de sa voix éraillée de faubourien, qui avait disputé dans toutes les réunions socialistes de Paris.
+
+--- Tais ta gueule, mon petit ! Ils ne sont pas si bêtes qu\'ils en ont l\'air\... Écoutez donc, vous autres, les paysans, qu\'est-ce que vous diriez, si l\'on collait, en face, à la porte de la mairie, une affiche où il y aurait, imprimé en grosses lettres : « Commune révolutionnaire de Paris : primo, tous les impôts sont abolis ; secundo, le service militaire est aboli\... » Hein ? qu\'est-ce que vous en diriez, les culs-terreux ?
+
+L\'effet fut si extraordinaire, que Delhomme, Fouan, Clou, Bécu demeurèrent béants, les yeux arrondis. Lequeu en lâcha son journal ; Hourdequin, qui s\'en allait, rentra ; Buteau, oubliant Françoise, s\'assit sur un coin de table. Et ils regardaient tous ce déguenillé, ce rouleur de routes, l\'effroi des campagnes, vivant de maraudes et d\'aumônes forcées. L\'autre semaine, on l\'avait chassé de la Borderie, où il était apparu comme un spectre, dans le jour tombant. C\'était pourquoi il couchait à cette heure chez cette fripouille de Jésus-Christ, d\'où il disparaîtrait le lendemain peut-être.
+
+--- Je vois que ça vous gratterait tout de même au bon endroit, reprit-il d\'un air gai.
+
+--- Nom de Dieu, oui ! confessa Buteau. Quand on pense que j\'ai encore porté hier de l\'argent au percepteur ! Ça n\'en finit jamais, ça nous mange la peau du corps !
+
+--- Et ne plus voir ses garçons partir, ah ! bon sang ! s\'écria Delhomme. Moi qui paie pour exempter Nénesse, je sais ce que ça me coûte.
+
+--- Sans compter, ajouta Fouan, que si vous ne pouvez pas payer, on vous les prend et on vous les tue.
+
+Canon hochait la tête, triomphait en riant.
+
+--- Tu vois bien, dit-il à Jésus-Christ, qu\'ils ne sont pas si bêtes que ça, les culs-terreux !
+
+Puis, se retournant :
+
+--- On nous crie que vous êtes conservateurs, que vous ne laisserez pas faire\... Conservateurs de vos intérêts, oui, n\'est-ce pas ? Vous laisserez faire et vous aiderez à faire tout ce qui vous rapportera. Hein ? pour garder vos sous et vos enfants, vous en commettriez des choses !\... Autrement, vous seriez de rudes imbéciles !
+
+Personne ne buvait plus, un malaise commençait à paraître sur ces visages épais. Il continua, goguenard, s\'amusant à l\'avance de l\'effet qu\'il allait produire.
+
+--- Et c\'est pourquoi je suis bien tranquille, moi qui vous connais, depuis que vous me chassez de vos portes à coups de pierres\... Comme le disait ce gros monsieur-là, vous serez avec nous, les rouges, les partageux, quand nous serons aux Tuileries.
+
+--- Ah ! ça, non ! crièrent à la fois Buteau, Delhomme et les autres.
+
+Hourdequin, qui avait écouté attentivement, haussa les épaules.
+
+--- Vous perdez votre salive, mon brave !
+
+Mais Canon souriait toujours, avec la belle confiance d\'un croyant. Renversé, le dos contre la muraille, il s\'y frottait une épaule après l\'autre, dans un léger dandinement de caresse inconsciente. Et il expliquait l\'affaire, cette révolution dont l\'annonce de ferme en ferme, mystérieuse, mal comprise, épouvantait les maîtres et les serviteurs. D\'abord, les camarades de Paris s\'empareraient du pouvoir : ça se passerait peut-être naturellement, on aurait à fusiller moins de monde qu\'on ne croyait, tout le grand bazar s\'effondrerait de lui-même, tant il était pourri. Puis, lorsqu\'on serait les maîtres absolus, dès le soir, on supprimerait la rente, on s\'emparerait des grandes fortunes, de façon que la totalité de l\'argent, ainsi que les instruments du travail, feraient retour à la nation ; et l\'on organiserait une société nouvelle, une vaste maison financière, industrielle et commerciale, une répartition logique du labeur et du bien-être. Dans les campagnes, ce serait plus simple encore. On commencerait par exproprier les possesseurs du sol, on prendrait la terre\...
+
+--- Essayez donc ! interrompit de nouveau Hourdequin ; on vous recevrait à coups de fourche, pas un petit propriétaire ne vous en laisserait prendre une poignée.
+
+--- Est-ce que j\'ai dit qu\'on tourmenterait les pauvres ? répondit Canon, gouailleur. Faudrait que nous soyons rudement serins, pour nous fâcher avec les petits\... Non, non, on respectera d\'abord la terre des malheureux bougres qui se crèvent à multiplier quelques arpents\... Et ce qu\'on prendra seulement, ce sont les deux cents hectares des gros messieurs de votre espèce, qui font suer des serviteurs à leur gagner des écus\... Ah ! nom de Dieu ! je ne crois pas que vos voisins viennent vous défendre avec leurs fourches. Ils seront trop contents !
+
+Macqueron ayant éclaté d\'un gros rire, comme voyant la chose en farce, tous l\'imitèrent ; et le fermier, pâlissant, sentit l\'antique haine : ce gueux avait raison, pas un de ces paysans, même le plus honnête, qui n\'aurait aidé à le dépouiller de la Borderie !
+
+--- Alors, demanda sérieusement Buteau, moi qui possède environ dix setiers, je les garderai, on me les laissera ?
+
+--- Mais bien sûr, camarade\... Seulement, on est certain que, plus tard, lorsque vous verrez les résultats obtenus, à côté, dans les fermes de la nation, vous viendrez, sans qu\'on vous en prie, y joindre votre morceau\... Une culture en grand, avec beaucoup d\'argent, des mécaniques, d\'autres affaires encore, tout ce qu\'il y a de mieux comme science. Moi, je ne m\'y connais pas ; mais faut entendre parler là-dessus des gens, à Paris, qui expliquent très bien que la culture est foutue, si l\'on ne se décide pas à la pratiquer ainsi !\... Oui, de vous-même, vous donnerez votre terre.
+
+Buteau eut un geste de profonde incrédulité, ne comprenant plus, rassuré pourtant, puisqu\'on ne lui demandait rien ; tandis que, repris de curiosité depuis que l\'homme s\'embrouillait sur cette grande culture nationale, Hourdequin prêtait de nouveau une oreille patiente. Les autres attendaient la fin, comme au spectacle. Deux fois, Lequeu, dont la face blême s\'empourprait, avait ouvert la bouche, pour s\'en mêler ; et, chaque fois, en homme prudent, il s\'était mordu la langue.
+
+--- Et ma part, à moi ! cria brusquement Jésus-Christ. Chacun doit avoir sa part. Liberté, égalité, fraternité !
+
+Canon, du coup, s\'emporta, levant la main comme s\'il giflait le camarade.
+
+--- Vas-tu me foutre la paix avec ta liberté, ton égalité et ta fraternité !\... Est-ce qu\'on a besoin d\'être libre ? une jolie farce ! Tu veux donc que les bourgeois nous collent encore dans leur poche ? Non, non, on forcera le peuple au bonheur, malgré lui !\... Alors, tu consens à être l\'égal, le frère d\'un huissier ? Mais, bougre de bête ! c\'est en gobant ces âneries-là que tes républicains de 48 ont foiré leur sale besogne !
+
+Jésus-Christ, interloqué, déclara qu\'il était pour la grande Révolution.
+
+--- Tu me fais suer, tais-toi !\... Hein ? 89, 93 ! oui, de la musique ! une belle menterie dont on nous casse les oreilles ! Est-ce que ça existe, cette blague, à côté de ce qu\'il reste à faire ? On va voir ça, quand le peuple sera le maître, et ça ne traînera guère, tout craque, je te promets que notre siècle, comme on dit, finira d\'une façon autrement chouette que l\'autre. Un fameux nettoyage, un coup de torchon comme il n\'y en a jamais eu !
+
+Tous frémirent, et ce soûlard de Jésus-Christ lui-même se recula, effrayé, dégoûté, du moment qu\'on n\'était plus frères. Jean, intéressé jusque-là, eut aussi un geste de révolte. Mais Canon s\'était levé, les yeux flambants, la face noyée d\'une extase prophétique.
+
+--- Et il faut que ça arrive, c\'est fatal, comme qui dirait un caillou qu\'on a lancé en l\'air et qui retombe forcément\... Et il n\'y a plus là-dedans des histoires de curé, des choses de l\'autre monde, le droit, la justice, qu\'on n\'a jamais vues, pas plus qu\'on n\'a vu le bon Dieu ! Non, il n\'y a que le besoin que nous avons tous d\'être heureux\... Hein ? mes bougres, dites-vous qu\'on va s\'entendre pour que chacun s\'en donne par-dessus la tête, avec le moins de travail possible ! Les machines travailleront pour nous, la journée de simple surveillance ne sera plus que de quatre heures ; peut-être même qu\'on arrivera à se croiser complètement les bras. Et partout des plaisirs, tous les besoins cultivés et contentés, oui ! de la viande, du vin, des femmes, trois fois davantage qu\'on n\'en peut prendre aujourd\'hui, parce qu\'on se portera mieux. Plus de pauvres, plus de malades, plus de vieux, à cause de l\'organisation meilleure, de la vie moins dure, des bons hôpitaux, des bonnes maisons de retraite. Un paradis ! toute la science mise à se la couler douce ! la vraie jouissance enfin d\'être vivant !
+
+Buteau, emballé, donna un coup de poing sur une table en gueulant :
+
+--- L\'impôt, foutu ! le tirage au sort, foutu ! tous les embêtements, foutus ! rien que le plaisir !\... Je signe.
+
+--- Bien sûr, déclara Delhomme sagement. Faudrait être l\'ennemi de son corps pour ne pas signer.
+
+Fouan approuva, ainsi que Macqueron, Clou et les autres. Bécu, stupéfié, bouleversé dans ses idées autoritaires, vint demander tout bas à Hourdequin s\'il ne fallait pas coffrer ce brigand, qui attaquait l\'empereur. Mais le fermier le calma d\'un haussement d\'épaules. Ah ! oui, le bonheur ! on le rêvait par la science après l\'avoir rêvé par le droit : c\'était peut-être plus logique, ça n\'était toujours pas pour le lendemain. Et il partait de nouveau, il appelaian, tout à la discussion, lorsque Lequeu céda brusquement à son besoin de s\'en mêler, dont il étouffait, comme d\'une rage contenue.
+
+--- À moins, lâcha-t-il de sa voix aigre, que vous ne soyez tous crevés avant ces belles affaires\... Crevés de faim ou crevés à coups de fusil par les gendarmes, si la faim vous rend méchants\...
+
+On le regardait, on ne comprenait pas.
+
+--- Certainement que, si le blé continue à venir d\'Amérique, il n\'existera plus dans cinquante ans un seul paysan en France\... Est-ce que notre terre pourra lutter avec celle de là-bas ? À peine commencerons-nous à y essayer la vraie culture, que nous serons inondés de grains\... J\'ai lu un livre qui en dit long, c\'est vous autres qui êtes foutus.
+
+Mais, dans son emportement, il eut la soudaine conscience de tous ces visages effarés, tournés vers lui. Et il n\'acheva même pas sa phrase, il termina par un furieux geste, puis affecta de se replonger dans la lecture de son journal.
+
+--- C\'est bien à cause du blé d\'Amérique, déclara Canon, que vous serez foutus en effet, tant que le peuple ne s\'emparera pas des grandes terres.
+
+--- Et moi, conclut Hourdequin, je vous répète qu\'il ne faut point que ce blé entre\... Après ça, votez pour M. Rochefontaine, si vous avez assez de moi à la mairie et si vous voulez le blé à quinze francs.
+
+Il remonta dans son cabriolet, suivi de Jean. Puis, comme ce dernier fouettait le cheval, après avoir échangé un regard d\'entente avec Françoise, il dit à son maître, qui l\'approuva d\'un hochement de tête :
+
+--- Faudrait pas trop songer à ces machines-là, on en deviendrait fou.
+
+Dans le cabaret, Macqueron parlait vivement à Delhomme, tout bas, tandis que Canon, qui avait repris son air de se ficher du monde, achevait le cognac en blaguant Jésus-Christ démonté, qu\'il appelait « mademoiselle Quatre-vingt-treize ». Mais Buteau, sortant d\'une songerie, s\'aperçut brusquement que Jean s\'en était allé, et il resta surpris de retrouver là Françoise, à la porte de la salle, où elle était venue se planter en compagnie de Berthe, pour entendre. Cela le fâcha d\'avoir perdu son temps à la politique, lorsqu\'il avait des affaires sérieuses. Cette saleté de politique, elle vous prenait tout de même au ventre. Il eut, dans un coin, une longue explication avec Cœlina qui finit par l\'empêcher de faire un esclandre immédiat ; valait mieux que Françoise retournât chez lui d\'elle-même, quand on l\'aurait calmée ; et il partit à son tour, en menaçant de la venir chercher avec une corde et un bâton, si on ne la décidait pas.
+
+Le dimanche suivant, M. Rochefontaine fut élu député, et Hourdequin ayant envoyé sa démission au préfet, Macqueron enfin devint maire, crevant dans sa peau d\'insolent triomphe.
+
+Ce soir-là, on surprit Lengaigne, enragé, qui posait culotte à la porte de son rival victorieux. Et il gueula :
+
+--- Je fais où ça me dit, maintenant que les cochons gouvernent !
+
+
+::: WordSection
+[
+]{.calibre12}
+
+[![Description : Ornement 2 BIS](../../../images/emile-zola/la-fortune-des-rougon/Zola1_image014.jpg){.calibre50}]{.calibre49}[
+
+
+[LA TERRE]{lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+Quatrième partie
+
+
+]{.calibre22} [![Description : Ornement 2](../../../images/emile-zola/la-faute-de-labbe-mouret/Zola1_image021.jpg){.calibre47}]{.calibre22}
+
+### []{#_Toc368941851 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368941420 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940989 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940558 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368940127 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939696 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368939265 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938834 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368938403 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937972 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937541 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368937110 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936679 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368936248 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935817 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368935386 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934955 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934524 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368934093 .pcalibre .calibre2 .pcalibre1}[VI]{#_Toc368933662 .pcalibre .calibre2 .pcalibre1} {#vi .calibre59 .sigil_not_in_toc}
+
+
+La semaine se passa, Françoise s\'entêtait à ne pas rentrer chez sa sœur, et il y eut une scène abominable, sur la route : Buteau, qui la traînait par les cheveux, dut la lâcher, cruellement mordu au pouce ; si bien que Macqueron prit peur et qu\'il mit lui-même la jeune fille à la porte, en lui déclarant que, comme représentant de l\'autorité, il ne pouvait l\'encourager davantage dans sa révolte.
+
+Mais justement la Grande passait, et elle emmena Françoise. Âgée de quatre-vingt-huit ans, elle ne se préoccupait de sa mort que pour laisser à ses héritiers, avec sa fortune, le tracas de procès sans fin : une complication de testament extraordinaire, embrouillée par plaisir, où, sous le prétexte de ne faire du tort à personne, elle les forçait de se dévorer tous ; une idée à elle, puisqu\'elle ne pouvait emporter ses biens, de s\'en aller au moins avec la consolation qu\'ils empoisonneraient les autres. Et elle n\'avait de la sorte pas de plus gros amusement que de voir la famille se manger. Aussi s\'empressa-t-elle d\'installer sa nièce dans sa maison, combattue un instant par sa ladrerie, décidée tout de suite à la pensée d\'en tirer beaucoup de travail contre peu de pain. En effet, dès le soir, elle lui fit laver l\'escalier et la cuisine. Puis, lorsque Buteau se présenta, elle le reçut debout, de son bec mauvais de vieil oiseau de proie ; et lui, qui parlait de tout casser chez Macqueron, il trembla, il bégaya, paralysé par l\'espoir de l\'héritage, n\'osant entrer en lutte avec la terrible Grande.
+
+--- J\'ai besoin de Françoise, je la garde, puisqu\'elle ne se plaît pas chez vous\... Du reste, la voici majeure, vous avez des comptes à lui rendre. Faudra en causer.
+
+Buteau partit, furieux, épouvanté des embêtements qu\'il sentait venir.
+
+Huit jours après, en effet, vers le milieu d\'août, Françoise eut vingt et un ans. Elle était sa maîtresse, à cette heure. Mais elle n\'avait guère fait que changer de misère, car elle aussi tremblait devant sa tante, et elle se tuait de travail, dans cette maison froide d\'avare, où tout devait reluire naturellement, sans qu\'on dépensât ni savon ni brosse : de l\'eau pure et des bras, ça suffisait. Un jour, pour s\'être oubliée jusqu\'à donner du grain aux poules, elle faillit avoir la tête fendue d\'un coup de canne. On racontait que, soucieuse d\'épargner les chevaux, la Grande attelait son petit-fils Hilarion à la charrue ; et, si l\'on inventait ça, la vérité était qu\'elle le traitait en vraie bête, tapant sur lui, le massacrant d\'ouvrage, abusant de sa force de brute, à le laisser sur le flanc, mort de fatigue, si mal nourri d\'ailleurs, de croûtes et d\'égouttures comme le cochon, qu\'il crevait continuellement de faim, dans son aplatissement de terreur. Lorsque Françoise comprit qu\'elle complétait la paire, à l\'attelage, elle n\'eut plus qu\'une envie, quitter la maison. Et ce fut alors que, brusquement, la volonté lui vint de se marier.
+
+Elle, simplement, désirait en finir. Plutôt que de se remettre avec Lise, elle se serait fait tuer, raidie dans une de ces idées de justice, qui, enfant, la ravageaient déjà. Sa cause était la seule juste, elle se méprisait d\'avoir patienté si longtemps ; et elle restait muette sur Buteau, elle ne parlait durement que de sa sœur, sans laquelle on aurait pu continuer à loger ensemble. Aujourd\'hui que c\'était cassé, bien cassé, elle vivait dans l\'unique pensée de se faire rendre son bien, sa part d\'héritage. Ça la tracassait du matin au soir, elle s\'emportait parce qu\'il fallait des formalités, à n\'en point sortir. Comment ? ceci est à moi, ceci est à toi, et l\'on n\'en finissait pas en trois minutes ! C\'était donc qu\'on s\'entendait pour la voler ? Elle soupçonnait toute la famille, elle en arrivait à se dire que, seul, un homme, un mari, la tirerait de là. Sans doute, Jean n\'avait pas grand comme la main de terre, et il était son aîné de quinze ans. Mais aucun autre garçon ne la demandait, pas un peut-être ne se serait risqué, à cause des histoires chez Buteau, que personne ne voulait avoir contre soi, tant on le craignait à Rognes. Puis, quoi ? elle était allée une fois avec Jean ; ça ne faisait trop rien, puisqu\'il n\'y avait pas eu de suite ; seulement, il était bien doux, bien honnête. Autant celui-là, du moment qu\'elle n\'en aimait pas d\'autre et qu\'elle en prenait un, n\'importe lequel, pour qu\'il la défendît et pour que Buteau enrageât. Elle aussi aurait un homme à elle.
+
+Jean, lui, avait gardé une grande amitié au cœur. Son envie de l\'avoir s\'était calmée, et beaucoup, à la désirer si longtemps. Il ne revenait pas moins à elle très gentiment, se regardant comme son homme, puisque des promesses étaient échangées. Il avait patienté jusqu\'à sa majorité, sans la contrarier dans son idée d\'attendre, l\'empêchant au contraire de mettre les choses contre elle, chez sa sœur. Maintenant, elle pouvait donner plus de raisons qu\'il n\'en fallait pour avoir les braves gens de son côté. Aussi, tout en blâmant la façon brutale dont elle était partie, lui répétait-il qu\'elle tenait le bon bout. Enfin, quand elle voudrait causer du reste, il était prêt.
+
+Le mariage fut arrêté ainsi, un soir qu\'il était venu la retrouver, derrière l\'étable de la Grande. Une vieille barrière pourrie s\'ouvrait là, sur une impasse, et tous deux restèrent accotés, lui dehors, elle dedans, avec le ruisseau de purin qui leur coulait entre les jambes.
+
+--- Tu sais, Caporal, dit-elle la première, en le regardant dans les yeux, si ça te va encore, ça me va, à cette heure.
+
+Il la regardait fixement, lui aussi, il répondit d\'une voix lente :
+
+--- Je ne t\'en reparlais plus, parce que j\'aurais eu l\'air d\'en vouloir à ton bien\... Mais tu as tout de même raison, c\'est le moment.
+
+Un silence régna. Il avait posé la main sur celle de la jeune fille, qu\'elle appuyait à la barrière. Ensuite, il reprit :
+
+--- Et il ne faut pas que l\'idée de la Cognette te tourmente, à cause des histoires qui ont couru\... Voici bien trois ans que je ne lui ai plus seulement touché la peau.
+
+--- Alors, c\'est comme moi, déclara-t-elle, je ne veux point que l\'idée de Buteau te taquine\... Le cochon gueule partout qu\'il m\'a eue. Peut-être bien que tu le crois ?
+
+--- Tout le monde le croit dans le pays, murmura-t-il, pour éluder la question.
+
+Puis, comme elle le regardait toujours :
+
+--- Oui, je l\'ai cru\... Et, vrai ! je comprenais ça, car je connais le bougre, tu ne pouvais pas faire autrement que d\'y passer.
+
+--- Oh ! il a essayé, il m\'a assez pétri le corps ! Mais, si je te jure que jamais il n\'est allé au bout, me croiras-tu ?
+
+--- Je te crois.
+
+Pour lui marquer son plaisir, il acheva de lui prendre la main, la garda serrée dans la sienne, le bras accoudé sur la barrière. S\'étant aperçu que l\'écoulement de l\'étable mouillait ses souliers, il avait écarté les jambes.
+
+--- Tu semblais rester chez lui de si bon cœur, ça aurait pu t\'amuser, qu\'il t\'empoignât\...
+
+Elle eut un malaise, son regard si droit et si franc s\'était baissé.
+
+--- D\'autant plus que tu ne voulais pas davantage avec moi, tu te rappelles ? N\'importe, cet enfant que j\'enrageais de ne pas t\'avoir fait, vaut mieux aujourd\'hui qu\'il reste à faire. C\'est tout de même plus propre.
+
+Il s\'interrompit, il lui fit remarquer qu\'elle était dans le ruisseau.
+
+--- Prends garde, tu te trempes.
+
+Elle écarta ses pieds à son tour, elle conclut :
+
+--- Alors, nous sommes d\'accord.
+
+--- Nous sommes d\'accord, fixe la date qui te plaira.
+
+Et ils ne s\'embrassèrent même point, ils se secouèrent la main, en bons amis, par-dessus la barrière. Puis, chacun d\'eux s\'en alla de son côté.
+
+Le soir, lorsque Françoise dit sa volonté d\'épouser Jean, en expliquant qu\'il lui fallait un homme pour la faire rentrer dans son bien, la Grande ne répondit rien d\'abord. Elle était restée droite, avec ses yeux ronds ; elle calculait la perte, le gain, le plaisir qu\'elle y aurait ; et, le lendemain seulement, elle approuva le mariage. Toute la nuit, sur sa paillasse, elle avait roulé l\'affaire, car elle ne dormait presque plus, elle demeurait les paupières ouvertes jusqu\'au jour, à imaginer des choses désagréables contre la famille. Ce mariage lui était apparu gros de telles conséquences pour tout le monde, qu\'elle en avait brûlé d\'une vraie fièvre de jeunesse. Déjà, elle prévoyait les moindres ennuis, elle les compliquait, les rendait mortels. Si bien qu\'elle déclara à sa nièce vouloir se charger de tout, par amitié. Elle lui dit ce mot, accentué d\'un terrible brandissement de canne : puisqu\'on l\'abandonnait, elle lui servirait de mère ; et on allait voir ça !
+
+En premier lieu, la Grande fit comparaître devant elle son frère Fouan, pour causer de ses comptes de tutelle. Mais le vieux ne put donner une seule explication. Si on l\'avait nommé tuteur, ce n\'était pas de sa faute ; et, au demeurant, puisque M. Baillehache avait tout fait, fallait s\'adresser à M. Baillehache. Du reste, dès qu\'il s\'aperçut qu\'on travaillait contre les Buteau, il exagéra son ahurissement. L\'âge et la conscience de sa faiblesse le laissaient éperdu, lâche, à la merci de tous. Pourquoi donc se serait-il fâché avec les Buteau ? Deux fois déjà, il avait failli retourner chez eux, après des nuits de frissons, tremblant d\'avoir vu Jésus-Christ et la Trouille rôder dans sa chambre, enfoncer leurs bras nus jusque sous le traversin, pour lui voler les papiers. Bien sûr qu\'on finirait par l\'assassiner au Château, s\'il ne filait pas, un soir. La Grande, ne pouvant rien tirer de lui, le renvoya épouvanté, en criant qu\'il irait en justice, si l\'on avait touché à la part de la petite. Delhomme, qu\'elle effraya ensuite, comme membre du conseil de famille, rentra chez lui malade, au point que Fanny accourut derrière son dos dire qu\'ils préféraient y être de leur poche, plutôt que d\'avoir des procès. Ça marchait, ça commençait à être amusant.
+
+La question était de savoir s\'il fallait d\'abord entamer l\'affaire du partage des biens ou procéder tout de suite au mariage. La Grande y songea deux nuits, puis se prononça pour le mariage immédiat : Françoise mariée an, réclamant sa part, assistée de son mari, ça augmenterait l\'embêtement des Buteau. Alors, elle bouscula les choses, retrouva des jambes de jeune garce, s\'occupa des papiers de sa nièce, se fit remettre ceux de Jean, régla tout à la mairie et à l\'église, poussa la passion jusqu\'à prêter l\'argent nécessaire, contre un papier signé des deux, et où la somme fut doublée, pour les intérêts. Ce qui lui arrachait le cœur, c\'étaient les verres de vin forcément offerts, au milieu des apprêts ; mais elle avait son vinaigre tourné, son chasse-cousin, si imbuvable qu\'on se montrait d\'une grande discrétion. Elle décida qu\'il n\'y aurait point de repas, à cause des ennuis de famille : la messe et un coup de chasse-cousin, simplement, pour trinquer au bonheur du ménage. Les Charles, invités, s\'excusèrent, prétextant les soucis que leur causait leur gendre Vaucogne. Fouan, inquiet, se coucha, fit dire qu\'il était malade. Et, des parents, il ne vint que Delhomme, qui voulut bien être l\'un des témoins de Françoise, afin de marquer l\'estime où il tenaian, un bon sujet. De son côté, celui-ci n\'amena que ses témoins, son maître Hourdequin et un des serviteurs de la ferme. Rognes était en l\'air, ce mariage si rondement mené, gros de tant de batailles, fut guetté de chaque porte. À la mairie, Macqueron, devant l\'ancien maire, exagéra les formalités, tout gonflé de son importance. À l\'église, il y eut un incident pénible, l\'abbé Madeline s\'évanouit, en disant sa messe. Il n\'allait pas bien, il regrettait ses montagnes, depuis qu\'il vivait dans la plate Beauce, navré de l\'indifférence religieuse de ses nouveaux paroissiens, si bouleversé des commérages et des disputes continuelles des femmes, qu\'il n\'osait même plus les menacer de l\'enfer. Elles l\'avaient senti faible, elles en abusaient jusqu\'à le tyranniser dans les choses du culte. Pourtant, Cœlina, Flore, toutes, montrèrent un grand apitoiement de ce qu\'il était tombé le nez sur l\'autel, et elles déclarèrent que c\'était un signe de mort prochaine pour les mariés.
+
+On avait décidé que Françoise continuerait à loger chez la Grande, tant que le partage ne serait pas fait, car elle avait arrêté, dans sa volonté de fille têtue, qu\'elle aurait la maison. À quoi bon louer ailleurs, pour quinze jours ? Jean, qui devait rester charretier à la ferme, en attendant, viendrait simplement la retrouver, chaque soir. Leur nuit de noces fut toute bête et triste, bien qu\'ils ne fussent pas fâchés d\'être enfin ensemble. Comme il la prenait, elle se mit à pleurer si fort, qu\'elle en suffoquait ; et pourtant il ne lui avait pas fait de mal, il y était allé au contraire très gentiment. Le pire était qu\'au milieu de ses sanglots, elle lui répondait qu\'elle n\'avait rien contre lui, qu\'elle pleurait sans pouvoir s\'arrêter, en ne sachant même pas pourquoi. Naturellement, une pareille histoire n\'était guère de nature à échauffer un homme. Il eut beau ensuite la reprendre, la garder dans ses bras, ils n\'y éprouvèrent point de plaisir, moins encore que dans la meule, la première fois. Ces choses-là, comme il l\'expliqua, quand ça ne se faisait pas tout de suite, ça perdait de son goût. D\'ailleurs, malgré ce malaise, cette sorte de gêne qui leur avait barbouillé le cœur à l\'un et à l\'autre, ils étaient très d\'accord, ils achevèrent la nuit, ne pouvant dormir, à décider de quelle façon marcheraient les choses, lorsqu\'ils auraient la maison et la terre.
+
+Dès le lendemain, Françoise exigea le partage. Mais la Grande n\'était plus si pressée : d\'abord, elle voulait faire traîner le plaisir, en tirant le sang de la famille à coups d\'épingle ; ensuite, elle avait su trop bien profiter de la petite et de son mari, qui chaque soir payait de deux heures de travail son loyer de la chambre, pour être impatiente de les voir la quitter et s\'installer chez eux. Cependant, il lui fallut aller demander aux Buteau comment ils entendaient le partage. Elle-même, au nom de Françoise, exigeait la maison, la moitié de la pièce de labour, la moitié du pré, et abandonnait la moitié de la vigne, un arpent qu\'elle estimait valoir la maison, à peu près. C\'était juste et raisonnable, en somme, car ce règlement à l\'amiable aurait évité de mettre dans l\'affaire la justice, qui en garde toujours trop gras aux mains. Buteau, que l\'entrée de la Grande avait révolutionné, forcé qu\'il était de la respecter, celle-là, à cause de ses sous, ne put en entendre davantage. Il sortit violemment, de crainte d\'oublier son intérêt jusqu\'à taper dessus. Et Lise, restée seule, le sang aux oreilles, bégaya de colère.
+
+--- La maison, elle veut la maison, cette dévergondée, cette rien du tout, qui s\'est mariée sans même me venir voir !\... Eh bien, ma tante, dites-lui que le jour où elle aura la maison, faudra sûrement que je sois crevée.
+
+La Grande demeura calme :
+
+--- Bon ! bon ! ma fille, pas besoin de se tourner le sang\... Tu veux aussi la maison, c\'est ton droit. On va voir.
+
+Et, pendant trois jours, elle voyagea ainsi, entre les deux sœurs, portant de l\'une à l\'autre les sottises qu\'elles s\'adressaient, les exaspérant à ce point, que toutes les deux faillirent se mettre au lit. Elle, sans se lasser, faisait valoir combien elle les aimait et quelle reconnaissance ses nièces lui devraient, pour s\'être résignée à ce métier de chien. Enfin, il fut convenu qu\'on partagerait la terre, mais que la maison et le mobilier, ainsi que les bêtes, seraient vendus judiciairement, puisqu\'on ne pouvait s\'entendre. Chacune des deux sœurs jurait qu\'elle rachèterait la maison n\'importe à quel prix, quitte à y laisser sa dernière chemise.
+
+Grosbois vint donc arpenter les biens et les diviser en deux lots. Il y avait un hectare de prairie, un autre de vignes, deux de labour ; et c\'étaient ces derniers surtout, au lieu-dit des Cornailles, que Buteau, depuis son mariage, s\'entêtait à ne pas lâcher, car ils touchaient au champ qu\'il tenait lui-même de son père, ce qui constituait une pièce de près de trois hectares, telle que pas un paysan de Rognes n\'en possédait. Aussi, quel enragement, lorsqu\'il vit Grosbois installer son équerre et planter les jalons ! La Grande était là, à surveiller, Jean ayant préféré ne pas y être, de peur d\'une bataille. Et une discussion s\'engagea, car Buteau voulait que la ligne fût tirée parallèlement au vallon de l\'Aigre, de façon que son champ restât soudé à son lot, quel qu\'il fût ; tandis que la tante exigeait que la division fût faite perpendiculairement, dans l\'unique but de le contrarier. Elle l\'emporta, il serra les poings, étranglé de fureur contenue.
+
+--- Alors, nom de Dieu ! si je tombe sur le premier lot, je serai coupé en deux, j\'aurai ça d\'un côté et mon champ de l\'autre ?
+
+--- Dame ! mon petit, c\'est à toi de tirer le lot qui t\'arrange.
+
+Il y avait un mois que Buteau ne décolérait pas. D\'abord, la fille lui échappait ; il était malade de désir rentré, depuis qu\'il ne lui prenait plus la chair à poignées sous la jupe, avec l\'espoir obstiné de l\'avoir toute un jour ; et, après le mariage, l\'idée que l\'autre la tenait dans son lit, s\'en donnait sur elle tant qu\'il voulait, avait achevé de lui allumer le sang du corps. Puis, maintenant, c\'était la terre que l\'autre lui retirait des bras pour la posséder, elle aussi. Autant lui couper un membre. La fille encore, ça se retrouvait ; mais la terre, une terre qu\'il regardait comme sienne, qu\'il s\'était juré de ne jamais rendre ! Il voyait rouge, cherchait des moyens, rêvait confusément des violences, des assassinats, que la terreur des gendarmes l\'empêchait seule de commettre.
+
+Enfin, un rendez-vous fut pris chez M. Baillehache, où Buteau et Lise se retrouvèrent pour la première fois en face de Françoise et de Jean, que la Grande avait accompagnés par plaisir, sous le prétexte d\'empêcher les choses de tourner au vilain. Ils entrèrent tous les cinq, raides, silencieux, dans le cabinet. Les Buteau s\'assirent à droite. Jean, à gauche, resta debout derrière Françoise, comme pour dire qu\'il n\'en était pas, qu\'il venait simplement autoriser sa femme. Et la tante prit place au milieu, maigre et haute, tournant ses yeux ronds et son nez de proie sur les uns, puis sur les autres, satisfaite. Les deux sœurs n\'avaient même pas semblé se connaître, sans un mot, sans un regard, le visage dur. Il n\'y eut qu\'un coup d\'œil échangé entre les hommes, rapide, luisant et à fond, pareil à un coup de couteau.
+
+--- Mes amis, dit M. Baillehache, que ces attitudes dévorantes laissaient calme, nous allons terminer avant tout le partage des terres, sur lequel vous êtes d\'accord.
+
+Cette fois, il exigea d\'abord les signatures. L\'acte se trouvait prêt, la désignation des lots seule demeurait en blanc, à la suite des noms ; et tous durent signer avant le tirage au sort, auquel il fit procéder séance tenante, afin d\'éviter tout ennui.
+
+Françoise ayant amené le numéro deux, Lise dut prendre le numéro un, et la face de Buteau devint noire, sous le flot qui en gonfla les veines. Jamais de chance ! sa parcelle tranchée en deux ! cette garce de cadette et son mâle plantés là, avec leur part, entre son morceau de gauche et son morceau de droite !
+
+--- Nom de Dieu de nom de Dieu ! jura-t-il entre ses dents. Sacré cochon de bon Dieu !
+
+Le notaire le pria d\'attendre d\'être dans la rue.
+
+--- Il y a que ça nous coupe là-haut, en plaine, fit remarquer Lise, sans se tourner vers sa sœur. Peut-être qu\'on consentira à faire un échange. Ça nous arrangerait, et ça ne ferait du tort à personne.
+
+--- Non ! dit Françoise sèchement.
+
+La Grande approuva d\'un signe de tête : ça portait malheur de défaire ce que le sort avait fait. Et ce coup malicieux du destin l\'égayait, tandis que Jean n\'avait pas bougé, derrière sa femme, si résolu à se tenir à l\'écart, que son visage n\'exprimait rien.
+
+--- Voyons, reprit le notaire, tâchons d\'en finir, ne nous amusons pas.
+
+Les deux sœurs, d\'une commune entente, l\'avaient choisi pour procéder à la licitation de la maison, des meubles et des bêtes. La vente par voie d\'affiches fut fixée au deuxième dimanche du mois : elle se ferait dans son étude, et le cahier des charges portait que l\'adjudicataire aurait le droit d\'entrer en jouissance le jour même de l\'adjudication. Enfin, après la vente, le notaire procéderait aux divers règlements de compte, entre les cohéritières. Tout cela fut accepté, sans discussion.
+
+Mais, à ce moment, Fouan, qu\'on attendait comme tuteur, fut introduit par un clerc, qui empêcha Jésus-Christ d\'entrer, tellement le bougre était soûl. Bien que Françoise fût majeure depuis un mois, les comptes de tutelle n\'étaient pas rendus encore, ce qui compliquait les choses ; et il devenait nécessaire de s\'en débarrasser, pour dégager la responsabilité du vieux. Il les regardait, les uns et les autres, de ses petits yeux écarquillés ; il tremblait, dans sa peur croissante d\'être compromis et de se voir traîné en justice.
+
+Le notaire donna lecture du relevé des comptes. Tous l\'écoutaient, les paupières battantes, anxieux de ne pas toujours comprendre, redoutant, s\'ils laissaient passer un mot, que leur malheur ne fût dans ce mot.
+
+--- Avez-vous des réclamations à faire ? demanda M. Baillehache, quand il eut fini.
+
+Ils restèrent effarés. Quelles réclamations ? Peut-être bien qu\'ils oubliaient des choses, qu\'ils y perdaient.
+
+--- Pardon, déclara brusquement la Grande, mais ça ne fait pas du tout le compte de Françoise, ça ! et faut vraiment que mon frère se bouche l\'œil exprès, pour ne pas voir qu\'elle est volée !
+
+Fouan bégaya :
+
+--- Hein ? quoi ?\... Je ne lui ai pas pris un sou, devant Dieu je le jure !
+
+--- Je dis que Françoise, depuis le mariage de sa sœur, ce qui fait depuis cinq ans bientôt, est restée dans le ménage comme servante, et qu\'on lui doit des gages.
+
+Buteau, à ce coup imprévu, sauta sur sa chaise. Lise elle-même étouffa.
+
+--- Des gages !\... Comment ? à une sœur !\... Ah bien ! ce serait trop cochon !
+
+M. Baillehache dut les faire taire, en affirmant que la mineure avait parfaitement le droit de réclamer des gages, si elle le voulait.
+
+--- Oui, je veux, dit Françoise. Je veux tout ce qui est à moi.
+
+--- Et ce qu\'elle a mangé, alors ? cria Buteau hors de lui. Ça ne traînait pas avec elle, le pain et la viande. On peut la tâter, elle n\'est pas grasse de lécher les murs, la feignante !
+
+--- Et le linge, et les robes ? continua furieusement Lise. Et le blanchissage ? qu\'en deux jours elle vous salissait une chemise, tellement elle suait !
+
+Françoise, vexée, répondit :
+
+--- Si je suais tant que ça, c\'est donc que je travaillais.
+
+--- La sueur, ça sèche, ça ne salit pas, ajouta la Grande.
+
+De nouveau, M. Baillehache intervint. Et il leur expliqua que c\'était un compte à faire, les gages d\'un côté, la nourriture et l\'entretien de l\'autre. Il avait pris une plume, il essaya d\'établir ce compte, sur leurs indications. Mais ce fut terrible. Françoise, soutenue par la Grande, avait des exigences, estimait son travail très cher, énumérait tout ce qu\'elle faisait dans la maison, et les vaches, et le ménage, et la vaisselle, et les champs, où son beau-frère l\'employait comme un homme. De leur côté, les Buteau, exaspérés, grossissaient la note de frais, comptaient les repas, mentaient sur les vêtements, réclamaient jusqu\'à l\'argent des cadeaux faits aux jours de fête. Pourtant, malgré leur âpreté, il arriva qu\'ils redevaient cent quatre-vingt-six francs. Ils en restèrent les mains tremblantes, les yeux enflammés, cherchant encore ce qu\'ils pourraient déduire.
+
+On allait accepter le chiffre, lorsque Buteau cria :
+
+--- Minute ! et le médecin, quand elle a eu son sang arrêté\.... Il est venu deux fois. Ça fait six francs.
+
+La Grande ne voulut pas qu\'on tombât d\'accord sur cette victoire des autres, et elle bouscula Fouan, exigeant qu\'il se souvînt des journées que la petite avait faites pour la ferme, autrefois, lorsqu\'il demeurait dans la maison. Était-ce cinq ou six journées à trente sous ? Françoise criait six, Lise cinq, violemment, comme si elles se fussent jeté des pierres. Et le vieux, éperdu, donnait raison à l\'une, donnait raison à l\'autre, en se tapant le front de ses deux poings. Françoise l\'emporta, le chiffre total fut de cent quatre-vingt-neuf francs.
+
+--- Alors, cette fois, c\'est bien tout ? demanda le notaire.
+
+Buteau, sur sa chaise, semblait anéanti, écrasé par ce compte qui grossissait toujours, ne luttant plus, se croyant au bout du malheur. Il murmura d\'une voix dolente :
+
+--- Si l\'on veut ma chemise, je vas l\'ôter.
+
+Mais la Grande réservait un dernier coup, terrible, quelque chose de gros et de bien simple, que tout le monde oubliait.
+
+--- Écoutez donc, et les cinq cents francs de l\'indemnité, pour le chemin, là-haut ?
+
+D\'un saut, Buteau se trouva debout, les yeux hors de la tête, la bouche ouverte. Rien à dire, pas de discussion possible : il avait touché l\'argent, il devait en rendre la moitié. Un instant, il chercha ; puis, ne trouvant pas de retraite, dans la folie qui montait et lui battait le crâne, il se rua brusquement suan.
+
+--- Bougre de salop, qui a tué notre bonne amitié ! Sans toi, on serait encore en famille, tous collés, tous gentils !
+
+Jean, très raisonnable dans son silence, dut se mettre sur la défensive.
+
+--- Touche pas ou je cogne !
+
+Vivement, Françoise et Lise s\'étaient levées, se plantant chacune devant son homme, le visage gonflé de leur haine lentement accrue, les ongles enfin dehors, prêtes à s\'arracher la peau. Et une bataille générale, que ni la Grande ni Fouan ne semblaient disposés à empêcher, aurait sûrement fait voler les bonnets et les cheveux, si le notaire n\'était sorti de son flegme professionnel.
+
+--- Mais, nom d\'un chien ! attendez d\'être dans la rue ! C\'est agaçant, qu\'on ne puisse tomber d\'accord sans se battre.
+
+Lorsque tous, frémissants, se tinrent tranquilles, il ajouta :
+
+--- Vous l\'êtes, d\'accord, n\'est-ce pas ?\... Eh bien, je vais arrêter les comptes de tutelle, on les signera, puis nous procéderons à la vente de la maison, pour en finir\.... Allez-vous-en, et soyez sages, les bêtises coûtent cher, des fois !
+
+Cette parole acheva de les calmer. Mais, comme ils sortaient, Jésus-Christ, qui avait attendu le père, insulta toute la famille, en gueulant que c\'était une vraie honte, de fourrer un pauvre vieux dans ces sales histoires, pour le voler, bien sûr ; et, attendri par l\'ivresse, il l\'emmena comme il l\'avait amené, sur la paille d\'une charrette, empruntée à un voisin. Les Buteau filèrent d\'un côté, la Grande poussan et Françoise au *Bon Laboureur*, où elle se fit payer du café noir. Elle rayonnait.
+
+--- J\'ai tout de même bien ri ! conclut-elle, en mettant le reste du sucre dans sa poche.
+
+Ce jour-là encore, la Grande eut une idée. En rentrant à Rognes, elle courut s\'entendre avec le père Saucisse, un de ses anciens amoureux, disait-on. Comme les Buteau avaient juré qu\'ils pousseraient la maison, contre Françoise, jusqu\'à y laisser la peau, elle s\'était dit que, si le vieux paysan la poussait de son côté, les autres peut-être ne se méfieraient pas et la lui lâcheraient ; car il se trouvait leur voisin, il pouvait avoir l\'envie de s\'agrandir. Tout de suite, il accepta, moyennant un cadeau. Si bien que, le deuxième dimanche du mois, aux enchères, les choses se passèrent comme elle l\'avait prévu. De nouveau, dans l\'étude de Me Baillehache, les Buteau étaient d\'un côté, Françoise et Jean de l\'autre, avec la Grande ; et il y avait du monde, quelques paysans, venus avec l\'idée vague d\'acheter, si c\'était pour rien. Mais, en quatre ou cinq enchères, jetées d\'une voix brève par Lise et Françoise, la maison monta à trois mille cinq cents francs, ce qu\'elle valait. Françoise, à trois mille huit, s\'arrêta. Alors, le père Saucisse entra en scène, décrocha les quatre mille, mit encore cinq cents francs. Effarés, les Buteau se regardaient : ce n\'était plus possible, l\'idée de tout cet argent les glaçait. Lise, pourtant, se laissa emporter jusqu\'à cinq mille. Et elle fut écrasée, lorsque le vieux paysan, d\'un seul coup, sauta à cinq mille deux. C\'était fini, la maison lui fut adjugée à cinq mille deux cents francs. Les Buteau ricanèrent, cette grosse somme serait bonne à toucher, du moment que Françoise et son vilain bougre, eux aussi, étaient battus.
+
+Cependant, lorsque Lise, de retour à Rognes, rentra dans cette antique demeure, où elle était née, où elle avait vécu, elle se mit à sangloter. Buteau, de même, étranglait, serré à la gorge, au point qu\'il finit par se soulager sur elle, en jurant que, lui, aurait donné jusqu\'au dernier poil de son corps ; mais ces sans-cœur de femmes, ça ne vous avait la bourse ouverte, comme les cuisses, que pour la godaille. Il mentait, c\'était lui qui l\'avait arrêtée ; et ils se battirent. Ah ! la pauvre vieille maison patrimoniale des Fouan, bâtie il y avait trois siècles par un ancêtre, aujourd\'hui branlante, lézardée, tassée, raccommodée de toutes parts, le nez tombé en avant sous le souffle des grands vents de la Beauce ! Dire que la famille l\'habitait depuis trois cents ans, qu\'on avait fini par l\'aimer et par l\'honorer comme une vraie relique, si bien qu\'elle comptait lourd dans les héritages ! D\'une gifle, Buteau renversa Lise, qui se releva et faillit lui casser la jambe d\'une ruade.
+
+Le lendemain soir, ce fut autre chose, le coup de tonnerre éclata. Le père Saucisse étant allé, le matin, faire la déclaration de command, Rognes sut, dès midi, qu\'il avait acheté la maison pour le compte de Françoise, autorisée par Jean ; et non seulement la maison, mais encore les meubles, Gédéon et la Coliche. Chez les Buteau, il y eut un hurlement de douleur et de détresse, comme si la foudre était entrée. L\'homme, la femme, tombés à terre, pleuraient, gueulaient, dans le désespoir sauvage de n\'être pas les plus forts, d\'avoir été joués par cette garce de gamine. Ce qui les affolait, c\'était surtout d\'entendre qu\'on riait d\'eux dans tout le village, tant ils avaient peu montré de malignité. Nom de Dieu ! s\'être fait rouler ainsi, se laisser foutre à la porte de chez soi, en un tour de main ! Ah ! non, par exemple, on allait voir !
+
+Quand la Grande se présenta, le soir même, au nom de Françoise, pour s\'entendre poliment avec Buteau sur le jour où il comptait déménager, il la flanqua dehors, perdant toute prudence, répondant d\'un seul mot.
+
+--- Merde !
+
+Elle s\'en alla très contente, elle lui cria simplement qu\'on enverrait l\'huissier. Dès le lendemain, en effet, Vimeux, pâle et inquiet, plus minable qu\'à l\'ordinaire, monta la rue, frappa avec précaution, guetté par les commères des maisons voisines. On ne répondit pas, il dut frapper plus fort, il osa appeler, en expliquant que c\'était pour la sommation d\'avoir à déguerpir. Alors, la fenêtre du grenier s\'ouvrit, une voix gueula le mot, le même, l\'unique.
+
+--- Merde !
+
+Et un pot plein de la chose fut vidé. Trempé du haut en bas, Vimeux dut remporter la sommation. Rognes s\'en tient encore les côtes.
+
+Mais, tout de suite, la Grande avait emmenan à Châteaudun, chez l\'avoué. Celui-ci leur expliqua qu\'il fallait au moins cinq jours, avant d\'en arriver à l\'expulsion : le référé introduit, l\'ordonnance rendue par le président, la levée au greffe de cette ordonnance, enfin l\'expulsion, pour laquelle l\'huissier se ferait aider des gendarmes, s\'il le fallait. La Grande discuta afin de gagner un jour, et lorsqu\'elle fut de retour à Rognes, comme on était au mardi, elle annonça partout, que le samedi soir, les Buteau seraient jetés dans la rue à coups de sabre, ainsi que des voleurs, s\'ils n\'avaient pas d\'ici là quitté la maison de bonne grâce.
+
+Quand on répéta la nouvelle à Buteau, il eut un geste de terrible menace. Il criait à qui voulait l\'entendre qu\'il ne sortirait pas vivant, que les soldats seraient obligés de démolir les murs, avant de l\'en arracher. Et, dans le pays, on ne savait s\'il faisait le fou, ou s\'il l\'était réellement devenu, tant sa colère touchait à l\'extravagance. Il passait sur les routes, debout à l\'avant de sa voiture, au galop de son cheval, sans répondre, sans crier gare ; même on l\'avait rencontré la nuit, tantôt d\'un côté, tantôt d\'un autre, revenant on ne savait d\'où, du diable bien sûr. Un homme, qui s\'était approché, avait reçu un grand coup de fouet. Il semait la terreur, le village fut bientôt en continuelle alerte. On s\'aperçut, un matin, qu\'il s\'était barricadé chez lui ; et des cris effroyables s\'élevaient derrière les portes closes, des hurlements où l\'on croyait reconnaître les voix de Lise et de ses deux enfants. Le voisinage en fut révolutionné, on tint conseil, un vieux paysan finit par se dévouer en appliquant une échelle à une fenêtre, pour monter voir. Mais la fenêtre s\'ouvrit, Buteau renversa l\'échelle et le vieux, qui faillit avoir les jambes rompues. Est-ce qu\'on n\'était pas libre chez soi ? Il brandissait les poings, il gueulait qu\'il aurait leur peau à tous, s\'ils le dérangeaient encore. Le pis fut que Lise se montra, elle aussi, avec les deux mioches, lâchant des injures, accusant le monde de mettre le nez où il n\'avait que faire. On n\'osa plus s\'en mêler. Seulement, les transes grandirent à chaque nouveau vacarme, on venait écouter en frémissant les abominations qu\'on entendait de la rue. Les malins croyaient qu\'il avait son idée. D\'autres juraient qu\'il perdait la boule et que ça finirait par un malheur. Jamais on ne sut au juste.
+
+Le vendredi, la veille du jour où l\'on attendait l\'expulsion, une scène surtout émotionna. Buteau, ayant rencontré son père près de l\'église, se mit à pleurer comme un veau et s\'agenouilla par terre, devant lui, en demandant pardon d\'avoir fait la mauvaise tête, anciennement. C\'était peut-être bien ça qui lui portait malheur. Il le suppliait de revenir loger chez eux, il semblait croire que ce retour seul pouvait y ramener la chance. Fouan, ennuyé de ce qu\'il braillait, étonné de son apparent repentir, lui promit d\'accepter un jour, quand tous les embêtements de la famille seraient terminés.
+
+Enfin, le samedi arriva. L\'agitation de Buteau était allée en croissant, il attelait et dételait du matin au soir, sans raison, et les gens se sauvaient, devant cet enragement de courses en voiture, qui ahurissait par son inutilité. Le samedi, dès huit heures, il attela une fois encore ; mais il ne sortit point, il se planta sur sa porte, appelant les voisins qui passaient, ricanant, sanglotant, hurlant son affaire en termes crus. Hein ? c\'était rigolo tout de même d\'être emmerdé par une petite garce qu\'on avait eue pour traînée pendant cinq ans ! Oui, une putain ! et sa femme aussi ! deux fières putains, les deux sœurs, qui se battaient à qui y passerait la première ! Il revenait à ce mensonge, avec des détails ignobles, pour se venger. Lise étant sortie, une querelle atroce s\'engagea, il la rossa devant le monde, la renvoya détendue et soulagée, contenté, lui aussi, d\'avoir tapé fort. Et il restait sur la porte à guetter la justice, il goguenardait, l\'insultait : est-ce qu\'elle se faisait foutre en chemin, la justice ? Il ne l\'attendait plus, il triomphait.
+
+Ce fut seulement à quatre heures que Vimeux parut avec deux gendarmes. Buteau pâlit, ferma précipitamment la porte de la cour. Peut-être n\'avait-il jamais cru qu\'on irait jusqu\'au bout. La maison tomba à un silence de mort. Insolent cette fois, sous la protection de la force armée, Vimeux frappa des deux poings. Rien ne répondait. Les gendarmes durent s\'en mêler, ébranlèrent la vieille porte à coups de crosse. Toute une queue d\'hommes, de femmes et d\'enfants les avait suivis, Rognes entier était là, dans l\'attente du siège annoncé. Et, brusquement, la porte se rouvrit, on aperçut Buteau debout à l\'avant de sa voiture, fouettant son cheval, sortant au galop et poussant droit à la foule. Il clamait, au milieu des cris d\'effroi :
+
+--- Je vas me neyer ! je vas me neyer !
+
+C\'était foutu, il parlait d\'en finir, de se jeter dans l\'Aigre, avec sa voiture, son cheval, tout !
+
+--- Gare donc ! je vas me neyer !
+
+Une épouvante avait dispersé les curieux, devant les coups de fouet et le train emporté de la carriole. Mais, comme il la lançait sur la pente, à fracasser les roues, des hommes coururent pour l\'arrêter. Cette sacrée tête de pioche était bien capable de faire le plongeon, histoire d\'embêter les autres. On le rattrapa, il fallut batailler, sauter à la tête du cheval, monter dans la voiture. Quand on le ramena, il ne soufflait plus un mot, les dents serrées, tout le corps raidi, laissant s\'accomplir le destin, dans la muette protestation de sa rage impuissante.
+
+
+--- Jean-foutre qui nous laisse flanquer à la rue ! T\'as pas de cœur, dis ? que tu ne cognes pas sur ces cochons-là\... Va donc, lâche, lâche ! t\'es plus un homme !
+
+Comme elle lui criait ça dans la face, exaspérée de son immobilité, il finit par la repousser si rudement, qu\'elle en hurla. Mais il ne sortit point de son silence, il n\'eut sur elle que son regard noir.
+
+--- Allons, la mère, dépêchons, dit Vimeux triomphant. Nous ne partirons que lorsque vous aurez remis les clefs aux nouveaux propriétaires.
+
+Dès lors, Lise commença à déménager, dans un coup de fureur. Depuis trois jours, elle et Buteau avaient déjà porté beaucoup de choses, les outils, les gros ustensiles, chez leur voisine, la Frimat ; et l\'on comprit qu\'ils s\'attendaient tout de même à l\'expulsion, car ils s\'étaient mis d\'accord avec la vieille femme, qui, pour leur donner le temps de se retourner, leur louait son chez-elle, trop grand, en s\'y réservant seulement la chambre de son homme paralytique. Puisque les meubles étaient vendus avec la maison, et les bêtes aussi, il ne restait à Lise qu\'à emporter son linge, ses matelas, d\'autres menues affaires. Tout dansa par la porte et les fenêtres, jusqu\'au milieu de la cour, tandis que ses deux petits pleuraient en croyant leur dernier jour venu, Laure cramponnée à ses jupes, Jules étalé, vautré en plein déballage. Comme Buteau ne l\'aidait même pas, les gendarmes, braves gens, se mirent à charger les paquets dans la voiture.
+
+Mais tout se gâta encore, lorsque Lise aperçut Françoise et Jean, qui attendaient, derrière la Grande. Elle se rua, elle lâcha le flot amassé de sa rancune.
+
+--- Ah ! salope, tu es venue voir avec ton salop\... Eh bien ! tu vois notre peine, c\'est comme si tu nous buvais le sang\... Voleuse, voleuse, voleuse !
+
+Elle s\'étranglait avec ce mot, elle revenait le jeter à sa sœur, chaque fois qu\'elle apportait dans la cour un nouvel objet. Celle-ci ne répondait pas, très pâle, les lèvres amincies, les yeux brûlants ; et elle affectait d\'être toute à une surveillance blessante, suivant des yeux les choses, pour voir si on ne lui emportait rien. Justement, elle reconnut un escabeau de la cuisine, compris dans la vente.
+
+--- C\'est à moi, ça, dit-elle d\'une voix rude.
+
+--- À toi ? alors, va le chercher ! répondit l\'autre, qui envoya l\'escabeau nager dans la mare.
+
+La maison était libre. Buteau prit le cheval par la bride, Lise ramassa ses deux enfants, ses deux derniers paquets, Jules sur le bras droit, Laure sur le bras gauche ; puis, comme elle quittait enfin la vieille demeure, elle s\'approcha de Françoise, elle lui cracha au visage.
+
+--- Tiens ! v\'là pour toi !
+
+Sa sœur, tout de suite, cracha aussi.
+
+--- V\'là pour toi !
+
+Et Lise et Françoise, dans cet adieu de haine empoisonnée, s\'essuyèrent lentement sans se quitter du regard, détachées à jamais, n\'ayant plus d\'autre lien que la révolte ennemie de leur même sang.
+
+Enfin, rouvrant la bouche, Buteau gueula le mot de départ, avec un geste de menace vers la maison.
+
+--- À bientôt, nous reviendrons !
+
+La Grande les suivit, pour voir jusqu\'au bout, décidée d\'ailleurs, maintenant que ceux-là étaient par terre, à se tourner contre les autres, qui la lâchaient si vite et qu\'elle trouvait déjà trop heureux. Longtemps, des groupes stationnèrent, causant à demi-voix. Françoise et Jean étaient entrés dans la maison vide.
+
+Au moment où les Buteau, de leur côté, déballaient leurs nippes chez la Frimat, ils furent étonnés de voir paraître le père Fouan, qui demanda, suffoqué, effaré, avec un regard en arrière, comme si quelque malfaiteur le poursuivait :
+
+--- Y a-t-il un coin pour moi, ici ? Je viens coucher.
+
+C\'était toute une épouvante que le faisait galoper, en fuite du Château. Il ne pouvait plus se réveiller la nuit, sans que la Trouille en chemise promenât dans la chambre sa maigre nudité de garçon, à la recherche des papiers, qu\'il avait fini par cacher dehors, au fond d\'un trou de roche, muré de terre. Jésus-Christ l\'envoyait, cette garce, à cause de sa légèreté, de sa souplesse, pieds nus, se coulant partout, entre les chaises, sous le lit, ainsi qu\'une couleuvre ; et elle se passionnait à cette chasse, persuadée que le vieux reprenait les papiers sur lui en s\'habillant, furieuse de ne pas découvrir où il les déposait, avant de se coucher ; car il n\'y avait certainement rien dans le lit, elle y enfonçait son bras mince, le sondait d\'une main adroite, dont le grand-père devinait à peine le frôlement. Mais voilà qu\'après le déjeuner, ce jour-là, il avait été pris d\'une faiblesse, étourdi, culbuté près de la table. Et, en revenant à lui, si assommé encore qu\'il ne rouvrait pas les yeux, il s\'était retrouvé par terre, à la même place, il avait eu l\'émotion de sentir que Jésus-Christ et la Trouille le déshabillaient. Au lieu de lui porter secours, les bougres n\'avaient qu\'une idée, profiter vite de l\'occasion, le visiter. Elle surtout y mettait une brutalité colère, n\'y allant plus doucement, tirant sur la veste, sur la culotte, et aïe donc ! regardant jusqu\'à la peau, dans tous les trous, afin d\'être sûre qu\'il n\'y avait pas fourré son magot. Des deux poings elle le retournait, lui écartait les membres, le fouillait comme une vieille poche vide. Rien ! Où donc avait-il sa cachette ? C\'était à l\'ouvrir pour voir dedans ! Une telle terreur d\'être assassiné, s\'il bougeait, l\'avait saisi, qu\'il continuait de feindre l\'évanouissement, les paupières closes, les jambes et les bras morts. Seulement, lâché enfin, libre, il s\'était enfui, bien résolu à ne pas coucher au Château.
+
+--- Alors, vous avez un coin pour moi ? demanda-t-il encore.
+
+Buteau semblait ragaillardi par ce retour imprévu de son père. C\'était de l\'argent qui revenait.
+
+--- Mais bien sûr, vieux ! On se serrera donc ! Ça nous portera chance\... Ah ! nom de Dieu ! je serais riche, s\'il ne s\'agissait que d\'avoir du cœur !
+
+Françoise et Jean étaient entrés lentement dans la maison vide. La nuit tombait, une dernière lueur triste éclairait les pièces silencieuses. Tout cela était très ancien, ce toit patrimonial qui avait abrité le travail et la misère de trois siècles ; si bien que quelque chose de grave traînait là, comme dans l\'ombre des vieilles églises de village. Les portes étaient restées ouvertes, un coup d\'orage semblait avoir soufflé sous les poutres, des chaises gisaient par terre, en déroute, au milieu de la débâcle du déménagement. On aurait dit une maison morte.
+
+Et Françoise, à petits pas, faisait le tour, regardait partout. Des sensations confuses, des souvenirs vagues s\'éveillaient en elle. À cette place, elle avait joué enfant. C\'était dans la cuisine, près de la table, que son père était mort. Dans la chambre, devant le lit sans paillasse, elle se rappela Lise et Buteau, les soirs où ils se prenaient si rudement, qu\'elle les entendait souffler à travers le plafond. Est-ce que, maintenant encore, ils allaient la tourmenter ? Elle sentait bien que Buteau était toujours présent. Ici, il l\'avait empoignée un soir, et elle l\'avait mordu. Là aussi, là aussi. Dans tous les coins, elle retrouvait des idées qui l\'emplissaient de trouble.
+
+Puis, comme Françoise se retournait, elle resta surprise d\'apercevoian. Que faisait-il donc chez eux, cet étranger ? Il avait un air de gêne, il paraissait en visite, n\'osant toucher à rien. Une sensation de solitude la désola, elle fut désespérée de ne pas être plus joyeuse de sa victoire. Elle aurait cru entrer là en criant de contentement, en triomphant derrière le dos de sa sœur. Et la maison ne lui faisait pas plaisir, elle avait le cœur barbouillé de malaise. C\'était peut-être ce jour si mélancolique qui tombait. Elle et son homme finirent par se trouver dans la nuit noire, rôdant toujours d\'une pièce à une autre, sans avoir eu même le courage d\'allumer une chandelle.
+
+Mais un bruit les ramena dans la cuisine, et ils s\'égayèrent en reconnaissant Gédéon, qui, entré comme à son habitude, fouillait le buffet resté ouvert. La vieille Coliche meuglait, à côté, au fond de l\'étable.
+
+Alors, Jean, prenant Françoise entre ses bras, la baisa doucement, comme pour dire qu\'on allait tout de même être heureux.

@@ -1,0 +1,1758 @@
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27 lang="EN-GB"}
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368752740 .pcalibre .calibre2 .pcalibre1}[]{#_Table_des_matières .pcalibre .calibre2 .pcalibre1}Table des matières {#calibre_toc_14 .calibre33}
+
+!{#Image5727 .calibre34}
+
+[[Lettre à un ami]{.calibre35}](../Text/Zola7_split_003.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Rodolpho (fragments)]{.calibre35}](../Text/Zola7_split_004.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[I]{.calibre35}](../Text/Zola7_split_005.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[II]{.calibre35}](../Text/Zola7_split_006.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[III]{.calibre35}](../Text/Zola7_split_007.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[IV]{.calibre35}](../Text/Zola7_split_008.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[V]{.calibre35}](../Text/Zola7_split_009.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[VI]{.calibre35}](../Text/Zola7_split_010.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[VII]{.calibre35}](../Text/Zola7_split_011.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[L\'aérienne (fragments)]{.calibre35}](../Text/Zola7_split_012.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[I]{.calibre35}](../Text/Zola7_split_013.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[II]{.calibre35}](../Text/Zola7_split_014.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[III]{.calibre35}](../Text/Zola7_split_015.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[IV]{.calibre35}](../Text/Zola7_split_016.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[Paolo (fragments)]{.calibre35}](../Text/Zola7_split_017.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[I]{.calibre35}](../Text/Zola7_split_018.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[II]{.calibre35}](../Text/Zola7_split_019.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[III]{.calibre35}](../Text/Zola7_split_020.htm){.pcalibre .calibre2 .pcalibre1}
+
+[[IV]{.calibre35}](../Text/Zola7_split_021.htm){.pcalibre .calibre2 .pcalibre1}
+
+
+---
+
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27 lang="EN-GB" xmlns:xml="http://www.w3.org/XML/1998/namespace"}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909103 .pcalibre .calibre2 .pcalibre1}[Lettre à un ami]{#_Toc368909043 .pcalibre .calibre2 .pcalibre1}[[\[1\]]{.MsoFootnoteReference .MsoFootnoteReference .calibre38 .calibre39 .sgc-2}](../Text/Zola7_split_071.htm#_ftn1){#_ftnref1 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_15 .calibre33}
+
+
+MON CHER ALEXIS,
+
+
+Vous me demandez quelques fragments de mes oeuvres de jeunesse, pour accompagner l\'étude biographique que vous avez bien voulu écrire sur moi. Je fouille dans mes tiroirs, et je ne trouve que des vers. Huit à dix mille dorment là, depuis vingt ans, du bon sommeil de l\'oubli.
+
+Il serait certainement sage de ne pas les tirer de leur poussière. Moi seul peux sentir encore leur parfum, ce lointain parfum des fleurs séchées, qu\'on retrouve après des années entre les pages d\'un livre. Mais je cède à vos désirs, je prends une poignée de ces vers d\'enfant, et je vous les donne, puisqu\'il doit être intéressant pour vos lecteurs, dites-vous, de voir par où j\'ai commencé. Ils seront la pièce à l\'appui, après le procès-verbal.
+
+J\'avoue que je cède aussi à un autre sentiment. De mon temps, nous imitions Musset, nous nous moquions de la rime riche, nous étions des passionnés. Aujourd\'hui, l\'imitation d\'Hugo et de Gautier l\'emporte, on a raffiné sur les orfèvreries des poètes impeccables, on a mis la poésie hors de l\'humanité, dans le pur travail de la langue et du rythme. Eh bien ! je veux dire que si, pour ma grande honte à coup sûr, je m\'étais entêté à faire des vers, j\'aurais protesté contre ce mouvement que je juge déplorable. Notre poésie française, après l\'épuisement de la veine superbe de 1830, trouvera son renouveau dans un retour au vieux bon sens national, à l\'étude vivante des douleurs et des joies de l\'homme.
+
+Au demeurant, je n\'ai pu relire mes vers sans sourire. Ils sont bien faibles, et de seconde main, pas plus mauvais pourtant que les vers des hommes de mon âge qui s\'obstinent à rimer. Ma seule vanité est d\'avoir eu conscience de ma médiocrité de poète et de m\'être courageusement mis à la besogne du siècle, avec le rude outil de la prose. A vingt ans, il est beau de prendre une telle décision, surtout avant d\'avoir pu se débarrasser des imitations fatales. Si donc mes vers doivent servir ici à quelque chose, je souhaite qu\'ils fassent rentrer en eux les poètes inutiles, n\'ayant pas le génie nécessaire pour se dégager de la formule romantique, et qu\'ils les décident à être de braves prosateurs, tout bêtement.
+
+Chateaubriand dit dans ses Mémoires : « J\'ai écrit longtemps en vers avant d\'écrire en prose. M. de Fontanes prétendait que j\'avais reçu les deux instruments. » J\'ai, moi aussi, écrit longtemps en vers avant d\'écrire en prose ; mais. si j\'ignore ce qu\'aurait Prétendu M. de Fontanes, je sais bien que je me refuse totalement l\'un des instruments, et qu\'il y a des jours où je ne m\'accorde pas même l\'autre.
+
+Cordialement à vous,
+
+ÉMILE ZOLA.
+
+Médan, 1er décembre 1881.
+
+
+---
+
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27 lang="EN-GB"}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909104 .pcalibre .calibre2 .pcalibre1}[Rodolpho (fragments)]{#_Toc368909044 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_16 .calibre33}
+
+
+::: WordSection
+[
+]{.calibre40}
+
+[]{#_Toc368778525 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368778187 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368777849 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368777511 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368777173 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368776497 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368776159 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368775821 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368775483 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368775145 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368774807 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368774469 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368756459 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368756121 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368755783 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368755445 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368755107 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368754769 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368754431 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368754093 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368753755 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368753417 .pcalibre .calibre2 .pcalibre1}[]{#_Toc368753079 .pcalibre .calibre2 .pcalibre1}[!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques]{.calibre41}](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909105 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368909045 .pcalibre .calibre2 .pcalibre1} {#i .calibre42 .sigil_not_in_toc}
+
+Par ce long soir d\'hiver, grande était l\'assemblée
+Au bruyant cabaret de la Pomme de Pin.
+Des bancs mal assurés, des tables de sapin,
+Quatre quinquets fumeux, une Vénus fêlée :
+Tel était le logis, près du clos Saint-Martin.
+C\'était un bruit croissant de rires et de verres,
+De cris et de jurons, même de coups de poing.
+Quant aux gens qui buvaient, on ne les voyait point :
+Le tabac couvrait tout de ses vapeurs légères.
+Si par enchantement le nuage, soudain
+Se dissipant, vous eut montré tous ces ivrognes,
+Vous eussiez aperçu, parmi ces rouges trognes,
+Deux visages d\'enfant, bouche rose, oeil mutin.
+A peine dix-huit ans. Tous deux portaient épée.
+Ils élevaient la voix.
+Merci, mon bon Marco,
+Disait l\'un, ma soirée entière est occupée.
+Vous boirez bien sans moi.
+Quoi ! seigneur Rodolpho,
+Dit l\'autre cavalier, est-elle blonde ou brune ?
+Prenez garde au mari, car il fait clair de lune.
+Tu te trompes.
+--- Comment ! toi, notre bon buveur,
+Pour vin, tu prends l\'amour, et pour verre, son coeur !
+Piètre boisson, mon cher, piquette de carême !
+Et le verre est petit.
+Alors, vidant le sien,
+Il paya. Rodolpho le saisit par la main.
+Il était pâle.
+--- Ami, dit-il, point de blasphème !
+Oh ! fou qui ne crois pas seulement à l\'amour !
+Ainsi, quand tu lui dis dans un sanglot : Je t\'aime,
+Tu ne l\'aimes donc pas ? C\'est un jouet d\'un jour
+Qu\'une femme pour toi, doux jouet dont on use
+Et qu\'on rejette, lorsqu\'un autre vous amuse.
+Tu n\'auras donc jamais cette fureur d\'aimer
+Qui brûle ? Tu n\'auras donc jamais de jeunesse ?
+Au lieu de cette extase où je vais m\'abîmer,
+Ce n\'est qu\'un vil désir qui t\'excite et te presse.
+Insensé, je te plains !
+Marco s\'était assis.
+Il se fit apporter encore une bouteille,
+Il en but un grand coup, et lui dit :
+--- M\'est avis
+Que tu t\'échauffes fort. Tu l\'aimes, à merveille !
+Mais, dis-moi, t\'aime-t-elle ?
+A cette question,
+Notre amant sur ses pieds bondit comme un lion.
+Sang-Dieu ! s\'écria-t-il, serais-je de ce monde,
+Si Rosa ne m\'aimait comme j\'aime ses yeux !
+Mais j\'irais me jeter dans l\'eau la plus profonde !
+Elle m\'aime, Marco.
+Bon, dit l\'autre, tant mieux !
+Mais rien n\'est infini ; toujours n\'est que chimère.
+Hélas ! moi, j\'aperçois déjà le fond du verre.
+Ah çà ! que me dis-tu ? Sans doute tu veux rire.
+Rosita m\'aime tant : je compte sur son coeur.
+Marco le contempla méchamment, sans rien dire.
+L\'autre continua : --- Je l\'aime plus que Dieu.
+Elle m\'adore aussi. Qui donc veux-tu qui vienne
+Déranger cet amour ? On aurait de la peine
+À lui faire oublier mille baisers de feu.
+Oh ! nous nous aimerons toujours.
+Je le souhaite.
+Moi, j\'en suis sûr.
+Tant mieux ! Jeune coeur, jeune tête,
+Dit Marco, le réel n\'a point passé par là.
+S\'aimer toujours !
+Eh ! oui, mon cher, cela sera.
+N\'est-il pas vrai que Dieu nous fait présent d\'une âme
+Pour aimer ? S\'il n\'en peut donner une à la femme,
+C\'est injuste et Cruel ; et je l\'insulterai,
+Le jour où, dans les bras d\'un autre, je, verrai Rosita.
+L\'on viendrait me dire en confidence
+Que tu vas me trahir toi, mon ami d\'enfance,
+J\'en rirais volontiers.
+Et tu ferais fort bien
+Elle ou toi me tromper ! mais je n\'en croirais rien !
+Dix heures !\... Je te quitte,
+Au moins vide ton verre.
+Surtout n\'en parle point aux amis. A bientôt.
+Je cours.
+Eh ! Rodolpho, mon brave, un dernier mot.
+Elle reste ?
+Aux Chartreux, en face du Calvaire.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909106 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368909046 .pcalibre .calibre2 .pcalibre1} {#ii .calibre42 .sigil_not_in_toc}
+
+Vous eussiez vainement cherché dans la cité
+Un buveur plus solide, une plus fine lame,
+Que notre Rodolpho, terrible enfant gâté,
+Toujours gai, buvant sec, sacrant par Notre-Dame,
+Amant de la folie et de la liberté.
+C\'était le plus joyeux d\'une bande joyeuse,
+Qui passait la jeunesse, attendant la raison,
+Ayant l\'amour au coeur, aux lèvres la chanson.
+C\'était un garnement à la mine rieuse,
+Tout rose, avec fierté portant un duvet noir
+Qu\'il cherchait à friser d\'une main dédaigneuse.
+Aussi que de regards il attirait, le soir,
+Lorsque, entouré des siens, aux lueurs des lanternes,
+En chantant il sortait, l\'oeil en feu, des tavernes.
+Il s\'en souciait peu. Plus d\'une duègne, hélas !
+Avec étonnement vint dire à sa maîtresse
+Qu\'il avait refusé de marcher sur ses pas,
+Il était ainsi fait. Les chants, les coups, l\'ivresse,
+C\'était son lot ; de femme, il n\'en désirait pas,
+Quand ses amis couchaient chez Suzon ou chez Laure,
+Il savait s\'esquiver, allait on ne sait où ;
+Puis, il reparaissait, lorsqu\'il fallait encore
+Boire comme une éponge et rire comme un fou.
+Si, d\'aventure, à table, en buvant le champagne,
+Ses bruyants compagnons, qui battaient la campagne,
+Discutaient sur l\'amour, en octroyant tout net
+Le doux nom d\'imbécile à quiconque y croyait,
+On le voyait pâlir et garder le silence.
+On se rappelait même un duel qu\'il avait eu
+Avec certain abbé, qui, pour unique offense,
+Chez la femme niait l\'amour et la vertu.
+D\'ailleurs, Rodolphe était un ami véritable,
+Offrant aux premiers mots son argent et sa table,
+Partageant et donnant la plus forte moitié,
+Se souciant fort peu de l\'enfer et du diable,
+Faisant depuis deux ans un tapage effroyable,
+Mais croyant à l\'amour ainsi qu\'à l\'amitié.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909107 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368909047 .pcalibre .calibre2 .pcalibre1} {#iii .calibre42 .sigil_not_in_toc}
+
+Rosa, dit Rodolpho, tu voudrais donc, ma reine,
+Enlacé dans tes bras, qu\'ici l\'on me surprenne.
+Voici le jour, ma mie.
+Eh ! non, dit Rosita.
+Rien qu\'un baiser !
+Dans l\'ombre, on entendit l\'étreinte
+De ses bras, un baiser, une amoureuse plainte
+La veilleuse d\'albâtre, en pétillant, jeta
+La dernière lueur.
+Regarde, ma chérie,
+Dit Rodolphe.
+Et, soudain, la lourde draperie
+S\'ouvrit, montrant la couche.
+Au matin d\'une nuit
+D\'ardente volupté, qu\'une maîtresse est belle !
+Sa bouche, de baisers toute chaude, sourit ;
+Son oeil, demi voilé, de bonheur étincelle ;
+Un désir gonfle encore sa gorge de frisson,
+Et l\'odeur de l\'amour sort de sa chevelure.
+Une cavale, jeune et fougueuse d\'allure,
+Après un long combat, à la voix du clairon,
+Généreuse, oubliant sa récente blessure,
+Relève avec ardeur la tête et, se cabrant,
+Hennit, frappe le sol et bondit en avant.
+De même Rosita, délirante, éperdue,
+Corps que l\'on peut abattre et non pas apaiser,
+Devant son Rodolpho se dressant demi nue,
+Lui présente les bras pour un nouveau baiser.
+Faible est la chair, dit-on. Bien souvent on s\'oublie
+Des heures, dans les bras d\'une femme jolie.
+Notre amant, à la fin, s\'élança hors du lit ;
+Et, tout en s\'habillant :
+Çà, mignonne, j\'ai dit
+Notre amour à quelqu\'un, un compagnon d\'enfance.
+Je m\'étais tant promis de le tenir secret !
+Je ne sais vraiment pas comment cela s\'est fait.
+J\'avais le coeur trop plein pour garder le silence.
+Dis, ne m\'en veux-tu pas ?
+Moi, t\'en vouloir !\... pourquoi ?
+Dans chaque carrefour, que me fait qu\'on publie
+Que j\'adore un amant aussi brave que toi.
+Je t\'aime !
+Je ne sais, mais c\'est une folie.
+Je me repens déjà d\'avoir fait cet aveu.
+Qu\'importe ! répéta Rosita caressante,
+Doutes-tu de mon coeur ?
+En douter ! mais, sang-Dieu !
+Je douterais plutôt de ma mère. Méchante,
+Tu m\'aimes, je le sais, tu m\'aimeras toujours.
+Le mystère pourtant va si bien aux amours.
+Ce n\'est qu\'avec le coeur que l\'on nomme une amante.
+Quel est ton confident, dis-moi ?
+Marco, tu sais ?
+Ce grand brun, longs cheveux.
+Ah ! oui, je le connais.
+Un excellent garçon. Si je suis là, ma mie,
+C\'est grâce à lui ! deux fois, il m\'a sauvé la vie.
+J\'ai juré que pour lui je ferais tout.
+J\'entends,
+C\'est votre bon ami, votre bon camarade.
+Les fillettes, voilà vos plus doux passe-temps.
+A vous les cabarets, les coups, la mascarade.
+Ah ! je le sais, monsieur, vous faites tout cela.
+Vous êtes un coureur.
+Rosita ! Rosita !
+Dit l\'enfant, sérieux, la voix pleine de larmes,
+J\'ai grand soif et je bois ; j\'ai de fort belles armes,
+Pour ne pas les laisser se rouiller, je me bats ;
+Mais promener partout mon coeur et ma tendresse,
+Cela me semble vil, et je ne le fais pas.
+Tu seras ma dernière et ma seule maîtresse,
+Et mon coeur sera mort le jour où tu mourras.
+Oh ! vous mentez, monsieur.
+Je jure sur mon âme,
+Dit-il en pâlissant, je jure sur l\'honneur
+Que mes lèvres jamais n\'ont baisé d\'autre femme,
+Et que nulle après toi n\'ira jusqu\'à mon coeur.
+Si je te quitte un jour, tiens ! je veux qu\'on le sache
+Et que dans chaque rue on dise : C\'est ce lâche !
+Eh ! bien, moi, reprit Rose arrangeant son peignoir
+Et faisant une mine en face d\'un miroir,
+Moi, le jour de folie où, reniant mon âme,
+Aux bras d\'un autre amant on viendrait à me voir,
+Qu\'on me donne les noms d\'hypocrite et d\'infâme !
+Tout à coup, Rodolpho partit d\'un grand éclat.
+De rire.
+Ah çà ! dit-il, croirait-on pas, mignonne,
+Que nous nous querellons ? Le Seigneur nous pardonne !
+Ton serment est naïf et le mien est fort plat.
+Les deux seraient charmants dans une tragédie.
+Quand on aime, mon coeur, on aime pour la vie.
+Et, pressant dans les bras sa Rose avec amour,
+Baisant ses grands yeux bleus, baisant sa chevelure,
+Il l\'admirait.
+Vois donc, dit-il, il fait grand jour.
+De la ville éveillée on entend le murmure.
+Donne-moi mon épée, et je te dis adieu.
+Sainte Vierge, tu cours ! demeure encore un peu.
+Viens m\'embrasser.
+Oh ! non, car il serait à croire
+Qu\'alors je resterais jusques à la nuit noire.
+Je me sauve.
+Dis-moi, quel âge a ton ami ?
+Lequel ?
+Marco.
+Marco, dix-sept ans et demi.
+Au revoir.
+Est-il riche ?
+Un peu plus que mon père.
+Est-il fort amoureux ?
+Je n\'en sais rien, ma chère.
+Au revoir.
+Au revoir, mon Rodolpho chéri.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909108 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368909048 .pcalibre .calibre2 .pcalibre1} {#iv .calibre42 .sigil_not_in_toc}
+
+C\'était l\'heure où, poussant devant lui l\'attelage,
+Le laboureur regagne en chantant la maison ;
+Où, voyant fuir le jour, pour rentrer au village,
+La fillette se hâte en rasant le buisson.
+Chaque arbre semble avoir une chanson à dire ;
+La terre et l\'infini soupirent vaguement ;
+Et l\'univers entier vibre comme une lyre,
+Quand l\'étoile du soir paraît au firmament.
+Telle que l\'on entend la nourrice fidèle,
+Après avoir donné le lait de sa mamelle,
+Par quelque chant mourant bercer son nourrisson ;
+Telle, après nous avoir nourri comme une mère,
+Lorsque tombe la nuit, on entend cette terre
+Chanter pour nous bercer une vague chanson.
+Justement, ce soir-là, notre amoureux jeune homme
+Revenait d\'hériter d\'une assez lourde somme
+Quoique riche, ma foi, c\'était encore cela.
+Il avait tant pressé, tant pressé le notaire,
+Qu\'il avait promptement terminé cette affaire
+Et qu\'il courait les champs pour surprendre Rosa.
+Ne surprenez jamais, dit-on, votre maîtresse.
+Certes, il eût fort peu goûté ce conseil-là :
+Il entendait par femme éternelle tendresse.
+Rodolpho n\'était pas un tendre pleurnicheur.
+Il galopait gaiement et sans envie aucune
+D\'adresser par amour des sonnets à la lune.
+Il savait adorer sans avoir mal au coeur.
+Il n\'avait que sa Rose, il l\'aimait avec rage.
+Malgré cela, pourtant, il n\'était pas jaloux :
+Il était si crédule et Rose était si sage\...
+Si vous riez de lui, pourquoi donc riez-vous ?
+Oh ! courage, mon siècle, avance, avance encore
+Quel jour nous promet donc cette sanglante aurore ?
+Que t\'a donc fait, Seigneur, ta pauvre humanité,
+Pour laisser insulter à ta divinité,
+Pour laisser sur son cou flotter ainsi la guide,
+Sans modérer les bonds de sa course rapide ?
+On ne croit plus à rien ; le malheureux qui croit,
+Comme un être bouffon est désigné du doigt.
+En effet, ce serait chose bien ridicule
+Qu\'un amour éternel vous torture et vous brûle ;
+Cela ferait vraiment sourire que de voir
+La femme du matin aimée encore le soir.
+Ah ! nous ne sommes pas comme messieurs nos pères :
+Quand nous avons bien bu, nous écrasons nos verres ;
+Nous buvons sans façon dans celui du prochain,
+Et vers le nôtre aussi chacun porte la main.
+Toute vertu d\'ailleurs étant coquetterie,
+La pudeur, une aimable et tendre hypocrisie,
+Les femmes, voyez-vous, ne valent pas vraiment
+La légère vapeur que l\'on fait en fumant.
+Les aimer, camarade, ah ! la sotte manière !
+En user et changer, voilà comme il faut faire !
+Les aimer ! mais ce mot n\'est qu\'un vieux mot perdu.
+Les siècles ont marché, l\'âge d\'or est venu.
+On n\'aime plus Rodolphe, on possède une femme.
+En se jouant parfois on lui déchire l\'âme.
+Un jour vient où le coeur finit par se blaser ;
+Ce jour-là, sur le front on lui donne un baiser ;
+Tandis qu\'elle murmure à votre cou : « Je t\'aime, »
+On dit : « Pour moi, ma chère, il n\'en est pas de même,
+« Car je ne t\'aime plus ; vois la porte plus loin. »
+Et, comme un vieux soulier, on la jette en un coin.
+Il est vrai que la femme a fini par comprendre
+Que le feu le plus pur fait toujours de la cendre,
+Et qu\'il était stupide et risible, en effet,
+De donner de l\'amour plus qu\'on n\'en demandait.
+Elle a fait comme nous.
+Oh ! Seigneur, votre monde
+Me paraît, dans cet âge, être un cloaque immonde.
+L\'Amour, cet esprit saint, ce frère d\'Ariel,
+Qui venait nous conter les voluptés du ciel,
+Est remonté vers vous, trouvant que, sur la terre,
+L\'homme se ressent trop de la fange, sa mère.
+Eh bien, je veux ma part de ce rut des plaisirs !
+Si je n\'ai plus d\'amour, j\'ai toujours des désirs.
+Oh ! je suis jeune, ardent ; que m\'importe la femme !
+Je ne crois plus au ciel, je ne crois plus à l\'âme ;
+J\'ai le coeur d\'une brute et, pour me contenter,
+Dedans le premier lit je n\'ai qu\'à me jeter !
+Allons donc, Rodolpho, sois un bon camarade !
+Le vieux monde aujourd\'hui finit sa mascarade ;
+Il avait pris l\'amour pour son déguisement,
+Il remet, fatigué, son ancien vêtement.
+Allons, fais comme tous ! la brute est revenue
+Chaque femme t\'appelle, infâme et demi nue !
+Oh ? je raille, je raille\... Et toi, mon pauvre coeur,
+Tu lis avec effroi ce que je viens d\'écrire,
+Te demandant, hélas ! quelle affreuse douleur
+Peut me mettre à la lèvre un semblable sourire.
+Oh ! je raille, je raille\... Et bien loin, vers les cieux,
+En nous fuyant l\'amour a déployé son aile.
+--- Quand un enfant écrase un doux nid dans ses jeux,
+Au printemps on entend sangloter l\'hirondelle.
+Quand la fleur voit s\'enfuir le léger papillon,
+Emporté dans les airs par ses ailes de flamme,
+La rosée, en longs pleurs, tombe sur le gazon,
+Et, quand l\'amour s\'enfuit, on entend pleurer l\'âme.
+Notre Père, il est temps. Oh ! qu\'un autre Jésus
+Expire sur la croix et du chaos nous sorte,
+Notre corps, vil lambeau, n\'a plus qu\'une âme morte.
+Venez, ou je croirai que vous n\'existez plus !
+Tandis que contre tous j\'exhalais ma colère,
+En chantant Rodolpho poursuivait son chemin,
+Si bien qu\'il se trouva sous le balcon de pierre,
+Par où, montant le soir, il descend le matin.
+Il était chez sa belle. Au moins n\'allez pas croire
+Qu\'il avait, enragé, couru comme le vent
+Ou comme une nonnain s\'enfuyant du couvent.
+Il s\'était arrêté quatre ou cinq fois pour boire.
+Il ne pouvait passer devant un cabaret,
+Sans juger doctement le vin qu\'on y vendait.
+De plus, tout en frisant sa barbe, un mousquetaire
+L\'ayant trop regardé, mon Rodolphe avait cru
+Qu\'il demandait un duel : il s\'était donc battu.
+Il laissa son cheval à l\'endroit ordinaire ;
+Et, cessant tout à coup un air qu\'il chantonnait,
+Il murmura :
+Le diable emporte le notaire !
+Marc doit avoir maigri de chagrin. J\'ai mal fait
+De ne pas l\'aller voir avant d\'embrasser Rose.
+Une amante, un ami, n\'est-ce pas même chose ?
+Une minute au plus j\'aurais serré sa main,
+Et j\'aurais mieux aimé. Si je courrais, peut-être
+Serais-je à temps\... Mais non, je le verrai demain.
+Et vite Rodolpho monta sur la fenêtre.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909109 .pcalibre .calibre2 .pcalibre1}[V]{#_Toc368909049 .pcalibre .calibre2 .pcalibre1} {#v .calibre42 .sigil_not_in_toc}
+
+Une pâle. lueur éclairait le boudoir,
+Si bien que, regardant, il ne put rien y voir.
+Il poussa doucement la croisée entr\'ouverte.
+Il tenait à la main une couronne verte,
+Qu\'il venait de cueillir pour Rose dans les champs,
+Et qu\'il voulait poser, humide et parfumée,
+A son candide front, sur ses cheveux flottants,
+Pour voir à son réveil rire la bien-aimée.
+Soudain il aperçut les rideaux se mouvoir.
+« Elle dort, se dit-il, c\'est la brise du soir
+« Qui se joue en courant dans cette draperie. »
+Il entendit un bruit, comme un bruit de baiser.
+« Elle dort, se dit-il, le vent vient de passer :
+« Les fleurs ont tressailli là-bas, dans la prairie. »
+Il vit dans une coupe un parfum d\'Orient
+Brûler et se répandre en nuage odorant.
+Les flacons étaient prêts, la chambre était fleurie.
+« Elle dort, se dit-il, elle dort et m\'attend. »
+Pourquoi donc, Rodolpho, cette pâleur soudaine ?
+Dis-moi, pourquoi ces yeux par l\'horreur dilatés ?
+Les rideaux de nouveau se sont donc agités ?
+Elle dort, c\'est le vent qui passe dans la plaine.
+Une étreinte d\'amour fait tressaillir le lit,
+Un bruit, un long baiser dans l\'ombre retentit.
+Elle dort ! elle dort ! c\'est un bruit de l\'espace,
+Dans la verdure en fleur c\'est la brise qui passe.
+Mais vois donc, le parfum s\'achève en pétillant :
+« Ces flacons sont brisés, cette nappe est rougie.
+Mais ne dirait-on pas les suites d\'une orgie\...
+Elle dort ! elle dort ! Rodolphe, elle t\'attend !
+Elle est blonde pourtant. Quelle est la chevelure
+Qui, si noire, en longs flots ruisselle sur ses bras ?
+Tu connais bien sa voix. Quel est donc le murmure
+Qui s\'élève du lit, ne lui ressemblant pas ?
+Elle a donc les pieds forts et les jambes nerveuses ?
+Sa gorge n\'est donc pas blanche comme le lait ?
+Ses épaules, dis-moi, ne sont donc pas soyeuses,
+Qu\'un corps, brun et nerveux, sur le lit t\'apparaît ?
+Mais tu trembles, je crois. Cours vite, elle t\'appelle ;
+Cours vite l\'embrasser, lui dire : Me voilà !
+Tu le sais, mon amour, l\'attente est si cruelle\...
+Ah ! tu l\'as donc compris qu\'un autre homme était là !
+Rodolpho s\'accouda sur le balcon de pierre,
+D\'un geste frémissant écartant le rideau,
+Tandis que, déjà sale et blanche de poussière,
+La couronne de fleurs tombait sur le carreau.
+« Hélas ! murmura-t-il, c\'était une chimère.
+Oh ! Seigneur, qu\'ai-je fait pour que vous, le Puissant,
+Vous laissiez éclater ainsi votre colère
+Et la laissiez tomber sur un grain de poussière
+Que le vent du matin pulvérise en passant.
+Pitié ! Seigneur, pitié ! je ne suis qu\'un enfant. »
+Et, là-bas, il voyait, dans un fougueux désordre,
+Rose aux bras d\'un amant s\'enlacer et se tordre.
+« Mes amis se moquaient : ils avaient donc raison,
+Je sanglote et mes bras pendent sans énergie.
+Avec avidité je regarde l\'orgie.
+Oh ! quels embrassements et quelle passion
+Ma dague de leur sang n\'est pas encor rougie.
+Je suis lâche, je pleure : oh ! je l\'aimais, pardon ! »
+Et, là-bas, il voyait, dans un fougueux désordre,
+Rose aux bras d\'un amant s\'enlacer et se tordre.
+« Je les tûrai tantôt, je ne puis maintenant.
+Je me sens chanceler, je suis comme en ivresse,
+Et je veux être sûr de mon coup en frappant.
+Oh ! comme Rosita l\'embrasse avec tendresse !
+Avec quelle fureur il lui rend sa caresse !
+Rosita m\'avait dit qu\'elle m\'aimait pourtant. »
+Et, là-bas, il voyait, dans un fougueux désordre,
+Rose aux bras d\'un amant s\'enlacer et se tordre.
+« Mais regarde-les donc, c\'est une lâcheté !
+Au souffle de la haine, à mon pâle visage,
+De honte et de fureur, le sang n\'est pas monté !
+La douleur m\'a courbé comme le vent d\'orage,
+Et, dans le tourbillon, s\'est enfui mon jeune âge
+L\'âme a repris son vol, le limon est resté. »
+Et, là-bas, il voyait, dans un fougueux désordre,
+Rose aux bras d\'un amant s\'enlacer et se tordre.
+Il se tut, chancelant, frissonnant, éperdu.
+Les pleurs ne coulaient plus sur son visage blême.
+Il écoutait\... Dis-moi ? qu\'as-tu donc entendu
+Que ton glaive en brillant dans l\'ombre est apparu ?
+Est-ce bien Rosita qui murmure : Je t\'aime ?
+Elle l\'aime, dit-elle ! Ah ! frappe, Rodolpho :
+La victime a le droit de se faire bourreau !
+Rodolpho m\'élançait.
+Ah ! ah ! laissez-moi rire,
+Dit-il en ricanant et se mordant la chair,
+La lampe manque d\'huile, en son vase elle expire :
+Par la messe ! vraiment, je ne voyais pas clair.
+Mais j\'en rirai longtemps : la curieuse chose,
+C\'est mon ami Marco qui se trouve avec Rose !
+Le malheureux poussait des rires déchirants,
+Rires affreux, pareils aux grincements de dents.
+Voyez, ajouta-t-il, quelle belle équipée !
+Contre mon bon Marco, j\'allais tirer l\'épée.
+Sans doute il a prévu que je voulais le voir ;
+Et ma Rose a prêté sa couche pour ce soir.
+Tous deux auront soupé, fatigués de m\'attendre,
+Et, pour m\'attendre encore, ils se seront couchés.
+Quand Rosita buvait, je la trouvais fort tendre ;
+Puis, c\'est avec Marco, le moindre des péchés.
+Il m\'a sauvé la vie, il peut me la reprendre.
+Ma mie, en bonne enfant, veut l\'en récompenser ;
+Et j\'aurais dû plus tôt la lui faire embrasser.
+Je voulais les tuer : pourquoi, je le demande
+Ma colère et mes pleurs vraiment me font pitié.
+J\'ai vécu de leur vie, et puis j\'ai l\'âme grande :
+Moi, je crois à l\'amour ainsi qu\'à l\'amitié.
+Et l\'insensé jeta son glaive sur la terre,
+Il riait, regardant par un trou du rideau ;
+Puis, tournoyant soudain, égratignant la pierre,
+Hagard, il s\'affaissa mourant sur le carreau.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909110 .pcalibre .calibre2 .pcalibre1}[VI]{#_Toc368909050 .pcalibre .calibre2 .pcalibre1} {#vi .calibre42 .sigil_not_in_toc}
+
+Lorsqu\'il revint à lui, l\'aube, dans la prairie,
+Des lointains peupliers rougissait le sommet.
+Il ne vit que Rosa sur le lit endormie,
+Il se prit à pleurer, car il se souvenait.
+Le ciel ne voulait pas lui donner la folie ;
+Après l\'avoir frappé, le ciel l\'abandonnait.
+Une alouette au loin volait, seule et muette.
+Elle a froid, et la brume étouffe sa chanson.
+Aussitôt que l\'aurore a paru, la pauvrette
+Pour monter au soleil a quitté le sillon.
+Sans doute elle ignorait que parfois la lumière
+Peut tromper, n\'être pas l\'indice d\'un beau jour ;
+Et l\'imprudente monte, alerte, matinière,
+Cherchant un rayon d\'or pour chanter son amour.
+Elle fend le brouillard, elle monte, elle espère.
+Elle monte et se dit que là-haut, dans les cieux,
+Elle va découvrir quelque lieu solitaire,
+Plein de feux éclatants, de chants mélodieux.
+Mais, hélas ! de partout la brume l\'environne.
+Elle vole au hasard ; la terre a disparu ;
+Le ciel est toujours sombre, et la pauvre mignonne
+Sent sa plume trembler sous un vent, inconnu.
+Ah ! tremble ! c\'est le vent de toute chose humaine,
+Qui depuis six mille ans gèle l\'humanité,
+Qui porte la poussière aux arbres de la plaine :
+C\'est le vent glacial de la réalité.
+Dans l\'ombre du boudoir, sur la couche étendue,
+Rosita soupira.
+Dans cette gorge nue,
+Murmura-t-il alors, riant amèrement,
+Je pourrais enfoncer aisément une lame.
+Je pourrais les tuer, elle, puis son amant.
+Je ne sais quel malheur me mène à cette femme !
+Et sa main qui tremblait, tourmentait son poignard.
+Il entrait, repoussant la croisée entr\'ouverte,
+Lorsque son pied marcha sur la couronne verte.
+Il abaissa vers elle un déchirant regard.
+Puis, soudain il la prit, maculée et flétrie,
+Et, grave, s\'approcha de la fille endormie.
+Sur son front de seize ans ayant posé ces fleurs :
+--- Elles avaient pourtant tes vermeilles couleurs,
+Dit-il. Dans une nuit, elles se sont fanées.
+Pour que le ver te ronge et ne laisse qu\'un os
+Dans un tombeau, qui sait ce qu\'il faut de journées ?
+Rosita, mon amour, quel gracieux repos !
+C\'est un juste sommeil ; dirait-on pas un ange ?
+Vois donc comme est souillé ce délicat bleuet ;
+Cette couronne est sale et ton corps est de lait :
+Qui d\'elle ou de ton coeur est plus couvert de fange ?
+Ce sont des fleurs des champs --- c\'était hier, je crois, \--
+Quand je te l\'apportais, elle était fraîche et belle ;
+Mais un hasard vengeur m\'a fait marcher sur elle,
+Pour que je te la donne enfin digne de toi.
+Entends-tu ces accords, rieuse jeune fille ?
+C\'est le bal. Lève-toi, cette couronne au front.
+Je suis fils de cet âge et, quand ton regard brille,
+Quand ta bouche d\'amour tout doucement habille,
+De te croire jamais je ne te fais l\'affront.
+Femme, ce sera là, si tu veux, ta livrée.
+En te voyant si belle et de fange parée,
+Les hommes tour à tour passeront dans tes bras.
+Tu n\'auras plus l\'ennui des amours éternelles,
+Plus d\'amants languissants, plus de sottes querelles
+Et d\'autres t\'aimeront, quand les uns seront las !
+Le malheureux cessa de parler. Sur la couche,
+Riant dans son repos, la fille remua ;
+Et quelques mots confus sortirent de sa bouche.
+Afin de l\'écouter vers elle il se pencha.
+Des toiles repoussant la flottante ceinture,
+Elle étendit les bras, tordit sa chevelure,
+Et, prenant Rodolpho par le cou, l\'embrassa.
+--- Je ne l\'ai pas aimé, disait-elle en son rêve,
+Il n\'était pas jaloux\... Marco\... mon doux chéri\...
+On vit le pâle éclair qui courut sur le glaive,
+Et Rosita mourut en poussant un grand cri.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Rodolpho (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909111 .pcalibre .calibre2 .pcalibre1}[VII]{#_Toc368909051 .pcalibre .calibre2 .pcalibre1} {#vii .calibre42 .sigil_not_in_toc}
+
+Le festin s\'égayait.
+Me brûle le tonnerre !
+Dit Paulus, si je sais ce que fait Rodolpho,
+Et voici bien huit jours que je n\'ai vu Marco.
+Parbleu ! dit Ludovic, ils sont tous deux en terre.
+Au coeur, Marc a reçu quatre coups de couteau ;
+Et Rodolpho, saisi d\'une rage amoureuse,
+Est mort d\'épuisement dans les bras d\'une gueuse.
+
+Aix, 1859.
+
+
+---
+
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909112 .pcalibre .calibre2 .pcalibre1}[L\'aérienne (fragments)]{#_Toc368909052 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_17 .calibre33}
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+L'Aérienne (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909113 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368909053 .pcalibre .calibre2 .pcalibre1} {#i .calibre42 .sigil_not_in_toc}
+
+Un soir, je l\'aperçus dans une ombreuse allée
+Onduler comme un rêve à la forme voilée.
+Son regard incertain qui, vague, par moment,
+Sans paraître rien voir, caresse doucement,
+Son pas harmonieux, sa démarche légère
+Qui semble dans un vol se détacher de terre,
+Sa taille qui se plie au vent comme une fleur,
+Me la firent dans l\'ombre, en poète rêveur,
+Prendre pour une fée, une vierge sereine,
+Et surnommer tout bas du nom d\'Aérienne.
+Sa longue et blanche robe, à la brise d\'été
+Tremblait ; et de la lune un rayon argenté,
+Se jouant, me parut la trace que son aile
+En effleurant le sol épandait derrière elle.
+Puis, il me sembla voir, sous la molle lueur,
+Son front se couronner d\'une sainte splendeur ;
+Et, ses petites mains jointes sur la poitrine,
+Dans un élan d\'amour, la vision divine
+Flottait et s\'élevait vers une étoile d\'or,
+Lentement, comme on berce un enfant qui s\'endort.
+Ah ! blonde vision, ma soeur, ma bien-aimée,
+Rose de mon sentier, éclose et parfumée,
+Toi que toujours je nomme, ainsi qu\'au premier jour,
+Ma blanche Aérienne et ma vierge d\'amour !
+Ce nom fait naître encore, en vibrant sur ma lyre,
+A ma lèvre brûlante un paisible sourire.
+Le temps est donc venu d\'effeuiller nos bleuets
+Et d\'épancher à tous nos amoureux secrets,
+Il me faut donc jeter à la foule railleuse
+Ton âme, ô chaste soeur, aimante et généreuse,
+Et ce beau rêve d\'or que, la main dans la main,
+Nous fîmes, certain soir, sur le bord du chemin.
+0 Muse insatiable, amère et douce amie
+Qui berce dans tes bras la douleur endormie,
+Qui console le coeur en chantant ses vingt ans,
+Et prostitue ainsi les fleurs de son printemps !
+A la foule laissons tomber, pâle et brisée,
+La fleur que, dans nos jeux, nos mains auront froissée.
+Qu\'importe qu\'elle glisse à l\'abîme commun,
+Quand j\'aurai d\'un baiser pris son dernier parfum !
+Les vents du soir jouaient, soupirs mélancoliques,
+Tièdes et languissants, dans les ormes antiques,
+Et leur souffle apportait du rivage voisin
+Par moments une odeur de lavande et de thym.
+Je suivais lentement la vision chérie,
+Perdu dans une longue et douce rêverie,
+Je sentais, sous les feux de cette nuit d\'été,
+Les champs autour de moi frémir de volupté,
+Ces brises, ces parfums, cette lueur douteuse
+Que la lune épanchait, pâlissante et rêveuse.
+Cet univers entier vaguement soupirait
+Des chants mystérieux que mon coeur comprenait ;
+Et, croyant voir encore onduler l\'inconnue,
+Je la pensais toujours une enfant de la nue,
+Quand un rayon glissa sur son front, et soudain,
+Près de quitter la terre en un baiser divin,
+Je vis des pleurs trembler à sa longue paupière.
+A ce tribut fatal de l\'humaine misère,
+Mes songes vers le ciel s\'enfuirent en pleurant,
+Et l\'ange ne fut plus qu\'une mortelle enfant.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+L'Aérienne (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909114 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368909054 .pcalibre .calibre2 .pcalibre1} {#ii .calibre42 .sigil_not_in_toc}
+
+Chaque soir, je venais, depuis cette soirée
+Où, vague, à mon regard elle s\'était montrée,
+Dans l\'ombre je venais, au détour du chemin,
+L\'attendre, en écoutant l\'heure au clocher voisin.
+Mais elle, toujours douce et toujours désolée,
+Légère, elle glissait sur l\'herbe de l\'allée,
+Et sans jamais me fuir, sans chercher à me voir,
+Me jetait un souris plus triste chaque soir.
+Enfin, je la suivis et je gagnais, dans l\'ombre,
+Sa chambre où pâlissait le jour déjà plus sombre.
+Lentement, je poussai la porte et, quelque temps,
+J\'hésitai. Cette couche aux petits rideaux blancs,
+Sur un siège noirci cet ouvrage d\'aiguille,
+Ce paisible univers de chaste jeune fille
+M\'apparut doucement si pur, si parfumé,
+Que de ma chair l\'orage un instant fut calmé.
+La blonde et chère enfant, à la fenêtre assise,
+De ses cheveux livrait les boucles à la brise,
+Et, penchée en arrière, à mes yeux découvrait
+Son sein demi voilé qu\'un soupir agitait.
+Et, dans toute ma chair, ce fut une brûlure,
+Car je crus, en un vol, sentir l\'haleine pure
+Qui gonflait ce beau sein, m\'effleurer d\'un baiser.
+Puis, comme un vent du soir dans l\'air vint à passer.
+En s\'entrouvrant encore, la frêle broderie
+Montra dans un rayon la fleur épanouie ;
+Et, frémissant d\'amour, je m\'approchai soudain
+Et, brûlante, posai ma bouche sur sa main.
+**LE POÈTE**
+J\'ai tenté vainement aux voûtes éternelles
+De maintenir le vol de mes fragiles ailes,
+Et je suis retombé, de rayons ébloui,
+N\'ayant plus que l\'amour d\'un enfant de la nuit.
+Tel est notre destin. Mais ces pâles ivresses,
+Ces reflets affaiblis des divines tendresses,
+Malgré leurs deux écueils, le songe et le réel,
+Sont encore les reflets les plus puissants du ciel,
+Et l\'éclair, étranger à l\'humanité sombre,
+Qui nous révèle un Dieu quand il luit dans notre ombre.
+Oh ! laisse donc ma lèvre à ta lèvre s\'unir !
+Laisse-moi sur ton sein épuiser le désir !
+Privés des ailes d\'or des célestes phalanges,
+Aimons-nous en humains et non comme des anges ;
+Et ne pouvant errer aux mers de l\'infini,
+Sur un tremblant rameau viens bâtir notre nid.
+Viens rire et sangloter, aimer sous la charmille,
+Ainsi que fit ta mère et que fera ta fille ;
+Viens obéir au Maître et verser à ton tour
+Ta parcelle de vie au souffle de l\'amour.
+Se penchant tristement vers nous, ce divin Maître
+De la soif de nos coeurs aura pitié peut-être.
+Relevant l\'anathème à la femme jeté,
+Qui veut l\'amour du corps pour le fruit enfanté,
+Et sans doute apaisant nos idéales fièvres,
+Il fera rencontrer nos âmes sur nos lèvres.
+Ah ! ce baiser des coeurs, ce long baiser de feu
+Que cherchent vainement les âmes loin de Dieu !
+**L\'AÉRIENNE**
+Mon frère, refusons le funeste délire
+Que la fatalité fait naître d\'un sourire ;
+Refusons cet amour, pauvre fils du hasard,
+Ayant pour tout soutien l\'échange d\'un regard.
+Gardons-nous qu\'il soit dit que le corps nous entraîne ;
+Gardons-nous de vider d\'un trait la coupe pleine,
+Sans chercher à savoir ce que garde le fond
+Et si le vase d\'or est petit ou profond.
+Ne jouons pas ainsi nos pleurs à la légère.
+Avant de nous unir, connaissons-nous, mon frère,
+Si nous ne voulons point, sur les pas de chacun,
+Marcher et sangloter du martyre commun.
+**LE POÈTE**
+Je t\'ai vue, ô ma soeur, et mon âme blessée
+Perdit le souvenir de la douleur passée,
+Et ton front ne laissa dans mon être calmé
+Qu\'un immense désir d\'aimer et d\'être aimé.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+L'Aérienne (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909115 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368909055 .pcalibre .calibre2 .pcalibre1} {#iii .calibre42 .sigil_not_in_toc}
+
+O Provence, des pleurs s\'échappent de mes yeux,
+Quand vibre sur mon luth ton nom, mélodieux.
+Terre qu\'un ciel d\'azur et l\'olivier d\'Attique ;
+Font soeur de l\'Italie et de la Grèce antique ;
+Plages que vient bercer le murmure des flots
+Campagnes où le pin pleure sur les coteaux ;
+0 région d\'amour, de parfum, de lumière,
+Il me serait bien doux de t\'appeler ma mère.
+Il me serait bien doux, par tes soleils de plomb,
+Quand, brûlant, je m\'assois dans l\'aride sillon,
+Sous le maigre amandier où chante la cigale
+Qui seule frappe l\'air de sa note inégale,
+D\'entendre à son passage un souffle de ton vent
+En me baisant au front me nommer ton enfant.
+Il me serait bien doux, par tes nuits étoilées,
+Soit que je gagne au loin tes roches désolées,
+Foulant d\'un pas rêveur le genièvre et le thym,
+Ou soit que, préférant l\'herbe du pré voisin,
+Je suive un long sentier que borde l\'aubépine,
+De sentir sous mes pas frissonner la poitrine,
+Comme un sein maternel tremble d\'un long frisson
+Au baiser altéré du jeune nourrisson.
+On m\'a dit que souvent, ô ma blanche Provence,
+Tu cherchais des grands bois le frais et le silence,
+Et que sur le gazon, sommeillant à demi,
+Tu te couchais durant les ardeurs de midi.
+Les satyres, cachés sous l\'épaisse ramure,
+Te contemplent de loin, l\'oeil brillant de luxure,
+Caressant du regard ton front large et vermeil
+Où viennent se jouer les feux de ton soleil,
+Et ta gorge puissante où la brise de l\'onde
+Fait flotter au hasard la chevelure blonde.
+D\'arbre en arbre, vers toi, glisse un divin enfant.
+Retenant son haleine, il se penche, écoutant
+Les souffles de ta lèvre et, d\'une main tremblante,
+Écarte ta ceinture et ta robe flottante.
+Quand le voile est tombé sous ses doigts amoureux,
+Frémissant, d\'un baiser il t\'éveille, et tous deux,
+Lui le dieu des forêts, toi la blonde déesse,
+Des cieux vous échangez la féconde caresse.
+0 mère, tes amours ont l\'éternel printemps,
+Et c\'est toujours d\'un dieu que naissent tes enfants !
+Mais, hélas ! vers midi, la déesse lascive
+Ne s\'est jamais pour moi, sur l\'odorante rive,
+Un instant oubliée au bras de quelque dieu,
+Et je ne suis pas né de son baiser de feu.
+Tu n\'as jamais pour moi dénoué ta ceinture ;
+Tu ne m\'enfantas pas sur l\'épaisse verdure,
+Blanche Provence, à l\'heure où ton soleil brûlant
+D\'un long frisson d\'amour précipite ton sang.
+\...\...\...\...\...\...\...\...\...\...\...\...
+\...\...\...\...\...\...\...\...\...\...\...\...
+Mais, si je suis enfant d\'un ciel triste et brumeux,
+Nymphe, bien jeune encore, je vis briller tes yeux ;
+Et, courant m\'échauffer au duvet de tes ailes,
+Avide, je suçai le lait de tes mamelles.
+Et toi, mère, indulgente et le sourire au front,
+Tu ne repoussas pas ce frêle nourrisson ;
+Au bruit de tes baisers, tes bras, dans la charmille,
+Me bercèrent parmi ta céleste famille,
+Et ton regard d\'amour fit glisser dans mon coeur
+Un reflet affaibli de ta sainte splendeur.
+Ah ! c\'est de ce regard que moi, l\'enfant de l\'ombre,
+Je vis un astre d\'or remplacer ma nuit sombre,
+Et sentis de ma lèvre un souffle harmonieux
+S\'échapper en cadence et monter dans les cieux.
+C\'est de lui que je tiens ma couronne et ma lyre,
+Mon amour des grands bois, des femmes et du rire ;
+C\'est lui qui m\'indiqua les sentiers immortels
+Que suivirent jadis tes jeunes ménestrels.
+Et, devant ce présent de joyeuse science,
+Bien souvent je regrette, ô ma blanche Provence,
+Les sublimes effets de ton soleil ardent,
+Si le fils adopté se trouvait ton enfant.
+Autour d\'Aix, la romaine, il n\'est pas de ravines,
+Pas de rochers perdus au penchant des collines,
+Dans la vallée en fleur pas de lointains sentiers,
+Où l\'on ne puisse voir l\'empreinte de mes pieds.
+Dans tes champs tour à tour blonde tête mutine,
+Jouant sur ta verdure en sa ronde enfantine,
+Écolier échappé de la docte prison
+Et jetant aux échos son rire et sa chanson,
+Adolescent rêveur poursuivant sous tes saules
+La nymphe dont il croit voir blanchir les épaules,
+Jusqu\'aux derniers taillis j\'ai couru les forêts,
+0 Provence, et foulé tes lieux les plus secrets.
+Mes lèvres nommeraient chacune de tes pierres,
+Chacun de tes buissons perdus dans tes clairières.
+J\'ai joué si longtemps sur tes coteaux fleuris,
+Que brins d\'herbe et graviers me sont de vieux amis.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+L'Aérienne (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909116 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368909056 .pcalibre .calibre2 .pcalibre1} {#iv .calibre42 .sigil_not_in_toc}
+
+L\'Aérienne, lasse et la gorge brûlante,
+Se coucha lentement sur la rive odorante,
+Et, comme je restais rêveur sur le chemin,
+Près d\'elle m\'appela des yeux et de la main.
+Puis, le regard suivant le flot de la rivière,
+Envieuse et penchée :
+Oh ! j\'ai grand soif, mon frère,
+Et l\'eau coule trop bas pour me désaltérer,
+Me dit-elle.
+Et je vis ses grands yeux m\'implorer.
+Je réunis les doigts et, me baissant vers l\'onde,
+Je puisai dans mes mains le flot pur pour ma blonde ;
+Puis, craignant de laisser quelques gouttes s\'enfuir,
+Je hâtai doucement mes pas pour revenir ;
+Et, fier de l\'apporter pleine jusque près d\'elle,
+Je tendis à ma soeur cette coupe nouvelle.
+Avide et m\'accueillant d\'un rire, elle posa
+Sa bouche sur mes mains et d\'un trait les vida ;
+Et comme j\'aperçus que la blonde chérie
+De l\'oeil suivait toujours les flots avec envie,
+Je fis jusqu\'à trois fois le périlleux chemin,
+Et trois fois je sentis ses lèvres sur ma main.
+Le soleil s\'inclinait vers les collines grises,
+Laissant flotter du soir les parfums et les brises,
+Longtemps, sur le gazon, nous restâmes sans voix,
+Nos regards s\'égarant dans le ciel, et parfois,
+Lorsqu\'ils se rencontraient, échangeant un sourire,
+Doux langage des yeux où l\'on peut tout se dire.
+
+1860
+
+
+---
+
+::: WordSection
+[
+]{.calibre22}
+
+[!{.calibre25}]{.calibre24}[
+
+[OEUVRE POÉTIQUE ET LYRIQUE]{.calibre19}
+
+[L'AMOUREUSE COMÉDIE]{.calibre27}
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre28}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+## []{#_Toc368909117 .pcalibre .calibre2 .pcalibre1}[Paolo (fragments)]{#_Toc368909057 .pcalibre .calibre2 .pcalibre1} {#calibre_toc_18 .calibre33}
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909118 .pcalibre .calibre2 .pcalibre1}[I]{#_Toc368909058 .pcalibre .calibre2 .pcalibre1} {#i .calibre42 .sigil_not_in_toc}
+
+La foule, à deux genoux devant la Vierge sainte,
+Priait dévotement en regardant le ciel.
+Les vitraux pâlissaient et les feux de l\'autel
+N\'éclairaient qu\'à demi les piliers de l\'enceinte.
+On était à ce mois où tout rit dans les champs,
+Où la terre s\'éveille aux baisers du printemps
+Et se pare de fleurs, comme la jeune fille
+Qui met tous ses bijoux pour un premier quadrille ;
+Mois des jeunes amours où la vierge, le soir,
+Troublée et ne pouvant chasser sa rêverie,
+Vient par besoin d\'aimer s\'adresser à Marie,
+S\'enivrer des parfums que jette l\'encensoir,
+Et, comme à quelque amant, prodiguer dans sa fièvre
+A son froid crucifix les baisers de sa lèvre.
+Filles, filles de Dieu, dans l\'ombre des arceaux,
+Quand, pâles sous la bure, à genoux et tremblantes,
+Vous frappez de vos fronts les dalles des tombeaux ;
+Quand l\'orgue gronde et jette aux voûtes frémissantes
+Ses sanglots, ses soupirs, ses mille voix d\'airain ;
+Quand l\'autel est en feu, que le parfum s\'élève,
+Que monte un chant d\'amour dans le temple divin,
+Et, que les yeux noyés, voyant comme en un rêve,
+Vous vous courbez encore, sur l\'ivoire des croix
+La lèvre palpitante et la bouche sans voix :
+Dites, oh ! dites-moi, vous les pudiques nonnes,
+A qui s\'adresse donc ce long embrassement ?
+Pour qui donc ont pâli vos fronts sous vos couronnes ?
+Et qui cherchent vos mains, fluettes et mignonnes,
+Que paraissent brûler les baisers d\'un amant ?
+Pendant un mois entier, de pâles jeunes filles
+S\'agenouillent ainsi devant cet humble autel ;
+Et, craignant leurs vingt ans dans les sombres charmilles,
+Elles viennent aimer sous les regards du ciel.
+Elles sont toutes là, nombreuses et pressées,
+Dans le coin le plus noir du vaste monument,
+En extase et laissant échapper par moment,
+Un cantique d\'amour sous les voûtes glacées.
+Et l\'on dirait alors, aux échos des piliers,
+Ouïr sur leurs tombeaux les anciens chevaliers,
+Les dames, les varlets, secouant leur poussière,
+Dans leurs versets mourants répondre aux saints de pierre.
+Se retournant parfois, ses grands yeux effarés,
+Une vierge se penche, écoute ces murmures,
+Ce chant confus qui sort des chapelles obscures,
+Ces roulements lointains dans les parvis sacrés,
+Et cherche à distinguer si ces clameurs étranges
+Sont les cris des démons ou les lyres des anges.
+Mais la faible lueur qui tombe du flambeau
+N\'éclaire que l\'autel. Aux colonnes gothiques,
+Elle jette soudain des reflets fantastiques,
+Dans l\'ombre fait blanchir le marbre d\'un tombeau,
+Et, venant i jouer sous les sombres portiques,
+Semble les agiter comme un mouvant rideau.
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909119 .pcalibre .calibre2 .pcalibre1}[II]{#_Toc368909059 .pcalibre .calibre2 .pcalibre1} {#ii .calibre42 .sigil_not_in_toc}
+
+Dis-moi, que fais-tu là, t\'éloignant des flambeaux,
+Forme noire, immobile, appuyée à ces grilles ?
+Est-ce toi qui te plais à pousser ces sanglots,
+Afin d\'épouvanter les folles jeunes filles ?
+Serais-tu Gabriel ou bien l\'Ange déchu ?
+Viens-tu donc pour prier ou, de ta main maudite,
+Voler la coupe sainte et le lin du lévite ?
+Dans cet angle, oh ! dis-moi, fantôme, que fais-tu ?
+Mais c\'est toi, mon Paolo, mon enfant, mon doux frère ;
+Toi, le fils de cet âge, et qui dans la poussière
+N\'incline pas ton front que le doute pâlit ;
+Toi, non l\'Ange du mal, non l\'Ange de lumière,
+Mais l\'homme faible et bon, si grand et si petit !
+Enfant, l\'église est froide et la pierre est humide
+Pour celui qui s\'arrête à l\'autel sans prier ;
+Et la voûte n\'est plus que l\'image du vide,
+Dès qu\'on doute du Dieu qui l\'emplit en entier.
+Enfant, tu ne crois plus à l\'auguste mystère :
+Il fait froid, il fait noir ; viens, la brise est légère,
+Et, parfumé de fleurs, je connais un sentier.
+--- Non, non, me réponds-tu, cette voûte étincelle.
+Je me sens pénétrer d\'une sainte chaleur,
+Et, pour monter aux cieux, je sens battre mon aile :
+Tout est flamme, parfum et chanson dans mon cœur.
+Vois-tu la blonde enfant, parmi toutes ces vierges,
+Celle qui, radieuse, a croisé les deux mains ;
+Vois-tu, sur son beau front, la lumière des cierges
+Se jouer et former l\'auréole des saints.
+Oh ! sois ma Beatrix, vierge aux pudiques voiles ;
+Descends, viens d\'ici-bas arracher ton amant ;
+Et, le front couronné de rayons et d\'étoiles,
+Quittons ce vil limon pour le bleu firmament.
+Dans notre élan sacré, montons, montons encore !
+Dépassons les soleils, atteignons l\'infini !
+Qu\'en toi de plus en plus l\'amour qui te dévore
+Resplendisse, et qu\'au seuil de l\'éternelle aurore,
+Tu me jettes à Dieu, palpitant, ébloui ! ---
+Reste donc, ô Paolo, sous les divins portiques.
+Tu peux prier ici, prier à deux genoux ;
+Et ton encens à Dieu semblera le plus doux.
+Arrière le soudard, sur les dalles antiques,
+Qui, riant, fait sonner son bruyant éperon,
+Qui jette effrontément à ces vierges pudiques
+Ses obscènes lazzi, ses rires de démon !
+Arrière le damné, le cavalier infâme,
+Ivre, qui se trompant, prend la maison de Dieu
+Pour l\'ignoble boudoir de quelque mauvais lieu,
+Et vient traîner son corps dans le temple de l\'âme !
+Mais toi, mon doux enfant, qui dans l\'ombre ne veux
+Que l\'adorer de loin, toi dont l\'âme est si pure,
+Dont le doigt n\'oserait toucher sa chevelure,
+Oh ! demeure : les saints chanteront dans les cieux.
+Car, vois-tu, le Seigneur, non pas ce Dieu colère
+Qu\'un prêtre sans l\'enfer ne saurait nous montrer,
+Mais le Dieu de bonté, le Seigneur notre père,
+Doit sourire en voyant deux enfants s\'adorer.
+La chapelle pâlit et le dernier cantique
+A cessé de vibrer dans l\'église gothique.
+La vierge, se signant une dernière fois,
+Du chapelet bénit vient de baiser la croix ;
+Et, lente, dans la nuit, la pieuse assemblée
+S\'éloigne à pas discrets, en silence et voilée.
+Paolo qui, du regard, caressait doucement
+La fille aux cheveux blonds, Paolo le tendre amant,
+Lorsqu\'il vit se lever sa chère bien-aimée
+Et qu\'elle vint à lui, légère et parfumée,
+Se blottit, plein d\'effroi, derrière un vieux tombeau,
+Et ramena sur lui les plis de son manteau.
+Certes, le pauvre enfant fut mort, si son amante
+Eut su qu\'il était là, dans l\'ombre palpitant ;
+Mais, vague, elle passa, comme une ombre flottante,
+En l\'effleurant au pied de son long vêtement.
+Et l\'amant tressaillit et, courbé sur les dalles,
+Il adora le sol qu\'avaient touché ses pas.
+Voyant à la lueur des lampes sépulcrales
+Une rosé échappée à ses mains virginales,
+Il la vola, guettant pour qu\'on ne le vit pas.
+Puis, il l\'entra dans l\'ombre où, se cachant encore,
+Il baisa cette fleur, craintif et frémissant ;
+Et, réveillant l\'écho de la voûte sonore,
+Pour revoir son amante il s\'enfuit en courant
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909120 .pcalibre .calibre2 .pcalibre1}[III]{#_Toc368909060 .pcalibre .calibre2 .pcalibre1} {#iii .calibre42 .sigil_not_in_toc}
+
+Depuis deux ans, Paolo suivait ainsi Marie ;
+Depuis bientôt deux ans, le soleil le trouvait
+À la porte du vieil hôtel où la chérie,
+Dans son repos d\'enfant, souriante, rêvait ;
+Et l\'étoile du soir, dans quelque recoin sombre,
+Le surprenait encore, caché, rêvant dans l\'ombre,
+Les yeux sur la fenêtre où, vague, par moment,
+Une l\'orme aux longs plis glissait confusément.
+Il s\'était fait son chien ; il restait des journées
+À l\'attendre, pour voir flotter sur ses cheveux
+Du ruban de velours le noeud capricieux ;
+Et, derrière un vieux mur, ces heures fortunées,
+Paolo pour son salut ne les eut pas données.
+Puis, dès qu\'il l\'avait vue, il tâchait de savoir
+À quelle heure, en quels lieux, il pourrait la revoir,
+Pourtant, nul ne savait pourquoi, sous la charmille,
+Paolo restait rêveur jusqu\'à la fin du jour.
+Il était si prudent, le doux coureur de fille,
+Que Marie elle-même ignorait son amour.
+Non, jamais le regard de la blonde madone,
+Ce long regard songeur, ne s\'était un instant
+Doucement reposé sur le front de l\'enfant.
+Jamais, sous les bandeaux, son oreille mignonne,
+Dans l\'ombre des maisons, le soir n\'avait surpris
+De lointains bruits de pas sur la dalle affaiblis.
+Jamais son jeune sein, en se gonflant plus vite,
+Pour un chant, un bouquet, ce beau sein qui palpite,
+N\'avait dit à son cœur, dans un doux battement,
+Qu\'auprès d\'elle toujours frémissait un amant.
+0 vierge de seize ans, frêle bouton de rose,
+0 fleur humide encore des baisers de la nuit,
+Dont pour le vent d\'été la feuille reste close
+Et reçois sans frémir le papillon qui fuit !
+Tu ne vois pas briller, quand tu tournes la tête,
+Ce long regard d\'amour qui cherche en vain le tien ;
+Tu n\'entends pas ces mots que, frissonnant, répète
+Ce grand jeune homme pâle au débile maintien.
+Et pourtant si c\'était le bonheur de ta vie
+Que tes yeux et ta main venaient de dédaigner ;
+Si nul tressaillement n\'avait fait deviner
+A ton cœur que dans l\'ombre, était l\'âme choisie ;
+Si, tout près de fleurir, l\'herbe allait se faner\...
+Oh ! pour tes pleurs futurs, enfants, qu\'on te pardonne !
+À peine as-tu seize ans, et ton front chaque soir
+Ne connaît qu\'un baiser que ta mère te donne ;
+L\'amour n\'a pas encore embelli ta couronne :
+Tu fus méchante et folle, enfant, sans le savoir.
+Bien des fois cependant, sur sa tête brûlante.
+Paolo laissant courir le souffle de minuit,
+Sans pouvoir apaiser sa fièvre dévorante,
+S\'asseyait et pleurait comme un enfant maudit.
+Hélas ! pauvre rêveur, la vision s\'efface.
+La lumière n\'est plus, les feuilles ont jauni ;
+Et les souffles du nord dispersent dans l\'espace
+Les parfums de la fleur et les chansons du nid.
+Tu n\'es plus dans les champs, mais sur la dalle nue,
+Posant parfois la tête aux bornes de la rue.
+Tu n\'es plus au désert, dans les herbes perdu.
+Entends-tu ces cris sourds ? dans la fange, vois-tu,
+Affreuses, se traîner ces femmes en guenilles,
+Êtres sans nom, jadis rieuses jeunes filles ?
+Vois-tu ces noirs ruisseaux, sources d\'impureté,
+Qui ne sauraient croupir que dans une cité ?\...
+C\'était un songe, enfant. Marie est sur sa couche,
+Et son ange gardien veille encore au chevet.
+Ce doux titre d\'amant, ce n\'était pas sa bouche
+Qui tantôt sur les fleurs tout bas te le donnait.
+Nul songe ne la berce en lui disant : Je t\'aime.
+Ne t\'ayant jamais vu, souriante, elle dort\...
+--- Oh ! non, murmura-t-il, je ne lui dirai pas,
+Que dans chaque sentier je la suis pas à pas.
+Jour de Dieu ! si mon ange allait perdre ses ailes !
+S\'il n\'était pas celui qu\'il me fallait aimer !
+Au lieu de tout bénir, si j\'allais blasphémer,
+Prostituer mon corps, ces guenilles mortelles,
+Et sentir en pleurant mon âme se fermer !
+Si les pleurs des vieillards sur leurs amours passées
+Étaient des pleurs qu\'arrache un amer souvenir !
+S\'il était vrai qu\'un jour les âmes sont lassées
+Et que l\'amour s\'apaise ainsi qu\'un vil désir !
+Mais peut-être jamais ma lèvre sur sa lèvre
+Ne la ferait trembler d\'une amoureuse fièvre.
+Peut-être elle fuirait, comme un lutin railleur,
+Ou passerait, superbe et le front sans rougeur.
+Peut-être elle rirait\... Oh ! le rire, le rire !
+Vent maudit qui soufflette et qui glace le sang,
+Arrête sur la lèvre un mot qu\'on allait dire,
+Passe, fait chanceler et fuir en pâlissant !
+Oh ! le rire moqueur de celle qu\'on adore,
+Que tout semble écouter et jeter aux échos,
+Que dans la solitude on croit trouver encore,
+Railleur autour de soi, sous la roche sonore,
+Derrière le vieux chêne et parmi les roseaux !
+--- Je blasphème peut-être, ô ma sainte madone !
+Toi mon ange si pur, hélas ! je te soupçonne,
+Je t\'accuse d\'avoir un cœur méchant et fier.
+Oh ! ne m\'écoute pas, mon amie, et pardonne :
+Vois-tu, je suis enfant de ce siècle de fer ?
+Oui, je doute de tout : de la mère penchée
+Sur le bord du berceau, gardant son nourrisson ;
+De la source limpide ou la fange est cachée
+Peut-être sous les fleurs qui parent le gazon.
+Je doute des lambris suspendus sur ma tête ;
+Je doute du plancher qui se trouve sous moi,
+Des fleurs et des parfums, du ciel pur d\'une fête
+Du Christ au Golgotha, de sa divine loi :
+Je doute de moi-même et je doute de toi !
+Je t\'ai rêvée, enfant, si céleste et si belle,
+Que la moindre souillure à ton blanc vêtement
+Me semblerait, hélas ! une tache éternelle ;
+Et de ton piédestal, ainsi qu\'un marbre frêle,
+A mes pieds tu viendrais te briser en tombant.
+Reste parmi tes fleurs, reste avec l\'auréole
+Qui, dans ma longue extase, orne ton front serein.
+Qu\'importe pour t\'aimer une vaine parole,
+Une étreinte, un regard ; laissons la vierge folle
+Prostituer ses yeux, ses lèvres et sa main.
+Je t\'aime ainsi, cachant ma joie et ma souffrance ;
+Je t\'aime belle, chaste, ignorant mon amour ;
+Je t\'aime et t\'aimerai, saintement, en silence,
+Dès l\'aurore rêvant jusqu\'à la fin du jour.
+C\'est maintenant, Don Juan, à toi que je m\'adresse.
+Ne fus-tu pas ce fou qui, du Nord au Midi,
+Superbe et désolé, traîna derrière lui,
+Comme un roi son manteau, sa fougueuse tendresse ?
+De cette pourpre usée et tombant en haillons,
+Qui jeta des lambeaux sur chaque épaule nue,
+Drapa de son amour la première venue,
+Prêtresse de l\'orgie ou vierge aux cheveux blonds ?
+Ne fus-tu pas ce fou qui, la gorge brûlante,
+Au festin d\'ici-bas vint un jour s\'attabler,
+Sur chaque verre d\'or posant sa lèvre ardente,
+Les boire tour à tour sans cesser de brider ?
+Son oeil la caressait, lorsque, vermeille et pleine,
+Scintillait près de lui la coupe du voisin.
+Il la volait, après avoir vidé la sienne,
+Avide, tarissait la liqueur d\'une baleine,
+Et vers d\'autres bientôt il allongeait la main.
+Hélas ! c\'est qu\'il cherchait un nectar que la terre
+Ne peut comme le ciel verser à son enfant.
+Au fond il découvrait toujours la lie amère
+Et, brisant de dégoût le vase sur la pierre,
+II s\'élançait encore, espérant et buvant.
+Tant qu\'il put avancer, il marcha dans la vie,
+Étouffant chaque fleur sous le baiser d\'un jour,
+Laissant derrière lui l\'herbe jaune et flétrie ;
+Et sa gorge en mourant, râla, dans l\'agonie,
+Dans un dernier blasphème un dernier cri d\'amour !
+Ah ! sublime rêveur, chercheur infatigable,
+Qui, te heurtant toujours à la réalité,
+Qui toujours bâtissant sur une mer de sable
+Et voyant chaque soir l\'édifice emporté,
+Te remettais à l\'œuvre et, de tes mains tremblantes,
+Soutenais vainement les murailles croulantes !
+Toi qu\'une vision ne pouvait contenter,
+Qui, sous des traits humains voulait aimer cet ange
+Que, vague, te montrait ta rêverie étrange,
+Et vivre dans les cieux avant que d\'y monter !
+Oh ! dis-moi, bien souvent, dans ta course insensée,
+N\'as-tu pas regretté la vierge aux pas tremblants,
+Qui, le front sous les fleurs et la tête baissée,
+Dans ton sentier de mousse un jour était passée,
+Alors que dans tes yeux rayonnaient tes seize ans ?
+N\'as-tu pas regretté cette heure chaste et pure
+Où ton premier amour, comme un encens divin,
+S\'échappait de ton cœur, empêchant la souillure
+De monter jusqu\'à toi des égouts du chemin ?
+Ces temps de sainte peur où ton âme ignorante
+Ne cherchait pas encore un mutuel amour,
+Où tu voyais en rêve une vierge riante
+Et, naïf, adorais comme une seule amante
+Le songe de la nuit et la femme du jour ?
+Ah ! s\'il t\'était permis de revivre une vie,
+Si tu brisais du front la dalle du tombeau,
+Si, Dieu le désirant, tes seize ans de nouveau
+Mettaient un frais sourire à ta lèvre pâlie ;
+Toi le hardi Don Juan, toi le larron d\'honneur,
+Le héros des balcons, des échelles de soie,
+Qui, s\'il l\'eût bien voulu, du trône du Seigneur,
+Convoitant une vierge, eut arraché sa proie :
+Ne l\'aimerais-tu pas, cette timide enfant ?
+N\'irais-tu pas trembler, blotti sur son passage,
+Puis, quand elle aurait fui, te cacher le visage
+Pour la revoir encore, souriant et pleurant ?
+Dis ? ne voudrais-tu pas l\'adorer en silence,
+Lui laisser ignorer ton nom et ton amour,
+En avare garder cette ardente souffrance
+Que l\'on souffre la nuit dans l\'attente du jour ?
+Tu resterais sans voix devant cette madone ;
+Oui, tu préférerais ce beau songe doré,
+Toi qui sus quel limon la réalité donne,
+Qui, pour avoir tenté, mourus désespéré.
+Tu l\'aimerais, Don Juan, mon amante inconnue,
+Toujours, et sans vouloir que son corps fut souillé,
+Sans chercher à mêler, sur sa poitrine nue,
+Dans un baiser son âme à ton âme éperdue :
+Tu l\'aimerais, Don Juan, près d\'elle agenouillé !
+
+
+::: WordSection
+[
+]{.calibre40}
+
+!{.calibre32}
+
+OEUVRE POÉTIQUE ET LYRIQUE
+
+L'AMOUREUSE COMÉDIE
+
+Paolo (Fragments)
+
+
+[[Liste des oeuvres poétiques et lyriques](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre36 .calibre30 .sgc-1}
+
+]{.calibre31} [!{.calibre32}]{.calibre31}
+
+### []{#_Toc368909121 .pcalibre .calibre2 .pcalibre1}[IV]{#_Toc368909061 .pcalibre .calibre2 .pcalibre1} {#iv .calibre42 .sigil_not_in_toc}
+
+C\'est auprès d\'un rempart, noirci, rongé de lierres,
+Dont le vent chaque jour ébranle quelques pierres,
+Dans un recoin perdu de l\'antique cité,
+Où les lézards craintifs glissent en liberté.
+De vieux hôtels verdis, des dalles ébréchées,
+Des colonnes gisant, dans les herbes couchées ;
+Un silence que rompt de loin en loin les pas
+D\'un passant égaré.
+Cette sombre masure
+Dont les vieux murs ont peine à porter la toiture,
+Depuis quelque cent ans qui se dresse là-bas,
+Sur le bord d\'un ruisseau, dans la ronce et l\'ortie,
+Est la noire demeure où sommeille Marie.
+Les cieux sont étoilés et, des prochains sillons,
+Vient avec ce parfum le sauge et d\'églantine
+Qui s\'élève des bois quand le soleil décline,
+Le chant continuel et strident des grillons.
+Voici minuit qui sonne à l\'église voisine.
+Le son pleure, s\'éteint : le silence est profond.
+Comme un divin flambeau, derrière la colline,
+La lune lentement montre son pâle front..
+Ces lieux tristes le jour, tristes comme la plaine
+Que vient de dévaster l\'orageux aquilon,
+À cette heure de nuit, de lumière incertaine,
+De silence et de paix, ont la sainte beauté
+Des marbres des tombeaux dans leur tranquillité.
+Paolo, resté caché parmi de vieilles dalles,
+S\'approche enfin du seuil aux marches inégales,
+Lentement et craignant qu\'un regard curieux
+Ne le guette dans l\'ombre et ne lise en ses yeux.
+Il se couche à demi, comme le chien fidèle
+Qui garde le sommeil de son maître adoré,
+Il se couche en travers sur la porte de celle
+Dont même pour l\'amour le repos est sacré.
+Ses regards sont rêveurs ; la fraîcheur est si douée,
+Le ciel si lumineux, le pavé si désert !
+Derrière le rempart, comme un lointain concert,
+Chante une voix d\'oiseau gazouillant dans la mousse.
+Tranquillité sacrée, es-tu pas le bonheur ?
+Calme, pâle clarté, chant voilé de la lyre,
+Êtes-vous pas le ciel, vous qui faites sourire
+Cet enfant amoureux courbant son front rêveur ?
+Longtemps, il demeura sur cette dure pierre,
+Plongeant ses doigts fiévreux dans le froid du gazon ;
+Longtemps, le même rêve à sa longue paupière
+Mit une douée larme, une larme de mère
+Aux premiers pas tremblants que fait son nourrisson.
+Quel était donc ce rêve ? et pourquoi ce sourire ?
+On ne sait. Il resta des heures sans rien dire.
+Puis, il saisit le seuil de ses bras convulsifs,
+Et baisa la poussière où les pas de Marie
+S\'étaient la veille empreints, tout petits et craintifs.
+D\'une pointe de fer, sur la dalle noircie,
+Paolo se mit ensuite à graver quelques mots.
+Il travailla longtemps, jusqu\'aux clartés naissantes,
+Au fond de ce désert, ou des brises errantes
+Dans l\'ombre soupiraient leurs amoureux sanglots.
+Et, lorsqu\'il se leva, qu\'aux rayons de la lune
+Il vit les mots blanchir sur cette marche brune ;
+Lorsqu\'il put épeler, d\'un ton tremblant et doux,
+Au seuil du vieux logis ce qu\'il venait d\'écrire,
+Il entendit l\'écho lentement le redire.
+--- Je t\'aime ! --- Et, sur le seuil, il fléchit les genoux.
+Oh ! Seigneur, Dieu puissant, créateur de ces mondes
+Qu\'enflamma ton baleine, éclatantes lueurs ;
+Toi qui, d\'un simple geste, animes et fécondes
+Nos ténébreux néants, nos poussières immondes,
+Qui tiras du limon de saints adorateurs !
+Toi, le sublime Artiste, amant de l\'harmonie,
+Créant des univers qui les créa parfaits,
+Qui depuis la forêt à la gerbe fleurie,
+Depuis le noir torrent à la goutte de pluie,
+Dans un ordre divin répandis tes bienfaits !
+Toi, le Seigneur d\'amour, de vie et d\'espérance,
+Qui ne dus pas jeter, en un jour de malheur,
+Sur des êtres mortels l\'immortelle souffrance,
+Et lancer loin de toi, dans la carrière immense,
+Le monde, sans prêter l\'oreille à sa douleur !
+Maître, toi qui voulus que cette créature,
+Dont le front a gardé l\'empreinte de ta main,
+Sous ton souffle marchant dans ta sainte nature,
+Rencontrât sous ses pas des tapis de verdure,
+Pour reposer ses pieds des ronces du chemin !
+A l\'homme triste et seul, toi qui donnas la femme,
+Qui secouas sur eux ton céleste flambeau,
+D\'une pure étincelle, échappée à sa flamme,
+Qui fis jaillir l\'amour, et qui leur mis dans l\'âme
+En même temps le bon et le juste et le beau !
+Qui cachas sous les fleurs les sanglantes épines,
+Qui par pitié pour nous, dans ta sainte bonté,
+Nous montras ce rayon des voluptés divines,
+Et voulus que l\'amant, dans nos temps de ruines,
+Fût le dernier croyant de ta divinité !
+Oh ! mon père, merci ! Laisse courber la tête
+A l\'enfant qui jamais ne la courbe au saint lieu ;
+Laisse le chant d\'amour que ma lèvre te jette,
+Monter jusqu\'à tes pieds, comme un hymne de fête
+Laisse-moi reconnaître et mon âme et mon Dieu !
+Oui, je bénis ta droite, à genoux je t\'adore.
+Je me prosterne au sein de ta création.
+Mon âme est immortelle, un Dieu la fit éclore :
+Le feu qui me dévore
+Ne saurait s\'échapper d\'un infâme limon !
+Cet amour qui me brûle est la flamme divine
+Qui depuis six mille ans régit cet univers.
+Sur les chants d\'ici-bas, c\'est le chant qui domine,
+Et mon âme devine
+Un puissant Créateur dans ces divins concerts !
+Oui, je te reconnais, toi qui mis dans mon être
+Ce feu pur dont l\'ardeur me rapproche de toi.
+Je ne maudirai plus le jour qui m\'a vu naître,
+Et je veux, ô mon Maître,
+Comme un timide enfant me courber sous ta loi !
+Je m\'incline devant ta sainte Providence,
+Je comprends les parfums, les chants et la clarté,
+Et je comprends en toi la suprême puissance,
+L\'éternelle clémence,
+Pour verser à nos coeurs l\'éternelle beauté !
+Oui, si tu lis nos corps d\'eau saumâtre et de fange,
+Tu voulus partager ton haleine avec nous ;
+Car je me sens ici mener un songe étrange
+Et vouloir comme un ange
+Monter avec Marie au ciel, à tes genoux !
+Je sens que cette haleine est une âme immortelle.
+Que la terre n\'est pas son bien-aimé séjour,
+Que, jointe à l\'âme soeur, l\'éternité l\'appelle,
+Et qu\'il faut qu\'un coup d\'aile
+Nous emporte à tes pieds pour nous donner l\'amour !
+Ah ! pour l\'éternité qu\'errantes dans les nues,
+Nos âmes, se mêlant dans un baiser de feu,
+Sans les honteux désirs de nos chairs éperdues,
+Dans la bière étendues,
+Aiment de ton amour, ô mère de mon Dieu !
+
+1860\.
+
+
+::: WordSection
+*[
+]{.calibre44}*
+
+
+[[Liste des oeuvres poétiques et lyriques]{.calibre28}](../Text/Zola7_split_000.htm){.pcalibre .calibre2 .pcalibre1}[

@@ -1,0 +1,82 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "THÉRÈSE RAQUIN"
+slug_oeuvre: "therese-raquin"
+section: "Chapitre 12"
+slug_section: "chapitre-12"
+type: "chapitre"
+---
+
+!
+
+ROMANS
+
+THÉRÈSE RAQUIN
+
+Liste des romans
+
+ !
+
+## XII
+Laurent, dans le coin sombre de la voiture publique qui le ramena à Paris, acheva de mûrir son plan. Il était presque certain de l'impunité. Une joie lourde et anxieuse, la joie du crime accompli, l'emplissait. Arrivé à la barrière de Clichy, il prit un fiacre, il se fit conduire chez le vieux Michaud, rue de Seine. Il était neuf heures du soir.
+
+Il trouva l'ancien commissaire de police à table, en compagnie d'Olivier et de Suzanne. Il venait là, pour chercher une protection, dans le cas où il serait soupçonné, et pour s'éviter d'aller annoncer lui-même l'affreuse nouvelle à Mme Raquin. Cette démarche lui répugnait étrangement ; il s'attendait à un tel désespoir qu'il craignait de ne pas jouer son rôle avec assez de larmes ; puis la douleur de cette mère lui était pesante, bien qu'il s'en souciât médiocrement au fond.
+
+Lorsque Michaud le vit entrer vêtu de vêtements grossiers, trop étroits pour lui, il le questionna du regard. Laurent fit le récit de l'accident, d'une voix brisée, comme tout essoufflé de douleur et de fatigue.
+
+--- Je suis venu vous chercher, dit-il en terminant, je ne savais que faire des deux pauvres femmes si cruellement frappées... Je n'ai point osé aller seul chez la mère. Je vous en prie, venez avec moi.
+
+Pendant qu'il parlait, Olivier le regardait fixement, avec des regards droits qui l'épouvantaient. Le meurtrier s'était jeté, tête baissée, dans ces gens de police, par un coup d'audace qui devait le sauver. Mais il ne pouvait s'empêcher de frémir, en sentant leurs yeux qui l'examinaient ; il voyait la méfiance où il n'y avait que de la stupeur et de la pitié. Suzanne, plus frêle et plus pâle, était près de s'évanouir. Olivier, que l'idée de la mort effrayait et dont le cœur restait d'ailleurs parfaitement froid, faisait une grimace de surprise douloureuse, en scrutant par habitude le visage de Laurent, sans soupçonner le moins du monde la sinistre vérité. Quant au vieux Michaud, il poussait des exclamations d'effroi, de commisération, d'étonnement ; il se remuait sur sa chaise, joignait les mains, levait les yeux au ciel.
+
+--- Ah ! mon Dieu, disait-il d'une voix entrecoupée, ah ! mon Dieu, l'épouvantable chose !... On sort de chez soi, et l'on meurt, comme ça, tout d'un coup... C'est horrible... Et cette pauvre Mme Raquin, cette mère, qu'allons-nous lui dire ?... Certainement, vous avez bien fait de venir nous chercher... Nous allons avec vous...
+
+Il se leva, il tourna, piétina dans la pièce pour trouver sa canne et son chapeau, et, tout en courant, il fit répéter à Laurent les détails de la catastrophe, s'exclamant de nouveau à chaque phrase.
+
+Ils descendirent tous quatre. À l'entrée du passage du Pont-Neuf, Michaud arrêta Laurent.
+
+--- Ne venez pas, lui dit-il ; votre présence serait une sorte d'aveu brutal qu'il faut éviter... La malheureuse mère soupçonnerait un malheur et nous forcerait à avouer la vérité plus tôt que nous ne devons la lui dire... Attendez-nous ici.
+
+Cet arrangement soulagea le meurtrier, qui frissonnait à la pensée d'entrer dans la boutique du passage. Le calme se fit en lui, il se mit à monter et à descendre le trottoir, allant et venant en toute paix. Par moments, il oubliait les faits qui se passaient, il regardait les boutiques, sifflait entre ses dents, se retournait pour voir les femmes qui le coudoyaient. Il resta ainsi une grande demi-heure dans la rue, retrouvant de plus en plus son sang-froid.
+
+Il n'avait pas mangé depuis le matin ; la faim le prit, il entra chez un pâtissier et se bourra de gâteaux.
+
+Dans la boutique du passage, une scène déchirante se passait. Malgré les précautions, les phrases adoucies et amicales du vieux Michaud, il vint un instant où Mme Raquin comprit qu'un malheur était arrivé à son fils. Dès lors, elle exigea la vérité avec un emportement de désespoir, une violence de larmes et de cris qui firent plier son vieil ami. Et, lorsqu'elle connut la vérité, sa douleur fut tragique. Elle eut des sanglots sourds, des secousses qui la jetaient en arrière, une crise folle de terreur et d'angoisse ; elle resta là étouffant, jetant de temps à autre un cri aigu dans le grondement profond de sa douleur. Elle se serait traînée à terre, si Suzanne ne l'avait prise à la taille, pleurant sur ses genoux, levant vers elle sa face pâle. Olivier et son père se tenaient debout, énervés et muets, détournant la tête, émus désagréablement par ce spectacle dont leur égoïsme souffrait.
+
+Et la pauvre mère voyait son fils roulé dans les eaux troubles de la Seine, le corps roidi et horriblement gonflé ; en même temps, elle le voyait tout petit dans son berceau, lorsqu'elle chassait la mort penchée sur lui. Elle l'avait mis au monde plus de dix fois, elle l'aimait pour tout l'amour qu'elle lui témoignait depuis trente ans. Et voilà qu'il mourait loin d'elle, tout d'un coup, dans l'eau froide et sale, comme un chien. Elle se rappelait alors les chaudes couvertures au milieu desquelles elle l'enveloppait. Que de soins, quelle enfance tiède, que de cajoleries et d'effusions tendres, tout cela pour le voir un jour se noyer misérablement ! À ces pensées, Mme Raquin sentait sa gorge se serrer ; elle espérait qu'elle allait mourir, étranglée par le désespoir.
+
+Le vieux Michaud se hâta de sortir. Il laissa Suzanne auprès de la mercière, et revint avec Olivier chercher Laurent pour se rendre en toute hâte à Saint-Ouen.
+
+Pendant la route, ils échangèrent à peine quelques mots. Ils s'étaient enfoncés chacun dans un coin du fiacre qui les cahotait sur les pavés. Ils restaient immobiles et muets au fond de l'ombre qui emplissait la voiture. Et, par instants, le rapide rayon d'un bec de gaz jetait une lueur vive sur leurs visages. Le sinistre événement, qui les réunissait, mettait autour d'eux une sorte d'accablement lugubre.
+
+Lorsqu'ils arrivèrent enfin au restaurant du bord de l'eau, ils trouvèrent Thérèse couchée, les mains et la tête brûlantes. Le traiteur leur dit à demi-voix que la jeune dame avait une forte fièvre. La vérité était que Thérèse, se sentant faible et lâche, craignant d'avouer le meurtre dans une crise, avait pris le parti d'être malade. Elle gardait un silence farouche, elle tenait les lèvres et les paupières serrées, ne voulant voir personne, redoutant de parler. Le drap au menton, la face à moitié dans l'oreiller, elle se faisait toute petite, elle écoutait avec anxiété ce qu'on disait autour d'elle. Et, au milieu de la lueur rougeâtre que laissaient passer ses paupières closes, elle voyait toujours Camille et Laurent luttant sur le bord de la barque, elle apercevait son mari, blafard, horrible, grandi, qui se dressait tout droit au-dessus d'une eau limoneuse. Cette vision implacable activait la fièvre de son sang.
+
+Le vieux Michaud essaya de lui parler, de la consoler. Elle fit un mouvement d'impatience, elle se retourna et se mit de nouveau à sangloter.
+
+--- Laissez-la, Monsieur, dit le restaurateur, elle frissonne au moindre bruit... Voyez-vous, elle aurait besoin de repos.
+
+En bas, dans la salle commune, il y avait un agent de police qui verbalisait sur l'accident. Michaud et son fils descendirent, suivis de Laurent. Quand Olivier eut fait connaître sa qualité d'employé supérieur de la Préfecture, tout fut terminé en dix minutes. Les canotiers étaient encore là, racontant la noyade dans ses moindres circonstances, décrivant la façon dont les trois promeneurs étaient tombés, se donnant comme des témoins oculaires. Si Olivier et son père avaient eu le moindre soupçon, ce soupçon se serait évanoui, devant de tels témoignages. Mais ils n'avaient pas douté un instant de la véracité de Laurent ; ils le présentèrent au contraire à l'agent de police comme le meilleur ami de la victime, et ils eurent le soin de faire mettre dans le procès-verbal que le jeune homme s'était jeté à l'eau pour sauver Camille Raquin. Le lendemain, les journaux racontèrent l'accident avec un grand luxe de détails ; la malheureuse mère, la veuve inconsolable, l'ami noble et courageux, rien ne manquait à ce fait divers, qui fit le tour de la presse parisienne et qui alla ensuite s'enterrer dans les feuilles des départements.
+
+Quand le procès-verbal fut achevé, Laurent sentit une joie chaude qui pénétra sa chair d'une vie nouvelle. Depuis l'instant où sa victime lui avait enfoncé les dents dans le cou, il était comme roidi, il agissait mécaniquement, d'après un plan arrêté longtemps à l'avance. L'instinct de la conservation seul le poussait, lui dictait ses paroles, lui conseillait ses gestes. À cette heure, devant la certitude de l'impunité, le sang se remettait à couler dans ses veines avec des lenteurs douces. La police avait passé à côté de son crime, et la police n'avait rien vu ; elle était dupée, elle venait de l'acquitter. Il était sauvé. Cette pensée lui fit éprouver tout le long du corps des moiteurs de jouissance, des chaleurs qui rendirent la souplesse à ses membres et à son intelligence. Il continua son rôle d'ami éploré avec une science et un aplomb incomparables. Au fond, il avait des satisfactions de brute ; il songeait à Thérèse qui était couchée dans la chambre, en haut.
+
+--- Nous ne pouvons laisser ici cette malheureuse jeune femme, dit-il à Michaud. Elle est peut-être menacée d'une maladie grave, il faut la ramener absolument à Paris... Venez, nous la déciderons à nous suivre.
+
+En haut, il parla, il supplia lui-même Thérèse de se lever, de se laisser conduire au passage du Pont-Neuf. Quand la jeune femme entendit le son de sa voix, elle tressaillit, elle ouvrit ses yeux tout grands et le regarda. Elle était hébétée, frissonnante. Péniblement, elle se dressa sans répondre. Les hommes sortirent, la laissant seule avec la femme du restaurateur. Quand elle fut habillée, elle descendit en chancelant et monta dans le fiacre, soutenue par Olivier.
+
+Le voyage fut silencieux. Laurent, avec une audace et une impudence parfaites, glissa sa main le long des jupes de la jeune femme et lui prit les doigts. Il était assis en face d'elle, dans une ombre flottante ; il ne voyait pas sa figure qu'elle tenait baissée sur sa poitrine. Quand il eut saisi sa main, il la lui serra avec force et la garda dans la sienne jusqu'à la rue Mazarine. Il sentait cette main trembler ; mais elle ne se retirait pas, elle avait au contraire des caresses brusques. Et, l'une dans l'autre, les mains brûlaient ; les paumes moites se collaient, et les doigts, étroitement pressés, se meurtrissaient à chaque secousse. Il semblait à Laurent et à Thérèse que le sang de l'un allait dans la poitrine de l'autre en passant par leurs poings unis ; ces poings devenaient un foyer ardent où leur vie bouillait. Au milieu de la nuit et du silence navré qui traînait, le furieux serrement de main qu'ils échangeaient était comme un poids écrasant jeté sur la tête de Camille pour le maintenir sous l'eau.
+
+Quand le fiacre s'arrêta, Michaud et son fils descendirent les premiers. Laurent se pencha vers sa maîtresse, et, doucement :
+
+--- Sois forte, Thérèse, murmura-t-il... Nous avons longtemps à attendre... Souviens-toi.
+
+La jeune femme n'avait pas encore parlé. Elle ouvrit les lèvres pour la première fois depuis la mort de son mari.
+
+--- Oh ! je me souviendrai, dit-elle en frémissant, d'une voix légère comme un souffle.
+
+Olivier lui tendait la main, l'invitant à descendre. Laurent alla, cette fois, jusqu'à la boutique. Mme Raquin était couchée, en proie à un violent délire. Thérèse se traîna jusqu'à son lit, et Suzanne eut à peine le temps de la déshabiller. Rassuré, voyant que tout s'arrangeait à souhait, Laurent se retira. Il gagna lentement son taudis de la rue Saint-Victor.
+
+Il était plus de minuit. Un air frais courait dans les rues désertes et silencieuses. Le jeune homme n'entendait que le bruit régulier de ses pas sonnant sur les dalles des trottoirs. La fraîcheur le pénétrait de bien-être ; le silence, l'ombre lui donnaient des sensations rapides de volupté. Il flânait.
+
+Enfin, il était débarrassé de son crime. Il avait tué Camille. C'était là une affaire faite dont on ne parlerait plus. Il allait vivre tranquille, en attendant de pouvoir prendre possession de Thérèse. La pensée du meurtre l'avait parfois étouffé ; maintenant que le meurtre était accompli, il se sentait la poitrine libre, il respirait à l'aise, il était guéri des souffrances que l'hésitation et la crainte mettaient en lui.
+
+Au fond, il était un peu hébété, la fatigue alourdissait ses membres et ses pensées. Il rentra et s'endormit profondément. Pendant son sommeil, de légères crispations nerveuses couraient sur son visage.

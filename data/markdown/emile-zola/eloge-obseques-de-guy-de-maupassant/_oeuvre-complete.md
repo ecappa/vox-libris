@@ -1,0 +1,72 @@
+::::: WordSection
+# [!{#Image4 .calibre9}]{.calibre8}[ ]{.calibre8} ÉLOGE : OBSÈQUES DE GUY DE MAUPASSANT {#calibre_toc_4 .calibre1}
+
+::: MsoNormal1
+
+------------------------------------------------------------------------
+
+[1893]{.calibre13}
+
+Émile ZOLA
+
+ÉLOGES ET DISCOURS
+
+::: MsoNormal2
+
+------------------------------------------------------------------------
+
+[[[Liste des éloges et discours]{.calibre16 lang="FR"}](../Text/Zola6_split_000.htm){.pcalibre .calibre2 .pcalibre1}]{.calibre2 lang="EN-US" xmlns:xml="http://www.w3.org/XML/1998/namespace"}[
+
+
+:::::
+
+
+::: WordSection
+[
+]{.calibre22}
+
+!{#Image1011 .calibre33}
+
+
+::: WordSection
+*[
+]{.calibre25}*
+
+7 juillet 1893
+
+
+MESSIEURS,
+
+C'est au nom de la Société des Gens de Lettres et de la Société des Auteurs dramatiques que je dois parler. Mais qu'il me soit permis de parler au nom de la littérature française, et que ce ne soit pas le confrère, mais le frère d'armes, l'aîné, l'ami qui vienne ici rendre un suprême hommage à Guy de Maupassant.
+
+J'ai connu Maupassant, il y a dix-huit à vingt ans déjà, chez Gustave Flaubert. Je le revois encore, tout jeune, avec ses yeux clairs et rieurs, se taisant, d'un air de modestie filiale, devant le maître. Il nous écoutait pendant l'après-midi entière, risquait à peine un mot de loin en loin ; mais de ce garçon solide, à la physionomie ouverte et franche, sortait un air de gaîté si heureuse, de vie si brave, que nous l'aimions tous, pour cette bonne odeur de santé qu'il nous apportait. Il adorait les exercices violents ; des légendes de prouesses surprenantes couraient déjà sur lui. L'idée ne nous venait pas qu'il pût avoir un jour du talent.
+
+Et puis éclata *Boule-de-Suif*, ce chef-d'œuvre, cette œuvre parfaite de tendresse, d'ironie et de vaillance. Du premier coup, il donnait l'œuvre décisive, il se classait parmi les maîtres. Ce fut une de nos grandes joies ; car il devint notre frère, à nous tous qui l'avions vu grandir sans soupçonner son génie. Et, à partir de ce jour, il ne cessa plus de produire, avec une abondance, une sécurité, une force magistrale, qui nous émerveillaient. Il collaborait à plusieurs journaux. Les contes, les nouvelles se succédaient, d'une variété infinie, tous d'une perfection admirable, apportant chacun une petite comédie, un petit drame complet, ouvrant une brusque fenêtre sur la vie. On riait et l'on pleurait, et l'on pensait, à le lire. Je pourrais citer tels de ces courts récits qui contiennent, en quelques pages, la moelle même de ces gros livres que d'autres romanciers auraient écrits certainement. Mais il me faudrait tous les citer, et certains ne sont-ils pas déjà classiques, comme une fable de La Fontaine ou un conte de Voltaire ?
+
+Maupassant voulut élargir son cadre, pour répondre à ceux qui le spécialisaient, en l'enfermant dans la nouvelle ; et, avec cette énergie tranquille, cette aisance de belle santé qui le caractérisait, il écrivit des romans superbes, où toutes les qualités du conteur se retrouvaient comme agrandies, affinées par la passion de la vie. Le souffle lui était venu, ce grand souffle humain qui fait les œuvres passionnantes et vivantes. Depuis *Une vie* jusqu'à *Notre Cœur*, en passant par *Bel-Ami*, par *La Maison Tellier* et *Fort comme la Mort*, c'est toujours la même vision forte et simple de l'existence, une analyse impeccable, une façon tranquille de tout dire, une sorte de franchise saine et généreuse qui conquiert tous les cœurs. Et je veux même faire une place à part à *Pierre et Jean*, qui est, selon moi, la merveille, le joyau rare, l'œuvre de vérité et de grandeur qui ne peut être dépassée.
+
+Ce qui nous frappait, nous qui suivions Maupassant de toute notre sympathie, c'est cette conquête si prompte des cœurs. Il n'avait eu qu'à conter ses histoires, les tendresses du grand public étaient aussitôt allées vers lui. Célèbre du jour au lendemain, il ne fut même pas discuté ; le bonheur souriant semblait l\'avoir pris par la main pour le conduire aussi haut qu\'il lui plairait de monter. Je ne connais certainement pas un autre exemple de début si heureux, de succès plus rapides et plus unanimes. On acceptait tout de lui ; ce qui aurait choqué sous la plume d\'un autre passait dans un sourire. Il satisfaisait toutes les intelligences, il touchait toutes les sensibilités, et nous avions ce spectacle extraordinaire d\'un talent robuste et franc, sans concession aucune, qui s\'imposait d\'un coup à l\'admiration, à l\'affection même de ce public lettré, de ce public moyen qui, d\'ordinaire, fait payer si chèrement aux artistes originaux le droit de grandir à part.
+
+Tout le génie propre de Maupassant est dans l\'explication de ce phénomène. S\'il a été, dès la première heure, compris et aimé, c\'était qu\'il apportait l\'âme française, les dons et les qualités qui ont fait le meilleur de la race. On le comprenait parce qu\'il était la clarté, la simplicité, la mesure et la force. On l\'aimait parce qu\'il avait la bonté rieuse, la satire profonde qui, par un miracle, n\'est point méchante, la gaîté brave qui persiste quand même sous les larmes. Il était de la grande lignée que l\'on peut suivre depuis les balbutiements de notre langue jusqu\'à nos jours ; il avait pour aïeux Rabelais, Montaigne, La Fontaine, les forts et les clairs, ceux qui sont la raison et la lumière de notre littérature. Les lecteurs, les admirateurs, ne s\'y trompaient pas ; ils allaient d\'instinct à cette source limpide et jaillissante, à cette belle humeur de la pensée et du style, qui contentait leur besoin. Et ils étaient reconnaissants à un écrivain même pessimiste de leur donner cette heureuse sensation d\'équilibre et de vigueur dans la parfaite clarté des œuvres.
+
+Ah ! la clarté, quelle fontaine de grâce où je voudrais voir toutes les générations se désaltérer ! J'ai beaucoup aimé Maupassant parce qu'il était vraiment, celui-là, de notre sang latin, et qu'il appartenait à la famille des grandes honnêtetés littéraires. Certes, il ne faut point borner l'art : il faut accepter les compliqués, les raffinés et les obscurs ; mais il me semble que ceux-ci ne sont que la débauche ou, s'il on veut, que le régal d'un moment, et qu'il faut bien en revenir toujours aux simples et aux clairs, comme on revient au pain quotidien qui nourrit sans lasser jamais. La santé est là, dans ce bain de soleil, dans cette onde qui nous enveloppe de toutes parts. Peut-être la page de Maupassant que nous admirons, lui a-t-elle coûté un effort. Qu'importe, si cette fatigue n'apparaît pas, si nous sommes réconfortés par le naturel parfait, la tranquille vigueur qui en déborde ! On sort de cette page comme ragaillardi soi-même, avec l'allégresse morale et physique que donne une promenade sous la pleine lumière du jour.
+
+Des années de continuelle production se passaient et Maupassant allait en évoluant peu à peu, vers d'autres terres d'observation. Il avait eu toujours la curiosité des cieux nouveaux, des contrées inconnues. Il voyageait beaucoup, rapportait une vision intense des pays qu'il avait traversés. Son goût de la clarté et de la simplicité lui donnait l'horreur du métier littéraire. Jamais homme n'a senti l'encre moins que lui et il arrivait même à l'affectation de ne jamais parler littérature, de vivre à l'écart du monde des lettres, travaillant par nécessité, disait-il, et non dans un but de gloire. Cela nous étonnait un peu, nous autres, dont l'idée de littérature a mangé l'existence. Pourtant, aujourd'hui, je crois bien qu'il avait raison, et que la vie mérite d'être vécue pour elle-même, en dehors du travail. Il faut aussi la vivre pour la connaître, et il est certain que Maupassant, dans les dernières années, avait singulièrement élargi son monde de paysans et de bourgeois, qu'il avait acquis un sentiment plus délicat et plus profond de la femme, qu'il marchait à des œuvres plus fouillées et plus souples.
+
+Je sais bien que quelques-uns commençaient à regretter le Maupassant des débuts, et moi-même je ne le voyais pas sans inquiétude perdre de son bel équilibre. Mais ce n'est point ici le lieu de juger encore l'ensemble de son œuvre, et, ce qu'on peut dire, c'est que jusqu'au dernier jour, ce prétendu indifférent de la littérature a aimé passionnément son art et qu'il cherchait toujours, qu'il s'efforçait de progresser toujours, avec le sens le plus aiguisé de la vérité humaine.
+
+Il fut comblé de tous les bonheurs, et j'insiste, car la grandeur de la figure qu'il laissera dans la mémoire des hommes est sans doute ici. Je veux le revoir avec son visage riant, certain du triomphe, quand il venait me serrer la main, aux heures joyeuses de la jeunesse. Je veux le revoir plus tard dans son succès, si aisé et si franc, accueilli de tous, fêté, acclamé, porté à la gloire comme un envolement naturel. Il avait toutes les chances, même celle de ne pas faire de jaloux, au milieu d'une victoire si prompte, car il gardait les cœurs qu'il avait conquis ; pas un de ses amis de la première heure ne souffrait de sa fortune, tellement il était resté un sincère et cordial compagnon. Cela paraissait tout naturel qu'il fût comblé par le sort : on ne sentait marcher devant lui que les fées bienfaitrices qui sèment de fleurs la route, jusqu'à quelque couronnement d'apothéose, dans une vieillesse avancée. Surtout on se félicitait de sa santé, qui semblait inébranlable, on le proclamait avec justice le tempérament le mieux pondéré de notre littérature, l'esprit le plus net, la raison la plus saine. Et ce fut alors que l'effroyable coup de foudre le détruisit.
+
+Lui, grand Dieu ! lui frappé de démence ! Tout ce bonheur, toute cette santé coulant d'un coup dans cette abomination ! Il y avait là un tournant de vie si brusque, un abîme si inattendu, que les cœurs qui l'ont aimé, ses milliers de lecteurs, en ont gardé une sorte de fraternité douloureuse, une tendresse décuplée et toute saignante. Je ne veux pas dire que sa gloire avait besoin de cette fin tragique, d'un retentissement si profond dans les intelligences ; mais son souvenir, depuis qu'il a souffert cette passion affreuse de la douleur et de la mort, a pris en nous je ne sais quelle majesté souverainement triste qui le hausse à la légende des martyrs de la pensée. En dehors de sa gloire d'écrivain, il restera comme un des hommes qui ont été les plus heureux et les plus malheureux de la terre, celui où nous sentons le mieux notre humanité espérer et se briser, le frère adoré, gâté, puis disparu, au milieu des larmes.
+
+Et, d'ailleurs, qui peut dire si la douleur et la mort ne savent pas ce qu'elles font ? Certes, Maupassant, qui en quinze années avait publié près de vingt volumes, pouvait vivre et tripler ce nombre et emplir à lui seul tout un rayon de bibliothèque. Mais le dirais-je ? Je suis parfois pris d'une inquiétude mélancolique devant les grosses productions de notre époque. Oui, ce sont de longues et consciencieuses besognes, beaucoup de livres accumulés, un bel exemple d'obstination au travail. Seulement, ce sont là aussi des bagages bien lourds pour la gloire, et la mémoire des hommes n'aime pas à se charger d'un pareil poids. De ces grandes œuvres cycliques il n'est jamais resté que quelques pages. Qui sait si l'immortalité n'est pas plutôt une nouvelle en trois cents lignes, la fable ou le conte que les écoliers des siècles futurs se transmettront, comme l'exemple inattaquable de la perfection classique ?
+
+Et, messieurs, ce serait là la gloire de Maupassant, que ce serait encore la plus certaine et la plus solide des gloires. Qu'il dorme donc son bon sommeil, si chèrement acheté, confiant dans la santé triomphante de l'œuvre qu'il laisse ! Elle vivra, elle le fera vivre. Nous qui l'avons connu, nous resterons le cœur plein de sa robuste et douloureuse image. Et, dans la suite des temps, ceux qui ne le connaîtront que par ses œuvres l'aimeront pour l'éternel chant d'amour qu'il a chanté à la vie.
+
+
+::: WordSection
+[
+]{.calibre32}
+
+
+[[Liste des éloges et discours]{.calibre28}](../Text/Zola6_split_000.htm){.pcalibre .pcalibre1}[

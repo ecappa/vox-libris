@@ -1,0 +1,24 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LA RIVIÈRE"
+slug_oeuvre: "la-riviere"
+section: "Chapitre 06"
+slug_section: "chapitre-06"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+LA RIVIÈRE
+
+[Liste des contes et nouvelles
+
+!
+
+## VI
+Et c'est pourquoi je souhaite souvent, à cette heure que je suis mon maître, de m'anéantir dans un coin perdu, au bord d'une berge en fleurs, entre deux vieux troncs de saule. Il faut si peu de place à l'homme pour la paix éternelle ! Les vaines disputes de ce monde ne me passionneraient plus. Je me coucherais sur le dos, j'étendrais mes bras dans l'herbe, et je dirais à la bonne nature de me prendre et de me garder.
+
+Liste des contes et nouvelles[

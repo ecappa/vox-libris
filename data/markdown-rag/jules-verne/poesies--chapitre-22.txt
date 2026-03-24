@@ -1,0 +1,27 @@
+---
+auteur: "Jules Verne"
+slug_auteur: "jules-verne"
+oeuvre: "POÉSIES"
+slug_oeuvre: "poesies"
+section: "Chapitre 22"
+slug_section: "chapitre-22"
+type: "chapitre"
+---
+
+]
+
+POÉSIES
+
+Table des poésies
+
+]
+
+## 22 -- Acrostiche
+Hélas ! je l'ai donné mon cœur faible et sans armes,
+Et j'ai fié mon âme entière en ta bonté :
+Regarde : je n'ai plus que la joie et les larmes,
+Marques d'amour, hélas ! ou d'infidélité.
+Il te faut décider ce que ton cœur t'inspire ;
+Ne va plus épargner ma joie ou mes douleurs !...
+Il me reste pour toi pour t'aimer un sourire...
+Et c'est pour ton refus que j'ai gardé mes pleurs !

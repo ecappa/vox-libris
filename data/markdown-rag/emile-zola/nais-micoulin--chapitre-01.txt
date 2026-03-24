@@ -1,0 +1,22 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "NAÏS MICOULIN"
+slug_oeuvre: "nais-micoulin"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+!
+
+CONTES ET NOUVELLES
+
+NAÏS MICOULIN
+
+[Liste des contes et nouvelles
+
+!
+
+## Présentation
+L'histoire se situe en Provence. Elle raconte les amours d'une jeune servante, Naïs et de son maître, un jeune étudiant capricieux. Zola a rédigé cette nouvelle en 1877, après la publication de *l'Assommoir*.

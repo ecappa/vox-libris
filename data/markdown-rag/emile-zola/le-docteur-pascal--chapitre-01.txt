@@ -1,0 +1,28 @@
+---
+auteur: "Émile Zola"
+slug_auteur: "emile-zola"
+oeuvre: "LE DOCTEUR PASCAL"
+slug_oeuvre: "le-docteur-pascal"
+section: "Chapitre 01"
+slug_section: "chapitre-01"
+type: "chapitre"
+---
+
+LE DOCTEUR PASCAL
+
+## Dédicace
+A la Mémoire
+
+de
+
+MA MÈRE
+
+et à
+
+MA CHÈRE FEMME
+
+Je dédie ce roman
+
+qui est le résumé et la conclusion
+
+de toute mon œuvre

@@ -1,0 +1,167 @@
+### [[Chapitre 9 -- Un désastre]{lang="X-NONE" xmlns:xml="http://www.w3.org/XML/1998/namespace"}]{#_Toc342942922 .pcalibre2 .pcalibre1} {#chapitre-9-un-désastre .calibre171 .sigil_not_in_toc}
+
+L\'interruption du courant de la station hydroélectrique ne dura pas longtemps. Supprimé le 9 avril, vers midi, le courant était rendu dès le lendemain matin.
+
+C\'est qu\'en effet Harry Killer était la première victime de cette manoeuvre, qu\'il avait d\'abord crue fort habile. S\'il ne fournissait plus à l\'Usine l\'énergie dont elle avait besoin, celle-ci ne lui rendait plus, en revanche, aucun des services qu\'il en recevait d\'ordinaire.
+
+Les machines agricoles, privées des ondes qui leur donnaient la vie, s\'étaient arrêtées subitement.
+
+Les pompes électriques qui puisaient l\'eau dans la rivière pour la refouler dans deux réservoirs, l\'un situé dans l\'Usine même, d\'où elle se rendait dans un autre placé au-dessus de la caserne de la Garde noire, avaient également cessé de fonctionner. En deux jours, ce second réservoir, d\'où l\'eau était distribuée partout, serait épuisé, et Blackland manquerait d\'eau. Enfin, quand la nuit fut venue, on avait été privé de lumière électrique, et, comme on ne possédait aucun autre moyen d\'éclairage, toute la ville fut plongée dans l\'obscurité, ce dont Harry Killer enrageait d\'autant plus qu\'il voyait, pendant ce temps, l\'Usine illuminée et défendue par les feux de ses puissants projecteurs.
+
+Comprenant que la partie n\'était pas égale, le despote s\'était résigné à rendre, dès l\'aube du 10 avril, le courant qu\'il avait supprimé le jour précédent. En même temps, il appela au téléphone Marcel Camaret, qui se trouvait précisément alors dans son cabinet de travail avec ceux qu\'il avait accepté de protéger. On entendit l\'ingénieur répondre, comme la veille, les « oui », les « non », les « bon ! », qui sont monnaie courante de ces sortes de conversation dont une moitié reste forcément inconnue des auditeurs, et, comme la veille, celui-ci se mit à rire, en interrompant brusquement le dialogue.
+
+D\'après le résumé qu\'il en donna, Harry Killer et lui avaient conclu un accord. Il était convenu que le premier rétablirait le courant de la station hydroélectrique, et que l\'Usine assurerait, de son côté, comme d\'habitude, les services généraux de Blackland. Cet accord, d\'ailleurs, ne modifiait en rien le surplus de la situation, qui ne laissait pas d\'être fort singulière. La paix était limitée au contrat intervenu. Pour le reste, c\'était toujours la guerre. Harry Killer persistait notamment à réclamer les prisonniers, et Marcel Camaret à refuser de les livrer.
+
+
+Sur ce point, Marcel Camaret, soucieux, et de ménager sa réserve de force motrice, et de ne pas fournir à l\'ennemi des armes aussi puissantes, avait refusé net. De là, violente colère du despote, qui avait juré de le réduire par la famine. C\'est alors que l\'ingénieur avait raccroché le téléphone, en riant de cette menace aussi vaine à ses yeux que les précédentes.
+
+Ses auditeurs la prirent, au contraire, fort au sérieux. Si l\'Usine paraissait réellement inexpugnable, en raison des armes défensives imaginées par Camaret, celui-ci semblait beaucoup moins riche en armes offensives, et encore ne voulait-il à aucun prix se servir de celles qu\'il possédait. Dans ces conditions, la situation pouvait se prolonger indéfiniment, et, dès lors, un jour viendrait où la faim obligerait l\'Usine à capituler.
+
+Camaret, à qui Barsac soumit cette réflexion, haussa les épaules. -- Nous avons des vivres pour longtemps, assura-t-il.
+
+--- Pour combien de temps ? Insista Barsac.
+
+Camaret eut un geste évasif.
+
+--- Je ne sais pas exactement. Quinze jours, peut-être trois semaines. Cela n\'a aucune importance, puisque, dans quarante-huit heures, nous aurons terminé un planeur que nous avons en construction. Dès à présent, je vous invite aux essais, que nous ferons de nuit, afin de ne pas être aperçus du Palais, et qui auront lieu après-demain, 12 avril, à quatre heures du matin.
+
+C\'était là une heureuse nouvelle, à laquelle les prisonniers étaient loin de s\'attendre. La possession de ce planeur améliorait certainement leur situation dans une large mesure. Apporterait-il, cependant, le salut ?
+
+--- Il y a plus de cent personnes dans l\'Usine, fit remarquer Barsac. Si puissant soit-il, votre planeur ne pourra emmener tout le monde.
+
+--- Il portera seulement dix personnes, répondit Camaret, non compris le conducteur, ce qui n\'est déjà pas mal.
+
+--- Certes ! Approuva Barsac, et pourtant c\'est encore insuffisant pour nous tirer d\'affaire.
+
+--- Nullement, répliqua Camaret. D\'ici Saye, il y a environ trois cent cinquante kilomètres à vol d\'oiseau, et sept cents d\'ici Tombouctou, qui serait peut-être préférable. Comme on ne voyagerait que pendant la nuit, afin d\'éviter les torpilles, le planeur pourrait faire, en vingt-quatre heures, trois voyages à Saye ou deux à Tombouctou. Les cent cinquante personnes auxquelles j\'évalue approximativement la population de l\'Usine, femmes et enfants compris, seraient donc délivrées en cinq jours dans le premier cas, et en moins de huit, dans le second.
+
+L\'énoncé de ce plan, très réalisable, en effet, atténua les craintes que les menaces d\'Harry Killer avaient fait naître, et l\'on attendit impatiemment de pouvoir le mettre à exécution.
+
+Les deux jours qu\'il leur fallait attendre parurent interminables aux assiégés. Ils occupèrent le temps de leur mieux, et, le plus souvent, en promenades dans le jardin, à l\'abri du mur qui les dissimulait à la vue du Palais. M. Poncin, en particulier, y restait du matin au soir. Constamment penché sur les diverses plantes qui le garnissaient, il procédait à des mesures qu\'il lisait à la loupe, à de minutieuses pesées à l\'aide d\'une petite balance de précision.
+
+--- Que diable faites-vous là ? lui demanda Florence, qui le surprit livré à cette occupation.
+
+--- Mon métier, monsieur Florence, répondit M. Poncin, non sans importance.
+
+--- De la statistique ? interrogea Florence étonné.
+
+--- Pas autre chose. Je suis en train d\'établir, tout simplement, le nombre d\'habitants que pourrait nourrir la boucle du Niger.
+
+--- Ah ! Ah ! toujours la boucle, dit Amédée Florence, qui ne paraissait pas apprécier bien vivement les travaux de son interlocuteur. Ici, pourtant, nous n\'y sommes plus, dans cette fameuse boucle, ce me semble.
+
+--- Il n\'est pas défendu de procéder par analogie, professa doctoralement M. Poncin.
+
+--- « Courtisans ! Attablés dans la splendide orgie ! » prononça une voix derrière eux.
+
+À ce vers des *Châtiments* amenés par la rime, Amédée Florence reconnut le docteur Châtonnay. C\'était bien lui, en effet.
+
+--- Que faites-vous là ? demanda l\'excellent homme, achevant ainsi son apostrophe.
+
+--- M. Poncin m\'expose ses méthodes de statistique, répondit Florence d\'un ton sérieux. Continuez donc, M. Poncin, je vous prie.
+
+--- C\'est fort simple, expliqua celui-ci. Voici un pied d\'épinard, il occupe un décimètre carré. Un peu plus loin, voici un chou-fleur ; il occupe quatre décimètres carrés. J\'ai mesuré cent plantes choisies au hasard, et j\'ai fait la moyenne des surfaces occupées par elles. J\'ai également mesuré leur pousse quotidienne. Cette salade, par exemple, elle a augmenté exactement de quatre grammes neuf cent vingt-sept milligrammes depuis hier. Bref ! J\'ai reconnu, ma-thé-ma-ti-que-ment reconnu, que l\'accroissement journalier moyen s\'élevait à vingt-deux milligrammes par centimètre carré. -- Très curieux, déclara sans broncher le docteur Châtonnay.
+
+--- N\'est-ce pas ? Ces questions scientifiques sont toujours très intéressantes, dit M. Poncin qui se rengorgea. La boucle du Niger comptant cinq cent quarante-six trillions de centimètres carrés, sa production sera donc, quotidiennement, de douze millions douze mille tonnes et annuellement de un milliard cent quarante-quatre millions trois cent quatre-vingt mille tonnes.
+
+--- « Je ne puis vous celer que ce calcul m\'étonne », chantonna le docteur, en parodiant un vers de Corneille que l\'assonance lui remettait en mémoire.
+
+--- Sachant la quantité de nourriture nécessaire pour assurer la vie d\'un seul homme, il sera facile d\'en déduire la population qui peut subsister dans la boucle du Niger, conclut M. Poncin avec aplomb. Tels sont les services que la science est capable de rendre, et ainsi notre temps de détention ne sera pas entièrement perdu.
+
+--- Grâce à vous, monsieur Poncin, déclarèrent à l\'unisson Amédée Florence et le docteur, qui laissèrent le statisticien à ses savantes déductions.
+
+Heure par heure, la journée du 10, puis celle du 11, s\'écoulèrent.
+
+Un incident, d\'ailleurs sans gravité, interrompit la monotonie de cette dernière. Vers cinq heures de l\'après-midi, on informa Camaret que la pompe refoulant l\'eau de la rivière dans le réservoir ne fonctionnait plus. Vérification faite, l\'ingénieur reconnut que la nouvelle était exacte. La pompe était affolée, comme si elle eût tourné à vide, sans avoir à vaincre aucune résistance. Sur son ordre, on procéda au démontage du piston, dont les garnitures, probablement endommagées, ne devaient plus s\'appliquer exactement sur la paroi du cylindre. Il ne s\'agissait, en somme, que d\'une réparation insignifiante, qui serait achevée en moins de quarante-huit heures.
+
+Avant l\'aube du lendemain, se termina enfin cette attente énervante. Ainsi qu\'on peut le croire, personne ne manqua au rendez-vous, malgré l\'heure matinale fixée par Marcel Camaret. De son côté, celui-ci avait tenu sa promesse. Quand on arriva dans le jardin, où l\'essai devait avoir lieu, le planeur y était déjà transporté par les ouvriers qui l\'avaient construit.
+
+L\'ingénieur monta sur la plate-forme, et mit le moteur en marche. Quelques minutes s\'écoulèrent, trop lentement au gré des spectateurs, qui redoutaient une déception toujours possible. Ils furent bientôt rassurés. L\'appareil s\'enleva tout à coup sans effort, puis, déployant ses ailes, il glissa sur les couches d\'air et revint se poser juste à l\'endroit d\'où il était parti. Marcel Camaret, emmenant cette fois dix hommes avec lui, s\'éleva de nouveau, et, à trois reprises, accomplit le tour entier du jardin. L\'expérience était concluante.
+
+--- Ce soir, à neuf heures, le premier départ, annonça-t-il en descendant de la plate-forme.
+
+Alors, tout fut oublié, le siège, la captivité, ces jours d\'inquiétude et d\'ennui.
+
+Dans quelques heures, ce cauchemar serait fini. On serait libre. On se congratulait, on se félicitait réciproquement, pendant que les mécaniciens rentraient le planeur dans sa remise, d\'où il sortirait, la nuit venue, pour s\'envoler vers Tombouctou.
+
+L\'évacuation de l\'Usine devant exiger plusieurs jours, les travaux habituels ne furent pas interrompus. On acheva donc, notamment, pendant cette journée du 12 avril, le démontage de la pompe. Quand il fut terminé, force fut de constater qu\'elle n\'avait aucune avarie. Il fallait donc chercher ailleurs la cause du trouble, et, pour l\'instant, il n\'y avait qu\'à la remonter, travail qui fut entrepris sur-le-champ.
+
+À huit heures et demie du soir, l\'obscurité étant complète, Marcel Camaret donna enfin le signal du départ. Depuis longtemps déjà, les huit prisonniers échappés aux griffes d\'Harry Killer et deux femmes d\'ouvriers, qui devaient former le premier convoi, attendaient dans le jardin, d\'où, sous la direction d\'un conducteur éprouvé, le planeur allait s\'envoler. Obéissant à l\'ordre de leur chef, une dizaine de mécaniciens se dirigèrent vers la remise. Ils en ouvrirent la porte\...
+
+Ce fut à cet instant précis qu\'arriva le désastre.
+
+Au moment où la porte s\'ouvrait, une formidable explosion retentit tout à coup. La remise s\'effondra comme un château de cartes. À sa place, il n\'y avait plus qu\'un monceau de décombres.
+
+Après un instant de stupeur bien naturelle, on se précipita au secours des dix ouvriers. Fort heureusement, sauf l\'un d\'eux légèrement blessé, ils étaient indemnes, l\'explosion s\'étant produite avant qu\'ils fussent entrés dans la remise.
+
+Mais, bien qu\'ils n\'eussent pas de mort à déplorer, ce n\'en était pas moins un grand malheur, un irréparable désastre même, qui atteignait les assiégés.
+
+Il n\'en subsistait que des débris inutilisables.
+
+--- Rigaud, dit Camaret avec le calme qui ne le quittait jamais dans les circonstances vraiment graves, fais commencer le déblaiement. Il faut connaître la cause de cette explosion.
+
+On attaqua l\'amoncellement de ruines au point même qu\'occupait le planeur. Les bras étaient nombreux, et le travail avança rapidement. Vers onze heures, cette partie du sol de la remise était à nu, et l\'on y constatait l\'existence d\'une profonde excavation.
+
+--- De la dynamite, dit froidement Camaret. Elle n\'est pas venue toute seule, je suppose.
+
+Les taches de sang qui constellaient les décombres prouvant que l\'explosion avait fait des victimes, le déblaiement fut continué avec la même ardeur. On commença bientôt, en effet, à faire de macabres trouvailles. Un peu avant minuit, ce fut la jambe déchiquetée d\'un nègre. Puis, ce fut un bras violemment arraché, et enfin on découvrit la tête de ce corps mutilé.
+
+Amédée Florence, qui, en bon reporter, suivait attentivement les travaux, reconnut sur-le-champ le lugubre trophée.
+
+--- Tchoumouki ! s\'écria-t-il sans hésiter.
+
+Il expliqua à Camaret qui était ce Tchoumouki, un traître passé du service de miss Buxton à celui d\'Harry Killer. Dès lors, tout s\'expliquait. Tchoumouki était évidemment, à la fois, l\'auteur et la première victime de l\'explosion. Restait à savoir comment il avait pénétré dans l\'Usine.
+
+Dans tous les cas, puisqu\'il était entré, d\'autres pouvaient le suivre par la même voie. Il importait donc d\'en ôter la velléité aux adversaires, en les frappant d\'une salutaire terreur.
+
+Dans ce but, les misérables restes de Tchoumouki furent, par ordre de Camaret, jetés par-dessus le mur, sur l\'esplanade, où les gens d\'Harry Killer ne pourraient manquer de les trouver.
+
+Ils apprendraient ainsi d\'indubitable manière que s\'introduire dans l\'Usine n\'était pas sans danger.
+
+Cependant, le déblaiement continuait. Les ouvriers faisant la chaîne, les décombres s\'amoncelaient dans le jardin, et une plus grande surface du sol de la remise se découvrait peu à peu.
+
+--- En voici un autre ! s\'écria tout à coup l\'un des travailleurs.
+
+Marcel Camaret s\'approcha. Un pied humain apparaissait, en effet, entre les pierres. En quelques instants, le corps tout entier fut mis à découvert. C\'était un Blanc dans la force de l\'âge, dont l\'épaule avait été affreusement broyée par la chute de la toiture.
+
+Le docteur Châtonnay se pencha sur le blessé.
+
+--- Il vit, dit-il.
+
+L\'homme fut retiré des décombres et transporté chez Camaret, où le docteur appliquerait un premier pansement. Le lendemain, on procéderait à son interrogatoire, s\'il avait la force de parler.
+
+--- Et s\'il y consent, fit observer Amédée Florence.
+
+--- Je me charge de l\'y faire consentir, dit Marcel Camaret entre ses dents.
+
+Le déblaiement pouvait être considéré comme terminé. Du moins était-il assez avancé pour qu\'on fût certain que personne ne se trouvait plus sous les ruines. Marcel Camaret interrompit donc le travail et envoya ses ouvriers prendre un repos bien gagné.
+
+À leur exemple, l\'ingénieur et ses hôtes s\'éloignèrent du lieu du désastre et se dirigèrent, en passant par le jardin, vers leurs chambres respectives.
+
+Mais, au bout de quelques pas, Amédée Florence s\'arrêta, et s\'adressant à Camaret :
+
+--- Qu\'allons-nous faire, monsieur, maintenant que nous voici sans planeur ? lui demanda-t-il.
+
+--- Nous en fabriquerons un autre, répondit Camaret.
+
+--- Vous en avez les éléments ? interrogea Barsac.
+
+--- Certes.
+
+--- Combien de temps vous faudra-t-il ?
+
+--- Deux mois.
+
+--- Hum !\... fit simplement Florence, qui, sans insister, se remit en marche, tout pensif.
+
+Deux mois !\... Et l\'on avait quinze jours de vivres ! Pour sortir de ce dilemme, le reporter était déjà à la recherche d\'une idée.
+
+
+]{.calibre20}
+
+
+L\'ÉTONNANTE AVENTURE DE LA MISSION BARSAC
+
+Deuxième partie
+
+
+]{.calibre20}
